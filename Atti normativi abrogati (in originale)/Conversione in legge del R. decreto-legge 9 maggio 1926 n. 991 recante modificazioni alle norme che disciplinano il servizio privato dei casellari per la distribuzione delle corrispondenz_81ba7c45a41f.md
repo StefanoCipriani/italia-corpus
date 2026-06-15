@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge n. 991 del 9 maggio 1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-09;991), recante modificazioni alle norme che disciplinano il servizio privato dei casellari per la distribuzione delle corrispondenze postali. 
+ E' convertito in legge il [R. decreto-legge n. 991 del 9 maggio 1926](Modificazioni%20alle%20norme%20che%20disciplinano%20il%20servizio%20privato%20dei%20cesellari%20per%20la%20distribuzione%20delle%20corrispondenze%20postali.%20026U0991.md), recante modificazioni alle norme che disciplinano il servizio privato dei casellari per la distribuzione delle corrispondenze postali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

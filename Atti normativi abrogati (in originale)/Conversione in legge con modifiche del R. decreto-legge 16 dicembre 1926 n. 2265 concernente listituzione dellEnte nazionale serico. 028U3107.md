@@ -70,7 +70,7 @@ E' istituito, con sede in Roma, l'Ente nazionale serico avente lo scopo:
  
  Spetta al Comitato esecutivo deliberare sulle spese, nonche' su ogni altro argomento che interessi l'attivita' dell'Ente e che non sia riservato alla competenza del Consiglio di amministrazione. 
  
- Spettano inoltre al Comitato esecutivo l'assunzione, il licenziamento e la fissazione del trattamento del personale. A detto personale si applica la disposizione dell'[art. 1 del R. decreto-legge 20 marzo 1924, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-03-20;501#art_1), relativo al personale non operaio. 
+ Spettano inoltre al Comitato esecutivo l'assunzione, il licenziamento e la fissazione del trattamento del personale. A detto personale si applica la disposizione dell'[art. 1 del R. decreto-legge 20 marzo 1924, n. 501](Riduzione%20dellaliquota%20di%20ricchezza%20mobile%20sui%20salari%20degli%20operai%20delle%20aziende%20esercenti%20ferrovie%20tramvie%20urbane%20ed%20intercomunali%20e%20linee%20di%20navigazione%20interna%20esercite%20da%20Comuni%20e%20Pro_8b18558df28a.md), relativo al personale non operaio. 
  
  L'assunzione ed il licenziamento del personale di servizio potranno essere deferiti al segretario generale, il quale provvedera' nei limiti dell'organico. 
  
@@ -123,7 +123,7 @@ E' istituito, con sede in Roma, l'Ente nazionale serico avente lo scopo:
  
  A tal fine saranno sottoposti a revisione, per essere messi in armonia con le nuove norme, i regolamenti e le convenzioni particolari che dall'Ente suddetto fossero stati emanati o stipulati anteriormente alla pubblicazione della presente legge. 
  
- Ove, in seguito alla revisione suddetta, fosse chiesta dal personale la rescissione del contratto di impiego, le indennita' relative saranno liquidate in base a quelle previste dal [R. decreto-legge 13 novembre 1924, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-13;1825). 
+ Ove, in seguito alla revisione suddetta, fosse chiesta dal personale la rescissione del contratto di impiego, le indennita' relative saranno liquidate in base a quelle previste dal [R. decreto-legge 13 novembre 1924, n. 1825](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md). 
  
  Art. 16 
  

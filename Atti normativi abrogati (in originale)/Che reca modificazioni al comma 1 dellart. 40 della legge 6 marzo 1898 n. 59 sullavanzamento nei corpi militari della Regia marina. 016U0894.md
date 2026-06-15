@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Per la categoria meccanici del corpo R. equipaggi la permanenza minima e il periodo minimo d'imbarco in ciascun grado, necessari per poter conseguire l'avanzamento al grado superiore, rimangono anche durante la presente guerra, in deroga alle disposizioni del [1° comma dell'art. 40 della legge 6 marzo 1898, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;59#art_40-com1), stabiliti dalla seguente tabella: 
+Per la categoria meccanici del corpo R. equipaggi la permanenza minima e il periodo minimo d'imbarco in ciascun grado, necessari per poter conseguire l'avanzamento al grado superiore, rimangono anche durante la presente guerra, in deroga alle disposizioni del [1° comma dell'art. 40 della legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md), stabiliti dalla seguente tabella: 
  
  TABELLA 
  

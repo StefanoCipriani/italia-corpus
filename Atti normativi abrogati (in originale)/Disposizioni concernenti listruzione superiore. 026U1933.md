@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102), e le sue successive modificazioni;
+Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e le sue successive modificazioni;
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-L'[art. 10 del R. decreto 30 settembre 1923, n.2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_10), e' sostituito dal seguente: 
+L'[art. 10 del R. decreto 30 settembre 1923, n.2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
  
  «Il Consiglio di amministrazione e' cosi' composto; 
  
@@ -53,7 +53,7 @@ I rettori delle Regie universita' e i direttori dei Regi istituti superiori, pre
 
 ## Art. 3.
 
-Il penultimo comma dell'[art. 19 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_19), e' sostituito dal seguente: 
+Il penultimo comma dell'[art. 19 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
  
  «Nelle more del giudizio per il conferimento della stabilita' i professori sono considerati, a tutti gli effetti, in servizio attivo.
 Il conferimento della stabilita' ha effetto dal giorno successivo a quello in cui il professore ha compiuto il triennio ed eventualmente il quinquennio di servizio come professore non stabile. 
@@ -64,7 +64,7 @@ Il conferimento della stabilita' ha effetto dal giorno successivo a quello in cu
 
 ## Art. 4.
 
-L'[art. 20 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_20), modificato dall'[art. 13 del R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_13), e' sostituito dal seguente: 
+L'[art. 20 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), modificato dall'[art. 13 del R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_13), e' sostituito dal seguente: 
  
  «I professori di ruolo possono col loro consenso essere trasferiti ad una cattedra della stessa materia. 
  
@@ -84,14 +84,14 @@ L'[art. 10 del R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/u
  
  «Ai posti vacanti presso ciascuna Facolta' o Scuola si provvede con nuove nomine o con trasferimenti. 
  
- «Spetta alla Facolta' o Scuola di deliberare sul modo di provvedere stabilmente ai posti disponibili. Le relative deliberazioni debbono essere prese non oltre il 15 ottobre, quando trattisi di nuove nomine da farsi per concorso, non oltre il 15 novembre nei casi di trasferimento o di nomina a norma dell'art. 17, 2° comma, del [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102). 
+ «Spetta alla Facolta' o Scuola di deliberare sul modo di provvedere stabilmente ai posti disponibili. Le relative deliberazioni debbono essere prese non oltre il 15 ottobre, quando trattisi di nuove nomine da farsi per concorso, non oltre il 15 novembre nei casi di trasferimento o di nomina a norma dell'art. 17, 2° comma, del [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
  «Quando le deliberazioni delle Facolta' o Scuole riguardino nuove nomine da farsi per concorso, esse devono essere approvate dal Consiglio superiore della pubblica istruzione. 
  
  «I concorsi vengono banditi entro il mese di dicembre di ciascun anno, e le nomine conseguenti hanno decorrenza non anteriore al 16 ottobre e non posteriore al 1° dicembre dell'anno successivo.
 Superato questo termine, le nomine avranno effetto entro il corrispondente periodo dell'anno seguente. 
  
- «I trasferimenti e le nomine per l'[art. 17, comma 2°, del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_17-com2), hanno decorrenza non anteriore al 16 ottobre e non posteriore al 1° dicembre di ciascun anno».
+ «I trasferimenti e le nomine per l'[art. 17, comma 2°, del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), hanno decorrenza non anteriore al 16 ottobre e non posteriore al 1° dicembre di ciascun anno».
 
 ## Art. 6.
 
@@ -117,7 +117,7 @@ A chiunque ricopra ufficio comunque retribuito a carico del bilancio dello Stato
 
 ## Art. 9.
 
-Alla tabella D annessa al [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102), e sue successive modificazioni, sono apportate le seguenti variazioni: 
+Alla tabella D annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e sue successive modificazioni, sono apportate le seguenti variazioni: 
  
  Cagliari - Facolta' di giurisprudenza, n. 11; 
  
@@ -139,7 +139,7 @@ Alla tabella D annessa al [R. decreto 30 settembre 1923, n. 2102](https://www.no
  
  Roma - Scuola d'ingegneria, n. 15. 
  
- Ai posti di direttore dei Regi osservatori astronomici di cui alla tabella n. 31 allegata al [R. decreto 11 novembre 1923, n. 2395, e all'art. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_21) del [R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604), e' aggiunto un posto di direttore del Regio osservatorio vesuviano. Conseguentemente il numero dei posti dei professori delle Regie universita' e degli Istituti d'istruzione superiore di cui alla tabella 31 annessa al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e sue successive modificazioni, e' portato complessivamente a 765.
+ Ai posti di direttore dei Regi osservatori astronomici di cui alla tabella n. 31 allegata al [R. decreto 11 novembre 1923, n. 2395, e all'art. 21](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) del [R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604), e' aggiunto un posto di direttore del Regio osservatorio vesuviano. Conseguentemente il numero dei posti dei professori delle Regie universita' e degli Istituti d'istruzione superiore di cui alla tabella 31 annessa al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e sue successive modificazioni, e' portato complessivamente a 765.
 
 ## Art. 10.
 
@@ -152,13 +152,13 @@ Il direttore anzidetto, nella gestione tecnica e amministrativa dell'Osservatori
  In caso di vacanza del posto, l'incarico della direzione sara' conferito dal Ministro su designazione del Comitato predetto. 
  
  All'incaricato spetta una retribuzione in ragione di annue L. 4000.
-Al direttore sono deferite le attribuzioni del Comitato tecnico di cui all'[art. 9 del R. decreto 31 dicembre 1923, n. 3160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3160#art_9). 
+Al direttore sono deferite le attribuzioni del Comitato tecnico di cui all'[art. 9 del R. decreto 31 dicembre 1923, n. 3160](Ordinamento%20dei%20Regi%20osservatori%20astronomici%20e%20del%20Regio%20osservatorio%20vesuviano.%20023U3160.md). 
  
- E' abrogato il [R. decreto 29 aprile 1923, n. 1109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-29;1109).
+ E' abrogato il [R. decreto 29 aprile 1923, n. 1109](Che%20sopprime%20il%20posto%20di%20direttore%20dellOsservatorio%20vesuviano%20ed%20affida%20la%20gestione%20tecnica%20ed%20amministrativa%20dellOsservatorio%20stesso%20ad%20un%20Comitato%20vulcanologico.%20023U1109.md).
 
 ## Art. 11.
 
-I ruoli del personale scientifico e tecnico dei Regi ossevatori astronomici e vesuviano e delle Regie scuole di ostetricia di Venezia e Trieste s'intendono ad ogni effetto compresi nei ruoli di cui all'[art. 14 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_14).
+I ruoli del personale scientifico e tecnico dei Regi ossevatori astronomici e vesuviano e delle Regie scuole di ostetricia di Venezia e Trieste s'intendono ad ogni effetto compresi nei ruoli di cui all'[art. 14 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 12.
 

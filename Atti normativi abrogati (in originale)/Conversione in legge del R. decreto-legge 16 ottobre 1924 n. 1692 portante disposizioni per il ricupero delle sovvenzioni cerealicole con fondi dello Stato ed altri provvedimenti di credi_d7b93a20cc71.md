@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto-legge 16 ottobre 1924, n. 1692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-16;1692), portante disposizioni per il recupero delle sovvenzioni cerealicole con fondi dello Stato ed altri provvedimenti di credito agrario, salvo il disposto dell'articolo seguente.
+E' convertito in legge il [R. decreto-legge 16 ottobre 1924, n. 1692](Disposizioni%20per%20il%20recupero%20delle%20sovvenzioni%20cerealicole%20con%20fondi%20dello%20Stato%20ed%20altri%20provvedimenti%20di%20credito%20agrario.%20024U1692.md), portante disposizioni per il recupero delle sovvenzioni cerealicole con fondi dello Stato ed altri provvedimenti di credito agrario, salvo il disposto dell'articolo seguente.
 
 ## Art. 2.
 
-All'[art. 7 del R. decreto-legge 16 ottobre 1924, n. 1692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-16;1692#art_7), e' sostituito il seguente: 
+All'[art. 7 del R. decreto-legge 16 ottobre 1924, n. 1692](Disposizioni%20per%20il%20recupero%20delle%20sovvenzioni%20cerealicole%20con%20fondi%20dello%20Stato%20ed%20altri%20provvedimenti%20di%20credito%20agrario.%20024U1692.md), e' sostituito il seguente: 
  
  «Al risconto del portafoglio agrario, ai sensi dell'[art. 3 del testo unico 9 aprile 1922, n. 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1922-04-09;932#art_3), sono ammessi: 
  

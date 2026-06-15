@@ -44,7 +44,7 @@ All'[art. 3 della legge 21 marzo 1915, n. 301](Che%20porta%20aggiunte%20e%20vari
 
 ## Art. 4.
 
-Al primo comma dell'articolo unico del [R. decreto 30 dicembre 1923, n. 2983](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2983), e' sostituito il seguente: 
+Al primo comma dell'articolo unico del [R. decreto 30 dicembre 1923, n. 2983](Avanzamento%20dei%20colonnelli%20di%20fanteria%20di%20cavalleria%20e%20di%20artiglieria.%20023U2983.md), e' sostituito il seguente: 
  
  «I colonnelli di fanteria, di cavalleria e di artiglieria (ad eccezione di quelli del ruolo tecnico) non possono essere promossi al grado di generale di brigata se, oltre a possedere le qualita' di cui al comma precedente e a dare sicuro affidamento di esercitare in modo assolutamente distinto le funzioni del grado stesso, non abbiano tenuto lodevolmente, per due anni almeno, il comando di reggimento o di reparto autonomo corrispondente o di una scuola centrale, oppure di una scuola allievi ufficiali di complemento e allievi sottufficiali».
 

@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -42,11 +42,11 @@ Sono approvati gli annessi regolamenti:
 
 ## Art. 2. — null
 
-Il regolamento del personale navigante sostituisce ed annulla quello approvato con [R. decreto 25 giugno 1914, n. 707](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-06-25;707).
+Il regolamento del personale navigante sostituisce ed annulla quello approvato con [R. decreto 25 giugno 1914, n. 707](Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20il%20personale%20navigante%20delle%20ferrovie%20dello%20Stato.%20014U0707.md).
 
 ## Art. 3.
 
-Entro sei mesi dalla pubblicazione del presente decreto sara' stabilito il numero dei posti per ciascun grado dei ruoli organici del personale ferroviario e navigante, secondo le norme dell'[art. 53 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_53), modificato dall'art. 9 del presente decreto.
+Entro sei mesi dalla pubblicazione del presente decreto sara' stabilito il numero dei posti per ciascun grado dei ruoli organici del personale ferroviario e navigante, secondo le norme dell'[art. 53 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dall'art. 9 del presente decreto.
 
 ## Art. 4.
 
@@ -54,7 +54,7 @@ Per gli avanzamenti, che siano subordinati alla formazione dei ruoli, le disposi
  
  Le disposizioni relative al funzionamento dei Consigli di disciplina andranno, in vigore dopo che, in seguito alla pubblicazione dei ruoli, saranno stati eletti i rappresentanti del personale nei Consigli stessi. In ogni caso le elezioni non potranno aver luogo se non dopo la cessazione della guerra. 
  
- Gli avventizi stati assunti con regolare atto di sottomissione per funzioni continuative di operaio, aiutante operaio, manovale e cantoniere, di cui al punto 1° del secondo comma dell'art. 2 del regolamento approvato col [R. decreto 22 luglio 1906, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-07-22;417), saranno nominati in prova con decorrenza dal primo del mese successivo all'andata in vigore del presente decreto, se a quella data avranno compiuto o superato lodevolmente un anno di servizio ininterrotto da avventizio e purche' possiedano i requisiti richiesti per la nomina in prova. 
+ Gli avventizi stati assunti con regolare atto di sottomissione per funzioni continuative di operaio, aiutante operaio, manovale e cantoniere, di cui al punto 1° del secondo comma dell'art. 2 del regolamento approvato col [R. decreto 22 luglio 1906, n. 417](Che%20approva%20gli%20annessi%20regolamenti%20pel%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20quello%20addetto%20alla%20navigazione%20sullo%20stretto%20di%20Messina.%20006U0417.md), saranno nominati in prova con decorrenza dal primo del mese successivo all'andata in vigore del presente decreto, se a quella data avranno compiuto o superato lodevolmente un anno di servizio ininterrotto da avventizio e purche' possiedano i requisiti richiesti per la nomina in prova. 
  
  Le disposizioni relative agli esoneri degli agenti per il raggiungimento dei limiti massimi di eta', andranno in vigore non oltre sei mesi dalla pubblicazione del presente decreto. Pero', finche' rimane in vigore la disposizione del [decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625), in forza della quale sono sospese le nomine di nuovi impiegati ed agenti, l'Amministrazione potra' eccezionalmente mantenere in servizio, anche oltre i detti limiti di eta', gli agenti la cui opera sia ritenuta, a suo giudizio, necessaria.
 
@@ -84,29 +84,29 @@ La liquidazione degli arretrati sara' fatta con norme semplificative da approvar
 
 ## Art. 8.
 
-Le norme per il trattamento del personale delle ferrovie secondarie a scartamento ridotto della Sicilia, provvisoriamente esercitate dall'Amministrazione delle ferrovie dello Stato, saranno approvate con decreto Reale, tenuto conto del trattamento del personale delle ferrovie concesse all'industria privata, di cui alla [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835). Por gli stipendi o paghe e per le competenze accessorie si applicheranno le disposizioni dei precedenti articoli 6 e 7. 
+Le norme per il trattamento del personale delle ferrovie secondarie a scartamento ridotto della Sicilia, provvisoriamente esercitate dall'Amministrazione delle ferrovie dello Stato, saranno approvate con decreto Reale, tenuto conto del trattamento del personale delle ferrovie concesse all'industria privata, di cui alla [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md). Por gli stipendi o paghe e per le competenze accessorie si applicheranno le disposizioni dei precedenti articoli 6 e 7. 
  
- Per le assunzioni del personale medesimo si potra' derogare al disposto dell'[art. 55 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_55). 
+ Per le assunzioni del personale medesimo si potra' derogare al disposto dell'[art. 55 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md). 
  
  Il numero dei posti per ciascuna qualifica e' stabilito con deliberazione del Consiglio d'amministrazione, approvata dal ministro e pubblicata nel bollettino ufficiale delle ferrovie dello Stato.
 
 ## Art. 9.
 
-I sottoindicati articoli della [legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429), sono modificati come segue: 
+I sottoindicati articoli della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), sono modificati come segue: 
  
- Art. 6. - (Modificato dal [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728)). 
+ Art. 6. - (Modificato dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md)). 
  
  Il n. 10 del primo comma e' modificato come segue: 
  
  10 - delibera le nomine, le promozioni, gli aumenti anticipati di stipendio o paga, i collocamenti in disponibilita' ed aspettativa e l'esonero definitivo. Per i funzionari di grado uguale o superiore al 1° le attribuzioni del Consiglio di disciplina sono esercitate dal Consiglio di amministrazione, salvo, per la revocazione e la destituzione, quanto e' disposto dall'art. 54. 
  
- Art. 25. - (Modificato dal [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728)). 
+ Art. 25. - (Modificato dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md)). 
  
  Fra il quarto ed il quinto comma viene inserito il seguente comma: 
  
  Le autorita' competenti a pronunciarsi in base alle suindicate norme e regolamentari possono, valutate le circostanze, ridurre, od anche non applicare, l'addebito per il danno dall'Amministrazione. 
  
- Art. 53. - (Modificato dal [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728)). 
+ Art. 53. - (Modificato dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md)). 
  
  Al secondo comma viene sostituito il seguente comma: 
  
@@ -126,7 +126,7 @@ I sottoindicati articoli della [legge 7 luglio 1907, n. 429](https://www.normatt
  
  In quanto ai provvedimenti di carattere disciplinare, tale ricorso e' ammesso nei casi di retrocessione di grado, revocazione e destituzione. 
  
- Art. 81. - (Modificato colla [legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372)). 
+ Art. 81. - (Modificato colla [legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md)). 
  
  I due ultimi comma sono sostituiti dai seguenti comma: 
  
@@ -136,14 +136,14 @@ I sottoindicati articoli della [legge 7 luglio 1907, n. 429](https://www.normatt
 
 ## Art. 10.
 
-Il [primo comma dell'art. 8 della legge 14 luglio 1907, n. 553](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-14;553#art_8-com1), viene sostituito dal seguente comma: 
+Il [primo comma dell'art. 8 della legge 14 luglio 1907, n. 553](Concernente%20i%20provvedimenti%20per%20la%20costruzione%20di%20case%20economiche%20per%20i%20ferrovieri%20con%20capitali%20degli%20Istituti%20di%20previdenza%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato.%20007U0553.md), viene sostituito dal seguente comma: 
  
  Le case economiche saranno date in affitto a ferrovieri in attivita' di servizio aventi stipendio o salario non superiore a L.
 4800.
 
 ## Art. 11.
 
-I sottoindicati articoli della [legge 9 luglio 1908, numero 418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;418), sono modificati come segue: 
+I sottoindicati articoli della [legge 9 luglio 1908, numero 418](Provvedimenti%20per%20le%20pensioni%20e%20per%20il%20trattamento%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20008U0418.md), sono modificati come segue: 
  
  Art. 5. - Il terzo e quarto comma sono sostituiti dai seguenti comma: 
  
@@ -173,7 +173,7 @@ I sottoindicati articoli della [legge 9 luglio 1908, numero 418](https://www.nor
 
 ## Art. 12.
 
-I sottoindicati articoli del testo unico approvato con [R. decreto 22 aprile 1909, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-04-22;229), sono modificati come segue: 
+I sottoindicati articoli del testo unico approvato con [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), sono modificati come segue: 
  
  Art. 5. - Il paragrafo b) e' sostituito dal seguente: 
  
@@ -203,7 +203,7 @@ I sottoindicati articoli del testo unico approvato con [R. decreto 22 aprile 190
 
 ## Art. 13.
 
-Nel testo unico approvato col [R. decreto 22 aprile 1909, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-04-22;229), e' inserito, dopo l'art. 16, il seguente articolo: 
+Nel testo unico approvato col [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), e' inserito, dopo l'art. 16, il seguente articolo: 
  
  Per gli agenti revocati, la pensione od il sussidio per una volta tanto saranno ridotti di un quarto senza che la pensione possa essere inferiore ai tre quarti di L. 400. 
  
@@ -217,7 +217,7 @@ Nel testo unico approvato col [R. decreto 22 aprile 1909, n. 229](https://www.no
 
 ## Art. 14.
 
-Sono abrogati gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-13;310#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-13;310#art_3) e [4 della legge 13 aprile 1911, n. 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-13;310#art_4).
+Sono abrogati gli [articoli 2](Che%20approva%20le%20modificazioni%20allordinamento%20delle%20ferrovie%20dello%20Stato%20ed%20il%20miglioramento%20economico%20del%20personale.%20011U0310.md), [3](Che%20approva%20le%20modificazioni%20allordinamento%20delle%20ferrovie%20dello%20Stato%20ed%20il%20miglioramento%20economico%20del%20personale.%20011U0310.md) e [4 della legge 13 aprile 1911, n. 310](Che%20approva%20le%20modificazioni%20allordinamento%20delle%20ferrovie%20dello%20Stato%20ed%20il%20miglioramento%20economico%20del%20personale.%20011U0310.md).
 
 ## Art. 15.
 
@@ -237,11 +237,11 @@ I seguenti articoli della [legge 10 giugno 1913, n. 641](https://www.normattiva.
 
 ## Art. 16.
 
-E' abrogato l'[art. 11 della legge 23 luglio 1914, numero 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742#art_11).
+E' abrogato l'[art. 11 della legge 23 luglio 1914, numero 742](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md).
 
 ## Art. 17.
 
-Le disposizioni contenute nel presente decreto saranno contemplate nella formazione dei testi unici preveduti dagli [articoli 9 del R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728#art_9), e 26 della [legge 23 luglio 1914, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742). 
+Le disposizioni contenute nel presente decreto saranno contemplate nella formazione dei testi unici preveduti dagli [articoli 9 del R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), e 26 della [legge 23 luglio 1914, n. 742](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md). 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

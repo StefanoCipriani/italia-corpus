@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Viste le [leggi 21 luglio 1910, n. 509, 21 luglio 1911, n. 781, 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89);
 
-Ritenuta la necessita' improrogabile di provvedere alla sistemazione degli uffici di ragioneria del Ministero di grazia e giustizia e dei culti per l'applicazione delle su indicate [leggi 21 luglio 1911, numero 781](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-21;781) sugli economati generali dei benefici va-vanti, e 16 febbraio 1913, n. 89 sul notariato;
+Ritenuta la necessita' improrogabile di provvedere alla sistemazione degli uffici di ragioneria del Ministero di grazia e giustizia e dei culti per l'applicazione delle su indicate [leggi 21 luglio 1911, numero 781](Che%20approva%20i%20provvedimenti%20per%20regolare%20i%20conti%20consuntivi%20degli%20economati%20generali%20dei%20benefici%20vacanti.%20011U0781.md) sugli economati generali dei benefici va-vanti, e 16 febbraio 1913, n. 89 sul notariato;
 
 Udito il Consiglio dei ministri;
 
@@ -46,7 +46,7 @@ Per l'attuazione dell'articolo precedente, nonche' per provvedere al nuovo servi
 
 ## Art. 3.
 
-Per il rimborso al tesoro della maggiore spesa annua di L. 20.500 derivante dalla disposizione del precedente art. 2 (ivi comprese L. 1000 per indennita' al nuovo capo ragioniere) sono aumentati di L. 200 il contributo a Carico degli economati generali dei benefizi vacanti di cui all'[art. 6 della legge 21 luglio 1911, numero 781](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-21;781#art_6), e di L. 18.500 il concorso nella spesa per il personale del Ministero di grazia e giustizia e dei culti a carico del fondo dei sopravanzi degli archivi notarili del Regno. 
+Per il rimborso al tesoro della maggiore spesa annua di L. 20.500 derivante dalla disposizione del precedente art. 2 (ivi comprese L. 1000 per indennita' al nuovo capo ragioniere) sono aumentati di L. 200 il contributo a Carico degli economati generali dei benefizi vacanti di cui all'[art. 6 della legge 21 luglio 1911, numero 781](Che%20approva%20i%20provvedimenti%20per%20regolare%20i%20conti%20consuntivi%20degli%20economati%20generali%20dei%20benefici%20vacanti.%20011U0781.md), e di L. 18.500 il concorso nella spesa per il personale del Ministero di grazia e giustizia e dei culti a carico del fondo dei sopravanzi degli archivi notarili del Regno. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

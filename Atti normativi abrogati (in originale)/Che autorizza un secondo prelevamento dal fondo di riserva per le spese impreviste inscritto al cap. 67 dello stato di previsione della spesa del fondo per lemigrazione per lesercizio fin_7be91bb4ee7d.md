@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Ritenuto che il fondo di riserva per le spese impreviste, stanziato nel bilancio del Fondo per l'emigrazione per il corrente esercizio finanziario presenta la disponibilita' di L. 78.500; 
  
- Vista la [legge 5 gennaio 1919, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1919-01-05;7), che proroga l'esercizio provvisorio del bilancio del Fondo per l'emigrazione per l'esercizio finanziario 1918-919 a tutto il mese di giugno 1919; 
+ Vista la [legge 5 gennaio 1919, n. 7](Concernente%20la%20proroga%20dell%20esercizio%20provvisorio%20del%20bilancio%20del%20fondo%20per%20lemigrazione%20per%20lanno%20finanziario%201918-%20919.%20019U0007.md), che proroga l'esercizio provvisorio del bilancio del Fondo per l'emigrazione per l'esercizio finanziario 1918-919 a tutto il mese di giugno 1919; 
  
  Visto il decreto Ministeriale 17 luglio 1918 registrato alla Corte dei conti il 24 stesso mese, reg. 3, Fondo emigrazione, foglio n. 5; 
  

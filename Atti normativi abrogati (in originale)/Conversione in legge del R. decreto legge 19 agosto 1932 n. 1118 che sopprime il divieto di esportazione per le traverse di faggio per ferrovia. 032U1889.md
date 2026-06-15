@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 agosto 1932, n. 1118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-08-19;1118), che sopprime il divieto di esportazione delle traverse di faggio per ferrovia. 
+ E' convertito in legge il [R. decreto-legge 19 agosto 1932, n. 1118](Soppressione%20del%20divieto%20di%20esportazione%20per%20le%20traverse%20di%20faggio%20per%20ferrovia.%20032U1118.md), che sopprime il divieto di esportazione delle traverse di faggio per ferrovia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

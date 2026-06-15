@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 25 luglio 1956, n. 823](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-25;823), concernente delega al Governo per l'emanazione di nuove norme sulle documentazioni amministrative e sulla legalizzazione di firme;
+Vista la [legge 25 luglio 1956, n. 823](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20nuove%20norme%20sulle%20documentazioni%20amministrative%20e%20sulla%20legalizzazione%20di%20firme.md), concernente delega al Governo per l'emanazione di nuove norme sulle documentazioni amministrative e sulla legalizzazione di firme;
 
 Sentito il Consiglio dei Ministri;
 
@@ -42,14 +42,14 @@ Ai fini dell'art. 4 i documenti ivi previsti sono esibiti al funzionario compete
 
 ## Art. 6.
 
-Le copie di atti o certificati, anche se ottenute con procedimenti meccanici o fotografici ai sensi dell'[articolo 2 della legge 14 aprile 1957, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-04-14;251#art_2), possono essere validamente prodotte in luogo degli originali quando siano debitamente autenticate.
+Le copie di atti o certificati, anche se ottenute con procedimenti meccanici o fotografici ai sensi dell'[articolo 2 della legge 14 aprile 1957, n. 251](Redazione%20a%20macchina%20di%20atti%20pubblici.md), possono essere validamente prodotte in luogo degli originali quando siano debitamente autenticate.
  L'autenticazione di cui al comma precedente puo' essere fatta dal pubblico ufficiale dal quale e' stato emesso l'originale o al quale deve essere prodotto il documento o presso il quale l'originale e' stato depositato, nonche' da un notaio, cancelliere o segretario comunale.
  Con apposito regolamento saranno stabiliti i casi in cui possono essere rilasciate copie di documenti doganali.
 
 ## Art. 7.
 
 In tutti i casi nei quali e' richiesto dalle disposizioni vigenti, l'atto di notorieta' puo' essere supplito da dichiarazione resa e sottoscritta dall'interessato dinanzi al notaio, al segretario comunale o al funzionario competente a ricevere la documentazione.
- In caso di mendaci dichiarazioni, si applicano le pene stabilite dall'[art. 496 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_496).
+ In caso di mendaci dichiarazioni, si applicano le pene stabilite dall'[art. 496 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 8.
 
@@ -78,8 +78,8 @@ Nei casi previsti dagli articoli 9, 10 e 11 si applica al funzionario legalizzan
 
 ## Art. 13.
 
-Nulla e' innovato alle norme del [regio decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238), concernenti la presentazione dei documenti necessari per la celebrazione del matrimonio, nonche' alle norme del [decreto del Presidente della Repubblica 24 giugno 1954, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-06-24;368), e successive, sulla presentazione dei documenti nei concorsi per le carriere statali. 
- Sono abrogate le disposizioni della [legge 3 dicembre 1942, n. 1700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-12-03;1700), incompatibili con quelle del presente decreto.
+Nulla e' innovato alle norme del [regio decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238), concernenti la presentazione dei documenti necessari per la celebrazione del matrimonio, nonche' alle norme del [decreto del Presidente della Repubblica 24 giugno 1954, n. 368](../DPR/Norme%20per%20la%20presentazione%20dei%20documenti%20nei%20concorsi%20per%20le%20carriere%20statali.md), e successive, sulla presentazione dei documenti nei concorsi per le carriere statali. 
+ Sono abrogate le disposizioni della [legge 3 dicembre 1942, n. 1700](Norme%20sulla%20legalizzazione%20di%20firme.%20042U1700.md), incompatibili con quelle del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

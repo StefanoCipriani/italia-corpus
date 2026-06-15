@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  Noi abbiamo sanzionato e promulghiamo quanto segue: 
  Articolo unico. 
  
- Ai carabinieri che contraggono matrimonio e' concessa l'indennita' di alloggio nella stessa misura e con le stesse modalita' e condizioni prescritte dal [R. decreto-legge 20 novembre 1919, n. 2379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-20;2379), per i sottufficiali ed appuntati ammogliati dell'Arma dei carabinieri Reali. 
+ Ai carabinieri che contraggono matrimonio e' concessa l'indennita' di alloggio nella stessa misura e con le stesse modalita' e condizioni prescritte dal [R. decreto-legge 20 novembre 1919, n. 2379](Che%20detta%20norme%20pel%20matrimonio%20dei%20sottufficiali%20del%20R.%20esercito%20e%20degli%20appuntati%20dei%20carabinieri%20Reali.%20019U2379.md), per i sottufficiali ed appuntati ammogliati dell'Arma dei carabinieri Reali. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 7 dicembre 1939-XVIII 
  VITTORIO EMANUELE 

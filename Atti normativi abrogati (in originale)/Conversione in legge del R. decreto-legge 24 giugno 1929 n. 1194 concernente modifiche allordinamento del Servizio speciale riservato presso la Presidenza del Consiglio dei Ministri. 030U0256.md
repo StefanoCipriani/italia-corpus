@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 giugno 1929, n. 1194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-06-24;1194), concernente modifiche all'ordinamento del Servizio speciale riservato presso la Presidenza del Consiglio dei Ministri. 
+ E' convertito in legge il [R. decreto-legge 24 giugno 1929, n. 1194](Modifiche%20allordinamento%20del%20Servizio%20speciale%20riservato%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri.%20029U1194.md), concernente modifiche all'ordinamento del Servizio speciale riservato presso la Presidenza del Consiglio dei Ministri. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

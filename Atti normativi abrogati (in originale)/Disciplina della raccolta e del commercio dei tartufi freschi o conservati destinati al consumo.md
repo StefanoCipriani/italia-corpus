@@ -33,7 +33,7 @@ L'esame per l'accertamento della specie puo' essere fatto a vista in base alle c
 ## Art. 3.
 
 La raccolta dei tartufi e' libera nei boschi naturali e nei terreni incolti, ma il proprietario del terreno puo' riservarsela, con la semplice apposizione di cartelli o tabelle, esenti da qualsiasi tassa e imposta, posti ad almeno 3 metri di altezza dal suolo, lungo il confine del terreno, ad una distanza tale che essi siano visibili da ogni punto di accesso, e che da ogni cartello sia visibile il precedente e il successivo, con la scritta a stampatello bene visibile da terra "Raccolta di tartufi riservata".
- Nulla e' innovato in merito a quanto disposto dagli [articoli 4 della legge 16 giugno 1927, n. 1766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;1766#art_4), e 9 del [regio decreto 26 febbraio 1928, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;332).
+ Nulla e' innovato in merito a quanto disposto dagli [articoli 4 della legge 16 giugno 1927, n. 1766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20maggio%201924%20n.%20751%20riguardante%20il%20riordinamento%20degli%20usi%20civici%20nel%20Regno%20del%20R.%20decreto%2028%20agosto%201924%20n.%201484%20che%20modifica%20lart.%2026%20del%20R.%20decret_728733510b66.md), e 9 del [regio decreto 26 febbraio 1928, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;332).
 
 ## Art. 4.
 
@@ -112,7 +112,7 @@ E' vietato porre in commercio tartufi conservati in recipienti senza etichetta, 
 Ogni violazione delle norme della tutela di legge comporta la confisca del prodotto. 
  Ogni violazione delle disposizioni di cui ai precedenti articoli 3 e 5 e' punita con la sanzione amministrativa da lire 5.000 a lire 50.000. 
  Per dette violazioni e' ammessa la conciliazione avanti all'ispettore compartimentale delle foreste competente per territorio con le modalita' di cui all'articolo 35, secondo e terzo comma, e dei successivi [articoli 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267#art_36) e [37 del regio decreto 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267#art_37). 
- Ogni violazione delle disposizioni di cui agli articoli 9, 10, 11, 12, 13, 14 e 15 e' punita con l'ammenda da lire 40.000 a lire 120.000 salvo non costituisca delitto a norma degli [articoli 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_515) e [516 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_516).
+ Ogni violazione delle disposizioni di cui agli articoli 9, 10, 11, 12, 13, 14 e 15 e' punita con l'ammenda da lire 40.000 a lire 120.000 salvo non costituisca delitto a norma degli [articoli 515](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [516 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -81,7 +81,7 @@ Nel capo X del regolamento per l'esecuzione del testo unico delle leggi sul recl
  
  «§ 392. Ai termini del n. 5 dell'art. 93 della legge, sono da considerarsi come non esistenti nella famiglia dell'inscritto i membri di essa che nel giorno fissato per l'apertura della sessione della leva cui l'inscritto stesso concorre si trovavano condannati a pene criminali, in seguito a sentenza pronunziata prima del 1º gennaio 1890, passata in cosa giudicata, e debbono ancora rimanere dodici anni almeno, decorrendi dal predetto giorno, detenuti nel luogo di pena. 
  
- Per le condanne posteriori al 1° gennaio 1890 si avranno presenti le disposizioni del nuovo [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) corrispondenti a quelle dei codici penali aboliti, giusta le norme del [Regio decreto 1° dicembre 1889 n. 6509](Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md). 
+ Per le condanne posteriori al 1° gennaio 1890 si avranno presenti le disposizioni del nuovo [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) corrispondenti a quelle dei codici penali aboliti, giusta le norme del [Regio decreto 1° dicembre 1889 n. 6509](Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md). 
  
  La prova delle suddette circostanze dovra' farsi mediante produzione di un certificato del direttore dello stabilimento penale, da cui resulti della detenzione del condannato e del tempo di pena che gli resta ancora a scontare». 
  
@@ -179,7 +179,7 @@ I §§ 365 e 371 del succitato regolamento sono aboliti.
 
 Dopo i §§ 364 e 388 del regolamento stesso sono rispettivamente aggiunti i seguenti: 
  
- «§ 364 bis. Prima di procedere alla compilazione della situazione di famiglia, il sindaco dovra' far ben comprendere ai dichiaranti la importanza di tale documento e la responsabilita' che essi assumono con le loro dichiarazioni, ammonendoli che in caso di falsita' verrebbero denunciati all'autorita' giudiziaria e puniti ai termini del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), indipendentemente dall'esclusione dell'inscritto dal beneficio di ottenere l'assegnazione alla 3ª categoria per qualsiasi motivo. 
+ «§ 364 bis. Prima di procedere alla compilazione della situazione di famiglia, il sindaco dovra' far ben comprendere ai dichiaranti la importanza di tale documento e la responsabilita' che essi assumono con le loro dichiarazioni, ammonendoli che in caso di falsita' verrebbero denunciati all'autorita' giudiziaria e puniti ai termini del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), indipendentemente dall'esclusione dell'inscritto dal beneficio di ottenere l'assegnazione alla 3ª categoria per qualsiasi motivo. 
  
  Compilata la situazione di famiglia, si dovra' far precedere alla firma dei dichiaranti, in calce alla situazione stessa, la seguente dichiarazione: 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 6 novembre 1930, n. 1555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-06;1555), contenente proroga di termini relativi ad una operazione di mutuo autorizzata a favore della provincia di Ragusa. 
+ E' convertito in legge il [R. decreto legge 6 novembre 1930, n. 1555](Proroga%20di%20termini%20relativi%20ad%20una%20operazione%20di%20mutuo%20autorizzata%20a%20favore%20della%20provincia%20di%20Ragusa.%20030U1555.md), contenente proroga di termini relativi ad una operazione di mutuo autorizzata a favore della provincia di Ragusa. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

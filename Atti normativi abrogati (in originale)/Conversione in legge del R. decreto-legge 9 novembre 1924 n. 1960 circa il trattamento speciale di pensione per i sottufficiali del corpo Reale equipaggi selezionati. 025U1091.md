@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 novembre 1924, n. 1960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-09;1960), circa il trattamento speciale di pensione per i sottufficiali selezionati del corpo Reale equipaggi. 
+ E' convertito in legge il [R. decreto-legge 9 novembre 1924, n. 1960](Trattamento%20speciale%20di%20pensione%20per%20i%20sottufficiali%20selezionati%20del%20corpo%20Reale%20equipaggi.%20024U1960.md), circa il trattamento speciale di pensione per i sottufficiali selezionati del corpo Reale equipaggi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-27;2074), concernente la trasformazione dell'Archivio provinciale di Caserta in sezione dell'Archivio di Stato di Napoli. 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2074](Trasformazione%20dellarchivio%20provinciale%20di%20Caserta%20in%20sezione%20dellArchivio%20di%20Stato%20di%20Napoli.%20027U2074.md), concernente la trasformazione dell'Archivio provinciale di Caserta in sezione dell'Archivio di Stato di Napoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

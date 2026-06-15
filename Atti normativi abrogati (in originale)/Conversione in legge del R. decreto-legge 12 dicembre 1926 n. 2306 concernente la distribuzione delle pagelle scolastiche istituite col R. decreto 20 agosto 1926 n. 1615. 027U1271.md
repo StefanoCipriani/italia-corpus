@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-12;2306), concernente gli stanziamenti in bilancio necessari per corrispondere l'aggio ai rivenditori delle pagelle scolastiche istituite col [R. decreto-legge 20 agosto 1926, n. 1615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-20;1615), e per le altre spese inerenti alla distribuzione delle pagelle suddette. 
+ E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2306](Misura%20del%20compenso%20da%20corrispondere%20pel%20corrente%20anno%20scolastico%20ai%20rivenditori%20incaricati%20della%20distribuzione%20delle%20pagelle%20scolastiche%20per%20le%20scuole%20elementari.%20026U2306.md), concernente gli stanziamenti in bilancio necessari per corrispondere l'aggio ai rivenditori delle pagelle scolastiche istituite col [R. decreto-legge 20 agosto 1926, n. 1615](Istituzione%20della%20pagella%20scolastica%20per%20gli%20alunni%20delle%20scuole%20elementari.%20026U1615.md), e per le altre spese inerenti alla distribuzione delle pagelle suddette. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

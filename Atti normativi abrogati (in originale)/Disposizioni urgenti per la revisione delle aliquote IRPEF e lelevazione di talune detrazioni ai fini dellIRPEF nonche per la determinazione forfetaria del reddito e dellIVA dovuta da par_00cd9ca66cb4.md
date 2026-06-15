@@ -28,7 +28,7 @@ Titolo I
 
 1.
 
-A decorrere dal 1 gennaio 1989, ai fini dell'imposta sul reddito delle persone fisiche, le aliquote per scaglioni di reddito previste nel comma 1 dell'articolo 11 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), sono sostituite dalle seguenti:
+A decorrere dal 1 gennaio 1989, ai fini dell'imposta sul reddito delle persone fisiche, le aliquote per scaglioni di reddito previste nel comma 1 dell'articolo 11 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono sostituite dalle seguenti:
                             a)
                                 fino a 6 milioni di lire, 10 per cento;
                             b)
@@ -48,13 +48,13 @@ A decorrere dal 1 gennaio 1989, ai fini dell'imposta sul reddito delle persone
 
 1.
 
-Ai fini dell'imposta sul reddito delle persone fisiche, la detrazione per il coniuge a carico non legalmente ed effettivamente separato di cui alla lettera a) del comma 1 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e' elevata per l'anno 1989 a lire 552 mila. La detrazione e' ulteriormente elevata, per l'anno 1990, a lire 600 mila e, a partire dall'anno 1991, a lire 624 mila.
+Ai fini dell'imposta sul reddito delle persone fisiche, la detrazione per il coniuge a carico non legalmente ed effettivamente separato di cui alla lettera a) del comma 1 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' elevata per l'anno 1989 a lire 552 mila. La detrazione e' ulteriormente elevata, per l'anno 1990, a lire 600 mila e, a partire dall'anno 1991, a lire 624 mila.
 
 ### Art. 3.
 
 1.
 
-L'ammontare della detrazione di cui al comma 1 dell'articolo 13 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e' elevato per l'anno 1989 a lire 552 mila. Il predetto ammontare e' ulteriormente elevato, per l'anno 1990, a lire 576 mila e, a partire dall'anno 1991, a lire 600 mila.
+L'ammontare della detrazione di cui al comma 1 dell'articolo 13 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' elevato per l'anno 1989 a lire 552 mila. Il predetto ammontare e' ulteriormente elevato, per l'anno 1990, a lire 576 mila e, a partire dall'anno 1991, a lire 600 mila.
 
 2.
 
@@ -68,7 +68,7 @@ Titolo II
 
 1.
 
-Nel [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633), sono apportate le seguenti modificazioni:
+Nel [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), sono apportate le seguenti modificazioni:
                             a)
                                 dopo l'articolo 30 e' aggiunto il seguente:
  "Art. 30-bis (Applicazione dell'imposta per i contribuenti minimi).
@@ -87,7 +87,7 @@ Per i soggetti che iniziano l'attivita' il volume di affari
 dichiarato in via presuntiva e' ragguagliato ad anno.
  2. Le disposizioni di cui al comma 1 valgono agli effetti della dichiarazione annuale, delle liquidazioni periodiche e dei relativi versamenti di cui agli articoli 28, 30 e 33.
  3. Se nel corso dell'anno il limite di 36 miloni di lire e' superato le disposizioni di cui ai precedenti commi cessano di avere applicazione dalla liquidazione relativa al trimestre nel corso del quale il limite e' superato; tuttavia l'ammontare dell'imposta dovuta per l'anno non puo' essere inferiore a quello dell'imposta calcolata sulla base imponibile, determinata a norma del comma 1, con riferimento ad un volume di affari di 36 milioni di lire.
- 4. Le disposizioni di cui ai commi precedenti non si applicano alle societa', agli enti e alle stabili organizzazioni in Italia di soggetti non residenti di cui all'articolo 87, comma 1, lettere a), b) e d), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917); non si applicano altresi' per le attivita' di cui agli articoli 34, 74 e 74- ter del presente decreto.
+ 4. Le disposizioni di cui ai commi precedenti non si applicano alle societa', agli enti e alle stabili organizzazioni in Italia di soggetti non residenti di cui all'articolo 87, comma 1, lettere a), b) e d), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); non si applicano altresi' per le attivita' di cui agli articoli 34, 74 e 74- ter del presente decreto.
  5. I contribuenti che applicano l'imposta ai sensi del comma 1 non possono avvalersi della facolta' di acquistare o importare beni o servizi senza applicazione dell'imposta di cui ai commi primo, lettera c), e secondo dell'articolo 8 e al comma secondo degli articoli 8- bis e 9 e all'articolo 68, lettera a); le imprese manufatturiere che acquistano rottami o altri beni di cui al sesto comma dell'articolo 74 sono tenute al pagamento della relativa imposta e devono a tal fine tenerne distintamente conto nella liquidazione relativa al periodo in cui sono state annotate le fatture ricevute o emesse.
  6. Le disposizioni del presente articolo non si applicano ai soggetti che optano per l'applicazione dell'imposta nel modo normale nella dichiarazione annuale relativa all'anno precedente ovvero che esercitano tale opzione nella dichiarazione di inizio della attivita'. L'opzione vale per tutte le attivita' esercitate, salvo quanto disposto nel comma 4; essa ha effetto, anche ai fini delle imposte sul reddito, fino a quando non e' revocata e in ogni caso per almeno un triennio.";
                             b)
@@ -97,7 +97,7 @@ dichiarato in via presuntiva e' ragguagliato ad anno.
 
 1.
 
-Il comma 7 dell'articolo 50 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e' sostituito dal seguente:
+Il comma 7 dell'articolo 50 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' sostituito dal seguente:
  "7. Se l'ammontare dei compensi percepiti nel periodo di imposta precedente non e' superiore a 36 milioni di lire, il reddito e' determinato, in deroga alle disposizioni dei precedenti commi, applicando all'ammontare dei compensi i seguenti coefficienti di redditivita':
  a) autori (scrittori, giornalisti,
 pubblicisti e assimilati) per i compensi
@@ -111,20 +111,20 @@ ed assimilati . . . . . . . . . . . . . . . . . . . . . 77 per cento q) altre at
 
 2.
 
-Il contribuente che esercita l'opzione prevista nel [comma 6 dell'articolo 30- bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_30bis-com6), deve darne comunicazione all'ufficio delle imposte con raccomandata entro il 31 marzo secondo modalita' stabilite con decreto del Ministro delle finanze.
+Il contribuente che esercita l'opzione prevista nel [comma 6 dell'articolo 30- bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), deve darne comunicazione all'ufficio delle imposte con raccomandata entro il 31 marzo secondo modalita' stabilite con decreto del Ministro delle finanze.
 
 ### Art. 6.
 
 1.
 
-Nei [commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_18-com1) e [settimo dell'articolo 18 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_18-com7), le parole "settecentottanta milioni" sono sostituite con le parole "trecentosessanta milioni".
+Nei [commi primo](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md) e [settimo dell'articolo 18 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), le parole "settecentottanta milioni" sono sostituite con le parole "trecentosessanta milioni".
 
 2.
 
-Nell'articolo 79 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), sono apportate le seguenti modificazioni:
+Nell'articolo 79 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
                             a)
                                 il comma 1 e' sostituito dal seguente:
- "1. Il reddito di impresa dei soggetti che secondo le norme del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600), sono ammessi al regime di contabilita' semplificata e non hanno optato per il regime ordinario e' costituito dalla differenza tra l'ammontare dei ricavi di cui all'articolo 53 e degli altri proventi di cui agli articoli 56 e 57, comma 1, conseguiti nel periodo d'imposta e l'ammontare delle spese documentate sostenute nel periodo stesso. La differenza e' rispettivamente aumentata e diminuita delle rimanenze finali e delle esistenze iniziali di cui agli articoli 59, 60 e 61 ed e' ulteriormente aumentata delle plusvalenze realizzate ai sensi dell'articolo 54 e delle sopravvenienze attive di cui all'articolo 55 e diminuita delle minusvalenze e sopravvenienze passive di cui all'articolo 66.";
+ "1. Il reddito di impresa dei soggetti che secondo le norme del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), sono ammessi al regime di contabilita' semplificata e non hanno optato per il regime ordinario e' costituito dalla differenza tra l'ammontare dei ricavi di cui all'articolo 53 e degli altri proventi di cui agli articoli 56 e 57, comma 1, conseguiti nel periodo d'imposta e l'ammontare delle spese documentate sostenute nel periodo stesso. La differenza e' rispettivamente aumentata e diminuita delle rimanenze finali e delle esistenze iniziali di cui agli articoli 59, 60 e 61 ed e' ulteriormente aumentata delle plusvalenze realizzate ai sensi dell'articolo 54 e delle sopravvenienze attive di cui all'articolo 55 e diminuita delle minusvalenze e sopravvenienze passive di cui all'articolo 66.";
                             b)
                                 il comma 2 e' abrogato;
                             c)
@@ -142,8 +142,8 @@ Nell'articolo 79 del testo unico delle imposte sui redditi, approvato con [decre
 
 1.
 
-L'articolo 80 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e' sostituito dal seguente:
- "Art. 80 (Imprese minime). - 1. Per le imprese che secondo le norme del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600), sono ammesse al regime di contabilita' semplificata, i cui ricavi conseguiti nel periodo di imposta precedente non hanno superato 36 milioni di lire, il reddito imponibile e' determinato applicando all'ammontare dei ricavi di cui all'articolo 53 i seguenti coefficienti di redditivita' e aggiungendo le plusvalenze patrimoniali di cui all'articolo 54:
+L'articolo 80 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' sostituito dal seguente:
+ "Art. 80 (Imprese minime). - 1. Per le imprese che secondo le norme del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), sono ammesse al regime di contabilita' semplificata, i cui ricavi conseguiti nel periodo di imposta precedente non hanno superato 36 milioni di lire, il reddito imponibile e' determinato applicando all'ammontare dei ricavi di cui all'articolo 53 i seguenti coefficienti di redditivita' e aggiungendo le plusvalenze patrimoniali di cui all'articolo 54:
  a) imprese operanti nel settore
 dell'agricoltura, foreste, caccia e pesca . . . . . . . 34 per cento b) imprese industriali e artigiane operanti nei settori:
  1) alimentare . . . . . . . . . . . . . . . . . . . 36 per cento 2) estrattivo e di trasformazione primaria . . . . 43 per cento 3) manufatturiero . . . . . . . . . . . . . . . . . 53 per cento c) imprese operanti nel settore del commercio
@@ -152,17 +152,17 @@ al minuto . . . . . . . . . . . . . . . . . . . . . . . 29 per cento e) imprese 
 attivita' commerciale . . . . . . . . . . . . . . . . . 47 per cento f) imprese operanti nel settore dei
 trasporti e delle comunicazioni . . . . . . . . . . . . 45 per cento g) imprese operanti nel settore del credito
 e delle assicurazioni . . . . . . . . . . . . . . . . . 64 per cento h) imprese operanti in altri settori di
-attivita' . . . . . . . . . . . . . . . . . . . . . . . 52 per cento 2. Ai fini del presente articolo i ricavi si considerano conseguiti nel periodo di imposta in cui le relative operazioni sono state o avrebbero dovuto essere registrate o annotate ai fini del [terzo comma dell'articolo 18 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_18-com3), ovvero per i contribuenti che effettuano soltanto operazioni non soggette a registrazione ai fini dell'imposta sul valore aggiunto nel periodo di imposta in cui si e' verificata la percezione. Si applica il penultimo comma dell'articolo 18 sopra indicato.".
+attivita' . . . . . . . . . . . . . . . . . . . . . . . 52 per cento 2. Ai fini del presente articolo i ricavi si considerano conseguiti nel periodo di imposta in cui le relative operazioni sono state o avrebbero dovuto essere registrate o annotate ai fini del [terzo comma dell'articolo 18 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), ovvero per i contribuenti che effettuano soltanto operazioni non soggette a registrazione ai fini dell'imposta sul valore aggiunto nel periodo di imposta in cui si e' verificata la percezione. Si applica il penultimo comma dell'articolo 18 sopra indicato.".
 
 ### Art. 8.
 
 1.
 
-I soggetti che, ai fini della determinazione del reddito di impresa, sono ammessi al regime di contabilita' semplificata e che non hanno optato per il regime ordinario devono annotare nei registri tenuti ai sensi dell'[articolo 18 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_18):
+I soggetti che, ai fini della determinazione del reddito di impresa, sono ammessi al regime di contabilita' semplificata e che non hanno optato per il regime ordinario devono annotare nei registri tenuti ai sensi dell'[articolo 18 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md):
                             a)
                                 entro sessanta giorni, i componenti positivi e negativi del reddito di impresa non risultanti dai registri tenuti ai fini dell'imposta sul valore aggiunto nonche' le rettifiche ai componenti ivi indicati rilevanti ai fini della determinazione del reddito;
                             b)
-                                entro il termine stabilito per la presentazione della dichiarazione, le altre annotazioni rilevanti ai fini della determinazione del reddito nonche' il valore delle rimanenze, indicando distintamente per queste ultime le quantita' e i valori per singole categorie di beni, in giacenza alla fine dell'esercizio, previste dagli articoli 59 e 61 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), con l'indicazione dei criteri seguiti per la valutazione.
+                                entro il termine stabilito per la presentazione della dichiarazione, le altre annotazioni rilevanti ai fini della determinazione del reddito nonche' il valore delle rimanenze, indicando distintamente per queste ultime le quantita' e i valori per singole categorie di beni, in giacenza alla fine dell'esercizio, previste dagli articoli 59 e 61 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), con l'indicazione dei criteri seguiti per la valutazione.
 
 2.
 
@@ -178,13 +178,13 @@ I soggetti indicati nell'articolo 80 del testo unico delle imposte sui redditi, 
 
 Ai fini delle imposte sul reddito:
                             a)
-                                i soggetti indicati nell'articolo 79 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), possono optare per il regime di contabilita' ordinaria, se l'ammontare dei ricavi supera 36 milioni di lire ma non supera 360 milioni di lire. L'opzione deve essere esercitata con apposita dichiarazione da comunicare all'ufficio delle imposte con raccomandata entro il 31 gennaio secondo modalita' stabilite con il decreto del Ministro delle finanze previsto dal comma 2 dell'articolo 5; dalla data di spedizione il contribuente e' soggetto agli obblighi previsti per il regime di contabilita' per il quale e' stata espressa l'opzione. L'opzione ha effetto fino a quando non e' revocata e in ogni caso per almeno un triennio;
+                                i soggetti indicati nell'articolo 79 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), possono optare per il regime di contabilita' ordinaria, se l'ammontare dei ricavi supera 36 milioni di lire ma non supera 360 milioni di lire. L'opzione deve essere esercitata con apposita dichiarazione da comunicare all'ufficio delle imposte con raccomandata entro il 31 gennaio secondo modalita' stabilite con il decreto del Ministro delle finanze previsto dal comma 2 dell'articolo 5; dalla data di spedizione il contribuente e' soggetto agli obblighi previsti per il regime di contabilita' per il quale e' stata espressa l'opzione. L'opzione ha effetto fino a quando non e' revocata e in ogni caso per almeno un triennio;
                             b)
-                                i soggetti indicati nell'articolo 80 del testo unico delle imposte sui redditti approvato con il citato decreto n. 917 del 1986, che esercitano l'opzione prevista nel [comma 6 dell'articolo 30- bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_30bis-com6), devono inviare la comunicazione prevista nella precedente lettera a) indicando se l'opzione e' stata effettuata per il regime di contabilita' semplificata di cui al [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600), o per quello di contabilita' ordinaria. La comunicazione deve essere inviata entro il 31 marzo. Se nel corso del triennio l'ammontare dei ricavi supera 360 milioni di lire si applica per l'anno seguente il regime di contabilita' ordinaria.
+                                i soggetti indicati nell'articolo 80 del testo unico delle imposte sui redditti approvato con il citato decreto n. 917 del 1986, che esercitano l'opzione prevista nel [comma 6 dell'articolo 30- bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), devono inviare la comunicazione prevista nella precedente lettera a) indicando se l'opzione e' stata effettuata per il regime di contabilita' semplificata di cui al [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), o per quello di contabilita' ordinaria. La comunicazione deve essere inviata entro il 31 marzo. Se nel corso del triennio l'ammontare dei ricavi supera 360 milioni di lire si applica per l'anno seguente il regime di contabilita' ordinaria.
 
 2.
 
-I contribuenti che esercitano le attivita' di cui agli [articoli 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_34), [74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_74) e [74- ter del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_74ter), possono esercitare l'opzione nella dichiarazione annuale relativa alle imposte sul reddito.
+I contribuenti che esercitano le attivita' di cui agli [articoli 34](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), [74](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) e [74- ter del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), possono esercitare l'opzione nella dichiarazione annuale relativa alle imposte sul reddito.
 
 3.
 
@@ -194,7 +194,7 @@ Ai fini dell'esercizio della opzione l'ammontare dei ricavi, ragguagliato ad ann
 
 1.
 
-Ai fini della effettuazione dei controlli di cui all'[articolo 37 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_37), nei confronti dei soggetti che si avvalgono della disciplina di cui all'articolo 79 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), sono determinati coefficienti di riscontro degli elementi positivi e negativi di reddito. I coefficienti distinti per settore e tipologia dell'attivita' economica nonche' per caratteristiche e localizzazione delle imprese, tenendo conto anche del valore dei beni strumentali impiegati, del numero, qualita' e retribuzione degli addetti, degli acquisti di materie prime e sussidiarie, di semilavorati e di merci e delle utenze di servizi, sono determinati sulla base dei dati delle dichiarazioni dei redditi e dell'imposta sul valore aggiunto nonche' degli accertamenti e verifiche e sulla base dei dati e elementi raccolti a norma del comma 6 dell'articolo 11, avvalendosi altresi' di indici presuntivi statistico-economici differenziati per area geografica.
+Ai fini della effettuazione dei controlli di cui all'[articolo 37 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), nei confronti dei soggetti che si avvalgono della disciplina di cui all'articolo 79 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono determinati coefficienti di riscontro degli elementi positivi e negativi di reddito. I coefficienti distinti per settore e tipologia dell'attivita' economica nonche' per caratteristiche e localizzazione delle imprese, tenendo conto anche del valore dei beni strumentali impiegati, del numero, qualita' e retribuzione degli addetti, degli acquisti di materie prime e sussidiarie, di semilavorati e di merci e delle utenze di servizi, sono determinati sulla base dei dati delle dichiarazioni dei redditi e dell'imposta sul valore aggiunto nonche' degli accertamenti e verifiche e sulla base dei dati e elementi raccolti a norma del comma 6 dell'articolo 11, avvalendosi altresi' di indici presuntivi statistico-economici differenziati per area geografica.
 
 2.
 
@@ -204,7 +204,7 @@ I coefficienti previsti dal comma 1 sono determinati entro il 31 marzo 1989 e so
 
 1.
 
-Indipendentemente da quanto stabilito nell'[articolo 39 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_39), e negli [articoli 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_54) e [55 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_55), gli uffici delle imposte dirette e gli uffici dell'imposta sul valore aggiunto possono, previa richiesta per raccomandata al contribuente di chiarimenti da inviare per iscritto entro quarantacinque giorni, rettificare le dichiarazioni annuali presentate dai contribuenti che si avvalgono dei regimi di determinazione dell'imposta sul valore aggiunto e del reddito stabiliti nell'articolo 30- bis del decreto n. 633 del 1972, e negli articoli 50, comma 7, e 80 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), determinando induttivamente l'ammontare dei compensi e dei ricavi ovvero dei corrispettivi di operazioni imponibili in misura superiore a quella dichiarata, sulla base di presunzioni desunte, in relazione al tipo di attivita', da uno o piu' dei seguenti elementi: dimensioni e ubicazione dei locali destinati all'esercizio, altri beni strumentali impiegati, numero qualita' e retribuzioni degli addetti, acquisti di materie prime e sussidiarie, di semilavorati e di merci, consumi di energia, carburanti, lubrificanti e simili, assicurazioni stipulate nonche' altri elementi che potranno essere indicati con decreti del Ministro delle finanze anche per singole attivita'. Sul maggiore ammontare dei compensi e dei ricavi ovvero dei corrispettivi non si applicano i coefficienti di redditivita' previsti negli articoli 50, comma 7, e 80 del testo unico delle imposte sui redditi, approvato con il citato decreto n. 917 del 1986, ne' le percentuali previste nell'[articolo 30- bis del decreto del Presidente della Repubblica n. 633 del 1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;633#art_30bis). Negli avvisi di accertamento devono essere specificamente indicati i fatti che danno fondamento alla presunzione.
+Indipendentemente da quanto stabilito nell'[articolo 39 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e negli [articoli 54](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) e [55 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), gli uffici delle imposte dirette e gli uffici dell'imposta sul valore aggiunto possono, previa richiesta per raccomandata al contribuente di chiarimenti da inviare per iscritto entro quarantacinque giorni, rettificare le dichiarazioni annuali presentate dai contribuenti che si avvalgono dei regimi di determinazione dell'imposta sul valore aggiunto e del reddito stabiliti nell'articolo 30- bis del decreto n. 633 del 1972, e negli articoli 50, comma 7, e 80 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), determinando induttivamente l'ammontare dei compensi e dei ricavi ovvero dei corrispettivi di operazioni imponibili in misura superiore a quella dichiarata, sulla base di presunzioni desunte, in relazione al tipo di attivita', da uno o piu' dei seguenti elementi: dimensioni e ubicazione dei locali destinati all'esercizio, altri beni strumentali impiegati, numero qualita' e retribuzioni degli addetti, acquisti di materie prime e sussidiarie, di semilavorati e di merci, consumi di energia, carburanti, lubrificanti e simili, assicurazioni stipulate nonche' altri elementi che potranno essere indicati con decreti del Ministro delle finanze anche per singole attivita'. Sul maggiore ammontare dei compensi e dei ricavi ovvero dei corrispettivi non si applicano i coefficienti di redditivita' previsti negli articoli 50, comma 7, e 80 del testo unico delle imposte sui redditi, approvato con il citato decreto n. 917 del 1986, ne' le percentuali previste nell'[articolo 30- bis del decreto del Presidente della Repubblica n. 633 del 1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;633#art_30bis). Negli avvisi di accertamento devono essere specificamente indicati i fatti che danno fondamento alla presunzione.
 
 2.
 
@@ -212,7 +212,7 @@ Ai soggetti che si avvalgono della disciplina di cui all'articolo 79 del predett
 
 3.
 
-Se l'indicazione di elementi di cui al comma 1 e' richiesta nel modello di dichiarazione si applicano, in caso di omissione delle indicazioni, la pena dell'arresto fino a un anno o dell'ammenda fino a lire due milioni e, in caso di falsita' degli elementi indicati, le pene previste nell'[articolo 4 del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_4), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;516).
+Se l'indicazione di elementi di cui al comma 1 e' richiesta nel modello di dichiarazione si applicano, in caso di omissione delle indicazioni, la pena dell'arresto fino a un anno o dell'ammenda fino a lire due milioni e, in caso di falsita' degli elementi indicati, le pene previste nell'[articolo 4 del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_4), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md).
 
 4.
 
@@ -220,15 +220,15 @@ Con decreti del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale, 
 
 5.
 
-Si applicano le disposizioni degli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146#art_6) e [7 della legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146#art_7), relative alla programmazione delle attivita' di controllo; gli uffici provvedono alla reciproca comunicazione di dati e notizie rilevanti ai fini della attivita' di accertamento.
+Si applicano le disposizioni degli [articoli 6](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md) e [7 della legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md), relative alla programmazione delle attivita' di controllo; gli uffici provvedono alla reciproca comunicazione di dati e notizie rilevanti ai fini della attivita' di accertamento.
 
 6.
 
-Ai fini della determinazione dei coefficienti di riscontro di cui all'articolo 10 e dei coefficienti presuntivi di cui al comma 4 del presente articolo saranno richiesti dati ed elementi, secondo schemi predeterminati per singole categorie di imprese, alle organizzazioni economiche di categoria e ad enti ed istituti. Se i dati e gli elementi non vengono inviati o sono non rispondenti al vero o incompleti si applicano le disposizioni dell'[articolo 52 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_52). Si considera omesso l'invio oltre il termine di sessanta giorni dalla richiesta.
+Ai fini della determinazione dei coefficienti di riscontro di cui all'articolo 10 e dei coefficienti presuntivi di cui al comma 4 del presente articolo saranno richiesti dati ed elementi, secondo schemi predeterminati per singole categorie di imprese, alle organizzazioni economiche di categoria e ad enti ed istituti. Se i dati e gli elementi non vengono inviati o sono non rispondenti al vero o incompleti si applicano le disposizioni dell'[articolo 52 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md). Si considera omesso l'invio oltre il termine di sessanta giorni dalla richiesta.
 
 7.
 
-Restano in ogni caso applicabili, anche nei confronti dei contribuenti che si avvalgono dei regimi di determinazione forfetaria dell'imposta sul valore aggiunto e del reddito, le disposizioni del [decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;516).
+Restano in ogni caso applicabili, anche nei confronti dei contribuenti che si avvalgono dei regimi di determinazione forfetaria dell'imposta sul valore aggiunto e del reddito, le disposizioni del [decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md).
 
 ### Art. 12.
 
@@ -238,7 +238,7 @@ Le disposizioni degli articoli da 4 a 11 hanno effetto dal periodo di imposta ch
 
 2.
 
-Per gli esercenti imprese commerciali che si sono avvalsi del regime forfetario di cui al [decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-17;17), prorogato dal [decreto-legge 14 marzo 1988, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-14;70), convertito, con modificazioni, dalla [legge 13 maggio 1988, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154), ai quali, per effetto del presente decreto si applica, anche a seguito di opzione, il regime ordinario ovvero quello previsto dall'articolo 79 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), i ricavi, le plusvalenze e le minusvalenze derivanti da operazioni poste in essere nel corso del quadriennio 1985-88 concorrono a formare il reddito dell'anno 1989 o quelli successivi nei quali avviene la registrazione ai fini dell'imposta sul valore aggiunto, ovvero la percezione nel caso di soggetti che effettuano esclusivamente operazioni non soggette a registrazione agli stessi fini, ancorche' tali operazioni non siano imputabili ai predetti anni in base alle regole del regime ordinario.
+Per gli esercenti imprese commerciali che si sono avvalsi del regime forfetario di cui al [decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201984%20n.%20853%20recante%20disposizioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20imposte%20sul%20reddito%20e%20disposizioni%20rel_0b6b4cacfea3.md), prorogato dal [decreto-legge 14 marzo 1988, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-14;70), convertito, con modificazioni, dalla [legge 13 maggio 1988, n. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md), ai quali, per effetto del presente decreto si applica, anche a seguito di opzione, il regime ordinario ovvero quello previsto dall'articolo 79 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), i ricavi, le plusvalenze e le minusvalenze derivanti da operazioni poste in essere nel corso del quadriennio 1985-88 concorrono a formare il reddito dell'anno 1989 o quelli successivi nei quali avviene la registrazione ai fini dell'imposta sul valore aggiunto, ovvero la percezione nel caso di soggetti che effettuano esclusivamente operazioni non soggette a registrazione agli stessi fini, ancorche' tali operazioni non siano imputabili ai predetti anni in base alle regole del regime ordinario.
 Tutti i costi, diversi da quelli indicati alle lettere da
                             a)
                                 a f) del comma 9 dell'articolo 2 del predetto decreto-legge n. 853, inerenti agli stessi ricavi sono deducibili ancorche' sostenuti, registrati o erogati nel quadriennio 1985-88. Concorro no altresi' a formare il reddito dell'anno 1989 e successivi le sopravvenienze attive e passive imputabili a tali anni secondo gli articoli 55 e 56 del testo unico delle imposte sui redditi, approvato con il citato decreto n. 917 del 1986, anche se riferibili a costi e ricavi del quadriennio 1985-88. Resta fermo il concorso alla formazione dei redditi degli anni 1985, 1986, 1987 e 1988 dei ricavi, delle plusvalenze e delle minusvalenze derivanti da operazioni la cui registrazione, ancorche' non effettuata, doveva avvenire entro il 31 dicembre di ciascuno dei suddetti anni o la cui percezione sia avvenuta entro la stessa data.
@@ -250,15 +250,15 @@ Per gli esercenti arti e professioni che si sono avvalsi del regime forfetario d
 
 4.
 
-Nella determinazione dell'imposta sul valore aggiunto dovuta per l'anno 1989 dai contribuenti che risultano esclusi dall'applicazione del regime previsto dall'[articolo 30- bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_30bis), anche per effetto di opzione, l'imposta afferente gli acquisti di beni diversi da quelli strumentali ammortizzabili in piu' di tre anni, risultanti da fatture registrate in tale anno, e' ammessa in detrazione a condizione che i beni stessi non siano stati consegnati o spediti nell'anno 1988; l'imposta afferente gli acquisti di servizi risultanti da fatture registrate nell'anno 1989 e' ammessa in detrazione a condizione che i corrispettivi non siano stati pagati nell'anno 1988.
+Nella determinazione dell'imposta sul valore aggiunto dovuta per l'anno 1989 dai contribuenti che risultano esclusi dall'applicazione del regime previsto dall'[articolo 30- bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), anche per effetto di opzione, l'imposta afferente gli acquisti di beni diversi da quelli strumentali ammortizzabili in piu' di tre anni, risultanti da fatture registrate in tale anno, e' ammessa in detrazione a condizione che i beni stessi non siano stati consegnati o spediti nell'anno 1988; l'imposta afferente gli acquisti di servizi risultanti da fatture registrate nell'anno 1989 e' ammessa in detrazione a condizione che i corrispettivi non siano stati pagati nell'anno 1988.
 
 5.
 
-Le disposizioni previste dal comma 2 si applicano anche per la determinazione del reddito relativo ad anni successivi a quello in cui e' stato applicato il regime previsto dall'[articolo 80 del testo unico delle imposte sul reddito](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917#art_80), approvato con il citato decreto n. 917 del 1986; quelle previste dal comma 4 si applicano anche per la determinazione dell'imposta sul valore aggiunto dovuta per l'anno successivo a quello in cui e' stato applicato il regime previsto dall'articolo 30- bis del decreto n. 633 del 1972. Le indicazioni temporali devono tuttavia intendersi riferite agli anni in cui i contribuenti si sono avvalsi dei predetti regimi ovvero all'anno precedente.
+Le disposizioni previste dal comma 2 si applicano anche per la determinazione del reddito relativo ad anni successivi a quello in cui e' stato applicato il regime previsto dall'[articolo 80 del testo unico delle imposte sul reddito](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), approvato con il citato decreto n. 917 del 1986; quelle previste dal comma 4 si applicano anche per la determinazione dell'imposta sul valore aggiunto dovuta per l'anno successivo a quello in cui e' stato applicato il regime previsto dall'articolo 30- bis del decreto n. 633 del 1972. Le indicazioni temporali devono tuttavia intendersi riferite agli anni in cui i contribuenti si sono avvalsi dei predetti regimi ovvero all'anno precedente.
 
 6.
 
-La disposizione di cui all'articolo 3, comma 9, ultimo periodo, del [decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-17;17), e' abrogata.
+La disposizione di cui all'articolo 3, comma 9, ultimo periodo, del [decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201984%20n.%20853%20recante%20disposizioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20imposte%20sul%20reddito%20e%20disposizioni%20rel_0b6b4cacfea3.md), e' abrogata.
 
 ### Art. 13.
 
@@ -278,7 +278,7 @@ Con disposizioni legislative verra' disciplinata l'attivita' di controllo indica
 
 1.
 
-I contribuenti che nell'anno 1988 si sono avvalsi del regime di determinazione del reddito di lavoro autonomo e del reddito di impresa di cui al [decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-17;17), possono presentare dichiarazione sostitutiva per quanto riguarda i redditi di lavoro autonomo e di impresa per tutti i periodi di imposta relativi agli anni dal 1983 al 1987 per i quali non sia intervenuto accertamento definitivo. La disposizione non si applica ai soggetti che hanno optato per il regime ordinario di determinazione del reddito.
+I contribuenti che nell'anno 1988 si sono avvalsi del regime di determinazione del reddito di lavoro autonomo e del reddito di impresa di cui al [decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201984%20n.%20853%20recante%20disposizioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20imposte%20sul%20reddito%20e%20disposizioni%20rel_0b6b4cacfea3.md), possono presentare dichiarazione sostitutiva per quanto riguarda i redditi di lavoro autonomo e di impresa per tutti i periodi di imposta relativi agli anni dal 1983 al 1987 per i quali non sia intervenuto accertamento definitivo. La disposizione non si applica ai soggetti che hanno optato per il regime ordinario di determinazione del reddito.
 
 2.
 
@@ -295,11 +295,11 @@ L'importo dovuto per ciascun anno, anche se chiuso in perdita, non puo' essere i
 5.
 
 Se per gli anni indicati nel comma 1 la dichiarazione e' stata omessa o, se presentata, non sono stati indicati i redditi di lavoro autonomo e di impresa, sono dovuti, per ciascun anno, gli importi massimi previsti nel comma 4 maggiorati del 15 per cento.
-Nell'ipotesi di cui al secondo periodo dell'ultimo comma dell'[articolo 9 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_9), se la dichiarazione che comprende redditi di lavoro autonomo e di impresa e' stata presentata entro il 30 settembre 1988 gli importi di cui ai commi 3 e 4 sono maggiorati del 10 per cento; se e' stata presentata oltre tale data resta ferma la maggiorazione del 15 per cento.
+Nell'ipotesi di cui al secondo periodo dell'ultimo comma dell'[articolo 9 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), se la dichiarazione che comprende redditi di lavoro autonomo e di impresa e' stata presentata entro il 30 settembre 1988 gli importi di cui ai commi 3 e 4 sono maggiorati del 10 per cento; se e' stata presentata oltre tale data resta ferma la maggiorazione del 15 per cento.
 
 6.
 
-Per i redditi prodotti in forma associata la dichiarazione sostitutiva e' presentata dai soggetti indicati nell'articolo 5 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e ha effetti liberatori anche per i soci, associati o partecipanti.
+Per i redditi prodotti in forma associata la dichiarazione sostitutiva e' presentata dai soggetti indicati nell'articolo 5 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e ha effetti liberatori anche per i soci, associati o partecipanti.
 
 7.
 
@@ -339,7 +339,7 @@ Gli importi di cui al comma 1 sono riscossi, a norma delle disposizioni vigenti,
 
 4.
 
-Al controllo e alla liquidazione, ai sensi dell'[articolo 36- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_36bis), e successive modificazioni, delle dichiarazioni sostitutive ai fini delle imposte sul reddito ed alle eventuali iscrizioni a ruolo ed ai rimborsi, provvedono gli uffici delle imposte dirette o i centri di servizio che hanno ricevuto le dichiarazioni, entro l'anno successivo alla scadenza del termine di cui al [primo comma dell'articolo 17 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md). Per le ipotesi di cui al comma 7 dell'articolo 14 provvedono gli uffici delle imposte dirette che hanno eseguito l'accertamento in rettifica o d'ufficio sulla base di copia conforme della dichiarazione sostitutiva inviata dall'ufficio delle imposte dirette o dal centro di servizio che l'ha ricevuta. Le maggiori somme dovute e quelle non versate sono iscritte in ruoli speciali, entro lo stesso termine, ai sensi del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), secondo le modalita' e i criteri stabiliti con decreto del Ministro delle finanze.
+Al controllo e alla liquidazione, ai sensi dell'[articolo 36- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, delle dichiarazioni sostitutive ai fini delle imposte sul reddito ed alle eventuali iscrizioni a ruolo ed ai rimborsi, provvedono gli uffici delle imposte dirette o i centri di servizio che hanno ricevuto le dichiarazioni, entro l'anno successivo alla scadenza del termine di cui al [primo comma dell'articolo 17 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md). Per le ipotesi di cui al comma 7 dell'articolo 14 provvedono gli uffici delle imposte dirette che hanno eseguito l'accertamento in rettifica o d'ufficio sulla base di copia conforme della dichiarazione sostitutiva inviata dall'ufficio delle imposte dirette o dal centro di servizio che l'ha ricevuta. Le maggiori somme dovute e quelle non versate sono iscritte in ruoli speciali, entro lo stesso termine, ai sensi del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), secondo le modalita' e i criteri stabiliti con decreto del Ministro delle finanze.
 
 5.
 
@@ -357,11 +357,11 @@ L'ammontare complessivo dell'importo dovuto, determinato a norma dell'articolo 1
 
 2.
 
-I versamenti devono essere eseguiti a norma dell'[articolo 12 della legge 12 novembre 1976, n. 751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-11-12;751#art_12), secondo modalita' stabilite con decreto del Ministro delle finanze, e gli estremi delle attestazioni di versamento devono essere annotati a norma del [primo comma dell'articolo 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_27-com1).
+I versamenti devono essere eseguiti a norma dell'[articolo 12 della legge 12 novembre 1976, n. 751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-11-12;751#art_12), secondo modalita' stabilite con decreto del Ministro delle finanze, e gli estremi delle attestazioni di versamento devono essere annotati a norma del [primo comma dell'articolo 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md).
 
 3.
 
-In caso di mancato o insufficiente versamento, l'ufficio dell'imposta sul valore aggiunto procede alla riscossione delle somme non versate applicando gli interessi di mora in ragione del 9 per cento annuo e la soprattassa di cui al [primo comma dell'articolo 44 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_44-com1).
+In caso di mancato o insufficiente versamento, l'ufficio dell'imposta sul valore aggiunto procede alla riscossione delle somme non versate applicando gli interessi di mora in ragione del 9 per cento annuo e la soprattassa di cui al [primo comma dell'articolo 44 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md).
 
 ### Art. 19.
 
@@ -397,7 +397,7 @@ Titolo III
 
 1.
 
-Nell'[articolo 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_19), il secondo comma e' sostituito dal seguente: 
+Nell'[articolo 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), il secondo comma e' sostituito dal seguente: 
  "In deroga alle disposizioni del comma precedente: 
  a) l'imposta relativa all'acquisto o all'importazione di aeromobili e di autoveicoli di cui alla lettera e) della allegata tabella B quale ne sia la cilindrata, alle prestazioni di servizi di cui al terzo comma dell'articolo 16 concernenti i beni stessi, nonche' alle prestazioni di manutenzione e riparazione di tali beni, e' ammessa in detrazione se i beni formano oggetto dell'attivita' propria dell'impresa o sono destinati ad essere esclusivamente utilizzati come strumentali nell'attivita' propria dell'impresa ed e' in ogni caso esclusa per gli esercenti arti e professioni; 
  b) l'imposta relativa all'acquisto o all'importazione degli altri beni elencati nell'allegata tabella B e delle navi e imbarcazioni da diporto, alle prestazioni di servizi di cui al terzo comma dell'articolo 16 concernenti i beni stessi, nonche' alle prestazioni di manutenzione e riparazione di tali beni, e' ammessa in detrazione soltanto se i beni formano oggetto dell'attivita' propria dell'impresa ed e' in ogni caso esclusa per gli esercenti arti e professioni; 
@@ -407,30 +407,30 @@ Nell'[articolo 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n
 
 2.
 
-Nell'[articolo 41 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_41), dopo il terzo comma e' inserito il seguente: 
+Nell'[articolo 41 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), dopo il terzo comma e' inserito il seguente: 
  "Per la violazione degli obblighi di fatturazione previsti dagli articoli 17, terzo comma, e 34, terzo comma, si applicano le pene pecuniarie di cui ai commi precedenti, fermo rimanendo l'obbligo del pagamento dell'imposta.".
 
 3.
 
-Nell'[articolo 41 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_41), il quarto comma e' sostituito dal seguente: 
+Nell'[articolo 41 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), il quarto comma e' sostituito dal seguente: 
  "Il cessionario o committente che nell'esercizio di imprese, arti o professioni abbia acquistato beni o servizi senza emissione della fattura o con emissione di fattura irregolare da parte del soggetto obbligato ad emetterla, e' tenuto a regolarizzare l'operazione con le seguenti modalita': 
  a) se non ha ricevuto la fattura entro quattro mesi dalla data di effettuazione dell'operazione deve presentare all'ufficio competente nei suoi confronti, entro il trentesimo giorno successivo, un documento in duplice esemplare contenente le indicazioni prescritte dall'articolo 21 e deve contemporaneamente versare la relativa imposta; 
  b) se ha ricevuto una fattura irregolare deve presentare all'ufficio competente nei suoi confronti, entro il quindicesimo giorno successivo a quello in cui ha registrato la fattura stessa, un documento integrativo, in duplice esemplare, contenente tutte le indicazioni prescritte dall'articolo 21 e contemporaneamente per fare la maggior imposta eventualmente dovuta. Un esemplare del documento, con l'attestazione dell'avvenuto pagamento o della intervenuta regolarizzazione, e' restituito dall'ufficio all'interessato che deve annotarlo a norma dell'articolo 25. In caso di mancata regolarizzazione si applicano al cessionario o committente le pene pecuniarie previste dai primi tre commi, oltre al pagamento della imposta, salvo che la fattura risulti emessa.".
 
 4.
 
-Nell'[articolo 53 del decreto del Presidente della Repubblica 26  ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_53), e' aggiunto, dopo il primo comma, il seguente: 
+Nell'[articolo 53 del decreto del Presidente della Repubblica 26  ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e' aggiunto, dopo il primo comma, il seguente: 
 "Con decreto del Ministro delle finanze sono stabilite le modalita' con le quali devono essere effettuate: 
  a) la donazione dei beni ad enti di beneficienza; 
  b) la distruzione dei beni.".
 
 5.
 
-Nell'[articolo 69, comma primo, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_69-com1), e' aggiunto, in fine, il seguente periodo: "Per i beni che prima dello sdoganamento hanno formato oggetto nello Stato di una o piu' cessioni, la base imponibile e' costituita dal corrispettivo dell'ultima cessione.".
+Nell'[articolo 69, comma primo, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e' aggiunto, in fine, il seguente periodo: "Per i beni che prima dello sdoganamento hanno formato oggetto nello Stato di una o piu' cessioni, la base imponibile e' costituita dal corrispettivo dell'ultima cessione.".
 
 6.
 
-Nell'[articolo 73 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_73), il secondo comma e' sostituito dal seguente: 
+Nell'[articolo 73 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), il secondo comma e' sostituito dal seguente: 
  "Con decreti del Ministro delle finanze possono inoltre essere determinate le formalita' che devono essere osservate per effettuare, senza applicazione dell'imposta, la restituzione alle imprese produttrici o la sostituzione gratuita di beni invenduti previste da disposizioni legislative, usi commerciali o clausole contrattuali.
 Per determinate categorie di beni, contenuti in recipienti, imballaggi e simili per la diretta vendita al consumo, potra' essere disposta l'applicazione dei contrassegni di Stato atti a garantire il pagamento dell'imposta.".
 
@@ -438,19 +438,19 @@ Per determinate categorie di beni, contenuti in recipienti, imballaggi e simili 
 
 1.
 
-Nell'articolo 26 del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131, il comma 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131#art_com4) e' sostituito dal seguente:
+Nell'articolo 26 del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131, il comma 4](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md) e' sostituito dal seguente:
  "4. La presunzione di liberalita', se ricorre la condizione di cui al comma 1, vale anche per i provvedimenti che accertano l'acquisto per usucapione della proprieta' di immobili o di diritti reali di godimento sugli stessi da parte del coniuge o di un parente in linea retta dal precedente proprietario o titolare di diritto reale di godimento.".
 
 2.
 
-Nell'articolo 8 della tariffa, parte prima, allegata al testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e' aggiunta la seguente nota:
+Nell'articolo 8 della tariffa, parte prima, allegata al testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e' aggiunta la seguente nota:
  "II-bis) I provvedimenti che accertano l'acquisto per usucapione della proprieta' di beni immobili o di diritti reali di godimento sui beni medesimi sono soggette all'imposta secondo le disposizioni dell'articolo 1 della tariffa.".
 
 ### Art. 24.
 
 1.
 
-Nel [decreto del Presidente della Repubblica 26 ottobre 1972, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;643), sono apportate le seguenti modificazioni:
+Nel [decreto del Presidente della Repubblica 26 ottobre 1972, n. 643](../DPR/Istituzione%20dellimposta%20comunale%20sullincremento%20di%20valore%20degli%20immobili.md), sono apportate le seguenti modificazioni:
                             a)
                                 il primo comma dell'articolo 2 e' sostituito dal seguente:
  "L'imposta si applica all'atto dell'alienazione a titolo oneroso o dell'acquisto a titolo gratuito, anche per causa di morte, o per usucapione del diritto di proprieta' o di un diritto reale di godimento sull'immobile.";
@@ -475,29 +475,29 @@ Nell'[articolo 10 del decreto del Presidente della Repubblica 26 ottobre 1972, n
 
 1.
 
-Nell'articolo 4, comma 1, lettera a), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e' aggiunto, in fine, il seguente periodo: "I proventi dell'attivita' separata di ciascun coniuge sono a lui imputati in ogni caso per l'intero ammontare;".
+Nell'articolo 4, comma 1, lettera a), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' aggiunto, in fine, il seguente periodo: "I proventi dell'attivita' separata di ciascun coniuge sono a lui imputati in ogni caso per l'intero ammontare;".
 
 2.
 
-Ai fini dell'applicazione della disposizione recata dall'[articolo 4, lettera a), del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_4-leta), deve intendersi che i proventi dell'attivita' separata di ciascun coniuge sono a lui imputati in ogni caso per l'intero ammontare.
+Ai fini dell'applicazione della disposizione recata dall'[articolo 4, lettera a), del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), deve intendersi che i proventi dell'attivita' separata di ciascun coniuge sono a lui imputati in ogni caso per l'intero ammontare.
 
 3.
 
-Nell'articolo 8, comma 3, primo periodo, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), le parole: "la differenza puo' essere portata in diminuzione del reddito complessivo dei periodi di imposta successivi ma non oltre il quinto" sono sostituite dalle seguenti: "la differenza puo' essere computata in diminuzione del reddito complessivo dei periodi di imposta successivi, ma non oltre il quinto, per l'intero importo che trova capienza nel reddito complessivo di ciascuno di essi".
+Nell'articolo 8, comma 3, primo periodo, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), le parole: "la differenza puo' essere portata in diminuzione del reddito complessivo dei periodi di imposta successivi ma non oltre il quinto" sono sostituite dalle seguenti: "la differenza puo' essere computata in diminuzione del reddito complessivo dei periodi di imposta successivi, ma non oltre il quinto, per l'intero importo che trova capienza nel reddito complessivo di ciascuno di essi".
 
 4.
 
 Nell'articolo 20, comma 1, lettera f), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della 
-Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e' 
+Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' 
 aggiunto il seguente periodo: ";si considerano in ogni caso esistenti nel territorio dello Stato le partecipazioni in societa' a responsabilita' limitata, in nome collettivo e in accomandita semplice ivi residenti;".
 
 5.
 
-Nell'articolo 44, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), le parole "con avanzi di fusione" sono sostituite dalle seguenti: "con avanzi di fusione per la parte corrispondente alle riserve e altri fondi iscritti nell'ultimo bilancio delle societa' fuse o incorporate costituiti con utili che hanno concorso a formare il reddito di queste;".
+Nell'articolo 44, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), le parole "con avanzi di fusione" sono sostituite dalle seguenti: "con avanzi di fusione per la parte corrispondente alle riserve e altri fondi iscritti nell'ultimo bilancio delle societa' fuse o incorporate costituiti con utili che hanno concorso a formare il reddito di queste;".
 
 6.
 
-Nell'articolo 50 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), sono apportate le seguenti modificazioni:
+Nell'articolo 50 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
                             a)
                                 al comma 2 sono aggiunti, in fine, i seguenti periodi: "La deduzione dei canoni di locazione finanziaria di beni immobili strumentali per l'esercizio dell'arte o professione e' ammessa a condizione che la durata del contratto non sia inferiore a otto anni. 
 I canoni di locazione finanziaria sono deducibili nel periodo di imposta in cui maturano.";
@@ -507,7 +507,7 @@ I canoni di locazione finanziaria sono deducibili nel periodo di imposta in cui 
 
 7.
 
-Nell'articolo 54 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), sono apportate le seguenti modificazioni:
+Nell'articolo 54 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
                             a)
                                 nel comma 4 la parola: "nono" e' sostituita con la parola: "quarto";
                             b)
@@ -516,23 +516,23 @@ Nell'articolo 54 del testo unico delle imposte sui redditi, approvato con [decre
 
 8.
 
-Nell'articolo 56 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), dopo il comma 3 e' aggiunto il seguente: 
+Nell'articolo 56 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), dopo il comma 3 e' aggiunto il seguente: 
  "3-bis. Gli interessi derivanti da prestiti fatti in qualsiasi forma e sotto qualsiasi denominazione, se la misura non e' determinata o e' inferiore, si computano in misura corrispondente al tasso ufficiale di sconto medio vigente nel periodo di imposta.
 Questa disposizione non si applica per gli interessi, compresi quelli per dilazione di pagamento, derivanti da prestiti ai dipendenti e alla clientela.".
 
 9.
 
-Nell'articolo 62 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), dopo il comma 1 e' aggiunto il seguente: 
+Nell'articolo 62 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), dopo il comma 1 e' aggiunto il seguente: 
  "1-bis. Non sono deducibili i canoni di locazione anche finanziaria e le spese relative al funzionamento di strutture recettive, salvo quelle relative a servizi di mensa destinati alla generalita' dei dipendenti. I canoni di locazione anche finanziaria e le spese di manutenzione dei fabbricati concessi in uso ai dipendenti sono deducibili per un importo non superiore a quello che costituisce reddito per i dipendenti stessi a norma dell'articolo 48, comma 3.".
 
 10.
 
-Nell'articolo 66 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), dopo il comma 5 e' aggiunto il seguente: 
+Nell'articolo 66 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), dopo il comma 5 e' aggiunto il seguente: 
  "5-bis. Non sono deducibili le minusvalenze di cui al comma 1 e le perdite di cui al comma 3 relative ai beni indicati alle lettere a) e b) del comma 8- bis dell'articolo 67, escluse le autovetture e gli autoveicoli con motore di cilindrata non superiore a 2.000 centimetri cubici o con motore diesel di cilindrata non superiore a 2.500 centimetri cubici, nonche' ai beni di cui alla lettera c) dello stesso comma.".
 
 11.
 
-Nell'articolo 67 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), sono apportate le seguenti modificazioni:
+Nell'articolo 67 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
                             a)
                                 nel comma 8, la seconda parte e' sostituita dalla seguente: ";la deduzione dei canoni da parte dell'impresa utilizzatrice e' ammessa a condizione che la durata del contratto non sia inferiore a otto anni, se questo ha per oggetto beni immobili, e alla meta' del periodo di ammortamento corrispondente al coefficiente stabilito a norma del comma 2, in relazione all'attivita' esercitata dall'impresa stessa, se il contratto ha per oggetto beni mobili.";
                             b)
@@ -547,29 +547,29 @@ Nell'articolo 67 del testo unico delle imposte sui redditi, approvato con [decre
 
 12.
 
-Nell'articolo 74 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, al comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917#art_com2) e' aggiunto, in fine, il seguente periodo: "Le spese di rappresentanza sono ammesse in deduzione nella misura di un terzo del loro ammontare e sono deducibili nell'esercizio in cui sono state sostenute o in quote costanti nell'esercizio stesso e nei due successivi.".
+Nell'articolo 74 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, al comma 2](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) e' aggiunto, in fine, il seguente periodo: "Le spese di rappresentanza sono ammesse in deduzione nella misura di un terzo del loro ammontare e sono deducibili nell'esercizio in cui sono state sostenute o in quote costanti nell'esercizio stesso e nei due successivi.".
 
 ### Art. 27.
 
 1.
 
-Nell'articolo 102 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), le parole: "puo' essere portata in diminuzione del reddito dei periodi di imposta successivi ma non oltre il quinto" sono sostituite con le seguenti: "puo' essere computata in diminuzione del reddito complessivo dei periodi di imposta successivi, ma non oltre il quinto, per l'intero importo che trova capienza nel reddito complessivo di ciascuno di essi. Detta differenza potra' tuttavia essere computata in diminuzione del reddito complessivo in misura tale che l'imposta corrispondente al reddito imponibile risulti compensata da eventuali crediti di imposta, ritenute alla fonte a titolo di acconto, versamenti in acconto, e dalle eccedenze di cui al precedente articolo 94.".
+Nell'articolo 102 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), le parole: "puo' essere portata in diminuzione del reddito dei periodi di imposta successivi ma non oltre il quinto" sono sostituite con le seguenti: "puo' essere computata in diminuzione del reddito complessivo dei periodi di imposta successivi, ma non oltre il quinto, per l'intero importo che trova capienza nel reddito complessivo di ciascuno di essi. Detta differenza potra' tuttavia essere computata in diminuzione del reddito complessivo in misura tale che l'imposta corrispondente al reddito imponibile risulti compensata da eventuali crediti di imposta, ritenute alla fonte a titolo di acconto, versamenti in acconto, e dalle eccedenze di cui al precedente articolo 94.".
 
 2.
 
-Nell'articolo 112, comma 2, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), sono aggiunte, in fine, le seguenti parole: "e le plusvalenze relative alle partecipazioni sociali indicate nell'articolo 20, comma 1, lettera f).".
+Nell'articolo 112, comma 2, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono aggiunte, in fine, le seguenti parole: "e le plusvalenze relative alle partecipazioni sociali indicate nell'articolo 20, comma 1, lettera f).".
 
 ### Art. 28.
 
 1.
 
-Nell'articolo 123, comma 5, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), le parole: "quale risulta dalla situazione patrimoniale" sono sostituite con le parole: "quale risulta dall'ultimo bilancio o, se inferiore, dalla situazione patrimoniale" ed e' aggiunto, in fine, il seguente periodo: "Se le azioni o quote della societa' la cui perdita e' riportabile erano possedute dalla societa' incorporante o da altra societa' partecipante alla fusione, la perdita non e' comunque ammessa in diminuzione fino a concorrenza dell'ammontare complessivo della svalutazione di tali azioni o quote effettuata ai fini della determinazione del reddito dalla societa' partecipante o dall'impresa che le ha ad essa cedute dopo l'esercizio al quale si riferisce la perdita e prima dell'atto di fusione, e delle plusvalenze di cui al comma 2 iscritte nel bilancio della societa' risultante dalla fusione o incorporante.".
+Nell'articolo 123, comma 5, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), le parole: "quale risulta dalla situazione patrimoniale" sono sostituite con le parole: "quale risulta dall'ultimo bilancio o, se inferiore, dalla situazione patrimoniale" ed e' aggiunto, in fine, il seguente periodo: "Se le azioni o quote della societa' la cui perdita e' riportabile erano possedute dalla societa' incorporante o da altra societa' partecipante alla fusione, la perdita non e' comunque ammessa in diminuzione fino a concorrenza dell'ammontare complessivo della svalutazione di tali azioni o quote effettuata ai fini della determinazione del reddito dalla societa' partecipante o dall'impresa che le ha ad essa cedute dopo l'esercizio al quale si riferisce la perdita e prima dell'atto di fusione, e delle plusvalenze di cui al comma 2 iscritte nel bilancio della societa' risultante dalla fusione o incorporante.".
 
 ### Art. 29.
 
 1.
 
-Sugli utili distribuiti dalle banche popolari cooperative, che costituiscono reddito di capitale ai sensi dell'articolo 41, comma 1, lettera e), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), si applica, a decorrere dalla data di entrata in vigore del presente decreto, una ritenuta a titolo di imposta nella misura del 15 per cento. I soci, all'atto della riscossione degli utili, hanno facolta' di optare per il regime della ritenuta di acconto di cui al [primo comma dell'articolo 27 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_27-com1); in tal caso si applicano le disposizioni di cui alla [legge 29 dicembre 1962, n. 1745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-29;1745), e successive modificazioni, sulle comunicazioni allo Schedario generale dei titoli azionari.
+Sugli utili distribuiti dalle banche popolari cooperative, che costituiscono reddito di capitale ai sensi dell'articolo 41, comma 1, lettera e), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si applica, a decorrere dalla data di entrata in vigore del presente decreto, una ritenuta a titolo di imposta nella misura del 15 per cento. I soci, all'atto della riscossione degli utili, hanno facolta' di optare per il regime della ritenuta di acconto di cui al [primo comma dell'articolo 27 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md); in tal caso si applicano le disposizioni di cui alla [legge 29 dicembre 1962, n. 1745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-29;1745), e successive modificazioni, sulle comunicazioni allo Schedario generale dei titoli azionari.
 
 2.
 
@@ -585,32 +585,32 @@ Le disposizioni innovative di cui al comma 1 non si applicano agli utili distrib
 
 5.
 
-Gli enti cooperativi i cui statuti prevedono l'osservanza dei requisiti stabiliti dall'[articolo 26 del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-14;1577#art_26), e successive modificazioni, e la destinabilita' degli utili residui a fini di mutualita' e beneficenza conformemente a specifiche disposizioni di legge, godono delle agevolazioni fiscali previste dalle leggi vigenti, secondo il disposto di cui al [primo comma dell'articolo 14 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;601#art_14-com1).
+Gli enti cooperativi i cui statuti prevedono l'osservanza dei requisiti stabiliti dall'[articolo 26 del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-14;1577#art_26), e successive modificazioni, e la destinabilita' degli utili residui a fini di mutualita' e beneficenza conformemente a specifiche disposizioni di legge, godono delle agevolazioni fiscali previste dalle leggi vigenti, secondo il disposto di cui al [primo comma dell'articolo 14 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](../DPR/Disciplina%20delle%20agevolazioni%20tributarie.md).
 
 ### Art. 30.
 
 1.
 
-Nell'[articolo 37 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_37), e' aggiunto, infine, il seguente comma: 
+Nell'[articolo 37 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e' aggiunto, infine, il seguente comma: 
  "In sede di rettifica o di accertamento d'ufficio sono imputati al contribuente i redditi di cui appaiono titolari altri soggetti quando sia dimostrato, anche sulla base di presunzioni gravi, precise e concordanti, che egli ne e' l'effettivo possessore per interposta persona.".
 
 2.
 
-Nell'[articolo 41- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_41bis), le parole da: "possono limitarsi" in poi sono sostituite con le seguenti parole: "compresi i redditi da partecipazioni in societa', associazioni ed imprese di cui all'articolo 5 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), o l'esistenza di deduzioni, esenzioni ed agevolazioni in tutto o in parte non spettanti, possono limitarsi ad accertare, in base agli elementi predetti, il reddito o il maggior reddito imponibile. Non si applica la disposizione dell'articolo 44.".
+Nell'[articolo 41- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), le parole da: "possono limitarsi" in poi sono sostituite con le seguenti parole: "compresi i redditi da partecipazioni in societa', associazioni ed imprese di cui all'articolo 5 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), o l'esistenza di deduzioni, esenzioni ed agevolazioni in tutto o in parte non spettanti, possono limitarsi ad accertare, in base agli elementi predetti, il reddito o il maggior reddito imponibile. Non si applica la disposizione dell'articolo 44.".
 
 3.
 
-Nell'articolo 51, ultimo comma, del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600), e' aggiunto, in fine, il seguente periodo: "Nelle ipotesi di cui all'articolo 75, comma 4, terzo periodo, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), ferme restando le sanzioni previste dall'articolo 46, si applica la pena pecuniaria da uno a cinque decimi dell'ammontare delle spese ed oneri ammessi in deduzione.".
+Nell'articolo 51, ultimo comma, del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e' aggiunto, in fine, il seguente periodo: "Nelle ipotesi di cui all'articolo 75, comma 4, terzo periodo, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), ferme restando le sanzioni previste dall'articolo 46, si applica la pena pecuniaria da uno a cinque decimi dell'ammontare delle spese ed oneri ammessi in deduzione.".
 
 4.
 
-Nell'[articolo 61, comma terzo, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_61-com3), e' aggiunto, in fine, il seguente periodo: "Tuttavia e' ammessa la prova, sulla base di elementi certi e precisi, delle spese e degli oneri di cui all'articolo 75, comma 4, terzo periodo, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), ferma restando la disposizione del comma 6 dello stesso articolo.".
+Nell'[articolo 61, comma terzo, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e' aggiunto, in fine, il seguente periodo: "Tuttavia e' ammessa la prova, sulla base di elementi certi e precisi, delle spese e degli oneri di cui all'articolo 75, comma 4, terzo periodo, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), ferma restando la disposizione del comma 6 dello stesso articolo.".
 
 ### Art. 31.
 
 1.
 
-Nel [decreto del Presidente della Repubblica 29 settembre 1973, n. 605](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;605), nel testo sostituito dal [decreto del Presidente della Repubblica 2 novembre 1976, n. 784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-11-02;784), e modificato dal [decreto del Presidente della Repubblica 23 dicembre 1977, n. 955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-12-23;955), sono apportate le seguenti modificazioni:
+Nel [decreto del Presidente della Repubblica 29 settembre 1973, n. 605](../DPR/Disposizioni%20relative%20allanagrafe%20tributaria%20e%20al%20codice%20fiscale%20dei%20contribuenti.md), nel testo sostituito dal [decreto del Presidente della Repubblica 2 novembre 1976, n. 784](../DPR/Modificazioni%20e%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2029%20settembre%201973%20n.%20605%20e%20successive%20modificazioni%20concernente%20disposizioni%20relative%20allanagrafe%20tributaria%20e%20al%20c_41a9a5474e04.md), e modificato dal [decreto del Presidente della Repubblica 23 dicembre 1977, n. 955](../DPR/Modificazioni%20e%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2029%20settembre%201973%20n.%20605%20e%20successive%20modificazioni%20concernenti%20disposizioni%20relative%20allanagrafe%20tributaria%20e%20al%20c_254cbf253efe.md), sono apportate le seguenti modificazioni:
                             a)
                                 nell'articolo 6, primo comma, lettera e), dopo le parole: "ai progettisti dell'opera;" sono aggiunte le parole: "domande ad amministrazioni statali per la concessione di contributi e di agevolazioni;";
                             b)
@@ -631,21 +631,21 @@ Nel [decreto del Presidente della Repubblica 29 settembre 1973, n. 605](https://
 
 1.
 
-Sui proventi di ogni genere, corrisposti dalla data di entrata in vigore del presente decreto ai possessori dei titoli o certificati in serie o di massa, diversi dalle azioni e obbligazioni o titoli similari e dai certificati di partecipazione a fondi comuni di investimento mobiliare, compresa la differenza tra la somma pagata agli stessi possessori, o il valore dei beni loro attribuiti alla scadenza, ed il prezzo di emissione, la ritenuta di cui al [comma 1 dell'articolo 5 del decreto-legge 30 settembre 1983, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-30;512#art_5-com1), convertito, con modificazioni, dalla [legge 25 novembre 1983, n. 649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-25;649), e' elevata dal 18 per cento al 30 per cento.
+Sui proventi di ogni genere, corrisposti dalla data di entrata in vigore del presente decreto ai possessori dei titoli o certificati in serie o di massa, diversi dalle azioni e obbligazioni o titoli similari e dai certificati di partecipazione a fondi comuni di investimento mobiliare, compresa la differenza tra la somma pagata agli stessi possessori, o il valore dei beni loro attribuiti alla scadenza, ed il prezzo di emissione, la ritenuta di cui al [comma 1 dell'articolo 5 del decreto-legge 30 settembre 1983, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-30;512#art_5-com1), convertito, con modificazioni, dalla [legge 25 novembre 1983, n. 649](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201983%20n.%20512%20recante%20disposizioni%20relative%20ad%20alcune%20ritenute%20alla%20fonte%20sugli%20interessi%20ed%20altri%20proventi%20di%20capitale.md), e' elevata dal 18 per cento al 30 per cento.
 
 2.
 
-E' altresi' elevata al 30 per cento la ritenuta di cui al [comma 1 dell'articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_26-com1), e successive modificazioni, sugli interessi, premi ed altri frutti delle obbligazioni e titoli similari sottoscritti dalla data di entrata in vigore del presente decreto, con esclusione di quelli emessi da aziende ed istituti di credito, da enti di gestione delle partecipazioni statali e da societa' per azioni con azioni quotate in borsa, nonche' delle obbligazioni e degli altri titoli indicati nell'[articolo 31 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;601#art_31), ed equiparati.
+E' altresi' elevata al 30 per cento la ritenuta di cui al [comma 1 dell'articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, sugli interessi, premi ed altri frutti delle obbligazioni e titoli similari sottoscritti dalla data di entrata in vigore del presente decreto, con esclusione di quelli emessi da aziende ed istituti di credito, da enti di gestione delle partecipazioni statali e da societa' per azioni con azioni quotate in borsa, nonche' delle obbligazioni e degli altri titoli indicati nell'[articolo 31 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](../DPR/Disciplina%20delle%20agevolazioni%20tributarie.md), ed equiparati.
 
 3.
 
-Dalla data di entrata in vigore del presente decreto le ritenute sugli interessi e sui redditi di capitale di cui all'[articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_26), e successive modificazioni, e quelle di cui all'[articolo 5 del decreto-legge 30 settembre 1983, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-30;512#art_5), convertito, con modificazioni dalla [legge 25 novembre 1983, n. 649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-25;649), sono applicate a titoli di acconto anche nei confronti delle societa' di cui all'articolo 5 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917).
+Dalla data di entrata in vigore del presente decreto le ritenute sugli interessi e sui redditi di capitale di cui all'[articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, e quelle di cui all'[articolo 5 del decreto-legge 30 settembre 1983, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-30;512#art_5), convertito, con modificazioni dalla [legge 25 novembre 1983, n. 649](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201983%20n.%20512%20recante%20disposizioni%20relative%20ad%20alcune%20ritenute%20alla%20fonte%20sugli%20interessi%20ed%20altri%20proventi%20di%20capitale.md), sono applicate a titoli di acconto anche nei confronti delle societa' di cui all'articolo 5 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 ### Art. 33.
 
 1.
 
-Dalla data di entrata in vigore del presente decreto la ritenuta del 18 per cento di cui al [primo comma dell'articolo 25 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_25-com1), e successive modificazioni, e' elevata al 19 per cento.
+Dalla data di entrata in vigore del presente decreto la ritenuta del 18 per cento di cui al [primo comma dell'articolo 25 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, e' elevata al 19 per cento.
 
 ## MODIFICHE DI ALIQUOTE I.V.A. E DISPOSIZIONI RELATIVE ALLE TASSE SULLE CONCESSIONI GOVERNATIVE
 
@@ -663,7 +663,7 @@ Per le operazioni soggette all'aliquota del quattro per cento la quota imponibil
 
 3.
 
-Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633), sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), sono apportate le seguenti modificazioni:
                             a)
                                 la lettera i) del terzo comma dell'art. 2 e' sostituita dalla seguente: " i) le cessioni di valori bollati e postali, marche assicurative e similari;";
                             b)
@@ -677,11 +677,11 @@ Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www
 
 4.
 
-I [commi terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-10-31;693#art_8-com3), [quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-10-31;693#art_8-com4), [quinto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-10-31;693#art_8-com5) e [sesto dell'articolo 8 del decreto-legge 31 ottobre 1980, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-10-31;693#art_8-com6), convertito, con modificazioni, dalla [legge 22 dicembre 1980, n. 891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-12-22;891), sono soppressi.
+I [commi terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-10-31;693#art_8-com3), [quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-10-31;693#art_8-com4), [quinto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-10-31;693#art_8-com5) e [sesto dell'articolo 8 del decreto-legge 31 ottobre 1980, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-10-31;693#art_8-com6), convertito, con modificazioni, dalla [legge 22 dicembre 1980, n. 891](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20ottobre%201980%20n.%20693%20recante%20disposizioni%20urgenti%20in%20materia%20tributaria.md), sono soppressi.
 
 5.
 
-Alla tabella A, parte seconda, allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633), sono apportate le seguenti modificazioni:
+Alla tabella A, parte seconda, allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), sono apportate le seguenti modificazioni:
                             a)
                                 il n. 18) e' sostituito dal seguente:
  "18) giornali quotidiani, libri, periodici, edizioni musicali a stampa e carte geografiche; carta occorrente per la stampa degli stessi e degli atti e pubblicazioni della Camera dei deputati e del Senato della Repubblica;";
@@ -694,17 +694,17 @@ Alla tabella A, parte seconda, allegata al [decreto del Presidente della Repubbl
 
 6.
 
-Nel [secondo comma dell'articolo 1 della legge 26 gennaio 1983, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-01-26;18#art_1-com2), come sostituito dall'[articolo 5, comma 3, del decreto-legge 4 agosto 1987, n. 326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-04;326#art_5-com3), convertito, con modificazioni, dalla [legge 3 ottobre 1987, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-03;403), sono soppresse le parole: "e, dal 1 gennaio 1988, per le cessioni di libri".
+Nel [secondo comma dell'articolo 1 della legge 26 gennaio 1983, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-01-26;18#art_1-com2), come sostituito dall'[articolo 5, comma 3, del decreto-legge 4 agosto 1987, n. 326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-04;326#art_5-com3), convertito, con modificazioni, dalla [legge 3 ottobre 1987, n. 403](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20agosto%201987%20n.%20326%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20delle%20aliquote%20dellimposta%20sugli%20spettacoli%20per%20i%20settori%20sport_da30e997990a.md), sono soppresse le parole: "e, dal 1 gennaio 1988, per le cessioni di libri".
 
 7.
 
-Le disposizioni di cui al comma 1 non si applicano alle operazioni nei confronti dello Stato e degli enti e istituti indicati nell'ultimo comma dell'[articolo 6 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_6), e successive modificazioni, per le quali alla data del 31 dicembre 1988 sia stata emessa e registrata la fattura ai sensi degli articoli 21, 23 e 24 del predetto decreto, ancorche' alla data stessa il corrispettivo non sia stato ancora pagato.
+Le disposizioni di cui al comma 1 non si applicano alle operazioni nei confronti dello Stato e degli enti e istituti indicati nell'ultimo comma dell'[articolo 6 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, per le quali alla data del 31 dicembre 1988 sia stata emessa e registrata la fattura ai sensi degli articoli 21, 23 e 24 del predetto decreto, ancorche' alla data stessa il corrispettivo non sia stato ancora pagato.
 
 ### Art. 35.
 
 1.
 
-La percentuale di compensazione stabilita nella misura del 10 per cento dall'[articolo 2, comma 2, della legge 24 dicembre 1988, n. 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-24;541#art_2-com2), e' fissata, per l'anno 1989, nella misura del 12 per cento.
+La percentuale di compensazione stabilita nella misura del 10 per cento dall'[articolo 2, comma 2, della legge 24 dicembre 1988, n. 541](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201989.md), e' fissata, per l'anno 1989, nella misura del 12 per cento.
 
 ### Art. 36.
 
@@ -718,7 +718,7 @@ La tassa e' altresi' dovuta, a partire dalla medesima data di cui al comma 1, pe
 
 3.
 
-La tassa di rilascio e quella annuale non si applicano alle societa' soggette all'iscrizione nel registro delle imprese per le quali deve essere corrisposta la tassa di concessione governativa di cui ai [commi 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_3-com18) e [19 dell'articolo 3 del decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_3-com19), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-17;17), e successive modificazioni.
+La tassa di rilascio e quella annuale non si applicano alle societa' soggette all'iscrizione nel registro delle imprese per le quali deve essere corrisposta la tassa di concessione governativa di cui ai [commi 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_3-com18) e [19 dell'articolo 3 del decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_3-com19), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201984%20n.%20853%20recante%20disposizioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20imposte%20sul%20reddito%20e%20disposizioni%20rel_0b6b4cacfea3.md), e successive modificazioni.
 
 4.
 
@@ -738,12 +738,12 @@ Per la mancata indicazione o produzione delle attestazioni di versamento nei ter
 
 8.
 
-Il [comma 1 dell'articolo 8 del decreto-legge 30 maggio 1988 n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-30;173#art_8-com1), convertito, con modificazioni, dalla [legge 26 luglio 1988, n. 291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-26;291), e' sostituito dal seguente: 
- "1. La tassa di concessione governativa per l'iscrizione delle societa' nel registro delle imprese e quella annuale di cui ai commi 18, primo periodo, e 19 dell'[articolo 3 del decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_3), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-17;17), e' stabilita nella misura di lire 12 milioni per le societa' per azioni ed in accomandita per azioni, di lire 3 milioni 500 mila per le societa' a responsabilita' limitata e di lire 500 mila per le societa' di altro tipo.".
+Il [comma 1 dell'articolo 8 del decreto-legge 30 maggio 1988 n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-30;173#art_8-com1), convertito, con modificazioni, dalla [legge 26 luglio 1988, n. 291](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20maggio%201988%20n.%20173%20recante%20misure%20urgenti%20in%20materia%20di%20finanza%20pubblica%20per%20lanno%201988.%20Delega%20al%20Governo%20per%20la%20revisione%20del_da4733c10759.md), e' sostituito dal seguente: 
+ "1. La tassa di concessione governativa per l'iscrizione delle societa' nel registro delle imprese e quella annuale di cui ai commi 18, primo periodo, e 19 dell'[articolo 3 del decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_3), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201984%20n.%20853%20recante%20disposizioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20imposte%20sul%20reddito%20e%20disposizioni%20rel_0b6b4cacfea3.md), e' stabilita nella misura di lire 12 milioni per le societa' per azioni ed in accomandita per azioni, di lire 3 milioni 500 mila per le societa' a responsabilita' limitata e di lire 500 mila per le societa' di altro tipo.".
 
 9.
 
-Le tasse di concessione governativa di cui ai numeri 72 e 73 della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641), sono stabilite in lire 40 mila e quelle di cui al n. 87 della medesima tariffa sono stabilite in lire 50 mila.
+Le tasse di concessione governativa di cui ai numeri 72 e 73 della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), sono stabilite in lire 40 mila e quelle di cui al n. 87 della medesima tariffa sono stabilite in lire 50 mila.
 
 10.
 
@@ -767,7 +767,7 @@ Le disposizioni dell'articolo 23 e dell'articolo 24 si applicano alle sentenze e
 
 2.
 
-Per i canoni di abbonamento alle radiodiffusioni circolari di cui al n. 36) della tabella A, parte seconda, allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633), e successive modificazioni, la disposizione di cui all'articolo 34 ha effetto dal 1 febbraio 1989; per le cessioni di libri le disposizioni relative alla emissione della bolla di accompagnamento di cui al [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-06;627), e successive modificazioni, e quelle relative al rilascio dello scontrino fiscale di cui alla [legge 26 gennaio 1983, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-01-26;18), e successive modificazioni, si applicano a decorrere dal 1 aprile 1989.
+Per i canoni di abbonamento alle radiodiffusioni circolari di cui al n. 36) della tabella A, parte seconda, allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, la disposizione di cui all'articolo 34 ha effetto dal 1 febbraio 1989; per le cessioni di libri le disposizioni relative alla emissione della bolla di accompagnamento di cui al [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](../DPR/Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md), e successive modificazioni, e quelle relative al rilascio dello scontrino fiscale di cui alla [legge 26 gennaio 1983, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-01-26;18), e successive modificazioni, si applicano a decorrere dal 1 aprile 1989.
 
 ### Art. 39.
 

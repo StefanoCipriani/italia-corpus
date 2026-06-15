@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 marzo 1933, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-13;272), recante l'autorizzazione di spesa di L. 10.000.000 per il pagamento delle indennita' di espropriazione in dipendenza della costruzione delle strade ex militari. 
+ E' convertito in legge il [R. decreto-legge 13 marzo 1933, n. 272](Autorizzazione%20della%20spesa%20di%20L.%2010.000.000%20per%20il%20pagamento%20delle%20indennita%20di%20espropriazione%20in%20dipendenza%20della%20costruzione%20delle%20strade%20ex%20militari.%20033U0272.md), recante l'autorizzazione di spesa di L. 10.000.000 per il pagamento delle indennita' di espropriazione in dipendenza della costruzione delle strade ex militari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

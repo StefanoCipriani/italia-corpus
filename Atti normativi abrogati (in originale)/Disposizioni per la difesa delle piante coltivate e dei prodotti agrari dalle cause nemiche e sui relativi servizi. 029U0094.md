@@ -134,7 +134,7 @@ Sono Consorzi obbligatori provinciali permanenti i Consorzi antifillosserici, cr
  
  Nelle Provincie in cui esistono piu' Consorzi antifillosserici, essi verranno riuniti in un solo Consorzio provinciale per la viticoltura, al quale sara' trasferito il patrimonio dei Consorzi preesistenti nella Provincia. 
  
- I Consorzi obbligatori per l'olivicoltura, comunque costituiti, a norma della [legge 26 giugno 1913, n. 888](Che%20reca%20provvedimenti%20intesi%20a%20prevenire%20e%20a%20combattere%20le%20malattie%20delle%20piante.%20013U0888.md), e del [R. decreto-legge 12 agosto 1927, n. 1754](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1754), e gli altri che si costituiranno, a norma di quest'ultima e della presente legge, potranno essere comunali, intercomunali e provinciali e avere carattere sia temporaneo che permanente.
+ I Consorzi obbligatori per l'olivicoltura, comunque costituiti, a norma della [legge 26 giugno 1913, n. 888](Che%20reca%20provvedimenti%20intesi%20a%20prevenire%20e%20a%20combattere%20le%20malattie%20delle%20piante.%20013U0888.md), e del [R. decreto-legge 12 agosto 1927, n. 1754](Provvedimenti%20per%20lincremento%20della%20olivicoltura.%20027U1754.md), e gli altri che si costituiranno, a norma di quest'ultima e della presente legge, potranno essere comunali, intercomunali e provinciali e avere carattere sia temporaneo che permanente.
 
 ### Art. 14.
 
@@ -166,7 +166,7 @@ I Consorzi, comunque costituiti ai sensi della presente legge, hanno il diritto 
  
  La contribuzione annua ai Consorzi provinciali per la viticoltura sara' corrisposta da tutti i proprietari di terreni, che non siano terreni a bosco o a pascolo permanente, in ragione della estensione complessiva dei vigneti e terreni vitati della Provincia in misura non superiore a lire due per ettaro, ripartita nell'ammontare complessivo fra tutti i proprietari predetti, nella proporzione del numero di ettari da ciascuno posseduto, calcolandosi le frazioni superiori alla meta' per un ettaro intero ed essendo esentate le frazioni inferiori a mezzo ettaro. 
  
- Nel caso dei Consorzi per l'olivicoltura, la contribuzione per le spese generali di amministrazione e' quella prevista dall'[articolo 5 del R. decreto legge 12 agosto 1927, n. 1754](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1754#art_5), mentre le eventuali spese per la esecuzione delle operazioni e per le varie iniziative di difesa verranno ripartite e riscosse a norma della presente legge.
+ Nel caso dei Consorzi per l'olivicoltura, la contribuzione per le spese generali di amministrazione e' quella prevista dall'[articolo 5 del R. decreto legge 12 agosto 1927, n. 1754](Provvedimenti%20per%20lincremento%20della%20olivicoltura.%20027U1754.md), mentre le eventuali spese per la esecuzione delle operazioni e per le varie iniziative di difesa verranno ripartite e riscosse a norma della presente legge.
 
 ### Art. 17.
 
@@ -174,7 +174,7 @@ In caso di cessazione del Consorzio, i residui della gestione ed ogni altra atti
 
 ### Art. 18.
 
-Gli Istituti di credito agrario, creati col [R. decreto legge 29 luglio 1927, n. 1509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509), sono autorizzati a concedere ai Consorzi obbligatori, di cui ai precedenti articoli, mutui per condurre direttamente le operazioni di difesa contro i nemici e parassiti delle piante coltivate, e per acquisto di attrezzi e materiali occorrenti, da estinguersi al massimo entro due anni, e garantiti a mezzo di delegazioni sugli esattori incaricati della riscossione dei ruoli nominativi di contribuzione, a norma del precedente articolo 16.
+Gli Istituti di credito agrario, creati col [R. decreto legge 29 luglio 1927, n. 1509](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md), sono autorizzati a concedere ai Consorzi obbligatori, di cui ai precedenti articoli, mutui per condurre direttamente le operazioni di difesa contro i nemici e parassiti delle piante coltivate, e per acquisto di attrezzi e materiali occorrenti, da estinguersi al massimo entro due anni, e garantiti a mezzo di delegazioni sugli esattori incaricati della riscossione dei ruoli nominativi di contribuzione, a norma del precedente articolo 16.
 
 ### Art. 19.
 
@@ -272,7 +272,7 @@ La direzione tecnica dei Consorzi per la viticoltura sara' affidata in ciascuna 
 
 ### Art. 26.
 
-Le violazioni delle norme relative alla importazione, esportazione e circolazione delle piante, parti di piante e semi sono punite con l'ammenda da lire cento a lire duemila, senza pregiudizio delle maggiori pene stabilite dalle leggi doganali per il contrabbando o dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per i reati in esso previsti. 
+Le violazioni delle norme relative alla importazione, esportazione e circolazione delle piante, parti di piante e semi sono punite con l'ammenda da lire cento a lire duemila, senza pregiudizio delle maggiori pene stabilite dalle leggi doganali per il contrabbando o dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i reati in esso previsti. 
  
  Nel caso di commercio ambulante di talee e barbatelle di viti americane si procede inoltre alla confisca e alla distruzione immediata del materiale. 
  

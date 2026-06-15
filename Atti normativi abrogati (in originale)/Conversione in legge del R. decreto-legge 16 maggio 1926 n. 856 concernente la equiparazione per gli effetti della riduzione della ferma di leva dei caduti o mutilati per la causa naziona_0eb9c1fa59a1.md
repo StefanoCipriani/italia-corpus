@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 maggio 1926, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;856), concernente la equiparazione, per gli effetti della riduzione della ferma di leva, dei caduti o mutilati per la causa nazionale ai caduti e mutilati per causa del servizio militare. 
+ E' convertito in legge il [R. decreto-legge 16 maggio 1926, n. 856](Equiparazione%20per%20gli%20effetti%20della%20riduzione%20della%20ferma%20di%20leva%20dei%20caduti%20o%20mutilati%20per%20la%20causa%20nazionale%20ai%20caduti%20o%20mutilati%20per%20causa%20del%20servizio%20militare.%20026U0856.md), concernente la equiparazione, per gli effetti della riduzione della ferma di leva, dei caduti o mutilati per la causa nazionale ai caduti e mutilati per causa del servizio militare. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

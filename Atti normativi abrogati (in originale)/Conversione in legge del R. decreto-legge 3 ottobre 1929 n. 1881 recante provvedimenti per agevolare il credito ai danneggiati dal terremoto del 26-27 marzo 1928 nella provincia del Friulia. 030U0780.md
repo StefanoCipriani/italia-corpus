@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1881](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-03;1881), recante provvedimenti per agevolare il credito ai danneggiati dal terremoto del 26-27 marzo 1928, nella provincia del Friuli. 
+ E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1881](Provvedimenti%20per%20agevolare%20il%20credito%20ai%20danneggiati%20da%20terremoto%20del%2026-27%20marzo%201928%20nella%20provincia%20del%20Friuli.%20029U1881.md), recante provvedimenti per agevolare il credito ai danneggiati dal terremoto del 26-27 marzo 1928, nella provincia del Friuli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

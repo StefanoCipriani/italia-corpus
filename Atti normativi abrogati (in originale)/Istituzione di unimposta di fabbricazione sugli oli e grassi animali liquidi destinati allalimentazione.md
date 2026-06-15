@@ -150,7 +150,7 @@ Chiunque omette di presentare la denuncia prescritta dall'art. 2 del presente de
 
 ## Art. 23.
 
-Chiunque manomette od altera in qualsiasi modo i congegni, i bolli ed i sigilli posti dall'Amministrazione, e' punito a termine dell'[art. 349 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_349).
+Chiunque manomette od altera in qualsiasi modo i congegni, i bolli ed i sigilli posti dall'Amministrazione, e' punito a termine dell'[art. 349 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 24.
 

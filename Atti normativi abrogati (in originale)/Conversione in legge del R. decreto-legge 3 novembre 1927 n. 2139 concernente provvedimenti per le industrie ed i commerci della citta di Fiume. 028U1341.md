@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-03;2139), concernente provvedimenti per le industrie ed i commerci della citta' di Fiume. 
+ E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2139](Provvedimenti%20per%20le%20industrie%20ed%20i%20commerci%20della%20citta%20di%20Fiume.%20027U2139.md), concernente provvedimenti per le industrie ed i commerci della citta' di Fiume. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

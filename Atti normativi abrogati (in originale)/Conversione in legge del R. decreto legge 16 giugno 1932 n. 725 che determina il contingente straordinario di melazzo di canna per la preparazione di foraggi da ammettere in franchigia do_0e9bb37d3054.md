@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 giugno 1932, n. 725](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-06-16;725), che determina il contingente straordinario di melazzo di canna per la preparazione di foraggi da ammettere in franchigia doganale nell'anno 1932. 
+ E' convertito in legge il [R. decreto-legge 16 giugno 1932, n. 725](Contingente%20straordinario%20di%20melazzo%20di%20canna%20per%20la%20preparazione%20di%20foraggi%20da%20ammettere%20in%20franchigia%20doganale%20nellanno%201932.%20032U0725.md), che determina il contingente straordinario di melazzo di canna per la preparazione di foraggi da ammettere in franchigia doganale nell'anno 1932. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

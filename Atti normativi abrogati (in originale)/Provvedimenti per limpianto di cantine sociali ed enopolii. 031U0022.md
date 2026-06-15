@@ -16,7 +16,7 @@ Il Ministero dell'agricoltura e delle foreste promuovera' nei modi che saranno s
 
 ## Art. 2.
 
-Per gli incoraggiamenti, di cui all'articolo precedente, e' inscritta in apposito capitolo della parte straordinaria dello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste, per l'esercizio finanziario 1930-1931, la somma di L. 3.000.000, che sara' prelevata dal fondo di integrazione costituito, a norma del [R. decreto-legge 20 marzo 1930, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-20;141), presso la Cassa depositi e prestiti, con i proventi della addizionale governativa sul consumo delle bevande vinose ed alcooliche e sulla birra, e sara' versata ad apposito capitolo del bilancio dell'entrata. 
+Per gli incoraggiamenti, di cui all'articolo precedente, e' inscritta in apposito capitolo della parte straordinaria dello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste, per l'esercizio finanziario 1930-1931, la somma di L. 3.000.000, che sara' prelevata dal fondo di integrazione costituito, a norma del [R. decreto-legge 20 marzo 1930, n. 141](Abolizione%20delle%20cinte%20daziarie%20e%20dei%20dazi%20interni%20comunali%20istituzione%20di%20imposte%20di%20consumo.%20030U0141.md), presso la Cassa depositi e prestiti, con i proventi della addizionale governativa sul consumo delle bevande vinose ed alcooliche e sulla birra, e sara' versata ad apposito capitolo del bilancio dell'entrata. 
  
  Il Ministro per le finanze ha facolta' di provvedere, con propri decreti, alle necessarie variazioni di bilancio. 
  

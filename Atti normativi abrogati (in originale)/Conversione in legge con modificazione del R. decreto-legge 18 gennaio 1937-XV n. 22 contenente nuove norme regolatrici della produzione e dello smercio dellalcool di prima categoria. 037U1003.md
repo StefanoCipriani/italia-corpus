@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 gennaio 1937, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-18;22), contenente nuove norme regolatrici della produzione e dello smercio dell'alcool di prima categoria, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 18 gennaio 1937, n. 22](Nuove%20norme%20regolatrici%20la%20produzione%20e%20lo%20smercio%20dellalcool%20di%20prima%20categoria.%20037U0022.md), contenente nuove norme regolatrici della produzione e dello smercio dell'alcool di prima categoria, con la seguente modificazione: 
  
  All'art. 1 e' sostituito il seguente: 
  

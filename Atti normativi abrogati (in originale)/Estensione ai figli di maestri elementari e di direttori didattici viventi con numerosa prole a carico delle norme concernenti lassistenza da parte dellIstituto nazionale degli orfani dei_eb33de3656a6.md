@@ -16,7 +16,7 @@ L'Istituto nazionale per l'educazione e la istruzione degli orfani dei maestri e
 
 ## Art. 2.
 
-A figli di maestri elementari e di direttori didattici viventi, che abbiano a carico sette o piu' figli minorenni, possono essere conferite, inoltre, ad annum, le borse di studio, che risulteranno disponibili, dopo soddisfatte tutte le domande presentate nell'interesse di orfani o di altri aventi diritto, a norma del testo unico approvato con [R. decreto 22 febbraio 1930, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-22;127).
+A figli di maestri elementari e di direttori didattici viventi, che abbiano a carico sette o piu' figli minorenni, possono essere conferite, inoltre, ad annum, le borse di studio, che risulteranno disponibili, dopo soddisfatte tutte le domande presentate nell'interesse di orfani o di altri aventi diritto, a norma del testo unico approvato con [R. decreto 22 febbraio 1930, n. 127](Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sullIstituto%20nazionale%20per%20leducazione%20e%20listruzione%20degli%20orfani%20dei%20maestri%20elementari%20e%20dei%20direttori%20didattici.%20030U0127.md).
 
 ## Art. 3.
 

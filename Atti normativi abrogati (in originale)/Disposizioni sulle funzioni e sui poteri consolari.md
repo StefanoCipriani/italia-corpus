@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 6 della legge 13 luglio 1965, n. 891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;891#art_6), concernente delega al Governo per l'emanazione di norme relative all'ordinamento dell'Amministrazione degli affari esteri;
+Visto l'[art. 6 della legge 13 luglio 1965, n. 891](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), concernente delega al Governo per l'emanazione di norme relative all'ordinamento dell'Amministrazione degli affari esteri;
 
-Vista la [legge 25 luglio 1966, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;586), concernente la proroga della delega predetta;
+Vista la [legge 25 luglio 1966, n. 586](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20della%20delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri%20e%20per%20modificare%20e%20coordinare%20le%20norme%20vigenti%20in%20materia%20consolare.md), concernente la proroga della delega predetta;
 
-Udita la Commissione parlamentare di cui all'[art. 1 della legge 13 luglio 1965, n. 891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;891#art_1);
+Udita la Commissione parlamentare di cui all'[art. 1 della legge 13 luglio 1965, n. 891](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -32,17 +32,17 @@ L'ordinamento degli uffici consolari e' stabilito dalle norme di organizzazione 
 
 ### Art. 2. — (Attribuzione di funzioni e poteri consolari)
 
-Le funzioni e i poteri dell'autorita' consolare sono ad essa attribuiti dall'[art. 45 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_45), dal presente decreto, dalle altre leggi dello Stato nonche' dalle convenzioni e dagli usi internazionali.
+Le funzioni e i poteri dell'autorita' consolare sono ad essa attribuiti dall'[art. 45 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), dal presente decreto, dalle altre leggi dello Stato nonche' dalle convenzioni e dagli usi internazionali.
 
 ### Art. 3. — (Esercizio delle funzioni e dei poteri consolari)
 
 Le funzioni e i poteri attribuiti all'autorita' consolare sono esercitati, in conformita' delle convenzioni e degli usi internazionali, dal capo dell'ufficio consolare. 
  E' capo di ufficio consolare di I categoria, il titolare, il capo di missione diplomatica nell'esercizio di funzioni consolari, il capo di Cancelleria consolare e chi di essi fa le veci. 
- E' capo di ufficio consolare di II categoria il funzionario onorario ad esso preposto o chi ne fa le veci a norma del [secondo comma dell'art. 49 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_49-com2).
+ E' capo di ufficio consolare di II categoria il funzionario onorario ad esso preposto o chi ne fa le veci a norma del [secondo comma dell'art. 49 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
 
 ### Art. 4. — (Delega di funzioni e poteri consolari)
 
-Il capo di ufficio consolare di I categoria puo' delegare l'esercizio delle funzioni e dei poteri di cui al [secondo comma dell'art. 45 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_45-com2), come specificati dal presente decreto o da altre disposizioni, ad altro personale dell'ufficio. 
+Il capo di ufficio consolare di I categoria puo' delegare l'esercizio delle funzioni e dei poteri di cui al [secondo comma dell'art. 45 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), come specificati dal presente decreto o da altre disposizioni, ad altro personale dell'ufficio. 
  Non puo' tuttavia formare oggetto di delega a personale non appartenente alle carriere direttive l'esercizio delle funzioni e dei poteri inerenti alla giurisdizione o comunque connessi con questa, di quelli disciplinari in materia di navigazione, di quelli notarili salvo per quanto concerne le autenticazioni e le procure generali e speciali, nonche' di quelli il cui esercizio e', a norma degli articoli seguenti, esplicitamente attribuito al capo dell'ufficio consolare.
 
 ### Art. 5. — (Competenza in caso di incompatibilita)
@@ -56,7 +56,7 @@ L'autorita' consolare presta ogni possibile collaborazione alle autorita' locali
 ### Art. 7. — (Domicilio e residenza)
 
 Il domicilio e la residenza nella circoscrizione consolare sono determinati secondo le norme degli [articoli 43 e seguenti Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_43). 
- Ai fini dell'applicazione degli articoli 49, ultimo comma, e 50 del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), i residenti nella circoscrizione di ufficio consolare non abilitato all'esercizio di determinate funzioni o poteri sono considerati quali residenti nella circoscrizione della missione diplomatica o dell'ufficio consolare cui le funzioni o i poteri stessi sono demandati.
+ Ai fini dell'applicazione degli articoli 49, ultimo comma, e 50 del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), i residenti nella circoscrizione di ufficio consolare non abilitato all'esercizio di determinate funzioni o poteri sono considerati quali residenti nella circoscrizione della missione diplomatica o dell'ufficio consolare cui le funzioni o i poteri stessi sono demandati.
 
 ## DELLE FUNZIONI E DEI POTERI CONSOLARI  Capo I STATO CIVILE E FUNZIONI NOTARILI
 
@@ -157,16 +157,16 @@ L'autorita' consolare puo' concedere sussidi ai cittadini che versino in stato d
 ### Art. 24. — (Rimpatrio di cittadini)
 
 L'autorita' consolare, nei casi e con l'osservanza delle condizioni e modalita' di cui al precedente articolo, puo' fornire i mezzi per il rimpatrio. 
- L'autorita' consolare deve scegliere la forma di rimpatrio piu' appropriata e meno onerosa per l'erario, facendo ricorso, ove del caso, ai poteri di cui all'[art. 197 Codice navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_197). 
- La indennita' integrativa prevista dall'[art. 443, n. 2 del decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328#art_443-num2), puo' essere concessa oltre che per i marittimi, nei casi ivi esplicitamente previsti, anche per i dementi, malati, minori e altre persone, per le quali si pongano particolari esigenze di custodia e di cura. La indennita' ed il prezzo complessivo del mantenimento e del trasporto di cui al n. 3 dello stesso articolo sono fissati con decreto del capo dell'ufficio consolare entro limiti massimi e minimi stabiliti con decreto del Ministro per gli affari esteri di concerto con quello per il tesoro e per la marina mercantile. 
- Restano salve le disposizioni di cui all'[art. 30 del regio decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205#art_30), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473).
+ L'autorita' consolare deve scegliere la forma di rimpatrio piu' appropriata e meno onerosa per l'erario, facendo ricorso, ove del caso, ai poteri di cui all'[art. 197 Codice navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). 
+ La indennita' integrativa prevista dall'[art. 443, n. 2 del decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), puo' essere concessa oltre che per i marittimi, nei casi ivi esplicitamente previsti, anche per i dementi, malati, minori e altre persone, per le quali si pongano particolari esigenze di custodia e di cura. La indennita' ed il prezzo complessivo del mantenimento e del trasporto di cui al n. 3 dello stesso articolo sono fissati con decreto del capo dell'ufficio consolare entro limiti massimi e minimi stabiliti con decreto del Ministro per gli affari esteri di concerto con quello per il tesoro e per la marina mercantile. 
+ Restano salve le disposizioni di cui all'[art. 30 del regio decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205#art_30), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md).
 
 ### Art. 25. — (Rimpatrio in favore di gente di mare)
 
-L'autorita' consolare provvede, in conformita' agli articoli 363, terzo comma, e seguenti [Codice navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), al rimpatrio di cittadini indigenti aventi la qualifica di gente di mare e che siano stati sbarcati da nave mercantile nazionale in luogo diverso dal porto di arruolamento ovvero che, arruolati a bordo di nave mercantile nazionale, abbiano fatto naufragio. 
+L'autorita' consolare provvede, in conformita' agli articoli 363, terzo comma, e seguenti [Codice navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), al rimpatrio di cittadini indigenti aventi la qualifica di gente di mare e che siano stati sbarcati da nave mercantile nazionale in luogo diverso dal porto di arruolamento ovvero che, arruolati a bordo di nave mercantile nazionale, abbiano fatto naufragio. 
  L'autorita' consolare si attiene a quanto disposto dal secondo comma dell'articolo precedente. 
  Il rimborso delle spese sostenute, ai sensi dei precedenti comma, e' chiesto dall'autorita' consolare al Ministero della marina mercantile, previa presentazione dei titoli giustificativi di spesa.
-Il Ministero della marina mercantile, in conformita' all'[art. 363, terzo comma, Codice navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_363-com3), emette ingiunzione a carico dell'armatore per il rimborso delle spese sostenute dallo Stato.
+Il Ministero della marina mercantile, in conformita' all'[art. 363, terzo comma, Codice navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), emette ingiunzione a carico dell'armatore per il rimborso delle spese sostenute dallo Stato.
 
 ### Art. 26. — (Rimpatrio su navi ed aeromobili militari nazionali)
 
@@ -175,13 +175,13 @@ In caso eccezionale e sempre che le circostanze lo consiglino, l'autorita' conso
 
 ### Art. 27. — (Rimpatri e trasferimenti in circostanze eccezionali)
 
-Qualora circostanze eccezionali impongano di provvedere al rimpatrio urgente di cittadini, o comunque al loro trasferimento altrove, e se il disposto dell'[art. 197 Codice navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_197) non risulti adeguato alle necessita', l'autorita' consolare puo' disporre, su istruzioni o di sua iniziativa, la requisizione per impiego temporaneo di navi mercantili o di aeromobili civili nazionali. 
+Qualora circostanze eccezionali impongano di provvedere al rimpatrio urgente di cittadini, o comunque al loro trasferimento altrove, e se il disposto dell'[art. 197 Codice navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) non risulti adeguato alle necessita', l'autorita' consolare puo' disporre, su istruzioni o di sua iniziativa, la requisizione per impiego temporaneo di navi mercantili o di aeromobili civili nazionali. 
  L'autorita' consolare comunica col mezzo piu' celere i provvedimenti adottati al Ministero degli affari esteri ed a quelli della marina mercantile e dei trasporti e dell'aviazione civile, a seconda della rispettiva competenza. 
- Alle requisizioni effettuate ai sensi del primo comma si applicano, per quanto concerne le indennita', i criteri di cui alla [legge 13 luglio 1939, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-13;1154), e successive modificazioni.
+ Alle requisizioni effettuate ai sensi del primo comma si applicano, per quanto concerne le indennita', i criteri di cui alla [legge 13 luglio 1939, n. 1154](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md), e successive modificazioni.
 
 ### Art. 28. — (Assistenza a non cittadini)
 
-L'autorita' consolare puo' concedere assistenza anche a non cittadini ai sensi del [secondo comma dell'art. 56 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_56-com2).
+L'autorita' consolare puo' concedere assistenza anche a non cittadini ai sensi del [secondo comma dell'art. 56 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
 
 ## ATTRIBUZIONI IN MATERIA DI CONTROVERSIE, DI ASSISTENZA GIUDIZIARIA E DI GIURISDIZIONE VOLONTARIA
 
@@ -303,7 +303,7 @@ L'autorita' consolare:
  b) esercita il potere di polizia della navigazione nei confronti delle navi mercantili e degli aeromobili civili italiani; 
  c) esercita il potere disciplinare nei confronti del personale delle navi mercantili e degli aeromobili civili italiani. 
  L'autorita' consolare esercita inoltre la giurisdizione civile in materia di controversie fra il comandante, gli ufficiali ed i membri dell'equipaggio, o loro aventi causa, delle navi mercantili italiane, purche' tali controversie concernano l'adempimento degli obblighi connessi all'esercizio della navigazione o comunque discendenti dal contratto di arruolamento. Al relativo procedimento si applicano le disposizioni di cui al libro II, titolo II, [Codice procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443). 
- I poteri di cui al precedente comma possono essere esercitati solo da funzionari consolari appartenenti alle carriere direttive o dai capi degli uffici di cui all'[articolo 169 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_169).
+ I poteri di cui al precedente comma possono essere esercitati solo da funzionari consolari appartenenti alle carriere direttive o dai capi degli uffici di cui all'[articolo 169 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
 
 ### Art. 47. — (Autorita' di appello)
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;1931), che stabilisce l'appannaggio a Sua Altezza Reale il Principe Amedeo di Savoia-Aosta, Duca delle Pugile. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 1931](Assegnazione%20dellappannaggio%20a%20Sua%20Altezza%20Reale%20il%20Principe%20Amedeo%20di%20Savoia-Aosta%20Duca%20delle%20Puglie.%20027U1931.md), che stabilisce l'appannaggio a Sua Altezza Reale il Principe Amedeo di Savoia-Aosta, Duca delle Pugile. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

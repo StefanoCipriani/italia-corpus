@@ -58,7 +58,7 @@ L'autorizzazione di spesa di cui all'[articolo 2 della legge 16 maggio 1956, n. 
 ### Art. 8. — (Nuovo apporto alla Cassa per la
  formazione della piccola proprieta' contadina)
 
-E' autorizzata la spesa di lire 1.500 milioni quale nuovo apporto al patrimonio della Cassa per la formazione della piccola proprieta' contadina istituita con l'[articolo 9 del decreto legislativo 5 marzo 1948, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-05;121#art_9).
+E' autorizzata la spesa di lire 1.500 milioni quale nuovo apporto al patrimonio della Cassa per la formazione della piccola proprieta' contadina istituita con l'[articolo 9 del decreto legislativo 5 marzo 1948, n. 121](../Decreti%20Legislativi/Provvedimenti%20a%20favore%20di%20varie%20regioni%20dellItalia%20meridionale%20e%20delle%20Isole.md).
  La somma di lire 1.500 milioni sara' iscritta nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1959-60.
 
 ## INTERVENTI DIVERSI IN AGRICOLTURA
@@ -271,7 +271,7 @@ CAPO X
 
 ### Art. 43.
 
-Ai proprietari di navi mercantili a scafo metallico da carico secco e liquido iscritte alla, data del 1 gennaio 1959 nelle matricole o nei registri di cui all'[articolo 146 del Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_146) e costruite in data anteriore al 1945, che procedano alla demolizione di tali navi ed alla costruzione di nuove unita' sono concessi i benefici nella misura, condizione e modalita' di cui alle presenti disposizioni.
+Ai proprietari di navi mercantili a scafo metallico da carico secco e liquido iscritte alla, data del 1 gennaio 1959 nelle matricole o nei registri di cui all'[articolo 146 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e costruite in data anteriore al 1945, che procedano alla demolizione di tali navi ed alla costruzione di nuove unita' sono concessi i benefici nella misura, condizione e modalita' di cui alle presenti disposizioni.
  Per aver titolo ai benefici previsti dalle presenti disposizioni i proprietari delle navi da demolire devono commettere la costruzione di nuovo naviglio a scafo metallico per un tonnellaggio corrispondente ad almeno il 75 per cento di quello da demolire.
  La demolizione del naviglio vetusto e la commessa del nuovo naviglio devono essere ritenute conformi agli interessi dell'economia nazionale a giudizio insindacabile del Ministro per la marina mercantile.
 
@@ -283,7 +283,7 @@ Nel periodo di due anni dall'entrata in vigore delle presenti disposizioni e con
 
 ### Art. 45.
 
-Salvo quanto previsto dall'[articolo 160 del Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_160) e relative norme regolamentari, la demolizione delle navi di cui all'articolo 43 deve essere iniziata, dopo l'entrata in vigore delle presenti disposizioni e deve risultare, a termini dell'articolo 343 del regolamento per la esecuzione del [Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), da apposito processo verbale da presentarsi ai Ministero della, marina mercantile.
+Salvo quanto previsto dall'[articolo 160 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e relative norme regolamentari, la demolizione delle navi di cui all'articolo 43 deve essere iniziata, dopo l'entrata in vigore delle presenti disposizioni e deve risultare, a termini dell'articolo 343 del regolamento per la esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), da apposito processo verbale da presentarsi ai Ministero della, marina mercantile.
 
 ### Art. 46.
 
@@ -293,7 +293,7 @@ Coloro che intendano demolire il naviglio di cui all'articolo 43 e sostituirlo c
 
 ### Art. 47.
 
-Qualora i singoli proprietari con le navi da demolire non raggiungano un tonnellaggio sufficiente per la costruzione di nuovo naviglio avente i requisiti di cui all'articolo 13, possono raggrupparsi con altri proprietari, assumendo la forma della comproprieta' prevista dall'[articolo 258 e seguenti del Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_258) o costituendo una delle societa' previste dal [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), con conferimento della caratura delle navi da demolire.
+Qualora i singoli proprietari con le navi da demolire non raggiungano un tonnellaggio sufficiente per la costruzione di nuovo naviglio avente i requisiti di cui all'articolo 13, possono raggrupparsi con altri proprietari, assumendo la forma della comproprieta' prevista dall'[articolo 258 e seguenti del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) o costituendo una delle societa' previste dal [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), con conferimento della caratura delle navi da demolire.
  Gli atti e formalita' relativi alla costituzione dei raggruppamenti e delle societa' ed al conferimento della caratura delle navi, ai fini del comma precedente, sono esenti da ogni tributo.
 
 ### Art. 48.
@@ -370,8 +370,8 @@ commerciali ed artigiane danneggiate o distrutte
 
 Il fondo delle anticipazioni dello Stato previsto dal [primo comma dell'articolo 16 della legge 9 aprile 1955, n. 279](Provvidenze%20straordinarie%20per%20le%20zone%20alluvionate%20nei%20Comuni%20della%20provincia%20di%20Salerno.md), per l'applicazione dell'[articolo 3 del decreto-legge 15 dicembre 1951, n. 
 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1951-12-15;1334#art_3), convertito, con modificazioni, nella [legge 13 febbraio 1952, n. 
-50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-13;50) a favore delle imprese danneggiate da pubbliche calamita' e' elevato da lire 5.550.000.000 a lire 6.050.000.000. 
- Il limite di spesa di lire 2.600.000.000 previsto dal [primo comma dell'art. 4 della legge 24 giugno 1958, n. 637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-06-24;637#art_4-com1), per l'applicazione delle provvidenze di cui al secondo comma dell'articolo 5 del citato [decreto-legge 15 dicembre 1951, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1951-12-15;1334), convertito, con modificazioni, nella [legge 13 febbraio 1952, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-13;50) e' elevato a lire 2.700.000.000.
+50](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2015%20dicembre%201951%20n.%201334%20concernente%20lestensione%20alle%20imprese%20commerciali%20ed%20artigiane%20della%20legge%2021%20agosto%201949%20n.%20638%20sulle%20imprese%20industriali%20d_0949d70ecf98.md) a favore delle imprese danneggiate da pubbliche calamita' e' elevato da lire 5.550.000.000 a lire 6.050.000.000. 
+ Il limite di spesa di lire 2.600.000.000 previsto dal [primo comma dell'art. 4 della legge 24 giugno 1958, n. 637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-06-24;637#art_4-com1), per l'applicazione delle provvidenze di cui al secondo comma dell'articolo 5 del citato [decreto-legge 15 dicembre 1951, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1951-12-15;1334), convertito, con modificazioni, nella [legge 13 febbraio 1952, n. 50](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2015%20dicembre%201951%20n.%201334%20concernente%20lestensione%20alle%20imprese%20commerciali%20ed%20artigiane%20della%20legge%2021%20agosto%201949%20n.%20638%20sulle%20imprese%20industriali%20d_0949d70ecf98.md) e' elevato a lire 2.700.000.000.
 
 ## POTENZIAMENTO AZIENDE TERMALI
 
@@ -379,7 +379,7 @@ CAPO XIV
 
 ### Art. 59.
 
-E' autorizzata la spesa di lire un miliardo da conferire al Fondo di dotazione dell'Ente autonomo di gestione per le aziende termali istituito con il [decreto del Presidente della Repubblica 7 maggio 1958, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-05-07;576).
+E' autorizzata la spesa di lire un miliardo da conferire al Fondo di dotazione dell'Ente autonomo di gestione per le aziende termali istituito con il [decreto del Presidente della Repubblica 7 maggio 1958, n. 576](../DPR/Costituzione%20dellEnte%20autonomo%20di%20gestione%20per%20le%20aziende%20termali.md).
  La somma di lire un miliardo sara' iscritta nello stato di previsione della spesa del Ministero delle partecipazioni statali per l'esercizio finanziario 1959-60.
 
 ## ISTITUTI DI PREVENZIONE E DI PENA UFFICI GIUDIZIARI - EDILIZIA

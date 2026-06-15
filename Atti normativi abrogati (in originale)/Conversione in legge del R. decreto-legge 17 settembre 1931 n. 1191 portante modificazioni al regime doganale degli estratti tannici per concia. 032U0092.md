@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 settembre 1931, n. 1191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-17;1191), portante modificazioni al regime doganale degli estratti tannici per concia. 
+ E' convertito in legge il [R. decreto-legge 17 settembre 1931, n. 1191](Modificazione%20del%20regime%20doganale%20degli%20estratti%20tannici%20per%20concia.%20031U1191.md), portante modificazioni al regime doganale degli estratti tannici per concia. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 18 gennaio 1932 - Anno X 
  

@@ -32,11 +32,11 @@ E' autorizzata la spesa di L. 15,000.000 per la costruzione di tre condotture d'
 
 ## Art. 2.
 
-I Comuni non compresi nella tabella E della [legge 31 marzo 1904, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;140), che si avvantaggeranno di tali condotture, dovranno rimborsare allo Stato la quota di spesa ad essi afferente, ferme restando le agevolazioni concesse dall'[art. 19 della legge 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445#art_19), e dalla [legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586).
+I Comuni non compresi nella tabella E della [legge 31 marzo 1904, n. 140](Che%20emana%20provvedimenti%20a%20favore%20della%20provincia%20di%20Basilicata.%20004U0140.md), che si avvantaggeranno di tali condotture, dovranno rimborsare allo Stato la quota di spesa ad essi afferente, ferme restando le agevolazioni concesse dall'[art. 19 della legge 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445#art_19), e dalla [legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md).
 
 ## Art. 3.
 
-E' prorogato a tutto il 30 giugno 1919 il termine stabilito dall'art. 8, 2° e [3° comma, della legge 7 aprile 1917, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-04-07;601#art_com3), per la presa in consegna da parte delle provincie di Basilicata e Calabria delle strade comunali delle Provincie stesse e degli acquedotti di Basilicata, costruiti a cura dello Stato, e che erano gia' passati in consegna ai Comuni interessati alla data di pubblicazione della predetta legge.
+E' prorogato a tutto il 30 giugno 1919 il termine stabilito dall'art. 8, 2° e [3° comma, della legge 7 aprile 1917, n. 601](Contenente%20autorizzazione%20di%20spese%20e%20nuove%20disposizioni%20per%20lesecuzione%20di%20opere%20pubbliche%20in%20Basilicata%20ed%20in%20Calabria.%20017U0601.md), per la presa in consegna da parte delle provincie di Basilicata e Calabria delle strade comunali delle Provincie stesse e degli acquedotti di Basilicata, costruiti a cura dello Stato, e che erano gia' passati in consegna ai Comuni interessati alla data di pubblicazione della predetta legge.
 
 ## Art. 4.
 

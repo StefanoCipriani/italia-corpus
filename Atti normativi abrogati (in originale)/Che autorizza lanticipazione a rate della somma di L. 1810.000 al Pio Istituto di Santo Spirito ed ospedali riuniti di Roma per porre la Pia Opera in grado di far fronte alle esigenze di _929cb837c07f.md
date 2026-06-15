@@ -20,11 +20,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri al Governo conferiti dalla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri al Governo conferiti dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Visto il bilancio di previsione dell'anno 1918 dello Istituto di Santo Spirito ed ospedali riuniti di Roma; 
  
- Considerato che tale bilancio si chiude con una presunta deficienza di L. 3,311,427,05, di cui solo L. 1,500,000 possono essere coperte col contributo fisso a carico del Ministero del tesoro, di cui all'art. 8, 1° comma, della [legge 18 giugno 1908, n 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-18;286); 
+ Considerato che tale bilancio si chiude con una presunta deficienza di L. 3,311,427,05, di cui solo L. 1,500,000 possono essere coperte col contributo fisso a carico del Ministero del tesoro, di cui all'art. 8, 1° comma, della [legge 18 giugno 1908, n 286](Autorizzazione%20alla%20Cassa%20depositi%20e%20prestiti%20di%20somministrare%20un%20mutuo%20di%20L.%2011400000%20per%20gli%20ospedali%20riuniti%20di%20Roma.%20008U0286.md); 
  
  Considerato che alla residua deficienza, in Lire 1,811,427,05, ed, in cifra tonda, di L. 1,810,000 non puo' farsi fronte col contributo fluttuante a carico del tesoro, di cui al secondo comma del predetto art. 8, essendo essa dovuta alle eccezionali condizioni create dallo stato di guerra e dal ricovero di un considerevole numero di militari malati o feriti in guerra; 
  

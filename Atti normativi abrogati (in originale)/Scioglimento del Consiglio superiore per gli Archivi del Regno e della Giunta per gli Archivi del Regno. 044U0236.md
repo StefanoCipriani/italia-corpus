@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163), che approva il regolamento per gli Archivi di Stato;
 
-Vista la [legge 22 dicembre 1939, n. 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-12-22;2006), sul nuovo ordinamento degli Archivi del Regno;
+Vista la [legge 22 dicembre 1939, n. 2006](Nuovo%20ordinamento%20degli%20Archivi%20del%20Regno.%20039U2006.md), sul nuovo ordinamento degli Archivi del Regno;
 
 Visto il decreto-legge Luogotenenziale 25 giugno 1944. n. 151;
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 
 ## Art. 1.
 
-Il Consiglio superiore per gli Archivi del Regno e la Giunta per gli Archivi del Regno di cui agli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-12-22;2006#art_4) e [5 della legge 22 dicembre 1939, n. 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-12-22;2006#art_5), sono sciolti e le relative attribuzioni sono, in via temporanea, demandate ad un commissario da nominarsi con decreto del Ministro per l'interno.
+Il Consiglio superiore per gli Archivi del Regno e la Giunta per gli Archivi del Regno di cui agli [articoli 4](Nuovo%20ordinamento%20degli%20Archivi%20del%20Regno.%20039U2006.md) e [5 della legge 22 dicembre 1939, n. 2006](Nuovo%20ordinamento%20degli%20Archivi%20del%20Regno.%20039U2006.md), sono sciolti e le relative attribuzioni sono, in via temporanea, demandate ad un commissario da nominarsi con decreto del Ministro per l'interno.
 
 ## Art. 2.
 

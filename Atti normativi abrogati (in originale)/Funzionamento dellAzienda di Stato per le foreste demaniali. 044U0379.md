@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 5 gennaio 1933, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-01-05;30), sull'ordinamento dell'Azienda di Stato per le foreste demaniali;
+Vista la [legge 5 gennaio 1933, n. 30](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U0030.md), sull'ordinamento dell'Azienda di Stato per le foreste demaniali;
 
-Visto il [R. decreto 5 ottobre 1933, n. 1577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-05;1577), che approva lo statuto-regolamento per l'Azienda di Stato per le foreste demaniali;
+Visto il [R. decreto 5 ottobre 1933, n. 1577](Approvazione%20dello%20statuto-regolamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U1577.md), che approva lo statuto-regolamento per l'Azienda di Stato per le foreste demaniali;
 
 Vieto il [R. decreto-legge 6 dicembre 1943, n. 16/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;16):
 
-Viste le [leggi 31 gennaio 1926, n. 100, e 4 settembre 1940, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-04;1547);
+Viste le [leggi 31 gennaio 1926, n. 100, e 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le fores
 
 ## Art. 1.
 
-Le funzioni attribuite al Consiglio di amministrazione e al Comitato amministrativo dell'Azienda di Stato per le foreste demaniali, a norma della [legge 5 gennaio 1933, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-01-05;30), e del R. decreto 5 ottobre 1933, 1577, sono esercitate, fino alla ricostituzione degli organi predetti, dal Ministro per l'agricoltura e per le foreste, e le funzioni attribuite al comandante della soppressa Milizia nazionale forestale sono affidate al capo della Direzione dei servizi forestali presso il Ministero dell'agricoltura e delle foreste.
+Le funzioni attribuite al Consiglio di amministrazione e al Comitato amministrativo dell'Azienda di Stato per le foreste demaniali, a norma della [legge 5 gennaio 1933, n. 30](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U0030.md), e del R. decreto 5 ottobre 1933, 1577, sono esercitate, fino alla ricostituzione degli organi predetti, dal Ministro per l'agricoltura e per le foreste, e le funzioni attribuite al comandante della soppressa Milizia nazionale forestale sono affidate al capo della Direzione dei servizi forestali presso il Ministero dell'agricoltura e delle foreste.
 
 ## Art. 2.
 

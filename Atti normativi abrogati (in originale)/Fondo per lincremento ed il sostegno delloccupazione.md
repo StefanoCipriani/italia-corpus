@@ -35,7 +35,7 @@ Le misure di cui al comma 1 sono riservate alla promozione di iniziative per il 
                             contributi nei limiti di 20 miliardi di lire per la realizzazione, d'intesa con gli uffici regionali del lavoro e le agenzie per l'impiego, di servizi d'informazione e consulenza in favore di lavoratori in cassa integrazione straordinaria e degli iscritti nelle liste di mobilita', diretti, a favorirne la ricollocazione anche in attivita' di lavoro autonomo e cooperativo;
                         c)
                             interventi di formazione continua, diretti a lavoratori occupati in aziende per le quali il CIPI abbia approvato programmi ai sensi dell'[articolo 2, comma 1, della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_2-com1), ovvero ai lavoratori occupati e destinati ad essere occupati nelle attivita' di cui al presente articolo, formulati congiuntamente da imprese e gruppi di imprese e dalle organizzazioni sindacali, anche a livello aziendale, dei lavoratori ovvero dalle corrispondenti associazioni o dagli organismi paritetici che abbiano per oggetto la formazione professionale. 
- Il beneficio di cui alla lettera a) e' cumulabile con le agevolazioni di cui all'[articolo 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_8), all'[articolo 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_20) ed all'[articolo 25, comma 9, della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_25-com9), all'[articolo 8, comma 9, della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_8-com9).
+ Il beneficio di cui alla lettera a) e' cumulabile con le agevolazioni di cui all'[articolo 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_8), all'[articolo 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_20) ed all'[articolo 25, comma 9, della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_25-com9), all'[articolo 8, comma 9, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md).
 
 3.
 
@@ -80,12 +80,12 @@ All'[articolo 2 della legge 28 novembre 1980, n. 782](https://www.normattiva.it/
 
 4.
 
-Il Fondo per il concorso nel pagamento degli interessi sulle operazioni di credito a favore delle imprese artigiane costituito presso la Cassa per il credito alle imprese artigiane ai sensi dell'[articolo 37 della legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949#art_37), come sostituito dall'[articolo 1 della legge 7 agosto 1971, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-08-07;685#art_1), e' incrementato della somma di lire 100 miliardi per l'anno 1991. Al corrispondente onere si provvede a carico dello stanziamento iscritto al capitolo 7743 dello stato di previsione del Ministero del tesoro per l'anno 1992.
+Il Fondo per il concorso nel pagamento degli interessi sulle operazioni di credito a favore delle imprese artigiane costituito presso la Cassa per il credito alle imprese artigiane ai sensi dell'[articolo 37 della legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949#art_37), come sostituito dall'[articolo 1 della legge 7 agosto 1971, n. 685](Modifiche%20al%20capo%20VI%20della%20legge%2025%20luglio%201952%20n.%20949%20e%20successive%20modificazioni%20concernenti%20provvedimenti%20per%20lo%20sviluppo%20delleconomia%20e%20lincremento%20delloccupazione.md), e' incrementato della somma di lire 100 miliardi per l'anno 1991. Al corrispondente onere si provvede a carico dello stanziamento iscritto al capitolo 7743 dello stato di previsione del Ministero del tesoro per l'anno 1992.
 
 5.
 
 Il [comma secondo dell'articolo 29 della legge 7 agosto 1982, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;526#art_29-com2), e' sostituito dal seguente: "Il tasso di interesse agevolato annuo minimo, comprensivo di ogni onere accessorio o spesa, da praticare sui finanziamenti a favore delle imprese artigiane di cui alla [legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949), e successive modificazioni ed integrazioni, e' stabilito come segue: 
- per le regioni del Mezzogiorno di cui all'articolo 1 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218), e successive modificazioni ed integrazioni: 
+ per le regioni del Mezzogiorno di cui all'articolo 1 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e successive modificazioni ed integrazioni: 
  55 per cento del tasso di riferimento preso a base per il calcolo del contributo in conto interessi da concedersi da parte della Cassa artigiana e delle regioni sui finanziamenti a favore delle imprese artigiane; per le zone depresse del Centro-Nord determinate ai sensi dell'[articolo 7 del decreto del Presidente della Repubblica 9 novembre 1976, n. 902](Disciplina%20del%20credito%20agevolato%20al%20settore%20industriale.md); 
  65 per cento del tasso di riferimento sopra precisato; per le rimanenti zone: 75 per cento del tasso di riferimento come sopra precisato.".
 
@@ -111,7 +111,7 @@ I criteri e le modalita' di utilizzo delle disponibilita' del Fondo di cui al co
 
 1.
 
-In attesa di un provvedimento organico di riordinamento e di definizione dell'assetto azionario della GEPI S.p.a., per consentire l'immediata attuazione di interventi finalizzati alla ristrutturazione ed alla riconversione dell'apparato produttivo nelle zone in ritardo di sviluppo individuate dall'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218), nelle zone industriali in declino del Centro-Nord, nonche' in aree di crisi con rilevanti processi di deindustrializzazione in atto, la stessa GEPI e' autorizzata a contrarre mutui decennali nel limite delle autorizzazioni di spesa di cui al presente decreto.
+In attesa di un provvedimento organico di riordinamento e di definizione dell'assetto azionario della GEPI S.p.a., per consentire l'immediata attuazione di interventi finalizzati alla ristrutturazione ed alla riconversione dell'apparato produttivo nelle zone in ritardo di sviluppo individuate dall'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), nelle zone industriali in declino del Centro-Nord, nonche' in aree di crisi con rilevanti processi di deindustrializzazione in atto, la stessa GEPI e' autorizzata a contrarre mutui decennali nel limite delle autorizzazioni di spesa di cui al presente decreto.
 
 2.
 
@@ -123,7 +123,7 @@ Gli oneri di ammortamento per capitale ed interessi dei mutui di cui al comma 1 
 
 4.
 
-Fino al riordino delle partecipazioni statali di cui all'[articolo 15 del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_15), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359), per gli enti di gestione azionisti della GEPI S.p.a. si intende sospeso l'obbligo di contabilizzare le perdite conseguenti alle rispettive partecipazioni nella GEPI stessa.
+Fino al riordino delle partecipazioni statali di cui all'[articolo 15 del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_15), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20luglio%201992%20n.%20333%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica.md), per gli enti di gestione azionisti della GEPI S.p.a. si intende sospeso l'obbligo di contabilizzare le perdite conseguenti alle rispettive partecipazioni nella GEPI stessa.
 
 5.
 
@@ -143,7 +143,7 @@ Al relativo onere si provvede mediante corrispondente riduzione dello stanziamen
 
 1.
 
-E' autorizzata l'esecuzione di interventi di manutenzione idraulica nell'ambito degli ecosistemi fluviali, da effettuarsi secondo programmi da redigersi da parte delle autorita' di bacino, per i bacini di rilievo nazionale, e da parte delle regioni, per i bacini di rilievo interregionale e regionale, sulla base di criteri, modalita' e termini adottati con decreto del Presidente del Consiglio dei Ministri ai sensi dell'[articolo 4 della legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183#art_4).
+E' autorizzata l'esecuzione di interventi di manutenzione idraulica nell'ambito degli ecosistemi fluviali, da effettuarsi secondo programmi da redigersi da parte delle autorita' di bacino, per i bacini di rilievo nazionale, e da parte delle regioni, per i bacini di rilievo interregionale e regionale, sulla base di criteri, modalita' e termini adottati con decreto del Presidente del Consiglio dei Ministri ai sensi dell'[articolo 4 della legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md).
 
 2.
 
@@ -161,7 +161,7 @@ Le somme iscritte in conto residui nello stato di previsione del Ministero dei l
 L'[articolo 7 della legge 9 gennaio 1991, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;19#art_7), e' sostituito dal seguente: 
  "Art. 7. - 1. La regione Friuli-Venezia Giulia puo' istituire, con legge regionale, un Fondo di rotazione speciale, costituito da stanziamenti ordinari della regione, per la concessione di finanziamenti a medio termine, della durata massima di dieci anni, a favore delle aziende artigiane preferibilmente associate in consorzi. 
 La misura del tasso di interesse a carico dei beneficiari dei finanziamenti, nonche' i criteri e le modalita' relativi, sono determinati, nel rispetto dei principi del diritto comunitario, con riferimento alle leggi statali vigenti in materia. 
- 2. Per la realizzazione del piano regionale di sviluppo e' attribuito alla regione Friuli-Venezia Giulia, ai sensi dell'articolo 50 dello statuto, approvato con [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), un contributo speciale di lire 220 miliardi per il periodo 1991-1997, di cui lire 15 miliardi per l'anno 1991 e lire 20 miliardi per ciascuno degli anni 1992 e 1993".
+ 2. Per la realizzazione del piano regionale di sviluppo e' attribuito alla regione Friuli-Venezia Giulia, ai sensi dell'articolo 50 dello statuto, approvato con [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), un contributo speciale di lire 220 miliardi per il periodo 1991-1997, di cui lire 15 miliardi per l'anno 1991 e lire 20 miliardi per ciascuno degli anni 1992 e 1993".
 
 2.
 
@@ -176,15 +176,15 @@ Ai fini dell'attuzione del comma 1, le somme di lire 5 miliardi per l'anno 1991 
 
 1.
 
-I datori di lavoro agricoli che, ai sensi del [decreto-legge 3 febbraio 1970, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-02-03;7), convertito, con modificazioni, dalla [legge 11 marzo 1970, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-03-11;83), e successive modificazioni ed integrazioni, sono tenuti ad assumere i lavoratori facendone richiesta ai competenti organi di collocamento, possono esercitare la facolta' di assunzione mediante richiesta nominativa; i criteri e le qualifiche sono stabiliti con decreto del Ministro del lavoro e della previdenza sociale da emanarsi entro novanta giorni dalla data di entrata in vigore del presente decreto, tenuto conto delle specifiche esigenze e caratteristiche del mercato di lavoro agricolo sentita la commissione provinciale per il collocamento in agricoltura.
+I datori di lavoro agricoli che, ai sensi del [decreto-legge 3 febbraio 1970, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-02-03;7), convertito, con modificazioni, dalla [legge 11 marzo 1970, n. 83](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20febbraio%201970%20n.%207%20recante%20norme%20in%20materia%20di%20collocamento%20e%20accertamento%20dei%20lavoratori%20agricoli.md), e successive modificazioni ed integrazioni, sono tenuti ad assumere i lavoratori facendone richiesta ai competenti organi di collocamento, possono esercitare la facolta' di assunzione mediante richiesta nominativa; i criteri e le qualifiche sono stabiliti con decreto del Ministro del lavoro e della previdenza sociale da emanarsi entro novanta giorni dalla data di entrata in vigore del presente decreto, tenuto conto delle specifiche esigenze e caratteristiche del mercato di lavoro agricolo sentita la commissione provinciale per il collocamento in agricoltura.
 
 2.
 
-Il [comma 15 dell'articolo 5 del decreto-legge 30 ottobre 1984, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-10-30;726#art_5-com15), convertito, con modificazioni, dalla [legge 19 dicembre 1984, n. 863](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863), e' cosi' modificato: "15. Le disposizioni di cui al presente articolo non trovano applicazione nei confronti degli operai agricoli assunti con contratto a tempo determinato.".
+Il [comma 15 dell'articolo 5 del decreto-legge 30 ottobre 1984, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-10-30;726#art_5-com15), convertito, con modificazioni, dalla [legge 19 dicembre 1984, n. 863](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20ottobre%201984%20n.%20726%20recante%20misure%20urgenti%20a%20sostegno%20e%20ad%20incremento%20dei%20livelli%20occupazionali.md), e' cosi' modificato: "15. Le disposizioni di cui al presente articolo non trovano applicazione nei confronti degli operai agricoli assunti con contratto a tempo determinato.".
 
 3.
 
-In deroga all'[articolo 1, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-18;230#art_1-com3) e [4, della legge 18 aprile 1962, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-18;230#art_1-com4), l'apposizione del termine nei contratti di lavoro agricolo puo' risultare, quando la durata del rapporto di lavoro e' superiore a dodici giorni lavorativi, dalla richiesta inoltrata dal datore di lavoro alla competente sezione di collocamento, sottoscritta dal lavoratore interessato.
+In deroga all'[articolo 1, commi 3](Disciplina%20del%20contratto%20di%20lavoro%20a%20tempo%20determinato.md) e [4, della legge 18 aprile 1962, n. 230](Disciplina%20del%20contratto%20di%20lavoro%20a%20tempo%20determinato.md), l'apposizione del termine nei contratti di lavoro agricolo puo' risultare, quando la durata del rapporto di lavoro e' superiore a dodici giorni lavorativi, dalla richiesta inoltrata dal datore di lavoro alla competente sezione di collocamento, sottoscritta dal lavoratore interessato.
 
 ## Art. 9. — Esperienze sui luoghi di lavoro a fini di orientamento
 
@@ -236,7 +236,7 @@ Per i lavoratori assunti con il contratto di inserimento al lavoro si applica un
 
 6.
 
-Per i lavoratori assunti ai sensi del comma 1 che, al termine del contratto o nel corso del suo svolgimento, vengano mantenuti in servizio con contratto di lavoro a tempo indeterminato, i contributi previdenziali ed assistenziali a carico del datore di lavoro, per un periodo di sei mesi, elevato a dodici nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218), nonche' nelle circoscrizioni in cui il rapporto tra gli iscritti alla prima classe delle liste del collocamento e la popolazione residente in eta' di lavoro e' superiore alla media nazionale, sono applicati nella misura del 70 per cento della contribuzione salvo che per il medesimo periodo non spetti un beneficio contributivo piu' favorevole e fermo rimanendo il beneficio eventualmente spettante ai sensi dell'[articolo 15, comma 52, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_15-com52).
+Per i lavoratori assunti ai sensi del comma 1 che, al termine del contratto o nel corso del suo svolgimento, vengano mantenuti in servizio con contratto di lavoro a tempo indeterminato, i contributi previdenziali ed assistenziali a carico del datore di lavoro, per un periodo di sei mesi, elevato a dodici nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), nonche' nelle circoscrizioni in cui il rapporto tra gli iscritti alla prima classe delle liste del collocamento e la popolazione residente in eta' di lavoro e' superiore alla media nazionale, sono applicati nella misura del 70 per cento della contribuzione salvo che per il medesimo periodo non spetti un beneficio contributivo piu' favorevole e fermo rimanendo il beneficio eventualmente spettante ai sensi dell'[articolo 15, comma 52, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md).
 
 7.
 
@@ -270,7 +270,7 @@ Il Ministro del tesoro e' autorizzato ad apportare con propri decreti le variazi
 
 1.
 
-Nel settore delle attivita' terziarie e, di norma, per qualifiche medio-alte, possono essere costituite su autorizzazione del Ministro del lavoro e della previdenza sociale imprese anche in forma cooperativa per l'esercizio di attivita' di fornitura di mere prestazioni di lavoro, in deroga all'[articolo 1 della legge 23 ottobre 1960, n. 1369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-23;1369#art_1), previa individuazione, sentite le organizzazioni sindacali dei lavoratori e dei datori di lavoro maggiormente rappresentative sul piano nazionale.
+Nel settore delle attivita' terziarie e, di norma, per qualifiche medio-alte, possono essere costituite su autorizzazione del Ministro del lavoro e della previdenza sociale imprese anche in forma cooperativa per l'esercizio di attivita' di fornitura di mere prestazioni di lavoro, in deroga all'[articolo 1 della legge 23 ottobre 1960, n. 1369](Divieto%20di%20intermediazione%20ed%20interposizione%20nelle%20prestazioni%20di%20lavoro%20e%20nuova%20disciplina%20dellimpiego%20di%20mano%20dopera%20negli%20appalti%20di%20opere%20e%20di%20servizi.md), previa individuazione, sentite le organizzazioni sindacali dei lavoratori e dei datori di lavoro maggiormente rappresentative sul piano nazionale.
 
 2.
 
@@ -282,11 +282,11 @@ Il contratto per la fornitura di mere prestazioni di lavoro tra impresa fornitri
 
 4.
 
-Nel caso di mancato rispetto delle disposizioni di cui al comma 3 trovano applicazione gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-23;1369#art_1) e [2 della legge 23 ottobre 1960, n. 1369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-23;1369#art_2).
+Nel caso di mancato rispetto delle disposizioni di cui al comma 3 trovano applicazione gli [articoli 1](Divieto%20di%20intermediazione%20ed%20interposizione%20nelle%20prestazioni%20di%20lavoro%20e%20nuova%20disciplina%20dellimpiego%20di%20mano%20dopera%20negli%20appalti%20di%20opere%20e%20di%20servizi.md) e [2 della legge 23 ottobre 1960, n. 1369](Divieto%20di%20intermediazione%20ed%20interposizione%20nelle%20prestazioni%20di%20lavoro%20e%20nuova%20disciplina%20dellimpiego%20di%20mano%20dopera%20negli%20appalti%20di%20opere%20e%20di%20servizi.md).
 
 5.
 
-Le imprese fornitrici di mere prestazioni di lavoro hanno facolta' di assumere il personale da comandare presso i datori di lavoro di cui al presente articolo anche con contratto di durata non inferiore a dodici mesi rinnovabile in deroga all'[articolo 2 della legge 18 aprile 1962, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-18;230#art_2), salvo disdetta in tempo utile ai sensi dell'[articolo 2118 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2118).
+Le imprese fornitrici di mere prestazioni di lavoro hanno facolta' di assumere il personale da comandare presso i datori di lavoro di cui al presente articolo anche con contratto di durata non inferiore a dodici mesi rinnovabile in deroga all'[articolo 2 della legge 18 aprile 1962, n. 230](Disciplina%20del%20contratto%20di%20lavoro%20a%20tempo%20determinato.md), salvo disdetta in tempo utile ai sensi dell'[articolo 2118 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2118).
 
 6.
 
@@ -312,7 +312,7 @@ Nei confronti dei lavoratori comandati il datore di lavoro che li utilizza:
                         a)
                             esercita il potere direttivo e disciplinare;
                         b)
-                            e' responsabile, in solido, con l'impresa fornitrice, per il pagamento delle retribuzioni e di tutti gli oneri contributivi derivanti dalle leggi di previdenza ed assistenza, nonche' dei premi dovuti ai sensi del testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-30;1124), e successive modificazioni;
+                            e' responsabile, in solido, con l'impresa fornitrice, per il pagamento delle retribuzioni e di tutti gli oneri contributivi derivanti dalle leggi di previdenza ed assistenza, nonche' dei premi dovuti ai sensi del testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), e successive modificazioni;
                         c)
                             e' responsabile delle condizioni di lavoro connesse con la sicurezza, l'igiene e la salute del lavoratore;
                         d)
@@ -328,7 +328,7 @@ L'impresa di cui al comma 1:
                         c)
                             e' responsabile in solido con l'impresa utilizzatrice nei casi in cui la stessa debba rispondere dell'infortunio ai sensi della lettera d) del comma 9;
                         d)
-                            ove rientri nel campo di applicazione nella [legge 2 aprile 1968, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482), sulle assunzioni obbligatorie puo' richiedere l'esonero totale dell'obbligo alle condizioni previste dal comma 5 dell'articolo 13 della predetta legge.
+                            ove rientri nel campo di applicazione nella [legge 2 aprile 1968, n. 482](Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md), sulle assunzioni obbligatorie puo' richiedere l'esonero totale dell'obbligo alle condizioni previste dal comma 5 dell'articolo 13 della predetta legge.
 
 11.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge R. [decreto-legge 13 gennaio 1927, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1927-01-13;59), che proroga il termine stabilito dal [R. decreto-legge 13 agosto 1926, n. 1605](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1605), per la obbligatorieta' delle concimaie. 
+ E' convertito in legge R. [decreto-legge 13 gennaio 1927, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1927-01-13;59), che proroga il termine stabilito dal [R. decreto-legge 13 agosto 1926, n. 1605](Obbligatorieta%20delle%20concimaie.%20026U1605.md), per la obbligatorieta' delle concimaie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

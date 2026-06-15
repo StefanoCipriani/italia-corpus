@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di rinviare la data delle elezioni dei Comitati degli italiani all'estero di cui all'[articolo 16 della legge 5 luglio 1990, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-05;172#art_16), al fine di evitare la concomitanza delle relative operazioni preparatorie e di voto con quelle per le elezioni politiche nazionali e per la elezione del Consiglio regionale siciliano;
+Ritenuta la straordinaria necessita' ed urgenza di rinviare la data delle elezioni dei Comitati degli italiani all'estero di cui all'[articolo 16 della legge 5 luglio 1990, n. 172](Norme%20di%20modifica%20ed%20integrative%20della%20legge%208%20maggio%201985%20n.%20205%20sui%20comitati%20dellemigrazione%20italiana.md), al fine di evitare la concomitanza delle relative operazioni preparatorie e di voto con quelle per le elezioni politiche nazionali e per la elezione del Consiglio regionale siciliano;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 marzo 1996;
 
@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-La data di svolgimento delle elezioni per il rinnovo dei Comitati degli italiani all'estero (COMITES) e' rinviata di dodici mesi rispetto alla scadenza prevista ai sensi degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-05;172#art_9) e [16 della legge 5 luglio 1990, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-05;172#art_16).
+La data di svolgimento delle elezioni per il rinnovo dei Comitati degli italiani all'estero (COMITES) e' rinviata di dodici mesi rispetto alla scadenza prevista ai sensi degli [articoli 9](Norme%20di%20modifica%20ed%20integrative%20della%20legge%208%20maggio%201985%20n.%20205%20sui%20comitati%20dellemigrazione%20italiana.md) e [16 della legge 5 luglio 1990, n. 172](Norme%20di%20modifica%20ed%20integrative%20della%20legge%208%20maggio%201985%20n.%20205%20sui%20comitati%20dellemigrazione%20italiana.md).
 
 2.
 

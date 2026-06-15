@@ -12,7 +12,7 @@ IL MINISTRO DELL'INTERNO
 
 Vista la [legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121), e successive modifiche ed integrazioni, recante il nuovo ordinamento dell'Amministrazione della pubblica sicurezza;
 
-Visto il [decreto del Presidente della Repubblica 24 aprile 1982, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;335), e successive modifiche ed integrazioni, concernente l'ordinamento del personale della Polizia di Stato che espleta funzioni di polizia;
+Visto il [decreto del Presidente della Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e successive modifiche ed integrazioni, concernente l'ordinamento del personale della Polizia di Stato che espleta funzioni di polizia;
 
 Vista la [legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127), recante misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo;
 
@@ -35,7 +35,7 @@ Data comunicazione al Presidente del Consiglio dei Ministri ai sensi dell'artico
 La partecipazione al concorso pubblico per la nomina ad allievo agente di polizia e' soggetta al limite massimo di eta' di anni trenta.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il testo dell'[art. 3, comma 6, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_3-com6), e' cosi' formulato:
  "6. La partecipazione ai concorsi indetti da pubbliche amministrazioni non e' soggetta a limite di eta', salvo deroghe dettate da regolamenti delle singole amministrazioni connesse alla natura del servizio o ad oggettive necessita' dell'amministrazione".

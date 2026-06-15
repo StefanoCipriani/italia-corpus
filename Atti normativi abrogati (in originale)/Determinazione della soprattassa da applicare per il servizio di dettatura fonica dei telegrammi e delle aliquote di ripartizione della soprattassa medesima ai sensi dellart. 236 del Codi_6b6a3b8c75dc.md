@@ -14,7 +14,7 @@ Visti gli articoli 228 e 236 del Codice postale e delle telecomunicazioni, appro
 
 Vista la [legge 18 dicembre 1956, n. 1445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-18;1445), che modifica il citato art. 236;
 
-Visto il regolamento di esecuzione dei titoli I, II e III del libro II del Codice postale e delle telecomunicazioni, approvato con [regio decreto 19 luglio 1941, n. 1198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-19;1198);
+Visto il regolamento di esecuzione dei titoli I, II e III del libro II del Codice postale e delle telecomunicazioni, approvato con [regio decreto 19 luglio 1941, n. 1198](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
 
 Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
 

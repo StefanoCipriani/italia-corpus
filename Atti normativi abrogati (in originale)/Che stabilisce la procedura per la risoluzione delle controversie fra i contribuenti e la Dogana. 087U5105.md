@@ -14,7 +14,7 @@ DI CONCERTO COL
 
 MINISTRO DI AGRICOLTURA, INDUSTRIA E COMMERCIO
 
-Visto l'[articolo 14 della legge del 13 novembre 1887, n. 5028](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-11-13;5028#art_14) (Serie 3ª);
+Visto l'[articolo 14 della legge del 13 novembre 1887, n. 5028](Che%20statuisce%20i%20procedimenti%20da%20seguire%20in%20caso%20di%20controversia%20fra%20i%20contribuenti%20e%20la%20dogana%20rispetto%20alla%20qualificazione%20delle%20merci.%20087U5028.md) (Serie 3ª);
 
 Udito il Consiglio di Stato; Determina:
 
@@ -129,7 +129,7 @@ Nel caso di ritardo a ricevere il duplo dell'elenco, la dogana ne fara' richiest
 
 La Camera di commercio procede all'esame del verbale di controversia, del campione della merce o della descrizione di essa, e dopo discussa la controversia e sentito, quando lo creda necessario, le Commissioni di perizia, da' il suo parere. 
  
- Per le adunanze e le deliberazioni della Camera di commercio saranno osservate le disposizioni degli [articoli 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-07-06;680#art_25) e [26 della legge del 6 luglio 1862, n. 680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-07-06;680#art_26).
+ Per le adunanze e le deliberazioni della Camera di commercio saranno osservate le disposizioni degli [articoli 25](Legge%20per%20listituzione%20e%20lordinamento%20delle%20Camere%20di%20commercio.%20062U0680.md) e [26 della legge del 6 luglio 1862, n. 680](Legge%20per%20listituzione%20e%20lordinamento%20delle%20Camere%20di%20commercio.%20062U0680.md).
 
 ## Art. 12. — Termine utile per emettere i pareri.
 

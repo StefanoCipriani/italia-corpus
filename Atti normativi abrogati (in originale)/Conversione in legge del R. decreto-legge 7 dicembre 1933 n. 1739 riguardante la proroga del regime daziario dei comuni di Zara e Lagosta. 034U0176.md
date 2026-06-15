@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 dicembre 1933, n. 1739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-07;1739), riguardante proroga del regime daziario dei comuni di Zara e Lagosta. 
+ E' convertito in legge il [R. decreto-legge 7 dicembre 1933, n. 1739](Proroga%20del%20regime%20daziario%20nei%20comuni%20di%20Zara%20e%20Lagosta.%20033U1739.md), riguardante proroga del regime daziario dei comuni di Zara e Lagosta. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

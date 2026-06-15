@@ -20,7 +20,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata, e dei poteri straordinari concessi al R. Governo dalla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata, e dei poteri straordinari concessi al R. Governo dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- La tabella annessa alla [legge 6 settembre 1868, n. 4605](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1868-09-06;4605), e' abrogata e sostituita da quella annessa al presente decreto firmata, d'ordine Nostro, dal ministro della marina. 
+ La tabella annessa alla [legge 6 settembre 1868, n. 4605](Che%20stabilisce%20lindennita%20da%20corrispondersi%20agli%20Ufficiali%20e%20Bassa%20Forza%20dei%20Corpi%20della%20Regia%20Marina%20che%20per%20causa%20di%20naufragio%20in%20tempo%20di%20guerra%20abbiano%20perduto%20gli%20effetti%20del%20proprio_15f2bc63f1a1.md), e' abrogata e sostituita da quella annessa al presente decreto firmata, d'ordine Nostro, dal ministro della marina. 
  
  Il presente decreto ha vigore dal 23 maggio 1915. 
  

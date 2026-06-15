@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734);
 
-Vista la [legge 27 agosto 1914, n. 1029](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-08-27;1029);
+Vista la [legge 27 agosto 1914, n. 1029](Che%20proroga%20il%20termine%20stabilito%20dalla%20legge%206%20luglio%201912%20n.%20734%20per%20la%20soppressione%20dei%20convitti%20annessi%20ai%20R.%20Conservatori%20di%20musica%20di%20Palermo%20e%20di%20Parma.%20014U1029.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per la istruzione pubblica, di c
 
 ## Articolo unico.
 
-Il termine di un biennio, fissato dall'[art. 30, comma 3°, della legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734#art_30-com3), per la cessazione delle spese a carico dello Stato pel personale dei convitti annessi ai RR. conservatori di musica in Palermo e Parma, termine prorogato di un triennio dalla [legge 27 agosto 1914, n. 1029](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-08-27;1029), e' prorogato di un altro anno a partire dal 6 luglio 1917. 
+Il termine di un biennio, fissato dall'[art. 30, comma 3°, della legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734#art_30-com3), per la cessazione delle spese a carico dello Stato pel personale dei convitti annessi ai RR. conservatori di musica in Palermo e Parma, termine prorogato di un triennio dalla [legge 27 agosto 1914, n. 1029](Che%20proroga%20il%20termine%20stabilito%20dalla%20legge%206%20luglio%201912%20n.%20734%20per%20la%20soppressione%20dei%20convitti%20annessi%20ai%20R.%20Conservatori%20di%20musica%20di%20Palermo%20e%20di%20Parma.%20014U1029.md), e' prorogato di un altro anno a partire dal 6 luglio 1917. 
  
  In conseguenza di cio' restano prorogate per ugual termine tutte le disposizioni della stessa legge, compresavi la tabella transitoria ad essa allegata, emanate in applicazione della cessazione suddetta. 
  

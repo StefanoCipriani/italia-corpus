@@ -16,7 +16,7 @@ I MINISTRI DELL'INDUSTRIA, DEL COMMERCIO E DELL'ARTIGIANATO, DEI
 
 TRASPORTI, DELLA SANITA' E DELL'INTERNO
 
-Visto l'[art. 10 del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10), convertito con [legge 29 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441);
+Visto l'[art. 10 del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10), convertito con [legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md);
 
 Visto il [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md);
 
@@ -71,7 +71,7 @@ Le sezioni regionali hanno sede presso le camere di commercio dei capoluoghi di 
 Le funzioni di segreteria sono affidate rispettivamente al Ministero dell'ambiente, alle camere di commercio dei capoluoghi di regione e delle province autonome di Trento e di Bolzano ed alla regione autonoma della Valle d'Aosta.
 
 AVVERTENZA: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
  - Il testo dell'[art. 10 del D.L. n. 361/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987;361#art_10) (Disposizioni urgenti in materia di smaltimento dei rifiuti) e' il seguente: 
@@ -81,7 +81,7 @@ AVVERTENZA:
  4. All'onere derivante dall'istituzione dell'albo si provvede mediante riduzione del cap. 1142 dello stato di previsione del Ministero dell'ambiente per l'anno 1987 e dei corrispondenti capitoli per gli anni successivi". 
  - Il [D.P.R. n. 915/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;915) dispone l'attuazione delle [direttive CEE n. 75/442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;442) relativa ai rifiuti, n. 76/403 relativa allo smaltimento dei policlorodifenili e dei policlorotrifenili e n. 78/319 relativa ai rifiuti tossici e nocivi. 
  - Il testo dell'art. 5 del sopracitato [D.P.R. n. 915/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;915) e' il seguente: 
- "Art. 5 (Comitato interministeriale). - Le funzioni di cui al precedente art. 4 vengono esercitate dal Comitato interministeriale di cui all'[art. 3, primo comma, della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_3-com1), e successive modificazioni, integrato dai Ministri dell'interno, dell'industria, del commercio e dell'artigianato, dell'agricoltura e delle foreste e per gli affari regionali. 
+ "Art. 5 (Comitato interministeriale). - Le funzioni di cui al precedente art. 4 vengono esercitate dal Comitato interministeriale di cui all'[art. 3, primo comma, della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni, integrato dai Ministri dell'interno, dell'industria, del commercio e dell'artigianato, dell'agricoltura e delle foreste e per gli affari regionali. 
  Per l'adeguamento al progresso scientifico e tecnico il Comitato provvede, con decreto del Presidente della Repubblica, a precisare la denominazione e la composizione delle sostanze o materie tossiche e nocive elencate nell'allegato nonche' ad aggiungere, nel medesimo allegato, sostanze o materie tossiche e nocive, allo stato sconosciute, in conseguenza delle modifiche introdotte con le procedure di cui all'[art. 19 della direttiva CEE n. 78/319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;319). 
  Il Comitato si avvale della collaborazione scientifica e tecnica dell'Istituto superiore di sanita' e dell'Istituto superiore per la prevenzione e la sicurezza del lavoro, oltre che delle strutture amministrative esistenti che hanno competenza nella materia". 
  - Il decreto del Ministro dell'ambiente 26 aprile 1989 concerne la istituzione del catasto nazionale dei rifiuti speciali. 
@@ -145,7 +145,7 @@ Il comitato nazionale e' composto:
                             d)
                                 da tre esperti, con qualifica non inferiore a dirigente appartenenti ad amministrazioni regionali, provinciali o comunali, designati dalla conferenza permanente per i rapporti tra Stato, regioni e province autonome;
                             e)
-                                da sei esperti di elevata qualificazione tecnico-giuridica scelti tra i componenti del comitato tecnico scientifico previsto dall'[art. 15 della legge 29 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441#art_15);
+                                da sei esperti di elevata qualificazione tecnico-giuridica scelti tra i componenti del comitato tecnico scientifico previsto dall'[art. 15 della legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md);
                             f)
                                 da un rappresentante dell'Istituto superiore di sanita';
                             g)
@@ -303,7 +303,7 @@ La domanda di iscrizione all'Albo deve essere presentata, alla sezione regionale
                             c)
                                 dichiarazione di accettazione dell'incarico, con firma autenticata, del responsabile tecnico in carica, nonche' del relativo certificato generale del casellario giudiziale e del certificato dei carichi pendenti;
                             d)
-                                certificazione di cui all'[art. 10, comma 4, della legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575#art_10-com4), e successive modificazioni e integrazioni;
+                                certificazione di cui all'[art. 10, comma 4, della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), e successive modificazioni e integrazioni;
                             e)
                                 attestazione comprovante il pagamento del diritto di iscrizione annuale di cui all'art. 23.
 
@@ -340,7 +340,7 @@ riguardanti la pubblica amministrazione, previste all'[art.
 di volta in volta occorrente circa la sussistenza o meno
 carico dell'interessato di procedimenti o di provvedimenti
 per l'applicazione di una delle misure di prevenzione di
-cui all'[art. 3 della legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423#art_3),
+cui all'[art. 3 della legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md),
 ovvero dei provvedimenti indicati nel secondo comma nonche'
 negli articoli 10- ter e 10-quater, e' rilasciata, su
 richiesta dell'amministrazione o dell'ente pubblico
@@ -367,13 +367,13 @@ Per l'iscrizione all'Albo occorre che i soggetti di cui al comma precedente:
                             e)
                                 non abbiano riportato condanne per delitti contro la pubblica amministrazione, contro l'amministrazione della giustizia, contro la fede pubblica, contro l'economia pubblica, l'industria ed il commercio o contro il patrimonio per i quali la legge commini la pena della reclusione non inferiore nel minimo ad un anno o nel massimo a tre anni o per altro delitto non colposo per il quale la legge commini la pena della reclusione non inferiore nel minimo a due anni o nel massimo a cinque anni oppure condanne a pena detentiva per reati previsti dalle norme a tutela dell'ambiente oppure condanne comportanti interdizione dai pubblici uffici superiore a tre anni, salvo riabilitazione ovvero due condanne per omessa contribuzione assistenziale o previdenziale. Il requisito si comprova con la presentazione di un certificato del casellario giudiziario o di un documento equivalente in base alla legislazione dello Stato di appartenenza;
                             f)
-                                non siano sottoposti a misure di prevenzione di cui all'[art. 3 della legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423#art_3), e successive modificazioni e integrazioni;
+                                non siano sottoposti a misure di prevenzione di cui all'[art. 3 della legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), e successive modificazioni e integrazioni;
                             g)
                                 siano in possesso di idoneita' tecnica e di capacita' finanziaria comprovate nei modi di cui al successivo art. 12.
 
 3.
 
-Per le imprese che intendono esercitare attivita' di smaltimento dei rifiuti in forma societaria o cooperativa, in aggiunta ai requisiti previsti dal presente articolo, il legale rappresentante deve dichiarare, ai sensi della [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), che la societa' o la cooperativa non costituisce continuazione di precedente impresa cancellata o sospesa ovvero che sono avvenuti mutamenti sostanziali nell'assetto societario ed organizzativo indicandone i relativi atti.
+Per le imprese che intendono esercitare attivita' di smaltimento dei rifiuti in forma societaria o cooperativa, in aggiunta ai requisiti previsti dal presente articolo, il legale rappresentante deve dichiarare, ai sensi della [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), che la societa' o la cooperativa non costituisce continuazione di precedente impresa cancellata o sospesa ovvero che sono avvenuti mutamenti sostanziali nell'assetto societario ed organizzativo indicandone i relativi atti.
 
 4.
 
@@ -455,11 +455,11 @@ Le restanti categorie di cui all'art. 2, comma 1, sono suddivise nelle seguenti 
 
 1.
 
-Ai sensi dell'[art. 10, comma 2, del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10-com2), convertito in [legge 29 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441), per le imprese esercenti l'attivita' di trasporto di rifiuti l'iscrizione all'Albo sostituisce l'autorizzazione di cui all'[art. 6, lettera d), del decreto del Presidente della Repubblica n. 915/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;915#art_6-letd).
+Ai sensi dell'[art. 10, comma 2, del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10-com2), convertito in [legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md), per le imprese esercenti l'attivita' di trasporto di rifiuti l'iscrizione all'Albo sostituisce l'autorizzazione di cui all'[art. 6, lettera d), del decreto del Presidente della Repubblica n. 915/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;915#art_6-letd).
 
 2.
 
-Dette imprese sono tenute a prestare a favore dello Stato le garanzie finanziarie di cui al citato [art. 10, comma 2, della legge 29 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441#art_10-com2), secondo le modalita' che verranno stabilite con decreto del Ministro dell'ambiente.
+Dette imprese sono tenute a prestare a favore dello Stato le garanzie finanziarie di cui al citato [art. 10, comma 2, della legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md), secondo le modalita' che verranno stabilite con decreto del Ministro dell'ambiente.
 
 3.
 
@@ -650,7 +650,7 @@ I soggetti di cui all'art. 11, comma 1, devono inoltre dimostrare, di possedere,
 1.
 
 Il presente decreto non si applica ai comuni, loro consorzi e comunita' montane, che esercitano direttamente le attivita' di smaltimento dei rifiuti urbani loro attribuite dall'[art. 8 del decreto del Presidente della Repubblica n. 915/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;915#art_8), alle aziende speciali che esercitano le medesime attivita' secondo quanto previsto dallo stesso [art. 8 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), a norma del [regio-decreto 15 ottobre 1925, n. 
-2578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1925-10-15;2578), del [decreto del Presidente della Repubblica 4 ottobre 1986, n. 902, e degli articoli 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-10-04;902#art_22) e [23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-10-04;902#art_23) della [legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142), nonche' ai consorzi obbligatori costituiti ai sensi degli [articoli 9-quater](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397#art_9quater) e [9-quinquies del decreto-legge 9 settembre 1988, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397#art_9quinquies), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475) e del [decreto del Presidente della Repubblica 23 agosto 1982, n. 691](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2075-439%20relativa%20alla%20eliminazione%20degli%20oli%20usati.md).
+2578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1925-10-15;2578), del [decreto del Presidente della Repubblica 4 ottobre 1986, n. 902, e degli articoli 22](../DPR/Approvazione%20del%20nuovo%20regolamento%20delle%20aziende%20di%20servizi%20dipendenti%20dagli%20enti%20locali.md) e [23](../DPR/Approvazione%20del%20nuovo%20regolamento%20delle%20aziende%20di%20servizi%20dipendenti%20dagli%20enti%20locali.md) della [legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md), nonche' ai consorzi obbligatori costituiti ai sensi degli [articoli 9-quater](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397#art_9quater) e [9-quinquies del decreto-legge 9 settembre 1988, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397#art_9quinquies), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20settembre%201988%20n.%20397%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti%20industriali.md) e del [decreto del Presidente della Repubblica 23 agosto 1982, n. 691](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2075-439%20relativa%20alla%20eliminazione%20degli%20oli%20usati.md).
 
 Note all'[art. 24:
  - Il R.D. n. 2578/1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925;2578#art_24) concerne l'approvazione del testo unico della legge sull'assunzione diretta dei pubblici servizi da parte dei comuni e delle province.

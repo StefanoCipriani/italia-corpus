@@ -18,7 +18,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-In virtu' dell'autorita' a Noi conferita e dei poteri conferiti al R. Governo colla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In virtu' dell'autorita' a Noi conferita e dei poteri conferiti al R. Governo colla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Ritenuta la necessita' di regolare durante la guerra il rifornimento dei materiali necessari all'esercito, all'armata ed ai servizi pubblici;
 
@@ -49,7 +49,7 @@ Qualsiasi contravvenzione alle disposizioni del presente decreto, e' punita coll
 
 ## Art. 5.
 
-Ogni controversia che fosse per derivare dall'applicazione del presente decreto, sara' definita in conformita' dell'[art. 10 del R. decreto 26 giugno 1915, n. 993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-06-26;993#art_10).
+Ogni controversia che fosse per derivare dall'applicazione del presente decreto, sara' definita in conformita' dell'[art. 10 del R. decreto 26 giugno 1915, n. 993](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md).
 
 ## Art. 6.
 

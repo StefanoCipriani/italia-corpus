@@ -46,7 +46,7 @@ I progetti di tutte le opere a carico delle Amministrazioni civili dello Stato, 
  
  Per l'approvazione dei progetti puo' prescindersi dalla revisione contabile dei calcoli e dei prezzi relativi di cui all'[art. 1 del R. decreto 24 gennaio 1875, n. 2384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-01-24;2384#art_1). 
  
- Nulla e' innovato alle attribuzioni spettanti al Magistrato alle acque, a termini della [legge 5 maggio 1907, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-05-05;257).
+ Nulla e' innovato alle attribuzioni spettanti al Magistrato alle acque, a termini della [legge 5 maggio 1907, n. 257](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md).
 
 ### Art. 3.
 
@@ -82,7 +82,7 @@ L'importo massimo degli appalti che possono affidarsi per licitazione o trattati
  
  Per i Consorzi di cooperative l'importo massimo di appalto delle opere che possono essere loro affidate a termini dell'[art. 1 della legge 25 giugno 1909, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422#art_1), non puo' superare la somma di lire 5.000.000, ne' il doppio dell'ammontare totale degli appalti che potrebbero essere affidati alle singole cooperative costituenti il Consorzio. 
  
- I limiti costituiti dai suddetti importi massimi di appalto si applicano anche ai casi previsti, per le cooperative, dalla [legge 19 aprile 1906, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-19;126), e per i Consorzi di cooperative dall'art. 75 del regolamento approvato con [R. decreto 12 febbraio 1911, n. 278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;278).
+ I limiti costituiti dai suddetti importi massimi di appalto si applicano anche ai casi previsti, per le cooperative, dalla [legge 19 aprile 1906, n. 126](Disposizioni%20per%20le%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20che%20concorrono%20alle%20pubbliche%20gare.%20006U0126.md), e per i Consorzi di cooperative dall'art. 75 del regolamento approvato con [R. decreto 12 febbraio 1911, n. 278](Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md).
 
 ### Art. 7.
 
@@ -94,7 +94,7 @@ In un medesimo contratto d'appalto si possono comprendere opere da eseguirsi a c
 
 ### Art. 8.
 
-Nei contratti di appalto, da stipulare dopo la pubblicazione del presente decreto, per opere la cui esecuzione richieda lungo periodo di tempo, e per le quali si prevedano notevoli oscillazioni nei prezzi, si potranno introdurre clausole affinche', a determinate scadenze, i prezzi di contratto possano essere riveduti e modificati dall'Amministrazione appaltante, d'accordo con le imprese, o in difetto con provvedimento di ufficio, a termini dell'articolo 22, terzo comma del regolamento approvato con [R. decreto 25 maggio 1895, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-05-25;350).
+Nei contratti di appalto, da stipulare dopo la pubblicazione del presente decreto, per opere la cui esecuzione richieda lungo periodo di tempo, e per le quali si prevedano notevoli oscillazioni nei prezzi, si potranno introdurre clausole affinche', a determinate scadenze, i prezzi di contratto possano essere riveduti e modificati dall'Amministrazione appaltante, d'accordo con le imprese, o in difetto con provvedimento di ufficio, a termini dell'articolo 22, terzo comma del regolamento approvato con [R. decreto 25 maggio 1895, n. 350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md).
 
 ### Art. 9.
 
@@ -160,7 +160,7 @@ Capo II.
 
 ### Art. 18.
 
-La dichiarazione di pubblica utilita', agli effetti della [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), e' implicita per tutte le opere, l'esecuzione delle quali e' autorizzata per legge. 
+La dichiarazione di pubblica utilita', agli effetti della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e' implicita per tutte le opere, l'esecuzione delle quali e' autorizzata per legge. 
  
  Per le opere non autorizzate per legge e da eseguirsi dallo Stato direttamente o per concessione, anche se accessorie, complementari o di parziale variazione ad opere gia' riconosciute di pubblica utilita' o preesistenti, non si osservano le formalita' del procedimento preliminare stabilito nel titolo I capo I della detta legge e l'approvazione dei relativi progetti ha il valore di una dichiarazione di pubblica utilita'.
 
@@ -190,7 +190,7 @@ Qualora l'indennita' non ecceda le lire cinquecento il prefetto puo', udito il C
 
 ### Art. 22.
 
-Quando pel maggior valore derivante dall'esecuzione di un'opera debbasi imporre un contributo ai proprietari dei fondi confinanti o contigui, a termini dell'[art. 77 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_77), alla dichiarazione di pubblica utilita' ed alla imposizione del contributo si provvede con decreto Reale sulla proposta del ministro competente, udito il Consiglio superiore dei lavori pubblici ed il Consiglio di Stato. 
+Quando pel maggior valore derivante dall'esecuzione di un'opera debbasi imporre un contributo ai proprietari dei fondi confinanti o contigui, a termini dell'[art. 77 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), alla dichiarazione di pubblica utilita' ed alla imposizione del contributo si provvede con decreto Reale sulla proposta del ministro competente, udito il Consiglio superiore dei lavori pubblici ed il Consiglio di Stato. 
  
  Per le opere approvate con legge o per le quali non e' necessaria esplicita dichiarazione di pubblica utilita', il contributo e' imposto mediante decreto del ministro competente ad approvarne i progetti, udito il Consiglio superiore dei lavori pubblici ed il Consiglio di Stato.
 
@@ -224,11 +224,11 @@ I progetti compilati prima della pubblicazione del presente decreto potranno ess
 
 ### Art. 26.
 
-Le opere pubbliche dello Stato, delle Provincie, dei Comuni e dei Consorzi, anche se eseguite mediante concessioni, possono essere dichiarate, con decreto del ministro dei lavori pubblici, urgenti ed indifferibili, agli effetti degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_71), modificata dalla [legge 18 dicembre 1879, n. 5188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-18;5188).
+Le opere pubbliche dello Stato, delle Provincie, dei Comuni e dei Consorzi, anche se eseguite mediante concessioni, possono essere dichiarate, con decreto del ministro dei lavori pubblici, urgenti ed indifferibili, agli effetti degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), modificata dalla [legge 18 dicembre 1879, n. 5188](Che%20approva%20alcune%20modificazioni%20alla%20legge%20sulle%20espropriazioni%20per%20pubblica%20utilita%20del%2025%20giugno%201865%20n.%202359.%20079U5188.md).
 
 ### Art. 27.
 
-Per l'esecuzione di tutte le opere dello Stato e' consentito provvedere mediante trattativa privata od in economia, anche fuori dei casi previsti negli articoli 4, 5 e 16, comma I, della [legge 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-02-17;2016), sulla contabilita' generale dello Stato, e 27, comma II, 28 e 29 della [legge 17 luglio 1910, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;511). 
+Per l'esecuzione di tutte le opere dello Stato e' consentito provvedere mediante trattativa privata od in economia, anche fuori dei casi previsti negli articoli 4, 5 e 16, comma I, della [legge 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-02-17;2016), sulla contabilita' generale dello Stato, e 27, comma II, 28 e 29 della [legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md). 
  
  Pei contratti d'appalto di opere dello Stato per trattativa privata e per l'esecuzione di lavori in economia, puo' il Governo derogare agli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-02-17;2016#art_9), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-02-17;2016#art_14), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-02-17;2016#art_15) e [16, comma 2°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-02-17;2016#art_16-com2) e [3°, della legge 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-02-17;2016#art_16-com3), sovra citata.
 
@@ -266,7 +266,7 @@ Capo VI.
 
 Le disposizioni del presente decreto sono estese, in quanto applicabili, ai lavori che si eseguono, con o senza concorso dello Stato, dalle Provincie, dai Comuni, dai Consorzi amministrativi, e da enti autonomi per l'esecuzione di opere pubbliche. 
  
- Gli appalti mediante licitazione o trattative private e l'esecuzione in economia sono consentiti, anche fuori dei casi previsti negli articoli 183, 189 e 258 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148), ferme restando le disposizioni degli articoli 184, 186, 187 e 188 del detto testo unico. 
+ Gli appalti mediante licitazione o trattative private e l'esecuzione in economia sono consentiti, anche fuori dei casi previsti negli articoli 183, 189 e 258 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), ferme restando le disposizioni degli articoli 184, 186, 187 e 188 del detto testo unico. 
  
  L'autorizzazione prefettizia per la dispensa dagli incanti e' richiesta soltanto per gli appalti il cui valore complessivo ecceda le L. 2000, se si tratti di Comuni, e le L. 5000, se si tratti di Provincie. 
  

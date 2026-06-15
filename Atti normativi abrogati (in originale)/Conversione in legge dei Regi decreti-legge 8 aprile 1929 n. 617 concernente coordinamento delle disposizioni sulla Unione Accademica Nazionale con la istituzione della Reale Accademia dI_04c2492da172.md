@@ -24,9 +24,9 @@ VITTORIO EMANUELE III
  
  Sono convertiti in legge: 
  
- il [R. decreto-legge 8 aprile 1929, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-04-08;617), concernente coordinamento delle disposizioni sulla «Unione Accademica Nazionale» con la istituzione della Reale Accademia d'Italia; 
+ il [R. decreto-legge 8 aprile 1929, n. 617](Coordinamento%20delle%20disposizioni%20sulla%20Unione%20Accademica%20Nazionale%20con%20la%20istituzione%20della%20Reale%20Accademia%20dItalia.%20029U0617.md), concernente coordinamento delle disposizioni sulla «Unione Accademica Nazionale» con la istituzione della Reale Accademia d'Italia; 
  
- il [R. decreto-legge 8 aprile 1929, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-04-08;618), concernente attribuzione alla Reale Accademia d'Italia del compito di curare all'estero la conoscenza dell'attivita' scientifica e tecnica nazionale. 
+ il [R. decreto-legge 8 aprile 1929, n. 618](Attribuzione%20alla%20Reale%20Accademia%20dItalia%20del%20compito%20di%20curare%20allestero%20la%20conoscenza%20dellattivita%20scientifica%20e%20tecnica%20nazionale.%20029U0618.md), concernente attribuzione alla Reale Accademia d'Italia del compito di curare all'estero la conoscenza dell'attivita' scientifica e tecnica nazionale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

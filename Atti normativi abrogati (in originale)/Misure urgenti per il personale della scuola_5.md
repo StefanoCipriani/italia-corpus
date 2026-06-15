@@ -28,11 +28,11 @@ I docenti della scuola materna, elementare, secondaria e degli istituti di istru
 
 2.
 
-La norma di cui al comma 1 si applica anche ai docenti inclusi nelle graduatorie formate ai sensi dell'[articolo 25 della legge 25 agosto 1982, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-25;604#art_25), per l'anno scolastico 1986-87, i quali abbiano prestato servizio con supplenza di durata annuale, o per almeno centottanta giorni, su posti statali nelle istituzioni scolastiche italiane all'estero nel medesimo anno scolastico 1986-87, ovvero, a parita' delle suddette condizioni, per i Paesi per i quali l'anno scolastico abbia inizio in data diversa da quella del territorio metropolitano, che abbiano prestato servizio durante l'anno scolastico 1986-1987 e che siano in servizio alla data del 31 agosto 1987.
+La norma di cui al comma 1 si applica anche ai docenti inclusi nelle graduatorie formate ai sensi dell'[articolo 25 della legge 25 agosto 1982, n. 604](Revisione%20della%20disciplina%20sulla%20destinazione%20del%20personale%20di%20ruolo%20dello%20Stato%20alle%20istituzioni%20scolastiche%20e%20culturali%20italiane%20funzionanti%20allestero%20nonche%20ai%20connessi%20servizi%20del%20Min_ec5940a07994.md), per l'anno scolastico 1986-87, i quali abbiano prestato servizio con supplenza di durata annuale, o per almeno centottanta giorni, su posti statali nelle istituzioni scolastiche italiane all'estero nel medesimo anno scolastico 1986-87, ovvero, a parita' delle suddette condizioni, per i Paesi per i quali l'anno scolastico abbia inizio in data diversa da quella del territorio metropolitano, che abbiano prestato servizio durante l'anno scolastico 1986-1987 e che siano in servizio alla data del 31 agosto 1987.
 
 3.
 
-Il mantenimento in servizio e' adottato sui posti comunque disponibili sino al termine dell'anno scolastico per il conferimento delle supplenze annuali, dopo aver proceduto alle nomine dei vincitori dei concorsi espletati e di coloro i quali siano inclusi in graduatorie provinciali ad esaurimento ai sensi della [legge 20 maggio 1982, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270), modificata ed integrata dalla [legge 16 luglio 1984, n. 326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-16;326), a tutte le operazioni relative ai docenti di ruolo, nonche', per le istituzioni scolastiche italiane all'estero, alle nomine del personale da destinare all'estero a seguito dell'espletamento delle procedure di selezione previste dal titolo primo della [legge 25 agosto 1982, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-25;604).
+Il mantenimento in servizio e' adottato sui posti comunque disponibili sino al termine dell'anno scolastico per il conferimento delle supplenze annuali, dopo aver proceduto alle nomine dei vincitori dei concorsi espletati e di coloro i quali siano inclusi in graduatorie provinciali ad esaurimento ai sensi della [legge 20 maggio 1982, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270), modificata ed integrata dalla [legge 16 luglio 1984, n. 326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-16;326), a tutte le operazioni relative ai docenti di ruolo, nonche', per le istituzioni scolastiche italiane all'estero, alle nomine del personale da destinare all'estero a seguito dell'espletamento delle procedure di selezione previste dal titolo primo della [legge 25 agosto 1982, n. 604](Revisione%20della%20disciplina%20sulla%20destinazione%20del%20personale%20di%20ruolo%20dello%20Stato%20alle%20istituzioni%20scolastiche%20e%20culturali%20italiane%20funzionanti%20allestero%20nonche%20ai%20connessi%20servizi%20del%20Min_ec5940a07994.md).
 
 4.
 
@@ -48,7 +48,7 @@ Il personale docente supplente annuale dei conservatori di musica e delle accade
 
 7.
 
-Ai fini della precedenza per il mantenimento in servizio nell'anno scolastico 1987-88, qualora nella medesima circoscrizione consolare coesistano piu' istituzioni scolastiche, i supplenti di cui al comma 2 sono inseriti in una graduatoria consolare unificata sulla base del punteggio ad essi attribuito nella graduatoria dell'anno scolastico 1986-87, formata ai sensi dell'[articolo 25 della legge 25 agosto 1982, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-25;604#art_25). Gli insegnanti supplenti di cui al comma 2 perdenti posto nell'anno scolastico 1987-88 hanno la precedenza assoluta, nel conferimento di nuove supplenze su posti comunque disponibili anche di breve durata o ad orario incompleto, rispetto agli inclusi nelle graduatorie formate ai sensi dell'[articolo 25 della legge 25 agosto 1982, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-25;604#art_25), per l'anno scolastico 1987-88.
+Ai fini della precedenza per il mantenimento in servizio nell'anno scolastico 1987-88, qualora nella medesima circoscrizione consolare coesistano piu' istituzioni scolastiche, i supplenti di cui al comma 2 sono inseriti in una graduatoria consolare unificata sulla base del punteggio ad essi attribuito nella graduatoria dell'anno scolastico 1986-87, formata ai sensi dell'[articolo 25 della legge 25 agosto 1982, n. 604](Revisione%20della%20disciplina%20sulla%20destinazione%20del%20personale%20di%20ruolo%20dello%20Stato%20alle%20istituzioni%20scolastiche%20e%20culturali%20italiane%20funzionanti%20allestero%20nonche%20ai%20connessi%20servizi%20del%20Min_ec5940a07994.md). Gli insegnanti supplenti di cui al comma 2 perdenti posto nell'anno scolastico 1987-88 hanno la precedenza assoluta, nel conferimento di nuove supplenze su posti comunque disponibili anche di breve durata o ad orario incompleto, rispetto agli inclusi nelle graduatorie formate ai sensi dell'[articolo 25 della legge 25 agosto 1982, n. 604](Revisione%20della%20disciplina%20sulla%20destinazione%20del%20personale%20di%20ruolo%20dello%20Stato%20alle%20istituzioni%20scolastiche%20e%20culturali%20italiane%20funzionanti%20allestero%20nonche%20ai%20connessi%20servizi%20del%20Min_ec5940a07994.md), per l'anno scolastico 1987-88.
 
 ## Art. 2.
 
@@ -92,7 +92,7 @@ Alle sessioni riservate di cui al comma 1 sono ammessi gli insegnanti non abilit
                         c)
                             abbiano svolto, negli anni scolastici 1978-79 o 1979-80 o 1980-81 o 1981-82, un anno di servizio d'insegnamento non di ruolo nelle scuole materne o secondarie statali, ivi compresi i licei artistici e gli istituti d'arte, ovvero su posti statali nelle istituzioni scolastiche e culturali italiane all'estero, ed abbiano svolto un altro anno di servizio d'insegnamento non di ruolo nelle medesime scuole ed istituzioni nel settennio antecedente alla data del 10 settembre 1982;
                         d)
-                            abbiano prestato servizio non di ruolo su posti statali nelle istituzioni scolastiche e culturali italiane all'estero, con nomina conferita ai sensi dell'articolo 3, ultimo comma, del [decreto-legge 6 giugno 1981, n. 281](Proroga%20degli%20incarichi%20del%20personale%20docente%20educativo%20e%20non%20docente%20delle%20scuole%20materne%20elementari%20secondarie%20artistiche%20e%20delle%20istituzioni%20educative%20nonche%20delle%20istituzioni%20scolasti_302824a83d72.md), convertito, con modificazioni, dalla [legge 24 luglio 1981, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-07-24;392), nell'anno scolastico 1981-82, ovvero, per i Paesi per i quali l'anno scolastico ha inizio in data diversa da quella del territorio metropolitano, abbiano prestato servizio durante l'anno scolastico 1981-82 e fossero in servizio alla data del 9 settembre 1982.
+                            abbiano prestato servizio non di ruolo su posti statali nelle istituzioni scolastiche e culturali italiane all'estero, con nomina conferita ai sensi dell'articolo 3, ultimo comma, del [decreto-legge 6 giugno 1981, n. 281](Proroga%20degli%20incarichi%20del%20personale%20docente%20educativo%20e%20non%20docente%20delle%20scuole%20materne%20elementari%20secondarie%20artistiche%20e%20delle%20istituzioni%20educative%20nonche%20delle%20istituzioni%20scolasti_302824a83d72.md), convertito, con modificazioni, dalla [legge 24 luglio 1981, n. 392](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20giugno%201981%20n.%20281%20recante%20proroga%20degli%20incarichi%20del%20personale%20docente%20educativo%20e%20non%20docente%20delle%20scuole%20materne%20elementari_80483808a29a.md), nell'anno scolastico 1981-82, ovvero, per i Paesi per i quali l'anno scolastico ha inizio in data diversa da quella del territorio metropolitano, abbiano prestato servizio durante l'anno scolastico 1981-82 e fossero in servizio alla data del 9 settembre 1982.
 
 ## Art. 4.
 
@@ -122,13 +122,13 @@ E' prorogata di un anno la validita' delle graduatorie dei concorsi di accesso a
 
 7.
 
-La validita' delle graduatorie dei concorsi a posti di ispettore tecnico periferico, di cui all'articolo 43, ultimo comma, del [decreto del Presidente della Repubblica 31 maggio 1974, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417), e' prorogata di un anno per i concorsi che siano stati espletati entro l'anno scolastico 1986-87. Le nomine dei candidati inclusi nelle graduatorie di merito sono disposte per la copertura di tutti i posti che si rendano disponibili nel periodo di validita' delle graduatorie stesse.
+La validita' delle graduatorie dei concorsi a posti di ispettore tecnico periferico, di cui all'articolo 43, ultimo comma, del [decreto del Presidente della Repubblica 31 maggio 1974, n. 417](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md), e' prorogata di un anno per i concorsi che siano stati espletati entro l'anno scolastico 1986-87. Le nomine dei candidati inclusi nelle graduatorie di merito sono disposte per la copertura di tutti i posti che si rendano disponibili nel periodo di validita' delle graduatorie stesse.
 
 ## Art. 5.
 
 1.
 
-L'indizione delle procedure per la selezione del personale da destinare all'estero, previste dal titolo primo della [legge 25 agosto 1982, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-25;604), e' rinviata di un anno rispetto alla loro scadenza biennale.
+L'indizione delle procedure per la selezione del personale da destinare all'estero, previste dal titolo primo della [legge 25 agosto 1982, n. 604](Revisione%20della%20disciplina%20sulla%20destinazione%20del%20personale%20di%20ruolo%20dello%20Stato%20alle%20istituzioni%20scolastiche%20e%20culturali%20italiane%20funzionanti%20allestero%20nonche%20ai%20connessi%20servizi%20del%20Min_ec5940a07994.md), e' rinviata di un anno rispetto alla loro scadenza biennale.
 
 2.
 
@@ -140,11 +140,11 @@ Puo' non darsi luogo al rinvio di cui al comma 1 qualora le graduatorie delle co
 
 4.
 
-Le commissioni di cui all'[articolo 3 della legge 25 agosto 1982, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-25;604#art_3), possono essere integrate con eventuali membri aggregati per l'accertamento di specifici requisiti culturali, professionali e linguistici, ai fini dell'espletamento delle funzioni all'estero.
+Le commissioni di cui all'[articolo 3 della legge 25 agosto 1982, n. 604](Revisione%20della%20disciplina%20sulla%20destinazione%20del%20personale%20di%20ruolo%20dello%20Stato%20alle%20istituzioni%20scolastiche%20e%20culturali%20italiane%20funzionanti%20allestero%20nonche%20ai%20connessi%20servizi%20del%20Min_ec5940a07994.md), possono essere integrate con eventuali membri aggregati per l'accertamento di specifici requisiti culturali, professionali e linguistici, ai fini dell'espletamento delle funzioni all'estero.
 
 5.
 
-Il Ministro degli affari esteri puo' disporre la proroga della permanenza all'estero per non oltre due anni del personale statale di ruolo di cui all'[articolo 7 della legge 25 agosto 1982, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-25;604#art_7), in caso di assoluta impossibilita' di sostituzione di detto personale con altro selezionato ai sensi dell'articolo 1 della stessa [legge n. 604 del 1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;604).
+Il Ministro degli affari esteri puo' disporre la proroga della permanenza all'estero per non oltre due anni del personale statale di ruolo di cui all'[articolo 7 della legge 25 agosto 1982, n. 604](Revisione%20della%20disciplina%20sulla%20destinazione%20del%20personale%20di%20ruolo%20dello%20Stato%20alle%20istituzioni%20scolastiche%20e%20culturali%20italiane%20funzionanti%20allestero%20nonche%20ai%20connessi%20servizi%20del%20Min_ec5940a07994.md), in caso di assoluta impossibilita' di sostituzione di detto personale con altro selezionato ai sensi dell'articolo 1 della stessa [legge n. 604 del 1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;604).
 
 ## Art. 6.
 
@@ -175,13 +175,13 @@ Il termine previsto dall'[articolo 70, primo comma, della legge 11 luglio 1980, 
 
 1.
 
-Il disposto di cui all'[articolo 3, comma 7, del decreto del Presidente della Repubblica 10 aprile 1987, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-04-10;209#art_3-com7), si applica a tutti gli effetti con le decorrenze previste nel [decreto del Presidente della Repubblica 2 giugno 1981, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-06-02;271).
+Il disposto di cui all'[articolo 3, comma 7, del decreto del Presidente della Repubblica 10 aprile 1987, n. 209](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%209%20febbraio%201987%20relativo%20al%20personale%20del%20comparto%20scuola.md), si applica a tutti gli effetti con le decorrenze previste nel [decreto del Presidente della Repubblica 2 giugno 1981, n. 271](../DPR/Corresponsione%20di%20miglioramenti%20economici%20al%20personale%20della%20scuola%20di%20ogni%20ordine%20e%20grado.md).
 
 ## Art. 9.
 
 1.
 
-Il [terzo comma dell'articolo 63 della legge 20 maggio 1982, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270#art_63-com3), deve intendersi nel senso che il personale in esso contemplato, che abbia chiesto il passaggio nei ruoli dell'amministrazione centrale e dell'amministrazione scolastica periferica del Ministero della pubblica istruzione, e' collocato nelle qualifiche funzionali di cui alla [legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312), sulla base della corrispondenza delle posizioni di stato giuridico fra ruolo di provenienza e di transito e non sulla base delle mansioni svolte presso l'amministrazione; resta esclusa in ogni caso la collocazione nelle qualifiche dirigenziali e ad esaurimento di cui al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748).
+Il [terzo comma dell'articolo 63 della legge 20 maggio 1982, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270#art_63-com3), deve intendersi nel senso che il personale in esso contemplato, che abbia chiesto il passaggio nei ruoli dell'amministrazione centrale e dell'amministrazione scolastica periferica del Ministero della pubblica istruzione, e' collocato nelle qualifiche funzionali di cui alla [legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312), sulla base della corrispondenza delle posizioni di stato giuridico fra ruolo di provenienza e di transito e non sulla base delle mansioni svolte presso l'amministrazione; resta esclusa in ogni caso la collocazione nelle qualifiche dirigenziali e ad esaurimento di cui al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md).
 
 2.
 
@@ -201,7 +201,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 1.
 
-Il fondo di incentivazione relativo al comparto del personale della scuola di cui all'[articolo 9 del decreto del Presidente della Repubblica 10 aprile 1987, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-04-10;209#art_9), e' determinato in lire 160 miliardi per l'anno finanziario 1987 ed in lire 345 miliardi per l'anno finanziario 1988.
+Il fondo di incentivazione relativo al comparto del personale della scuola di cui all'[articolo 9 del decreto del Presidente della Repubblica 10 aprile 1987, n. 209](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%209%20febbraio%201987%20relativo%20al%20personale%20del%20comparto%20scuola.md), e' determinato in lire 160 miliardi per l'anno finanziario 1987 ed in lire 345 miliardi per l'anno finanziario 1988.
 
 2.
 

@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679): 
+ Vista la [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md): 
  
- Vista la [legge 23 giugno 1918, n 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-06-23;830); 
+ Vista la [legge 23 giugno 1918, n 830](Che%20autorizza%20il%20Governo%20ad%20esercitare%20provvisoriamente%20fino%20a%20quando%20non%20siano%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%201918%20i%20bilanci%20delle%20Amministrazioni%20dello%20Stato%20per%20leserci_caa5fa712e10.md); 
  
  Udito il Consiglio dei ministri; 
  

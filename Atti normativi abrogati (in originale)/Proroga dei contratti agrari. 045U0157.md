@@ -55,7 +55,7 @@ Gli enti pubblici di qualsiasi natura e gli istituti di assistenza e beneficenza
 
 ## Art. 9.
 
-La competenza a decidere tutte le controversie dipendenti dall'applicazione del presente decreto e' attribuita, in primo e in secondo grado, alle commissioni previste rispettivamente negli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;311#art_3) e [4 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;311#art_4).
+La competenza a decidere tutte le controversie dipendenti dall'applicazione del presente decreto e' attribuita, in primo e in secondo grado, alle commissioni previste rispettivamente negli [articoli 3](../Decreti%20legislativi%20luogotenenziali/Disciplina%20dei%20contratti%20di%20mezzadria%20impropria%20colonia%20parziaria%20e%20compartecipazione.%20044U0311.md) e [4 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 311](../Decreti%20legislativi%20luogotenenziali/Disciplina%20dei%20contratti%20di%20mezzadria%20impropria%20colonia%20parziaria%20e%20compartecipazione.%20044U0311.md).
 
 ## Art. 10.
 

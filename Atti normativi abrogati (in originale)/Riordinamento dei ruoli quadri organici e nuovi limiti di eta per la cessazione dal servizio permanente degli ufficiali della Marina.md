@@ -30,7 +30,7 @@ Il reclutamento nei gradi iniziali dei ruoli speciali di cui all'articolo 1 si e
 ### Art. 3.
 
 Ai concorsi per la nomina a guardiamarina o sottotenente dei ruoli speciali possono partecipare gli ufficiali subalterni di complemento dei rispettivi Corpi che non abbiano superato il 26° anno di eta', abbiano compiuto un periodo di servizio di almeno quattro anni compreso il servizio di leva e abbiano riportato qualifica non inferiore a "molto buono" negli ultimi due anni di servizio prestato da ufficiale.
- Gli ufficiali subalterni di complemento del Corpo di stato maggiore muniti di diploma di capitano superiore di lungo corso e gli ufficiali subalterni di complemento dei Corpi del genio navale, delle armi navali, di commissariato e delle capitanerie di porto muniti di una delle lauree richieste, rispettivamente, dagli articoli 9, 11, 14 e 15 del testo unico approvato con [regio decreto 16 maggio 1932, n. 819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-16;819), e successive modificazioni, possono partecipare ai concorsi di cui al precedente comma anche se non abbiano compiuto il periodo di servizio di quattro anni, purche' abbiano ultimato il servizio di leva.
+ Gli ufficiali subalterni di complemento del Corpo di stato maggiore muniti di diploma di capitano superiore di lungo corso e gli ufficiali subalterni di complemento dei Corpi del genio navale, delle armi navali, di commissariato e delle capitanerie di porto muniti di una delle lauree richieste, rispettivamente, dagli articoli 9, 11, 14 e 15 del testo unico approvato con [regio decreto 16 maggio 1932, n. 819](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), e successive modificazioni, possono partecipare ai concorsi di cui al precedente comma anche se non abbiano compiuto il periodo di servizio di quattro anni, purche' abbiano ultimato il servizio di leva.
 
 ### Art. 4.
 
@@ -113,7 +113,7 @@ Agli effetti dell'applicazione degli articoli 9, 10, 11 e 12, qualora l'anzianit
 
 E' istituito il ruolo servizi portuali degli ufficiali del Corpo equipaggi militari marittimi.
  La nomina e l'avanzamento degli ufficiali del ruolo servizi portuali del Corpo equipaggi militari marittimi sono regolati dalle norme che disciplinano la nomina e l'avanzamento degli ufficiali degli altri ruoli dello stesso Corpo.
- Alla nomina a sottotenente del ruolo servizi portuali possono concorrere i capi di la classe della categoria portuali, esclusi quelli provenienti dai reclutamenti di sottufficiali effettuati con le norme del [regio decreto 18 agosto 1920, n. 1257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-18;1257).
+ Alla nomina a sottotenente del ruolo servizi portuali possono concorrere i capi di la classe della categoria portuali, esclusi quelli provenienti dai reclutamenti di sottufficiali effettuati con le norme del [regio decreto 18 agosto 1920, n. 1257](Che%20sopprime%20lattuale%20categoria%20del%20personale%20di%20bassa%20forza%20delle%20Capitanerie%20di%20porto%20istituendo%20in%20sua%20vece%20quella%20dei%20sottufficiali%20di%20porto%20e%20ne%20approva%20le%20tabelle%20organiche%20relative.%20020U1257.md).
 
 ### Art. 16.
 
@@ -159,7 +159,7 @@ TITOLO V.
 
 ### Art. 21.
 
-L'articolo 1 del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Marina, approvato con [regio decreto 16 maggio 1932, numero 819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-16;819), e successive modificazioni, e' abrogato e sostituito dal seguente:
+L'articolo 1 del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Marina, approvato con [regio decreto 16 maggio 1932, numero 819](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), e successive modificazioni, e' abrogato e sostituito dal seguente:
  Art. 1. - "La nomina ad ufficiale di complemento nei Corpi militari della Marina ha luogo:
  a) in seguito al risultato favorevole di appositi corsi teorico-pratici;
  b) per concorso per titoli;
@@ -169,7 +169,7 @@ L'articolo 1 del testo unico delle disposizioni legislative riguardanti gli uffi
 
 ### Art. 22.
 
-L'articolo 2 del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Marina, approvato con [regio decreto 16 maggio 1932, n. 819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-16;819), e successive modificazioni, e' abrogato e sostituito dal seguente:
+L'articolo 2 del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Marina, approvato con [regio decreto 16 maggio 1932, n. 819](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), e successive modificazioni, e' abrogato e sostituito dal seguente:
  Art. 2. - "Gli iscritti nelle liste di leva marittima che, all'atto dell'arruolamento, posseggano uno dei titoli di studio indicati nei commi secondo e terzo del presente articolo sono iscritti, d'ufficio, ai corsi teoricopratici di cui alla lettera a) dell'articolo 1.
  "Coloro i quali siano in possesso del diploma di capitano superiore di lungo corso o di una delle lauree previste dai successivi articoli 9, 11, 12, 13, 14 e 15, sono iscritti ai corsi teorico-pratici per la nomina, rispettivamente, ad ufficiale di complemento del Corpo di stato maggiore, del genio navale, delle armi navali, sanitario (ruolo medici), sanitario (ruolo farmacisti), di commissariato e delle capitanerie di porto.
  "Coloro i quali siano in possesso di diploma di istituto medio di secondo grado sono iscritti ai corsi teorico-pratici per la nomina ad ufficiale di complemento:
@@ -189,7 +189,7 @@ L'Amministrazione ha facolta' di prorogare il periodo di esperimento di quattro 
 
 ### Art. 23.
 
-Dopo l'articolo 2 del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Marina, approvato con [regio decreto 16 maggio 1932, n. 819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-16;819), e successive modificazioni, e' aggiunto il seguente:
+Dopo l'articolo 2 del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Marina, approvato con [regio decreto 16 maggio 1932, n. 819](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), e successive modificazioni, e' aggiunto il seguente:
  Art. 2-bis. - "Gli ufficiali di complemento sono obbligati ad una delle seguenti ferme decorrenti dalla data d'inizio del corso teorico-pratico:
  a) alla ferma di leva della durata di mesi 28, se provenienti da iscritti di leva;
  b) alla ferma volontaria di anni quattro per i diplomati che, avendo i requisiti richiesti, intendano contrarre arruolamento volontario nella Marina prima della chiamata della propria classe di leva. L'eta' minima per partecipare al corso teorico-pratico e' di anni 17 compiuti.
@@ -198,7 +198,7 @@ Dopo l'articolo 2 del testo unico delle disposizioni legislative riguardanti gli
 
 ### Art. 24.
 
-E' abrogato l'articolo 10 del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Marina, approvato con [regio decreto 16 maggio 1932, n. 819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-16;819), e successive modificazioni.
+E' abrogato l'articolo 10 del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Marina, approvato con [regio decreto 16 maggio 1932, n. 819](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), e successive modificazioni.
 
 ## DISPOSIZIONI TRANSITORIE  CAPO I Immissione nei ruoli speciali dei Corpi di stato maggiore e del genio navale degli ufficiali dei ruoli speciali di complemento
 
@@ -235,8 +235,8 @@ Agli ufficiali di cui all'articolo 25 che ottengano la nomina nei ruoli speciali
 
 ### Art. 28.
 
-La Cassa nazionale per la previdenza marinara restituira' agli ufficiali di complemento appartenenti al ruolo speciale istituito con la [legge 6 giugno 1935, n. 1098](Istituzione%20di%20un%20ruolo%20speciale%20di%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20035U1098.md), e successive modificazioni, che siano nominati ufficiali dei ruoli speciali nei Corpi di stato maggiore e del genio navale, previsti dall'articolo 1, i contributi da essi versati in applicazione dell'[articolo 11 del regio decreto-legge 19 agosto 1938, n. 1560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-08-19;1560#art_11), convertito in legge con la [legge 5 gennaio 1939, n. 163](Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20agosto%201938-XVI%20n.%201560%20contenente%20modificazioni%20alle%20norme%20relative%20allassicurazione%20contro%20la%20invalidita%20e%20la%20vecchiaia%20della%20gente%20di%20mare.%20039U0163.md).
- Per gli ufficiali che siano stati autorizzati ai sensi dell'[art. 11 del regio decreto-legge 19 agosto 1938, n. 1560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-08-19;1560#art_11), a prelevare i contributi dovuti alla Cassa nazionale per la previdenza marinara dalle somme accantonate presso la Cassa ufficiali, i contributi stessi saranno dalla Cassa per la previdenza marinara versati allo Stato.
+La Cassa nazionale per la previdenza marinara restituira' agli ufficiali di complemento appartenenti al ruolo speciale istituito con la [legge 6 giugno 1935, n. 1098](Istituzione%20di%20un%20ruolo%20speciale%20di%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20035U1098.md), e successive modificazioni, che siano nominati ufficiali dei ruoli speciali nei Corpi di stato maggiore e del genio navale, previsti dall'articolo 1, i contributi da essi versati in applicazione dell'[articolo 11 del regio decreto-legge 19 agosto 1938, n. 1560](Modificazioni%20alle%20norme%20relative%20allassicurazione%20contro%20la%20invalidita%20e%20la%20vecchiaia%20della%20gente%20di%20mare.%20038U1560.md), convertito in legge con la [legge 5 gennaio 1939, n. 163](Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20agosto%201938-XVI%20n.%201560%20contenente%20modificazioni%20alle%20norme%20relative%20allassicurazione%20contro%20la%20invalidita%20e%20la%20vecchiaia%20della%20gente%20di%20mare.%20039U0163.md).
+ Per gli ufficiali che siano stati autorizzati ai sensi dell'[art. 11 del regio decreto-legge 19 agosto 1938, n. 1560](Modificazioni%20alle%20norme%20relative%20allassicurazione%20contro%20la%20invalidita%20e%20la%20vecchiaia%20della%20gente%20di%20mare.%20038U1560.md), a prelevare i contributi dovuti alla Cassa nazionale per la previdenza marinara dalle somme accantonate presso la Cassa ufficiali, i contributi stessi saranno dalla Cassa per la previdenza marinara versati allo Stato.
 
 ### Art. 29.
 

@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 28 agosto 1935, n. 1614](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-08-28;1614), convertito nella [legge 9 gennaio 1936, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;102);
+Visto il [R. decreto-legge 28 agosto 1935, n. 1614](Cessione%20obbligatoria%20dei%20crediti%20allestero%20e%20cambio%20obbligatorio%20in%20buoni%20del%20Tesoro%205%20per%20cento%20dei%20titoli%20esteri%20e%20del%20titoli%20italiani%20emessi%20allestero%20di%20proprieta%20di%20cittadini%20ed%20ent_4d4d5b6e2399.md), convertito nella [legge 9 gennaio 1936, n. 102](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20agosto%201935-XIII%20n.%201614%20concernente%20la%20cessione%20obbligatoria%20dei%20crediti%20allestero%20ed%20il%20cambio%20obbligatorio%20di%20Buoni%20del%20tesoro%205%20per%20cento%20_c41429171d21.md);
 
-Vista la [legge 14 marzo 1940, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-03-14;239);
+Vista la [legge 14 marzo 1940, n. 239](Autorizzazione%20al%20Tesoro%20dello%20Stato%20ad%20acquistare%20le%20obbligazioni%20del%20Prestito%20polacco%207%20per%20cento%20-%201924.%20040U0239.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro Segretario di Stato per il tesoro; Abbiamo sanzionat
 
 ## Art. 1.
 
-Il Tesoro dello Stato e' autorizzato a corrispondere in contanti l'ammontare dei buoni del Tesoro novennali serie speciale 1944 5% di cui al [R. decreto-legge 28 agosto 1935, n. 1614](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-08-28;1614), che avrebbero dovuto essere gia' consegnati ai possessori delle obbligazioni del prestito polacco 7% in corrispettivo della cessione di dette obbligazioni da essi effettuata ai termini della [legge 14 marzo 1940, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-03-14;239). 
+Il Tesoro dello Stato e' autorizzato a corrispondere in contanti l'ammontare dei buoni del Tesoro novennali serie speciale 1944 5% di cui al [R. decreto-legge 28 agosto 1935, n. 1614](Cessione%20obbligatoria%20dei%20crediti%20allestero%20e%20cambio%20obbligatorio%20in%20buoni%20del%20Tesoro%205%20per%20cento%20dei%20titoli%20esteri%20e%20del%20titoli%20italiani%20emessi%20allestero%20di%20proprieta%20di%20cittadini%20ed%20ent_4d4d5b6e2399.md), che avrebbero dovuto essere gia' consegnati ai possessori delle obbligazioni del prestito polacco 7% in corrispettivo della cessione di dette obbligazioni da essi effettuata ai termini della [legge 14 marzo 1940, n. 239](Autorizzazione%20al%20Tesoro%20dello%20Stato%20ad%20acquistare%20le%20obbligazioni%20del%20Prestito%20polacco%207%20per%20cento%20-%201924.%20040U0239.md). 
  Sull'ammontare di cui al comma precedente, vanno conteggiati in favore dell'avente diritto degli interessi al tasso 5% dal 1° marzo 1940 fino alla data di entrata in vigore del presente decreto.
 
 ## Art. 2.

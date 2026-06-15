@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Vista la [legge 7 aprile 1881, n. 133](Che%20provvede%20per%20labolizione%20del%20corso%20forzoso%20081U0133.md);
 
-Visto il [R. decreto 19 maggio 1881, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-05-19;220);
+Visto il [R. decreto 19 maggio 1881, n. 220](Che%20provvede%20per%20listituzione%20di%20stanze%20di%20compensazione.%20081U0220.md);
 
 Vista la [legge 10 agosto 1893, n. 449](Sul%20riordinamento%20degli%20Istituti%20di%20emissione.%20093U0449.md);
 

@@ -167,7 +167,7 @@ L. 82.499.158,32
 
 ## Art. 9.
 
-All'articolo 117-bis del bilancio della Cirenaica per l'esercizio finanziario 1933-34, con la seguente denominazione «Fondo costituente l'avanzo accertato alla chiusura dell'esercizio 1933-1931 da versarsi in entrata del bilancio dello Stato in forza dell'[art. 6 del Regio decreto-legge 30 giugno 1934, n. 1059](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-06-30;1059#art_6)», e' inscritta la somma di L. 14.590.364,36 cosi' stabilita: 
+All'articolo 117-bis del bilancio della Cirenaica per l'esercizio finanziario 1933-34, con la seguente denominazione «Fondo costituente l'avanzo accertato alla chiusura dell'esercizio 1933-1931 da versarsi in entrata del bilancio dello Stato in forza dell'[art. 6 del Regio decreto-legge 30 giugno 1934, n. 1059](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20ed%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20in%20alcuni%20bilanci%20di%20Aziende%20autonome%20per%20lesercizio%20finanziario%201933-34%20ed%20altri%20indif_03737ba92162.md)», e' inscritta la somma di L. 14.590.364,36 cosi' stabilita: 
  
 a) Avanzo della gestione di competenza dell'esercizio 
  finanziario 1933-1934 (art. 3) ................. L. 10.441.085,85  
@@ -180,7 +180,7 @@ b) Maggiore accertamento di residui attivi .........L.1.837.678,10
 
 ## Art. 10.
 
-Sono convalidate le variazioni di entrata e di spesa introdotte dal Governatore della colonia in applicazione dell'[art. 5 del R. decreto-legge 30 giugno 1934, n. 1059](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-06-30;1059#art_5), convertito nella [legge 28 marzo 1935, n. 379](Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20giugno%201934%20n.%201059%20concernente%20variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20ed%20ai%20bilanci%20di%20tal_a63377c41398.md). 
+Sono convalidate le variazioni di entrata e di spesa introdotte dal Governatore della colonia in applicazione dell'[art. 5 del R. decreto-legge 30 giugno 1934, n. 1059](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20ed%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20in%20alcuni%20bilanci%20di%20Aziende%20autonome%20per%20lesercizio%20finanziario%201933-34%20ed%20altri%20indif_03737ba92162.md), convertito nella [legge 28 marzo 1935, n. 379](Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20giugno%201934%20n.%201059%20concernente%20variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20ed%20ai%20bilanci%20di%20tal_a63377c41398.md). 
  
  AMMINISTRAZIONI SPECIALI 
  

@@ -11,12 +11,12 @@ vigente: true
 ## Art. 1.
 
 IL MINISTRO DELLA DIFESA 
- Visti gli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-24;958#art_12) e [13 della legge 24 dicembre 1986, n. 958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-24;958#art_13), recante norme sul servizio militare di leva e sulla ferma di leva prolungata; 
+ Visti gli [articoli 12](Norme%20sul%20servizio%20militare%20di%20leva%20e%20sulla%20ferma%20di%20leva%20prolungata.md) e [13 della legge 24 dicembre 1986, n. 958](Norme%20sul%20servizio%20militare%20di%20leva%20e%20sulla%20ferma%20di%20leva%20prolungata.md), recante norme sul servizio militare di leva e sulla ferma di leva prolungata; 
  Decreta: 
  E' approvato l'annesso regolamento concernente i criteri e le modalita' per l'arruolamento degli ufficiali di complemento nonche' la durata dei corsi allievi ufficiali di complemento delle tre Forze armate.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  NOTE AL DECRETO
  Note alla premessa:
  - Il testo dell'[art. 12, comma 1, della legge n. 958/1956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956;958#art_12-com1) e' il seguente:

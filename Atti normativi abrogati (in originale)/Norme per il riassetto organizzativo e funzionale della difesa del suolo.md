@@ -51,7 +51,7 @@ Alla realizzazione delle attivita' previste al comma 1 concorrono, secondo le ri
 Le disposizioni della presente legge costituiscono norme fondamentali di riforma economico-sociale della Repubblica nonche' principi fondamentali ai sensi dell'articolo 117 della Costituzione.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'Art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'Art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota all'Art. 1:
  Il testo dell'[Art. 117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117) e' il seguente:
@@ -300,7 +300,7 @@ I servizi tecnici nazionali hanno le seguenti funzioni:
 
 5.
 
-I servizi tecnici nazionali organizzano, gestiscono e coordinano un sistema informativo unico ed una rete nazionale integrati di rilevamento e sorveglianza, definendo con le Amministrazioni statali, le regioni e gli altri soggetti pubblici e privati interessati, le integrazioni ed i coordinamenti necessari. All'organizzazione ed alla gestione della rete sismica integrata concorre, sulla base di apposite convenzioni, l'istituto nazionale di geofisica. Con decreto del Presidente del Consiglio dei ministri, entro il 31 dicembre 1991, le iniziative adottate in attuazione e nell'ambito delle risorse assegnate ai sensi dell'[articolo 18, comma 1, lettera e), della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_18-com1-lete), relative al sistema informativo e di monitoraggio, confluiscono nei servizi tecnici nazionali.
+I servizi tecnici nazionali organizzano, gestiscono e coordinano un sistema informativo unico ed una rete nazionale integrati di rilevamento e sorveglianza, definendo con le Amministrazioni statali, le regioni e gli altri soggetti pubblici e privati interessati, le integrazioni ed i coordinamenti necessari. All'organizzazione ed alla gestione della rete sismica integrata concorre, sulla base di apposite convenzioni, l'istituto nazionale di geofisica. Con decreto del Presidente del Consiglio dei ministri, entro il 31 dicembre 1991, le iniziative adottate in attuazione e nell'ambito delle risorse assegnate ai sensi dell'[articolo 18, comma 1, lettera e), della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), relative al sistema informativo e di monitoraggio, confluiscono nei servizi tecnici nazionali.
 
 6.
 
@@ -372,7 +372,7 @@ Le regioni, ove occorra d'intesa tra loro, esercitano le funzioni ad esse trasfe
                             d)
                                 provvedono alla elaborazione, adozione, approvazione ed attuazione dei piani dei bacini idrografici di rilievo regionale nonche' alla approvazione di quelli di rilievo interregionale;
                             e)
-                                dispongono la redazione e provvedono all'approvazione e all'esecuzione dei progetti, degli interventi e delle opere da realizzare nei bacini di rilievo regionale e di rilievo interregionale, istituendo, ove occorra, gestioni comuni, ai sensi dell'[articolo 8 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_8);
+                                dispongono la redazione e provvedono all'approvazione e all'esecuzione dei progetti, degli interventi e delle opere da realizzare nei bacini di rilievo regionale e di rilievo interregionale, istituendo, ove occorra, gestioni comuni, ai sensi dell'[articolo 8 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md);
                             f)
                                 provvedono, nei bacini di rilievo regionale ed in quelli di rilievo interregionale, per la parte di propria competenza, alla organizzazione e al funzionamento del servizio di polizia idraulica, di piena e di pronto intervento idraulico ed a quelli per la gestione e la manutenzione delle opere e degli impianti e la conservazione dei beni;
                             g)
@@ -625,7 +625,7 @@ Le funzioni amministrative relative alle risorse idriche in tutti i bacini di ri
 
 3.
 
-Nulla e' innovato al disposto del [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616), per quanto attiene alla disciplina delle grandi drivazioni sia nei bacini di rilievo regionale sia in quelli di rilievo interregionale, di cui all'articolo 15.
+Nulla e' innovato al disposto del [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), per quanto attiene alla disciplina delle grandi drivazioni sia nei bacini di rilievo regionale sia in quelli di rilievo interregionale, di cui all'articolo 15.
 
 Nota all'Art. 16:
  Per il titolo del [D.P.R. n. 616/1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977;616) si veda nelle note all'Art. 10.
@@ -643,7 +643,7 @@ Il piano di bacino ha valore di piano territoriale di settore ed e' lo strumento
 
 2.
 
-Il piano di bacino e' redatto, ai sensi dell'[articolo 81, primo comma, lettera a) del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_81-com1-leta), in base agli indirizzi, metodi e criteri fissati dal Presidente del Consiglio dei ministri, su proposta del Ministro dei lavori pubblici previa deliberazione del Comitato nazionale per la difesa del suolo. Studi ed interventi sono condotti con particolare riferimento ai bacini montani, ai torrenti di alta valle ed ai corsi d'acqua di fondavalle.
+Il piano di bacino e' redatto, ai sensi dell'[articolo 81, primo comma, lettera a) del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), in base agli indirizzi, metodi e criteri fissati dal Presidente del Consiglio dei ministri, su proposta del Ministro dei lavori pubblici previa deliberazione del Comitato nazionale per la difesa del suolo. Studi ed interventi sono condotti con particolare riferimento ai bacini montani, ai torrenti di alta valle ed ai corsi d'acqua di fondavalle.
 
 3.
 
@@ -711,8 +711,8 @@ Note all'art. 17:
  Il detto piano se compilato successivamente alla pubblicazione dell'elenco, e' pubblicato a parte mediante affissione per un periodo di tre mesi all'albo dei Comuni interessati, e una copia di esso e' depositata nella segreteria dei Comuni stessi affinche' chiunque ne possa prendere visione.
  Contro il piano territoriale paesistico gli interessati di cui all'art. 3, hanno facolta' di ricorrere nel termine e agli effetti di cui al terzo comma del precedente articolo".
  - L'[art. 1- bis del D.L. n. 312/1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985;312#art_1bis) cosi' dispone:
- "Art. 1- bis. - Con riferimento ai beni e alle aree elencati dal [quinto comma dell'articolo 82 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_82-com5), come integrato al precedente articolo 1, le regioni sottopongono a specifica normativa d'uso e di valorizzazione ambientale il relativo territorio mediante la redazione di piani paesistici o di piani urbanistico-territoriali con specifica considerazione dei valori paesistici ed ambientali, da approvarsi entro il 31 dicembre 1986.
- 2. Decorso inutilmente il termine di cui al precedente comma, il Ministro per i beni culturali e ambientali esercita i poteri di cui agli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_4) e [82 del decreto del Presidente della repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_82)".
+ "Art. 1- bis. - Con riferimento ai beni e alle aree elencati dal [quinto comma dell'articolo 82 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), come integrato al precedente articolo 1, le regioni sottopongono a specifica normativa d'uso e di valorizzazione ambientale il relativo territorio mediante la redazione di piani paesistici o di piani urbanistico-territoriali con specifica considerazione dei valori paesistici ed ambientali, da approvarsi entro il 31 dicembre 1986.
+ 2. Decorso inutilmente il termine di cui al precedente comma, il Ministro per i beni culturali e ambientali esercita i poteri di cui agli [articoli 4](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md) e [82 del decreto del Presidente della repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md)".
  Il testo dell'art. 7 della citata [legge n. 349/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;349) (per il titolo si veda nelle note all'art. 5) e' il seguente:
  "Art. 7. - Gli ambiti territoriali e gli eventuali tratti marittimi prospicienti caratterizzati da gravi alterazioni degli equilibri ecologici nei corpi idrici, nell'atmosfera o nel suolo, sono dichiarati "aree ad elevato rischio di crisi ambientale".
  2. La dichiarazione di area ad elevato rischio di crisi ambientale e' deliberata dal Consiglio dei ministri, su proposta del Ministro dell'ambiente, d'intesa con le regioni interessate.
@@ -720,7 +720,7 @@ Note all'art. 17:
  4. Il piano, sulla base della ricognizione delle fonti inquinanti, dispone un programma, anche plueriennale, di misure dirette:
  a) alla realizzazione e all'impiego, anche agevolati, di impianti ed apparati per eliminare o ridurre l'inquinamento;
  b) alla vigilanza sui tipi e modi di produzione e sulla utilizzazione dei dispositivi di eliminazione o riduzione dell'inquinamento.
- 5. Il piano definisce, per l'attuazione degli interventi previsti, il fabbisogno finanziario annuale cui si fara' fronte con appositi stanziamenti iscritti nello stato di previsione del Ministero dell'ambiente, determinati con le modalita' di cui al [quattordicesimo comma dell'art. 19 della legge 22 dicembre 1984, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887#art_19-com14).
+ 5. Il piano definisce, per l'attuazione degli interventi previsti, il fabbisogno finanziario annuale cui si fara' fronte con appositi stanziamenti iscritti nello stato di previsione del Ministero dell'ambiente, determinati con le modalita' di cui al [quattordicesimo comma dell'art. 19 della legge 22 dicembre 1984, n. 887](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201985.md).
  6. L'adozione del piano ha effetto di dichiarazione di pubblica utilita' e di urgenza ed indifferibilita' delle opere in esso previste.
  7. Ai fini dell'attuazione del piano, il Ministro dell'ambiente, nei casi di accertata inadempienza da parte delle regioni di obblighi espressamente previsti, sentita la regione interessata, assegna un congruo termine per provvedere, scaduto il quale provvede in via sostitutiva su conforme deliberazione del Consiglio dei Ministri".
 
@@ -864,7 +864,7 @@ La scadenza di ogni programma triennale e' stabilita al 31 dicembre dell'ultimo 
 
 6.
 
-L'approvazione del programma triennale produce gli effetti di cui all'[articolo 81 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_81), con riferimento all'accertamento di conformita' ed alle intese di cui al citato articolo 81.
+L'approvazione del programma triennale produce gli effetti di cui all'[articolo 81 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), con riferimento all'accertamento di conformita' ed alle intese di cui al citato articolo 81.
 
 Nota all'art. 22:
  L'art. 81 del piu' volte citato [D.P.R. n. 616/1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977;616) e' il seguente:
@@ -893,7 +893,7 @@ Nell'ambito delle competenze attribuite dalla presente legge, il Ministro dei la
 
 4.
 
-L'esecuzione di opere di pronto intervento ai sensi del [decreto legislativo 12 aprile 1948, n. 1010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;1010), ratificato con [legge 18 dicembre 1952, n. 3136](Ratifica%20di%20decreti%20legislativi%20concernenti%20il%20Ministero%20dei%20lavori%20pubblici%20emanati%20dal%20Governo%20durante%20il%20periodo%20dellAssemblea%20Costituente.md), puo' avere carattere definitivo quando l'urgenza del caso lo richiede.
+L'esecuzione di opere di pronto intervento ai sensi del [decreto legislativo 12 aprile 1948, n. 1010](../Decreti%20Legislativi/Autorizzazione%20al%20Ministero%20dei%20lavori%20pubblici%20a%20provvedere%20a%20sua%20cura%20e%20spese%20ai%20lavori%20di%20carattere%20urgente%20ed%20inderogabile%20dipendenti%20da%20necessita%20di%20pubblico%20interesse%20determinate%20da_849e4a6b6d55.md), ratificato con [legge 18 dicembre 1952, n. 3136](Ratifica%20di%20decreti%20legislativi%20concernenti%20il%20Ministero%20dei%20lavori%20pubblici%20emanati%20dal%20Governo%20durante%20il%20periodo%20dellAssemblea%20Costituente.md), puo' avere carattere definitivo quando l'urgenza del caso lo richiede.
 
 5.
 
@@ -982,16 +982,16 @@ Alla relazione previsionale e programmatica e' allegata la relazione sullo stato
 
 3.
 
-Agli effetti del [comma 7 dell'articolo 2 della legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349#art_2-com7), la presente legge definisce la riforma dell'amministrazione dei lavori pubblci nel settore della difesa del suolo e delle funzioni di cui agli [articoli 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_90) e [91 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_91), relativamente alla programmazione della destinazione delle risorse idriche.
+Agli effetti del [comma 7 dell'articolo 2 della legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349#art_2-com7), la presente legge definisce la riforma dell'amministrazione dei lavori pubblci nel settore della difesa del suolo e delle funzioni di cui agli [articoli 90](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md) e [91 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), relativamente alla programmazione della destinazione delle risorse idriche.
 
 Nota all'Art. 29:
  - Il testo del comma 7 dell'Art. 2 della piu' volte citata [legge n. 349/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;349) e' il seguente:
- "7. In particolare, fino alla riforma dell'Amministrazione dei lavori pubblici, sono esercitate di concerto con il Ministro dell'ambiente le funzioni di cui alla [lettera a) del primo comma dell'articolo 81 del decreto del Presidente della repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_81-com1-leta), relativamente alle linee fondamentali dell'assetto del territorio nazionale ed alla difesa del suolo, nonche' le funzioni di cui agli articoli 90 e 91 dello stesso decreto relativamente alla programmazione nazionale della destinazione delle risorse idriche".
+ "7. In particolare, fino alla riforma dell'Amministrazione dei lavori pubblici, sono esercitate di concerto con il Ministro dell'ambiente le funzioni di cui alla [lettera a) del primo comma dell'articolo 81 del decreto del Presidente della repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), relativamente alle linee fondamentali dell'assetto del territorio nazionale ed alla difesa del suolo, nonche' le funzioni di cui agli articoli 90 e 91 dello stesso decreto relativamente alla programmazione nazionale della destinazione delle risorse idriche".
  - Gli [articoli 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977;616#art_90) e [91 del D.P.R. n. 616/1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977;616#art_91) prevedono, rispettivamente, quanto segue:
  "Art. 90. (Acque). - Tutte le funzioni relative alla tutela, disciplina e utilizzazione delle risorse idriche con esclusione delle funzioni riservate allo Stato dal successivo articolo, sono delegate alle regioni che le eserciteranno nell'ambito della programmazione nazionale della destinazione delle risorse idriche e in conformita' delle direttive statali sia generali sia di settore per la disciplina dell'economia idrica.
  In particolare sono delegate le funzioni concernenti:
  a) gli aggiornamenti e le modifiche del piano regolatore generale degli acquedotti concernenti le risorse idriche destinate dal piano a soddisfare esigenze e bisogni dei rispettivi territori regionali, nonche' l'utilizzazione delle risorse stesse:
- b) gli interventi per la costruzione e la gestione degli impianti e dei servizi di acquedotto non compresi tra quelli trasferiti ai sensi dell'[Art. 2 lett. b), D.P.R. 15 gennaio 1972, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-01-15;8#art_2-letb);
+ b) gli interventi per la costruzione e la gestione degli impianti e dei servizi di acquedotto non compresi tra quelli trasferiti ai sensi dell'[Art. 2 lett. b), D.P.R. 15 gennaio 1972, n. 8](../DPR/Trasferimento%20alle%20Regioni%20a%20statuto%20ordinario%20delle%20funzioni%20amministrative%20statali%20in%20materia%20di%20urbanistica%20e%20di%20viabilita%20acquedotti%20e%20lavori%20pubblici%20di%20interesse%20regionale%20e%20dei%20rel_c64d06b61fb2.md);
  c) l'imposizione e la determinazione delle tariffe di vendita delle acque derivate o estratte, nell'ambito delle direttive statali sulla determinazione dei prezzi alla produzione o al consumo;
  d) la ricerca, l'estrazione e l'utilizzazione delle acque sotterranee, ivi comprese le funzioni concernenti la tutela del sistema idrico del sottosuolo;
  e) la polizia delle acque.

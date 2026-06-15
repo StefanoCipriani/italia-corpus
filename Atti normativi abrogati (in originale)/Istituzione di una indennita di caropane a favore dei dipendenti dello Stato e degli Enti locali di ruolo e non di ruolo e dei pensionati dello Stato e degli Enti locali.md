@@ -14,7 +14,7 @@ Visti il [decreto legislativo luogotenenziale 21 novembre 1945 n. 722](https://w
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -33,12 +33,12 @@ E' istituita a carico dello Stato una indennita' di caropane di L. 104 mensili n
  a) L. 156 per i salariati e braccianti agricoli e per gli addetti ai lavori pesanti;
  b) L. 208 per gli addetti ai lavori pesantissimi;
  c) L. 312 per i minatori e boscaioli.
- Detta indennita' e dovuta nella misura di cui al primo comma del presente articolo, anche per ciascuna delle persone di famiglia indicate negli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722#art_3) e [4 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722#art_4), con l'osservanza dei criteri stabiliti dagli articoli medesimi.
+ Detta indennita' e dovuta nella misura di cui al primo comma del presente articolo, anche per ciascuna delle persone di famiglia indicate negli [articoli 2](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), [3](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md) e [4 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), con l'osservanza dei criteri stabiliti dagli articoli medesimi.
 
 ## Art. 2.
 
 Al personale che comunque fruisca di razione viveri in natura od in contanti, a titolo gratuito, totale o parziale, l'indennita' di cui al presente decreto e' dovuta limitatamente alle quote relative alle persone di famiglia indicate nell' ultimo comma del precedente articolo.
- L'indennita' predetta comprese le quote per le persone di famiglia, e' ridotta nella stessa proporzione della riduzione dell'indennita' di carovita istituita col [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722), nei casi di aspettativa, di disponibilita', di punizione disciplinare o altra posizione di stato che importi riduzione di detta competenza ed e' sospesa in tutti i casi di sospensione della stessa indennita' di carovita.
+ L'indennita' predetta comprese le quote per le persone di famiglia, e' ridotta nella stessa proporzione della riduzione dell'indennita' di carovita istituita col [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), nei casi di aspettativa, di disponibilita', di punizione disciplinare o altra posizione di stato che importi riduzione di detta competenza ed e' sospesa in tutti i casi di sospensione della stessa indennita' di carovita.
  L'indennita' di caropane non spetta al personale ed ai pensionati residenti fuori del territorio nazionale, fatta eccezione per le persone di famiglia di cui all'ultimo comma del precedente articolo residenti nel territorio medesimo.
 
 ## Art. 3.
@@ -62,7 +62,7 @@ L'indennita' prevista dal presente decreto non spetta ne ai titolari, ne' per le
 
 ## Art. 6.
 
-Ai fini dell'accertamento dell'indice medio trimestrale del costo dell'alimentazione, da valere, ai sensi dell'[art. 6 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722#art_6) e successive modificazioni ed estensioni e dell'[art. 1 del decreto legislativo luogotenenziale 21 aprile 1946, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-21;299#art_1) per la determinazione rispettivamente delle variazioni trimestrali dell'indennita' di carovita e delle variazioni semestrali dell'indennita' di contingenza, non si tiene conto degli aumenti o delle diminuzioni che si verificano ai prezzi del pane e della pasta per i quantitativi di tali generi assegnati con le carte annonarie.
+Ai fini dell'accertamento dell'indice medio trimestrale del costo dell'alimentazione, da valere, ai sensi dell'[art. 6 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md) e successive modificazioni ed estensioni e dell'[art. 1 del decreto legislativo luogotenenziale 21 aprile 1946, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-21;299#art_1) per la determinazione rispettivamente delle variazioni trimestrali dell'indennita' di carovita e delle variazioni semestrali dell'indennita' di contingenza, non si tiene conto degli aumenti o delle diminuzioni che si verificano ai prezzi del pane e della pasta per i quantitativi di tali generi assegnati con le carte annonarie.
 
 ## Art. 7.
 

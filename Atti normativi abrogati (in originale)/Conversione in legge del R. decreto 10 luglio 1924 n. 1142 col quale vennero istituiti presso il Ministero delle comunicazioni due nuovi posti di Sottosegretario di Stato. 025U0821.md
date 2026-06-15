@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il [R. decreto-legge 10 luglio 1924, n. 1142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-07-10;1142), che istituisce presso il Ministero delle comunicazioni due nuovi posti di Sottosegretario di Stato, e' convertito in legge. 
+ Il [R. decreto-legge 10 luglio 1924, n. 1142](Istituzione%20presso%20il%20Ministero%20delle%20comunicazioni%20di%20due%20nuovi%20posti%20di%20Sottosegretario%20di%20Stato.%20024U1142.md), che istituisce presso il Ministero delle comunicazioni due nuovi posti di Sottosegretario di Stato, e' convertito in legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

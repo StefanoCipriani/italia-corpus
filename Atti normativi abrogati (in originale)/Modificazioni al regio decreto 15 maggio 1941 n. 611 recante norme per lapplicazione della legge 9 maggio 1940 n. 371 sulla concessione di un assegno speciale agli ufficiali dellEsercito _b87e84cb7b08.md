@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 9 maggio 1940, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;371), concernente la concessione di un assegno speciale agli ufficiali dell'Esercito che lasciano il servizio permanente, e successive modificazioni;
+Vista la [legge 9 maggio 1940, n. 371](Concessione%20di%20un%20assegno%20speciale%20agli%20ufficiali%20del%20Regio%20esercito%20che%20lasciano%20il%20servizio%20permanente.%20040U0371.md), concernente la concessione di un assegno speciale agli ufficiali dell'Esercito che lasciano il servizio permanente, e successive modificazioni;
 
-Visto il [regio decreto 15 maggio 1941, n. 611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-05-15;611), recante norme per l'applicazione della [legge 9 maggio 1940, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;371);
+Visto il [regio decreto 15 maggio 1941, n. 611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-05-15;611), recante norme per l'applicazione della [legge 9 maggio 1940, n. 371](Concessione%20di%20un%20assegno%20speciale%20agli%20ufficiali%20del%20Regio%20esercito%20che%20lasciano%20il%20servizio%20permanente.%20040U0371.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -28,7 +28,7 @@ L'[art. 6 del regio decreto 15 maggio 1941, n. 611](https://www.normattiva.it/ur
  "Costituiscono patrimonio della gestione:
  a) gli avanzi di esercizio delle precedenti gestioni;
  b) ogni altra sopravvenienza attiva di competenza della "gestione assegno speciale" o ad essa specificatamente destinata.
- Il patrimonio della gestione, nonche' i proventi delle ritenute di cui all'[art. 6 della legge 9 maggio 1940, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;371#art_6), per la parte eccedente i normali bisogni per il pagamento dell'assegno speciale, sono investiti in titoli dello. Stato per un importo non inferiore al 50% del loro ammontare e per la restante quota possono essere investiti in beni immobili o in titoli garantiti dallo Stato previa autorizzazione dei Ministro per la difesa.
+ Il patrimonio della gestione, nonche' i proventi delle ritenute di cui all'[art. 6 della legge 9 maggio 1940, n. 371](Concessione%20di%20un%20assegno%20speciale%20agli%20ufficiali%20del%20Regio%20esercito%20che%20lasciano%20il%20servizio%20permanente.%20040U0371.md), per la parte eccedente i normali bisogni per il pagamento dell'assegno speciale, sono investiti in titoli dello. Stato per un importo non inferiore al 50% del loro ammontare e per la restante quota possono essere investiti in beni immobili o in titoli garantiti dallo Stato previa autorizzazione dei Ministro per la difesa.
  Eventuali investimenti in beni diversi dai titoli dello Stato per un ammontare eccedente il predetto limite del 50% possono essere autorizzati con decreto del Ministro per la difesa di concerto con il Ministro per il tesoro.
  Spetta al Consiglio d'amministrazione della "Cassa ufficiali" di proporre al Ministro per la difesa, ogni qualvolta si rendano necessari l'acquisto, la alienazione e la permuta dei titoli dello Stato e gli altri investimenti previsti dal comma precedente".
 

@@ -54,4 +54,4 @@ Il sig. Giuseppe Colacino e' nominato liquidatore del predetto Consorzio.
 ----------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 28 febbraio 1929, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-28;361), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 28 febbraio 1929, n. 361](Modifica%20dellart.%202%20del%20R.%20decreto%2029%20novembre%201928%20n.%203496%20concernente%20la%20liquidazione%20coatta%20del%20Consorzio%20calabrese%20fra%20le%20cooperative%20di%20produzione%20e%20lavoro%20con%20sede%20in%20Catanzaro.%20029U0361.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

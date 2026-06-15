@@ -24,7 +24,7 @@ Nelle controversie di un valore superiore a lire cinquanta l'appello dalle sente
 
 Presso gli uffici di conciliazione le funzioni di cancelliere sono esercitate dal segretario comunale, o da altro uffiziale della segreteria, che sia a cio' espressamente autorizzato con decreto del presidente del tribunale, inteso il procuratore del Re. 
  
- In caso di mancanza o d'impedimento momentaneo del cancelliere, si provvede ai termini dell'art. 15 del regolamento, approvato col [Regio decreto 26 dicembre 1892, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-12-26;728).
+ In caso di mancanza o d'impedimento momentaneo del cancelliere, si provvede ai termini dell'art. 15 del regolamento, approvato col [Regio decreto 26 dicembre 1892, n. 728](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md).
 
 ## Art. 4.
 
@@ -59,7 +59,7 @@ I verbali di conciliazione e le sentenze definitive dei conciliatori per controv
 
 ## Art. 9.
 
-In tutte le cause di competenza dei conciliatori spettano ai cancellieri unicamente i diritti stabiliti nel titolo I della tariffa civile, approvata col [regio decreto 23 dicembre 1865, n. 2700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-23;2700).
+In tutte le cause di competenza dei conciliatori spettano ai cancellieri unicamente i diritti stabiliti nel titolo I della tariffa civile, approvata col [regio decreto 23 dicembre 1865, n. 2700](Col%20quale%20e%20approvata%20la%20Tariffa%20per%20gli%20atti%20giudiziari%20in%20materia%20civile.%20065U2700.md).
 
 ## Art. 10.
 

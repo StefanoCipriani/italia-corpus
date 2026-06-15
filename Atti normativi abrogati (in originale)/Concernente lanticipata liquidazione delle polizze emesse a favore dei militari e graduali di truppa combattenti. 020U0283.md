@@ -36,7 +36,7 @@ Per i fini considerati nell'[Art. 4 del decreto luogotenenziale 10 dicembre 1917
  
  orfani loro, ovvero per l'assistenza ai mutilati ed invalidi di guerra; 
  
- potranno chiedere entro il 30 giugno 1920 di sottoscrivere, utilizzando le loro polizze, al nuovo prestito, emesso in virtu' del [Regio decreto 24 novembre 1919, n. 2168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-24;2168), ed alle condizioni ivi stabilite. 
+ potranno chiedere entro il 30 giugno 1920 di sottoscrivere, utilizzando le loro polizze, al nuovo prestito, emesso in virtu' del [Regio decreto 24 novembre 1919, n. 2168](Che%20da%20corso%20alla%20emissione%20del%20prestito%20autorizzato%20con%20R.%20decreto%20n%201300%20suindicato.%20019U2168.md), ed alle condizioni ivi stabilite. 
  
  Uguale facolta' e' conferita agli enti indicati nella lettera b) del precedente comma, beneficiari di polizze miste di L. 5000 emesse in esecuzione del [decreto luogotenenziale 7 marzo 1918, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-03-07;374). 
  

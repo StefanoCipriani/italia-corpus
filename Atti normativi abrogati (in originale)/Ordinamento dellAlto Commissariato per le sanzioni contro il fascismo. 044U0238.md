@@ -18,9 +18,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), concernente l'Assemblea per la nuova costituzione dello Stato, il giuramento dei Membri del Governo e la facolta' del Governo di emanare norme giuridiche;
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), riguardante la sospensione delle norme relative alla emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), riguardante la sospensione delle norme relative alla emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141), che istituisce presso la sede del Governo una Sezione speciale di controllo della Corte dei conti;
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md), che istituisce presso la sede del Governo una Sezione speciale di controllo della Corte dei conti;
 
 Visto il [decreto legislativo Luogotenenziale 27 luglio 1944, n. 159](Sanzioni%20contro%20il%20fascismo.%20044U0159.md), concernente le sanzioni contro il fascismo;
 
@@ -64,7 +64,7 @@ Gli estranei all'Amministrazione chiamati a far parte degli uffici di segreteria
 
 ## Art. 6.
 
-Per le esigenze dei dipendenti uffici l'Alto Commissario ha facolta' di assumere avventizi, ai sensi del [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), in numero non maggiore di centoventi.
+Per le esigenze dei dipendenti uffici l'Alto Commissario ha facolta' di assumere avventizi, ai sensi del [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), in numero non maggiore di centoventi.
 
 ## Art. 7.
 

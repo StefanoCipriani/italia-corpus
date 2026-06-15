@@ -14,7 +14,7 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visti i [decreti-legge 19 dicembre 1979, n. 654 e 29 febbraio 1980, n. 36](Differimento%20del%20termine%20di%20cui%20allart.%2089%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%20616%20in%20materia%20di%20opere%20idrauliche%20relative%20ai%20bacini%20idrografici%20interregionali.md);
 
-Ritenuto che permane la necessita' e l'urgenza di disporre il differimento del termine del 1 gennaio 1980 stabilito dall'[art. 89, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_89-com2), in relazione alle iniziative gia' adottate per una riorganizzazione del settore della difesa idraulica;
+Ritenuto che permane la necessita' e l'urgenza di disporre il differimento del termine del 1 gennaio 1980 stabilito dall'[art. 89, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), in relazione alle iniziative gia' adottate per una riorganizzazione del settore della difesa idraulica;
 
 Vista la deliberazione del Consiglio dei Ministri del 6 maggio 1980;
 
@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-Con effetto dal 31 dicembre 1979 il termine del 1 gennaio 1980, indicato nell'[art. 89, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_89-com2), e' differito al 31 dicembre 1980.
+Con effetto dal 31 dicembre 1979 il termine del 1 gennaio 1980, indicato nell'[art. 89, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), e' differito al 31 dicembre 1980.
  Restano fermi i rapporti giuridici sorti in base ai [decreti-legge 19 dicembre 1979, n. 654 e 29 febbraio 1980, n. 36](Differimento%20del%20termine%20di%20cui%20allart.%2089%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%20616%20in%20materia%20di%20opere%20idrauliche%20relative%20ai%20bacini%20idrografici%20interregionali.md).
 
 ## Art. 2.
@@ -33,7 +33,7 @@ Entro sessanta giorni dalla conversione in legge del presente decreto il Governo
 
 ## Art. 3.
 
-Al fine di consentire alle regioni ed alle province autonome di Trento e di Bolzano di procedere alla realizzazione di interventi urgenti nei bacini a carattere regionale nonche' di opere per le vie navigabili, e' concesso, per ciascuno degli esercizi finanziari 1980 e 1981, un contributo di 50 miliardi da ripartire a cura del CIPE, sentita la commissione consultiva interregionale di cui all'[art. 13 della legge 16 maggio 1970, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281#art_13), a valere sulle autorizzazioni di spesa di cui all'[art. 34, primo comma, n. 2, della legge 21 dicembre 1978, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-21;843#art_34-com1-num2).
+Al fine di consentire alle regioni ed alle province autonome di Trento e di Bolzano di procedere alla realizzazione di interventi urgenti nei bacini a carattere regionale nonche' di opere per le vie navigabili, e' concesso, per ciascuno degli esercizi finanziari 1980 e 1981, un contributo di 50 miliardi da ripartire a cura del CIPE, sentita la commissione consultiva interregionale di cui all'[art. 13 della legge 16 maggio 1970, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281#art_13), a valere sulle autorizzazioni di spesa di cui all'[art. 34, primo comma, n. 2, della legge 21 dicembre 1978, n. 843](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria.md).
  11 Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le conseguenti variazioni di bilancio.
 
 ## Art. 4.

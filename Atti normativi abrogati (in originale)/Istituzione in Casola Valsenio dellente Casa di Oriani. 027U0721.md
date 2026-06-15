@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il Nostro decreto 6 novembre 1924, n. 1884, convertito in legge con la [legge 21 marzo 1926, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;494), con il quale la casa al Cardello (Casola Valsenio), dove visse e mori' Alfredo Oriani, fu dichiarata monumento nazionale;
+Veduto il Nostro decreto 6 novembre 1924, n. 1884, convertito in legge con la [legge 21 marzo 1926, n. 494](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%206%20novembre%201924%20n.%201884%20che%20dichiara%20monumento%20nazionale%20la%20casa%20dove%20visse%20e%20mori%20Alfredo%20Oriani.%20026U0494.md), con il quale la casa al Cardello (Casola Valsenio), dove visse e mori' Alfredo Oriani, fu dichiarata monumento nazionale;
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

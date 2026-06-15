@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  Noi abbiamo sanzionato e promulghiamo quanto segue: 
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 marzo 1936, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;376), concernente l'esercizio del credito mobiliare da parte di istituti di diritto pubblico. 
+ E' convertito in legge il [R. decreto-legge 12 marzo 1936, n. 376](Esercizio%20del%20credito%20mobiliare%20da%20parte%20di%20istituti%20di%20diritto%20pubblico.%20036U0376.md), concernente l'esercizio del credito mobiliare da parte di istituti di diritto pubblico. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno' d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 18 gennaio 1937 - Anno XV 
  VITTORIO EMANUELE 

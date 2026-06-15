@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 2 aprile 1925, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-02;383), convertito nella [legge 25 marzo 1926, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-25;742), relativo all'istituzione del Corpo degli agenti di pubblica sicurezza,;
+Visto il [regio decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md), convertito nella [legge 25 marzo 1926, n. 742](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%202%20aprile%201925%20n.%20383%20relativo%20alla%20costituzione%20di%20un%20Corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20026U0742.md), relativo all'istituzione del Corpo degli agenti di pubblica sicurezza,;
 
 Visto il regolamento del Corpo degli agenti di pubblica, sicurezza, approvato con [regio decreto 30 novembre 1930, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-30;1629);
 
 Vista la [legge 26 gennaio 1942, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39), che istituisce il ruolo degli ufficiali del Corpo degli agenti di pubblica sicurezza;
 
-Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-02;365), concernente l'istituzione del Corpo delle guardie di pubblica sicurezza;
+Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 365](../Decreti%20legislativi%20luogotenenziali/Istituzione%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.%20044U0365.md), concernente l'istituzione del Corpo delle guardie di pubblica sicurezza;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946 n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946 n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -116,7 +116,7 @@ I vincitori dei concorsi previsti dagli articoli 5 e 6 sono assunti in prova con
 ## Art. 11.
 
 Agli effetti del presente decreto, si intendono per, combattenti della guerra di liberazione:
- a) i partigiani e patrioti di cui al [decreto legislativo luogotenenziale 21 agosto 1945, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;518); - b) gli appartenenti alle unita' regolari delle Forze armate che hanno partecipato alla guerra di liberazione;
+ a) i partigiani e patrioti di cui al [decreto legislativo luogotenenziale 21 agosto 1945, n. 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md); - b) gli appartenenti alle unita' regolari delle Forze armate che hanno partecipato alla guerra di liberazione;
  c) i militari deportati dal nemico dopo l'8 settembre 1943, che non hanno aderito a servire nelle forze armate fasciste o tedesche;
  d) i civili deportati in condizioni analoghe a quelle indicate nella lettera c).
 

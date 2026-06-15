@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 20 maggio 1924, n. 834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-20;834).
+Visto il [regio decreto-legge 20 maggio 1924, n. 834](Compensi%20ai%20membri%20di%20Commissioni%20esaminatrici%20dipendenti%20dal%20Ministero%20della%20pubblica%20istruzione.%20024U0834.md).
 
-convertito nella [legge 25 giugno 1925, n. 1167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-06-25;1167);
+convertito nella [legge 25 giugno 1925, n. 1167](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2020%20maggio%201924%20n.%20834%20relativo%20ai%20compensi%20ai%20membri%20di%20Commissioni%20esaminatrici%20dipendenti%20dal%20Ministero%20della%20pubblica%20istruzione.%20025U1167.md);
 
 Visto il decreto-legge luogotenenziale 25 giugno 1944.
 
 n. 151;
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

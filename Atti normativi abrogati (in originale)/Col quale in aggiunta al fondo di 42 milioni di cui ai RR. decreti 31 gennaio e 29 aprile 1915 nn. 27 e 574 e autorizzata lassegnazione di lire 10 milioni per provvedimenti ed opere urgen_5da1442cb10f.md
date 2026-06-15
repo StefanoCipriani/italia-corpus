@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 14 della legge 12 gennaio 1909, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-01-12;12#art_14) chiamato in vigore con l'[art. 9 del R. decreto 21 gennaio 1915, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;27#art_9), convertito nella [legge 1° aprile 1915, n. 476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;476);
+Visto l'[art. 14 della legge 12 gennaio 1909, n. 12](Concernente%20provvedimenti%20a%20sollievo%20dei%20danneggiali%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0012.md) chiamato in vigore con l'[art. 9 del R. decreto 21 gennaio 1915, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;27#art_9), convertito nella [legge 1° aprile 1915, n. 476](Che%20converte%20in%20legge%2017%20decreti%20Reali%20recanti%20provvedimenti%20a%20favore%20dei%20paesi%20danneggiati%20dal%20terremoto%20del%2013%20gennaio%201915%20e%20porta%20modificazioni%20ai%20decreti%20stessi%20con%20laggiunta%20di%20altr_f19f0a26f386.md);
 
 Riconosciuta la necessita' di aumentare della somma di L. 10,000,000 il fondo di L. 42,000,000 di cui ai Regi decreti 21 gennaio e 29 aprile 1915, nn. 27 e 574 per destinarla ad opere urgenti da eseguirsi a cura del Ministero dei lavori pubblici nei Comuni danneggiati dal terremoto del 13 gennaio 1915;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Udito il Consiglio dei ministri;
 

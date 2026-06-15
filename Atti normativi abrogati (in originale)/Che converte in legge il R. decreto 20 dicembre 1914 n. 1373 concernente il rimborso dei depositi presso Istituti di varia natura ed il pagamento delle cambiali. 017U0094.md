@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 20 dicembre 1914, n. 1373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-12-20;1373), concernente il rimborso dei depositi presso Istituti di varia natura e il pagamento delle cambiali. 
+ E' convertito in legge il [R. decreto 20 dicembre 1914, n. 1373](Che%20concerne%20il%20rimborso%20dei%20depositi%20presso%20Istituti%20di%20varia%20natura%20e%20il%20pagamento%20delle%20cambiali.%20014U1373.md), concernente il rimborso dei depositi presso Istituti di varia natura e il pagamento delle cambiali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

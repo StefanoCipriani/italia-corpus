@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 26 febbraio 1920, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-26;219), da convertire in legge;
 
-Visto il regolamento approvato con [R. decreto 10 aprile 1921, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-04-10;422);
+Visto il regolamento approvato con [R. decreto 10 aprile 1921, n. 422](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20Regio%20decreto-legge%2026%20febbraio%201920%20n.%20219%20relativo%20alla%20istituzione%20dellOpera%20di%20previdenza%20a%20favore%20degli%20impiegati%20civili%20dello%20Stato%20e%20_1c7736e1af2d.md);
 
 Sentito il Consiglio dei ministri;
 

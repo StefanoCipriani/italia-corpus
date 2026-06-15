@@ -12,7 +12,7 @@ vigente: true
 
 E' fatto divieto di distruggere, rimuovere, deteriorare o rendere comunque inservibili i segnali che precisano stabilmente negli immobili la posizione dei punti trigonometrici, dei capisaldi di livellazione, dei punti di riferimento marittimo, gravimetrici, magnetici e della rete di artiglieria, siano essi stabiliti dall'Istituto geografico militare o da altri Enti statali. 
  
- Coloro che violano tale disposizione sono puniti a norma dell'[art. 673 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_673), salvo che il fatto non costituisca reato piu' grave.
+ Coloro che violano tale disposizione sono puniti a norma dell'[art. 673 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo che il fatto non costituisca reato piu' grave.
 
 ## Art. 2.
 

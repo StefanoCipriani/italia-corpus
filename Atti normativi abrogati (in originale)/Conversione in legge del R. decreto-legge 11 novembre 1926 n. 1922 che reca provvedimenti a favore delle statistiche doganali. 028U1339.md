@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 novembre 1926, n. 1922](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-11;1922), che reca provvedimenti a favore delle statistiche doganali. 
+ E' convertito in legge il [R. decreto-legge 11 novembre 1926, n. 1922](Provvedimenti%20in%20materia%20di%20statistica%20doganale.%20026U1922.md), che reca provvedimenti a favore delle statistiche doganali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

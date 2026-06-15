@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto il regolamento generale per le tasse nelle scuole medie e normali approvato con [R. decreto 15 ottobre 1914, n. 1234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-10-15;1234);
+Veduto il regolamento generale per le tasse nelle scuole medie e normali approvato con [R. decreto 15 ottobre 1914, n. 1234](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20per%20le%20tasse%20nelle%20scuole%20medie%20e%20normali.%20014U1234.md);
 
-Veduti gli articoli 499 e seguenti del testo unico approvato con [R. decreto 12 ottobre 1913, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-12;1261);
+Veduti gli articoli 499 e seguenti del testo unico approvato con [R. decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md);
 
 Sulla proposta del ministro segretario di Stato per l'istruzione pubblica, di concerto con i ministri del tesoro e delle finanze;
 

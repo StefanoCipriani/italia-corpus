@@ -104,7 +104,7 @@ Per le finalita' previste dall'[articolo 2 della legge 25 giugno 1985, n. 331](h
 
 3.
 
-All'onere derivante dalla attuazione del presente articolo, pari a lire 20 miliardi per ciascuno degli anni 1989 e 1990, si provvede mediante corrispondente riduzione del capitolo 8554 dello stato di previsione del Ministero della pubblica istruzione per i medesimi anni, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 7, comma 8, della legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910#art_7-com8).
+All'onere derivante dalla attuazione del presente articolo, pari a lire 20 miliardi per ciascuno degli anni 1989 e 1990, si provvede mediante corrispondente riduzione del capitolo 8554 dello stato di previsione del Ministero della pubblica istruzione per i medesimi anni, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 7, comma 8, della legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md).
 
 ## Art. 7.
 

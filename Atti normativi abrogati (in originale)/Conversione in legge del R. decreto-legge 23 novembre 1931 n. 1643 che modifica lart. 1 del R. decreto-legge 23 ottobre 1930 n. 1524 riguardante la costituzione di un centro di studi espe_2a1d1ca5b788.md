@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 novembre 1931, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-23;1643), che modifica l'[art. 1 del R. decreto-legge 23 ottobre 1930, n. 1524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-23;1524#art_1), riguardante la costituzione di un centro di studi, esperienze e costruzioni aeronautiche in Montecelio (Roma). 
+ E' convertito in legge il [R. decreto-legge 23 novembre 1931, n. 1643](Modificazione%20dellart.%201%20del%20R.%20decreto-legge%2023%20ottobre%201930%20n.%201524%20riguardante%20la%20costituzione%20di%20un%20centro%20di%20studi%20esperienze%20e%20costruzioni%20aeronautiche%20in%20Montecelio.%20031U1643.md), che modifica l'[art. 1 del R. decreto-legge 23 ottobre 1930, n. 1524](Costituzione%20di%20un%20centro%20di%20studi%20esperienze%20e%20costruzioni%20aeronautiche%20in%20Montecelio%20Roma.%20030U1524.md), riguardante la costituzione di un centro di studi, esperienze e costruzioni aeronautiche in Montecelio (Roma). 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 24 marzo 1932 - Anno X 
  

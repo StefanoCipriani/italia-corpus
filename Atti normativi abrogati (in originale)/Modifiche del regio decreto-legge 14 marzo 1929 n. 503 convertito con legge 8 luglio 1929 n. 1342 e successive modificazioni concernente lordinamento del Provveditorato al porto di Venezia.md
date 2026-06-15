@@ -16,13 +16,13 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'[art. 2 del regio decreto-legge 14 marzo 1929, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-14;503#art_2), convertito con [legge 8 luglio 1929, n. 1342](Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%2014%20marzo%201929%20n.%20503%20concernente%20lordinamento%20del%20Provveditorato%20al%20porto%20di%20Venezia.%20029U1342.md), e' sostituito dal seguente:
+L'[art. 2 del regio decreto-legge 14 marzo 1929, n. 503](Ordinamento%20del%20Provveditorato%20al%20porto%20di%20Venezia.%20029U0503.md), convertito con [legge 8 luglio 1929, n. 1342](Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%2014%20marzo%201929%20n.%20503%20concernente%20lordinamento%20del%20Provveditorato%20al%20porto%20di%20Venezia.%20029U1342.md), e' sostituito dal seguente:
  "L'esercizio commerciale del porto di Venezia e' affidato al Provveditorato al porto.
  Il Provveditorato e' persona giuridica di diritto pubblico, soggetto alla vigilanza e alla tutela del Ministero della marina mercantile e ad esso sono devolute le seguenti attribuzioni:
- a) gestione delle operazioni di sbarco, imbarco, trasbordo, deposito e trasporto delle merci e disciplina delle prestazioni della mano d'opera che vi e' adibita, con tutti i compiti assegnati agli uffici del lavoro portuale, ai comandanti di porto e ai direttori marittimi, con l'osservanza delle norme contenute nel [Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) e del relativo regolamento;
+ a) gestione delle operazioni di sbarco, imbarco, trasbordo, deposito e trasporto delle merci e disciplina delle prestazioni della mano d'opera che vi e' adibita, con tutti i compiti assegnati agli uffici del lavoro portuale, ai comandanti di porto e ai direttori marittimi, con l'osservanza delle norme contenute nel [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e del relativo regolamento;
  b) gestione dei depositi franchi, dei punti franchi, dei magazzini generali, dei depositi fiduciari e di altri analoghi stabilimenti che esistono o sorgessero in seguito, in zone demaniali marittime, sotto l'osservanza delle leggi doganali;
  c) concorso alla gestione dei mezzi di trasporto ferroviario secondo gli accordi conclusi con l'Amministrazione delle ferrovie dello Stato;
- d) gestione dei suoli, degli spazi acquei e degli edifici di pertinenza del demanio marittimo, di concerto con la Capitaneria di porto e sotto l'osservanza delle disposizioni contenute nel [Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) e nel regolamento per la sua esecuzione in materia di concessioni;
+ d) gestione dei suoli, degli spazi acquei e degli edifici di pertinenza del demanio marittimo, di concerto con la Capitaneria di porto e sotto l'osservanza delle disposizioni contenute nel [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e nel regolamento per la sua esecuzione in materia di concessioni;
  e) manutenzione delle opere e degli impianti di arredamento portuale e costruzione di nuove opere e impianti di arredamento;
  f) studi e provvedimenti per favorire lo sviluppo dei traffici del porto;
  g) coordinamento dei vari servizi attinenti al funzionamento del Provveditorato al porto.
@@ -34,7 +34,7 @@ Qualora al Provveditorato siano attribuiti i compiti di cui all'ultimo comma del
 
 ## Art. 3.
 
-All'[art. 13 del regio decreto-legge 14 marzo 1929, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-14;503#art_13), convertito con [legge 8 luglio 1929, n. 1342](Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%2014%20marzo%201929%20n.%20503%20concernente%20lordinamento%20del%20Provveditorato%20al%20porto%20di%20Venezia.%20029U1342.md), e' aggiunto il comma seguente:
+All'[art. 13 del regio decreto-legge 14 marzo 1929, n. 503](Ordinamento%20del%20Provveditorato%20al%20porto%20di%20Venezia.%20029U0503.md), convertito con [legge 8 luglio 1929, n. 1342](Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%2014%20marzo%201929%20n.%20503%20concernente%20lordinamento%20del%20Provveditorato%20al%20porto%20di%20Venezia.%20029U1342.md), e' aggiunto il comma seguente:
  "Il Provveditorato potra' contribuire alle spese per l'eventuale costruzione e gestione di aeroporti nella provincia di Venezia nella misura che sara' stabilita con deliberazione del proprio Consiglio di amministrazione, approvata dal Ministero della marina mercantile, di concerto col Ministero del tesoro".
 
 ## Art. 4.

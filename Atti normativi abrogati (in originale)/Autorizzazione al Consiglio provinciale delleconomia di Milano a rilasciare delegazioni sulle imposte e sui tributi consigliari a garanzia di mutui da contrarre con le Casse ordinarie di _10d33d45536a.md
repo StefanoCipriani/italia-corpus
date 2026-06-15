@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  Articolo unico. 
  
  Il Consiglio provinciale dell'economia di Milano e' autorizzato a rilasciare delegazioni sulle imposte e sui tributi consigliari a garanzia di mutui da assumere con le Casse di risparmio ordinarie.
-Tali delegazioni avranno gli stessi privilegi e garanzie stabiliti all'[art. 16 della legge 11 dicembre 1910, n. 855](Concernente%20disposizioni%20varie%20per%20la%20Cassa%20dei%20depositi%20e%20prestiti%20e%20le%20gestioni%20annesse.%20010U0855.md), e dal [R. decreto-legge 23 ottobre 1927, n. 2047](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2047), per le delegazioni sulla sovraimposta fondiaria a favore delle Casse di risparmio ordinarie per mutui concessi a Comuni e Provincie. 
+Tali delegazioni avranno gli stessi privilegi e garanzie stabiliti all'[art. 16 della legge 11 dicembre 1910, n. 855](Concernente%20disposizioni%20varie%20per%20la%20Cassa%20dei%20depositi%20e%20prestiti%20e%20le%20gestioni%20annesse.%20010U0855.md), e dal [R. decreto-legge 23 ottobre 1927, n. 2047](Semplificazioni%20nel%20rilascio%20delle%20delegazioni%20da%20parte%20degli%20enti%20mutuatari%20dellAmministrazione%20della%20Cassa%20depositi%20e%20prestiti%20e%20degli%20Istituti%20di%20previdenza.%20027U2047.md), per le delegazioni sulla sovraimposta fondiaria a favore delle Casse di risparmio ordinarie per mutui concessi a Comuni e Provincie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

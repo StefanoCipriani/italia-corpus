@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 agosto 1926, n. 1714](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-16;1714), che reca disposizioni varie in materia di edilizia popolare. 
+ E' convertito in legge il [R. decreto-legge 16 agosto 1926, n. 1714](Disposizioni%20varie%20in%20materia%20di%20edilizia%20popolare.%20026U1714.md), che reca disposizioni varie in materia di edilizia popolare. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

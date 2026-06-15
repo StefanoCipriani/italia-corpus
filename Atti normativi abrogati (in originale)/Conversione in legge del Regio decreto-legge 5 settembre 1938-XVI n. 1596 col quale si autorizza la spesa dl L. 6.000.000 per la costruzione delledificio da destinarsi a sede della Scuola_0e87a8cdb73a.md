@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico 
  
- E' convertito in legge il [Regio decreto-legge 5 settembre 1938, n. 1596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;1596), col quale si autorizza la spesa di L. 6.000.000 per la costruzione dell'edificio da destinarsi a sede della Scuola allievi ufficiali della Regia guardia di finanza in Roma. 
+ E' convertito in legge il [Regio decreto-legge 5 settembre 1938, n. 1596](Autorizzazione%20della%20spesa%20di%20L.%206.000.000%20per%20la%20costruzione%20delledificio%20da%20destinarsi%20a%20sede%20della%20Scuola%20allievi%20ufficiali%20della%20Regia%20guardia%20di%20finanza%20in%20Roma.%20038U1596.md), col quale si autorizza la spesa di L. 6.000.000 per la costruzione dell'edificio da destinarsi a sede della Scuola allievi ufficiali della Regia guardia di finanza in Roma. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

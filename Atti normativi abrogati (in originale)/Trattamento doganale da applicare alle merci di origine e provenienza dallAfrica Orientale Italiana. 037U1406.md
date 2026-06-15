@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il R. decreto-legge 1° giugno 1936-XIV, n. 1019, sull'ordinamento e l'amministrazione dell'Africa Orientate Italiana, convertito nella legge 11 gennaio 1937-XV, n. 285;
 
-Visto la tariffa generale dei dazi doganali del Regno approvata col [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e le successive modificazioni;
+Visto la tariffa generale dei dazi doganali del Regno approvata col [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e le successive modificazioni;
 
 Ritenuta la necessita' urgente ed assoluta di regolare, ai fini doganali, la importazione nel Regno delle merci dall'Africa Orientale Italiana;
 

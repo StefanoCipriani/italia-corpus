@@ -14,7 +14,7 @@ Per provvedere alle opere di ricerca mineraria in Albania ed al passaggio allo s
  
  La detta somma sara' somministrata gradatamente all'Amministrazione delle ferrovie dello Stato in relazione alle occorrenze per la gestione. 
  
- Si applicano alle spese da sostenersi col fondo predetto le disposizioni sancite dal [R. decreto-legge 8 luglio 1925, numero 1301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-08;1301).
+ Si applicano alle spese da sostenersi col fondo predetto le disposizioni sancite dal [R. decreto-legge 8 luglio 1925, numero 1301](Istituzione%20della%20gestione%20per%20lo%20sfruttamento%20di%20terreni%20petroliferi%20albanesi.%20025U1301.md).
 
 ## Art. 2.
 

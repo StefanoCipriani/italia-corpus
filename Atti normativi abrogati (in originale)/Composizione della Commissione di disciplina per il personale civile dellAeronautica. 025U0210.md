@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti i [Regi decreti 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395); [30 dicembre 1923, n. 3084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3084); [14 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-14;843), sull'ordinamento gerarchico delle Amministrazioni dello Stato; 
+ Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); [30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md); [14 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-14;843), sull'ordinamento gerarchico delle Amministrazioni dello Stato; 
  
  Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili e le successive modificazioni; 
  

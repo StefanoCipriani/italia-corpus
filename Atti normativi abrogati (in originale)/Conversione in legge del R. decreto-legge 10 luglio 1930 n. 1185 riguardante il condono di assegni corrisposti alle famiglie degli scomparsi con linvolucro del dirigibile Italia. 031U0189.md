@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 luglio 1930, n. 1185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-10;1185), riguardante il condono di assegni corrisposti alle famiglie degli scomparsi con l'involucro del dirigibile «Italia», sostituendosi all'art. 1 il seguente: 
+ E' convertito in legge il [R. decreto-legge 10 luglio 1930, n. 1185](Condono%20degli%20assegni%20e%20delle%20indennita%20corrisposte%20alle%20famiglie%20degli%20scomparsi%20nel%20naufragio%20del%20dirigibile%20Italia.%20030U1185.md), riguardante il condono di assegni corrisposti alle famiglie degli scomparsi con l'involucro del dirigibile «Italia», sostituendosi all'art. 1 il seguente: 
  
  «Sono condonate le somme liquidate o da liquidarsi per assegni e indennita' agli ufficiali ed operai scomparsi nel naufragio del dirigibile «Italia», corrisposte o da corrispondersi alle rispettive famiglie per il periodo dal 26 maggio 1928, giorno successivo a quello del naufragio, al 29 settembre 1929, giorno successivo a quello del verbale che stabili' la data del naufragio stesso». 
  

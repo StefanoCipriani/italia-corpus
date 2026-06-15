@@ -18,7 +18,7 @@ Visti gli [articoli 9](Disposizioni%20sullavanzamento%20degli%20ufficiali%20dell
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il testo unico delle disposizioni legislative sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914), e modificato dalla [legge 15 giugno 1933, n. 778](Varianti%20al%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20sullo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina%20approvato%20con%20R.%20decreto%2018%20giugno%20193_aa6eee7186d1.md), e dal [R. decreto-legge 6 maggio 1935, n. 747](Modifica%20allart.%2024%20del%20testo%20unico%20sullordinamento%20del%20C.R.E.M.%20e%20sullo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20035U0747.md), convertito nella [legge 23 dicembre 1935, numero 2307](Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20maggio%201935-XIII%20n.%20747%20che%20modifica%20lart.%2024%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullordinamento%20del%20C.R.E.M.%20e%20sullo%20stato%20giuridi_83527a315116.md);
+Visto il testo unico delle disposizioni legislative sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e modificato dalla [legge 15 giugno 1933, n. 778](Varianti%20al%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20sullo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina%20approvato%20con%20R.%20decreto%2018%20giugno%20193_aa6eee7186d1.md), e dal [R. decreto-legge 6 maggio 1935, n. 747](Modifica%20allart.%2024%20del%20testo%20unico%20sullordinamento%20del%20C.R.E.M.%20e%20sullo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20035U0747.md), convertito nella [legge 23 dicembre 1935, numero 2307](Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20maggio%201935-XIII%20n.%20747%20che%20modifica%20lart.%2024%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullordinamento%20del%20C.R.E.M.%20e%20sullo%20stato%20giuridi_83527a315116.md);
 
 Ritenuta la necessita' assoluta ed urgente di apportare alcune modifiche al predetto testo unico;
 
@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Al testo unico delle leggi sull'ordinamento del Corpo Reale equipaggi marittimi e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914), e successive modificazioni, sono apportate le varianti di cui agli articoli seguenti.
+Al testo unico delle leggi sull'ordinamento del Corpo Reale equipaggi marittimi e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, sono apportate le varianti di cui agli articoli seguenti.
 
 ## Art. 2.
 
@@ -74,7 +74,7 @@ L'art. 82 e' sostituito dal seguente:
  
  «I sottufficiali in congedo possono progredire di un sol grado, (salvo il disposto del seguente art. 82-bis). L'avanzamento ha luogo, per essi, ad anzianita', per ruolo e per grado, nei limiti fissati ogni anno dal Ministero della marina, in relazione alla' necessita' della mobilitazione. 
  
- «Per lo scrutinio e per la nomina di capi di 1a classe in congedo a sottotenente in ciascun ruolo di ufficiali del C.R.E.M. nella riserva si applicano le disposizioni dell'art. 76 del testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-07;2007), e sue successive modificazioni. 
+ «Per lo scrutinio e per la nomina di capi di 1a classe in congedo a sottotenente in ciascun ruolo di ufficiali del C.R.E.M. nella riserva si applicano le disposizioni dell'art. 76 del testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e sue successive modificazioni. 
  
  «Per l'avanzamento dei capi di 2ª e 3ª classe e dei secondi capi in congedo, la Commissione di avanzamento di cui al precedente art. 56 prendera' in esame un numero di capi di 2ª , di 3ª classe e di secondi capi doppio di quello fissato quale limite per le promozioni a capo di 1ª , 2ª e 3ª classe. 
  

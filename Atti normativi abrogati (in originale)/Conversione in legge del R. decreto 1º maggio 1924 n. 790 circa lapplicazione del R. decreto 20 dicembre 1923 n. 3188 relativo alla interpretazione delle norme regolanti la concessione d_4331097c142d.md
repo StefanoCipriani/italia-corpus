@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 1° maggio 1924, n. 790](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-01;790), circa l'applicazione del [R. decreto 20 dicembre 1923, numero 3188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-20;3188), relativo alla interpretazione delle norme regolanti la concessione degli assegni mensili al personale avventizio dipendente dall'Amministrazione postale, telegrafica e telefonica. 
+ E' convertito in legge il [R. decreto 1° maggio 1924, n. 790](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-01;790), circa l'applicazione del [R. decreto 20 dicembre 1923, numero 3188](Chiarimento%20della%20portata%20e%20delle%20disposizioni%20dellart.%203%20sub%2068%20bis%20del%20R.%20decreto%208%20giugno%201920%20n.%20770%20relativo%20allanticipo%20concesso%20al%20personale%20avventizio%20dellAmministrazione%20postale%20_97fbf11221c5.md), relativo alla interpretazione delle norme regolanti la concessione degli assegni mensili al personale avventizio dipendente dall'Amministrazione postale, telegrafica e telefonica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

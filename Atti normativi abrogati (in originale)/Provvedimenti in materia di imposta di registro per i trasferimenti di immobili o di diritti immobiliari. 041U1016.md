@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'art. 18 della legge 19 gennaio 1939-XVII, n. 129;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3269), che approva il testo di leggi dell'imposta di registro e successive disposizioni;
+Visto il [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo di leggi dell'imposta di registro e successive disposizioni;
 
 Visto il R. decreto-legge 14 giugno 1940-XVIII, n. 643, convertito, con modificazioni, nella legge 21 ottobre 1940-XVIII, n. 1511, concernente adeguamento dell'imposta di registro al plusvalore dei beni immobili nei trasferimenti per atto tra vivi;
 

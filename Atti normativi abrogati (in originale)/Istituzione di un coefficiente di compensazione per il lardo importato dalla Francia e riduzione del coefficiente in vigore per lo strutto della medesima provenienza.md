@@ -14,7 +14,7 @@ Visti gli articoli 9 e 11 delle disposizioni preliminari alla tariffa dei dazi d
 
 Visto l'[art. 77, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il decreto-legge 27 ottobre 1856, n. 1176, convertito nella [legge 20 dicembre 1956, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-20;1387), concernente l'istituzione di un coefficiente di compensazione all'importazione del grasso di maiale (strutto), compreso lo strutto liquido, dalla Francia;
+Visto il decreto-legge 27 ottobre 1856, n. 1176, convertito nella [legge 20 dicembre 1956, n. 1387](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2027%20ottobre%201956%20n.%201176%20concernente%20listituzione%20di%20un%20coefficiente%20di%20compensazione%20alla%20importazione%20dalla%20Francia%20di%20grasso%20di%20maiale%20fuso%20strutt_1edf3cff0508.md), concernente l'istituzione di un coefficiente di compensazione all'importazione del grasso di maiale (strutto), compreso lo strutto liquido, dalla Francia;
 
 Ritenuta la straordinaria necessita' ed urgenza di modificare la misura di detto coefficiente e di eliminare il grave perturbamento che, al mercato nazionale dei grassi, deriva dal premio di cui beneficia il lardo di origine francese, esportato in Italia;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per le finanze, di concerto con i Ministri per gli a
 
 ## Art. 1.
 
-Il coefficiente di compensazione, istituito con il [decreto-legge 27 ottobre 1956, n. 1176](Istituzione%20di%20un%20coefficiente%20di%20compensazione%20allimportazione%20del%20grasso%20di%20maiale%20strutto%20compreso%20lo%20strutto%20liquido%20dalla%20Francia.md), convertito nella [legge 20 dicembre 1956, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-20;1387), all'importazione del grasso di maiale fuso (strutto), qualunque sia la sua consistenza, compreso lo strutto liquido (olio di strutto), di origine e provenienza dalla Francia da riscuotersi dalle dogane in aggiunta al dazio doganale ed agli altri diritti in vigore per tale prodotto - e' stabilito, dalla data di entrata in vigore del presente decreto, nella misura di L. 50 per kg. netto.
+Il coefficiente di compensazione, istituito con il [decreto-legge 27 ottobre 1956, n. 1176](Istituzione%20di%20un%20coefficiente%20di%20compensazione%20allimportazione%20del%20grasso%20di%20maiale%20strutto%20compreso%20lo%20strutto%20liquido%20dalla%20Francia.md), convertito nella [legge 20 dicembre 1956, n. 1387](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2027%20ottobre%201956%20n.%201176%20concernente%20listituzione%20di%20un%20coefficiente%20di%20compensazione%20alla%20importazione%20dalla%20Francia%20di%20grasso%20di%20maiale%20fuso%20strutt_1edf3cff0508.md), all'importazione del grasso di maiale fuso (strutto), qualunque sia la sua consistenza, compreso lo strutto liquido (olio di strutto), di origine e provenienza dalla Francia da riscuotersi dalle dogane in aggiunta al dazio doganale ed agli altri diritti in vigore per tale prodotto - e' stabilito, dalla data di entrata in vigore del presente decreto, nella misura di L. 50 per kg. netto.
 
 ## Art. 2.
 

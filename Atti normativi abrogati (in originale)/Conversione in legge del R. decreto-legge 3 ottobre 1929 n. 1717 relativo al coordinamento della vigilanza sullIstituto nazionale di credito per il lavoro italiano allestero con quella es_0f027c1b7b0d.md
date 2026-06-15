@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1717](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-03;1717), relativo al coordinamento della vigilanza sull'Istituto nazionale di credito per il lavoro italiano all'estero con quella esercitata dal Ministero delle finanze su analoghi istituti di credito. 
+ E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1717](Coordinamento%20della%20vigilanza%20sullIstituto%20nazionale%20di%20credito%20per%20il%20lavoro%20italiano%20allestero%20con%20quella%20esercitata%20dal%20Ministero%20delle%20finanze%20su%20analoghi%20istituti%20di%20credito.%20029U1717.md), relativo al coordinamento della vigilanza sull'Istituto nazionale di credito per il lavoro italiano all'estero con quella esercitata dal Ministero delle finanze su analoghi istituti di credito. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

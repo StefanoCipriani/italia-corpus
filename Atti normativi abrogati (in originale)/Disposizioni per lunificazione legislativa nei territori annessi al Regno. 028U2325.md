@@ -228,7 +228,7 @@ I mezzi di prova delle obbligazioni e delle liberazioni, in quanto siano dal nuo
 
 ### Art. 30.
 
-Le rendite, le prestazioni e tutti gli oneri gravanti sui beni immobili a titolo di enfiteusi, subenfiteusi, censo fondiario od altro simile, costituiti sotto le leggi anteriori, sono regolate dalle leggi medesime, salva l'applicazione della [legge 11 giugno 1925, n. 998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-06-11;998). 
+Le rendite, le prestazioni e tutti gli oneri gravanti sui beni immobili a titolo di enfiteusi, subenfiteusi, censo fondiario od altro simile, costituiti sotto le leggi anteriori, sono regolate dalle leggi medesime, salva l'applicazione della [legge 11 giugno 1925, n. 998](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20luglio%201923%20n.%201717%20per%20la%20riforma%20delle%20vigenti%20disposizioni%20sulla%20affrancazione%20dei%20canoni%20censi%20ed%20altre%20prestazioni%20perpetue.%20025U0998.md). 
  
  Il dominio utile dei beni enfiteutici si devolvera' pero' giusta le norme di successione legittima o testamentaria stabilite nel nuovo codice, senza riguardo alle vocazioni in favore di determinati ordini di persone, contenute negli atti di enfiteusi.
 

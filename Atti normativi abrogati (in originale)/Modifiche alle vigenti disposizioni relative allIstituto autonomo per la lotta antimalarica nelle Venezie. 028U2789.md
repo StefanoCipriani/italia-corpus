@@ -12,7 +12,7 @@ vigente: true
 
 Lo Stato ha facolta' di anticipare all'Istituto autonomo per la lotta antimalarica nelle Venezie, in luogo dei consorzi concessionari di opere di bonifica, il 50 per cento delle spese provvisoriamente determinate nel programma annuale di azione dell'Istituto. 
  
- Tale facolta' non potra' piu' essere esercitata dopo trascorso un quinquennio dall'entrata in vigore del [R. decreto-legge 13 agosto 1926, n. 1649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1649), che provvide al riordinamento dell'Istituto autonomo.
+ Tale facolta' non potra' piu' essere esercitata dopo trascorso un quinquennio dall'entrata in vigore del [R. decreto-legge 13 agosto 1926, n. 1649](Provvedimenti%20a%20favore%20dellIstituto%20autonomo%20per%20la%20lotta%20antimalarica%20nelle%20Venezie.%20026U1649.md), che provvide al riordinamento dell'Istituto autonomo.
 
 ## Art. 2.
 

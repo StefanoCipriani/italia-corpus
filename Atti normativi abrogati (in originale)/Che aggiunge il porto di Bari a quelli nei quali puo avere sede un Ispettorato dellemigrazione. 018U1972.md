@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visti gli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-01-31;23#art_9) e [23 della legge 31 gennaio 1901, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-01-31;23#art_23), sull'emigrazione; 
+ Visti gli [articoli 9](Disposizioni%20sullemigrazione.%20001U0023.md) e [23 della legge 31 gennaio 1901, n. 23](Disposizioni%20sullemigrazione.%20001U0023.md), sull'emigrazione; 
  
  Sulla proposta del ministro segretario di Stato per gli affari esteri, di concerto con il ministro dell'interno; 
  

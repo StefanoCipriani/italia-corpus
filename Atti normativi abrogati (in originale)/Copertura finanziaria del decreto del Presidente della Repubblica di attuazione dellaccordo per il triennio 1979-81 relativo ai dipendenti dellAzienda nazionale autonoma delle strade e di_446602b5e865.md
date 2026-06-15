@@ -32,7 +32,7 @@ Con effetto dalla data di entrata in vigore della presente legge, l'attuale ruol
  I posti che si rendono successivamente vacanti in ogni compartimento della viabilita' vengono totalmente ricoperti mediante concorso interno compartimentale per esami, al quale possono partecipare, previo corso di qualificazione che l'ANAS terra' ogni biennio, i dipendenti muniti di diploma di istruzione secondaria di primo grado ed in servizio da almeno cinque anni alla data del bando di concorso in una qualifica non inferiore alla quarta.
  Le modalita' di svolgimento del corso nonche' del concorso sono stabilite con decreto del Ministro dei lavori pubblici, sentite le organizzazioni sindacali maggiormente rappresentative in sede aziendale.
  A coloro che risultano idonei nel concorso vengono attribuiti anche i posti eventualmente resisi disponibili tra la data del bando del concorso stesso e la data del decreto di approvazione della graduatoria.
- Per il personale di cui ai precedenti commi, si applicano le disposizioni previste nell'articolo 40, ultimo comma, del [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077).
+ Per il personale di cui ai precedenti commi, si applicano le disposizioni previste nell'articolo 40, ultimo comma, del [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](../DPR/Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md).
  Il trasferimento dei capi cantonieri da un compartimento ad un altro puo' avvenire solo se esistono vacanze nel ruolo organico del compartimento ricevente.
  Il provvedimento di trasferimento deve contenere la cancellazione dell'interessato dal ruolo compartimentale di provenienza ed il suo inserimento nel ruolo del compartimento nel quale viene trasferito.
  Il personale in servizio con la qualifica di cantoniere, nonche' quello che verra' assunto con tale qualifica, viene inquadrato a tutti gli effetti nella quarta qualifica funzionale a decorrere dalla data di entrata in vigore della presente legge, purche' eserciti le mansioni proprie della qualifica, ovvero dalla data di assunzione.
@@ -58,7 +58,7 @@ Oltre a quanto previsto dall'[articolo 12 della legge 2 aprile 1968, n. 482](Dis
 
 ### Art. 6.
 
-Al personale dipendente dell'ANAS si applicano le disposizioni di cui all'[articolo 2 del decreto-legge 6 giugno 1981, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-06-06;283#art_2), convertito, con modificazioni, nella [legge 6 agosto 1981, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-06;432).
+Al personale dipendente dell'ANAS si applicano le disposizioni di cui all'[articolo 2 del decreto-legge 6 giugno 1981, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-06-06;283#art_2), convertito, con modificazioni, nella [legge 6 agosto 1981, n. 432](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20giugno%201981%20n.%20283%20concernente%20copertura%20finanziaria%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20di%20attuazione%20degli%20accordi%20con_2423a780c289.md).
 
 ### Art. 7.
 
@@ -79,7 +79,7 @@ Titolo II
 
 ### Art. 10.
 
-L'ANAS e' autorizzata, in deroga al disposto dell'[articolo 27 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_27), ad indire concorsi per il reclutamento di personale impiegatizio e salariato nei limiti delle disponibilita' di organico esistenti alla data di indizione dei singoli concorsi, con facolta' di comprendere nel numero dei posti anche quelli che si rendessero disponibili nel corso dell'anno.
+L'ANAS e' autorizzata, in deroga al disposto dell'[articolo 27 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), ad indire concorsi per il reclutamento di personale impiegatizio e salariato nei limiti delle disponibilita' di organico esistenti alla data di indizione dei singoli concorsi, con facolta' di comprendere nel numero dei posti anche quelli che si rendessero disponibili nel corso dell'anno.
  La nomina dei vincitori non puo' avere decorrenza anteriore alla vacanza del relativo posto.
  I vincitori del concorso devono permanere nella sede di prima assegnazione per almeno cinque anni.
 

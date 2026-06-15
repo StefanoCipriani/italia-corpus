@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 15 della legge 8 maggio 1910, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-05-08;212#art_15);
+Visto l'[art. 15 della legge 8 maggio 1910, n. 212](Concernente%20il%20quinto%20censimento%20generale%20della%20popolazione%20il%20primo%20censimento%20industriale%20e%20il%20riordinamento%20dei%20servizi%20della%20statistica.%20010U0212.md);
 
 Visto il [decreto Luogotenenziale del 17 giugno 1915, n. 992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-17;992), per provvedimenti a favore dell'Ufficio centrale di statistica, col quale, tra l'altro, fu prorogato al 30 giugno 1916 il termine assegnato dall'art. 15 della citata legge per la presentazione al Parlamento di un disegno di legge inteso al riordinamento definitivo di quell'Ufficio centrale;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per l'industria, il commercio e 
 
 E' prorogato al 31 dicembre 1916 il termine assegnato dall'articolo unico del [decreto Luogotenenziale 17 giugno 1915, n. 992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-17;992), per la presentazione al Parlamento di un disegno di legge inteso al riordinamento definitivo dell'Ufficio centrale di statistica e alla determinazione della relativa pianta organica. 
  
- Per provvedere fino a quella data alla continuazione dei servizi cui deve attendere l'Ufficio centrale di statistica, questo continuera' a valersi fino al 31 dicembre 1916 dell'opera dei giornalieri assunti per il censimento, con facolta' di licenziare anche prima di questa data il personale che si rendesse esuberante, fermo il divieto di cui all'[art. 2 comma secondo del decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625#art_2-com2), convertito nella [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774). 
+ Per provvedere fino a quella data alla continuazione dei servizi cui deve attendere l'Ufficio centrale di statistica, questo continuera' a valersi fino al 31 dicembre 1916 dell'opera dei giornalieri assunti per il censimento, con facolta' di licenziare anche prima di questa data il personale che si rendesse esuberante, fermo il divieto di cui all'[art. 2 comma secondo del decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625#art_2-com2), convertito nella [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md). 
  
  E' autorizzata una maggiore assegnazione di L. 50.000 al capitolo 116 dello stato di previsione del Ministero dell'industria, del commercio e del lavoro per l'esercizio finanziario 1916-917. 
  

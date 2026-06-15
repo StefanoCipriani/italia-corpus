@@ -92,7 +92,7 @@ Per il trasporto del carbone vegetale dai centri di produzione alle provincie de
  
  Nelle assegnazioni di combustibili liquidi, di olii lubrificanti e di pneumatici, dopo soddisfatte le richieste delle Autorita' militari e' data, di regola, la precedenza a quelle avanzate dal Ministero dell'agricoltura e delle foreste a mezzo dei Comandi della Milizia forestale, in nome proprio o per conto di ditte esercenti i trasporti di carbone vegetale, alla stregua di quanto e' stabilito per i trasporti alimentari. 
  
- La facolta' di requisizione di cui al primo comma dell'art. 2 non si applica alle navi ed ai galleggianti, per i quali restano ferme le disposizioni di cui al R. decreto-legge 19 settembre 1935-XIII, n. 1836, convertito nella [legge 9 gennaio 1936, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;147). 
+ La facolta' di requisizione di cui al primo comma dell'art. 2 non si applica alle navi ed ai galleggianti, per i quali restano ferme le disposizioni di cui al R. decreto-legge 19 settembre 1935-XIII, n. 1836, convertito nella [legge 9 gennaio 1936, n. 147](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20settembre%201935-XIII%20n.%201836%20relativo%20alla%20organizzazione%20della%20Marina%20mercantile%20per%20il%20tempo%20di%20guerra.%20036U0147.md). 
  
  Parimenti, detta facolta' non si applica ai mezzi di trasporto di proprieta' privata destinati all'esercizio di servizi pubblici concessi od affidati ai privati dalle Amministrazioni dello Stato. 
  

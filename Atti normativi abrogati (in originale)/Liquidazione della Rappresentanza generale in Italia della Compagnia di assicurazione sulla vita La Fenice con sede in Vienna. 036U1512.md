@@ -34,7 +34,7 @@ La Rappresentanza generale per l'Italia della Compagnia di assicurazione sulla v
  
  La liquidazione e' affidata ad un commissario da nominarsi con decreto Reale su proposta del Ministro per le corporazioni e da pubblicarla nella Gazzetta Ufficiale del Regno. 
  
- La liquidazione si compie sotto la vigilanza del Ministero delle corporazioni e ad essa si applicano le disposizioni contenute negli articoli 89, 90 e 91 del regolamento approvato con [R. decreto 4 gennaio 1925, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-04;63). 
+ La liquidazione si compie sotto la vigilanza del Ministero delle corporazioni e ad essa si applicano le disposizioni contenute negli articoli 89, 90 e 91 del regolamento approvato con [R. decreto 4 gennaio 1925, n. 63](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md). 
  
  La competenze del liquidatore sono determinate con Regio decreto e fanno carico alla liquidazione.
 

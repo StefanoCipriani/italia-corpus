@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 febbraio 1934, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-02-05;255), recante modificazioni alle vigenti disposizioni che regolano i vantaggi della scuola di guerra. 
+ E' convertito in legge il [R. decreto-legge 5 febbraio 1934, n. 255](Modifiche%20alle%20vigenti%20disposizioni%20che%20regolano%20i%20vantaggi%20della%20Scuola%20di%20guerra.%20034U0255.md), recante modificazioni alle vigenti disposizioni che regolano i vantaggi della scuola di guerra. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

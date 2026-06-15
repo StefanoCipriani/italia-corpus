@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 9 luglio 1916, n. 814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-07-09;814);
+Vista la [legge 9 luglio 1916, n. 814](Che%20proroga%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lanno%20finanziario%201916-917%20fino%20quando%20non%20siano%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%20_cbe86bff6c88.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -39,9 +39,9 @@ Gli stanziamenti di competenza dei seguenti capitoli dello stato di previsione d
  
  Cap. 175. Indennita' fisse mensili, trasferte e competenze al personale ordinario del Genio civile in servizio delle opere in Roma, L. 4000. 
  
- Cap. 211. Manutenzione delle opere stradali provinciali nelle provincie calabresi ai sensi dell'[art. 34 della legge 25 giugno 1906, numero 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255#art_34) (art. 32 della legge), L. 30.000. 
+ Cap. 211. Manutenzione delle opere stradali provinciali nelle provincie calabresi ai sensi dell'[art. 34 della legge 25 giugno 1906, numero 255](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md) (art. 32 della legge), L. 30.000. 
  
- Cap. 215. Manutenzione delle opere stradali comunali nelle provincie calabresi costruite ai sensi dell'[art. 35 della legge 25 giugno 1906, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255#art_35) (art. 32 della legge), L. 30.000.
+ Cap. 215. Manutenzione delle opere stradali comunali nelle provincie calabresi costruite ai sensi dell'[art. 35 della legge 25 giugno 1906, n. 255](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md) (art. 32 della legge), L. 30.000.
 
 ## Art. 2.
 
@@ -56,12 +56,12 @@ Genio civile - Personale di ruolo - Indennita' fisse L.
  
  Cap. 72. Illuminazione delle aree portuali e manutenzione dei relativi impianti L. 14.000. 
  
- Cap. 128. Opere stradali dipendenti dalle [leggi 3 luglio 1902, n. 297; 30 giugno 1904, n. 293; 21 giugno 1906, n. 238 (art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-21;238#art_4)); 6 giugno 1907, n. 300 (art. 1, lett. e); 5 aprile 1908, n. 123 (art. 1, lett. b); 30 giugno 1909, n. 407 (art. 1, lett. d); 4 aprile 1912, n. 297 (art.4, lett. c ed e); dai [Regi decreti 22 settembre 1914, n. 1026 (art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-22;1026#art_3), lett. 0) e 1° aprile 1915, n. 426 (spesa ripartita) L.
+ Cap. 128. Opere stradali dipendenti dalle [leggi 3 luglio 1902, n. 297; 30 giugno 1904, n. 293; 21 giugno 1906, n. 238 (art. 4](Aumento%20della%20spesa%20straordinaria%20consolidata%20del%20bilancio%20del%20Ministero%20dei%20lavori%20pubblici%20per%20gli%20esercizi%20finanziari%20dal%201905-906%20al%201920-21.%20006U0238.md)); 6 giugno 1907, n. 300 (art. 1, lett. e); 5 aprile 1908, n. 123 (art. 1, lett. b); 30 giugno 1909, n. 407 (art. 1, lett. d); 4 aprile 1912, n. 297 (art.4, lett. c ed e); dai [Regi decreti 22 settembre 1914, n. 1026 (art. 3](Col%20quale%20sono%20aumentate%20per%20lesercizio%20finanziario%201914-915%20le%20assegnazioni%20per%20le%20spese%20effettive%20straordinarie%20del%20Ministero%20dei%20lavori%20pubblici%20per%20accelerare%20la%20esecuzione%20delle%20oper_ee4d9b054347.md), lett. 0) e 1° aprile 1915, n. 426 (spesa ripartita) L.
 300.000. 
  
- Cap. 129. Concorso dello Stato per le strade provinciali di I e II serie di cui nelle [leggi 27 giugno 1869, n. 5147 e 30 maggio 1875, n.2521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-05-30;2521) e per le strade di cui all'elenco III della [legge 23 luglio 1881, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333) e per il tratto dal piazzale della stazione di Baschi all'incontro con la strada Cassia-Orvietana, a complemento della strada provinciale inscritta al n. 199 dell'elenco medesimo, che si costruiscono dalle provincie direttamente (spesa ripartita) L.213.000. 
+ Cap. 129. Concorso dello Stato per le strade provinciali di I e II serie di cui nelle [leggi 27 giugno 1869, n. 5147 e 30 maggio 1875, n.2521](Che%20autorizza%20la%20spesa%20di%20lire%2047420000%20per%20la%20costruzione%20di%20strade%20nelle%20provincie%20che%20piu%20ne%20difettano%20075U2521.md) e per le strade di cui all'elenco III della [legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md) e per il tratto dal piazzale della stazione di Baschi all'incontro con la strada Cassia-Orvietana, a complemento della strada provinciale inscritta al n. 199 dell'elenco medesimo, che si costruiscono dalle provincie direttamente (spesa ripartita) L.213.000. 
  
- Cap. 177. Indennita' fisse mensili, trasferte, competenze e indennita' in base all'[art. 11 della legge 3 marzo 1904, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-03;68#art_11), al personale aggiunto del Genio civile in servizio delle opere in Roma, L 4.000. 
+ Cap. 177. Indennita' fisse mensili, trasferte, competenze e indennita' in base all'[art. 11 della legge 3 marzo 1904, n. 68](Che%20approva%20i%20nuovi%20ruoli%20organici%20del%20personale%20dellAmministrazione%20finanziaria.%20004U0068.md), al personale aggiunto del Genio civile in servizio delle opere in Roma, L 4.000. 
  
  Cap. 266. Assegnazione per un fondo di riserva per maggiori stanziamenti relativi a spese autorizzate e ad eventuali nuove opere da autorizzarsi con la legge di bilancio per somme non eccedenti L. 30.000 e con leggi speciali per somme superiori, L. 60.000.
 
@@ -73,7 +73,7 @@ Negli stanziamenti in conto residui dei seguenti capitoli dello stato di previsi
  
  Cap. 171. Spose di sorveglianza sulla costruzione di ferrovie concesse alla industria privata e di tramvie, + L. 160.000. 
  
- Cap. 173. Acquisto dell'area e costruzione del nuovo edificio del Ministero dei lavori pubblici, articoli 17 e 38 della legge.11 luglio 1907, n. 502; art. I [lett. c) della legge 30 giugno 1909 n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-30;407#art_letc), ed [art. 15 lett. d) della legge 13 aprile 1911, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-13;311#art_15-letd), e [decreto Luogotenenziale 11 luglio 1915, n. 1082](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1082) (Spesa ripartita), - L 500.000. 
+ Cap. 173. Acquisto dell'area e costruzione del nuovo edificio del Ministero dei lavori pubblici, articoli 17 e 38 della legge.11 luglio 1907, n. 502; art. I [lett. c) della legge 30 giugno 1909 n. 407](Concernente%20provvedimenti%20per%20lesecuzione%20di%20varie%20opere%20pubbliche.%20009U0407.md), ed [art. 15 lett. d) della legge 13 aprile 1911, n. 311](Per%20la%20conversione%20in%20legge%20del%20R.%20decreto%2018%20settembre%201910%20n.%20684%20per%20le%20Puglie%20e%20per%20autorizzazione%20di%20spese%20e%20provvedimenti%20urgenti%20per%20lavori%20pubblici.%20011U0311.md), e [decreto Luogotenenziale 11 luglio 1915, n. 1082](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1082) (Spesa ripartita), - L 500.000. 
  
  Cap. 266. Assegnazione per un fondo di riserva per maggiori stanziamenti relativi a spese autorizzate e ad eventuali nuove opere da autorizzarsi con la legge di bilancio per somme non eccedenti lire 30.000 e con leggi speciali per somme superiori, - L 160.000.
 
@@ -196,7 +196,7 @@ I prelevamenti di L. 84.000 per le spese del personale addetto ai lavori di sist
  
  Sussidi dello Stato per le strade di 3ª serie 
  in dipendenza delle [leggi 27 giugno 1869, n. 5147, 
- e 30 maggio 1875, n. 2521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-05-30;2521) . . . . . . . . . . . . . . . . . 10,000- 
+ e 30 maggio 1875, n. 2521](Che%20autorizza%20la%20spesa%20di%20lire%2047420000%20per%20la%20costruzione%20di%20strade%20nelle%20provincie%20che%20piu%20ne%20difettano%20075U2521.md) . . . . . . . . . . . . . . . . . 10,000- 
  --------- 
  284,100- 
  --------- 

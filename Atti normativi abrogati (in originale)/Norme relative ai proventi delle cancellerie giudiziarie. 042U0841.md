@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La quota di concorso da parte dei tribunali e delle preture nella spesa occorrente per il pagamento degli stipendi al personale degli uscieri giudiziari, stabilita con l'[art. 161 del R. decreto 28 dicembre 1924, n. 2271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-28;2271#art_161), e' abolita dal 1° luglio 1942-XX.
+La quota di concorso da parte dei tribunali e delle preture nella spesa occorrente per il pagamento degli stipendi al personale degli uscieri giudiziari, stabilita con l'[art. 161 del R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), e' abolita dal 1° luglio 1942-XX.
 
 ## Art. 2.
 

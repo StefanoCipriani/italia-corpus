@@ -34,7 +34,7 @@ I contributi dello Stato a pareggio dei bilanci delle Colonie vengono stabiliti,
 
 ## Art. 3.
 
-Il fondo a disposizione del Ministero, per contributi e concorsi di spese a favore dell'avvaloramento agrario delle Colonie, di cui al [Regio decreto-legge 24 luglio 1930, n. 1093](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-24;1093), convertito nella [legge 15 dicembre 1930, n. 1670](Conversione%20in%20legge%20dei%20Regi%20decreti-legge%2018%20luglio%201930%20n.%20990%20%2024%20luglio%201930%20n.%201093%2028%20luglio%201930%20n.%201040%20%2030%20luglio%201930%20n.%201014%20e%2022%20agosto%201930%20n.%201276%20concernenti%20variazioni%20di_7be49fe83034.md), e' stabilito, per l'esercizio 1936-37, in lire 15 milioni.
+Il fondo a disposizione del Ministero, per contributi e concorsi di spese a favore dell'avvaloramento agrario delle Colonie, di cui al [Regio decreto-legge 24 luglio 1930, n. 1093](Maggiore%20assegnazione%20allo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20colonie%20per%20lesercizio%20finanziario%201930-31.%20030U1093.md), convertito nella [legge 15 dicembre 1930, n. 1670](Conversione%20in%20legge%20dei%20Regi%20decreti-legge%2018%20luglio%201930%20n.%20990%20%2024%20luglio%201930%20n.%201093%2028%20luglio%201930%20n.%201040%20%2030%20luglio%201930%20n.%201014%20e%2022%20agosto%201930%20n.%201276%20concernenti%20variazioni%20di_7be49fe83034.md), e' stabilito, per l'esercizio 1936-37, in lire 15 milioni.
 
 ## Art. 4.
 

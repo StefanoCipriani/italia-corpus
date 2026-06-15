@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista al [legge 13 luglio 1939, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-13;1154), recante norme sulla requisizione del naviglio mercantile e successive modificazioni;
+Vista al [legge 13 luglio 1939, n. 1154](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md), recante norme sulla requisizione del naviglio mercantile e successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), concernente l'assemblea per la nuova costituzione dello Stato, il giuramento dei membri del Governo e la facolta' del Governo di emanare norme giuridiche;
 

@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 luglio 1931, n. 975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-24;975), che da' esecuzione al Protocollo addizionale al Trattato di commercio italo-austriaco del 28 aprile 1923, Protocollo addizionale sottoscritto a Roma, tra l'Italia e l'Austria, il 7 maggio 1931. 
+ E' convertito in legge il [R. decreto-legge 24 luglio 1931, n. 975](Esecuzione%20del%20Protocollo%20addizionale%20al%20Trattato%20di%20commercio%20italo-austriaco%20del%2028%20aprile%201923.%20031U0975.md), che da' esecuzione al Protocollo addizionale al Trattato di commercio italo-austriaco del 28 aprile 1923, Protocollo addizionale sottoscritto a Roma, tra l'Italia e l'Austria, il 7 maggio 1931. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 7 gennaio 1932 - Anno X 
  

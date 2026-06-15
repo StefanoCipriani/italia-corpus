@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-Fatta eccezione per quanto riguarda la liquidazione ed il pagamento dei lavori eseguiti e che ancora sono da liquidare nonche' per quanto riguarda i lavori per l'ultimazione ed il completamento della ferrovia Trapani-Segesta affidati alla Societa' costruzione esercizio ferrovie e quelli per l'ultimazione ed il completamento del tronco Schettino-Careaci-Regalbuto affidati alla Compagnia generale lavori e servizi pubblici, sono risolute le convenzioni 21 marzo 1923, approvate col [R. decreto 29 aprile 1923, n. 1218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-29;1218), stipulate fra l'Amministrazione dello Stato e le Societa' predette per la concessione della costruzione delle ferrovie secondarie in Sicilia.
+Fatta eccezione per quanto riguarda la liquidazione ed il pagamento dei lavori eseguiti e che ancora sono da liquidare nonche' per quanto riguarda i lavori per l'ultimazione ed il completamento della ferrovia Trapani-Segesta affidati alla Societa' costruzione esercizio ferrovie e quelli per l'ultimazione ed il completamento del tronco Schettino-Careaci-Regalbuto affidati alla Compagnia generale lavori e servizi pubblici, sono risolute le convenzioni 21 marzo 1923, approvate col [R. decreto 29 aprile 1923, n. 1218](Che%20approva%20due%20convenzioni%20per%20la%20concessione%20della%20costruzione%20delle%20ferrovie%20secondarie%20in%20Sicilia.%20023U1218.md), stipulate fra l'Amministrazione dello Stato e le Societa' predette per la concessione della costruzione delle ferrovie secondarie in Sicilia.
 
 ## Art. 2.
 

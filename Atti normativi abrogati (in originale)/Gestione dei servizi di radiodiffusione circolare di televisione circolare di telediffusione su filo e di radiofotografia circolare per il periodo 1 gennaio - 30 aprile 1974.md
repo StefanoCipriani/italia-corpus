@@ -22,7 +22,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Art. 1.
 
-La concessione alla RAI - Radiotelevisione italiana dei servizi di radiodiffusione circolare, di televisione circolare, di telediffusione su filo e di radiofotografia circolare, di cui al [decreto del Presidente della Repubblica 15 dicembre 1972, n. 782](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-12-15;782), e' prorogata fino al 30 aprile 1974, alle condizioni di cui alla convenzione 26 gennaio 1952, e successive convenzioni aggiuntive e di proroga.
+La concessione alla RAI - Radiotelevisione italiana dei servizi di radiodiffusione circolare, di televisione circolare, di telediffusione su filo e di radiofotografia circolare, di cui al [decreto del Presidente della Repubblica 15 dicembre 1972, n. 782](../DPR/Convenzione%20stipulata%20il%2015%20dicembre%201972%20tra%20il%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20la%20RAI-Radiotelevisione%20italiana%20aggiuntiva%20alla%20convenzione%20del%2026%20gennaio%201952.md), e' prorogata fino al 30 aprile 1974, alle condizioni di cui alla convenzione 26 gennaio 1952, e successive convenzioni aggiuntive e di proroga.
 
 ## Art. 2.
 

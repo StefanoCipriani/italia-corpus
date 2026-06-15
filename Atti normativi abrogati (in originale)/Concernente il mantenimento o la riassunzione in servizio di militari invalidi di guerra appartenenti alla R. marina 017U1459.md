@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 25 marzo 1917, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;481), sulla protezione ed assistenza degli invalidi della guerra;
+Vista la [legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), sulla protezione ed assistenza degli invalidi della guerra;
 
 Udito il Consiglio dei ministri;
 
@@ -70,7 +70,7 @@ Il ministro della marina determinera', con suo decreto, quali tra le destinazion
 
 ## Art. 6.
 
-L'impiego conferito a norma degli articoli precedenti non potra' essere tolto ne' sospeso se non nei casi e nei modi stabiliti per gli ufficiali in servizio attivo permanente dalla [legge 18 luglio 1912, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-18;806).
+L'impiego conferito a norma degli articoli precedenti non potra' essere tolto ne' sospeso se non nei casi e nei modi stabiliti per gli ufficiali in servizio attivo permanente dalla [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md).
 
 ## Art. 7.
 
@@ -84,7 +84,7 @@ Gli ufficiali, che siano affetti da una lesione o infermita' incontrata per fatt
  
  Il presidente del Collegio medico, fermo l'obbligo di comunicare all'interessato l'esito della visita subito redatto il verbale, e di fare constare in calce al medesimo l'accettazione o il rifiuto di accettazione delle conclusioni, dovra' altresi' interpellarlo se abbia gia' presentato o intenda di presentare domanda per essere collocato a riposo o in congedo assoluto, e contemporaneamente ottenere una destinazione di servizio a terra, oppure mantenuto in servizio attivo; e dovra' far constare in calce al verbale della visita il tenore della risposta. 
  
- Se l'ufficiale abbia risposto in senso affermativo, i giudizi del direttore di sanita' e dell'Ispettorato di sanita' militare marittimo dovranno essere preceduti da visita personale, e, oltre a pronunziarsi sull'esistenza e sulla causa dell'inabilita' e sulla sua assegnazione ad una determinata categoria agli effetti delle disposizioni sulle pensioni e della dichiarazione di invalidita' di cui all'[art. 2 della legge 25 marzo 1917, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;481#art_2), dovranno pronunziarsi altresi' sulla idoneita' dell'ufficiale alla continuazione del servizio o alla prestazione di un servizio a terra agli effetti delle presenti disposizioni.
+ Se l'ufficiale abbia risposto in senso affermativo, i giudizi del direttore di sanita' e dell'Ispettorato di sanita' militare marittimo dovranno essere preceduti da visita personale, e, oltre a pronunziarsi sull'esistenza e sulla causa dell'inabilita' e sulla sua assegnazione ad una determinata categoria agli effetti delle disposizioni sulle pensioni e della dichiarazione di invalidita' di cui all'[art. 2 della legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), dovranno pronunziarsi altresi' sulla idoneita' dell'ufficiale alla continuazione del servizio o alla prestazione di un servizio a terra agli effetti delle presenti disposizioni.
 
 ## Art. 9.
 

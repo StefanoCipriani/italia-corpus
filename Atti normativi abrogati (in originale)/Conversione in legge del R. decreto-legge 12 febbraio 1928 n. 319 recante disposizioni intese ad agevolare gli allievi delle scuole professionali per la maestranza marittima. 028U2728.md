@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 febbraio 1928, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-12;319), recante disposizioni intese ad agevolare gli allievi delle scuole professionali per la maestranza marittima. 
+ E' convertito in legge il [R. decreto-legge 12 febbraio 1928, n. 319](Disposizioni%20intese%20ad%20agevolare%20gli%20allievi%20delle%20%20Scuole%20professionali%20per%20la%20maestranza%20marittima%20.%20028U0319.md), recante disposizioni intese ad agevolare gli allievi delle scuole professionali per la maestranza marittima. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

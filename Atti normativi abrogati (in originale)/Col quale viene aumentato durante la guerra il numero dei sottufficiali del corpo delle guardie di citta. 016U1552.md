@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per i maggiori bisogni della sicurezza pubblica e dell'ordine pubblico durante la guerra sono collocati in soprannumero alla tabella B annessa alla [legge 6 luglio 1911, n. 670](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;670), venticinque marescialli di 1ª classe, cinquanta marescialli di 2ª classe, settantacinque brigadieri e cinquanta sottobrigadieri i quali si ridurranno gradatamente tra i limiti stabiliti dalla succitata tabella B entro il 30 giugno 1918. 
+Per i maggiori bisogni della sicurezza pubblica e dell'ordine pubblico durante la guerra sono collocati in soprannumero alla tabella B annessa alla [legge 6 luglio 1911, n. 670](Concernente%20i%20provvedimenti%20per%20il%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza.%20011U0670.md), venticinque marescialli di 1ª classe, cinquanta marescialli di 2ª classe, settantacinque brigadieri e cinquanta sottobrigadieri i quali si ridurranno gradatamente tra i limiti stabiliti dalla succitata tabella B entro il 30 giugno 1918. 
  
  Questi posti saranno conferiti subito, in ordine di ruolo e secondo le norme in vigore per l'avanzamento, rispettivamente ai marescialli di 2ª classe, ai brigadieri, ai sottobrigadieri ed alle guardie scelte.
 

@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), che conferisce al R. Governo eccezionali poteri; 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), che conferisce al R. Governo eccezionali poteri; 
  
- Vista la [legge 29 gennaio 1885, n. 2897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-29;2897), serie 3ª sulla istituzione del servizio ausiliario per gli ufficiali della R. marina; 
+ Vista la [legge 29 gennaio 1885, n. 2897](Che%20stabilisce%20per%20gli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marineria%20la%20posizione%20di%20servizio%20ausiliario.%20085U2897.md), serie 3ª sulla istituzione del servizio ausiliario per gli ufficiali della R. marina; 
  
  Visto il [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), che approva il testo unico delle leggi sulle pensioni civili e militari; 
  
@@ -40,7 +40,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- L'ultimo comma dell'[art. 6 della legge 29 gennaio 1885, n. 2897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-29;2897#art_6), serie 3ª, e quello dell'[art. 21 del R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70#art_21), sono abrogati. 
+ L'ultimo comma dell'[art. 6 della legge 29 gennaio 1885, n. 2897](Che%20stabilisce%20per%20gli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marineria%20la%20posizione%20di%20servizio%20ausiliario.%20085U2897.md), serie 3ª, e quello dell'[art. 21 del R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70#art_21), sono abrogati. 
  
  E' parimente abrogato a decorrere dal 1° gennaio 1916 il Nostro decreto n. 1133 del 15 luglio 1915. 
  

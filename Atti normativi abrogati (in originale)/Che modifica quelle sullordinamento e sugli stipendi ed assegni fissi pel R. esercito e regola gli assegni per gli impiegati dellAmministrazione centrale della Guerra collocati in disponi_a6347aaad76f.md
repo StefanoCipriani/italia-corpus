@@ -163,7 +163,7 @@ Fino a tutto il 31 dicembre 1897, il Governo avra' facolta' di attuare mediante 
 
 ## Art. 4.
 
-E' convertito in legge il [Regio decreto 6 novembre 1894, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-11-06;505), per varianti alla legge sugli stipendi ed assegni fissi del Regio esercito, con le modificazioni ed aggiunte seguenti: 
+E' convertito in legge il [Regio decreto 6 novembre 1894, n. 505](Circa%20le%20modificazioni%20introdotte%20agli%20stipendi%20ed%20assegni%20fissi%20degli%20ufficiali%20e%20dei%20militari%20di%20truppa%20del%20R.%20Esercito.%20094U0505.md), per varianti alla legge sugli stipendi ed assegni fissi del Regio esercito, con le modificazioni ed aggiunte seguenti: 
  
  All'annotazione 1 della tabella II sopprimere le parole: «e dell'isola di Sardegna». Alle parole: «i comandanti di brigata di cavalleria sostituire: «i comandanti di brigata e di reggimento di cavalleria ed il comandante della scuola di cavalleria». 
  
@@ -190,7 +190,7 @@ E' convertito in legge il [Regio decreto 6 novembre 1894, n. 505](https://www.no
  
  La presente tabella andra' in vigore a datare dal 16 gennaio 1895. 
  
- Alle modificazioni apportate dal [Regio decreto 6 novembre 1894, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-11-06;505), alla tabella IV, sostituire le seguenti: 
+ Alle modificazioni apportate dal [Regio decreto 6 novembre 1894, n. 505](Circa%20le%20modificazioni%20introdotte%20agli%20stipendi%20ed%20assegni%20fissi%20degli%20ufficiali%20e%20dei%20militari%20di%20truppa%20del%20R.%20Esercito.%20094U0505.md), alla tabella IV, sostituire le seguenti: 
  
  Tabella IV. 
  
@@ -218,7 +218,7 @@ E' convertito in legge il [Regio decreto 6 novembre 1894, n. 505](https://www.no
  
  Nella disposizione transitoria della tabella V tra le parole «attualmente» ed «effettivi» inserire: «compresi nell'alinea b) od». 
  
- Alle modificazioni apportate dal [Regio decreto 6 novembre 1894, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-11-06;505), alla tabella VI, sostituire le seguenti: 
+ Alle modificazioni apportate dal [Regio decreto 6 novembre 1894, n. 505](Circa%20le%20modificazioni%20introdotte%20agli%20stipendi%20ed%20assegni%20fissi%20degli%20ufficiali%20e%20dei%20militari%20di%20truppa%20del%20R.%20Esercito.%20094U0505.md), alla tabella VI, sostituire le seguenti: 
  
  Nelle indicazioni degli stipendi annui assegnati agli ingegneri geografi e topografi sopprimere: 
  
@@ -251,7 +251,7 @@ E' convertito in legge il [Regio decreto 6 novembre 1894, n. 505](https://www.no
  Id. di 2ª id. . . . . 1200 
  Id. di 3ª id. . . . . 1000 
  
- Alla prima parte delle tabelle VII del [Regio decreto 6 novembre 1894 n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-11-06;505), sostituire la seguente: 
+ Alla prima parte delle tabelle VII del [Regio decreto 6 novembre 1894 n. 505](Circa%20le%20modificazioni%20introdotte%20agli%20stipendi%20ed%20assegni%20fissi%20degli%20ufficiali%20e%20dei%20militari%20di%20truppa%20del%20R.%20Esercito.%20094U0505.md), sostituire la seguente: 
  
  Tabella VII. 
  
@@ -311,7 +311,7 @@ GRADI
 
 Nelle annotazioni alla tabella VII dello stesso Regio decreto, alle parole «dell'arma di fanteria» sostituire: «delle armi di fanteria e cavalleria». 
  
- Sopprimere le modificazioni apportate dal [Regio decreto 6 novembre 1894, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-11-06;505), alla tabella VIII, ed a questa sostituire la seguente: 
+ Sopprimere le modificazioni apportate dal [Regio decreto 6 novembre 1894, n. 505](Circa%20le%20modificazioni%20introdotte%20agli%20stipendi%20ed%20assegni%20fissi%20degli%20ufficiali%20e%20dei%20militari%20di%20truppa%20del%20R.%20Esercito.%20094U0505.md), alla tabella VIII, ed a questa sostituire la seguente: 
  
  Assegno di primo corredo dovuto ai Corpi per gli uomini di truppa  
 
@@ -371,7 +371,7 @@ ANNOTAZIONI
  
  Alinea b) sopprimere la parola «distretti» e aggiungere «e compagnie di sussistenza.» 
  
- All'[art. 2 del Regio decreto 6 novembre 1894, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-11-06;505#art_2), sopprimere il secondo capoverso.
+ All'[art. 2 del Regio decreto 6 novembre 1894, n. 505](Circa%20le%20modificazioni%20introdotte%20agli%20stipendi%20ed%20assegni%20fissi%20degli%20ufficiali%20e%20dei%20militari%20di%20truppa%20del%20R.%20Esercito.%20094U0505.md), sopprimere il secondo capoverso.
 
 ## Art. 5.
 
@@ -389,11 +389,11 @@ Il Governo del Re e' autorizzato a pubblicare per decreto Reale, e sentito il pa
 
 Sono abrogati: 
  
- a) il [Regio decreto n. 503, del 6 novembre 1894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-11-06;503), per varianti alle leggi sull'ordinamento del Regio esercito e dei servizi dipendenti dall'Amministrazione della guerra; 
+ a) il [Regio decreto n. 503, del 6 novembre 1894](Circa%20le%20modificazioni%20introdotte%20allordinamento%20del%20R.%20Esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20della%20guerra.%20094U0503.md), per varianti alle leggi sull'ordinamento del Regio esercito e dei servizi dipendenti dall'Amministrazione della guerra; 
  
  b) la [legge 8 luglio 1883 n. 1467](Che%20determina%20la%20circoscrizione%20territoriale%20militare%20del%20Regno.%20083U1467.md) (serie 3ª), per la circoscrizione territoriale militare del Regno, modificata dalla [legge 23 giugno 1887, n. 4595](Che%20approva%20variante%20alla%20legge%20per%20la%20circoscrizione%20territoriale%20militare%20del%20Regno%20in%20data%208%20luglio%201883.%20087U4595.md) (serie 3ª); 
  
- c) il [Regio decreto n. 504, del 6 novembre 1894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-11-06;504), per varianti alla legge sulla circoscrizione territoriale militare del Regno. 
+ c) il [Regio decreto n. 504, del 6 novembre 1894](Circa%20le%20modificazioni%20introdotte%20alla%20legge%20per%20la%20circoscrizione%20militare%20territoriale%20del%20Regno.%20094U0504.md), per varianti alla legge sulla circoscrizione territoriale militare del Regno. 
  
  TABELLE ORGANICHE 
  

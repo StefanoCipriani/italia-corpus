@@ -28,7 +28,7 @@ EMANA il seguente decreto:
 
 E' autorizzata la spesa di lire 751 miliardi per l'anno finanziario 1987 e di lire 635,5 miliardi per ciascuno degli anni 1988 e 1989 relativa:
                         a)
-                            all'applicazione del [decreto del Presidente della Repubblica 10 aprile 1987, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-04-10;150), di attuazione dell'accordo intervenuto in data 13 febbraio 1987 tra il Governo e i sindacati del personale della Polizia di Stato SIULP (Sindacato italiano unitario lavoratori della Polizia) e SAP (Sindacato autonomo della Polizia) in materia di trattamento economico concernente il personale della Polizia di Stato, nonche' all'estensione, fatta salva ogni disposizione contenuta nel presente provvedimento relativa alla sola Polizia di Stato, dei benefici economici previsti dal predetto decreto all'Arma dei carabinieri, al Corpo della guardia di finanza, al Corpo degli agenti di custodia e al Corpo forestale dello Stato, ai sensi e per effetto dell'[articolo 43 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_43), e successive modificazioni e integrazioni;
+                            all'applicazione del [decreto del Presidente della Repubblica 10 aprile 1987, n. 150](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2013%20febbraio%201987%20per%20il%20personale%20della%20Polizia%20di%20Stato.md), di attuazione dell'accordo intervenuto in data 13 febbraio 1987 tra il Governo e i sindacati del personale della Polizia di Stato SIULP (Sindacato italiano unitario lavoratori della Polizia) e SAP (Sindacato autonomo della Polizia) in materia di trattamento economico concernente il personale della Polizia di Stato, nonche' all'estensione, fatta salva ogni disposizione contenuta nel presente provvedimento relativa alla sola Polizia di Stato, dei benefici economici previsti dal predetto decreto all'Arma dei carabinieri, al Corpo della guardia di finanza, al Corpo degli agenti di custodia e al Corpo forestale dello Stato, ai sensi e per effetto dell'[articolo 43 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_43), e successive modificazioni e integrazioni;
                         b)
                             all'attribuzione dei benefici di cui ai seguenti articoli.
 
@@ -40,7 +40,7 @@ L'indennita' prevista all'[articolo 2, commi 1](https://www.normattiva.it/uri-re
 
 2.
 
-Al personale appartenente ai ruoli dei dirigenti di cui al [decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337), nonche' a quello dei ruoli di cui al [decreto del Presidente della Repubblica 24 aprile 1982, n. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;338), compete l'indennita' di cui al comma 1, in misura pari al 100 per cento di quella corrisposta al personale che espleta funzioni di polizia di qualifica corrispondente.
+Al personale appartenente ai ruoli dei dirigenti di cui al [decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), nonche' a quello dei ruoli di cui al [decreto del Presidente della Repubblica 24 aprile 1982, n. 338](../DPR/Ordinamento%20dei%20ruoli%20professionali%20dei%20sanitari%20della%20Polizia%20di%20Stato.md), compete l'indennita' di cui al comma 1, in misura pari al 100 per cento di quella corrisposta al personale che espleta funzioni di polizia di qualifica corrispondente.
 
 3.
 
@@ -73,11 +73,11 @@ I miglioramenti previsti dai precedenti commi sono assorbiti dai benefici di cui
 
 9.
 
-Al personale della Polizia di Stato nel periodo 25 giugno 1982-31 ottobre 1986 si applica l'[articolo 138, primo comma, della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_138-com1), come sostituito dall'[articolo 18 del decreto-legge 6 giugno 1981, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-06-06;283#art_18), convertito, con modificazioni, dalla [legge 6 agosto 1981, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-06;432).
+Al personale della Polizia di Stato nel periodo 25 giugno 1982-31 ottobre 1986 si applica l'[articolo 138, primo comma, della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_138-com1), come sostituito dall'[articolo 18 del decreto-legge 6 giugno 1981, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-06-06;283#art_18), convertito, con modificazioni, dalla [legge 6 agosto 1981, n. 432](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20giugno%201981%20n.%20283%20concernente%20copertura%20finanziaria%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20di%20attuazione%20degli%20accordi%20con_2423a780c289.md).
 
 10.
 
-Per il solo personale della Polizia di Stato non inquadrato nei ruoli ad esaurimento che riveste, alla data del 1 novembre 1986, la qualifica di ispettore capo, ispettore principale, ispettore e sovrintendente capo, con decorrenza dal 1 novembre 1986, sono attribuiti i seguenti scatti del 2,50 per cento computati sullo stipendio in godimento con riferimento al trattamento stipendiale previsto dal [decreto del Presidente della Repubblica 27 marzo 1984, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-03-27;69):
+Per il solo personale della Polizia di Stato non inquadrato nei ruoli ad esaurimento che riveste, alla data del 1 novembre 1986, la qualifica di ispettore capo, ispettore principale, ispettore e sovrintendente capo, con decorrenza dal 1 novembre 1986, sono attribuiti i seguenti scatti del 2,50 per cento computati sullo stipendio in godimento con riferimento al trattamento stipendiale previsto dal [decreto del Presidente della Repubblica 27 marzo 1984, n. 69](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2015%20dicembre%201983%20concernente%20il%20personale%20dei%20ruoli%20della%20Polizia%20di%20Stato%20con%20esclusione%20dei%20dirigenti.md):
 
 ispettore capo. . . . . . . . . . . . . . . . . . . . . . n. 4 scatti ispettore principale. . . . . . . . . . . . . . . . . . . n. 5 scatti ispettore . . . . . . . . . . . . . . . . . . . . . . . . n. 3 scatti sovrintendente capo . . . . . . . . . . . . . . . . . . . n. 4 scatti
 
@@ -107,7 +107,7 @@ Al personale delle Forze di polizia che cessa dal servizio per raggiunti limiti 
 
 17.
 
-Con decorrenza dal primo giorno del mese successivo alla data di entrata in vigore del [decreto del Presidente della Repubblica 10 aprile 1987, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-04-10;150), compete al personale delle qualifiche di seguito indicate un'autonoma maggiorazione di stipendio del seguente importo annuo lordo:
+Con decorrenza dal primo giorno del mese successivo alla data di entrata in vigore del [decreto del Presidente della Repubblica 10 aprile 1987, n. 150](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2013%20febbraio%201987%20per%20il%20personale%20della%20Polizia%20di%20Stato.md), compete al personale delle qualifiche di seguito indicate un'autonoma maggiorazione di stipendio del seguente importo annuo lordo:
 
 primo dirigente di P.S . . . . . . . . . . . . . . . . . . L. 700.000 dirigente superiore di P.S . . . . . . . . . . . . . . . . L. 900.000 dirigente generale di P.S. . . . . . . . . . . . . . . . L. 1.100.000
 
@@ -132,7 +132,7 @@ Nel caso di transito da un livello inferiore a quello superiore, l'importo prede
 
 1.
 
-L'[articolo 9 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;335#art_9), e' sostituito dal seguente:
+L'[articolo 9 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e' sostituito dal seguente:
  "Art. 9 (Funzioni del personale appartenente alle qualifiche di assistente e assistente capo). - 1. Al personale delle qualifiche di assistente e assistente capo e' attribuita la qualita' di agente di pubblica sicurezza e di agente di polizia giudiziaria.
  2. Agli assistenti capo e' attribuita la qualita' di ufficiale di polizia giudiziaria, previo superamento del corso di aggiornamento di cui all'articolo 13, di durata non inferiore a trenta giorni, da espletarsi di regola annualmente, secondo modalita' di attuazione e programmi stabiliti con decreto del Ministro dell'interno.
  3. Al personale delle qualifiche di assistente e di assistente capo sono attribuite mansioni esecutive con il margine di iniziativa e di discrezionalita' inerente alle qualita' di cui al comma 1; a detto personale possono essere altresi' conferiti incarichi specialistici di coordinamento e di comando di uno o piu' agenti in servizio operativo.
@@ -141,19 +141,19 @@ L'[articolo 9 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335
 
 2.
 
-L'[articolo 12 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;335#art_12), e' sostituito dal seguente:
+L'[articolo 12 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e' sostituito dal seguente:
  "Art. 12 (Promozione ad assistente capo). - 1. La promozione alla qualifica di assistente capo si consegue a ruolo aperto mediante scrutinio per merito assoluto, al quale e' ammesso il personale che, alla data dello scrutinio, abbia compiuto ventiquattro anni di servizio ovvero abbia compiuto dieci anni di servizio nella qualifica di assistente".
 
 3.
 
-L'[articolo 13 del decreto del presidente della Repubblica 24 aprile 1982, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;335#art_13), e' sostituito dal seguente:
+L'[articolo 13 del decreto del presidente della Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e' sostituito dal seguente:
  "Art. 13 (Corso di aggiornamento). - 1. L'ammissione al corso di cui all'articolo 9, nel limite dei posti fissati, di regola annualmente, con decreto del Ministro dell'interno, avviene mediante scrutinio per merito comparativo, cui e' ammesso a domanda il personale che riveste la qualifica di assistente capo nel numero, non inferiore ad otto volte i posti disponibili secondo l'ordine di ruolo, stabilito annualmente con il medesimo decreto ministeriale.
  2. Il corso di aggiornamento e' di durata non inferiore a trenta giorni, da espletarsi, di regola annualmente, secondo modalita' di attuazione e programmi stabiliti con decreto del Ministro dell'interno.
  3. Al personale della qualifica di assistente capo che supera il corso spetta un aumento stipendiale, pari al 2,50 per cento dello stipendio tabellare iniziale di livello, a decorrere dal 1 gennaio dell'anno successivo a quello della conclusione del corso. Tale beneficio e' riassorbito in caso di promozione a qualifica superiore e non costituisce presupposto per l'applicazione delle disposizioni contenute nel [quinto comma dell'articolo 140 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_140-com5)".
 
 4.
 
-L'[articolo 15 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;335#art_15), e' abrogato.
+L'[articolo 15 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e' abrogato.
 
 5.
 
@@ -172,12 +172,12 @@ Agli assistenti capo in servizio alla data di entrata in vigore della legge di c
 
 7.
 
-L'[articolo 11 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337#art_11), e' cosi' modificato:
+L'[articolo 11 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), e' cosi' modificato:
  "Art. 11 (Promozione a collaboratore tecnico capo). 1. La promozione a collaboratore tecnico capo si consegue a ruolo aperto mediante scrutinio per merito assoluto, al quale e' ammesso il personale che, alla data dello scrutinio, abbia conseguito ventiquattro anni di servizio ovvero abbia conseguito dieci anni nella qualifica di collaboratore tecnico".
 
 8.
 
-Sono abrogati gli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337#art_12) e [13 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337#art_13), nonche' l'ultimo comma dell'[articolo 1 della legge 12 agosto 1982, n. 569](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;569#art_1).
+Sono abrogati gli [articoli 12](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md) e [13 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), nonche' l'ultimo comma dell'[articolo 1 della legge 12 agosto 1982, n. 569](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;569#art_1).
 
 9.
 
@@ -218,7 +218,7 @@ La data nella quale e' attribuita la qualifica di ufficiale di polizia giudiziar
 16.
 
 Alle guardie scelte del Corpo forestale dello Stato ed agli appuntati scelti del Corpo degli agenti di custodia, con i requisiti di anzianita' di cui al comma 10, compete il trattamento economico nella misura prevista per l'assistente capo della Polizia di Stato.
-Agli stessi e' attribuita, previo superamento di apposito corso da stabilirsi con decreto ministeriale in analogia a quanto prescritto per l'assistente capo della Polizia di Stato, la qualifica di ufficiale di polizia giudiziaria con diritto all'aumento stipendiale di cui al [comma 3 dell'articolo 13 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;335#art_13-com3), come sostituito dal comma 3 del presente articolo.
+Agli stessi e' attribuita, previo superamento di apposito corso da stabilirsi con decreto ministeriale in analogia a quanto prescritto per l'assistente capo della Polizia di Stato, la qualifica di ufficiale di polizia giudiziaria con diritto all'aumento stipendiale di cui al [comma 3 dell'articolo 13 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), come sostituito dal comma 3 del presente articolo.
 
 17.
 
@@ -230,7 +230,7 @@ Il personale di cui al comma 17 promosso al grado o alla qualifica superiore nel
 
 19.
 
-Le misure dell'indennita' di imbarco e di navigazione indicate nell'[articolo 1 della legge 27 luglio 1967, n. 631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-27;631#art_1), e spettanti, ai sensi dell'[articolo 8 della legge 27 maggio 1977, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-05-27;284#art_8), anche all'Arma dei carabinieri, alla Polizia di Stato e al Corpo degli agenti di custodia, sono rivalutate di quindici volte.
+Le misure dell'indennita' di imbarco e di navigazione indicate nell'[articolo 1 della legge 27 luglio 1967, n. 631](Istituzione%20delle%20indennita%20di%20imbarco%20e%20di%20navigazione%20per%20il%20personale%20della%20Guardia%20di%20finanza.md), e spettanti, ai sensi dell'[articolo 8 della legge 27 maggio 1977, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-05-27;284#art_8), anche all'Arma dei carabinieri, alla Polizia di Stato e al Corpo degli agenti di custodia, sono rivalutate di quindici volte.
 
 20.
 
@@ -238,7 +238,7 @@ L'indennita' di imbarco di cui al comma 19, rivalutata nella misura ivi stabilit
 
 21.
 
-L'[articolo 2 della legge 27 luglio 1967, n. 631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-27;631#art_2), e' sostituito dal seguente:
+L'[articolo 2 della legge 27 luglio 1967, n. 631](Istituzione%20delle%20indennita%20di%20imbarco%20e%20di%20navigazione%20per%20il%20personale%20della%20Guardia%20di%20finanza.md), e' sostituito dal seguente:
  "Art. 2. - 1. Le indennita' di imbarco e navigazione spettano anche agli ufficiali imbarcati su unita' della Guardia di finanza adibite a servizi di crociera nelle seguenti misure giornaliere:
 
 Grado
@@ -247,7 +247,7 @@ Grado
 
 22.
 
-Le indennita' di imbarco e navigazione di cui all'[articolo 2 della legge 27 luglio 1967, n. 631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-27;631#art_2), come sostituito dal comma 21 del presente articolo, spettano nelle stesse misure al personale dei corrispondenti gradi o qualifiche della Polizia di Stato, dell'Arma dei carabinieri o del Corpo degli agenti di custodia nelle stesse condizioni di servizio.
+Le indennita' di imbarco e navigazione di cui all'[articolo 2 della legge 27 luglio 1967, n. 631](Istituzione%20delle%20indennita%20di%20imbarco%20e%20di%20navigazione%20per%20il%20personale%20della%20Guardia%20di%20finanza.md), come sostituito dal comma 21 del presente articolo, spettano nelle stesse misure al personale dei corrispondenti gradi o qualifiche della Polizia di Stato, dell'Arma dei carabinieri o del Corpo degli agenti di custodia nelle stesse condizioni di servizio.
 
 23.
 
@@ -315,7 +315,7 @@ Al personale della Polizia di Stato continuano ad applicarsi, ai fini dell'acqui
 
 7.
 
-Ai fini della corresponsione dei miglioramenti economici derivanti dall'applicazione del presente decreto e del [decreto del Presidente della Repubblica 10 aprile 1987, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-04-10;150), si applica l'[articolo 172 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_172).
+Ai fini della corresponsione dei miglioramenti economici derivanti dall'applicazione del presente decreto e del [decreto del Presidente della Repubblica 10 aprile 1987, n. 150](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2013%20febbraio%201987%20per%20il%20personale%20della%20Polizia%20di%20Stato.md), si applica l'[articolo 172 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_172).
 
 8.
 
@@ -364,7 +364,7 @@ Le disposizioni di cui ai [commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 2.
 
-Con decreto del Presidente della Repubblica, osservate le disposizioni di cui al [primo comma dell'articolo 111 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_111-com1), sono apportate le necessarie modifiche al regolamento di servizio dell'Amministrazione della pubblica sicurezza, approvato con [decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-10-28;782), al fine di adeguarne le disposizioni in equivalenza a quanto previsto, per il personale del Corpo della guardia di finanza, dagli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-01;831#art_7) e [8 della legge 1 dicembre 1986, n. 831](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-01;831#art_8).
+Con decreto del Presidente della Repubblica, osservate le disposizioni di cui al [primo comma dell'articolo 111 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_111-com1), sono apportate le necessarie modifiche al regolamento di servizio dell'Amministrazione della pubblica sicurezza, approvato con [decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../DPR/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md), al fine di adeguarne le disposizioni in equivalenza a quanto previsto, per il personale del Corpo della guardia di finanza, dagli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-01;831#art_7) e [8 della legge 1 dicembre 1986, n. 831](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-01;831#art_8).
 
 ## Art. 10.
 
@@ -374,7 +374,7 @@ All'onere di lire 751 miliardi derivante dall'applicazione del presente decreto 
 
 2.
 
-All'onere di lire 635,5 miliardi derivante dall'applicazione del presente decreto per ciascuno degli anni 1988 e 1989, al netto delle somme dovute a titolo di anzianita', si provvede, quanto a lire 332 miliardi ed a lire 38 miliardi, mediante utilizzo di quota parte delle proiezioni per i medesimi anni degli stanziamenti iscritti, rispettivamente, ai capitoli 6868 e 6869 dello stato di previsione del Ministero del tesoro per l'anno 1987; quanto a lire 265,5 miliardi, mediante utilizzo delle proiezioni per i medesimi anni dello stanziamento iscritto, ai fini del bilancio triennale 1987-89, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1987, all'uopo utilizzando, per ciascun anno, i seguenti accantonamenti: "Onere per i prepensionamenti nel settore dei pubblici trasporti e ferrovie dello Stato" per lire 105 miliardi; "Contributo al CNR per l'istituzione di borse di studio per giovani laureati nel Mezzogiorno" per, lire 25 miliardi; "Norme per lo scioglimento dell'Ente scuola materna per la Sardegna" per lire 20 miliardi; "Ristrutturazione dell'Amministrazione finanziaria" per lire 90,1 miliardi; "Nuove norme sull'ordinamento penitenziario militare e sulla esecuzione delle misure privative e limitative della liberta', derivanti dalla legge penale di pace" per lire 3,9 miliardi; "Modifiche allo stato giuridico ed avanzamento dei vice brigadieri, dei graduati e dei militari di truppa dei carabinieri" per lire 6 miliardi; "Misure di sostegno delle associazioni ed enti con finalita' di interesse collettivo" per lire 12 miliardi; "Rivalutazione dell'indennita' di imbarco e di navigazione di cui alla [legge 27 luglio 1967, n. 631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-27;631), spettante alle Forze di polizia" per lire 3,5 miliardi.
+All'onere di lire 635,5 miliardi derivante dall'applicazione del presente decreto per ciascuno degli anni 1988 e 1989, al netto delle somme dovute a titolo di anzianita', si provvede, quanto a lire 332 miliardi ed a lire 38 miliardi, mediante utilizzo di quota parte delle proiezioni per i medesimi anni degli stanziamenti iscritti, rispettivamente, ai capitoli 6868 e 6869 dello stato di previsione del Ministero del tesoro per l'anno 1987; quanto a lire 265,5 miliardi, mediante utilizzo delle proiezioni per i medesimi anni dello stanziamento iscritto, ai fini del bilancio triennale 1987-89, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1987, all'uopo utilizzando, per ciascun anno, i seguenti accantonamenti: "Onere per i prepensionamenti nel settore dei pubblici trasporti e ferrovie dello Stato" per lire 105 miliardi; "Contributo al CNR per l'istituzione di borse di studio per giovani laureati nel Mezzogiorno" per, lire 25 miliardi; "Norme per lo scioglimento dell'Ente scuola materna per la Sardegna" per lire 20 miliardi; "Ristrutturazione dell'Amministrazione finanziaria" per lire 90,1 miliardi; "Nuove norme sull'ordinamento penitenziario militare e sulla esecuzione delle misure privative e limitative della liberta', derivanti dalla legge penale di pace" per lire 3,9 miliardi; "Modifiche allo stato giuridico ed avanzamento dei vice brigadieri, dei graduati e dei militari di truppa dei carabinieri" per lire 6 miliardi; "Misure di sostegno delle associazioni ed enti con finalita' di interesse collettivo" per lire 12 miliardi; "Rivalutazione dell'indennita' di imbarco e di navigazione di cui alla [legge 27 luglio 1967, n. 631](Istituzione%20delle%20indennita%20di%20imbarco%20e%20di%20navigazione%20per%20il%20personale%20della%20Guardia%20di%20finanza.md), spettante alle Forze di polizia" per lire 3,5 miliardi.
 
 3.
 

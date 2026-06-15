@@ -351,7 +351,7 @@ Le spese occorrenti per il funzionamento del Comitato tecnico, previsto dall'art
 
 ## Art. 52.
 
-Per tutto quanto non sia disposto dal [decreto legislativo Luogotenenziale 27 luglio 1944, n. 159](Sanzioni%20contro%20il%20fascismo.%20044U0159.md), e dal presente decreto valgono, in quanto applicabili, le norme contenute nel [R. decreto-legge 7 agosto 1936, n. 1639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-08-07;1639), convertito nella [legge 7 giugno 1937, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-07;1016), e nel [Regio decreto 8 luglio 1937, n. 1516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-08;1516), e successive modificazioni.
+Per tutto quanto non sia disposto dal [decreto legislativo Luogotenenziale 27 luglio 1944, n. 159](Sanzioni%20contro%20il%20fascismo.%20044U0159.md), e dal presente decreto valgono, in quanto applicabili, le norme contenute nel [R. decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), convertito nella [legge 7 giugno 1937, n. 1016](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20agosto%201936-XIV%20n.%201639%20concernente%20riforma%20degli%20ordinamenti%20tributari.%20037U1016.md), e nel [Regio decreto 8 luglio 1937, n. 1516](Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md), e successive modificazioni.
 
 ## Art. 53.
 

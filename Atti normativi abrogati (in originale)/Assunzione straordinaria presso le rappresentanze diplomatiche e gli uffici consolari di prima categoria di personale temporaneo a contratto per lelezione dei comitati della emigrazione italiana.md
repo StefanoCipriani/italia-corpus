@@ -26,7 +26,7 @@ Gli impiegati assunti con i predetti contratti non potranno essere assunti una s
 
 3.
 
-L'assunzione, da espletarsi con le modalita' previste dal [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), e successive modificazioni, e' consentita in deroga ai limiti di contingente e ai divieti di assunzione in vigore ed i relativi contratti prevederanno espressamente lo svolgimento di operazioni connesse alle elezioni dei comitati dell'emigrazione italiana.
+L'assunzione, da espletarsi con le modalita' previste dal [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modificazioni, e' consentita in deroga ai limiti di contingente e ai divieti di assunzione in vigore ed i relativi contratti prevederanno espressamente lo svolgimento di operazioni connesse alle elezioni dei comitati dell'emigrazione italiana.
 
 4.
 

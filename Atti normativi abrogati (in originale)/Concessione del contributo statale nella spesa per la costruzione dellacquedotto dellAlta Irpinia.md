@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 19 ottobre 1919, n. 2060](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-19;2060), istitutivo dell'Ente autonomo per l'acquedotto pugliese, convertito, con modificazioni, nella [legge 23 settembre 1920, n. 1365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-09-23;1365);
+Visto il [regio decreto-legge 19 ottobre 1919, n. 2060](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-19;2060), istitutivo dell'Ente autonomo per l'acquedotto pugliese, convertito, con modificazioni, nella [legge 23 settembre 1920, n. 1365](Che%20converte%20in%20legge%20il%20R.%20decreto%2018%20ottobre%201919%20n.%202060%20relativo%20alla%20istituzione%20dellEnte%20autonomo%20dellAcquedotto%20pugliese.%20020U1365.md);
 
-Visto il [regio decreto 16 gennaio 1921, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-01-16;195), che approva il regolamento generale per il funzionamento dell'Ente autonomo per l'acquedotto pugliese;
+Visto il [regio decreto 16 gennaio 1921, n. 195](Che%20approva%20il%20regolamento%20generale%20pel%20funzionamento%20dellEnte%20autonomo%20per%20lAcquedotto%20Pugliese.%20021U0195.md), che approva il regolamento generale per il funzionamento dell'Ente autonomo per l'acquedotto pugliese;
 
-Visto il [regio decreto-legge 2 agosto 1938, n. 1464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-08-02;1464), convertito nella [legge 16 gennaio 1939, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-16;74), con il quale vennero affidati all'Ente autonomo per l'acquedotto pugliese la costruzione e la gestione delle fognature nei Comuni serviti dall'acquedotto stesso;
+Visto il [regio decreto-legge 2 agosto 1938, n. 1464](Affidamento%20allEnte%20autonomo%20per%20lAcquedotto%20Pugliese%20della%20costruzione%20e%20gestione%20delle%20fognature%20nei%20Comuni%20serviti%20dallAcquedotto%20stesso.%20038U1464.md), convertito nella [legge 16 gennaio 1939, n. 74](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%202%20agosto%201938-XVI%20n.%201464%20col%20quale%20si%20affida%20allEnte%20autonomo%20per%20lAcquedotto%20Pugliese%20la%20costruzione%20e%20gestione%20delle%20fognature%20nei%20Comuni%20serv_a37b982321c3.md), con il quale vennero affidati all'Ente autonomo per l'acquedotto pugliese la costruzione e la gestione delle fognature nei Comuni serviti dall'acquedotto stesso;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -33,7 +33,7 @@ Tutte le disposizioni di legge e di regolamento riguardanti l'Ente autonomo per 
 
 Nella spesa per la costruzione dell'acquedotto per detti Comuni lo Stato concorre con un contributo straordinario in capitale in ragione del 70% della spesa stessa preventivata in lire ottocento milioni.
 Alla restante spesa provvedono i Comuni interessati con i fondi dei rispettivi bilanci, e con le modalita' da stabilirsi mediante apposita convenzione da stipularsi fra i Comuni stessi e l'Ente autonomo per l'acquedotto pugliese e da approvarsi con decreto del Ministro per i lavori pubblici di concerto con i Ministri per l'interno e per il tesoro.
- La Cassa depositi e prestiti e' autorizzata a concedere ai Comuni predetti i mutui eventualmente loro occorrenti, a termini della [legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586) e successive modificazioni.
+ La Cassa depositi e prestiti e' autorizzata a concedere ai Comuni predetti i mutui eventualmente loro occorrenti, a termini della [legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md) e successive modificazioni.
 
 ## Art. 3.
 

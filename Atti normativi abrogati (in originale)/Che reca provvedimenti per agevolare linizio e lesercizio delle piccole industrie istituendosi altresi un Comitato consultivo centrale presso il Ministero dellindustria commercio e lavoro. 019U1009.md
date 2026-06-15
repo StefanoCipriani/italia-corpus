@@ -158,7 +158,7 @@ Per le spese relative all'applicazione del presente decreto sara' provveduto, pe
 
 ## Art. 11.
 
-Le disposizioni ed i benefici sanciti dalla [legge 7 luglio 1907, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;526) saranno applicabili alle Cooperative che si costituiranno fra gli esercenti di piccole industrie nell'intento di conseguire uno o piu' dei seguenti scopi: 
+Le disposizioni ed i benefici sanciti dalla [legge 7 luglio 1907, n. 526](Disposizioni%20a%20favore%20delle%20piccole%20Societa%20cooperative%20agricole%20e%20delle%20piccole%20Associazioni%20agricole%20di%20mutua%20assicurazione.%20007U0526.md) saranno applicabili alle Cooperative che si costituiranno fra gli esercenti di piccole industrie nell'intento di conseguire uno o piu' dei seguenti scopi: 
  
  a) fornire ai soci materie prime o strumenti di lavoro; 
  

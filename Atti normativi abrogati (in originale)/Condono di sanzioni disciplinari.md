@@ -27,7 +27,7 @@ Se quegli effetti si sono verificati prima del conseguimento di una promozione, 
 
 ## Art. 3.
 
-All'onere derivante dall'applicazione della presente legge, di lire 170 milioni, si provvede con corrispondente aliquota del gettito derivante dall'applicazione del [decreto-legge 14 dicembre 1965, n. 1344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-12-14;1344), convertito nella [legge 9 febbraio 1966, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-02-09;21), concernente l'importazione delle banane fresche.
+All'onere derivante dall'applicazione della presente legge, di lire 170 milioni, si provvede con corrispondente aliquota del gettito derivante dall'applicazione del [decreto-legge 14 dicembre 1965, n. 1344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-12-14;1344), convertito nella [legge 9 febbraio 1966, n. 21](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2014%20dicembre%201965%20n.%201334%20concernente%20la%20importazione%20delle%20banane%20fresche.md), concernente l'importazione delle banane fresche.
  Il Ministro per il tesoro e' autorizzato ad apportare, con proprio decreto, le variazioni di bilancio conseguenti al presente provvedimento.
 
 ## Art. 4.

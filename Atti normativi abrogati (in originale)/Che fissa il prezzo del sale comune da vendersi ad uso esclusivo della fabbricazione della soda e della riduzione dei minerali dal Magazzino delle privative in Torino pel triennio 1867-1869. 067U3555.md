@@ -15,7 +15,7 @@ IL MINISTRO DELLE FINANZE
  Visto il Decreto Reale 28 giugno 1866, n° 3018, e l'annessavi Tariffa dei sali; 
  
  Visto l'art. 123 del Regolamento sulle privative approvato con [R.
-Decreto 15 giugno 1865, n° 2398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-06-15;2398); 
+Decreto 15 giugno 1865, n° 2398](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20Legge%20sulla%20privativa%20dei%20sali%20e%20tabacchi.%20065U2398.md); 
  
  Visto l'art. 2 del Decreto Ministeriale 28 settembre ultimo, n° 3287; 
  

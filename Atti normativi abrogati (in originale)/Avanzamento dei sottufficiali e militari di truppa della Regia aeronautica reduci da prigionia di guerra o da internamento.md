@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 3 febbraio 1938, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744), con norme sul reclutamento ed avanzamento dei sottufficiali e militari di truppa della Regia aeronautica, convertito nella [legge 16 febbraio 1939, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-02-16;468);
+Visto il [R. decreto-legge 3 febbraio 1938, n. 744](Norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20stato%20dei%20sottufficiali%20della%20Regia%20aeronautica.%20038U0744.md), con norme sul reclutamento ed avanzamento dei sottufficiali e militari di truppa della Regia aeronautica, convertito nella [legge 16 febbraio 1939, n. 468](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%203%20febbraio%201938-XVI%20n.%20744%20che%20detta%20norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20_aadad4eb4f5e.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

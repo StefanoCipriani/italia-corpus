@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 giugno 1933, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-05;730), recante agevolazioni per la formazione della piccola proprieta' e di organiche unita' rurali nelle Venezie. 
+ E' convertito in legge il [R. decreto-legge 5 giugno 1933, n. 730](Agevolazioni%20per%20la%20formazione%20della%20piccola%20proprieta%20e%20di%20organiche%20proprieta%20rurali%20nelle%20Venezie.%20033U0730.md), recante agevolazioni per la formazione della piccola proprieta' e di organiche unita' rurali nelle Venezie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

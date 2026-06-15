@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 gennaio 1931, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-08;75), che approva e rende esecutorio l'atto aggiuntivo 30 dicembre 1930 alla convenzione 4 gennaio 1912, per la riassunzione dell'esercizio della ferrovia Siracusa-Ragusa-Vizzini, da parte della concessionaria Societa' anonima per le ferrovie secondarie della Sicilia. 
+ E' convertito in legge il [R. decreto-legge 8 gennaio 1931, n. 75](Approvazione%20della%20convenzione%20addizionale%2030%20dicembre%201930%20per%20la%20riassunzione%20dellesercizio%20della%20ferrovia%20Siracusa-Ragusa-Vizzini%20da%20parte%20della%20concessionaria%20Societa%20anonima%20per%20le%20f_14c6c6972742.md), che approva e rende esecutorio l'atto aggiuntivo 30 dicembre 1930 alla convenzione 4 gennaio 1912, per la riassunzione dell'esercizio della ferrovia Siracusa-Ragusa-Vizzini, da parte della concessionaria Societa' anonima per le ferrovie secondarie della Sicilia. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 17 aprile 1931 - Anno IX 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 luglio 1926, n. 1254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-15;1254), recante provvedimenti per la tutela della sicurezza pubblica nelle Provincie siciliane. 
+ E' convertito in legge il [R. decreto-legge 15 luglio 1926, n. 1254](Provvedimenti%20per%20la%20tutela%20della%20sicurezza%20pubblica%20nelle%20Provincie%20siciliane.%20026U1254.md), recante provvedimenti per la tutela della sicurezza pubblica nelle Provincie siciliane. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

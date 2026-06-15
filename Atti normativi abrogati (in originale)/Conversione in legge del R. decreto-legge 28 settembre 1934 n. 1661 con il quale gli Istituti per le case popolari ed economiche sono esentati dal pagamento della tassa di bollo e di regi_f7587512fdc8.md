@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1661](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1661), con il quale gli Istituti per case popolari ed economiche sono esentati dal pagamento della tassa di bollo e di registro per gli atti giudiziari che essi compiono nei procedimenti contro inquilini morosi nel pagamento delle rate di fitto. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1661](Agevolazioni%20tributarie%20agli%20Istituti%20per%20le%20case%20popolari%20ed%20economiche.%20034U1661.md), con il quale gli Istituti per case popolari ed economiche sono esentati dal pagamento della tassa di bollo e di registro per gli atti giudiziari che essi compiono nei procedimenti contro inquilini morosi nel pagamento delle rate di fitto. 
  
  Ordiniamo che la presente, munita dei sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

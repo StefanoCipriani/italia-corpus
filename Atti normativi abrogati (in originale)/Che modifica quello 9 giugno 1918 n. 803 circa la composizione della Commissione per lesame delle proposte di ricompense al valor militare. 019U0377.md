@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), che conferisce poteri straordinari al Governo del Re in caso di guerra; 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), che conferisce poteri straordinari al Governo del Re in caso di guerra; 
  
  Visto il Nostro decreto 12 settembre 1915, n. 1374, che istituisce una Commissione speciale per l'esame delle proposte di ricompense al valor militare per l'attuale campagna di guerra; 
  

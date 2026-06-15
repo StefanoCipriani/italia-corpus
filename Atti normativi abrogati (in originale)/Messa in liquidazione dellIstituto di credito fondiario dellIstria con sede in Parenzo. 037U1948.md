@@ -16,15 +16,15 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-16;646);
+Visto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
-Visto il [R. decreto 15 ottobre 1925, n. 1983](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1983), col quale vennero estese ai territori annessi al Regno le disposizioni in materia di credito fondiario;
+Visto il [R. decreto 15 ottobre 1925, n. 1983](Estensione%20ai%20territori%20delle%20nuove%20Provincie%20della%20legislazione%20nazionale%20sul%20credito%20fondiario.%20025U1983.md), col quale vennero estese ai territori annessi al Regno le disposizioni in materia di credito fondiario;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Visto lo statuto dell'Istituto di credito fondiario dell'Istria, con sede in Parenzo;
 
-Ritenuto che l'Istituto predetto non ha finora ottenuto la prescritta autorizzazione a continuare l'esercizio del credito fondiario ai sensi dell'art. 3 dell'anzidetto [R. decreto 15 ottobre 1925, n. 1983](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1983), e che, non ravvisandosi l'opportunita' di conferirgliela, si manifesta la necessita' urgente ed assoluta di disporne la legale liquidazione;
+Ritenuto che l'Istituto predetto non ha finora ottenuto la prescritta autorizzazione a continuare l'esercizio del credito fondiario ai sensi dell'art. 3 dell'anzidetto [R. decreto 15 ottobre 1925, n. 1983](Estensione%20ai%20territori%20delle%20nuove%20Provincie%20della%20legislazione%20nazionale%20sul%20credito%20fondiario.%20025U1983.md), e che, non ravvisandosi l'opportunita' di conferirgliela, si manifesta la necessita' urgente ed assoluta di disporne la legale liquidazione;
 
 Vista la deliberazione del Comitato dei Ministri, di cui al R. decreto-legge 17 luglio 1937-XV, n. 1400;
 

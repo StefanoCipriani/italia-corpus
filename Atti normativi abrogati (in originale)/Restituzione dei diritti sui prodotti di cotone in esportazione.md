@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -22,11 +22,11 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri, 
 
 ## Art. 1.
 
-E' abrogato l'articolo unico del [regio decreto 3 ottobre 1941, n. 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-03;1203), che sospese la restituzione dei diritti percepiti sul cotone contenuto nei manufatti che si esportano.
+E' abrogato l'articolo unico del [regio decreto 3 ottobre 1941, n. 1203](Sospensione%20della%20restituzione%20di%20diritti%20sul%20cotone%20contenuto%20nei%20manufatti%20che%20si%20esportano.%20041U1203.md), che sospese la restituzione dei diritti percepiti sul cotone contenuto nei manufatti che si esportano.
 
 ## Art. 2.
 
-L'agevolezza, prevista dall'[art. 21 del regio decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-01-09;2#art_21), convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-19;762), relativo alla restituzione della imposta generale sull'entrata pagata sulla importazione del cotone greggio occorso per la fabbricazione dei prodotti esportati, e' ripristinata ed estesa al diritto di licenza, istituito con il [regio decreto-legge 13 maggio 1935, n. 894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-13;894), convertito nella [legge 17 febbraio 1936, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-02-17;334), e successive modificazioni.
+L'agevolezza, prevista dall'[art. 21 del regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), relativo alla restituzione della imposta generale sull'entrata pagata sulla importazione del cotone greggio occorso per la fabbricazione dei prodotti esportati, e' ripristinata ed estesa al diritto di licenza, istituito con il [regio decreto-legge 13 maggio 1935, n. 894](Istituzione%20di%20uno%20speciale%20diritto%20di%20licenza%20sulle%20merci%20la%20cui%20importazione%20nel%20Regno%20e%20subordinata%20a%20restrizioni.%20035U0894.md), convertito nella [legge 17 febbraio 1936, n. 334](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201935-XIII%20n.%20894%20con%20il%20quale%20e%20stato%20istituito%20uno%20speciale%20diritto%20di%20licenza%20sulle%20merci%20la%20cui%20importazione%20nel%20Regno%20e%20subordinata_12632a3548c3.md), e successive modificazioni.
 
 ## Art. 3.
 

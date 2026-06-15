@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto 10 settembre 1895, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-10;574), col quale furono approvate le disposizioni sulle tare per le merci che s'importano dall'estero, rimanendone convalidata la sua applicazione anche per tutto il tempo anteriore al giorno dell'applicazione della presente legge.
+E' convertito in legge il [R. decreto 10 settembre 1895, n. 574](Che%20approva%20le%20disposizioni%20sulle%20tare%20legali.%20095U0574.md), col quale furono approvate le disposizioni sulle tare per le merci che s'importano dall'estero, rimanendone convalidata la sua applicazione anche per tutto il tempo anteriore al giorno dell'applicazione della presente legge.
 
 ## Art. 2.
 

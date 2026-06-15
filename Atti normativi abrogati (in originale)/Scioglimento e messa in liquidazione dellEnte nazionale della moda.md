@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visti il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151) e il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visti il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151) e il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Vista la [legge 22 dicembre 1932, n. 1618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-12-22;1618), che istituisce l'Ente autonomo per la mostra permanente nazionale della moda;
+Vista la [legge 22 dicembre 1932, n. 1618](Costituzione%20dellEnte%20autonomo%20per%20la%20Mostra%20permanente%20nazionale%20della%20moda%20in%20Torino.%20032U1618.md), che istituisce l'Ente autonomo per la mostra permanente nazionale della moda;
 
-Visto il [regio decreto-legge 31 ottobre 1935, n. 2084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-31;2084), convertito nella [legge 11 maggio 1936, n. 1424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-05-11;1424), che modifica la costituzione dell'Ente autonomo per la mostra permanente nazionale della moda, estendendone gli scopi e cambiandone la denominazione in quella di "Ente nazionale della moda";
+Visto il [regio decreto-legge 31 ottobre 1935, n. 2084](Modificazione%20della%20costituzione%20dellEnte%20autonomo%20per%20la%20Mostra%20permanente%20nazionale%20della%20moda.%20035U2084.md), convertito nella [legge 11 maggio 1936, n. 1424](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20R.%20decreto-legge%2010%20ottobre%201935-XIII%20n.%202063%20concernente%20modificazione%20della%20legge%208%20dicembre%201932%20n.%201734%20relativa%20alla%20istituzione%20del%20Comitato%20permanente%20per%20_566143fa2d2f.md), che modifica la costituzione dell'Ente autonomo per la mostra permanente nazionale della moda, estendendone gli scopi e cambiandone la denominazione in quella di "Ente nazionale della moda";
 
 Visto lo statuto dell'Ente nazionale della moda approvato con decreto Ministeriale 14 gennaio 1936;
 

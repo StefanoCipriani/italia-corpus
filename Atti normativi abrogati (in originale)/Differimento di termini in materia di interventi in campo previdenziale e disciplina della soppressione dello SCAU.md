@@ -25,7 +25,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Per effetto della soppressione del Servizio per i contributi agricoli unificati (SCAU) disposta dall'[articolo 19 della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_19), con decorrenza 1 luglio 1995 la riscossione dei premi e dei contributi di previdenza ed assistenza sociale, dovuti per i lavoratori subordinati ed autonomi del settore agricolo, rimane unificata ed e' attribuita all'Istituto nazionale della previdenza sociale (INPS) che ne dispone la ripartizione tra l'Istituto nazionale di assistenza contro gli infortuni sul lavoro e le malattie professionali (INAIL) e le gestioni di pertinenza.
+Per effetto della soppressione del Servizio per i contributi agricoli unificati (SCAU) disposta dall'[articolo 19 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), con decorrenza 1 luglio 1995 la riscossione dei premi e dei contributi di previdenza ed assistenza sociale, dovuti per i lavoratori subordinati ed autonomi del settore agricolo, rimane unificata ed e' attribuita all'Istituto nazionale della previdenza sociale (INPS) che ne dispone la ripartizione tra l'Istituto nazionale di assistenza contro gli infortuni sul lavoro e le malattie professionali (INAIL) e le gestioni di pertinenza.
 
 2.
 
@@ -37,7 +37,7 @@ La Commissione di cui al comma 2 nella prima seduta sceglie tra i propri membri 
 
 4.
 
-La Commissione decide, in unico grado, i ricorsi previsti dagli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-08-11;375#art_10) e [15 del decreto legislativo 11 agosto 1993, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-08-11;375#art_15), e, in seconda istanza, i ricorsi di cui al comma 2 dell'articolo 11 del predetto decreto; formula pareri in ordine alla determinazione annuale dei salari medi provinciali degli operai agricoli a tempo determinato e indeterminato ed in ordine ai valori medi di impiego di manodopera per singola coltura e per ciascun capo di bestiame; esercita attivita' consultiva nei confronti del consiglio di vigilanza e del consiglio di amministrazione dell'Istituto in materia di previdenza agricola.
+La Commissione decide, in unico grado, i ricorsi previsti dagli [articoli 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20comma%201%20lettera%20aa%20della%20legge%2023%20ottobre%201992%20n.%20421%20concernente%20razionalizzazione%20dei%20sistemi%20di%20accertamento%20dei%20lavoratori%20dellagricoltura%20e%20dei%20relativi%20contributi.md) e [15 del decreto legislativo 11 agosto 1993, n. 375](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20comma%201%20lettera%20aa%20della%20legge%2023%20ottobre%201992%20n.%20421%20concernente%20razionalizzazione%20dei%20sistemi%20di%20accertamento%20dei%20lavoratori%20dellagricoltura%20e%20dei%20relativi%20contributi.md), e, in seconda istanza, i ricorsi di cui al comma 2 dell'articolo 11 del predetto decreto; formula pareri in ordine alla determinazione annuale dei salari medi provinciali degli operai agricoli a tempo determinato e indeterminato ed in ordine ai valori medi di impiego di manodopera per singola coltura e per ciascun capo di bestiame; esercita attivita' consultiva nei confronti del consiglio di vigilanza e del consiglio di amministrazione dell'Istituto in materia di previdenza agricola.
 
 ## Art. 2. — Trasferimento del personale dello SCAU
  all'INPS e all'INAIL
@@ -48,14 +48,14 @@ Ai fini del trasferimento all'INPS e all'INAIL del personale gia' dipendente del
 
 2.
 
-I trattamenti integrativi, comprensivi dell'indennita' integrativa speciale, erogati dal Fondo integrativo di previdenza dello SCAU, relativi al personale cessato dal servizio fino al 30 settembre 1995, sono posti a carico della gestione speciale ad esaurimento costituita presso l'INPS ai sensi dell'[articolo 75 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761#art_75), alla quale vengono trasferiti i corrispettivi capitali di copertura, costituiti dalle riserve matematiche relative alle posizioni dei singoli pensionati. Per il caso di insufficienza dei capitali di copertura i maggiori oneri per l'erogazione delle prestazioni previdenziali faranno carico al bilancio dell'INPS e dell'INAIL, in proporzione ai contingenti di personale trasferiti ai due istituti.
+I trattamenti integrativi, comprensivi dell'indennita' integrativa speciale, erogati dal Fondo integrativo di previdenza dello SCAU, relativi al personale cessato dal servizio fino al 30 settembre 1995, sono posti a carico della gestione speciale ad esaurimento costituita presso l'INPS ai sensi dell'[articolo 75 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), alla quale vengono trasferiti i corrispettivi capitali di copertura, costituiti dalle riserve matematiche relative alle posizioni dei singoli pensionati. Per il caso di insufficienza dei capitali di copertura i maggiori oneri per l'erogazione delle prestazioni previdenziali faranno carico al bilancio dell'INPS e dell'INAIL, in proporzione ai contingenti di personale trasferiti ai due istituti.
 
 ## Art. 3. — Disposizioni in materia di pensionamenti di anzianita'
  nel regime generale e nei regimi sostitutivi ed esclusivi
 
 1.
 
-Al [comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_13-com1) ed al [comma 2 dell'articolo 13 della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_13-com2), le parole: "30 giugno 1995" sono sostituite dalle seguenti: "31 agosto 1995".
+Al [comma 1](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md) ed al [comma 2 dell'articolo 13 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), le parole: "30 giugno 1995" sono sostituite dalle seguenti: "31 agosto 1995".
 
 ## Art. 4. — Modifiche al decreto-legge 14 giugno 1995, n. 232
 

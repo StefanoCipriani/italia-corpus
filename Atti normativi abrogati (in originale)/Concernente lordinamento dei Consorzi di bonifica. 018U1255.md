@@ -365,7 +365,7 @@ Possono essere riconosciuti dal Ministero come Consorzi di bonifica di seconda c
 
 Ai Consorzi cosi' costituiti o riconosciuti si applicano le disposizioni dei capi I, III e V del presente decreto. 
  
- Ai Consorzi stessi spetteranno i concorsi di cui all'[art. 25 del testo unico 22 marzo 1900, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1900-03-22;195#art_25), e all'[art. 31 della legge 13 luglio 1911, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;774#art_31), quando assumano la esecuzione di opere che, a giudizio del Ministero dei lavori pubblici, sentita la Commissione centrale per le bonifiche ed il Consiglio di Stato, interessino la pubblica igiene o provvedano ad un ragguardevole miglioramento agrario. 
+ Ai Consorzi stessi spetteranno i concorsi di cui all'[art. 25 del testo unico 22 marzo 1900, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1900-03-22;195#art_25), e all'[art. 31 della legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md), quando assumano la esecuzione di opere che, a giudizio del Ministero dei lavori pubblici, sentita la Commissione centrale per le bonifiche ed il Consiglio di Stato, interessino la pubblica igiene o provvedano ad un ragguardevole miglioramento agrario. 
  
  Le quote di concorso dello Stato, della Provincia e del Comune interessati saranno determinate in misura fissa ed invariabile in base al progetto approvato. 
  
@@ -397,7 +397,7 @@ Tutti gli atti che si compiono nell'interesse diretto dei Consorzi di bonificame
 
 ### Art. 40.
 
-Ai Consorzi contemplati dal presente decreto sono applicabili le disposizioni degli articoli 40, 41, primo comma, 42, 43, 44, 45, 47, 48, 49 e 71 del [testo unico 22 marzo 1900, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1900-03-22;195), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1900-03-22;6) della [legge 20 giugno 1912, n. 712](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-20;712), e 204 del [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148).
+Ai Consorzi contemplati dal presente decreto sono applicabili le disposizioni degli articoli 40, 41, primo comma, 42, 43, 44, 45, 47, 48, 49 e 71 del [testo unico 22 marzo 1900, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1900-03-22;195), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1900-03-22;6) della [legge 20 giugno 1912, n. 712](Che%20approva%20provvedimenti%20per%20agevolare%20lesecuzione%20di%20opere%20di%20bonifica%20di%20prima%20categoria.%20012U0712.md), e 204 del [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148).
 
 ### Art. 41.
 
@@ -411,7 +411,7 @@ I progetti di opere di manutenzione, da eseguirsi dai Consorzi di bonifica, dovr
 
 Per le occupazioni permanenti o temporanee di fondi, necessarie all'eseguimento dei lavori di manutenzione, possono i Consorzi stabilire nei loro statuti la facolta' per i propri organi esecutivi di fissare una tariffa di prezzi unitari da rivedersi ogni biennio. 
  
- La determinazione della indennita' in base a tale tariffa tien luogo della relazione peritale di cui all'[art. 48 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_48). 
+ La determinazione della indennita' in base a tale tariffa tien luogo della relazione peritale di cui all'[art. 48 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
  
  Le opposizioni contro la determinazione della indennita' saranno deferite al giudizio del Collegio arbitrale di cui all'[art. 8 del decreto Luogotenenziale 2 settembre 1917, n. 1597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-09-02;1597#art_8).
 
@@ -423,7 +423,7 @@ I beni laterali ai canali di scolo consorziali non muniti di argini sono soggett
  
  Qualora per lo scopo indicato occorressero altre zone in aggiunta a quelle anzidette, l'occupazione temporanea di esse potra' essere ordinata dai prefetti o sottoprefetti, previa la sola compilazione dello stato di consistenza dei terreni da occupare. 
  
- Alla determinazione e al pagamento delle indennita' di occupazione delle maggiori zone di cui al comma precedente si provvede con le norme dell'[art. 72 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_72), salvo, in caso di non accettazione delle indennita', il ricorso al Collegio arbitrale di cui all'articolo precedente.
+ Alla determinazione e al pagamento delle indennita' di occupazione delle maggiori zone di cui al comma precedente si provvede con le norme dell'[art. 72 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), salvo, in caso di non accettazione delle indennita', il ricorso al Collegio arbitrale di cui all'articolo precedente.
 
 ### Art. 45.
 
@@ -457,7 +457,7 @@ I Consorzi di bonifica potranno, tenendo distinte le rispettive gestioni, assume
 
 ### Art. 51.
 
-Sono abrogati gli articoli 6, secondo e terzo comma, 8, primo comma, 12, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 37, 38, 39, 52, 53, 54, 55 e 56 del testo unico di [legge 22 marzo 1900, n. 195, l'art. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-03-22;195#art_39) della [legge 13 luglio 1911, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;774), e ogni disposizione contraria al presente decreto. 
+Sono abrogati gli articoli 6, secondo e terzo comma, 8, primo comma, 12, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 37, 38, 39, 52, 53, 54, 55 e 56 del testo unico di [legge 22 marzo 1900, n. 195, l'art. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-03-22;195#art_39) della [legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md), e ogni disposizione contraria al presente decreto. 
  
  A partire dal 1° gennaio successivo alla data dell'appalto dei lavori per l'esecuzione di tutte o di parte delle opere di 1ª categoria per il completamento della bonifica delle Paludi pontine, il contributo dello Stato e quello della provincia di Roma nella spesa di manutenzione della bonifica stessa a termini dell'[art. 89, nn. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1900-03-22;195#art_89-num25) e [26, del testo unico 22 marzo 1900, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1900-03-22;195#art_89-num26), saranno consolidati in un importo annuo fisso ed invariabile, pari alla media dell'ammontare dei contributi annualmente corrisposti dai detti enti nel decennio anteriore al 1° gennaio suddetto. Al reparto fra i consorziati pontini del rispettivo contributo nella spesa di manutenzione continueranno ad applicarsi le norme del n. 27 del citato art. 89 fino all'approvazione del nuovo statuto del Consorzio a norma dell'articolo 45 del presente decreto.
 

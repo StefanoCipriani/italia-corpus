@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 giugno 1933, n. 937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-29;937), recante provvedimenti a favore degli Enti ecclesiastici della Romagna, per gli edifici danneggiati dai terremoti del 10 novembre 1918 e del 29 giugno 1919. 
+ E' convertito in legge il [R. decreto-legge 29 giugno 1933, n. 937](Disposizioni%20a%20favore%20degli%20Enti%20ecclesiastici%20della%20Romagna%20per%20gli%20edifici%20danneggiati%20dai%20terremoti%20del%2010%20novembre%201918%20e%20del%2029%20giugno%201919.%20033U0937.md), recante provvedimenti a favore degli Enti ecclesiastici della Romagna, per gli edifici danneggiati dai terremoti del 10 novembre 1918 e del 29 giugno 1919. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 luglio 1933, n. 1732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-07-29;1732), concernente la sistemazione dei rapporti di credito fra il Tesoro dello Stato e alcune Societa' della Venezia Giulia. 
+ E' convertito in legge il [R. decreto-legge 29 luglio 1933, n. 1732](Sistemazione%20dei%20rapporti%20di%20credito%20tra%20il%20Tesoro%20dello%20Stato%20ed%20alcune%20Societa%20della%20Venezia%20Giulia.%20033U1732.md), concernente la sistemazione dei rapporti di credito fra il Tesoro dello Stato e alcune Societa' della Venezia Giulia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

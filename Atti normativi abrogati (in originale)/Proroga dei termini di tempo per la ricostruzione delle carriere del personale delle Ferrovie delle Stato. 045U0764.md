@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-A modificazione dell'[art. 7 del decreto legislativo Luogotenenziale 8 marzo 1945, n. 134](Norme%20per%20la%20revisione%20delle%20carriere%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20045U0134.md), il termine previsto per la ricostruzione delle carriere dagli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;301#art_6) e [8 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;301#art_8), e' elevato a due anni.
+A modificazione dell'[art. 7 del decreto legislativo Luogotenenziale 8 marzo 1945, n. 134](Norme%20per%20la%20revisione%20delle%20carriere%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20045U0134.md), il termine previsto per la ricostruzione delle carriere dagli [articoli 6](../Decreti%20legislativi%20luogotenenziali/Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md) e [8 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 301](../Decreti%20legislativi%20luogotenenziali/Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), e' elevato a due anni.
 
 ## Art. 2.
 

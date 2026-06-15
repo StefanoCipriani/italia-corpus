@@ -24,7 +24,7 @@ Sulla proposta del ministro, segretario di Stato per le finanze, di concerto col
 
 ## Art. 1.
 
-Con decorrenza dal 1° luglio 1917, e fino a sei mesi dopo la conclusione della pace, verra' corrisposto ai ricevitori e reggenti del lotto, in aggiunta all'aggio graduale sulle riscossioni, stabilito dall'art. 53 del testo unico approvato con [R. decreto 19 marzo 1908, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-03-19;152), un supplemento d'aggio: 
+Con decorrenza dal 1° luglio 1917, e fino a sei mesi dopo la conclusione della pace, verra' corrisposto ai ricevitori e reggenti del lotto, in aggiunta all'aggio graduale sulle riscossioni, stabilito dall'art. 53 del testo unico approvato con [R. decreto 19 marzo 1908, n. 152](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md), un supplemento d'aggio: 
  
  del due per cento per le riscossioni fino a L. 10,000 e per quelle da L. 30.001 a L. 40.000; 
  
@@ -34,7 +34,7 @@ Con decorrenza dal 1° luglio 1917, e fino a sei mesi dopo la conclusione della 
 
 ## Art. 2.
 
-All'art. 11 del testo unico delle leggi e dei decreti legislativi sul lotto approvato con [R. decreto 19 marzo 1908, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-03-19;152) e' sostituito il seguente: 
+All'art. 11 del testo unico delle leggi e dei decreti legislativi sul lotto approvato con [R. decreto 19 marzo 1908, n. 152](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md) e' sostituito il seguente: 
  
  I giuochi si ricevono su bollettari con bollette da centesimi dodici, quindici, venti, trenta e cinquanta o da lire una, tre, cinque, dieci e venticinque. 
  
@@ -44,7 +44,7 @@ All'art. 11 del testo unico delle leggi e dei decreti legislativi sul lotto appr
 
 ## Art. 3.
 
-E' abrogata la disposizione dell'art. 14 lettera A), del testo unico delle leggi e dei decreti legislativi sul lotto approvato con [R. decreto 19 marzo 1908, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-03-19;152). 
+E' abrogata la disposizione dell'art. 14 lettera A), del testo unico delle leggi e dei decreti legislativi sul lotto approvato con [R. decreto 19 marzo 1908, n. 152](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md). 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

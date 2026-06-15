@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A decorrere dal 1° giugno 1916 il quadro organico degli ufficiali macchinisti previsto dalla tabella C annessa alla [legge 29 giugno 1913, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;797), e' temporaneamente aumentato di 110 posti di sottotenenti macchinisti, mentre la forza organica del Corpo R. equipaggi e' diminuita di altrettanti posti di primo macchinista.
+A decorrere dal 1° giugno 1916 il quadro organico degli ufficiali macchinisti previsto dalla tabella C annessa alla [legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), e' temporaneamente aumentato di 110 posti di sottotenenti macchinisti, mentre la forza organica del Corpo R. equipaggi e' diminuita di altrettanti posti di primo macchinista.
 
 ## Art. 2.
 
@@ -20,7 +20,7 @@ E' fatta facolta' al ministro della marina, di concerto col ministro del tesoro,
 
 ## Art. 3.
 
-Effettuate le nomine a sottotenente di tutti i sott'ufficiali macchinisti, che giusta le norme sancite dall'[art. 30 della legge 29 giugno 1913, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;797#art_30), potranno ottenere l'avanzamento ad ufficiale, e degli allievi dell'Accademia navale di cui al precedente articolo, i posti che successivamente si renderanno vacanti nel grado di sottotenente macchinista fino a raggiungere il numero di 110 saranno soppressi ripristinando altrettanti posti di capi meccanici di 1ª classe. 
+Effettuate le nomine a sottotenente di tutti i sott'ufficiali macchinisti, che giusta le norme sancite dall'[art. 30 della legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), potranno ottenere l'avanzamento ad ufficiale, e degli allievi dell'Accademia navale di cui al precedente articolo, i posti che successivamente si renderanno vacanti nel grado di sottotenente macchinista fino a raggiungere il numero di 110 saranno soppressi ripristinando altrettanti posti di capi meccanici di 1ª classe. 
  
  Alle modificazioni occorrenti nei rispettivi ruoli ed alle variazioni ai relativi capitoli sara' provveduto con le stesse modalita' prescritte dall'art. 2 del presente decreto. 
  

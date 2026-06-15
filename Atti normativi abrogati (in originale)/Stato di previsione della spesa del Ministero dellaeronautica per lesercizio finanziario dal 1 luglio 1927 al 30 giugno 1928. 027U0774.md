@@ -22,7 +22,7 @@ Per l'esercizio 1927-28 e' data facolta' al Ministero dell'aeronautica di imputa
 
 ## Art. 4.
 
-Gli organici del personale civile e militare della Regia aeronautica, per l'esercizio finanziario 1927-28, sono stabiliti in conformita' delle tabelle A, B e C allegate al [R. decreto-legge 13 agosto 1926, n. 1525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1525), con le seguenti varianti alla tabella A, concernente l'organico del personale civile della Regia aeronautica, ruolo dei ragionieri, e alla tabella C, concernente l'organico dell'Arma aeronautica, ruolo specializzati: 
+Gli organici del personale civile e militare della Regia aeronautica, per l'esercizio finanziario 1927-28, sono stabiliti in conformita' delle tabelle A, B e C allegate al [R. decreto-legge 13 agosto 1926, n. 1525](Organici%20del%20personale%20civile%20e%20militare%20della%20Regia%20aeronautica%20per%20lesercizio%20finanziario%201926-27.%20026U1525.md), con le seguenti varianti alla tabella A, concernente l'organico del personale civile della Regia aeronautica, ruolo dei ragionieri, e alla tabella C, concernente l'organico dell'Arma aeronautica, ruolo specializzati: 
  
  Tabella A - Ruolo dei ragionieri: 
  

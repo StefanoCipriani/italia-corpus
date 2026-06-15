@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Considerato che la prevista costruzione nel piano regolatore della nuova strada fra via Masaccio e via Mannelli presso che in prosecuzione di via G. B. Vico non piu' occorre nei riguardi urbanistici; 
  
- Visto l'art. 4 del succitato [R. decreto-legge 13 gennaio 1924, n. 170](Approvazione%20del%20nuovo%20piano%20regolatore%20di%20ampliamento%20della%20citta%20di%20Firenze%20e%20delle%20norme%20per%20la%20relativa%20esecuzione.%20024U0170.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473); 
+ Visto l'art. 4 del succitato [R. decreto-legge 13 gennaio 1924, n. 170](Approvazione%20del%20nuovo%20piano%20regolatore%20di%20ampliamento%20della%20citta%20di%20Firenze%20e%20delle%20norme%20per%20la%20relativa%20esecuzione.%20024U0170.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md); 
  
  Visto il parere del Consiglio superiore dei lavori pubblici; 
  
@@ -38,7 +38,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- E' approvata la variante al piano regolatore di Firenze, sancito col [R. decreto-legge 13 gennaio 1924, n. 170](Approvazione%20del%20nuovo%20piano%20regolatore%20di%20ampliamento%20della%20citta%20di%20Firenze%20e%20delle%20norme%20per%20la%20relativa%20esecuzione.%20024U0170.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), relativa all'esclusione da detto piano della strada prevista fra via Masaccio e via Mannelli. 
+ E' approvata la variante al piano regolatore di Firenze, sancito col [R. decreto-legge 13 gennaio 1924, n. 170](Approvazione%20del%20nuovo%20piano%20regolatore%20di%20ampliamento%20della%20citta%20di%20Firenze%20e%20delle%20norme%20per%20la%20relativa%20esecuzione.%20024U0170.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), relativa all'esclusione da detto piano della strada prevista fra via Masaccio e via Mannelli. 
  
  Il piano di variante sara' vistato, d'Ordine Nostro, dal Ministro proponente, in una planimetria in iscala 1:2500 approvata con deliberazione podestarile 30 settembre 1937-XV ed allegata al presente decreto quale parte integrante. 
  

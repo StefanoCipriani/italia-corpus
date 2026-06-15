@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 ottobre 1934, n. 1757](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-04;1757), concernente la concessione ai un sussidio straordinario di esercizio alla Societa' esercente la ferrovia Circumetnea. 
+ E' convertito in legge il [R. decreto-legge 4 ottobre 1934, n. 1757](Concessione%20di%20un%20sussidio%20straordinario%20di%20esercizio%20alla%20Societa%20esercente%20la%20ferrovia%20Circumetnea.%20034U1757.md), concernente la concessione ai un sussidio straordinario di esercizio alla Societa' esercente la ferrovia Circumetnea. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -52,7 +52,7 @@ Alla cinta daziaria, in vigore di fatto nel Comune, saranno apportate tutte le r
 
 Sono dichiarate di pubblica utilita' le opere necessarie all'attuazione della nuova cinta daziaria, di cui al precedente art. 3, giusta il piano che sara' approvato con decreto Reale. 
  
- I termini stabiliti dalla [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), per la procedura delle espropriazioni potranno essere abbreviati con ordinanze del prefetto da pubblicarsi a norma di legge, e le opere sopradette potranno eseguirsi anche nel periodo di occupazione temporanea.
+ I termini stabiliti dalla [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), per la procedura delle espropriazioni potranno essere abbreviati con ordinanze del prefetto da pubblicarsi a norma di legge, e le opere sopradette potranno eseguirsi anche nel periodo di occupazione temporanea.
 
 ## Art. 5.
 

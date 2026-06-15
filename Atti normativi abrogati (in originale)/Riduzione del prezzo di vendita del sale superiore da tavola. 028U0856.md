@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 15 giugno 1865, n. 2397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-15;2397);
 
-Visti i [Regi decreti 1° dicembre 1921, n. 1880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-12-01;1880), e [27 maggio 1922, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-05-27;804);
+Visti i [Regi decreti 1° dicembre 1921, n. 1880](Che%20stabilisce%20per%20i%20rivenditori%20e%20per%20il%20pubblico%20il%20prezzo%20di%20vendita%20per%20chilogramma%20del%20sale%20da%20tavola%20e%20di%20lusso.%20021U1880.md), e [27 maggio 1922, n. 804](Col%20quale%20a%20partire%20dal%201%20luglio%201922%20il%20prezzo%20di%20cessione%20ai%20rivenditori%20del%20sale%20da%20tavola%20di%20lusso%20e%20ridotto%20a%20L.%20720%20per%20chilogramma.%20022U0804.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

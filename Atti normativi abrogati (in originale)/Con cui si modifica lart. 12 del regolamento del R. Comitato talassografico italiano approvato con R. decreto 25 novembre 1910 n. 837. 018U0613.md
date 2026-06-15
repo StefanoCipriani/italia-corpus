@@ -22,10 +22,10 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 13 luglio 1910, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;442), che istituisce il R.
+ Vista la [legge 13 luglio 1910, n. 442](Istituzione%20del%20R.%20Comitato%20talassografico%20italiano.%20010U0442.md), che istituisce il R.
 Comitato talassografico italiano; 
  
- Visto il [R. decreto 25 novembre 1910, n. 837](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-11-25;837), che approva il regolamento del R. Comitato talassografico italiano; 
+ Visto il [R. decreto 25 novembre 1910, n. 837](Che%20approva%20lannesso%20regolamento%20del%20R.%20Comitato%20talassografico%20italiano.%20010U0837.md), che approva il regolamento del R. Comitato talassografico italiano; 
  
  Considerato che l'approvazione da parte del Parlamento del bilancio annuale del R. Comitato talassografico italiano non e' richiesta dalla legge istitutiva del detto Comitato, e che e' opportuno che il Comitato stesso conservi il carattere di ente morale autonomo; 
  
@@ -37,7 +37,7 @@ Comitato talassografico italiano;
  
  Abbiamo decretato e decretiamo: 
  
- Nel secondo capoverso dell'art. 12 del regolamento approvato con [R. decreto 25 novembre 1910, n. 837](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-11-25;837), sono soppresse le parole: «per l'approvazione del Parlamento». 
+ Nel secondo capoverso dell'art. 12 del regolamento approvato con [R. decreto 25 novembre 1910, n. 837](Che%20approva%20lannesso%20regolamento%20del%20R.%20Comitato%20talassografico%20italiano.%20010U0837.md), sono soppresse le parole: «per l'approvazione del Parlamento». 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

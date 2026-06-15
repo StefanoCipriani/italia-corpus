@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sono convertiti in legge il [R. decreto-legge 10 giugno 1931, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-10;723), concernente l'obbligatorieta' dell'impiego di una determinata percentuale di grano nazionale nella macinazione per la produzione di farine e di semolini per uso alimentare, e il [R. decreto-legge 24 settembre 1931, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-24;1265), recante disposizioni complementari al R. decreto-legge predetto. 
+ Sono convertiti in legge il [R. decreto-legge 10 giugno 1931, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-10;723), concernente l'obbligatorieta' dell'impiego di una determinata percentuale di grano nazionale nella macinazione per la produzione di farine e di semolini per uso alimentare, e il [R. decreto-legge 24 settembre 1931, n. 1265](Disposizioni%20complementari%20al%20R.%20decreto-legge%2010%20giugno%201931%20n.%20723%20concernente%20lobbligatorieta%20dellimpiego%20di%20una%20determinata%20percentuale%20di%20grano%20nazionale%20nella%20macinazione%20per%20la%20pro_2c8cde3391e5.md), recante disposizioni complementari al R. decreto-legge predetto. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

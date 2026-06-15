@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 agosto 1926 n. 1497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1497), contenente disposizioni sui finanziamenti a favore dell'Istituto nazionale per le case degli impiegati statali. 
+ E' convertito in legge il [R. decreto-legge 13 agosto 1926 n. 1497](Finanziamenti%20a%20favore%20dellIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20statali.%20026U1497.md), contenente disposizioni sui finanziamenti a favore dell'Istituto nazionale per le case degli impiegati statali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

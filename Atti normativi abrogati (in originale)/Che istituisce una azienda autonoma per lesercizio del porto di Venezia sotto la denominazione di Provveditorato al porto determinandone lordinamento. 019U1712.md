@@ -102,7 +102,7 @@ Entro il primo trimestre di ciascuno esercizio finanziario, il Consiglio d'ammin
 
 ## Art. 11.
 
-Al personale delle Amministrazioni governative destinato a prestare servizio presso il Provveditorato al porto potranno applicarsi le disposizioni di cui all'[art. 1 del R. decreto 20 aprile 1913, numero 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-04-20;511#art_1).
+Al personale delle Amministrazioni governative destinato a prestare servizio presso il Provveditorato al porto potranno applicarsi le disposizioni di cui all'[art. 1 del R. decreto 20 aprile 1913, numero 511](Che%20disciplina%20il%20collocamento%20fuori%20ruolo%20del%20personale%20del%20R.%20corpo%20del%20genio%20civile%20e%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici%20destinato%20nelle%20colonie.%20013U0511.md).
 
 ## Art. 12.
 

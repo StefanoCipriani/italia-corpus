@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 2 luglio 1908, n. 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-02;464);
+Vista la [legge 2 luglio 1908, n. 464](Concernente%20i%20provvedimenti%20relativi%20alle%20tombole%20e%20lotterie.%20008U0464.md);
 
 Sulla proposta del ministro, segretario di Stato per le finanze, di concerto con quello per l'interno;
 
@@ -28,7 +28,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Il Governo del Re e' autorizzato a concedere, in deroga alla [legge 23 maggio 1912, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-05-23;503), una lotteria nazionale per l'ammontare di tre milioni di lire L. 3.000.000 - con esenzione da ogni tassa e diritto erariale a favore della Federazione nazionale fra le Societa' e scuole di pubblica assistenza e di soccorso, con sede in Roma, da svolgersi entro l'esercizio finanziario 1918-919. 
+Il Governo del Re e' autorizzato a concedere, in deroga alla [legge 23 maggio 1912, n. 503](Che%20sospende%20per%20il%20periodo%20di%20dieci%20anni%20ogni%20autorizzazione%20alla%20concessione%20di%20tombole%20e%20di%20lotterie%20nazionali.%20012U0503.md), una lotteria nazionale per l'ammontare di tre milioni di lire L. 3.000.000 - con esenzione da ogni tassa e diritto erariale a favore della Federazione nazionale fra le Societa' e scuole di pubblica assistenza e di soccorso, con sede in Roma, da svolgersi entro l'esercizio finanziario 1918-919. 
  
  Con lo stesso decreto col quale verra' autorizzata la lotteria ne sara' approvato il piano di esecuzione e fissata la data di estrazione.
 

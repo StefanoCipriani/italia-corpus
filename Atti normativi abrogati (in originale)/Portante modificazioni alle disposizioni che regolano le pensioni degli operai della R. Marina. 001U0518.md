@@ -42,7 +42,7 @@ Le ferite e le infermita' contemplate dall'articolo 1, lettera b e c, saranno ac
 ## Art. 5.
 
 Le disposizioni riguardanti gli operai dipendenti dal Ministero della Guerra e contenute negli articoli 156, 164, 165, 167, 168, 169 del testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), sono estese agli operai permanenti della R.
-Marina, cioe' a quelli indicati dall'articolo 28 del Regolamento per il servizio delle direzioni dei lavori della R. Marina, approvato con [R. decreto 20 giugno 1895, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-06-20;431). Per gli effetti dell'ultimo capoverso dell'articolo 164, agli operai del Ministero della Guerra, compresi nella categoria A, sono parificati i capi operai della R.
+Marina, cioe' a quelli indicati dall'articolo 28 del Regolamento per il servizio delle direzioni dei lavori della R. Marina, approvato con [R. decreto 20 giugno 1895, n. 431](Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20direzioni%20dei%20lavori%20e%20per%20la%20contabilita%20del%20materiale%20nei%20regi%20arsenali%20e%20cantieri%20marittimi.%20095U0431.md). Per gli effetti dell'ultimo capoverso dell'articolo 164, agli operai del Ministero della Guerra, compresi nella categoria A, sono parificati i capi operai della R.
 Marina.
 
 ## Art. 6.

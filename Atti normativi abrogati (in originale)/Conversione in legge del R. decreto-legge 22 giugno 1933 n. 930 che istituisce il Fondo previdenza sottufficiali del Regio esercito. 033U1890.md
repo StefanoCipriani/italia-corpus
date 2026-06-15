@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 giugno 1933, n. 930](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-22;930), che istituisce il «Fondo previdenza sottufficiali del Regio esercito». 
+ E' convertito in legge il [R. decreto-legge 22 giugno 1933, n. 930](Istituzione%20del%20Fondo%20previdenza%20sottufficiali%20del%20Regio%20esercito.%20033U0930.md), che istituisce il «Fondo previdenza sottufficiali del Regio esercito». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

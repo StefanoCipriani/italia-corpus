@@ -12,7 +12,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE 
  
- Veduto il [Regio Decreto del 29 agosto 1866, n. 3183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-08-29;3183), col quale fu autorizzata la Banca nazionale nel Regno d'Italia ad emettere biglietti di banca da lire cinque; 
+ Veduto il [Regio Decreto del 29 agosto 1866, n. 3183](Che%20autorizza%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20ad%20emettere%20biglietti%20di%20banca%20da%20lire%20cinque%20ed%20a%20provvedere%20al%20ritiro%20delle%20marche%20da%20bollo.%20066U3183.md), col quale fu autorizzata la Banca nazionale nel Regno d'Italia ad emettere biglietti di banca da lire cinque; 
  
  Veduto il [Decreto Ministeriale del 2 settembre 1866, n. 3200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1866-09-02;3200), col quale fu fissato a dicci milioni il numero di detti biglietti, e l'altro [Decreto Ministeriale del 4 settembre 1868, n. 4543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1868-09-04;4543), che determino' la forma di essi; 
  

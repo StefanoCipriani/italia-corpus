@@ -14,11 +14,11 @@ Gl'inscritti di leva marittima e i militari del corpo R. equipaggi nati negli an
  
  Essi possono ottenere l'assegnazione alla 2ª o alla 3ª categoria per i titoli previsti dalle vigenti leggi sulla leva marittima, nonche' per quelli che esistevano al tempo della loro leva, o che siansi verificati successivamente, se pure non piu' sussistenti, purche' non faccia ostacolo, a senso delle disposizioni vigenti, la esenzione dal servizio di 1ª categoria concesso ad altro fratello. 
  
- Per i titoli che sorgessero posteriormente all'arruolamento si applicano le disposizioni dell'[art. 9 della legge 5 luglio 1908, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-05;348#art_9).
+ Per i titoli che sorgessero posteriormente all'arruolamento si applicano le disposizioni dell'[art. 9 della legge 5 luglio 1908, n. 348](Modificazioni%20alle%20vigenti%20leggi%20di%20leva%20marittima.%20008U0348.md).
 
 ## Art. 2.
 
-I riconosciuti idonei ed arruolati saranno trasferiti al R. esercito in base all'[art. 3 della legge 1° febbraio 1900, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-02-01;26#art_3), eccezione fatta degli inscritti appartenenti alle classi 1896, 1897, che abbiano l'idoneita' necessaria al servizio nella R. marina, dei sott'ufficiali, dei patentati capitani marittimi, dei macchinisti navali e padroni, dei motoristi, dei fuochisti autorizzati, dei cannonieri A, cannonieri O, dei torpedinieri S, torpedinieri A, torpedinieri E, dei fuochisti A e dei radiotelegrafisti, i quali saranno chiamati a prestare servizio nel corpo R. equipaggi.
+I riconosciuti idonei ed arruolati saranno trasferiti al R. esercito in base all'[art. 3 della legge 1° febbraio 1900, n. 26](Sul%20passaggio%20dalla%20Regia%20Marina%20al%20Regio%20Esercito%20di%20talune%20categorie%20di%20militari%20in%20congedo.%20000U0026.md), eccezione fatta degli inscritti appartenenti alle classi 1896, 1897, che abbiano l'idoneita' necessaria al servizio nella R. marina, dei sott'ufficiali, dei patentati capitani marittimi, dei macchinisti navali e padroni, dei motoristi, dei fuochisti autorizzati, dei cannonieri A, cannonieri O, dei torpedinieri S, torpedinieri A, torpedinieri E, dei fuochisti A e dei radiotelegrafisti, i quali saranno chiamati a prestare servizio nel corpo R. equipaggi.
 
 ## Art. 3.
 

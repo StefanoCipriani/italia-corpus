@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 maggio 1931, n. 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-05-11;667), riflettente il tirocinio dei volontari coloniali. 
+ E' convertito in legge il [R. decreto-legge 11 maggio 1931, n. 667](Tirocinio%20dei%20volontari%20coloniali.%20031U0667.md), riflettente il tirocinio dei volontari coloniali. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 17 dicembre 1931 - Anno X 
  

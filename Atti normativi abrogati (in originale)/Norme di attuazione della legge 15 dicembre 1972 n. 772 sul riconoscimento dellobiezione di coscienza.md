@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 15 dicembre 1972, n. 772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-15;772) - Norme per il riconoscimento dell'obiezione di coscienza, e le successive modificazioni contenute nella [legge 24 dicembre 1974, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-12-24;695);
+Vista la [legge 15 dicembre 1972, n. 772](Norme%20per%20il%20riconoscimento%20della%20obiezione%20di%20coscienza.md) - Norme per il riconoscimento dell'obiezione di coscienza, e le successive modificazioni contenute nella [legge 24 dicembre 1974, n. 695](Modifiche%20agli%20articoli%202%20e%208%20della%20legge%2015%20dicembre%201972%20n.%20772%20recante%20norme%20per%20il%20riconoscimento%20della%20obiezione%20di%20coscienza.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -28,8 +28,8 @@ TITOLO I
 
 ### Art. 1.
 
-I giovani iscritti nelle liste di leva di terra o di mare che intendono ottenere, ai sensi e per gli effetti della [legge 15 dicembre 1972, n. 772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-15;772), quale modificata dalla [legge 24 dicembre 1974, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-12-24;695), il riconoscimento dell'obiezione di coscienza, devono presentare apposita domanda, indirizzata al Ministro per la difesa, rispettivamente ai competenti uffici di leva di terra o a quelli di leva di mare, entro sessanta giorni dalla data dell'arruolamento.
- Gli abili arruolati, ammessi al ritardo o al rinvio del servizio militare per motivi previsti dalla legge, che intendono ottenere, ai sensi e per gli effetti della [legge 15 dicembre 1972, n. 772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-15;772), quale modificata dalla [legge 24 dicembre 1974, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-12-24;695), il riconoscimento della obiezione di coscienza e non hanno presentato la domanda di cui al precedente comma, devono presentare apposita domanda, indirizzata al Ministro per la difesa, al distretto militare se arruolati nell'Esercito o nell'Aeronautica, alla capitaneria di porto se arruolati nel CEMM.
+I giovani iscritti nelle liste di leva di terra o di mare che intendono ottenere, ai sensi e per gli effetti della [legge 15 dicembre 1972, n. 772](Norme%20per%20il%20riconoscimento%20della%20obiezione%20di%20coscienza.md), quale modificata dalla [legge 24 dicembre 1974, n. 695](Modifiche%20agli%20articoli%202%20e%208%20della%20legge%2015%20dicembre%201972%20n.%20772%20recante%20norme%20per%20il%20riconoscimento%20della%20obiezione%20di%20coscienza.md), il riconoscimento dell'obiezione di coscienza, devono presentare apposita domanda, indirizzata al Ministro per la difesa, rispettivamente ai competenti uffici di leva di terra o a quelli di leva di mare, entro sessanta giorni dalla data dell'arruolamento.
+ Gli abili arruolati, ammessi al ritardo o al rinvio del servizio militare per motivi previsti dalla legge, che intendono ottenere, ai sensi e per gli effetti della [legge 15 dicembre 1972, n. 772](Norme%20per%20il%20riconoscimento%20della%20obiezione%20di%20coscienza.md), quale modificata dalla [legge 24 dicembre 1974, n. 695](Modifiche%20agli%20articoli%202%20e%208%20della%20legge%2015%20dicembre%201972%20n.%20772%20recante%20norme%20per%20il%20riconoscimento%20della%20obiezione%20di%20coscienza.md), il riconoscimento della obiezione di coscienza e non hanno presentato la domanda di cui al precedente comma, devono presentare apposita domanda, indirizzata al Ministro per la difesa, al distretto militare se arruolati nell'Esercito o nell'Aeronautica, alla capitaneria di porto se arruolati nel CEMM.
  Detta domanda deve essere presentata entro il 31 dicembre dell'anno precedente a quello in cui gli interessati sono effettivamente tenuti a rispondere alla chiamata alle armi per ragioni di eta' o per essere venuti meno i motivi per ritardo o rinvio del servizio militare di leva.
  I residenti all'estero presentano le domande di cui ai precedenti commi alle rappresentanze diplomatiche-consolari, entro i termini predetti e secondo le norme vigenti per la leva all'estero.
 
@@ -38,8 +38,8 @@ I giovani iscritti nelle liste di leva di terra o di mare che intendono ottenere
 La domanda, redatta in carta semplice, puo' essere presentata direttamente dall'interessato agli uffici elencati all'art. 1 ovvero spedita agli uffici stessi mediante raccomandata con avviso di ricevimento. In questo ultimo caso fa fede il timbro a data dell'ufficio postale accettante.
  La domanda deve indicare:
  il cognome, il nome, la data e il luogo di nascita, il luogo di residenza e il comune nelle cui liste di leva il richiedente e' iscritto;
- il motivo o i motivi rientranti tra quelli indicati al [secondo comma dell'art. 1 della legge 15 dicembre 1972, n. 772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-15;772#art_1-com2), in base ai quali viene richiesto il riconoscimento;
- la dichiarazione di non trovarsi in alcuna delle circostanze di cui all'ultimo comma dell'[art. 1 della legge 15 dicembre 1972, n. 772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-15;772#art_1);
+ il motivo o i motivi rientranti tra quelli indicati al [secondo comma dell'art. 1 della legge 15 dicembre 1972, n. 772](Norme%20per%20il%20riconoscimento%20della%20obiezione%20di%20coscienza.md), in base ai quali viene richiesto il riconoscimento;
+ la dichiarazione di non trovarsi in alcuna delle circostanze di cui all'ultimo comma dell'[art. 1 della legge 15 dicembre 1972, n. 772](Norme%20per%20il%20riconoscimento%20della%20obiezione%20di%20coscienza.md);
  la dichiarazione di opzione tra il servizio militare non armato ed il servizio sostitutivo civile;
  il domicilio ove notificare le decisioni e le comunicazioni dell'amministrazione.
  La domanda puo' essere corredata di tutti i documenti che l'interessato ritenga utile a sostegno dei motivi addotti.
@@ -63,11 +63,11 @@ I distretti militari e le capitanerie di porto trasmettono le domande al Ministe
 ### Art. 6.
 
 La direzione generale, indicata all'art. 5, provvede a comunicare ai distretti militari e alle capitanerie di porto di appartenenza le decisioni adottate in ordine alle domande di obiezione di coscienza.
- La direzione generale rende noti i nominativi degli ammessi a prestare servizio militare non armato o in servizio sostitutivo civile alla prefettura della provincia di nascita degli interessati, ai fini dell'osservanza delle norme di cui all'[art. 9 della legge 15 dicembre 1972, n. 772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-15;772#art_9).
+ La direzione generale rende noti i nominativi degli ammessi a prestare servizio militare non armato o in servizio sostitutivo civile alla prefettura della provincia di nascita degli interessati, ai fini dell'osservanza delle norme di cui all'[art. 9 della legge 15 dicembre 1972, n. 772](Norme%20per%20il%20riconoscimento%20della%20obiezione%20di%20coscienza.md).
 
 ### Art. 7.
 
-La direzione generale indicata all'art. 5 notifica agli interessati il decreto contenente le decisioni adottate sulla domanda dal Ministro per la difesa, sentita la commissione istituita con l'[art. 4 della legge 15 dicembre 1972, n. 772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-15;772#art_4).
+La direzione generale indicata all'art. 5 notifica agli interessati il decreto contenente le decisioni adottate sulla domanda dal Ministro per la difesa, sentita la commissione istituita con l'[art. 4 della legge 15 dicembre 1972, n. 772](Norme%20per%20il%20riconoscimento%20della%20obiezione%20di%20coscienza.md).
  La notifica e' fatta a mezzo del messo comunale, mediante consegna all'interessato nel suo domicilio, residenza e dimora.
  In mancanza dell'interessato, la consegna e' fatta in conformita' delle disposizioni contenute negli [articoli 139 e seguenti del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_139). Per i residenti all'estero la notifica e' seguita a cura delle rappresentanze diplomatico-consolari al domicilio indicato nella domanda.
  La data e l'ente di presentazione per la prestazione del servizio militare non armato o del servizio sostitutivo civile sono fissati con successiva comunicazione personale da consegnare agli interessati con le modalita' indicate al precedente comma.
@@ -75,7 +75,7 @@ La direzione generale indicata all'art. 5 notifica agli interessati il decreto c
 
 ### Art. 8.
 
-La rinunzia ai benefici della [legge 15 dicembre 1972, n. 772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-15;772), deve essere presentata alla direzione generale indicata nell'art. 5 o spedita alla stessa mediante raccomandata con avviso di ricevimento non oltre il decimo giorno successivo a quello di ricezione della comunicazione di cui al secondo comma del precedente art. 7.
+La rinunzia ai benefici della [legge 15 dicembre 1972, n. 772](Norme%20per%20il%20riconoscimento%20della%20obiezione%20di%20coscienza.md), deve essere presentata alla direzione generale indicata nell'art. 5 o spedita alla stessa mediante raccomandata con avviso di ricevimento non oltre il decimo giorno successivo a quello di ricezione della comunicazione di cui al secondo comma del precedente art. 7.
 
 ## Capo I SERVIZIO MILITARE NON ARMATO
 
@@ -102,7 +102,7 @@ L'obiettore di coscienza che ha optato per il servizio sostitutivo civile e' dis
 ### Art. 12.
 
 Il distacco presso enti dipendenti da amministrazioni dello Stato avviene mediante accordi con i Dicasteri interessati.
- L'attivita' del personale distaccato e' regolata dalle norme di funzionamento interno dell'ente presso cui avviene il distacco, con gli adattamenti necessari per l'applicazione dell'[art. 11 della legge 15 dicembre 1972, n. 772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-15;772#art_11).
+ L'attivita' del personale distaccato e' regolata dalle norme di funzionamento interno dell'ente presso cui avviene il distacco, con gli adattamenti necessari per l'applicazione dell'[art. 11 della legge 15 dicembre 1972, n. 772](Norme%20per%20il%20riconoscimento%20della%20obiezione%20di%20coscienza.md).
 
 ### Art. 13.
 
@@ -118,7 +118,7 @@ Nelle convenzioni devono essere disciplinati:
  l'impiego degli obiettori in rapporto alle finalita' dell'ente, nel rispetto delle norme che tutelano l'integrita' fisica e morale del cittadino;
  l'orario di lavoro che deve essere eguale a quello previsto per il personale dell'ente adibito alle stesse mansioni;
  il divieto di utilizzare l'obiettore in posti di organico o in sostituzione di impiegati ed operai che l'ente e' tenuto ad assumere per obblighi di legge o per proprie norme statutarie ed organiche;
- le prescrizioni alle quali l'ente si deve attenere ai fini dell'osservanza delle norme dell'[art. 11 della legge 15 dicembre 1972, n. 772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-15;772#art_11), e in particolare il divieto di corrispondere emolumenti che possano determinare disparita' rispetto alla situazione del militare in servizio di leva ordinario;
+ le prescrizioni alle quali l'ente si deve attenere ai fini dell'osservanza delle norme dell'[art. 11 della legge 15 dicembre 1972, n. 772](Norme%20per%20il%20riconoscimento%20della%20obiezione%20di%20coscienza.md), e in particolare il divieto di corrispondere emolumenti che possano determinare disparita' rispetto alla situazione del militare in servizio di leva ordinario;
  i controlli che l'amministrazione militare potra' effettuare per l'accertamento del corretto impiego degli obiettori;
  le comunicazioni da inviare alla direzione generale indicata nell'art. 5 dei fatti che comportano variazioni matricolari (presentazione all'ente, licenze, mancanze disciplinari, termine del servizio, ecc.);
  la facolta' di rivolgere, tramite l'ente, domande, istanze e reclami alla direzione generale suddetta.
@@ -129,7 +129,7 @@ L'obiettore usufruira' dell'assistenza sanitaria e profilattica presso gli osped
 
 ### Art. 16.
 
-Qualsiasi violazione delle condizioni stabilite dalla [legge 15 dicembre 1972, n. 772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-15;772), delle presenti norme e della convenzione potra' comportare la risoluzione della convenzione stessa, salve le eventuali responsabilita' dei legali rappresentanti.
+Qualsiasi violazione delle condizioni stabilite dalla [legge 15 dicembre 1972, n. 772](Norme%20per%20il%20riconoscimento%20della%20obiezione%20di%20coscienza.md), delle presenti norme e della convenzione potra' comportare la risoluzione della convenzione stessa, salve le eventuali responsabilita' dei legali rappresentanti.
  In caso di risoluzione della convenzione, l'obiettore e' tenuto a completare il periodo di servizio presso altro ente indicato dall'amministrazione militare.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

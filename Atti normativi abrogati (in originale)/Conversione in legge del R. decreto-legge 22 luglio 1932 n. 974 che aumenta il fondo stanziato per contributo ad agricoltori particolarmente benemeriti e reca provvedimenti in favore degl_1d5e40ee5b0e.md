@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 luglio 1932, n. 974](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-07-22;974), che aumenta il fondo stanziato per contributo ad agricoltori particolarmente benemeriti e reca provvedimenti in favore degli agricoltori delle provincie di Brescia e di Pola. 
+ E' convertito in legge il [R. decreto-legge 22 luglio 1932, n. 974](Nuovo%20aumento%20del%20fondo%20stanziato%20per%20contributo%20ad%20agricoltori%20particolarmente%20benemeriti%20nonche%20provvidenze%20straordinarie%20per%20lalleviamento%20dei%20debiti%20gravanti%20sugli%20agricoltori%20delle%20p_2a6fd9cf8878.md), che aumenta il fondo stanziato per contributo ad agricoltori particolarmente benemeriti e reca provvedimenti in favore degli agricoltori delle provincie di Brescia e di Pola. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

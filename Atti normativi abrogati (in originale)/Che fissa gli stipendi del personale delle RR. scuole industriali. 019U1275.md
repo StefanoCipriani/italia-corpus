@@ -28,7 +28,7 @@ Gli stipendi del personale titolare stabile delle Regio scuole industriali di pr
  
  Durante il periodo di esperimento il personale titolare in prova percepisce l'intero stipendio. 
  
- Fermo restando il disposto dell'ultimo capoverso dell'art. 39 del regolamento generale sull'istruzione professionale, approvato con [R. decreto 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1014), le ore d'insegnamento eccedenti l'orario normale sono retribuite nella misura indicata al successivo articolo.
+ Fermo restando il disposto dell'ultimo capoverso dell'art. 39 del regolamento generale sull'istruzione professionale, approvato con [R. decreto 22 giugno 1913, n. 1014](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sullistruzione%20professionale%20scuole%20industriali%20e%20commerciali.%20013U1014.md), le ore d'insegnamento eccedenti l'orario normale sono retribuite nella misura indicata al successivo articolo.
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ Gli stipendi stabiliti dalle attuali piante organiche per il personale titolare 
  
  Nella stessa misura si provvedo per gli aumenti a favore del personale delle scuole di cui all'art. 1 non contemplato nella tabella annessa al presente decreto. 
  
- Negli Istituti e nelle scuole di cui al primo comma del presento articolo, le ore d'insegnamento eccedenti l'orario normale sono retribuite in proporzione dello stipendio od assegno stabilito per l'ufficio principale, fermo restando il disposto dell'ultimo capoverso dell'art. 39 del regolamento generale sull'istruzione professionale, approvato con [R. decreto 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1014).
+ Negli Istituti e nelle scuole di cui al primo comma del presento articolo, le ore d'insegnamento eccedenti l'orario normale sono retribuite in proporzione dello stipendio od assegno stabilito per l'ufficio principale, fermo restando il disposto dell'ultimo capoverso dell'art. 39 del regolamento generale sull'istruzione professionale, approvato con [R. decreto 22 giugno 1913, n. 1014](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sullistruzione%20professionale%20scuole%20industriali%20e%20commerciali.%20013U1014.md).
 
 ## Art. 4.
 

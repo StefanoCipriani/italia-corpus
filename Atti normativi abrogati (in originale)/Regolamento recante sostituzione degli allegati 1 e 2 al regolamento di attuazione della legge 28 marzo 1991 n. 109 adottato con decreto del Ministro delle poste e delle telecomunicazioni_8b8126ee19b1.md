@@ -12,7 +12,7 @@ IL MINISTRO DELLE POSTE
 
 E DELLE TELECOMUNICAZIONI
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Vista la [legge 18 ottobre 1977, n. 791](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20del%20consiglio%20delle%20Comunita%20europee%20n.%2072-23-CEE%20relativa%20alle%20garanzie%20di%20sicurezza%20che%20devono%20possedere%20il%20materiale%20elettrico%20destinato%20ad%20essere%20utilizzato_ba0a9e22b669.md), di attuazione della [direttiva n. 73/23/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1973;23), relativa alle garanzie di sicurezza del materiale elettrico destinato ad essere utilizzato entro alcuni limiti di tensione;
 
@@ -22,7 +22,7 @@ Vista la [legge 23 agosto 1988, n. 400, art. 17, comma 3](https://www.normattiva
 
 Visto il piano regolatore nazionale delle telecomunicazioni, approvato con decreto ministeriale 6 aprile 1990, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 90 del 18 aprile 1990 Serie generale;
 
-Vista la [legge 28 marzo 1991, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-28;109), recante nuove disposizioni in materia di allacciamenti e collaudi di impianti telefonici interni, di attuazione della [direttiva 88/301/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;301);
+Vista la [legge 28 marzo 1991, n. 109](Nuove%20disposizioni%20in%20materia%20di%20allacciamenti%20e%20collaudi%20degli%20impianti%20telefonici%20interni.md), recante nuove disposizioni in materia di allacciamenti e collaudi di impianti telefonici interni, di attuazione della [direttiva 88/301/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;301);
 
 Visto il [decreto ministeriale 23 maggio 1992, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-05-23;314) concernente il regolamento recante disposizioni di attuazione della [legge 18 marzo 1991, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-18;109), in materia di allacciamenti e collaudi degli impianti telefonici interni;
 

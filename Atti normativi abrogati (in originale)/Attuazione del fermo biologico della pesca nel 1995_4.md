@@ -50,7 +50,7 @@ Il premio di fermo temporaneo, che non compete all'impresa la quale non rispetti
 
 7.
 
-Al pagamento dei contributi previsti dal presente decreto provvedono i comandanti delle capitanerie di porto sugli accreditamenti disposti dal Ministero delle risorse agricole, alimentari e forestali, anche in deroga ai limiti d'importo stabiliti nel [comma 3 dell'articolo 9 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;367#art_9-com3).
+Al pagamento dei contributi previsti dal presente decreto provvedono i comandanti delle capitanerie di porto sugli accreditamenti disposti dal Ministero delle risorse agricole, alimentari e forestali, anche in deroga ai limiti d'importo stabiliti nel [comma 3 dell'articolo 9 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md).
 
 8.
 

@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' dalla Nazione
 
 RE D'ITALIA
 
-Visto il [decreto Luogotenenziale 18 agosto 1918, n. 1377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-18;1377), con cui venne istituita la Delegazione centrale per la pesca, modificato dal [R. decreto 24 luglio 1919, n. 1567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-24;1567);
+Visto il [decreto Luogotenenziale 18 agosto 1918, n. 1377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-18;1377), con cui venne istituita la Delegazione centrale per la pesca, modificato dal [R. decreto 24 luglio 1919, n. 1567](Che%20chiama%20a%20far%20parte%20del%20Comitato%20dei%20tre%20ministri%20di%20cui%20allart.%201%20del%20decreto%20Luogotenenziale%2018%20agosto%201918%20n.%201377%20il%20ministro%20per%20lagricoltura.%20019U1567.md);
 
 Visto l'[art. 9 del R. decreto 2 ottobre 1919, n. 1794](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1794#art_9);
 
@@ -24,7 +24,7 @@ Sulla proposta del presidente del Consiglio dei ministri, di concerto con i mini
 
 ## Articolo unico.
 
-Il [decreto Luogotenenziale 18 agosto 1918, n. 1377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-18;1377), modificato col [R. decreto 24 luglio 1919, n. 1567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-24;1567), e' abrogato e la Delegazione centrale per la pesca, con esso decreto istituita, e' soppressa. 
+Il [decreto Luogotenenziale 18 agosto 1918, n. 1377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-18;1377), modificato col [R. decreto 24 luglio 1919, n. 1567](Che%20chiama%20a%20far%20parte%20del%20Comitato%20dei%20tre%20ministri%20di%20cui%20allart.%201%20del%20decreto%20Luogotenenziale%2018%20agosto%201918%20n.%201377%20il%20ministro%20per%20lagricoltura.%20019U1567.md), e' abrogato e la Delegazione centrale per la pesca, con esso decreto istituita, e' soppressa. 
  
  Le operazioni di stralcio della Delegazione della pesca, compreso quanto si riferisce alla gestione del conto corrente con gli Istituti di emissione, prevista nel secondo comma dell'art. 5 del precitato [decreto Luogotenenziale 18 agosto 1918, n. 1377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-18;1377), sono devolute al Sottosegretariato per gli approvvigionamenti e consumi alimentari. 
  

@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), e successive modificazioni;
+Visto il testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni;
 
-Visto il [decreto legislativo luogotenenziale 8 marzo 1945, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-08;62);
+Visto il [decreto legislativo luogotenenziale 8 marzo 1945, n. 62](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20finanza%20locale.%20045U0062.md);
 
-Visto il [decreto legislativo luogotenenziale 18 febbraio 1946, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-18;100);
+Visto il [decreto legislativo luogotenenziale 18 febbraio 1946, n. 100](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20tributari%20a%20favore%20degli%20Enti%20locali.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -27,7 +27,7 @@ Sulla proposta del Ministro per le finanze, di concerto con quello per l'interno
 ## Art. 1.
 
 Sono convalidati a tutti gli effetti gli atti riguardanti la istituzione, la variazione, l'accertamento e la riscossione dei tributi relativi agli anni 1945 e 1946 che gli enti locali hanno compiuto oltre i termini stabiliti dalle vigenti disposizioni.
- Sono altresi' convalidate, a tutti gli effetti, le tariffe delle imposte di consumo che i comuni hanno deliberato in misura superiore a quella stabilita dalle disposizioni vigenti anteriormente alla entrata in vigore del [decreto legislativo luogotenenziale 18 febbraio 1946, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-18;100).
+ Sono altresi' convalidate, a tutti gli effetti, le tariffe delle imposte di consumo che i comuni hanno deliberato in misura superiore a quella stabilita dalle disposizioni vigenti anteriormente alla entrata in vigore del [decreto legislativo luogotenenziale 18 febbraio 1946, n. 100](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20tributari%20a%20favore%20degli%20Enti%20locali.md).
 
 ## Art. 2.
 

@@ -16,12 +16,12 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-All'art. 34 - sub 78/a - [comma primo, del regio decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841#art_com1), si aggiunge:
+All'art. 34 - sub 78/a - [comma primo, del regio decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), si aggiunge:
  "... o l'istituto mutualistico o assicurativo di diritto pubblico dal quale l'infermo risulti aver titolo all'assistenza".
 
 ## Art. 2.
 
-All'art. 34 - sub 78/b - del [regio decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841), si aggiunge:
+All'art. 34 - sub 78/b - del [regio decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), si aggiunge:
  "Quando, all'atto del ricovero, risulti che l'infermo ha titolo all'assistenza da parte di un istituto mutualistico od assicurativo di diritto pubblico dovra' anche procedersi alla notifica all'istituto competente, ai fini, nei modi e termini di cui al comma precedente.
  "Nel caso che l'istituto non faccia pervenire all'amministrazione ospedaliera motivata contestazione dell'onere della spedalita' entro il termine di giorni 30 da quello di notifica del ricovero, tale onere si ritiene assunto dall'istituto stesso.
  "In caso di contestazione e ove la spedalita' non venga in tutto o in parte assunta dall'istituto mutualistico o assicurativo, l'importo intero di essa o quello residuo sara' a carico del Comune di domicilio di soccorso, salvo rivalsa di quest'ultimo verso chi di ragione.
@@ -35,11 +35,11 @@ L'art. 36 del regi o decreto 30 dicembre 1923, n. 2841, e' sostituito dal seguen
 
 ## Art. 4.
 
-I valori indicati nel [primo comma dell'art. 10 del regio decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841#art_10-com1), sono elevati, rispettivamente, a lire 2.500.000 e a lire 400.000.
+I valori indicati nel [primo comma dell'art. 10 del regio decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), sono elevati, rispettivamente, a lire 2.500.000 e a lire 400.000.
 
 ## Art. 5.
 
-Il termine previsto dal primo comma dell'art. 6 del testo unico approvato con [regio decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), e' ridotto da tre a due anni.
+Il termine previsto dal primo comma dell'art. 6 del testo unico approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' ridotto da tre a due anni.
 
 ## Art. 6.
 

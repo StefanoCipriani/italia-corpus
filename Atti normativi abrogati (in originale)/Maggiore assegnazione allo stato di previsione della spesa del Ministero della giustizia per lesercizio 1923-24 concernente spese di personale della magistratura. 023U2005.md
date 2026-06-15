@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Nello stato di previsione della spesa del Ministero della giustizia e gli affari di culto per l'esercizio finanziario 1923-1924 e' istituito il cap. n. 60-quater: «Indennita' ai magistrati collocati a riposo o dispensati dal servizio a' termini del [R. decreto 3 maggio 1923, n. 1028](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1028)» con lo stanziamento di L. 2,275,000. 
+ Nello stato di previsione della spesa del Ministero della giustizia e gli affari di culto per l'esercizio finanziario 1923-1924 e' istituito il cap. n. 60-quater: «Indennita' ai magistrati collocati a riposo o dispensati dal servizio a' termini del [R. decreto 3 maggio 1923, n. 1028](Contenente%20norme%20per%20lesonero%20e%20il%20trattamento%20di%20quiescenza%20del%20personale%20della%20magistratura.%20023U1028.md)» con lo stanziamento di L. 2,275,000. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge ed andra' in vigore il giorno stesso della sua pubblicazione sulla Gazzetta Ufficiale del Regno. 
  

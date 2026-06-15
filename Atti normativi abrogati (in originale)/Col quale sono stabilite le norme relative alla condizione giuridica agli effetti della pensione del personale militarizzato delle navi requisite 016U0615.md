@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli individui militarizzati per effetto del [R. decreto 15 aprile 1915, n. 570; e dell'art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-15;570#art_5) del [decreto Luogotenenziale 17 febbraio 1916, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-02-17;204), ai quali in dipendenza del [R. decreto 2 luglio 1914, n.953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-07-02;953), sono applicabili tutte le disposizioni in materia di pensioni privilegiate, sono estese altresi' le disposizioni del [decreto Luogotenenziale 22 agosto 1915, n. 1273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-22;1273), riguardanti le famiglie dei militari, prigionieri, dispersi o scomparsi.
+Agli individui militarizzati per effetto del [R. decreto 15 aprile 1915, n. 570; e dell'art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-15;570#art_5) del [decreto Luogotenenziale 17 febbraio 1916, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-02-17;204), ai quali in dipendenza del [R. decreto 2 luglio 1914, n.953](Concernente%20lequiparazione%20ai%20gradi%20dei%20militari%20del%20R.%20esercito%20e%20della%20R.%20marina%20del%20personale%20appartenente%20ai%20corpi%20e%20servizi%20ausiliari.%20014U0953.md), sono applicabili tutte le disposizioni in materia di pensioni privilegiate, sono estese altresi' le disposizioni del [decreto Luogotenenziale 22 agosto 1915, n. 1273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-22;1273), riguardanti le famiglie dei militari, prigionieri, dispersi o scomparsi.
 
 ## Art. 2.
 
@@ -26,7 +26,7 @@ In seguito all'accertamento della definitiva posizione del militarizzato, disper
 
 ## Art. 5.
 
-Ai militarizzati superstiti, i quali, nei casi previsti dalla [legge 6 settembre 1868, n. 4605](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1868-09-06;4605), abbiano perduto gli effetti del proprio corredo, con le norme stabilite dalla legge stessa e senza pregiudizio del soccorso che possa loro essere concesso per parte della Cassa invalidi della marina mercantile, saranno corrisposte le sotto indicate indennita' in rapporto al grado ad essi conferite per effetto della militarizzazione: 
+Ai militarizzati superstiti, i quali, nei casi previsti dalla [legge 6 settembre 1868, n. 4605](Che%20stabilisce%20lindennita%20da%20corrispondersi%20agli%20Ufficiali%20e%20Bassa%20Forza%20dei%20Corpi%20della%20Regia%20Marina%20che%20per%20causa%20di%20naufragio%20in%20tempo%20di%20guerra%20abbiano%20perduto%20gli%20effetti%20del%20proprio_15f2bc63f1a1.md), abbiano perduto gli effetti del proprio corredo, con le norme stabilite dalla legge stessa e senza pregiudizio del soccorso che possa loro essere concesso per parte della Cassa invalidi della marina mercantile, saranno corrisposte le sotto indicate indennita' in rapporto al grado ad essi conferite per effetto della militarizzazione: 
  
  Capitano di corvetta e gradi corrispondenti, L. 1600. 
  

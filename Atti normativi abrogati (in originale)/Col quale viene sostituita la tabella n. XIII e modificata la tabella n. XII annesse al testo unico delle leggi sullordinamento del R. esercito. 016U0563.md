@@ -26,7 +26,7 @@ La tabella n. XIII degli ufficiali del corpo di amministrazione, annessa al vige
 
 ## Art. 2.
 
-I sottotenenti del corpo d'amministrazione saranno tratti esclusivamente dai sottotenenti di complemento del corpo stesso i quali, oltre a possedere i requisiti di cui all'[art. 2 della legge 8 giugno 1913, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_2), soddisfino alle condizioni che saranno stabilite dal ministro della guerra e superino un apposito esame di coltura amministrativo-contabile.
+I sottotenenti del corpo d'amministrazione saranno tratti esclusivamente dai sottotenenti di complemento del corpo stesso i quali, oltre a possedere i requisiti di cui all'[art. 2 della legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), soddisfino alle condizioni che saranno stabilite dal ministro della guerra e superino un apposito esame di coltura amministrativo-contabile.
 
 ## Art. 3.
 

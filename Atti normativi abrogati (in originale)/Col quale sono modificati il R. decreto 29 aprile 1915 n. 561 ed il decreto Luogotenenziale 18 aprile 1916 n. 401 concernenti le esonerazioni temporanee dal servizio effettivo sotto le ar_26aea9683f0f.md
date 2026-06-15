@@ -28,7 +28,7 @@ L'[art. 4 del decreto Luogotenenziale 13 aprile 1916, n. 401](https://www.normat
 
 ## Art. 3.
 
-Alla Commissione centrale prevista dall'[art. 4 del R. decreto-legge 29 aprile 1915, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1915-04-29;561#art_4), e' aggiunto un membro effettivo ed uno supplente di speciale competenza in materia agricola, con voto deliberativo. La sua designazione viene fatta dal Ministero per l'agricoltura.
+Alla Commissione centrale prevista dall'[art. 4 del R. decreto-legge 29 aprile 1915, n. 561](Col%20quale%20possono%20essere%20temporaneamente%20esonerati%20dal%20prestar%20servizio%20sotto%20le%20armi%20i%20militari%20in%20congedo%20richiamati%20i%20quali%20prestino%20lopera%20loro%20presso%20stabilimenti%20privati%20od%20imprese%20_6bb57573abd3.md), e' aggiunto un membro effettivo ed uno supplente di speciale competenza in materia agricola, con voto deliberativo. La sua designazione viene fatta dal Ministero per l'agricoltura.
 
 ## Art. 4.
 

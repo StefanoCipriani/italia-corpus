@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il contributo per le spese funerarie per i sottufficiali, le guardie scelte e le guardie del Corpo degli agenti di custodia, previsto dall'[art. 34 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;508#art_34), e' elevato a lire ottomila.
+Il contributo per le spese funerarie per i sottufficiali, le guardie scelte e le guardie del Corpo degli agenti di custodia, previsto dall'[art. 34 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20del%20Corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20045U0508.md), e' elevato a lire ottomila.
 
 ## Art. 2.
 

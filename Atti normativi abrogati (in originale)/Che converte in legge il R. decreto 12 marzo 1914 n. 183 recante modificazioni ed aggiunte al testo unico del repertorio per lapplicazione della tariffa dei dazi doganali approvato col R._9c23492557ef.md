@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [Regio decreto del 12 marzo 1914, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-03-12;183), che ha recato modificazioni e aggiunte al testo unico del repertorio per l'applicazione della tariffa dei dazi doganali, approvato col [Regio decreto dell'8 gennaio 1914, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-08;10). 
+ E' convertito in legge il [Regio decreto del 12 marzo 1914, n. 183](Da%20convertirsi%20in%20legge%20col%20quale%20vengono%20recate%20modificazioni%20al%20testo%20unico%20del%20repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20014U0183.md), che ha recato modificazioni e aggiunte al testo unico del repertorio per l'applicazione della tariffa dei dazi doganali, approvato col [Regio decreto dell'8 gennaio 1914, n. 10](Col%20quale%20viene%20approvato%20il%20testo%20unico%20del%20Repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20014U0010.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

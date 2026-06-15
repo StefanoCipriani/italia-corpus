@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 14 gennaio 1923, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-14;31), col quale venne istituita la M. V. S. N.;
+Visto il [R. decreto 14 gennaio 1923, n. 31](Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), col quale venne istituita la M. V. S. N.;
 
 Visto il [R. decreto-legge 4 agosto 1924, n. 1292](Approvazione%20del%20nuovo%20ordinamento%20della%20Milizia%20Volontaria%20per%20la%20Sicurezza%20Nazionale.%20024U1292.md), con il quale si approva il nuovo ordinamento della M. V. S. N.;
 

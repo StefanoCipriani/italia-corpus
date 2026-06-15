@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale;
 
 Ai concorsi che saranno indetti durante l'anno solare 1925, per coprire i posti di ruolo nelle Regie scuole di insegnamento industriale e commerciale, eccezion fatta per le scuole o sezioni di scuole femminili, saranno ammessi solamente gli ex combattenti. 
  
- Nella valutazione dei titoli le Commissioni giudicatrici, a parita' di merito, terranno conto delle preferenze stabilite dall'[art. 21 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_21).
+ Nella valutazione dei titoli le Commissioni giudicatrici, a parita' di merito, terranno conto delle preferenze stabilite dall'[art. 21 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 2.
 

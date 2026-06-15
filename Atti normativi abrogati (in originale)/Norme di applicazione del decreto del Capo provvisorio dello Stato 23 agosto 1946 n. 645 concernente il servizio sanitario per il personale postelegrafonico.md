@@ -14,13 +14,13 @@ Visto il [decreto del Capo provvisorio dello Stato 23 agosto 1946, n. 645](https
 
 Visto il [regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), che approva il testo unico delle leggi sulle pensioni civili e militari ed il relativo regolamento, approvato con [regio decreto 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603), modificato col [regio decreto 7 giugno 1920, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-07;835), e successive modificazioni;
 
-Visto il [regio decreto 5 giugno 1941, n. 874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-06-05;874), che approva il [testo unico delle leggi sul sequestro](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-01-05;180), il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti dalle pubbliche amministrazioni, e successive modificazioni;
+Visto il [regio decreto 5 giugno 1941, n. 874](Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.%20041U0874.md), che approva il [testo unico delle leggi sul sequestro](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.md), il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti dalle pubbliche amministrazioni, e successive modificazioni;
 
-Visto il [regio decreto-legge 14 gennaio 1926, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-14;99), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898);
+Visto il [regio decreto-legge 14 gennaio 1926, n. 99](Approvazione%20del%20regolamento%20contenente%20norme%20e%20condizioni%20di%20trattamento%20al%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20nei%20casi%20di%20malattie%20e%20di%20infortuni.%20026U0099.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
 
-Vista la [legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100), e successive modificazioni;
+Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), e successive modificazioni;
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 

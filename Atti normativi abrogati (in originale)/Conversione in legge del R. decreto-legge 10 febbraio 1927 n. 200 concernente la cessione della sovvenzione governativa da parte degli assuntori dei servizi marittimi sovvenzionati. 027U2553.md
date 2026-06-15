@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 febbraio 1927, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-10;200), che reca modificazioni al [R. decreto-legge 24 maggio 1926, n. 945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-24;945), concernente la cessione della sovvenzione governativa da parte degli assuntori dei servizi marittimi sovvenzionati. 
+ E' convertito in legge il [R. decreto-legge 10 febbraio 1927, n. 200](Modificazioni%20al%20R.%20decreto-legge%2024%20maggio%201926%20n.%20945%20concernente%20la%20cessione%20della%20sovvenzione%20da%20parte%20degli%20assuntori%20dei%20servizi%20marittimi.%20027U0200.md), che reca modificazioni al [R. decreto-legge 24 maggio 1926, n. 945](Cessione%20della%20sovvenzione%20governativa%20da%20parte%20degli%20assuntori%20dei%20servizi%20marittimi.%20026U0945.md), concernente la cessione della sovvenzione governativa da parte degli assuntori dei servizi marittimi sovvenzionati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

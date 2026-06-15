@@ -18,7 +18,7 @@ Ritenuta la convenienza di definire transattivamente la vertenza, avanti il comm
 
 Ritenuta le necessita' che, in dipendenza della risoluzione della vertenza, lo Stato non risenta pregiudizio nelle proprie esigenze militari, per quanto si attiene allo svolgimento delle esercitazioni militari ed al funzionamento del poligono di tiro, esigenze alle quali non sarebbe possibile, in atto, di provvedere diversamente;
 
-Vista la [legge 16 giugno 1927, n. 1766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;1766), concernente il riordinamento degli usi civici nel Regno;
+Vista la [legge 16 giugno 1927, n. 1766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20maggio%201924%20n.%20751%20riguardante%20il%20riordinamento%20degli%20usi%20civici%20nel%20Regno%20del%20R.%20decreto%2028%20agosto%201924%20n.%201484%20che%20modifica%20lart.%2026%20del%20R.%20decret_728733510b66.md), concernente il riordinamento degli usi civici nel Regno;
 
 Visto l'atto di conciliazione in data 27 giugno 1934, approvato dal commissario per la liquidazione degli usi civici della Sicilia con ordinanza 24 settembre 1934 e dal Ministero dell'agricoltura e delle foreste con decreto 19 novembre 1934;
 

@@ -33,7 +33,7 @@ Essi devono contrarre una delle ferme volontarie previste dall'ordinamento del c
 
 ## Art. 3.
 
-Le disposizioni di cui agli articoli precedenti saranno comprese nel testo unico delle disposizioni legislative riguardanti la leva marittima autorizzato con il [R. decreto 30 dicembre 1923, n. 2991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2991). 
+Le disposizioni di cui agli articoli precedenti saranno comprese nel testo unico delle disposizioni legislative riguardanti la leva marittima autorizzato con il [R. decreto 30 dicembre 1923, n. 2991](Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md). 
  
  Il presente decreto avra' vigore dal 1° ottobre 1924 e sara' presentato al Parlamento per essere convertito in legge. 
  

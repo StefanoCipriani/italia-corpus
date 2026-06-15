@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 27 luglio 1928, n. 1892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-07-27;1892), con il quale l'Istituto interuniversitario italiano, in Roma, e' eretto in ente morale;
+Veduto il [R. decreto 27 luglio 1928, n. 1892](Erezione%20in%20ente%20morale%20dellIstituto%20interuniversitario%20italiano%20in%20Roma.%20028U1892.md), con il quale l'Istituto interuniversitario italiano, in Roma, e' eretto in ente morale;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-All'Istituto interuniversitario italiano, in Roma, (eretto in ente morale con [R. decreto 27 luglio 1928, n. 1892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-07-27;1892)) e' affidata l'organizzazione e la direzione di tutti i corsi di cultura e di lingua per stranieri, frequentati anche da connazionali, istituiti e da istituirsi in Italia, eccettuati quelli della Regia universita' italiana per stranieri di Perugia e quelli dell'Ente morale «Opera Montessori». 
+All'Istituto interuniversitario italiano, in Roma, (eretto in ente morale con [R. decreto 27 luglio 1928, n. 1892](Erezione%20in%20ente%20morale%20dellIstituto%20interuniversitario%20italiano%20in%20Roma.%20028U1892.md)) e' affidata l'organizzazione e la direzione di tutti i corsi di cultura e di lingua per stranieri, frequentati anche da connazionali, istituiti e da istituirsi in Italia, eccettuati quelli della Regia universita' italiana per stranieri di Perugia e quelli dell'Ente morale «Opera Montessori». 
  Le somme comunque destinate alla istituzione e al funzionamento dei corsi sono amministrate dall'Istituto interuniversitario italiano.
 
 ## Art. 2.

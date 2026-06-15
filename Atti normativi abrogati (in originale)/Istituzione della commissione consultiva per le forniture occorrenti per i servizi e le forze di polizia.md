@@ -65,7 +65,7 @@ Per ogni magazzino, autocentro e centro recuperi e' istituita, con decreto minis
 
 ## Art. 7.
 
-Sono abrogati il [decreto del Presidente della Repubblica 18 marzo 1949, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-03-18;442), ed ogni altra disposizione regolamentare in contrasto con quelle del presente decreto.
+Sono abrogati il [decreto del Presidente della Repubblica 18 marzo 1949, n. 442](../DPR/Disciplina%20della%20fornitura%20degli%20effetti%20di%20vestiario%20equipaggiamento%20armamento%20e%20casermaggio%20per%20il%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.md), ed ogni altra disposizione regolamentare in contrasto con quelle del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

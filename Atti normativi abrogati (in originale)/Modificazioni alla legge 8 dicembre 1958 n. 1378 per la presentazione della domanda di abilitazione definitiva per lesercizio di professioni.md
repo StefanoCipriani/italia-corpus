@@ -26,7 +26,7 @@ E' prorogato di novanta giorni, dalla data di entrata in vigore della presente l
 ## Art. 3.
 
 Coloro che siano in possesso del certificato di abilitazione provvisoria all'esercizio della professione di perito forestale e di abilitazione provvisoria nelle discipline statistiche possono chiedere, entro tre anni dalla data di entrata in vigore della presente legge, la concessione della abilitazione definitiva indipendentemente dalla iscrizione all'Albo professionale.
- Ai fini della concessione dell'abilitazione definitiva saranno ad essi applicabili le disposizioni contenute nel [decreto del Presidente della Repubblica 3 luglio 1961, n. 1197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-07-03;1197).
+ Ai fini della concessione dell'abilitazione definitiva saranno ad essi applicabili le disposizioni contenute nel [decreto del Presidente della Repubblica 3 luglio 1961, n. 1197](../DPR/Regolamento%20di%20esecuzione%20della%20legge%208%20dicembre%201956%20n.%201378%20concernente%20labilitazione%20definitiva%20allesercizio%20professionale.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

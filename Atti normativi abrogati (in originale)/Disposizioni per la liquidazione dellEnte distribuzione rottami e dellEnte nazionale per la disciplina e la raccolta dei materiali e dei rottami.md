@@ -10,21 +10,21 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 28 giugno 1938, n. 1116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-28;1116), convertito nella [legge 9 gennaio 1939, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-09;207), relativo alla costituzione dell'Ente distribuzione rottami;
+Visto il [regio decreto-legge 28 giugno 1938, n. 1116](Costituzione%20dellEnte%20distribuzione%20rottami%20con%20sede%20in%20Roma.%20038U1116.md), convertito nella [legge 9 gennaio 1939, n. 207](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20giugno%201938-XVI%20n.%201116%20concernente%20la%20costituzione%20dellEnte%20distribuzione%20rottami%20con%20sede%20in%20Roma.%20039U0207.md), relativo alla costituzione dell'Ente distribuzione rottami;
 
-Visto il [regio decreto 27 dicembre 1938, n. 2100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-27;2100), che approva lo statuto dell'Ente distribuzione rottami;
+Visto il [regio decreto 27 dicembre 1938, n. 2100](Approvazione%20dello%20statuto%20dellEnte%20distribuzione%20rottami.%20038U2100.md), che approva lo statuto dell'Ente distribuzione rottami;
 
 Vista l'ordinanza 17 ottobre 1945, n. 285, del Governo Militare Alleato, con la quale si conferma la soppressione e La messa in liquidazione dell'Ente distribuzione rottami, disposta con [decreto legislativo 1° settembre 1944, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-09-01;634), del sedicente governo della repubblica sociale, integrato dal decreto interministeriale 21 ottobre 1944 e si provvede alla nomina del commissario liquidatore e del vice liquidatore;
 
 Vista l'ordinanza 31 ottobre 1945, n. 286, del Governo Militare Alleato, con la quale si dispone la soppressione e la messa in liquidazione dell'Ente nazionale per la disciplina della raccolta dei materiali e dei rottami, costituito con il sopracitato [decreto legislativo 1° settembre 1944, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-09-01;634), del sedicente governo repubblicano, e si provvede alla nomina del commissario liquidatore;
 
-Visto il [decreto legislativo luogotenenziale 20 luglio 1944, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-07-20;162), relativo al regime giuridico dei territori restituiti all'Amministrazione italiana;
+Visto il [decreto legislativo luogotenenziale 20 luglio 1944, n. 162](../Decreti%20legislativi%20luogotenenziali/Regime%20giuridico%20dei%20territori%20restituiti%20allAmministrazione%20italiana.%20044U0162.md), relativo al regime giuridico dei territori restituiti all'Amministrazione italiana;
 
-Visto il [decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-05;249), concernente l'assetto della legislazione nei territori liberati;
+Visto il [decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](../Decreti%20legislativi%20luogotenenziali/Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md), concernente l'assetto della legislazione nei territori liberati;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -119,7 +119,7 @@ Entro venti giorni dal completamento dell'inventario, il commissario liquidatore
 
 ## Art. 18.
 
-Il Ministro per l'industria e commercio provvede ai sensi del [decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-05;249), relativamente agli atti indicati nel n. 1 del precedente articolo.
+Il Ministro per l'industria e commercio provvede ai sensi del [decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](../Decreti%20legislativi%20luogotenenziali/Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md), relativamente agli atti indicati nel n. 1 del precedente articolo.
  Se i beni dell'Ente sono sufficienti al pagamento integrale delle rispettive passivita', il Ministro autorizza il commissario liquidatore al pagamento dei creditori a misura, che si presentano; nel caso contrario autorizza il commissario liquidatore a procedere alla liquidazione generale dei beni di ciascun Ente nell'interesse di tutti i rispettivi creditori.
 
 ## Art. 19.

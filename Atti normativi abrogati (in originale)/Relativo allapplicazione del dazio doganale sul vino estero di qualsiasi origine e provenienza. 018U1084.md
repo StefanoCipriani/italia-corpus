@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-A datare dal giorno successivo a quello della pubblicazione del presente decreto nella Gazzetta ufficiale del Regno, al vino in botti o caratelli, di qualsiasi origine e provenienza, verra' applicato il dazio generale di L. 20 per ettolitro stabilito sotto la voce 3-a della tariffa doganale (Testo unico approvato con [R. decreto 28 luglio 1910, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-28;577)). 
+A datare dal giorno successivo a quello della pubblicazione del presente decreto nella Gazzetta ufficiale del Regno, al vino in botti o caratelli, di qualsiasi origine e provenienza, verra' applicato il dazio generale di L. 20 per ettolitro stabilito sotto la voce 3-a della tariffa doganale (Testo unico approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md)). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

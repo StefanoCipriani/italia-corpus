@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 ottobre 1934, n. 1717](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-04;1717), coi quale e' stata autorizzata la concessione, per la durata di anni 27, all'«Azienda tramviaria municipale di Trieste», dell'impianto e dell'esercizio di una filovia in Trieste, da piazza Goldoni a Campo Marzio, attraverso il Colle di S. Vito. 
+ E' convertito in legge il [R. decreto-legge 4 ottobre 1934, n. 1717](Autorizzazione%20della%20concessione%20per%20la%20durata%20di%20anni%2027%20allAzienda%20tramviaria%20municipale%20di%20Trieste%20dellimpianto%20e%20dellesercizio%20di%20una%20filovia%20in%20Trieste%20da%20Piazza%20Goldoni%20a%20Campo%20Marz_451ada996180.md), coi quale e' stata autorizzata la concessione, per la durata di anni 27, all'«Azienda tramviaria municipale di Trieste», dell'impianto e dell'esercizio di una filovia in Trieste, da piazza Goldoni a Campo Marzio, attraverso il Colle di S. Vito. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

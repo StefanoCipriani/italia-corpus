@@ -29,7 +29,7 @@ Le Amministrazioni governative competenti in questi servizi sono i Ministeri del
  
  La stessa Commissione decide in modo definitivo di tutte le controversie di carattere tecnico che possono sorgere, per l'impianto e per l'esercizio delle concessioni di cui all'art. 1. 
  
- E' pure competente a determinare la potenzialita' degli apparati radiotelegrafici e radiotelefonici e le modalita' tecniche ed economiche per il loro uso sui piroscafi in servizio di emigrazione, quando l'impianto degli apparati stessi sia stato imposto dal Governo a norma dell'[art. 11 del R. decreto 14 marzo 1909, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-03-14;130#art_11). 
+ E' pure competente a determinare la potenzialita' degli apparati radiotelegrafici e radiotelefonici e le modalita' tecniche ed economiche per il loro uso sui piroscafi in servizio di emigrazione, quando l'impianto degli apparati stessi sia stato imposto dal Governo a norma dell'[art. 11 del R. decreto 14 marzo 1909, n. 130](Che%20modifica%20il%20titolo%20IV%20del%20regolamento%20sulla%20emigrazione.%20009U0130.md). 
  
  Se la controversia concerne i compensi dovuti per la revoca delle concessioni, per sospensione dell'esercizio o per riscatto degli impianti di cui all'art. 1, il giudizio e' deferito ad un collegio arbitrale, che decide inappellabilmente, composto di tre membri, uno nominato dal Governo, uno dal concessionario, il terzo dal presidente del tribunale di Roma. Il Governo puo' delegare la scelta del proprio arbitro alla Commissione suddetta. 
  
@@ -47,13 +47,13 @@ Ogni infrazione all'art. 1 della presente legge e' punibile con la multa fino a 
 
 ## Art. 4.
 
-Chiunque arrechi guasto o deterioramento agl'impianti, od in qualsiasi altro modo interrompa o comprometta il servizio, anche temporaneamente, e' punito ai termini dell'[art. 315 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_315), salve per i militari le pene comminate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare. 
+Chiunque arrechi guasto o deterioramento agl'impianti, od in qualsiasi altro modo interrompa o comprometta il servizio, anche temporaneamente, e' punito ai termini dell'[art. 315 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salve per i militari le pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
  
  Incorrera' nelle stesse pene chiunque abusera' del segnale d'allarme delle navi in pericolo.
 
 ## Art. 5.
 
-Le pene stabilite dalla presente legge s'intendono applicabili senza pregiudizio di quelle maggiori cui possa farsi luogo ai termini del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) comune e del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare. 
+Le pene stabilite dalla presente legge s'intendono applicabili senza pregiudizio di quelle maggiori cui possa farsi luogo ai termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune e del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -18,9 +18,9 @@ IMPERATORE D'ETIOPIA
 
 Vista la [legge 17 maggio 1928, n. 1094](Istituzione%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1094.md), con cui fu istituita l'Azienda autonoma statale della strada;
 
-Visto il [R. decreto 1° giugno 1928, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-01;1139), con cui furono emanate norme relative all'ordinamento dei servizi della detta Azienda;
+Visto il [R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), con cui furono emanate norme relative all'ordinamento dei servizi della detta Azienda;
 
-Visto il [R. decreto 6 aprile 1933, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-04-06;368), relativo ai compartimenti della viabilita';
+Visto il [R. decreto 6 aprile 1933, n. 368](Denominazione%20dei%20Compartimenti%20della%20viabilita%20dellAzienda%20autonoma%20statale%20della%20strada.%20033U0368.md), relativo ai compartimenti della viabilita';
 
 Visti i [Regi decreti-legge 18 ottobre 1934, n. 1830](Modifiche%20alla%20formazione%20del%20Consiglio%20di%20amministrazione%20dellAzienda%20autonoma%20statale%20della%20strada.%20034U1830.md), e [16 dicembre 1935, n. 2477](Nomina%20del%20direttore%20generale%20per%20il%20turismo%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda%20a%20Membro%20del%20Consiglio%20di%20amministrazione%20dellAzienda%20autonoma%20statale%20della%20strada.%20035U2477.md), con cui furono introdotte variazioni nella composizione del Consiglio di amministrazione della Azienda autonoma statale della strada;
 
@@ -84,13 +84,13 @@ Gli organi periferici dell'Azienda sono costituiti, giusta l'annessa tabella A, 
  
  Tale competenza territoriale e le sedi degli Uffici potranno essere modificate con decreto Reale sentito il Consiglio dei Ministri. 
  
- Sono abrogati l'[art. 3 del R. decreto 1° giugno 1928, numero 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-01;1139#art_3), e il [R. decreto 6 aprile 1933, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-04-06;368).
+ Sono abrogati l'[art. 3 del R. decreto 1° giugno 1928, numero 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e il [R. decreto 6 aprile 1933, n. 368](Denominazione%20dei%20Compartimenti%20della%20viabilita%20dellAzienda%20autonoma%20statale%20della%20strada.%20033U0368.md).
 
 ## Art. 3.
 
-La tabella B e le tabelle C e D annesse al [R. decreto 1° giugno 1928, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-01;1139), sono rispettivamente sostituite dalla tabella B e dalla tabella C annesse al presente decreto, vistate, d'ordine Nostro, dal Ministro per i lavori pubblici, presidente dell'Azienda autonoma statale della strada, e da quello per le finanze. 
+La tabella B e le tabelle C e D annesse al [R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), sono rispettivamente sostituite dalla tabella B e dalla tabella C annesse al presente decreto, vistate, d'ordine Nostro, dal Ministro per i lavori pubblici, presidente dell'Azienda autonoma statale della strada, e da quello per le finanze. 
  
- L'art. 9 del medesimo [R. decreto 1° giugno 1928, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-01;1139), e' abrogato.
+ L'art. 9 del medesimo [R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e' abrogato.
 
 ## Art. 4.
 
@@ -123,7 +123,7 @@ Nelle assunzioni di cui al precedente articolo sara' anche osservato il disposto
  
  Degli aspiranti ai posti che si renderanno vacanti nelle varie categorie del personale a contratto sara' fatta apposita graduatoria sulla base dei titoli di studio indicati al precedente art. 4, degli altri titoli determinati per legge, di quelli cui si riferisce il primo comma del presente articolo, nonche' di altre eventuali benemerenze. 
  
- Le assunzioni saranno disposte seguendo tale graduatoria. L'[art. 5 del R. decreto 1° giugno 1928, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-01;1139#art_5), e' soppresso.
+ Le assunzioni saranno disposte seguendo tale graduatoria. L'[art. 5 del R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e' soppresso.
 
 ## Art. 6.
 
@@ -173,7 +173,7 @@ L'impiegato di nuova assunzione e' sottoposto ad un periodo di prova che in ogni
 
 ## Art. 11.
 
-Il [secondo comma dell'art. 8 del R. decreto 1° giugno 1928, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-01;1139#art_8-com2), e' sostituito dal seguente: 
+Il [secondo comma dell'art. 8 del R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e' sostituito dal seguente: 
  
  «Al personale a contratto comandato in missione fuori del Comune di residenza viene corrisposta la diaria di soggiorno fuori sede nonche' l'indennita' chilometrica previste dalle norme in vigore per i funzionari di ruolo del grado iniziale del gruppo al quale puo' assimilarsi l'impiegato contrattista. 
  
@@ -183,7 +183,7 @@ Il [secondo comma dell'art. 8 del R. decreto 1° giugno 1928, n. 1139](https://w
 
 ## Art. 12.
 
-Il trattamento di cui all'[art. 7 del R. decreto 1° giugno 1928, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-01;1139#art_7), non puo' in ogni caso essere accordato se non a funzionari del grado immediatamente inferiore a quello direttivo o ispettivo di cui disimpegnano le funzioni entro i limiti delle vacanze esistenti nel grado superiore, ed esclusivamente per le funzioni connesse ai gradi quinto e sesto. 
+Il trattamento di cui all'[art. 7 del R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), non puo' in ogni caso essere accordato se non a funzionari del grado immediatamente inferiore a quello direttivo o ispettivo di cui disimpegnano le funzioni entro i limiti delle vacanze esistenti nel grado superiore, ed esclusivamente per le funzioni connesse ai gradi quinto e sesto. 
  
  Tale trattamento puo' essere accordato soltanto dopo che il funzionario abbia trascorso nel grado inferiore il tempo minimo richiesto per la promozione.
 

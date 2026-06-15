@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Vista la [legge 7 giugno 1934, n. 899](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20034U0899.md), sull'avanzamento degli ufficiali del Regio esercito, e successive modificazioni;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
-Visto il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi per il Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-31;3458), e successive aggiunte e varianti;
+Visto il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi per il Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), e successive aggiunte e varianti;
 
-Visto il [R. decreto 19 aprile 1907, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-04-19;201), che approva il regolamento per le indennita' eventuali del Regio esercito, e successive aggiunte e varianti;
+Visto il [R. decreto 19 aprile 1907, n. 201](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), che approva il regolamento per le indennita' eventuali del Regio esercito, e successive aggiunte e varianti;
 
 Ritenuta la necessita' urgente ed assoluta di regolare il trattamento economico degli ufficiali, mobilitati e dislocati fuori del Regno ed investiti, nelle attuali contingenze, di un comando o della direzione di un ufficio devoluti al grado superiore;
 

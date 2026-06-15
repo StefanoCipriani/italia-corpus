@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 luglio 1926, n. 1644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-29;1644), che reca disposizioni per l'Istituto nazionale per le case degli impiegati dello Stato. 
+ E' convertito in legge il [R. decreto-legge 29 luglio 1926, n. 1644](Disposizioni%20per%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20026U1644.md), che reca disposizioni per l'Istituto nazionale per le case degli impiegati dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

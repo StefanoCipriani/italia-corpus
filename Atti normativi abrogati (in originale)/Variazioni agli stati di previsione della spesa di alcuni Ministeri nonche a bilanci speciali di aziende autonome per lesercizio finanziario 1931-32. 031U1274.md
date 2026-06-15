@@ -42,7 +42,7 @@ Per tutto quanto riguarda la spesa per acquisto, costruzione e arredamento della
 
 ## Art. 5.
 
-Il fondo di L. 2.000.000 inscritto, col [R. decreto 24 settembre 1931, n. 1221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-24;1221), nello stato di previsione della spesa del Ministero dell'educazione nazionale, per l'adattamento del Palazzo Reale di Napoli a residenza delle LL. AA. RR. i Principi di Piemonte, sara' versato all'Alto Commissariato per la citta' e provincia di Napoli, che lo gestira' secondo le norme che regolano il funzionamento dell'Alto Commissariato medesimo.
+Il fondo di L. 2.000.000 inscritto, col [R. decreto 24 settembre 1931, n. 1221](3ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201931-32.%20031U1221.md), nello stato di previsione della spesa del Ministero dell'educazione nazionale, per l'adattamento del Palazzo Reale di Napoli a residenza delle LL. AA. RR. i Principi di Piemonte, sara' versato all'Alto Commissariato per la citta' e provincia di Napoli, che lo gestira' secondo le norme che regolano il funzionamento dell'Alto Commissariato medesimo.
 
 ## Art. 6.
 

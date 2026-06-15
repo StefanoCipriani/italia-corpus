@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Viste le [leggi 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), sulle espropriazioni per causa di pubblica utilita'; 20 giugno 1877, n. 3908, che approvo' il piano regolatore e di ampliamento della citta' di Genova dal lato orientale nella parte piana delle frazioni suburbane; 27 aprile 1916, n. 484, che prorogo' il termine assegnato per le espropriazioni e i lavori; 
+ Viste le [leggi 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sulle espropriazioni per causa di pubblica utilita'; 20 giugno 1877, n. 3908, che approvo' il piano regolatore e di ampliamento della citta' di Genova dal lato orientale nella parte piana delle frazioni suburbane; 27 aprile 1916, n. 484, che prorogo' il termine assegnato per le espropriazioni e i lavori; 
  
  Visto il R. decreto 2 agosto 1912, col quale venne modificato il detto piano; 
  
@@ -54,7 +54,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  E' approvata la nuova variante al piano regolatore delle frazioni suburbane della citta' di Genova, quale risulta dalla planimetria in iscala 1:1000, a firma degli ingegneri Parodi e Oddone, vista, d'ordine Nostro, dal ministro proponente. 
  
- Per l'attuazione dell'opera resta fermo il termine assegnato con le [leggi 20 giugno 1877, n. 3908, e 27 aprile 1916, n. 484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-27;484). 
+ Per l'attuazione dell'opera resta fermo il termine assegnato con le [leggi 20 giugno 1877, n. 3908, e 27 aprile 1916, n. 484](Che%20proroga%20il%20termine%20fissato%20con%20la%20legge%2020%20giugno%201877%20n.%203908%20per%20lesecuzione%20del%20piano%20regolatore%20di%20Genova%20dal%20lato%20orientale%20nella%20parte%20piana%20delle%20frazioni%20suburbane.%20016U0484.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

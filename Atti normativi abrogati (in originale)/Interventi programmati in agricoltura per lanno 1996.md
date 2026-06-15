@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di assicurare al settore agricolo, attualmente in crisi, la possibilita' di utilizzare tempestivamente le risorse finanziarie previste per il 1996, al fine di non interrompere il processo di programmazione nell'ambito delle misure di razionalizzazione della finanza pubblica previste dalla [legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549);
+Ritenuta la straordinaria necessita' ed urgenza di assicurare al settore agricolo, attualmente in crisi, la possibilita' di utilizzare tempestivamente le risorse finanziarie previste per il 1996, al fine di non interrompere il processo di programmazione nell'ambito delle misure di razionalizzazione della finanza pubblica previste dalla [legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 luglio 1996;
 
@@ -24,13 +24,13 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Al fine di dare continuita' all'azione di programmazione per gli interventi pubblici nel settore agricolo e forestale per l'anno 1996, a completamento dello stanziamento di lire 1,130 miliardi, previsto dall'[articolo 3, comma 8, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com8), e' autorizzata la spesa di lire 517 miliardi.
+Al fine di dare continuita' all'azione di programmazione per gli interventi pubblici nel settore agricolo e forestale per l'anno 1996, a completamento dello stanziamento di lire 1,130 miliardi, previsto dall'[articolo 3, comma 8, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), e' autorizzata la spesa di lire 517 miliardi.
 
 2.
 
 La somma di cui al comma 1 e' destinata:
                         a)
-                            per lire 282,050 miliardi alla realizzazione dei programmi di rilevanza nazionale, da svolgersi da parte del Ministero delle risorse agricole, alimentari e forestali, di seguito denominato "Ministero", relativi alle funzioni previste dalla [legge 4 dicembre 1993, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491);
+                            per lire 282,050 miliardi alla realizzazione dei programmi di rilevanza nazionale, da svolgersi da parte del Ministero delle risorse agricole, alimentari e forestali, di seguito denominato "Ministero", relativi alle funzioni previste dalla [legge 4 dicembre 1993, n. 491](Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md);
                         b)
                             per lire 147 miliardi alla realizzazione di programmi interregionali;
                         c)
@@ -38,11 +38,11 @@ La somma di cui al comma 1 e' destinata:
 
 3.
 
-Le somme di cui al comma 2 sono assegnate dal CIPE, entro sessanta giorni dalla data di entrata in vigore del presente decreto, su proposta del Ministro delle risorse agricole, alimentari e forestali, di seguito denominato "Ministro", d'intesa con il Comitato permanente delle politiche agro-alimentari e forestali di cui alla [legge 4 dicembre 1993, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491), di seguito denominato "Comitato permanente".
+Le somme di cui al comma 2 sono assegnate dal CIPE, entro sessanta giorni dalla data di entrata in vigore del presente decreto, su proposta del Ministro delle risorse agricole, alimentari e forestali, di seguito denominato "Ministro", d'intesa con il Comitato permanente delle politiche agro-alimentari e forestali di cui alla [legge 4 dicembre 1993, n. 491](Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md), di seguito denominato "Comitato permanente".
 
 4.
 
-La proposta di assegnazione di cui al comma 3 deve essere corredata anche dall'indicazione delle somme iscritte in bilancio da parte delle singole regioni a statuto ordinario con riferimento ai fondi di cui al comma 8 dell'articolo 3 della citata [legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549).
+La proposta di assegnazione di cui al comma 3 deve essere corredata anche dall'indicazione delle somme iscritte in bilancio da parte delle singole regioni a statuto ordinario con riferimento ai fondi di cui al comma 8 dell'articolo 3 della citata [legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md).
 
 5.
 
@@ -70,7 +70,7 @@ Qualora i programmi di cui al presente articolo riguardino azioni da realizzare 
 
 1.
 
-Al fine di dare attuazione alle disposizioni previste dalla [legge 4 dicembre 1993, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491), entro sessanta giorni dalla data di entrata in vigore del presente decreto, il Ministro, d'intesa con il Comitato permanente, presenta al CIPE un programma per il trasferimento degli impianti di particolare interesse pubblico realizzati ai sensi dell'[articolo 10 della legge 27 ottobre 1966, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-27;910#art_10), e successive modificazioni.
+Al fine di dare attuazione alle disposizioni previste dalla [legge 4 dicembre 1993, n. 491](Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md), entro sessanta giorni dalla data di entrata in vigore del presente decreto, il Ministro, d'intesa con il Comitato permanente, presenta al CIPE un programma per il trasferimento degli impianti di particolare interesse pubblico realizzati ai sensi dell'[articolo 10 della legge 27 ottobre 1966, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-27;910#art_10), e successive modificazioni.
 
 2.
 

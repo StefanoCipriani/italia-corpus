@@ -20,9 +20,9 @@ Visto il [R. decreto-legge 7 dicembre 1936, n. 2081](Nuovo%20assetto%20delle%20l
 
 Visto il [R. decreto-legge 26 dicembre 1936, n. 2164](Norme%20per%20la%20disciplina%20del%20rapporto%20di%20lavoro%20del%20personale%20navigante%20e%20degli%20uffici%20amministrativi%20delle%20Societa%20esercenti%20le%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20036U2164.md), convertito nella [legge 10 giugno 1937, n. 1096](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2026%20dicembre%201936-XV%20n.%202164%20recante%20norme%20per%20la%20disciplina%20del%20rapporto%20di%20lavoro%20del%20personale%20navigante%20e%20degli%20uffici%20amministrativi%20delle_11e9beca3f47.md), recante norme per la disciplina del rapporto di lavoro del personale navigante e degli uffici amministrativi delle Societa' esercenti le linee di navigazione di preminente interesse nazionale;
 
-Visto il [R. decreto 16 settembre 1937, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-09-16;1842), relativo alla sistemazione previdenziale del personale delle Societa' esercenti linee di navigazione di preminente interesse nazionale;
+Visto il [R. decreto 16 settembre 1937, n. 1842](Sistemazione%20previdenziale%20del%20personale%20delle%20Societa%20esercenti%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20037U1842.md), relativo alla sistemazione previdenziale del personale delle Societa' esercenti linee di navigazione di preminente interesse nazionale;
 
-Ritenuta la necessita' assoluta ed urgente di prorogare i termini indicati negli articoli 5, 14 e 15 del predetto [R. decreto 16 settembre 1937, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-09-16;1842);
+Ritenuta la necessita' assoluta ed urgente di prorogare i termini indicati negli articoli 5, 14 e 15 del predetto [R. decreto 16 settembre 1937, n. 1842](Sistemazione%20previdenziale%20del%20personale%20delle%20Societa%20esercenti%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20037U1842.md);
 
 Visto l'[art 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,11 +30,11 @@ Sentito il Consiglio dei Ministri, sulla proposta del Nostro Ministro Segretario
 
 ## Articolo unico.
 
-Il termine indicato nell'ultimo comma dell'[art. 5 del R. decreto 16 settembre 1937, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-09-16;1842#art_5), e' prorogato di sei mesi. 
+Il termine indicato nell'ultimo comma dell'[art. 5 del R. decreto 16 settembre 1937, n. 1842](Sistemazione%20previdenziale%20del%20personale%20delle%20Societa%20esercenti%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20037U1842.md), e' prorogato di sei mesi. 
  
- Il termine del 31 dicembre 1937, indicato nel [primo comma dell'art. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-09-16;1842#art_14-com1) e nel [primo comma dell'art. 15 del R. decreto 16 settembre 1937, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-09-16;1842#art_15-com1), e' prorogato al 30 giugno 1938. 
+ Il termine del 31 dicembre 1937, indicato nel [primo comma dell'art. 14](Sistemazione%20previdenziale%20del%20personale%20delle%20Societa%20esercenti%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20037U1842.md) e nel [primo comma dell'art. 15 del R. decreto 16 settembre 1937, n. 1842](Sistemazione%20previdenziale%20del%20personale%20delle%20Societa%20esercenti%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20037U1842.md), e' prorogato al 30 giugno 1938. 
  
- Il termine indicato nell'ultimo comma dell'[art. 14 del R. decreto 16 settembre 1937, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-09-16;1842#art_14), e' prorogato al 31 luglio 1938. 
+ Il termine indicato nell'ultimo comma dell'[art. 14 del R. decreto 16 settembre 1937, n. 1842](Sistemazione%20previdenziale%20del%20personale%20delle%20Societa%20esercenti%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20037U1842.md), e' prorogato al 31 luglio 1938. 
  
  Il presente decreto, che entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno, sara' presentato al Parlamento per la sua conversione in legge e il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 13 gennaio 1930, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-01-13;20), concernente la iscrizione dei dentisti abilitati in elenchi transitori aggiunti agli albi dei medici, con i seguenti emendamenti: 
+ E' convertito in legge il [R. decreto legge 13 gennaio 1930, n. 20](Iscrizione%20dei%20dentisti%20abilitati%20in%20elenchi%20transitori%20aggiunti%20agli%20albi%20dei%20medici.%20030U0020.md), concernente la iscrizione dei dentisti abilitati in elenchi transitori aggiunti agli albi dei medici, con i seguenti emendamenti: 
  
  1 al comma 3 dell'art. 1, alle parole «Commissione per l'ordine dei medici» sostituire le parole «Consiglio amministrativo dell'ordine dei medici»; 
  

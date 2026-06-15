@@ -20,7 +20,7 @@ Sulla proposta del Ministro dell'industria, del commercio e dell'artigianato e d
 
 ## Art. 1.
 
-Ai fini dell'applicazione dell'[art. 28, secondo comma, della legge 24 giugno 1974, n. 268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-24;268#art_28-com2), e' attribuita nell'anno finanziario 1979 alla regione Sardegna l'ulteriore somma di lire 33.200 milioni, da versare in un'unica soluzione alle societa' Chimica del Tirso S.p.a. e Fibra del Tirso S.p.a., secondo le quote loro spettanti a titolo di contributi deliberati in loro favore ai sensi dell'[art. 30 della legge 11 giugno 1962, n. 588](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-11;588#art_30).
+Ai fini dell'applicazione dell'[art. 28, secondo comma, della legge 24 giugno 1974, n. 268](Rifinanziamento%20integrazione%20e%20modifica%20della%20legge%2011%20giugno%201962%20n.%20588%20piano%20straordinario%20per%20la%20rinascita%20economica%20e%20sociale%20della%20Sardegna%20e%20riforma%20dellassetto%20agropastorale%20in%20Sardegna.md), e' attribuita nell'anno finanziario 1979 alla regione Sardegna l'ulteriore somma di lire 33.200 milioni, da versare in un'unica soluzione alle societa' Chimica del Tirso S.p.a. e Fibra del Tirso S.p.a., secondo le quote loro spettanti a titolo di contributi deliberati in loro favore ai sensi dell'[art. 30 della legge 11 giugno 1962, n. 588](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-11;588#art_30).
 
 ## Art. 2.
 

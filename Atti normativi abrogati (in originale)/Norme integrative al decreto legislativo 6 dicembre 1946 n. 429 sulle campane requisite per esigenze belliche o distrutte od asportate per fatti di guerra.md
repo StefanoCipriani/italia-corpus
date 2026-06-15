@@ -14,7 +14,7 @@ Visto il [decreto legislativo 6 dicembre 1946, n. 429](https://www.normattiva.it
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-Il ripristino delle campane degli edifici di culto raccolte in base al [regio decreto 23 aprile 1942, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-23;505), o distrutte od asportate per fatti considerati di guerra dalle vigenti disposizioni, ed il rimborso delle spese sostenute dagli Enti di culto per la riattivazione delle campane stesse, eseguita prima, della pubblicazione del [decreto legislativo 6 dicembre 1946, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-12-06;429), sono effettuati secondo l'ordine di precedenza risultante da appositi elenchi annuali compilati dalla Pontificia Commissione centrale per l'arte sacra.
+Il ripristino delle campane degli edifici di culto raccolte in base al [regio decreto 23 aprile 1942, n. 505](Raccolta%20di%20campane%20facenti%20parte%20di%20edifici%20per%20il%20culto.%20042U0505.md), o distrutte od asportate per fatti considerati di guerra dalle vigenti disposizioni, ed il rimborso delle spese sostenute dagli Enti di culto per la riattivazione delle campane stesse, eseguita prima, della pubblicazione del [decreto legislativo 6 dicembre 1946, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-12-06;429), sono effettuati secondo l'ordine di precedenza risultante da appositi elenchi annuali compilati dalla Pontificia Commissione centrale per l'arte sacra.
  Le pratiche relative al ripristino e quelle concernenti i rimborsi debbono essere istruite dalle competenti Curie, e con i documenti giustificativi ed il visto degli Ordinari diocesani sono trasmesse, unitamente agli elenchi su indicati, tramite la Pontificia Commissione centrale per l'arte sacra, al Ministero dei trasporti, Servizio approvvigionamenti delle ferrovie dello Stato, che provvede agli adempimenti prescritti dal [decreto legislativo 6 dicembre 1946, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-12-06;429).
  La Pontificia Commissione centrale per l'arte sacra provvede alla rilevazione delle note musicali delle campane non asportate o distrutte, onde determinare la tonalita' da dare alle nuove, ed al collaudo del suono delle nuove campane presso gli stabilimenti delle ditte appaltatrici del lavoro di fusione.
 

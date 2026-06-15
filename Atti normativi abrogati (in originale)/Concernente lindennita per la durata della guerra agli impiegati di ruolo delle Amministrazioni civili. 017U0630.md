@@ -22,7 +22,7 @@ Le indennita' di cui al presente articolo non riguardano il personale appartenen
 
 ## Art. 3.
 
-Agli effetti del presente decreto, i maestri elementari inscritti nei ruoli provinciali ai termini dell'[art 43 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_43), sono equiparati agli impiegati di ruolo dello Stato.
+Agli effetti del presente decreto, i maestri elementari inscritti nei ruoli provinciali ai termini dell'[art 43 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), sono equiparati agli impiegati di ruolo dello Stato.
 
 ## Art. 4.
 

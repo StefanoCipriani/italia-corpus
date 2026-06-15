@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto il Nostro [decreto Luogotenenziale 2 agosto 1915, n. 1428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-02;1428), convertito in [legge 11 luglio 1918, numero 1095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-07-11;1095), col quale fu costituito ed eretto in ente morale l'Istituto di soccorso «Giuseppe Kirner» per gli insegnanti di ruolo delle scuole medie;
+Veduto il Nostro [decreto Luogotenenziale 2 agosto 1915, n. 1428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-02;1428), convertito in [legge 11 luglio 1918, numero 1095](Concernente%20la%20conversione%20del%20decreto%20Luogotenenziale%2012%20agosto%201915%20n.%201428%20relativo%20alla%20costituzione%20in%20ente%20morale%20dellIstituto%20nazionale%20Giuseppe%20Kirner%20in%20Firenze%20di%20soccorso%20agli%20_ceea3974c938.md), col quale fu costituito ed eretto in ente morale l'Istituto di soccorso «Giuseppe Kirner» per gli insegnanti di ruolo delle scuole medie;
 
 Veduto il [decreto Luogotenenziale 27 ottobre 1918, n. 1782](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-27;1782);
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato, per la istruzione pubblica, di 
 
 ## Art. 1.
 
-L'[art. 3 del decreto Luogotenenziale 12 agosto 1915, n. 1428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-12;1428#art_3), convertito in [legge 11 luglio 1918, n. 1095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-07-11;1095), e' modificato con l'aggiunta dopo i comma a) e b) del seguente comma c): 
+L'[art. 3 del decreto Luogotenenziale 12 agosto 1915, n. 1428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-12;1428#art_3), convertito in [legge 11 luglio 1918, n. 1095](Concernente%20la%20conversione%20del%20decreto%20Luogotenenziale%2012%20agosto%201915%20n.%201428%20relativo%20alla%20costituzione%20in%20ente%20morale%20dellIstituto%20nazionale%20Giuseppe%20Kirner%20in%20Firenze%20di%20soccorso%20agli%20_ceea3974c938.md), e' modificato con l'aggiunta dopo i comma a) e b) del seguente comma c): 
  
  «ai soci effettivi ed ai loro congiunti, indicati nel precedente comma b) a cui spetti pensione riconosciuta insufficiente, entro limiti da determinarsi dal regolamento».
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 7 aprile 1927, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-07;544), col quale viene integrato l'allegato A al [R. decreto 21 ottobre 1923, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367), riguardante i diritti della verificazione dei pesi e delle misure. 
+ E' convertito in legge il [R. decreto 7 aprile 1927, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-07;544), col quale viene integrato l'allegato A al [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md), riguardante i diritti della verificazione dei pesi e delle misure. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il decreto 6 settembre 1945 del Ministro per l'agricoltura e per le foreste, sulla disciplina dell'ammasso dell'olio d'oliva nella campagna 1945-46, pubblicato nella Gazzetta Ufficiale n. 108 dell'8 settembre 1945;
 
-Vista la [legge 2 dicembre 1940, n. 1792](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-02;1792);
+Vista la [legge 2 dicembre 1940, n. 1792](Modificazioni%20alle%20disposizioni%20dellammasso%20dellolio%20di%20oliva%20e%20di%20sanse.%20040U1792.md);
 
 Visto il [R. decreto-legge 22 aprile 1943, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-22;245);
 

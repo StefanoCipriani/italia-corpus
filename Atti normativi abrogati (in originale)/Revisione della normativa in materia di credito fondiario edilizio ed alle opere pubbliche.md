@@ -24,7 +24,7 @@ Capo I
 
 1.
 
-Gli istituti e le sezioni di credito fondiario ed edilizio, di seguito indicati complessivamente come "Enti", sono abilitati ad effettuare operazioni di credito fondiario, di credito edilizio e di credito alle opere pubbliche ed impianti di pubblica utilita'. Gli Enti costituiti in forma di societa' per azioni possono essere altresi' abilitati all'esercizio di altri tipi di attivita' creditizia a medio e lungo termine e operano secondo quanto previsto dall'[articolo 18, comma 3, del decreto legislativo 20 novembre 1990, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-11-20;356#art_18-com3).
+Gli istituti e le sezioni di credito fondiario ed edilizio, di seguito indicati complessivamente come "Enti", sono abilitati ad effettuare operazioni di credito fondiario, di credito edilizio e di credito alle opere pubbliche ed impianti di pubblica utilita'. Gli Enti costituiti in forma di societa' per azioni possono essere altresi' abilitati all'esercizio di altri tipi di attivita' creditizia a medio e lungo termine e operano secondo quanto previsto dall'[articolo 18, comma 3, del decreto legislativo 20 novembre 1990, n. 356](../Decreti%20Legislativi/Disposizioni%20per%20la%20ristrutturazione%20e%20per%20la%20disciplina%20del%20gruppo%20creditizio.md).
 
 2.
 
@@ -37,7 +37,7 @@ Tale scopo e' conseguito attraverso operazioni di ristrutturazione di cui all'[a
 
 4.
 
-Ove ne ricorrano i presupposti, si applicano, ad ogni effetto, l'articolo 2, comma 1, l'articolo 3 e l'articolo 7, commi 1, 2, 4 e 5, della citata [legge n. 218 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;218) e i [decreti legislativi 20 novembre 1990, n. 356, e 20 novembre 1990, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-11-20;357).
+Ove ne ricorrano i presupposti, si applicano, ad ogni effetto, l'articolo 2, comma 1, l'articolo 3 e l'articolo 7, commi 1, 2, 4 e 5, della citata [legge n. 218 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;218) e i [decreti legislativi 20 novembre 1990, n. 356, e 20 novembre 1990, n. 357](../Decreti%20Legislativi/Disposizioni%20sulla%20previdenza%20degli%20enti%20pubblici%20creditizi.md).
 
 ### Art. 2.
 
@@ -65,7 +65,7 @@ Gli statuti e le relative modifiche vengono approvati con decreto del Ministro d
 
 3.
 
-Gli statuti degli Enti costituiti in forma di societa' per azioni e le relative modifiche sono approvati dalla Banca d'Italia ai sensi dell'[articolo 28 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_28), convertito, con modificazioni, dalla [legge 7 marzo 1938, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-07;141), e successive modificazioni e integrazioni.
+Gli statuti degli Enti costituiti in forma di societa' per azioni e le relative modifiche sono approvati dalla Banca d'Italia ai sensi dell'[articolo 28 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_28), convertito, con modificazioni, dalla [legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md), e successive modificazioni e integrazioni.
 
 ## OPERAZIONI DI CREDITO FONDIARIO ED ALLE OPERE PUBBLICHE
 
@@ -199,7 +199,7 @@ I mutui di cui al presente articolo possono essere erogati anche col sistema dei
 
 6.
 
-Nel caso che i lavori per i quali e' concesso il mutuo siano ritardati o sospesi, gli Enti, secondo i criteri di cui all'[articolo 8 del regio decreto 23 ottobre 1925, n. 2063](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2063#art_8), possono provvedere alla vendita dell'edificio incompiuto, ovvero curarne il completamento per alienarlo successivamente.
+Nel caso che i lavori per i quali e' concesso il mutuo siano ritardati o sospesi, gli Enti, secondo i criteri di cui all'[articolo 8 del regio decreto 23 ottobre 1925, n. 2063](Autorizzazione%20alla%20Societa%20anonima%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma%20ad%20esercitare%20il%20credito%20edilizio.%20025U2063.md), possono provvedere alla vendita dell'edificio incompiuto, ovvero curarne il completamento per alienarlo successivamente.
 
 ## OPERAZIONI DI CREDITO ALLE OPERE PUBBLICHE
 
@@ -239,7 +239,7 @@ Le operazioni di credito di cui alla presente legge, oltre che con l'impiego dei
 
 2.
 
-Alle emissioni obbligazionarie previste al comma 1 si applicano le disposizioni dell'[articolo 18, comma 4, del decreto legislativo 20 novembre 1990, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-11-20;356#art_18-com4).
+Alle emissioni obbligazionarie previste al comma 1 si applicano le disposizioni dell'[articolo 18, comma 4, del decreto legislativo 20 novembre 1990, n. 356](../Decreti%20Legislativi/Disposizioni%20per%20la%20ristrutturazione%20e%20per%20la%20disciplina%20del%20gruppo%20creditizio.md).
 
 3.
 
@@ -285,7 +285,7 @@ Le quotazioni delle obbligazioni sono effettuate al corso secco.
 
 1.
 
-Le obbligazioni possono essere ricevute in pegno per anticipazione da tutte le aziende di credito di cui all'[articolo 5 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_5), convertito, con modificazioni, dalla [legge 7 marzo 1938, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-07;141), e successive modificazioni e integrazioni, e dai rispettivi istituti centrali di categoria.
+Le obbligazioni possono essere ricevute in pegno per anticipazione da tutte le aziende di credito di cui all'[articolo 5 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_5), convertito, con modificazioni, dalla [legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md), e successive modificazioni e integrazioni, e dai rispettivi istituti centrali di categoria.
 
 2.
 
@@ -348,7 +348,7 @@ Il pagamento ritardato oltre i trenta giorni di almeno due rate consecutive ripe
 
 2.
 
-Nei confronti dei debitori morosi a fronte dei prestiti concessi ai sensi della presente legge, continuano ad applicarsi tutte le disposizioni disciplinanti il procedimento esecutivo di cui ai titoli VII e VIII del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-16;646), e successive modificazioni e integrazioni.
+Nei confronti dei debitori morosi a fronte dei prestiti concessi ai sensi della presente legge, continuano ad applicarsi tutte le disposizioni disciplinanti il procedimento esecutivo di cui ai titoli VII e VIII del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modificazioni e integrazioni.
 
 ### Art. 18.
 
@@ -414,7 +414,7 @@ Per effetto della cessione il credito deve ritenersi come se fosse stato diretta
 
 1.
 
-Anche in deroga a disposizioni di legge, per gli aumenti di capitale e dei fondi di dotazione degli Enti sono necessarie soltanto l'autorizzazione di cui all'[articolo 44 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_44), convertito, con modificazioni, dalla [legge 7 marzo 1938, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-07;141), e successive modificazioni e integrazioni, e l'approvazione di cui all'articolo 3, commi 2 e 3, della presente legge. Resta fermo quanto previsto dall'articolo 4 della tariffa, parte I, allegata al testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131).
+Anche in deroga a disposizioni di legge, per gli aumenti di capitale e dei fondi di dotazione degli Enti sono necessarie soltanto l'autorizzazione di cui all'[articolo 44 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_44), convertito, con modificazioni, dalla [legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md), e successive modificazioni e integrazioni, e l'approvazione di cui all'articolo 3, commi 2 e 3, della presente legge. Resta fermo quanto previsto dall'articolo 4 della tariffa, parte I, allegata al testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md).
 
 ### Art. 23.
 
@@ -508,11 +508,11 @@ Sono abrogati il [primo comma dell'articolo 14](https://www.normattiva.it/uri-re
 
 6.
 
-E' abrogato l'[articolo 56 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_56), convertito, con modificazioni, dalla [legge 7 marzo 1938, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-07;141).
+E' abrogato l'[articolo 56 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_56), convertito, con modificazioni, dalla [legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md).
 
 7.
 
-Agli Enti disciplinati dalla presente legge si applicano le disposizioni contenute nell'[articolo 17 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;601#art_17).
+Agli Enti disciplinati dalla presente legge si applicano le disposizioni contenute nell'[articolo 17 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](../DPR/Disciplina%20delle%20agevolazioni%20tributarie.md).
 
 8.
 

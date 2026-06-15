@@ -24,7 +24,7 @@ Visto l'art. 3, cap. 3, della [legge 1° febbraio 1901, n. 24](Disposizioni%20su
 
 Visto l'art. 34 alleg. B della [legge 30 dicembre 1923, n. 3268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;3268), sul bollo e l'art. 31 della legge tributaria sulle concessioni governative 30 dicembre 1923, n. 3279;
 
-Visto il [R. decreto-legge 26 dicembre 1924, n. 2106](Emissione%20di%20buoni%20postali%20di%20risparmio%20nominativi.%20024U2106.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), che istituisce i buoni postali fruttiferi, nonche' tutte le variazioni e le aggiunte apportatevi dalle leggi e dai Regi decreti successivi;
+Visto il [R. decreto-legge 26 dicembre 1924, n. 2106](Emissione%20di%20buoni%20postali%20di%20risparmio%20nominativi.%20024U2106.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), che istituisce i buoni postali fruttiferi, nonche' tutte le variazioni e le aggiunte apportatevi dalle leggi e dai Regi decreti successivi;
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), che concede al potere esecutivo la facolta' di emanare norme giuridiche;
 

@@ -182,7 +182,7 @@ I castighi, di cui ai numeri 1, 2 e 3 dell'articolo precedente, sono pronunciati
  
  e) Diserzione semplice o interruzione di servizio non autorizzata per piu' di tre giorni; 
  
- d) Gravi mancanze sia alla disciplina, sia al servizio, sia al decoro, salva sempre l'applicazione delle pene maggiori che, pei singoli casi, fossero comminate dalle vigenti leggi o dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) comune. 
+ d) Gravi mancanze sia alla disciplina, sia al servizio, sia al decoro, salva sempre l'applicazione delle pene maggiori che, pei singoli casi, fossero comminate dalle vigenti leggi o dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune. 
  
  Il matrimonio senza permesso e' punito colla espulsione dal corpo, accompagnata dalla perdita del diritto alla pensione.
 
@@ -192,11 +192,11 @@ E' punita col carcere militare:
  
  1° La diserzione qualificata, cioe' con esportazione d'armi da fuoco, od essendo in servizio armato; 
  
- 2° L'insubordinazione con minacce, insulti o vie di fatto, quando queste non costituiscano un reato punibile con pena maggiore dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) comune.
+ 2° L'insubordinazione con minacce, insulti o vie di fatto, quando queste non costituiscano un reato punibile con pena maggiore dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune.
 
 ## Art. 15.
 
-La guardia di finanza che in servizio od occasione del servizio commettera' senza autorizzazione o senza necessita' vie di fatto contro qualsiasi persona, incorrera' nelle pene stabilite dagli [articoli 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_257) e [266 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_266) per l'esercito.
+La guardia di finanza che in servizio od occasione del servizio commettera' senza autorizzazione o senza necessita' vie di fatto contro qualsiasi persona, incorrera' nelle pene stabilite dagli [articoli 257](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [266 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito.
 
 ## Art. 16.
 
@@ -228,7 +228,7 @@ Colla destituzione.
 
 ## Art. 17.
 
-Gli individui della guardia di finanza, che commettano contrabbando o colludano con estranei per frodare la Finanza, o si rendano colpevoli di trafugamento di valori o di generi, appartenenti sia al corpo, sia agli individui, vanno soggetti alle pene comminate dall'[articolo 188 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_188) per l'esercito, o cio' senza pregiudizio delle pene pecuniarie inflitte dalle leggi speciali. 
+Gli individui della guardia di finanza, che commettano contrabbando o colludano con estranei per frodare la Finanza, o si rendano colpevoli di trafugamento di valori o di generi, appartenenti sia al corpo, sia agli individui, vanno soggetti alle pene comminate dall'[articolo 188 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, o cio' senza pregiudizio delle pene pecuniarie inflitte dalle leggi speciali. 
  
  Sono dichiarate applicabili le pene comminate dagli articoli 191, 200 e 202 dello stesso Codice a chi faccia traffico a suo profitto degli stessi generi e valori, a chi abbia ricevuto donativi o rimunerazioni per fare un atto, sebbene giusto, del proprio ufficio, e finalmente a chi sfasi lasciato corrompere per trarre in inganno il Consiglio di disciplina, sia a favore, sia a danno di un imputato, nei casi in cui la pena da infliggersi sia la degradazione o la destituzione.
 

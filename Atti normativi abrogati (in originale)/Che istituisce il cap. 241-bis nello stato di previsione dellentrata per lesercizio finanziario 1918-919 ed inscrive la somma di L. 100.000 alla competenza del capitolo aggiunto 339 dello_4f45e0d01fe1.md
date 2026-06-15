@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nello stato di previsione dell'entrata, per l'esercizio finanziario 1918-919, e' istituito il capitolo n. 241-bis «Somma da ricavarsi mediante accensione di debiti nei modi e nelle forme che il Governo ravvisera' opportuni per far fronte al rimborso dei buoni del tesoro quinquennali di cui alla [legge 21 marzo 1912, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-03-21;191), e RR. decreti 5 aprile e 14 luglio 1912, numeri 292 e 765» collo stanziamento di lire centomila (L. 100.000).
+Nello stato di previsione dell'entrata, per l'esercizio finanziario 1918-919, e' istituito il capitolo n. 241-bis «Somma da ricavarsi mediante accensione di debiti nei modi e nelle forme che il Governo ravvisera' opportuni per far fronte al rimborso dei buoni del tesoro quinquennali di cui alla [legge 21 marzo 1912, n. 191](Con%20la%20quale%20e%20data%20facolta%20al%20ministro%20del%20tesoro%20di%20emettere%20buoni%20del%20tesoro%20quinquennali%20in%20sostituzione%20dei%20titoli%20redimibili%20350%20e%203%20per%20cento%20per%20provvedere%20a%20spese%20per%20le%20ferrovie_231e25d743bc.md), e RR. decreti 5 aprile e 14 luglio 1912, numeri 292 e 765» collo stanziamento di lire centomila (L. 100.000).
 
 ## Art. 2.
 

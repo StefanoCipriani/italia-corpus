@@ -58,7 +58,7 @@ Il Prefetto esercitera' la vigilanza sui costruttori a mezzo dei funzionari ed a
 
 ## Art. 6.
 
-Chiunque contravvenga alle disposizioni dei precedenti articoli 3 e 4 e' punito con la pena dell'ammenda da L. 50 a 300 e con quella preveduta dall'[art. 11, n. 3, Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_11-num3). 
+Chiunque contravvenga alle disposizioni dei precedenti articoli 3 e 4 e' punito con la pena dell'ammenda da L. 50 a 300 e con quella preveduta dall'[art. 11, n. 3, Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  In caso di recidiva la pena dell'ammenda non sara' inferiore alle L. 200 e la durata della pena della sospensione non potra' essere minore di mesi due.
 

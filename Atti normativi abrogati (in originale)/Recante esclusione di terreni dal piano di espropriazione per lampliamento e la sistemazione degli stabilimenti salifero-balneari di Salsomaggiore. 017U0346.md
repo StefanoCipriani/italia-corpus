@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 4 della legge 5 giugno 1913, n. 525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-05;525#art_4);
+Visto l'[art. 4 della legge 5 giugno 1913, n. 525](Che%20porta%20provvedimenti%20per%20il%20riordinamento%20degli%20stabilimenti%20salifero-balneari%20di%20Salsomaggiore.%20013U0525.md);
 
 Visto il R. decreto 30 novembre 1913 col quale sono determinate le zone di terreno e gli altri beni da espropriare per l'ampliamento e la sistemazione degli stabilimenti salifero-balneari di Salsomaggiore;
 
@@ -30,7 +30,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Dal piano di espropriazione dei terreni e degli altri beni destinati all'ampliamento e alla sistemazione degli Stabilimenti salifero-balneari di Salsomaggiore, giusta l'autorizzazione contenuta nell'[art. 4 della legge 5 giugno 1913, n. 525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-05;525#art_4), sono esclusi i terreni e la costruzione designati al numero d'ordine 9 dell'elenco approvato col Decreto Reale 30 novembre 1913.
+Dal piano di espropriazione dei terreni e degli altri beni destinati all'ampliamento e alla sistemazione degli Stabilimenti salifero-balneari di Salsomaggiore, giusta l'autorizzazione contenuta nell'[art. 4 della legge 5 giugno 1913, n. 525](Che%20porta%20provvedimenti%20per%20il%20riordinamento%20degli%20stabilimenti%20salifero-balneari%20di%20Salsomaggiore.%20013U0525.md), sono esclusi i terreni e la costruzione designati al numero d'ordine 9 dell'elenco approvato col Decreto Reale 30 novembre 1913.
 
 ## Art. 2.
 

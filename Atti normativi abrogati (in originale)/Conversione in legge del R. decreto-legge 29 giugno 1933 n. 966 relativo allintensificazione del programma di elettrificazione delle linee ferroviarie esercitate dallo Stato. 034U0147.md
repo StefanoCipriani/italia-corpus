@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 giugno 1933, n. 966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-29;966), riguardante la intensificazione del programma di elettrificazione delle linee ferroviarie esercitate dallo Stato. 
+ E' convertito in legge il [R. decreto-legge 29 giugno 1933, n. 966](Intensificazione%20del%20programma%20di%20elettrificazione%20delle%20linee%20ferroviarie%20esercitate%20dallo%20Stato.%20033U0966.md), riguardante la intensificazione del programma di elettrificazione delle linee ferroviarie esercitate dallo Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

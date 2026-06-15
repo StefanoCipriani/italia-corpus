@@ -22,9 +22,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto l'art. 4 del decreto-legge Luogotenenziale 8 dicembre 1918, n, 2001 col quale e' fondato in Lucca un R. Istituto nazionale per le educatrici italiane;
 
-Visto il regolamento approvato con decreto Reale 22 giugno 1913, n. 1014, in applicazione della [legge 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854);
+Visto il regolamento approvato con decreto Reale 22 giugno 1913, n. 1014, in applicazione della [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md);
 
-Visto il regolamento approvato con [decreto Luogotenenziale 6 marzo 1919, n. 682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-06;682) in applicazione del [decreto-legge Luogotenenziale 10 maggio 1917, n. 896](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-05-10;896);
+Visto il regolamento approvato con [decreto Luogotenenziale 6 marzo 1919, n. 682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-06;682) in applicazione del [decreto-legge Luogotenenziale 10 maggio 1917, n. 896](Concernente%20provvedimenti%20a%20favore%20dellistruzione%20professionale.%20017U0896.md);
 
 Viste le deliberazioni:
 
@@ -123,7 +123,7 @@ Con il regolamento interno saranno stabilite le norme relative alle attribuzioni
 
 ## Art. 11.
 
-Per ogni altra disposizione, non prevista dall'[art. 5 del decreto-legge Luogotenenziale 8 dicembre 1908, n. 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1908-12-08;2001#art_5), e dal presente decreto valgano le norme stabilite dal regolamento approvato con [R. decreto 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1014) nonche' quelle del regolamento approvato con [decreto Luogotenenziale 6 marzo 1919, n. 682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-06;682). 
+Per ogni altra disposizione, non prevista dall'[art. 5 del decreto-legge Luogotenenziale 8 dicembre 1908, n. 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1908-12-08;2001#art_5), e dal presente decreto valgano le norme stabilite dal regolamento approvato con [R. decreto 22 giugno 1913, n. 1014](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sullistruzione%20professionale%20scuole%20industriali%20e%20commerciali.%20013U1014.md) nonche' quelle del regolamento approvato con [decreto Luogotenenziale 6 marzo 1919, n. 682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-06;682). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

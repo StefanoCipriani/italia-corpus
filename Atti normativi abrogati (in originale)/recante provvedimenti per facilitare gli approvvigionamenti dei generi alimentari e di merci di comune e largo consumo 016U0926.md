@@ -60,7 +60,7 @@ La Commissione centrale degli approvvigionamenti, di cui all'art. 2, e' presiedu
 
 Presso il Ministero di agricoltura sara' organizzato il «Servizio temporaneo degli approvvigionamenti» al quale saranno anche trasferite le attribuzioni dell'attuale Ufficio temporaneo per l'approvvigionamento del grano. 
  
- Il personale del detto servizio sara' costituito da funzionari dello Stato, in attivita' di servizio, o a riposo, da ufficiali e militari dichiarati non idonei alle fatiche di guerra, da ufficiali di corpi non combattenti e da cittadini esperti, nominati per la durata della guerra, i quali assumono i doveri e le responsabilita' dei pubblici funzionari, e sono considerati tali ad ogni effetto di legge. Le nomine delle persone estranee all'Amministrazione, nei limiti del bisogno del servizio, saranno fatte con le norme della [legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182), concernente l'assunzione in servizio di impiegati avventizi.
+ Il personale del detto servizio sara' costituito da funzionari dello Stato, in attivita' di servizio, o a riposo, da ufficiali e militari dichiarati non idonei alle fatiche di guerra, da ufficiali di corpi non combattenti e da cittadini esperti, nominati per la durata della guerra, i quali assumono i doveri e le responsabilita' dei pubblici funzionari, e sono considerati tali ad ogni effetto di legge. Le nomine delle persone estranee all'Amministrazione, nei limiti del bisogno del servizio, saranno fatte con le norme della [legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md), concernente l'assunzione in servizio di impiegati avventizi.
 
 ## Art. 5.
 
@@ -102,7 +102,7 @@ Gli approvvigionamenti all'estero di grano, avena, farina, carne congelata, buoi
 
 ## Art. 10.
 
-Chiunque accaparri derrate o merci sottraendole al consumo al fine di provocare artificiosamente l'aumento dei prezzi, e' punito a norma dell'[art. 293 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_293).
+Chiunque accaparri derrate o merci sottraendole al consumo al fine di provocare artificiosamente l'aumento dei prezzi, e' punito a norma dell'[art. 293 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 11.
 

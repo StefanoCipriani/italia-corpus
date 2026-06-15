@@ -30,7 +30,7 @@ Fino a nuova disposizione l'ufficio del casellario centrale del Ministero della 
 
 ## Art. 2.
 
-Le norme contenute nel [R. decreto 17 luglio 1919, n. 1244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-17;1244), per la ricostituzione di alcuni casellari giudiziali del Veneto sono estese al casellario giudiziale di Palmi. 
+Le norme contenute nel [R. decreto 17 luglio 1919, n. 1244](Riguardante%20la%20ricostituzione%20dei%20casellari%20giudiziali%20dei%20tribunali%20di%20Belluno%20Conegliano%20Pordenone%20Tolmezzo%20e%20Udine.%20019U1244.md), per la ricostituzione di alcuni casellari giudiziali del Veneto sono estese al casellario giudiziale di Palmi. 
  
  Il Ministro proponente e' autorizzato a dare tutte le altre disposizioni occorrenti per l'applicazione del presente decreto che entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e verra' presentato al Parlamento per essere convertito in legge. 
  

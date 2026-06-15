@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito la legge il [R. decreto-legge 12 maggio 1927, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-12;797), che eleva la misura dell'aggio concesso ai rivenditori sullo smercio dei tabacchi lavorati esteri. 
+ E' convertito la legge il [R. decreto-legge 12 maggio 1927, n. 797](Aumento%20dellaggio%20di%20vendita%20sui%20tabacchi%20esteri.%20027U0797.md), che eleva la misura dell'aggio concesso ai rivenditori sullo smercio dei tabacchi lavorati esteri. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

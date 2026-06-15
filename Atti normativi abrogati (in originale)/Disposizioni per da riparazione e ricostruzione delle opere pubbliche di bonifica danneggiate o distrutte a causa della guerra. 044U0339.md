@@ -18,7 +18,7 @@ Il Ministro' per l'agricoltura e le foreste e' autorizzato, fino a sei mesi dopo
 
 ## Art. 2.
 
-I progetti delle opere di cui al precedente articolo' saranno sottoposti all'esame e parere preventivo degli Uffici del Genio civile e, quando trattasi di progetti di importo superiore alle L. 300.000; all'esame e parere preventivo del Comitato tecnico provinciale per la bonifica integrale, istituito con'l'[art. 6 del R. decreto-legge 18 novembre 1929, n. 2071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-18;2071#art_6). 
+I progetti delle opere di cui al precedente articolo' saranno sottoposti all'esame e parere preventivo degli Uffici del Genio civile e, quando trattasi di progetti di importo superiore alle L. 300.000; all'esame e parere preventivo del Comitato tecnico provinciale per la bonifica integrale, istituito con'l'[art. 6 del R. decreto-legge 18 novembre 1929, n. 2071](Provvedimenti%20per%20la%20bonifica%20integrale%20e%20per%20i%20servizi%20agrari%20e%20forestali.%20029U2071.md). 
  
  Inoltre, sia per l'appalto di opere in gestione diretta dello Stato, sia per l'appalto di opere concesse e regolate con il sistema del consuntivo, si potra' far ricorso alla trattativa privata soltanto in casi previsti dall'art. 41 del regolamento di contabilita' generale dello Stato.
 

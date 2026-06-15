@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 ottobre 1927, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-19;1923), che reca disposizioni per la raccolta di dati statistici sulla produzione mineralurgica e metallurgica. 
+ E' convertito in legge il [R. decreto-legge 19 ottobre 1927, n. 1923](Disposizioni%20per%20la%20raccolta%20di%20dati%20statistici%20sulla%20produzione%20mineralurgica%20e%20metallurgica.%20027U1923.md), che reca disposizioni per la raccolta di dati statistici sulla produzione mineralurgica e metallurgica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

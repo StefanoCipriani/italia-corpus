@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 2 ottobre 1940, n. 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-02;1416);
+Vista la [legge 2 ottobre 1940, n. 1416](Organizzazione%20dei%20servizi%20antincendi%20durante%20lattuale%20stato%20di%20guerra.%20040U1416.md);
 
-Vista la [legge 19 gennaio 1942, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;101);
+Vista la [legge 19 gennaio 1942, n. 101](Modificazioni%20alla%20legge%202%20ottobre%201940-XVIII%20n.%201416%20concernente%20lorganizzazione%20dei%20servizi%20antincendi%20durante%20lattuale%20stato%20di%20guerra.%20042U0101.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per l'interno, di concerto col Ministro per il tesor
 
 ## Articolo unico.
 
-L'[art. 7 della legge 2 ottobre 1940, n. 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-02;1416#art_7), modificato dall'[art. 3 della legge 19 gennaio 1942, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;101#art_3), e' sostituito dal seguente: 
+L'[art. 7 della legge 2 ottobre 1940, n. 1416](Organizzazione%20dei%20servizi%20antincendi%20durante%20lattuale%20stato%20di%20guerra.%20040U1416.md), modificato dall'[art. 3 della legge 19 gennaio 1942, n. 101](Modificazioni%20alla%20legge%202%20ottobre%201940-XVIII%20n.%201416%20concernente%20lorganizzazione%20dei%20servizi%20antincendi%20durante%20lattuale%20stato%20di%20guerra.%20042U0101.md), e' sostituito dal seguente: 
  «Per i fini di cui agli articoli 4, 5 e 6 della presente legge, il Ministero dell'interno corrispondera' alla Cassa sovvenzioni antincendi i seguenti fondi: 
 a) L. 130.000.000 una volta tanto per le spese di cui all'art. 6; 
  b) L. 1.085.350 al mese dal 1° aprile 1941 al 30 giugno 1941; L. 1.228.730 al mese dal 1° luglio 1941 al 31 ottobre 1941; L. 1.312.610 al mese dal 1° novembre 1941 al 31 ottobre 1942; L. 2.853.857 al mese dal 1° novembre 1942 al 31 ottobre 1943; L. 3.906.267 al mese dal 1° novembre 1943 al 15 agosto 1944; L. 4.901.212 al mese dal 16 agosto 1944 in poi per ogni mille uomini richiamati in servizio durante l'intero mese ai sensi dell'art. 1, per le spese inerenti agli articoli 4 e 5 e per la manutenzione dei materiali di cui all'art. 6; 

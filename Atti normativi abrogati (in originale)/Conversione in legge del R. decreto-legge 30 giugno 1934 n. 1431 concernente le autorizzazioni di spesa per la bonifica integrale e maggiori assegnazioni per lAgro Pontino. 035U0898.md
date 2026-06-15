@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 giugno 1934, n. 1431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-06-30;1431), concernente le autorizzazioni di spesa per la bonifica integrale e maggiori assegnazioni per l'Agro Pontino. 
+ E' convertito in legge il [R. decreto-legge 30 giugno 1934, n. 1431](Autorizzazioni%20di%20spesa%20per%20la%20bonifica%20integrale%20e%20maggiori%20Assegnazioni%20per%20lAgro%20Pontino.%20034U1431.md), concernente le autorizzazioni di spesa per la bonifica integrale e maggiori assegnazioni per l'Agro Pontino. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

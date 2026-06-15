@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 gennaio 1934, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-15;22), che riduce la tassa di vendita dei residui della distillazione degli oli minerali aventi determinate caratteristiche da usare direttamente come combustibile nelle caldaie e nei forni. 
+ E' convertito in legge il [R. decreto-legge 15 gennaio 1934, n. 22](Riduzione%20della%20tassa%20di%20vendita%20sui%20residui%20della%20distillazione%20degli%20oli%20minerali%20aventi%20determinate%20caratteristiche%20da%20usare%20direttamente%20come%20combustibile%20nelle%20caldaie%20e%20nei%20forni.%20034U0022.md), che riduce la tassa di vendita dei residui della distillazione degli oli minerali aventi determinate caratteristiche da usare direttamente come combustibile nelle caldaie e nei forni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

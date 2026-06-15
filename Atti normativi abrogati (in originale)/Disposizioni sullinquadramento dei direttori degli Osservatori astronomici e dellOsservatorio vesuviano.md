@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 7 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_7), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
+Visto l'[art. 7 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
 
-Udito il parere della Commissione parlamentare di cui dall'[art. 3 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_3);
+Udito il parere della Commissione parlamentare di cui dall'[art. 3 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -33,7 +33,7 @@ Le funzioni di direttore dell'Osservatorio vesuviano sono devolute al professore
 
 ## Art. 3.
 
-Sono soppressi i cinque posti di ruolo di direttore degli Osservatori astronomici ed il posto di ruolo di direttore dell'Osservatorio vesuviano, di cui alla tabella A della [legge 8 agosto 1942, n. 1145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-08-08;1145), modificata dal [decreto legislativo 16 aprile 1948, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-16;481).
+Sono soppressi i cinque posti di ruolo di direttore degli Osservatori astronomici ed il posto di ruolo di direttore dell'Osservatorio vesuviano, di cui alla tabella A della [legge 8 agosto 1942, n. 1145](Riordinamento%20dei%20Regi%20osservatori%20astronomici.%20042U1145.md), modificata dal [decreto legislativo 16 aprile 1948, n. 481](../Decreti%20Legislativi/Aggregazione%20dellOsservatorio%20astronomico%20di%20Roma%20Monte%20Porzio%20allOsservatorio%20astronomico%20di%20Roma%20Monte%20Mario.md).
  I direttori di ruolo degli Osservatori astronomici in servizio alla data di entrata in vigore del presente decreto sono inquadrati ai posti di nuova istituzione previsti al secondo comma del precedente art. 1 nello organico dei professori di ruolo della Facolta' di scienze matematiche, fisiche e naturali della rispettiva sede, con il grado rivestito e con la anzianita' acquisita nel grado stesso.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 novembre 1927, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-17;2207), che reca le nuove norme per il miglioramento e lo sviluppo del servizio delle radioaudizioni circolari. 
+ E' convertito in legge il [R. decreto-legge 17 novembre 1927, n. 2207](Nuove%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20delle%20radioaudizioni%20circolari.%20027U2207.md), che reca le nuove norme per il miglioramento e lo sviluppo del servizio delle radioaudizioni circolari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

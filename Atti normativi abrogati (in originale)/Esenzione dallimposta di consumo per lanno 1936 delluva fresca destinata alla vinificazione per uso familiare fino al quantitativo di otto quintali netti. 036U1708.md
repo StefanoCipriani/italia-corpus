@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico di legge per la finanza locale, approvato col [R. decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175)
+Visto il testo unico di legge per la finanza locale, approvato col [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md)
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-E' esente dall'imposta di consumo di cui all'art. 96 del testo unico per la finanza locale, approvato col [R. decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), limitatamente al raccolto del corrente anno 1936, l'uva fresca destinata alla vinificazione fino al quantitativo di 8 quintali netti per uso familiare del produttore al quale non competa la esenzione di cui all'art. 30, n. 2, del predetto testo unico, ovvero venduta o ceduta a qualsiasi titolo ai consumatori, capi di famiglia, che siano diretti coltivatori agricoli. 
+E' esente dall'imposta di consumo di cui all'art. 96 del testo unico per la finanza locale, approvato col [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), limitatamente al raccolto del corrente anno 1936, l'uva fresca destinata alla vinificazione fino al quantitativo di 8 quintali netti per uso familiare del produttore al quale non competa la esenzione di cui all'art. 30, n. 2, del predetto testo unico, ovvero venduta o ceduta a qualsiasi titolo ai consumatori, capi di famiglia, che siano diretti coltivatori agricoli. 
  
  Ogni famiglia puo' usufruire di tale esenzione una sola volta nell'anno.
 

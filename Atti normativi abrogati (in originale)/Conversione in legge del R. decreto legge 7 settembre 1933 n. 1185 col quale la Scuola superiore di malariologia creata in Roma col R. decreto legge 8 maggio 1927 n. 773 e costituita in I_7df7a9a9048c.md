@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 settembre 1933, n. 1185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-07;1185), col quale la Scuola superiore di malariologia, creata in Roma col R. decreto-legge 8 maggio 1027, n. 773, e' costituita in Istituto di malariologia. 
+ E' convertito in legge il [R. decreto-legge 7 settembre 1933, n. 1185](Trasformazione%20della%20Scuola%20superiore%20di%20malariologia%20in%20Roma%20in%20Istituto%20di%20malariologia.%20033U1185.md), col quale la Scuola superiore di malariologia, creata in Roma col R. decreto-legge 8 maggio 1027, n. 773, e' costituita in Istituto di malariologia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

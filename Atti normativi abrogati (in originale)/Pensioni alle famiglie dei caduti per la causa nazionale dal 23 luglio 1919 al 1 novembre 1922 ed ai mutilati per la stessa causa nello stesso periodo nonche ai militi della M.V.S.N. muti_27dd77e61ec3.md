@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Le disposizioni del [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491), e del [R. decreto-legge 28 agosto 1924, n. 1383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-08-28;1383), che regolano la concessione delle pensioni e degli assegni privilegiati di guerra sono interamente estese ai cittadini i quali dal 23 luglio 1919 al 31 ottobre 1922 in occasione di tumulti, di disordini, di conflitti, di aggressioni, agendo immediatamente o mediatamente per fine nazionale, abbiano riportato un danno nel corpo o nella salute da cui sia derivata perdita o menomazione della capacita' lavorativa ed alle loro famiglie quando ne sia derivata la morte. 
+Le disposizioni del [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e del [R. decreto-legge 28 agosto 1924, n. 1383](Norme%20transitorie%20per%20lattuazione%20della%20riforma%20tecnico-giuridica%20delle%20pensioni%20di%20guerra%20approvata%20col%20R.%20decreto%2012%20luglio%201923%20n.%201491.%20024U1383.md), che regolano la concessione delle pensioni e degli assegni privilegiati di guerra sono interamente estese ai cittadini i quali dal 23 luglio 1919 al 31 ottobre 1922 in occasione di tumulti, di disordini, di conflitti, di aggressioni, agendo immediatamente o mediatamente per fine nazionale, abbiano riportato un danno nel corpo o nella salute da cui sia derivata perdita o menomazione della capacita' lavorativa ed alle loro famiglie quando ne sia derivata la morte. 
  
  Le pensioni e gli assegni privilegiati decorrono dalla data dell'evento e devono liquidarsi in base al grado che il caduto o l'invalido rivestiva nel Regio esercito, nella Regia marina, nella Regia aeronautica, e nei corpi o servizi ausiliari, od in base al grado equivalente che egli rivestiva nell'Amministrazione civile dello Stato; in ogni altro caso in base al grado di soldato. 
  
- Per il periodo che precede la data del 1° luglio 1923, le pensioni e gli assegni privilegiati di guerra saranno liquidate nella misura stabilita dalle disposizioni anteriori al [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491). 
+ Per il periodo che precede la data del 1° luglio 1923, le pensioni e gli assegni privilegiati di guerra saranno liquidate nella misura stabilita dalle disposizioni anteriori al [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
  
  I militari in servizio attivo o richiamati alle armi, i funzionari ed agenti dello Stato e degli Enti pubblici e le loro famiglie, che si trovino nelle condizioni previste da questo articolo, hanno diritto di optare o per il trattamento concesso dalle leggi sulle pensioni normali o per quello stabilito dalla presente legge.
 
@@ -30,7 +30,7 @@ La domanda per la liquidazione delle pensioni o degli assegni privilegiati deve 
 
 ## Art. 4.
 
-Il Governo del Re provvedera' a coordinare mediante decreto Reale le disposizioni della presente legge con quelle contenute nel [R. decreto-legge 31 ottobre 1923, n. 2414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-10-31;2414), convertito in legge con la legge 17 aprile 1924 che autorizza il Comando generale della Milizia volontaria per la sicurezza nazionale a stipulare un contratto di assicurazione cumulativo a favore degli appartenenti alla Milizia.
+Il Governo del Re provvedera' a coordinare mediante decreto Reale le disposizioni della presente legge con quelle contenute nel [R. decreto-legge 31 ottobre 1923, n. 2414](Autorizzazione%20al%20Comando%20generale%20della%20M.%20V.%20S.%20N.%20di%20stipulare%20un%20contratto%20di%20assicurazione%20cumulativa%20a%20beneficio%20dei%20componenti%20la%20milizia.%20023U2414.md), convertito in legge con la legge 17 aprile 1924 che autorizza il Comando generale della Milizia volontaria per la sicurezza nazionale a stipulare un contratto di assicurazione cumulativo a favore degli appartenenti alla Milizia.
 
 ## Art. 5.
 

@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Ritenuta la necessita' di aumentare il fondo di riserva per le spese obbligatorie e d'ordine inscritto nello stato di previsione del Ministero del tesoro per il corrente esercizio finanziario, a cagione di eccezionali prelevazioni effettuate, specie per spese di telegrammi all'estero e di recapito di telegrammi all'interno;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Sentito il Consiglio dei ministri;
 

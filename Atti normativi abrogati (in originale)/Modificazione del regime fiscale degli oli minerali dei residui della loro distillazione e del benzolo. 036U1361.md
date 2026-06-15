@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la tariffa generale dei dazi doganali approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni;
+Vista la tariffa generale dei dazi doganali approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni;
 
 Visto il [R. decreto 15 settembre 1915, n. 1373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-09-15;1373), e successive modificazioni;
 
@@ -87,7 +87,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, di conc
 
 - All'[art. 7 del R. decreto-legge 17 ottobre 1935, n. 1963](Istituzione%20di%20una%20tassa%20di%20vendita%20sul%20benzolo.%20035U1963.md), convertito nella [legge 17 febbraio 1936, n. 335](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20ottobre%201935-XIII%20n.%201963%20che%20istituisce%20una%20tassa%20di%20vendita%20sul%20benzolo.%20036U0335.md), e' sostituito il seguente: 
  
- «Sono abrogati il secondo ed il terzo comma dell'art. 6 del decreto Ministeriale 14 ottobre 1924 concernente l'applicazione del [R. decreto-legge 4 maggio 1924, n. 748](Modificazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202553%20riguardante%20il%20regime%20doganale%20degli%20oli%20minerali%20e%20dei%20residui%20della%20distillazione%20degli%20oli%20minerali.%20024U0748.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473). 
+ «Sono abrogati il secondo ed il terzo comma dell'art. 6 del decreto Ministeriale 14 ottobre 1924 concernente l'applicazione del [R. decreto-legge 4 maggio 1924, n. 748](Modificazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202553%20riguardante%20il%20regime%20doganale%20degli%20oli%20minerali%20e%20dei%20residui%20della%20distillazione%20degli%20oli%20minerali.%20024U0748.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md). 
  
  «Resta fermo in ogni caso l'obbligo del pagamento della maggiore tassa di vendita sugli oli minerali o sugli oli derivati da carbone fossile miscelati con prodotti maggiormente gravati da tributo in base agli accertamenti effettuati dagli agenti della Finanza fino al 23 novembre 1935».
 

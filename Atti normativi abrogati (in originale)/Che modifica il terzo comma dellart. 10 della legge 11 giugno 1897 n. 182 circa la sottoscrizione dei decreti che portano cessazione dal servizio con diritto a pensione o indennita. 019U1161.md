@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182);
+Vista la [legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro; Abbiamo decretato
 
 ## Art. 1.
 
-Al [terzo comma dell'art. 10 della legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182#art_10-com3) e' sostituito il seguente 
+Al [terzo comma dell'art. 10 della legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md) e' sostituito il seguente 
  
  «Ogni decreto che porti cessazione dal servizio con diritto a trattamento di pensione o d'indennita', dovra' recare, oltre la firma del ministro competente, anche quella del ministro o del sottosegretario di Stato per il tesoro».
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto 30 novembre 1902, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-11-30;521), sono apportate le seguenti modificazioni: 
+Al testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto 30 novembre 1902, n. 521](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali.%20002U0521.md), sono apportate le seguenti modificazioni: 
  
  Art. 4. - Il secondo comma e' sostituito dal seguente: 
  

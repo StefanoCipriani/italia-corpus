@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 16 agosto 1926, n. 1387](Divieto%20di%20assunzione%20
 
 tristo l'[art. 10 della legge 20 gennaio 1880, n. 5253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1880-01-20;5253#art_10);
 
-Vista la [legge 11 giugno 1925, n. 998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-06-11;998) ;
+Vista la [legge 11 giugno 1925, n. 998](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20luglio%201923%20n.%201717%20per%20la%20riforma%20delle%20vigenti%20disposizioni%20sulla%20affrancazione%20dei%20canoni%20censi%20ed%20altre%20prestazioni%20perpetue.%20025U0998.md) ;
 
 Sentito il Consiglio dei Ministri;
 
@@ -28,9 +28,9 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia 
 
 ## Art. 1.
 
-Il Fondo di beneficenza e religione per la citta' di Roma e' autorizzato ad alienare a favore del Fondo per il culto le prestazioni perpetue affrancabili ai sensi dell'[art. 1 della legge 11 giugno 1925, n. 998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-06-11;998#art_1). 
+Il Fondo di beneficenza e religione per la citta' di Roma e' autorizzato ad alienare a favore del Fondo per il culto le prestazioni perpetue affrancabili ai sensi dell'[art. 1 della legge 11 giugno 1925, n. 998](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20luglio%201923%20n.%201717%20per%20la%20riforma%20delle%20vigenti%20disposizioni%20sulla%20affrancazione%20dei%20canoni%20censi%20ed%20altre%20prestazioni%20perpetue.%20025U0998.md). 
  
- Il prezzo di acquisto sara' determinato dal prezzo di affrancazione secondo gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-06-11;998#art_3), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-06-11;998#art_8), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-06-11;998#art_10) e [11 della legge 11 giugno 1925, n. 998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-06-11;998#art_11), e [art. 7 del R. decreto 7 febbraio 1926, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-02-07;426#art_7).
+ Il prezzo di acquisto sara' determinato dal prezzo di affrancazione secondo gli [articoli 3](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20luglio%201923%20n.%201717%20per%20la%20riforma%20delle%20vigenti%20disposizioni%20sulla%20affrancazione%20dei%20canoni%20censi%20ed%20altre%20prestazioni%20perpetue.%20025U0998.md), [8](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20luglio%201923%20n.%201717%20per%20la%20riforma%20delle%20vigenti%20disposizioni%20sulla%20affrancazione%20dei%20canoni%20censi%20ed%20altre%20prestazioni%20perpetue.%20025U0998.md), [10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20luglio%201923%20n.%201717%20per%20la%20riforma%20delle%20vigenti%20disposizioni%20sulla%20affrancazione%20dei%20canoni%20censi%20ed%20altre%20prestazioni%20perpetue.%20025U0998.md) e [11 della legge 11 giugno 1925, n. 998](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20luglio%201923%20n.%201717%20per%20la%20riforma%20delle%20vigenti%20disposizioni%20sulla%20affrancazione%20dei%20canoni%20censi%20ed%20altre%20prestazioni%20perpetue.%20025U0998.md), e [art. 7 del R. decreto 7 febbraio 1926, n. 426](Disposizioni%20transitorie%20e%20di%20attuazione%20alla%20legge%2011%20giugno%201925%20n.%20998%20per%20la%20riforma%20delle%20vigenti%20disposizioni%20sulla%20affrancazione%20dei%20canoni%20censi%20ed%20altre%20prestazioni%20perpetue.%20026U0426.md).
 
 ## Art. 2.
 

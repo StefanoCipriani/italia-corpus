@@ -16,13 +16,13 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico sull'ordinamento del Corpo Reale Equipaggi Marittimi e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914), e successive modificazioni;
+Visto il testo unico sull'ordinamento del Corpo Reale Equipaggi Marittimi e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
 
 Visto il regolamento di disciplina per i Corpi militari della Regia marina, approvato con R. decreto 13 novembre 1924, e successive modificazioni;
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per la marina, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-L'art. 89 del testo unico sull'ordinamento del Corpo Reale Equipaggi Marittimi e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914), e successive modificazioni, e' abrogato e sostituito dal seguente: 
+L'art. 89 del testo unico sull'ordinamento del Corpo Reale Equipaggi Marittimi e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, e' abrogato e sostituito dal seguente: 
  
 «Art. 89. - La sospensione dall'impiego puo' avere carattere precauzionale, disciplinare o penale. 
  
@@ -59,7 +59,7 @@ Il sottufficiale sospeso dall'impiego ha diritto alla meta' del solo stipendio o
 
 ## Art. 2.
 
-Dopo l'art. 89 del testo unico sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914), e successive modificazioni, e' aggiunto il seguente: 
+Dopo l'art. 89 del testo unico sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, e' aggiunto il seguente: 
  
 «Art. 89-bis - Ai sottufficiali volontari, di leva e del congedo puo' essere inflitta la sospensione dal grado, la quale e' regolata dalle stesse norme, in quanto applicabili, stabilite nel precedente art. 89 per la sospensione dall'impiego. 
  

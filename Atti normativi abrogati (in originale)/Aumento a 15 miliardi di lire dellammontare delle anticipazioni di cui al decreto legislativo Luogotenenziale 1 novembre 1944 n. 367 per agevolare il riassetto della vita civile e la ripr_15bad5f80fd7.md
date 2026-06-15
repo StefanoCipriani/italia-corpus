@@ -20,9 +20,9 @@ Visto il [decreto legislativo Luogotenenziale 1° novembre 1944, n. 367](Provvid
 
 Visto il [decreto legislativo Luogotenenziale 15 novembre 1944, n. 397](Concessione%20di%20anticipazioni%20alle%20imprese%20elettriche.%20044U0397.md), sulla concessione di anticipazioni alle imprese elettriche;
 
-Visto il [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;416), recante provvedimenti regionali per la Sicilia;
+Visto il [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md), recante provvedimenti regionali per la Sicilia;
 
-Visto il [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;417), recante provvedimenti regionali per la Sardegna;
+Visto il [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md), recante provvedimenti regionali per la Sardegna;
 
 Visto il [decreto legislativo Luogotenenziale 7 giugno 1945, n. 313](Variazioni%20alle%20provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione%20di%20cui%20al%20decreto%20legislativo%20Luogotenenziale%201%20novembre%201944%20n.%20367.%20045U0313.md), recante modifiche al [decreto legislativo Luogotenenziale 1° novembre 1944, n. 367](Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md);
 

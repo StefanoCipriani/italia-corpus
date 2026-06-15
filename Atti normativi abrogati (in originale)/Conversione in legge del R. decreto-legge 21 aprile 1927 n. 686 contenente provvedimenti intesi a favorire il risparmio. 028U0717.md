@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 aprile 1927, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-21;686), contenente provvedimenti per favorire il risparmio postale. 
+ E' convertito in legge il [R. decreto-legge 21 aprile 1927, n. 686](Aumento%20del%20saggio%20di%20interesse%20per%20i%20depositi%20provenienti%20dallestero%20sui%20libretti%20nominativi%20delle%20Casse%20di%20risparmio%20postali%20e%20premi%20ai%20ricevitori%20del%20risparmio%20postale.%20027U0686.md), contenente provvedimenti per favorire il risparmio postale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

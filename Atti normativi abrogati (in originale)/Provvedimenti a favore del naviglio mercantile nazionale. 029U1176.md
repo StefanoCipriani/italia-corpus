@@ -14,7 +14,7 @@ Sono concessi agli armatori nazionali, per l'armamento di nuove navi mercantili,
 
 ## Art. 2.
 
-Il compenso di armamento di ogni nave e' commisurato, secondo le percentuali indicate nella seguente tabella, alla velocita' della nave ed ai compensi di costruzione che in applicazione al [R. decreto-legge 16 maggio 1926, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;865), convertito nella [legge 18 dicembre 1927, n. 2794](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-18;2794), dovrebbero corrispondersi per la costruzione in Italia di tutte le parti della nave stessa. 
+Il compenso di armamento di ogni nave e' commisurato, secondo le percentuali indicate nella seguente tabella, alla velocita' della nave ed ai compensi di costruzione che in applicazione al [R. decreto-legge 16 maggio 1926, n. 865](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20026U0865.md), convertito nella [legge 18 dicembre 1927, n. 2794](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-18;2794), dovrebbero corrispondersi per la costruzione in Italia di tutte le parti della nave stessa. 
  
 
 Velocita' miglia Compenso
@@ -49,11 +49,11 @@ La velocita' della nave considerata nella tabella dell'articolo precedente e' qu
 
 ## Art. 4.
 
-Per le navi, che hanno usufruito del beneficio del Compenso di armamento, di cui nella presente legge, la durata dell'esenzione dall'imposta di ricchezza mobile, di cui all'[art. 8 del R. decreto-legge 16 maggio 1926, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;865#art_8), e' estesa ai primi 10 anni di esercizio effettivo.
+Per le navi, che hanno usufruito del beneficio del Compenso di armamento, di cui nella presente legge, la durata dell'esenzione dall'imposta di ricchezza mobile, di cui all'[art. 8 del R. decreto-legge 16 maggio 1926, n. 865](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20026U0865.md), e' estesa ai primi 10 anni di esercizio effettivo.
 
 ## Art. 5.
 
-Il compenso di armamento e la maggior durata dell'esonero dalla imposta di ricchezza mobile sono subordinati all'adempimento delle condizioni stabilite negli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;865#art_9) e [11 del R. decreto-legge 16 maggio 1926, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;865#art_11), per i compensi di costruzione. Essi sono revocati, e le somme corrispondenti devono essere versate all'Erario dai proprietari delle navi, quando si verificasse uno qualunque dei casi accennati nei medesimi articoli che portino la perdita dei compensi di costruzione. Cosi' pure il compenso di armamento e la maggior durata dell'esonero dalla imposta di ricchezza mobile sono revocati, e le somme corrispondenti devono essere versate all'Erario dai proprietari, quando le navi che ne hanno usufruito vengano destinate a servizi marittimi sovvenzionati di carattere indispensabile o quando, avendo raggiunto alle prove velocita' inferiore a 18 miglia, siano destinate a servizi marittimi sovvenzionati di carattere utile.
+Il compenso di armamento e la maggior durata dell'esonero dalla imposta di ricchezza mobile sono subordinati all'adempimento delle condizioni stabilite negli [articoli 9](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20026U0865.md) e [11 del R. decreto-legge 16 maggio 1926, n. 865](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20026U0865.md), per i compensi di costruzione. Essi sono revocati, e le somme corrispondenti devono essere versate all'Erario dai proprietari delle navi, quando si verificasse uno qualunque dei casi accennati nei medesimi articoli che portino la perdita dei compensi di costruzione. Cosi' pure il compenso di armamento e la maggior durata dell'esonero dalla imposta di ricchezza mobile sono revocati, e le somme corrispondenti devono essere versate all'Erario dai proprietari, quando le navi che ne hanno usufruito vengano destinate a servizi marittimi sovvenzionati di carattere indispensabile o quando, avendo raggiunto alle prove velocita' inferiore a 18 miglia, siano destinate a servizi marittimi sovvenzionati di carattere utile.
 
 ## Art. 6.
 
@@ -65,7 +65,7 @@ L'ammissione al compenso di armamento viene concessa ad insindacabile giudizio d
  
  La liquidazione finale del compenso di armamento e' eseguita subito dopo l'entrata in servizio effettivo della nave e dopo la liquidazione dei compensi di costruzione. 
  
- E' data facolta' all'Amministrazione di concedere, su richiesta degli armatori, anticipi sul compenso di armamento calcolato sui dati della dichiarazione di costruzione. Tali anticipi saranno corrisposti nella stessa misura e con le stesse condizioni stabilite, per gli anticipi sul compenso di costruzione dello scafo, dall'ultimo comma dell'[art. 13 del R. decreto-legge 16 maggio 1926, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;865#art_13). 
+ E' data facolta' all'Amministrazione di concedere, su richiesta degli armatori, anticipi sul compenso di armamento calcolato sui dati della dichiarazione di costruzione. Tali anticipi saranno corrisposti nella stessa misura e con le stesse condizioni stabilite, per gli anticipi sul compenso di costruzione dello scafo, dall'ultimo comma dell'[art. 13 del R. decreto-legge 16 maggio 1926, n. 865](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20026U0865.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

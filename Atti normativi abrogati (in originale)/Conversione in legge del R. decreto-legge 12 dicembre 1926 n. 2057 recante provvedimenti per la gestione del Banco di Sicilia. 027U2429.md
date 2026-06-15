@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2057](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-12;2057), recante provvedimenti per la gestione del Banco di Sicilia. 
+ E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2057](Provvedimenti%20per%20la%20gestione%20del%20Banco%20di%20Sicilia.%20026U2057.md), recante provvedimenti per la gestione del Banco di Sicilia. 
  
  Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

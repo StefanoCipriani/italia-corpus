@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 dicembre 1934, n. 2049](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-03;2049), che reca norme integrative per l'applicazione dei contributi di miglioria per le opere eseguite dallo Stato o con il concorso dello Stato. 
+ E' convertito in legge il [R. decreto-legge 3 dicembre 1934, n. 2049](Norme%20integrative%20per%20lapplicazione%20dei%20contributi%20di%20miglioria%20per%20le%20opere%20eseguite%20dallo%20Stato%20o%20con%20il%20concorso%20dello%20Stato.%20034U2049.md), che reca norme integrative per l'applicazione dei contributi di miglioria per le opere eseguite dallo Stato o con il concorso dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

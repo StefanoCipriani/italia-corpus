@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'art. 38 del testo unico della legge sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2010);
+Visto l'art. 38 del testo unico della legge sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2010](Col%20quale%20si%20costituisce%20in%20sezione%20elettorale%20autonoma%20il%20comune%20di%20Torre%20di%20Ruggiero.%20084U2010.md);
 
 Visto che sul fondo di riserva per le spese impreviste inscritto in L. 1.000.000 nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1917-918, in conseguenza delle prelevazioni gia' autorizzate in L. 70.100, rimane disponibile la somma di L. 929.900;
 

@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto col m
 
 ## Articolo unico.
 
-Il termine di cui al [secondo comma dell'art. 2 della legge 11 giugno 1916, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-06-11;720#art_2-com2), e' prorogato ad un anno dopo la conclusione della pace, ed il contributo straordinario 6% stabilito dall'articolo stesso deve essere versato in una sola volta, oppure ratealmente in un decennio od in un quindicennio a decorrere dal 1° gennaio 1916 o dalla data di riassunzione in servizio se a quell'epoca il salariato non foste in carica. 
+Il termine di cui al [secondo comma dell'art. 2 della legge 11 giugno 1916, n. 720](Recante%20provvedimenti%20per%20il%20trattamento%20di%20pensione%20a%20favore%20dei%20salariati%20dipendenti%20dai%20Comuni%20dalle%20Provincie%20dalle%20istituzioni%20pubbliche%20di%20beneficenza%20e%20dalle%20aziende%20speciali%20di%20se_c90e64b9cc59.md), e' prorogato ad un anno dopo la conclusione della pace, ed il contributo straordinario 6% stabilito dall'articolo stesso deve essere versato in una sola volta, oppure ratealmente in un decennio od in un quindicennio a decorrere dal 1° gennaio 1916 o dalla data di riassunzione in servizio se a quell'epoca il salariato non foste in carica. 
  
  Sui contributi arretrati spettanti alla Cassa di previdenza dal 1° gennaio 1916 al primo del mese successivo a quello in cui si effettua la liquidazione sono dovutigli interessi composti al saggio legale, e l'importo complessivo deve essere versato nei modi di cui al comma precedente. 
  

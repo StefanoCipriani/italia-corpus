@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 28 ottobre 1927, n. 2073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-28;2073), riguardante il nuovo ordinamento della Milizia portuaria. 
+ E' convertito in legge il [R. decreto legge 28 ottobre 1927, n. 2073](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.md), riguardante il nuovo ordinamento della Milizia portuaria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

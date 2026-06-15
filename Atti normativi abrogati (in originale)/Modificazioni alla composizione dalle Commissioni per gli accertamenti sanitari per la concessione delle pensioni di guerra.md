@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491) e successive modificazioni;
+Visto il [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,19 +30,19 @@ Sulla proposta del Ministro per il tesoro, di concerto con i Ministri per la gue
 
 ## Art. 1.
 
-Il secondo comma dell'articolo unico del [R. decreto 27 gennaio 1924, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-01-27;150), sulla composizione del Comitato di liquidazione delle pensioni di guerra, e' sostituito dal seguente:
+Il secondo comma dell'articolo unico del [R. decreto 27 gennaio 1924, n. 150](Modificazione%20nella%20composizione%20del%20Comitato%20di%20liquidazione%20delle%20pensioni%20di%20guerra%20istituito%20con%20lart.%2051%20del%20R.%20decreto%2012%20luglio%201923%20n.%201491.%20024U0150.md), sulla composizione del Comitato di liquidazione delle pensioni di guerra, e' sostituito dal seguente:
  "I membri del Comitato sono scelti fra gli appartenenti alle seguenti categorie, anche se gia' a riposo:
  magistrati aventi grado non inferiore a consigliere o sostituito procuratore generale di Corte di appello, consiglieri di Stato e della Corte dei conti, primi referendari e referendari della Corte dei conti, ufficiali generali o superiori medici del Regio esercito, della Regia marina, della Regia aeronautica, professori ordinari e liberi docenti delle facolta' di medicina della Regie universita', direttori generali e funzionari di grado non inferiore al quinto".
 
 ## Art. 2.
 
-Il [primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_56-com1) e [secondo comma dell'art. 56 del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_56-com2) sono sostituiti dai seguenti:
+Il [primo](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [secondo comma dell'art. 56 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) sono sostituiti dai seguenti:
  "Gli accertamenti sanitari, relativi alle cause ed all'entita' delle menomazioni dell'integrita' fisica del militare, vengono eseguiti mediante visita diretta da una Commissione composta di ufficiali medici del Regio esercito, o della Regia marina, o della Regia aeronautica, di cui almeno lino ufficiale superiore con funzioni di presidente, e di sanitari Civili scelti fra quelli designati dall'Associazione nazionale fra i mutilati e gli invalidi di guerra. Almeno uno dei commissari sara' chirurgo. La Commissione giudica con l'intervento di due membri militari e di uno civile".
  "Il Ministro per il tesoro determina con sue decreto, d'intesa con i Ministri per la guerra, per la marina e per l'aeronautica, le sedi delle Commissioni, e ne nomina i componenti".
 
 ## Art. 3.
 
-Il [primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_57-com1) e [secondo comma dell'art. 57 del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_57-com2), sono sostituiti dal seguenti:
+Il [primo](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [secondo comma dell'art. 57 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sono sostituiti dal seguenti:
  "Il parere della Commissione, qualora non sia accettato dall'interessato, e' sottoposto alla revisione di una Commissione superiore nominata dal Ministro per il tesoro, d'intesa con i Ministri per la guerra, per la marina e per l'aeronautica, composta di ufficiali generali e superiori medici del Regio esercito, della Regia marina e della Regia aeronautica, del servizio permanente o anche delle categorie in congedo, di cui almeno uno insegnante universitario della specialita' a cui si riferiscono le ferite, lesioni o infermita' per le quali fu iniziato il procedimento di liquidazione. Gli insegnanti universitari ed i primari medici che siano pure liberi docenti, potranno anche avere il grado di capitano".
  "La Commissione e' presieduta da un ufficiale generale medico del Regio esercito o della Regia marina o della Regia aeronautica".
 

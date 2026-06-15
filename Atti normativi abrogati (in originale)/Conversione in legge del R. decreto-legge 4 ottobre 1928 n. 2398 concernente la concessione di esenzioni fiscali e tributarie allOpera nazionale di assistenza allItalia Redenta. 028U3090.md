@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 ottobre 1928, n. 2398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-10-04;2398), concernente la concessione di esenzioni fiscali e tributarie all'Opera nazionale di assistenza all'Italia Redenta. 
+ E' convertito in legge il [R. decreto-legge 4 ottobre 1928, n. 2398](Concessione%20di%20esenzioni%20fiscali%20e%20tributarie%20allOpera%20nazionale%20di%20assistenza%20allItalia%20Redenta.%20028U2398.md), concernente la concessione di esenzioni fiscali e tributarie all'Opera nazionale di assistenza all'Italia Redenta. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

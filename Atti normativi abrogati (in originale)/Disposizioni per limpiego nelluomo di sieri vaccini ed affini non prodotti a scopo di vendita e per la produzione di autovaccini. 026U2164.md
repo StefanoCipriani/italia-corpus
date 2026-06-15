@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [R. decreto 1° agosto 1907, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-01;636);
+Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md);
 
-Veduto il regolamento per la fabbricazione e la vendita dei vaccini, virus, sieri curativi e prodotti affini, approvato con il [R. decreto 18 giugno 1905, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-06-18;407);
+Veduto il regolamento per la fabbricazione e la vendita dei vaccini, virus, sieri curativi e prodotti affini, approvato con il [R. decreto 18 giugno 1905, n. 407](Approvazione%20e%20pubblicazione%20del%20regolamento%20per%20la%20vendita%20dei%20vaccini%20virus%20sieri%20curativi%20tossine%20e%20ogni%20altro%20prodotto%20affine.%20005U0407.md);
 
 Veduto il [R. decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md);
 

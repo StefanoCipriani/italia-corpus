@@ -41,7 +41,7 @@ Per quanto non previsto dalla presente legge, si applicano le disposizioni di cu
 
 ## Art. 5.
 
-All'onere di lire 30 milioni, derivante dall'attuazione della presente legge nell'anno finanziario 1966, si provvede con una aliquota delle maggiori entrate di cui al [decreto-legge 14 dicembre 1965, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-12-14;1334), convertito in [legge 9 febbraio 1966, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-02-09;21), concernente l'importazione delle banane.
+All'onere di lire 30 milioni, derivante dall'attuazione della presente legge nell'anno finanziario 1966, si provvede con una aliquota delle maggiori entrate di cui al [decreto-legge 14 dicembre 1965, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-12-14;1334), convertito in [legge 9 febbraio 1966, n. 21](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2014%20dicembre%201965%20n.%201334%20concernente%20la%20importazione%20delle%20banane%20fresche.md), concernente l'importazione delle banane.
  Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

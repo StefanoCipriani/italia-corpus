@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 3 della legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md);
 
-Visti gli articoli 3, comma 1, lettera c), 4 e [5, comma 1, della legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86#art_5-com1);
+Visti gli articoli 3, comma 1, lettera c), 4 e [5, comma 1, della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md);
 
 Vista la [direttiva 90/539/CEE del Consiglio del 15 ottobre 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;539), relativa alle norme di polizia sanitaria per gli scambi intracomunitari e le importazioni in provenienza dai Paesi terzi di pollame e uova da cova;
 

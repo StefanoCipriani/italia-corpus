@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491), e successive modificazioni;
+Visto il [regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni;
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1945, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;193);
+Visto il [decreto legislativo luogotenenziale 12 aprile 1945, n. 193](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md);
 
-Visto il [decreto legislativo luogotenenziale 29 aprile 1946, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-29;299);
+Visto il [decreto legislativo luogotenenziale 29 aprile 1946, n. 299](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20dei%20pensionati%20di%20guerra.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 29 dicembre 1946, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-29;576);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -28,12 +28,12 @@ Sulla proposta del Ministro Segretario di Stato per il tesoro, di concerto con i
 
 ## Art. 1.
 
-Le tabelle C, D, G, H, I, L, M, N, O, P, annesse al [decreto legislativo luogotenenziale 12 aprile 1945, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;193), sono sostituite, rispettivamente, dalle tabelle corrispondenti annesse al presente decreto, firmate dal Ministro per il tesoro.
+Le tabelle C, D, G, H, I, L, M, N, O, P, annesse al [decreto legislativo luogotenenziale 12 aprile 1945, n. 193](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md), sono sostituite, rispettivamente, dalle tabelle corrispondenti annesse al presente decreto, firmate dal Ministro per il tesoro.
  Le tabelle G-1, H-1, I-1, L-1, annesse al sopracitato decreto legislativo luogotenenziale n. 193 sono soppresse e ai titolari delle pensioni corrispondenti si applicano le nuove misure previste dalle tabelle G, H, I, L.
 
 ## Art. 2.
 
-Gli assegni di superinvalidita', di cui all'[art. 2 del decreto legislativo luogotenenziale 12 aprile 1945, numero 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;193#art_2), sono stabiliti nelle seguenti misure:
+Gli assegni di superinvalidita', di cui all'[art. 2 del decreto legislativo luogotenenziale 12 aprile 1945, numero 193](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md), sono stabiliti nelle seguenti misure:
 
  lettera A annue L. 66.400
  lettera A-bis annue L. 58.900
@@ -44,11 +44,11 @@ Gli assegni di superinvalidita', di cui all'[art. 2 del decreto legislativo luog
  lettera F annue L. 24.100
  lettera G annue L. 11.400
 
- La tabella F, riguardante gli assegni per cumulo di infermita', allegata alla [legge 19 febbraio 1942, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-19;137), e modificata dall'[art. 2 del decreto legislativo luogotenenziale 12 aprile 1945, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;193#art_2), e' sostituita dalla corrispondente tabella allegata al presente decreto.
+ La tabella F, riguardante gli assegni per cumulo di infermita', allegata alla [legge 19 febbraio 1942, n. 137](Miglioramenti%20alle%20otto%20categorie%20di%20pensioni%20del%20mutilati%20ed%20invalidi%20di%20guerra.%20042U0137.md), e modificata dall'[art. 2 del decreto legislativo luogotenenziale 12 aprile 1945, n. 193](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md), e' sostituita dalla corrispondente tabella allegata al presente decreto.
 
 ## Art. 3.
 
-L'assegno supplementare di cui all'[art. 3 del decreto legislativo luogotenenziale 12 aprile 1945, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;193#art_3), e stabilito in annue L. 5700.
+L'assegno supplementare di cui all'[art. 3 del decreto legislativo luogotenenziale 12 aprile 1945, n. 193](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md), e stabilito in annue L. 5700.
 
 ## Art. 4.
 
@@ -56,27 +56,27 @@ L'assegno supplementare di cura e' elevato ad annue L. 6440 a favore degli inval
 
 ## Art. 5.
 
-Resta ferma la riduzione di un quarto prevista dall'[art. 5, del decreto legislativo luogotenenziale 12 aprile 1945, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;193#art_5), per gli assegni di superinvalidita', supplementare e di cura per gli invalidi forniti di pensione od assegno di guerra non privilegiati.
+Resta ferma la riduzione di un quarto prevista dall'[art. 5, del decreto legislativo luogotenenziale 12 aprile 1945, n. 193](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md), per gli assegni di superinvalidita', supplementare e di cura per gli invalidi forniti di pensione od assegno di guerra non privilegiati.
 
 ## Art. 6.
 
-L'aumento integratore per i figli a favore degli invalidi di prima categoria di cui all'[art. 6 del decreto legislativo luogotenenziale 12 aprile 1945, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;193#art_6), e' stabilito in annue L. 1700.
+L'aumento integratore per i figli a favore degli invalidi di prima categoria di cui all'[art. 6 del decreto legislativo luogotenenziale 12 aprile 1945, n. 193](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md), e' stabilito in annue L. 1700.
 
 ## Art. 7.
 
-L'assegno speciale di previdenza di cui all'[art. 7 del decreto legislativo luogotenenziale 12 aprile 1945, numero 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;193#art_7), a favore dei mutilati ed invalidi bisognosi ed incollocabili, e' elevato ad annue L. 9940 se provvisti di pensione od assegno rinnovabile in base alla tabella allegato C, e ad annue L. 8700 se provvisti di pensione od assegno rinnovabile in base alla tabella allegato D.
+L'assegno speciale di previdenza di cui all'[art. 7 del decreto legislativo luogotenenziale 12 aprile 1945, numero 193](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md), a favore dei mutilati ed invalidi bisognosi ed incollocabili, e' elevato ad annue L. 9940 se provvisti di pensione od assegno rinnovabile in base alla tabella allegato C, e ad annue L. 8700 se provvisti di pensione od assegno rinnovabile in base alla tabella allegato D.
 
 ## Art. 8.
 
-L'aumento integratore per gli orfani di cui all'[articolo 8 del decreto legislativo luogotenenziale 12 aprile 1945, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;193#art_8), e' elevato ad annue L. 3000 per ciascun orfano, ferme restando le condizioni stabilite dall'[articolo 3 della legge 20 febbraio 1941, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-02-20;67#art_3).
+L'aumento integratore per gli orfani di cui all'[articolo 8 del decreto legislativo luogotenenziale 12 aprile 1945, n. 193](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md), e' elevato ad annue L. 3000 per ciascun orfano, ferme restando le condizioni stabilite dall'[articolo 3 della legge 20 febbraio 1941, n. 67](Nuove%20provvidenze%20in%20materia%20di%20pensioni%20di%20guerra.%20041U0067.md).
 
 ## Art. 9.
 
-L'aumento previsto dagli [articoli 43 del regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_43), e 16 del [regio decreto-legge 27 maggio 1926, n. 928](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-27;928), a favore dei genitori che abbiano perduto piu' figli per eventi di guerra, e' stabilito in annue L. 600 per il secondo figlio, in annue L. 2000 per il terzo figlio e in annue L. 4000 per ciascuno degli altri figli oltre il terzo.
+L'aumento previsto dagli [articoli 43 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e 16 del [regio decreto-legge 27 maggio 1926, n. 928](Modificazioni%20ed%20aggiunte%20alle%20vigenti%20norme%20sulle%20pensioni%20di%20guerra.%20026U0928.md), a favore dei genitori che abbiano perduto piu' figli per eventi di guerra, e' stabilito in annue L. 600 per il secondo figlio, in annue L. 2000 per il terzo figlio e in annue L. 4000 per ciascuno degli altri figli oltre il terzo.
 
 ## Art. 10.
 
-Le pensioni di riversibilita' ordinaria spettanti, a norma dell'[art. 35 del regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_35), alle vedove ed agli orfani di militari deceduti anteriormente alla entrata in vigore del presente decreto, sono aumentate:
+Le pensioni di riversibilita' ordinaria spettanti, a norma dell'[art. 35 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), alle vedove ed agli orfani di militari deceduti anteriormente alla entrata in vigore del presente decreto, sono aumentate:
  del 160% sulle prime L. 4500 annue;
  del 150% sulle seconde L. 4500 annue;
  del 120% sulle terze L. 4500 annue;
@@ -94,23 +94,23 @@ L'assegno speciale temporaneo, di cui al [decreto legislativo del Capo provvisor
  L. 7800 annue per i pensionati di sesta categoria;
  L. 4680 annue per i pensionati di settima categoria;
  L. 3900 annue per i pensionati di ottava categoria;
- L. 15.600 annue per le vedove o per gli orfani, ivi compresi i titolari delle pensioni spettanti in virtu' dell'[art. 35 del regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_35);
+ L. 15.600 annue per le vedove o per gli orfani, ivi compresi i titolari delle pensioni spettanti in virtu' dell'[art. 35 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md);
  L. 7800 annue per i genitori, collaterali, avi ed assimilati;
  L. 2600 annue per i genitori provvisti di assegno alimentare speciale.
 
 ## Art. 12.
 
 La riduzione di un decimo della pensione od assegno di guerra prevista, per gli operai della guerra 1915-1918, dal [primo comma
- dell'art. 71 del regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_71-com1), e' soppressa.
+ dell'art. 71 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' soppressa.
 Gli assegni di superinvalidita' e di cumulo, anziche' la riduzione
 di un terzo, stabilita dal secondo comma dello stesso articolo, subiscono la riduzione di un quarto prevista dall'art. 17 del citato decreto n. 1491.
- In caso di morte la pensione e' concessa ai successivi aventi diritto secondo le norme stabilite dal [regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491), e successive modificazioni, sempreche' l'operaio defunto risulti gia' pensionato per una invalidita' di prima o seconda categoria.
+ In caso di morte la pensione e' concessa ai successivi aventi diritto secondo le norme stabilite dal [regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni, sempreche' l'operaio defunto risulti gia' pensionato per una invalidita' di prima o seconda categoria.
  Qualora la morte sia avvenuta anteriormente alla data di entrata in vigore del presente decreto, la pensione dovra' decorrere da detta data e, se la domanda sia presentata oltre il termine di un anno dalla data stessa, la pensione decorrera' dal primo giorno del mese successivo a quello di presentazione della domanda.
- Agli effetti della prescrizione resta fermo il disposto dell'[art. 59 del regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_59).
+ Agli effetti della prescrizione resta fermo il disposto dell'[art. 59 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
 
 ## Art. 13.
 
-Nell'ammontare delle pensioni e degli assegni, risultante dall'applicazione del presente decreto, resta assorbita l'integrazione temporanea prevista dal [regio decreto-legge 13 marzo 1944, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-13;85), e dal [decreto legislativo luogotenenziale 23 settembre 1944, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-23;237), modificata dall'[art. 3 del decreto legislativo luogotenenziale 29 aprile 1946, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-29;299#art_3).
+Nell'ammontare delle pensioni e degli assegni, risultante dall'applicazione del presente decreto, resta assorbita l'integrazione temporanea prevista dal [regio decreto-legge 13 marzo 1944, n. 85](Miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni.%20044U0085.md), e dal [decreto legislativo luogotenenziale 23 settembre 1944, n. 237](../Decreti%20legislativi%20luogotenenziali/Estensione%20del%20R.%20decreto-legge%2013%20marzo%201944%20n.%2085%20recante%20miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni%20ai%20territori%20restituiti%20allAmministrazione%20italiana%20e%20modifiche%20del%20d_3d221046d9e9.md), modificata dall'[art. 3 del decreto legislativo luogotenenziale 29 aprile 1946, n. 299](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20dei%20pensionati%20di%20guerra.md).
  Detta integrazione temporanea e', pertanto, soppressa come emolumento a se' stante.
 
 ## Art. 14.

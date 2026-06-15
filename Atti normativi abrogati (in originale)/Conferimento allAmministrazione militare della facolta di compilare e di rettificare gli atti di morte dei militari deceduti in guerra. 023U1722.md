@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti i deceti Luogotenenziali 27 gennaio 1916, n. 108, e 27 ottobre 1918, n. 1784;
 
-Visti i [Regi decreti 4 settembre 1919, n. 1763](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-04;1763), e [24 febbraio 1921, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-02-24;211);
+Visti i [Regi decreti 4 settembre 1919, n. 1763](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-04;1763), e [24 febbraio 1921, n. 211](Che%20dal%2015%20marzo%201921%20fa%20cessare%20per%20ogni%20effetto%20la%20mobilitazione%20generale%20del%20R.%20esercito%20e%20della%20R.%20marina%20nonche%20la%20requisizione%20quadrupedi%20e%20veicoli.%20021U0211.md);
 
 Visti i Regi decreti 8 settembre 1922, 18 gennaio e 7 giugno 1923;
 

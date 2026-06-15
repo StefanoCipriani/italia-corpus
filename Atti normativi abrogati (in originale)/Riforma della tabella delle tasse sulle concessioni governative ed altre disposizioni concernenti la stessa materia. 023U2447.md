@@ -114,7 +114,7 @@ L'art. 7 del testo unico delle leggi sulle concessioni governative, approvato co
 
 L'art. 8 del testo unico delle leggi sulle concessioni governative, approvato con [decreto Luogotenenziale 6 gennaio 1918, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-01-06;135), e' modificato come appresso: 
  
- «L'esercizio di atti o diritti contemplati dalla presente legge senza il pagamento delle tasse relative, e' punito con una pena pecuniaria eguale al triplo e, in ogni caso, non mai minore di L. 100, salvo le disposizioni speciali stabilite nelle tabelle e senza pregiudizio delle penalita' portate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) in caso di reato in esso contemplato.
+ «L'esercizio di atti o diritti contemplati dalla presente legge senza il pagamento delle tasse relative, e' punito con una pena pecuniaria eguale al triplo e, in ogni caso, non mai minore di L. 100, salvo le disposizioni speciali stabilite nelle tabelle e senza pregiudizio delle penalita' portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in caso di reato in esso contemplato.
 
 ## Art. 13.
 

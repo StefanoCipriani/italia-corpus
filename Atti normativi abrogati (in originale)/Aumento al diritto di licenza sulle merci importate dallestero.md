@@ -12,17 +12,17 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'art. 18 della legge doganale 25 settembre 1940, n. 1134;
 
-Vista la tariffa dei dazi doganali, approvata con [decreto-legge 9 giugno 1921, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1921-06-09;806), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni ed aggiunte;
+Vista la tariffa dei dazi doganali, approvata con [decreto-legge 9 giugno 1921, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1921-06-09;806), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni ed aggiunte;
 
-Visto il [decreto-legge 13 maggio 1935, n. 894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1935-05-13;894), convertito nella [legge 17 febbraio 1936, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-02-17;334), che ha istituito uno speciale diritto di licenza, sulle merci la cui importazione e' subordinata a restrizioni, nonche' le successive modificazioni ed aggiunte;
+Visto il [decreto-legge 13 maggio 1935, n. 894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1935-05-13;894), convertito nella [legge 17 febbraio 1936, n. 334](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201935-XIII%20n.%20894%20con%20il%20quale%20e%20stato%20istituito%20uno%20speciale%20diritto%20di%20licenza%20sulle%20merci%20la%20cui%20importazione%20nel%20Regno%20e%20subordinata_12632a3548c3.md), che ha istituito uno speciale diritto di licenza, sulle merci la cui importazione e' subordinata a restrizioni, nonche' le successive modificazioni ed aggiunte;
 
-Visto il [decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1940-01-09;2), convertito nella [legge 19 giugno 1940, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-19;762);
+Visto il [decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1940-01-09;2), convertito nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md);
 
-Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-26;139);
+Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione de] Consiglio dei Ministri;
 
@@ -30,13 +30,13 @@ Sulla proposta del Ministro Segretario di Stato per le finanze, di concerto coi 
 
 ## Art. 1.
 
-Il diritto di licenza sulle merci importate dall'estero, previsto dall'[art. 1 del regio decreto-legge 13 maggio 1935, n. 894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-13;894#art_1), convertito nella [legge 17 febbraio 1936, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-02-17;334), e successivamente modificato, e' stabilito nella misura del dieci per cento del valore delle merci ammesse alla importazione.
+Il diritto di licenza sulle merci importate dall'estero, previsto dall'[art. 1 del regio decreto-legge 13 maggio 1935, n. 894](Istituzione%20di%20uno%20speciale%20diritto%20di%20licenza%20sulle%20merci%20la%20cui%20importazione%20nel%20Regno%20e%20subordinata%20a%20restrizioni.%20035U0894.md), convertito nella [legge 17 febbraio 1936, n. 334](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201935-XIII%20n.%20894%20con%20il%20quale%20e%20stato%20istituito%20uno%20speciale%20diritto%20di%20licenza%20sulle%20merci%20la%20cui%20importazione%20nel%20Regno%20e%20subordinata_12632a3548c3.md), e successivamente modificato, e' stabilito nella misura del dieci per cento del valore delle merci ammesse alla importazione.
 
 ## Art. 2.
 
-Ai fini della determinazione del valore imponibile delle merci sottoposte, alla importazione, a diritti ad valorem, il ragguaglio in lire italiane del valore dichiarato in valuta estera, salvo che per le merci provenienti da Paesi con i quali vigono accordi che stabiliscono determinati tassi di cambio, si effettua in base alla media tra il cambio ufficiale di tale valuta e la media dei cambi risultanti dalle libere negoziazioni della valuta estera medesima presso le Borse di Roma e di Milano, ai sensi del punto 2°, dell'[art. 1 del decreto legislativo luogotenenziale 26 marzo 1946, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-26;139#art_1).
+Ai fini della determinazione del valore imponibile delle merci sottoposte, alla importazione, a diritti ad valorem, il ragguaglio in lire italiane del valore dichiarato in valuta estera, salvo che per le merci provenienti da Paesi con i quali vigono accordi che stabiliscono determinati tassi di cambio, si effettua in base alla media tra il cambio ufficiale di tale valuta e la media dei cambi risultanti dalle libere negoziazioni della valuta estera medesima presso le Borse di Roma e di Milano, ai sensi del punto 2°, dell'[art. 1 del decreto legislativo luogotenenziale 26 marzo 1946, n. 139](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md).
  Detto cambio medio sara' calcolato periodicamente dal Ministero del tesoro - Direzione generale del tesoro - sentito l'Ufficio italiano dei cambi.
- Per le valute estere non quotate presso le Borse di Roma e di Milano ai sensi del predetto [decreto legislativo luogotenenziale 26 marzo 1946 n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-26;139), il computo del detto cambio medio sara' fatto in rapporto alla parita' ufficiale stabilita tra le valute stesse e il dollaro degli Stati Uniti d'America.
+ Per le valute estere non quotate presso le Borse di Roma e di Milano ai sensi del predetto [decreto legislativo luogotenenziale 26 marzo 1946 n. 139](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md), il computo del detto cambio medio sara' fatto in rapporto alla parita' ufficiale stabilita tra le valute stesse e il dollaro degli Stati Uniti d'America.
 
 ## Art. 3.
 

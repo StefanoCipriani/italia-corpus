@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 giugno 1928, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-21;1710), concernente modificazioni alle norme relative ai passaporti per l'estero. 
+ E' convertito in legge il [R. decreto-legge 21 giugno 1928, n. 1710](Modificazioni%20alle%20norme%20relative%20ai%20passaporti%20per%20lestero.%20028U1710.md), concernente modificazioni alle norme relative ai passaporti per l'estero. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

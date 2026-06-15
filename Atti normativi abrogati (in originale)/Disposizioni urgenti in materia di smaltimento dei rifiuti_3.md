@@ -49,7 +49,7 @@ I soggetti di cui al comma 1, entro il termine perentorio di trenta giorni dall'
 
 7.
 
-I lavori di adeguamento devono iniziare entro centoventi giorni dalla data di concessione del mutuo da parte della Cassa depositi e prestiti e devono essere ultimati entro diciotto mesi dal loro inizio. L'affidamento dei lavori puo' avvenire sulla base di gare esplorative volte ad identificare l'offerta economicamente e tecnicamente piu' vantaggiosa in base ad una pluralita' di elementi prefissati dall'amministrazione secondo i criteri di cui all'[articolo 24, comma primo, lettera b), della legge 8 agosto 1977, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;584#art_24-com1-letb).
+I lavori di adeguamento devono iniziare entro centoventi giorni dalla data di concessione del mutuo da parte della Cassa depositi e prestiti e devono essere ultimati entro diciotto mesi dal loro inizio. L'affidamento dei lavori puo' avvenire sulla base di gare esplorative volte ad identificare l'offerta economicamente e tecnicamente piu' vantaggiosa in base ad una pluralita' di elementi prefissati dall'amministrazione secondo i criteri di cui all'[articolo 24, comma primo, lettera b), della legge 8 agosto 1977, n. 584](Norme%20di%20adeguamento%20delle%20procedure%20di%20aggiudicazione%20degli%20appalti%20di%20lavori%20pubblici%20alle%20direttive%20della%20Comunita%20economica%20europea.md).
 
 8.
 
@@ -197,7 +197,7 @@ Le concessioni di cui all'[articolo 8 del decreto del Presidente della Repubblic
 
 2.
 
-Al [primo comma dell'articolo 268 del regio decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175#art_268-com1), come sostituito dall'[articolo 21 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), sono aggiunte, in fine, le seguenti parole: "nonche' gli eventuali oneri finanziari del capitale investito".
+Al [primo comma dell'articolo 268 del regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), come sostituito dall'[articolo 21 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), sono aggiunte, in fine, le seguenti parole: "nonche' gli eventuali oneri finanziari del capitale investito".
 
 ## Art. 8.
 
@@ -245,7 +245,7 @@ All'onere derivante dall'istituzione dell'albo si provvede mediante riduzione de
 
 1.
 
-Ai provvedimenti giurisdizionali comportanti sospensioni dell'esecuzione degli atti di cui al presente decreto, comunque preordinati o utili alla realizzazione di impianti e attrezzature per lo smaltimento dei rifiuti e alla bonifica delle aree inquinate a causa dell'inadeguato smaltimento dei rifiuti medesimi, si applicano le disposizioni di cui all'[articolo 23-sexies del decreto-legge 27 febbraio 1982, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-02-27;57#art_23sexies), convertito, con modificazioni, dalla [legge 29 aprile 1982, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-29;187).
+Ai provvedimenti giurisdizionali comportanti sospensioni dell'esecuzione degli atti di cui al presente decreto, comunque preordinati o utili alla realizzazione di impianti e attrezzature per lo smaltimento dei rifiuti e alla bonifica delle aree inquinate a causa dell'inadeguato smaltimento dei rifiuti medesimi, si applicano le disposizioni di cui all'[articolo 23-sexies del decreto-legge 27 febbraio 1982, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-02-27;57#art_23sexies), convertito, con modificazioni, dalla [legge 29 aprile 1982, n. 187](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20febbraio%201982%20n.%2057%20concernente%20disciplina%20per%20la%20gestione%20stralcio%20dellattivita%20del%20commissario%20per%20le%20zone%20terremotate%20della%20_0affa8529913.md).
 
 ## Art. 12.
 
@@ -305,11 +305,11 @@ Le richieste di mutuo presentate ai sensi del [decreto - legge 31 dicembre 1986,
 
 1.
 
-Il fondo per la protezione civile, istituito con l'[articolo 2 del decreto-legge 10 luglio 1982, n. 428](Misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnimento%20degli%20incendi.md), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;547), e' integrato per l'anno 1987 dalla somma di lire 200 miliardi per far fronte alle emergenze ed agli urgenti interventi diretti ad assicurare la potabilizzazione delle acque ed a superare le situazioni di crisi idrica, ivi compresi gli interventi di manutenzione e di bonifica dei corpi idrici e delle reti di adduzione e di distribuzione di acqua destinata ad uso potabile, nonche' allo smaltimento dei rifiuti abbandonati in aree vulnerabili dai quali derivano gravi pericoli di danno ambientale e alla bonifica delle aree medesime.
+Il fondo per la protezione civile, istituito con l'[articolo 2 del decreto-legge 10 luglio 1982, n. 428](Misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnimento%20degli%20incendi.md), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20428%20recante%20misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnim_04ba3d019ac1.md), e' integrato per l'anno 1987 dalla somma di lire 200 miliardi per far fronte alle emergenze ed agli urgenti interventi diretti ad assicurare la potabilizzazione delle acque ed a superare le situazioni di crisi idrica, ivi compresi gli interventi di manutenzione e di bonifica dei corpi idrici e delle reti di adduzione e di distribuzione di acqua destinata ad uso potabile, nonche' allo smaltimento dei rifiuti abbandonati in aree vulnerabili dai quali derivano gravi pericoli di danno ambientale e alla bonifica delle aree medesime.
 
 2.
 
-Il Ministro per il coordinamento della protezione civile, con i poteri di cui al [secondo comma dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1982, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-23;938), provvede, con proprie ordinanze, emanate d'intesa con il Ministro dell'ambiente, sentito il Ministro della sanita', all'attuazione delle disposizioni di cui al comma 1.
+Il Ministro per il coordinamento della protezione civile, con i poteri di cui al [secondo comma dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1982, n. 938](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20novembre%201982%20n.%20829%20concernente%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20da%20calamita%20naturali%20o%20eventi%20eccezionali.md), provvede, con proprie ordinanze, emanate d'intesa con il Ministro dell'ambiente, sentito il Ministro della sanita', all'attuazione delle disposizioni di cui al comma 1.
 
 3.
 
@@ -319,13 +319,13 @@ All'onere di lire 200 miliardi di cui al comma 1 si provvede mediante corrispond
 
 1.
 
-Al fine di prevenire i rischi per l'ambiente associati alla presenza negli scarichi idrici di sostanze chimiche attualmente non previste dalla tabella A, allegata alla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), il Ministro, dell'ambiente provvede ad integrare la medesima tabella con l'adozione di limiti di accettabilita' applicabili alle sostanze previste dalla [direttiva 76/464/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;464), concernente l'eliminazione dell'inquinamento delle acque da sostanze pericolose.
+Al fine di prevenire i rischi per l'ambiente associati alla presenza negli scarichi idrici di sostanze chimiche attualmente non previste dalla tabella A, allegata alla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), il Ministro, dell'ambiente provvede ad integrare la medesima tabella con l'adozione di limiti di accettabilita' applicabili alle sostanze previste dalla [direttiva 76/464/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;464), concernente l'eliminazione dell'inquinamento delle acque da sostanze pericolose.
 
 ## Art. 17.
 
 1.
 
-In attesa della predisposizione del regolamento per i lavori, le provviste e i servizi da eseguirsi in economia da parte del Ministero dell'ambiente, il Ministero medesimo puo' avvalersi del regolamento della Presidenza del Consiglio dei Ministri, emanato con [decreto del Presidente della Repubblica 5 giugno 1985, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-06-05;359).
+In attesa della predisposizione del regolamento per i lavori, le provviste e i servizi da eseguirsi in economia da parte del Ministero dell'ambiente, il Ministero medesimo puo' avvalersi del regolamento della Presidenza del Consiglio dei Ministri, emanato con [decreto del Presidente della Repubblica 5 giugno 1985, n. 359](../DPR/Regolamento%20per%20i%20lavori%20le%20provviste%20e%20i%20servizi%20da%20eseguirsi%20in%20economia%20da%20parte%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri.md).
 
 ## Art. 18.
 

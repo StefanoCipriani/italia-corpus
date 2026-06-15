@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-E' devoluta al ministro per i trasporti marittimi e ferroviari la competenza a dichiarare, ai sensi ed agli effetti dell'[art. 76 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_76), la pubblica utilita' e l'urgenza e indifferibilita' dei lavori occorrenti sulle ferrovie esercitate dallo Stato. 
+E' devoluta al ministro per i trasporti marittimi e ferroviari la competenza a dichiarare, ai sensi ed agli effetti dell'[art. 76 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), la pubblica utilita' e l'urgenza e indifferibilita' dei lavori occorrenti sulle ferrovie esercitate dallo Stato. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

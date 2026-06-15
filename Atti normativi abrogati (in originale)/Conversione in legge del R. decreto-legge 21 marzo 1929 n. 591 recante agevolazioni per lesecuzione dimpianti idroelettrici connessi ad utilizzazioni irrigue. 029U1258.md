@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 marzo 1929, n. 591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-21;591), recante agevolazioni per l'esecuzione d'impianti idroelettrici connessi ad utilizzazioni irrigue. 
+ E' convertito in legge il [R. decreto-legge 21 marzo 1929, n. 591](Agevolazioni%20per%20lesecuzione%20di%20impianti%20idroelettrici%20connessi%20ad%20utilizzazioni%20irrigue.%20029U0591.md), recante agevolazioni per l'esecuzione d'impianti idroelettrici connessi ad utilizzazioni irrigue. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

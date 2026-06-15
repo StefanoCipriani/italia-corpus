@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-La efficacia delle disposizioni contenute nell'[art. 8 del R. decreto-legge 7 dicembre 1942, n. 1808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-12-07;1808#art_8), recante provvedimenti relativi a perdite di navi mercantili ed al reimpiego delle corrispondenti indennita', e' prorogata sino alla data che sara' fissata con decreto del Presidente del Consiglio dei Ministri, di concerto con Ministri interessati.
+La efficacia delle disposizioni contenute nell'[art. 8 del R. decreto-legge 7 dicembre 1942, n. 1808](Provvedimenti%20relativi%20a%20perdite%20di%20navi%20mercantili%20ed%20al%20reimpiego%20delle%20corrispondenti%20indennita.%20042U1808.md), recante provvedimenti relativi a perdite di navi mercantili ed al reimpiego delle corrispondenti indennita', e' prorogata sino alla data che sara' fissata con decreto del Presidente del Consiglio dei Ministri, di concerto con Ministri interessati.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserito nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

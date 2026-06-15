@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 dicembre 1932, n. 1584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-12-08;1584), che stabilisce il trattamento fiscale dell'alcool ricavato dalla distillazione del vinello. 
+ E' convertito in legge il [R. decreto-legge 8 dicembre 1932, n. 1584](Trattamento%20fiscale%20dellalcool%20ricavato%20dalla%20distillazione%20del%20vinello.%20032U1584.md), che stabilisce il trattamento fiscale dell'alcool ricavato dalla distillazione del vinello. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

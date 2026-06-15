@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il numero 39 della tariffa dei dazi doganali, testo unico approvato con [R. decreto 28 luglio 1910, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-28;577), e' modificato come segue: 
+ Il numero 39 della tariffa dei dazi doganali, testo unico approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), e' modificato come segue: 
  
  ------------------------------------------------------------------- 
     Numero  ¦ Denominazione           ¦  Unita'    ¦ Dazio d'entrata  e lettera ¦ delle merci ¦ ¦ (Lire in oro) 

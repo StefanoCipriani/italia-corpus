@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [R. decreto-legge 7 settembre 1933, n. 1295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-07;1295), contenente modificazioni alle disposizioni in materia di decadenza dalla pensione in caso di perdita della cittadinanza italiana. 
+ E convertito in legge il [R. decreto-legge 7 settembre 1933, n. 1295](Modifiche%20alle%20disposizioni%20in%20materia%20di%20decadenza%20dalla%20pensione%20in%20caso%20di%20perdita%20della%20cittadinanza%20italiana.%20033U1295.md), contenente modificazioni alle disposizioni in materia di decadenza dalla pensione in caso di perdita della cittadinanza italiana. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

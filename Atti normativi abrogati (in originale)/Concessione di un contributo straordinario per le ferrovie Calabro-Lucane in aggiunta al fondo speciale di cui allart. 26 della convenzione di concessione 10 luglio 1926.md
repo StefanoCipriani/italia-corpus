@@ -14,9 +14,9 @@ Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.no
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [regio decreto-legge 29 luglio 1926, n. 1450](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-29;1450), col quale venne approvata la convenzione di concessione delle ferrovie Calabro-Lucane 10 luglio 1926;
+Visto il [regio decreto-legge 29 luglio 1926, n. 1450](Approvazione%20di%20una%20convenzione%20con%20la%20Societa%20delle%20strade%20ferrate%20del%20Mediterraneo%20per%20la%20concessione%20delle%20ferrovie%20calabro%20-%20lucane.%20026U1450.md), col quale venne approvata la convenzione di concessione delle ferrovie Calabro-Lucane 10 luglio 1926;
 
 Visto l'art. 20 della convenzione predetta;
 

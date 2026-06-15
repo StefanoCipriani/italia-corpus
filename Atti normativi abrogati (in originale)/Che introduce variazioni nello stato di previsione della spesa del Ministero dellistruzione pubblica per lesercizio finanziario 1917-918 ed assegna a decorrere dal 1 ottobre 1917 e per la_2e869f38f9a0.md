@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 28 ottobre 1917, n. 1751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-10-28;1751);
+Vista la [legge 28 ottobre 1917, n. 1751](Relativa%20alla%20proroga%20dellesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lanno%201917-918%20fino%20a%20quando%20non%20sieno%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicemb_ad80283e5b0f.md);
 
 Udito il Consiglio dei ministri;
 
@@ -38,7 +38,7 @@ E' autorizzata l'assegnazione straordinaria di lire 75.925,75 per maggiori spese
 
 A decorrere dall'ottobre 1917, e per la durata della guerra, e' assegnata ai professori gia' appartenenti agli Istituti di istruzione media delle terre italiane soggette alla dominazione dell'Impero austro-ungarico ed assunti nelle scuole medie governative italiane in qualita' di supplenti una speciale indennita' mensile per un importo che non potra' per ogni anno scolastico superare complessivamente le lire 15.000. 
  
- Al pagamento della indennita' medesima, i cui fondi vengono assegnati al capitolo n. 270-ter di cui alla unita tabella verra' provveduto con le norme dell'art. 10, ultimo comma, della [legge 8 aprile 1906, numero 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142).
+ Al pagamento della indennita' medesima, i cui fondi vengono assegnati al capitolo n. 270-ter di cui alla unita tabella verra' provveduto con le norme dell'art. 10, ultimo comma, della [legge 8 aprile 1906, numero 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md).
 
 ## Art. 4.
 
@@ -49,15 +49,15 @@ Sono modificate come appresso le denominazioni dei seguenti capitoli dello stato
 52.
 
 Assegni e sussidi ad asili e giardini di infanzia.
-Concorso dello Stato per l'istituzione ed il mantenimento degli asili modello e delle annesse scuole pratiche magistrali. Spese per i corsi estivi e per il conseguimento del diploma di maestra assistente e di maestra giardiniera a' termini dell'[art. 18 della legge 25 maggio 1913, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-25;517#art_18), e degli articoli 5 e 24 del regolamento approvato con [decreto Luogotenenziale 14 maggio 1916, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-14;1216). 
+Concorso dello Stato per l'istituzione ed il mantenimento degli asili modello e delle annesse scuole pratiche magistrali. Spese per i corsi estivi e per il conseguimento del diploma di maestra assistente e di maestra giardiniera a' termini dell'[art. 18 della legge 25 maggio 1913, n. 517](Concernente%20la%20trasformazione%20di%20Istituti%20di%20istruzione%20e%20di%20educazione.%20013U0517.md), e degli articoli 5 e 24 del regolamento approvato con [decreto Luogotenenziale 14 maggio 1916, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-14;1216). 
  
  Cap.
 
 53.
 
-Concorso nell'istituzione e nel mantenimento dei giardini ed asili di infanzia di cui all'[art. 72 della legge 15 luglio 1906, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383#art_72). Concorso dello Stato per la istituzione e il mantenimento degli asili modello e delle scuole pratiche magistrali annesse; spese per i corsi estivi per il conseguimento del diploma di maestra assistente e di maestra giardiniera a' termini dell'[art. 18 della legge 25 maggio 1913, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-25;517#art_18) e degli articoli 5 e 24 del regolamento approvato con il [decreto Luogotenenziale 14 maggio 1916, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-14;1216). 
+Concorso nell'istituzione e nel mantenimento dei giardini ed asili di infanzia di cui all'[art. 72 della legge 15 luglio 1906, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383#art_72). Concorso dello Stato per la istituzione e il mantenimento degli asili modello e delle scuole pratiche magistrali annesse; spese per i corsi estivi per il conseguimento del diploma di maestra assistente e di maestra giardiniera a' termini dell'[art. 18 della legge 25 maggio 1913, n. 517](Concernente%20la%20trasformazione%20di%20Istituti%20di%20istruzione%20e%20di%20educazione.%20013U0517.md) e degli articoli 5 e 24 del regolamento approvato con il [decreto Luogotenenziale 14 maggio 1916, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-14;1216). 
  
- Cap. 56. Concorso dello Stato a vantaggio dell'istruzione elementare nei Comuni di cui all'[art. 77 della legge 15 luglio 1906, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383#art_77), ed in applicazione degli articoli 70, 72, 69 e 67 comma 1°,67 comma 2°, 71, 59 e 63 della legge stessa. Concorso dello Stato per l'istituzione e il mantenimento degli asili modello e delle annesse scuole pratiche magistrali. Spese per i corsi estivi per il conseguimento del diploma di maestra assistente e di maestra giardiniera a' termini dell'[art. 18 della legge 25 maggio 1913, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-25;517#art_18), e degli articoli 5 e 24 del regolamento approvato con [decreto Luogotenenziale 14 maggio 1916, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-14;1216). 
+ Cap. 56. Concorso dello Stato a vantaggio dell'istruzione elementare nei Comuni di cui all'[art. 77 della legge 15 luglio 1906, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383#art_77), ed in applicazione degli articoli 70, 72, 69 e 67 comma 1°,67 comma 2°, 71, 59 e 63 della legge stessa. Concorso dello Stato per l'istituzione e il mantenimento degli asili modello e delle annesse scuole pratiche magistrali. Spese per i corsi estivi per il conseguimento del diploma di maestra assistente e di maestra giardiniera a' termini dell'[art. 18 della legge 25 maggio 1913, n. 517](Concernente%20la%20trasformazione%20di%20Istituti%20di%20istruzione%20e%20di%20educazione.%20013U0517.md), e degli articoli 5 e 24 del regolamento approvato con [decreto Luogotenenziale 14 maggio 1916, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-14;1216). 
  
  Cap. 67. Spese per conferenze e corsi magistrali indetti dal Ministero. Mostre, gare e congressi didattici riguardanti l'insegnamento popolare elementare, l'educazione infantile, associazioni e scuole di cultura popolare. Assegno annuo alla scuola «Giuseppe Sacchi» per educatrici dell'infanzia in Crescenzago (Milano). Sussidi per la pratica dell'educazione infantile in asili modello. 
  

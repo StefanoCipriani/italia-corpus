@@ -17,12 +17,12 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 La prima parte dell'[articolo 1 della legge 28 luglio 1960, n. 777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-07-28;777#art_1), e' sostituita dalla seguente:
- "L'articolo 99 dell'Ordinamento del personale delle cancellerie e Segreterie giudiziarie approvato con [regio decreto-legge 8 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;745), e' abrogato a decorrere dal 1 gennaio 1965" .
+ "L'articolo 99 dell'Ordinamento del personale delle cancellerie e Segreterie giudiziarie approvato con [regio decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), e' abrogato a decorrere dal 1 gennaio 1965" .
 
 ## Art. 2.
 
 L'[articolo 2 della legge 28 luglio 1960, n. 777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-07-28;777#art_2), e' sostituito dal seguente:
- "L'autorizzazione ai cancellieri dirigenti di avvalersi della disposizione di cui all'[articolo 99 del regio decreto-legge 8 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;745#art_99), viene concessa dal Ministero di grazia e giustizia per comprovate maggiori esigenze del servizio di copia" .
+ "L'autorizzazione ai cancellieri dirigenti di avvalersi della disposizione di cui all'[articolo 99 del regio decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), viene concessa dal Ministero di grazia e giustizia per comprovate maggiori esigenze del servizio di copia" .
 
 ## Art. 3.
 

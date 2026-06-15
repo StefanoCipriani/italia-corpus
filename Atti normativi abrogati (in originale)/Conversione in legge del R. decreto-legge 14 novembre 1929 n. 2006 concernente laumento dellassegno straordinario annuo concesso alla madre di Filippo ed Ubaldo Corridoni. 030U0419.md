@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 novembre 1929, n. 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-14;2006), concernente l'aumento dell'assegno straordinario annuo concesso alla madre di Filippo ed Ubaldo Corridoni. 
+ E' convertito in legge il [R. decreto-legge 14 novembre 1929, n. 2006](Aumento%20dellassegno%20straordinario%20annuo%20concesso%20alla%20madre%20di%20Filippo%20ed%20Ubaldo%20Corridoni.%20029U2006.md), concernente l'aumento dell'assegno straordinario annuo concesso alla madre di Filippo ed Ubaldo Corridoni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

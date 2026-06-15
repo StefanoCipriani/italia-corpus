@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 gennaio 1929, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-28;146), concernente l'inquadramento nel ruolo dei funzionari di pubblica sicurezza degli ufficiali della Divisione speciale di polizia della Capitale. 
+ E' convertito in legge il [R. decreto-legge 28 gennaio 1929, n. 146](Inquadramento%20nel%20ruolo%20dei%20funzionari%20di%20pubblica%20sicurezza%20degli%20ufficiali%20della%20Divisione%20speciale%20di%20polizia%20della%20Capitale.%20029U0146.md), concernente l'inquadramento nel ruolo dei funzionari di pubblica sicurezza degli ufficiali della Divisione speciale di polizia della Capitale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

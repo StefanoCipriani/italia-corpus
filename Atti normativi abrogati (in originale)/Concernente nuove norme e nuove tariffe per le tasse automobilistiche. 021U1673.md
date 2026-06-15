@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti il testo unico delle leggi per le tasse sugli autoveicoli approvato con [decreto Luogotenenziale 6 gennaio 1918, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-01-06;135), e il [R. decreto legislativo 24 novembre 1919, n. 2163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1919-11-24;2163), alleg. H;
 
-Visti la [legge 24 settembre 1920, n. 1301](Che%20aumenta%20le%20tasse%20sulla%20circolazione%20dei%20motocicli%20degli%20automobili%20e%20degli%20autoscafi.%20020U1301.md), e il regolamento approvato con [R. decreto 31 agosto 1910, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-31;642);
+Visti la [legge 24 settembre 1920, n. 1301](Che%20aumenta%20le%20tasse%20sulla%20circolazione%20dei%20motocicli%20degli%20automobili%20e%20degli%20autoscafi.%20020U1301.md), e il regolamento approvato con [R. decreto 31 agosto 1910, n. 642](Che%20approva%20lannesso%20regolamento%20relativo%20alle%20tasse%20sui%20velocipedi%20sui%20motocicli%20e%20sugli%20automobili.%20010U0642.md);
 
 Viste le [leggi 20 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md);
 
@@ -151,13 +151,13 @@ Tutti gli autoveicoli e autoscafi messi in azione da motore elettrico di produzi
 
 ## Art. 5.
 
-Sulle domande per ottenere l'abilitazione a condurre autoveicoli di cui agli articoli 32 a 37 del regolamento approvato con Regie decreto 2 luglio 1914, n. 811, e dell'art. 43 del regolamento approvato con [R. decreto 29 luglio 1909, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-07-29;710), devono applicarsi a cura dei richiedenti marche da bollo a tassa fissa da L. 10 per le autovetture ed autocarri, e da L. 5 per i motocicli, da annullarsi a cura del funzionario incaricato dell'esame del conducente col bollo di ufficio. 
+Sulle domande per ottenere l'abilitazione a condurre autoveicoli di cui agli articoli 32 a 37 del regolamento approvato con Regie decreto 2 luglio 1914, n. 811, e dell'art. 43 del regolamento approvato con [R. decreto 29 luglio 1909, n. 710](Che%20approva%20lannesso%20regolamento%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie.%20009U0710.md), devono applicarsi a cura dei richiedenti marche da bollo a tassa fissa da L. 10 per le autovetture ed autocarri, e da L. 5 per i motocicli, da annullarsi a cura del funzionario incaricato dell'esame del conducente col bollo di ufficio. 
  
  Le tasse di concessione governativa per i certificati di idoneita' a condurre autoveicoli (n. 66, lett. c e d, della tabella annessa al [Regio decreto legislativo 24 novembre 1919, n. 2163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1919-11-24;2163), allegato F) sono esatte a mezzo di marche per concessione governativa da L. 20 o da L. 10 da applicarsi sul certificato di abilitazione rilasciato dai funzionari dell'ufficio speciale delle ferrovie, ed a cura dei funzionari stessi annullate col bollo d'ufficio. 
  
  Le tasse di vidimazione annuale dei certificati di idoneita', di cui all'ultimo comma del suddetto n. 66 della tabella, sono esatte a mezzo di marche per concessione governativa da L. 10 o da L. 5 rispettivamente per le autovetture e autocarri, e per i motocicli, da applicarsi sui certificati di idoneita' e da annullarsi col bollo a calendario a cura degli uffici del registro. 
  
- Per i conducenti di autoveicoli in servizio pubblico da piazza e' obbligatorio il successivo esame di cui all'art. 43 del regolamento approvato con [R. decreto 29 luglio 1909, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-07-29;710). 
+ Per i conducenti di autoveicoli in servizio pubblico da piazza e' obbligatorio il successivo esame di cui all'art. 43 del regolamento approvato con [R. decreto 29 luglio 1909, n. 710](Che%20approva%20lannesso%20regolamento%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie.%20009U0710.md). 
  
  All'infuori di questo secondo esame per i conducenti anzidetti nessun altro accertamento d'idoneita' puo' essere richiesto da parte dei Comuni.
 
@@ -304,7 +304,7 @@ E' punito con la pena pecuniaria da L. 100 a L. 500 chiunque vende o pone in ven
  
  La stessa pena e' applicabile per la vendita dei contrassegni un prezzo inferiore a quello stabilito. 
  
- Le disposizioni del libro 2°, titolo 6°, capo 2°, del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) sono estese alla contraffazione dei contrassegni indicati nella presente legge, compresi quelli gratuiti, allo sciente uso e messa in vendita e detenzione dei contrassegni contraffatti ed alla detenzione degli strumenti destinati alla contraffazione.
+ Le disposizioni del libro 2°, titolo 6°, capo 2°, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono estese alla contraffazione dei contrassegni indicati nella presente legge, compresi quelli gratuiti, allo sciente uso e messa in vendita e detenzione dei contrassegni contraffatti ed alla detenzione degli strumenti destinati alla contraffazione.
 
 ## Art. 19.
 

@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Il [decreto-legge Luogotenenziale 26 luglio 1917, numero 1274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-07-26;1274), concernente la vigilanza sulla caccia e servizi affini ad opera del Corpo speciale guardiecaccia campestri, con sede in Genova, e' revocato. 
+ Il [decreto-legge Luogotenenziale 26 luglio 1917, numero 1274](Concernente%20la%20vigilanza%20sulla%20caccia%20e%20servizi%20affini.%20017U1274.md), concernente la vigilanza sulla caccia e servizi affini ad opera del Corpo speciale guardiecaccia campestri, con sede in Genova, e' revocato. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

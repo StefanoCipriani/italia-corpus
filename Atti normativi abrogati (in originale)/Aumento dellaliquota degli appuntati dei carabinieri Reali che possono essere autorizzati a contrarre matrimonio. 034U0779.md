@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il R. decreto-legge 20 novembre 1919, 2379, relativo al matrimonio dei sottufficiali del Regio esercito e degli appuntati dei carabinieri Reali, convertito nella [legge 21 agosto 1922, n. 1264](Che%20converte%20in%20legge%20il%20R.%20decreto%2020%20novembre%201919%20n.%202379%20contenente%20disposizioni%20relative%20al%20matrimonio%20dei%20sottufficiali%20del%20R.%20esercito%20e%20degli%20appuntati%20dei%20carabinieri%20Reali.%20022U1264.md);
 
-Visto il [R. decreto 19 aprile 1923, n. 986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;986), relativo al matrimonio dei sottufficiali e militari di truppa del Regio esercito e della Regia marina;
+Visto il [R. decreto 19 aprile 1923, n. 986](Relativo%20al%20matrimonio%20dei%20sottufficiali%20e%20militari%20di%20truppa%20del%20Regio%20esercito%20e%20della%20Regia%20marina%20e%20dei%20sottufficiali%20e%20appuntati%20dei%20carabinieri%20Reali.%20023U0986.md), relativo al matrimonio dei sottufficiali e militari di truppa del Regio esercito e della Regia marina;
 
 Visto il R. decreto-legge 28 gennaio 1929, a. 169, relativo all'aumento dell'aliquota degli appuntati dei carabinieri Reali che possono essere autorizzati a contrarre matrimonio, convertito nella [legge 13 giugno 1929, n. 1026](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20gennaio%201929%20n.%20169%20concernente%20laumento%20dellaliquota%20degli%20appuntati%20dei%20carabinieri%20Reali%20che%20possono%20essere%20autorizzati%20a%20contrarre%20matrimonio.%20029U1026.md);
 

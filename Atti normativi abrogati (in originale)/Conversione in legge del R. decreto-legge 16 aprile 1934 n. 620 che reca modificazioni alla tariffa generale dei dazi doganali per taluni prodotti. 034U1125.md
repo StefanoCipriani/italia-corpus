@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 aprile 1934, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-16;620), che reca modificazioni alla tariffa generale dei dazi doganali per taluni prodotti. 
+ E' convertito in legge il [R. decreto-legge 16 aprile 1934, n. 620](Modificazioni%20alla%20tariffa%20generale%20dei%20dazi%20doganali%20per%20taluni%20prodotti.%20034U0620.md), che reca modificazioni alla tariffa generale dei dazi doganali per taluni prodotti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

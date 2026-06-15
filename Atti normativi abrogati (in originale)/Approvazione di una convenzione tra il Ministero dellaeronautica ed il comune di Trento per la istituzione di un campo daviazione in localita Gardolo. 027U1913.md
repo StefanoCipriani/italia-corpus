@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sulle espropriazioni per pubblica utilita', e successive modificazioni;
 
-Visto il [R. decreto 20 agosto 1923, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-20;2207), convertito nella [legge 31 gennaio 1926, n. 753](Conversione%20in%20legge%20dei%20Regi%20decreti-legge%201%20in%20data%2024%20dicembre%201922%20n.%201878%20col%20quale%20si%20da%20esecuzione%20alla%20Convenzione%20per%20il%20regolamento%20della%20navigazione%20aerea%20stipulata%20fra%20lItalia_c42f1e095751.md), contenente provvedimenti per la navigazione aerea;
+Visto il [R. decreto 20 agosto 1923, n. 2207](Norme%20per%20la%20navigazione%20aerea.%20023U2207.md), convertito nella [legge 31 gennaio 1926, n. 753](Conversione%20in%20legge%20dei%20Regi%20decreti-legge%201%20in%20data%2024%20dicembre%201922%20n.%201878%20col%20quale%20si%20da%20esecuzione%20alla%20Convenzione%20per%20il%20regolamento%20della%20navigazione%20aerea%20stipulata%20fra%20lItalia_c42f1e095751.md), contenente provvedimenti per la navigazione aerea;
 
 Visto il [R. decreto legislativo 8 aprile 1923, n. 820](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1923-04-08;820);
 

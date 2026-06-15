@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 settembre 1934, n. 1599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-20;1599), per la determinazione dell'ordine di ruolo degli archivisti delle imposte dirette promossi a tale grado dopo il 30 giugno 1926. 
+ E' convertito in legge il [R. decreto-legge 20 settembre 1934, n. 1599](Determinazione%20dellordine%20di%20ruolo%20degli%20archivisti%20delle%20imposte%20dirette%20promossi%20a%20tale%20grado%20dopo%20il%2030%20giugno%201926.%20034U1599.md), per la determinazione dell'ordine di ruolo degli archivisti delle imposte dirette promossi a tale grado dopo il 30 giugno 1926. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

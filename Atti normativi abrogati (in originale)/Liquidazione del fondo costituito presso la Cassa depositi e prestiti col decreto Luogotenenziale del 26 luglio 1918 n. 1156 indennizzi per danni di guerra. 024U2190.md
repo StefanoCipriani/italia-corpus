@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visti i [decreti Luogotenenziale del 24 giugno 1915, numero 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-24;1014); del [14 novembre 1915, n. 1642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-14;1642); del [10 febbraio 1916, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-02-10;163); del [17 giugno 1917, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-06-17;1068), e del [26 luglio 1918, n. 1156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-07-26;1156);
 
-Visti il [R. decreto-legge n. 207 del 22 febbraio 1920](Che%20sopprime%20la%20Commissione%20delle%20prede%20ed%20istituisce%20una%20Commissione%20per%20laccertamento%20dei%20danni%20e%20per%20la%20liquidazione%20delle%20indennita%20di%20cui%20al%20decreto%20Luogotenenziale%2024%20giugno%201915%20n._06728fcb4a72.md) ed [R. decreto n. 1830 del 15 luglio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-15;1830);
+Visti il [R. decreto-legge n. 207 del 22 febbraio 1920](Che%20sopprime%20la%20Commissione%20delle%20prede%20ed%20istituisce%20una%20Commissione%20per%20laccertamento%20dei%20danni%20e%20per%20la%20liquidazione%20delle%20indennita%20di%20cui%20al%20decreto%20Luogotenenziale%2024%20giugno%201915%20n._06728fcb4a72.md) ed [R. decreto n. 1830 del 15 luglio 1923](Soppressione%20della%20Commissione%20per%20i%20danni%20marittimi%20di%20guerra%20023U1830.md);
 
-Visto il [R. decreto n. 1214 del 31 luglio 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-31;1214);
+Visto il [R. decreto n. 1214 del 31 luglio 1921](Che%20stabilisce%20un%20premio%20per%20il%20recupero%20dal%20fondo%20del%20mare%20di%20ancore%20di%20torpedini%20che%20tuttora%20vi%20si%20trovino%20affondate.%20021U1214.md);
 
 Visto il [decreto-legge Luogotenenziale n. 1661 dell'11 ottobre 1917](Col%20quale%20e%20stabilito%20il%20passaggio%20degli%20Istituti%20nautici%20alla%20dipendenza%20del%20Ministero%20della%20marina.%20017U1661.md) ed il [R. decreto-legge n. 1735 del 23 dicembre 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-12-23;1735);
 
@@ -50,7 +50,7 @@ Nella parte straordinaria del bilancio passivo del Ministero della marina e' aut
 
 ## Art. 5.
 
-E' parimenti autorizzata nella parte straordinaria del bilancio passivo del Ministero della marina la spesa di lire 300,000 per provvedere ai pagamenti dei premi per il ricupero dal fondo del mare delle ancore, di torpedini nemiche, o affondate dall'Italia per fatto di guerra, posti dal [R. decreto n. 1214 del 31 luglio 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-31;1214) a carico del sopra citato fondo esistente presso la Cassa depositi e prestiti. 
+E' parimenti autorizzata nella parte straordinaria del bilancio passivo del Ministero della marina la spesa di lire 300,000 per provvedere ai pagamenti dei premi per il ricupero dal fondo del mare delle ancore, di torpedini nemiche, o affondate dall'Italia per fatto di guerra, posti dal [R. decreto n. 1214 del 31 luglio 1921](Che%20stabilisce%20un%20premio%20per%20il%20recupero%20dal%20fondo%20del%20mare%20di%20ancore%20di%20torpedini%20che%20tuttora%20vi%20si%20trovino%20affondate.%20021U1214.md) a carico del sopra citato fondo esistente presso la Cassa depositi e prestiti. 
  
  Le autorizzazioni relative saranno ripartite negli esercizi finanziari dal 1923-24 al 1926-27, come segue: 
  

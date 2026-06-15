@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduti gli [articoli 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_30) e [59, secondo comma, della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_59-com2);
+Veduti gli [articoli 30](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md) e [59, secondo comma, della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Su proposta del ministro segretario di Stato per la istruzione pubblica, di conc
 
 ## Art. 1.
 
-E' prorogato per un quinquennio il termine indicato nel [secondo comma dell'art. 59 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_59-com2); ma alla scadenza di esso i capi d'Istituto e gli insegnanti che siano mantenuti in ufficio in applicazione di detto comma, cesseranno dal servizio anche se non abbiano raggiunto i 75 anni di eta'. 
+E' prorogato per un quinquennio il termine indicato nel [secondo comma dell'art. 59 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md); ma alla scadenza di esso i capi d'Istituto e gli insegnanti che siano mantenuti in ufficio in applicazione di detto comma, cesseranno dal servizio anche se non abbiano raggiunto i 75 anni di eta'. 
  
  L'accertamento della validita' fisica e intellettuale alla quale e' sempre subordinata l'applicazione del secondo comma dell'art. 59 della legge sopra indicata, deve essere rinnovato anno per anno.
 Coloro, in favore dei quali sia stata fatta questa applicazione cesseranno dall'ufficio col principio dell'anno scolastico successivo ogni qual volta tale validita' non sia stata pienamente dichiarata e confermata.

@@ -36,12 +36,12 @@ Entro sessanta giorni dalla data di presentazione, la regione, o altro ente dele
 
 4.
 
-Le richieste di mutuo sono inoltrate da parte dei soggetti indicati al comma 1 entro il termine perentorio di trenta giorni dall'approvazione del progetto alla Cassa depositi e prestiti ed al Ministro dell'ambiente. Ai fini dell'erogazione del mutuo si applica il disposto dell'[articolo 4 del decreto-legge 29 maggio 1984, n. 176](Misure%20urgenti%20in%20materia%20di%20tutela%20ambientale.md), convertito, con modificazioni, dalla [legge 25 luglio 1984, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-25;381). Il termine ultimo per il riconoscimento della priorita' da parte del Ministro dell'ambiente e' stabilito in 180 giorni dalla data di entrata in vigore del presente decreto. In difetto, la priorita' e' determinata secondo l'ordine cronologico di presentazione delle richieste.
+Le richieste di mutuo sono inoltrate da parte dei soggetti indicati al comma 1 entro il termine perentorio di trenta giorni dall'approvazione del progetto alla Cassa depositi e prestiti ed al Ministro dell'ambiente. Ai fini dell'erogazione del mutuo si applica il disposto dell'[articolo 4 del decreto-legge 29 maggio 1984, n. 176](Misure%20urgenti%20in%20materia%20di%20tutela%20ambientale.md), convertito, con modificazioni, dalla [legge 25 luglio 1984, n. 381](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20maggio%201984%20n.%20176%20concernente%20misure%20urgenti%20in%20materia%20di%20tutela%20ambientale.md). Il termine ultimo per il riconoscimento della priorita' da parte del Ministro dell'ambiente e' stabilito in 180 giorni dalla data di entrata in vigore del presente decreto. In difetto, la priorita' e' determinata secondo l'ordine cronologico di presentazione delle richieste.
 
 5.
 
 I lavori di adeguamento devono iniziare entro 120 giorni dalla erogazione del mutuo da parte della Cassa depositi e prestiti e devono essere ultimati entro diciotto mesi dal loro inizio.
- L'affidamento dei lavori puo' avvenire sulla base di gare esplorative volte ad identificare l'offerta economicamente e tecnicamente piu' vantaggiosa in base ad una pluralita' di elementi prefissati dall'amministrazione secondo i criteri di cui all'[articolo 24, comma primo, lettera b), della legge 8 agosto 1977, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;584#art_24-com1-letb).
+ L'affidamento dei lavori puo' avvenire sulla base di gare esplorative volte ad identificare l'offerta economicamente e tecnicamente piu' vantaggiosa in base ad una pluralita' di elementi prefissati dall'amministrazione secondo i criteri di cui all'[articolo 24, comma primo, lettera b), della legge 8 agosto 1977, n. 584](Norme%20di%20adeguamento%20delle%20procedure%20di%20aggiudicazione%20degli%20appalti%20di%20lavori%20pubblici%20alle%20direttive%20della%20Comunita%20economica%20europea.md).
 
 6.
 
@@ -185,7 +185,7 @@ All'onere derivante dall'istituzione dell'albo si provvede mediante riduzione de
 
 1.
 
-Ai provvedimenti giurisdizionali comportanti sospensioni dell'esecuzione degli atti di cui al presente decreto, comunque preordinati o utili alla realizzazione di impianti e attrezzature per lo smaltimento dei rifiuti e alla bonifica delle aree inquinate a causa dell'inadeguato smaltimento dei rifiuti medesimi, si applicano le disposizioni di cui all'[articolo 23-sexies del decreto-legge 27 febbraio 1982, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-02-27;57#art_23sexies), convertito, con modificazioni, dalla [legge 29 aprile 1982, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-29;187).
+Ai provvedimenti giurisdizionali comportanti sospensioni dell'esecuzione degli atti di cui al presente decreto, comunque preordinati o utili alla realizzazione di impianti e attrezzature per lo smaltimento dei rifiuti e alla bonifica delle aree inquinate a causa dell'inadeguato smaltimento dei rifiuti medesimi, si applicano le disposizioni di cui all'[articolo 23-sexies del decreto-legge 27 febbraio 1982, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-02-27;57#art_23sexies), convertito, con modificazioni, dalla [legge 29 aprile 1982, n. 187](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20febbraio%201982%20n.%2057%20concernente%20disciplina%20per%20la%20gestione%20stralcio%20dellattivita%20del%20commissario%20per%20le%20zone%20terremotate%20della%20_0affa8529913.md).
 
 ## Art. 10.
 

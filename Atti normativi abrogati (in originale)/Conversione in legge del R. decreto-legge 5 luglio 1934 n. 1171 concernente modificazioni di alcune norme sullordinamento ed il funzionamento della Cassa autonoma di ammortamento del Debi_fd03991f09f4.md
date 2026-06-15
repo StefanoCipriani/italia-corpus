@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1171), concernente modificazioni di alcune norme sull'ordinamento e il funzionamento della Cassa autonoma di ammortamento del Debito pubblico interno. 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1171](Modificazioni%20di%20alcune%20norme%20sullordinamento%20ed%20il%20funzionamento%20della%20Cassa%20autonoma%20di%20ammortamento%20del%20Debito%20pubblico%20interno.%20034U1171.md), concernente modificazioni di alcune norme sull'ordinamento e il funzionamento della Cassa autonoma di ammortamento del Debito pubblico interno. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

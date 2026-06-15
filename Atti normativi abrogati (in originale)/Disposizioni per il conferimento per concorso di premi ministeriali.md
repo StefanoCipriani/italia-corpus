@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il [regio decreto 12 dicembre 1940, n. 1947](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-12-12;1947);
+Veduto il [regio decreto 12 dicembre 1940, n. 1947](Nuove%20disposizioni%20per%20il%20conferimento%20per%20concorso%20di%20premi%20ministeriali.%20040U1947.md);
 
 Veduto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -52,7 +52,7 @@ I premi sono indivisibili e sono corrisposti dal Ministero della pubblica istruz
 
 ## Art. 7.
 
-E' abrogato il [regio decreto 12 dicembre 1940, n. 1947](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-12-12;1947).
+E' abrogato il [regio decreto 12 dicembre 1940, n. 1947](Nuove%20disposizioni%20per%20il%20conferimento%20per%20concorso%20di%20premi%20ministeriali.%20040U1947.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

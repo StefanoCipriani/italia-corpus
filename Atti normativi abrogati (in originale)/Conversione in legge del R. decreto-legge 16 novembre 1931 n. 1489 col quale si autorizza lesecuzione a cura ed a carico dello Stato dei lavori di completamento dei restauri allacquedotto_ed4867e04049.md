@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 novembre 1931, n. 1489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-16;1489), con il quale si autorizza l'esecuzione, a cura ed a carico dello Stato, dei lavori di completamento dei restauri all'acquedotto del «Bottaccione» in Gubbio. 
+ E' convertito in legge il [R. decreto-legge 16 novembre 1931, n. 1489](Autorizzazione%20dellesecuzione%20a%20cura%20ed%20a%20carico%20dello%20Stato%20dei%20lavori%20di%20completamento%20dei%20restauri%20dellacquedotto%20del%20Bottaccione%20in%20Gubbio.%20031U1489.md), con il quale si autorizza l'esecuzione, a cura ed a carico dello Stato, dei lavori di completamento dei restauri all'acquedotto del «Bottaccione» in Gubbio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

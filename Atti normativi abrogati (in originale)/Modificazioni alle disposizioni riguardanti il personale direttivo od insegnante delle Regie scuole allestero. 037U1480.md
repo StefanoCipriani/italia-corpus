@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 19 maggio 1930, n. 909](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-19;909), relativo alla scelta del personale direttivo ed insegnante delle scuole all'estero;
+Visto il [R. decreto 19 maggio 1930, n. 909](Norme%20per%20lassunzione%20del%20personale%20direttivo%20ed%20insegnante%20delle%20Regie%20scuole%20italiane%20allestero.%20030U0909.md), relativo alla scelta del personale direttivo ed insegnante delle scuole all'estero;
 
 Visto il [R. decreto-legge 28 settembre 1934, n. 1724](Determinazione%20degli%20assegni%20per%20il%20personale%20addetto%20alle%20scuole%20italiane%20allestero.%20034U1724.md), relativo alla determinazione degli assegni per il personale addetto alle scuole all'estero;
 
@@ -34,19 +34,19 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari esteri, di
 
 ## Art. 1.
 
-L'[art. 1 del R. decreto 19 maggio 1930, n. 909](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-19;909#art_1), e' sostituito dal seguente: 
+L'[art. 1 del R. decreto 19 maggio 1930, n. 909](Norme%20per%20lassunzione%20del%20personale%20direttivo%20ed%20insegnante%20delle%20Regie%20scuole%20italiane%20allestero.%20030U0909.md), e' sostituito dal seguente: 
  
  « L'assunzione da parte del Ministero degli affari esteri del personale direttivo ed insegnante delle Regie scuole elementari e materne all'estero avra' luogo, sempre ove occorra, ogni anno, previo giudizio di idoneita' in base ai titoli di ciascun aspirante e ad una eventuale prova orale ».
 
 ## Art. 2.
 
-L'[art. 8 del R. decreto 19 maggio 1930, n. 909](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-19;909#art_8), e' sostituito dal seguente: 
+L'[art. 8 del R. decreto 19 maggio 1930, n. 909](Norme%20per%20lassunzione%20del%20personale%20direttivo%20ed%20insegnante%20delle%20Regie%20scuole%20italiane%20allestero.%20030U0909.md), e' sostituito dal seguente: 
  
  « La Commissione giudicatrice accertata la regolarita' dei documenti e valendosi di tutti gli elementi di giudizio in suo possesso, compilera' l'elenco degli idonei ed eventualmente dei candidati ammessi alla prova orale (colloquio) di cui all'art. 1 del presente decreto ».
 
 ## Art. 3.
 
-L'[art. 16 del R. decreto 19 maggio 1930, n. 909](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-19;909#art_16), e' sostituito dal seguente: 
+L'[art. 16 del R. decreto 19 maggio 1930, n. 909](Norme%20per%20lassunzione%20del%20personale%20direttivo%20ed%20insegnante%20delle%20Regie%20scuole%20italiane%20allestero.%20030U0909.md), e' sostituito dal seguente: 
  
  « Il personale direttivo ed insegnante comunque in servizio presso le scuole medie ed elementari, richiamato nel Regno sara' collocato a disposizione del Ministero dell'educazione nazionale ed avra' facolta' di chiedere tre sedi vacanti nelle scuole del Regno, a una delle quali sara' assegnato a scelta insindacabile del Ministro, purche' il richiamo dall'estero non sia stato determinato da ragioni disciplinari o da altri demeriti. 
  

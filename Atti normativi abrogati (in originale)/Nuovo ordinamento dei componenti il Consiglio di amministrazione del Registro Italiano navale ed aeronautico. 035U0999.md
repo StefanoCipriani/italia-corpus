@@ -10,9 +10,9 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 1 del R. decreto-legge 21 settembre 1933, n. 1332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-21;1332#art_1), convertito nella [legge 22 gennaio 1934, n. 240](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20settembre%201933%20n.%201332%20concernente%20la%20ricostituzione%20del%20Consiglio%20di%20amministrazione%20e%20del%20Collegio%20dei%20revisori%20dei%20conti%20del%20Registro%20itali_c1bdf52784c5.md), e' abrogato e sostituito dal seguente: 
+L'[art. 1 del R. decreto-legge 21 settembre 1933, n. 1332](Ricostituzione%20del%20Consiglio%20di%20amministrazione%20e%20del%20Collegio%20dei%20revisori%20dei%20conti%20del%20Registro%20italiano%20navale%20ed%20aeronautico.%20033U1332.md), convertito nella [legge 22 gennaio 1934, n. 240](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20settembre%201933%20n.%201332%20concernente%20la%20ricostituzione%20del%20Consiglio%20di%20amministrazione%20e%20del%20Collegio%20dei%20revisori%20dei%20conti%20del%20Registro%20itali_c1bdf52784c5.md), e' abrogato e sostituito dal seguente: 
  
- «L'[art. 11 del R. decreto-legge 11 novembre 1926, n. 2138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-11;2138#art_11), convertito nella [legge 16 febbraio 1928, n. 337](Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20novembre%201926%20n.%202138%20che%20riordina%20il%20Registro%20italiano%20per%20la%20classificazione%20delle%20navi.%20028U0337.md), e' abrogato e sostituito dal seguente: 
+ «L'[art. 11 del R. decreto-legge 11 novembre 1926, n. 2138](Riordinamento%20del%20Registro%20italiano%20per%20la%20classificazione%20delle%20navi.%20026U2138.md), convertito nella [legge 16 febbraio 1928, n. 337](Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20novembre%201926%20n.%202138%20che%20riordina%20il%20Registro%20italiano%20per%20la%20classificazione%20delle%20navi.%20028U0337.md), e' abrogato e sostituito dal seguente: 
  
  «Il Consiglio di amministrazione si riunisce a Roma almeno due volte all'anno. 
  

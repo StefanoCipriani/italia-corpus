@@ -20,7 +20,7 @@ Visto il [decreto legislativo Luogotenenziale 30 gennaio 1945, n. 41](Revisione%
 
 Visto il [decreto legislativo Luogotenenziale 13 marzo 1945, n. 116](Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md);
 
-Visto il [decreto legislativo Luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722);
+Visto il [decreto legislativo Luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -34,14 +34,14 @@ Sulla proposta del Ministro Segretario di Stato per il tesoro; Abbiamo sanzionat
 
 ## Art. 1.
 
-Gli assegni di caroviveri stabiliti dal [primo](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md) e [secondo comma dell'art. 6 del decreto legislativo Luogotenenziale 30 gennaio 1945, n. 41](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md), e modificati dall'[art. 11 del decreto legislativo Luogotenenziale 13 marzo 1945, n. 116](Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md) e dall'[art. 18 del decreto legislativo Luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722#art_18), sono elevati;
+Gli assegni di caroviveri stabiliti dal [primo](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md) e [secondo comma dell'art. 6 del decreto legislativo Luogotenenziale 30 gennaio 1945, n. 41](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md), e modificati dall'[art. 11 del decreto legislativo Luogotenenziale 13 marzo 1945, n. 116](Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md) e dall'[art. 18 del decreto legislativo Luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), sono elevati;
  da L. 18.000 a L. 30.000 annue lorde per i titolari di pensioni od assegni diretti di eta' non inferiore a 60 anni e per i titolari di pensioni o assegni privilegiati diretti;
  da L. 9600 a L. 18.000 annue lorde per i titolari di pensioni od assegni diretti, non privilegiati, aventi meno di 60 anni di eta';
  da L. 14.400 a L. 20.400 annue lorde per i titolari di pensioni od assegni di riversibilita'.
 
 ## Art. 2.
 
-Gli assegni di caroviveri di cui al precedente art. 1 sono concessi ai pensionati del cessato regime austroungarico ancorche' essi non fruiscano attualmente dell'assegno di caroviveri di cui al [R. decreto 14 maggio 1922, n. 743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-05-14;743), e successive modificazioni. Per tale categoria di pensionati, nell'assegno di caroviveri di cui al precedente art. 1 restano assorbiti tutti i caroviveri previsti dalle norme ex regime austro-ungarico; per i titolari di pensioni fiumane, resta assorbita nel caroviveri suddetto anche l'eventuale aggiunta di famiglia in godimento.
+Gli assegni di caroviveri di cui al precedente art. 1 sono concessi ai pensionati del cessato regime austroungarico ancorche' essi non fruiscano attualmente dell'assegno di caroviveri di cui al [R. decreto 14 maggio 1922, n. 743](Che%20estende%20ai%20pensionati%20del%20cessato%20regime%20i%20provvedimenti%20contenuti%20nel%20R.%20decreto-legge%2029%20dicembre%201921%20n.%201964.%20022U0743.md), e successive modificazioni. Per tale categoria di pensionati, nell'assegno di caroviveri di cui al precedente art. 1 restano assorbiti tutti i caroviveri previsti dalle norme ex regime austro-ungarico; per i titolari di pensioni fiumane, resta assorbita nel caroviveri suddetto anche l'eventuale aggiunta di famiglia in godimento.
  Per le pensioni ad onere ripartito, fermo restando che il caroviveri va corrisposto soltanto per una quota proporzionale alla parte di pensione che grava sullo Stato, sul Monte pensioni insegnanti elementari o sui Fondo pensioni delle ferrovie dello Stato, l'importo annuo lordo dell'anzidetta quota di caroviveri si arrotonda, per eccesso, a L. 100.
 
 ## Art. 3.

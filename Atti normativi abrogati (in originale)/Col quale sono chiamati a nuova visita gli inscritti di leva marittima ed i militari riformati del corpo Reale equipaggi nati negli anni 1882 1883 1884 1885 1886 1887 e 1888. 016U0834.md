@@ -13,7 +13,7 @@ vigente: true
 Gli inscritti di leva marittima e i militari del corpo R. equipaggi nati negli anni 1882, 1883, 1884, 1885, 1886, 1887, 1888, stati riformati dall'apertura della leva sulla classe 1882 (29 gennaio 1903) a tutto il 31 dicembre 1915, sono chiamati a nuova visita presso i Consigli di leva marittima, e quelli che risulteranno idonei alle armi saranno arruolati. 
  
  Essi possono ottenere l'assegnazione alla 2ª o alla 3ª categoria per i titoli previsti dalle vigenti leggi sulla leva marittima, nonche' per quelli che esistevano al tempo della loro leva, o che siansi verificati successivamente, se pure piu' non sussistenti, purche' non faccia ostacolo, a senso delle disposizioni vigenti, l'esenzione dal servizio di lª categoria concessa ad altro fratello.
-Per i titoli che sorgessero posteriormente all'arruolamento si applicano le disposizioni dell'[art. 9 della legge 5 luglio 1908, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-05;348#art_9).
+Per i titoli che sorgessero posteriormente all'arruolamento si applicano le disposizioni dell'[art. 9 della legge 5 luglio 1908, n. 348](Modificazioni%20alle%20vigenti%20leggi%20di%20leva%20marittima.%20008U0348.md).
 
 ## Art. 2.
 

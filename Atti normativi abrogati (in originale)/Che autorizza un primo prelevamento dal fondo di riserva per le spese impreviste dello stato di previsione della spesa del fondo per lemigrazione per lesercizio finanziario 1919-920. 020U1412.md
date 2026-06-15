@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto l'art. 38 del testo unico della legge sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 27 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-27;2016); 
  
- Visto l'art. 51 del regolamento approvato con [R. decreto 16 maggio 1912, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;556), per la gestione amministrativa e contabile del Fondo per l'emigrazione; 
+ Visto l'art. 51 del regolamento approvato con [R. decreto 16 maggio 1912, n. 556](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20del%20Fondo%20per%20lemigrazione.%20012U0556.md), per la gestione amministrativa e contabile del Fondo per l'emigrazione; 
  
  Ritenuta la necessita' di aumentare gli stanziamenti di alcuni capitoli del bilancio del Fondo per l'emigrazione per l'esercizio finanziario 1919-920; 
  

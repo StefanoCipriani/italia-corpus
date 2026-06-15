@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto 5 aprile 1900, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-04-05;126) (allegato A), col quale fu aumentato l'abbuono per la distillazione dei vini.
+E' convertito in legge il [R. decreto 5 aprile 1900, n. 126](Col%20quale%20viene%20concesso%20un%20maggiore%20abbuono%20per%20la%20distillazione%20dei%20vini.%20000U0126.md) (allegato A), col quale fu aumentato l'abbuono per la distillazione dei vini.
 
 ## Art. 2.
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Ferme restando le disposizioni contenute nel [decreto legislativo del Capo provvisorio dello Stato 1 dicembre 1947, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-01;1611), il termine stabilito per la chiusura delle operazioni di liquidazione delle organizzazioni sindacali fasciste, indicate all'[art. 1 del decreto legislativo luogotenenziale 23 novembre 1944, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-23;369#art_1), e' prorogato al 30 giugno 1949.
+Ferme restando le disposizioni contenute nel [decreto legislativo del Capo provvisorio dello Stato 1 dicembre 1947, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-01;1611), il termine stabilito per la chiusura delle operazioni di liquidazione delle organizzazioni sindacali fasciste, indicate all'[art. 1 del decreto legislativo luogotenenziale 23 novembre 1944, n. 369](../Decreti%20legislativi%20luogotenenziali/Soppressione%20delle%20organizzazioni%20sindacali%20fasciste%20e%20liquidazione%20dei%20rispettivi%20patrimoni.%20044U0369.md), e' prorogato al 30 giugno 1949.
  La proroga ha effetto dal 1 gennaio 1949.
 
 ## Art. 2.

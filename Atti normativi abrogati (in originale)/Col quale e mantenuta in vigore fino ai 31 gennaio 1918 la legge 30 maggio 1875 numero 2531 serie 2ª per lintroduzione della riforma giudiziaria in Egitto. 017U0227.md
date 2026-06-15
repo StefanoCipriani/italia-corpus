@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-La [legge 30 maggio 1875, n. 2531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-05-30;2531) (serie 2ª), per l'introduzione della riforma giudiziaria in Egitto, e' mantenuta in vigore, con tutti gli effetti derivanti dalla legge stessa, sino al 31 gennaio
+La [legge 30 maggio 1875, n. 2531](Relativa%20allintroduzione%20della%20riforma%20giudiziaria%20in%20Egitto%20075U2531.md) (serie 2ª), per l'introduzione della riforma giudiziaria in Egitto, e' mantenuta in vigore, con tutti gli effetti derivanti dalla legge stessa, sino al 31 gennaio
 
 1918.
 

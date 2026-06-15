@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sono convertiti in legge i [Regi decreti-legge 12 giugno 1931, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-12;841), e [17 luglio 1931, n. 1003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-17;1003), che autorizzano ulteriori spese per provvedimenti a favore dei danneggiati dal terremoto del 23 luglio 1930. 
+ Sono convertiti in legge i [Regi decreti-legge 12 giugno 1931, n. 841](Autorizzazione%20della%20spesa%20di%20L.%2010.000.000%20per%20provvedimenti%20in%20dipendenza%20del%20terremoto%20del%2023%20luglio%201930.%20031U0841.md), e [17 luglio 1931, n. 1003](Autorizzazione%20della%20spesa%20di%20L.%2020.000.000%20per%20provvedimenti%20a%20favore%20dei%20danneggiati%20dal%20terremoto%20del%2023%20luglio%201930.%20031U1003.md), che autorizzano ulteriori spese per provvedimenti a favore dei danneggiati dal terremoto del 23 luglio 1930. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 28 dicembre 1931 - Anno X 
  

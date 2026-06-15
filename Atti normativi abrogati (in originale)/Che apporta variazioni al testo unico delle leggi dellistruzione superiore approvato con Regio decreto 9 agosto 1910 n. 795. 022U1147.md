@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al testo unico delle leggi sull'istruzione superiore approvato con [Regio decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795), sono apportate le seguenti variazioni: 
+Al testo unico delle leggi sull'istruzione superiore approvato con [Regio decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), sono apportate le seguenti variazioni: 
  
  Art. 15. - E' sostituito il seguente: 
  
@@ -191,7 +191,7 @@ Istituto tecnico superiore di Milano, alla R. scuola superiore politecnica di Na
  
  L'accademia stabilita in Milano sara' retta da un preside nominato con decreto Reale con le norme di cui al precitato articolo 70. Egli esercitera' nell'Accademia l'autorita' stessa che e' attribuita ai rettori e ai presidi nelle Universita'. 
  
- Al preside suddetto si continuera' a corrispondere l'indennita' stabilita dal [R. decreto 13 maggio 1920, n. 929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-13;929). 
+ Al preside suddetto si continuera' a corrispondere l'indennita' stabilita dal [R. decreto 13 maggio 1920, n. 929](Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md). 
  
  Art. 85.-bis. - I laureati o diplomati nelle Universita' libere saranno tenuti a pagare per il conseguimento e per il riconoscimento, a tutti gli effetti pubblici, della laurea o del diploma una tassa erariale pari alla differenza tra l'importo complessivo delle tasse pagate nelle Universita' libere e quelle prescritte per le Universita' Regie. 
  
@@ -200,7 +200,7 @@ Per la dispensa dalle altre tasse valgono le norme prescritte per tale dispensa 
  
  Le disposizioni del presente articolo non si applicano agli immatricolati nelle Universita' libere anteriormente all'anno scolastico 1922-923. 
  
- Art. 85.-ter. - Le tasse scolastiche per gli iscritti all'Universita' di Macerata sono aumentate di somma pari all'importo complessivo degli aumenti portati dal [R. decreto-legge 9 maggio 1920, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-05-09;1058), e da quello che sara' emanato in virtu' dell'[art. 12 della legge 13 agosto 1921, n. 1080](Che%20reca%20provvedimenti%20per%20la%20riforma%20dellAmministrazione%20dello%20Stato%20la%20semplificazione%20dei%20servizi%20e%20la%20riduzione%20del%20personale.%20021U1080.md), alle tasse fissate dalla [legge 28 maggio 1903, n. 224](Che%20stabilisce%20la%20misura%20delle%20tasse%20e%20sopratasse%20scolastiche%20per%20le%20Universita%20gli%20Istituti%20superiori%20e%20gli%20Istituti%20superiori%20di%20magistero%20femminile%20di%20Roma%20e%20Firenze.%20003U0224.md), e tale aumento sara' devoluto all'erario dello Stato. 
+ Art. 85.-ter. - Le tasse scolastiche per gli iscritti all'Universita' di Macerata sono aumentate di somma pari all'importo complessivo degli aumenti portati dal [R. decreto-legge 9 maggio 1920, n. 1058](Che%20sostituisce%20la%20tabella%20C%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore%20approvato%20con%20R.%20decreto%209%20agosto%201910%20n.795%20relativo%20alle%20tasse%20e%20sopratasse%20scolastiche%20universitarie.%20020U1058.md), e da quello che sara' emanato in virtu' dell'[art. 12 della legge 13 agosto 1921, n. 1080](Che%20reca%20provvedimenti%20per%20la%20riforma%20dellAmministrazione%20dello%20Stato%20la%20semplificazione%20dei%20servizi%20e%20la%20riduzione%20del%20personale.%20021U1080.md), alle tasse fissate dalla [legge 28 maggio 1903, n. 224](Che%20stabilisce%20la%20misura%20delle%20tasse%20e%20sopratasse%20scolastiche%20per%20le%20Universita%20gli%20Istituti%20superiori%20e%20gli%20Istituti%20superiori%20di%20magistero%20femminile%20di%20Roma%20e%20Firenze.%20003U0224.md), e tale aumento sara' devoluto all'erario dello Stato. 
  
  Art. 87. - E' aggiunto il seguente comma: 
  
@@ -248,7 +248,7 @@ La presente legge entrera' in vigore:
 
 ## Art. 4.
 
-Sono abrogati il [R. decreto 8 ottobre 1920, n. 1546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-10-08;1546), e tutte le disposizioni contrarie alla presente legge e da essa diverse.
+Sono abrogati il [R. decreto 8 ottobre 1920, n. 1546](Che%20istituisce%20corsi%20di%20esercitazioni%20presso%20le%20Universita%20e%20gli%20Istituti%20di%20istruzione%20superiore.%20020U1546.md), e tutte le disposizioni contrarie alla presente legge e da essa diverse.
 
 ## Art. 5.
 

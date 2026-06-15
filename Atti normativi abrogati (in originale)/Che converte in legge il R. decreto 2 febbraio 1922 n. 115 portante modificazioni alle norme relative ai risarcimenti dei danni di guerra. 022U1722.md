@@ -116,7 +116,7 @@ Al fine di accertare o liquidare le indennita' dovute per risarcimento dei danni
  Art. 13 
  
  
- La presente legge entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta ufficiale por quanto concerne le modificazioni introdotte nel [R. decreto-legge 2 febbraio 1922, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-02-02;115). 
+ La presente legge entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta ufficiale por quanto concerne le modificazioni introdotte nel [R. decreto-legge 2 febbraio 1922, n. 115](Che%20apporta%20modificazioni%20alle%20norme%20concernenti%20il%20risarcimento%20dei%20danni%20di%20guerra.%20022U0115.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia incerta nella raccolta ufficiale delle leggi dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

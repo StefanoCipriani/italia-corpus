@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 8 febbraio 1923, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;422), che detta norme per l'esecuzione delle opere pubbliche, ed il [R. decreto-legge 28 agosto 1924, n. 1396](Modificazioni%20al%20R.%20decreto%208%20febbraio%201923%20n.%20422%20sulla%20esecuzione%20di%20opere%20pubbliche.%20024U1396.md), che vi ha apportato emendamenti;
+Visto il [R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), che detta norme per l'esecuzione delle opere pubbliche, ed il [R. decreto-legge 28 agosto 1924, n. 1396](Modificazioni%20al%20R.%20decreto%208%20febbraio%201923%20n.%20422%20sulla%20esecuzione%20di%20opere%20pubbliche.%20024U1396.md), che vi ha apportato emendamenti;
 
 Visto il [R. decreto-legge n. 520 del 23 aprile 1925](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), sul nuovo ordinamento dell'Amministrazione postale e telegrafica;
 
@@ -22,7 +22,7 @@ Vista la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizi
 
 Vista la [legge 7 aprile 1921, n. 368](Che%20stabilisce%20i%20nuovi%20quadri%20di%20classificazione%20degli%20stipendi%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20apporta%20altresi%20modificazioni%20alla%20legge%20organica%20delle%20ferrovie%20medesime.%20021U0368.md), che apporta modificazioni alla legge organica delle Ferrovie dello Stato;
 
-Visto il [R. decreto 24 settembre 1923, n. 2119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2119), con cui furono apportate semplificazioni nel procedimento espropriativo per le opere interessanti le Ferrovie dello Stato;
+Visto il [R. decreto 24 settembre 1923, n. 2119](Semplificazioni%20nel%20procedimento%20espropriativo%20per%20le%20opere%20interessanti%20le%20ferrovie%20dello%20Stato.%20023U2119.md), con cui furono apportate semplificazioni nel procedimento espropriativo per le opere interessanti le Ferrovie dello Stato;
 
 Sentito il Consiglio dei Ministri;
 
@@ -58,7 +58,7 @@ A richiesta dell'Amministrazione delle poste e dei telegrafi l'Amministrazione d
 
 ## Art. 6.
 
-Il Ministero dei lavori pubblici conserva la gestione dei fondi inscritti nel suo bilancio per la costruzione di edifici postali e telegrafici in applicazione dei [Regi decreti 24 dicembre 1922, n. 1746](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-24;1746), e [19 marzo 1925, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-19;266), in quanto occorrano per la ultimazione degli edifici in corso e per la costruzione di quelli dei quali alla entrata in vigore del presente decreto avesse aggiudicato l'appalto. 
+Il Ministero dei lavori pubblici conserva la gestione dei fondi inscritti nel suo bilancio per la costruzione di edifici postali e telegrafici in applicazione dei [Regi decreti 24 dicembre 1922, n. 1746](Concernente%20il%20passaggio%20della%20gestione%20dei%20fondi%20per%20la%20costruzione%20di%20edifici%20postali%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20a%20quello%20dei%20lavori%20pubblici.%20022U1746.md), e [19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), in quanto occorrano per la ultimazione degli edifici in corso e per la costruzione di quelli dei quali alla entrata in vigore del presente decreto avesse aggiudicato l'appalto. 
  
  La gestione dei rimanenti fondi di cui sopra e' trasferita al Ministero delle comunicazioni (Amministrazione postale e telegrafica).
 

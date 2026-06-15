@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102), e successive modificazioni;
+Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e successive modificazioni;
 
 Veduta la [legge 16 giugno 1932, n. 812](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2028%20agosto%201931%20n.%201227%20contenente%20disposizioni%20sullistruzione%20superiore.%20032U0812.md);
 
@@ -40,7 +40,7 @@ Per l'anno accademico 1933-34 saranno utili le proposte di trasferimento deliber
 
 ## Art. 2.
 
-E' abrogato l'ultimo comma dell'[art. 33 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_33).
+E' abrogato l'ultimo comma dell'[art. 33 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
 
 ## Art. 3.
 

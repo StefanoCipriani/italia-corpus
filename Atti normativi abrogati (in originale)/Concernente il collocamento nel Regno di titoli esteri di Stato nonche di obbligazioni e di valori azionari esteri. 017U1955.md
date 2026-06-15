@@ -20,9 +20,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e in forza dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e in forza dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Veduta la [legge 25 luglio 1909, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-25;556); 
+ Veduta la [legge 25 luglio 1909, n. 556](Che%20regola%20la%20tassa%20di%20bollo%20da%20applicarsi%20ai%20titoli%20o%20valori%20esteri.%20009U0556.md); 
  
  Sentito il Consiglio dei ministri; 
  

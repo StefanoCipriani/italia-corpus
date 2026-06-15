@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Finche' duri lo stato di guerra e sino a sei mesi dopo la conclusione della pace, il prezzo delle inserzioni nel Foglio degli annunzi legali delle Provincie, stabilito dall'art. 15 delle istruzioni speciali per l'esecuzione della [legge 30 giugno 1876, n. 3195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1876-06-30;3195), approvate con decreto Ministeriale 25 maggio 1895, e' aumentato per ogni linea: 
+Finche' duri lo stato di guerra e sino a sei mesi dopo la conclusione della pace, il prezzo delle inserzioni nel Foglio degli annunzi legali delle Provincie, stabilito dall'art. 15 delle istruzioni speciali per l'esecuzione della [legge 30 giugno 1876, n. 3195](Sulla%20pubblicazione%20degli%20annunzi%20legali.%20076U3195.md), approvate con decreto Ministeriale 25 maggio 1895, e' aumentato per ogni linea: 
  
  1° a centesimi trenta per le prime pubblicazioni; 
  

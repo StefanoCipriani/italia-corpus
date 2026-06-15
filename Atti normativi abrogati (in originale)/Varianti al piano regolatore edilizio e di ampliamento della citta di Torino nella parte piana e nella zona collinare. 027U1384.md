@@ -18,7 +18,7 @@ Vista la [legge 5 aprile 1908, n. 141](Che%20dichiara%20di%20pubblica%20utilita%
 
 Visto il Nostro decreto 15 gennaio 1920, n. 80, che modifico' ed amplio' tale piano;
 
-Visto il [decreto-legge Luogotenenziale 10 marzo 1918, numero 385](Che%20approva%20il%20piano%20regolatore%20edilizio%20e%20di%20ampliamento%20della%20zona%20collinare%20della%20citta%20di%20Torino.%20018U0385.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), che approvo' il piano regolatore edilizio e di ampliamento della zona collinare della citta' stessa;
+Visto il [decreto-legge Luogotenenziale 10 marzo 1918, numero 385](Che%20approva%20il%20piano%20regolatore%20edilizio%20e%20di%20ampliamento%20della%20zona%20collinare%20della%20citta%20di%20Torino.%20018U0385.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), che approvo' il piano regolatore edilizio e di ampliamento della zona collinare della citta' stessa;
 
 Vista la domanda 14 maggio 1926 del comune di Torino, diretta ad ottenere l'approvazione di trenta varianti agli anzidetti due piani regolatori: varianti adottate con la deliberazione 5 maggio 1926 del commissario prefettizio e con altre anteriori in essa richiamate;
 

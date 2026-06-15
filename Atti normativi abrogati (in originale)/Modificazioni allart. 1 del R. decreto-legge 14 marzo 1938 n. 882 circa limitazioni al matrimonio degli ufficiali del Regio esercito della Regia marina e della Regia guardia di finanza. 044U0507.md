@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vieto il [R. decreto-legge 14 marzo 1938, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-14;882), convertito nella [legge 22 dicembre 1938, n. 2229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-12-22;2229);
+Vieto il [R. decreto-legge 14 marzo 1938, n. 882](Aggiornamento%20delle%20disposizioni%20vigenti%20sul%20matrimonio%20degli%20ufficiali%20delle%20Forze%20armate%20dello%20Stato.%20038U0882.md), convertito nella [legge 22 dicembre 1938, n. 2229](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20marzo%201938-XVI%20n.%20882%20concernente%20laggiornamento%20delle%20disposizioni%20vigenti%20sul%20matrimonio%20degli%20ufficiali%20delle%20Forze%20armate%20dello%20Stato.%20038U2229.md);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per la marina, di concerto con i Ministri per la gue
 
 ## Articolo unico.
 
-L'[art. 1 del R. decreto-legge 14 marzo 1938, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-14;882#art_1), convertito nella [legge 22 dicembre 1938, n. 2229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-12-22;2229), e' abrogato e sostituito dal seguente: 
+L'[art. 1 del R. decreto-legge 14 marzo 1938, n. 882](Aggiornamento%20delle%20disposizioni%20vigenti%20sul%20matrimonio%20degli%20ufficiali%20delle%20Forze%20armate%20dello%20Stato.%20038U0882.md), convertito nella [legge 22 dicembre 1938, n. 2229](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20marzo%201938-XVI%20n.%20882%20concernente%20laggiornamento%20delle%20disposizioni%20vigenti%20sul%20matrimonio%20degli%20ufficiali%20delle%20Forze%20armate%20dello%20Stato.%20038U2229.md), e' abrogato e sostituito dal seguente: 
  
  Art. 1. - Gli ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza, in servizio permanente effettivo, in disponibilita', aspettativa o sospesi dall'impiego, nonche' gli ufficiali invalidi o mutilati riassunti in servizio sedentario non possono contrarre matrimonio senza avere prima ottenuto il Regio assentimento. 
  

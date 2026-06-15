@@ -12,7 +12,7 @@ vigente: true
 
 Sono convertiti in legge i seguenti decreti: 
  
- [R. decreto 27 settembre 1914, n. 1050](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-27;1050). 
+ [R. decreto 27 settembre 1914, n. 1050](Da%20convertirsi%20in%20legge%20concernente%20provvedimenti%20per%20sollecitare%20lesecuzione%20di%20opere%20igieniche%20a%20sollievo%20della%20disoccupazione.%20014U1050.md). 
  
  [R. decreto 1° aprile 1915, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-01;427). 
  

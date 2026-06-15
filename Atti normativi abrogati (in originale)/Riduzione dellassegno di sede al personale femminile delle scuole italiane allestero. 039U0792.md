@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- A decorrere dal 1° settembre 1938 alle note della tabella A annessa al [R. decreto-legge 28 settembre 1934, n. 1724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1724), convertito nella [legge 4 aprile 1935, n. 866](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20settembre%201934%20n.%201724%20che%20fissa%20il%20trattamento%20economico%20del%20personale%20addetto%20alle%20Scuole%20governative%20allestero%20e%20di%20quello%20comandato%20in%20Scu_48ce204e670d.md), sono aggiunte le seguenti altre: 
+ A decorrere dal 1° settembre 1938 alle note della tabella A annessa al [R. decreto-legge 28 settembre 1934, n. 1724](Determinazione%20degli%20assegni%20per%20il%20personale%20addetto%20alle%20scuole%20italiane%20allestero.%20034U1724.md), convertito nella [legge 4 aprile 1935, n. 866](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20settembre%201934%20n.%201724%20che%20fissa%20il%20trattamento%20economico%20del%20personale%20addetto%20alle%20Scuole%20governative%20allestero%20e%20di%20quello%20comandato%20in%20Scu_48ce204e670d.md), sono aggiunte le seguenti altre: 
  
  «Egualmente tutte le volte che le condizioni locali lo consentano e' ridotto di un terzo l'assegno di sede delle maestre provvisorie fornite del diploma di metodo per gli asili e scuole materne. 
  

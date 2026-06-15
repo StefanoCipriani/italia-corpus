@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' autorizzata la spesa di L. 50.000, da inscriversi all'apposito capitolo n. 123-ter della spesa del Ministero dei lavori pubblici per l'esercizio finanziario 1916-917: «Spesa per la Commissione incaricata di esaminare l'ordinamento ed il funzionamento delle ferrovie dello Stato ([legge 23 luglio 1914, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742))», in aggiunta a quelle stabilite dall'[art. 24 della legge 23 luglio 1914, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742#art_24), e dai Nostri [decreti-legge 1° agosto 1915, n. 1297, e 30 gennaio 1916, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1916-01-30;144), per la Commissione suddetta.
+E' autorizzata la spesa di L. 50.000, da inscriversi all'apposito capitolo n. 123-ter della spesa del Ministero dei lavori pubblici per l'esercizio finanziario 1916-917: «Spesa per la Commissione incaricata di esaminare l'ordinamento ed il funzionamento delle ferrovie dello Stato ([legge 23 luglio 1914, n. 742](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md))», in aggiunta a quelle stabilite dall'[art. 24 della legge 23 luglio 1914, n. 742](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md), e dai Nostri [decreti-legge 1° agosto 1915, n. 1297, e 30 gennaio 1916, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1916-01-30;144), per la Commissione suddetta.
 
 ## Art. 2.
 

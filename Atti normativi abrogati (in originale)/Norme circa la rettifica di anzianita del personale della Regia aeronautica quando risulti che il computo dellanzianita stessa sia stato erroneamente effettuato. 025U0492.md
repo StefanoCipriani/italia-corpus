@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 24 gennaio 1923, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-24;62);
+Visto il [R. decreto 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md);
 
-Visto il [R. decreto 28 marzo 1923, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-28;645);
+Visto il [R. decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md);
 
 Visto il [R. decreto-legge 13 novembre 1924, n. 1990](Reclutamento%20e%20avanzamento%20degli%20ufficiali%20del%20corpo%20di%20Stato%20Maggiore%20generale%20della%20Regia%20aeronautica%20durante%20il%20periodo%20di%20sua%20costituzione.%20024U1990.md);
 

@@ -20,7 +20,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo dalla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Sentito il Consiglio dei ministri; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- Chiunque faccia incetta, a danno della circolazione, di monete aventi corso legale nel Regno in misura eccedente i propri bisogni, o a scopo di lucro, incorre nelle pene comminate dall'[art. 293 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_293). 
+ Chiunque faccia incetta, a danno della circolazione, di monete aventi corso legale nel Regno in misura eccedente i propri bisogni, o a scopo di lucro, incorre nelle pene comminate dall'[art. 293 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Il presente decreto andra' in vigore dal giorno della sua pubblicazione nella Gazzetta ufficiale del Regno. 
  

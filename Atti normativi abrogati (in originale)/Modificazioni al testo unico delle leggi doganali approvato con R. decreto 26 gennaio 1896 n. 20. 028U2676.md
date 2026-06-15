@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 1, primo comma, 6, 15, 4° e 6° comma, 16, ultimo comma, 23, 36, 1° e 2° comma, 37, 2° comma, 42, 1° comma, 50, 2° comma, 67, 68, 78, comma 2° e seguenti, 81, 1° e 2° comma, 91, 93, 94, 2° comma, lettere b), c) e d), 96, 98, 4° comma, 101, 1° comma, 104, 107, 108, 116, 118, 119, 1° comma, e 121 del testo unico delle leggi doganali, approvato con [R. decreto 26 gennaio 1896, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-01-26;20), e modificato secondo il [R. decreto-legge 2 settembre 1923, n. 1960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-02;1960), sono sostituiti i seguenti: 
+Agli articoli 1, primo comma, 6, 15, 4° e 6° comma, 16, ultimo comma, 23, 36, 1° e 2° comma, 37, 2° comma, 42, 1° comma, 50, 2° comma, 67, 68, 78, comma 2° e seguenti, 81, 1° e 2° comma, 91, 93, 94, 2° comma, lettere b), c) e d), 96, 98, 4° comma, 101, 1° comma, 104, 107, 108, 116, 118, 119, 1° comma, e 121 del testo unico delle leggi doganali, approvato con [R. decreto 26 gennaio 1896, n. 20](Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), e modificato secondo il [R. decreto-legge 2 settembre 1923, n. 1960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-02;1960), sono sostituiti i seguenti: 
  
  Art. 1., primo comma. - Il lido del mare, le sponde nazionali del lago di Lugano opposte a quelle estere, i confini con gli altri Stati formano la linea doganale. 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-08;1332), e successive modificazioni;
+Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md), e successive modificazioni;
 
 Riconosciuta la necessita' urgente ed assoluta di modificare le norme relative all'accertamento della ricuperata idoneita' fisica degli inscritti di leva e dei militari che abbiano ottenuto la riforma dal servizio militare nonche' quelle relative alle modalita' per il riconoscimento dei titoli a ferma minore;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-L'art. 37 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-08;1332), e successive modificazioni, e' sostituito dal seguente: 
+L'art. 37 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md), e successive modificazioni, e' sostituito dal seguente: 
  
  « Contro le decisioni dei Consigli e delle Commissioni mobili di leva e' ammesso il ricorso al Ministro per la guerra, osservate le prescrizioni del regolamento, entro tre Mesi dalla data delle decisioni stesse. 
  

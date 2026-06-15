@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 luglio 1926, n. 1487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-23;1487), concernente, stanziamento di fondi nei bilanci dei Ministeri dell'interno e dei lavori pubblici per la lotta contro la malaria nella provincia dell'Istria. 
+ E' convertito in legge il [R. decreto-legge 23 luglio 1926, n. 1487](Provvedimento%20per%20la%20lotta%20contro%20la%20malaria%20nella%20provincia%20dellIstria.%20026U1487.md), concernente, stanziamento di fondi nei bilanci dei Ministeri dell'interno e dei lavori pubblici per la lotta contro la malaria nella provincia dell'Istria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

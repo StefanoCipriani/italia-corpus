@@ -20,7 +20,7 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 24 f
 
 Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata [legge n. 400 del 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota prot. Mincomes n. 25261 del 14 marzo 1994);
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), concernente "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2)";
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), concernente "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)";
 
 A D O T T A il seguente regolamento:
 
@@ -47,7 +47,7 @@ Entro centottanta giorni dall'entrata in vigore del presente regolamento, il Min
  disposizioni sulla promulgazione delle leggi, 
  sull'emanazione dei decreti del Presidente della Repubblica 
  e sulle pubblicazioni ufficiali della Repubblica italiana, 
- approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo 
+ approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
  fine di facilitare la lettura delle disposizioni di legge 
  alle quali e' operato il rinvio. Restano invariati il 
  valore e l'efficacia degli atti legislativi qui trascritti. 
@@ -135,7 +135,7 @@ All'atto della presentazione della domanda o istanza e' rilasciata all'interessa
 
 4.
 
-Restano salvi la facolta' di autocertificazione e il dovere di procedere agli accertamenti d'ufficio previsti rispettivamente dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_2) e [10 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_10), nonche' il disposto di cui all'art. 18 della legge.
+Restano salvi la facolta' di autocertificazione e il dovere di procedere agli accertamenti d'ufficio previsti rispettivamente dagli [articoli 2](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e [10 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), nonche' il disposto di cui all'art. 18 della legge.
 
 Note all'art. 3:
  - Si trascrive il testo degli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_7), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_8) e [18 della legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_18):
@@ -149,7 +149,7 @@ Note all'art. 3:
  d) l'ufficio in cui si puo' prendere visione degli atti.
  3. Qualora per il numero dei destinatari la comunicazione personale non sia possibile o risulti particolarmente gravosa, l'amministrazione provvede a rendere noti gli elementi di cui al comma 2 mediante forme di pubblicita' idonee di volta in volta stabilite dall'amministrazionemedesima.
  4. L'omissione di taluna delle comunicazioni prescritte puo' essere fatta valere solo dal soggetto nel cui interesse la comunicazione e' prevista".
- "Art. 18. - 1. Entro sei mesi dalla data di entrata in vigore della presente legge le amministrazioni interessate adottano le misure organizzative idonee a garantire l'applicazione delle disposizioni in materia di autocertificazione e di presentazione di atti e documenti da parte di cittadini a pubbliche amministrazioni di cui alla [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), e successive modificazioni e integrazioni. Delle misure adottate le amministrazioni danno comunicazione alla Commissione di cui all'art. 27.
+ "Art. 18. - 1. Entro sei mesi dalla data di entrata in vigore della presente legge le amministrazioni interessate adottano le misure organizzative idonee a garantire l'applicazione delle disposizioni in materia di autocertificazione e di presentazione di atti e documenti da parte di cittadini a pubbliche amministrazioni di cui alla [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), e successive modificazioni e integrazioni. Delle misure adottate le amministrazioni danno comunicazione alla Commissione di cui all'art. 27.
  2. Qualora l'interessato dichiari che fatti, stati e qualita' sono attestati in documenti gia' in possesso della stessa amministrazione procedente o di altra pubblica amministrazione, il responsabile del procedimento provvede d'ufficio all'acquisizione dei documenti stessi o di copia di essi.
  3. Parimenti sono accertati d'ufficio dal responsabile del procedimento i fatti, gli stati e le qualita' che la stessa amministrazione procedente o altra pubblica amministrazione e' tenuta a certificare".
  - Si trascrive il testo degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15#art_2) e [10 della legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15#art_10), recante norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme:
@@ -288,7 +288,7 @@ Il responsabile dell'unita' organizzativa puo' affidare ad altro dipendente adde
 
 3.
 
-Il responsabile del procedimento esercita le attribuzioni contemplate dall'art. 6 della legge e dal presente regolamento e svolge tutti gli altri compiti indicati nelle disposizioni organizzative e di servizio nonche' quelli attinenti all'applicazione della [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15).
+Il responsabile del procedimento esercita le attribuzioni contemplate dall'art. 6 della legge e dal presente regolamento e svolge tutti gli altri compiti indicati nelle disposizioni organizzative e di servizio nonche' quelli attinenti all'applicazione della [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
 
 Note all'art. 10:
  - Si trascrive il testo dell'[art. 6 della legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_6):
@@ -298,7 +298,7 @@ Note all'art. 10:
  c) propone l'indicazione o, avendone la competenza, indice le conferenze di servizi di cui all'art. 14;
  d) cura le comunicazioni, le pubblicazioni e le notificazioni previste dalle leggi e dai regolamenti;
  e) adotta, ove ne abbia la competenza, il provvedimento finale, ovvero trasmette gli atti all'organo competente per l'adozione".
- - La [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), reca norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme.
+ - La [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), reca norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme.
 
 ## Art. 11. — Integrazione e modificazione del presente regolamento
 

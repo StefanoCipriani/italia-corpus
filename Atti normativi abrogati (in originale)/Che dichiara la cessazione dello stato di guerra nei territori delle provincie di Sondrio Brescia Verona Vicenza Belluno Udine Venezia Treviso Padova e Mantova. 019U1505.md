@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Vista la Nostra legge 671 in data 22 maggio 1915;
 
-Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del R. esercito approvato con R. decreto 28 novembre 1869;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del R. esercito approvato con R. decreto 28 novembre 1869;
 
-Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) marittimo approvato con R. decreto 28 novembre 1869;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) marittimo approvato con R. decreto 28 novembre 1869;
 
 Visto il Nostro decreto n. 703 del 22 maggio 1915, col quale i territori di alcune Provincie del Regno sono considerati in istato di guerra;
 

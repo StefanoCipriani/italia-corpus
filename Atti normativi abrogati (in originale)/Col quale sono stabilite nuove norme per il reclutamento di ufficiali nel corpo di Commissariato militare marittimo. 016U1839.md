@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge n. 797, in data 29 giugno 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;797), circa l'ordinamento dei Corpi militari della R. marina;
+Vista la [legge n. 797, in data 29 giugno 1913](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), circa l'ordinamento dei Corpi militari della R. marina;
 
-Vista la [legge 6 marzo 1898, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;59), sull'avanzamento dei Corpi militari della R. marina e le successive varianti ed il regolamento per l'applicazione della legge medesima, approvato con [R. decreto 4 settembre 1898, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-09-04;444);
+Vista la [legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md), sull'avanzamento dei Corpi militari della R. marina e le successive varianti ed il regolamento per l'applicazione della legge medesima, approvato con [R. decreto 4 settembre 1898, n. 444](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md);
 
 Udito il Consiglio dei ministri;
 
@@ -50,7 +50,7 @@ Gli ufficiali subalterni del corpo di commissariato militare marittimo debbono o
 
 ## Art. 6.
 
-L'[art. 23 della legge 29 giugno 1913, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;797#art_23), e' soppresso e sostituito dal seguente: 
+L'[art. 23 della legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), e' soppresso e sostituito dal seguente: 
  
  «Su loro domanda, possono essere nominati sottotenenti commissari di complemento in seguito a concorsi per titoli: 
  

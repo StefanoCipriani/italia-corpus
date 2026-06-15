@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il testo unico di leggi per l'imposta sulla birra, approvato con decreto Ministeriale 8 luglio 1924, e successive modificazioni;
 
-Visto l'art. 83 del regolamento approvato col [R. decreto 19 novembre 1874, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1874-11-19;2248);
+Visto l'art. 83 del regolamento approvato col [R. decreto 19 novembre 1874, n. 2248](Che%20approva%20il%20Regolamento%20per%20le%20tasse%20di%20fabbricazione%20dellalcool%20e%20della%20birra.%20074U2248.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

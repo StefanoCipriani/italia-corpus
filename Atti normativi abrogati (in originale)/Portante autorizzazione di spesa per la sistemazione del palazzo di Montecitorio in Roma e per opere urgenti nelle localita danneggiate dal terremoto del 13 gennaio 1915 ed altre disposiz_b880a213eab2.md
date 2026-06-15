@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il R. decreto 21 gennaio 1915 convertito in legge 1° aprile stesso anno, n. 476, alleg. D;
 
-Visti la [legge 20 giugno 1912, n. 712](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-20;712), ed il testo unico di [legge 22 marzo 1900, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-03-22;195);
+Visti la [legge 20 giugno 1912, n. 712](Che%20approva%20provvedimenti%20per%20agevolare%20lesecuzione%20di%20opere%20di%20bonifica%20di%20prima%20categoria.%20012U0712.md), ed il testo unico di [legge 22 marzo 1900, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-03-22;195);
 
 Visto il testo unico di [legge 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-05-09;1447);
 
@@ -36,7 +36,7 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici, di concer
 
 E' autorizzata la spesa straordinaria di L. 22.000.000 di cui: 
  
- a) per la prosecuzione dei lavori di una nuova aula della Camera dei deputati e per la sistemazione del Palazzo di Montecitorio e sue adiacenze, in aggiunta a quella disposta con le [leggi 30 giugno 1904, n. 293, 30 giugno 1909, n. 407, 13 aprile 1911, n. 311 e 19 luglio 1914, n. 769](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;769) e col Nostro [decreto-legge 11 novembre 1915, n. 1676](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-11-11;1676), L. 1.50.000; 
+ a) per la prosecuzione dei lavori di una nuova aula della Camera dei deputati e per la sistemazione del Palazzo di Montecitorio e sue adiacenze, in aggiunta a quella disposta con le [leggi 30 giugno 1904, n. 293, 30 giugno 1909, n. 407, 13 aprile 1911, n. 311 e 19 luglio 1914, n. 769](Che%20modifica%20laltra%20del%204%20aprile%201912%20n.%20297%20concernente%20la%20spesa%20straordinaria%20consolidata%20del%20Ministero%20dei%20lavori%20pubblici%20014U0769.md) e col Nostro [decreto-legge 11 novembre 1915, n. 1676](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-11-11;1676), L. 1.50.000; 
  
  b) per opere urgenti nelle localita' danneggiate dal terremoto del 13 gennaio 1915 in aggiunta a quella stabilita dai RR. decreti 14 gennaio 1915, n. 8, 21 gennaio 1915, n. 27, 29 aprile 1915, n. 574, e dei Nostri [decreti-legge 11 luglio 1915, n. 1110, 14 ottobre 1915, n. 1531 e 3 febbraio 1916, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1916-02-03;142), L. 20.500.000.
 
@@ -54,11 +54,11 @@ E' prorogato di un anno il termine di cui al 4° comma dell'art. 1° del R. decr
 
 ## Art. 5.
 
-Coi fondi di cui all'art. 6 comma a) della [legge 22 dicembre 1910, n. 919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-22;919) il ministro dei lavori pubblici, d'accordo coi ministri dei trasporti, del lavoro, dell'agricoltura e delle finanze, provvede alla formazione di un piano di massima d'utilizzazione delle acque nelle varie regioni in relazione alle sistemazioni idrauliche ed alle altre opere da eseguire a spese o con il concorso dello Stato.
+Coi fondi di cui all'art. 6 comma a) della [legge 22 dicembre 1910, n. 919](Concernente%20provvedimenti%20per%20opere%20idrauliche%20e%20per%20opere%20idraulico-forestali%20dei%20bacini%20montani.%20010U0919.md) il ministro dei lavori pubblici, d'accordo coi ministri dei trasporti, del lavoro, dell'agricoltura e delle finanze, provvede alla formazione di un piano di massima d'utilizzazione delle acque nelle varie regioni in relazione alle sistemazioni idrauliche ed alle altre opere da eseguire a spese o con il concorso dello Stato.
 
 ## Art. 6.
 
-Possono essere eseguite per concessione, a cura di Provincie, Comuni e' Consorzi con le norme della [legge 20 giugno 1912, n. 712](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-20;712), e con quelle da emanarsi con regolamento: 
+Possono essere eseguite per concessione, a cura di Provincie, Comuni e' Consorzi con le norme della [legge 20 giugno 1912, n. 712](Che%20approva%20provvedimenti%20per%20agevolare%20lesecuzione%20di%20opere%20di%20bonifica%20di%20prima%20categoria.%20012U0712.md), e con quelle da emanarsi con regolamento: 
  
  a) le singole parti di una bonifica di 1ª categoria, purche' suscettibili di utile funzionamento ai fini della bonifica stessa; 
  
@@ -80,7 +80,7 @@ Le disposizioni dell'art. 9 del Nostro decreto 19 agosto 1915, n. 1371, sono est
  
  Le anticipazioni sono fatte all'ingegnere capo del genio civile in relazione all'importo dei lavori da eseguire. L' ingegnere capo provvede ai pagamenti sotto la sua personale responsabilita' dopo essersi accertato della buona esecuzione dei lavori e della regolarita' della spesa. 
  
- In questi casi e' consentita l'esecuzione dei lavori in economia od a trattativa privata sino all'importo di L. 50.000, restando ferma per importi superiori la necessita' dell'autorizzazione governativa a norma dell'[art. 1 del R. decreto 1° settembre 1914, n. 920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-01;920#art_1), la cui validita' e' stata prorogata con Nostro decreto 18 maggio 1916, n. 660.
+ In questi casi e' consentita l'esecuzione dei lavori in economia od a trattativa privata sino all'importo di L. 50.000, restando ferma per importi superiori la necessita' dell'autorizzazione governativa a norma dell'[art. 1 del R. decreto 1° settembre 1914, n. 920](Che%20dichiara%20applicabili%20ai%20lavori%20pubblici%20appaltati%20dallo%20Stato%20dalle%20Provincie%20e%20dai%20Comuni%20entro%20il%2031%20dicembre%201914%20le%20disposizioni%20del%20R.%20decreto%2018%20settembre%201910%20n.%20684%20convertito_6e5a4a81599d.md), la cui validita' e' stata prorogata con Nostro decreto 18 maggio 1916, n. 660.
 
 ## Art. 9.
 

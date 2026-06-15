@@ -18,9 +18,9 @@ Visto il. [R. decreto-legge 23 maggio 1924, n. 995](Disposizioni%20per%20il%20tr
 
 Visto il [R. decreto-legge 31 marzo 1925, n. 486](Provvedimenti%20economici%20a%20favore%20dei%20vecchi%20pensionati.%20025U0486.md);
 
-Visto il [R. decreto 7 dicembre 1923, n. 2590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-07;2590);
+Visto il [R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md);
 
-Visto il [R. decreto 28 gennaio 1923, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;143);
+Visto il [R. decreto 28 gennaio 1923, n. 143](Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -45,7 +45,7 @@ Le disposizioni del precedente art. 1 sono applicabili anche nel caso di liquida
  
  Il pagamento sulla liquidazione provvisoria sara' provvisoriamente effettuate a carico del fondo pensioni delle Ferrovie dello Stato, salvo regolazione dei conti col Tesoro all'atto del pagamento del saldo sulla liquidazione definitiva. 
  
- Rimane ferma la facolta' di concedere acconti anche in precedenza della liquidazione provvisoria a norma degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-07;2590#art_12) e [14 del R. decreto 7 dicembre 1923, n. 2590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-07;2590#art_14).
+ Rimane ferma la facolta' di concedere acconti anche in precedenza della liquidazione provvisoria a norma degli [articoli 12](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md) e [14 del R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md).
 
 ## Art. 3.
 
@@ -57,7 +57,7 @@ I casi contemplati al 2° comma dell'art. 4 del R. decreto-legge 23 maggio 1924,
 
 ## Art. 5.
 
-Per gli agenti di cittadinanza italiana provenienti dalle ex gestioni austriache, dispensati in forza del [R. decreto 28 gennaio 1923, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;143), senza aver raggiunto la durata di servizio di cui all'art. 7 di detto decreto, per il diritto a pensione secondo le norme vigenti per il personale delle Ferrovie dello Stato, il riconoscimento degli anni di servizio ininterrotto prestato presso l'Amministrazione di provenienza prima dell'iscrizione ai fondi di previdenza e' ammesso anche oltre la meta' della sua durata effettiva, limitatamente pero' alla durata necessaria per raggiungere i limiti suddetti e nel solo caso in cui essi possano essere raggiunti. 
+Per gli agenti di cittadinanza italiana provenienti dalle ex gestioni austriache, dispensati in forza del [R. decreto 28 gennaio 1923, n. 143](Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md), senza aver raggiunto la durata di servizio di cui all'art. 7 di detto decreto, per il diritto a pensione secondo le norme vigenti per il personale delle Ferrovie dello Stato, il riconoscimento degli anni di servizio ininterrotto prestato presso l'Amministrazione di provenienza prima dell'iscrizione ai fondi di previdenza e' ammesso anche oltre la meta' della sua durata effettiva, limitatamente pero' alla durata necessaria per raggiungere i limiti suddetti e nel solo caso in cui essi possano essere raggiunti. 
  
  Valgono a tale scopo le domande gia' presentate per il riconoscimento della sola meta' di tale servizio, e quelle che per il riconoscimento nei limiti del presente articolo venissero ulteriormente presentate entro novanta giorni dalla data di pubblicazione del presente decreto.
 
@@ -65,7 +65,7 @@ Per gli agenti di cittadinanza italiana provenienti dalle ex gestioni austriache
 
 I riscatti gia' concessi dalle cessate Amministrazioni austriache e per i quali dai fogli matricolari delle ex gestioni risulti retrodatata l'iscrizione ai fondi di previdenza, agli effetti del [1°](Disposizioni%20per%20il%20trattamento%20di%20pensione%20al%20personale%20delle%20ferrovie%20proveniente%20dallo%20Stato%20ex%20austro-ungarico.%20024U0995.md) e [2° comma dell'art. 6 del R. decreto-legge 23 maggio 1924, n. 995](Disposizioni%20per%20il%20trattamento%20di%20pensione%20al%20personale%20delle%20ferrovie%20proveniente%20dallo%20Stato%20ex%20austro-ungarico.%20024U0995.md), sono considerati come parte integrante del servizio di cui alla lettera a) del primo comma dello stesso articolo. 
  
- I riscatti invece che fossero gia' stati concessi dalle cessate Amministrazioni senza dichiarazione di retrodatazione dell'iscrizione e quelli che fossero stati concessi dalle Ferrovie dello Stato in base alle norme degli istituti di previdenza di provenienza, saranno riformati alle condizioni di cui l'[art. 1 del R. decreto 7 dicembre 1923, n. 2590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-07;2590#art_1).
+ I riscatti invece che fossero gia' stati concessi dalle cessate Amministrazioni senza dichiarazione di retrodatazione dell'iscrizione e quelli che fossero stati concessi dalle Ferrovie dello Stato in base alle norme degli istituti di previdenza di provenienza, saranno riformati alle condizioni di cui l'[art. 1 del R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md).
 
 ## Art. 7.
 

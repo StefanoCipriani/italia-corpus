@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare di pace, approvato con [regio decreto 20 febbraio 1941, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-02-20;303);
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace, approvato con [regio decreto 20 febbraio 1941, n. 303](../Codici/Codici%20penali%20militari%20di%20pace%20e%20di%20guerra%20041U0303.md);
 
 Visto l'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto l'[art. 3 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3);
+Visto l'[art. 3 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -29,7 +29,7 @@ Nel giudizio davanti ai Tribunali militari territoriali per reati contro le legg
 
 ## Art. 2.
 
-L'imputato che non abbia scelto un difensore di fiducia o che abbia scelto un difensore che non conosca, la sua lingua puo' nominare un giurista, anche non avvocato, cittadino del suo Stato, in qualita' di coadiutore del difensore. La nomina deve essere fatta entro il termine di cinque giorni dalla notificazione della sentenza di rinvio a giudizio o della richiesta del decreto di citazione a giudizio, previo invito nei modi stabiliti dal primo, dal terzo e dal [quarto comma dell'art. 354 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_354-com4) militare di pace per la scelta del difensore.
+L'imputato che non abbia scelto un difensore di fiducia o che abbia scelto un difensore che non conosca, la sua lingua puo' nominare un giurista, anche non avvocato, cittadino del suo Stato, in qualita' di coadiutore del difensore. La nomina deve essere fatta entro il termine di cinque giorni dalla notificazione della sentenza di rinvio a giudizio o della richiesta del decreto di citazione a giudizio, previo invito nei modi stabiliti dal primo, dal terzo e dal [quarto comma dell'art. 354 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace per la scelta del difensore.
 
 ## Art. 3.
 

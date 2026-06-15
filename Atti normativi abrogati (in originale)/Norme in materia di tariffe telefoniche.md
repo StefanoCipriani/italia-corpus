@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Visto il [regio decreto 19 luglio 1941, n. 1198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-19;1198), e successive modifiche;
+Visto il [regio decreto 19 luglio 1941, n. 1198](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), e successive modifiche;
 
 Vista la convenzione stipulata il 21 ottobre 1964 fra il Ministero delle poste e delle telecomunicazioni e la SIP - Societa' italiana per l'esercizio telefonico p.a., approvata con [decreto del Presidente della Repubblica 26 ottobre 1964, n. 1594](Approvazione%20della%20convenzione%20tra%20il%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20la%20S.P%20-%20Societa%20per%20italiana%20per%20lesercizio%20telefonico%20p.%20a.%20per%20la%20concessione%20di%20servizi%20telefon_dd4cf54c1ff0.md), e successive modifiche;
 
-Visto il [decreto del Presidente della Repubblica 18 marzo 1976, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-03-18;55);
+Visto il [decreto del Presidente della Repubblica 18 marzo 1976, n. 55](../DPR/Norme%20in%20materia%20di%20tariffe%20telefoniche_2.md);
 
 Vista la delibera del Comitato interministeriale per la programmazione economica del 29 settembre 1976;
 
@@ -266,11 +266,11 @@ Quando una conversazione tramite operatrice non ha luogo perche', al momento in 
 ## Art. 21.
 
 Per l'invio di un preavviso telefonico, destinato a prefissare una conversazione con un abbonato, il richiedente deve pagare un importo pari a L. 250.
- Per l'invio di un avviso telefonico, destinato a prefissare una conversazione con una persona non abbonata al telefono, e' dovuta, oltre a quanto indicato nel precedente comma, la tassa di recapito dell'avviso per espresso al domicilio indicato, prevista dall'[art. 1 del decreto luogotenenziale 2 aprile 1946, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-02;392#art_1).
+ Per l'invio di un avviso telefonico, destinato a prefissare una conversazione con una persona non abbonata al telefono, e' dovuta, oltre a quanto indicato nel precedente comma, la tassa di recapito dell'avviso per espresso al domicilio indicato, prevista dall'[art. 1 del decreto luogotenenziale 2 aprile 1946, n. 392](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20tasse%20di%20recapito%20degli%20avvisi%20telefonici.md).
 
 ## Art. 22.
 
-Per le richieste di conversazioni presso i posti telefonici pubblici dalle ore 0 alle ore 8 e dalle ore 19,30 alle ore 24 dei giorni feriali, dalle ore 0 alle ore 8 e dalle ore 14,30 alle ore 24 del sabato, dalle ore 0 alle ore 24 dei giorni festivi, la quota fissa dovuta dall'utente nei casi previsti dai precedenti articoli 9, terzo comma, 20 e 21 e' stabilita nella misura di L. 125 ferma restando. Ove prevista, la corresponsione per intero della tassa di recapito dell'avviso per espresso, prevista dall'art., 1 del [decreto luogotenenziale 2 aprile 1946, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-02;392).
+Per le richieste di conversazioni presso i posti telefonici pubblici dalle ore 0 alle ore 8 e dalle ore 19,30 alle ore 24 dei giorni feriali, dalle ore 0 alle ore 8 e dalle ore 14,30 alle ore 24 del sabato, dalle ore 0 alle ore 24 dei giorni festivi, la quota fissa dovuta dall'utente nei casi previsti dai precedenti articoli 9, terzo comma, 20 e 21 e' stabilita nella misura di L. 125 ferma restando. Ove prevista, la corresponsione per intero della tassa di recapito dell'avviso per espresso, prevista dall'art., 1 del [decreto luogotenenziale 2 aprile 1946, n. 392](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20tasse%20di%20recapito%20degli%20avvisi%20telefonici.md).
 
 ## Art. 23.
 

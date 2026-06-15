@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 4 novembre 1951, n. 1316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-11-04;1316), sulla disciplina della produzione e dei commercio della margarina e dei grassi idrogenati alimentari;
+Vista la [legge 4 novembre 1951, n. 1316](Disciplina%20della%20produzione%20e%20del%20commercio%20della%20margarina%20e%20dei%20grassi%20idrogenati%20alimentari.md), sulla disciplina della produzione e dei commercio della margarina e dei grassi idrogenati alimentari;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -22,11 +22,11 @@ Sulla proposta del Ministro per l'industria e commercio, di concerto con il Pres
 
 ## Art. 1.
 
-Per i grassi alimentari solidi diversi dal burro e dal grasso suino, ai sensi dell'[art. 1 della legge 4 novembre 1951, n. 1316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-11-04;1316#art_1), si intendono tutti i grassi di origine vegetale ed animale diversi dal burro e dal grasso suino, sia al naturale sia che abbiano subito manipolazioni atte a modificare in tutto o in parte i caratteri fisici, fisico-chimici e chimici del grasso primitivo.
+Per i grassi alimentari solidi diversi dal burro e dal grasso suino, ai sensi dell'[art. 1 della legge 4 novembre 1951, n. 1316](Disciplina%20della%20produzione%20e%20del%20commercio%20della%20margarina%20e%20dei%20grassi%20idrogenati%20alimentari.md), si intendono tutti i grassi di origine vegetale ed animale diversi dal burro e dal grasso suino, sia al naturale sia che abbiano subito manipolazioni atte a modificare in tutto o in parte i caratteri fisici, fisico-chimici e chimici del grasso primitivo.
  Debbono altresi' ritenersi grassi alimentari solidi diversi dal burro e dal grasso suino, il burro ed i grassi suini che abbiano subito manipolazioni tali da modificare le loro caratteristiche fisiche, fisico-chimiche e chimiche, nonche' tutti gli oli di origine vegetale ed animale che abbiano subito le stesse manipolazioni.
  I grassi alimentari solidi, di cui all'art. 1 della legge, possono essere costituiti da un solo grasso o da miscele di piu' grassi.
  La denominazione "margarina" di cui all'art. 6, comma primo, della legge, deve essere usata anche per indicare i grassi alimentari solidi che risultino dalla emulsione con acqua di un solo grasso alimentare di origine animale o vegetale diverso dal burro e dal grasso suino.
- Le "paste bianche" provenienti dalla demargarinizzazione o dalla destearizzazione degli oli vegetali, i grassi naturali e le miscele di essi, addizionati di zucchero, di aromi o di altre sostanze da destinarsi alla preparazione di prodotti dolciari, anche se emulsionati con acqua, sono escluse dalla disciplina di cui alla [legge 4 novembre 1951, n. 1316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-11-04;1316).
+ Le "paste bianche" provenienti dalla demargarinizzazione o dalla destearizzazione degli oli vegetali, i grassi naturali e le miscele di essi, addizionati di zucchero, di aromi o di altre sostanze da destinarsi alla preparazione di prodotti dolciari, anche se emulsionati con acqua, sono escluse dalla disciplina di cui alla [legge 4 novembre 1951, n. 1316](Disciplina%20della%20produzione%20e%20del%20commercio%20della%20margarina%20e%20dei%20grassi%20idrogenati%20alimentari.md).
 
 ## Art. 2.
 

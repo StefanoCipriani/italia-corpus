@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;320);
+Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md);
 
-Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num1);
+Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la difesa, d'intesa con i Ministri per l'interno
 
 ## Art. 1.
 
-Gli addetti civili ai lavori di bonifica dei campi minati, per poter conseguire, giusta il [primo comma dell'art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;320#art_10-com1), i benefici previsti dalle disposizioni a favore dei combattenti e dei reduci di guerra, devono possedere i seguenti requisiti:
+Gli addetti civili ai lavori di bonifica dei campi minati, per poter conseguire, giusta il [primo comma dell'art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), i benefici previsti dalle disposizioni a favore dei combattenti e dei reduci di guerra, devono possedere i seguenti requisiti:
  a) aver prestato servizio sui campi minati per un effettivo periodo di tempo non inferiore a 90 giorni, anche se non consecutivi;
  b) aver prestato servizi particolarmente rischiosi, intendendosi come tali quelli compiuti dai dirigenti, dagli assistenti e dagli smistatori specializzati.
  Il periodo minimo suddetto non e' richiesto per coloro che siano rimasti feriti o mutilati o invalidi per cause inerenti al servizio di bonifica dei campi minati.

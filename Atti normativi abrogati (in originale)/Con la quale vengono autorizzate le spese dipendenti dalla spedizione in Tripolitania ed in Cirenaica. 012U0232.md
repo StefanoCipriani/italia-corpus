@@ -24,7 +24,7 @@ Sono convertiti in legge, salvo la modificazione di cui al comma b del seguente 
 
 E' assegnato un nuovo fondo di L. 35.000.000 da inscriversi nel bilancio del ministero della guerra. 
  
- Del detto fondo L. 20.000.000 sono destinate alla continuazione delle spese indicate al comma b) del precedente art. 1, e L. 15.000.000 all'allestimento di materiali e acquisto di quadrupedi occorrenti per la formazione delle nuove unita' istituite col [R. decreto 7 dicembre 1911, n. 1282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-07;1282).
+ Del detto fondo L. 20.000.000 sono destinate alla continuazione delle spese indicate al comma b) del precedente art. 1, e L. 15.000.000 all'allestimento di materiali e acquisto di quadrupedi occorrenti per la formazione delle nuove unita' istituite col [R. decreto 7 dicembre 1911, n. 1282](Che%20apporta%20aumenti%20alle%20unita%20delle%20armi%20combattenti%20ed%20alle%20tabelle%20organiche%20di%20formazione%20del%20R.%20esercito.%20011U1282.md).
 
 ## Art. 3.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 novembre 1924, n. 1882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-13;1882), concernente l'attribuzione ai Prefetti dei poteri e delle funzioni precedentemente esercitati, in materia di assunzione obbligatoria al lavoro degli invalidi di guerra, dai Commissari governativi presso le cessate Giunte provinciali per il collocamento e la disoccupazione. 
+ E' convertito in legge il [R. decreto-legge 13 novembre 1924, n. 1882](Conferimento%20al%20Prefetti%20dei%20poteri%20e%20funzioni%20in%20materia%20di%20assunzione%20obbligatoria%20al%20lavoro%20degli%20invalidi%20di%20guerra.%20024U1882.md), concernente l'attribuzione ai Prefetti dei poteri e delle funzioni precedentemente esercitati, in materia di assunzione obbligatoria al lavoro degli invalidi di guerra, dai Commissari governativi presso le cessate Giunte provinciali per il collocamento e la disoccupazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

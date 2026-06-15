@@ -20,7 +20,7 @@ L'inchiesta sara' fatta da una Giunta composta di nove membri, dei quali tre sar
 
 ## Art. 3.
 
-Sono applicabili ai testimoni chiamati dalla Giunta le disposizioni di cui agli articoli, 306, 364, 365 num. 3, 368, 369 num. 4, 370 num. 4 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+Sono applicabili ai testimoni chiamati dalla Giunta le disposizioni di cui agli articoli, 306, 364, 365 num. 3, 368, 369 num. 4, 370 num. 4 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Se il testimonio ritratta la falsa testimonianza o palesa il vero dinanzi alla Giunta prima che contro di lui si sia istituito procedimento penale, la pena alla quale avrebbe dovuto soggiacere sara' diminuita da uno a tre gradi.
 

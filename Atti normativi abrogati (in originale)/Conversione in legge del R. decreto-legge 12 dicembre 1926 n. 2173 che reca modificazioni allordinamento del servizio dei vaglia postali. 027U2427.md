@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-12;2173), che reca modificazioni all'ordinamento del servizio dei vaglia postali. 
+ E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2173](Modificazioni%20allordinamento%20del%20servizio%20dei%20vaglia%20postali.%20026U2173.md), che reca modificazioni all'ordinamento del servizio dei vaglia postali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduti gli [articoli 424 e seguenti del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_424);
+Veduti gli [articoli 424 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
-Veduto il [decreto Luogotenenziale 1° ottobre 1916, n. 1255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-01;1255), col quale e' stata estesa alle provincie dell'Italia meridionale e della Sicilia la disposizione del capoverso dell'art. 80 del testo unico delle leggi sulla Sardegna, approvato con [R. decreto 10 novembre 1907, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-11-10;844);
+Veduto il [decreto Luogotenenziale 1° ottobre 1916, n. 1255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-01;1255), col quale e' stata estesa alle provincie dell'Italia meridionale e della Sicilia la disposizione del capoverso dell'art. 80 del testo unico delle leggi sulla Sardegna, approvato con [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md);
 
 Udito il Consiglio dei ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro di agricoltura, di concerto con quello dell'interno 
 
 ## Art. 1.
 
-Hanno forza di disposizioni regolamentari, anche per le Provincie dell'Italia meridionale e della Sicilia, le norme recate dagli articoli 16, 17, 18, 19, 20, 21, 23 e 24 del regolamento per la repressione dell'abigeato e del pascolo abusivo in Sardegna, approvato con [R. decreto 14 luglio 1898, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;404); intendendosi, nell'art. 19, alle parole «alla compagnia barracellare» sostituite le altre «alle guardie campestri».
+Hanno forza di disposizioni regolamentari, anche per le Provincie dell'Italia meridionale e della Sicilia, le norme recate dagli articoli 16, 17, 18, 19, 20, 21, 23 e 24 del regolamento per la repressione dell'abigeato e del pascolo abusivo in Sardegna, approvato con [R. decreto 14 luglio 1898, n. 404](Che%20approva%20il%20Regolamento%20per%20la%20repressione%20dellabigeato%20e%20del%20pascolo%20abusivo%20in%20Sardegna%20098U0404.md); intendendosi, nell'art. 19, alle parole «alla compagnia barracellare» sostituite le altre «alle guardie campestri».
 
 ## Art. 2.
 

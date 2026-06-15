@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 27 dicembre 1940, n. 1716](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-12-27;1716), convertito con modificazioni nella [legge 24 aprile 1941, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-24;385), recante disposizioni per la disciplina degli approvvigionamenti, della distribuzione e dei consumi dei generi alimentari in periodo di guerra;
+Visto il [R. decreto-legge 27 dicembre 1940, n. 1716](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-12-27;1716), convertito con modificazioni nella [legge 24 aprile 1941, n. 385](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20dicembre%201940-XIX%20n.%201716%20recante%20disposizioni%20per%20la%20disciplina%20degli%20approvvigionamenti%20della%20distribuzione%20e%20dei%20consumi%20_49bee2e89aec.md), recante disposizioni per la disciplina degli approvvigionamenti, della distribuzione e dei consumi dei generi alimentari in periodo di guerra;
 
-Vista la [legge 18 maggio 1942, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-18;566), sul riordinamento degli Enti economici dell'agricoltura, e le disposizioni successivamente emanate per la organizzazione dell'agricoltura e degli ammassi;
+Vista la [legge 18 maggio 1942, n. 566](Riordinamento%20degli%20Enti%20economici%20dellagricoltura%20e%20dei%20Consorzi%20agrari.%20042U0566.md), sul riordinamento degli Enti economici dell'agricoltura, e le disposizioni successivamente emanate per la organizzazione dell'agricoltura e degli ammassi;
 
-Visto il [R. decreto-legge 10 maggio 1943, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-10;397), sulla disciplina della raccolta e destinazione dei cereali;
+Visto il [R. decreto-legge 10 maggio 1943, n. 397](Disciplina%20totalitaria%20della%20raccolta%20e%20destinazione%20dei%20cereali%20e%20delle%20fave.%20043U0397.md), sulla disciplina della raccolta e destinazione dei cereali;
 
 Ritenuta la necessita', di procedere al rilevamento delle superfici agrarie investite a colture;
 
@@ -50,7 +50,7 @@ Chiunque omette di presentare la denunzia entro il termine prescritto e' punito,
  
  Nel caso di denunzia tardiva o incompleta o inesatta, la pena e' diminuita di due terzi. 
  
- La denunzia, compresa quella obbligatoria a norma del [R. decreto-legge 10 maggio 1943, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-10;397), per il conferimento dei cereali raccolti e sottoposti alla disciplina di vincolo, e' ritenuta incompleta o inesatta in riferimento alla data della sua presentazione.
+ La denunzia, compresa quella obbligatoria a norma del [R. decreto-legge 10 maggio 1943, n. 397](Disciplina%20totalitaria%20della%20raccolta%20e%20destinazione%20dei%20cereali%20e%20delle%20fave.%20043U0397.md), per il conferimento dei cereali raccolti e sottoposti alla disciplina di vincolo, e' ritenuta incompleta o inesatta in riferimento alla data della sua presentazione.
 
 ## Art. 5.
 

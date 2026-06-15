@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 gennaio 1933, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-05;29), contenente disposizioni sull'istruzione superiore. 
+ E' convertito in legge il [R. decreto-legge 5 gennaio 1933, n. 29](Disposizioni%20sullistruzione%20superiore.%20033U0029.md), contenente disposizioni sull'istruzione superiore. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

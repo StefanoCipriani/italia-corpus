@@ -24,9 +24,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Viste le [leggi 25 giugno 1906, n. 255, e 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445), recanti provvedimenti per la Calabria; 
  
- Vista la [legge 13 luglio 1911, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;774), concernente la sistemazione idraulico forestale dei bacini montani e l'esecuzione di opere idrauliche e di bonifica; 
+ Vista la [legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md), concernente la sistemazione idraulico forestale dei bacini montani e l'esecuzione di opere idrauliche e di bonifica; 
  
- Vista la [legge 7 aprile 1917, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-04-07;601), contenente autorizzazioni di spese e nuove disposizioni per l'esecuzione di opere pubbliche in Basilicata e Calabria; 
+ Vista la [legge 7 aprile 1917, n. 601](Contenente%20autorizzazione%20di%20spese%20e%20nuove%20disposizioni%20per%20lesecuzione%20di%20opere%20pubbliche%20in%20Basilicata%20ed%20in%20Calabria.%20017U0601.md), contenente autorizzazioni di spese e nuove disposizioni per l'esecuzione di opere pubbliche in Basilicata e Calabria; 
  
  Vista la richiesta del commissario generale per i combustibili nazionali per la costituzione di un Ufficio del genio civile in Reggio Calabria, cui sia affidato lo studio e l'esecuzione dei provvedimenti necessari per la sistemazione della viabilita' e la costruzione di approdi, a norma delle vigenti leggi sulle opere pubbliche, occorrenti di urgenza per lo sfruttamento di miniere e la coltivazione di boschi nella provincia di Reggio Calabria; 
  

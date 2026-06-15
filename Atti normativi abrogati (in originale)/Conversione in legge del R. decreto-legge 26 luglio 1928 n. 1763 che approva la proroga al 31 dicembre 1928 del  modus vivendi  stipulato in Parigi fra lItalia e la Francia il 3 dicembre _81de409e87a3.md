@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 luglio 1928, n. 1763](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-07-26;1763), che approva la proroga al 31 dicembre 1928 del « modus vivendi » di stabilimento provvisorio, stipulato in Parigi, mediante scambio di note, fra l'Italia e la Francia il 3 dicembre 1927. 
+ E' convertito in legge il [R. decreto-legge 26 luglio 1928, n. 1763](Approvazione%20della%20proroga%20al%2031%20dicembre%201928%20del%20Modus%20vivendi%20stipulato%20in%20Parigi%20fra%20lItalia%20e%20la%20Francia%20il%203%20dicembre%201927.%20028U1763.md), che approva la proroga al 31 dicembre 1928 del « modus vivendi » di stabilimento provvisorio, stipulato in Parigi, mediante scambio di note, fra l'Italia e la Francia il 3 dicembre 1927. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

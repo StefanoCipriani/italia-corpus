@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 26 ottobre 1940, n. 1543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-26;1543), concernente il risarcimento dei danni di guerra;
+Vista la [legge 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md), concernente il risarcimento dei danni di guerra;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per i lavori pubblici di concerto con i Ministri per
 
 ## Art. 1.
 
-La disposizione di cui all'[art. 27 della legge 26 ottobre 1940, n. 1543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-26;1543#art_27), in forza della quale il Ministero dei lavori pubblici provvede, a carico dello Stato, alla ricostituzione dei beni distrutti o comunque danneggiati in dipendenza della guerra, degli enti pubblici locali, delle istituzioni pubbliche di beneficenza nonche' delle chiese parrocchiali ed assimilate, e' estesa agli edifici scolastici delle scuole governative industriali commerciali, agrarie ed artistiche di proprieta' delle scuole stesse.
+La disposizione di cui all'[art. 27 della legge 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md), in forza della quale il Ministero dei lavori pubblici provvede, a carico dello Stato, alla ricostituzione dei beni distrutti o comunque danneggiati in dipendenza della guerra, degli enti pubblici locali, delle istituzioni pubbliche di beneficenza nonche' delle chiese parrocchiali ed assimilate, e' estesa agli edifici scolastici delle scuole governative industriali commerciali, agrarie ed artistiche di proprieta' delle scuole stesse.
 
 ## Art. 2.
 

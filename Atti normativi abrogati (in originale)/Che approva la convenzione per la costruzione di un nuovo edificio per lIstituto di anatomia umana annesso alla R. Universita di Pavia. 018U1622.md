@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a noi delegata;
 
-Veduta la convenzione 30 giugno 1908, approvata con la [legge 24 dicembre 1908, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;775), per la costruzione in Pavia di un ospedale clinico e di nuovi Istituti scientifici per uso di quell'Universita';
+Veduta la convenzione 30 giugno 1908, approvata con la [legge 24 dicembre 1908, n. 775](Convenzione%20per%20la%20costruzione%20di%20un%20nuovo%20ospedale%20clinico%20e%20di%20nuovi%20istituti%20scientifici%20a%20servizio%20della%20R.%20Universita%20di%20Pavia.%20008U0775.md), per la costruzione in Pavia di un ospedale clinico e di nuovi Istituti scientifici per uso di quell'Universita';
 
 Ritenuta l'opportunita' di costruire, in luogo dell'Istituto di fisiologia, previsto nell'anzidetta convenzione, l'Istituto di anatomia umana, in modo che risulti attiguo al Policlinico ed all'Istituto di anatomia patologica;
 

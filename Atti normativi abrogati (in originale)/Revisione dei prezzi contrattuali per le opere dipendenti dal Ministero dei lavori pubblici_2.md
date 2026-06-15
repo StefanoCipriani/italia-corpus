@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 21 giugno 1938, n. 1296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-21;1296) contenente norme sulla revisione dei prezzi contrattuali relativi ad opere pubbliche, convertito nella [legge 19 gennaio 1939, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-19;392), modificato con le [leggi 9 luglio 1940, n. 1137, 19 gennaio 1942, n. 142 e 18 ottobre 1942, n. 1435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1435);
+Visto il [R. decreto-legge 21 giugno 1938, n. 1296](Norme%20sulla%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20038U1296.md) contenente norme sulla revisione dei prezzi contrattuali relativi ad opere pubbliche, convertito nella [legge 19 gennaio 1939, n. 392](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20n.%201296%20riguardante%20la%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20039U0392.md), modificato con le [leggi 9 luglio 1940, n. 1137, 19 gennaio 1942, n. 142 e 18 ottobre 1942, n. 1435](Modifica%20della%20composizione%20della%20Commissione%20per%20lesame%20dei%20ricorsi%20in%20materia%20di%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20042U1435.md);
 
 Visto il [decreto legislativo Luogotenenziale 5 aprile 1945, n. 192](Estensione%20agli%20appalti%20di%20durata%20inferiore%20a%20sei%20mesi%20della%20revisione%20dei%20prezzi%20per%20i%20contratti%20relativi%20ad%20opere%20pubbliche.%20045U0192.md);
 
@@ -55,7 +55,7 @@ Le domande di revisione sono presentate al capo dell'ufficio da cui dipende l'es
 ## Art. 4.
 
 Il Ministero e il Provveditorato decidono sulle domande di revisione, nei limiti della rispettiva competenza, sentito, quando occorra, il Consiglio superiore dei lavori pubblici o il Comitato tecnico amministrativo del Provveditorato.
- Contro le determinazioni del Ministero e del Provveditorato e' ammesso ricorso al Ministro per i lavori pubblici nei modi e nei termini degli [articoli 4 e seguenti del R. decreto-legge 21 giugno 1938 n. 1296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-21;1296#art_4) e successive modificazioni.
+ Contro le determinazioni del Ministero e del Provveditorato e' ammesso ricorso al Ministro per i lavori pubblici nei modi e nei termini degli [articoli 4 e seguenti del R. decreto-legge 21 giugno 1938 n. 1296](Norme%20sulla%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20038U1296.md) e successive modificazioni.
 
 ## Art. 5.
 
@@ -63,7 +63,7 @@ Il Ministro per i lavori pubblici o il Provveditore alle opere pubbliche nella r
 
 ## Art. 6.
 
-Il 2° comma dell'articolo unico della [legge 18 ottobre 1942, n. 1435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1435), e' modificato come segue:
+Il 2° comma dell'articolo unico della [legge 18 ottobre 1942, n. 1435](Modifica%20della%20composizione%20della%20Commissione%20per%20lesame%20dei%20ricorsi%20in%20materia%20di%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20042U1435.md), e' modificato come segue:
  "A dar parere sui ricorsi e' istituita presso il Ministero dei lavori pubblici una Commissione della quale fanno parte:
  a) un presidente di sezione del Consiglio di Stato o un consigliere di Stato come presidente;
  b) un consigliere della Corte dei conti;

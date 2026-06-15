@@ -104,7 +104,7 @@ I detentori che contravvengano agli obblighi ed alle disposizioni di cui all'art
 
 ## Art. 12.
 
-In quanto occorra e non siano contradittorie con le disposizioni di cui ai precedenti articoli, si applicano le disposizioni della [legge 22 giugno 1913, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;693), concernente la requisizione dei quadrupedi e veicoli per il R. esercito, e del [decreto-legge 22 aprile 1915, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-04-22;506), recante conferimento di speciali facolta' per requisizione di mobili ed immobili.
+In quanto occorra e non siano contradittorie con le disposizioni di cui ai precedenti articoli, si applicano le disposizioni della [legge 22 giugno 1913, n. 693](Concernente%20la%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20R.%20esercito.%20013U0693.md), concernente la requisizione dei quadrupedi e veicoli per il R. esercito, e del [decreto-legge 22 aprile 1915, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-04-22;506), recante conferimento di speciali facolta' per requisizione di mobili ed immobili.
 
 ## Art. 13.
 

@@ -35,7 +35,7 @@ E' convertito in legge il [decreto-legge 31 luglio 1981, n. 414](Provvedimenti%2
  sono aggiunti, in fine, i seguenti commi: 
  "La sezione di credito industriale del Banco di Sicilia puo' emettere obbligazioni con la preventiva approvazione della Banca d'Italia di cui all'[articolo 44 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_44), e successive modificazioni e integrazioni. 
  L'emissione delle obbligazioni di cui al comma precedente e' consentita fino ad un limite massimo di trenta volte l'ammontare del fondo di dotazione e delle riserve. Raggiunto tale limite, la sezione puo' richiedere ulteriori aumenti del limite fino a cinquanta volte il suddetto ammontare. Il Ministro del tesoro, sentito il Comitato interministeriale per il credito ed il risparmio, puo' concedere con proprio decreto la relativa autorizzazione. 
- E' abrogato il [primo comma dell'articolo 24 del decreto legislativo luogotenenziale 28 dicembre 1944, numero 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;416#art_24-com1)". 
+ E' abrogato il [primo comma dell'articolo 24 del decreto legislativo luogotenenziale 28 dicembre 1944, numero 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md)". 
  All'articolo 6, al secondo comma, le parole "carta di produzione nazionale" sono sostituite dalle seguenti: 
  "carta di produzione comunitaria". 
  L'articolo 7 e' soppresso.

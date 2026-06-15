@@ -56,7 +56,7 @@ All'[art. 8 del R. decreto-legge 7 ottobre 1926, n. 1977](Riordinamento%20degli%
  
  «Coloro che hanno seguito l'intero corso di studi propedeutici e di applicazione per l'ingegneria ed hanno superato tutti gli esami di profitto, sono ammessi a sostenere l'esame di laurea in ingegneria, il quale consiste nello svolgimento di un progetto specifico per un determinato ramo d'ingegneria, redatto nell'ultimo anno di corso, e in una discussione orale. 
  
- «Il relativo diploma di laurea viene conferito dalle Scuole d'ingegneria, giusta il disposto dell'[art. 4 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_4). 
+ «Il relativo diploma di laurea viene conferito dalle Scuole d'ingegneria, giusta il disposto dell'[art. 4 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
  «All'esame di Stato per l'abilitazione alla professione di ingegnere sono ammessi esclusivamente i laureati in ingegneria».
 
@@ -68,9 +68,9 @@ L'[art. 10 del R. decreto-legge 7 ottobre 1926, n. 1977](Riordinamento%20degli%2
 
 Gli ufficiali e gli ex ufficiali di artiglieria e del genio, che abbiano compiuto regolarmente i corsi della Scuola di applicazione d'artiglieria e genio in Torino, ed aspirino a conseguire la laurea in ingegneria, possono essere inscritti, rispettivamente, al secondo e al terzo anno del triennio d'applicazione presso una Scuola d'ingegneria, previa valutazione, da parte del Consiglio della scuola stessa, dei corsi seguiti e degli esami superati. 
  
- Alle medesime condizioni possono essere inscritti in una Scuola di ingegneria gli ufficiali delle predette armi che abbiano regolarmente compiuti i corsi quadriennali dell'Accademia d'artiglieria e genio, in applicazione del [R. decreto 30 dicembre 1923, n. 2986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2986). 
+ Alle medesime condizioni possono essere inscritti in una Scuola di ingegneria gli ufficiali delle predette armi che abbiano regolarmente compiuti i corsi quadriennali dell'Accademia d'artiglieria e genio, in applicazione del [R. decreto 30 dicembre 1923, n. 2986](Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md). 
  
- Gli ufficiali e gli ex ufficiali dello Stato Maggiore della Regia marina, che abbiano compiuto regolarmente i corsi della Regia accademia navale di Livorno, secondo l'ordinamento approvato con [R. decreto 14 marzo 1915, n. 495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-14;495), e susseguenti modifiche, e che aspirino a conseguire la laurea in ingegneria, possono essere inscritti al primo anno del triennio di applicazione presso una Scuola d'ingegneria, previa valutazione, da parte del Consiglio della scuola stessa, dei corsi seguiti e delle prove superate, limitatamente pero' agli anni dal 1928-29 al 1930-31.
+ Gli ufficiali e gli ex ufficiali dello Stato Maggiore della Regia marina, che abbiano compiuto regolarmente i corsi della Regia accademia navale di Livorno, secondo l'ordinamento approvato con [R. decreto 14 marzo 1915, n. 495](Col%20quale%20e%20approvato%20il%20nuovo%20ordinamento%20della%20R.%20Accademia%20navale.%20015U0495.md), e susseguenti modifiche, e che aspirino a conseguire la laurea in ingegneria, possono essere inscritti al primo anno del triennio di applicazione presso una Scuola d'ingegneria, previa valutazione, da parte del Consiglio della scuola stessa, dei corsi seguiti e delle prove superate, limitatamente pero' agli anni dal 1928-29 al 1930-31.
 
 ## Art. 8.
 

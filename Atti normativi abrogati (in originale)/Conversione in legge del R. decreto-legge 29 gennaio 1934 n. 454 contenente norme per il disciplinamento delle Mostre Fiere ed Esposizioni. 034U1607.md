@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 gennaio 1934, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-29;454), contenente norme per il disciplinamento delle Mostre, Fiere ed Esposizioni. 
+ E' convertito in legge il [R. decreto-legge 29 gennaio 1934, n. 454](Norme%20per%20il%20disciplinamento%20delle%20mostre%20fiere%20ed%20esposizioni.%20034U0454.md), contenente norme per il disciplinamento delle Mostre, Fiere ed Esposizioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

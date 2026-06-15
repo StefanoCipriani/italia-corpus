@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il [comma secondo dell'art. 70 del R. decreto-legge 7 novembre 1925, n. 1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-07;1950#art_70-com2), quale risulta nel testo della [legge 17 gennaio 1929, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-17;29), e' sostituito dal seguente: 
+ Il [comma secondo dell'art. 70 del R. decreto-legge 7 novembre 1925, n. 1950](Disposizioni%20sul%20diritto%20di%20autore.%20025U1950.md), quale risulta nel testo della [legge 17 gennaio 1929, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-17;29), e' sostituito dal seguente: 
  «La eventuale maggiore estensione della durata del diritto di autore andra' ad esclusivo favore degli autori e dei loro eredi o legatari». 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 6 gennaio 1931 - Anno IX 

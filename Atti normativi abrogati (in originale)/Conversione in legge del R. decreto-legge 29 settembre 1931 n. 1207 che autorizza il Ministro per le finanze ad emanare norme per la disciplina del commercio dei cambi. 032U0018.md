@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [R. decreto-legge 29 settembre 1931, n. 1207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-29;1207), che da' facolta' al Ministro per le finanze di emanare con propri decreti provvedimenti diretti a disciplinare il commercio dei cambi. 
+ E convertito in legge il [R. decreto-legge 29 settembre 1931, n. 1207](Autorizzazione%20al%20Ministro%20per%20le%20finanze%20ad%20emanare%20norme%20per%20la%20disciplina%20del%20commercio%20dei%20cambi.%20031U1207.md), che da' facolta' al Ministro per le finanze di emanare con propri decreti provvedimenti diretti a disciplinare il commercio dei cambi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

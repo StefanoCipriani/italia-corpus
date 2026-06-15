@@ -12,7 +12,7 @@ vigente: true
 
 Senza pregiudizio di ogni altre onere attualmente in vigore, chiunque sottopone a macellazione animali bovini e' tenuto a versare un contributo fisso, nella misura di L. 5 a capo, delle quali 9/10 sono devoluti allo Stato ed 1/10 al Comune in cui avviene la macellazione. 
  
- La riscossione di questo contributo e' fatta a cura dei Comuni, in conformita' di quanto dispongono la [legge 6 luglio 1912, n. 832](Concernente%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U0832.md), e il relativo regolamento approvato con [R. decreto 19 dicembre 1912, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-12-19;1395).
+ La riscossione di questo contributo e' fatta a cura dei Comuni, in conformita' di quanto dispongono la [legge 6 luglio 1912, n. 832](Concernente%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U0832.md), e il relativo regolamento approvato con [R. decreto 19 dicembre 1912, n. 1395](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%206%20luglio%201912%20n.%20832%20riguardante%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U1395.md).
 
 ## Art. 2.
 
@@ -35,7 +35,7 @@ Il fondo di cui all'art. 2 sara' versato in tesoreria, con imputazione al bilanc
  
  Con decreto del Ministero del tesoro, le quote destinate a disposizione del Ministero per l'agricoltura e del Ministero per l'industria, il commercio e il lavoro, saranno annualmente assegnate ad appositi capitoli degli stati di previsione della spesa degli stessi Ministeri e non potranno essere erogate a fini diversi da quelli di cui alle lettere a) e b) dell'art. 2. 
  
- La quota destinata a disposizione del Ministero per l'interno sara' versata in aumento del fondo di riserva per le epizoozie, di cui all'[art. 194 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_194), approvato con [R. decreto 1° agosto 1907, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-01;636).
+ La quota destinata a disposizione del Ministero per l'interno sara' versata in aumento del fondo di riserva per le epizoozie, di cui all'[art. 194 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_194), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md).
 
 ## Art. 4.
 

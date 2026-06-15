@@ -18,19 +18,19 @@ In virtu' dell'autorita', a Noi delegata;
 
 Visto il [decreto-legge 2 agosto 1943, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1943-08-02;704), che sopprime il partito nazionale fascista;
 
-Visto il [R. decreto-legge 9 agosto 1943, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-09;720), riguardante la devoluzione allo Stato dei patrimoni di non giustificata provenienza:
+Visto il [R. decreto-legge 9 agosto 1943, n. 720](Devoluzione%20allo%20Stato%20dei%20patrimoni%20di%20non%20giustificata%20provenienza.%20043U0720.md), riguardante la devoluzione allo Stato dei patrimoni di non giustificata provenienza:
 
-Visto il [R. decreto-legge 28 dicembre 1943, n. 29/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-28;29), per la defascistizzazione delle Amministrazioni dello Stato, degli Enti locali e parastatali, degli Enti comunque sottoposti a vigilanza o tutela dello Stato e delle Aziende private esercenti servizi pubblici o di interesse nazionale;
+Visto il [R. decreto-legge 28 dicembre 1943, n. 29/B](Defascistizzazione%20delle%20Amministrazioni%20dello%20Stato%20degli%20Enti%20locali%20e%20parastatali%20degli%20Enti%20comunque%20sottoposti%20a%20vigilanza%20o%20tutela%20dello%20Stato%20e%20delle%20aziende%20private%20esercenti%20serv_3e7a4632b408.md), per la defascistizzazione delle Amministrazioni dello Stato, degli Enti locali e parastatali, degli Enti comunque sottoposti a vigilanza o tutela dello Stato e delle Aziende private esercenti servizi pubblici o di interesse nazionale;
 
-Visto il [R. decreto-legge 26 maggio 1944, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-26;134), per la, punizione dei delitti e degli illeciti del fascismo;
+Visto il [R. decreto-legge 26 maggio 1944, n. 134](Punizione%20dei%20delitti%20e%20degli%20illeciti%20del%20fascismo.%20044U0134.md), per la, punizione dei delitti e degli illeciti del fascismo;
 
-Visto il [R. decreto-legge 12 aprile 1944, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-04-12;101), recante norme integrative dei [Regi decreti legge 28 dicembre 1943, n. 29/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-28;29), e [6 gennaio 1944, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-06;9);
+Visto il [R. decreto-legge 12 aprile 1944, n. 101](Norme%20integrative%20dei%20Regi%20decreti-legge%2028%20dicembre%201943%20n.%2029-B%20e%206%20gennaio%201944%20n.%209%20sulla%20defascistizzazione%20delle%20Amministrazioni%20dello%20Stato%20degli%20Enti%20locali%20e%20parastatali%20degli%20En_38c8e124174d.md), recante norme integrative dei [Regi decreti legge 28 dicembre 1943, n. 29/B](Defascistizzazione%20delle%20Amministrazioni%20dello%20Stato%20degli%20Enti%20locali%20e%20parastatali%20degli%20Enti%20comunque%20sottoposti%20a%20vigilanza%20o%20tutela%20dello%20Stato%20e%20delle%20aziende%20private%20esercenti%20serv_3e7a4632b408.md), e [6 gennaio 1944, n. 9](Riammissione%20in%20servizio%20degli%20appartenenti%20alle%20amministrazioni%20dello%20Stato%20degli%20enti%20locali%20e%20parastatali%20e%20controllati%20dallo%20Stato%20aziende%20che%20gestiscono%20servizi%20pubblici%20o%20dinteresse_e18d0424ecb3.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), concernente l'Assemblea per la nuova costituzione dello Stato, il giuramento dei Memibri del Governo e la facolta', del Governo di emanare norme giuridiche;
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), riguardante la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), riguardante la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141), che istituisce presso la sede del Governo una Sezione speciale di controllo della, Corte dei conti;
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md), che istituisce presso la sede del Governo una Sezione speciale di controllo della, Corte dei conti;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -48,7 +48,7 @@ Essi saranno giudicati da un'Alta Corte di giustizia composta di un presidente e
 
 ### Art. 3.
 
-Coloro che hanno organizzato squadre fasciste, le quali hanno compiuto atti di violenza o di devastazione, e coloro che hanno promosso o diretto l'insurrezione del 28 ottobre 1922 sono puniti secondo l'[art. 120 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_120) del 1889. 
+Coloro che hanno organizzato squadre fasciste, le quali hanno compiuto atti di violenza o di devastazione, e coloro che hanno promosso o diretto l'insurrezione del 28 ottobre 1922 sono puniti secondo l'[art. 120 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 1889. 
  
  Coloro che hanno promosso o diretto il colpo di Stato del 3 gennaio 1925 e coloro che hanno in seguito contribuito con atti rilevanti a mantenere in vigore il regime fascista sono puniti secondo l'art, 118 del Codice stesso. 
  
@@ -88,7 +88,7 @@ Per i reati previsti nel presente titolo, la pena puo' essere ridotta fino ad un
  
  b) se hai, partecipato attivamente alla lotta contro i tedeschi. 
  
- Se ricorrono le circostanze attenuanti generiche, previste dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del 1889, alla pena di morte e all'ergastolo e' sostituita la reclusione per trent'anni e le altre pene sono diminuite di un sesto. 
+ Se ricorrono le circostanze attenuanti generiche, previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 1889, alla pena di morte e all'ergastolo e' sostituita la reclusione per trent'anni e le altre pene sono diminuite di un sesto. 
  
  Il colpevole potra' essere dichiarato non punibile, se nella lotta contro i tedeschi si sia particolarmente distinto con atti di valore.
 
@@ -275,7 +275,7 @@ La Sezione speciale della Commissione provinciale ha tutti i poteri di indagine,
  
  Non e' ammesso il diritto di astenersi dal testimoniare nei casi dell'[art. 352 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_352). 
  
- Chi, chiamato come testimonio o perito, non ottempera agli obblighi o commette falsita' e' punito a termine degli [articoli 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_366), [372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_372), [373 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_373). 
+ Chi, chiamato come testimonio o perito, non ottempera agli obblighi o commette falsita' e' punito a termine degli [articoli 366](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [372](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [373 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Chi non adempie alle altre richieste della Sezione e' punito con la reclusione fino a sei mesi o con la multa da 300 a 5000 lire. 
  
@@ -392,7 +392,7 @@ Per l'applicazione del presente decreto sono abolite tutte le prerogative, compr
 
 ### Art. 43.
 
-I pubblici ufficiali e gli incaricati di pubblici servizi, investiti a norma del presente decreto di funzioni relative alla repressione dei delitti dei fascisti, all'epurazione delle Amministrazioni, all'avocazione dei profitti di regime e alla liquidazione dei beni fascisti, i quali si rendono responsabili di alcuno dei reati previsti e puniti dagli [articoli 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_314), [316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_316), [317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_317), [318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_318), [319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_319), [320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_320), [323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_323), [324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_324), [326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_326) e [328 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_328), sono puniti con le pene previste da detti articoli, aumentati da un terzo alla meta'.
+I pubblici ufficiali e gli incaricati di pubblici servizi, investiti a norma del presente decreto di funzioni relative alla repressione dei delitti dei fascisti, all'epurazione delle Amministrazioni, all'avocazione dei profitti di regime e alla liquidazione dei beni fascisti, i quali si rendono responsabili di alcuno dei reati previsti e puniti dagli [articoli 314](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [316](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [317](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [318](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [319](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [320](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [323](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [324](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [326](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [328 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono puniti con le pene previste da detti articoli, aumentati da un terzo alla meta'.
 
 ### Art. 44.
 
@@ -408,9 +408,9 @@ Sara', con successivi decreti legislativi, provveduto, in quanto occorra, all'es
 
 ### Art. 46.
 
-Sono abrogati i [Regi decreti-legge 9 agosto 1943, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-09;720), [28 dicembre 1943, n. 29/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-28;29), [26 maggio 1944; n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-26;134). 
+Sono abrogati i [Regi decreti-legge 9 agosto 1943, n. 720](Devoluzione%20allo%20Stato%20dei%20patrimoni%20di%20non%20giustificata%20provenienza.%20043U0720.md), [28 dicembre 1943, n. 29/B](Defascistizzazione%20delle%20Amministrazioni%20dello%20Stato%20degli%20Enti%20locali%20e%20parastatali%20degli%20Enti%20comunque%20sottoposti%20a%20vigilanza%20o%20tutela%20dello%20Stato%20e%20delle%20aziende%20private%20esercenti%20serv_3e7a4632b408.md), [26 maggio 1944; n. 134](Punizione%20dei%20delitti%20e%20degli%20illeciti%20del%20fascismo.%20044U0134.md). 
  
- Sono altresi' abrogate le disposizioni contenute nel [R. decreto-legge 12 aprile 1944, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-04-12;101), nella parte riflettente la materia regolata dal presente decreto.
+ Sono altresi' abrogate le disposizioni contenute nel [R. decreto-legge 12 aprile 1944, n. 101](Norme%20integrative%20dei%20Regi%20decreti-legge%2028%20dicembre%201943%20n.%2029-B%20e%206%20gennaio%201944%20n.%209%20sulla%20defascistizzazione%20delle%20Amministrazioni%20dello%20Stato%20degli%20Enti%20locali%20e%20parastatali%20degli%20En_38c8e124174d.md), nella parte riflettente la materia regolata dal presente decreto.
 
 ### Art. 47.
 

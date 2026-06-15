@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 marzo 1930, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-31;366), concernente modifiche alle norme sulla concessione della decorazione della Stella al merito del lavoro. 
+ E' convertito in legge il [R. decreto-legge 31 marzo 1930, n. 366](Modifiche%20alle%20norme%20sulla%20concessione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20030U0366.md), concernente modifiche alle norme sulla concessione della decorazione della Stella al merito del lavoro. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

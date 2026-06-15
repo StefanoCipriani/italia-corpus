@@ -64,13 +64,13 @@ I servizi del Commissariato generale sono ripartiti in tre Direzioni generali: p
 
 ## Art. 6.
 
-Il personale del Commissariato deve possedere i requisiti di cui all'art. 3 del testo unico delle leggi sullo stato giuridico degli impiegati civili dello Stato, approvato con [R decreto 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;693). Il commissario pero' puo' derogare alle disposizioni dei numeri 1 e 5 dello stesso articolo ove concorrano ragioni speciali. 
+Il personale del Commissariato deve possedere i requisiti di cui all'art. 3 del testo unico delle leggi sullo stato giuridico degli impiegati civili dello Stato, approvato con [R decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md). Il commissario pero' puo' derogare alle disposizioni dei numeri 1 e 5 dello stesso articolo ove concorrano ragioni speciali. 
  
  Esso e' costituito, su richiesta del commissario generale, da funzionari dello Stato in attivita' di servizio o a riposo, da militari inabili alle fatiche di guerra o appartenenti a corpi non combattenti e da cittadini esperti i quali assumono i doveri e le responsabilita' dei pubblici funzionari e sono considerati tali ad ogni effetto di legge.
 
 ## Art. 7.
 
-Salvo quanto dispongono l'art. seguente e la [legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182) circa la nomina di persone estranee all'amministrazione, il personale e' assunto con decreto del commissario generale. 
+Salvo quanto dispongono l'art. seguente e la [legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md) circa la nomina di persone estranee all'amministrazione, il personale e' assunto con decreto del commissario generale. 
  
  Con le stesse forme il personale puo' essere dispensato dal servizio in ogni momento.
 

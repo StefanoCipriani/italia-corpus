@@ -10,25 +10,25 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 2 giugno 1927, n. 862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-02;862);
+Vista la [legge 2 giugno 1927, n. 862](Ordinamento%20della%20carriera%20diplomatico-consolare.%20027U0862.md);
 
-Visto il [decreto-legge 26 febbraio 1934, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1934-02-26;425), convertito in [legge 14 giugno 1934, n. 1195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-14;1195), Visto il decreto 26 febbraio 1934, n. 426, e successive modificazioni;
+Visto il [decreto-legge 26 febbraio 1934, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1934-02-26;425), convertito in [legge 14 giugno 1934, n. 1195](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%2026%20febbraio%201934%20n.%20425%20che%20fissa%20la%20misura%20degli%20assegni%20e%20delle%20relative%20percentuali%20di%20aumento%20al%20personale%20in%20servizio%20nei%20Regi%20uffici%20diplom_07eab366db94.md), Visto il decreto 26 febbraio 1934, n. 426, e successive modificazioni;
 
 Visto il decreto 23 aprile 1936, n. 636;
 
-Visto il [decreto-legge 17 settembre 1936, n. 1823](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1936-09-17;1823), convertito in [legge 4 gennaio 1937, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-01-04;46);
+Visto il [decreto-legge 17 settembre 1936, n. 1823](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1936-09-17;1823), convertito in [legge 4 gennaio 1937, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2017%20settembre%201936-XIV%20n.%201823%20concernente%20modificazioni%20alla%20tabella%20B%20allegata%20al%20R.%20decreto-legge%2026%20febbraio%201934-XII%20n.%20425%20relativa%20al%20tr_95d56176db8a.md);
 
-Visto il [decreto-legge 29 ottobre 1936, n. 2068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1936-10-29;2068), convertito in [legge 23 marzo 1937, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-03-23;636);
+Visto il [decreto-legge 29 ottobre 1936, n. 2068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1936-10-29;2068), convertito in [legge 23 marzo 1937, n. 636](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20ottobre%201936-XV%20n.%202068%20concernente%20il%20trattamento%20economico%20del%20personale%20allestero%20dipendente%20dal%20Ministero%20degli%20affari%20esteri%20e%20degli%20Adde_20f1016e6a6e.md);
 
-Visto il [decreto-legge 15 aprile 1937, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1937-04-15;522), convertito in [legge 10 giugno 1937, n. 1075](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-10;1075);
+Visto il [decreto-legge 15 aprile 1937, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1937-04-15;522), convertito in [legge 10 giugno 1937, n. 1075](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20aprile%201937-XV%20n.%20522%20che%20regola%20il%20trattamento%20economico%20del%20personale%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20scambi%20e%20per%20le%20valute%20addetto%20_60f8a4d3d7d8.md);
 
-Visto il [decreto-legge 15 gennaio 1942, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1942-01-15;332), convertito in [legge 21 giugno 1942, n. 895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-06-21;895);
+Visto il [decreto-legge 15 gennaio 1942, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1942-01-15;332), convertito in [legge 21 giugno 1942, n. 895](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2015%20gennaio%201942-XX%20n.%20332%20concernente%20la%20revisione%20del%20trattamento%20economico%20del%20personale%20allestero%20di%20ruolo%20dellAmministrazione%20degli%20affari_641e6c925740.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 1° febbraio 1945, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;58);
+Visto il [decreto legislativo luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Ritenuta la necessita' di rivedere, per adattarlo alle attuali esigenze, il trattamento economico del personale del Ministero degli affari esteri in servizio presso gli Uffici all'estero;
 

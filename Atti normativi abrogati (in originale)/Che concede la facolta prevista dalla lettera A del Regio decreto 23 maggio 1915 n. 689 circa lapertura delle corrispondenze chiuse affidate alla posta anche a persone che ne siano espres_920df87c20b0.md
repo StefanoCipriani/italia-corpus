@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La facolta' di cui alla lettera a) del citato [R. decreto 23 maggio 1915, n 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;689), di aprire le corrispondenze chiuse affidate alla posta ovunque dirette, per accertare se siano in esse contenute notizie concernenti le forze, la preparazione e la difesa militare dello Stato, puo' essere affidata, oltre che egli ufficiali dell'esercito e dell'armata ed ai funzionari civili espressamente deleganti anche a persone che ne siano espressamente incaricate dal Governo del Re.
+La facolta' di cui alla lettera a) del citato [R. decreto 23 maggio 1915, n 689](Riguardante%20la%20censura%20postale%20in%20caso%20di%20circostanze%20straordinarie.%20015U0689.md), di aprire le corrispondenze chiuse affidate alla posta ovunque dirette, per accertare se siano in esse contenute notizie concernenti le forze, la preparazione e la difesa militare dello Stato, puo' essere affidata, oltre che egli ufficiali dell'esercito e dell'armata ed ai funzionari civili espressamente deleganti anche a persone che ne siano espressamente incaricate dal Governo del Re.
 
 ## Art. 2.
 

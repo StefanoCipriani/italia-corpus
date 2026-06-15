@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-E' rinviata fino a nuovo provvedimento l'esecuzione del terz'ultimo capoverso dell'[art. 2 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_2), riguardante la decadenza dalla carica dei componenti dei Consigli scolastici. 
+E' rinviata fino a nuovo provvedimento l'esecuzione del terz'ultimo capoverso dell'[art. 2 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), riguardante la decadenza dalla carica dei componenti dei Consigli scolastici. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

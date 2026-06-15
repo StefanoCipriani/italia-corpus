@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto L'[articolo 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma 1°, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto L'[articolo 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma 1°, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -36,11 +36,11 @@ Le disposizioni dell'[art. 8 del regio decreto-legge 30 maggio 1946, n. 538](htt
 L.) sono estese agli iscritti al Dopolavoro ferroviario istituito con [regio decreto-legge 25 ottobre 1925, n. 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-25;1908), che comprovino la loro identita' personale mediante tessera munita di fotografia rilasciata dal Dopolavoro stesso.
  Nessun diritto erariale e' dovuto sui biglietti d'ingresso gratuiti nei cinematografi e negli altri pubblici spettacoli che in facolta' degli esercenti vengono concessi ai grandi invalidi di guerra ed ai loro eventuali accompagnatori.
  La concessione di cui al precedente comma deve essere accordata soltanto ai grandi invalidi di guerra che comprovino mediante tessera munita di fotografia rilasciata dall'Associazione nazionale mutilati ed invalidi di guerra, la loro identita' personale e, mediante il libretto ferroviario rilasciato dal Ministero del tesoro, la loro qualita' di grande invalido ed eventualmente il diritto a fruire dell'accompagnatore.
- Le agevolazioni disposte dall'[articolo 4 della legge 24 maggio 1937, n. 817](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-05-24;817#art_4), non si estendono ai diritti erariali sui pubblici spettacoli.
+ Le agevolazioni disposte dall'[articolo 4 della legge 24 maggio 1937, n. 817](Modificazioni%20alle%20norme%20sullordinamento%20dellOpera%20Nazionale%20Dopolavoro.%20037U0817.md), non si estendono ai diritti erariali sui pubblici spettacoli.
 
 ## Art. 3.
 
-Sui diritti erariali accertati sulle scommesse al totalizzitore e al libro, che hanno luogo alle corse dei cavalli, e' concesso a favore dell'Unione Nazionale Incremento Razze Equine (U.N.I.R.E.) e per le finalita' di cui alla [legge 24 marzo 1942, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-03-24;315), un abbuono del 40% dei diritti medesimi per l'anno 1947 e del 30% per l'anno 1948.
+Sui diritti erariali accertati sulle scommesse al totalizzitore e al libro, che hanno luogo alle corse dei cavalli, e' concesso a favore dell'Unione Nazionale Incremento Razze Equine (U.N.I.R.E.) e per le finalita' di cui alla [legge 24 marzo 1942, n. 315](Provvedimenti%20per%20la%20ippicoltura.%20042U0315.md), un abbuono del 40% dei diritti medesimi per l'anno 1947 e del 30% per l'anno 1948.
  Il pagamento all'ente interessato dell'abbuono di cui al comma precedente, al netto dell'aggio spettante alla Societa' italiana Autori Editori, verra' effettuato a cura del Ministero delle finanze - Direzione generale delle tasse e delle imposte indirette sugli affari - alla fine di ciascun semestre.
 
 ## Art. 4.

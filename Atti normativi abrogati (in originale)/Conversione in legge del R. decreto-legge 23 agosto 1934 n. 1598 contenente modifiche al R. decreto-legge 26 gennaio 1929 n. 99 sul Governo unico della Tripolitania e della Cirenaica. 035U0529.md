@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 agosto 1934, n. 1598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-08-23;1598), contenente modifiche al [R. decreto-legge 26 gennaio 1929, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-26;99), sul Governo unico della Tripolitania e della Cirenaica. 
+ E' convertito in legge il [R. decreto-legge 23 agosto 1934, n. 1598](Modifiche%20al%20R.%20decreto-legge%2024%20gennaio%201929%20n.%2099%20sul%20Governo%20unico%20della%20Tripolitania%20e%20Cirenaica.%20034U1598.md), contenente modifiche al [R. decreto-legge 26 gennaio 1929, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-26;99), sul Governo unico della Tripolitania e della Cirenaica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

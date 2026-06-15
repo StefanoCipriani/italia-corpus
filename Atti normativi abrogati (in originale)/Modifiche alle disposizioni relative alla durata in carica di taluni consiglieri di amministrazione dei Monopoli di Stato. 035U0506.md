@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 2 del R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258#art_2), convertito nella [legge 6 dicembre 1928, n. 3474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;3474), col quale viene fissata la composizione del Consiglio di amministrazione dei monopoli di Stato;
+Visto l'[art. 2 del R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258#art_2), convertito nella [legge 6 dicembre 1928, n. 3474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201927%20n.%202258%20relativo%20allautonomia%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20028U3474.md), col quale viene fissata la composizione del Consiglio di amministrazione dei monopoli di Stato;
 
 Visto l'[art. 2 del R. decreto 29 dicembre 1927, n. 2452](Determinazione%20delle%20facolta%20dellAmministrazione%20autonoma%20dei%20monopoli%20di%20Stato%20e%20delle%20attribuzioni%20del%20Consiglio%20di%20amministrazione%20e%20del%20direttore%20generale%20dellAmministrazione%20stessa.%20027U2452.md), contenente norme circa la durata in carica di taluni consiglieri;
 

@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il testo unico delle disposizioni di legge per la sistemazione idraulico-forestale dei bacini montani, approvato con [R. decreto 21 marzo 1912, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-21;442); 
+ Visto il testo unico delle disposizioni di legge per la sistemazione idraulico-forestale dei bacini montani, approvato con [R. decreto 21 marzo 1912, n. 442](Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani.%20012U0442.md); 
  
  Udito il parere del Consiglio superiore dei lavori pubblici e del Consiglio di Stato; 
  

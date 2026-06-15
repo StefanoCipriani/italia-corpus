@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 gennaio 1930, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-01-16;78), recante proroga del termine per il conferimento della cittadinanza italiana agli stranieri residenti in Fiume. 
+ E' convertito in legge il [R. decreto-legge 16 gennaio 1930, n. 78](Proroga%20del%20termine%20per%20il%20conferimento%20della%20cittadinanza%20italiana%20agli%20stranieri%20residenti%20in%20Fiume.%20030U0078.md), recante proroga del termine per il conferimento della cittadinanza italiana agli stranieri residenti in Fiume. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

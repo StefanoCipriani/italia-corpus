@@ -20,7 +20,7 @@ Considerato che i fini suddetti possono essere raggiunti mediante l'istituzione 
 
 Vista la Carta del Lavoro:
 
-Visto il [R. decreto 27 settembre 1929, n. 1663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-09-27;1663);
+Visto il [R. decreto 27 settembre 1929, n. 1663](Ripartizione%20dei%20servizi%20gia%20di%20competenza%20del%20Ministero%20delleconomia%20nazionale%20fra%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20ed%20il%20Ministero%20delle%20corporazioni.%20029U1663.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

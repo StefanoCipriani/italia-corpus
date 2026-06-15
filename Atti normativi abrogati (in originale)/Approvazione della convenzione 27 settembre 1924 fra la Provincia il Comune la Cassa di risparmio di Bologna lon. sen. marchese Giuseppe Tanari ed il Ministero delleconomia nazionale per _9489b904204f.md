@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 ottobre 1923, n. 2492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2492);
+Visto il [R. decreto 31 ottobre 1923, n. 2492](Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md);
 
 Vista la convenzione stipulata in Bologna il 27 settembre 1924 tra la Provincia, il Comune, la Cassa di risparmio di Bologna, l'on. senatore marchese Giuseppe Tanari ed il Ministero dell'economia nazionale;
 

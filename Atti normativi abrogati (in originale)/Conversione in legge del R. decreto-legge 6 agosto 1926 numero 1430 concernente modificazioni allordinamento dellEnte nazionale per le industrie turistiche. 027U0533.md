@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 agosto 1926, n. 1430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-06;1430), concernente modificazioni all'ordinamento dell'Ente nazionale per le industrie turistiche. 
+ E' convertito in legge il [R. decreto-legge 6 agosto 1926, n. 1430](Modificazioni%20allordinamento%20dellEnte%20nazionale%20per%20le%20industrie%20turistiche.%20026U1430.md), concernente modificazioni all'ordinamento dell'Ente nazionale per le industrie turistiche. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

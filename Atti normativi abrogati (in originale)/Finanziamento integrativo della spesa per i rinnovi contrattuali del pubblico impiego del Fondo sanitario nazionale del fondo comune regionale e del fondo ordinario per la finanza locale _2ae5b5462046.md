@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 1.
 
-Nell'[articolo 1 della legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910#art_1), comma 10, le cifre di lire 2.384 miliardi e di lire 2.855 miliardi sono sostituite, rispettivamente, con lire 2.900 miliardi e con lire 3.800 miliardi.
+Nell'[articolo 1 della legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), comma 10, le cifre di lire 2.384 miliardi e di lire 2.855 miliardi sono sostituite, rispettivamente, con lire 2.900 miliardi e con lire 3.800 miliardi.
 
 2.
 
@@ -48,7 +48,7 @@ Al fine di assicurare il finanziamento dei maggiori oneri connessi con l'attuazi
 
 2.
 
-Al fine di assicurare il finanziamento della maggiore spesa derivante dall'aumento dell'aliquota contributiva a carico dei datori di lavoro di cui all'[articolo 31 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_31):
+Al fine di assicurare il finanziamento della maggiore spesa derivante dall'aumento dell'aliquota contributiva a carico dei datori di lavoro di cui all'[articolo 31 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md):
                         a)
                             i trasferimenti statali a favore delle regioni a statuto
 ordinario sono incrementati di lire 30 miliardi per l'anno 1987 ed esercizi successivi;

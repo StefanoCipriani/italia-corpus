@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduto l'[art. 157 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_157) approvato con [R. decreto 1° agosto 1907, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-01;636), e il regolamento approvato con [R. decreto 28 febbraio 1907, n. 61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-02-28;61), che contengono disposizioni per diminuire le cause della malaria; 
+ Veduto l'[art. 157 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_157) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e il regolamento approvato con [R. decreto 28 febbraio 1907, n. 61](Che%20approva%20lannesso%20regolamento%20unico%20per%20la%20esecuzione%20delle%20leggi%20per%20diminuire%20le%20cause%20della%20malaria%20e%20per%20la%20vendita%20del%20chinino%20di%20Stato.%20007U0061.md), che contengono disposizioni per diminuire le cause della malaria; 
  
  Visto l'[art. 7 del decreto Luogotenenziale 31 dicembre 1915, n. 1910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1910#art_7); 
  
- Visto il [R. decreto 8 luglio 1903, n. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-07-08;338), concernente tra l'altro la dichiarazione di due zone malariche nel territorio del comune di Carolei, in provincia di Cosenza; 
+ Visto il [R. decreto 8 luglio 1903, n. 338](Che%20dichiara%20e%20delimita%20zone%20malariche%20nella%20provincia%20di%20Cosenza%20003U0338.md), concernente tra l'altro la dichiarazione di due zone malariche nel territorio del comune di Carolei, in provincia di Cosenza; 
  
  Visto il rapporto col quale il prefetto della Provincia stessa ha inviato la proposta di quel medico provinciale per la revoca delle zone malariche del comune di Carolei approvate col su citato R. decreto; 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Viene revocata la dichiarazione delle due zone malariche, delimitate nel comune di Carolei con [R. decreto 8 luglio 1903, n. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-07-08;338), per cui tutto il territorio di esso deve ritenersi immune da malaria. 
+ Viene revocata la dichiarazione delle due zone malariche, delimitate nel comune di Carolei con [R. decreto 8 luglio 1903, n. 338](Che%20dichiara%20e%20delimita%20zone%20malariche%20nella%20provincia%20di%20Cosenza%20003U0338.md), per cui tutto il territorio di esso deve ritenersi immune da malaria. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

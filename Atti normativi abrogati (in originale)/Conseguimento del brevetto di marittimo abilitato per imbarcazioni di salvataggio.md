@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'art. 130 del regolamento per la sicurezza delle navi mercantili e della vita umana in mare, approvato con [regio decreto 23 maggio 1932, n. 719](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-23;719);
+Visto l'art. 130 del regolamento per la sicurezza delle navi mercantili e della vita umana in mare, approvato con [regio decreto 23 maggio 1932, n. 719](Approvazione%20del%20regolamento%20per%20la%20sicurezza%20delle%20navi%20mercantili%20e%20della%20vita%20umana%20in%20mare.%20032U0719.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la marina mercantile, di concerto con quello per
 
 ## Art. 1.
 
-Il brevetto di marittimo abilitato per imbarcazioni di salvataggio, di cui all'art. 130 del regolamento per la sicurezza delle navi mercantili e della vita umana in mare, approvato con [regio decreto 23 maggio 1932, n. 719](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-23;719), e' conferito senza particolari accertamenti:
+Il brevetto di marittimo abilitato per imbarcazioni di salvataggio, di cui all'art. 130 del regolamento per la sicurezza delle navi mercantili e della vita umana in mare, approvato con [regio decreto 23 maggio 1932, n. 719](Approvazione%20del%20regolamento%20per%20la%20sicurezza%20delle%20navi%20mercantili%20e%20della%20vita%20umana%20in%20mare.%20032U0719.md), e' conferito senza particolari accertamenti:
  a) ai marittimi in possesso del titolo di capitano di lungo corso;
  b) ai marittimi in possesso dei titoli di capitano di gran cabotaggio e di padrone marittimo che siano stati imbarcati al comando di unita' adibite a navigazione oltre i limiti del traffico locale e della pesca costiera;
  c) ai marittimi che, per un periodo di tempo non inferiore a trenta mesi, siano stati imbarcati in qualita' di nostromo su navi destinate al trasporto di passeggeri in viaggi internazionali, escluse quelle adibite a linee limitate all'Adriatico.

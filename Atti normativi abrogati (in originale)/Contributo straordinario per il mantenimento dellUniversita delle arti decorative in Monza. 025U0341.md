@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 29 dicembre 1921, n. 2029](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-12-29;2029);
+Veduto il [R. decreto 29 dicembre 1921, n. 2029](Erezione%20in%20Ente%20morale%20e%20approvazione%20dello%20statuto%20organico.%20021U2029.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Allo scopo di porre in grado il Consorzio tra i comuni di Milano e di Monza e la Societa' Umanitaria, eretto in Ente morale col [R. decreto 29 dicembre 1921, n. 2029](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-12-29;2029), di assicurare sino al termine dell'anno scolastico 1924-25 il funzionamento dell'Universita' delle arti decorative in Monza, e' autorizzata nella parte straordinaria dello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1924-25 l'istituzione di un apposito capitolo dalla seguente denominazione: «Contributo straordinario da corrispondersi al Consorzio istituito tra i cocuni di Milano e di Monza e la Societa' Umanitaria, pel mantenimento dell'Universita' delle arti decorative in Monza, L. 100,000».
+Allo scopo di porre in grado il Consorzio tra i comuni di Milano e di Monza e la Societa' Umanitaria, eretto in Ente morale col [R. decreto 29 dicembre 1921, n. 2029](Erezione%20in%20Ente%20morale%20e%20approvazione%20dello%20statuto%20organico.%20021U2029.md), di assicurare sino al termine dell'anno scolastico 1924-25 il funzionamento dell'Universita' delle arti decorative in Monza, e' autorizzata nella parte straordinaria dello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1924-25 l'istituzione di un apposito capitolo dalla seguente denominazione: «Contributo straordinario da corrispondersi al Consorzio istituito tra i cocuni di Milano e di Monza e la Societa' Umanitaria, pel mantenimento dell'Universita' delle arti decorative in Monza, L. 100,000».
 
 ## Art. 2.
 

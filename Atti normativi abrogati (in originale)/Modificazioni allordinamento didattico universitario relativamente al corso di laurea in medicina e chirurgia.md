@@ -12,33 +12,33 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652);
+Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md);
 
-Veduto il [regio decreto 1 luglio 1940, n. 992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-07-01;992);
+Veduto il [regio decreto 1 luglio 1940, n. 992](Integrazioni%20allordinamento%20didattico%20universitario.%20040U0992.md);
 
 Veduta la [legge 3 novembre 1952, n. 1787](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-11-03;1787);
 
-Veduta la [legge 11 aprile 1953, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
 Veduta la [legge 11 dicembre 1969, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);
 
-Veduto il [decreto del Presidente della Repubblica 10 aprile 1975, n. 258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-04-10;258);
+Veduto il [decreto del Presidente della Repubblica 10 aprile 1975, n. 258](../DPR/Modificazioni%20allordinamento%20didattico%20universitario_2.md);
 
-Veduta la [legge 29 aprile 1976, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;238);
+Veduta la [legge 29 aprile 1976, n. 238](Modifica%20della%20tabella%20XVIII%20allegata%20al%20regio%20decreto%2030%20settembre%201938%20n.%201652%20per%20la%20configurazione%20autonoma%20dellinsegnamento%20della%20psichiatria%20e%20della%20neurologia.md);
 
-Veduto il [decreto del Presidente della Repubblica 29 gennaio 1977, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-01-29;111);
+Veduto il [decreto del Presidente della Repubblica 29 gennaio 1977, n. 111](../DPR/Modificazione%20allordinamento%20didattico%20del%20corso%20di%20laurea%20in%20medicina%20e%20chirurgia.md);
 
-Veduto il [decreto del Presidente della Repubblica 18 aprile 1979, n. 316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-04-18;316);
+Veduto il [decreto del Presidente della Repubblica 18 aprile 1979, n. 316](../DPR/Modificazione%20allordinamento%20didattico%20universitario.md);
 
-Veduto il [decreto del Presidente della Repubblica 11 giugno 1979, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-06-11;428);
+Veduto il [decreto del Presidente della Repubblica 11 giugno 1979, n. 428](../DPR/Modificazione%20allordinamento%20didattico%20universitario_2.md);
 
-Veduta la [legge 21 febbraio 1980, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Veduta la [legge 21 febbraio 1980, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20della%20docenza%20universitaria%20e%20relativa%20fascia%20di%20formazione%20e%20per%20la%20sperimentazione%20organizzativa%20e%20didattica.md);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md);
 
-Veduta la [legge 22 maggio 1978, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217), concernente "Diritto di stabilimento e libera prestazione dei servizi da parte dei medici cittadini di Stati membri e delle Comunita' europee", di cui alle [direttive CEE n. 75/362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;362) e [n. 75/363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;363);
+Veduta la [legge 22 maggio 1978, n. 217](Diritto%20di%20stabilimento%20e%20libera%20prestazione%20dei%20servizi%20da%20parte%20dei%20medici%20cittadini%20di%20Stati%20membri%20delle%20Comunita%20europee.md), concernente "Diritto di stabilimento e libera prestazione dei servizi da parte dei medici cittadini di Stati membri e delle Comunita' europee", di cui alle [direttive CEE n. 75/362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;362) e [n. 75/363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;363);
 
 Considerata l'opportunita' di procedere ad una modifica dell'ordinamento didattico vigente per il corso di laurea in medicina e chirurgia;
 
@@ -50,7 +50,7 @@ Sulla proposta del Ministro della pubblica istruzione; Decreta:
 
 ## Art. 1.
 
-La tabella XVIII concernente l'ordinamento didattico del corso di studi per il conseguimento della laurea in medicina e chirurgia, annessa al [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), nonche' le successive modificazioni ad essa apportate da fonti regolamentari, sono sostituite dalla nuova tabella XVIII annessa al presente decreto.
+La tabella XVIII concernente l'ordinamento didattico del corso di studi per il conseguimento della laurea in medicina e chirurgia, annessa al [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), nonche' le successive modificazioni ad essa apportate da fonti regolamentari, sono sostituite dalla nuova tabella XVIII annessa al presente decreto.
 
 ## Art. 2.
 

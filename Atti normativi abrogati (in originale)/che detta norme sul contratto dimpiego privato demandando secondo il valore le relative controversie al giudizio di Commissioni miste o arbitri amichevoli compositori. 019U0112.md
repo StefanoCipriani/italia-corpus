@@ -86,7 +86,7 @@ Per gli impiegati che abbiano raggiunto il diritto al massimo del preavviso, di 
 
 Nel caso di cessione o trasformazione in qualsiasi modo di una ditta e qualora la ditta precedente non abbia dato il preavviso agli agenti nei termini enunciati all'art. 3, adempiendo, ove ne sia il caso, anche agli obblighi di cui all'art. 4, la nuova ditta, ove non intenda assumere l'impiegato con ogni diritto ed onere a lui competenti per il servizio prestato, sara' tenuta all'osservanza degli obblighi gravanti per effetto del presente decreto sulla precedente ditta, come se avvenisse il licenziamento. 
  
- In caso di fallimento dell'azienda, l'impiegato ha diritto alla meta' delle indennita' stabilite negli articoli precedenti, oltre allo stipendio del mese in corso. Al relativo credito e' esteso il privilegio di cui all'art. 773, n. 1, Codice di commercio, salvo il caso che si tratti di piccoli fallimenti regolati dalla [legge 24 maggio 1903, n 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-05-24;197).
+ In caso di fallimento dell'azienda, l'impiegato ha diritto alla meta' delle indennita' stabilite negli articoli precedenti, oltre allo stipendio del mese in corso. Al relativo credito e' esteso il privilegio di cui all'art. 773, n. 1, Codice di commercio, salvo il caso che si tratti di piccoli fallimenti regolati dalla [legge 24 maggio 1903, n 197](Sul%20concordato%20preventivo%20nei%20fallimenti.%20003U0197.md).
 
 ## Art. 6.
 
@@ -158,7 +158,7 @@ Ove non riuscisse il tentativo di conciliazione di cui nell'articolo precedente,
 
 Il patrimonio delle istituzioni di previdenza a favore del penale delle aziende private sara' amministrato a parte e rimane assegnato ai fini pei quali e' venuto costituendosi, anche in di caso fallimento, liquidazione o trasformazione dell'azienda, escluso qualsiasi diritto o pretesa dei creditori dell'azienda stessa. 
  
- Con la legge per la riforma della Cassa nazionale di previdenza di cui all'[art. 26 della legge 4 aprile 1912, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-04-04;305#art_26), sara' disciplina la istituzione degli impiegati contemplati dalla presente legge.
+ Con la legge per la riforma della Cassa nazionale di previdenza di cui all'[art. 26 della legge 4 aprile 1912, n. 305](Che%20reca%20provvedimenti%20per%20lesercizio%20delle%20assicurazioni%20sulla%20durata%20della%20vita%20umana%20da%20parte%20di%20un%20Istituto%20nazionale%20di%20assicurazioni.%20012U0305.md), sara' disciplina la istituzione degli impiegati contemplati dalla presente legge.
 
 ## Art. 16.
 

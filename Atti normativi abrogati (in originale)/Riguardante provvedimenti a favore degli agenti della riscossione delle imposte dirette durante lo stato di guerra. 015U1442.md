@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico di leggi approvato con [R. decreto 29 giugno 1902, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-29;281), ed il relativo regolamento approvato con successivo [R. decreto 10 luglio 1902, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-07-10;296);
+Visto il testo unico di leggi approvato con [R. decreto 29 giugno 1902, n. 281](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md), ed il relativo regolamento approvato con successivo [R. decreto 10 luglio 1902, n. 296](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0296.md);
 
 Udito il Consiglio dei ministri;
 

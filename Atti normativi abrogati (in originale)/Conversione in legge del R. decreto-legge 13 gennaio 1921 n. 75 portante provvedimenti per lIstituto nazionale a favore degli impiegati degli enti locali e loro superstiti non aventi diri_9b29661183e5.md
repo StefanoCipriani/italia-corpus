@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 gennaio 1927, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-13;75), portante provvedimenti per l'Istituto nazionale a favore degli impiegati degli enti locali e loro superstiti non aventi diritto a pensione. 
+ E' convertito in legge il [R. decreto-legge 13 gennaio 1927, n. 75](Provvedimenti%20per%20lIstituto%20nazionale%20a%20favore%20degli%20impiegati%20degli%20enti%20locali.%20027U0075.md), portante provvedimenti per l'Istituto nazionale a favore degli impiegati degli enti locali e loro superstiti non aventi diritto a pensione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491), e successive modificazioni;
+Visto il [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni;
 
 Visto il [decreto legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151).
 
@@ -35,7 +35,7 @@ Sulla proposta del Ministro per il tesoro; Abbiamo sanzionato e promulghiamo qua
 Alle persone di famiglia di coloro che, gia' provvisti di pensione od assegno di guerra, non abbiano piu' dato notizia di se' e non abbiano pertanto riscosso la pensione o l'assegno da almeno sei mesi per ragioni dipendenti dallo stato di guerra, e' concessa la pensione o l'assegno a cui avrebbero diritto se il pensionato fosse morto per causa di guerra.
  La pensione o l'assegno viene liquidato nella misura prevista per i congiunti degli infortunati civili salvo risulti che, quando il pensionato scomparve, era in servizio militare, nel qual caso si applicano le disposizioni vigenti per i militari.
  Agli effetti dei precedenti commi si considerano persone di famiglia quelle che avrebbero diritto alla pensione o all'assegno di guerra.
- Le disposizioni del presente articolo non sono applicabili alle persone di famiglia di coloro a cui siano stati concessi assegni non rinnovabili, a' termini degli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876#art_6) e [7 del decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876#art_7) e dell'[art. 13 del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_13).
+ Le disposizioni del presente articolo non sono applicabili alle persone di famiglia di coloro a cui siano stati concessi assegni non rinnovabili, a' termini degli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876#art_6) e [7 del decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876#art_7) e dell'[art. 13 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
 
 ## Art. 2.
 

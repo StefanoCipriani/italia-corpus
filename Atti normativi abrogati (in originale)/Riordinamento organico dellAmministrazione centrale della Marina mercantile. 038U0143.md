@@ -38,7 +38,7 @@ Sulla proposta del Ministro Segretario di Stato per le comunicazioni, di concert
 
 ## Art. 1.
 
-Le tabelle organiche dei gruppi A e C del personale civile dell'Amministrazione centrale della Marina mercantile di cui all'[art. 1 del R. decreto 19 ottobre 1933, n. 1390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-19;1390#art_1), sono sostituite dalle seguenti: 
+Le tabelle organiche dei gruppi A e C del personale civile dell'Amministrazione centrale della Marina mercantile di cui all'[art. 1 del R. decreto 19 ottobre 1933, n. 1390](Ordinamento%20degli%20organici%20della%20Marina%20mercantile.%20033U1390.md), sono sostituite dalle seguenti: 
  
  
 
@@ -167,7 +167,7 @@ Ai posti che rimangano scoperti nei vari gradi del gruppo A del ruolo amministra
  
  Il servizio gia' prestato da detti ufficiali nel Corpo delle capitanerie di porto o in altre Amministrazioni dello Stato sara' considerato nei limiti, alle condizioni e per gli effetti previsti dalle disposizioni vigenti in materia, come prestato nell'Amministrazione centrale della Marina mercantile. 
  
- Agli ufficiali delle Capitanerie di porto che siano stati trasferiti nel ruolo amministrativo in base alle norme del presente decreto ed a quelli che vi abbiano fatto passaggio in applicazione dell'art. 2 del R. decreto 19 ottobre 1933-XI, n. 1390, i quali abbiano superato nel Corpo di provenienza gli esami per la promozione da tenente a capitano o da capitano a maggiore, e' estesa l'applicabilita' dell'[art. 4 del R. decreto 20 novembre 1930, n. 1482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-20;1482#art_4).
+ Agli ufficiali delle Capitanerie di porto che siano stati trasferiti nel ruolo amministrativo in base alle norme del presente decreto ed a quelli che vi abbiano fatto passaggio in applicazione dell'art. 2 del R. decreto 19 ottobre 1933-XI, n. 1390, i quali abbiano superato nel Corpo di provenienza gli esami per la promozione da tenente a capitano o da capitano a maggiore, e' estesa l'applicabilita' dell'[art. 4 del R. decreto 20 novembre 1930, n. 1482](Norme%20per%20gli%20esami%20di%20promozione%20nei%20ruoli%20dei%20personali%20civili%20di%20gruppo%20A.%20030U1482.md).
 
 ### Art. 8.
 

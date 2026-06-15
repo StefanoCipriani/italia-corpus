@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 5 ottobre 1946, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-05;193), recante sanzioni relative alla disciplina dei consumi, dal commercio e del con- ferimento di prodotti agricoli soggetti a vincolo;
 
-Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 838](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-12-22;838), concernente la soppressione del Ministero dell'alimentazione e l'istituzione di un Alto Commissariato per l'alimentazione;
+Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 838](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Ministero%20dellalimentazione%20e%20istituzione%20di%20un%20Alto%20Commissariato%20per%20lalimentazione.md), concernente la soppressione del Ministero dell'alimentazione e l'istituzione di un Alto Commissariato per l'alimentazione;
 
 Visto, il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri, Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per l'agricoltura e le foreste e per l'industria ed il commercio; HA SANZIONATO E PROMULGA:
 

@@ -33,7 +33,7 @@ Entro il 31 marzo di ciascuno degli anni 1991 e 1992 e, per il 1990, entro trent
 Condizione per la corresponsione dei contributi di cui al comma 1 e' l'impegno delle imprese a rispettare nel quinquennio 1990-1994 le condizioni previste alle lettere a) e b) del comma medesimo. Tale impegno deve essere comunicato entro sei mesi dalla data di entrata in vigore della presente legge al Dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei Ministri.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note all'[art. 1:
  - La legge n. 416/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;416#art_1) reca: "Disciplina delle imprese editrici e provvidenze per l'editoria":
@@ -82,7 +82,7 @@ All'onere derivante dall'applicazione della presente legge, valutato in lire 7 m
 Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Nota all'art. 2:
- - Il testo del [comma 16 dell'art. 11 della legge 28 febbraio 1986, n. 41/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_11-com16) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1986), preceduto, per maggior chiarezza, dal comma 15, e' il seguente:
+ - Il testo del [comma 16 dell'art. 11 della legge 28 febbraio 1986, n. 41/1986](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1986), preceduto, per maggior chiarezza, dal comma 15, e' il seguente:
  "Titolo VI
  INTERVENTI IN CAMPO ECONOMICO
  Art. 11.

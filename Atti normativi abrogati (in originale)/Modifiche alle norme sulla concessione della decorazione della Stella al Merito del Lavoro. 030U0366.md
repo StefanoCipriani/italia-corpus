@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'art. 78 dello Statuto del Regno;
 
-Visti i [Regi decreti 30 dicembre 1923, n. 3167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3167); [23 ottobre 1924, n. 2365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;2365); [25 gennaio 1925, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-25;120); [3 gennaio 1926, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;20); [17 marzo 1927, n. 548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-17;548), e [18 marzo 1929, n. 461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-18;461), concernenti la decorazione della Stella al Merito del Lavoro;
+Visti i [Regi decreti 30 dicembre 1923, n. 3167](Istituzione%20della%20decorazione%20della%20Stella%20al%20merito%20del%20lavoro.%20023U3167.md); [23 ottobre 1924, n. 2365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;2365); [25 gennaio 1925, n. 120](Modificazioni%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203167%20concernente%20la%20istituzione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20025U0120.md); [3 gennaio 1926, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;20); [17 marzo 1927, n. 548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-17;548), e [18 marzo 1929, n. 461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-18;461), concernenti la decorazione della Stella al Merito del Lavoro;
 
 Riconosciuta la necessita' urgente ed assoluta di modificare le disposizioni contenute nei suddetti decreti;
 
@@ -44,7 +44,7 @@ La Commissione incaricata dell'esame delle proposte per la concessione della dec
 
 Le proposte di conferimento della decorazione della Stella al Merito del lavoro, corredate dalla relazione della Commissione di cui all'articolo precedente, sono rassegnate al Capo del Governo, Primo Ministro Segretario di Stato, cui spettera' promuovere i decreti Reali di concessione di detta decorazione. 
  
- Tutte le altre attribuzioni spettanti al Ministro per l'economia nazionale, a termini del [R. decreto 30 dicembre 1923, n. 3167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3167), e successive modificazioni, sono demandate al Ministro per le corporazioni.
+ Tutte le altre attribuzioni spettanti al Ministro per l'economia nazionale, a termini del [R. decreto 30 dicembre 1923, n. 3167](Istituzione%20della%20decorazione%20della%20Stella%20al%20merito%20del%20lavoro.%20023U3167.md), e successive modificazioni, sono demandate al Ministro per le corporazioni.
 
 ## Art. 3.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148), modificato con [R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839);
+Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), modificato con [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,11 +22,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-Pei Comuni della provincia di Trento, abitati prevalentemente da popolazione di lingua tedesca, il Prefetto ha facolta' di provvedere alla costituzione di consorzi obbligatori per il segretario, per l'ufficio e per l'archivio, anche in deroga agli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839#art_9), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839#art_12) e [37 del R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839#art_37).
+Pei Comuni della provincia di Trento, abitati prevalentemente da popolazione di lingua tedesca, il Prefetto ha facolta' di provvedere alla costituzione di consorzi obbligatori per il segretario, per l'ufficio e per l'archivio, anche in deroga agli [articoli 9](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), [12](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md) e [37 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
 
 ## Art. 2.
 
-Nei Comuni e nei consorzi predetti possono essere nominati segretari soltanto cittadini di lingua italiana i quali siano in possesso dei titoli e dei requisiti prescritti dalla legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148) (modificato con [R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839)), e dal [regolamento 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-02-12;297), o cittadini di lingua tedesca, i quali, oltre ai suindicati requisiti, siano muniti di titoli di studio rilasciati da istituti medi di lingua italiana, ovvero abbiano, per almeno un triennio, prestato lodevolmente servizio presso una pubblica Amministrazione di lingua italiana.
+Nei Comuni e nei consorzi predetti possono essere nominati segretari soltanto cittadini di lingua italiana i quali siano in possesso dei titoli e dei requisiti prescritti dalla legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148) (modificato con [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md)), e dal [regolamento 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-02-12;297), o cittadini di lingua tedesca, i quali, oltre ai suindicati requisiti, siano muniti di titoli di studio rilasciati da istituti medi di lingua italiana, ovvero abbiano, per almeno un triennio, prestato lodevolmente servizio presso una pubblica Amministrazione di lingua italiana.
 
 ## Art. 3.
 
@@ -63,9 +63,9 @@ Salve le disposizioni seguenti, le leggi ed i regolamenti generali, che discipli
  
  Il provvedimento con cui il segretario sia stato licenziato, o, comunque, sospeso dallo ufficio o dallo stipendio, e' sottoposto alla approvazione del Prefetto; contro la decisione di questo e' ammesso il ricorso, anche in merito, al Consiglio di Stato in sede giurisdizionale, quando trattasi di licenziamento o di sospensione per un tempo superiore a tre mesi, ed, in ogni altro caso, il ricorso, soltanto per legittimita', al Consiglio stesso. 
  
- Ove sussistano motivi di servizio, di indole morale o di disciplina, il Prefetto ha facolta' di provvedere, in luogo della Amministrazione, anche fuori dei casi previsti dallo [art. 43 del R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839#art_43), alla applicazione delle sanzioni disciplinari nei riguardi dei segretari da lui nominati, salvi i ricorsi previsti, al comma ultimo, dal citato articolo. Per le sanzioni superiori alla sospensione dallo stipendio per un mese deve essere udito il Consiglio di disciplina. 
+ Ove sussistano motivi di servizio, di indole morale o di disciplina, il Prefetto ha facolta' di provvedere, in luogo della Amministrazione, anche fuori dei casi previsti dallo [art. 43 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), alla applicazione delle sanzioni disciplinari nei riguardi dei segretari da lui nominati, salvi i ricorsi previsti, al comma ultimo, dal citato articolo. Per le sanzioni superiori alla sospensione dallo stipendio per un mese deve essere udito il Consiglio di disciplina. 
  
- Uno speciale regolamento, formulato dal Prefetto ed approvato dalla Giunta provinciale amministrativa, provvede intorno allo stato giuridico dei segretari nominati a sensi del comma 1° dell'art. 3, disciplinando, in relazione alle disposizioni del presente decreto, le materie indicate nell'[articolo 47 del R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839#art_47).
+ Uno speciale regolamento, formulato dal Prefetto ed approvato dalla Giunta provinciale amministrativa, provvede intorno allo stato giuridico dei segretari nominati a sensi del comma 1° dell'art. 3, disciplinando, in relazione alle disposizioni del presente decreto, le materie indicate nell'[articolo 47 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
 
 ## Art. 6.
 

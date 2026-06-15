@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 settembre 1928, n. 2296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-09-24;2296), col quale fu disposto il raddoppiamento della misura dell'imposta sui celibi, aggiungendo al primo comma dell'articolo 2 le seguenti parole: 
+ E' convertito in legge il [R. decreto-legge 24 settembre 1928, n. 2296](Raddoppiamento%20della%20misura%20dellimposta%20sui%20celibi.%20028U2296.md), col quale fu disposto il raddoppiamento della misura dell'imposta sui celibi, aggiungendo al primo comma dell'articolo 2 le seguenti parole: 
  
  «ovverosia posseggano soltanto un reddito imponibile in terreni e fabbricati non superiore complessivamente a lire 150». 
  

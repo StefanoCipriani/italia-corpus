@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 ottobre 1933, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-12;1399), contenente norme sulla gestione economico-finanziaria delle Associazioni sindacali, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 12 ottobre 1933, n. 1399](Norme%20sulla%20gestione%20economico-finanziaria%20delle%20Associazioni%20sindacali.%20033U1399.md), contenente norme sulla gestione economico-finanziaria delle Associazioni sindacali, con le seguenti modificazioni: 
  
  Nell'articolo 39, al primo comma, alle parole: «Consiglio direttivo dell'associazione stessa», ed al 2°, 3°, 4°, 6° comma, alle parole: «Consiglio direttivo» sono sostituite le seguenti: «l'organo sociale competente a norma dello statuto». 
  

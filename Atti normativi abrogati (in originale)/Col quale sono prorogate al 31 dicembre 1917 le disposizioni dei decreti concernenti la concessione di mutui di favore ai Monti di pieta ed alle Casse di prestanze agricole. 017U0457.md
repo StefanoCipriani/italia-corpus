@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' prorogata al 31 dicembre 1917 l'applicazione del [R. decreto 11 febbraio 1915, n 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-11;108), convertito nella [legge 27 aprile 1916, n. 527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-27;527), e dei [decreti Luogotenenziali 13 giugno 1915, n. 873 (art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-13;873#art_5)) e 31 dicembre 1915 n. 1871 (art. 1°, capoverso), per la concessione di mutua ai Monti di pieta' e alle Casse di prestanza agrarie, legalmente costituite.
+E' prorogata al 31 dicembre 1917 l'applicazione del [R. decreto 11 febbraio 1915, n 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-11;108), convertito nella [legge 27 aprile 1916, n. 527](Che%20converte%20in%20legge%20il%20R.%20decreto%2011%20febbraio%201915%20n.%20108%20riguardante%20la%20concessione%20di%20mutui%20ai%20Comuni%20per%20porli%20in%20grado%20di%20fare%20sovvenzioni%20ai%20Monti%20di%20pieta.%20016U0527.md), e dei [decreti Luogotenenziali 13 giugno 1915, n. 873 (art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-13;873#art_5)) e 31 dicembre 1915 n. 1871 (art. 1°, capoverso), per la concessione di mutua ai Monti di pieta' e alle Casse di prestanza agrarie, legalmente costituite.
 
 ## Art. 2.
 

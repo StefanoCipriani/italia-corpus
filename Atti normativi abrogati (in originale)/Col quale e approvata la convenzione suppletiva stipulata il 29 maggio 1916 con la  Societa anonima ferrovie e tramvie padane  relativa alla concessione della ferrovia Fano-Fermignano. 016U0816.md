@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 16 novembre 1911, n. 1435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-11-16;1435), col quale venne approvata e resa esecutoria la convenzione stipulata il 30 luglio stesso anno con la Societa' anonima « Ferrovie e tranvie Padane » per la concessione della costruzione e dell'esercizio della ferrovia da Fano a Fermignano; 
+ Visto il [R. decreto 16 novembre 1911, n. 1435](Col%20quale%20viene%20approvata%20la%20convenzione%20per%20la%20concessione%20alla%20Societa%20anonima%20ferrovie%20e%20tramvie%20Padane%20della%20costruzione%20e%20dellesercizio%20della%20ferrovia%20a%20trazione%20a%20vapore%20da%20Fano%20a%20F_5fb6869e32bb.md), col quale venne approvata e resa esecutoria la convenzione stipulata il 30 luglio stesso anno con la Societa' anonima « Ferrovie e tranvie Padane » per la concessione della costruzione e dell'esercizio della ferrovia da Fano a Fermignano; 
  
- Visto il [R. decreto 16 aprile 1914, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-04-16;341), col quale venne approvata e resa esecutoria la convenzione suppletiva stipulata il 14 marzo stesso anno a parziale modificazione della su citata convenzione originaria; 
+ Visto il [R. decreto 16 aprile 1914, n. 341](Col%20quale%20e%20approvata%20la%20convenzione%20suppletiva%20stipulata%20con%20la%20Societa%20anonima%20ferrovie%20e%20tramvie%20padane%20a%20parziale%20modificazione%20della%20convenzione%2030%20luglio%201911%20relativa%20alla%20concessi_0c4e6affbb55.md), col quale venne approvata e resa esecutoria la convenzione suppletiva stipulata il 14 marzo stesso anno a parziale modificazione della su citata convenzione originaria; 
  
- Visto il [R. decreto 18 aprile 1915, n. 614](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-18;614), col quale venne approvata e resa esecutoria la convenzione suppletiva stipulata il 31 marzo stesso anno anche, a parziale modificazione della convenzione originaria; 
+ Visto il [R. decreto 18 aprile 1915, n. 614](Col%20quale%20e%20approvatala%20convenzione%20suppletiva%20stipulata%20il%2031%20marzo%201915%20con%20la%20Societa%20anonima%20ferrovie%20e%20tramvie%20padane%20a%20parziale%20modificazione%20della%20convenzione%2030%20luglio%201911%20relati_14f792c37d54.md), col quale venne approvata e resa esecutoria la convenzione suppletiva stipulata il 31 marzo stesso anno anche, a parziale modificazione della convenzione originaria; 
  
  Vista la domanda presentata dalla predetta Societa' in data 13 luglio 1915; 
  

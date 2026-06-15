@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 marzo 1935, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-03-07;370), concernente le nuove attribuzioni dell'Istituto nazionale per l'esportazione e il cambiamento della sua denominazione in « Istituto nazionale fascista per gli scambi con l'estero ». 
+ E' convertito in legge il [R. decreto-legge 7 marzo 1935, n. 370](Nuove%20attribuzioni%20allIstituto%20nazionale%20per%20lesportazione%20e%20cambiamento%20della%20sua%20denominazione%20in%20%20Istituto%20nazionale%20fascista%20per%20gli%20scambi%20con%20lestero%20.%20035U0370.md), concernente le nuove attribuzioni dell'Istituto nazionale per l'esportazione e il cambiamento della sua denominazione in « Istituto nazionale fascista per gli scambi con l'estero ». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

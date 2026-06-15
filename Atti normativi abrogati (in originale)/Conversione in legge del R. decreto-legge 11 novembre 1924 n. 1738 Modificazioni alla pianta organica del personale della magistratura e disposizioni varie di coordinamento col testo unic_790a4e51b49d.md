@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 novembre 1924, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-11;1738) «Modificazioni alla pianta organica del personale della magistratura e disposizioni varie di coordinamento col testo unico sull'ordinamento giudiziario». 
+ E' convertito in legge il [R. decreto-legge 11 novembre 1924, n. 1738](Modificazioni%20alla%20pianta%20organica%20del%20personale%20della%20magistratura%20e%20disposizioni%20varie%20di%20coordinamento%20col%20testo%20unico%20sullordinamento%20giudiziario.%20024U1738.md) «Modificazioni alla pianta organica del personale della magistratura e disposizioni varie di coordinamento col testo unico sull'ordinamento giudiziario». 
  
  Ordiniamo che la presente, munita, del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

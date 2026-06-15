@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [R. decreto n. 1311, in data 26 novembre 1914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-26;1311), che accorda una indennita' giornaliera agli ufficiali della riserva navale e di complemento richiamati in servizio di autorita', e i successivi decreti che ne prorogano la efficacia; 
+ Visto il [R. decreto n. 1311, in data 26 novembre 1914](Da%20convertirsi%20in%20legge%20col%20quale%20e%20concessa%20una%20indennita%20giornaliera%20agli%20Ufficiali%20della%20riserva%20navale%20e%20di%20complemento%20richiamati%20alle%20armi%20dautorita%20014U1311.md), che accorda una indennita' giornaliera agli ufficiali della riserva navale e di complemento richiamati in servizio di autorita', e i successivi decreti che ne prorogano la efficacia; 
  
  Visto il [R. decreto n. 595, in data 29 aprile 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-29;595), che concede una indennita' vestiario di L. 200 agli ufficiali della riserva navale richiamati in servizio di autorita'; 
  

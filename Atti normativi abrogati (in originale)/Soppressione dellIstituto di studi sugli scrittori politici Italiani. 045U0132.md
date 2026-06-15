@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduta la [legge 11 gennaio 1943, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-11;19), concernente la creazione in Roma di un Istituto di studi sugli scrittori politici italiani;
+Veduta la [legge 11 gennaio 1943, n. 19](Creazione%20in%20Roma%20di%20un%20Istituto%20di%20studi%20sugli%20scrittori%20politici%20italiani.%20043U0019.md), concernente la creazione in Roma di un Istituto di studi sugli scrittori politici italiani;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di c
 
 ## Articolo unico.
 
-E' soppresso l'Istituto di studi sugli scrittori politici italiani, istituito in Roma con la [legge 11 gennaio 1943, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-11;19). 
+E' soppresso l'Istituto di studi sugli scrittori politici italiani, istituito in Roma con la [legge 11 gennaio 1943, n. 19](Creazione%20in%20Roma%20di%20un%20Istituto%20di%20studi%20sugli%20scrittori%20politici%20italiani.%20043U0019.md). 
  
  Ordiniamo, a chiunque spetti, di osservare il presente decreto e di farlo osservare come legge dello Stato. 
  

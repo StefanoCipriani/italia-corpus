@@ -38,7 +38,7 @@ Nel primo decennio dell'ammortamento del mutuo sara' dal Tesoro dello Stato corr
 
 ## Art. 3.
 
-Al mutuo autorizzato con la presente legge e alle delegazioni rilasciate a garanzia di esso sono applicabili, in quanto i precedenti articoli non dispongono diversamente, le norme degli articoli 19 a 25 delle [legge 24 marzo 1921, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-24;375). 
+Al mutuo autorizzato con la presente legge e alle delegazioni rilasciate a garanzia di esso sono applicabili, in quanto i precedenti articoli non dispongono diversamente, le norme degli articoli 19 a 25 delle [legge 24 marzo 1921, n. 375](Che%20reca%20provvedimenti%20per%20lEnte%20autonomo%20Volturno%20in%20Napoli.%20021U0375.md). 
  
  Ordiniamo, a chiunque spetti, di osservare il presente decreto e di farlo osservare come legge delle Stato. 
  

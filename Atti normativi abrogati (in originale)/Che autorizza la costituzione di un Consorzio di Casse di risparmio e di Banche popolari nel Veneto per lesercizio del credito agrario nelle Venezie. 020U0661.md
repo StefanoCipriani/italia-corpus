@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduti i decreti Luogotenenziali 20 febbraio e 25 maggio 1919, nn. 318 e 943, e il [R. decreto 20 luglio 1919, n. 1363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-20;1363);
+Veduti i decreti Luogotenenziali 20 febbraio e 25 maggio 1919, nn. 318 e 943, e il [R. decreto 20 luglio 1919, n. 1363](Che%20aumenta%20di%2040%20milioni%20il%20fondo%20stanziato%20con%20i%20decreti%20Luogotenenziali%2020%20febbraio%20e%2025%20maggio%201919%20un.%20318%20e%20943%20per%20il%20credito%20agrario%20nelle%20provincie%20del%20Veneto%20danneggiate%20dalla%20g_dcad56beb5c9.md);
 
 Sentito il Consiglio dei ministri;
 

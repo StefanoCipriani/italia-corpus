@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 gennaio 1928, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-05;53), recante modificazioni nella ripartizione delle spese per l'esercizio delle linee sovvenzionate. 
+ E' convertito in legge il [R. decreto-legge 5 gennaio 1928, n. 53](Modificazioni%20nella%20ripartizione%20delle%20spese%20per%20lesercizio%20dei%20servizi%20marittimi%20sovvenzionati.%20028U0053.md), recante modificazioni nella ripartizione delle spese per l'esercizio delle linee sovvenzionate. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

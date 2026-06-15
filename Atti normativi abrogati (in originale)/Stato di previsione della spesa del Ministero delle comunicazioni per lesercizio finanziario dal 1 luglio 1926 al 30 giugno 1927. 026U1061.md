@@ -26,7 +26,7 @@ L'Amministrazione delle ferrovie dello Stato e' autorizzata ad accertare e riscu
 
 ## Art. 5.
 
-Agli effetti dell'art. 38 del testo unico delle disposizioni per le pensioni del personale delle Ferrovie dello Stato, approvato con [R. decreto 22 aprile 1909, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-04-22;229) il limite massimo dell'annualita' per le pensioni da concedersi nell'esercizio finanziario 1926-27 in dipendenza dei normali collocamenti a riposo non chiesti dagli agenti, senza che concorra la loro constatata inabilita', e' stabilito nella somma di L. 2,000,000.
+Agli effetti dell'art. 38 del testo unico delle disposizioni per le pensioni del personale delle Ferrovie dello Stato, approvato con [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md) il limite massimo dell'annualita' per le pensioni da concedersi nell'esercizio finanziario 1926-27 in dipendenza dei normali collocamenti a riposo non chiesti dagli agenti, senza che concorra la loro constatata inabilita', e' stabilito nella somma di L. 2,000,000.
 
 ## Art. 6.
 

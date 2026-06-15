@@ -20,7 +20,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re colla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re colla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Fino a nuove disposizioni potranno essere sospesi i collocamenti a riposo degli ufficiali di tutti i corpi della R. marina in applicazione dell'art. 3, ultimo capoverso della [legge 27 giugno 1909, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-27;375). 
+ Fino a nuove disposizioni potranno essere sospesi i collocamenti a riposo degli ufficiali di tutti i corpi della R. marina in applicazione dell'art. 3, ultimo capoverso della [legge 27 giugno 1909, n. 375](Disposizioni%20relative%20alle%20pensioni%20degli%20ufficiali%20della%20R.%20marina.%20009U0375.md). 
  
  Il presente decreto ha decorrenza dal 15 aprile 1915. 
  

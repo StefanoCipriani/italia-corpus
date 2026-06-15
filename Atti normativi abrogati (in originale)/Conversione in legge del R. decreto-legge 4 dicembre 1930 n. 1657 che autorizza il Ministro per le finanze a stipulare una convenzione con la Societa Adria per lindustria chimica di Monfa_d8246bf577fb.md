@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 dicembre 1930, n. 1657](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-04;1657), con il quale il Ministro per le finanze e' autorizzato a stipulare una convenzione con la Societa' «Adria» per l'industria chimica di Monfalcone, per il regolamento di alcune partite. 
+ E' convertito in legge il [R. decreto-legge 4 dicembre 1930, n. 1657](Autorizzazione%20al%20Ministro%20per%20le%20finanze%20a%20stipulare%20una%20convenzione%20con%20la%20Societa%20Adria%20per%20lindustria-chimica%20di%20Monfalcone%20per%20il%20regolamento%20di%20alcune%20partite.%20030U1657.md), con il quale il Ministro per le finanze e' autorizzato a stipulare una convenzione con la Societa' «Adria» per l'industria chimica di Monfalcone, per il regolamento di alcune partite. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

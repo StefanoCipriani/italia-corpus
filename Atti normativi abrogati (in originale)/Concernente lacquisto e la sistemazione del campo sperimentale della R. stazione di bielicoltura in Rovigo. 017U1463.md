@@ -20,11 +20,11 @@ RE D' ITALIA
 
 In virtu' dell'autorita' e Noi delegata;
 
-Visto l'[art. 4 della legge 17 luglio 1910, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;547#art_4);
+Visto l'[art. 4 della legge 17 luglio 1910, n. 547](Provvedimento%20riguardante%20modificazioni%20alla%20imposta%20sulla%20fabbricazione%20dello%20zucchero%20indigeno.%20010U0547.md);
 
 Visto il R, decreto del 29 dicembre 1910, n. 955;
 
-Vista la [legge 8 giugno 1911, n. 550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-08;550);
+Vista la [legge 8 giugno 1911, n. 550](Che%20reca%20i%20provvedimenti%20per%20estendere%20lazione%20della%20R.%20stazione%20sperimentale%20di%20granicoltura%20di%20Rieti.%20011U0550.md);
 
 Riconosciuta la necessita' di dotare la R. stazione sperimentale di bieticoltura di Rovigo di un terreno molto piu' esteso di quello di cui al presente dispone per lo svolgimento della sua attivita';
 

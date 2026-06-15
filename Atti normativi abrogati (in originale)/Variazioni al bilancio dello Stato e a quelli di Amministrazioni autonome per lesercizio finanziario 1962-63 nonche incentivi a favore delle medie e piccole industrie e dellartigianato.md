@@ -22,7 +22,7 @@ Lo stanziamento previsto dal [primo comma dell'articolo 9 della legge 30 luglio 
 
 ## Art. 2.
 
-L'assegnazione a favore dell'istituto centrale di statistica di cui al [regio decreto-legge 27 maggio 1929 n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-05-27;1285), stabilita per l'esercizio 1962-63 in lire 3 miliardi e 700.000.000 con l'[articolo 11 della legge 12 agosto 1962, n. 1391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1391#art_11), e' aumentata di lire 478.000.000.
+L'assegnazione a favore dell'istituto centrale di statistica di cui al [regio decreto-legge 27 maggio 1929 n. 1285](Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), stabilita per l'esercizio 1962-63 in lire 3 miliardi e 700.000.000 con l'[articolo 11 della legge 12 agosto 1962, n. 1391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1391#art_11), e' aumentata di lire 478.000.000.
 
 ## Art. 3.
 

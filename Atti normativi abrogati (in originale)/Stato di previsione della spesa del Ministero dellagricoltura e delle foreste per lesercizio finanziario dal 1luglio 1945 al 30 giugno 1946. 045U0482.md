@@ -30,7 +30,7 @@ E' autorizzato il pagamento delle spese ordinarie e straordinarie dei Ministero 
 
 ## Art. 2.
 
-E' approvato il bilancio dell'Azienda di Stato per le foreste demaniali, per l'esercizio finanziario dal 1° luglio 1945 al 30 giugno 1946 allegato al presente stato di previsione, a termini dell'[art. 10 della legge 5 gennaio 1933, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-01-05;30#art_10). 
+E' approvato il bilancio dell'Azienda di Stato per le foreste demaniali, per l'esercizio finanziario dal 1° luglio 1945 al 30 giugno 1946 allegato al presente stato di previsione, a termini dell'[art. 10 della legge 5 gennaio 1933, n. 30](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U0030.md). 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  
  Dato a Roma, addi' 10 agosto 1945 

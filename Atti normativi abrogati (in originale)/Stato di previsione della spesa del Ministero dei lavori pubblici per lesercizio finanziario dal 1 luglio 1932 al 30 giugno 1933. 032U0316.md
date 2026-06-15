@@ -18,7 +18,7 @@ E' autorizzata la spesa di L. 64.500.000 inscritta nello Stato di previsione ann
 
 ## Art. 3.
 
-Il limite d'impegno, di cui all'[art. 3 del R. decreto-legge 6 ottobre 1927, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-06;1827#art_3), convertito nella [legge 17 maggio 1928, n. 1147](Conversione%20in%20legge%20con%20aggiunta%20del%20R.%20decreto%206%20ottobre%201927%20n.%201827%20che%20reca%20disposizioni%20sulle%20opere%20pubbliche%20straordinarie.%20028U1147.md), per le annualita' relative ad opere straordinarie da eseguirsi in concessione, nonche' per contributi e sovvenzioni previste da leggi speciali e' stabilito, per l'esercizio finanziario 1932-33, nella somma di L. 15.000.000.
+Il limite d'impegno, di cui all'[art. 3 del R. decreto-legge 6 ottobre 1927, n. 1827](Disposizioni%20sulle%20opere%20pubbliche%20straordinarie.%20027U1827.md), convertito nella [legge 17 maggio 1928, n. 1147](Conversione%20in%20legge%20con%20aggiunta%20del%20R.%20decreto%206%20ottobre%201927%20n.%201827%20che%20reca%20disposizioni%20sulle%20opere%20pubbliche%20straordinarie.%20028U1147.md), per le annualita' relative ad opere straordinarie da eseguirsi in concessione, nonche' per contributi e sovvenzioni previste da leggi speciali e' stabilito, per l'esercizio finanziario 1932-33, nella somma di L. 15.000.000.
 
 ## Art. 4.
 

@@ -20,13 +20,13 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vedute le [leggi 8 aprile 1906, nn. 141 e 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142);
+Vedute le [leggi 8 aprile 1906, nn. 141 e 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md);
 
-Veduta la [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679);
+Veduta la [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md);
 
-Veduta la [legge 27 giugno 1912, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;677);
+Veduta la [legge 27 giugno 1912, n. 677](Concernente%20lIspettorato%20delle%20scuole%20medie%20e%20normali%20012U0677.md);
 
-Veduta la [legge 25 febbraio 1892, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-02-25;71);
+Veduta la [legge 25 febbraio 1892, n. 71](Che%20determina%20gli%20organici%20e%20gli%20stipendi%20del%20personale%20dei%20licei%20e%20dei%20ginnasi%20e%20le%20tassa%20per%20listruzione%20secondaria%20classica.%20092U0071.md);
 
 Veduta la legge 13 novembre 1859, n. 3725;
 
@@ -34,7 +34,7 @@ Veduto il Nostro decreto Luogotenenziale 14 maggio 1916, n, 634;
 
 Veduto il Nostro [decreto Luogotenenziale 10 febbraio 1918, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;107);
 
-Veduta la [legge 9 luglio 1908, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;412);
+Veduta la [legge 9 luglio 1908, n. 412](Sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20dei%20convitti%20nazionali.%20008U0412.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -48,25 +48,25 @@ Gli stipendi e la carriera degli insegnanti straordinari ed ordinari di ciascun 
 
 ## Art. 2.
 
-L'assegno personale di cui sono provvisti gli attuali capi di Istituto e insegnanti delle scuole medie e normali in forza dell'[art. 50 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_50), e' convertito ad ogni effetto in stipendio. 
+L'assegno personale di cui sono provvisti gli attuali capi di Istituto e insegnanti delle scuole medie e normali in forza dell'[art. 50 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), e' convertito ad ogni effetto in stipendio. 
  
- Lo stipendio degli attuali capi d'Istituto ed insegnanti e' aumentato di una somma annua pari alla differenza tra lo stipendio stabilito in corrispondenza degli anni di servizio nella tabella A annessa al presente decreto e quello risultante dalla tabella I annessa alla [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), aumentato in esecuzione del [decreto Luogotenenziale 10 febbraio 1918, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;107). 
+ Lo stipendio degli attuali capi d'Istituto ed insegnanti e' aumentato di una somma annua pari alla differenza tra lo stipendio stabilito in corrispondenza degli anni di servizio nella tabella A annessa al presente decreto e quello risultante dalla tabella I annessa alla [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), aumentato in esecuzione del [decreto Luogotenenziale 10 febbraio 1918, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;107). 
  
- Ai capi d'Istituto effettivi e' inoltre concesso un aumento di stipendio pari alla differenza tra le retribuzioni stabilite nella tabella B annessa al presente decreto e la tabella D annessa alla [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679).
+ Ai capi d'Istituto effettivi e' inoltre concesso un aumento di stipendio pari alla differenza tra le retribuzioni stabilite nella tabella B annessa al presente decreto e la tabella D annessa alla [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md).
 
 ## Art. 3.
 
-Gli insegnanti che a norma dell'[art. 55, comma 1°, della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_55-com1), ottennero la riduzione dell'obbligo d'orario sino ai limiti stabiliti dall'[art. 8 della legge 8 aprile 1906, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142#art_8), potranno conservare tale orario ridotto, nel quale caso il nuovo stipendio che e' ad essi dovuto sara' diminuito di una somma uguale al compenso stabilito dalla tabella C annessa al presente decreto per ogni ora in meno rispetto all'orario normale o rinunciare alla riduzione d'orario ed ottenere per intero il nuovo stipendio. 
+Gli insegnanti che a norma dell'[art. 55, comma 1°, della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), ottennero la riduzione dell'obbligo d'orario sino ai limiti stabiliti dall'[art. 8 della legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md), potranno conservare tale orario ridotto, nel quale caso il nuovo stipendio che e' ad essi dovuto sara' diminuito di una somma uguale al compenso stabilito dalla tabella C annessa al presente decreto per ogni ora in meno rispetto all'orario normale o rinunciare alla riduzione d'orario ed ottenere per intero il nuovo stipendio. 
  
- Gli insegnanti contemplati nell'art. 55, ultimo comma, della [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), i quali abbiano optato per la carriera della [legge 8 aprile 1906, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142), o della [legge 26 dicembre 1909, n. 805](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-12-26;805), hanno facolta' di conservare inalterata questa loro condizione oppure di rinunciarvi per ottenere l'applicazione del presente decreto. 
+ Gli insegnanti contemplati nell'art. 55, ultimo comma, della [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), i quali abbiano optato per la carriera della [legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md), o della [legge 26 dicembre 1909, n. 805](Insegnamento%20ed%20insegnanti%20di%20educazione%20fisica.%20009U0805.md), hanno facolta' di conservare inalterata questa loro condizione oppure di rinunciarvi per ottenere l'applicazione del presente decreto. 
  
  Nei casi previsti dai due precedenti comma la dichiarazione di opzione deve avvenire entro il 20 settembre 1919.
 
 ## Art. 4.
 
-Nel caso di cumulo di due uffici di ruolo d'insegnante nelle scuole medie governative o pareggiate l'applicazione dell'art. 2 e' fatta per uno solo dei posti a scelta dell'interessato con l'obbligo di assumere in corrispondenza gli orari dell'[art. 8 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_8), qualora per esso l'insegnante abbia attualmente obblighi di orario diversi. 
+Nel caso di cumulo di due uffici di ruolo d'insegnante nelle scuole medie governative o pareggiate l'applicazione dell'art. 2 e' fatta per uno solo dei posti a scelta dell'interessato con l'obbligo di assumere in corrispondenza gli orari dell'[art. 8 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), qualora per esso l'insegnante abbia attualmente obblighi di orario diversi. 
  
- Nel caso in cui i complessivi obblighi di orario a cui l'insegnante verrebbe ad essere tenuto per il comma precedente superassero il limite di cui all'[art. 7 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_7), il cumulo dovra' cessare. 
+ Nel caso in cui i complessivi obblighi di orario a cui l'insegnante verrebbe ad essere tenuto per il comma precedente superassero il limite di cui all'[art. 7 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), il cumulo dovra' cessare. 
  
  In ogni caso e' data facolta' all'interessato di conservare i due posti con gli obblighi di orario e gli stipendi attuali. In quest'ultimo caso, se il cumulo venga a cessare in tempo posteriore, sara' applicato l'art. 2 per l'unico posto che resta a decorrere dall'anno scolastico successivo al giorno della cessazione del cumulo o da tale giorno se esso coincide con il principio dell'anno scolastico, tenendo conto dell'anzianita' che a quella data avra' l'insegnante. 
  
@@ -74,11 +74,11 @@ Nel caso di cumulo di due uffici di ruolo d'insegnante nelle scuole medie govern
 
 ## Art. 5.
 
-Alla tabella C annessa alla [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), e' sostituita la tabella C annessa al presente decreto. 
+Alla tabella C annessa alla [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), e' sostituita la tabella C annessa al presente decreto. 
  
- La misura della indennita' annua stabilita dall'[art. 17 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_17), per i capi d'istituto per le scuole che abbiano piu' di 400 alunni, e' fissata in L. 1200 per gli istituti di secondo grado con meno di 800 alunni, in L. 2200 per i medesimi Istituti con un numero di alunni da 800 a 1200, ed in L. 3200 per gli Istituti che abbiano piu' di 1200 alunni; per le scuole di primo grado l'indennita' e' fissata rispettivamente in L. 900, 1700 e 2500. 
+ La misura della indennita' annua stabilita dall'[art. 17 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), per i capi d'istituto per le scuole che abbiano piu' di 400 alunni, e' fissata in L. 1200 per gli istituti di secondo grado con meno di 800 alunni, in L. 2200 per i medesimi Istituti con un numero di alunni da 800 a 1200, ed in L. 3200 per gli Istituti che abbiano piu' di 1200 alunni; per le scuole di primo grado l'indennita' e' fissata rispettivamente in L. 900, 1700 e 2500. 
  
- Alla nota 2 delta tabella A della [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), e' sostituita la nota seguente: «Negli Istituti di magistero per l'educazione fisica l'ufficio d'insegnante di ginnastica teorica, tirocinio e comando e di ginnastica pratica e giuochi e' sempre di ruolo; quello di preside viene affidato ad un professore ordinario o straordinario del ruolo A, su proposta della Giunta di vigilanza, con la retribuzione di L. 1800. 
+ Alla nota 2 delta tabella A della [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), e' sostituita la nota seguente: «Negli Istituti di magistero per l'educazione fisica l'ufficio d'insegnante di ginnastica teorica, tirocinio e comando e di ginnastica pratica e giuochi e' sempre di ruolo; quello di preside viene affidato ad un professore ordinario o straordinario del ruolo A, su proposta della Giunta di vigilanza, con la retribuzione di L. 1800. 
  
  Agli altri insegnamenti, a mano a mano che si renderanno vacanti le cattedre, si potra' provvedere con incarichi retribuiti con L. 3000, L. 2500 e L. 2000 a seconda che corrispondano a posti dei ruoli A, B o C. 
  
@@ -103,9 +103,9 @@ La misura degli stipendi e gli aumenti periodici al personale di segreteria dell
  
  Per essere ammessi ai concorsi per l'ufficio di segretario di cui al comma precedente, si richiede la licenza da Istituti di istruzione di secondo grado. 
  
- Alla tabella F della [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679) e' sostituita la tabella F annessa al presente decreto. 
+ Alla tabella F della [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md) e' sostituita la tabella F annessa al presente decreto. 
  
- Il massimo della retribuzione per l'incarico di segretario di cui al penultimo comma dell'[art. 21 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_21) e' fissato in L. 1000. 
+ Il massimo della retribuzione per l'incarico di segretario di cui al penultimo comma dell'[art. 21 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md) e' fissato in L. 1000. 
  
  Il limite minimo di retribuzione fissato nell'ultimo comma del medesimo articolo per l'incarico dell'assistenza alle alunne e' stabilito in L. 900.
 
@@ -117,7 +117,7 @@ Gli applicati e gli uscieri addetti agli uffici di Ispettorato di circolo delle 
 
 La misura degli stipendi e gli aumenti periodici concessi al personale subalterno negli Istituti di istruzione media nei quali tale personale e' a carico dello Stato sono determinati nella tabella H annessa al presente decreto. 
  
- La misura della retribuzione per le aiuto-bidelle incaricate della sorveglianza delle alunne di cui al IV comma dell'[art. 23 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_23) e' stabilito da un minimo di L. 600 ad un massimo di L. 900.
+ La misura della retribuzione per le aiuto-bidelle incaricate della sorveglianza delle alunne di cui al IV comma dell'[art. 23 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md) e' stabilito da un minimo di L. 600 ad un massimo di L. 900.
 
 ## Art. 10.
 
@@ -131,13 +131,13 @@ Per la collocazione degli attuali impiegati di cui ai precedenti articoli 7, 8, 
 
 Gli stipendi obbligatori per i capi d'Istituto e per gl'insegnanti ordinari e straordinari di tutte le scuole medie pareggiate, salva la disposizione del comma seguente, sono i minimi stabiliti, per il rispettivo grado, dal presente decreto, le cui disposizioni si applicano alle scuole stesse anche per cio' che riguarda le retribuzioni da corrispondersi per qualunque titolo e il limite massimo di orario. 
  
- Gli obblighi di orario sono quelli stabiliti dall'[art. 8 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_8). 
+ Gli obblighi di orario sono quelli stabiliti dall'[art. 8 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md). 
  
- Rimangono ferme le disposizioni dell'[art. 37 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_37), per le scuole che siano state conservate col regime delle [leggi 8 aprile 1906, n. 142 e 26 dicembre 1909, n. 805](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-12-26;805), ma gli stipendi minimi dei capi Istituto e degli insegnanti sono aumentati in misura pari alla differenza tra gli stipendi minimi stabiliti per ciascun ordine e grado di scuole dal presente decreto e gli stipendi minimi fissati dalla [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679). 
+ Rimangono ferme le disposizioni dell'[art. 37 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), per le scuole che siano state conservate col regime delle [leggi 8 aprile 1906, n. 142 e 26 dicembre 1909, n. 805](Insegnamento%20ed%20insegnanti%20di%20educazione%20fisica.%20009U0805.md), ma gli stipendi minimi dei capi Istituto e degli insegnanti sono aumentati in misura pari alla differenza tra gli stipendi minimi stabiliti per ciascun ordine e grado di scuole dal presente decreto e gli stipendi minimi fissati dalla [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md). 
  
  Le condizioni di carriera di cui godono al momento della pubblicazione del presente decreto gli attuali capi d'Istituto e gli insegnanti delle scuole pareggiate, si dovranno considerare in ogni caso come ad essi acquisite, indipendentemente dall'applicazione dei comma precedenti. 
  
- Anche agli effetti del presente decreto e' applicabile per i ginnasi il [primo comma dell'art. 4 della legge 25 febbraio 1892, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-02-25;71#art_4-com1), in quanto pero' sia stata in precedenza applicata integralmente la [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679).
+ Anche agli effetti del presente decreto e' applicabile per i ginnasi il [primo comma dell'art. 4 della legge 25 febbraio 1892, n. 71](Che%20determina%20gli%20organici%20e%20gli%20stipendi%20del%20personale%20dei%20licei%20e%20dei%20ginnasi%20e%20le%20tassa%20per%20listruzione%20secondaria%20classica.%20092U0071.md), in quanto pero' sia stata in precedenza applicata integralmente la [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md).
 
 ## Art. 13.
 
@@ -159,11 +159,11 @@ Per gli Istituti di istruzione, compresi i corsi magistrali, per i quali spetti 
 
 ## Art. 15.
 
-Negli Istituti di istruzione classica, tecnica e normale della Basilicata e della Sardegna sono istituiti posti di ruolo governativi per i segretari, gli assistenti, i macchinisti, i bidelli e gli aiuto-bidelli nei limiti di quelli per i quali lo Stato rimborsa la spesa per effetto dell'[articolo 84 della legge 31 marzo 1904, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;140#art_84) e dell'articolo 59 testo unico della legge di provvedimenti sulla Sardegna, approvato con [R. decreto 10 novembre 1907, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-11-10;844), modificato con [legge 28 giugno 1908, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-28;398). 
+Negli Istituti di istruzione classica, tecnica e normale della Basilicata e della Sardegna sono istituiti posti di ruolo governativi per i segretari, gli assistenti, i macchinisti, i bidelli e gli aiuto-bidelli nei limiti di quelli per i quali lo Stato rimborsa la spesa per effetto dell'[articolo 84 della legge 31 marzo 1904, n. 140](Che%20emana%20provvedimenti%20a%20favore%20della%20provincia%20di%20Basilicata.%20004U0140.md) e dell'articolo 59 testo unico della legge di provvedimenti sulla Sardegna, approvato con [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), modificato con [legge 28 giugno 1908, n. 398](Modificazione%20dellart.%2059%20della%20legge%2014%20luglio%201907%20n.%20562%20a%20favore%20della%20Sardegna.%20008U0398.md). 
  
  Il Ministero dell'istruzione e' autorizzato a provvedere a tali posti con la nomina nei ruoli governativi delle persone che alla data del presente decreto prestino servizio alle dipendenze degli enti locali negli Istituti anzidetti e per l'ufficio da ciascuno coperto sempreche' risulti che tali persone abbiano tenuto regolare condotta e prestato lodevole servizio. 
  
- Per la collocazione nei quadri di classificazione dei nuovi stipendi del personale che verra' assunto in forza della presente disposizione sara' tenuto conto del servizio prestato nelle scuole governative, alle dipendenze degli enti locali, dopo la pubblicazione delle [leggi 31 marzo 1904, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;140), per la Basilicata e 14 luglio 1907, n. 562, per la Sardegna, sempre che tale servizio sia stato prestato ininterrottamente dalla nomina o destinazione a tali scuole sino all'assunzione nei ruoli governativi. 
+ Per la collocazione nei quadri di classificazione dei nuovi stipendi del personale che verra' assunto in forza della presente disposizione sara' tenuto conto del servizio prestato nelle scuole governative, alle dipendenze degli enti locali, dopo la pubblicazione delle [leggi 31 marzo 1904, n. 140](Che%20emana%20provvedimenti%20a%20favore%20della%20provincia%20di%20Basilicata.%20004U0140.md), per la Basilicata e 14 luglio 1907, n. 562, per la Sardegna, sempre che tale servizio sia stato prestato ininterrottamente dalla nomina o destinazione a tali scuole sino all'assunzione nei ruoli governativi. 
  
  Per i posti istituiti per effetto del presente decreto sara' applicata la norma dell'articolo precedente.
 

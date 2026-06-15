@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visti gli articoli 14 e 18 del regolamento speciale per il personale di 3ª categoria e per il personale subalterno fuori ruolo dell'Amministrazione delle poste e dei telegrafi, approvato con [R. decreto del 12 maggio 1910, n. 680, e l'art. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-12;680#art_92) del regolamento per il personale dell'Amministrazione dei telefoni, approvato con [R. decreto 16 maggio 1912, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;574); 
+ Visti gli articoli 14 e 18 del regolamento speciale per il personale di 3ª categoria e per il personale subalterno fuori ruolo dell'Amministrazione delle poste e dei telegrafi, approvato con [R. decreto del 12 maggio 1910, n. 680, e l'art. 92](Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md) del regolamento per il personale dell'Amministrazione dei telefoni, approvato con [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md); 
  
  Considerato che, in dipendenza dello stato di guerra, con [decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625) e' sospesa l'ammissione di nuovo personale effettivo nelle Amministrazioni dello Stato; 
  

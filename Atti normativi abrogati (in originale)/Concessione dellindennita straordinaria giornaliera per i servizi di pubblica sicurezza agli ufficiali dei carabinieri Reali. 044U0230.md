@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 14 gennaio 1943, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-14;22), che istituisce per la durata dell'attuale stato di guerra, una indennita' straordinaria giornaliera per i servizi di pubblica sicurezza;
+Visto il [R. decreto-legge 14 gennaio 1943, n. 22](Concessione%20durante%20la%20guerra%20di%20una%20indennita%20straordinaria%20giornaliera%20per%20i%20servizi%20di%20pubblica%20sicurezza.%20043U0022.md), che istituisce per la durata dell'attuale stato di guerra, una indennita' straordinaria giornaliera per i servizi di pubblica sicurezza;
 
-Visto il [R. decreto-legge 3 gennaio 1944, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-03;6);
+Visto il [R. decreto-legge 3 gennaio 1944, n. 6](Organico%20e%20trattamento%20economico%20dei%20sottufficiali%20e%20militari%20di%20truppa%20dellArma%20dei%20C.C.R.R.%20044U0006.md);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto il decreto-legge Luogotenenziale 25 giugno 1944, 151;
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per la guerra, d'intesa, con i Ministri per l'intern
 
 ## Art. 1.
 
-L'indennita' straordinaria giornaliera per i Servizi di pubblica sicurezza, di cui all'[art. 1 del R. decreto-legge 14 gennaio 1943, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-14;22#art_1), e' cumulabile, per gli ufficiali dei carabinieri Reali, con tutte le indennita', di cui all'art. 2 dello stesso Regio decreto-legge.
+L'indennita' straordinaria giornaliera per i Servizi di pubblica sicurezza, di cui all'[art. 1 del R. decreto-legge 14 gennaio 1943, n. 22](Concessione%20durante%20la%20guerra%20di%20una%20indennita%20straordinaria%20giornaliera%20per%20i%20servizi%20di%20pubblica%20sicurezza.%20043U0022.md), e' cumulabile, per gli ufficiali dei carabinieri Reali, con tutte le indennita', di cui all'art. 2 dello stesso Regio decreto-legge.
 
 ## Art. 2.
 

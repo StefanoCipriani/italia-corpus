@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1174), concernente l'ammissione di nuove merci al beneficio della importazione temporanea. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1174](Ammissione%20di%20nuove%20merci%20al%20beneficio%20della%20temporanea%20importazione.%20027U1174.md), concernente l'ammissione di nuove merci al beneficio della importazione temporanea. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

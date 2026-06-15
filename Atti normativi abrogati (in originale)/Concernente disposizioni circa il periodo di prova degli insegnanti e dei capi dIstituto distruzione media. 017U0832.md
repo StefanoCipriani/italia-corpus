@@ -40,7 +40,7 @@ Le disposizioni dell'articolo precedente si applicano:
  
  a) ai capi d'Istituto nei riguardi del loro periodo di prova come incaricati per il passaggio ad effettivi; 
  
- b) ai professori straordinari passati da uno ad altro ruolo in applicazione dell'[art. 47 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_47), nei riguardi del periodo di prova nel nuovo ruolo, per la promozione in esso ad ordinario; 
+ b) ai professori straordinari passati da uno ad altro ruolo in applicazione dell'[art. 47 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), nei riguardi del periodo di prova nel nuovo ruolo, per la promozione in esso ad ordinario; 
  
  c) ai professori ordinari passati da uno ad altro ruolo in applicazione dell'articolo citato sopra alla lettera b) nei riguardi del periodo di prova nel nuovo ruolo, per il conseguimento in esso della stabilita'.
 

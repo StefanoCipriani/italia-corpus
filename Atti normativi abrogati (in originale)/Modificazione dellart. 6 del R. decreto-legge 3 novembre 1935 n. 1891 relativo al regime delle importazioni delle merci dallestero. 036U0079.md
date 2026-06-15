@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923), convertito nella [legge 7 luglio 1927, n. 1495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-07;1495), che unifica ed integra le disposizioni relative ai divieti di importazione ed esportazione di carattere economico e successive modificazioni;
+Visto il [R. decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923), convertito nella [legge 7 luglio 1927, n. 1495](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2014%20novembre%201926%20n.%201923%20che%20provvede%20ad%20unificare%20coordinare%20ed%20integrare%20le%20disposizioni%20relative%20ai%20divieti%20di%20importazione%20e%20di%20esportazione%20di%20car_ac354a1268bc.md), che unifica ed integra le disposizioni relative ai divieti di importazione ed esportazione di carattere economico e successive modificazioni;
 
 Visto il [R. decreto-legge 3 novembre 1935, n. 1891](Modificazioni%20al%20regime%20delle%20importazioni%20delle%20merci%20dallestero.%20035U1891.md), che modifica il regime delle importazioni delle merci dall'estero;
 

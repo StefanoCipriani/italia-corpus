@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [decreto-legge 30 luglio 1966, n. 590](Provvedimenti%20a%20favore%20della%20citta%20di%20Agrigento%20in%20conseguenza%20del%20movimento%20franoso%20verificatosi%20il%2019%20luglio%201966.md), convertito in [legge 28 settembre 1966, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-09-28;749), concernente provvedimenti a favore della citta' di Agrigento in conseguenza del movimento franoso verificatosi il 19 luglio 1966;
+Visto il [decreto-legge 30 luglio 1966, n. 590](Provvedimenti%20a%20favore%20della%20citta%20di%20Agrigento%20in%20conseguenza%20del%20movimento%20franoso%20verificatosi%20il%2019%20luglio%201966.md), convertito in [legge 28 settembre 1966, n. 749](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20luglio%201966%20n.%20590%20recante%20provvedimenti%20a%20favore%20della%20citta%20di%20Agrigento%20in%20conseguenza%20del%20movimento%20franoso%20verificatosi%20il_fd1c486356b5.md), concernente provvedimenti a favore della citta' di Agrigento in conseguenza del movimento franoso verificatosi il 19 luglio 1966;
 
 Ritenuta la necessita' e l'urgenza di prorogare la sospensione dei termini di scadenza dei titoli di credito a favore delle persone indicate nell'[art. 12 del decreto-legge 30 luglio 1966, n. 590](Provvedimenti%20a%20favore%20della%20citta%20di%20Agrigento%20in%20conseguenza%20del%20movimento%20franoso%20verificatosi%20il%2019%20luglio%201966.md);
 

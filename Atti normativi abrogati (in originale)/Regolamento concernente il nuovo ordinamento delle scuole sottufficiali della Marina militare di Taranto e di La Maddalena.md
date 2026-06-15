@@ -10,15 +10,15 @@ vigente: true
 
 IL MINISTRO DELLA DIFESA
 
-Vista la [legge 8 luglio 1926, n. 1178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178), ed in particolare l'art. 64, sull'ordinamento della Marina militare, e successive modificazioni;
+Vista la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), ed in particolare l'art. 64, sull'ordinamento della Marina militare, e successive modificazioni;
 
-Visto l'[art. 1, comma 3, del regio decreto 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914#art_1-com3), con il quale e' stato approvato il testo unico delle disposizioni legislative riguardanti l'ordinamento del Corpo equipaggi militari marittimi e lo stato giuridico dei sottufficiati della Marina militare;
+Visto l'[art. 1, comma 3, del regio decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), con il quale e' stato approvato il testo unico delle disposizioni legislative riguardanti l'ordinamento del Corpo equipaggi militari marittimi e lo stato giuridico dei sottufficiati della Marina militare;
 
-Visto il [regio decreto 16 giugno 1932, n. 840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-16;840), che stabilisce l'ordinamento dei servizi periferici territoriali della Marina militare e successive modificazioni;
+Visto il [regio decreto 16 giugno 1932, n. 840](Ordinamento%20dei%20servizi%20periferici%20territoriali%20della%20Regia%20marina.%20032U0840.md), che stabilisce l'ordinamento dei servizi periferici territoriali della Marina militare e successive modificazioni;
 
 Visto il decreto ministeriale 9 novembre 1942, che approva l'ordinamento delle scuole del Corpo equipaggi militari marittimi ed i regolamenti per le scuole stesse;
 
-Vista la [legge 31 luglio 1954, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;599), concernente lo stato dei sottufficiali dell'Esercito, della Marina e dell'Aeronautica, e successive modificazioni;
+Vista la [legge 31 luglio 1954, n. 599](Stato%20dei%20sottufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), concernente lo stato dei sottufficiali dell'Esercito, della Marina e dell'Aeronautica, e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 18 novembre 1965, n. 1477](Ordinamento%20dello%20Stato%20Maggiore%20della%20difesa%20e%20degli%20Stati%20Maggiori%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20in%20tempo%20di%20pace.md), sull'ordinamento dello Stato maggiore della Difesa e degli Stati maggiori dell'Esercito, della Marina e dell'Aeronautica, in tempo di pace;
 
@@ -28,13 +28,13 @@ Visto il decreto ministeriale 24 novembre 1965, concernente la suddivisione in s
 
 Visto il [decreto del Presidente della Repubblica 5 giugno 1976, n. 1076](Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20degli%20organismi%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), che approva il regolamento per l'amministrazione e la contabilita' degli organismi dell'Esercito, della Marina e dell'Aeronautica;
 
-Vista la [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382), che stabilisce le norme di principio sulla disciplina militare;
+Vista la [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), che stabilisce le norme di principio sulla disciplina militare;
 
 Vista la [legge 10 maggio 1983, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-10;212), riguardante le norme sul reclutamento, gli organici e l'avanzamento dei sottufficiali delle Forze armate e della Guardia di finanza e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 18 luglio 1986, n. 545](Approvazione%20del%20regolamento%20di%20disciplina%20militare%20ai%20sensi%20dellart.%205%20primo%20comma%20della%20legge%2011%20luglio%201978%20n.%20382.md), che approva il regolamento di disciplina militare;
 
-Vista la [legge 24 dicembre 1986, n. 958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-24;958), riguardante le norme sul servizio militare di leva e sulla ferma di leva prolungata;
+Vista la [legge 24 dicembre 1986, n. 958](Norme%20sul%20servizio%20militare%20di%20leva%20e%20sulla%20ferma%20di%20leva%20prolungata.md), riguardante le norme sul servizio militare di leva e sulla ferma di leva prolungata;
 
 Vista la [legge 8 agosto 1990, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-08;231), concernente disposizioni in materia di trattamento economico del personale militare;
 
@@ -63,7 +63,7 @@ Le scuole sottufficiali della Marina militare con sede in Taranto e La Maddalena
 Esse possono essere altresi' chiamate a concorrere alla formazione del personale di leva della Marina militare, del personale appartenente ad altre Forze armate o Corpi armati dello Stato e di quello facente parte di Marine estere.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 64 della legge n. 1178/1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926;1178#art_64) prevede che il Ministro della marina (ora Ministro della difesa, n.d.r.) ha facolta' di dettare le norme particolari per l'esecuzione di quanto e' previsto nella legge stessa.
  - Il [terzo comma dell'art. 1 del R.D. n. 914/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;914#art_1-com3) cosi' recita:
@@ -334,7 +334,7 @@ Tutti i militari, gli allievi e sottufficiali che frequentano le scuole sono sot
 
 1.
 
-La rappresentanza militare e' regolata dalla [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382), e relativi regolamenti di applicazione.
+La rappresentanza militare e' regolata dalla [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), e relativi regolamenti di applicazione.
 
 ### Art. 22. — Organizzazione interna
 

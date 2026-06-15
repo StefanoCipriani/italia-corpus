@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I seguenti articoli del [R. decreto-legge 14 giugno 1925, n. 1174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-06-14;1174), sono modificati come appresso: 
+I seguenti articoli del [R. decreto-legge 14 giugno 1925, n. 1174](Funzionamento%20della%20Milizia%20ferroviaria%20per%20la%20sicurezza%20nazionale.%20025U1174.md), sono modificati come appresso: 
  
  Art. 3. - La Milizia ferroviaria e' alla dipendenza disciplinare del Comando generale della M.V.S.N. e per l'impiego tecnico dipende dal Ministero delle comunicazioni. 
  
@@ -44,7 +44,7 @@ I seguenti articoli del [R. decreto-legge 14 giugno 1925, n. 1174](https://www.n
 
 ## Art. 2.
 
-I seguenti articoli del [R. decreto-legge 16 luglio 1925, n. 1466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-16;1466), sono modificati come appresso: 
+I seguenti articoli del [R. decreto-legge 16 luglio 1925, n. 1466](Istituzione%20della%20Milizia%20postelegrafica.%20025U1466.md), sono modificati come appresso: 
  
  Art. 2. - La Milizia postale-telegrafica e' alla dipendenza disciplinare del Comando generale M.V.S.N. e per l'impiego tecnico dipende dal Ministero delle comunicazioni. 
  
@@ -56,7 +56,7 @@ I seguenti articoli del [R. decreto-legge 16 luglio 1925, n. 1466](https://www.n
  
  Art. 5. - Le domande di ammissione nei quadri degli ufficiali della Milizia postale-telegrafica saranno sottoposte all'esame di una Commissione di accertamento che dovra' essere composta da un ufficiale della M.V.S.N. di grado corrispondente a generale di divisione del Regio esercito, presidente, designato dal Comando della M.V.S.N., dal comandante dei reparti postelegrafici e da un console della M.V.S.N. pure designato dal Comando generale della Milizia, membri. 
  
- Art. 6. - Per le domande di ammissione a milite si osserveranno le disposizioni di cui all'[art. 10 del R. decreto-legge 4 agosto 1924, n. 1292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-08-04;1292#art_10), sostituendo al console il comandante del reparto. 
+ Art. 6. - Per le domande di ammissione a milite si osserveranno le disposizioni di cui all'[art. 10 del R. decreto-legge 4 agosto 1924, n. 1292](Approvazione%20del%20nuovo%20ordinamento%20della%20Milizia%20Volontaria%20per%20la%20Sicurezza%20Nazionale.%20024U1292.md), sostituendo al console il comandante del reparto. 
  
  Il giudizio del comandante del reparto sara' pero' sottoposto al comandante dei reparti della Milizia postale e telegrafica per la definitiva approvazione. 
  

@@ -14,11 +14,11 @@ E' concessa amnistia per i reati militari, diversi da quelli di assenza dal serv
 
 ## Art. 2.
 
-E' pure concessa amnistia per i reati militari punibili con pena detentiva non superiore nel minimo a cinque anni a favore di chi per fatti di armi o per servizi di guerra successivi alla data del commesso reato e' stato decorato al valor militare o promosso per merito di guerra o riconosciuto dalle competenti autorita' militari affetto da mutilazione o da invalidita' comprese Belle otto categorie della tabella A allegata alla [legge 19 febbraio 1942, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-19;137).
+E' pure concessa amnistia per i reati militari punibili con pena detentiva non superiore nel minimo a cinque anni a favore di chi per fatti di armi o per servizi di guerra successivi alla data del commesso reato e' stato decorato al valor militare o promosso per merito di guerra o riconosciuto dalle competenti autorita' militari affetto da mutilazione o da invalidita' comprese Belle otto categorie della tabella A allegata alla [legge 19 febbraio 1942, n. 137](Miglioramenti%20alle%20otto%20categorie%20di%20pensioni%20del%20mutilati%20ed%20invalidi%20di%20guerra.%20042U0137.md).
 
 ## Art. 3.
 
-E' concessa amnistia per i delitti di assenza dal servizio a condizione che il colpevole, dopo l'8 settembre 1943 ed anteriormente al 1° maggio 1945, si sia spontaneamente presentato alle armi, o sia spontaneamente ritornato nelle Forze armate regolari nazionali o delle Nazioni Unite ovvero abbia effettivamente partecipato alla attivita' bellica in Italia o all'estero, il reparti di patrioti riconosciuti ai sensi del [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;518).
+E' concessa amnistia per i delitti di assenza dal servizio a condizione che il colpevole, dopo l'8 settembre 1943 ed anteriormente al 1° maggio 1945, si sia spontaneamente presentato alle armi, o sia spontaneamente ritornato nelle Forze armate regolari nazionali o delle Nazioni Unite ovvero abbia effettivamente partecipato alla attivita' bellica in Italia o all'estero, il reparti di patrioti riconosciuti ai sensi del [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md).
 
 ## Art. 4.
 
@@ -40,12 +40,12 @@ Sono esclusi dall'amnistia e dall'indulto previsti dagli articoli precedenti:
  2) i reati commessi in danno delle Forze armato alleate o delle persone che ad esse appartengono; 
  3) i reati contro le leggi e gli usi di guerra. 
  Sono esclusi dall'amnistia di cui all'art. 3 i reati di assenza dal servizio commessi in presenza del nemico o con passaggio al nemico dopo il 13 ottobre 1943. 
- Sono esclusi dal condono di cui all'art. 6 il delitto di insubordinazione nell'ipotesi prevista dall'[art. 186 primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_186-com1) e [secondo comma del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_186-com2) militare di pace e il delitto di violenza contro inferiori nell'ipotesi prevista dall'[art. 195 secondo comma del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_195-com2) militare di pace.
+ Sono esclusi dal condono di cui all'art. 6 il delitto di insubordinazione nell'ipotesi prevista dall'[art. 186 primo](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [secondo comma del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e il delitto di violenza contro inferiori nell'ipotesi prevista dall'[art. 195 secondo comma del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
 
 ## Art. 8.
 
 L'amnistia e il condono previsti dagli articoli precedenti non si applicano: 
- 1) nei confronti di coloro che hanno riportato, alla data del presente decreto, una o piu' condanne per delitti non colposi, diversi da quelli di assenza dal servizio, a pena detentiva superiore, nel complesso, a cinque anni. Nell'applicazione di questa disposizione non si tiene conto delle condanne estinte per precedente amnistia, ne' dei reati estinti, alla data del presente decreto, per il decorso dei termini della sospensione condizionale della pena a norma dell'[art. 67 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_67), ne' delle condanne per le quali sia intervenuta la riabilitazione; 
+ 1) nei confronti di coloro che hanno riportato, alla data del presente decreto, una o piu' condanne per delitti non colposi, diversi da quelli di assenza dal servizio, a pena detentiva superiore, nel complesso, a cinque anni. Nell'applicazione di questa disposizione non si tiene conto delle condanne estinte per precedente amnistia, ne' dei reati estinti, alla data del presente decreto, per il decorso dei termini della sospensione condizionale della pena a norma dell'[art. 67 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ne' delle condanne per le quali sia intervenuta la riabilitazione; 
  2) nei confronti di coloro che, alla data del presente decreto si trovano in stato di latitanza, salvo che si costituiscano in carcere entro tre mesi dalla data stessa. Questa disposizione non si applica nel caso in cui la pena da espiare sia interamente condonata o il reato sia estinto per amnistia. 
  Il condono previsto dall'art. 6 e' limitata alla durata di due anni nei confronti di coloro che gia' hanno beneficiato del condono concesso con il [R. decreto 5 aprile 1944, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-04-05;96).
 
@@ -59,7 +59,7 @@ Ai fini dell'applicazione dell'amnistia si osservano, pel computo della pena, le
 
 ## Art. 11.
 
-I benefici di cui agli articoli 1 e 3 a 6 sono estesi agli estranei alle Forze armate che abbiano concorso nel reato militare o che abbiano commesso favoreggiamento, ai sensi degli [articoli 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_378) e [379 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_379), nel reato suddetto. Ad essi si applica anche il beneficio di cui all'art. 2 purche' abbiano i requisiti previsti da tale disposizione.
+I benefici di cui agli articoli 1 e 3 a 6 sono estesi agli estranei alle Forze armate che abbiano concorso nel reato militare o che abbiano commesso favoreggiamento, ai sensi degli [articoli 378](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [379 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nel reato suddetto. Ad essi si applica anche il beneficio di cui all'art. 2 purche' abbiano i requisiti previsti da tale disposizione.
 
 ## Art. 12.
 

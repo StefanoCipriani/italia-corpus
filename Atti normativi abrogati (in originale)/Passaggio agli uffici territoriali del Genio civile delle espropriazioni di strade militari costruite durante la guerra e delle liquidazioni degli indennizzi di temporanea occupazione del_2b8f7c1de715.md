@@ -20,7 +20,7 @@ Alle espropriazioni definitive degli immobili occupati durante la guerra per la 
 
 ## Art. 3.
 
-Le espropriazioni e le liquidazioni di indennizzi indicate nel precedente articolo saranno eseguite con la procedura stabilita dai [Regi decreti-legge 19 luglio 1924, n. 1437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-07-19;1437), e [14 novembre 1929, n. 2107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-14;2107).
+Le espropriazioni e le liquidazioni di indennizzi indicate nel precedente articolo saranno eseguite con la procedura stabilita dai [Regi decreti-legge 19 luglio 1924, n. 1437](Norme%20per%20le%20espropriazioni%20definitive%20degli%20immobili%20occupati%20durante%20la%20guerra%20per%20la%20costruzione%20di%20strade%20militari%20da%20conservarsi%20per%20gli%20usi%20civili.%20024U1437.md), e [14 novembre 1929, n. 2107](Disposizioni%20per%20affrettare%20la%20liquidazione%20e%20il%20pagamento%20delle%20indennita%20di%20espropriazioni%20per%20le%20strade%20ex%20militari%20e%20di%20quelle%20per%20le%20riparazioni%20dei%20danni%20di%20guerra.%20029U2107.md).
 
 ## Art. 4.
 
@@ -32,7 +32,7 @@ Con decreti del Ministero delle finanze sara' provveduto al necessario passaggio
 
 ## Art. 5.
 
-La prima parte dell'[art. 3 del R. decreto-legge 14 novembre 1929, n. 2107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-14;2107#art_3), e' abrogata e sostituita dalla seguente disposizione: 
+La prima parte dell'[art. 3 del R. decreto-legge 14 novembre 1929, n. 2107](Disposizioni%20per%20affrettare%20la%20liquidazione%20e%20il%20pagamento%20delle%20indennita%20di%20espropriazioni%20per%20le%20strade%20ex%20militari%20e%20di%20quelle%20per%20le%20riparazioni%20dei%20danni%20di%20guerra.%20029U2107.md), e' abrogata e sostituita dalla seguente disposizione: 
  
  «Nei casi in cui l'indennita' capitale delle espropriazioni definitive relative alle opere, di cui ai precedenti articoli 1 e 2, non superi la somma di L. 1000 dovuta singolarmente e individualmente pro-quota a ciascuna delle persone indicate nell'[art. 57 della legge 26 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-26;2359#art_57), l'accettazione delle medesime da parte dei loro tutori e amministratori non e' soggetta ad alcuna approvazione da parte del tribunale del circondario in cui sono situati i beni». 
  

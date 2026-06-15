@@ -20,7 +20,7 @@ A decorrere dal periodo di paga in corso alla data del 16 giugno 1952, gli asseg
 
 ## Art. 2.
 
-Con la stessa decorrenza di cui al precedente art. 1, l'importo della retribuzione giornaliera fino alla concorrenza del quale e' dovuto il contributo per gli assegni familiari previsto dall'[art. 2 del decreto del Presidente della Repubblica 29 luglio 1948, n. 1136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-07-29;1136#art_2), e' elevato, per i soli lavoratori di sesso maschile, a L. 900.
+Con la stessa decorrenza di cui al precedente art. 1, l'importo della retribuzione giornaliera fino alla concorrenza del quale e' dovuto il contributo per gli assegni familiari previsto dall'[art. 2 del decreto del Presidente della Repubblica 29 luglio 1948, n. 1136](../DPR/Elevazione%20del%20limite%20massimo%20della%20retribuzione%20fino%20alla%20concorrenza%20del%20quale%20sono%20dovuti%20i%20contributi%20per%20gli%20assegni%20familiari.md), e' elevato, per i soli lavoratori di sesso maschile, a L. 900.
 
 ## Art. 3.
 

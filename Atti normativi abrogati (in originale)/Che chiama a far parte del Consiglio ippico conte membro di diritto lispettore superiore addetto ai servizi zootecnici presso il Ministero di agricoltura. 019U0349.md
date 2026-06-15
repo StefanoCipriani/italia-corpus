@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 7 della legge 26 giugno 1887, n. 4644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-06-26;4644#art_7) (serie 3ª);
+Visto l'[art. 7 della legge 26 giugno 1887, n. 4644](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md) (serie 3ª);
 
-Vista la [legge 11 luglio 1904 n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;359);
+Vista la [legge 11 luglio 1904 n. 359](Incremento%20della%20produzione%20dei%20cavalli.%20004U0359.md);
 
 Ritenuta la opportunita' che del Consiglio ippico faccia parte anche l'ispettore superiore addetto ai servizi zootecnici;
 

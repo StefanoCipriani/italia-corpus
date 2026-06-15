@@ -12,15 +12,15 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il testo unico sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
 
-Visto al [decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-30;41);
+Visto al [decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md);
 
-Visto il [decreto legislativo luogotenenziale 13 marzo 1945, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-13;116);
+Visto il [decreto legislativo luogotenenziale 13 marzo 1945, n. 116](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md);
 
 Visto il decreto legislativo luogotenenziale 21 novembre 1945,
 
 n. 722;
 
-Visto il [decreto legislativo luogotenenziale 8 maggio 1946, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;429);
+Visto il [decreto legislativo luogotenenziale 8 maggio 1946, n. 429](../Decreti%20legislativi%20luogotenenziali/Aumento%20degli%20assegni%20di%20caroviveri%20a%20favore%20dei%20pensionati%20statali.md);
 
 Visto il decreto legislativo del Capo provvisorio dello Stato
 
@@ -28,7 +28,7 @@ Visto il decreto legislativo del Capo provvisorio dello Stato
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -44,24 +44,24 @@ L'aumento previsto dall'[art. 12 del decreto legislativo del Capo provvisorio de
 
 ## Art. 3.
 
-Gli assegni di caroviveri annessi alle pensioni tabellari dei militari di truppa, previsti dal [terzo comma dell'art. 6 del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-30;41#art_6-com3), e modificati dal [quinto comma dell'art. 11 del decreto legislativo luogotenenziale 13 marzo 1945, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-13;116#art_11-com5) e dal [secondo comma dell'art. 18 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722#art_18-com2), sono elevati:
+Gli assegni di caroviveri annessi alle pensioni tabellari dei militari di truppa, previsti dal [terzo comma dell'art. 6 del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md), e modificati dal [quinto comma dell'art. 11 del decreto legislativo luogotenenziale 13 marzo 1945, n. 116](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md) e dal [secondo comma dell'art. 18 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), sono elevati:
  da L. 4800 a L. 30.000 annue lorde per i titolari di pensioni privilegiate dirette di prima e seconda categoria e per i titolari di pensioni dirette, non privilegiate, di eta' non inferiore a 60 anni; da L. 4800 a L. 18.000 annue lorde per i titolari di pensioni dirette, non privilegiate, aventi meno di 60 anni di eta';
  da L. 3600 a L. 20.400 annue lorde per i titolari di pensioni di riversibilita'.
  Resta fermo il caroviveri di L. 4800 annue lorde per i titolari di pensioni tabellari privilegiate dirette dalla terza alla ottava categoria.
 
 ## Art. 4.
 
-Le disposizioni di legge relative all'acquisto del diritto a pensione privilegiata ordinaria da parte dei genitori e dei collaterali di un militare devono essere interpretate nel senso che le condizioni e i requisiti richiesti devono sussistere all'atto della morte del militare. Resta fermo il consolidamento della pensione nella persona del genitore superstite all'atto del decesso dell'altro, previsto dall'articolo unico della [legge 19 aprile 1906, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-19;135), e successive modificazioni.
+Le disposizioni di legge relative all'acquisto del diritto a pensione privilegiata ordinaria da parte dei genitori e dei collaterali di un militare devono essere interpretate nel senso che le condizioni e i requisiti richiesti devono sussistere all'atto della morte del militare. Resta fermo il consolidamento della pensione nella persona del genitore superstite all'atto del decesso dell'altro, previsto dall'articolo unico della [legge 19 aprile 1906, n. 135](Per%20modificazione%20allart.%20123%20del%20testo%20unico%2021%20febbraio%201895%20n.%2070%20delle%20leggi%20sulle%20pensioni.%20006U0135.md), e successive modificazioni.
  Deve altresi' intendersi che il diritto a pensione privilegiata ordinaria a favore della vedova o degli orfani esclude, in qualsiasi tempo, il diritto dei genitori e dei collaterali del militare.
  Quando i collaterali del militare divengano orfani dopo la morte del militare medesimo, la pensione di cui godevano i genitori o che sarebbe loro spettata si consolida in favore dei collaterali stessi quando siano minorenni e, se femmine, inoltre nubili.
 
 ## Art. 5.
 
-In tutti i casi in cui per un evento di guerra o attinente alla guerra non si faccia luogo a concessione di trattamento di pensione di guerra per il verificarsi delle condizioni previste dagli [articoli 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_46) e [47 del regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_47), o da altre disposizioni in cui comunque si sancisca la decadenza, la prescrizione o la perdita del diritto al suddetto trattamento, non si fa luogo, per qualsiasi ragione, a concessione di pensione privilegiata ordinaria.
+In tutti i casi in cui per un evento di guerra o attinente alla guerra non si faccia luogo a concessione di trattamento di pensione di guerra per il verificarsi delle condizioni previste dagli [articoli 46](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [47 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), o da altre disposizioni in cui comunque si sancisca la decadenza, la prescrizione o la perdita del diritto al suddetto trattamento, non si fa luogo, per qualsiasi ragione, a concessione di pensione privilegiata ordinaria.
 
 ## Art. 6.
 
-La proroga del pagamento degli assegni privilegiati ordinari rinnovabili, consentita dal [decreto legislativo luogotenenziale 22 aprile 1945, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-22;204), fino a sei mesi dopo la cessazione dello stato di guerra, successivamente differita con il [decreto legislativo luogotenenziale 8 maggio 1946, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;354), fino al 14 aprile 1947, e' ulteriormente protratta, per altri sei mesi a, decorrere da quest'ultima data.
+La proroga del pagamento degli assegni privilegiati ordinari rinnovabili, consentita dal [decreto legislativo luogotenenziale 22 aprile 1945, n. 204](../Decreti%20legislativi%20luogotenenziali/Norme%20speciali%20in%20materia%20di%20pensioni%20privilegiate%20ordinarle%20per%20la%20durata%20della%20guerra.%20045U0204.md), fino a sei mesi dopo la cessazione dello stato di guerra, successivamente differita con il [decreto legislativo luogotenenziale 8 maggio 1946, n. 354](../Decreti%20legislativi%20luogotenenziali/Proroga%20e%20revoca%20di%20taluni%20provvedimenti%20in%20dipendenza%20della%20cessazione%20dello%20stato%20di%20guerra.md), fino al 14 aprile 1947, e' ulteriormente protratta, per altri sei mesi a, decorrere da quest'ultima data.
 
 ## Art. 7.
 

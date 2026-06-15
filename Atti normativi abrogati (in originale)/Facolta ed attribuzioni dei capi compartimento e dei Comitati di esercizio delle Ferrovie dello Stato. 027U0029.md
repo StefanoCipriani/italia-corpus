@@ -18,15 +18,15 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Ritenuta la necessita' urgente ed assoluta di coordinare le facolta' e le attribuzioni dei capi compartimento e dei Comitati d'esercizio delle ferrovie dello Stato;
 
-Visto l'[art. 12 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dal [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728);
+Visto l'[art. 12 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
 
-Visto il [R. decreto 5 agosto 1912, n. 906](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-08-05;906);
+Visto il [R. decreto 5 agosto 1912, n. 906](Che%20determina%20le%20funzioni%20del%20capo%20compartimento%20delle%20ferrovie%20dello%20Stato%20e%20del%20Comitato%20desercizio.%20012U0906.md);
 
-Visto il [R. decreto 8 febbraio 1923, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;598);
+Visto il [R. decreto 8 febbraio 1923, n. 598](Che%20determina%20le%20attribuzioni%20e%20facolta%20dei%20capi%20compartimento%20e%20dei%20comitati%20di%20esercizio%20delle%20ferrovie%20dello%20Stato.%20023U0598.md);
 
 Visto il [R. decreto-legge 22 maggio 1924, n. 868](Istituzione%20del%20Consiglio%20di%20amministrazione%20e%20della%20carica%20di%20direttore%20generale%20per%20le%20Ferrovie%20dello%20Stato.%20024U0868.md), convertito in legge con la [legge 3 aprile 1926, n. 695](Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20maggio%201924%20n.%20868%20relativo%20allistituzione%20del%20Consiglio%20di%20amministrazione%20e%20della%20carica%20di%20direttore%20generale%20per%20le%20Ferrovie%20dello%20Stato.%20026U0695.md);
 
-Visto l'[art. 1 del R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), convertito in legge con la [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto l'[art. 1 del R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), convertito in legge con la [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Sentito il Consiglio di amministrazione delle ferrovie dello Stato;
 
@@ -126,7 +126,7 @@ E' lasciata facolta' al Ministro per le comunicazioni di emanare eventuali norme
 
 ## Art. 8.
 
-I [Regi decreti 5 agosto 1912, n. 906](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-08-05;906), e [8 febbraio 1923, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;598), sono abrogati.
+I [Regi decreti 5 agosto 1912, n. 906](Che%20determina%20le%20funzioni%20del%20capo%20compartimento%20delle%20ferrovie%20dello%20Stato%20e%20del%20Comitato%20desercizio.%20012U0906.md), e [8 febbraio 1923, n. 598](Che%20determina%20le%20attribuzioni%20e%20facolta%20dei%20capi%20compartimento%20e%20dei%20comitati%20di%20esercizio%20delle%20ferrovie%20dello%20Stato.%20023U0598.md), sono abrogati.
 
 ## Art. 9.
 

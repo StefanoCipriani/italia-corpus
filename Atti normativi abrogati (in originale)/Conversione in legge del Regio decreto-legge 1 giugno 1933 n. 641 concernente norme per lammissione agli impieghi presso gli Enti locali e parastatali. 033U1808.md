@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° giugno 1933, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-01;641), concernente norme per l'ammissione agli impieghi presso gli Enti locali e parastatali. 
+ E' convertito in legge il [R. decreto-legge 1° giugno 1933, n. 641](Norme%20per%20lammissione%20agli%20impieghi%20presso%20gli%20Enti%20locali%20e%20parastatali.%20033U0641.md), concernente norme per l'ammissione agli impieghi presso gli Enti locali e parastatali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

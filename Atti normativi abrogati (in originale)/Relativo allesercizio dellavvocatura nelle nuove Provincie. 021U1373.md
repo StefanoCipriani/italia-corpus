@@ -22,7 +22,7 @@ Visto il [paragrafo 31 della legge 1° agosto 1895, n. 113](https://www.normatti
 
 Vista la [legge 8 giugno 1874, n. 1938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1874-06-08;1938);
 
-Visto il regolamento approvato con [R. decreto 26 luglio 1874, n. 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1874-07-26;2012);
+Visto il regolamento approvato con [R. decreto 26 luglio 1874, n. 2012](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20Legge%20sullesercizio%20delle%20professioni%20di%20Avvocato%20e%20di%20Procuratore.%20074U2012.md);
 
 Udito il Consiglio dei ministri;
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° maggio 1930, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-05-01;520), concernente gli onorari dei notari per gli atti di fusione di societa'. 
+ E' convertito in legge il [R. decreto-legge 1° maggio 1930, n. 520](Onorari%20dei%20notari%20per%20gli%20atti%20di%20fusione%20di%20societa.%20030U0520.md), concernente gli onorari dei notari per gli atti di fusione di societa'. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

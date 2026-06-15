@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-24;1277), contenente le norme intese a regolare la gestione amministrativa e contabile degli Uffici del lavoro portuale e dei fondi relativi, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1277](Norme%20intese%20a%20regolare%20la%20gestione%20amministrativa%20e%20contabile%20degli%20Uffici%20del%20lavoro%20portuale%20e%20dei%20fondi%20relativi.%20031U1277.md), contenente le norme intese a regolare la gestione amministrativa e contabile degli Uffici del lavoro portuale e dei fondi relativi, con le seguenti modificazioni: 
  
  All'art. 2, lettera c), alle parole: «il rendimento e quelle per promuovere gli studi per il perfezionamento dei sistemi di lavoro», sostituire le seguenti: «il rendimento, quelle per promuovere gli studi per il perfezionamento dei sistemi di lavoro e quelle per provvedimenti od opere di assistenza degli operai o delle loro famiglie». 
  

@@ -116,13 +116,13 @@ I contravventori agli ordini di requisizioni aventi per oggetto somministrazione
  
  L'ammenda e' inflitta dal pretore del luogo, al quale i colpevoli saranno prontamente denunciati, a termini dell'art. 12, 5° capoverso, della legge 21 marzo 1915. 
  
- Coloro che senza giustificato motivo non adempiano le prestazioni personali loro richieste o in altro modo contravvengano agli ordini all'uopo emanati dalle autorita' competenti saranno puniti a norma dell'[articolo 435 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_435).
+ Coloro che senza giustificato motivo non adempiano le prestazioni personali loro richieste o in altro modo contravvengano agli ordini all'uopo emanati dalle autorita' competenti saranno puniti a norma dell'[articolo 435 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 15.
 
 I Comuni hanno l'obbligo di coadiuvare le autorita' militari in tutto quanto attiene alle requisizioni, sia mettendo a disposizione personale per le necessarie ricerche, sia fornendo notizie ed informazioni, sia intervenendo col mezzo dei sindaci e delle Giunte municipali nei casi sopra enunciati. 
  
- Qualsiasi rifiuto o inadempimento potra' dar luogo, a carico dei responsabili, all'applicazione delle pene sancite dall'[art. 178 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_178).
+ Qualsiasi rifiuto o inadempimento potra' dar luogo, a carico dei responsabili, all'applicazione delle pene sancite dall'[art. 178 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 16.
 

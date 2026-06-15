@@ -14,7 +14,7 @@ VITTORIO EMANUELE III
  PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
  RE D'ITALIA 
  
- Visto il [R. decreto-legge 2 ottobre 1919, n. 2074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-02;2074), convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473); 
+ Visto il [R. decreto-legge 2 ottobre 1919, n. 2074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-02;2074), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md); 
  Considerata l'opportunita' di aggregare alla Regia soprintendenza bibliografica del Lazio la Regione Umbra, distaccandola dalla Regia soprintendenza bibliografica per le Marche e l'Umbria; 
  Sentito il parere della Commissione centrale delle biblioteche; 
  Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; 

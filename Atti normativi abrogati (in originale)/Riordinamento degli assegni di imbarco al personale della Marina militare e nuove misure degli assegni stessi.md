@@ -16,13 +16,13 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Le tabelle A, B, C, D, E, F, G, E, I, L, M, annesse al regolamento sugli assegni di imbarco al personale della Marina militare, approvato con [regio decreto 15 luglio 1938, n. 1156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-15;1156), quali risultano modificate dalla [legge 8 aprile 1952, n. 356](Aumento%20degli%20assegni%20di%20imbarco%20al%20personale%20della%20Marina%20militare.md), sono sostituite da quelle annesse alla presente legge.
+Le tabelle A, B, C, D, E, F, G, E, I, L, M, annesse al regolamento sugli assegni di imbarco al personale della Marina militare, approvato con [regio decreto 15 luglio 1938, n. 1156](Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md), quali risultano modificate dalla [legge 8 aprile 1952, n. 356](Aumento%20degli%20assegni%20di%20imbarco%20al%20personale%20della%20Marina%20militare.md), sono sostituite da quelle annesse alla presente legge.
 
 ## Art. 2.
 
 Sono apportate le seguenti modifiche agli [articoli 5](Aumento%20della%20misura%20degli%20assegni%20di%20imbarco%20per%20il%20personale%20della%20Marina%20militare.md), [6](Aumento%20della%20misura%20degli%20assegni%20di%20imbarco%20per%20il%20personale%20della%20Marina%20militare.md), [7](Aumento%20della%20misura%20degli%20assegni%20di%20imbarco%20per%20il%20personale%20della%20Marina%20militare.md), [8](Aumento%20della%20misura%20degli%20assegni%20di%20imbarco%20per%20il%20personale%20della%20Marina%20militare.md), [9](Aumento%20della%20misura%20degli%20assegni%20di%20imbarco%20per%20il%20personale%20della%20Marina%20militare.md) e [12 del decreto legislativo 24 gennaio 1948, n. 196](Aumento%20della%20misura%20degli%20assegni%20di%20imbarco%20per%20il%20personale%20della%20Marina%20militare.md), contenente varianti al regolamento sugli assegni di imbarco al personale della Marina militare, approvato con [regio decreto 15 luglio 1938, n. 1156:
 
- Art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-15;1156#art_5). - L'assegno collettivo previsto dal paragrafo primo dell'articolo 23 del regolamento sugli assegni di imbarco e' calcolato in ragione di lire 3 giornaliere per ogni individuo.
+ Art. 5](Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md). - L'assegno collettivo previsto dal paragrafo primo dell'articolo 23 del regolamento sugli assegni di imbarco e' calcolato in ragione di lire 3 giornaliere per ogni individuo.
  Le misure della quota massima individuale di cui al paragrafo terzo di detto articolo 23 sono elevate, rispettivamente, da lire 300 a lire 600 e da lire 200 a lire 300.
 
  Art. 6. - La misura della retribuzione collettiva di cui al paragrafo primo dell'articolo 24 del regolamento e' elevata da lire 18 a lire 30 per tonnellata o frazione di tonnellata.
@@ -43,7 +43,7 @@ Nei confronti dei personali di cui alla tabella F allegata alla presente legge s
 
 ## Art. 4.
 
-E' soppresso l'[articolo 1, secondo comma, del regio decreto 15 luglio 1938, n. 1156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-15;1156#art_1-com2). La [legge 8 aprile 1952, n. 356](Aumento%20degli%20assegni%20di%20imbarco%20al%20personale%20della%20Marina%20militare.md), e' abrogata.
+E' soppresso l'[articolo 1, secondo comma, del regio decreto 15 luglio 1938, n. 1156](Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md). La [legge 8 aprile 1952, n. 356](Aumento%20degli%20assegni%20di%20imbarco%20al%20personale%20della%20Marina%20militare.md), e' abrogata.
 
 ## Art. 5.
 

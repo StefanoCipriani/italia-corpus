@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 settembre 1925, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1625), relativo alla concessione di un assegno straordinario vitalizio annuo alla signorina Carolina Pironti, figlia del patriota napoletano Michele Pironti. 
+ E' convertito in legge il [R. decreto-legge 4 settembre 1925, n. 1625](Assegno%20straordinario%20vitalizio%20annuo%20alla%20signorina%20Carolina%20Pironti%20figlia%20del%20patriota%20napoletano%20Michele%20Pironti.%20025U1625.md), relativo alla concessione di un assegno straordinario vitalizio annuo alla signorina Carolina Pironti, figlia del patriota napoletano Michele Pironti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

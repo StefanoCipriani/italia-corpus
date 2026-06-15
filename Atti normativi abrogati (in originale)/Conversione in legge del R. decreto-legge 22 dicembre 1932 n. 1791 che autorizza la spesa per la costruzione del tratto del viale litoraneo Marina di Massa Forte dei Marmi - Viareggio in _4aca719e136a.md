@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 dicembre 1932, n. 1791](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-12-22;1791), che autorizza la spesa per la costruzione del tratto del viale litoraneo Marina di Massa-Forte dei Marmi-Viareggio, in comune di Forte dei Marmi. 
+ E' convertito in legge il [R. decreto-legge 22 dicembre 1932, n. 1791](Costruzione%20del%20tratto%20in%20comune%20di%20Forte%20dei%20Marmi%20del%20Viale%20Litoraneo%20Marina%20di%20Massa-Forte%20dei%20Marmi-Viareggio.%20032U1791.md), che autorizza la spesa per la costruzione del tratto del viale litoraneo Marina di Massa-Forte dei Marmi-Viareggio, in comune di Forte dei Marmi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

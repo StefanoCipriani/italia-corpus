@@ -33,7 +33,7 @@ E' concesso un assegno mensile di L. 50:
 ------------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 7 settembre 1919, n. 1730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-07;1730) e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 7 settembre 1919, n. 1730](Che%20estende%20le%20disposizioni%20dellart.%201%20del%20R.%20decreto%2031%20luglio%201919%20n.%201304%20a%20tutti%20i%20maestri%20elementari%20alle%20loro%20vedove%20ed%20orfani%20che%20fruiscano%20di%20pensione%20a%20carico%20del%20Monte%20pensioni%20_19f04ca82f77.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 

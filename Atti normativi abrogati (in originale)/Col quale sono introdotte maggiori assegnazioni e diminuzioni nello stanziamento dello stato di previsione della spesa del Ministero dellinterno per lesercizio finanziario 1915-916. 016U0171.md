@@ -24,7 +24,7 @@ Ritenuta la necessita' di aumentare le assegnazioni di taluni capitoli dello sta
 
 Considerato elle alle indicate maggiori e nuove assegnazioni per complessive L. 3.615.500, si rende possibile far fronte con diminuzioni per corrispondente somma sugli stanziamenti di altri capitoli dello stato di previsione Medesimo;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Udito il Consiglio dei ministri;
 

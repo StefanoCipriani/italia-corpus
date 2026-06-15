@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 settembre 1932, n. 1306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-22;1306), concernente l'aumento del numero degli amministratori giudiziari. 
+ E' convertito in legge il [R. decreto-legge 22 settembre 1932, n. 1306](Aumento%20del%20numero%20degli%20amministratori%20giudiziari.%20032U1306.md), concernente l'aumento del numero degli amministratori giudiziari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

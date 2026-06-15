@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Ritenuta la necessita' provvedere alla inscrizione nel bilancio dell'esercizio finanziario 1914-915, dei fondi occorrenti per le spese relative ai servizi del contingente militare e delle Regie navi distaccato nell'Estremo Oriente; 
  
- Vista la [legge 16 dicembre 1914, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1354); 
+ Vista la [legge 16 dicembre 1914, n. 1354](Per%20la%20proroga%20dellesercizio%20provvisorio%20dei%20bilanci%20e%20provvedimenti%20finanziari.%20014U1354.md); 
  
  Udito il Consiglio dei ministri; 
  

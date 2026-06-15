@@ -50,7 +50,7 @@ Gli ufficiali inferiori del corpo di Commissariato militare marittimo debbono ot
 
 ## Art. 6.
 
-L'[art. 23 della legge 29 giugno 1913, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;797#art_23), e' soppresso e sostituito dal seguente: 
+L'[art. 23 della legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), e' soppresso e sostituito dal seguente: 
  
  «Su loro domanda possono essere nominati sottotenenti commissari di complemento in seguito a concorso per titoli i cittadini italiani che non abbiano superato l'eta' di anni 40, che siano provvisti della laurea di Istituti superiori di studi commerciali od amministrativi o della laurea in giurisprudenza o in chimica e possiedano la richiesta idoneita' fisica. 
  

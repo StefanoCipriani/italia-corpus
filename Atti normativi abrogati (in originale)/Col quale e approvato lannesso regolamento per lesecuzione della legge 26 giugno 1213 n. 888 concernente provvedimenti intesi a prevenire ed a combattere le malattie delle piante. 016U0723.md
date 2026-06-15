@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 26 giugno 1913, n. 888](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;888); 
+ Vista la [legge 26 giugno 1913, n. 888](Che%20reca%20provvedimenti%20intesi%20a%20prevenire%20e%20a%20combattere%20le%20malattie%20delle%20piante.%20013U0888.md); 
  
  Udito il parere del Consiglio di Stato; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' approvato l'annesso regolamento per l'esecuzione della [legge 26 giugno 1913, n. 888](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;888), concernente provvedimenti intesi a prevenire e a combattere le malattie delle piante, visto, d'ordine Nostro, dai predetti ministri segretari di Stato. 
+ E' approvato l'annesso regolamento per l'esecuzione della [legge 26 giugno 1913, n. 888](Che%20reca%20provvedimenti%20intesi%20a%20prevenire%20e%20a%20combattere%20le%20malattie%20delle%20piante.%20013U0888.md), concernente provvedimenti intesi a prevenire e a combattere le malattie delle piante, visto, d'ordine Nostro, dai predetti ministri segretari di Stato. 
  
  Ordiniamo che il presenta decreto, munito del sigillo Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

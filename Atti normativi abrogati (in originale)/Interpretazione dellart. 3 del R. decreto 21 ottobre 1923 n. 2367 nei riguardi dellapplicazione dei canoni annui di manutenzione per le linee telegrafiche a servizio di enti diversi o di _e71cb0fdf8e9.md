@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto n. 2367 del 21 ottobre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367);
+Visto il [R. decreto n. 2367 del 21 ottobre 1923](Revisione%20delle%20entrate%20minori.%20023U2367.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta la necessita' urgente ed assoluta di chiarire la portata dell'art. 3 del citato [R. decreto n. 2367 del 21 ottobre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367) nei riguardi dell'applicazione dei canoni annui di manutenzione per le linee telegrafiche a servizio di enti diversi o di privati;
+Ritenuta la necessita' urgente ed assoluta di chiarire la portata dell'art. 3 del citato [R. decreto n. 2367 del 21 ottobre 1923](Revisione%20delle%20entrate%20minori.%20023U2367.md) nei riguardi dell'applicazione dei canoni annui di manutenzione per le linee telegrafiche a servizio di enti diversi o di privati;
 
 Sentito il Consiglio di amministrazione delle poste e dei telegrafi;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-I canoni annui di manutenzione per le linee telegrafiche a servizio di enti diversi o di privati, di cui all'[art. 3 del R. decreto n. 2367 del 21 ottobre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367#art_3), debbono intendersi riferibili, a decorrere dal 1° gennaio 1924, tanto alle linee con soli fili telegrafici, quanto a quelle con soli fili telefonici o con fili telegrafici e telefonici promiscuamente.
+I canoni annui di manutenzione per le linee telegrafiche a servizio di enti diversi o di privati, di cui all'[art. 3 del R. decreto n. 2367 del 21 ottobre 1923](Revisione%20delle%20entrate%20minori.%20023U2367.md), debbono intendersi riferibili, a decorrere dal 1° gennaio 1924, tanto alle linee con soli fili telegrafici, quanto a quelle con soli fili telefonici o con fili telegrafici e telefonici promiscuamente.
 
 ## Art. 2.
 

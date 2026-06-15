@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 dicembre 1934, n. 2048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-10;2048), che modifica l'importo del premio di arruolamento nell'Arma dei carabinieri Reali e nel Corpo degli agenti di pubblica sicurezza. 
+ E' convertito in legge il [R. decreto-legge 10 dicembre 1934, n. 2048](Riduzione%20di%20premio%20di%20arruolamento%20nellArma%20dei%20carabinieri%20Reali%20e%20nel%20Corpo%20degli%20agenti%20di%20P.S.%20034U2048.md), che modifica l'importo del premio di arruolamento nell'Arma dei carabinieri Reali e nel Corpo degli agenti di pubblica sicurezza. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

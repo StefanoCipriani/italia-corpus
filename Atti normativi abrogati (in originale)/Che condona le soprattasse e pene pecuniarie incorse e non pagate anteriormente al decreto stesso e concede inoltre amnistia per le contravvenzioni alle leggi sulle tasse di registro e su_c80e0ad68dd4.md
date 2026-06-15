@@ -38,11 +38,11 @@ Sono condonate le soprattasse e le pene pecuniarie incorse e non pagate prima de
  
  Il condono non ha luogo se entro il 31 dicembre 1918 non siano pagate integralmente le tasse dovute ed inoltre non siano adempiute nello stesso termine ed in quanto e' possibile le formalita' prescritte. 
  
- Rimangono ferme le disposizioni dell'[art. 9 della legge 23 gennaio 1902, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-01-23;25#art_9), allegato C, dell'art. 5 del decreto 11 febbraio 1915, n. 114, e dell'art. 1 del decreto 15 luglio 1915, n. 1153, circa il pagamento rateale delle tasse di successione ivi contemplate; ma il condono non ha luogo qualora per il mancato pagamento di una rata di tassa si incorra nella decadenza dalla dilazione concessa in base ai citati articoli.
+ Rimangono ferme le disposizioni dell'[art. 9 della legge 23 gennaio 1902, n. 25](Concernente%20sgravio%20di%20consumi%20ed%20altri%20provvedimenti%20finanziari%20002U0025.md), allegato C, dell'art. 5 del decreto 11 febbraio 1915, n. 114, e dell'art. 1 del decreto 15 luglio 1915, n. 1153, circa il pagamento rateale delle tasse di successione ivi contemplate; ma il condono non ha luogo qualora per il mancato pagamento di una rata di tassa si incorra nella decadenza dalla dilazione concessa in base ai citati articoli.
 
 ## Art. 2.
 
-Il ministro delle finanze e' autorizzato a concedere in via di grazia che alle tasse di registro scadute anteriormente alla entrata in vigore della [legge 23 aprile 1911, n. 509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-23;509), portante modificazioni alle tasse sugli affari, e non ancora pagata alla data della pubblicazione del presente decreto, siano applicate le mitigazioni e riduzioni portate dalla detta legge.
+Il ministro delle finanze e' autorizzato a concedere in via di grazia che alle tasse di registro scadute anteriormente alla entrata in vigore della [legge 23 aprile 1911, n. 509](Che%20apporta%20le%20modificazioni%20di%20alcune%20disposizioni%20delle%20leggi%20relative%20alle%20tasse%20di%20registro%20di%20bollo%20e%20per%20le%20concessioni%20governative%20011U0509.md), portante modificazioni alle tasse sugli affari, e non ancora pagata alla data della pubblicazione del presente decreto, siano applicate le mitigazioni e riduzioni portate dalla detta legge.
 
 ## Art. 3.
 

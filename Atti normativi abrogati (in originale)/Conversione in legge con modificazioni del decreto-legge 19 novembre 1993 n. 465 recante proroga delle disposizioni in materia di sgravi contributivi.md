@@ -43,7 +43,7 @@ Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effet
 
 1.
 
-A decorrere dal 1 gennaio 1994 si provvede, con decreto del Ministro del lavoro e della previdenza sociale, adottato di concerto con il Ministro del tesoro e con il Ministro del bilancio e della programmazione economica, e tenendo conto degli indirizzi della Unione Europea, alla definizione ed alla attribuzione, nei limiti dei fondi disponibili, degli sgravi contributivi di cui all'articolo 59 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218).
+A decorrere dal 1 gennaio 1994 si provvede, con decreto del Ministro del lavoro e della previdenza sociale, adottato di concerto con il Ministro del tesoro e con il Ministro del bilancio e della programmazione economica, e tenendo conto degli indirizzi della Unione Europea, alla definizione ed alla attribuzione, nei limiti dei fondi disponibili, degli sgravi contributivi di cui all'articolo 59 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

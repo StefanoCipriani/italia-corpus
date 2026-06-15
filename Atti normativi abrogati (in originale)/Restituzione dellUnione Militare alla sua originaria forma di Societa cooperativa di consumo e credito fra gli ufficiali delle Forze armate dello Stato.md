@@ -12,13 +12,13 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto legislativo 10 maggio 1946, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-10;262);
 
-Visto il [regio decreto-legge 27 ottobre 1926, n. 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-27;1999), portante trasformazione della gia' Societa' cooperativa "Unione Militare" in ente autonomo avente personalita' giuridica propria;
+Visto il [regio decreto-legge 27 ottobre 1926, n. 1999](Trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20026U1999.md), portante trasformazione della gia' Societa' cooperativa "Unione Militare" in ente autonomo avente personalita' giuridica propria;
 
-Visto il testo unico delle disposizioni legislative sul predetto Ente, approvato con [regio decreto 3 marzo 1937, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-03-03;375), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sul predetto Ente, approvato con [regio decreto 3 marzo 1937, n. 375](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20costituzione%20dellEnte%20autonomo%20Unione%20Militare.%20037U0375.md), e successive modificazioni;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -33,7 +33,7 @@ L'Ente autonomo "Unione Militare" e' restituito, nei termini e con le modalita' 
 
 ## Art. 2.
 
-Il periodo di tempo intercorso fra l'entrata in vigore dei [regio decreto-legge 27 ottobre 1926, n. 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-27;1999) e quello del presente decreto, non verra' computato come gestione sociale ed agli effetti della decorrenza del termine di durata della Societa' indicata nello statuto sociale originario.
+Il periodo di tempo intercorso fra l'entrata in vigore dei [regio decreto-legge 27 ottobre 1926, n. 1999](Trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20026U1999.md) e quello del presente decreto, non verra' computato come gestione sociale ed agli effetti della decorrenza del termine di durata della Societa' indicata nello statuto sociale originario.
 
 ## Art. 3.
 
@@ -53,7 +53,7 @@ Entro il termine di 60 giorni dalla data della consegna delle attivita' patrimon
 
 ## Art. 6.
 
-A decorrere dal giorno dell'effettuato trapasso del patrimonio dell'Ente alla Societa' cooperativa, cesseranno di aver vigore le disposizioni di cui al [regio decreto-legge 27 ottobre 1926, n. 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-27;1999), del testo unico approvato con [regio decreto 3 marzo 1937, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-03-03;375), e quella del regolamento generale, approvato con [regio decreto 31 marzo 1938, n. 732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-31;732), salvo la compilazione e il deposito dell'ultimo bilancio del soppresso Ente, per i quali si appureranno le norme di cui all'art 10 del predetto testo unico giusta quanto disposto dal precedente art. 4.
+A decorrere dal giorno dell'effettuato trapasso del patrimonio dell'Ente alla Societa' cooperativa, cesseranno di aver vigore le disposizioni di cui al [regio decreto-legge 27 ottobre 1926, n. 1999](Trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20026U1999.md), del testo unico approvato con [regio decreto 3 marzo 1937, n. 375](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20costituzione%20dellEnte%20autonomo%20Unione%20Militare.%20037U0375.md), e quella del regolamento generale, approvato con [regio decreto 31 marzo 1938, n. 732](Regolamento%20generale%20per%20il%20funzionamento%20dellUnione%20militare.%20038U0732.md), salvo la compilazione e il deposito dell'ultimo bilancio del soppresso Ente, per i quali si appureranno le norme di cui all'art 10 del predetto testo unico giusta quanto disposto dal precedente art. 4.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

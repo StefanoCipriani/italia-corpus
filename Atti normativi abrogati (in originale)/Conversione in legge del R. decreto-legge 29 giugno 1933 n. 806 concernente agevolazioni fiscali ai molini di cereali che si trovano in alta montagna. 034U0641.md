@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 giugno 1933, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-29;806), concernente agevolazioni fiscali ai molini di cereali che si trovano in alta montagna. 
+ E' convertito in legge il [R. decreto-legge 29 giugno 1933, n. 806](Agevolazioni%20fiscali%20ai%20molini%20di%20cereali%20che%20si%20trovano%20in%20alta%20montagna.%20033U0806.md), concernente agevolazioni fiscali ai molini di cereali che si trovano in alta montagna. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

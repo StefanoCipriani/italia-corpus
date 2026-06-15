@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102), sull'ordinamento dell'istruzione superiore, e sue successive modificazioni;
+Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sull'ordinamento dell'istruzione superiore, e sue successive modificazioni;
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ E' consentita la istituzione di Scuole di statistica annesse alla Facolta' di gi
  
  Le dette Scuole coordineranno i loro insegnamenti al fine di rilasciare un diploma il quale dia adito all'esame di Stato di abilitazione nelle discipline statistiche. 
  
- Le norme relative saranno, a mente degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_1) e [80 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_80), inserite negli statuti delle Universita'.
+ Le norme relative saranno, a mente degli [articoli 1](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e [80 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), inserite negli statuti delle Universita'.
 
 ## Art. 2.
 

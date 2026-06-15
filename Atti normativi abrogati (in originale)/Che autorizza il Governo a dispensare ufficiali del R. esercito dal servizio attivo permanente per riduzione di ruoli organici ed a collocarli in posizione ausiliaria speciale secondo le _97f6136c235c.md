@@ -14,17 +14,17 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito e il regolamento per la sua esecuzione approvato con [R. decreto 21 luglio 1907, n. 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-21;626), e le loro successive modificazioni;
+Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito e il regolamento per la sua esecuzione approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), e le loro successive modificazioni;
 
 Viste le [leggi 8 giugno 1913, n. 601, e 21 marzo 1915, n.301](Che%20porta%20aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20nel%20R.%20esercito%20015U0301.md) portanti modificazioni ed aggiunte alla legge sull'avanzamento nel R. esercito;
 
-Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina ed il regolamento per la sua esecuzione, approvato con [Regio decreto 18 luglio 1912, n. 867](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-07-18;867), e le loro successive modificazioni;
+Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina ed il regolamento per la sua esecuzione, approvato con [Regio decreto 18 luglio 1912, n. 867](Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md), e le loro successive modificazioni;
 
-Vista la [legge 17 ottobre 1881, n. 435](Che%20stabilisce%20una%20posizione%20di%20servizio%20ausiliario%20fra%20gli%20ufficiali%20del%20regio%20esercito.%20081U0435.md), sulla posizione ausiliaria e il [R. decreto 17 ottobre 1881, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-10-17;440), per l'esecuzione della legge;
+Vista la [legge 17 ottobre 1881, n. 435](Che%20stabilisce%20una%20posizione%20di%20servizio%20ausiliario%20fra%20gli%20ufficiali%20del%20regio%20esercito.%20081U0435.md), sulla posizione ausiliaria e il [R. decreto 17 ottobre 1881, n. 440](Che%20stabilisce%20le%20norme%20per%20il%20collocamento%20degli%20ufficiali%20nella%20posizione%20di%20servizio%20ausiliario%20e%20per%20la%20cessazione%20dalla%20medesima.%20081U0440.md), per l'esecuzione della legge;
 
 Vista la [legge 25 gennaio 1888, n. 5177](Sugli%20obblighi%20di%20servizio%20degli%20ufficiali%20in%20congedo.%20088U5177.md), circa gli obblighi di servizio degli ufficiali in congedo e successive modificazioni;
 
-Visto il testo unico sugli stipendi e assegni fissi per il R. esercito approvato con [R. decreto 14 luglio 1898, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;380), e successive modificazioni;
+Visto il testo unico sugli stipendi e assegni fissi per il R. esercito approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e successive modificazioni;
 
 Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con decreto 14 febbraio 1895 n. 70, e successive modificazioni;
 
@@ -38,7 +38,7 @@ Sulla proposta del ministro segretario di Stato per gli affari della guerra, di 
 
 E' fatta facolta' al Governo di dispensare dal servizio attivo permanente per riduzione di ruoli organici ufficiali del R. esercito nel limite dei posti da fissarsi volta per volta con decreto Reale, in redazione alla situazione dei quadri di ogni grado e di ogni arma o corpo. 
  
- Gli ufficiali dispensati dal servizio attivo permanente per riduzione di ruoli organici, verranno collocati in «posizione ausiliaria speciale» con le norme di cui al presente decreto, con gli stessi obblighi di servizio e di disciplina stabiliti dalla [legge 17 luglio 1881, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-17;435), e dal [R. decreto 17 ottobre 1881, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-10-17;440), per l'esecuzione di detta legge, in quanto non siano modificati dal presente decreto.
+ Gli ufficiali dispensati dal servizio attivo permanente per riduzione di ruoli organici, verranno collocati in «posizione ausiliaria speciale» con le norme di cui al presente decreto, con gli stessi obblighi di servizio e di disciplina stabiliti dalla [legge 17 luglio 1881, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-17;435), e dal [R. decreto 17 ottobre 1881, n. 440](Che%20stabilisce%20le%20norme%20per%20il%20collocamento%20degli%20ufficiali%20nella%20posizione%20di%20servizio%20ausiliario%20e%20per%20la%20cessazione%20dalla%20medesima.%20081U0440.md), per l'esecuzione di detta legge, in quanto non siano modificati dal presente decreto.
 
 ### Art. 2.
 

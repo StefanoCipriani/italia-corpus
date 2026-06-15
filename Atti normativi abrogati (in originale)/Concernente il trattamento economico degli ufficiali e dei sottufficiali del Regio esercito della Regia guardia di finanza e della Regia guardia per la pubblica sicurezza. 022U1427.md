@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la legge sugli stipendi ed assegni fissi dal Regio esercito, testo unico, approvato con [Regio decreto 14 luglio 1898, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;380), o successive modificazioni;
+Vista la legge sugli stipendi ed assegni fissi dal Regio esercito, testo unico, approvato con [Regio decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), o successive modificazioni;
 
 Visto il regolamento sugli stipendi ed assegni fissi per il Regio esercito, approvato con Regio decreto 10 dicembre 1882 e successive modificazioni;
 
@@ -26,7 +26,7 @@ Visto il [R. decreto 16 ottobre 1919, n. 1986](https://www.normattiva.it/uri-res
 
 Visto il decreto Luogotenenziale 6 aprile 1919, n, 494, riguardante provvedimenti per l'arma dei carabinieri Reali;
 
-Visto il [R. decreto 2 ottobre 1919, n. 1802](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1802), riguardante il riordinamento dell'arma dei carabinieri Reali;
+Visto il [R. decreto 2 ottobre 1919, n. 1802](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), riguardante il riordinamento dell'arma dei carabinieri Reali;
 
 Vista la [legge 13 agosto 1921, n. 1080](Che%20reca%20provvedimenti%20per%20la%20riforma%20dellAmministrazione%20dello%20Stato%20la%20semplificazione%20dei%20servizi%20e%20la%20riduzione%20del%20personale.%20021U1080.md), sulla riforma dell'Amministrazione dello Stato, la semplificazione dei servizi e la riduzione del personale;
 
@@ -63,7 +63,7 @@ L'anzianita' di servizio da ufficiale decorre dalla data del decreto di nomina a
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-12-18;1637), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 4.
 
@@ -100,7 +100,7 @@ Agli ufficiali (compresi quelli delle categorie in congedo) i quali durante la g
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-12-18;1637), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 8.
 
@@ -115,7 +115,7 @@ Agli ufficiali (compresi quelli delle categorie in congedo) che si trovino nelle
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-12-18;1637), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 9.
 
@@ -130,7 +130,7 @@ Gli ufficiali delle categorie in congedo, i quali siano chiamati in servizio pos
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 17 maggio 1923, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-17;1284), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 17 maggio 1923, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-17;1284), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 11.
 
@@ -180,7 +180,7 @@ Agli ufficiali delle categorie in congedo (esclusi quelli della posizione ausili
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 17 maggio 1923, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-17;1284), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 17 maggio 1923, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-17;1284), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 15.
 
@@ -197,7 +197,7 @@ Gli ufficiali, ai quali, nella promozione al grado superiore, fosse dovuto uno s
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 17 maggio 1923, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-17;1284), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 17 maggio 1923, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-17;1284), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 18.
 
@@ -260,7 +260,7 @@ Pei sottufficiali retrocessi o rimossi e nuovamente promossi non e' computato, a
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 17 maggio 1923, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-17;1284), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 17 maggio 1923, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-17;1284), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 25.
 
@@ -297,7 +297,7 @@ I benefici di cui agli articoli 7 e 8 del presente decreto relativi agli ufficia
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 17 maggio 1923, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-17;1284), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e del [Regio D.L. 18 dicembre 1922, n. 1637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-12-18;1637), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 17 maggio 1923, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-17;1284), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Indennità militare
 
@@ -380,7 +380,7 @@ Pei sottufficiali del R. esercito (compresi quelli dei carabinieri Reali) in ser
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-12-18;1637), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 35.
 
@@ -410,7 +410,7 @@ Dalla stessa data resta abrogata la [legge 4 aprile 1922, n. 418](Che%20concede%
  
  E' abrogato l'[art. 3 della legge 18 giugno 1922, n. 828](Riflettente%20il%20computo%20del%20tempo%20trascorso%20in%20zona%20darmistizio%20o%20in%20luoghi%20di%20cura%20per%20ferite%20e%20malattie%20riportate%20in%20guerra.%20022U0828.md), dalla data della sua entrata in vigore. 
  
- Sono abrogati, a partire dal 1° aprile 1922, l'ultimo comma dell'art. 39 aggiunto al [R. decreto-legge del 16 ottobre 1919, numero 1986](Che%20regola%20lo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali%20del%20R.%20esercito.%20019U1986.md), col [R. decreto-legge 10 febbraio 1921, n. 125](che%20apporta%20modificazioni%20a%20quello%2016%20ottobre%201919%20n.1936%20relativo%20allo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali%20del%20R.%20esercito.%20021U0125.md), riguardante i sergenti maggiori maniscalchi; e le disposizioni contenute nel [decreto Luogotenenziale 6 aprile 1919, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-06;494), e nel [R. decreto 2 ottobre 1919, n. 1802](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1802), relativo alle paghe, alle indennita' di grado, agli aumenti triennali di servizio ed aumenti quadriennali di grado per i sottufficiali dei carabinieri Reali. 
+ Sono abrogati, a partire dal 1° aprile 1922, l'ultimo comma dell'art. 39 aggiunto al [R. decreto-legge del 16 ottobre 1919, numero 1986](Che%20regola%20lo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali%20del%20R.%20esercito.%20019U1986.md), col [R. decreto-legge 10 febbraio 1921, n. 125](che%20apporta%20modificazioni%20a%20quello%2016%20ottobre%201919%20n.1936%20relativo%20allo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali%20del%20R.%20esercito.%20021U0125.md), riguardante i sergenti maggiori maniscalchi; e le disposizioni contenute nel [decreto Luogotenenziale 6 aprile 1919, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-06;494), e nel [R. decreto 2 ottobre 1919, n. 1802](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), relativo alle paghe, alle indennita' di grado, agli aumenti triennali di servizio ed aumenti quadriennali di grado per i sottufficiali dei carabinieri Reali. 
  
  Rimangono in vigore tutte le altre disposizioni che non contrastano col presente decreto; e sono abrogate tutte quelle contrarie. 
  

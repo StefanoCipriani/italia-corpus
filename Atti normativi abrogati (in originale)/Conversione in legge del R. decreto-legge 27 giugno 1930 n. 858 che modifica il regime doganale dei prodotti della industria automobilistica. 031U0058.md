@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 giugno 1930, n. 858](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-06-27;858), che modifica il regime doganale dei prodotti della industria automobilistica. 
+ E' convertito in legge il [R. decreto-legge 27 giugno 1930, n. 858](Modificazione%20del%20regime%20doganale%20dei%20prodotti%20dellindustria%20automobilistica.%20030U0858.md), che modifica il regime doganale dei prodotti della industria automobilistica. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 8 gennaio 1931 - Anno IX 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 aprile 1929, n. 927](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-04-04;927), recante norme per la disciplina dei mercati del pesce. 
+ E' convertito in legge il [R. decreto-legge 4 aprile 1929, n. 927](Disciplina%20dei%20mercati%20del%20pesce.%20029U0927.md), recante norme per la disciplina dei mercati del pesce. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

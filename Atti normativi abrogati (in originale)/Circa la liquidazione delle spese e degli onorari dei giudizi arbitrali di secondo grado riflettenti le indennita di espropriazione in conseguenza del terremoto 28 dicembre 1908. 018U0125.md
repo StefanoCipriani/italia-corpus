@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la legge sulle espropriazioni per pubblica utilita' 25 giugno 1865, n. 2359; 
  
- Visto il regolamento approvato con [R. decreto 6 aprile 1913, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-04-06;512); 
+ Visto il regolamento approvato con [R. decreto 6 aprile 1913, n. 512](Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20dellart.%2047%20della%20legge%2013%20luglio%201910%20n.%20466%20e%20dellart.%2026%20del%20R.%20decreto%2024%20dicembre%201911%20n.%201479%20convertito%20in%20legge%20con%20la%20legge%206%20l_a2a04e9abeb6.md); 
  
  Visto il [decreto Luogotenenziale 19 ottobre 1916, n. 1502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-19;1502); 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Tutte le spese dei giudizi arbitrali di secondo grado, nonche' gli onorari di avvocato e le funzioni di procuratore, sono liquidati ed assegnati dalla sentenza a norma degli [articoli 370 e seguenti del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_370), tenuto presente, ove occorra, il disposto dell'[art. 37 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_37). 
+ Tutte le spese dei giudizi arbitrali di secondo grado, nonche' gli onorari di avvocato e le funzioni di procuratore, sono liquidati ed assegnati dalla sentenza a norma degli [articoli 370 e seguenti del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_370), tenuto presente, ove occorra, il disposto dell'[art. 37 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
  
  Anche gli onorari pei componenti il Collegio arbitrale ed i compensi ai segretari da liquidarsi, fanno parte delle spese giudiziali e del relativo provvedimento della sentenza; ma essi saranno poi liquidati complessivamente per ogni giudizio in una somma variabile da un minimo di L. 500 ad un massimo di L. 1000, e ripartiti tra gli arbitri ed i segretari mediante decreto inappellabile del primo presidente della Corte di cassazione. 
  

@@ -22,7 +22,7 @@ In vista dell'autorita' a Noi delegata;
 
 Considerato che in seguito alla mobilitazione generale e alla dichiarazione dello stato di guerra si e' resa necessaria l'anticipata chiusura di tutti gli Istituti di istruzione media e normale;
 
-Ritenuta l'opportunita' di sospendere o di prorogare l'applicazione di alcune disposizioni delle [leggi 8 aprile 1906, nn. 141 e 442 e 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679);
+Ritenuta l'opportunita' di sospendere o di prorogare l'applicazione di alcune disposizioni delle [leggi 8 aprile 1906, nn. 141 e 442 e 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -36,7 +36,7 @@ Gl'insegnanti delle scuole medie e normali e dei corsi magistrali, estranei ai r
 
 Gl'insegnanti straordinari, per i quali il periodo di prova deve aver termine col 30 settembre 1915 e che non abbiano potuto subire la seconda ispezione, saranno promossi ordinari a decorrere dal 1° ottobre successivo, se il risultato della prima ispezione sia stato favorevole. Se tale risultato sia stato contrario essi saranno confermati per un anno nel grado di straordinario, e la loro promozione, ove la nuova ispezione abbia risultato favorevole, avra' effetto a decorrere dal 1° ottobre 1915. 
  
- La disposizione del comma precedente e' applicabile anche agli insegnanti straordinari e agli ordinari, ai quali il periodo di prova per la promozione o il passaggio definitivo ad altro ruolo, secondo l'articolo della [legge 8 aprile 1906, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142), scade col 30 settembre 1915, se la sola prova, al risultato favorevole della quale e' subordinata la promozione o il passaggio definitivo, non abbia potuto aver luogo prima della chiusura dell'Istituto nel quale insegnavano.
+ La disposizione del comma precedente e' applicabile anche agli insegnanti straordinari e agli ordinari, ai quali il periodo di prova per la promozione o il passaggio definitivo ad altro ruolo, secondo l'articolo della [legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md), scade col 30 settembre 1915, se la sola prova, al risultato favorevole della quale e' subordinata la promozione o il passaggio definitivo, non abbia potuto aver luogo prima della chiusura dell'Istituto nel quale insegnavano.
 
 ## Art. 3.
 
@@ -48,17 +48,17 @@ Fino a contraria disposizione e' sospesa la facolta' di disporre trasferimenti d
 
 ## Art. 5.
 
-Per l'anno scolastico 1915-916 e' sospesa l'applicazione dell'[art. 29 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_29).
+Per l'anno scolastico 1915-916 e' sospesa l'applicazione dell'[art. 29 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md).
 
 ## Art. 6.
 
-I termini, di cui agli articoli 52, n. 2, e 55, ultimo comma, della [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), potranno essere prorogati al 30 settembre 1916 per quegli insegnanti che, essendo chiamati a prestare servizio militare, non avranno potuto far pervenire entro il 30 settembre 1915, le dichiarazioni richieste dalle citate disposizioni. 
+I termini, di cui agli articoli 52, n. 2, e 55, ultimo comma, della [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), potranno essere prorogati al 30 settembre 1916 per quegli insegnanti che, essendo chiamati a prestare servizio militare, non avranno potuto far pervenire entro il 30 settembre 1915, le dichiarazioni richieste dalle citate disposizioni. 
  
  L'applicazione dell'art. 56, comma secondo, della legge anzidetta puo' essere rimandata all'anno scolastico 1916-917 per gli insegnanti di educazione fisica che si trovino nelle condizioni di cui al comma precedente.
 
 ## Art. 7.
 
-L'accertamento della idoneita' intellettuale e fisica degli insegnanti e capi d'Istituto, che alla promulgazione della [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), si trovavano nelle condizioni stabilite dall'art. 30 della stessa legge, o che siansi venuti successivamente a trovare nelle condizioni suddette, o verranno a trovarvisi entro il 31 dicembre 1915, potra' essere fatto anche durante l'anno scolastico 1915-916, se non abbia potuto essere eseguito prima della chiusura delle scuole cui detti insegnanti o capi d'Istituto appartengono.
+L'accertamento della idoneita' intellettuale e fisica degli insegnanti e capi d'Istituto, che alla promulgazione della [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), si trovavano nelle condizioni stabilite dall'art. 30 della stessa legge, o che siansi venuti successivamente a trovare nelle condizioni suddette, o verranno a trovarvisi entro il 31 dicembre 1915, potra' essere fatto anche durante l'anno scolastico 1915-916, se non abbia potuto essere eseguito prima della chiusura delle scuole cui detti insegnanti o capi d'Istituto appartengono.
 
 ## Art. 8.
 

@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sulla riscossione delle imposte dirette approvato col [R. decreto 17 ottobre 1922, n. 1401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-17;1401), e successive modifiche, nonche' il regolamento per l'applicazione del testo unico anzidetto, approvato col [R. decreto 15 settembre 1923, n. 2090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-15;2090);
+Visto il testo unico delle leggi sulla riscossione delle imposte dirette approvato col [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e successive modifiche, nonche' il regolamento per l'applicazione del testo unico anzidetto, approvato col [R. decreto 15 settembre 1923, n. 2090](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U2090.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -32,9 +32,9 @@ Per ottenere il rimborso a titolo di'inesigibilita' delle quote iscritte sui ruo
  
  Nel caso in cui la morosita' si manifestasse alla scadenza della terza rata o successive, agli effetti di cui al primo comma del presente articolo, sara' sufficiente che l'esattore dimostri di aver eseguito la sola procedura a saldo alla scadenza dell'ultima rata. 
  
- Restano ferme le procedure speciali per la riscossione del Prestito redimibile 5 per cento, di cui al [R. decreto-legge 5 ottobre 1936, n. 1743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-05;1743), convertito nella [legge 14 gennaio 1937, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-01-14;151); dei maggiori utili indisponibili e dell'imposta sui maggiori utili di guerra di cui al [testo unico 3 giugno 1943, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1943-06-03;598), modificato dal [decreto legislativo Luogotenenziale 10 agosto 1944, n. 199](Modificazioni%20alle%20norme%20concernenti%20limposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20044U0199.md), e le altre procedure previste dalle leggi speciali. 
+ Restano ferme le procedure speciali per la riscossione del Prestito redimibile 5 per cento, di cui al [R. decreto-legge 5 ottobre 1936, n. 1743](Emissione%20di%20un%20prestito%20redimibile%205%20ed%20applicazione%20di%20una%20imposta%20straordinaria%20sulla%20proprieta%20immobiliare%20per%20il%20servizio%20del%20prestito%20medesimo.%20036U1743.md), convertito nella [legge 14 gennaio 1937, n. 151](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20prestito%20redimibile%205%20per%20cento%20e%20lapplicazione%20di%20una%20imposta%20straordi_41caca0893b0.md); dei maggiori utili indisponibili e dell'imposta sui maggiori utili di guerra di cui al [testo unico 3 giugno 1943, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1943-06-03;598), modificato dal [decreto legislativo Luogotenenziale 10 agosto 1944, n. 199](Modificazioni%20alle%20norme%20concernenti%20limposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20044U0199.md), e le altre procedure previste dalle leggi speciali. 
  
- Restano salvi i termini per la presentazione delle domande di rimborso di cui all'[art. 26 della legge 16 giugno 1939, n. 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-16;942#art_26).
+ Restano salvi i termini per la presentazione delle domande di rimborso di cui all'[art. 26 della legge 16 giugno 1939, n. 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md).
 
 ## Art. 2.
 
@@ -45,7 +45,7 @@ Confermandosi la irreperibilita', l'atto assume efficacia di avviso di mora e di
 
 ## Art. 3.
 
-L'esattore e' autorizzato ad omettere le denuncie di morosita' ai sensi dell'[art. 35 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_35), e 13 della [legge 16 giugno 1939, numero 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-16;942), quando abbia gia' denunciato lo stato di morosita' del contribuente per le quote iscritte nei ruoli degli anni precedenti e tuttavia in mora.
+L'esattore e' autorizzato ad omettere le denuncie di morosita' ai sensi dell'[art. 35 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_35), e 13 della [legge 16 giugno 1939, numero 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md), quando abbia gia' denunciato lo stato di morosita' del contribuente per le quote iscritte nei ruoli degli anni precedenti e tuttavia in mora.
 
 ## Art. 4.
 

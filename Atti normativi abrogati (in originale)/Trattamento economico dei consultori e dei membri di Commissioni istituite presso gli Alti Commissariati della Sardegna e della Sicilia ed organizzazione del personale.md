@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti i [decreti legislativi Luogotenenziali 28 dicembre 1944, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;416), e [28 dicembre 1944, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;417), concernenti gli Alti Commissariati della Sicilia e della Sardegna;
+Visti i [decreti legislativi Luogotenenziali 28 dicembre 1944, n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md), e [28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md), concernenti gli Alti Commissariati della Sicilia e della Sardegna;
 
 Visto il [decreto legislativo Luogotenenziale 14 giugno 1945, n. 428](Norme%20amministrative%20per%20gli%20Alti%20Commissariati%20per%20la%20Sicilia%20e%20per%20la%20Sardegna.%20045U0428.md), contenente norme amministrative per gli Alti Commissariati predetti;
 
@@ -40,7 +40,7 @@ Ai membri delle Commissioni, dei Consigli e dei Comitati tecnici istituiti press
 
 Presso gli Alti Commissariati della Sardegna e della Sicilia possono essere comandati dipendenti di enti pubblici nel contingente che sara' determinato, per le singole categorie d'impiego, con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro per il tesoro, su proposta dell'Alto Commissario competente.
  Il comando e' disposto con decreto dell'Alto Commissario, di intesa con il capo dell'Ente interessato.
- Ai fini della determinazione della posizione gerarchica e delle eventuali indennita' spettanti, qualora gli ordinamenti dei singoli enti non stabiliscano gia' le parificazioni di grado col personale statale, ne' queste siano state determinate ai sensi dell'[art. 14, comma quinto, del decreto legislativo Luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722#art_14-com5), si applica la disposizione contenuta in detto comma.
+ Ai fini della determinazione della posizione gerarchica e delle eventuali indennita' spettanti, qualora gli ordinamenti dei singoli enti non stabiliscano gia' le parificazioni di grado col personale statale, ne' queste siano state determinate ai sensi dell'[art. 14, comma quinto, del decreto legislativo Luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), si applica la disposizione contenuta in detto comma.
  Il personale comandato ai sensi del primo comma del presente articolo conserva il trattamento, per competenze fondamentali, spettante organicamente presso l'Ente di appartenenza.
  La spesa per il trattamento economico spettante al personale comandato e' a carico degli Alti Commissariati.
 

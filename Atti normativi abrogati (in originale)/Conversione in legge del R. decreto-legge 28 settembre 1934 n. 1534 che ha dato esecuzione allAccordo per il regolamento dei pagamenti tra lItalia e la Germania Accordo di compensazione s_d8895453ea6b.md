@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1534](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1534), che ha dato esecuzione all'Accordo per il regolamento dei pagamenti tra l'Italia e la Germania, (Accordo di compensazione) stipulato in Berlino il 26 settembre 1934. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1534](Esecuzione%20dellAccordo%20per%20il%20regolamento%20dei%20pagamenti%20fra%20lItalia%20e%20la%20Germania%20Accordo%20di%20compensazione.%20034U1534.md), che ha dato esecuzione all'Accordo per il regolamento dei pagamenti tra l'Italia e la Germania, (Accordo di compensazione) stipulato in Berlino il 26 settembre 1934. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

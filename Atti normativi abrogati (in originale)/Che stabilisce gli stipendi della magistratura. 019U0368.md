@@ -30,7 +30,7 @@ Sulla proposta del guardasigilli, ministro segretario di Stato per gli affari di
 
 ## Art. 1.
 
-Fino a che non verra' stabilita una nuova tabella contenente il numero, i gradi, le categorie e gli stipendi dei magistrati, l'attuale tabella annessa alla [legge 27 dicembre 1914, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-27;1404), parzialmente modificata con decreto Ministeriale 13 marzo 1916, per effetto del [R. decreto 17 gennaio 1915, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-17;14), e' modificata come dalla tabella annessa al presente decreto, vista, d'ordine Nostro, dal ministro proponente.
+Fino a che non verra' stabilita una nuova tabella contenente il numero, i gradi, le categorie e gli stipendi dei magistrati, l'attuale tabella annessa alla [legge 27 dicembre 1914, n. 1404](Contenente%20disposizioni%20circa%20il%20personale%20della%20magistratura%20e%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20014U1404.md), parzialmente modificata con decreto Ministeriale 13 marzo 1916, per effetto del [R. decreto 17 gennaio 1915, n. 14](Col%20quale%20sono%20approvate%20le%20norme%20transitorie%20per%20lattuazione%20della%20legge%2027%20dicembre%201914%20n.%201404%20contenente%20disposizioni%20per%20la%20magistratura%20le%20cancellerie%20e%20segreterie%20giudiziarie.%20015U0014.md), e' modificata come dalla tabella annessa al presente decreto, vista, d'ordine Nostro, dal ministro proponente.
 
 ## Art. 2.
 

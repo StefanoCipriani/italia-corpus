@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 aprile 1933, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-04-03;266), concernente conferimento di pieni poteri al commissario straordinario dell'Istituto nazionale L.U.C.E. 
+ E' convertito in legge il [R. decreto-legge 3 aprile 1933, n. 266](Conferimento%20di%20pieni%20poteri%20al%20commissario%20straordinario%20dellistituto%20nazionale%20L.U.C.E.%20033U0266.md), concernente conferimento di pieni poteri al commissario straordinario dell'Istituto nazionale L.U.C.E. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

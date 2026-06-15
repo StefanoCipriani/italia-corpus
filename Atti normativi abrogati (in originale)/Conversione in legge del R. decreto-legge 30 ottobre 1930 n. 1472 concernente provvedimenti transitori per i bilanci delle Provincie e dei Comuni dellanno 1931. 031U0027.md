@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 ottobre 1930, n. 1472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-30;1472), riguardante provvedimenti transitori per i bilanci delle Provincie e dei Comuni dell'anno 1931. 
+ E' convertito in legge il [R. decreto-legge 30 ottobre 1930, n. 1472](Provvedimenti%20transitori%20per%20i%20bilanci%20delle%20Provincie%20e%20del%20Comuni%20dellanno%201931.%20030U1472.md), riguardante provvedimenti transitori per i bilanci delle Provincie e dei Comuni dell'anno 1931. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

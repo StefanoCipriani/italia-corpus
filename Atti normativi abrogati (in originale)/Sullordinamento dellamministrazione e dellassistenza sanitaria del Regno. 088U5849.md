@@ -278,7 +278,7 @@ In tutti gli scali di approdo del Regno sono stabiliti uffici di sanita' maritti
  
  Apposito regolamento approvato con decreto reale determinera' la classificazione degli scali e dei porti in ordine al servizio sanitario, il personale relativo e le norme speciali alla sanita' marittima, fermo il disposto delle leggi vigenti. 
  
- Le infrazioni alle disposizioni di questo regolamento saranno punite con pene pecuniarie da lire 5 a lire 500, salvo le applicazioni di quelle maggiori pene portate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e da altre leggi.
+ Le infrazioni alle disposizioni di questo regolamento saranno punite con pene pecuniarie da lire 5 a lire 500, salvo le applicazioni di quelle maggiori pene portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e da altre leggi.
 
 ## Dell'assistenza e vigilanza zooiatrica.
 
@@ -348,7 +348,7 @@ Nessuno puo' esercitare la professione di medico o chirurgo, veterinario, farmac
  
  Chi intende esercitare una di queste professioni a cui e' per legge abilitato in un comune, deve fare registrare il diploma nell'ufficio comunale nei modi prescritti dal regolamento. 
  
- I contravventori al prescritto nel presente articolo sono punibili colla pena pecuniaria non minore di lire 100, salvo le maggiori pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ I contravventori al prescritto nel presente articolo sono punibili colla pena pecuniaria non minore di lire 100, salvo le maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Sono eccettuati dal presente divieto i medici e i chirurghi forestieri espressamente chiamati per casi speciali, e quelli che, avendo diploma di qualche Universita' o scuola di medicina all'estero, esercitano la loro professione presso i soli stranieri.
 
@@ -529,7 +529,7 @@ Ogni comune deve essere fornito di acqua potabile riconosciuta pura e di buona q
  
  Ove questa manchi, sia insalubre o sia insufficiente ai bisogni della popolazione, il comune puo' essere, per decreto del ministro dell'interno, obbligato a provvedersene. 
  
- Chiunque contamini o corrompa l'acqua delle fonti, dei pozzi, delle cisterne, dei canali, degli acquedotti, dei serbatoi di acque potabili, e' punito con la pena pecuniaria da lire 51 a lire 500, e sara' inoltre tenuto a pagare le spese necessarie per riparare i danni prodotti; salvo le pene maggiori comminate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) nel caso sieno avvenuti danni alle persone.
+ Chiunque contamini o corrompa l'acqua delle fonti, dei pozzi, delle cisterne, dei canali, degli acquedotti, dei serbatoi di acque potabili, e' punito con la pena pecuniaria da lire 51 a lire 500, e sara' inoltre tenuto a pagare le spese necessarie per riparare i danni prodotti; salvo le pene maggiori comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nel caso sieno avvenuti danni alle persone.
 
 ## Misure contro la diffusione delle malattie infettive dell'uomo e degli animali.
 
@@ -539,7 +539,7 @@ CAPO II.
 
 Qualunque medico abbia osservato un caso di malattia infettiva e diffusiva pericolosa o sospetta di esserlo, deve immediatamente farne denunzia al sindaco ed all'ufficiale sanitario comunale, e coadiuvarli, ove occorra, nella esecuzione delle prime urgenti disposizioni ordinate per impedire la diffusione della malattia. 
  
- I contravventori sono puniti con pena pecuniaria estensibile a lire 500, alla quale nei casi gravi si aggiungera' la pena del carcere oltre le pene maggiori sancite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) pei danni recati alle persone.
+ I contravventori sono puniti con pena pecuniaria estensibile a lire 500, alla quale nei casi gravi si aggiungera' la pena del carcere oltre le pene maggiori sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei danni recati alle persone.
 
 ### Art. 46.
 
@@ -629,7 +629,7 @@ TITOLO V.
 
 I regolamenti locali di igiene conterranno le disposizioni speciali dipendenti dalla topografia del comune e dalle altre condizioni locali per l'esecuzione degli articoli di questa legge riguardanti l'assistenza medica e la vigilanza sanitaria, la salubrita' del suolo e delle abitazioni, la difesa della purezza dell'acqua potabile e l'igiene degli alimenti, le misure contro la diffusione delle malattie infettive dell'uomo e degli animali, e la polizia mortuaria; conterranno altresi' le prescrizioni per evitare o rimuovere altre cause di insalubrita' non enumerate in questa legge. 
  
- Le contravvenzioni alle prescrizioni dei regolamenti locali di igiene per le quali non sieno da questa legge stabilite pene speciali, sono punite con pene pecuniarie da lire 51 a lire 500, salvo sempre le pene maggiori sancite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) pei reati da esso previsti.
+ Le contravvenzioni alle prescrizioni dei regolamenti locali di igiene per le quali non sieno da questa legge stabilite pene speciali, sono punite con pene pecuniarie da lire 51 a lire 500, salvo sempre le pene maggiori sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei reati da esso previsti.
 
 ### Art. 61.
 
@@ -703,7 +703,7 @@ Le pene portate dalla presente legge saranno applicate dalle autorita' giudiziar
 
 ### Art. 67.
 
-Le pene pecuniarie comminate nella presente legge sono commutabili nel carcere o negli arresti a termini e nei modi prescritti dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+Le pene pecuniarie comminate nella presente legge sono commutabili nel carcere o negli arresti a termini e nei modi prescritti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Le disposizioni dello stesso Codice relative alle diminuzioni di pena in concorso di circostanze attenuanti sono applicabili alle sanzioni penali stabilite da questa legge.
 

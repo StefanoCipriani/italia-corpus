@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 6 dicembre 1960, n. 1479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-06;1479), sull'istituzione dei servizi tecnici dell'Esercito;
+Vista la [legge 6 dicembre 1960, n. 1479](Istituzione%20di%20servizi%20tecnici%20dellEsercito.md), sull'istituzione dei servizi tecnici dell'Esercito;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la difesa di concerto con il Ministro per il tes
 
 ## Art. 1.
 
-La valutazione dei titoli per la formazione delle graduatorie di ammissione ai corsi di cui all'[art. 4 della legge 6 dicembre 1960, n. 1479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-06;1479#art_4), e' effettuata da Commissioni nominate con decreto del Ministro per la difesa e composte:
+La valutazione dei titoli per la formazione delle graduatorie di ammissione ai corsi di cui all'[art. 4 della legge 6 dicembre 1960, n. 1479](Istituzione%20di%20servizi%20tecnici%20dellEsercito.md), e' effettuata da Commissioni nominate con decreto del Ministro per la difesa e composte:
  a) per ciascuno dei servizi tecnici del Genio, delle trasmissioni e geografico:
  dal maggior generale capo del rispettivo servizio, presente;
  da tre ufficiali superiori del rispettivo servizio, membri;
@@ -51,7 +51,7 @@ I titoli da valutare devono essere posseduti alla data di scadenza del termine d
 
 ## Art. 3.
 
-L'esame di ammissione ai corsi previsti per gli ufficiali non muniti di laurea dall'[art. 5, secondo comma, della legge 6 dicembre 1960, n. 1479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-06;1479#art_5-com2), ha lo scopo di accertare nei concorrenti la preparazione necessaria a seguire con profitto i corsi stessi e consiste, per ciascun corso, nelle seguenti prove:
+L'esame di ammissione ai corsi previsti per gli ufficiali non muniti di laurea dall'[art. 5, secondo comma, della legge 6 dicembre 1960, n. 1479](Istituzione%20di%20servizi%20tecnici%20dellEsercito.md), ha lo scopo di accertare nei concorrenti la preparazione necessaria a seguire con profitto i corsi stessi e consiste, per ciascun corso, nelle seguenti prove:
  a) corso biennale superiore tecnico del Genio:
  una prova scritta di costruzioni in ferro, legno, cemento armato;
  una prova orale per ciascuna delle seguenti quattro materie:
@@ -78,7 +78,7 @@ L'esame di ammissione ai corsi previsti per gli ufficiali non muniti di laurea d
 
 ## Art. 4.
 
-Il concorso per titoli ed esami, previsto dall'[art. 1 della legge 6 dicembre 1960, n. 1479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-06;1479#art_1), per l'ammissione di ufficiali subalterni di complemento dell'Esercito ad uno dei corsi indicati nell'art. 4 della stessa legge, viene espletato da apposite Commissioni costituite, per ciascun servizio tecnico, come segue:
+Il concorso per titoli ed esami, previsto dall'[art. 1 della legge 6 dicembre 1960, n. 1479](Istituzione%20di%20servizi%20tecnici%20dellEsercito.md), per l'ammissione di ufficiali subalterni di complemento dell'Esercito ad uno dei corsi indicati nell'art. 4 della stessa legge, viene espletato da apposite Commissioni costituite, per ciascun servizio tecnico, come segue:
  per la valutazione dei titoli e l'accertamento della conoscenza di una o piu' lingue estere, secondo le norma di cui ai precedenti articoli 1 e 2;
  per le prove di esame, secondo le norme di cui ai precedente art. 3, ultimo comma.
  I titoli da valutare sono quelli indicati per i concorrenti muniti di laurea nell'art. 2 del presente decreto.
@@ -134,7 +134,7 @@ La classificazione di ciascun ufficiale dopo ogni anno di corso e' determinata d
 
 ## Art. 11.
 
-Gli ufficiali ammessi ai corsi ai sensi dell'ultimo comma dell'art. 2 del presente decreto e compresi nelle graduatorie finali di ciascun corso sono trasferiti nei rispettivo Servizio tecnico, qualora rivestano il grado di capitano in servizio permanente effettivo e con le modalita' di cui al [secondo comma dell'art. 4 della legge 6 dicembre 1960, n. 1479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-06;1479#art_4-com2), dalla data del decreto con il quale il Ministro per la difesa approva le medesime graduatorie finali di ciascun corso.
+Gli ufficiali ammessi ai corsi ai sensi dell'ultimo comma dell'art. 2 del presente decreto e compresi nelle graduatorie finali di ciascun corso sono trasferiti nei rispettivo Servizio tecnico, qualora rivestano il grado di capitano in servizio permanente effettivo e con le modalita' di cui al [secondo comma dell'art. 4 della legge 6 dicembre 1960, n. 1479](Istituzione%20di%20servizi%20tecnici%20dellEsercito.md), dalla data del decreto con il quale il Ministro per la difesa approva le medesime graduatorie finali di ciascun corso.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

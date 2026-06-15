@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-L'attivita' relativa alla produzione bellica, comprendente il Commissariato delle armi e munizioni di cui all'articolo seguente e il Commissariato generale dell'aeronautica di cui al [R. decreto 1° novembre 1917, n. 1813](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1917-11-01;1813), e' rappresentata in Consiglio dei ministri dal ministro dei trasporti marittimi e ferroviari, che assume il titolo di ministro per le armi e i trasporti. 
+L'attivita' relativa alla produzione bellica, comprendente il Commissariato delle armi e munizioni di cui all'articolo seguente e il Commissariato generale dell'aeronautica di cui al [R. decreto 1° novembre 1917, n. 1813](Che%20istituisce%20per%20la%20durata%20della%20guerra%20un%20Commissariato%20generale%20per%20laereonautica%20avente%20sede%20presso%20il%20Ministero%20delle%20armi%20e%20munizioni.%20017U1813.md), e' rappresentata in Consiglio dei ministri dal ministro dei trasporti marittimi e ferroviari, che assume il titolo di ministro per le armi e i trasporti. 
  
  Tutti i provvedimenti per i quali sia richiesta una deliberazione del Consiglio dei ministri saranno presi su proposta del ministro suddetto che firmera' gli atti relativi, assumendone la responsabilita'.
 
 ## Art. 2.
 
-Tutti i servizi assegnati al Ministero per le armi e munizioni, giusta il [R. decreto 16 giugno 1917, n. 980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1917-06-16;980), sono affidati ad un commissario generale, il quale avra' la piena rappresentanza giuridica dell'amministrazione stessa, salvo le disposizioni degli articoli seguenti. 
+Tutti i servizi assegnati al Ministero per le armi e munizioni, giusta il [R. decreto 16 giugno 1917, n. 980](Concernente%20la%20divisione%20in%20due%20parti%20del%20Ministero%20della%20guerra%20con%20denominazione%20della%20prima%20Ministero%20della%20guerra%20e%20della%20seconda%20Ministero%20delle%20armi%20e%20munizioni.%20017U0980.md), sono affidati ad un commissario generale, il quale avra' la piena rappresentanza giuridica dell'amministrazione stessa, salvo le disposizioni degli articoli seguenti. 
  
  E' istituito presso il Commissariato suddetto un segretario generale che coadiuva il commissario generale e potra' sostituirlo in caso di assenza o impedimento. Il segretario generale e' nominato per decreto Reale, sentito il Consiglio dei ministri.
 

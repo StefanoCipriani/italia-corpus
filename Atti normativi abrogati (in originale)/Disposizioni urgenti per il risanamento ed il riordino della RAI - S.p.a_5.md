@@ -61,7 +61,7 @@ L'assemblea della societa' concessionaria del servizio pubblico radiotelevisivo 
 
 1.
 
-I crediti per capitale ed interessi vantati dalle Amministrazioni del tesoro e delle poste e delle telecomunicazioni nei confronti della societa' concessionaria del servizio pubblico radiotelevisivo, per i canoni di concessione del servizio radiotelevisivo di cui all'articolo 24 della convenzione tra il Ministero delle poste e delle telecomunicazioni e la RAI - Radiotelevisione italiana, approvata con [decreto del Presidente della Repubblica 1 agosto 1988, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-08-01;367), relativi agli esercizi 1992 e 1993, sono ceduti alla Cassa depositi e prestiti, contro il pagamento alle predette Amministrazioni degli importi di rispettiva competenza.
+I crediti per capitale ed interessi vantati dalle Amministrazioni del tesoro e delle poste e delle telecomunicazioni nei confronti della societa' concessionaria del servizio pubblico radiotelevisivo, per i canoni di concessione del servizio radiotelevisivo di cui all'articolo 24 della convenzione tra il Ministero delle poste e delle telecomunicazioni e la RAI - Radiotelevisione italiana, approvata con [decreto del Presidente della Repubblica 1 agosto 1988, n. 367](../DPR/Approvazione%20della%20convenzione%20tra%20il%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20la%20RAI%20-%20Radio%20televisione%20italiana%20S.p.a.%20per%20la%20concessione%20in%20esclusiva%20del%20servizio%20pubblico%20di_be3c3191325a.md), relativi agli esercizi 1992 e 1993, sono ceduti alla Cassa depositi e prestiti, contro il pagamento alle predette Amministrazioni degli importi di rispettiva competenza.
 
 2.
 
@@ -81,7 +81,7 @@ Le operazioni di cui agli articoli 2, 3 e 4 sono esenti da imposte e tasse.
 
 1.
 
-Alla concessione del servizio pubblico radiotelevisivo alla RAI - Radiotelevisione italiana S.p.a., di cui all'[articolo 2, comma 2, della legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223#art_2-com2), e successive modificazioni ed integrazioni, si applica l'[articolo 14, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_14-com3) e [4, del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_14-com4), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359).
+Alla concessione del servizio pubblico radiotelevisivo alla RAI - Radiotelevisione italiana S.p.a., di cui all'[articolo 2, comma 2, della legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223#art_2-com2), e successive modificazioni ed integrazioni, si applica l'[articolo 14, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_14-com3) e [4, del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_14-com4), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20luglio%201992%20n.%20333%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica.md).
 
 ## Art. 7.
 
@@ -106,7 +106,7 @@ Le incompatibilita' previste dall'articolo 7, comma 1, per i membri del consigli
 
 3.
 
-L'[articolo 7 del decreto-legge 6 dicembre 1984, n. 807](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-06;807#art_7), convertito, con modificazioni, dalla [legge 4 febbraio 1985, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-04;10), e' abrogato.
+L'[articolo 7 del decreto-legge 6 dicembre 1984, n. 807](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-06;807#art_7), convertito, con modificazioni, dalla [legge 4 febbraio 1985, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%201984%20n.%20807%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasmissioni%20radiotelevisive.md), e' abrogato.
 
 ## Art. 9.
 
@@ -142,7 +142,7 @@ Al complessivo onere derivante dall'attuazione del presente articolo, nei limiti
 
 1.
 
-Per l'anno 1994, il canone di concessione a carico della RAI - Radiotelevisione italiana S.p.a. e' determinato nella misura di lire 40 miliardi. Per il medesimo anno, non si applica il disposto dell'articolo 24 della convenzione tra il Ministero delle poste e delle telecomunicazioni e la RAI - Radiotelevisione italiana, approvata con [decreto del Presidente della Repubblica 1 agosto 1988, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-08-01;367).
+Per l'anno 1994, il canone di concessione a carico della RAI - Radiotelevisione italiana S.p.a. e' determinato nella misura di lire 40 miliardi. Per il medesimo anno, non si applica il disposto dell'articolo 24 della convenzione tra il Ministero delle poste e delle telecomunicazioni e la RAI - Radiotelevisione italiana, approvata con [decreto del Presidente della Repubblica 1 agosto 1988, n. 367](../DPR/Approvazione%20della%20convenzione%20tra%20il%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20la%20RAI%20-%20Radio%20televisione%20italiana%20S.p.a.%20per%20la%20concessione%20in%20esclusiva%20del%20servizio%20pubblico%20di_be3c3191325a.md).
 
 2.
 

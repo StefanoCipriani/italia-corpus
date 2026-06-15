@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 7 ottobre 1926, n. 1717](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-07;1717), che da' piena ed intera esecuzione al Protocollo addizionale al Trattato di commercio e di navigazione italo austriaco del 28 aprile 1923; Protocollo addizionale firmato in Roma fra l'Italia e l'Austria il 22 marzo 1926 e relativo al trattamento doganale del solfato di ammonio in Italia e dei superfosfati in Austria. 
+ E' convertito in legge il [R. decreto legge 7 ottobre 1926, n. 1717](Esecuzione%20del%20protocollo%20addizionale%20al%20Trattato%20di%20commercio%20e%20di%20navigazione%20italo-austriaco%20del%2028%20aprile%201923%20firmato%20in%20Roma%20il%2022%20marzo%201926%20e%20relativo%20al%20trattamento%20doganale%20del%20_b23c676f1c5e.md), che da' piena ed intera esecuzione al Protocollo addizionale al Trattato di commercio e di navigazione italo austriaco del 28 aprile 1923; Protocollo addizionale firmato in Roma fra l'Italia e l'Austria il 22 marzo 1926 e relativo al trattamento doganale del solfato di ammonio in Italia e dei superfosfati in Austria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

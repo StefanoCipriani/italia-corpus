@@ -18,7 +18,7 @@ VITTORIO EMANUELE III.
  
  RE D'ITALIA 
  
- Visto il Nostro [decreto-legge 13 gennaio 1924, n. 170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-01-13;170), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), che approvo' il piano regolatore di ampliamento della citta' di Firenze; 
+ Visto il Nostro [decreto-legge 13 gennaio 1924, n. 170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-01-13;170), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), che approvo' il piano regolatore di ampliamento della citta' di Firenze; 
  Visto il Nostro decreto 6 settembre 1928 che approvo' i piani parcellari della zona del Romito; 
  Vista la domanda in data 13 marzo 1930 presentata dal podesta' di Firenze per ottenere che sia approvata una modificazione al piano regolatore per destinare, in detta zona, a lotto edificatorio un'area nella quale secondo il piano regolatore e' prevista la costruzione di un giardino; 
  Ritenuto che il procedimento seguito e' regolare e che durante le pubblicazioni non furono presentati reclami; 

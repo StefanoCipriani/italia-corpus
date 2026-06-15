@@ -18,7 +18,7 @@ Agli ufficiali in servizio attivo permanente, dichiarati non idonei alle funzion
 
 L'[art. 4 del decreto Luogotenenziale n. 1646 del 14 novembre 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-14;1646#art_4) e' abrogato e sostituito dal seguente: 
  
- «La sospensione del giudizio sull'idoneita' all'avanzamento, per condizioni fisiche, di cui al paragrafo 155 del regolamento per l'applicazione della [legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254), potra' essere protratta, nei casi di infermita' non proveniente da causa di servizio, anche oltre la data sotto la quale all'ufficiale possa spettare l'effettiva promozione; pero', l'ufficiale che venga in seguito dichiarato idoneo all'avanzamento, non ricuperera', all'atto della promozione, l'anzianita' che gli sarebbe spettata qualora fosse stato promosso a suo turno, ma avra' l'anzianita' corrispondente alla data sotto cui, dopo la guarigione, sara' compilata la proposta d'avanzamento in suo favore. 
+ «La sospensione del giudizio sull'idoneita' all'avanzamento, per condizioni fisiche, di cui al paragrafo 155 del regolamento per l'applicazione della [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), potra' essere protratta, nei casi di infermita' non proveniente da causa di servizio, anche oltre la data sotto la quale all'ufficiale possa spettare l'effettiva promozione; pero', l'ufficiale che venga in seguito dichiarato idoneo all'avanzamento, non ricuperera', all'atto della promozione, l'anzianita' che gli sarebbe spettata qualora fosse stato promosso a suo turno, ma avra' l'anzianita' corrispondente alla data sotto cui, dopo la guarigione, sara' compilata la proposta d'avanzamento in suo favore. 
  
  Per l'ufficiale, pel quale venne emesso giudizio sospensivo all'avanzamento, per malattia proveniente da causa di servizio, la sospensione del giudizio potra' essere egualmente protratta, ed egli sara' promosso, non appena pronunziato in suo favore giudizio di idoneita', riprendendo l'anzianita' che gli sarebbe spettata qualora fosse stato promosso a turno. 
  
@@ -26,7 +26,7 @@ L'[art. 4 del decreto Luogotenenziale n. 1646 del 14 novembre 1915](https://www.
 
 ## Art. 3.
 
-Per la durata della guerra e per l'anno solare successivo, agli effetti dell'avanzamento, si considereranno come effettuate, a partire dal 1° gennaio 1915, per ogni anno e per ciascun grado, nei singoli ruoli delle armi e corpi, un numero di promozioni corrispondenti alla media quinquennale, di cui all'[art. 21 della legge 18 luglio 1912, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-18;806#art_21), sullo stato degli ufficiali, quale risultava a tutto il 1914.
+Per la durata della guerra e per l'anno solare successivo, agli effetti dell'avanzamento, si considereranno come effettuate, a partire dal 1° gennaio 1915, per ogni anno e per ciascun grado, nei singoli ruoli delle armi e corpi, un numero di promozioni corrispondenti alla media quinquennale, di cui all'[art. 21 della legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali, quale risultava a tutto il 1914.
 
 ## Art. 4.
 

@@ -340,7 +340,7 @@ Il detentore che abbia tentato l'esportazione o la divisione del materiale archi
 
 Alla stessa pena soggiace chi abbia tentato la distruzione o la dispersione del detto materiale. 
  
- Alla multa e' aggiunta, la confisca, del materiale archivistico, ai sensi del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), qualora si tratti del proprietario del materiale medesimo. 
+ Alla multa e' aggiunta, la confisca, del materiale archivistico, ai sensi del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), qualora si tratti del proprietario del materiale medesimo. 
  
  Nel caso in cui il colpevole raggiunga l'intento, la multa e' stabilita da L. 6000 a L. 24.000 oltre il pagamento di una indennita', pari al valore delle scritture. 
  
@@ -396,7 +396,7 @@ Qualora, nell'adozione dei provvedimenti contemplati nella presente legge, sorga
 
 ### Art. 44.
 
-E' trasferito, con i relativi oneri, alle dipendenze del Ministero dell'interno l'Archivio della Dogana delle Pecore, ricostituito giusta l'[art. 12 della legge 20 dicembre 1908, n. 746](Sul%20regime%20dei%20tratturi%20del%20Tavoliere%20di%20Puglia.%20008U0746.md), e riordinato con il [R. decreto 30 dicembre 1923, numero 3244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3244). 
+E' trasferito, con i relativi oneri, alle dipendenze del Ministero dell'interno l'Archivio della Dogana delle Pecore, ricostituito giusta l'[art. 12 della legge 20 dicembre 1908, n. 746](Sul%20regime%20dei%20tratturi%20del%20Tavoliere%20di%20Puglia.%20008U0746.md), e riordinato con il [R. decreto 30 dicembre 1923, numero 3244](Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md). 
  
  Nulla e' innovato alle attuali competenze del Ministero dell'agricoltura per quanto riguarda il servizio di riordinamento, raccolta, ricerca e rilascio di documenti che interessano il demanio tratturale.
 

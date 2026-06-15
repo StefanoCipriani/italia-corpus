@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli articoli 5, primo comma, 18, 19 e 20, ultimo comma, della [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382);
+Visti gli articoli 5, primo comma, 18, 19 e 20, ultimo comma, della [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md);
 
 Visto il regolamento di attuazione della rappresentanza militare, approvato con [decreto del Presidente della Repubblica 4 novembre 1979, n. 691](Regolamento%20che%20disciplina%20lattuazione%20della%20rappresentanza%20militare.md);
 
-Visto l'[art. 1, secondo comma, della legge 20 febbraio 1981, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-02-20;30#art_1-com2);
+Visto l'[art. 1, secondo comma, della legge 20 febbraio 1981, n. 30](Istituzione%20di%20direzioni%20di%20amministrazione%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
 
 Vista la determinazione del comandante generale della Guardia di
 

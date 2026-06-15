@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto-legge 28 febbraio 1939, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1939-02-28;334), convertito dalla [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), e successive modificazioni, istitutivo di una imposta di fabbricazione sugli oli minerali e sui prodotti della loro lavorazione;
+Visto il [decreto-legge 28 febbraio 1939, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1939-02-28;334), convertito dalla [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), e successive modificazioni, istitutivo di una imposta di fabbricazione sugli oli minerali e sui prodotti della loro lavorazione;
 
 Vista la [legge 19 marzo 1973, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-03-19;32), e successive modificazioni, concernente modificazioni al regime fiscale dei prodotti petroliferi e del gas metano;
 
@@ -28,7 +28,7 @@ E M A N A il seguente decreto:
 
 1.
 
-L'aliquota dell'imposta di fabbricazione e della corrispondente sovrimposta di confine prevista dal [decreto legislativo 10 aprile 1989, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-04-10;124), e' ridotta fino al 30 giugno 1989:
+L'aliquota dell'imposta di fabbricazione e della corrispondente sovrimposta di confine prevista dal [decreto legislativo 10 aprile 1989, n. 124](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20delle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi_4.md), e' ridotta fino al 30 giugno 1989:
                         a)
                             da L. 80.266 a L. 77.548 per ettolitro, alla temperatura di 15 C, per le benzine speciali diverse dall'acqua ragia minerale, per la benzina e per il petrolio diverso da quello lampante;
                         b)
@@ -36,7 +36,7 @@ L'aliquota dell'imposta di fabbricazione e della corrispondente sovrimposta di c
 
 2.
 
-Le disposizioni del [decreto legislativo 10 aprile 1989, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-04-10;124), relative alle aliquote dell'imposta di fabbricazione e della sovrimposta di confine sugli oli da gas da usare come combustibile, sul petrolio lampante per uso di illuminazione e riscaldamento, hanno effetto fino al 30 giugno 1989.
+Le disposizioni del [decreto legislativo 10 aprile 1989, n. 124](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20delle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi_4.md), relative alle aliquote dell'imposta di fabbricazione e della sovrimposta di confine sugli oli da gas da usare come combustibile, sul petrolio lampante per uso di illuminazione e riscaldamento, hanno effetto fino al 30 giugno 1989.
 
 ## Art. 2.
 
@@ -66,7 +66,7 @@ Gli aumenti di aliquote stabiliti nel comma 1 si applicano anche ai prodotti est
 
 1.
 
-Alle minori entrate derivanti dall'applicazione dell'articolo 1, valutate complessivamente in lire 145 miliardi per l'anno 1989, si provvede mediante parziale utilizzo, fino al predetto importo, delle maggiori entrate derivanti dagli aumenti disposti con l'articolo 2; l'eccedenza potra' essere destinata alla copertura delle eventuali ulteriori riduzioni di imposta disposte ai sensi della [legge 9 ottobre 1987, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-09;417), prorogata con la [legge 4 marzo 1989, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-04;76).
+Alle minori entrate derivanti dall'applicazione dell'articolo 1, valutate complessivamente in lire 145 miliardi per l'anno 1989, si provvede mediante parziale utilizzo, fino al predetto importo, delle maggiori entrate derivanti dagli aumenti disposti con l'articolo 2; l'eccedenza potra' essere destinata alla copertura delle eventuali ulteriori riduzioni di imposta disposte ai sensi della [legge 9 ottobre 1987, n. 417](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20concernenti%20laumento%20o%20la%20riduzione%20dellimposta%20di%20fabbricazione%20sui%20prodotti%20petroliferi%20con%20riferimento%20alla%20riduzione%20o%20allaumento%20dei%20prezzi_47231ed45b27.md), prorogata con la [legge 4 marzo 1989, n. 76](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20del%20termine%20per%20la%20delega%20al%20Governo%20ad%20emanare%20norme%20concernenti%20laumento%20o%20la%20riduzione%20dellimposta%20di%20fabbricazione%20sui%20prodotti%20petroliferi.md).
 
 ## Art. 4.
 

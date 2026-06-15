@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Le disposizioni contenute negli [articoli 3 del regio decreto-legge 10 gennaio 1926, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;169#art_3), convertito, con modificazioni, nella [legge del 29 dicembre 1927, n. 2701, 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-29;21) del [regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127) e [23 del regio decreto 21 giugno 1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-06-21;23), [n. 929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-06-21;929), non sono applicabili ai benefici dei numeri 1, 2, 3 e 4 dell'Annesso XV, lettera A, del Trattato di pace fra le Potenze Alleate ed Associate e l'Italia, firmato a Parigi il 10 febbraio 1947, ne' a quelli contemplati da Accordi stipulati o che verranno stipulati fra l'Italia e qualcuna, delle Potenze Alleate ed Associate in sostituzione del predetto Annesso XV, lettera A.
+Le disposizioni contenute negli [articoli 3 del regio decreto-legge 10 gennaio 1926, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;169#art_3), convertito, con modificazioni, nella [legge del 29 dicembre 1927, n. 2701, 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-29;21) del [regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md) e [23 del regio decreto 21 giugno 1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-06-21;23), [n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), non sono applicabili ai benefici dei numeri 1, 2, 3 e 4 dell'Annesso XV, lettera A, del Trattato di pace fra le Potenze Alleate ed Associate e l'Italia, firmato a Parigi il 10 febbraio 1947, ne' a quelli contemplati da Accordi stipulati o che verranno stipulati fra l'Italia e qualcuna, delle Potenze Alleate ed Associate in sostituzione del predetto Annesso XV, lettera A.
 
 ## Art. 2.
 

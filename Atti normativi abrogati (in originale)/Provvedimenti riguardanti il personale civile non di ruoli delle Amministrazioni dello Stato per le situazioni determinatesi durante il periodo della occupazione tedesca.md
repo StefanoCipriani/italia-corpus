@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-05;249);
+Visto il [decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](../Decreti%20legislativi%20luogotenenziali/Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 23 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-23;151#art_4);
 
@@ -33,7 +33,7 @@ Al personale civile non di ruoli, licenziato con provvedimento giuridicamente in
 
 ## Art. 3.
 
-La posizione del personale civile non di ruolo che alla data del licenziamento previsto dall'art. 1 si trovasse nelle condizioni indicate nel [regio decreto legge 1° aprile 1935, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-01;343), e successive estensioni, resta regolata dalle disposizioni contenute nel citato regio decreto-legge e successive modificazioni.
+La posizione del personale civile non di ruolo che alla data del licenziamento previsto dall'art. 1 si trovasse nelle condizioni indicate nel [regio decreto legge 1° aprile 1935, n. 343](Trattamento%20al%20personale%20statale%20e%20degli%20enti%20pubblici%20richiamato%20alle%20armi%20per%20mobilitazione.%20035U0343.md), e successive estensioni, resta regolata dalle disposizioni contenute nel citato regio decreto-legge e successive modificazioni.
  Per il personale previsto dal precedente comma congedato dal servizio militare anteriormente alla data di entrata in vigore di presente decreto, e che non abbia presentato la domanda di riammissione in servizio, il termine per la relativa presentazione decorre dalla data suddetta.
 
 ## Art. 4.

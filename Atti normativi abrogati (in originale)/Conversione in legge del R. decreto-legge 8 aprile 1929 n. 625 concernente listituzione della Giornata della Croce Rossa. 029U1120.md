@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 aprile 1929, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-04-08;625), concernente l'istituzione della «Giornata della Croce Rossa». 
+ E' convertito in legge il [R. decreto-legge 8 aprile 1929, n. 625](Istituzione%20della%20Giornata%20della%20Croce%20Rossa.%20029U0625.md), concernente l'istituzione della «Giornata della Croce Rossa». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

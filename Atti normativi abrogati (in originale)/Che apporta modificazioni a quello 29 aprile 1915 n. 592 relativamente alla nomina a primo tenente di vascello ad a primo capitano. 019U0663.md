@@ -40,7 +40,7 @@ L'art. 1° del [decreto-legge 29 aprile 1915, n. 592](https://www.normattiva.it/
 
 L'[art. 3 del decreto-legge 29 aprile 1915, n. 592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-04-29;592#art_3) e' abrogato e sostituito dal seguente: 
  
- «Ai primi tenenti ed ai primi capitani dei corpi militari della R. marina, che abbiano raggiunto dodici anni di grado o venti anni di anzianita' nel servizio attivo permanente spetta un'indennita' fissa di L. 200 annue, ferme restando le disposizioni della [legge 14 luglio 1907, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-14;469)».
+ «Ai primi tenenti ed ai primi capitani dei corpi militari della R. marina, che abbiano raggiunto dodici anni di grado o venti anni di anzianita' nel servizio attivo permanente spetta un'indennita' fissa di L. 200 annue, ferme restando le disposizioni della [legge 14 luglio 1907, n. 469](Miglioramenti%20per%20i%20tenenti%20e%20sottotenenti%20di%20vascello%20e%20gradi%20corrispondenti.%20007U0469.md)».
 
 ## Art. 3.
 

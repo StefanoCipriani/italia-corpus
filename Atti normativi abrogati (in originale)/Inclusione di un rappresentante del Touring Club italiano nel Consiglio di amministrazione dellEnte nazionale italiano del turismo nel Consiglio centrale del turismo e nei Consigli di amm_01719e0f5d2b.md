@@ -21,7 +21,7 @@ All'[articolo 5, primo comma, del decreto del Presidente della Repubblica 27 ago
 
 ## Art. 2.
 
-All'[articolo 2 del decreto del Presidente della Repubblica 27 agosto 1960, n. 1043](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-08-27;1043#art_2), e' aggiunto, in fine, il seguente alinea:
+All'[articolo 2 del decreto del Presidente della Repubblica 27 agosto 1960, n. 1043](../DPR/Riordinamento%20del%20Consiglio%20centrale%20del%20turismo.md), e' aggiunto, in fine, il seguente alinea:
  "un rappresentante del Touring Club italiano".
 
 ## Art. 3.

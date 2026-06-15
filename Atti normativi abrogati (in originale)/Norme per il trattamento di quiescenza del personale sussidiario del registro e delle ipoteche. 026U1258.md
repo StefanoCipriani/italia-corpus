@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Il servizio prestato in qualita' di commesso del registro e delle ipoteche dagli aiuto procuratori, aiuto conservatori ed applicati del registro e delle ipoteche anteriormente al 30 giugno 1919, e' considerato servizio straordinario ed e' quindi riscattabile, agli effetti della pensione, nella misura prevista dall'[art. 2 del R. decreto 21 novembre 1923, numero 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-21;2480#art_2).
+Il servizio prestato in qualita' di commesso del registro e delle ipoteche dagli aiuto procuratori, aiuto conservatori ed applicati del registro e delle ipoteche anteriormente al 30 giugno 1919, e' considerato servizio straordinario ed e' quindi riscattabile, agli effetti della pensione, nella misura prevista dall'[art. 2 del R. decreto 21 novembre 1923, numero 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md).
 
 ## Art. 2.
 

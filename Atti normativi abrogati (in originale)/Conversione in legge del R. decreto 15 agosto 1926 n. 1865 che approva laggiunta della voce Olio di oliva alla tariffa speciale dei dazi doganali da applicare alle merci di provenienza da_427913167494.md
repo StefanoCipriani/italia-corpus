@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 15 agosto 1926, n. 1865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-15;1865), che approva l'aggiunta della voce «Olio di oliva» alla tariffa speciale dei dazi doganali da applicare alle merci di provenienza dalle Colonie italiane, approvata con [R. decreto-legge 23 novembre 1921, n. 1797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-11-23;1797), e quantitativo da ammettere con trattamento di favore durante il 1926. 
+ E' convertito in legge il [R. decreto 15 agosto 1926, n. 1865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-15;1865), che approva l'aggiunta della voce «Olio di oliva» alla tariffa speciale dei dazi doganali da applicare alle merci di provenienza dalle Colonie italiane, approvata con [R. decreto-legge 23 novembre 1921, n. 1797](Che%20approva%20la%20tariffa%20dei%20dazi%20doganali%20per%20le%20merci%20di%20provenienza%20dalle%20colonie%20italiane.%20021U1797.md), e quantitativo da ammettere con trattamento di favore durante il 1926. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

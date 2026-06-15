@@ -19,7 +19,7 @@ PROMULGA la seguente legge:
 ## Articolo unico
 
 La Camera dei deputati e il Senato della Repubblica conservano i loro atti presso proprio archivio storico, secondo le determinazioni dei rispettivi Uffici di Presidenza. 
- E' soppressa la parola "legislativi" nel [primo comma, lettera a), n. 2, dell'articolo 1 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_1-com1-leta-num2).
+ E' soppressa la parola "legislativi" nel [primo comma, lettera a), n. 2, dell'articolo 1 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

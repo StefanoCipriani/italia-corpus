@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Entro l'anno accademico 1995-1996 il Ministro dell'universita' e della ricerca scientifica e tecnologica emana norme per il riordino del tirocinio post-laurea previsto dalla vigente tabella XVIII, allegata al [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652). Lo stesso Ministro indice, ogni anno, una sessione straordinaria degli esami di Stato per l'abilitazione all'esercizio professionale di medico chirurgo, sentita la Conferenza dei rettori delle universita' italiane per il raccordo con i cicli di espletamento degli esami di laurea, di completamento di tale tirocinio e con l'inizio dei corsi delle scuole di specializzazione.
+Entro l'anno accademico 1995-1996 il Ministro dell'universita' e della ricerca scientifica e tecnologica emana norme per il riordino del tirocinio post-laurea previsto dalla vigente tabella XVIII, allegata al [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md). Lo stesso Ministro indice, ogni anno, una sessione straordinaria degli esami di Stato per l'abilitazione all'esercizio professionale di medico chirurgo, sentita la Conferenza dei rettori delle universita' italiane per il raccordo con i cicli di espletamento degli esami di laurea, di completamento di tale tirocinio e con l'inizio dei corsi delle scuole di specializzazione.
 
 2.
 

@@ -48,13 +48,13 @@ In attesa dell'istituzione dell'apposito organismo per la certificazione dei con
 
 1.
 
-All'[articolo 14, comma 1, del decreto legge 23 giugno 1995, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244#art_14-com1), convertito, con modificazioni, dalla [legge 8 agosto 1995, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341), sono aggiunte, in fine, le seguenti parole: ", con l'assistenza di una segreteria tecnica composta, in relazione alla rilevanza dell'intervento, da uno o piu' dipendenti del competente Servizio per la contrattazione programmata, i cui oneri di funzionamento sono posti parimenti a carico dei fondi stanziati per l'accordo o contratto di programma.".
+All'[articolo 14, comma 1, del decreto legge 23 giugno 1995, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244#art_14-com1), convertito, con modificazioni, dalla [legge 8 agosto 1995, n. 341](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20giugno%201995%20n.%20244%20recante%20misure%20dirette%20ad%20accelerare%20il%20completamento%20degli%20interventi%20pubblici%20e%20la%20realizzazione%20dei%20nuovi_e8c9b0ef35b3.md), sono aggiunte, in fine, le seguenti parole: ", con l'assistenza di una segreteria tecnica composta, in relazione alla rilevanza dell'intervento, da uno o piu' dipendenti del competente Servizio per la contrattazione programmata, i cui oneri di funzionamento sono posti parimenti a carico dei fondi stanziati per l'accordo o contratto di programma.".
 
 ## Art. 5. — Proroga termini
 
 1.
 
-I termini previsti dall'[articolo 1, comma 3, del decreto legge 7 maggio 1997, n. 118](Disposizioni%20urgenti%20in%20materia%20di%20quote%20latte.md), convertito, con modificazioni, dalla [legge 3 luglio 1997, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-03;204), sono prorogati di sessanta giorni.
+I termini previsti dall'[articolo 1, comma 3, del decreto legge 7 maggio 1997, n. 118](Disposizioni%20urgenti%20in%20materia%20di%20quote%20latte.md), convertito, con modificazioni, dalla [legge 3 luglio 1997, n. 204](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20maggio%201997%20n.%20118%20recante%20disposizioni%20urgenti%20in%20materia%20di%20quote%20latte.md), sono prorogati di sessanta giorni.
 
 ## Art. 6. — Entrata in vigore
 

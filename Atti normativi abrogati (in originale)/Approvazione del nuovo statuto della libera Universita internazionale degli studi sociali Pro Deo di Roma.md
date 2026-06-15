@@ -12,11 +12,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Veduto lo statuto della libera Universita' internazionale degli studi sociali Pro Deo di Roma, approvato con [decreto del Presidente della Repubblica 5 maggio 1966, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1966-05-05;436) e modificato con [decreto del Presidente della Repubblica 31 maggio 1967, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-05-31;482);
+ Veduto lo statuto della libera Universita' internazionale degli studi sociali Pro Deo di Roma, approvato con [decreto del Presidente della Repubblica 5 maggio 1966, n. 436](../DPR/Istituzione%20dellUniversita%20internazionale%20degli%20studi%20sociali%20Pro%20Deo%20con%20sede%20in%20Roma.md) e modificato con [decreto del Presidente della Repubblica 31 maggio 1967, n. 482](../DPR/Istituzione%20della%20Facolta%20di%20scienze%20politiche%20presso%20la%20libera%20Universita%20internazionale%20degli%20studi%20sociali%20Pro%20Deo%20con%20sede%20in%20Roma.md);
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
- Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
- Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
- Veduta la [legge 11 aprile 1953, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Veduta la [legge 11 aprile 1953, n. 312](Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
  Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche della libera Universita' anzidetta;
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
  Sentito il parere del Consiglio superiore della pubblica istruzione;

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' istituita una Commissione con l'incarico di esaminare le singole domande di prestito e mutui presentate dai Comuni, Consorzi e dai privati danneggiati dall'alluvione del 3 settembre 1915, e di dare sopra le medesime il suo avviso di ammissione o meno in conformita' a quanto stabilisce in proposito il regolamento approvato con [R. decreto 8 ottobre 1905, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-10-08;536). 
+E' istituita una Commissione con l'incarico di esaminare le singole domande di prestito e mutui presentate dai Comuni, Consorzi e dai privati danneggiati dall'alluvione del 3 settembre 1915, e di dare sopra le medesime il suo avviso di ammissione o meno in conformita' a quanto stabilisce in proposito il regolamento approvato con [R. decreto 8 ottobre 1905, n. 536](Che%20approva%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2013%20luglio%201905%20n.%20400%20a%20favore%20dei%20danneggiati%20dalle%20alluvioni%20del%201%20semestre%201905%20e%20delluragano%20dei%2023%20e%2025%20giugno%201905.%20005U0536.md). 
  
  Spetta, altresi', alla Commissione di decidere sulle eventuali opposizioni alle domande di prestiti dei privati, e di prendere tutte quelle altre decisioni che ad essa sono devolute dall'art. 38 del regolamento.
 

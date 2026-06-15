@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2123), circa compensi daziari per i materiali nazionali impiegati nelle costruzioni navali disciplinate dal [R. decreto-legge 1° febbraio 1923, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-02-01;211). 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2123](Compensi%20daziari%20per%20i%20materiali%20nazionali%20impiegati%20nelle%20costruzioni%20navali%20disciplinate%20dal%20R.%20decreto-legge%201%20febbraio%201923%20n.%20211.%20027U2123.md), circa compensi daziari per i materiali nazionali impiegati nelle costruzioni navali disciplinate dal [R. decreto-legge 1° febbraio 1923, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-02-01;211). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

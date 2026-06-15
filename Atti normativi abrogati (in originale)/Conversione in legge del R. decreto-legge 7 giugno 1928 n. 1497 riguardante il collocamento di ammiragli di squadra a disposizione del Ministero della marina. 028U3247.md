@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 giugno 1928, n. 1497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-07;1497), riguardante il collocamento di ammiragli di squadra a disposizione del Ministero della marina. 
+ E' convertito in legge il [R. decreto-legge 7 giugno 1928, n. 1497](Collocamento%20di%20ammiragli%20di%20squadra%20a%20disposizione%20del%20Ministero%20della%20marina.%20028U1497.md), riguardante il collocamento di ammiragli di squadra a disposizione del Ministero della marina. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

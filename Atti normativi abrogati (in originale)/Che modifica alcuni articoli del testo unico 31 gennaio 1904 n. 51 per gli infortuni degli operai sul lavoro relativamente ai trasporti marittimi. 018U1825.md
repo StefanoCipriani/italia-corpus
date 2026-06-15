@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Veduta la legge ([testo unico) 31 gennaio 1904, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-01-31;51), per gli infortuni degli operai sul lavoro;
 
-Veduta la [legge 22 giugno 1913, n. 767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;767), sul riordinamento della Cassa invalidi della marina mercantile e del Fondo invalidi per la Veneta marina mercantile;
+Veduta la [legge 22 giugno 1913, n. 767](Che%20approva%20il%20riordinamento%20della%20Cassa%20invalidi%20della%20marina%20mercantile%20e%20del%20Fondo%20invalidi%20per%20la%20veneta%20marina%20mercantile.%20013U0767.md), sul riordinamento della Cassa invalidi della marina mercantile e del Fondo invalidi per la Veneta marina mercantile;
 
 Sentito il Consiglio dei ministri;
 

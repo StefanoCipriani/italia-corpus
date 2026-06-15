@@ -68,7 +68,7 @@ L'Ente, per disimpegnare i compiti e le attribuzioni di cui agli articoli 2 e 3 
  
  2° i proventi delle gestioni dirette; 
  
- 3° la speciale sopratassa di ancoraggio, istituita con l'[articolo 12 del decreto-legge luogotenenziale 10 marzo 1918, n. 448](Che%20dichiara%20di%20pubblica%20utilita%20le%20opere%20per%20lampliamento%20e%20sistemazione%20del%20porto%20di%20Napoli%20e%20ne%20approva%20e%20rende%20esecutoria%20la%20relativa%20convenzione%20in%20data%208%20febbraio%201918.%20018U0448.md), successivamente confermata con l'[art. 3 del R. decreto 25 marzo 1923, n. 1018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;1018#art_3); 
+ 3° la speciale sopratassa di ancoraggio, istituita con l'[articolo 12 del decreto-legge luogotenenziale 10 marzo 1918, n. 448](Che%20dichiara%20di%20pubblica%20utilita%20le%20opere%20per%20lampliamento%20e%20sistemazione%20del%20porto%20di%20Napoli%20e%20ne%20approva%20e%20rende%20esecutoria%20la%20relativa%20convenzione%20in%20data%208%20febbraio%201918.%20018U0448.md), successivamente confermata con l'[art. 3 del R. decreto 25 marzo 1923, n. 1018](Che%20stabilisce%20le%20attribuzioni%20del%20R.%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20023U1018.md); 
  
  4° i contributi obbligatori, che saranno stabiliti con decreto Reale, su proposta del Ministro per le comunicazioni, di concerto con i Ministri per le finanze, per le corporazioni e per la cultura popolare, a carico del Consiglio provinciale delle corporazioni di Napoli, del Banco di Napoli e dell'Ente provinciale per il turismo di Napoli; 
  

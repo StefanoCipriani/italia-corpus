@@ -93,7 +93,7 @@ Lo statuto di ciascun consorzio stabilira' anche le norme per l'esclusione dei s
 
 ## Art. 10.
 
-Coloro che, non appartenendo al consorzio, si attribuiscano la qualifica di consorziati od usino il marchio o segno distintivo adottato e trascritto dal consorzio medesimo, saranno puniti a norma del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e della [legge 30 agosto 1868, n. 4577](Concernente%20i%20marchi%20ed%20i%20segni%20distintivi%20di%20fabbrica.%20068U4577.md), e i loro nomi dovranno essere, a cura del Ministero dell'economia nazionale, segnalati in pubblicazioni ufficiali da designarsi dal regolamento.
+Coloro che, non appartenendo al consorzio, si attribuiscano la qualifica di consorziati od usino il marchio o segno distintivo adottato e trascritto dal consorzio medesimo, saranno puniti a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e della [legge 30 agosto 1868, n. 4577](Concernente%20i%20marchi%20ed%20i%20segni%20distintivi%20di%20fabbrica.%20068U4577.md), e i loro nomi dovranno essere, a cura del Ministero dell'economia nazionale, segnalati in pubblicazioni ufficiali da designarsi dal regolamento.
 
 ## Art. 11.
 
@@ -107,7 +107,7 @@ Il funzionamento tecnico di ciascun consorzio sara' regolato dal proprio Consigl
 
 ## Art. 12.
 
-Per il servizio relativo all'applicazione del presente decreto sara' assegnato, all'Ufficio dei servizi enologici dipendenti dalla Direzione generale dell'agricoltura, un funzionario del ruolo degli enotecnici governativi, di cui alla tabella 91 annessa al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395).
+Per il servizio relativo all'applicazione del presente decreto sara' assegnato, all'Ufficio dei servizi enologici dipendenti dalla Direzione generale dell'agricoltura, un funzionario del ruolo degli enotecnici governativi, di cui alla tabella 91 annessa al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 13.
 

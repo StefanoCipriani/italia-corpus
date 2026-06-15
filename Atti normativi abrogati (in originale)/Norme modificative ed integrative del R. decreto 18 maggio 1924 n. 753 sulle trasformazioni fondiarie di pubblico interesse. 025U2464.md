@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [testo unico 30 dicembre 1923, n. 3256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256), delle leggi sulle bonificazioni delle paludi e dei terreni paludosi e il [R. decreto 18 maggio 1924, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-18;753), convertito con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sulle trasformazioni fondiarie di pubblico interesse;
+Visto il [testo unico 30 dicembre 1923, n. 3256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256), delle leggi sulle bonificazioni delle paludi e dei terreni paludosi e il [R. decreto 18 maggio 1924, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-18;753), convertito con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), sulle trasformazioni fondiarie di pubblico interesse;
 
 Ritenuto che e' necessario perfezionare alcune disposizioni di dette leggi per corrispondere ad esigenze segnalate dal Parlamento ed e' urgente il provvedervi per non ritardare ancora l'applicazione di norme riconosciute utili al progresso agrario ed al risanamento igienico del Paese;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici di 
 
 ## Art. 1.
 
-Nei tre anni successivi alla pubblicazione della presente legge saranno determinati, con decreto Reale, su proposta dei Ministri per i lavori pubblici e per l'economia nazionale i comprensori da trasformare a sensi del [R. decreto-legge 18 maggio 1924, n. 753](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), convertito con [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), secondo l'ordine di urgenza. 
+Nei tre anni successivi alla pubblicazione della presente legge saranno determinati, con decreto Reale, su proposta dei Ministri per i lavori pubblici e per l'economia nazionale i comprensori da trasformare a sensi del [R. decreto-legge 18 maggio 1924, n. 753](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), convertito con [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), secondo l'ordine di urgenza. 
  
  All'uopo saranno designati quei territori che per dissesto idrogeologico, deficienza di viabilita', difetto di acque irrigue ed in generale per gravi cause di ordine fisico o sociale si trovino in condizioni arretrate di coltura, mentre appaiono suscettibili di essere trasformati con rilevanti risultati economici, tecnici e sociali. 
  
@@ -108,7 +108,7 @@ Con decreto Reale, su proposta dei Ministri per i lavori pubblici e per l'econom
  
  Quando siano discussi affari rientranti nella competenza territoriale dei Provveditorati alle opere pubbliche pel Mezzogiorno e le Isole, interverra' alle adunanze il provveditore o, in suo luogo, il vice provveditore, con voto deliberativo. 
  
- Alle adunanze del Comitato sara' pure chiamato a partecipare, ma soltanto con voto consultivo, un rappresentante dell'istituto di credito autorizzato a concedere, nel comprensorio da trasformare, i mutui di favore previsti dal [R. decreto 30 dicembre 1923, n. 3139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3139).
+ Alle adunanze del Comitato sara' pure chiamato a partecipare, ma soltanto con voto consultivo, un rappresentante dell'istituto di credito autorizzato a concedere, nel comprensorio da trasformare, i mutui di favore previsti dal [R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md).
 
 ## Art. 9.
 
@@ -139,7 +139,7 @@ Il Governo del Re e' autorizzato a coordinare col presente decreto e con quello 
 
 Le disposizioni degli articoli 4, 5, 6 si applicano anche alle concessioni di opere di bonifica idraulica, regolate dal [testo unico 30 dicembre 1923, n. 3256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256). 
  
- Sono abrogate le disposizioni del [1°](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md) e [2° comma dell'art. 2](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md) e degli [articoli 4](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), [12](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), [13](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), [14](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), [18 del R. decreto-legge 18 maggio 1924, n. 753](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), convertito con la [legge 17 aprile 1925, numero 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473).
+ Sono abrogate le disposizioni del [1°](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md) e [2° comma dell'art. 2](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md) e degli [articoli 4](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), [12](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), [13](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), [14](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), [18 del R. decreto-legge 18 maggio 1924, n. 753](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), convertito con la [legge 17 aprile 1925, numero 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md).
 
 ## Art. 12.
 

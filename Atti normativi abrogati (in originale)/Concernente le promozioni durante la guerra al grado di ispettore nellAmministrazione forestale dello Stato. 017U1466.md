@@ -20,13 +20,13 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;693);
+Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
 
-Visto il relativo regolamento generale, approvato con [R. decreto 24 novembre 1908, n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-24;756);
+Visto il relativo regolamento generale, approvato con [R. decreto 24 novembre 1908, n. 756](Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md);
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
-Visto il regolamento generale per l'esecuzione della [legge 2 giugno 1910, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277), contenente provvedimenti per il Demanio forestale di Stato e per la tutela e l'incoraggiamento della selvicoltura, approvato con Regio. decreto 19 febbraio 1911, n. 188;
+Visto il regolamento generale per l'esecuzione della [legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md), contenente provvedimenti per il Demanio forestale di Stato e per la tutela e l'incoraggiamento della selvicoltura, approvato con Regio. decreto 19 febbraio 1911, n. 188;
 
 Visto il [decreto Luogotenenziale 3 dicembre 1916, n. 1659](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-03;1659), contenente norme per le promozioni, durante la guerra, ai gradi di primo segretario e di primo ragioniere ed ai gradi corrispondenti;
 

@@ -10,21 +10,21 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visti il [regio decreto-legge 17 giugno 1937, n. 1048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-17;1048), sul perfezionamento e la generalizzazione degli assegni familiari ai prestatori di opera, convertito, con modificazioni, nella [legge 25 ottobre 1938, n. 2233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-10-25;2233) e il [regio decreto 21 luglio 1937, n. 1239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-21;1239), contenente norme integrative per la sua attuazione;
+Visti il [regio decreto-legge 17 giugno 1937, n. 1048](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md), sul perfezionamento e la generalizzazione degli assegni familiari ai prestatori di opera, convertito, con modificazioni, nella [legge 25 ottobre 1938, n. 2233](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20contenente%20disposizioni%20per%20il%20perfezionamento%20e%20la%20generalizzazione%20degli%20assegni%20familiari%20ai%20prest_b75c670e8a1f.md) e il [regio decreto 21 luglio 1937, n. 1239](Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md), contenente norme integrative per la sua attuazione;
 
-Vista la [legge 6 agosto 1940, n. 1278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-08-06;1278), per la istituzione della Cassa unica per gli assegni familiari;
+Vista la [legge 6 agosto 1940, n. 1278](Istituzione%20di%20una%20Cassa%20unica%20per%20gli%20assegni%20familiari%20ai%20lavoratori%20e%20disciplina%20della%20corresponsione%20degli%20assegni%20stessi%20al%20personale%20non%20usufruente%20di%20un%20trattamento%20di%20famiglia%20del_350b7c47914c.md), per la istituzione della Cassa unica per gli assegni familiari;
 
-Visto il [decreto legislativo luogotenenziale 9 novembre 1944, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-09;307), per la istituzione di assegni familiari supplementari di carovita e per la normalizzazione di quelli ordinari;
+Visto il [decreto legislativo luogotenenziale 9 novembre 1944, n. 307](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md), per la istituzione di assegni familiari supplementari di carovita e per la normalizzazione di quelli ordinari;
 
-Visto il [decreto legislativo luogotenenziale 15 agosto 1945, n. 552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-15;552), per l'aumento della misura degli assegni familiari supplementari di carovita;
+Visto il [decreto legislativo luogotenenziale 15 agosto 1945, n. 552](../Decreti%20legislativi%20luogotenenziali/Aumento%20degli%20assegni%20familiari%20supplementari%20di%20carovita.%20045U0552.md), per l'aumento della misura degli assegni familiari supplementari di carovita;
 
-Visto il [regio decreto 20 maggio 1946, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1946-05-20;369), per la determinazione del limite massimo della retribuzione fino alla concorrenza dei quale e' dovuto il contributo per gli assegni familiari;
+Visto il [regio decreto 20 maggio 1946, n. 369](Elevazione%20del%20limite%20massimo%20della%20retribuzione%20fino%20alla%20concorrenza%20del%20quale%20e%20dovuto%20il%20contributo%20per%20gli%20assegni%20familiari.md), per la determinazione del limite massimo della retribuzione fino alla concorrenza dei quale e' dovuto il contributo per gli assegni familiari;
 
 Visti i contratti collettivi concernenti norme integrative per la disciplina degli assegni familiari;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -32,10 +32,10 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-A far tempo dalla data di applicazione dei decreto 20 maggio 1946, n. 369, e salvo quanto e' previsto dal successivo art. 3 per le provincie in esso considerate, alla misura degli assegni familiari e dei relativi contributi risultanti dalle tabelle A, B, C, D, E, di cui all'art. 1. del [decreto legislativo luogotenenziale 9 novembre 1944, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-09;307). modificate col [decreto legislativo luogotenenziale 15 agosto 1945, n. 552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-15;552), e' sostituita quella stabilita nelle tabelle A-1 e A-2 per l'industria, B per l'agricoltura, C per il commercio, D per il credito, E per l'assicurazione, F per i servizi tributari appaltati e G per le professioni ed arti, allegate al presente decreto e firmate dal Ministro proponente. 
+A far tempo dalla data di applicazione dei decreto 20 maggio 1946, n. 369, e salvo quanto e' previsto dal successivo art. 3 per le provincie in esso considerate, alla misura degli assegni familiari e dei relativi contributi risultanti dalle tabelle A, B, C, D, E, di cui all'art. 1. del [decreto legislativo luogotenenziale 9 novembre 1944, n. 307](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md). modificate col [decreto legislativo luogotenenziale 15 agosto 1945, n. 552](../Decreti%20legislativi%20luogotenenziali/Aumento%20degli%20assegni%20familiari%20supplementari%20di%20carovita.%20045U0552.md), e' sostituita quella stabilita nelle tabelle A-1 e A-2 per l'industria, B per l'agricoltura, C per il commercio, D per il credito, E per l'assicurazione, F per i servizi tributari appaltati e G per le professioni ed arti, allegate al presente decreto e firmate dal Ministro proponente. 
  Il Ministro per il lavoro e la previdenza sociale con proprio decreto stabilira' quali categorie di aziende appartenenti al settore dell'industria, fra quelle nei cui confronti gli accordi sindacali non prevedono la corresponsione di quote familiari dell'indennita' di contingenza, sono tenute ad applicare per i propri dipendenti la misura degli assegni e dei contributi previsti dalla tabella A-2. 
  Per quelle categorie di aziende per le quali gli accordi sindacali non prevedono la corresponsione delle quote predette, il Ministro stesso puo' disporre, di concerto con il Ministro per il tesoro e gli altri Ministri interessati, l'applicazione dell'aumento degli assegni familiari risultante dalla tabella A-1 allegata al presente decreto e promuovera' la stipulazione fra le organizzazioni competenti di nuovi accordi per la disciplina delle quote medesime. 
- Nulla e' innovato alla procedura stabilita dall'[art. 1 del decreto legislativo luogotenenziale 9 novembre 1944, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-09;307#art_1), ai fini della modifica delle tabelle predente ne' alla facolta' prevista dall'articolo stesso per la determinazione, ove occorra, delle varie categorie di aziende rientranti nel campo di applicazione di ciascuna delle tabelle stesse.
+ Nulla e' innovato alla procedura stabilita dall'[art. 1 del decreto legislativo luogotenenziale 9 novembre 1944, n. 307](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md), ai fini della modifica delle tabelle predente ne' alla facolta' prevista dall'articolo stesso per la determinazione, ove occorra, delle varie categorie di aziende rientranti nel campo di applicazione di ciascuna delle tabelle stesse.
 
 ## Art. 2.
 
@@ -50,11 +50,11 @@ Per le provincie dell'italia centrale, meridionale e insulare, la misura degli a
 
 ## Art. 4.
 
-Con effetto dal 31 dicembre 1946 e' soppresso il concorso dello Stato per gli assegni familiari previsti dall'[art. 2 del regio decreto-legge 20 marzo 1941, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-03-20;122#art_2), modificato dall'[art. 2 del decreto legislativo luogotenenziale 9 novembre 1944, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-09;307#art_2).
+Con effetto dal 31 dicembre 1946 e' soppresso il concorso dello Stato per gli assegni familiari previsti dall'[art. 2 del regio decreto-legge 20 marzo 1941, n. 122](Aumento%20dal%2023%20marzo%20XIX%20e%20per%20tutta%20la%20durata%20della%20guerra%20degli%20assegni%20familiari%20in%20favore%20dei%20capi-famiglia.%20041U0122.md), modificato dall'[art. 2 del decreto legislativo luogotenenziale 9 novembre 1944, n. 307](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md).
 
 ## Art. 5.
 
-I salari medi stabiliti e da stabilirsi a norma dell'[articolo 5 della legge 6 agosto 1940, n. 1278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-08-06;1278#art_5), per particolari categorie di lavoratori ai fini del pagamento dei contributi per gli assegni familiari, non possono essere inferiori alla misura minima che sara' stabilita periodicamente con decreto del Ministro per il lavoro e la previdenza sociale.
+I salari medi stabiliti e da stabilirsi a norma dell'[articolo 5 della legge 6 agosto 1940, n. 1278](Istituzione%20di%20una%20Cassa%20unica%20per%20gli%20assegni%20familiari%20ai%20lavoratori%20e%20disciplina%20della%20corresponsione%20degli%20assegni%20stessi%20al%20personale%20non%20usufruente%20di%20un%20trattamento%20di%20famiglia%20del_350b7c47914c.md), per particolari categorie di lavoratori ai fini del pagamento dei contributi per gli assegni familiari, non possono essere inferiori alla misura minima che sara' stabilita periodicamente con decreto del Ministro per il lavoro e la previdenza sociale.
 
 ## Art. 6.
 
@@ -63,15 +63,15 @@ Il settore del credito, dell'assicurazione e dei servizi tributari appaltati dal
 
 ## Art. 7.
 
-Ciascuna delle sezioni del credito, dell'assicurazione dei servizi tributari appaltati del Comitato speciale per gli assegni familiari e' composta, oltre che dai membri cui alla [lettera a) dell'art. 2 del decreto legislativo luogotenenziale 8 febbraio 1946, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;54#art_2-leta). di tre rappresentanti delle rispettive categorie dei datori di lavoro e tre dei lavoratori, nominati dal Ministro per il lavoro e la previdenza, sociale, sentite le organizzazioni sindacali nazionali, ed e' presieduta dal presidente dell'istituto nazionale della previdenza sociale e in sua vece o impedimento, da uno dei vice presidenti dell'Istituto stesso.
+Ciascuna delle sezioni del credito, dell'assicurazione dei servizi tributari appaltati del Comitato speciale per gli assegni familiari e' composta, oltre che dai membri cui alla [lettera a) dell'art. 2 del decreto legislativo luogotenenziale 8 febbraio 1946, n. 54](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20del%20Comitato%20speciale%20per%20gli%20assegni%20familiari.md). di tre rappresentanti delle rispettive categorie dei datori di lavoro e tre dei lavoratori, nominati dal Ministro per il lavoro e la previdenza, sociale, sentite le organizzazioni sindacali nazionali, ed e' presieduta dal presidente dell'istituto nazionale della previdenza sociale e in sua vece o impedimento, da uno dei vice presidenti dell'Istituto stesso.
 
 ## Art. 8.
 
-Per il periodo dal 1° gennaio al 31 maggio 1946, le quote dei contributi previste per le aziende del credito dalla tabella D allegata al [decreto legislativo luogotenenziale 9 novembre 1944, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-09;307), in misura superiore a quella da essa stabilita per le banche di interesse nazionale. Sono ridotte al 29,50% in relazione all'importo della contribuzione assoggettabile a contributo nel periodo predetto.
+Per il periodo dal 1° gennaio al 31 maggio 1946, le quote dei contributi previste per le aziende del credito dalla tabella D allegata al [decreto legislativo luogotenenziale 9 novembre 1944, n. 307](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md), in misura superiore a quella da essa stabilita per le banche di interesse nazionale. Sono ridotte al 29,50% in relazione all'importo della contribuzione assoggettabile a contributo nel periodo predetto.
 
 ## Art. 9.
 
-Gli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-09;307#art_6) e [7 del decreto legislativo luogotenenziale 9 novembre 1944, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-09;307#art_7), sono sostituiti dal seguente: 
+Gli [articoli 6](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md) e [7 del decreto legislativo luogotenenziale 9 novembre 1944, n. 307](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md), sono sostituiti dal seguente: 
  Si considerano a carico del lavoratore i genitori qualora si verifichino le condizioni seguenti: 
  a) abbiano superato l'eta' di 69 anni per gli uomini e di 55 per le donne; ovvero siano riconosciuti permanentemente inabili al proficuo lavoro in base ai criteri stabiliti per le pensioni di invalidita' nell'assicurazione obbligatoria per l'invalidita' e vecchiaia; 
  b) non abbiano per retribuzioni, in dipendenza alla loro occupazione o per gli altri redditi di qualsiasi specie proventi superiori nel complesso a L. 3500 mensili per i due genitori e a L. 2000 nel caso di un solo genitore; 
@@ -81,7 +81,7 @@ Gli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.le
 
 ## Art. 10.
 
-L'[art. 29 del regio decreto-legge 17 giugno 1937, numero 1048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-17;1048#art_29), convertito in legge con la [legge 25 ottobre 1938, n. 2233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-10-25;2233), e' sostituito dal seguente: 
+L'[art. 29 del regio decreto-legge 17 giugno 1937, numero 1048](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md), convertito in legge con la [legge 25 ottobre 1938, n. 2233](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20contenente%20disposizioni%20per%20il%20perfezionamento%20e%20la%20generalizzazione%20degli%20assegni%20familiari%20ai%20prest_b75c670e8a1f.md), e' sostituito dal seguente: 
  
  Gli assegni familiari sono corrisposti per ciascun figlio a carico di eta' inferiore ai 14 anni compiuti per i prestatori d'opera aventi la qualifica di operaio e di eta' inferiore ai 18 anni compiuti per gli impiegati. 
  Tali limiti di eta' possono essere prorogati fino al 21° anno qualora il figlio a carico frequenti una scuola professionale media od universitaria e non presti lavoro retribuito".
@@ -92,7 +92,7 @@ L'assegno familiare per i figli o persone equiparate a carico, i quali si trovin
 
 ## Art. 12.
 
-Il diritto agli assegni familiari e' esteso alla moglie lavoratrice per il marito a carico invalido permanentemente al lavoro, ai sensi dell'[art. 19 del regio decreto 21 luglio 1937, n. 1239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-21;1239#art_19).
+Il diritto agli assegni familiari e' esteso alla moglie lavoratrice per il marito a carico invalido permanentemente al lavoro, ai sensi dell'[art. 19 del regio decreto 21 luglio 1937, n. 1239](Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md).
 
 ## Art. 13.
 
@@ -104,20 +104,20 @@ Ai fini del riconoscimento della qualifica di capo famiglia per il diritto agli 
 
 ## Art. 15.
 
-E' elevato a 10 giorni il termine previsto dall'[art. 37 del regio decreto 21 luglio 1937, n. 1239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-21;1239#art_37), per la presentazione dei rendiconti per il versamento dei contributi e per il pagamento degli assegni nel settore dell'industria. 
+E' elevato a 10 giorni il termine previsto dall'[art. 37 del regio decreto 21 luglio 1937, n. 1239](Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md), per la presentazione dei rendiconti per il versamento dei contributi e per il pagamento degli assegni nel settore dell'industria. 
  L'azione dei datori di lavoro per ottenere il rimborso degli assegni familiari e della eccedenza a loro favore fra contributi ed assegni, si prescrive nel termine di due anni a far tempo dalla scadenza del periodo di paga cui gli assegni si riferiscono.
 
 ## Art. 16.
 
-E' fissato in 120 giorni il termine per ricorrere al Comitato speciale per gli assegni familiari contro provvedimenti dell'Istituto nazionale della previdenza sociale a norma dell'[art. 19 del regio decreto-legge 17 giugno 1937, n. 1048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-17;1048#art_19), convertito in legge con la [legge 25 ottobre 1938, n. 2233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-10-25;2233).
+E' fissato in 120 giorni il termine per ricorrere al Comitato speciale per gli assegni familiari contro provvedimenti dell'Istituto nazionale della previdenza sociale a norma dell'[art. 19 del regio decreto-legge 17 giugno 1937, n. 1048](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md), convertito in legge con la [legge 25 ottobre 1938, n. 2233](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20contenente%20disposizioni%20per%20il%20perfezionamento%20e%20la%20generalizzazione%20degli%20assegni%20familiari%20ai%20prest_b75c670e8a1f.md).
 
 ## Art. 17.
 
-Per le infrazioni previste dall'[art. 24 del regio decreto-legge 17 giugno 1937, n. 1048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-17;1048#art_24), convertito in legge con la [legge 25 ottobre 1938, n 2233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-10-25;2233), i limiti minimo e massimo delle ammende sono fissati rispettivamente in L. 1000 e in L. 10.000.
+Per le infrazioni previste dall'[art. 24 del regio decreto-legge 17 giugno 1937, n. 1048](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md), convertito in legge con la [legge 25 ottobre 1938, n 2233](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20contenente%20disposizioni%20per%20il%20perfezionamento%20e%20la%20generalizzazione%20degli%20assegni%20familiari%20ai%20prest_b75c670e8a1f.md), i limiti minimo e massimo delle ammende sono fissati rispettivamente in L. 1000 e in L. 10.000.
 
 ## Art. 18.
 
-L'[art. 60 del regio decreto 21 luglio 1937, n. 1239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-21;1239#art_60), e' sostituito dal seguente: 
+L'[art. 60 del regio decreto 21 luglio 1937, n. 1239](Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md), e' sostituito dal seguente: 
  "Salvo che i fatti non costituiscano reato piu' grave i datori di lavoro e coloro che li rappresentano, sono puniti con l'ammenda da L. 500 a L. 5000 per le contravvenzioni alle disposizioni di cui agli articoli 32, 33, 34, 37, 46, 49, 51, 52, 53 e 56 del presente decreto. 
  Ogni lavoratore, per le infrazioni alle disposizioni di cui agli articoli 8 comma 2, 33, 45 commi 2, 53 comma 4, 59 comma 2 del presente decreto, e' punito con l'ammenda da L. 200 a L. 2000".
 

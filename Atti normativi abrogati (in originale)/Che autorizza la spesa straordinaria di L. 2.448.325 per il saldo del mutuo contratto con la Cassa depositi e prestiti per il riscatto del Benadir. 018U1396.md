@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato per le colonie, di concerto con 
 
 ## Articolo unico.
 
-E' autorizzata la spesa straordinaria di L. 2.448.325 per provvedere al pagamento al valore attuale delle annualita' ancora dovute alla Cassa dei depositi e prestiti sul mutuo di L. 3.600.000, con essa contratto per il riscatto del Benadir a' sensi delle [leggi 2 luglio 1905, n. 319; 30 giugno 1907, n. 499, e 18 giugno 1911, numero 543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-18;543). 
+E' autorizzata la spesa straordinaria di L. 2.448.325 per provvedere al pagamento al valore attuale delle annualita' ancora dovute alla Cassa dei depositi e prestiti sul mutuo di L. 3.600.000, con essa contratto per il riscatto del Benadir a' sensi delle [leggi 2 luglio 1905, n. 319; 30 giugno 1907, n. 499, e 18 giugno 1911, numero 543](Che%20apporta%20talune%20modificazioni%20alle%20leggi%20della%20Cassa%20depositi%20e%20prestiti%20ed%20altre%20disposizioni.%20011U0543.md). 
  
  L'inscrizione dell'accennata somma in uno speciale capitolo da istituirsi nello stato di previsione della spesa del Ministero delle colonie per l'esercizio finanziario 1918-919 e le altre variazioni di bilancio saranno apportate con decreto del ministro del tesoro. 
  

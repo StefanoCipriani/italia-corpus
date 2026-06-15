@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 marzo 1927, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-13;399), riguardante la dichiarazione di pubblica utilita' delle opere per la costruzione delle linee di allacciamento delle nuove calate occidentali del porto di Genova. 
+ E' convertito in legge il [R. decreto-legge 13 marzo 1927, n. 399](Dichiarazione%20di%20pubblica%20utilita%20delle%20opere%20relative%20allallacciamento%20ferroviario%20delle%20nuove%20calate%20occidentali%20del%20porto%20di%20Genova.%20027U0399.md), riguardante la dichiarazione di pubblica utilita' delle opere per la costruzione delle linee di allacciamento delle nuove calate occidentali del porto di Genova. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

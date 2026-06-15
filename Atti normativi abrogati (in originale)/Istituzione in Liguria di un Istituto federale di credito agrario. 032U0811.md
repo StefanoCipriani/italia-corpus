@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' autorizzata la trasformazione dell'Istituto di credito agrario della Liguria, di cui al [n. 4 dell'art. 14 del R. decreto-legge 29 luglio 1927, n. 1509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509#art_14-num4), in Istituto federale di credito agrario della Liguria, al quale potranno partecipare le Casse di risparmio ed i Consorzi agrari delle provincie liguri. 
+E' autorizzata la trasformazione dell'Istituto di credito agrario della Liguria, di cui al [n. 4 dell'art. 14 del R. decreto-legge 29 luglio 1927, n. 1509](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md), in Istituto federale di credito agrario della Liguria, al quale potranno partecipare le Casse di risparmio ed i Consorzi agrari delle provincie liguri. 
  
  L'Istituto federale predetto e' surrogato in tutte le funzioni, attivita' e passivita', obblighi e diritti, dell'Istituto di credito agrario della Liguria, e sono ad esso applicabili tutte le disposizioni contenute nel [R. decreto-legge 29 luglio 1929, n. 1509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-07-29;1509), e successive modificazioni, nonche' le norme regolamentari sul credito agrario, approvate col decreto interministeriale 23 gennaio 1928, pubblicato nella Gazzetta Ufficiale del Regno del 2 febbraio successivo, eccezione fatta per gli articoli 39 e 42. 
  

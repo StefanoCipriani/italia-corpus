@@ -100,7 +100,7 @@ Al conseguimento dei fini di cui all'art. 2 il Patronato provvede:
 
 ## Art. 10.
 
-Il contributo obbligatorio al Patronato scolastico a carico del bilancio comunale, a norma dell'art. 91, lettera f), numero 13 del testo unico sulla legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), e' fissato nella misura minima di lire due annue per abitante, sulla base della popolazione residente quale risulta dall'ultimo censimento con facolta' ai Comuni di determinare una eventuale maggiorazione nel bilancio annuale.
+Il contributo obbligatorio al Patronato scolastico a carico del bilancio comunale, a norma dell'art. 91, lettera f), numero 13 del testo unico sulla legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e' fissato nella misura minima di lire due annue per abitante, sulla base della popolazione residente quale risulta dall'ultimo censimento con facolta' ai Comuni di determinare una eventuale maggiorazione nel bilancio annuale.
  Qualora nei bilanci dei Comuni per l'esercizio anteriore a quello della entrata in vigore del presente decreto siano stati previsti a favore del Patronato scolastico, contributi per un importo superiore a quello di cui al precedente comma, il Ministero dell'interno puo', con proprio decreto, su richiesta del Provveditore agli studi, sentita l'autorita' tutora competente, vincolare tale eccedenza, con carattere continuativo, a favore del Patronato stesso.
 
 ## Art. 11.
@@ -154,7 +154,7 @@ I. comunque provenienti dai Patronati scolastici saranno restituiti a questi ult
 
 ## Art. 19.
 
-Con decreto del Capo dello Stato, ai sensi della [legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100), verranno emanate le norme per l'attuazione del presente decreto legislativo.
+Con decreto del Capo dello Stato, ai sensi della [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), verranno emanate le norme per l'attuazione del presente decreto legislativo.
 
 Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 gennaio 1927, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-20;121), contenente modifiche al [R. decreto-legge 14 giugno 1923, n. 1363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-14;1363), che erige in ente morale l'Alleanza cooperativa torinese. 
+ E' convertito in legge il [R. decreto-legge 20 gennaio 1927, n. 121](Modificazione%20del%20R.%20decreto-legge%2014%20giugno%201923%20n%201363%20che%20erige%20in%20ente%20morale%20lAlleanza%20cooperativa%20torinese.%20027U0121.md), contenente modifiche al [R. decreto-legge 14 giugno 1923, n. 1363](Sistemazione%20definitiva%20dellAlleanza%20Cooperativa%20Torinese.%20023U1363.md), che erige in ente morale l'Alleanza cooperativa torinese. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

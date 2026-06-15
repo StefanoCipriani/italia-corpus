@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), modificato con [regi decreti 12 gennaio 1941, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-12;34), [27 aprile 1942, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;571);
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Torino.%20039U1118.md), modificato con [regi decreti 12 gennaio 1941, n. 34](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Torino.%20041U0034.md), [27 aprile 1942, n. 571](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Torino.%20042U0571.md);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
 
 Vedute le proposte relative allo statuto dell'Universita' di Torino;
 
@@ -74,9 +74,9 @@ Registrato alla Corte dei Conti, addi' 9 aprile 1947 Atti del Governo, registro 
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), modificato con [regi decreti 12 gennaio 1941, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-12;34), [27 aprile 1942, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;571);
+ Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Torino.%20039U1118.md), modificato con [regi decreti 12 gennaio 1941, n. 34](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Torino.%20041U0034.md), [27 aprile 1942, n. 571](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Torino.%20042U0571.md);
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
- Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
  Vedute le proposte relative allo statuto dell'Universita' di Torino;
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
  Sentito il parere del Consiglio superiore della pubblica istruzione;

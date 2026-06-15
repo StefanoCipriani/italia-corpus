@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- A deroga dell'art. 42 del testo unico di legge sugli Istituti di emissione, approvato col [R. decreto 9 ottobre 1900, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-10-09;373), gli Istituti stessi hanno facolta' di fare alle provincie, delle quali abbiano assunto il servizio di ricevitoria delle imposte dirette, versamenti anticipati di sovrimposta, per un ammontare non superiore a quello di una rata bimestrale. 
+ A deroga dell'art. 42 del testo unico di legge sugli Istituti di emissione, approvato col [R. decreto 9 ottobre 1900, n. 373](Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md), gli Istituti stessi hanno facolta' di fare alle provincie, delle quali abbiano assunto il servizio di ricevitoria delle imposte dirette, versamenti anticipati di sovrimposta, per un ammontare non superiore a quello di una rata bimestrale. 
  
  Le somme anticipate dovranno essere rimborsate entro il termine massimo di sei mesi dalla data del versamento, e non potra' farsi una nuova anticipazione a favore di una medesima Provincia se non dopo trascorsi tre mesi dall'integrale restituzione della precedente. 
  

@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625), convertito nella [legge 21 dicembre 1915, numero 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774); 
+ Visto il [decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625), convertito nella [legge 21 dicembre 1915, numero 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md); 
  
  Udito il Consiglio dei ministri; 
  

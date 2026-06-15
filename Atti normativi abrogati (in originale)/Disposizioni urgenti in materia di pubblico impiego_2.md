@@ -24,7 +24,7 @@ E M A N A il seguente decreto:
 
 1.
 
-Il personale soggetto a mobilita' d'ufficio, che non accetti la destinazione alla sede assegnata, ovvero che non assuma servizio in tale sede nel termine stabilito, e' collocato in disponibilita' ai sensi dell'articolo 72 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3). Al personale collocato in disponibilita' non si applicano gli articoli 74, 75, 76 e 77, ultimo comma, dello stesso testo unico.
+Il personale soggetto a mobilita' d'ufficio, che non accetti la destinazione alla sede assegnata, ovvero che non assuma servizio in tale sede nel termine stabilito, e' collocato in disponibilita' ai sensi dell'articolo 72 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md). Al personale collocato in disponibilita' non si applicano gli articoli 74, 75, 76 e 77, ultimo comma, dello stesso testo unico.
 
 ## Art. 2.
 
@@ -58,7 +58,7 @@ Per importo corrispondente alle classi o aumenti biennali maturati nella posizio
 
 2.
 
-Ai fini dell'applicazione del [terzo comma dell'articolo 1- bis del decreto-legge 23 dicembre 1978, n. 814](Proroga%20del%20termine%20previsto%20dagli%20articoli%2015%20e%2017%20della%20legge%2010%20dicembre%201973%20n.%20804%20per%20il%20collocamento%20in%20aspettativa%20per%20riduzione%20di%20quadri%20degli%20ufficiali%20delle%20Forze%20armate%20e%20dei_811eb82cb639.md), convertito, con modificazioni, dalla [legge 19 febbraio 1979, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-19;52), nei confronti degli ufficiali delle Forze armate e dei Corpi di polizia dello Stato, il computo degli anni intercorrenti tra la data di cessazione effettiva dal servizio permanente e quella del raggiungimento dei limiti di eta' previsti per il collocamento in congedo, va effettuato considerando il trattamento economico spettante al momento della suddetta cessazione dal servizio.
+Ai fini dell'applicazione del [terzo comma dell'articolo 1- bis del decreto-legge 23 dicembre 1978, n. 814](Proroga%20del%20termine%20previsto%20dagli%20articoli%2015%20e%2017%20della%20legge%2010%20dicembre%201973%20n.%20804%20per%20il%20collocamento%20in%20aspettativa%20per%20riduzione%20di%20quadri%20degli%20ufficiali%20delle%20Forze%20armate%20e%20dei_811eb82cb639.md), convertito, con modificazioni, dalla [legge 19 febbraio 1979, n. 52](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201978%20n.%20814%20concernente%20proroga%20del%20termine%20previsto%20dagli%20articoli%2015%20e%2017%20della%20legge%2010%20dicembre%201973%20n.%20804%20per%20il_d12664512086.md), nei confronti degli ufficiali delle Forze armate e dei Corpi di polizia dello Stato, il computo degli anni intercorrenti tra la data di cessazione effettiva dal servizio permanente e quella del raggiungimento dei limiti di eta' previsti per il collocamento in congedo, va effettuato considerando il trattamento economico spettante al momento della suddetta cessazione dal servizio.
 
 3.
 

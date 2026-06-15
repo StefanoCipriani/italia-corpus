@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 aprile 1926, n. 1044](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-03;1044), riguardante l'applicazione dell'[art. 6 del R. decreto-legge 25 settembre 1921, n. 1336](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-09-25;1336#art_6), circa il contributo di ammortamento ai piroscafi costruiti nei cantieri nazionali. 
+ E' convertito in legge il [R. decreto-legge 3 aprile 1926, n. 1044](Applicazione%20dellart.%206%20del%20R.%20decreto-legge%2025%20settembre%201921%20n.%201336%20circa%20il%20contributo%20di%20ammortamento%20ai%20piroscafi%20costruiti%20nei%20cantieri%20nazionali.%20026U1044.md), riguardante l'applicazione dell'[art. 6 del R. decreto-legge 25 settembre 1921, n. 1336](Che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20della%20navigazione%20marittima.%20021U1336.md), circa il contributo di ammortamento ai piroscafi costruiti nei cantieri nazionali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

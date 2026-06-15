@@ -22,7 +22,7 @@ Visto il [decreto legislativo Luogotenenziale 1° agosto 1945, n. 697](Norme%20p
 
 Visto il [decreto Luogotenenziale 1° agosto 1945, numero 718](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-01;718), per la determinazione dell'importo predetto;
 
-Vista la [legge 10 giugno 1940, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-10;653), ed il [R. decretolegge 20 marzo 1941, n. 123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-03-20;123), concernenti il trattamento degli impiegati privati richiamati alle armi;
+Vista la [legge 10 giugno 1940, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-10;653), ed il [R. decretolegge 20 marzo 1941, n. 123](Trattamento%20degli%20impiegati%20privati%20e%20lavoratori%20assimilati%20richiamati%20o%20trattenuti%20alle%20armi%20o%20occupati%20allestero%20e%20assegnati%20a%20campi%20di%20concentramento%20o%20a%20confino%20o%20dichiarati%20dispersi%20_94aaa5aac5ce.md), concernenti il trattamento degli impiegati privati richiamati alle armi;
 
 Visti i contratti collettivi concernenti il trattamento degli operai dell'industria richiamati alle armi e quelli concernenti la integrazione dei guadagni dei lavoratori dell industria;
 

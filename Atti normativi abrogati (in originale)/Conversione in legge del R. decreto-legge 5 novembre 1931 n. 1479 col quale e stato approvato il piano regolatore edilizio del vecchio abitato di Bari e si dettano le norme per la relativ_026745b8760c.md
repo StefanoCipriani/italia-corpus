@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 novembre 1931, n. 1479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-05;1479), con il quale e' stato approvato il piano regolatore edilizio del vecchio abitato della citta' di Bari e si dettano le norme per la relativa esecuzione. 
+ E' convertito in legge il [R. decreto-legge 5 novembre 1931, n. 1479](Approvazione%20del%20piano%20regolatore%20edilizio%20del%20vecchio%20abitato%20della%20citta%20di%20Bari.%20031U1479.md), con il quale e' stato approvato il piano regolatore edilizio del vecchio abitato della citta' di Bari e si dettano le norme per la relativa esecuzione. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare. 
  Data a San Rossore, addi' 24 marzo 1932 - Anno X 
  

@@ -18,7 +18,7 @@ Vista la [legge 13 luglio 1910, n. 466](Provvedimenti%20a%20favore%20dei%20Comun
 
 Visto il [decreto-legge Luogotenenziale 19 agosto 1917, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-08-19;1399), che approva il testo unico delle disposizioni di legge emanate in conseguenza del terremoto del 28 dicembre 1908;
 
-Visto il [R. decreto 18 settembre 1910, n. 842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-09-18;842), che approva il regolamento per il funzionamento dell'Istituto Vittorio Emanuele III di Reggio Calabria, e le successive modificazioni;
+Visto il [R. decreto 18 settembre 1910, n. 842](Che%20approva%20lannesso%20regolamento%20contenente%20le%20norme%20per%20il%20funzionamento%20dellIstituto%20Vittorio%20Emanuele%20III%20pei%20danneggiati%20dai%20terremoti%20di%20Reggio%20Calabria.%20010U0842.md), che approva il regolamento per il funzionamento dell'Istituto Vittorio Emanuele III di Reggio Calabria, e le successive modificazioni;
 
 Visto il [R. decreto-legge 11 settembre 1924, n. 1634](Finanziamento%20del%20Consorzio%20per%20la%20concessione%20dei%20mutui%20ai%20danneggiati%20dal%20terremoto%20del%2028%20dicembre%201908%20e%20dellIstituto%20Vittorio%20Emanuele%20III%20pei%20danneggiati%20dal%20terremoto%20di%20Reggio%20Cal_9173428db63b.md);
 

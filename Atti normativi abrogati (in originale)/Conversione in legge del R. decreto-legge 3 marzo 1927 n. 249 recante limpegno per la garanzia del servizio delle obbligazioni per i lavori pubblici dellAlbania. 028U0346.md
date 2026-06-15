@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 marzo 1927, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-03;249), recante impegno per la garanzia del servizio delle obbligazioni per i lavori pubblici in Albania. 
+ E' convertito in legge il [R. decreto-legge 3 marzo 1927, n. 249](Garanzia%20delle%20obbligazioni%20del%20Prestito%20per%20i%20lavori%20pubblici%20in%20Albania.%20027U0249.md), recante impegno per la garanzia del servizio delle obbligazioni per i lavori pubblici in Albania. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

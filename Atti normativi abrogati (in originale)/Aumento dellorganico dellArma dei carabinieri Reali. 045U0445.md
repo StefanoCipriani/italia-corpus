@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata
 
-Visto il [R. decreto-legge 26 luglio 1929, n. 1430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-07-26;1430), recante modificazioni all'ordinamento e all'organico dell'Arma dei carabinieri Reali, convertito in legge con la [legge 23 dicembre 1929, n. 2294](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-12-23;2294), e successive modificazioni;
+Visto il [R. decreto-legge 26 luglio 1929, n. 1430](Modificazioni%20allordinamento%20e%20allorganico%20dellArma%20dei%20carabinieri%20Reali.%20029U1430.md), recante modificazioni all'ordinamento e all'organico dell'Arma dei carabinieri Reali, convertito in legge con la [legge 23 dicembre 1929, n. 2294](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20Regi%20decreti-legge%2026%20luglio%201929%20n.%201430%20recante%20modificazioni%20allordinamento%20e%20allorganico%20dellArma%20dei%20carabinieri%20Reali%20e%2026%20luglio%201929%20n.%201413%20recante%20modif_c7d0d2470189.md), e successive modificazioni;
 
-Vista la [legge 9 maggio 1940, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;368), sull'ordinamento del Regio esercito, e successive modificazioni;
+Vista la [legge 9 maggio 1940, n. 368](Ordinamento%20del%20Regio%20esercito.%20040U0368.md), sull'ordinamento del Regio esercito, e successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

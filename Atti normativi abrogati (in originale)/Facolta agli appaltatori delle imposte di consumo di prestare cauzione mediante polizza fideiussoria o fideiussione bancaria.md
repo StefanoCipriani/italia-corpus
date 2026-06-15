@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Le cauzioni che gli appaltatori sono tenuti a versare a garanzia delle gestioni delle imposte di consumo, possono essere costituite, per non oltre la meta' e per ogni singolo appalto, mediante polizza fideiussoria emessa da istituti od enti assicuratori autorizzati ai sensi degli [articoli 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-04-29;966#art_18) e [31 del regio decreto-legge 29 aprile 1923, n. 966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-04-29;966#art_31), o mediante fideiussione prestata da banche di diritto pubblico o da banche di interesse nazionale.
+Le cauzioni che gli appaltatori sono tenuti a versare a garanzia delle gestioni delle imposte di consumo, possono essere costituite, per non oltre la meta' e per ogni singolo appalto, mediante polizza fideiussoria emessa da istituti od enti assicuratori autorizzati ai sensi degli [articoli 18](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md) e [31 del regio decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), o mediante fideiussione prestata da banche di diritto pubblico o da banche di interesse nazionale.
  Il contratto tra l'appaltatore e l'istituto assicuratore o la banca deve essere stipulato in conformita' dello schema allegato al presente decreto.
  Tale facolta' e' esclusa per le cauzioni gia' prestate ed accettate ai sensi di legge a garanzia degli appalti in corso. E' invece ammessa per le cauzioni non ancora prestate, ne' accettate e per quelle integrative o suppletorie, in ogni caso per non, oltre la meta' del complessivo ammontare.
 

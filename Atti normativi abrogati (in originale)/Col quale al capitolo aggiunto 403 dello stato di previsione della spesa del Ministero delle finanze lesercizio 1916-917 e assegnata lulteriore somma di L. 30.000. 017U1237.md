@@ -22,13 +22,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visti gli articoli 22 del testo unico di legge sui dazi di consumo, approvato con [R. decreto 7 maggio 1908 n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-07;248), ed 82 del relativo regolamento approvato con [R. decreto 17 giugno 1909, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-06-17;455), con i quali venne stabilita, in caso di guerra, la esenzione temporanea dai dazi stessi dei viveri e dei foraggi destinati alle truppe combattenti, salvo indennizzi ai Comuni ed agli appaltatori; 
+ Visti gli articoli 22 del testo unico di legge sui dazi di consumo, approvato con [R. decreto 7 maggio 1908 n. 248](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sui%20dazi%20interni%20di%20consumo.%20008U0248.md), ed 82 del relativo regolamento approvato con [R. decreto 17 giugno 1909, n. 455](Che%20approva%20il%20nuovo%20regolamento%20generale%20per%20la%20riscossione%20dei%20dazi%20interni%20di%20consumo.%20009U0455.md), con i quali venne stabilita, in caso di guerra, la esenzione temporanea dai dazi stessi dei viveri e dei foraggi destinati alle truppe combattenti, salvo indennizzi ai Comuni ed agli appaltatori; 
  
- Visto il [R. decreto 25 maggio 1915, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-25;728); 
+ Visto il [R. decreto 25 maggio 1915, n. 728](Col%20quale%20e%20concessa%20esenzione%20temporanea%20da%20ogni%20dazio%20interno%20di%20consumo%20per%20i%20viveri%20ed%20i%20foraggi%20destinati%20alle%20truppe%20di%20terra%20e%20di%20mare%20mobilizzate%20015U0728.md); 
  
  Visto il [decreto Luogotenenziale 6 aprile 1916, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-04-06;432); 
  
- Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738); 
+ Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Al capitolo aggiunto n. 403 «Indennizzi ai Comuni ed agli appaltatori per le perdite dipendenti dall'applicazione del [R. decreto 25 maggio 1915, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-25;728), relativo all'esenzione da ogni dazio interno di consumo, ecc.» dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1916-917, e' assegnata l'ulteriore somma di lire trentaseimila (L.). 36.000 
+ Al capitolo aggiunto n. 403 «Indennizzi ai Comuni ed agli appaltatori per le perdite dipendenti dall'applicazione del [R. decreto 25 maggio 1915, n. 728](Col%20quale%20e%20concessa%20esenzione%20temporanea%20da%20ogni%20dazio%20interno%20di%20consumo%20per%20i%20viveri%20ed%20i%20foraggi%20destinati%20alle%20truppe%20di%20terra%20e%20di%20mare%20mobilizzate%20015U0728.md), relativo all'esenzione da ogni dazio interno di consumo, ecc.» dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1916-917, e' assegnata l'ulteriore somma di lire trentaseimila (L.). 36.000 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

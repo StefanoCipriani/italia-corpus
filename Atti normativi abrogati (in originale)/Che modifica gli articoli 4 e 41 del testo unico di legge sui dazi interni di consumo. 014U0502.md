@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Nell'ultimo comma dell'art. 4 e nel primo comma dell'art. 41 del testo unico di legge sui dazi interni di consumo, approvato con [R. decreto 7 maggio 1908, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-07;248), alle parole: 
+ Nell'ultimo comma dell'art. 4 e nel primo comma dell'art. 41 del testo unico di legge sui dazi interni di consumo, approvato con [R. decreto 7 maggio 1908, n. 248](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sui%20dazi%20interni%20di%20consumo.%20008U0248.md), alle parole: 
  
  «I Consigli comunali, col voto favorevole della maggioranza dei consiglieri assegnati ai comuni», sono sostituite le seguenti: 
  

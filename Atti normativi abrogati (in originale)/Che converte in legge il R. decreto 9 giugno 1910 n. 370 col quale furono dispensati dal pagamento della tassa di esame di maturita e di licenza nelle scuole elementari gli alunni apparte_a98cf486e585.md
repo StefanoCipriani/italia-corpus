@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 9 giugno 1910, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-06-09;370), col quale furono dispensati dal pagamento della tassa di esame di maturita' e della tassa di diploma di licenza dalle scuole elementari gli alunni appartenenti a famiglie danneggiate dal terremoto 28 dicembre 1908. 
+ E' convertito in legge il [R. decreto 9 giugno 1910, n. 370](Riguardante%20dispense%20da%20talune%20tasse%20scolastiche.%20010U0370.md), col quale furono dispensati dal pagamento della tassa di esame di maturita' e della tassa di diploma di licenza dalle scuole elementari gli alunni appartenenti a famiglie danneggiate dal terremoto 28 dicembre 1908. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

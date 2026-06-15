@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18);
+Visto il [decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [regio decreto legislativo 20 maggio 1946, n. 450](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-20;450);
+Visto il [regio decreto legislativo 20 maggio 1946, n. 450](Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md);
 
 Visto il [regio decreto legislativo 29 maggio 1946, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-29;488);
 

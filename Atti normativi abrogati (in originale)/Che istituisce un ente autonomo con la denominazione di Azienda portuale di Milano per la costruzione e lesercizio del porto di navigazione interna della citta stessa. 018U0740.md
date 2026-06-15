@@ -103,7 +103,7 @@ Per la compilazione dei progetti e per la direzione, contabilita' e collaudazion
 
 ## Art. 9.
 
-Il Comune di Milano, nella sua qualita' di «concessionario della costruzione del tronco di via navigabile da Milano per Lodi e Pizzighettone alla foce dell'Adda», in base alla [legge 7 aprile 1917, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-04-07;599), rimborsera' all'Azienda portuale la somma corrispondente al costo del canale dalla diramazione pel porto commerciale fino al corso Ventidue Marzo, occorrente per l'alimentazione all'origine del tronco di via navigabile suddetto, e, per quasi tutta la sua lunghezza, destinato a far parte dei porto industriale. 
+Il Comune di Milano, nella sua qualita' di «concessionario della costruzione del tronco di via navigabile da Milano per Lodi e Pizzighettone alla foce dell'Adda», in base alla [legge 7 aprile 1917, n. 599](Recante%20provvedimenti%20per%20la%20linea%20di%20seconda%20classe%20Milano-Venezia%20e%20per%20la%20navigazione%20interna.%20017U0599.md), rimborsera' all'Azienda portuale la somma corrispondente al costo del canale dalla diramazione pel porto commerciale fino al corso Ventidue Marzo, occorrente per l'alimentazione all'origine del tronco di via navigabile suddetto, e, per quasi tutta la sua lunghezza, destinato a far parte dei porto industriale. 
  
  Il costo verra' stabilito aggiungendo, alla spesa effettivamente occorsa per le speciali opere d'arte contemplate in progetto, il prezzo effettivo medio di un tratto di canale di semplice navigazione di uguale lunghezza. 
  
@@ -167,7 +167,7 @@ L'Azienda portuale di Milano, per la provvista dei fondi necessari alle opere di
 
 ## Art. 16.
 
-Lo Stato, la provincia ed il comune di Milano contribuiranno nella spesa di L. 45.000.000 e di L. 1.040.000, rispettivamente previste coi progetti di cui all'art. 2, per la costruzione del nuovo porto di Milano e per le opere di miglioramento della darsena di Porta Ticinese, secondo il riparto stabilito dall'[art. 6 del testo unico 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-07-11;959#art_6), sulla navigazione interna e sulla fluitazione, e dall'art. 3 del regolamento relativo, approvato con [R. decreto 17 novembre 1913, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-11-17;1514). I contributi verranno corrisposti da ciascuno degli enti mediante 60 annualita' posticipate, comprensive dell'interesse 5,25% e dell'ammortamento come appresso: 
+Lo Stato, la provincia ed il comune di Milano contribuiranno nella spesa di L. 45.000.000 e di L. 1.040.000, rispettivamente previste coi progetti di cui all'art. 2, per la costruzione del nuovo porto di Milano e per le opere di miglioramento della darsena di Porta Ticinese, secondo il riparto stabilito dall'[art. 6 del testo unico 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-07-11;959#art_6), sulla navigazione interna e sulla fluitazione, e dall'art. 3 del regolamento relativo, approvato con [R. decreto 17 novembre 1913, n. 1514](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20opere%20concernenti%20la%20navigazione%20interna%20qualificate%20nuove%20ai%20sensi%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20_30558051ccd2.md). I contributi verranno corrisposti da ciascuno degli enti mediante 60 annualita' posticipate, comprensive dell'interesse 5,25% e dell'ammortamento come appresso: 
  
 
  a) pel nuovo porto di Milano:
@@ -268,7 +268,7 @@ Il Governo del Re ha in ogni tempo la facolta' di sciogliere per gravi motivi, s
 
 ## Art. 28.
 
-Le opere di cui all'articolo 2 sono dichiarate di pubblica utilita' ed alle relative espropriazioni procedera' l'Azienda portuale, in quanto non vi abbia gia' provveduto il comune di Milano, in virtu' dell'[articolo 6 della legge 7 aprile 1917, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-04-07;599#art_6), e in base alla disposizione di cui all'art. 29 del presente decreto. 
+Le opere di cui all'articolo 2 sono dichiarate di pubblica utilita' ed alle relative espropriazioni procedera' l'Azienda portuale, in quanto non vi abbia gia' provveduto il comune di Milano, in virtu' dell'[articolo 6 della legge 7 aprile 1917, n. 599](Recante%20provvedimenti%20per%20la%20linea%20di%20seconda%20classe%20Milano-Venezia%20e%20per%20la%20navigazione%20interna.%20017U0599.md), e in base alla disposizione di cui all'art. 29 del presente decreto. 
  
  Alle dette espropriazioni sono applicabili gli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_12) e [13 della legge 15 gennaio 1885, n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_13), sul risanamento della citta' di Napoli. 
  
@@ -276,11 +276,11 @@ Le opere di cui all'articolo 2 sono dichiarate di pubblica utilita' ed alle rela
  
  Il Ministero, sentito il Consiglio superiore dei lavori pubblici, determinera' pure la somma che, in via provvisoria, dovra' depositarsi per la indennita' di espropriazione e per gli altri eventuali risarcimenti che ai terzi possano competere. 
  
- Il verbale di consistenza di cui sopra equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_32). 
+ Il verbale di consistenza di cui sopra equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
  
  Ogni variazione o rettifica delle espropriazioni, che si manifestasse necessaria all'atto dell'esecuzione dell'opera, sara' approvata con lo stesso procedimento. 
  
- Si applicheranno per tutto il resto le disposizioni della [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359).
+ Si applicheranno per tutto il resto le disposizioni della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
 
 ## Art. 29.
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La tabella A della pianta organica, approvata con [decreto del Presidente della Repubblica 23 settembre 1961, n. 1668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-09-23;1668), e' sostituita da quella annessa alla presente legge.
+La tabella A della pianta organica, approvata con [decreto del Presidente della Repubblica 23 settembre 1961, n. 1668](../DPR/Istituzione%20delle%20piante%20organiche%20del%20personale%20salariato%20del%20Ministero%20della%20sanita%20e%20dellIstituto%20superiore%20di%20sanita.md), e' sostituita da quella annessa alla presente legge.
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 luglio 1929, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-07-26;1443), che accorda agevolezze fiscali per l'industria degli zuccheri invertiti, preparati con saccarosio e suoi derivati. 
+ E' convertito in legge il [R. decreto-legge 26 luglio 1929, n. 1443](Agevolazioni%20fiscali%20allindustria%20degli%20zuccheri%20invertiti%20preparati%20con%20saccarosio%20e%20suoi%20derivati.%20029U1443.md), che accorda agevolezze fiscali per l'industria degli zuccheri invertiti, preparati con saccarosio e suoi derivati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

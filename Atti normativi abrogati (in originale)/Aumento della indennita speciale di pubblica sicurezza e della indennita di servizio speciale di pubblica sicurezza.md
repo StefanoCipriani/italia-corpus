@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE, DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 2 aprile 1925, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-02;383);
+Visto il [R. decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md);
 
-Visto il [R. decreto 17 gennaio 1926, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-17;596);
+Visto il [R. decreto 17 gennaio 1926, n. 596](Approvazione%20del%20regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20026U0596.md);
 
 Visto il [R. decreto 30 novembre 1930, n 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-30;1629);
 

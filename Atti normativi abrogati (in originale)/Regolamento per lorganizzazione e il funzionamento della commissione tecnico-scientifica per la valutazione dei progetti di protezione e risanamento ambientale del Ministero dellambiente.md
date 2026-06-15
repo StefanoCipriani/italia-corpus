@@ -14,17 +14,17 @@ Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/ur
 
 Vista la [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349);
 
-Visto l'[art. 14, comma 7, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_14-com7), che istituisce la commissione tecnico-scientifica per la valutazione dei progetti di protezione e risanamento ambientale;
+Visto l'[art. 14, comma 7, della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), che istituisce la commissione tecnico-scientifica per la valutazione dei progetti di protezione e risanamento ambientale;
 
 Visto l'[art. 15 della legge 3 marzo 1987, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-03;59#art_15), che demanda al Ministro dell'ambiente, di concerto con il Ministro del tesoro, la determinazione dei compensi dei membri della commissione tecnico- scientifica in analogia ai criteri di cui all'[art. 3, comma 8, della legge 17 dicembre 1986, n. 878](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-17;878#art_3-com8);
 
-Visto l'art. 2 del decreto del Ministro dell'ambiente 24 novembre 1987, che demanda a detta commissione la valutazione dei piani e dei progetti predisposti in attuazione del [decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441);
+Visto l'art. 2 del decreto del Ministro dell'ambiente 24 novembre 1987, che demanda a detta commissione la valutazione dei piani e dei progetti predisposti in attuazione del [decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md);
 
-Visto l'[art. 18, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_18-com1) e [4, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_18-com4), che demanda a detta commissione l'istruttoria tecnica per la valutazione dei progetti relativi ad interventi urgenti di salvaguardia ambientale previsti nel programma annuale 1988;
+Visto l'[art. 18, commi 1](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md) e [4, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), che demanda a detta commissione l'istruttoria tecnica per la valutazione dei progetti relativi ad interventi urgenti di salvaguardia ambientale previsti nel programma annuale 1988;
 
 Visto l'art. 17, comma 33, della citata [legge n. 67 del 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;67) che integra la composizione della commissione, disciplina lo stato giuridico dei relativi membri e provvede allo stanziamento, nello stato di previsione del Ministero dell'ambiente, delle somme necessarie per far fronte alle spese di funzionamento della medesima commissione;
 
-Vista la [legge 28 agosto 1989, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305), che disciplina il programma triennale di salvaguardia ambientale;
+Vista la [legge 28 agosto 1989, n. 305](Programmazione%20triennale%20per%20la%20tutela%20dellambiente.md), che disciplina il programma triennale di salvaguardia ambientale;
 
 Visto l'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
@@ -65,7 +65,7 @@ La commissione tecnico-scientifica:
 Sono comunque fatte salve le disposizioni relative alle competenze del nucleo di valutazione degli investimenti pubblici e del nucleo ispettivo del Ministero del bilancio e della programmazione economica.
 
 AVVERTENZA:
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  Note alle premesse:
@@ -127,7 +127,7 @@ Nota all'art. 2:
  - Il testo dell'[art. 3, commi 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;878#art_3-com6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;878#art_3-com7) e [8, della legge n. 878/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;878#art_3-com8) (Disciplina del Nucleo di valutazione degli investimenti pubblici e disposizioni relative al Ministero del bilancio e della programmazione economica) e' il seguente:
  "6. L'incarico di membro del Nucleo di valutazione e' conferito per un quadriennio. Qualora per necessita' di elevata specializzazione si renda necessario il ricorso ad esperti per un tempo determinato, l'incarico e' ad essi conferito con decreto del Ministro del bilancio e della programmazione economica, su proposta del Segretario generale della programmazione economica.
  7. Il Ministro del bilancio e della programmazione economica, di concerto con il Ministro del tesoro, determina ogni due anni, sentito il CIPE, la remunerazione dei membri del Nucleo di valutazione, tenendo conto dei livelli di responsabilita' ricoperti ed in armonia con i criteri e parametri correnti per la determinazione dei compensi per attivita' di pari qualificazione professionale.
- 8. Il trattamento economico dei membri del Nucleo di valutazione, stabilito ai sensi del comma 7, non puo' comunque essere inferiore, al livello meno elevato, a quello previsto dall'[art. 12 della legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146#art_12)".
+ 8. Il trattamento economico dei membri del Nucleo di valutazione, stabilito ai sensi del comma 7, non puo' comunque essere inferiore, al livello meno elevato, a quello previsto dall'[art. 12 della legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md)".
 
 ## Art. 3. — Organizzazione della commissione
 
@@ -225,7 +225,7 @@ In caso di valutazioni discordanti i responsabili delle sezioni, avvertito il pr
 
 1.
 
-Il Ministro dell'ambiente assicura il coordinamento tra le attivita' della commissione tecnico-scientifica ed i servizi del Ministero dell'ambiente, anche attraverso la conferenza dei direttori dei servizi di cui all'[art. 17 del decreto del Presidente della Repubblica 19 giugno 1987, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-06-19;306#art_17), alla quale partecipa anche il presidente della commissione. In particolare le procedure di coordinamento sono di norma adottate all'inizio delle attivita' di valutazione, nella fase di adozione degli atti definitivi ed in quella di verifica dei risultati raggiunti attraverso gli interventi, i piani ed i progetti ammessi a finanziamento.
+Il Ministro dell'ambiente assicura il coordinamento tra le attivita' della commissione tecnico-scientifica ed i servizi del Ministero dell'ambiente, anche attraverso la conferenza dei direttori dei servizi di cui all'[art. 17 del decreto del Presidente della Repubblica 19 giugno 1987, n. 306](../DPR/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md), alla quale partecipa anche il presidente della commissione. In particolare le procedure di coordinamento sono di norma adottate all'inizio delle attivita' di valutazione, nella fase di adozione degli atti definitivi ed in quella di verifica dei risultati raggiunti attraverso gli interventi, i piani ed i progetti ammessi a finanziamento.
 
 Nota all'art. 6:
  - Il testo dell'[art. 17 del D.P.R. n. 306/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987;306#art_17) (Regolamento per l'organizzazione del Ministero dell'ambiente) e' il seguente:

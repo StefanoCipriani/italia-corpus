@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77);
 
-Ritenuta la necessita' e l'urgenza di assicurare il finanziamento per l'anno in corso degli interventi da attuare nell'ambito dei programmi di cooperazione tecnica con i Paesi in via di sviluppo, ai sensi della [legge 15 dicembre 1971, n. 1222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-15;1222), e successive modificazioni;
+Ritenuta la necessita' e l'urgenza di assicurare il finanziamento per l'anno in corso degli interventi da attuare nell'ambito dei programmi di cooperazione tecnica con i Paesi in via di sviluppo, ai sensi della [legge 15 dicembre 1971, n. 1222](Cooperazione%20tecnica%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), e successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,9 +20,9 @@ Sulla proposta del Ministro per gli affari esteri, di concerto con i Ministri pe
 
 ## Art. 1.
 
-Per l'attuazione delle disposizioni della [legge 15 dicembre 1971, n. 1222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-15;1222), sulla cooperazione tecnica con i Paesi in via di sviluppo e successive modificazioni ed integrazioni e' autorizzata, in aggiunta agli stanziamenti di cui all'art. 39 della stessa legge e all'articolo unico della [legge 19 maggio 1975, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-05-19;195), l'ulteriore spesa di milioni 7000 per l'anno 1976. 
+Per l'attuazione delle disposizioni della [legge 15 dicembre 1971, n. 1222](Cooperazione%20tecnica%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), sulla cooperazione tecnica con i Paesi in via di sviluppo e successive modificazioni ed integrazioni e' autorizzata, in aggiunta agli stanziamenti di cui all'art. 39 della stessa legge e all'articolo unico della [legge 19 maggio 1975, n. 195](Aumento%20del%20finanziamento%20della%20legge%2015%20dicembre%201971%20n.%201222%20sulla%20cooperazione%20tecnica%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), l'ulteriore spesa di milioni 7000 per l'anno 1976. 
  Alla copertura della predetta spesa si provvede mediante riduzione, per uguale importo, del fondo speciale di cui al cap. 6856 dello stato di previsione del Ministero del tesoro per l'anno medesimo. Il Ministro per il tesoro e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio. 
- Restano ferme, anche in relazione al nuovo stanziamento, le disposizioni di cui all'ultimo comma dell'[articolo 39 della legge 15 dicembre 1971, n. 1222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-15;1222#art_39).
+ Restano ferme, anche in relazione al nuovo stanziamento, le disposizioni di cui all'ultimo comma dell'[articolo 39 della legge 15 dicembre 1971, n. 1222](Cooperazione%20tecnica%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md).
 
 ## Art. 2.
 

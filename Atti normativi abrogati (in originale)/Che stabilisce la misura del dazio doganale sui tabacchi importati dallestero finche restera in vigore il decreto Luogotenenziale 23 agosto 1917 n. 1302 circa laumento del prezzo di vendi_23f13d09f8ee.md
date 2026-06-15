@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Finche' restera' in vigore il [decreto Luogotenenziale 23 agosto 1917, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-23;1302), che ha provveduto ad aumentare il prezzo di vendita al pubblico dei tabacchi nazionali, i dazi sui tabacchi fabbricati importati dall'estero saranno riscossi nelle misure indicate dalla seguente tabella di modificazioni alla tariffa generale dei dazi doganali (testo unico approvato con [R. decreto 28 luglio 1910, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-28;577)): 
+Finche' restera' in vigore il [decreto Luogotenenziale 23 agosto 1917, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-23;1302), che ha provveduto ad aumentare il prezzo di vendita al pubblico dei tabacchi nazionali, i dazi sui tabacchi fabbricati importati dall'estero saranno riscossi nelle misure indicate dalla seguente tabella di modificazioni alla tariffa generale dei dazi doganali (testo unico approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md)): 
  
 
  Numero Denominazione delle Dazio di

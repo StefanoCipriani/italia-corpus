@@ -16,11 +16,11 @@ LUOGOTENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico approvato con [R. decreto 15 settembre 1932, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-15;1514), e successive modificazioni.
+Visto il testo unico approvato con [R. decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e successive modificazioni.
 
-Visto il testo unico approvato con [R. decreto 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914), e successive modificazioni;
+Visto il testo unico approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
 
-Visto il [R. decreto-legge 3 febbraio 1938, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744), convertito nella [legge 16 febbraio 1939, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-02-16;468), e sue successive modificazioni;
+Visto il [R. decreto-legge 3 febbraio 1938, n. 744](Norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20stato%20dei%20sottufficiali%20della%20Regia%20aeronautica.%20038U0744.md), convertito nella [legge 16 febbraio 1939, n. 468](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%203%20febbraio%201938-XVI%20n.%20744%20che%20detta%20norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20_aadad4eb4f5e.md), e sue successive modificazioni;
 
 Visto l'art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n: 151;
 

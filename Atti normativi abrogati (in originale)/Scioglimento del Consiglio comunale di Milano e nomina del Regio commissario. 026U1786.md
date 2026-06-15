@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli articoli 323 della legge comunale e provinciale, 103 e 106 del [R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839), e 3, n. 2, della [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
+Visti gli articoli 323 della legge comunale e provinciale, 103 e 106 del [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), e 3, n. 2, della [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta la necessita' urgente ed assoluta di derogare, nei riguardi della straordinaria amministrazione del comune di Milano, alla disposizione dell'art. 323 della legge comunale e provinciale, modificato dall'[art. 103 del R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839#art_103);
+Ritenuta la necessita' urgente ed assoluta di derogare, nei riguardi della straordinaria amministrazione del comune di Milano, alla disposizione dell'art. 323 della legge comunale e provinciale, modificato dall'[art. 103 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -30,11 +30,11 @@ Il Consiglio comunale di Milano e' sciolto.
 
 ## Art. 2.
 
-Al predetto Commissario sono conferiti i poteri del Consiglio comunale ed in conseguenza non saranno applicabili i controlli e le limitazioni di cui al [4° comma dell'art. 106 del R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839#art_106-com4).
+Al predetto Commissario sono conferiti i poteri del Consiglio comunale ed in conseguenza non saranno applicabili i controlli e le limitazioni di cui al [4° comma dell'art. 106 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
 
 ## Art. 3.
 
-E' data facolta' al Governo di prorogare i poteri del Regio commissario anche oltre i termini di cui all'art. 323 della legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato dall'[art. 103 del R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839#art_103). 
+E' data facolta' al Governo di prorogare i poteri del Regio commissario anche oltre i termini di cui all'art. 323 della legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato dall'[art. 103 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

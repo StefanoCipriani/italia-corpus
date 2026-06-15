@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visto l'[art. 11 della legge 21 marzo 1915, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-03-21;273#art_11);
+Visto l'[art. 11 della legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md);
 
 Visti i [decreti Luogotenenziali 3 dicembre 1916, numero 1693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-03;1693); [23 agosto 1917, n. 1345](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-23;1345), e [29 agosto 1918, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-29;1261);
 
@@ -124,7 +124,7 @@ Il personale appartenente all'Amministrazione dello Stato, comandato presso l'uf
 
 ## Art. 10.
 
-Le condizioni di assunzione del personale tecnico che non appartenga ad Amministrazioni dello Stato risulteranno da convenzioni per locazione di opera. Tanto le assunzioni di questo personale, quanto quelle del personale avventizio, saranno fatte a norma della [legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182).
+Le condizioni di assunzione del personale tecnico che non appartenga ad Amministrazioni dello Stato risulteranno da convenzioni per locazione di opera. Tanto le assunzioni di questo personale, quanto quelle del personale avventizio, saranno fatte a norma della [legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md).
 
 ## Art. 11.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'Amministrazione delle ferrovie dello Stato e' autorizzata ad esercitare, oltre le linee di cui all'[art. 1 della legge 5 aprile 1908, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-04-05;111#art_1), servizi complementari di navigazione per il trasporto dei carboni o per altri trasporti nell'interesse della propria azienda o dello Stato. 
+L'Amministrazione delle ferrovie dello Stato e' autorizzata ad esercitare, oltre le linee di cui all'[art. 1 della legge 5 aprile 1908, n. 111](Che%20approva%20le%20Convenzioni%20pei%20servizi%20postali%20e%20commerciali%20marittimi.%20008U0111.md), servizi complementari di navigazione per il trasporto dei carboni o per altri trasporti nell'interesse della propria azienda o dello Stato. 
  
  Per tali servizi l'Amministrazione delle ferrovie e' autorizzata a valersi di piroscafi di sua proprieta', di piroscafi noleggiati, ovvero ad essa altrimenti affidati e dei quali potra', occorrendo, assumere la qualita' di «armatore» a tutti gli effetti di legge.
 
@@ -20,7 +20,7 @@ L'esercizio dei piroscafi, adibiti ai servizi complementari, e' regolato, sia pe
 
 ## Art. 3.
 
-Ai piroscafi di proprieta' dell'Amministrazione delle ferrovie dello Stato sono pero' estese le disposizioni dell'[art. 5 della legge 5 aprile 1908, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-04-05;111#art_5). 
+Ai piroscafi di proprieta' dell'Amministrazione delle ferrovie dello Stato sono pero' estese le disposizioni dell'[art. 5 della legge 5 aprile 1908, n. 111](Che%20approva%20le%20Convenzioni%20pei%20servizi%20postali%20e%20commerciali%20marittimi.%20008U0111.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

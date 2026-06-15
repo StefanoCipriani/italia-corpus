@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 6 dicembre 1934, n. 2372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2372), con i quale e stato approvato lo statuto della Cassa nazionale di assistenza dei farmacisti riconosciuta giuridicamente col [regio decreto 7 novembre 1929, n. 2174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-07;2174);
+Visto il [regio decreto 6 dicembre 1934, n. 2372](Approvazione%20del%20nuovo%20statuto%20della%20Cassa%20nazionale%20d%20assistenza%20dei%20farmacisti%20.%20034U2372.md), con i quale e stato approvato lo statuto della Cassa nazionale di assistenza dei farmacisti riconosciuta giuridicamente col [regio decreto 7 novembre 1929, n. 2174](Riconoscimento%20giuridico%20della%20%20Cassa%20nazionale%20di%20previdenza%20dei%20farmacisti%20.%20029U2174.md);
 
 Visto il decreto del Presidente della Repubblica 23 gennaio 1952, con il quale il prof. Dino Ponte e stato nominato commissario per la gestione straordinaria della Cassa suddetta, per il periodo di un anno e con l'incarico di presentare per l'approvazione le necessarie modifiche allo statuto della Cassa stessa, entro il predetto termine, prorogato con successivi decreti 21 marzo 1953, 22 marzo 1954, 2
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
 ## Articolo unico.
 
-La Cassa nazionale di assistenza dei farmacisti, riconosciuta giuridicamente con [regio decreto 7 novembre 1929, n. 2174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-07;2174), e cosi' denominata con [regio decreto 6 dicembre 1934, n. 2372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2372), assume la denominazione di Ente nazionale di previdenza e di assistenza farmacisti e ne e' approvato il nuovo statuto, composto di 25 articoli nel testo annesso al presente decreto e vistato dal Ministro proponente.
+La Cassa nazionale di assistenza dei farmacisti, riconosciuta giuridicamente con [regio decreto 7 novembre 1929, n. 2174](Riconoscimento%20giuridico%20della%20%20Cassa%20nazionale%20di%20previdenza%20dei%20farmacisti%20.%20029U2174.md), e cosi' denominata con [regio decreto 6 dicembre 1934, n. 2372](Approvazione%20del%20nuovo%20statuto%20della%20Cassa%20nazionale%20d%20assistenza%20dei%20farmacisti%20.%20034U2372.md), assume la denominazione di Ente nazionale di previdenza e di assistenza farmacisti e ne e' approvato il nuovo statuto, composto di 25 articoli nel testo annesso al presente decreto e vistato dal Ministro proponente.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -30,13 +30,13 @@ Capo I
 
 L'affidamento in prova al servizio sociale, la detenzione domiciliare e la semiliberta' non possono essere concessi ai condannati per taluno dei seguenti delitti:
                             a)
-                                delitti di cui agli [articoli 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_285), [286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_286), [416-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_416bis), [422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_422) e [630 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_630);
+                                delitti di cui agli [articoli 285](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [286](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [416-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [422](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [630 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                             b)
                                 delitti commessi avvalendosi delle condizioni previste dal predetto articolo 416-bis;
                             c)
                                 delitti commessi per finalita' di terrorismo o di eversione dell'ordinamento costituzionale per i quali la legge stabilisce la pena dell'ergastolo o della reclusione non inferiore nel minimo a cinque anni o nel massimo a dieci;
                             d)
-                                delitti di cui agli articoli 73, limitatamente alle ipotesi aggravate ai sensi dell'articolo 80, comma 2, e 74 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309).
+                                delitti di cui agli articoli 73, limitatamente alle ipotesi aggravate ai sensi dell'articolo 80, comma 2, e 74 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
 
 2.
 
@@ -44,11 +44,11 @@ Le persone indicate nel comma 1 non possono essere ammesse al lavoro all'esterno
 
 3.
 
-I condannati per taluno dei delitti di cui agli [articoli 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_575), [628, terzo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_628-com3), e [629, secondo comma, del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_629-com2) non possono essere affidati in prova al servizio sociale, salvo quanto previsto dall'[articolo 47- bis della legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_47bis), e la semiliberta' puo' essere loro concessa, in caso di condanna a pena temporanea, solo dopo l'espiazione di almeno due terzi della pena. Le stesse persone possono essere ammesse al lavoro all'esterno e possono usufruire dei permessi premio solo dopo aver scontato meta' della pena o, se condannate all'ergastolo, quindici anni di pena.
+I condannati per taluno dei delitti di cui agli [articoli 575](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [628, terzo comma](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e [629, secondo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) non possono essere affidati in prova al servizio sociale, salvo quanto previsto dall'[articolo 47- bis della legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_47bis), e la semiliberta' puo' essere loro concessa, in caso di condanna a pena temporanea, solo dopo l'espiazione di almeno due terzi della pena. Le stesse persone possono essere ammesse al lavoro all'esterno e possono usufruire dei permessi premio solo dopo aver scontato meta' della pena o, se condannate all'ergastolo, quindici anni di pena.
 
 4.
 
-Salvo quanto previsto dal [secondo comma dell'articolo 176 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_176-com2) e dall'[articolo 8 della legge 29 maggio 1982, n. 304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-29;304#art_8), il condannato alla pena della reclusione per taluno dei delitti indicati nei commi 1 e 3 non puo' essere ammesso alla liberazione condizionale se non ha scontato almeno due terzi della pena inflittagli.
+Salvo quanto previsto dal [secondo comma dell'articolo 176 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dall'[articolo 8 della legge 29 maggio 1982, n. 304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-29;304#art_8), il condannato alla pena della reclusione per taluno dei delitti indicati nei commi 1 e 3 non puo' essere ammesso alla liberazione condizionale se non ha scontato almeno due terzi della pena inflittagli.
 
 ### Art. 2.
 
@@ -60,7 +60,7 @@ Fermo quanto previsto dall'[articolo 275, comma 4, del codice di procedura penal
 
 1.
 
-Per i reati commessi anteriormente alla data di entrata in vigore della [legge 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162), i riferimenti ai delitti di cui agli articoli 73, 74 e 80 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309), contenuti nel presente capo si intendono effettuati alle corrispondenti fattispecie della [legge 22 dicembre 1975, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685), nel testo vigente anteriormente alla data di entrata in vigore della [legge 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162).
+Per i reati commessi anteriormente alla data di entrata in vigore della [legge 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162), i riferimenti ai delitti di cui agli articoli 73, 74 e 80 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), contenuti nel presente capo si intendono effettuati alle corrispondenti fattispecie della [legge 22 dicembre 1975, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685), nel testo vigente anteriormente alla data di entrata in vigore della [legge 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162).
 
 2.
 
@@ -94,25 +94,25 @@ Capo III
 
 1.
 
-Il [primo comma dell'articolo 7 della legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575#art_7-com1), e' sostituito dal seguente: 
- "Le pene stabilite per i delitti previsti dagli articoli 336, 338, 353, 378, 379, 416, 416-bis, 424, 435, 513-bis, 575, 605, 610, 611, 612, 628, 629, 630, 632, 633, 634, 635, 636, 637, 638, 640- bis in relazione all'[articolo 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_640), [648-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_648bis), [648- ter del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_648ter) sono aumentate da un terzo alla meta' e quelle stabilite per le contravvenzioni di cui agli articoli 695, primo comma, 696, 697, 698, 699 del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) sono raddoppiate se il fatto e' commesso da persona sottoposta ad una misura di prevenzione.".
+Il [primo comma dell'articolo 7 della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), e' sostituito dal seguente: 
+ "Le pene stabilite per i delitti previsti dagli articoli 336, 338, 353, 378, 379, 416, 416-bis, 424, 435, 513-bis, 575, 605, 610, 611, 612, 628, 629, 630, 632, 633, 634, 635, 636, 637, 638, 640- bis in relazione all'[articolo 640](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [648-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [648- ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono aumentate da un terzo alla meta' e quelle stabilite per le contravvenzioni di cui agli articoli 695, primo comma, 696, 697, 698, 699 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono raddoppiate se il fatto e' commesso da persona sottoposta ad una misura di prevenzione.".
 
 ### Art. 7.
 
 1.
 
-L'[articolo 9 della legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575#art_9), e' sostituito dal seguente: 
+L'[articolo 9 della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), e' sostituito dal seguente: 
  "Art. 9. - Le pene stabilite dalla legge per i reati concernenti le armi alterate nonche' le armi e le munizioni di cui all'[articolo 1 della legge 18 aprile 1975, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110#art_1), sono triplicate e quelle stabilite per i reati concernenti le armi e le munizioni di cui all'articolo 2, commi primo e secondo, della stessa legge sono raddoppiate, se i fatti sono commessi da persona sottoposta ad una misura di prevenzione.".
 
 ### Art. 8.
 
 1.
 
-Per i delitti commessi per agevolare l'attivita' delle associazioni previste dall'[articolo 416- bis del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_416bis), punibili con pena diversa dall'ergastolo, la pena e' aumentata da un terzo alla meta'.
+Per i delitti commessi per agevolare l'attivita' delle associazioni previste dall'[articolo 416- bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), punibili con pena diversa dall'ergastolo, la pena e' aumentata da un terzo alla meta'.
 
 2.
 
-Le circostanze attenuanti, diverse da quella prevista dall'[articolo 98 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_98), concorrenti con l'aggravante di cui al comma 1 non possono essere ritenute equivalenti o prevalenti rispetto a questa e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alla predetta aggravante.
+Le circostanze attenuanti, diverse da quella prevista dall'[articolo 98 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), concorrenti con l'aggravante di cui al comma 1 non possono essere ritenute equivalenti o prevalenti rispetto a questa e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alla predetta aggravante.
 
 ## DISPOSIZIONI IN TEMA DI ARMI
 
@@ -130,7 +130,7 @@ Dopo l'[articolo 20 della legge 18 aprile 1975, n. 110](https://www.normattiva.i
 
 2.
 
-L'[articolo 702 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_702) e' abrogato.
+L'[articolo 702 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' abrogato.
 
 ### Art. 10.
 
@@ -163,13 +163,13 @@ Capo V
 
 1.
 
-All'[articolo 111 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_111) e' aggiunto, in fine, il seguente periodo: "Se si tratta di delitti per i quali e' previsto l'arresto in flagranza, la pena e' aumentata da un terzo alla meta'.".
+All'[articolo 111 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto, in fine, il seguente periodo: "Se si tratta di delitti per i quali e' previsto l'arresto in flagranza, la pena e' aumentata da un terzo alla meta'.".
 
 ### Art. 14.
 
 1.
 
-All'[articolo 112, primo comma, del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_112-com1), il n. 4) e' sostituito dal seguente: 
+All'[articolo 112, primo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il n. 4) e' sostituito dal seguente: 
  "n. 4) per chi, fuori del caso preveduto dall'articolo precedente, ha determinato a commettere il reato un minore degli anni diciotto o una persona in stato d'infermita' o di deficienza psichica ovvero si e' comunque avvalso degli stessi, o di persona non imputabile o non punibile a cagione di una condizione o qualita' personale, nella commissione di un delitto per il quale e' previsto l'arresto in flagranza.".
 
 ## COORDINAMENTO E SPECIALIZZAZIONE DEI SERVIZI DI POLIZIA GIUDIZIARIA
@@ -225,7 +225,7 @@ Capo VIII
 
 1.
 
-Per l'espletamento delle procedure relative ad appalti di opere pubbliche le province, i comuni, i rispettivi consorzi, le unioni di comuni e le comunita' montane, fermi restando i compiti e le responsabilita' stabiliti in materia dalla [legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142), possono avvalersi di un'apposita unita' specializzata istituita dal presidente della giunta regionale presso ciascun ufficio del genio civile e diretta da un funzionario di questo ufficio.
+Per l'espletamento delle procedure relative ad appalti di opere pubbliche le province, i comuni, i rispettivi consorzi, le unioni di comuni e le comunita' montane, fermi restando i compiti e le responsabilita' stabiliti in materia dalla [legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md), possono avvalersi di un'apposita unita' specializzata istituita dal presidente della giunta regionale presso ciascun ufficio del genio civile e diretta da un funzionario di questo ufficio.
 
 2.
 
@@ -235,7 +235,7 @@ Il competente provveditorato regionale alle opere pubbliche nonche' l'Agenzia pe
 
 1.
 
-Fermo restando quanto stabilito dagli [articoli 41 e seguenti della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_41), il comitato regionale di controllo procede al riesame degli atti deliberativi indicati nell'articolo 45 della medesima legge, ancorche' divenuti esecutivi, quando il prefetto ne faccia motivata richiesta; in sede di riesame il comitato si pronuncia anche sugli eventuali vizi di eccesso di potere rilevati e, nel termine di trenta giorni dalla data di ricevimento della richiesta, e' tenuto ad inviare al prefetto copia della decisione adottata.
+Fermo restando quanto stabilito dagli [articoli 41 e seguenti della legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md), il comitato regionale di controllo procede al riesame degli atti deliberativi indicati nell'articolo 45 della medesima legge, ancorche' divenuti esecutivi, quando il prefetto ne faccia motivata richiesta; in sede di riesame il comitato si pronuncia anche sugli eventuali vizi di eccesso di potere rilevati e, nel termine di trenta giorni dalla data di ricevimento della richiesta, e' tenuto ad inviare al prefetto copia della decisione adottata.
 
 2.
 
@@ -281,17 +281,17 @@ Capo IX
 
 1.
 
-All'[articolo 10 della legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575#art_10), come sostituito dall'[articolo 3 della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_3), e' aggiunto, in fine, il seguente comma: 
+All'[articolo 10 della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), come sostituito dall'[articolo 3 della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_3), e' aggiunto, in fine, il seguente comma: 
  "5- bis. Salvo che si tratti di provvedimenti di rinnovo attuativi o comunque conseguenti a provvedimenti gia' disposti, ovvero di contratti derivati da altri gia' stipulati dalla pubblica amministrazione, le licenze, le autorizzazioni, le concessioni, le erogazioni, le abilitazioni e le iscrizioni indicate nel comma 1 non possono essere rilasciate o consentite e la conclusione dei contratti o subcontratti indicati nel comma 2 non puo' essere consentita a favore di persone nei cui confronti e' in corso il procedimento di prevenzione senza che sia data preventiva comunicazione al giudice competente, il quale puo' disporre, ricorrendone i presupposti, i divieti e le sospensioni previsti a norma del comma 3. A tal fine, i relativi procedimenti amministrativi restano sospesi fino a quando il giudice non provvede e, comunque, per un periodo non superiore a venti giorni dalla data in cui la pubblica amministrazione ha proceduto alla comunicazione.".
 
 ### Art. 23.
 
 1.
 
-All'[articolo 10-sexies della legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575#art_10sexies), introdotto dall'[articolo 7 della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_7), i commi 1, 4 e 6 sono sostituiti dai seguenti: 
+All'[articolo 10-sexies della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), introdotto dall'[articolo 7 della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_7), i commi 1, 4 e 6 sono sostituiti dai seguenti: 
  "La pubblica amministrazione, prima di rilasciare o consentire le licenze, le autorizzazioni, le concessioni, le erogazioni, le abilitazioni e le iscrizioni previste dall'articolo 10, e prima di stipulare, approvare o autorizzare i contratti e i subcontratti di cui al medesimo articolo deve acquisire apposita certificazione relativa all'interessato circa la sussistenza a suo carico di un procedimento per l'applicazione, a norma della presente legge, di una misura di prevenzione, nonche' circa la sussistenza di provvedimenti che applicano una misura di prevenzione e dispongono divieti, sospensioni o decadenze a norma dell'articolo 10, ovvero del secondo comma dell'articolo 10-quater. Per i rinnovi, allorche' la legge dispone che gli stessi abbiano luogo con provvedimento formale, per i provvedimenti comunque conseguenti a provvedimenti gia' disposti, salvo gli atti di esecuzione, e per i contratti derivati da altri gia' stipulati dalla pubblica amministrazione l'obbligo sussiste con riguardo alla certificazione dei provvedimenti definitivi o provvisori che applicano la misura di prevenzione o dispongono i divieti, le sospensioni o le decadenze."; 
  "4. Quando gli atti o i contratti riguardano societa', la certificazione e' richiesta nei confronti della stessa societa'. Essa e' altresi' richiesta, se trattasi di societa' di capitali anche consortili ai sensi dell'[articolo 2615- ter del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2615ter), o di societa' cooperative, di consorzi cooperativi, ovvero di consorzi di cui al libro V, titolo X, capo II, sezioni I e II, del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), nei confronti del legale rappresentante e degli eventuali altri componenti l'organo di amministrazione, nonche' di ciascuno dei consorziati che nei consorzi e nelle societa' consortili detenga una partecipazione superiore al 10 per cento, e di quei soci o consorziati per conto dei quali le societa' consortili o i consorzi operino in modo esclusivo nei confronti della pubblica amministrazione; per i consorzi di cui all'[articolo 2602 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2602), la certificazione e' richiesta nei confronti di chi ne ha la rappresentanza e degli imprenditori o societa' consorziate. Se trattasi di societa' in nome collettivo, la certificazione e' richiesta nei confronti di tutti i soci; se trattasi di societa' in accomandita semplice, nei confronti dei soci accomandatari. Se trattasi delle societa' di cui all'[articolo 2506 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2506), la certificazione e' richiesta nei confronti di coloro che le rappresentano stabilmente nel territorio dello Stato."; 
- "6. Le certificazioni possono anche essere rilasciate su richiesta del privato interessato presentata alla prefettura competente per il luogo ove lo stesso ha la residenza ovvero la sede, se trattasi di societa', impresa o ente. La relativa domanda, alla quale vanno allegati i certificati prescritti, deve specificare i provvedimenti, atti o contratti per i quali la certificazione e' richiesta o le amministrazioni o enti pubblici interessati ed indicare il numero degli esemplari occorrenti e la persona, munita di procura speciale, incaricata di ritirarli. La certificazione e' valida per tre mesi dalla data del rilascio e puo' essere prodotta anche in copia autenticata ai sensi dell'[articolo 14 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_14).". 
+ "6. Le certificazioni possono anche essere rilasciate su richiesta del privato interessato presentata alla prefettura competente per il luogo ove lo stesso ha la residenza ovvero la sede, se trattasi di societa', impresa o ente. La relativa domanda, alla quale vanno allegati i certificati prescritti, deve specificare i provvedimenti, atti o contratti per i quali la certificazione e' richiesta o le amministrazioni o enti pubblici interessati ed indicare il numero degli esemplari occorrenti e la persona, munita di procura speciale, incaricata di ritirarli. La certificazione e' valida per tre mesi dalla data del rilascio e puo' essere prodotta anche in copia autenticata ai sensi dell'[articolo 14 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).". 
  
 --------------- 
 Nota redazionale 

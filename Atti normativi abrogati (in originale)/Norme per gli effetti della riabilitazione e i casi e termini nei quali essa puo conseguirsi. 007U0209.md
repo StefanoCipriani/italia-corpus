@@ -22,7 +22,7 @@ Sulla proposta del Nostro ministro segretario di Stato per gli affari di grazia 
 
 ## Art. 1.
 
-Gli effetti della riabilitazione e i casi e termini nei quali essa puo' conseguirsi, sono stabiliti nell'[art. 100 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_100), salvo quanto dispongono gli [articoli 4](Riguardante%20la%20riabilitazione%20dei%20condannati.%20006U0197.md) e [5 della legge 17 maggio 1906, n. 197](Riguardante%20la%20riabilitazione%20dei%20condannati.%20006U0197.md).
+Gli effetti della riabilitazione e i casi e termini nei quali essa puo' conseguirsi, sono stabiliti nell'[art. 100 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo quanto dispongono gli [articoli 4](Riguardante%20la%20riabilitazione%20dei%20condannati.%20006U0197.md) e [5 della legge 17 maggio 1906, n. 197](Riguardante%20la%20riabilitazione%20dei%20condannati.%20006U0197.md).
 
 ## Art. 2.
 

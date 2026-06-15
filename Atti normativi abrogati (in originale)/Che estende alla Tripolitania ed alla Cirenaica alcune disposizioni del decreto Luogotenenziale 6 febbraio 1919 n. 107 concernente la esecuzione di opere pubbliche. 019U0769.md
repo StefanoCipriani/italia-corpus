@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 25 febbraio 1912, n. 83, 6 luglio 1912, n. 749, e 16 dicembre 1912, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-16;1312);
+Viste le [leggi 25 febbraio 1912, n. 83, 6 luglio 1912, n. 749, e 16 dicembre 1912, n. 1312](Colla%20quale%20viene%20data%20esecuzione%20al%20trattato%20di%20pace%20fra%20lItalia%20e%20la%20Turchia%20e%20sono%20adottati%20provvedimenti%20per%20la%20Libia%20012U1312.md);
 
 Visti i RR. decreti 20 novembre 1912, n. 1205, 9 gennaio 1913, n. 39, 9 marzo 1913, n. 314, e 15 gennaio 1914, n. 75;
 

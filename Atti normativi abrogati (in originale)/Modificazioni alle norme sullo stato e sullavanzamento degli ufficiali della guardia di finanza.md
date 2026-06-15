@@ -12,17 +12,17 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 7 giugno 1934, n. 890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-07;890), sull'avanzamento degli ufficiali del regio esercito;
 
-Vista la [legge 16 giugno 1935, n. 1026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-16;1026), sullo stato degli ufficiali del regio esercito;
+Vista la [legge 16 giugno 1935, n. 1026](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1026.md), sullo stato degli ufficiali del regio esercito;
 
-Vista la [legge 20 marzo 1940, n. 253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-03-20;253), Vista la [legge 24 novembre 1941, n. 1291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-11-24;1291);
+Vista la [legge 20 marzo 1940, n. 253](Modificazioni%20ed%20aggiunte%20al%20repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20040U0253.md), Vista la [legge 24 novembre 1941, n. 1291](Aumento%20degli%20organici%20della%20Regia%20guardia%20di%20finanza.%20041U1291.md);
 
-Visto il [regio decreto 17 settembre 1940, n. 1567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-17;1567), contenente norme per l'esecuzione dell'[art. 3 del regio decreto-legge 25 gennaio 1937, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-25;116#art_3), convertito nella [legge 7 giugno 1937, n. 993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-07;993), che reca modificazioni all'ordinamento della guardia di finanza;
+Visto il [regio decreto 17 settembre 1940, n. 1567](Norme%20per%20lesecuzione%20dellart.%203%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20convertito%20nella%20legge%207%20giugno%201937-XV%20n.%20993%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di_14063937e20d.md), contenente norme per l'esecuzione dell'[art. 3 del regio decreto-legge 25 gennaio 1937, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-25;116#art_3), convertito nella [legge 7 giugno 1937, n. 993](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20che%20reca%20modificazioni%20allordinamento%20del%20Corpo%20della%20Regia%20guardia%20di%20finanza.%20037U0993.md), che reca modificazioni all'ordinamento della guardia di finanza;
 
-Vista la [legge 11 luglio 1941, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-07-11;686), recante norme per l'avanzamento degli ufficiali della guardia di finanza durante lo stato di guerra;
+Vista la [legge 11 luglio 1941, n. 686](Norme%20per%20lavanzamento%20degli%20ufficiali%20della%20Regia%20guardia%20di%20finanza%20durante%20lattuale%20stato%20di%20guerra.%20041U0686.md), recante norme per l'avanzamento degli ufficiali della guardia di finanza durante lo stato di guerra;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per le finanze di concerto con il Ministro per il te
 
 ## Art. 1.
 
-Per gli anni 1945, 1946 e 1947, saranno considerate come promozioni effettuate nell'anno precedente, agli affetti dell'[art. 12 della legge 16 giugno 1935, n. 1026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-16;1026#art_12), quelle effettuate in ciascun grado e ruolo degli ufficiali, della guardia di finanza nell'anno 1943.
+Per gli anni 1945, 1946 e 1947, saranno considerate come promozioni effettuate nell'anno precedente, agli affetti dell'[art. 12 della legge 16 giugno 1935, n. 1026](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1026.md), quelle effettuate in ciascun grado e ruolo degli ufficiali, della guardia di finanza nell'anno 1943.
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ A modifica di quanto prescritto dalle vigenti disposizioni, l'ufficiale, cui sia
 
 ## Art. 3.
 
-L'[art. 144 della legge 7 giugno 1934, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-07;899#art_144), e' sostituito, nei riguardi degli ufficiali del Corpo della guardia di finanza, dal seguente:
+L'[art. 144 della legge 7 giugno 1934, n. 899](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20034U0899.md), e' sostituito, nei riguardi degli ufficiali del Corpo della guardia di finanza, dal seguente:
  "Per ogni ufficiale reduce dalla prigionia il Ministro per le finanze, costatata la posizione sia penale che disciplinare in rapporto al fatto della cattura, dichiara se nulla osti a che l'ufficiale sia valutato per l'avanzamento.
  L'ufficiale raggiunto dal turno di promozione anteriormente o durante il periodo di prigionia, per il quale sia stata rilasciata la dichiarazione anzidetta e' promosso al ritorno dalla prigionia, se prescelto, purche' abbia tenuto, prima della cattura, un comando corrispondente al proprio grado per almeno sei mesi.
  Qualora non abbia compiuto tale periodo di comando, sara' valutato e, se prescelto, promosso al termine di un periodo di servizio di sei mesi.
@@ -48,7 +48,7 @@ L'[art. 144 della legge 7 giugno 1934, n. 899](https://www.normattiva.it/uri-res
 
 ## Art. 4.
 
-L'[art. 145 della legge 7 giugno 1934, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-07;899#art_145), e' sostituito, nei riguardi degli ufficiali del Corpo della guardia di finanza, dai seguente: 
+L'[art. 145 della legge 7 giugno 1934, n. 899](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20034U0899.md), e' sostituito, nei riguardi degli ufficiali del Corpo della guardia di finanza, dai seguente: 
  "L'ufficiale caduto prigioniero dopo essere stato ferito in combattimento, o comunque in servizio, da offesa del nemico, al ritorno dalla prigionia e' assoggettato alla procedura di cui all'articolo precedente per quanto riguarda l'avvenuta cattura.
 Ottenuto il nulla osta, egli, se risulti pretermesso nell'avanzamento, e' valutato e, se prescelto, promosso al grado immediatamente superiore - sempre quando abbia tenuto prima della cattura un comando corrispondente al proprio grado per almeno sei mesi - con l'anzianita' che gli sarebbe spettata se fosse stato promosso a suo turno. 
  Qualora non abbia compiuto tale periodo di comando di almeno sei mesi, si applicano le norme stabilite dal 3° comma dell'articolo precedente. 

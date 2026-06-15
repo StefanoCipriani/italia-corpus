@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 16 novembre 1922, n. 1459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-11-16;1459), che istituisce il Commissariato per i servizi della marina mercantile;
+Visto il [R. decreto 16 novembre 1922, n. 1459](Che%20istituisce%20un%20Commissariato%20per%20i%20servizi%20della%20Marina%20mercantile.%20022U1459.md), che istituisce il Commissariato per i servizi della marina mercantile;
 
-Visto il [R. decreto 12 novembre 1905, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-11-12;565), e tutte le successive sue modificazioni;
+Visto il [R. decreto 12 novembre 1905, n. 565](Che%20approva%20e%20contiene%20le%20disposizioni%20relative%20allordinamento%20ed%20alle%20attribuzioni%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20005U0565.md), e tutte le successive sue modificazioni;
 
 Sentito il Consiglio dei Ministri;
 
@@ -133,7 +133,7 @@ L'ufficio di segreteria del Consiglio superiore della marina mercantile e del Co
 
 ## Art. 9.
 
-Ai membri effettivi e straordinari estranei all'Amministrazione dello Stato che intervengano alle sedute del Consiglio superiore ed a quelle del Comitato permanente, sara' usato il trattamento economico massimo previsto dal disposto dell'[art. 183 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_183), oltre al rimborso delle spese di viaggio per quelli residenti fuori Roma. 
+Ai membri effettivi e straordinari estranei all'Amministrazione dello Stato che intervengano alle sedute del Consiglio superiore ed a quelle del Comitato permanente, sara' usato il trattamento economico massimo previsto dal disposto dell'[art. 183 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), oltre al rimborso delle spese di viaggio per quelli residenti fuori Roma. 
  
 -------------- 
 Nota redazionale 

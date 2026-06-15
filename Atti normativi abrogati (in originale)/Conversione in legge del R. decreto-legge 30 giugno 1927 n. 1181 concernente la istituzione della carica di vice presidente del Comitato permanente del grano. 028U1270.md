@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 giugno 1927, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-30;1181), concernente la istituzione della carica di vice presidente del Comitato permanente del grano. 
+ E' convertito in legge il [R. decreto-legge 30 giugno 1927, n. 1181](Istituzione%20della%20carica%20di%20vice%20presidente%20del%20Comitato%20permanente%20del%20grano.%20027U1181.md), concernente la istituzione della carica di vice presidente del Comitato permanente del grano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

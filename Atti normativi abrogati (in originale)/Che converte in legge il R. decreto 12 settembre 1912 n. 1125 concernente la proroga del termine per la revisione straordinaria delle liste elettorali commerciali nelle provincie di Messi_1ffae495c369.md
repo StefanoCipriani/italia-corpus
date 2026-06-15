@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 12 settembre 1911, n. 1125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-09-12;1125), che proroga il termine per la revisione straordinaria delle liste elettorali commerciali per i comuni delle provincie di Messina e di Reggio Calabria, colpiti dal terremoto del 28 dicembre 1908. 
+ E' convertito in legge il [R. decreto 12 settembre 1911, n. 1125](Col%20quale%20viene%20fissato%20il%20termine%20per%20la%20revisione%20straordinaria%20delle%20liste%20elettorali%20delle%20Camere%20di%20commercio%20di%20Messina%20e%20di%20Reggio%20Calabria.%20011U1125.md), che proroga il termine per la revisione straordinaria delle liste elettorali commerciali per i comuni delle provincie di Messina e di Reggio Calabria, colpiti dal terremoto del 28 dicembre 1908. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

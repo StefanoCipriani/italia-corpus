@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 ottobre 1932, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-10-27;1388), concernente la soppressione e liquidazione dell'Ente nazionale per le forniture scolastiche, con sede in Milano. 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1932, n. 1388](Soppressione%20e%20liquidazione%20dellEnte%20nazionale%20per%20le%20forniture%20scolastiche%20con%20sede%20in%20Milano.%20032U1388.md), concernente la soppressione e liquidazione dell'Ente nazionale per le forniture scolastiche, con sede in Milano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

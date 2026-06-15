@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1571), concernente l'estensione agli impiegati del Banco di Napoli e del Banco di Sicilia delle disposizioni della [legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md), sulla cedibilita' e pignorabilita' degli stipendi. 
+ E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1571](Modificazione%20degli%20articoli%201%20e%2012%20della%20legge%2030%20giugno%201908%20n.%20335%20sulla%20cedibilita%20e%20pignorabilita%20degli%20stipendi.%20027U1571.md), concernente l'estensione agli impiegati del Banco di Napoli e del Banco di Sicilia delle disposizioni della [legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md), sulla cedibilita' e pignorabilita' degli stipendi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

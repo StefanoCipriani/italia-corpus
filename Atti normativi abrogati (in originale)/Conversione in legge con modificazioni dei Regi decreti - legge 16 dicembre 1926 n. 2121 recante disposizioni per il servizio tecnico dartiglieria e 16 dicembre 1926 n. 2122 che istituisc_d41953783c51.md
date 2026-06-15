@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sono convertiti in legge i [Regi decreti - legge 16 dicembre 1926, n. 2121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2121), recante disposizioni riguardanti il servizio tecnico d'artiglieria, e 16 dicembre 1926, n. 2122, che istituisce un servizio degli specialisti del genio, sostituendo all'[art. 3 del R. decreto 16 dicembre 1926, n. 2121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-12-16;2121#art_3), il seguente: 
+ Sono convertiti in legge i [Regi decreti - legge 16 dicembre 1926, n. 2121](Disposizioni%20riguardanti%20il%20servizio%20tecnico%20dartiglieria.%20026U2121.md), recante disposizioni riguardanti il servizio tecnico d'artiglieria, e 16 dicembre 1926, n. 2122, che istituisce un servizio degli specialisti del genio, sostituendo all'[art. 3 del R. decreto 16 dicembre 1926, n. 2121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-12-16;2121#art_3), il seguente: 
  
  «Per essere assegnati al servizio tecnico d'artiglieria occorre aver superato corsi regolari dell'Accademia d'artiglieria e genio, oppure quelli delle scuole di artiglieria e genio, compiuti in base ai precedenti ordinamenti, ovvero possedere la laurea in ingegneria, in chimica o in matematica o aver superato tutti gli esami di profitto prescritti dagli statuti delle scuole di ingegneria per il corso degli studi universitari d'ingegneria: occorre inoltre superare apposito concorso e successivamente un corso superiore tecnico d'artiglieria di tre anni dei quali i primi due d'insegnamento teorico ed il terzo di tirocinio». 
  

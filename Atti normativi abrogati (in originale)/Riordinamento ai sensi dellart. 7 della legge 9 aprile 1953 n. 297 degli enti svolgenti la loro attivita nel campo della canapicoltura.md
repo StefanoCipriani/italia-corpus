@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77, comma primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), ed [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 7 della legge 9 aprile 1953, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-09;297#art_7);
+Visto l'[art. 7 della legge 9 aprile 1953, n. 297](Provvedimenti%20a%20favore%20della%20citta%20di%20Napoli.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste, d'intesa con i M
 
 ## Art. 1.
 
-Il Consorzio nazionale canapa, istituito con il [decreto legislativo luogotenenziale 17 settembre 1944, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-17;213), assume la denominazione di Consorzio nazionale produttori canapa, ed e' riordinato a norma degli articoli seguenti.
+Il Consorzio nazionale canapa, istituito con il [decreto legislativo luogotenenziale 17 settembre 1944, n. 213](../Decreti%20legislativi%20luogotenenziali/Istituzione%20del%20Consorzio%20nazionale%20canapa%20e%20soppressione%20del%20Consorzio%20nazionale%20esportazione%20canapa.%20044U0213.md), assume la denominazione di Consorzio nazionale produttori canapa, ed e' riordinato a norma degli articoli seguenti.
 
 ## Art. 2.
 
@@ -66,7 +66,7 @@ Il Consorzio, per lo svolgimento della propria attivita', istituira' un ufficio 
 
 ## Art. 9.
 
-Il Consiglio di amministrazione entro sei mesi dalla sua costituzione provvede alla compilazione dello statuto del Consorzio nazionale produttori canapa, attenendosi ai criteri di cui all'[art. 7 della legge 9 aprile 1953, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-09;297#art_7).
+Il Consiglio di amministrazione entro sei mesi dalla sua costituzione provvede alla compilazione dello statuto del Consorzio nazionale produttori canapa, attenendosi ai criteri di cui all'[art. 7 della legge 9 aprile 1953, n. 297](Provvedimenti%20a%20favore%20della%20citta%20di%20Napoli.md).
  Il Consiglio di amministrazione entro sei mesi dalla sua costituzione, provvedera' anche alle riduzioni di personale conseguenti alle diminuite esigenze derivanti dal riordinamento del Consorzio al personale licenziato verra' corrisposto il trattamento previsto dalle norme che regolano il suo rapporto di impiego o di lavoro.
  Entro otto mesi il Consiglio di amministrazione provvede alla compilazione del regolamento organico per il personale.
  Lo statuto e' approvato con decreto del Presidente della Repubblica su proposta del Ministro per l'agricoltura e per le foreste. Il regolamento organico per il personale e' approvato con decreto del Presidente della Repubblica su proposta del Ministro per l'agricoltura e per le foreste di concerto con il Ministro per il tesoro.
@@ -98,7 +98,7 @@ Tutti gli atti o contratti, che importino trapasso di diritti o di obbligazioni 
 
 ## Art. 14.
 
-Entro sei mesi dall'entrata in vigore del presente decreto l'Associazione produttori canapa di cui all'[art. 7 della legge 9 aprile 1953, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-09;297#art_7), dovra' provvedere a modificare il proprio statuto, attenendosi ai criteri ivi indicati. Dette modifiche saranno sottoposte all'approvazione del Ministero dell'agricoltura e delle foreste.
+Entro sei mesi dall'entrata in vigore del presente decreto l'Associazione produttori canapa di cui all'[art. 7 della legge 9 aprile 1953, n. 297](Provvedimenti%20a%20favore%20della%20citta%20di%20Napoli.md), dovra' provvedere a modificare il proprio statuto, attenendosi ai criteri ivi indicati. Dette modifiche saranno sottoposte all'approvazione del Ministero dell'agricoltura e delle foreste.
  E' autorizzata la spesa per l'acquisto da parte del Consorzio nazionale produttori canapa dei beni immobili e delle attrezzature di proprieta' dell'Associazione nazionale produttori canapa nelle province del Meridione, per porli a disposizione della canapicoltura meridionale.
 
 ## Art. 15.

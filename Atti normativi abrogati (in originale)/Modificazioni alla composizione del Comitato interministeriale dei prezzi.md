@@ -52,7 +52,7 @@ Il presidente del Comitato interministeriale dei prezzi puo' costituire distinte
 ## Art. 4.
 
 Le funzioni di segreteria della Commissione e delle Sottocommissioni son assolte da funzionari dello Stato di grado non inferiore al 9ª e da esperti nominati dal presidente del Comitato.
- Agli esperti di cui all'art. 1 ed ai componenti la Commissione centrale prezzi e le Sottocommissioni previste dal precedente articolo ed ai relativi segretari nonche' al segretario del Comitato interministeriale dei prezzi, sono concessi i gettoni di presenza previsti dal [R. decreto 8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;843) e successive modificazioni ed integrazioni. La relativa spesa gravera' sul capitolo 101-bis del bilancio del Ministero dell'industria e commercio per l'esercizio 1945-1946 e sui corrispondenti capitoli per gli esercizi finanziari successivi.
+ Agli esperti di cui all'art. 1 ed ai componenti la Commissione centrale prezzi e le Sottocommissioni previste dal precedente articolo ed ai relativi segretari nonche' al segretario del Comitato interministeriale dei prezzi, sono concessi i gettoni di presenza previsti dal [R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md) e successive modificazioni ed integrazioni. La relativa spesa gravera' sul capitolo 101-bis del bilancio del Ministero dell'industria e commercio per l'esercizio 1945-1946 e sui corrispondenti capitoli per gli esercizi finanziari successivi.
 
 ## Art. 5.
 

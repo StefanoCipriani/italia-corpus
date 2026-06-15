@@ -34,7 +34,7 @@ Dal 1° giugno 1919 il personale stabile ed in prova delle ferrovie secondarie d
 
 ## Art. 2.
 
-Il personale stabile ed in prova continua ad essere inscritto alla Cassa nazionale di previdenza per l'invalidita' e la vecchiaia degli operai. E' pero' lasciata facolta' agli agenti che al 1° giugno 1919 contano non piu' di 30 anni di eta' di optare, entro il termine di tre mesi dalla data stessa, per l'inscrizione al fondo pensioni del personale delle ferrovie dello Stato, di cui al testo unico approvato con [R. decreto 22 aprile 1909, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-04-22;229).
+Il personale stabile ed in prova continua ad essere inscritto alla Cassa nazionale di previdenza per l'invalidita' e la vecchiaia degli operai. E' pero' lasciata facolta' agli agenti che al 1° giugno 1919 contano non piu' di 30 anni di eta' di optare, entro il termine di tre mesi dalla data stessa, per l'inscrizione al fondo pensioni del personale delle ferrovie dello Stato, di cui al testo unico approvato con [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md).
 
 ## Art. 3.
 

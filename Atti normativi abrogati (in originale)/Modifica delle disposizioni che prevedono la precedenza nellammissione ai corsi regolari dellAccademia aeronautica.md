@@ -20,7 +20,7 @@ Nelle graduatorie degli idonei ai concorsi per l'ammissione ai corsi regolari de
 
 ## Art. 2.
 
-Sono abrogati il [regio decreto 13 febbraio 1936, n. 448, il secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-13;448#art_com2) dell'articolo unico del [regio decreto 22 giugno 1939, n. 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-22;1416), e il secondo e il [terzo comma dell'articolo 6 del regio decreto 25 marzo 1941, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-03-25;472#art_6-com3).
+Sono abrogati il [regio decreto 13 febbraio 1936, n. 448, il secondo comma](Precedenza%20assoluta%20nellammissione%20ai%20corsi%20regolari%20della%20Regia%20accademia%20aeronautica%20degli%20allievi%20dei%20collegi%20militari%20che%20abbiano%20conseguito%20la%20maturita%20classica%20o%20scientifica.%20036U0448.md) dell'articolo unico del [regio decreto 22 giugno 1939, n. 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-22;1416), e il secondo e il [terzo comma dell'articolo 6 del regio decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana, E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

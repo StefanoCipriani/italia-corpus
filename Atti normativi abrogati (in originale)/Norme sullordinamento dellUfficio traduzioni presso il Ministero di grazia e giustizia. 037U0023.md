@@ -32,7 +32,7 @@ Il posto di traduttore aggiunto di seconda classe (grado 10°) e' conferito medi
 
 La promozione al posto di traduttore aggiunto di prima classe (grado 9°) e' conferita al traduttore aggiunto di seconda classe dopo cinque anni di effettivo servizio, su parere favorevole del Consiglio d'amministrazione. 
  
- Il servizio eventualmente prestato in precedenza, in altro gruppo o ruolo, con lo stesso grado o con grado superiore, e' computato, agli effetti dell'anzianita' richiesta nel comma precedente, nel modo stabilito dall'art. 9, capoverso, del [Regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395).
+ Il servizio eventualmente prestato in precedenza, in altro gruppo o ruolo, con lo stesso grado o con grado superiore, e' computato, agli effetti dell'anzianita' richiesta nel comma precedente, nel modo stabilito dall'art. 9, capoverso, del [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 4.
 
@@ -119,7 +119,7 @@ Ciascun commissario dispone di 10 punti, per i titoli, di 10 per la prova scritt
 
 ## Art. 13.
 
-I concorrenti giudicati idonei sono classificati per ordine di punti: per il rimanente, in quanto siano applicabili, si osservano le norme contenute nel [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960). Nella formazione della graduatoria si osservano, inoltre, le disposizioni del [R. decreto-legge 5 luglio 1934, numero 1176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1176). 
+I concorrenti giudicati idonei sono classificati per ordine di punti: per il rimanente, in quanto siano applicabili, si osservano le norme contenute nel [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960). Nella formazione della graduatoria si osservano, inoltre, le disposizioni del [R. decreto-legge 5 luglio 1934, numero 1176](Graduatoria%20dei%20titoli%20di%20preferenza%20per%20le%20ammissioni%20ai%20pubblici%20impieghi.%20034U1176.md). 
  
  Sono salvi i diritti sanciti dalle vigenti disposizioni a favore degli invalidi per la causa nazionale e degli orfani e congiunti dei caduti per la difesa delle Colonie dell'Africa Orientale.
 
@@ -137,7 +137,7 @@ Nella prima attuazione della presente legge il posto di traduttore capo (grado 6
 
 ## Art. 16.
 
-Per le traduzioni degli atti dello stato civile richieste al Ministero dai Comuni, quando non sia possibile provvedervi a norma dell'[art. 31 del R. decreto 22 giugno 1905, n. 278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-06-22;278#art_31), e' dovuta per ogni atto una tassa di lire 20 o di lire 8 in conformita' della tabella B, alligata alla presente legge. 
+Per le traduzioni degli atti dello stato civile richieste al Ministero dai Comuni, quando non sia possibile provvedervi a norma dell'[art. 31 del R. decreto 22 giugno 1905, n. 278](Che%20approva%20e%20contiene%20il%20regolamento%20per%20lorganico%20del%20personale%20del%20Ministero%20di%20grazia%20e%20giustizia%20e%20dei%20culti.%20005U0278.md), e' dovuta per ogni atto una tassa di lire 20 o di lire 8 in conformita' della tabella B, alligata alla presente legge. 
  
  La riscossione delle predette tasse ha luogo a mezzo di marche amministrative apposte a cura dell'Ufficio sulla traduzione eseguita ed annullate col timbro dell'Ufficio medesimo. 
  

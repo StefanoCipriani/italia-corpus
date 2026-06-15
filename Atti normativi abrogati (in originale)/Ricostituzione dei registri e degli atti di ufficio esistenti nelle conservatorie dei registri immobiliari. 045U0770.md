@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 25 giugno 1943, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-06-25;540);
+Vista la [legge 25 giugno 1943, n. 540](Nuovo%20testo%20della%20legge%20sulle%20imposte%20ipotecarie.%20043U0540.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1914, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1914-06-25;151);
 

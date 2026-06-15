@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 settembre 1938, n. 1507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;1507), concernente modificazioni alla composizione ed al funzionamento della Commissione censuaria centrale. 
+ E' convertito in legge il [R. decreto-legge 5 settembre 1938, n. 1507](Modificazioni%20alla%20composizione%20ed%20al%20funzionamento%20della%20Commissione%20censuaria%20centrale.%20038U1507.md), concernente modificazioni alla composizione ed al funzionamento della Commissione censuaria centrale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

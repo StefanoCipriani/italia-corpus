@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 febbraio 1927, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-14;125), concernente provvedimenti per la riscossione delle imposte dirette. 
+ E' convertito in legge il [R. decreto-legge 14 febbraio 1927, n. 125](Provvedimenti%20per%20la%20riscossione%20delle%20imposte%20dirette.%20027U0125.md), concernente provvedimenti per la riscossione delle imposte dirette. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

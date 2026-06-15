@@ -20,7 +20,7 @@ Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https:
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Vista la [legge 18 giugno 1931, n. 987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-18;987), e successive modificazioni;
+Vista la [legge 18 giugno 1931, n. 987](Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20031U0987.md), e successive modificazioni;
 
 Visto il [decreto legislativo Luogotenenziale 10 agosto 1945, n. 482](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste%20per%20lesercizio%20finanziario%20dal%201luglio%201945%20al%2030%20giugno%201946.%20045U0482.md);
 

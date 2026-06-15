@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 marzo 1930, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-17;243), recante ulteriore proroga del termine per la revisione straordinaria dei precedenti di servizio e di condotta degli appartenenti al Corpo degli agenti di pubblica sicurezza. 
+ E' convertito in legge il [R. decreto-legge 17 marzo 1930, n. 243](Ulteriore%20proroga%20del%20termine%20per%20la%20revisione%20straordinaria%20dei%20precedenti%20di%20servizio%20e%20di%20condotta%20degli%20appartenenti%20al%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20030U0243.md), recante ulteriore proroga del termine per la revisione straordinaria dei precedenti di servizio e di condotta degli appartenenti al Corpo degli agenti di pubblica sicurezza. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

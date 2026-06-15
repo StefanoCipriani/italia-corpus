@@ -24,7 +24,7 @@ Dalla data in entrata in vigore della presente legge, i prezzi dei servizi alber
 
 2.
 
-Gli operatori comunicano i prezzi di pernottamento nelle strutture alberghiere ed i prezzi dei servizi turistici delle altre strutture ricettive alle regioni ed alle province autonome di Trento e di Bolzano ai soli fini della pubblicita' di cui al [regio decreto- legge 24 ottobre 1935, n. 2049](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-24;2049), convertito, con modificazioni, dalla [legge 26 marzo 1936, n. 526](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%202049%20contenente%20norme%20per%20regolare%20la%20pubblicita%20dei%20prezzi%20degli%20alberghi.%20036U0526.md), e successive modificazioni.
+Gli operatori comunicano i prezzi di pernottamento nelle strutture alberghiere ed i prezzi dei servizi turistici delle altre strutture ricettive alle regioni ed alle province autonome di Trento e di Bolzano ai soli fini della pubblicita' di cui al [regio decreto- legge 24 ottobre 1935, n. 2049](Modificazioni%20alle%20leggi%2016%20maggio%201932-X%20n.%20557%2022%20dicembre%201932-XI%20n.%201723%20e%20R.%20decreto%2026%20aprile%201932-X%20n.%20406%20relativi%20alla%20pubblicita%20dei%20prezzi%20degli%20alberghi.%20035U2049.md), convertito, con modificazioni, dalla [legge 26 marzo 1936, n. 526](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%202049%20contenente%20norme%20per%20regolare%20la%20pubblicita%20dei%20prezzi%20degli%20alberghi.%20036U0526.md), e successive modificazioni.
 
 3.
 
@@ -46,7 +46,7 @@ Sono altresi' liberamente ed annualmente determinati e comunicati alle regioni e
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, commi 2 e 3, del testo unico approvato 
  con [decreto del Presidente della Repubblica 28 dicembre 
- 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle 
+ 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge modificate o alle quali e' operato il 
  rinvio. Restano invariati il valore e l'efficacia degli 
  atti legislativi qui trascritti.
@@ -70,7 +70,7 @@ Note all'[art. 1:
  Vengono contrassegnate con una stella le mini-aree di sosta che hanno un minimo di dieci ed un massimo di trenta piazzuole e svolgono la propria attivita' integrata anche con altre attivita' extra-turistiche, al supporto del turismo campeggistico itinerante, rurale ed escursionistico.
  I campeggi e i villaggi turistici assumono la denominazione aggiuntiva 'A' (annuale) quando sono aperti per la doppia stagione estivo-invernale o sono autorizzati ad esercitare la propria attivita' per l'intero arco dell'anno. La chiusura temporanea dei campeggi di cui al presente comma puo' essere consentita per un periodo di tre mesi all'anno a scelta dell'operatore e deve essere indicata nelle guide specializzate nonche' segnalata nelle insegne del campeggio o del villaggio turistico.
  Le regioni individuano con legge i requisiti minimi necessari all'esercizio dell'attivita' di affittacamere.
- L'inosservanza delle disposizioni in materia di classificazione e' punita con sanzioni amministrative stabilite dalle leggi regionali da un minimo di lire 500 mila ad un massimo di lire 3 milioni. Il termine per la denuncia di cui all'[articolo 1, primo comma, del regio decreto-legge 24 ottobre 1935, n. 2049](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-24;2049#art_1-com1), convertito in [legge 26 marzo 1936, n. 526](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%202049%20contenente%20norme%20per%20regolare%20la%20pubblicita%20dei%20prezzi%20degli%20alberghi.%20036U0526.md), e successive modificazioni, e' anticipato al 31 luglio di ciascuno degli anni cui la denuncia medesima si riferisce".
+ L'inosservanza delle disposizioni in materia di classificazione e' punita con sanzioni amministrative stabilite dalle leggi regionali da un minimo di lire 500 mila ad un massimo di lire 3 milioni. Il termine per la denuncia di cui all'[articolo 1, primo comma, del regio decreto-legge 24 ottobre 1935, n. 2049](Modificazioni%20alle%20leggi%2016%20maggio%201932-X%20n.%20557%2022%20dicembre%201932-XI%20n.%201723%20e%20R.%20decreto%2026%20aprile%201932-X%20n.%20406%20relativi%20alla%20pubblicita%20dei%20prezzi%20degli%20alberghi.%20035U2049.md), convertito in [legge 26 marzo 1936, n. 526](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%202049%20contenente%20norme%20per%20regolare%20la%20pubblicita%20dei%20prezzi%20degli%20alberghi.%20036U0526.md), e successive modificazioni, e' anticipato al 31 luglio di ciascuno degli anni cui la denuncia medesima si riferisce".
 
 ## Art. 2. — Interventi di sostegno alle imprese turistiche
 
@@ -92,7 +92,7 @@ Ulteriori proroghe del termine di cui al [comma 1 dell'articolo 1 della legge 30
 
 5.
 
-Per la realizzazione di interventi urgenti per il sostegno dell'immagine del turismo italiano sui mercati dei paesi generatori della domanda turistica, e' autorizzata per il 1991 la spesa di lire 8 miliardi, di cui il 50 per cento riservato ad interventi per il sostegno dell'immagine del turismo dei territori di cui al testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218).
+Per la realizzazione di interventi urgenti per il sostegno dell'immagine del turismo italiano sui mercati dei paesi generatori della domanda turistica, e' autorizzata per il 1991 la spesa di lire 8 miliardi, di cui il 50 per cento riservato ad interventi per il sostegno dell'immagine del turismo dei territori di cui al testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
 
 6.
 

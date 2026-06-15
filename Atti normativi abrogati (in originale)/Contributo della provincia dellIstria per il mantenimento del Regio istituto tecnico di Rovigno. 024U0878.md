@@ -43,7 +43,7 @@ Il contributo che la provincia dell'Istria e' tenuta, ai sensi del [Regio decret
 
 AGGIORNAMENTO (2)
 
-L'Errata-Corrige in G.U. 20/06/1924, n. 144, nel modificare l'Errata-Corrige in G.U. 16/06/1924, n. 141, ha conseguentemente disposto che "Nell'errata-corrige pubblicata nella Gazzetta Ufficiale n. 141 del 16 corrente relativo al [Regio decreto 11 maggio 1924, n. 878](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-11;878), concernente il contributo della provincia dell'Istria pel mantenimento del Regio istituto tecnico di Rovigno, pubblicato nella Gazzetta Ufficiale n. 136 del 10 corrente, si e' verificato un errore: infatti nella premessa leggasi: Regio istituto tecnico di Rovigo anziche' Rovigno, come qui si rettifica". 
+L'Errata-Corrige in G.U. 20/06/1924, n. 144, nel modificare l'Errata-Corrige in G.U. 16/06/1924, n. 141, ha conseguentemente disposto che "Nell'errata-corrige pubblicata nella Gazzetta Ufficiale n. 141 del 16 corrente relativo al [Regio decreto 11 maggio 1924, n. 878](Contributo%20della%20provincia%20dellIstria%20per%20il%20mantenimento%20del%20Regio%20istituto%20tecnico%20di%20Rovigno.%20024U0878.md), concernente il contributo della provincia dell'Istria pel mantenimento del Regio istituto tecnico di Rovigno, pubblicato nella Gazzetta Ufficiale n. 136 del 10 corrente, si e' verificato un errore: infatti nella premessa leggasi: Regio istituto tecnico di Rovigo anziche' Rovigno, come qui si rettifica". 
 -------------- 
 Nota redazionale 
  Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicata in G.U. 16/06/1924, n. 141 e dall'errata-corrige pubblicato in G.U. 20/06/1924, n. 144 durante il periodo di "vacatio legis". 

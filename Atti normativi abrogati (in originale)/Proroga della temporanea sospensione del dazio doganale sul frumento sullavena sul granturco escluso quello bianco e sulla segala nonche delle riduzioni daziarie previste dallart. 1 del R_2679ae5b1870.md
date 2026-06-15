@@ -28,7 +28,7 @@ Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Sono prorogate fino al 31 dicembre 1925 la temporanea sospensione del dazio doganale sul frumento, sull'avena, sul granoturco (escluso quello bianco) e sulla segala, nonche' le riduzioni daziarie previste dall'[art. 1 del R. decreto 18 gennaio 1923, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-18;49#art_1), nei riguardi delle farine di segala, avena e granoturco (esclusa quella di granoturco bianco), del pane e biscotto di mare e della crusca. 
+Sono prorogate fino al 31 dicembre 1925 la temporanea sospensione del dazio doganale sul frumento, sull'avena, sul granoturco (escluso quello bianco) e sulla segala, nonche' le riduzioni daziarie previste dall'[art. 1 del R. decreto 18 gennaio 1923, n. 49](Che%20riduce%20i%20dazi%20doganali%20relativi%20ai%20prodotti%20e%20derivati%20della%20macinazione%20del%20frumento%20e%20dei%20cereali%20minori.%20023U0049.md), nei riguardi delle farine di segala, avena e granoturco (esclusa quella di granoturco bianco), del pane e biscotto di mare e della crusca. 
  
  Ferma restando l'abolizione del dazio sulla pasta di frumento stabilito dal decreto 20 ottobre 1924, n. 1649, sono, fino a nuova disposizione, stabiliti i dazi di lire oro 0.65 il quintale per la farina di frumento e lire oro 1.50 il quintale per il semolino.
 

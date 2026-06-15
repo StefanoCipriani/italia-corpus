@@ -82,7 +82,7 @@ Gli atti, di qualsiasi natura, dipendenti dalle presenti disposizioni, compresi 
 
 ## Art. 8.
 
-Nello stato di previsione della spesa del Ministero di agricoltura pel 1919-920, e' istituito il capitolo 86-quinquies «Spese di qualsiasi natura esclusi compensi per lavori straordinari, per l'applicazione del [R. decreto 14 settembre 1919, n. 1726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-14;1726), riguardanti il funzionamento dei Comitati provinciali arbitrali», con lo stanziamento di lire trecentomila (L. 300.000).
+Nello stato di previsione della spesa del Ministero di agricoltura pel 1919-920, e' istituito il capitolo 86-quinquies «Spese di qualsiasi natura esclusi compensi per lavori straordinari, per l'applicazione del [R. decreto 14 settembre 1919, n. 1726](Che%20istituisce%20presso%20ogni%20Commissione%20provinciale%20di%20agricoltura%20un%20Comitato%20per%20la%20risoluzione%20delle%20controversie%20e%20conflitti%20attinenti%20a%20prestazioni%20di%20lavoro%20agricolo.%20019U1726.md), riguardanti il funzionamento dei Comitati provinciali arbitrali», con lo stanziamento di lire trecentomila (L. 300.000).
 
 ## Art. 9.
 

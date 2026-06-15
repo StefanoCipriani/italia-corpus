@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1103), recante disposizioni per il Concorso nazionale del grano e dell'azienda agraria e per il Concorso nazionale di frutticoltura. 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1103](Disposizioni%20per%20i%20concorsi%20nazionali%20del%20grano%20dellazienda%20agraria%20e%20di%20frutticoltura.%20034U1103.md), recante disposizioni per il Concorso nazionale del grano e dell'azienda agraria e per il Concorso nazionale di frutticoltura. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

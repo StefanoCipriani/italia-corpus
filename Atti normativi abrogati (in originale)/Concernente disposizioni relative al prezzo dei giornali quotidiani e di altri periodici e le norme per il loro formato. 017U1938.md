@@ -77,7 +77,7 @@ Le contravvenzioni alle disposizioni del presente decreto saranno punite con l'a
  
  In caso di recidiva, potra' inoltre essere sospesa o revocata ogni concessione fatta al periodico dalle pubbliche amministrazioni, comprese quelle postali e ferroviarie. Tale provvedimento verra' adottato dalle amministrazioni competenti dietro richiesta del Ministero dell'industria, commercio e lavoro. 
  
- Perdurandosi nella pubblicazione del periodico senza osservare le norme del presente decreto, non ostante il provvedimento menzionato nel capoverso che precede, potra' con decreto del ministro dell'interno ordinarsene la sospensione comminata dall'[art. 5 del R. decreto 23 maggio 1915, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;675#art_5).
+ Perdurandosi nella pubblicazione del periodico senza osservare le norme del presente decreto, non ostante il provvedimento menzionato nel capoverso che precede, potra' con decreto del ministro dell'interno ordinarsene la sospensione comminata dall'[art. 5 del R. decreto 23 maggio 1915, n. 675](Recante%20disposizioni%20per%20la%20stampa%20015U0675.md).
 
 ## Art. 9.
 

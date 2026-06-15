@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Con decorrenza dall'esercizio finanziario 1962-63 sono stanziati venti milioni annui per il funzionamento e la attivita' della Biblioteca italiana per i ciechi "Regina Margherita" di Monza, ente morale istituito con [decreto del Presidente della Repubblica 5 marzo 1951, n. 974](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-03-05;974).
+Con decorrenza dall'esercizio finanziario 1962-63 sono stanziati venti milioni annui per il funzionamento e la attivita' della Biblioteca italiana per i ciechi "Regina Margherita" di Monza, ente morale istituito con [decreto del Presidente della Repubblica 5 marzo 1951, n. 974](../DPR/Erezione%20in%20ente%20morale%20della%20Biblioteca%20italiana%20per%20i%20ciechi%20Regina%20Margherita%20con%20sede%20in%20Monza.md).
 
 ## Art. 2.
 

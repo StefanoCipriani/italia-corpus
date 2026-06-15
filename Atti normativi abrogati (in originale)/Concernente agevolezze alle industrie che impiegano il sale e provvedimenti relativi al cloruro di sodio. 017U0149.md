@@ -48,7 +48,7 @@ Con decreto Reale, sentiti il Consiglio tecnico dei sali ed il Consiglio di Stat
 
 ## Art. 3.
 
-E' concessa la restituzione della imposta stabilita dalla [legge 17 maggio 1906, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-05-17;207), sul cloruro sodico contenuto nei sali e nelle miscele saline estratti dalle acque minerali a scopo igienico e curativo, esportati all'estero.
+E' concessa la restituzione della imposta stabilita dalla [legge 17 maggio 1906, n. 207](Che%20apporta%20modificazioni%20agli%20articoli%203%20e%204%20della%20legge%203%20luglio%201904%20sulle%20agevolezze%20alle%20industrie%20che%20adoperano%20il%20sale%20e%20lo%20spirito.%20006U0207.md), sul cloruro sodico contenuto nei sali e nelle miscele saline estratti dalle acque minerali a scopo igienico e curativo, esportati all'estero.
 
 ## Art. 4.
 

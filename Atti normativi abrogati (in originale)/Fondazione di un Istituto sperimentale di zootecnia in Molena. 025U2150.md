@@ -58,7 +58,7 @@ All'impianto dell'Istituto contribuiscono: lo Stato colla somma di L. 200,000 ch
 
 ## Art. 4.
 
-L'ultimo Comma dell'[art. 5 del R. decreto 31 ottobre 1923, n. 2492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2492#art_5), viene cosi' modificato: 
+L'ultimo Comma dell'[art. 5 del R. decreto 31 ottobre 1923, n. 2492](Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md), viene cosi' modificato: 
  
  «quella parte del materiale didattico, sperimentale e librario della soppressa scuola di medicina veterinaria di Modena, che risulti non necessario per l'Istituto sperimentale di zootecnia di Modena, verra' trasferito in dotazione agli altri Istituti superiori di medicina veterinaria».
 

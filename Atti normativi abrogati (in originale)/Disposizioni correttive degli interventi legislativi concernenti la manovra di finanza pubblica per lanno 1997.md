@@ -14,11 +14,11 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto il [decreto-legge 31 dicembre 1996, n. 669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-12-31;669), recante disposizioni urgenti in materia tributaria, finanziaria e contabile a completamento della manovra di finanza pubblica per l'anno 1997;
 
-Considerato che la formulazione del testo del predetto decreto-legge, particolarmente nella parte in cui modifica la [legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662) (collegata alla legge finanziaria 1997), contiene errori con riferimento al regime dei beni immobili e diritti immobiliari dello Stato nelle regioni a statuto speciale e nelle province autonome di Trento e Bolzano (articolo 6, comma 3, e articolo 10, comma 13) ed alle norme riguardanti gli enti locali (articolo 10, comma 4), nonche' omissioni nella materia ambientale, che incidono sulla portata normativa del decreto-legge citato;
+Considerato che la formulazione del testo del predetto decreto-legge, particolarmente nella parte in cui modifica la [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) (collegata alla legge finanziaria 1997), contiene errori con riferimento al regime dei beni immobili e diritti immobiliari dello Stato nelle regioni a statuto speciale e nelle province autonome di Trento e Bolzano (articolo 6, comma 3, e articolo 10, comma 13) ed alle norme riguardanti gli enti locali (articolo 10, comma 4), nonche' omissioni nella materia ambientale, che incidono sulla portata normativa del decreto-legge citato;
 
 Visto l'avviso di rettifica della Presidenza del Consiglio dei Ministri, pubblicato nella Gazzetta Ufficiale n. 5 dell'8 gennaio 1997, che, tra l'altro, apporta correzione alle disposizioni sopra richiamate;
 
-Ritenuta, peraltro, la straordinaria necessita' ed urgenza di apportare alla citata [legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662), le dovute modificazioni con un atto che contestualmente elimini, con pari valore e forza giuridica, l'erronea formulazione del [decreto-legge n. 669 del 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996;669), al fine di escludere qualunque incertezza sulle norme effettivamente vigenti in tali materie ed i conseguenti pregiudizievoli effetti per i destinatari;
+Ritenuta, peraltro, la straordinaria necessita' ed urgenza di apportare alla citata [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), le dovute modificazioni con un atto che contestualmente elimini, con pari valore e forza giuridica, l'erronea formulazione del [decreto-legge n. 669 del 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996;669), al fine di escludere qualunque incertezza sulle norme effettivamente vigenti in tali materie ed i conseguenti pregiudizievoli effetti per i destinatari;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 gennaio 1997;
 
@@ -30,7 +30,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Alla [legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662), recante: "Misure di razionalizzazione della finanza pubblica", sono apportate le modificazioni di cui al presente articolo.
+Alla [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), recante: "Misure di razionalizzazione della finanza pubblica", sono apportate le modificazioni di cui al presente articolo.
 
 2.
 

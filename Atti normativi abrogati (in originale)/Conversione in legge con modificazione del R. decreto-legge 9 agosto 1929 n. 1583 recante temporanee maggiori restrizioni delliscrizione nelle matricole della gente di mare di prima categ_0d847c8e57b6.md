@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 agosto 1929, n. 1583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-08-09;1583), concernente temporanee maggiori restrizioni dell'iscrizione nelle matricole della gente di mare di prima categoria, con la seguente modificazione: all'art. 1, primo comma, alle parole «31 dicembre 1929» sostituire le parole «31 marzo 1930». 
+ E' convertito in legge il [R. decreto-legge 9 agosto 1929, n. 1583](Temporanee%20maggiori%20restrizioni%20delliscrizione%20nelle%20matricole%20della%20gente%20di%20mare%20di%20prima%20categoria.%20029U1583.md), concernente temporanee maggiori restrizioni dell'iscrizione nelle matricole della gente di mare di prima categoria, con la seguente modificazione: all'art. 1, primo comma, alle parole «31 dicembre 1929» sostituire le parole «31 marzo 1930». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

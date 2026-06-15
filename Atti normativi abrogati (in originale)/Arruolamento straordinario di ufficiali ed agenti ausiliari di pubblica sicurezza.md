@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 2 aprile 1925, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-02;383), relativo alla costituzione del Corpo degli agenti di pubblica sicurezza;
+Visto il [R. decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md), relativo alla costituzione del Corpo degli agenti di pubblica sicurezza;
 
 Visto il regolamento del Corpo degli agenti di pubblica sicurezza, approvato con [R. decreto 30 novembre 1930, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-30;1629);
 
@@ -51,7 +51,7 @@ Il Ministero dell'interno e' autorizzato, in deroga a qualsiasi disposizione leg
 ## Art. 2.
 
 Agli effetti del presente decreto s'intendono per combattenti della guerra di liberazione:
- a) i partigiani e i patrioti di cui al [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;518);
+ a) i partigiani e i patrioti di cui al [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md);
  b) gli appartenenti alle unita' regolari delle Forze armate che hanno partecipato alla guerra di liberazione;
  c) i militari deportati dal nemico dopo l'8 settembre 1943 che non hanno aderito a servire nelle forze armate fasciste o tedesche;
  d) civili deportati in condizioni analoghe a quelle indicate nella lettera c).

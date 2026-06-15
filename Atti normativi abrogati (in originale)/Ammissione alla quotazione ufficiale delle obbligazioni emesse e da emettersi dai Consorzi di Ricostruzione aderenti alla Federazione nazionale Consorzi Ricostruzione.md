@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), ed il relativo regolamento, approvato con [regio decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068), concernenti l'ordinamento delle Borse di commercio;
 
-Visto il [regio decreto-legge 7 marzo 1925, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-03-07;222);
+Visto il [regio decreto-legge 7 marzo 1925, n. 222](Riordinamento%20per%20le%20Borse.%20025U0222.md);
 
-Visto il [regio decreto-legge 29 luglio 1925, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-29;1261);
+Visto il [regio decreto-legge 29 luglio 1925, n. 1261](Passaggio%20delle%20attribuzioni%20concernenti%20le%20Borse%20valori%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20delle%20finanze.%20025U1261.md);
 
-Ritenuta la opportunita' di consentire la quotazione in Borsa dei titoli emessi e da emettersi dai Consorzi di Ricostruzione, costituiti ai sensi del [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-09;305);
+Ritenuta la opportunita' di consentire la quotazione in Borsa dei titoli emessi e da emettersi dai Consorzi di Ricostruzione, costituiti ai sensi del [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](../Decreti%20legislativi%20luogotenenziali/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

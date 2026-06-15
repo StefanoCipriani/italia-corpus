@@ -20,7 +20,7 @@ Considerata la necessita' urgente ed assoluta di rinnovare la convenzione tra lo
 
 Visto l'art. 18 della convenzione annessa al succitato [Regio decreto-legge 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-11;560);
 
-Visto l'art. 12 della convenzione fra lo Stato ed il Consorzio delle fabbriche di fiammiferi annessa al [R. decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105), convertito nella [legge 1° maggio 1930, n. 611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-05-01;611);
+Visto l'art. 12 della convenzione fra lo Stato ed il Consorzio delle fabbriche di fiammiferi annessa al [R. decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105), convertito nella [legge 1° maggio 1930, n. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20febbraio%201930%20n.%20105%20relativo%20allaumento%20dei%20diritti%20erariali%20sugli%20apparecchi%20automatici%20di%20accensione.%20030U0611.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Articolo unico.
 
-Le convenzioni stipulate fra lo Stato ed il Consorzio delle fabbriche di fiammiferi e riguardanti, l'una la fabbricazione e vendita dei fiammiferi nell'interno del Regno e nelle Colonie mediterranee, l'altra l'importazione, la fabbricazione e vendita degli apparecchi d'accensione a pietrina focaia, ed annesse rispettivamente al [R. decreto-legge 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-11;560), ed al [R. decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105), convertito nella [legge 1° maggio 1930, n. 611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-05-01;611), sono rinnovate per nove anni e, cioe', dal 1° giugno 1932 al 31 maggio 1941, sotto l'osservanza delle norme contenute nell'allegato al presente decreto. 
+Le convenzioni stipulate fra lo Stato ed il Consorzio delle fabbriche di fiammiferi e riguardanti, l'una la fabbricazione e vendita dei fiammiferi nell'interno del Regno e nelle Colonie mediterranee, l'altra l'importazione, la fabbricazione e vendita degli apparecchi d'accensione a pietrina focaia, ed annesse rispettivamente al [R. decreto-legge 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-11;560), ed al [R. decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105), convertito nella [legge 1° maggio 1930, n. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20febbraio%201930%20n.%20105%20relativo%20allaumento%20dei%20diritti%20erariali%20sugli%20apparecchi%20automatici%20di%20accensione.%20030U0611.md), sono rinnovate per nove anni e, cioe', dal 1° giugno 1932 al 31 maggio 1941, sotto l'osservanza delle norme contenute nell'allegato al presente decreto. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge, ed il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

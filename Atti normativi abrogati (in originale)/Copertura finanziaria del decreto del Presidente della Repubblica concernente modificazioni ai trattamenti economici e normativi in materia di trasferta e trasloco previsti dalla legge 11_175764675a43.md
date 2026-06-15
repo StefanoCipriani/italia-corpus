@@ -20,7 +20,7 @@ E' autorizzata la spesa di lire 7.400 milioni per l'anno finanziario 1977, ai fi
 
 ## Art. 2.
 
-La disciplina concernente l'adeguamento del trattamento economico e normativo di trasferta e di trasferimento, stabilita nel decreto del Presidente della Repubblica di cui al precedente articolo 1, e' estesa, con i medesimi criteri e decorrenza fissati nel decreto stesso, al personale dirigente dell'Azienda autonoma delle ferrovie dello Stato delle qualifiche indicate nell'[articolo 47 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748#art_47).
+La disciplina concernente l'adeguamento del trattamento economico e normativo di trasferta e di trasferimento, stabilita nel decreto del Presidente della Repubblica di cui al precedente articolo 1, e' estesa, con i medesimi criteri e decorrenza fissati nel decreto stesso, al personale dirigente dell'Azienda autonoma delle ferrovie dello Stato delle qualifiche indicate nell'[articolo 47 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md).
  Le misure orarie dell'indennita' di trasferta, previste dal primo comma dell'articolo 2 delle disposizioni sulle competenze accessorie, approvate con la [legge 11 febbraio 1970, n. 34](Revisione%20delle%20competenze%20accessorie%20del%20personale%20dellAzienda%20autonoma%20delle%20ferrovie%20dello%20Stato.md), e successive modificazioni, sono stabilite come segue:
  1) direttore generale, L. 970;
  2) dirigente generale, L. 810;

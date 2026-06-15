@@ -86,7 +86,7 @@ TITOLO III.
 
 ### Art. 8.
 
-Per i casi di correita', complicita', responsabilita' civile, e per quant'altro non e' espressamente previsto negli articoli precedenti, saranno applicate le disposizioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), in quanto non sia diversamente stabilito dalle leggi speciali finanziarie.
+Per i casi di correita', complicita', responsabilita' civile, e per quant'altro non e' espressamente previsto negli articoli precedenti, saranno applicate le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), in quanto non sia diversamente stabilito dalle leggi speciali finanziarie.
 
 ### Art. 9.
 

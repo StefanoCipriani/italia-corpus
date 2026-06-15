@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge in data 13 dicembre 1925, n. 2161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-12-13;2161), che da' piena ed intera esecuzione ai seguenti atti internazionali: 
+ E' convertito in legge il [R. decreto-legge in data 13 dicembre 1925, n. 2161](Esecuzione%20dei%20seguenti%20atti%20internazionali%20fra%20lItalia%20e%20la%20Germania%20stipulati%20e%20firmati%20in%20Roma%20il%2031%20ottobre%201925%201%20Trattato%20di%20commercio%20e%20di%20navigazione%20ed%20annesso%20Protocollo%20relativ_6ac4befd02bf.md), che da' piena ed intera esecuzione ai seguenti atti internazionali: 
  
  1° Trattato di commercio e di navigazione italo-germanico firmato in Roma il 31 ottobre 1925 ed annesso protocollo relativo alle tariffe sui trasporti ferroviari; 
  

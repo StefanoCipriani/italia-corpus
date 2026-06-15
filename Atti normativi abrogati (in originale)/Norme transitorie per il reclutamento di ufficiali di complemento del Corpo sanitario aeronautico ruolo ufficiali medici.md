@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 2 dicembre 1940, n. 1848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-02;1848), sulla disciplina dei corsi allievi ufficiali di complemento della Regia aeronautica;
+Vista la [legge 2 dicembre 1940, n. 1848](Disciplina%20dei%20corsi%20allievi%20ufficiali%20di%20complemento%20della%20Regia%20aeronautica.%20040U1848.md), sulla disciplina dei corsi allievi ufficiali di complemento della Regia aeronautica;
 
-Visto il [R. decreto-legge 27 gennaio 1944, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;51), concernente la sospensione degli esami di Stato per l'abilitazione all'esercizio professionale;
+Visto il [R. decreto-legge 27 gennaio 1944, n. 51](Sospensione%20per%20lanno%201944%20della%20sessione%20di%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale.%20044U0051.md), concernente la sospensione degli esami di Stato per l'abilitazione all'esercizio professionale;
 
-Visto l'[art. 28 del decreto legislativo Luogotenenziale 5 aprile 1945, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;238#art_28), concernente la proroga delle disposizioni di cui al [R. decreto-legge 27 gennaio 1944, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;51);
+Visto l'[art. 28 del decreto legislativo Luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md), concernente la proroga delle disposizioni di cui al [R. decreto-legge 27 gennaio 1944, n. 51](Sospensione%20per%20lanno%201944%20della%20sessione%20di%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale.%20044U0051.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -32,11 +32,11 @@ Sulla proposta del Ministro segretario di Stato per l'aeronautica, di concerto c
 
 ## Art. 1.
 
-In deroga all'[art. 3, lettera g) della legge 2 dicembre 1940, n. 1848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-02;1848#art_3-letg), sulla disciplina dei corsi allievi ufficiali di complemento della Regia aeronautica, il certificato di abilitazione provvisoria all'esercizio della professione di medico chirurgo rilasciato dalle competenti autorita', in seguito alla sospensione degli esami di Stati professionali disposta dal 1944 in poi, e' valido, in luogo del regolare diploma di abilitazione all'esercizio professionale, a tutti gli effetti della predetta [legge 2 dicembre 1940, n. 1848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-02;1848), per nomina ad ufficiale di complemento del Corpo sanitario aeronautico, ruolo ufficiali medici.
+In deroga all'[art. 3, lettera g) della legge 2 dicembre 1940, n. 1848](Disciplina%20dei%20corsi%20allievi%20ufficiali%20di%20complemento%20della%20Regia%20aeronautica.%20040U1848.md), sulla disciplina dei corsi allievi ufficiali di complemento della Regia aeronautica, il certificato di abilitazione provvisoria all'esercizio della professione di medico chirurgo rilasciato dalle competenti autorita', in seguito alla sospensione degli esami di Stati professionali disposta dal 1944 in poi, e' valido, in luogo del regolare diploma di abilitazione all'esercizio professionale, a tutti gli effetti della predetta [legge 2 dicembre 1940, n. 1848](Disciplina%20dei%20corsi%20allievi%20ufficiali%20di%20complemento%20della%20Regia%20aeronautica.%20040U1848.md), per nomina ad ufficiale di complemento del Corpo sanitario aeronautico, ruolo ufficiali medici.
 
 ## Art. 2.
 
-Fino a quando non saranno ripristinati i corsi allievi ufficiali di complemento del Corpo sanitario aeronautico, ruolo ufficiali medici, i cittadini italiani laureati in medicina e chirurgia, aventi obblighi di leva ed in possesso del regolare diploma di abilitazione all'esercizio professionale o del certificato di abilitazioni provvisoria, sono nominati, in deroga all'[art. 1 della legge 2 dicembre 1940, n. 1848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-02;1848#art_1), sottotenenti di complemento del Corpo sanitario aeronautico, ruolo ufficiali medici, indipendentemente dalla frequenza dei corsi allievi ufficiali predetti.
+Fino a quando non saranno ripristinati i corsi allievi ufficiali di complemento del Corpo sanitario aeronautico, ruolo ufficiali medici, i cittadini italiani laureati in medicina e chirurgia, aventi obblighi di leva ed in possesso del regolare diploma di abilitazione all'esercizio professionale o del certificato di abilitazioni provvisoria, sono nominati, in deroga all'[art. 1 della legge 2 dicembre 1940, n. 1848](Disciplina%20dei%20corsi%20allievi%20ufficiali%20di%20complemento%20della%20Regia%20aeronautica.%20040U1848.md), sottotenenti di complemento del Corpo sanitario aeronautico, ruolo ufficiali medici, indipendentemente dalla frequenza dei corsi allievi ufficiali predetti.
  I sottotenenti, nominati ai sensi del comma precedente, dovranno immediatamente prestare un periodo di servizio di prima nomina pari al servizio di leva.
  Il Ministro per l'aeronautica ha facolta' di disporre, con provvedimento collettivo, il collocamento in congedo illimitato dei sottotenenti provenienti dal medesimo reclutamento, prima del compimento della ferma di leva, qualora cio' sia richiesto da ragioni di bilancio o di servizio.
 

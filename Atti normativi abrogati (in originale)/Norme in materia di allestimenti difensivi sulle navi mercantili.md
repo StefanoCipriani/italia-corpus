@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Al [regio decreto-legge 19 settembre 1935, n. 1836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-19;1836), recante norme per l'organizzazione della marina mercantile per il tempo di guerra, convertito nella [legge 9 gennaio 1936, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;147), sono apportate le seguenti modifiche. 
+Al [regio decreto-legge 19 settembre 1935, n. 1836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-19;1836), recante norme per l'organizzazione della marina mercantile per il tempo di guerra, convertito nella [legge 9 gennaio 1936, n. 147](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20settembre%201935-XIII%20n.%201836%20relativo%20alla%20organizzazione%20della%20Marina%20mercantile%20per%20il%20tempo%20di%20guerra.%20036U0147.md), sono apportate le seguenti modifiche. 
  I. - Il primo comma dell'articolo 8 e' cosi' sostituito: 
  "Prima di iniziare la costruzione di qualsiasi nave a scafo metallico per conto di nazionali, i costruttori devono sottoporne i piani allo Stato Maggiore della Marina che indica i lavori e le modifiche, da eseguirsi sin dal tempo di pace e durante la fase costruttiva dell'unita', allo scopo di consentire l'installazione in periodo bellico degli armamenti e delle attrezzature necessari per assicurare la difesa della nave ed il suo impiego in compiti ausiliari a scopo difensivo. 
  I lavori e le modifiche di cui al precedente comma non devono, a giudizio del Ministero della marina mercantile, portare nocumento all'esercizio commerciale della nave". 
@@ -26,7 +26,7 @@ Al [regio decreto-legge 19 settembre 1935, n. 1836](https://www.normattiva.it/ur
 
 ## Art. 2.
 
-I lavori e le modifiche di cui al [primo comma dell'articolo 8 del regio decreto-legge 19 settembre 1935, numero 1836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-19;1836#art_8-com1), convertito nella [legge 9 gennaio 1936, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;147), quale risulta modificato dal precedente articolo, possono essere richiesti anche per le navi mercantili costruite prima dell'entrata in vigore della presente legge per conto dello Stato o a questo appartenenti.
+I lavori e le modifiche di cui al [primo comma dell'articolo 8 del regio decreto-legge 19 settembre 1935, numero 1836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-19;1836#art_8-com1), convertito nella [legge 9 gennaio 1936, n. 147](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20settembre%201935-XIII%20n.%201836%20relativo%20alla%20organizzazione%20della%20Marina%20mercantile%20per%20il%20tempo%20di%20guerra.%20036U0147.md), quale risulta modificato dal precedente articolo, possono essere richiesti anche per le navi mercantili costruite prima dell'entrata in vigore della presente legge per conto dello Stato o a questo appartenenti.
 
 ## Art. 3.
 

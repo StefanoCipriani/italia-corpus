@@ -14,7 +14,7 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la risoluzione n. 1101 del Consiglio di sicurezza dell'Organizzazione delle Nazioni Unite, in data 28 marzo 1997, che autorizzava la partecipazione di un contingente militare italiano alla Forza multinazionale di protezione in Albania;
 
-Considerato che per garantire, in armonia con le determinazioni assunte dall'ONU, la partecipazione del contingente militare italiano in Albania e' stato emanato il [decreto - legge 24 aprile 1997, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-04-24;108), convertito, con modificazioni, dalla [legge 20 giugno 1997, n. 174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-20;174);
+Considerato che per garantire, in armonia con le determinazioni assunte dall'ONU, la partecipazione del contingente militare italiano in Albania e' stato emanato il [decreto - legge 24 aprile 1997, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-04-24;108), convertito, con modificazioni, dalla [legge 20 giugno 1997, n. 174](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%201997%20n.%20108%20recante%20partecipazione%20italiana%20alle%20iniziative%20internazionali%20in%20favore%20dellAlbania.md);
 
 Vista la risoluzione n. 1114 del Consiglio di sicurezza dell'Organizzazione delle Nazioni Unite, in data 19 giugno 1997, con la quale e' autorizzata la prosecuzione dell'intervento della predetta Forza multinazionale di protezione;
 
@@ -34,7 +34,7 @@ A decorrere dall'11 luglio 1997 e fino al 12 agosto 1997, e' autorizzata l'ulter
 
 2.
 
-Al contingente di cui al comma 1, anche in materia di trattamento economico, si applicano le disposizioni del [decreto - legge 24 aprile 1997, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-04-24;108), convertito, con modificazioni, dalla [legge 20 giugno 1997, n. 174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-20;174).
+Al contingente di cui al comma 1, anche in materia di trattamento economico, si applicano le disposizioni del [decreto - legge 24 aprile 1997, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-04-24;108), convertito, con modificazioni, dalla [legge 20 giugno 1997, n. 174](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%201997%20n.%20108%20recante%20partecipazione%20italiana%20alle%20iniziative%20internazionali%20in%20favore%20dellAlbania.md).
 
 ## Art. 2.
 

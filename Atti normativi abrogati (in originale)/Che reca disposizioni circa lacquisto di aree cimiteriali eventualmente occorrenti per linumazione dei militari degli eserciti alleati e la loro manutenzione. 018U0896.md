@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) 1° agosto 1907, n. 636, e il regolamento di polizia mortuaria 25 luglio 1892, n. 448;
 
-Vista la [legge 25 giugno 1865, n. 2359, articoli 71 e seguenti](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_71);
+Vista la [legge 25 giugno 1865, n. 2359, articoli 71 e seguenti](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
 Udito il Consiglio dei ministri;
 
@@ -46,7 +46,7 @@ L'impianto di ciascun cimitero, in localita' prescelta dalle autorita' militari 
 
 ## Art. 4.
 
-Occorrendo procedere ad espropriazione, si procedera' con le norme degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_71), e la dichiarazione di urgenza e di indifferibilita' delle opere avra' valore di dichiarazione di pubblici utilita'.
+Occorrendo procedere ad espropriazione, si procedera' con le norme degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e la dichiarazione di urgenza e di indifferibilita' delle opere avra' valore di dichiarazione di pubblici utilita'.
 
 ## Art. 5.
 

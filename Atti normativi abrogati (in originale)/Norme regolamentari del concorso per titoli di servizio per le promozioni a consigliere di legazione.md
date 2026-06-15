@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti gli [articoli 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_96), [97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_97), [105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_105) e [107 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_107), sull'ordinamento dell'amministrazione degli affari esteri;
+Visti gli [articoli 96](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), [97](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), [105](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e [107 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), sull'ordinamento dell'amministrazione degli affari esteri;
 
 Udito il parere del Consiglio di Stato;
 
@@ -44,7 +44,7 @@ Al concorso possono partecipare coloro che siano in possesso al 30 aprile dei re
 I titoli da valutare ai fini del concorso sono i seguenti:
  a) rapporti informativi relativi all'ultimo quinquennio;
  b) rapporti informativi relativi al periodo precedente;
- c) titoli attinenti alla formazione, qualificazione e cultura professionale del candidato, con particolare riguardo per il profitto tratto dai corsi di superiore informazione o di alti studi previsti dall'[articolo 102 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_102).
+ c) titoli attinenti alla formazione, qualificazione e cultura professionale del candidato, con particolare riguardo per il profitto tratto dai corsi di superiore informazione o di alti studi previsti dall'[articolo 102 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
 
 ## Art. 5. — (Punteggio)
 

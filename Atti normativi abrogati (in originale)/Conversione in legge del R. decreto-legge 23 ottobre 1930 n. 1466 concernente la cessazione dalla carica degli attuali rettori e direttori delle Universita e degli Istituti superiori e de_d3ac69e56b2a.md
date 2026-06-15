@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-23;1466), concernente la cessazione dalla carica degli attuali rettori e direttori delle Universita' e degli Istituti superiori e dei presidi e dei direttori delle relative facolta' e scuole e lo scioglimento delle Giunte per l'istruzione media. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1466](Cessazione%20dalla%20carica%20degli%20attuali%20rettori%20e%20direttori%20delle%20Universita%20e%20degli%20Istituti%20superiori%20e%20dei%20presidi%20e%20direttori%20delle%20relative%20Facolta%20e%20Scuole%20e%20scioglimento%20delle%20Giunte_143697a0b875.md), concernente la cessazione dalla carica degli attuali rettori e direttori delle Universita' e degli Istituti superiori e dei presidi e dei direttori delle relative facolta' e scuole e lo scioglimento delle Giunte per l'istruzione media. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiuque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 marzo 1926, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-14;432), che aumenta il dazio di confine sulla carta da giornali. 
+ E' convertito in legge il [R. decreto-legge 14 marzo 1926, n. 432](Aumento%20del%20dazio%20doganale%20sulla%20carta%20da%20giornali.%20026U0432.md), che aumenta il dazio di confine sulla carta da giornali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

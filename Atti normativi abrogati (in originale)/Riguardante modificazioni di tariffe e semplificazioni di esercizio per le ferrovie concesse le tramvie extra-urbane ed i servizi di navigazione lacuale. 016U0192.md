@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nel limite che risultera' necessario, caso per caso, il ministro dei lavori pubblici e' autorizzato a consentire aumenti di tariffe per i trasporti di viaggiatori, bagagli, cani e merci, che si eseguono su ferrovie - comprese quelle in esercizio economico - tramvie extra-urbane a trazione meccanica e con i servizi di navigazione lacuale, concesse alla industria privata, aumenti di tariffe che, in media, non superino il 10 per cento delle tariffe in vigore, oltre quelli consentiti dall'[art. 11 della legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835#art_11).
+Nel limite che risultera' necessario, caso per caso, il ministro dei lavori pubblici e' autorizzato a consentire aumenti di tariffe per i trasporti di viaggiatori, bagagli, cani e merci, che si eseguono su ferrovie - comprese quelle in esercizio economico - tramvie extra-urbane a trazione meccanica e con i servizi di navigazione lacuale, concesse alla industria privata, aumenti di tariffe che, in media, non superino il 10 per cento delle tariffe in vigore, oltre quelli consentiti dall'[art. 11 della legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md).
 
 ## Art. 2.
 

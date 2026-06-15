@@ -22,15 +22,15 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Vista la [legge 20 gennaio 1885, n. 2897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-20;2897), sulla posizione ausiliaria; 
  
  Visto il R decreto 21 febbraio 105, n. 70, che approva il testo unico delle leggi sulle pensioni civili e militari; 
  
- Vista la [legge 27 giugno 1909, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-27;377), sulla riserva navale; 
+ Vista la [legge 27 giugno 1909, n. 377](Disposizioni%20relative%20alla%20riserva%20navale.%20009U0377.md), sulla riserva navale; 
  
- Vista la [legge 18 luglio 1912, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-18;806), sullo stato degli ufficiali; 
+ Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali; 
  
  Sentito il Consiglio dei ministri; 
  

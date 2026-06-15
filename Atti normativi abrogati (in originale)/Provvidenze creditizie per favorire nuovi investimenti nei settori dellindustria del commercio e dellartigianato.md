@@ -24,13 +24,13 @@ Il fondo di dotazione dell'Istituto centrale per il credito a medio termine (Med
 
 ## Art. 2.
 
-Alla spesa derivante dall'applicazione dell'art. 1 del presente decreto si provvede con il ricavo netto di operazioni finanziarie che il Ministro per il tesoro e' autorizzato ad effettuare negli anni 1971 e 1972 mediante la contrazione di mutui con il Consorzio di credito per le opere pubbliche, oppure con la emissione di buoni pluriennali del Tesoro o di speciali certificati di credito. Si applicano le norme di cui all'[art. 46 del decreto-legge 26 ottobre 1970, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-10-26;745#art_46), convertito, con modificazioni, nella [legge 18 dicembre 1970, n. 1034](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-18;1034).
+Alla spesa derivante dall'applicazione dell'art. 1 del presente decreto si provvede con il ricavo netto di operazioni finanziarie che il Ministro per il tesoro e' autorizzato ad effettuare negli anni 1971 e 1972 mediante la contrazione di mutui con il Consorzio di credito per le opere pubbliche, oppure con la emissione di buoni pluriennali del Tesoro o di speciali certificati di credito. Si applicano le norme di cui all'[art. 46 del decreto-legge 26 ottobre 1970, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-10-26;745#art_46), convertito, con modificazioni, nella [legge 18 dicembre 1970, n. 1034](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20ottobre%201970%20n.%20745%20concernente%20provvedimenti%20straordinari%20per%20la%20ripresa%20economica.md).
  All'onere relativo alle operazioni finanziarie di cui al presente articolo per l'anno 1971, sara' fatto fronte mediante la riduzione dei fondi speciali di cui ai capitoli numeri 3523 e 6036 dello stato di previsione del Ministero del tesoro per l'anno medesimo.
  Il Ministro per il Tesoro e' autorizzato ad apportare, con propri decreti, negli anni 1971 e 1972, le occorrenti variazioni di bilancio.
 
 ## Art. 3.
 
-Il dividendo attribuito allo Stato, ai sensi dell'[art. 37 del decreto-legge 26 ottobre 1970, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-10-26;745#art_37), convertito, con modificazioni, nella [legge 18 dicembre 1970, numero 1034](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-18;1034), e gli apporti del Tesoro dello Stato al fondo di dotazione del Mediocredito centrale sono detraibili nella determinazione, rispettivamente, del reddito imponibile e del patrimonio imponibile del medesimo Istituto.
+Il dividendo attribuito allo Stato, ai sensi dell'[art. 37 del decreto-legge 26 ottobre 1970, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-10-26;745#art_37), convertito, con modificazioni, nella [legge 18 dicembre 1970, numero 1034](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20ottobre%201970%20n.%20745%20concernente%20provvedimenti%20straordinari%20per%20la%20ripresa%20economica.md), e gli apporti del Tesoro dello Stato al fondo di dotazione del Mediocredito centrale sono detraibili nella determinazione, rispettivamente, del reddito imponibile e del patrimonio imponibile del medesimo Istituto.
 
 ## Art. 4.
 
@@ -42,13 +42,13 @@ Le modalita' e le condizioni per la erogazione da parte del Mediocredito central
 
 ## Art. 6.
 
-Lo stanziamento previsto dall'[art. 9, primo comma, della legge 30 luglio 1959, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-30;623#art_9-com1), e successive modificazioni e integrazioni, e' ulteriormente aumentato di lire 3.000 milioni per ciascuno degli anni dal 1971 al 1985.
+Lo stanziamento previsto dall'[art. 9, primo comma, della legge 30 luglio 1959, n. 623](Nuovi%20incentivi%20a%20favore%20delle%20medie%20e%20piccole%20industrie%20e%20dellartigianato.md), e successive modificazioni e integrazioni, e' ulteriormente aumentato di lire 3.000 milioni per ciascuno degli anni dal 1971 al 1985.
  Le somme non impegnate nei singoli anni potranno essere utilizzate negli anni successivi.
- L'importo massimo dei finanziamenti di cui al [secondo comma dell'art. 1 della legge 30 luglio 1959, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-30;623#art_1-com2), e successive modificazioni ed integrazioni, e' elevato a 1.500 milioni di lire. In casi singoli, con motivata deliberazione del Comitato di cui all'art. 5 della stessa [legge 30 luglio 1959, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-30;623), il predetto limite d'importo puo' essere elevato a 2.000 milioni di lire.
+ L'importo massimo dei finanziamenti di cui al [secondo comma dell'art. 1 della legge 30 luglio 1959, n. 623](Nuovi%20incentivi%20a%20favore%20delle%20medie%20e%20piccole%20industrie%20e%20dellartigianato.md), e successive modificazioni ed integrazioni, e' elevato a 1.500 milioni di lire. In casi singoli, con motivata deliberazione del Comitato di cui all'art. 5 della stessa [legge 30 luglio 1959, n. 623](Nuovi%20incentivi%20a%20favore%20delle%20medie%20e%20piccole%20industrie%20e%20dellartigianato.md), il predetto limite d'importo puo' essere elevato a 2.000 milioni di lire.
 
 ## Art. 7.
 
-Per la corresponsione dei contributi concessi ai sensi della [legge 16 settembre 1960, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-09-16;1016), e successive modificazioni ed integrazioni, sara' inscritta nello stato di previsione del Ministero dell'industria, del commercio e dell'artigianato la somma annua di lire 500 milioni per il periodo dal 1971 al 1980 e di lire 500 milioni per il periodo dal 1972 al 1981.
+Per la corresponsione dei contributi concessi ai sensi della [legge 16 settembre 1960, n. 1016](Finanziamento%20a%20medio%20termine%20al%20commercio.md), e successive modificazioni ed integrazioni, sara' inscritta nello stato di previsione del Ministero dell'industria, del commercio e dell'artigianato la somma annua di lire 500 milioni per il periodo dal 1971 al 1980 e di lire 500 milioni per il periodo dal 1972 al 1981.
  Le somme non impegnate nei singoli anni potranno esserlo negli anni successivi.
 
 ## Art. 8.
@@ -62,7 +62,7 @@ In aggiunta ai limiti di impegno previsti dal [primo comma dell'art. 8 della leg
 
 ## Art. 10.
 
-Ad incremento del fondo di rotazione di cui all'[art. 1 della legge 27 dicembre 1956, n. 1457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1457#art_1), e successive modificazioni ed integrazioni, e' autorizzata la spesa di lire 2.100 milioni, da iscrivere nello stato di previsione della spesa del Ministero della marina mercantile per l'anno finanziario 1971.
+Ad incremento del fondo di rotazione di cui all'[art. 1 della legge 27 dicembre 1956, n. 1457](Istituzione%20di%20un%20fondo%20di%20rotazione%20per%20lesercizio%20del%20credito%20peschereccio.md), e successive modificazioni ed integrazioni, e' autorizzata la spesa di lire 2.100 milioni, da iscrivere nello stato di previsione della spesa del Ministero della marina mercantile per l'anno finanziario 1971.
 
 ## Art. 11.
 

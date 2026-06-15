@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Ai fini della determinazione dell'anzianita' assoluta nella nomina in servizio permanente effettuata per gli ufficiali ex irredenti, in base all'[art. 5 del R. decreto 11 gennaio 1923, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-11;11#art_5), viene considerato come trascorso presso reparti combattenti il periodo compreso fra il 15 agosto 1916 ed il 3 novembre 1918 in cui detti ufficiali furono tenuti lontani d'autorita', dai reparti accennati. 
+Ai fini della determinazione dell'anzianita' assoluta nella nomina in servizio permanente effettuata per gli ufficiali ex irredenti, in base all'[art. 5 del R. decreto 11 gennaio 1923, n. 11](Recante%20provvedimenti%20speciali%20per%20regolare%20lo%20stato%20e%20lavanzamento%20di%20alcuni%20gruppi%20di%20ufficiali%20del%20R.%20esercito%20che%20hanno%20partecipato%20alla%20guerra.%20023U0011.md), viene considerato come trascorso presso reparti combattenti il periodo compreso fra il 15 agosto 1916 ed il 3 novembre 1918 in cui detti ufficiali furono tenuti lontani d'autorita', dai reparti accennati. 
  
  Per ottenere il beneficio di cui sopra, gli interessati debbono farne domanda entro sei mesi dalla data di pubblicazione della presente legge nella Gazzetta Ufficiale.
 

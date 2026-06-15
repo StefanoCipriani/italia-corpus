@@ -112,7 +112,7 @@ La presente legge avra' effetto dal 1° agosto 1888.
 
 ## Articolo 21
 
-Agli operai borghesi dei panifici militari che il 1° luglio 1888 si trovassero tuttora in servizio in forza dell'[articolo 3 del Regio decreto 24 giugno 1883, N. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-06-24;1491#art_3), si continuera' ad applicare per la pensione il [Regio decreto 20 aprile 1879, N. 4867](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-04-20;4867). 
+Agli operai borghesi dei panifici militari che il 1° luglio 1888 si trovassero tuttora in servizio in forza dell'[articolo 3 del Regio decreto 24 giugno 1883, N. 1491](Concernente%20il%20licenziamento%20degli%20operai%20borghesi%20addetti%20ai%20panifici%20militari.%20083U1491.md), si continuera' ad applicare per la pensione il [Regio decreto 20 aprile 1879, N. 4867](Che%20si%20dichiarano%20assimilati%20a%20grado%20militare%20gli%20operai%20borghesi%20presso%20i%20panifici%20militari.%20079U4867.md). 
  
  TABELLA ANNESSA ALL'ARTICOLO 7. 
  

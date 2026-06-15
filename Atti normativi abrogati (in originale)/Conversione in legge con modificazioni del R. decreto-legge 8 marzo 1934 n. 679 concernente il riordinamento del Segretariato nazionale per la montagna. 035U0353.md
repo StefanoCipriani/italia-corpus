@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-08;679), concernente il riordinamento del Segretariato nazionale per la montagna, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 679](Riordinamento%20del%20Segretariato%20nazionale%20per%20la%20montagna.%20034U0679.md), concernente il riordinamento del Segretariato nazionale per la montagna, con la seguente modificazione: 
  
  Al comma b) dell'art. 6 sostituire il seguente: 
  

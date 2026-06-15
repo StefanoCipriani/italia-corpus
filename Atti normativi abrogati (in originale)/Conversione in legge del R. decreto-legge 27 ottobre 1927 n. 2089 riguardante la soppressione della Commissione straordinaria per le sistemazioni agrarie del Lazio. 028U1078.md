@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-27;2089), riguardante la soppressione della Commissione straordinaria per le sistemazioni agrarie del Lazio. 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2089](Soppressione%20della%20Commissione%20straordinaria%20per%20le%20sistemazioni%20agrarie%20nella%20provincia%20di%20Roma.%20027U2089.md), riguardante la soppressione della Commissione straordinaria per le sistemazioni agrarie del Lazio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

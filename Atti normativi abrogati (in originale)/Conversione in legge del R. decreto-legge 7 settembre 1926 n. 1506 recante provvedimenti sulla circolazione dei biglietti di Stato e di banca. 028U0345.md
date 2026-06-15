@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 settembre 1926, n. 1506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-07;1506), recante provvedimenti sulla circolazione dei biglietti di Stato e di banca. 
+ E' convertito in legge il [R. decreto-legge 7 settembre 1926, n. 1506](Provvedimenti%20sulla%20circolazione%20dei%20biglietti%20di%20banca.%20026U1506.md), recante provvedimenti sulla circolazione dei biglietti di Stato e di banca. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

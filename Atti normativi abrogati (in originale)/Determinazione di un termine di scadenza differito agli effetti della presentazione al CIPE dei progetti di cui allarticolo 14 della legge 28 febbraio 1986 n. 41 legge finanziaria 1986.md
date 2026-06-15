@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di differire, limitatamente al 1986, il termine di cui all'[articolo 21, terzo comma, della legge 26 aprile 1983, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), richiamato dal [comma 2 dell'articolo 14 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_14-com2), agli effetti della presentazione al CIPE dei progetti immediatamente eseguibili da finanziarsi per il loro rilevante interesse economico;
+Ritenuta la straordinaria necessita' ed urgenza di differire, limitatamente al 1986, il termine di cui all'[articolo 21, terzo comma, della legge 26 aprile 1983, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), richiamato dal [comma 2 dell'articolo 14 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), agli effetti della presentazione al CIPE dei progetti immediatamente eseguibili da finanziarsi per il loro rilevante interesse economico;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 luglio 1986;
 
@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 1.
 
-Limitatamente al 1986, il termine per la presentazione al CIPE dei progetti di cui al [terzo comma dell'articolo 21 della legge 26 aprile 1983, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), richiamato dal [comma 2 dell'articolo 14 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_14-com2), e' elevato di venti giorni, con scadenza al 22 settembre 1986.
+Limitatamente al 1986, il termine per la presentazione al CIPE dei progetti di cui al [terzo comma dell'articolo 21 della legge 26 aprile 1983, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), richiamato dal [comma 2 dell'articolo 14 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e' elevato di venti giorni, con scadenza al 22 settembre 1986.
 
 ## Art. 2.
 

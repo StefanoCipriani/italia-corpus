@@ -128,7 +128,7 @@ Sono soppresse le sedi distaccate di pretura che siano state istituite nei Comun
 
 ## Art. 8.
 
-Alle tabelle A. e B, annesse al [R. decreto 24 marzo 1923, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-24;601), relative al numero ed alle sedi delle Corti di appello, dei Tribunali e delle preture del Regno ed alla circoscrizione territoriale delle preture, e successive varianti, nonche' alla tabella annessa al [R. decreto 23 aprile 1931, n. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-04-23;433), relativo alla circoscrizione territoriale delle sezioni di Corte di assise e successive varianti, sono apportate, in conseguenza della istituzione e della soppressione degli uffici di cui agli articoli 1, 2 e 3 del presente decreto e in conformita' delle variazioni prevedute negli articoli 4, 5 e 6 di questo stesso decreto, le modificazioni contenute nelle corrispondenti tabelle A ,B e C, allegate al presente decreto, viste, d'ordine Nostro, dal Ministro Segretario di Stato per la grazia e giustizia.
+Alle tabelle A. e B, annesse al [R. decreto 24 marzo 1923, n. 601](Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), relative al numero ed alle sedi delle Corti di appello, dei Tribunali e delle preture del Regno ed alla circoscrizione territoriale delle preture, e successive varianti, nonche' alla tabella annessa al [R. decreto 23 aprile 1931, n. 433](Determinazione%20della%20circoscrizione%20territoriale%20delle%20Sezioni%20di%20Corte%20dassise.%20031U0433.md), relativo alla circoscrizione territoriale delle sezioni di Corte di assise e successive varianti, sono apportate, in conseguenza della istituzione e della soppressione degli uffici di cui agli articoli 1, 2 e 3 del presente decreto e in conformita' delle variazioni prevedute negli articoli 4, 5 e 6 di questo stesso decreto, le modificazioni contenute nelle corrispondenti tabelle A ,B e C, allegate al presente decreto, viste, d'ordine Nostro, dal Ministro Segretario di Stato per la grazia e giustizia.
 
 ## Art. 9.
 
@@ -146,7 +146,7 @@ Dal 1° novembre 1933, tutti gli atti, le istruzioni e i giudizi che si sarebber
  
  Col 1° gennaio 1934 avra' piena attuazione la nuova circoscrizione secondo le modifiche stabilite con il presente decreto. 
  
- Sono richiamate in vigore, in quanto applicabili, le norme contenute nel [R. decreto 24 marzo 1923, n. 602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-24;602), intendendosi sostituite alle disposizioni della legislazione abrogata, ivi richiamate, quelle corrispondenti della legislazione vigente e alle date 1° luglio e 30 settembre 1923 quelle di 1° novembre e 31 dicembre 1933 e, in corrispondenza, modificati tutti gli altri termini ivi menzionati.
+ Sono richiamate in vigore, in quanto applicabili, le norme contenute nel [R. decreto 24 marzo 1923, n. 602](Contenente%20norme%20processuali%20per%20lattuazione%20della%20nuova%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0602.md), intendendosi sostituite alle disposizioni della legislazione abrogata, ivi richiamate, quelle corrispondenti della legislazione vigente e alle date 1° luglio e 30 settembre 1923 quelle di 1° novembre e 31 dicembre 1933 e, in corrispondenza, modificati tutti gli altri termini ivi menzionati.
 
 ## Art. 11.
 

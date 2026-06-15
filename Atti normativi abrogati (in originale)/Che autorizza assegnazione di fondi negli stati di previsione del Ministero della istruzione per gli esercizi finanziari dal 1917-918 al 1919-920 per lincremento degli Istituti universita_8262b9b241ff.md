@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738);
+Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md);
 
 Ritenuta la necessita' di fornire agli Istituti superiori di fisica, di chimica e delle loro applicazioni tecniche i mezzi straordinari per rinnovare ed accrescere gl'impianti e il materiale scientifico, in guisa che gli Istituti stessi possano corrispondere alle moderne esigenze dell'insegnamento superiore sperimentale e contribuire allo sviluppo e al progresso delle applicazioni industriali della scienza, nonche' i mezzi ordinari per il piu' efficace loro funzionamento, con il concorso degli enti locali interessati;
 

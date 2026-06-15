@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto Luogotenenziale 22 giugno 1944, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-06-22;154);
 
-Visto l'[art. 4 della legge 24 dicembre 1925, n. 2263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2263#art_4);
+Visto l'[art. 4 della legge 24 dicembre 1925, n. 2263](Attribuzioni%20e%20prerogative%20del%20Capo%20del%20Governo%20Primo%20Ministro%20Segretario%20di%20Stato.%20025U2263.md);
 
 Sulla proposta, del Presidente del Consiglio dei Ministri, Primo Ministro Segretario di Stato, di concerto con i Ministri Segretari di Stato per le finanze e per il tesoro; Abbiamo decretato e decretiamo:
 
@@ -62,7 +62,7 @@ Costituiscono il Ministero del tesoro le Direzioni generali, l'Ispettorato gener
  
  2) la Direzione generale del tesoro con gli Uffici provinciali del tesoro; 
  
- 3) la Ragioneria generale dello Stato con le dipendenti ragionerie delle Intendenze di finanza, e le altre ragionerie indicate nell'[art. 54 n. 3 del R. decreto 23 marzo 1933, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-23;185#art_54-num3); 
+ 3) la Ragioneria generale dello Stato con le dipendenti ragionerie delle Intendenze di finanza, e le altre ragionerie indicate nell'[art. 54 n. 3 del R. decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md); 
  
  4) la Direzione generale del debito pubblico con la Cassa di ammortamento del debito pubblico interno; 
  

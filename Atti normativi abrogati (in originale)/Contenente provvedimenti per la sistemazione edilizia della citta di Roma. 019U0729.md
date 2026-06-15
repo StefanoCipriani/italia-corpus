@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il comune di Roma e' autorizzato ad eseguire coi fondi del concorso dello Stato per opere di piano regolatore di cui alle [leggi 11 luglio 1907, n. 502, e 15 luglio 1911, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-15;755), i seguenti lavori e pagamenti che s'intenderanno far parte dalla tabella A, allegata alla [legge 11 luglio 1907, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-11;502): 
+Il comune di Roma e' autorizzato ad eseguire coi fondi del concorso dello Stato per opere di piano regolatore di cui alle [leggi 11 luglio 1907, n. 502, e 15 luglio 1911, n. 755](Recante%20provvedimenti%20per%20la%20citta%20di%20Roma.%20011U0755.md), i seguenti lavori e pagamenti che s'intenderanno far parte dalla tabella A, allegata alla [legge 11 luglio 1907, n. 502](Provvedimenti%20per%20la%20citta%20di%20Roma.%20007U0502.md): 
  
  a) Sistemazione della via Ostiense, dalla via della Garbatella alla Basilica di San Paolo, L. 500.000. 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 2 ottobre 1931, n. 1237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-02;1237), convertito in legge, con modificazioni, con [legge 21 dicembre 1931, numero 1785](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-12-21;1785), modificato dal [R. decreto-legge 11 agosto 1933, n. 1183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-08-11;1183), sull'ordinamento dell'Ente nazionale risi;
+Visto il [R. decreto-legge 2 ottobre 1931, n. 1237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-02;1237), convertito in legge, con modificazioni, con [legge 21 dicembre 1931, numero 1785](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%202%20ottobre%201931%20n.%201237%20relativo%20allistituzione%20dellEnte%20nazionale%20risi%20con%20sede%20in%20Milano.%20031U1785.md), modificato dal [R. decreto-legge 11 agosto 1933, n. 1183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-08-11;1183), sull'ordinamento dell'Ente nazionale risi;
 
 Visto l'[art. 1 del R. decreto-legge 24 luglio 1931, n. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-24;1223#art_1), sull'ordinamento della Regia guardia di finanza;
 

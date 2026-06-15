@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La revisione delle sentenze pronunciate dai Tribunali speciali delle Colonie e' devoluta per i casi e secondo il procedimento previsto dal [R. decreto 3 ottobre 1929, n. 1759](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-03;1759), al Consiglio di revisione istituito per il Regno col medesimo decreto.
+La revisione delle sentenze pronunciate dai Tribunali speciali delle Colonie e' devoluta per i casi e secondo il procedimento previsto dal [R. decreto 3 ottobre 1929, n. 1759](Disposizioni%20per%20la%20revisione%20delle%20sentenze%20del%20Tribunale%20speciale%20per%20la%20difesa%20dello%20Stato.%20029U1759.md), al Consiglio di revisione istituito per il Regno col medesimo decreto.
 
 ## Art. 2.
 

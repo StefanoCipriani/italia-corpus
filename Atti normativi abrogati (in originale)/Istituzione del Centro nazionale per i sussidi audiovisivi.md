@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La Gineteca autonoma per la cinematografia scolastica, istituita con [regio decreto-legge 30 settembre 1938, n. 1780](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-30;1780), convertito nella [legge 16 gennaio 1939, n. 288](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2030%20settembre%201938-XVI%20n.%201780%20concernente%20listituzione%20di%20una%20Cineteca%20autonoma%20per%20la%20cinematografia%20scolastica.%20039U0288.md), e' soppressa ed in suo luogo viene istituito il Centro nazionale per i sussidi audiovisivi col compito di promuovere la cinematografia didattica e culturale e gli altri sussidi audiovisivi in ogni ordine e grado di scuola.
+La Gineteca autonoma per la cinematografia scolastica, istituita con [regio decreto-legge 30 settembre 1938, n. 1780](Istituzione%20di%20una%20Cineteca%20autonoma%20per%20la%20cinematografia%20scolastica.%20038U1780.md), convertito nella [legge 16 gennaio 1939, n. 288](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2030%20settembre%201938-XVI%20n.%201780%20concernente%20listituzione%20di%20una%20Cineteca%20autonoma%20per%20la%20cinematografia%20scolastica.%20039U0288.md), e' soppressa ed in suo luogo viene istituito il Centro nazionale per i sussidi audiovisivi col compito di promuovere la cinematografia didattica e culturale e gli altri sussidi audiovisivi in ogni ordine e grado di scuola.
  Il Centro nazionale per i sussidi audiovisivi ha personalita' giuridica di diritto pubblico, ed e' sottoposto alla vigilanza del Ministero della pubblica istruzione.
 
 ## Art. 2.

@@ -20,11 +20,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [R. decreto 2 agosto 1908, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-08-02;496); 
+ Visto il [R. decreto 2 agosto 1908, n. 496](Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20sul%20Consiglio%20superiore%20della%20marina%20del%20Comitato%20degli%20ammiragli%20e%20del%20Comitato%20per%20lesame%20di%20progetti%20di%20navi.%20008U0496.md); 
  
- Visto il [R. decreto 26 novembre 1908, n. 706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-26;706); 
+ Visto il [R. decreto 26 novembre 1908, n. 706](Che%20sostituisce%20un%20articolo%20delle%20norme%20regolamentari%20riguardanti%20lesame%20dei%20progetti%20di%20nuove%20navi.%20008U0706.md); 
  
  Sentito il Consiglio superiore di marina; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato o decretiamo: 
  
- L'ultimo capoverso dell'art. 31 del regolamento approvato con [R. decreto 2 agosto 1908, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-08-02;496), e modificato con successivo [R. decreto 26 novembre 1908, n. 706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-26;706), e' abrogato e sostituito dal seguente: 
+ L'ultimo capoverso dell'art. 31 del regolamento approvato con [R. decreto 2 agosto 1908, n. 496](Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20sul%20Consiglio%20superiore%20della%20marina%20del%20Comitato%20degli%20ammiragli%20e%20del%20Comitato%20per%20lesame%20di%20progetti%20di%20navi.%20008U0496.md), e modificato con successivo [R. decreto 26 novembre 1908, n. 706](Che%20sostituisce%20un%20articolo%20delle%20norme%20regolamentari%20riguardanti%20lesame%20dei%20progetti%20di%20nuove%20navi.%20008U0706.md), e' abrogato e sostituito dal seguente: 
  
  «Ne e' segretario, con voto, un tenente colonnello o maggiore del genio navale». 
  

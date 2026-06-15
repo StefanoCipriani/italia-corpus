@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 gennaio 1929, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-24;115), che detta provvedimenti per la sistemazione della strada conducente all'Abbazia di Montecassino. 
+ E' convertito in legge il [R. decreto-legge 24 gennaio 1929, n. 115](Provvedimenti%20per%20la%20sistemazione%20della%20strada%20conducente%20allAbbazia%20di%20Montecassino.%20029U0115.md), che detta provvedimenti per la sistemazione della strada conducente all'Abbazia di Montecassino. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

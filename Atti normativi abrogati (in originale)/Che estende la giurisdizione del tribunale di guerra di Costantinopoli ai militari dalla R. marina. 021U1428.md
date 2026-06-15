@@ -14,11 +14,11 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [Regio decreto numero 1745, in data 4 settembre 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-04;1745), col quale la giurisdizione del tribunale militare per l'esercito in Rodi fu estesa ai militari della R. marina destinati a terra od a bordo nel Mediterraneo orientale;
+Visto il [Regio decreto numero 1745, in data 4 settembre 1919](Che%20estende%20la%20giurisdizione%20del%20tribunale%20militare%20per%20lesercito%20in%20Rodi%20ai%20militari%20della%20R.%20marina.%20019U1745.md), col quale la giurisdizione del tribunale militare per l'esercito in Rodi fu estesa ai militari della R. marina destinati a terra od a bordo nel Mediterraneo orientale;
 
 Considerato che il tribunale militare per l'esercito in Rodi fu soppresso con bando del Comando del Regio corpo di spedizione italiano nel Mediterraneo orientale in data 16 luglio 1920, e che, con bando del presidio militare di Costantinopoli in data 13 marzo 1921, fu instituito in tale citta' un tribunale di guerra pei militari del Regio esercito;
 
-Visto l'[art. 4 del Regio decreto numero 1389 in data 30 settembre 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-09-30;1389#art_4) contenente norme per il passaggio allo stato di pace;
+Visto l'[art. 4 del Regio decreto numero 1389 in data 30 settembre 1920](Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md) contenente norme per il passaggio allo stato di pace;
 
 Sentito il Consiglio dei ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro ministro per la marina, di concerto con i ministri del
 
 ## Art. 1.
 
-Al [R. decreto 4 settembre 1919, n. 1745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-04;1745), sono apportate le seguenti varianti. 
+Al [R. decreto 4 settembre 1919, n. 1745](Che%20estende%20la%20giurisdizione%20del%20tribunale%20militare%20per%20lesercito%20in%20Rodi%20ai%20militari%20della%20R.%20marina.%20019U1745.md), sono apportate le seguenti varianti. 
  
  a) al 1° comma dell'art. 1, alle parole «Tribunale militare per 1'esercito in Rodi» stono sostituite le altre «Tribunale di guerra in Costantinopoli»; ed alle parole «sia destinati a terra, sia destinati a bordo di navi dislocate nel Dodecaneso» sono sostituite le altre «sia destinati a terra, sia destinati a bordo di navi dislocate nel Mediterraneo orientale»; 
  

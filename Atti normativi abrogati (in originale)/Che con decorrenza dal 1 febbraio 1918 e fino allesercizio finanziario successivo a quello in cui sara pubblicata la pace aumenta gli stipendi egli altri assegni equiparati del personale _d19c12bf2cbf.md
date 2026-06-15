@@ -53,7 +53,7 @@ Nei Casi consentiti dalle disposizioni in vigore, le assunzioni di avventizi, st
 
 ## Art. 6.
 
-Agli effetti del disposto dai precedenti articoli 1 (comma e), 2 e 4 (quest'ultimo per quanto concerne la indennita' temporanea per la durata della guerra) i maestri elementari, inscritti nei ruoli provinciali ai termini dell'[art. 43 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_43), sono equiparati agli impiegati di ruolo dello Stato.
+Agli effetti del disposto dai precedenti articoli 1 (comma e), 2 e 4 (quest'ultimo per quanto concerne la indennita' temporanea per la durata della guerra) i maestri elementari, inscritti nei ruoli provinciali ai termini dell'[art. 43 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), sono equiparati agli impiegati di ruolo dello Stato.
 
 ## Art. 7.
 
@@ -85,7 +85,7 @@ Il personale di ruolo ed avventizio degli Economati generali dei benefici vacant
 
 ## Art. 10.
 
-Gli aumenti di stipendio di cui nel presente decreto non possono essere ceduti, ne' pignorati, ne' sequestrati, e ad essi non sono applicabili le disposizioni della [legge 30 giugno 1908, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;335).
+Gli aumenti di stipendio di cui nel presente decreto non possono essere ceduti, ne' pignorati, ne' sequestrati, e ad essi non sono applicabili le disposizioni della [legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md).
 
 ## Art. 11.
 

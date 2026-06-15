@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le disposizioni restrittive contenute nel [decreto Luogotenenziale 8 marzo 1917, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-03-08;437), sono revocate in ogni loro parte, ed il servizio dell'assicurazione di oggetti di corrispondenza contro i casi di forza maggiore previsti dall'[art. 4 della legge 2 luglio 1912, numero 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-02;748#art_4), e' riattivato.
+Le disposizioni restrittive contenute nel [decreto Luogotenenziale 8 marzo 1917, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-03-08;437), sono revocate in ogni loro parte, ed il servizio dell'assicurazione di oggetti di corrispondenza contro i casi di forza maggiore previsti dall'[art. 4 della legge 2 luglio 1912, numero 748](Che%20apporta%20riforme%20nel%20servizio%20postale%20012U0748.md), e' riattivato.
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 ottobre 1928, n. 2233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-10-04;2233), che accorda la franchigia doganale ad alcune farine per l'alimentazione del bestiame ed abolisce il divieto di esportazione del bestiame bovino. 
+ E' convertito in legge il [R. decreto-legge 4 ottobre 1928, n. 2233](Provvedimenti%20per%20lindustria%20dellallevamento%20del%20bestiame.%20028U2233.md), che accorda la franchigia doganale ad alcune farine per l'alimentazione del bestiame ed abolisce il divieto di esportazione del bestiame bovino. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

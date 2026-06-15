@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Vista la [legge 31 dicembre 1925, n. 2318, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-31;29), con la quale il Governo del Re fu autorizzato a modificare le disposizioni delle leggi di pubblica sicurezza, a coordinarle con quelle relative alla medesima materia contenute nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), nel [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) ed in altre leggi, e a pubblicare un nuovo [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773); 
+ Vista la [legge 31 dicembre 1925, n. 2318, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-31;29), con la quale il Governo del Re fu autorizzato a modificare le disposizioni delle leggi di pubblica sicurezza, a coordinarle con quelle relative alla medesima materia contenute nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nel [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) ed in altre leggi, e a pubblicare un nuovo [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773); 
  
- Udito il parere della Sottocommissione parlamentare chiamata ad esaminare il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) emendato; 
+ Udito il parere della Sottocommissione parlamentare chiamata ad esaminare il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) emendato; 
  
  Udito il Consiglio dei Ministri; 
  

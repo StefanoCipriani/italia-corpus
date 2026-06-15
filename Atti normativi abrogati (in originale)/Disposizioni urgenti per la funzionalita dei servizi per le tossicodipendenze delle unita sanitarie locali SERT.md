@@ -44,7 +44,7 @@ I posti nell'organico dei SERT, istituiti dall'[articolo 6 del decreto del Minis
 
 6.
 
-Restano ferme le disposizioni limitative in materia di assunzioni contenute nella [legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724).
+Restano ferme le disposizioni limitative in materia di assunzioni contenute nella [legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md).
 
 ## Art. 2.
 

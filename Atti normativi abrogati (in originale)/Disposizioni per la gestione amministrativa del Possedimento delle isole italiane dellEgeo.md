@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 23 settembre 1935, n. 1757](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-23;1757), recante norme per l'amministrazione e la contabilita' del Possedimento delle isole italiane dell'Egeo;
+Visto il [R. decreto-legge 23 settembre 1935, n. 1757](Norme%20per%20lamministrazione%20e%20la%20contabilita%20del%20Possedimento%20delle%20Isole%20italiane%20dellEgeo.%20035U1757.md), recante norme per l'amministrazione e la contabilita' del Possedimento delle isole italiane dell'Egeo;
 
-Visto il [R. decreto-legge 22 novembre 1936, n. 2025](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-11-22;2025).
+Visto il [R. decreto-legge 22 novembre 1936, n. 2025](Nomina%20dal%20nob.%20Cesare%20Maria%20De%20Vecchi%20conte%20di%20Val%20Cismon%20a%20Governatore%20delle%20Isole%20italiane%20dellEgeo.%20036U2025.md).
 
 Visto il [R. decreto-legge 9 febbraio 1939, n. 273, ed il parere](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-09;273) della Corte dei conti a sezioni riunite;
 

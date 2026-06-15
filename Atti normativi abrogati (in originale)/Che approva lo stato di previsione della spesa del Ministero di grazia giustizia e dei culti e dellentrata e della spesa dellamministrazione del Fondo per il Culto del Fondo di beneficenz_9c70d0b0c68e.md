@@ -20,7 +20,7 @@ L'Amministrazione del fondo per il culto e' autorizzata
  
  b) a far pagare le proprie spese ordinarie e straordinario relative all' esercizio finanziario dal 1° luglio 1912 al 30 giugno 1913, in conformita' dello stato di previsione, annesso alla presente legge (tabella C). 
  
- Per gli effetti di che, all'articolo n. 38 del testo unico della legge sulla contabilita' generale dello Stato, approvato col [R. decreto 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016), sono considerate spese obbligatorie e d'ordine dell'Amministrazione del fondo per il culto quelle descritte nell'elenco n. 1, annesso alla presente legge. 
+ Per gli effetti di che, all'articolo n. 38 del testo unico della legge sulla contabilita' generale dello Stato, approvato col [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md), sono considerate spese obbligatorie e d'ordine dell'Amministrazione del fondo per il culto quelle descritte nell'elenco n. 1, annesso alla presente legge. 
  
  Pel pagamento delle spese indicato nell'elenco n. 2, annesso alla presente leggi, potra' l'Amministrazione del fondo per il culto aprire crediti, mediante mandati a disposizione dei funzionari incaricati.
 
@@ -32,7 +32,7 @@ La detta Amministrazione del fondo per il culto e' autorizzata:
  
  b) a far pagare le spese ordinarie e straordinarie del fondo di beneficenza e di religione nella citta' di Roma, per l'esercizio finanziario dal 1° luglio 1912 al 30 giugno 1913, in conformita' dello stato di previsione, annesso alla presente legge (tabella E). 
  
- Per gli effetti di che all'articolo n. 38, del testo unico della legge sulla contabilita' generale dello Stato, approvato col [R. decreto 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016), sono considerate spese obbligatorie e d'ordine del fondo di beneficenza e di religione nella citta' di Roma quelle descritte nell'elenco n. 3, annesso alla presente legge. 
+ Per gli effetti di che all'articolo n. 38, del testo unico della legge sulla contabilita' generale dello Stato, approvato col [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md), sono considerate spese obbligatorie e d'ordine del fondo di beneficenza e di religione nella citta' di Roma quelle descritte nell'elenco n. 3, annesso alla presente legge. 
  
  Pel pagamento delle spese indicate nell'elenco n. 4, annesso alla presente legge, la detta Amministrazione del fondo per il culto potra', per il fondo di beneficenza e di religione nella citta' di Roma, aprire crediti, mediante mandati a disposizione dei funzionari incaricati.
 

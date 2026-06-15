@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato pel tesoro, di concerto con quel
 
 ## Art. 1.
 
-I limiti delle pensioni minime liquidate o da liquiquidarsi dal Monte pensioni degli insegnanti elementari, a' termini dell'art. 18 del testo unico approvato con [Regio decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), libro terzo, parte prima, saranno rispettivamente elevati da L. 400, 350 e 300 a L. 500, 450 e 400 per gli insegnanti pensionati o pensionandi, che abbiano compiuti 65 anni di eta', o quando compiranno tale eta'. 
+I limiti delle pensioni minime liquidate o da liquiquidarsi dal Monte pensioni degli insegnanti elementari, a' termini dell'art. 18 del testo unico approvato con [Regio decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), libro terzo, parte prima, saranno rispettivamente elevati da L. 400, 350 e 300 a L. 500, 450 e 400 per gli insegnanti pensionati o pensionandi, che abbiano compiuti 65 anni di eta', o quando compiranno tale eta'. 
  
  L'aumento avra' effetto dal 1° luglio 1916 per gli insegnanti gia' pensionati che abbiano a tale data compiuto il 65° anno di eta', e dalla data di decorrenza della pensione per coloro che verranno pensionati a partire dal 1° luglio 1916 con 65 anni compiuti. 
  

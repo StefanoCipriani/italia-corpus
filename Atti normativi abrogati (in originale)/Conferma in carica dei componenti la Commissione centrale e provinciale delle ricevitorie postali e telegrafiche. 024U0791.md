@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 2 ottobre 1919, n. 2100](che%20stabilisce%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20e%20telefoniche%20dettando%20norme%20sul%20relativo%20personale%20e%20deferendo%20le%20controversie%20di%20carattere%20economico%20fra%20lAmministrazi_a149720d02ac.md), nonche' il regolamento approvato con [R. decreto 13 febbraio 1921, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-02-13;196);
+Visto il [R. decreto-legge 2 ottobre 1919, n. 2100](che%20stabilisce%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20e%20telefoniche%20dettando%20norme%20sul%20relativo%20personale%20e%20deferendo%20le%20controversie%20di%20carattere%20economico%20fra%20lAmministrazi_a149720d02ac.md), nonche' il regolamento approvato con [R. decreto 13 febbraio 1921, n. 196](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20ottobre%201919%20n.%202100%20modificato%20col%20R.%20decreto-legge%2030%20settembre%201920%20n.%201441%20riflettente%20lordinamento%20delle%20ricevitorie_1844c5b600cd.md);
 
 Visto il [R. decreto-legge 16 ottobre 1923, n. 2428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-10-16;2428);
 
-Visto il [R. decreto 17 febbraio 1924, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-17;182);
+Visto il [R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md);
 
 Inteso il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le poste ed i telegra
 
 ## Art. 1.
 
-I membri elettivi che fan parte delle Commissioni delle ricevitorie, centrale e provinciali, ai sensi del [R. decreto-legge 2 ottobre 1919, n. 2100](che%20stabilisce%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20e%20telefoniche%20dettando%20norme%20sul%20relativo%20personale%20e%20deferendo%20le%20controversie%20di%20carattere%20economico%20fra%20lAmministrazi_a149720d02ac.md), e del regolamento approvato col [R. decreto 13 febbraio 1921, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-02-13;196), sono confermati in carica oltre i limiti di tempo stabiliti dai medesimi Regi decreti.
+I membri elettivi che fan parte delle Commissioni delle ricevitorie, centrale e provinciali, ai sensi del [R. decreto-legge 2 ottobre 1919, n. 2100](che%20stabilisce%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20e%20telefoniche%20dettando%20norme%20sul%20relativo%20personale%20e%20deferendo%20le%20controversie%20di%20carattere%20economico%20fra%20lAmministrazi_a149720d02ac.md), e del regolamento approvato col [R. decreto 13 febbraio 1921, n. 196](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20ottobre%201919%20n.%202100%20modificato%20col%20R.%20decreto-legge%2030%20settembre%201920%20n.%201441%20riflettente%20lordinamento%20delle%20ricevitorie_1844c5b600cd.md), sono confermati in carica oltre i limiti di tempo stabiliti dai medesimi Regi decreti.
 
 ## Art. 2.
 

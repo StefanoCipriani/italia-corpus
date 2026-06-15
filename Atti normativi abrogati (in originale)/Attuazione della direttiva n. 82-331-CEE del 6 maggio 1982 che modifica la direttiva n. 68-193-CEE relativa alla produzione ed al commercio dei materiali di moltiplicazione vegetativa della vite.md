@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico
 
-Nell'allegato III, "Condizionamento", annesso al [decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-24;1164), di recepimento della [direttiva n. 68/193/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1968;193), il testo dei numeri 1 e 2 e' sostituito dal seguente:
+Nell'allegato III, "Condizionamento", annesso al [decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](../DPR/Norme%20sulla%20produzione%20e%20sul%20commercio%20dei%20materiali%20di%20moltiplicazione%20vegetativa%20della%20vite.md), di recepimento della [direttiva n. 68/193/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1968;193), il testo dei numeri 1 e 2 e' sostituito dal seguente:
 
 Natura
                                 Quantita'

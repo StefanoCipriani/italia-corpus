@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli Istituti di previdenza amministrati dalla Cassa depositi e prestiti sono autorizzati a ricevere in conto corrente, al tasso del 6.50 per cento all'anno, dal Banco di Sicilia, dalla Cassa di risparmio di detto Banco, dalla Cassa di risparmio Vittorio Emanuele per le Provincie siciliane, sia unitamente che separatamente, la somma di L. 10,000,000 per mutuarla a loro volta al comune di Palermo, in esecuzione dell'[art. 3 del R. decreto-legge 29 luglio 1925, n. 1420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-29;1420#art_3), convertito nella [legge 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), che viene, pertanto, modificata in conformita' delle disposizioni contenute nella presente legge. 
+Gli Istituti di previdenza amministrati dalla Cassa depositi e prestiti sono autorizzati a ricevere in conto corrente, al tasso del 6.50 per cento all'anno, dal Banco di Sicilia, dalla Cassa di risparmio di detto Banco, dalla Cassa di risparmio Vittorio Emanuele per le Provincie siciliane, sia unitamente che separatamente, la somma di L. 10,000,000 per mutuarla a loro volta al comune di Palermo, in esecuzione dell'[art. 3 del R. decreto-legge 29 luglio 1925, n. 1420](Concessione%20al%20comune%20di%20Palermo%20del%20rifornimento%20idrico.%20025U1420.md), convertito nella [legge 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), che viene, pertanto, modificata in conformita' delle disposizioni contenute nella presente legge. 
  
  All'operazione e' applicabile il [secondo comma dell'art. 16 della legge 11 dicembre 1910, n. 855](Concernente%20disposizioni%20varie%20per%20la%20Cassa%20dei%20depositi%20e%20prestiti%20e%20le%20gestioni%20annesse.%20010U0855.md). 
  
@@ -22,7 +22,7 @@ I versamenti in conto corrente saranno effettuati dagli Istituti sovventori, di 
 
 ## Art. 3.
 
-Il mutuo che, a termini dell'art. 1 della presente legge, gli Istituti di previdenza amministrati dalla Cassa depositi e prestiti faranno al comune di Palermo, sara' concesso all'interesse del 6.50 per cento all'anno, con ammortamento in 50 anni e con il concorso governativo stabilito dal [R. decreto-legge 29 luglio 1925, n. 1420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-29;1420), su citato. 
+Il mutuo che, a termini dell'art. 1 della presente legge, gli Istituti di previdenza amministrati dalla Cassa depositi e prestiti faranno al comune di Palermo, sara' concesso all'interesse del 6.50 per cento all'anno, con ammortamento in 50 anni e con il concorso governativo stabilito dal [R. decreto-legge 29 luglio 1925, n. 1420](Concessione%20al%20comune%20di%20Palermo%20del%20rifornimento%20idrico.%20025U1420.md), su citato. 
  
  Per tutto quanto non sia disposto dalla presente legge si applicano al detto mutuo le disposizioni che regolano i mutui degli Istituti di previdenza amministrati dalla Cassa depositi e prestiti.
 

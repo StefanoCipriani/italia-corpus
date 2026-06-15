@@ -12,23 +12,23 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);
+Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [regio decreto 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-27;2367);
+Visto il [regio decreto 27 novembre 1924, n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md);
 
-Vista la [legge 22 aprile 1932, n. 490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-04-22;490);
+Vista la [legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md);
 
-Visto il [regio decreto 27 gennaio 1933, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-27;153);
+Visto il [regio decreto 27 gennaio 1933, n. 153](Approvazione%20del%20regolamento%20per%20i%20concorsi%20ai%20posti%20di%20direttore%20insegnante%20ed%20istruttore%20pratico%20nelle%20Regie%20scuole%20e%20nei%20Regi%20corsi%20secondari%20di%20avviamento%20professionale.%20033U0153.md);
 
-Visto il [regio decreto-legge 25 febbraio 1939, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-25;335);
+Visto il [regio decreto-legge 25 febbraio 1939, n. 335](Nuove%20norme%20per%20la%20valutazione%20dello%20stato%20civile%20ai%20fini%20delle%20nomine%20e%20promozioni%20del%20personale%20dipendente%20dalle%20pubbliche%20amministrazioni.%20039U0335.md);
 
-Vista la [legge 21 agosto 1940, n. 1253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-08-21;1253);
+Vista la [legge 21 agosto 1940, n. 1253](Norme%20di%20adeguamento%20al%20personale%20insegnante%20delle%20disposizioni%20circa%20la%20valutazione%20dello%20stato%20civile%20ai%20fini%20delle%20nomine%20e%20promozioni.%20040U1253.md);
 
-Visto il [regio decreto-legge 2 agosto 1943, n. 707](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-02;707);
+Visto il [regio decreto-legge 2 agosto 1943, n. 707](Abrogazione%20delle%20norme%20contenenti%20limitazioni%20in%20dipendenza%20dello%20stato%20di%20celibe.%20043U0707.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 

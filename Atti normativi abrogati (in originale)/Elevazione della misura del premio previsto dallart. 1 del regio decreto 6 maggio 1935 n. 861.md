@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La misura del Premio previsto dall'[art. 1 del regio decreto 6 maggio 1935, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-05-06;861#art_1), e' elevato da lire 2.000 a lire 60.000.
+La misura del Premio previsto dall'[art. 1 del regio decreto 6 maggio 1935, n. 861](Abrogazione%20del%205%20comma%20della%20tabella%20B%20annessa%20al%20regolamento%20sugli%20assegni%20speciali%20di%20bordo%20e%20nuove%20disposizioni%20per%20la%20concessione%20di%20un%20premio%20ai%20direttori%20di%20tiro.%20035U0861.md), e' elevato da lire 2.000 a lire 60.000.
 
 ## Art. 2.
 

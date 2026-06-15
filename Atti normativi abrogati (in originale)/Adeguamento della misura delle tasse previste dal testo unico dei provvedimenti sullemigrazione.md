@@ -16,13 +16,13 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Gli articoli 18 (comma quinto), 20 (comma secondo), 23, 26 (comma secondo) e 28 (commi primo e secondo) del testo unico dei provvedimenti sull'emigrazione, approvato con [regio decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205), convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sono sostituiti dai seguenti:
+Gli articoli 18 (comma quinto), 20 (comma secondo), 23, 26 (comma secondo) e 28 (commi primo e secondo) del testo unico dei provvedimenti sull'emigrazione, approvato con [regio decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), sono sostituiti dai seguenti:
  "Art. 18 (comma quinto). - La patente e' valida, per un anno, soggetta, di volta in volta, ad una tassa di concessione di L. 120.000 per ogni piroscafo iscritto e vincolata ad una cauzione non inferiore a L. 60.000 di rendita in titoli dello Stato che verra' fissata dal Ministero degli affari esteri, secondo l'importanza delle operazioni".
  "Art. 20 (comma secondo). - Le licenze consolari di cui al comma precedente sono sottoposte alla tassa di L. 2 per ogni tonnellata di stazza netta".
  "Art. 23. - Ogni provvedimento di assenso da parte del Ministero degli affari esteri alle proposte di vettori per nomina di rappresentanti sara' sottoposta al pagamento di una tassa di L. 1000 da corrispondersi dal vettore per ogni concessione di rappresentanza".
  "Art. 268 (comma secondo). - E' stabilita a carico dei vettori e dei capitani dei piroscafi muniti di licenza consolare a norma dell'art. 20, una tassa per i viaggi di ritorno degli emigranti dai porti transoceanici ad un porto italiano nella misura corrispondente ai tre quarti di quella stabilita dal precedente comma.
  "La tassa di cui al comma precedente e' accertata dagli ispettori di frontiera per gli italiani all'estero del primo porto nazionale di approdo del piroscafo in base all'elenco nominativo degli imbarcati, controllato dall'ispettore predetto con il concorso del commissario governativo viaggiante sullo stesso piroscafo.
- "Indipendentemente dalla consegna dell'elenco di cui all'art. 185 del regolamento sull'emigrazione approvato con [regio decreto 10 luglio 1901, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-07-10;375), l'ispettore di frontiera puo' prendere visione dei documenti di bordo e valersi degli altri mezzi che riterra' opportuni per il controllo di sua competenza.
+ "Indipendentemente dalla consegna dell'elenco di cui all'art. 185 del regolamento sull'emigrazione approvato con [regio decreto 10 luglio 1901, n. 375](Che%20manda%20in%20vigore%20la%20legge%20n.%2023%20del%2031%20gennaio%201901%20sullemigrazione%20ed%20approva%20il%20relativo%20Regolamento.%20001U0375.md), l'ispettore di frontiera puo' prendere visione dei documenti di bordo e valersi degli altri mezzi che riterra' opportuni per il controllo di sua competenza.
  "La tassa per i viaggi di ritorno deve essere versata, alla Sezione di tesoreria entro otto giorni dalla data dell'ordinativo di versamento emesso dall'ispettore.
  "Nei casi di ritardo decorrono, a carico dei vettori, dei capitani di piroscafo comunque muniti di licenza per servizio di emigrazione, gli interessi legali per il periodo di mora da liquidarsi a cura del Ministero degli affari esteri e dell'Ispettorato di frontiera".
  "Art. 28 (commi primo e secondo). - L'imbarco degli immigranti dovra' dal vettore effettuarsi nei porti d'imbarco indicati nella prima parte dell'art. 5.
@@ -44,7 +44,7 @@ Le spese e le indennita' per le visite previste dalla legge e dal regolamento su
 
 ## Art. 5.
 
-Sono abrogate le disposizioni di cui all'[art. 3 del regio decreto-legge 28 luglio 1929, n. 1363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-07-28;1363#art_3).
+Sono abrogate le disposizioni di cui all'[art. 3 del regio decreto-legge 28 luglio 1929, n. 1363](Ulteriore%20sgravio%20della%20tassa%20sugli%20scambi%20e%20soppressione%20di%20talune%20tasse%20ed%20imposte%20minori.%20029U1363.md).
 
 ## Art. 6.
 

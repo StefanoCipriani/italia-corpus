@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 ottobre 1928, n. 2288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-10-04;2288), concernente la proroga della facolta' concessa al Ministro per la pubblica istruzione di affidare l'incarico di curare l'avviamento della Facolta' fascista di scienze politiche della Regia universita' di Perugia ad un professore di ruolo di altra Universita'. 
+ E' convertito in legge il [R. decreto-legge 4 ottobre 1928, n. 2288](Proroga%20della%20facolta%20concessa%20al%20Ministro%20per%20la%20pubblica%20istruzione%20di%20affidare%20lincarico%20di%20curare%20lavviamento%20della%20Facolta%20fascista%20di%20scienze%20politiche%20della%20Regia%20universita%20di%20Per_b98a52d79986.md), concernente la proroga della facolta' concessa al Ministro per la pubblica istruzione di affidare l'incarico di curare l'avviamento della Facolta' fascista di scienze politiche della Regia universita' di Perugia ad un professore di ruolo di altra Universita'. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-19;698), contenente modificazioni all'ordinamento degli ufficiali giudiziari e degli uscieri giudiziari. 
+ E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 698](Modifiche%20allordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari.%20034U0698.md), contenente modificazioni all'ordinamento degli ufficiali giudiziari e degli uscieri giudiziari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

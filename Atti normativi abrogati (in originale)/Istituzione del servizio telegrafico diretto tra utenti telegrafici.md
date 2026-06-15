@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il Codice postale e delle telecomunicazioni (libro II) approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), ed il regolamento di esecuzione del Codice stesso, approvato con [regio decreto 19 luglio 1941, n. 1198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-19;1198);
+Visto il Codice postale e delle telecomunicazioni (libro II) approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), ed il regolamento di esecuzione del Codice stesso, approvato con [regio decreto 19 luglio 1941, n. 1198](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
 
 Viste le convenzioni in vigore con le cinque societa' concessionarie telefoniche;
 
@@ -18,7 +18,7 @@ Ritenuto opportuno di istituire il servizio di corrispondenza telegrafica dirett
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -34,7 +34,7 @@ Il Ministero delle poste e delle telecomunicazioni ha facolta' di istituire il s
 
 La concessione dell'impianto e dell'esercizio di apparati telegrafici e relative apparecchiature elettriche, ovunque ubicati, per il servizio di cui trattasi, e' di competenza dell'Amministrazione delle poste e dei telegrafi.
  L'impianto non puo' essere messo a disposizione di terzi, ne' usato a scopo diverso da quello cui e' destinato.
- Per il servizio di nuova istituzione, oltre le particolari disposizioni che saranno stabilite, valgono, in quanto applicabili, tutte le altre comprese nel Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), e nel regolamento di esecuzione del Codice stesso, approvato con [regio decreto 19 luglio 1941, n. 1198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-19;1198).
+ Per il servizio di nuova istituzione, oltre le particolari disposizioni che saranno stabilite, valgono, in quanto applicabili, tutte le altre comprese nel Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), e nel regolamento di esecuzione del Codice stesso, approvato con [regio decreto 19 luglio 1941, n. 1198](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md).
 
 ## Art. 3.
 

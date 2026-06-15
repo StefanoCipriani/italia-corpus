@@ -14,7 +14,7 @@ TITOLO I.
 
 ### Art. 1.
 
-Il piano che determina la zona industriale, di cui all'art. 362 del testo unico approvato con [R. decreto 12 ottobre 1913, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-12;1261), e' pubblicato all'albo pretorio dei Comuni per il termine di 15 giorni. 
+Il piano che determina la zona industriale, di cui all'art. 362 del testo unico approvato con [R. decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md), e' pubblicato all'albo pretorio dei Comuni per il termine di 15 giorni. 
  
  Il piano suddetto e' approvato con decreto Reale, che ne fissera' Il termine di esecuzione. Contro tale decreto Reale non e' ammesso alcun gravame.
 
@@ -22,7 +22,7 @@ Il piano che determina la zona industriale, di cui all'art. 362 del testo unico 
 
 I terreni compresi nel piano di delimitazione possono espropriarsi gradualmente per settori, e l'indennita' di espropriazione e' determinata in base al valore di stima, al momento dell'effettiva espropriazione, senza tener conto ne' delle nuove costruzioni e migliorie fatte dopo la pubblicazione del piano di cui all'articolo precedente, ne' del maggior valore derivante ai beni espropriati dalla destinazione industriale della zona. 
  
- Per l'espropriazione sono osservate le norme della [legge 25 giugno 1865, n. 2359, e degli articoli 145 e seguenti](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_145) del testo unico predetto. 
+ Per l'espropriazione sono osservate le norme della [legge 25 giugno 1865, n. 2359, e degli articoli 145 e seguenti](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md) del testo unico predetto. 
  
  I piani di esecuzione sono approvati con decreto Reale contro il quale non e' ammesso alcun gravame. 
  
@@ -194,7 +194,7 @@ All'art. 75 del testo unico si aggiunge:
 
 L'art. 143 del testo unico e' cosi' modificato: 
  
- Ferma restando la disposizione dell'[art. 51 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_51), qualora i proprietari non accettino la indennita' loro offerta per le espropriazioni indicate nell'art. 145, questa e' fissata da Collegi arbitrali. Essi hanno anche competenza a liquidare i danni derivanti dai lavori o dalle costruzioni di cui all'art. 140. 
+ Ferma restando la disposizione dell'[art. 51 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), qualora i proprietari non accettino la indennita' loro offerta per le espropriazioni indicate nell'art. 145, questa e' fissata da Collegi arbitrali. Essi hanno anche competenza a liquidare i danni derivanti dai lavori o dalle costruzioni di cui all'art. 140. 
  
  Da detti Collegi, uno risiede a Messina, con competenza per le espropriazioni ed i danni che ricadono in quella Provincia, ed un altro a Reggio Calabria, per le espropriazioni ed i danni ricadenti nelle provincie di Reggio Calabria e Catanzaro. 
  
@@ -202,7 +202,7 @@ L'art. 143 del testo unico e' cosi' modificato:
  
  Con decreto Reale, su proposta dei ministri dei lavori pubblici e di grazia e giustizia, possono essere costituiti piu' Collegi arbitrali di 1° grado in ciascuna delle circoscrizioni territoriali di cui al 2° comma. 
  
- Nell'atto di notifica del decreto di espropriazione, di cui al citato [art. 51 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_51), sara' fatta espressa meritorie che, trascorso senza reclamo il termine di 30 giorni, la indennita' s'intende accettata dall'espropriato.
+ Nell'atto di notifica del decreto di espropriazione, di cui al citato [art. 51 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sara' fatta espressa meritorie che, trascorso senza reclamo il termine di 30 giorni, la indennita' s'intende accettata dall'espropriato.
 
 ### Art. 24.
 
@@ -268,7 +268,7 @@ L'art. 349 del testo unico e' modificato come segue:
 
 ### Art. 32.
 
-All'[art. 21 del R. decreto 18 giugno 1914, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-06-18;700#art_21), e' aggiunto il seguente comma: 
+All'[art. 21 del R. decreto 18 giugno 1914, n. 700](Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md), e' aggiunto il seguente comma: 
  
  La gestione delle baracche comprende quelle costruite dai Comuni o da qualunque Amministrazione dello Stato, anche su suoli comunali.
 
@@ -280,7 +280,7 @@ All'art. 23 del P. decreto 18 giugno 1914, n. 700, e' aggiunto dopo il secondo c
 
 ### Art. 34.
 
-L'[art. 39 del R. decreto 18 giugno 1914, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-06-18;700#art_39), e' modificato come segue: 
+L'[art. 39 del R. decreto 18 giugno 1914, n. 700](Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md), e' modificato come segue: 
  
  All'art. 304 del testo unico e' sostituito il seguente: 
  
@@ -292,7 +292,7 @@ L'[art. 39 del R. decreto 18 giugno 1914, n. 700](https://www.normattiva.it/uri-
 
 ### Art. 35.
 
-L'[art. 40 del R. decreto 18 giugno 1914, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-06-18;700#art_40), e' modificato come segue: 
+L'[art. 40 del R. decreto 18 giugno 1914, n. 700](Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md), e' modificato come segue: 
  
  La Cassa depositi o prestiti, la Cassa nazionale per la invalidita' e la vecchiaia degli operai e le Casse di risparmio ordinarie, compresa la Cassa di risparmio del Banco di Napoli, hanno facolta' di fare le operazioni di cui all'articolo precedente, accettando in garanzia, oltre alle annualita' del contributo del Ministero di agricoltura, anche le semestralita' dei contributi dello Stato per i mutui, e le annualita' del contributo del Banco di Napoli. 
  

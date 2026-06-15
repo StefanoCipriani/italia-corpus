@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell' autorita' a Noi delegata;
 
-Vista la [legge 7 luglio 1901, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-07-07;283);
+Vista la [legge 7 luglio 1901, n. 283](Onorari%20dei%20procuratori%20e%20patrocinio%20legale%20nelle%20preture.%20001U0283.md);
 
 Visti gli [articoli 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_373) e [379 Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_379) e il [decreto Luogotenenziale 7 marzo 1918, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-03-07;352);
 
@@ -30,7 +30,7 @@ Sulla proposta del guardasigilli, ministro segretario di Stato per gli affari di
 
 ## Art. 1.
 
-In sostituzione della tabella annessa alla [legge 7 luglio 1901, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-07-07;283), e delle norme che la precedono, gli onorari e gli altri diritti dei procuratori sono determinati dalla tabella unita al presente decreto e dalle norme relative. 
+In sostituzione della tabella annessa alla [legge 7 luglio 1901, n. 283](Onorari%20dei%20procuratori%20e%20patrocinio%20legale%20nelle%20preture.%20001U0283.md), e delle norme che la precedono, gli onorari e gli altri diritti dei procuratori sono determinati dalla tabella unita al presente decreto e dalle norme relative. 
  
  Niun altro diritto e' loro dovuto. 
  
@@ -54,7 +54,7 @@ Per le spese ed onorari dovuti alla persone indicate nell'[art. 103 del Codice d
  
  Anche gli avvocati per il pagamento degli onorari loro dovuti dalle parti possono valersi del procedimento stabilito da questo articolo, previo parere del Consiglio dell' Ordine degli avvocati. 
  
- Dello stesso procedimento possono valersi i difensori ufficiosi pel pagamento delle competenze loro dovute dalle parti soccombenti a norma dell'[art 28 R decreto 6 dicembre 1865, n. 2627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-06;2627#art_28).
+ Dello stesso procedimento possono valersi i difensori ufficiosi pel pagamento delle competenze loro dovute dalle parti soccombenti a norma dell'[art 28 R decreto 6 dicembre 1865, n. 2627](Col%20quale%20e%20regolato%20il%20gratuito%20patrocinio%20dei%20poveri.%20065U2627.md).
 
 ## Art. 4.
 

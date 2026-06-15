@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 settembre 1934, n. 1464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-18;1464), contenente norme intese ad alleviare l'onere degli interessi sui mutui. 
+ E' convertito in legge il [R. decreto-legge 18 settembre 1934, n. 1464](Norme%20intese%20ad%20alleviare%20lonere%20degli%20interessi%20sui%20mutui.%20034U1464.md), contenente norme intese ad alleviare l'onere degli interessi sui mutui. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti gli osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono considerati nelle condizioni previste dall'[articolo 2 del R. decreto 23 maggio 1915, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;677#art_2), ed hanno, percio', diritto alle indennita' di guerra stabilite dal R. decreto medesimo: 
+Sono considerati nelle condizioni previste dall'[articolo 2 del R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), ed hanno, percio', diritto alle indennita' di guerra stabilite dal R. decreto medesimo: 
  
  a) il personale addetto al comando supremo dell'esercito, all'intendenza generale e quello componente le grandi unita' di guerra, compresi i depositi centrali ; 
  
@@ -30,7 +30,7 @@ Gli impiegati civili che rivestono da non meno di 12 anni un grado equiparato a 
 
 ## Art. 4.
 
-I sottufficiali e musicanti dell'esercito i quali percepivano la indennita' giornaliera di lire 2, in forza dei RR. decreti 3 gennaio 1913, n. 1, e 4 marzo 1915, e che per effetto del [R. decreto 23 maggio 1915, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;677) verrebbero a percepire un soprassoldo minore, conserveranno la differenza.
+I sottufficiali e musicanti dell'esercito i quali percepivano la indennita' giornaliera di lire 2, in forza dei RR. decreti 3 gennaio 1913, n. 1, e 4 marzo 1915, e che per effetto del [R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md) verrebbero a percepire un soprassoldo minore, conserveranno la differenza.
 
 ## Art. 5.
 

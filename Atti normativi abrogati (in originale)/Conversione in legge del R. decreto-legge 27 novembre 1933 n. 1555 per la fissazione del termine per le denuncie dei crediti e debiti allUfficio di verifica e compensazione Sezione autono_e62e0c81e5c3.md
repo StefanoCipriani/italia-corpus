@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1555), per la fissazione del termine per le denuncie dei crediti e debiti all'Ufficio di verifica e compensazione, Sezione autonoma di Trieste. 
+ E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1555](Fissazione%20del%20termine%20per%20le%20denuncie%20dei%20crediti%20e%20debiti%20allUfficio%20di%20verifica%20e%20compensazione%20Sezione%20autonoma%20di%20Trieste.%20033U1555.md), per la fissazione del termine per le denuncie dei crediti e debiti all'Ufficio di verifica e compensazione, Sezione autonoma di Trieste. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

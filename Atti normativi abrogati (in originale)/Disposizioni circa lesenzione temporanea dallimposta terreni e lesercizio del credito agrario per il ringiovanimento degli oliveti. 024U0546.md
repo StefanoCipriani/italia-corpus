@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Fra i miglioramenti, considerati dall'[art. 1 del R. decreto 16 dicembre 1922, n. 1717](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-16;1717#art_1), e per i quali e' concessa l'esenzione temporanea dall'imposta terreni, e' compreso il ringiovanimento degli oliveti, risultante da quel complesso di operazioni razionali che ha per scopo di rinnovare il ciocco, il tronco e la chioma degli alberi. 
+Fra i miglioramenti, considerati dall'[art. 1 del R. decreto 16 dicembre 1922, n. 1717](Concernente%20la%20revisione%20periodica%20del%20classamento%20dei%20terreni%20agli%20effetti%20del%20nuovo%20catasto.%20022U1717.md), e per i quali e' concessa l'esenzione temporanea dall'imposta terreni, e' compreso il ringiovanimento degli oliveti, risultante da quel complesso di operazioni razionali che ha per scopo di rinnovare il ciocco, il tronco e la chioma degli alberi. 
  
  Tale complesso di operazioni deve essere integralmente eseguito secondo un piano, di volta in volta, formato od approvato dalla locale cattedra ambulante di agricoltura. 
  
@@ -22,7 +22,7 @@ Fra i miglioramenti, considerati dall'[art. 1 del R. decreto 16 dicembre 1922, n
 
 ## Art. 2.
 
-Agli effetti delle disposizioni di cui al [testo unico 9 aprile 1922, n. 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1922-04-09;932), e al [R. decreto 30 dicembre 1923, n. 3139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3139), sono considerate operazioni di credito per miglioramenti agrari, ai sensi dell'art. 17 del testo unico suddetto, i prestiti per il ringiovanimento delle piantagioni di olivi da eseguirsi secondo il piano redatto od approvato dalla cattedra ambulante di agricoltura della circoscrizione.
+Agli effetti delle disposizioni di cui al [testo unico 9 aprile 1922, n. 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1922-04-09;932), e al [R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), sono considerate operazioni di credito per miglioramenti agrari, ai sensi dell'art. 17 del testo unico suddetto, i prestiti per il ringiovanimento delle piantagioni di olivi da eseguirsi secondo il piano redatto od approvato dalla cattedra ambulante di agricoltura della circoscrizione.
 
 ## Art. 3.
 

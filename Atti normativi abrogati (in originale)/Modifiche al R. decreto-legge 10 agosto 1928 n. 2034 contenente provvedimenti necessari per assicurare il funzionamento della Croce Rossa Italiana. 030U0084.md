@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 7 febbraio 1884, n. 1243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-07;1243) (serie III), parte supplementare, col quale fu eretta in corpo morale l'Associazione della Croce Rossa Italiana, in base alla facolta' conferita al Governo dalla [legge 22 maggio 1882, numero 768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-05-22;768);
+Veduto il [R. decreto 7 febbraio 1884, n. 1243](Che%20erige%20in%20corpo%20morale%20lassociazione%20italiana%20della%20Croce%20Rossa.%208401243R.md) (serie III), parte supplementare, col quale fu eretta in corpo morale l'Associazione della Croce Rossa Italiana, in base alla facolta' conferita al Governo dalla [legge 22 maggio 1882, numero 768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-05-22;768);
 
 Veduto il [R. decreto-legge 10 agosto 1928, n. 2034](Provvedimenti%20necessari%20per%20assicurare%20il%20funzionamento%20della%20Croce%20Rossa%20Italiana.%20028U2034.md), contenente provvedimenti necessari per assicurare il funzionamento della Croce Rossa Italiana;
 
@@ -32,7 +32,7 @@ Gli [articoli 1](Provvedimenti%20necessari%20per%20assicurare%20il%20funzionamen
 
 ## Art. 2.
 
-L'Associazione italiana della Croce Rossa, eretta in corpo morale con [R. decreto 7 febbraio 1884, n. 1243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-07;1243), in dipendenza della [legge 21 maggio 1882, n. 768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-05-21;768), ha per scopi: 
+L'Associazione italiana della Croce Rossa, eretta in corpo morale con [R. decreto 7 febbraio 1884, n. 1243](Che%20erige%20in%20corpo%20morale%20lassociazione%20italiana%20della%20Croce%20Rossa.%208401243R.md), in dipendenza della [legge 21 maggio 1882, n. 768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-05-21;768), ha per scopi: 
  
  a) di contribuire, con personale e con mezzi propri, allo sgombero e alla cura dei malati e feriti di guerra; di organizzare ed eseguire la difesa sanitaria contraerei ed antigas; di disimpegnare il servizio dei prigionieri di guerra, secondo la Convenzione internazionale di Ginevra 6 luglio 1906, messa in vigore nel Regno con [R. decreto 9 settembre 1907, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-09;545). 
  
@@ -46,7 +46,7 @@ L'Associazione italiana della Croce Rossa, eretta in corpo morale con [R. decret
  
  La Croce Rossa puo' istituire cosi' servizi ordinari di pronto soccorso nei Comuni nei quali non vi sia sufficientemente provveduto dagli ospedali esistenti, come posti di prima assistenza dove se ne manifesti la necessita'. Con decreto Reale, su proposta del Ministro per l'interno, possono essere sciolte le associazioni di assistenza non ancora erette in ente morale, e possono essere destinate le relative attivita' patrimoniali alla Croce Rossa, che si sostituira' nei compiti delle associazioni disciolte. 
  
- La Croce Rossa Italiana puo', inoltre, promuovere, a norma dell'[art. 30 del R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841#art_30), federazioni tra le istituzioni pubbliche che provvedono a servizi di pubblica assistenza; 
+ La Croce Rossa Italiana puo', inoltre, promuovere, a norma dell'[art. 30 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), federazioni tra le istituzioni pubbliche che provvedono a servizi di pubblica assistenza; 
  
  e) di collaborare con le Croci Rosse degli altri Stati e con le istituzioni internazionali di Croce Rossa nelle iniziative umanitarie di carattere internazionale per il raggiungimento degli scopi filantropici comuni.
 
@@ -79,7 +79,7 @@ Per il funzionamento dei suoi servizi del tempo di guerra la Croce Rossa Italian
  Per il funzionamento invece dei suoi servizi del tempo di pace, la Croce Rossa Italiana ha facolta' di arruolare personale volontario, scelto tra i cittadini del Regno aventi anche obblighi militari, o di assumere altro personale in base ad appositi contratti di lavoro.
 Pero', in caso di chiamate alle armi indette dall'autorita' militare, gli aventi obblighi militari debbono sempre rispondere alla chiamata dell'autorita' militare. 
  
- Gli inscritti nei ruoli dei personali suaccennati dell'Associazione, chiamati in servizio, sono militari e come tali sottoposti alle norme del regolamento di disciplina e del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regio esercito. Le chiamate in servizio sono effettuate dall'Associazione mediante precetti. 
+ Gli inscritti nei ruoli dei personali suaccennati dell'Associazione, chiamati in servizio, sono militari e come tali sottoposti alle norme del regolamento di disciplina e del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regio esercito. Le chiamate in servizio sono effettuate dall'Associazione mediante precetti. 
  
  Ai mancanti alle chiamate cosi' disposte sono applicate le disposizioni penali sancite per i militari del Regio esercito. 
  

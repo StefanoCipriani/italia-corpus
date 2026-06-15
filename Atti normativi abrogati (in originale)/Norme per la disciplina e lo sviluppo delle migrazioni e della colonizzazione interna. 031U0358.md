@@ -34,7 +34,7 @@ La mano d'opera occorrente per i lavori di qualsiasi natura, comunque eseguiti a
  
  Il Commissariato per le migrazioni, avuta conoscenza della natura e dell'entita' dei lavori da eseguirsi, a suo giudizio insindacabile, potra' disporre che una parte della mano d'opera da impiegare sia tratta da altre Provincie. 
  
- I contravventori alle norme contenute nel 1° comma del presente articolo, saranno passibili delle penalita' contemplate nell'[art. 14 del R. decreto 29 marzo 1928, n. 1003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-29;1003#art_14).
+ I contravventori alle norme contenute nel 1° comma del presente articolo, saranno passibili delle penalita' contemplate nell'[art. 14 del R. decreto 29 marzo 1928, n. 1003](Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md).
 
 ## Art. 7.
 

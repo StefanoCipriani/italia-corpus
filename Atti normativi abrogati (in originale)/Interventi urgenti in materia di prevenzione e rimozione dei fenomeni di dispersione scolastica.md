@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di assicurare, per il prossimo anno scolastico 1993-1994, nelle aree di maggior rischio di dispersione scolastica, anche in vista della definizione del programma triennale di cui all'[articolo 8, comma 3, del decreto legislativo 12 febbraio 1993, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;35#art_8-com3), una piu' qualificata e razionale prosecuzione degli interventi di prevenzione e rimozione, al fine di realizzare una delle condizioni essenziali per piu' ampie iniziative di risanamento sociale e di lotta alla criminalita' diffusa;
+Ritenuta la straordinaria necessita' ed urgenza di assicurare, per il prossimo anno scolastico 1993-1994, nelle aree di maggior rischio di dispersione scolastica, anche in vista della definizione del programma triennale di cui all'[articolo 8, comma 3, del decreto legislativo 12 febbraio 1993, n. 35](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20normativa%20in%20materia%20di%20utilizzazione%20del%20personale%20della%20scuola%20a%20norma%20dellart.%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), una piu' qualificata e razionale prosecuzione degli interventi di prevenzione e rimozione, al fine di realizzare una delle condizioni essenziali per piu' ampie iniziative di risanamento sociale e di lotta alla criminalita' diffusa;
 
 Ritenuta la necessita' di sostenere il predetto intervento con nuove misure di razionalizzazione dell'impiego del personale della scuola;
 
@@ -34,11 +34,11 @@ I criteri e le modalita' per la ripartizione e l'utilizzazione del predetto pers
 
 3.
 
-Il disposto dell'[articolo 5, comma 5, del decretolegge 22 maggio 1993, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-22;155#art_5-com5), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;243), si applica anche alla scuola materna.
+Il disposto dell'[articolo 5, comma 5, del decretolegge 22 maggio 1993, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-22;155#art_5-com5), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 243](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20maggio%201993%20n.%20155%20recante%20misure%20urgenti%20per%20la%20finanza%20pubblica.md), si applica anche alla scuola materna.
 
 4.
 
-Il limite massimo di mille unita' di cui all'[articolo 5, comma 1, del decreto legislativo 12 febbraio 1993, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;35#art_5-com1), per le utilizzazioni del personale direttivo e docente delle scuole di ogni ordine e grado e del personale direttivo ed educativo delle istituzioni educative, presso uffici, enti ed associazioni, e' ridotto, per l'anno 1993-94, a settecentocinquanta unita'. Per il medesimo anno scolastico non si fa luogo alle predette utilizzazioni presso le universita' e gli istituti superiori di cui alla lettera b) dello stesso [articolo 5, comma 1, del decreto legislativo n. 35 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;35#art_5-com1).
+Il limite massimo di mille unita' di cui all'[articolo 5, comma 1, del decreto legislativo 12 febbraio 1993, n. 35](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20normativa%20in%20materia%20di%20utilizzazione%20del%20personale%20della%20scuola%20a%20norma%20dellart.%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), per le utilizzazioni del personale direttivo e docente delle scuole di ogni ordine e grado e del personale direttivo ed educativo delle istituzioni educative, presso uffici, enti ed associazioni, e' ridotto, per l'anno 1993-94, a settecentocinquanta unita'. Per il medesimo anno scolastico non si fa luogo alle predette utilizzazioni presso le universita' e gli istituti superiori di cui alla lettera b) dello stesso [articolo 5, comma 1, del decreto legislativo n. 35 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;35#art_5-com1).
 
 ## Art. 2.
 

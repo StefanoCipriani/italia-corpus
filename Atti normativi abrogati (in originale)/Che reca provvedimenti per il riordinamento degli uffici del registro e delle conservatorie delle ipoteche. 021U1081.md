@@ -78,9 +78,9 @@ I conservatori delle ipoteche al termine di ogni esercizio finanziario verserann
 
 ## Art. 6.
 
-Le tasse di registro stabilite dalle parti I e II della tariffa annessa all'allegato A del [Regio decreto legge 24 novembre 1919, n. 2163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-24;2163), le tasse ipotecarie di cui alla tariffa annessa all'allegato E dello stesso Regio decreto-legge e le tasse sulle donazioni portate dalla tariffa annessa alla [legge 24 settembre 1920, n. 1300](Relativa%20alle%20tasse%20sulle%20donazioni%20sulle%20successioni%20e%20sui%20passaggi%20di%20usufrutto%20per%20la%20presa%20di%20possesso%20dei%20benefici%20e%20delle%20cappellanie.%20020U1300.md), sono aumentate dell'1 per cento, computandosi per cinque centesimi la frazione minore ai cinque centesimi. 
+Le tasse di registro stabilite dalle parti I e II della tariffa annessa all'allegato A del [Regio decreto legge 24 novembre 1919, n. 2163](Riguardante%20disposizioni%20in%20materie%20di%20tasse%20di%20registro%20e%20sugli%20affari.%20019U2163.md), le tasse ipotecarie di cui alla tariffa annessa all'allegato E dello stesso Regio decreto-legge e le tasse sulle donazioni portate dalla tariffa annessa alla [legge 24 settembre 1920, n. 1300](Relativa%20alle%20tasse%20sulle%20donazioni%20sulle%20successioni%20e%20sui%20passaggi%20di%20usufrutto%20per%20la%20presa%20di%20possesso%20dei%20benefici%20e%20delle%20cappellanie.%20020U1300.md), sono aumentate dell'1 per cento, computandosi per cinque centesimi la frazione minore ai cinque centesimi. 
  
- Nulla e' innovato al disposto dall'art. 8. del testo unico delle tasse di registro approvato con [Regio decreto 20 maggio 1897, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-05-20;217).
+ Nulla e' innovato al disposto dall'art. 8. del testo unico delle tasse di registro approvato con [Regio decreto 20 maggio 1897, n. 217](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20tasse%20di%20registro.%20097U0217.md).
 
 ## Art. 7.
 

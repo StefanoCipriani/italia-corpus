@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 16 maggio 1907, n. 406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-05-16;406), che approva il regolamento sugli assegni speciali di bordo, e successivi decreti che lo modificano;
+Visto il [R. decreto 16 maggio 1907, n. 406](Che%20approva%20lannesso%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20007U0406.md), che approva il regolamento sugli assegni speciali di bordo, e successivi decreti che lo modificano;
 
 Sentito il Consiglio superiore di marina;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro della marina; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Gli assegni giornalieri previsti dal n. 4 dell'art. 10 del regolamento sugli assegni speciali di bordo, nella misura stabilita dal [R. decreto n. 992 del 3 settembre 1914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-03;992), per i cuochi e domestici borghesi assegnati alle mense di bordo ed alle navi-ospedale, sono sostituiti dai seguenti: 
+Gli assegni giornalieri previsti dal n. 4 dell'art. 10 del regolamento sugli assegni speciali di bordo, nella misura stabilita dal [R. decreto n. 992 del 3 settembre 1914](Col%20quale%20e%20approvata%20una%20variante%20al%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20014U0992.md), per i cuochi e domestici borghesi assegnati alle mense di bordo ed alle navi-ospedale, sono sostituiti dai seguenti: 
  
  Primi cuochi o cuochi unici per mense di ufficiali ammiragli, L. 8. 
  

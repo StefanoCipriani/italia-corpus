@@ -59,7 +59,7 @@ La disposizione di cui al comma 4 si applica anche nel caso in cui l'incidente o
 
 6.
 
-L'attivita' di assistenza descritta al comma 4, se effettuata da impresa di assicurazione, costituisce prestazione assicurativa nel ramo assistenza e puo' essere fornita solo da imprese autorizzate al ramo 18 del punto A) della tabella di cui all'allegato I alla [legge 10 giugno 1978, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;295), fatto salvo il punto C) dell'allegato stesso.
+L'attivita' di assistenza descritta al comma 4, se effettuata da impresa di assicurazione, costituisce prestazione assicurativa nel ramo assistenza e puo' essere fornita solo da imprese autorizzate al ramo 18 del punto A) della tabella di cui all'allegato I alla [legge 10 giugno 1978, n. 295](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md), fatto salvo il punto C) dell'allegato stesso.
 
 ### Art. 2. — Controllo dei mezzi delle imprese
 
@@ -103,7 +103,7 @@ Nel primo esercizio di applicazione del presente decreto, le imprese esercenti l
 
 5.
 
-Nell'[art. 6, primo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;605#art_6-com1), nel testo sostituito dal [decreto del Presidente della Repubblica 2 novembre 1976, n. 784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-11-02;784), e modificazioni successive, la lettera g-ter), e' sostituita dalla seguente: 
+Nell'[art. 6, primo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605](../DPR/Disposizioni%20relative%20allanagrafe%20tributaria%20e%20al%20codice%20fiscale%20dei%20contribuenti.md), nel testo sostituito dal [decreto del Presidente della Repubblica 2 novembre 1976, n. 784](../DPR/Modificazioni%20e%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2029%20settembre%201973%20n.%20605%20e%20successive%20modificazioni%20concernente%20disposizioni%20relative%20allanagrafe%20tributaria%20e%20al%20c_41a9a5474e04.md), e modificazioni successive, la lettera g-ter), e' sostituita dalla seguente: 
  " g-ter) contratti di assicurazione, ad esclusione di quelli relativi alla responsabilita' civile ed alla assistenza e garanzie accessorie, relativamente ai soggetti contraenti; contratti di somministrazione di energia elettrica, relativamente agli utenti.".
 
 ## ASSICURAZIONE TUTELA GIUDIZIARIA
@@ -114,7 +114,7 @@ Capo II
 
 1.
 
-Le imprese di assicurazione che esercitano il ramo tutela giudiziaria di cui al numero 17 della tabella A) dell'allegato I alla [legge 10 giugno 1978, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;295), debbono attenersi, nell'esercizio di tale ramo, alle disposizioni contenute nel presente decreto.
+Le imprese di assicurazione che esercitano il ramo tutela giudiziaria di cui al numero 17 della tabella A) dell'allegato I alla [legge 10 giugno 1978, n. 295](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md), debbono attenersi, nell'esercizio di tale ramo, alle disposizioni contenute nel presente decreto.
 
 2.
 
@@ -214,12 +214,12 @@ Capo III
 
 1.
 
-Alla [legge 10 giugno 1978, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;295), sono apportate le seguenti modificazioni ed integrazioni:
+Alla [legge 10 giugno 1978, n. 295](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md), sono apportate le seguenti modificazioni ed integrazioni:
                             a)
                                 all'art. 2, primo comma, dopo la lettera h) e' aggiunta la seguente: 
  " h-bis) alle imprese che esercitano unicamente l'attivita' di assistenza, di cui al numero 18 del punto A) della tabella di cui all'allegato I, allorche' la relativa attivita' comporti soltanto prestazioni in natura, sia limitata ad un ambito territoriale puramente locale e l'importo complessivo annuale dei ricavi non superi, in lire italiane, il controvalore di 200.000 unita' di conto europee.";
                             b)
-                                all'art. 10, primo comma, nel testo modificato dall'[art. 21, comma 1, della legge 9 gennaio 1991, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;20#art_21-com1), il secondo capoverso e' sostituito dal seguente: 
+                                all'art. 10, primo comma, nel testo modificato dall'[art. 21, comma 1, della legge 9 gennaio 1991, n. 20](Integrazioni%20e%20modifiche%20alla%20legge%2012%20agosto%201982%20n.%20576%20e%20norme%20sul%20controllo%20delle%20partecipazioni%20di%20imprese%20o%20enti%20assicurativi%20e%20in%20imprese%20o%20enti%20assicurativi.md), il secondo capoverso e' sostituito dal seguente: 
  "lire 1.500 milioni quando l'esercizio comprende le assicurazioni dei rami indicati ai numeri 1, 2, 3, 4, 5, 6, 7, 8, 16 e 18 del punto A) della suddetta tabella;";
                             c)
                                 all'art. 12: 
@@ -291,7 +291,7 @@ Nella domanda l'impresa deve indicare l'autorita' alla quale chiede che venga de
 
 1.
 
-Dopo l'[art. 30 della legge 10 giugno 1978, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;295#art_30), e' inserito il seguente: 
+Dopo l'[art. 30 della legge 10 giugno 1978, n. 295](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md), e' inserito il seguente: 
  "Art. 30-bis (Riserva di compensazione). - Le imprese autorizzate ad esercitare le assicurazioni nel ramo credito debbono anche costituire una riserva di compensazione, destinata a coprire l'eventuale perdita tecnica nel ramo credito alla fine di ciascun esercizio. 
  La riserva di compensazione deve essere costituita accantonando annualmente un importo pari al 75% dell'eventuale eccedenza tecnica realizzata nel ramo credito, sino a quando l'accantonamento non abbia raggiunto il 150% dell'ammontare piu' elevato dei premi del ramo credito nei cinque esercizi precedenti a quello di riferimento. 
  L'accantonamento annuale non puo' comunque essere superiore al 12% dei premi dell'esercizio di riferimento. 
@@ -316,19 +316,19 @@ Capo IV
 
 1.
 
-Le imprese che, alla data di entrata in vigore del presente decreto, esercitano nel territorio della Repubblica l'attivita' di assistenza sono abilitate a proseguirla a condizione che, entro sessanta giorni dalla predetta data, richiedano l'autorizzazione all'esercizio del ramo 18 del punto A) della tabella di cui all'allegato I alla [legge 10 giugno 1978, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;295), e successive modificazioni.
+Le imprese che, alla data di entrata in vigore del presente decreto, esercitano nel territorio della Repubblica l'attivita' di assistenza sono abilitate a proseguirla a condizione che, entro sessanta giorni dalla predetta data, richiedano l'autorizzazione all'esercizio del ramo 18 del punto A) della tabella di cui all'allegato I alla [legge 10 giugno 1978, n. 295](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md), e successive modificazioni.
 
 2.
 
-Le imprese di cui al comma 1 debbono conformarsi alle disposizioni della [legge 10 giugno 1978, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;295), e successive modificazioni, relative al margine di solvibilita' ed alla quota di garanzia, entro tre anni dalla data di entrata in vigore del presente decreto. Le imprese che intendono beneficiare del termine devono presentare al Ministero dell'industria, del commercio e dell'artigianato, in allegato alla richiesta di autorizzazione di cui al comma 1, oltre alla documentazione prescritta dalla [legge 10 giugno 1978, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;295), un programma per l'adeguamento entro il predetto termine del margine di solvibilita' e della quota di garanzia. Il Ministero dell'industria, del commercio e dell'artigianato si pronuncia su parere dell'ISVAP.
+Le imprese di cui al comma 1 debbono conformarsi alle disposizioni della [legge 10 giugno 1978, n. 295](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md), e successive modificazioni, relative al margine di solvibilita' ed alla quota di garanzia, entro tre anni dalla data di entrata in vigore del presente decreto. Le imprese che intendono beneficiare del termine devono presentare al Ministero dell'industria, del commercio e dell'artigianato, in allegato alla richiesta di autorizzazione di cui al comma 1, oltre alla documentazione prescritta dalla [legge 10 giugno 1978, n. 295](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md), un programma per l'adeguamento entro il predetto termine del margine di solvibilita' e della quota di garanzia. Il Ministero dell'industria, del commercio e dell'artigianato si pronuncia su parere dell'ISVAP.
 
 3.
 
-Le disposizioni dell'[art. 31 della legge 10 giugno 1978, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;295#art_31), e successive modificazioni, si applicano alla copertura delle riserve tecniche del ramo assistenza costituite a partire dall'esercizio 1993, limitatamente agli incrementi delle riserve stesse.
+Le disposizioni dell'[art. 31 della legge 10 giugno 1978, n. 295](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md), e successive modificazioni, si applicano alla copertura delle riserve tecniche del ramo assistenza costituite a partire dall'esercizio 1993, limitatamente agli incrementi delle riserve stesse.
 
 4.
 
-Le imprese che esercitano attivita' assicurativa nel ramo assistenza hanno termine fino all'approvazione del bilancio dell'esercizio 1996 per adeguare l'intero importo delle riserve tecniche alle disposizioni dell'[art. 31 della legge 10 giugno 1978, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;295#art_31), e successive modificazioni.
+Le imprese che esercitano attivita' assicurativa nel ramo assistenza hanno termine fino all'approvazione del bilancio dell'esercizio 1996 per adeguare l'intero importo delle riserve tecniche alle disposizioni dell'[art. 31 della legge 10 giugno 1978, n. 295](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md), e successive modificazioni.
 
 5.
 

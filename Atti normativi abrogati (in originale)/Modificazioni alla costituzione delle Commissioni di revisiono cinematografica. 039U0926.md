@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 1 della legge 18 giugno 1931, n. 857](Modificazione%20delle%20vigenti%20disposizioni%20relative%20alla%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20031U0857.md), modificata dall'[art. 3 del R. decreto-legge 28 settembre 1934, n. 1566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1566#art_3), come appresso modificato: 
+L'[art. 1 della legge 18 giugno 1931, n. 857](Modificazione%20delle%20vigenti%20disposizioni%20relative%20alla%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20031U0857.md), modificata dall'[art. 3 del R. decreto-legge 28 settembre 1934, n. 1566](Devoluzione%20al%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20la%20propaganda%20delle%20attribuzioni%20spettanti%20ai%20Ministeri%20dellinterno%20e%20delle%20corporazioni%20in%20materia%20di%20vigilanza%20governativa%20sull_b2d5478587f1.md), come appresso modificato: 
  
  « L'esame dei copioni e la revisione delle pellicole cinematografiche ai fini della vigilanza governativa sono affidati a speciali Commissioni di primo grado e a una Commissione d'appello. 
  

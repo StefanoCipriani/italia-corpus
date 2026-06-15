@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491), e successive modificazioni;
+Visto il [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro Segretario di Stato per il tesoro; Abbiamo sanzionat
 
 ## Art. 1.
 
-A favore degli invalidi di prima categoria forniti di assegni di superinvalidita' di cui alla tabella E allegata alla [legge 19 febbraio 1942, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-19;137), modificata dall'[art. 2 del decreto legislativo Luogotenenziale 12 aprile 1945, n. 193](Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md), e' istituita una indennita' mensile di contingenza di lire seimila lorde.
+A favore degli invalidi di prima categoria forniti di assegni di superinvalidita' di cui alla tabella E allegata alla [legge 19 febbraio 1942, n. 137](Miglioramenti%20alle%20otto%20categorie%20di%20pensioni%20del%20mutilati%20ed%20invalidi%20di%20guerra.%20042U0137.md), modificata dall'[art. 2 del decreto legislativo Luogotenenziale 12 aprile 1945, n. 193](Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md), e' istituita una indennita' mensile di contingenza di lire seimila lorde.
  Per gli invalidi di prima categoria forniti di assegno supplementare tale indennita' e' fissata in lire duemila lorde.
  Per gli invalidi forniti di pensione o assegno di guerra non privilegiato nella misura della tabella D allegata al [decreto legislativo Luogotenenziale 12 aprile 1945, n. 193](Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md), l'indennita' di contingenza, di cui ai precedenti commi e' ridotta di un quarto.
  L'importo della indennita' di contingenza e' suscettibile di aumento o di riduzione la relazione all'aumento o alla riduzione risultante dall'indice base del costo dell'alimentazione.
@@ -43,11 +43,11 @@ A favore degli invalidi di prima categoria forniti di assegni di superinvalidita
 
 ## Art. 2.
 
-La norma contenuta nell'art. 1 - 4° comma della [legge 18 agosto 1940, n. 1196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-08-18;1196), e successive modificazioni, per quanto riguarda il trattamento economico spettante per fatto di guerra, si applica anche ai casi verificatisi anteriormente al 1° settembre 1939.
+La norma contenuta nell'art. 1 - 4° comma della [legge 18 agosto 1940, n. 1196](Modificazioni%20ed%20aggiunte%20alle%20vigenti%20norme%20in%20materie%20di%20pensioni%20di%20guerra%20agli%20infortunati%20civili.%20040U1196.md), e successive modificazioni, per quanto riguarda il trattamento economico spettante per fatto di guerra, si applica anche ai casi verificatisi anteriormente al 1° settembre 1939.
 
 ## Art. 3.
 
-L'integrazione temporanea, prevista dal [R. decretolegge 13 marzo 1944, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-13;85), e dal [decreto legislativo Luogotenenziale 23 settembre 1944, n. 237](Estensione%20del%20R.%20decreto-legge%2013%20marzo%201944%20n.%2085%20recante%20miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni%20ai%20territori%20restituiti%20allAmministrazione%20italiana%20e%20modifiche%20del%20d_3d221046d9e9.md), e', per quanto riguarda le pensioni o assegni di guerra, elevata alle seguenti misure:
+L'integrazione temporanea, prevista dal [R. decretolegge 13 marzo 1944, n. 85](Miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni.%20044U0085.md), e dal [decreto legislativo Luogotenenziale 23 settembre 1944, n. 237](Estensione%20del%20R.%20decreto-legge%2013%20marzo%201944%20n.%2085%20recante%20miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni%20ai%20territori%20restituiti%20allAmministrazione%20italiana%20e%20modifiche%20del%20d_3d221046d9e9.md), e', per quanto riguarda le pensioni o assegni di guerra, elevata alle seguenti misure:
  cento per cento sulle prime lire mille mensili lorde o frazioni di esse;
  novanta per cento sulle seconde lire mille mensili lorde o frazioni di esse;
  settanta per cento sulle terze lire mille mensili lorde o frazioni di esse;
@@ -56,7 +56,7 @@ L'integrazione temporanea, prevista dal [R. decretolegge 13 marzo 1944, n. 85](h
 
 ## Art. 4.
 
-Nei casi di cumulo di pensioni o assegni di guerra con altro trattamento di quiescenza, sul quale spetti l'integrazione temporanea, ai sensi del [R. decreto-legge 13 marzo 1944, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-13;85), e successive modificazioni, e' dovuta per intero l'integrazione temporanea stabilita per le pensioni o assegni di guerra dall'articolo precedente.
+Nei casi di cumulo di pensioni o assegni di guerra con altro trattamento di quiescenza, sul quale spetti l'integrazione temporanea, ai sensi del [R. decreto-legge 13 marzo 1944, n. 85](Miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni.%20044U0085.md), e successive modificazioni, e' dovuta per intero l'integrazione temporanea stabilita per le pensioni o assegni di guerra dall'articolo precedente.
  Per l'applicazione dell'integrazione temporanea sull'altro trattamento di quiescenza dovranno essere tenute presenti le percentuali stabilite nell'art. 1 del citato decreto n. 85 considerando, nell'applicazione delle aliquote stesse, anche l'ammontare della pensione o dell'assegno di guerra, e avendo riguardo alla limitazione sancita dall'art. 13 del suddetto decreto n. 85.
 
 ## Art. 5.

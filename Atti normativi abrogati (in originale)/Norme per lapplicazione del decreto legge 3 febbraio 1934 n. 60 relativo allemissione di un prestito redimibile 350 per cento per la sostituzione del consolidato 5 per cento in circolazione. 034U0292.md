@@ -104,7 +104,7 @@ Le persone fisiche o morali, alle quali siano stati intestati i titoli all'ordin
  
  Il giratario richiedente deve risultare legittimo possessore del titolo, mediante una serie continua di girate che giungano sino a lui. 
  
- Il cessionario dei titoli all'ordine, il donatario, l'aggiudicatario per sentenza, l'erede, che chiedano il pagamento del capitale, dovranno provare il loro diritto a norma del [testo unico delle leggi sul Debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398).
+ Il cessionario dei titoli all'ordine, il donatario, l'aggiudicatario per sentenza, l'erede, che chiedano il pagamento del capitale, dovranno provare il loro diritto a norma del [testo unico delle leggi sul Debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md).
 
 ### Art. 9.
 
@@ -118,7 +118,7 @@ Non sono ammessi sequestri, impedimenti od opposizioni relativamente alle iscriz
 
 Agli aventi diritto a titoli nominativi dei debiti consolidati cinque per cento, che ne abbiano chiesto il rimborso, oppure al possessore di titoli al portatore, che dalla domanda di rimborso presentata risulti incapace, saranno rilasciati, dalla Direzione generale del Debito pubblico, certificati di credito nominativi ad essi intestati, riportanti i vincoli e le ipoteche eventualmente esistenti sui titoli nominativi dei consolidati. I certificati di credito sono muniti di sei tagliandi per la riscossione degli interessi, in ragione di lire cinque annue per ogni cento di capitale, pagabili, con esenzione da imposte, in rate semestrali posticipate scadenti al 1° luglio 1934-XII, e successivamente sino al 1° gennaio 1937-XV. 
  
- Il pagamento degli interessi nel Regno, nelle Colonie e all'estero, le operazioni consentite, le opposizioni, il pagamento del capitale al 1° gennaio 1937-XV e nei giorni successivi e la prescrizione, sono regolati dal [testo unico delle leggi sul Debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398). 
+ Il pagamento degli interessi nel Regno, nelle Colonie e all'estero, le operazioni consentite, le opposizioni, il pagamento del capitale al 1° gennaio 1937-XV e nei giorni successivi e la prescrizione, sono regolati dal [testo unico delle leggi sul Debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md). 
  
  I certificati di credito nominativi saranno consegnati: nel Regno e nelle Colonie, a partire dal 15 maggio 1934-XII, a mezzo delle Sezioni di Regia tesoreria provinciale; all'estero, a partire dal 1° giugno 1934-XII, dalle Autorita' consolari alle quali siano state presentate le domande di rimborso.
 
@@ -126,7 +126,7 @@ Agli aventi diritto a titoli nominativi dei debiti consolidati cinque per cento,
 
 I certificati all'ordine e nominativi, le ricevute e le domande per ottenere il pagamento del capitale, le girate e le relative autenticazioni, o, comunque, gli atti di trasferimento dei certificati all'ordine, sono esenti da tassa di bollo e di concessione governativa, ed, ove occorra la registrazione, essa sara' eseguita gratuitamente. 
  
- Le esenzioni dalle tasse di bollo, di concessione governativa e di registro, considerate negli [articoli 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_67), [68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_68) e [69 del testo unico delle leggi sul Debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_69), sono mantenute per le operazioni e per gli atti relativi ai certificati all'ordine e nominativi.
+ Le esenzioni dalle tasse di bollo, di concessione governativa e di registro, considerate negli [articoli 67](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), [68](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e [69 del testo unico delle leggi sul Debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), sono mantenute per le operazioni e per gli atti relativi ai certificati all'ordine e nominativi.
 
 ### Art. 12.
 

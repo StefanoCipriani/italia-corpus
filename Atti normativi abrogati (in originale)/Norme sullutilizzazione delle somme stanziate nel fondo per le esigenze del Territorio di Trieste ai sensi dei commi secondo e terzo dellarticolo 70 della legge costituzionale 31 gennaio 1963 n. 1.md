@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il fondo consolidato per le esigenze del Territorio di Trieste previsto dal [comma secondo dell'articolo 70 della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_70-com2), puo' essere destinato - previo parere della Commissione prevista dal terzo comma dell'articolo 70 della legge medesima - per non piu' di un terzo all'esecuzione di programmi da realizzarsi in piu' anni finanziari e, comunque, non oltre il termine di durata del fondo stesso.
+Il fondo consolidato per le esigenze del Territorio di Trieste previsto dal [comma secondo dell'articolo 70 della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), puo' essere destinato - previo parere della Commissione prevista dal terzo comma dell'articolo 70 della legge medesima - per non piu' di un terzo all'esecuzione di programmi da realizzarsi in piu' anni finanziari e, comunque, non oltre il termine di durata del fondo stesso.
  Il Commissario del Governo nella regione Friuli-Venezia Giulia per l'attuazione dei programmi di cui al comma precedente puo' assumere impegni anche a carico degli anni finanziari successivi a quello in corso e, comunque, non oltre il 1971, nei limiti indicati nello stesso precedente comma.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

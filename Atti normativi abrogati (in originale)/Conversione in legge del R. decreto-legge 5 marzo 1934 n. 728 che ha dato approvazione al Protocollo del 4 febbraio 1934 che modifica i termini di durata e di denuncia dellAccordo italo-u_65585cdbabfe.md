@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 marzo 1934, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-05;728), che approva il Protocollo del 4 febbraio 1934 che modifica i termini di durata e di denuncia dell'Accordo italo-ungherese del 23 febbraio 1932. 
+ E' convertito in legge il [R. decreto-legge 5 marzo 1934, n. 728](Approvazione%20del%20Protocollo%20del%204%20febbraio%201934%20che%20modifica%20i%20termini%20di%20durata%20e%20di%20denuncia%20dellAccordo%20italo-ungherese%20del%2023%20febbraio%201932.%20034U0728.md), che approva il Protocollo del 4 febbraio 1934 che modifica i termini di durata e di denuncia dell'Accordo italo-ungherese del 23 febbraio 1932. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1547), relativo alla soppressione dell'Ufficio autonomo di stralcio per la liquidazione dei beni dei sudditi ex nemici ed al trasferimento dei relativi servizi alla Ragioneria generale dello Stato. 
+ E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1547](Soppressione%20dellUfficio%20stralcio%20per%20la%20liquidazione%20dei%20beni%20dei%20sudditi%20ex%20nemici%20e%20trasferimento%20dei%20relativi%20servizi%20alla%20Ragioneria%20generale%20dello%20Stato.%20027U1547.md), relativo alla soppressione dell'Ufficio autonomo di stralcio per la liquidazione dei beni dei sudditi ex nemici ed al trasferimento dei relativi servizi alla Ragioneria generale dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

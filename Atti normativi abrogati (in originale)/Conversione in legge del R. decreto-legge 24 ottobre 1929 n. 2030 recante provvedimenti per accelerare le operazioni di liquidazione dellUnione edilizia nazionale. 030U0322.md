@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 ottobre 1929, n. 2030](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-24;2030), recante provvedimenti per accelerare le operazioni di liquidazione dell'Unione edilizia nazionale. 
+ E' convertito in legge il [R. decreto-legge 24 ottobre 1929, n. 2030](Provvedimenti%20per%20accelerare%20le%20operazioni%20di%20liquidazione%20dellUnione%20edilizia%20nazionale.%20029U2030.md), recante provvedimenti per accelerare le operazioni di liquidazione dell'Unione edilizia nazionale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

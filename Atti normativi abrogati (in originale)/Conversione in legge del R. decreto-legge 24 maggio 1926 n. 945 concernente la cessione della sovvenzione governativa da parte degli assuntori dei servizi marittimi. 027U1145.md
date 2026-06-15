@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 maggio 1926, n. 945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-24;945), che da' facolta' agli assuntori dei servizi marittimi di cedere la sovvenzione governativa, per procurarsi il finanziamento occorrente per le nuove costruzioni. 
+ E' convertito in legge il [R. decreto-legge 24 maggio 1926, n. 945](Cessione%20della%20sovvenzione%20governativa%20da%20parte%20degli%20assuntori%20dei%20servizi%20marittimi.%20026U0945.md), che da' facolta' agli assuntori dei servizi marittimi di cedere la sovvenzione governativa, per procurarsi il finanziamento occorrente per le nuove costruzioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

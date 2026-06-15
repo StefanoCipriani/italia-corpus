@@ -20,15 +20,15 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 15 della legge 6 marzo 1898, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;59#art_15);
+Visto l'[art. 15 della legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md);
 
-Visto il [R. decreto 13 agosto 1909, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-13;639);
+Visto il [R. decreto 13 agosto 1909, n. 639](Che%20modifica%20la%20tabella%20dei%20posti%20che%20possono%20essere%20occupati%20dagli%20ufficiali%20del%20corpo%20dello%20stato%20maggiore%20della%20R.%20marina%20specialisti%20direzionali.%20009U0639.md);
 
-Vista la [legge 7 luglio 1910, n. 409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-07;409);
+Vista la [legge 7 luglio 1910, n. 409](Modificazione%20alla%20tabella%20A%20annessa%20alla%20legge%2014%20luglio%201907%20n.%20467.%20010U0409.md);
 
 Visto il Nostro decreto 8 giugno 1916, n. 734;
 
-Visto il [R. decreto 19 aprile 1868, n. 4349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1868-04-19;4349), e le successive sue modificazioni;
+Visto il [R. decreto 19 aprile 1868, n. 4349](Col%20quale%20e%20stabilito%20lordine%20per%20le%20precedenze%20tra%20le%20varie%20cariche%20e%20dignita%20a%20Corte%20e%20nelle%20funzioni%20pubbliche.%20068U4349.md), e le successive sue modificazioni;
 
 Udito il Consiglio dei ministri;
 
@@ -36,7 +36,7 @@ Sulla proposta del presidente del Consiglio dei ministri e del ministro della ma
 
 ## Art. 1.
 
-Fermo restando il disposto del Nostro decreto 8 giugno 1916, n. 734, la tabella dei posti che possono essere occupati dagli ufficiali ammiragli specialisti direzionali, approvata con [R. decreto 13 agosto 1909, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-13;639), e' modificata come segue: 
+Fermo restando il disposto del Nostro decreto 8 giugno 1916, n. 734, la tabella dei posti che possono essere occupati dagli ufficiali ammiragli specialisti direzionali, approvata con [R. decreto 13 agosto 1909, n. 639](Che%20modifica%20la%20tabella%20dei%20posti%20che%20possono%20essere%20occupati%20dagli%20ufficiali%20del%20corpo%20dello%20stato%20maggiore%20della%20R.%20marina%20specialisti%20direzionali.%20009U0639.md), e' modificata come segue: 
  
  vice ammiraglio - I - ispettore generale o direttore generale di artiglieria ed armamenti; 
  
@@ -54,7 +54,7 @@ Dipendono direttamente dall'ispettore generale, l'ufficio studi, normalmente com
 
 ## Art. 4.
 
-Nell'[art. 2 del R. decreto 19 luglio 1914, n. 859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-07-19;859#art_2), sostituito con Nostro decreto 4 luglio 1915, n. 1306, alla dizione «Direttore generale di artiglieria ed armamenti» e' sostituita quella di «Ispettore o direttore generale di artiglieria ed armamenti».
+Nell'[art. 2 del R. decreto 19 luglio 1914, n. 859](Relativo%20allindennita%20di%20residenza%20assegnata%20agli%20ufficiali%20ammiragli%20e%20generali%20destinati%20a%20Roma.%20014U0859.md), sostituito con Nostro decreto 4 luglio 1915, n. 1306, alla dizione «Direttore generale di artiglieria ed armamenti» e' sostituita quella di «Ispettore o direttore generale di artiglieria ed armamenti».
 
 ## Art. 5.
 

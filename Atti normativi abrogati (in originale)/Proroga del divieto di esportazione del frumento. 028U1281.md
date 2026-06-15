@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923), convertito in [legge 7 luglio 1927, n. 1495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-07;1495), sui divieti d'importazione e di esportazione di carattere economico;
+Visto il [R. decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923), convertito in [legge 7 luglio 1927, n. 1495](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2014%20novembre%201926%20n.%201923%20che%20provvede%20ad%20unificare%20coordinare%20ed%20integrare%20le%20disposizioni%20relative%20ai%20divieti%20di%20importazione%20e%20di%20esportazione%20di%20car_ac354a1268bc.md), sui divieti d'importazione e di esportazione di carattere economico;
 
 Visto il [R. decreto-legge 23 giugno 1927, n. 1034](Proroga%20del%20divieto%20di%20esportazione%20del%20frumento.%20027U1034.md), che ha prorogato fino al 30 giugno 1928 il divieto di esportazione del frumento;
 

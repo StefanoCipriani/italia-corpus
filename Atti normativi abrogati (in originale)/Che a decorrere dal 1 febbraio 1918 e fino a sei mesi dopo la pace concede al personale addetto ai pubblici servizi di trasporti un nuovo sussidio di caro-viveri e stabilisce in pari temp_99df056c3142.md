@@ -10,10 +10,10 @@ vigente: true
 
 ## Art. 1.
 
-A decorrere dal 1° febbraio 1918, e fino a sei mesi dopo il trattato di pace, e' concesso al personale in servizio, contemplato dalle tabelle organiche (stabile, in prova ed avventizio di carriera), approvate in applicazione della [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835), nonche' al personale avventizio straordinario assunto per la durata della guerra, un nuovo sussidio di caro viveri nella misura del trenta per cento sulle prime cento lire mensili di stipendio o paga, e del quindici per cento sulle successive cento lire mensili.
+A decorrere dal 1° febbraio 1918, e fino a sei mesi dopo il trattato di pace, e' concesso al personale in servizio, contemplato dalle tabelle organiche (stabile, in prova ed avventizio di carriera), approvate in applicazione della [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), nonche' al personale avventizio straordinario assunto per la durata della guerra, un nuovo sussidio di caro viveri nella misura del trenta per cento sulle prime cento lire mensili di stipendio o paga, e del quindici per cento sulle successive cento lire mensili.
 E' data pero' facolta' agli esercenti di concordare col proprio personale, entro l'accennata misura media, tale sussidio in misura diversa per ogni singolo agente, a seconda della composizione della rispettiva famiglia. Nella determinazione, pero', del nuovo sussidio, deve essere tenuto conto dei miglioramenti che gli esercenti avessero concesso ai propri dipendenti, in aggiunta a quelli di cui ai Nostri decreti 18 febbraio 1917, n. 373; 29 aprile 1917, n. 726, e 20 settembre 1917, n. 1649. 
  
- Gli eventuali aumenti di stipendi o paghe, derivanti dalla applicazione dell'[articolo 5 della legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835#art_5), avranno effetto soltanto dal giorno successivo al compimento del sesto mese dal trattato di pace.
+ Gli eventuali aumenti di stipendi o paghe, derivanti dalla applicazione dell'[articolo 5 della legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), avranno effetto soltanto dal giorno successivo al compimento del sesto mese dal trattato di pace.
 
 ## Art. 2.
 
@@ -21,7 +21,7 @@ Alle famiglie degli agenti chiamati alle armi, le quali fruiscono del sussidio d
  
  Agli effetti della liquidazione del sussidio alle famiglie degli agenti chiamati alle armi dovranno applicarsi le disposizioni dei Nostri decreti 6 e 9 dicembre 1917, nn. 1999 e 2000. 
  
- Le questioni che sorgessero per l'applicazione del disposto del presente articolo, saranno risolute a norma dell'art. 8 del Nostro decreto 3 settembre 1916, n. 1126, dalla Commissione per l'equo trattamento, istituita in base alla [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835).
+ Le questioni che sorgessero per l'applicazione del disposto del presente articolo, saranno risolute a norma dell'art. 8 del Nostro decreto 3 settembre 1916, n. 1126, dalla Commissione per l'equo trattamento, istituita in base alla [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md).
 
 ## Art. 3.
 
@@ -49,7 +49,7 @@ Il ministro dei lavori pubblici, di concerto con quello del tesoro, potra' conce
  
  a) l'applicazione dell'esercizio economico, indipendentemente dall'osservanza delle disposizioni degli articoli 140, 145, 146 e 147, comma a) e b) del testo unico di [leggi 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-05-09;1447), quando concorrano le altre condizioni richieste; 
  
- b) l'esclusione della partecipazione dello Stato e degli enti locali al prodotto lordo, nei riguardi dei maggiori proventi derivanti dagli aumenti di tariffe, accordati agli esercenti in base alla [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835), ed ai Nostri decreti 17 febbraio 1916, n. 192, 3 settembre 1916, n. 1126, 18 febbraio 1917, n. 373, 29 aprile 1917, n. 726 e 20 settembre 1917, n. 1649, nonche' da quelli che verranno autorizzati in dipendenza del presente decreto; 
+ b) l'esclusione della partecipazione dello Stato e degli enti locali al prodotto lordo, nei riguardi dei maggiori proventi derivanti dagli aumenti di tariffe, accordati agli esercenti in base alla [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), ed ai Nostri decreti 17 febbraio 1916, n. 192, 3 settembre 1916, n. 1126, 18 febbraio 1917, n. 373, 29 aprile 1917, n. 726 e 20 settembre 1917, n. 1649, nonche' da quelli che verranno autorizzati in dipendenza del presente decreto; 
  
  c) dilazioni e rateazioni del pagamento delle somme dovute allo Stato a titolo di partecipazione al prodotto lordo, le quali avranno luogo senza interessi, ed a decorrere da un anno dopo il trattato di pace; 
  

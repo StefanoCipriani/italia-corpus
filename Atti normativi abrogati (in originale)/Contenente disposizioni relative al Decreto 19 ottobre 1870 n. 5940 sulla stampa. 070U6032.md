@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-Dal giorno in cui andra' in vigore nella Provincia Romana il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno, in data del 20 novembre 1859, cessera' di avere effetto la modificazione fatta coll'articolo 6 del Reale Decreto 19 ottobre 1870, n. 5940, all'articolo 16 del Regio Editto 26 marzo 1848 sulla stampa, e rimarra' pure abrogato l'articolo 9 del Decreto medesimo.
+Dal giorno in cui andra' in vigore nella Provincia Romana il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, in data del 20 novembre 1859, cessera' di avere effetto la modificazione fatta coll'articolo 6 del Reale Decreto 19 ottobre 1870, n. 5940, all'articolo 16 del Regio Editto 26 marzo 1848 sulla stampa, e rimarra' pure abrogato l'articolo 9 del Decreto medesimo.
 
 ## Art. 2.
 
 Dalla stessa data sopraccennata, all'articolo 2 del mentovato Decreto 19 ottobre 1870 s'intendera' sostituito il seguente: 
  
- «Ove nell'Editto suddetto sono richiamati articoli del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) 26 ottobre 1859, s'intenderanno richiamate le disposizioni analoghe del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) 20 novembre 1859, siccome e' indicato nell'annessa Tabella.» 
+ «Ove nell'Editto suddetto sono richiamati articoli del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 26 ottobre 1859, s'intenderanno richiamate le disposizioni analoghe del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 20 novembre 1859, siccome e' indicato nell'annessa Tabella.» 
  
  Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, e del M
 
 L'articolo unico della [legge 22 gennaio 1934, n. 126](Istituzione%20di%20una%20banda%20musicale%20presso%20il%20Comando%20della%20Milizia%20portuaria%20di%20Genova.%20034U0126.md), e' cosi' modificato: 
  
- «Il Comando della Milizia portuaria avra' alle sue dipendenze una banda musicale al cui funzionamento sara' provveduto con il personale degli organici della Milizia portuaria stessa e secondo le norme fissate nel regolamento approvato con [R. decreto 1° dicembre 1934, n. 2132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-01;2132), e successive modificazioni ed integrazioni. 
+ «Il Comando della Milizia portuaria avra' alle sue dipendenze una banda musicale al cui funzionamento sara' provveduto con il personale degli organici della Milizia portuaria stessa e secondo le norme fissate nel regolamento approvato con [R. decreto 1° dicembre 1934, n. 2132](Regolamento%20per%20lapplicazione%20della%20legge%208%20luglio%201929%20n.%201337%20sullordinamento%20della%20Milizia%20portuaria.%20034U2132.md), e successive modificazioni ed integrazioni. 
  
  «La banda risiedera' presso la Scuola della Milizia portuaria in Sabaudia». 
  

@@ -14,7 +14,7 @@ Per imprescindibili bisogni dei servizi, le Amministrazioni dello Stato - compre
  
  Saranno preferiti i funzionari e gli agenti a riposo ed i militari mutilati o riformati per causa di guerra. 
  
- Dette assunzioni, che non potranno eccedere la meta' del numero dei funzionari e degli agenti che prestino servizio militare, avranno luogo secondo le norme stabilite dalla [legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182), ad eccezione di quelle concernenti le ferrovie, per le quali restano in vigore le speciali norme vigenti.
+ Dette assunzioni, che non potranno eccedere la meta' del numero dei funzionari e degli agenti che prestino servizio militare, avranno luogo secondo le norme stabilite dalla [legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md), ad eccezione di quelle concernenti le ferrovie, per le quali restano in vigore le speciali norme vigenti.
 
 ## Art. 2.
 

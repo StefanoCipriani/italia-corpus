@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 dicembre 1929, n. 2178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-12-30;2178), che fissa al 4 gennaio 1930 la data di attuazione del regime podestarile nella citta' di Napoli. 
+ E' convertito in legge il [R. decreto-legge 30 dicembre 1929, n. 2178](Estensione%20al%20comune%20di%20Napoli%20dellordinamento%20podestarile.%20029U2178.md), che fissa al 4 gennaio 1930 la data di attuazione del regime podestarile nella citta' di Napoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

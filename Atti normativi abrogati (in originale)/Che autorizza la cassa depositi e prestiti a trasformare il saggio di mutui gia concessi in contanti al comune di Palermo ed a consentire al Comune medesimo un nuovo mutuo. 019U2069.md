@@ -24,7 +24,7 @@ La Cassa depositi e prestiti e' autorizzata a trasformare al saggio del 3 per ce
  
  La differenza tra il saggio d'interesse normale del 4 e quello del 3 sara' a carico dello Stato e sara' stanziata nel bilancio del Ministero del tesoro. 
  
- Perche' il Comune possa usufruire dell'intera riduzione dipendente dalla trasformazione di cui al presente articolo, rimarra' fermo per altri 50 anni il vincolo gia' costituito sulla sovrimposta provinciale in garanzia totale o parziale di alcuni dei mutui da unificare a termini dell'art. 193 (ultimo comma) della legge testo unico sulla Cassa depositi e prestiti approvato con [Regio decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453). 
+ Perche' il Comune possa usufruire dell'intera riduzione dipendente dalla trasformazione di cui al presente articolo, rimarra' fermo per altri 50 anni il vincolo gia' costituito sulla sovrimposta provinciale in garanzia totale o parziale di alcuni dei mutui da unificare a termini dell'art. 193 (ultimo comma) della legge testo unico sulla Cassa depositi e prestiti approvato con [Regio decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md). 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

@@ -40,7 +40,7 @@ b) la inibizione dall'esercizio della navigazione.
 
 Sono esclusi dal beneficio concesso con le precedenti disposizioni coloro che, a tutto il giorno 24 settembre 1934, si trovino sottoposti all'ammonizione o al contino di polizia e coloro che, all'epoca, del commesso reato, abbiamo riportato due condanne per delitti a pene detentive, di cui una superiore a, tre mesi, oppure tre o piu' condanne, per delitti, a pene detentive, qualunque sia la misura di esse. 
  
- Tuttavia non si tiene conto delle condanne per reati estinti da precedenti amnistie e di quelle per le qualsiasi verificata, la riabilitazione. Non si tiene conto neppure delle condanne alle pene stabilite nei [n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_4-num3) e [5 dell'art. 4 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_4-num5) per l'esercito e del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) marittimo. 
+ Tuttavia non si tiene conto delle condanne per reati estinti da precedenti amnistie e di quelle per le qualsiasi verificata, la riabilitazione. Non si tiene conto neppure delle condanne alle pene stabilite nei [n. 3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [5 dell'art. 4 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) marittimo. 
  
  Sono pure esclusi dal beneficio coloro clic si trovino in stato di latitanza, salvo che si costituiscano in carcere entro quattro mesi dalla data di entrata in vigore del presente decreto. Questa disposizione non si applica nel caso in cui la pena sia interamente condonata.
 
@@ -48,19 +48,19 @@ Sono esclusi dal beneficio concesso con le precedenti disposizioni coloro che, a
 
 L'indulto non si applica: 
  
- 1° ai delitti di spionaggio, anche se colposo, previsto dagli [articoli 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_257), [258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_258), [259 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_259)'; 
+ 1° ai delitti di spionaggio, anche se colposo, previsto dagli [articoli 257](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [258](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [259 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)'; 
  
- 2° al delitto di associazione a delinquere previsto dall'[art. 416 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_416); 
+ 2° al delitto di associazione a delinquere previsto dall'[art. 416 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 3° ai delitti contro la integrita', e sanita' della stirpe, previsti dal titolo X, libro II, del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398); 
+ 3° ai delitti contro la integrita', e sanita' della stirpe, previsti dal titolo X, libro II, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 4° al delitto di omicidio, previsto nell'[art. 575 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_575), quando non siano state applicate circostanze attenuanti; 
+ 4° al delitto di omicidio, previsto nell'[art. 575 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando non siano state applicate circostanze attenuanti; 
  
- 5° ai delitti di rapina; estorsione e di sequestro di persona a scopo di rapina o di astersione, previsti dagli [articoli 628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_628), [629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_629) e [630 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_630); 
+ 5° ai delitti di rapina; estorsione e di sequestro di persona a scopo di rapina o di astersione, previsti dagli [articoli 628](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [629](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [630 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 6° al delitto di autolesionismo previsto nell'[art. 642, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_642-com2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_642-com3) e [4 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_642-com4); 
+ 6° al delitto di autolesionismo previsto nell'[art. 642, comma 2](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [4 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 7° ai reati concernenti le sostanze stupefacenti, previsti negli [articoli 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_446), [447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_447), [729](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_729) e [730 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_730) e in norme sanitarie vigenti nelle Colonie; 
+ 7° ai reati concernenti le sostanze stupefacenti, previsti negli [articoli 446](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [447](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [729](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [730 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e in norme sanitarie vigenti nelle Colonie; 
  
  8° al delitto di bancarotta fraudolenta, previsto nell'articolo 860 del codice di commercio. 
  
@@ -80,7 +80,7 @@ Le disposizioni dell'art. 1 non concernono ai rati preveduti nelle leggi penali 
 
 L'indulto stabilito dall'art. 1, comma 1, si applica anche alle pene detentive inflitte o da infliggere per reati preveduti dalle leggi penali militari. 
  
- Sono inoltre condonate le pene, di cui al [n. 5 dell'art. 4 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_4-num5) per l'esercito o del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare maririttimo. 
+ Sono inoltre condonate le pene, di cui al [n. 5 dell'art. 4 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito o del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare maririttimo. 
  
  Si osserva la disposizione dell'art. 1 comma 3°.
 

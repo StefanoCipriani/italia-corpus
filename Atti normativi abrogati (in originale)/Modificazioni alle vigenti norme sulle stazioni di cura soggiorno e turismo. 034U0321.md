@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'[art. 1 del R. decreto-legge 15 aprile 1926, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;765#art_1), convertito nella [legge 1° luglio 1926, n. 1380](Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20aprile%201926%20n.%20765%20concernente%20provvedimenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20di%20soggiorno%20o%20di%20turismo.%20026U1380.md), e' aggiunto il seguente comma:  
+All'[art. 1 del R. decreto-legge 15 aprile 1926, n. 765](Provvedimenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20di%20soggiorno%20o%20di%20turismo.%20026U0765.md), convertito nella [legge 1° luglio 1926, n. 1380](Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20aprile%201926%20n.%20765%20concernente%20provvedimenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20di%20soggiorno%20o%20di%20turismo.%20026U1380.md), e' aggiunto il seguente comma:  
  «Il riconoscimento di cui al comma precedente non potra' essere decretato: 
  
  a) se non possa farsi fondata previsione che il provento globale dell'imposta di cura, del contributo speciale di cura e delle contribuzioni speciali di cui agli articoli 12 e 15 raggiunga una media annua di lire 20.000; 
@@ -31,11 +31,11 @@ Entro un anno dall'entrata in vigore della presente legge, il Ministro per l'int
  
  Nello stesso periodo e con la medesima procedura sara' provveduto alla revoca del riconoscimento delle stazioni che non rispondono alle necessita ed esigenze inerenti alla particolare loro qualifica, di quelle che nell'ultimo triennio non abbiano realizzato, dai cespiti indicati alla lettera a) dell'art. 1, un provento medio di lire 20.000, nonche' di quelle la cui attrezzatura ricettiva ed igienico sanitaria non risponda a tutti i requisiti previsti alle successive lettere b) a d) dell'articolo succitato. Tuttavia il riconoscimento delle stazioni per le quali ricorra l'ultima delle tre ipotesi suaccennate potra' essere prorogato, in via transitoria, per un quinquennio e salvo risoluzioni definitive alla scadenza di esso, qualora le Amministrazioni interessate dimostrino che nel periodo anzidetto siano in grado di integrare, nei sensi prescritti, i rispettivi servizi ed assumono all'uopo precisi impegni con deliberazioni approvate a norma di legge. 
  
- Resta ferma la facolta', di promuovere in ogni tempo, con la procedura prevista dall'[art. 4 del R. decreto-legge 15 aprile 1926, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;765#art_4), la revoca del riconoscimento, qualora sia venuta a mancare qualcuna delle condizioni cui tale riconoscimento era stato subordinato.
+ Resta ferma la facolta', di promuovere in ogni tempo, con la procedura prevista dall'[art. 4 del R. decreto-legge 15 aprile 1926, n. 765](Provvedimenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20di%20soggiorno%20o%20di%20turismo.%20026U0765.md), la revoca del riconoscimento, qualora sia venuta a mancare qualcuna delle condizioni cui tale riconoscimento era stato subordinato.
 
 ## Art. 4.
 
-All'[art. 6 del R. decreto-legge 15 aprile 1926, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;765#art_6), modificato con l'[art. 1 del R. decreto-legge 2 luglio 1931, n. 1242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-02;1242#art_1), e' sostituito il seguente: 
+All'[art. 6 del R. decreto-legge 15 aprile 1926, n. 765](Provvedimenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20di%20soggiorno%20o%20di%20turismo.%20026U0765.md), modificato con l'[art. 1 del R. decreto-legge 2 luglio 1931, n. 1242](Modificazioni%20alle%20norme%20vigenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20soggiorno%20o%20turismo.%20031U1242.md), e' sostituito il seguente: 
  
  «Il Consiglio centrale delle stazioni di cura e' composto: 
  
@@ -71,13 +71,13 @@ All'[art. 6 del R. decreto-legge 15 aprile 1926, n. 765](https://www.normattiva.
 
 ## Art. 5.
 
-All'[art. 7 del R. decreto-legge 15 aprile 1926, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;765#art_7), e' aggiunto il seguente capoverso: 
+All'[art. 7 del R. decreto-legge 15 aprile 1926, n. 765](Provvedimenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20di%20soggiorno%20o%20di%20turismo.%20026U0765.md), e' aggiunto il seguente capoverso: 
  
  «Il Consiglio centrale da altresi' parere sui piani regolatori e di ampliamento resi obbligatori a norma dell'art. 20 pei Comuni al cui territorio siano state riconosciate le particolari caratteristiche di cui all'art. 1».
 
 ## Art. 6.
 
-All'[art. 8 del R. decreto-legge 15 aprile 1926, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;765#art_8), e' sostituito il seguente: 
+All'[art. 8 del R. decreto-legge 15 aprile 1926, n. 765](Provvedimenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20di%20soggiorno%20o%20di%20turismo.%20026U0765.md), e' sostituito il seguente: 
  
  «L'Azienda autonoma per l'amministrazione della stazione di cura, soggiorno o turismo e' persona distinta dal Comune. 
  
@@ -103,17 +103,17 @@ All'[art. 8 del R. decreto-legge 15 aprile 1926, n. 765](https://www.normattiva.
 
 ## Art. 7.
 
-Per le stazioni di cura, soggiorno o turismo, la cui circoscrizione comprende territori di Comuni appartenenti a provincie diverse, le attribuzioni spettanti alla Giunta provinciale amministrativa ed al prefetto, a norma degli [articoli 181 del testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175#art_181), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;13) e [19 del R. decreto-legge 15 aprile 1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;19), [n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;765), nonche' l'approvazione dei bilanci preventivi e dei conti consuntivi delle aziende autonome delle stazioni anzidette, sono devolute al prefetto ed alla Giunta provinciale amministrativa della provincia che sara' designata dal Ministro per l'interno con proprio decreto, tenendo conto sia della maggiore vicinanza dei rispettivi capoluoghi al centro delle stazioni predette, sia del maggior interesse. 
+Per le stazioni di cura, soggiorno o turismo, la cui circoscrizione comprende territori di Comuni appartenenti a provincie diverse, le attribuzioni spettanti alla Giunta provinciale amministrativa ed al prefetto, a norma degli [articoli 181 del testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175#art_181), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;13) e [19 del R. decreto-legge 15 aprile 1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;19), [n. 765](Provvedimenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20di%20soggiorno%20o%20di%20turismo.%20026U0765.md), nonche' l'approvazione dei bilanci preventivi e dei conti consuntivi delle aziende autonome delle stazioni anzidette, sono devolute al prefetto ed alla Giunta provinciale amministrativa della provincia che sara' designata dal Ministro per l'interno con proprio decreto, tenendo conto sia della maggiore vicinanza dei rispettivi capoluoghi al centro delle stazioni predette, sia del maggior interesse. 
  
- Le disposizioni dell'[art. 3 del R. decreto-legge 2 luglio 1931, n. 1242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-02;1242#art_3), si applicano anche ai bilanci preventivi ed ai conti consuntivi delle aziende autonome delle stazioni di cura, soggiorno e turismo suindicate.
+ Le disposizioni dell'[art. 3 del R. decreto-legge 2 luglio 1931, n. 1242](Modificazioni%20alle%20norme%20vigenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20soggiorno%20o%20turismo.%20031U1242.md), si applicano anche ai bilanci preventivi ed ai conti consuntivi delle aziende autonome delle stazioni di cura, soggiorno e turismo suindicate.
 
 ## Art. 8.
 
-Nel territorio delle stazioni di cura, soggiorno e turismo e' obbligatoria la denunzia al Comitato locale degli alloggi di qualsiasi genere destinati ai forestieri, con la indicazione dei relativi prezzi. I conduttori di alberghi, pensioni e locande debbono uniformare le denunzie alle disposizioni del [R. decreto-legge 21 febbraio 1932, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-02-21;154), convertito nella [legge 16 maggio 1932, n. 557](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20febbraio%201932%20n.%20154%20concernente%20la%20pubblicita%20dei%20prezzi%20degli%20alberghi%20delle%20pensioni%20e%20delle%20locande.%20032U0557.md), e del [R. decreto 25 aprile 1932, n. 406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-04-25;406). 
+Nel territorio delle stazioni di cura, soggiorno e turismo e' obbligatoria la denunzia al Comitato locale degli alloggi di qualsiasi genere destinati ai forestieri, con la indicazione dei relativi prezzi. I conduttori di alberghi, pensioni e locande debbono uniformare le denunzie alle disposizioni del [R. decreto-legge 21 febbraio 1932, n. 154](Disposizioni%20circa%20la%20pubblicita%20dei%20prezzi%20degli%20alberghi%20delle%20pensioni%20e%20delle%20locande.%20032U0154.md), convertito nella [legge 16 maggio 1932, n. 557](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20febbraio%201932%20n.%20154%20concernente%20la%20pubblicita%20dei%20prezzi%20degli%20alberghi%20delle%20pensioni%20e%20delle%20locande.%20032U0557.md), e del [R. decreto 25 aprile 1932, n. 406](Norme%20di%20attuazione%20del%20R.%20decreto-legge%2021%20febbraio%201932%20n.%20154%20sulla%20pubblicita%20dei%20prezzi%20degli%20alberghi%20pensioni%20e%20locande.%20032U0406.md). 
  
  I conduttori di alberghi, pensioni e locande, nonche' coloro che gestiscono alloggi per i forestieri, debbono comunicare al Comitato locale, entro 24 ore, l'arrivo e la partenza delle persone alloggiate, valendosi dei moduli stabiliti dall'Ente nazionale per le industrie turistiche d'intesa col Ministero dell'interno e l'Istituto centrale di statistica. 
  
- Nei Comuni dispensati, ai sensi dell'[art. 10 del R. decreto-legge 15 aprile 1926, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;765#art_10), dalla costituzione della azienda separata, le denuncie debbono essere presentate al podesta'. 
+ Nei Comuni dispensati, ai sensi dell'[art. 10 del R. decreto-legge 15 aprile 1926, n. 765](Provvedimenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20di%20soggiorno%20o%20di%20turismo.%20026U0765.md), dalla costituzione della azienda separata, le denuncie debbono essere presentate al podesta'. 
  
  I contravventori alle disposizioni del presente articolo sono puniti con l'ammenda da lire 50 a lire 1000. 
  
@@ -123,7 +123,7 @@ Nel territorio delle stazioni di cura, soggiorno e turismo e' obbligatoria la de
 
 ## Art. 9.
 
-Le disposizioni della presente legge saranno coordinate in testo unico con quelle del [R. decreto-legge 15 aprile 1926, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;765), e con tutte le altre disposizioni legislative attinenti alla materia. 
+Le disposizioni della presente legge saranno coordinate in testo unico con quelle del [R. decreto-legge 15 aprile 1926, n. 765](Provvedimenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20di%20soggiorno%20o%20di%20turismo.%20026U0765.md), e con tutte le altre disposizioni legislative attinenti alla materia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

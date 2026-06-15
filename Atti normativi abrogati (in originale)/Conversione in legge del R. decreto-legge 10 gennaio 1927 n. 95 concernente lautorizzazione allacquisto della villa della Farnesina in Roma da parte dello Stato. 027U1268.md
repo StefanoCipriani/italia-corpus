@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 febbraio 1927, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-10;95), concernente l'autorizzazione all'acquisto della villa della Farnesina in Roma da parte dello Stato, per il prezzo di L. 12,000,000. 
+ E' convertito in legge il [R. decreto-legge 10 febbraio 1927, n. 95](Acquisto%20da%20parte%20dello%20Stato%20della%20Villa%20della%20Farnesina%20in%20Roma.%20027U0095.md), concernente l'autorizzazione all'acquisto della villa della Farnesina in Roma da parte dello Stato, per il prezzo di L. 12,000,000. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

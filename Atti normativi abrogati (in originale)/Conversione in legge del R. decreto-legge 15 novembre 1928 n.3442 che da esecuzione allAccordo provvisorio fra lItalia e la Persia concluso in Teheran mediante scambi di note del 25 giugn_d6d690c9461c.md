@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 novembre 1928, n. 3442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-15;3442), che da' esecuzione ai seguenti scambi di note fra l'Italia e la Persia: 
+ E' convertito in legge il [R. decreto-legge 15 novembre 1928, n. 3442](Approvazione%20dellAccordo%20provvisorio%20italo-persiano%20concluso%20in%20Teheran%20mediante%20scambi%20di%20note%20del%2025%20giugno%201928%20e%20dell11-24%20luglio%201928%20per%20regolare%20i%20rapporti%20fra%20i%20due%20Paesi%20fino%20al%20_79ba3c7e7643.md), che da' esecuzione ai seguenti scambi di note fra l'Italia e la Persia: 
  
  a) Scambio di note seguito in Teheran il 25 giugno 1928 per concludere un Accordo provvisorio fra l'Italia e la Persia allo scopo di regolare i rapporti fra i due Paesi fino al 10 maggio 1929, con allegata dichiarazione in materia giudiziaria fatta dal Gerente il Ministero degli affari esteri persiano al Regio Ministro in Teheran all'atto dello scambio delle note di cui sopra; 
  

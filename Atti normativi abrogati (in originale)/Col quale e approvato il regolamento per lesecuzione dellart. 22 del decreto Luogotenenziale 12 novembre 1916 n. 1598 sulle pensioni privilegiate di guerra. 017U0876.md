@@ -26,7 +26,7 @@ La perdita assoluta e permanente della funzione di organi, di arti o di loro seg
 
 Per le infermita' ascritte alla prima categoria della allegata tabella A, la pensione e' liquidata nella misura stabilita dall'[art. 100, prima comma, del testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_100-com1), e dalle successive disposizioni; e per le infermita' ascritte alle altre categorie, dalla seconda all'ottava inclusa, e' ragguagliata rispettivamente all'80, 75, 70, 60, 50, 40, e 30 per cento della pensione corrispondente alle infermita' di prima categoria. In questi casi i limiti fissati dalle norme vigenti per la determinazione del massimo di pensione, non saranno applicati alla pensione di prima categoria, che serve di base al ragguaglio, bensi' a quella risultante dal ragguaglio stesso. 
  
- Le pensioni privilegiate di guerra istituite con la [legge 23 giugno 1912, n. 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-23;667), saranno liquidate: per gli ufficiali nel modo sopra stabilito, applicando l'aumento del quinto, conformemente e nei limiti dell'articolo 2, quarto comma, della citata legge; e, per i militari di truppa, in base alla allegata tabella B, firmata, d'ordine Nostro, dal ministro proponente.
+ Le pensioni privilegiate di guerra istituite con la [legge 23 giugno 1912, n. 667](Che%20istituisce%20pensioni%20privilegiate%20di%20guerra%20per%20gli%20ufficiali%20e%20militari%20di%20truppa%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0667.md), saranno liquidate: per gli ufficiali nel modo sopra stabilito, applicando l'aumento del quinto, conformemente e nei limiti dell'articolo 2, quarto comma, della citata legge; e, per i militari di truppa, in base alla allegata tabella B, firmata, d'ordine Nostro, dal ministro proponente.
 
 ## Art. 4.
 
@@ -44,7 +44,7 @@ Il militare, che a causa dal servizio prestato in guerra, abbia contratto alcuna
  
  Tale assegno sara' di annue lire 150, e verra' raddoppiato nel caso contemplato al n. 1 della prima categoria, ovvero quando coesistano piu' infermita' considerate nel precedente comma. 
  
- L'assegno potra' essere revocato allorche', a parere dell'Opera nazionale per la protezione ed assistenza degli invalidi della guerra, di cui alla [legge 25 marzo 1917, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;481), venga meno la ragione della concessione, per essere il pensionato altrimenti provveduto di assistenza a cura di Istituti pubblici, ovvero quando risulti che l'interessato, pur non essendo diversamente assistito, si rifiuti di essere ricoverato in uno dei detti Istituti.
+ L'assegno potra' essere revocato allorche', a parere dell'Opera nazionale per la protezione ed assistenza degli invalidi della guerra, di cui alla [legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), venga meno la ragione della concessione, per essere il pensionato altrimenti provveduto di assistenza a cura di Istituti pubblici, ovvero quando risulti che l'interessato, pur non essendo diversamente assistito, si rifiuti di essere ricoverato in uno dei detti Istituti.
 
 ## Art. 6.
 

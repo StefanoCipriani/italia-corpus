@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA.
 
-Visto il testo unico delle leggi sul matrimonio degli ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza, approvato con [R. decreto 9 febbraio 1928, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-09;371);
+Visto il testo unico delle leggi sul matrimonio degli ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza, approvato con [R. decreto 9 febbraio 1928, n. 371](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md);
 
 Vista la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), sullo stato degli ufficiali del Regio esercito, della Regia marina e della Regia aeronautica, e successive modificazioni;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la guerra, di concert
 
 ## Art. 1.
 
-L'art. 2 del testo unico delle leggi sul matrimonio degli ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza, approvato con [R. decreto n. 371 del 9 febbraio 1928](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-09;371), e' sostituito dal seguente: 
+L'art. 2 del testo unico delle leggi sul matrimonio degli ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza, approvato con [R. decreto n. 371 del 9 febbraio 1928](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md), e' sostituito dal seguente: 
  
  «L'ufficiale che contrae matrimonio senza il Regio Assenso e' dispensato dal servizio permanente. 
  

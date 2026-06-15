@@ -87,7 +87,7 @@ E' autorizzata l'inscrizione nello stato di previsione del Ministero dell'agrico
 
 ## Art. 10.
 
-Il Ministro per le finanze e' autorizzato ad applicare con propri decreti e con le modalita' che riterra' necessarie le disposizioni del [R. decreto-legge 12 febbraio 1925, n. 213](Condono%20di%20mutui%20concessi%20al%20comune%20di%20Venezia%20ai%20termini%20dei%20decreti%20Luogotenenziali%2025%20giugno%201915%20n.%20988%20e%2018%20maggio%201916%20n.%20743.%20025U0213.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), alle anticipazioni alle Provincie ed ai Comuni del Regno, concesse in base ai [decreti Luogotenenziali 27 giugno 1915, n. 988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;988), [18 maggio 1916, n. 743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-18;743), e successile modifiche; alle anticipazioni accordate dai commissari generali civili e dal Comando Supremo dell'Esercito, nonche' a quelle concesse dal Governo austriaco durante la guerra 1915-1918 ai Comuni ed alle Provincie redente, e non ancora ricuperate.
+Il Ministro per le finanze e' autorizzato ad applicare con propri decreti e con le modalita' che riterra' necessarie le disposizioni del [R. decreto-legge 12 febbraio 1925, n. 213](Condono%20di%20mutui%20concessi%20al%20comune%20di%20Venezia%20ai%20termini%20dei%20decreti%20Luogotenenziali%2025%20giugno%201915%20n.%20988%20e%2018%20maggio%201916%20n.%20743.%20025U0213.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), alle anticipazioni alle Provincie ed ai Comuni del Regno, concesse in base ai [decreti Luogotenenziali 27 giugno 1915, n. 988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;988), [18 maggio 1916, n. 743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-18;743), e successile modifiche; alle anticipazioni accordate dai commissari generali civili e dal Comando Supremo dell'Esercito, nonche' a quelle concesse dal Governo austriaco durante la guerra 1915-1918 ai Comuni ed alle Provincie redente, e non ancora ricuperate.
 
 ## Art. 11.
 
@@ -121,7 +121,7 @@ Il Governo generale dell'Africa Orientale Italiano, e' autorizzato ad effettuare
 
 Il Ministro per le finanze e' autorizzato a provvedere con propri decreti alle variazioni di bilancio occorrenti per l'attuazione: 
  
-a) del [R. decreto 21 settembre 1938, n. 1470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-21;1470), concernente la istituzione dei ruoli corporativi dell'Africa Italiana; 
+a) del [R. decreto 21 settembre 1938, n. 1470](Istituzione%20dei%20ruoli%20corporativi%20dellAfrica%20Italiana.%20038U1470.md), concernente la istituzione dei ruoli corporativi dell'Africa Italiana; 
  
  b) del [R. decreto-legge 1° luglio 1938, n. 1256](Istituzione%20di%20una%20terza%20lotteria%20nazionale%20denominata%20Lotteria%20E%2042.%20038U1256.md), col quale e' stata istituita una terza lotteria nazionale denominata «Lotteria E. 42»; 
  

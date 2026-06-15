@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 31 dicembre 1947, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1947-12-31;1629), recante norme per la istituzione dell'Opera per la valorizzazione della Sila;
+Vista la [legge 31 dicembre 1947, n. 1629](Norme%20per%20la%20istituzione%20dellOpera%20di%20valorizzazione%20della%20Sila.md), recante norme per la istituzione dell'Opera per la valorizzazione della Sila;
 
-Visto l'[art. 32 della legge 12 maggio 1950, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230#art_32), recante provvedimenti per la colonizzazione dell'Altopiano della Sila e dei territori jonici contermini;
+Visto l'[art. 32 della legge 12 maggio 1950, n. 230](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), recante provvedimenti per la colonizzazione dell'Altopiano della Sila e dei territori jonici contermini;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro Segretario di Stato per l'agricoltura e le foreste; 
 
 ## Art. 1.
 
-L'Opera per la valorizzazione della Sila che, a norma dell'[art. 3 della legge 31 dicembre 1947, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1947-12-31;1629#art_3), e' sottoposta alla vigilanza e tutela del Ministero dell'agricoltura e delle foreste, svolge, di regola, la sua attivita' attraverso programmi predisposti dal presidente, sentito il parere del Consiglio ed approvati dal Ministro per l'agricoltura e le foreste.
+L'Opera per la valorizzazione della Sila che, a norma dell'[art. 3 della legge 31 dicembre 1947, n. 1629](Norme%20per%20la%20istituzione%20dellOpera%20di%20valorizzazione%20della%20Sila.md), e' sottoposta alla vigilanza e tutela del Ministero dell'agricoltura e delle foreste, svolge, di regola, la sua attivita' attraverso programmi predisposti dal presidente, sentito il parere del Consiglio ed approvati dal Ministro per l'agricoltura e le foreste.
  Le variazioni di tali programmi e le eventuali deliberazioni in deroga sono adottate con le stesse modalita'.
  Nei casi di urgenza, le deliberazioni in deroga possono essere adottate dal presidente e dallo stesso dichiarate immediatamente eseguibili ma, entro otto giorni, debbono essere trasmesse al Ministro, per l'approvazione, corredate del parere del Consiglio.
 
@@ -37,7 +37,7 @@ Il Consiglio dell'Opera da' parere su tutti gli affari sui quali sia interpellat
  c) sulle nomine del personale;
  d) sul bilancio di previsione e sulle variazioni che occorra introdurre durante il corso dell'esercizio;
  e) sul conto consuntivo, previa relazione del Collegio sindacale;
- f) sul piano generale di trasformazione fondiaria del comprensorio silano e delle zone di cui al [primo comma dell'art. 10 della legge 12 maggio 1950, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230#art_10-com1);
+ f) sul piano generale di trasformazione fondiaria del comprensorio silano e delle zone di cui al [primo comma dell'art. 10 della legge 12 maggio 1950, n. 230](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md);
  g) sui piani di coordinamento delle attivita' che sono chiamati a svolgere i Consorzi di bonifica esistenti nel territorio di cui all'art. 1 della citata legge;
  h) sui singoli piani di colonizzazione e sui provvedimenti di assegnazione dei terreni;
  i) sulle domande di concessione dell'esecuzione di opere pubbliche;
@@ -47,7 +47,7 @@ Il Consiglio dell'Opera da' parere su tutti gli affari sui quali sia interpellat
  o) sulla costituzione di societa' od enti e sulla partecipazione ad essi;
  p) sui provvedimenti per l'attuazione dei compiti indicati nell'art. 22 della legge citata;
  q) sulle domande di derivazione d'acqua;
- r) sulle domande di sostituirsi ai proprietari, ai sensi dell'[art. 10 della legge 31 dicembre 1947, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1947-12-31;1629#art_10);
+ r) sulle domande di sostituirsi ai proprietari, ai sensi dell'[art. 10 della legge 31 dicembre 1947, n. 1629](Norme%20per%20la%20istituzione%20dellOpera%20di%20valorizzazione%20della%20Sila.md);
  s) sull'esecuzione di opere nell'interesse comune a piu' proprieta';
  t) sulle iniziative intese a favorire l'industrializzazione e lo sviluppo del turismo;
  u) sulla eventuale istituzione di Comitati consultivi;
@@ -71,7 +71,7 @@ Il Ministro per l'agricoltura e le foreste puo' ordinare, in ogni momento, ispez
 ## Art. 6.
 
 La sostituzione del presidente, come lo scioglimento del Consiglio, e, quando occorra, l'uno e l'altro provvedimento insieme, sono adottati, su proposta del Ministro per l'agricoltura e le foreste, con decreto del Presidente della Repubblica.
- In caso di scioglimento del Consiglio, il Presidente della Repubblica stabilisce se debba, farsi luogo alla ricostituzione di esso, nel modo previsto dall'[art. 13 della legge 12 maggio 1950, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230#art_13), ovvero se il presidente dell'Opera sia temporaneamente investito di poteri commissariali.
+ In caso di scioglimento del Consiglio, il Presidente della Repubblica stabilisce se debba, farsi luogo alla ricostituzione di esso, nel modo previsto dall'[art. 13 della legge 12 maggio 1950, n. 230](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ovvero se il presidente dell'Opera sia temporaneamente investito di poteri commissariali.
  La ricostituzione del Consiglio, peraltro, non puo' essere procrastinata oltre il termine di tre mesi, prorogabile di un altro trimestre, dalla data del decreto di scioglimento.
 
 ## Art. 7.
@@ -106,12 +106,12 @@ Il Collegio sindacale trasmette trimestralmente al Ministro per l'agricoltura e 
 
 ## Art. 13.
 
-Le osservazioni, relative ad eventuali errori od omissioni dei piani particolareggiati di espropriazione, debbono essere proposte dagli interessati a mezzo di lettera raccomandata con ricevuta di ritorno diretta all'Opera per la valorizzazione della Sila, nel termine indicato nell'[art. 4 della legge 12 maggio 1950, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230#art_4).
+Le osservazioni, relative ad eventuali errori od omissioni dei piani particolareggiati di espropriazione, debbono essere proposte dagli interessati a mezzo di lettera raccomandata con ricevuta di ritorno diretta all'Opera per la valorizzazione della Sila, nel termine indicato nell'[art. 4 della legge 12 maggio 1950, n. 230](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md).
 
 ## Art. 14.
 
 Il termine, entro il quale gli interessati possono richiedere all'Opera la rettifica di eventuali errori materiali incorsi nella formazione del piano particolareggiato di espropriazione, decorre dalla data in cui si inizia il deposito degli atti nell'ufficio di ciascun Comune e dalla contemporanea inserzione, per estratto, nel Foglio annunzi legali della Provincia. Qualora non vi sia coincidenza fra le due date, il termine decorre da quella posteriore in ordine di tempo.
- I discendenti in linea retta che, ai sensi del [terzo comma dell'art. 2 della legge 12 maggio 1950, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230#art_2-com3), intendano ottenere l'esclusione dal computo della proprieta' terriera del de cuius dei terreni ad essi trasferiti per successione mortis causa, sono tenuti, nel termine di cui al precedente comma, a dare la prova dell'avvenuta successione e della consistenza complessiva della loro proprieta' terriera, inclusi i fondi rustici caduti nella successione e di loro spettanza.
+ I discendenti in linea retta che, ai sensi del [terzo comma dell'art. 2 della legge 12 maggio 1950, n. 230](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), intendano ottenere l'esclusione dal computo della proprieta' terriera del de cuius dei terreni ad essi trasferiti per successione mortis causa, sono tenuti, nel termine di cui al precedente comma, a dare la prova dell'avvenuta successione e della consistenza complessiva della loro proprieta' terriera, inclusi i fondi rustici caduti nella successione e di loro spettanza.
 
 ## Art. 15.
 

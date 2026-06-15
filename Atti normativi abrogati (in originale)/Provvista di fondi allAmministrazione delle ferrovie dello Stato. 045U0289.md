@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429), contenente l'ordinamento dell'esercizio delle Ferrovie dello Stato e successive modificazioni;
+Vista la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), contenente l'ordinamento dell'esercizio delle Ferrovie dello Stato e successive modificazioni;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

@@ -94,7 +94,7 @@ Se sia omessa la sola dichiarazione sulle etichette, la pena dell'ammenda e' da 
  Se il fatto sia commesso senza che il colpevole conosca che le sostanze o i prodotti siano nocivi, alla reclusione e' sostituita la multa da L. 100 a L. 1000. 
  Qualora le infrazioni alle disposizioni della presente legge riguardino prodotti presentati per l'esportazione, le pene saranno applicate al massimo e, ove sia stabilita una pena fissa, questa sara' raddoppiata. 
  In caso di recidiva le pene previste dalla presente legge saranno raddoppiate. 
- Le pene comminate dalla presente legge non pregiudicano l'applicazione di quelle maggiori previste dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), dalle leggi sanitarie e da altre leggi speciali.
+ Le pene comminate dalla presente legge non pregiudicano l'applicazione di quelle maggiori previste dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dalle leggi sanitarie e da altre leggi speciali.
 
 ## Art. 13.
 

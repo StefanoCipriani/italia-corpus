@@ -28,7 +28,7 @@ A decorrere dal periodo di paga successivo a quello in corso alla data del 1° l
 
 ## Art. 2.
 
-I benefici previsti dalle disposizioni di cui all'art. 1 del presente decreto sono cumulabili con quelli stabiliti dall'[art. 18 del decreto-legge 30 agosto 1968, n. 918](Provvidenze%20creditizie%20agevolazioni%20fiscali%20e%20sgravio%20di%20oneri%20sociali%20per%20favorire%20nuovi%20investimenti%20nei%20settori%20dellindustria%20del%20commercio%20e%20dellartigianato.md), convertito nella [legge 25 ottobre 1968, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-10-25;1089), e successive modificazioni.
+I benefici previsti dalle disposizioni di cui all'art. 1 del presente decreto sono cumulabili con quelli stabiliti dall'[art. 18 del decreto-legge 30 agosto 1968, n. 918](Provvidenze%20creditizie%20agevolazioni%20fiscali%20e%20sgravio%20di%20oneri%20sociali%20per%20favorire%20nuovi%20investimenti%20nei%20settori%20dellindustria%20del%20commercio%20e%20dellartigianato.md), convertito nella [legge 25 ottobre 1968, n. 1089](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201968%20n.%20918%20recante%20provvidenze%20creditizie%20agevolazioni%20fiscali%20e%20sgravio%20di%20oneri%20sociali%20per%20favorire%20nuovi%20investimen_7cf466023fc0.md), e successive modificazioni.
 
 ## Art. 3.
 
@@ -37,7 +37,7 @@ L'importo dello sgravio concesso in applicazione dell'art. 1 del presente decret
 
 ## Art. 4.
 
-All'onere di lire 221 miliardi si provvede con il netto ricavo derivante da operazioni finanziarie che il Ministro per il tesoro e' autorizzato ad effettuare negli anni 1971 e 1972 mediante la contrazione di mutui con il Consorzio di credito per le opere pubbliche, o con la emissione di buoni poliennali del Tesoro o di speciali certificati di credito. Si applicano le norme di cui all'[articolo 46 del decreto-legge 26 ottobre 1970, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-10-26;745#art_46), convertito, con modificazioni, nella [legge 18 dicembre 1970, n. 1034](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-18;1034).
+All'onere di lire 221 miliardi si provvede con il netto ricavo derivante da operazioni finanziarie che il Ministro per il tesoro e' autorizzato ad effettuare negli anni 1971 e 1972 mediante la contrazione di mutui con il Consorzio di credito per le opere pubbliche, o con la emissione di buoni poliennali del Tesoro o di speciali certificati di credito. Si applicano le norme di cui all'[articolo 46 del decreto-legge 26 ottobre 1970, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-10-26;745#art_46), convertito, con modificazioni, nella [legge 18 dicembre 1970, n. 1034](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20ottobre%201970%20n.%20745%20concernente%20provvedimenti%20straordinari%20per%20la%20ripresa%20economica.md).
  All'onere relativo alle operazioni finanziarie di cui al precedente comma sara' fatto fronte per l'anno 1971 con riduzione dei fondi speciali di cui ai capitoli numeri 3523 e 6036 dello stato di previsione del Ministero del tesoro per l'anno medesimo.
  Il Ministro per il tesoro e' autorizzato ad apportare negli anni 1971 e 1972, con propri decreti, le occorrenti variazioni di bilancio.
 

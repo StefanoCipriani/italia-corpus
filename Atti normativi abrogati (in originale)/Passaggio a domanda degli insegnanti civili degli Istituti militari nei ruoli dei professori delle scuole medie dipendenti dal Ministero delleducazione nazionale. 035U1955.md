@@ -22,7 +22,7 @@ Visto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N
 
 Visto il [R. decreto 27 novembre 1924, n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md), sullo stato dei presidi, dei professori e del personale assistente, di segreteria e subalterno dei Regi istituti medi d'istruzione;
 
-Visto il [R. decreto-legge 29 novembre 1925, n. 2220](Carriera%20dei%20professori%20dei%20Regi%20istituti%20medi%20distruzione.%20025U2220.md) sulla carriera dei professori dei Regi istituti medi di istruzione, convertito in legge con la [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898);
+Visto il [R. decreto-legge 29 novembre 1925, n. 2220](Carriera%20dei%20professori%20dei%20Regi%20istituti%20medi%20distruzione.%20025U2220.md) sulla carriera dei professori dei Regi istituti medi di istruzione, convertito in legge con la [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
 Visto il testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, approvato con decreto 23 febbraio 1928, n. 327, e successive modificazioni;
 

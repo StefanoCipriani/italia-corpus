@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1569](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1569), relativo alla concessione, ai rivenditori di generi di privativa, del supplemento di aggio sullo smercio del nuovo tipo di sigaretta «Eja!». 
+ E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1569](Concessione%20ai%20rivenditori%20di%20generi%20di%20privativa%20del%20supplemento%20di%20aggio%20sullo%20smercio%20del%20nuovo%20tipo%20di%20sigaretta%20%20Eja%20.%20027U1569.md), relativo alla concessione, ai rivenditori di generi di privativa, del supplemento di aggio sullo smercio del nuovo tipo di sigaretta «Eja!». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

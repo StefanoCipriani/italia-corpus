@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 30 luglio 1896, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-30;343);
+Vista la [legge 30 luglio 1896, n. 343](Sulla%20beneficenza%20pubblica%20per%20la%20citta%20di%20Roma.%20096U0343.md);
 
-Vista la [legge 28 settembre 1940, n. 1403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-28;1403);
+Vista la [legge 28 settembre 1940, n. 1403](Abrogazione%20del%20contributo%20statale%20a%20favore%20degli%20asili%20infantili%20israelitici%20contemplati%20dalla%20legge%2030%20luglio%201896%20a.%20343.%20040U1403.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Ritenuta l'opportunita' di ripristinare a favore degli Asili infantili israelitici la concessione dell'annuo contributo di L. 11.500 assegnato con la detta [legge 30 luglio 1896, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-30;343), e poi abrogato, in base ai provvedimenti razziali adottati dal cessato regime, con la richiamata [legge 28 settembre 1940, n. 1403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-28;1403);
+Ritenuta l'opportunita' di ripristinare a favore degli Asili infantili israelitici la concessione dell'annuo contributo di L. 11.500 assegnato con la detta [legge 30 luglio 1896, n. 343](Sulla%20beneficenza%20pubblica%20per%20la%20citta%20di%20Roma.%20096U0343.md), e poi abrogato, in base ai provvedimenti razziali adottati dal cessato regime, con la richiamata [legge 28 settembre 1940, n. 1403](Abrogazione%20del%20contributo%20statale%20a%20favore%20degli%20asili%20infantili%20israelitici%20contemplati%20dalla%20legge%2030%20luglio%201896%20a.%20343.%20040U1403.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per tesoro, di concerto col Mini
 
 ## Articolo unico.
 
-E' abrogata, con effetto dalla data della sua entrata in vigore, la [legge 28 settembre 1940, n. 1403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-28;1403), concernente il contributo statale a favore degli Asili infantili israelitici contemplati dalla [legge 30 luglio 1896, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-30;343).
+E' abrogata, con effetto dalla data della sua entrata in vigore, la [legge 28 settembre 1940, n. 1403](Abrogazione%20del%20contributo%20statale%20a%20favore%20degli%20asili%20infantili%20israelitici%20contemplati%20dalla%20legge%2030%20luglio%201896%20a.%20343.%20040U1403.md), concernente il contributo statale a favore degli Asili infantili israelitici contemplati dalla [legge 30 luglio 1896, n. 343](Sulla%20beneficenza%20pubblica%20per%20la%20citta%20di%20Roma.%20096U0343.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

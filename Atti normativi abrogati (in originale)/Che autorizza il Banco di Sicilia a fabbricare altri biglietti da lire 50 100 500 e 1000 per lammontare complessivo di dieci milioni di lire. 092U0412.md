@@ -10,13 +10,13 @@ vigente: true
 
 IL MINISTRO DEL TESORO
 
-Veduto l'[art. 19 della legge 7 aprile 1881 n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-04-07;133#art_19);
+Veduto l'[art. 19 della legge 7 aprile 1881 n. 133](Che%20provvede%20per%20labolizione%20del%20corso%20forzoso%20081U0133.md);
 
-Veduto l'[art. 8 della legge 30 aprile 1874 n. 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1874-04-30;1920#art_8);
+Veduto l'[art. 8 della legge 30 aprile 1874 n. 1920](Sulla%20circolazione%20cartacea%20durante%20il%20corso%20forzoso.%20074U1920.md);
 
-Veduto il regolamento approvato con [Regio decreto 17 settembre 1876 n. 3375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-09-17;3375);
+Veduto il regolamento approvato con [Regio decreto 17 settembre 1876 n. 3375](Che%20approva%20il%20regolamento%20riguardante%20le%20modalita%20e%20le%20forme%20dei%20biglietti%20che%20gli%20istituti%20di%20emissione%20sono%20autorizzati%20ad%20emettere%20per%20proprio%20conto.%20076U3375.md);
 
-Veduta la [legge 28 giugno 1885 n. 3167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-06-28;3167);
+Veduta la [legge 28 giugno 1885 n. 3167](Che%20proroga%20il%20corso%20legale%20dei%20biglietti%20degli%20Istituti%20demissione.%20085U3167.md);
 
 Veduti i decreti ministeriali 11 aprile e 5 giugno 1879 n. 4834 e 4914 che pubblicarono i segni ed i distintivi caratteristici dei biglietti propri del Banco di Sicilia;
 

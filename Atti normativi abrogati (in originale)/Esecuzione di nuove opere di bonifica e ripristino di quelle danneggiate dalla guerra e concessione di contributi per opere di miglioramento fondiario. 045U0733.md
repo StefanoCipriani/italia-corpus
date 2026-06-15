@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per la esecuzione di opere pubbliche di bonifica, compresa la ricostruzione e riparazione di quelle distrutte o danneggiate per eventi bellici, e' autorizzata la spesa di cinque miliardi, in aggiunta alle vigenti autorizzazioni di spesa di cui al [R. decreto-legge 13 gennaio 1938, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-01-13;12), convertito nella [legge 31 marzo 1938, n. 543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-31;543), e successive variazioni, nonche' al [decreto legislativo Luogotenenziale 12 ottobre 1944, n. 339](Disposizioni%20per%20da%20riparazione%20e%20ricostruzione%20delle%20opere%20pubbliche%20di%20bonifica%20danneggiate%20o%20distrutte%20a%20causa%20della%20guerra.%20044U0339.md), e successive variazioni. 
+Per la esecuzione di opere pubbliche di bonifica, compresa la ricostruzione e riparazione di quelle distrutte o danneggiate per eventi bellici, e' autorizzata la spesa di cinque miliardi, in aggiunta alle vigenti autorizzazioni di spesa di cui al [R. decreto-legge 13 gennaio 1938, n. 12](Nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0012.md), convertito nella [legge 31 marzo 1938, n. 543](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2013%20gennaio%201938-XVI%20n.%2012%20recante%20nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0543.md), e successive variazioni, nonche' al [decreto legislativo Luogotenenziale 12 ottobre 1944, n. 339](Disposizioni%20per%20da%20riparazione%20e%20ricostruzione%20delle%20opere%20pubbliche%20di%20bonifica%20danneggiate%20o%20distrutte%20a%20causa%20della%20guerra.%20044U0339.md), e successive variazioni. 
  
  Con decreti dei Ministro per il tesoro di concerto con il Ministro per l'agricoltura e per le foreste sara' provveduto alla ripartizione dell'autorizzazione predetta fra le nuove opere di bonifica e quelle di ripristino.
 
@@ -20,9 +20,9 @@ Per la concessione di sussidi per la esecuzione delle opere di competenza privat
 
 ## Art. 3.
 
-Per il concorso dello Stato nei mutui relativi ad opere di miglioramento fondiario, il limite di impegno fissato dall'[art. 2 della legge 30 ottobre 1940, n. 1634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-30;1634#art_2), per l'esercizio finanziario 1945-46, e' aumentato di L. 73.000.000. 
+Per il concorso dello Stato nei mutui relativi ad opere di miglioramento fondiario, il limite di impegno fissato dall'[art. 2 della legge 30 ottobre 1940, n. 1634](Nuove%20disposizioni%20per%20lo%20sviluppo%20del%20credito%20agrario%20di%20miglioramento.%20040U1634.md), per l'esercizio finanziario 1945-46, e' aumentato di L. 73.000.000. 
  
- In conseguenza i limiti degli stanziamenti destinati alla corresponsione del concorso statale anzidetto, fissati dall'art. 1 della citata [legge 30 ottobre 1940, n. 1634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-30;1634), sono aumentati della somma di L. 73.000.000 per ciascuno degli esercizi dal 1946-47 a tutto il 1975-76.
+ In conseguenza i limiti degli stanziamenti destinati alla corresponsione del concorso statale anzidetto, fissati dall'art. 1 della citata [legge 30 ottobre 1940, n. 1634](Nuove%20disposizioni%20per%20lo%20sviluppo%20del%20credito%20agrario%20di%20miglioramento.%20040U1634.md), sono aumentati della somma di L. 73.000.000 per ciascuno degli esercizi dal 1946-47 a tutto il 1975-76.
 
 ## Art. 4.
 

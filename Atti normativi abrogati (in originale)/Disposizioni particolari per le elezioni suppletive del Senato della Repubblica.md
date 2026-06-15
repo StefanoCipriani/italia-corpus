@@ -58,10 +58,10 @@ Il senatore eletto con elezione suppletiva cessa dal mandato con la scadenza cos
 
 2.
 
-Nel caso in cui si proceda ad elezioni suppletive, le cause di ineleggibilita' previste dall'articolo 7 del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-30;361), non hanno effetto se le funzioni esercitate siano cessate entro i sette giorni successivi alla data di pubblicazione del decreto di indizione delle elezioni.
+Nel caso in cui si proceda ad elezioni suppletive, le cause di ineleggibilita' previste dall'articolo 7 del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), non hanno effetto se le funzioni esercitate siano cessate entro i sette giorni successivi alla data di pubblicazione del decreto di indizione delle elezioni.
 
 Nota all'art. 3, comma 2:
- L'art. 7 del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-30;361) (Testo unico delle leggi recanti norme per la elezione della Camera dei deputati), dispone:
+ L'art. 7 del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md) (Testo unico delle leggi recanti norme per la elezione della Camera dei deputati), dispone:
  "Non sono eleggibili:
  a) i deputati regionali o consiglieri regionali;
  b) i presidenti delle giunte provinciali;

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 dicembre 1928, n. 3427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-31;3427), che da' esecuzione all'Accordo concluso in Roma, mediante scambio di note, fra il Regno d'Italia ed il Reich Germanico, il 7 maggio 1928, relativo al trattamento doganale ed al regime delle tare applicabile alle specialita' medicinali, alla loro importazione dall'uno all'altro Stato. 
+ E' convertito in legge il [R. decreto-legge 31 dicembre 1928, n. 3427](Approvazione%20dellAccordo%20italo-germanico%20concluso%20in%20Roma%20il%207%20maggio%201928%20relativo%20al%20trattamento%20doganale%20ed%20al%20regime%20delle%20tare%20applicabile%20alle%20specialita%20medicinali%20alla%20loro%20import_9bdab161e47e.md), che da' esecuzione all'Accordo concluso in Roma, mediante scambio di note, fra il Regno d'Italia ed il Reich Germanico, il 7 maggio 1928, relativo al trattamento doganale ed al regime delle tare applicabile alle specialita' medicinali, alla loro importazione dall'uno all'altro Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

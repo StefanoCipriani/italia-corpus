@@ -20,9 +20,9 @@ Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https:
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Visto il [decreto legislativo Luogotenenziale 7 settembre 1945, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-07;545);
+Visto il [decreto legislativo Luogotenenziale 7 settembre 1945, n. 545](../Decreti%20legislativi%20luogotenenziali/Ordinamento%20amministrativo%20della%20Valle%20dAosta.%20045U0545.md);
 
-Visto il [decreto legislativo Luogotenenziale 7 settembre 1945, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-07;546);
+Visto il [decreto legislativo Luogotenenziale 7 settembre 1945, n. 546](../Decreti%20legislativi%20luogotenenziali/Agevolazioni%20di%20ordine%20economico%20e%20tributario%20a%20favore%20della%20Valle%20dAosta.%20045U0546.md);
 
 Vista la deliberazione del Consiglio dei Ministri.
 
@@ -44,11 +44,11 @@ Il personale della provincia di Aosta passa alle di pendenze della «Valle d'Aos
 
 ## Art. 3.
 
-Al personale della provincia di Aosta eventualmente dispensato dal servizio per soppressione e riduzione di posti di organico in applicazione del presente decreto e' esteso il trattamento stabilito dall'[art. 3 del R. decreto 27 maggio 1923, n. 1177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-27;1177#art_3),
+Al personale della provincia di Aosta eventualmente dispensato dal servizio per soppressione e riduzione di posti di organico in applicazione del presente decreto e' esteso il trattamento stabilito dall'[art. 3 del R. decreto 27 maggio 1923, n. 1177](Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md),
 
 ## Art. 4.
 
-Il presente decreto entra in vigore alla data della restituzione della provincia di Aosta all'amministrazione del Governo italiano o a quella in cui con ordinanza del Governo Militare Alleato sara' dichiarato esecutivo il [decreto legislativo Luogotenenziale 7 settembre 1945, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-07;545). 
+Il presente decreto entra in vigore alla data della restituzione della provincia di Aosta all'amministrazione del Governo italiano o a quella in cui con ordinanza del Governo Militare Alleato sara' dichiarato esecutivo il [decreto legislativo Luogotenenziale 7 settembre 1945, n. 545](../Decreti%20legislativi%20luogotenenziali/Ordinamento%20amministrativo%20della%20Valle%20dAosta.%20045U0545.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ Visto il [R. decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res
 
 Visto il decreto-legge Luogotenenziale 25 giugno n. 151;
 
-Visto il [R. decreto-legge e 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge e 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -42,7 +42,7 @@ Per sopperire a temporanee inderogabili esigenze di servizio in relazione alle a
  
  I relativi provvedimenti sono adottati con decreto del Presidente del Consiglio dei Ministri d'intesa col Ministro per le finanze, previo parere favorevole della Commissione per gli affari del personale. 
  
- Al personale riassunto in servizio verra' fatto per il periodo corrispondente il trattamento economico stabilito dal [R. decreto-legge 31 gennaio 1944, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-31;34).
+ Al personale riassunto in servizio verra' fatto per il periodo corrispondente il trattamento economico stabilito dal [R. decreto-legge 31 gennaio 1944, n. 34](Assunzione%20in%20servizio%20di%20pensionati%20dellAmministrazione%20dello%20Stato.%20044U0034.md).
 
 ## Art. 3.
 

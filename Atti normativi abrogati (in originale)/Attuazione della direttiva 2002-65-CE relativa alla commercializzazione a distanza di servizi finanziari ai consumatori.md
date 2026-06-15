@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 31 ottobre 2003, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-10-31;306), ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
+Vista la [legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202003.md), ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
 
 Vista la [direttiva 2002/65/CE del Parlamento europeo e del Consiglio, del 23 settembre 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;65), concernente la commercializzazione a distanza di servizi finanziari ai consumatori e che modifica la
 
@@ -26,7 +26,7 @@ Vista la [legge 12 agosto 1982, n. 576](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), e successive modificazioni;
 
-Visto il [decreto-legge 3 maggio 1991, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-03;143), convertito, con modificazioni, dalla [legge 5 luglio 1991, n. 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-05;197);
+Visto il [decreto-legge 3 maggio 1991, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-03;143), convertito, con modificazioni, dalla [legge 5 luglio 1991, n. 197](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201991%20n.%20143%20recante%20provvedimenti%20urgenti%20per%20limitare%20luso%20del%20contante%20e%20dei%20titoli%20al%20portatore%20nelle%20transazioni%20e%20pr_a4323969ef56.md);
 
 Visto il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
 
@@ -36,11 +36,11 @@ Visto il [decreto legislativo 17 marzo 1995, n. 175](Attuazione%20della%20dirett
 
 Visto il [decreto legislativo 4 dicembre 1996, n. 659](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%2094-19-CEE%20relativa%20ai%20sistemi%20di%20garanzia%20dei%20depositi.md);
 
-Vista la [legge 30 luglio 1998, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-07-30;281), e successive modificazioni;
+Vista la [legge 30 luglio 1998, n. 281](Disciplina%20dei%20diritti%20dei%20consumatori%20e%20degli%20utenti.md), e successive modificazioni;
 
 Visto il [decreto legislativo 9 novembre 1998, n. 427](Attuazione%20della%20direttiva%2094-47-CE%20concernente%20la%20tutela%20dellacquirente%20per%20taluni%20aspetti%20dei%20contratti%20relativi%20allacquisizione%20di%20un%20diritto%20di%20godimento%20a%20tempo%20parziale%20di%20beni%20immobili.md);
 
-Visto il testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli [articoli 8](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) e [21 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), di cui al [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58);
+Visto il testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli [articoli 8](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) e [21 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
 
 Visto il [decreto legislativo 22 maggio 1999, n. 185](Attuazione%20della%20direttiva%2097-7-CE%20relativa%20alla%20protezione%20dei%20consumatori%20in%20materia%20di%20contratti%20a%20distanza.md);
 
@@ -333,7 +333,7 @@ Il consumatore puo' effettuare il pagamento con carte di credito, debito o con a
 
 2.
 
-Fatta salva l'applicazione dell'[articolo 12 della legge 5 luglio 1991, n. 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-05;197#art_12), l'ente che emette o fornisce lo strumento di pagamento riaccredita al consumatore i pagamenti non autorizzati o dei quali questi dimostri l'eccedenza rispetto al prezzo pattuito ovvero l'effettuazione mediante l'uso fraudolento della propria carta di pagamento da parte del fornitore o di un terzo. L'ente che emette o fornisce lo strumento di pagamento ha diritto di addebitare al fornitore le somme riaccreditate al consumatore.
+Fatta salva l'applicazione dell'[articolo 12 della legge 5 luglio 1991, n. 197](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201991%20n.%20143%20recante%20provvedimenti%20urgenti%20per%20limitare%20luso%20del%20contante%20e%20dei%20titoli%20al%20portatore%20nelle%20transazioni%20e%20pr_a4323969ef56.md), l'ente che emette o fornisce lo strumento di pagamento riaccredita al consumatore i pagamenti non autorizzati o dei quali questi dimostri l'eccedenza rispetto al prezzo pattuito ovvero l'effettuazione mediante l'uso fraudolento della propria carta di pagamento da parte del fornitore o di un terzo. L'ente che emette o fornisce lo strumento di pagamento ha diritto di addebitare al fornitore le somme riaccreditate al consumatore.
 
 3.
 
@@ -411,11 +411,11 @@ Ove le parti abbiano scelto di applicare al contratto una legislazione diversa d
 
 1.
 
-Le associazioni dei consumatori iscritte all'elenco di cui all'[articolo 5 della legge 30 luglio 1998, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-07-30;281#art_5), sono legittimate a proporre alle competenti autorita' di vigilanza, nell'ambito delle rispettive attribuzioni, al fine di tutelare gli interessi collettivi dei consumatori, reclamo per l'accertamento di violazioni delle disposizioni del presente decreto.
+Le associazioni dei consumatori iscritte all'elenco di cui all'[articolo 5 della legge 30 luglio 1998, n. 281](Disciplina%20dei%20diritti%20dei%20consumatori%20e%20degli%20utenti.md), sono legittimate a proporre alle competenti autorita' di vigilanza, nell'ambito delle rispettive attribuzioni, al fine di tutelare gli interessi collettivi dei consumatori, reclamo per l'accertamento di violazioni delle disposizioni del presente decreto.
 
 2.
 
-Le associazioni dei consumatori iscritte all'elenco di cui all'[articolo 5 della legge 30 luglio 1998, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-07-30;281#art_5), sono legittimate a proporre all'autorita' giudiziaria l'azione inibitoria per far cessare le violazioni delle disposizioni del presente decreto nei confronti delle imprese o degli intermediari ai sensi dell'articolo 3 della citata [legge n. 281 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998;281).
+Le associazioni dei consumatori iscritte all'elenco di cui all'[articolo 5 della legge 30 luglio 1998, n. 281](Disciplina%20dei%20diritti%20dei%20consumatori%20e%20degli%20utenti.md), sono legittimate a proporre all'autorita' giudiziaria l'azione inibitoria per far cessare le violazioni delle disposizioni del presente decreto nei confronti delle imprese o degli intermediari ai sensi dell'articolo 3 della citata [legge n. 281 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998;281).
 
 3.
 

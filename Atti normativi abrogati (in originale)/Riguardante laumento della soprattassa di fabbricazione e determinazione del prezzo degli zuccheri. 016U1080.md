@@ -36,7 +36,7 @@ Entro dieci giorni da quello dell'applicazione del presente decreto tutti i Comu
 
 ## Art. 6.
 
-Lo stanziamento del capitolo 62 del bilancio della spesa del Ministero d'agricoltura per l'esercizio 1916-1917 e' aumentato di L. 20.000 a vantaggio del funzionamento della Stazione sperimentale di bieticoltura, istituita in Rovigo, secondo l'[art. 4 della legge 17 luglio 1910, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;547#art_4), portante modificazioni alla imposta sulla fabbricazione dello zucchero.
+Lo stanziamento del capitolo 62 del bilancio della spesa del Ministero d'agricoltura per l'esercizio 1916-1917 e' aumentato di L. 20.000 a vantaggio del funzionamento della Stazione sperimentale di bieticoltura, istituita in Rovigo, secondo l'[art. 4 della legge 17 luglio 1910, n. 547](Provvedimento%20riguardante%20modificazioni%20alla%20imposta%20sulla%20fabbricazione%20dello%20zucchero%20indigeno.%20010U0547.md), portante modificazioni alla imposta sulla fabbricazione dello zucchero.
 
 ## Art. 7.
 

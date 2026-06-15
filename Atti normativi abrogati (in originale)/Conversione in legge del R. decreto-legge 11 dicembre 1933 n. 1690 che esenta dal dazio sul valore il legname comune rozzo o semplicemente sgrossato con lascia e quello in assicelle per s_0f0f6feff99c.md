@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 dicembre 1933, n. 1690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-11;1690), che esenta dal dazio sul valore il legname comune rozzo o semplicemente sgrossato con l'ascia e quello in assicelle per scatole, stacci e simili. 
+ E' convertito in legge il [R. decreto-legge 11 dicembre 1933, n. 1690](Esenzione%20dal%20dazio%20del%2015%20sul%20valore%20del%20legname%20comune%20rozzo%20o%20semplicemente%20sgrossato%20con%20lascia%20e%20di%20quello%20in%20assicelle%20per%20scatole%20stacci%20e%20simili.%20033U1690.md), che esenta dal dazio sul valore il legname comune rozzo o semplicemente sgrossato con l'ascia e quello in assicelle per scatole, stacci e simili. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

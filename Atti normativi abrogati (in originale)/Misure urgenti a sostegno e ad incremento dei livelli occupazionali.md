@@ -86,7 +86,7 @@ I progetti formativi di cui al precedente comma 2 devono essere predisposti in c
 
 4.
 
-Per i lavoratori assunti ai sensi dei commi precedenti si applicano le norme in materia di contributi per le assicurazioni sociali di cui alla [legge 19 gennaio 1955, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-01-19;25), e successive modificazioni.
+Per i lavoratori assunti ai sensi dei commi precedenti si applicano le norme in materia di contributi per le assicurazioni sociali di cui alla [legge 19 gennaio 1955, n. 25](Disciplina%20dellapprendistato.md), e successive modificazioni.
 
 5.
 
@@ -158,11 +158,11 @@ Gli assegni familiari spettano ai lavoratori a tempo parziale per l'intera misur
 
 7.
 
-Qualora non si possa individuare l'attivita' principale per gli effetti dell'articolo 20 del testo unico delle norme sugli assegni familiari approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-05-30;797), e successive modificazioni ed integrazioni, gli assegni familiari sono corrisposti direttamente dall'Istituto nazionale della previdenza sociale.
+Qualora non si possa individuare l'attivita' principale per gli effetti dell'articolo 20 del testo unico delle norme sugli assegni familiari approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni ed integrazioni, gli assegni familiari sono corrisposti direttamente dall'Istituto nazionale della previdenza sociale.
 
 8.
 
-Il secondo comma dell'articolo 26, del testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-05-30;797) e' sostituito dal seguente:
+Il secondo comma dell'articolo 26, del testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md) e' sostituito dal seguente:
  "Il contributo non e' dovuto per i lavoratori cui non spettano gli assegni a norma dell'art. 2".
 
 9.
@@ -179,7 +179,7 @@ Nel caso di trasformazione del rapporto di lavoro a tempo pieno in rapporto di l
 
 12.
 
-Ai fini della qualificazione dell'azienda, dell'accesso a benefici di carattere finanziario e creditizio previsti dalle leggi nonche' della [legge 2 aprile 1968, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482), i lavoratori a tempo parziale sono computati nel numero complessivo dei dipendenti, in proporzione all'orario svolto riferito alle ore lavorative ordinarie effettuate nell'azienda con arrotondamento all'unita' della frazione di orario superiore alla meta' di quello normale.
+Ai fini della qualificazione dell'azienda, dell'accesso a benefici di carattere finanziario e creditizio previsti dalle leggi nonche' della [legge 2 aprile 1968, n. 482](Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md), i lavoratori a tempo parziale sono computati nel numero complessivo dei dipendenti, in proporzione all'orario svolto riferito alle ore lavorative ordinarie effettuate nell'azienda con arrotondamento all'unita' della frazione di orario superiore alla meta' di quello normale.
 
 13.
 

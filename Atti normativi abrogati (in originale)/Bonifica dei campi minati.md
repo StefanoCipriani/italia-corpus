@@ -56,7 +56,7 @@ Il Ministero della guerra provvede allo sminamento anche dei terreni e delle ope
 ## Art. 6.
 
 Nel caso di bonifica dei terreni indicati nell'articolo precedente sara' imposto ai proprietari un contributo in misura non inferiore alla meta' della spesa e non superiore ai due terzi.
- L'onere a carico del proprietario non potra', in ogni caso, superare il 30% dell'estimo catastale aumentato ai sensi del [decreto legislativo Luogotenenziale 7 febbraio 1946, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-07;30), capitalizzato al saggio del 5%.
+ L'onere a carico del proprietario non potra', in ogni caso, superare il 30% dell'estimo catastale aumentato ai sensi del [decreto legislativo Luogotenenziale 7 febbraio 1946, n. 30](../Decreti%20legislativi%20luogotenenziali/Rivalutazione%20degli%20estimi%20catastali%20dei%20terreni%20e%20del%20reddito%20agrario.md), capitalizzato al saggio del 5%.
  I contributi a carico dei proprietari sono riscossi con le misure ed i privilegi stabiliti per l'imposta fondiaria, prendendo grado immediatamente dopo tale imposta, le relative sovraimposte provinciali e comunali ed i contributi di bonifica.
 
 ## Art. 7.
@@ -92,7 +92,7 @@ In caso di infortunio occorso durante i lavori di bonifica dei campi minati, son
  2) in caso di infortunio che importi inabilita' lavorativa permanente e totale una indennita' di lire centoventicinquemila;
  3) in caso di infortunio da cui derivi una incapacita' permanente parziale superiore al 10 per cento una indennita' proporzionata a quella prevista al numero precedente.
  Per la determinazione degli aventi diritto nel caso del n. 1 e per il calcolo delle indennita' nel caso del n. 3, saranno applicati i criteri della legge sull'assicurazione obbligatoria degli infortuni.
- E' fatta salva la facolta' degli interessati di optare per la pensione privilegiata di guerra ai sensi dell'[art. 2 della legge 18 agosto 1940, n. 1196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-08-18;1196#art_2).
+ E' fatta salva la facolta' degli interessati di optare per la pensione privilegiata di guerra ai sensi dell'[art. 2 della legge 18 agosto 1940, n. 1196](Modificazioni%20ed%20aggiunte%20alle%20vigenti%20norme%20in%20materie%20di%20pensioni%20di%20guerra%20agli%20infortunati%20civili.%20040U1196.md).
  Le indennita' stabilite dal presente articolo sono a carico dello stato anche nel caso in cui i lavori siano stati dati in appalto, purche', pero', si tratti di personali assunti in osservanza del disposto dell'ultimo comma dell'art. 8. E' fatta salva la rivalsa verso gli eventuali responsabili degli infortuni.
  Le ditte appaltatrici non sono tenute all'assicurazione obbligatoria per gli infortuni sul lavoro menzionati nel primo comma.
 

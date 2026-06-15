@@ -108,7 +108,7 @@ La presente legge entrera' in vigore due mesi dopo la pubblicazione delle tabell
 
 6.
 
-Con l'entrata in vigore della presente legge, restano abrogate, per le aziende indicate nell'art. 1, le disposizioni del [R. decreto-legge 15 marzo 1923, n. 692, e dell'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-15;692#art_1) del [R. decreto-legge 30 giugno 1926, n. 1096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-06-30;1096), nonche' dei relativi regolamenti. 
+Con l'entrata in vigore della presente legge, restano abrogate, per le aziende indicate nell'art. 1, le disposizioni del [R. decreto-legge 15 marzo 1923, n. 692, e dell'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-15;692#art_1) del [R. decreto-legge 30 giugno 1926, n. 1096](Provvedimenti%20circa%20la%20disciplina%20di%20taluni%20consumi.%20026U1096.md), nonche' dei relativi regolamenti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

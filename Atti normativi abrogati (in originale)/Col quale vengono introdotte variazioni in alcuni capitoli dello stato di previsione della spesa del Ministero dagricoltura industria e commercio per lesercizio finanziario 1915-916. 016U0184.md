@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Ritenuta la necessita' di aumentare di L. 55.000 complessivamente gli stanziamenti dei capitoli nn. 73, 148 e 149 dello stato di previsione della spesa del Ministero di agricoltura, industria e commercio per l'esercizio in corso concernenti spese per provvedimenti a favore della produzione e dell'industria serica di cui alla [legge 6 luglio 1912, n. 869](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;869);
+Ritenuta la necessita' di aumentare di L. 55.000 complessivamente gli stanziamenti dei capitoli nn. 73, 148 e 149 dello stato di previsione della spesa del Ministero di agricoltura, industria e commercio per l'esercizio in corso concernenti spese per provvedimenti a favore della produzione e dell'industria serica di cui alla [legge 6 luglio 1912, n. 869](Per%20provvedimenti%20sulla%20produzione%20e%20la%20industria%20serica.%20012U0869.md);
 
 Considerato che alla detta maggiore spesa puo' farsi fronte con trasporto di fondi per corrispondente importo dal capitolo n. 41 dello stato di previsione predetto riguardante pure spese della indicata natura;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Udito il Consiglio dei ministri;
 
@@ -38,11 +38,11 @@ Lo stanziamento dei seguenti capitoli dello stato di previsione della spesa del 
  
  Cap. n. 148. «Istituzione e funzionamento del servizio di informazioni e di statistica nazionale ed internazionale sulle condizioni della produzione serica, ecc.», lire quindicimila (L. 15.000). 
  
- Cap. n. 149. «Spese per l'applicazione dell'[art. 2 della legge 6 luglio 1912, n. 869](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;869#art_2), contenente provvedimenti a favore della produzione e dell'industria serica», lire trentottomila (L. 38.000).
+ Cap. n. 149. «Spese per l'applicazione dell'[art. 2 della legge 6 luglio 1912, n. 869](Per%20provvedimenti%20sulla%20produzione%20e%20la%20industria%20serica.%20012U0869.md), contenente provvedimenti a favore della produzione e dell'industria serica», lire trentottomila (L. 38.000).
 
 ## Art. 2.
 
-Lo stanziamento del capitolo n. 41. «Attuazione dei provvedimenti per l'industria serica indicati nell'[art. 4 della legge 6 luglio 1912, n. 869](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;869#art_4)» dello stato di previsione predetto e' diminuito della somma di lire cinquantacinquemila (L. 55.000). 
+Lo stanziamento del capitolo n. 41. «Attuazione dei provvedimenti per l'industria serica indicati nell'[art. 4 della legge 6 luglio 1912, n. 869](Per%20provvedimenti%20sulla%20produzione%20e%20la%20industria%20serica.%20012U0869.md)» dello stato di previsione predetto e' diminuito della somma di lire cinquantacinquemila (L. 55.000). 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

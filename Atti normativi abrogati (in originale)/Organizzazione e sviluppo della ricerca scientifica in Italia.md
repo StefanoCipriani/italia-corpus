@@ -62,7 +62,7 @@ Per l'espletamento dei propri compiti il Consiglio nazionale delle ricerche, sen
 
 ## Art. 7.
 
-L'[articolo 1 del decreto legislativo 7 maggio 1948, n. 1167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1167#art_1), e' abrogato.
+L'[articolo 1 del decreto legislativo 7 maggio 1948, n. 1167](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%201%20marzo%201945%20n.%2082%20relativo%20al%20riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.md), e' abrogato.
 
 ## Art. 8.
 

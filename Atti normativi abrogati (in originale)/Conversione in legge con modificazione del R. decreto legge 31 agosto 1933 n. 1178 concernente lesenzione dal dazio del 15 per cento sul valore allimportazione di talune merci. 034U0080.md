@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 31 agosto 1933, n. 1178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-08-31;1178), concernente l'esenzione dal dazio del 15 per cento sul valore all'importazione di talune merci, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto legge 31 agosto 1933, n. 1178](Esenzione%20dal%20dazio%20del%2015%20per%20cento%20allimportazione%20di%20talune%20merci.%20033U1178.md), concernente l'esenzione dal dazio del 15 per cento sul valore all'importazione di talune merci, con la seguente modificazione: 
  
  Nella tabella recata dall'articolo 1, alle parole « Ancie per armoniche » sostituire « Ancie per armoniums». 
  

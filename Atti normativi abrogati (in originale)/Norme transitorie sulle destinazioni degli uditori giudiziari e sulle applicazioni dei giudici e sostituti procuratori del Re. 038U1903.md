@@ -38,7 +38,7 @@ Per un triennio dal giorno dell'entrata in vigore del presente decreto gli udito
 
 ## Art. 2.
 
-Entro lo stesso periodo di tempo di cui all'articolo precedente, qualora il provvedimento sia richiesto da eccezionali esigenze di servizio, potranno essere applicati temporaneamente, con decreto Reale, ai tribunali e alle procure del Re, ove siano posti vacanti che non sia possibile di coprire altrimenti, giudici e sostituti procuratori del Re di altri uffici giudiziari del Regno senza le limitazioni previste dagli [articoli 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2786#art_38) e [149 del R. decreto 30 dicembre 1923, n. 2786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2786#art_149).
+Entro lo stesso periodo di tempo di cui all'articolo precedente, qualora il provvedimento sia richiesto da eccezionali esigenze di servizio, potranno essere applicati temporaneamente, con decreto Reale, ai tribunali e alle procure del Re, ove siano posti vacanti che non sia possibile di coprire altrimenti, giudici e sostituti procuratori del Re di altri uffici giudiziari del Regno senza le limitazioni previste dagli [articoli 38](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md) e [149 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md).
 
 ## Art. 3.
 

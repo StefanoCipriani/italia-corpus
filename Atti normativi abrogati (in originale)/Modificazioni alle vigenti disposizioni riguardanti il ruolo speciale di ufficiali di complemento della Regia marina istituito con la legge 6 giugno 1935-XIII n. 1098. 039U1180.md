@@ -74,7 +74,7 @@ La lettera a) dell'art. 5 della legge 6 giugno 1935-XIII n. 1098, e' cosi modifi
 
 ## Art. 6.
 
-All'art. 96 del testo unico delle disposizioni legislative sull'avanzamento degli ufficiali della Regia marina, approvato con [Regio decreto 1° agosto 1936, n. 1493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-08-01;1493), che ha sostituito gli articoli 4 ed 8 della legge 6 giugno 1935-XIII, numero 1098, sono apportate le seguenti varianti: 
+All'art. 96 del testo unico delle disposizioni legislative sull'avanzamento degli ufficiali della Regia marina, approvato con [Regio decreto 1° agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), che ha sostituito gli articoli 4 ed 8 della legge 6 giugno 1935-XIII, numero 1098, sono apportate le seguenti varianti: 
  
  1) nel 2° comma dopo le partile: «ed a scelta assoluta», sono aggiunte le seguenti: «per i tenenti di vascello e capitani per la direzione delle macchine, nonche'»; 
  

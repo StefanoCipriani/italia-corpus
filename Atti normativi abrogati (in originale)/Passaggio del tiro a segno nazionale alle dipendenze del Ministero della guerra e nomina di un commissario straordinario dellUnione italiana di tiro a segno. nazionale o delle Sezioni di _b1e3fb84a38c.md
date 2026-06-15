@@ -16,21 +16,21 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 17 aprile 1930, n. 479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-04-17;479), sul tiro a segno nazionale;
+Vista la [legge 17 aprile 1930, n. 479](Riforma%20della%20legge%20sul%20tiro%20a%20segno%20nazionale.%20030U0479.md), sul tiro a segno nazionale;
 
-Vista la [legge 4 giugno 1934, n. 950](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-04;950), che apporta modificazioni ed aggiunte alla legge 17 aprile 1930, 479;
+Vista la [legge 4 giugno 1934, n. 950](Modificazioni%20ed%20aggiunte%20alla%20legge%2017%20aprile%201930%20n.%20479%20sul%20tiro%20a%20segno%20nazionale.%20034U0950.md), che apporta modificazioni ed aggiunte alla legge 17 aprile 1930, 479;
 
-Visto il [R. decreto 21 novembre 1932, n. 2051](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-11-21;2051), che approva il regolamento per la esecuzione dalla leggo sul tiro a segno nazionale;
+Visto il [R. decreto 21 novembre 1932, n. 2051](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2017%20aprile%201930%20n.%20479%20sulla%20riforma%20del%20tiro%20a%20segno%20nazionale.%20032U2051.md), che approva il regolamento per la esecuzione dalla leggo sul tiro a segno nazionale;
 
-Visto il [R. decreto-legge 16 dicembre 1935, n. 2430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-16;2430), convertito, con modificazioni, nella [legge 4 giugno 1936, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-04;1143), recante modifiche alle norme sul tiro a segno nazionale;
+Visto il [R. decreto-legge 16 dicembre 1935, n. 2430](Modificazioni%20alle%20vigenti%20norme%20sul%20Tiro%20a%20segno%20nazionale.%20035U2430.md), convertito, con modificazioni, nella [legge 4 giugno 1936, n. 1143](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2016%20dicembre%201935-XIV%20n.%202430%20che%20apporta%20modificazioni%20alle%20vigenti%20norme%20sul%20tiro%20a%20segno%20nazionale.%20036U1143.md), recante modifiche alle norme sul tiro a segno nazionale;
 
 Visto il R. decreto-leggo 6 dicembre 1943, n. 16/B;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

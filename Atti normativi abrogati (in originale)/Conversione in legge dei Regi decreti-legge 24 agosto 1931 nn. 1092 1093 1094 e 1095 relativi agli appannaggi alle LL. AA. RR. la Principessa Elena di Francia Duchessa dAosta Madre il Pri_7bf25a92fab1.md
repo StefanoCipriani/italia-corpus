@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  Articolo unico. 
  
  Sono convertiti in legge i seguenti [Regi decreti-legge: 
- 24 agosto 1931, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-08-24;1092), concernente l'appannaggio di annue L. 400.000 in favore di S. A. R. la Principessa Elena di Francia, Duchessa d'Aosta Madre; 
+ 24 agosto 1931, n. 1092](Appannaggio%20di%20annue%20L.%20400.000%20in%20favore%20di%20S.%20A.%20R.%20la%20Principessa%20Elena%20di%20Francia%20Duchessa%20dAosta%20Madre.%20031U1092.md), concernente l'appannaggio di annue L. 400.000 in favore di S. A. R. la Principessa Elena di Francia, Duchessa d'Aosta Madre; 
  24 agosto 1931, n. 1093, concernente l'appannaggio di annue L. 150.000 in favore di S. A. R. il Principe Aimone Roberto di Savoia-Aosta, Duca di Spoleto; 
  24 agosto 1931, n. 1094, concernente l'appannaggio di annue L. 100.000 in favore di S. A. R. il Principe Vittorio Emanuele di Savoia-Aosta, Conte di Torino; 
  24 agosto 1931, n. 1095. concernente l'appannaggio di annue L. 100.000 in favore di S. A. R. il Principe Luigi Amedeo di Savoia-Aosta, Duca degli Abruzzi; 

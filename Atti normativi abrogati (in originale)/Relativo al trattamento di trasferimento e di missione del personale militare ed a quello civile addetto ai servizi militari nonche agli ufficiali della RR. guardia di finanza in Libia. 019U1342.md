@@ -34,7 +34,7 @@ Con decreto del ministro delle colonie, su proposta dei governatori della Tripol
 
 Le disposizioni di cui all'art. 7 ed al comma c) dell'[art. 18 del decreto Luogotenenziale 14 settembre 1918, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1311#art_18) non sono applicabili in Libia. 
  
- Al personale civile di ruolo dell'Amministrazione della guerra, inviato in missione in Libia, spetta trattamento analogo a quello dovuto per lo stesso titolo agli ufficiali in base all'[art. 13 del R. decreto 1° ottobre 1914, n. 1171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-10-01;1171#art_13).
+ Al personale civile di ruolo dell'Amministrazione della guerra, inviato in missione in Libia, spetta trattamento analogo a quello dovuto per lo stesso titolo agli ufficiali in base all'[art. 13 del R. decreto 1° ottobre 1914, n. 1171](Col%20quale%20viene%20stabilito%20il%20trattamento%20pel%20personale%20militare%20che%20si%20trova%20in%20Tripolitania%20passato%20sul%20piede%20di%20pace.%20014U1171.md).
 
 ## Art. 6.
 

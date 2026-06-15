@@ -53,7 +53,7 @@ Agli effetti della presente tassa, sono equiparati agli esercenti temporanei di 
 Sono esenti da tale tassa: 
  
  1° gli esercizi per il piccolo commercio di dolciumi, di libri e pubblicazioni riferentisi alla istruzione ad alla igiene in genere;  
- 2° i negozi di stralcio che dipendono da liquidazioni aperte da commercianti stabili purche' esercitati dagli stessi o da liquidatori debitamente riconosciuti e quando da tre mesi risultino iscritti al registro denuncie ditte previsto dall'[art. 60 della legge 20 marzo 1910, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-20;121#art_60); 
+ 2° i negozi di stralcio che dipendono da liquidazioni aperte da commercianti stabili purche' esercitati dagli stessi o da liquidatori debitamente riconosciuti e quando da tre mesi risultino iscritti al registro denuncie ditte previsto dall'[art. 60 della legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md); 
  
  3° i negozi che puro intitolandosi «bazar» sono gia' iscritti in ruolo di tassa camerale; 
  

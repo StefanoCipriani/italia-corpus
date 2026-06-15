@@ -22,7 +22,7 @@ Per ottenere il passaggio nella categoria elettromeccanici di bordo, i militari 
 
 I posti da mettere a concorso dovranno essere contenuti nei limiti degli organici in vigore, per il ruolo specialisti della Regia aeronautica. 
  
- Ai sensi, pertanto, di 'quanto disposto dall'[art. 7 del R. decreto-legge 3 febbraio 1938, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744#art_7), il Ministro per l'aeronautica provvedera' ad una nuova ripartizione dei posti complessivamente stabiliti per le categorie di cui all'art. 1, comprendendovi quelli che, in relazione alle esigenze di servizio, saranno devoluti alla categoria elettromeccanici di bordo.
+ Ai sensi, pertanto, di 'quanto disposto dall'[art. 7 del R. decreto-legge 3 febbraio 1938, n. 744](Norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20stato%20dei%20sottufficiali%20della%20Regia%20aeronautica.%20038U0744.md), il Ministro per l'aeronautica provvedera' ad una nuova ripartizione dei posti complessivamente stabiliti per le categorie di cui all'art. 1, comprendendovi quelli che, in relazione alle esigenze di servizio, saranno devoluti alla categoria elettromeccanici di bordo.
 
 ## Art. 4.
 

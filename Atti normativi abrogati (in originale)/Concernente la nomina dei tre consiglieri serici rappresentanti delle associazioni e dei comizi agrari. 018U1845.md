@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a noi delegata; 
  
- In forza dei poteri conferiti al Governo del Re dalla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In forza dei poteri conferiti al Governo del Re dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Vista la [legge 6 luglio 1912, n. 869](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;869), concernente provvedimenti per la produzione e l'industria serica, e visto il [regolamento 19 dicembre 1912, n. 1424](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1912-12-19;1424), per la sua esecuzione; 
+ Vista la [legge 6 luglio 1912, n. 869](Per%20provvedimenti%20sulla%20produzione%20e%20la%20industria%20serica.%20012U0869.md), concernente provvedimenti per la produzione e l'industria serica, e visto il [regolamento 19 dicembre 1912, n. 1424](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1912-12-19;1424), per la sua esecuzione; 
  
  Considerato che il Consiglio per gli interessi serici non conta fra i suoi componenti attuali alcun rappresentante di associazioni agrarie e comizi agrari, per morte o dimissioni dei tre consiglieri che erano stati eletti; 
  

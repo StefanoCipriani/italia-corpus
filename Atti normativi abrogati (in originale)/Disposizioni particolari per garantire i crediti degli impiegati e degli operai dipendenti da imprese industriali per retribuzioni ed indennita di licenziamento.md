@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -35,7 +35,7 @@ Quando sia intervenuta l'autorizzazione prevista nell'articolo precedente, la Ca
 ## Art. 4.
 
 La Cassa per l'integrazione dei guadagni degli operai dell'industria e' surrogata in tutti i diritti, compresi quelli di prelazione, ai prestatori di lavoro verso l'imprenditore.
- Il Fondo indennita' impiegati e' tenuto a versare alla Cassa suddetta le somme dovute ai sensi del [comma 2 dell'art. 10 del regio decreto-legge 8 gennaio 1942, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-01-08;5#art_10-com2).
+ Il Fondo indennita' impiegati e' tenuto a versare alla Cassa suddetta le somme dovute ai sensi del [comma 2 dell'art. 10 del regio decreto-legge 8 gennaio 1942, n. 5](Costituzione%20di%20una%20gestione%20speciale%20degli%20accantonamenti%20dei%20fondi%20per%20le%20indennita%20dovute%20dai%20datori%20di%20lavoro%20ai%20propri%20impiegati%20in%20caso%20di%20risoluzione%20del%20rapporto%20dimpiego.%20042U0005.md).
  Analogo obbligo compete agli enti assuntori di contratti di assicurazioni e di capitalizzazioni previsti dal regio decreto-legge predetto.
 
 ## Art. 5.

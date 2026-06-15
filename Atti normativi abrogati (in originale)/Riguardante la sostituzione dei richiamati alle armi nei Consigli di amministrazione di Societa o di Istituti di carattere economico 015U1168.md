@@ -22,7 +22,7 @@ Quando per effetto di richiamo sotto le armi il numero dei componenti il Consigl
 
 ## Art. 3.
 
-Nel caso che per effetto di richiamo sotto le armi il numero dei componenti le Commissioni amministratrici dei Monti frumentari e nummari della Sardegna, dei Monti frumentari e delle Casse agrarie della Basilicata e della Sicilia, regolati dalla [legge 31 marzo 1904, n. 140 e 29 marzo 1906, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-03-29;100), e delle Casse agrarie delle Marche e dell'Umbria sia ridotto a meno di tre, il prefetto della Provincia provvedera' a conferire all'unico membro o ad uno dei due membri rimasti l'incarico di reggere l'amministrazione dell'ente fino a che duri l'impedimento degli altri membri per ragioni di servizio militare. 
+Nel caso che per effetto di richiamo sotto le armi il numero dei componenti le Commissioni amministratrici dei Monti frumentari e nummari della Sardegna, dei Monti frumentari e delle Casse agrarie della Basilicata e della Sicilia, regolati dalla [legge 31 marzo 1904, n. 140 e 29 marzo 1906, n. 100](Che%20istituisce%20presso%20il%20Banco%20di%20Sicilia%20una%20sezione%20per%20lesercizio%20del%20credito%20agrario.%20006U0100.md), e delle Casse agrarie delle Marche e dell'Umbria sia ridotto a meno di tre, il prefetto della Provincia provvedera' a conferire all'unico membro o ad uno dei due membri rimasti l'incarico di reggere l'amministrazione dell'ente fino a che duri l'impedimento degli altri membri per ragioni di servizio militare. 
  
  Il membro della Commissione incaricato di reggere l'amministrazione non acquista diritto ad indennita'. 
  

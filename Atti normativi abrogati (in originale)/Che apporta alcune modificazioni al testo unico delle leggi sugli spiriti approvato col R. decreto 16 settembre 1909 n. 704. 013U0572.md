@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nel testo unico delle leggi sugli spiriti, approvato con [R. decreto del 16 settembre 1909, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-09-16;704), sono introdotte le modificazioni contenute nell'annessa tabella A, che forma parte integrante della presente legge.
+Nel testo unico delle leggi sugli spiriti, approvato con [R. decreto del 16 settembre 1909, n. 704](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sugli%20spiriti.%20009U0704.md), sono introdotte le modificazioni contenute nell'annessa tabella A, che forma parte integrante della presente legge.
 
 ## Art. 2.
 

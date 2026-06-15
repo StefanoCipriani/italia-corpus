@@ -26,7 +26,7 @@ Sulla proposta del Nostro ministro segretario di Stato per l'industria e il comm
 
 ## Articolo unico.
 
-A deroga delle disposizioni nello statuto organico dell'Istituto cooperativo per le case degli impiegati dello Stato in Roma, approvato con [R. decreto 5 luglio 1908, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-07-05;315), e nel regolamento 16 ottobre 1912 per l'assegnazione degli appartamenti, munito del visto di approvazione del Ministro di agricoltura e industria e commercio, il Consiglio di amministrazione del predetto Istituto e' autorizzato ad assegnare appartamenti ai mutilati di guerra, soci dello stesso Istituto in data anteriore al 30 giugno 1922 sprovvisti di alloggio. 
+A deroga delle disposizioni nello statuto organico dell'Istituto cooperativo per le case degli impiegati dello Stato in Roma, approvato con [R. decreto 5 luglio 1908, n. 315](Che%20approva%20lo%20statuto%20dellIstituto%20cooperativo%20per%20le%20case%20degli%20impiegati%20dello%20Stato%20in%20Roma.%200800315R.md), e nel regolamento 16 ottobre 1912 per l'assegnazione degli appartamenti, munito del visto di approvazione del Ministro di agricoltura e industria e commercio, il Consiglio di amministrazione del predetto Istituto e' autorizzato ad assegnare appartamenti ai mutilati di guerra, soci dello stesso Istituto in data anteriore al 30 giugno 1922 sprovvisti di alloggio. 
  
  L'assegnazione sara' fatta in ragione di uno su venti appartamenti, che si renderanno disponibili per sfitti o nuove costruzioni, tenendo conto fra gli stessi mutilati della loro anzianita' d'iscrizione a socio, del fatto di avere a carico la propria famiglia o congiunti. 
  

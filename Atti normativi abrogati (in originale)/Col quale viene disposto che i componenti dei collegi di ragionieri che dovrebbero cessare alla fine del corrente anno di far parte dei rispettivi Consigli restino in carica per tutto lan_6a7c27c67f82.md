@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I componenti dei Consigli dei collegi di ragionieri, che a norma dell'art. 27 del regolamento approvato con [R. decreto 9 dicembre 1906, n. 715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-12-09;715), per l'esecuzione della [legge 15 luglio 1906, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;327), cesserebbero alla fine del corrente anno di far parte dei rispettivi Consigli, restano in carica per tutto l'anno 1916.
+I componenti dei Consigli dei collegi di ragionieri, che a norma dell'art. 27 del regolamento approvato con [R. decreto 9 dicembre 1906, n. 715](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%2015%20luglio%201906%20n.%20327%20sullesercizio%20della%20professione%20di%20ragioniere.%20006U0715.md), per l'esecuzione della [legge 15 luglio 1906, n. 327](Sullesercizio%20della%20professione%20di%20ragioniere.%20006U0327.md), cesserebbero alla fine del corrente anno di far parte dei rispettivi Consigli, restano in carica per tutto l'anno 1916.
 
 ## Art. 2.
 

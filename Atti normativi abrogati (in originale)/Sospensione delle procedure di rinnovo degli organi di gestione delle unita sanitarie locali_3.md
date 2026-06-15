@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142), recante ordinamento delle autonomie locali;
+Vista la [legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md), recante ordinamento delle autonomie locali;
 
 Ritenuta la straordinaria necessita' ed urgenza di sospendere le procedure di rinnovo degli organi di gestione delle unita' sanitarie locali, tenuto conto che e' in fase di avanzato esame da parte del Parlamento il disegno di legge per il riordinamento del Servizio sanitario nazionale;
 
@@ -42,7 +42,7 @@ Nei casi di impossibilita' di funzionamento dei comitati di gestione e nei casi 
 
 5.
 
-La verifica della situazione di grave disavanzo e' effettuata sulla base di apposite relazioni sulla gestione del bilancio redatte a cura del collegio dei revisori, a richiesta del presidente della giunta regionale, o degli uffici ispettivi di cui all'[articolo 13 della legge 26 aprile 1982, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-26;181#art_13).
+La verifica della situazione di grave disavanzo e' effettuata sulla base di apposite relazioni sulla gestione del bilancio redatte a cura del collegio dei revisori, a richiesta del presidente della giunta regionale, o degli uffici ispettivi di cui all'[articolo 13 della legge 26 aprile 1982, n. 181](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201982.md).
 
 6.
 

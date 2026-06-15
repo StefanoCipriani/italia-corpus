@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-Ai Comuni, che con l'autorizzazione del Ministro per l'educazione nazionale, abbiano gia' proceduto, in applicazione dell'[art. 4 del R. decreto 25 giugno 1931, n. 945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-25;945#art_4), all'estensione delle graduatorie dei concorsi magistrali banditi anteriormente all'entrata in vigore del [R. decreto 31 dicembre 1931, n. 1804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-12-31;1804), e' data facolta' di estendere ulteriormente le graduatorie medesime nei confronti dei candidati che abbiano conseguito la idoneita' con la votazione complessiva di 78/150.
+Ai Comuni, che con l'autorizzazione del Ministro per l'educazione nazionale, abbiano gia' proceduto, in applicazione dell'[art. 4 del R. decreto 25 giugno 1931, n. 945](Disposizioni%20in%20materia%20distruzione%20elementare.%20031U0945.md), all'estensione delle graduatorie dei concorsi magistrali banditi anteriormente all'entrata in vigore del [R. decreto 31 dicembre 1931, n. 1804](Norme%20per%20la%20corresponsione%20del%20trattamento%20economico%20al%20personale%20direttivo%20ed%20insegnante%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi%20in%20dipendenza%20del%20testo%20unico%20per%20la%20finanza%20locale.%20031U1804.md), e' data facolta' di estendere ulteriormente le graduatorie medesime nei confronti dei candidati che abbiano conseguito la idoneita' con la votazione complessiva di 78/150.
 
 ## Art. 2.
 

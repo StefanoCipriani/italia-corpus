@@ -317,7 +317,7 @@ Indipendentemente dall'applicazione delle pene pecuniarie stabilite per le contr
 
 ## Art. 18.
 
-Per le contravvenzioni riguardanti la tassa di bollo stabilita con gli articoli 1, 6, 7, 9 e 11 del presente decreto sono applicabili le disposizioni a cui all'art. 63 del testo unico delle leggi d' imposta sui redditi per la ricchezza mobile, approvato con [Regio decreto 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021), serie 2ª, concernenti la responsabilita' solidale del cessionario o successore.
+Per le contravvenzioni riguardanti la tassa di bollo stabilita con gli articoli 1, 6, 7, 9 e 11 del presente decreto sono applicabili le disposizioni a cui all'art. 63 del testo unico delle leggi d' imposta sui redditi per la ricchezza mobile, approvato con [Regio decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), serie 2ª, concernenti la responsabilita' solidale del cessionario o successore.
 
 ## Art. 19.
 

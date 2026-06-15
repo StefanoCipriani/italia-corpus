@@ -34,7 +34,7 @@ Quando sia intervenuta l'autorizzazione prevista nell'articolo precedente, la Ca
 ## Art. 4.
 
 La Cassa per l'integrazione dei guadagni degli operai dell'industria e' surrogata in tutti i diritti, compresi quelli di prelazione, ai prestatori di lavoro verso l'imprenditore.
- Il fondo indennita' impiegati e' tenuto a versare alla Cassa suddetta le somme dovute ai sensi del [secondo comma dell'art. 10 del regio decreto-legge 8 gennaio 1942, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-01-08;5#art_10-com2).
+ Il fondo indennita' impiegati e' tenuto a versare alla Cassa suddetta le somme dovute ai sensi del [secondo comma dell'art. 10 del regio decreto-legge 8 gennaio 1942, n. 5](Costituzione%20di%20una%20gestione%20speciale%20degli%20accantonamenti%20dei%20fondi%20per%20le%20indennita%20dovute%20dai%20datori%20di%20lavoro%20ai%20propri%20impiegati%20in%20caso%20di%20risoluzione%20del%20rapporto%20dimpiego.%20042U0005.md).
  Analogo obbligo compete agli enti assuntori di contratti di assicurazione e di capitalizzazione previsti dal regio decreto-legge predetto.
 
 ## Art. 5.

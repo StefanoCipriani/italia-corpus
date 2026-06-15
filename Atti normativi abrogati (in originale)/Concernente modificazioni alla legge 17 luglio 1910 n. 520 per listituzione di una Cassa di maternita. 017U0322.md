@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 17 luglio 1910, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;520), per la istituzione di una Cassa di maternita';
+Vista la [legge 17 luglio 1910, n. 520](Per%20la%20istituzione%20di%20una%20Cassa%20di%20maternita.%20010U0520.md), per la istituzione di una Cassa di maternita';
 
 Ritenuta la necessita' di arrecare modificazioni alla legge predetta;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per l'industria, il commercio e 
 
 ## Art. 1.
 
-L'[art. 2 della legge 17 luglio 1910, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;520#art_2), per la istituzione di una Cassa di maternita', e' cosi modificato: 
+L'[art. 2 della legge 17 luglio 1910, n. 520](Per%20la%20istituzione%20di%20una%20Cassa%20di%20maternita.%20010U0520.md), per la istituzione di una Cassa di maternita', e' cosi modificato: 
  
  «Art. 2. - Le entrate della Cassa di maternita' sono costituite: 
  
@@ -48,9 +48,9 @@ L'[art. 2 della legge 17 luglio 1910, n. 520](https://www.normattiva.it/uri-res/
 
 ## Art. 2.
 
-La prima parte dell'[art. 3 della legge 17 luglio 1910, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;520#art_3), e' cosi' modificata: 
+La prima parte dell'[art. 3 della legge 17 luglio 1910, n. 520](Per%20la%20istituzione%20di%20una%20Cassa%20di%20maternita.%20010U0520.md), e' cosi' modificata: 
  
- «Art. 3. - La Cassa corrisponde ad ogni operaia in occasione di parto o di aborto un sussidio di L. 40 alle condizioni che saranno determinate nel regolamento e fatta eccezione per il procurato aborto, preveduto nell'[art. 381 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_381), per il quale il sussidio non e' dovuto: lo Stato rimborsa alla Cassa per ciascun parto o aborto sussidiato la quota di L. 12».
+ «Art. 3. - La Cassa corrisponde ad ogni operaia in occasione di parto o di aborto un sussidio di L. 40 alle condizioni che saranno determinate nel regolamento e fatta eccezione per il procurato aborto, preveduto nell'[art. 381 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per il quale il sussidio non e' dovuto: lo Stato rimborsa alla Cassa per ciascun parto o aborto sussidiato la quota di L. 12».
 
 ## Art. 3.
 
@@ -82,7 +82,7 @@ Le disposizioni di cui agli articoli 1 a 3 del presente decreto, si applicano co
 
 ## Art. 7.
 
-Il Governo del Re e' autorizzato a coordinare in testo unico le norme del presente decreto colle disposizioni della [legge 17 luglio 1910, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;520), in quanto queste ultime siano rimaste in vigore. 
+Il Governo del Re e' autorizzato a coordinare in testo unico le norme del presente decreto colle disposizioni della [legge 17 luglio 1910, n. 520](Per%20la%20istituzione%20di%20una%20Cassa%20di%20maternita.%20010U0520.md), in quanto queste ultime siano rimaste in vigore. 
  
  Il Governo, inoltre, provvedera' ad emanare le norme regolamentari per l'esecuzione delle disposizioni precedenti e a recare al [regolamento 26 novembre 1911, n. 1382](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-11-26;1382), tutte le altre modificazioni ed aggiunte che siano ritenute necessarie con le opportune sanzioni.
 

@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 30 giugno 1907, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-30;432),
+Vista la [legge 30 giugno 1907, n. 432](Concessione%20di%20mutui%20di%20favore%20alle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura%20007U0432.md),
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-E' prorogato di altri 10 anni il termine di cui all'[art. 1 della legge 30 giugno 1907, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-30;432#art_1), riguardante le concessioni di mutui di favore per le RR. scuole speciali e pratiche di agricoltura. 
+E' prorogato di altri 10 anni il termine di cui all'[art. 1 della legge 30 giugno 1907, n. 432](Concessione%20di%20mutui%20di%20favore%20alle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura%20007U0432.md), riguardante le concessioni di mutui di favore per le RR. scuole speciali e pratiche di agricoltura. 
  
  Le disposizioni della legge medesima sono estese anche ai mutui che le Provincie e i Comuni richiedano nell'interesse proprio o di altri enti, i quali abbiano per legge o si assumano volontariamente l'obbligo di fornire terreni e fabbricati destinati allo RR. scuole superiori di agricoltura, alle RR. stazioni di prova agrarie e speciali e agli Istituti di istruzione e di sperimentazione agraria sottoposti alla vigilanza o sussidiati dal Ministero d'agricoltura. 
  
@@ -38,7 +38,7 @@ E' prorogato di altri 10 anni il termine di cui all'[art. 1 della legge 30 giugn
 
 La denominazione del capitolo 70 dello stato di previsione della spesa per il Ministero d'agricoltura, per l'esercizio 1917-918, e' cosi' modificata «Spese per lo impianto di scuole pratiche o speciali d'agricoltura e maggiori assegni pel funzionamento di dette scuole e delle scuole superiori d'agricoltura, in dipendenza di convenzioni speciali, e per completarne l'arredamento», ed il, relativo stanziamento e' determinato in L. 15.000. 
  
- Con decreto del ministro del tesoro, sara' provveduto alla istituzione, nello stato di previsione predetto, di un apposito capitolo con l'assegnazione di L. 50.000 pel concorso dello Stato nelle spese di interessi sui mutui concessi dalla Cassa dei depositi o prestiti a termine della [legge 30 giugno 1907, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-30;432), e del presento decreto.
+ Con decreto del ministro del tesoro, sara' provveduto alla istituzione, nello stato di previsione predetto, di un apposito capitolo con l'assegnazione di L. 50.000 pel concorso dello Stato nelle spese di interessi sui mutui concessi dalla Cassa dei depositi o prestiti a termine della [legge 30 giugno 1907, n. 432](Concessione%20di%20mutui%20di%20favore%20alle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura%20007U0432.md), e del presento decreto.
 
 ## Art. 3.
 

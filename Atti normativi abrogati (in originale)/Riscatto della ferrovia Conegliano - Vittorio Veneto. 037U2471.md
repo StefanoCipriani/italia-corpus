@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' approvata, a tutti gli effetti, la diffida notificata il 2 dicembre 1936, alla Societa' Veneta per costruzione ed esercizio di ferrovie secondarie italiane, per il riscatto della ferrovia Conegliano-Vittorio Veneto, con decorrenza dal 9 dicembre 1937, restando da quest'ultima data pienamente e completamente risoluta la concessione della detta ferrovia accordata mediante [R. decreto 9 dicembre 1877, n. 4199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-12-09;4199) (Serie II).
+E' approvata, a tutti gli effetti, la diffida notificata il 2 dicembre 1936, alla Societa' Veneta per costruzione ed esercizio di ferrovie secondarie italiane, per il riscatto della ferrovia Conegliano-Vittorio Veneto, con decorrenza dal 9 dicembre 1937, restando da quest'ultima data pienamente e completamente risoluta la concessione della detta ferrovia accordata mediante [R. decreto 9 dicembre 1877, n. 4199](Che%20approva%20la%20convenzione%20per%20la%20concessione%20alla%20Societa%20Veneta%20della%20costruzione%20e%20dellesercizio%20di%20una%20strada%20ferrata%20da%20Conegliano%20a%20Vittorio.%20077U4199.md) (Serie II).
 
 ## Art. 2.
 

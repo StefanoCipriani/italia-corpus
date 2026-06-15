@@ -12,7 +12,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Visto il [decreto legislativo luogotenenziale 18 gennaio 1945, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-18;16), modificato dal [decreto legislativo Presidenziale 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;37), concernente le norme per la costituzione ed il funzionamento dei Provveditorati regionali alle opere pubbliche;
+ Visto il [decreto legislativo luogotenenziale 18 gennaio 1945, n. 16](../Decreti%20legislativi%20luogotenenziali/Istituzione%20dei%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0016.md), modificato dal [decreto legislativo Presidenziale 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;37), concernente le norme per la costituzione ed il funzionamento dei Provveditorati regionali alle opere pubbliche;
  Ritenuta la urgente necessita' per le sopravvenute attuali contingenze, in dipendenza, in particolar modo, dei danni bellici, di provvedere alla istituzione di un Provveditorato regionale alle opere pubbliche per l'Umbria, con sede in Perugia;
  Udito il parere del Consiglio di Stato;
  Sentito il Consiglio dei Ministri;

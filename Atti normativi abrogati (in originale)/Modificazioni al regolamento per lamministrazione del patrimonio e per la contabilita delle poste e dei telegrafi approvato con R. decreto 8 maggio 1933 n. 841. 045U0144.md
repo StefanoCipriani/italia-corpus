@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al regolamento per l'Amministrazione del patrimonio e per la contabilita' delle poste e dei telegrafi, approvato con [R. decreto 8 maggio 1933, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-05-08;841), sono apportate le seguenti modificazioni: 
+Al regolamento per l'Amministrazione del patrimonio e per la contabilita' delle poste e dei telegrafi, approvato con [R. decreto 8 maggio 1933, n. 841](Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md), sono apportate le seguenti modificazioni: 
  
  all'art. 17 penultimo ed ultimo comma, il limite di spesa annua per cui si provvede a mezzo di agenti vincolati con l'obbligazione personale e' elevato a L. 15.000; 
  

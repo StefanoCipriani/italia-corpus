@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il regolamento organico per l'Amministrazione delle poste e dei telegrafi, approvato con [regio decreto 14 ottobre 1906, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-10-14;546) e successive modificazioni;
+Visto il regolamento organico per l'Amministrazione delle poste e dei telegrafi, approvato con [regio decreto 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md) e successive modificazioni;
 
-Visto il [regio decreto-legge 23 aprile 1925, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-23;520), convertito nella [legge 21 marzo 1936, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-03-21;597), concernente il nuovo ordinamento dell'Amministrazione postale e telegrafica e successive modificazioni;
+Visto il [regio decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1936, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-03-21;597), concernente il nuovo ordinamento dell'Amministrazione postale e telegrafica e successive modificazioni;
 
-Visto il [regio decreto-legge 14 giugno 1925, n. 884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-06-14;884), convertito nella [Legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562), riguardante la costituzione dell'Azienda per i servizi telefonici, e successive modificazioni;
+Visto il [regio decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [Legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), riguardante la costituzione dell'Azienda per i servizi telefonici, e successive modificazioni;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -35,7 +35,7 @@ Le competenze accessorie al personale di ruolo e non di ruolo dipendente dal Min
 
 ## Art. 2.
 
-Il 2° e 3° comma dell'art. 63 del regolamento delle ricevitorie, delle agenzie e dei servizi rurali nell'Amministrazione postale telegrafica, approvato con [regio decreto 5 novembre 1937, n. 2161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-11-05;2161), sono sostituiti con quanto segue:
+Il 2° e 3° comma dell'art. 63 del regolamento delle ricevitorie, delle agenzie e dei servizi rurali nell'Amministrazione postale telegrafica, approvato con [regio decreto 5 novembre 1937, n. 2161](Approvazione%20del%20regolamento%20delle%20Ricevitorie%20delle%20Agenzie%20e%20dei%20Servizi%20rurali%20dellAmministrazione%20postale%20telegrafica.%20037U2161.md), sono sostituiti con quanto segue:
  "I prolungamenti di orario disposti temporaneamente per i servizi al pubblico nelle ricevitorie postali e telegrafiche sono retribuiti nel modo seguente:
  a) compenso per servizio straordinario ragguagliato alle competenze del personale non di ruolo di gruppo C, per retribuire la prestazione del personale che presta il servizio medesimo;
  b) un ventesimo o un decimo del compenso di cui alla lettera a) a seconda che il prolungamento abbia luogo dalle ore 7 alle ore 19, e dopo tale ora, per rimborso spese di servizio.

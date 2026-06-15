@@ -14,11 +14,11 @@ Visto il regolamento per il Corpo delle guardie di pubblica sicurezza, approvato
 
 Vista, la [legge 26 gennaio 1942, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39), che istituisce il ruolo degli ufficiali del Corpo delle guardie di pubblica sicurezza;
 
-Visto il [regio decreto-legge 3 gennaio 1944, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-03;6), concernente l'organico ed il trattamento economico per i sottufficiali e militari di truppa dell'Arma dei carabinieri;
+Visto il [regio decreto-legge 3 gennaio 1944, n. 6](Organico%20e%20trattamento%20economico%20dei%20sottufficiali%20e%20militari%20di%20truppa%20dellArma%20dei%20C.C.R.R.%20044U0006.md), concernente l'organico ed il trattamento economico per i sottufficiali e militari di truppa dell'Arma dei carabinieri;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 

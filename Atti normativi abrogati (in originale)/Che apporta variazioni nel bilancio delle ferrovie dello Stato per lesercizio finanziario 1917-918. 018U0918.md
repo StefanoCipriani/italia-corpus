@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata:
 
-Vista la [legge 31 dicembre 1917, n. 2045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-12-31;2045);
+Vista la [legge 31 dicembre 1917, n. 2045](Che%20proroga%20il%20termine%20indicato%20della%20legge%2028%20ottobre%201917%20n.%201751%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20sian_80dd5cff68ce.md);
 
 Udito il Consiglio dei ministri;
 
@@ -32,7 +32,7 @@ Nel bilancio delle ferrovie dello Stato per l'esercizio 1917-918 sono introdotte
 
 ## Art. 2.
 
-A deroga della disposizione contenuta nell'[art. 20 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_20), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372#art_1), non sara' mantenuta fra i residui passivi la parte non erogata degli stanziamenti del bilancio per l'esercizio 1917-918 riguardanti la manutenzione ordinaria delle linee e del materiale rotabile e le spese complementari.
+A deroga della disposizione contenuta nell'[art. 20 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md), non sara' mantenuta fra i residui passivi la parte non erogata degli stanziamenti del bilancio per l'esercizio 1917-918 riguardanti la manutenzione ordinaria delle linee e del materiale rotabile e le spese complementari.
 
 ## Art. 3.
 

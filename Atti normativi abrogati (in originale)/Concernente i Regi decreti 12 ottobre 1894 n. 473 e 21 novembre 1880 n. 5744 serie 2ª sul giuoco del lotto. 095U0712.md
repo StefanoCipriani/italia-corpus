@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in Legge il [R. Decreto 12 ottobre 1894, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-10-12;473), allegato alla presente Legge (allegato A).
+E' convertito in Legge il [R. Decreto 12 ottobre 1894, n. 473](Sullordinamento%20del%20giuoco%20del%20lotto.%20094U0473.md), allegato alla presente Legge (allegato A).
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ Le multe inflitte per qualsiasi motivo ai ricevitori del lotto, saranno devolute
 
 ## Art. 4.
 
-Il Governo del Re e' autorizzato a coordinare sia fra loro, sia col [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), le disposizioni della presente Legge e di quelle precedenti, tuttora in vigore, riguardanti il lotto ed a raccoglierle in un unico testo. 
+Il Governo del Re e' autorizzato a coordinare sia fra loro, sia col [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le disposizioni della presente Legge e di quelle precedenti, tuttora in vigore, riguardanti il lotto ed a raccoglierle in un unico testo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

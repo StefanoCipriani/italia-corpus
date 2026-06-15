@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1933, n. 1282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-28;1282), contenente modificazioni alla circoscrizione giudiziaria e alle piante organiche del personale degli uffici giudiziari del Regno. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1933, n. 1282](Modificazioni%20alla%20circoscrizione%20giudiziaria%20e%20alle%20piante%20organiche%20del%20personale%20degli%20uffici%20giudiziari%20del%20Regno.%20033U1282.md), contenente modificazioni alla circoscrizione giudiziaria e alle piante organiche del personale degli uffici giudiziari del Regno. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

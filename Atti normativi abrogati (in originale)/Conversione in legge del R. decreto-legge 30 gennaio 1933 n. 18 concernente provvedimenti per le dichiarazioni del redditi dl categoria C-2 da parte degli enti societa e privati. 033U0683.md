@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 gennaio 1933, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-30;18), concernente provvedimenti per le dichiarazioni dei redditi di categoria C-2 da parte degli enti, societa' e privati, sostituendo l'art. 6 col seguente: 
+ E' convertito in legge il [R. decreto-legge 30 gennaio 1933, n. 18](Provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0018.md), concernente provvedimenti per le dichiarazioni dei redditi di categoria C-2 da parte degli enti, societa' e privati, sostituendo l'art. 6 col seguente: 
  
  « Art. 6. - Per la determinazione dell'ammontare annuo complessivo degli emolumenti agli effetti del precedente articolo deve tenersi conto delle partecipanze, cointeressenze, premi, gettoni di presenza ed altri emolumenti del genere, comunque e per qualsiasi importo corrisposti ai dipendenti dalla ditta, societa' od ente. Deve tenersi conto altresi' degli emolumenti sugli utili netti di bilancio, anche se corrisposti per la carica di amministratore. 
  

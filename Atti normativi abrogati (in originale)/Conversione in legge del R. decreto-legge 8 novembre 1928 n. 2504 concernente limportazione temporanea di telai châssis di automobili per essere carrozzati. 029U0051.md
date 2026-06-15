@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 novembre 1928, n. 2504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-08;2504), concernente l'importazione temporanea di telai (châssis) di automobili per essere carrozzati. 
+ E' convertito in legge il [R. decreto-legge 8 novembre 1928, n. 2504](Ammissione%20al%20regime%20della%20temporanea%20importazione%20degli%20chassis%20di%20vetture%20automobili%20per%20essere%20carrozzati.%20028U2504.md), concernente l'importazione temporanea di telai (châssis) di automobili per essere carrozzati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto legge 8 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;745);
+Visto il [R. decreto legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md);
 
-Visto il [R. decreto legge 5 novembre 1931, n. 1444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-05;1444);
+Visto il [R. decreto legge 5 novembre 1931, n. 1444](Modificazioni%20alla%20circoscrizione%20giudiziaria%20del%20Regno%20e%20ad%20alcune%20norme%20dellordinamento%20giudiziario.%20031U1444.md);
 
 Visto il [decreto legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per la graz
 
 ## Art. 1.
 
-In deroga a quanto dispone l'[art. 41 del R. decreto-legge 8 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;745#art_41), per le promozioni da conferirsi per merito comparativo al personale delle cancellerie e segreterie giudiziarie, lo scrutinio da indirsi dopo la entrata in vigore del presente decreto, potra' comprendere i posti vacanti fino al 30 novembre 1945.
+In deroga a quanto dispone l'[art. 41 del R. decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), per le promozioni da conferirsi per merito comparativo al personale delle cancellerie e segreterie giudiziarie, lo scrutinio da indirsi dopo la entrata in vigore del presente decreto, potra' comprendere i posti vacanti fino al 30 novembre 1945.
 
 ## Art. 2.
 

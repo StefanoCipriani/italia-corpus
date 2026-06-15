@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto dell'Istituto superiore pareggiato di educazione fisica di Firenze, approvato con [decreto del Presidente della Repubblica 28 marzo 1963, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-03-28;629);
+Veduto lo statuto dell'Istituto superiore pareggiato di educazione fisica di Firenze, approvato con [decreto del Presidente della Repubblica 28 marzo 1963, n. 629](../DPR/Istituzione%20di%20un%20Istituto%20superiore%20di%20educazione%20fisica%20pareggiato%20in%20Firenze.md);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -50,7 +50,7 @@ TITOLO I
 
 ### Art. 1.
 
-L'istituto superiore di educazione fisica, sorto in Firenze per iniziativa del centro di studi per l'educazione fisica e la attivita' sportiva di Firenze, e' stato pareggiato con [decreto del Presidente della Repubblica del 28 marzo 1963, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-03-28;629). 
+L'istituto superiore di educazione fisica, sorto in Firenze per iniziativa del centro di studi per l'educazione fisica e la attivita' sportiva di Firenze, e' stato pareggiato con [decreto del Presidente della Repubblica del 28 marzo 1963, n. 629](../DPR/Istituzione%20di%20un%20Istituto%20superiore%20di%20educazione%20fisica%20pareggiato%20in%20Firenze.md). 
  L'Istituto ha per scopo: 
  a) promuovere il progresso delle scienze applicate alla educazione fisica; 
  b) fornire la cultura scientifica e tecnica necessaria alla preparazione ed al perfezionamento professionale di coloro che intendono dedicarsi all'insegnamento dell'educazione fisica e agli impieghi tecnici nel campo sportivo. 

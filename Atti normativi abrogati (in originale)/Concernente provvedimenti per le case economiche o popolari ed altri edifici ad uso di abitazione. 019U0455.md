@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto il [R. decreto 27 febbraio 1908, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-02-27;89), che approva il testo unico delle leggi sulle case popolari o economiche;
+Veduto il [R. decreto 27 febbraio 1908, n. 89](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md), che approva il testo unico delle leggi sulle case popolari o economiche;
 
 Udito il Consiglio dei ministri;
 
@@ -58,7 +58,7 @@ Al primo articolo della [legge 27 febbraio 1908, n. 89](https://www.normattiva.i
 
 ### Art. 2.
 
-L'Istituto nazionale di credito per la cooperazione, sedente in Roma ed eretto in ente morale con [R. decreto 15 agosto 1913, n. 1140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-15;1140), ha facolta' di costituire una sezione autonoma per l'esercizio del credito edilizio. 
+L'Istituto nazionale di credito per la cooperazione, sedente in Roma ed eretto in ente morale con [R. decreto 15 agosto 1913, n. 1140](Erezione%20in%20ente%20morale%20e%20approvazione%20di%20statuto%20013U1140.md), ha facolta' di costituire una sezione autonoma per l'esercizio del credito edilizio. 
  
  Il capitale iniziale di questa sezione e' stabilito nella somma di lire venti milioni. 
  

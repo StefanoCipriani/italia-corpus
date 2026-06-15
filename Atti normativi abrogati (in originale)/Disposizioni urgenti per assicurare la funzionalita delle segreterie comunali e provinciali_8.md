@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il [primo comma dell'articolo 1 del decreto del Presidente della Repubblica 23 giugno 1972, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-23;749#art_1-com1), e' sostituito dal seguente:
+Il [primo comma dell'articolo 1 del decreto del Presidente della Repubblica 23 giugno 1972, n. 749](../DPR/Nuovo%20ordinamento%20dei%20segretari%20comunali%20e%20provinciali.md), e' sostituito dal seguente:
  "La nomina dei segretari comunali di qualifica iniziale e' effettuata mediante pubblico concorso per esami, indetto nel gennaio di ciascun anno con decreto del Ministro dell'interno, per i posti di segretario comunale di classe 4a vacanti alla data del 31 dicembre dell'anno precedente".
 
 2.
@@ -39,7 +39,7 @@ L'[articolo 10 della legge 8 giugno 1962, n. 604](https://www.normattiva.it/uri-
 
 1.
 
-L'[articolo 23-bis del decreto-legge 18 gennaio 1993, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-18;8#art_23bis), convertito, con modificazioni, dalla [legge 19 marzo 1993, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;68), e' abrogato. Alle segreterie comunali di classe 3a si accede mediante concorso, per titoli, per singole sedi. I relativi bandi di concorso sono emanati, entro trenta giorni dalla data in cui si verifica la vacanza della sede, dai prefetti competenti per territorio, con proprio decreto da pubblicare nel Foglio annunzi legali della provincia.
+L'[articolo 23-bis del decreto-legge 18 gennaio 1993, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-18;8#art_23bis), convertito, con modificazioni, dalla [legge 19 marzo 1993, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%208%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20derivata%20e%20di%20contabilita%20pubblica.md), e' abrogato. Alle segreterie comunali di classe 3a si accede mediante concorso, per titoli, per singole sedi. I relativi bandi di concorso sono emanati, entro trenta giorni dalla data in cui si verifica la vacanza della sede, dai prefetti competenti per territorio, con proprio decreto da pubblicare nel Foglio annunzi legali della provincia.
 
 2.
 
@@ -59,11 +59,11 @@ I candidati dichiarati vincitori e assegnati alle sedi, sia che assumano servizi
 
 6.
 
-Le commissioni giudicatrici dei concorsi di cui al comma 1 sono composte in conformita' all'[articolo 15, primo comma, del decreto del Presidente della Repubblica 23 giugno 1972, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-23;749#art_15-com1). Il segretario comunale o provinciale chiamato a far parte delle commissioni e' designato direttamente dal Ministero dell'interno.
+Le commissioni giudicatrici dei concorsi di cui al comma 1 sono composte in conformita' all'[articolo 15, primo comma, del decreto del Presidente della Repubblica 23 giugno 1972, n. 749](../DPR/Nuovo%20ordinamento%20dei%20segretari%20comunali%20e%20provinciali.md). Il segretario comunale o provinciale chiamato a far parte delle commissioni e' designato direttamente dal Ministero dell'interno.
 
 7.
 
-Le disposizioni di cui all'[articolo 23-bis del decreto-legge 18 gennaio 1993, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-18;8#art_23bis), convertito, con modificazioni, dalla [legge 19 marzo 1993, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;68), sono fatte salve limitatamente al concorso per la copertura delle sedi di segreteria di classe 3a, bandito con decreto ministeriale 18 gennaio 1995, pubblicato nella Gazzetta Ufficiale - 4a serie speciale - n. 8 del 31 gennaio 1995.
+Le disposizioni di cui all'[articolo 23-bis del decreto-legge 18 gennaio 1993, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-18;8#art_23bis), convertito, con modificazioni, dalla [legge 19 marzo 1993, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%208%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20derivata%20e%20di%20contabilita%20pubblica.md), sono fatte salve limitatamente al concorso per la copertura delle sedi di segreteria di classe 3a, bandito con decreto ministeriale 18 gennaio 1995, pubblicato nella Gazzetta Ufficiale - 4a serie speciale - n. 8 del 31 gennaio 1995.
 
 8.
 
@@ -74,11 +74,11 @@ L'[articolo 31 della legge 8 giugno 1962, n. 604](https://www.normattiva.it/uri-
 
 1.
 
-Sono fatte salve le disposizioni dettate dal [decreto del Presidente della Repubblica 23 giugno 1972, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-23;749), concernenti lo svolgimento delle procedure concorsuali, ivi comprese quelle attinenti alla composizione delle commissioni giudicatrici. Il segretario comunale o provinciale chiamato a far parte delle commissioni e' designato direttamente dal Ministero dell'interno.
+Sono fatte salve le disposizioni dettate dal [decreto del Presidente della Repubblica 23 giugno 1972, n. 749](../DPR/Nuovo%20ordinamento%20dei%20segretari%20comunali%20e%20provinciali.md), concernenti lo svolgimento delle procedure concorsuali, ivi comprese quelle attinenti alla composizione delle commissioni giudicatrici. Il segretario comunale o provinciale chiamato a far parte delle commissioni e' designato direttamente dal Ministero dell'interno.
 
 2.
 
-L'[articolo 11 del decreto del Presidente della Repubblica 23 giugno 1972, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-23;749#art_11), e' sostituito dal seguente:
+L'[articolo 11 del decreto del Presidente della Repubblica 23 giugno 1972, n. 749](../DPR/Nuovo%20ordinamento%20dei%20segretari%20comunali%20e%20provinciali.md), e' sostituito dal seguente:
  "Art. 11 (Concorsi per la nomina a segretario comunale generale di 1a classe). - I posti di segretario comunale generale di 1a classe sono conferiti, con decreto del Ministro dell'interno, a seguito di concorso per titoli da bandire per ciascuna sede vacante, al quale possono partecipare:
  a) i segretari comunali di qualifica corrispondente a quella stabilita per la segreteria a concorso;
  b) i segretari comunali della qualifica immediatamente inferiore, i quali abbiano almeno tre anni di permanenza ininterrotta nella qualifica stessa ed abbiano riportato, nell'ultimo triennio, per due anni il giudizio complessivo di 'ottimo' e per l'altro anno almeno quello di 'distinto';
@@ -104,7 +104,7 @@ A decorrere dalla data di entrata in vigore del presente decreto, la tassa di am
 
 3.
 
-Le somme arretrate dovute fino al 31 dicembre 1993 ai segretari comunali titolari di segreteria convenzionata o consorziata, in relazione alla inclusione della indennita' integrativa speciale nella base di calcolo della retribuzione mensile aggiunta di cui all'[articolo 25, sesto comma, del decreto del Presidente della Repubblica 23 giugno 1972, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-23;749#art_25-com6), sono poste a carico dei fondi provenienti dai diritti di segreteria dei comuni e delle province di cui all'[articolo 42 della legge 8 giugno 1962, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-08;604#art_42), e successive modificazioni, entro il limite massimo di lire 36 miliardi. Le somme sono rimborsate dal Ministero dell'interno agli enti interessati, previa presentazione, entro quarantacinque giorni dalla data di entrata in vigore del presente decreto, di apposita, circostanziata richiesta dalla quale risultino gli importi pagati ed i soggetti beneficiari. Nel caso di richieste di rimborso da parte degli enti interessati di somme complessivamente superiori a quelle disponibili, il rimborso e' ridotto proporzionalmente.
+Le somme arretrate dovute fino al 31 dicembre 1993 ai segretari comunali titolari di segreteria convenzionata o consorziata, in relazione alla inclusione della indennita' integrativa speciale nella base di calcolo della retribuzione mensile aggiunta di cui all'[articolo 25, sesto comma, del decreto del Presidente della Repubblica 23 giugno 1972, n. 749](../DPR/Nuovo%20ordinamento%20dei%20segretari%20comunali%20e%20provinciali.md), sono poste a carico dei fondi provenienti dai diritti di segreteria dei comuni e delle province di cui all'[articolo 42 della legge 8 giugno 1962, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-08;604#art_42), e successive modificazioni, entro il limite massimo di lire 36 miliardi. Le somme sono rimborsate dal Ministero dell'interno agli enti interessati, previa presentazione, entro quarantacinque giorni dalla data di entrata in vigore del presente decreto, di apposita, circostanziata richiesta dalla quale risultino gli importi pagati ed i soggetti beneficiari. Nel caso di richieste di rimborso da parte degli enti interessati di somme complessivamente superiori a quelle disponibili, il rimborso e' ridotto proporzionalmente.
 
 4.
 

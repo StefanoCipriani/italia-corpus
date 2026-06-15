@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Le varianti all'ordinamento degli assegni del corpo R. equipaggi, approvate col [R. decreto del 29 marzo 1914, n. 293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-03-29;293), sono sostituite da quelle qui annesse, firmate, d'ordine Nostro, dal ministro della marina. 
+Le varianti all'ordinamento degli assegni del corpo R. equipaggi, approvate col [R. decreto del 29 marzo 1914, n. 293](Col%20quale%20vengono%20approvate%20alcune%20varianti%20allordinamento%20degli%20assegni%20del%20corpo%20R.%20equipaggi.%20014U0293.md), sono sostituite da quelle qui annesse, firmate, d'ordine Nostro, dal ministro della marina. 
  
  Il presente decreto avra' decorrenza dal 1° luglio 1917. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 luglio 1929, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-07-19;1396), riflettente la partecipazione del Governo della Tripolitania al finanziamento della impresa di Pisida. 
+ E' convertito in legge il [R. decreto-legge 19 luglio 1929, n. 1396](Partecipazione%20del%20Governo%20della%20Tripolitania%20al%20finanziamento%20della%20impresa%20di%20Pisida.%20029U1396.md), riflettente la partecipazione del Governo della Tripolitania al finanziamento della impresa di Pisida. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

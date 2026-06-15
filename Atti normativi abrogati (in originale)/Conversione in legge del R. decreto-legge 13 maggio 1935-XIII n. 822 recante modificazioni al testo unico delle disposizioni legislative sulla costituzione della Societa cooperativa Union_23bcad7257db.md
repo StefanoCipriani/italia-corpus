@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il R. decreto-legge 13 maggio 1935-XIII, n. 822, recante modificazioni al testo unico delle disposizioni legislative sulla costituzione della Societa' cooperativa «Unione Militare» in ente autonomo avente personalita' giuridica propria, approvato con [R. decreto 22 gennaio 1928, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-22;166). 
+ E' convertito in legge il R. decreto-legge 13 maggio 1935-XIII, n. 822, recante modificazioni al testo unico delle disposizioni legislative sulla costituzione della Societa' cooperativa «Unione Militare» in ente autonomo avente personalita' giuridica propria, approvato con [R. decreto 22 gennaio 1928, n. 166](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20costituzione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20028U0166.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

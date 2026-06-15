@@ -20,7 +20,7 @@ Il contributo annuo dello Stato nelle spese per il funzionamento dell'Ente nazio
 
 ## Art. 2.
 
-In ottemperanza al [decreto del Presidente della Repubblica 14 gennaio 1972, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-01-14;2), l'ENAPI cessa le funzioni esercitate in materia di artigianato entro un anno dall'entrata in vigore della presente legge.
+In ottemperanza al [decreto del Presidente della Repubblica 14 gennaio 1972, n. 2](../DPR/Trasferimento%20alle%20Regioni%20a%20statuto%20ordinario%20delle%20funzioni%20amministrative%20statali%20in%20materia%20di%20acque%20minerali%20e%20termali%20di%20cave%20e%20torbiere%20e%20di%20artigianato%20e%20del%20relativo%20personale.md), l'ENAPI cessa le funzioni esercitate in materia di artigianato entro un anno dall'entrata in vigore della presente legge.
 
 ## Art. 3.
 

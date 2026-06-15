@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 gennaio 1928, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-05;5), che aumenta, per il 1927, i contingenti di esportazione per le pelli grezze di buoi e vacche e di vitelli. 
+ E' convertito in legge il [R. decreto-legge 5 gennaio 1928, n. 5](Aumento%20del%20contingente%20di%20esportazione%20per%20lanno%201927%20delle%20pelli%20di%20vitelli%20di%20buoi%20e%20vacche.%20028U0005.md), che aumenta, per il 1927, i contingenti di esportazione per le pelli grezze di buoi e vacche e di vitelli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

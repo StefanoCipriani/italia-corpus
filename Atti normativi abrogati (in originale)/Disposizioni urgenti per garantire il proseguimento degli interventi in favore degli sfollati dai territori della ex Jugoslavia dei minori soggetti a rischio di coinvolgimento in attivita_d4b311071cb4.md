@@ -14,7 +14,7 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Considerato il perdurare della situazione di emergenza, formalmente dichiarata con decreto del Presidente del Consiglio dei Ministri in data 19 maggio 1992, pubblicato nella Gazzetta Ufficiale n. 117 del 21 maggio 1992, per fronteggiare l'eccezionale pericolo derivante dal massiccio esodo delle popolazioni provenienti dalla Bosnia-Erzegovina;
 
-Ritenuta pertanto la straordinaria necessita' ed urgenza di emanare disposizioni per assicurare il proseguimento degli interventi in materia previsti dal [decreto-legge 24 luglio 1992, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-24;350), convertito, con modificazioni, dalla [legge 24 settembre 1992, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-24;390);
+Ritenuta pertanto la straordinaria necessita' ed urgenza di emanare disposizioni per assicurare il proseguimento degli interventi in materia previsti dal [decreto-legge 24 luglio 1992, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-24;350), convertito, con modificazioni, dalla [legge 24 settembre 1992, n. 390](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20luglio%201992%20n.%20350%20recante%20interventi%20straordinari%20di%20carattere%20umanitario%20a%20favore%20degli%20sfollati%20delle%20Repubbliche%20sorte%20nei%20_f95a0fc888ae.md);
 
 Ritenuta altresi' la straordinaria necessita' ed urgenza di garantire la continuita' degli interventi previsti dalla [legge 19 luglio 1991, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-19;216), recante primi interventi in favore dei minori soggetti a rischio di coinvolgimento in attivita' criminose, nonche' di integrare opportunamente la legge stessa;
 
@@ -30,7 +30,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Per il finanziamento degli interventi straordinari di carattere umanitario a favore degli sfollati delle Repubbliche sorte nei territori della ex Jugoslavia di cui all'[articolo 1 del decreto-legge 24 luglio 1992, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-24;350#art_1), convertito, con modificazioni, dalla [legge 24 settembre 1992, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-24;390), e' autorizzata la spesa di lire 50 miliardi per ciascuno degli anni 1994, 1995 e 1996.
+Per il finanziamento degli interventi straordinari di carattere umanitario a favore degli sfollati delle Repubbliche sorte nei territori della ex Jugoslavia di cui all'[articolo 1 del decreto-legge 24 luglio 1992, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-24;350#art_1), convertito, con modificazioni, dalla [legge 24 settembre 1992, n. 390](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20luglio%201992%20n.%20350%20recante%20interventi%20straordinari%20di%20carattere%20umanitario%20a%20favore%20degli%20sfollati%20delle%20Repubbliche%20sorte%20nei%20_f95a0fc888ae.md), e' autorizzata la spesa di lire 50 miliardi per ciascuno degli anni 1994, 1995 e 1996.
 
 ## Art. 2. — Interventi in favore dei minori a rischio 
  di coinvolgimento in attivita' criminose

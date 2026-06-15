@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 febbraio 1926, n.213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-10;213), che proroga al 31 marzo 1926 il termine utile per la presentazione delle domande di concessione di anticipazioni per la ricostituzione dei beni danneggiati nelle nuove Provincie, in conseguenza di prestazioni di guerra austro-ungariche. 
+ E' convertito in legge il [R. decreto-legge 10 febbraio 1926, n.213](Proroga%20al%2031%20marzo%201926%20del%20termine%20utile%20per%20la%20presentazione%20delle%20domande%20di%20concessione%20di%20anticipazioni%20per%20la%20ricostituzione%20di%20beni%20danneggiati%20nelle%20nuove%20Provincie%20in%20conseguenz_624cc9077da5.md), che proroga al 31 marzo 1926 il termine utile per la presentazione delle domande di concessione di anticipazioni per la ricostituzione dei beni danneggiati nelle nuove Provincie, in conseguenza di prestazioni di guerra austro-ungariche. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

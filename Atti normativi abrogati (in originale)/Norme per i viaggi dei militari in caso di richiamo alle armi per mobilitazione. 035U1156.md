@@ -44,7 +44,7 @@ a) a sospendere il servizio pubblico sulle linee automobilistiche, per adibirle 
 
 ## Art. 3.
 
-L'impiego degli automezzi per il trasporto dei richiamati dai Comuni di residenza alla stazione ferroviaria od allo scalo marittimo non e' subordinato all'osservanza delle norme di cui agli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3283#art_27), [28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3283#art_28) e [29 del R. decreto 30 dicembre 1923, n. 3283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3283#art_29). 
+L'impiego degli automezzi per il trasporto dei richiamati dai Comuni di residenza alla stazione ferroviaria od allo scalo marittimo non e' subordinato all'osservanza delle norme di cui agli [articoli 27](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), [28](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md) e [29 del R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md). 
  
  I permessi prescritti dai predetti articoli saranno rilasciati direttamente (a loro giudizio e senza alcuna speciale formalita') dai podesta' dei Comuni i quali provvederanno alla riscossione delle dovute tasse con l'applicazione di marche doppie per concessione governativa, da annullare nella prima e nella seconda parte con la data e la firma del podesta'. 
  

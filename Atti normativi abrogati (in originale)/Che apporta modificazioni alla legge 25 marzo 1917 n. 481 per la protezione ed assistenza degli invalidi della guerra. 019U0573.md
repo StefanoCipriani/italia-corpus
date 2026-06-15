@@ -26,7 +26,7 @@ Sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri,
 
 ## Articolo unico.
 
-Gli articoli- 1, 2, 3, 4, 9 (1° comma) 11, 13 (1° comma), 14 e 17 della [legge 25 marzo 1917, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;481), sono modificati come segue. 
+Gli articoli- 1, 2, 3, 4, 9 (1° comma) 11, 13 (1° comma), 14 e 17 della [legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), sono modificati come segue. 
  
  Art. 1. - E' istituito un ente denominato «Opera nazionale per la protezione ed assistenza degli invalidi della guerra». 
  
@@ -78,7 +78,7 @@ Gli articoli- 1, 2, 3, 4, 9 (1° comma) 11, 13 (1° comma), 14 e 17 della [legge
  
  Art. 9. (1° comma). - Tutte le istituzioni pubbliche che hanno per iscopo il mantenimento, la cura, l'istruzione e l'educazione di invalidi sono obbligate - quando abbiano posti disponibili - al ricovero o all'assistenza degli invalidi della guerra designati dall'Opera nazionale. Tale obbligo permane ancorche' gli invalidi non appartengano al territorio entro cui l'istituzione, a termine delle proprie norme statutarie, esplica la sua azione, ferma la preferenza a favore degli invalidi appartenenti al detto territorio e salvo il rimborso della relativa spesa dall'Opera nazionale. 
  
- Art. 11. - L'Opera nazionale e le istituzioni con essa collegate, erette in enti morali, che hanno per iscopo principale la assistenza agli invalidi della guerra, non sono soggette alle leggi e ai regolamenti che disciplinano le istituzioni pubbliche di beneficenza: sono pero' estese ad esse tutte le disposizioni di favore vigenti per le dette istituzioni, nonche' quelle della [legge 1° aprile 1915, n. 462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;462). 
+ Art. 11. - L'Opera nazionale e le istituzioni con essa collegate, erette in enti morali, che hanno per iscopo principale la assistenza agli invalidi della guerra, non sono soggette alle leggi e ai regolamenti che disciplinano le istituzioni pubbliche di beneficenza: sono pero' estese ad esse tutte le disposizioni di favore vigenti per le dette istituzioni, nonche' quelle della [legge 1° aprile 1915, n. 462](Contenente%20provvedimenti%20a%20favore%20dellOpera%20nazionale%20Emanuele%20Filiberto%20di%20Savoia%20per%20soccorso%20agli%20orfani%20dei%20militari%20morti%20nella%20campagna%20di%20Libia%20015U0462.md). 
  
  L'Opera nazionale e le istituzioni suddette saranno esenti da qualsiasi tributo fondiario erariale, provinciale e comunale. 
  

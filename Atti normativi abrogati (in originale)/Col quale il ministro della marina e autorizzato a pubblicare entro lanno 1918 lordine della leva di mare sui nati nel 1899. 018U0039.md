@@ -14,7 +14,7 @@ Il ministro della marina e' autorizzato a pubblicare l'ordine della leva di mare
 
 ## Art. 2.
 
-La prima sessione della leva di cui all'[art. 2 della legge 27 dicembre 1906, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-12-27;679#art_2), sara' chiusa per gli inscritti della classe 1898 al 30 settembre 1918, e la seconda sessione al 31 dicembre 1918.
+La prima sessione della leva di cui all'[art. 2 della legge 27 dicembre 1906, n. 679](Modificazioni%20alla%20legge%20sulla%20leva%20marittima.%20006U0679.md), sara' chiusa per gli inscritti della classe 1898 al 30 settembre 1918, e la seconda sessione al 31 dicembre 1918.
 
 ## Art. 3.
 

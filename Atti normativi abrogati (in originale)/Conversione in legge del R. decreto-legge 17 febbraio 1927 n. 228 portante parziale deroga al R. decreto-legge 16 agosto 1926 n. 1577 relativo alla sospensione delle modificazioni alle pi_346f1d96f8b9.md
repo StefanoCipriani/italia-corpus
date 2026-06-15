@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 febbraio 1927, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;228), portante parziale deroga al [R. decreto-legge 16 agosto 1926, n. 1577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-16;1577), relativo alla sospensione delle modificazioni alle piante organiche degli impiegati degli enti locali. 
+ E' convertito in legge il [R. decreto-legge 17 febbraio 1927, n. 228](Parziale%20deroga%20al%20R.%20decreto-legge%2016%20agosto%201926%20n.%201577%20relativo%20alla%20sospensione%20delle%20modificazioni%20alle%20piante%20organiche%20degli%20impiegati%20degli%20enti%20locali.%20027U0228.md), portante parziale deroga al [R. decreto-legge 16 agosto 1926, n. 1577](Sospensione%20delle%20modificazioni%20alle%20piante%20organiche%20degli%20impiegati%20degli%20enti%20locali.%20026U1577.md), relativo alla sospensione delle modificazioni alle piante organiche degli impiegati degli enti locali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

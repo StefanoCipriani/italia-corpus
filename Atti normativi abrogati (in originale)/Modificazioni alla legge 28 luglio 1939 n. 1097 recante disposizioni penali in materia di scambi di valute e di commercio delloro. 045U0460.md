@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 5 dicembre 1938, n. 1928](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-12-05;1928), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), concernente le norme per la repressione delle violazioni delle leggi valutarie;
+Visto il [R. decreto-legge 5 dicembre 1938, n. 1928](Norme%20per%20la%20repressione%20delle%20violazioni%20delle%20leggi%20valutarie.%20038U1928.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), concernente le norme per la repressione delle violazioni delle leggi valutarie;
 
-Vista la [legge 28 luglio 1939, n. 1097](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-28;1097), concernente le disposizioni in materia di scambi, di valute e di commercio dell'oro;
+Vista la [legge 28 luglio 1939, n. 1097](Disposizioni%20penali%20in%20materia%20di%20scambi%20di%20valute%20di%20commercio%20delloro.%20039U1097.md), concernente le disposizioni in materia di scambi, di valute e di commercio dell'oro;
 
-Visto il [R. decreto-legge 29 luglio 1943, n. 668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-07-29;668), concernente la soppressione del Tribunale speciale per la difesa dello Stato;
+Visto il [R. decreto-legge 29 luglio 1943, n. 668](Soppressione%20del%20Tribunale%20speciale%20per%20la%20difesa%20della%20Stato.%20043U0668.md), concernente la soppressione del Tribunale speciale per la difesa dello Stato;
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per il tesoro, d'intesa col Ministro per la grazia e
 
 ## Art. 1.
 
-L'[art. 1 della legge 28 luglio 1939, n. 1097](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-28;1097#art_1), e' sostituito dal seguente: 
+L'[art. 1 della legge 28 luglio 1939, n. 1097](Disposizioni%20penali%20in%20materia%20di%20scambi%20di%20valute%20di%20commercio%20delloro.%20039U1097.md), e' sostituito dal seguente: 
  
  «Chiunque, fraudolentemente, commercia, sottrae od occulta, in danno dell'economia nazionale, mezzi di pagamento all'estero, ovvero agisce in modo da deprimere il corso della valuta nazionale e' punito con la reclusione fino a 5 anni e con la multa fino al quintuplo del valore della cosa che ha formato oggetto del reato. 
  
@@ -45,9 +45,9 @@ L'[art. 1 della legge 28 luglio 1939, n. 1097](https://www.normattiva.it/uri-res
 
 ## Art. 2.
 
-L'[art. 2 della legge 28 luglio 1939, n. 1097](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-28;1097#art_2), e' abrogato. 
+L'[art. 2 della legge 28 luglio 1939, n. 1097](Disposizioni%20penali%20in%20materia%20di%20scambi%20di%20valute%20di%20commercio%20delloro.%20039U1097.md), e' abrogato. 
  
- La competenza per i delitti preveduti nell'[art. 1 della legge 28 luglio 1939, n. 1097](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-28;1097#art_1), modificato dall'articolo precedente, e' devoluta all'autorita' giudiziaria ordinaria. 
+ La competenza per i delitti preveduti nell'[art. 1 della legge 28 luglio 1939, n. 1097](Disposizioni%20penali%20in%20materia%20di%20scambi%20di%20valute%20di%20commercio%20delloro.%20039U1097.md), modificato dall'articolo precedente, e' devoluta all'autorita' giudiziaria ordinaria. 
  
  Per i delitti medesimi si procede su richiesta del Ministro per la grazia e giustizia, al quale il Ministro per il tesoro trasmette gli atti relativi all'accertamento con il proprio parere sul documento che dal fatto e' derivato o sarebbe potuto derivare all'economia valutaria del Paese. 
  

@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 30 maggio 1946, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1946-05-30;459), che approva l'ordinamento del Ministero del commercio con l'estero, modificato con [decreto del Capo provvisorio dello Stato 10 luglio 1947, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-10;675);
+Visto il [regio decreto 30 maggio 1946, n. 459](Ordinamento%20del%20Ministero%20del%20commercio%20con%20lestero.md), che approva l'ordinamento del Ministero del commercio con l'estero, modificato con [decreto del Capo provvisorio dello Stato 10 luglio 1947, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-10;675);
 
-Visto l'art: 5 della [legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181), concernente la delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
+Visto l'art: 5 della [legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), concernente la delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
 
 Visto il [decreto del Presidente della Repubblica 11 gennaio 1956, n. 16](Ordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), che approva l'ordinamento delle carriere degli impiegati civili dello Stato;
 

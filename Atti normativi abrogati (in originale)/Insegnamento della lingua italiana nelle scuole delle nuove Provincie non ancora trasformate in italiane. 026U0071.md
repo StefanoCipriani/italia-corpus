@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Articolo unico.
 
-Nelle scuole elementari che non siano state ancora trasformate a norma dell'art. 260 del testo unico delle leggi per l'istruzione elementare, approvato con [R. decreto 22 gennaio 1925, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-22;432), la promozione alla classe superiore non si consegue se non superando una prova di lingua italiana. 
+Nelle scuole elementari che non siano state ancora trasformate a norma dell'art. 260 del testo unico delle leggi per l'istruzione elementare, approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), la promozione alla classe superiore non si consegue se non superando una prova di lingua italiana. 
  
  A tal uopo verranno impartite entro l'orario normale non meno di cinque ore settimanali di insegnamento di lingua italiana, secondo le modalita' che verranno fissate dal Regio provveditore agli studi. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 febbraio 1927, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;232), concernente l'aumento del saggio di interesse per i mutui concessi dalla Cassa di risparmio e deposito di Firenze, dal Monte dei Paschi di Siena e dal Consorzio pei mutui ai danneggiati dal terremoto tosco-emiliano. 
+ E' convertito in legge il [R. decreto-legge 13 febbraio 1927, n. 232](Aumento%20del%20saggio%20dinteresse%20per%20i%20mutui%20concessi%20dalla%20Cassa%20di%20risparmi%20e%20depositi%20di%20Firenze%20dal%20Monte%20dei%20Paschi%20di%20Siena%20e%20dal%20Consorzio%20per%20mutui%20ai%20danneggiati%20dal%20terremoto%20tosco_b4025266220b.md), concernente l'aumento del saggio di interesse per i mutui concessi dalla Cassa di risparmio e deposito di Firenze, dal Monte dei Paschi di Siena e dal Consorzio pei mutui ai danneggiati dal terremoto tosco-emiliano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

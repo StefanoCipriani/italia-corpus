@@ -20,11 +20,11 @@ Visto il [decreto Luogotenenziale 23 aprile 1918, numero 560](https://www.normat
 
 Visto il [decreto Luogotenenziale 15 maggio 1919, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-15;775), con provvedimenti per le ore di lavoro ed economici a favore del personale addetto alle ferrovie concesse all'industria privata, alle tramvie e alle linee di navigazione interna;
 
-Visto il [R. decreto-legge 17 luglio 1921, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-07-17;1127), con norme per la responsabilita' delle aziende tranviarie per la mancata distribuzione dei biglietti;
+Visto il [R. decreto-legge 17 luglio 1921, n. 1127](Che%20stabilisce%20la%20responsabilita%20delle%20Aziende%20tramviarie%20ed%20assimilate%20per%20la%20mancata%20distribuzione%20dei%20biglietti%20e%20commina%20penalita%20per%20i%20passeggieri%20sorpresi%20senza%20biglietto%20o%20attaccat_c1762eab2c86.md), con norme per la responsabilita' delle aziende tranviarie per la mancata distribuzione dei biglietti;
 
-Visto il [R. decreto-legge 29 gennaio 1922, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-01-29;40); con provvedimenti a favore delle aziende esercenti servizi pubblici di trasporto;
+Visto il [R. decreto-legge 29 gennaio 1922, n. 40](Che%20reca%20provvedimenti%20a%20favore%20delle%20aziende%20esercenti%20servizi%20pubblici%20di%20trasporto.%20022U0040.md); con provvedimenti a favore delle aziende esercenti servizi pubblici di trasporto;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3275), che approva il testo unico delle leggi delle tasse di bollo sui trasporti;
+Visto il [R. decreto 30 dicembre 1923, n. 3275](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md), che approva il testo unico delle leggi delle tasse di bollo sui trasporti;
 
 Visto l'[art. 4 del decreto-Legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -40,7 +40,7 @@ Chi e' trovato a viaggiare su pubblici servizi di trasporto extraurbani in conce
  
  Chi e' trovato a viaggiare sui pubblici servizi di trasporto extraurbani in concessione munito di documento di viaggio per classe inferiore a quella occupata, senza averne dato preavviso al personale di scorta, e' assoggettato al pagamento della differenza di prezzo per tutto il percorso irregolarmente compiuto e di una sopratassa di pari importo con un minimo di L. 70 per le linee ferroviarie e di navigazione interna e di L. 40 per tramvie e per gli autoservizi di linea. 
  
- L'importo della sopratassa, detratto quanto dovuto all'Erario ai sensi dell'[art. 37 del R. decreto 30 dicembre 1923, n. 3275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3275#art_37), e' devoluto per i due terzi all'azienda esercente e per un terzo alla Cassa soccorso del personale da essa dipendente. 
+ L'importo della sopratassa, detratto quanto dovuto all'Erario ai sensi dell'[art. 37 del R. decreto 30 dicembre 1923, n. 3275](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md), e' devoluto per i due terzi all'azienda esercente e per un terzo alla Cassa soccorso del personale da essa dipendente. 
  
  In tutti i casi in cui, per fatto dei viaggiatori, ha luogo una esenzione durante il viaggio, e' dovuto un diritto pari al dieci per cento dell'importo della esazione, con un minimo di L. 10.
 
@@ -52,7 +52,7 @@ Chi viaggia sui pubblici servizi di trasporto urbani sprovvisto di documento di 
 
 L'importo della sopratassa e' devoluto per i due terzi all'azienda esercente e per un terzo alla Cassa soccorso del personale da essa dipendente. 
  
- E' abolita per i servizi di trasporto urbani la penalita' di' cui all'art. 37 del. [R. decreto 30 dicembre 1923, n. 3275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3275).
+ E' abolita per i servizi di trasporto urbani la penalita' di' cui all'art. 37 del. [R. decreto 30 dicembre 1923, n. 3275](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md).
 
 ## Art. 3.
 

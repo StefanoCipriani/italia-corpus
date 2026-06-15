@@ -24,7 +24,7 @@ L'orario unico per tutte le Borse del Regno dura dalle ore 13 alle 15 di tutti i
 
 ## Art. 3.
 
-Entro i sei mesi successivi a quello in cui sara' pubblicata la pace, il deposito cauzionale per gli agenti di cambio, per le Societa' in nome collettivo fra agenti di cambio, non che per le persone temporaneamente ammesse a negoziare alle grida dovra' essere portato alla misura indicata per le singole Borse di commercio dal [R decreto 28 dicembre 1913, n. 1434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-12-28;1434). 
+Entro i sei mesi successivi a quello in cui sara' pubblicata la pace, il deposito cauzionale per gli agenti di cambio, per le Societa' in nome collettivo fra agenti di cambio, non che per le persone temporaneamente ammesse a negoziare alle grida dovra' essere portato alla misura indicata per le singole Borse di commercio dal [R decreto 28 dicembre 1913, n. 1434](Col%20quale%20viene%20stabilita%20la%20cauzione%20degli%20agenti%20di%20cambio%20nelle%20Borse%20013U1434.md). 
  
  La differenza fra la cauzione prescritta dal citato decreto e quella gia' depositata sara' prestata in sei rate uguali scadenti alla fine di ciascuno dei mesi sopra indicati osservando le disposizioni dell'[art. 25 della legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272#art_25), e dell'art. 55 del regolamento per la sua esecuzione. 
  

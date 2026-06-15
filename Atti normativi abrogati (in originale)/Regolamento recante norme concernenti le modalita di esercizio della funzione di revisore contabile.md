@@ -127,10 +127,10 @@ Per le funzioni di segreteria, la commissione si avvale di dipendenti dell'ammin
 
 1.
 
-Per la tenuta del registro del tirocinio e del registro dei revisori contabili, sono corrisposti ai componenti e al segretario della commissione i compensi indicati all'[articolo 5 della legge 8 dicembre 1956, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378#art_5), come sostituito dall'[articolo 1 della legge 31 dicembre 1962, n. 1866](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1866#art_1).
+Per la tenuta del registro del tirocinio e del registro dei revisori contabili, sono corrisposti ai componenti e al segretario della commissione i compensi indicati all'[articolo 5 della legge 8 dicembre 1956, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378#art_5), come sostituito dall'[articolo 1 della legge 31 dicembre 1962, n. 1866](Modifiche%20allart.%205%20della%20legge%208%20dicembre%201956%20n.%201378.md).
 
 Nota all'[art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378#art_4):
- - L'[art. 5 della legge 8 dicembre 1956, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378#art_5) (Esami di Stato di abilitazione all'esercizio delle professioni), cosi' come sostituito dall'[art. 1 della legge 31 dicembre 1962, n. 1866](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1866#art_1), e' il seguente:
+ - L'[art. 5 della legge 8 dicembre 1956, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378#art_5) (Esami di Stato di abilitazione all'esercizio delle professioni), cosi' come sostituito dall'[art. 1 della legge 31 dicembre 1962, n. 1866](Modifiche%20allart.%205%20della%20legge%208%20dicembre%201956%20n.%201378.md), e' il seguente:
  "Art. 5. - Ai componenti le commissioni giudicatrici degli esami di Stato per l'abilitazione all'esercizio delle professioni spetta un compenso di lire 12.000 per i primi dieci o frazione di dieci candidati esaminati, da aumentare di lire 6.000 per ogni ulteriore gruppo di dieci o frazione di dieci candidati. Tali importi sono ridotti alla meta' qualora detti componenti abbiano diritto al trattamento di missione.
  Ai componenti estranei all'amministrazione dello Stato e' corrisposto, limitatamente ai giorni di effettivo svolgimento delle prove di esame, in aggiunta al trattamento di cui al comma precedente, un compenso pari al trentesimo dello stipendio mensile iniziale previsto per i dipendenti statali con coefficiente di stipendio 500, con esclusione di eventuali quote di aggiunta di famiglia e di altre indennita'.
  Ai professori universitari collocati a riposo si applica, per quanto riguarda l'eventuale trattamento di missione, il disposto della [legge 24 gennaio 1958, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-01-24;18)".
@@ -161,7 +161,7 @@ Note all'art. 5:
  - Il comma 2, lettera a), dell'art. 3 del citato [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), cosi' recita:
  "2. Per l'ammissione all'esame e' necessario:
  a) aver conseguito in materie economiche, aziendali o giuridiche un diploma di laurea ovvero un diploma universitario o un diploma di una scuola diretta a fini speciali, rilasciati al compimento di un ciclo di studi della durata minima di tre anni".
- - Il [comma 2 dell'art. 1 del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_1-com2) (Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2)), e' cosi' formulato:
+ - Il [comma 2 dell'art. 1 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) (Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)), e' cosi' formulato:
  "2. Per amministrazioni pubbliche si intendono tutte le amministrazioni dello Stato, ivi compresi gli istituti e scuole di ogni ordine e grado e le istituzioni educative, le aziende ed amministrazioni dello Stato ad ordinamento autonomo, le regioni, le province, i comuni, le comunita' montane, e loro consorzi ed associazioni, le istituzioni universitarie, gli istituti autonomi case popolari, le camere di commercio, industria, artigianato e agricoltura e loro associazioni, tutti gli enti pubblici non economici nazionali, regionali e locali, le amministrazioni, le aziende e gli enti del Servizio sanitario nazionale".
 
 ### Art. 6. — Contributo per la tenuta del registro del tirocinio
@@ -172,21 +172,21 @@ Per la tenuta del registro del tirocinio e' a carico del tirocinante un contribu
 
 2.
 
-Il contributo di cui al comma 1 e' versato con le modalita' indicate all'[articolo 8 della legge 13 maggio 1997, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-13;132#art_8).
+Il contributo di cui al comma 1 e' versato con le modalita' indicate all'[articolo 8 della legge 13 maggio 1997, n. 132](Nuove%20norme%20in%20materia%20di%20revisori%20contabili.md).
 
 3.
 
 L'ammontare del contributo di cui al comma 1 puo' essere aggiornato ogni tre anni con decreto del Ministro di grazia e giustizia, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, nella misura necessaria alla copertura delle spese per la tenuta del registro.
 
-Nota all'[art. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-13;132#art_6):
- - L'[art. 8 della legge 13 maggio 1997, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-13;132#art_8), (Nuove norme in materia di revisori contabili), cosi' recita:
+Nota all'[art. 6](Nuove%20norme%20in%20materia%20di%20revisori%20contabili.md):
+ - L'[art. 8 della legge 13 maggio 1997, n. 132](Nuove%20norme%20in%20materia%20di%20revisori%20contabili.md), (Nuove norme in materia di revisori contabili), cosi' recita:
  "Art. 8 (Contributo obbligatorio). - 1. Per garantire il fabbisogno finanziario relativo ad ogni attivita' preordinata a consentire l'iscrizione nel registro dei revisori contabili, nonche' alla sua tenuta ed alla vigilanza sui revisori iscritti nello stesso, con decorrenza dal 1 gennaio 1996 e' dovuto da ogni iscritto nel registro il contributo annuo di lire cinquantamila da pagarsi entro il 31 gennaio mediante versamento sul conto corrente postale intestato alla competente sezione di tesoreria provinciale dello Stato con imputazione all'apposito capitolo 3525 dell'entrata del bilancio dello Stato, capo XI. La relativa attestazione di versamento deve essere inviata al Ministero di grazia e giustizia entro i tre mesi successivi al 31 gennaio.
  2. Per l'anno 1996 il contributo dovra' essere versato entro novanta giorni dalla data di entrata in vigore della presente legge.
  3. L'ammontare del contenuto puo' essere aggiornato, con decreto del Ministro di grazia e giustizia, nella misura necessaria alla copertura delle spese relative alle attivita' di cui al comma 1; l'aggiornamento avra' vigore dall'anno successivo a quello della pubblicazione del relativo decreto nella Gazzetta Ufficiale.
  4. Nel caso di omesso pagamento del contributo, il direttore generale della Direzione generale degli affari civili e delle libere professioni del Ministero di grazia e giustizia, decorsi tre mesi dalla scadenza prevista per il pagamento, dispone la sospensione dal registro dei revisori contabili, previo esperimento della procedura di cui all'art. 9 del decreto legislativo 27 gennaio 1992, n . 88.
- 5. In caso di perdurante omesso versamento dell'obbligo contributivo, decorsi sei mei dalla sospensione di cui al comma 4, e' disposta la cancellazione dal registro dei revisori contabili con decreto del Ministro di grazia e giustizia, da emanarsi nelle forme di cui all'[art. 7, comma 3, del decreto del Presidente della Repubblica 20 novembre 1992, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-11-20;474#art_7-com3).
+ 5. In caso di perdurante omesso versamento dell'obbligo contributivo, decorsi sei mei dalla sospensione di cui al comma 4, e' disposta la cancellazione dal registro dei revisori contabili con decreto del Ministro di grazia e giustizia, da emanarsi nelle forme di cui all'[art. 7, comma 3, del decreto del Presidente della Repubblica 20 novembre 1992, n. 474](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20iscrizione%20nel%20registro%20dei%20revisori%20contabili%20in%20attuazione%20degli%20articoli%2011%20e%2012%20del%20decreto%20legislativo%2027%20gennaio%201992%20n.%2088.md).
  6. Non sono ripetibili, se non richieste entro sessanta giorni dalla data di entrata in vigore della presente legge, le somme corrisposte a titolo di contributo sui compensi ai revisori contabili.
- 7. E' abrogato il [regio decreto 19 giugno 1940, n. 894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-19;894)".
+ 7. E' abrogato il [regio decreto 19 giugno 1940, n. 894](Determinazione%20del%20contributo%20annuo%20a%20carico%20dei%20revisori%20ufficiali%20dei%20conti.%20040U0894.md)".
 
 ### Art. 7. — Domanda di iscrizione
 
@@ -212,7 +212,7 @@ Nella domanda il richiedente dichiara:
 
 3.
 
-La sottoscrizione in calce alla domanda e' autenticata ai sensi dell'[articolo 20 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_20). In caso di presentazione diretta presso il Ministero di grazia e giustizia e' sufficiente la sottoscrizione ai sensi dell'[articolo 3, comma 11, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_3-com11). Se il tirocinante e' un pubblico dipendente e' sufficiente il visto del capo dell'ufficio presso il quale il medesimo presta servizio. La commissione ha facolta' di verificare, presso le pubbliche amministrazioni interessate, la veridicita' delle dichiarazioni contenute nella domanda. In caso di falsa dichiarazione si applicano le disposizioni di cui all'[articolo 26 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_26).
+La sottoscrizione in calce alla domanda e' autenticata ai sensi dell'[articolo 20 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md). In caso di presentazione diretta presso il Ministero di grazia e giustizia e' sufficiente la sottoscrizione ai sensi dell'[articolo 3, comma 11, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_3-com11). Se il tirocinante e' un pubblico dipendente e' sufficiente il visto del capo dell'ufficio presso il quale il medesimo presta servizio. La commissione ha facolta' di verificare, presso le pubbliche amministrazioni interessate, la veridicita' delle dichiarazioni contenute nella domanda. In caso di falsa dichiarazione si applicano le disposizioni di cui all'[articolo 26 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
 
 4.
 
@@ -228,15 +228,15 @@ Note all'art. 7:
  - Il comma 2, lettera a), dell'art. 3 del citato [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), prevede che:
  "2. Per l'ammissione all'esame e' necessario:
  a) aver conseguito in materie economiche, aziendali o giuridiche un diploma di laurea ovvero un diploma universitario o un diploma di una scuola diretta a fini speciali, rilasciati al compimento di un ciclo di studi della durata minima di tre anni".
- - L'[art. 20 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_20) (Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme), cosi' recita:
+ - L'[art. 20 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) (Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme), cosi' recita:
  "Art. 20 (Autenticazione delle sottoscrizioni). - La sottoscrizione di istanze da produrre agli organi della pubblica amministrazione puo' essere autenticata, ove l'autenticazione sia prescritta, dal funzionario competente a ricevere la documentazione, o da un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco.
  L'autenticazione deve essere redatta di seguito alla sottoscrizione e consiste nell'attestazione, da parte del pubblico ufficiale, che la sottoscrizione stessa e' stata apposta in sua presenza, previo accertamento dell'identita' della persona che sottoscrive.
  Il pubblico ufficiale che autentica deve indicare le modalita' di identificazione, la data e il luogo della autenticazione, il proprio nome e cognome, la qualifica rivestita, nonche' apporre la propria firma per esteso ed il timbro dell'ufficio.
  Per l'autenticazione delle firme apposte sui margini dei fogli intermedi e' sufficiente che il pubblico ufficiale aggiunga la propria firma".
  - Il [comma 11 dell'art. 3 della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_3-com11) (Misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo) dispone che:
  "11. La sottoscrizione, in presenza del dipendente addetto, di istanze da produrre agli organi della amministrazione pubblica ed ai gestori o esercenti di pubblici servizi, non e' soggetta ad autenticazione".
- - L'art. 26 della citata [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), e' cosi' formulato:
- "Art. 26 (Sanzioni penali). - Le dichiarazioni mendaci, la falsita' negli atti e l'uso di atti falsi nei casi previsti dalla presente legge sono puniti ai sensi del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e delle leggi speciali in materia.
+ - L'art. 26 della citata [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), e' cosi' formulato:
+ "Art. 26 (Sanzioni penali). - Le dichiarazioni mendaci, la falsita' negli atti e l'uso di atti falsi nei casi previsti dalla presente legge sono puniti ai sensi del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia.
  A tali effetti, l'esibizione di un atto contenente dati non piu' rispondenti a verita' equivale a uso di atto falso e le dichiarazioni rese ai sensi dei precedenti articoli 2, 3, 4, 8 e autenticate a norma dell'articolo 20 sono considerate come fatte a pubblico ufficiale.
  Inoltre, ove i reati indicati nei precedenti commi siano commessi per ottenere la nomina ad un pubblico ufficio o l'autorizzazione all'esercizio di una professione o arte, il giudice, nei casi piu' gravi puo' applicare l'interdizione temporanea dai pubblici uffici o dalla professione o arte.
  Il pubblico ufficiale che autentica le sottoscrizioni o al quale sono esibiti gli atti ammonisce chi sottoscrive la dichiarazione o esibisce l'atto sulla responsabilita' penale cui puo' andare incontro in caso di dichiarazione mendace o di esibizione di atto falso o contenente dati non piu' rispondenti a verita'.
@@ -278,7 +278,7 @@ Il dipendente pubblico che intende svolgere il tirocinio, fa istanza all'ente di
 
 4.
 
-Il dipendente pubblico fa altresi' istanza ad una delle pubbliche amministrazioni indicate nell'[articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_1-com2), la quale provvede a designare il proprio dipendente abilitato al controllo legale dei conti di cui al comma 2.
+Il dipendente pubblico fa altresi' istanza ad una delle pubbliche amministrazioni indicate nell'[articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), la quale provvede a designare il proprio dipendente abilitato al controllo legale dei conti di cui al comma 2.
 
 5.
 
@@ -296,8 +296,8 @@ La relazione di cui al comma 5 e' asseverata dal soggetto presso il quale e' sta
 
 L'obbligo della relazione, con le modalita' indicate nei commi 5 e 6, sussiste anche nel corso dell'anno, in caso di trasferimento del tirocinante presso altro revisore contabile o funzionario pubblico.
 
-Nota all'[art. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_10):
- - Il [comma 2 dell'art. 1 del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_1-com2) (Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2)), e' cosi' formulato:
+Nota all'[art. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md):
+ - Il [comma 2 dell'art. 1 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) (Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)), e' cosi' formulato:
  "2. Per amministrazioni pubbliche si intendono tutte le amministrazioni dello Stato, ivi compresi gli istituti e scuole di ogni ordine e grado e le istituzioni educative, le aziende ed amministrazioni dello Stato ad ordinamento autonomo, le regioni, le province, i comuni, le comunita' montane, e loro consorzi ed associazioni, le istituzioni universitarie, gli istituti autonomi case popolari, le camere di commercio, industria, artigianato e agricoltura e loro associazioni, tutti gli enti pubblici non economici nazionali, regionali e locali, le amministrazioni, le aziende e gli enti del Servizio sanitario nazionale".
 
 ### Art. 11. — Completamento del tirocinio presso altro revisore
@@ -340,7 +340,7 @@ Nota all'[art. 12](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20dell
  - L'[art. 8 del D.Lgs. 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' cosi' formulato:
  "Art. 8 (Onorabilita'). - 1. Non possono essere iscritti nel registro coloro che:
  a) si trovano in stato di interdizione temporanea o di sospensione dagli uffici direttivi delle persone giuridiche e delle imprese;
- b) sono stati sottoposti a misure di prevenzione ai sensi della [legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423) o della [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575) e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione;
+ b) sono stati sottoposti a misure di prevenzione ai sensi della [legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md) o della [legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md) e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione;
  c) hanno riportato condanna alla reclusione, anche se con pena condizionalmente sospesa, salvi gli effetti della riabilitazione:
  1) per uno dei delitti previsti dal [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267) (5);
  2) per uno dei delitti previsti dal titolo XI del Libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262);
@@ -520,21 +520,21 @@ Le spese per la sessione d'esami sono poste a carico del candidato nella forfeta
 
 2.
 
-La somma di cui al comma 1 e' versata con le modalita' indicate nell'[articolo 8 della legge 13 maggio 1997, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-13;132#art_8).
+La somma di cui al comma 1 e' versata con le modalita' indicate nell'[articolo 8 della legge 13 maggio 1997, n. 132](Nuove%20norme%20in%20materia%20di%20revisori%20contabili.md).
 
 3.
 
 L'ammontare dell'importo indicato al comma 1 puo' essere aggiornato con decreto del Ministro di grazia e giustizia, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, nella misura necessaria alla copertura delle spese indicate.
 
 Nota all'art. 18:
- - L'art. 8 della citata [legge 13 maggio 1997, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-13;132), cosi' recita:
+ - L'art. 8 della citata [legge 13 maggio 1997, n. 132](Nuove%20norme%20in%20materia%20di%20revisori%20contabili.md), cosi' recita:
  "Art. 8 (Contributo obbligatorio). - 1. Per garantire il fabbisogno finanziario relativo ad ogni attivita' preordinata a consentire l'iscrizione nel registro dei revisori contabili, nonche' alla sua tenuta ed alla vigilanza sui revisori iscritti nello stesso, con decorrenza dal 1 gennaio 1996 e' dovuto da ogni iscritto nel registro il contributo annuo di lire cinquantamila da pagarsi entro il 31 gennaio mediante versamento sul conto corrente postale intestato alla competente sezione di tesoreria provinciale dello Stato con imputazione all'apposito capitolo 3525 dell'entrata del bilancio dello Stato, capo XI. La relativa attestazione di versamento deve essere inviata al Ministero di grazia e giustizia entro i tre mesi successivi al 31 gennaio.
  2. Per l'anno 1996 il contributo dovra' essere versato entro novanta giorni dalla data di entrata in vigore della presente legge.
  3. L'ammontare del contributo puo' essere aggiornato, con decreto del Ministro di grazia e giustizia, nella misura necessaria alla copertura delle spese relative alle attivita' di cui al comma 1; l'aggiornamento avra' vigore dall'anno successivo a quello della pubblicazione del relativo decreto nella Gazzetta Ufficiale.
  4. Nel caso di omesso pagamento del contributo, il direttore generale della Direzione generale degli affari civili e delle libere professioni del Ministero di grazia e giustizia, decorsi tre mesi dalla scadenza prevista per il pagamento, dispone la sospensione dal registro dei revisori contabili, previo esperimento della procedura di cui all'[articolo 9 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md).
- 5. In caso di perdurante omesso versamento dell'obbligo contributivo, decorsi sei mesi dalla sospensione di cui al comma 4, e' disposta la cancellazione dal registro dei revisori contabili con decreto del Ministro di grazia e giustizia, da emanarsi nelle forme di cui all'[art. 7, comma 3, del decreto del Presidente della Repubblica 20 novembre 1992, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-11-20;474#art_7-com3).
+ 5. In caso di perdurante omesso versamento dell'obbligo contributivo, decorsi sei mesi dalla sospensione di cui al comma 4, e' disposta la cancellazione dal registro dei revisori contabili con decreto del Ministro di grazia e giustizia, da emanarsi nelle forme di cui all'[art. 7, comma 3, del decreto del Presidente della Repubblica 20 novembre 1992, n. 474](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20iscrizione%20nel%20registro%20dei%20revisori%20contabili%20in%20attuazione%20degli%20articoli%2011%20e%2012%20del%20decreto%20legislativo%2027%20gennaio%201992%20n.%2088.md).
  6. Non sono ripetibili, se non richieste entro sessanta giorni dalla data di entrata in vigore della presente legge, le somme corrisposte a titolo di contributo sui compensi ai revisori contabili.
- 7. E' abrogato il [regio decreto 19 giugno 1940, n. 894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-19;894)".
+ 7. E' abrogato il [regio decreto 19 giugno 1940, n. 894](Determinazione%20del%20contributo%20annuo%20a%20carico%20dei%20revisori%20ufficiali%20dei%20conti.%20040U0894.md)".
 
 ### Art. 19. — Materie delle prove di esame
 
@@ -748,7 +748,7 @@ Note all'[art. 25](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20dell
  - L'[art. 8 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' cosi' formulato:
  "Art. 8 (Onorabilita'). - 1. Non possono essere iscritti nel registro coloro che:
  a) si trovano in stato di interdizione temporanea o di sospensione dagli uffici direttivi delle persone giuridiche e delle imprese;
- b) sono stati sottoposti a misure di prevenzione ai sensi della [legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423) o della [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575) e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione;
+ b) sono stati sottoposti a misure di prevenzione ai sensi della [legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md) o della [legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md) e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione;
  c) hanno riportato condanna alla reclusione, anche se con pena condizionalmente sospesa, salvi gli effetti della riabilitazione:
  1) per uno dei delitti previsti dal [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267);
  2) per uno dei delitti previsti dal titolo XI del Libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262);
@@ -765,7 +765,7 @@ Note all'[art. 25](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20dell
  e) nelle societa' regolate nei capi V e VI del titolo V del libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), azioni nominative e non trasferibili mediante girata.
  2. Per le societa' semplici si osservano le modalita' di pubblicita' previste dall'[art. 2296 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2296).
  3. Per le societa' iscritte nell'albo previsto dal [decreto del Presidente della Repubblica 31 marzo 1975, n. 136](Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md) non e' richiesta l'iscrizione nel registro".
- - L'art. 20 della citata [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), prevede che:
+ - L'art. 20 della citata [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), prevede che:
  "Art. 20 (Autenticazione delle sottoscrizioni). - La sottoscrizione di istanze da produrre agli organi della pubblica amministrazione puo' essere autenticata, ove l'autenticazione sia prescritta, dal funzionario competente a ricevere la documentazione, o da un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco.
  L'autenticazione deve essere redatta di seguito alla sottoscrizione e consiste nell'attestazione, da parte del pubblico ufficiale, che la sottoscrizione stessa e' stata apposta in sua presenza, previo accertamento dell'identita' della persona che sottoscrive.
  Il pubblico ufficiale che autentica deve indicare le modalita' di identificazione, la data e il luogo della autenticazione, il proprio nome e cognome, la qualifica rivestita, nonche' apporre la propria firma per esteso ed il timbro dell'ufficio.
@@ -809,14 +809,14 @@ Note all'art. 26:
  a) aver conseguito in materie economiche, aziendali o giuridiche un diploma di laurea ovvero un diploma universitario o un diploma di una scuola diretta a fini speciali, rilasciati al compimento di un ciclo di studi della durata minima di tre anni;
  b) aver svolto, presso un revisore contabile, un tirocinio triennale, avente ad oggetto il controllo di bilanci di esercizio e consolidati.
  3. I dipendenti dello Stato e degli enti pubblici svolgono il tirocinio della durata di tre anni presso un funzionario pubblico abilitato al controllo legale dei conti".
- - L'art. 5 del ripetuto [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), come modificato dalla [legge 13 maggio 1997, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-13;132), cosi' recita:
+ - L'art. 5 del ripetuto [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), come modificato dalla [legge 13 maggio 1997, n. 132](Nuove%20norme%20in%20materia%20di%20revisori%20contabili.md), cosi' recita:
  "Art. 5 (Esonero dall'esame per l'iscrizione nel registro). - 1. Sono esonerati dall'esame coloro che, in possesso dei requisiti previsti dall'art. 3, comma 2, hanno superato, per l'abilitazione all'esercizio di attivita' professionale, un esame di Stato teoricopratico avente ad oggetto le materie previste dall'art. 4.
  2. Sono altresi' esonerati dall'esame i dipendenti dello Stato e degli enti pubblici che, in possesso dei requisiti previsti dall'art. 3, comma 2, hanno superato, presso la Scuola superiore della pubblica amministrazione, un esame teoricopratico avente ad oggetto le materie previste dall'art. 4.
  2 -bis. L'esonero dall'esame puo' riguardare anche singole materie".
  - L'[art. 8 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), dispone che:
  "Art. 8 (Onorabilita'). - 1. Non possono essere iscritti nel registro coloro che:
  a) si trovano in stato di interdizione temporanea o di sospensione dagli uffici direttivi delle persone giuridiche e delle imprese;
- b) sono stati sottoposti a misure di prevenzione ai sensi della [legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423) o della [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575) e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione:
+ b) sono stati sottoposti a misure di prevenzione ai sensi della [legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md) o della [legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md) e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione:
  c) hanno riportato condanna alla reclusione, anche se con pena condizionalmente sospesa, salvi gli effetti della riabilitazione:
  1) per uno dei delitti previsti dal [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267);
  2) per uno dei delitti previsti dal titolo XI del Libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262);
@@ -832,7 +832,7 @@ La domanda di iscrizione delle societa', conforme alle prescrizioni di legge in 
                             a)
                                 copia autentica dell'atto costitutivo e dello statuto, con gli eventuali atti modificativi;
                             b)
-                                autodichiarazione, ai sensi degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_2) e [4 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_4), dei soggetti che rappresentano la societa' nel controllo legale dei conti, relativa ai dati ed ai requisiti indicati nell'articolo 25, comma 1, lettera h);
+                                autodichiarazione, ai sensi degli [articoli 2](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e [4 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), dei soggetti che rappresentano la societa' nel controllo legale dei conti, relativa ai dati ed ai requisiti indicati nell'articolo 25, comma 1, lettera h);
                             c)
                                 la ricevuta di pagamento del contributo di cui all'articolo 29.
 
@@ -845,16 +845,16 @@ Le domande spedite a mezzo raccomandata con avviso di ricevimento si considerano
 Il procuratore della Repubblica compie accertamenti, nei confronti degli amministratori della societa', in ordine alle situazioni indicate nell'[articolo 8 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), acquisendo, tra l'altro, il certificato del casellario giudiziale, il certificato dei carichi pendenti ed il certificato relativo alla sottoposizione a misure di prevenzione, e trasmette senza ritardo le domande con i documenti allegati alla commissione centrale per i revisori contabili presso il Ministero di grazia e giustizia.
 
 Note all'art. 27:
- - L'art. 2 della citata [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), cosi' recita:
+ - L'art. 2 della citata [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), cosi' recita:
  "Art. 2 (Dichiarazioni sostitutive di certificazioni). - La data ed il luogo di nascita, la residenza, la cittadinanza, il godimento dei diritti politici, lo stato di celibe, coniugato o vedovo, lo stato di famiglia, l'esistenza in vita, la nascita del figlio, il decesso del coniuge, dell'ascendente o discendente, la posizione agli effetti degli obblighi militari e l'iscrizione in albi o elenchi tenuti dalla p.a. sono comprovati con dichiarazioni, anche contestuali alla istanza; sottoscritte dall'interessato e prodotte in sostituzione delle normali certificazioni.
  La sottoscrizione delle dichiarazioni deve essere autenticata con le modalita' di cui all'art. 20".
- - L'art. 4 della ripetuta [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), e' cosi' formulato:
+ - L'art. 4 della ripetuta [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), e' cosi' formulato:
  "Art. 4 (Dichiarazione sostitutiva dell'atto di notorieta'). - L'atto di notorieta' concernente fatti, stati o qualita' personali che siano a diretta conoscenza dell'interessato e' sostituito da dichiarazione resa e sottoscritta dal medesimo dinanzi al funzionario competente a ricevere la documentazione, o dinanzi ad un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco, il quale provvede alla autenticazione della sottoscrizione con la osservanza delle modalita' di cui all'art. 20.
  Quando la dichiarazione sostitutiva dell'atto di notorieta' e' resa ad imprese di gestione di servizi pubblici, la sottoscrizione e' autenticata, con l'osservanza delle modalita' di cui all'art. 20, dal funzionario incaricato dal rappresentante legale dell'impresa stessa.
  - L'art. 8 del citato [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), e' cosi' formulato:
  "Art. 8 (Onorabilita'). - 1. Non possono essere iscritti nel registro coloro che:
  a) si trovano in stato di interdizione temporanea o di sospensione dagli uffici direttivi delle persone giuridiche e delle imprese;
- b) sono stati sottoposti a misure di prevenzione ai sensi della [legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423) o della [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575) e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione;
+ b) sono stati sottoposti a misure di prevenzione ai sensi della [legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md) o della [legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md) e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione;
  c) hanno riportato condanna alla reclusione, anche se con pena condizionalmente sospesa, salvi gli effetti della riabilitazione:
  1) per uno dei delitti previsti dal [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267);
  2) per uno dei delitti previsti dal titolo XI del Libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262);
@@ -882,14 +882,14 @@ Le domande spedite a mezzo raccomandata con avviso di ricevimento si considerano
 Il procuratore della Repubblica compie accertamenti in ordine alle situazioni indicate nell'articolo 8 del decreto legislativo citato, acquisendo, tra l'altro, il certificato del casellario giudiziale, il certificato dei carichi pendenti ed il certificato relativo alla sottoposizione a misure di prevenzione, e trasmette, senza ritardo, le domande con i documenti allegati alla commissione centrale per i revisori contabili presso il Ministero di grazia e giustizia.
 
 Note all'art. 28:
- - L'art. 5 del ripetuto [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), come modificato dalla [legge 13 maggio 1997, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-13;132), cosi' recita:
+ - L'art. 5 del ripetuto [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), come modificato dalla [legge 13 maggio 1997, n. 132](Nuove%20norme%20in%20materia%20di%20revisori%20contabili.md), cosi' recita:
  "Art. 5 (Esonero dall'esame per l'iscrizione nel registro). - 1. Sono esonerati dall'esame coloro che, in possesso dei requisiti previsti dall'art. 3, comma 2, hanno superato, per l'abilitazione all'esercizio di attivita' professionale, un esame di Stato teoricopratico avente ad oggetto le materie previste dall'art. 4.
  2. Sono altresi' esonerati dall'esame i dipendenti dello Stato e degli enti pubblici che, in possesso dei requisiti previsti dall'art. 3, comma 2, hanno superato, presso la Scuola superiore della pubblica amministrazione, un esame teoricopratico avente ad oggetto le materie previste dall'art. 4.
  2-bis. L'esonero dall'esame puo' riguardare anche singole materie".
  - L'art. 8 del decreto legislativo 27 gennaio 1992, n, 88, dispone che:
  "Art. 8 (Onorabilita'). - 1. Non possono essere iscritti nel registro coloro che:
  a) si trovano in stato di interdizione temporanea o di sospensione dagli uffici direttivi delle persone giuridiche e delle imprese;
- b) sono stati sottoposti a misure di prevenzione ai sensi della [legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423) o della [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575) e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione;
+ b) sono stati sottoposti a misure di prevenzione ai sensi della [legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md) o della [legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md) e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione;
  c) hanno riportato condanna alla reclusione, anche se con pena condizionalmente sospesa, salvi gli effetti della riabilitazione:
  1) per uno dei delitti previsti dal [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267);
  2) per uno dei delitti previsti dal titolo XI del Libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262);
@@ -905,21 +905,21 @@ E' posto a carico dell'aspirante revisore contabile un contributo forfetario all
 
 2.
 
-La somma e' versata con le modalita' di cui all'[articolo 8 della legge 13 maggio 1997, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-13;132#art_8).
+La somma e' versata con le modalita' di cui all'[articolo 8 della legge 13 maggio 1997, n. 132](Nuove%20norme%20in%20materia%20di%20revisori%20contabili.md).
 
 3.
 
 L'ammontare del contributo puo' essere aggiornato con decreto del Ministro di grazia e giustizia, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, nella misura necessaria alla copertura delle spese indicate.
 
 Nota all'art. 29:
- - L'art. 8 della ripetuta [legge 13 maggio 1997, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-13;132), dispone che:
+ - L'art. 8 della ripetuta [legge 13 maggio 1997, n. 132](Nuove%20norme%20in%20materia%20di%20revisori%20contabili.md), dispone che:
  "Art. 8 (Contributo obbligatorio). - 1. Per garantire il fabbisogno finanziario relativo ad ogni attivita' preordinata a consentire la iscrizione nel registro dei revisori contabili, nonche' alla sua tenuta ed alla vigilanza sui revisori iscritti nello stesso, con decorrenza dal 1 gennaio 1996 e' dovuto da ogni iscritto nel registro il contributo annuo di lire cinquantamila da pagarsi entro il 31 gennaio mediante versamento sul conto corrente postale intestato alla competente sezione di tesoreria provinciale dello Stato con imputazione all'apposito capitolo 3525 dell'entrata del bilancio dello Stato, capo XI. La relativa attestazione di versamento deve essere inviata al Ministero di grazia e giustizia entro i tre mesi successivi al 31 gennaio.
  2. Per l'anno 1996 il contributo dovra' essere versato entro novanta giorni dalla data di entrata in vigore della presente legge.
  3. L'ammontare del contributo puo' essere aggiornato, con decreto del Ministro di grazia e giustizia nella misura necessaria alla copertura delle spese relative alle attivita' di cui al comma 1; l'aggiornamento avra' vigore dall'anno successivo a quello della pubblicazione del relativo decreto nella Gazzetta Ufficiale.
  4. Nel caso di omesso pagamento del contributo, il direttore generale della Direzione generale degli affari civili e delle libere professioni del Ministero di grazia e giustizia, decorsi tre mesi dalla scadenza prevista per il pagamento, dispone la sospensione dal registro dei revisori contabili, previo esperimento della procedura di cui all'articolo 9 del decreto legislativo 27 gennaio l992, n. 88.
- 5. In caso di perdurante omesso versamento dell'obbligo contributivo, decorsi sei mei dalla sospensione di cui al comma 4, e' disposta la cancellazione dal registro dei revisori contabili con decreto del Ministro di grazia e giustizia, da emanarsi nelle forme di cui all'[art. 7, comma 3, del decreto del Presidente della Repubblica 20 novembre 1992, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-11-20;474#art_7-com3).
+ 5. In caso di perdurante omesso versamento dell'obbligo contributivo, decorsi sei mei dalla sospensione di cui al comma 4, e' disposta la cancellazione dal registro dei revisori contabili con decreto del Ministro di grazia e giustizia, da emanarsi nelle forme di cui all'[art. 7, comma 3, del decreto del Presidente della Repubblica 20 novembre 1992, n. 474](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20iscrizione%20nel%20registro%20dei%20revisori%20contabili%20in%20attuazione%20degli%20articoli%2011%20e%2012%20del%20decreto%20legislativo%2027%20gennaio%201992%20n.%2088.md).
  6. Non sono ripetibili, se non richieste entro sessanta giorni dalla data di entrata in vigore della presente legge, le somme corrisposte a titolo di contributo sui compensi ai revisori contabili.
- 7. E' abrogato il [regio decreto 19 giugno 1940, n. 894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-19;894)".
+ 7. E' abrogato il [regio decreto 19 giugno 1940, n. 894](Determinazione%20del%20contributo%20annuo%20a%20carico%20dei%20revisori%20ufficiali%20dei%20conti.%20040U0894.md)".
 
 ### Art. 30. — Esame delle domande e iscrizione
 
@@ -1098,15 +1098,15 @@ La cancellazione dal registro e', inoltre, disposta nelle seguenti ipotesi:
                             c)
                                 se l'iscritto compie attivita' di revisione contabile durante il periodo in cui e' stato sospeso;
                             d)
-                                se ricorre il caso indicato nell'[articolo 8, comma 5, della legge 13 maggio 1997, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-13;132#art_8-com5);
+                                se ricorre il caso indicato nell'[articolo 8, comma 5, della legge 13 maggio 1997, n. 132](Nuove%20norme%20in%20materia%20di%20revisori%20contabili.md);
                             e)
                                 se l'iscritto e' sospeso dal registro per piu' di due volte.
 
 Note all'art. 40:
  - Il testo vigente dell'[art. 2382 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2382) e' il seguente:
  "Art. 2382 (Cause d'ineleggibilita' e di decadenza). - Non puo' essere nominato amministratore e se nominato decade dal suo ufficio, l'interdetto, l'inabilitato, il fallito o chi e' stato condannato ad un pena che importa l'interdizione, anche temporanea, dai pubblici uffici o l'incapacita' ad esercitare uffici direttivi".
- - Il comma 5 dell'art. 8 della citata [legge 13 maggio 1997, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-13;132), cosi' recita:
- "5. In caso di perdurante omesso versamento dell'obbligo contributivo, decorsi sei mesi dalla sospensione di cui al comma 4, e' disposta la cancellazione dal registro dei revisori contabili con decreto del Ministro di grazia e giustizia, da emanarsi nelle forme di cui all'[art. 7, comma 3, del decreto del Presidente della Repubblica 20 novembre 1992, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-11-20;474#art_7-com3)".
+ - Il comma 5 dell'art. 8 della citata [legge 13 maggio 1997, n. 132](Nuove%20norme%20in%20materia%20di%20revisori%20contabili.md), cosi' recita:
+ "5. In caso di perdurante omesso versamento dell'obbligo contributivo, decorsi sei mesi dalla sospensione di cui al comma 4, e' disposta la cancellazione dal registro dei revisori contabili con decreto del Ministro di grazia e giustizia, da emanarsi nelle forme di cui all'[art. 7, comma 3, del decreto del Presidente della Repubblica 20 novembre 1992, n. 474](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20iscrizione%20nel%20registro%20dei%20revisori%20contabili%20in%20attuazione%20degli%20articoli%2011%20e%2012%20del%20decreto%20legislativo%2027%20gennaio%201992%20n.%2088.md)".
 
 ### Art. 41. — Provvedimenti sanzionatori - Comunicazioni
 
@@ -1119,7 +1119,7 @@ Tutti i provvedimenti sanzionatori sono assunti con decreto motivato del diretto
 Il provvedimento di cancellazione e', altresi', comunicato alla Commissione nazionale per le societa' e la borsa, ai sensi dell'[articolo 11, comma 5, del decreto del Presidente della Repubblica 31 marzo 1975, n. 136](Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md).
 
 Nota all'[art. 41](Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md):
- Il [comma 5 dell'art. 11 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136](Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md) (Attuazione della delega di cui all'[art. 2, lettera a), della legge 7 giugno 1974, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-07;216#art_2-leta), concernente il controllo contabile e la certificazione dei bilanci delle societa' per azioni quotate in borsa), e' il seguente:
+ Il [comma 5 dell'art. 11 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136](Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md) (Attuazione della delega di cui all'[art. 2, lettera a), della legge 7 giugno 1974, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20aprile%201974%20n.%2095%20recante%20disposizioni%20relative%20al%20mercato%20mobiliare%20ed%20al%20trattamento%20fiscale%20dei%20titoli%20azionari.md), concernente il controllo contabile e la certificazione dei bilanci delle societa' per azioni quotate in borsa), e' il seguente:
  "5. Il Ministero di grazia e giustizia comunica alla Commissione i provvedimenti adottati nei confronti dei soggetti iscritti nel registro dei revisori contabili".
 
 ## Disposizioni transitorie e finali
@@ -1137,10 +1137,10 @@ Ai fini del presente regolamento, nel computo dell'anzianita' di iscrizione nel 
 
 1.
 
-Il periodo di tirocinio svolto precedentemente all'emanazione del presente regolamento puo' essere documentato attraverso un attestato rilasciato dal soggetto presso cui il tirocinio e' stato svolto, con sottoscrizione autenticata ai sensi dell'[articolo 20 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_20). Di tale periodo si tiene conto nel computo del triennio di cui all'articolo 9, comma 1.
+Il periodo di tirocinio svolto precedentemente all'emanazione del presente regolamento puo' essere documentato attraverso un attestato rilasciato dal soggetto presso cui il tirocinio e' stato svolto, con sottoscrizione autenticata ai sensi dell'[articolo 20 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md). Di tale periodo si tiene conto nel computo del triennio di cui all'articolo 9, comma 1.
 
-Nota all'[art. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_43):
- - L'[art. 20 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_20), prevede che:
+Nota all'[art. 43](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md):
+ - L'[art. 20 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), prevede che:
  "Art. 20 (Autenticazione delle sottoscrizioni). - La sottoscrizione di istanze da produrre agli organi della pubblica amministrazione puo' essere autenticata, ove l'autenticazione sia prescritta, dal funzionario competente a ricevere la documentazione, o da un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco.
  L'autenticazione deve essere redatta di seguito alla sottoscrizione e consiste nell'attestazione, da parte del pubblico ufficiale, che la sottoscrizione stessa e' stata apposta in sua presenza, previo accertamento dell'identita' della persona che sottoscrive.
  Il pubblico ufficiale che autentica deve indicare le modalita' di identificazione, la data e il luogo della autenticazione, il proprio nome e cognome, la qualifica rivestita, nonche' apporre la propria firma per esteso ed il timbro dell'ufficio.
@@ -1152,7 +1152,7 @@ Nota all'[art. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:19
 
 1.
 
-Ai fini dell'iscrizione nel registro, la commissione centrale esamina anche le domande presentate precedentemente all'entrata in vigore del presente regolamento, nonche' quelle presentate dagli iscritti nell'elenco allegato di cui all'[articolo 11, comma 3, del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), ai sensi del [decreto del Presidente della Repubblica 20 novembre 1992, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-11-20;474).
+Ai fini dell'iscrizione nel registro, la commissione centrale esamina anche le domande presentate precedentemente all'entrata in vigore del presente regolamento, nonche' quelle presentate dagli iscritti nell'elenco allegato di cui all'[articolo 11, comma 3, del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), ai sensi del [decreto del Presidente della Repubblica 20 novembre 1992, n. 474](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20iscrizione%20nel%20registro%20dei%20revisori%20contabili%20in%20attuazione%20degli%20articoli%2011%20e%2012%20del%20decreto%20legislativo%2027%20gennaio%201992%20n.%2088.md).
 
 2.
 
@@ -1160,7 +1160,7 @@ I soggetti gia' iscritti nel registro dei revisori contabili devono dichiarare e
 
 Nota all'art. 44:
  - Il comma 3 dell'art. 11, del citato [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), e' cosi' formulato:
- "3. Coloro che restano in carica nei collegi sindacali ai sensi dell'art. 27 del presente decreto sono iscritti in un elenco allegato al registro e, successivamente, sono iscritti nel registro dei revisori contabili, purche', fermi restando gli altri requisiti previsti dal comma 2, risultino, per effetto della permanenza nella carica, avere svolto le funzioni di sindaco per il periodo indicato dall'[art. 12, R.D.L. 24 luglio 1936, n. 1548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-07-24;1548#art_12), o dalle lettere b) e c) del comma 2 del presente articolo.
+ "3. Coloro che restano in carica nei collegi sindacali ai sensi dell'art. 27 del presente decreto sono iscritti in un elenco allegato al registro e, successivamente, sono iscritti nel registro dei revisori contabili, purche', fermi restando gli altri requisiti previsti dal comma 2, risultino, per effetto della permanenza nella carica, avere svolto le funzioni di sindaco per il periodo indicato dall'[art. 12, R.D.L. 24 luglio 1936, n. 1548](Disposizioni%20relative%20ai%20sindaci%20dello%20societa%20commerciali.%20036U1548.md), o dalle lettere b) e c) del comma 2 del presente articolo.
  Le modalita' per l'iscrizione nell'elenco e, successivamente, nel registro sono disciplinate dal regolamento previsto dall'art. 14".
 
 ### Art. 45. — Sospensione dal registro
@@ -1177,10 +1177,10 @@ Ai fini dell'accertamento dei fatti che compromettono gravemente l'idoneita' al 
 
 1.
 
-A decorrere dalla data di entrata in vigore del presente regolamento e' abrogato il [decreto del Presidente della Repubblica 21 gennaio 1997, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-01-21;23).
+A decorrere dalla data di entrata in vigore del presente regolamento e' abrogato il [decreto del Presidente della Repubblica 21 gennaio 1997, n. 23](../DPR/Regolamento%20concernente%20liscrizione%20delle%20societa%20nel%20registro%20dei%20revisori%20contabili.md).
 
 Nota all'[art. 46:
- - Il D.P.R. 21 gennaio 1997, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-01-21;23#art_46) reca: "Regolamento concernente l'iscrizione delle societa' nel registro dei revisori contabili".
+ - Il D.P.R. 21 gennaio 1997, n. 23](../DPR/Regolamento%20concernente%20liscrizione%20delle%20societa%20nel%20registro%20dei%20revisori%20contabili.md) reca: "Regolamento concernente l'iscrizione delle societa' nel registro dei revisori contabili".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto-legge 28 giugno 2005, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-06-28;112), convertito dalla [legge 31 luglio 2005, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-07-31;158), recante disposizioni urgenti per la partecipazione italiana alla missione internazionale in Iraq;
+Visto il [decreto-legge 28 giugno 2005, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-06-28;112), convertito dalla [legge 31 luglio 2005, n. 158](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2028%20giugno%202005%20n.%20112%20recante%20disposizioni%20urgenti%20per%20la%20partecipazione%20italiana%20alla%20missione%20internazionale%20in%20Iraq.md), recante disposizioni urgenti per la partecipazione italiana alla missione internazionale in Iraq;
 
 Vista la risoluzione del Consiglio di Sicurezza delle Nazioni Unite n. 1637 dell'8 novembre 2005 sulla situazione in Iraq;
 
@@ -35,11 +35,11 @@ Capo I
 
 1.
 
-E' autorizzata, fino al 30 giugno 2006, la spesa di euro 22.928.310 per la prosecuzione della missione umanitaria, di stabilizzazione e di ricostruzione in Iraq, di cui all'[articolo 1 del decreto-legge 28 giugno 2005, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-06-28;112#art_1), convertito, con modificazioni, dalla [legge 31 luglio 2005, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-07-31;158), al fine di fornire sostegno al Governo provvisorio iracheno nella ricostruzione e nell'assistenza alla popolazione.
+E' autorizzata, fino al 30 giugno 2006, la spesa di euro 22.928.310 per la prosecuzione della missione umanitaria, di stabilizzazione e di ricostruzione in Iraq, di cui all'[articolo 1 del decreto-legge 28 giugno 2005, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-06-28;112#art_1), convertito, con modificazioni, dalla [legge 31 luglio 2005, n. 158](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2028%20giugno%202005%20n.%20112%20recante%20disposizioni%20urgenti%20per%20la%20partecipazione%20italiana%20alla%20missione%20internazionale%20in%20Iraq.md), al fine di fornire sostegno al Governo provvisorio iracheno nella ricostruzione e nell'assistenza alla popolazione.
 
 2.
 
-Nell'ambito degli obiettivi e delle finalita' individuati nella Risoluzione delle Nazioni Unite n. 1546 dell'8 giugno 2004, le attivita' operative della missione sono finalizzate, oltre che ai settori di cui all'[articolo 1, comma 2, del decreto-legge 10 luglio 2003, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_1-com2), convertito, con modificazioni, dalla [legge 1° agosto 2003, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;219), e, in particolare, alla prosecuzione dei relativi interventi, anche alla realizzazione di iniziative concordate con il governo iracheno e destinate, tra l'altro:
+Nell'ambito degli obiettivi e delle finalita' individuati nella Risoluzione delle Nazioni Unite n. 1546 dell'8 giugno 2004, le attivita' operative della missione sono finalizzate, oltre che ai settori di cui all'[articolo 1, comma 2, del decreto-legge 10 luglio 2003, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_1-com2), convertito, con modificazioni, dalla [legge 1° agosto 2003, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%202003%20n.%20165%20recante%20interventi%20urgenti%20a%20favore%20della%20popolazione%20irachena.md), e, in particolare, alla prosecuzione dei relativi interventi, anche alla realizzazione di iniziative concordate con il governo iracheno e destinate, tra l'altro:
                             a)
                                 al sostegno dello sviluppo socio-sanitario in favore delle fasce piu' deboli della popolazione;
                             b)
@@ -65,7 +65,7 @@ Al capo della rappresentanza diplomatica italiana a Baghdad e' affidata la direz
 
 1.
 
-Per quanto non diversamente previsto, alla missione di cui al presente capo si applicano l'[articolo 2, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_2-com2), l'[articolo 3, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com3), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com5) e [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com6), e l'[articolo 4, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_4-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_4-com2) e [3-bis, del decreto-legge 10 luglio 2003, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_4-com3bis), convertito, con modificazioni, dalla [legge 1° agosto 2003, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;219).
+Per quanto non diversamente previsto, alla missione di cui al presente capo si applicano l'[articolo 2, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_2-com2), l'[articolo 3, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com3), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com5) e [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com6), e l'[articolo 4, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_4-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_4-com2) e [3-bis, del decreto-legge 10 luglio 2003, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_4-com3bis), convertito, con modificazioni, dalla [legge 1° agosto 2003, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%202003%20n.%20165%20recante%20interventi%20urgenti%20a%20favore%20della%20popolazione%20irachena.md).
 
 2.
 
@@ -91,7 +91,7 @@ alla missione internazionale in Iraq
 
 1.
 
-E' autorizzata, fino al 30 giugno 2006, la spesa di euro 189.965.418 per la proroga della partecipazione di personale militare alla missione internazionale in Iraq, di cui all'[articolo 4, comma 1, del decreto-legge 19 gennaio 2005, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-01-19;3#art_4-com1), convertito, con modificazioni, dalla [legge 18 marzo 2005, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-18;37).
+E' autorizzata, fino al 30 giugno 2006, la spesa di euro 189.965.418 per la proroga della partecipazione di personale militare alla missione internazionale in Iraq, di cui all'[articolo 4, comma 1, del decreto-legge 19 gennaio 2005, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-01-19;3#art_4-com1), convertito, con modificazioni, dalla [legge 18 marzo 2005, n. 37](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20gennaio%202005%20n.%203%20recante%20proroga%20della%20partecipazione%20italiana%20a%20missioni%20internazionali.md).
 
 2.
 
@@ -105,7 +105,7 @@ E' autorizzata, fino al 30 giugno 2006, la spesa di euro 541.297 per la partecip
 
 1.
 
-Al personale dell'Arma dei carabinieri impiegato in Iraq, nell'ambito della missione di cui all'articolo 1, per il servizio di protezione e sicurezza dell'Ambasciata d'Italia e del Consolato generale e' attribuito il trattamento assicurativo previsto dall'[articolo 3 del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_3), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-02-27;15).
+Al personale dell'Arma dei carabinieri impiegato in Iraq, nell'ambito della missione di cui all'articolo 1, per il servizio di protezione e sicurezza dell'Ambasciata d'Italia e del Consolato generale e' attribuito il trattamento assicurativo previsto dall'[articolo 3 del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_3), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20451%20recante%20disposizioni%20urgenti%20per%20la%20proroga%20della%20partecipazione%20italiana%20ad%20operazioni%20militari%20internazionali.md).
 Per la finalita' di cui al presente articolo e' autorizzata, per l'anno 2006, la spesa di euro 8.605.
 
 ### Art. 7. — Indennita' di missione
@@ -133,7 +133,7 @@ I periodi di comando, di attribuzioni specifiche, di servizio e di imbarco svolt
 
 1.
 
-Al personale militare impiegato nella missione di cui all'articolo 5 si applicano il [codice penale militare di guerra e l'articolo 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:relazione.e.regio.decreto:1941-02-20;303#art_9) del [decreto-legge 1° dicembre 2001, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-01;421), convertito, con modificazioni, dalla [legge 31 gennaio 2002, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-01-31;6).
+Al personale militare impiegato nella missione di cui all'articolo 5 si applicano il [codice penale militare di guerra e l'articolo 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:relazione.e.regio.decreto:1941-02-20;303#art_9) del [decreto-legge 1° dicembre 2001, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-01;421), convertito, con modificazioni, dalla [legge 31 gennaio 2002, n. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%202001%20n.%20421%20recante%20disposizioni%20urgenti%20per%20la%20partecipazione%20di%20personale%20militare%20alloperazione%20multinazionale%20denom_06c344f957a1.md).
 
 2.
 
@@ -147,13 +147,13 @@ Per i reati di cui al comma 2 la competenza territoriale e' del Tribunale di Rom
 
 1.
 
-Le disposizioni in materia contabile previste dall'[articolo 8, comma 2, del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_8-com2), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-02-27;15), sono estese alle acquisizioni di materiali d'armamento e di equipaggiamenti individuali e si applicano entro il limite complessivo di euro 50.000.000 a valere sullo stanziamento di cui all'articolo 12.
+Le disposizioni in materia contabile previste dall'[articolo 8, comma 2, del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_8-com2), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20451%20recante%20disposizioni%20urgenti%20per%20la%20proroga%20della%20partecipazione%20italiana%20ad%20operazioni%20militari%20internazionali.md), sono estese alle acquisizioni di materiali d'armamento e di equipaggiamenti individuali e si applicano entro il limite complessivo di euro 50.000.000 a valere sullo stanziamento di cui all'articolo 12.
 
 ### Art. 11. — Rinvii normativi
 
 1.
 
-Per quanto non diversamente previsto dal presente decreto, alla missione internazionale di cui all'articolo 5 si applicano gli articoli 2, commi 2 e 3, 3, 4, 5, 7, 8, commi 1 e 2, 9 e 13 del [decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-02-27;15).
+Per quanto non diversamente previsto dal presente decreto, alla missione internazionale di cui all'articolo 5 si applicano gli articoli 2, commi 2 e 3, 3, 4, 5, 7, 8, commi 1 e 2, 9 e 13 del [decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20451%20recante%20disposizioni%20urgenti%20per%20la%20proroga%20della%20partecipazione%20italiana%20ad%20operazioni%20militari%20internazionali.md).
 
 ## Disposizioni finali
 
@@ -163,7 +163,7 @@ Capo III
 
 1.
 
-Agli oneri derivanti dall'attuazione del presente decreto, pari complessivamente a euro 217.633.525 per l'anno 2006, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa recata dall'[articolo 1, comma 97, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com97).
+Agli oneri derivanti dall'attuazione del presente decreto, pari complessivamente a euro 217.633.525 per l'anno 2006, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa recata dall'[articolo 1, comma 97, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md).
 
 2.
 

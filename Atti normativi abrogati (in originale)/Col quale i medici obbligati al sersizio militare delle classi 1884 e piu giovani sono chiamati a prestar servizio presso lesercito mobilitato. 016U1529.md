@@ -12,7 +12,7 @@ vigente: true
 
 Tutti i medici obbligati al servizio militare, delle classi 1884 e piu' giovani, sono, senza eccezione alcuna, chiamati a prestare servizio presso l'esercito mobilitato. 
  
- Sono quindi revocate tutte le dispense e le esonerazioni concessa ai medici delle suddette classi, in base al regolamento approvato con [R. decreto 13 aprile 1911, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-04-13;374), e al [decreto Luogotenenziale 21 aprile 1916, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-04-21;469).
+ Sono quindi revocate tutte le dispense e le esonerazioni concessa ai medici delle suddette classi, in base al regolamento approvato con [R. decreto 13 aprile 1911, n. 374](Che%20approva%20lannesso%20regolamento%20sulle%20dispense%20dalle%20chiamate%20alle%20armi%20dei%20militari%20in%20congedo%20illimitato%20che%20cuoprono%20determinali%20impieghi%20o%20si%20trovano%20in%20posizioni%20speciali.%20011U0374.md), e al [decreto Luogotenenziale 21 aprile 1916, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-04-21;469).
 
 ## Art. 2.
 

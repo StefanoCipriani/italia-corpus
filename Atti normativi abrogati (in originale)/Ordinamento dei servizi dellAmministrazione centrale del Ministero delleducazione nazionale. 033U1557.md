@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'[art. 3 del R. decreto 7 giugno 1926, n. 944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-07;944#art_3);
+Veduto l'[art. 3 del R. decreto 7 giugno 1926, n. 944](Provvedimenti%20per%20le%20biblioteche%20governative%20e%20lAmministrazione%20centrale%20della%20pubblica%20istruzione.%20026U0944.md);
 
-Veduto il [R. decreto 13 agosto 1926, n. 1432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-13;1432);
+Veduto il [R. decreto 13 agosto 1926, n. 1432](Composizione%20del%20Consiglio%20di%20amministrazione%20del%20Ministero%20della%20pubblica%20istruzione.%20026U1432.md);
 
 Veduto l'[art. 5 del R. decreto-legge 17 giugno 1928, n. 1314](Passaggio%20delle%20scuole%20e%20degli%20istituti%20distruzione%20tecnica%20professionale%20dalla%20dipendenza%20del%20Ministero%20delleconomia%20nazionale%20a%20quella%20del%20Ministero%20della%20pubblica%20istruzione.%20028U1314.md);
 
 Veduto l'[art. 1 del R. decreto-legge 2 dicembre 1928, n. 2644](Istituzione%20di%20un%20Ispettorato%20generale%20per%20gli%20istituti%20di%20educazione%20e%20per%20gli%20istituti%20pareggiati%20e%20privati%20di%20istruzione%20media%20classica%20scientifica%20e%20magistrale.%20028U2644.md);
 
-Veduto il [R. decreto 21 gennaio 1929, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-21;73);
+Veduto il [R. decreto 21 gennaio 1929, n. 73](Ordinamento%20dellAmministrazione%20centrale%20del%20Ministero%20della%20pubblica%20istruzione.%20029U0073.md);
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -58,7 +58,7 @@ Con decreto del Ministro per l'educazione nazionale sara' provveduto all'ordinam
 
 ## Art. 3.
 
-E' abrogato il [R. decreto 13 agosto 1926, n. 1432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-13;1432). 
+E' abrogato il [R. decreto 13 agosto 1926, n. 1432](Composizione%20del%20Consiglio%20di%20amministrazione%20del%20Ministero%20della%20pubblica%20istruzione.%20026U1432.md). 
  
  Le eventuali modificazioni all'ordinamento fissato dall'articolo 1 del presente decreto saranno disposte a norma dell'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md).
 

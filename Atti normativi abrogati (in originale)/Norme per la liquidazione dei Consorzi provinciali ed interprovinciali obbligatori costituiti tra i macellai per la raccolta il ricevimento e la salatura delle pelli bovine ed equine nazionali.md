@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 13 giugno 1940, n. 826](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-13;826), concernente la disciplina della raccolta, salatura e distribuzione delle pelli bovine ed equine;
+Vista la [legge 13 giugno 1940, n. 826](Disciplina%20della%20raccolta%20salatura%20e%20distribuzione%20delle%20pelli%20bovine%20ed%20equine.%20040U0826.md), concernente la disciplina della raccolta, salatura e distribuzione delle pelli bovine ed equine;
 
 Visto il [decreto legislativo Luogotenenziale 21 settembre 1944, n. 244](Disciplina%20del%20commercio%20delle%20pelli%20grezze%20e%20conciate.%20044U0244.md), riguardante la disciplina dei commercio delle pelli grezze e conciate;
 

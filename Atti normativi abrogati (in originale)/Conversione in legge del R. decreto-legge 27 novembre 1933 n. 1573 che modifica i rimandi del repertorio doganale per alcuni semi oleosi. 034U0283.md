@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1573), che modifica i rimandi del repertorio doganale per alcuni semi oleosi. 
+ E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1573](Modificazione%20dei%20rimandi%20del%20repertorio%20doganale%20per%20alcuni%20semi%20oleosi.%20033U1573.md), che modifica i rimandi del repertorio doganale per alcuni semi oleosi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

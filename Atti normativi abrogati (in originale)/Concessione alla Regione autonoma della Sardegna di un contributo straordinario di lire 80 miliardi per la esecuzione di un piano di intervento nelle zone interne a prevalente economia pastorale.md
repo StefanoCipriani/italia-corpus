@@ -16,12 +16,12 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-E' autorizzata la concessione alla Regione autonoma della Sardegna, ai sensi dell'ultimo alinea del primo comma dell'articolo 8 dello Statuto speciale approvato con [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3), del contributo straordinario di lire 80 miliardi per l'esecuzione di un piano di intervento nelle zone interne a prevalente economia pastorale.
+E' autorizzata la concessione alla Regione autonoma della Sardegna, ai sensi dell'ultimo alinea del primo comma dell'articolo 8 dello Statuto speciale approvato con [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md), del contributo straordinario di lire 80 miliardi per l'esecuzione di un piano di intervento nelle zone interne a prevalente economia pastorale.
 
 ## Art. 2.
 
-Il piano di cui all'articolo precedente deve tener conto, ai fini di armonizzazione o di integrazione, degli interventi sia ordinari che straordinari programmati dallo Stato o dalla Regione, deve essere finalizzato agli obiettivi di sviluppo indicati negli articoli da 255 a 291 del testo unico delle leggi sul Mezzogiorno, approvato con [decreto del Presidente della Repubblica 30 giugno 1967, n. 1523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-06-30;1523), e sara' approvato con legge regionale.
- A tal fine nelle zone di cui al precedente articolo 1 gli interventi dovranno essere disposti secondo gli indirizzi di cui all'articolo 268 del testo unico delle leggi sul Mezzogiorno, approvato con [decreto del Presidente della Repubblica 30 giugno 1967, n. 1523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-06-30;1523).
+Il piano di cui all'articolo precedente deve tener conto, ai fini di armonizzazione o di integrazione, degli interventi sia ordinari che straordinari programmati dallo Stato o dalla Regione, deve essere finalizzato agli obiettivi di sviluppo indicati negli articoli da 255 a 291 del testo unico delle leggi sul Mezzogiorno, approvato con [decreto del Presidente della Repubblica 30 giugno 1967, n. 1523](../DPR/Testo%20unico%20delle%20leggi%20sul%20Mezzogiorno.md), e sara' approvato con legge regionale.
+ A tal fine nelle zone di cui al precedente articolo 1 gli interventi dovranno essere disposti secondo gli indirizzi di cui all'articolo 268 del testo unico delle leggi sul Mezzogiorno, approvato con [decreto del Presidente della Repubblica 30 giugno 1967, n. 1523](../DPR/Testo%20unico%20delle%20leggi%20sul%20Mezzogiorno.md).
  All'attuazione del piano stesso provvedera' l'Amministrazione regionale.
 
 ## Art. 3.

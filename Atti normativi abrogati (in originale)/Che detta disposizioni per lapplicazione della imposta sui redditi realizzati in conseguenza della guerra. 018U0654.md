@@ -22,7 +22,7 @@ E' data facolta' ai possessori di redditi nuovi o maggiori realizzati dal 1° ge
 
 ## Art. 3.
 
-Il reddito ordinario ottenuto in applicazione dell'articolo 2 del presente decreto avra' anche efficacia di rivalutazione del reddito di ricchezza mobile per la tassazione normale dal 1° gennaio 1918 in poi, nei limiti stabiliti nell'art. 1° della [legge 2 maggio 1907, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-05-02;222).
+Il reddito ordinario ottenuto in applicazione dell'articolo 2 del presente decreto avra' anche efficacia di rivalutazione del reddito di ricchezza mobile per la tassazione normale dal 1° gennaio 1918 in poi, nei limiti stabiliti nell'art. 1° della [legge 2 maggio 1907, n. 222](Abolizione%20delle%20revisioni%20biennali%20dei%20redditi%20di%20ricchezza%20mobile%20ed%20altre%20modificazioni%20alla%20legge%20sulla%20imposta%20di%20ricchezza%20mobile.%20007U0222.md).
 
 ## Art. 4.
 

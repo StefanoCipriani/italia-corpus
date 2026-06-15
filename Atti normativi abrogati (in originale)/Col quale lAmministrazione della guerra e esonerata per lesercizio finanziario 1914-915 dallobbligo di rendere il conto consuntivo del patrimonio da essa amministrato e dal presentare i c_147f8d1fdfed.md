@@ -12,7 +12,7 @@ vigente: true
 
 Il ministro della guerra e' esonerato, per l'esercizio 1914-915, dall' obbligo, stabilito dell' art. 71 del testo unico delle leggi sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato, di rendere il conto consuntivo del patrimonio da esso amministrato. 
  
- E' del pari esonerato per lo stesso esercizio 1911-915, dal presentare i conti dei magazzini e depositi sottoposti al riscontro effettivo stabilito dalla [legge 11 luglio 1897, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-07-11;256). 
+ E' del pari esonerato per lo stesso esercizio 1911-915, dal presentare i conti dei magazzini e depositi sottoposti al riscontro effettivo stabilito dalla [legge 11 luglio 1897, n. 256](Concernente%20listituzione%20del%20riscontro%20effettivo%20sui%20magazzini%20e%20depositi%20di%20materie%20e%20di%20merci%20di%20proprieta%20dello%20Stato.%20097U0256.md). 
  
  I movimenti avvenuti nel patrimonio suddetto durante l'esercizio 1914-915 saranno dimostrati, insieme a quelli relativi all'esercizio 1915-916, nel conto consuntivo patrimoniale da rendere alla chiusura di quest'ultimo esercizio. 
  

@@ -18,7 +18,7 @@ Veduto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20po
 
 Veduta la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sulle espropriazioni per causa di pubblica utilita';
 
-Veduto l'art. 159 del testo unico delle leggi emanate in conseguenza del terremoto, approvato con [decreto Luogotenenziale 19 agosto 1917, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-19;1399). e convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Veduto l'art. 159 del testo unico delle leggi emanate in conseguenza del terremoto, approvato con [decreto Luogotenenziale 19 agosto 1917, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-19;1399). e convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Veduto il [R. decreto-legge 4 settembre 1924, n. 1356](Autorizzazione%20di%20spesa%20per%20costruzione%20di%20case%20nelle%20localita%20colpite%20dai%20terremoti%20ed%20istituzione%20di%20un%20Ispettorato%20generale%20di%20servizi%20speciali%20nel%20Ministero%20dei%20lavori%20pubblici.%20024U1356.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Articolo unico.
 
-I progetti delle opere pubbliche d'interesse locale nei Comuni danneggiati dal terremoto del 28 dicembre 1908, compresi nella tabella n. 1 allegata al testo unico approvato con [decreto Luogotenenziale 19 agosto 1917, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-19;1399), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sono approvati dal Ministero dell'interno quando la loro approvazione non sia demandata da leggi speciali ad altre autorita'. 
+I progetti delle opere pubbliche d'interesse locale nei Comuni danneggiati dal terremoto del 28 dicembre 1908, compresi nella tabella n. 1 allegata al testo unico approvato con [decreto Luogotenenziale 19 agosto 1917, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-19;1399), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), sono approvati dal Ministero dell'interno quando la loro approvazione non sia demandata da leggi speciali ad altre autorita'. 
  
  L'approvazione del progetto equivale a dichiarazione di pubblica utilita'. 
  

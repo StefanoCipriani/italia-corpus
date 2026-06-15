@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'[art. 7 del R. decreto 22 gennaio 1914, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-22;19#art_7), e la tabella allegata al Nostro decreto 2 gennaio 1918, n. 44 
  
- Visto il Nostro decreto 7 maggio 1916, n. 636, con il quale, per le speciali esigenze del Ministero delle colonie venne istituito nel ruolo organico dell'Amministrazione delle poste e telegrafi di cui alla tabella A approvata con la [legge 25 giugno 1911, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;575), un posto di ispettore superiore di 2ª classe od equiparato; 
+ Visto il Nostro decreto 7 maggio 1916, n. 636, con il quale, per le speciali esigenze del Ministero delle colonie venne istituito nel ruolo organico dell'Amministrazione delle poste e telegrafi di cui alla tabella A approvata con la [legge 25 giugno 1911, n. 575](Per%20i%20provvedimenti%20relativi%20agli%20anziani%20ed%20allelevazione%20dei%20minimi%20di%20stipendio%20del%20personale%20dipendente%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20011U0575.md), un posto di ispettore superiore di 2ª classe od equiparato; 
  
  Considerato che per effetto della tabella annessa al citato Nostro decreto 2 gennaio 1918 presso il Ministero delle colonie a decorrere dal 1° febbraio 1918, non puo' piu' mantenersi in servizio il funzionario avente grado di ispettore superiore od equiparato e che percio' accorra sopprimere il relativo posto; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- A decorrere dal 1° febbraio 1918 nel ruolo organico della Amministrazione delle poste e telegrafi di cui nella tabella A approvata con la [legge 25 giugno 1911, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;575), e' soppresso il posto di ispettore superiore di 2ª classe creato col Nostro decreto 7 maggio 1916, n. 636. 
+ A decorrere dal 1° febbraio 1918 nel ruolo organico della Amministrazione delle poste e telegrafi di cui nella tabella A approvata con la [legge 25 giugno 1911, n. 575](Per%20i%20provvedimenti%20relativi%20agli%20anziani%20ed%20allelevazione%20dei%20minimi%20di%20stipendio%20del%20personale%20dipendente%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20011U0575.md), e' soppresso il posto di ispettore superiore di 2ª classe creato col Nostro decreto 7 maggio 1916, n. 636. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

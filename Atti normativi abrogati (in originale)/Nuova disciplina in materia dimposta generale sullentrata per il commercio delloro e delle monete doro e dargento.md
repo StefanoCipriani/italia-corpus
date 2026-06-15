@@ -25,7 +25,7 @@ La importazione dall'estero e la negoziazione nel territorio dello Stato delle m
 
 ## Art. 3.
 
-La facolta' prevista dall'[art. 10 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;348#art_10), ai fini della istituzione degli speciali regimi d'imposizione dell'imposta sull'entrata ivi contemplati, e' estesa alle entrate derivanti dal commercio dei semilavorati e dei lavori in oro e platino.
+La facolta' prevista dall'[art. 10 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 348](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposta%20generale%20sullentrata%20e%20di%20addizionale%20straordinaria%20di%20guerra.%20044U0348.md), ai fini della istituzione degli speciali regimi d'imposizione dell'imposta sull'entrata ivi contemplati, e' estesa alle entrate derivanti dal commercio dei semilavorati e dei lavori in oro e platino.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

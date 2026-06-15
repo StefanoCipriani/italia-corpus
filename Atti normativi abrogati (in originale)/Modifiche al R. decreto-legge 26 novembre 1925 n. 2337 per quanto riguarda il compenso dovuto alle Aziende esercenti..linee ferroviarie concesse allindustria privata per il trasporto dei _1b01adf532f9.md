@@ -18,7 +18,7 @@ Visto il testo unico delle leggi ferroviarie approvato con [R. decreto 9 maggio 
 
 Visto il [R. decreto-legge 26 novembre 1925, n. 2337](Modificazione%20al%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tramvie%20e%20gli%20automobili%20approvato%20con%20R.%20decreto%209%20maggio%201912%20n.%201447.%20025U2337.md);
 
-Visto il [R. decreto 26 gennaio 1933, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-26;242), con il quale viene aumentato il peso massimo dei pacchi postali;
+Visto il [R. decreto 26 gennaio 1933, n. 242](Elevazione%20del%20limite%20massimo%20del%20peso%20dei%20pacchi%20postali%20a%2020%20chilogrammi.%20033U0242.md), con il quale viene aumentato il peso massimo dei pacchi postali;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

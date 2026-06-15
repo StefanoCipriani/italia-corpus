@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1608), che modifica il regime doganale dello jodio e dei prodotti derivati. 
+ E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1608](Modificazione%20del%20regime%20doganale%20dello%20jodio%20greggio%20e%20raffinato%20e%20dei%20prodotti%20jodurati.%20033U1608.md), che modifica il regime doganale dello jodio e dei prodotti derivati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

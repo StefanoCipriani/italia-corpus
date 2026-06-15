@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Ai personali del R. esercito italiano, costituenti il Corpo di spedizione militare italiano nell' Estremo Oriente (compresi gli irredenti inquadrati nel Corpo di spedizione medesimo), sono dovute le indennita' stabilite dal [R. decreto 23 maggio 1915, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;677), sotto l'osservanza delle disposizioni contenute nel decreto stesso e nelle norme annesse, nonche' degli altri decreti successivamente emanati circa le indennita' di guerra spettanti alle truppe in campagna in Europa, dal giorno dell'imbarco per l'Estremo Oriente fino al giorno dello arrivo in Italia, per ritorno. 
+Ai personali del R. esercito italiano, costituenti il Corpo di spedizione militare italiano nell' Estremo Oriente (compresi gli irredenti inquadrati nel Corpo di spedizione medesimo), sono dovute le indennita' stabilite dal [R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), sotto l'osservanza delle disposizioni contenute nel decreto stesso e nelle norme annesse, nonche' degli altri decreti successivamente emanati circa le indennita' di guerra spettanti alle truppe in campagna in Europa, dal giorno dell'imbarco per l'Estremo Oriente fino al giorno dello arrivo in Italia, per ritorno. 
  
  Agli ufficiali del detto corpo di spedizione e' pure dovuta un'indennita' di equipaggiamento nella misura di L. 700 per gli ufficiali superiori e di L. 400 per quelli inferiori.
 

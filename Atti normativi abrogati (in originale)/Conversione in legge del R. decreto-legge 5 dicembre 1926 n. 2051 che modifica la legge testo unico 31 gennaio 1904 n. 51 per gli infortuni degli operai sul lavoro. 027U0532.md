@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 dicembre 1926, n. 2051](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-05;2051), che modifica la legge ([testo unico) 31 gennaio 1904, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-01-31;51), per gli infortuni degli operai sul lavoro. 
+ E' convertito in legge il [R. decreto-legge 5 dicembre 1926, n. 2051](Modificazioni%20alla%20legge%2031%20gennaio%201904%20n.%2051%20per%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20026U2051.md), che modifica la legge ([testo unico) 31 gennaio 1904, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-01-31;51), per gli infortuni degli operai sul lavoro. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

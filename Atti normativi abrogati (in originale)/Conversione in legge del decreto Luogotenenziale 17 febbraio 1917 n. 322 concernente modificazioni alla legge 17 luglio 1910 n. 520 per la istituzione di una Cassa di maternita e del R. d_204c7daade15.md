@@ -38,7 +38,7 @@ All'[art. 2 da decreto Luogotenenziale 17 febbraio 1917, n. 322](https://www.nor
  
  «La prima parte dell'[art. 3 della legge 17 luglio 1910, n. 520](Per%20la%20istituzione%20di%20una%20Cassa%20di%20maternita.%20010U0520.md), e' cosi' modificata: 
  
- «Art. 3. - La Cassa corrisponde ad ogni operaia in occasione di parto o di aborto un sussidio di L. 100 alle condizioni che saranno determinate nel regolamento e fatta eccezione per il procurato aborto, preveduto dall'[art. 381 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_381), per il quale il sussidio non e' dovuto: lo Stato rimborsa alla Cassa per ciascun parto o aborto sussidiato la quota di L. 18».
+ «Art. 3. - La Cassa corrisponde ad ogni operaia in occasione di parto o di aborto un sussidio di L. 100 alle condizioni che saranno determinate nel regolamento e fatta eccezione per il procurato aborto, preveduto dall'[art. 381 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per il quale il sussidio non e' dovuto: lo Stato rimborsa alla Cassa per ciascun parto o aborto sussidiato la quota di L. 18».
 
 ### Art. 4.
 

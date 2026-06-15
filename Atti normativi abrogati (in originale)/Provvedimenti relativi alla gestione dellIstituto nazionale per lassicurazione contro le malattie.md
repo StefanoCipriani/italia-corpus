@@ -23,7 +23,7 @@ Con decorrenza dal 1 gennaio 1965 e fino al 31 dicembre 1967, il contributo dell
 
 ## Art. 2.
 
-Ai fini dell'accertamento dei contributi dovuti dai datori di lavoro all'Istituto nazionale per l'assicurazione contro le malattie, sono conferite all'Istituto stesso e ai suoi incaricati le facolta' attribuite per la verifica dei libri paga e matricola e degli altri documenti equipollenti, nonche' dei libri contabili e altri documenti di lavoro all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro e ai suoi incaricati a norma degli articoli 19, 21 e 24 del testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali, approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-30;1124).
+Ai fini dell'accertamento dei contributi dovuti dai datori di lavoro all'Istituto nazionale per l'assicurazione contro le malattie, sono conferite all'Istituto stesso e ai suoi incaricati le facolta' attribuite per la verifica dei libri paga e matricola e degli altri documenti equipollenti, nonche' dei libri contabili e altri documenti di lavoro all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro e ai suoi incaricati a norma degli articoli 19, 21 e 24 del testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali, approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md).
 
 ## Art. 3.
 

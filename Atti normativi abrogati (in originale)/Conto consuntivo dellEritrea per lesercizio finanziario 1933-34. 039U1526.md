@@ -173,7 +173,7 @@ esercizi precedenti.................» 13.833.463,22
 
 ### Art. 9.
 
-All'articolo 94-bis del bilancio dell'Eritrea per l'esercizio 1933-34: «Fondo di riserva costituito dall'avanzo di gestione destinato a fronteggiare straordinarie necessita' di bilancio derivanti da minor gettito delle entrate, dalla gestione dei residui e da altre cause eccezionali, nonche' alle spese straordinarie di carattere patrimoniale o ad altre spese di pubblica utilita', alle quali non si possa far fronte con le entrate proprie della Colonia ([art. 2 R. decreto-legge 25 marzo 1929, n. 531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-25;531#art_2)) » - e' iscritta, in conto competenza, la somma di L. 2.140.448,59 cosi' costituita: 
+All'articolo 94-bis del bilancio dell'Eritrea per l'esercizio 1933-34: «Fondo di riserva costituito dall'avanzo di gestione destinato a fronteggiare straordinarie necessita' di bilancio derivanti da minor gettito delle entrate, dalla gestione dei residui e da altre cause eccezionali, nonche' alle spese straordinarie di carattere patrimoniale o ad altre spese di pubblica utilita', alle quali non si possa far fronte con le entrate proprie della Colonia ([art. 2 R. decreto-legge 25 marzo 1929, n. 531](Contributo%20dello%20Stato%20diretto%20a%20consolidare%20per%20gli%20esercizi%20finanziari%20dal%201929-30%20al%201932-33%20i%20bilanci%20della%20Tripolitania%20Cirenaica%20Eritrea%20e%20Somalia.%20029U0531.md)) » - e' iscritta, in conto competenza, la somma di L. 2.140.448,59 cosi' costituita: 
  
  
 

@@ -26,7 +26,7 @@ E' prorogata fino a nuova disposizione, con le modalita' di cui appresso, la val
  
  a) [decreto Luogotenenziale 29 luglio 1915, n. 1167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-29;1167), che reca provvedimenti per le imprese di assicurazione; 
  
- b) [Regio decreto 30 agosto 1914, n. 902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-30;902), che autorizza l'Istituto nazionale delle assicurazioni ad assumere i rischi di guerra in navigazione; 
+ b) [Regio decreto 30 agosto 1914, n. 902](Col%20quale%20e%20autorizzato%20lIstituto%20nazionale%20delle%20assicurazioni%20ad%20assumere%20i%20rischi%20di%20guerra%20in%20navigazione.%20014U0902.md), che autorizza l'Istituto nazionale delle assicurazioni ad assumere i rischi di guerra in navigazione; 
  
  c) [decreto Luogotenenziale 11 novembre 1917, n. 1912](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-11-11;1912), che autorizza l'Istituto predetto a riassicurare durante lo stato di guerra i rischi ordinari della navigazione; 
  
@@ -36,7 +36,7 @@ E' prorogata fino a nuova disposizione, con le modalita' di cui appresso, la val
 
 Le disposizioni del [decreto Luogotenenziale 29 luglio 1915, n. 1167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-29;1167), si applicano anche alle imprese di assicurazione nazionali e alle imprese di riassicurazione, nazionali e estere. 
  
- Alle imprese di assicurazione e di riassicurazione estere si applicano inoltre le disposizioni del [R. decreto 4 settembre 1919, n. 1620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-04;1620), che reca provvedimenti per l'impianto in Italia di sedi e succursali di Banche estere.
+ Alle imprese di assicurazione e di riassicurazione estere si applicano inoltre le disposizioni del [R. decreto 4 settembre 1919, n. 1620](Che%20detta%20norme%20per%20lautorizzazione%20a%20Banche%20estere%20desiderose%20di%20impiantare%20sedi%20e%20succursali%20nel%20Regno.%20019U1620.md), che reca provvedimenti per l'impianto in Italia di sedi e succursali di Banche estere.
 
 ## Art. 3.
 
@@ -44,7 +44,7 @@ La speciale gestione per le operazioni dell'istituto nazionale delle assicurazio
  
  Alle operazioni di liquidazione della detta gestione provvede con i suoi organi l'Istituto nazionale delle assicurazioni, il quale deve compilare e rimettere al Ministero del tesoro e al Ministero per la industria, il commercio e il lavoro il rendiconto definitivo della gestione stessa. 
  
- Tutti gli utili risultanti dalle riassicurazioni dei rischi di guerra in navigazione di cui al [R. decreto 30 agosto 1914, n. 902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-30;902), sono devoluti al tesoro dello Stato. Invece gli utili risultanti dalle riassicurazioni dei rischi ordinari in navigazione di cui al [decreto Luogotenenziale 11 novembre 1917, n. 1912](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-11-11;1912), e dei rischi di qualsiasi genere di cui al [decreto Luogotenenziale 14 aprile 1918, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-14;565), sono devoluti al tesoro dello Stato solo per meta', mentre per l'altra meta' sono accantonati per la costituzione iniziale della riserva di garanzia di cui al seguente articolo.
+ Tutti gli utili risultanti dalle riassicurazioni dei rischi di guerra in navigazione di cui al [R. decreto 30 agosto 1914, n. 902](Col%20quale%20e%20autorizzato%20lIstituto%20nazionale%20delle%20assicurazioni%20ad%20assumere%20i%20rischi%20di%20guerra%20in%20navigazione.%20014U0902.md), sono devoluti al tesoro dello Stato. Invece gli utili risultanti dalle riassicurazioni dei rischi ordinari in navigazione di cui al [decreto Luogotenenziale 11 novembre 1917, n. 1912](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-11-11;1912), e dei rischi di qualsiasi genere di cui al [decreto Luogotenenziale 14 aprile 1918, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-14;565), sono devoluti al tesoro dello Stato solo per meta', mentre per l'altra meta' sono accantonati per la costituzione iniziale della riserva di garanzia di cui al seguente articolo.
 
 ## Art. 4.
 

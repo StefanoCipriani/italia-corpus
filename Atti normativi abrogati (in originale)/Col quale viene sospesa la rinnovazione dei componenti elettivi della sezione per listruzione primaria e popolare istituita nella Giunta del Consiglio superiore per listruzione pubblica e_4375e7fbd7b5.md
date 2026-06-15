@@ -18,9 +18,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-In virtu' dei poteri a Noi delegati e delle facolta' conferite al Governo dalla [legge 22 maggio 1915, numero 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In virtu' dei poteri a Noi delegati e delle facolta' conferite al Governo dalla [legge 22 maggio 1915, numero 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Veduta la [legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487);
+Veduta la [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md);
 
 Considerato che la sezione per l'istruzione primaria e popolare, istituita nella Giunta del Consiglio superiore per la pubblica istruzione, venne costituita per la prima volta con decreto 29 dicembre 1911 di modo che con la fine dell'anno 1915 scade il quadriennio dopo il quale l'art. 77 della citata legge 4 giugno 1911 stabilisce la rinnovazione della sezione;
 
@@ -44,7 +44,7 @@ Noi casi di vacanze, che per qualsiasi motivo si siano verificate tra i componen
 
 ## Art. 3.
 
-Il numero dei consiglieri richiesto dal [quinto comma dell'art. 3 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_3-com5), per la validita' delle adunanze, in prima e seconda convocazione, dei Consigli scolastici e' ridotto, fino a nuova disposizione, di tanti consiglieri quanti sono quelli che comunque abbiano cessato di far parte dei Consigli e non siano stati sostituiti per la disposizione contenuta nell'articolo precedente, nonche' di tanti quanti sono i consiglieri impediti perche' chiamati sotto le armi o chiamati a prestare opera permanente presso Comitati di organizzazione civile. 
+Il numero dei consiglieri richiesto dal [quinto comma dell'art. 3 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), per la validita' delle adunanze, in prima e seconda convocazione, dei Consigli scolastici e' ridotto, fino a nuova disposizione, di tanti consiglieri quanti sono quelli che comunque abbiano cessato di far parte dei Consigli e non siano stati sostituiti per la disposizione contenuta nell'articolo precedente, nonche' di tanti quanti sono i consiglieri impediti perche' chiamati sotto le armi o chiamati a prestare opera permanente presso Comitati di organizzazione civile. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

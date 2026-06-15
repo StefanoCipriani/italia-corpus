@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di adottare misure relative alla disciplina per il trasporto di persone mediante autoservizi pubblici non di linea, al fine di impedire, nell'imminenza della scadenza del termine del 31 dicembre 2018 stabilito dall'[articolo 2, comma 3, del decreto-legge 25 marzo 2010, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-03-25;40#art_2-com3), convertito, con modificazioni, dalla [legge 22 maggio 2010, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-05-22;73), e successive modificazioni, pratiche di esercizio abusivo del servizio di taxi e del servizio di noleggio con conducente o, comunque, non rispondenti ai principi ordinamentali che regolano la materia e di consentire l'adozione degli indirizzi generali per l'attivita' di programmazione e di pianificazione delle regioni, ai fini del rilascio, da parte dei Comuni, dei titoli autorizzativi;
+Ritenuta la straordinaria necessita' ed urgenza di adottare misure relative alla disciplina per il trasporto di persone mediante autoservizi pubblici non di linea, al fine di impedire, nell'imminenza della scadenza del termine del 31 dicembre 2018 stabilito dall'[articolo 2, comma 3, del decreto-legge 25 marzo 2010, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-03-25;40#art_2-com3), convertito, con modificazioni, dalla [legge 22 maggio 2010, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20marzo%202010%20n.%2040%20recante%20disposizioni%20urgenti%20tributarie%20e%20finanziarie%20in%20materia%20di%20contrasto%20alle%20frodi%20fiscali%20internazional_2b4ba0e3e0c4.md), e successive modificazioni, pratiche di esercizio abusivo del servizio di taxi e del servizio di noleggio con conducente o, comunque, non rispondenti ai principi ordinamentali che regolano la materia e di consentire l'adozione degli indirizzi generali per l'attivita' di programmazione e di pianificazione delle regioni, ai fini del rilascio, da parte dei Comuni, dei titoli autorizzativi;
 
 Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 23 dicembre 2018;
 
@@ -24,7 +24,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-Alla [legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21), come modificata dall'[articolo 29 del decreto-legge 30 dicembre 2008, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-30;207#art_29), convertito, con modificazioni, dalla [legge 27 febbraio 2009, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-27;14), sono apportate le seguenti modificazioni:
+Alla [legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21), come modificata dall'[articolo 29 del decreto-legge 30 dicembre 2008, n. 207](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md), convertito, con modificazioni, dalla [legge 27 febbraio 2009, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202008%20n.%20207%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20finanziarie%20urgenti.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 3, comma 1, le parole: «presso la rimessa» sono sostituite dalle seguenti: «presso la sede o la rimessa» e sono aggiunte in fine le seguenti parole: «anche mediante l'utilizzo di strumenti tecnologici»;
                         b)
@@ -55,11 +55,11 @@ Entro un anno dalla data di entrata in vigore del presente decreto, presso il Ce
 
 4.
 
-Le sanzioni di cui all'[articolo 11-bis della legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21#art_11bis), per l'inosservanza degli articoli 3 ed 11 della medesima legge, come modificati dal comma 1, si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Parimenti rimangono sospese per la stessa durata le sanzioni previste dall'[articolo 85, commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_85-com4) e [4-bis del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_85-com4bis), limitatamente ai soggetti titolari di autorizzazione per l'esercizio del servizio di noleggio con conducente.
+Le sanzioni di cui all'[articolo 11-bis della legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21#art_11bis), per l'inosservanza degli articoli 3 ed 11 della medesima legge, come modificati dal comma 1, si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Parimenti rimangono sospese per la stessa durata le sanzioni previste dall'[articolo 85, commi 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [4-bis del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), limitatamente ai soggetti titolari di autorizzazione per l'esercizio del servizio di noleggio con conducente.
 
 5.
 
-A decorrere dal 1° gennaio 2019, l'[articolo 2, comma 3, del decreto-legge 25 marzo 2010, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-03-25;40#art_2-com3), convertito, con modificazioni, dalla [legge 22 maggio 2010, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-05-22;73), e' abrogato.
+A decorrere dal 1° gennaio 2019, l'[articolo 2, comma 3, del decreto-legge 25 marzo 2010, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-03-25;40#art_2-com3), convertito, con modificazioni, dalla [legge 22 maggio 2010, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20marzo%202010%20n.%2040%20recante%20disposizioni%20urgenti%20tributarie%20e%20finanziarie%20in%20materia%20di%20contrasto%20alle%20frodi%20fiscali%20internazional_2b4ba0e3e0c4.md), e' abrogato.
 
 6.
 
@@ -67,7 +67,7 @@ A decorrere dalla data di entrata in vigore del presente decreto e fino alla pie
 
 7.
 
-A decorrere dal 1° gennaio 2019, l'[articolo 7-bis del decreto-legge 10 febbraio 2009, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-02-10;5#art_7bis), convertito, con modificazioni, dalla [legge 9 aprile 2009, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-04-09;33), e' abrogato.
+A decorrere dal 1° gennaio 2019, l'[articolo 7-bis del decreto-legge 10 febbraio 2009, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-02-10;5#art_7bis), convertito, con modificazioni, dalla [legge 9 aprile 2009, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20febbraio%202009%20n.%205%20recante%20misure%20urgenti%20a%20sostegno%20dei%20settori%20industriali%20in%20crisi.%2009G0041.md), e' abrogato.
 
 8.
 

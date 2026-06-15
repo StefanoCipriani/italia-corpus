@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto-legge 20 gennaio 2004, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9), convertito, con modificazioni, dalla [legge 12 marzo 2004, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-03-12;68), recante proroga della partecipazione italiana a operazioni internazionali e disposizioni in favore delle vittime militari e civili di attentati terroristici all'estero;
+Visto il [decreto-legge 20 gennaio 2004, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9), convertito, con modificazioni, dalla [legge 12 marzo 2004, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20gennaio%202004%20n.%209%20recante%20proroga%20della%20partecipazione%20italiana%20a%20operazioni%20internazionali.%20Disposizioni%20in%20favore%20delle%20vitti_bd502c28793d.md), recante proroga della partecipazione italiana a operazioni internazionali e disposizioni in favore delle vittime militari e civili di attentati terroristici all'estero;
 
 Viste le Risoluzioni del Consiglio di sicurezza delle Nazioni Unite sulla crisi irachena e, in particolare, la [Risoluzione n. 1546 dell'8 giugno 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir::risoluzione:2004-06-08;1546);
 
@@ -41,7 +41,7 @@ E' autorizzata, fino al 31 dicembre 2004, la spesa di euro 20.925.066 per la rea
 
 2.
 
-Nell'ambito degli obiettivi e delle finalita' individuati nella Risoluzione delle Nazioni Unite n. 1546 dell'8 giugno 2004, le attivita' operative della missione sono finalizzate, oltre che ai settori di cui all'[articolo 1, comma 2, del decreto-legge 10 luglio 2003, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_1-com2), convertito, con modificazioni, dalla [legge 1° agosto 2003, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;219), e, in particolare, alla prosecuzione dei relativi interventi, anche alla realizzazione di iniziative concordate con il Governo iracheno e destinate, tra l'altro:
+Nell'ambito degli obiettivi e delle finalita' individuati nella Risoluzione delle Nazioni Unite n. 1546 dell'8 giugno 2004, le attivita' operative della missione sono finalizzate, oltre che ai settori di cui all'[articolo 1, comma 2, del decreto-legge 10 luglio 2003, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_1-com2), convertito, con modificazioni, dalla [legge 1° agosto 2003, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%202003%20n.%20165%20recante%20interventi%20urgenti%20a%20favore%20della%20popolazione%20irachena.md), e, in particolare, alla prosecuzione dei relativi interventi, anche alla realizzazione di iniziative concordate con il Governo iracheno e destinate, tra l'altro:
                             a)
                                 al sostegno al settore sanitario per contribuire all'attivita' di assistenza alla popolazione;
                             b)
@@ -63,13 +63,13 @@ Al Capo della rappresentanza diplomatica italiana a Baghdad e' affidata la direz
 
 2.
 
-Per il coordinamento e la realizzazione delle attivita' della missione, ivi compresi gli interventi di cui all'articolo 1, comma 2, il Capo della rappresentanza diplomatica italiana si avvale temporaneamente anche della struttura operante a Baghdad ai sensi dell'[articolo 35 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_35).
+Per il coordinamento e la realizzazione delle attivita' della missione, ivi compresi gli interventi di cui all'articolo 1, comma 2, il Capo della rappresentanza diplomatica italiana si avvale temporaneamente anche della struttura operante a Baghdad ai sensi dell'[articolo 35 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
 
 ### Art. 3. — Rinvii normativi
 
 1.
 
-Per quanto non diversamente previsto, alla missione di cui al presente Capo si applicano l'[articolo 2, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_2-com2), l'[articolo 3, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com3), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com5) e [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com6), e l'[articolo 4, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_4-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_4-com2) e [3-bis, del decreto-legge 10 luglio 2003, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_4-com3bis), convertito, con modificazioni, dalla [legge 1° agosto 2003, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;219).
+Per quanto non diversamente previsto, alla missione di cui al presente Capo si applicano l'[articolo 2, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_2-com2), l'[articolo 3, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com3), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com5) e [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_3-com6), e l'[articolo 4, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_4-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_4-com2) e [3-bis, del decreto-legge 10 luglio 2003, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-07-10;165#art_4-com3bis), convertito, con modificazioni, dalla [legge 1° agosto 2003, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%202003%20n.%20165%20recante%20interventi%20urgenti%20a%20favore%20della%20popolazione%20irachena.md).
 
 2.
 
@@ -84,7 +84,7 @@ Capo II
 
 1.
 
-E' prorogato, fino al 31 dicembre 2004, il termine previsto dall'[articolo 2, comma 1, del decreto-legge 20 gennaio 2004, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9#art_2-com1), convertito, con modificazioni, dalla [legge 12 marzo 2004, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-03-12;68), relativo alla partecipazione di personale militare alla missione internazionale in Iraq, per la quale e' autorizzata la spesa di euro 284.984.563 per l'anno 2004.
+E' prorogato, fino al 31 dicembre 2004, il termine previsto dall'[articolo 2, comma 1, del decreto-legge 20 gennaio 2004, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9#art_2-com1), convertito, con modificazioni, dalla [legge 12 marzo 2004, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20gennaio%202004%20n.%209%20recante%20proroga%20della%20partecipazione%20italiana%20a%20operazioni%20internazionali.%20Disposizioni%20in%20favore%20delle%20vitti_bd502c28793d.md), relativo alla partecipazione di personale militare alla missione internazionale in Iraq, per la quale e' autorizzata la spesa di euro 284.984.563 per l'anno 2004.
 
 2.
 
@@ -129,7 +129,7 @@ delle Forze di polizia a missioni internazionali
 
 1.
 
-E' prorogato, fino al 31 dicembre 2004, il termine previsto dall'[articolo 4, comma 1, del decreto-legge 20 gennaio 2004, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9#art_4-com1), convertito, con modificazioni, dalla [legge 12 marzo 2004, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-03-12;68), relativo alla partecipazione del personale della Polizia di Stato alla missione United Nations Mission in Kosovo (UNMIK), per la quale e' autorizzata la spesa di euro 1.055.187 per l'anno 2004.
+E' prorogato, fino al 31 dicembre 2004, il termine previsto dall'[articolo 4, comma 1, del decreto-legge 20 gennaio 2004, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9#art_4-com1), convertito, con modificazioni, dalla [legge 12 marzo 2004, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20gennaio%202004%20n.%209%20recante%20proroga%20della%20partecipazione%20italiana%20a%20operazioni%20internazionali.%20Disposizioni%20in%20favore%20delle%20vitti_bd502c28793d.md), relativo alla partecipazione del personale della Polizia di Stato alla missione United Nations Mission in Kosovo (UNMIK), per la quale e' autorizzata la spesa di euro 1.055.187 per l'anno 2004.
 
 2.
 
@@ -155,11 +155,11 @@ Nell'ambito della missione di cui all'articolo 1 e nei limiti temporali dallo st
 
 3.
 
-Al personale dell'Arma dei carabinieri impiegato in Iraq, nell'ambito della missione di cui all'articolo 1, per il servizio di protezione e sicurezza dell'Ambasciata d'Italia, della Delegazione diplomatica speciale e del Consolato generale, e' attribuito il trattamento assicurativo previsto dall'[articolo 3 del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_3), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-02-27;15). Per la finalita' di cui al presente comma e' autorizzata la spesa di euro 8.472 per l'anno 2004.
+Al personale dell'Arma dei carabinieri impiegato in Iraq, nell'ambito della missione di cui all'articolo 1, per il servizio di protezione e sicurezza dell'Ambasciata d'Italia, della Delegazione diplomatica speciale e del Consolato generale, e' attribuito il trattamento assicurativo previsto dall'[articolo 3 del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_3), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20451%20recante%20disposizioni%20urgenti%20per%20la%20proroga%20della%20partecipazione%20italiana%20ad%20operazioni%20militari%20internazionali.md). Per la finalita' di cui al presente comma e' autorizzata la spesa di euro 8.472 per l'anno 2004.
 
 4.
 
-Nei limiti temporali di cui all'articolo 4, comma 4, e' autorizzata la spesa di euro 1.240.205 per il sostegno logistico della compagnia di fanteria rumena, di cui all'[articolo 11 del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_11), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-02-27;15).
+Nei limiti temporali di cui all'articolo 4, comma 4, e' autorizzata la spesa di euro 1.240.205 per il sostegno logistico della compagnia di fanteria rumena, di cui all'[articolo 11 del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_11), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20451%20recante%20disposizioni%20urgenti%20per%20la%20proroga%20della%20partecipazione%20italiana%20ad%20operazioni%20militari%20internazionali.md).
 
 5.
 
@@ -185,7 +185,7 @@ L'indennita' di cui al comma 1 e' corrisposta al personale che partecipa alle mi
 
 5.
 
-Al personale che partecipa alla missione di cui all'articolo 5, comma 2, si applica il trattamento economico previsto dalla [legge 8 luglio 1961, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-08;642), e l'indennita' speciale, di cui all'articolo 3 della medesima legge, nella misura del 50 per cento dell'assegno di lungo servizio all'estero.
+Al personale che partecipa alla missione di cui all'articolo 5, comma 2, si applica il trattamento economico previsto dalla [legge 8 luglio 1961, n. 642](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trattamento%20economico%20del%20personale%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20destinato%20isolatamente%20allestero%20presso%20Delegazioni%20o%20Rappresentanze%20militari%20ovvero%20presso%20enti%20comandi%20od_1e382f250bd3.md), e l'indennita' speciale, di cui all'articolo 3 della medesima legge, nella misura del 50 per cento dell'assegno di lungo servizio all'estero.
 
 ### Art. 8. — Valutazione del servizio prestato in missioni internazionali
 
@@ -197,13 +197,13 @@ I periodi di comando, di attribuzioni specifiche, di servizio e di imbarco svolt
 
 1.
 
-Le disposizioni in materia contabile previste dall'[articolo 8, comma 2, del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_8-com2), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-02-27;15), sono estese alle acquisizioni di materiali d'armamento e di equipaggiamenti individuali e si applicano entro il limite complessivo di euro 50.000.000 a valere sullo stanziamento di cui all'articolo 13 del presente decreto.
+Le disposizioni in materia contabile previste dall'[articolo 8, comma 2, del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_8-com2), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20451%20recante%20disposizioni%20urgenti%20per%20la%20proroga%20della%20partecipazione%20italiana%20ad%20operazioni%20militari%20internazionali.md), sono estese alle acquisizioni di materiali d'armamento e di equipaggiamenti individuali e si applicano entro il limite complessivo di euro 50.000.000 a valere sullo stanziamento di cui all'articolo 13 del presente decreto.
 
 ### Art. 10. — Disposizioni in materia penale
 
 1.
 
-Al personale militare impiegato nelle missioni di cui agli articoli 4, commi 1, 2 e 3, e 6, comma 2, si applicano il [codice penale militare di guerra e l'articolo 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:relazione.e.regio.decreto:1941-02-20;303#art_9) del [decreto-legge 1° dicembre 2001, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-01;421), convertito, con modificazioni, dalla [legge 31 gennaio 2002, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-01-31;6).
+Al personale militare impiegato nelle missioni di cui agli articoli 4, commi 1, 2 e 3, e 6, comma 2, si applicano il [codice penale militare di guerra e l'articolo 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:relazione.e.regio.decreto:1941-02-20;303#art_9) del [decreto-legge 1° dicembre 2001, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-01;421), convertito, con modificazioni, dalla [legge 31 gennaio 2002, n. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%202001%20n.%20421%20recante%20disposizioni%20urgenti%20per%20la%20partecipazione%20di%20personale%20militare%20alloperazione%20multinazionale%20denom_06c344f957a1.md).
 
 2.
 
@@ -215,19 +215,19 @@ Per i reati di cui al comma 2 la competenza territoriale e' del Tribunale di Rom
 
 4.
 
-Al personale militare impiegato nelle missioni di cui agli articoli 4, commi 4, 5, 6, 7 e 8, 5, commi 2, 3 e 4, si applicano il [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare di pace e l'articolo 9, commi 3, 4, lettere a), b), c) e d), 5 e 6, del [decreto-legge n. 421 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001;421), convertito, con modificazioni, dalla [legge n. 6 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002;6).
+Al personale militare impiegato nelle missioni di cui agli articoli 4, commi 4, 5, 6, 7 e 8, 5, commi 2, 3 e 4, si applicano il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e l'articolo 9, commi 3, 4, lettere a), b), c) e d), 5 e 6, del [decreto-legge n. 421 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001;421), convertito, con modificazioni, dalla [legge n. 6 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002;6).
 
 ### Art. 11. — Attivita' di ricerca scientifica a fini di prevenzione sanitaria
 
 1.
 
-E' autorizzata l'ulteriore spesa di euro 800.000 per l'anno 2004, per la realizzazione dello studio epidemiologico di tipo prospettico seriale indirizzato all'accertamento dei livelli di uranio e di altri elementi potenzialmente tossici presenti in campioni biologici di militari impiegati nelle missioni internazionali, al fine di individuare eventuali situazioni espositive idonee a costituire fattore di rischio per la salute, di cui all'[articolo 13-bis del decreto-legge 20 gennaio 2004, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9#art_13bis), convertito, con modificazioni, dalla [legge 12 marzo 2004, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-03-12;68).
+E' autorizzata l'ulteriore spesa di euro 800.000 per l'anno 2004, per la realizzazione dello studio epidemiologico di tipo prospettico seriale indirizzato all'accertamento dei livelli di uranio e di altri elementi potenzialmente tossici presenti in campioni biologici di militari impiegati nelle missioni internazionali, al fine di individuare eventuali situazioni espositive idonee a costituire fattore di rischio per la salute, di cui all'[articolo 13-bis del decreto-legge 20 gennaio 2004, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9#art_13bis), convertito, con modificazioni, dalla [legge 12 marzo 2004, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20gennaio%202004%20n.%209%20recante%20proroga%20della%20partecipazione%20italiana%20a%20operazioni%20internazionali.%20Disposizioni%20in%20favore%20delle%20vitti_bd502c28793d.md).
 
 ### Art. 12. — Rinvii normativi
 
 1.
 
-Per quanto non diversamente previsto, alle missioni internazionali di cui al presente Capo si applicano gli articoli 2, commi 2 e 3, 3, 4, 5, 7, 8, commi 1 e 2, 9, 13, [14, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com2), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com5) e [7, del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com7), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-02-27;15).
+Per quanto non diversamente previsto, alle missioni internazionali di cui al presente Capo si applicano gli articoli 2, commi 2 e 3, 3, 4, 5, 7, 8, commi 1 e 2, 9, 13, [14, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com2), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com5) e [7, del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com7), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20451%20recante%20disposizioni%20urgenti%20per%20la%20proroga%20della%20partecipazione%20italiana%20ad%20operazioni%20militari%20internazionali.md).
 
 ## DISPOSIZIONI FINALI
 
@@ -237,11 +237,11 @@ Capo III
 
 1.
 
-All'onere derivante dall'attuazione delle disposizioni di cui al Capo I, pari complessivamente ad euro 20.925.066 per l'anno 2004, si provvede per euro 18.425.066 mediante corrispondente riduzione dell'autorizzazione di spesa recata dall'[articolo 3, comma 8, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_3-com8), e per euro 2.500.000 mediante riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 3 del decreto-legge 20 gennaio 2004, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9#art_1-com3), convertito, con modificazioni, dalla [legge 12 marzo 2004, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-03-12;68).
+All'onere derivante dall'attuazione delle disposizioni di cui al Capo I, pari complessivamente ad euro 20.925.066 per l'anno 2004, si provvede per euro 18.425.066 mediante corrispondente riduzione dell'autorizzazione di spesa recata dall'[articolo 3, comma 8, della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), e per euro 2.500.000 mediante riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 3 del decreto-legge 20 gennaio 2004, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9#art_1-com3), convertito, con modificazioni, dalla [legge 12 marzo 2004, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20gennaio%202004%20n.%209%20recante%20proroga%20della%20partecipazione%20italiana%20a%20operazioni%20internazionali.%20Disposizioni%20in%20favore%20delle%20vitti_bd502c28793d.md).
 
 2.
 
-All'onere derivante dall'attuazione delle disposizioni di cui al Capo II, pari complessivamente ad euro 609.078.895 per l'anno 2004, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa recata dall'[articolo 3, comma 8, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_3-com8).
+All'onere derivante dall'attuazione delle disposizioni di cui al Capo II, pari complessivamente ad euro 609.078.895 per l'anno 2004, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa recata dall'[articolo 3, comma 8, della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md).
 
 3.
 

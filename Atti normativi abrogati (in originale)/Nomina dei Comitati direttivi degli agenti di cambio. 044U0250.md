@@ -18,13 +18,13 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visti la, [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), ed il relativo regolamento approvato con [R. decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068), sull'ordinamento delle Borse di commercio;
 
-Visto il [R. decreto-legge 30 giugno 1932, n. 815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-06-30;815), sulle Borse valori;
+Visto il [R. decreto-legge 30 giugno 1932, n. 815](Modifiche%20di%20alcune%20disposizioni%20inerenti%20alle%20Borse%20valori%20ed%20agli%20agenti%20di%20cambio.%20032U0815.md), sulle Borse valori;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -42,7 +42,7 @@ Ciascun agente di cambio scrive sulla scheda sei ovvero tre nomi di colleghi, se
 
 ## Art. 3.
 
-Per quanto riguarda le operazioni, la disciplina, la polizia dell'assemblea, elettorale, i reclami sollevati nel seno di essa, ]a formazione del verbale, i documenti da annettersi e le pene ai contravventori alla legge ed ai regolamenti in materia elettorale, si applicano le disposizioni del testo unico della legge comunale e provinciale 4 febbraio 1915, n. 148, modificato con [R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839).
+Per quanto riguarda le operazioni, la disciplina, la polizia dell'assemblea, elettorale, i reclami sollevati nel seno di essa, ]a formazione del verbale, i documenti da annettersi e le pene ai contravventori alla legge ed ai regolamenti in materia elettorale, si applicano le disposizioni del testo unico della legge comunale e provinciale 4 febbraio 1915, n. 148, modificato con [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
 
 ## Art. 4.
 

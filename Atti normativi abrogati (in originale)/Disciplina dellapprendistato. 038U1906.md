@@ -90,7 +90,7 @@ L'apprendista ha l'obbligo di frequentare i corsi per la formazione professional
 
 ## Art. 10.
 
-I contratti collettivi di lavoro o le norme obbligatorie previste dall'[art. 44, lettera d) del R. decreto 1° luglio 1926, n. 1130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1130#art_44-letd), stabiliranno per le singole categorie: 
+I contratti collettivi di lavoro o le norme obbligatorie previste dall'[art. 44, lettera d) del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), stabiliranno per le singole categorie: 
  
  a) la durata dell'apprendistato e una riduzione gradualmente adeguata di essa per coloro che abbiano la licenza di scuola tecnica di indirizzo corrispondente alla attivita' esplicata dall'apprendista, per i licenziati di scuola secondaria di avviamento professionale di tipo corrispondente a detta attivita', e per coloro che abbiano frequentato i corsi di primo addestramento previsti dal Regio decreto-legge 21 giugno 1938-XVI, n. 1380; 
  
@@ -110,7 +110,7 @@ I lavoratori che hanno frequentato con esito favorevole i corsi per la formazion
 
 ## Art. 12.
 
-Le controversie individuali derivanti dai rapporti di apprendistato sono decise secondo le norme del [Regio decreto 21 maggio 1934, n. 1073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-05-21;1073).
+Le controversie individuali derivanti dai rapporti di apprendistato sono decise secondo le norme del [Regio decreto 21 maggio 1934, n. 1073](Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md).
 
 ## Art. 13.
 

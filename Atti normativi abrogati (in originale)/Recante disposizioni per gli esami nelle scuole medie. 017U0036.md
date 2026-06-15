@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vedute le [leggi 14 giugno 1907, n. 324, e 27 giugno 1912, n. 678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;678), e il regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1217);
+Vedute le [leggi 14 giugno 1907, n. 324, e 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md), e il regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md);
 
 Veduti i RR. decreti 20 e 24 maggio 1915, nn. 715 e 303 e il Nostro decreto 21 maggio 1916, n. 699;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per la pubblica istruzione; Abbi
 
 ## Art. 1.
 
-Per il corrente anno scolastico 1916-917 resta sospesa l'applicazione del primo e del [secondo comma dell'art. 2 della legge 27 giugno 1912, n. 678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;678#art_2-com2). 
+Per il corrente anno scolastico 1916-917 resta sospesa l'applicazione del primo e del [secondo comma dell'art. 2 della legge 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md). 
  
  Pertanto, cosi' le licenze da ogni ordine e grado di scuole Medie e normali e dei corsi magistrali, come le promozioni a qualsiasi classe delle scuole stesse, saranno conferite senza esami per le materie, nelle quali l'alunno sia stato classificato allo scrutinio finale con voti non inferiori a sei decimi per il profitto e a sette decimi per la condotta. 
  
@@ -42,13 +42,13 @@ Il beneficio di riparare le sole prove fallite e' concesso rispettivamente per u
 
 ## Art. 3.
 
-I giovani, inscritti in scuole pubbliche o privatisti, appartenenti alle classi di leva 1898 e precedenti, e quelli che gia' prestano servizio militare, anche per arruolamento volontario, qualunque sia la loro classe di leva, potranno, in deroga al disposto degli [articoli 6 della legge 14 giugno 1907, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-14;324#art_6), e 20 del [regolamento 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217), presentarsi, nella sessione straordinaria di aprile 1917, e nelle successive, a qualsiasi esame, cosi' di licenza come di ammissione o promozione, purche', nel caso di esami relativi a scuole di 2° grado siano forniti del diploma di licenza dalla corrispondente scuola di 1° grado, salva l'eccezione prevista dall'ultimo comma dell'art. 21 del regolamento citato. 
+I giovani, inscritti in scuole pubbliche o privatisti, appartenenti alle classi di leva 1898 e precedenti, e quelli che gia' prestano servizio militare, anche per arruolamento volontario, qualunque sia la loro classe di leva, potranno, in deroga al disposto degli [articoli 6 della legge 14 giugno 1907, n. 324](Concernente%20disposizione%20per%20gli%20esami%20nelle%20Scuole%20medie%20ed%20elementari%20007U0324.md), e 20 del [regolamento 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217), presentarsi, nella sessione straordinaria di aprile 1917, e nelle successive, a qualsiasi esame, cosi' di licenza come di ammissione o promozione, purche', nel caso di esami relativi a scuole di 2° grado siano forniti del diploma di licenza dalla corrispondente scuola di 1° grado, salva l'eccezione prevista dall'ultimo comma dell'art. 21 del regolamento citato. 
  
  Inoltre, per gli alunni che si trovino nelle condizioni predette, le Commissioni esaminatrici, in deroga al disposto dell'art. 2 del regolamento, stesso, procederanno allo scrutinio finale, per tutti gli effetti legali di cui all'art. 1 del presente decreto.
 
 ## Art. 4.
 
-Restano in vigore tutte le altre disposizioni della [legge 27 giugno 1912, n. 678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;678), e del [regolamento 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217), per le quali non sia qui stabilita alcuna deroga, salvo che gravi motivi di ordine politico o militare richiedano altre modificazioni negli articoli 2, 8, 9, 11, 12, 20, 21, 30 e 35 del regolamento anzidetto.
+Restano in vigore tutte le altre disposizioni della [legge 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md), e del [regolamento 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217), per le quali non sia qui stabilita alcuna deroga, salvo che gravi motivi di ordine politico o militare richiedano altre modificazioni negli articoli 2, 8, 9, 11, 12, 20, 21, 30 e 35 del regolamento anzidetto.
 
 ## Art. 5.
 

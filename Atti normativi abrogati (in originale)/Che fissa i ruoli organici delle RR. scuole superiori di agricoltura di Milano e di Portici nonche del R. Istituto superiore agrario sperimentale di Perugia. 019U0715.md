@@ -30,7 +30,7 @@ I ruoli organici delle RR. scuole superiori di agricoltura di Milano e di Portic
 
 ## Art. 2.
 
-Il posto di ordinario assegnato dall'[art. 11 della legge 6 luglio 1912, n. 869](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;869#art_11), alla Cattedra di bachicoltura, in ciascuna delle tre scuole superiori di agricoltura, e' compreso nella tabella A di cui al precedente articolo. 
+Il posto di ordinario assegnato dall'[art. 11 della legge 6 luglio 1912, n. 869](Per%20provvedimenti%20sulla%20produzione%20e%20la%20industria%20serica.%20012U0869.md), alla Cattedra di bachicoltura, in ciascuna delle tre scuole superiori di agricoltura, e' compreso nella tabella A di cui al precedente articolo. 
  
  Esso puo' essere assegnato anche all'insegnamento di altra materia. 
  
@@ -38,7 +38,7 @@ Il posto di ordinario assegnato dall'[art. 11 della legge 6 luglio 1912, n. 869]
 
 ## Art. 3.
 
-L'[art. 15 della legge 19 luglio 1909, n. 527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;527#art_15), e' abrogato.
+L'[art. 15 della legge 19 luglio 1909, n. 527](Provvedimenti%20per%20le%20scuole%20superiori%20di%20agricoltura%20di%20Milano%20Portici%20e%20Perugia%20e%20per%20le%20stazioni%20agrarie%20e%20speciali.%20009U0527.md), e' abrogato.
 
 ## Art. 4.
 
@@ -47,7 +47,7 @@ Il direttore tecnico della tenuta di Casalina della Fondazione per l'istruzione 
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 25 agosto 1919, n. 1580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-25;1580), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 25 agosto 1919, n. 1580](Che%20stabilisce%20il%20trattamento%20economico%20per%20il%20personale%20delle%20RR.%20scuole%20superiori%20di%20agricoltura%20e%20delle%20RR.%20stazioni%20di%20prova%20agrarie%20e%20speciali%20e%20reca%20inoltre%20aumento%20di%20dotazioni%20per_3c3837a5f0ed.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 5.
 
@@ -59,14 +59,14 @@ Alle cattedre che non siano coperte da professori ordinari o straordinari, si pr
 
 ## Art. 6.
 
-Gli attuali incaricati di ruolo delle scuole superiori di agricoltura di Milano e di Portici di cui all'[art. 2 della legge 19 luglio 1909, n. 527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;527#art_2), conserveranno la loro qualita' ed il loro titolo con lo stipendio di L. 3000. 
+Gli attuali incaricati di ruolo delle scuole superiori di agricoltura di Milano e di Portici di cui all'[art. 2 della legge 19 luglio 1909, n. 527](Provvedimenti%20per%20le%20scuole%20superiori%20di%20agricoltura%20di%20Milano%20Portici%20e%20Perugia%20e%20per%20le%20stazioni%20agrarie%20e%20speciali.%20009U0527.md), conserveranno la loro qualita' ed il loro titolo con lo stipendio di L. 3000. 
  
  A misura che i posti si renderanno vacanti, saranno soppressi. 
  
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 25 agosto 1919, n. 1580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-25;1580), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 25 agosto 1919, n. 1580](Che%20stabilisce%20il%20trattamento%20economico%20per%20il%20personale%20delle%20RR.%20scuole%20superiori%20di%20agricoltura%20e%20delle%20RR.%20stazioni%20di%20prova%20agrarie%20e%20speciali%20e%20reca%20inoltre%20aumento%20di%20dotazioni%20per_3c3837a5f0ed.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 7.
 
@@ -81,7 +81,7 @@ I capi tecnici, i preparatori ed i componenti il personale di servizio, vengono 
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 25 agosto 1919, n. 1580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-25;1580), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 25 agosto 1919, n. 1580](Che%20stabilisce%20il%20trattamento%20economico%20per%20il%20personale%20delle%20RR.%20scuole%20superiori%20di%20agricoltura%20e%20delle%20RR.%20stazioni%20di%20prova%20agrarie%20e%20speciali%20e%20reca%20inoltre%20aumento%20di%20dotazioni%20per_3c3837a5f0ed.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 8.
 

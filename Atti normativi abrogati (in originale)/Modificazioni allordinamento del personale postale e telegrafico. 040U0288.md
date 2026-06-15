@@ -22,7 +22,7 @@ Nella tabella n. 1, allegato 1 al R. decreto-legge 17 novembre 1938-XVII, n. 184
  
  Il quadro separato dei commissari e ragionieri, di cui all'art. 21 del R. decreto 15 agosto 1926-IV, n. 1733, ed il ruolo dei capi d'ufficio principali di cui alla lettera a), della tabella n. 2 dell'allegato n. 1 al R. decreto-legge 19 dicembre 1936-XV, n. 2252, sono soppressi. 
  
- Le tabelle n. 2, personale di 2ª categoria, e n. 3, personale di 3ª categoria, allegati 1 e 2 al citato [R. decreto-legge 19 dicembre 1936, n. 2252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-12-19;2252), e successive modificazioni, vengono sostituite dalle tabelle n. 2 e n. 3, allegati n. 2 e n. 3 alla presente legge e firmati, d'ordine Nostro, dai Ministri Segretari di Stato per le comunicazioni e per le finanze. 
+ Le tabelle n. 2, personale di 2ª categoria, e n. 3, personale di 3ª categoria, allegati 1 e 2 al citato [R. decreto-legge 19 dicembre 1936, n. 2252](Modificazioni%20alle%20tabelle%20organiche%20del%20personale%20di%202ª%20e%203ª%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20e%20istituzione%20di%20un%20ruolo%20speciale%20tecnico%20per%20il%20personale%20delle_6a142e7a82b9.md), e successive modificazioni, vengono sostituite dalle tabelle n. 2 e n. 3, allegati n. 2 e n. 3 alla presente legge e firmati, d'ordine Nostro, dai Ministri Segretari di Stato per le comunicazioni e per le finanze. 
  
  I posti del personale con contratto a termine con funzioni di commesso, di cui all'allegato 2 del R. decreto 17 settembre 1931-IX, n. 1345, e successive modificazioni, sono ridotti da 6500 a 5000.
 
@@ -68,7 +68,7 @@ I posti di primo ufficiale di grado 9° del ruolo B della tabella n. 2, allegato
 
 ## Art. 10.
 
-Al personale di gruppo C di cui alla tabella n. 2 allegata alla presente legge, che ottenne la sistemazione in ruolo ai sensi dell'art. 6, lettera b), del R. decreto-legge 23 ottobre 1924-II, n. 2028, per avere conseguito la idoneita', nell'esperimento pratico previsto dall'[art. 83 del R. decreto-legge 2 ottobre 1919, n. 1858](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-02;1858#art_83), ed a quello nominato in ruolo ai sensi dell'art. 2 dello stesso R. decreto-legge n. 2028, e che provenga dal personale per il quale era prevista la nomina in ruolo dall'art. 96 del citato R. decreto-legge n. 1858, e' computata come decorsa ed acquisita, all'atto dell'entrata in vigore della presente legge, una maggiore anzianita', di due anni, utile nel grado attualmente ricoperto e, per l'eventuale differenza, nel grado immediatamente superiore e non oltre il 10°.
+Al personale di gruppo C di cui alla tabella n. 2 allegata alla presente legge, che ottenne la sistemazione in ruolo ai sensi dell'art. 6, lettera b), del R. decreto-legge 23 ottobre 1924-II, n. 2028, per avere conseguito la idoneita', nell'esperimento pratico previsto dall'[art. 83 del R. decreto-legge 2 ottobre 1919, n. 1858](Concernente%20lordinamento%20degli%20uffici%20e%20del%20personale%20postale%20telegrafico%20e%20telefonico.%20019U1858.md), ed a quello nominato in ruolo ai sensi dell'art. 2 dello stesso R. decreto-legge n. 2028, e che provenga dal personale per il quale era prevista la nomina in ruolo dall'art. 96 del citato R. decreto-legge n. 1858, e' computata come decorsa ed acquisita, all'atto dell'entrata in vigore della presente legge, una maggiore anzianita', di due anni, utile nel grado attualmente ricoperto e, per l'eventuale differenza, nel grado immediatamente superiore e non oltre il 10°.
 
 ## Art. 11.
 
@@ -90,7 +90,7 @@ Per l'ammissione ai primi due concorsi per impiegati ed agenti ausiliari che sar
 
 ## Art. 13.
 
-Gli ufficiali esecutivi di 2ª classe (grado 11°) invalidi di guerra, nominati in ruolo ai sensi dell'art. 133 del R. decreto 11 novembre 1923-II, n. 2395, i quali alla data del 1° gennaio 1925-III, non avevano raggiunto il grado 12°, possono essere promossi al grado superiore dalla data di entrata in vigore della presente legge per anzianita' congiunta al merito entro il numero dei posti che si conferiscono in base al [2° comma dell'art. 3 del R. decreto 17 settembre 1931, n. 1345](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1345#art_3-com2).
+Gli ufficiali esecutivi di 2ª classe (grado 11°) invalidi di guerra, nominati in ruolo ai sensi dell'art. 133 del R. decreto 11 novembre 1923-II, n. 2395, i quali alla data del 1° gennaio 1925-III, non avevano raggiunto il grado 12°, possono essere promossi al grado superiore dalla data di entrata in vigore della presente legge per anzianita' congiunta al merito entro il numero dei posti che si conferiscono in base al [2° comma dell'art. 3 del R. decreto 17 settembre 1931, n. 1345](Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md).
 
 ## Art. 14.
 

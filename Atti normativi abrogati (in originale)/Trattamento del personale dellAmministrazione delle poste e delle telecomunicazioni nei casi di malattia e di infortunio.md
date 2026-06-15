@@ -12,9 +12,9 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni;
 
-Visto il [regio decreto-legge 14 gennaio 1926, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-14;99), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898);
+Visto il [regio decreto-legge 14 gennaio 1926, n. 99](Approvazione%20del%20regolamento%20contenente%20norme%20e%20condizioni%20di%20trattamento%20al%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20nei%20casi%20di%20malattie%20e%20di%20infortuni.%20026U0099.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
-Viste le [leggi 31 gennaio 1926, n. 100, e 4 settembre 1940, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-04;1547);
+Viste le [leggi 31 gennaio 1926, n. 100, e 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md);
 
 Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto col
 
 ## Articolo unico.
 
-Le norme contenute nel regolamento approvato col [regio decreto-legge 14 gennaio 1926, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-14;99), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898), per la parte concernente il collocamento in aspettativa per infermita' del personale postale e telegrafico, sono modificate come segue:
+Le norme contenute nel regolamento approvato col [regio decreto-legge 14 gennaio 1926, n. 99](Approvazione%20del%20regolamento%20contenente%20norme%20e%20condizioni%20di%20trattamento%20al%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20nei%20casi%20di%20malattie%20e%20di%20infortuni.%20026U0099.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md), per la parte concernente il collocamento in aspettativa per infermita' del personale postale e telegrafico, sono modificate come segue:
  Art. 1. - Sostituito col seguente: "Al personale dell'Amministrazione delle poste e delle telecomunicazioni sono applicabili, per il collocamento in aspettativa, le disposizioni del capo X del [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni".
  Art. 2. - Abrogato.
  Art. 3. - Il secondo comma e' sostituito col seguente:

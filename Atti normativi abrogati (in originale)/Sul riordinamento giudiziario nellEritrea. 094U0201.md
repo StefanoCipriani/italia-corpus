@@ -226,7 +226,7 @@ Nelle zone di Asmara e di Cheren, oltre alle giurisdizioni locali dei notabili d
  
  dai tribunali d'arbitrato; 
  
- dai tribunali militari presso le truppe concentrate, stabiliti secondo l'[art. 311 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_311) per l'esercito, e composti a norma dell'[art. 540 e seguenti del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_540) suddetto.
+ dai tribunali militari presso le truppe concentrate, stabiliti secondo l'[art. 311 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e composti a norma dell'[art. 540 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) suddetto.
 
 ### Art. 30.
 
@@ -481,11 +481,11 @@ L'avvocato fiscale militare e' capo degli uffici del pubblico ministero, d'istru
  
  Esercita sorveglianza sui servizi risguardanti l'amministrazione della giustizia militare. 
  
- Egli, sotto la dipendenza dell'avvocato generale militare, lo rappresenta in tutto il territorio della colonia per le attribuzioni che gli spettano giusta gli [articoli 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_346), [349 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_349) dell'esercito.
+ Egli, sotto la dipendenza dell'avvocato generale militare, lo rappresenta in tutto il territorio della colonia per le attribuzioni che gli spettano giusta gli [articoli 346](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [349 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) dell'esercito.
 
 ### Art. 79.
 
-Oltre ai reati che in virtu' del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito o del [regio decreto 13 maggio 1886, n. 3917](Concernente%20la%20procedura%20e%20le%20pene%20per%20il%20traffico%20degli%20schiavi%20negri%20ed%20abissini%20nel%20territorio%20dAssab.%20086U3917.md), competono ai tribunali militari, sono pure puniti dai medesimi tribunali giusta lo stesso [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398): 
+Oltre ai reati che in virtu' del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito o del [regio decreto 13 maggio 1886, n. 3917](Concernente%20la%20procedura%20e%20le%20pene%20per%20il%20traffico%20degli%20schiavi%20negri%20ed%20abissini%20nel%20territorio%20dAssab.%20086U3917.md), competono ai tribunali militari, sono pure puniti dai medesimi tribunali giusta lo stesso [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
  
  1.° I delitti commessi a danno di militari, o di corpi ed amministrazioni militari, da chi, per un titolo qualunque, abbia un impiego nei servizi relativi all'esercito o ad una parte di esso, o che sia tenuto a prestazione di opera, o di qualsivoglia somministrazione in vantaggio dei medesimi, o che sia addetto al privato servizio di militari; 
  
@@ -497,7 +497,7 @@ Oltre ai reati che in virtu' del [codice penale](https://www.normattiva.it/uri-r
 
 ### Art. 80.
 
-Il procedimento per reati di competenza militare e' quello prescritto dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito; ma presso i tribunali di Asmara e Cheren e' quello prescritto dagli articoli 551 e seguenti del detto codice, salvo il disposto dell'art. 81 del presente regolamento. Il tribunale militare di Massaua ha pure la facolta' di usare la procedura prescritta dai suddetti articoli 551 e seguenti per tutti i reati punibili con la pena restrittiva della liberta' personale, non superiore a tre anni. In tutti i casi pero' di condanne per reati commessi in tempo di pace, le pene saranno quelle stabilite per il detto tempo dallo stesso codice.
+Il procedimento per reati di competenza militare e' quello prescritto dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito; ma presso i tribunali di Asmara e Cheren e' quello prescritto dagli articoli 551 e seguenti del detto codice, salvo il disposto dell'art. 81 del presente regolamento. Il tribunale militare di Massaua ha pure la facolta' di usare la procedura prescritta dai suddetti articoli 551 e seguenti per tutti i reati punibili con la pena restrittiva della liberta' personale, non superiore a tre anni. In tutti i casi pero' di condanne per reati commessi in tempo di pace, le pene saranno quelle stabilite per il detto tempo dallo stesso codice.
 
 ### Art. 81.
 

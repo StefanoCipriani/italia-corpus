@@ -24,7 +24,7 @@ Il riconoscimento delle condizioni per ottenere le agevolazioni previste nei pre
 
 Ai piroscafi da carico messi in costruzione nei cantieri nazionali durante il periodo della guerra, e dopo la pubblicazione del presente decreto, e' accordata l'introduzione in completa franchigia di tutto il materiale di provenienza estera necessario alla costruzione degli scafi e degli apparati motori, caldaie ed apparecchi, ausiliari. 
  
- Per gli stessi piroscafi, il compenso di costruzione previsto dall'[art. 4 della legge 13 luglio 1911, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;745#art_4), e' fissato in L. 85 per tonnellata di stazza lorda, rimanendo abolito il compenso daziario di L. 35 per tonnellata di stazza lorda, fissato dall'art. 2 della suindicata legge. 
+ Per gli stessi piroscafi, il compenso di costruzione previsto dall'[art. 4 della legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md), e' fissato in L. 85 per tonnellata di stazza lorda, rimanendo abolito il compenso daziario di L. 35 per tonnellata di stazza lorda, fissato dall'art. 2 della suindicata legge. 
  
  Per la costruzione delle macchine, caldaie ed apparecchi ausiliari, rimangono invariati i compensi stabiliti dall'art. 8 della suindicata legge.
 
@@ -32,7 +32,7 @@ Ai piroscafi da carico messi in costruzione nei cantieri nazionali durante il pe
 
 I piroscafi da carico di cui nel precedente art. 4 devono entrare in effettivo esercizio entro due anni dalla dichiarazione di costruzione. 
  
- Ove tale termine non sia rispettato, il costruttore avra' diritto solamente al compenso di costruzione fissato dall'[art. 4 della legge 13 luglio 1911, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;745#art_4).
+ Ove tale termine non sia rispettato, il costruttore avra' diritto solamente al compenso di costruzione fissato dall'[art. 4 della legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md).
 
 ### Art. 6.
 
@@ -44,7 +44,7 @@ Il ministro per i trasporti, sentita la Commissione centrale del traffico, puo' 
 
 ### Art. 8.
 
-I piroscafi di cui nel presente decreto debbono per profittare delle sue disposizioni, essere di intera proprieta' di cittadini italiani o di Societa' legalmente costituite, aventi sede nello Stato, nelle quali il presidente del Consiglio di amministrazione, l'amministratore delegato, e la maggioranza dei consiglieri di amministrazione, siano cittadini italiani; essere classificati nel registro nazionale italiano e conservare la classificazione almeno per cinque anni, ai sensi e per gli effetti del [2° comma dell'art. 5 della legge 13 luglio 1911, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;745#art_5-com2), durante il quale periodo non possono essere venduti a persone o societa' non autorizzate ad essere proprietarie di navi italiane. I piroscafi di nuova costruzione debbono ottenere la piu' alta classificazione nel registro nazionale italiano.
+I piroscafi di cui nel presente decreto debbono per profittare delle sue disposizioni, essere di intera proprieta' di cittadini italiani o di Societa' legalmente costituite, aventi sede nello Stato, nelle quali il presidente del Consiglio di amministrazione, l'amministratore delegato, e la maggioranza dei consiglieri di amministrazione, siano cittadini italiani; essere classificati nel registro nazionale italiano e conservare la classificazione almeno per cinque anni, ai sensi e per gli effetti del [2° comma dell'art. 5 della legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md), durante il quale periodo non possono essere venduti a persone o societa' non autorizzate ad essere proprietarie di navi italiane. I piroscafi di nuova costruzione debbono ottenere la piu' alta classificazione nel registro nazionale italiano.
 
 ### Art. 9.
 

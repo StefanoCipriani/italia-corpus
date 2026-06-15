@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 novembre 1930, n. 1559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-06;1559), concernente disposizioni circa la decadenza dal diritto a pensione per perdita della cittadinanza italiana. 
+ E' convertito in legge il [R. decreto-legge 6 novembre 1930, n. 1559](Disposizioni%20circa%20la%20decadenza%20del%20diritto%20a%20pensione%20per%20perdita%20della%20cittadinanza%20italiana.%20030U1559.md), concernente disposizioni circa la decadenza dal diritto a pensione per perdita della cittadinanza italiana. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 30 aprile 1931 - Anno IX 
  

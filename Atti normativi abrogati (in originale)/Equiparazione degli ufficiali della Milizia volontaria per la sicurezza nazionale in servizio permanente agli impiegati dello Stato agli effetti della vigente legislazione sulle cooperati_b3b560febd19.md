@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Agli effetti della vigente legislazione sulle cooperative edilizie che godono del contributo dello Stato nel pagamento di una parte degli interessi, gli ufficiali generali anche fuori grado, i caporali d'onore e quegli ufficiali della Milizia volontaria per la sicurezza nazionale che siano in servizio permanente ai sensi dell'[art. 4 del R. decreto legge 4 agosto 1924, n. 1292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-08-04;1292#art_4), sono da considerarsi equiparati agli impiegati dello Stato. 
+ Agli effetti della vigente legislazione sulle cooperative edilizie che godono del contributo dello Stato nel pagamento di una parte degli interessi, gli ufficiali generali anche fuori grado, i caporali d'onore e quegli ufficiali della Milizia volontaria per la sicurezza nazionale che siano in servizio permanente ai sensi dell'[art. 4 del R. decreto legge 4 agosto 1924, n. 1292](Approvazione%20del%20nuovo%20ordinamento%20della%20Milizia%20Volontaria%20per%20la%20Sicurezza%20Nazionale.%20024U1292.md), sono da considerarsi equiparati agli impiegati dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

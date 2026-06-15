@@ -22,9 +22,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico della legge sull'amministrazione e sulla contabilita' generale dello Stato;
 
-Vista la [legge 20 giugno 1909, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-20;366);
+Vista la [legge 20 giugno 1909, n. 366](Istituzione%20di%20un%20conto%20corrente%20fra%20il%20Ministero%20del%20tesoro%20ed%20il%20Ministero%20della%20marina.%20009U0366.md);
 
-Vista la [legge 17 luglio 1910, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;511);
+Vista la [legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md);
 
 Sentito il Consiglio dei ministri;
 

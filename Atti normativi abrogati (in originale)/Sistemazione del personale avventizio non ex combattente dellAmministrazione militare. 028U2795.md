@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Quando, per mancanza di sottufficiali in servizio sedentario, non vi sia modo di ripianare le vacanze che si verificano nel ruolo del personale d'ordine, l'Amministrazione militare potra', in deroga all'[art. 5 del R. decreto-legge 23 giugno 1927, n. 1037](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1037#art_5), attribuire tali posti al proprio personale non di ruolo, comunque denominato, che, in servizio ininterrotto dall'8 maggio 1924 con mansioni d'ordine, abbia presentato domanda di sistemazione entro il 19 marzo 1926, e che, all'atto in cui tale sistemazione sara' effettuata, si trovi ancora in servizio.
+Quando, per mancanza di sottufficiali in servizio sedentario, non vi sia modo di ripianare le vacanze che si verificano nel ruolo del personale d'ordine, l'Amministrazione militare potra', in deroga all'[art. 5 del R. decreto-legge 23 giugno 1927, n. 1037](Varianti%20ed%20aggiunte%20alle%20disposizioni%20riguardanti%20lo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20027U1037.md), attribuire tali posti al proprio personale non di ruolo, comunque denominato, che, in servizio ininterrotto dall'8 maggio 1924 con mansioni d'ordine, abbia presentato domanda di sistemazione entro il 19 marzo 1926, e che, all'atto in cui tale sistemazione sara' effettuata, si trovi ancora in servizio.
 
 ## Art. 2.
 
@@ -18,7 +18,7 @@ Per conseguire la sistemazione in ruolo, il personale di cui al precedente art. 
 
 ## Art. 3.
 
-In applicazione dell'[art. 20 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_20), il personale come sopra sistemato verra' collocato nel grado 13° del gruppo C.
+In applicazione dell'[art. 20 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), il personale come sopra sistemato verra' collocato nel grado 13° del gruppo C.
 
 ## Art. 4.
 

@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 26 giugno 1914, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-26;578), che autorizza il Governo del Re ad esercitare, in via provvisoria e non oltre il 31 dicembre 1914, gli stati di previsione dell'entrata e della spesa per l'esercizio finanziario 1914 - 915 non tradotti in legge entro il 30 giugno 1914;
+Vista la [legge 26 giugno 1914, n. 578](Che%20autorizza%20ad%20esercitare%20in%20via%20provvisoria%20gli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lesercizio%20finanziario%201914-915%20che%20non%20fossero%20tradotti%20in%20legge%20entro%20il%2030%20giugno%201914.%20014U0578.md), che autorizza il Governo del Re ad esercitare, in via provvisoria e non oltre il 31 dicembre 1914, gli stati di previsione dell'entrata e della spesa per l'esercizio finanziario 1914 - 915 non tradotti in legge entro il 30 giugno 1914;
 
-Vista la [legge 16 dicembre 1914, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1354), che proroga gli effetti dell'anzidetta legge n. 578 al secondo semestre dell'esercizio 1914-915;
+Vista la [legge 16 dicembre 1914, n. 1354](Per%20la%20proroga%20dellesercizio%20provvisorio%20dei%20bilanci%20e%20provvedimenti%20finanziari.%20014U1354.md), che proroga gli effetti dell'anzidetta legge n. 578 al secondo semestre dell'esercizio 1914-915;
 
 Considerato che fra gli stati di previsione della spesa dell'esercizio predetto, non approvati per legge a tutto il 30 giugno 1915, si annoverano quelli riguardanti i Ministeri del tesoro, delle colonie, della guerra, della marina o di agricoltura, industria e commercio nei disegni di legge relativi ai quali trovansi comprese disposizioni che occorre applicare anche dopo l'indicata epoca;
 
@@ -80,7 +80,7 @@ Le somme stanziate nella parte ordinaria del bilancio della marina per l'acquist
 
 ## Art. 9.
 
-Le somme che al 30 giugno di ciascun anno risulteranno disponibili sullo stanziamento del cap.: « Aumento e miglioramento della produzione degli animali bovini, ovini e suini, ecc. » dello stato di previsione della spesa del Ministero di agricoltura, industria e commercio, verranno conservato nel conto dei residui per essere erogate ai fini di cui all'[art. 2 della legge 6 luglio 1912, n. 832](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;832#art_2), concernente provvedimenti a tutela o ad incremento della produzione zootecnica nazionale.
+Le somme che al 30 giugno di ciascun anno risulteranno disponibili sullo stanziamento del cap.: « Aumento e miglioramento della produzione degli animali bovini, ovini e suini, ecc. » dello stato di previsione della spesa del Ministero di agricoltura, industria e commercio, verranno conservato nel conto dei residui per essere erogate ai fini di cui all'[art. 2 della legge 6 luglio 1912, n. 832](Concernente%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U0832.md), concernente provvedimenti a tutela o ad incremento della produzione zootecnica nazionale.
 
 ## Art. 10.
 
@@ -90,15 +90,15 @@ Il ministro di agricoltura, industria e commercio presentera' ogni anno, entro i
  
  2° sulla esecuzione delle [leggi 2 agosto 1897, numero 302, 28 luglio 1902, n. 342, e 14 luglio 1908, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-14;562), portanti provvedimenti a favore della Sardegna; 
  
- 3° sulla esecuzione della [legge 25 giugno 1906, numero 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255), portante provvedimenti a favore delle Calabrie; 
+ 3° sulla esecuzione della [legge 25 giugno 1906, numero 255](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), portante provvedimenti a favore delle Calabrie; 
  
- 4° sulla esecuzione della legge [testo unico 10 novembre 1905, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-11-10;647), e della [legge 17 luglio 1910, numero 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491), sull'Agro romano; 
+ 4° sulla esecuzione della legge [testo unico 10 novembre 1905, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-11-10;647), e della [legge 17 luglio 1910, numero 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md), sull'Agro romano; 
  
  5° sull'andamento dell'azienda del demanio forestale di Stato.
 
 ## Art. 11.
 
-Sul residuo che al 30 giugno 1915 fosse per risultare disponibile di fronte agli impegni gia' assunti sul conto corrente istituito con la [legge 16 dicembre 1912, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-16;1312), non potranno, dal 1° luglio 1915 in poi, assumersi nuovi impegni se non per spese afferenti al 1° luglio 1914. 
+Sul residuo che al 30 giugno 1915 fosse per risultare disponibile di fronte agli impegni gia' assunti sul conto corrente istituito con la [legge 16 dicembre 1912, n. 1312](Colla%20quale%20viene%20data%20esecuzione%20al%20trattato%20di%20pace%20fra%20lItalia%20e%20la%20Turchia%20e%20sono%20adottati%20provvedimenti%20per%20la%20Libia%20012U1312.md), non potranno, dal 1° luglio 1915 in poi, assumersi nuovi impegni se non per spese afferenti al 1° luglio 1914. 
  
  Il conto delle spese prescritto dalla legge predetta sara' comunicato al Parlamento in allegato a quello consuntivo del Ministero delle colonie.
 
@@ -128,7 +128,7 @@ La Cassa dei depositi e prestiti e' autorizzata ad anticipare al Ministero delle
 
 I governatori dell'Eritrea e della Somalia italiana devono trasmettere al Ministero delle colonie, non oltre il mese di settembre di ciascun anno, il progetto di bilancio di previsione per l'esercizio successivo. 
  
- Sono abrogate le contrarie disposizioni contenute nella [legge 5 aprile 1908, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-04-05;161), e nel [R. decreto 15 agosto 1913, n. 1161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-15;1161).
+ Sono abrogate le contrarie disposizioni contenute nella [legge 5 aprile 1908, n. 161](Per%20lordinamento%20della%20Somalia%20italiana.%20008U0161.md), e nel [R. decreto 15 agosto 1913, n. 1161](Col%20quale%20e%20approvato%20il%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20della%20Colonia%20eritrea.%20013U1161.md).
 
 ## Art. 15.
 
@@ -136,17 +136,17 @@ A far tempo dall'esercizio finanziario 1914-915 il controllo della Corte dei con
 
 ## Art. 16.
 
-Lo stanziamento del capitolo: « Materiali por la costruzione di nuove navi o manutenzione delle navi esistenti-Scafi, motori, armi a bordo ed a terra » dello stato di previsione della spesa del Ministero della marina, gia' aumentato di lire 10 milioni nell'esercizio finanziario 1914-915, in virtu' delle [leggi 26 giugno 1914, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-26;578), e 16 dicembre stesso anno, n. 1354, che autorizzarono l'esercizio provvisorio del bilancio, per l'esercizio medesimo, e' aumentato di altre lire 10 milioni nel 1915-916, restando cosi' determinato in lire 100 milioni. 
+Lo stanziamento del capitolo: « Materiali por la costruzione di nuove navi o manutenzione delle navi esistenti-Scafi, motori, armi a bordo ed a terra » dello stato di previsione della spesa del Ministero della marina, gia' aumentato di lire 10 milioni nell'esercizio finanziario 1914-915, in virtu' delle [leggi 26 giugno 1914, n. 578](Che%20autorizza%20ad%20esercitare%20in%20via%20provvisoria%20gli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lesercizio%20finanziario%201914-915%20che%20non%20fossero%20tradotti%20in%20legge%20entro%20il%2030%20giugno%201914.%20014U0578.md), e 16 dicembre stesso anno, n. 1354, che autorizzarono l'esercizio provvisorio del bilancio, per l'esercizio medesimo, e' aumentato di altre lire 10 milioni nel 1915-916, restando cosi' determinato in lire 100 milioni. 
  
  Detta somma sara' posteriormente aumentata con le leggi annuali di bilancio fino a raggiungere, nell'esercizio 1917-918, lo stanziamento di lire 120 milioni, che sara' mantenuto negli esercizi successivi.
 
 ## Art. 17.
 
-Per effetto del trasporto allo stato di previsione del Ministero della marina, pel 1914-915, della somma di L. 30 milioni dalle assegnazioni straordinarie consentite per spese di costruzioni navali colle [leggi 27 giugno 1909, n. 384, e 2 luglio 1911, n. 630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-02;630), eseguito in virtu' delle [leggi 26 giugno 1914, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-26;578), e 16 dicembre stesso anno, n. 1354, autorizzanti l'esercizio provvisorio pel detto esercizio, restano diminuite di corrispondente importo le assegnazioni stabilite per l'esercizio 1915-916 con le medesime [leggi n. 384 del 1909 e n. 630 del 1911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911;630).
+Per effetto del trasporto allo stato di previsione del Ministero della marina, pel 1914-915, della somma di L. 30 milioni dalle assegnazioni straordinarie consentite per spese di costruzioni navali colle [leggi 27 giugno 1909, n. 384, e 2 luglio 1911, n. 630](Concernente%20modificazioni%20alla%20legge%2027%20giugno%201909%20n.%20384%20circa%20spese%20per%20la%20marina%20militare.%20011U0630.md), eseguito in virtu' delle [leggi 26 giugno 1914, n. 578](Che%20autorizza%20ad%20esercitare%20in%20via%20provvisoria%20gli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lesercizio%20finanziario%201914-915%20che%20non%20fossero%20tradotti%20in%20legge%20entro%20il%2030%20giugno%201914.%20014U0578.md), e 16 dicembre stesso anno, n. 1354, autorizzanti l'esercizio provvisorio pel detto esercizio, restano diminuite di corrispondente importo le assegnazioni stabilite per l'esercizio 1915-916 con le medesime [leggi n. 384 del 1909 e n. 630 del 1911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911;630).
 
 ## Art. 18.
 
-Per effetto della inscrizione della somma di lire 10 milioni, proveniente dalla [legge 22 giugno 1911, n. 591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-22;591), in luogo di quella di 20 milioni, autorizzata con la legge stessa nello stato di previsione della spesa del Ministero della guerra pel 1914-915, eseguita in virtu' delle [leggi 26 giugno 1914, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-26;578), e 16 dicembre stesso anno, n. 1354, concernenti l'esercizio provvisorio del bilancio pel detto esercizio, la residuale somma di L. 10 milioni e' assegnata all'esercizio finanziario 1915-916.
+Per effetto della inscrizione della somma di lire 10 milioni, proveniente dalla [legge 22 giugno 1911, n. 591](Riguardante%20la%20sostituzione%20delle%20batterie%20campali%20da%2075-A%20ad%20affusto%20rigido.%20011U0591.md), in luogo di quella di 20 milioni, autorizzata con la legge stessa nello stato di previsione della spesa del Ministero della guerra pel 1914-915, eseguita in virtu' delle [leggi 26 giugno 1914, n. 578](Che%20autorizza%20ad%20esercitare%20in%20via%20provvisoria%20gli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lesercizio%20finanziario%201914-915%20che%20non%20fossero%20tradotti%20in%20legge%20entro%20il%2030%20giugno%201914.%20014U0578.md), e 16 dicembre stesso anno, n. 1354, concernenti l'esercizio provvisorio del bilancio pel detto esercizio, la residuale somma di L. 10 milioni e' assegnata all'esercizio finanziario 1915-916.
 
 ## Art. 19.
 

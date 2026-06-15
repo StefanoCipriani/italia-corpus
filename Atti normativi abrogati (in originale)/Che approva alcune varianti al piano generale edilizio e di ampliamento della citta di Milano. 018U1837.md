@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 12 luglio 1912, n. 866](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-12;866), che approvo' il piano generale edilizio e di ampliamento della citta' di Milano, stabilendo termini diversi per le tre zone in cui era diviso e dando facolta' al Governo di approvare, previa la procedura prescritta dalle vigenti norme organiche, le varianti che il Comune avesse riconosciute opportune e di estendere alle medesime le disposizioni della legge stessa; 
+ Vista la [legge 12 luglio 1912, n. 866](Che%20approva%20il%20piano%20generale%20edilizio%20regolatore%20e%20di%20ampliamento%20della%20citta%20di%20Milano.%20012U0866.md), che approvo' il piano generale edilizio e di ampliamento della citta' di Milano, stabilendo termini diversi per le tre zone in cui era diviso e dando facolta' al Governo di approvare, previa la procedura prescritta dalle vigenti norme organiche, le varianti che il Comune avesse riconosciute opportune e di estendere alle medesime le disposizioni della legge stessa; 
  
- Vista la [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), sulle espropriazioni a causa di pubblica utilita'; 
+ Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sulle espropriazioni a causa di pubblica utilita'; 
  
  Vista la domanda presentata dal sindaco di Milano, in base a deliberazioni 15 febbraio e 8 marzo 1917 di quel Consiglio comunale, allo scopo di ottenere l'approvazione di varie modificazioni del detto piano, in localita' della seconda e terza zona, e l'estensione alle modificazioni stesse delle disposizioni della legge 12 luglio 1912; 
  
@@ -44,7 +44,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  1. Sono approvate le varianti che il comune di Milano ha apportato al piano generale edilizio e di ampliamento della citta', quali risultano dalle dieci planimetrie in data 19 luglio 1916, a firma dell'ingegnere Giovanni Mazera, visto, d'ordine Nostro, dal ministro proponente. 
  
- 2. Alle varianti stesse sono estese le disposizioni della [legge 12 luglio 1912, n. 866](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-12;866). 
+ 2. Alle varianti stesse sono estese le disposizioni della [legge 12 luglio 1912, n. 866](Che%20approva%20il%20piano%20generale%20edilizio%20regolatore%20e%20di%20ampliamento%20della%20citta%20di%20Milano.%20012U0866.md). 
  
  3. Restano fermi i termini fissati dalla detta legge per l'attuazione del piano. 
  

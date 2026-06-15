@@ -24,11 +24,11 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-L'organico del Corpo di polizia penitenziaria stabilito dalla tabella A allegata al [decreto legislativo 12 maggio 1995, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;200), e' aumentato nel ruolo degli agenti e degli assistenti di millequattrocento unita' di personale maschile.
+L'organico del Corpo di polizia penitenziaria stabilito dalla tabella A allegata al [decreto legislativo 12 maggio 1995, n. 200](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20del%20Corpo%20di%20polizia%20penitenziaria.md), e' aumentato nel ruolo degli agenti e degli assistenti di millequattrocento unita' di personale maschile.
 
 2.
 
-Fino al 31 dicembre 1997 le assunzioni del personale del Corpo di polizia penitenziaria per l'accesso alla qualifica di agente hanno luogo anche in eccedenza rispetto alla consistenza numerica del ruolo degli agenti e degli assistenti di cui alla tabella A allegata al [decreto legislativo 12 maggio 1995, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;200), cosi' come modificata dal comma 1, e comunque non oltre il limite delle vacanze esistenti nel ruolo dei sovrintendenti e degli ispettori di cui alla predetta tabella. Le conseguenti eccedenze nel ruolo degli agenti e degli assistenti sono riassorbite mediante le ordinarie procedure di avanzamento o per effetto delle assunzioni.
+Fino al 31 dicembre 1997 le assunzioni del personale del Corpo di polizia penitenziaria per l'accesso alla qualifica di agente hanno luogo anche in eccedenza rispetto alla consistenza numerica del ruolo degli agenti e degli assistenti di cui alla tabella A allegata al [decreto legislativo 12 maggio 1995, n. 200](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20del%20Corpo%20di%20polizia%20penitenziaria.md), cosi' come modificata dal comma 1, e comunque non oltre il limite delle vacanze esistenti nel ruolo dei sovrintendenti e degli ispettori di cui alla predetta tabella. Le conseguenti eccedenze nel ruolo degli agenti e degli assistenti sono riassorbite mediante le ordinarie procedure di avanzamento o per effetto delle assunzioni.
 
 3.
 
@@ -41,7 +41,7 @@ Gli interessati, a seguito della verifica del possesso dei requisiti previsti pe
 
 5.
 
-Se l'assunzione di personale a norma dei commi 3 e 4 non e' sufficiente a coprire tutti i posti disponibili, si provvede mediante corrispondente reclutamento di agenti ausiliari del Corpo di polizia penitenziaria ai sensi dell'[articolo 5, comma 7, del decreto legislativo 30 ottobre 1992, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443#art_5-com7); in deroga a tale decreto legislativo, e fino al 31 dicembre 1997, e' fissata in tre mesi la durata del corso alla fine del secondo anno di servizio.
+Se l'assunzione di personale a norma dei commi 3 e 4 non e' sufficiente a coprire tutti i posti disponibili, si provvede mediante corrispondente reclutamento di agenti ausiliari del Corpo di polizia penitenziaria ai sensi dell'[articolo 5, comma 7, del decreto legislativo 30 ottobre 1992, n. 443](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20di%20polizia%20penitenziaria%20a%20norma%20dellart.%2014%20comma%201%20della%20legge%2015%20dicembre%201990%20n.%20395.md); in deroga a tale decreto legislativo, e fino al 31 dicembre 1997, e' fissata in tre mesi la durata del corso alla fine del secondo anno di servizio.
 
 6.
 

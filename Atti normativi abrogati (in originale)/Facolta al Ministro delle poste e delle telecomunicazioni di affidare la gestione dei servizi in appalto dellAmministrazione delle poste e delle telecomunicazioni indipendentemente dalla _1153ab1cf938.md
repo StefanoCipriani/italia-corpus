@@ -16,17 +16,17 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 25 giugno 1936, n. 1538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-06-25;1538), convertito nella [legge 10 giugno 1937, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-10;1139), riguardante la formazione dell'Alba nazionale degli appaltatori di opere pubbliche;
+Visto il [R. decreto-legge 25 giugno 1936, n. 1538](Formazione%20dellAlbo%20nazionale%20e%20degli%20Albi%20locali%20degli%20appaltatori%20di%20opere%20pubbliche.%20036U1538.md), convertito nella [legge 10 giugno 1937, n. 1139](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2025%20giugno%201936-XIV%20n.%201538%20riguardante%20la%20formazione%20dellAlbo%20nazionale%20degli%20appaltatori%20di%20opere%20pubbliche.%20037U1139.md), riguardante la formazione dell'Alba nazionale degli appaltatori di opere pubbliche;
 
-Visto il [R. decreto-legge 23 febbraio 1939, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-23;309), concernente la formazione e tenuta di elenchi autorizzati delle imprese ammesse a gestire servizi in appalto delle Amministrazioni ferroviaria e postelegrafica;
+Visto il [R. decreto-legge 23 febbraio 1939, n. 309](Formazione%20e%20tenuta%20di%20elenchi%20autorizzati%20delle%20imprese%20ammesse%20a%20gestire%20servizi%20in%20appalto%20dalle%20Amministrazioni%20ferroviaria%20e%20postelegrafonica.%20039U0309.md), concernente la formazione e tenuta di elenchi autorizzati delle imprese ammesse a gestire servizi in appalto delle Amministrazioni ferroviaria e postelegrafica;
 
-Vista la [legge 30 marzo 1942, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-03-30;511), contenente modificazioni alla [legge 10 giugno 1937, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-10;1139) citata;
+Vista la [legge 30 marzo 1942, n. 511](Modificazioni%20alla%20legge%2010%20giugno%201937-XV%20n.%201139%20relativa%20alla%20formazione%20dellAlbo%20nazionale%20degli%20appaltatori%20di%20opere%20pubbliche.%20042U0511.md), contenente modificazioni alla [legge 10 giugno 1937, n. 1139](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2025%20giugno%201936-XIV%20n.%201538%20riguardante%20la%20formazione%20dellAlbo%20nazionale%20degli%20appaltatori%20di%20opere%20pubbliche.%20037U1139.md) citata;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro per le poste e per le telecomunicazioni, di concerto
 
 ## Art. 1.
 
-L'elenco delle imprese ammesse a gestire servizi concessi in appalto dall'Amministrazione delle poste e delle telecomunicazioni, previsto dal [R. decreto-legge 23 febbraio 1939, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-23;309), si intende decaduto.
+L'elenco delle imprese ammesse a gestire servizi concessi in appalto dall'Amministrazione delle poste e delle telecomunicazioni, previsto dal [R. decreto-legge 23 febbraio 1939, n. 309](Formazione%20e%20tenuta%20di%20elenchi%20autorizzati%20delle%20imprese%20ammesse%20a%20gestire%20servizi%20in%20appalto%20dalle%20Amministrazioni%20ferroviaria%20e%20postelegrafonica.%20039U0309.md), si intende decaduto.
 
 ## Art. 2.
 

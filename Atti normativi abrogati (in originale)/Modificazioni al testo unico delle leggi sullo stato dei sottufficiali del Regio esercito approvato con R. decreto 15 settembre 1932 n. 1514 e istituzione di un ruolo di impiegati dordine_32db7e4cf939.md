@@ -109,9 +109,9 @@ marescialli maggiori . . . . . . . . . . . . . . . . . . . . . » 5168
  
  Il numero dei marescialli ordinari, capi e maggiori di cui al comma precedente e' aumentato: 
  
- 1° in relazione ai posti che si sono resi vacanti dal 1° luglio 1927, e che si renderanno vacanti ancora negli impieghi del personale d'ordine delle amministrazioni e dei magazzini militari, tenuto conto delle riduzioni derivanti dal [R. decreto 27 aprile 1931, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-04-27;985), e dall'istituzione del ruolo di cui al successivo art. 19; 
+ 1° in relazione ai posti che si sono resi vacanti dal 1° luglio 1927, e che si renderanno vacanti ancora negli impieghi del personale d'ordine delle amministrazioni e dei magazzini militari, tenuto conto delle riduzioni derivanti dal [R. decreto 27 aprile 1931, n. 985](Revisione%20dei%20ruoli%20organici%20dei%20personali%20civili%20dellAmministrazione%20della%20guerra.%20031U0985.md), e dall'istituzione del ruolo di cui al successivo art. 19; 
  
- 2° in relazione alle vacanze verificatesi fino al 30 giugno 1932, nei posti conferiti ai sottufficiali riassunti in base alla facolta' consentita al [Ministro per la guerra con R. decreto-legge 18 settembre 1924, n. 1606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-09-18;1606). 
+ 2° in relazione alle vacanze verificatesi fino al 30 giugno 1932, nei posti conferiti ai sottufficiali riassunti in base alla facolta' consentita al [Ministro per la guerra con R. decreto-legge 18 settembre 1924, n. 1606](Modificazione%20delle%20disposizioni%20relative%20alla%20riassunzione%20in%20servizio%20di%20sottufficiali%20a%20riposo.%20024U1606.md). 
  
  I posti cosi' aumentati, in via transitoria, sono soppressi in ragione di 50 per ogni esercizio finanziario, a cominciare dal 1932-33; 
  
@@ -173,7 +173,7 @@ Le promozioni ai gradi 9°, 10° e 11° saranno conferite con le norme vigenti p
 
 ## Art. 22.
 
-I posti di ruolo del personale d'ordine delle Amministrazioni militari - stabiliti in numero di 1931 dal [R. decreto 27 aprile 1931, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-04-27;985), e messi a disposizione dei sottufficiali del Regio esercito man mano che si rendono vacanti - sono ridotti a 1581.
+I posti di ruolo del personale d'ordine delle Amministrazioni militari - stabiliti in numero di 1931 dal [R. decreto 27 aprile 1931, n. 985](Revisione%20dei%20ruoli%20organici%20dei%20personali%20civili%20dellAmministrazione%20della%20guerra.%20031U0985.md), e messi a disposizione dei sottufficiali del Regio esercito man mano che si rendono vacanti - sono ridotti a 1581.
 
 ## Art. 23.
 
@@ -183,7 +183,7 @@ Il permesso di contrarre matrimonio puo' essere concesso senza limitazione di nu
 
 ## Art. 24.
 
-L'organico del personale subalterno dell'Amministrazione centrale della guerra, stabilito dal [R. decreto 27 aprile 1931, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-04-27;985), e' 
+L'organico del personale subalterno dell'Amministrazione centrale della guerra, stabilito dal [R. decreto 27 aprile 1931, n. 985](Revisione%20dei%20ruoli%20organici%20dei%20personali%20civili%20dellAmministrazione%20della%20guerra.%20031U0985.md), e' 
 sostituito dal seguente: 
  
  
@@ -206,7 +206,7 @@ sostituito dal seguente:
 
 ### Art. 25.
 
-I sergenti maggiori gia' iscritti sui quadri d'avanzamento a scelta o d'avanzamento ad anzianita', alla data di entrata in vigore della presente legge, saranno promossi marescialli ordinari, a scelta o ad anzianita', con le norme di cui al testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-15;1514).
+I sergenti maggiori gia' iscritti sui quadri d'avanzamento a scelta o d'avanzamento ad anzianita', alla data di entrata in vigore della presente legge, saranno promossi marescialli ordinari, a scelta o ad anzianita', con le norme di cui al testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md).
 
 ### Art. 26.
 
@@ -218,11 +218,11 @@ I sottufficiali in servizio territoriale che, all'atto dell'entrata in vigore de
 
 ### Art. 27.
 
-I sottufficiali che, all'atto dell'entrata in vigore della presente legge, si trovino nella posizione di trattenuti alle armi a mente dell'art. 34 del testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto 15 settembre 1932, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-15;1514), possono rimanere in servizio fino al compimento del 40° anno di servizio o del 60° anno di eta', salvo la facolta' al Ministro per la guerra di collocarli a riposo in qualunque tempo a suo insindacabile giudizio. 
+I sottufficiali che, all'atto dell'entrata in vigore della presente legge, si trovino nella posizione di trattenuti alle armi a mente dell'art. 34 del testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), possono rimanere in servizio fino al compimento del 40° anno di servizio o del 60° anno di eta', salvo la facolta' al Ministro per la guerra di collocarli a riposo in qualunque tempo a suo insindacabile giudizio. 
  
  Essi gravano sulla totalita' degli organici dei marescialli sia alle truppe che nella posizione di servizio territoriale. 
  
- Detti sottufficiali conserveranno ad personam l'indennita' pensionabile di L. 700 annue, loro concessa in base all'[art. 59 del R. decreto-legge 23 giugno 1927, n. 1037](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1037#art_59), convertito nella [legge 16 febbraio 1928, n. 295](Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20giugno%201927%20n.%201037%20col%20quale%20si%20apportano%20varianti%20ed%20aggiunte%20alle%20disposizioni%20riguardanti%20lo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20028U0295.md).
+ Detti sottufficiali conserveranno ad personam l'indennita' pensionabile di L. 700 annue, loro concessa in base all'[art. 59 del R. decreto-legge 23 giugno 1927, n. 1037](Varianti%20ed%20aggiunte%20alle%20disposizioni%20riguardanti%20lo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20027U1037.md), convertito nella [legge 16 febbraio 1928, n. 295](Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20giugno%201927%20n.%201037%20col%20quale%20si%20apportano%20varianti%20ed%20aggiunte%20alle%20disposizioni%20riguardanti%20lo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20028U0295.md).
 
 ### Art. 28.
 
@@ -242,21 +242,21 @@ All'attuazione del nuovo ruolo del personale d'ordine dell'Amministrazione centr
 
 ### Art. 30.
 
-All'attuazione del nuovo ruolo del personale d'ordine dell'Amministrazione centrale della guerra, gli alunni d'ordine che, alla data di entrata in vigore della presente legge, risultino comandati in servizio presso detta Amministrazione centrale, saranno collocati in ordine di anzianita', e nel limite dei posti disponibili, nel grado 12° del menzionato ruolo, al compimento del periodo di 5 anni di permanenza nel grado 13°, previsto dall'[art. 20 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_20), se giudicati meritevoli dal Consiglio d'amministrazione.
+All'attuazione del nuovo ruolo del personale d'ordine dell'Amministrazione centrale della guerra, gli alunni d'ordine che, alla data di entrata in vigore della presente legge, risultino comandati in servizio presso detta Amministrazione centrale, saranno collocati in ordine di anzianita', e nel limite dei posti disponibili, nel grado 12° del menzionato ruolo, al compimento del periodo di 5 anni di permanenza nel grado 13°, previsto dall'[art. 20 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), se giudicati meritevoli dal Consiglio d'amministrazione.
 
 ### Art. 31.
 
-Sono abrogati gli articoli 4, 6, 9, 18, 19, 20, 21 e 34 del testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto 15 settembre 1932, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-15;1514), e tutte le altre disposizioni contrarie alla presente legge.
+Sono abrogati gli articoli 4, 6, 9, 18, 19, 20, 21 e 34 del testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e tutte le altre disposizioni contrarie alla presente legge.
 
 ### Art. 32.
 
-Sono abrogati gli [articoli 66 del R. decreto-legge 23 giugno 1927, n. 1037](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1037#art_66), convertito nella [legge 16 febbraio 1928, n. 295](Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20giugno%201927%20n.%201037%20col%20quale%20si%20apportano%20varianti%20ed%20aggiunte%20alle%20disposizioni%20riguardanti%20lo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20028U0295.md), e 10 e 14 del [R. decreto-legge 26 luglio 1929, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-07-26;1413), convertito nella [legge 23 dicembre 1929, n. 2294](Conversione%20in%20legge%20dei%20Regi%20decreti-legge%2026%20luglio%201929%20n.%201430%20recante%20modificazioni%20allordinamento%20e%20allorganico%20dellArma%20dei%20carabinieri%20Reali%20e%2026%20luglio%201929%20n.%201413%20recante%20modif_c7d0d2470189.md). 
+Sono abrogati gli [articoli 66 del R. decreto-legge 23 giugno 1927, n. 1037](Varianti%20ed%20aggiunte%20alle%20disposizioni%20riguardanti%20lo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20027U1037.md), convertito nella [legge 16 febbraio 1928, n. 295](Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20giugno%201927%20n.%201037%20col%20quale%20si%20apportano%20varianti%20ed%20aggiunte%20alle%20disposizioni%20riguardanti%20lo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20028U0295.md), e 10 e 14 del [R. decreto-legge 26 luglio 1929, n. 1413](Modificazioni%20alle%20disposizioni%20riguardanti%20lo%20stato%20dei%20sottufficiali%20dellArma%20dei%20carabinieri%20Reali.%20029U1413.md), convertito nella [legge 23 dicembre 1929, n. 2294](Conversione%20in%20legge%20dei%20Regi%20decreti-legge%2026%20luglio%201929%20n.%201430%20recante%20modificazioni%20allordinamento%20e%20allorganico%20dellArma%20dei%20carabinieri%20Reali%20e%2026%20luglio%201929%20n.%201413%20recante%20modif_c7d0d2470189.md). 
  
- I marescialli d'alloggio maggiori dei carabinieri Reali che attualmente sono provvisti della speciale indennita' pensionabile prevista dall'art. 10 del citato [R. decreto-legge 26 luglio 1929, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-07-26;1413), la conservano ad personam.
+ I marescialli d'alloggio maggiori dei carabinieri Reali che attualmente sono provvisti della speciale indennita' pensionabile prevista dall'art. 10 del citato [R. decreto-legge 26 luglio 1929, n. 1413](Modificazioni%20alle%20disposizioni%20riguardanti%20lo%20stato%20dei%20sottufficiali%20dellArma%20dei%20carabinieri%20Reali.%20029U1413.md), la conservano ad personam.
 
 ### Art. 33.
 
-Il Ministro per la guerra ha la facolta' di apportare, di concerto col Ministro per le finanze, al testo unico delle leggi sullo stato dei sottufficiali del Regio esercito approvato con [R. decreto 15 settembre 1932, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-15;1514), tutte le modificazioni conseguenti alla presente legge. 
+Il Ministro per la guerra ha la facolta' di apportare, di concerto col Ministro per le finanze, al testo unico delle leggi sullo stato dei sottufficiali del Regio esercito approvato con [R. decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), tutte le modificazioni conseguenti alla presente legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno' d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

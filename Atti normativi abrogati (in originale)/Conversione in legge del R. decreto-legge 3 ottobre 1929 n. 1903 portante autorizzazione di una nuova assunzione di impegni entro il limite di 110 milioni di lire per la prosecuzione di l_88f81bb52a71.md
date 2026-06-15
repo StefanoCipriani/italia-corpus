@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-03;1903), portante autorizzazione di una nuova assunzione di impegni entro il limite di 110 milioni di lire per la prosecuzione dei lavori della linea direttissima Firenze-Bologna. 
+ E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1903](Autorizzazione%20di%20una%20nuova%20assunzione%20dimpegni%20entro%20il%20limite%20di%20110%20milioni%20di%20lire%20per%20la%20prosecuzione%20dei%20lavori%20della%20linea%20direttissima%20Firenze-Bologna.%20029U1903.md), portante autorizzazione di una nuova assunzione di impegni entro il limite di 110 milioni di lire per la prosecuzione dei lavori della linea direttissima Firenze-Bologna. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

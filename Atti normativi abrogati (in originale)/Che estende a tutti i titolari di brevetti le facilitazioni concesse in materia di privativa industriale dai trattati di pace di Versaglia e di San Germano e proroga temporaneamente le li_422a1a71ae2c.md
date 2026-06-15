@@ -18,9 +18,9 @@ Vista la legge 30 ottobre 1859, n. 3731;
 
 Visti i [decreti Luogotenenziali 20 giugno 1915, numero 962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-20;962) e [22 marzo 1917, n. 533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-03-22;533);
 
-Visto il [Regio decreto 6 ottobre 1919, n. 1803](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-06;1803), che approva il trattato concluso fra l'Italia e la Germania, sottoscritto a Versaglia il 28 giugno 1919;
+Visto il [Regio decreto 6 ottobre 1919, n. 1803](Che%20approva%20il%20trattato%20concluso%20fra%20lItalia%20e%20la%20Germania%20sottoscritto%20a%20Versaglia.%20019U1803.md), che approva il trattato concluso fra l'Italia e la Germania, sottoscritto a Versaglia il 28 giugno 1919;
 
-Visto il [R. decreto 6 ottobre 1919, n. 1804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-06;1804), che approva il trattato concluso fra l'Italia e l'Austria sottoscritto a San Germano il 10 settembre 1919;
+Visto il [R. decreto 6 ottobre 1919, n. 1804](Che%20approva%20il%20trattato%20concluso%20fra%20lItalia%20e%20lAustria%20sottoscritto%20a%20San%20Germano.%20019U1804.md), che approva il trattato concluso fra l'Italia e l'Austria sottoscritto a San Germano il 10 settembre 1919;
 
 Considerando che le disposizioni dei detti trattati riguardanti proroghe di termini per mantenere in vigore i diritti di privativa industriale e per farne valere il diritto di priorita' di precedenti depositi sono piu' ampie e estese di quelle concesse ai titolari di brevetti italiani coi decreti sopra richiamati;
 

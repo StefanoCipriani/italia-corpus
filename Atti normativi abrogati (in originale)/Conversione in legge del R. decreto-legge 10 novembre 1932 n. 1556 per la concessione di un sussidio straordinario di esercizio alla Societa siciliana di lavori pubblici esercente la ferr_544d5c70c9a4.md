@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  Noi abbiamo sanzionato e promulghiamo quanto segue: 
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 novembre 1932, n. 1556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-11-10;1556), per la concessione di un sussidio straordinario esercizio alla Societa' siciliana di lavori pubblici, esercente la ferrovia Circumetnea. 
+ E' convertito in legge il [R. decreto-legge 10 novembre 1932, n. 1556](Concessione%20di%20un%20sussidio%20straordinario%20di%20esercizio%20alla%20Societa%20siciliana%20di%20lavori%20pubblici%20esercente%20la%20ferrovia%20Circumetnea.%20032U1556.md), per la concessione di un sussidio straordinario esercizio alla Societa' siciliana di lavori pubblici, esercente la ferrovia Circumetnea. 
  Ordiniamo che la presente munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del credito d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 3 aprile 1933 - Anno XI 
  VITTORIO EMANUELE 

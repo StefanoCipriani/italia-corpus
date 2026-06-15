@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 dicembre 1934, n. 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-03;1988), recante nuove norme per la emissione delle licenze di fabbricazione, riparazione e vendita di apparecchi e materiali radioelettrici. 
+ E' convertito in legge il [R. decreto-legge 3 dicembre 1934, n. 1988](Nuove%20norme%20per%20la%20emissione%20delle%20licenze%20di%20fabbricazione%20riparazione%20e%20vendita%20di%20apparecchi%20e%20materiali%20radioelettrici.%20034U1988.md), recante nuove norme per la emissione delle licenze di fabbricazione, riparazione e vendita di apparecchi e materiali radioelettrici. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale dello leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 2 del testo unico delle disposizioni sulla costituzione della Societa' cooperativa «Unione Militare» in ente autonomo, approvato con [R. decreto 22 gennaio 1928, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-22;166), sono aggiunti i seguenti commi: 
+All'art. 2 del testo unico delle disposizioni sulla costituzione della Societa' cooperativa «Unione Militare» in ente autonomo, approvato con [R. decreto 22 gennaio 1928, n. 166](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20costituzione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20028U0166.md), sono aggiunti i seguenti commi: 
  
  «Potra' tuttavia il Ministro per la guerra autorizzare il credito e la mutualita' anche ai non inscritti, purche' appartenenti alle forze armate dello Stato. 
  

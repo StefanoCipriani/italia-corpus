@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Vista la [legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86);
+Vista la [legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md);
 
 Vista la [legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md);
 
@@ -50,7 +50,7 @@ Le norme del presente regolamento non si applicano agli embrioni concepiti media
  delle disposizioni sulla promulgazione delle leggi, 
  sull'emanazione dei decreti del Presidente della Repubblica 
  e sulle pubblicazioni ufficiali della Repubblica italiana, 
- approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo 
+ approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
  fine di facilitare la lettura delle disposizioni di legge 
  alle quali e' operato il rinvio. Restano invariati il 
  valore e l'efficacia degli atti legislativi qui trascritti. 
@@ -61,7 +61,7 @@ Le norme del presente regolamento non si applicano agli embrioni concepiti media
  - La [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), reca: "Disciplina 
  dell'attivita' di Governo e ordinamento della Presidenza 
  del Consiglio dei Ministri". 
- - La [legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86), reca: "Norme generali 
+ - La [legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), reca: "Norme generali 
  sulla partecipazione dell'Italia al processo normativo 
  comunitario e sulle procedure di esecuzione degli obblighi 
  comunitari". 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 10, primo comma, del R. decreto-legge 27 aprile 1936, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-04-27;635#art_10-com1), convertito nella legge 8 aprile 1937-XV, n. 594, e' sostituito dal seguente: 
+L'[art. 10, primo comma, del R. decreto-legge 27 aprile 1936, n. 635](Modificazioni%20al%20regime%20fiscale%20degli%20spiriti%20e%20nuovo%20assetto%20della%20loro%20produzione%20e%20del%20loro%20impiego.%20036U0635.md), convertito nella legge 8 aprile 1937-XV, n. 594, e' sostituito dal seguente: 
  
  «I prezzi di vendita dell'alcole di 1ª categoria possono essere riveduti e modificati dal Ministro per le finanze entro il mese di giugno di ciascun anno». 
  

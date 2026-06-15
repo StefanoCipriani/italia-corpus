@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-24;1392), concernente agevolazioni per il rifornimento all'agricoltura di granoturco per il bestiame, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1392](Agevolazioni%20per%20il%20rifornimento%20allagricoltura%20di%20granoturco%20per%20il%20bestiame.%20031U1392.md), concernente agevolazioni per il rifornimento all'agricoltura di granoturco per il bestiame, con la seguente modificazione: 
  
  L'art. 1 e' sostituito dal seguente: 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-03;1842), recante il conferimento al comune di Napoli di poteri straordinari per il riordinamento degli uffici e servizi e la dispensa del personale. 
+ E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1842](Conferimento%20al%20comune%20di%20Napoli%20dei%20poteri%20straordinari%20per%20riordinamento%20degli%20uffici%20e%20dei%20servizi%20e%20per%20la%20dispensa%20del%20personale.%20029U1842.md), recante il conferimento al comune di Napoli di poteri straordinari per il riordinamento degli uffici e servizi e la dispensa del personale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

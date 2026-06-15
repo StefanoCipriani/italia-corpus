@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 29 marzo 1946, n. 288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-29;288), riguardante il collocamento dei buoni del Tesoro ordinari a mezzo degli uffici postali, dell'istituto di emissione e delle aziende di credito;
+Visto il [decreto legislativo luogotenenziale 29 marzo 1946, n. 288](../Decreti%20legislativi%20luogotenenziali/Collocamento%20dei%20buoni%20dei%20Tesoro%20ordinari%20a%20mezzo%20di%20uffici%20postali%20dellistituto%20di%20emissione%20e%20delle%20azienda%20di%20credito.md), riguardante il collocamento dei buoni del Tesoro ordinari a mezzo degli uffici postali, dell'istituto di emissione e delle aziende di credito;
 
 Ritenuta la opportunita' di prorogare quanto in esso e' disposto anche per l'esercizio 1946-47;
 

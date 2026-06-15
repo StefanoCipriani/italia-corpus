@@ -79,7 +79,7 @@ La carriera direttiva del personale di servizio sociale comprende le seguenti qu
  direttore di sezione consigliere di I classe;
  consigliere di II classe;
  consigliere di III classe;
- di cui al [primo comma dell'articolo 153 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_153-com1).
+ di cui al [primo comma dell'articolo 153 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ### Art. 9. — Attribuzioni degli ispettori di servizio sociale
 
@@ -114,7 +114,7 @@ La carriera di concetto del personale di servizio sociale comprende le seguenti 
  primo segretario;
  segretario;
  segretario aggiunto;
- vice segretario, di cui al [primo comma dell'articolo 171 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_171-com1).
+ vice segretario, di cui al [primo comma dell'articolo 171 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ### Art. 13. — Attribuzioni del personale di concetto di servizio sociale
 

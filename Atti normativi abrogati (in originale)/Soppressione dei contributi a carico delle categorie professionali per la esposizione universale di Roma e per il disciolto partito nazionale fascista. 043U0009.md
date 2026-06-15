@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R.D.L. 20 febbraio 1939, n. 316](Maggiorazione%20dei%20contributi%20sindacali%20a%20favore%20delle%20Associazioni%20professionali%20per%20la%20partecipazione%20della%20categoria%20da%20loro%20rappresentata%20alla%20Esposizione%20universale%20di%20Roma.%20039U0316.md), sulla maggiorazione dei contributi sindacali a favore delle associazioni, per la partecipazione delle categorie da loro rappresentate all'esposizione universale di Roma, convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
+Visto il [R.D.L. 20 febbraio 1939, n. 316](Maggiorazione%20dei%20contributi%20sindacali%20a%20favore%20delle%20Associazioni%20professionali%20per%20la%20partecipazione%20della%20categoria%20da%20loro%20rappresentata%20alla%20Esposizione%20universale%20di%20Roma.%20039U0316.md), sulla maggiorazione dei contributi sindacali a favore delle associazioni, per la partecipazione delle categorie da loro rappresentate all'esposizione universale di Roma, convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
 Visto l'[art. 3, secondo](Accertamento%20e%20riscossione%20con%20unica%20procedura%20di%20contributi%20dovuti%20da%20categorie%20professionali.%20040U0495.md) e [terzo comma, della legge 22 aprile 1940, n. 495](Accertamento%20e%20riscossione%20con%20unica%20procedura%20di%20contributi%20dovuti%20da%20categorie%20professionali.%20040U0495.md), concernente l'accertamento e la riscossione con unica procedura dei contributi dovuti da categorie professionali;
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, d'intes
 
 ## Art. 1.
 
-I contributi stabiliti a favore delle associazioni sindacali per la partecipazione delle categorie da esse rappresentate all'esposizione universale di Roma, ai sensi del [R.D.L. 20 febbraio 1939, n. 316](Maggiorazione%20dei%20contributi%20sindacali%20a%20favore%20delle%20Associazioni%20professionali%20per%20la%20partecipazione%20della%20categoria%20da%20loro%20rappresentata%20alla%20Esposizione%20universale%20di%20Roma.%20039U0316.md), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), e i contributi richiesti dalle categorie professionali dal disciolto partito nazionale fascista, ai sensi dell'[art. 3, secondo](Accertamento%20e%20riscossione%20con%20unica%20procedura%20di%20contributi%20dovuti%20da%20categorie%20professionali.%20040U0495.md) e [terzo comma, della legge 22 aprile 1940, n. 495](Accertamento%20e%20riscossione%20con%20unica%20procedura%20di%20contributi%20dovuti%20da%20categorie%20professionali.%20040U0495.md), sono soppressi a decorrere dal 1 gennaio 1944.
+I contributi stabiliti a favore delle associazioni sindacali per la partecipazione delle categorie da esse rappresentate all'esposizione universale di Roma, ai sensi del [R.D.L. 20 febbraio 1939, n. 316](Maggiorazione%20dei%20contributi%20sindacali%20a%20favore%20delle%20Associazioni%20professionali%20per%20la%20partecipazione%20della%20categoria%20da%20loro%20rappresentata%20alla%20Esposizione%20universale%20di%20Roma.%20039U0316.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), e i contributi richiesti dalle categorie professionali dal disciolto partito nazionale fascista, ai sensi dell'[art. 3, secondo](Accertamento%20e%20riscossione%20con%20unica%20procedura%20di%20contributi%20dovuti%20da%20categorie%20professionali.%20040U0495.md) e [terzo comma, della legge 22 aprile 1940, n. 495](Accertamento%20e%20riscossione%20con%20unica%20procedura%20di%20contributi%20dovuti%20da%20categorie%20professionali.%20040U0495.md), sono soppressi a decorrere dal 1 gennaio 1944.
 
 ## Art. 2.
 
@@ -48,6 +48,6 @@ Il presente decreto, che entra in vigore il giorno della sua pubblicazione nella
  
  BADOGLIO - PICCARDI 
  
- Visto (Ai sensi del [R.D. 30 ottobre 1943, n. 1/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-10-30;1)) 
+ Visto (Ai sensi del [R.D. 30 ottobre 1943, n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
  
  Il Guardasigilli: BADOGLIO

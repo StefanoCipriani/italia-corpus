@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 novembre 1925, n. 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-15;2004), che da' esecuzione all'Accordo commerciale provvisorio fra l'Italia e la Bulgaria stipulato in Sofia il 27 ottobre 1925. 
+ E' convertito in legge il [R. decreto-legge 15 novembre 1925, n. 2004](Esecuzione%20dellaccordo%20commerciale%20provvisorio%20stipulato%20a%20Sofia%20fra%20lItalia%20e%20la%20Bulgaria.%20025U2004.md), che da' esecuzione all'Accordo commerciale provvisorio fra l'Italia e la Bulgaria stipulato in Sofia il 27 ottobre 1925. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia incerta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

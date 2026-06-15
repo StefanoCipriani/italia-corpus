@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 31 dicembre 1917, n. 2045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-12-31;2045); 
+ Vista la [legge 31 dicembre 1917, n. 2045](Che%20proroga%20il%20termine%20indicato%20della%20legge%2028%20ottobre%201917%20n.%201751%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20sian_80dd5cff68ce.md); 
  
  Sentito il Consiglio dei ministri; 
  

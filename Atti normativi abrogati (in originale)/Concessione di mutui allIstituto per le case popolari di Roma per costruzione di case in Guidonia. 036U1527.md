@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), che approva il Testo Unico delle leggi riguardanti la Cassa depositi e prestiti;
+Visto il [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), che approva il Testo Unico delle leggi riguardanti la Cassa depositi e prestiti;
 
 Visto il [decreto Luogotenenziale 23 marzo 1919, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-23;1058), che approva il regolamento per l'esecuzione di detto testo unico:
 

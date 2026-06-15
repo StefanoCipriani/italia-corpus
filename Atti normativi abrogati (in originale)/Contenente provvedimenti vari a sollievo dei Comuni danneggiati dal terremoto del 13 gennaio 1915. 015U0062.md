@@ -46,7 +46,7 @@ Il termine di due anni, stabilito dall'[art. 6 della legge 23 gennaio 1902, n.25
 
 ## Art. 5.
 
-Sono richiamate in vigore le disposizioni degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-14;117#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-14;117#art_2) e [3 del R. decreto 14 gennaio 1909, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-14;117#art_3).
+Sono richiamate in vigore le disposizioni degli [articoli 1](Equiparazione%20ai%20morti%20o%20feriti%20a%20cagione%20dellesercizio%20delle%20proprie%20funzioni%20degli%20inscritti%20al%20Monte%20pensioni%20degli%20insegnanti%20elementari%20resi%20inabili%20al%20lavoro%20dal%20terremoto%20del%2028%20di_4f46deee9fad.md), [2](Equiparazione%20ai%20morti%20o%20feriti%20a%20cagione%20dellesercizio%20delle%20proprie%20funzioni%20degli%20inscritti%20al%20Monte%20pensioni%20degli%20insegnanti%20elementari%20resi%20inabili%20al%20lavoro%20dal%20terremoto%20del%2028%20di_4f46deee9fad.md) e [3 del R. decreto 14 gennaio 1909, n. 117](Equiparazione%20ai%20morti%20o%20feriti%20a%20cagione%20dellesercizio%20delle%20proprie%20funzioni%20degli%20inscritti%20al%20Monte%20pensioni%20degli%20insegnanti%20elementari%20resi%20inabili%20al%20lavoro%20dal%20terremoto%20del%2028%20di_4f46deee9fad.md).
 
 ## Art. 6.
 

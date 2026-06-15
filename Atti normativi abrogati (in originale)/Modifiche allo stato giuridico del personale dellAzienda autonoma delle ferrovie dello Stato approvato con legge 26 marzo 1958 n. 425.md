@@ -53,7 +53,7 @@ La differenza tra il nuovo piu' elevato stipendio eventualmente dovuto in applic
 
 ## Art. 6.
 
-Le pensioni a carico del Fondo pensioni e sussidi delle Ferrovie dello Stato o della Amministrazione ferroviaria relative a cessazioni dal servizio anteriori alla data dalla quale ha effetto la presente legge sono riliquidate, a decorrere dalla data predetta, applicando le norme del [decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20), e della [legge 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734), e considerando gli stipendi e gli eventuali assegni personali pensionabili derivanti dall'applicazione dei criteri di cui ai precedenti articoli 3, 4 e 5, con riferimento al giorno delle cessazioni dal servizio.
+Le pensioni a carico del Fondo pensioni e sussidi delle Ferrovie dello Stato o della Amministrazione ferroviaria relative a cessazioni dal servizio anteriori alla data dalla quale ha effetto la presente legge sono riliquidate, a decorrere dalla data predetta, applicando le norme del [decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](../DPR/Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md), e della [legge 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734), e considerando gli stipendi e gli eventuali assegni personali pensionabili derivanti dall'applicazione dei criteri di cui ai precedenti articoli 3, 4 e 5, con riferimento al giorno delle cessazioni dal servizio.
 
 ## Art. 7.
 

@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il R. decreto legge 5 novembre 1937-XVI, n. 2118, che apporta modifiche al [R. decreto-legge 28 gennaio 1935, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-28;314), sull'avanzamento e reclutamento degli ufficiali della Regia aeronautica. 
+ E' convertito in legge il R. decreto legge 5 novembre 1937-XVI, n. 2118, che apporta modifiche al [R. decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), sull'avanzamento e reclutamento degli ufficiali della Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

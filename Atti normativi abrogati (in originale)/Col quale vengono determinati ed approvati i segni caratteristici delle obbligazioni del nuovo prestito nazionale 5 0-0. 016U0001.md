@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le obbligazioni al portatore del prestito nazionale 5 per cento netto, creato in virtu' della [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), e del [R. decreto 22 dicembre 1915, n. 1800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-12-22;1800), sono stampate su carta filogranata bianca, conformi ai modelli muniti del visto del ministro del tesoro e depositati, insieme al presente decreto, negli archivi generali del Regno. 
+Le obbligazioni al portatore del prestito nazionale 5 per cento netto, creato in virtu' della [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), e del [R. decreto 22 dicembre 1915, n. 1800](Che%20da%20facolta%20al%20presidente%20del%20Consiglio%20dei%20ministri%20e%20al%20ministro%20del%20tesoro%20di%20effettuare%20una%20operazione%20di%20credito%20per%20raccogliere%20i%20mezzi%20occorrenti%20a%20fronteggiare%20le%20spese%20di%20guer_500dd5fac2df.md), sono stampate su carta filogranata bianca, conformi ai modelli muniti del visto del ministro del tesoro e depositati, insieme al presente decreto, negli archivi generali del Regno. 
  
  Tali obbligazioni constano di un foglio che comprende la matrice, da conservarsi presso l'Amministrazione del debito pubblico, e la parte da mettersi in circolazione formata dal corpo del titolo e da una serie di cedole semestrali fino alla scadenza 1° gennaio 1941. 
  

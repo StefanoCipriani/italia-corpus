@@ -20,11 +20,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D' ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e in forza dei poteri straordinari conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e in forza dei poteri straordinari conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il Nostro decreto 14 dicembre 1915, n. 1845 col quale furono estese alla Tripolitania, Cirenaica, Eritrea e Somalia italiana le disposizioni contenute nel secondo comma dell'art 1 dell'allegato A al [R. decreto 21 novembre 1915, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-11-21;1643) e, in quanto applicabili, le disposizioni dei successivi articoli dell'allegato medesimo; 
+ Visto il Nostro decreto 14 dicembre 1915, n. 1845 col quale furono estese alla Tripolitania, Cirenaica, Eritrea e Somalia italiana le disposizioni contenute nel secondo comma dell'art 1 dell'allegato A al [R. decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md) e, in quanto applicabili, le disposizioni dei successivi articoli dell'allegato medesimo; 
  
- Visti gli altri Nostri decreti 29 giugno 1916, n. 861, e 23 agosto 1918, n. 1309 con i quali furono estese alle colonie suddette anche le disposizioni di cui all'art. 1 dell'allegato A al [R. decreto 31 maggio 1916, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1916-05-31;695) ed allo articolo unico del Nostro decreto 26 maggio 1918, n. 693; 
+ Visti gli altri Nostri decreti 29 giugno 1916, n. 861, e 23 agosto 1918, n. 1309 con i quali furono estese alle colonie suddette anche le disposizioni di cui all'art. 1 dell'allegato A al [R. decreto 31 maggio 1916, n. 695](Recante%20aumento%20del%20contributo%20del%20centesimo%20di%20guerra%20provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari%20ed%20aumento%20delle%20tasse%20di%20spedizione%20dei%20pacchi%20postali%20016U0695.md) ed allo articolo unico del Nostro decreto 26 maggio 1918, n. 693; 
  
  Visto infine il Nostro decreto 6 febbraio 1919, n. 197, con cui e' stato soppresso, a decorrere dal 1° marzo 1919, il contributo dei centesimi di guerra sui pagamenti contemplati dall'[art. 2 del testo unico 9 giugno 1918, n. 857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1918-06-09;857#art_2), allegato B; 
  

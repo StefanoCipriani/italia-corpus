@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 20 giugno 1909, n. 365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-20;365), che, apporta modificazioni all'ordinamento amministrativo e contabile della R. marina;
+Vista la [legge 20 giugno 1909, n. 365](Ordinamento%20amministrativo%20e%20contabile%20della%20R.%20Marina.%20009U0365.md), che, apporta modificazioni all'ordinamento amministrativo e contabile della R. marina;
 
 Considerata l'opportunita' di decentrare completamente dagli uffici di economato dei R.R. arsenali e cantieri militari alle singole officine la liquidazione e il pagamento delle spese della mano d'opera, e di semplificare e di rendere piu' rapide, con l'uso di mezzi meccanici, le relative operazioni, evitando ogni perdita di tempo lavorativo;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro della marina, di concerto col ministro del tesoro; A
 
 ## Art. 1.
 
-Le parole «e la liquidazione ed il pagamento delle mercedi» contenute nell'[art. 4 della legge 20 giugno 1909, n. 365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-20;365#art_4), sono soppresse.
+Le parole «e la liquidazione ed il pagamento delle mercedi» contenute nell'[art. 4 della legge 20 giugno 1909, n. 365](Ordinamento%20amministrativo%20e%20contabile%20della%20R.%20Marina.%20009U0365.md), sono soppresse.
 
 ## Art. 2.
 

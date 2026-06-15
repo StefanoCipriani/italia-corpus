@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [R. decreto 12 gennaio 1918, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1918-01-12;35), col quale venne istituita una Commissione d'inchiesta allo scopo d'indagare sulle cause e le eventuali responsabilita' degli avvenimenti militari, che hanno determinato ripiegamento del R. esercito sul Piave, nonche' sul modo come il ripiegamento stesso e' avvenuto; 
+ Visto il [R. decreto 12 gennaio 1918, n. 35](Che%20istituisce%20una%20Commissione%20dinchiesta%20per%20laccertamento%20delle%20cause%20e%20delle%20eventuali%20responsabilita%20degli%20avvenimenti%20militari%20determinanti%20il%20ripiegamento%20sul%20Piave.%20018U0035.md), col quale venne istituita una Commissione d'inchiesta allo scopo d'indagare sulle cause e le eventuali responsabilita' degli avvenimenti militari, che hanno determinato ripiegamento del R. esercito sul Piave, nonche' sul modo come il ripiegamento stesso e' avvenuto; 
  
  Sentito il Consiglio dei ministri; 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3283), col quale venne approvato il testo unico delle leggi sulle tasse automobilistiche;
+Visto il [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), col quale venne approvato il testo unico delle leggi sulle tasse automobilistiche;
 
 Visto il [R. decreto legge 29 dicembre 1927, n. 2446](Provvedimenti%20di%20finanza%20per%20lindustria%20automobilistica%20e%20per%20le%20strade.%20027U2446.md), contenente provvedimenti per l'industria automobilistica;
 
@@ -28,11 +28,11 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, e del M
 
 ## Articolo unico.
 
-Per le autovetture per trasporto di persone ad uso privato la tassa di circolazione stabilita dal [R. decreto 30 dicembre 1923, n. 3283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3283), e disposizioni successive puo' essere corrisposta limitatamente ad un semestre: e cioe' per la durata dal 1° gennaio al 30 giugno e dal 1° luglio al 31 dicembre, a condizione che ne venga effettuato il versamento, rispettivamente, entro il primo od il terzo trimestre in ragione di 13/24 dell'annuo importo della- tassa medesima. 
+Per le autovetture per trasporto di persone ad uso privato la tassa di circolazione stabilita dal [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e disposizioni successive puo' essere corrisposta limitatamente ad un semestre: e cioe' per la durata dal 1° gennaio al 30 giugno e dal 1° luglio al 31 dicembre, a condizione che ne venga effettuato il versamento, rispettivamente, entro il primo od il terzo trimestre in ragione di 13/24 dell'annuo importo della- tassa medesima. 
  
  Quando la tassa presenta una frazione minore di lira una, questa frazione si computa per una lira intera. 
  
- Nel caso di pagamento della tassa nel secondo o nel quarto trimestre dell'anno solare, restano ferme le detrazioni di 2/12 e di 8/12 stabilite dall'[art. 5 del R. decreto 30 dicembre 1923, n. 3283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3283#art_5). 
+ Nel caso di pagamento della tassa nel secondo o nel quarto trimestre dell'anno solare, restano ferme le detrazioni di 2/12 e di 8/12 stabilite dall'[art. 5 del R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md). 
  
  Il Ministro per le finanze e autorizzato ad emanare le norme occorrenti per l'applicazione del presente decreto. 
  

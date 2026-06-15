@@ -18,7 +18,7 @@ Le disposizioni di cui all'[art. 2 del decreto Luogotenenziale n. 1085 dell'11 l
 
 ## Art. 2.
 
-Gli ufficiali esclusi definitivamente dall'avanzamento e trattenuti in servizio con o senza il loro consenso, in base al [R. decreto n. 1394 del 20 dicembre 1914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-12-20;1394), modificato dal decreto Luogotenenziale n. 1085 dell'1l luglio 1915, potranno, a loro domanda, essere considerati, agli effetti dell'avanzamento, come se fossero stati collocati in congedo. 
+Gli ufficiali esclusi definitivamente dall'avanzamento e trattenuti in servizio con o senza il loro consenso, in base al [R. decreto n. 1394 del 20 dicembre 1914](Col%20quale%20si%20sospendono%20temporaneamente%20i%20provvedimenti%20di%20eliminazione%20dal%20servizio%20attivo%20degli%20ufficiali%20esclusi%20definitivamente%20dallavanzamento.%20014U1394.md), modificato dal decreto Luogotenenziale n. 1085 dell'1l luglio 1915, potranno, a loro domanda, essere considerati, agli effetti dell'avanzamento, come se fossero stati collocati in congedo. 
  
  In tal caso, se giudicati idonei all'avanzamento per la posizione alla quale avrebbero dovuto essere assegnati per le loro condizioni di eta' e di servizio, verranno promossi a loro turno insieme cogli ufficiali della posizione stessa, di pari grado ed anzianita'. 
  
@@ -30,7 +30,7 @@ Gli ufficiali esclusi dal quadro d'avanzamento pel 1915 e non incorsi nell'esclu
 
 ## Art. 4.
 
-La sospensione dal giudizio sull'idoneita' all'avanzamento per condizioni fisiche, di cui al § 155 del regolamento per l'applicazione della [legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254), potra' essere protratta anche oltre la data sotto la quale all'ufficiale possa spettare l'effettiva promozione; ma ad ogni modo per non piu' di sei mesi dalla data stessa. 
+La sospensione dal giudizio sull'idoneita' all'avanzamento per condizioni fisiche, di cui al § 155 del regolamento per l'applicazione della [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), potra' essere protratta anche oltre la data sotto la quale all'ufficiale possa spettare l'effettiva promozione; ma ad ogni modo per non piu' di sei mesi dalla data stessa. 
  
  In tal caso l'ufficiale che sia poi dichiarato idoneo all'avanzamento, riprendera' all'atto della promozione la sede di anzianita' che gli sarebbe spettata, qualora fosse stato promosso a suo turno. 
  
@@ -38,7 +38,7 @@ La sospensione dal giudizio sull'idoneita' all'avanzamento per condizioni fisich
 
 ## Art. 5.
 
-La concessione di cui al [comma secondo dell'art. 8 del R. decreto, n. 1199, del 3 settembre 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-09-03;1199#art_8-com2), e' estesa agli ufficiali che si sarebbero trovati nelle stesse condizioni di coloro ai quali detto comma si riferisce, qualora non avessero dovuto interrompere gli studi della scuola di guerra od il corso d'esperimento per il trasferimento nel corpo di stato maggiore per raggiungere le truppe mobilitate in Libia.
+La concessione di cui al [comma secondo dell'art. 8 del R. decreto, n. 1199, del 3 settembre 1913](Concernente%20la%20prima%20applicazione%20della%20legge%208%20giugno%201913%20n.%20601%20recante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U1199.md), e' estesa agli ufficiali che si sarebbero trovati nelle stesse condizioni di coloro ai quali detto comma si riferisce, qualora non avessero dovuto interrompere gli studi della scuola di guerra od il corso d'esperimento per il trasferimento nel corpo di stato maggiore per raggiungere le truppe mobilitate in Libia.
 
 ## Art. 6.
 
@@ -46,7 +46,7 @@ Gli ufficiali che al termine del secondo mese di licenza, dopo l'uscita dai luog
 
 ## Art. 7.
 
-Al [R. decreto 10 novembre 1910, n. 911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-11-10;911), per 1' applicazione dell'[art. 3 della legge 3 luglio 1904, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-03;302#art_3), sono apportate le seguenti aggiunte e modificazioni, le quali avranno vigore dal 24 maggio 1915: 
+Al [R. decreto 10 novembre 1910, n. 911](Per%20la%20applicazione%20dellart.%203%20della%20legge%203%20luglio%201901%20n.%20302%20che%20istituisce%20per%20gli%20ufficiali%20la%20posizione%20di%20congedo%20provvisorio.%20010U0911.md), per 1' applicazione dell'[art. 3 della legge 3 luglio 1904, n. 302](Provvedimenti%20per%20gli%20ufficiali%20inferiori%20del%20R.%20esercito.%20004U0302.md), sono apportate le seguenti aggiunte e modificazioni, le quali avranno vigore dal 24 maggio 1915: 
  
  1. L'art. 10 e' sostituito dal seguente: 
  

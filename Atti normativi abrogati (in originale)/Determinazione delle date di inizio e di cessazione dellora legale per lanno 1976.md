@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Vista la [legge 24 dicembre 1966, n. 1144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-24;1144), concernente disciplina dell'ora legale;
+ Vista la [legge 24 dicembre 1966, n. 1144](Disciplina%20dellora%20legale.md), concernente disciplina dell'ora legale;
  Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per i trasporti, per l'industria, il commercio e l'artigianato, per la pubblica istruzione, per il lavoro e la previdenza sociale e per il turismo e lo spettacolo;
 
  Decreta:

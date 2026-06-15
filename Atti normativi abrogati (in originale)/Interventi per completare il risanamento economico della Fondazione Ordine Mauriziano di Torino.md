@@ -14,7 +14,7 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la XIV disposizione transitoria della Costituzione, che prevede la conservazione dell'Ordine Mauriziano come ente ospedaliero;
 
-Visto il [decreto-legge 19 novembre 2004, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-19;277), convertito, con modificazioni, dalla [legge 21 gennaio 2005, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-01-21;4), ed, in particolare, l'articolo 2 che istituisce la Fondazione Ordine Mauriziano con sede in Torino;
+Visto il [decreto-legge 19 novembre 2004, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-19;277), convertito, con modificazioni, dalla [legge 21 gennaio 2005, n. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20novembre%202004%20n.%20277%20recante%20interventi%20straordinari%20per%20il%20riordino%20e%20il%20risanamento%20economico%20dellEnte%20Ordine%20Mauriziano%20di%20Torino.md), ed, in particolare, l'articolo 2 che istituisce la Fondazione Ordine Mauriziano con sede in Torino;
 
 Considerato il grave dissesto finanziario della predetta Fondazione, tuttora persistente nonostante le significative misure di risanamento tempestivamente avviate dal Commissario straordinario, ai sensi dell'articolo 3 del citato [decreto-legge n. 277 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004;277);
 
@@ -30,7 +30,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-Al fine di consentire il definitivo perfezionamento delle procedure di valorizzazione e di dismissione gia' avviate nell'ambito degli interventi di risanamento finanziario della Fondazione Ordine Mauriziano e nelle more della nomina dei relativi organi ordinari, all'[articolo 3, comma 1, del decreto-legge 19 novembre 2004, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-19;277#art_3-com1), convertito, con modificazioni, dalla [legge 21 gennaio 2005, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-01-21;4), le parole: "ventiquattro mesi" sono sostituite dalle seguenti: "trentasei mesi".
+Al fine di consentire il definitivo perfezionamento delle procedure di valorizzazione e di dismissione gia' avviate nell'ambito degli interventi di risanamento finanziario della Fondazione Ordine Mauriziano e nelle more della nomina dei relativi organi ordinari, all'[articolo 3, comma 1, del decreto-legge 19 novembre 2004, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-19;277#art_3-com1), convertito, con modificazioni, dalla [legge 21 gennaio 2005, n. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20novembre%202004%20n.%20277%20recante%20interventi%20straordinari%20per%20il%20riordino%20e%20il%20risanamento%20economico%20dellEnte%20Ordine%20Mauriziano%20di%20Torino.md), le parole: "ventiquattro mesi" sono sostituite dalle seguenti: "trentasei mesi".
 
 2.
 
@@ -38,7 +38,7 @@ A decorrere dalla data di entrata in vigore del decreto-legge di cui al comma 1,
 
 3.
 
-La proprieta' dei beni mobili ed immobili gia' appartenenti all'Ente Ordine Mauriziano di Torino e' da intendersi attribuita, ai sensi dell'[articolo 2, comma 2, del decreto-legge 19 novembre 2004, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-19;277#art_2-com2), convertito, con modificazioni, dalla [legge 21 gennaio 2005, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-01-21;4), alla Fondazione Ordine Mauriziano con sede in Torino, con esclusione dei beni mobili funzionalmente connessi allo svolgimento delle attivita' istituzionali dei presidi ospedalieri Umberto I di Torino e Istituto per la ricerca e la cura del cancro - IRCC di Candiolo.
+La proprieta' dei beni mobili ed immobili gia' appartenenti all'Ente Ordine Mauriziano di Torino e' da intendersi attribuita, ai sensi dell'[articolo 2, comma 2, del decreto-legge 19 novembre 2004, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-19;277#art_2-com2), convertito, con modificazioni, dalla [legge 21 gennaio 2005, n. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20novembre%202004%20n.%20277%20recante%20interventi%20straordinari%20per%20il%20riordino%20e%20il%20risanamento%20economico%20dellEnte%20Ordine%20Mauriziano%20di%20Torino.md), alla Fondazione Ordine Mauriziano con sede in Torino, con esclusione dei beni mobili funzionalmente connessi allo svolgimento delle attivita' istituzionali dei presidi ospedalieri Umberto I di Torino e Istituto per la ricerca e la cura del cancro - IRCC di Candiolo.
 
 ## Art. 2.
 

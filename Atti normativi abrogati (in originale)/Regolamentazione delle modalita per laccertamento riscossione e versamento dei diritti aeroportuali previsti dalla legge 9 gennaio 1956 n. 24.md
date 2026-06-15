@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 9 gennaio 1956, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-01-09;24), concernente diritti per l'uso degli aerodromi aperti al traffico aereo civile;
+Vista la [legge 9 gennaio 1956, n. 24](Diritti%20per%20luso%20degli%20aerodromi%20aperti%20al%20traffico%20aereo%20civile.md), concernente diritti per l'uso degli aerodromi aperti al traffico aereo civile;
 
 Visto il decreto del Presidente della Repubblica 19 ottobre 1956, concernente la determinazione dei diritti di approdo e partenza dovuti allo Stato per passeggeri e merci in transito dagli aeroporti nazionali;
 
@@ -22,13 +22,13 @@ Sulla proposta del Ministro per la difesa, di concerto con i Ministri per le fin
 
 ## Art. 1.
 
-I diritti di approdo e di partenza, il diritto di imbarco per i viaggiatori diretti all'estero e quello di imbarco sulle merci destinate all'estero, previsti rispettivamente dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-01-09;24#art_2), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-01-09;24#art_6) e [7, comma primo, della legge 9 gennaio 1956, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-01-09;24#art_7-com1), ed i diritti di ricovero e di assistenza, di cui agli articoli 3 e 4 della legge predetta negli aeroporti gestiti dallo Stato, sono accertati riscossi e versati dal direttore dell'aeroporto, o da chi ne esercita le funzioni.
- L'accertamento e la riscossione si effettuano in base alle disposizioni stabilite dal regolamento per la navigazione aerea, approvato con [regio decreto 11 gennaio 1925, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-11;356), e successive modificazioni, in quanto applicabili, e dal [Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), approvato con [regio decreto 30 marzo 1942, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), e con l'osservanza delle norme contenute nella legge e nel regolamento per l'amministrazione e la contabilita' generale dello Stato, nonche' nelle Istruzioni generali sui servizi del tesoro.
+I diritti di approdo e di partenza, il diritto di imbarco per i viaggiatori diretti all'estero e quello di imbarco sulle merci destinate all'estero, previsti rispettivamente dagli [articoli 2](Diritti%20per%20luso%20degli%20aerodromi%20aperti%20al%20traffico%20aereo%20civile.md), [6](Diritti%20per%20luso%20degli%20aerodromi%20aperti%20al%20traffico%20aereo%20civile.md) e [7, comma primo, della legge 9 gennaio 1956, n. 24](Diritti%20per%20luso%20degli%20aerodromi%20aperti%20al%20traffico%20aereo%20civile.md), ed i diritti di ricovero e di assistenza, di cui agli articoli 3 e 4 della legge predetta negli aeroporti gestiti dallo Stato, sono accertati riscossi e versati dal direttore dell'aeroporto, o da chi ne esercita le funzioni.
+ L'accertamento e la riscossione si effettuano in base alle disposizioni stabilite dal regolamento per la navigazione aerea, approvato con [regio decreto 11 gennaio 1925, n. 356](Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md), e successive modificazioni, in quanto applicabili, e dal [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e con l'osservanza delle norme contenute nella legge e nel regolamento per l'amministrazione e la contabilita' generale dello Stato, nonche' nelle Istruzioni generali sui servizi del tesoro.
  I proventi degli anzidetti diritti sono versati con imputazione al capo XVI, capitolo 115 dello stato di previsione dell'entrata per l'esercizio finanziario 1962-63 e corrispondente degli esercizi successivi.
 
 ## Art. 2.
 
-Il diritto di sbarco sulle merci provenienti dall'estero di cui all'[art. 7, comma terzo, della legge 9 gennaio 1956, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-01-09;24#art_7-com3), e' accertato c riscosso dalla dogana sui documenti che scortano la merce e con separata bolletta.
+Il diritto di sbarco sulle merci provenienti dall'estero di cui all'[art. 7, comma terzo, della legge 9 gennaio 1956, n. 24](Diritti%20per%20luso%20degli%20aerodromi%20aperti%20al%20traffico%20aereo%20civile.md), e' accertato c riscosso dalla dogana sui documenti che scortano la merce e con separata bolletta.
  I proventi dell'anzidetto diritto per gli aeroporti gestiti dallo Stato sono versati con imputazione al capo XVI, capitolo 115 dello stato di previsione dell'entrata per l'esercizio finanziario 1962-63, e corrispondente degli esercizi successivi.
  Le contabilita' relative sono rese con le modalita' in vigore per l'Amministrazione doganale.
 

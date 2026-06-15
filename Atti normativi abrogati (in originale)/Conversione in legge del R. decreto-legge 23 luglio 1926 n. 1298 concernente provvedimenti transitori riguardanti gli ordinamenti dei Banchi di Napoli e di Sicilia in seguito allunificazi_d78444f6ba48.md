@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 luglio 1926, n. 1298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-23;1298), concernente provvedimenti transitori riguardanti gli ordinamenti dei Banchi di Napoli e di Sicilia in seguito alla unificazione del servizio di emissione dei biglietti di banca. 
+ E' convertito in legge il [R. decreto-legge 23 luglio 1926, n. 1298](Provvedimenti%20transitori%20riguardanti%20gli%20ordinamenti%20dei%20Banchi%20di%20Napoli%20e%20di%20Sicilia%20in%20seguito%20allunificazione%20del%20servizio%20di%20emissione%20dei%20biglietti%20di%20banca.%20026U1298.md), concernente provvedimenti transitori riguardanti gli ordinamenti dei Banchi di Napoli e di Sicilia in seguito alla unificazione del servizio di emissione dei biglietti di banca. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

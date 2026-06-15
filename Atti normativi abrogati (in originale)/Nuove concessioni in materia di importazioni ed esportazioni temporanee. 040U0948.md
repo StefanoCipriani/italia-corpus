@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alle merci ammesse alla temporanea importazione per essere lavorate, giusta la tabella I annessa al [R. decreto-legge 18 dicembre 1913, n. 1453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-12-18;1453), convertito nella legge 17 aprile 1925-III, n. 1473, sono aggiunte le seguenti:
+Alle merci ammesse alla temporanea importazione per essere lavorate, giusta la tabella I annessa al [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella legge 17 aprile 1925-III, n. 1473, sono aggiunte le seguenti:
 
 Qualita' delle merci
                                 Scopo per il quale e' concessa la temporanea importazione

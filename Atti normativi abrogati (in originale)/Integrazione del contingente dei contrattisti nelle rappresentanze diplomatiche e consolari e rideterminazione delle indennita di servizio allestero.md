@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 30 settembre 1993, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-09-30;388), recante ratifica ed esecuzione del protocollo di adesione dell'accordo di Schengen del 14 giugno 1985 e dell'accordo di adesione alla convenzione del 19 giugno 1990, nonche' l'[articolo 2, comma 2, del decreto-legge 23 febbraio 1995, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-23;41#art_2-com2), convertito, con modificazioni, dalla [legge 22 marzo 1995, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-22;85);
+Vista la [legge 30 settembre 1993, n. 388](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20a%20del%20protocollo%20di%20adesione%20del%20Governo%20della%20Repubblica%20italiana%20allaccordo%20di%20Schengen%20del%2014%20giugno%201985%20tra%20i%20governi%20degli%20Stati%20dellUnione%20economica%20del%20Bene_89c9272671c4.md), recante ratifica ed esecuzione del protocollo di adesione dell'accordo di Schengen del 14 giugno 1985 e dell'accordo di adesione alla convenzione del 19 giugno 1990, nonche' l'[articolo 2, comma 2, del decreto-legge 23 febbraio 1995, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-23;41#art_2-com2), convertito, con modificazioni, dalla [legge 22 marzo 1995, n. 85](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20febbraio%201995%20n.%2041%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica%20e%20per%20loccupazione%20nelle%20aree%20depresse.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di adeguare, entro il 1995, le dotazioni organiche delle rappresentanze diplomatico-consolari alle esigenze poste dagli adempimenti relativi all'attuazione del sistema d'informazione Schengen (SIS);
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di prevedere la determinazione, in modo differenziato, delle riduzioni da apportare alle indennita' di servizio all'estero e agli assegni di sede, nonche' di revisionare il trattamento economico del personale a contratto non regolato da legge locale;
 
-Visti gli [articoli 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_152) e [162 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_162), e successive modificazioni;
+Visti gli [articoli 152](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e [162 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modificazioni;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 giugno 1995;
 
@@ -30,14 +30,14 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Limitatamente ad un triennio a decorrere dalla data di entrata in vigore del presente decreto, il contingente degli impiegati a contratto, di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_152), e' integrato di duecento unita'.
-Tale disponibilita', nell'ambito del contingente medesimo, e' esclusivamente destinata ad essere ricoperta con personale avente specifiche professionalita' nel campo informatico al fine di corrispondere alle necessita' operative conseguenti agli adempimenti relativi all'attuazione del sistema di informazione Schengen di cui alla [legge 30 settembre 1993, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-09-30;388).
+Limitatamente ad un triennio a decorrere dalla data di entrata in vigore del presente decreto, il contingente degli impiegati a contratto, di cui all'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e' integrato di duecento unita'.
+Tale disponibilita', nell'ambito del contingente medesimo, e' esclusivamente destinata ad essere ricoperta con personale avente specifiche professionalita' nel campo informatico al fine di corrispondere alle necessita' operative conseguenti agli adempimenti relativi all'attuazione del sistema di informazione Schengen di cui alla [legge 30 settembre 1993, n. 388](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20a%20del%20protocollo%20di%20adesione%20del%20Governo%20della%20Repubblica%20italiana%20allaccordo%20di%20Schengen%20del%2014%20giugno%201985%20tra%20i%20governi%20degli%20Stati%20dellUnione%20economica%20del%20Bene_89c9272671c4.md).
 
 ## Art. 2.
 
 1.
 
-A seguito della riduzione dell'otto per cento degli stanziamenti di bilancio del Ministero degli affari esteri, di cui all'[articolo 2, comma 2, del decreto-legge 23 febbraio 1995, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-23;41#art_2-com2), convertito, con modificazioni, dalla [legge 22 marzo 1995, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-22;85), vengono ridotti, con decorrenza 1 aprile 1995, in conseguente misura gli importi delle indennita' di servizio all'estero e degli assegni di sede tramite modifica dei relativi coefficienti di maggiorazione. E' comunque fatta salva la possibilita' di disporre, per singole sedi e posti-funzione, una diversa determinazione dei coefficienti predetti, anche in relazione ai mutamenti delle condizioni locali e a disagi intervenuti, sulla base dei criteri stabiliti dall'[articolo 171 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_171), e dall'[articolo 11 del decreto del Presidente della Repubblica 23 gennaio 1967, n. 215](Personale%20in%20servizio%20nelle%20istituzioni%20scolastiche%20e%20culturali%20allestero.md).
+A seguito della riduzione dell'otto per cento degli stanziamenti di bilancio del Ministero degli affari esteri, di cui all'[articolo 2, comma 2, del decreto-legge 23 febbraio 1995, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-23;41#art_2-com2), convertito, con modificazioni, dalla [legge 22 marzo 1995, n. 85](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20febbraio%201995%20n.%2041%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica%20e%20per%20loccupazione%20nelle%20aree%20depresse.md), vengono ridotti, con decorrenza 1 aprile 1995, in conseguente misura gli importi delle indennita' di servizio all'estero e degli assegni di sede tramite modifica dei relativi coefficienti di maggiorazione. E' comunque fatta salva la possibilita' di disporre, per singole sedi e posti-funzione, una diversa determinazione dei coefficienti predetti, anche in relazione ai mutamenti delle condizioni locali e a disagi intervenuti, sulla base dei criteri stabiliti dall'[articolo 171 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e dall'[articolo 11 del decreto del Presidente della Repubblica 23 gennaio 1967, n. 215](Personale%20in%20servizio%20nelle%20istituzioni%20scolastiche%20e%20culturali%20allestero.md).
 
 ## Art. 3.
 
@@ -47,7 +47,7 @@ A seguito delle riduzioni di cui all'articolo 2, il Ministero degli affari ester
 
 2.
 
-Il [terzo comma dell'articolo 162 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_162-com3), e' sostituito dal seguente:
+Il [terzo comma dell'articolo 162 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e' sostituito dal seguente:
  "La retribuzione annua base e' fissata secondo i criteri e nei limiti stabiliti dal primo comma dell'articolo 157.".
 
 ## Art. 4.

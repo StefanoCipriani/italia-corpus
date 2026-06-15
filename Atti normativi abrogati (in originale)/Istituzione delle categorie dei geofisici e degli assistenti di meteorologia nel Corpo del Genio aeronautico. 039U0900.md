@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alle norme sul reclutamento e avanzamento degli ufficiali della Regia aeronautica approvate con [R. decreto-legge 28 gennaio 1935-X111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-28;111), [n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-28;314), sono apportate le seguenti aggiunte e varianti: 
+Alle norme sul reclutamento e avanzamento degli ufficiali della Regia aeronautica approvate con [R. decreto-legge 28 gennaio 1935-X111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-28;111), [n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), sono apportate le seguenti aggiunte e varianti: 
  
  a) Il primo comma dell'art. 13 e' sostituito dal seguente: 
  

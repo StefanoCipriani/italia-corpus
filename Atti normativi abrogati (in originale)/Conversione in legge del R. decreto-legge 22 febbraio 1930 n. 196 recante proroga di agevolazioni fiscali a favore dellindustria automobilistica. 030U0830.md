@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 febbraio 1930, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-22;196), recante proroga di agevolazioni fiscali a favore dell'industria automobilistica. 
+ E' convertito in legge il [R. decreto-legge 22 febbraio 1930, n. 196](Proroga%20di%20agevolazioni%20fiscali%20a%20favore%20dellindustria%20automobilistica.%20030U0196.md), recante proroga di agevolazioni fiscali a favore dell'industria automobilistica. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 12 giugno 1930 - Anno VIII 
  

@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto del libero Istituto di medicina e chirurgia dell'Aquila, approvato con [decreto del Presidente della Repubblica 25 giugno 1969, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-06-25;425), e modificato con [decreto del Presidente della Repubblica 6 agosto 1970, n. 800](Modificazioni%20allo%20statuto%20del%20libero%20Istituto%20universitario%20di%20medicina%20e%20chirurgia%20di%20LAquila.md), e successive modificazioni;
+Veduto lo statuto del libero Istituto di medicina e chirurgia dell'Aquila, approvato con [decreto del Presidente della Repubblica 25 giugno 1969, n. 425](../DPR/Riconoscimento%20del%20libero%20Istituto%20universitario%20di%20medicina%20e%20chirurgia%20dellAquila.md), e modificato con [decreto del Presidente della Repubblica 6 agosto 1970, n. 800](Modificazioni%20allo%20statuto%20del%20libero%20Istituto%20universitario%20di%20medicina%20e%20chirurgia%20di%20LAquila.md), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;
 
@@ -104,7 +104,7 @@ Tasse, soprattasse per specializzandi fuori corso:
 
 annue L. 17.500.
 
-Tassa di diploma: L. 6.000 ([art. 7 della legge 18 dicembre 1951, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551#art_7)).
+Tassa di diploma: L. 6.000 ([art. 7 della legge 18 dicembre 1951, n. 1551](Aumento%20dei%20contributi%20statali%20a%20favore%20delle%20Universita%20e%20degli%20Istituti%20superiori%20e%20dei%20contributi%20per%20lassistenza%20agli%20studenti%20ampliamento%20delle%20esenzioni%20tributarie%20per%20gli%20studenti%20_eef25c2651a6.md)).
 
 L'ammontare della prima rata per il primo corso e' suddiviso in:
 
@@ -130,7 +130,7 @@ I contributi vengono fissati annualmente dal consiglio di amministrazione, udito
 
 Art. 28. - Lo specializzando che ha ottenuto l'iscrizione ad un anno di corso non ha diritto in nessun caso al rimborso delle tasse, soprattasse e contributi.
 
-Art. 29. - Se il reddito della famiglia dello specializzando supera i 3 milioni annui, l'interessato deve versare un contributo suppletivo di L. 5.400 da devolvere all'opera universitaria ai sensi dell'[art. 4 della legge 18 dicembre 1951, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551#art_4).
+Art. 29. - Se il reddito della famiglia dello specializzando supera i 3 milioni annui, l'interessato deve versare un contributo suppletivo di L. 5.400 da devolvere all'opera universitaria ai sensi dell'[art. 4 della legge 18 dicembre 1951, n. 1551](Aumento%20dei%20contributi%20statali%20a%20favore%20delle%20Universita%20e%20degli%20Istituti%20superiori%20e%20dei%20contributi%20per%20lassistenza%20agli%20studenti%20ampliamento%20delle%20esenzioni%20tributarie%20per%20gli%20studenti%20_eef25c2651a6.md).
 
 Art. 30. - Gli specializzandi che negli esami di profitto annuali abbiano ottenuto una votazione media di 27/30 (o di 45/50 nel caso di esami a gruppo) possono aspirare alla esenzione dal pagamento delle tasse e soprattasse su parere del direttore della scuola, quando siano di famiglia disagiata. L'esonero e' concesso con decreto del direttore, su deliberazione del consiglio di facolta'.
 
@@ -246,10 +246,10 @@ Registrato alla Corte dei conti, addi' 26 novembre 1977 Registro n. 134 Istruzio
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Veduto lo statuto del libero Istituto di medicina e chirurgia dell'Aquila, approvato con [decreto del Presidente della Repubblica 25 giugno 1969, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-06-25;425), e modificato con [decreto del Presidente della Repubblica 6 agosto 1970, n. 800](Modificazioni%20allo%20statuto%20del%20libero%20Istituto%20universitario%20di%20medicina%20e%20chirurgia%20di%20LAquila.md), e successive modificazioni; 
+ Veduto lo statuto del libero Istituto di medicina e chirurgia dell'Aquila, approvato con [decreto del Presidente della Repubblica 25 giugno 1969, n. 425](../DPR/Riconoscimento%20del%20libero%20Istituto%20universitario%20di%20medicina%20e%20chirurgia%20dellAquila.md), e modificato con [decreto del Presidente della Repubblica 6 agosto 1970, n. 800](Modificazioni%20allo%20statuto%20del%20libero%20Istituto%20universitario%20di%20medicina%20e%20chirurgia%20di%20LAquila.md), e successive modificazioni; 
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
- Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73); 
- Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni; 
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md); 
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni; 
  Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto; 
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_17), per i motivi esposti nelle deliberazioni degli organi accademici dell'istituto di medicina e chirurgia dell'Aquila e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri; 
  Sentito il parere del Consiglio superiore della pubblica istruzione; 
@@ -308,7 +308,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  primo corso L. 37.375, anni successivi L. 27.375. 
  Tasse, soprattasse per specializzandi fuori corso: 
  annue L. 17.500. 
- Tassa di diploma: L. 6.000 ([art. 7 della legge 18 dicembre 1951, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551#art_7)). 
+ Tassa di diploma: L. 6.000 ([art. 7 della legge 18 dicembre 1951, n. 1551](Aumento%20dei%20contributi%20statali%20a%20favore%20delle%20Universita%20e%20degli%20Istituti%20superiori%20e%20dei%20contributi%20per%20lassistenza%20agli%20studenti%20ampliamento%20delle%20esenzioni%20tributarie%20per%20gli%20studenti%20_eef25c2651a6.md)). 
  
  L'ammontare della prima rata per il primo corso e' suddiviso in: 
  
@@ -334,7 +334,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  Art. 28. - Lo specializzando che ha ottenuto l'iscrizione ad un anno di corso non ha diritto in nessun caso al rimborso delle tasse, soprattasse e contributi. 
  
- Art. 29. - Se il reddito della famiglia dello specializzando supera i 3 milioni annui, l'interessato deve versare un contributo suppletivo di L. 5.400 da devolvere all'opera universitaria ai sensi dell'[art. 4 della legge 18 dicembre 1951, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551#art_4). 
+ Art. 29. - Se il reddito della famiglia dello specializzando supera i 3 milioni annui, l'interessato deve versare un contributo suppletivo di L. 5.400 da devolvere all'opera universitaria ai sensi dell'[art. 4 della legge 18 dicembre 1951, n. 1551](Aumento%20dei%20contributi%20statali%20a%20favore%20delle%20Universita%20e%20degli%20Istituti%20superiori%20e%20dei%20contributi%20per%20lassistenza%20agli%20studenti%20ampliamento%20delle%20esenzioni%20tributarie%20per%20gli%20studenti%20_eef25c2651a6.md). 
  
  Art. 30. - Gli specializzandi che negli esami di profitto annuali abbiano ottenuto una votazione media di 27/30 (o di 45/50 nel caso di esami a gruppo) possono aspirare alla esenzione dal pagamento delle tasse e soprattasse su parere del direttore della scuola, quando siano di famiglia disagiata. L'esonero e' concesso con decreto del direttore, su deliberazione del consiglio di facolta'. 
  

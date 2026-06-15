@@ -23,7 +23,7 @@ A decorrere dal 10 luglio 1966 la misura del sussidio giornaliero, previsto dall
 
 ## Art. 2.
 
-Il [terzo comma dell'articolo 286 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_286-com3) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), quale risulta modificato dall'[articolo 1 del regio decreto-legge 13 febbraio 1936, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-02-13;353#art_1), convertito nella [legge 14 maggio 1936, n. 935](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20febbraio%201936-XIV%20n.%20353%20concernente%20lisolamento%20coattivo%20dei%20lebbrosi.%20036U0935.md), e' sostituito dal seguente:
+Il [terzo comma dell'articolo 286 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_286-com3) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), quale risulta modificato dall'[articolo 1 del regio decreto-legge 13 febbraio 1936, n. 353](Isolamento%20coattivo%20digli%20ammalati%20di%20lebbra.%20036U0353.md), convertito nella [legge 14 maggio 1936, n. 935](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20febbraio%201936-XIV%20n.%20353%20concernente%20lisolamento%20coattivo%20dei%20lebbrosi.%20036U0935.md), e' sostituito dal seguente:
  "Le spese di spedalita' sono a carico dello Stato e gravano sullo stato di previsione della spesa del Ministero della sanita'".
 
 ## Art. 3.

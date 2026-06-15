@@ -18,13 +18,13 @@ UMBERTO DI SAVOIA
  
  In, virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto-legge 8 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;745); 
+ Visto il [R. decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md); 
  
- Visto il [R. decreto-legge 14 novembre 1926, n. 1935](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1935); 
+ Visto il [R. decreto-legge 14 novembre 1926, n. 1935](Modificazioni%20al%20R.%20decreto-legge%208%20maggio%201924%20n.%20745%20e%20al%20R.%20decreto-legge%206%20novembre%201924%20n.%201762%20riguardanti%20il%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20026U1935.md); 
  
- Visto il [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), e successive disposizioni; 
+ Visto il [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), e successive disposizioni; 
  
- Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e [29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141); 
+ Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e [29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md); 
  
  Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151); 
  
@@ -62,7 +62,7 @@ Per conseguire la nomina ad avventizio occorre:
  
  3) essere di moralita' e condotta sotto ogni riguardo incensurabile o di sana costituzione fisica; 
  
- 4) aver conseguito la licenza delle scuole medie di secondo grado ai sensi dell'[Art. 10 del R. decreto-legge 5 novembre 1931, n. 1444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-05;1444#art_10), per gli aspiranti avventizi di seconda categoria (gruppo B) ; la licenza delle scuole medie di primo grado per gli aspiranti avventizi di terza categoria ai sensi del [R. decreto-legge 14 novembre 1926, n. 1935](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1935) (gruppo C).
+ 4) aver conseguito la licenza delle scuole medie di secondo grado ai sensi dell'[Art. 10 del R. decreto-legge 5 novembre 1931, n. 1444](Modificazioni%20alla%20circoscrizione%20giudiziaria%20del%20Regno%20e%20ad%20alcune%20norme%20dellordinamento%20giudiziario.%20031U1444.md), per gli aspiranti avventizi di seconda categoria (gruppo B) ; la licenza delle scuole medie di primo grado per gli aspiranti avventizi di terza categoria ai sensi del [R. decreto-legge 14 novembre 1926, n. 1935](Modificazioni%20al%20R.%20decreto-legge%208%20maggio%201924%20n.%20745%20e%20al%20R.%20decreto-legge%206%20novembre%201924%20n.%201762%20riguardanti%20il%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20026U1935.md) (gruppo C).
 
 ## Art. 5.
 
@@ -78,11 +78,11 @@ Gli avventizi presteranno la loro opera, secondo le disposizioni del capo dell'u
 
 ## Art. 7.
 
-L'obbligo della residenza., quello di osservare l'orario d'ufficio e tutti gli altri doveri prescritti per il personale delle cancellerie e segreterie giudiziarie dal regolamento generale giudiziario, dall'ordinamento approvato con [R. decreto-legge 8 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;745), e dalle altre leggi, sono estesi agli avventizi assunti in base alle presenti disposizioni.
+L'obbligo della residenza., quello di osservare l'orario d'ufficio e tutti gli altri doveri prescritti per il personale delle cancellerie e segreterie giudiziarie dal regolamento generale giudiziario, dall'ordinamento approvato con [R. decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), e dalle altre leggi, sono estesi agli avventizi assunti in base alle presenti disposizioni.
 
 ## Art. 8.
 
-Agli avventizi e' attribuito il trattamento economico previsto dal [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), e successive disposizioni, per la rispettiva categoria di assegnazione.
+Agli avventizi e' attribuito il trattamento economico previsto dal [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), e successive disposizioni, per la rispettiva categoria di assegnazione.
 
 ## Art. 9.
 

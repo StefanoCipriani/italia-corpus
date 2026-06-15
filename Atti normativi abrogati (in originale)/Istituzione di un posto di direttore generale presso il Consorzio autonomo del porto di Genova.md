@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'art. 6, ultimo comma, del testo unico delle disposizioni legislative riguardanti la costituzione di un Consorzio autonomo per la esecuzione delle opere e per l'esercizio del porto di Genova, approvato con [regio decreto 16 gennaio 1936, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-01-16;801);
+Visto l'art. 6, ultimo comma, del testo unico delle disposizioni legislative riguardanti la costituzione di un Consorzio autonomo per la esecuzione delle opere e per l'esercizio del porto di Genova, approvato con [regio decreto 16 gennaio 1936, n. 801](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20di%20un%20Consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20036U0801.md);
 
-Visto l'art. 33 del regolamento per l'esecuzione della [legge 12 febbraio 1903, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-02-12;50), e successive modificazioni, relativa all'istituzione del Consorzio autonomo del porto di Genova, approvato con [regio decreto 11 aprile 1926, n. 736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-11;736);
+Visto l'art. 33 del regolamento per l'esecuzione della [legge 12 febbraio 1903, n. 50](Costituzione%20di%20un%20consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20003U0050.md), e successive modificazioni, relativa all'istituzione del Consorzio autonomo del porto di Genova, approvato con [regio decreto 11 aprile 1926, n. 736](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2012%20febbraio%201903%20n.%2050%20relativa%20allistituzione%20del%20Consorzio%20autonomo%20del%20porto%20di%20Genova.%20026U0736.md);
 
 Ritenuta l'opportunita', in conformita' della proposta del Consorzio predetto, di rendere permanente il posto di direttore generale a capo dei servizi esecutivi del porto di Genova;
 
@@ -28,7 +28,7 @@ E' istituito presso il Consorzio autonomo del porto di Genova il posto di dirett
  Il predetto direttore generale ha le seguenti attribuzioni:
  a) sovraintendenza dei servizi di sbarco, imbarco, sosta e trasbordo delle merci e coordinamento dei detti servizi con particolare riguardo alla politica tariffaria, in relazione alla concorrenza dei porti esteri;
  b) studio e proposte di risoluzione circa le questioni inerenti l'istituzione del punto franco nonche' studio del relativo piano regolatore e predisposizione dei provvedimenti necessari per la loro attuazione ed organizzazione;
- c) revisione degli atti di maggiore importanza predisposti dall'Amministrazione del consorzio nei vari campi della attivita' portuale, salvo quanto disposto negli articoli 30 e 32 del testo unico, approvato con [regio decreto 16 gennaio 1936, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-01-16;801);
+ c) revisione degli atti di maggiore importanza predisposti dall'Amministrazione del consorzio nei vari campi della attivita' portuale, salvo quanto disposto negli articoli 30 e 32 del testo unico, approvato con [regio decreto 16 gennaio 1936, n. 801](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20di%20un%20Consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20036U0801.md);
  d) esplicazione dei compiti che gli verranno affidati dal presidente.
 
 ## Art. 2.
@@ -43,7 +43,7 @@ Il direttore generale e' alle dirette dipendenze del presidente del Consorzio,
 
 ## Art. 4.
 
-Il direttore generale partecipa, con voto consultico, alle sedute dell'assemblea generale, del Comitato e della Commissione consultiva prevista dall'art. 9 del precitato testo unico. Egli presiede inoltre il Consiglio del lavoro portuale per le concessioni alle imprese per operazioni portuali, contemplate dall'[art. 111 del Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_111).
+Il direttore generale partecipa, con voto consultico, alle sedute dell'assemblea generale, del Comitato e della Commissione consultiva prevista dall'art. 9 del precitato testo unico. Egli presiede inoltre il Consiglio del lavoro portuale per le concessioni alle imprese per operazioni portuali, contemplate dall'[art. 111 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ## Art. 5.
 

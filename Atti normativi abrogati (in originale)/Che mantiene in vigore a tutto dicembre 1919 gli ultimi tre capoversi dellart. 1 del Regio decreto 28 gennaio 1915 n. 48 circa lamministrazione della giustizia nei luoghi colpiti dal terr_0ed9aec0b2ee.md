@@ -30,7 +30,7 @@ Sulla proposta del guardasigilli, ministro segretario di Stato per gli affari di
 
 ## Art. 1.
 
-Le disposizioni contenute negli ultimi tre capoversi dell'[art. 1 del R. decreto 28 gennaio 1915, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-28;48#art_1), recante provvedimenti relativi all'amministrazione della giustizia nei luoghi colpiti dal terremoto del 13 gennaio 1915, restano in vigore fino a tutto dicembre 1919.
+Le disposizioni contenute negli ultimi tre capoversi dell'[art. 1 del R. decreto 28 gennaio 1915, n. 48](Recante%20provvedimenti%20relativi%20allAmministrazione%20della%20giustizia%20pei%20luoghi%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0048.md), recante provvedimenti relativi all'amministrazione della giustizia nei luoghi colpiti dal terremoto del 13 gennaio 1915, restano in vigore fino a tutto dicembre 1919.
 
 ## Art. 2.
 

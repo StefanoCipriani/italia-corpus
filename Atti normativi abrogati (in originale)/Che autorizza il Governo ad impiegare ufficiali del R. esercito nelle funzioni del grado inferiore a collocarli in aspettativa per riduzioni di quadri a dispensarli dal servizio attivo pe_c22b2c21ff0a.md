@@ -14,17 +14,17 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la legge 2 luglio 1896 sull'avanzamento nel R. esercito ed il regolamento per la sua esecuzione, approvato con [R. decreto 21 luglio 1907, n. 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-21;626) e le loro successive modificazioni;
+Vista la legge 2 luglio 1896 sull'avanzamento nel R. esercito ed il regolamento per la sua esecuzione, approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md) e le loro successive modificazioni;
 
 Viste le [leggi 8 giugno 1913, n. 601 e 21 marzo 1915, n. 301](Che%20porta%20aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20nel%20R.%20esercito%20015U0301.md) portanti modificazioni ed aggiunte alla legge sull'avanzamento nel R. esercito;
 
-Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina ed il regolamento per la sua esecuzione approvato con [Regio decreto 18 luglio 1912, n. 867](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-07-18;867), e le loro successive modificazioni;
+Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina ed il regolamento per la sua esecuzione approvato con [Regio decreto 18 luglio 1912, n. 867](Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md), e le loro successive modificazioni;
 
-Vista la [legge 17 ottobre 1881, n. 435](Che%20stabilisce%20una%20posizione%20di%20servizio%20ausiliario%20fra%20gli%20ufficiali%20del%20regio%20esercito.%20081U0435.md), sulla posizione ausiliaria ed il [Regio decreto 17 ottobre 1881, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-10-17;440) per l'esecuzione della legge.
+Vista la [legge 17 ottobre 1881, n. 435](Che%20stabilisce%20una%20posizione%20di%20servizio%20ausiliario%20fra%20gli%20ufficiali%20del%20regio%20esercito.%20081U0435.md), sulla posizione ausiliaria ed il [Regio decreto 17 ottobre 1881, n. 440](Che%20stabilisce%20le%20norme%20per%20il%20collocamento%20degli%20ufficiali%20nella%20posizione%20di%20servizio%20ausiliario%20e%20per%20la%20cessazione%20dalla%20medesima.%20081U0440.md) per l'esecuzione della legge.
 
 Vista la [legge 25 gennaio 1888, n. 5177](Sugli%20obblighi%20di%20servizio%20degli%20ufficiali%20in%20congedo.%20088U5177.md), circa gli obblighi di servizio degli ufficiali in congedo e successive modificazioni;
 
-Visto il testo unico sugli stipendi ed assegni fissi per il R. esercito approvato con [Regio decreto 14 luglio 1898, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;380) e successive modificazioni;
+Visto il testo unico sugli stipendi ed assegni fissi per il R. esercito approvato con [Regio decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md) e successive modificazioni;
 
 Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [Regio decreto 14 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-14;70) e successive modificazioni;
 
@@ -32,7 +32,7 @@ Visti i [decreti Luogotenenziali 1° ottobre 1916, numero 1289](https://www.norm
 
 Visti i [Regi decreti 7 novembre 1919, n. 2088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-07;2088) e [20 novembre 1919, n. 2240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-20;2240), relativi alla graduale sistemazione dei quadri degli ufficiali del Regio esercito in servizio attivo permanente;
 
-Visto il [R. decreto 4 dicembre 1919, n. 2309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-12-04;2309), per l'impiego temporaneo di ufficiali del R. esercito in incarichi del grado inferiore;
+Visto il [R. decreto 4 dicembre 1919, n. 2309](Che%20in%20applicazione%20del%20Regio%20decreto-legge%207%20novembre%201919%20n.%202088%20stabilisce%20norme%20per%20limpiego%20temporaneo%20di%20ufficiali%20del%20R.%20esercito%20in%20alcuni%20incarichi%20del%20grado%20inferiore.%20019U2309.md), per l'impiego temporaneo di ufficiali del R. esercito in incarichi del grado inferiore;
 
 Udito il consiglio dei ministri;
 
@@ -101,7 +101,7 @@ Agli ufficiali in aspettativa per riduzione di quadri, sara' corrisposto un asse
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20collocati%20in%20aspettativa%20per%20riduzione%20di%20quadri.%20020U0710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 7.
 
@@ -134,7 +134,7 @@ Potranno essere collocati in posizione ausiliaria speciale gli ufficiali aventi 
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20collocati%20in%20aspettativa%20per%20riduzione%20di%20quadri.%20020U0710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 11.
 
@@ -171,7 +171,7 @@ esercito. Pero' l'indennita' stabilita per il comandante di corpo d'armata sara'
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20collocati%20in%20aspettativa%20per%20riduzione%20di%20quadri.%20020U0710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 13.
 
@@ -184,7 +184,7 @@ Per avere diritto al trattamento di cui all'art. precedente, gli ufficiali dovra
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20collocati%20in%20aspettativa%20per%20riduzione%20di%20quadri.%20020U0710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 14.
 
@@ -193,7 +193,7 @@ Gli ufficiali che non rispondano alle condizioni specificate nell'art. Precedent
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20collocati%20in%20aspettativa%20per%20riduzione%20di%20quadri.%20020U0710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 15.
 
@@ -214,7 +214,7 @@ Il tempo passato in luoghi di cura, in licenza di convalescenza, in aspettativa 
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20collocati%20in%20aspettativa%20per%20riduzione%20di%20quadri.%20020U0710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 18.
 
@@ -223,7 +223,7 @@ Agli ufficiali collocati in posizione ausiliaria speciale che contino meno di 20
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20collocati%20in%20aspettativa%20per%20riduzione%20di%20quadri.%20020U0710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 19.
 
@@ -240,7 +240,7 @@ L'ufficiale non puo' essere tenuto in posizione ausiliaria speciale oltre quattr
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20collocati%20in%20aspettativa%20per%20riduzione%20di%20quadri.%20020U0710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 21.
 
@@ -266,7 +266,7 @@ Alle vedove ed agli orfani di ufficiali in posizione ausiliaria speciale, sarann
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20collocati%20in%20aspettativa%20per%20riduzione%20di%20quadri.%20020U0710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 25.
 
@@ -279,7 +279,7 @@ Gli ufficiali, entro due mesi dalla data del loro collocamento in posizione ausi
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20collocati%20in%20aspettativa%20per%20riduzione%20di%20quadri.%20020U0710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 27.
 
@@ -288,7 +288,7 @@ Agli ufficiali dispensati dal servizio attivo a domanda o di autorita', che non 
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20collocati%20in%20aspettativa%20per%20riduzione%20di%20quadri.%20020U0710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 28.
 
@@ -299,7 +299,7 @@ Per stabilire la permanenza dell'ufficiale nelle zone di operazioni o di retrovi
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20collocati%20in%20aspettativa%20per%20riduzione%20di%20quadri.%20020U0710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 29.
 
@@ -338,7 +338,7 @@ Il secondo periodo dell'[art. 3 della legge 3 luglio 1904, n. 302](Provvedimenti
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20collocati%20in%20aspettativa%20per%20riduzione%20di%20quadri.%20020U0710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 35.
 
@@ -347,7 +347,7 @@ Le disposizioni di cui all'articolo precedente, valgono anche per gli ufficiali 
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 3 giugno 1920, n. 710](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20collocati%20in%20aspettativa%20per%20riduzione%20di%20quadri.%20020U0710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 36.
 

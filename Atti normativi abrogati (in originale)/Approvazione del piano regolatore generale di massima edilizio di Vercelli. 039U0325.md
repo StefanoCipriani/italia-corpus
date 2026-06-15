@@ -104,7 +104,7 @@ g) le opposizioni di cui al comma e) del presente articolo sono trattate con la 
 
 ## Art. 8.
 
-Il comune di Vercelli e' autorizzato ad imporre ai proprietari dei beni che siano avvantaggiati della esecuzione delle opere previste dal presente piano regolatore contributi di miglioria nei limiti e con le forme previste dal testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), e successive modificazioni.
+Il comune di Vercelli e' autorizzato ad imporre ai proprietari dei beni che siano avvantaggiati della esecuzione delle opere previste dal presente piano regolatore contributi di miglioria nei limiti e con le forme previste dal testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni.
 
 ## Art. 9.
 

@@ -14,15 +14,15 @@ Visto il [decreto luogotenenziale 22 dicembre 1945, n. 809](https://www.normatti
 
 Visto il [decreto luogotenenziale 16 gennaio 1946, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-16;12), concernente le attribuzioni del Ministero suindicato;
 
-Visto il [regio decreto 30 maggio 1946, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1946-05-30;459), che determina l'ordinamento del Ministero stesso;
+Visto il [regio decreto 30 maggio 1946, n. 459](Ordinamento%20del%20Ministero%20del%20commercio%20con%20lestero.md), che determina l'ordinamento del Ministero stesso;
 
-Visto il [decreto legislativo luogotenenziale 5 ottobre 1944, n. 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-05;310);
+Visto il [decreto legislativo luogotenenziale 5 ottobre 1944, n. 310](../Decreti%20legislativi%20luogotenenziali/Ripartizione%20dei%20servizi%20e%20del%20personale%20del%20soppresso%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20044U0310.md);
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni;
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e successive modificazioni;
+Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
-Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1);
+Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -36,18 +36,18 @@ I ruoli organici del personale del Ministero del commercio con l'estero sono sta
 
 ## Art. 2.
 
-Ai posti di ruolo previsti dal precedente articolo sara' inquadrato, in conformita' delle disposizioni contenute nel presente decreto, il personale dei ruoli delle tabelle A e B annesse al [decreto legislativo luogotenenziale 5 ottobre 1944, n. 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-05;310).
+Ai posti di ruolo previsti dal precedente articolo sara' inquadrato, in conformita' delle disposizioni contenute nel presente decreto, il personale dei ruoli delle tabelle A e B annesse al [decreto legislativo luogotenenziale 5 ottobre 1944, n. 310](../Decreti%20legislativi%20luogotenenziali/Ripartizione%20dei%20servizi%20e%20del%20personale%20del%20soppresso%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20044U0310.md).
  Detto personale sara' collocato in ruolo nel gruppo e grado spettantigli, nell'ordine dato dall'anzianita' di servizio posseduta all'atto dell'inquadramento.
 
 ## Art. 3.
 
-I pari grado appartenenti ai ruoli di cui alle tabelle A e B annesse al [decreto legislativo luogotenenziale 5 ottobre 1944, n. 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-05;310), che, dalla data della ripartizione del ruolo unico di provenienza, ai sensi delle disposizioni contenute nel decreto legislativo luogotenenziale stesso non abbiano conseguite promozioni nei ruoli di cui alle tabelle A e B suddette, saranno inquadrati secondo l'ordine in cui si trovavano nel suaccennato ruolo unico.
+I pari grado appartenenti ai ruoli di cui alle tabelle A e B annesse al [decreto legislativo luogotenenziale 5 ottobre 1944, n. 310](../Decreti%20legislativi%20luogotenenziali/Ripartizione%20dei%20servizi%20e%20del%20personale%20del%20soppresso%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20044U0310.md), che, dalla data della ripartizione del ruolo unico di provenienza, ai sensi delle disposizioni contenute nel decreto legislativo luogotenenziale stesso non abbiano conseguite promozioni nei ruoli di cui alle tabelle A e B suddette, saranno inquadrati secondo l'ordine in cui si trovavano nel suaccennato ruolo unico.
  I pari grado promossi in ciascuno dei ruoli indicati nelle predette tabelle A e B saranno inquadrati secondo l'anzianita' posseduta nel grado e l'ordine stabilito nella promozione.
  Per i pari grado invece promossi nei ruoli di cui alle predette tabelle A e B con uguale decorrenza, per merito comparativo o per graduatoria di merito, l'inquadramento sara' fatto, previa interpolazione delle graduatorie stesse, con giudizio discrezionale del Consiglio di amministrazione.
 
 ## Art. 4.
 
-Coloro che hanno conseguito promozioni con riserva di anzianita' nel ruolo unico di provenienza o nei ruoli speciali di cui alle tabelle A e B annesse al [decreto legislativo luogotenenziale 5 ottobre 1944, n. 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-05;310), conservano detta riserva di anzianita' all'atto dell'inquadramento previsto dal precedente art. 3, sempre che sussistano i motivi per i quali essa venne disposta.
+Coloro che hanno conseguito promozioni con riserva di anzianita' nel ruolo unico di provenienza o nei ruoli speciali di cui alle tabelle A e B annesse al [decreto legislativo luogotenenziale 5 ottobre 1944, n. 310](../Decreti%20legislativi%20luogotenenziali/Ripartizione%20dei%20servizi%20e%20del%20personale%20del%20soppresso%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20044U0310.md), conservano detta riserva di anzianita' all'atto dell'inquadramento previsto dal precedente art. 3, sempre che sussistano i motivi per i quali essa venne disposta.
  La riserva di anzianita' e' applicata anche a favore del personale pel quale e' prescritta in base alle vigenti disposizioni ed in conseguenza della fusione dei due ruoli suddetti.
 
 ## Art. 5.
@@ -56,7 +56,7 @@ L'inquadramento di cui al precedente art. 2 sara' approvato con decreto del Mini
 
 ## Art. 6.
 
-I posti che, alla data di entrata in vigore del presente decreto, risulteranno vacanti nei gradi iniziali dei ruoli di gruppo A, B e C d'ordine e dei subalterni, salvo l'osservanza delle disposizioni contenute nella [legge 21 agosto 1921, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-21;1312), e nel relativo regolamento di esecuzione, nel [regio decreto 5 settembre 1932, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-05;1514), e nel [regio decreto-legge 17 marzo 1938, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-17;267), saranno conferiti in conformita' delle disposizioni vigenti:
+I posti che, alla data di entrata in vigore del presente decreto, risulteranno vacanti nei gradi iniziali dei ruoli di gruppo A, B e C d'ordine e dei subalterni, salvo l'osservanza delle disposizioni contenute nella [legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md), e nel relativo regolamento di esecuzione, nel [regio decreto 5 settembre 1932, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-05;1514), e nel [regio decreto-legge 17 marzo 1938, n. 267](Passaggio%20agli%20impieghi%20civili%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20della%20Regia%20guardia%20di%20finanza.%20038U0267.md), saranno conferiti in conformita' delle disposizioni vigenti:
  a) per meta' mediante concorso per esame ai combattenti della guerra 1940-43 e della guerra di liberazione; ai mutilati e invalidi per la lotta di liberazione, ai partigiani combattenti ed ai reduci dalla prigionia e dalla deportazione;
  b) per l'altra meta' e nel periodo di attuazione del presente decreto, da effettuare entro due anni dalla pubblicazione del decreto medesimo, mediante concorso per titoli e per esami al personale di ruolo dell'Amministrazione dello Stato munito del prescritto titolo di studio e al personale non di ruolo - limitatamente al numero dei posti stabiliti dal [decreto legislativo 4 aprile 1947, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-04-04;207) - qualora sia in possesso del prescritto titolo di studio e degli altri requisiti stabiliti dall'articolo 8 del decreto stesso.
 
@@ -68,12 +68,12 @@ I posti di gruppo C del ruolo tecnico di cui alla annessa tabella, ad eccezione 
 ## Art. 8.
 
 Il Ministro per il commercio con l'estero e' autorizzato a indire i concorsi previsti nei precedenti articoli 6 e 7.
- Fino a quando non sara' provveduto all'emanazione del regolamento interno, i concorsi di cui al precedente comma saranno espletati secondo le norme del regolamento organico per il personale del Ministero per gli scambi e per le valute, approvato con il [regio decreto 31 marzo 1941, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-03-31;598).
+ Fino a quando non sara' provveduto all'emanazione del regolamento interno, i concorsi di cui al precedente comma saranno espletati secondo le norme del regolamento organico per il personale del Ministero per gli scambi e per le valute, approvato con il [regio decreto 31 marzo 1941, n. 598](Approvazione%20del%20regolamento%20organico%20per%20il%20personale%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20041U0598.md).
  Ai concorsi previsti dal presente articolo sono ammesse le donne.
 
 ## Art. 9.
 
-L'[art. 1 del regio decreto 30 maggio 1946, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1946-05-30;459#art_1), e' modificato come segue:
+L'[art. 1 del regio decreto 30 maggio 1946, n. 459](Ordinamento%20del%20Ministero%20del%20commercio%20con%20lestero.md), e' modificato come segue:
  1) Direzione generale degli accordi commerciali;
  2) Direzione generale delle valute;
  3) Direzione generale per i piani degli scambi con l'estero e relativo coordinamento, per il commercio di deposito e di transito e per gli affari doganali;

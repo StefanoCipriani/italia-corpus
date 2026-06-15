@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 aprile 1933, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-04-20;346), concernente nuove concessioni in materia di importazioni esportazioni temporanee. 
+ E' convertito in legge il [R. decreto-legge 20 aprile 1933, n. 346](Nuove%20concessioni%20di%20importazioni%20ed%20esportazioni%20temporanee.%20033U0346.md), concernente nuove concessioni in materia di importazioni esportazioni temporanee. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

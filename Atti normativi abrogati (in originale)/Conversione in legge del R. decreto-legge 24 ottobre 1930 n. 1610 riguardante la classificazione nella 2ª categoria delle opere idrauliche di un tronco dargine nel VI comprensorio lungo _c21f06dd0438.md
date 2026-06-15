@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 ottobre 1930, n. 1610](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-24;1610), riguardante la classificazione nella 2ª categoria delle opere idrauliche di un tronco d'argine nel VI comprensorio lungo il Po, in provincia di Piacenza. 
+ E' convertito in legge il [R. decreto-legge 24 ottobre 1930, n. 1610](Classifica%20in%202ª%20categoria%20delle%20opere%20idrauliche%20di%20sistemazione%20di%20un%20tronco%20dargine%20nel%20sesto%20comprensorio%20del%20Po.%20030U1610.md), riguardante la classificazione nella 2ª categoria delle opere idrauliche di un tronco d'argine nel VI comprensorio lungo il Po, in provincia di Piacenza. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

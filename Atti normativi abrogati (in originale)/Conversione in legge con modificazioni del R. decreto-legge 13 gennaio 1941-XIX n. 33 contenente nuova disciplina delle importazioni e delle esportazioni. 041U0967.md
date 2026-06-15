@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 gennaio 1941, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-01-13;33), contenente nuova disciplina delle importazioni e delle esportazioni, con le modificazioni seguenti: 
+ E' convertito in legge il [R. decreto-legge 13 gennaio 1941, n. 33](Nuova%20disciplina%20delle%20importazioni%20e%20delle%20esportazioni.%20041U0033.md), contenente nuova disciplina delle importazioni e delle esportazioni, con le modificazioni seguenti: 
  
  All'art. 1, le parole: il Ministero per gli scambi e per le valute, di concerto con i Ministeri, sono sostituite con le parole: il Ministro per gli scambi e per le valute, di concerto con i Ministri. 
  

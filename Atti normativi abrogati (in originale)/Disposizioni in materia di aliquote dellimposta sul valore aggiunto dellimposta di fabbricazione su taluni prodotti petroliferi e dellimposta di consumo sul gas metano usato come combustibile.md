@@ -24,11 +24,11 @@ EMANA il seguente decreto:
 
 1.
 
-L'aliquota dell'imposta sul valore aggiunto stabilita nella misura del 18 per cento e' elevata al 19 per cento. Agli effetti dell'[articolo 27, quarto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_27-com4), la quota imponibile corrispondente alla aliquota del 19 per cento si ottiene riducendo il corrispettivo, comprensivo di imponibile e di imposta, del 15,95 per cento o, in alternativa, dividendo il corrispettivo stesso per 119 e moltiplicando il quoziente per 100.
+L'aliquota dell'imposta sul valore aggiunto stabilita nella misura del 18 per cento e' elevata al 19 per cento. Agli effetti dell'[articolo 27, quarto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), la quota imponibile corrispondente alla aliquota del 19 per cento si ottiene riducendo il corrispettivo, comprensivo di imponibile e di imposta, del 15,95 per cento o, in alternativa, dividendo il corrispettivo stesso per 119 e moltiplicando il quoziente per 100.
 
 2.
 
-La variazione dell'aliquota dell'imposta sul valore aggiunto disposta dal comma 1 non si applica alle operazioni dipendenti da contratti conclusi anteriormente alla data di entrata in vigore del presente decreto rese nei confronti dello Stato e degli enti e istituti indicati nell'ultimo comma dell'[articolo 6 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_6), per le quali entro il 31 dicembre 1988 siano emesse e comunque registrate, ai sensi degli articoli 23 e 24 del predetto decreto, le relative fatture, anche se a tale data il corrispettivo non e' stato pagato.
+La variazione dell'aliquota dell'imposta sul valore aggiunto disposta dal comma 1 non si applica alle operazioni dipendenti da contratti conclusi anteriormente alla data di entrata in vigore del presente decreto rese nei confronti dello Stato e degli enti e istituti indicati nell'ultimo comma dell'[articolo 6 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), per le quali entro il 31 dicembre 1988 siano emesse e comunque registrate, ai sensi degli articoli 23 e 24 del predetto decreto, le relative fatture, anche se a tale data il corrispettivo non e' stato pagato.
 
 3.
 
@@ -68,7 +68,7 @@ temperatura di 15 C;
 
 2.
 
-Gli aumenti di aliquote stabiliti nel comma 1 si applicano anche ai prodotti estratti dalle raffinerie, dai depositi doganali e da quelli ad essi assimilati od importati con il pagamento dell'imposta nella precedente misura e che, alla data di entrata in vigore del presente decreto, sono posseduti, in quantita' superiore a tremila chilogrammi, dagli esercenti depositi di oli minerali per uso commerciale e, in quantita' superiore a quaranta ettolitri, dagli esercenti stazioni di servizio ed impianti di distribuzione stradale di carburanti. Si applicano le disposizioni dell'[articolo 9 della legge 11 maggio 1981, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-11;213#art_9), e dell'articolo 10, come sostituito dall'[articolo 2 della legge 26 dicembre 1981, n. 777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-12-26;777#art_2).
+Gli aumenti di aliquote stabiliti nel comma 1 si applicano anche ai prodotti estratti dalle raffinerie, dai depositi doganali e da quelli ad essi assimilati od importati con il pagamento dell'imposta nella precedente misura e che, alla data di entrata in vigore del presente decreto, sono posseduti, in quantita' superiore a tremila chilogrammi, dagli esercenti depositi di oli minerali per uso commerciale e, in quantita' superiore a quaranta ettolitri, dagli esercenti stazioni di servizio ed impianti di distribuzione stradale di carburanti. Si applicano le disposizioni dell'[articolo 9 della legge 11 maggio 1981, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-11;213#art_9), e dell'articolo 10, come sostituito dall'[articolo 2 della legge 26 dicembre 1981, n. 777](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20ottobre%201981%20n.%20609%20recante%20modificazioni%20al%20regime%20fiscale%20di%20alcuni%20prodotti%20petroliferi%20e%20conferimento%20al%20fondo%20di%20dotazione%20dellENEL.%20Modific_b3295d27b1a7.md).
 
 3.
 
@@ -78,7 +78,7 @@ L'imposta di consumo sul gas metano usato come combustibile e' aumentata da L. 4
 
 1.
 
-Per l'anno 1988, il termine entro il quale le societa' devono depositare nelle cancellerie presso le quali sono iscritte, l'attestazione dell'avvenuto versamento della tassa annuale di concessione governativa prevista dal [decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-17;17), e' fissato al 10 settembre.
+Per l'anno 1988, il termine entro il quale le societa' devono depositare nelle cancellerie presso le quali sono iscritte, l'attestazione dell'avvenuto versamento della tassa annuale di concessione governativa prevista dal [decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201984%20n.%20853%20recante%20disposizioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20imposte%20sul%20reddito%20e%20disposizioni%20rel_0b6b4cacfea3.md), e' fissato al 10 settembre.
 
 ## Art. 4.
 

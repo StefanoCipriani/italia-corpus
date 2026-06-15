@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il [R. decreto-legge 13 agosto 1926, n. 1431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1431), non si applica alle pensioni, sia dirette che di riversibilita', liquidate o da liquidarsi a carico dello Stato, secondo le norme del cessato regime austro-ungarico, a favore del personale operaio dei magazzini generali di Trieste, il quale, prima del collocamento a riposo, abbia percepito stipendi o paghe stabiliti da disposizioni emanate dalle autorita' italiane e valutati agli effetti della pensione. 
+ Il [R. decreto-legge 13 agosto 1926, n. 1431](Disposizioni%20a%20favore%20dei%20pensionati%20delle%20Amministrazioni%20dello%20Stato.%20026U1431.md), non si applica alle pensioni, sia dirette che di riversibilita', liquidate o da liquidarsi a carico dello Stato, secondo le norme del cessato regime austro-ungarico, a favore del personale operaio dei magazzini generali di Trieste, il quale, prima del collocamento a riposo, abbia percepito stipendi o paghe stabiliti da disposizioni emanate dalle autorita' italiane e valutati agli effetti della pensione. 
  
  La presente legge ha effetto dal 1 luglio 1926. 
  

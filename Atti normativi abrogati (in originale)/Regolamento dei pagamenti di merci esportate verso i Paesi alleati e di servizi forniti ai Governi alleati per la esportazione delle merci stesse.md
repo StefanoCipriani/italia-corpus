@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;586), concernente la regolazione dei pagamenti e delle riscossioni in dipendenza delle importazioni e delle esportazioni da e verso i Paesi alleati;
+Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 586](../Decreti%20legislativi%20luogotenenziali/Regolazione%20dei%20pagamenti%20in%20dipendenza%20delle%20importazioni%20e%20delle%20esportazioni%20da%20e%20verso%20i%20Paesi%20Alleati.md), concernente la regolazione dei pagamenti e delle riscossioni in dipendenza delle importazioni e delle esportazioni da e verso i Paesi alleati;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), concernente la facolta' del Governo di emanare norme giuridiche;
 

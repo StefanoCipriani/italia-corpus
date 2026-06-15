@@ -22,11 +22,11 @@ Agli effetti del rinnovo dei prestiti cambiari o della proroga del privilegio le
 
 ## Art. 2.
 
-Qualora per le rimanenze passive degli esercizi precedenti la presunta capacita' produttiva dei terreni non sia sufficiente a garantire una nuova anticipazione di danaro, i proprietari che coltivino direttamente lo loro terre potranno fino al 31 dicembre 1916 chiedere la apertura di un conto corrente ipotecario per il capitale di esercizio della nuova annata agraria con le norme, le discipline e le decadenze stabilite dagli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-01-23;4276#art_20) e [24 della legge 23 gennaio 1887, n.4276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-01-23;4276#art_24). 
+Qualora per le rimanenze passive degli esercizi precedenti la presunta capacita' produttiva dei terreni non sia sufficiente a garantire una nuova anticipazione di danaro, i proprietari che coltivino direttamente lo loro terre potranno fino al 31 dicembre 1916 chiedere la apertura di un conto corrente ipotecario per il capitale di esercizio della nuova annata agraria con le norme, le discipline e le decadenze stabilite dagli [articoli 20](Riguardante%20lordinamento%20del%20credito%20agrario.%20087U4276.md) e [24 della legge 23 gennaio 1887, n.4276](Riguardante%20lordinamento%20del%20credito%20agrario.%20087U4276.md). 
  
  I coltivatori di fondi altrui che si trovino nelle stesse condizioni potranno puro fino a tutto il 1916 chiedere la somministrazione di un nuovo fondo di esercizio con la garanzia delle scorto vive e morte, comprese le macchine agrarie. 
  
- Nei casi di menomazione, distrazione, deterioramento degli oggetti costituenti la garanzia delle somministrazioni si applica la disposizione dell'[art. 29 della legge 29 marzo 1906, n 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-03-29;100#art_29).
+ Nei casi di menomazione, distrazione, deterioramento degli oggetti costituenti la garanzia delle somministrazioni si applica la disposizione dell'[art. 29 della legge 29 marzo 1906, n 100](Che%20istituisce%20presso%20il%20Banco%20di%20Sicilia%20una%20sezione%20per%20lesercizio%20del%20credito%20agrario.%20006U0100.md).
 
 ## Art. 3.
 
@@ -42,7 +42,7 @@ Il conto corrente garantito da ipoteca non potra' avere durata superiore a tre a
 
 ## Art. 5.
 
-Agli atti e documenti di qualunque natura occorrenti per l'apertura del conto corrente ipotecario e per la prestazione delle garanzie previste dal primo capoverso dell'art. 2 e' applicabile la disposizione della prima parte dell'[art. 26 della legge 29 marzo 1903, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-03-29;100#art_26), che stabilisce l'esenzione da qualsiasi tassa di bollo, registro ed ipotecaria. 
+Agli atti e documenti di qualunque natura occorrenti per l'apertura del conto corrente ipotecario e per la prestazione delle garanzie previste dal primo capoverso dell'art. 2 e' applicabile la disposizione della prima parte dell'[art. 26 della legge 29 marzo 1903, n. 100](Approvazione%20di%20eccedenze%20dimpegni%20e%20di%20maggiori%20assegnazioni%20verificatesi%20sulle%20assegnazioni%20di%20alcuni%20capitoli%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellInterno%20per%20leserc_bc6e97a3b78f.md), che stabilisce l'esenzione da qualsiasi tassa di bollo, registro ed ipotecaria. 
  
  Le competenze dei conservatori delle ipoteche sono ridotte alla meta' di quello in vigore.
 

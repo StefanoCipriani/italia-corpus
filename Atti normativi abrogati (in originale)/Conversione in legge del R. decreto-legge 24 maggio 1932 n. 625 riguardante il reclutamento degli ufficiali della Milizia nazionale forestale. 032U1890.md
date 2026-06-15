@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 maggio 1932, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-05-24;625), riguardante il reclutamento degli ufficiali della Milizia nazionale forestale. 
+ E' convertito in legge il [R. decreto-legge 24 maggio 1932, n. 625](Reclutamento%20degli%20ufficiali%20della%20Milizia%20nazionale%20forestale.%20032U0625.md), riguardante il reclutamento degli ufficiali della Milizia nazionale forestale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

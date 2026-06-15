@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 dicembre 1928 n. 3161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-06;3161), con il quale e' stata autorizzata l'esecuzione a cura e a carico dello Stato dei lavori di restauro dell'acquedotto del «Bottaccione», in Gubbio. 
+ E' convertito in legge il [R. decreto-legge 6 dicembre 1928 n. 3161](Autorizzazione%20dellesecuzione%20a%20cura%20e%20a%20carico%20dello%20Stato%20dei%20lavori%20di%20restauro%20dellacquedotto%20del%20Bottaccione%20in%20Gubbio.%20028U3161.md), con il quale e' stata autorizzata l'esecuzione a cura e a carico dello Stato dei lavori di restauro dell'acquedotto del «Bottaccione», in Gubbio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

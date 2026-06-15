@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 Gli atti e contratti stipulati dall'Istituto nazionale delle assicurazioni, per impiegare i propri fondi, sono soggetti al trattamento tributario stabilito per gli atti stipulati dallo Stato. 
  
- Qualora, pero', tali impieghi di fondi siano diretti ad operazioni di finanziamento, anche contro la cessione di annualita' dovute dallo Stato o di altri crediti di qualsiasi natura, i relativi atti e contratti sono soggetti alla tassa proporzionale di cui all'art. 28 della tariffa allegato A al [R. decreto 30 dicembre 1923, n. 3269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3269), a carico della parte sovvenzionata, salvo che questa non abbia diritto a speciali agevolazioni tributarie. 
+ Qualora, pero', tali impieghi di fondi siano diretti ad operazioni di finanziamento, anche contro la cessione di annualita' dovute dallo Stato o di altri crediti di qualsiasi natura, i relativi atti e contratti sono soggetti alla tassa proporzionale di cui all'art. 28 della tariffa allegato A al [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), a carico della parte sovvenzionata, salvo che questa non abbia diritto a speciali agevolazioni tributarie. 
  
  Il presente decreto entra in vigore dalla data della sua pubblicazione nella Gazzetta Ufficiale e sara' presentato al Parlamento per la sua conversione in legge, restando il Ministro proponente autorizzato alla presentazione del relativo disegno di legge. 
  

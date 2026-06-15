@@ -16,7 +16,7 @@ E' istituita una «indennita' di approntamento» per il personale militare e mil
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte della [L. 25 agosto 1940, n. 1258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-08-25;1258), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte della [L. 25 agosto 1940, n. 1258](Estensione%20al%20personale%20della%20Regia%20marina%20dellindennita%20di%20approntamento%20stabilita%20per%20il%20Regio%20esercito.%20040U1258.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 

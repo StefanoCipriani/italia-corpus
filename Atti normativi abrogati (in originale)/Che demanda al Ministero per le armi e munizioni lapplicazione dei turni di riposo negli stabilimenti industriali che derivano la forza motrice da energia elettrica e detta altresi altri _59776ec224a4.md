@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), colla quale sono stati conferiti al Governo del Re i poteri straordinari durante la guerra;
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), colla quale sono stati conferiti al Governo del Re i poteri straordinari durante la guerra;
 
 Visto il [decreto Luogotenenziale 26 giugno 1915, n. 993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-26;993) sulla mobilitazione industriale;
 
@@ -32,7 +32,7 @@ Visto il [decreto Luogotenenziale 25 gennaio 1917, n. 173](https://www.normattiv
 
 Visto il [decreto Luogotenenziale 11 novembre 1917, n 1943](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-11-11;1943);
 
-Vista la [legge 7 luglio 1907, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;489) sul riposo settimanale;
+Vista la [legge 7 luglio 1907, n. 489](Riposo%20settimanale.%20007U0489.md) sul riposo settimanale;
 
 Riconosciuta la necessita' di provvedere alla migliore utilizzazione dell'energia elettrica e di limitarne il consumo;
 
@@ -42,7 +42,7 @@ Sulla proposta del ministro per le armi e munizioni, di concerto con i ministri 
 
 ## Art. 1.
 
-Il Ministero per le armi e munizioni, a mezzo dei Comitati regionali di mobilitazione industriale, potra' applicare i turni di riposo settimanale agli stabilimenti industriali, che a termine della [legge 7 luglio 1907, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;489), attuano il riposo festivo, se derivano la forza motrice di cui abbisognano da imprese distributrici di energia elettrica. 
+Il Ministero per le armi e munizioni, a mezzo dei Comitati regionali di mobilitazione industriale, potra' applicare i turni di riposo settimanale agli stabilimenti industriali, che a termine della [legge 7 luglio 1907, n. 489](Riposo%20settimanale.%20007U0489.md), attuano il riposo festivo, se derivano la forza motrice di cui abbisognano da imprese distributrici di energia elettrica. 
  
  Tali disposizioni verranno applicate dai Comitati suddetti, quando lo ritengano opportuno, anche a quegli stabilimenti industriali, che producono, con impianti propri, l'energia elettrica loro occorrente. 
  

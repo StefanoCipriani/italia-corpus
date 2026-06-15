@@ -16,7 +16,7 @@ Visto il [regio decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri
 
 Visto il [regio decreto 22 dicembre 1932, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-12-22;1728), contenente disposizioni regolamentari sul conferimento dei posti di notaio;
 
-Visto il [decreto legislativo luogotenenziale 5 aprile 1946, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-05;314);
+Visto il [decreto legislativo luogotenenziale 5 aprile 1946, n. 314](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Minist
 
 ## Art. 1.
 
-Nella formazione della graduatoria del concorso per titoli, di cui al [decreto legislativo luogotenenziale 5 aprile 1946, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-05;314), la Commissione esaminatrice terra' anche conto delle qualifiche e condizioni previste dall'art. 2 del decreto stesso con particolare riguardo agli eventi relativi all'ultima guerra.
+Nella formazione della graduatoria del concorso per titoli, di cui al [decreto legislativo luogotenenziale 5 aprile 1946, n. 314](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio.md), la Commissione esaminatrice terra' anche conto delle qualifiche e condizioni previste dall'art. 2 del decreto stesso con particolare riguardo agli eventi relativi all'ultima guerra.
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 settembre 1934, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-20;1491), che modifica l'imposta di fabbricazione e la corrispondente sopratassa di confine sugli oli di semi. 
+ E' convertito in legge il [R. decreto-legge 20 settembre 1934, n. 1491](Modificazione%20dellimposta%20di%20fabbricazione%20e%20della%20corrispondente%20tassa%20di%20confine%20sugli%20oli%20di%20semi.%20034U1491.md), che modifica l'imposta di fabbricazione e la corrispondente sopratassa di confine sugli oli di semi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

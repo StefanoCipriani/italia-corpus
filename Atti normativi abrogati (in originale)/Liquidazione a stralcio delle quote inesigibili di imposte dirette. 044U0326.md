@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico della legge sulla riscossione delle imposte dirette, approvato col [R. decreto 17 ottobre 1922, n. 1401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-17;1401), le successive modifiche nonche' il regolamento per l'applicazione del testo unico anzidetto approvato col [R. decreto 15 settembre 1923, n. 2090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-15;2090);
+Visto il testo unico della legge sulla riscossione delle imposte dirette, approvato col [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), le successive modifiche nonche' il regolamento per l'applicazione del testo unico anzidetto approvato col [R. decreto 15 settembre 1923, n. 2090](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U2090.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -40,7 +40,7 @@ La liquidazione a stralcio consiste nella determinazione delle somme da rimborsa
 
 ## Art. 3.
 
-Alla liquidazione provvede l'Intendente di finanza, sentito il parere della Commissione di cui all'[art. 26 della legge 16 giugno 1939, n. 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-16;942#art_26), modificato dall'[articolo 1 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 325](Modificazioni%20alla%20costituzione%20delle%20Commissioni%20consultive%20istituite%20presso%20le%20Intendenze%20ed%20il%20Ministero%20delle%20finanze%20per%20lesame%20delle%20domande%20di%20rimborso%20a%20titolo%20di%20inesigibilita.%20044U0325.md).
+Alla liquidazione provvede l'Intendente di finanza, sentito il parere della Commissione di cui all'[art. 26 della legge 16 giugno 1939, n. 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md), modificato dall'[articolo 1 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 325](Modificazioni%20alla%20costituzione%20delle%20Commissioni%20consultive%20istituite%20presso%20le%20Intendenze%20ed%20il%20Ministero%20delle%20finanze%20per%20lesame%20delle%20domande%20di%20rimborso%20a%20titolo%20di%20inesigibilita.%20044U0325.md).
 
 ## Art. 4. — Qualora ne facciano domanda, la Commissione ha l'obbligo di sentire l'esattore ed il ricevitore o un loro rappresentante.
 
@@ -48,7 +48,7 @@ La stessa facolta' compete all'ente interessato quando si tratta di quote inesig
 
 ## Art. 5.
 
-Contro le decisioni dell'Intendente di finanza e' ammesso il ricorso nel termine di novanta giorni dalla notifica della decisione stessa, al Ministero delle finanze che decide con decreto non soggetto a gravame, previo parere della Commissione di cui all'[art. 26 della legge 16 giugno 1939, n. 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-16;942#art_26), modificato dall'[art. 2 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 325](Modificazioni%20alla%20costituzione%20delle%20Commissioni%20consultive%20istituite%20presso%20le%20Intendenze%20ed%20il%20Ministero%20delle%20finanze%20per%20lesame%20delle%20domande%20di%20rimborso%20a%20titolo%20di%20inesigibilita.%20044U0325.md), oppure puo' chiedersi, nello stesso termine, che la liquidazione delle domande abbia luogo nei modi ordinari.
+Contro le decisioni dell'Intendente di finanza e' ammesso il ricorso nel termine di novanta giorni dalla notifica della decisione stessa, al Ministero delle finanze che decide con decreto non soggetto a gravame, previo parere della Commissione di cui all'[art. 26 della legge 16 giugno 1939, n. 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md), modificato dall'[art. 2 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 325](Modificazioni%20alla%20costituzione%20delle%20Commissioni%20consultive%20istituite%20presso%20le%20Intendenze%20ed%20il%20Ministero%20delle%20finanze%20per%20lesame%20delle%20domande%20di%20rimborso%20a%20titolo%20di%20inesigibilita.%20044U0325.md), oppure puo' chiedersi, nello stesso termine, che la liquidazione delle domande abbia luogo nei modi ordinari.
 
 ## Art. 6.
 

@@ -14,13 +14,13 @@ Visto il [regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-re
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
 
-Vista la [legge 22 aprile 1932, n. 490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-04-22;490);
+Vista la [legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md);
 
-Vista la [legge 1° luglio 1940, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-01;899);
+Vista la [legge 1° luglio 1940, n. 899](Istituzione%20della%20Scuola%20media.%20040U0899.md);
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -31,8 +31,8 @@ Sentito il Consiglio dei Ministri Sulla proposta del Ministro per la pubblica is
 I presidi e i direttori degli istituti e delle scuole di istruzione media, classica, scientifica, magistrale, tecnica e delle scuole secondarie di avviamento professionale di tipo commerciale sono nominati dal Ministro per la pubblica istruzione tra i professori ordinari, provvisti di laurea, con almeno otto anni di servizio di ruolo come ordinari effettivamente prestato nelle scuole, con esclusione di qualsiasi equipollenza con altri servizi comandati.
  La nomina e' disposta in seguito a concorso per titoli ed esame.
  I concorsi sono distinti per tipi e gradi di scuola e ad essi possono partecipare i professori che, avendo i requisiti di cui ai primo comma, appartengono ai ruoli dei corrispondenti tipi e gradi di scuola e i professori che, nominati per effetto di concorso unico valevole per piu' tipi di scuola, hanno conservato titolo al passaggio a cattedra del tipo di scuola al quale si riferisce il concorso per la nomina a capo d'istituto.
- Nulla e' innovato a quanto e' disposto col regolamento delegato approvato con [regio decreto 27 gennaio 1933, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-27;153), circa la nomina per concorso dei direttori di scuole secondarie di avviamento professionale di tipo agrario, industriale e marinaro.
- Per i concorsi a posti di preside negli istituti tecnici agrari, industriali e nautici e a posti di direttore nelle scuole tecniche agrarie e industriali e' prescritto il possesso della laurea in materie tecniche ai sensi del [regio decreto 11 febbraio 1941, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-02-11;397).
+ Nulla e' innovato a quanto e' disposto col regolamento delegato approvato con [regio decreto 27 gennaio 1933, n. 153](Approvazione%20del%20regolamento%20per%20i%20concorsi%20ai%20posti%20di%20direttore%20insegnante%20ed%20istruttore%20pratico%20nelle%20Regie%20scuole%20e%20nei%20Regi%20corsi%20secondari%20di%20avviamento%20professionale.%20033U0153.md), circa la nomina per concorso dei direttori di scuole secondarie di avviamento professionale di tipo agrario, industriale e marinaro.
+ Per i concorsi a posti di preside negli istituti tecnici agrari, industriali e nautici e a posti di direttore nelle scuole tecniche agrarie e industriali e' prescritto il possesso della laurea in materie tecniche ai sensi del [regio decreto 11 febbraio 1941, n. 397](Modificazione%20allart.%204%20del%20R.%20decreto%2028%20settembre%201934-XII%20n.%201680%20relativo%20alla%20nomina%20dei%20presidi%20e%20dei%20direttori%20del%20Regi%20istituti%20e%20delle%20Regie%20scuole%20di%20istruzione%20media%20tecnica.%20041U0397.md).
 I professori di materie non tecniche degli istituti agrari, industriali e nautici che siano in possesso degli altri titoli e requisiti sono ammessi al concorso a posti di preside negli istituti tecnici commerciali e per geometri. Alle medesime condizioni i professori di materie non tecniche delle scuole tecniche agrarie e industriali e delle scuole secondarie di avviamento professionale di tipo agrario, industriale e marinaro sono rispettivamente ammessi ai concorsi per la direzione di scuole tecniche commerciali e di scuole secondarie di avviamento professionale di tipo commerciale.
  Ai concorsi per la presidenza di scuole di magistero professionale per la donna, per la direzione di scuole professionali femminili e di scuole secondarie di avviamento professionale di tipo industriale femminile sono ammesse le insegnanti dei corrispondenti tipi e gradi di scuola. Fermo restando il requisito dell'anzianita' di servizio stabilito nel primo comma del presente articolo, possono prendere parte ai predetti concorsi, oltre le insegnanti provviste di laurea, anche quelle munite di diploma rilasciato dall'istituto superiore di magistero.
 
@@ -146,7 +146,7 @@ I trasferimenti per domanda sono disposti tenendo conto congiuntamente dell'anzi
 
 ### Art. 20.
 
-Salvo il caso menzionato dall'[art. 88 del regio decreto 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-27;2367#art_88), si fa luogo al trasferimento per motivi di servizio di un capo d'istituto o di un professore, sentito il parere della giunta di cui al successivo art. 25, soltanto quando la sua permanenza nell'istituto o nella sede sia incompatibile con l'interesse della scuola.
+Salvo il caso menzionato dall'[art. 88 del regio decreto 27 novembre 1924, n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md), si fa luogo al trasferimento per motivi di servizio di un capo d'istituto o di un professore, sentito il parere della giunta di cui al successivo art. 25, soltanto quando la sua permanenza nell'istituto o nella sede sia incompatibile con l'interesse della scuola.
  Il trasferimento per servizio puo' essere disposto anche da una delle sedi di cui all'art. 14 ad altra che ivi non sia compresa, quando non vi siano altri posti disponibili.
 
 ### Art. 21.
@@ -205,7 +205,7 @@ Al capo d'istituto e al professore proposto per la dispensa e' fissato il termin
 
 ### Art. 29.
 
-Sono ammessi ai concorsi per la nomina a preside di prima categoria, ai sensi dell'art. 2, i presidi di seconda categoria e i direttori di ruolo che all'atto della entrata in vigore del presente decreto posseggano i requisiti di promovibilita' richiesti dall'[art. 64 del regio decreto 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-27;2367#art_64) e dell'[art. 8 del regio decreto 28 settembre 1934, n. 1680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-28;1680#art_8).
+Sono ammessi ai concorsi per la nomina a preside di prima categoria, ai sensi dell'art. 2, i presidi di seconda categoria e i direttori di ruolo che all'atto della entrata in vigore del presente decreto posseggano i requisiti di promovibilita' richiesti dall'[art. 64 del regio decreto 27 novembre 1924, n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md) e dell'[art. 8 del regio decreto 28 settembre 1934, n. 1680](Norme%20per%20la%20nomina%20dei%20presidi%20e%20direttori%20dei%20Regi%20istituti%20e%20delle%20Regie%20scuole%20distruzione%20media%20tecnica.%20034U1680.md).
  Fino a quando non saranno indetti i concorsi a cattedre nelle scuole di magistero professionale per la donna, saranno ammesse ai concorsi per la nomina a preside delle scuole stesse le direttrici di scuole professionali femminili anche se non provviste di laurea ne' del titolo di idoneita' prescritto dall'art. 2 del presente decreto, che abbiano almeno otto anni di anzianita' come direttrici e abbiano tenuto, almeno per un biennio, incarichi di presidenza o l'insegnamento nelle scuole di magistero professionale per la donna, nonche' le insegnanti laureate delle scuole professionali femminili, che abbiano almeno otto anni di servizio come ordinarie ed abbiano tenuto, per almeno un biennio, uno dei predetti incarichi.
 
 ### Art. 30.
@@ -220,7 +220,7 @@ I professori che sono attualmente in possesso del titolo di vincitore di concors
 ### Art. 32.
 
 Le norme del presente decreto relative ai concorsi speciali avranno attuazione per i trasferimenti da disporre con decorrenza dal 1° ottobre 1948 in poi.
- Sino a quando non sia emanato il nuovo regolamento dei concorsi speciali, continueranno ad osservarsi le disposizioni dei regolamenti approvati con [regi decreti 9 dicembre 1926, n. 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-12-09;2480), [27 gennaio 1933, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-27;153) e [5 luglio 1934, n. 1185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-05;1185) e successive modificazioni, che non siano incompatibili col presente decreto.
+ Sino a quando non sia emanato il nuovo regolamento dei concorsi speciali, continueranno ad osservarsi le disposizioni dei regolamenti approvati con [regi decreti 9 dicembre 1926, n. 2480](Regolamento%20per%20i%20concorsi%20a%20cattedre%20nei%20Regi%20istituti%20medi%20distruzione%20e%20per%20le%20abilitazioni%20allesercizio%20professionale%20dellinsegnamento%20medio.%20026U2480.md), [27 gennaio 1933, n. 153](Approvazione%20del%20regolamento%20per%20i%20concorsi%20ai%20posti%20di%20direttore%20insegnante%20ed%20istruttore%20pratico%20nelle%20Regie%20scuole%20e%20nei%20Regi%20corsi%20secondari%20di%20avviamento%20professionale.%20033U0153.md) e [5 luglio 1934, n. 1185](Regolamento%20per%20i%20concorsi%20a%20cattedre%20nelle%20Regie%20scuole%20e%20nei%20Regi%20istituti%20distruzione%20media%20tecnica.%20034U1185.md) e successive modificazioni, che non siano incompatibili col presente decreto.
 
 ### Art. 33.
 
@@ -229,7 +229,7 @@ Nella prima applicazione del presente decreto e fino a quando non saranno effett
 
 ### Art. 34.
 
-E' abrogato l'[art. 9 della legge 1° luglio 1940, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-01;899#art_9) nella parte che concerne la vigilanza sull'indirizzo politico della scuola. Sono altresi' abrogate tutte le disposizioni contrarie o incompatibili col presente decreto.
+E' abrogato l'[art. 9 della legge 1° luglio 1940, n. 899](Istituzione%20della%20Scuola%20media.%20040U0899.md) nella parte che concerne la vigilanza sull'indirizzo politico della scuola. Sono altresi' abrogate tutte le disposizioni contrarie o incompatibili col presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
 

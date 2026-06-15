@@ -30,7 +30,7 @@ Il Governo e' autorizzato a far pagare le spese ordinarie e straordinarie del Mi
 
 ## Art. 2.
 
-I prelevamenti dal fondo a disposizione inscritto al capitolo n. 15 del predetto stato di previsione, in base all'[art. 7 della legge 22 dicembre 1932, n. 1958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-12-22;1958#art_7), possono effettuarsi a favore dei capitoli indicati nell'elenco annesso al presente decreto.
+I prelevamenti dal fondo a disposizione inscritto al capitolo n. 15 del predetto stato di previsione, in base all'[art. 7 della legge 22 dicembre 1932, n. 1958](Norme%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20032U1958.md), possono effettuarsi a favore dei capitoli indicati nell'elenco annesso al presente decreto.
 
 ## Art. 3.
 

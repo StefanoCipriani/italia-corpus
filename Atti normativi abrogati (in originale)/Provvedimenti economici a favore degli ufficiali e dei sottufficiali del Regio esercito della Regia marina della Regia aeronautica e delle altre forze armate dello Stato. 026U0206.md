@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
 Vista la [legge 17 ottobre 1881, n. 435](Che%20stabilisce%20una%20posizione%20di%20servizio%20ausiliario%20fra%20gli%20ufficiali%20del%20regio%20esercito.%20081U0435.md), che istituisce la posizione ausiliaria per gli ufficiali del Regio esercito;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-L'indennita' militare agli ufficiali, di cui all'[art. 171 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_171), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e' stabilita nella misura annua seguente: 
+L'indennita' militare agli ufficiali, di cui all'[art. 171 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e' stabilita nella misura annua seguente: 
  
  Sottotenente e gradi corrispondenti, L. 2400; 
  
@@ -57,7 +57,7 @@ L'indennita' militare agli ufficiali, di cui all'[art. 171 del R. decreto 11 nov
 
 ## Art. 2.
 
-L'indennita' militare ai sottufficiali, di cui all'[art. 172 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_172), e' stabilita nella misura annua seguente: 
+L'indennita' militare ai sottufficiali, di cui all'[art. 172 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' stabilita nella misura annua seguente: 
  
  Sergente, vice brigadiere, e gradi corrispondenti, L. 360; 
  
@@ -69,7 +69,7 @@ L'indennita' militare ai sottufficiali, di cui all'[art. 172 del R. decreto 11 n
 
 ## Art. 3.
 
-La riduzione dell'indennita' militare per gli ufficiali provvisti di alloggio in natura, di cui all'[art. 173 del Regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_173), e' stabilita nella misura annua seguente: 
+La riduzione dell'indennita' militare per gli ufficiali provvisti di alloggio in natura, di cui all'[art. 173 del Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' stabilita nella misura annua seguente: 
  
  Sottotenente e gradi corrispondenti, L. 580; 
  

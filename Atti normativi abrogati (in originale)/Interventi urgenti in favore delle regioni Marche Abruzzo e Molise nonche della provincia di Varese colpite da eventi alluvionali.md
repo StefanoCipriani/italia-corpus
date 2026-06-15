@@ -54,21 +54,21 @@ L'ANAS, nell'ambito delle proprie disponibilita' di bilancio, esegue, con priori
 
 7.
 
-Le opere di cui al comma 6 sono dichiarate di pubblica utilita', urgenti ed indifferibili ed in relazione alle medesime i capi compartimento sono autorizzati a derogare ai limiti stabiliti dall'articolo 70 del regolamento approvato con [regio decreto 25 maggio 1895, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-05-25;350), e successive modificazioni.
+Le opere di cui al comma 6 sono dichiarate di pubblica utilita', urgenti ed indifferibili ed in relazione alle medesime i capi compartimento sono autorizzati a derogare ai limiti stabiliti dall'articolo 70 del regolamento approvato con [regio decreto 25 maggio 1895, n. 350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md), e successive modificazioni.
 
 ## Art. 2.
 
 1.
 
-Alle imprese industriali, commerciali, artigiane, alberghiere, di servizi e turistiche, i cui impianti od attrezzature risultino danneggiati o distrutti dagli eventi alluvionali nelle province di cui all'articolo 1, si applicano le provvidenze previste dal [decreto- legge 15 dicembre 1951, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1951-12-15;1334), convertito, con modificazioni, dalla [legge 13 febbraio 1952, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-13;50), come integrato dall'[articolo 9 della legge 13 maggio 1985, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-13;198#art_9).
+Alle imprese industriali, commerciali, artigiane, alberghiere, di servizi e turistiche, i cui impianti od attrezzature risultino danneggiati o distrutti dagli eventi alluvionali nelle province di cui all'articolo 1, si applicano le provvidenze previste dal [decreto- legge 15 dicembre 1951, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1951-12-15;1334), convertito, con modificazioni, dalla [legge 13 febbraio 1952, n. 50](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2015%20dicembre%201951%20n.%201334%20concernente%20lestensione%20alle%20imprese%20commerciali%20ed%20artigiane%20della%20legge%2021%20agosto%201949%20n.%20638%20sulle%20imprese%20industriali%20d_0949d70ecf98.md), come integrato dall'[articolo 9 della legge 13 maggio 1985, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-13;198#art_9).
 
 2.
 
-Per la concessione dei contributi a fondo perduto di cui all'[articolo 7- bis del decreto-legge 15 dicembre 1951, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1951-12-15;1334#art_7bis), convertito, con modificazioni, dalla [legge 13 febbraio 1952, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-13;50), e successive modifiche ed integrazioni, e' autorizzata la spesa di lire 4.000 milioni per l'anno 1992, da iscrivere nell'apposito capitolo dello stato di previsione del Ministero dell'industria, del commercio e dell'artigianato per il medesimo anno.
+Per la concessione dei contributi a fondo perduto di cui all'[articolo 7- bis del decreto-legge 15 dicembre 1951, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1951-12-15;1334#art_7bis), convertito, con modificazioni, dalla [legge 13 febbraio 1952, n. 50](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2015%20dicembre%201951%20n.%201334%20concernente%20lestensione%20alle%20imprese%20commerciali%20ed%20artigiane%20della%20legge%2021%20agosto%201949%20n.%20638%20sulle%20imprese%20industriali%20d_0949d70ecf98.md), e successive modifiche ed integrazioni, e' autorizzata la spesa di lire 4.000 milioni per l'anno 1992, da iscrivere nell'apposito capitolo dello stato di previsione del Ministero dell'industria, del commercio e dell'artigianato per il medesimo anno.
 
 3.
 
-All'onere derivante dall'attuazione del presente articolo, pari a lire 4.000 milioni per l'anno 1992, si provvede mediante riduzione dello stanziamento iscritto al capitolo 8172 dello stato di previsione del Ministero del tesoro per l'anno 1992, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 16, comma 12, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_16-com12), come determinata per il medesimo anno con la tabella D della [legge 31 dicembre 1991, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-31;415).
+All'onere derivante dall'attuazione del presente articolo, pari a lire 4.000 milioni per l'anno 1992, si provvede mediante riduzione dello stanziamento iscritto al capitolo 8172 dello stato di previsione del Ministero del tesoro per l'anno 1992, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 16, comma 12, della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), come determinata per il medesimo anno con la tabella D della [legge 31 dicembre 1991, n. 415](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201992.md).
 
 ## Art. 3.
 
@@ -104,7 +104,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le varia
 
 1.
 
-Per il 1992 i limiti contenuti nelle disposizioni richiamate dall'[articolo 18, comma 1, della legge 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412#art_18-com1), non si applicano ai mutui previsti dall'articolo 1, comma 1, dell'ordinanza n. 1585/FPC del 24 ottobre 1988, pubblicata nella Gazzetta Ufficiale n. 255 del 29 ottobre 1988, come integrata e modificata dalla ordinanza in data 14 novembre 1988, pubblicata nella Gazzetta Ufficiale n. 272 del 19 novembre 1988.
+Per il 1992 i limiti contenuti nelle disposizioni richiamate dall'[articolo 18, comma 1, della legge 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md), non si applicano ai mutui previsti dall'articolo 1, comma 1, dell'ordinanza n. 1585/FPC del 24 ottobre 1988, pubblicata nella Gazzetta Ufficiale n. 255 del 29 ottobre 1988, come integrata e modificata dalla ordinanza in data 14 novembre 1988, pubblicata nella Gazzetta Ufficiale n. 272 del 19 novembre 1988.
 
 ## Art. 5.
 

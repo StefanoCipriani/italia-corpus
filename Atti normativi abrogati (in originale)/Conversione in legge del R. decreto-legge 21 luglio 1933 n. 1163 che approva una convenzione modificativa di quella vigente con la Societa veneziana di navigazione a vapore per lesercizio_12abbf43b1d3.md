@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 luglio 1933, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-07-21;1163), che approva la convenzione modificativa in data 14 luglio 1933, stipulata con la Societa' veneziana di navigazione a vapore per l'esercizio della linea Italia-Calcutta. 
+ E' convertito in legge il [R. decreto-legge 21 luglio 1933, n. 1163](Convenzione%20modificativa%20di%20quella%20vigente%20con%20la%20Societa%20Veneziana%20di%20navigazione%20a%20vapore%20per%20lesercizio%20della%20linea%20Italia%20-%20Calcutta.%20033U1163.md), che approva la convenzione modificativa in data 14 luglio 1933, stipulata con la Societa' veneziana di navigazione a vapore per l'esercizio della linea Italia-Calcutta. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

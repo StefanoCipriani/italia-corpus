@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto l'art. 1, penultimo capoverso, della [legge 31 gennaio 1901, n. 23](Disposizioni%20sullemigrazione.%20001U0023.md), sull'emigrazione;
 
-Visto l'[art. 3 del R. decreto 31 gennaio 1901, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-01-31;36#art_3), per il rilascio dei passaporti per l'estero;
+Visto l'[art. 3 del R. decreto 31 gennaio 1901, n. 36](Circa%20il%20rilascio%20dei%20passaporti%20per%20lestero.%20001U0036.md), per il rilascio dei passaporti per l'estero;
 
-Visto il [R. decreto n. 803 in data 6 agosto 1914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-06;803);
+Visto il [R. decreto n. 803 in data 6 agosto 1914](Col%20quale%20viene%20sospesa%20la%20facolta%20di%20emigrare%20ai%20militari%20del%20R.%20esercito%20e%20della%20R.%20marina.%20014U0803.md);
 
 Udito il Consiglio dei ministri;
 

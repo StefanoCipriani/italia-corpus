@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395) sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato, e successive modificazioni;
 
-Visto il testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, approvato con [R. decreto 23 febbraio 1928, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-23;327);
+Visto il testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, approvato con [R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md);
 
-Visto il [R. decreto 27 aprile 1931, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-04-27;985), concernente la revisione dei ruoli organici dei personali civili dell'Amministrazione della guerra;
+Visto il [R. decreto 27 aprile 1931, n. 985](Revisione%20dei%20ruoli%20organici%20dei%20personali%20civili%20dellAmministrazione%20della%20guerra.%20031U0985.md), concernente la revisione dei ruoli organici dei personali civili dell'Amministrazione della guerra;
 
 Vista la [legge 20 dicembre 1932, n. 1626](Provvedimenti%20inerenti%20ai%20quadri%20del%20Regio%20esercito.%20032U1626.md), recante provvedimenti inerenti ai quadri del Regio esercito;
 
@@ -66,7 +66,7 @@ Gli ufficiali in servizio permanente effettivo (compresi quelli del ruolo di mob
  
  Ai commissari di leva provenienti da ufficiali compete lo stesso trattamento di pensione come se il servizio di commissario di leva fosse prestato nella qualita' di ufficiali richiamati in servizio temporaneo. 
  
- Restano ferme le disposizioni del [2°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-23;327#art_13-com2) e [3° comma dell'art. 13 del R. decreto 23 febbraio 1928, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-23;327#art_13-com3), per i commissari nominati prima del 1° gennaio 1925 e per quelli provenienti da armi o corpi che eventualmente non fossero piu' compresi nell'ordinamento del Regio esercito.
+ Restano ferme le disposizioni del [2°](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md) e [3° comma dell'art. 13 del R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), per i commissari nominati prima del 1° gennaio 1925 e per quelli provenienti da armi o corpi che eventualmente non fossero piu' compresi nell'ordinamento del Regio esercito.
 
 ## Art. 5.
 

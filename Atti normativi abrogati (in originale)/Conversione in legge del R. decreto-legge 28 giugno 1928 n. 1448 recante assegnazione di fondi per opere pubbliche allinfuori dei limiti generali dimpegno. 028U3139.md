@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 giugno 1928, n. 1448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-28;1448), recante assegnazione di fondi per opere pubbliche all'infuori dei limiti generali d'impegno. 
+ E' convertito in legge il [R. decreto-legge 28 giugno 1928, n. 1448](Assegnazione%20di%20fondi%20allinfuori%20dei%20limiti%20generali%20dimpegno.%20028U1448.md), recante assegnazione di fondi per opere pubbliche all'infuori dei limiti generali d'impegno. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

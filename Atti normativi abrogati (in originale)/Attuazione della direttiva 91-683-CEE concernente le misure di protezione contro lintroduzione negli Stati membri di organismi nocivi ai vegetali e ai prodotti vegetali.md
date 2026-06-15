@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 23 della legge 19 dicembre 1992, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489#art_23), recante delega al Governo per l'attuazione della [direttiva 91/683/CEE del Consiglio del 19 dicembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;683);
+Visto l'[art. 23 della legge 19 dicembre 1992, n. 489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md), recante delega al Governo per l'attuazione della [direttiva 91/683/CEE del Consiglio del 19 dicembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;683);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 dicembre 1992;
 
@@ -40,11 +40,11 @@ Il Ministero dell'agricoltura e delle foreste - Direzione generale della produzi
 
 2.
 
-Gli uffici delle regioni e province autonome finora denominati Osservatori per le malattie delle piante o che hanno assunto dopo l'entrata in vigore del [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616), le funzioni degli Osservatori per le malattie delle piante, espletano le attivita' di controllo fitosanitario sul territorio nazionale.
+Gli uffici delle regioni e province autonome finora denominati Osservatori per le malattie delle piante o che hanno assunto dopo l'entrata in vigore del [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), le funzioni degli Osservatori per le malattie delle piante, espletano le attivita' di controllo fitosanitario sul territorio nazionale.
 
 3.
 
-Ai fini del presente decreto e ai sensi della [legge 9 marzo 1955, n. 471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-03-09;471), gli uffici di cui ai commi 1 e 2 sono denominati rispettivamente, nell'ambito del Servizio fitosanitario nazionale, "Servizio fitosanitario centrale" e "Servizio fitosanitario regionale".
+Ai fini del presente decreto e ai sensi della [legge 9 marzo 1955, n. 471](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20internazionale%20per%20la%20protezione%20delle%20piante%20firmata%20a%20Roma%20il%206%20dicembre%201951.md), gli uffici di cui ai commi 1 e 2 sono denominati rispettivamente, nell'ambito del Servizio fitosanitario nazionale, "Servizio fitosanitario centrale" e "Servizio fitosanitario regionale".
 
 4.
 
@@ -116,7 +116,7 @@ Per lo svolgimento dei compiti di cui al comma 1; i servizi fitosanitari regiona
 
 3.
 
-Il personale di cui al comma 2 svolge i compiti dei delegati speciali per le malattie delle piante, di cui agli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-18;987#art_3) e [9 della legge 18 giugno 1931, n. 987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-18;987#art_9), esercitandone i relativi poteri.
+Il personale di cui al comma 2 svolge i compiti dei delegati speciali per le malattie delle piante, di cui agli [articoli 3](Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20031U0987.md) e [9 della legge 18 giugno 1931, n. 987](Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20031U0987.md), esercitandone i relativi poteri.
 
 ## Art. 6. — Registri dei produttori
 

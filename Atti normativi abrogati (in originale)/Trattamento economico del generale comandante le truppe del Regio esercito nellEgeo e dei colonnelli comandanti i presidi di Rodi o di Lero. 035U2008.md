@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 15 luglio 1926, n. 1476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-15;1476), relativo al trattamento economico del personale militare nelle Isole italiane dell'Egeo ed a Saseno;
+Visto il [R. decreto 15 luglio 1926, n. 1476](Trattamento%20economico%20del%20personale%20militare%20nelle%20Isole%20dellEgeo%20ed%20a%20Saseno.%20026U1476.md), relativo al trattamento economico del personale militare nelle Isole italiane dell'Egeo ed a Saseno;
 
 Vista la nuova organizzazione militare delle Isole italiane dell'Egeo;
 
@@ -28,11 +28,11 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Per l'ufficiale generale, comandante delle truppe del Regio esercito nelle Isole italiane dell'Egeo, l'indennita' giornaliera prevista per il personale del Regio esercito in servizio collettivo nelle Isole stesse ed a Saseno dall'articolo unico del [R. decreto 15 luglio 1926, n. 1476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-15;1476), e' stabilita in L. 35.
+Per l'ufficiale generale, comandante delle truppe del Regio esercito nelle Isole italiane dell'Egeo, l'indennita' giornaliera prevista per il personale del Regio esercito in servizio collettivo nelle Isole stesse ed a Saseno dall'articolo unico del [R. decreto 15 luglio 1926, n. 1476](Trattamento%20economico%20del%20personale%20militare%20nelle%20Isole%20dellEgeo%20ed%20a%20Saseno.%20026U1476.md), e' stabilita in L. 35.
 
 ## Art. 2.
 
-In aggiunta all'indennita' di cui al precedente articolo ed all'indennita' giornaliera per spese di rappresentanza prevista pel comandante delle truppe dell'Egeo dal terzo comma del predetto R. decreto 15 luglio 1926, elevata a L. 25, all'ufficiale generale predetto, ove non fruisca di alloggio gratuito di servizio, e' corrisposta un'indennita' nella misura annua di L. 3000, alle condizioni di cui all'art. 33 del testo unico delle disposizioni concernenti gli stipendi ed assegni fissi per il Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-31;3458).
+In aggiunta all'indennita' di cui al precedente articolo ed all'indennita' giornaliera per spese di rappresentanza prevista pel comandante delle truppe dell'Egeo dal terzo comma del predetto R. decreto 15 luglio 1926, elevata a L. 25, all'ufficiale generale predetto, ove non fruisca di alloggio gratuito di servizio, e' corrisposta un'indennita' nella misura annua di L. 3000, alle condizioni di cui all'art. 33 del testo unico delle disposizioni concernenti gli stipendi ed assegni fissi per il Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md).
 
 ## Art. 3.
 
@@ -40,7 +40,7 @@ Ai colonnelli comandanti rispettivamente i presidi di Rodi e Lero e' concessa un
 
 ## Art. 4.
 
-Le indennita' oggetto del presente decreto sono soggette alle riduzioni stabilite dai [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561). L'indennita' giornaliera per spese di rappresentanza non e' cumulabile con l'indennita' prevista dall'[articolo 177 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_177), sull'ordinamento gerarchico delle Amministrazioni dello Stato.
+Le indennita' oggetto del presente decreto sono soggette alle riduzioni stabilite dai [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561). L'indennita' giornaliera per spese di rappresentanza non e' cumulabile con l'indennita' prevista dall'[articolo 177 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato.
 
 ## Art. 5.
 

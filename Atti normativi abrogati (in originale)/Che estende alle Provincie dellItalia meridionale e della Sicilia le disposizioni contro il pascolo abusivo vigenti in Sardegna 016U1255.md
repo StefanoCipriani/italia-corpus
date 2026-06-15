@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduti gli [articoli 424 e seguenti del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_424);
+Veduti gli [articoli 424 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
-Veduti il testo unico delle leggi per la Sardegna, approvato con [R. decreto 10 novembre 1907, n. 884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-11-10;884), e il relativo regolamento approvato con [R. decreto 14 luglio 1898, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;404);
+Veduti il testo unico delle leggi per la Sardegna, approvato con [R. decreto 10 novembre 1907, n. 884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-11-10;884), e il relativo regolamento approvato con [R. decreto 14 luglio 1898, n. 404](Che%20approva%20il%20Regolamento%20per%20la%20repressione%20dellabigeato%20e%20del%20pascolo%20abusivo%20in%20Sardegna%20098U0404.md);
 
 Udito il Consiglio dei ministri;
 

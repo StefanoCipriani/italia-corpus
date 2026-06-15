@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  Noi abbiamo sanzionato e promulghiamo quanto segue: 
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 gennaio 1933, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-05;80), che ha dato esecuzione ai seguenti Accordi, stipulati in Roma, fra l'Italia e l'Ungheria, il 12 novembre 1932: 
+ E' convertito in legge il [R. decreto-legge 5 gennaio 1933, n. 80](Approvazione%20degli%20Accordi%20stipulati%20in%20Roma%20tra%20lItalia%20e%20lUngheria%20in%20data%2012%20novembre%201932%20per%20regolare%20alcune%20questioni%20derivanti%20dalla%20guerra.%20033U0080.md), che ha dato esecuzione ai seguenti Accordi, stipulati in Roma, fra l'Italia e l'Ungheria, il 12 novembre 1932: 
  1° Convenzione per l'esecuzione definitiva delle Convenzioni del 27 marzo 1924 e del 21 maggio 1927 circa i debiti e i crediti, e della Convenzione del 27 marzo 1924 per la liquidazione dei beni dei sudditi ungheresi in Italia; 
  2° Convenzione per il Tribunale arbitrale misto italo-ungherese, istituito in applicazione dell'art. 239 del Trattato di pace del Trianon, con un Protocollo; 
  3° Convenzione circa il regolamento delle rendite di infortunio liquidate dalla Cassa nazionale di assicurazione operaia ungherese;  4° Convenzione per l'esecuzione della Convenzione del 27 marzo 1924 riguardante la Prima Societa', di assicurazione di Budapest; 

@@ -20,7 +20,7 @@ Il Ministero dell'agricoltura e delle foreste e' autorizzato a concedere al Segr
 
 ## Art. 2.
 
-E' ridotta di lire 50 milioni l'autorizzazione di spesa concessa con l'[art. 7, lettera d), del decreto legislativo 5 marzo 1948, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-05;121#art_7-letd).
+E' ridotta di lire 50 milioni l'autorizzazione di spesa concessa con l'[art. 7, lettera d), del decreto legislativo 5 marzo 1948, n. 121](../Decreti%20Legislativi/Provvedimenti%20a%20favore%20di%20varie%20regioni%20dellItalia%20meridionale%20e%20delle%20Isole.md).
 
 ## Art. 3.
 

@@ -18,7 +18,7 @@ In virtu' dell'autorita' Noi delegata;
 
 Visto il [R. Decreto-legge 2 febbraio 1931, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-02-02;300);
 
-Visto il [R. decreto-legge 26 settembre 1935, n. 1749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1749);
+Visto il [R. decreto-legge 26 settembre 1935, n. 1749](Provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari.%20035U1749.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per gli affari esteri, di concerto con i Ministri pe
 
 ## Articolo unico
 
-La tassa speciale di concessione del passaporto per Paesi transoceanici di cui ai [Regi decreti-legge 26 febbraio 1931, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-02-26;300) e [26 settembre 1935, n. 1749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1749), e' elevata da L. 120 a L. 600.
+La tassa speciale di concessione del passaporto per Paesi transoceanici di cui ai [Regi decreti-legge 26 febbraio 1931, n. 300](Istituzione%20di%20una%20tassa%20speciale%20per%20i%20passaporti%20per%20paesi%20transoceanici.%20031U0300.md) e [26 settembre 1935, n. 1749](Provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari.%20035U1749.md), e' elevata da L. 120 a L. 600.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 febbraio 1931, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-02-26;315), che modifica la tassa per il rilascio del passaporto nel Regno e all'estero. 
+ E' convertito in legge il [R. decreto-legge 26 febbraio 1931, n. 315](Modifiche%20alle%20norme%20concernenti%20i%20passaporti%20per%20lestero.%20031U0315.md), che modifica la tassa per il rilascio del passaporto nel Regno e all'estero. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

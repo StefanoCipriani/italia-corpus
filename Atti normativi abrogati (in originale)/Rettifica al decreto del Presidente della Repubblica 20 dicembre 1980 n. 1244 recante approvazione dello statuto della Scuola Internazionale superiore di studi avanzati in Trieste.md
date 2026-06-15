@@ -13,11 +13,11 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
- Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
- Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
  Veduta la [legge 8 agosto 1977, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;546);
- Veduto il [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;102), con il quale e' stata istituita la Scuola internazionale superiore di studi avanzati in Trieste;
- Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382);
+ Veduto il [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](../DPR/Norme%20sulla%20Universita%20statale%20di%20Udine%20e%20sulla%20istituzione%20ed%20il%20potenziamento%20di%20strutture%20per%20la%20ricerca%20scientifica%20e%20tecnologica%20di%20alta%20cultura%20ed%20universitarie%20in%20Trieste.md), con il quale e' stata istituita la Scuola internazionale superiore di studi avanzati in Trieste;
+ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md);
  Veduta la nota del direttore della Scuola internazionale superiore di studi avanzati;
  Veduto il decreto del Presidente della Repubblica 20 dicembre 1980, n. 1244, pubblicato nella Gazzetta Ufficiale n. 83 del 25 marzo 1982;
  Riconosciuta la necessita' di apportare una rettifica allo statuto allegato al suddetto decreto del Presidente della Repubblica n. 1244 dovuto ad un mero errore materiale;

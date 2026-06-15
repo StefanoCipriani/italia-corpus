@@ -20,9 +20,9 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915 n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915 n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visto il testo unico delle leggi sull'ordinamento dell'esercito e dei servizi dipendenti dall'Amministrazione della guerra, modificato, per quanto riguarda il personale della giustizia militare, dalla [legge 25 giugno 1911, n. 611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;611);
+Visto il testo unico delle leggi sull'ordinamento dell'esercito e dei servizi dipendenti dall'Amministrazione della guerra, modificato, per quanto riguarda il personale della giustizia militare, dalla [legge 25 giugno 1911, n. 611](Per%20provvedimenti%20riguardanti%20il%20personale%20della%20giustizia%20militare%20il%20personale%20civile%20dellIstituto%20geografico%20militare%20i%20maestri%20civili%20delle%20scuole%20militari%20ed%20i%20farmacisti%20militari.%20011U0611.md);
 
 Visto il testo unico delle leggi sugli stipendi ed assegni fissi pel R. esercito, modificato, per quanto riguarda il personale della giustizia militare, dalla legge 25 giugno 1911, n: 611;
 
@@ -36,7 +36,7 @@ Sulla proposta del ministro segretario di Stato per gli affari della guerra, di 
 
 ## Art. 1.
 
-Alla tabella XVI del testo unico delle leggi di ordinamento dell'esercito e dei servizi dipendenti dall'Amministrazione della guerra, modificata dalla [legge 25 giugno 1911, n. 611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;611), e' sostituita la seguente: 
+Alla tabella XVI del testo unico delle leggi di ordinamento dell'esercito e dei servizi dipendenti dall'Amministrazione della guerra, modificata dalla [legge 25 giugno 1911, n. 611](Per%20provvedimenti%20riguardanti%20il%20personale%20della%20giustizia%20militare%20il%20personale%20civile%20dellIstituto%20geografico%20militare%20i%20maestri%20civili%20delle%20scuole%20militari%20ed%20i%20farmacisti%20militari.%20011U0611.md), e' sostituita la seguente: 
  
  TABELLA XVI 
  
@@ -63,7 +63,7 @@ Alla tabella XVI del testo unico delle leggi di ordinamento dell'esercito e dei 
 
 ## Art. 2.
 
-Alla tabella VI del testo unico delle leggi sugli stipendi ed assegni fissi pel R. esercito, modificata dalla [legge 25 giugno 1911, n. 611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;611), e' sostituita, nella parte relativa al personale della giustizia militare la seguente: 
+Alla tabella VI del testo unico delle leggi sugli stipendi ed assegni fissi pel R. esercito, modificata dalla [legge 25 giugno 1911, n. 611](Per%20provvedimenti%20riguardanti%20il%20personale%20della%20giustizia%20militare%20il%20personale%20civile%20dellIstituto%20geografico%20militare%20i%20maestri%20civili%20delle%20scuole%20militari%20ed%20i%20farmacisti%20militari.%20011U0611.md), e' sostituita, nella parte relativa al personale della giustizia militare la seguente: 
  
  Personale della giustizia militare. 
  

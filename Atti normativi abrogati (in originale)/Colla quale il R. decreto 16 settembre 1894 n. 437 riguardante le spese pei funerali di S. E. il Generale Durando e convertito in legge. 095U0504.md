@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [Regio decreto 16 settembre 1894, num. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-09-16;437), col quale fu stabilito che fossero fatti a spese dello Stato i funerali per il Generale S. E. Giacomo Durando, cavaliere della SS. Annunziata, senatore del Regno, e' convertito in legge.
+Il [Regio decreto 16 settembre 1894, num. 437](Che%20dispone%20siano%20a%20carico%20dello%20Stato%20le%20spese%20per%20i%20funerali%20di%20S.%20E.%20il%20generale%20Giacomo%20Durando.%20094U0437.md), col quale fu stabilito che fossero fatti a spese dello Stato i funerali per il Generale S. E. Giacomo Durando, cavaliere della SS. Annunziata, senatore del Regno, e' convertito in legge.
 
 ## Art. 2.
 

@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi approvato con [R. decreto 24 dicembre 1899, n. 501, e l'art. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-24;501#art_35) della [legge 18 luglio 1917, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-18;1143);
+Visto il testo unico delle leggi approvato con [R. decreto 24 dicembre 1899, n. 501, e l'art. 35](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md) della [legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md);
 
 Visto il [decreto Luogotenenziale n. 1558 del 31 ottobre 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-31;1558) che autorizza la emissione di francobolli speciali a beneficio della Croce Rossa;
 

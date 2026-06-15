@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la tariffa generale dei dazi doganali, approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni;
+Vista la tariffa generale dei dazi doganali, approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni;
 
 Visto il [R. decreto 15 settembre 1915, n. 1373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-09-15;1373), e successive disposizioni modificatrici e complementari;
 
@@ -304,13 +304,13 @@ Chiunque fabbrichi clandestinamente i prodotti contemplati negli articoli 1 e 2 
  
  Con la stessa pena e' punito chiunque fabbrichi i prodotti di cui al precedente comma in tempi diversi da quelli indicati nella dichiarazione di lavoro. 
  
- Gli apparecchi e i meccanismi, i prodotti e le materie prime, oggetto della violazione, sono soggetti a confisca, a termini della legge doganale e in deroga alle disposizioni dell'[art. 240 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+ Gli apparecchi e i meccanismi, i prodotti e le materie prime, oggetto della violazione, sono soggetti a confisca, a termini della legge doganale e in deroga alle disposizioni dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 23.
 
 Chiunque sottragga o tenti sottrarre con qualunque mezzo i prodotti all'accertamento o al pagamento dell'imposta prevista dal presente decreto e' punito con la multa non minore del doppio ne' maggiore del decuplo dell'imposta frodata o che abbia tentato di frodare. 
  
- I prodotti sottratti o che si tentava di sottrarre ed i mezzi adoperati per commettere la frode sono soggetti a confisca, a termini della legge doganale e in deroga alle disposizioni dell'[art. 240 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+ I prodotti sottratti o che si tentava di sottrarre ed i mezzi adoperati per commettere la frode sono soggetti a confisca, a termini della legge doganale e in deroga alle disposizioni dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 24.
 
@@ -374,7 +374,7 @@ I prodotti a base di oli minerali, quando vengono importati dall'estero, sono so
 
 ### Art. 32.
 
-Per la ripartizione delle ammende e delle multe riscosse in dipendenza di violazioni delle norme del presente decreto si osservano, in deroga agli [articoli 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_24) e [26 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_26), le disposizioni della legge doganale e del relativo regolamento. 
+Per la ripartizione delle ammende e delle multe riscosse in dipendenza di violazioni delle norme del presente decreto si osservano, in deroga agli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le disposizioni della legge doganale e del relativo regolamento. 
  
  Le disposizioni della legge e del regolamento anzidetti si applicano parimenti per la erogazione delle somme ricavate dalla vendita delle cose sequestrate o comunque recuperate in dipendenza di violazioni delle norme del presente decreto. 
  

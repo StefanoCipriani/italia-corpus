@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;149);
+Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 149](../Decreti%20legislativi%20luogotenenziali/Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md);
 
-Visto il [decreto legislativo luogotenenziale 5 ottobre 1945, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-05;625);
+Visto il [decreto legislativo luogotenenziale 5 ottobre 1945, n. 625](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20sulle%20sanzioni%20contro%20il%20fascismo.%20045U0625.md);
 
 Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;201);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Il termine di funzionamento delle Sezioni speciali delle Corti di assise, per i 
 
 ## Art. 2.
 
-I provvedimenti previsti dagli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;149#art_1) e [3 dei decreto legislativo luogotenenziale 26 aprile 1945, numero 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;149#art_3), riguardante l'applicazione di sanzioni a carico dei fascisti politicamente pericolosi, possono essere adottati entro un anno dall'entrata in vigore del presente decreto.
+I provvedimenti previsti dagli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md) e [3 dei decreto legislativo luogotenenziale 26 aprile 1945, numero 149](../Decreti%20legislativi%20luogotenenziali/Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md), riguardante l'applicazione di sanzioni a carico dei fascisti politicamente pericolosi, possono essere adottati entro un anno dall'entrata in vigore del presente decreto.
 
 ## Art. 3.
 

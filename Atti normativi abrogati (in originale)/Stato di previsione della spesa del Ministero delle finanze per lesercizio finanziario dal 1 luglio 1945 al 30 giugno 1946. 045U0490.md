@@ -30,7 +30,7 @@ E' autorizzato il pagamento delle spese ordinarie e straordinarie del Ministero 
 
 ## Art. 2.
 
-L'Amministrazione autonoma dei monopoli	Stato e' autorizzata ad accertare e riscuotere le entrate ed a provvedere allo smaltimento dei generi dei monopoli medesimi secondo le tariffe vigenti, nonche' a far pagare le spese per l'esercizio finanziario dal 1° luglio 1945 al 30 giugno 1946, ai termini del [R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258), convertito nella [legge 6 dicembre 1928, n. 3474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;3474), in conformita' del bilancio di previsione allegato al presente decreto. (Appendice n. 1).
+L'Amministrazione autonoma dei monopoli	Stato e' autorizzata ad accertare e riscuotere le entrate ed a provvedere allo smaltimento dei generi dei monopoli medesimi secondo le tariffe vigenti, nonche' a far pagare le spese per l'esercizio finanziario dal 1° luglio 1945 al 30 giugno 1946, ai termini del [R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258), convertito nella [legge 6 dicembre 1928, n. 3474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201927%20n.%202258%20relativo%20allautonomia%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20028U3474.md), in conformita' del bilancio di previsione allegato al presente decreto. (Appendice n. 1).
 
 ## Art. 3.
 

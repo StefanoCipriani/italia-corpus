@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 giugno 1913, n. 644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;644); 
+ Vista la [legge 22 giugno 1913, n. 644](Che%20autorizza%20la%20costruzione%20di%20una%20caserma%20per%20la%20R.%20guardia%20di%20finanza%20in%20Roma.%20013U0644.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Lo stanziamento per la costruzione di una caserma per la R. guardia di finanza in Roma, fissato dall'[art. 1 della legge 22 giugno 1913, n. 644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;644#art_1), e' aumentato della somma di L. 500.000, la quale sara' anticipata dalla massa del Corpo con le norme ed alle condizioni di rimborso stabilite dalla legge stessa. 
+ Lo stanziamento per la costruzione di una caserma per la R. guardia di finanza in Roma, fissato dall'[art. 1 della legge 22 giugno 1913, n. 644](Che%20autorizza%20la%20costruzione%20di%20una%20caserma%20per%20la%20R.%20guardia%20di%20finanza%20in%20Roma.%20013U0644.md), e' aumentato della somma di L. 500.000, la quale sara' anticipata dalla massa del Corpo con le norme ed alle condizioni di rimborso stabilite dalla legge stessa. 
  
  Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
  

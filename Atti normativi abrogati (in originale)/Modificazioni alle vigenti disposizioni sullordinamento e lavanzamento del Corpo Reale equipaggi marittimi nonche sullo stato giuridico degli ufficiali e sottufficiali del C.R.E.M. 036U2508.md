@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il testo unico delle disposizioni legislative sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
 
 Vista la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), sullo stato degli ufficiali, e successive modificazioni;
 
@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Al testo unico delle leggi sull'ordinamento del Corpo Reale equipaggi marittimi e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914), e successive modificazioni, sono apportate le varianti di cui agli articoli seguenti:
+Al testo unico delle leggi sull'ordinamento del Corpo Reale equipaggi marittimi e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, sono apportate le varianti di cui agli articoli seguenti:
 
 ## Art. 2.
 
@@ -256,7 +256,7 @@ L'art. 31 e' sostituito dal seguente:
 
 Nell'art. 36 dopo l'ultimo comma aggiungere i seguenti: 
  
- «A decorrere dal quarto vincolo complementare annuale i sottocapi volontari hanno diritto alla paga giornaliera di L. 8,50. Ad essi spetta inoltre un soprassoldo di specialita' nella misura di cui alla lettera a) del n. 20 della tabella III annessa al [R. decreto 2 giugno 1924, n. 931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-02;931), al lordo delle riduzioni sancite dai [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561), convertiti rispettivamente nelle [leggi 6 gennaio 1931, n. 18, e 14 giugno 1934, n. 1038](Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20aprile%201934%20n.%20561%20recante%20riduzione%20degli%20stipendi%20ed%20altre%20competenze%20del%20personale%20dipendente%20dallo%20Stato%20e%20dagli%20Enti%20locali%20e%20parastatali.%20034U1038.md). Tale soprassoldo e' cumulabile, in ogni caso, con tutti quelli di categoria, destinazione e specialita' eventualmente loro spettanti sia a terra che a bordo. 
+ «A decorrere dal quarto vincolo complementare annuale i sottocapi volontari hanno diritto alla paga giornaliera di L. 8,50. Ad essi spetta inoltre un soprassoldo di specialita' nella misura di cui alla lettera a) del n. 20 della tabella III annessa al [R. decreto 2 giugno 1924, n. 931](Applicazione%20dellart.%20189%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20agli%20assegni%20a%20terra%20da%20corrispondersi%20ai%20personali%20civili%20e%20militari%20della%20Regia%20marina.%20024U0931.md), al lordo delle riduzioni sancite dai [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561), convertiti rispettivamente nelle [leggi 6 gennaio 1931, n. 18, e 14 giugno 1934, n. 1038](Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20aprile%201934%20n.%20561%20recante%20riduzione%20degli%20stipendi%20ed%20altre%20competenze%20del%20personale%20dipendente%20dallo%20Stato%20e%20dagli%20Enti%20locali%20e%20parastatali.%20034U1038.md). Tale soprassoldo e' cumulabile, in ogni caso, con tutti quelli di categoria, destinazione e specialita' eventualmente loro spettanti sia a terra che a bordo. 
  
  Agli attuali volontari e' concesso all'inizio del terzo anno di ferma il trattamento economico stabilito per il grado di sottocapo a meno che non siano dichiarati immeritevoli di tale concessione per scarso rendimento o per cattiva condotta».
 

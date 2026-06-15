@@ -76,7 +76,7 @@ I condannati, i quali prima dell'attuazione del Codice avranno acquistato diritt
 
 ## Art. 11.
 
-Fino alla pubblicazione di nuovi Regolamenti intorno all'espiazione della pena dei lavori forzati a tempo stabilita nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) si osserveranno pei condannati a questa pena i Regolamenti che attualmente esistono intorno ai condannati ai ferri nei bagni.
+Fino alla pubblicazione di nuovi Regolamenti intorno all'espiazione della pena dei lavori forzati a tempo stabilita nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si osserveranno pei condannati a questa pena i Regolamenti che attualmente esistono intorno ai condannati ai ferri nei bagni.
 
 ## Art. 12.
 

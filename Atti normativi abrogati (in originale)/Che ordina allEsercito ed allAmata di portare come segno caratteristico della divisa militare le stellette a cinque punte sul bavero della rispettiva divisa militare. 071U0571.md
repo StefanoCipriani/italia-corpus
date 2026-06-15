@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Tutte le persone soggette alla giurisdizione militare, a mente dell'[articolo 323 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_323) militare per l'Esercito, e dell'articolo 362 di quello per la R. Marina, porteranno, come segno caratteristico della divisa militare, comune all'Esercito ed all'Armata, le stellette a cinque punte sul bavero dell'abito della rispettiva divisa.
+Tutte le persone soggette alla giurisdizione militare, a mente dell'[articolo 323 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'Esercito, e dell'articolo 362 di quello per la R. Marina, porteranno, come segno caratteristico della divisa militare, comune all'Esercito ed all'Armata, le stellette a cinque punte sul bavero dell'abito della rispettiva divisa.
 
 ## Art. 2.
 
-Le Autorita' di terra e di mare denunzieranno all'Autorita' giudiziaria le contravvenzioni al presente Decreto per l'applicazione delle pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) comune. 
+Le Autorita' di terra e di mare denunzieranno all'Autorita' giudiziaria le contravvenzioni al presente Decreto per l'applicazione delle pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune. 
  
  Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 20 marzo 1926, n. 420](https://www.normattiva.it/uri-
 
 Visto il [R. decreto-legge 15 luglio 1926, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-15;1945), e successive modificazioni;
 
-Visto il [R. decreto 13 gennaio 1931, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-13;298);
+Visto il [R. decreto 13 gennaio 1931, n. 298](Ordinamento%20del%20R.%20Aero%20Club%20dItalia%20e%20approvazione%20del%20relativo%20statuto.%20031U0298.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

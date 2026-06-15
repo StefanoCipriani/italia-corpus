@@ -33,7 +33,7 @@ Per essere nominato ufficiale giudiziario e' necessario:
  
  5° aver superato con successo un esame di concorso sulla composizione italiana, sulle nozioni di procedura civile e penale, sulla legge di ordinamento giudiziario, sulle leggi di bollo e registro e regolamenti relativi per la parte concernente il servizio degli ufficiali giudiziari; 
  
- 6° non trovarsi in alcuno dei casi por cui si e' esclusi e non si puo' essere assunto all'ufficio di giurato ai termini degli [articoli 5](Contenente%20alcune%20modificazioni%20allordinamento%20dei%20Giurati%20ed%20ai%20giudizi%20avanti%20le%20Corti%20dAssise.%20074U1937.md) e [6 della legge 8 giugno 1874, n. 1937](Contenente%20alcune%20modificazioni%20allordinamento%20dei%20Giurati%20ed%20ai%20giudizi%20avanti%20le%20Corti%20dAssise.%20074U1937.md) (serie 3ª), modificati col [R. decreto 1° dicembre 1889, n. 6509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-12-01;6509); 
+ 6° non trovarsi in alcuno dei casi por cui si e' esclusi e non si puo' essere assunto all'ufficio di giurato ai termini degli [articoli 5](Contenente%20alcune%20modificazioni%20allordinamento%20dei%20Giurati%20ed%20ai%20giudizi%20avanti%20le%20Corti%20dAssise.%20074U1937.md) e [6 della legge 8 giugno 1874, n. 1937](Contenente%20alcune%20modificazioni%20allordinamento%20dei%20Giurati%20ed%20ai%20giudizi%20avanti%20le%20Corti%20dAssise.%20074U1937.md) (serie 3ª), modificati col [R. decreto 1° dicembre 1889, n. 6509](Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md); 
  
  7° non essere in istato d'interdizione o di inabilita' o di fallimento. 
  
@@ -83,7 +83,7 @@ Il tramutamento degli ufficiali giudiziari da un distretto all'altro avra' luogo
 
 E' vietata qualsiasi applicazione degli ufficiali giudiziari da uno all'altro ufficio. 
  
- Nei casi di vacanza di un posto di ufficiale giudiziario il primo presidente dovra' assumere a farne le veci uno degli abilitati in attesa di nomina, secondo la graduatoria d'esame, di cui all'[art. 18 del R. decreto 28 giugno 1903, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-06-28;248#art_18), ed in mancanza di abilitati l'usciere del conciliatore. 
+ Nei casi di vacanza di un posto di ufficiale giudiziario il primo presidente dovra' assumere a farne le veci uno degli abilitati in attesa di nomina, secondo la graduatoria d'esame, di cui all'[art. 18 del R. decreto 28 giugno 1903, n. 248](Approvazione%20del%20regolamento%20per%20lattuazione%20della%20legge%2021%20dicembre%201902%20n.%20528%20sullordinamento%20del%20servizio%20degli%20ufficiali%20giudiziari%20003U0248.md), ed in mancanza di abilitati l'usciere del conciliatore. 
  
  Nei casi di impedimento temporaneo degli ufficiali giudiziari presso le Corti, i tribunali e le preture, possono i presidenti ed i pretori avvalersi dell'opera degli ufficiali giudiziari addetti ad altri uffici della medesima sede. Nei casi di urgenza e nell'impossibilita' di aver altro ufficiale giudiziario, i pretori possono valersi dell'opera di un commesso in servizio degli ufficiali giudiziari della medesima sede, ed, in mancanza, dell'usciere del conciliatore.
 
@@ -139,9 +139,9 @@ L'[art. 15 della legge 21 dicembre 1902, n. 528](Sugli%20ufficiali%20giudiziari%
  
  Gli articoli 175 e 251 del medesimo ordinamento sono modificati come nell'allegato A. 
  
- Nell'attuale titolo VII della tariffa civile, approvato con [R. decreto 23 dicembre 1865, n. 2700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-23;2700), modificato con la detta [legge 21 dicembre 1902, n. 528](Sugli%20ufficiali%20giudiziari%20e%20tariffe%20relative%20ai%20loro%20atti.%20002U0528.md), nei capi I a V sono sostituite le corrispondenti disposizioni contenute nell'allegato B. 
+ Nell'attuale titolo VII della tariffa civile, approvato con [R. decreto 23 dicembre 1865, n. 2700](Col%20quale%20e%20approvata%20la%20Tariffa%20per%20gli%20atti%20giudiziari%20in%20materia%20civile.%20065U2700.md), modificato con la detta [legge 21 dicembre 1902, n. 528](Sugli%20ufficiali%20giudiziari%20e%20tariffe%20relative%20ai%20loro%20atti.%20002U0528.md), nei capi I a V sono sostituite le corrispondenti disposizioni contenute nell'allegato B. 
  
- La tariffa penale approvata con. [R. decreto 23 dicembre 1865, n. 2701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-23;2701), modificato con la detta legge 21 dicembre 1901, e' modificata negli articoli 80, 83, 88, 91, 95, 172, 173, 186 e 195 giusta l'allegato C. 
+ La tariffa penale approvata con. [R. decreto 23 dicembre 1865, n. 2701](Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), modificato con la detta legge 21 dicembre 1901, e' modificata negli articoli 80, 83, 88, 91, 95, 172, 173, 186 e 195 giusta l'allegato C. 
  
  Gli articoli 84, 176 e 178 sono abrogati.
 

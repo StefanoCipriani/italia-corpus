@@ -50,7 +50,7 @@ Trascorso un mese dalla data delle affissioni e della inserzione, il procuratore
  
  Il decreto, con cui viene autorizzata la modificazione od il cambiamento del nome o del cognome, quando non sia stato presentato ricorso al Ministro per la grazia e giustizia, ovvero il ricorso sia stato respinto, deve, a cura del richiedente, essere annotato in margine del suo atto di nascita e trascritto nei registri in corso delle nascite del Comune. 
  
- Il decreto e' soggetto al pagamento della tassa di concessione governativa, quando sia dovuta, ai sensi dell'art. 8 della tabella A, allegata al [R. decreto 30 dicembre 1923, n. 3279, e dell'art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3279#art_3), allegato F, del [R. decreto-legge 26 settembre 1935, n. 1749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1749), ed i suoi effetti rimangono sospesi fino all'adempimento delle formalita' indicate nel comma precedente.
+ Il decreto e' soggetto al pagamento della tassa di concessione governativa, quando sia dovuta, ai sensi dell'art. 8 della tabella A, allegata al [R. decreto 30 dicembre 1923, n. 3279, e dell'art. 3](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), allegato F, del [R. decreto-legge 26 settembre 1935, n. 1749](Provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari.%20035U1749.md), ed i suoi effetti rimangono sospesi fino all'adempimento delle formalita' indicate nel comma precedente.
 
 ## Art. 7.
 

@@ -18,7 +18,7 @@ Per gli effetti di questa legge e di ogni altra legge penale, sono considerati v
 
 ## Art. 2.
 
-La preparazione a scopo di vendita ed il commercio dei vini non genuini sono vietati; e chiunque prepara a scopo di vendita, pone in vendita o mette altrimenti in commercio vini non genuini, e' soggetto, fuori dei casi previsti dagli [articoli 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_295), [319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_319) e [322 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_322), all'ammenda non minore di lire cento. 
+La preparazione a scopo di vendita ed il commercio dei vini non genuini sono vietati; e chiunque prepara a scopo di vendita, pone in vendita o mette altrimenti in commercio vini non genuini, e' soggetto, fuori dei casi previsti dagli [articoli 295](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [319](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [322 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), all'ammenda non minore di lire cento. 
  
  In caso di recidiva potra' essere aggiunto l'arresto fino ad un mese. 
  
@@ -40,11 +40,11 @@ Le stazioni agrarie ed i laboratori di chimica agraria alla dipendenza dello Sta
 
 ## Art. 5.
 
-Qualora le infrazioni al disposto dei sovracitati articoli del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), della presente legge, riguardino vini presentati per essere spediti fuori del Regno, si applichera' il massimo della pena.
+Qualora le infrazioni al disposto dei sovracitati articoli del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), della presente legge, riguardino vini presentati per essere spediti fuori del Regno, si applichera' il massimo della pena.
 
 ## Art. 6.
 
-Nei casi di recidiva, l'Autorita' giudiziaria, oltre alle pene contemplate negli [articoli 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_295) e [322 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_322), ordinera' la chiusura dello spaccio del contravventore per un periodo di tempo da tre a sei mesi.
+Nei casi di recidiva, l'Autorita' giudiziaria, oltre alle pene contemplate negli [articoli 295](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [322 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ordinera' la chiusura dello spaccio del contravventore per un periodo di tempo da tre a sei mesi.
 
 ## Art. 7.
 

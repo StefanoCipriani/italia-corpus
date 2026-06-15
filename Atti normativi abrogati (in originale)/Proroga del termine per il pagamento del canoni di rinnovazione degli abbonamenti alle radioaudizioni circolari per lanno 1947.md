@@ -10,27 +10,27 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562);
+Visto il [regio decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il [regio decreto-legge 17 novembre 1927, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-17;2207), convertito nella [legge 17 marzo 1928, n. 1350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-17;1350);
+Visto il [regio decreto-legge 17 novembre 1927, n. 2207](Nuove%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20delle%20radioaudizioni%20circolari.%20027U2207.md), convertito nella [legge 17 marzo 1928, n. 1350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-17;1350);
 
 Visto il [regio decreto 3 agosto 1928, n. 2295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;2295);
 
-Visto il [regio decreto-legge 17 aprile 1931, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-17;589), convertito nella [legge 21 dicembre 1931, n. 1823](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-12-21;1823);
+Visto il [regio decreto-legge 17 aprile 1931, n. 589](Disposizioni%20aggiuntive%20alle%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20della%20radiodiffusione.%20031U0589.md), convertito nella [legge 21 dicembre 1931, n. 1823](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%2017%20aprile%201931%20n.%20589%20recante%20disposizioni%20aggiuntive%20alle%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20della%20radio-diffusione.%20031U1823.md);
 
-Visto il [regio decreto-legge 3 marzo 1932, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-03-03;246), convertito nella [legge 23 maggio 1932, n. 630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-05-23;630);
+Visto il [regio decreto-legge 3 marzo 1932, n. 246](Provvedimenti%20riguardanti%20il%20servizio%20delle%20radiodiffusioni.%20032U0246.md), convertito nella [legge 23 maggio 1932, n. 630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-05-23;630);
 
-Visto il [regio decreto-legge 20 luglio 1934, n. 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1203), convertito nella [legge 28 marzo 1935, n. 857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-03-28;857);
+Visto il [regio decreto-legge 20 luglio 1934, n. 1203](Provvedimenti%20per%20lo%20sviluppo%20delle%20radiodiffusioni.%20034U1203.md), convertito nella [legge 28 marzo 1935, n. 857](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201203%20portante%20provvedimenti%20per%20lo%20sviluppo%20delle%20radiodiffusione.%20035U0857.md);
 
-Visto il [regio decreto-legge 21 febbraio 1938, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-21;246), convertito nella [legge 4 giugno 1938, n. 880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-06-04;880);
+Visto il [regio decreto-legge 21 febbraio 1938, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-21;246), convertito nella [legge 4 giugno 1938, n. 880](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20febbraio%201938-XVI%20n.%20246%20recante%20Disciplina%20degli%20abbonamenti%20alle%20radioaudizioni.%20038U0880.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [decreto legislativo luogotenenziale 21 dicembre 1944, n. 458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-21;458);
+Visto il [decreto legislativo luogotenenziale 21 dicembre 1944, n. 458](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.%20044U0458.md);
 
-Visto il [decreto legislativo luogotenenziale 1° dicembre 1945, n. 834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-12-01;834);
+Visto il [decreto legislativo luogotenenziale 1° dicembre 1945, n. 834](../Decreti%20legislativi%20luogotenenziali/Nuovi%20canoni%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 

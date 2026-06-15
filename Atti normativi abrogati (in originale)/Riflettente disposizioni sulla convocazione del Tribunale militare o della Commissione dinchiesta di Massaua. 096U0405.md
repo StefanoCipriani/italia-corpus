@@ -26,7 +26,7 @@ Sulla proposta del Ministro degli Affari esteri, d'accordo col Ministro della Gu
 
 ## Articolo unico.
 
-In tutti i casi nei quali, per necessita' di pubblico servizio, il Tribunale militare o la Commissione d'inchiesta di Massaua non potranno essere composti secondo le norme rispettivamente stabilite dai capi 1 e 2 del titolo 1°, libro 1°, parte 2ª del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito, sara' applicabile la disposizione dell'articolo 540, 1° capoverso dello stesso Codice. 
+In tutti i casi nei quali, per necessita' di pubblico servizio, il Tribunale militare o la Commissione d'inchiesta di Massaua non potranno essere composti secondo le norme rispettivamente stabilite dai capi 1 e 2 del titolo 1°, libro 1°, parte 2ª del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, sara' applicabile la disposizione dell'articolo 540, 1° capoverso dello stesso Codice. 
  
  In nessun caso, pero', sotto pena di nullita', potranno far parte di un tribunale speciale, ufficiali inferiori, in grado od in anzianita', all'accusato. 
  

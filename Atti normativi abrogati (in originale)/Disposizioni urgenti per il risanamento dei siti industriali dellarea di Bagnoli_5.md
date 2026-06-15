@@ -38,11 +38,11 @@ Entrambe le categorie di personale verranno utilizzate attraverso l'assorbimento
 In attuazione dell'accordo di programma in ordine alle risorse finanziarie da destinare agli interventi ed alle modalita' di erogazione, sottoscritta in data 30 marzo 1996, tra il Ministro del bilancio e della programmazione
  economica, il Ministro dell'ambiente, il Ministro del tesoro, la regione Campania, la provincia di Napoli, il comune di Napoli e l'IRI, a titolo di concorso negli oneri derivanti dall'attuazione del comma 1, e' autorizzato il conferimento, per stati di avanzamento, all'IRI dei seguenti importi:
                         a)
-                            lire 171.540 milioni a carico dei fondi di cui all'[articolo 4 della legge 18 aprile 1984, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80#art_4), gia' trasferiti alla regione Campania;
+                            lire 171.540 milioni a carico dei fondi di cui all'[articolo 4 della legge 18 aprile 1984, n. 80](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201984%20n.%2019%20recante%20proroga%20dei%20termini%20ed%20accelerazione%20delle%20procedure%20per%20lapplicazione%20della%20legge%2014%20maggio%201981%20n_a07e7a1fc128.md), gia' trasferiti alla regione Campania;
                         b)
                             lire 85.000 milioni a carico dello stanziamento iscritto sul capitolo 7099 dello stato di previsione del Ministero del bilancio e della programmazione economica per l'anno 1995;
                         c)
-                            lire 5.000 milioni mediante riduzione dello stanziamento iscritto sul capitolo 7705 dello stato di previsione del Ministero dell'ambiente per l'anno 1996, intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 6 della legge 28 agosto 1989, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305#art_6).
+                            lire 5.000 milioni mediante riduzione dello stanziamento iscritto sul capitolo 7705 dello stato di previsione del Ministero dell'ambiente per l'anno 1996, intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 6 della legge 28 agosto 1989, n. 305](Programmazione%20triennale%20per%20la%20tutela%20dellambiente.md).
 
 4.
 

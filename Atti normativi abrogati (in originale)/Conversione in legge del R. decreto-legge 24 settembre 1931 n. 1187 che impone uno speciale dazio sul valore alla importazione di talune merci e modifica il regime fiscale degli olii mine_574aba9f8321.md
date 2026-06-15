@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-24;1187), che impone uno speciale dazio sul valore alla importazione di talune merci e modifica il regime fiscale degli olii minerali. 
+ E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1187](Imposizione%20di%20uno%20speciale%20dazio%20sul%20valore%20alla%20importazione%20di%20talune%20merci%20e%20modificazione%20del%20regime%20della%20tassa%20di%20vendita%20sugli%20olii%20minerali.%20031U1187.md), che impone uno speciale dazio sul valore alla importazione di talune merci e modifica il regime fiscale degli olii minerali. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 18 gennaio 1932 - Anno X 
  

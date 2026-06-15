@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 1031](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-03;1031), col quale vengono accordate anticipazioni statali gratuite all'Istituto federale di credito agrario per il Piemonte, all'Istituto federale di credito agrario per la Toscana, alla Sezione di credito agrario per l'Emilia e le Romagne e alla Banca cooperativa di credito agricolo di Firenze. 
+ E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 1031](Anticipazioni%20statali%20gratuite%20agli%20Istituti%20speciali%20di%20credito%20agrario%20che%20ne%20sono%20privi.%20030U1031.md), col quale vengono accordate anticipazioni statali gratuite all'Istituto federale di credito agrario per il Piemonte, all'Istituto federale di credito agrario per la Toscana, alla Sezione di credito agrario per l'Emilia e le Romagne e alla Banca cooperativa di credito agricolo di Firenze. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiuque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 26 dicembre 1924, n. 2106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-12-26;2106), Convertito nella [legge 21 marzo 1928, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-21;597);
+Visto il [regio decreto-legge 26 dicembre 1924, n. 2106](Emissione%20di%20buoni%20postali%20di%20risparmio%20nominativi.%20024U2106.md), Convertito nella [legge 21 marzo 1928, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-21;597);
 
-Visto il [regio decreto-legge 10 luglio 1925, n. 1241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-10;1241), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562);
+Visto il [regio decreto-legge 10 luglio 1925, n. 1241](Disposizioni%20concernenti%20i%20buoni%20postali%20nominativi%20fruttiferi%20di%20risparmio.%20025U1241.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
 Visto il Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), e successive modificazioni;
 
-Visto il regolamento generale dei servizi postali (Parte II) approvato con [regio decreto 30 maggio 1940, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-30;775), e successive modificazioni;
+Visto il regolamento generale dei servizi postali (Parte II) approvato con [regio decreto 30 maggio 1940, n. 775](Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e successive modificazioni;
 
 Visto il [decreto luogotenenziale 17 agosto 1944, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-17;201);
 
-Viste le [leggi 31 gennaio 1926, n. 100 e 4 settembre 1940, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-04;1547);
+Viste le [leggi 31 gennaio 1926, n. 100 e 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Art. 1.
 
-Gli articoli 9, 30, 31, 55, 60, 90, 214, 215, 216, 219 (primo alinea) e 221 del regolamento generale dei servizi postali (Parte II - Servizi a danaro) approvato con [regio decreto 30 maggio 1940, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-30;775), sono sostituiti dai seguenti:
+Gli articoli 9, 30, 31, 55, 60, 90, 214, 215, 216, 219 (primo alinea) e 221 del regolamento generale dei servizi postali (Parte II - Servizi a danaro) approvato con [regio decreto 30 maggio 1940, n. 775](Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), sono sostituiti dai seguenti:
  Art. 9. - Salvo quanto 6 stabilito dall'art. 127 per gli assegni all'ordine, il beneficiario, l'ultimo giratario, rappresentante o delegato, per ottenere il pagamento di qualsiasi titolo deve essere personalmente conosciuto dall'ufficiale pagatore, altrimenti deve provare la propria identita' personale:
  a) per somme superiori a L. 20.000:
  1) mediante l'attestazione di due persone note all'ufficiale pagatore;
@@ -75,7 +75,7 @@ Gli uffici succursali sono abilitati all'accettazione dei titoli da incassare, m
 ## Art. 2.
 
 Le disposizioni di cui all'art. 1 (primo alinea) del decreto luogotenenziale 17 agosto 19441, n. 201, sono modificate come segue: "Per le ricevitorie postali e telegrafiche di 3° classe e per le agenzie ad esse equiparate, il limite massimo per i servizi postali e telegrafici a danaro e' elevato a lire 10.000".
- S'intendono elevati, in conseguenza i limiti massimi indicati per gli anzidetti uffici, negli articoli 87, 156 e 158 del regolamento generale dei servizi postali (Parte 2ª - Servizi a danaro), approvato con [regio decreto 30 maggio 1940, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-30;775).
+ S'intendono elevati, in conseguenza i limiti massimi indicati per gli anzidetti uffici, negli articoli 87, 156 e 158 del regolamento generale dei servizi postali (Parte 2ª - Servizi a danaro), approvato con [regio decreto 30 maggio 1940, n. 775](Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

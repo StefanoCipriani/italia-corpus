@@ -26,7 +26,7 @@ Sulla preposta del presidente del Consiglio dei ministri, ministro dell'interno,
 
 ## Art. 1.
 
-Il concorso governative, previsto con l'art. 5 della legge 24 marzo, 1907, n. 116, sara' corrisposto ai comuni del Mezzogiorno continentale, della Sicilia e della Sardegna anche per l'anno 1919, limitatamente alla meta' del suo ammontare, in conformita' di quanto e' disposto dall'[art. 3 della legge 9 luglio 1908, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;442#art_3). 
+Il concorso governative, previsto con l'art. 5 della legge 24 marzo, 1907, n. 116, sara' corrisposto ai comuni del Mezzogiorno continentale, della Sicilia e della Sardegna anche per l'anno 1919, limitatamente alla meta' del suo ammontare, in conformita' di quanto e' disposto dall'[art. 3 della legge 9 luglio 1908, n. 442](Disposizioni%20sulle%20sovrimposte%20provinciali%20e%20comunali%20nei%20compartimenti%20catastali%20napoletano%20siciliano%20e%20sardo%20e%20sui%20crediti%20delle%20Provincie%20verso%20i%20Comuni%20per%20contributi%20nelle%20spese%20obbl_c14bb8291c39.md). 
  
  Per i comuni della Calabria e della Basilicata sara', inoltre, osservato il disposto dell'[art.6 della legge 14 luglio 1937, n 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-07-14;538#art_6). 
  

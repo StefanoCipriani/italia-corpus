@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 In forza dei poteri conferiti al Governo dal Re
 
-con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Veduti i [decreti Luogotenenziali 11 luglio 1915, n. 1053](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1053), [8 agosto 1915, n.1228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-08;1228), [4 maggio 1916, n. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-04;338), [14 febbraio 1918, n.153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-14;153);
 

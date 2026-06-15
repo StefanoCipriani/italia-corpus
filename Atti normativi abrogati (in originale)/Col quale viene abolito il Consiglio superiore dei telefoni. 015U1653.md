@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 3 aprile 1913, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-04-03;271), con la quale fu istituito il Consiglio superiore dei telefoni;
+Vista la [legge 3 aprile 1913, n. 271](Che%20reca%20modificazioni%20ed%20aggiunte%20alla%20legge%2015%20luglio%201907%20n.%20506%20per%20lesercizio%20di%20Stato%20dei%20telefoni.%20013U0271.md), con la quale fu istituito il Consiglio superiore dei telefoni;
 
 Riconosciuta la necessita' di rendere piu' semplici, piu' spediti e meno costosi gli ordinamenti amministrativi, in modo che senza sconvolgere la compagine di essi, siano soppressi quegli uffici che non sono fondamentalmente necessari ne' intimamente connessi al normale svolgimento dell'azione amministrativa-contabile;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro per le poste e per i telegrafi, di concerto con quel
 
 ## Art. 1.
 
-Il Consiglio superiore dei telefoni, istituito dalla [legge 3 aprile 1913, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-04-03;271), e' abolito.
+Il Consiglio superiore dei telefoni, istituito dalla [legge 3 aprile 1913, n. 271](Che%20reca%20modificazioni%20ed%20aggiunte%20alla%20legge%2015%20luglio%201907%20n.%20506%20per%20lesercizio%20di%20Stato%20dei%20telefoni.%20013U0271.md), e' abolito.
 
 ## Art. 2.
 
@@ -40,7 +40,7 @@ Gli articoli 1, 2, 3, 9 e 10 della medesima legge sono abrogati.
 
 L'art. 8 della stessa legge resta modificato nel seguente modo: 
  
- E' applicabile all'azienda dei telefoni il disposto dell'[art. 50 della legge 17 luglio 1910, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;511#art_50), con il quale si estendono a tutte le Amministrazioni dello Stato le disposizioni degli articoli 26, 27, 28, 29, 30 e 31 della legge medesima. 
+ E' applicabile all'azienda dei telefoni il disposto dell'[art. 50 della legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md), con il quale si estendono a tutte le Amministrazioni dello Stato le disposizioni degli articoli 26, 27, 28, 29, 30 e 31 della legge medesima. 
  
  Oltre i casi contemplati da detti articoli, per i contratti da stipularsi dall'azienda dei telefoni e' ammessa la licitazione privata ogni qualvolta l'interesse della Amministrazione, previamente riconosciuto dal Consiglio di Stato, consigli di non seguire la regola dei pubblici incanti. 
  

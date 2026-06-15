@@ -16,15 +16,15 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 9 maggio 1940, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;369), sullo stato degli ufficiali del Regio esercito, e successive modificazioni;
+Vista la [legge 9 maggio 1940, n. 369](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0369.md), sullo stato degli ufficiali del Regio esercito, e successive modificazioni;
 
-Vistai la [legge 9 maggio 1940, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;370), sull'avanzamento degli ufficiali del Regio esercito, e successive modificazioni;
+Vistai la [legge 9 maggio 1940, n. 370](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0370.md), sull'avanzamento degli ufficiali del Regio esercito, e successive modificazioni;
 
-Visto il [R. decreto-legge 23 settembre 1942, n. 1069](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-09-23;1069), sull'avanzamento degli ufficiali generali del Regio esercito, convertito nella [legge 14 dicembre 1942, n. 1706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-12-14;1706);
+Visto il [R. decreto-legge 23 settembre 1942, n. 1069](Avanzamento%20degli%20ufficiali%20generali%20del%20Regio%20esercito%20durante%20lattuale%20stato%20di%20guerra.%20042U1069.md), sull'avanzamento degli ufficiali generali del Regio esercito, convertito nella [legge 14 dicembre 1942, n. 1706](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2023%20settembre%201942-XX%20n.%201069%20concernente%20lavanzamento%20degli%20ufficiali%20generali%20del%20Regio%20esercito%20durante%20lattuale%20stato%20di%20guerra.%20042U1706.md);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -34,21 +34,21 @@ Sulla proposta del Ministro per la guerra, d'intesa col Ministro per il tesoro; 
 
 ## Art. 1.
 
-E' abrogato il [R. decreto-legge 23 settembre 1942, n. 1069](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-09-23;1069), convertito nella [legge 14 dicembre 1942, n. 1706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-12-14;1706), recante norme sull'avanzamento degli ufficiali generali del Regio esercito durante l'attuale stato di guerra.
+E' abrogato il [R. decreto-legge 23 settembre 1942, n. 1069](Avanzamento%20degli%20ufficiali%20generali%20del%20Regio%20esercito%20durante%20lattuale%20stato%20di%20guerra.%20042U1069.md), convertito nella [legge 14 dicembre 1942, n. 1706](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2023%20settembre%201942-XX%20n.%201069%20concernente%20lavanzamento%20degli%20ufficiali%20generali%20del%20Regio%20esercito%20durante%20lattuale%20stato%20di%20guerra.%20042U1706.md), recante norme sull'avanzamento degli ufficiali generali del Regio esercito durante l'attuale stato di guerra.
 
 ## Art. 2.
 
-Per le promozioni ai gradi di generale di divisione o di tenente generale e di generale di corpo d'armata si applicano le norme contenute nella [legge 9 maggio 1940, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;370), e successive modificazioni.
+Per le promozioni ai gradi di generale di divisione o di tenente generale e di generale di corpo d'armata si applicano le norme contenute nella [legge 9 maggio 1940, n. 370](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0370.md), e successive modificazioni.
 
 ## Art. 3.
 
-Qualora, per effetto dell'annullamento del relativo provvedimento, debba essere rinnovata nei confronti di un generale di brigata o maggior generale o di un generale di divisione, ai sensi del disposto dell'[art. 123 della legge 9 maggio 1940, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;369#art_123), la valutazione dell'avanzamento, questa si effettuera' in conformita' del disposto dell'[art. 28 della legge 9 maggio 1940, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;370#art_28). 
+Qualora, per effetto dell'annullamento del relativo provvedimento, debba essere rinnovata nei confronti di un generale di brigata o maggior generale o di un generale di divisione, ai sensi del disposto dell'[art. 123 della legge 9 maggio 1940, n. 369](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0369.md), la valutazione dell'avanzamento, questa si effettuera' in conformita' del disposto dell'[art. 28 della legge 9 maggio 1940, n. 370](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0370.md). 
  
  La stessa norma si applica sia nel caso che un generale di brigata o maggior generale o un generale di divisione non abbia potuto essere valutato per l'avanzamento a turno normale per un impedimento previsto dalle norme vigenti, e sia nel caso di eventuale reintegrazione nel ruolo organico di un generale di brigata o maggior generale o di un generale di divisione che avesse cessato di appartenervi.
 
 ## Art. 4.
 
-L'[art. 19 della legge 9 maggio 1940, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;370#art_19), e' sostituito dal seguente; 
+L'[art. 19 della legge 9 maggio 1940, n. 370](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0370.md), e' sostituito dal seguente; 
  
  «L'ufficiale che ricopra la carica di Ministro o di Sottosegretario di Stato presso qualsiasi amministrazione non puo' conseguire promozione. 
  
@@ -58,7 +58,7 @@ L'[art. 19 della legge 9 maggio 1940, n. 370](https://www.normattiva.it/uri-res/
 
 ## Art. 5.
 
-L'[art. 76 della legge 9 maggio 1940, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;370#art_76), e' sostituito dal seguente: 
+L'[art. 76 della legge 9 maggio 1940, n. 370](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0370.md), e' sostituito dal seguente: 
  
  «Per gli ufficiali che ricoprano la carica di Ministro o di Sottosegretario di Stato presso qualsiasi amministrazione, il giudizio d'avanzamento rimane sospeso finche' rimangono in carica. 
  
@@ -70,7 +70,7 @@ A modifica di quanto prescritto dalle vigenti disposizioni, l'ufficiale, cui sia
 
 ## Art. 7.
 
-L'[art. 103 della legge 9 maggio 1940, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;370#art_103), e' sostituito dal seguente: 
+L'[art. 103 della legge 9 maggio 1940, n. 370](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0370.md), e' sostituito dal seguente: 
  
  «Per ogni ufficiale reduce dalla prigionia il Ministro per la guerra, constatata la posizione sia penale che disciplinare in rapporto del fatto della cattura, dichiara se nulla osti a che l'ufficiale sia valutato per l'avanzamento. 
  
@@ -86,7 +86,7 @@ L'[art. 103 della legge 9 maggio 1940, n. 370](https://www.normattiva.it/uri-res
 
 ## Art. 8.
 
-L'[art. 104 della legge 9 maggio 1940, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;370#art_104), e' sostituito dal seguente: 
+L'[art. 104 della legge 9 maggio 1940, n. 370](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0370.md), e' sostituito dal seguente: 
  
  «L'ufficiale caduto prigioniero dopo essere stato ferito in combattimento, o comunque in servizio da offesa del nemico, al ritorno dalla prigionia e' assoggettato alla procedura di cui all'articolo precedente per quanto riguarda l'avvenuta cattura.
 Ottenuto il nulla osta, egli, se risulti pretermesso nell'avanzamento, e' valutato e, se prescelto, promosso al grado immediatamente superiore - sempre quando abbia tenuto prima della cattura un comando corrispondente al proprio grado per almeno sei mesi - con l'anzianita' che gli sarebbe spettata se fosse stato promosso a suo turno. Qualora non abbia compiuto tale periodo di comando di almeno sei mesi, si' applicano le norme stabilite dal 3° comma dell'articolo precedente. 

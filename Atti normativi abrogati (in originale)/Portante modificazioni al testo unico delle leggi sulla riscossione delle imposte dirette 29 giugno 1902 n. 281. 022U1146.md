@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nel testo unico delle leggi per la riscossione delle imposte dirette approvato col [R. decreto 29 giugno 1902, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-29;281), sono o sostituiti od aggiunti i seguenti articoli: 
+Nel testo unico delle leggi per la riscossione delle imposte dirette approvato col [R. decreto 29 giugno 1902, n. 281](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md), sono o sostituiti od aggiunti i seguenti articoli: 
  
  TITOLO I. 
  Degli esattori comunali e consorziali 
@@ -218,7 +218,7 @@ Nel testo unico delle leggi per la riscossione delle imposte dirette approvato c
  
  Per ciascuna imposta i pagamenti sono sempre imputati a conto e saldo delle rate di debito piu' antiche comprese nella gestione dell'esattoria in funzioni. 
  
- L'esattore che imputa tali pagamenti nei suoi crediti privati, o che si appropria piu' del dovuto, oltre essere passibile delle pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), e' soggetto alla multa del decuplo delle somme indebitamente imputate o riscosse. 
+ L'esattore che imputa tali pagamenti nei suoi crediti privati, o che si appropria piu' del dovuto, oltre essere passibile delle pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' soggetto alla multa del decuplo delle somme indebitamente imputate o riscosse. 
  
  Art. 32. 
  
@@ -568,7 +568,7 @@ Disposizioni comuni alla esecuzione sopra i mobili e sopra gli immobili
  
  Il Governo del Re, previo il parere della Corte dei conti e del Consiglio di Stato, ha facolta' di introdurre nel regolamento per la esecuzione delle leggi sulla riscossione delle imposte dirette approvato con [R. decreto 10 luglio 1902 n. 293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-07-10;293), le modificazioni necessarie per la esecuzione della presente legge. 
  
- Gli articoli della presente legge saranno sostituiti agli articoli componenti del testo unico, approvato con [R. decreto 29 giugno 1902, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-29;281), ed e' autorizzata la pubblicazione di un nuovo testo unico correggendo la numerazione in relazione agli articoli soppressi od aggiunti. 
+ Gli articoli della presente legge saranno sostituiti agli articoli componenti del testo unico, approvato con [R. decreto 29 giugno 1902, n. 281](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md), ed e' autorizzata la pubblicazione di un nuovo testo unico correggendo la numerazione in relazione agli articoli soppressi od aggiunti. 
  
  Art. 113. 
  

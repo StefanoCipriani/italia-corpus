@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429), riguardante l'ordinamento dell'esercizio di Stato delle ferrovie non concesse ad imprese private;
+Vista la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), riguardante l'ordinamento dell'esercizio di Stato delle ferrovie non concesse ad imprese private;
 
 Udito il Consiglio di amministrazione delle ferrovie dello Stato;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per i trasporti marittimi e ferr
 
 ## Art. 1.
 
-I sotto indicati articoli del regolamento approvato col [R. decreto 21 luglio 1910, n. 628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-21;628), per la concessione delle carte di libera circolazione e dei biglietti per un solo viaggio sulle ferrovie esercitate dallo Stato, sono modificati come segue: 
+I sotto indicati articoli del regolamento approvato col [R. decreto 21 luglio 1910, n. 628](Che%20approva%20lannesso%20regolamento%20per%20la%20concessione%20delle%20carte%20di%20libera%20circolazione%20e%20dei%20biglietti%20per%20un%20solo%20viaggio%20sulle%20ferrovie%20esercitate%20dallo%20Stato.%20010U0628.md), per la concessione delle carte di libera circolazione e dei biglietti per un solo viaggio sulle ferrovie esercitate dallo Stato, sono modificati come segue: 
  
  Art. 3. - (1° comma). - La validita' dei biglietti di servizio e di quelli rilasciati in base ai successivi articoli 15 e 26, e' stabilita in relazione allo scopo per il quale i biglietti stessi vengono emessi. 
  
@@ -46,7 +46,7 @@ I sotto indicati articoli del regolamento approvato col [R. decreto 21 luglio 19
  
  Art. 7. - (3° e 4° comma). - Le carte di libera circolazione ed i biglietti per un solo viaggio di cui al secondo comma dell'art. 12 sono rilasciati valevoli per la classe che ai titolari compete quando si recano in missione. 
  
- Le carte di libera circolazione rilasciate ai membri del Consiglio generale e delle Commissioni locali del traffico in base all'[art. 84 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_84), modificato dal [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728), sono di prima classe. 
+ Le carte di libera circolazione rilasciate ai membri del Consiglio generale e delle Commissioni locali del traffico in base all'[art. 84 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), sono di prima classe. 
  
  Art. 12. - (1° comma). - Le carte di libera circolazione e i biglietti di servizio per un solo viaggio sulle ferrovie esercitate dallo Stato vengono rilasciati al personale dell'Amministrazione delle ferrovie dello Stato ed a quello governativo d'ispezione delle ferrovie concesse all'industria privata, in quanto sia richiesto dalle rispettive attribuzioni, nonche' al personale sanitario ausiliario in relazione al regolamento per il servizio sanitario. 
  
@@ -142,7 +142,7 @@ b) all'agente per recarsi in un ospedale in caso di malattia
  agenti ricoverati in luoghi di cura in seguito a ferite 
  riportate in servizio. 
  
- Art. 18. - (lettera d) - d) su 1000 km. di rete per gli ispettori e funzionari di grado equipollente quando il provvedimento di quiescenza sia posteriore alla pubblicazione della [legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429). 
+ Art. 18. - (lettera d) - d) su 1000 km. di rete per gli ispettori e funzionari di grado equipollente quando il provvedimento di quiescenza sia posteriore alla pubblicazione della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md). 
  
  Art. 19. - (2° comma) - Il trattamento medesimo e' esteso alle vedove ed agli orfani (figli fino a 25 anni; figlie nubili; e figlie vedove e loro figli minorenni, se sia comprovato che le medesime erano conviventi con l'agente e a suo carico all'atto del decesso e se continuino a convivere a carico della vedova) di agenti stabili morti in attivita' di servizio, o in quiescenza. 
  

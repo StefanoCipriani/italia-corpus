@@ -24,7 +24,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-La disposizione contenuta nel terzo periodo del [comma 8 dell'articolo 36 del decreto-legge 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223#art_36-com8), convertito, con modificazioni, dalla [legge 4 agosto 2006, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-08-04;248), e successive modificazioni, s'interpreta nel senso che per ciascun immobile strumentale le quote di ammortamento dedotte nei periodi di imposta precedenti al periodo di imposta in corso al 4 luglio 2006 calcolate sul costo complessivo sono riferite proporzionalmente al costo dell'area e al costo del fabbricato.
+La disposizione contenuta nel terzo periodo del [comma 8 dell'articolo 36 del decreto-legge 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223#art_36-com8), convertito, con modificazioni, dalla [legge 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md), e successive modificazioni, s'interpreta nel senso che per ciascun immobile strumentale le quote di ammortamento dedotte nei periodi di imposta precedenti al periodo di imposta in corso al 4 luglio 2006 calcolate sul costo complessivo sono riferite proporzionalmente al costo dell'area e al costo del fabbricato.
 
 ## Art. 2.
 

@@ -18,11 +18,11 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il testo unico delle leggi generali e speciali riguardanti la Cassa depositi e prestiti e gestioni annesse, approvato con [R. decreto 2 gennaio 1913, numero 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453);
+Visto il testo unico delle leggi generali e speciali riguardanti la Cassa depositi e prestiti e gestioni annesse, approvato con [R. decreto 2 gennaio 1913, numero 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2)
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md)
 
-Visto il [R. decreto-legge 29 maggio 1944 n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944 n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Vista la deliberazione del Consiglio dei Ministri.
 

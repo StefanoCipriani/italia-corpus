@@ -26,11 +26,11 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici, di concer
 
 ## Art. 1.
 
-E' autorizzata la costruzione, a cura diretta dello Stato da eseguirsi con le modalita' di cui al [decreto Luogotenenziale 6 febbraio 1919, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-06;107), di brevi tronchi delle ferrovie a sezione ridotta in Sicilia, di cui all'[articolo 2 della legge 21 luglio 1911, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-21;848#art_2), comprese nel piano regolatore approvato dal Consiglio superiore dei lavori pubblici col voto 15 giugno 1914, n. 296.
+E' autorizzata la costruzione, a cura diretta dello Stato da eseguirsi con le modalita' di cui al [decreto Luogotenenziale 6 febbraio 1919, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-06;107), di brevi tronchi delle ferrovie a sezione ridotta in Sicilia, di cui all'[articolo 2 della legge 21 luglio 1911, n. 848](Concernente%20laumento%20delle%20sovvenzioni%20chilometriche%20per%20le%20ferrovie%20da%20concedere%20allindustria%20privata.%20011U0848.md), comprese nel piano regolatore approvato dal Consiglio superiore dei lavori pubblici col voto 15 giugno 1914, n. 296.
 
 ## Art. 2.
 
-Ai lavori di costruzione di cui all'articolo precedente, sono applicabili le disposizioni contenute nell'[art. 78 del R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728#art_78), in quanto non siano derogate dal presente decreto.
+Ai lavori di costruzione di cui all'articolo precedente, sono applicabili le disposizioni contenute nell'[art. 78 del R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), in quanto non siano derogate dal presente decreto.
 
 ## Art. 3.
 

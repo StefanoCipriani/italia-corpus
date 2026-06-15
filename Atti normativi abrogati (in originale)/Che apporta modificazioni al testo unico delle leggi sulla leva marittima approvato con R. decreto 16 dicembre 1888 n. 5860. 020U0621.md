@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sulla leva marittima, approvato con [R. decreto 16 dicembre 1888, n. 5860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-12-16;5860), serie 3ª;
+Visto il testo unico delle leggi sulla leva marittima, approvato con [R. decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), serie 3ª;
 
 Vista la [legge 1° febbraio 1900, n. 26](Sul%20passaggio%20dalla%20Regia%20Marina%20al%20Regio%20Esercito%20di%20talune%20categorie%20di%20militari%20in%20congedo.%20000U0026.md), portante il passaggio dalla R. marina al R. esercito di talune categorie di militari in congedo;
 
@@ -38,7 +38,7 @@ Sulla proposta del Nostro ministro segretario di Stato per gli affari della mari
 
 ## Art. 1.
 
-Al testo unico delle leggi sulla leva marittima, approvato con [Regio decreto 16 dicembre 1888, n. 5860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-12-16;5860), serie 3ª, ed alle successive disposizioni che regolano la materia, sono apportate le modificazioni che risultano dal presente decreto.
+Al testo unico delle leggi sulla leva marittima, approvato con [Regio decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), serie 3ª, ed alle successive disposizioni che regolano la materia, sono apportate le modificazioni che risultano dal presente decreto.
 
 ## Art. 2.
 
@@ -240,7 +240,7 @@ L'estrazione a sorte, il volontariato d'un anno e le surrogazioni di fratello so
 
 ## Art. 18.
 
-Sono abrogati gli articoli 12, 13, 14, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 79, 80, 81, 82, 87, del testo unico delle leggi sulla leva marittima approvato con [R. decreto 16 dicembre 1888, n. 5860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-12-16;5860) nonche' le [leggi 1° febbraio 1900, n. 26; 27 dicembre 1906, n. 679; 5 luglio 1908, n. 348; 18 luglio 1911, n. 765, e 7 giugno 1914, n. 509](Che%20porta%20modificazioni%20alle%20esistenti%20disposizioni%20sulla%20leva%20di%20mare.%20014U0509.md); i [decreti Luogotenenziali 21 marzo 1918, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-03-21;427); [2 febbraio 1919, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-02;248), e [20 aprile 1919, n. 664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-20;664), e tutte quelle altre disposizioni che siano contrarie al presente decreto. 
+Sono abrogati gli articoli 12, 13, 14, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 79, 80, 81, 82, 87, del testo unico delle leggi sulla leva marittima approvato con [R. decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md) nonche' le [leggi 1° febbraio 1900, n. 26; 27 dicembre 1906, n. 679; 5 luglio 1908, n. 348; 18 luglio 1911, n. 765, e 7 giugno 1914, n. 509](Che%20porta%20modificazioni%20alle%20esistenti%20disposizioni%20sulla%20leva%20di%20mare.%20014U0509.md); i [decreti Luogotenenziali 21 marzo 1918, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-03-21;427); [2 febbraio 1919, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-02;248), e [20 aprile 1919, n. 664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-20;664), e tutte quelle altre disposizioni che siano contrarie al presente decreto. 
  
  Il Governo del Re e' autorizzato a compilare un nuovo testo unico delle leggi sulla leva marittima, coordinandolo con le disposizioni del presente decreto e con le altre che regolano la materia.
 

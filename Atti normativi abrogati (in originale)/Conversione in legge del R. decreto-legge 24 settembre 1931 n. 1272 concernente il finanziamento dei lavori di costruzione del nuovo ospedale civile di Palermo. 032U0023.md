@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-24;1272), concernente il finanziamento dei lavori di costruzione del nuovo ospedale civile di Palermo. 
+ E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1272](Finanziamento%20dei%20lavori%20di%20costruzione%20del%20nuovo%20ospedale%20civile%20di%20Palermo.%20031U1272.md), concernente il finanziamento dei lavori di costruzione del nuovo ospedale civile di Palermo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

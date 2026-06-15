@@ -46,7 +46,7 @@ Quando poi la differenza del valore superi il 10 per cento, oltre alla pena suin
 
 ## Art. 4.
 
-Per provvedere alla necessaria azione di coordinamento e di controllo sul servizio statistico sono istituiti nel ruolo di gruppo B del personale provinciale delle dogane tre posti di ispettore superiore in aggiunta a quelli compresi nella tabella n. 12 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), con che il numero dei posti stessi e' complessivamente elevato a undici, con la denominazione unica di «Ispettori superiori delle dogane». 
+Per provvedere alla necessaria azione di coordinamento e di controllo sul servizio statistico sono istituiti nel ruolo di gruppo B del personale provinciale delle dogane tre posti di ispettore superiore in aggiunta a quelli compresi nella tabella n. 12 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), con che il numero dei posti stessi e' complessivamente elevato a undici, con la denominazione unica di «Ispettori superiori delle dogane». 
  
  Nel ruolo medesimo sono soppressi un posto di grado 7° e due posti di grado 8°. 
  

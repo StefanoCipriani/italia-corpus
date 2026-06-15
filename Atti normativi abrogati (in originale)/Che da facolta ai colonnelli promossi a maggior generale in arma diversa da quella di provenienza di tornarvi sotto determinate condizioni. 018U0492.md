@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Vista la [legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254), sull'avanzamento nel R. esercito e le successive modificazioni;
+Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito e le successive modificazioni;
 
 Visto il [decreto Luogotenenziale 17 gennaio 1918, numero 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-01-17;62);
 

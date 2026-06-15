@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il Regio decreto-legge 13 maggio 1937-XV, n. 1222, concernente la proroga del termine stabilito dall'[art. 1 del R. decreto-legge 14 ottobre 1932, n. 1438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-10-14;1438#art_1), per la riassicurazione dei rischi relativi ai crediti di esportazione. 
+ E' convertito in legge il Regio decreto-legge 13 maggio 1937-XV, n. 1222, concernente la proroga del termine stabilito dall'[art. 1 del R. decreto-legge 14 ottobre 1932, n. 1438](Autorizzazione%20allIstituto%20nazionale%20delle%20assicurazioni%20ad%20assumere%20in%20riassicurazione%20i%20rischi%20del%20credito%20di%20esportazione.%20032U1438.md), per la riassicurazione dei rischi relativi ai crediti di esportazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

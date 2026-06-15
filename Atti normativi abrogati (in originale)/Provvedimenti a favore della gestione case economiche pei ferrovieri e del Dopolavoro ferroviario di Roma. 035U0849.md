@@ -36,7 +36,7 @@ Il tasso d'interesse sui capitali, forniti e da fornire dal Fondo pensioni e sus
 
 ## Art. 2.
 
-Il capitale costituente il Fondo di riserva per i rischi di mare del cessato Esercizio navigazione delle ferrovie dello Stato e' trasferito, con effetto dal 1° luglio 1934, al Fondo pensioni e sussidi delle Ferrovie dello Stato, fermo rimanendo l'investimento di una parte del capitale anzidetto in mutui a Societa' cooperative edilizie tra ferrovieri, autorizzato col [R. decreto 12 luglio 1923, n. 1932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1932). 
+Il capitale costituente il Fondo di riserva per i rischi di mare del cessato Esercizio navigazione delle ferrovie dello Stato e' trasferito, con effetto dal 1° luglio 1934, al Fondo pensioni e sussidi delle Ferrovie dello Stato, fermo rimanendo l'investimento di una parte del capitale anzidetto in mutui a Societa' cooperative edilizie tra ferrovieri, autorizzato col [R. decreto 12 luglio 1923, n. 1932](Autorizzazione%20allamministrazione%20delle%20ferrovie%20dello%20Stato%20ad%20investire%20la%20somma%20di%2010%20milioni%20in%20mutui%20alle%20cooperative%20edilizie%20ferroviarie%20prelevandola%20dal%20fondo%20di%20riserva%20per%20i%20ris_55555f95284f.md). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge, restando autorizzato il Ministro proponente alla presentazione del relativo disegno di legge. 
  

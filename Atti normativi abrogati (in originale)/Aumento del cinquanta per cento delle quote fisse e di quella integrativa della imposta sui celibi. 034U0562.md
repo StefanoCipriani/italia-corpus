@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visti il [R. decreto-legge 19 dicembre 1926, n. 2132](Imposta%20personale%20progressiva%20sui%20celibi.%20026U2132.md), il [R. decreto 13 febbraio 1927, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-02-13;124), ed il [R. decreto-legge 24 settembre 1928, n. 2296](Raddoppiamento%20della%20misura%20dellimposta%20sui%20celibi.%20028U2296.md);
+Visti il [R. decreto-legge 19 dicembre 1926, n. 2132](Imposta%20personale%20progressiva%20sui%20celibi.%20026U2132.md), il [R. decreto 13 febbraio 1927, n. 124](Applicazione%20dellimposta%20sui%20celibi.%20027U0124.md), ed il [R. decreto-legge 24 settembre 1928, n. 2296](Raddoppiamento%20della%20misura%20dellimposta%20sui%20celibi.%20028U2296.md);
 
 Ritenuta la necessita' e l'urgenza del provvedimento;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro, Segretario di Stato per l'i
 
 ## Art. 1.
 
-A decorrere dal 1° luglio 1934 la misura delle quote fisse e di quella integrativa della imposta sui celibi, stabilite dall'[art. 2 del R. decreto 13 febbraio 1927, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-02-13;124#art_2), e dall'[art. 1 del R. decreto-legge 24 settembre 1928, n. 2296](Raddoppiamento%20della%20misura%20dellimposta%20sui%20celibi.%20028U2296.md), e' aumentata del cinquanta per cento.
+A decorrere dal 1° luglio 1934 la misura delle quote fisse e di quella integrativa della imposta sui celibi, stabilite dall'[art. 2 del R. decreto 13 febbraio 1927, n. 124](Applicazione%20dellimposta%20sui%20celibi.%20027U0124.md), e dall'[art. 1 del R. decreto-legge 24 settembre 1928, n. 2296](Raddoppiamento%20della%20misura%20dellimposta%20sui%20celibi.%20028U2296.md), e' aumentata del cinquanta per cento.
 
 ## Art. 2.
 

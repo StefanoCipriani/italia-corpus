@@ -64,7 +64,7 @@ Le disposizioni del comma 2 si applicano per una durata complessiva di mesi dodi
 
 1.
 
-A valere sulle disponibilita' del fondo di cui all'[articolo 6, primo comma, della legge 10 ottobre 1975, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-10-10;517#art_6-com1), modificato con [legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41), e' autorizzata la concessione di finanziamenti agevolati e di contributi in conto capitale per l'acquisto di immobili condotti in locazione ed adibiti ad attivita' commerciali da almeno dieci anni alla data di entrata in vigore del presente decreto.
+A valere sulle disponibilita' del fondo di cui all'[articolo 6, primo comma, della legge 10 ottobre 1975, n. 517](Credito%20agevolato%20al%20commercio.md), modificato con [legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e' autorizzata la concessione di finanziamenti agevolati e di contributi in conto capitale per l'acquisto di immobili condotti in locazione ed adibiti ad attivita' commerciali da almeno dieci anni alla data di entrata in vigore del presente decreto.
 
 2.
 
@@ -90,7 +90,7 @@ Il decreto di cui al comma 1 e' pubblicato nella Gazzetta Ufficiale ed e' affiss
 
 3.
 
-Entro trenta giorni dalla pubblicazione i comuni adottano le deliberazioni necessarie per l'attuazione degli indirizzi e dei criteri enunciati nel decreto. A tal fine, anche in relazione alle esigenze ed alle tradizioni locali, con la medesima deliberazione i comuni possono, nelle suddette aree, stabilire voci merceologiche specifiche nell'ambito delle tabelle di cui all'[articolo 37 della legge 11 giugno 1971, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426#art_37), nonche' nuove classificazioni in deroga a quelle previste dall'[articolo 3 della legge 14 ottobre 1974, n. 524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-10-14;524#art_3).
+Entro trenta giorni dalla pubblicazione i comuni adottano le deliberazioni necessarie per l'attuazione degli indirizzi e dei criteri enunciati nel decreto. A tal fine, anche in relazione alle esigenze ed alle tradizioni locali, con la medesima deliberazione i comuni possono, nelle suddette aree, stabilire voci merceologiche specifiche nell'ambito delle tabelle di cui all'[articolo 37 della legge 11 giugno 1971, n. 426](Disciplina%20del%20commercio.md), nonche' nuove classificazioni in deroga a quelle previste dall'[articolo 3 della legge 14 ottobre 1974, n. 524](Modifica%20alla%20disciplina%20degli%20esercizi%20pubblici%20di%20vendita%20e%20consumo%20di%20alimenti%20e%20bevande.md).
 
 4.
 

@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-16;1753#art_6) e [13 del R. decreto 16 luglio 1923, numero 1753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-16;1753#art_13);
+Visti gli [articoli 6](Ordinamento%20e%20attribuzioni%20del%20Ministero%20della%20pubblica%20istruzione%20e%20dei%20suoi%20Corpi%20consultivi.%20023U1753.md) e [13 del R. decreto 16 luglio 1923, numero 1753](Ordinamento%20e%20attribuzioni%20del%20Ministero%20della%20pubblica%20istruzione%20e%20dei%20suoi%20Corpi%20consultivi.%20023U1753.md);
 
-Visto il [R. decreto 15 novembre 1928, n. 2660](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-11-15;2660);
+Visto il [R. decreto 15 novembre 1928, n. 2660](Passaggio%20alla%202ª%20Commissione%20istituita%20presso%20il%20Ministero%20della%20pubblica%20istruzione%20delle%20attribuzioni%20gia%20assegnate%20al%20Comitato%20amministrativo%20disciplinare%20del%20Consiglio%20superiore%20per_ca58c57c1a89.md);
 
-Visto il [R. decreto 7 ottobre 1923, n. 2197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-07;2197), e successive modificazioni;
+Visto il [R. decreto 7 ottobre 1923, n. 2197](Riordinamento%20del%20Consiglio%20e%20della%20Giunta%20della%20istruzione%20nautica.%20023U2197.md), e successive modificazioni;
 
-Visto il [R. decreto 21 ottobre 1923, n. 2557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2557), e successive modificazioni;
+Visto il [R. decreto 21 ottobre 1923, n. 2557](Nuovo%20ordinamento%20dei%20Regi%20istituti%20nautici.%20023U2557.md), e successive modificazioni;
 
-Visto il regolamento sullo stato giuridico ed economico del personale direttivo ed insegnante dei Regi istituti nautici, approvato con [R. decreto 15 gennaio 1925, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-15;373), e successive modificazioni;
+Visto il regolamento sullo stato giuridico ed economico del personale direttivo ed insegnante dei Regi istituti nautici, approvato con [R. decreto 15 gennaio 1925, n. 373](Regolamento%20sullo%20stato%20giuridico%20ed%20economico%20del%20personale%20direttivo%20ed%20insegnante%20dei%20Regi%20istituti%20nautici.%20025U0373.md), e successive modificazioni;
 
 Visto l'art. 6, ultimo comma, della [legge 8 luglio 1929 n. 1222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-07-08;1222);
 
@@ -36,11 +36,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-Le attribuzioni attualmente spettanti al Comitato esecutivo della Sezione 6ª del Consiglio superiore dell'educazione nazionale in materia di carriera, di disciplina e di ricorsi del personale dei Regi istituti nautici, ai sensi dell'[art. 6 della legge 8 luglio 1929, n. 1222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-07-08;1222#art_6), sono devolute alla 2ª Commissione istituita presso il Ministero dell'educazione nazionale con l'[art. 6 del R. decreto 16 luglio 1923, n. 1753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-16;1753#art_6).
+Le attribuzioni attualmente spettanti al Comitato esecutivo della Sezione 6ª del Consiglio superiore dell'educazione nazionale in materia di carriera, di disciplina e di ricorsi del personale dei Regi istituti nautici, ai sensi dell'[art. 6 della legge 8 luglio 1929, n. 1222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-07-08;1222#art_6), sono devolute alla 2ª Commissione istituita presso il Ministero dell'educazione nazionale con l'[art. 6 del R. decreto 16 luglio 1923, n. 1753](Ordinamento%20e%20attribuzioni%20del%20Ministero%20della%20pubblica%20istruzione%20e%20dei%20suoi%20Corpi%20consultivi.%20023U1753.md).
 
 ## Art. 2.
 
-Per l'adempimento delle attribuzioni di cui all'art. 1 del presente decreto la 2ª Commissione e' composta - oltre che del direttore generale per l'istruzione tecnica e dei tre membri di cui alla [lettera a) dell'art. 13 del R. decreto 16 luglio 1923, n. 1753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-16;1753#art_13-leta) - di un membro scelto dal Ministro per l'educazione nazionale fra il personale di ruolo direttivo od insegnante dei Regi istituti nautici. 
+Per l'adempimento delle attribuzioni di cui all'art. 1 del presente decreto la 2ª Commissione e' composta - oltre che del direttore generale per l'istruzione tecnica e dei tre membri di cui alla [lettera a) dell'art. 13 del R. decreto 16 luglio 1923, n. 1753](Ordinamento%20e%20attribuzioni%20del%20Ministero%20della%20pubblica%20istruzione%20e%20dei%20suoi%20Corpi%20consultivi.%20023U1753.md) - di un membro scelto dal Ministro per l'educazione nazionale fra il personale di ruolo direttivo od insegnante dei Regi istituti nautici. 
  La Commissione seconda, cosi' costituita, seguira', per gli affari di sua competenza, la procedura gia' stabilita per la Giunta del Consiglio superiore dell'istruzione nautica.
 
 ## Art. 3.

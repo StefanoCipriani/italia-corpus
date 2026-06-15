@@ -18,11 +18,11 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico delle leggi metriche 23 agosto 1890, n. 7088 (serie 3°);
 
-Visto il [R. decreto 21 ottobre 1923, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367), che modifica la tariffa dei diritti metrici, stabiliti dal citato testo unico;
+Visto il [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md), che modifica la tariffa dei diritti metrici, stabiliti dal citato testo unico;
 
-Visto il [R. decreto 7 aprile 1927, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-07;544), che integra l'allegato A, annesso al precitato [R. decreto 21 ottobre 1923, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367);
+Visto il [R. decreto 7 aprile 1927, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-07;544), che integra l'allegato A, annesso al precitato [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md);
 
-Visto il [R. decreto-legge 28 novembre 1938, n. 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;1941), col quale vennero modificati i diritti metrici fissati dal [R. decreto 21 ottobre 1923, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367);
+Visto il [R. decreto-legge 28 novembre 1938, n. 1941](Modificazioni%20ai%20diritti%20metrici.%20038U1941.md), col quale vennero modificati i diritti metrici fissati dal [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), riguardante l'Assemblea per la nuova costituzione dello Stato, il giuramento dei membri del governo e la facolta' del governo di emanare norme giuridiche;
 
@@ -32,11 +32,11 @@ Sulla proposta del Ministro Segretario di Stato per l'industria, il commercio ed
 
 ## Art. 1.
 
-I diritti di verificazione periodica da corrispondersi dagli utenti metrici, fissati dalla tabella annessa al [R. decreto-legge 28 novembre 1938, n. 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;1941), sono, a decorrere dal biennio 1945-46, aumentati del 100%.
+I diritti di verificazione periodica da corrispondersi dagli utenti metrici, fissati dalla tabella annessa al [R. decreto-legge 28 novembre 1938, n. 1941](Modificazioni%20ai%20diritti%20metrici.%20038U1941.md), sono, a decorrere dal biennio 1945-46, aumentati del 100%.
 
 ## Art. 2.
 
-I diritti di verificazione prima dei pesi e delle misure e degli strumenti per pesare e per misurare, dei misuratori del gas e dei manometri campioni, stabiliti dalla tabella di cui al precedente articolo, nonche' i due diritti fissi da L. 200 di cui all'[art. 3 del R. decreto-legge 28 novembre 1938, n. 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;1941#art_3), sono aumentati del 200% a far tempo dall'entrata in vigore del presente decreto legislativo.
+I diritti di verificazione prima dei pesi e delle misure e degli strumenti per pesare e per misurare, dei misuratori del gas e dei manometri campioni, stabiliti dalla tabella di cui al precedente articolo, nonche' i due diritti fissi da L. 200 di cui all'[art. 3 del R. decreto-legge 28 novembre 1938, n. 1941](Modificazioni%20ai%20diritti%20metrici.%20038U1941.md), sono aumentati del 200% a far tempo dall'entrata in vigore del presente decreto legislativo.
 
 ## Art. 3.
 

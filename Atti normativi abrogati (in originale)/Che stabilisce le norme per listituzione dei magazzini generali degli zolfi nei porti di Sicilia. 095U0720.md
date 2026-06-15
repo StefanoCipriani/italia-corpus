@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I magazzini generali per gli zolfi nei porti di Sicilia debbono essere istituiti colle norme del testo unico della legge per i magazzini generali, approvato con [Regio decreto in data 17 dicembre 1882, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-12-17;1154) (serie 2ª). 
+I magazzini generali per gli zolfi nei porti di Sicilia debbono essere istituiti colle norme del testo unico della legge per i magazzini generali, approvato con [Regio decreto in data 17 dicembre 1882, n. 1154](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sui%20magazzini%20generali%20082U1154.md) (serie 2ª). 
  
  I magazzini debbono ricevere il deposito dello zolfo ed eseguire le operazioni per il suo trasporto a bordo per l'esportazione all'estero. 
  
@@ -51,7 +51,7 @@ La presente legge avra' la durata di 5 anni e potra' essere prorogata per decret
 
 ## Art. 6.
 
-Sono applicabili ai magazzini generali contemplati nella presente legge, tutte le disposizioni del testo unico delle leggi per i magazzini generali, approvato con [Regio decreto 17 dicembre 1882, N. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-12-17;1154) (serie 3ª), in quanto non siano contrarie a quelle degli articoli precedenti.
+Sono applicabili ai magazzini generali contemplati nella presente legge, tutte le disposizioni del testo unico delle leggi per i magazzini generali, approvato con [Regio decreto 17 dicembre 1882, N. 1154](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sui%20magazzini%20generali%20082U1154.md) (serie 3ª), in quanto non siano contrarie a quelle degli articoli precedenti.
 
 ## Art. 7.
 

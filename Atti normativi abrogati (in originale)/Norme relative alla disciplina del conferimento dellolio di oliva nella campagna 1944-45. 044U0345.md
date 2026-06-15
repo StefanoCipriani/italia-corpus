@@ -20,13 +20,13 @@ Visto il decreto 7 settembre 1944 del Ministro per l'agricoltura e le foreste, s
 
 Visto il decreto 19 settembre 1944 del Ministro per l'agricoltura e le foreste, con cui vengono fissati i prezzi da corrispondere ai produttori dell'olio di oliva consegnato ai centri di raccolta nella campagna 1944-45;
 
-Vista la [legge 2 dicembre 1940, n. 1792](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-02;1792);
+Vista la [legge 2 dicembre 1940, n. 1792](Modificazioni%20alle%20disposizioni%20dellammasso%20dellolio%20di%20oliva%20e%20di%20sanse.%20040U1792.md);
 
 Visto il [R. decreto-legge 22 aprile 1943, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-22;245):
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e [20 maggio 1944 n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-20;141);
+Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e [20 maggio 1944 n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-20;141);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

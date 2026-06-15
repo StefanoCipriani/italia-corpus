@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Ritenuto che lo stato di guerra ha apportato radicali mutamenti al programma di servizio al quale il porto di Genova era chiamato a soddisfare;
 
@@ -36,7 +36,7 @@ Sulla proposta del presidente del Consiglio dei ministri, segretario di Stato pe
 
 Dalla data della pubblicazione del presente decreto e fino a 6 mesi dopo la conclusione della pace funzionera' presso il Consorzio autonomo del porto di Genova un R. commissario. 
  
- Spetta al R. commissario di sopraintendere allo svolgimento delle funzioni che il Consorzio autonomo del porto di Genova disimpegna, e continuera' a disimpegnare, in esecuzione dell'art. 1°, punti 4° e 5°, della [legge 13 febbraio 1903, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-02-13;50), e delle relative disposizioni del regolamento approvato col [R decreto 25 giugno 1903, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-06-25;261). 
+ Spetta al R. commissario di sopraintendere allo svolgimento delle funzioni che il Consorzio autonomo del porto di Genova disimpegna, e continuera' a disimpegnare, in esecuzione dell'art. 1°, punti 4° e 5°, della [legge 13 febbraio 1903, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-02-13;50), e delle relative disposizioni del regolamento approvato col [R decreto 25 giugno 1903, n. 261](Che%20approva%20il%20regolamento%20per%20lapplicazione%20della%20legge%2012%20febbrio%201903%20n.%2050%20sullistituzione%20di%20un%20Consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20lesercizio%20del%20porto%20di%20Genova.%20003U0261.md). 
  
  Gli uffici e le rappresentanze delle varie Amministrazioni civili e militari dello Stato, che funzionano nel porto per il ricevimento e la rispedizione di merci, sono posti sotto l'alta direzione del R.
 commissario. La stessa disposizione vale per la R. capitaneria di porto.

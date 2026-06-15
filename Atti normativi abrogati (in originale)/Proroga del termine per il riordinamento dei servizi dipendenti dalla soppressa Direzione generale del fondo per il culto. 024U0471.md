@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 4 del R. decreto 2 dicembre 1923, n. 2572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2572#art_4), che fissa al 31 marzo 1924, il termine per il riordinamento dei servizi dipendenti dalla soppressa Direzione generale del fondo per il culto;
+Visto l'[art. 4 del R. decreto 2 dicembre 1923, n. 2572](Ordinamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20della%20giustizia%20e%20degli%20affari%20di%20culto.%20023U2572.md), che fissa al 31 marzo 1924, il termine per il riordinamento dei servizi dipendenti dalla soppressa Direzione generale del fondo per il culto;
 
 Ritenuta la necessita' di prorogare tale termine;
 
@@ -24,7 +24,7 @@ Sulla proposta del Guardasigilli Ministro Segretario di Stato per la giustizia e
 
 ## Art. 1.
 
-Il termine per il riordinamento dei servizi dipendenti dalla soppressa Direzione generale del fondo per il culto fissato con l'[art. 4 del R. decreto 2 dicembre 1923, n. 2572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2572#art_4) al 31 marzo 1924, e' prorogato al 30 giugno 1924, rimanendo in conseguenza prorogati anche gli altri termini stabiliti negli articoli 10 e 16 del citato Regio decreto.
+Il termine per il riordinamento dei servizi dipendenti dalla soppressa Direzione generale del fondo per il culto fissato con l'[art. 4 del R. decreto 2 dicembre 1923, n. 2572](Ordinamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20della%20giustizia%20e%20degli%20affari%20di%20culto.%20023U2572.md) al 31 marzo 1924, e' prorogato al 30 giugno 1924, rimanendo in conseguenza prorogati anche gli altri termini stabiliti negli articoli 10 e 16 del citato Regio decreto.
 
 ## Art. 2.
 

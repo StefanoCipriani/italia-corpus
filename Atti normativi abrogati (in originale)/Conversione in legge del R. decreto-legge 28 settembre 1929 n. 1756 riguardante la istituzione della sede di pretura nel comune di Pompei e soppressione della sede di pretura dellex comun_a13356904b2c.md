@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1929, n. 1756](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-09-28;1756), riguardante la istituzione della sede di pretura nel comune di Pompei e soppressione della sede di pretura nell'ex comune di Boscotrecase. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1929, n. 1756](Istituzione%20della%20sede%20di%20pretura%20nel%20comune%20di%20Pompei%20e%20soppressione%20della%20sede%20di%20pretura%20dellex%20comune%20di%20Boscotrecase.%20029U1756.md), riguardante la istituzione della sede di pretura nel comune di Pompei e soppressione della sede di pretura nell'ex comune di Boscotrecase. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

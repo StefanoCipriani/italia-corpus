@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 28 luglio 1930, n. 1011](Nuovo%20testo%20della%20Legg
 
 Visto il [R. decreto-legge 11 luglio 1931, n. 891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-11;891), determinante nuove aliquote in materia di tassa di scambio;
 
-Visto il testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175);
+Visto il testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -78,7 +78,7 @@ Le eventuali variazioni in aumento o in diminuzione del reddito della categoria 
 
 ### Art. 5.
 
-Per i Comuni assegnati, a norma dell'[art. 11 del R. decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175#art_11), alle classi A, B e C, nei quali non sia in vigore una classificazione dei pubblici esercizi, l'intendente di finanza provvede a tale classificazione, d'intesa con le autorita' comunali e con le Federazioni fasciste dei commercianti, entro il 28 febbraio 1932, ai fini della determinazione del canone annuo di tassa di scambio da corrispondersi dai possessori di apparecchi da banco per la produzione e distribuzione delle acque gassose e minerali artificiali.
+Per i Comuni assegnati, a norma dell'[art. 11 del R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), alle classi A, B e C, nei quali non sia in vigore una classificazione dei pubblici esercizi, l'intendente di finanza provvede a tale classificazione, d'intesa con le autorita' comunali e con le Federazioni fasciste dei commercianti, entro il 28 febbraio 1932, ai fini della determinazione del canone annuo di tassa di scambio da corrispondersi dai possessori di apparecchi da banco per la produzione e distribuzione delle acque gassose e minerali artificiali.
 
 ### Art. 6.
 

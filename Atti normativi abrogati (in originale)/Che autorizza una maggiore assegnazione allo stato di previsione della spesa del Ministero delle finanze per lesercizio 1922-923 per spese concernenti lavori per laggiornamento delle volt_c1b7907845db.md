@@ -18,9 +18,9 @@ VITTORIO EMANUELE III
  
  Vista la [legge 9 luglio 1922, n. 1886](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-07-09;1886); 
  
- Visto il [R. decreto 7 gennaio 1923, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;18), che determina i diritti da esigersi per la esecuzione delle volture catastali; 
+ Visto il [R. decreto 7 gennaio 1923, n. 18](Che%20reca%20modificazioni%20alla%20tariffa%20dei%20diritti%20catastali%20023U0018.md), che determina i diritti da esigersi per la esecuzione delle volture catastali; 
  
- Ritenuta la necessita' di inscrivere, in relazione ai proventi derivanti dai diritti suindicati, un primo fondo di lire 1.000.000 nel bilancio della spesa, in esecuzione dell'art. 3 del citato [R. decreto 7 gennaio 1923, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;18); 
+ Ritenuta la necessita' di inscrivere, in relazione ai proventi derivanti dai diritti suindicati, un primo fondo di lire 1.000.000 nel bilancio della spesa, in esecuzione dell'art. 3 del citato [R. decreto 7 gennaio 1923, n. 18](Che%20reca%20modificazioni%20alla%20tariffa%20dei%20diritti%20catastali%20023U0018.md); 
  
  Sentito il Consiglio dei ministri; 
  

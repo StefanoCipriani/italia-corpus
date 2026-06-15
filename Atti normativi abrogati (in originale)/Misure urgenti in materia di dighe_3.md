@@ -34,7 +34,7 @@ E' soggetta all'approvazione tecnica del progetto anche ogni op- era di modifica
 
 3.
 
-L'approvazione tecnica dei progetti, anche se di variante, di dighe e l'emanazione del relativo atto amministrativo e' di competenza del Servizio nazionale dighe, di cui alla [legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183).
+L'approvazione tecnica dei progetti, anche se di variante, di dighe e l'emanazione del relativo atto amministrativo e' di competenza del Servizio nazionale dighe, di cui alla [legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md).
 
 4.
 
@@ -118,7 +118,7 @@ Nelle more del procedimento di approvazione in sanatoria, e senza pregiudizio pe
 
 7.
 
-Nelle more dell'emanazione del regolamento di cui all'articolo 2, comma 1, l'attivita' di controllo e vigilanza prevista dalla [legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183), sulle opere di cui all'articolo 1 e' svolta dal Ministero dei lavori pubblici che puo' allo scopo, in caso di impossibilita' a svolgere direttamente i controlli, stipulare convenzioni con organismi pubblici e privati.
+Nelle more dell'emanazione del regolamento di cui all'articolo 2, comma 1, l'attivita' di controllo e vigilanza prevista dalla [legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md), sulle opere di cui all'articolo 1 e' svolta dal Ministero dei lavori pubblici che puo' allo scopo, in caso di impossibilita' a svolgere direttamente i controlli, stipulare convenzioni con organismi pubblici e privati.
 
 8.
 
@@ -148,13 +148,13 @@ Chiunque non adempia alle prescrizioni di cui all'articolo 3, comma 5, ovvero de
 
 5.
 
-L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 6 e 7, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_373).
+L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 6 e 7, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 
 1.
 
-Le somme introitate dal Dipartimento per i servizi tecnici nazionali per il rilascio di dati, pareri e consulenze di cui all'[articolo 9, comma 4, lettera c), della legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183#art_9-com4-letc), ovvero in conseguenza della conclusione, con soggetti pubblici o privati, di accordi o convenzioni per lo svolgimento dell'attivita' conoscitiva, di pianificazione, di programmazione e di attuazione prevista dagli articoli 2 e 3 nella medesima [legge n. 183 del 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;183), sono versate in un apposito capitolo dello stato di previsione dell'entrata, per essere riassegnate, con decreto del Ministro del tesoro, in aumento degli stanziamenti dello stato di previsione della Presidenza del Consiglio dei Ministri, rubrica 42, Servizi tecnici nazionali.
+Le somme introitate dal Dipartimento per i servizi tecnici nazionali per il rilascio di dati, pareri e consulenze di cui all'[articolo 9, comma 4, lettera c), della legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md), ovvero in conseguenza della conclusione, con soggetti pubblici o privati, di accordi o convenzioni per lo svolgimento dell'attivita' conoscitiva, di pianificazione, di programmazione e di attuazione prevista dagli articoli 2 e 3 nella medesima [legge n. 183 del 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;183), sono versate in un apposito capitolo dello stato di previsione dell'entrata, per essere riassegnate, con decreto del Ministro del tesoro, in aumento degli stanziamenti dello stato di previsione della Presidenza del Consiglio dei Ministri, rubrica 42, Servizi tecnici nazionali.
 
 ## Art. 6.
 

@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'art. 1 (ultimo comma) del [decreto Luogotenenziale del 13 agosto 1917, n. 1393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-13;1393), convalidato con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto l'art. 1 (ultimo comma) del [decreto Luogotenenziale del 13 agosto 1917, n. 1393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-13;1393), convalidato con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto il regolamento del personale navigante approvato col decreto Luogotenenziale medesimo;
 
-Visto il [R. decreto-legge del 2 maggio 1920, n. 598](Contenente%20provvedimenti%20economici%20a%20favore%20del%20personale%20addetto%20allesercizio%20della%20navigazione%20di%20Stato.%20020U0598.md), convalidato con la stessa [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge del 2 maggio 1920, n. 598](Contenente%20provvedimenti%20economici%20a%20favore%20del%20personale%20addetto%20allesercizio%20della%20navigazione%20di%20Stato.%20020U0598.md), convalidato con la stessa [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto l'[art. 20 del R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md);
 

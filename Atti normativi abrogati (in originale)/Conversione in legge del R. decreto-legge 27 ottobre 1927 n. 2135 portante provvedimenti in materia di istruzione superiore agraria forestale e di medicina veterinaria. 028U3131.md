@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-27;2135), portante provvedimenti in materia di istruzione superiore agraria, forestale e di medicina veterinaria. 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2135](Provvedimenti%20in%20materia%20di%20istruzione%20superiore%20agraria%20forestale%20e%20di%20medicina%20veterinaria.%20027U2135.md), portante provvedimenti in materia di istruzione superiore agraria, forestale e di medicina veterinaria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

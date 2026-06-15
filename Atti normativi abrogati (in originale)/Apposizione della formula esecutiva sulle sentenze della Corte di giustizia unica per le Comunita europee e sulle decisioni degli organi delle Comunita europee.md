@@ -10,17 +10,17 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 25 giugno 1952, n. 766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-25;766), concernente la esecuzione del Trattato istitutivo della Comunita' europea del carbone e dell'acciaio, firmato a Parigi il 18 aprile 1951;
+Vista la [legge 25 giugno 1952, n. 766](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Parigi%20il%2018%20aprile%201951%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20del%20carbone%20e%20dellacciaio%20e%20relativi%20annessi%20b%20_535fd4357eb2.md), concernente la esecuzione del Trattato istitutivo della Comunita' europea del carbone e dell'acciaio, firmato a Parigi il 18 aprile 1951;
 
-Vista la [legge 14 ottobre 1957, n. 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-14;1203), concernente l'esecuzione dei Trattati istitutivi della Comunita' economica europea e della Comunita' europea dell'energia atomica nonche' della Convenzione relativa ad alcune istituzioni comuni, firmati a Roma il 25 marzo 1957;
+Vista la [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), concernente l'esecuzione dei Trattati istitutivi della Comunita' economica europea e della Comunita' europea dell'energia atomica nonche' della Convenzione relativa ad alcune istituzioni comuni, firmati a Roma il 25 marzo 1957;
 
 Visti gli articoli 44 e 92 del Trattato istitutivo della Comunita' europea del carbone e dell'acciaio, 187 e 192 del Trattato istitutivo della Comunita' economica europea, 159 e 161, comma quarto, e 164 del Trattato istitutivo della Comunita' europea dell'energia atomica, 3 e 4 della Convenzione relativa alle istituzioni comuni;
 
-Visto il [decreto del Presidente della Repubblica 16 ottobre 1954, n. 1270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-10-16;1270), concernente l'apposizione della formula esecutiva sulle sentenze della Corte di giustizia e sulle decisioni dell'Alta Autorita' della Comunita' europea del carbone e dell'acciaio;
+Visto il [decreto del Presidente della Repubblica 16 ottobre 1954, n. 1270](../DPR/Apposizione%20della%20formula%20esecutiva%20sulle%20sentenze%20della%20Corte%20di%20Giustizia%20e%20sulle%20decisioni%20dellAlta%20Autorita%20della%20Comunita%20europea%20del%20carbone%20e%20dellacciaio.md), concernente l'apposizione della formula esecutiva sulle sentenze della Corte di giustizia e sulle decisioni dell'Alta Autorita' della Comunita' europea del carbone e dell'acciaio;
 
 Visti gli [articoli 474 e seguenti del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_474);
 
-Visti gli articoli 153 e seguenti delle disposizioni di attuazione del [Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), approvate con [regio decreto 18 dicembre 1941, n. 1368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-12-18;1368);
+Visti gli articoli 153 e seguenti delle disposizioni di attuazione del [Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), approvate con [regio decreto 18 dicembre 1941, n. 1368](../Codici/Disposizioni%20per%20lattuazione%20del%20Codice%20di%20procedura%20civile%20e%20disposizioni%20transitorie.%20041U1368.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -42,7 +42,7 @@ Il Ministro per gli affari esteri puo' delegare, con decreto da registrarsi alla
 
 ## Art. 3.
 
-E' abrogato il [decreto del Presidente della Repubblica 16 ottobre 1954, n. 1270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-10-16;1270).
+E' abrogato il [decreto del Presidente della Repubblica 16 ottobre 1954, n. 1270](../DPR/Apposizione%20della%20formula%20esecutiva%20sulle%20sentenze%20della%20Corte%20di%20Giustizia%20e%20sulle%20decisioni%20dellAlta%20Autorita%20della%20Comunita%20europea%20del%20carbone%20e%20dellacciaio.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

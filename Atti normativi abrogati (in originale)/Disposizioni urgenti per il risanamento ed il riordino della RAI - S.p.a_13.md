@@ -61,7 +61,7 @@ L'assemblea della societa' concessionaria del servizio pubblico radiotelevisivo 
 
 1.
 
-I crediti per capitale ed interessi vantati dalle Amministrazioni del tesoro e delle poste e delle telecomunicazioni nei confronti della societa' concessionaria del servizio pubblico radiotelevisivo, per i canoni di concessione del servizio radiotelevisivo di cui all'articolo 24 della convenzione tra il Ministero delle poste e delle telecomunicazioni e la RAI - Radiotelevisione italiana, approvata con [decreto del Presidente della Repubblica 1 agosto 1988, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-08-01;367), relativi agli esercizi 1992 e 1993, sono ceduti alla Cassa depositi e prestiti, contro il pagamento alle predette Amministrazioni degli importi di rispettiva competenza.
+I crediti per capitale ed interessi vantati dalle Amministrazioni del tesoro e delle poste e delle telecomunicazioni nei confronti della societa' concessionaria del servizio pubblico radiotelevisivo, per i canoni di concessione del servizio radiotelevisivo di cui all'articolo 24 della convenzione tra il Ministero delle poste e delle telecomunicazioni e la RAI - Radiotelevisione italiana, approvata con [decreto del Presidente della Repubblica 1 agosto 1988, n. 367](../DPR/Approvazione%20della%20convenzione%20tra%20il%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20la%20RAI%20-%20Radio%20televisione%20italiana%20S.p.a.%20per%20la%20concessione%20in%20esclusiva%20del%20servizio%20pubblico%20di_be3c3191325a.md), relativi agli esercizi 1992 e 1993, sono ceduti alla Cassa depositi e prestiti, contro il pagamento alle predette Amministrazioni degli importi di rispettiva competenza.
 
 2.
 
@@ -81,7 +81,7 @@ Le operazioni di cui agli articoli 2, 3 e 4 sono esenti da imposte dirette ed in
 
 1.
 
-Alla concessione del servizio pubblico radiotelevisivo alla RAI - Radiotelevisione italiana S.p.a. di cui all'[articolo 2, comma 2, della legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223#art_2-com2), e successive modificazioni ed integrazioni, si applica l'[articolo 14, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_14-com3) e [4, del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_14-com4), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359).
+Alla concessione del servizio pubblico radiotelevisivo alla RAI - Radiotelevisione italiana S.p.a. di cui all'[articolo 2, comma 2, della legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223#art_2-com2), e successive modificazioni ed integrazioni, si applica l'[articolo 14, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_14-com3) e [4, del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_14-com4), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20luglio%201992%20n.%20333%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica.md).
 
 ## Art. 7.
 
@@ -107,7 +107,7 @@ Le incompatibilita' previste dall'articolo 7, comma 1, per i membri del consigli
 
 3.
 
-L'[articolo 7 del decreto-legge 6 dicembre 1984, n. 807](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-06;807#art_7), convertito, con modificazioni, dalla [legge 4 febbraio 1985, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-04;10), e' abrogato.
+L'[articolo 7 del decreto-legge 6 dicembre 1984, n. 807](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-06;807#art_7), convertito, con modificazioni, dalla [legge 4 febbraio 1985, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%201984%20n.%20807%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasmissioni%20radiotelevisive.md), e' abrogato.
 
 ## Art. 9.
 
@@ -172,7 +172,7 @@ Per ogni omessa o irregolare comunicazione di cui al comma 1, si applicano le sa
 
 1.
 
-La tabella A allegata al [decreto-legge 1 dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71), che stabilisce la dotazione organica del personale del Ministero delle poste e delle comunicazioni, e' sostituita dalla seguente:
+La tabella A allegata al [decreto-legge 1 dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md), che stabilisce la dotazione organica del personale del Ministero delle poste e delle comunicazioni, e' sostituita dalla seguente:
  "TABELLA A (prevista dall'articolo 12, comma 2) DOTAZIONE ORGANICA DEL PERSONALE
  DEL MINISTERO DELLE POSTE
 E DELLE TELECOMUNICAZIONI
@@ -196,7 +196,7 @@ E DELLE TELECOMUNICAZIONI
 
 2.
 
-I posti in aumento, rispetto alla dotazione organica di cui alla tabella A prevista dall'[articolo 12, comma 2, del decreto-legge 1 dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487#art_12-com2), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71), sono contestualmente portati in riduzione nelle consistenze organiche del personale dell'Ente poste italiane.
+I posti in aumento, rispetto alla dotazione organica di cui alla tabella A prevista dall'[articolo 12, comma 2, del decreto-legge 1 dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487#art_12-com2), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md), sono contestualmente portati in riduzione nelle consistenze organiche del personale dell'Ente poste italiane.
 
 3.
 
@@ -204,7 +204,7 @@ Con successivo decreto del Presidente del Consiglio dei Ministri, da adottarsi e
 
 4.
 
-Il personale dell'Ente poste italiane che, alla data di entrata in vigore del presente decreto, presta servizio in attivita' attribuite alla competenza del Ministero delle poste e delle telecomunicazioni dal [decreto-legge 1 dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71), e quello che, alla data medesima, presta servizio in posizione di comando presso il Ministero delle poste e delle telecomunicazioni, transita, a domanda da presentare dagli interessati entro trenta giorni dalla predetta data, nei ruoli del Ministero stesso, nei limiti della dotazione organica fissata dal comma 1. Al predetto personale e' attribuito il trattamento giuridico ed economico che sarebbe loro spettato ove fossero stati inseriti nell'elenco allegato al decreto ministeriale 16 aprile 1994. Al presente dell'Ente poste italiane che, alla data del 1 settembre 1995, presta servizio in posizione di comando presso le altre amministrazioni dello Stato si applicano le vigenti disposizioni sulla mobilita' volontaria o concordata. I comandi in atto cessano in ogni caso a far data dalla trasformazione dell'Ente poste italiane in societa' per azioni e, comunque, non possono essere rinnovati per un periodo superiore a due anni dalla data di entrata in vigore del presente decreto.
+Il personale dell'Ente poste italiane che, alla data di entrata in vigore del presente decreto, presta servizio in attivita' attribuite alla competenza del Ministero delle poste e delle telecomunicazioni dal [decreto-legge 1 dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md), e quello che, alla data medesima, presta servizio in posizione di comando presso il Ministero delle poste e delle telecomunicazioni, transita, a domanda da presentare dagli interessati entro trenta giorni dalla predetta data, nei ruoli del Ministero stesso, nei limiti della dotazione organica fissata dal comma 1. Al predetto personale e' attribuito il trattamento giuridico ed economico che sarebbe loro spettato ove fossero stati inseriti nell'elenco allegato al decreto ministeriale 16 aprile 1994. Al presente dell'Ente poste italiane che, alla data del 1 settembre 1995, presta servizio in posizione di comando presso le altre amministrazioni dello Stato si applicano le vigenti disposizioni sulla mobilita' volontaria o concordata. I comandi in atto cessano in ogni caso a far data dalla trasformazione dell'Ente poste italiane in societa' per azioni e, comunque, non possono essere rinnovati per un periodo superiore a due anni dalla data di entrata in vigore del presente decreto.
 
 5.
 

@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
- Visto il [regio decreto 17 maggio 1937, n. 1364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-05-17;1364), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Jesi;
+ Visto il [regio decreto 17 maggio 1937, n. 1364](Approvazione%20dello%20statuto%20della%20Regia%20scuola%20tecnica%20industriale%20di%20Jesi.%20037U1364.md), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Jesi;
  Considerata l'opportunita' di istituire, per esigenze di servizio, un posto di segretario economo di ruolo presso la suddetta scuola;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

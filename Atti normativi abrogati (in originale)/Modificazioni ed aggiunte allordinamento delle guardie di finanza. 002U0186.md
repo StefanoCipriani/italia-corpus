@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alle disposizioni dell'articolo 9 del testo unico delle leggi sull'ordinamento della guardia di finanza, approvato col [R. decreto 13 febbraio 1896, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-13;40), sono sostituite le seguenti: 
+Alle disposizioni dell'articolo 9 del testo unico delle leggi sull'ordinamento della guardia di finanza, approvato col [R. decreto 13 febbraio 1896, n. 40](Che%20approva%20il%20Testo%20unico%20delle%20leggi%20sullordinamento%20del%20Corpo%20delle%20Guardie%20di%20finanza.%20096U0040.md), sono sostituite le seguenti: 
  
  I. L'aspirante riconosciuto idoneo si obbliga a servire per la ferma d'anni cinque. Eguale ferma di servizio devono contrarre i sottufficiali e le guardie che, avendo cessato di appartenere al Corpo, chiedano ed ottengano in seguito di esservi riammessi. 
  

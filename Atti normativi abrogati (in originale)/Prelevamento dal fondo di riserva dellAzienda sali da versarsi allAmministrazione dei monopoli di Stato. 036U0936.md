@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Visto l'art. 16 della legge 20 giugno 1935-XIII, n. 1013, che approva lo stato di previsione dell'entrata e quello della spesa dell'Amministrazione dei monopoli di Stato, per l'esercizio finanziario 1935-1936 e il decreto Ministeriale 24 settembre 1935, registrato alla Corte dei conti il 30 settembre 1935, registro 2, foglio 218 Monopoli - relativo all'istituzione del capitolo aggiunto n. 52, allo stato di previsione della spesa dell'Amministrazione dei monopoli di Stato per l'esercizio finanziario 1935-36; 
  
- Visto l'[art. 10 del R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258#art_10), convertito nella [legge 6 dicembre 1928, n. 3474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;3474), riguardante la costituzione dell'Amministrazione dei monopoli di Stato; 
+ Visto l'[art. 10 del R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258#art_10), convertito nella [legge 6 dicembre 1928, n. 3474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201927%20n.%202258%20relativo%20allautonomia%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20028U3474.md), riguardante la costituzione dell'Amministrazione dei monopoli di Stato; 
  
  Considerato che il fondo di riserva per le spese impreviste dell'Azienda sali presenta una disponibilita' di L. 3.686.427,39 depositata in conto corrente presso la Tesoreria centrale del Regno; 
  

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di provvedere al rifinanziamento del [decreto-legge 23 dicembre 1994, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-23;727), convertito, con modificazioni, dalla [legge 24 febbraio 1995, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-02-24;46), per assicurare la prosecuzione degli interventi programmati in agricoltura, nonche' di consentire alle aziende agricole di accedere agli interventi compensativi del Fondo di solidarieta' nazionale, anche per i danni prodotti da eventi calamitosi eccezionali a carico di colture ammissibili all'assicurazione agevolata che non siano state di fatto assicurate;
+Ritenuta la straordinaria necessita' ed urgenza di provvedere al rifinanziamento del [decreto-legge 23 dicembre 1994, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-23;727), convertito, con modificazioni, dalla [legge 24 febbraio 1995, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201994%20n.%20727%20recante%20norme%20per%20lavvio%20degli%20interventi%20programmati%20in%20agricoltura%20e%20per%20il%20rientro%20della%20produzione%20lat_8cb4802dedbb.md), per assicurare la prosecuzione degli interventi programmati in agricoltura, nonche' di consentire alle aziende agricole di accedere agli interventi compensativi del Fondo di solidarieta' nazionale, anche per i danni prodotti da eventi calamitosi eccezionali a carico di colture ammissibili all'assicurazione agevolata che non siano state di fatto assicurate;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 gennaio 1996;
 
@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Al fine di consentire la completa attuazione degli interventi in agricoltura previsti per l'anno 1995, lo stanziamento di lire 800 miliardi di cui al [decreto-legge 23 dicembre 1994, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-23;727), convertito, con modificazioni, dalla [legge 24 febbraio 1995, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-02-24;46), recante, tra l'altro, norme per l'avvio degli interventi programmati in agricoltura, e' aumentato di lire 875 miliardi.
+Al fine di consentire la completa attuazione degli interventi in agricoltura previsti per l'anno 1995, lo stanziamento di lire 800 miliardi di cui al [decreto-legge 23 dicembre 1994, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-23;727), convertito, con modificazioni, dalla [legge 24 febbraio 1995, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201994%20n.%20727%20recante%20norme%20per%20lavvio%20degli%20interventi%20programmati%20in%20agricoltura%20e%20per%20il%20rientro%20della%20produzione%20lat_8cb4802dedbb.md), recante, tra l'altro, norme per l'avvio degli interventi programmati in agricoltura, e' aumentato di lire 875 miliardi.
 
 2.
 
@@ -42,7 +42,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 1.
 
-Al [comma 1 dell'articolo 3 della legge 14 febbraio 1992, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-14;185#art_3-com1), il secondo periodo e' sostituito dal seguente: "A decorrere dagli eventi calamitosi verificatisi nel 1995 sono esclusi, altresi', dal computo del 35 per cento e dalle agevolazioni predette i danni alle produzioni assicurate, relativamente agli eventi determinati dal decreto di cui all'articolo 9, comma 2.".
+Al [comma 1 dell'articolo 3 della legge 14 febbraio 1992, n. 185](Disciplina%20del%20Fondo%20di%20solidarieta%20nazionale.md), il secondo periodo e' sostituito dal seguente: "A decorrere dagli eventi calamitosi verificatisi nel 1995 sono esclusi, altresi', dal computo del 35 per cento e dalle agevolazioni predette i danni alle produzioni assicurate, relativamente agli eventi determinati dal decreto di cui all'articolo 9, comma 2.".
 
 ## Art. 3.
 

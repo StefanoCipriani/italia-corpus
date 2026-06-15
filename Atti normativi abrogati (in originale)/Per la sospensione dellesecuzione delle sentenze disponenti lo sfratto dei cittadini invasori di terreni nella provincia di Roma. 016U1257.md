@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Durante la guerra, dalla Giunta di arbitri di cui all'art. 8 del testo unico approvato con [R. decreto 3 agosto 1891, n. 510](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-08-03;510), puo', in confronto di tutti gli interessati, essere sospesa l'esecuzione delle sentenze pronunziate dopo il 24 maggio 1915, che, sotto qualunque forma, dispongano lo sfratto dei contadini, i quali, al fine di esercitare pretesi diritti di uso civico o di colonia perpetua o comunque a scopo di coltivazione, abbiano prima della data del presente decreto invaso ed occupino terreni nella provincia di Roma. 
+Durante la guerra, dalla Giunta di arbitri di cui all'art. 8 del testo unico approvato con [R. decreto 3 agosto 1891, n. 510](Che%20abolisce%20nellestensione%20e%20misura%20dellultimo%20possesso%20di%20fatto%20le%20servitu%20di%20pascolo%20di%20seminare%20di%20legnatico%20di%20vendere%20erbe%20di%20fidare%20o%20dimporre%20tassa%20a%20titolo%20di%20pascolo%20in%20alcuni%20c_e26ee4d2e86f.md), puo', in confronto di tutti gli interessati, essere sospesa l'esecuzione delle sentenze pronunziate dopo il 24 maggio 1915, che, sotto qualunque forma, dispongano lo sfratto dei contadini, i quali, al fine di esercitare pretesi diritti di uso civico o di colonia perpetua o comunque a scopo di coltivazione, abbiano prima della data del presente decreto invaso ed occupino terreni nella provincia di Roma. 
  
  La sospensione puo' essere concessa fino a non oltre sei mesi dalla conclusione della pace, a meno che sia necessario prorogarla oltre questo termine per rendere possibile agli occupanti di raccogliere i frutti, alla cui produzione hanno concorso con le loro opere.
 

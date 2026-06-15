@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-23;1630), concernente l'abrogazione delle seguenti [leggi: 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1630](Abrogazione%20delle%20leggi%2018%20marzo%201926%20n.%20562%2023%20luglio%201926%20n.%201362%20e%2010%20gennaio%201929%20n.%2066%20concernenti%20lesercizio%20di%20linee%20aeree%20da%20parte%20della%20Societa%20anonima%20di%20navigazione%20aerea.%20030U1630.md), concernente l'abrogazione delle seguenti [leggi: 
  
  a) 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), che converte in legge il [R. decreto 15 agosto 1925, n. 1731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-08-15;1731), approvante la Convenzione tra lo Stato e la Societa' anonima di navigazione aerea per l'esercizio della linea aerea Roma-Genova-Barcellona; 
  

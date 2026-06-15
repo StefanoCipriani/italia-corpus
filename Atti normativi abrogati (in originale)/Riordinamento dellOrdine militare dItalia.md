@@ -76,7 +76,7 @@ Le pensioni ai decorati dell'Ordine militare d'Italia non possono eccedere, per 
 
 ## Art. 10.
 
-Alle pensioni annesse alle decorazioni dell'Ordine militare d'Italia si applicano le disposizioni dell'[art. 18 del regio decreto 4 novembre 1932, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-11-04;1423#art_18).
+Alle pensioni annesse alle decorazioni dell'Ordine militare d'Italia si applicano le disposizioni dell'[art. 18 del regio decreto 4 novembre 1932, n. 1423](Nuove%20disposizioni%20per%20la%20concessione%20delle%20medaglie%20e%20della%20croce%20di%20guerra%20al%20valor%20militare.%20032U1423.md).
 
 ## Art. 11.
 

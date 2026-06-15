@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -95,7 +95,7 @@ Il credito che le Sezioni possono concedere ad ogni singola azienda non deve sup
 
 ## Art. 14.
 
-Le operazioni che saranno effettuate dalla Sezione per il credito alle medie e piccole industrie della Banca nazionale del Lavoro a norma del presente decreto e dello statuto e tutti i provvedimenti, contratti, atti e formalita' relativi alle operazioni stesse ed alla loro esecuzione ed estinzione, sono esenti da tasse, imposte e tributi presenti e futuri, spettanti sia all'Erario dello Stato sia agli Enti locali, ivi inclusa l'imposta di cui all'art. 1, penultimo comma, del [decreto legislativo luogotenenziale 19 ottobre 1944, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;348), all'infuori soltanto della tassa di bollo sulle cambiali che venissero emesse dalle imprese sovvenzionate, le quali saranno assoggettate al bollo nella misura fissa di L. 0,10 per ogni mille lire, qualunque sia la loro scadenza.
+Le operazioni che saranno effettuate dalla Sezione per il credito alle medie e piccole industrie della Banca nazionale del Lavoro a norma del presente decreto e dello statuto e tutti i provvedimenti, contratti, atti e formalita' relativi alle operazioni stesse ed alla loro esecuzione ed estinzione, sono esenti da tasse, imposte e tributi presenti e futuri, spettanti sia all'Erario dello Stato sia agli Enti locali, ivi inclusa l'imposta di cui all'art. 1, penultimo comma, del [decreto legislativo luogotenenziale 19 ottobre 1944, n. 348](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposta%20generale%20sullentrata%20e%20di%20addizionale%20straordinaria%20di%20guerra.%20044U0348.md), all'infuori soltanto della tassa di bollo sulle cambiali che venissero emesse dalle imprese sovvenzionate, le quali saranno assoggettate al bollo nella misura fissa di L. 0,10 per ogni mille lire, qualunque sia la loro scadenza.
  La Sezione e' esente da ogni tassa sugli affari e dall'imposta di ricchezza mobile sui redditi propri derivanti dall'esercizio del credito.
  In compenso, la Sezione per il credito alle medie e piccole industrie della Banca nazionale del Lavoro corrispondera' all'Erario una quota di abbonamento annua in ragione di centesimi 10 per ogni cento lire di capitale impiegato, accertato alla fine di ogni esercizio.
  Le disposizioni di cui al presente articolo si applicano anche alle Sezioni di credito industriale del Banco di Napoli e del Banco di Sicilia per quanto ha attinenza alle operazioni ed all'attivita' creditizia esercitate a norma del presente decreto.

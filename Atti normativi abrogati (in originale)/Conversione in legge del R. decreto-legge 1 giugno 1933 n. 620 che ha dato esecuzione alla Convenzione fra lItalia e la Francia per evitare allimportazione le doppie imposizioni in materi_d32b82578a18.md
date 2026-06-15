@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° giugno 1933, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-01;620), che ha dato esecuzione alla Convenzione fra l'Italia e la Francia per evitare, all'importazione, le doppie imposizioni in materia di tassa di scambio e di imposta sulla cifra di affari, ed al relativo Protocollo finale; Atti firmati entrambi in Parigi il 3 ottobre 1932. 
+ E' convertito in legge il [R. decreto-legge 1° giugno 1933, n. 620](Esecutorieta%20della%20Convenzione%20italo-francese%20per%20evitare%20le%20doppie%20imposizioni%20in%20materia%20di%20tassa%20di%20scambio%20e%20di%20imposta%20sulla%20cifra%20di%20affari.%20033U0620.md), che ha dato esecuzione alla Convenzione fra l'Italia e la Francia per evitare, all'importazione, le doppie imposizioni in materia di tassa di scambio e di imposta sulla cifra di affari, ed al relativo Protocollo finale; Atti firmati entrambi in Parigi il 3 ottobre 1932. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia. mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -30,7 +30,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il Ministero della marina mercantile e' autorizzato a concedere un'indennita' una tantum ai titolari di licenze di pesca, di cui all'[articolo 4 della legge 17 febbraio 1982, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41#art_4), obbligati a sospendere l'attivita' di pesca con l'attrezzo denominato rete da posta derivante.
+Il Ministero della marina mercantile e' autorizzato a concedere un'indennita' una tantum ai titolari di licenze di pesca, di cui all'[articolo 4 della legge 17 febbraio 1982, n. 41](Piano%20per%20la%20razionalizzazione%20e%20lo%20sviluppo%20della%20pesca%20marittima.md), obbligati a sospendere l'attivita' di pesca con l'attrezzo denominato rete da posta derivante.
 
 2.
 

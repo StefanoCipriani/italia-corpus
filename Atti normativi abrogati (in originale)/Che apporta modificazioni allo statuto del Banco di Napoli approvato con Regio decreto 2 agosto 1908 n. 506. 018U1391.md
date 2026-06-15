@@ -18,11 +18,11 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-In virtu' dell'autorita' a Noi delegata; e delle facolta' conferite al Governo dalla [legge 22 maggio 1915, n 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In virtu' dell'autorita' a Noi delegata; e delle facolta' conferite al Governo dalla [legge 22 maggio 1915, n 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Veduto il testo unico di legge sugli Istituti di emissione, approvato col [R. decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204);
 
-Veduto il [R. decreto 2 agosto 1908, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-08-02;506), col quale fu approvato lo statuto del Banco di Napoli;
+Veduto il [R. decreto 2 agosto 1908, n. 506](Che%20approva%20lannesso%20statuto%20del%20Banco%20di%20Napoli.%20008U0506.md), col quale fu approvato lo statuto del Banco di Napoli;
 
 Sentito l'Istituto interessato;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro; Abbiamo decretato
 
 ## Articolo unico.
 
-Nello statuto del Banco di Napoli approvato con [R. decreto 2 agosto 1908, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-08-02;506), sono introdotte le seguenti modificazioni: 
+Nello statuto del Banco di Napoli approvato con [R. decreto 2 agosto 1908, n. 506](Che%20approva%20lannesso%20statuto%20del%20Banco%20di%20Napoli.%20008U0506.md), sono introdotte le seguenti modificazioni: 
  
  Il secondo comma dell'art. 5 e' sostituito con il seguente: 
  

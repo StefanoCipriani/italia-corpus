@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 giugno 1933, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-29;825), concernente proroga dei pieni poteri al commissario straordinario del Reale Automobile Club d'Italia. 
+ E' convertito in legge il [R. decreto-legge 29 giugno 1933, n. 825](Proroga%20dei%20pieni%20poteri%20al%20commissario%20straordinario%20del%20Reale%20Automobile%20Club%20dItalia.%20033U0825.md), concernente proroga dei pieni poteri al commissario straordinario del Reale Automobile Club d'Italia. 
  
  Ordiniamo elle la presente, munita del sigillo dello Stato, sia incerta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare. 
  

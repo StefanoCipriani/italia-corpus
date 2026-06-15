@@ -50,13 +50,13 @@ Il concorso per la promozione di cui all'articolo precedente e' bandito ogni tre
 
 La prova del concorso al grado di geometra principale consta di un esame di coltura (due Prove scritte ed una orale) e di un giudizio sul servizio prestato dal candidato. 
  
- Sono applicabili al detto concorso le disposizioni di cui all'[art. 4 del R. decreto 11 marzo 1920, n. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-03-11;292#art_4), limitatamente pero' alle attribuzioni di geometra principale per quanto si riferisce alle prove scritte ed a quella orale.
+ Sono applicabili al detto concorso le disposizioni di cui all'[art. 4 del R. decreto 11 marzo 1920, n. 292](Concernente%20lapplicazione%20dei%20ruoli%20aperti%20al%20personale%20del%20R.%20corpo%20del%20genio%20civile.%20020U0292.md), limitatamente pero' alle attribuzioni di geometra principale per quanto si riferisce alle prove scritte ed a quella orale.
 
 ## Art. 6.
 
 La Commissione esaminatrice pel concorso a geometra principale e' composta di un ispettore superiore del genio civile che la presiede, di tre ingegneri capi del corpo stesso e di un professore di costruzioni di un R. Istituto tecnico del Regno. 
  
- Sono applicabili al detto concorso le disposizioni di cui agli ultimi quattro comma dell'[art. 5 del R. decreto 11 marzo 1920, n. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-03-11;292#art_5).
+ Sono applicabili al detto concorso le disposizioni di cui agli ultimi quattro comma dell'[art. 5 del R. decreto 11 marzo 1920, n. 292](Concernente%20lapplicazione%20dei%20ruoli%20aperti%20al%20personale%20del%20R.%20corpo%20del%20genio%20civile.%20020U0292.md).
 
 ## Art. 7.
 

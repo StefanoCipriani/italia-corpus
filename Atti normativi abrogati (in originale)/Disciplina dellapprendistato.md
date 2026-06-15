@@ -202,7 +202,7 @@ TITOLO SETTIMO
 I datori di lavoro sono puniti:
  a) con l'ammenda da lire 2000 a lire 10 mila per ogni apprendista assunto in contravvenzione all'obbligo previsto dal secondo comma dell'art. 3;
  b) con l'ammenda da lire 1000 a lire 5000 per ogni violazione delle norme dell'art. 11.
- Nelle contravvenzioni previste dalla presente legge il contravventore, prima dell'apertura del dibattimento ovvero prima del decreto di condanna, puo' presentare domanda di oblazione all'Ispettorato del lavoro, che determinera' la somma da pagarsi entro i limiti minimo e massimo dell'ammenda stabilita, prefissando il termine per effettuare il pagamento, a norma dell'[art. 162 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_162).
+ Nelle contravvenzioni previste dalla presente legge il contravventore, prima dell'apertura del dibattimento ovvero prima del decreto di condanna, puo' presentare domanda di oblazione all'Ispettorato del lavoro, che determinera' la somma da pagarsi entro i limiti minimo e massimo dell'ammenda stabilita, prefissando il termine per effettuare il pagamento, a norma dell'[art. 162 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 24.
 
@@ -259,7 +259,7 @@ In relazione all'andamento delle gestioni delle assicurazioni contro le malattie
 
 ### Art. 33.
 
-E' abrogato il [regio decreto-legge 21 settembre 1938, n. 1906](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;1906), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739). 
+E' abrogato il [regio decreto-legge 21 settembre 1938, n. 1906](Disciplina%20dellapprendistato.%20038U1906.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md). 
  E' altresi' abrogata ogni altra disposizione in contrasto o incompatibile con la presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

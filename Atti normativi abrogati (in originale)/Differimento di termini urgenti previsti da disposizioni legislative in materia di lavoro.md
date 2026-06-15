@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Al fine di completare il processo di adeguamento delle dotazioni organiche dei porti alle effettive necessita' dei traffici marittimi, il commissario liquidatore, di cui all'[articolo 4 del decreto-legge 22 gennaio 1990, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6#art_4), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58), provvede alla regolazione dei rapporti finanziari conseguenti all'applicazione del beneficio di cui all'articolo 3, comma 4, dello stesso decreto-legge, il cui termine di scadenza e' differito al 31 dicembre 1992, nel limite di 1.500 unita'.
+Al fine di completare il processo di adeguamento delle dotazioni organiche dei porti alle effettive necessita' dei traffici marittimi, il commissario liquidatore, di cui all'[articolo 4 del decreto-legge 22 gennaio 1990, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6#art_4), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20gennaio%201990%20n.%206%20recante%20soppressione%20del%20Fondo%20gestione%20istituti%20contrattuali%20lavoratori%20portuali%20e%20interventi%20in%20favore%20dei%20_86b6906dc81d.md), provvede alla regolazione dei rapporti finanziari conseguenti all'applicazione del beneficio di cui all'articolo 3, comma 4, dello stesso decreto-legge, il cui termine di scadenza e' differito al 31 dicembre 1992, nel limite di 1.500 unita'.
 
 2.
 
@@ -42,7 +42,7 @@ All'onere di cui al presente articolo, valutato in lire 30 miliardi annui a deco
 
 1.
 
-Il termine previsto dall'[articolo 4, comma 4, del decreto-legge  29 marzo 1991, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-03-29;108#art_4-com4), convertito, con modificazioni, dalla [legge 1 giugno 1991, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169), e' differito al 31 dicembre 1992.
+Il termine previsto dall'[articolo 4, comma 4, del decreto-legge  29 marzo 1991, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-03-29;108#art_4-com4), convertito, con modificazioni, dalla [legge 1 giugno 1991, n. 169](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201991%20n.%20108%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20delloccupazione.md), e' differito al 31 dicembre 1992.
 
 ## Art. 3. — Entrata in vigore
 

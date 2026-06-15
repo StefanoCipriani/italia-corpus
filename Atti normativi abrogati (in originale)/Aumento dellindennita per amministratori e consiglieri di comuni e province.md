@@ -40,7 +40,7 @@ I consigli comunali e provinciali hanno facolta' di adottare le deliberazioni pe
 
 ## Art. 6.
 
-Le variazioni di bilancio per l'anno 1979, ai fini di prevedere la maggiore spesa determinata dall'applicazione della presente legge, devono essere effettuate rispettando i limiti previsti dall'[articolo 4 della legge 21 dicembre 1978, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-21;843#art_4).
+Le variazioni di bilancio per l'anno 1979, ai fini di prevedere la maggiore spesa determinata dall'applicazione della presente legge, devono essere effettuate rispettando i limiti previsti dall'[articolo 4 della legge 21 dicembre 1978, n. 843](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

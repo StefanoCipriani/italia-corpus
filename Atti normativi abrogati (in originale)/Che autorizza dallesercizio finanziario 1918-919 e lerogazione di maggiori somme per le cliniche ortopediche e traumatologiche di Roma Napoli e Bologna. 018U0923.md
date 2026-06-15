@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduta la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738);
+Veduta la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -40,7 +40,7 @@ Con i fondi di cui all'art. 1° sono istituiti tre assegni di direzione di L. 80
 
 ## Art. 4.
 
-Con i fondi anzidetti sono recate alle tabelle I, L, M, allegate al testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795), le seguenti aggiunte: 
+Con i fondi anzidetti sono recate alle tabelle I, L, M, allegate al testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), le seguenti aggiunte: 
  
  TABELLA I: 
  
@@ -48,7 +48,7 @@ Con i fondi anzidetti sono recate alle tabelle I, L, M, allegate al testo unico 
  
  un posto di aiuto (L. 2000) e due di assistenti (L. 3000) per la clinica ortopedica della R. Universita' di Napoli; 
  
- due posti d'aiuto (L. 4000) e due di assistenti (L. 3000) per la clinica ortopedica e traumatologica della R. Universita' di Roma, intendendosi compreso nei due aiuti il posto gia' assegnato alla predetta clinica con il [R. decreto 21 giugno 1914, n. 732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-06-21;732), e per il quale posto e' gia' lo stanziamento in bilancio. 
+ due posti d'aiuto (L. 4000) e due di assistenti (L. 3000) per la clinica ortopedica e traumatologica della R. Universita' di Roma, intendendosi compreso nei due aiuti il posto gia' assegnato alla predetta clinica con il [R. decreto 21 giugno 1914, n. 732](Riguardante%20lassegnazione%20di%20alcuni%20posti%20di%20assistente%20nelle%20Universita%20di%20Roma%20e%20di%20Pisa%20in%20esecuzione%20della%20legge%2022%20giugno%201919%20n.%20780.%20014U0732.md), e per il quale posto e' gia' lo stanziamento in bilancio. 
  
  TABELLA L: 
  

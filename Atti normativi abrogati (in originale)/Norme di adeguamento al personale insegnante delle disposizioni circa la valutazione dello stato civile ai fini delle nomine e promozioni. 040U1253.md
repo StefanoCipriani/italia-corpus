@@ -28,7 +28,7 @@ Nei casi di regificazione di Istituti pareggiati, il personale direttivo e inseg
 
 ## Art. 5.
 
-Nei riguardi del personale insegnante, compresi gli assistenti e gli aiuti universitari assunti nei ruoli governativi a norma dell'art. 132 del testo unico approvato con R. decreto 31 agosto 1933-XI, n. 1592, la valutazione dei servizi di cui all'[art. 3 del R. decreto-legge 9 maggio 1920, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-05-09;749#art_3), convertito in legge con la legge 17 aprile 1925-III, n. 473, agli effetti della promozione di grado, e' subordinata alla qualita' di coniugato o di vedovo, secondo le limitazioni fissate dall'art. 1 del R. decreto-legge 25 febbraio 1939-XVII, n. 335.
+Nei riguardi del personale insegnante, compresi gli assistenti e gli aiuti universitari assunti nei ruoli governativi a norma dell'art. 132 del testo unico approvato con R. decreto 31 agosto 1933-XI, n. 1592, la valutazione dei servizi di cui all'[art. 3 del R. decreto-legge 9 maggio 1920, n. 749](Contenente%20provvedimenti%20per%20il%20rinnovamento%20dei%20servizi%20pregovernativi%20e%20fuori%20ruolo%20degli%20insegnanti%20delle%20scuole%20medie%20e%20normali.%20020U0749.md), convertito in legge con la legge 17 aprile 1925-III, n. 473, agli effetti della promozione di grado, e' subordinata alla qualita' di coniugato o di vedovo, secondo le limitazioni fissate dall'art. 1 del R. decreto-legge 25 febbraio 1939-XVII, n. 335.
 
 ## Art. 6.
 

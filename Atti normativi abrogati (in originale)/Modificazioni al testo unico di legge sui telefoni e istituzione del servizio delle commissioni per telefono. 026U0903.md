@@ -70,11 +70,11 @@ I limiti dell'ammenda fissati dall'[art. 34 del testo unico 3 maggio 1903, n. 19
 
 ## Art. 7.
 
-In conformita' delle disposizioni contenute nei precedenti articoli 5 e 6 si intende variato l'art. 7 ed e' abrogato l'art. 24 del regolamento per la esecuzione del testo unico di legge sui telefoni, approvato con [R. decreto 21 maggio 1903, n. 253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-05-21;253).
+In conformita' delle disposizioni contenute nei precedenti articoli 5 e 6 si intende variato l'art. 7 ed e' abrogato l'art. 24 del regolamento per la esecuzione del testo unico di legge sui telefoni, approvato con [R. decreto 21 maggio 1903, n. 253](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20di%20legge%20sui%20telefoni%20del%203%20maggio%201903%20n.%20196.%20003U0253.md).
 
 ## Art. 8.
 
-I concessionari di impianti telefonici ad uso pubblico, escluse le societa' telefoniche di zona, dovranno, entro il termine di un mese dalla richiesta dell'Amministrazione, integiare i depositi cauzionali gia' costituiti a garanzia dell'esercizio delle concessioni loro accordate, nella misura che sara' insindacabilmente fissata dall'Amministrazione stessa in base alle disposizioni degli articoli 39 e 40 del regolamento per l'esecuzione del testo unico di legge sui telefoni approvato con [R. decreto del 21 maggio 1903, n. 253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-05-21;253), e modificato col [R. decreto 20 dicembre 1906, n. 736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-12-20;736). 
+I concessionari di impianti telefonici ad uso pubblico, escluse le societa' telefoniche di zona, dovranno, entro il termine di un mese dalla richiesta dell'Amministrazione, integiare i depositi cauzionali gia' costituiti a garanzia dell'esercizio delle concessioni loro accordate, nella misura che sara' insindacabilmente fissata dall'Amministrazione stessa in base alle disposizioni degli articoli 39 e 40 del regolamento per l'esecuzione del testo unico di legge sui telefoni approvato con [R. decreto del 21 maggio 1903, n. 253](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20di%20legge%20sui%20telefoni%20del%203%20maggio%201903%20n.%20196.%20003U0253.md), e modificato col [R. decreto 20 dicembre 1906, n. 736](Che%20modifica%20taluni%20articoli%20del%20regolamento%20sui%20telefoni.%20006U0736.md). 
  
  In caso di inadempienza il Governo ha facolta' di procedere alla revoca delle concessioni.
 

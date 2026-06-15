@@ -91,7 +91,7 @@ L'art. 28 del testo unico e' sostituito dal seguente:
 
 L'ultimo comma dell'art. 30 del testo unico e' sostituito dal seguente: 
  
- «L'esattore che imputa tali pagamenti nei suoi crediti privati, compresi tra questi i crediti per indennita' di mora, diritti e spese o che si appropria piu' del dovuto e' soggetto alle pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), qualora abbia agito dolosamente e in ogni altro caso e' soggetto alla pena pecuniaria, fino al decuplo delle somme indebitamente imputate o riscosse».
+ «L'esattore che imputa tali pagamenti nei suoi crediti privati, compresi tra questi i crediti per indennita' di mora, diritti e spese o che si appropria piu' del dovuto e' soggetto alle pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), qualora abbia agito dolosamente e in ogni altro caso e' soggetto alla pena pecuniaria, fino al decuplo delle somme indebitamente imputate o riscosse».
 
 ## Art. 7.
 
@@ -260,9 +260,9 @@ Il Ministro per le finanze su richiesta degli appaltatori interessati puo' autor
 
 ### Art. 26.
 
-Il Governo del Re e' autorizzato a pubblicare un nuovo testo unico di leggi sulla riscossione delle imposte dirette in sostituzione di quello approvato con [R. decreto 17 ottobre 1922, n. 1401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-17;1401), nel quale saranno incluse le disposizioni di legge in vigore, emanate successivamente al decreto stesso, nonche' quelle della legge presente. 
+Il Governo del Re e' autorizzato a pubblicare un nuovo testo unico di leggi sulla riscossione delle imposte dirette in sostituzione di quello approvato con [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), nel quale saranno incluse le disposizioni di legge in vigore, emanate successivamente al decreto stesso, nonche' quelle della legge presente. 
  
- Il Governo del Re, previo parere della Corte dei conti e del Consiglio di Stato e' parimenti autorizzato ad introdurre nel regolamento per l'esecuzione delle leggi sulla riscossione delle imposte dirette approvato con [R. decreto 15 settembre 1923, n. 2090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-15;2090), le modificazioni necessarie per l'esecuzione della presente legge. 
+ Il Governo del Re, previo parere della Corte dei conti e del Consiglio di Stato e' parimenti autorizzato ad introdurre nel regolamento per l'esecuzione delle leggi sulla riscossione delle imposte dirette approvato con [R. decreto 15 settembre 1923, n. 2090](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U2090.md), le modificazioni necessarie per l'esecuzione della presente legge. 
  
  Nulla e' innovato alla delegazione contenuta nell'[art. 62 della legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_62).
 

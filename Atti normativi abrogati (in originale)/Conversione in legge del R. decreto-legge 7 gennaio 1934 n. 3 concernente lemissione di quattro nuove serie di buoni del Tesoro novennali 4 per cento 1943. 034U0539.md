@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 gennaio 1934, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-07;3), concernente l'emissione di quattro nuove serie di buoni del Tesoro novennali 4 per cento, 1943. 
+ E' convertito in legge il [R. decreto-legge 7 gennaio 1934, n. 3](Emissione%20di%20quattro%20serie%20di%20buoni%20novennali%20del%20Tesoro%204%20per%20cento%201943.%20034U0003.md), concernente l'emissione di quattro nuove serie di buoni del Tesoro novennali 4 per cento, 1943. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

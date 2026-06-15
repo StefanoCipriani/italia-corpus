@@ -42,7 +42,7 @@ La misura dell'oblazione, come determinata ai sensi del comma 3, e' elevata di u
 
 5.
 
-La domanda di concessione o di autorizzazione in sanatoria, con la prova del pagamento dell'oblazione deve essere presentata al comune competente, a pena di decadenza, entro la data del 31 ottobre 1994. La documentazione, di cui all'[articolo 35 della legge 28 febbraio 1985, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47#art_35), e' sostituita da apposita dichiarazione del richiedente, resa ai sensi dell'[articolo 4 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_4). Resta ferma, ove prescritto, la necessita' di presentazione della perizia giurata, della certificazione di cui alla lettera b) del terzo comma, nonche' del progetto di adeguamento statico di cui al quinto comma dello stesso articolo 35.
+La domanda di concessione o di autorizzazione in sanatoria, con la prova del pagamento dell'oblazione deve essere presentata al comune competente, a pena di decadenza, entro la data del 31 ottobre 1994. La documentazione, di cui all'[articolo 35 della legge 28 febbraio 1985, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47#art_35), e' sostituita da apposita dichiarazione del richiedente, resa ai sensi dell'[articolo 4 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md). Resta ferma, ove prescritto, la necessita' di presentazione della perizia giurata, della certificazione di cui alla lettera b) del terzo comma, nonche' del progetto di adeguamento statico di cui al quinto comma dello stesso articolo 35.
 
 6.
 
@@ -66,7 +66,7 @@ All'[articolo 32 della legge 28 febbraio 1985, n. 47](https://www.normattiva.it/
 
 11.
 
-All'[articolo 32 della legge 28 febbraio 1985, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47#art_32), dopo il primo comma e' aggiunto il seguente: "Il rilascio della concessione edilizia o della autorizzazione in sanatoria per opere eseguite su immobili soggetti alle [leggi 1 giugno 1939, n. 1089, 29 giugno 1939, n. 1497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-29;1497), ed al [decreto-legge 27 giugno 1985, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-06-27;312), convertito, con modificazioni, dalla [legge 8 agosto 1985, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;431), e' subordinato al parere favorevole della amministrazione preposta alla tutela del vincolo stesso. Qualora tale parere non venga reso entro centoventi giorni dalla domanda il richiedente puo' impugnare il silenzio-rifiuto dell'amministrazione.".
+All'[articolo 32 della legge 28 febbraio 1985, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47#art_32), dopo il primo comma e' aggiunto il seguente: "Il rilascio della concessione edilizia o della autorizzazione in sanatoria per opere eseguite su immobili soggetti alle [leggi 1 giugno 1939, n. 1089, 29 giugno 1939, n. 1497](Protezione%20delle%20bellezze%20naturali.%20039U1497.md), ed al [decreto-legge 27 giugno 1985, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-06-27;312), convertito, con modificazioni, dalla [legge 8 agosto 1985, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;431), e' subordinato al parere favorevole della amministrazione preposta alla tutela del vincolo stesso. Qualora tale parere non venga reso entro centoventi giorni dalla domanda il richiedente puo' impugnare il silenzio-rifiuto dell'amministrazione.".
 
 12.
 
@@ -109,11 +109,11 @@ La concessione di indennizzi, ai sensi della legislazione sulle calamita' natura
 
 9.
 
-Le disposizioni di cui agli articoli 1 e 2 non si applicano a costruzioni abusive realizzate sopra e sotto il soprassuolo boschivo distrutto o danneggiato per cause naturali o atti volontari, fermi restando i divieti previsti nei [commi quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-01;47#art_com4) e [quinto della legge 1 marzo 1975, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-01;47#art_com5), e successive modifiche e integrazioni.
+Le disposizioni di cui agli articoli 1 e 2 non si applicano a costruzioni abusive realizzate sopra e sotto il soprassuolo boschivo distrutto o danneggiato per cause naturali o atti volontari, fermi restando i divieti previsti nei [commi quarto](Norme%20integrative%20per%20la%20difesa%20dei%20boschi%20dagli%20incendi.md) e [quinto della legge 1 marzo 1975, n. 47](Norme%20integrative%20per%20la%20difesa%20dei%20boschi%20dagli%20incendi.md), e successive modifiche e integrazioni.
 
 10.
 
-Ai fini della relazione prevista dal [comma 3 dell'articolo 13 del decreto-legge 12 gennaio 1988, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-01-12;2#art_13-com3), convertito, con modificazioni, dalla [legge 13 marzo 1988, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-13;68), i comuni riferiscono annualmente al Ministero dei lavori pubblici sull'utilizzazione dei fondi di cui al presente articolo.
+Ai fini della relazione prevista dal [comma 3 dell'articolo 13 del decreto-legge 12 gennaio 1988, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-01-12;2#art_13-com3), convertito, con modificazioni, dalla [legge 13 marzo 1988, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20gennaio%201988%20n.%202%20recante%20modifiche%20alla%20legge%2028%20febbraio%201985%20n.%2047%20concernente%20nuove%20norme%20in%20materia%20di%20controllo%20dellattiv_0c7f3886b9c0.md), i comuni riferiscono annualmente al Ministero dei lavori pubblici sull'utilizzazione dei fondi di cui al presente articolo.
 
 ### Art. 3. — Piano di rientro dell'abusivismo di necessita'
 
@@ -133,7 +133,7 @@ Per la realizzazione dei programmi di cui al comma 1 si provvede utilizzando le 
 
 1.
 
-In caso di inadempienze il Ministro dei lavori pubblici, ai fini dell'attuazione di quanto previsto dal presente decreto, su richiesta del sindaco, del comitato regionale di controllo, ai sensi dell'[articolo 48 della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_48), ovvero su segnalazione del prefetto competente per territorio, nomina un commissario ad acta per l'adozione dei provvedimenti di competenza del sindaco.
+In caso di inadempienze il Ministro dei lavori pubblici, ai fini dell'attuazione di quanto previsto dal presente decreto, su richiesta del sindaco, del comitato regionale di controllo, ai sensi dell'[articolo 48 della legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md), ovvero su segnalazione del prefetto competente per territorio, nomina un commissario ad acta per l'adozione dei provvedimenti di competenza del sindaco.
 
 2.
 
@@ -216,7 +216,7 @@ All'articolo 7 dopo il comma quinto e' inserito il seguente: "Salva l'applicazio
 
 4.
 
-All'articolo 9, comma terzo, e' aggiunto, in fine, il seguente periodo: "Quando la restituzione in pristino non sia possibile o non consenta il recupero dei valori tutelati, ferme restando le sanzioni di cui al periodo precedente, l'amministrazione competente impone il pagamento di una indennita' determinata con i criteri e le modalita' previste dalle citate [leggi 1 giugno 1939, n. 1089, e 29 giugno 1939, n. 1497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-29;1497).".
+All'articolo 9, comma terzo, e' aggiunto, in fine, il seguente periodo: "Quando la restituzione in pristino non sia possibile o non consenta il recupero dei valori tutelati, ferme restando le sanzioni di cui al periodo precedente, l'amministrazione competente impone il pagamento di una indennita' determinata con i criteri e le modalita' previste dalle citate [leggi 1 giugno 1939, n. 1089, e 29 giugno 1939, n. 1497](Protezione%20delle%20bellezze%20naturali.%20039U1497.md).".
 
 5.
 
@@ -254,7 +254,7 @@ Per le opere di cui all'[articolo 26 della legge 28 febbraio 1985, n. 47](https:
 
 3.
 
-L'[articolo 4 del decreto-legge 5 ottobre 1993, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398#art_4), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493), e' sostituito dal seguente: 
+L'[articolo 4 del decreto-legge 5 ottobre 1993, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398#art_4), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md), e' sostituito dal seguente: 
  "Art. 4 (Procedure per il rilascio delle concessioni edilizie). - 1. La domanda di concessione edilizia si intende accolta qualora, entro novanta giorni dal termine di cui al comma 3, non venga comunicato all'interessato il provvedimento di diniego. 
  2. Alla domanda di concessione edilizia e' allegata anche una relazione a firma del progettista che asseveri la conformita' degli interventi da realizzare alle prescrizioni urbanistiche ed edilizie, nonche' il rispetto delle norme di sicurezza e sanitarie. 
  3. Al momento della presentazione della domanda di concessione edilizia, l'ufficio abilitato a riceverla comunica all'interessato il nominativo del responsabile del procedimento di cui all'[articolo 4 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_4), e nei successivi quindici giorni richiede all'interessato le eventuali integrazioni documentali. Non possono essere richieste ulteriori integrazioni documentali. 
@@ -268,15 +268,15 @@ L'organo competente all'adozione del provvedimento finale provvede entro i succe
 
 1.
 
-L'Ente nazionale per le strade, ente pubblico economico istituito con [decreto legislativo 26 febbraio 1994, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-02-26;143), assume la denominazione di ANAS.
+L'Ente nazionale per le strade, ente pubblico economico istituito con [decreto legislativo 26 febbraio 1994, n. 143](../Decreti%20Legislativi/Istituzione%20dellEnte%20nazionale%20per%20le%20strade.md), assume la denominazione di ANAS.
 
 2.
 
-In attesa dell'approvazione dello statuto dell'ANAS e della costituzione degli organi statutari, l'amministratore straordinario e' coadiuvato da quattro esperti, nominati con decreto del Ministro dei lavori pubblici, ai quali potranno essere attribuite specifiche deleghe. Il compenso degli esperti e' fissato con le modalita' di cui all'[articolo 11, comma 2, del decreto legislativo 26 febbraio 1994, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-02-26;143#art_11-com2).
+In attesa dell'approvazione dello statuto dell'ANAS e della costituzione degli organi statutari, l'amministratore straordinario e' coadiuvato da quattro esperti, nominati con decreto del Ministro dei lavori pubblici, ai quali potranno essere attribuite specifiche deleghe. Il compenso degli esperti e' fissato con le modalita' di cui all'[articolo 11, comma 2, del decreto legislativo 26 febbraio 1994, n. 143](../Decreti%20Legislativi/Istituzione%20dellEnte%20nazionale%20per%20le%20strade.md).
 
 3.
 
-Sino al termine di cui all'[articolo 11, comma 8, del decreto legislativo 26 febbraio 1994, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-02-26;143#art_11-com8), l'ANAS ha facolta' di assumere, attraverso apposita selezione, con contratto di diritto privato, fino a 25 unita' con qualifica di dirigente tecnico, fino a 15 unita' con qualifica di dirigente amministrativo, fino a 20 unita' con qualifica di funzionario tecnico e fino a 10 unita' con qualifica di funzionario amministrativo. Ai fini della copertura delle assunzioni di cui al presente comma, con decreto del Ministro del tesoro, possono essere apportate variazioni compensative nel bilancio dell'ANAS.
+Sino al termine di cui all'[articolo 11, comma 8, del decreto legislativo 26 febbraio 1994, n. 143](../Decreti%20Legislativi/Istituzione%20dellEnte%20nazionale%20per%20le%20strade.md), l'ANAS ha facolta' di assumere, attraverso apposita selezione, con contratto di diritto privato, fino a 25 unita' con qualifica di dirigente tecnico, fino a 15 unita' con qualifica di dirigente amministrativo, fino a 20 unita' con qualifica di funzionario tecnico e fino a 10 unita' con qualifica di funzionario amministrativo. Ai fini della copertura delle assunzioni di cui al presente comma, con decreto del Ministro del tesoro, possono essere apportate variazioni compensative nel bilancio dell'ANAS.
 
 ### Art. 10. — Entrata in vigore
 

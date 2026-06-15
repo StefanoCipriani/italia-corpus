@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1565), che modifica l'[art. 5 del R. decreto-legge 9 luglio 1926, n. 1271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1271#art_5), riguardante l'istituzione di un ufficio centrale del Dopolavoro postelegrafonico. 
+ E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1565](Modificazione%20dellart.%205%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201271%20riguardante%20la%20istituzione%20di%20un%20ufficio%20centrale%20del%20Dopolavoro%20postelegrafonico.%20027U1565.md), che modifica l'[art. 5 del R. decreto-legge 9 luglio 1926, n. 1271](Istituzione%20di%20un%20Ufficio%20centrale%20del%20Dopolavoro%20postelegrafonico.%20026U1271.md), riguardante l'istituzione di un ufficio centrale del Dopolavoro postelegrafonico. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

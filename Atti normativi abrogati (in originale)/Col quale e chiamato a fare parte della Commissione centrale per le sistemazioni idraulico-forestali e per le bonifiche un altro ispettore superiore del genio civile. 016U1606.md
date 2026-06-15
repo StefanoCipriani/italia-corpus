@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il Nostro decreto 2 dicembre 1915 con cui in attuazione dell'[art. 20 della legge 13 luglio 1911, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;774#art_20) si stabiliva la composizione della Commissione centrale per le sistemazioni idraulico-forestali e per le bonifiche; 
+ Visto il Nostro decreto 2 dicembre 1915 con cui in attuazione dell'[art. 20 della legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md) si stabiliva la composizione della Commissione centrale per le sistemazioni idraulico-forestali e per le bonifiche; 
  
  Ritenuto che il numero e la qualita' degli affari finora demandati allo studio della Commissione hanno dimostrata necessaria la collaborazione di un altro funzionario superiore del genio civile; 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E'convertito in legge il [R. decreto-legge 26 giugno 1927, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-26;1570), relativo al passaggio dell'Ispettorato generale delle ferrovie, tramvie ed automobili dal Ministero dei lavori pubblici a quello delle comunicazioni. 
+ E'convertito in legge il [R. decreto-legge 26 giugno 1927, n. 1570](Passaggio%20dellIspettorato%20generale%20delle%20ferrovie%20tramvie%20ed%20automobili%20dal%20Ministero%20dei%20lavori%20pubblici%20a%20quello%20delle%20comunicazioni.%20027U1570.md), relativo al passaggio dell'Ispettorato generale delle ferrovie, tramvie ed automobili dal Ministero dei lavori pubblici a quello delle comunicazioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi, e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato col [R. decreto 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;693);
+Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato col [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
 
-Visto il regolamento speciale per il personale di 1ª e 2ª categoria dell'Amministrazione delle poste e dei telegrafi, approvato col [R. decreto 16 maggio 1909, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-05-16;341);
+Visto il regolamento speciale per il personale di 1ª e 2ª categoria dell'Amministrazione delle poste e dei telegrafi, approvato col [R. decreto 16 maggio 1909, n. 341](Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md);
 
-Visto il regolamento speciale per il personale dell'Amministrazione dei telefoni, approvato col [R. decreto 16 maggio 1912, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;574), modificato col [R. decreto 6 aprile 1913, n. 462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-04-06;462);
+Visto il regolamento speciale per il personale dell'Amministrazione dei telefoni, approvato col [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), modificato col [R. decreto 6 aprile 1913, n. 462](Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md);
 
 Visto il [decreto Luogotenenziale del 25 luglio 1915, n. 1403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-25;1403);
 
@@ -32,7 +32,7 @@ Visti i [decreti Luogotenenziali 3 dicembre 1916, n. 1659](https://www.normattiv
 
 Visto il [decreto Luogotenenziale 21 febbraio 1917, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-02-21;421), contenente norme per le promozioni, durante la guerra, al grado di archivista ed a quello di capo ufficio nell'Amministrazione delle poste e dei telegrafi;
 
-Viste le [leggi 19 luglio 1907, n. 515; 19 luglio 1909, n. 528, e 25 giugno 1911, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;575);
+Viste le [leggi 19 luglio 1907, n. 515; 19 luglio 1909, n. 528, e 25 giugno 1911, n. 575](Per%20i%20provvedimenti%20relativi%20agli%20anziani%20ed%20allelevazione%20dei%20minimi%20di%20stipendio%20del%20personale%20dipendente%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20011U0575.md);
 
 Udito il Consiglio dei ministri;
 
@@ -44,11 +44,11 @@ Le promozioni al grado di capo ufficio e applicato principale nella Amministrazi
 
 ## Art. 2.
 
-Per ottenere la promozione al grado di capo ufficio o applicato principale, gli impiegati debbono avere l'anzianita' o lo stipendio richiesti dal comma 2°, 3° e 4° dell'articolo 13 del regolamento approvato con [Regio decreto 16 maggio 1909, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-05-16;341), modificato con l'[articolo 1 del Regio decreto 25 luglio 1915, n. 1403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-07-25;1403#art_1), e richiesti dal penultimo ed ultimo capoverso dell'articolo 14 del regolamento approvato con [Regio decreto 16 maggio 1912, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;574), modificato con l'articolo 2 del sopra citato decreto n. 1403. 
+Per ottenere la promozione al grado di capo ufficio o applicato principale, gli impiegati debbono avere l'anzianita' o lo stipendio richiesti dal comma 2°, 3° e 4° dell'articolo 13 del regolamento approvato con [Regio decreto 16 maggio 1909, n. 341](Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md), modificato con l'[articolo 1 del Regio decreto 25 luglio 1915, n. 1403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-07-25;1403#art_1), e richiesti dal penultimo ed ultimo capoverso dell'articolo 14 del regolamento approvato con [Regio decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), modificato con l'articolo 2 del sopra citato decreto n. 1403. 
  
  Possono ottenere la promozione anche coloro che conseguirono lo stipendio di L. 3000 posteriormente al 5 luglio 1913. 
  
- Agli effetti del presente articolo, gli stipendi si calcolano in base alle tabelle annesse alla [legge 25 giugno 1911, n. 575 e 27 aprile 1916, n. 465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-27;465), esclusi quindi gli aumenti derivanti dai [decreti Luogotenenziali 10 febbraio 1918, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;107) e [26 gennaio 1919, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-01-26;66).
+ Agli effetti del presente articolo, gli stipendi si calcolano in base alle tabelle annesse alla [legge 25 giugno 1911, n. 575 e 27 aprile 1916, n. 465](Che%20porta%20semplificazioni%20nel%20ruolo%20organico%20della%20Direzione%20generale%20dei%20telefoni.%20016U0465.md), esclusi quindi gli aumenti derivanti dai [decreti Luogotenenziali 10 febbraio 1918, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;107) e [26 gennaio 1919, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-01-26;66).
 
 ## Art. 3.
 

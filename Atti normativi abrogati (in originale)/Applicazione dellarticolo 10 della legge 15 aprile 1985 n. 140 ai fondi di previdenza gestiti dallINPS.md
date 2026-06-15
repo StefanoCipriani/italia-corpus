@@ -154,7 +154,7 @@ Gli aumenti di cui al presente articolo sono soggetti alla disciplina della pere
 
 6.
 
-Gli oneri derivanti dai miglioramenti delle pensioni di cui al presente articolo, valutati in lire 12,6 miliardi per l'anno 1987, in lire 17,9 miliardi per l'anno 1988 e in lire 9,4 miliardi a decorrere dal 1989, sono posti a carico dello Stato ai sensi dell'[articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;649#art_17).
+Gli oneri derivanti dai miglioramenti delle pensioni di cui al presente articolo, valutati in lire 12,6 miliardi per l'anno 1987, in lire 17,9 miliardi per l'anno 1988 e in lire 9,4 miliardi a decorrere dal 1989, sono posti a carico dello Stato ai sensi dell'[articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 649](../DPR/Norme%20concernenti%20i%20servizi%20ed%20il%20personale%20delle%20abolite%20imposte%20di%20consumo.md).
 
 ## Art. 6. — Fondo di previdenza per il personale di volo dipendente da aziende di navigazione aerea
 

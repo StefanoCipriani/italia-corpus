@@ -14,7 +14,7 @@ Visto l'[art. 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Vista la [legge 19 novembre 1968, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-11-19;1187);
 
-Vista la [legge 30 novembre 1973, n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;756);
+Vista la [legge 30 novembre 1973, n. 756](Proroga%20dellefficacia%20della%20legge%2019%20novembre%201968%20n.%201187%20concernente%20la%20materia%20urbanistica.md);
 
 Ritenuta la necessita' e l'urgenza di assicurare l'efficacia delle indicazioni dei piani regolatori generali e dei programmi di fabbricazione nella parte in cui incidono su beni determinati ed assoggettano i beni stessi a vincoli predisposti all'espropriazione o a vincoli che comportino l'inedificabilita', in pendenza dell'approvazione da parte del Parlamento del disegno di legge concernente la edificabilita' dei suoli presentato dal Governo;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per i lavori pubblici, di concerto col Ministro per 
 
 ## Art. 1.
 
-Il termine massimo di un anno di cui alla [legge 22 dicembre 1975, n. 696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;696), e' prorogato di due mesi.
+Il termine massimo di un anno di cui alla [legge 22 dicembre 1975, n. 696](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2029%20novembre%201975%20n.%20562%20concernente%20ulteriore%20proroga%20dellefficacia%20della%20legge%2019%20novembre%201968%20n.%201187%20concernente%20materia%20urbanistica.md), e' prorogato di due mesi.
 
 ## Art. 2.
 

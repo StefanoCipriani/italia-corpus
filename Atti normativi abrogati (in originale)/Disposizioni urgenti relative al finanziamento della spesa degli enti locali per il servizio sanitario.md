@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77);
 
-Ritenuta la necessita' e l'urgenza di assicurare, per l'anno 1979, la continuita' dell'intervento delle province, dei comuni e loro consorzi nel settore sanitario con stanziamenti di spesa determinati nell'ambito delle disposizioni in materia di finanza locale, di cui alla [legge 21 dicembre 1978, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-21;843);
+Ritenuta la necessita' e l'urgenza di assicurare, per l'anno 1979, la continuita' dell'intervento delle province, dei comuni e loro consorzi nel settore sanitario con stanziamenti di spesa determinati nell'ambito delle disposizioni in materia di finanza locale, di cui alla [legge 21 dicembre 1978, n. 843](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -21,7 +21,7 @@ Sulla proposta del Ministro del tesoro, di concerto con i Ministri della sanita'
 ## Art. 1.
 
 Per l'anno 1979 la norma di cui all'[art. 69 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_69), non si applica nei confronti delle province, comuni e loro consorzi.
- In deroga all'art. 52 della stessa [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), per l'anno 1979 il fabbisogno finanziario dell'assistenza sanitaria delle province, comuni e loro consorzi resta assicurato nell'ambito delle disposizioni in materia di finanza locale dettate dalla [legge 21 dicembre 1978, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-21;843).
+ In deroga all'art. 52 della stessa [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), per l'anno 1979 il fabbisogno finanziario dell'assistenza sanitaria delle province, comuni e loro consorzi resta assicurato nell'ambito delle disposizioni in materia di finanza locale dettate dalla [legge 21 dicembre 1978, n. 843](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria.md).
 
 ## Art. 2.
 

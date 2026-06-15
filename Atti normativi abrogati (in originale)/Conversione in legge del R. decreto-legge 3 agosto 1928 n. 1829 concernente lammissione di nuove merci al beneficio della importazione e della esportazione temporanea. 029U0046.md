@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-03;1829), concernente l'ammissione di nuove merci al beneficio della importazione e della esportazione temporanea. 
+ E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1829](Ammissione%20di%20nuove%20merci%20al%20beneficio%20della%20importazione%20e%20della%20esportazione%20temporanea.%20028U1829.md), concernente l'ammissione di nuove merci al beneficio della importazione e della esportazione temporanea. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

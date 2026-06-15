@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di prorogare le graduatorie per le supplenze nelle accademie e nei conservatori di musica, scadute con l'anno scolastico 1991-1992, considerato che non e' stato possibile provvedere, a causa delle difficolta' insorte nell'interpretazione delle norme di cui al [decreto-legge 6 novembre 1989, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-11-06;357), convertito, con modificazioni, dalla [legge 27 dicembre 1989, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417), alla formazione delle nuove graduatorie per l'anno scolastico 1992-1993;
+Ritenuta la straordinaria necessita' ed urgenza di prorogare le graduatorie per le supplenze nelle accademie e nei conservatori di musica, scadute con l'anno scolastico 1991-1992, considerato che non e' stato possibile provvedere, a causa delle difficolta' insorte nell'interpretazione delle norme di cui al [decreto-legge 6 novembre 1989, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-11-06;357), convertito, con modificazioni, dalla [legge 27 dicembre 1989, n. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md), alla formazione delle nuove graduatorie per l'anno scolastico 1992-1993;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 ottobre 1992;
 
@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Le graduatorie degli aspiranti a supplenza nelle accademie e nei conservatori di musica per gli anni scolastici 1989-1990 e 1990-1991, gia' prorogate per l'anno scolastico 1991-1992 con l'[articolo 1, comma 1, del decreto-legge 6 giugno 1991, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-06-06;172#art_1-com1), convertito, con modificazioni, dalla [legge 6 agosto 1991, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-06;244), mantengono la loro validita' anche per l'anno 1992-1993.
+Le graduatorie degli aspiranti a supplenza nelle accademie e nei conservatori di musica per gli anni scolastici 1989-1990 e 1990-1991, gia' prorogate per l'anno scolastico 1991-1992 con l'[articolo 1, comma 1, del decreto-legge 6 giugno 1991, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-06-06;172#art_1-com1), convertito, con modificazioni, dalla [legge 6 agosto 1991, n. 244](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20giugno%201991%20n.%20172%20recante%20disposizioni%20urgenti%20per%20assicurare%20lordinato%20svolgimento%20delle%20operazioni%20preordinate%20allavvio%20della_9619f69e4437.md), mantengono la loro validita' anche per l'anno 1992-1993.
 
 ## Art. 2.
 

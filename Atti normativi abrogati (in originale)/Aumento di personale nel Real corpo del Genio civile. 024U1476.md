@@ -10,41 +10,41 @@ vigente: true
 
 ## Art. 1.
 
-A decorrere dal 1° ottobre 1924, la tabella n. 49 alleg. II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e' sostituita da quella allegata al presente decreto, vistata, d'ordine Nostro, dai Ministri proponenti.
+A decorrere dal 1° ottobre 1924, la tabella n. 49 alleg. II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' sostituita da quella allegata al presente decreto, vistata, d'ordine Nostro, dai Ministri proponenti.
 
 ## Art. 2.
 
-Nella prima attuazione del [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), i posti del grado ottavo del ruolo del personale del Genio civile gruppo A (Ingegneri principali di sezione) sono conferiti, secondo l'ordine di anzianita', agli attuali ingegneri principali, i quali, prima dell'applicazione dei ruoli aperti, erano ingegneri di 1ª classe. Essi saranno collocati nel detto grado con anzianita' decorrente dalla data di nomina ad ingegnere di 1ª classe col beneficio di cui al [2° comma dell'art. 40 del R. decreto-legge 23 ottobre 1919, n. 1971](Che%20regola%20lo%20stato%20giuridico%20ed%20economico%20del%20personale%20delle%20Amministrazioni%20centrali%20dello%20Stato.%20019U1971.md), calcolando l'arrotondamento sull'anzianita' di grado e di classe valutata al 1° dicembre 1919 e con i benefici eventualmente spettanti ai sensi del [3° comma dell'art. 49 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_49-com3). 
+Nella prima attuazione del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), i posti del grado ottavo del ruolo del personale del Genio civile gruppo A (Ingegneri principali di sezione) sono conferiti, secondo l'ordine di anzianita', agli attuali ingegneri principali, i quali, prima dell'applicazione dei ruoli aperti, erano ingegneri di 1ª classe. Essi saranno collocati nel detto grado con anzianita' decorrente dalla data di nomina ad ingegnere di 1ª classe col beneficio di cui al [2° comma dell'art. 40 del R. decreto-legge 23 ottobre 1919, n. 1971](Che%20regola%20lo%20stato%20giuridico%20ed%20economico%20del%20personale%20delle%20Amministrazioni%20centrali%20dello%20Stato.%20019U1971.md), calcolando l'arrotondamento sull'anzianita' di grado e di classe valutata al 1° dicembre 1919 e con i benefici eventualmente spettanti ai sensi del [3° comma dell'art. 49 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
- Per le promozioni al grado 7° si applicano le norme contenute nell'[art. 6 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_6) e negli [articoli 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3084#art_47) e [54 del R. decreto 30 dicembre 1923, n. 3084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3084#art_54).
+ Per le promozioni al grado 7° si applicano le norme contenute nell'[art. 6 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e negli [articoli 47](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md) e [54 del R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md).
 
 ## Art. 3.
 
-Nella prima attuazione ed entro tre anni dall'entrata in vigore del [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), i posti di geometra capo del Genio civile possono essere conferiti per merito comparativo ai funzionari del grado nono dello stesso ruolo, che abbiano complessivamente, nei gradi nono e decimo, quattro anni di effettivo servizio.
+Nella prima attuazione ed entro tre anni dall'entrata in vigore del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), i posti di geometra capo del Genio civile possono essere conferiti per merito comparativo ai funzionari del grado nono dello stesso ruolo, che abbiano complessivamente, nei gradi nono e decimo, quattro anni di effettivo servizio.
 
 ## Art. 4.
 
-Agli effetti dell'[art. 33 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_33), il grado attuale di disegnatore corrisponde all'undecimo. 
+Agli effetti dell'[art. 33 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), il grado attuale di disegnatore corrisponde all'undecimo. 
  
  Tale disposizione avra' effetto dal 1° dicembre 1923.
 
 ## Art. 5.
 
-Nella prima attuazione ed entro tre anni dall'entrata in vigore del [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), le promozioni al grado decimo nei ruoli dei personali dei disegnatori e degli assistenti del Genio civile e degli ufficiali idraulici e di bonifica, appartenenti al gruppo C, di cui alla tabella n. 49 dell'allegato II al decreto stesso, sono conferiti in ragione: 
+Nella prima attuazione ed entro tre anni dall'entrata in vigore del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), le promozioni al grado decimo nei ruoli dei personali dei disegnatori e degli assistenti del Genio civile e degli ufficiali idraulici e di bonifica, appartenenti al gruppo C, di cui alla tabella n. 49 dell'allegato II al decreto stesso, sono conferiti in ragione: 
  
- a) di un pasto, in base ad apposita graduatoria di merito da formarsi dal Consiglio di amministrazione, fra gli impiegati dei gradi inferiori aventi sei anni di servizio, valutati giusta l'art. 22, 2° comma del [R. decreto 30 dicembre 1923, n. 3084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3084); 
+ a) di un pasto, in base ad apposita graduatoria di merito da formarsi dal Consiglio di amministrazione, fra gli impiegati dei gradi inferiori aventi sei anni di servizio, valutati giusta l'art. 22, 2° comma del [R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md); 
  
  b) di due posti, per anzianita' congiunta al merito, agli impiegati dei gradi inferiori aventi sei anni di servizio, valutati nel modo suindicato. 
  
- E' abrogato il [2° comma dell'art. 83 del R. decreto 30 dicembre 1923, n. 3084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3084#art_83-com2).
+ E' abrogato il [2° comma dell'art. 83 del R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md).
 
 ## Art. 6.
 
-Nella prima attuazione ed entro tre anni dall'entrata in vigore del [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), le promozioni al grado undecimo nei ruoli dei personali degli assistenti del Genio civile e degli ufficiali idraulici e di bonifica, appartenenti al gruppo C, di cui alla tabella n. 49 dell'allegato II al decreto stesso, sono conferiti, per merito comparativo, su designazione del Consiglio di amministrazione, agli impiegati del grado immediatamente inferiore dello stesso ruolo che abbiano compiuto quattro anni di effettivo servizio nel grado medesimo.
+Nella prima attuazione ed entro tre anni dall'entrata in vigore del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), le promozioni al grado undecimo nei ruoli dei personali degli assistenti del Genio civile e degli ufficiali idraulici e di bonifica, appartenenti al gruppo C, di cui alla tabella n. 49 dell'allegato II al decreto stesso, sono conferiti, per merito comparativo, su designazione del Consiglio di amministrazione, agli impiegati del grado immediatamente inferiore dello stesso ruolo che abbiano compiuto quattro anni di effettivo servizio nel grado medesimo.
 
 ## Art. 7.
 
-Agli impiegati, provenienti dai rubli di cui alla [legge 3 marzo 1904, n. 66](Che%20stabilisce%20i%20ruoli%20organici%20del%20Ministero%20dei%20Lavori%20Pubblici.%20004U0066.md), e successive modificazioni, inscritti nei ruoli ordinari dei disegnatori e degli assistenti del Genio civile per effetto del [R. decreto 21 gennaio 1923, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-21;238), e' attribuita un'anzianita' decorrente dal 1° luglio 1920 agli effetti della determinazione del periodo di servizio o di anzianita' richiesto pel collocamento nei singoli gradi e per le successive promozioni.
+Agli impiegati, provenienti dai rubli di cui alla [legge 3 marzo 1904, n. 66](Che%20stabilisce%20i%20ruoli%20organici%20del%20Ministero%20dei%20Lavori%20Pubblici.%20004U0066.md), e successive modificazioni, inscritti nei ruoli ordinari dei disegnatori e degli assistenti del Genio civile per effetto del [R. decreto 21 gennaio 1923, n. 238](Che%20approva%20le%20nuove%20tabelle%20per%20la%20sistemazione%20del%20personale%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici.%20023U0238.md), e' attribuita un'anzianita' decorrente dal 1° luglio 1920 agli effetti della determinazione del periodo di servizio o di anzianita' richiesto pel collocamento nei singoli gradi e per le successive promozioni.
 
 ## Art. 8.
 

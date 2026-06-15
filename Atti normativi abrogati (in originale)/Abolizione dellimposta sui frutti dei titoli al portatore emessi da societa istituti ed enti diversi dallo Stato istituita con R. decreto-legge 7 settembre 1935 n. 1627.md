@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'imposta sui frutti dei titoli istituita col [R. decretolegge 7 settembre 1935, n. 1627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-07;1627), convertito nella [legge 13 gennaio 1936, n. 76](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%207%20settembre%201935-XIII%20n.%201627%20concernente%20listituzione%20di%20una%20imposta%20del%2010%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20socie_c6b003ff42a4.md), e successive modificazioni, cessa di avere applicazione per i frutti relativi agli esercizi chiusi dopo la data di entrata in vigore del presente decreto.
+L'imposta sui frutti dei titoli istituita col [R. decretolegge 7 settembre 1935, n. 1627](Istituzione%20di%20una%20imposta%20del%2010%20per%20cento%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20societa%20istituti%20ed%20enti%20diversi%20dallo%20Stato.%20035U1627.md), convertito nella [legge 13 gennaio 1936, n. 76](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%207%20settembre%201935-XIII%20n.%201627%20concernente%20listituzione%20di%20una%20imposta%20del%2010%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20socie_c6b003ff42a4.md), e successive modificazioni, cessa di avere applicazione per i frutti relativi agli esercizi chiusi dopo la data di entrata in vigore del presente decreto.
 
 ## Art. 2.
 

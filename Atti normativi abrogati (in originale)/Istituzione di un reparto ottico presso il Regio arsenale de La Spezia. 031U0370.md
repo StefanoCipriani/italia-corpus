@@ -22,7 +22,7 @@ Presso lo stesso Regio arsenale militare marittimo e' istituito un «ufficio stu
 
 ## Art. 3.
 
-Il posto di direttore del laboratorio ottico presso il Regio arsenale de La Spezia, istituito col [R. decreto-legge 7 febbraio 1926, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-07;203), e' soppresso. 
+Il posto di direttore del laboratorio ottico presso il Regio arsenale de La Spezia, istituito col [R. decreto-legge 7 febbraio 1926, n. 203](Istituzione%20di%20un%20posto%20di%20direttore%20del%20Laboratorio%20ottico%20presso%20il%20Regio%20arsenale%20di%20Spezia.%20026U0203.md), e' soppresso. 
  
  E' istituito, presso lo stesso Regio arsenale, il posto di capo dell'Ufficio studi e ricerche ottico-scientifiche, appartenente al gruppo A, grado 8°, dell'ordinamento gerarchico.
 

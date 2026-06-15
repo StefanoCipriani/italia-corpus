@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 16 luglio 1914, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;665)
+Vista la [legge 16 luglio 1914, n. 665](Riguardante%20provvedimenti%20a%20favore%20della%20Sardegna.%20014U0665.md)
 
 Visto il [decreto Luogotenenziale n. 911 del 24 giugno 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-24;911);
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-E' prorogata sino a completa erogazione delle somme stanziate la concessione dei mutui di favore di cui agli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;665#art_8),[9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;665#art_9) e [10 della legge 16 luglio 1914, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;665#art_10).
+E' prorogata sino a completa erogazione delle somme stanziate la concessione dei mutui di favore di cui agli [articoli 8](Riguardante%20provvedimenti%20a%20favore%20della%20Sardegna.%20014U0665.md),[9](Riguardante%20provvedimenti%20a%20favore%20della%20Sardegna.%20014U0665.md) e [10 della legge 16 luglio 1914, n. 665](Riguardante%20provvedimenti%20a%20favore%20della%20Sardegna.%20014U0665.md).
 
 ## Art. 2.
 

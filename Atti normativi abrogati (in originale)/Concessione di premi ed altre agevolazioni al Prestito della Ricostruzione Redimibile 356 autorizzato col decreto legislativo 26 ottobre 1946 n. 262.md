@@ -14,7 +14,7 @@ Visto il [decreto legislativo del Capo provvisorio dello Stato 26 ottobre 1946, 
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -33,7 +33,7 @@ Il Prestito della Ricostruzione Redimibile 3,50%, autorizzato col [decreto legis
 ## Art. 2.
 
 Relativamente ai buoni del Tesoro novennali 5% di scadenza 15 febbraio 1949 e 15 febbraio 1950, che saranno versati in sottoscrizione al Prestito della Ricostruzione e' consentito utilizzare anche i premi attribuiti ai buoni stessi rispettivamente nella 14ª e 12ª estrazione, i quali sarebbero pagabili col 15ª febbraio 1947.
- Paramenti, in deroga al disposto dell'[art. 2 del decreto legislativo luogotenenziale 23 marzo 1946, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-23;287#art_2), potranno essere versati in sottoscrizione, dal giorno della pubblicazione del relativo bollettino, i premi che saranno attribuiti nella prima estrazione da eseguirsi per i buoni del Tesoro quinquennali 5% di scadenza 1° aprile 1950, nonche' quelli che, eventualmente entro il periodo della sottoscrizione, potranno essere sorteggiati per i buoni del Tesoro novennali 5% di scadenza 15 settembre 1951.
+ Paramenti, in deroga al disposto dell'[art. 2 del decreto legislativo luogotenenziale 23 marzo 1946, n. 287](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20la%20sistemazione%20dei%20sorteggi%20effettuati%20dopo%20l8%20settembre%201943%20per%20lammortamento%20dei%20prestiti%20redimibili%20e%20per%20lassegnazione%20dei%20premi%20ai%20buoni%20del%20Tesoro%20poliennali.md), potranno essere versati in sottoscrizione, dal giorno della pubblicazione del relativo bollettino, i premi che saranno attribuiti nella prima estrazione da eseguirsi per i buoni del Tesoro quinquennali 5% di scadenza 1° aprile 1950, nonche' quelli che, eventualmente entro il periodo della sottoscrizione, potranno essere sorteggiati per i buoni del Tesoro novennali 5% di scadenza 15 settembre 1951.
 
 ## Art. 3.
 

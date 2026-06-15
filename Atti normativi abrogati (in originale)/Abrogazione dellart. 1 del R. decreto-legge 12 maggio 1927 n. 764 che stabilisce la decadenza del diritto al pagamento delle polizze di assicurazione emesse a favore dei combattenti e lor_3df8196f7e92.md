@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'[art. 1 del R. decreto-legge 12 maggio 1927, n. 764](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-12;764#art_1), convertito in legge con la [legge 22 dicembre 1927, n. 2400](Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20maggio%201927%20n.%20764%20recante%20norme%20intese%20a%20regolare%20e%20facilitare%20in%20casi%20speciali%20il%20pagamento%20delle%20polizze%20gratuite%20di%20assicurazione%20emesse%20a_52232b1e7ffb.md), abrogato. 
+ L'[art. 1 del R. decreto-legge 12 maggio 1927, n. 764](Norme%20intese%20a%20regolare%20e%20facilitare%20in%20casi%20speciali%20il%20pagamento%20delle%20polizze%20gratuite%20di%20assicurazione%20emesse%20a%20favore%20dei%20combattenti%20e%20loro%20superstiti.%20027U0764.md), convertito in legge con la [legge 22 dicembre 1927, n. 2400](Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20maggio%201927%20n.%20764%20recante%20norme%20intese%20a%20regolare%20e%20facilitare%20in%20casi%20speciali%20il%20pagamento%20delle%20polizze%20gratuite%20di%20assicurazione%20emesse%20a_52232b1e7ffb.md), abrogato. 
  
  I diritti caduti in prescrizione per effetto del predetto articolo, sono ripristinati. 
  

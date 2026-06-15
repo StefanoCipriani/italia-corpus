@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 25 giugno 1909, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422), ed il relativo regolamento approvato con [R. decreto 12 febbraio 1911, n. 278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;278);
+Vista la [legge 25 giugno 1909, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422), ed il relativo regolamento approvato con [R. decreto 12 febbraio 1911, n. 278](Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md);
 
 Visto il il decreto 8 febbraio 1923, n. 422;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per i lavori pubblici, di concerto con i Ministri pe
 
 ## Art. 1.
 
-A modifica di quanto dispone l'[art. 7 del R. decreto 8 febbraio 1923, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;422#art_7), l'importo massimo degli appalti che possono affidarsi per licitazione o trattativa privata a Societa' cooperative di produzione e lavoro od a Cooperative agricole di produzione ed a Consorzi di cooperative, e' rispettivamente elevato a lire 5 milioni ed a lire 25 milioni.
+A modifica di quanto dispone l'[art. 7 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), l'importo massimo degli appalti che possono affidarsi per licitazione o trattativa privata a Societa' cooperative di produzione e lavoro od a Cooperative agricole di produzione ed a Consorzi di cooperative, e' rispettivamente elevato a lire 5 milioni ed a lire 25 milioni.
 
 ## Art. 2.
 

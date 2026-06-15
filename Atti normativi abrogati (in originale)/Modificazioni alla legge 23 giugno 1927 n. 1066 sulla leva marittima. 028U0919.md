@@ -24,7 +24,7 @@ L'art. 1 e' abrogato e sostituito dal seguente:
  
  «Non sono soggetti alla leva coloro che posseggono la cittadinanza italiana non comprendente il godimento dei diritti politici. 
  
- « Non sono soggetti alla leva coloro che, in applicazione del [R. decreto-legge n. 1387 del 10 settembre 1922](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-09-10;1387), abbiano acquistato la cittadinanza italiana senza obblighi di servizio militare, salvo quanto e' disposto pei loro figli e discendenti dal [R. decreto-legge n. 1418 del 14 giugno 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-14;1418). 
+ « Non sono soggetti alla leva coloro che, in applicazione del [R. decreto-legge n. 1387 del 10 settembre 1922](Che%20reca%20disposizioni%20per%20la%20concessione%20della%20cittadinanza%20italiana%20a%20talune%20categorie%20di%20persone.%20022U1387.md), abbiano acquistato la cittadinanza italiana senza obblighi di servizio militare, salvo quanto e' disposto pei loro figli e discendenti dal [R. decreto-legge n. 1418 del 14 giugno 1923](Modificazione%20del%20R.%20decreto%20legge%2010%20settembre%201922%20n.%201387.%20Stabilisce%20che%20la%20cittadinanza%20ai%20sensi%20ed%20alle%20condizioni%20di%20cui%20nel%20decreto-legge%20medesimo%20puo%20essere%20conferita%20per%20decreto_94f213f0743a.md). 
  
  « Cosi' pure non vi sono soggetti i cittadini italiani delle isole dell'Egeo e quelli delle Colonie italiane, giusta le leggi ad essi relative ».
 
@@ -76,7 +76,7 @@ Dopo l'art. 39 e' inserito il seguente art. 39-bis:
  
  « 3° - Gli inscritti che abbiano simulato infermita' od imperfezioni al fine di conseguire la riforma ; 
  
- « 4° - I militari che, a termini del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo, siano incorsi nel reato di diserzione ».
+ « 4° - I militari che, a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, siano incorsi nel reato di diserzione ».
 
 ## Art. 10.
 

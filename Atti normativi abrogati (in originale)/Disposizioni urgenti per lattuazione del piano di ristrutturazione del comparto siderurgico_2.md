@@ -67,7 +67,7 @@ Per le finalita' di cui al comma 2, lettere a) e b), sono altresi' parzialmente 
 8.
 
 Per le finalita' di cui al comma 2, lettera c), sono utilizzate, per lire 40 miliardi, le disponiblita' esistenti sul conto corrente infruttifero aperto presso il Mediocredito centrale n. 760/22014 e intestato al Mediocredito centrale ai sensi del [decreto-legge 6 febbraio 1986, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-02-06;20), convertito, con modificazioni, dalla [legge 2 
-aprile 1986, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-04-02;88).
+aprile 1986, n. 88](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201986%20n.%2020%20recante%20misure%20urgenti%20per%20il%20settore%20siderurgico.md).
 
 9.
 

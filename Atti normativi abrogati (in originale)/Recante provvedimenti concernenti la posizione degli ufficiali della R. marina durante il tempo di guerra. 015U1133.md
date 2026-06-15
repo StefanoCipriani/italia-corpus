@@ -18,9 +18,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-In virtu' dell'autorita' a Noi delegata, e delle facolta' consentite al R. Governo dalla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In virtu' dell'autorita' a Noi delegata, e delle facolta' consentite al R. Governo dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visto l'ultimo comma dell'[art. 6 della legge 29 gennaio 1885, n. 2897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-29;2897#art_6), che sospende durante il tempo di guerra l'applicazione dei limiti di eta' stabiliti dall'articolo stesso per il collocamento in posizione ausiliaria degli ufficiali di vascello;
+Visto l'ultimo comma dell'[art. 6 della legge 29 gennaio 1885, n. 2897](Che%20stabilisce%20per%20gli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marineria%20la%20posizione%20di%20servizio%20ausiliario.%20085U2897.md), che sospende durante il tempo di guerra l'applicazione dei limiti di eta' stabiliti dall'articolo stesso per il collocamento in posizione ausiliaria degli ufficiali di vascello;
 
 Visti gli [articoli 16 della legge 6 marzo 1898, n. 59, 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;3#art_16) della [legge 27 marzo 1904, n. 114 e 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-27;1)° della [legge 13 luglio 1910, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;340), che estendono la suindicata disposizione agli ufficiali degli altri corpi della R. marina;
 

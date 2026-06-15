@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 aprile 1928, n. 997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-04-15;997), recante norme per la corresponsione dei compensi daziari di costruzione alle navi mercantili nazionali. 
+ E' convertito in legge il [R. decreto-legge 15 aprile 1928, n. 997](Norme%20per%20la%20corresponsione%20dei%20compensi%20daziari%20di%20costruzione%20di%20navi%20mercantili.%20028U0997.md), recante norme per la corresponsione dei compensi daziari di costruzione alle navi mercantili nazionali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

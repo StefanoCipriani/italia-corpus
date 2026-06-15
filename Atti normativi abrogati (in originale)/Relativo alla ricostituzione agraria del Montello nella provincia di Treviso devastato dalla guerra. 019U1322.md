@@ -20,9 +20,9 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 21 febbraio 1892, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-02-21;57), che dichiara alienabile il bosco demaniale inalienabile Montello nella provincia di Treviso;
+Vista la [legge 21 febbraio 1892, n. 57](Che%20dichiara%20alienabile%20il%20bosco%20demaniale%20di%20Montello%20Treviso%20e%20ne%20autorizza%20la%20vendita%20e%20la%20concessione.%20092U0057.md), che dichiara alienabile il bosco demaniale inalienabile Montello nella provincia di Treviso;
 
-Vista la [legge 15 febbraio 1900, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-02-15;51), portante disposizioni per la cessione definitiva del bosco anzidetto;
+Vista la [legge 15 febbraio 1900, n. 51](Circa%20disposizioni%20per%20la%20concessione%20definitiva%20delle%20terre%20del%20Montello%20nella%20provincia%20di%20Treviso.%20000U0051.md), portante disposizioni per la cessione definitiva del bosco anzidetto;
 
 Visto il [testo unico 10 novembre 1905, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-11-10;647), delle leggi sul bonificamento dell'Agro romano;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-A modificazione dell'[art. 8 della legge 15 febbraio 1900, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-02-15;51#art_8), portante disposizioni per la cessione definitiva delle terre di Montello e dell'art. 40 del testo unico delle leggi sul bonificamento dell'Agro romano 10 novembre 1905, n. 647, i residui capitali della Cassa montelliana sono devoluti alla ricostituzione agraria del Montello, devastato dalla guerra.
+A modificazione dell'[art. 8 della legge 15 febbraio 1900, n. 51](Circa%20disposizioni%20per%20la%20concessione%20definitiva%20delle%20terre%20del%20Montello%20nella%20provincia%20di%20Treviso.%20000U0051.md), portante disposizioni per la cessione definitiva delle terre di Montello e dell'art. 40 del testo unico delle leggi sul bonificamento dell'Agro romano 10 novembre 1905, n. 647, i residui capitali della Cassa montelliana sono devoluti alla ricostituzione agraria del Montello, devastato dalla guerra.
 
 ## Art. 2.
 

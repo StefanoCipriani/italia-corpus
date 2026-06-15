@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 8 luglio 1926, n. 1178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178), sull'ordinamento della Marina militare, e successive modificazioni;
+Vista la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), sull'ordinamento della Marina militare, e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 11 marzo 1953, n. 412](Approvazione%20del%20nuovo%20statuto%20dellAccademia%20navale.md), che approva lo statuto dell'Accademia navale;
 

@@ -25,7 +25,7 @@ Agli effetti della presente legge sono considerati invalidi di guerra coloro che
  Sono considerati invalidi civili di guerra coloro che - non militari - siano divenuti inabili a proficuo lavoro o si trovino menomati nelle loro capacita' lavorative in seguito a lesioni o ad infermita' incontrate per fatto di guerra.
  Non si applicano le disposizioni di cui alla presente legge nel caso di invalidi con minorazioni ascritte:
  a) alla nona e decima categoria della tabella A, di cui al [decreto luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876), ad eccezione di quelle contemplate: dalle voci da 4 a 10 della categoria nona e da 3 a 6 della categoria decima;
- b) alla tabella B annessa al [regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491), ad eccezione di quelle contemplate nelle voci 4 e da 6 a 11 della tabella stessa;
+ b) alla tabella B annessa al [regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), ad eccezione di quelle contemplate nelle voci 4 e da 6 a 11 della tabella stessa;
  c) alla tabella B annessa alla [legge 10 agosto 1950, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;648), ad eccezione di quelle contemplate dalle voci da 4 a 10 della tabella stessa.
 
 ### Art. 3. — (Invalidi per servizio)
@@ -92,7 +92,7 @@ Le amministrazioni, aziende ed enti pubblici di cui al primo comma dell'articolo
  c) del 40 per cento del personale ausiliario o equiparato.
  Le frazioni percentuali superiori allo 0,50 per cento sono considerate unita'.
  Nell'ambito delle aliquote complessive di cui al primo comma del presente articolo, la ripartizione dei posti tra le singole categorie avviene in proporzione alle percentuali indicate all'articolo 9.
- Nei concorsi a posti delle carriere direttive e di concetto o parificati, gli appartenenti alle categorie indicate nel precedente titolo, che abbiano conseguito l'idoneita', verranno inclusi nell'ordine di graduatoria tra i vincitori fino a che non sia stata raggiunta la percentuale del 15 per cento dei posti di organico; a parita' di punteggio valgono le precedenze stabilite dall'articolo 5 del testo unico, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), e successive modificazioni.
+ Nei concorsi a posti delle carriere direttive e di concetto o parificati, gli appartenenti alle categorie indicate nel precedente titolo, che abbiano conseguito l'idoneita', verranno inclusi nell'ordine di graduatoria tra i vincitori fino a che non sia stata raggiunta la percentuale del 15 per cento dei posti di organico; a parita' di punteggio valgono le precedenze stabilite dall'articolo 5 del testo unico, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni.
 
 ### Art. 13. — (Esclusioni, esoneri)
 
@@ -189,7 +189,7 @@ TITOLO IV
 I privati datori di lavoro che non provvedono ad effettuare le denunce nei termini prescritti dall'articolo 21 sono puniti con una ammenda da lire 5.000 a lire 50.000.
  I privati datori di lavoro, i quali, essendo obbligati a norma dei precedenti articoli ad assumere invalidi o altri aventi diritto, non ne facciano richiesta agli uffici provinciali del lavoro e della massima occupazione entro giorni trenta, sono puniti, previa diffida a regolarizzare, con una ammenda da lire 1.500 a lire 3.000 per ogni giorno lavorativo e per ogni posto lavorativo dalla presente legge riservato e non coperto.
  Contro i privati datori di lavoro contravventori alle disposizioni della presente legge, per le quali non siano state previste apposite sanzioni, si applica l'ammenda da lire 5.000 a lire 50.000.
- Chiunque, non avendo diritto, ottenga o tenti di ottenere con mezzi fraudolenti occupazione, ai sensi della presente legge, e' punito con la reclusione sino a sei mesi, indipendentemente dalle maggiori sanzioni del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ Chiunque, non avendo diritto, ottenga o tenti di ottenere con mezzi fraudolenti occupazione, ai sensi della presente legge, e' punito con la reclusione sino a sei mesi, indipendentemente dalle maggiori sanzioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 24. — (Definizioni delle contravvenzioni)
 
@@ -220,7 +220,7 @@ La vigilanza per l'applicazione della presente legge e' affidata al Ministero de
 
 ### Art. 29. — (Copertura finanziaria)
 
-Alla spesa di lire 14 milioni occorrente, ai sensi del [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;5), e della [legge 5 giugno 1967, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-05;417), per il funzionamento delle commissioni provinciali per il collocamento obbligatorio di cui all'articolo 16 della presente legge, si provvede con riduzione di pari importo della somma stanziata sul capitolo 1250 dello stato di previsione della spesa del Ministero del lavoro e della previdenza sociale per l'anno 1968.
+Alla spesa di lire 14 milioni occorrente, ai sensi del [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](../DPR/Compensi%20ai%20componenti%20delle%20Commissioni%20Consigli%20Comitati%20o%20Collegi%20operanti%20nelle%20Amministrazioni%20statali%20anche%20con%20ordinamento%20autonomo%20e%20delle%20Commissioni%20giudicatrici%20dei%20concorsi%20di_6b5a1d3e573d.md), e della [legge 5 giugno 1967, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-05;417), per il funzionamento delle commissioni provinciali per il collocamento obbligatorio di cui all'articolo 16 della presente legge, si provvede con riduzione di pari importo della somma stanziata sul capitolo 1250 dello stato di previsione della spesa del Ministero del lavoro e della previdenza sociale per l'anno 1968.
 
 ### Art. 30. — (Norma transitoria)
 

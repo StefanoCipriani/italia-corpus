@@ -94,7 +94,7 @@ L'ammissione, l'esclusione, la cessazione e la riduzione dell'assegno e ogni alt
 
 ## Art. 11.
 
-Presso gli Enti comunali di assistenza ed i rispettivi tesorieri, la gestione e la contabilita' dei fondi debbono essere separare e distinte da quelle degli altri servizi, ferme restando le norme stabilite dalla [legge 3 giugno 1937, n. 847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-03;847), e dai regolamenti amministrativo e contabile, sulle istituzioni pubbliche di assistenza e beneficenza.
+Presso gli Enti comunali di assistenza ed i rispettivi tesorieri, la gestione e la contabilita' dei fondi debbono essere separare e distinte da quelle degli altri servizi, ferme restando le norme stabilite dalla [legge 3 giugno 1937, n. 847](Istituzione%20in%20ogni%20Comune%20del%20Regno%20dellEnte%20comunale%20di%20assistenza.%20037U0847.md), e dai regolamenti amministrativo e contabile, sulle istituzioni pubbliche di assistenza e beneficenza.
  Gli Enti comunali di assistenza trasmettono il rendiconto della gestione all'Ufficio provinciale dell'assistenza post-bellica cui e' demandato il controllo sulla gestione dei fondi, fermo rimanendo il potere di vigilanza del Prefetto.
 
 ## Art. 12.
@@ -104,7 +104,7 @@ L'Ente comunale, di assistenza, non appena abbia ammesso il reduce al godimento 
 
 ## Art. 13.
 
-Chiunque indebitamente riscuote con alterazione dei dati, con false dichiarazioni e con altri mezzi fraudolenti l'assegno di cui al presente decreto, e' punito con la multa da L. 1000 a L. 15.000, salva l'applicazione delle piu' gravi sanzioni prevista dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+Chiunque indebitamente riscuote con alterazione dei dati, con false dichiarazioni e con altri mezzi fraudolenti l'assegno di cui al presente decreto, e' punito con la multa da L. 1000 a L. 15.000, salva l'applicazione delle piu' gravi sanzioni prevista dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  E' punito con la stessa pena chiunque fa dichiarazioni false o compie altri fatti fraudolenti al fine di procurare indebitamente ad altri l'assegno.
 
 ## Art. 14.

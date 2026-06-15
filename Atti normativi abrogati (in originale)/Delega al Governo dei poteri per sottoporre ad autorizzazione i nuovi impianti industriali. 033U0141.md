@@ -16,7 +16,7 @@ Allo scopo di adeguare l'attrezzatura industriale della Nazione alle condizioni 
 
 Il Governo del Re potra' esercitare la facolta' di cui all'articolo 1, anche separatamente per singoli rami di industria, provvedendo con decreto Reale, su proposta del Ministro per le corporazioni, di concerto col Ministro per le finanze e, se del caso, con gli altri Ministri interessati, e determinando le norme di attuazione. 
  
- Per quelle materie per le quali il Governo del Re provvede ai sensi della presente legge cessano di avere effetto le disposizioni contenute nel [decreto-legge 3 novembre 1927, n. 2107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1927-11-03;2107), e del [R. decreto-legge 18 novembre 1929, n. 2488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-18;2488).
+ Per quelle materie per le quali il Governo del Re provvede ai sensi della presente legge cessano di avere effetto le disposizioni contenute nel [decreto-legge 3 novembre 1927, n. 2107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1927-11-03;2107), e del [R. decreto-legge 18 novembre 1929, n. 2488](Disciplina%20della%20fabbricazione%20di%20prodotti%20essenziali%20alla%20difesa%20dello%20Stato.%20029U2488.md).
 
 ## Art. 3.
 

@@ -20,9 +20,9 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n.100](Sulla%20facolta%20del
 
 Visto il testo unico delle leggi metriche 23 agosto 1890, n. 7088 (serie 3ª);
 
-Visto il [R. decreto 21 ottobre 1923, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367), che modifica la tariffa dei diritti metrici, stabiliti dal citato testo unico;
+Visto il [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md), che modifica la tariffa dei diritti metrici, stabiliti dal citato testo unico;
 
-Visto il [R. decreto 7 aprile 1927, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-07;544), che integra l'allegato A, annesso al precitato [R. decreto 21 ottobre 1923, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367);
+Visto il [R. decreto 7 aprile 1927, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-07;544), che integra l'allegato A, annesso al precitato [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md);
 
 Ritenuta la necessita' urgente ed assoluta di modificare i diritti di verificazione dei pesi e delle misure, dei misuratori dei gas e dei manometri campioni;
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni, di c
 
 ## Art. 1.
 
-I diritti da corrispondersi dagli utenti metrici, fissati dal [R. decreto 21 ottobre 1923, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367), saranno, a decorrere dal biennio 1939-40, riscossi in base alla tariffa, di cui alla tabella annessa al presente decreto vistata, d'ordine Nostro, dai Ministri per le finanze e per le corporazioni. 
+I diritti da corrispondersi dagli utenti metrici, fissati dal [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md), saranno, a decorrere dal biennio 1939-40, riscossi in base alla tariffa, di cui alla tabella annessa al presente decreto vistata, d'ordine Nostro, dai Ministri per le finanze e per le corporazioni. 
  
  I diritti di verificazione prima dei pesi e delle misure e degli strumenti per pesare e per misurare, dei misuratoti dei gas, e dei manometri campioni, stabiliti dai decreti 21 ottobre 1923, n. 2367, e 7 aprile 1927, n. 544, saranno riscossi in base alla tariffa di cui alla tabella predetta all'entrata in vigore del presente decreto.
 

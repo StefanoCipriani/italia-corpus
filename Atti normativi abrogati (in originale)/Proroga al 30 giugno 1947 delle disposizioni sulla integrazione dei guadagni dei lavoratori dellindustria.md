@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 21 agosto 1945, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;523);
+Visto il [decreto legislativo luogotenenziale 21 agosto 1945, n. 523](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20a%20favore%20dei%20lavoratori%20dellAlta%20Italia.%20045U0523.md);
 
-Visto il [decreto legislativo luogotenenziale 9 novembre 1945, n. 788](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-09;788);
+Visto il [decreto legislativo luogotenenziale 9 novembre 1945, n. 788](../Decreti%20legislativi%20luogotenenziali/Istituzione%20della%20Cassa%20per%20lintegrazione%20dei%20guadagni%20degli%20operai%20dellindustria%20e%20disposizioni%20transitorie%20a%20favore%20dei%20lavoratori%20dellindustria%20dellAlta%20Italia.%20045U0788.md);
 
-Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;50);
+Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 50](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia.md);
 
 Visto il [regio decreto legislativo 20 maggio 1946, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-20;371);
 
@@ -22,7 +22,7 @@ Visto il [decreto legislativo del Capo provvisorio dello Stato 23 agosto 1946, n
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 15 marzo 1947, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-15;115);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

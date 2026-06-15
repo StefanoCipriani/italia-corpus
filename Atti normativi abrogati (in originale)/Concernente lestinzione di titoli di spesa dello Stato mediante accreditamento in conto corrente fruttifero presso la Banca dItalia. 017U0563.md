@@ -12,7 +12,7 @@ vigente: true
 
 Per la durata della guerra e fino a tre mesi dopo la pubblicazione della pace, il pagamento dei mandati e degli altri titoli di spesa emessi a favore di creditori dello Stato puo' avvenire mediante accreditamento in conto corrente fruttifero presso la filiale della Banca d'Italia avente sede nel capoluogo di provincia nel quale i titoli stessi sono esigibili. 
  
- Rimangono pertanto derogate le disposizioni contenute negli articoli 438 e seguenti del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [R. decreto 4 maggio 1885, n. 3074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-05-04;3074) (serie 3ª).
+ Rimangono pertanto derogate le disposizioni contenute negli articoli 438 e seguenti del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [R. decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md) (serie 3ª).
 
 ## Art. 2.
 

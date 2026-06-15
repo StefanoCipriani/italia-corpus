@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-La concessione della medaglia di benemerenza per i volontari di guerra, istituita per la guerra italoaustriaca 1915-18 con il [regio decreto 24 maggio 1923, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-24;1163), e' estesa a coloro che, durante la seconda guerra mondiale (10 giugno 1940-8 maggio 1945) si siano trovati in entrambe le seguenti condizioni:
+La concessione della medaglia di benemerenza per i volontari di guerra, istituita per la guerra italoaustriaca 1915-18 con il [regio decreto 24 maggio 1923, n. 1163](Che%20istituisce%20una%20medaglia%20di%20benemerenza%20per%20i%20volontari%20della%20guerra%20italo-austriaca%201915-918.%20023U1163.md), e' estesa a coloro che, durante la seconda guerra mondiale (10 giugno 1940-8 maggio 1945) si siano trovati in entrambe le seguenti condizioni:
  a) aver chiesto ed ottenuto, senza esservi obbligati per legge o per disposizioni di richiamo, di arruolarsi in una delle Forze armate dello Stato o di essere incorporati in reparti ed unita' operanti;
  b) aver partecipato, presso reparti ed unita' operanti ad operazioni di guerra ed aver riportato una delle seguenti decorazioni o distinzioni:
  ricompense al valor militare;
@@ -45,7 +45,7 @@ ferite riportate in guerra o per sopravvenuta infermita', siano ritornati sponta
  h) ufficiali in congedo che, in seguito a domanda di richiamo alle armi per essere inviati in reparti combattenti, siano stati richiamati per effetto della domanda stessa. Sottufficiali, graduati, militari di truppa e comuni in congedo illimitato che, in seguito a domanda di richiamo alle armi, siano stati incorporati almeno tre mesi prima del richiamo della classe, arma, categoria e specialita' alla quale appartengono;
  i) militari che, trovandosi nelle condizioni di poter beneficiare di un provvedimento di congedo illimitato, o provvisorio, o di licenza illimitata, vi rinunciarono espressamente per seguire il proprio reparto in operazioni di guerra, o per essere inviati in reparti destinati ad operazioni di guerra;
  l) marittimi imbarcati su navi mercantili iscritte nel naviglio ausiliario dello Stato, che trovandosi nelle condizioni di cui all'[art. 17 del regio decreto-legge 19 settembre 1935, n. 1836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-19;1836#art_17), per ottenere lo sbarco, non l'abbiano chiesto, rimanendo a bordo in qualita' di militari a grado temporaneo;
- m) cuochi, domestici e panettieri imbarcati su navi, che, trovandosi nelle condizioni di cui all'[art. 2 della legge 30 gennaio 1941, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-01-30;152#art_2), per ottenere lo sbarco, non lo abbiano chiesto, rimanendo in qualita' di militari a grado temporaneo;
+ m) cuochi, domestici e panettieri imbarcati su navi, che, trovandosi nelle condizioni di cui all'[art. 2 della legge 30 gennaio 1941, n. 152](Posizione%20del%20personale%20borghese%20imbarcato%20su%20Regie%20navi%20in%20tempo%20di%20guerra.%20041U0152.md), per ottenere lo sbarco, non lo abbiano chiesto, rimanendo in qualita' di militari a grado temporaneo;
  n) specialisti di aeronautica che prosciolti dalla ferma abbiano chiesto ed ottenuto, senza averne piu' obbligo, di rimanere presso i reparti di volo operanti.
 
 ## Art. 3.
@@ -62,7 +62,7 @@ Sono esclusi dalla concessione della medaglia di benemerenza per i volontari del
 
 ## Art. 5.
 
-E' abrogata la [legge 16 novembre 1942, n. 1751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-11-16;1751), sul riconoscimento della qualifica di arruolato volontario per anticipazione degli obblighi di leva e di volontario di guerra a determinate categorie di giovani gia' ammessi al ritardo nella presentazione al servizio militare per ragioni di studio.
+E' abrogata la [legge 16 novembre 1942, n. 1751](Riconoscimento%20della%20qualifica%20di%20arruolato%20volontario%20per%20anticipazione%20degli%20obblighi%20di%20leva%20e%20di%20volontario%20di%20guerra%20a%20determinate%20categorie%20di%20giovani%20gia%20ammessi%20al%20ritardo%20nella%20p_b5e7267b8216.md), sul riconoscimento della qualifica di arruolato volontario per anticipazione degli obblighi di leva e di volontario di guerra a determinate categorie di giovani gia' ammessi al ritardo nella presentazione al servizio militare per ragioni di studio.
 
 ## Art. 6.
 

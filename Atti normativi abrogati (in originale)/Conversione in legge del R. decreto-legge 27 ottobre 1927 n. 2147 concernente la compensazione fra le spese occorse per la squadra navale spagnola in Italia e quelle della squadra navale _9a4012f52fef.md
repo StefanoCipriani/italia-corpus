@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-27;2147), concernente la compensazione fra le spese occorse per la squadra navale spagnola in Italia e quelle della squadra navale italiana in Spagna. 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2147](Compensazione%20fra%20le%20spese%20occorse%20per%20la%20Squadra%20navale%20spagnola%20in%20Italia%20e%20quelle%20della%20Squadra%20navale%20italiana%20in%20Spagna.%20027U2147.md), concernente la compensazione fra le spese occorse per la squadra navale spagnola in Italia e quelle della squadra navale italiana in Spagna. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

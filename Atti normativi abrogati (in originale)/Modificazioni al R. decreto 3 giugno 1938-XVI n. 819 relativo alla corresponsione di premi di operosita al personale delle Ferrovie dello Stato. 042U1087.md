@@ -43,7 +43,7 @@ L'art. 1 del R. decreto 3 giugno 1938-XVI, n. 819, e' sostituito dal seguente:
 --------------- 
 Nota Redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 2 febbraio 1943, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-02-02;106), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 2 febbraio 1943, n. 106](Variazione%20dello%20stanziamento%20annuo%20previsto%20dallart.%201%20del%20R.%20decreto%2024%20agosto%201942-XX%20n.%201087%20ai%20fini%20dellerogazione%20di%20premi%20di%20operosita%20al%20personale%20delle%20Ferrovie%20dello%20Stato.%20043U0106.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 

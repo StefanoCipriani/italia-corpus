@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 novembre 1927, n. 2840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-20;2840), che da' esecuzione ai seguenti Atti stipulati in Roma il 21 maggio 1927, fra il Regno d'Italia e il Regno d'Ungheria: 
+ E' convertito in legge il [R. decreto-legge 20 novembre 1927, n. 2840](Esecuzione%20degli%20Atti%20stipulati%20in%20Roma%20fra%20lItalia%20e%20lUngheria%20il%2021%20maggio%201927%20per%20regolare%20alcune%20questioni%20finanziarie.%20027U2840.md), che da' esecuzione ai seguenti Atti stipulati in Roma il 21 maggio 1927, fra il Regno d'Italia e il Regno d'Ungheria: 
  
  1° Convenzione concernente il regolamento di questioni finanziarie risultanti dall'annessione all'Italia della citta' di Fiume, con relativo Protocollo finale; 
  

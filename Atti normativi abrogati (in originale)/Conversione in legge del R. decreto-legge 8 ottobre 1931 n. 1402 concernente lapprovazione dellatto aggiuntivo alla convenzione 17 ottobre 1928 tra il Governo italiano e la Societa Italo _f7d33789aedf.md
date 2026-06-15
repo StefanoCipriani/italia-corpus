@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 ottobre 1931, n. 1402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-08;1402), concernente l'approvazione dell'atto aggiuntivo alla convenzione 17 ottobre 1928 tra il Governo italiano e la Societa' «Italo Radio» Societa' per i servizi radioelettrici e per l'impianto e l'esercizio di stazioni radioelettriche. 
+ E' convertito in legge il [R. decreto-legge 8 ottobre 1931, n. 1402](Approvazione%20dellatto%20aggiuntivo%20alla%20convenzione%2017%20ottobre%201928%20fra%20il%20Governo%20Italiano%20e%20la%20Societa%20Italo%20Radio%20Societa%20per%20i%20servizi%20radioelettrici%20e%20per%20limpianto%20e%20lesercizio%20di%20sta_b7c30d34a8a0.md), concernente l'approvazione dell'atto aggiuntivo alla convenzione 17 ottobre 1928 tra il Governo italiano e la Societa' «Italo Radio» Societa' per i servizi radioelettrici e per l'impianto e l'esercizio di stazioni radioelettriche. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

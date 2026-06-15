@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 agosto 1927, n. 1419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-05;1419), relativo alla costituzione di una societa' anonima con la ragione sociale «Societa' anonima fertilizzanti naturali Italia». 
+ E' convertito in legge il [R. decreto-legge 5 agosto 1927, n. 1419](Costituzione%20di%20una%20societa%20anonima%20con%20la%20ragione%20sociale%20Societa%20anonima%20fertilizzanti%20naturali%20Italia.%20027U1419.md), relativo alla costituzione di una societa' anonima con la ragione sociale «Societa' anonima fertilizzanti naturali Italia». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

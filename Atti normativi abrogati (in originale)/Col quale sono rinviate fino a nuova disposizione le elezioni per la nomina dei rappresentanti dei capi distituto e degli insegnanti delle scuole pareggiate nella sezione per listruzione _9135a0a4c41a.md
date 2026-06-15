@@ -20,9 +20,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dei poteri a Noi delegati e della facolta' conferita al Governo dalla [legge 22 maggio 1915, numero 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dei poteri a Noi delegati e della facolta' conferita al Governo dalla [legge 22 maggio 1915, numero 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Veduto l'[art. 16 della legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141#art_16), e l'[art. 10 del regolamento 3 agosto 1908, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-08-03;623#art_10), che stabiliscono la durata in carica dei componenti della sezione per l'istruzione media, istituita nella Giunta del Consiglio superiore per la pubblica istruzione; 
+ Veduto l'[art. 16 della legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md), e l'[art. 10 del regolamento 3 agosto 1908, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-08-03;623#art_10), che stabiliscono la durata in carica dei componenti della sezione per l'istruzione media, istituita nella Giunta del Consiglio superiore per la pubblica istruzione; 
  
  Considerato che col 1° luglio 1916 verranno a scadere dal loro ufficio, per compiuto quadriennio, il rappresentante dei capi d'Istituto delle scuole medie governative e quello dei capi d'Istituto e professori delle scuole medie pareggiate; 
  

@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto legislativo 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1933-02-13;215), contenente norme per la bonifica integrale;
 
-Visto l'[art. 1, n. 3 della legge 31 gennaio 1926, numero 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art. 1, n. 3 della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 

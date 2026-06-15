@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Veduta la [Legge 3 settembre 1868, n. 4579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1868-09-03;4579);
+Veduta la [Legge 3 settembre 1868, n. 4579](Che%20prescrive%20il%20termine%20alla%20Banca%20Nazionale%20di%20far%20rientrare%20i%20suoi%20biglietti%20al%20portatore%20nel%20limite%20di%20750%20milioni.%20068U4579.md);
 
 Veduto il Regio Decreto del di' 8 novembre 1868, n. 4687;
 

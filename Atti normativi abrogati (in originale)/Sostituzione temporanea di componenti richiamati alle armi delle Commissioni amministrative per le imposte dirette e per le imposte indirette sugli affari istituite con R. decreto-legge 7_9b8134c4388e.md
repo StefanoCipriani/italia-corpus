@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' data facolta' al Ministro per le finanze di disporre la sostituzione temporanea di componenti, richiamati alle armi, delle Commissioni distrettuali, provinciali e centrale delle imposte dirette e delle imposte indirette sugli affari istituite col [R. decreto-legge 7 agosto 1936, n. 1639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-08-07;1639), per la durata del richiamo stesso. 
+ E' data facolta' al Ministro per le finanze di disporre la sostituzione temporanea di componenti, richiamati alle armi, delle Commissioni distrettuali, provinciali e centrale delle imposte dirette e delle imposte indirette sugli affari istituite col [R. decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), per la durata del richiamo stesso. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

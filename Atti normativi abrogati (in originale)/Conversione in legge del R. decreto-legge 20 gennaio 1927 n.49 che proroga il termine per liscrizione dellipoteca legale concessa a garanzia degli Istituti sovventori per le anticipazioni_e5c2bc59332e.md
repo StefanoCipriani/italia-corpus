@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 gennaio 1927, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-20;49), che proroga il termine per l'iscrizione dell'ipoteca legale concessa a garanzia degli Istituti sovventori per le anticipazioni sui risarcimenti dei danni di guerra somministrate prima dell'8 febbraio 1923. 
+ E' convertito in legge il [R. decreto-legge 20 gennaio 1927, n. 49](Proroga%20del%20termine%20per%20liscrizione%20dellipoteca%20legale%20concessa%20a%20garanzia%20degli%20istituti%20sovventori%20per%20le%20anticipazioni%20sui%20risarcimenti%20dei%20danni%20di%20guerra%20somministrate%20prima%20dell8%20fe_d82fb1f8efd8.md), che proroga il termine per l'iscrizione dell'ipoteca legale concessa a garanzia degli Istituti sovventori per le anticipazioni sui risarcimenti dei danni di guerra somministrate prima dell'8 febbraio 1923. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

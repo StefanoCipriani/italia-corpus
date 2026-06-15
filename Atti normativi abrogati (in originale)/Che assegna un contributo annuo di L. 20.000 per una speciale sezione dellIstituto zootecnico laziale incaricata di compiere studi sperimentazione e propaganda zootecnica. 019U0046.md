@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Per il funzionamento di una speciale sezione dell'Istituto zootecnico laziale, la quale provveda in modo organico e continuativo, a compiere studi, sperimentazione e propaganda zootecnica nella regione del Lazio, e' assegnato un contributo annuo di L. 20.000, a partire dall'esercizio 1918-919, da far carico ai fondi della Cassa di colonizzazione per l'Agro romano, di cui alla [lettera h) dell'art. 13 della legge 17 luglio 1910, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491#art_13-leth). 
+Per il funzionamento di una speciale sezione dell'Istituto zootecnico laziale, la quale provveda in modo organico e continuativo, a compiere studi, sperimentazione e propaganda zootecnica nella regione del Lazio, e' assegnato un contributo annuo di L. 20.000, a partire dall'esercizio 1918-919, da far carico ai fondi della Cassa di colonizzazione per l'Agro romano, di cui alla [lettera h) dell'art. 13 della legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

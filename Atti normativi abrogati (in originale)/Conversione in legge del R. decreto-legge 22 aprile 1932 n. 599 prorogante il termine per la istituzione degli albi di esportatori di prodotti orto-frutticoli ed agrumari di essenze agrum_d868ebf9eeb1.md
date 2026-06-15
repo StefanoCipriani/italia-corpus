@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 aprile 1932, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-04-22;599), prorogante il termine per la istituzione degli albi di esportatori di prodotti orto-frutticoli ed agrumari, di essenze agrumarie e di fiori, contemplati dalla [legge 31 dicembre 1931, n. 1806](Istituzione%20di%20albi%20per%20gli%20esportatori%20di%20prodotti%20ortofrutticoli%20agrumari.%20031U1806.md). 
+ E' convertito in legge il [R. decreto-legge 22 aprile 1932, n. 599](Proroga%20del%20termine%20per%20la%20istituzione%20degli%20albi%20di%20esportatori%20di%20prodotti%20orto-frutticoli%20ed%20agrumari%20di%20essenze%20agrumarie%20e%20di%20fiori%20contemplati%20dalla%20legge%2031%20dicembre%201931%20n.%201806.%20032U0599.md), prorogante il termine per la istituzione degli albi di esportatori di prodotti orto-frutticoli ed agrumari, di essenze agrumarie e di fiori, contemplati dalla [legge 31 dicembre 1931, n. 1806](Istituzione%20di%20albi%20per%20gli%20esportatori%20di%20prodotti%20ortofrutticoli%20agrumari.%20031U1806.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

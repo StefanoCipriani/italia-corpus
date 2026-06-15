@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 novembre 1927, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-20;2841), che da' piena ed intera esecuzione ai seguenti Atti stipulati in Roma, fra il Regno d'Italia ed il Regno d'Ungheria, il 25 luglio 1927: 
+ E' convertito in legge il [R. decreto-legge 20 novembre 1927, n. 2841](Esecuzione%20degli%20Atti%20stipulati%20in%20Roma%20fra%20lItalia%20e%20lUngheria%20il%2025%20luglio%201927%20per%20lo%20sviluppo%20del%20traffico%20ungherese%20in%20transito%20per%20il%20porto%20di%20Fiume%20e%20per%20quello%20di%20Trieste.%20027U2841.md), che da' piena ed intera esecuzione ai seguenti Atti stipulati in Roma, fra il Regno d'Italia ed il Regno d'Ungheria, il 25 luglio 1927: 
  
  1° Convenzione per lo sviluppo del traffico ungherese in transito per il porto di Fiume; 
  

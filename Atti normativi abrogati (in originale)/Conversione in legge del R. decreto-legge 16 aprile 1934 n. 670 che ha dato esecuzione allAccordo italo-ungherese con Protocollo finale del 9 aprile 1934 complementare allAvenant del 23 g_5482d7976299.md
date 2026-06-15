@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 aprile 1934, n. 670](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-16;670), che ha dato esecuzione all'Accordo italo-ungherese (con Protocollo finale) del 9 aprile 1934, complementare all'«Avenant» del 23 giugno 1932 al Trattato di commercio e di navigazione fra l'Italia e l'Ungheria del 4 luglio 1928. 
+ E' convertito in legge il [R. decreto-legge 16 aprile 1934, n. 670](Approvazione%20dellAccordo%20complementare%20italo-ungherese%20firmato%20in%20Roma%20il%209%20aprile%201934%20con%20relativo%20Protocollo%20finale.%20034U0670.md), che ha dato esecuzione all'Accordo italo-ungherese (con Protocollo finale) del 9 aprile 1934, complementare all'«Avenant» del 23 giugno 1932 al Trattato di commercio e di navigazione fra l'Italia e l'Ungheria del 4 luglio 1928. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

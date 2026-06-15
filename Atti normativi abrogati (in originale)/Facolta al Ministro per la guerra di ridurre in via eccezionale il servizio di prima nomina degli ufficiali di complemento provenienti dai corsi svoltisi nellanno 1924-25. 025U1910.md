@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 2997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2997), concernente il reclutamento, gli obblighi di servizio e l'avanzamento degli ufficiali di complemento;
+Visto il [R. decreto 30 dicembre 1923, n. 2997](Abolizione%20della%20categoria%20degli%20ufficiali%20di%20milizia%20territoriale%20e%20nuove%20norme%20relative%20al%20reclutamento%20agli%20obblighi%20di%20servizio%20e%20allavanzamento%20degli%20ufficiali%20di%20complemento.%20023U2997.md), concernente il reclutamento, gli obblighi di servizio e l'avanzamento degli ufficiali di complemento;
 
 Considerato che i sottotenenti di complemento provenienti dai corsi di reclutamento svoltisi nell'anno 1924-25 hanno gia' prestato cinque mesi di servizio come sergenti in luogo dei tre attualmente prescritti;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro ad int
 
 ## Articolo unico.
 
-A deroga dell'[art. 7 del R. decreto 30 dicembre 1923, numero 2997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2997#art_7), il servizio di prima nomina per i sottotenenti di complemento provenienti dai corsi di reclutamento svoltisi nell'anno 1924-1925, potra' essere ridotto a meno di tre mesi e sara' prestato nel tempo che verra' stabilito dal Ministro per la guerra. 
+A deroga dell'[art. 7 del R. decreto 30 dicembre 1923, numero 2997](Abolizione%20della%20categoria%20degli%20ufficiali%20di%20milizia%20territoriale%20e%20nuove%20norme%20relative%20al%20reclutamento%20agli%20obblighi%20di%20servizio%20e%20allavanzamento%20degli%20ufficiali%20di%20complemento.%20023U2997.md), il servizio di prima nomina per i sottotenenti di complemento provenienti dai corsi di reclutamento svoltisi nell'anno 1924-1925, potra' essere ridotto a meno di tre mesi e sara' prestato nel tempo che verra' stabilito dal Ministro per la guerra. 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

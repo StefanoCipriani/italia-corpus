@@ -10,17 +10,17 @@ vigente: true
 
 IL MINISTRO DEL TESORO
 
-Veduto l'[articolo 19 della legge 7 aprile 1881, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-04-07;133#art_19), serie 3ª;
+Veduto l'[articolo 19 della legge 7 aprile 1881, n. 133](Che%20provvede%20per%20labolizione%20del%20corso%20forzoso%20081U0133.md), serie 3ª;
 
-Veduto l'[articolo 8 della legge 30 aprile 1874, n. 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1874-04-30;1920#art_8), serie 2ª;
+Veduto l'[articolo 8 della legge 30 aprile 1874, n. 1920](Sulla%20circolazione%20cartacea%20durante%20il%20corso%20forzoso.%20074U1920.md), serie 2ª;
 
-Veduto il regolamento approvato con [R. decreto 17 settembre 1876, n. 3375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-09-17;3375);
+Veduto il regolamento approvato con [R. decreto 17 settembre 1876, n. 3375](Che%20approva%20il%20regolamento%20riguardante%20le%20modalita%20e%20le%20forme%20dei%20biglietti%20che%20gli%20istituti%20di%20emissione%20sono%20autorizzati%20ad%20emettere%20per%20proprio%20conto.%20076U3375.md);
 
 Veduto il [R. Decreto 25 dicembre 1883, n. 1823](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-12-25;1823), serie 3ª;
 
-Veduta la [legge 25 dicembre 1889, n. 6570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-12-25;6570), serie 3ª;
+Veduta la [legge 25 dicembre 1889, n. 6570](Sulla%20proroga%20del%20corso%20legale%20in%20biglietti%20degli%20Istituti%20demissione.%20089U6570.md), serie 3ª;
 
-Veduta la [legge 18 agosto 1870, n. 5801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-18;5801);
+Veduta la [legge 18 agosto 1870, n. 5801](Che%20autorizza%20il%20Governo%20a%20modificare%20alcuni%20articoli%20dello%20statuto%20della%20Banca%20Nazionale%20Toscana.%20070U5801.md);
 
 Veduti i decreti reali 9 settembre 1869, n. 5268 e 3 settembre 1872, n. 991, nonche' il decreto ministeriale 22 dicembre 1869; coi quali furono resi di pubblica ragione i distintivi ed i segni caratteristici dei biglietti della Banca Nazionale Toscana da lire 100 e da lire 50 determinandone le modalita' di emissione;
 

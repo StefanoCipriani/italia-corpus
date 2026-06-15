@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di dettare norme che consentano di assicurare l'effettuazione dei controlli in merito al pagamento della quota fissa individuale annua di cui all'[articolo 6 del decreto-legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_6), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-14;438);
+Ritenuta la straordinaria necessita' ed urgenza di dettare norme che consentano di assicurare l'effettuazione dei controlli in merito al pagamento della quota fissa individuale annua di cui all'[articolo 6 del decreto-legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_6), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201992%20n.%20384%20recante%20misure%20urgenti%20in%20materia%20di%20previdenza%20di%20sanita%20e%20di%20pubblico%20impiego%20nonche%20disposizioni%20fiscali.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 13 maggio 1994;
 
@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-I soggetti tenuti alla presentazione della dichiarazione dei redditi per l'anno 1993 devono indicare nella stessa gli estremi del versamento della quota fissa individuale annua per l'assistenza medica di base di cui all'[articolo 6 del decreto-legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_6), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-14;438), dovuta per il medesimo anno.
+I soggetti tenuti alla presentazione della dichiarazione dei redditi per l'anno 1993 devono indicare nella stessa gli estremi del versamento della quota fissa individuale annua per l'assistenza medica di base di cui all'[articolo 6 del decreto-legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_6), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201992%20n.%20384%20recante%20misure%20urgenti%20in%20materia%20di%20previdenza%20di%20sanita%20e%20di%20pubblico%20impiego%20nonche%20disposizioni%20fiscali.md), dovuta per il medesimo anno.
 
 ## Art. 2.
 
@@ -52,7 +52,7 @@ Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro 
 
 5.
 
-E' abrogato il [comma 12 dell'articolo 5 della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_5-com12).
+E' abrogato il [comma 12 dell'articolo 5 della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md).
 
 ## Art. 4.
 

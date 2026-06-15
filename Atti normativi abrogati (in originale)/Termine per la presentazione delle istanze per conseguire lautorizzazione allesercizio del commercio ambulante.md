@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77);
 
-Ritenuta la necessita' e l'urgenza di fissare un nuovo termine per la presentazione delle istanze previste dall'[art. 12 della legge 19 maggio 1976, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-19;398#art_12), per conseguire l'autorizzazione all'esercizio del commercio ambulante;
+Ritenuta la necessita' e l'urgenza di fissare un nuovo termine per la presentazione delle istanze previste dall'[art. 12 della legge 19 maggio 1976, n. 398](Disciplina%20del%20commercio%20ambulante.md), per conseguire l'autorizzazione all'esercizio del commercio ambulante;
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per l'industria, il commercio e l'artigianato; Decre
 
 ## Art. 1.
 
-La presentazione, da parte dei venditori ambulanti, della istanza prevista dall'[art. 12 della legge 19 maggio 1976, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-19;398#art_12), puo' essere effettuata entro il 30 giugno 1978.
+La presentazione, da parte dei venditori ambulanti, della istanza prevista dall'[art. 12 della legge 19 maggio 1976, n. 398](Disciplina%20del%20commercio%20ambulante.md), puo' essere effettuata entro il 30 giugno 1978.
  Sono efficaci le istanze presentate dopo il 27 giugno 1977.
 
 ## Art. 2.

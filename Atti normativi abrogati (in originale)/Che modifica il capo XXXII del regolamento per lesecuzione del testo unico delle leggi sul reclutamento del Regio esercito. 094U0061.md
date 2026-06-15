@@ -80,7 +80,7 @@ Al capo XXXII del regolamento per l'esecuzione del testo unico delle leggi sul r
  
  § 1009. I militari in congedo illimitato, i quali credono di essere divenuti inabili al servizio, hanno obbligo di presentarsi, a meno che la loro inabilita' non sia stata gia' precedentemente riconosciuta in una delle rassegne semestrali di rimando, nel qual caso avrebbero dovuto ricevere il foglio di congedo assoluto. 
  
- § 1010. I militari in congedo illimitato chiamati alle armi per mobilitazione, i quali non rispondessero alla chiamata, saranno dichiarati disertori, secondo le disposizioni del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito. 
+ § 1010. I militari in congedo illimitato chiamati alle armi per mobilitazione, i quali non rispondessero alla chiamata, saranno dichiarati disertori, secondo le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
  Quelli dei detti militari che si presentano spontaneamente, o vengono tradotti dalla forza pubblica innanzi alle autorita' militari dopo la dichiarazione di diserzione, saranno senz'altro denunciati al tribunale militare all'atto dell'arresto o della presentazione. 
  
@@ -90,7 +90,7 @@ Al capo XXXII del regolamento per l'esecuzione del testo unico delle leggi sul r
  
  A tal uopo, pei militari presentatisi direttamente ai corpi, giusta i precedenti paragrafi, i comandanti dei corpi stessi avranno cura di fare a tempo debito le opportune comunicazioni ai comandanti di distretto. 
  
- § 1012. I militari stati gia' denunciati al tribunale militare come mancanti ad una chiamata per istruzione, che non si' presentassero in occasione della chiamata alle armi per mobilitazione della rispettiva classe e categoria, verranno essi pure denunziati come ogni altro disertore con le norme di cui ai §§ 1010 e 1011, a tutti gli effetti delle disposizioni del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito in cui sono incorsi. 
+ § 1012. I militari stati gia' denunciati al tribunale militare come mancanti ad una chiamata per istruzione, che non si' presentassero in occasione della chiamata alle armi per mobilitazione della rispettiva classe e categoria, verranno essi pure denunziati come ogni altro disertore con le norme di cui ai §§ 1010 e 1011, a tutti gli effetti delle disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito in cui sono incorsi. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il [2° comma dell'art. 1 del R. decreto-legge 6 febbraio 1927, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-06;68#art_1-com2), convertito nella [legge 24 dicembre 1928, n. 3088](Conversione%20in%20legge%20dei%20Regi%20decreti-legge%206%20febbraio%201927%20n.%2068%20che%20istituisce%20la%20carica%20di%20capo%20di%20Stato%20Maggiore%20generale%20e%20ne%20determina%20le%20attribuzioni%20e%206%20febbraio%201927%20n.%2069%20che%20de_6e3f957f90c2.md), e' cosi modificato: 
+ Il [2° comma dell'art. 1 del R. decreto-legge 6 febbraio 1927, n. 68](Istituzione%20della%20carica%20di%20Capo%20di%20Stato%20Maggiore%20Generale%20e%20relative%20attribuzioni.%20027U0068.md), convertito nella [legge 24 dicembre 1928, n. 3088](Conversione%20in%20legge%20dei%20Regi%20decreti-legge%206%20febbraio%201927%20n.%2068%20che%20istituisce%20la%20carica%20di%20capo%20di%20Stato%20Maggiore%20generale%20e%20ne%20determina%20le%20attribuzioni%20e%206%20febbraio%201927%20n.%2069%20che%20de_6e3f957f90c2.md), e' cosi modificato: 
  
  «Il Capo di Stato Maggiore generale e' scelto tra i Marescialli d'Italia ed i Grandi Ammiragli o fra i Generali d'Armata (o Generali comandanti designati d'Armata), gli Ammiragli di Armata (o Ammiragli di squadra designati d'Armata), i Generali di Corpo d'armata, gli Ammiragli di squadra ed i Generali di squadra della Regia aeronautica, ed e' nominato con decreto Reale, udito il Consiglio dei Ministri ». 
  

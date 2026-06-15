@@ -16,12 +16,12 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [secondo comma dell'articolo 24 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_24-com2), e' sostituito dal seguente: 
+Il [secondo comma dell'articolo 24 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), e' sostituito dal seguente: 
  "Fermo restando il possesso degli altri requisiti prescritti dalle rispettive norme di avanzamento, nell'Arma e Corpi predetti l'ammissione al giudizio per la promozione a ruolo aperto ad appuntato ha luogo al compimento dei seguenti periodi di servizio prestati nell'Arma o Corpo di appartenenza: 20 anni nel 1968; 19 anni nel 1969; 18 anni nel 1970; 17 anni nel 1971; 16 anni nel 1972; 15 anni nel 1973; 14 anni dal 1974 in poi".
 
 ## Art. 2.
 
-Le aliquote di detrazione dell'anzianita' di servizio, ai fini del computo degli aumenti di stipendio, previste dalla nota n. 6 alla tabella annessa alla [legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249), e successive modificazioni e dall'[articolo 21 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1079](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1079#art_21), non si applicano, con effetto dal 1° luglio 1970, nei confronti degli appuntati e dei militari di truppa e gradi corrispondenti in servizio continuativo dell'Arma dei carabinieri e dei Corpi della guardia di finanza, delle guardie di pubblica sicurezza, degli agenti di custodia e forestali dello Stato.
+Le aliquote di detrazione dell'anzianita' di servizio, ai fini del computo degli aumenti di stipendio, previste dalla nota n. 6 alla tabella annessa alla [legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), e successive modificazioni e dall'[articolo 21 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1079](../DPR/Nuovi%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20delle%20Amministrazioni%20dello%20Stato%20compreso%20quello%20ad%20ordinamento%20autonomo.md), non si applicano, con effetto dal 1° luglio 1970, nei confronti degli appuntati e dei militari di truppa e gradi corrispondenti in servizio continuativo dell'Arma dei carabinieri e dei Corpi della guardia di finanza, delle guardie di pubblica sicurezza, degli agenti di custodia e forestali dello Stato.
 
 ## Art. 3.
 

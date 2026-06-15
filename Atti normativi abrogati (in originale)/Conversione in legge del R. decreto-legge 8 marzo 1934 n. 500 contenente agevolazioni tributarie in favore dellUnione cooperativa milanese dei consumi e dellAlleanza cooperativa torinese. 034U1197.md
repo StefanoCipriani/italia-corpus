@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-08;500), contenente agevolazioni tributarie in favore dell'Unione cooperativa milanese dei consumi e dell'Alleanza cooperativa torinese. 
+ E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 500](Agevolazioni%20tributarie%20in%20favore%20dellUnione%20cooperativa%20milanese%20dei%20consumi%20e%20dellAlleanza%20cooperativa%20torinese.%20034U0500.md), contenente agevolazioni tributarie in favore dell'Unione cooperativa milanese dei consumi e dell'Alleanza cooperativa torinese. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

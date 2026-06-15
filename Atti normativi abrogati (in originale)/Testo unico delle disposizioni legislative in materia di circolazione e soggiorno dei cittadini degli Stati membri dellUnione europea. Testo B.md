@@ -16,11 +16,11 @@ Visti gli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:leg
 
 Visto l'[articolo 7 della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50#art_7), come modificato dall'[articolo 1, comma 6, lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340#art_1-com6-letd) ed [e), della legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340#art_1-com6-lete);
 
-Visti gli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20) e [20-bis della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20bis);
+Visti gli [articoli 20](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [20-bis della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Visto il numero 46 dell'allegato 1 della [legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50);
 
-Vista la [legge 13 luglio 1965, n. 871](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;871);
+Vista la [legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
 
 Visto il [decreto del Presidente della Repubblica 30 dicembre 1965, n. 1656](Norme%20sulla%20circolazione%20e%20il%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20della%20C.E.E.md);
 
@@ -102,13 +102,13 @@ Per i soggetti indicati alle lettere d) ed e) del comma 1, il soggiorno e' ricon
                                 siano iscritti al Servizio sanitario nazionale italiano o siano titolari di una polizza assicurativa sanitaria per malattia, infortunio e per maternita';
                             b)
                                 i soggetti indicati alla lettera d) dispongano di risorse economiche tali da non costituire un onere per l'assistenza sociale in Italia, i soggetti indicati alla lettera e) dispongano di un reddito complessivo, che non sia inferiore all'assegno sociale di cui all'[articolo 3, comma 6, della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_3-com6); tale reddito puo' essere comprensivo anche di pensione di invalidita' da lavoro, di trattamento per pensionamento anticipato o di pensione di vecchiaia, ovvero di una rendita per infortunio sul lavoro o per malattia professionale.
- Il diritto di soggiorno e' inoltre riconosciuto ai familiari a carico del titolare del diritto di soggiorno, come individuati dall'articolo 29, comma l, del [decreto legislativo 25 luglio 1998, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286), a condizione che:
+ Il diritto di soggiorno e' inoltre riconosciuto ai familiari a carico del titolare del diritto di soggiorno, come individuati dall'articolo 29, comma l, del [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), a condizione che:
  1) siano iscritti al Servizio sanitario nazionale italiano o siano titolari di una polizza assicurativa sanitaria per malattia, infortunio e per maternita';
- 2) il nucleo familiare di cui fanno parte abbia risorse tali da non costituire un onere per l'assistenza sociale in Italia, ovvero goda di un reddito annuo non inferiore a quello definito ai sensi dell'[articolo 29, comma 3, lettera b), del decreto legislativo 25 luglio 1998, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286#art_29-com3-letb).
+ 2) il nucleo familiare di cui fanno parte abbia risorse tali da non costituire un onere per l'assistenza sociale in Italia, ovvero goda di un reddito annuo non inferiore a quello definito ai sensi dell'[articolo 29, comma 3, lettera b), del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
 
 5.
 
-Per l'accesso alle attivita' lavorative dipendenti o autonome trovano applicazione, per i familiari di tutte le categorie dei titolari del diritto di soggiorno, le disposizioni vigenti in materia per i cittadini italiani, fatte salve quelle afferenti il pubblico impiego nei termini previsti dall'[articolo 38 del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_38).
+Per l'accesso alle attivita' lavorative dipendenti o autonome trovano applicazione, per i familiari di tutte le categorie dei titolari del diritto di soggiorno, le disposizioni vigenti in materia per i cittadini italiani, fatte salve quelle afferenti il pubblico impiego nei termini previsti dall'[articolo 38 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md).
 
 6.
 

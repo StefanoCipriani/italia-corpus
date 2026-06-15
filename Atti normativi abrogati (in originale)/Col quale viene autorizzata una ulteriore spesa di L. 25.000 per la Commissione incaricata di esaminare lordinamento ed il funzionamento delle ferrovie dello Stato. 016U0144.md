@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato pei lavori pubblici, di concerto
 
 ## Art. 1.
 
-E' autorizzata la spesa di L. 25.000, da inscriversi al capitolo n. 123-quinquies, della spesa del Ministero dei lavori pubblici per l'esercizio 1915-916, in aggiunta a quelle stabilite dall'[art. 24 della legge 23 luglio 1914, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742#art_24), e dal Nostro [decreto-legge 1° agosto 1915, numero 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-08-01;1297), per la Commissione incaricata di esaminare l'ordinamento ed il funzionamento delle ferrovie dello Stato.
+E' autorizzata la spesa di L. 25.000, da inscriversi al capitolo n. 123-quinquies, della spesa del Ministero dei lavori pubblici per l'esercizio 1915-916, in aggiunta a quelle stabilite dall'[art. 24 della legge 23 luglio 1914, n. 742](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md), e dal Nostro [decreto-legge 1° agosto 1915, numero 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-08-01;1297), per la Commissione incaricata di esaminare l'ordinamento ed il funzionamento delle ferrovie dello Stato.
 
 ## Art. 2.
 

@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [regio decreto-legge 27 maggio 1929, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-05-27;1285), convertito nella [legge 21 dicembre 1929, n. 2238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-12-21;2238), sullo ordinamento dell'Istituto centrale di statistica;
+Visto il [regio decreto-legge 27 maggio 1929, n. 1285](Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), convertito nella [legge 21 dicembre 1929, n. 2238](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20maggio%201929%20n.%201285%20concernente%20modificazioni%20allordinamento%20dellIstituto%20centrale%20di%20statistica.%20029U2238.md), sullo ordinamento dell'Istituto centrale di statistica;
 
-Visti i [decreti del Presidente della Repubblica 21 aprile 1949, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-04-21;213), [11 dicembre 1952, n. 2392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-11;2392) e [21 dicembre 1955, n. 1345](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-12-21;1345);
+Visti i [decreti del Presidente della Repubblica 21 aprile 1949, n. 213](../DPR/Rilevazione%20dei%20dati%20statistici%20riguardanti%20la%20produzione%20e%20gli%20impianti%20gli%20impieghi%20le%20vendite%20e%20le%20giacenze%20di%20materie%20prime%20e%20di%20prodotti%20lavorati.md), [11 dicembre 1952, n. 2392](../DPR/Proroga%20del%20termine%20previsto%20dal%20decreto%2021%20aprile%201949%20n.%20213%20per%20le%20rilevazioni%20dei%20dati%20statistici%20riguardanti%20la%20produzione%20e%20gli%20impianti%20gli%20impieghi%20le%20vendite%20e%20le%20giacenze%20di%20mat_bf346da3efb7.md) e [21 dicembre 1955, n. 1345](../DPR/Proroga%20del%20termine%20previsto%20nel%20decreto%2011%20dicembre%201952%20n.%202392%20riguardante%20le%20rilevazioni%20dei%20dati%20statistici%20per%20la%20produzione%20e%20gli%20impianti%20gli%20impieghi%20le%20vendite%20e%20le%20giacenze%20di%20_241aec66cae3.md);
 
 Sulla proposta del Presidente del Consiglio dei Ministri; Decreta:
 
 ## Art. 1.
 
-E' prorogato fino al 31 dicembre 1961 il termine stabilito dal [decreto del Presidente della Repubblica 21 dicembre 1955, n. 1345](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-12-21;1345), entro il quale l'Istituto centrale di statistica e' autorizzato ad eseguire, d'intesa con le Amministrazioni interessate, le rilevazioni disposte con il decreto 21 aprile 1949, n. 213.
+E' prorogato fino al 31 dicembre 1961 il termine stabilito dal [decreto del Presidente della Repubblica 21 dicembre 1955, n. 1345](../DPR/Proroga%20del%20termine%20previsto%20nel%20decreto%2011%20dicembre%201952%20n.%202392%20riguardante%20le%20rilevazioni%20dei%20dati%20statistici%20per%20la%20produzione%20e%20gli%20impianti%20gli%20impieghi%20le%20vendite%20e%20le%20giacenze%20di%20_241aec66cae3.md), entro il quale l'Istituto centrale di statistica e' autorizzato ad eseguire, d'intesa con le Amministrazioni interessate, le rilevazioni disposte con il decreto 21 aprile 1949, n. 213.
 
 ## Art. 2.
 

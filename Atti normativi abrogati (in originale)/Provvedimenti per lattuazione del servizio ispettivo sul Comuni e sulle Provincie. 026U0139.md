@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato;
 
 Visto il [R. decreto-legge 23 ottobre 1925, n. 2113](Istituzione%20del%20servizio%20ispettivo%20sui%20Comuni%20e%20sulle%20Provincie%20e%20modificazioni%20alle%20disposizioni%20della%20legge%20comunale%20e%20provinciale.%20025U2113.md), relativo alla istituzione del servizio ispettivo sui Comuni e sulle Provincie;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'interno, di concert
 
 ## Art. 1.
 
-I ruoli dei gruppi A e B del personale dell'Amministrazione civile del Ministero dell'interno, di cui alla tabella n. 40 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sono modificati come appresso: 
+I ruoli dei gruppi A e B del personale dell'Amministrazione civile del Ministero dell'interno, di cui alla tabella n. 40 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono modificati come appresso: 
  
  Gruppo A. 
  
@@ -66,15 +66,15 @@ Nella prima attuazione ed entro tre anni dall'entrata in vigore del presente dec
 
 ## Art. 3.
 
-I Prefetti che vengono collocati a disposizione, ai sensi dell'[art. 102 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_102), debbono considerarsi in posizione di servizio attivo a i effetti dell'[art. 5 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_5).
+I Prefetti che vengono collocati a disposizione, ai sensi dell'[art. 102 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_102), debbono considerarsi in posizione di servizio attivo a i effetti dell'[art. 5 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 4.
 
-La disposizione di cui al [primo comma dell'art. 184 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_184-com1), si applica ai funzionari della carriera amministrativa dell'Amministrazione civile dell'interno incaricati di reggere Sottoprefetture e per la durata di tale incarico.
+La disposizione di cui al [primo comma dell'art. 184 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), si applica ai funzionari della carriera amministrativa dell'Amministrazione civile dell'interno incaricati di reggere Sottoprefetture e per la durata di tale incarico.
 
 ## Art. 5.
 
-Il ruolo del personale dell'Ufficio telegrafico e cifra del Ministero dell'interno, di cui alla tabella n. 40 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sopracitato, e' sostituito dal seguente: 
+Il ruolo del personale dell'Ufficio telegrafico e cifra del Ministero dell'interno, di cui alla tabella n. 40 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sopracitato, e' sostituito dal seguente: 
  
 
 Grado Numero dei posti

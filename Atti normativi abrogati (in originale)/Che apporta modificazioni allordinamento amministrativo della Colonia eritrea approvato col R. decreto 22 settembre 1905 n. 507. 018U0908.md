@@ -20,17 +20,17 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto la [legge 24 maggio 1903, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-05-24;205), che approva l'ordinamento della Colonia eritrea ed il [R. decreto 26 giugno 1904, n. 411](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-06-26;411), che approva il regolamento per la esecuzione della legge suddetta;
+Visto la [legge 24 maggio 1903, n. 205](Ordinamento%20della%20Colonia%20Eritrea.%20003U0205.md), che approva l'ordinamento della Colonia eritrea ed il [R. decreto 26 giugno 1904, n. 411](Approvazione%20del%20regolamento%20per%20la%20legge%2024%20maggio%201903%20n.%20205%20sullordinamento%20della%20Colonia%20eritrea.%20004U0411.md), che approva il regolamento per la esecuzione della legge suddetta;
 
-Visto il [R. decreto 22 settembre 1905, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-09-22;507), che approva l'ordinamento amministrativo della colonia eritrea;
+Visto il [R. decreto 22 settembre 1905, n. 507](Che%20approva%20lannesso%20ordinamento%20amministrativo%20per%20la%20colonia%20Eritrea%20005U0507.md), che approva l'ordinamento amministrativo della colonia eritrea;
 
-Visti i RR. decreti 26 aprile 1906, n. 172; 26 ottobre 1908, n. 700; 22 aprile 1909, n. 508; 2 ottobre 1911 n. 1136; 6 marzo 1913, n. 390, e [R. decreto 31 gennaio 1914, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-31;48);
+Visti i RR. decreti 26 aprile 1906, n. 172; 26 ottobre 1908, n. 700; 22 aprile 1909, n. 508; 2 ottobre 1911 n. 1136; 6 marzo 1913, n. 390, e [R. decreto 31 gennaio 1914, n. 48](Recante%20una%20aggiunta%20al%20R.%20decreto%203%20settembre%201913%20n.%201199%20per%20la%20prima%20applicazione%20della%20legge%208%20giugno%201913%20n.%20601%20sullavanzamento%20nel%20R.%20esercito.%20014U0048.md);
 
-Vista la [legge 6 luglio 1912, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;749), che autorizza l'istituzione del Ministero delle colonie;
+Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), che autorizza l'istituzione del Ministero delle colonie;
 
-Visto il [R. decreto 20 novembre 1912, n. 1205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-11-20;1205), riguardante le norme relative alla costituzione del Ministero delle colonie;
+Visto il [R. decreto 20 novembre 1912, n. 1205](riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md), riguardante le norme relative alla costituzione del Ministero delle colonie;
 
-Riconosciuta l'opportunita' di modificare alcuni articoli dell'ordinamento amministrativo della Colonia eritrea, approvata con [R. decreto 22 settembre 1905, numero 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-09-22;507), e di aggiungere alcune disposizioni;
+Riconosciuta l'opportunita' di modificare alcuni articoli dell'ordinamento amministrativo della Colonia eritrea, approvata con [R. decreto 22 settembre 1905, numero 507](Che%20approva%20lannesso%20ordinamento%20amministrativo%20per%20la%20colonia%20Eritrea%20005U0507.md), e di aggiungere alcune disposizioni;
 
 Udito il parere del Consiglio coloniale;
 

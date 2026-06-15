@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visti la [legge 12 gennaio 1933, n. 141](Delega%20al%20Governo%20dei%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0141.md), il [R. decreto 15 maggio 1933, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-05-15;590), il [R. decreto-legge 14 gennaio 1937, n. 848](Attribuzione%20alle%20Corporazioni%20delle%20funzioni%20attualmente%20demandate%20alla%20Commissione%20per%20i%20nuovi%20impianti%20industriali%20al%20Comitato%20nazionale%20per%20lindustria%20dei%20colori%20organici%20sintetici%20ed_c7d5faf8587b.md);
+Visti la [legge 12 gennaio 1933, n. 141](Delega%20al%20Governo%20dei%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0141.md), il [R. decreto 15 maggio 1933, n. 590](Norme%20per%20lattuazione%20della%20legge%2012%20gennaio%201933%20n.%20141%20con%20cui%20furono%20delegati%20al%20Governo%20del%20Re%20i%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0590.md), il [R. decreto-legge 14 gennaio 1937, n. 848](Attribuzione%20alle%20Corporazioni%20delle%20funzioni%20attualmente%20demandate%20alla%20Commissione%20per%20i%20nuovi%20impianti%20industriali%20al%20Comitato%20nazionale%20per%20lindustria%20dei%20colori%20organici%20sintetici%20ed_c7d5faf8587b.md);
 
 Visto il [R. decreto-legge 14 luglio 1937, n. 1243](Provvedimenti%20per%20la%20produzione%20della%20gomma%20sintetica.%20037U1243.md);
 

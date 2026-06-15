@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'art. 463 del regolamento approvato con il [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md), per l'esecuzione del Codice per la marina mercantile;
 
-Visto il [R. decreto-legge 30 aprile 1924, n. 596](Istituzione%20del%20Ministero%20delle%20comunicazioni.%20024U0596.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), che istituisce il Ministero delle comunicazioni:
+Visto il [R. decreto-legge 30 aprile 1924, n. 596](Istituzione%20del%20Ministero%20delle%20comunicazioni.%20024U0596.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), che istituisce il Ministero delle comunicazioni:
 
 Ritenuto, necessario di stabilire nuove caratteristiche della bandiera dei bastimenti da diporto;
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [decreto-legge 16 agosto 1922, n. 1166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1922-08-16;1166), convertito in legge per effetto della [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [decreto-legge 16 agosto 1922, n. 1166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1922-08-16;1166), convertito in legge per effetto della [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -129,7 +129,7 @@ I Comuni ed i consorzi di Comuni hanno diritto di applicare per i contratti in c
 
 Il presente decreto entrera' in vigore il 1° settembre 1925 e sara' presentato al Parlamento per la conversione in legge. 
  
- Dalla detta data cessera' di applicarsi il [decreto-legge 16 agosto 1922, n. 1166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1922-08-16;1166), convertito in legge per effetto della [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473). Pero' gli aumenti applicati in base a tale decreto rimarranno fermi sino alla decorrenza a norma del capoverso dell'art. 3 dei maggiori aumenti autorizzati dal presente decreto. 
+ Dalla detta data cessera' di applicarsi il [decreto-legge 16 agosto 1922, n. 1166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1922-08-16;1166), convertito in legge per effetto della [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md). Pero' gli aumenti applicati in base a tale decreto rimarranno fermi sino alla decorrenza a norma del capoverso dell'art. 3 dei maggiori aumenti autorizzati dal presente decreto. 
  
  Tali aumenti resteranno del pari fermi nel caso in cui l'esercente non creda di giovarsi delle piu' favorevoli disposizioni di questo decreto.
 

@@ -27,7 +27,7 @@ L'importo massimo delle anticipazioni che il Ministro del tesoro e' autorizzato 
 ### Art. 3.
 
 Il [settimo comma dell'articolo 4 della legge 30 aprile 1982, n. 188](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%201982%20e%20bilancio%20pluriennale%20per%20il%20triennio%201982-84.md), e' sostituito dal seguente:
- "Ai sensi dell'[articolo 39 della legge 30 marzo 1981, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119#art_39), per l'anno finanziario 1982, e' stabilito in lire 45.000 miliardi l'importo massimo di emissione dei buoni ordinari del tesoro, al netto di quelli da rimborsare, ed in lire 160.000 miliardi il limite massimo di circolazione dei buoni medesimi".
+ "Ai sensi dell'[articolo 39 della legge 30 marzo 1981, n. 119](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201981.md), per l'anno finanziario 1982, e' stabilito in lire 45.000 miliardi l'importo massimo di emissione dei buoni ordinari del tesoro, al netto di quelli da rimborsare, ed in lire 160.000 miliardi il limite massimo di circolazione dei buoni medesimi".
 
 ### Art. 4.
 
@@ -56,7 +56,7 @@ Presidenza del Consiglio dei Ministri
 Ministero del tesoro 
 [Decreto-legge 8 aprile 1974, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-04-08;95), convertito, 
  con modificazioni, nella [legge 7 giugno 1974, 
- n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-07;216) - disposizioni relative al mercato mobi- 
+ n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20aprile%201974%20n.%2095%20recante%20disposizioni%20relative%20al%20mercato%20mobiliare%20ed%20al%20trattamento%20fiscale%20dei%20titoli%20azionari.md) - disposizioni relative al mercato mobi- 
  liare ed al trattamento fiscale dei titoli azio- 
  nari (cap. n. 5333)............................. 7.000.000.000 
 [Legge 26 gennaio 1980, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-01-26;16) - Disposizioni con- 
@@ -70,11 +70,11 @@ Ministero del tesoro
  finanziarie di alcune societa' autostradali 
 (cap. n. 7798).................................. 299.000.000.000 
 Ministero degli affari esteri 
-[Legge 4 ottobre 1966, n. 794](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-04;794) - Ratifica ed esecu- 
+[Legge 4 ottobre 1966, n. 794](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20internazionale%20per%20la%20costituzione%20dellIstituto%20Italo-Latino%20Americano%20firmata%20a%20Roma%20il%201%20giugno%201966.md) - Ratifica ed esecu- 
  zione della convenzione internazionale per la 
  costituzione dell'Istituto italolatino americano 
  (cap. n. 3117).................................. 1.800.000.000 
-[Legge 9 giugno 1977, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-06-09;358) - Ratifica ed esecu- 
+[Legge 9 giugno 1977, n. 358](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20istitutiva%20di%20una%20Agenzia%20spaziale%20europea%20A.S.E.%20con%20allegati%20firmata%20a%20Parigi%20il%2030%20maggio%201975.md) - Ratifica ed esecu- 
  zione della convenzione istitutiva di una Agen- 
  zia spaziale europea (ASE) (cap. n. 8251)....... 116.301.000.000 
 Ministero della sanita' 
@@ -91,7 +91,7 @@ Ministero della sanita'
 
 ### Art. 8.
 
-L'autorizzazione di spesa per l'anno 1982, di cui all'[articolo 17 della legge 30 marzo 1981, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119#art_17), relativa agli interventi per il concorso nella protezione civile e al soccorso delle popolazioni colpite da calamita', e' destinata, quanto a lire 19.500 milioni, all'acquisto di mezzi aerei da impiegare nella difesa dei boschi dagli incendi, con iscrizione nello stato di previsione del Ministero dell'agricoltura e delle foreste.
+L'autorizzazione di spesa per l'anno 1982, di cui all'[articolo 17 della legge 30 marzo 1981, n. 119](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201981.md), relativa agli interventi per il concorso nella protezione civile e al soccorso delle popolazioni colpite da calamita', e' destinata, quanto a lire 19.500 milioni, all'acquisto di mezzi aerei da impiegare nella difesa dei boschi dagli incendi, con iscrizione nello stato di previsione del Ministero dell'agricoltura e delle foreste.
 
 ### Art. 9.
 

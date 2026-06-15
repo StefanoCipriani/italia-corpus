@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e le successive sue modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e le successive sue modificazioni;
 
 Vista la [legge 23 giugno 1927, n. 1018](Reclutamento%20ed%20avanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20027U1018.md), e le successive sue modificazioni;
 
@@ -32,7 +32,7 @@ Nella gerarchia dei gradi di ufficiale generale della Regia aeronautica sono ist
  
  Nella progressione dei gradi il generale d'armata aerea prevede il generale di squadra aerea ed il Maresciallo dell'aria, precede il generale d'armata aerea. 
  
- Nella classificazione per gradi, di cui al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), il generale d'armata aerea ed il Maresciallo dell'aria rivestono rispettivamente il grado secondo e primo.
+ Nella classificazione per gradi, di cui al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), il generale d'armata aerea ed il Maresciallo dell'aria rivestono rispettivamente il grado secondo e primo.
 
 ## Art. 2.
 

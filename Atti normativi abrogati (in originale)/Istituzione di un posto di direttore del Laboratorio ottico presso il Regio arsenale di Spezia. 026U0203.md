@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'ordinamento gerarchico delle Amministrazioni dello Stato approvato con [R. decreto 11 novembre 1923, numero 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e successive modificazioni;
+Visto l'ordinamento gerarchico delle Amministrazioni dello Stato approvato con [R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili;
 
@@ -30,7 +30,7 @@ E' istituito presso il Regio arsenale di spezia un posto di direttore del Labora
 
 ## Art. 2.
 
-Nel ruolo organico del personale dei disegnatori per le direzioni delle armi ed armamenti navali di cui alla tabella n. 75 dell'allegato II al [R. decreto 11 novembre 1923, numero 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e' diminuito un posto di capo disegnatore principale. 
+Nel ruolo organico del personale dei disegnatori per le direzioni delle armi ed armamenti navali di cui alla tabella n. 75 dell'allegato II al [R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' diminuito un posto di capo disegnatore principale. 
  
  Finche' il numero dei capi disegnatori principali non sara' ridotto a quello stabilito dalla tabella, rimarranno vacanti altrettanti posti nel grado di capo disegnatore.
 

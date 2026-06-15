@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 9 luglio 1926, n. 1162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-09;1162), concernente il riordinamento del Servizio statistico;
+Vista la [legge 9 luglio 1926, n. 1162](Riordinamento%20del%20servizio%20statistico.%20026U1162.md), concernente il riordinamento del Servizio statistico;
 
-Visto il [R. decreto-legge 27 maggio 1929, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-05-27;1285), convertito nella [legge 21 dicembre 1929, n. 2238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-12-21;2238), contenente modifiche all'ordinamento dell' Istituto centrale di statistica;
+Visto il [R. decreto-legge 27 maggio 1929, n. 1285](Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), convertito nella [legge 21 dicembre 1929, n. 2238](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20maggio%201929%20n.%201285%20concernente%20modificazioni%20allordinamento%20dellIstituto%20centrale%20di%20statistica.%20029U2238.md), contenente modifiche all'ordinamento dell' Istituto centrale di statistica;
 
 Visto il [R. decreto-legge 25 ottobre 1941, n. 1148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-10-25;1148), sulla nominativita' obbligatoria dei titoli azionari;
 
@@ -35,7 +35,7 @@ Per iniziativa del Ministro per la Costituente, su segnalazione della Commission
 ## Art. 2.
 
 E' fatto obbligo a coloro, ai quali saranno rivolti gli appositi questionari, di rispondere con precisione ed esattezza a tutte le domande contenute in detti questionari.
- In caso di rifiuto od omissione o di comunicazione di notizie scientemente errate o incomplete, i, trasgressori sono passibili delle sanzioni previste dall'[art. 18 del R. decreto-legge 27 maggio 1929, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-05-27;1285#art_18), aumentate a norma del [decreto legislativo Luogotenenziale 5 ottobre 1945, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-05;679).
+ In caso di rifiuto od omissione o di comunicazione di notizie scientemente errate o incomplete, i, trasgressori sono passibili delle sanzioni previste dall'[art. 18 del R. decreto-legge 27 maggio 1929, n. 1285](Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), aumentate a norma del [decreto legislativo Luogotenenziale 5 ottobre 1945, n. 679](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20Codice%20penale%20e%20al%20Codice%20di%20procedura%20penale.%20045U0679.md).
 
 ## Art. 3.
 
@@ -51,7 +51,7 @@ Possono essere compiute ispezioni per controllare l'esattezza e compiutezza dell
 
 ## Art. 5.
 
-Per l'espletamento delle operazioni previste nel presente decreto e per tutta la durata di esse potra' essere assunto personale diurnista ai sensi e con il trattamento economico di cui al [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), e successive modificazioni, per non oltre 40 unita'.
+Per l'espletamento delle operazioni previste nel presente decreto e per tutta la durata di esse potra' essere assunto personale diurnista ai sensi e con il trattamento economico di cui al [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), e successive modificazioni, per non oltre 40 unita'.
 
 ## Art. 6.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 13 della legge 19 dicembre 1992, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489#art_13), recante delega al Governo per l'attuazione della [direttiva 92/25/CEE del Consiglio del 31 marzo 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;25);
+Visto l'[art. 13 della legge 19 dicembre 1992, n. 489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md), recante delega al Governo per l'attuazione della [direttiva 92/25/CEE del Consiglio del 31 marzo 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;25);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 dicembre 1992;
 
@@ -164,7 +164,7 @@ Ove medicinali immunologici o medicinali derivati dal sangue risultino prodotti 
 
 3.
 
-Restano ferme le disposizioni sul commercio all'ingrosso contenute nel testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309).
+Restano ferme le disposizioni sul commercio all'ingrosso contenute nel testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
 
 ## Art. 9. — Individuazione dei canali di distribuzione dei medicinali
 
@@ -260,7 +260,7 @@ Chiunque viola le disposizioni del presente decreto diverse da quelle del comma 
 
 1.
 
-E' abrogato l'[art. 188-bis del T.U. delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_188bis) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), modificato dalla [legge 1 maggio 1941, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-05-01;422).
+E' abrogato l'[art. 188-bis del T.U. delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_188bis) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), modificato dalla [legge 1 maggio 1941, n. 422](Modificazioni%20ed%20aggiunte%20ad%20alcuni%20articoli%20del%20testo%20unico%20delle%20leggi%20sanitarie%20approvato%20con%20R.%20decreto%2027%20luglio%201934-XII%20n.%201265.%20041U0422.md).
 
 2.
 

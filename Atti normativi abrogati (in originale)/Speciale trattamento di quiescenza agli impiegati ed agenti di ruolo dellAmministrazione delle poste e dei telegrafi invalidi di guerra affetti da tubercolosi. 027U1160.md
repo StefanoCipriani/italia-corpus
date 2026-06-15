@@ -18,7 +18,7 @@ Gli impiegati ed agenti di ruolo dell'Amministrazione delle poste e dei telegraf
  
  b) quelli che contano meno di sette anni di servizio di ruolo e fuori ruolo hanno diritto ad una indennita' pari a tanti dodicesimi dello stipendio di cui fruivano all'atto della cessazione dal servizio, quanti sono gli anni di servizio di ruolo e fuori ruolo prestato. 
  
- Per la liquidazione delle pensioni valgono le norme di cui all'[art. 8 del R. decreto n. 2480 del 21 novembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-21;2480#art_8) e successive modificazioni.
+ Per la liquidazione delle pensioni valgono le norme di cui all'[art. 8 del R. decreto n. 2480 del 21 novembre 1923](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md) e successive modificazioni.
 
 ## Art. 2.
 

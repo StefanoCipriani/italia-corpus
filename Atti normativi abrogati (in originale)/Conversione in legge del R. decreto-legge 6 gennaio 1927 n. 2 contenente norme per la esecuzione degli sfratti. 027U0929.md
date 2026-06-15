@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 gennaio 1927, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-06;2), contenente norme per la esecuzione degli sfratti. 
+ E' convertito in legge il [R. decreto-legge 6 gennaio 1927, n. 2](Norme%20per%20la%20esecuzione%20degli%20sfratti.%20027U0002.md), contenente norme per la esecuzione degli sfratti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

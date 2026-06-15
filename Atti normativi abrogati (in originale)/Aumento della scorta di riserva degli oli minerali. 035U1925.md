@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Vista la [legge 8 febbraio 1934, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-08;367);
+Vista la [legge 8 febbraio 1934, n. 367](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%202%20novembre%201933%20n.%201741%20concernente%20la%20disciplina%20dellimportazione%20lavorazione%20deposito%20e%20distribuzione%20degli%20olii%20minerali%20e%20dei%20carburanti.%20034U0367.md);
 
 Ritenuta la necessita' urgente ed assoluta di aumentare la percentuale di scorta di riserva di oli minerali;
 
@@ -38,7 +38,7 @@ Nel termine di giorni 10 dall'entrata in vigore del presente decreto tutti i con
 
 ## Art. 3.
 
-Le trasgressioni agli obblighi che deriveranno ai concessionari o gestori di oli minerali per effetto del precedente art. 1, saranno punite con le sanzioni di cui all'[art. 21 del R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_21), convertito nella [legge 8 febbraio 1934, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-08;367). 
+Le trasgressioni agli obblighi che deriveranno ai concessionari o gestori di oli minerali per effetto del precedente art. 1, saranno punite con le sanzioni di cui all'[art. 21 del R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_21), convertito nella [legge 8 febbraio 1934, n. 367](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%202%20novembre%201933%20n.%201741%20concernente%20la%20disciplina%20dellimportazione%20lavorazione%20deposito%20e%20distribuzione%20degli%20olii%20minerali%20e%20dei%20carburanti.%20034U0367.md). 
  
  La mancata, ritardata o falsa denuncia di cui al precedente art. 2 sara' punita con l'ammenda da L. 500 a L. 1000. 
  

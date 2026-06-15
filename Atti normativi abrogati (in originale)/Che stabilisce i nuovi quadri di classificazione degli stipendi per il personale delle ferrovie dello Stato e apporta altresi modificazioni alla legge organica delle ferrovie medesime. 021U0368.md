@@ -26,7 +26,7 @@ Negli stipendi indicati nei quadri di classificazione annessi alla presente legg
  
  b) gli aumenti di stipendio o paga di cui ai [decreti Luogotenenziali 11 giugno 1919, n. 913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-11;913) e [11 giugno 1919, n. 1023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-11;1023); 
  
- c) l'anticipo di cui all'[art. 3 del Regio decreto-legge 2 maggio 1920, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-05-02;615#art_3), aumentato dell'equivalente importo di ricchezza mobile; 
+ c) l'anticipo di cui all'[art. 3 del Regio decreto-legge 2 maggio 1920, n. 615](Contenente%20provvedimenti%20economici%20a%20favore%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20020U0615.md), aumentato dell'equivalente importo di ricchezza mobile; 
  
  d) la somma di lire 800 annue, aumentata dell'equivalente importo di ricchezza mobile, e per le guardabarriere, la somma dl lire 180 annue, corrispondenti ad una parte dell'indennita' caro viveri di cui ai [decreti Luogotenenziali 18 agosto 1918, n. 1145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-18;1145) e [14 settembre 1918, n. 1314 (art. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1314#art_9)); 
  
@@ -61,7 +61,7 @@ Sara' provveduto con decreto Reale, su proposta del ministro dei lavori pubblici
 
 ## Art. 8.
 
-Ai sottoindicati articoli della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificati col [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728), sono apportate le seguenti modificazioni: 
+Ai sottoindicati articoli della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificati col [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), sono apportate le seguenti modificazioni: 
  
  Ai paragrafi 4°, 5°, 6°, 8°, dell'art. 6 sono sostituiti i seguenti: Paragrafo 4°) «approva i progetti per lavori sulle linee e dipendenze e le provviste d'importo superiore a L. 200.000». 
  

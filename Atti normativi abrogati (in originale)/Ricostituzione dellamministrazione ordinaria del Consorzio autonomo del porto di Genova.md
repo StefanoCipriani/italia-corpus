@@ -12,7 +12,7 @@ vigente: true
 
 A decorrere dal 1° gennaio 1946, e' ricostituita l'amministrazione ordinaria del Consorzio autonomo del porto di Genova ed e' nominato presidente il dott. ingegnere Carlo Canepa, attuale commissario straordinario alla Presidenza fin dal 24 aprile 1945, data con la quale il tenente generale di porto in ausiliaria Francesco Pasciuto ha cessato dalla carica di presidente del Consorzio stesso.
  Fin al giorno della prima convocazione dell'assemblea generale dell' Ente, che dovra', aver luogo non oltre trenta giorni dall'entrata in vigore del presente decreto, al dott. ing. Carlo Canepa spettano i poteri del Regio commissario di cui all'art. 35 del testo unico delle disposizioni legislative concernenti la costituzione del Consorzio> approvato con [R. decreto 16 gennaio 1936,
-n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-01-16;801).
+n. 801](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20di%20un%20Consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20036U0801.md).
 
 ## Art. 2.
 

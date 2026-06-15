@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1566), che proroga fino al 31 dicembre 1934 il trattamento doganale stabilito col [R. decreto-legge 17 settembre 1931, n. 1190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-17;1190), sul carbone di legna. 
+ E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1566](Proroga%20al%2031%20dicembre%201934%20del%20trattamento%20doganale%20stabilito%20col%20R.%20decreto-legge%2017%20settembre%201931%20n.%201190%20sul%20carbone%20di%20legna.%20033U1566.md), che proroga fino al 31 dicembre 1934 il trattamento doganale stabilito col [R. decreto-legge 17 settembre 1931, n. 1190](Istituzione%20fino%20al%2031%20dicembre%201932%20di%20un%20dazio%20di%20confine%20sul%20carbone%20di%20legna.%20031U1190.md), sul carbone di legna. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

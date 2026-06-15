@@ -120,7 +120,7 @@ Al [secondo](Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%2
 
 Al primo comma dell'art. 27 della legge 18 giugno 1931, n, 987, e' sostituito il seguente: 
  
- «La direzione tecnica dei consorzi obbligatori di cui ai precedenti articoli 15, 16 e 17 e' affidata a personale specializzato. La nomina di tale personale ha luogo in seguito a concorso da bandirsi con le norme che saranno dettate dal regolamento di cui all'art. 4, o mediante chiamata dei funzionari appartenenti al ruolo dei delegati tecnici antifillosserici, di cui alla tabella B del [R. decreto 19 marzo 1931, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-03-19;247). Il trattamento economico sara' stabilito nel regolamento stesso».
+ «La direzione tecnica dei consorzi obbligatori di cui ai precedenti articoli 15, 16 e 17 e' affidata a personale specializzato. La nomina di tale personale ha luogo in seguito a concorso da bandirsi con le norme che saranno dettate dal regolamento di cui all'art. 4, o mediante chiamata dei funzionari appartenenti al ruolo dei delegati tecnici antifillosserici, di cui alla tabella B del [R. decreto 19 marzo 1931, n. 247](Approvazione%20dei%20nuovi%20ruoli%20organici%20dei%20personali%20dipendenti%20dal%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20031U0247.md). Il trattamento economico sara' stabilito nel regolamento stesso».
 
 ## Art. 12.
 

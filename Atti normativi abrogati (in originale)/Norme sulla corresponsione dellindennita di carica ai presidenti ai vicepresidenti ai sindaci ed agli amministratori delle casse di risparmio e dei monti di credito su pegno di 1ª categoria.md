@@ -32,7 +32,7 @@ E' vietato agli amministratori ed ai sindaci delle casse di risparmio e dei mont
 
 4.
 
-Sono abrogati il primo, il terzo ed il [quarto comma dell'articolo 21 del regio decreto 25 aprile 1929, n. 967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-04-25;967#art_21-com4).
+Sono abrogati il primo, il terzo ed il [quarto comma dell'articolo 21 del regio decreto 25 aprile 1929, n. 967](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20Casse%20di%20risparmio%20e%20sui%20Monti%20di%20pieta%20di%20prima%20categoria.%20029U0967.md).
 
 NOTE
 

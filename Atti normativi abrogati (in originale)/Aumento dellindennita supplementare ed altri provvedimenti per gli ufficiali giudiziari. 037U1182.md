@@ -32,7 +32,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la gra
 
 Al primo comma dell'art. 5 del. [R. decreto-legge 14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561), convertito in legge con la [legge 14 giugno 1934, n. 1038](Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20aprile%201934%20n.%20561%20recante%20riduzione%20degli%20stipendi%20ed%20altre%20competenze%20del%20personale%20dipendente%20dallo%20Stato%20e%20dagli%20Enti%20locali%20e%20parastatali.%20034U1038.md), e' sostituito il seguente: 
  
- «L'importo complessivo dei proventi e della percentuale del dieci per cento riscossi in ciascun mese dagli ufficiali giudiziari, al netto delle ritenute, tasse e sopratasse e delle eventuali spese per i commessi determinate ai sensi della [legge 22 dicembre 1932, n. 1675](Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md), e del [R. decreto 8 giugno 1933, n. 621](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-08;621), e' assoggettato alla riduzione: 
+ «L'importo complessivo dei proventi e della percentuale del dieci per cento riscossi in ciascun mese dagli ufficiali giudiziari, al netto delle ritenute, tasse e sopratasse e delle eventuali spese per i commessi determinate ai sensi della [legge 22 dicembre 1932, n. 1675](Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md), e del [R. decreto 8 giugno 1933, n. 621](Norme%20di%20coordinamento%20e%20di%20attuazione%20della%20legge%2022%20dicembre%201932%20n.%201675%20che%20modifica%20lordinamento%20degli%20ufficiali%20giudiziari.%20033U0621.md), e' assoggettato alla riduzione: 
  
  dell'1 per cento, se eccede le L. 500 e non supera le L. 1000; 
  
@@ -52,7 +52,7 @@ Il primo comma dell'art. 1 della legge 22 dicembre 1932, n, 1675, e' modificato 
 
 Al [primo comma dell'art. 3 della legge 22 dicembre 1932, n. 1675](Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md), e' sostituito il seguente: 
  
- «Sui proventi di cui al n. 1 dell'art. 1 del testo organico approvato con [R. decreto 28 dicembre 1924, n. 2271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-28;2271), escluse le indennita' di trasferta, quando il loro ammontare superi la somma di L. 28.500 annue, l'ufficiale giudiziario deve versare allo Stato il 50 per cento della parte dei proventi riscossi che ecceda la detta somma, ma non L. 45.600 ed il 70 per cento della parte eccedente le L. 45.600». 
+ «Sui proventi di cui al n. 1 dell'art. 1 del testo organico approvato con [R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), escluse le indennita' di trasferta, quando il loro ammontare superi la somma di L. 28.500 annue, l'ufficiale giudiziario deve versare allo Stato il 50 per cento della parte dei proventi riscossi che ecceda la detta somma, ma non L. 45.600 ed il 70 per cento della parte eccedente le L. 45.600». 
  
  Il primo comma dell'art. 4 della medesima [legge 22 dicembre 1932, n. 1675](Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md), e' sostituito dal seguente: 
  

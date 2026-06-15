@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduta la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Veduta la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -32,11 +32,11 @@ Ai giovani, appartenenti ai territori della cessata monarchia austro-ungarica oc
 
 ## Art. 2.
 
-I giovani predetti possono chiedere la immatricolazione e la iscrizione alle Universita' ed agli Istituti di istruzione superiore non oltre il 31 marzo 1919 presentando, come titolo di studi secondari, gli attestati di maturita' conferiti dai ginnasi, dai ginnasi Reali o dalle scuole Reali superiori austro-ungariche. In deroga dell'art. 95 del regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, n. 796](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;796), sui titoli cosi' prodotti non occorre il giudizio dei Consigli accademici o direttivi; il riconoscimento della regolarita' dei detti attestati e' devoluto al rettore della Universita' o al direttore della scuola superiore.
+I giovani predetti possono chiedere la immatricolazione e la iscrizione alle Universita' ed agli Istituti di istruzione superiore non oltre il 31 marzo 1919 presentando, come titolo di studi secondari, gli attestati di maturita' conferiti dai ginnasi, dai ginnasi Reali o dalle scuole Reali superiori austro-ungariche. In deroga dell'art. 95 del regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), sui titoli cosi' prodotti non occorre il giudizio dei Consigli accademici o direttivi; il riconoscimento della regolarita' dei detti attestati e' devoluto al rettore della Universita' o al direttore della scuola superiore.
 
 ## Art. 3.
 
-I corsi a cui i predetti giovani siano stati inscritti nelle Universita' od in altri Istituti di istruzione superiore della cessata monarchia austro-ungarica sono riconosciuti validi, senza che intervenga la decisione della Facolta' o scuola di cui all'art. 95 del citato regolamento generale universitario, equiparandosi ad un anno di corso l'eventuale semestre dispari. Sono altresi' ritenuti validi, agli effetti della carriera scolastica negli atenei ed Istituti nazionali, gli esami superati presso le Universita' e gli altri Istituti superiori austro-ungarici e cio' in deroga dell'art. 96 del testo unico delle leggi sull' istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795). 
+I corsi a cui i predetti giovani siano stati inscritti nelle Universita' od in altri Istituti di istruzione superiore della cessata monarchia austro-ungarica sono riconosciuti validi, senza che intervenga la decisione della Facolta' o scuola di cui all'art. 95 del citato regolamento generale universitario, equiparandosi ad un anno di corso l'eventuale semestre dispari. Sono altresi' ritenuti validi, agli effetti della carriera scolastica negli atenei ed Istituti nazionali, gli esami superati presso le Universita' e gli altri Istituti superiori austro-ungarici e cio' in deroga dell'art. 96 del testo unico delle leggi sull' istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md). 
  
  I detti giovani, ottenuta la immatricolazione ed iscrizione nelle Universita' od Istituti superiori nazionali, possono presentarsi direttamente, nelle diverse sessioni ordinarie, a dare gli esami sulle materie da essi gia' frequentate negli Istituti austro-ungarici. 
  

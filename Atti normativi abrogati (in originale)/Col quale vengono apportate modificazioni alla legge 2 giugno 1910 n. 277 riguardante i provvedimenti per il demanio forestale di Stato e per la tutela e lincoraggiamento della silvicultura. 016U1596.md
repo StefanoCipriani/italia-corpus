@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 2 giugno 1910, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277);
+Vista la [legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md);
 
 Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto con quelli del tesoro e delle finanze;
 
@@ -28,7 +28,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-A decorrere dal 1° gennaio 1917 gli [articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277#art_15) e [16 della legge 2 giugno 1910, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277#art_16) sono sostituiti dai seguenti: 
+A decorrere dal 1° gennaio 1917 gli [articoli 15](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md) e [16 della legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md) sono sostituiti dai seguenti: 
  
  Art. 15. - Presso la Cassa dei depositi e prestiti sara' aperto un conto corrente fruttifero al quale il Ministero di agricoltura versera' ogni anno, in due rate, nei mesi di luglio e gennaio, tutti i fondi stanziati nel suo bilancio per il servizio forestale, tranne quelli relativi alle spese di personale. 
  
@@ -58,21 +58,21 @@ A decorrere dal 1° gennaio 1917 gli [articoli 15](https://www.normattiva.it/uri
 
 ## Art. 2.
 
-E' aggiunto nella [legge 2 giugno 1910, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277), il seguente: 
+E' aggiunto nella [legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md), il seguente: 
  
- Art. 17.-bis. - L'Azienda del Demanio forestale dovra', alla fine di ciascun esercizio finanziario, versare al tesoro, sui redditi di cui alla lettera a) dello art. 15 la somma di L. 600.000 (lire seicentomila) e sui redditi di cui alla lettera b) dello stesso articolo la somma di L. 52.684,30 (lire cinquantaduemila seicento ottantaquattro e centesimi trenta); corrispondente al provento medio accertato pel biennio precedente alla promulgazione della [legge 2 giugno 1910, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277). 
+ Art. 17.-bis. - L'Azienda del Demanio forestale dovra', alla fine di ciascun esercizio finanziario, versare al tesoro, sui redditi di cui alla lettera a) dello art. 15 la somma di L. 600.000 (lire seicentomila) e sui redditi di cui alla lettera b) dello stesso articolo la somma di L. 52.684,30 (lire cinquantaduemila seicento ottantaquattro e centesimi trenta); corrispondente al provento medio accertato pel biennio precedente alla promulgazione della [legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md). 
  
  Qualora l'Azienda, durante l'esercizio finanziario, abbia riscosso per i redditi indicati alle lettere a) e b) dell'art. 15 somme inferiori rispettivamente a lire 600.000 ed a lire 52.684,30 dovra', alla fine di esso, versare al tesoro, per intero, le sole somme effettivamente riscosse.
 
 ## Art. 3.
 
-All'[art. 18 della legge 2 giugno 1910, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277#art_18), e' sostituito il seguente: 
+All'[art. 18 della legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md), e' sostituito il seguente: 
  
  Art. 18. - Le somme corrispondenti alle entrate di cui all'art. 16 sono amministrate dall'Azienda speciale del Demanio forestale di Stato, che, dedotti i contritributi dovuti al tesoro ai sensi dell'art. 17-bis, provvede ai servizi contemplati dalla presente legge, anche mediante mandati a disposizione e di anticipazione da emettersi a favore dei funzionari indicati dal regolamento speciale di contabilita' dell'Azienda.
 
 ## Art. 4.
 
-A parziale modificazione dell'[art. 9 della legge 2 giugno 1910, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277#art_9), si stabilisce che il direttore generale della Cassa di depositi e prestiti entri a far parte del Consiglio d'amministrazione dell'Azienda speciale del Demanio forestale di Stato.
+A parziale modificazione dell'[art. 9 della legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md), si stabilisce che il direttore generale della Cassa di depositi e prestiti entri a far parte del Consiglio d'amministrazione dell'Azienda speciale del Demanio forestale di Stato.
 
 ## Art. 5.
 

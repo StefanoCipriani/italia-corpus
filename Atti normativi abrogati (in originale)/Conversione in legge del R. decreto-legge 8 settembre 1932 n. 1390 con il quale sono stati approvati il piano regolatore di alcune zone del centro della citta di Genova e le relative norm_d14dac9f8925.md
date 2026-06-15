@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 settembre 1932, n. 1390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-08;1390), con il quale sono stati approvati il piano regolatore di alcune zone del centro della citta' di Genova e le relative norme di attuazione. 
+ E' convertito in legge il [R. decreto-legge 8 settembre 1932, n. 1390](Approvazione%20del%20piano%20regolatore%20di%20alcune%20zone%20del%20centro%20della%20citta%20di%20Genova%20e%20delle%20relative%20norme%20di%20attuazione.%20032U1390.md), con il quale sono stati approvati il piano regolatore di alcune zone del centro della citta' di Genova e le relative norme di attuazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

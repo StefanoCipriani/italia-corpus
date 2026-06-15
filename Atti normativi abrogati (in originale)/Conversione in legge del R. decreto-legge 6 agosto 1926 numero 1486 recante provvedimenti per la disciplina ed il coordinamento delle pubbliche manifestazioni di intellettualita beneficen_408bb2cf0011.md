@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 agosto 1926, n. 1486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-06;1486), recante provvedimenti per la disciplina ed il coordinamento delle pubbliche manifestazioni di intellettualita', beneficenza, sport e delle commemorazioni ed onoranze. 
+ E' convertito in legge il [R. decreto-legge 6 agosto 1926, n. 1486](Provvedimenti%20per%20la%20disciplina%20ed%20il%20coordinamento%20delle%20pubbliche%20manifestazioni%20di%20intellettualita%20beneficenza%20sport%20e%20delle%20commemorazioni%20ed%20onoranze.%20026U1486.md), recante provvedimenti per la disciplina ed il coordinamento delle pubbliche manifestazioni di intellettualita', beneficenza, sport e delle commemorazioni ed onoranze. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

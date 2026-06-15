@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), concernente l'esercizio delle assicurazioni private, convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e modificato con [R. decreto-legge 5 aprile 1925, n. 440](Modificazioni%20al%20Regio%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0440.md), convertito in [legge 11 febbraio 1926, numero 254](Conversione%20in%20legge%20del%20R.%20decreto%205%20aprile%201925%20n.%20440%20che%20reca%20modificazioni%20al%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20convertito%20in%20legge%20con%20legge%2017%20aprile%201925%20n.%20473%20concernente%20l_be6e57486759.md);
+Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), concernente l'esercizio delle assicurazioni private, convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e modificato con [R. decreto-legge 5 aprile 1925, n. 440](Modificazioni%20al%20Regio%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0440.md), convertito in [legge 11 febbraio 1926, numero 254](Conversione%20in%20legge%20del%20R.%20decreto%205%20aprile%201925%20n.%20440%20che%20reca%20modificazioni%20al%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20convertito%20in%20legge%20con%20legge%2017%20aprile%201925%20n.%20473%20concernente%20l_be6e57486759.md);
 
 Ritenuta la necessita' urgente ed assoluta di emanare disposizioni modificative ed integrative delle citate leggi;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-Le imprese nazionali ed estere di assicurazione contro i danni non possono ottenere l'autorizzazione ad esercitare l'assicurazione se, oltre adempiere alle disposizioni del [Regio decreto 29 aprile 1923, n. 966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-29;966), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), non dimostrano di possedere, se si tratta di societa' anonime anche a forma cooperativa, un capitale azionario non inferiore a 5,000,000 di lire, di cui almeno 2,500,000 lire versati, oppure, se si tratta di associazioni di mutua assicurazione, un fondo di garanzia non inferiore alle predette somme.
+Le imprese nazionali ed estere di assicurazione contro i danni non possono ottenere l'autorizzazione ad esercitare l'assicurazione se, oltre adempiere alle disposizioni del [Regio decreto 29 aprile 1923, n. 966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-29;966), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), non dimostrano di possedere, se si tratta di societa' anonime anche a forma cooperativa, un capitale azionario non inferiore a 5,000,000 di lire, di cui almeno 2,500,000 lire versati, oppure, se si tratta di associazioni di mutua assicurazione, un fondo di garanzia non inferiore alle predette somme.
 
 ## Art. 2.
 
@@ -50,7 +50,7 @@ I depositi attualmente esistenti, effettuati a norma dell'art. 145 del Codice di
 
 ## Art. 6.
 
-E' data facolta' al Governo del Re di riunire e coordinare in testo unico le disposizioni del presente decreto con quelle dei [decreti-legge 29 aprile 1923, n. 966, 24 settembre 1923, n. 2272, e 5 aprile 1925, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-04-05;440), nonche' di modificare il regolamento approvato con [R. decreto 4 gennaio 1925, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-04;63). 
+E' data facolta' al Governo del Re di riunire e coordinare in testo unico le disposizioni del presente decreto con quelle dei [decreti-legge 29 aprile 1923, n. 966, 24 settembre 1923, n. 2272, e 5 aprile 1925, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-04-05;440), nonche' di modificare il regolamento approvato con [R. decreto 4 gennaio 1925, n. 63](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md). 
  
  Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per essere convertito in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

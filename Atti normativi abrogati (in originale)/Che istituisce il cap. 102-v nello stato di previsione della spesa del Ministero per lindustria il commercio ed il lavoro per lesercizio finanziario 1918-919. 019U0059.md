@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'[art. 6 del decreto Luogotenenziale 17 novembre 1918, n. 1698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-17;1698#art_6); 
  
- Vista la [legge 19 dicembre 1918, n. 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-12-19;1908); 
+ Vista la [legge 19 dicembre 1918, n. 1908](che%20proroga%20il%20termine%20indicato%20dalla%20legge%2023%20giugno%201918%20n.%20830%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201918-919%20fino%20a%20quando%20i%20medesimi%20non%20siano%20_7c441eeabe94.md); 
  
  Sulla proposta del ministro segretario di Stato per il tesoro, di concerto con quello per l'industria, il commercio e il lavoro; 
  

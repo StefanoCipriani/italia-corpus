@@ -21,7 +21,7 @@ Con effetto dal 1 luglio 1962, ai segretari comunali e provinciali e' attribuito
 
 ## Art. 2.
 
-L'assegno personale di cui all'[articolo 4 del decreto-legge 31 luglio 1954, n. 533](Disciplina%20relativa%20ai%20diritti%20compensi%20e%20proventi%20percepiti%20dal%20personale%20dellAmministrazione%20dello%20Stato.md), convertito, con modificazioni, nella [legge 26 settembre 1954, n. 869](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-09-26;869), e successive modificazioni, e' soppresso nei confronti di coloro cui e' applicabile l'articolo 1 della presente legge.
+L'assegno personale di cui all'[articolo 4 del decreto-legge 31 luglio 1954, n. 533](Disciplina%20relativa%20ai%20diritti%20compensi%20e%20proventi%20percepiti%20dal%20personale%20dellAmministrazione%20dello%20Stato.md), convertito, con modificazioni, nella [legge 26 settembre 1954, n. 869](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20luglio%201954%20n.%20533%20concernente%20la%20disciplina%20relativa%20ai%20diritti%20compensi%20e%20proventi%20percepiti%20dal%20personale%20delle%20Amministrazi_631f97d7053e.md), e successive modificazioni, e' soppresso nei confronti di coloro cui e' applicabile l'articolo 1 della presente legge.
  Per coloro nei confronti dei quali l'assegno personale di cui al precedente comma viene soppresso, l'eventuale differenza fra la misura dell'assegno stesso goduto alla, data del 30 giugno 1962 e quella dell'assegno mensile di cui alla presente legge va riassorbita per effetto degli aumenti di quest'ultimo assegno per progressione di carriera.
 
 ## Art. 3.

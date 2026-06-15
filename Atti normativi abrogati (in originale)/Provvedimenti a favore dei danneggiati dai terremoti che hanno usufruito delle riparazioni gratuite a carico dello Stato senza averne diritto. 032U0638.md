@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 38 del R. decreto-legge 16 novembre 1921, n. 1705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-11-16;1705#art_38), e' sostituito dal seguente: 
+L'[art. 38 del R. decreto-legge 16 novembre 1921, n. 1705](Che%20reca%20provvedimenti%20in%20dipendenza%20dei%20terremoti.%20021U1705.md), e' sostituito dal seguente: 
  «I danneggiati da terremoti, che, avendo avuto riparati d'ufficio i loro stabili, risultarono poi non aver diritto a siffatto beneficio, possono ottenere che la somma occorsa per le riparazioni venga calcolata sull'importo dei contributi loro spettanti, restando cosi' sospesa la procedura coattiva per il recupero della somma spesa dallo Stato. 
  «A tale fine il Prefetto, dopo che avra' resa esecutiva la nota di spese, ai sensi dell'art. 153 della legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), trasmettera' la nota stessa all'Intendenza di finanza competente, la quale invitera' l'intestatario, a mezzo di messo comunale, a dichiarare se intenda chiedere il contributo, fissando il termine per la risposta a giorni 15 dalla data di notifica, ed il termine di altri giorni 60 dalla scadenza del primo, per provvedere i documenti sottoindicati: 
  «1° titoli giustificativi del possesso legittimo del fabbricato riparato. Tale documentazione potra' farsi anche con la procedura degli [articoli 1](Concernente%20lattuazione%20di%20quella%20portante%20il%20n.%204511%20Serie%203ª%2031%20maggio%201887%20relativa%20ai%20danneggiati%20dal%20terremoto%20in%20Liguria%20nel%201887.%20088U5447.md) e [2 della legge 19 giugno 1888, numero 5447](Concernente%20lattuazione%20di%20quella%20portante%20il%20n.%204511%20Serie%203ª%2031%20maggio%201887%20relativa%20ai%20danneggiati%20dal%20terremoto%20in%20Liguria%20nel%201887.%20088U5447.md); 
@@ -24,7 +24,7 @@ L'[art. 38 del R. decreto-legge 16 novembre 1921, n. 1705](https://www.normattiv
 
 ## Art. 2.
 
-I termini di cui all'[art. 1 del R. decreto-legge 19 dicembre 1926, n. 2178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-19;2178#art_1), e all'[art. 4 della legge 27 giugno 1929, numero 1069](Provvedimenti%20a%20favore%20delle%20localita%20danneggiate%20dai%20terremoti.%20029U1069.md), non sono applicabili alle domande di cui all'[articolo 38 del R. decreto-legge 16 novembre 1921, n. 1705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-11-16;1705#art_38). 
+I termini di cui all'[art. 1 del R. decreto-legge 19 dicembre 1926, n. 2178](Provvedimenti%20a%20favore%20dei%20danneggiati%20dai%20terremoti.%20026U2178.md), e all'[art. 4 della legge 27 giugno 1929, numero 1069](Provvedimenti%20a%20favore%20delle%20localita%20danneggiate%20dai%20terremoti.%20029U1069.md), non sono applicabili alle domande di cui all'[articolo 38 del R. decreto-legge 16 novembre 1921, n. 1705](Che%20reca%20provvedimenti%20in%20dipendenza%20dei%20terremoti.%20021U1705.md). 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 26 maggio 1932 - Anno X 
  

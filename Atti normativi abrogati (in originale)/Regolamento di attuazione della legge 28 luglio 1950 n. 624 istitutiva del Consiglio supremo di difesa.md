@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 28 luglio 1950, n. 624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-28;624), istitutiva del Consiglio supremo di difesa;
+Vista la [legge 28 luglio 1950, n. 624](Istituzione%20del%20Consiglio%20supremo%20di%20difesa.md), istitutiva del Consiglio supremo di difesa;
 
 Ritenuto che ai sensi dell'art. 9 della citata legge il Governo e' autorizzato ad emanare le norme necessarie all'attuazione della stessa;
 
@@ -34,10 +34,10 @@ E M A N A il seguente regolamento:
 
 1.
 
-Il Consiglio supremo di difesa, di seguito denominato Consiglio, e' disciplinato dall'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87), dalla [legge 28 luglio 1950, n. 624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-28;624), e dal presente regolamento.
+Il Consiglio supremo di difesa, di seguito denominato Consiglio, e' disciplinato dall'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87), dalla [legge 28 luglio 1950, n. 624](Istituzione%20del%20Consiglio%20supremo%20di%20difesa.md), e dal presente regolamento.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note all'art. 1:
  - Il testo dell'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) e' il seguente:
@@ -63,7 +63,7 @@ Il Consiglio si riunisce almeno due volte l'anno, di norma nei mesi di ottobre e
 
 2.
 
-La convocazione e' effettuata, qualora non ricorra l'ipotesi di cui all'art. 4, con la comunicazione dell'ordine del giorno ai componenti ordinari del Consiglio e a coloro i quali siano stati invitati ai sensi dell'[art. 3 della legge 28 luglio 1950, n. 624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-28;624#art_3), di norma cinque giorni prima della seduta, salvo casi di urgenza.
+La convocazione e' effettuata, qualora non ricorra l'ipotesi di cui all'art. 4, con la comunicazione dell'ordine del giorno ai componenti ordinari del Consiglio e a coloro i quali siano stati invitati ai sensi dell'[art. 3 della legge 28 luglio 1950, n. 624](Istituzione%20del%20Consiglio%20supremo%20di%20difesa.md), di norma cinque giorni prima della seduta, salvo casi di urgenza.
 
 3.
 
@@ -93,7 +93,7 @@ In tal caso l'ordine del giorno e' classificato "riservato" ed e' come tale cons
 
 2.
 
-Il regime di segretezza delle singole sedute o di parte di esse e' stabilito ai sensi della [legge 24 ottobre 1977, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-24;801), in relazione alle materie od agli oggetti trattati. Detto regime sara' indicato dal Presidente all'inizio di ogni seduta.
+Il regime di segretezza delle singole sedute o di parte di esse e' stabilito ai sensi della [legge 24 ottobre 1977, n. 801](Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md), in relazione alle materie od agli oggetti trattati. Detto regime sara' indicato dal Presidente all'inizio di ogni seduta.
 
 3.
 
@@ -106,7 +106,7 @@ Nota all'[art. 4:
 
 1.
 
-Il Presidente del Consiglio dei Ministri, a norma dell'[art. 2 della legge 28 luglio 1950, n. 624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-28;624#art_2), e' Vice Presidente del Consiglio e presiede lo stesso Consiglio in sostituzione del Presidente della Repubblica assente o impedito o per delega temporanea e revocabile, sempre che non si sia dato luogo alla supplenza prevista dall'art. 86 della Costituzione.
+Il Presidente del Consiglio dei Ministri, a norma dell'[art. 2 della legge 28 luglio 1950, n. 624](Istituzione%20del%20Consiglio%20supremo%20di%20difesa.md), e' Vice Presidente del Consiglio e presiede lo stesso Consiglio in sostituzione del Presidente della Repubblica assente o impedito o per delega temporanea e revocabile, sempre che non si sia dato luogo alla supplenza prevista dall'art. 86 della Costituzione.
 
 2.
 
@@ -163,11 +163,11 @@ Il Consiglio esamina i problemi generali e tecnici attinenti alla difesa naziona
 
 2.
 
-Con il consenso del Presidente, quando cio' sia richiesto da specifiche esigenze, i componenti ordinari del Consiglio e i Ministri invitati ai sensi dell'[art. 3 della legge 28 luglio 1950, n. 624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-28;624#art_3), possono farsi assistere nel corso della seduta da propri collaboratori, civili o militari, nel numero massimo di due.
+Con il consenso del Presidente, quando cio' sia richiesto da specifiche esigenze, i componenti ordinari del Consiglio e i Ministri invitati ai sensi dell'[art. 3 della legge 28 luglio 1950, n. 624](Istituzione%20del%20Consiglio%20supremo%20di%20difesa.md), possono farsi assistere nel corso della seduta da propri collaboratori, civili o militari, nel numero massimo di due.
 
 3.
 
-Il Presidente della Repubblica, d'intesa con il Presidente del Consiglio dei Ministri, puo' incaricare, quando invitati, i presidenti degli organi e degli istituti indicati nell'[art. 4 della legge 28 luglio 1950, n. 624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-28;624#art_4), nonche' le altre personalita' indicate nell'art. 3, secondo comma, della legge stessa, di riferire al Consiglio su particolari materie o oggetti di loro competenza.
+Il Presidente della Repubblica, d'intesa con il Presidente del Consiglio dei Ministri, puo' incaricare, quando invitati, i presidenti degli organi e degli istituti indicati nell'[art. 4 della legge 28 luglio 1950, n. 624](Istituzione%20del%20Consiglio%20supremo%20di%20difesa.md), nonche' le altre personalita' indicate nell'art. 3, secondo comma, della legge stessa, di riferire al Consiglio su particolari materie o oggetti di loro competenza.
 
 Note all'art. 8:
  - Per l'art. 3 della sopra citata [legge n. 624/1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950;624) v. precedente nota all'art. 2.
@@ -206,7 +206,7 @@ Il segretario redige il processo verbale di ciascuna seduta. Il processo verbale
 
 2.
 
-La declassificazione del verbale, o di parte di esso, e' di competenza del Presidente del Consiglio dei Ministri a norma della [legge 24 ottobre 1977, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-24;801), sentiti, per quanto di loro competenza, i Ministri degli affari esteri, dell'interno e della difesa.
+La declassificazione del verbale, o di parte di esso, e' di competenza del Presidente del Consiglio dei Ministri a norma della [legge 24 ottobre 1977, n. 801](Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md), sentiti, per quanto di loro competenza, i Ministri degli affari esteri, dell'interno e della difesa.
 
 3.
 
@@ -264,7 +264,7 @@ Se estraneo all'Amministrazione pubblica, il trattamento giuridico ed economico 
 
 1.
 
-Il segretario del Consiglio si avvale per l'espletamento dei suoi compiti dell'ufficio di segreteria previsto dall'[art. 6 della legge 28 luglio 1950, n. 624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-28;624#art_6), costituito presso la Presidenza del Consiglio dei Ministri ed alla cui ulteriore disciplina si provvede con decreto del Presidente del Consiglio dei Ministri, di concerto con i Ministri del tesoro e della difesa, che ne stabilisce le norme di funzionamento e il numero dei componenti.
+Il segretario del Consiglio si avvale per l'espletamento dei suoi compiti dell'ufficio di segreteria previsto dall'[art. 6 della legge 28 luglio 1950, n. 624](Istituzione%20del%20Consiglio%20supremo%20di%20difesa.md), costituito presso la Presidenza del Consiglio dei Ministri ed alla cui ulteriore disciplina si provvede con decreto del Presidente del Consiglio dei Ministri, di concerto con i Ministri del tesoro e della difesa, che ne stabilisce le norme di funzionamento e il numero dei componenti.
 
 2.
 
@@ -288,7 +288,7 @@ Nota all'art. 14:
 
 1.
 
-Le spese per il funzionamento del Consiglio, comprese quelle afferenti all'organizzazione, al funzionamento e al personale dell'ufficio di segreteria, ai sensi dell'[art. 8 della legge 28 luglio 1950, n. 624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-28;624#art_8), gravano su apposito capitolo dello stato di previsione della spesa del Ministero della difesa.
+Le spese per il funzionamento del Consiglio, comprese quelle afferenti all'organizzazione, al funzionamento e al personale dell'ufficio di segreteria, ai sensi dell'[art. 8 della legge 28 luglio 1950, n. 624](Istituzione%20del%20Consiglio%20supremo%20di%20difesa.md), gravano su apposito capitolo dello stato di previsione della spesa del Ministero della difesa.
 
 Nota all'art. 15:
  - Il testo dell'art. 8 della sopra citata [legge n. 624/1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950;624) e' il seguente:

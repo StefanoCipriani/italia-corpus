@@ -10,10 +10,10 @@ vigente: true
 
 ## Art. 1.
 
-Al testo unico delle leggi concernenti il sequestro, il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti dalle pubbliche Amministrazioni, approvato con [R. decreto 5 giugno 1941, n. 874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-06-05;874), sono apportate le seguenti modificazioni:
+Al testo unico delle leggi concernenti il sequestro, il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti dalle pubbliche Amministrazioni, approvato con [R. decreto 5 giugno 1941, n. 874](Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.%20041U0874.md), sono apportate le seguenti modificazioni:
  1. - L'art. 6, ultimo comma, e' modificato come appresso:
  "I prestiti possono essere contratti soltanto per periodi di cinque e dieci anni, salva l'applicazione degli articoli 14 e 24".
- 2. - All'art. 7, 2° comma, si aggiungono le seguenti parole: "nonche' per gli impiegati e salariati ex combattenti della guerra di liberazione e per coloro che abbiano ottenuto il riconoscimento della qualifica di partigiano ai sensi, del [decreto legislativo Luogotenenziale 21 agosto 1945, n 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;518)" e il 3° comma e' sostituito dal seguente:
+ 2. - All'art. 7, 2° comma, si aggiungono le seguenti parole: "nonche' per gli impiegati e salariati ex combattenti della guerra di liberazione e per coloro che abbiano ottenuto il riconoscimento della qualifica di partigiano ai sensi, del [decreto legislativo Luogotenenziale 21 agosto 1945, n 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md)" e il 3° comma e' sostituito dal seguente:
  "Il limite di quattro anni e' ridotto a due anni anche per gli impiegati e salariati che risultino invalidi, mutilati o feriti di guerra oppure decorati al valor militare".
  3. All'art. 16 si aggiunge il seguente comma:
  "Gli istituiti indicati al comma precedente non possono applicare alle operazioni di prestito condizioni di tasso e accessori piu' onerose di quelle adottate dal e Fondo per il credito ai dipendenti dello Stato".
@@ -62,7 +62,7 @@ Al testo unico delle leggi concernenti il sequestro, il pignoramento e la cessio
 
 ## Art. 2.
 
-Il [primo comma dell'art. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;22#art_28-com1) e l'[art. 29 della legge 19 gennaio 1942, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;22#art_29), istitutiva dell'Ente nazionale di previdenza e di assistenza per i dipendenti statali, sono sostituiti come segue:
+Il [primo comma dell'art. 28](Istituzione%20di%20un%20Ente%20nazionale%20fascista%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.%20042U0022.md) e l'[art. 29 della legge 19 gennaio 1942, n. 22](Istituzione%20di%20un%20Ente%20nazionale%20fascista%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.%20042U0022.md), istitutiva dell'Ente nazionale di previdenza e di assistenza per i dipendenti statali, sono sostituiti come segue:
  Art. 28 1° comma. - "Il trasferimento all'Ente delle attivita' e degli oneri attuali e differiti dell'Opera di previdenza a favore dei personali civile e militare dello Stato e dei loro superstiti, nonche' delle attivita e degli oneri derivanti dalla gestione della Cassa sovvenzioni istituita con la [legge 22 luglio 1906, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-22;623), e' disposto con decreto del Ministro per il tesoro, di concerto con quello per il lavoro e la previdenza sociale, entro tre mesi dall'entrata in vigore del presente decreto legislativo".
  Art. 29. - "L'Ente e' autorizzato ad investire i fondi di riserva per le gestioni ad esso affidate, le entrate eccedenti le sue normali necessita, ed in genere ogni sua attivita patrimoniale:
  a) in titoli di Stato o garantiti dallo Stato;

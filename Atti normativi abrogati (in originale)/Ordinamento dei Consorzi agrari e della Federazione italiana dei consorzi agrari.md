@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 18 maggio 1942, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-18;566), sul riordinamento degli Enti economici dell'agricoltura e dei Consorzi agrari;
+Vista la [legge 18 maggio 1942, n. 566](Riordinamento%20degli%20Enti%20economici%20dellagricoltura%20e%20dei%20Consorzi%20agrari.%20042U0566.md), sul riordinamento degli Enti economici dell'agricoltura e dei Consorzi agrari;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 14 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-14;98#art_3-com1);
 
@@ -268,7 +268,7 @@ Tutti gli atti o contratti che importino trapasso di diritti o di obbligazioni n
 
 ## Art. 39.
 
-Le disposizioni della [legge 18 maggio 1942, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-18;566), titolo II e quelle di leggi speciali incompatibili con le norme del presente decreto sono abrogate.
+Le disposizioni della [legge 18 maggio 1942, n. 566](Riordinamento%20degli%20Enti%20economici%20dellagricoltura%20e%20dei%20Consorzi%20agrari.%20042U0566.md), titolo II e quelle di leggi speciali incompatibili con le norme del presente decreto sono abrogate.
 
 ### Art. 40.
 

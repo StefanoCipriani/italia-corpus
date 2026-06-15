@@ -12,7 +12,7 @@ vigente: true
 
 Sino all'attuazione del nuovo Codice di commercio sono subordinate alla preventiva autorizzazione del Ministro per le corporazioni, di concerto col Ministro per le finanze, le costituzioni di societa' commerciali, con capitali di oltre un milione di lire. 
  
- Sono pure subordinati alla suddetta autorizzazione gli aumenti di capitale e le emissioni di obbligazioni di societa' commerciali, che, seppure deliberati o da effettuarsi in una o piu' riprese dalla data di entrata in vigore del [R. decreto-legge 5 settembre 1935, n. 1613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-05;1613), superino nel complesso la somma di un milione di lire. 
+ Sono pure subordinati alla suddetta autorizzazione gli aumenti di capitale e le emissioni di obbligazioni di societa' commerciali, che, seppure deliberati o da effettuarsi in una o piu' riprese dalla data di entrata in vigore del [R. decreto-legge 5 settembre 1935, n. 1613](Limitazione%20temporanea%20della%20distribuzione%20degli%20utili%20delle%20societa%20commerciali.%20035U1613.md), superino nel complesso la somma di un milione di lire. 
  
  Gli atti relativi non possono essere trascritti, affissi e pubblicati ove non siano corredati della predetta autorizzazione.
 

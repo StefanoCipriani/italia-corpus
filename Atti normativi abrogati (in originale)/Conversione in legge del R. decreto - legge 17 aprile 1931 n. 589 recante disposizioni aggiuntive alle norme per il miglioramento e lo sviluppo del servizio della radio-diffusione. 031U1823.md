@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 aprile 1931, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-17;589), recante disposizioni aggiuntive alle norme per il miglioramento e lo sviluppo del servizio della radio-diffusione. 
+ E' convertito in legge il [R. decreto-legge 17 aprile 1931, n. 589](Disposizioni%20aggiuntive%20alle%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20della%20radiodiffusione.%20031U0589.md), recante disposizioni aggiuntive alle norme per il miglioramento e lo sviluppo del servizio della radio-diffusione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

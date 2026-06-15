@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 gennaio 1927, n. 123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-09;123), che proroga fino al 30 giugno 1927 il termine utile per la presentazione delle dichiarazioni di costruzione dei piroscafi destinati alle linee sovvenzionate di carattere indispensabile. 
+ E' convertito in legge il [R. decreto-legge 9 gennaio 1927, n. 123](Proroga%20del%20termine%20per%20la%20presentazione%20delle%20dichiarazioni%20di%20costruzione%20di%20navi.%20027U0123.md), che proroga fino al 30 giugno 1927 il termine utile per la presentazione delle dichiarazioni di costruzione dei piroscafi destinati alle linee sovvenzionate di carattere indispensabile. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

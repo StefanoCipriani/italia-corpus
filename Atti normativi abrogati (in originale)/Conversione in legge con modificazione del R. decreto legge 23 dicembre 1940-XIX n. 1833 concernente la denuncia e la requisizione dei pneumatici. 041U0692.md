@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 dicembre 1940, n. 1833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-12-23;1833), concernente la denuncia e la requisizione dei pneumatici, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 23 dicembre 1940, n. 1833](Denuncia%20o%20requisizione%20dei%20pneumatici.%20040U1833.md), concernente la denuncia e la requisizione dei pneumatici, con la seguente modificazione: 
  
  L'art. 2 e' sostituito dal seguente: «I proprietari di autovetture, di motocarrozzette e di motocicli, immatricolati presso le Prefetture del Regno, sono tenuti a denunciare all'Ufficio provinciale del pubblico registro automobilistico i pneumatici di cui al precedente art. 1, entro dieci giorni dalla entrata in vigore del presente decreto. 
  

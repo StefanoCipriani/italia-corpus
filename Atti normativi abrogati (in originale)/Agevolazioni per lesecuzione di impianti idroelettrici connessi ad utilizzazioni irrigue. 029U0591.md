@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 2 ottobre 1919, n. 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1995), che reca provvedimenti a favore della produzione e della utilizzazione dell'energia idroelettrica, convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto 2 ottobre 1919, n. 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1995), che reca provvedimenti a favore della produzione e della utilizzazione dell'energia idroelettrica, convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il [R. decreto 5 settembre 1922, n. 1454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-09-05;1454), che reca analoghe norme per i territori annessi con le [leggi 26 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-12-19;1770);
+Visto il [R. decreto 5 settembre 1922, n. 1454](Che%20estende%20alle%20nuove%20Provincie%20le%20disposizioni%20relative%20alla%20produzione%20ed%20utilizzazione%20dellenergia%20elettrica.%20022U1454.md), che reca analoghe norme per i territori annessi con le [leggi 26 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-12-19;1770);
 
 Visto il [R. decreto 9 ottobre 1919, n. 2161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-09;2161), convertito in [legge 18 dicembre 1927, n. 2595](Convalidazione%20dei%20decreti-legge%20concernenti%20le%20derivazioni%20e%20utilizzazioni%20dacque%20pubbliche%20e%20delega%20al%20Governo%20di%20emanare%20un%20testo%20unico%20di%20legge%20contenente%20disposizioni%20riguardanti%20le%20_0189d862f685.md), sulle derivazioni di acque pubbliche;
 

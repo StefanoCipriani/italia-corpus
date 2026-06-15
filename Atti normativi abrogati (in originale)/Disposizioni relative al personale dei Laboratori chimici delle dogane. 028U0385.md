@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-La tabella n. 12 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), relativa al personale dei Laboratori chimici per le dogane, e' sostituita da quella annessa al presente decreto, firmata, d'ordine Nostro, dal Ministro proponente.
+La tabella n. 12 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), relativa al personale dei Laboratori chimici per le dogane, e' sostituita da quella annessa al presente decreto, firmata, d'ordine Nostro, dal Ministro proponente.
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ Le promozioni del personale del ruolo dei Laboratori chimici delle dogane sono r
  
  3° le promozioni al grado 8° sono conferite esclusivamente mediante esame di concorso, in base a programma da stabilirsi con decreto Ministeriale. Sono ammessi all'esame coloro che, alla data del decreto che lo indice, abbiano compiuto non meno di sei anni di effettivo servizio nel ruolo suindicato, ivi compreso il periodo di prova. 
  
- Saranno, altresi', ammessi all'esame coloro che raggiungano la cennata anzianita' computando, in aumento del servizio civile, quello prestato, anteriormente alla nomina ad impiego di ruolo, nei reparti combattenti durante la guerra 1915-18, nonche' il tempo trascorso lontano dai reparti stessi, per ferite o malattie contratte a causa di servizio o per prigionia non dipendente da circostanze imputabili all'interessato; a favore dei mutilati ed invalidi di guerra ascritti alle prime sei categorie, giusta la tabella annessa al [decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876), od alle corrispondenti categorie previste dal [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491), sara' anche valutato il tempo decorso dalla data della mutilazione o della invalidita', che determinarono l'allontanamento dai suddetti reparti, alla data dell'armistizio. 
+ Saranno, altresi', ammessi all'esame coloro che raggiungano la cennata anzianita' computando, in aumento del servizio civile, quello prestato, anteriormente alla nomina ad impiego di ruolo, nei reparti combattenti durante la guerra 1915-18, nonche' il tempo trascorso lontano dai reparti stessi, per ferite o malattie contratte a causa di servizio o per prigionia non dipendente da circostanze imputabili all'interessato; a favore dei mutilati ed invalidi di guerra ascritti alle prime sei categorie, giusta la tabella annessa al [decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876), od alle corrispondenti categorie previste dal [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sara' anche valutato il tempo decorso dalla data della mutilazione o della invalidita', che determinarono l'allontanamento dai suddetti reparti, alla data dell'armistizio. 
  
  Peraltro, la valutazione del servizio, ai sensi del precedente comma, potra' aver luogo soltanto se siano trascorsi almeno due anni dalla data in cui l'impiegato e' entrato effettivamente a far parte del ruolo dei chimici delle dogane, ed il personale a favore del quale e' ammessa tale valutazione potra' essere compreso fra i vincitori dell'esame per non oltre la meta' dei posti messi a concorso.
 

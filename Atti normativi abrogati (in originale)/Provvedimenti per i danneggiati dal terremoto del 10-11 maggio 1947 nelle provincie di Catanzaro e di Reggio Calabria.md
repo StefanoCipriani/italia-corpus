@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ E' autorizzata la spesa di lire un miliardo cinquecentomilioni da iscriversi in 
 
 ## Art. 2.
 
-I lavori da eseguire a termini del precedente art. 1, lettere a), b) e c), sono dichiarati di pubblica utilita' ed urgenti ed indifferibili, ai sensi degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_71), e successive modificazioni.
+I lavori da eseguire a termini del precedente art. 1, lettere a), b) e c), sono dichiarati di pubblica utilita' ed urgenti ed indifferibili, ai sensi degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e successive modificazioni.
 
 ## Art. 3.
 
@@ -101,7 +101,7 @@ Nell'esecuzione dei lavori di ricostruzione e di riparazioni di cui al presente 
 I fabbricati costruiti dallo Stato per alloggio dei senza tetto sono dati provvisoriamente in consegna ai Comuni che ne cureranno la gestione.
  Gli assegnatari degli alloggi devono corrispondere il canone di locazione stabilito all'atto dell'assegnazione dal Comune e determinato in relazione alla somma occorrente per spese generali e di manutenzione ordinaria e straordinaria dell'alloggio stesso, comprensivo anche di una quota per interesse in ragione del 0,50% dell'importo di costruzione. La quota di canone costituita dagli interessi e' versata al Tesoro dello Stato.
  Il Comune terra' per la gestione una contabilita' separata.
- Ai Comuni che ne facciano richiesta i fabbricati potranno essere ceduti in proprieta' con le modalita' ed alle condizioni stabilite dagli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-11;581#art_1), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-11;581#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-11;581#art_4) e [5 della legge 11 maggio 1942, n. 581](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-11;581#art_5).
+ Ai Comuni che ne facciano richiesta i fabbricati potranno essere ceduti in proprieta' con le modalita' ed alle condizioni stabilite dagli [articoli 1](Cessione%20agli%20Istituti%20fascisti%20autonomi%20provinciali%20per%20le%20case%20popolari%20di%20alloggi%20costruiti%20dallo%20Stato%20a%20seguito%20di%20pubbliche%20calamita.%20042U0581.md), [3](Cessione%20agli%20Istituti%20fascisti%20autonomi%20provinciali%20per%20le%20case%20popolari%20di%20alloggi%20costruiti%20dallo%20Stato%20a%20seguito%20di%20pubbliche%20calamita.%20042U0581.md), [4](Cessione%20agli%20Istituti%20fascisti%20autonomi%20provinciali%20per%20le%20case%20popolari%20di%20alloggi%20costruiti%20dallo%20Stato%20a%20seguito%20di%20pubbliche%20calamita.%20042U0581.md) e [5 della legge 11 maggio 1942, n. 581](Cessione%20agli%20Istituti%20fascisti%20autonomi%20provinciali%20per%20le%20case%20popolari%20di%20alloggi%20costruiti%20dallo%20Stato%20a%20seguito%20di%20pubbliche%20calamita.%20042U0581.md).
 
 ## Art. 15.
 

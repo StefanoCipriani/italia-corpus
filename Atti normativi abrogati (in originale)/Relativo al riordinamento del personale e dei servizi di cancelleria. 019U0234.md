@@ -131,7 +131,7 @@ La promozione dei funzionari di cancelleria e segreteria da uno ad altro grado, 
 
 ## Art. 10.
 
-Le Commissioni distrettuali, di cui all'[art. 12 della legge 18 luglio 1907, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-18;512#art_12), rese edotte dai capi degli uffici giudiziari con le informazioni motivate prescritte dal successivo art. 13 della stessa legge, debbono alla fine dell'anno esprimere il parere, con deliberazione motivata, sulla classifica dei funzionari di cancelleria e segreteria di grado inferiore a quello di cancelliere capo di Corte di appello che abbiano raggiunto la 1ª categoria. 
+Le Commissioni distrettuali, di cui all'[art. 12 della legge 18 luglio 1907, n. 512](Cancellerie%20e%20segreterie%20giudiziarie.%20007U0512.md), rese edotte dai capi degli uffici giudiziari con le informazioni motivate prescritte dal successivo art. 13 della stessa legge, debbono alla fine dell'anno esprimere il parere, con deliberazione motivata, sulla classifica dei funzionari di cancelleria e segreteria di grado inferiore a quello di cancelliere capo di Corte di appello che abbiano raggiunto la 1ª categoria. 
  
  E' scrutinato anche un congruo numero di funzionari di 2ª categoria allorquando e' dato prevedere che i funzionari della 1ª categoria dichiarati promovibili non saranno sufficienti per coprire tutti i posti vacanti. 
  
@@ -151,7 +151,7 @@ Per i funzionari di cancelleria e segreteria in servizio al Ministero, i pareri 
 
 ## Art. 13.
 
-Lo scrutinio dei funzionari di cancelleria e segreteria di grado inferiore a quello di cancelliere capo di Corte di appello e' demandato alla Commissione centrale istituita presso il Ministero di grazia e giustizia e dei culti dall'[art. 10 della legge 13 luglio 1911, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;720#art_10), ferme restando tutte le disposizioni in vigore circa la costituzione, il funzionamento e le indennita' della detta Commissione e della relativa segreteria. 
+Lo scrutinio dei funzionari di cancelleria e segreteria di grado inferiore a quello di cancelliere capo di Corte di appello e' demandato alla Commissione centrale istituita presso il Ministero di grazia e giustizia e dei culti dall'[art. 10 della legge 13 luglio 1911, n. 720](Per%20il%20riordinamento%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20011U0720.md), ferme restando tutte le disposizioni in vigore circa la costituzione, il funzionamento e le indennita' della detta Commissione e della relativa segreteria. 
  
  La Commissione centrale, con deliberazione motivata, classifica il funzionario e dichiara altresi' se il medesimo sia idoneo alle funzioni di capo d'ufficio. 
  
@@ -205,9 +205,9 @@ I funzionari di cancelleria non possono esercitare le loro funzioni in preture d
 
 ### Art. 20.
 
-Per le pene disciplinari e le forme dei procedimenti si applicano ai funzionari delle cancellerie e segreterie giudiziarie le disposizioni del testo unico delle leggi sullo stato degl'impiegati civili approvato con [Regio decreto 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;693). 
+Per le pene disciplinari e le forme dei procedimenti si applicano ai funzionari delle cancellerie e segreterie giudiziarie le disposizioni del testo unico delle leggi sullo stato degl'impiegati civili approvato con [Regio decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md). 
  
- Le attribuzioni del Consiglio di amministrazione e di disciplina, di cui all'art. 47 del citato testo unico, sono esercitate dalle Commissioni di vigilanza istituite presso le Corti di appello e di cassazione ai termini dell'[art. 17 della legge 18 luglio 1907, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-18;512#art_17). 
+ Le attribuzioni del Consiglio di amministrazione e di disciplina, di cui all'art. 47 del citato testo unico, sono esercitate dalle Commissioni di vigilanza istituite presso le Corti di appello e di cassazione ai termini dell'[art. 17 della legge 18 luglio 1907, n. 512](Cancellerie%20e%20segreterie%20giudiziarie.%20007U0512.md). 
  
  Non puo' essere applicata una pena superiore alla privazione dello stipendio se non sia stato sentito il Consiglio di disciplina del Ministero. 
  
@@ -235,7 +235,7 @@ I primi presidenti ed i procuratori generali di Corte di appello, i presidenti d
 
 ### Art. 24.
 
-Gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;556#art_1) e [2 della legge 8 agosto 1895, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;556#art_2), sono modificati come segue. 
+Gli [articoli 1](Sui%20proventi%20delle%20cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20095U0556.md) e [2 della legge 8 agosto 1895, n. 556](Sui%20proventi%20delle%20cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20095U0556.md), sono modificati come segue. 
  
  Il cancelliere e' tenuto a rilasciare a ciascuna delle parti una sola copia per ciascun atto, sentenza, decreto od ordinanza emessa dall'autorita' giudiziaria alla quale e' addetto. 
  
@@ -253,7 +253,7 @@ La copia spedita dal cancelliere non puo' essere consegnata alla persona alla qu
 
 ### Art. 26.
 
-L'art. 83 della tariffa penale del 23 dicembre 1865, n. 2701, richiamato nell'allegato C della [legge 19 marzo 1911, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-19;201), sugli ufficiali giudiziari, e' modificato come appresso: 
+L'art. 83 della tariffa penale del 23 dicembre 1865, n. 2701, richiamato nell'allegato C della [legge 19 marzo 1911, n. 201](Riflettente%20talune%20modificazioni%20alle%20disposizioni%20di%20legge%20concernenti%20gli%20ufficiali%20giudiziari.%20011U0201.md), sugli ufficiali giudiziari, e' modificato come appresso: 
  
  «Le copie degli atti in materia penale da notificarsi, escluse le sentenze di condanna, sono redatte ed autenticate dall'ufficiale giudiziario delegato per la notificazione. 
  
@@ -287,7 +287,7 @@ Il presidente del tribunale ha facolta' di delegare il cancelliere capo od altro
 
 ### Art. 30.
 
-Agli articoli 248, 269, 275 e 280 della tariffa civile di cui alla [legge 19 marzo 1911, n. 201 ed all'art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-19;201#art_3) della [legge 2 luglio 1912, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-02;675) e' sostituita la seguente disposizione. 
+Agli articoli 248, 269, 275 e 280 della tariffa civile di cui alla [legge 19 marzo 1911, n. 201 ed all'art. 3](Riflettente%20talune%20modificazioni%20alle%20disposizioni%20di%20legge%20concernenti%20gli%20ufficiali%20giudiziari.%20011U0201.md) della [legge 2 luglio 1912, n. 675](Che%20porta%20modificazioni%20alle%20leggi%2012%20dicembre%201907%20nn.%20754%20e%20755%20istitutive%20delle%20Casse%20di%20previdenza%20per%20le%20pensioni%20agli%20ufficiali%20giudiziari%20ed%20agli%20impiegati%20degli%20archivi%20notarili.%20012U0675.md) e' sostituita la seguente disposizione. 
  
  Il procuratore dell'attore o in mancanza la parte attrice versera' all'ufficiale giudiziario della pretura, all'atto della costituzione all'udienza, la somma fissa di L. 1 per diritti di chiamata. 
  
@@ -297,15 +297,15 @@ Agli articoli 248, 269, 275 e 280 della tariffa civile di cui alla [legge 19 mar
  
  Gli ufficiali giudiziari dovranno rilasciare analoghe ricevute che saranno esibite immediatamente al cancelliere per la chiamata della causa nelle preture e per la iscrizione della causa a ruolo nei tribunali e nelle Corti. 
  
- Le somme riscosse dagli ufficiali giudiziari per tale titolo saranno versate nello stesso giorno alla cancelleria, la quale provvedera' senza indugio al deposito prescritto dalla [legge 2 luglio 1912, numero 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-02;675).
+ Le somme riscosse dagli ufficiali giudiziari per tale titolo saranno versate nello stesso giorno alla cancelleria, la quale provvedera' senza indugio al deposito prescritto dalla [legge 2 luglio 1912, numero 675](Che%20porta%20modificazioni%20alle%20leggi%2012%20dicembre%201907%20nn.%20754%20e%20755%20istitutive%20delle%20Casse%20di%20previdenza%20per%20le%20pensioni%20agli%20ufficiali%20giudiziari%20ed%20agli%20impiegati%20degli%20archivi%20notarili.%20012U0675.md).
 
 ### Art. 31.
 
-I funzionari delle cancellerie e segreterie giudiziarie, per tutti gli effetti non preveduti dal presente decreto e dalle altre leggi sull'ordinamento giudiziario, sono assimilati ai funzionari di 2ª categoria, di cui al testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;693).
+I funzionari delle cancellerie e segreterie giudiziarie, per tutti gli effetti non preveduti dal presente decreto e dalle altre leggi sull'ordinamento giudiziario, sono assimilati ai funzionari di 2ª categoria, di cui al testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md).
 
 ### Art. 32.
 
-L'art. 157 dell'ordinamento giudiziario approvato con [R. decreto 6 dicembre 1865, n. 2626, l'art. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-06;2626#art_22) della [legge 18 luglio 1907, numero 512 e l'art. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-18;512#art_25) della [legge 13 luglio 1911, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;720), sono abrogati.
+L'art. 157 dell'ordinamento giudiziario approvato con [R. decreto 6 dicembre 1865, n. 2626, l'art. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-06;2626#art_22) della [legge 18 luglio 1907, numero 512 e l'art. 25](Cancellerie%20e%20segreterie%20giudiziarie.%20007U0512.md) della [legge 13 luglio 1911, n. 720](Per%20il%20riordinamento%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20011U0720.md), sono abrogati.
 
 ### Art. 33.
 
@@ -329,7 +329,7 @@ I funzionari, ai quali con l'attuazione del presente decreto dovra' essere attri
 
 Gli attuali aggiunti di cancelleria e segreteria di 1ª classe, che non potranno trovar posto fra i cancellieri delle preture, saranno nominati a tali posti per ordine di anzianita' man mano che si verificheranno le vacanze, anche nel caso che non abbiano la idoneita' a posti direttivi. 
  
- Gli attuali aggiunti di cancelleria e segreteria di 2ª classe saranno promossi cancellieri delle preture durante la guerra e fino a 6 mesi dopo la stipulazione della pace, secondo le disposizioni del [decreto Luogotenenziale 28 gennaio 1917, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-28;307). Successivamente, conseguiranno la promozione anzidetta, a norma di quanto prescrive l'art. 2, ultimo capoverso, della [legge 13 luglio 1911, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;720) pel loro passaggio alla 1ª classe.
+ Gli attuali aggiunti di cancelleria e segreteria di 2ª classe saranno promossi cancellieri delle preture durante la guerra e fino a 6 mesi dopo la stipulazione della pace, secondo le disposizioni del [decreto Luogotenenziale 28 gennaio 1917, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-28;307). Successivamente, conseguiranno la promozione anzidetta, a norma di quanto prescrive l'art. 2, ultimo capoverso, della [legge 13 luglio 1911, n. 720](Per%20il%20riordinamento%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20011U0720.md) pel loro passaggio alla 1ª classe.
 
 ### Art. 38.
 
@@ -337,7 +337,7 @@ Anche per le promozioni, che avranno luogo in dipendenza della prima applicazion
 
 ### Art. 39.
 
-I funzionari, che alla pubblicazione della [legge 13 luglio 1911, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;720) erano forniti di laurea in giurisprudenza e siano nello scrutinio assegnati alla 1ª classe, sono nelle promozioni preferiti agli altri della medesima classe per una sola volta dopo l'entrata in vigore del presente decreto.
+I funzionari, che alla pubblicazione della [legge 13 luglio 1911, n. 720](Per%20il%20riordinamento%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20011U0720.md) erano forniti di laurea in giurisprudenza e siano nello scrutinio assegnati alla 1ª classe, sono nelle promozioni preferiti agli altri della medesima classe per una sola volta dopo l'entrata in vigore del presente decreto.
 
 ### Art. 40.
 

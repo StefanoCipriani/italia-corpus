@@ -49,7 +49,7 @@ L'art. 32 del decreto commissariale 24 agosto 1924 e' sostituito dal seguente:
  
  h) rimozione dal grado; 
  
- i) perdita del grado in seguito a condanna ad una pena restrittiva della liberta' personale per un tempo superiore a tre anni od anche per una durata minore quando si tratti di delitto di peculato, o di delitti contro il buon costume, l'ordine delle famiglie, o contro la proprieta' (primi 6 capi del libro II, titolo X del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) comune). 
+ i) perdita del grado in seguito a condanna ad una pena restrittiva della liberta' personale per un tempo superiore a tre anni od anche per una durata minore quando si tratti di delitto di peculato, o di delitti contro il buon costume, l'ordine delle famiglie, o contro la proprieta' (primi 6 capi del libro II, titolo X del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune). 
  
  «I provvedimenti di cui sopra sono adottati con decreto Reale quando si tratti di marescialli, e con decreto Ministeriale quando si tratti di sergenti o sergenti maggiori, eccettuato per questi ultimi il caso d'invio in congedo per fine ferma o rafferma, per il quale si procede con determinazione Ministeriale. 
  
@@ -76,7 +76,7 @@ Dopo l'art. 32 del decreto commissariale 24 agosto 1924 sono aggiunti i seguenti
 
 ## Art. 6.
 
-L'art. 41 del decreto commissariale 24 agosto 1924, relativo alla costituzione del Corpo equipaggi della Regia aeronautica, modificato dall'[art. 1 del R. decreto-legge 9 luglio 1926, n. 1276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1276#art_1), e' sostituito dal seguente: 
+L'art. 41 del decreto commissariale 24 agosto 1924, relativo alla costituzione del Corpo equipaggi della Regia aeronautica, modificato dall'[art. 1 del R. decreto-legge 9 luglio 1926, n. 1276](Modifiche%20al%20decreto%20Commissariale%2024%20agosto%201924%20relativo%20alla%20costituzione%20del%20Corpo%20equipaggi%20Regia%20aeronautica%20e%20sua%20composizione.%20026U1276.md), e' sostituito dal seguente: 
  
  «I sergenti maggiori di tutte le categorie e specialita', compresi i piloti, sono promossi marescialli di 3ª classe dopo, aver seguito, con esito favorevole, un corso di perfezionamento per acquistare l'istruzione generale militare e professionale necessaria per ben disimpegnare le piu' elevate mansioni proprie del maresciallo e per ricevere nozioni di contabilita'. 
  
@@ -86,7 +86,7 @@ L'art. 41 del decreto commissariale 24 agosto 1924, relativo alla costituzione d
 
 ## Art. 7.
 
-L'art. 42 del decreto' commissariale 24 agosto 1924 suddetto, modificato dall'[art. 2 del R. decreto-legge 9 luglio 1926, n. 1276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1276#art_2), e' sostituito dal seguente: 
+L'art. 42 del decreto' commissariale 24 agosto 1924 suddetto, modificato dall'[art. 2 del R. decreto-legge 9 luglio 1926, n. 1276](Modifiche%20al%20decreto%20Commissariale%2024%20agosto%201924%20relativo%20alla%20costituzione%20del%20Corpo%20equipaggi%20Regia%20aeronautica%20e%20sua%20composizione.%20026U1276.md), e' sostituito dal seguente: 
  
  « I marescialli di 3ª classe sono promossi, se idonei, marescialli di 2ª, dopo una permanenza minima nel grado di almeno tre anni. 
  
@@ -198,7 +198,7 @@ Il sottufficiale e il militare di truppa della Regia aeronautica che in accertam
 
 ## Art. 18.
 
-Sono applicabili ai militari della Regia aeronautica le disposizioni del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 5 agosto 1927, n. 1437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-05;1437), e le successive modificazioni, purche' le disposizioni stesse non siano in contrasto con quelle particolari dei militari della Regia aeronautica. 
+Sono applicabili ai militari della Regia aeronautica le disposizioni del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 5 agosto 1927, n. 1437](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20027U1437.md), e le successive modificazioni, purche' le disposizioni stesse non siano in contrasto con quelle particolari dei militari della Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

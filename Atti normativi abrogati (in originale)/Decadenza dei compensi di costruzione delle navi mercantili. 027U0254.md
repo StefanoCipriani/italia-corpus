@@ -40,7 +40,7 @@ Chiunque creda di aver diritto a compensi daziari, di costruzione, di trasformaz
  
  Qualora la domanda, parzialmente o irregolarmente documentata, fosse gia' stata presentata, gli interessati, per non incorrere nella decadenza di cui sopra, debbono a loro cura completare la documentazione e rinnovare la domanda nonche' i documenti dei quali fosse scaduto il termine di validita'. 
  
- Le stesse norme valgono, salvo la decorrenza del termine, per l'applicazione dell'art. 19 del regolamento approvato con [R. decreto 18 novembre 1926, n. 2058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-18;2058). 
+ Le stesse norme valgono, salvo la decorrenza del termine, per l'applicazione dell'art. 19 del regolamento approvato con [R. decreto 18 novembre 1926, n. 2058](Approvazione%20del%20regolamento%20per%20lapplicazione%20nella%20Venezia%20Adriatica%20della%20legge%20sui%20compensi%20di%20costruzione%20per%20la%20marina%20mercantile.%20026U2058.md). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge, restando il Ministro proponente autorizzato alla presentazione del relativo disegno. 
  

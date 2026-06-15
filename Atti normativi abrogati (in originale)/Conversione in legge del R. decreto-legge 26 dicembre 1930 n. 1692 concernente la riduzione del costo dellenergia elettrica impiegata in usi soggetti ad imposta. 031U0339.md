@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 dicembre 1930, n. 1692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-26;1692), riguardante la riduzione del costo dell'energia elettrica, impiegata in usi soggetti ad imposta. 
+ E' convertito in legge il [R. decreto-legge 26 dicembre 1930, n. 1692](Riduzione%20del%20costo%20dellenergia%20elettrica%20impiegata%20in%20usi%20soggetti%20ad%20imposta.%20030U1692.md), riguardante la riduzione del costo dell'energia elettrica, impiegata in usi soggetti ad imposta. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 26 marzo 1931 - Anno IX 
  

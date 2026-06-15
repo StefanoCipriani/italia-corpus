@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 9 dicembre 1928, n. 2934](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-09;2934), che autorizza l'esecuzione a cura diretta dello Stato dei lavori di fognatura in Taranto, citta' vecchia, e in Brindisi. 
+ E' convertito in legge il [R. decreto legge 9 dicembre 1928, n. 2934](Autorizzazione%20della%20esecuzione%20a%20cura%20ed%20a%20carico%20dello%20Stato%20dei%20lavori%20di%20fognatura%20in%20Taranto%20citta%20vecchia%20e%20in%20Brindisi.%20028U2934.md), che autorizza l'esecuzione a cura diretta dello Stato dei lavori di fognatura in Taranto, citta' vecchia, e in Brindisi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

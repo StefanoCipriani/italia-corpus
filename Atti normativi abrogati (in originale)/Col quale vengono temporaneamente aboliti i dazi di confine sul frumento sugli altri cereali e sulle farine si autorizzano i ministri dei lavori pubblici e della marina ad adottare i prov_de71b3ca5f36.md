@@ -40,13 +40,13 @@ Entro lo stesso termine, e' data facolta' al ministro della marina di ribassare 
 
 E' data facolta' al ministro dell'interno di ordinare, dove e quando lo creda conveniente, l'accertamento della consistenza dei magazzini e dei depositi del grano, delle farine e degli altri cereali. 
  
- Chiunque si opponga in qualsiasi modo alla esecuzione di tali accertamenti, sara' passibile delle pene previste dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ Chiunque si opponga in qualsiasi modo alla esecuzione di tali accertamenti, sara' passibile delle pene previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 
 E' data pure facolta' al ministro dell'interno di stabilire, d'intesa con il ministro di agricoltura, industria e commercio, nei luoghi e pel tempo che creda opportuno, norme obbligatorie per la panificazione e per la vendita delle farine e del pane. 
  
- I contravventori alle norme come sopra stabilite saranno passibili delle pene comminate dall'[art. 114 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_114) approvato con [R. decreto 1° agosto 1907, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-01;636), senza pregiudizio delle maggiori pene portate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ I contravventori alle norme come sopra stabilite saranno passibili delle pene comminate dall'[art. 114 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_114) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), senza pregiudizio delle maggiori pene portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 7.
 

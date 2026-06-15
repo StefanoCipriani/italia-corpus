@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per ogni posto di medico, di ufficiale sanitario e di veterinario soggetto al contributo di cui all'art. 1-sub 6 del [decreto-legge 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-04-19;1000), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' stabilito un contributo annuo straordinario di L. 600, da versarsi con le norme dello stesso art. 1-sub 8 del citato Regio decreto. 
+Per ogni posto di medico, di ufficiale sanitario e di veterinario soggetto al contributo di cui all'art. 1-sub 6 del [decreto-legge 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-04-19;1000), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' stabilito un contributo annuo straordinario di L. 600, da versarsi con le norme dello stesso art. 1-sub 8 del citato Regio decreto. 
  
  Per i posti coperti da sanitari iscritti alla Cassa di previdenza, il contributo straordinario di cui al comma precedente e' ripartito per L. 400 a carico dell'ente, e per L. 200 a carico dell'iscritto; per i posti vacanti e per quelli coperti da sanitari non iscritti alla Cassa, l'intero contributo straordinario e' posto a carico dell'ente. 
  
@@ -18,11 +18,11 @@ Per ogni posto di medico, di ufficiale sanitario e di veterinario soggetto al co
 
 ## Art. 2.
 
-La facolta' di iscrizione alla Cassa di previdenza di cui al terzo comma dell'art. 1-sub 3 del [R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' concessa anche ai sanitari che prestano servizio provvisorio o interinale in posti regolarmente istituiti, a seguito di deliberazione di nomina divenuta esecutiva ed emessa posteriormente alla data di pubblicazione della presente legge.
+La facolta' di iscrizione alla Cassa di previdenza di cui al terzo comma dell'art. 1-sub 3 del [R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' concessa anche ai sanitari che prestano servizio provvisorio o interinale in posti regolarmente istituiti, a seguito di deliberazione di nomina divenuta esecutiva ed emessa posteriormente alla data di pubblicazione della presente legge.
 
 ## Art. 3.
 
-All'art. 1-Sub 20 del [R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sono apportate le seguenti modificazioni: 
+All'art. 1-Sub 20 del [R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), sono apportate le seguenti modificazioni: 
  
  a) al primo comma sono aggiunte le parole «e non potra' essere 
  inferiore a L. 1500»; 
@@ -35,11 +35,11 @@ All'art. 1-Sub 20 del [R. decreto 19 aprile 1923, n. 1000](https://www.normattiv
 
 ## Art. 4.
 
-L'art. 1-sub 20-bis del [R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' abrogato.
+L'art. 1-sub 20-bis del [R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' abrogato.
 
 ## Art. 5.
 
-All'art. 1-sub 26 del R. decreto 19 aprile, 1923, n. 1000, convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sono apportate le seguenti modificazioni: 
+All'art. 1-sub 26 del R. decreto 19 aprile, 1923, n. 1000, convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), sono apportate le seguenti modificazioni: 
  
  a) Nel secondo comma alla parola «duemila» e' sostituita 
  la parola «cinquemila»; 
@@ -48,27 +48,27 @@ All'art. 1-sub 26 del R. decreto 19 aprile, 1923, n. 1000, convertito in [legge 
 
 ## Art. 6.
 
-Nel [terzo comma dell'art. 6 del R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000#art_6-com3), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sono soppresse le parole « come assistenti negli ospedali e nelle cliniche »; nell'ultimo comma del art. 6 predetto alle parole « Ministero dell'interno » sono sostituite le parole « Ministero dell'istruzione ».
+Nel [terzo comma dell'art. 6 del R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000#art_6-com3), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), sono soppresse le parole « come assistenti negli ospedali e nelle cliniche »; nell'ultimo comma del art. 6 predetto alle parole « Ministero dell'interno » sono sostituite le parole « Ministero dell'istruzione ».
 
 ## Art. 7.
 
-Al [R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), viene aggiunto il seguente art. 11-bis: 
+Al [R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), viene aggiunto il seguente art. 11-bis: 
  
  « Il periodo di servizio da riscattare ai sensi dei precedenti articoli 3, 5, 6, e 11, viene computato ad anni interi, trascurando la frazione che non eccede i sei mesi. Le frazioni superiori ai sei mesi possono, a richiesta dell'interessato, essere computate per un anno ». 
  
  L'ultimo comma dell'art. 8 e il terzo comma dell'art. 12 decreto citato, sono abrogati. 
  
- Alle norme per la determinazione del premio di riscatto di cui al citato [art. 8 del R. decreto 10 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-10;1000#art_8), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sono sostituite quelle annesse alla presente legge.
+ Alle norme per la determinazione del premio di riscatto di cui al citato [art. 8 del R. decreto 10 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-10;1000#art_8), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), sono sostituite quelle annesse alla presente legge.
 
 ## Art. 8.
 
-Il primo comuni dell'[art. 14 del R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000#art_14), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' abrogato. 
+Il primo comuni dell'[art. 14 del R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000#art_14), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' abrogato. 
  
  A partire dal 1° gennaio 1926 la indennita' e la pensione ai sanitari iscritti alla Cassa alla data sopradetta, e alle loro vedove ed orfani, verranno liquidate in base alla tabella A unita alla presente legge ed alla tabella B annessa al decreto sopracitato.
 
 ## Art. 9.
 
-Alle pensioni liquidate e da liquidarsi dalla Cassa di previdenza ai sanitari iscritti alla Cassa, cessati dal servizio anteriormente al 1° gennaio 1923, aumentate secondo l'[art. 15 del R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000#art_15), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), verra' apportato un ulteriore aumento con decorrenza dal 1° gennaio 1926 con le percentuali seguenti: 
+Alle pensioni liquidate e da liquidarsi dalla Cassa di previdenza ai sanitari iscritti alla Cassa, cessati dal servizio anteriormente al 1° gennaio 1923, aumentate secondo l'[art. 15 del R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000#art_15), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), verra' apportato un ulteriore aumento con decorrenza dal 1° gennaio 1926 con le percentuali seguenti: 
  
  a) pensione degli iscritti: 
  il 60 per cento sulle prime 1000 lire; 
@@ -94,7 +94,7 @@ Alle pensioni liquidate e da liquidarsi dalla Cassa di previdenza ai sanitari is
 
 Le disposizioni dei precedenti articoli 3, 5, lettera a), e 8 si applicano dal 1° gennaio 1926 anche a favore dei sanitari e delle famiglie dei sanitari iscritti alla Cassa di previdenza cessati dal servizio tra il 1° gennaio 1923 e il 31 dicembre 1925. 
  
- Le pensioni liquidate e da liquidarsi con decorrenza compresa nel periodo indicato al comma precedente, in applicazione delle disposizioni di cui all'art. 1-sub 17 lettera d) e sub 26 del [R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), di importo eventualmente inferiore a L. 5000, saranno elevate a tale somma, ma a carico dell'ente sara' posta solamente l'eventuale differenza tra la somma di L. 2000 e la pensione teorica o reale risultante dall'applicazione della tabella A allegata alla presente legge, qualora la pensione medesima risultasse inferiore a L. 2000.
+ Le pensioni liquidate e da liquidarsi con decorrenza compresa nel periodo indicato al comma precedente, in applicazione delle disposizioni di cui all'art. 1-sub 17 lettera d) e sub 26 del [R. decreto 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1000), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), di importo eventualmente inferiore a L. 5000, saranno elevate a tale somma, ma a carico dell'ente sara' posta solamente l'eventuale differenza tra la somma di L. 2000 e la pensione teorica o reale risultante dall'applicazione della tabella A allegata alla presente legge, qualora la pensione medesima risultasse inferiore a L. 2000.
 
 ## Art. 11.
 

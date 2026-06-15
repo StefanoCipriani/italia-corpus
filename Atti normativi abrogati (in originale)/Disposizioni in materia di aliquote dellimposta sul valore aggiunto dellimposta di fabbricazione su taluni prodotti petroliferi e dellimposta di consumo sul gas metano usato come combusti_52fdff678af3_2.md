@@ -24,11 +24,11 @@ E M A N A il seguente decreto:
 
 1.
 
-L'aliquota dell'imposta sul valore aggiunto stabilita nella misura del 18 per cento e' elevata al 19 per cento. Agli effetti dell'[articolo 27, quarto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_27-com4), la quota imponibile corrispondente alla aliquota del 19 per cento si ottiene riducendo il corrispettivo, comprensivo di imponibile e di imposta, del 15,95 per cento o, in alternativa, dividendo il corrispettivo stesso per 119 e moltiplicando il quoziente per 100.
+L'aliquota dell'imposta sul valore aggiunto stabilita nella misura del 18 per cento e' elevata al 19 per cento. Agli effetti dell'[articolo 27, quarto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), la quota imponibile corrispondente alla aliquota del 19 per cento si ottiene riducendo il corrispettivo, comprensivo di imponibile e di imposta, del 15,95 per cento o, in alternativa, dividendo il corrispettivo stesso per 119 e moltiplicando il quoziente per 100.
 
 2.
 
-La variazione dell'aliquota dell'imposta sul valore aggiunto disposta dal comma 1 non si applica alle operazioni dipendenti da contratti, conclusi anteriormente alla data di entrata in vigore del presente decreto, rese nei confronti dello Stato e degli enti pubblici territoriali, dei loro consorzi, delle unita' sanitarie locali, delle comunita' montane e degli istituti pubblici di assistenza e beneficienza (IPAB), per le quali entro il 31 dicembre 1988 siano emesse e comunque registrate, ai sensi degli [articoli 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_23) e [24 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_24), le relative fatture anche se a tale data il corrispettivo non e' stato pagato.
+La variazione dell'aliquota dell'imposta sul valore aggiunto disposta dal comma 1 non si applica alle operazioni dipendenti da contratti, conclusi anteriormente alla data di entrata in vigore del presente decreto, rese nei confronti dello Stato e degli enti pubblici territoriali, dei loro consorzi, delle unita' sanitarie locali, delle comunita' montane e degli istituti pubblici di assistenza e beneficienza (IPAB), per le quali entro il 31 dicembre 1988 siano emesse e comunque registrate, ai sensi degli [articoli 23](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) e [24 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), le relative fatture anche se a tale data il corrispettivo non e' stato pagato.
 
 3.
 
@@ -70,7 +70,7 @@ L'imposta di consumo sul gas metano usato come combustibile e' aumentata da lire
 
 1.
 
-Il termine del 30 settembre 1988, previsto dall'[articolo 11 del decreto-legge 19 settembre 1987, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-19;384#art_11), convertito, con modificazioni, dalla [legge 19 novembre 1987, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-19;470), e' prorogato al 31 dicembre 1992. Al relativo onere, valutato in lire 36 miliardi in ragione d'anno, si provvede con le maggiori entrate derivanti dal presente decreto.
+Il termine del 30 settembre 1988, previsto dall'[articolo 11 del decreto-legge 19 settembre 1987, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-19;384#art_11), convertito, con modificazioni, dalla [legge 19 novembre 1987, n. 470](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201987%20n.%20384%20recante%20disposizioni%20urgenti%20in%20favore%20dei%20comuni%20della%20Valtellina%20della%20Val%20Formazza%20della%20Val%20Brembana%20_535b0b725588.md), e' prorogato al 31 dicembre 1992. Al relativo onere, valutato in lire 36 miliardi in ragione d'anno, si provvede con le maggiori entrate derivanti dal presente decreto.
 
 ## Art. 4.
 

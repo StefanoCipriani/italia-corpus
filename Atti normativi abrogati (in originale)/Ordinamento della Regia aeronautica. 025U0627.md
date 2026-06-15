@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 24 gennaio 1923, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-24;62);
+Visto il [R. decreto 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md);
 
-Visto il [R. decreto 28 marzo 1923, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-28;645);
+Visto il [R. decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md);
 
 Visti i decreti Commissariali 22 giugno 1923 e 13 aprile 1924 relativi all'ordinamento del Commissariato per l'aeronautica;
 
@@ -830,7 +830,7 @@ Il corpo equipaggi della Regia aeronautica istituito con decreto Commissariale 2
 
 ### Art. 61.
 
-Sono abrogati il [R. decreto 28 marzo 1923, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-28;645) e tutte le disposizioni contrarie a quelle del presente decreto, nonche' le tabelle organiche precedentemente pubblicate. 
+Sono abrogati il [R. decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md) e tutte le disposizioni contrarie a quelle del presente decreto, nonche' le tabelle organiche precedentemente pubblicate. 
  
  Il presente decreto andra' in vigore dal giorno della pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. 
  

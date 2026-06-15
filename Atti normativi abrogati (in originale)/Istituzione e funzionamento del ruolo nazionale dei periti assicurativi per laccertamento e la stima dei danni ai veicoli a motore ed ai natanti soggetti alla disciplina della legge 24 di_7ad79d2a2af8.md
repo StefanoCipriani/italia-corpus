@@ -43,7 +43,7 @@ Per ciascun iscritto debbono essere indicati il nome, la data di nascita, il com
  sull'emanazione dei decreti del Presidente della Repubblica 
  e sulle pubblicazioni ufficiali della Repubblica italiana, 
  approvato con [decreto del Presidente della Repubblica 28 
- dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la 
+ dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la 
  lettura delle disposizioni di legge alle quali e' operato 
  il rinvio. Restano invariati il valore e l'efficacia degli 
  atti legislativi qui trascritti.
@@ -108,7 +108,7 @@ Le modalita' della domanda di iscrizione nel ruolo, le materie e i programmi di 
 
 4.
 
-Alla domanda di iscrizione nel ruolo deve essere allegata l'attestazione del versamento della tassa di concessione governativa di lire 150.000 ai sensi del numero 117, lettera b), della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641), e successive modificazioni. Il versamento deve essere effettuato all'ufficio del registro di Roma.
+Alla domanda di iscrizione nel ruolo deve essere allegata l'attestazione del versamento della tassa di concessione governativa di lire 150.000 ai sensi del numero 117, lettera b), della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), e successive modificazioni. Il versamento deve essere effettuato all'ufficio del registro di Roma.
 
 5.
 
@@ -135,7 +135,7 @@ d'ordine |      soggetti a tassa       | della tassa | pagamento|Note
          |   sione governativa:        |             |          |
          |    a) (omissis). . . . . .  |             |          |
          |    b) per le professioni.   |  (*) 60.000 | ordinario|
-                                (*) Cosi' elevata, da ultimo, dall'[art. 4- bis, comma 2, del D.L. 30 settembre 1989, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-09-30;332#art_4bis-com2), convertito, con modificazioni, dalla [legge 27 novembre 1989, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-11-27;384)".
+                                (*) Cosi' elevata, da ultimo, dall'[art. 4- bis, comma 2, del D.L. 30 settembre 1989, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-09-30;332#art_4bis-com2), convertito, con modificazioni, dalla [legge 27 novembre 1989, n. 384](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201989%20n.%20332%20recante%20misure%20fiscali%20urgenti.md)".
  - Il testo degli articoli 2, 19 e 20 della citata [legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241) e' il seguente:
  "Art. 2. - 1. Ove il procedimento consegua obbligatoriamente ad una istanza, ovvero debba essere iniziato d'ufficio, la pubblica amministrazione ha il dovere di concluderlo mediante l'adozione di un provvedimento espresso.
  2. Le pubbliche amministrazioni determinano per ciascun tipo di procedimento, in quanto non sia gia' direttamente disposto per legge o per regolamento, il termine entro cui esso deve concludersi. Tale termine decorre dall'inizio di ufficio del procedimento o dal ricevimento della domanda se il procedimento e' ad iniziativa di parte.
@@ -208,7 +208,7 @@ Tutti i componenti della commissione, nonche' i supplenti per ciascuno dei compo
 
 5.
 
-I componenti di cui al comma 2, lettere e) ed f), nonche' i relativi supplenti sono nominati su designazione delle rispettive organizzazioni sindacali e professionali di categoria maggiormente rappresentative sul piano nazionale. Qualora dette organizzazioni non provvedano all'indicazione dei soggetti proposti entro trenta giorni dalla data della richiesta, i componenti sono nominati di propria iniziativa dal Ministro dell'industria, del commercio e dell'artigianato. Ai componenti ed ai segretari compete, in deroga al [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;5), ed al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748), un compenso per ogni seduta che viene stabilito con decreto del Ministro dell'industria, del commercio e dell'artigianato.
+I componenti di cui al comma 2, lettere e) ed f), nonche' i relativi supplenti sono nominati su designazione delle rispettive organizzazioni sindacali e professionali di categoria maggiormente rappresentative sul piano nazionale. Qualora dette organizzazioni non provvedano all'indicazione dei soggetti proposti entro trenta giorni dalla data della richiesta, i componenti sono nominati di propria iniziativa dal Ministro dell'industria, del commercio e dell'artigianato. Ai componenti ed ai segretari compete, in deroga al [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](../DPR/Compensi%20ai%20componenti%20delle%20Commissioni%20Consigli%20Comitati%20o%20Collegi%20operanti%20nelle%20Amministrazioni%20statali%20anche%20con%20ordinamento%20autonomo%20e%20delle%20Commissioni%20giudicatrici%20dei%20concorsi%20di_6b5a1d3e573d.md), ed al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), un compenso per ogni seduta che viene stabilito con decreto del Ministro dell'industria, del commercio e dell'artigianato.
 
 6.
 
@@ -413,7 +413,7 @@ Note all'art. 16:
 
 1.
 
-Le dotazioni organiche del ruolo delle assicurazioni private e di interesse collettivo di cui alle tabelle 1 e 2 allegate al [decreto del Presidente della Repubblica 4 marzo 1983, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-03-04;315), sono sostituite da quelle di cui alle tabelle A e B allegate alla presente legge.
+Le dotazioni organiche del ruolo delle assicurazioni private e di interesse collettivo di cui alle tabelle 1 e 2 allegate al [decreto del Presidente della Repubblica 4 marzo 1983, n. 315](../DPR/Riorganizzazione%20della%20Direzione%20generale%20delle%20assicurazioni%20private%20e%20di%20interesse%20collettivo%20del%20Ministero%20dellindustria%20del%20commercio%20e%20dellartigianato%20in%20attuazione%20dellart.%2028%20della_ac5afd7ba304.md), sono sostituite da quelle di cui alle tabelle A e B allegate alla presente legge.
 
 Nota all'[art. 17:
  - Il D.P.R. n. 315/1983](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983;315#art_17) reca: "Riorganizzazione della Direzione generale delle assicurazioni private e di interesse collettivo del Ministero dell'industria, del commercio e dell'artigianato, in attuazione dell'[art. 28 della legge 12 agosto 1982, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576#art_28), recante riforma della vigilanza sulle assicurazioni".

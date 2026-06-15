@@ -20,17 +20,17 @@ Visto l'[art. 4 della legge 24 dicembre 1925, n. 2263](Attribuzioni%20e%20prerog
 
 Visto il [R.D.L. 14 luglio 1935, n. 1374](Costituzione%20di%20un%20Commissariato%20generale%20per%20le%20fabbricazioni%20di%20guerra.%20035U1374.md);
 
-Visto il [R.D. 23 maggio 1940, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-23;499), istitutivo del Sottosegretariato di Stato per le fabbricazioni di guerra;
+Visto il [R.D. 23 maggio 1940, n. 499](Istituzione%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra.%20040U0499.md), istitutivo del Sottosegretariato di Stato per le fabbricazioni di guerra;
 
 Visto il [R.D.L. 12 gennaio 1942, n. 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-01-12;464),relativo alle attribuzioni del Sottosegretariato stesso;
 
-Visto il [R.D. 6 febbraio 1943, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-02-06;24), che eleva il Sottosegretariato suddetto a Ministero per la produzione bellica;
+Visto il [R.D. 6 febbraio 1943, n. 24](Elevazione%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra%20a%20Ministero%20della%20produzione%20bellica.%20043U0024.md), che eleva il Sottosegretariato suddetto a Ministero per la produzione bellica;
 
-Visto il [R.D. 12 febbraio 1943, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-02-12;25), che determina le attribuzioni del Ministero stesso;
+Visto il [R.D. 12 febbraio 1943, n. 25](Attribuzioni%20del%20Ministero%20della%20produzione%20bellica.%20043U0025.md), che determina le attribuzioni del Ministero stesso;
 
-Visto il [R.D. 22 marzo 1943, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-03-22;261);
+Visto il [R.D. 22 marzo 1943, n. 261](Trasferimento%20al%20Ministero%20della%20produzione%20bellica%20di%20attribuzioni%20del%20Ministero%20della%20marina.%20043U0261.md);
 
-Visto il [R.D. 22 aprile 1943, n. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-04-22;329);
+Visto il [R.D. 22 aprile 1943, n. 329](Trasferimento%20al%20Ministero%20della%20produzione%20bellica%20di%20attribuzioni%20del%20Ministero%20dellaeronautica.%20043U0329.md);
 
 Visto il [R.D.L. 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
@@ -48,7 +48,7 @@ Il Ministero della Produzione Bellica e' soppresso.
 
 ## Art. 2.
 
-Sono devolute al Ministero dell'Industria, Commercio e Lavoro le attribuzioni indicate all'[art. 2, lettere b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-12;464#art_2-letb), [e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-12;464#art_2-lete), [f)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-12;464#art_2-letf), [g)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-12;464#art_2-letg), [i)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-12;464#art_2-leti), [m)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-12;464#art_2-letm), [n)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-12;464#art_2-letn), [o), del R.D. 12 gennaio 1942, n. 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-12;464#art_2-leto). 
+Sono devolute al Ministero dell'Industria, Commercio e Lavoro le attribuzioni indicate all'[art. 2, lettere b)](Attribuzioni%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra.%20042U0464.md), [e)](Attribuzioni%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra.%20042U0464.md), [f)](Attribuzioni%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra.%20042U0464.md), [g)](Attribuzioni%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra.%20042U0464.md), [i)](Attribuzioni%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra.%20042U0464.md), [m)](Attribuzioni%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra.%20042U0464.md), [n)](Attribuzioni%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra.%20042U0464.md), [o), del R.D. 12 gennaio 1942, n. 464](Attribuzioni%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra.%20042U0464.md). 
  
  Allo stesso Ministero e' attribuito l'esercizio del controllo sugli stabilimenti delle industrie private che esplicano attivita' inerenti alle fabbricazioni di guerra, limitatamente alla parte disciplinare, restando affidato agli enti militari che attualmente lo esercitano il controllo tecnico.
 
@@ -92,6 +92,6 @@ Il presente decreto entrera' in vigore il giorno successivo a quello della sua p
  
  BADOGLIO - DE COURTEN - SANDALLI -  JUNG - ORLANDO - CORBINO 
  
- Visto: (ai sensi del [R.D. 30 ottobre 1943 n. 1/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-10-30;1)) 
+ Visto: (ai sensi del [R.D. 30 ottobre 1943 n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
  
  il Guardasigilli: BADOGLIO

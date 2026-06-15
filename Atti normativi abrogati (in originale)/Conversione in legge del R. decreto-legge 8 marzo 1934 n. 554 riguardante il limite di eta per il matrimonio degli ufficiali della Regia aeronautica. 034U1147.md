@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 554](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-08;554), riguardante il limite di eta' per il matrimonio degli ufficiali della Regia aeronautica. 
+ E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 554](Limite%20di%20eta%20per%20il%20matrimonio%20degli%20ufficiali%20della%20Regia%20aeronautica.%20034U0554.md), riguardante il limite di eta' per il matrimonio degli ufficiali della Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

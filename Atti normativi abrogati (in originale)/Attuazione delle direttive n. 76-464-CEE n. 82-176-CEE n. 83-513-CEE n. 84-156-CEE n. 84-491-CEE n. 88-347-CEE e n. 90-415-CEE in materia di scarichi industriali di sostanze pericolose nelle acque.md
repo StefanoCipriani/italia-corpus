@@ -58,7 +58,7 @@ Ai fini del presente decreto si intende per:
 
 1.
 
-Sono fatte salve le competenze in materia non regolate dal presente decreto, attribuite dalla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319) e dalla [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), e successive modificazioni.
+Sono fatte salve le competenze in materia non regolate dal presente decreto, attribuite dalla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md) e dalla [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), e successive modificazioni.
 
 2.
 
@@ -80,7 +80,7 @@ Il Ministro dell'ambiente:
 
 Il Ministro dell'ambiente, di concerto con i Ministri della sanita' e dell'industria, del commercio e dell'artigianato:
                         a)
-                            aggiorna in adempimento di disposizioni comunitarie in relazione alle conoscenze scientifiche relative alla tossicita', alle persistenze ed alla accumulazione delle sostanze negli organismi viventi e nei sedimenti gli elenchi I e II dell'allegato A integrandoli con le sostanze indicate nella tabella A della [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319) e successive modificazioni, ovvero con le sostanze per le quali non sono ancora stabiliti limiti di emissione;
+                            aggiorna in adempimento di disposizioni comunitarie in relazione alle conoscenze scientifiche relative alla tossicita', alle persistenze ed alla accumulazione delle sostanze negli organismi viventi e nei sedimenti gli elenchi I e II dell'allegato A integrandoli con le sostanze indicate nella tabella A della [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md) e successive modificazioni, ovvero con le sostanze per le quali non sono ancora stabiliti limiti di emissione;
                         b)
                             fissa entro sei mesi dall'entrata in vigore del presente decreto, i valori limite delle norme di emissione relativi alle sostanze dell'allegato A integrando l'allegato B; determinando sulla base delle indicazioni delle direttive CEE il punto di prelievo dei campioni ai fini dell'applicazione dei valori, in modo omogeneo per l'intero territorio nazionale;
                         c)
@@ -120,7 +120,7 @@ I decreti di cui al comma 3, lettere a), b), c), d), sono emanati ai sensi dell'
 
 1.
 
-La regione entro un anno dall'emanazione dei provvedimenti previsti dal comma 4 dell'art. 2, tenendo conto dei piani di bacino di cui alla [legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183), adegua ed integra i piani regionali di risanamento delle acque previsti dall'[art. 3 della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_3), con specifici programmi volti al raggiungimento degli obiettivi di qualita'.
+La regione entro un anno dall'emanazione dei provvedimenti previsti dal comma 4 dell'art. 2, tenendo conto dei piani di bacino di cui alla [legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md), adegua ed integra i piani regionali di risanamento delle acque previsti dall'[art. 3 della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), con specifici programmi volti al raggiungimento degli obiettivi di qualita'.
 
 2.
 
@@ -142,7 +142,7 @@ La regione provvede altresi':
                         a)
                             al rilevamento e all'organizzazione a livello regionale dei dati necessari per l'attuazione del presente decreto relativi alla qualita' e tipologie dei corpi idrici e agli usi diretti e indiretti in atto, al numero degli scarichi e alla autorizzazione rilasciate ai sensi del presente decreto;
                         b)
-                            ad adeguare i piani di risanamento delle acque previsti dall'[art. 8 della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_8), alle previsioni del presente decreto, nonche' ai programmi definiti dal Ministero dell'ambiente ai sensi dell'art. 2, comma 3, lettera f).
+                            ad adeguare i piani di risanamento delle acque previsti dall'[art. 8 della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), alle previsioni del presente decreto, nonche' ai programmi definiti dal Ministero dell'ambiente ai sensi dell'art. 2, comma 3, lettera f).
 
 4.
 
@@ -152,7 +152,7 @@ Restano ferme le competenze delle province autonome di Trento e di Bolzano ai se
 
 1.
 
-La provincia, ferme restando le competenze stabilite dalla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), ed in conformita' con l'[art. 14 della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_14):
+La provincia, ferme restando le competenze stabilite dalla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), ed in conformita' con l'[art. 14 della legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md):
                         a)
                             rilascia l'autorizzazione agli scarichi contenenti le sostanze indicate nell'allegato A;
                         b)
@@ -209,7 +209,7 @@ Per le sostanze comprese nell'elenco I dell'allegato A, per le quali non risulta
 
 4.
 
-L'autorita' competente al rilascio dell'autorizzazione puo' prescrivere norme di emissione piu' restrittive, rispetto ai valori limite stabiliti nell'allegato B, al fine di salvaguardare gli usi in atto del corpo idrico ricettore in considerazione delle tossicita', della persistenza e della biaccumulazione delle sostanze nell'ambiente in cui e' effettuato lo scarico tenuto conto dei corpi idrici da sottoporre a particolare tutela come previsto dal piano regionale di risanamento delle acque e dal piano di bacino di cui all'[art. 17 della legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183#art_17).
+L'autorita' competente al rilascio dell'autorizzazione puo' prescrivere norme di emissione piu' restrittive, rispetto ai valori limite stabiliti nell'allegato B, al fine di salvaguardare gli usi in atto del corpo idrico ricettore in considerazione delle tossicita', della persistenza e della biaccumulazione delle sostanze nell'ambiente in cui e' effettuato lo scarico tenuto conto dei corpi idrici da sottoporre a particolare tutela come previsto dal piano regionale di risanamento delle acque e dal piano di bacino di cui all'[art. 17 della legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md).
 
 ## Art. 7. — Disciplina degli scarichi degli impianti esistenti
 
@@ -219,7 +219,7 @@ Per gli scarichi degli impianti esistenti, contenenti le sostanze pericolose per
 
 2.
 
-Nel caso in cui siano superati i valori limite previsti dall'allegato B, fermo l'obbligo di rispetto delle prescrizioni contenute nella [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), ed in particolare dei limiti di accettabilita' della tabella A, deve essere trasmesso contestualmente alla domanda un progetto di adeguamento che definisca le modificazioni che si intendono realizzare nei processi produttivi e negli impianti di abbattimento degli inquinanti ed il tempo necessario, per ricondurre lo scarico entro i valori limite.
+Nel caso in cui siano superati i valori limite previsti dall'allegato B, fermo l'obbligo di rispetto delle prescrizioni contenute nella [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), ed in particolare dei limiti di accettabilita' della tabella A, deve essere trasmesso contestualmente alla domanda un progetto di adeguamento che definisca le modificazioni che si intendono realizzare nei processi produttivi e negli impianti di abbattimento degli inquinanti ed il tempo necessario, per ricondurre lo scarico entro i valori limite.
 
 3.
 
@@ -245,7 +245,7 @@ Le disposizioni del presente articolo si applicano agli scarichi contenenti le s
 
 1.
 
-Per le sostanze dell'elenco II dell'allegato A l'autorita' competente rilascia l'autorizzazione per i nuovi stabilimenti in conformita' con i limiti di accettabilita' previsti dalla tabella A allegata alla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319) e successive modificazioni. Successivamente all'adozione dei piani di risanamento previsti all'art. 3, comma 1, lettera a), la provincia rilascia l'autorizzazione in conformita' con le prescrizioni previste nei piani stessi per tutte le sostanze dell'allegato A.
+Per le sostanze dell'elenco II dell'allegato A l'autorita' competente rilascia l'autorizzazione per i nuovi stabilimenti in conformita' con i limiti di accettabilita' previsti dalla tabella A allegata alla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md) e successive modificazioni. Successivamente all'adozione dei piani di risanamento previsti all'art. 3, comma 1, lettera a), la provincia rilascia l'autorizzazione in conformita' con le prescrizioni previste nei piani stessi per tutte le sostanze dell'allegato A.
 
 ## Art. 9. — Durata dell'autorizzazione
 
@@ -266,11 +266,11 @@ Le autorizzazioni rilasciate ai sensi del presente decreto non possono essere at
 
 1.
 
-L'autorizzazione ai sensi del presente decreto, limitatamente alle sostanze pericolose per le quali e' stata rilasciata e al singolo scarico, sostituisce l'autorizzazione prevista dall'[art. 9 legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_9), ultimo comma, la quale resta efficace nei confronti dello scarico relativo all'intero insediamento produttivo, ove diverso, e per le sostanze diverse da quelle indicate nell'allegato A.
+L'autorizzazione ai sensi del presente decreto, limitatamente alle sostanze pericolose per le quali e' stata rilasciata e al singolo scarico, sostituisce l'autorizzazione prevista dall'[art. 9 legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), ultimo comma, la quale resta efficace nei confronti dello scarico relativo all'intero insediamento produttivo, ove diverso, e per le sostanze diverse da quelle indicate nell'allegato A.
 
 2.
 
-In ogni caso lo scarico dell'insediamento produttivo, nel cui ambito e' ubicato il singolo stabilimento industriale deve essere conforme ai limiti e alle prescrizioni di cui alla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319) e successive modifiche e decreti di applicazione.
+In ogni caso lo scarico dell'insediamento produttivo, nel cui ambito e' ubicato il singolo stabilimento industriale deve essere conforme ai limiti e alle prescrizioni di cui alla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md) e successive modifiche e decreti di applicazione.
 
 3.
 
@@ -278,7 +278,7 @@ L'autorizzazione rilasciata ai sensi del presente decreto non puo' consentire un
 
 4.
 
-Per quanto non espressamente previsto dal presente decrto si applicano le disposizioni della [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319).
+Per quanto non espressamente previsto dal presente decrto si applicano le disposizioni della [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md).
 
 ## Art. 11. — Applicazione delle norme di emissione
 
@@ -308,7 +308,7 @@ E' vietato riversare gli scarichi contenenti sostanze pericolose di cui all'elen
 
 1.
 
-Al di fuori delle ipotesi previste dall'ultimo comma dell'[art. 26 della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_26), nei casi di grave ed irreversibile pericolo di danno per le acque, il suolo, il sottosuolo, l'aria e le altre risorse ambientali, prodotto dagli scarichi contenenti le sostanze dell'allegato A, la provincia competente, su segnalazione delle unita' sanitarie locali, o degli organi tecnici ed ispettivi, deve ordinare la sospensione dell'attivita' produttiva dello stabilimento industriale o di singoli reparti produttivi, per tutto il tempo strettamente necessario alla messa in opera dei migliori mezzi tecnici disponibili per evitare la situazione di pericolo o di danno.
+Al di fuori delle ipotesi previste dall'ultimo comma dell'[art. 26 della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), nei casi di grave ed irreversibile pericolo di danno per le acque, il suolo, il sottosuolo, l'aria e le altre risorse ambientali, prodotto dagli scarichi contenenti le sostanze dell'allegato A, la provincia competente, su segnalazione delle unita' sanitarie locali, o degli organi tecnici ed ispettivi, deve ordinare la sospensione dell'attivita' produttiva dello stabilimento industriale o di singoli reparti produttivi, per tutto il tempo strettamente necessario alla messa in opera dei migliori mezzi tecnici disponibili per evitare la situazione di pericolo o di danno.
 
 2.
 

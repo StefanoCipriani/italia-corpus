@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 luglio 1926, n. 2245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-02;2245), col quale e' data piena ed intera esecuzione agli atti internazionali seguenti, stipulati in Vienna il 30 novembre 1923: 
+ E' convertito in legge il [R. decreto-legge 2 luglio 1926, n. 2245](Esecuzione%20di%20atti%20internazionali%20conclusi%20a%20Vienna%20il%2030%20novembre%201923%20fra%20lItalia%20ed%20altri%20Stati%20in%20materia%20di%20pensioni.%20026U2245.md), col quale e' data piena ed intera esecuzione agli atti internazionali seguenti, stipulati in Vienna il 30 novembre 1923: 
  
  1° Convenzione conclusa fra l'Italia, l'Austria, la Cecoslovacchia, la Polonia, la Romania e il Regno dei Serbi, Croati e Sloveni, per il regolamento di diverse categorie di pensioni non regolate dalla Convenzione di Roma 6 aprile 1922; 
  

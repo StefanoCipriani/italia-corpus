@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429), e successive modificazioni ed integrazioni;
+Vista la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), e successive modificazioni ed integrazioni;
 
-Vista la [legge 7 agosto 1919, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1919-08-07;1443);
+Vista la [legge 7 agosto 1919, n. 1443](Che%20approva%20la%20diffida%20per%20il%20riscatto%20di%20tutte%20le%20linee%20e%20tronchi%20ferroviari%20tenuti%20dalla%20Compagnia%20Reale%20delle%20ferrovie%20sarde%20autorizzandone%20lesercizio%20da%20parte%20delle%20ferrovie%20dello%20Stato.%20019U1443.md);
 
-Visto il [regio decreto 21 dicembre 1919, n. 2550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-12-21;2550);
+Visto il [regio decreto 21 dicembre 1919, n. 2550](Che%20stabilisce%20lassunzione%20da%20parte%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20dellesercizio%20delle%20linee%20ferroviarie%20gia%20concesse%20alla%20Compagnia%20Reale%20delle%20ferrovie%20sarde.%20019U2550.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per i trasporti, di concerto con il Ministro per il 
 
 ## Art. 1.
 
-La Delegazione delle ferrovie dello Stato di Cagliari, istituita per l'esercizio delle linee ferroviarie riscattate dallo Stato con la [legge 7 agosto 1919, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1919-08-07;1443), assume la denominazione di Compartimento delle ferrovie dello Stato con sede a Cagliari.
+La Delegazione delle ferrovie dello Stato di Cagliari, istituita per l'esercizio delle linee ferroviarie riscattate dallo Stato con la [legge 7 agosto 1919, n. 1443](Che%20approva%20la%20diffida%20per%20il%20riscatto%20di%20tutte%20le%20linee%20e%20tronchi%20ferroviari%20tenuti%20dalla%20Compagnia%20Reale%20delle%20ferrovie%20sarde%20autorizzandone%20lesercizio%20da%20parte%20delle%20ferrovie%20dello%20Stato.%20019U1443.md), assume la denominazione di Compartimento delle ferrovie dello Stato con sede a Cagliari.
 
 ## Art. 2.
 

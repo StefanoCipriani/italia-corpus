@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 luglio 1929, n. 1251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-07-02;1251), recante disposizioni per il mantenimento fino al 30 giugno 1930 dell'attuale composizione del Consiglio superiore dei lavori pubblici. 
+ E' convertito in legge il [R. decreto-legge 2 luglio 1929, n. 1251](Mantenimento%20fino%20al%2030%20giugno%201930%20dellattuale%20composizione%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici.%20029U1251.md), recante disposizioni per il mantenimento fino al 30 giugno 1930 dell'attuale composizione del Consiglio superiore dei lavori pubblici. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

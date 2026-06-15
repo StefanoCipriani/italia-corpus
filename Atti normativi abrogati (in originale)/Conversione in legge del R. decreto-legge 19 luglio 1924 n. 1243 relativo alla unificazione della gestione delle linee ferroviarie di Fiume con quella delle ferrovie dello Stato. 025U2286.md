@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 luglio 1924, n. 1243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-07-19;1243), relativo alla unificazione della gestione delle linee ferroviarie di Fiume con quella delle ferrovie dello Stato. 
+ E' convertito in legge il [R. decreto-legge 19 luglio 1924, n. 1243](Unificazione%20della%20gestione%20delle%20linee%20ferroviarie%20di%20Fiume%20con%20quella%20delle%20ferrovie%20dello%20Stato.%20024U1243.md), relativo alla unificazione della gestione delle linee ferroviarie di Fiume con quella delle ferrovie dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

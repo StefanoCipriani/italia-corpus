@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1574), concernente la esenzione da dazio e da tassa di vendita sui residui della distillazione di oli minerali, aventi determinate caratteristiche, impiegati nell'azionamento di motori agricoli. 
+ E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1574](Esenzione%20da%20dazio%20e%20da%20tassa%20di%20vendita%20sui%20residui%20della%20distillazione%20di%20oli%20minerali%20aventi%20determinate%20caratteristiche%20impiegati%20nellazionamento%20di%20motori%20agricoli.%20033U1574.md), concernente la esenzione da dazio e da tassa di vendita sui residui della distillazione di oli minerali, aventi determinate caratteristiche, impiegati nell'azionamento di motori agricoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

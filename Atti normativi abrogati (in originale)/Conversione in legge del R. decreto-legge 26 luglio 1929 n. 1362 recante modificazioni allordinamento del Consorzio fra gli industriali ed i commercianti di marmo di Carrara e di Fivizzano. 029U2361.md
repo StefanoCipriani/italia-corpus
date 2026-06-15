@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 luglio 1929, n. 1362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-07-26;1362), recante modificazioni all'ordinamento del Consorzio fra gli industriali ed i commercianti di marmo di Carrara e di Fivizzano. 
+ E' convertito in legge il [R. decreto-legge 26 luglio 1929, n. 1362](Modificazioni%20allordinamento%20del%20Consorzio%20fra%20gli%20industriali%20ed%20i%20commercianti%20di%20marmo%20di%20Carrara%20e%20di%20Fivizzano.%20029U1362.md), recante modificazioni all'ordinamento del Consorzio fra gli industriali ed i commercianti di marmo di Carrara e di Fivizzano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

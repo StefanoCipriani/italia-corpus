@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Ferme restando le caratteristiche stabilite dal [decreto del Presidente della Repubblica 30 ottobre 1955, n. 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-10-30;1269), per il formaggio pecorino romano e il formaggio pecorino siciliano, il formaggio pecorino romano destinato alla esportazione verso gli Stati Uniti d'America e il Canada' deve possedere altresi' i requisiti indicati nella tabella annessa.
+Ferme restando le caratteristiche stabilite dal [decreto del Presidente della Repubblica 30 ottobre 1955, n. 1269](../DPR/Riconoscimento%20delle%20denominazioni%20circa%20i%20metodi%20di%20lavorazione%20caratteristiche%20merceologiche%20e%20zone%20di%20produzione%20dei%20formaggi.md), per il formaggio pecorino romano e il formaggio pecorino siciliano, il formaggio pecorino romano destinato alla esportazione verso gli Stati Uniti d'America e il Canada' deve possedere altresi' i requisiti indicati nella tabella annessa.
 
 ## Art. 2.
 

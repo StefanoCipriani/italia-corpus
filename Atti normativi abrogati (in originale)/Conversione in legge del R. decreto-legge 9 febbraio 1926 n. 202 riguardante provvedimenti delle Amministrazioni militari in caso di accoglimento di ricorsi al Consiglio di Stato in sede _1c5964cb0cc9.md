@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto-legge 9 febbraio 1926, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-09;202), riguardante provvedimenti delle Amministrazioni militari in caso di accoglimento di ricorsi al Consiglio di Stato in sede giurisdizionale od in via straordinaria al Re, prodotti da ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza.
+E' convertito in legge il [R. decreto-legge 9 febbraio 1926, n. 202](Provvedimenti%20delle%20Amministrazioni%20militari%20in%20caso%20di%20accoglimento%20di%20ricorsi%20al%20Consiglio%20di%20Stato%20in%20sede%20giurisdizionale%20e%20in%20via%20straordinaria%20al%20Re%20prodotti%20da%20ufficiali%20del%20Regio%20_54c850a50e4c.md), riguardante provvedimenti delle Amministrazioni militari in caso di accoglimento di ricorsi al Consiglio di Stato in sede giurisdizionale od in via straordinaria al Re, prodotti da ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza.
 
 ## Art. 2.
 

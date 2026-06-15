@@ -36,7 +36,7 @@ I provvedimenti comunque emessi in difformita' alle disposizioni del comma prece
 
 4.
 
-I funzionari, eventualmente promossi alla qualifica di direttore aggiunto di divisione in base a provvedimenti difformi rispetto alle disposizioni dei primi due commi, ma in esecuzione di giudicati, non hanno comunque titolo sia per la promozione alla qualifica di direttore di divisione o equiparata dei ruoli ad esaurimento e sia per la partecipazione allo scrutinio per merito comparativo previsto dall'articolo 1, penultimo comma, della [legge 10 luglio 1984, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-10;301).
+I funzionari, eventualmente promossi alla qualifica di direttore aggiunto di divisione in base a provvedimenti difformi rispetto alle disposizioni dei primi due commi, ma in esecuzione di giudicati, non hanno comunque titolo sia per la promozione alla qualifica di direttore di divisione o equiparata dei ruoli ad esaurimento e sia per la partecipazione allo scrutinio per merito comparativo previsto dall'articolo 1, penultimo comma, della [legge 10 luglio 1984, n. 301](Norme%20di%20accesso%20alla%20dirigenza%20statale.md).
 
 5.
 

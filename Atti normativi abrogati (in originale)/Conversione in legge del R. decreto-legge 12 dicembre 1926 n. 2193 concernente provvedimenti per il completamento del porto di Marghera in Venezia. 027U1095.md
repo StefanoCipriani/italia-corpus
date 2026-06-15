@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-12;2193), che autorizza la Cassa depositi e prestiti a concedere al comune di Venezia, sui fondi degli Istituti di previdenza amministrati dalla Cassa stessa, un mutuo di lire 37,100,000 per le opere di completamento del nuovo porto di Marghera. 
+ E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2193](Provvedimenti%20per%20il%20completamento%20del%20porto%20di%20Marghera%20in%20Venezia.%20026U2193.md), che autorizza la Cassa depositi e prestiti a concedere al comune di Venezia, sui fondi degli Istituti di previdenza amministrati dalla Cassa stessa, un mutuo di lire 37,100,000 per le opere di completamento del nuovo porto di Marghera. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

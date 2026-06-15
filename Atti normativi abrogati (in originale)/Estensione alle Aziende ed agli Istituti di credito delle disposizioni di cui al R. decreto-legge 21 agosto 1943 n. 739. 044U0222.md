@@ -20,7 +20,7 @@ Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https:
 
 Visti il [R. decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e le successive modificazioni;
 
-Visto il [R. decreto-legge 21 agosto 1943, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-21;739);
+Visto il [R. decreto-legge 21 agosto 1943, n. 739](Scioglimento%20degli%20organi%20deliberativi%20degli%20Enti%20pubblici%20e%20nomina%20di%20commissari%20straordinari.%20043U0739.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto col Minist
 
 ## Art. 1.
 
-Le disposizioni degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-21;739#art_1) e [3 del R. decreto-legge 21 agosto 1943, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-21;739#art_3), sono estese alle Aziende di credito ed agli Istituti soggetti al controllo dell'Ispettorato per la difesa del risparmio e per l'esercizio del credito ai sensi, del [R. decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e successive modificazioni.
+Le disposizioni degli [articoli 1](Scioglimento%20degli%20organi%20deliberativi%20degli%20Enti%20pubblici%20e%20nomina%20di%20commissari%20straordinari.%20043U0739.md) e [3 del R. decreto-legge 21 agosto 1943, n. 739](Scioglimento%20degli%20organi%20deliberativi%20degli%20Enti%20pubblici%20e%20nomina%20di%20commissari%20straordinari.%20043U0739.md), sono estese alle Aziende di credito ed agli Istituti soggetti al controllo dell'Ispettorato per la difesa del risparmio e per l'esercizio del credito ai sensi, del [R. decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e successive modificazioni.
 
 ## Art. 2.
 

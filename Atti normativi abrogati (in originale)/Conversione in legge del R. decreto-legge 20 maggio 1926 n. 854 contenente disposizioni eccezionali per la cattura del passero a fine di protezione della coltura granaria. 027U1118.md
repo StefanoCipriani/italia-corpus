@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il [R. decreto-legge 20 maggio 1926, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-20;854), contenente disposizioni eccezionali per la cattura del passero, a fine di protezione della coltura granaria, e' convertito in legge. 
+ Il [R. decreto-legge 20 maggio 1926, n. 854](Disposizioni%20per%20la%20cattura%20del%20passero%20a%20fine%20di%20protezione%20della%20coltura%20granaria.%20026U0854.md), contenente disposizioni eccezionali per la cattura del passero, a fine di protezione della coltura granaria, e' convertito in legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi riguardanti la Cassa depositi e prestiti, approvata con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453);
+Visto il testo unico delle leggi riguardanti la Cassa depositi e prestiti, approvata con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -42,7 +42,7 @@ La Sezione autonoma di credito comunale e provinciale, amministrata dalla Direzi
 
 ## Art. 3.
 
-In corrispondenza delle somme ricavate dall'emissione delle cartelle, la Cassa depositi e prestiti effettuera' mutui al predetto Comune con le norme del titolo secondo, parte seconda, del [testo unico 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-01-02;453), e la procedura dell'[art. 3 del R. decreto 8 febbraio 1923, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;287#art_3).
+In corrispondenza delle somme ricavate dall'emissione delle cartelle, la Cassa depositi e prestiti effettuera' mutui al predetto Comune con le norme del titolo secondo, parte seconda, del [testo unico 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-01-02;453), e la procedura dell'[art. 3 del R. decreto 8 febbraio 1923, n. 287](Col%20quale%20vengono%20apportate%20modificazioni%20alle%20norme%20vigenti%20per%20la%20concessione%20di%20mutui%20da%20parte%20della%20Cassa%20depositi%20e%20prestiti.%20023U0287.md).
 
 ## Art. 4.
 

@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il Ministero delle partecipazioni statali e la relativa Ragioneria centrale, istituiti con [legge 22 dicembre 1956, n. 1589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-22;1589), sono soppressi.
+Il Ministero delle partecipazioni statali e la relativa Ragioneria centrale, istituiti con [legge 22 dicembre 1956, n. 1589](Istituzione%20del%20Ministero%20delle%20partecipazioni%20statali.md), sono soppressi.
 
 2.
 
@@ -42,7 +42,7 @@ Il Ministro delegato a norma del comma 3 puo' anche avvalersi di un contingente 
 
 1.
 
-Il secondo periodo del [comma 3 dell'articolo 15 del decreto- legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_15-com3), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359), e' sostituito dal seguente: "Il Ministro del tesoro esercitera' i diritti dell'azionista d'intesa con il Presidente del Consiglio dei Ministri o con il Ministro da lui delegato e con il Ministro del bilancio e della programmazione economica".
+Il secondo periodo del [comma 3 dell'articolo 15 del decreto- legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_15-com3), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20luglio%201992%20n.%20333%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica.md), e' sostituito dal seguente: "Il Ministro del tesoro esercitera' i diritti dell'azionista d'intesa con il Presidente del Consiglio dei Ministri o con il Ministro da lui delegato e con il Ministro del bilancio e della programmazione economica".
 
 2.
 

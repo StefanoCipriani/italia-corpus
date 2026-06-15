@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convalidato il [R. Decreto del 22 novembre 1866, n. 3336](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-11-22;3336), col quale le Leggi del 30 ottobre 1859, n. 3731, e 31 gennaio 1864, n. 1657, sulle privative industriali, sono pubblicate e messe in vigore nelle Provincie Venete ed in quella di Mantova.
+E' convalidato il [R. Decreto del 22 novembre 1866, n. 3336](Col%20quale%20vengono%20pubblicate%20ed%20avranno%20vigore%20nelle%20Provincie%20della%20Venezia%20ed%20in%20quella%20di%20Mantova%20le%20Leggi%2030%20ottobre%201859%20n%203731%20e%2030%20gennaio%201864%20n%201657%20sulle%20privative%20industriali.%20066U3336.md), col quale le Leggi del 30 ottobre 1859, n. 3731, e 31 gennaio 1864, n. 1657, sulle privative industriali, sono pubblicate e messe in vigore nelle Provincie Venete ed in quella di Mantova.
 
 ## Art. 2.
 

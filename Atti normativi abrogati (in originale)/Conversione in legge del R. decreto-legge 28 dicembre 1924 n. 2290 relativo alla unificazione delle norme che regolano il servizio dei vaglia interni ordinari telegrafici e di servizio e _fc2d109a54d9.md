@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 dicembre 1924, n. 2290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-12-28;2290), relativo alla unificazione delle norme che regolano il servizio dei vaglia interni, ordinari, telegrafici e di servizio e quello dei vaglia internazionali. 
+ E' convertito in legge il [R. decreto-legge 28 dicembre 1924, n. 2290](Unificazione%20delle%20norme%20che%20regolano%20il%20servizio%20dei%20vaglia%20interni%20ordinari%20telegrafici%20e%20di%20servizio%20e%20quello%20dei%20vaglia%20internazionali.%20024U2290.md), relativo alla unificazione delle norme che regolano il servizio dei vaglia interni, ordinari, telegrafici e di servizio e quello dei vaglia internazionali. 
  
  Al capoverso dell'art. 2 del detto decreto-legge e' sostituito il seguente: 
  

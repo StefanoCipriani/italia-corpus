@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 marzo 1934 n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-19;555), concernente la iscrizione nei libri fondiari dei beni immobili pervenuti al demanio dello Stato, ramo ferrovie, nei territori annessi al Regno. 
+ E' convertito in legge il [R. decreto-legge 19 marzo 1934 n. 555](Iscrizione%20nei%20libri%20fondiari%20dei%20beni%20immobili%20pervenuti%20al%20Demanio%20dello%20Stato%20ramo%20Ferrovie%20nei%20territori%20annessi%20al%20Regno.%20034U0555.md), concernente la iscrizione nei libri fondiari dei beni immobili pervenuti al demanio dello Stato, ramo ferrovie, nei territori annessi al Regno. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

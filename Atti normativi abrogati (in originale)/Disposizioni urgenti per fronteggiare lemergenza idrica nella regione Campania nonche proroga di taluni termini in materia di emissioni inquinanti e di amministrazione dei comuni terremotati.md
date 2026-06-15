@@ -58,7 +58,7 @@ Gli impianti industriali esistenti appartenenti alle categorie indicate nell'all
 
 2.
 
-Relativamente al termine per la presentazione delle domande di autorizzazione alle emissioni degli impianti di cui al comma 1, le parole: "entro dodici mesi" di cui all'articolo 12 del citato decreto del Presidente della Repubblica n. 203, come modificato dall'[articolo 6, comma 1, del decreto-legge 30 giugno 1989, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-30;245#art_6-com1), convertito, con modificazioni, dalla [legge 4 agosto 1989, n. 288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-04;288), sono sostituite dalle seguenti: "entro il 30 settembre 1990".
+Relativamente al termine per la presentazione delle domande di autorizzazione alle emissioni degli impianti di cui al comma 1, le parole: "entro dodici mesi" di cui all'articolo 12 del citato decreto del Presidente della Repubblica n. 203, come modificato dall'[articolo 6, comma 1, del decreto-legge 30 giugno 1989, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-30;245#art_6-com1), convertito, con modificazioni, dalla [legge 4 agosto 1989, n. 288](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201989%20n.%20245%20recante%20proroga%20di%20taluni%20termini%20previsti%20da%20disposizioni%20legislative.md), sono sostituite dalle seguenti: "entro il 30 settembre 1990".
 
 3.
 
@@ -72,7 +72,7 @@ Le imprese i cui impianti presentano emissioni poco significative, ai sensi dell
 
 1.
 
-I termini per l'applicazione delle disposizioni di cui all'[articolo 86 del decreto legislativo 30 marzo 1990, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-03-30;76#art_86), sono differiti al 31 dicembre 1992.
+I termini per l'applicazione delle disposizioni di cui all'[articolo 86 del decreto legislativo 30 marzo 1990, n. 76](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20per%20gli%20interventi%20nei%20territori%20della%20Campania%20Basilicata%20Puglia%20e%20Calabria%20colpiti%20dagli%20eventi%20sismici%20del%20novembre%201980%20del%20febbraio%201981%20e%20del%20marzo%201982.md), sono differiti al 31 dicembre 1992.
 
 ## Art. 4.
 

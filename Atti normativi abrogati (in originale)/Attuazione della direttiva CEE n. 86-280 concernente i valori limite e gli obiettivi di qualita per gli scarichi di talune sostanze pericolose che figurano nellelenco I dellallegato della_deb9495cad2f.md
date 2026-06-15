@@ -39,7 +39,7 @@ Per proteggere le acque dall'inquinamento provocato dallo scarico delle sostanze
 La fissazione dei valori limite specifici deve tendere all'eliminazione dell'inquinamento delle varie fasi del ciclo naturale dell'acqua che possano essere influenzate dagli scarichi.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Definizioni
 
@@ -71,7 +71,7 @@ Lo scarico e' subordinato ad autorizzazione.
 
 2.
 
-La domanda di autorizzazione, da presentare contestualmente alla eventuale domanda di autorizzazione ai sensi della [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), deve contenere l'indicazione:
+La domanda di autorizzazione, da presentare contestualmente alla eventuale domanda di autorizzazione ai sensi della [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), deve contenere l'indicazione:
                         a)
                             della capacita' di produzione, in valori mensili, espressa anche in funzione della quantita' di sostanze pericolose prodotte, trasformate o utilizzate dallo stabilimento;
                         b)
@@ -123,7 +123,7 @@ Entro sei mesi dalla data di entrata in vigore del presente decreto, deve essere
 
 2.
 
-Alla domanda deve essere allegata copia dell'autorizzazione rilasciata ai sensi della [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), anche per gli stabilimenti posti in funzione nel corso dell'anno successivo alla data di entrata in vigore del presente decreto.
+Alla domanda deve essere allegata copia dell'autorizzazione rilasciata ai sensi della [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), anche per gli stabilimenti posti in funzione nel corso dell'anno successivo alla data di entrata in vigore del presente decreto.
 
 3.
 
@@ -152,7 +152,7 @@ I termini fissati per l'osservanza dei valori limite di accettabilita', nonche' 
 
 2.
 
-I valori limite sono controllati al punto in cui gli scarichi contenenti le sostanze pericolose fuoriescono dalla unita' produttiva, salvo quanto previsto dall'art. 7. Comunque lo scarico generale dell'insediamento produttivo, nel cui ambito e' ubicata l'unita' produttiva, deve essere conforme ai limiti e alle prescrizioni di cui alla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319).
+I valori limite sono controllati al punto in cui gli scarichi contenenti le sostanze pericolose fuoriescono dalla unita' produttiva, salvo quanto previsto dall'art. 7. Comunque lo scarico generale dell'insediamento produttivo, nel cui ambito e' ubicata l'unita' produttiva, deve essere conforme ai limiti e alle prescrizioni di cui alla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md).
 
 Nota all'[articolo 5:
  La legge 10 maggio 1986, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-10;319#art_5), reca: "Norme per la tutela delle acque dall'inquinamento".
@@ -192,7 +192,7 @@ Nota all'[art. 7:
 
 1.
 
-Le autorizzazioni sono rilasciate dalle autorita' competenti per gli scarichi di insediamenti produttivi, ai sensi della [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), previo parere dei competenti presidi e servizi delle unita' sanitarie locali.
+Le autorizzazioni sono rilasciate dalle autorita' competenti per gli scarichi di insediamenti produttivi, ai sensi della [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), previo parere dei competenti presidi e servizi delle unita' sanitarie locali.
 
 2.
 
@@ -311,14 +311,14 @@ Alla pena prevista dal comma 2 soggiace chiunque, nell'effettuazione di uno scar
 
 6.
 
-Salve le disposizioni previste dagli [articoli 23- bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_23bis) e [24 della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_24), chiunque non osservi i divieti di cui all'art. 6 e' punito con l'arresto da tre mesi a tre anni.
+Salve le disposizioni previste dagli [articoli 23- bis](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md) e [24 della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), chiunque non osservi i divieti di cui all'art. 6 e' punito con l'arresto da tre mesi a tre anni.
 
 7.
 
 Chiunque non osserva l'ordine di sospensione dell'attivita' produttiva, adottato dalla regione ai sensi dell'art. 9, comma 3, e' punito con l'arresto sino a due anni o con l'ammenda sino a lire due milioni.
 
 Nota all'art. 15:
- Il testo degli articoli 23- bis, aggiunto dall'[art. 3 della legge 2 maggio 1983, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-02;305#art_3), e 24 della [legge n. 319/1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976;319), e' il seguente:
+ Il testo degli articoli 23- bis, aggiunto dall'[art. 3 della legge 2 maggio 1983, n. 305](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20prevenzione%20dellinquinamento%20marino%20causato%20dallo%20scarico%20di%20rifiuti%20ed%20altre%20materie%20con%20allegati%20aperta%20alla%20firma%20a%20Citta%20del%20Messico%20Lon_e6e91c1a280a.md), e 24 della [legge n. 319/1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976;319), e' il seguente:
  "Art. 23- bis. - Chiunque viola le disposizioni del penultimo e dell'ultimo comma dell'art. 7 e' punito con l'ammenda da lire centomila a lire un milione.
  Art. 24. - Con la sentenza di condanna, il beneficio della sospensione condizionale della pena puo' essere subordinato all'esatto adempimento di quanto sara' stabilito nella sentenza stessa. A tale scopo il giudice richiede, ove occorra, le opportune indicazioni all'autorita' amministrativa".
 
@@ -326,7 +326,7 @@ Nota all'art. 15:
 
 1.
 
-Per quanto non espressamente previsto dal presente decreto, si applicano le disposizioni di cui alla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), e successive modificazioni ed integrazioni.
+Per quanto non espressamente previsto dal presente decreto, si applicano le disposizioni di cui alla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni ed integrazioni.
 
 Nota all'[articolo 16:
  La legge 10 maggio 1986, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-10;319#art_16), reca: "Norme per la tutela delle acque dall'inquinamento".

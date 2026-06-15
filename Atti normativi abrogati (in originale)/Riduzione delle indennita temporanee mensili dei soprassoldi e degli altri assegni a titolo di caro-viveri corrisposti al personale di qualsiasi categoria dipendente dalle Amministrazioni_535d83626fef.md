@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti il [decreto Luogotenenziale 14 settembre 1918, numero 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1314), e i successivi analoghi provvedimenti concernenti la concessione di indennita' temporanee mensili al personale dell'Amministrazione dello Stato;
 
-Visto l'[art. 194 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_194), che da' facolta' al Governo, quando ne riconosca la possibilita', in seguito al miglioramento della situazione economica, di disporre la riduzione degli assegni attribuiti al personale, a cominciare da quelli corrisposti a titolo di caro-viveri, e stabilisce che la riduzione stessa debba avere applicazione generale e contemporanea per tutte le categorie di personale civile e militare;
+Visto l'[art. 194 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), che da' facolta' al Governo, quando ne riconosca la possibilita', in seguito al miglioramento della situazione economica, di disporre la riduzione degli assegni attribuiti al personale, a cominciare da quelli corrisposti a titolo di caro-viveri, e stabilisce che la riduzione stessa debba avere applicazione generale e contemporanea per tutte le categorie di personale civile e militare;
 
 Visto l'[art. 19 del R. decreto 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-07;405#art_19), di approvazione del regolamento del personale ferroviario, che reca disposizione analoga a quella suindicata nei riguardi del personale medesimo;
 

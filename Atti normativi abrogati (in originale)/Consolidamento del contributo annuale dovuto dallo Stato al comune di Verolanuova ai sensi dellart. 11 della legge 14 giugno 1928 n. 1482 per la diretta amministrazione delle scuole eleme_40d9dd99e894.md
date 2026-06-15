@@ -43,4 +43,4 @@ VITTORIO EMANUELE III
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 12 giugno 1931, n. 1048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-12;1048), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 12 giugno 1931, n. 1048](Revoca%20dei%20Regi%20decreti%2018%20settembre%201930%20nn.%201955%20e%201956%20coi%20quali%20si%20consolidava%20il%20contributo%20annuale%20dovuto%20dallo%20Stato%20al%20comune%20di%20Verolanuova%20per%20laggregazione%20degli%20ex%20comuni%20di%20C_91ef11312aa9.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

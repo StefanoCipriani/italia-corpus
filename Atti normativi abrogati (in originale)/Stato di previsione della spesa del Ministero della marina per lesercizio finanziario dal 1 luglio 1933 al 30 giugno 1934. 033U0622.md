@@ -14,7 +14,7 @@ Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie
 
 ## Art. 2.
 
-Le assegnazioni autorizzate con l'[art. 6 del R. decreto-legge 29 dicembre 1932, n. 1713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-12-29;1713#art_6), per gli esercizi finanziari 1934-35 e 1935-36, sono fissate nella somma di L. 417.000.000 per ciascuno degli esercizi medesimi.
+Le assegnazioni autorizzate con l'[art. 6 del R. decreto-legge 29 dicembre 1932, n. 1713](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20ed%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20per%20lesercizio%20finanziario%201932-33%20nonche%20ad%20alcuni%20bilanci%20speciali%20per%20lesercizio%20medesimo%20e_0a0cafd13a13.md), per gli esercizi finanziari 1934-35 e 1935-36, sono fissate nella somma di L. 417.000.000 per ciascuno degli esercizi medesimi.
 
 ## Art. 3.
 
@@ -26,7 +26,7 @@ La quota annua autorizzata con l'[art. 4 della legge 12 giugno 1930, n. 800](Sta
 
 ## Art. 5.
 
-Le disposizioni dell'art. 20 del testo unico concernente l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato col [R. decreto 2 febbraio 1928, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263), sono estese, in relazione al disposto del successivo art. 44, ai capitoli riguardanti le spese del materiale e della mano d'opera dei Regi arsenali militari marittimi; i relativi prelevamenti non potranno eccedere, durante l'esercizio 1933-34, la somma di L.
+Le disposizioni dell'art. 20 del testo unico concernente l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato col [R. decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono estese, in relazione al disposto del successivo art. 44, ai capitoli riguardanti le spese del materiale e della mano d'opera dei Regi arsenali militari marittimi; i relativi prelevamenti non potranno eccedere, durante l'esercizio 1933-34, la somma di L.
 3.000.000. 
  
  I capitoli a favore dei quali, nell'esercizio 1933-34, potranno operarsi prelevamenti dal fondo a disposizione di cui ai succitati articoli, sono quelli descritti nell'elenco annesso alla presente legge.

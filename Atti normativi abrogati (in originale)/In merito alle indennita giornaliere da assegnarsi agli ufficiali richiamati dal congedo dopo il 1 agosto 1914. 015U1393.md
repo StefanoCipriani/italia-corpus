@@ -22,7 +22,7 @@ Non spetta l'indennita' per il periodo di servizio obbligatorio di prima nomina.
 
 Ai sottufficiali richiamati dal congedo, ammogliati o vedovi con prole o che abbiano genitori o fratelli minorenni o sorelle nubili seco loro conviventi ed a loro carico, destinati fuori della propria residenza, spetta, oltre agli assegni ordinari, un'indennita' giornaliera di lire 2. 
  
- Ai sottufficiali che, per effetto del [R. decreto 23 maggio 1915, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;677), dovrebbero percepire un soprassoldo minore alle L. 2, sara' corrisposta la differenza.
+ Ai sottufficiali che, per effetto del [R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), dovrebbero percepire un soprassoldo minore alle L. 2, sara' corrisposta la differenza.
 
 ## Art. 4.
 
@@ -40,11 +40,11 @@ Sono da considerarsi richiamati agli effetti delle disposizioni stabilite dal [d
  
  1° ai militari di 3ª categoria chiamati per la prima volta a prestare servizio militare; 
  2° ai trattenuti, ossia ai militari di 1ª e 2ª categoria la cui permanenza alle armi venga d'autorita' protratta oltre il giorno in cui hanno compiuto il periodo di servizio obbligatorio stabilito dalle leggi di leva di terra e di mare; 
- 3° a coloro che, gia' esonerati per riforma dal servizio militare, vengano, in seguito a nuova visita medica ordinata dall'autorita' militare, dichiarati abili al servizio stesso e chiamati sotto le armi, qualunque sia la categoria cui appartengano, sempre quando la nuova visita non abbia luogo in applicazione dell'articolo 62 del testo unico delle leggi sul reclutamento, approvato con [R. decreto 24 dicembre 1911, n. 1497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-24;1497). 
+ 3° a coloro che, gia' esonerati per riforma dal servizio militare, vengano, in seguito a nuova visita medica ordinata dall'autorita' militare, dichiarati abili al servizio stesso e chiamati sotto le armi, qualunque sia la categoria cui appartengano, sempre quando la nuova visita non abbia luogo in applicazione dell'articolo 62 del testo unico delle leggi sul reclutamento, approvato con [R. decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md). 
  
  Il trattamento stabilito dall'[art. 2 del R. decreto 13 maggio 1915, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-13;620#art_2), e dall'[art. 5 del decreto Luogotenenziale 11 luglio 1915, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1064#art_5), e' applicabile soltanto agli impiegati avventizi delle Amministrazioni governative e delle ferrovie dello Stato che siano da considerare richiamati a termine del 1° comma del presente articolo o che si trovino nelle condizioni di cui al 2° comma nn. 1 e 3. 
  
- Agli impiegati civili di ruolo dello Stato e delle ferrovie dello Stato chiamati per la prima volta alle armi quali militari di 1ª e 2ª categoria spetta esclusivamente, fino al compimento del periodo di servizio obbligatorio, il trattamento di cui al penultimo compia dell'art. 20 del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;693).
+ Agli impiegati civili di ruolo dello Stato e delle ferrovie dello Stato chiamati per la prima volta alle armi quali militari di 1ª e 2ª categoria spetta esclusivamente, fino al compimento del periodo di servizio obbligatorio, il trattamento di cui al penultimo compia dell'art. 20 del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md).
 
 ## Art. 7.
 

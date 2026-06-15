@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici; Ab
 
 Al Regolamento per la riscossione dei pedaggi autorizzati col predetto Nostro Decreto, e' aggiunto il seguente articolo: 
  
- «Chiunque, dopo di aver percorso gran parte della strada, e sia giunto ad un punto che disti due chilometri dal sito della barriera, si faccia deviare altrove all'oggetto di defraudare il dazio, e tale deviazione non abbia luogo per altra strada pubblica, sara' soggetto al pagamento di un'ammenda sino a lire 25. 50; a quale ammenda andranno pure soggetti coloro che tenteranno defraudare il dazio facendo resistenza al guardiano della barriera, oltre, per tal caso, l'applicazione delle pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ «Chiunque, dopo di aver percorso gran parte della strada, e sia giunto ad un punto che disti due chilometri dal sito della barriera, si faccia deviare altrove all'oggetto di defraudare il dazio, e tale deviazione non abbia luogo per altra strada pubblica, sara' soggetto al pagamento di un'ammenda sino a lire 25. 50; a quale ammenda andranno pure soggetti coloro che tenteranno defraudare il dazio facendo resistenza al guardiano della barriera, oltre, per tal caso, l'applicazione delle pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  L'ammenda andra' a vantaggio dell'imprenditore. 
  

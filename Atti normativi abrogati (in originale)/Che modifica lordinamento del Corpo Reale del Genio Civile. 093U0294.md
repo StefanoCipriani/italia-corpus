@@ -52,7 +52,7 @@ UMBERTO I.
  
  Sono sottoposti al Consiglio superiore i progetti per la costruzione di nuove strade ferrate e tramvie. 
  
- Per tutti gli altri affari che riguardano strade ferrate e tramvie, il parere del Comitato superiore delle strade ferrate, istituito con [Regio decreto 22 ottobre 1885 n. 3460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-10-22;3460), serie 3ª, tiene luogo, a tutti gli effetti di legge, di quello del Consiglio superiore. 
+ Per tutti gli altri affari che riguardano strade ferrate e tramvie, il parere del Comitato superiore delle strade ferrate, istituito con [Regio decreto 22 ottobre 1885 n. 3460](Che%20istituisce%20lispettorato%20generale%20governativo%20sullesercizio%20e%20sulla%20costruzione%20delle%20strade%20ferrate%20nonchè%20sul%20servizio%20di%20navigazione%20in%20corrispondenza%20con%20le%20medesime.%20085U3460.md), serie 3ª, tiene luogo, a tutti gli effetti di legge, di quello del Consiglio superiore. 
  
  Il Consiglio superiore delibera in adunanza generale o diviso per sezioni. 
  

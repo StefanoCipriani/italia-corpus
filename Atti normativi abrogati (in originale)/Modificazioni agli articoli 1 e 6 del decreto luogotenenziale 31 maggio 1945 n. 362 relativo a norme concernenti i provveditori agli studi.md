@@ -12,9 +12,9 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto luogotenenziale 31 maggio 1945, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-31;362);
 
-Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1);
+Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -25,7 +25,7 @@ Sentito il Consiglio dei Ministri Sulla proposta del Ministro per la pubblica is
 L'[art. 1 del decreto luogotenenziale 31 maggio 1945, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-31;362#art_1), e' modificato come segue:
 
  I posti di provveditore agli studi di 2ª classe sono conferiti dal Ministro per la pubblica istruzione:
- a) per meta', ai funzionari del grado immediatamente inferiore del ruolo del personale dei Provveditorati agli studi, mediante promozione per merito comparativo, a norma delle disposizioni contenute nell'[art. 6 del regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_6);
+ a) per meta', ai funzionari del grado immediatamente inferiore del ruolo del personale dei Provveditorati agli studi, mediante promozione per merito comparativo, a norma delle disposizioni contenute nell'[art. 6 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
  b) per la rimanente meta', in seguito a concorso per titoli;
  1) a presidi di istituti d'istruzione media governativi;
  2) a funzionari di grado 7° di gruppo A dell'Amministrazione centrale della pubblica istruzione;

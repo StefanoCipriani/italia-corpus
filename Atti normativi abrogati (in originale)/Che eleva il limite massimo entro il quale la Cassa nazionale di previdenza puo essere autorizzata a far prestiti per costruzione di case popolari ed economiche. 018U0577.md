@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduta la [legge 22 giugno 1913, n. 716](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;716), concernente provvedimenti relativi alla Cassa nazionale di previdenza per l'invalidita' e la vecchiaia degli operai;
+Veduta la [legge 22 giugno 1913, n. 716](Recante%20provvedimenti%20relativi%20alla%20Cassa%20nazionale%20di%20previdenza%20per%20la%20invalidita%20e%20la%20vecchiaia%20degli%20operai.%20013U0716.md), concernente provvedimenti relativi alla Cassa nazionale di previdenza per l'invalidita' e la vecchiaia degli operai;
 
 Sentito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per l'industria, il commercio ed
 
 ## Articolo unico.
 
-E' elevato alla somma di quattordici milioni di lire il limite massimo di dodici milioni entro il quale la Cassa nazionale di previdenza per l'invalidita' e la vecchiaia degli operai, a norma dell'[art. 2 della legge 22 giugno 1913, n. 716](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;716#art_2), puo' essere autorizzata a fare prestiti per case popolari o economiche ed a partecipare con i propri fondi ad Istituti od enti morali per l'incremento delle case popolari o della cooperazione. 
+E' elevato alla somma di quattordici milioni di lire il limite massimo di dodici milioni entro il quale la Cassa nazionale di previdenza per l'invalidita' e la vecchiaia degli operai, a norma dell'[art. 2 della legge 22 giugno 1913, n. 716](Recante%20provvedimenti%20relativi%20alla%20Cassa%20nazionale%20di%20previdenza%20per%20la%20invalidita%20e%20la%20vecchiaia%20degli%20operai.%20013U0716.md), puo' essere autorizzata a fare prestiti per case popolari o economiche ed a partecipare con i propri fondi ad Istituti od enti morali per l'incremento delle case popolari o della cooperazione. 
  
  Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 agosto 1927, n. 1572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-10;1572), che concede all'Istituto centrale di statistica l'esenzione dalle tasse postali. 
+ E' convertito in legge il [R. decreto-legge 10 agosto 1927, n. 1572](Concessione%20allIstituto%20centrale%20di%20statistica%20dellesenzione%20dalle%20tasse%20postali.%20027U1572.md), che concede all'Istituto centrale di statistica l'esenzione dalle tasse postali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

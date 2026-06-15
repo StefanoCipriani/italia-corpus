@@ -20,7 +20,7 @@ Durante la presente guerra e per un periodo di sei mesi successivi alla dichiara
 
 ## Art. 3.
 
-Nel ruolo approvato con la [legge 2 luglio 1908, numero 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-02;318), sono aggiunti, per il periodo di tempo indicato nel precedente articolo, quindici posti di capitano di porto di 4ª classe, con lo stipendio annuo di L. 5000 e diminuiti sedici posti di ufficiali di' porto di 1ª classe. 
+Nel ruolo approvato con la [legge 2 luglio 1908, numero 318](Miglioramento%20economico%20per%20il%20personale%20delle%20capitanerie%20di%20porto.%20008U0318.md), sono aggiunti, per il periodo di tempo indicato nel precedente articolo, quindici posti di capitano di porto di 4ª classe, con lo stipendio annuo di L. 5000 e diminuiti sedici posti di ufficiali di' porto di 1ª classe. 
  
  Spirato il termine suindicato sara' provveduto al riassorbimento dei posti istituiti e al ripristinamento di quelli soppressi. 
  

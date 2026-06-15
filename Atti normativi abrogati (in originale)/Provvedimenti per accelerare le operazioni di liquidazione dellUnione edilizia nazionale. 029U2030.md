@@ -68,7 +68,7 @@ E' prorogato al 30 dicembre 1929-VIII il termine di cui all'art. 3 della legge 2
 
 ## Art. 7.
 
-All'[art. 3 del R. decreto-legge 26 dicembre 1924, n. 2278](Provvedimenti%20in%20dipendenza%20del%20terremoto%20del%2028%20dicembre%201908.%20024U2278.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), sono aggiunti i seguenti commi: 
+All'[art. 3 del R. decreto-legge 26 dicembre 1924, n. 2278](Provvedimenti%20in%20dipendenza%20del%20terremoto%20del%2028%20dicembre%201908.%20024U2278.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), sono aggiunti i seguenti commi: 
  
  «Qualora lo sconto del contributo, anziche' dalla Cassa depositi e prestiti, sia stato effettuato da altro istituto di credito, l'Unione edilizia nazionale rimborsera' al medesimo la somma corrispondente al valore capitale delle semestralita' del contributo non ancora scadute, determinato allo stesso saggio adottato nell'operazione di sconto. 
  

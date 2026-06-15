@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 10 febbraio 1936, n. 484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-10;484), sullo stato giuridico, reclutamento, avanzamento, trattamento economico e amministrativo del personale della Croce Rossa Italiana, e successive modificazioni;
+Visto il [R. decreto 10 febbraio 1936, n. 484](Norme%20per%20disciplinare%20lo%20stato%20giuridico%20il%20reclutamento%20lavanzamento%20ed%20il%20trattamento%20economico%20ed%20amministrativo%20del%20personale%20della%20Croce%20Rossa%20Italiana.%20036U0484.md), sullo stato giuridico, reclutamento, avanzamento, trattamento economico e amministrativo del personale della Croce Rossa Italiana, e successive modificazioni;
 
-Vista la [legge 9 maggio 1940, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;370), sull'avanzamento degli ufficiali del Regio esercito;.
+Vista la [legge 9 maggio 1940, n. 370](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0370.md), sull'avanzamento degli ufficiali del Regio esercito;.
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,13 +30,13 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la g
 
 ## Art. 1.
 
-Nell'[art. 74 del R. decreto 10 febbraio 1936, n. 484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-10;484#art_74), quale risulta modificato dalla [legge 25 luglio 1941, n. 883](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-07-25;883), il secondo e il terzo comma sono sostituiti dai seguenti:
+Nell'[art. 74 del R. decreto 10 febbraio 1936, n. 484](Norme%20per%20disciplinare%20lo%20stato%20giuridico%20il%20reclutamento%20lavanzamento%20ed%20il%20trattamento%20economico%20ed%20amministrativo%20del%20personale%20della%20Croce%20Rossa%20Italiana.%20036U0484.md), quale risulta modificato dalla [legge 25 luglio 1941, n. 883](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%2010%20febbraio%201936-XIV%20n.%20484%20sullo%20stato%20giuridico%20reclutamento%20avanzamento%20trattamento%20economico%20ed%20amministrativo%20del%20personale%20mobilitabile%20dellA_9ca5c3ec20d2.md), il secondo e il terzo comma sono sostituiti dai seguenti:
  "L'avanzamento ad anzianita' si effettua in tutti i gradi, salvo quanto previsto dall'art. 78, secondo l'ordine in cui gli ufficiali sono iscritti nei rispettivi ruoli, in relazione al numero dei posti vacanti nei ruoli stessi e in base al disposto degli articoli 75 e 77.
  "L'avanzamento a scelta si effettua, per le promozioni ai gradi previsti dall'art. 78, secondo l'ordine in cui gli ufficiali sono iscritti nei rispettivi ruoli, in relazione al numero dei posti vacanti nei ruoli stessi e in base ai disposto dei, citati articoli 75 e 77. E' concesso soltanto ai quegli ufficiali che siano giudicati in possesso, in modo spiccato, di tutti i requisiti necessari per adempiere degnamente le funzioni del grado superiore".
 
 ## Art. 2.
 
-Nell'art. 75 del predetto [R. decreto 10 febbraio 1936, n. 484, il terzo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-10;484#art_com3) e' sostituito dal seguente:
+Nell'art. 75 del predetto [R. decreto 10 febbraio 1936, n. 484, il terzo comma](Norme%20per%20disciplinare%20lo%20stato%20giuridico%20il%20reclutamento%20lavanzamento%20ed%20il%20trattamento%20economico%20ed%20amministrativo%20del%20personale%20della%20Croce%20Rossa%20Italiana.%20036U0484.md) e' sostituito dal seguente:
  "Per essere presi in esame agli effetti dell'avanzamento occorre che i candidati abbiano una permanenza minima in ciascun grado stabilita come appresso:
  ad anzianita':
  4 anni nel grado di sottotenente (medico, chimico farmacista, commissario, contabile);
@@ -50,7 +50,7 @@ Nell'art. 75 del predetto [R. decreto 10 febbraio 1936, n. 484, il terzo comma](
 
 ## Art. 3.
 
-L'art. 78 del predetto [R. decreto 10 febbraio 1936, n. 484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-10;484), quale risulta modificato dalla [legge 25 luglio 1941, n. 883](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-07-25;883), e' sostituito dal seguente:
+L'art. 78 del predetto [R. decreto 10 febbraio 1936, n. 484](Norme%20per%20disciplinare%20lo%20stato%20giuridico%20il%20reclutamento%20lavanzamento%20ed%20il%20trattamento%20economico%20ed%20amministrativo%20del%20personale%20della%20Croce%20Rossa%20Italiana.%20036U0484.md), quale risulta modificato dalla [legge 25 luglio 1941, n. 883](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%2010%20febbraio%201936-XIV%20n.%20484%20sullo%20stato%20giuridico%20reclutamento%20avanzamento%20trattamento%20economico%20ed%20amministrativo%20del%20personale%20mobilitabile%20dellA_9ca5c3ec20d2.md), e' sostituito dal seguente:
  "Per l'avanzamento a scelta al grado di colonnello medico, oltre alle condizioni di cui al precedente art. 77, e' necessario il possesso di almeno uno dei titoli seguenti:
  a) abilitazione alla libera docenza;
  b) essere od essere stato aiuto od assistente ordinario di cliniche od istituti scientifici universitari;

@@ -22,7 +22,7 @@ UMBERTO I.
  
  Articolo unico. 
  
- All'articolo 272 del testo unico della legge comunale e provinciale, approvato col [R. decreto 10 febbraio 1889 n. 5921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-02-10;5921), e' sostituito il seguente: 
+ All'articolo 272 del testo unico della legge comunale e provinciale, approvato col [R. decreto 10 febbraio 1889 n. 5921](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20089U5921.md), e' sostituito il seguente: 
  
  Articolo 272. Cesseranno di far parte delle spese poste a carico dei comuni e delle provincie; 
  

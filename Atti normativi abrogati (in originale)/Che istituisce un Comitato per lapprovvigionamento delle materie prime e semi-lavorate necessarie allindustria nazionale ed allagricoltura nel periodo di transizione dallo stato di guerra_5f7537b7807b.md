@@ -40,7 +40,7 @@ Il Comitato avra' sede presso il Ministero dell'industria, commercio e lavoro, e
 
 Nel bilancio per il Ministero dell'industria, commercio e lavoro par l'esercizio 1917-918 sara' stanziato un fondo di lire 50,000 per le spese inerenti all'esecuzione del presente decreto. 
  
- Per le indennita' ai membri del Comitato resta fermo il disposto degli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-11-18;1625#art_10) e [11 del decreto-legge 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-11-18;1625#art_11), convertito in legge con l'[art. 4 della legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774#art_4).
+ Per le indennita' ai membri del Comitato resta fermo il disposto degli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-11-18;1625#art_10) e [11 del decreto-legge 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-11-18;1625#art_11), convertito in legge con l'[art. 4 della legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md).
 
 ## Art. 6.
 

@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 luglio 1931, n. 1084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-24;1084), riguardante il riparto delle attivita' provenienti dalla liquidazione della Banca austro-ungarica. 
+ E' convertito in legge il [R. decreto-legge 24 luglio 1931, n. 1084](Provvedimenti%20per%20la%20ripartizione%20delle%20attivita%20della%20cessata%20Banca%20austro-ungarica.%20031U1084.md), riguardante il riparto delle attivita' provenienti dalla liquidazione della Banca austro-ungarica. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 7 aprile 1932 - Anno X 
  

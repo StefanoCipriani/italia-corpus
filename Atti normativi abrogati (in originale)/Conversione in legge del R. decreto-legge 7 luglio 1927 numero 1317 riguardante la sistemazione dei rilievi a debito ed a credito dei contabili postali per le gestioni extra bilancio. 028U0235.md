@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 luglio 1927, n. 1317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-07;1317), riguardante la sistemazione dei rilievi a debito ed a credito dei contabili postali per le gestioni extra bilancio. 
+ E' convertito in legge il [R. decreto-legge 7 luglio 1927, n. 1317](Sistemazione%20dei%20rilievi%20a%20debito%20ed%20a%20credito%20dei%20contabili%20postali%20per%20le%20gestioni%20extra%20bilancio.%20027U1317.md), riguardante la sistemazione dei rilievi a debito ed a credito dei contabili postali per le gestioni extra bilancio. 
  
  Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 gennaio 1926, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-03;188), riguardante le concessioni di carte di libera circolazione, di biglietti di servizio, di biglietti gratuiti e a tariffa ridotta, di buoni bagaglio e di trasporto, di compartimenti riservati e di carrozze-salone sulle Ferrovie dello Stato, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 3 gennaio 1926, n. 188](Modificazioni%20alle%20disposizioni%20riguardanti%20le%20concessioni%20ferroviarie%20di%20viaggio.%20026U0188.md), riguardante le concessioni di carte di libera circolazione, di biglietti di servizio, di biglietti gratuiti e a tariffa ridotta, di buoni bagaglio e di trasporto, di compartimenti riservati e di carrozze-salone sulle Ferrovie dello Stato, con le seguenti modificazioni: 
  
  All'art. 2, n. 9: 
  

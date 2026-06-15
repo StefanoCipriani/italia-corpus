@@ -18,7 +18,7 @@ Il pagamento dei dazi doganali d'importazione deve essere fatto in oro, ovvero i
 
 ## Art. 2.
 
-Rimane fermo negli Istituti d'emissione l'obbligo, sancito con il citato allegato 1, alla [legge 22 luglio 1894, n. 339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339), di rilasciare certificati per il pagamento dei dazi stessi contro biglietti di Stato e di Banca con la aggiunta del cambio fissato dal Ministero del tesoro, nel modo indicato all'art. 1 nel giorno precedente a quello nel quale i certificati saranno rilasciati. 
+Rimane fermo negli Istituti d'emissione l'obbligo, sancito con il citato allegato 1, alla [legge 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md), di rilasciare certificati per il pagamento dei dazi stessi contro biglietti di Stato e di Banca con la aggiunta del cambio fissato dal Ministero del tesoro, nel modo indicato all'art. 1 nel giorno precedente a quello nel quale i certificati saranno rilasciati. 
  
  Pero', per gli sdaziamenti non superiori alle lire cento le dogane del Regno e delle colonie sono autorizzate a ricevere biglietti di Stato e di Banca con l'aggiunta del cambio fissato dal Ministero del tesoro alla fine di ogni settimana per la settimana successiva.
 

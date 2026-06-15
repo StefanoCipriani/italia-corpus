@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 dicembre 1933, n. 1671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-11;1671), che ha dato approvazione al Protocollo complementare alla Convenzione del 1° marzo 1924 addizionale ai Trattato di commercio italo-cecoslovacco del 23 marzo 1921; 
+ E' convertito in legge il [R. decreto-legge 11 dicembre 1933, n. 1671](Approvazione%20del%20Protocollo%20complementare%20alla%20Convenzione%20del%201%20marzo%201924%20addizionale%20al%20Trattato%20di%20commercio%20italo-cecoslovacco%20del%2023%20marzo%201921%20Protocollo%20firmato%20a%20Praga%20il%2027%20nove_eae875fc7c4e.md), che ha dato approvazione al Protocollo complementare alla Convenzione del 1° marzo 1924 addizionale ai Trattato di commercio italo-cecoslovacco del 23 marzo 1921; 
  
  Protocollo firmato a Praga Il 27 novembre 1933, 
  

@@ -18,9 +18,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-In Virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In Virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visti i RR. decreti 3 gennaio 1915, nn. 1 e 2, concernenti la concessione di indennita' giornaliere a militari del R. esercito - convertiti in legge e prorogati fino al 31 dicembre 1915 con la [legge 1° aprile 1915, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;425), e successivamente prorogati per la durata della guerra col [decreto Luogotenenziale 31 dicembre 1915, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1842);
+Visti i RR. decreti 3 gennaio 1915, nn. 1 e 2, concernenti la concessione di indennita' giornaliere a militari del R. esercito - convertiti in legge e prorogati fino al 31 dicembre 1915 con la [legge 1° aprile 1915, n. 425](Che%20converte%20in%20legge%20il%20R.%20decreto%2024%20gennaio%201915%20n.%2042%20che%20autorizza%20le%20Amministrazioni%20della%20guerra%20e%20della%20marina%20a%20derogare%20temporaneamente%20a%20norme%20della%20legge%20di%20contabilita%20genera_68084f6e66e9.md), e successivamente prorogati per la durata della guerra col [decreto Luogotenenziale 31 dicembre 1915, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1842);
 
 Visto il [R. decreto 15 aprile 1915, n. 471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-15;471), concernente indennita' ad alcune categorie di ufficiali richiamati dal congedo, prorogato per la durata della guerra col citato [decreto Luogotenenziale 31 dicembre 1915, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1842);
 
@@ -34,7 +34,7 @@ Sulla proposta del ministro segretario di Stato per gli affari della guerra, di 
 
 A datare dal 1° settembre 1916 sono abrogati: 
  
- i RR. decreti 3 gennaio 1915, nn. 1 e 2, convertiti in legge con proroga di validita' sino al 31 dicembre 1915, dalla [legge 1° aprile 1915, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;425), e successivamente prorogati per la durata della guerra con [decreto Luogotenenziale 31 dicembre 1915, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1842); 
+ i RR. decreti 3 gennaio 1915, nn. 1 e 2, convertiti in legge con proroga di validita' sino al 31 dicembre 1915, dalla [legge 1° aprile 1915, n. 425](Che%20converte%20in%20legge%20il%20R.%20decreto%2024%20gennaio%201915%20n.%2042%20che%20autorizza%20le%20Amministrazioni%20della%20guerra%20e%20della%20marina%20a%20derogare%20temporaneamente%20a%20norme%20della%20legge%20di%20contabilita%20genera_68084f6e66e9.md), e successivamente prorogati per la durata della guerra con [decreto Luogotenenziale 31 dicembre 1915, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1842); 
  
  il [R. decreto 15 aprile 1915, n. 471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-15;471), prorogato per la durata della guerra col decreto Luogotenenziale sopra citato; 
  

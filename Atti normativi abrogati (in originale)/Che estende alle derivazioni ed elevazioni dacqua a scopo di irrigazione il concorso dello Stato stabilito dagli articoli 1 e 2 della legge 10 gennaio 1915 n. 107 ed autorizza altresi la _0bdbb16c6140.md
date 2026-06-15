@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-Il concorso dello Stato, stabilito negli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-01-10;107#art_1) e [2 della legge 10 gennaio 1915, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-01-10;107#art_2), e' esteso alle derivazioni ed elevazioni d'acqua a scopo d'irrigazione con un minimo di un litro al minuto secondo. 
+Il concorso dello Stato, stabilito negli [articoli 1](Recante%20modificazioni%20alla%20legge%2028%20febbraio%201886%20n%203732%20serie%203a%20sul%20concorso%20dello%20Stato%20nelle%20spese%20di%20opere%20di%20irrigazione.%20015U0107.md) e [2 della legge 10 gennaio 1915, n. 107](Recante%20modificazioni%20alla%20legge%2028%20febbraio%201886%20n%203732%20serie%203a%20sul%20concorso%20dello%20Stato%20nelle%20spese%20di%20opere%20di%20irrigazione.%20015U0107.md), e' esteso alle derivazioni ed elevazioni d'acqua a scopo d'irrigazione con un minimo di un litro al minuto secondo. 
  
  Il concorso dello Stato, nell'una e nell'altra delle forme contemplate nella citata legge, spetta a qualsiasi ente o privato che esegua le opere atte alla irrigazione, ancorche' non sia proprietario dei terreni irrigati. 
  
@@ -40,7 +40,7 @@ Nel caso di impianti elettrici, il concorso e' commisurato all'intero costo di e
 
 ## Art. 3.
 
-Il Governo del Re e' autorizzato a riunire e coordinare in un testo unico le disposizioni di che nella presente legge con quelle delle [leggi 25 dicembre 1883, n. 1790, 28 febbraio 1886, n. 3331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-02-28;3331), riunite in testo unico con [R. decreto 28 febbraio 1886, n. 3732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-02-28;3732), e con la [legge del 10 gennaio 1915, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-01-10;107).
+Il Governo del Re e' autorizzato a riunire e coordinare in un testo unico le disposizioni di che nella presente legge con quelle delle [leggi 25 dicembre 1883, n. 1790, 28 febbraio 1886, n. 3331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-02-28;3331), riunite in testo unico con [R. decreto 28 febbraio 1886, n. 3732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-02-28;3732), e con la [legge del 10 gennaio 1915, n. 107](Recante%20modificazioni%20alla%20legge%2028%20febbraio%201886%20n%203732%20serie%203a%20sul%20concorso%20dello%20Stato%20nelle%20spese%20di%20opere%20di%20irrigazione.%20015U0107.md).
 
 ## Art. 4.
 

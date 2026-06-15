@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 23 gennaio 1887, n. 4276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-01-23;4276) (Serie III), sull'ordinamento del credito agrario;
+Vista la [legge 23 gennaio 1887, n. 4276](Riguardante%20lordinamento%20del%20credito%20agrario.%20087U4276.md) (Serie III), sull'ordinamento del credito agrario;
 
-Vista la [legge 21 dicembre 1902, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-12-21;542), che istitui' in Roma l'Istituto «Credito agrario per il Lazio»;
+Vista la [legge 21 dicembre 1902, n. 542](Istituzione%20del%20Credito%20Agrario%20per%20il%20Lazio.%20002U0542.md), che istitui' in Roma l'Istituto «Credito agrario per il Lazio»;
 
 Udito il Consiglio dei ministri;
 
@@ -30,13 +30,13 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-Agli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-12-21;542#art_4) e [5 della legge 21 dicembre 1902, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-12-21;542#art_5), sono sostituiti i seguenti: 
+Agli [articoli 4](Istituzione%20del%20Credito%20Agrario%20per%20il%20Lazio.%20002U0542.md) e [5 della legge 21 dicembre 1902, n. 542](Istituzione%20del%20Credito%20Agrario%20per%20il%20Lazio.%20002U0542.md), sono sostituiti i seguenti: 
  
  «Art. 4. - L'Istituto «Credito agrario per il Lazio» fara' operazioni di credito agrario con Consorzi ed Istituti legalmente costituiti, i quali risiedano ed operino nella provincia di Roma, e con privati agricoltori i quali risiedano nella Provincia stessa. 
  
  Le operazioni di credito agrario di esercizio potranno essere fatte direttamente con i privati agricoltori soltanto nel caso che essi risiedano in localita' ove non esistano o non possano assumere tali operazioni gli enti intermedi». 
  
- «Art. 5. - Alle operazioni prevedute nella presente legge sono applicabili tutte le disposizioni contenute nei titoli I e II della [legge 23 gennaio 1887, n. 4276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-01-23;4276) (serie 3ª), sull'ordinamento del credito agrario».
+ «Art. 5. - Alle operazioni prevedute nella presente legge sono applicabili tutte le disposizioni contenute nei titoli I e II della [legge 23 gennaio 1887, n. 4276](Riguardante%20lordinamento%20del%20credito%20agrario.%20087U4276.md) (serie 3ª), sull'ordinamento del credito agrario».
 
 ## Art. 2.
 

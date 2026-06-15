@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto i testi unici di legge per l'imposta di fabbricazione sugli zuccheri e sugli spiriti, approvati con decreto Ministeriale 8 luglio 1924, e successive disposizioni modificatrici e complementari;
 
-Visto il regolamento per l'applicazione dell'imposta di fabbricazione sugli zuccheri, approvato con il [R. decreto 2 luglio 1903, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-07-02;347), e successive disposizioni modificatrici e complementari;
+Visto il regolamento per l'applicazione dell'imposta di fabbricazione sugli zuccheri, approvato con il [R. decreto 2 luglio 1903, n. 347](Regolamento%20per%20la%20tassa%20sulla%20fabbricazione%20degli%20zuccheri%20003U0347.md), e successive disposizioni modificatrici e complementari;
 
 Visto il regolamento per l'applicazione dell'imposta di fabbricazione sugli spiriti, approvato con [R. decreto 25 novembre 1909, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-11-25;762), e successive disposizioni modificatrici e complementari;
 

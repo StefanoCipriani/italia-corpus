@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Con decorrenza dall'annata agraria 1957-58 i canoni dei livelli costituiti nelle province di Belluno, Padova, Rovigo, Treviso, Udine, Venezia, Verona e Vicenza posti in essere prima dell'entrata in vigore del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) del 1865, non possono essere superiori al triplo del reddito dominicale del fondo sul quale gravano, determinato a norma del [decreto-legge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1939-04-04;589), convertito in [legge 29 giugno 1939, n. 976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-29;976).
+Con decorrenza dall'annata agraria 1957-58 i canoni dei livelli costituiti nelle province di Belluno, Padova, Rovigo, Treviso, Udine, Venezia, Verona e Vicenza posti in essere prima dell'entrata in vigore del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) del 1865, non possono essere superiori al triplo del reddito dominicale del fondo sul quale gravano, determinato a norma del [decreto-legge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1939-04-04;589), convertito in [legge 29 giugno 1939, n. 976](../DL%20e%20leggi%20di%20conversione/Conversione%20In%20legge%20con%20modificazioni%20del%20R.%20decreto%20legge%204%20aprile%201939%20-%20XVII%20n.%20589%20concernente%20la%20revisione%20generale%20degli%20estimi%20dei%20terreni.%20039U0976.md).
  I canoni dei livelli superiori a detta misura sono ridotti al limite di cui al precedente comma.
 
 ## Art. 2.

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 agosto 1933, n. 1210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-08-24;1210), concernente l'istituzione di seconde classi collaterali stabili nelle scuole medie inferiori e di istituti tecnici inferiori isolati. 
+ E' convertito in legge il [R. decreto-legge 24 agosto 1933, n. 1210](Istituzione%20di%20seconde%20classi%20collaterali%20stabili%20nelle%20scuole%20medie%20inferiori%20e%20di%20istituti%20tecnici%20inferiori%20isolati.%20033U1210.md), concernente l'istituzione di seconde classi collaterali stabili nelle scuole medie inferiori e di istituti tecnici inferiori isolati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

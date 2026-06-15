@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' approvata l'annessa convenzione stipulata addi' 30 gennaio 1930 - Anno VIII, tra il Regio demanio e la Societa' anonima Saverio Sticchi, esercente le Regie grotte demaniali di Santa Cesaria in Terra d'Otranto, in sostituzione della convenzione 1° aprile 1927, approvata con [R. decreto-legge 2 giugno 1927, n. 947](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-02;947), convertito nella [legge 17 maggio 1928, n. 1125](Conversione%20in%20legge%20del%20R.%20decreto-legge%202%20giugno%201927%20n.%20947%20recante%20lapprovazione%20della%20convenzione%201%20aprile%201927%20ed%20altri%20provvedimenti%20per%20lassetto%20delle%20Regie%20grotte%20termali%20di%20Sant_7ac32dcd67f7.md). 
+ E' approvata l'annessa convenzione stipulata addi' 30 gennaio 1930 - Anno VIII, tra il Regio demanio e la Societa' anonima Saverio Sticchi, esercente le Regie grotte demaniali di Santa Cesaria in Terra d'Otranto, in sostituzione della convenzione 1° aprile 1927, approvata con [R. decreto-legge 2 giugno 1927, n. 947](Approvazione%20della%20convenzione%201%20aprile%201927%20ed%20altri%20provvedimenti%20per%20lassetto%20delle%20Regie%20grotte%20termali%20di%20S.%20Cesaria%20Lecce.%20027U0947.md), convertito nella [legge 17 maggio 1928, n. 1125](Conversione%20in%20legge%20del%20R.%20decreto-legge%202%20giugno%201927%20n.%20947%20recante%20lapprovazione%20della%20convenzione%201%20aprile%201927%20ed%20altri%20provvedimenti%20per%20lassetto%20delle%20Regie%20grotte%20termali%20di%20Sant_7ac32dcd67f7.md). 
  
  La detta convenzione sara' registrata con la tassa fissa di lire dieci. 
  

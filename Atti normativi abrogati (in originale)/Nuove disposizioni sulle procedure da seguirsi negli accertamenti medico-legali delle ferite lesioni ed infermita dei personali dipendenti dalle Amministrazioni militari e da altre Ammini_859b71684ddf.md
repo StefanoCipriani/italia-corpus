@@ -39,7 +39,7 @@ Per i personali civili, militari ed operai della Regia marina la istruttoria del
 
 ## Art. 8.
 
-Per i personali civili e militari ed operai della Regia aeronautica, la istruttoria delle pratiche di dipendenza da causa di servizio e' compiuta a cura del comandante del rispettivo reparto o capo d'ufficio; la funzione della Commissione ospedaliera e' esercitata in modo analogo a quella dell'Esercito dagli Istituti medico-legali per l'aeronautica, di cui all'[articolo 4 del Regio decreto-legge 8 ottobre 1925, n. 1879](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-08;1879#art_4): la funzione della Commissione di seconda istanza e' devoluta alla Commissione di appello di cui all'ultimo capoverso dell'articolo 5 dello stesso Regio decreto-legge.
+Per i personali civili e militari ed operai della Regia aeronautica, la istruttoria delle pratiche di dipendenza da causa di servizio e' compiuta a cura del comandante del rispettivo reparto o capo d'ufficio; la funzione della Commissione ospedaliera e' esercitata in modo analogo a quella dell'Esercito dagli Istituti medico-legali per l'aeronautica, di cui all'[articolo 4 del Regio decreto-legge 8 ottobre 1925, n. 1879](Ordinamento%20del%20servizio%20sanitario%20aeronautico.%20025U1879.md): la funzione della Commissione di seconda istanza e' devoluta alla Commissione di appello di cui all'ultimo capoverso dell'articolo 5 dello stesso Regio decreto-legge.
 
 ## Art. 9.
 
@@ -61,7 +61,7 @@ Alla diretta dipendenza del Ministero della guerra e' istituito un Collegio medi
 
 ## Art. 12.
 
-Il Collegio medico legale di cui al precedente articolo 11 sostituira' quello istituito con l'[articolo 4 del Regio decreto-legge 5 novembre 1920, n. 1597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-11-05;1597#art_4), e ne disimpegnera' le attribuzioni in quanto compatibili con la presente legge; dara' pareri medico-legali ed eseguira' visite dirette ordinate dal Ministero della guerra, dalla Procura generale presso la Corte dei conti e dalla Corte stessa.
+Il Collegio medico legale di cui al precedente articolo 11 sostituira' quello istituito con l'[articolo 4 del Regio decreto-legge 5 novembre 1920, n. 1597](Che%20sostituisce%20una%20Direzione%20centrale%20del%20servizio%20sanitario%20militare%20al%20cessato%20Ispettorato%20di%20sanita%20militare%20ed%20alla%20cessata%20Direzione%20generale%20di%20sanita%20militare%20fino%20a%20che%20non%20sia%20p_ae3d9d5f6d9e.md), e ne disimpegnera' le attribuzioni in quanto compatibili con la presente legge; dara' pareri medico-legali ed eseguira' visite dirette ordinate dal Ministero della guerra, dalla Procura generale presso la Corte dei conti e dalla Corte stessa.
 
 ## Art. 13.
 

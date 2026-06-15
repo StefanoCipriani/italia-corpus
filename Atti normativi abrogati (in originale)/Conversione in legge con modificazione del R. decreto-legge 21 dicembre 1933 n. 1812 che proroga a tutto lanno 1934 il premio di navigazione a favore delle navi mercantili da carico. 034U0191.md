@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo Unico. 
  
- E' convertito in legge il [R. decreto-legge 21 dicembre 1933, n. 1812](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-21;1812), che proroga a tutto l'anno 1934 il premio di navigazione a favore delle navi mercantili da carico, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 21 dicembre 1933, n. 1812](Proroga%20del%20premio%20di%20navigazione%20a%20favore%20delle%20navi%20mercantili%20da%20carico%20per%20lanno%201934.%20033U1812.md), che proroga a tutto l'anno 1934 il premio di navigazione a favore delle navi mercantili da carico, con la seguente modificazione: 
  
  All'art. 7, prima delle parole: « i velieri con motore ausiliario », sono aggiunte le parole: « i velieri ». 
  

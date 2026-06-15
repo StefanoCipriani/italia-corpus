@@ -14,9 +14,9 @@ PRIMO MINISTRO SEGRETARIO DI STATO
 
 Visto l'accordo economico collettivo per il contratto-tipo di edizione a compartecipazione stipulato il 12 gennaio 1935 tra il Sindacato nazionale fascista degli autori e scrittori e la Federazione nazionale fascista degli industriali editori;
 
-Visto il parere favorevole espresso dalla Corporazione della carta e della stampa nella riunione del 19 marzo 1935 ai sensi dell'[art. 9 della legge 5 febbraio 1934, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;163#art_9);
+Visto il parere favorevole espresso dalla Corporazione della carta e della stampa nella riunione del 19 marzo 1935 ai sensi dell'[art. 9 della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md);
 
-Vista la deliberazione del Comitato corporativo centrale in data 1° maggio 1935 che approva l'accordo stesso, ai sensi del [R. decreto-legge 18 aprile 1935, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-18;441);
+Vista la deliberazione del Comitato corporativo centrale in data 1° maggio 1935 che approva l'accordo stesso, ai sensi del [R. decreto-legge 18 aprile 1935, n. 441](Norme%20sulle%20attribuzioni%20del%20Comitato%20corporativo%20centrale.%20035U0441.md);
 
 Visto l'art. 11 della legge 5 febbraio 1934, n. 163; Decreta:
 

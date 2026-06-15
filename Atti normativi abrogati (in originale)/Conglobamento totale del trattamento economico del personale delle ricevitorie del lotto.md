@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Gli [articoli 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_89), [91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_91), [95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_95), [99 del regio decreto-legge 19 ottobre 1938, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_99), convertito nella [legge 5 giugno 1939, n. 973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-05;973), e successive modificazioni, sono modificati come segue:
+Gli [articoli 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_89), [91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_91), [95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_95), [99 del regio decreto-legge 19 ottobre 1938, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_99), convertito nella [legge 5 giugno 1939, n. 973](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20ottobre%201938-XVI%20n.%201933%20riguardante%20la%20riforma%20delle%20leggi%20sul%20lotto%20pubblico.%20039U0973.md), e successive modificazioni, sono modificati come segue:
 
  Art. 89. - "I gestori delle ricevitorie sono retribuiti con aggio graduale sulle somme riscosse nell'esercizio finanziario, determinato nelle seguenti misure:
  sulle prime lire 1.500.000........................ 28 %
@@ -63,7 +63,7 @@ Nei confronti del personale previsto dalla presente legge la ritenuta per la cos
 
 ## Art. 5.
 
-L'[art. 94 del regio decreto-legge 19 ottobre 1938, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_94), convertito nella [legge 5 giugno 1939, n. 973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-05;973), e successive modificazioni, e' soppresso.
+L'[art. 94 del regio decreto-legge 19 ottobre 1938, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_94), convertito nella [legge 5 giugno 1939, n. 973](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20ottobre%201938-XVI%20n.%201933%20riguardante%20la%20riforma%20delle%20leggi%20sul%20lotto%20pubblico.%20039U0973.md), e successive modificazioni, e' soppresso.
 
 ## Art. 6.
 

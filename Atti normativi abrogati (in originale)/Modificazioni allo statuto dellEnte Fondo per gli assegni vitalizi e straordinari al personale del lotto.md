@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto luogotenenziale 10 maggio 1945, n. 278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-10;278), che approva lo statuto dell'Ente "Fondo per gli assegni vitalizi e straordinari al personale del lotto".
+Visto il [decreto luogotenenziale 10 maggio 1945, n. 278](../Decreti%20legislativi%20luogotenenziali/Approvazione%20dello%20statuto%20dellEnte%20Fondo%20per%20gli%20assegni%20vitalizi%20e%20straordinari%20al%20personale%20del%20lotto.%20045U0278.md), che approva lo statuto dell'Ente "Fondo per gli assegni vitalizi e straordinari al personale del lotto".
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Art. 1.
 
-L'art. 11 dello statuto dell'Ente "Fondo per gli assegni vitalizi e straordinari al personale del lotto", approvato con [decreto luogotenenziale 10 maggio 1945, n. 278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-10;278), e' sostituito dal seguente:
+L'art. 11 dello statuto dell'Ente "Fondo per gli assegni vitalizi e straordinari al personale del lotto", approvato con [decreto luogotenenziale 10 maggio 1945, n. 278](../Decreti%20legislativi%20luogotenenziali/Approvazione%20dello%20statuto%20dellEnte%20Fondo%20per%20gli%20assegni%20vitalizi%20e%20straordinari%20al%20personale%20del%20lotto.%20045U0278.md), e' sostituito dal seguente:
  "Il Consiglio d'amministrazione, nominato dal Ministro per le finanze, e' composto:
  a) dall'ispettore generale per il lotto e le lotterie, presidente;
  b) da tre direttori di divisione dell'Ispettorato suddetto o dai funzionari che ne disimpegnano le funzioni;

@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [R. decreto-legge 13 novembre 1931, n. 1434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-13;1434), contenente provvedimenti per la concentrazione di aziende sociali. 
+ E convertito in legge il [R. decreto-legge 13 novembre 1931, n. 1434](Provvedimenti%20per%20la%20concentrazione%20di%20aziende%20sociali.%20031U1434.md), contenente provvedimenti per la concentrazione di aziende sociali. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 24 marzo 1932 - Anno X 
  

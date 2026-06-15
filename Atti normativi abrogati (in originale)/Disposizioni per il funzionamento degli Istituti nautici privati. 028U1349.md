@@ -82,11 +82,11 @@ Gli Istituti nautici privati che vengano aperti senza autorizzazione, o vengano 
 
 ## Art. 15.
 
-La presente legge entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale e dalla stessa data e' abrogato il [R. decreto 12 luglio 1923, n. 1671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1671).
+La presente legge entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale e dalla stessa data e' abrogato il [R. decreto 12 luglio 1923, n. 1671](Apertura%20di%20Istituti%20nautici%20a%20titolo%20privato.%20023U1671.md).
 
 ## Art. 16.
 
-Gli Istituti nautici privati legalmente esistenti alla data di entrata in vigore della presente legge potranno provvisoriamente proseguire nel loro esercizio, secondo le norme del [R. decreto 12 luglio 1923, n. 1671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1671), fino al 30 settembre 1928. Per l'ulteriore eventuale prosecuzione dovranno essere osservate le disposizioni contenute nella presente legge e nel regolamento di esecuzione, comprese quelle riguardanti l'apertura. 
+Gli Istituti nautici privati legalmente esistenti alla data di entrata in vigore della presente legge potranno provvisoriamente proseguire nel loro esercizio, secondo le norme del [R. decreto 12 luglio 1923, n. 1671](Apertura%20di%20Istituti%20nautici%20a%20titolo%20privato.%20023U1671.md), fino al 30 settembre 1928. Per l'ulteriore eventuale prosecuzione dovranno essere osservate le disposizioni contenute nella presente legge e nel regolamento di esecuzione, comprese quelle riguardanti l'apertura. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

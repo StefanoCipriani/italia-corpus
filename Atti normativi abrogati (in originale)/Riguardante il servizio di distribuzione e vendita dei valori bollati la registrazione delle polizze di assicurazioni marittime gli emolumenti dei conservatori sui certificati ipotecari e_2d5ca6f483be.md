@@ -46,7 +46,7 @@ Nei casi di rifiuto o di ingiustificato ritardo da parte dei distributori second
 
 ## Art. 6.
 
-Per la registrazione delle polizze o scritture di assicurazioni marittime di cui agli articoli 4 del testo unico della legge relativa alla tassa sulle assicurazioni e sui contratti vitalizi approvato con [Regio Decreto 26 gennaio 1896, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-01-26;44), e 4 del relativo regolamento approvato con [Regio Decreto 26 gennaio 1896, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-01-26;69), si stabiliscono, in parziale deroga alle attuali, le norme seguenti: 
+Per la registrazione delle polizze o scritture di assicurazioni marittime di cui agli articoli 4 del testo unico della legge relativa alla tassa sulle assicurazioni e sui contratti vitalizi approvato con [Regio Decreto 26 gennaio 1896, n. 44](Che%20approva%20il%20Testo%20unico%20delle%20leggi%20relative%20alle%20tasse%20sulle%20assicurazioni%20e%20sui%20contratti%20vitalizi.%20096U0044.md), e 4 del relativo regolamento approvato con [Regio Decreto 26 gennaio 1896, n. 69](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20delle%20disposizioni%20del%20testo%20unico%20di%20legge%20concernente%20le%20tasse%20sulle%20assicurazioni%20e%20sui%20contratti%20vitalizi.%20096U0069.md), si stabiliscono, in parziale deroga alle attuali, le norme seguenti: 
  
  Le polizze o scritture suddette debbono essere accompagnate da elenco descrittivo in due esemplari, munito della firma del rappresentante legale della societa' o ditta assicuratrice. 
  
@@ -90,7 +90,7 @@ Alle parti Iª (tasse sugli atti civili e sui contratti) e IIª (tasse sulle sen
 
 ## Art. 10.
 
-I termini di prescrizione di cui al n. 1 dell'art. 126 ed all'articolo 127 del testo unico della legge sulle tasse di registro approvato con [Regio decreto 20 maggio 1897, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-05-20;217), sono portati a tre anni.
+I termini di prescrizione di cui al n. 1 dell'art. 126 ed all'articolo 127 del testo unico della legge sulle tasse di registro approvato con [Regio decreto 20 maggio 1897, n. 217](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20tasse%20di%20registro.%20097U0217.md), sono portati a tre anni.
 
 ## Art. 11.
 

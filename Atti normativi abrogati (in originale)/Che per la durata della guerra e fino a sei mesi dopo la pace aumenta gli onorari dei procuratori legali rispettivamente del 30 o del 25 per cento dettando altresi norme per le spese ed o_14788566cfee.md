@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per la durata della guerra e fino a sei mesi dopo la pubblicazione della pace gli onorari dei procuratori stabiliti dalla [legge 7 luglio 1901, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-07-07;283) e dalla tabella annessa alla medesima, sono elevati del 30 per cento; e, se il valore della causa o dell'affare superi le lire venticinquemila, del 25 per cento. 
+Per la durata della guerra e fino a sei mesi dopo la pubblicazione della pace gli onorari dei procuratori stabiliti dalla [legge 7 luglio 1901, n. 283](Onorari%20dei%20procuratori%20e%20patrocinio%20legale%20nelle%20preture.%20001U0283.md) e dalla tabella annessa alla medesima, sono elevati del 30 per cento; e, se il valore della causa o dell'affare superi le lire venticinquemila, del 25 per cento. 
  
  Tali aumenti, per le cause e per gli affari gia' in corso, hanno luogo limitatamente agli atti posteriori alla data della pubblicazione del presente decreto nella Gazzetta ufficiale.
 

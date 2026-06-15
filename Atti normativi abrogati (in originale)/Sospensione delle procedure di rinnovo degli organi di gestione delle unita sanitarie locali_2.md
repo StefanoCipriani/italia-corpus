@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142), recante ordinamento delle autonomie locali, ed in particolare gli articoli 32 e 36;
+Vista la [legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md), recante ordinamento delle autonomie locali, ed in particolare gli articoli 32 e 36;
 
 Ritenuta la straordinaria necessita' ed urgenza di sospendere le procedure di rinnovo degli organi di gestione delle unita' sanitarie locali, tenuto conto che e' in fase di avanzato esame da parte del Parlamento il disegno di legge per il riordinamento del Servizio sanitario nazionale;
 

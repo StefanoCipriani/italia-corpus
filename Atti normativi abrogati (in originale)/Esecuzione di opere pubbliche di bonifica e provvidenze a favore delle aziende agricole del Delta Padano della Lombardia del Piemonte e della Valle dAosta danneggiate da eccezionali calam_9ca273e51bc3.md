@@ -125,7 +125,7 @@ TITOLO III
 
 ### Art. 16.
 
-Il Ministro per l'agricoltura e per le foreste, di concerto con il Ministro per il tesoro, e' autorizzato a disporre anticipazioni, fino alla somma di lire 2 miliardi, agli Istituti autorizzati ad esercitare il credito agrario, ai sensi del capo II del [regio decreto-legge 29 luglio 1927, n. 1509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509), convertito in [legge 5 luglio 1928, n. 1760](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md), per la concessione di prestiti per la conduzione delle aziende agricole di cui all'art. 2, n. 1, del predetto regio decreto, alle piccole aziende agricole che abbiano subito una riduzione nella produzione lorda vendibile totale non inferiore al 40 per cento per effetto di gravi avversita' atmosferiche verificatesi nei mesi di maggio e giugno 1957 e per le eccezionali calamita' naturali di cui all'art. 1 della presente legge.
+Il Ministro per l'agricoltura e per le foreste, di concerto con il Ministro per il tesoro, e' autorizzato a disporre anticipazioni, fino alla somma di lire 2 miliardi, agli Istituti autorizzati ad esercitare il credito agrario, ai sensi del capo II del [regio decreto-legge 29 luglio 1927, n. 1509](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md), convertito in [legge 5 luglio 1928, n. 1760](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md), per la concessione di prestiti per la conduzione delle aziende agricole di cui all'art. 2, n. 1, del predetto regio decreto, alle piccole aziende agricole che abbiano subito una riduzione nella produzione lorda vendibile totale non inferiore al 40 per cento per effetto di gravi avversita' atmosferiche verificatesi nei mesi di maggio e giugno 1957 e per le eccezionali calamita' naturali di cui all'art. 1 della presente legge.
  Il Ministro per l'agricoltura e per le foreste, di concerto con il Ministro per il tesoro, fermo il limite di cui al precedente comma, e', altresi', autorizzato a concedere anticipazioni agli Enti, di cui agli [articoli 2](Ordinamento%20dei%20Consorzi%20agrari%20e%20della%20Federazione%20italiana%20dei%20consorzi%20agrari.md) e [3 del decreto legislativo 7 maggio 1948, n. 1235](Ordinamento%20dei%20Consorzi%20agrari%20e%20della%20Federazione%20italiana%20dei%20consorzi%20agrari.md), per i prestiti di conduzione in natura alle aziende specificate nel primo comma.
  I prestiti di cui ai precedenti commi sono concessi limitatamente alle necessita' della conduzione aziendale nella annata agraria 1957-58.
 
@@ -143,7 +143,7 @@ La concessione l'utilizzazione ed il rimborso allo Stato, alle scadenze delle si
 
 ### Art. 19.
 
-Ciascuna annualita' di rimborso dei prestiti concessi ai sensi del precedente art. 16, con i relativi interessi, sara' garantita da privilegi con le norme e con gli effetti di cui agli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509#art_8), [9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509#art_9), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509#art_10) ed [11 del regio decreto-legge 29 luglio 1927, n. 1509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509#art_11), convertito in [legge 5 luglio 1928, n. 1760](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md).
+Ciascuna annualita' di rimborso dei prestiti concessi ai sensi del precedente art. 16, con i relativi interessi, sara' garantita da privilegi con le norme e con gli effetti di cui agli [articoli 8](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md), [9](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md), [10](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md) ed [11 del regio decreto-legge 29 luglio 1927, n. 1509](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md), convertito in [legge 5 luglio 1928, n. 1760](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md).
 
 ## Distribuzione gratuita di grano.
 
@@ -166,7 +166,7 @@ TITOLO V
 
 ### Art. 22.
 
-Ai fini della presente legge, per la classificazione della azienda e per il riconoscimento della qualifica di coltivatore diretto, trovano applicazione i criteri previsti dall'art. 5 del regolamento per l'esecuzione delle norme del capo III della [legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949), approvato con [decreto del Presidente della Repubblica 17 ottobre 1952, n. 1317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-10-17;1317).
+Ai fini della presente legge, per la classificazione della azienda e per il riconoscimento della qualifica di coltivatore diretto, trovano applicazione i criteri previsti dall'art. 5 del regolamento per l'esecuzione delle norme del capo III della [legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949), approvato con [decreto del Presidente della Repubblica 17 ottobre 1952, n. 1317](../DPR/Regolamento%20per%20lesecuzione%20delle%20norme%20di%20cui%20al%20capo%20III%20della%20legge%2025%20luglio%201952%20n.%20949%20recante%20provvedimenti%20per%20lo%20sviluppo%20delleconomia%20e%20lincremento%20delloccupazione.md).
 
 ### Art. 23.
 
@@ -184,7 +184,7 @@ Per la concessione dei contributi di cui all'articolo 2 del titolo I della prese
 
 ### Art. 25.
 
-Il [decreto-legge 24 novembre 1951, n. 1210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1951-11-24;1210), convertito con [legge 2 gennaio 1952, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-01-02;4), e' applicabile ai Comuni colpiti dalle alluvioni e dalle mareggiate del 1956-57.
+Il [decreto-legge 24 novembre 1951, n. 1210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1951-11-24;1210), convertito con [legge 2 gennaio 1952, n. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2024%20novembre%201951%20n.%201210%20concernente%20la%20sospensione%20dei%20termini%20nei%20Comuni%20colpiti%20dalle%20alluvioni%20dellautunno%201951.md), e' applicabile ai Comuni colpiti dalle alluvioni e dalle mareggiate del 1956-57.
 
 ### Art. 26.
 

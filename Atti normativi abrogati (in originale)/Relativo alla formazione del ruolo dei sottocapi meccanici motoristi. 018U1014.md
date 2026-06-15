@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 29 giugno 1913, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;797), e successive modificazioni;
+Vista la [legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), e successive modificazioni;
 
 Udito il Consiglio dei ministri;
 

@@ -59,20 +59,20 @@ TITOLO SECONDO
 L'imposta e' determinata mediante l'applicazione delle aliquote indicate alla lettera a) della tariffa al valore globale dell'asse ereditario netto. Se vi sono piu' eredi e legatari l'imposta e' ripartita fra loro in proporzione al valore delle rispettive quote o legati.
  Se l'erede o legatario non e' coniuge ne' parente in linea retta del defunto la imposta di cui al comma precedente e' aumentata dell'importo risultante dalla applicazione delle aliquote indicate alla lettera b) della tariffa al valore della quota di eredita' o del legato.
  Sono considerati parenti in linea retta anche i genitori e i figli naturali e i rispettivi ascendenti e discendenti in linea retta, nonche' gli adottanti e gli adottati, gli affilianti e gli affiliati.
-La parentela naturale, quando il figlio non sia stato legittimato o riconosciuto legalmente, deve risultare nei modi indicati dall'[art. 279 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_279) e dalla [legge 19 gennaio 1942, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;23). Nelle successioni a favore dei figli naturali non riconosciuti o non riconoscibili il limite di lire cinquantamila stabilito nell'art. 5 di tale legge e' elevato a dieci milioni.
+La parentela naturale, quando il figlio non sia stato legittimato o riconosciuto legalmente, deve risultare nei modi indicati dall'[art. 279 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_279) e dalla [legge 19 gennaio 1942, n. 23](Adeguamento%20dellimposta%20successoria%20alle%20quote%20ereditarie%20spettanti%20ai%20figli%20naturali%20non%20riconosciuti%20o%20non%20riconoscibili.%20042U0023.md). Nelle successioni a favore dei figli naturali non riconosciuti o non riconoscibili il limite di lire cinquantamila stabilito nell'art. 5 di tale legge e' elevato a dieci milioni.
 
 ### Art. 7. — Base imponibile
 
 Il valore globale dell'asse ereditario netto e' costituito dalla differenza tra il valore venale complessivo dei beni e dei diritti che compongono l'attivo ereditario, determinato secondo le disposizioni del capo II, e l'ammontare complessivo delle passivita' deducibili, diminuita dall'ammontare degli oneri diversi da quelli indicati nel terzo comma dell'art. 32. 
  In caso di fallimento del defunto si tiene conto delle sole attivita' che pervengono agli eredi a seguito della chiusura del fallimento. 
  Il valore delle quote ereditarie e' determinato al netto dei legati e degli altri oneri che le gravano, quello dei legati al netto degli oneri da cui sono gravati. 
- Ai soli fini della determinazione delle aliquote il valore globale dell'asse ereditario e' maggiorato di un importo pari al valore complessivo di tutte le donazioni, comprese quelle che si presumono tali ai sensi dell'[articolo 25 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;634#art_25) fatte dal defunto agli eredi e legatari. Il valore delle singole quote o dei singoli legati e' maggiorato, agli stessi fini, di un importo pari al valore delle donazioni fatte ai singoli eredi o legatari. Il valore delle donazioni di beni diversi dal denaro o da crediti in denaro e' determinato in base al valore venale dei beni medesimi al momento dell'apertura della successione.
+ Ai soli fini della determinazione delle aliquote il valore globale dell'asse ereditario e' maggiorato di un importo pari al valore complessivo di tutte le donazioni, comprese quelle che si presumono tali ai sensi dell'[articolo 25 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 634](../DPR/Disciplina%20dellimposta%20di%20registro.md) fatte dal defunto agli eredi e legatari. Il valore delle singole quote o dei singoli legati e' maggiorato, agli stessi fini, di un importo pari al valore delle donazioni fatte ai singoli eredi o legatari. Il valore delle donazioni di beni diversi dal denaro o da crediti in denaro e' determinato in base al valore venale dei beni medesimi al momento dell'apertura della successione.
 
 ### Art. 8. — Attivo ereditario
 
 L'attivo ereditario e' costituito da tutti i beni e i diritti trasferiti per causa di morte, ad esclusione di quelli non soggetti all'imposta ai sensi degli articoli 2 e 3.
  Nell'attivo si considerano compresi danaro, gioielli e mobilia per un importo pari al dieci per cento del valore complessivo netto dell'asse ereditario, anche se dichiarati o indicati in inventario per un importo minore.
- Si considera mobilia l'insieme dei mobili destinati all'uso o all'ornamento delle abitazioni, compresi i beni di valore artistico non facenti parte delle collezioni di cui all'[art. 5 della legge 1 giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089#art_5).
+ Si considera mobilia l'insieme dei mobili destinati all'uso o all'ornamento delle abitazioni, compresi i beni di valore artistico non facenti parte delle collezioni di cui all'[art. 5 della legge 1 giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md).
 
 ### Art. 9. — Beni trasferiti negli ultimi sei mesi
 
@@ -91,7 +91,7 @@ Si considerano compresi nell'attivo ereditario i beni e i diritti soggetti ad im
 Si presumono compresi nell'attivo ereditario, salvo prova contraria:
  1) i titoli di qualsiasi specie indicati nell'ultima dichiarazione dei redditi presentata dal defunto;
  2) i beni mobili e i titoli al portatore di qualsiasi specie posseduti dal defunto o depositati presso terzi a suo nome;
- 3) le cose mobili indicate come appartenenti al defunto negli elenchi previsti nel [terzo comma dell'articolo 3 della legge 1 giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089#art_3-com3).
+ 3) le cose mobili indicate come appartenenti al defunto negli elenchi previsti nel [terzo comma dell'articolo 3 della legge 1 giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md).
  Il contenuto di cassette o di plichi intestati a piu' persone si presume di proprieta' comune in parti uguali.
 
 ### Art. 11. — Beni non compresi nell'attivo ereditario
@@ -100,7 +100,7 @@ Non concorrono a formare l'attivo ereditario:
  1) i beni e i diritti iscritti a nome del defunto nei pubblici registri, quando sia provato che egli ne aveva perduto la titolarita', salvo il disposto dell'art. 9. 
  La prova puo' essere fornita soltanto mediante atto pubblico, scrittura privata autenticata o altra scrittura che abbia acquistato data certa a norma del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262); 
  2) le azioni e i titoli nominativi intestati al defunto, alienati anteriormente all'apertura della successione, quando la prova della alienazione sia data con l'atto autentico o la girata autenticata di cui agli [articoli 2022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2022) e [2023 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2023), salvo sempre il disposto dell'art. 9; 
- 3) le collezioni indicate nell'[art. 5 della legge 1 giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089#art_5); 
+ 3) le collezioni indicate nell'[art. 5 della legge 1 giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md); 
  4) le indennita' di cui agli [articoli 1751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1751) e [2122 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2122); 
  5) le indennita' corrisposte da istituti ed enti di diritto pubblico in forza di assicurazioni previdenziali obbligatorie; 
  6) i crediti contestati giudizialmente alla data di apertura della successione, sino a quando la loro sussistenza non sia riconosciuta con provvedimento giurisdizionale o transazione; 
@@ -214,7 +214,7 @@ Per i beni e i diritti diversi da quelli contemplati negli articoli precedenti s
 ### Art. 26. — Accertamento di maggior valore
 
 L'amministrazione finanziaria, qualora ritenga che i beni e i diritti di cui agli articoli 20, 21 e 22 abbiano un valore venale superiore a quello dichiarato dal contribuente, provvede alla rettifica.
- Ai fini del comma precedente l'amministrazione tiene conto anche degli accertamenti relativi ad altre imposte e puo' procedere ad accessi, ispezioni e verifiche a norma dell'[art. 52 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_52).
+ Ai fini del comma precedente l'amministrazione tiene conto anche degli accertamenti relativi ad altre imposte e puo' procedere ad accessi, ispezioni e verifiche a norma dell'[art. 52 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md).
  L'avviso deve essere notificato entro il termine di decadenza di un anno dal pagamento dell'imposta principale. Esso deve contenere, a pena di nullita', l'indicazione del valore attribuito a ciascuno dei beni o diritti e degli elementi in base ai quali e' stato determinato.
  L'avviso e' notificato, nei modi stabiliti per le notificazioni in materia di imposte sui redditi, dagli ufficiali giudiziari, da messi speciali autorizzati dagli uffici del registro o da messi comunali.
 Il contribuente puo' ricorrere secondo le disposizioni relative al contenzioso tributario.
@@ -318,7 +318,7 @@ Alla dichiarazione debbono essere allegati:
  7) la copia autentica degli eventuali inventari di tutela o di eredita' beneficiata o di procedura fallimentare o redatti in seguito ad apposizione di sigilli disposta dall'autorita' giudiziaria o di verbali di apertura di cassette di sicurezza e simili; 
  8) la copia autentica della dichiarazione di rinunzia all'eredita' o al legato; 
  9) la copia dell'eventuale invito di cui al n. 7) dell'art. 11 autenticata dal notificatore. 
- I certificati di morte e di stato di famiglia possono essere sostituiti dalle dichiarazioni di cui all'[art. 2 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_2).
+ I certificati di morte e di stato di famiglia possono essere sostituiti dalle dichiarazioni di cui all'[art. 2 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
 
 ### Art. 39. — Termine per la presentazione della dichiarazione
 
@@ -472,8 +472,8 @@ Per le successioni aperte e le donazioni fatte anteriormente alla data di entrat
 
 ### Art. 58. — Abrogazione di norme
 
-Con decorrenza dalla data di entrata in vigore del presente decreto sono abrogate le disposizioni del [regio decreto 30 dicembre 1923, n. 3270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3270), del [regio decreto-legge 4 maggio 1942, n. 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-05-04;434) e delle successive leggi modificative e integrative, quelle che stabiliscono esenzioni o agevolazioni non contemplate nel presente decreto e tutte le altre disposizioni non compatibili con le norme del presente decreto. 
- A partire dalla stessa data cessa di avere applicazione l'addizionale all'imposta sulle successioni e donazioni istituita con il [decreto-legge 30 novembre 1937, n. 2145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1937-11-30;2145), convertito nella [legge 25 aprile 1938, n. 614](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-04-25;614), e successive modificazioni. 
+Con decorrenza dalla data di entrata in vigore del presente decreto sono abrogate le disposizioni del [regio decreto 30 dicembre 1923, n. 3270](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20successioni.%20023U3270.md), del [regio decreto-legge 4 maggio 1942, n. 434](Imposta%20sul%20valore%20netto%20globale%20delle%20successioni.%20042U0434.md) e delle successive leggi modificative e integrative, quelle che stabiliscono esenzioni o agevolazioni non contemplate nel presente decreto e tutte le altre disposizioni non compatibili con le norme del presente decreto. 
+ A partire dalla stessa data cessa di avere applicazione l'addizionale all'imposta sulle successioni e donazioni istituita con il [decreto-legge 30 novembre 1937, n. 2145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1937-11-30;2145), convertito nella [legge 25 aprile 1938, n. 614](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2030%20novembre%201937-XVI%20n.%202145%20concernente%20listituzione%20di%20unaddizionale%20di%20due%20centesimi%20per%20ogni%20lira%20di%20vari%20tributi%20erariali%20comunali%20e%20prov_d55e2eb0bcff.md), e successive modificazioni. 
  Dall'abrogazione disposta dal primo comma sono escluse le esenzioni ed agevolazioni a favore dei titoli di Stato, garantiti dallo Stato od equiparati.
 
 ### Art. 59. — Entrata in vigore

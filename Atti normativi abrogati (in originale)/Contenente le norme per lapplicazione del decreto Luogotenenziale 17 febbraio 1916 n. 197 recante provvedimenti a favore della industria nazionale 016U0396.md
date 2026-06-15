@@ -62,7 +62,7 @@ Entro tre mesi dal giorno in cui il nuovo opificio sara' ultimato e reso atto al
  
  Gli agenti delle imposte accerteranno sopra luogo la ultimazione dell'edificio, nonche' l'entrata in effettivo esercizio dell'opificio di che trattasi e terranno in sospeso ogni accertamento del reddito edilizio e di quello mobiliare, per il termine di cinque anni a cominciare dal giorno in cui l'opificio sara' entrato in esercizio, giusta il certificato di cui sopra. 
  
- Decorsi tre anni dal compimento dell'opificio, senza che questo sia entrato in effettivo esercizio, gli agenti provvederanno all'accertamento del reddito del fabbricato, a decorrere dal giorno in cui sara' scaduto il triennio di esenzione del fabbricato stesso, giusta l'[art. 8 della legge 11 luglio 1889, n. 6214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-07-11;6214#art_8).
+ Decorsi tre anni dal compimento dell'opificio, senza che questo sia entrato in effettivo esercizio, gli agenti provvederanno all'accertamento del reddito del fabbricato, a decorrere dal giorno in cui sara' scaduto il triennio di esenzione del fabbricato stesso, giusta l'[art. 8 della legge 11 luglio 1889, n. 6214](Concernente%20la%20revisione%20sui%20fabbricati%20089U6214.md).
 
 ## Art. 9.
 

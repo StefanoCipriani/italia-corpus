@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -83,11 +83,11 @@ La deliberazione dell'assemblea straordinaria diretta ad uniformare l'atto costi
 
 ## Art. 14.
 
-I consorzi esercenti il credito costituiti secondo le leggi della cessata monarchia austro-ungarica, operanti nella Venezia Giulia e Tridentina e disciplinati dal primo capoverso dell'[art. 41, del regio decreto 4 novembre 1928, n. 2325](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-11-04;2325#art_41), possono conservare il loro attuale ordinamento e la denominazione di consorzi economici a garanzia limitata.
+I consorzi esercenti il credito costituiti secondo le leggi della cessata monarchia austro-ungarica, operanti nella Venezia Giulia e Tridentina e disciplinati dal primo capoverso dell'[art. 41, del regio decreto 4 novembre 1928, n. 2325](Disposizioni%20per%20lunificazione%20legislativa%20nei%20territori%20annessi%20al%20Regno.%20028U2325.md), possono conservare il loro attuale ordinamento e la denominazione di consorzi economici a garanzia limitata.
 
 ## Art. 15.
 
-Le societa' non cooperative le quali, in forza delle norme di cui alla [legge 14 aprile 1927, n. 531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-04-14;531), hanno mantenuto nella loro denominazione la qualifica di banca popolare possono conservarla.
+Le societa' non cooperative le quali, in forza delle norme di cui alla [legge 14 aprile 1927, n. 531](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20luglio%201926%20numero%201297%20concernente%20luso%20della%20qualifica%20di%20%20mutua%20%20e%20di%20%20popolare%20%20da%20parte%20degli%20Istituti%20di%20credito.%20027U0531.md), hanno mantenuto nella loro denominazione la qualifica di banca popolare possono conservarla.
 
 ## Art. 16.
 

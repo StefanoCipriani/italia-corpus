@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Viste le [leggi 14 maggio 1925, nn. 617 e 618; 24 maggio 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-05-24;618), un. 724, 725, 727 e 728; 28 maggio 1925, n. 789; 11 giugno 1925, nn. 867, 868 e 869, e il [R. decreto 25 giugno 1925, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-25;1000);
+Viste le [leggi 14 maggio 1925, nn. 617 e 618; 24 maggio 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-05-24;618), un. 724, 725, 727 e 728; 28 maggio 1925, n. 789; 11 giugno 1925, nn. 867, 868 e 869, e il [R. decreto 25 giugno 1925, n. 1000](Approvazione%20dei%20bilanci%20dellAzienda%20autonoma%20delle%20poste%20e%20dei%20telegrafi%20e%20di%20quella%20dei%20telefoni%20per%20lesercizio%201925-26%20e%20delle%20conseguenti%20variazioni%20nello%20stato%20di%20previsione%20dellentr_00293d7bc4b5.md);
 
 Visto l'[art. 3 n. 2 della legge 31 gennaio 1925, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-01-31;100#art_3-num2);
 

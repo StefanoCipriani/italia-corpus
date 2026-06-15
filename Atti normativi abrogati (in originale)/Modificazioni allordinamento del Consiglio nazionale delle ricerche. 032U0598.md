@@ -19,7 +19,7 @@ All'[art. 1 del R. decreto 18 novembre 1923, n. 2895](https://www.normattiva.it/
 
 Il Consiglio nazionale delle ricerche esprime il proprio avviso, tutte le volte che ne e' richiesto dalle Amministrazioni statali, o da altre Amministrazioni pubbliche, su questioni o affari di carattere tecnico e scientifico. 
  Il voto del Consiglio nazionale e' obbligatorio: 
- a) sovra tutte le proposte di regolamenti che per l'[art. 1, n. 7, del R. decreto 14 novembre 1901, n. 466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-11-14;466#art_1-num7), sono soggette all'approvazione del Consiglio dei Ministri, quando la materia oggetto di detti regolamenti abbia carattere tecnico-scientifico; 
+ a) sovra tutte le proposte di regolamenti che per l'[art. 1, n. 7, del R. decreto 14 novembre 1901, n. 466](Sulle%20attribuzioni%20del%20Consiglio%20dei%20Ministri.%20001U0466.md), sono soggette all'approvazione del Consiglio dei Ministri, quando la materia oggetto di detti regolamenti abbia carattere tecnico-scientifico; 
  b) in tutti gli altri casi in cui sia richiesto per legge.
 
 ## Art. 3.
@@ -34,7 +34,7 @@ E' data facolta' al Consiglio nazionale delle ricerche di eseguire controlli di 
 
 ## Art. 4.
 
-L'[art. 3 del R. decreto-legge 31 marzo 1927, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-31;638#art_3), e' sostituito dal seguente: 
+L'[art. 3 del R. decreto-legge 31 marzo 1927, n. 638](Riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20027U0638.md), e' sostituito dal seguente: 
  «Fanno parte del Consiglio nazionale delle ricerche i Comitati nazionali che sono determinati con decreto del Capo del Governo, di concerto col Ministro per l'educazione nazionale, su proposta del Direttorio del Consiglio stesso. 
  «Possono, nello stesso modo, essere istituite speciali Commissioni per lo studio di particolari argomenti scientifici interessanti l'economia generale del Paese».
 

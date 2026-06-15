@@ -30,7 +30,7 @@ Possono derivare e utilizzare acqua pubblica;
  
  a) coloro che posseggono un titolo legittimo; 
  
- b) coloro i quali hanno per tutto il trentennio anteriore alla promulgazione della [legge 10 agosto 1884, n. 2644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-08-10;2644), derivata e utilizzata acqua pubblica, limitatamente al quantitativo di acqua o di forza motrice effettivamente utilizzata durante tutto il trentennio; 
+ b) coloro i quali hanno per tutto il trentennio anteriore alla promulgazione della [legge 10 agosto 1884, n. 2644](Concernente%20le%20derivazioni%20di%20acque%20pubbliche.%20084U2644.md), derivata e utilizzata acqua pubblica, limitatamente al quantitativo di acqua o di forza motrice effettivamente utilizzata durante tutto il trentennio; 
  
  c) coloro che ne ottengono regolare concessione, a norma del presente decreto. 
  
@@ -42,7 +42,7 @@ Possono derivare e utilizzare acqua pubblica;
 
 ## Art. 2.
 
-Il Ministero dei lavori pubblici fara' compilare e pubblicare, nei modi da stabilire col regolamento l'elenco delle acque pubbliche, per ogni provincia del Regno, dove non sia stato gia' provveduto ai termini dell'[articolo 25 della legge 10 agosto 1884, n. 2644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-08-10;2644#art_25). 
+Il Ministero dei lavori pubblici fara' compilare e pubblicare, nei modi da stabilire col regolamento l'elenco delle acque pubbliche, per ogni provincia del Regno, dove non sia stato gia' provveduto ai termini dell'[articolo 25 della legge 10 agosto 1884, n. 2644](Concernente%20le%20derivazioni%20di%20acque%20pubbliche.%20084U2644.md). 
  
  Entro centoventi giorni dalla data della pubblicazione, coloro che vi hanno interesse hanno diritto di farvi opposizione. 
  
@@ -163,11 +163,11 @@ Al termine della concessione e nei casi di decadenza o rinunzia, nelle derivazio
 
 Per le grandi derivazioni e per le opere di raccolta e regolazione delle acque il decreto di concessione ha efficia di dichiarazione di pubblica utilita' per tutte le opere ed impianti occorrenti cosi' alla costruzione che all'esercizio, compresi i canali principali di irrigazione, e le linee elettriche di trasmissione dell'energia prodotta. 
  
- Il progetto di cui all'articolo 7 dovra' soddisfare alle condizioni stabilite nell'[art. 16 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_16). 
+ Il progetto di cui all'articolo 7 dovra' soddisfare alle condizioni stabilite nell'[art. 16 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
  
  Il concessionario potra' immettersi nel possesso dei beni occorrenti, ed avvalersi delle esistenti strade di accesso, in seguito alla compilazione dello stato di consistenza dei fondi da occupare, che sara' approvato dal ministro dei lavori pubblici. Il ministro, sentito il Consiglio superiore delle acque, determinera' pure la somma che, in via provvisoria, dovra' depositarsi per l'indennita' di espropriazione, e per gli altri eventuali risarcimenti che ai terzi possono competere. 
  
- Il verbale di consistenza di cui sopra equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_32). 
+ Il verbale di consistenza di cui sopra equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
  
  Si applicheranno per tutto il resto le disposizioni della detta legge.
 
@@ -403,21 +403,21 @@ Sono applicabili alle materie contenute nel presente decreto le disposizioni deg
 
 ## Art. 38.
 
-Sono abrogati il capo V, titolo III, della legge 20 marzo 1865 sulle opere pubbliche, n. 2248, allegato F, la [legge 10 agosto 1884, n. 2644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-08-10;2644) (serie 3ª), ed ogni altra disposizione contraria al presente decreto.
+Sono abrogati il capo V, titolo III, della legge 20 marzo 1865 sulle opere pubbliche, n. 2248, allegato F, la [legge 10 agosto 1884, n. 2644](Concernente%20le%20derivazioni%20di%20acque%20pubbliche.%20084U2644.md) (serie 3ª), ed ogni altra disposizione contraria al presente decreto.
 
 ## Art. 39.
 
 Il Governo del Re provvedera' a dettare le norme per coordinare il presente decreto con le disposizioni seguenti: 
  
- a) [legge 20 marzo 1865, n. 3248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;3248), allegato F, sulle opere pubbliche; [testo unico 25 luglio 1904, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-07-25;223), delle disposizioni di legge intorno alle opere idrauliche delle diverse categorie, e [legge 2 gennaio 1910, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-01-02;9), sulla navigazione interna; 
+ a) [legge 20 marzo 1865, n. 3248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;3248), allegato F, sulle opere pubbliche; [testo unico 25 luglio 1904, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-07-25;223), delle disposizioni di legge intorno alle opere idrauliche delle diverse categorie, e [legge 2 gennaio 1910, n. 9](Concernente%20la%20navigazione%20interna.%20010U0009.md), sulla navigazione interna; 
  
- b) [legge 28 febbraio 1886, n. 3732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-02-28;3732) (testo unico), sui consorzi di irrigazione, e [legge 2 febbraio 1888, n. 5192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-02-02;5192), sui consorzi di derivazione ed uso delle acque a scopo industriale; 
+ b) [legge 28 febbraio 1886, n. 3732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-02-28;3732) (testo unico), sui consorzi di irrigazione, e [legge 2 febbraio 1888, n. 5192](Che%20fissa%20le%20norme%20e%20le%20disposizioni%20secondo%20le%20quali%20debbono%20essere%20ordinati%20i%20Consorzi%20di%20derivazione%20e%20di%20uso%20delle%20acque%20a%20scopo%20industriale%20sia%20volontari%20che%20obbligatori.%20088U5192.md), sui consorzi di derivazione ed uso delle acque a scopo industriale; 
  
- c) [legge 31 marzo 1904, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;140), concernente provvedimenti a favore della Basilicata; [legge 25 giugno 1906, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255), contenente provvedimenti a favore delle Calabrie; [legge 2 giugno 1910, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277), riguardante provvedimenti per il demanio forestale di Stato e la silvicoltura; 
+ c) [legge 31 marzo 1904, n. 140](Che%20emana%20provvedimenti%20a%20favore%20della%20provincia%20di%20Basilicata.%20004U0140.md), concernente provvedimenti a favore della Basilicata; [legge 25 giugno 1906, n. 255](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), contenente provvedimenti a favore delle Calabrie; [legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md), riguardante provvedimenti per il demanio forestale di Stato e la silvicoltura; 
  
- d) [legge 5 maggio 1907, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-05-05;257), sul Magistrato alle acque per le provincie Venete e di Mantova; 
+ d) [legge 5 maggio 1907, n. 257](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md), sul Magistrato alle acque per le provincie Venete e di Mantova; 
  
- e) [legge 13 luglio 1911, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;774), sulla sistemazione idraulico-forestale dei bacini montani.
+ e) [legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md), sulla sistemazione idraulico-forestale dei bacini montani.
 
 ## Art. 40.
 
@@ -431,13 +431,13 @@ L'ulteriore svolgimento delle istruttorie delle domande di concessione, che sian
 
 ### Art. 42.
 
-La durata delle concessioni temporanee accordate e rinnovate in base alla [legge 10 agosto 1884, n. 2644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-08-10;2644), a richiesta degli interessati ed ove non ostino motivi di decadenza o di pubblico interesse, sara' prorogata per un periodo di tempo che, congiunto con quello decorso dalla pubblicazione del presente decreto, raggiunga la durata massima stabilita nel precedente articolo 11 per le varie specie di concessioni. 
+La durata delle concessioni temporanee accordate e rinnovate in base alla [legge 10 agosto 1884, n. 2644](Concernente%20le%20derivazioni%20di%20acque%20pubbliche.%20084U2644.md), a richiesta degli interessati ed ove non ostino motivi di decadenza o di pubblico interesse, sara' prorogata per un periodo di tempo che, congiunto con quello decorso dalla pubblicazione del presente decreto, raggiunga la durata massima stabilita nel precedente articolo 11 per le varie specie di concessioni. 
  
  Alle concessioni prorogate saranno applicabili tutte le disposizioni del presente decreto.
 
 ### Art. 43.
 
-Le utenze riconosciute o da riconoscere in base al possesso trentennale anteriore alla promulgazione della [legge 10 agosto 1884, n. 2644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-08-10;2644), avranno la durata massima stabilita nell'art. 11, per le varie specie di concessione, con decorrenza dalla data di pubblicazione del presente decreto. 
+Le utenze riconosciute o da riconoscere in base al possesso trentennale anteriore alla promulgazione della [legge 10 agosto 1884, n. 2644](Concernente%20le%20derivazioni%20di%20acque%20pubbliche.%20084U2644.md), avranno la durata massima stabilita nell'art. 11, per le varie specie di concessione, con decorrenza dalla data di pubblicazione del presente decreto. 
  
  Ad esso sara' applicabile l'art. 12, e saranno pure applicabili le cause di decadenza stabilite nell'art. 29 e nel regolamento.
 

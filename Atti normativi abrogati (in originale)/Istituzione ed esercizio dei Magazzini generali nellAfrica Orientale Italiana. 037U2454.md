@@ -138,7 +138,7 @@ Le controversie che potessero sorgere fra gli esercenti i Magazzini generali e i
 
 ## Art. 18.
 
-Le contravvenzioni alle disposizioni del presente decreto saranno punite con l'ammenda da L. 1000 a L. 10.000, salvo che il fatto non costituisca piu' grave reato ai sensi del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), nel qual caso sara' applicata la pena da esso prevista, e salva l'azione civile dei danni agli interessati a termini di legge.
+Le contravvenzioni alle disposizioni del presente decreto saranno punite con l'ammenda da L. 1000 a L. 10.000, salvo che il fatto non costituisca piu' grave reato ai sensi del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nel qual caso sara' applicata la pena da esso prevista, e salva l'azione civile dei danni agli interessati a termini di legge.
 
 ## Art. 19.
 

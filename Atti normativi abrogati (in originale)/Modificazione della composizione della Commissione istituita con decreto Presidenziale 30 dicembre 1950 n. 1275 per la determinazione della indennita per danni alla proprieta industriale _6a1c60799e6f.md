@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 5 della legge 24 novembre 1948, n. 1493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-11-24;1493#art_5), relativa alla indennita' per danni alla proprieta' industriale italiana negli Stati Uniti del Nord America, in applicazione degli Accordi approvati con [decreto legislativo 31 dicembre 1947, n. 1747](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-12-31;1747);
- Visto l'[art. 3 del decreto del Presidente della Repubblica 30 dicembre 1950, n. 1275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-12-30;1275#art_3), contenente le norme di attuazione della citata [legge 24 novembre 1948, n. 1493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-11-24;1493), nel quale si stabilisce la composizione della Commissione amministrativa che deve determinare in via definitiva la indennita' da corrispondere agli interessati;
+ Visto l'[art. 3 del decreto del Presidente della Repubblica 30 dicembre 1950, n. 1275](../DPR/Norme%20di%20attuazione%20della%20legge%2024%20novembre%201948%20n.%201493%20relativa%20alla%20indennita%20per%20danni%20alla%20proprieta%20industriale%20italiana%20negli%20Stati%20Uniti%20dAmerica.md), contenente le norme di attuazione della citata [legge 24 novembre 1948, n. 1493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-11-24;1493), nel quale si stabilisce la composizione della Commissione amministrativa che deve determinare in via definitiva la indennita' da corrispondere agli interessati;
  Considerata la necessita' di modificare la composizione ed il funzionamento di detta Commissione;
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
  Udito il parere del Consiglio di Stato;
@@ -22,7 +22,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- L'[art. 3 del decreto 30 dicembre 1950, n. 1275, del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-12-30;1275#art_3), portante norme di attuazione della [legge 24 novembre 1948, n. 1493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-11-24;1493), relativa alla indennita' per danni alla proprieta' industriale italiana negli Stati Uniti d'America, e' sostituito dal seguente:
+ L'[art. 3 del decreto 30 dicembre 1950, n. 1275, del Presidente della Repubblica](../DPR/Norme%20di%20attuazione%20della%20legge%2024%20novembre%201948%20n.%201493%20relativa%20alla%20indennita%20per%20danni%20alla%20proprieta%20industriale%20italiana%20negli%20Stati%20Uniti%20dAmerica.md), portante norme di attuazione della [legge 24 novembre 1948, n. 1493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-11-24;1493), relativa alla indennita' per danni alla proprieta' industriale italiana negli Stati Uniti d'America, e' sostituito dal seguente:
  La Commissione amministrativa che determina in via definitiva l'indennita' da corrispondere all'interessato, e' nominata con decreto del Ministro per il tesoro, di concerto con il Ministro per l'industria e commercio, ed e' composta:
  a) di un magistrato di Cassazione con ufficio non inferiore a quello di presidente di Sezione o equiparato, in servizio o a riposo, designato dal Ministro per la grazia e giustizia che la presiede;
  b) di un magistrato di Cassazione con funzione di consigliere o equiparato, in servizio o a riposo;

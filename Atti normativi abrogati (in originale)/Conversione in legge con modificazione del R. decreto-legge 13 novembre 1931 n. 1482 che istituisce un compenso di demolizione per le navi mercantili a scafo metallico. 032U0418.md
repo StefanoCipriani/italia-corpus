@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 novembre 1931, n. 1482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-13;1482), relativo al premio di demolizione per le navi da carico a scafo metallico, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 13 novembre 1931, n. 1482](Istituzione%20di%20un%20compenso%20di%20demolizione%20di%20navi%20mercantili%20a%20scafo%20metallico.%20031U1482.md), relativo al premio di demolizione per le navi da carico a scafo metallico, con la seguente modificazione: 
  «All'art. 1, dopo le parole: art. 5, comma 1°, lettera a), sono aggiunte le lettere b), d)». 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 24 marzo 1932 - Anno X 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 8 della legge 19 dicembre 1992, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489#art_8), recante delega al Governo per l'attuazione della [direttiva 92/30/CEE del Consiglio del 6 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;30);
+Visto l'[art. 8 della legge 19 dicembre 1992, n. 489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md), recante delega al Governo per l'attuazione della [direttiva 92/30/CEE del Consiglio del 6 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;30);
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 23 dicembre 1992;
 
@@ -33,13 +33,13 @@ Ai fini delle disposizioni del presente decreto, si intende per:
  ente finanziario: un'impresa, diversa da un ente creditizio, la cui attivita' principale consiste nell'assunzione di partecipazioni o nell'esercizio di una o piu' attivita' figuranti all'art. 1, comma 2, lett. f) punti 2 - 12 del [D.Lgs. 14 dicembre 1992, n. 481](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2089-646-CEE%20relativa%20al%20coordinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20riguardanti%20laccesso%20allattivita%20degli%20enti%20creditizi%20e%20il%20su_0b842c4d8e38.md); 
  societa' di partecipazione finanziaria: un ente finanziario avente sede in Italia o in altro stato membro della Comunita' europea, le cui imprese controllate sono esclusivamente o principalmente, uno o piu' enti creditizi o enti finanziari, quando almeno una di esse e' un ente creditizio; 
  societa' di partecipazione mista: una societa' avente sede in Italia o in altro stato membro della Comunita' europea, diversa da una societa' di partecipazione finanziaria o da un ente creditizio, che controlla almeno un ente creditizio; 
- gruppo creditizio e capogruppo: rispettivamente il gruppo e la societa' finanziaria o l'ente creditizio disciplinati dal titolo VII del [D.Lgs. 20 novembre 1990, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-11-20;356); 
+ gruppo creditizio e capogruppo: rispettivamente il gruppo e la societa' finanziaria o l'ente creditizio disciplinati dal titolo VII del [D.Lgs. 20 novembre 1990, n. 356](../Decreti%20Legislativi/Disposizioni%20per%20la%20ristrutturazione%20e%20per%20la%20disciplina%20del%20gruppo%20creditizio.md); 
  enti o societa' controllati: gli enti e le societa' nei cui confronti sussiste il controllo ai sensi dell'art. 26 del medesmo [D.Lgs. n. 356/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990;356); 
  enti o societa' partecipati: gli enti e le societa' nei cui confronti sussiste una partecipazione, diretta o indiretta, pari almeno al 20% del capitale.
 
 2.
 
-Il presente decreto integra quanto disposto dalla [legge 17 aprile 1986, n. 114](../Atti%20di%20recepimento%20direttive%20UE/Controllo%20delle%20partecipazioni%20bancarie%20in%20attuazione%20della%20direttiva%20CEE%20n.%2083-350%20del%2013%20giugno%201983%20in%20tema%20di%20vigilanza%20su%20base%20consolidata%20degli%20enti%20creditizi.md) e dal [D.Lgs. 20 novembre 1990, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-11-20;356).
+Il presente decreto integra quanto disposto dalla [legge 17 aprile 1986, n. 114](../Atti%20di%20recepimento%20direttive%20UE/Controllo%20delle%20partecipazioni%20bancarie%20in%20attuazione%20della%20direttiva%20CEE%20n.%2083-350%20del%2013%20giugno%201983%20in%20tema%20di%20vigilanza%20su%20base%20consolidata%20degli%20enti%20creditizi.md) e dal [D.Lgs. 20 novembre 1990, n. 356](../Decreti%20Legislativi/Disposizioni%20per%20la%20ristrutturazione%20e%20per%20la%20disciplina%20del%20gruppo%20creditizio.md).
 
 ## Art. 2. — Vigilanza informativa
 

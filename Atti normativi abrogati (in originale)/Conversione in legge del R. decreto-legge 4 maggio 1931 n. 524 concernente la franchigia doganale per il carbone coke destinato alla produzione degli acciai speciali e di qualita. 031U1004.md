@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 maggio 1931, n. 524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-05-04;524),  concernente la franchigia doganale per il carbone coke destinato alla produzione degli acciai speciali e di qualita'. 
+ E' convertito in legge il [R. decreto-legge 4 maggio 1931, n. 524](Franchigia%20doganale%20per%20il%20carbone%20coke%20destinato%20alla%20produzione%20degli%20acciai%20speciali%20e%20di%20qualita.%20031U0524.md),  concernente la franchigia doganale per il carbone coke destinato alla produzione degli acciai speciali e di qualita'. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 18 giugno 1931 - Anno IX 
  

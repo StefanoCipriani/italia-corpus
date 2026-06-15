@@ -34,7 +34,7 @@ E' demandata all'Alto Commissario per la citta' e la provincia di Napoli la gest
 
 ## Art. 2.
 
-L'approvazione dei piani di cui al precedente articolo avra' il valore di dichiarazione di pubblica utilita', ed alle espropriazioni occorrenti si applicheranno le disposizioni degli [articoli 2 e seguenti del R. decreto 11 aprile 1926, numero 752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-11;752#art_2).
+L'approvazione dei piani di cui al precedente articolo avra' il valore di dichiarazione di pubblica utilita', ed alle espropriazioni occorrenti si applicheranno le disposizioni degli [articoli 2 e seguenti del R. decreto 11 aprile 1926, numero 752](Poteri%20dellAlto%20Commissario%20per%20la%20citta%20e%20la%20provincia%20di%20Napoli%20in%20materia%20di%20espropriazione%20per%20pubblica%20utilita.%20026U0752.md).
 
 ## Art. 3.
 
@@ -46,11 +46,11 @@ L'Alto Commissario per la citta' e la provincia di Napoli ha facolta' di imporre
  
  I proventi relativi, come ogni altro provento derivante dalle opere suddette, saranno devoluti al bilancio dell'Alto Commissario, che li destinera' esclusivamente a vantaggio dell'esplorazione e sistemazione delle antichita' di Ercolano o dell'isola di Capri. 
  
- Sara' parimenti devoluta al bilancio dell'Alto Commissario, per gli scopi di cui sopra, la meta' del provento della tassa, istituita con [R. decreto 21 ottobre 1926, n. 1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-21;1931), per l'ingresso alla Grotta Azzurra in Capri. L'altra meta' sara' riservata a vantaggio del comune di Capri per opere di carattere estetico nell'isola medesima.
+ Sara' parimenti devoluta al bilancio dell'Alto Commissario, per gli scopi di cui sopra, la meta' del provento della tassa, istituita con [R. decreto 21 ottobre 1926, n. 1931](Tassa%20dingresso%20per%20la%20Grotta%20Azzurra%20nellIsola%20di%20Capri.%20026U1931.md), per l'ingresso alla Grotta Azzurra in Capri. L'altra meta' sara' riservata a vantaggio del comune di Capri per opere di carattere estetico nell'isola medesima.
 
 ## Art. 5.
 
-Resta fermo il diritto dell'accesso gratuito alle antichita' e ai monumenti predetti por i titolari delle tessere di libero ingresso, di cui al regolamento approvato con [R. decreto 21 agosto 1922, n. 1522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-08-21;1522).
+Resta fermo il diritto dell'accesso gratuito alle antichita' e ai monumenti predetti por i titolari delle tessere di libero ingresso, di cui al regolamento approvato con [R. decreto 21 agosto 1922, n. 1522](Che%20approva%20il%20regolamento%20per%20lapplicazione%20del%20decreto-legge%203%20giugno%201920%20n.%20862%20relativo%20alle%20tasse%20dingresso%20nei%20monumenti%20nei%20musei%20nelle%20gallerie%20e%20negli%20scavi%20di%20antichita.%20022U1522.md).
 
 ## Art. 6.
 

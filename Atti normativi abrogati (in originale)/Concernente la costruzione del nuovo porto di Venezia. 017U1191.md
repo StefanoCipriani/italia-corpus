@@ -36,7 +36,7 @@ Il territorio facente attualmente parte del comune di Mestre, situato a sud dell
 
 ## Art. 3.
 
-Alle opere ed impianti del nuovo porto, come pure agli stabilimenti industriali di ogni specie, entro i limiti del porto stesso e dell'annessa zona industriale, saranno estese, in quanto applicabili, tutte le disposizioni d'indole tributaria ed economica fissate dalle [leggi 8 luglio 1904, n. 351, e 12 marzo 1911, n. 258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-12;258), concernenti provvedimenti per la citta' di Napoli.
+Alle opere ed impianti del nuovo porto, come pure agli stabilimenti industriali di ogni specie, entro i limiti del porto stesso e dell'annessa zona industriale, saranno estese, in quanto applicabili, tutte le disposizioni d'indole tributaria ed economica fissate dalle [leggi 8 luglio 1904, n. 351, e 12 marzo 1911, n. 258](Concernente%20provvedimenti%20per%20la%20citta%20di%20Napoli.%20011U0258.md), concernenti provvedimenti per la citta' di Napoli.
 
 ## Art. 4.
 
@@ -52,9 +52,9 @@ Alle espropriazioni occorrenti nel territorio assegnato al nuovo porto, all'anne
  
  Le operazioni relative alle dette espropriazioni, che si effettueranno gradualmente, a seconda del bisogno, saranno eseguite direttamente dal concessionario della costruzione per quanto riguarda le opere portuali e la zona industriale, e dal Comune per la formazione del quartiere urbano. I detti enti potranno immettersi nel possesso dei beni occorrenti in seguito alla compilazione dello stato di consistenza dei fondi da occupare, che sara' approvato dal ministro dei lavori pubblici. Il ministro, sentito il Consiglio superiore dei lavori pubblici, determinera' pure la somma che, in via provvisoria, dovra' depositarsi per indennita' di espropriazione e per gli altri eventuali risarcimenti che ai terzi possano competere. 
  
- Il verbale di consistenza di cui sopra equivale alla perizia di cui all'[articolo 32 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_32). 
+ Il verbale di consistenza di cui sopra equivale alla perizia di cui all'[articolo 32 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
  
- Ogni variazione o rettifica delle espropriazioni, che si manifestasse necessaria all'atto della esecuzione delle opere, sara' approvata con lo stesso procedimento. Si applicheranno per tutto il resto le disposizioni della [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359).
+ Ogni variazione o rettifica delle espropriazioni, che si manifestasse necessaria all'atto della esecuzione delle opere, sara' approvata con lo stesso procedimento. Si applicheranno per tutto il resto le disposizioni della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
 
 ## Art. 7.
 
@@ -70,7 +70,7 @@ Nella parte straordinaria dello stato di previsione della spesa del Ministero de
 
 ## Art. 10.
 
-Lo Stato provvedera' al completamento dei lavori e impianti riguardanti la stazione marittima del porto di Venezia, di cui al n. 23 della tabella annessa alla [legge 14 luglio 1907, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-14;542), inscrivendo le maggiori spese all'uopo necessarie, a seconda del bisogno, negli stati di previsione della spesa del Ministero dei lavori pubblici per gli esercizi finanziari dal 1918-919 in avanti, mediante prelevamento dal fondo di riserva di cui alla tabella A della [legge 4 aprile 1912, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-04-04;297).
+Lo Stato provvedera' al completamento dei lavori e impianti riguardanti la stazione marittima del porto di Venezia, di cui al n. 23 della tabella annessa alla [legge 14 luglio 1907, n. 542](Autorizzazione%20di%20spese%20per%20esecuzione%20di%20nuove%20opere%20marittime.%20007U0542.md), inscrivendo le maggiori spese all'uopo necessarie, a seconda del bisogno, negli stati di previsione della spesa del Ministero dei lavori pubblici per gli esercizi finanziari dal 1918-919 in avanti, mediante prelevamento dal fondo di riserva di cui alla tabella A della [legge 4 aprile 1912, n. 297](Che%20approva%20laumento%20della%20spesa%20straordinaria%20consolidata%20del%20Ministero%20dei%20lavori%20pubblici%20per%20gli%20esercizi%20finanziari%20dal%201912-913%20al%201920-921.%20012U0297.md).
 
 ## Art. 11.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102), e le sue successive modificazioni;
+Visto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e le sue successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 
@@ -26,11 +26,11 @@ I posti di professore di ruolo della facolta' di scienze politiche della Regia u
 
 8.
 
-Conseguentemente il numero dei posti di ruolo dei professori delle Regie universita' e dei Regi istituti superiori di cui alla tabella n. 31 del [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), modificata dall'art. 21, comma ultimo, del [R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604), e' elevato a 758.
+Conseguentemente il numero dei posti di ruolo dei professori delle Regie universita' e dei Regi istituti superiori di cui alla tabella n. 31 del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificata dall'art. 21, comma ultimo, del [R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604), e' elevato a 758.
 
 ## Art. 2.
 
-Fino al 1° febbraio 1926 il Ministro per la pubblica istruzione potra' trasferire ai posti vacanti di professore della facolta' di scienze politiche della Regia universita' di Roma, prescindendo dalle disposizioni di cui all'[art. 20 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_20), modificato dal [R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604), professori di qualsiasi universita' o istituto superiore per l'insegnamento della materia di cui sono titolari o di altra materia. 
+Fino al 1° febbraio 1926 il Ministro per la pubblica istruzione potra' trasferire ai posti vacanti di professore della facolta' di scienze politiche della Regia universita' di Roma, prescindendo dalle disposizioni di cui all'[art. 20 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), modificato dal [R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604), professori di qualsiasi universita' o istituto superiore per l'insegnamento della materia di cui sono titolari o di altra materia. 
  
  Detti trasferimenti potranno decorrere anche dal 16 ottobre 1926. 
  
@@ -44,13 +44,13 @@ Il preside della facolta' di scienze politiche predetta fa parte del Senato acca
 
 L'ordinamento didattico della facolta' e' stabilito in uno statuto da approvarsi con decreto Reale, su proposta del Ministro per la pubblica istruzione, prescindendo dalle disposizioni vigenti in materia. 
  
- Le eventuali modificazioni allo statuto medesimo saranno proposte ed approvate con le norme stabilite per tutte le altre facolta' universitarie dal [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102).
+ Le eventuali modificazioni allo statuto medesimo saranno proposte ed approvate con le norme stabilite per tutte le altre facolta' universitarie dal [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
 
 ## Art. 5.
 
 In aggiunta all'assegno di cui all'art. 6, 1° comma, del R. decreto 27 marzo 1924. n. 527, sara' corrisposta alla Regia Universita' di Roma la somma annua di L. 250,000 per le spese di funzionamento e per l'istituzione di tre posti di assistente o di aiuto. 
  
- I predetti assistenti o aiuti saranno nominati con le norme di cui [art. 64 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_64).
+ I predetti assistenti o aiuti saranno nominati con le norme di cui [art. 64 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
 
 ## Art. 6.
 

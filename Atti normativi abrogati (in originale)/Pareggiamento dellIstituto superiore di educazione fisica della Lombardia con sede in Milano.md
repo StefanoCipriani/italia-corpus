@@ -14,7 +14,7 @@ Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio
 
 Veduta la [legge 7 febbraio 1958, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-07;88);
 
-Veduta la [legge 18 marzo 1968, n. 293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;293);
+Veduta la [legge 18 marzo 1968, n. 293](Norme%20integrative%20della%20legge%207%20febbraio%201958%20n.%2088%20relativa%20agli%20istituti%20superiori%20di%20educazione%20fisica.md);
 
 Veduta la definitiva domanda in data 30 maggio 1967 - che faceva seguito alla nota del 4 aprile 1966 - presentata dal rettore dell'Universita' di Milano e dalle amministrazioni provinciale e comunale per ottenere il pareggiamento dell'istituto superiore di educazione fisica con sede in Milano, ai sensi degli articoli 22 e 28 della citata legge n. 88;
 
@@ -27,7 +27,7 @@ Sulla proposta del Ministro per la pubblica istruzione; Decreta:
 ## Art. 1.
 
 E' riconosciuto l'Istituto superiore di educazione fisica di Milano, intendendosi l'istituto medesimo pareggiato a norma degli [articoli 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-07;88#art_22) e [28 della legge 7 febbraio 1958, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-07;88#art_28).
- Ai sensi dell'art. 3, norme transitorie, della suddetta [legge 18 marzo 1968, n. 293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;293), sono riconosciuti i corsi tenuti negli anni accademici 1965-66; 1966-67; 1967-68.
+ Ai sensi dell'art. 3, norme transitorie, della suddetta [legge 18 marzo 1968, n. 293](Norme%20integrative%20della%20legge%207%20febbraio%201958%20n.%2088%20relativa%20agli%20istituti%20superiori%20di%20educazione%20fisica.md), sono riconosciuti i corsi tenuti negli anni accademici 1965-66; 1966-67; 1967-68.
  Il pareggiamento non puo' avere per effetto alcun onere finanziario a carico dello Stato.
 
 ## Art. 2.

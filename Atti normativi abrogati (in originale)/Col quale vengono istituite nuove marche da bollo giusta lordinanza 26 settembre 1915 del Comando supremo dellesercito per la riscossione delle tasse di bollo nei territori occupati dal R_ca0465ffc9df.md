@@ -29,7 +29,7 @@ E' istituita una nuova marca da bollo a tassa fissa di lira una, senza decimi ed
 Le marche da centesimi due, di cui all'art. 1, serviranno per il Regno e per i paesi occupati dal R. esercito; quelle da lire una, di cui all'art. 2, serviranno esclusivamente per i paesi occupati dal R.
 esercito. 
  
- In questi ultimi paesi potranno pure usarsi le marche a tassa graduale per cambiali da centesimi 24 istituite col [R. decreto 15 ottobre 1908, n. 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-10-15;626), e delle quali e' cessato l'uso nel Regno in seguito alla riforma della tassa di bollo sulle cambiali, portata dal [R. decreto 15 novembre 1914, n. 1230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-15;1230).
+ In questi ultimi paesi potranno pure usarsi le marche a tassa graduale per cambiali da centesimi 24 istituite col [R. decreto 15 ottobre 1908, n. 626](Che%20istitui%20una%20nuova%20serie%20di%20marche%20da%20bollo%20per%20cambiali%20008U0626.md), e delle quali e' cessato l'uso nel Regno in seguito alla riforma della tassa di bollo sulle cambiali, portata dal [R. decreto 15 novembre 1914, n. 1230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-15;1230).
 
 ## Art. 4.
 

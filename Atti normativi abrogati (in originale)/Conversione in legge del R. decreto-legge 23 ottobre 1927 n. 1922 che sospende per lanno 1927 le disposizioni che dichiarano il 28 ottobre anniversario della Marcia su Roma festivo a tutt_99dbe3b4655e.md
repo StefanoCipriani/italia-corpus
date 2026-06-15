@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 1922](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;1922), che sospende, per l'anno 1927, le disposizioni che dichiarano il 28 ottobre, anniversario della Marcia su Roma, festivo a tutti gli effetti civili ed il 4 novembre, anniversario della Vittoria, festivo a tutti gli effetti civili e festa nazionale. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 1922](Sospensione%20per%20lanno%201927%20delle%20disposizioni%20che%20dichiarano%20il%2028%20ottobre%20anniversario%20della%20Marcia%20su%20Roma%20festivo%20a%20tutti%20gli%20effetti%20civili%20ed%20il%204%20novembre%20anniversario%20della%20Vittori_528570c96e25.md), che sospende, per l'anno 1927, le disposizioni che dichiarano il 28 ottobre, anniversario della Marcia su Roma, festivo a tutti gli effetti civili ed il 4 novembre, anniversario della Vittoria, festivo a tutti gli effetti civili e festa nazionale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

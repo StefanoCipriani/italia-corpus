@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista le deliberazione del Consiglio dei Ministri;
 
@@ -22,11 +22,11 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per il t
 
 E' concesso un "Premio straordinario della Repubblica" al sotto notato personale il cui rapporto d'impiego o di lavoro sia in vigore alla data del 26 luglio 1946:
  a) personale civile e salariato dello Stato, di ruolo e non di ruolo, compresi gli insegnanti non di ruolo, ancorche' richiamato alle armi ovvero prigioniero di guerra. Sono esclusi dal premio tutti coloro nei cui confronti non sussista un vero e proprio rapporto d'impiego o di lavoro a carattere continuativo con la pubblica amministrazione.
- Sono altresi' compresi i personali dipendenti del [Ministero delle poste e delle telecomunicazioni di cui al decreto legislativo luogotenenziale 21 marzo 1946, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-21;357), con le esclusioni di cui sopra. Ai supplenti di cui all'art. 4 del decreto medesimo, il premio sara' corrisposto dai ricevitori o gerenti dai quali dipendono e ai quali sara' rimborsata la relativa spesa dall'Amministrazione postale e telegrafica;
+ Sono altresi' compresi i personali dipendenti del [Ministero delle poste e delle telecomunicazioni di cui al decreto legislativo luogotenenziale 21 marzo 1946, n. 357](../Decreti%20legislativi%20luogotenenziali/Estensione%20ad%20alcune%20categorie%20di%20personale%20dellAmministrazione%20postale%20e%20Telegrafica%20e%20dellAzienda%20per%20i%20servizi%20telefonici%20dei%20provvedimenti%20economici%20di%20cui%20al%20decreto%20legislativo%20Luog_d7c673e93a58.md), con le esclusioni di cui sopra. Ai supplenti di cui all'art. 4 del decreto medesimo, il premio sara' corrisposto dai ricevitori o gerenti dai quali dipendono e ai quali sara' rimborsata la relativa spesa dall'Amministrazione postale e telegrafica;
  b) personale militare delle Forze armate (escluso, peraltro, quello in servizio di leva) ufficiali, sottufficiali, graduati e militari di truppa dell'Arma dei carabinieri, della Guardia di finanza e degli altri Corpi organizzati militarmente al servizio dello Stato, ancorche' prigionieri di guerra (od internati) all'estero.
  Per i prigionieri di guerra (od internati) all'estero, il premio e' corrisposto alle rispettive famiglie con le modalita' previste dall'[art. 41 del regio decreto 19 maggio 1941, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-05-19;583#art_41).
  L'ammontare del premio e' stabilito nelle seguenti misure:
- lire tremila nette da ogni ritenuta, ai dipendenti in godimento delle quote complementari dell'indennita' di carovita previste dal quinto e dall'ultimo comma dell'[art. 2 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722#art_2), ovvero dell'indennita' speciale prevista dall'[art. 91 del regio decreto 31 dicembre 1928, n. 3458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-31;3458#art_91) e successive modificazioni ed estensioni;
+ lire tremila nette da ogni ritenuta, ai dipendenti in godimento delle quote complementari dell'indennita' di carovita previste dal quinto e dall'ultimo comma dell'[art. 2 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), ovvero dell'indennita' speciale prevista dall'[art. 91 del regio decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md) e successive modificazioni ed estensioni;
  lire millecinquecento, nette da ogni ritenuta, ai dipendenti sprovvisti delle suindicate quote complementari della indennita' di carovita, ovvero della accennata indennita' speciale.
  I sopracitati importi sono ridotti alla meta' per il personale che alla data del 26 luglio 1946 sia in godimento di razione viveri in natura od in contanti.
 
@@ -38,7 +38,7 @@ Il premio straordinario della Repubblica spetta in misura intera al personale di
 
 ## Art. 3.
 
-Con le norme e modalita' previste dall'[art. 14 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722#art_14), il premio straordinario della Repubblica, negli importi ed alle condizioni previsti dai precedenti articoli, puo' essere concesso anche al personale dipendente dalle provincie, dai comuni, dalle istituzioni pubbliche di assistenza e beneficenza, dagli enti parastatali ed in genere da tutti gli enti ed istituti di diritto pubblico, anche con ordinamento autonomo, sottoposti a vigilanza o tutela dello Stato od al cui mantenimento lo Stato concorra con contributi a carattere continuativo, nonche' al personale delle aziende annesse o direttamente dipendenti dalle provincie o dai comuni o dagli altri enti suindicati.
+Con le norme e modalita' previste dall'[art. 14 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), il premio straordinario della Repubblica, negli importi ed alle condizioni previsti dai precedenti articoli, puo' essere concesso anche al personale dipendente dalle provincie, dai comuni, dalle istituzioni pubbliche di assistenza e beneficenza, dagli enti parastatali ed in genere da tutti gli enti ed istituti di diritto pubblico, anche con ordinamento autonomo, sottoposti a vigilanza o tutela dello Stato od al cui mantenimento lo Stato concorra con contributi a carattere continuativo, nonche' al personale delle aziende annesse o direttamente dipendenti dalle provincie o dai comuni o dagli altri enti suindicati.
  Dall'applicazione del presente articolo sono esclusi i personali cui siano applicabili le norme sulla disciplina giuridica dei contratti collettivi di lavoro.
 
 ## Art. 4.
@@ -49,7 +49,7 @@ Il premio straordinario della Repubblica e' altresi' concesso ai mutilati ed agl
 
 ## Art. 5.
 
-Il premio di cui al precedente art. 1 e' inoltre esteso alle categorie di persone indicate con la denominazione di reduci nell'[art. 1 del decreto legislativo luogotenenziale 16 febbraio 1946, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-16;28#art_1) e che alla data del 26 luglio 1946 godano l'assegno previsto dal cennato decreto legislativo n. 28.
+Il premio di cui al precedente art. 1 e' inoltre esteso alle categorie di persone indicate con la denominazione di reduci nell'[art. 1 del decreto legislativo luogotenenziale 16 febbraio 1946, n. 28](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20un%20assegno%20temporaneo%20a%20favore%20dei%20reduci%20disoccupati%20e%20bisognosi.md) e che alla data del 26 luglio 1946 godano l'assegno previsto dal cennato decreto legislativo n. 28.
  Detto premio viene concesso nella misura di lire 3000 nette da ogni ritenuta, ai reduci che alla data indicata fruiscano pure delle quote integrative per il carico della famiglia, di cui all'art. 3 del sopracitato [decreto legislativo 16 febbraio 1946, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-02-16;28), e nella misura di lire 1500 al netto come sopra, ai reduci che non godano delle anzidette quote integrative.
 
 ## Art. 6.
@@ -57,7 +57,7 @@ Il premio di cui al precedente art. 1 e' inoltre esteso alle categorie di person
 II premio di cui ai precedenti articoli va erogato in due rate uguali di cui:
  a) la prima a partire dalla data di pubblicazione del presente decreto. E' peraltro data sanatoria ai pagamenti gia' disposti in conformita' del presente decreto giusta circolare telegrafica n. 148500 in data 10 agosto 1946 del Ministero del tesoro;
  b) la seconda a partire dal 12 settembre 1946.
- Per le modalita' di pagamento vanno osservate le disposizioni contenute negli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-04;319#art_2) e [3 del decreto legislativo luogotenenziale 4 giugno 1945, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-04;319#art_3).
+ Per le modalita' di pagamento vanno osservate le disposizioni contenute negli [articoli 2](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20un%20indennizzo%20di%20congiuntura%20al%20personale%20statale%20e%20degli%20enti%20pubblici%20locali.%20045U0319.md) e [3 del decreto legislativo luogotenenziale 4 giugno 1945, n. 319](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20un%20indennizzo%20di%20congiuntura%20al%20personale%20statale%20e%20degli%20enti%20pubblici%20locali.%20045U0319.md).
 
 ## Art. 7.
 

@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 Agli infermi affetti da lebbra, ricoverati nei luoghi di cura, e a quelli dimessi e tenuti in osservazione e ai loro familiari a carico e' concesso un sussidio a titolo di soccorso giornaliero.
- Per la determinazione della qualifica di familiare a carico valgono le disposizioni di cui agli articoli 1, 3, 5 e 8 del testo unico delle norme concernenti gli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-05-30;797), e successive modificazioni e integrazioni, salvo per quanto concerne i figli a carico, in favore dei quali il detto sussidio e' corrisposto fino al compimento del 21° anno di eta' per i maschi e fino al compimento del 25° anno di eta' per le femmine.
+ Per la determinazione della qualifica di familiare a carico valgono le disposizioni di cui agli articoli 1, 3, 5 e 8 del testo unico delle norme concernenti gli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni e integrazioni, salvo per quanto concerne i figli a carico, in favore dei quali il detto sussidio e' corrisposto fino al compimento del 21° anno di eta' per i maschi e fino al compimento del 25° anno di eta' per le femmine.
  Il sussidio in favore dei familiari a carico viene corrisposto fino a 18 mesi dopo la morte del lebbroso.
  Il sussidio in favore dei figli a carico e' corrisposto indipendentemente dai limiti di eta' nei casi di invalidita' permanente accertata nei modi di legge.
 

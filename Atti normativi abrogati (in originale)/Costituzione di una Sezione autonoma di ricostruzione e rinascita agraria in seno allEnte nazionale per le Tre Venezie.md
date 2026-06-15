@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 27 novembre 1939, n. 1780](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-27;1780), che istituisce l'Ente nazionale per le Tre Venezie, e le successive aggiunte e modificazioni;
+Vista la [legge 27 novembre 1939, n. 1780](Trasformazione%20dellEnte%20di%20rinascita%20agraria%20per%20le%20Tre%20Venezie%20in%20Ente%20nazionale%20per%20le%20Tre%20Venezie.%20039U1780.md), che istituisce l'Ente nazionale per le Tre Venezie, e le successive aggiunte e modificazioni;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri e Ministro per l'intern
 
 ## Art. 1.
 
-In seno all'Ente nazionale per le Tre Venezie, costituito con [legge 27 novembre 1939, n. 1780](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-27;1780), e' istituita una Sezione autonoma, avente i seguenti fini:
+In seno all'Ente nazionale per le Tre Venezie, costituito con [legge 27 novembre 1939, n. 1780](Trasformazione%20dellEnte%20di%20rinascita%20agraria%20per%20le%20Tre%20Venezie%20in%20Ente%20nazionale%20per%20le%20Tre%20Venezie.%20039U1780.md), e' istituita una Sezione autonoma, avente i seguenti fini:
  a) provvedere, in dipendenza delle distruzioni provocate dalla guerra, a lavori di costruzione edilizia, ed alle riparazioni o ricostruzioni, anche su aree diverse, degli immobili danneggiati o distrutti per eventi bellici;
  b) rimettere in pristino opere di miglioramento agrario e di bonifica, danneggiate dalla guerra, nonche' assumere direttamente o per incarico di consorzi od altri enti pubblici, l'esecuzione di opere di bonifica, trasformazioni e riordinamento della proprieta' fondiaria.
  Per il conseguimento dei suoi fini la Sezione autonoma, puo' acquistare od alienare beni immobili, nonche' promuovere la costituzione o partecipare a societa', consorzi, cooperative, istituti o associazioni.
@@ -31,7 +31,7 @@ In seno all'Ente nazionale per le Tre Venezie, costituito con [legge 27 novembre
 ## Art. 2.
 
 Il patrimonio della Sezione autonoma e' costituito:
- a) dalle attivita' patrimoniali di cui alla [lettera a) dell'art. 14 della legge 27 novembre 1939, n. 1780](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-27;1780#art_14-leta), nella loro consistenza di fatto e di diritto alla data di entrata in vigore del presente provvedimento, con esclusione degli immobili acquistati a norma dei [regio decretolegge 5 giugno 1933, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-05;730);
+ a) dalle attivita' patrimoniali di cui alla [lettera a) dell'art. 14 della legge 27 novembre 1939, n. 1780](Trasformazione%20dellEnte%20di%20rinascita%20agraria%20per%20le%20Tre%20Venezie%20in%20Ente%20nazionale%20per%20le%20Tre%20Venezie.%20039U1780.md), nella loro consistenza di fatto e di diritto alla data di entrata in vigore del presente provvedimento, con esclusione degli immobili acquistati a norma dei [regio decretolegge 5 giugno 1933, n. 730](Agevolazioni%20per%20la%20formazione%20della%20piccola%20proprieta%20e%20di%20organiche%20proprieta%20rurali%20nelle%20Venezie.%20033U0730.md);
  b) da lire cento milioni che vengono conferite in quote indivisibili di L. 100.000 dai seguenti enti, anche in deroga alle vigenti disposizioni e nella misura per ciascuno di essi indicata:
 
  Istituto federale delle Casse di
@@ -110,7 +110,7 @@ Il Collegio dei sindaci e' composto di cinque membri effettivi e di due supplent
 
 L'esercizio si chiude il 31 dicembre di ogni anno.
  Entro due mesi dalla chiusura dell'esercizio il Consiglio di amministrazione dovra' rimettere ai sindaci il rendiconto. Il rendiconto, accompagnato dalla relazione del Consiglio di amministrazione e da quella del Collegio dei sindaci, sara' presentata, entro tre mesi dalla chiusura dell'esercizio, all'assemblea per l'approvazione.
- Dopo l'approvazione dell'assemblea, il rendiconto annuale della Sezione autonoma dovra' essere approvato unitamente con il rendiconto consuntivo dell'Ente, a' sensi dell'[art. 15 della legge 27 novembre 1939, n. 1780](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-27;1780#art_15), dal Presidente del Consiglio dei Ministri, sentito il Ministro per il tesoro.
+ Dopo l'approvazione dell'assemblea, il rendiconto annuale della Sezione autonoma dovra' essere approvato unitamente con il rendiconto consuntivo dell'Ente, a' sensi dell'[art. 15 della legge 27 novembre 1939, n. 1780](Trasformazione%20dellEnte%20di%20rinascita%20agraria%20per%20le%20Tre%20Venezie%20in%20Ente%20nazionale%20per%20le%20Tre%20Venezie.%20039U1780.md), dal Presidente del Consiglio dei Ministri, sentito il Ministro per il tesoro.
  L'utile annuale sara' destinato:
  a) per un decimo alla costituzione ed all'incremento del fondo di riserva;
  b) per il rimanente a favore del capitale versato dagli Enti partecipanti in proporzione alle rispettive quote ed in ogni caso in misura non superiore al cinque per cento di esse;
@@ -123,7 +123,7 @@ La durata della Sezione autonoma e' stabilita fino al 31 dicembre 1996.
 
 ## Art. 15.
 
-La vigilanza del Presidente del Consiglio dei Ministri, di cui all'[art. 13 della legge 27 novembre 1939, n. 1780](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-27;1780#art_13), si esercita anche sulla Sezione autonoma.
+La vigilanza del Presidente del Consiglio dei Ministri, di cui all'[art. 13 della legge 27 novembre 1939, n. 1780](Trasformazione%20dellEnte%20di%20rinascita%20agraria%20per%20le%20Tre%20Venezie%20in%20Ente%20nazionale%20per%20le%20Tre%20Venezie.%20039U1780.md), si esercita anche sulla Sezione autonoma.
  A tale effetto il Presidente del Consiglio dei Ministri puo' ordinare in ogni momento ispezioni amministrative ed inchieste.
  Il Presidente del Consiglio dei Ministri ha inoltre facolta' di annullare, sentito il Consiglio di Stato, le deliberazioni illegittime degli organi della Sezione autonoma.
 
@@ -138,7 +138,7 @@ Le norme per il trattamento del personale assunto dalla Sezione autonoma anzidet
 
 ## Art. 18.
 
-Il [secondo comma dell'art. 9 della legge 27 novembre 1939, n. 1780](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-27;1780#art_9-com2), e' sostituito dal seguente:
+Il [secondo comma dell'art. 9 della legge 27 novembre 1939, n. 1780](Trasformazione%20dellEnte%20di%20rinascita%20agraria%20per%20le%20Tre%20Venezie%20in%20Ente%20nazionale%20per%20le%20Tre%20Venezie.%20039U1780.md), e' sostituito dal seguente:
  "Il commissario e' coadiuvato da un Comitato consultivo; composto di cinque funzionari designati rispettivamente dal Presidente del Consiglio dei Ministri, dai Ministri per l'interno, per il tesoro, per l'agricoltura e foreste e per i lavori pubblici, di grado non inferiore ad 5° dell'ordinamento gerarchico degli impiegati, civili dello Stato".
 
 ## Art. 19.

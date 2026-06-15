@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 11 luglio 1952, n. 1641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-11;1641), recante modifiche alla [legge 17 luglio 1942, n. 907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907);
+Vista la [legge 11 luglio 1952, n. 1641](Modificazioni%20alla%20legge%20sul%20monopolio%20dei%20sali%20e%20dei%20tabacchi%2017%20luglio%201942%20n.%20907.md), recante modifiche alla [legge 17 luglio 1942, n. 907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907);
 
-Considerata la necessita' di provvedere, in base alla facolta' concessa dall'articolo unico della [legge 11 luglio 1952, n. 1641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-11;1641), ora citata, alla determinazione dei diritti di monopolio dei prezzi e dei rimborsi, nei casi e con le modalita' nella legge stessa previsti;
+Considerata la necessita' di provvedere, in base alla facolta' concessa dall'articolo unico della [legge 11 luglio 1952, n. 1641](Modificazioni%20alla%20legge%20sul%20monopolio%20dei%20sali%20e%20dei%20tabacchi%2017%20luglio%201942%20n.%20907.md), ora citata, alla determinazione dei diritti di monopolio dei prezzi e dei rimborsi, nei casi e con le modalita' nella legge stessa previsti;
 
 Udito il Consiglio di amministrazione dei monopoli di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Art. 1.
 
-Il diritto di monopolio, previsto dagli [articoli 3, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907#art_3-num3), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907#art_3-num7) e [17 della legge 17 luglio 1942, n. 907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907#art_3-num17), quali risultano modificati della [legge 11 luglio 1952, n. 1641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-11;1641), viene fissato nella seguente misura:
+Il diritto di monopolio, previsto dagli [articoli 3, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907#art_3-num3), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907#art_3-num7) e [17 della legge 17 luglio 1942, n. 907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907#art_3-num17), quali risultano modificati della [legge 11 luglio 1952, n. 1641](Modificazioni%20alla%20legge%20sul%20monopolio%20dei%20sali%20e%20dei%20tabacchi%2017%20luglio%201942%20n.%20907.md), viene fissato nella seguente misura:
 
 
 a) per il sale contenuto negli estratti
@@ -36,7 +36,7 @@ ritorio della Repubblica soggetto a mo-
 nopolio, prevedute lei comma primo e se-
 condo dell'[art. 20 della legge 17 luglio
 1942, n. 907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907#art_20), quale risulta modificato
-dalla [legge 11 luglio 1952, n. 1641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-11;1641)....... " 17 "
+dalla [legge 11 luglio 1952, n. 1641](Modificazioni%20alla%20legge%20sul%20monopolio%20dei%20sali%20e%20dei%20tabacchi%2017%20luglio%201942%20n.%20907.md)....... " 17 "
 
 c) per la quantita di cloruro di sodio
 eccedente il 25 %, ma non il 50 % contenu-
@@ -46,7 +46,7 @@ Repubblica soggetto a monopolio........... " 5 "
 
 ## Art. 2.
 
-I prezzi speciali di vendita del sale, alle industrie previste all'[art. 20 della legge 17 luglio 1942, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;307#art_20), quale risulta modificato dalla [legge 11 luglio 1952, numero 1641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-11;1641), vengono fissati come segue per ciascuna delle industrie in detto articolo elencate:
+I prezzi speciali di vendita del sale, alle industrie previste all'[art. 20 della legge 17 luglio 1942, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;307#art_20), quale risulta modificato dalla [legge 11 luglio 1952, numero 1641](Modificazioni%20alla%20legge%20sul%20monopolio%20dei%20sali%20e%20dei%20tabacchi%2017%20luglio%201942%20n.%20907.md), vengono fissati come segue per ciascuna delle industrie in detto articolo elencate:
 
 
 1) sale comune per la salagione
@@ -90,7 +90,7 @@ b) tipo complesso condiziona-
 
 ## Art. 3.
 
-Il prezzo industriale di vendita del sale comune alle industrie elencate nell'[art. 21 della legge 17 luglio 1942, n. 907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907#art_21), quale risulta modificato dalla [legge 11 luglio 1952, n. 1641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-11;1641), e' fissato come segue:
+Il prezzo industriale di vendita del sale comune alle industrie elencate nell'[art. 21 della legge 17 luglio 1942, n. 907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907#art_21), quale risulta modificato dalla [legge 11 luglio 1952, n. 1641](Modificazioni%20alla%20legge%20sul%20monopolio%20dei%20sali%20e%20dei%20tabacchi%2017%20luglio%201942%20n.%20907.md), e' fissato come segue:
  L. 300 per quintale di sale reso franco bordo o franco vagone partenza per quantitativi fino a 5.000 tonnellate;
  L. 280 per quintale di sale reso franco bordo o franco vagone partenza per quantitativi oltre 5.000 e fino a 15.000 tonnellate, da ritirare entro un anno dalla data di ordinazione;
  L. 265 per quintale di sale reso franco bordo o franco vagone partenza per quantitativi oltre 15.000 e fino a 40.000 tonnellate, da ritirare entro un anno dalla data di ordinazione;
@@ -98,7 +98,7 @@ Il prezzo industriale di vendita del sale comune alle industrie elencate nell'[a
 
 ## Art. 4.
 
-La misura della restituzione di parte del prezzo pagato per l'acquisto del sale, prevista dall'[art. 23 della legge 17 luglio 1942, n. 907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907#art_23), quale risulta modificato dalla [legge 11 luglio 1952, n. 1641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-11;1641), per i prodotti commestibili salati che si esportano all'estero dal territorio della Repubblica soggetto a monopolio, e' stabilita come segue:
+La misura della restituzione di parte del prezzo pagato per l'acquisto del sale, prevista dall'[art. 23 della legge 17 luglio 1942, n. 907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907#art_23), quale risulta modificato dalla [legge 11 luglio 1952, n. 1641](Modificazioni%20alla%20legge%20sul%20monopolio%20dei%20sali%20e%20dei%20tabacchi%2017%20luglio%201942%20n.%20907.md), per i prodotti commestibili salati che si esportano all'estero dal territorio della Repubblica soggetto a monopolio, e' stabilita come segue:
  a) per gli estratti di carne
  o di vegetali, i brodi condensati
  salati, le minestre preparate, i
@@ -131,7 +131,7 @@ Le quantita' di sale (tenori salini) da prendersi come base per il calcolo della
 
 ## Art. 6.
 
-Il diritto di monopolio, di cui all'[art. 14 della legge 17 luglio 1942, n. 907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907#art_14), quale risulta modificato dalla [legge 11 luglio 1952, n. 1641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-11;1641), dovuto per le carni ed i pesci salati, il burro salato, i formaggi, gli estratti di carne o di vegetali, i brodi condensati salati, i prodotti del suolo commestibili salati, le minestre preparate ed i condimenti per brodi e per minestre, ammessi all'introduzione nel territorio della Repubblica soggetto a monopolio, viene stabilito nella stessa misura fissata dall'art. 4 e per le medesime quantita' indicate nel precedente art. 5.
+Il diritto di monopolio, di cui all'[art. 14 della legge 17 luglio 1942, n. 907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907#art_14), quale risulta modificato dalla [legge 11 luglio 1952, n. 1641](Modificazioni%20alla%20legge%20sul%20monopolio%20dei%20sali%20e%20dei%20tabacchi%2017%20luglio%201942%20n.%20907.md), dovuto per le carni ed i pesci salati, il burro salato, i formaggi, gli estratti di carne o di vegetali, i brodi condensati salati, i prodotti del suolo commestibili salati, le minestre preparate ed i condimenti per brodi e per minestre, ammessi all'introduzione nel territorio della Repubblica soggetto a monopolio, viene stabilito nella stessa misura fissata dall'art. 4 e per le medesime quantita' indicate nel precedente art. 5.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
 

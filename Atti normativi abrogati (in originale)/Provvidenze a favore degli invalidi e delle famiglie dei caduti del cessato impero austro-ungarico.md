@@ -19,8 +19,8 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 la seguente legge:
  Art 1.
 
- Ai mutilati ed invalidi contemplati nel [primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_72-com1) e [terzo comma dell'articolo 72 del regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_72-com3), ed ai loro congiunti in caso di morte o di irreperibilita', per causa di servizio di guerra o attinente alla guerra, e esteso il trattamento previsto dalla [legge 10 agosto 1950, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;648), e sue successive modificazioni.
- Il trattamento di cui al precedente comma decorre dal 25 maggio 1958 per coloro gia' in godimento di pensione o assegno ai sensi del citato articolo 72 del citato [regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491).
+ Ai mutilati ed invalidi contemplati nel [primo](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [terzo comma dell'articolo 72 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), ed ai loro congiunti in caso di morte o di irreperibilita', per causa di servizio di guerra o attinente alla guerra, e esteso il trattamento previsto dalla [legge 10 agosto 1950, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;648), e sue successive modificazioni.
+ Il trattamento di cui al precedente comma decorre dal 25 maggio 1958 per coloro gia' in godimento di pensione o assegno ai sensi del citato articolo 72 del citato [regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
 
 ## Art. 2.
 

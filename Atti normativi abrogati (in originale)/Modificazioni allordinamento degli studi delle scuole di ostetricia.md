@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 15 ottobre 1936, n. 2128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-15;2128), convertito nella [legge 23 marzo 1937, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-03-23;921), concernente l'istituzione delle scuole di ostetricia;
+Visto il [regio decreto-legge 15 ottobre 1936, n. 2128](Ordinamento%20delle%20Scuole%20di%20ostetricia%20e%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20036U2128.md), convertito nella [legge 23 marzo 1937, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-03-23;921), concernente l'istituzione delle scuole di ostetricia;
 
 Visto l'[art. 18 del regio decreto 24 luglio 1940, n. 1630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-07-24;1630#art_18), concernente il regolamento delle scuole di ostetricia;
 
-Visto l'[art. 5 della legge 23 dicembre 1957, n. 1252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-12-23;1252#art_5), recante modifiche all'ordinamento delle scuole di ostetricia;
+Visto l'[art. 5 della legge 23 dicembre 1957, n. 1252](Modificazioni%20allordinamento%20delle%20scuole%20di%20ostetricia.md), recante modifiche all'ordinamento delle scuole di ostetricia;
 
 Visto il decreto ministeriale 12 novembre 1958 recante modifiche al piano di studi del corso biennale per il conseguimento del diploma di ostetrica;
 

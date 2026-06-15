@@ -78,7 +78,7 @@ I sottufficiali e gli appuntati hanno diritto alla seguente indennita' giornalie
 
 ## Art. 5.
 
-Il soprassoldo di rafferma di L. 100 e di L. 200 annue; di cui all'[art. 2 della legge 30 dicembre 1906, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-12-30;648#art_2), nonche' quello di L. 100 annue annesso alla medaglia al merito di servizio istituita pel corpo delle guardie di citta' dall'[art. 3 della legge 8 luglio 1906, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-08;318#art_3), sono soppressi.
+Il soprassoldo di rafferma di L. 100 e di L. 200 annue; di cui all'[art. 2 della legge 30 dicembre 1906, n. 648](Variazioni%20degli%20organici%20del%20personale%20di%20pubblica%20sicurezza%20e%20provvedimenti%20finanziari%20a%20favore%20del%20corpo%20delle%20guardie%20di%20citta%20e%20per%20la%20sistemazione%20dei%20locali%20degli%20uffici%20della%20Ques_d5bdd3927e94.md), nonche' quello di L. 100 annue annesso alla medaglia al merito di servizio istituita pel corpo delle guardie di citta' dall'[art. 3 della legge 8 luglio 1906, n. 318](Modificazioni%20ai%20ruoli%20organici%20dei%20funzionari%20di%20pubblica%20sicurezza%20e%20del%20corpo%20delle%20guardie%20di%20citta%20e%20miglioramenti%20economici%20006U0318.md), sono soppressi.
 
 ## Art. 6.
 

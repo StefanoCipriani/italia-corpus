@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 aprile 1926, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-03;643), concernente la soppressione definitiva degli esoneri doganali per i macchinari ed i materiali importati in Italia. 
+ E' convertito in legge il [R. decreto-legge 3 aprile 1926, n. 643](Soppressione%20definitiva%20degli%20esoneri%20doganali%20per%20i%20macchinari%20ed%20i%20materiali%20importati%20in%20Italia.%20026U0643.md), concernente la soppressione definitiva degli esoneri doganali per i macchinari ed i materiali importati in Italia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

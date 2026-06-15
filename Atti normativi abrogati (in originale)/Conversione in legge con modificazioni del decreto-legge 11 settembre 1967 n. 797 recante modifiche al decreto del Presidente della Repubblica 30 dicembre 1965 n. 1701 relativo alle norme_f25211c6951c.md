@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-E' convertito in legge il [decreto-legge 11 settembre 1967, n. 797](Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2030%20novembre%201965%20n.%201701%20relativo%20alle%20norme%20sanitarie%20sugli%20scambi%20di%20animali%20e%20di%20carni%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20C.E.E.md), contenente modifiche al [decreto del Presidente della Repubblica 30 dicembre 1965, n. 1701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-30;1701), relativo alle norme sanitarie sugli scambi di animali e di carni tra l'Italia e gli altri Stati membri della CEE, con le seguenti modificazioni:
+E' convertito in legge il [decreto-legge 11 settembre 1967, n. 797](Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2030%20novembre%201965%20n.%201701%20relativo%20alle%20norme%20sanitarie%20sugli%20scambi%20di%20animali%20e%20di%20carni%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20C.E.E.md), contenente modifiche al [decreto del Presidente della Repubblica 30 dicembre 1965, n. 1701](../DPR/Norme%20sanitarie%20sugli%20scambi%20di%20animali%20e%20di%20carni%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20C.E.E.md), relativo alle norme sanitarie sugli scambi di animali e di carni tra l'Italia e gli altri Stati membri della CEE, con le seguenti modificazioni:
 
  L'articolo 11 e' sostituito dal seguente:
  "All'articolo 23, dopo la lettera d) sono aggiunte le seguenti lettere e) e f):

@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 novembre 1931, n. 1398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-13;1398), concernente la costituzione dell'Istituto mobiliare italiano, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 13 novembre 1931, n. 1398](Costituzione%20dellIstituto%20mobiliare%20italiano.%20031U1398.md), concernente la costituzione dell'Istituto mobiliare italiano, con le seguenti modificazioni: 
  All'articolo 2, lettera a), le parole: "contro garanzie di valori mobiliari", sono sostituite con le seguenti: "contro garanzia reale di valori mobiliari ed eventualmente anche contro altre garanzie reali e personali". 
  All'articolo 3, lettera a), le parole: "ad emettere titoli al portatore rappresentativi della proprieta' di speciali gruppi di valori azionari", sono sostituite dalle seguenti: "ad emettere titoli rappresentativi della proprieta' di speciali gruppi di valori pubblici e privati". 
  Il comma 1° dell'articolo 4 e' sostituito dal seguente: 
@@ -27,7 +27,7 @@ VITTORIO EMANUELE III
  Il comma 3° dell'articolo 11 e' sostituito dal seguente: 
  "Lo Stato garantisce agli Enti partecipanti l'assegnazione di cui al n. 2. Per tale guisa, quando non vi sia utile, o quando, dopo effettuato l'accantonamento del 20 per cento a favore della riserva di cui al n. 1, gli utili netti non fossero sufficienti alla distribuzione del 5 per cento agli Enti partecipanti, la somma necessaria sara' anticipata dallo Stato, salvo rivalsa verso l'Istituto sull'eccedenza di utili contemplata nel n. 3, che venisse a risultare dai bilanci degli esercizi successivi". 
  Dopo l'articolo 6 e' aggiunto il seguente: 
- "Art. 7. - Sono applicabili all'Istituto mobiliare Italiano, rispetto agli immobili sui quali esistano ipoteche di primo grado a favore dell'Istituto medesimo, le norme stabilite per gli Istituti di credito fondiario negli articoli 18, 19, 20, 38, 41, 42, 43, 44, 51, 52, 53, 54, 70 e 71 del testo unico di legge approvato con [R. decreto 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-16;646)". 
+ "Art. 7. - Sono applicabili all'Istituto mobiliare Italiano, rispetto agli immobili sui quali esistano ipoteche di primo grado a favore dell'Istituto medesimo, le norme stabilite per gli Istituti di credito fondiario negli articoli 18, 19, 20, 38, 41, 42, 43, 44, 51, 52, 53, 54, 70 e 71 del testo unico di legge approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md)". 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 15 dicembre 1932 - Anno XI 
  

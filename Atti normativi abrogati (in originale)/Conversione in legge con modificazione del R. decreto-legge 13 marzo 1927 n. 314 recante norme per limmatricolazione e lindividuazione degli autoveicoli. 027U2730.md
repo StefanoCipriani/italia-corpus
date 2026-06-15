@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 marzo 1927, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-13;314), recante norme per l'immatricolazione e l'individuazione degli autoveicoli, introducendo nella tabella delle sigle di individuazione delle provincie del Regno la modificazione seguente: alle parole «Cuneo CU» sostituire «Cuneo CN». 
+ E' convertito in legge il [R. decreto-legge 13 marzo 1927, n. 314](Norme%20per%20la%20immatricolazione%20ed%20individuazione%20degli%20autoveicoli.%20027U0314.md), recante norme per l'immatricolazione e l'individuazione degli autoveicoli, introducendo nella tabella delle sigle di individuazione delle provincie del Regno la modificazione seguente: alle parole «Cuneo CU» sostituire «Cuneo CN». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

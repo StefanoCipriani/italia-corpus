@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLA ISTRUZIONE PUBBLICA
 
-Veduta la [legge 30 maggio 1875, n. 2513](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-05-30;2513);
+Veduta la [legge 30 maggio 1875, n. 2513](Che%20estende%20lobbligo%20della%20iscrizione%20ai%20corsi%20alla%20universita%20di%20Napoli%20e%20prescrive%20alcune%20disposizioni%20relative%20al%20sistema%20degli%20esami%20e%20delle%20tasse.%20075U2513.md);
 
 Veduto il regolamento generale universitario, approvato col decreto Reale 8 ottobre 1876, n. 3434;
 

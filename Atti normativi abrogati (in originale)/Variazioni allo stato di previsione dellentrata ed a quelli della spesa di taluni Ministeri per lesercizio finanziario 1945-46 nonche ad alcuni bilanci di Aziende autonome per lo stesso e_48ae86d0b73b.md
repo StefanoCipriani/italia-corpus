@@ -52,7 +52,7 @@ E' autorizzata la spesa di L. 750.000.000 per provvedere, in base alle disposizi
 
 ## Art. 6.
 
-E' autorizzata la spesa di L. 550.000.000 per provvedere, in applicazione della [legge 26 ottobre 1940, n. 1543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-26;1543), alla ricostruzione di beni di enti locali, di istituzioni pubbliche di beneficenza ed assistenza, di chiese parrocchiali ed assimilate, danneggiati dalla guerra.
+E' autorizzata la spesa di L. 550.000.000 per provvedere, in applicazione della [legge 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md), alla ricostruzione di beni di enti locali, di istituzioni pubbliche di beneficenza ed assistenza, di chiese parrocchiali ed assimilate, danneggiati dalla guerra.
 
 ## Art. 7.
 

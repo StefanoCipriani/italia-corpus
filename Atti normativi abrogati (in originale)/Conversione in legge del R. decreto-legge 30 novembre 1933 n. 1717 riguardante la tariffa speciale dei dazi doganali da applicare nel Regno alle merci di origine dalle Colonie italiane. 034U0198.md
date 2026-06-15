@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1717](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-30;1717), riguardante la tariffa speciale dei dazi doganali da applicare nel Regno alle merci di origine dalle Colonie italiane. 
+ E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1717](Tariffa%20speciale%20dei%20dazi%20doganali%20da%20applicare%20nel%20Regno%20alle%20merci%20di%20origine%20dalle%20Colonie%20italiane.%20033U1717.md), riguardante la tariffa speciale dei dazi doganali da applicare nel Regno alle merci di origine dalle Colonie italiane. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato, 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 luglio 1934, n. 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1203), portante provvedimenti per lo sviluppo delle radiodiffusioni. 
+ E' convertito in legge il [R. decreto-legge 20 luglio 1934, n. 1203](Provvedimenti%20per%20lo%20sviluppo%20delle%20radiodiffusioni.%20034U1203.md), portante provvedimenti per lo sviluppo delle radiodiffusioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 23 aprile 1942, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-23;505), recante norme per la raccolta di campane facenti parte di edifici per il culto;
+Visto il [regio decreto 23 aprile 1942, n. 505](Raccolta%20di%20campane%20facenti%20parte%20di%20edifici%20per%20il%20culto.%20042U0505.md), recante norme per la raccolta di campane facenti parte di edifici per il culto;
 
-Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-07;652);
+Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 652](../Decreti%20legislativi%20luogotenenziali/Abolizione%20del%20monopolio%20dei%20carboni%20e%20dei%20metalli%20e%20istituzione%20di%20un%20Ufficio%20centrale%20carboni.%20045U0652.md);
 
 Visto il [decreto legislativo Presidenziale 27 giugno 1946, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;35), concernente la riparazione e ricostruzione degli edifici di culto e di quelli degli enti pubblici di beneficenza danneggiati o distrutti da offese belliche;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -26,12 +26,12 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 
 ## Art. 1.
 
-La riconsegna e la posa in opera delle campane raccolte ai sensi del [regio decreto 23 aprile 1942, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-23;505), saranno effettuate dallo Stato entro cinque anni dalla pubblicazione del presente decreto, con le norme stabilite negli articoli seguenti.
- E' abrogato l'[art. 2 del regio decreto 23 aprile 1942, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-23;505#art_2).
+La riconsegna e la posa in opera delle campane raccolte ai sensi del [regio decreto 23 aprile 1942, n. 505](Raccolta%20di%20campane%20facenti%20parte%20di%20edifici%20per%20il%20culto.%20042U0505.md), saranno effettuate dallo Stato entro cinque anni dalla pubblicazione del presente decreto, con le norme stabilite negli articoli seguenti.
+ E' abrogato l'[art. 2 del regio decreto 23 aprile 1942, n. 505](Raccolta%20di%20campane%20facenti%20parte%20di%20edifici%20per%20il%20culto.%20042U0505.md).
 
 ## Art. 2.
 
-Il Ministero dei trasporti, Servizi o approvvigionamenti delle ferrovie dello Stato provvedera', di intesa col Ministero del tesoro, alla liquidazione della gestione relativa alla raccolta delle campane effettuata in base al [regio decreto 23 aprile 1942, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-23;505), nonche' alla gestione inerente alla restituzione delle campane agli Enti di culto ed alle altre operazioni previste nel presente decreto.
+Il Ministero dei trasporti, Servizi o approvvigionamenti delle ferrovie dello Stato provvedera', di intesa col Ministero del tesoro, alla liquidazione della gestione relativa alla raccolta delle campane effettuata in base al [regio decreto 23 aprile 1942, n. 505](Raccolta%20di%20campane%20facenti%20parte%20di%20edifici%20per%20il%20culto.%20042U0505.md), nonche' alla gestione inerente alla restituzione delle campane agli Enti di culto ed alle altre operazioni previste nel presente decreto.
  Non si applicano in materia le disposizioni che prescrivono il parere del Consiglio di amministrazione delle ferrovie dello Stato.
 
 ## Art. 3.

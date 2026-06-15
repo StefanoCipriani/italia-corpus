@@ -44,13 +44,13 @@ Le operazioni effettuate dagli Istituti di credito fondiario in forza dell'art. 
 
 ## Art. 6.
 
-Nel caso che i lavori per i quali e' concesso il mutuo siano ritardati o sospesi, l'Istituto mutuante, in conformita' alle norme dettate dall'[art. 8 del regio decreto 23 ottobre 1925, n. 2063](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2063#art_8), puo' provvedere alla vendita dell'edificio incompiuto, ovvero curarne il completamento per alienarlo successivamente.
+Nel caso che i lavori per i quali e' concesso il mutuo siano ritardati o sospesi, l'Istituto mutuante, in conformita' alle norme dettate dall'[art. 8 del regio decreto 23 ottobre 1925, n. 2063](Autorizzazione%20alla%20Societa%20anonima%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma%20ad%20esercitare%20il%20credito%20edilizio.%20025U2063.md), puo' provvedere alla vendita dell'edificio incompiuto, ovvero curarne il completamento per alienarlo successivamente.
 
 ## Art. 7.
 
 Entro venti giorni dall'eseguito sorteggio delle cartelle ed obbligazioni, gli Istituti di credito fondiario edilizio ed agrario di miglioramento sono tenuti alla pubblicazione nella Gazzetta Ufficiale dei numeri dei titoli estratti.
- Entro lo stesso termine gli Istituti anzidetti debbono provvedere alla pubblicazione di appositi bollettini riportanti anche i numeri dei titoli estratti precedentemente, che non siano stati presentati per il rimborso. Tale pubblicazione sostituisce quella di cui al [secondo comma dell'art. 1 del regio decreto-legge 16 ottobre 1924, n. 1754](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-16;1754#art_1-com2).
- Restano ferme le disposizioni del [regio decreto-legge 16 ottobre 1924, n. 1754](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-16;1754), in quanto compatibili con la presente legge.
+ Entro lo stesso termine gli Istituti anzidetti debbono provvedere alla pubblicazione di appositi bollettini riportanti anche i numeri dei titoli estratti precedentemente, che non siano stati presentati per il rimborso. Tale pubblicazione sostituisce quella di cui al [secondo comma dell'art. 1 del regio decreto-legge 16 ottobre 1924, n. 1754](Norme%20per%20la%20pubblicita%20dei%20titoli%20rimborsabili%20in%20seguito%20a%20sorteggio.%20024U1754.md).
+ Restano ferme le disposizioni del [regio decreto-legge 16 ottobre 1924, n. 1754](Norme%20per%20la%20pubblicita%20dei%20titoli%20rimborsabili%20in%20seguito%20a%20sorteggio.%20024U1754.md), in quanto compatibili con la presente legge.
 
 ## Art. 8.
 
@@ -58,7 +58,7 @@ Le cartelle fondiarie, edilizie ed agrarie emesse dagli Istituti autorizzati all
 
 ## Art. 9.
 
-Alle cartelle emesse dal Consorzio nazionale per il credito agrario di miglioramento sono applicabili le disposizioni di cui all'art. 33 del testo unico delle leggi sul credito fondiario ([regio decreto 16 luglio 1905, numero 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-16;646)).
+Alle cartelle emesse dal Consorzio nazionale per il credito agrario di miglioramento sono applicabili le disposizioni di cui all'art. 33 del testo unico delle leggi sul credito fondiario ([regio decreto 16 luglio 1905, numero 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md)).
 
 ## Art. 10.
 

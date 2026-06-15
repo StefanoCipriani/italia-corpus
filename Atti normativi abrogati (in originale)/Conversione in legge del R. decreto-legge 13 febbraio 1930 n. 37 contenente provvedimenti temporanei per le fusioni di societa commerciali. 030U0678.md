@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 febbraio 1930, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-13;37), contenente provvedimenti temporanei per le fusioni di societa' commerciali, aggiungendo all'art. 1 il seguente capoverso: 
+ E' convertito in legge il [R. decreto-legge 13 febbraio 1930, n. 37](Provvedimenti%20temporanei%20per%20le%20fusioni%20di%20societa%20commerciali.%20030U0037.md), contenente provvedimenti temporanei per le fusioni di societa' commerciali, aggiungendo all'art. 1 il seguente capoverso: 
  
  «Le agevolazioni fiscali concesse dai detti provvedimenti legislativi per le operazioni di fusione sono applicabili alle fusioni delle societa' commerciali regolarmente costituite alla data di pubblicazione del presente decreto, ma non sono ammessi rimborsi per tasse ordinarie relative a fusioni gia' avvenute». 
  

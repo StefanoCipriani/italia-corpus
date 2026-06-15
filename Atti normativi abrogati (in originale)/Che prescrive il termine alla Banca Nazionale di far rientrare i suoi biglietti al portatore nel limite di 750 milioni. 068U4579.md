@@ -14,7 +14,7 @@ Nel termine di sei mesi dalla pubblicazione di questa Legge, la Banca Nazionale 
 
 ## Art. 2.
 
-Saranno emessi, nella proporzione e con le norme da stabilirsi per Decreto Reale, dagli Istituti autorizzati, di cui all'[articolo 4 del Regio Decreto 1° maggio 1866, n. 2873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-05-01;2873#art_4), biglietti da lire una al portatore, in surrogazione di altri di maggior taglio, per la somma complessiva di 6 milioni, aventi corso legale in tutto il Regno, ed inconvertibili sino alla cessazione del corso forzoso dei biglietti di Banca. 
+Saranno emessi, nella proporzione e con le norme da stabilirsi per Decreto Reale, dagli Istituti autorizzati, di cui all'[articolo 4 del Regio Decreto 1° maggio 1866, n. 2873](Concernente%20la%20somma%20di%20duecento%20cinquanta%20milioni%20di%20lire%20che%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20dara%20a%20mutuo%20al%20Tesoro%20dello%20Stato%20ed%20altre%20disposizioni%20concernenti%20la%20Banca%20stessa%20il_e74ae9656dff.md), biglietti da lire una al portatore, in surrogazione di altri di maggior taglio, per la somma complessiva di 6 milioni, aventi corso legale in tutto il Regno, ed inconvertibili sino alla cessazione del corso forzoso dei biglietti di Banca. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato. 
  

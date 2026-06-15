@@ -16,13 +16,13 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'articolo 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
-Vista la [legge 14 marzo 1968, n. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;292);
+Vista la [legge 14 marzo 1968, n. 292](Disposizioni%20sulla%20competenza%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lavori%20che%20interessano%20il%20patrimonio%20storico%20e%20artistico.md);
 
 Vista la [legge 2 dicembre 1961, n. 1552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-02;1552);
 
-Vista la [legge 10 febbraio 1992, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;145), cosi' come modificata dal [decreto-legge 20 maggio 1993, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;149), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;237);
+Vista la [legge 10 febbraio 1992, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;145), cosi' come modificata dal [decreto-legge 20 maggio 1993, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;149), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 237](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20maggio%201993%20n.%20149%20recante%20interventi%20urgenti%20in%20favore%20delleconomia.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 febbraio 1994;
 
@@ -44,14 +44,14 @@ Il presente regolamento disciplina il procedimento relativo agli interventi di r
 
 2.
 
-Gli interventi di restauro e manutenzione straordinari hanno ad oggetto beni statali e beni non statali, sottoposti alle disposizioni della [legge 1 giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089), di proprieta' di enti pubblici o di privati.
+Gli interventi di restauro e manutenzione straordinari hanno ad oggetto beni statali e beni non statali, sottoposti alle disposizioni della [legge 1 giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), di proprieta' di enti pubblici o di privati.
 
 3.
 
 Ai fini del presente regolamento il Ministero per i beni culturali e ambientali e' denominato "Ministero".
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) e' il seguente:
  "Art. 87. - Il Presidente della Repubblica .. (Omissis).
@@ -73,14 +73,14 @@ AVVERTENZA:
  b) riduzione dei termini attualmente prescritti per la conclusione del procedimento;
  c) regolazione uniforme dei procedimenti dello stesso tipo, che si svolgono presso diverse amministrazioni, ovvero presso diversi uffici della medesima amministrazione, e uniformazione dei relativi tempi di conclusione;
  d) riduzione del numero dei procedimenti amministrativi e accorpamento dei procedimenti che si riferiscono alla medesima attivita';
- e) semplificazione e accelerazione delle procedure di spesa e contabili, anche mediante adozione, ed estensione alle fasi procedimentali di integrazione dell'efficacia degli atti, di disposizioni analoghe a quelle di cui all'[articolo 51, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_51-com2), e successive modificazioni;
+ e) semplificazione e accelerazione delle procedure di spesa e contabili, anche mediante adozione, ed estensione alle fasi procedimentali di integrazione dell'efficacia degli atti, di disposizioni analoghe a quelle di cui all'[articolo 51, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
  f) unificazione a livello regionale, oppure provinciale su espressa delega, dei procedimenti amministrativi per il rilascio delle autorizzazioni previste dalla legislazione vigente nelle materie dell'inquinamento acustico, dell'acqua, dell'aria e dello smaltimento dei rifiuti;
  g) snellimento per le piccole imprese operanti nei diversi comparti produttivi degli ademplimenti amministrativi previsti dalla vigente legislazione per la tutela ambientale;
  h) individuazione delle responsabilita' e delle procedure di verifica e controllo.
  (Omissis)".
- - La [legge 21 dicembre 1961, n. 1552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-21;1552), reca: "Disposizioni in materia di tutela di cose di interesse artistico e storico" (pubblicata nella Gazzetta Ufficiale n. 39 del 13 febbraio 1962).
+ - La [legge 21 dicembre 1961, n. 1552](Disposizioni%20in%20materia%20di%20tutela%20di%20cose%20di%20interesse%20artistico%20e%20storico.md), reca: "Disposizioni in materia di tutela di cose di interesse artistico e storico" (pubblicata nella Gazzetta Ufficiale n. 39 del 13 febbraio 1962).
  Nota all'[art. 1:
- - La legge 1 giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089#art_1), reca: norme per la "Tutela delle cose di interesse storico ed artistico" (pubblicata nella Gazzetta Ufficiale n. 184 dell'8 agosto 1939).
+ - La legge 1 giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), reca: norme per la "Tutela delle cose di interesse storico ed artistico" (pubblicata nella Gazzetta Ufficiale n. 184 dell'8 agosto 1939).
 
 ## Art. 2. — Beni non statali
 
@@ -100,7 +100,7 @@ Decorso inutilmente il termine di cui all'art. 2, comma 2, primo periodo, ovvero
 
 2.
 
-La perizia e' inviata al competente Ufficio centrale del Ministero per l'inserimento nel piano di spesa dell'anno in corso, ai sensi dell'[articolo 5 della legge 10 febbraio 1992, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;145#art_5), come da ultimo modificato dall'[articolo 7 del decreto-legge 20 maggio 1993, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;149#art_7), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;237).
+La perizia e' inviata al competente Ufficio centrale del Ministero per l'inserimento nel piano di spesa dell'anno in corso, ai sensi dell'[articolo 5 della legge 10 febbraio 1992, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;145#art_5), come da ultimo modificato dall'[articolo 7 del decreto-legge 20 maggio 1993, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;149#art_7), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 237](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20maggio%201993%20n.%20149%20recante%20interventi%20urgenti%20in%20favore%20delleconomia.md).
 
 Nota all'[art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;145#art_3):
  - L'[articolo 5 della legge 10 febbraio 1992, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;145#art_5), e' il seguente:
@@ -117,10 +117,10 @@ Gli interventi di restauro e di manutenzione straordinaria da compiersi sui beni
 
 1.
 
-Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), dalla data di entrata in vigore del presente regolamento e' abrogata la [legge 14 marzo 1968, n. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;292).
+Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento e' abrogata la [legge 14 marzo 1968, n. 292](Disposizioni%20sulla%20competenza%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lavori%20che%20interessano%20il%20patrimonio%20storico%20e%20artistico.md).
 
 Nota all'[art. 5:
- - La legge 14 marzo 1968, n. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;292#art_5), reca: "Disposizioni sulla competenza del Ministero dei lavori pubblici per lavori che interessano il patrimonio storico e artistico" (pubblicata nella Gazzetta Ufficiale n. 88 del 4 aprile 1968).
+ - La legge 14 marzo 1968, n. 292](Disposizioni%20sulla%20competenza%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lavori%20che%20interessano%20il%20patrimonio%20storico%20e%20artistico.md), reca: "Disposizioni sulla competenza del Ministero dei lavori pubblici per lavori che interessano il patrimonio storico e artistico" (pubblicata nella Gazzetta Ufficiale n. 88 del 4 aprile 1968).
 
 ## Art. 6. — Entrata in vigore
 

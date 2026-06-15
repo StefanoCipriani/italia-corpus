@@ -53,19 +53,19 @@ Nel caso di domanda di ingiunzione fondata su crediti derivanti dal sistema di t
 
 1.
 
-Gli impianti per la distribuzione di carburanti per uso di autotrazione utilizzati esclusivamente per autoveicoli di proprieta' di amministrazioni pubbliche e quelli ubicati all'interno di stabilimenti, cantieri, magazzini e simili, che siano destinati esclusivamente al prelevamento del carburante occorrente agli automezzi dell'impresa, non sono soggetti all'osservanza delle norme contenute nel regolamento emanato con [decreto del Presidente della Repubblica 27 ottobre 1971, n. 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-10-27;1269), ma alla sola autorizzazione da rilasciarsi, rispettivamente, da parte del prefetto ovvero della regione territorialmente competenti, previo mero accertamento dell'avvenuto espletamento degli altri adempimenti eventualmente necessari in base alla normativa vigente ai fini urbanistici, ambientali, di sicurezza e fiscali.
+Gli impianti per la distribuzione di carburanti per uso di autotrazione utilizzati esclusivamente per autoveicoli di proprieta' di amministrazioni pubbliche e quelli ubicati all'interno di stabilimenti, cantieri, magazzini e simili, che siano destinati esclusivamente al prelevamento del carburante occorrente agli automezzi dell'impresa, non sono soggetti all'osservanza delle norme contenute nel regolamento emanato con [decreto del Presidente della Repubblica 27 ottobre 1971, n. 1269](../DPR/Norme%20per%20lesecuzione%20dellart.%2016%20del%20decreto-legge%2026%20ottobre%201970%20n.%20745%20convertito%20in%20legge%20con%20modificazioni%20con%20la%20legge%2018%20dicembre%201970%20n.%201034%20riguardante%20la%20disciplina%20dei%20distri_547d00b74980.md), ma alla sola autorizzazione da rilasciarsi, rispettivamente, da parte del prefetto ovvero della regione territorialmente competenti, previo mero accertamento dell'avvenuto espletamento degli altri adempimenti eventualmente necessari in base alla normativa vigente ai fini urbanistici, ambientali, di sicurezza e fiscali.
 
 2.
 
-L'autorizzazione deve contenere il divieto di cessione del carburante a terzi a titolo oneroso o gratuito, con l'avvertenza che in caso di inosservanza l'autorizzazione sara' revocata, salva l'applicazione delle sanzioni penali di cui all'[articolo 16, comma quarto, del decreto-legge 26 ottobre 1970, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-10-26;745#art_16-com4), convertito, con modificazioni, dalla [legge 18 dicembre 1970, n. 1034](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-18;1034).
+L'autorizzazione deve contenere il divieto di cessione del carburante a terzi a titolo oneroso o gratuito, con l'avvertenza che in caso di inosservanza l'autorizzazione sara' revocata, salva l'applicazione delle sanzioni penali di cui all'[articolo 16, comma quarto, del decreto-legge 26 ottobre 1970, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-10-26;745#art_16-com4), convertito, con modificazioni, dalla [legge 18 dicembre 1970, n. 1034](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20ottobre%201970%20n.%20745%20concernente%20provvedimenti%20straordinari%20per%20la%20ripresa%20economica.md).
 
 3.
 
-Per l'esercizio degli impianti per uso industriale resta ferma l'osservanza degli obblighi imposti dal [decreto-legge 5 maggio 1957, n. 271](Disposizioni%20per%20la%20prevenzione%20e%20la%20repressione%20delle%20frodi%20nel%20settore%20degli%20oli%20minerali.md), convertito, con modificazioni, dalla [legge 2 luglio 1957, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-02;474), e successive modificazioni.
+Per l'esercizio degli impianti per uso industriale resta ferma l'osservanza degli obblighi imposti dal [decreto-legge 5 maggio 1957, n. 271](Disposizioni%20per%20la%20prevenzione%20e%20la%20repressione%20delle%20frodi%20nel%20settore%20degli%20oli%20minerali.md), convertito, con modificazioni, dalla [legge 2 luglio 1957, n. 474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20maggio%201957%20n.%20271%20concernente%20disposizioni%20per%20la%20prevenzione%20e%20la%20repressione%20delle%20frodi%20nel%20settore%20degli%20oli%20minerali.md), e successive modificazioni.
 
 4.
 
-E' abrogato l'[articolo 21 del decreto del Presidente della Repubblica 27 ottobre 1971, n. 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-10-27;1269#art_21).
+E' abrogato l'[articolo 21 del decreto del Presidente della Repubblica 27 ottobre 1971, n. 1269](../DPR/Norme%20per%20lesecuzione%20dellart.%2016%20del%20decreto-legge%2026%20ottobre%201970%20n.%20745%20convertito%20in%20legge%20con%20modificazioni%20con%20la%20legge%2018%20dicembre%201970%20n.%201034%20riguardante%20la%20disciplina%20dei%20distri_547d00b74980.md).
 
 ## Art. 6.
 
@@ -99,7 +99,7 @@ Ai fini dell'adeguamento dei limiti di risarcibilita' di cui all'[articolo 1 del
 
 1.
 
-A decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, gli importi di lire 22.500 e di lire 45.000 previsti, a titolo di deduzione forfettaria di spese non documentate, dal comma 8 dell'articolo 79 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), sono elevati rispettivamente a lire 25.000 ed a lire 50.000.
+A decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, gli importi di lire 22.500 e di lire 45.000 previsti, a titolo di deduzione forfettaria di spese non documentate, dal comma 8 dell'articolo 79 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono elevati rispettivamente a lire 25.000 ed a lire 50.000.
 
 ## Art. 9.
 
@@ -136,21 +136,21 @@ Per le imprese di autotrasporto di cose per conto di terzi e' ridotto ad un anno
 
 1.
 
-Le imprese di autotrasporto merci per conto di terzi non sono tenute, per quanto concerne il solo personale viaggiante, all'osservanza dell'obbligo di cui all'[articolo 12 della legge 2 aprile 1968, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482#art_12).
+Le imprese di autotrasporto merci per conto di terzi non sono tenute, per quanto concerne il solo personale viaggiante, all'osservanza dell'obbligo di cui all'[articolo 12 della legge 2 aprile 1968, n. 482](Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md).
 
 ## Art. 13.
 
 1.
 
-In aggiunta ai limiti di spesa di lire 275 miliardi e 300 miliardi per l'anno 1992, rispettivamente previsti dall'[articolo 9, comma 1, del decreto-legge 15 settembre 1990, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-09-15;261#art_9-com1), convertito, con modificazioni, dalla [legge 12 novembre 1990, n. 331, e dall'articolo 9-sexies](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-12;331#art_9sexies) del [decreto-legge 30 dicembre 1991, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-30;417), convertito, con modificazioni, dalla [legge 6 febbraio 1992, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-06;66), e' ulteriormente prevista la spesa di lire 90 miliardi per l'anno 1992.
+In aggiunta ai limiti di spesa di lire 275 miliardi e 300 miliardi per l'anno 1992, rispettivamente previsti dall'[articolo 9, comma 1, del decreto-legge 15 settembre 1990, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-09-15;261#art_9-com1), convertito, con modificazioni, dalla [legge 12 novembre 1990, n. 331, e dall'articolo 9-sexies](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20settembre%201990%20n.%20261%20recante%20disposizioni%20fiscali%20urgenti%20in%20materia%20di%20finanza%20locale%20di%20accertamenti%20in%20base%20ad%20elementi%20seg_112c7b82afa6.md) del [decreto-legge 30 dicembre 1991, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-30;417), convertito, con modificazioni, dalla [legge 6 febbraio 1992, n. 66](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201991%20n.%20417%20recante%20disposizioni%20concernenti%20criteri%20di%20applicazione%20dellimposta%20sul%20valore%20aggiunto%20delle%20tasse%20per%20i_c164cc92e85d.md), e' ulteriormente prevista la spesa di lire 90 miliardi per l'anno 1992.
 
 2.
 
-Per l'anno 1992 il decreto indicato nell'[articolo 13, comma 2, del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_13-com2), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165), e' integrato con successivo decreto del Ministro dei trasporti, di concerto con il Ministro delle finanze, da emanare entro sessanta giorni dalla data di entrata in vigore del presente decreto.
+Per l'anno 1992 il decreto indicato nell'[articolo 13, comma 2, del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_13-com2), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20aprile%201990%20n.%2090%20recante%20disposizioni%20in%20materia%20di%20determinazione%20del%20reddito%20ai%20fini%20delle%20imposte%20sui%20redditi%20di%20rimborsi%20d_30659e7e2a97.md), e' integrato con successivo decreto del Ministro dei trasporti, di concerto con il Ministro delle finanze, da emanare entro sessanta giorni dalla data di entrata in vigore del presente decreto.
 
 3.
 
-All'onere derivante dall'attuazione del presente articolo, pari a lire 90 miliardi per l'anno 1992, si provvede mediante pari riduzione dello stanziamento iscritto al capitolo 4620 dello stato di previsione del Ministero degli affari esteri per l'anno medesimo, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui alla [legge 26 febbraio 1987, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49), come determinata per il medesimo anno con la tabella C della [legge 31 dicembre 1991, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-31;415).
+All'onere derivante dall'attuazione del presente articolo, pari a lire 90 miliardi per l'anno 1992, si provvede mediante pari riduzione dello stanziamento iscritto al capitolo 4620 dello stato di previsione del Ministero degli affari esteri per l'anno medesimo, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui alla [legge 26 febbraio 1987, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49), come determinata per il medesimo anno con la tabella C della [legge 31 dicembre 1991, n. 415](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201992.md).
 
 4.
 

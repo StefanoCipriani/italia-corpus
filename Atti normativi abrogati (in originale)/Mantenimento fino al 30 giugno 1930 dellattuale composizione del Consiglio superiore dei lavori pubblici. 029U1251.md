@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 7 del R. decreto-legge 28 agosto 1924, n. 1395](Istituzione%20dei%20Circoli%20dispezione%20del%20Genio%20civile%20e%20riforma%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici.%20024U1395.md), il quale stabilisce che taluni membri del Consiglio superiore dei lavori pubblici durano in carica due anni e possono essere riconfermati soltanto per il biennio successivo;
 
-Vista la [legge 15 luglio 1926, n. 1263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-15;1263), che ha modificato il citato Regio decreto-legge;
+Vista la [legge 15 luglio 1926, n. 1263](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1263.md), che ha modificato il citato Regio decreto-legge;
 
 Visto il decreto Reale 21 ottobre 1926, che ha riconfermato nella carica alcuni membri del Consiglio superiore dei lavori pubblici per un biennio a datare dal 19 settembre 1926;
 

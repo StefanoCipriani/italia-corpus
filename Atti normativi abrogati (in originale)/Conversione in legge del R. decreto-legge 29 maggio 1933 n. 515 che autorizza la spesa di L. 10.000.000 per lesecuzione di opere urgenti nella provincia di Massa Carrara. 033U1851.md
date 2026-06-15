@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 maggio 1933, n. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-05-29;515), che autorizza la spesa di L. 10.000.000 per l'esecuzione di opere urgenti nella provincia di Massa-Carrara. 
+ E' convertito in legge il [R. decreto-legge 29 maggio 1933, n. 515](Autorizzazione%20di%20spesa%20per%20la%20esecuzione%20di%20opere%20urgenti%20nella%20provincia%20di%20Massa%20Carrara.%20033U0515.md), che autorizza la spesa di L. 10.000.000 per l'esecuzione di opere urgenti nella provincia di Massa-Carrara. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

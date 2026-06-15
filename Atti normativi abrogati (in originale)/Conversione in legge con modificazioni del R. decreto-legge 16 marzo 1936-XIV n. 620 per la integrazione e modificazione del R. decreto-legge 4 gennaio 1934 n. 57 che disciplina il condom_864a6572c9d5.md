@@ -24,11 +24,11 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il R. decreto-legge 16 marzo 1936-XIV, n. 620, per la integrazione e modificazione del [R. decreto-legge 4 gennaio 1934, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-04;57), che disciplina il condominio nelle cooperative edilizie a contributo statale e mutuo della Cassa depositi e prestiti, con la seguente modificazione: 
+ E' convertito in legge il R. decreto-legge 16 marzo 1936-XIV, n. 620, per la integrazione e modificazione del [R. decreto-legge 4 gennaio 1934, n. 57](Norme%20di%20condominio%20per%20le%20cooperative%20a%20contributo%20statale%20e%20mutuatarie%20della%20Cassa%20depositi%20e%20prestiti.%20034U0057.md), che disciplina il condominio nelle cooperative edilizie a contributo statale e mutuo della Cassa depositi e prestiti, con la seguente modificazione: 
  
  Il comma 2 dell'art. 1 e' sostituito dal seguente: 
  
- «Il provento delle sanzioni e' devoluto al fondo di manutenzione, costituito con il contributo mensile del 2,50 per cento, di cui all'[art. 20 del R. decreto-legge 4 gennaio 1934, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-04;57#art_20)». 
+ «Il provento delle sanzioni e' devoluto al fondo di manutenzione, costituito con il contributo mensile del 2,50 per cento, di cui all'[art. 20 del R. decreto-legge 4 gennaio 1934, n. 57](Norme%20di%20condominio%20per%20le%20cooperative%20a%20contributo%20statale%20e%20mutuatarie%20della%20Cassa%20depositi%20e%20prestiti.%20034U0057.md)». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

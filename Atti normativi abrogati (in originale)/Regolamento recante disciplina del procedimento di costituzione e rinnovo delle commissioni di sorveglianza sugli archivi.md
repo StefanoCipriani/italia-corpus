@@ -16,15 +16,15 @@ Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'art. 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'art. 2, commi 7, 8 e 9;
 
-Visto l'[art. 25 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_25);
+Visto l'[art. 25 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md);
 
-Visto l'[art. 3 del decreto del Presidente della Repubblica 30 dicembre 1975, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-12-30;854#art_3);
+Visto l'[art. 3 del decreto del Presidente della Repubblica 30 dicembre 1975, n. 854](../DPR/Attribuzioni%20del%20Ministero%20dellinterno%20in%20materia%20di%20documenti%20archivistici%20non%20ammessi%20alla%20libera%20consultabilita.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1994;
 
-Considerato che i termini per l'emissione del parere delle competenti commissioni del Senato della Repubblica e della Camera dei deputati ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2), sono scaduti rispettivamente in data 30 marzo 1994 e 26 marzo 1994;
+Considerato che i termini per l'emissione del parere delle competenti commissioni del Senato della Repubblica e della Camera dei deputati ai sensi dell'[art. 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), sono scaduti rispettivamente in data 30 marzo 1994 e 26 marzo 1994;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 31 marzo 1994;
 
@@ -41,7 +41,7 @@ E M A N A il seguente regolamento:
 Il presente regolamento disciplina il procedimento di costituzione e rinnovo delle commissioni di sorveglianza sugli archivi.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) e' il seguente:
  "Art. 87. - Il Presidente della Repubblica .. (Omissis).
@@ -63,12 +63,12 @@ AVVERTENZA:
  b) riduzione dei termini attualmente prescritti per la conclusione del procedimento;
  c) regolazione uniforme dei procedimenti dello stesso tipo, che si svolgono presso diverse amministrazioni, ovvero presso diversi uffici della medesima amministrazione, e uniformazione dei relativi tempi di conclusione;
  d) riduzione del numero dei procedimenti amministrativi e accorpamento dei procedimenti che si riferiscono alla medesima attivita';
- e) semplificazione e accelerazione delle procedure di spesa e contabili, anche mediante adozione, ed estensione alle fasi procedimentali di integrazione dell'efficacia degli atti, di disposizioni analoghe a quelle di cui all'[art. 51, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_51-com2), e successive modificazioni;
+ e) semplificazione e accelerazione delle procedure di spesa e contabili, anche mediante adozione, ed estensione alle fasi procedimentali di integrazione dell'efficacia degli atti, di disposizioni analoghe a quelle di cui all'[art. 51, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
  f) unificazione a livello regionale, oppure provinciale su espressa delega, dei procedimenti amministrativi per il rilascio delle autorizzazioni previste dalla legislazione vigente nelle materie dell'inquinamento acustico, dell'acqua, dell'aria e dello smaltimento dei rifiuti;
  g) snellimento per le piccole imprese operanti nei diversi comparti produttivi degli adempimenti amministrativi previsti dalla vigente legislazione per la tutela ambientale;
  h) individuazione delle responsabilita' e delle procedure di verifica e controllo.
  (Omissis)".
- - Il testo dell'[art. 25 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_25), e' il seguente:
+ - Il testo dell'[art. 25 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), e' il seguente:
  "Art. 26 (Commissioni di sorveglianza). - Presso gli uffici centrali, interregionali, regionali, interprovinciali e provinciali delle Amministrazioni dello Stato, esclusi i Ministeri degli affari esteri e della difesa, e presso gli uffici giudiziari non inferiori ai tribunali sono istituite commissioni di sorveglianza sui rispettivi archivi, composte dal capo dell'ufficio, da un suo delegato, da un impiegato della carriera direttiva del medesimo ufficio, che disimpegna anche le funzioni di segretario, dal sovraintendente all'archivio centrale dello Stato o dal direttore dell'archivio di Stato competente per territorio o da impiegati della carriera direttiva dei propri archivi da essi delegati. E' compito delle commissioni:
  a) esercitare la sorveglianza sulla conservazione e l'ordinamento degli archivi e sulla tenuta del relativi inventari e degli altri strumenti di consultazione;
  b) esercitare le funzioni di commissioni di scarto;
@@ -77,18 +77,18 @@ AVVERTENZA:
  Le commissioni istituite presso gli uffici centrali curano altresi' la compilazione e l'aggiornamento dei massimari di scarto.
  Le commissioni sono nominate per un triennio con decreto del Ministro da cui dipende l'ufficio interessato e si riuniscono almeno due volte l'anno e ogni qual volta sia richiesto dal capo dell'ufficio e dal rappresentante dell'Amministrazione degli archivi di Stato.
  Per ogni seduta cui partecipano viene corrisposto ai componenti la commissione un gettone di presenza nella misura stabilita dalle disposizioni in vigore. La relativa spesa fa carico alle amministrazioni presso le quali sono costituite le commissioni".
- - Il testo dell'[art. 3 del decreto del Presidente della Repubblica 30 dicembre 1975, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-12-30;854#art_3), e' il seguente:
- "Art. 3. - Per i documenti, prodotti dagli uffici delle amministrazioni dello Stato, l'accertamento della natura degli atti non liberamente consultabili e' effettuato dalle commissioni di sorveglianza in occasione degli adempimenti di cui alla [lettera d) dell'art. 25 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_25-letd). Il provvedimento definitivo e' adottato dal Ministro per l'interno, sentito il parere del Ministro per i beni culturali ed ambientali.
- Le commissioni di sorveglianza, previste dagli articoli 25 e 27 del richiamato [decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409), sono modificate nella loro composizione con l'aggiunta di un rappresentante dell'Amministrazione civile dell'interno, designato dal Ministro per l'interno.
+ - Il testo dell'[art. 3 del decreto del Presidente della Repubblica 30 dicembre 1975, n. 854](../DPR/Attribuzioni%20del%20Ministero%20dellinterno%20in%20materia%20di%20documenti%20archivistici%20non%20ammessi%20alla%20libera%20consultabilita.md), e' il seguente:
+ "Art. 3. - Per i documenti, prodotti dagli uffici delle amministrazioni dello Stato, l'accertamento della natura degli atti non liberamente consultabili e' effettuato dalle commissioni di sorveglianza in occasione degli adempimenti di cui alla [lettera d) dell'art. 25 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md). Il provvedimento definitivo e' adottato dal Ministro per l'interno, sentito il parere del Ministro per i beni culturali ed ambientali.
+ Le commissioni di sorveglianza, previste dagli articoli 25 e 27 del richiamato [decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), sono modificate nella loro composizione con l'aggiunta di un rappresentante dell'Amministrazione civile dell'interno, designato dal Ministro per l'interno.
  Nei casi previsti dagli articoli 32, 33, 34, 39 e 42 del citato decreto del Presidente della Repubblica, il Ministro per i beni culturali ed ambientali e gli organi periferici da esso dipendenti provvedono a segnalare al Ministero dell'interno la presenza di documenti relativi agli ultimi 70 anni. La determinazione degli atti eventualmente non consultabili e' effettuata dal Ministro per l'interno, sentito il parere del Ministro per i beni culturali ed ambientali.
  Le proposte di scarico di documenti non consultabili di cui al precedente art. 1, lettera a), sono inoltrate, per i provvedimenti di competenza, al Ministero dell'interno.
- Per gli atti conservati negli archivi di Stato alla data di entrata in vigore del presente decreto, l'individuazione dei documenti aventi carattere riservato ai sensi del [primo comma, dell'art. 21 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_21-com1), e' effettuata dal Ministro per l'interno, sentito il parere del Ministro per i beni culturali ed ambientali".
+ Per gli atti conservati negli archivi di Stato alla data di entrata in vigore del presente decreto, l'individuazione dei documenti aventi carattere riservato ai sensi del [primo comma, dell'art. 21 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), e' effettuata dal Ministro per l'interno, sentito il parere del Ministro per i beni culturali ed ambientali".
 
 ## Art. 2. — Ambito di applicazione e potere di nomina
 
 1.
 
-Le commissioni di sorveglianza sono istituite, ai sensi dell'[art. 25 del decreto del Presidente Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_25), presso gli uffici centrali, interregionali, regionali, interprovinciali e provinciali delle amministrazioni dello Stato, anche ad ordinamento autonomo, esclusi i Ministeri degli affari esteri e della difesa, e presso gli uffici giudiziari non inferiori ai tribunali.
+Le commissioni di sorveglianza sono istituite, ai sensi dell'[art. 25 del decreto del Presidente Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), presso gli uffici centrali, interregionali, regionali, interprovinciali e provinciali delle amministrazioni dello Stato, anche ad ordinamento autonomo, esclusi i Ministeri degli affari esteri e della difesa, e presso gli uffici giudiziari non inferiori ai tribunali.
 
 2.
 
@@ -98,8 +98,8 @@ Le commissioni istituite presso gli uffici centrali sono nominate dai dirigenti 
 
 I dirigenti degli uffici sono responsabili della conservazione e della corretta gestione degli archivi, nonche' della regolare tenuta degli inventari e degli altri strumenti necessari all'esercizio del diritto di accesso ai documenti amministrativi.
 
-Nota all'[art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_2):
- - Per l'[art. 25 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_25), si vedano le precedenti note alle premesse.
+Nota all'[art. 2](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md):
+ - Per l'[art. 25 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), si vedano le precedenti note alle premesse.
 
 ## Art. 3. — Costituzione della commissione di sorveglianza sugli archivi
 
@@ -148,12 +148,12 @@ Nota all'[art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:199
 
 1.
 
-Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), dall'entrata in vigore del presente regolamento sono abrogate le disposizioni contenute nell'[art. 25, comma 3 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_25-com3), cosi' come modificato dal [decreto del Presidente della Repubblica 30 dicembre 1975, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-12-30;854).
+Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dall'entrata in vigore del presente regolamento sono abrogate le disposizioni contenute nell'[art. 25, comma 3 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), cosi' come modificato dal [decreto del Presidente della Repubblica 30 dicembre 1975, n. 854](../DPR/Attribuzioni%20del%20Ministero%20dellinterno%20in%20materia%20di%20documenti%20archivistici%20non%20ammessi%20alla%20libera%20consultabilita.md).
 
-Note all'[art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_5):
- - Per l'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), si vedano le precedenti note alle premesse.
- - Per l'[art. 25, comma 3, del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_25-com3), si vedano le precedenti note alle premesse.
- - Il [decreto del Presidente della Repubblica 30 dicembre 1975, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-12-30;854), reca: "Attribuzioni del Ministero dell'interno in materia di documenti archivistici non ammessi alla libera consultabilita'" (pubblicato nella Gazzetta Ufficiale n. 42 del 16 febbraio 1976).
+Note all'[art. 5](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md):
+ - Per l'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), si vedano le precedenti note alle premesse.
+ - Per l'[art. 25, comma 3, del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), si vedano le precedenti note alle premesse.
+ - Il [decreto del Presidente della Repubblica 30 dicembre 1975, n. 854](../DPR/Attribuzioni%20del%20Ministero%20dellinterno%20in%20materia%20di%20documenti%20archivistici%20non%20ammessi%20alla%20libera%20consultabilita.md), reca: "Attribuzioni del Ministero dell'interno in materia di documenti archivistici non ammessi alla libera consultabilita'" (pubblicato nella Gazzetta Ufficiale n. 42 del 16 febbraio 1976).
 
 ## Art. 6. — Entrata in vigore del presente regolamento
 

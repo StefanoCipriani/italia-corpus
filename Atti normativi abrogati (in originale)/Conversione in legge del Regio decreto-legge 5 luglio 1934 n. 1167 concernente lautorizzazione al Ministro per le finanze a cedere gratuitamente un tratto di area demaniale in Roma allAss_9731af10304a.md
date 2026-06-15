@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1167), concernente l'autorizzazione al Ministro per le finanze a cedere gratuitamente un tratto di area demaniale in Roma all'Associazione nazionale mutilati ed invalidi di guerra per l'ampliamento della Casa madre dei mutilati. 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1167](Autorizzazione%20al%20Ministro%20per%20le%20finanze%20a%20cedere%20gratuitamente%20un%20tratto%20di%20area%20demaniale%20in%20Roma%20allAssociazione%20nazionale%20mutilati%20ed%20invalidi%20di%20guerra%20per%20lampliamento%20della%20Casa%20M_07a00684fbac.md), concernente l'autorizzazione al Ministro per le finanze a cedere gratuitamente un tratto di area demaniale in Roma all'Associazione nazionale mutilati ed invalidi di guerra per l'ampliamento della Casa madre dei mutilati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -15,9 +15,9 @@ UMBERTO DI SAVOIA
  LUOGOTENENTE GENERALE DEL REGNO 
  
  In virtu' dell'autorita' a Noi delegata; 
- Veduto il [R. decreto-legge 15 Ottobre 1936, n. 2128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-15;2128), ed il [R. decreto-legge 1° luglio 1937, n. 1520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-01;1520), concernenti l'ordinamento delle scuole di ostetricia e la disciplina giuridica della professione di levatrice; 
+ Veduto il [R. decreto-legge 15 Ottobre 1936, n. 2128](Ordinamento%20delle%20Scuole%20di%20ostetricia%20e%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20036U2128.md), ed il [R. decreto-legge 1° luglio 1937, n. 1520](Disposizioni%20sullordinamento%20delle%20Scuole%20di%20ostetricia%20e%20sulla%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20037U1520.md), concernenti l'ordinamento delle scuole di ostetricia e la disciplina giuridica della professione di levatrice; 
  Veduto il regolamento per le scuole di ostetricia approvato con [R. decreto 24 luglio 1940, n. 1630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-07-24;1630); 
- Veduto il regolamento per l'esercizio professionale di ostetriche, approvato con [R. decreto 26 maggio 1940, n. 1364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-26;1364); 
+ Veduto il regolamento per l'esercizio professionale di ostetriche, approvato con [R. decreto 26 maggio 1940, n. 1364](Regolamento%20per%20lesercizio%20professionale%20delle%20ostetriche.%20040U1364.md); 
  Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265); 
  Veduto il [R. decreto 5 marzo 1935, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-05;184), sulla nuova disciplina giuridica delle professioni sanitarie; 
  Veduto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151); 
@@ -26,7 +26,7 @@ UMBERTO DI SAVOIA
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno, per la grazia e giustizia, per il tesoro, per l'industria, commercio e lavoro; 
  Abbiamo sanzionato e promulghiamo quanto segue: 
  
- La [lettera a) dell'art. 13 del R. decreto legge 15 ottobre 1936, n. 2128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-15;2128#art_13-leta), e' modificata come segue: 
+ La [lettera a) dell'art. 13 del R. decreto legge 15 ottobre 1936, n. 2128](Ordinamento%20delle%20Scuole%20di%20ostetricia%20e%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20036U2128.md), e' modificata come segue: 
  « Avere non meno di 18 anni e non piu' di 35 anni di eta'. Possono, peraltro, ottenere l'ammissione coloro che compiono il diciottesimo anno nel corso dell'anno scolastico per il quale la iscrizione ha luogo ». 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  

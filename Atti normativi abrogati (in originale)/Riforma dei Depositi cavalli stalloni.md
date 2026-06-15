@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-I ruoli del personale militare dei Depositi cavalli stalloni di cui ai [regi decreti 4 maggio 1924, n. 966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-04;966), [18 febbraio 1932, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-02-18;166), [20 gennaio 1927, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-20;119), e alla [legge 9 maggio 1940, n. 368](Ordinamento%20del%20Regio%20esercito.%20040U0368.md), sono soppressi.
+I ruoli del personale militare dei Depositi cavalli stalloni di cui ai [regi decreti 4 maggio 1924, n. 966](Approvazione%20delle%20norme%20per%20lamministrazione%20e%20il%20funzionamento%20dei%20Consorzi%20per%20i%20Depositi%20cavalli%20stalloni.%20024U0966.md), [18 febbraio 1932, n. 166](Disposizioni%20concernenti%20i%20Depositi%20cavalli%20stalloni.%20032U0166.md), [20 gennaio 1927, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-20;119), e alla [legge 9 maggio 1940, n. 368](Ordinamento%20del%20Regio%20esercito.%20040U0368.md), sono soppressi.
 
 ## Art. 2.
 

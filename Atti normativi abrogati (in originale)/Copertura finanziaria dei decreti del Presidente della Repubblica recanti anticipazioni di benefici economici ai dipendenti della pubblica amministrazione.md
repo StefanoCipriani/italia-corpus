@@ -33,7 +33,7 @@ E' autorizzata la spesa di lire 33.500 milioni per l'anno finanziario 1975 e di 
 
 ## Art. 5.
 
-La somma di L. 20.000 mensili con la stessa decorrenza e modalita' stabilite dai decreti di cui ai precedenti articoli e' corrisposta al personale dirigente indicato all'[articolo 47 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748#art_47), ed ai segretari comunali e provinciali provvisti del trattamento dirigenziale.
+La somma di L. 20.000 mensili con la stessa decorrenza e modalita' stabilite dai decreti di cui ai precedenti articoli e' corrisposta al personale dirigente indicato all'[articolo 47 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), ed ai segretari comunali e provinciali provvisti del trattamento dirigenziale.
 
 ## Art. 6.
 
@@ -46,7 +46,7 @@ All'onere di complessive lire 186.800 milioni derivante dagli articoli citati si
 
 ## Art. 7.
 
-Con effetto dalla data di entrata in vigore della presente legge, la delega per la riscossione dei contributi sindacali, rilasciata ai sensi dell'[articolo 50 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_50), opera anche sulle L. 20.000 mensili nonche' sull'indennita' integrativa speciale di cui alla [legge 27 maggio 1959, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-05-27;324), e successive modificazioni.
+Con effetto dalla data di entrata in vigore della presente legge, la delega per la riscossione dei contributi sindacali, rilasciata ai sensi dell'[articolo 50 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), opera anche sulle L. 20.000 mensili nonche' sull'indennita' integrativa speciale di cui alla [legge 27 maggio 1959, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-05-27;324), e successive modificazioni.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

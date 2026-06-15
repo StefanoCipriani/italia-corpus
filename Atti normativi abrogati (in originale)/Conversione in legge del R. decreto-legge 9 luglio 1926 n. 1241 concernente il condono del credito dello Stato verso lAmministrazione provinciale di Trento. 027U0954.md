@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 luglio 1926, n. 1241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1241), relativo al condono del credito dello Stato in lire 3,257,489.18 verso l'Amministrazione provinciale di Trento. 
+ E' convertito in legge il [R. decreto-legge 9 luglio 1926, n. 1241](Condono%20di%20un%20credito%20dello%20Stato%20verso%20lAmministrazione%20provinciale%20di%20Trento.%20026U1241.md), relativo al condono del credito dello Stato in lire 3,257,489.18 verso l'Amministrazione provinciale di Trento. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

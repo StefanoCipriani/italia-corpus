@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo Unico. 
  
- E' convertito in legge il [R. decreto-legge 13 aprile 1933, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-04-13;366), concernente l'autorizzazione a sistemare alcune questioni pendenti fra il Tesoro dello Stato e l'Istituto di emissione. 
+ E' convertito in legge il [R. decreto-legge 13 aprile 1933, n. 366](Autorizzazione%20a%20sistemare%20alcune%20questioni%20pendenti%20tra%20il%20Tesoro%20dello%20Stato%20e%20lIstituto%20di%20emissione.%20033U0366.md), concernente l'autorizzazione a sistemare alcune questioni pendenti fra il Tesoro dello Stato e l'Istituto di emissione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

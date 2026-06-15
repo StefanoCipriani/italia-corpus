@@ -46,7 +46,7 @@ Il comandante superiore delle Forze armate dell'Africa Orientale Italiana che ce
 
 ## Art. 5.
 
-Il Governo del Re e' autorizzato a riunire in testo unico le disposizioni contenute nel [R. decreto-legge 1° giugno 1936, n. 1019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-06-01;1019), nel R. decreto-legge 11 novembre 1938-XVII, n. 1857, e nella presente legge e le altre norme legislative che, prima della formazione del testo unico, modificassero o completassero la materia oggetto dei citati provvedimenti.
+Il Governo del Re e' autorizzato a riunire in testo unico le disposizioni contenute nel [R. decreto-legge 1° giugno 1936, n. 1019](Ordinamento%20e%20amministrazione%20dellAfrica%20Orientale%20Italiana.%20036U1019.md), nel R. decreto-legge 11 novembre 1938-XVII, n. 1857, e nella presente legge e le altre norme legislative che, prima della formazione del testo unico, modificassero o completassero la materia oggetto dei citati provvedimenti.
 
 ## Art. 6.
 

@@ -24,7 +24,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-Al [comma 267 dell'articolo 1 della legge 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296#art_1-com267), le parole: ",subordinatamente all'autorizzazione delle competenti autorita' europee," sono soppresse.
+Al [comma 267 dell'articolo 1 della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), le parole: ",subordinatamente all'autorizzazione delle competenti autorita' europee," sono soppresse.
 
 ## Art. 2.
 

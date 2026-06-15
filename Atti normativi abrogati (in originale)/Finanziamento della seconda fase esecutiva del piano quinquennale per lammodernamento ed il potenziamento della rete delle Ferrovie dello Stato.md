@@ -63,7 +63,7 @@ Le operazioni di credito, di cui all'articolo precedente, saranno contratte nell
 
 ## Art. 6.
 
-Le operazioni di mutuo e tutti gli atti ad esse inerenti e conseguenti, sono esenti da ogni imposta e tassa, compresa la quota di abbonamento di cui all'[art. 8 del regio decreto-legge 2 settembre 1919, n. 1627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-09-02;1627#art_8), convertito nella legge 14 aprile, 1921, n. 488.
+Le operazioni di mutuo e tutti gli atti ad esse inerenti e conseguenti, sono esenti da ogni imposta e tassa, compresa la quota di abbonamento di cui all'[art. 8 del regio decreto-legge 2 settembre 1919, n. 1627](Che%20istituisce%20con%20sede%20in%20Roma%20un%20ente%20denominato%20Consorzio%20di%20credito%20per%20opere%20pubbliche%20determinandone%20lordinamento.%20019U1627.md), convertito nella legge 14 aprile, 1921, n. 488.
 
 ## Art. 7.
 

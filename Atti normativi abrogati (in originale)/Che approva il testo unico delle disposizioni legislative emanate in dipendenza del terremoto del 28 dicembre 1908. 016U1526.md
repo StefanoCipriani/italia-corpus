@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 11 della legge 11 luglio 1913, n. 1039](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;1039#art_11);
+Visto l'[art. 11 della legge 11 luglio 1913, n. 1039](Che%20converte%20in%20legge%20con%20alcune%20modificazioni%20varii%20Regi%20decreti%20concernenti%20disposizioni%20diverse%20per%20i%20paesi%20danneggiati%20dal%20terremoto%20del%2028%20dicembre%201908%20e%20da%20altri%20precedenti.%20013U1039.md);
 
 Visto l'art. 1° del [decreto Luogotenenziale 29 giugno 1916, n. 838](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-06-29;838);
 
-Ritenuta la necessita' di coordinare in testo unico con le disposizioni successivamente emanate quelle del testo unico approvato con [R. decreto 12 ottobre 1913, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-12;1261), apportando le modificazioni ed aggiunte occorrenti ai fini del coordinamento ed in armonia con le attuali esigenze dei paesi danneggiati dal terremoto del 28 dicembre 1908;
+Ritenuta la necessita' di coordinare in testo unico con le disposizioni successivamente emanate quelle del testo unico approvato con [R. decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md), apportando le modificazioni ed aggiunte occorrenti ai fini del coordinamento ed in armonia con le attuali esigenze dei paesi danneggiati dal terremoto del 28 dicembre 1908;
 
 Sentito il Consiglio dei ministri;
 
@@ -34,7 +34,7 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici, di concer
 
 E' approvato il testo unico delle disposizioni legislative emanate in dipendenza del terremoto del 28 dicembre 1908, vistato, d'ordine Nostro, dal presidente dei Consiglio dei ministri e dagli altri ministri. 
  
- Fino a quando non divenga obbligatorio il presente decreto, continueranno ad aver rigore le disposizioni contenute nel testo unico delle leggi approvato con [R. decreto 12 ottobre 1913, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-12;1261).
+ Fino a quando non divenga obbligatorio il presente decreto, continueranno ad aver rigore le disposizioni contenute nel testo unico delle leggi approvato con [R. decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md).
 
 ## Art. 2.
 

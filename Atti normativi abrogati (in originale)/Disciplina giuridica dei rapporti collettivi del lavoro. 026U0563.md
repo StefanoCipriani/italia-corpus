@@ -118,7 +118,7 @@ Le norme della presente legge sul riconoscimento giuridico delle associazioni si
 
 Le associazioni di datori di lavoro, di lavoratori, di artisti e professionisti non legalmente riconosciute, continuano a sussistere come associazioni di fatto, secondo la legislazione vigente, con le eccezioni stabilite dal secondo comma del precedente articolo. 
  
- Ad esse sono applicabili le norme del [R. decreto-legge 24 gennaio 1924, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-01-24;64).
+ Ad esse sono applicabili le norme del [R. decreto-legge 24 gennaio 1924, n. 64](Vigilanza%20dellautorita%20politica%20della%20Provincia%20sulle%20associazioni%20o%20corporazioni%20di%20qualsiasi%20natura%20mantenute%20coi%20contributi%20dei%20lavoratori.%20024U0064.md).
 
 ## Della magistratura del lavoro.
 
@@ -132,7 +132,7 @@ Tutte le controversie relative alla disciplina dei rapporti collettivi del lavor
  
  Le controversie, di cui alle precedenti disposizioni, si possono compromettere in arbitri, a norma degli [articoli 8 e seguenti del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_8). 
  
- Nulla e' innovato circa la competenza dei collegi dei probiviri e delle Commissioni arbitrali provinciali per l'impiego privato, ai sensi rispettivamente della [legge 15 giugno 1893, n. 295](Sulla%20istituzione%20dei%20Collegi%20di%20probi-viri.%20093U0295.md) e del [Regio decreto-legge 2 dicembre 1923, n. 2686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-02;2686). 
+ Nulla e' innovato circa la competenza dei collegi dei probiviri e delle Commissioni arbitrali provinciali per l'impiego privato, ai sensi rispettivamente della [legge 15 giugno 1893, n. 295](Sulla%20istituzione%20dei%20Collegi%20di%20probi-viri.%20093U0295.md) e del [Regio decreto-legge 2 dicembre 1923, n. 2686](Norme%20per%20la%20risoluzione%20delle%20controversie%20su%20diritti%20derivanti%20dal%20contratto%20di%20impiego%20privato.%20023U2686.md). 
  
  L'appello contro le decisioni di tali collegi e Commissioni e di altri organi giurisdizionali in materia di contratti individuali di lavoro, in quanto siano appellabili secondo le leggi vigenti, e' devoluto alla Corte di appello funzionante come magistratura del lavoro.
 
@@ -215,7 +215,7 @@ Senza pregiudizio dell'applicazione delle norme di diritto comune sulla responsa
  
  I dirigenti delle associazioni legalmente riconosciute, che rifiutino di eseguire le decisioni del magistrato del lavoro, sono puniti con la detenzione da sei mesi a due anni e con la multa da lire duemila a diecimila, oltre la revoca dall'ufficio. 
  
- Ove alla mancata esecuzione delle decisioni del magistrato del lavoro, si aggiunga, da parte dei colpevoli, la serrata o lo sciopero, si applicano le disposizioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) sul concorso dei reati e delle pene.
+ Ove alla mancata esecuzione delle decisioni del magistrato del lavoro, si aggiunga, da parte dei colpevoli, la serrata o lo sciopero, si applicano le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sul concorso dei reati e delle pene.
 
 ### Art. 23.
 

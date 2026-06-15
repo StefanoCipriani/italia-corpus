@@ -24,7 +24,7 @@ Il Ministero dell'agricoltura e delle foreste e gli organi competenti della Regi
 
 ## Art. 3.
 
-L'autorizzazione di spesa indicata nel [regio decreto-legge 13 gennaio 1938, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-01-13;12), e successive modificazioni ed integrazioni, e' ridotta di lire 171 milioni.
+L'autorizzazione di spesa indicata nel [regio decreto-legge 13 gennaio 1938, n. 12](Nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0012.md), e successive modificazioni ed integrazioni, e' ridotta di lire 171 milioni.
  In dipendenza della riduzione prevista dal precedente comma le somme stanziate nei capitoli 126, 136, 140 e 146 dello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste per l'esercizio finanziario 1950-51 sono ridotte, rispettivamente, di lire 100 milioni; lire 50 milioni; lire 11 milioni; lire 10 milioni.
 
 ## Art. 4.

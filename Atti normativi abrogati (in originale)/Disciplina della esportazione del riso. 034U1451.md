@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro e Ministro Segretario di Sta
 
 ## Art. 1.
 
-All'[art. 11 del R. decreto-legge 8 gennaio 1928, n. 486](Determinazione%20dei%20tipi%20e%20denominazioni%20ufficiali%20di%20riso%20nazionale%20lavorato%20diretto%20allestero%20e%20applicazione%20del%20marchio%20nazionale%20di%20esportazione.%20028U0486.md), convertito in legge con [legge 29 novembre 1928, n. 2842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-11-29;2842), e' sostituito il seguente: 
+All'[art. 11 del R. decreto-legge 8 gennaio 1928, n. 486](Determinazione%20dei%20tipi%20e%20denominazioni%20ufficiali%20di%20riso%20nazionale%20lavorato%20diretto%20allestero%20e%20applicazione%20del%20marchio%20nazionale%20di%20esportazione.%20028U0486.md), convertito in legge con [legge 29 novembre 1928, n. 2842](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20gennaio%201928%20n.%20486%20relativo%20alla%20determinazione%20di%20tipi%20e%20denominazioni%20ufficiali%20di%20riso%20nazionale%20lavorato%20diretto%20allestero%20e%20allapplicazio_cc5641f3f845.md), e' sostituito il seguente: 
  
  «E' istituito a cura dell'Istituto nazionale per l'esportazione, e posto alle dipendenze dello stesso Istituto, un Ufficio di controllo chiamato ad accertare la rispondenza della merce campionata ai requisiti stabiliti per il riso di tipo ufficiale, a rilasciare certificati di qualita' della merce, ad invigilare sull'attivita' dei campionatori ufficiali. 
  

@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'articolo 1° della Legge 28 novembre 1869, approvativa del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'Esercito e penale militare marittimo;
+Visto l'articolo 1° della Legge 28 novembre 1869, approvativa del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito e penale militare marittimo;
 
-Visti gli [articoli 293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_293), [317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_317) e [318 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_318) per l'Esercito, e 317, 338 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo, con cui e' prescritta l'istituzione di un Tribunale supremo di Guerra e Marina presieduto da un Uffiziale di grado non minore di Luogotenente Generale o di Vice-Ammiraglio;
+Visti gli [articoli 293](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [317](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [318 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito, e 317, 338 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, con cui e' prescritta l'istituzione di un Tribunale supremo di Guerra e Marina presieduto da un Uffiziale di grado non minore di Luogotenente Generale o di Vice-Ammiraglio;
 
 Visto il Regio Decreto 15 dicembre 1867, con cui venne fissata un'annua indennita' di L. 1000 per il Presidente del Tribunale supremo di Guerra;
 

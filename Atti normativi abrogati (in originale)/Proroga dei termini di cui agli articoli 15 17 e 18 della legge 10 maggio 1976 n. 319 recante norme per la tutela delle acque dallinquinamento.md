@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77);
 
-Visti gli [articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_15), [17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_17) e [18 della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_18), recante norme per la tutela delle acque dall'inquinamento;
+Visti gli [articoli 15](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), [17](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md) e [18 della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), recante norme per la tutela delle acque dall'inquinamento;
 
-Ritenuta la straordinaria necessita' ed urgenza, in relazione alla complessita' degli adempimenti previsti, di prorogare i termini di cui al secondo comma, lettera a), dell'art. 15, al primo comma dell'art. 17 ed al primo comma dell'art. 18 della citata [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319);
+Ritenuta la straordinaria necessita' ed urgenza, in relazione alla complessita' degli adempimenti previsti, di prorogare i termini di cui al secondo comma, lettera a), dell'art. 15, al primo comma dell'art. 17 ed al primo comma dell'art. 18 della citata [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per i lavori pubblici, di concerto con i Ministri pe
 
 ## Art. 1.
 
-Il termine di due mesi di cui al secondo comma, lettera a), dell'art. 15 e quelli di novanta giorni, di cui al [primo comma dell'art. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_17-com1) ed al [primo comma dell'art. 18 della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_18-com1), sono prorogati di centoventi giorni.
+Il termine di due mesi di cui al secondo comma, lettera a), dell'art. 15 e quelli di novanta giorni, di cui al [primo comma dell'art. 17](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md) ed al [primo comma dell'art. 18 della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), sono prorogati di centoventi giorni.
 
 ## Art. 2.
 

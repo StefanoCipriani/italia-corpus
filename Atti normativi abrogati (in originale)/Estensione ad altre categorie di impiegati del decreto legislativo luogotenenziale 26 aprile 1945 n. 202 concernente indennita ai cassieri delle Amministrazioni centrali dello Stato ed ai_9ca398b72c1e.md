@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [regio decreto-legge 20 gennaio 1921, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-01-20;22), convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [regio decreto-legge 20 gennaio 1921, n. 22](Che%20modifica%20i%20ruoli%20organici%20del%20personale%20della%20R.%20Zecca%20e%20dell%20Officina%20governativa%20carte%20-%20valori.%20021U0022.md), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto l'art. 186, 2° comma, del [regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);
+Visto l'art. 186, 2° comma, del [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Vista la [legge 25 gennaio 1940, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-01-25;4);
+Vista la [legge 25 gennaio 1940, n. 4](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20finanziaria.%20040U0004.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;202);
+Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 202](../Decreti%20legislativi%20luogotenenziali/Indennita%20ai%20cassieri%20delle%20Amministrazioni%20centrali%20dello%20Stato%20ed%20ai%20funzionari%20del%20Ministero%20del%20tesoro%20e%20della%20Regia%20zecca%20aventi%20funzioni%20di%20gestione%20e%20di%20controllo.%20045U0202.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per il t
 
 ## Art. 1.
 
-Le indennita' annue lorde a titolo di rimborso delle eventuali perdite derivanti dal maneggio di denaro e valori, per gli impiegati del Ministero del tesoro e della Zecca, aventi funzioni di gestione e di controllo e per i cassieri ed i consegnatari cassieri delle Amministrazioni centrali dello Stato, escluse quelle con ordinamento autonomo, di cui al [decreto legislativo luogotenenziale 26 aprile 1945, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;202), sono estese, nelle misure a fianco indicate, alle seguenti categorie di impiegati: 
+Le indennita' annue lorde a titolo di rimborso delle eventuali perdite derivanti dal maneggio di denaro e valori, per gli impiegati del Ministero del tesoro e della Zecca, aventi funzioni di gestione e di controllo e per i cassieri ed i consegnatari cassieri delle Amministrazioni centrali dello Stato, escluse quelle con ordinamento autonomo, di cui al [decreto legislativo luogotenenziale 26 aprile 1945, n. 202](../Decreti%20legislativi%20luogotenenziali/Indennita%20ai%20cassieri%20delle%20Amministrazioni%20centrali%20dello%20Stato%20ed%20ai%20funzionari%20del%20Ministero%20del%20tesoro%20e%20della%20Regia%20zecca%20aventi%20funzioni%20di%20gestione%20e%20di%20controllo.%20045U0202.md), sono estese, nelle misure a fianco indicate, alle seguenti categorie di impiegati: 
  
  personale di controllo e di cassa della Cassa 
 speciale dei biglietti a debito dello Stato................ L. 3.000  sostituto del tesoriere centrale........................ L. 5.000  impiegati alle dipendenze del tesoriere centrale, 

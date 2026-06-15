@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102), e le sue successive modificazioni;
+Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e le sue successive modificazioni;
 
 Veduto il [R. decreto 8 ottobre 1925, n. 1904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-08;1904);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Il contributo dello Stato alle spese di mantenimento della Regia universita' di Bari, stabilito dalla tabella B del [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102), aumentato per effetto dell'[art. 2 del R. decreto 8 ottobre 1925, n. 1904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-08;1904#art_2), e' elevato, a decorrere dal 1° luglio 1926, alla somma annua di lire 1,795,000.
+Il contributo dello Stato alle spese di mantenimento della Regia universita' di Bari, stabilito dalla tabella B del [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), aumentato per effetto dell'[art. 2 del R. decreto 8 ottobre 1925, n. 1904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-08;1904#art_2), e' elevato, a decorrere dal 1° luglio 1926, alla somma annua di lire 1,795,000.
 
 ## Art. 2.
 

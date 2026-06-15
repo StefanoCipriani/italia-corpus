@@ -293,7 +293,7 @@ Per le spese necessarie all'applicazione del presente decreto e' stanziata la so
 
 ## Art. 21.
 
-Nulla e' innovato alle disposizioni relative alla mobilitazione industriale di cui ai [Regi decreti 26 giugno 1915, n. 993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-06-26;993), [22 agosto 1915, n. 1277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-08-22;1277) e [3 luglio 1917, n. 1093](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1917-07-03;1093).
+Nulla e' innovato alle disposizioni relative alla mobilitazione industriale di cui ai [Regi decreti 26 giugno 1915, n. 993](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md), [22 agosto 1915, n. 1277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-08-22;1277) e [3 luglio 1917, n. 1093](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1917-07-03;1093).
 
 ## Art. 22.
 

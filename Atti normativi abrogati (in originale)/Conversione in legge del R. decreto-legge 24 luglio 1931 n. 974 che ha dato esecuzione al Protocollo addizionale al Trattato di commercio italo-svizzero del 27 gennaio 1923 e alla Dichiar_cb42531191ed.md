@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 luglio 1931, n. 974](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-24;974), che ha dato esecuzione al Protocollo addizionale al Trattato di commercio italo-svizzero del 27 gennaio 1923 e alla Dichiarazione annessa al Protocollo stesso, entrambi firmati a Roma l'8 luglio 1931. 
+ E' convertito in legge il [R. decreto-legge 24 luglio 1931, n. 974](Esecuzione%20del%20Protocollo%20addizionale%20al%20Trattato%20di%20commercio%20italo-svizzero%20del%2027%20gennaio%201923.%20031U0974.md), che ha dato esecuzione al Protocollo addizionale al Trattato di commercio italo-svizzero del 27 gennaio 1923 e alla Dichiarazione annessa al Protocollo stesso, entrambi firmati a Roma l'8 luglio 1931. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 7 gennaio 1932 - Anno X 
  

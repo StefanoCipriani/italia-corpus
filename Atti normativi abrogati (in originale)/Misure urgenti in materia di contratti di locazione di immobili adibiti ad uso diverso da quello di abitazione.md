@@ -63,7 +63,7 @@ Le disposizioni dei precedenti commi 1 e 2 si applicano per una durata complessi
 
 1.
 
-A valere sulle disponibilita' del fondo di cui all'[articolo 6, primo comma, della legge 10 ottobre 1975, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-10-10;517#art_6-com1), modificato con [legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41), e' autorizzata la concessione di finanziamenti agevolati e di contributi in conto capitale per l'acquisto di immobili condotti in locazione ed adibiti alle attivita' commerciali da dieci anni alla data di entrata in vigore del presente decreto.
+A valere sulle disponibilita' del fondo di cui all'[articolo 6, primo comma, della legge 10 ottobre 1975, n. 517](Credito%20agevolato%20al%20commercio.md), modificato con [legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e' autorizzata la concessione di finanziamenti agevolati e di contributi in conto capitale per l'acquisto di immobili condotti in locazione ed adibiti alle attivita' commerciali da dieci anni alla data di entrata in vigore del presente decreto.
 
 2.
 

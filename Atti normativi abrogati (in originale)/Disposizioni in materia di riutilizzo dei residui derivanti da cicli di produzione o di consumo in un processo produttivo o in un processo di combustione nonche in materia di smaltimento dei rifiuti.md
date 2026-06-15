@@ -90,11 +90,11 @@ Ai fini del presente decreto si intende per:
 
 1.
 
-Chiunque intenda effettuare operazioni di raccolta o trasporto di residui destinati al riutilizzo deve, su carta libera e senza alcun onere finanziario, darne comunicazione al Comitato nazionale dell'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti, di cui all'[articolo 10 del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441), almeno trenta giorni prima dell'inizio dell'attivita', indicando la quantita', la natura, l'origine, la destinazione, la frequenza media della raccolta, la tipologia del mezzo di trasporto dei residui; il Comitato redige l'elenco degli operatori che hanno effettuato le predette comunicazioni.
+Chiunque intenda effettuare operazioni di raccolta o trasporto di residui destinati al riutilizzo deve, su carta libera e senza alcun onere finanziario, darne comunicazione al Comitato nazionale dell'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti, di cui all'[articolo 10 del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md), almeno trenta giorni prima dell'inizio dell'attivita', indicando la quantita', la natura, l'origine, la destinazione, la frequenza media della raccolta, la tipologia del mezzo di trasporto dei residui; il Comitato redige l'elenco degli operatori che hanno effettuato le predette comunicazioni.
 
 2.
 
-Durante il trasporto i residui di cui al presente articolo sono identificati dal documento di accompagnamento dei beni viaggianti di cui all'[articolo 1 del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-06;627#art_1), dal quale, opportunamente integrato, devono risultare in particolare i seguenti dati:
+Durante il trasporto i residui di cui al presente articolo sono identificati dal documento di accompagnamento dei beni viaggianti di cui all'[articolo 1 del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](../DPR/Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md), dal quale, opportunamente integrato, devono risultare in particolare i seguenti dati:
                         a)
                             nome ed indirizzo del produttore o detentore;
                         b)
@@ -108,7 +108,7 @@ Durante il trasporto i residui di cui al presente articolo sono identificati dal
 
 3.
 
-I soggetti di cui al comma 1 non devono prestare le garanzie finanziarie di cui all'[articolo 10, comma 2, del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10-com2), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441).
+I soggetti di cui al comma 1 non devono prestare le garanzie finanziarie di cui all'[articolo 10, comma 2, del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10-com2), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md).
 
 4.
 
@@ -180,7 +180,7 @@ Le imprese e gli stabilimenti che provvedono allo stoccaggio o al trattamento, a
 
 3.
 
-Entro il termine previsto per l'emanazione del decreto di cui all'articolo 2, comma 4, le imprese e gli stabilimenti che utilizzano i materiali quotati con precise specifiche merceologiche in borse merci o in listini e mercuriali ufficiali istituiti presso le camere di commercio, industria, artigianato e agricoltura dei capoluoghi di regione, oggetto d'importazione ed individuati dalle voci del sistema doganale riportate nell'allegato II del regolamento CEE n. 259/93, presentano requisiti equivalenti agli adempimenti richiesti dall'articolo 1, comma 3, lettera b), primo trattino, del predetto regolamento CEE n. 259/93, qualora abbiano trasmesso alle regioni territorialmente competenti una dichiarazione, resa ai sensi della [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), che attesti la provenienza, i tipi, le quantita' e le caratteristiche merceologiche dei materiali da utilizzare, nonche' lo stabilimento nel quale i materiali stessi sono destinati ad essere utilizzati. Le imprese e gli stabilimenti predetti devono annotare sui registri IVA, o su altre scritture contabili obbligatorie, la quantita', la qualita' e l'origine dei materiali utilizzati e sono sottoposti ai controlli previsti dalla normativa vigente.
+Entro il termine previsto per l'emanazione del decreto di cui all'articolo 2, comma 4, le imprese e gli stabilimenti che utilizzano i materiali quotati con precise specifiche merceologiche in borse merci o in listini e mercuriali ufficiali istituiti presso le camere di commercio, industria, artigianato e agricoltura dei capoluoghi di regione, oggetto d'importazione ed individuati dalle voci del sistema doganale riportate nell'allegato II del regolamento CEE n. 259/93, presentano requisiti equivalenti agli adempimenti richiesti dall'articolo 1, comma 3, lettera b), primo trattino, del predetto regolamento CEE n. 259/93, qualora abbiano trasmesso alle regioni territorialmente competenti una dichiarazione, resa ai sensi della [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), che attesti la provenienza, i tipi, le quantita' e le caratteristiche merceologiche dei materiali da utilizzare, nonche' lo stabilimento nel quale i materiali stessi sono destinati ad essere utilizzati. Le imprese e gli stabilimenti predetti devono annotare sui registri IVA, o su altre scritture contabili obbligatorie, la quantita', la qualita' e l'origine dei materiali utilizzati e sono sottoposti ai controlli previsti dalla normativa vigente.
 
 4.
 
@@ -224,11 +224,11 @@ Sono esclusi dall'obbligo della tenuta dei registri di carico e scarico i sogget
 
 I registri di cui al comma 1 possono essere sostituiti, purche' vidimati ed integrati con gli elementi in esso previsti, da:
                         a)
-                            registri di carico e scarico dei rifiuti di cui all'[articolo 3, comma 5, del decreto-legge 9 settembre 1988, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397#art_3-com5), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475);
+                            registri di carico e scarico dei rifiuti di cui all'[articolo 3, comma 5, del decreto-legge 9 settembre 1988, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397#art_3-com5), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20settembre%201988%20n.%20397%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti%20industriali.md);
                         b)
                             registri IVA di acquisto e vendita;
                         c)
-                            scrittura ausiliare di magazzino di cui all'[articolo 14 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_14), e successive modificazioni;
+                            scrittura ausiliare di magazzino di cui all'[articolo 14 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni;
                         d)
                             altri registri la cui tenuta sia resa obbligatoria da disposizioni di legge se vidimati ed integrati ai sensi del comma 1.
 
@@ -258,7 +258,7 @@ Le regioni o le province delegate entro il 31 dicembre di ogni anno trasmettono 
 
 1.
 
-In attuazione dell'[articolo 14 della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_14), e salvo che la legge regionale o delle province autonome di Trento e di Bolzano non dispongano diversamente, i controlli sulle operazioni di raccolta, di trasporto, di stoccaggio, di trattamento e di riutilizzo, previste nel presente decreto, sono esercitati dalle province, che si avvalgono, per gli aspetti tecnici, dei competenti servizi tecnici.
+In attuazione dell'[articolo 14 della legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md), e salvo che la legge regionale o delle province autonome di Trento e di Bolzano non dispongano diversamente, i controlli sulle operazioni di raccolta, di trasporto, di stoccaggio, di trattamento e di riutilizzo, previste nel presente decreto, sono esercitati dalle province, che si avvalgono, per gli aspetti tecnici, dei competenti servizi tecnici.
 
 2.
 
@@ -286,7 +286,7 @@ Le disposizioni del [decreto del Presidente della Repubblica 10 settembre 1982, 
 
 1.
 
-E' abrogato l'[articolo 2 del decreto-legge 9 settembre 1988, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397#art_2), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475). Sono fatte salve le leggi regionali in materia in quanto compatibili con le disposizioni di principio del presente decreto.
+E' abrogato l'[articolo 2 del decreto-legge 9 settembre 1988, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397#art_2), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20settembre%201988%20n.%20397%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti%20industriali.md). Sono fatte salve le leggi regionali in materia in quanto compatibili con le disposizioni di principio del presente decreto.
 
 ## Art. 14. — Disposizioni transitorie
 
@@ -326,17 +326,17 @@ Fatti salvi gli adempimenti in ordine alla tenuta dei registri di carico e scari
 
 2.
 
-La comunicazione di cui alla lettera e) del comma 1 deve essere corredata da una dichiarazione sostitutiva dell'atto di notorieta', resa ai sensi dell'[articolo 4 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_4), attestante la sussistenza dei requisiti previsti al comma 1, nonche' il rispetto della normativa tecnica vigente di cui alla lettera f) del comma 1 e deve essere rinnovata in caso di modifica delle condizioni richieste; le aziende gia' in possesso dell'autorizzazione di cui agli articoli 6, comma 1, lettera d), e 16 del [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), sono tenute alla presentazione della suddetta dichiarazione alla scadenza dell'autorizzazione stessa.
+La comunicazione di cui alla lettera e) del comma 1 deve essere corredata da una dichiarazione sostitutiva dell'atto di notorieta', resa ai sensi dell'[articolo 4 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), attestante la sussistenza dei requisiti previsti al comma 1, nonche' il rispetto della normativa tecnica vigente di cui alla lettera f) del comma 1 e deve essere rinnovata in caso di modifica delle condizioni richieste; le aziende gia' in possesso dell'autorizzazione di cui agli articoli 6, comma 1, lettera d), e 16 del [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), sono tenute alla presentazione della suddetta dichiarazione alla scadenza dell'autorizzazione stessa.
 
 3.
 
-Le imprese che effettuano lo stoccaggio provvisorio di rifiuti tossici e nocivi o qualificati pericolosi all'interno dell'insediamento industriale, commerciale o artigianale nel quale i rifiuti stessi sono prodotti, sono escluse dall'obbligo di iscrizione all'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti previsto dall'[articolo 10 del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441).
+Le imprese che effettuano lo stoccaggio provvisorio di rifiuti tossici e nocivi o qualificati pericolosi all'interno dell'insediamento industriale, commerciale o artigianale nel quale i rifiuti stessi sono prodotti, sono escluse dall'obbligo di iscrizione all'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti previsto dall'[articolo 10 del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md).
 
 ## Art. 16. — Semplificazioni delle attivita' di smaltimento
 
 1.
 
-Al fine di realizzare i principi di autosufficienza e di prossilita' stabiliti dalla [direttiva 91/156/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;156), le regioni favoriscono la realizzazione sul territorio di impianti di smaltimento di rifiuti speciali e tossici nocivi, consentendone la realizzazione anche in deroga alle previsioni del piano di cui all'[articolo 6 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), e del programma di emergenza di cui all'[articolo 5 del decreto-legge 9 settembre 1988, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397#art_5), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475).
+Al fine di realizzare i principi di autosufficienza e di prossilita' stabiliti dalla [direttiva 91/156/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;156), le regioni favoriscono la realizzazione sul territorio di impianti di smaltimento di rifiuti speciali e tossici nocivi, consentendone la realizzazione anche in deroga alle previsioni del piano di cui all'[articolo 6 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), e del programma di emergenza di cui all'[articolo 5 del decreto-legge 9 settembre 1988, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397#art_5), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20settembre%201988%20n.%20397%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti%20industriali.md).
 Le disposizioni del presente comma non si applicano per le discariche.
 
 2.
@@ -349,7 +349,7 @@ Chiunque effettui o intenda effettuare sul territorio nazionale le attivita' di 
 
 4.
 
-Le imprese che effettuano l'autosmaltimento dei rifiuti sono escluse dall'obbligo di iscrizione all'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti previsto dall'[articolo 10 del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441).
+Le imprese che effettuano l'autosmaltimento dei rifiuti sono escluse dall'obbligo di iscrizione all'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti previsto dall'[articolo 10 del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md).
 
 5.
 
@@ -359,23 +359,23 @@ I soggetti o le imprese che svolgono attivita' commerciali o di intermediazione 
 
 1.
 
-Il termine per la contrazione dei mutui di cui all'[articolo 8, comma 4, del decreto-legge 3 maggio 1991, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-03;142#art_8-com4), convertito, con modificazioni, dalla [legge 3 luglio 1991, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-03;195), e' prorogato al 31 dicembre 1996.
+Il termine per la contrazione dei mutui di cui all'[articolo 8, comma 4, del decreto-legge 3 maggio 1991, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-03;142#art_8-com4), convertito, con modificazioni, dalla [legge 3 luglio 1991, n. 195](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201991%20n.%20142%20recante%20provvedimenti%20in%20favore%20delle%20popolazioni%20delle%20province%20di%20Siracusa%20Catania%20e%20Ragusa%20colpite%20dal%20ter_da77d06fcad8.md), e' prorogato al 31 dicembre 1996.
 
 2.
 
-Il termine per la contrazione dei mutui di cui all'[articolo 17, commi 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_17-com18) e [19, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_17-com19), e' prorogato al 31 dicembre 1996;
+Il termine per la contrazione dei mutui di cui all'[articolo 17, commi 18](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md) e [19, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), e' prorogato al 31 dicembre 1996;
 
 3.
 
-Nell'assegnazione delle risorse stanziate, ancora disponibili, dal [decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441), e dal [decreto-legge 26 gennaio 1987, n. 10](Disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari_2.md), convertito, con modificazioni, dalla [legge 24 marzo 1987, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-24;119), si prescinde, rispettivamente, dalle specificazioni di cui agli articoli 1, 1-bis e 1-ter del citato [decreto-legge n. 361 del 1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987;361) e dalle tipologie impiantistiche ivi indicate.
+Nell'assegnazione delle risorse stanziate, ancora disponibili, dal [decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md), e dal [decreto-legge 26 gennaio 1987, n. 10](Disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari_2.md), convertito, con modificazioni, dalla [legge 24 marzo 1987, n. 119](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20gennaio%201987%20n.%2010%20recante%20disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari.md), si prescinde, rispettivamente, dalle specificazioni di cui agli articoli 1, 1-bis e 1-ter del citato [decreto-legge n. 361 del 1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987;361) e dalle tipologie impiantistiche ivi indicate.
 
 4.
 
-Al [comma 3 dell'articolo 1 del decreto-legge 5 ottobre 1993, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398#art_1-com3), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493), dopo le parole: "a comuni, province e comunita' montane" inserire le seguenti: "e consorzi tra i comuni".
+Al [comma 3 dell'articolo 1 del decreto-legge 5 ottobre 1993, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398#art_1-com3), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md), dopo le parole: "a comuni, province e comunita' montane" inserire le seguenti: "e consorzi tra i comuni".
 
 5.
 
-All'[articolo 8, comma 2, della legge 28 agosto 1989, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305#art_8-com2), dopo le parole: "Liri-Garigliano e Volturno" inserire le seguenti: ", nonche' per gli interventi urgenti nei bacini interregionali e regionali dei fiumi che versano nei mari Ionio e Tirreno,".
+All'[articolo 8, comma 2, della legge 28 agosto 1989, n. 305](Programmazione%20triennale%20per%20la%20tutela%20dellambiente.md), dopo le parole: "Liri-Garigliano e Volturno" inserire le seguenti: ", nonche' per gli interventi urgenti nei bacini interregionali e regionali dei fiumi che versano nei mari Ionio e Tirreno,".
 
 ## Art. 18. — Modifiche di disposizioni autorizzative
 
@@ -385,7 +385,7 @@ Le autorizzazioni rilasciate ai sensi del [decreto del Presidente della Repubbli
 
 2.
 
-E' differito al 1 giugno 1995, limitatamente a quanto disposto dall'articolo 11, comma 3, il termine di cui all'[articolo 12, comma 2, del decreto del Presidente della Repubblica 26 agosto 1993, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1993-08-26;412#art_12-com2).
+E' differito al 1 giugno 1995, limitatamente a quanto disposto dall'articolo 11, comma 3, il termine di cui all'[articolo 12, comma 2, del decreto del Presidente della Repubblica 26 agosto 1993, n. 412](../DPR/Regolamento%20recante%20norme%20per%20la%20progettazione%20linstallazione%20lesercizio%20e%20la%20manutenzione%20degli%20impianti%20termici%20degli%20edifici%20ai%20fini%20del%20contenimento%20dei%20consumi%20di%20energia%20in%20attuazio_9b3be45049cf.md).
 
 ## Art. 19. — Entrata in vigore
 

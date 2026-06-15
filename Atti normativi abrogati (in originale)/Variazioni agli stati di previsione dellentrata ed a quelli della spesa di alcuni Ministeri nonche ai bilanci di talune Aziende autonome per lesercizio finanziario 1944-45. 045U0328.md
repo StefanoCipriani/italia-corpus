@@ -44,7 +44,7 @@ Nei bilanci dell'Amministrazione dei monopoli di Stato, del Fondo di massa del C
 
 ## Art. 4.
 
-A decorrere dal 1° gennaio 1945 gli assegni annui stabiliti dall'art. 5 della legge della [legge 4 maggio 1942, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-04;518), a favore del Canonico Arciprete e di ciascuno dei canonici del Capitolo della Chiesa del Pantheon in Roma sono elevati rispettivamente a L. 69.300 e L. 66.200.
+A decorrere dal 1° gennaio 1945 gli assegni annui stabiliti dall'art. 5 della legge della [legge 4 maggio 1942, n. 518](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20ed%20ai%20bilanci%20di%20talune%20Aziende%20autonome%20per%20lesercizio%20finanziario%201941-42%20ed%20altri%20provvediment_b099d98869c0.md), a favore del Canonico Arciprete e di ciascuno dei canonici del Capitolo della Chiesa del Pantheon in Roma sono elevati rispettivamente a L. 69.300 e L. 66.200.
 
 ## Art. 5.
 
@@ -56,7 +56,7 @@ E' autorizzata l'inscrizione delle somme seguenti negli stati di previsione dell
 
 ## Art. 6.
 
-Il contributo statale stabilito con l'[art. 3 del R. decreto-legge 18 aprile 1920, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-04-18;481#art_3), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), a favore del Pio Istituto di Santo Spirito ed Ospedali Riuniti di Roma, in relazione ai maggiori oneri dipendenti dall'applicazione dei provvedimenti economici e gli altri di carattere generale a favore del personale ospedaliero, e' elevato per l'esercizio finanziario 1944-45 a L. 114.500.000. 
+Il contributo statale stabilito con l'[art. 3 del R. decreto-legge 18 aprile 1920, n. 481](Che%20autorizza%20un%20mutuo%20di%20lire%208.800.000%20a%20favore%20dellIstituto%20di%20Santo%20Spirito%20in%20Sassia%20ed%20ospedali%20riuniti%20di%20Roma.%20020U0481.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), a favore del Pio Istituto di Santo Spirito ed Ospedali Riuniti di Roma, in relazione ai maggiori oneri dipendenti dall'applicazione dei provvedimenti economici e gli altri di carattere generale a favore del personale ospedaliero, e' elevato per l'esercizio finanziario 1944-45 a L. 114.500.000. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  

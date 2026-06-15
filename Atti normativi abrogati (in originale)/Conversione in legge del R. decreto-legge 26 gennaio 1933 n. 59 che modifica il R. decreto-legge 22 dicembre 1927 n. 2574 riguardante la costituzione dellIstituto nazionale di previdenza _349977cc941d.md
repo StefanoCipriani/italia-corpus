@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 gennaio 1933, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-26;59), che modifica il R. decreto-legge 22 dicembre 1927, numero, 2574, riguardante la costituzione dell'Istituto nazionale di previdenza e di credito delle comunicazioni. 
+ E' convertito in legge il [R. decreto-legge 26 gennaio 1933, n. 59](Modifica%20del%20R.%20decreto-legge%2022%20dicembre%201927%20n.%202574%20riguardante%20la%20costituzione%20dellIstituto%20nazionale%20di%20previdenza%20e%20di%20credito%20delle%20comunicazioni.%20033U0059.md), che modifica il R. decreto-legge 22 dicembre 1927, numero, 2574, riguardante la costituzione dell'Istituto nazionale di previdenza e di credito delle comunicazioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

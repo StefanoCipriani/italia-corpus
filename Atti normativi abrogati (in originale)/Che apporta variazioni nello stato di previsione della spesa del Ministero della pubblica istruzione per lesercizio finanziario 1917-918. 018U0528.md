@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 31 dicembre 1917, n. 2045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-12-31;2045);
+Vista la [legge 31 dicembre 1917, n. 2045](Che%20proroga%20il%20termine%20indicato%20della%20legge%2028%20ottobre%201917%20n.%201751%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20sian_80dd5cff68ce.md);
 
 Udito il Consiglio dei ministri;
 
@@ -38,7 +38,7 @@ Nello stato di previsione predetto, per l'indicato esercizio finanziario, sono i
  
  250-VII. «Maggiori spese d'indennita' ed ispezioni agli ispettori centrali, ispettori e vice ispettori scolastici in conseguenza dell'incarico ad essi affidato di organizzare e vigilare l'assistenza scolastica ai figli dei richiamati» lire cinquantamila (L. 50.000). 
  
- 252-VII. «Assegni, indennita' e retribuzioni indicate nelle [leggi 8 aprile 1906, n. 142, 26 dicembre 1909, n. 805 e 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), dovute in forza del [decreto Luogotenenziale 25 novembre 1917, n. 1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-11-25;1950), agli insegnanti delle scuole medie e normali da territori evacuati per ragioni militari» lire duecentosettantacinquemilaseicento (L. 275.600). 
+ 252-VII. «Assegni, indennita' e retribuzioni indicate nelle [leggi 8 aprile 1906, n. 142, 26 dicembre 1909, n. 805 e 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), dovute in forza del [decreto Luogotenenziale 25 novembre 1917, n. 1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-11-25;1950), agli insegnanti delle scuole medie e normali da territori evacuati per ragioni militari» lire duecentosettantacinquemilaseicento (L. 275.600). 
  
  261-VIII. «Assegnazione straordinaria per acquisto di strumenti e di materiale scientifico e tecnico ad uso delle Regie Universita' ed altri Istituti di istruzione universitaria» lire trecentottantacin-quemilanovecentocinquantasei e centesimi 56 (L. 385.956,56). 
  

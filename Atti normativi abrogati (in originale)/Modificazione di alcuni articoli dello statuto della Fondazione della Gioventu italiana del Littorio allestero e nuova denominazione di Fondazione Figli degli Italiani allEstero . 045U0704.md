@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli articoli 1, 4 e 10 (comma 1°) dello statuto della Fondazione della Gioventu' Italiana del Littorio all'Estero approvato con [R. decreto 7 maggio 1942, n. 743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-07;743), sono sostituiti dai seguenti: 
+Gli articoli 1, 4 e 10 (comma 1°) dello statuto della Fondazione della Gioventu' Italiana del Littorio all'Estero approvato con [R. decreto 7 maggio 1942, n. 743](Fondazione%20della%20Gioventu%20Italiana%20del%20Littorio%20allEstero%20G.I.L.E..%20042U0743.md), sono sostituiti dai seguenti: 
  Art. 1. - E' istituita una Fondazione denominata « Fondazione Figli degli Italiani all'Estero » avente per fine l'assistenza fisica e spirituale dei figli degli italiani all'estero. 
  
  La Fondazione ha sede in Roma. 

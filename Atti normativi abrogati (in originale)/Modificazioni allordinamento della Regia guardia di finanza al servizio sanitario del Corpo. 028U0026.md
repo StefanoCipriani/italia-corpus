@@ -22,7 +22,7 @@ Il penultimo comma dell'[art. 2 del R. decreto 14 giugno 1923, n. 1281](https://
 
 ## Art. 2.
 
-Il [R. decreto 31 dicembre 1923, n. 3171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3171), e' abrogato. 
+Il [R. decreto 31 dicembre 1923, n. 3171](Ordinamento%20del%20servizio%20sanitario%20per%20il%20corpo%20della%20Regia%20guardia%20di%20finanza.%20023U3171.md), e' abrogato. 
  
  L'assistenza sanitaria dei militari della Regia guardia di finanza, e' apprestata presso i reparti e nei luoghi di cura con le norme seguenti.
 
@@ -32,7 +32,7 @@ Un ufficiale Superiore Medico del Regio esercito e' addetto presso il Comando ge
  
  Nei reparti d'istruzione del Corpo il servizio sanitario sara' di massima disimpegnato da un capitano medico del Regio esercito. In via eccezionale il servizio potra' anche essere disimpegnato da un medico civile. Se in sede vi sono altri reparti del Corpo il servizio sanitario per essi sara' disimpegnato dallo stesso medico del reparto di istruzione. 
  
- Agli ufficiali medici del Regio esercito, messi a completa disposizione della Regia guardia di finanza, e' sospesa, per il tempo in cui restano in tale posizione, l'indennita', professionale di cui all'[art. 178 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_178).
+ Agli ufficiali medici del Regio esercito, messi a completa disposizione della Regia guardia di finanza, e' sospesa, per il tempo in cui restano in tale posizione, l'indennita', professionale di cui all'[art. 178 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 4.
 

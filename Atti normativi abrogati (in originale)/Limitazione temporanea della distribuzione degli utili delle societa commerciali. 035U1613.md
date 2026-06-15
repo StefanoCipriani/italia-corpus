@@ -58,7 +58,7 @@ Senza pregiudizio delle sanzioni contemplate nell'articolo precedente, qualora s
 
 ## Art. 7.
 
-Esclusivamente nei casi in cui la Commissione istituita col [R. decreto 15 maggio 1933, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-05-15;590), abbia dato parere favorevole per l'impianto di nuovi stabilimenti industriali ovvero per l'ampliamento di quelli esistenti, il Ministro per le corporazioni, di concerto con quello per le finanze, puo' consentire eccezioni alle norme del presente decreto per l'investimento di utili non disponibili nell'impianto ovvero nell'ampliamento degli stabilimenti anzidetti.
+Esclusivamente nei casi in cui la Commissione istituita col [R. decreto 15 maggio 1933, n. 590](Norme%20per%20lattuazione%20della%20legge%2012%20gennaio%201933%20n.%20141%20con%20cui%20furono%20delegati%20al%20Governo%20del%20Re%20i%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0590.md), abbia dato parere favorevole per l'impianto di nuovi stabilimenti industriali ovvero per l'ampliamento di quelli esistenti, il Ministro per le corporazioni, di concerto con quello per le finanze, puo' consentire eccezioni alle norme del presente decreto per l'investimento di utili non disponibili nell'impianto ovvero nell'ampliamento degli stabilimenti anzidetti.
 
 ## Art. 8.
 

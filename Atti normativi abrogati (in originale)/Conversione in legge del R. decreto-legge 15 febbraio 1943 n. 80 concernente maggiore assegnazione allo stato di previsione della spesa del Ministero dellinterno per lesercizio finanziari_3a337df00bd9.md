@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 febbraio 1943, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-02-15;80), concernente maggiore assegnazione allo stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1942-43. 
+ E' convertito in legge il [R. decreto-legge 15 febbraio 1943, n. 80](Maggiore%20assegnazione%20allo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellinterno%20per%20lesercizio%20finanziario%201942-43.%20043U0080.md), concernente maggiore assegnazione allo stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1942-43. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

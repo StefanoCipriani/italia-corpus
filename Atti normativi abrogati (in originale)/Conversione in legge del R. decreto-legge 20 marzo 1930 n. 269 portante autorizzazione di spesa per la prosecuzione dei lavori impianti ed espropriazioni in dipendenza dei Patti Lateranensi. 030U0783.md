@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 marzo 1930, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-20;269), portante autorizzazione di spesa per la prosecuzione dei lavori, impianti ed espropriazioni in dipendenza dei Patti Lateranensi. 
+ E' convertito in legge il [R. decreto-legge 20 marzo 1930, n. 269](Autorizzazione%20di%20spesa%20per%20la%20prosecuzione%20dei%20lavori%20impianti%20ed%20espropriazioni%20in%20dipendenza%20dei%20Patti%20Lateranensi.%20030U0269.md), portante autorizzazione di spesa per la prosecuzione dei lavori, impianti ed espropriazioni in dipendenza dei Patti Lateranensi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -20,9 +20,9 @@ RE D'ITALIA.
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 32 della legge 19 luglio 1909, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;496#art_32) (articolo 127 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, numero 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795));
+Visto l'[art. 32 della legge 19 luglio 1909, n. 496](Recante%20provvedimenti%20per%20la%20istruzione%20superiore.%20009U0496.md) (articolo 127 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, numero 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md));
 
-Vaste le [leggi 21 luglio 1911, n. 880, 22 giugno 1913, n. 780 e 19 luglio 1914, n. 794](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;794);
+Vaste le [leggi 21 luglio 1911, n. 880, 22 giugno 1913, n. 780 e 19 luglio 1914, n. 794](Con%20la%20quale%20e%20prorogato%20il%20termine%20fissato%20dallart.%2032%20della%20legge%2019%20luglio%201909%20n.%20496%20sulla%20istruzione%20superiore.%20014U0794.md);
 
 Visti i [decreti-legge 24 giugno 1915, n. 1247, 1° giugno 1916, n. 780, 20 maggio 1917, n. 895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1917-05-20;895);
 
@@ -32,17 +32,17 @@ Sulla proposta del ministro segretario di Stato per la istruzione pubblica, di c
 
 ## Art. 1.
 
-Il termine fissato dall'[art. 32 della legge 19 luglio 1909, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;496#art_32) (art. 127 del testo unico delle leggi sulla istruzione superiore approvato, con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795)), per la revisione delle tabelle del personale assistente, tecnico e subalterno delle Universita' e degli Istituti superiori, e' prorogato al 31 luglio 1919. 
+Il termine fissato dall'[art. 32 della legge 19 luglio 1909, n. 496](Recante%20provvedimenti%20per%20la%20istruzione%20superiore.%20009U0496.md) (art. 127 del testo unico delle leggi sulla istruzione superiore approvato, con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md)), per la revisione delle tabelle del personale assistente, tecnico e subalterno delle Universita' e degli Istituti superiori, e' prorogato al 31 luglio 1919. 
  
  Tutti i posti di personale in soprannumero e straordinario, di cui agli articoli 34 e 35 della sopraindicata legge, tuttora esistenti, saranno mantenuti sino a quando si procedera' alla revisione suddetta e potra' provvedersi alla sostituzione nei casi che taluno di essi rimanga scoperto.
 
 ## Art. 2.
 
-Restano ferme tutte le altre disposizioni mantenute dalla [legge 19 luglio 1914, n. 794](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;794), con le modificazioni da quella introdotte.
+Restano ferme tutte le altre disposizioni mantenute dalla [legge 19 luglio 1914, n. 794](Con%20la%20quale%20e%20prorogato%20il%20termine%20fissato%20dallart.%2032%20della%20legge%2019%20luglio%201909%20n.%20496%20sulla%20istruzione%20superiore.%20014U0794.md), con le modificazioni da quella introdotte.
 
 ## Art. 3.
 
-E' sospesa fino al compimento della revisione predetta, l'applicazione dell'[art. 19 della legge 19 luglio 1909, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;496#art_19) (art. 104 del testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795), riguardante il personale assistente delle cattedre di materie complementari
+E' sospesa fino al compimento della revisione predetta, l'applicazione dell'[art. 19 della legge 19 luglio 1909, n. 496](Recante%20provvedimenti%20per%20la%20istruzione%20superiore.%20009U0496.md) (art. 104 del testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), riguardante il personale assistente delle cattedre di materie complementari
 
 ## Art. 4.
 

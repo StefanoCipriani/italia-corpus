@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli addetti agli stabilimenti militari di produzione per la guerra e agli stabilimenti ausiliari regolati dal [decreto Luogotenenziale 22 agosto 1915, n. 1277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-22;1277), sono soggetti, oltre che alle disposizioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito, alle seguenti speciali disposizioni, mantenuta anche per l'applicazione di queste disposizioni la competenza dei tribunali militari.
+Gli addetti agli stabilimenti militari di produzione per la guerra e agli stabilimenti ausiliari regolati dal [decreto Luogotenenziale 22 agosto 1915, n. 1277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-22;1277), sono soggetti, oltre che alle disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, alle seguenti speciali disposizioni, mantenuta anche per l'applicazione di queste disposizioni la competenza dei tribunali militari.
 
 ## Art. 2.
 
@@ -40,23 +40,23 @@ Chiunque, appartenendo al personale di uno degli stabilimenti di cui all'art. 1�
  
  1° colla reclusione da quindici a ventiquattro anni, estensibile all'ergastolo in caso di premeditazione, se le vie di fatto abbiano prodotto la morte dell'offeso; 
  
- 2° colla reclusione militare da sette a quindici anni se le vie di fatto abbiano prodotto una lesione personale come all'art. 259, capoverso 1°, del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito; 
+ 2° colla reclusione militare da sette a quindici anni se le vie di fatto abbiano prodotto una lesione personale come all'art. 259, capoverso 1°, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito; 
  
- 3° colla reclusione militare da tre a sette anni se le vie di fatto abbiano prodotto una lesione personale come all'art. 259, parte 1ª, del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito; 
+ 3° colla reclusione militare da tre a sette anni se le vie di fatto abbiano prodotto una lesione personale come all'art. 259, parte 1ª, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito; 
  
- 4° colla reclusione militare da uno a tre anni se le vie di fatto abbiano prodotto una lesione personale come all'[art. 260 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_260) per l'esercito; 
+ 4° colla reclusione militare da uno a tre anni se le vie di fatto abbiano prodotto una lesione personale come all'[art. 260 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito; 
  
- 5° col carcere militare da due mesi ad un anno se le vie di fatto abbiano prodotto una lesione personale come all'[art. 263 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_263) per l'esercito. 
+ 5° col carcere militare da due mesi ad un anno se le vie di fatto abbiano prodotto una lesione personale come all'[art. 263 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
  Se contro i superiori come sopra e' detto si commettono insulti o minaccie, la pena e' della reclusione militare da un anno a tre, estensibile a cinque anni ove il fatto abbia luogo in servizio ed in presenza di piu' individui del personale dello stabilimento. 
  
  Se gli insulti o le minaccie si commettano in assenza dell'offeso, ma in presenza di piu' individui del personale suddetto, e l'offeso fa parte del personale direttivo dello stabilimento, la pena e' del carcere militare da due mesi ad un anno. 
  
- Se le minaccie siano commesse con arma, la pena e' della reclusione militare da uno a cinque anni, e per la nozione delle armi va richiamato l'[art. 128 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_128) per l'esercito. 
+ Se le minaccie siano commesse con arma, la pena e' della reclusione militare da uno a cinque anni, e per la nozione delle armi va richiamato l'[art. 128 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
  Qualora le vie di fatto, gli insulti o le minaccie abbiano avuto causa estranea al servizio, la pena e' diminuita da uno a tre gradi, e la stessa diminuzione ha luogo se le vie di fatto, gli insulti o le minaccie abbiano avuto causa nella provocazione per parte del superiore. 
  
- Non vi e' reato quando ricorrano i casi dell'[art. 134 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_134) per l'esercito, mentre per il caso dell'ubbriachezza, si applicano le disposizioni degli articoli 56 e 57 del Codice stesso, in quanto essa abbia determinato uno degli stati di cui ai detti articoli, purche' non sia stata procurata per facilitare l'esecuzione del reato, o per preparare una scusa.
+ Non vi e' reato quando ricorrano i casi dell'[art. 134 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, mentre per il caso dell'ubbriachezza, si applicano le disposizioni degli articoli 56 e 57 del Codice stesso, in quanto essa abbia determinato uno degli stati di cui ai detti articoli, purche' non sia stata procurata per facilitare l'esecuzione del reato, o per preparare una scusa.
 
 ## Art. 6.
 
@@ -76,7 +76,7 @@ E' applicabile la disposizione di cui all'art. 6, anche se il fatto preveduto ne
 
 ## Art. 10.
 
-Le donne scontano le pene portate dagli articoli precedenti, in stabilimenti speciali, come all'[art. 23 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_23) comune.
+Le donne scontano le pene portate dagli articoli precedenti, in stabilimenti speciali, come all'[art. 23 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune.
 
 ### Art. 11.
 

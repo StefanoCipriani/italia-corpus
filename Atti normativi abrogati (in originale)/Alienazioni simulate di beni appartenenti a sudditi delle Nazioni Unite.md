@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le esenzioni fiscali previste dal [decreto legislativo Luogotenenziale 12 aprile 1945, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;222), sono estese a favore dei sudditi delle Nazioni Unite per tutti gli atti e contratti necessari per riottenere i beni da essi simulatamente trasferiti prima dello scoppio delle ostilita', al line di sottrarre i beni stessi alle misure previste dal testo della legge di guerra, approvato con [R. decreto 3 luglio 1938, n. 1415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-03;1415), e successive modificazioni e aggiunte.
+Le esenzioni fiscali previste dal [decreto legislativo Luogotenenziale 12 aprile 1945, n. 222](../Decreti%20legislativi%20luogotenenziali/Norme%20complementari%20integrative%20e%20di%20attuazione%20del%20decreto%20legislativo%20Luogotenenziale%2020%20gennaio%201944%20n.%2026%20per%20la%20reintegrazione%20dei%20cittadini%20italiani%20e%20stranieri%20colpiti%20dalle%20dispos_39647f573995.md), sono estese a favore dei sudditi delle Nazioni Unite per tutti gli atti e contratti necessari per riottenere i beni da essi simulatamente trasferiti prima dello scoppio delle ostilita', al line di sottrarre i beni stessi alle misure previste dal testo della legge di guerra, approvato con [R. decreto 3 luglio 1938, n. 1415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-03;1415), e successive modificazioni e aggiunte.
 
 ## Art. 2.
 

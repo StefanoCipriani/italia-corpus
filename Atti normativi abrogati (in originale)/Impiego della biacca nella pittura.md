@@ -55,7 +55,7 @@ Gli operai addetti ai lavori di pittura implicanti l'uso di preparati piombiferi
 
 ## Art. 10.
 
-Salvo le maggiori incombenze prescritte dagli [articoli 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_36), [37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_37) e [38 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_38), circa la installazione dei servizi necessari alla milizia personale dei lavoratori, l'esercente delle attivita' disciplinate dalla presente legge e' tenuto in tutti i casi a provvedere affinche' gli operai possano durante il lavoro, alla fine di questo, e prima dei pasti, praticare almeno la pulizia delle mani.
+Salvo le maggiori incombenze prescritte dagli [articoli 36](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), [37](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md) e [38 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), circa la installazione dei servizi necessari alla milizia personale dei lavoratori, l'esercente delle attivita' disciplinate dalla presente legge e' tenuto in tutti i casi a provvedere affinche' gli operai possano durante il lavoro, alla fine di questo, e prima dei pasti, praticare almeno la pulizia delle mani.
  L'esercente e' tenuta a mettere a disposizione dei lavoratori acqua in quantita' sufficiente, nonche' i detersivi idonei e i mezzi per asciugarsi.
 
 ## Art. 11.
@@ -68,7 +68,7 @@ I casi di intossicazione saturnina notificati ai sensi dell'articolo precedente 
 
 ## Art. 13.
 
-Salve le maggiori sanzioni previste dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), sono puniti per la inosservanza delle norme previste nella presente legge, con l'ammenda da lire 50.000 a lire 300.000, i datori di lavoro, i produttori e i commercianti.
+Salve le maggiori sanzioni previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono puniti per la inosservanza delle norme previste nella presente legge, con l'ammenda da lire 50.000 a lire 300.000, i datori di lavoro, i produttori e i commercianti.
 
 ## Art. 14.
 

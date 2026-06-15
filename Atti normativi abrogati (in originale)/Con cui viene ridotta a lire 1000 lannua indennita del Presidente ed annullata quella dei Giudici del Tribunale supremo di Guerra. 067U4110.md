@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'articolo 4 della Legge 1° ottobre 1859, approvativa di un nuovo [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare;
+Visto l'articolo 4 della Legge 1° ottobre 1859, approvativa di un nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare;
 
 Visto l'articolo 296 di detto Codice, che prescrive l'istituzione di un Tribunale supremo di Guerra;
 

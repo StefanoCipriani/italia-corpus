@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Del Comitato direttivo dell'Ente autonomo del Teatro «Alla Scala» di Milano istituito con il [R. decreto-legge 29 dicembre 1921, n. 2143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-12-29;2143), fa parte, oltre ai membri previsti dall'art. 4 del R. decreto-legge 3 febbraio 1936-XIV, n. 438, anche il presidente del Museo teatrale della Scala, eretto in ente morale con [R. decreto 21 settembre 1911, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-09-21;1216). 
+ Del Comitato direttivo dell'Ente autonomo del Teatro «Alla Scala» di Milano istituito con il [R. decreto-legge 29 dicembre 1921, n. 2143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-12-29;2143), fa parte, oltre ai membri previsti dall'art. 4 del R. decreto-legge 3 febbraio 1936-XIV, n. 438, anche il presidente del Museo teatrale della Scala, eretto in ente morale con [R. decreto 21 settembre 1911, n. 1216](Erezione%20in%20ente%20morale%20e%20denominazione%20di%20museo%20teatrale.%20011U1216.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

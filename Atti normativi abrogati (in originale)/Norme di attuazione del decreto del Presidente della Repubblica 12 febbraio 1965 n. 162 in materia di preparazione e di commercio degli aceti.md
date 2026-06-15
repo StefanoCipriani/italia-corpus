@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto il [decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md), concernente norme per la repressione delle frodi nella preparazione e nel commercio dei mosti, vini ed aceti;
 
-Vista la [legge 6 aprile 1966, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-04-06;207), che reca modifiche al predetto decreto;
+Vista la [legge 6 aprile 1966, n. 207](Modifiche%20agli%20articoli%2022%2042%2047%20e%20116%20del%20decreto%20del%20Presidente%20della%20Repubblica%2012%20febbraio%201965%20n.%20162%20contenente%20norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commerc_859d97cfe41c.md), che reca modifiche al predetto decreto;
 
 Udito il parere del Consiglio di Stato;
 
@@ -46,7 +46,7 @@ L'autorizzazione di cui al precedente articolo e' concessa a tempo indeterminato
 
 ## Art. 3.
 
-Il produttore di aceto, ottenuta l'autorizzazione di cui ai precedenti articoli, prima di procedere alla trasformazione del prodotto base, deve chiedere, con domanda redatta su carta da bollo, all'istituto di vigilanza del Ministero dell'agricoltura e delle foreste, competente per territorio, il prelevamento di campioni, onde vengano accertate mediante analisi la genuinita' e le caratteristiche del prodotto stesso, nonche' l'aggiunta del rilevatore previsto dall'[art. 2 della legge 6 aprile 1966, numero 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-04-06;207#art_2).
+Il produttore di aceto, ottenuta l'autorizzazione di cui ai precedenti articoli, prima di procedere alla trasformazione del prodotto base, deve chiedere, con domanda redatta su carta da bollo, all'istituto di vigilanza del Ministero dell'agricoltura e delle foreste, competente per territorio, il prelevamento di campioni, onde vengano accertate mediante analisi la genuinita' e le caratteristiche del prodotto stesso, nonche' l'aggiunta del rilevatore previsto dall'[art. 2 della legge 6 aprile 1966, numero 207](Modifiche%20agli%20articoli%2022%2042%2047%20e%20116%20del%20decreto%20del%20Presidente%20della%20Repubblica%2012%20febbraio%201965%20n.%20162%20contenente%20norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commerc_859d97cfe41c.md).
  Il personale incaricato del prelevamento provvede al campionamento ed effettua il sigillamento dei recipienti ai sensi delle vigenti norme in materia di sequestro preventivo.
  A seguito della comunicazione, da parte dell'istituto di vigilanza, della conformita' del prodotto alle prescrizioni di legge e della indicazione della gradazione alcolica riscontrata, i produttori possono rimuovere i sigilli dai contenitori e procedere alle necessarie lavorazioni, previa annotazione dei quantitativi, per grado ettolitro, nei prescritti registri di produzione.
  Le spese di analisi e quelle per il personale incaricato del prelevamento sono a carico delle ditte interessate, nella misura stabilita dalle vigenti disposizioni.

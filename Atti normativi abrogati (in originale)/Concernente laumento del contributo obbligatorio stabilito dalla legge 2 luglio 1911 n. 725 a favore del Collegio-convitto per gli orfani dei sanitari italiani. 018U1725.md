@@ -24,7 +24,7 @@ Sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri;
 
 ## Articolo unico.
 
-Dal 1° gennaio 1919 il contributo obbligatorio stabilito dalla [legge 2 luglio 1911, n. 725](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-02;725), a favore del Collegio-convitto per gli orfani dei sanitari italiani con sede in Perugia, e' elevato da lire 6 a lire 10 annue. 
+Dal 1° gennaio 1919 il contributo obbligatorio stabilito dalla [legge 2 luglio 1911, n. 725](Che%20apporta%20modificazioni%20alla%20legge%20relativa%20al%20Collegio-convitto%20per%20gli%20orfani%20dei%20sanitari%20italiani%20in%20Perugia.%20011U0725.md), a favore del Collegio-convitto per gli orfani dei sanitari italiani con sede in Perugia, e' elevato da lire 6 a lire 10 annue. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

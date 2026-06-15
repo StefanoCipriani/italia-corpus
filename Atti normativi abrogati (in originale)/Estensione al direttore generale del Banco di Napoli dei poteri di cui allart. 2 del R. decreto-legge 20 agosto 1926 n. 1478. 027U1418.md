@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il [R. decreto-legge 20 agosto 1926, n. 1478](Provvedimenti%20per%20la%20gestione%20del%20Banco%20di%20Napoli.%20026U1478.md), contenente provvedimenti per la gestione del Banco di Napoli;
 
-Veduto il [R. decreto 23 giugno 1927, n. 1040](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-23;1040);
+Veduto il [R. decreto 23 giugno 1927, n. 1040](Nomina%20del%20direttore%20generale%20del%20Banco%20di%20Napoli.%20027U1040.md);
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 

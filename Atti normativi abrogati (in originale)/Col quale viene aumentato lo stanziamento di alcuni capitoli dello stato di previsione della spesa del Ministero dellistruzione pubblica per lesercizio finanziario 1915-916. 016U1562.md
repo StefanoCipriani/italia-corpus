@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 13 aprile 1916, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-13;403); 
+ Vista la [legge 13 aprile 1916, n. 403](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellistruzione%20pubblica%20per%20lesercizio%20finanziario%201915-916%20016U0403.md); 
  
  Udito il Consiglio dei ministri; 
  

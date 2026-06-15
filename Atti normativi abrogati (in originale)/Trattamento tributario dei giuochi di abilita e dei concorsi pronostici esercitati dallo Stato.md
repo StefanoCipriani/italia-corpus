@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-I proventi derivanti allo Stato dall'esercizio dei giuochi di abilita' e dei concorsi pronostici di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496#art_1) e [2 del decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496#art_2), sono sostitutivi dell'imposta di ricchezza mobile e dell'imposta complementare afferenti ai premi corrisposta ai vincitori.
+I proventi derivanti allo Stato dall'esercizio dei giuochi di abilita' e dei concorsi pronostici di cui agli [articoli 1](../Decreti%20Legislativi/Disciplina%20delle%20attivita%20di%20giuoco.md) e [2 del decreto legislativo 14 aprile 1948, n. 496](../Decreti%20Legislativi/Disciplina%20delle%20attivita%20di%20giuoco.md), sono sostitutivi dell'imposta di ricchezza mobile e dell'imposta complementare afferenti ai premi corrisposta ai vincitori.
 
 ## Art. 2.
 

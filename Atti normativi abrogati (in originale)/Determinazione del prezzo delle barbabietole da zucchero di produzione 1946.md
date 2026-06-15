@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 27 dicembre 1940, n. 1716](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-12-27;1716), convertito, con modificazioni, nella [legge 24 aprile 1941, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-24;385), contenente disposizioni per la disciplina degli approvvigionamenti, della distribuzione e del consumo dei generi alimentari;
+Visto il [regio decreto-legge 27 dicembre 1940, n. 1716](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-12-27;1716), convertito, con modificazioni, nella [legge 24 aprile 1941, n. 385](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20dicembre%201940-XIX%20n.%201716%20recante%20disposizioni%20per%20la%20disciplina%20degli%20approvvigionamenti%20della%20distribuzione%20e%20dei%20consumi%20_49bee2e89aec.md), contenente disposizioni per la disciplina degli approvvigionamenti, della distribuzione e del consumo dei generi alimentari;
 
 Visto il decreto 2 febbraio 1946 del Ministro per l'agricoltura e per le foreste, recante la determinazione del prezzo delle barbabietole da zucchero di produzione 1946;
 
@@ -20,7 +20,7 @@ Vista la deliberazione 19 dicembre 1946 del Comitato interministeriale per il co
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto l'[art. 3 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3);
+Visto l'[art. 3 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

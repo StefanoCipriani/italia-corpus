@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il compenso di cui al [decreto legislativo 20 marzo 1948, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-20;369), dovuto ai messi notificatori, ai messi comunali ed agli agenti degli uffici finanziari provinciali per la notificazione di qualsiasi atto dell'Amministrazione finanziaria, relativo all'accertamento ed alla liquidazione delle imposte dirette e delle tasse ed imposte indirette sugli affari, e' fissato in lire 25 quando la notifica e' eseguita nei Comuni con popolazione fino a centomila abitanti ed in lire 50 negli altri casi.
+Il compenso di cui al [decreto legislativo 20 marzo 1948, n. 369](../Decreti%20Legislativi/Compensi%20per%20le%20notificazioni%20degli%20atti%20dellAmministrazione%20finanziaria%20relativi%20allaccertamento%20e%20alla%20liquidazione%20delle%20imposte%20dirette%20delle%20tasse%20e%20delle%20imposte%20indirette%20sugli%20affari.md), dovuto ai messi notificatori, ai messi comunali ed agli agenti degli uffici finanziari provinciali per la notificazione di qualsiasi atto dell'Amministrazione finanziaria, relativo all'accertamento ed alla liquidazione delle imposte dirette e delle tasse ed imposte indirette sugli affari, e' fissato in lire 25 quando la notifica e' eseguita nei Comuni con popolazione fino a centomila abitanti ed in lire 50 negli altri casi.
 
 ## Art. 2.
 

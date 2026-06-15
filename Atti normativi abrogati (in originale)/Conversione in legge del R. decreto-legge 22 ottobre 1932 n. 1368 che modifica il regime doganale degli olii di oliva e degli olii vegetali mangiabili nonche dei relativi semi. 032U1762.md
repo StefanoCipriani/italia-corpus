@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 ottobre 1932, n. 1368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-10-22;1368), che modifica il regime doganale degli olii d'oliva e degli olii vegetali mangiabili nonche' dei relativi semi. 
+ E' convertito in legge il [R. decreto-legge 22 ottobre 1932, n. 1368](Modificazione%20del%20regime%20doganale%20degli%20olii%20di%20oliva%20e%20degli%20olii%20vegetali%20mangiabili%20nonche%20dei%20relativi%20semi.%20032U1368.md), che modifica il regime doganale degli olii d'oliva e degli olii vegetali mangiabili nonche' dei relativi semi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

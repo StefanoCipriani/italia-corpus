@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 13 luglio 1939, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-13;1154), che reca norme sulla requisizione del naviglio mercantile, e sue successive modificazioni;
+Vista la [legge 13 luglio 1939, n. 1154](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md), che reca norme sulla requisizione del naviglio mercantile, e sue successive modificazioni;
 
 Visto il R. decreto-legge 7 dicembre 1942, n, 1808, che reca provvedimenti relativi a perdita di navi mercantili e al reimpiego delle corrispondenti indennita';
 
@@ -38,7 +38,7 @@ Per riacquistare la proprieta' della nave gli interessati debbono rimettere, a p
 
 ## Art. 3.
 
-Per il riacquisto della proprieta', di cui ai precedenti articoli, gli interessati debbono riversare allo Stato le somme da essi eventualmente percepite a titolo di indennizzo di perdita in base al [R. decreto-legge 7 dicembre 1942, n. 1808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-12-07;1808); e dichiarare di rinunciare alla parte di indennita' non ancora riscossa; essi debbono, altresi', rimborsare all'Amministrazione requisitrice o noleggiatrice tutte le spese da questa eventualmente sostenute per il ricupero e per il ripristino in efficienza della unita'.
+Per il riacquisto della proprieta', di cui ai precedenti articoli, gli interessati debbono riversare allo Stato le somme da essi eventualmente percepite a titolo di indennizzo di perdita in base al [R. decreto-legge 7 dicembre 1942, n. 1808](Provvedimenti%20relativi%20a%20perdite%20di%20navi%20mercantili%20ed%20al%20reimpiego%20delle%20corrispondenti%20indennita.%20042U1808.md); e dichiarare di rinunciare alla parte di indennita' non ancora riscossa; essi debbono, altresi', rimborsare all'Amministrazione requisitrice o noleggiatrice tutte le spese da questa eventualmente sostenute per il ricupero e per il ripristino in efficienza della unita'.
 
 ## Art. 4.
 

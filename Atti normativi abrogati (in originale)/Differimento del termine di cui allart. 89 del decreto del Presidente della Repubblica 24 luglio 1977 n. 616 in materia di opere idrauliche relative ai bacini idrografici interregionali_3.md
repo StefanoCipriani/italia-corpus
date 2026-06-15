@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuto che permane la necessita' e l'urgenza di disporre il differimento del termine del 1 gennaio 1980 stabilito dall'[art. 89, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_89-com2), prorogato con il [decreto-legge 7 maggio 1980, n. 152](Differimento%20del%20termine%20di%20cui%20allart.%2089%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%20616%20in%20materia%20di%20opere%20idrauliche%20relative%20ai%20bacini%20idrografici%20interregionali%20e_3a938231ea68.md), convertito nella [legge 7 luglio 1980, n. 298, al 31 dicembre 1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-12-31;298), in pendenza dell'approvazione dei provvedimenti legislativi gia' predisposti per una riorganizzazione del settore della difesa idraulica;
+Ritenuto che permane la necessita' e l'urgenza di disporre il differimento del termine del 1 gennaio 1980 stabilito dall'[art. 89, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), prorogato con il [decreto-legge 7 maggio 1980, n. 152](Differimento%20del%20termine%20di%20cui%20allart.%2089%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%20616%20in%20materia%20di%20opere%20idrauliche%20relative%20ai%20bacini%20idrografici%20interregionali%20e_3a938231ea68.md), convertito nella [legge 7 luglio 1980, n. 298, al 31 dicembre 1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-12-31;298), in pendenza dell'approvazione dei provvedimenti legislativi gia' predisposti per una riorganizzazione del settore della difesa idraulica;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 febbraio 1981;
 
@@ -22,7 +22,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-Con effetto dal 31 dicembre 1980, il termine indicato nella [legge 7 luglio 1980, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-07;298), e' differito al 31 dicembre 1981.
+Con effetto dal 31 dicembre 1980, il termine indicato nella [legge 7 luglio 1980, n. 298](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%207%20maggio%201980%20n.%20152%20concernente%20il%20differimento%20del%20termine%20di%20cui%20allo%20articolo%2089%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%206_8035f4557f20.md), e' differito al 31 dicembre 1981.
 
 ## Art. 2.
 

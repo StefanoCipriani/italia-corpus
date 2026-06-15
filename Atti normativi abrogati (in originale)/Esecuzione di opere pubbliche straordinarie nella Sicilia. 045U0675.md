@@ -52,7 +52,7 @@ E' autorizzata la spesa di lire trecentocinquantamilioni per provvedere alla mag
 
 ## Art. 6.
 
-Per gli scopi di cui all'[art. 1 della legge 19 gennaio 1942, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;24#art_1), istitutiva dell'Ente Acquedotti Siciliani, e' autorizzata la spesa di lire cinquecentomilioni da inscriversi nello stato di previsione della spesa del Ministero dei lavori pubblici, a cominciare dal 1945-46, in ragione di lire centomilioni per ciascun esercizio.
+Per gli scopi di cui all'[art. 1 della legge 19 gennaio 1942, n. 24](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md), istitutiva dell'Ente Acquedotti Siciliani, e' autorizzata la spesa di lire cinquecentomilioni da inscriversi nello stato di previsione della spesa del Ministero dei lavori pubblici, a cominciare dal 1945-46, in ragione di lire centomilioni per ciascun esercizio.
 
 ## Art. 7.
 

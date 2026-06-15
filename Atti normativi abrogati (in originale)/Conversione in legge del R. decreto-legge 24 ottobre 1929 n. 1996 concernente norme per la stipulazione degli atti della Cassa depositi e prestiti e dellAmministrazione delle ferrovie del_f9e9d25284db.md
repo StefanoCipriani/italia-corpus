@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 ottobre 1929, n. 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-24;1996), concernente «Norme per la stipulazione degli atti della Cassa depositi e prestiti e dell'Amministrazione delle ferrovie dello Stato con i soci di cooperative edilizie». 
+ E' convertito in legge il [R. decreto-legge 24 ottobre 1929, n. 1996](Norme%20per%20la%20stipulazione%20degli%20atti%20della%20Cassa%20depositi%20e%20prestiti%20e%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20con%20i%20soci%20di%20cooperative%20edilizie.%20029U1996.md), concernente «Norme per la stipulazione degli atti della Cassa depositi e prestiti e dell'Amministrazione delle ferrovie dello Stato con i soci di cooperative edilizie». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

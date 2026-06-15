@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 marzo 1933, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-02;313), concernente la chiusura delle operazioni per la sistemazione finanziaria dell'industria marmifera carrarese. 
+ E' convertito in legge il [R. decreto-legge 2 marzo 1933, n. 313](Chiusura%20delle%20operazioni%20per%20la%20sistemazione%20finanziaria%20dellindustria%20marmifera%20carrarese.%20033U0313.md), concernente la chiusura delle operazioni per la sistemazione finanziaria dell'industria marmifera carrarese. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nello specchio IV (indennita' per spese di alloggio) annesso al [R. decreto 19 aprile 1907, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-04-19;201), sono aggiunte, nel n. 4, le voci «ispettore capo dei servizi di commissariato militare», «ufficiale generale ispettore generale per l'aeronautica», e «ufficiale generale capo del servizio amministrativo dipendente dal Ministero per le armi e munizioni».
+Nello specchio IV (indennita' per spese di alloggio) annesso al [R. decreto 19 aprile 1907, n. 201](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), sono aggiunte, nel n. 4, le voci «ispettore capo dei servizi di commissariato militare», «ufficiale generale ispettore generale per l'aeronautica», e «ufficiale generale capo del servizio amministrativo dipendente dal Ministero per le armi e munizioni».
 
 ## Art. 2.
 

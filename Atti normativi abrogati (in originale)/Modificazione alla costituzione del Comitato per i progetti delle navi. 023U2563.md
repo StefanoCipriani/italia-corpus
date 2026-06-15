@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156), relativo alla costituzione ed alle attribuzioni dei Corpi consultivi della Regia marina e successive modificazioni;
+Visto il [R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), relativo alla costituzione ed alle attribuzioni dei Corpi consultivi della Regia marina e successive modificazioni;
 
 Sentito il Consiglio superiore di marina, il quale ha dato parere favorevole;
 
@@ -24,11 +24,11 @@ Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Nell'[articolo 9 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156#art_9), modificato con il [R. decreto 2 maggio 1920, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-02;643), le parole: «Il direttore generale civile capo della Direzione generale dei servizi amministrativi del Ministero della marina, membro ordinario » sono abrogate e sostituite dalle seguenti: «Un direttore generale civile dell'Amministrazione centrale della marina, membro ordinario».
+Nell'[articolo 9 del R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), modificato con il [R. decreto 2 maggio 1920, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-02;643), le parole: «Il direttore generale civile capo della Direzione generale dei servizi amministrativi del Ministero della marina, membro ordinario » sono abrogate e sostituite dalle seguenti: «Un direttore generale civile dell'Amministrazione centrale della marina, membro ordinario».
 
 ## Art. 2.
 
-L'[articolo 16 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156#art_16), modificato coli l'[articolo 3 del R. decreto-legge 12 luglio 1928, n. 1715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-07-12;1715#art_3), e' abrogato e sostituito dal seguente: 
+L'[articolo 16 del R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), modificato coli l'[articolo 3 del R. decreto-legge 12 luglio 1928, n. 1715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-07-12;1715#art_3), e' abrogato e sostituito dal seguente: 
  
  «Il Comitato dei progetti delle navi e' ripartito nei seguenti uffici: 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto-legge 28 dicembre 1924, n. 2101](Tasse%20portuali%20a%20Genova%20Napoli%20Venezia%20e%20Livorno.%20024U2101.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), con il quale viene imposta, dal 1° gennaio 1925, per la durata di 26 anni, una tassa per ogni tonnellata di merce imbarcata o sbarcata in alcuni porti del Regno fra i quali quello di Venezia, e ne viene determinata la misura;
+Visto il [R. decreto-legge 28 dicembre 1924, n. 2101](Tasse%20portuali%20a%20Genova%20Napoli%20Venezia%20e%20Livorno.%20024U2101.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), con il quale viene imposta, dal 1° gennaio 1925, per la durata di 26 anni, una tassa per ogni tonnellata di merce imbarcata o sbarcata in alcuni porti del Regno fra i quali quello di Venezia, e ne viene determinata la misura;
 
 Considerato che, con successivo provvedimento 31 marzo 1925 del Nostro Ministro Segretario di Stato per le finanze, vennero stabilite le quote di ripartizione del provento di detta tassa fra lo Stato, il Provveditorato al porto e il comune di Venezia;
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 dicembre 1926, n. 2373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2373), recante disposizioni circa l'autorizzazione delle linee di trasmissione dell'energia elettrica. 
+ E' convertito in legge il [R. decreto-legge 16 dicembre 1926, n. 2373](Disposizioni%20relative%20allautorizzazione%20delle%20linee%20di%20trasmissione%20dellenergia%20elettrica.%20026U2373.md), recante disposizioni circa l'autorizzazione delle linee di trasmissione dell'energia elettrica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

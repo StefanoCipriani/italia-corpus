@@ -60,7 +60,7 @@ Per provvedere al pagamento degli acconti e delle pensioni privilegiate di guerr
 
 ## Art. 7.
 
-Le funzioni di cassiere, oltre che ad impiegati dei ruoli del personale delle Delegazioni del tesoro e di gestione e controllo ai sensi dell'[art. 4 della legge 29 gennaio 1911, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-01-29;10#art_4), possono essere attribuite ad impiegati dei ruoli organici dell'Amministrazione centrale del tesoro.
+Le funzioni di cassiere, oltre che ad impiegati dei ruoli del personale delle Delegazioni del tesoro e di gestione e controllo ai sensi dell'[art. 4 della legge 29 gennaio 1911, n. 10](Che%20apporta%20modificazioni%20ad%20alcuni%20ruoli%20organici%20del%20personale%20del%20Ministero%20del%20tesoro%20e%20di%20uffici%20e%20aziende%20dipendenti.%20011U0010.md), possono essere attribuite ad impiegati dei ruoli organici dell'Amministrazione centrale del tesoro.
 
 ## Art. 8.
 

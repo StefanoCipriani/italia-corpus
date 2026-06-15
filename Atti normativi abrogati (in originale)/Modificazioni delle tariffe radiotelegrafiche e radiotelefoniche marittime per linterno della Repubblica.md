@@ -14,9 +14,9 @@ Visto l'art. 8 del codice postale e delle telecomunicazioni, approvato con [regi
 
 Visto il [decreto del Presidente della Repubblica 22 luglio 1965, n. 880](Nuove%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md);
 
-Visto il [decreto del Presidente della Repubblica 15 dicembre 1965, n. 1414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-15;1414);
+Visto il [decreto del Presidente della Repubblica 15 dicembre 1965, n. 1414](../DPR/Modificazioni%20ad%20alcune%20voci%20della%20tariffe%20postali%20e%20telegrafiche.md);
 
-Visto il [decreto del Presidente della Repubblica 2 agosto 1967, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-08-02;663);
+Visto il [decreto del Presidente della Repubblica 2 agosto 1967, n. 663](../DPR/Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md);
 
 Sentito il consiglio di amministrazione delle poste e delle telecomunicazioni;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Art. 1.
 
-La tabella n. 5, allegata al [decreto del Presidente della Repubblica 22 luglio 1965, n. 880](Nuove%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md), modificata dai [decreti del Presidente della Repubblica 15 dicembre 1965, numero 1414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-15;1414), e [2 agosto 1967, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-08-02;663), e' sostituita dalla seguente:
+La tabella n. 5, allegata al [decreto del Presidente della Repubblica 22 luglio 1965, n. 880](Nuove%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md), modificata dai [decreti del Presidente della Repubblica 15 dicembre 1965, numero 1414](../DPR/Modificazioni%20ad%20alcune%20voci%20della%20tariffe%20postali%20e%20telegrafiche.md), e [2 agosto 1967, n. 663](../DPR/Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md), e' sostituita dalla seguente:
 
  TABELLA N. 5 
  TARIFFE RADIOTELEGRAFICHE E RADIOTELEFONICHE MARITTIME

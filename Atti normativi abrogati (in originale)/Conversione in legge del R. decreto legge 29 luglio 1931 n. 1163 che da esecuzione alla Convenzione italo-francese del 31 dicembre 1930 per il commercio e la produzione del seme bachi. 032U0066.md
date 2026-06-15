@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 luglio 1931, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-29;1163), che da' esecuzione alla Convenzione stipulata in Parigi il 31 dicembre 1930 fra l'Italia e la Francia per la produzione ed il commercio del seme bachi. 
+ E' convertito in legge il [R. decreto-legge 29 luglio 1931, n. 1163](Esecuzione%20della%20Convenzione%20italo-francese%20per%20la%20produzione%20ed%20il%20commercio%20del%20seme%20bachi%20stipulata%20in%20Parigi%20il%2031%20dicembre%201930.%20031U1163.md), che da' esecuzione alla Convenzione stipulata in Parigi il 31 dicembre 1930 fra l'Italia e la Francia per la produzione ed il commercio del seme bachi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

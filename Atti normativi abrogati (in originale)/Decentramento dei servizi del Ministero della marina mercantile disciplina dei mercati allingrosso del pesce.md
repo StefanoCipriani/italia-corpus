@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Viste le [leggi 11 marzo 1953, n. 150 e 18 giugno 1954, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-06-18;343), concernenti delega legislativa al Governo per l'attribuzione di funzioni statali d'interesse esclusivamente locale alle Province ai Comuni e ad altri Enti locali e per l'attuazione del decentramento amministrativo;
+Viste le [leggi 11 marzo 1953, n. 150 e 18 giugno 1954, n. 343](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20del%20termine%20previsto%20dagli%20articoli%201%20e%208%20della%20legge%2011%20marzo%201953%20n.%20150%20per%20la%20delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20di%20interesse%20esclusivamente%20l_8fb8bdc361e6.md), concernenti delega legislativa al Governo per l'attribuzione di funzioni statali d'interesse esclusivamente locale alle Province ai Comuni e ad altri Enti locali e per l'attuazione del decentramento amministrativo;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Udito il parere della Commissione consultiva istituita con l'[art. 2 della legge 11 marzo 1953, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;150#art_2);
+Udito il parere della Commissione consultiva istituita con l'[art. 2 della legge 11 marzo 1953, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -33,8 +33,8 @@ Il [secondo comma dell'art. 3 della legge 12 luglio 1938, n. 1487](https://www.n
 ## Art. 3.
 
 L'[art. 4 della legge 12 luglio 1938, n. 1487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-07-12;1487#art_4), e' sostituito dal seguente:
- "Ogni mercato all'ingrosso del pesce e' disciplinato da un regolamento deliberato dal Consiglio comunale, udita la Commissione di cui all'[art. 1 della legge 20 giugno 1935, n. 1279](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-20;1279#art_1), e, previo parere della Commissione di cui all'art. 15, sottoposto alla approvazione della Giunta provinciale amministrativa, la quale puo' suggerire al Comune le modifiche e le aggiunte idonee a garantire unicita' di criteri nella disciplina dei mercati dei diversi Comuni della provincia.
- Il Ministro per la marina mercantile puo', con suo decreto, emanare nella suddetta materia, in qualunque momento, direttive di carattere generale, obbligatorie a sensi dell'[art. 4 della legge 11 marzo 1953, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;150#art_4)".
+ "Ogni mercato all'ingrosso del pesce e' disciplinato da un regolamento deliberato dal Consiglio comunale, udita la Commissione di cui all'[art. 1 della legge 20 giugno 1935, n. 1279](Nuove%20norme%20per%20la%20migliore%20disciplina%20dei%20mercati%20allingrosso%20del%20pesce.%20035U1279.md), e, previo parere della Commissione di cui all'art. 15, sottoposto alla approvazione della Giunta provinciale amministrativa, la quale puo' suggerire al Comune le modifiche e le aggiunte idonee a garantire unicita' di criteri nella disciplina dei mercati dei diversi Comuni della provincia.
+ Il Ministro per la marina mercantile puo', con suo decreto, emanare nella suddetta materia, in qualunque momento, direttive di carattere generale, obbligatorie a sensi dell'[art. 4 della legge 11 marzo 1953, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md)".
 
 ## Art. 4.
 

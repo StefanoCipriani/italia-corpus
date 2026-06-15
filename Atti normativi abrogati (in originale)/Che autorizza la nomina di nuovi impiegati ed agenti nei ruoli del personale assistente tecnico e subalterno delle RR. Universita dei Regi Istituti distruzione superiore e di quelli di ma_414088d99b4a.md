@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduto il Nostro decreto 18 novembre 1015 n. 1625, convertito nella [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774); 
+ Veduto il Nostro decreto 18 novembre 1015 n. 1625, convertito nella [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md); 
  
  Riconosciuta la necessita' di far cessare la sospensione delle nomine nei ruoli del personale assistente, tecnico e subalterno delle Universita' e degli Istituti d'istruzione superiore e degli Istituti superiori di magistero femminile; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- A datare dal 16 ottobre 1919 cessa di avere vigore la disposizione di cui alla [lettera a) dell'art. 1 del decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625#art_1-leta), convertito nella [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774), relativa alla sospensione delle nomine dei nuovi impiegati ed agenti, per quanto si riferisce al personale, assistente, tecnico e subalterno, delle RR. Universita', dei RR. Istituti distruzione superiore e dei RR. Istituti superiori di magistero femminile. 
+ A datare dal 16 ottobre 1919 cessa di avere vigore la disposizione di cui alla [lettera a) dell'art. 1 del decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625#art_1-leta), convertito nella [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md), relativa alla sospensione delle nomine dei nuovi impiegati ed agenti, per quanto si riferisce al personale, assistente, tecnico e subalterno, delle RR. Universita', dei RR. Istituti distruzione superiore e dei RR. Istituti superiori di magistero femminile. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

@@ -18,7 +18,7 @@ In virtu' dell'autorita' a noi delegata;
 
 Visti i decreti Ministeriali per la proroga delle scadenze cambiarie emanati ai sensi del [R. decreto-legge 15 novembre 1925, n. 2071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-15;2071), e del decreto legislativo Luogotenenziale. 20 agosto 1944, n. 175;
 
-Visti i [Regi decreti legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e [29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visti i [Regi decreti legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e [29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto l'art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, M. 151;
 

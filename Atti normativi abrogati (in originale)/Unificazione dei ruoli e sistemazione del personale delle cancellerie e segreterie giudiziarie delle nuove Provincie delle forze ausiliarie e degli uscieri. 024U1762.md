@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 16 giugno 1921, n. 1017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-06-16;1017);
+Visto il [R. decreto 16 giugno 1921, n. 1017](Concernente%20lassimilazione%20del%20personale%20degli%20Uffici%20giudiziari%20dei%20territori%20annessi%20assunto%20in%20servizio%20sotto%20il%20cessato%20regime%20a%20quello%20del%20Regno.%20021U1017.md);
 
-Visto il [R. decreto 24 settembre 1923, n. 2159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2159);
+Visto il [R. decreto 24 settembre 1923, n. 2159](Tabelle%20numeriche%20dei%20magistrati%20dei%20funzionari%20delle%20cancellerie%20e%20segreterie%20giudiziarie%20e%20degli%20uscieri%20addetti%20agli%20uffici%20giudiziari%20delle%20nuove%20provincie%20e%20norme%20di%20attuazione.%20023U2159.md);
 
-Visto il [R. decreto 24 settembre 1923, n. 2160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2160);
+Visto il [R. decreto 24 settembre 1923, n. 2160](Sistemazione%20del%20personale%20in%20servizio%20nelle%20cancellerie%20degli%20uffici%20giudiziari%20delle%20nuove%20province.%20023U2160.md);
 
-Visto l'[art. 4 del R. decreto 23 dicembre 1923, n. 2829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-23;2829#art_4);
+Visto l'[art. 4 del R. decreto 23 dicembre 1923, n. 2829](Estensione%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20al%20personale%20proveniente%20dai%20ruoli%20della%20cessata%20Amministrazione%20austro-ungarica.%20023U2829.md);
 
 Visto il [R. decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia 
 
 ## Art. 1.
 
-I funzionari di cancelleria e segreteria provenienti dalla cessata Amministrazione austriaca e collocati nell'elenco transitorio, ai sensi dell'[art. 6 del R. decreto 24 settembre 1923, n. 2160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2160#art_6), sono classificati nel gruppo e nei gradi del personale delle cancellerie e segreterie giudiziarie del Regno, indicati nell'allegato 1 del [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395). Essi saranno collocati anteriormente ai funzionari del Regno nel grado immediatamente inferiore alla classe di rango conseguita in base alle norme della prammatica di servizio austriaca (legge 25 gennaio 1914 B. L. I. n. 15) con l'anzianita' della classe stessa riconosciuta nell'elenco transitorio indicato nel precedente comma. 
+I funzionari di cancelleria e segreteria provenienti dalla cessata Amministrazione austriaca e collocati nell'elenco transitorio, ai sensi dell'[art. 6 del R. decreto 24 settembre 1923, n. 2160](Sistemazione%20del%20personale%20in%20servizio%20nelle%20cancellerie%20degli%20uffici%20giudiziari%20delle%20nuove%20province.%20023U2160.md), sono classificati nel gruppo e nei gradi del personale delle cancellerie e segreterie giudiziarie del Regno, indicati nell'allegato 1 del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). Essi saranno collocati anteriormente ai funzionari del Regno nel grado immediatamente inferiore alla classe di rango conseguita in base alle norme della prammatica di servizio austriaca (legge 25 gennaio 1914 B. L. I. n. 15) con l'anzianita' della classe stessa riconosciuta nell'elenco transitorio indicato nel precedente comma. 
  
  I funzionari della classe 11ª saranno collocati nel grado undicesimo dell'ordinamento del Regno, in progressione degli ultimi classificati e con l'anzianita' ad essi riconosciuta. 
  
@@ -38,7 +38,7 @@ I funzionari di cancelleria e segreteria provenienti dalla cessata Amministrazio
 
 ## Art. 2.
 
-I posti della tabella n. 17 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sono aumentati del numero corrispondente indicato nella tabella A annessa al presente decreto. 
+I posti della tabella n. 17 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono aumentati del numero corrispondente indicato nella tabella A annessa al presente decreto. 
  
  Il Ministro Guardasigilli potra', con suo decreto, determinare che siano riservati in ciascun grado i posti corrispondenti a quelli occorennti per la sistemazione del personale di cancelleria e segreteria in servizio negli uffici giudiziari di Fiume.
 
@@ -54,15 +54,15 @@ I funzionari collocati in un grado inferiore alla classe di rango ad essi ricono
 
 Avvenute le promozioni di cui al precedente articolo - che avranno la decorrenza dal 1° dicembre 1923 - i posti che risulteranno vacanti nei gradi 7°, 8°, 9° e 10° della tabella A annessa al presente decreto, saranno rispettivamente conferiti con le norme stabilite dagli [articoli 44](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), [46](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), [47](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md) e [163 del R. decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), salvo quanto e' disposto in appresso. 
  
- Agli effetti delle promozioni da conferire per merito comparativo nei vari gradi, le dette vacanze saranno comprese nel primo gruppo che dovra' essere coperto dopo la completa attuazione della tabella n. 17, allegato II, al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), intendendosi tali vacanze verificate dopo il 1° dicembre 1923. 
+ Agli effetti delle promozioni da conferire per merito comparativo nei vari gradi, le dette vacanze saranno comprese nel primo gruppo che dovra' essere coperto dopo la completa attuazione della tabella n. 17, allegato II, al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), intendendosi tali vacanze verificate dopo il 1° dicembre 1923. 
  
  Ai funzionari compresi nella graduatoria di merito comparativo formato a termine dell'[art. 155 del R. decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), per l'attuazione della ricordata tabella n. 17, allegato II, al R. decreto 11 novembre 1923, e che non poterono gia' conseguire il collocamento nel grado 8°, si applichera' la disposizione dell'art. 41, comma terzo, del R. decreto-legge 8 maggio 1924. 
  
- I posti del grado 7° saranno assegnati, in seguito a giudizio favorevole della Commissione centrale degli scrutinii, ai cancellieri e segretari capi collocati nel grado 8° in attuazione della suddetta tabella n. 17, allegato II, al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), ed in tale grado confermati in seguito a scrutinio della Commissione centrale. Qualora i detti funzionari non siano ritenuti meritevoli di promozioni, la Commissione centrale, secondo le norme dell'articolo 47 del R. decreto-legge 8 maggio 1924, procedera' allo scrutinio degli altri funzionari che hanno conseguito la promozione al grado 8° ai sensi dell'art. 155 del citato decreto, prescindendo dal requisito dell'anzianita' in quest'ultimo grado, a termine dell'art. 162 del decreto medesimo.
+ I posti del grado 7° saranno assegnati, in seguito a giudizio favorevole della Commissione centrale degli scrutinii, ai cancellieri e segretari capi collocati nel grado 8° in attuazione della suddetta tabella n. 17, allegato II, al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), ed in tale grado confermati in seguito a scrutinio della Commissione centrale. Qualora i detti funzionari non siano ritenuti meritevoli di promozioni, la Commissione centrale, secondo le norme dell'articolo 47 del R. decreto-legge 8 maggio 1924, procedera' allo scrutinio degli altri funzionari che hanno conseguito la promozione al grado 8° ai sensi dell'art. 155 del citato decreto, prescindendo dal requisito dell'anzianita' in quest'ultimo grado, a termine dell'art. 162 del decreto medesimo.
 
 ## Art. 5.
 
-Gli applicati giudiziarii, indicati nell'[art. 11 del R. decreto 24 settembre 1923, n. 2160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2160#art_11), sono classificati nei gradi 12° e 13° previsti per i funzionari del gruppo C nell'allegato I al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), per il personale delle carriere d'ordine comuni a tutte le Amministrazioni statali. 
+Gli applicati giudiziarii, indicati nell'[art. 11 del R. decreto 24 settembre 1923, n. 2160](Sistemazione%20del%20personale%20in%20servizio%20nelle%20cancellerie%20degli%20uffici%20giudiziari%20delle%20nuove%20province.%20023U2160.md), sono classificati nei gradi 12° e 13° previsti per i funzionari del gruppo C nell'allegato I al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), per il personale delle carriere d'ordine comuni a tutte le Amministrazioni statali. 
  
  In ciascuno dei gradi indicati, i posti sono stabiliti in conformita' della tabella B, annessa al presente decreto, sottoscritta, d'ordine Nostro, dal Ministro proponente. 
  
@@ -80,7 +80,7 @@ I posti che si renderanno vacanti, dopo l'attuazione del presente decreto, nel g
 
 ## Art. 8.
 
-Nella prima attuazione del presente decreto gli applicati giudiziari saranno collocati nei gradi 13° e 12° del gruppo C della tabella degli stipendi indicati nell'allegato III al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), con le norme seguenti. 
+Nella prima attuazione del presente decreto gli applicati giudiziari saranno collocati nei gradi 13° e 12° del gruppo C della tabella degli stipendi indicati nell'allegato III al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), con le norme seguenti. 
  
  I sottoimpiegati saranno collocati nel grado 13° con anzianita' dalla nomina a sottoimpiegato; gli aiuti e gli officianti di cancelleria saranno collocati nell'istesso grado con l'anzianita' complessiva di servizio. 
  
@@ -89,13 +89,13 @@ L'anzianita' nel grado sara' calcolata dalla data di promozione.
 
 ## Art. 9.
 
-Il personale subalterno, proveniente dalla cessata Amministrazione austriaca ed indicato nell'[art. 13 del R. decreto 24 settembre 1923, n. 2160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2160#art_13), sara' distribuito nei gradi di usciere ed usciere capo, in conformita' della tabella n. 15 prevista per gli uscieri giudiziari nell'allegato IV del [Regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395). 
+Il personale subalterno, proveniente dalla cessata Amministrazione austriaca ed indicato nell'[art. 13 del R. decreto 24 settembre 1923, n. 2160](Sistemazione%20del%20personale%20in%20servizio%20nelle%20cancellerie%20degli%20uffici%20giudiziari%20delle%20nuove%20province.%20023U2160.md), sara' distribuito nei gradi di usciere ed usciere capo, in conformita' della tabella n. 15 prevista per gli uscieri giudiziari nell'allegato IV del [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Per ciascun grado i posti sono stabiliti nella tabella C annessa al presente decreto, sottoscritta, d'ordine Nostro, dal Ministro proponente. 
  
  La unificazione dell'elenco transitorio, previsto nell'articolo 12 del Regio decreto succitato, col ruolo generale degli uscieri giudiziari del Regno, sara' attuata con le norme stabilite nell'art. 11 del presente decreto. 
  
- Correlativamente resteranno unificate la tabella n. 15 dell'allegato IV al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e la tabella C annessa al presente decreto.
+ Correlativamente resteranno unificate la tabella n. 15 dell'allegato IV al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e la tabella C annessa al presente decreto.
 
 ## Art. 10.
 
@@ -103,13 +103,13 @@ Ai fini dell'assegnazione degli stipendi al personale subalterno, indicato nell'
 
 ## Art. 11.
 
-Gli uscieri ed uscieri capi provenienti dalla cessata Amministrazione austriaca e indicati nei precedenti articoli 9 e 10 saranno collocati nel grado corrispondente del ruolo generale, rispettivamente secondo l'ordine di anzianita' dalla data di assunzione o di promozione dopo l'ultimo nominato o promosso in ciascun anno nello stesso ruolo generale. Gli uscieri provenienti dalla cessata Amministrazione austriaca non potranno pero' avere la precedenza sugli uscieri giudiziari nominati in virtu' dell'[art. 29 del R. decreto-legge 3 settembre 1911, n. 1283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1911-09-03;1283#art_29), e gli uscieri capi provenienti dall'anzidetta Amministrazione non potranno avere la precedenza sul personale dello stesso grado del ruolo del Regno, nominato in virtu' delle disposizioni transitorie dell'ultimo comma dell'[art. 6 del R. decreto 25 marzo 1920, n. 747](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-03-25;747#art_6). 
+Gli uscieri ed uscieri capi provenienti dalla cessata Amministrazione austriaca e indicati nei precedenti articoli 9 e 10 saranno collocati nel grado corrispondente del ruolo generale, rispettivamente secondo l'ordine di anzianita' dalla data di assunzione o di promozione dopo l'ultimo nominato o promosso in ciascun anno nello stesso ruolo generale. Gli uscieri provenienti dalla cessata Amministrazione austriaca non potranno pero' avere la precedenza sugli uscieri giudiziari nominati in virtu' dell'[art. 29 del R. decreto-legge 3 settembre 1911, n. 1283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1911-09-03;1283#art_29), e gli uscieri capi provenienti dall'anzidetta Amministrazione non potranno avere la precedenza sul personale dello stesso grado del ruolo del Regno, nominato in virtu' delle disposizioni transitorie dell'ultimo comma dell'[art. 6 del R. decreto 25 marzo 1920, n. 747](Che%20estende%20il%20sistema%20dei%20ruoli%20aperti%20al%20personale%20degli%20uscieri%20giudiziari.%20020U0747.md). 
  
- Resta fermo il disposto del [2°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2160#art_com2), [3°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2160#art_com3) e [4° comma del R. decreto 24 settembre 1923, n. 2160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2160#art_com4), salva la modificazione stabilita dal [R. decreto-legge 2 marzo 1924, n. 319](Indennita%20di%20licenziamento%20agli%20avventizi%20che%20siano%20allontanati.%20dallAmministrazione%20dello%20Stato%20per%20diminuite%20esigenze%20dei%20servizi.%20024U0319.md), relativamente alla indennita' di licenziamento agli avventizi.
+ Resta fermo il disposto del [2°](Sistemazione%20del%20personale%20in%20servizio%20nelle%20cancellerie%20degli%20uffici%20giudiziari%20delle%20nuove%20province.%20023U2160.md), [3°](Sistemazione%20del%20personale%20in%20servizio%20nelle%20cancellerie%20degli%20uffici%20giudiziari%20delle%20nuove%20province.%20023U2160.md) e [4° comma del R. decreto 24 settembre 1923, n. 2160](Sistemazione%20del%20personale%20in%20servizio%20nelle%20cancellerie%20degli%20uffici%20giudiziari%20delle%20nuove%20province.%20023U2160.md), salva la modificazione stabilita dal [R. decreto-legge 2 marzo 1924, n. 319](Indennita%20di%20licenziamento%20agli%20avventizi%20che%20siano%20allontanati.%20dallAmministrazione%20dello%20Stato%20per%20diminuite%20esigenze%20dei%20servizi.%20024U0319.md), relativamente alla indennita' di licenziamento agli avventizi.
 
 ## Art. 12.
 
-Per la risoluzione dei reclami relativi alla sistemazione economica del personale indicato nel presente decreto si osservano le norme di cui agli [articoli 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-18;440#art_25) e [26 del R. decreto 18 febbraio 1923, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-18;440#art_26).
+Per la risoluzione dei reclami relativi alla sistemazione economica del personale indicato nel presente decreto si osservano le norme di cui agli [articoli 25](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md) e [26 del R. decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md).
 
 ## Art. 13.
 

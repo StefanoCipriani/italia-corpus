@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Ritenuta la necessita' di inscrivere nello stato di previsione del Ministero del tesoro per l'esercizio finanziario 1915-916 ulteriori fondi per spese d'interessi sui buoni del tesoro quinquennali essendosi verificati versamenti di cedole di buoni medesimi per pagamento di imposte dirette in misura superiore a quella presunta;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Udito il Consiglio dei ministri;
 

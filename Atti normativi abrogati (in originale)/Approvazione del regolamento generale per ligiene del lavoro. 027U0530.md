@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [decreto-legge Luogotenenziale 15 maggio 1919, n. 818](Che%20detta%20norme%20per%20la%20compilazione%20del%20regolamento%20generale%20e%20di%20quelli%20speciali%20circa%20ligiene%20del%20lavoro%20stabilendo%20inoltre%20le%20penalita%20per%20le%20contravvenzioni%20ai%20regolamenti%20medesimi.%20019U0818.md), convertito in legge con la [legge 17 aprile 1925, numero 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e concernente la compilazione del regolamento generale e di quelli speciali circa la igiene del lavoro nonche' le penalita' per le trasgressioni ai regolamenti stessi; 
+ Visto il [decreto-legge Luogotenenziale 15 maggio 1919, n. 818](Che%20detta%20norme%20per%20la%20compilazione%20del%20regolamento%20generale%20e%20di%20quelli%20speciali%20circa%20ligiene%20del%20lavoro%20stabilendo%20inoltre%20le%20penalita%20per%20le%20contravvenzioni%20ai%20regolamenti%20medesimi.%20019U0818.md), convertito in legge con la [legge 17 aprile 1925, numero 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e concernente la compilazione del regolamento generale e di quelli speciali circa la igiene del lavoro nonche' le penalita' per le trasgressioni ai regolamenti stessi; 
  
  Visto lo schema di regolamento generale predisposto dalla Commissione all'uopo nominata in conformita' del decreto-legge precitato; 
  

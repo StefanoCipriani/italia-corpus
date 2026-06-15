@@ -36,13 +36,13 @@ Agli agenti scopritori compete, sul prodotto netto delle contravvenzioni, una pe
 
 ## Art. 3.
 
-La fabbricazione delle marche per il versamento dei contributi assicurativi, di cui all'[art. 33 del decreto-legge 19 ottobre 1919, n. 2214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-10-19;2214#art_33), e' riservata all'Ufficio nazionale per il collocamento e la disoccupazione. Tali marche sono considerate ad ogni effetto di legge carte-valori e di pubblico credito ai sensi dell'[art. 263 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_263). 
+La fabbricazione delle marche per il versamento dei contributi assicurativi, di cui all'[art. 33 del decreto-legge 19 ottobre 1919, n. 2214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-10-19;2214#art_33), e' riservata all'Ufficio nazionale per il collocamento e la disoccupazione. Tali marche sono considerate ad ogni effetto di legge carte-valori e di pubblico credito ai sensi dell'[art. 263 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  E' pure riservata allo stesso Ufficio nazionale la fabbricazione delle tessere speciali per l'assicurazione contro la disoccupazione involontaria, ad eccezione delle tessere che fossero autorizzate ad emettere le Casse professionali di assicurazione obbligatoria contro la disoccupazione.
 
 ## Art. 4.
 
-Chiunque contraffa' le marche per il versamento dei contributi o scientemente fa uso di marche contraffatte od alterate o gia' utilizzate, oppure le pone in vendita od altrimenti le mette in circolazione, ovvero fabbrica o detiene rami od altri strumenti atti alla contraffazione, soggiace alle pene stabilite nel libro II, titolo VI, cap. 1° del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+Chiunque contraffa' le marche per il versamento dei contributi o scientemente fa uso di marche contraffatte od alterate o gia' utilizzate, oppure le pone in vendita od altrimenti le mette in circolazione, ovvero fabbrica o detiene rami od altri strumenti atti alla contraffazione, soggiace alle pene stabilite nel libro II, titolo VI, cap. 1° del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Chiunque contraffa' od altera le tessere speciali per l'assicurazione contro la disoccupazione involontaria o scientemente fa uso di tessere contraffatte od alterate, o le pone in vendita, od altrimenti in circolazione, e' punito con la multa da L. 500 a 2000.
 

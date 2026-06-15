@@ -40,7 +40,7 @@ L'Ispettorato e' costituito da un ufficio amministrativo e da una sezione di rag
  
  Il capo dell'ufficio amministrativo sostituisce nella direzione dell'Ispettorato il titolare precariamente assente. 
  
- Durante l'incarico, il capo dell'Ispettorato, l'ispettore superiore del Genio civile, addetto al Comitato tecnico-amministrativo di cui all'art. 5 del presente decreto e i funzionari preposti all'ufficio amministrativo ed alla sezione di ragioneria, sono surrogati nel ruolo con le garanzie di cui al [R. decreto 30 dicembre 1923, n. 2958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2958).
+ Durante l'incarico, il capo dell'Ispettorato, l'ispettore superiore del Genio civile, addetto al Comitato tecnico-amministrativo di cui all'art. 5 del presente decreto e i funzionari preposti all'ufficio amministrativo ed alla sezione di ragioneria, sono surrogati nel ruolo con le garanzie di cui al [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md).
 
 ## Art. 4.
 
@@ -120,7 +120,7 @@ L'Ispettorato istruisce le domande per il riconoscimento dei caratteri e della o
 
 ## Art. 12.
 
-L'Ispettorato esercita dai consorzi amministrativi l'attivita' di cui all'[art. 14 lettere f)](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md), [g)](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md), [h), della legge 5 maggio 1907, n. 257](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md), modificata dalla [legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md), e dal [R. decreto 31 dicembre 1923, n. 3228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3228), nei limiti della competenza per materia.
+L'Ispettorato esercita dai consorzi amministrativi l'attivita' di cui all'[art. 14 lettere f)](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md), [g)](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md), [h), della legge 5 maggio 1907, n. 257](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md), modificata dalla [legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md), e dal [R. decreto 31 dicembre 1923, n. 3228](Disposizioni%20sullordinamento%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20023U3228.md), nei limiti della competenza per materia.
 
 ## Art. 13.
 

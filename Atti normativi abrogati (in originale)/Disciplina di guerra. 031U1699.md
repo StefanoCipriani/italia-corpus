@@ -100,7 +100,7 @@ b) fuori dell'ufficio:
 
 ### Art. 12. — Abbandono del servizio da parte dei dipendenti statali; inadempimento di incarichi; sanzioni.
 
-In caso di mobilitazione civile, l'abbandono del servizio, per oltre cinque giorni, da parte dei dipendenti statali - sia di ruolo che assunti temporaneamente - e' punito con la pena stabilita dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare per il reato di diserzione in tempo di pace. 
+In caso di mobilitazione civile, l'abbandono del servizio, per oltre cinque giorni, da parte dei dipendenti statali - sia di ruolo che assunti temporaneamente - e' punito con la pena stabilita dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il reato di diserzione in tempo di pace. 
  La stessa pena si applica al dipendente ammesso a dispensa o a ritardo dal richiamo alle armi per mobilitazione, che abbandona il servizio per oltre 24 ore. 
  Alla pena di cui al primo comma soggiacciono anche le persone che, avendo ricevuto un incarico dallo Stato, volontariamente si sottraggono all'incarico stesso.
 
@@ -108,7 +108,7 @@ In caso di mobilitazione civile, l'abbandono del servizio, per oltre cinque gior
 
 La condizione di mobilitato civile comporta in confronto delle persone appartenenti o dipendenti dalle associazioni ed enti pubblici e privati: 
 a) l'aggravamento degli ordinari provvedimenti disciplinari per le infrazioni ai regolamenti interni, elevando di un grado, od anche di piu' gradi in caso di speciale gravita', le punizioni stabilite dai regolamenti stessi; 
- b) l'applicabilita' della pena stabilita dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare per il reato di diserzione in tempo di pace nel caso di abbandono del servizio per oltre cinque giorni, o per oltre 24 ore se trattisi di dispensati, ammessi a ritardo od esonerati dal richiamo alle armi per mobilitazione.
+ b) l'applicabilita' della pena stabilita dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il reato di diserzione in tempo di pace nel caso di abbandono del servizio per oltre cinque giorni, o per oltre 24 ore se trattisi di dispensati, ammessi a ritardo od esonerati dal richiamo alle armi per mobilitazione.
 
 ### Art. 14. — Revoca della dispensa, ammissione a ritardo od esonerazione in caso di condanna.
 
@@ -127,7 +127,7 @@ Chiunque, appartenendo ad un ente mobilitato ed avendone l'obbligo, ometta di no
 
 ### Art. 17. — Mancanza alla chiamata per mobilitazione civile. Sanzioni.
 
-Chiunque, chiamato a senso dell'ultimo comma dell'articolo 9, non si presenta entro cinque giorni dopo quello stabilito, e' punito con la pena stabilita dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare per il reato di diserzione in tempo di pace.
+Chiunque, chiamato a senso dell'ultimo comma dell'articolo 9, non si presenta entro cinque giorni dopo quello stabilito, e' punito con la pena stabilita dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il reato di diserzione in tempo di pace.
 
 ### Art. 18.
 
@@ -141,7 +141,7 @@ Incompatibilita' della condizione di mobilitato civile col servizio alle armi.
 I mobilitati civili chiamati o richiamati in servizio militare, i quali, presentatisi alle armi, non vengano, per qualsiasi motivo, incorporati, riacquistano senz'altro la condizione di mobilitati civili. 
  Essi devono presentarsi all'ente od associazione, cui appartenevano o da cui dipendevano all'atto della chiamata o del richiamo alle armi, entro dieci giorni da quello in cui sono stati lasciati liberi dall'autorita' militare. 
  Il termine e' pero' di 24 ore se l'ente od associazione di cui sopra ha sede nello stesso Comune in cui risiede l'autorita' militare predetta. 
- Coloro che non ottemperino all'obbligo anzidetto sono puniti con la reclusione da sei mesi ad un anno; e se non si presentino neppure entro i cinque giorni successivi alla scadenza dei termini come sopra rispettivamente fissati, sono puniti con la pena stabilita dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare per il reato di diserzione in tempo di pace.
+ Coloro che non ottemperino all'obbligo anzidetto sono puniti con la reclusione da sei mesi ad un anno; e se non si presentino neppure entro i cinque giorni successivi alla scadenza dei termini come sopra rispettivamente fissati, sono puniti con la pena stabilita dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il reato di diserzione in tempo di pace.
 
 ### Art. 20.
 
@@ -206,12 +206,12 @@ Capo V.
 ### Art. 30. — Assoggettamento alla giurisdizione penale militare; applicazione delle pene militari agli aventi obblighi militari.
 
 Tutte le persone, di qualunque sesso e di qualunque eta', appartenenti o dipendenti dagli stabilimenti statali di produzione per la guerra e dagli stabilimenti privati mobilitati sono soggette alla giurisdizione dei tribunali militari. 
- Sono sostituite, per quelle tra le dette persone che abbiano obblighi di servizio militare, alle pene comuni le pene militari secondo il conguaglio fissato dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare. 
- Alle persone di eta' inferiore ai 18 anni competono le diminuzioni di pena ed i benefici previsti dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) approvato con [Regio decreto 19 ottobre 1930, n. 1398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ Sono sostituite, per quelle tra le dette persone che abbiano obblighi di servizio militare, alle pene comuni le pene militari secondo il conguaglio fissato dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
+ Alle persone di eta' inferiore ai 18 anni competono le diminuzioni di pena ed i benefici previsti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) approvato con [Regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 31. — Abbandono del servizio - Sanzioni.
 
-Chiunque, appartenendo al personale di uno degli stabilimenti di cui all'articolo precedente, si assenta senza autorizzazione dallo stabilimento, per oltre cinque giorni, ovvero, essendone regolarmente assente, non vi rientra, senza legittimo motivo, nei cinque giorni successivi a quello prefissogli, e' punito con la pena stabilita dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare per il reato di diserzione in tempo di pace. 
+Chiunque, appartenendo al personale di uno degli stabilimenti di cui all'articolo precedente, si assenta senza autorizzazione dallo stabilimento, per oltre cinque giorni, ovvero, essendone regolarmente assente, non vi rientra, senza legittimo motivo, nei cinque giorni successivi a quello prefissogli, e' punito con la pena stabilita dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il reato di diserzione in tempo di pace. 
  La stessa pena si applica al dispensato, ammesso a ritardo od esonerato dal richiamo alle armi per mobilitazione, che indebitamente si assenta dallo stabilimento per oltre 24 ore o non vi rientra nello stesso termine.
 
 ### Art. 32. — Violenza a superiori nella gerarchia tecnica - Sanzioni.
@@ -293,7 +293,7 @@ Chi, avendone l'obbligo, non ottempera fino dal tempo di pace al disposto dell'u
 
 ### Art. 45. — Infrazioni alle norme sulle requisizioni - Sanzioni.
 
-Nel regolamento sulle requisizioni, prevedute dall'[articolo 10 della legge 8 giugno 1925, n. 969](Organizzazione%20della%20Nazione%20per%20la%20guerra.%20025U0969.md), potranno essere stabilite, per la violazione delle norme contenute nel regolamento medesimo, le pene dell'arresto e dell'ammenda entro i limiti fissati nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) approvato con [Regio decreto 19 ottobre 1930, n. 1398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+Nel regolamento sulle requisizioni, prevedute dall'[articolo 10 della legge 8 giugno 1925, n. 969](Organizzazione%20della%20Nazione%20per%20la%20guerra.%20025U0969.md), potranno essere stabilite, per la violazione delle norme contenute nel regolamento medesimo, le pene dell'arresto e dell'ammenda entro i limiti fissati nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) approvato con [Regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  Le pene suddette potranno essere stabilite congiuntamente o separatamente.
 
 ### Art. 46. — Contravvenzioni alle disposizioni sui censimenti ordinati ai fini dell'organizzazione della Nazione per la guerra. Sanzioni.
@@ -312,7 +312,7 @@ Capo VII.
 
 Mutilazione o simulazione di infermita' - Sanzioni. 
  
- Coloro che, al fine di esimersi dagli obblighi della mobilitazione civile, si siano procacciati infermita' o mutilazioni, od abbiano simulato infermita', nonche' coloro che se ne siano resi complici, sono soggetti alla giurisdizione dei tribunali militari e puniti con le stesse pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare per la mutilazione volontaria in tempo di pace, salvo il conguaglio della pena per coloro che non abbiano obblighi di servizio militare.
+ Coloro che, al fine di esimersi dagli obblighi della mobilitazione civile, si siano procacciati infermita' o mutilazioni, od abbiano simulato infermita', nonche' coloro che se ne siano resi complici, sono soggetti alla giurisdizione dei tribunali militari e puniti con le stesse pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per la mutilazione volontaria in tempo di pace, salvo il conguaglio della pena per coloro che non abbiano obblighi di servizio militare.
 
 ## Del concorso di più persone nei reati attinenti alla disciplina di guerra.
 
@@ -328,7 +328,7 @@ Capo IX.
 
 ### Art. 50. — Sostituzione delle pene comuni alle militari.
 
-Nei casi di cui agli articoli 12, 13, 17, 19, 21 e 29, se il colpevole non abbia obblighi di servizio militare, alle pene militari sono sostituite le pene comuni secondo il conguaglio fissato dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare.
+Nei casi di cui agli articoli 12, 13, 17, 19, 21 e 29, se il colpevole non abbia obblighi di servizio militare, alle pene militari sono sostituite le pene comuni secondo il conguaglio fissato dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare.
 
 ### Art. 51. — Smobilitazione civile collettiva e individuale.
 

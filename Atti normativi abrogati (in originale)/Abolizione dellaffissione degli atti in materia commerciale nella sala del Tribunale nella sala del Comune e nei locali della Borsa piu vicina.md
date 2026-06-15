@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto legge 2 dicembre 1935, n. 2134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-02;2134);
+Visto il [R. decreto legge 2 dicembre 1935, n. 2134](Norme%20per%20semplificare%20la%20pubblicazione%20degli%20atti%20delle%20societa%20commerciali.%20035U2134.md);
 
 Visto l'art. 100 delle disposizioni transitorie e di attuazione del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) approvate con [R. decreto 30 marzo 1942, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;318);
 
@@ -30,7 +30,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Articolo unico.
 
-L'abolizione dell'affissione nella sala del Tribunale, nella sala del Comune e nei locali della Borsa piu' vicina, disposta dall'[art. 2 del R. decreto-legge 2 dicembre 1935, n. 2134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-02;2134#art_2), si intende estesa a tutti gli atti per i quali il primo comma dell'art. 100 delle disposizioni transitorie e di attuazione del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) prescrive che siano temporaneamente osservate le forme di pubblicita' previste dalle leggi anteriori al Codice medesimo.
+L'abolizione dell'affissione nella sala del Tribunale, nella sala del Comune e nei locali della Borsa piu' vicina, disposta dall'[art. 2 del R. decreto-legge 2 dicembre 1935, n. 2134](Norme%20per%20semplificare%20la%20pubblicazione%20degli%20atti%20delle%20societa%20commerciali.%20035U2134.md), si intende estesa a tutti gli atti per i quali il primo comma dell'art. 100 delle disposizioni transitorie e di attuazione del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) prescrive che siano temporaneamente osservate le forme di pubblicita' previste dalle leggi anteriori al Codice medesimo.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

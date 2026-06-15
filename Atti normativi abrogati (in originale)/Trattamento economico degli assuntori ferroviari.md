@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
-Visto l'[art. 13 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722#art_13);
+Visto l'[art. 13 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md);
 
 Vista, la deliberazione del Consiglio dei Ministri;
 
@@ -37,7 +37,7 @@ La retribuzione mensile fissa sara' determinata, prendendo come base la retribuz
 
 ## Art. 4.
 
-L'indennita' di carovita sara' determinata e variata in base alle norme del [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722) e successive modificazioni, salvo quanto disposto nei comma seguenti.
+L'indennita' di carovita sara' determinata e variata in base alle norme del [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md) e successive modificazioni, salvo quanto disposto nei comma seguenti.
  Per coloro che prestino servizio per meno di otto ore giornaliere, l'indennita' di carovita sara' ridotta a tanti ottavi quante sono le ore di servizio prestate, contando per ora intera le frazioni superiori a mezz'ora e trascurando quelle inferiori.
  Per coloro che prestino servizio discontinuo, le prestazioni ai fini della determinazione dell'indennita' di carovita, saranno ragguagliate a giornata, dividendo il numero presumibile di ore di servizio da prestarsi in un anno per 300.
  Se il servizio prestato non supera le quattro ore giornaliere, la indennita' di carovita non potra' eccedere l'importo della retribuzione e non sara' soggetta a variazione.
@@ -45,7 +45,7 @@ L'indennita' di carovita sara' determinata e variata in base alle norme del [dec
 ## Art. 5.
 
 Le disposizioni degli articoli precedenti saranno applicate anche per la determinazione dei compensi da corrispondersi ai coadiutori e dipendenti degli assuntori.
- L'indennita' di carovita, peraltro, sara' determinata nei loro confronti nella misura di L. 4000 mensili lorde salvo gli aumenti e le diminuzioni di cui all'art. 5 di detto [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722) e successive modificazioni, e salvo l'applicazione del precedente art. 4.
+ L'indennita' di carovita, peraltro, sara' determinata nei loro confronti nella misura di L. 4000 mensili lorde salvo gli aumenti e le diminuzioni di cui all'art. 5 di detto [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md) e successive modificazioni, e salvo l'applicazione del precedente art. 4.
 
 ## Art. 6.
 

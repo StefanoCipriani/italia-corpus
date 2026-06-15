@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 gennaio 1926, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-07;161), concernente il trattamento di previdenza per il personale del Sindacato obbligatorio siciliano di mutua assicurazione, per gli infortuni sul lavoro nelle miniere di zolfo della Sicilia. 
+ E' convertito in legge il [R. decreto-legge 7 gennaio 1926, n. 161](Trattamento%20di%20previdenza%20del%20personale%20del%20Sindacato%20obbligatorio%20siciliano%20infortuni.%20026U0161.md), concernente il trattamento di previdenza per il personale del Sindacato obbligatorio siciliano di mutua assicurazione, per gli infortuni sul lavoro nelle miniere di zolfo della Sicilia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 febbraio 1929, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-02-28;331), contenente norme pel riconoscimento dei diplomi di ingegnere conseguiti all'estero, con le seguenti modificazioni: all'art. 2, comma 1°, alle parole: «docenti negli istituti superiori» sostituire: «professori di ruolo stabili negli istituti superiori»; alle parole «nominati dal Ministro per i lavori pubblici» aggiungere: «su designazione del Sindacato nazionale ingegneri e architetti», e alle parole: «nell'albo degli ingegneri» sostituire: «nei rispettivi albi». 
+ E' convertito in legge il [R. decreto-legge 28 febbraio 1929, n. 331](Norme%20per%20il%20riconoscimento%20dei%20diplomi%20dingegnere%20conseguiti%20allestero.%20029U0331.md), contenente norme pel riconoscimento dei diplomi di ingegnere conseguiti all'estero, con le seguenti modificazioni: all'art. 2, comma 1°, alle parole: «docenti negli istituti superiori» sostituire: «professori di ruolo stabili negli istituti superiori»; alle parole «nominati dal Ministro per i lavori pubblici» aggiungere: «su designazione del Sindacato nazionale ingegneri e architetti», e alle parole: «nell'albo degli ingegneri» sostituire: «nei rispettivi albi». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

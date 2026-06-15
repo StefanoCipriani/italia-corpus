@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il capoverso dell'[art. 18 del R. decreto 28 giugno 1923, n. 1890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-28;1890#art_18), col quale si affida ai procuratori generali presso le Corti di appello di assegnare e trasferire gli agenti di sustodia nell'ambito dei singoli distretti;
+Visto il capoverso dell'[art. 18 del R. decreto 28 giugno 1923, n. 1890](Norme%20circa%20lamministrazione%20delle%20carceri%20e%20dei%20riformatori%20e%20gli%20agenti%20di%20custodia.%20023U1890.md), col quale si affida ai procuratori generali presso le Corti di appello di assegnare e trasferire gli agenti di sustodia nell'ambito dei singoli distretti;
 
 Ritenuta la necessita' di abrogare la disposizione suddetta, tenuto conto dei gravi inconvenienti a cui essa da' luogo nella sua applicazione;
 
-Visto il [R. decreto 23 dicembre 1920, n. 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-23;1921), che approva il regolamento per il corpo degli agenti di custodia;
+Visto il [R. decreto 23 dicembre 1920, n. 1921](Che%20approva%20il%20regolamento%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20020U1921.md), che approva il regolamento per il corpo degli agenti di custodia;
 
 Sentito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia 
 
 ## Articolo unico.
 
-E' abrogato il capoverso dell'[art. 18 del R. decreto 28 giugno 1923, n. 1890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-28;1890#art_18). 
+E' abrogato il capoverso dell'[art. 18 del R. decreto 28 giugno 1923, n. 1890](Norme%20circa%20lamministrazione%20delle%20carceri%20e%20dei%20riformatori%20e%20gli%20agenti%20di%20custodia.%20023U1890.md). 
  
  Il presente decreto andra' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. 
  

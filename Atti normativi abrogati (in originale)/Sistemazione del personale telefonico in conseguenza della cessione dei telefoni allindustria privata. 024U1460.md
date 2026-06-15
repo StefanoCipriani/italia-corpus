@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto n. 399 dell'8 febbraio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;399), modificato dal [R. decreto-legge n. 837 del 4 maggio 1924](Modificazioni%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%20399%20e%2010%20settembre%201923%20n.%201988%20relativi%20alla%20facolta%20di%20concedere%20ad%20Enti%20pubblici%20a%20societa%20od%20a%20privati%20lesercizio%20degli%20impianti%20telef_33d4d4429072.md);
+Visto il [R. decreto n. 399 dell'8 febbraio 1923](Che%20reca%20le%20disposizioni%20che%20conferiscono%20la%20facolta%20al%20Governo%20di%20concedere%20a%20Enti%20pubblici%20a%20Societa%20o%20a%20privati%20lesercizio%20di%20impianti%20telefonici%20di%20Stato.%20023U0399.md), modificato dal [R. decreto-legge n. 837 del 4 maggio 1924](Modificazioni%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%20399%20e%2010%20settembre%201923%20n.%201988%20relativi%20alla%20facolta%20di%20concedere%20ad%20Enti%20pubblici%20a%20societa%20od%20a%20privati%20lesercizio%20degli%20impianti%20telef_33d4d4429072.md);
 
-Visto il [R. decreto n. 2395 dell'11 novembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e successive modificazioni;
+Visto il [R. decreto n. 2395 dell'11 novembre 1923](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Visto il [R. decreto n. 2960 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni;
 
-Visto il [R. decreto 21 novembre 1923, n. 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-21;2480), e successive modificazioni;
+Visto il [R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 

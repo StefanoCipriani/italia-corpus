@@ -25,7 +25,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-12;2167), contenente modificazioni alla tariffa degli onorari e diritti accessori spettanti ai notari e agli archivi notarili. 
+ E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2167](Modificazioni%20alla%20tariffa%20degli%20onorari%20e%20diritti%20accessori%20spettanti%20ai%20notari%20e%20agli%20archivi%20notarili.%20026U2167.md), contenente modificazioni alla tariffa degli onorari e diritti accessori spettanti ai notari e agli archivi notarili. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

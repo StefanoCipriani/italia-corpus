@@ -20,7 +20,7 @@ Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Visto il [R. decreto-legge 16 marzo 1933, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-16;344);
+Visto il [R. decreto-legge 16 marzo 1933, n. 344](Disposizioni%20relative%20allingresso%20ai%20monumenti%20ai%20musei%20alle%20gallerie%20e%20agli%20scavi%20dantichita%20delle%20Stato.%20033U0344.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

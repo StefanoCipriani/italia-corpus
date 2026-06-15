@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Viste le [leggi 19 luglio 1909, n. 528, e 27 aprile 1918, n. 465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-04-27;465);
 
-Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738);
+Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md);
 
 Udito il Consiglio dei ministri;
 
@@ -38,7 +38,7 @@ Lo stanziamento del capitolo n. 110 «Rimborsi e concorsi dipendenti da spese or
 
 ## Art. 3.
 
-A termini degli [articoli 4 della legge 19 luglio 1909, n. 528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;528#art_4), e 6 della [legge 27 aprile 1916, n. 465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-27;465), il Governo del Re e' autorizzato ad apportare, con decorrenza dal 1° gennaio 1917, le seguenti variazioni alle tabelle organiche del personale dipendente dall'Amministrazione dei telefoni dello Stato: 
+A termini degli [articoli 4 della legge 19 luglio 1909, n. 528](Che%20approva%20lorganico%20della%20direzione%20generale%20dei%20telefoni.%20009U0528.md), e 6 della [legge 27 aprile 1916, n. 465](Che%20porta%20semplificazioni%20nel%20ruolo%20organico%20della%20Direzione%20generale%20dei%20telefoni.%20016U0465.md), il Governo del Re e' autorizzato ad apportare, con decorrenza dal 1° gennaio 1917, le seguenti variazioni alle tabelle organiche del personale dipendente dall'Amministrazione dei telefoni dello Stato: 
  
  Tabella C quadro III da n. 105 a n. 250. 
  

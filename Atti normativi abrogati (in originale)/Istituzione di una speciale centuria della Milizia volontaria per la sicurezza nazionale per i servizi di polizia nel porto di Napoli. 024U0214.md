@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 25 marzo 1923, n. 1810](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;1810), che stabilisce le attribuzioni del Regio commissario per il porto di Napoli;
 
-Visto il [R. decreto 14 gennaio 1923, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-14;31), col quale e' Stata istituita la Milizia volontaria per la sicurezza nazionale, e successive disposizioni;
+Visto il [R. decreto 14 gennaio 1923, n. 31](Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), col quale e' Stata istituita la Milizia volontaria per la sicurezza nazionale, e successive disposizioni;
 
 Ritenuta la necessita' di intensificare il servizio di polizia nel porto di Napoli;
 
@@ -52,7 +52,7 @@ Gli speciali servizi nell'interesse dei privati saranno disposti dal comandante 
 
 Per fronteggiare le spese occorrenti per il mantenimento della centuria e per i servizi ad essa affidati, sono istituite le seguenti tasse a favore del Regio commissariato per il porto di Napoli: 
  
- a) un aumento di cent. 5 sulla sopratassa di ancoraggio di cui all'[art. 3 del R. decreto 25 marzo 1923, n. 1018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;1018#art_3), a carico delle navi che entrano nel porto di Napoli; 
+ a) un aumento di cent. 5 sulla sopratassa di ancoraggio di cui all'[art. 3 del R. decreto 25 marzo 1923, n. 1018](Che%20stabilisce%20le%20attribuzioni%20del%20R.%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20023U1018.md), a carico delle navi che entrano nel porto di Napoli; 
  
  b) una tassa sulle merci che si sbarcano nel porto di Napoli, cosi commisurata: 
  

@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100);
+Visto il [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md);
 
 Visto il [decreto legislativo Luogotenenziale 4 agosto 1945, n. 453](Assunzione%20obbligatoria%20dei%20reduci%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20imprese%20private.%20045U0453.md);
 
-Visto il [decreto legislativo Luogotenenziale 4 agosto 1945, n. 467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-04;467);
+Visto il [decreto legislativo Luogotenenziale 4 agosto 1945, n. 467](../Decreti%20legislativi%20luogotenenziali/Estensione%20delle%20vigenti%20disposizioni%20concernenti%20i%20reduci%20ed%20i%20congiunti%20dei%20caduti%20in%20guerra%20ai%20reduci%20ed%20ai%20congiunti%20dei%20caduti%20per%20la%20lotta%20di%20liberazione.%20045U0467.md);
 
 Visto il decreto legislativo Luogotenenziale 21 agosto 1945,
 
@@ -60,7 +60,7 @@ Entro il termine di sessanta giorni dalla data di entrata in vigore del presente
 
 ## Art. 4.
 
-Qualora i contingenti di personale non di ruolo assegnati alle singole Amministrazioni, ai sensi del [Regio decreto legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), non offrano un sufficiente numero di posti disponibili, ai fini della riassunzioni e delle assunzioni previste dai precedenti articoli 1 e 3, tali riassunzioni ed assunzioni saranno effettuate in soprannumero.
+Qualora i contingenti di personale non di ruolo assegnati alle singole Amministrazioni, ai sensi del [Regio decreto legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), non offrano un sufficiente numero di posti disponibili, ai fini della riassunzioni e delle assunzioni previste dai precedenti articoli 1 e 3, tali riassunzioni ed assunzioni saranno effettuate in soprannumero.
  Presso le Amministrazioni cui non sia gia' assegnato un contingente di personale non di ruolo, tale contingente s'intende concesso, in virtu' del presente decreto, nella misura occorrente per le assunzioni previste dall'articolo precedente.
  I posti assegnati ai sensi dei comma precedenti saranno soppressi con le successive vacanze, salvo quanto disposto dal secondo comma dell'art. 6.
 
@@ -71,7 +71,7 @@ Possono essere riassunti ai sensi dell'art. 1 od assunti ai sensi dell'art. 3 so
 
 ## Art. 6.
 
-Il personale assunto o riassunto ai sensi degli articoli 1 e 3 deve essere mantenuto in servizio almeno per un anno, salvo i casi di licenziamento previsti dall'[art. 8 del R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100#art_8).
+Il personale assunto o riassunto ai sensi degli articoli 1 e 3 deve essere mantenuto in servizio almeno per un anno, salvo i casi di licenziamento previsti dall'[art. 8 del R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md).
  Per la durata del periodo stabilito nel comma precedente, in caso di licenziamento, il personale contemplato nel comma stesso deve essere sostituito con altro personale che si trovi nelle condizioni di cui agli articoli 3 e 5.
 
 ## Art. 7.
@@ -80,7 +80,7 @@ Le riassunzioni in servizio, ai sensi dell'art. 1, non sono considerate come nuo
 
 ## Art. 8.
 
-La qualifica di partigiano combattente puo' essere provvisoriamente comprovata da, attestazione dell'Associazione Nazionale Partigiani d'Italia, salvo regolarizzazione a seguito del riconoscimento di essa da parte delle commissioni competenti, nei modi previsti dal [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;518).
+La qualifica di partigiano combattente puo' essere provvisoriamente comprovata da, attestazione dell'Associazione Nazionale Partigiani d'Italia, salvo regolarizzazione a seguito del riconoscimento di essa da parte delle commissioni competenti, nei modi previsti dal [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md).
 
 ## Art. 9.
 
@@ -88,7 +88,7 @@ Le domande di assunzione e di riassunzione presentate da coloro che si' trovino 
 
 ## Art. 10.
 
-Ai funi dell'impiego di coloro che appartengono alle categorie indicate nell'art. 3, il personale non di ruolo delle pubbliche Amministrazioni puo' essere licenziato anche prima della scadenza del contratto e del termine stabilito nel provvedimento di assunzione ed all'infuori dei casi previsti dall'[art. 8 del R. decretolegge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100#art_8), sempreche' si tratti di persone che non traggano prevalentemente dall'impiego di mezzi indispensabili per il sostentamento proprio o delle famiglie con esse conviventi. Nei licenziamenti predetti sara' seguito un ordine inverso a quello dell'anzianita' di servizio.
+Ai funi dell'impiego di coloro che appartengono alle categorie indicate nell'art. 3, il personale non di ruolo delle pubbliche Amministrazioni puo' essere licenziato anche prima della scadenza del contratto e del termine stabilito nel provvedimento di assunzione ed all'infuori dei casi previsti dall'[art. 8 del R. decretolegge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), sempreche' si tratti di persone che non traggano prevalentemente dall'impiego di mezzi indispensabili per il sostentamento proprio o delle famiglie con esse conviventi. Nei licenziamenti predetti sara' seguito un ordine inverso a quello dell'anzianita' di servizio.
  Al personale licenziato ai sensi del comma precedente e' dovuta una indennita' commisurata ad una mensilita' della retribuzione globale in godimento all'atto del licenziamento, per ciascun anno di servizio effettivo o frazione di anno superiore a sei mesi. E' fatto salvo il trattamento piu' favorevole eventualmente spettante in base alle norme che regolano il rapporto d'impiego per il personale degli enti pubblici.
 
 ## Art. 11.

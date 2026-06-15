@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 19 dicembre 1918, n. 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-12-19;1908); 
+ Vista la [legge 19 dicembre 1918, n. 1908](che%20proroga%20il%20termine%20indicato%20dalla%20legge%2023%20giugno%201918%20n.%20830%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201918-919%20fino%20a%20quando%20i%20medesimi%20non%20siano%20_7c441eeabe94.md); 
  
  Sentito il Consiglio dei ministri; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Lo stanziamento del cap. n 194-VI-c «Spese varie per la esecuzione della [legge 10 maggio 1918, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-05-10;634), che proroga la XXIV legislatura, e del [decreto Luogotenenziale 23 maggio 1918, n. 757](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-23;757), relativo alla sospensione della rinnovazione integrale dei Consigli comunali e provinciali, dello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1918-919, e' aumentato della somma di lire cinquantamila (L. 50.000). 
+ Lo stanziamento del cap. n 194-VI-c «Spese varie per la esecuzione della [legge 10 maggio 1918, n. 634](Che%20proroga%20per%20la%20XXIV%20legislatura%20il%20termine%20stabilito%20dallart.%2042%20dello%20Statuto%20del%20Regno.%20018U0634.md), che proroga la XXIV legislatura, e del [decreto Luogotenenziale 23 maggio 1918, n. 757](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-23;757), relativo alla sospensione della rinnovazione integrale dei Consigli comunali e provinciali, dello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1918-919, e' aumentato della somma di lire cinquantamila (L. 50.000). 
  
  Questo decreto sara' presentato al Parlamento per la conversione in legge, ed andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta ufficiale. 
  

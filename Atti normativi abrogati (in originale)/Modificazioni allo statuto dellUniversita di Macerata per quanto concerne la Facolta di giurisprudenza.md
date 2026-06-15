@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Veduto lo statuto della Universita' di Macerata, approvato con [regio decreto 20 aprile 1939, n. 1074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1074), e modificato con [regio decreto 17 ottobre 1941, n. 1206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1206);
+Veduto lo statuto della Universita' di Macerata, approvato con [regio decreto 20 aprile 1939, n. 1074](Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Macerata.%20039U1074.md), e modificato con [regio decreto 17 ottobre 1941, n. 1206](Modificazione%20allo%20statuto%20della%20Regia%20universita%20di%20Macerata.%20041U1206.md);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Vedute le proposte relative allo statuto dell'Universita' anzidetta;
 
@@ -50,9 +50,9 @@ Registrato alla Corte dei Conti, addi' 24 giugno 1947 Atti del Governo, registro
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Veduto lo statuto della Universita' di Macerata, approvato con [regio decreto 20 aprile 1939, n. 1074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1074), e modificato con [regio decreto 17 ottobre 1941, n. 1206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1206);
+ Veduto lo statuto della Universita' di Macerata, approvato con [regio decreto 20 aprile 1939, n. 1074](Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Macerata.%20039U1074.md), e modificato con [regio decreto 17 ottobre 1941, n. 1206](Modificazione%20allo%20statuto%20della%20Regia%20universita%20di%20Macerata.%20041U1206.md);
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
- Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
  Vedute le proposte relative allo statuto dell'Universita' anzidetta;
  Riconosciuta la particolare necessita' di approvare le modifiche proposte;
  Sentito il parere del Consiglio superiore della pubblica istruzione;

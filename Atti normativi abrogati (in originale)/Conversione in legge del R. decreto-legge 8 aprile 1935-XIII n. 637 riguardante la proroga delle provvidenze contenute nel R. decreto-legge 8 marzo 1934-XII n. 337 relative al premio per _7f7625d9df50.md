@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 aprile 1935, n. 637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-08;637), riguardante la proroga delle provvidenze contenute nel [R. decreto-legge 8 marzo 1934, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-08;337), relativo al premio per la seta tratta. 
+ E' convertito in legge il [R. decreto-legge 8 aprile 1935, n. 637](Proroga%20delle%20provvidenze%20contenute%20nel%20R.%20decreto-legge%208%20marzo%201934%20n.%20337%20relativo%20al%20premio%20per%20la%20seta%20tratta.%20035U0637.md), riguardante la proroga delle provvidenze contenute nel [R. decreto-legge 8 marzo 1934, n. 337](Istituzione%20di%20un%20premio%20alla%20seta%20tratta%20prodotta%20con%20bozzoli%20italiani.%20034U0337.md), relativo al premio per la seta tratta. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

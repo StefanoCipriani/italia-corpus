@@ -120,7 +120,7 @@ Le azioni di qualsiasi natura contro gli enti, la liquidazione dei quali sia aff
 
 Tutti gli atti e contratti compiuti e stipulati dall'Istituto di liquidazioni, anche per le liquidazioni ad esso affidate, sono soggetti al trattamento tributario stabilito per gli atti compiuti e stipulati dallo Stato. 
  
- A tutti gli atti, sentenze, o provvedimenti nelle cause e procedimenti nell'interesse dell'Istituto di liquidazioni sono, inoltre, applicabili l'art. 38 del testo di legge del bollo, approvato con [R. decreto 30 dicembre 1923, n. 3268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3268), e' l'art. 111 del testo di legge del registro, approvato con [R. decreto 30 dicembre 1923, n. 3269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3269).
+ A tutti gli atti, sentenze, o provvedimenti nelle cause e procedimenti nell'interesse dell'Istituto di liquidazioni sono, inoltre, applicabili l'art. 38 del testo di legge del bollo, approvato con [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e' l'art. 111 del testo di legge del registro, approvato con [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md).
 
 ## Art. 13.
 

@@ -24,11 +24,11 @@ EMANA il seguente decreto:
 
 1.
 
-A decorrere dal 1 gennaio 1987 e' soppressa la partecipazione alla spesa da parte degli assistiti sulle prestazioni di diagnostica strumentale e di laboratorio disposta dall'[articolo 12 della legge 26 aprile 1982, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-26;181#art_12).
+A decorrere dal 1 gennaio 1987 e' soppressa la partecipazione alla spesa da parte degli assistiti sulle prestazioni di diagnostica strumentale e di laboratorio disposta dall'[articolo 12 della legge 26 aprile 1982, n. 181](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201982.md).
 
 2.
 
-E', altresi', abrogato il [comma 3 dell'articolo 28 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_28-com3), per la parte in cui fissa la partecipazione alla spesa da parte degli assistiti sulle prestazioni specialistiche di cui al [decreto-legge 25 gennaio 1982, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-25;16), convertito, con modificazioni, dalla [legge 25 marzo 1982, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-25;98), nella misura del 25 per cento delle tariffe stabilite per convenzioni stipulate ai sensi della [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833).
+E', altresi', abrogato il [comma 3 dell'articolo 28 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), per la parte in cui fissa la partecipazione alla spesa da parte degli assistiti sulle prestazioni specialistiche di cui al [decreto-legge 25 gennaio 1982, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-25;16), convertito, con modificazioni, dalla [legge 25 marzo 1982, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20gennaio%201982%20n.%2016%20recante%20misure%20urgenti%20in%20materia%20di%20prestazioni%20integrative%20erogate%20dal%20Servizio%20sanitario%20nazionale.md), nella misura del 25 per cento delle tariffe stabilite per convenzioni stipulate ai sensi della [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833).
 
 3.
 
@@ -42,7 +42,7 @@ L'impiego dei ricettari per la prescrizione o la proposta di prestazioni erogabi
 
 2.
 
-La prescrizione o la proposta di prestazioni erogabili dalle strutture a gestione diretta o convenzionate ed il certificato e l'attestazione di cui all'[articolo 2 del decreto-legge 30 dicembre 1979, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663#art_2), convertito, con modificazioni, dalla [legge 29 febbraio 1980, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33), e successive modificazioni e integrazioni, sono effettuati sui modulari standardizzati ed a lettura automatica definiti con decreto del Ministro della sanita', di concerto con il Ministro del lavoro e della previdenza sociale, da emanarsi entro il 30 settembre 1987. Con il medesimo decreto sono fissate le modalita' di intervento dell'Istituto Poligrafico e Zecca dello Stato nell'approvvigionamento del ricettario standardizzato del Servizio sanitario nazionale da parte delle regioni.
+La prescrizione o la proposta di prestazioni erogabili dalle strutture a gestione diretta o convenzionate ed il certificato e l'attestazione di cui all'[articolo 2 del decreto-legge 30 dicembre 1979, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663#art_2), convertito, con modificazioni, dalla [legge 29 febbraio 1980, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201979%20n.%20663%20concernente%20provvedimenti%20per%20il%20finanziamento%20del%20Servizio%20sanitario%20nazionale%20per%20la%20previdenza%20per%20il%20c_9d4821b80b65.md), e successive modificazioni e integrazioni, sono effettuati sui modulari standardizzati ed a lettura automatica definiti con decreto del Ministro della sanita', di concerto con il Ministro del lavoro e della previdenza sociale, da emanarsi entro il 30 settembre 1987. Con il medesimo decreto sono fissate le modalita' di intervento dell'Istituto Poligrafico e Zecca dello Stato nell'approvvigionamento del ricettario standardizzato del Servizio sanitario nazionale da parte delle regioni.
 
 3.
 
@@ -50,7 +50,7 @@ La prescrizione di specialita' medicinali e di prodotti galenici erogati dal Ser
 
 4.
 
-Le quote di partecipazione dell'assistito alla spesa per le prestazioni farmaceutiche previste dalle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_10-leta) e [b) dell'articolo 10, comma 3, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_10-com3-letb), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638), e successive modificazioni, sono cosi' determinate:
+Le quote di partecipazione dell'assistito alla spesa per le prestazioni farmaceutiche previste dalle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_10-leta) e [b) dell'articolo 10, comma 3, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_10-com3-letb), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md), e successive modificazioni, sono cosi' determinate:
                         a)
                             una quota fissa di L. 1.000 per ricetta;
                         b)
@@ -138,15 +138,15 @@ I compiti della commissione sono:
 
 7.
 
-Il Ministro della sanita', sulla base di un programma di lavoro propostogli dalla commissione di cui al comma 4, in relazione ai principi di cui all'[articolo 30, terzo comma, della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_30-com3), e tenuto conto del disposto dell'[articolo 32, terzo comma, della legge 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730#art_32-com3), provvede entro il 31 dicembre 1987 alla revisione del prontuario terapeutico. Fino all'attuazione di detta revisione ha efficacia il prontuario terapeutico vigente.
+Il Ministro della sanita', sulla base di un programma di lavoro propostogli dalla commissione di cui al comma 4, in relazione ai principi di cui all'[articolo 30, terzo comma, della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_30-com3), e tenuto conto del disposto dell'[articolo 32, terzo comma, della legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md), provvede entro il 31 dicembre 1987 alla revisione del prontuario terapeutico. Fino all'attuazione di detta revisione ha efficacia il prontuario terapeutico vigente.
 
 8.
 
-Entro il 31 ottobre 1987, a norma del [decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638), il CIP fissa il prezzo dei farmaci galenici inclusi nel prontuario.
+Entro il 31 ottobre 1987, a norma del [decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md), il CIP fissa il prezzo dei farmaci galenici inclusi nel prontuario.
 
 9.
 
-La commissione di cui al comma 4, sulla base di un proprio programma di lavoro e tenuto conto delle indicazioni del piano di settore, di cui all'[articolo 32, terzo comma, della legge 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730#art_32-com3), con particolare riferimento alle proiezioni temporali programmatiche ivi previste, procede alla valutazione di tutte le specialita' medicinali gia' registrate ai fini di proporre la loro collocazione nelle classi di cui al comma 1 entro il termine del 31 dicembre 1988, nonche' ai fini della revisione delle autorizzazioni, in ottemperanza alla [direttiva n. 75/319/CEE del 20 maggio 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;319), entro il termine del 30 giugno 1990. Con decreto del Ministro della sanita' sono adottati gli atti conseguenti.
+La commissione di cui al comma 4, sulla base di un proprio programma di lavoro e tenuto conto delle indicazioni del piano di settore, di cui all'[articolo 32, terzo comma, della legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md), con particolare riferimento alle proiezioni temporali programmatiche ivi previste, procede alla valutazione di tutte le specialita' medicinali gia' registrate ai fini di proporre la loro collocazione nelle classi di cui al comma 1 entro il termine del 31 dicembre 1988, nonche' ai fini della revisione delle autorizzazioni, in ottemperanza alla [direttiva n. 75/319/CEE del 20 maggio 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;319), entro il termine del 30 giugno 1990. Con decreto del Ministro della sanita' sono adottati gli atti conseguenti.
 
 10.
 
@@ -166,7 +166,7 @@ Al fine di unificare e razionalizzare i sistemi di rilevazione e di controllo su
 
 1.
 
-A modifica dell'[articolo 17, primo comma, della legge 22 dicembre 1984, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887#art_17-com1), limitatamente all'esercizio 1987, la quota riservata alle attivita' a destinazione vincolata e ai piani straordinari, di cui alla lettera a), e' rideterminata in complessive lire 500 miliardi.
+A modifica dell'[articolo 17, primo comma, della legge 22 dicembre 1984, n. 887](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201985.md), limitatamente all'esercizio 1987, la quota riservata alle attivita' a destinazione vincolata e ai piani straordinari, di cui alla lettera a), e' rideterminata in complessive lire 500 miliardi.
 
 2.
 
@@ -199,11 +199,11 @@ La fecondazione artificiale umana omologa e' consentita quando lo sperma da impi
 
 9.
 
-La riduzione prevista dall'[articolo 26 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_26), non si applica alla retribuzione corrisposta, ai sensi dell'[articolo 2 della legge 13 luglio 1967, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-13;584#art_2), a chiunque ceda il proprio sangue per trasfusioni dirette e indirette o per l'elaborazione dei derivati del sangue ad uso terapeutico.
+La riduzione prevista dall'[articolo 26 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), non si applica alla retribuzione corrisposta, ai sensi dell'[articolo 2 della legge 13 luglio 1967, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-13;584#art_2), a chiunque ceda il proprio sangue per trasfusioni dirette e indirette o per l'elaborazione dei derivati del sangue ad uso terapeutico.
 
 10.
 
-A modifica dell'[articolo 25, secondo comma, della legge 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730#art_25-com2), limitatamente all'esercizio 1987, tutte le somme, effettivamente introitate dalle unita' sanitarie locali o alle stesse trasferite ai sensi della [lettera b) del primo comma dell'articolo 69 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_69-com1-letb), possono essere utilizzate per il 50 per cento per spese di investimento e per il 50 per cento per spese di parte corrente.
+A modifica dell'[articolo 25, secondo comma, della legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md), limitatamente all'esercizio 1987, tutte le somme, effettivamente introitate dalle unita' sanitarie locali o alle stesse trasferite ai sensi della [lettera b) del primo comma dell'articolo 69 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_69-com1-letb), possono essere utilizzate per il 50 per cento per spese di investimento e per il 50 per cento per spese di parte corrente.
 
 11.
 
@@ -213,7 +213,7 @@ Il Ministro della sanita', con proprio decreto, dispone, caso per caso, che l'Is
 
 1.
 
-Al personale in servizio presso gli uffici di sanita' marittima, aerea e di frontiera, e presso gli uffici veterinari di confine, porto, aeroporto e dogana interna, di cui alle tabelle allegate al [decreto del Presidente della Repubblica 31 luglio 1980, n. 614](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;614), come modificate dal decreto ministeriale in data 23 dicembre 1985, pubblicato nella Gazzetta Ufficiale n. 32 dell'8 febbraio 1986, sono estese le disposizioni di cui agli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-13;302#art_2) e [3 della legge 13 luglio 1984, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-13;302#art_3).
+Al personale in servizio presso gli uffici di sanita' marittima, aerea e di frontiera, e presso gli uffici veterinari di confine, porto, aeroporto e dogana interna, di cui alle tabelle allegate al [decreto del Presidente della Repubblica 31 luglio 1980, n. 614](../DPR/Ristrutturazione%20e%20potenziamento%20degli%20uffici%20di%20sanita%20marittima%20aerea%20e%20di%20frontiera%20e%20degli%20uffici%20veterinari%20di%20confine%20di%20porto%20di%20aeroporto%20e%20di%20dogana%20interna%20art.%207%20della%20legge%20n.%20833%20del%201978.md), come modificate dal decreto ministeriale in data 23 dicembre 1985, pubblicato nella Gazzetta Ufficiale n. 32 dell'8 febbraio 1986, sono estese le disposizioni di cui agli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-13;302#art_2) e [3 della legge 13 luglio 1984, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-13;302#art_3).
 
 2.
 
@@ -255,7 +255,7 @@ Ugualmente possono svolgere le attivita' di cui al comma 1 i laureati in medicin
 
 1.
 
-L'accesso ai rapporti convenzionali di cui all'[articolo 48 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_48), non e' consentito al personale con rapporto di lavoro dipendente, pubblico o privato. Il divieto si applica anche ai titolari di rapporti convenzionali che comportino un impegno settimanale, per un numero di ore pari o superiore all'orario vigente, per il personale dipendente dal Servizio sanitario nazionale, ai sensi dell'[articolo 32, primo comma, del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761#art_32-com1), e degli accordi nazionali ivi previsti.
+L'accesso ai rapporti convenzionali di cui all'[articolo 48 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_48), non e' consentito al personale con rapporto di lavoro dipendente, pubblico o privato. Il divieto si applica anche ai titolari di rapporti convenzionali che comportino un impegno settimanale, per un numero di ore pari o superiore all'orario vigente, per il personale dipendente dal Servizio sanitario nazionale, ai sensi dell'[articolo 32, primo comma, del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), e degli accordi nazionali ivi previsti.
 
 2.
 
@@ -267,7 +267,7 @@ Non e' consentita la contemporanea titolarita' dei rapporti convenzionali nell'a
 
 4.
 
-In nessuno dei casi contemplati nei precedenti commi puo', complessivamente, essere superato il numero di ore previsto dall'[articolo 32 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761#art_32), e dagli accordi nazionali ivi richiamati.
+In nessuno dei casi contemplati nei precedenti commi puo', complessivamente, essere superato il numero di ore previsto dall'[articolo 32 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), e dagli accordi nazionali ivi richiamati.
 
 5.
 
@@ -291,7 +291,7 @@ Gli accordi collettivi nazionali, stipulati ai sensi dell'[articolo 48 della leg
 
 10.
 
-Sono fatte salve le compatibilita' previste dall'[articolo 110 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-20;270#art_110), e dall'[articolo 4 del decreto del Presidente della Repubblica 8 giugno 1987, n. 291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-06-08;291#art_4), nei limiti ivi indicati.
+Sono fatte salve le compatibilita' previste dall'[articolo 110 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), e dall'[articolo 4 del decreto del Presidente della Repubblica 8 giugno 1987, n. 291](../DPR/Accordo%20collettivo%20nazionale%20per%20la%20regolamentazione%20dei%20rapporti%20con%20i%20medici%20specialisti%20ambulatoriali%20ai%20sensi%20dellarticolo%2048%20della%20legge%2023%20dicembre%201978%20n.%20833.md), nei limiti ivi indicati.
 
 11.
 
@@ -307,7 +307,7 @@ Entro tre mesi dalla data di entrata in vigore del presente decreto devono esser
 
 14.
 
-Le disposizioni del comma 1 non si applicano fino al 31 dicembre 1988 agli ufficiali medici delle Forze armate, al personale dei ruoli professionali dei sanitari della Polizia di Stato di cui al [decreto del Presidente della Repubblica 24 aprile 1982, n. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;338), ai medici del Corpo nazionale dei vigili del fuoco, nonche' al personale medico di cui all'ultimo comma, secondo periodo, dell'articolo unico della [legge 26 novembre 1985, n. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-11-26;687).
+Le disposizioni del comma 1 non si applicano fino al 31 dicembre 1988 agli ufficiali medici delle Forze armate, al personale dei ruoli professionali dei sanitari della Polizia di Stato di cui al [decreto del Presidente della Repubblica 24 aprile 1982, n. 338](../DPR/Ordinamento%20dei%20ruoli%20professionali%20dei%20sanitari%20della%20Polizia%20di%20Stato.md), ai medici del Corpo nazionale dei vigili del fuoco, nonche' al personale medico di cui all'ultimo comma, secondo periodo, dell'articolo unico della [legge 26 novembre 1985, n. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-11-26;687).
 
 ## Art. 10.
 

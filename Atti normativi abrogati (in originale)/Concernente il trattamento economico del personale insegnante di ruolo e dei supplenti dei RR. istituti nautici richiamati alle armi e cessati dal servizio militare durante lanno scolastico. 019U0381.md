@@ -18,7 +18,7 @@ Agli insegnanti predetti, a decorrere dal giorno del loro collocamento in conged
  
  L'ammontate di tale indennita' sara' determinata caso per caso dal presidente della Giunta di vigilanza, sentito il capo dell'Istituto a cui l'insegnante appartiene. 
  
- L'indennita' medesima non potra' in nessun caso essere superiore alla retribuzione corrispondente al numero di ore comprese tra l'orario obbligatorio ed il limite massimo stabilito dall'[art. 7 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_7) e computata nella misura stabilita dalla tabella C annessa alla medesima legge per la disciplina che l'insegnante professa. 
+ L'indennita' medesima non potra' in nessun caso essere superiore alla retribuzione corrispondente al numero di ore comprese tra l'orario obbligatorio ed il limite massimo stabilito dall'[art. 7 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md) e computata nella misura stabilita dalla tabella C annessa alla medesima legge per la disciplina che l'insegnante professa. 
  
  Al pagamento si provvedera' con le norme vigenti per compensi per incarichi in classi aggiunte. 
  

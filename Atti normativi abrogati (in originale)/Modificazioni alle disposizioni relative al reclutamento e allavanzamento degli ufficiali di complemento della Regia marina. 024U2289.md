@@ -201,7 +201,7 @@ Sono abrogati gli articoli dal 1° al 18 incluso del [R. decreto 11 febbraio 191
 
 ## Art. 17.
 
-Le disposizioni contenute nel presente decreto saranno inserite nel testo unico delle leggi sugli ufficiali di complemento della Regia marina autorizzato con il [Regio decreto 30 dicembre 1923, n. 2991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2991).
+Le disposizioni contenute nel presente decreto saranno inserite nel testo unico delle leggi sugli ufficiali di complemento della Regia marina autorizzato con il [Regio decreto 30 dicembre 1923, n. 2991](Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md).
 
 ## Art. 18.
 

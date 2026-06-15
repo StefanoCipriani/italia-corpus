@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduta la [legge 26 giugno 1913, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;836), relativa all'Istituto nazionale per la educazione e la istruzione degli orfani dei maestri elementari;
+Veduta la [legge 26 giugno 1913, n. 836](Che%20approva%20lordinamento%20dellIstituto%20nazionale%20per%20listruzione%20e%20per%20leducazione%20degli%20orfani%20dei%20maestri%20elementari.%20013U0836.md), relativa all'Istituto nazionale per la educazione e la istruzione degli orfani dei maestri elementari;
 
 Riconosciuta la necessita' di modificare gli articoli 2, 3, 10 e 13 della legge stessa;
 
@@ -30,11 +30,11 @@ Sulla proposta del ministro segretario di Stato per la istruzione pubblica, di c
 
 ## Art. 1.
 
-All'[art. 2 della legge 26 giugno 1913, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;836#art_2), e' soppressa la disposizione portata dalla lettera a).
+All'[art. 2 della legge 26 giugno 1913, n. 836](Che%20approva%20lordinamento%20dellIstituto%20nazionale%20per%20listruzione%20e%20per%20leducazione%20degli%20orfani%20dei%20maestri%20elementari.%20013U0836.md), e' soppressa la disposizione portata dalla lettera a).
 
 ## Art. 2.
 
-All'[art. 3 della legge 26 giugno 1913, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;836#art_3), e' sostituito il seguente: 
+All'[art. 3 della legge 26 giugno 1913, n. 836](Che%20approva%20lordinamento%20dellIstituto%20nazionale%20per%20listruzione%20e%20per%20leducazione%20degli%20orfani%20dei%20maestri%20elementari.%20013U0836.md), e' sostituito il seguente: 
  
  «E' costituito un fondo di copertura degli oneri vigenti il quale ricevera' come prima dotazione una somma equivalente al valore capitale dei benefici in corso di godimento a favore degli orfani, e al quale sara' annualmente devoluta una somma equivalente al valore capitale dei benefici di nuova concessione aumentata degli interessi della somma accantonata precedentemente e da cui sara' detratto l'ammontare delle somme pagate nell'anno per i benefici degli orfani.
 Ogni quinquennio si procedera' mediante un bilancio tecnico alla determinazione del valore capitale dei benefici in corso di godimento e alle conseguenti rettifiche nell'ammontare del fondo di copertura degli oneri vigenti. 
@@ -45,13 +45,13 @@ Ogni quinquennio si procedera' mediante un bilancio tecnico alla determinazione 
 
 ## Art. 3.
 
-Al 1° capoverso dell'[art. 10 della legge 26 giugno 1913, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;836#art_10), e' sostituito il seguente: 
+Al 1° capoverso dell'[art. 10 della legge 26 giugno 1913, n. 836](Che%20approva%20lordinamento%20dellIstituto%20nazionale%20per%20listruzione%20e%20per%20leducazione%20degli%20orfani%20dei%20maestri%20elementari.%20013U0836.md), e' sostituito il seguente: 
  
  «Il concorso viene bandito ogni anno entro la 1ª quindicina di aprile. I Comitati provinciali trasmetteranno all'Istituto nazionale, entro il 31 luglio, le istanze documentate dei concorrenti».
 
 ## Art. 4.
 
-Al 2° capoverso dell'[art. 13 della legge 26 giugno 1913, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;836#art_13), e' aggiunto il seguente: 
+Al 2° capoverso dell'[art. 13 della legge 26 giugno 1913, n. 836](Che%20approva%20lordinamento%20dellIstituto%20nazionale%20per%20listruzione%20e%20per%20leducazione%20degli%20orfani%20dei%20maestri%20elementari.%20013U0836.md), e' aggiunto il seguente: 
  
  «Lo stipendio dell'impiegato d'ordine sara' aumentato di L. 500 per ogni quinquennio fino a raggiungere il massimo di L. 4000. La concessione di ogni singolo aumento e' deliberata dal Consiglio direttivo». 
  

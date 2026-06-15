@@ -20,13 +20,13 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 25 marzo 1917, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;481), sulla protezione ed assistenza degli invalidi della guerra ed il relativo [regolamento 28 giugno 1917, n. 1158](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1917-06-28;1158);
+Vista la [legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), sulla protezione ed assistenza degli invalidi della guerra ed il relativo [regolamento 28 giugno 1917, n. 1158](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1917-06-28;1158);
 
-Vista la [legge 14 luglio 1912, num. 834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;834), concernente provvedimenti per l'istruzione forestale;
+Vista la [legge 14 luglio 1912, num. 834](Concernente%20provvedimenti%20per%20listruzione%20forestale%20012U0834.md), concernente provvedimenti per l'istruzione forestale;
 
-Vista la [legge 3 marzo 1912, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-03-03;134), con la quale viene stabilito il ruolo organico del corpo Reale delle foreste;
+Vista la [legge 3 marzo 1912, n. 134](Con%20la%20quale%20vengono%20stabiliti%20i%20ruoli%20organici%20del%20personale%20del%20corpo%20reale%20delle%20foreste.%20012U0134.md), con la quale viene stabilito il ruolo organico del corpo Reale delle foreste;
 
-Visto il regolamento organico e disciplinare per il personale di custodia del corpo Reale delle foreste, approvato con [R. decreto 7 febbraio 1915, n. 253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-07;253);
+Visto il regolamento organico e disciplinare per il personale di custodia del corpo Reale delle foreste, approvato con [R. decreto 7 febbraio 1915, n. 253](Col%20quale%20e%20approvato%20lannesso%20regolamento%20organico%20e%20disciplinare%20per%20il%20personale%20di%20custodia%20del%20R.%20corpo%20delle%20foreste.%20015U0253.md);
 
 Udito il Consiglio dei ministri;
 
@@ -48,7 +48,7 @@ Gli invalidi che vi aspirano devono farne domanda in carta libera all'Opera nazi
  
  d) certificato di moralita' rilasciato dal sindaco del Comune di attuale residenza; 
  
- e) dichiarazione d'invalidita' fatta secondo le disposizioni della legge sulle pensioni 21 febbraio 1895, n. 70, testo unico e delle successive disposizioni. Pei non militari la dichiarazione deve farsi a norma dell'art. 2, capoverso secondo, della [legge 25 marzo 1917, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;481); 
+ e) dichiarazione d'invalidita' fatta secondo le disposizioni della legge sulle pensioni 21 febbraio 1895, n. 70, testo unico e delle successive disposizioni. Pei non militari la dichiarazione deve farsi a norma dell'art. 2, capoverso secondo, della [legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md); 
  
  f) certificato scolastico per provare che l'aspirante sappia leggere e scrivere, od in mancanza, domanda scritta e firmata dall'aspirante in presenza di un notaio, che nell'autenticazione dichiarera' di aver veduto scrivere in presenza sua. Questa autenticazione dara' luogo alla spesa di L. 1 per emolumento a favore del notaio.
 

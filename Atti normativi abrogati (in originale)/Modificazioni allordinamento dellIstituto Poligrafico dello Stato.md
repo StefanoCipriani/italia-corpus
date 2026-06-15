@@ -10,29 +10,29 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 ottobre 1896, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-10-30;508);
+Visto il [regio decreto 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md);
 
 Visto il [regio decreto-legge 7 marzo 1926, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-07;412);
 
-Visto la [legge 6 dicembre 1928, n. 2744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;2744);
+Visto la [legge 6 dicembre 1928, n. 2744](Costituzione%20dellIstituto%20Poligrafico%20dello%20Stato.%20028U2744.md);
 
-Visto il [regio decreto 20 giugno 1929, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-06-20;1058);
+Visto il [regio decreto 20 giugno 1929, n. 1058](Approvazione%20del%20regolamento%20sui%20servizi%20del%20Provveditorato%20Generale%20dello%20Stato.%20029U1058.md);
 
-Vista la [legge 24 marzo 1932, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-03-24;273);
+Vista la [legge 24 marzo 1932, n. 273](Modificazioni%20e%20chiarimenti%20alle%20disposizioni%20che%20disciplinano%20il%20funzionamento%20dellIstituto%20Poligrafico%20dello%20Stato.%20032U0273.md);
 
-Visto il [regio decreto-legge 8 febbraio 1934, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-02-08;265);
+Visto il [regio decreto-legge 8 febbraio 1934, n. 265](Rimborso%20graduale%20allo%20Stato%20dellimporto%20del%20patrimonio%20conferito%20allIstituto%20Poligrafico%20dello%20Stato.%20034U0265.md);
 
-Visto il [regio decreto-legge 20 maggio 1935, n. 874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-20;874), convertito nella [legge 22 dicembre 1935, n. 2393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-22;2393);
+Visto il [regio decreto-legge 20 maggio 1935, n. 874](Autorizzazione%20a%20ritirare%20dalla%20circolazione%20le%20attuali%20monete%20di%20argento%20e%20ad%20emettere%20biglietti%20di%20Stato.%20035U0874.md), convertito nella [legge 22 dicembre 1935, n. 2393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-22;2393);
 
-Visto il [regio decreto-legge 9 luglio 1936, n. 1380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-07-09;1380);
+Visto il [regio decreto-legge 9 luglio 1936, n. 1380](Passaggio%20allIstituto%20Poligrafico%20dello%20Stato%20dellesercizio%20della%20Industria%20Cellulosa%20dItalia%20con%20stabilimento%20in%20Foggia.%20036U1380.md);
 
-Vista la [legge 29 giugno 1940, n. 802](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-29;802);
+Vista la [legge 29 giugno 1940, n. 802](Modificazioni%20allart.%2024%20del%20regolamento%20sui%20servizi%20del%20Provveditorato%20generale%20dello%20Stato%20approvato%20con%20R.%20decreto%2020%20giugno%201929-VII%20n.%201058%20e%20alla%20legge%2024%20marzo%201932-X%20n.%20273%20circa%20_8eab9c66c53e.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 5 ottobre 1945, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-05;703);
+Visto il [decreto legislativo luogotenenziale 5 ottobre 1945, n. 703](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20disposizioni%20legislative%20circa%20la%20costituzione%20dellIstituto%20Poligrafico%20dello%20Stato.%20045U0703.md);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -52,12 +52,12 @@ L'Istituto Poligrafico dello Stato ha per scopo l'esercizio delle arti grafiche 
 L'Istituto Poligrafico dello Stato gestisce, in Sezione autonoma speciale, per conto dello Stato ed alle dirette dipendenze del Ministero del tesoro, l'Officina carte valori per la produzione delle carte valori di Stato e di quelle affini o similari, occorrenti alle Amministrazioni statali.
  Previa espressa autorizzazione del Ministro per il tesoro, l'istituto puo' provvedere, per conto di Enti italiani ed esteri, alla fabbricazione, nell'Officina carte valori, di biglietti di banca e di altre carte valori.
  L'organizzazione della Sezione autonoma deve essere approvata dal Ministero del tesoro.
- E' confermata l'assegnazione in uso all'Istituto Poligrafico dello Stato degl'immobili indicati negli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;2744#art_2) e [3 della legge 6 dicembre 1928, n. 2744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;2744#art_3).
+ E' confermata l'assegnazione in uso all'Istituto Poligrafico dello Stato degl'immobili indicati negli [articoli 2](Costituzione%20dellIstituto%20Poligrafico%20dello%20Stato.%20028U2744.md) e [3 della legge 6 dicembre 1928, n. 2744](Costituzione%20dellIstituto%20Poligrafico%20dello%20Stato.%20028U2744.md).
 
 ## Art. 3. — (Controllo sulla fabbricazione delle carte valori).
 
 Il Provveditorato generale dello Stato esercita, per mezzo di propri funzionari, il controllo sulla fabbricazione della carta da avvalorare e quello sulla stampa e distribuzione delle carte valori e degli stampati rappresentativi di valori, soggetti a rendiconto.
- Nulla e' innovato ai poteri di vigilanza e di controllo, spettanti, a norma del regolamento approvato con [regio decreto 30 ottobre 1896, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-10-30;508), e del [regio decreto-legge 20 maggio 1935, n. 874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-20;874), convertito nella [legge del 22 dicembre 1935, n. 2393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-22;2393), rispettivamente alla Direzione generale del Tesoro per la fabbricazione dei biglietti di Stato ed alla Banca d'Italia per la fabbricazione dei biglietti di banca, commessi all'Istituto Poligrafico dello Stato.
+ Nulla e' innovato ai poteri di vigilanza e di controllo, spettanti, a norma del regolamento approvato con [regio decreto 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md), e del [regio decreto-legge 20 maggio 1935, n. 874](Autorizzazione%20a%20ritirare%20dalla%20circolazione%20le%20attuali%20monete%20di%20argento%20e%20ad%20emettere%20biglietti%20di%20Stato.%20035U0874.md), convertito nella [legge del 22 dicembre 1935, n. 2393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-22;2393), rispettivamente alla Direzione generale del Tesoro per la fabbricazione dei biglietti di Stato ed alla Banca d'Italia per la fabbricazione dei biglietti di banca, commessi all'Istituto Poligrafico dello Stato.
 
 ## Art. 4. — (Esecuzione di forniture, lavori e servizi oltre
  quelli d'istituto - Esenzioni tributarie).
@@ -74,9 +74,9 @@ L'Istituto Poligrafico dello Stato puo' gestire cartiere ed assumere, per conto 
 
 ## Art. 6. — (Patrimonio).
 
-Ferma l'assegnazione in uso degli immobili indicati nell'[art. 2 secondo comma, della legge 6 dicembre 1928, n. 2744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;2744#art_2-com2), gl'impianti e gli altri beni mobili costituenti il patrimonio originario dell'Istituto, a norma del suddetto articolo, s'intendono conferiti dallo Stato come fondo di dotazione dell'Istituto medesimo.
- Di tale fondo fa inoltre parte il valore delle attivita' conferite al Poligrafico a norma dell'[art. 2 del regio decreto-legge 9 luglio 1936, n. 1380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-07-09;1380#art_2).
- In corrispettivo dell'uso degli immobili assegnati al Poligrafico a norma dell'[art. 2, comma primo, della legge 6 dicembre 1928, n. 2744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;2744#art_2-com1), e dell'[art. 2 del regio decreto-legge 9 luglio 1936, n. 1380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-07-09;1380#art_2), l'Istituto e' tenuto a corrispondere allo Stato, un canone annuo pari al 4% del loro valore, da stabilirsi entro tre mesi dall'entrata in vigore del presente decreto e da aggiornarsi all'inizio di ogni quinquennio.
+Ferma l'assegnazione in uso degli immobili indicati nell'[art. 2 secondo comma, della legge 6 dicembre 1928, n. 2744](Costituzione%20dellIstituto%20Poligrafico%20dello%20Stato.%20028U2744.md), gl'impianti e gli altri beni mobili costituenti il patrimonio originario dell'Istituto, a norma del suddetto articolo, s'intendono conferiti dallo Stato come fondo di dotazione dell'Istituto medesimo.
+ Di tale fondo fa inoltre parte il valore delle attivita' conferite al Poligrafico a norma dell'[art. 2 del regio decreto-legge 9 luglio 1936, n. 1380](Passaggio%20allIstituto%20Poligrafico%20dello%20Stato%20dellesercizio%20della%20Industria%20Cellulosa%20dItalia%20con%20stabilimento%20in%20Foggia.%20036U1380.md).
+ In corrispettivo dell'uso degli immobili assegnati al Poligrafico a norma dell'[art. 2, comma primo, della legge 6 dicembre 1928, n. 2744](Costituzione%20dellIstituto%20Poligrafico%20dello%20Stato.%20028U2744.md), e dell'[art. 2 del regio decreto-legge 9 luglio 1936, n. 1380](Passaggio%20allIstituto%20Poligrafico%20dello%20Stato%20dellesercizio%20della%20Industria%20Cellulosa%20dItalia%20con%20stabilimento%20in%20Foggia.%20036U1380.md), l'Istituto e' tenuto a corrispondere allo Stato, un canone annuo pari al 4% del loro valore, da stabilirsi entro tre mesi dall'entrata in vigore del presente decreto e da aggiornarsi all'inizio di ogni quinquennio.
  La valutazione prevista nel precedente comma sara' effettuata con le modalita' che saranno fissate con decreto del Ministro per il tesoro.
 
 ## Art. 7. — (Consiglio di amministrazione).
@@ -176,7 +176,7 @@ Il pagamento del saldo e' documentato con apposito rendiconto al quale debbono e
 
 ## Art. 21. — (Sindacato della Corte dei conti).
 
-Nulla e' innovato per quanto concerne il sindacato della Corte dei conti sull'Officina carte valori, ai sensi del [regio decreto-legge 7 marzo 1926, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-07;412), e del [regio decreto-legge 30 marzo 1935, n. 874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-03-30;874), convertito nella [legge 23 dicembre 1935, n. 2393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-23;2393).
+Nulla e' innovato per quanto concerne il sindacato della Corte dei conti sull'Officina carte valori, ai sensi del [regio decreto-legge 7 marzo 1926, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-07;412), e del [regio decreto-legge 30 marzo 1935, n. 874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-03-30;874), convertito nella [legge 23 dicembre 1935, n. 2393](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20maggio%201935-XIII%20n.%20874%20che%20autorizza%20a%20ritirare%20dalla%20circolazione%20le%20attuali%20monete%20di%20argento%20e%20ad%20emettere%20biglietti%20di%20Stato.%20035U2393.md).
 
 ## Art. 22. — (Assistenza dell'Avvocatura dello Stato
  e degli organi dell'Amministrazione finanziaria).

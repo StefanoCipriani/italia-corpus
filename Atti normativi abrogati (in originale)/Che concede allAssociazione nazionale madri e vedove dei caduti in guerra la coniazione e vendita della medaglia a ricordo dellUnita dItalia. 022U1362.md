@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 26 aprile 1883, n. 1294](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-04-26;1294), che istituisce la medaglia a ricordo dell'Unita' d'Italia;
+Visto il [R. decreto 26 aprile 1883, n. 1294](Che%20istituisce%20una%20medaglia%20a%20ricordo%20dellunita%20dItalia.%20083U1294.md), che istituisce la medaglia a ricordo dell'Unita' d'Italia;
 
-Visto il [R. decreto 19 gennaio 1922, n. 1229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-19;1229), che estende l'autorizzazione a fregiarsi della medaglia dell'Unita' d'Italia anche ai combattenti che hanno diritto alla medaglia commemorativa nazionale della guerra 1915-918;
+Visto il [R. decreto 19 gennaio 1922, n. 1229](Che%20estende%20a%20tutti%20i%20combattenti%20ai%20quali%20e%20stata%20o%20sara%20concessa%20la%20medaglia%20commemorativa%20nazionale%20della%20guerra%201915-918%20lautorizzazione%20a%20fregiarsi%20della%20medaglia%20istituita%20a%20ricordo_b8ca7796c68c.md), che estende l'autorizzazione a fregiarsi della medaglia dell'Unita' d'Italia anche ai combattenti che hanno diritto alla medaglia commemorativa nazionale della guerra 1915-918;
 
 Sentito il Consiglio dei ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro ministro segretario di Stato per gli affari della guer
 
 ## Art. 1.
 
-E' concessa all'Associazione nazionale madri e vedove dei caduti in guerra l'esclusivita' della coniazione e della vendita della medaglia dell'Unita' istituita col [R. decreto 19 gennaio 1922, n. 1229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-19;1229).
+E' concessa all'Associazione nazionale madri e vedove dei caduti in guerra l'esclusivita' della coniazione e della vendita della medaglia dell'Unita' istituita col [R. decreto 19 gennaio 1922, n. 1229](Che%20estende%20a%20tutti%20i%20combattenti%20ai%20quali%20e%20stata%20o%20sara%20concessa%20la%20medaglia%20commemorativa%20nazionale%20della%20guerra%201915-918%20lautorizzazione%20a%20fregiarsi%20della%20medaglia%20istituita%20a%20ricordo_b8ca7796c68c.md).
 
 ## Art. 2.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-01-09;2), convertito nella [legge 19 giugno 1940, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-19;762), concernente la istituzione di una imposta generale sull'entrata e successive modificazioni;
+Visto il [regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), concernente la istituzione di una imposta generale sull'entrata e successive modificazioni;
 
 Ritenuta la necessita' di determinare nuove forme ed altre caratteristiche delle marche istituite con l'articolo 56, lettera c), della citata legge per il pagamento della detta imposta;
 

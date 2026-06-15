@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 gennaio 1932, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-01-25;97), concernente il passaggio all'Istituto Poligrafico dello Stato della amministrazione, stampa e vendita del Foglio annunzi legali della provincia di Roma. 
+ E' convertito in legge il [R. decreto-legge 25 gennaio 1932, n. 97](Passaggio%20allIstituto%20Poligrafico%20dello%20Stato%20dellamministrazione%20stampa%20e%20vendita%20del%20Foglio%20annunzi%20legali%20della%20provincia%20di%20Roma.%20032U0097.md), concernente il passaggio all'Istituto Poligrafico dello Stato della amministrazione, stampa e vendita del Foglio annunzi legali della provincia di Roma. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 24 maggio 1932 - Anno X 
  

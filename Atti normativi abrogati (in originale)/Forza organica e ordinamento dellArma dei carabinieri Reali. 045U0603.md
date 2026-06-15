@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 1° febbraio 1920, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-02-01;128), e successive modificazioni;
+Visto il [R. decreto-legge 1° febbraio 1920, n. 128](Che%20reca%20provvedimenti%20per%20larma%20dei%20carabinieri%20Reali.%20020U0128.md), e successive modificazioni;
 
-Vista la [legge 9 maggio 1940, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;368), e successive modificazioni;
+Vista la [legge 9 maggio 1940, n. 368](Ordinamento%20del%20Regio%20esercito.%20040U0368.md), e successive modificazioni;
 
 Visto il [decreto legislativo Luogotenenziale 28 giugno 1945, n. 445](Aumento%20dellorganico%20dellArma%20dei%20carabinieri%20Reali.%20045U0445.md), col quale gli organici dell'Arma dei carabinieri Reali sono aumentati di 10.000 unita';
 

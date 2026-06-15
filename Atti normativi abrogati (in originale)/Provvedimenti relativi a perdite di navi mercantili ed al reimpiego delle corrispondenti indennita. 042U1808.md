@@ -90,7 +90,7 @@ Nei giudizi stessi si applicano, nei riguardi dell'Unione predetta, le disposizi
 
 ## Art. 8.
 
-Fino al 180° giorno dopo la dichiarazione della cessazione dello stato di guerra la mancata contestazione, nel termine previsto dal [primo comma dell'art. 546 del Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_546-com1), da parte delle Amministrazioni dello Stato, della validita' dell'abbandono di navi o galleggianti requisiti o noleggiati dalle Amministrazioni stesse, con assunzione dei rischi di guerra od ordinari di navigazione, non implica accettazione degli atti di abbandono se non dopo il decorso di sei mesi dalla data dell'abbandono stesso.
+Fino al 180° giorno dopo la dichiarazione della cessazione dello stato di guerra la mancata contestazione, nel termine previsto dal [primo comma dell'art. 546 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), da parte delle Amministrazioni dello Stato, della validita' dell'abbandono di navi o galleggianti requisiti o noleggiati dalle Amministrazioni stesse, con assunzione dei rischi di guerra od ordinari di navigazione, non implica accettazione degli atti di abbandono se non dopo il decorso di sei mesi dalla data dell'abbandono stesso.
 
 ## Art. 9.
 
@@ -100,7 +100,7 @@ Per il pagamento delle indennita' spettanti per il risarcimento dei danni di gue
 
 Le navi mercantili nazionali rifugiatesi, all'inizio della guerra, in porti neutrali possono essere requisite per acquisto dal Ministero delle comunicazioni, ai sensi della [legge 13 luglio 1939, n. 1154](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md), e successive modificazioni, anche con efficacia retroattiva. 
  
- Per tali navi potra' derogarsi alle condizioni previste dal [secondo](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md) e [terzo comma dell'art. 12 della legge 13 luglio 1939, n. 1154](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md), modificata, col [R. decreto 22 dicembre 1941, n. 1601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-12-22;1601). 
+ Per tali navi potra' derogarsi alle condizioni previste dal [secondo](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md) e [terzo comma dell'art. 12 della legge 13 luglio 1939, n. 1154](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md), modificata, col [R. decreto 22 dicembre 1941, n. 1601](Modificazioni%20alla%20legge%2013%20luglio%201939-XVII%20n.%201154%20recanti%20norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20041U1601.md). 
  
  Alle indennita' di requisizione per acquisto delle navi suddette, se di stazza lorda superiore a 1000 tonnellate, sono applicabili le norme contenute negli articoli 1 e 2 del presente decreto. Tuttavia il versamento in contanti ai singoli aventi diritto, ai sensi della lettera b) del primo comma dell'art. 2, sara' ragguagliato al 20 % della somma netta dovuta ove trattisi di navi di stazza lorda superiore a 1600 tonnellate.
 

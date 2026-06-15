@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 22 febbraio 1937, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-22;220), convertito nella [legge 25 giugno 1937, n. 1501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-25;1501), concernente l'ordinamento dell'Aeronautica militare, e successive modificazioni;
+Visto il [regio decreto-legge 22 febbraio 1937, n. 220](Ordinamento%20della%20Regia%20aeronautica.%20037U0220.md), convertito nella [legge 25 giugno 1937, n. 1501](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), concernente l'ordinamento dell'Aeronautica militare, e successive modificazioni;
 
-Visto il [regio decreto 14 ottobre 1938, n. 1759](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-10-14;1759), concernente la
+Visto il [regio decreto 14 ottobre 1938, n. 1759](Nuova%20circoscrizione%20militare%20territoriale%20della%20Regia%20aeronautica.%20038U1759.md), concernente la
 
 nuova circoscrizione militare territoriale dell'Aeronautica militare; Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -26,8 +26,8 @@ Sulla proposta del Ministro per la difesa; Decreta:
 
 ## Articolo unico.
 
-L'[art. 1 del regio decreto 14 ottobre 1938, n. 1759](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-10-14;1759#art_1), e' cosi' modificato:
- "In applicazione dell'[art. 5 del regio decreto-legge 22 febbraio 1937, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-22;220#art_5), convertito nella [legge 25 giugno 1937, n. 1501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-25;1501), i territori di giurisdizione dei quattro Comandi di zona aerea territoriale e dei Comandi di aeronautica della Sicilia e della Sardegna, previsti dall'art. 2 del citato [regio decreto-legge 22 febbraio 1937, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-22;220), sono cosi' stabiliti:
+L'[art. 1 del regio decreto 14 ottobre 1938, n. 1759](Nuova%20circoscrizione%20militare%20territoriale%20della%20Regia%20aeronautica.%20038U1759.md), e' cosi' modificato:
+ "In applicazione dell'[art. 5 del regio decreto-legge 22 febbraio 1937, n. 220](Ordinamento%20della%20Regia%20aeronautica.%20037U0220.md), convertito nella [legge 25 giugno 1937, n. 1501](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), i territori di giurisdizione dei quattro Comandi di zona aerea territoriale e dei Comandi di aeronautica della Sicilia e della Sardegna, previsti dall'art. 2 del citato [regio decreto-legge 22 febbraio 1937, n. 220](Ordinamento%20della%20Regia%20aeronautica.%20037U0220.md), sono cosi' stabiliti:
  I Zona aerea territoriale, sede di comando Milano: Piemonte, Valle d'Aosta, Lombardia, Trentino-Alto Adige-Friuli-Venezia Giulia, Emilia, Romagna, Veneto, fatta eccezione della provincia di Padova, Liguria, fatta eccezione della provincia di La Spezia, Marche, fatta eccezione della provincia di Ascoli Piceno;
  II Zona aerea, territoriale, con sede di comando in Padova: provincia di Padova;
  III Zona aerea territoriale, con sede di comando in Roma:

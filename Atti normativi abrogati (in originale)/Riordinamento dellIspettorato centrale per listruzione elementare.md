@@ -21,7 +21,7 @@ Gli ispettori centrali per l'istruzione elementare esercitano, per incarico del 
 
 ## Art. 2.
 
-Ai ruoli organici dell'Ispettorato centrale per l'istruzione elementare di cui alla tabella A annessa al [regio decreto 1 luglio 1933, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-07-01;786) e alla tabella B annessa al [regio decreto 6 giugno 1940, n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-06;684), e' sostituito il ruolo organico unico fissato nella tabella annessa alla, presente legge.
+Ai ruoli organici dell'Ispettorato centrale per l'istruzione elementare di cui alla tabella A annessa al [regio decreto 1 luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md) e alla tabella B annessa al [regio decreto 6 giugno 1940, n. 684](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20centrale%20del%20Ministero%20delleducazione%20nazionale.%20040U0684.md), e' sostituito il ruolo organico unico fissato nella tabella annessa alla, presente legge.
 
 ## Art. 3.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 23 agosto 1943, n. 731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-23;731);
+Visto il [regio decreto-legge 23 agosto 1943, n. 731](Autorizzazione%20al%20Ministro%20per%20le%20finanze%20a%20pagare%20dal%201%20luglio%201943%20a%20carico%20del%20bilancio%20statale%20le%20pensioni%20gravanti%20sui%20Comuni%20sulle%20Provincie%20e%20sulle%20Istituzioni%20pubbliche%20di%20benefic_7dd02202d5b2.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -32,7 +32,7 @@ Qualora gli interessati non siano in grado di presentare in tutto od in parte i 
 
 ## Art. 4.
 
-Qualora dai documenti comprovanti il loro diritto a pensione, presentati dal pensionati al Ministero del tesoro - Direzione generale del tesoro - agli affetti dell'[art. 2 del regio decreto-legge 23 agosto 1943, n. 731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-23;731#art_2), ovvero dai documenti presentati per la concessione della pensione provvisoria di riversibilita' di cui all'art. 2 del presente decreto, non possano trarsi, le indicazioni necessarie per determinare l'esatto importo annuo lordo della pensione base e degli eventuali assegni annessi, accordati dall'ente cui la partita fa carico, tali importi, ad ogni effetto, sono determinati riducendo del venti per cento l'ammontare risultante dai mezzi sussidiari di prova che sono stati prodotti e considerando il trattamento di quiescenza, cosi' ridotto, attribuito per due terzi a titolo di pensione vera e propria, per un terzo a titolo di caroviveri e gravato dalle normali ritenute vigenti per le pensioni similari a carico dello Stato.
+Qualora dai documenti comprovanti il loro diritto a pensione, presentati dal pensionati al Ministero del tesoro - Direzione generale del tesoro - agli affetti dell'[art. 2 del regio decreto-legge 23 agosto 1943, n. 731](Autorizzazione%20al%20Ministro%20per%20le%20finanze%20a%20pagare%20dal%201%20luglio%201943%20a%20carico%20del%20bilancio%20statale%20le%20pensioni%20gravanti%20sui%20Comuni%20sulle%20Provincie%20e%20sulle%20Istituzioni%20pubbliche%20di%20benefic_7dd02202d5b2.md), ovvero dai documenti presentati per la concessione della pensione provvisoria di riversibilita' di cui all'art. 2 del presente decreto, non possano trarsi, le indicazioni necessarie per determinare l'esatto importo annuo lordo della pensione base e degli eventuali assegni annessi, accordati dall'ente cui la partita fa carico, tali importi, ad ogni effetto, sono determinati riducendo del venti per cento l'ammontare risultante dai mezzi sussidiari di prova che sono stati prodotti e considerando il trattamento di quiescenza, cosi' ridotto, attribuito per due terzi a titolo di pensione vera e propria, per un terzo a titolo di caroviveri e gravato dalle normali ritenute vigenti per le pensioni similari a carico dello Stato.
 
 ## Art. 5.
 

@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);
+Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Visto il [R. decreto 21 marzo 1929, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-21;371);
+Visto il [R. decreto 21 marzo 1929, n. 371](Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md);
 
-Vista la [legge 27 giugno 1942, n. 851](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-06-27;851);
+Vista la [legge 27 giugno 1942, n. 851](Modificazioni%20al%20testo%20unico%20della%20legge%20comunale%20e%20provinciale%20approvato%20con%20R.%20decreto%203%20marzo%201934-XII%20n.%20383%20concernenti%20il%20nuovo%20stato%20giuridico%20dei%20segretari%20comunali%20e%20provinciali.%20042U0851.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -40,7 +40,7 @@ Ferme restando le attribuzioni devolute ai Prefetti col [decreto legislativo Luo
 
 ## Art. 2.
 
-Le attribuzioni esercitate dal Ministero dell'interno in virtu' della [legge 27 giugno 1942, n. 851](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-06-27;851), relativamente alle supplenze, alle reggenze, ai congedi, ai collocamenti in aspettativa e al trattamento economico dei segretari comunali di grado superiore al 5°, saranno esercitate nell'ambito delle rispettive circoscrizioni regionali dagli Alti Commissari per la Sicilia e la Sardegna.
+Le attribuzioni esercitate dal Ministero dell'interno in virtu' della [legge 27 giugno 1942, n. 851](Modificazioni%20al%20testo%20unico%20della%20legge%20comunale%20e%20provinciale%20approvato%20con%20R.%20decreto%203%20marzo%201934-XII%20n.%20383%20concernenti%20il%20nuovo%20stato%20giuridico%20dei%20segretari%20comunali%20e%20provinciali.%20042U0851.md), relativamente alle supplenze, alle reggenze, ai congedi, ai collocamenti in aspettativa e al trattamento economico dei segretari comunali di grado superiore al 5°, saranno esercitate nell'ambito delle rispettive circoscrizioni regionali dagli Alti Commissari per la Sicilia e la Sardegna.
  Il presente decreto entrera' in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

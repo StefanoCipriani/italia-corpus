@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto-legge 24 febbraio 1939, n. 317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-24;317), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), che dispone per la graduale attuazione del [regio decreto 13 settembre 1934, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-13;1602), in materia di invenzioni di modelli e di marchi;
+Visto il [regio decreto-legge 24 febbraio 1939, n. 317](Attuazione%20del%20R.%20decreto%2013%20settembre%201934%20n.%201602%20in%20materia%20di%20invenzioni%20di%20modelli%20e%20di%20marchi.%20039U0317.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), che dispone per la graduale attuazione del [regio decreto 13 settembre 1934, n. 1602](Privative%20industriali%20e%20marchi%20di%20fabbrica%20e%20di%20commercio.%20034U1602.md), in materia di invenzioni di modelli e di marchi;
 
-Visto il [regio decreto 21 giugno 1942, n. 929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-06-21;929), recante il testo delle disposizioni legislative in materia di brevetti per marchi d'impresa;
+Visto il [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), recante il testo delle disposizioni legislative in materia di brevetti per marchi d'impresa;
 
-Visto l'art. 86 del medesimo [regio decreto 21 giugno 1942, n. 929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-06-21;929), che dispone per la emanazione del Regolamento per l'applicazione del decreto stesso;
+Visto l'art. 86 del medesimo [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), che dispone per la emanazione del Regolamento per l'applicazione del decreto stesso;
 
 Udito il parere del Consiglio di Stato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro segretario di Stato per l'industria ed il commercio,
 
 ## Art. 1.
 
-E' approvato l'unito testo delle disposizioni regolamentari per l'applicazione del [regio decreto 21 giugno 1942, n. 929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-06-21;929), in materia di brevetti per marchi di impresa, visto dal Ministro Segretario di Stato per la industria ed il commercio.
+E' approvato l'unito testo delle disposizioni regolamentari per l'applicazione del [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), in materia di brevetti per marchi di impresa, visto dal Ministro Segretario di Stato per la industria ed il commercio.
 
 ## Art. 2.
 

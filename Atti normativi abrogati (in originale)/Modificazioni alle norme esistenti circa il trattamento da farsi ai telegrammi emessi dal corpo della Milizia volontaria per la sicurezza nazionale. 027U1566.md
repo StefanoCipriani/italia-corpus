@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 16 novembre 1921, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-16;1825), e [26 marzo 1922, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-03-26;424), sul trattamento dei telegrammi di Stato in franchigia e a pagamento;
+Visti i [Regi decreti 16 novembre 1921, n. 1825](Che%20reca%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20021U1825.md), e [26 marzo 1922, n. 424](Che%20reca%20modificazioni%20ed%20aggiunte%20a%20quello%2016%20novembre%201921%20contenente%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20022U0424.md), sul trattamento dei telegrammi di Stato in franchigia e a pagamento;
 
-Visti i [Regi decreti 18 marzo 1923, n. 682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-18;682), e [7 giugno 1923, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-07;1261), riguardanti il trattamento dei telegrammi emessi dal corpo della Milizia volontaria per la sicurezza nazionale;
+Visti i [Regi decreti 18 marzo 1923, n. 682](Concernente%20il%20trattamento%20da%20farsi%20ai%20telegrammi%20emessi%20dai%20Comandi%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0682.md), e [7 giugno 1923, n. 1261](Riguardante%20la%20soppressione%20nella%20franchigia%20telegrafica%20al%20Corpo%20della%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U1261.md), riguardanti il trattamento dei telegrammi emessi dal corpo della Milizia volontaria per la sicurezza nazionale;
 
 Visto che ad alcuni reparti del corpo predetto sono state affidate mansioni di polizia giudiziaria;
 
@@ -36,7 +36,7 @@ Sono considerati come di Stato, e godono della franchigia di tutte le tasse inte
 
 ## Art. 2.
 
-Tutti gli altri telegrammi, emessi per esclusive ed urgenti ragioni di servizio del corpo della Milizia volontaria per la sicurezza nazionale (ivi compresi i reparti specificati all'articolo 1, quando non trattino di affari di polizia giudiziaria), sono considerati come telegrammi di Stato a pagamento, con le norme indicate all'[art. 2 del R. decreto n. 1825 del 16 novembre 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-16;1825#art_2).
+Tutti gli altri telegrammi, emessi per esclusive ed urgenti ragioni di servizio del corpo della Milizia volontaria per la sicurezza nazionale (ivi compresi i reparti specificati all'articolo 1, quando non trattino di affari di polizia giudiziaria), sono considerati come telegrammi di Stato a pagamento, con le norme indicate all'[art. 2 del R. decreto n. 1825 del 16 novembre 1921](Che%20reca%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20021U1825.md).
 
 ## Art. 3.
 

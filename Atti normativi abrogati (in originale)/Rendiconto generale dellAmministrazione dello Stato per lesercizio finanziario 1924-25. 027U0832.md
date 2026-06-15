@@ -335,7 +335,7 @@ E' accertata nella somma di L. 21,815,388.27 la differenza passiva del conto fin
 
 ### Art. 17.
 
-Sono convalidati i [Regi decreti 18 gennaio 1925, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-18;30), [15 febbraio 1925, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-15;215), e [4 maggio 1925, n. 771](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;771), che autorizzano prelevamenti dal fondo di riserva per le spese impreviste inscritto nello stato di previsione dalla spesa dell'amministrazione del Fondo per il culto, per l'esercizio finanziario 1924-25.
+Sono convalidati i [Regi decreti 18 gennaio 1925, n. 30](Prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20nel%20bilancio%20dellamministrazione%20del%20Fondo%20per%20il%20culto%20per%20lesercizio%20finanziario%201924-25.%20025U0030.md), [15 febbraio 1925, n. 215](Prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20nel%20bilancio%20dellAmministrazione%20del%20fondo%20per%20il%20culto%20per%20lesercizio%20finanziario%201924-1925.%20025U0215.md), e [4 maggio 1925, n. 771](Prelevamento%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellAmministrazione%20del%20fondo%20per%20il%20culto.%20025U0771.md), che autorizzano prelevamenti dal fondo di riserva per le spese impreviste inscritto nello stato di previsione dalla spesa dell'amministrazione del Fondo per il culto, per l'esercizio finanziario 1924-25.
 
 ### Art. 18.
 

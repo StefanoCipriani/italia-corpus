@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 30 marzo 1933, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-30;323), recante modificazioni al piano finanziario della legge sulla bonifica integrale. 
+ E' convertito in legge il [R. decreto legge 30 marzo 1933, n. 323](Modifiche%20al%20piano%20finanziario%20della%20legge%20sulla%20bonifica%20integrale.%20033U0323.md), recante modificazioni al piano finanziario della legge sulla bonifica integrale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

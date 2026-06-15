@@ -37,7 +37,7 @@ La Scuola e' governata dal Consiglio, composto dal preside eletto a norma delle 
 
 ## Art. 4.
 
-L'organico della Scuola comprende i due posti di professore di ruolo assegnati con [decreto del Presidente della Repubblica 27 gennaio 1955, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-01-27;36), e il posto di assistente ordinario assegnato con decreto del Ministro per la pubblica istruzione in data 29 novembre 1951.
+L'organico della Scuola comprende i due posti di professore di ruolo assegnati con [decreto del Presidente della Repubblica 27 gennaio 1955, n. 36](../DPR/Ripartizione%20degli%20ottantacinque%20posti%20di%20professore%20universitario%20di%20ruolo%20istituiti%20con%20la%20legge%2024%20dicembre%201954%20n.%201262.md), e il posto di assistente ordinario assegnato con decreto del Ministro per la pubblica istruzione in data 29 novembre 1951.
 
 ## Art. 5.
 

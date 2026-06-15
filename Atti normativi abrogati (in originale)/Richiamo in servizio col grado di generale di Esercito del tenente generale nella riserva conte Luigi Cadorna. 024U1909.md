@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il tenente generale nella riserva conte Luigi Cadorna e' richiamato in servizio col grado di generale d'Esercito ed e' considerato in soprannumero rispetto alla tabella n. 53, allegato II, al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395). 
+ Il tenente generale nella riserva conte Luigi Cadorna e' richiamato in servizio col grado di generale d'Esercito ed e' considerato in soprannumero rispetto alla tabella n. 53, allegato II, al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Al conte Cadorna sono estese, in quanto applicabili, le disposizioni del [R. decreto 2 maggio 1920, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-02;555). 
  

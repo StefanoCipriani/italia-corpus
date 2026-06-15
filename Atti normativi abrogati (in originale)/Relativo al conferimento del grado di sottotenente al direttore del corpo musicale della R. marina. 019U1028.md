@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata:
 
-Vista la [legge 29 giugno 1913, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;797), sull'ordinamento dei corpi militari della R. marina;
+Vista la [legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), sull'ordinamento dei corpi militari della R. marina;
 
 Udito il consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro della marina; Abbiamo decretato e decretiamo.
 
 ## Art. 1.
 
-Il direttore del corpo musicale della R. marina, a modificazione di quanto risulta dalla tabella B annessa alla [legge 29 giugno 1913, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;797), e' gerarchicamente parificato al grado di sottotenente.
+Il direttore del corpo musicale della R. marina, a modificazione di quanto risulta dalla tabella B annessa alla [legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), e' gerarchicamente parificato al grado di sottotenente.
 
 ## Art. 2.
 
@@ -37,7 +37,7 @@ marina.
 
 ## Art. 3.
 
-Nulla e' variato a quanto e' disposto per il direttore del corpo musicale della R marina dall'[art. 24 della legge 29 giugno 1913, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;797#art_24), e della tabella C (corpo Reale equipaggi) annessa alla legge stessa.
+Nulla e' variato a quanto e' disposto per il direttore del corpo musicale della R marina dall'[art. 24 della legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), e della tabella C (corpo Reale equipaggi) annessa alla legge stessa.
 
 ## Art. 4.
 

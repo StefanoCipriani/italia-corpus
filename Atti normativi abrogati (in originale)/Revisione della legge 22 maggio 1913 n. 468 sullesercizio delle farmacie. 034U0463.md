@@ -148,7 +148,7 @@ L'[art. 15 della legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20
 
 L'[art. 16 della legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), e' modificato come segue: 
  
- «I titolari delle farmacie, siano essi persone fisiche, enti o societa', sono tenuti al pagamento di una tassa annuale di ispezione, nella misura risultante alla tabella A, annessa alla [legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), e modificata dall'[art. 9 del R. decreto 21 ottobre 1923, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367#art_9). 
+ «I titolari delle farmacie, siano essi persone fisiche, enti o societa', sono tenuti al pagamento di una tassa annuale di ispezione, nella misura risultante alla tabella A, annessa alla [legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), e modificata dall'[art. 9 del R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md). 
  
  «La riscossione della tassa ha luogo con le norme per la riscossione delle imposte dirette, in base agli elenchi compilati annualmente, entro il mese di novembre, dalle agenzie delle imposte dirette e resi esecutori dal prefetto».
 
@@ -212,7 +212,7 @@ Nulla e' innovato al disposto dell'[art. 26 della legge 22 maggio 1913, n. 468](
 
 ### Art. 19.
 
-Alle farmacie privilegiate prevedute nell'[art. 28 della legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), che siano in esercizio alla scadenza del trentennio stabilito dallo stesso art. 28, ed alle farmacie di diritto transitorio della Venezia Giulia e Tridentina, e del territorio di Fiume, che siano in esercizio alla scadenza dei termini stabiliti dall'[art. 15 del R. decreto 13 maggio 1923, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-13;1238#art_15), ed 11 del [R. decreto 16 agosto 1926, n. 1914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1914), saranno applicate le disposizioni di cui agli articoli 14, 15, 16 e 17 del presente Regio decreto-legge.
+Alle farmacie privilegiate prevedute nell'[art. 28 della legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), che siano in esercizio alla scadenza del trentennio stabilito dallo stesso art. 28, ed alle farmacie di diritto transitorio della Venezia Giulia e Tridentina, e del territorio di Fiume, che siano in esercizio alla scadenza dei termini stabiliti dall'[art. 15 del R. decreto 13 maggio 1923, n. 1238](Che%20estende%20alle%20Nuove%20Provincie%20la%20legislazione%20sanitaria%20vigente%20nel%20Regno.%20023U1238.md), ed 11 del [R. decreto 16 agosto 1926, n. 1914](Estensione%20alla%20provincia%20del%20Carnaro%20della%20legislazione%20sanitaria%20vigente%20nel%20Regno.%20026U1914.md), saranno applicate le disposizioni di cui agli articoli 14, 15, 16 e 17 del presente Regio decreto-legge.
 
 ### Art. 20.
 

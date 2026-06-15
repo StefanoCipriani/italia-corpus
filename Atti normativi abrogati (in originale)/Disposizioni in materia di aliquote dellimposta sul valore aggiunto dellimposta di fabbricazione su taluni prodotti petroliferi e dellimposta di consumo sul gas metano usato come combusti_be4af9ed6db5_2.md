@@ -24,7 +24,7 @@ E M A N A il seguente decreto:
 
 1.
 
-L'aliquota dell'imposta sul valore aggiunto stabilita nella misura del 18 per cento e' elevata al 19 per cento. Agli effetti dell'[articolo 27, quarto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_27-com4), la quota imponibile corrispondente alla aliquota del 19 per cento si ottiene riducendo il corrispettivo, comprensivo di imponibile e di imposta, del 15,95 per cento o, in alternativa, dividendo il corrispettivo stesso per 119 e moltiplicando il quoziente per 100.
+L'aliquota dell'imposta sul valore aggiunto stabilita nella misura del 18 per cento e' elevata al 19 per cento. Agli effetti dell'[articolo 27, quarto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), la quota imponibile corrispondente alla aliquota del 19 per cento si ottiene riducendo il corrispettivo, comprensivo di imponibile e di imposta, del 15,95 per cento o, in alternativa, dividendo il corrispettivo stesso per 119 e moltiplicando il quoziente per 100.
 
 2.
 
@@ -62,7 +62,7 @@ L'imposta di consumo sul gas metano usato come combustibile e' aumentata da L. 4
 
 1.
 
-Fino alla data del 31 dicembre 1992 continuano ad applicarsi le disposizioni dell'[art. 11 del decreto-legge 19 settembre 1987, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-19;384#art_11), convertito, con modificazioni, dalla [legge 19 novembre 1987, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-19;470), salva, ai fini dell'imposta sul valore aggiunto, l'applicazione dell'aliquota del 4 per cento per le cessioni e le prestazioni previste nelle medesime disposizioni. Al relativo onere, valutato in lire 33 miliardi in ragione d'anno, si provvede con le maggiori entrate derivanti dal presente decreto.
+Fino alla data del 31 dicembre 1992 continuano ad applicarsi le disposizioni dell'[art. 11 del decreto-legge 19 settembre 1987, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-19;384#art_11), convertito, con modificazioni, dalla [legge 19 novembre 1987, n. 470](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201987%20n.%20384%20recante%20disposizioni%20urgenti%20in%20favore%20dei%20comuni%20della%20Valtellina%20della%20Val%20Formazza%20della%20Val%20Brembana%20_535b0b725588.md), salva, ai fini dell'imposta sul valore aggiunto, l'applicazione dell'aliquota del 4 per cento per le cessioni e le prestazioni previste nelle medesime disposizioni. Al relativo onere, valutato in lire 33 miliardi in ragione d'anno, si provvede con le maggiori entrate derivanti dal presente decreto.
 
 ## Art. 4.
 

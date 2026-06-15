@@ -20,7 +20,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia 
 
 ## Art. 1.
 
-I giudici, tuttora addetti nelle preture come vice-pretori ai posti che, secondo le tabelle organiche, dovrebbero essere coperti con uditori, non potranno continuare in tali funzioni oltre il 31 dicembre 1924. Dopo questa data, coloro che non siano stati prima trasferiti, saranno destinati di ufficio ai posti vacanti del loro grado nei tribunali e nelle preture, ferma rimanendo per i giudici provenienti dai concorsi speciali per pretore, la limitazione di cui all'[art. 218 del R. decreto 30 dicembre 1923, n. 2786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2786#art_218).
+I giudici, tuttora addetti nelle preture come vice-pretori ai posti che, secondo le tabelle organiche, dovrebbero essere coperti con uditori, non potranno continuare in tali funzioni oltre il 31 dicembre 1924. Dopo questa data, coloro che non siano stati prima trasferiti, saranno destinati di ufficio ai posti vacanti del loro grado nei tribunali e nelle preture, ferma rimanendo per i giudici provenienti dai concorsi speciali per pretore, la limitazione di cui all'[art. 218 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md).
 
 ## Art. 2.
 

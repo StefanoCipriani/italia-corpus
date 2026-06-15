@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vedute le [leggi 30 dicembre 1906, n. 649 e 6 luglio 1911, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;685) ed il regolamento per il Corpo degli agenti di custodia, approvato con [R. decreto 24 marzo 1907, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-03-24;150);
+Vedute le [leggi 30 dicembre 1906, n. 649 e 6 luglio 1911, n. 685](Che%20apporta%20modificazioni%20allorganico%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20011U0685.md) ed il regolamento per il Corpo degli agenti di custodia, approvato con [R. decreto 24 marzo 1907, n. 150](Che%20approva%20lannesso%20regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20007U0150.md);
 
 Udito il Consiglio dei ministri;
 
@@ -28,22 +28,22 @@ Sulla proposta del presidente del Consiglio dei ministri, ministro dell'interno,
 
 ## Art. 1.
 
-Alla tabella allegata alla [legge 6 luglio 1911, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;685), e' sostituita, per quanto riguarda le paghe spettanti ai graduati, alle guardie scelte, alle guardie, nonche' agli allievi guardie del Corpo degli agenti di custodia, quella annessa al presente decreto.
+Alla tabella allegata alla [legge 6 luglio 1911, n. 685](Che%20apporta%20modificazioni%20allorganico%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20011U0685.md), e' sostituita, per quanto riguarda le paghe spettanti ai graduati, alle guardie scelte, alle guardie, nonche' agli allievi guardie del Corpo degli agenti di custodia, quella annessa al presente decreto.
 
 ## Art. 2.
 
-Il disposto dell'ultimo comma della tabella A, annessa al testo unico della legge sull'ordinamento della R. guardia di finanza, approvato con [R. decreto 26 novembre 1914, n. 1440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-26;1440), e' applicabile anche alle paghe dei graduati, delle guardie scelte, delle guardie, nonche' degli allievi guardie del Corpo degli agenti di custodia.
+Il disposto dell'ultimo comma della tabella A, annessa al testo unico della legge sull'ordinamento della R. guardia di finanza, approvato con [R. decreto 26 novembre 1914, n. 1440](Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md), e' applicabile anche alle paghe dei graduati, delle guardie scelte, delle guardie, nonche' degli allievi guardie del Corpo degli agenti di custodia.
 
 ## Art. 3.
 
-L'aumento di paga di cui all'[art. 2 della legge 6 luglio 1911, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;685#art_2), e', a datare dalla pubblicazione del presente decreto, convertito in soprassoldo. 
+L'aumento di paga di cui all'[art. 2 della legge 6 luglio 1911, n. 685](Che%20apporta%20modificazioni%20allorganico%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20011U0685.md), e', a datare dalla pubblicazione del presente decreto, convertito in soprassoldo. 
  
  Tale soprassoldo sara' mantenuto anche in caso di promozione e sara' computato agli effetti della pensione. 
  
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [D.L. Luogotenenziale 6 aprile 1919, n. 493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1919-04-06;493), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [D.L. Luogotenenziale 6 aprile 1919, n. 493](Che%20modifica%20la%20tabella%20organica%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20allegata%20al%20decreto%20Luogotenenziale%2020%20febbraio%201919%20n.%20220%20e%20reca%20altresi%20disposizioni%20riflettenti%20miglioramenti%20ec_a2bef912d55e.md), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 
@@ -74,4 +74,4 @@ Il ministro del tesoro e' autorizzato ad introdurre nello stato di previsione de
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [D.L. Luogotenenziale 6 aprile 1919, n. 493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1919-04-06;493), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [D.L. Luogotenenziale 6 aprile 1919, n. 493](Che%20modifica%20la%20tabella%20organica%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20allegata%20al%20decreto%20Luogotenenziale%2020%20febbraio%201919%20n.%20220%20e%20reca%20altresi%20disposizioni%20riflettenti%20miglioramenti%20ec_a2bef912d55e.md), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

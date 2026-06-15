@@ -44,7 +44,7 @@ In luogo della imposta sul valore locativo, istituita cogli articoli 16 a 20 del
 
 ## Art. 2.
 
-All'art. 309 della legge comunale e provinciale (testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148)) e' sostituito il seguente: 
+All'art. 309 della legge comunale e provinciale (testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md)) e' sostituito il seguente: 
  
  «La sovrimposta ai tributi diretti fondiari a favore dei bilanci delle Provincie e dei Comuni puo' essere deliberata nella sua ragione proporzionale in misura diversa rispetto all'imposta erariale sui terreni ed a quella sui fabbricati. 
  
@@ -63,7 +63,7 @@ All'art. 309 della legge comunale e provinciale (testo unico approvato con [R. d
  12,50 per cento sugli imponibili effettivi dell'anno 
  al quale si riferisce l'imposta. 
  
- «In caso di sospensione o di abbuono dell'imposta erariale sui terreni per infortuni straordinari, possono le Provincie e i Comuni concedere ai danneggiati lo sgravio delle rispettive sovrimposte e provvedere ai mezzi necessari per le spese obbligatorie con le norme stabilite dall'art 147 del testo unico delle leggi sulla Cassa dei depositi o prestiti approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453)». 
+ «In caso di sospensione o di abbuono dell'imposta erariale sui terreni per infortuni straordinari, possono le Provincie e i Comuni concedere ai danneggiati lo sgravio delle rispettive sovrimposte e provvedere ai mezzi necessari per le spese obbligatorie con le norme stabilite dall'art 147 del testo unico delle leggi sulla Cassa dei depositi o prestiti approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md)». 
  
  Finche' rimanga in vigore il decreto 9 settembre 1917 n. 1546, la imposta principale erariale agli effetti delle sovraimposte comunali e provinciali sara' calcolata ai sensi dell'art. 5 del decreto medesimo.
 

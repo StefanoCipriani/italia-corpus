@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 ottobre 1934, n. 1817](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-11;1817), che approva una convenzione modificativa di quelle vigenti con la Societa' anonima di navigazione marittima «Adria». 
+ E' convertito in legge il [R. decreto-legge 11 ottobre 1934, n. 1817](Approvazione%20della%20convenzione%20modificativa%20di%20quelle%20vigenti%20con%20la%20Societa%20anonima%20di%20navigazione%20marittima%20%20Adria%20.%20034U1817.md), che approva una convenzione modificativa di quelle vigenti con la Societa' anonima di navigazione marittima «Adria». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

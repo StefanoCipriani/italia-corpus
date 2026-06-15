@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il [R. decreto-legge 5 aprile 1928, n. 1095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-04-05;1095), contenente disposizioni sull'ordinamento del personale addetto all'Azienda foreste demaniali, e' convertito in legge. 
+ Il [R. decreto-legge 5 aprile 1928, n. 1095](Disposizioni%20sullordinamento%20del%20personale%20addetto%20allAzienda%20foreste%20demaniali.%20028U1095.md), contenente disposizioni sull'ordinamento del personale addetto all'Azienda foreste demaniali, e' convertito in legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

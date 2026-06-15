@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-14;1281) e successive modificazioni;
 
-Vista la [legge 20 marzo 1940, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-03-20;234);
+Vista la [legge 20 marzo 1940, n. 234](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Aumento%20degli%20organici%20reclutamento%20degli%20ufficiali%20di%20complemento%20avanzamento%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20e%20delega%20al%20Governo%20per%20la%20pubblicazione%20del%20testo%20unico%20dei%20prov_e6d9692fbd55.md);
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per le Finanze, di concerto col 
 
 ## Art. 1.
 
-E' istituito, dal 1° marzo 1944 e fino a quando non sara' ricostituito il Comando Generale della Regia Guardia di Finanza di cui al [R. decreto-legge 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-14;1281) e alla [legge 20 marzo 1940, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-03-20;234), il Comando R. Guardia di Finanza dell'Italia liberata.
+E' istituito, dal 1° marzo 1944 e fino a quando non sara' ricostituito il Comando Generale della Regia Guardia di Finanza di cui al [R. decreto-legge 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-14;1281) e alla [legge 20 marzo 1940, n. 234](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Aumento%20degli%20organici%20reclutamento%20degli%20ufficiali%20di%20complemento%20avanzamento%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20e%20delega%20al%20Governo%20per%20la%20pubblicazione%20del%20testo%20unico%20dei%20prov_e6d9692fbd55.md), il Comando R. Guardia di Finanza dell'Italia liberata.
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 giugno 1931, n. 940](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-25;940), recante aggiunte e varianti all'art. 71 della legge sullo stato degli ufficiali, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 25 giugno 1931, n. 940](Aggiunte%20e%20varianti%20allart.%2071%20della%20legge%20sullo%20stato%20degli%20ufficiali.%20031U0940.md), recante aggiunte e varianti all'art. 71 della legge sullo stato degli ufficiali, con la seguente modificazione: 
  
  All'art. 1, lettera f), n. 3, dopo le parole: «e negli articoli 860 e 861», sono aggiunte le altre: «secondo capoverso e seguenti». 
  

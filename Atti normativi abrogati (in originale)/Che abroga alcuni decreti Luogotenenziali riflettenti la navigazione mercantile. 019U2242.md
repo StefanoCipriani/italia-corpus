@@ -18,7 +18,7 @@ Visto il Codice per la marina mercantile ed il relativo regolamento;
 
 Visto il Codice di commercio;
 
-Visto il [Regio decreto 22 giugno 1916, n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1916-06-22;756), col quale fu istituito il Ministero per i trasporti marittimi e ferroviari;
+Visto il [Regio decreto 22 giugno 1916, n. 756](Concernente%20listituzione%20del%20Ministero%20dei%20trasporti%20marittimi%20e%20ferroviari.%20016U0756.md), col quale fu istituito il Ministero per i trasporti marittimi e ferroviari;
 
 Visti i [decreti Luogotenenziali 17 ottobre 1915, n. 1509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-17;1509), [28 novembre 1915, n. 1708](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-28;1708); [2 aprile 1916, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-04-02;369); [11 gennaio 1917, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-11;51); [8 marzo 1917, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-03-08;474); [6 maggio 1917, n. 842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-06;842); [15 maggio 1917, n. 874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-15;874) e [2 settembre 1917, n. 1535](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-09-02;1535);
 

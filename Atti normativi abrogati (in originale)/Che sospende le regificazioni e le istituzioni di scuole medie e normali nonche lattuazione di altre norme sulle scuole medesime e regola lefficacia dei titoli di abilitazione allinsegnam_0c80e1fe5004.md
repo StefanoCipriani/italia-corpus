@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Veduto l'art. 1 del Nostro decreto da convertirsi in [legge in data 18 novembre 1915, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-11-18;1022);
 
-Ritenuto che per la disposta sospensione dei concorsi e dell'assunzione di nuovo personale di ruolo nelle pubbliche amministrazioni e' necessario provvedere ad alcune modificazioni delle norme di legge vigenti per la formazione dei ruoli organici del personale dirigente ed insegnante delle scuole medie e normali, per le regificazioni ed istituzioni di scuole medie e normali, e del [2° comma dell'art. 2 della legge 27 giugno 1912, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;677#art_2-com2) sull'Ispettorato delle scuole medie;
+Ritenuto che per la disposta sospensione dei concorsi e dell'assunzione di nuovo personale di ruolo nelle pubbliche amministrazioni e' necessario provvedere ad alcune modificazioni delle norme di legge vigenti per la formazione dei ruoli organici del personale dirigente ed insegnante delle scuole medie e normali, per le regificazioni ed istituzioni di scuole medie e normali, e del [2° comma dell'art. 2 della legge 27 giugno 1912, n. 677](Concernente%20lIspettorato%20delle%20scuole%20medie%20e%20normali%20012U0677.md) sull'Ispettorato delle scuole medie;
 
 Veduto l'art. 4 del Nostro decreto, da convertirsi in [legge, in data 25 luglio 1915, n. 1327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-07-25;1327), e ritenuta l'opportunita' di togliere per l'anno scolastico 1916-917 il divieto dei trasferimenti su domanda del personale insegnante e direttivo delle scuole predette;
 
@@ -34,7 +34,7 @@ Sulla proposta del ministro segretario di Stato per pubblica istruzione di conce
 
 ## Art. 1.
 
-Per gli anni scolastici 1916-1917, 1917-1918, 1918-1919 e' sospesa l'applicazione dei primi tre comma dell'[art. 10 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_10). 
+Per gli anni scolastici 1916-1917, 1917-1918, 1918-1919 e' sospesa l'applicazione dei primi tre comma dell'[art. 10 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md). 
  
  Sono del pari sospese sino a nuova disposizione le regificazioni ed istituzioni di scuole medie o normali consentito dalle vigenti leggi. 
  
@@ -48,7 +48,7 @@ Con effetto dall'anno scolastico 1916-917 e' abrogato l'art. 4 del decreto Luogo
 
 ## Art. 3.
 
-La disposizione del [2° comma dell'art. 2 della legge 27 giugno 1912, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;677#art_2-com2), sull'Ispettorato delle scuole medie e normali riguardante la rinnovazione parziale dell'Ispettorato centrale, si considera ugualmente adempiuta se, alla scadenza del biennio, sia gia' avvenuto nell'Ispettorato centrale, in seguito a vacanze per qualsiasi causa verificatesi, il passaggio di tre ispettori dei circoli regionali.
+La disposizione del [2° comma dell'art. 2 della legge 27 giugno 1912, n. 677](Concernente%20lIspettorato%20delle%20scuole%20medie%20e%20normali%20012U0677.md), sull'Ispettorato delle scuole medie e normali riguardante la rinnovazione parziale dell'Ispettorato centrale, si considera ugualmente adempiuta se, alla scadenza del biennio, sia gia' avvenuto nell'Ispettorato centrale, in seguito a vacanze per qualsiasi causa verificatesi, il passaggio di tre ispettori dei circoli regionali.
 
 ## Art. 4.
 
@@ -56,7 +56,7 @@ Gli italiani non regnicoli, che abbiano conseguito una laurea od altro titolo di
 
 ## Art. 5.
 
-Anche per l'anno scolastico 1916-917 e' sospesa l'applicazione dell'[art. 29 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_29), ed e' parimente sospesa, per il medesimo anno scolastico, l'applicazione dell'art. 20 della stessa legge.
+Anche per l'anno scolastico 1916-917 e' sospesa l'applicazione dell'[art. 29 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), ed e' parimente sospesa, per il medesimo anno scolastico, l'applicazione dell'art. 20 della stessa legge.
 
 ## Art. 6.
 

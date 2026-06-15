@@ -54,7 +54,7 @@ Salvo che per i trasporti effettuati in base alle tariffe ordinarie n. 6 e n. 10
 
 ## Art. 3.
 
-E' applicabile alle soprattasse di cui al presente decreto il disposto dell'[art. 12 del R. decreto-legge 9 ottobre 1919, n. 2159](Che%20stabilisce%20laumento%20delle%20tariffe%20ferroviarie.%20019U2159.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), restando devoluto alle Ferrovie dello Stato l'importo integrale delle soprattasse medesime, anche per quanto concerne le linee di proprieta' privata esercite dallo Stato, comprese le quote riferentisi alle tasse erariali ed alla tassa e soprattassa di bollo.
+E' applicabile alle soprattasse di cui al presente decreto il disposto dell'[art. 12 del R. decreto-legge 9 ottobre 1919, n. 2159](Che%20stabilisce%20laumento%20delle%20tariffe%20ferroviarie.%20019U2159.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), restando devoluto alle Ferrovie dello Stato l'importo integrale delle soprattasse medesime, anche per quanto concerne le linee di proprieta' privata esercite dallo Stato, comprese le quote riferentisi alle tasse erariali ed alla tassa e soprattassa di bollo.
 
 ## Art. 4.
 

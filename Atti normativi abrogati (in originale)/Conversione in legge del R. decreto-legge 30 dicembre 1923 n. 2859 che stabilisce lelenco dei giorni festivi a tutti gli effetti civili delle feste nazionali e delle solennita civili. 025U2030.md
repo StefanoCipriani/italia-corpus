@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il [R. decreto-legge 30 dicembre 1923, n. 2859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;2859), che stabilisce l'elenco dei giorni festivi, a tutti gli effetti civili, delle feste nazionali e delle solennita' civili, e' convertito in legge. 
+ Il [R. decreto-legge 30 dicembre 1923, n. 2859](Elenco%20dei%20giorni%20festivi%20a%20tutti%20gli%20effetti%20civili%20delle%20feste%20nazionali%20e%20delle%20solennita%20civili.%20023U2859.md), che stabilisce l'elenco dei giorni festivi, a tutti gli effetti civili, delle feste nazionali e delle solennita' civili, e' convertito in legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

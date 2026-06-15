@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 28 settembre 1939, n. 1822](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-09-28;1822), sulla disciplina degli autoservizi di linee per viaggiatori, bagagli e pacchi agricoli in regime di concessione alla industria privata;
+Vista la [legge 28 settembre 1939, n. 1822](Disciplina%20degli%20autoservizi%20di%20linea%20autolinee%20per%20viaggiatori%20bagagli%20e%20pacchi%20agricoli%20in%20regime%20di%20concessione%20allindustria%20privata.%20039U1822.md), sulla disciplina degli autoservizi di linee per viaggiatori, bagagli e pacchi agricoli in regime di concessione alla industria privata;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -26,7 +26,7 @@ Sulla proposta dei Ministri Segretari di Stato per i trasporti e per le poste e 
 
 ## Art. 1.
 
-Fermo l'obbligo delle imprese esercenti servizi pubblici automobilistici in base a concessione definitiva o provvisoria di eseguire il trasporto degli effetti postali a sensi della [legge 28 settembre 1939, n. 1822](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-09-28;1822), i canoni stabiliti dall'art. 16 di tale legge sono modificati come segue: 
+Fermo l'obbligo delle imprese esercenti servizi pubblici automobilistici in base a concessione definitiva o provvisoria di eseguire il trasporto degli effetti postali a sensi della [legge 28 settembre 1939, n. 1822](Disciplina%20degli%20autoservizi%20di%20linea%20autolinee%20per%20viaggiatori%20bagagli%20e%20pacchi%20agricoli%20in%20regime%20di%20concessione%20allindustria%20privata.%20039U1822.md), i canoni stabiliti dall'art. 16 di tale legge sono modificati come segue: 
  
  I canoni annui da corrispondersi per il trasporto degli effetti postali sono commisurati a L. 450 per chilometro di linea utilizzata per il trasporto stesso e a L. 50 per ogni ufficio postale intermedio servito. 
  
@@ -36,7 +36,7 @@ Fermo l'obbligo delle imprese esercenti servizi pubblici automobilistici in base
 
 Il Ministro per le poste e le telecomunicazioni ha facolta', di intesa con i Ministri per il tesoro e per i trasporti, di procedere a nuove revisioni dei canoni di cui al precedente articolo, nei sensi sia della maggiorazione sia della riduzione, al fine di adeguarli alle eventuali variazioni avvenire delle condizioni generali del mercato. 
  
- In nessun caso pero' i canoni potranno essere ridotti a misura inferiore a quella prevista dal citato [art. 16 della legge 28 settembre 1939, n. 1822](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-09-28;1822#art_16).
+ In nessun caso pero' i canoni potranno essere ridotti a misura inferiore a quella prevista dal citato [art. 16 della legge 28 settembre 1939, n. 1822](Disciplina%20degli%20autoservizi%20di%20linea%20autolinee%20per%20viaggiatori%20bagagli%20e%20pacchi%20agricoli%20in%20regime%20di%20concessione%20allindustria%20privata.%20039U1822.md).
 
 ## Art. 3.
 

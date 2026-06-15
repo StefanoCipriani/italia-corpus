@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico 
  
- E' convertito in legge il [R. decreto-legge 24 marzo 1932, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-03-24;491), riguardante l'autorizzazione al Ministro per l'aeronautica ad assumere impegni per l'esecuzione di lavori urgenti in alcuni aeroporti statali. 
+ E' convertito in legge il [R. decreto-legge 24 marzo 1932, n. 491](Autorizzazione%20al%20Ministro%20per%20laeronautica%20ad%20assumere%20impegni%20per%20lesecuzione%20di%20lavori%20urgenti%20in%20alcuni%20aeroporti%20statali.%20032U0491.md), riguardante l'autorizzazione al Ministro per l'aeronautica ad assumere impegni per l'esecuzione di lavori urgenti in alcuni aeroporti statali. 
  
  Ordiniamo che la presente, munita del delle Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

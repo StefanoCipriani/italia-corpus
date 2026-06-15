@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto l'[art. 27 della legge 16 giugno 1927, n. 1766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;1766#art_27), sul riordinamento degli usi civici nel Regno; 
+ Visto l'[art. 27 della legge 16 giugno 1927, n. 1766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20maggio%201924%20n.%20751%20riguardante%20il%20riordinamento%20degli%20usi%20civici%20nel%20Regno%20del%20R.%20decreto%2028%20agosto%201924%20n.%201484%20che%20modifica%20lart.%2026%20del%20R.%20decret_728733510b66.md), sul riordinamento degli usi civici nel Regno; 
  
  Visti i [Regi decreti 16 giugno 1927, n. 1255](Determinazione%20delle%20circoscrizioni%20territoriali%20degli%20uffici%20dei%20commissari%20per%20il%20riordinamento%20degli%20usi%20civici%20del%20Regno.%20027U1255.md) e [30 maggio 1929, n. 1019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-05-30;1019), che determinano le circoscrizioni territoriali dei Commissariati per il riordinamento degli usi civici nel Regno; 
  

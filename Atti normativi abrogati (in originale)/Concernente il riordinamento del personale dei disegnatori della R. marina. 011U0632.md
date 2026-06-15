@@ -46,7 +46,7 @@ Il ruolo organico del personale dei disegnatori della R. marina e' stabilito in 
 
 AGGIORNAMENTO (1)
 
-L'Errata-Corrige in G.U. 13/07/1911, n. 163 ha disposto che "Nella tabella dell'art. l° della [legge 2 luglio 1911, n. 632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-02;632), che riordina il personale dei disegnatori della R. marina, pubblicata nella Gazzetta ufficiale dell'8 luglio corrente, n. 159, per errore della copia trasmessaci, fu omesso il numero organico di 3 capi disegnatori principali di 2ª classe delle Direzioni d'artiglieria ed armamenti". 
+L'Errata-Corrige in G.U. 13/07/1911, n. 163 ha disposto che "Nella tabella dell'art. l° della [legge 2 luglio 1911, n. 632](Concernente%20il%20riordinamento%20del%20personale%20dei%20disegnatori%20della%20R.%20marina.%20011U0632.md), che riordina il personale dei disegnatori della R. marina, pubblicata nella Gazzetta ufficiale dell'8 luglio corrente, n. 159, per errore della copia trasmessaci, fu omesso il numero organico di 3 capi disegnatori principali di 2ª classe delle Direzioni d'artiglieria ed armamenti". 
  
 --------------- 
 Nota redazionale 

@@ -22,7 +22,7 @@ Il contributo dello Stato a pareggio del bilancio della Libia viene stabilito, p
 
 ## Art. 3.
 
-Il fondo a disposizione del Ministero, per contributi e concorsi di spese a favore dell'avvaloramento agrario delle Colonie, di cui al [R. decreto-legge 24 luglio 1930, n. 1093](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-24;1093), convertito nella legge 15 dicembre 1930, n, 1670, e' stabilito, per l'esercizio 1938-39, in lire 15.000.000.
+Il fondo a disposizione del Ministero, per contributi e concorsi di spese a favore dell'avvaloramento agrario delle Colonie, di cui al [R. decreto-legge 24 luglio 1930, n. 1093](Maggiore%20assegnazione%20allo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20colonie%20per%20lesercizio%20finanziario%201930-31.%20030U1093.md), convertito nella legge 15 dicembre 1930, n, 1670, e' stabilito, per l'esercizio 1938-39, in lire 15.000.000.
 
 ## Art. 4.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 maggio 1927, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-19;853), riguardante modificazione all'[art. 12 del R. decreto-legge 16 ottobre 1924, n. 1613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-16;1613#art_12), concernente le sovrimposte fondiarie. 
+ E' convertito in legge il [R. decreto-legge 19 maggio 1927, n. 853](Modificazione%20allart.%2012%20del%20R.%20decreto-legge%2016%20ottobre%201924%20n.%201613%20concernente%20le%20sovrimposte%20fondiarie.%20027U0853.md), riguardante modificazione all'[art. 12 del R. decreto-legge 16 ottobre 1924, n. 1613](Riordinamento%20delle%20aliquote%20dellimposta%20sui%20redditi%20di%20ricchezza%20mobile.%20024U1613.md), concernente le sovrimposte fondiarie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

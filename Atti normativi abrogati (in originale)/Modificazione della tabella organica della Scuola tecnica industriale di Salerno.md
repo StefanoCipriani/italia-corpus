@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
- Visto il [regio decreto 24 luglio 1938, n. 1742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-24;1742), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Salerno;
+ Visto il [regio decreto 24 luglio 1938, n. 1742](Modificazioni%20agli%20statuti%20e%20tabelle%20organiche%20di%20n.%2022%20Regie%20scuole%20tecniche%20a%20indirizzo%20commerciale.%20038U1742.md), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Salerno;
  Considerata l'opportunita' di istituire, per esigenze di servizio, ne posto di segretario economo di ruolo;
  Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107#art_10);
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;

@@ -24,9 +24,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il R. decreto del 12 luglio n.1122, col quale sono approvate le norme relative al «Servizio in guerra, parte 2ª - Servizi logistici (servizio delle intendenze e servizi di prima linea)»; 
  
- Visto il [R. decreto del 1º dicembre 1912, n. 1462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-12-01;1462), col quale sono approvate le norme relative al «Servizio in guerra, parte 2ª - Servizio per la manutenzione stradale a tergo dell'esercito»; 
+ Visto il [R. decreto del 1º dicembre 1912, n. 1462](Col%20quale%20vengono%20approvate%20le%20norme%20per%20il%20servizio%20in%20guerra%20Parte%20II%20-%20Servizio%20per%20la%20manutenzione%20stradale%20a%20tergo%20dellesercito.%20012U1462.md), col quale sono approvate le norme relative al «Servizio in guerra, parte 2ª - Servizio per la manutenzione stradale a tergo dell'esercito»; 
  
- Visto il [R. decreto del 21 marzo 1915, n.465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-21;465), col quale sono approvate le aggiunte e varianti al predetto «Servizio in guerra, parte 2ª - Servizio per la manutenzione stradale a tergo dell'esercito»; 
+ Visto il [R. decreto del 21 marzo 1915, n.465](Col%20quale%20sono%20apportate%20aggiunte%20e%20varianti%20al%20%20Servizio%20in%20guerra%20%20-%20parte%202ª%20-%20%20Servizio%20della%20manutenzione%20stradale%20a%20tergo%20dellesercito%20.%20015U0465.md), col quale sono approvate le aggiunte e varianti al predetto «Servizio in guerra, parte 2ª - Servizio per la manutenzione stradale a tergo dell'esercito»; 
  
  Sulla proposta dei ministri segretari di Stato per gli affari dell'interno, della guerra e dei lavori pubblici; 
  

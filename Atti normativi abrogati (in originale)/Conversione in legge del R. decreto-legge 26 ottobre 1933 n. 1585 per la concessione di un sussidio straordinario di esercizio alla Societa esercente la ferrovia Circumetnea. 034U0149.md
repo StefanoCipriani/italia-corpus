@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 ottobre 1933, n. 1585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-26;1585), per la concessione di un sussidio straordinario di esercizio alla Societa' esercente la ferrovia Circumetnea. 
+ E' convertito in legge il [R. decreto-legge 26 ottobre 1933, n. 1585](Concessione%20di%20un%20sussidio%20straordinario%20di%20esercizio%20alla%20Societa%20esercente%20la%20ferrovia%20Circumetnea.%20033U1585.md), per la concessione di un sussidio straordinario di esercizio alla Societa' esercente la ferrovia Circumetnea. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -65,7 +65,7 @@ Per il medesimo periodo di cui al comma 2 le parti possono stipulare accordi in 
 
 1.
 
-La Cassa per la formazione della piccola proprieta' contadina, istituita con l'[articolo 9 del decreto legislativo 5 marzo 1948, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-05;121#art_9), e' autorizzata a destinare almeno il 40 per cento delle disponibilita' annuali al finanziamento di operazioni di acquisto di terreni proposte nell'esercizio del diritto di prelazione o di riscatto previsti dall'[articolo 8 della legge 26 maggio 1965, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-26;590#art_8), come modificato dall'[articolo 8 della legge 14 agosto 1971, n. 817](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-08-14;817#art_8).
+La Cassa per la formazione della piccola proprieta' contadina, istituita con l'[articolo 9 del decreto legislativo 5 marzo 1948, n. 121](../Decreti%20Legislativi/Provvedimenti%20a%20favore%20di%20varie%20regioni%20dellItalia%20meridionale%20e%20delle%20Isole.md), e' autorizzata a destinare almeno il 40 per cento delle disponibilita' annuali al finanziamento di operazioni di acquisto di terreni proposte nell'esercizio del diritto di prelazione o di riscatto previsti dall'[articolo 8 della legge 26 maggio 1965, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-26;590#art_8), come modificato dall'[articolo 8 della legge 14 agosto 1971, n. 817](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-08-14;817#art_8).
 
 2.
 

@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 luglio 1931, numero 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-02;942), recante provvedimenti circa il trattamento di quiescenza per il personale del Banco di Napoli e del Banco di Sicilia. 
+ E' convertito in legge il [R. decreto-legge 2 luglio 1931, numero 942](Provvedimenti%20circa%20il%20trattamento%20di%20quiescenza%20per%20il%20personale%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20031U0942.md), recante provvedimenti circa il trattamento di quiescenza per il personale del Banco di Napoli e del Banco di Sicilia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

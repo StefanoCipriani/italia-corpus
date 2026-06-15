@@ -110,7 +110,7 @@ Le modalita' inerenti alla prestazione della cauzione saranno stabilite con appo
 
 ## Art. 18.
 
-Le disposizioni della presente legge, relative al rilascio della licenza ed alla prestazione della cauzione, sostituiscono per i commercianti ambulanti quelle contenute nel [R. decreto-legge 16 dicembre 1926, n. 2174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2174). 
+Le disposizioni della presente legge, relative al rilascio della licenza ed alla prestazione della cauzione, sostituiscono per i commercianti ambulanti quelle contenute nel [R. decreto-legge 16 dicembre 1926, n. 2174](Disciplina%20del%20commercio%20di%20vendita%20al%20pubblico.%20026U2174.md). 
  
  Ogni altra disposizione in contrasto con la presente legge e' abrogata.
 

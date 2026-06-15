@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Indipendentemente da quanto stabilisce il [primo comma dell'art. 16 della legge 27 giugno 1909, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-27;377#art_16-com1), e fermo rimanendo il disposto dell'ultimo capoverso dell'articolo stesso, gli ufficiali della riserva navale, richiamati iri servizio durante la guerra, potranno essere proposti per ulteriori promozioni nella riserva quando se ne dimostrino meritevoli per speciali distinzioni e sempreche' il ministro riconosca, caso per caso, la opportunita' e la possibilita' di affidare loro funzioni del grado superiore. 
+Indipendentemente da quanto stabilisce il [primo comma dell'art. 16 della legge 27 giugno 1909, n. 377](Disposizioni%20relative%20alla%20riserva%20navale.%20009U0377.md), e fermo rimanendo il disposto dell'ultimo capoverso dell'articolo stesso, gli ufficiali della riserva navale, richiamati iri servizio durante la guerra, potranno essere proposti per ulteriori promozioni nella riserva quando se ne dimostrino meritevoli per speciali distinzioni e sempreche' il ministro riconosca, caso per caso, la opportunita' e la possibilita' di affidare loro funzioni del grado superiore. 
  
  Le proposte per la predetta promozione non potranno aver corso se non nei riguardi degli ufficiali che abbiano prestato almeno sei mesi di servizio a bordo o un anno di servizio a terra, e, qualora le proposte stesse siano dal ministro accolte saranno sottoposte alla firma Sovrana previo parere favorevole della stessa Commissione di avanzamento chiamata a pronunciarsi sulle proposte di promozione per scelta eccezionale degli ufficiali appartenenti ai ruoli del servizio attivo'. 
  
@@ -22,9 +22,9 @@ L'ufficiale della riserva navale escluso definitivamente dall'avanzamento puo' e
 
 ## Art. 3.
 
-L'ufficiale della riserva navale, fermo restando il disposto dell'[art. 23 della legge 6 marzo 1898, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;59#art_23) puo', anche in tempo di guerra, cessare di appartenere ai ruoli della riserva stessa per ragioni di salute, per ragioni disciplinari o per qualsivoglia altro motivo in genere a giudizio del ministro della marina sentito il Consiglio superiore di marina costituito in Commissione di avanzamento. 
+L'ufficiale della riserva navale, fermo restando il disposto dell'[art. 23 della legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md) puo', anche in tempo di guerra, cessare di appartenere ai ruoli della riserva stessa per ragioni di salute, per ragioni disciplinari o per qualsivoglia altro motivo in genere a giudizio del ministro della marina sentito il Consiglio superiore di marina costituito in Commissione di avanzamento. 
  
- E' abrogato l'[art. 41 della legge 6 marzo 1898, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;59#art_41).
+ E' abrogato l'[art. 41 della legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md).
 
 ## Art. 4.
 

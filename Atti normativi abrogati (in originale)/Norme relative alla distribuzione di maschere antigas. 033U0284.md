@@ -52,7 +52,7 @@ I Ministeri competenti si assicureranno, mediante ispezioni, della esecuzione de
 
 Il Comitato per la mobilitazione civile denuncia all'autorita' giudiziaria ogni ente privato (aziende, stabilimenti, industrie) contravventore alla prescrizione della presente legge. Questi sara' punito con una ammenda da un minimo di L. 500 ad un massimo corrispondente al doppio dell'ammontare delle spese occorrenti per l'acquisto del numero di maschere delle quali e' stato trovato sprovvisto. 
  
- La pena suddetta si applichera', indipendentemente dalle altre pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), qualora il fatto sia punibile a termine di detto Codice.
+ La pena suddetta si applichera', indipendentemente dalle altre pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), qualora il fatto sia punibile a termine di detto Codice.
 
 ## Art. 8.
 

@@ -16,7 +16,7 @@ Visto il [decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/ur
 
 Visto l'ordinamento giudiziario, approvato con decreto 30 gennaio 1941, n. 12;
 
-Vista la [legge 9 luglio 1940, n. 937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;937);
+Vista la [legge 9 luglio 1940, n. 937](Costituzione%20degli%20Uffici%20giudiziari%20durante%20lo%20stato%20di%20guerra.%20040U0937.md);
 
 Visto il [decreto legislativo 26 luglio 1944, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-07-26;210);
 
@@ -33,7 +33,7 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Minist
 ## Art. 1.
 
 E' prorogata fino al 31 dicembre 1948 la applicabilita' delle disposizioni seguenti: 
- a) [art. 1 della legge 9 luglio 1940, n. 937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;937#art_1); 
+ a) [art. 1 della legge 9 luglio 1940, n. 937](Costituzione%20degli%20Uffici%20giudiziari%20durante%20lo%20stato%20di%20guerra.%20040U0937.md); 
  b) [art. 10 del decreto legislativo 28 dicembre 1944, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-12-28;438#art_10); 
  c) [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1945-05-03;232#art_1) e [2 del decreto legislativo 3 maggio 1945, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1945-05-03;232#art_2); 
  d) [art. 42 del decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-31;511#art_42).

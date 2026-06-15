@@ -35,7 +35,7 @@ Agli ammogliati con piu' di tre figli, minori o inabili al lavoro, conviventi ed
 
 ## Art. 4.
 
-Agli effetti del presente decreto, i maestri elementari inscritti nei ruoli provinciali, ai termini dell'[articolo 43 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_43), sono equiparati agli impiegati di ruolo dello Stato.
+Agli effetti del presente decreto, i maestri elementari inscritti nei ruoli provinciali, ai termini dell'[articolo 43 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), sono equiparati agli impiegati di ruolo dello Stato.
 
 ## Art. 5.
 
@@ -62,7 +62,7 @@ Nota redazionale
 
 ## Art. 8.
 
-La indennita' di cui al presente decreto non spetta al personale civile e militare delle varie Amministrazioni dello Stato che si trovi o sara' destinato a prestare servizio in Tripolitania ed in Cirenaica, col trattamento previsto dai [Regi decreti 5 giugno 1913, numero 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-05;798), e [22 gennaio 1914, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-22;147), nonche' al personale metropolitano dipendente dalle Amministrazioni predette, comunque dislocato in quelle colonie, col trattamento economico di guerra o di missione. 
+La indennita' di cui al presente decreto non spetta al personale civile e militare delle varie Amministrazioni dello Stato che si trovi o sara' destinato a prestare servizio in Tripolitania ed in Cirenaica, col trattamento previsto dai [Regi decreti 5 giugno 1913, numero 798](Col%20quale%20vengono%20disciplinate%20le%20norme%20per%20la%20scelta%20degli%20impiegati%20civili%20di%20ruolo%20da%20destinarsi%20in%20Tripolitania%20e%20nella%20Cirenaica%20e%20per%20il%20correlativo%20trattamento%20economico.%20013U0798.md), e [22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), nonche' al personale metropolitano dipendente dalle Amministrazioni predette, comunque dislocato in quelle colonie, col trattamento economico di guerra o di missione. 
  
 --------------- 
 Nota redazionale 

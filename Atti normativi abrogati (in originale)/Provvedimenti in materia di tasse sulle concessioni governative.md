@@ -10,19 +10,19 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 dicembre 1923, n. 3279](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3279), che approva il testo della legge sulle concessioni governative, modificato dal [regio decreto 26 marzo 1936, numero 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-03-26;1418);
+Visto il [regio decreto 30 dicembre 1923, n. 3279](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), che approva il testo della legge sulle concessioni governative, modificato dal [regio decreto 26 marzo 1936, numero 1418](Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md);
 
-Visto il [regio decreto-legge 26 settembre 1935, numero 1749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1749), allegato F, portante provvedimenti in materia di tasse sulle concessioni governative, convertito nella [legge 28 maggio 1936, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-05-28;1027);
+Visto il [regio decreto-legge 26 settembre 1935, numero 1749](Provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari.%20035U1749.md), allegato F, portante provvedimenti in materia di tasse sulle concessioni governative, convertito nella [legge 28 maggio 1936, n. 1027](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201749%20concernente%20provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari.%20036U1027.md);
 
-Visto il [regio decreto-legge 21 giugno 1942, n. 696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-06-21;696), riguardante provvedimenti in materia di tasse sulle concessioni governative, convertito nella [legge 18 ottobre 1942, n. 1288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1288), con modifiche;
+Visto il [regio decreto-legge 21 giugno 1942, n. 696](Provvedimenti%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.%20042U0696.md), riguardante provvedimenti in materia di tasse sulle concessioni governative, convertito nella [legge 18 ottobre 1942, n. 1288](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2021%20giugno%201942-XX%20n.%20696%20recante%20provvedimenti%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.%20042U1288.md), con modifiche;
 
-Vista la [legge 3 dicembre 1942, n. 1700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-12-03;1700), sulla legalizzazione di firme;
+Vista la [legge 3 dicembre 1942, n. 1700](Norme%20sulla%20legalizzazione%20di%20firme.%20042U1700.md), sulla legalizzazione di firme;
 
 Visto il [regio decreto legislativo 7 giugno 1946, n. 581](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-06-07;581), portante provvedimenti in materia di tasse sulle concessioni governative;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 

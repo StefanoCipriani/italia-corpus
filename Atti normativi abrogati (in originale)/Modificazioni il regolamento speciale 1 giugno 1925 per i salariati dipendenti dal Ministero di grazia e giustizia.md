@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle disposizioni legislative sullo stato giuridico e sul trattamento economico dei salariati dello Stato, approvato con [regio decreto 24 dicembre 1924, n. 2114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-24;2114) e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sullo stato giuridico e sul trattamento economico dei salariati dello Stato, approvato con [regio decreto 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md) e successive modificazioni;
 
-Visto il regolamento per l'applicazione del [regio decreto 30 dicembre 1923, n. 2994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2994), sullo stato giuridico e sul trattamento economico dei salariati dipendenti dalle Amministrazioni dello Stato e successive modificazioni, approvate con [regio decreto 31 dicembre 1924, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-31;2262);
+Visto il regolamento per l'applicazione del [regio decreto 30 dicembre 1923, n. 2994](Disposizioni%20relative%20allo%20stato%20giuridico%20ed%20al%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.%20023U2994.md), sullo stato giuridico e sul trattamento economico dei salariati dipendenti dalle Amministrazioni dello Stato e successive modificazioni, approvate con [regio decreto 31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md);
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, numero 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Riconosciuta la necessita' di provvedere alla modificazione del regolamento speciale per i salariati dipendenti dal Ministero di grazia e giustizia, emanato con decreto Ministeriale 1° giugno 1925, in applicazione dell'art 90 del testo unico suddetto;
 

@@ -23,7 +23,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle fi
 1.
 
 Per i conferimenti, in societa' esistenti o da costituire, di aziende, di complessi aziendali relativi a singoli rami dell'impresa e di altri beni materiali o immateriali ammortizzabili nonche' di partecipazioni azionarie e non azionarie posti in essere da societa' esistenti alla data di entrata in vigore del presente decreto, entro il 31 dicembre 1990, il 75 per cento della differenza tra il valore delle azioni o quote ricevute e l'ultimo valore dei beni conferiti riconosciuto ai fini delle imposte sui redditi non concorre a formare il reddito imponibile delle societa' conferenti, a condizione che sia iscritto in bilancio e distintamente indicato in apposito fondo o in apposito allegato, fino a quando non sia realizzato, distribuito ai soci, portato a capitale o a copertura di perdite di esercizio.
-L'ammontare residuo concorre a formare il reddito con le modalita' previste dal comma 4 dell'articolo 54 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917).
+L'ammontare residuo concorre a formare il reddito con le modalita' previste dal comma 4 dell'articolo 54 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 2.
 
@@ -71,7 +71,7 @@ I conferimenti per i quali sia intervenuto l'accertamento positivo di cui all'ar
 
 2.
 
-Ai conferimenti per i quali sia intervenuto l'accertamento positivo di cui all'articolo 2 si applicano, ai fini dell'imposta comunale sull'incremento di valore degli immobili, le disposizioni dell'[articolo 6, comma settimo, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;643#art_6-com7).
+Ai conferimenti per i quali sia intervenuto l'accertamento positivo di cui all'articolo 2 si applicano, ai fini dell'imposta comunale sull'incremento di valore degli immobili, le disposizioni dell'[articolo 6, comma settimo, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643](../DPR/Istituzione%20dellimposta%20comunale%20sullincremento%20di%20valore%20degli%20immobili.md).
 
 ## Art. 4.
 

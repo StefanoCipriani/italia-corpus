@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico
 
-I termini di cui all'[articolo 7 del decreto del Presidente della Repubblica 5 giugno 1964, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1964-06-05;438#art_7), per l'esercizio, da parte dell'Ispettorato generale dell'aviazione civile, delle attribuzioni conferite, ai sensi delle disposizioni previste nel citato decreto, ai Compartimenti di traffico aereo, sono prorogati per non oltre un anno finanziario successivo a quello di entrata in vigore della presente legge.
+I termini di cui all'[articolo 7 del decreto del Presidente della Repubblica 5 giugno 1964, n. 438](../DPR/Organizzazione%20periferica%20dellIspettorato%20generale%20dellaviazione%20civile.md), per l'esercizio, da parte dell'Ispettorato generale dell'aviazione civile, delle attribuzioni conferite, ai sensi delle disposizioni previste nel citato decreto, ai Compartimenti di traffico aereo, sono prorogati per non oltre un anno finanziario successivo a quello di entrata in vigore della presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

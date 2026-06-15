@@ -34,15 +34,15 @@ L'[art. 7 del R. decreto-legge 17 giugno 1926, n. 1144](Reclutamento%20degli%20u
  
  a) per i medici: diploma di abilitazione all'esercizio della professione di medico-chirurgo; 
  
- ovvero laurea in medicina e chirurgia conseguita entro il 31 dicembre 1924 o, ai sensi dell'[art. 6 del R. decreto 31 dicembre 1923, n. 2909](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909#art_6), entro il 31 dicembre 1925; 
+ ovvero laurea in medicina e chirurgia conseguita entro il 31 dicembre 1924 o, ai sensi dell'[art. 6 del R. decreto 31 dicembre 1923, n. 2909](Disposizioni%20concernenti%20gli%20esami%20di%20Stato.%20023U2909.md), entro il 31 dicembre 1925; 
  
  b) per i chimici farmacisti: diploma di abilitazione all'esercizio della professione di chimico e diploma di abilitazione all'esercizio della professione di farmacista; 
  
- ovvero laurea in chimica e farmacia o laurea in chimica e diploma in farmacia conseguiti entro il 31 dicembre 1924 o, ai sensi dell'[art. 6 del R. decreto 31 dicembre 1923, n. 2909](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909#art_6), entro il 31 dicembre 1925; 
+ ovvero laurea in chimica e farmacia o laurea in chimica e diploma in farmacia conseguiti entro il 31 dicembre 1924 o, ai sensi dell'[art. 6 del R. decreto 31 dicembre 1923, n. 2909](Disposizioni%20concernenti%20gli%20esami%20di%20Stato.%20023U2909.md), entro il 31 dicembre 1925; 
  
  c) per i veterinari: diploma di abilitazione all'esercizio della professione di veterinario; 
  
- ovvero laurea in zooiatria conseguita entro il 31 dicembre 1924 o, ai sensi dell'[art. 50 del R. decreto 4 maggio 1925, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;876#art_50), durante tutto l'anno accademico 1924-25. 
+ ovvero laurea in zooiatria conseguita entro il 31 dicembre 1924 o, ai sensi dell'[art. 50 del R. decreto 4 maggio 1925, n. 876](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20Stato%20di%20abilitazione%20allesercizio%20delle%20professioni%20di%20agronomo%20di%20veterinario%20e%20di%20perito%20forestale.%20025U0876.md), durante tutto l'anno accademico 1924-25. 
  
  Il concorso d'ammissione e' per titoli e per esami, secondo modalita' da stabilire nel regolamento. La classificazione e' fatta per ordine di merito quale risulta dai punti ottenuti con precedenza, a parita' di voti, ai candidati che rivestano la qualita' di ufficiale di complemento. 
  

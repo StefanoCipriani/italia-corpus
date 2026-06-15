@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
- Visto il [regio decreto 24 agosto 1939, n. 2203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-08-24;2203), che approva la tabella organica dell'Istituto tecnico industriale di Udine;
+ Visto il [regio decreto 24 agosto 1939, n. 2203](Approvazione%20dello%20statuto%20del%20Regio%20istituto%20tecnico%20industriale%20di%20Udine.%20039U2203.md), che approva la tabella organica dell'Istituto tecnico industriale di Udine;
  Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107#art_10);
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

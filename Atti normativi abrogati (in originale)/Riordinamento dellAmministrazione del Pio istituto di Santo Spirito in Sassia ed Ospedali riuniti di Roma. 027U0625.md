@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il [decreto-legge Luogotenenziale 26 novembre 1916, n. 1640](Concernente%20provvedimenti%20per%20lamministrazione%20e%20la%20tutela%20del%20pio%20Istituto%20di%20Santo%20Spirito%20in%20Sassia%20ed%20ospedali%20riuniti%20di%20Roma.%20016U1640.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), relativo all'amministrazione e alla tutela del Pio istituto di Santo Spirito in Sassia ed Ospedali riuniti di Roma;
+Veduto il [decreto-legge Luogotenenziale 26 novembre 1916, n. 1640](Concernente%20provvedimenti%20per%20lamministrazione%20e%20la%20tutela%20del%20pio%20Istituto%20di%20Santo%20Spirito%20in%20Sassia%20ed%20ospedali%20riuniti%20di%20Roma.%20016U1640.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), relativo all'amministrazione e alla tutela del Pio istituto di Santo Spirito in Sassia ed Ospedali riuniti di Roma;
 
 Ritenuta la necessita' urgente ed assoluta di riformare l'attuale ordinamento dell'Amministrazione nonche' le norme che regolano l'esercizio della tutela del predetto Istituto, nell'intento di renderne piu' agile il funzionamento e di assicurare una maggiore prontezza e rapidita' di determinazioni;
 

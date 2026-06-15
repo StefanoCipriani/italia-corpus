@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 aprile 1934, n. 588](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-16;588), che ha dato approvazione ai seguenti Accordi commerciali, stipulati in Ankara, il 4 aprile 1934, fra l'Italia e la Turchia: Convenzione commerciale con Protocollo addizionale; Accordo per regolare i pagamenti degli scambi commerciali con Protocollo addizionale; scambio di Note col quale viene fissata al 20 aprile 1934 l'entrata in vigore, a titolo provvisorio, degli Accordi anzidetti e scambio di Note che stabilisce, in via di reciprocita', l'applicazione della clausola della Nazione piu' favorita fra i due Paesi fino alla data stessa. 
+ E' convertito in legge il [R. decreto-legge 16 aprile 1934, n. 588](Approvazione%20degli%20Accordi%20commerciali%20fra%20lItalia%20e%20la%20Turchia%20stipulati%20ad%20Ankara%20il%204%20aprile%201934.%20034U0588.md), che ha dato approvazione ai seguenti Accordi commerciali, stipulati in Ankara, il 4 aprile 1934, fra l'Italia e la Turchia: Convenzione commerciale con Protocollo addizionale; Accordo per regolare i pagamenti degli scambi commerciali con Protocollo addizionale; scambio di Note col quale viene fissata al 20 aprile 1934 l'entrata in vigore, a titolo provvisorio, degli Accordi anzidetti e scambio di Note che stabilisce, in via di reciprocita', l'applicazione della clausola della Nazione piu' favorita fra i due Paesi fino alla data stessa. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -14,11 +14,11 @@ Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio
 
 Visto il [decreto legislativo luogotenenziale 27 ottobre 1945, n. 892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-27;892), con il quale sono stati istituiti i corsi straordinari per studenti universitari reduci ed assimilati;
 
-Visto il [decreto legislativo Presidenziale 27 giugno 1946, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;56), con il quale e' stato modificato l'art. 8 del predetto [decreto legislativo luogotenenziale 27 ottobre 1945, n. 893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-27;893);
+Visto il [decreto legislativo Presidenziale 27 giugno 1946, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;56), con il quale e' stato modificato l'art. 8 del predetto [decreto legislativo luogotenenziale 27 ottobre 1945, n. 893](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20corsi%20straordinari%20presso%20le%20Universita%20per%20studenti%20reduci%20ed%20assimilati.md);
 
 Visto Il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta dei Ministro per la pubblica istruzione, di concerto con quello p
 
 ## Art. 1.
 
-I corsi straordinari per studenti universitari reduci ed assimilati istituiti ai sensi del [decreto legislativo luogotenenziale 27 ottobre 1945, n. 893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-27;893), comportano almeno 25 ore di lezioni.
+I corsi straordinari per studenti universitari reduci ed assimilati istituiti ai sensi del [decreto legislativo luogotenenziale 27 ottobre 1945, n. 893](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20corsi%20straordinari%20presso%20le%20Universita%20per%20studenti%20reduci%20ed%20assimilati.md), comportano almeno 25 ore di lezioni.
  Per ogni corso spettano al personale addettovi i seguenti emolumenti:
  1) al direttore: L. 15.000;
  2)ai professori, di ruolo e incaricati: L. 10.000;
@@ -44,13 +44,13 @@ Per il primo e il secondo corso compete ai direttori dei corsi ed ai professori,
 ## Art. 3.
 
 Lo Stato rimborsa alle universita' e agli istituti interessati:
- a) tutte le competenze dovute, a norma del presente decreto e dell'[art. 8 del decreto legislativo luogotenenziale 27 ottobre 1945, n. 893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-27;893#art_8), al personale addetto ai corsi;
+ a) tutte le competenze dovute, a norma del presente decreto e dell'[art. 8 del decreto legislativo luogotenenziale 27 ottobre 1945, n. 893](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20corsi%20straordinari%20presso%20le%20Universita%20per%20studenti%20reduci%20ed%20assimilati.md), al personale addetto ai corsi;
  b) le spese generali per il funzionamento di ciascun corso.
  A tal fine lo Stato corrisponde, per ciascun corso un assegno pari al 5% dell'ammontare complessivo delle competenze dovute al personale addettovi.
 
 ## Art. 4.
 
-L'ultimo comma dall'[art. 6 del decreto legislativo luogotenenziale 27 ottobre 1945, n. 893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-27;893#art_6), e' abrogato.
+L'ultimo comma dall'[art. 6 del decreto legislativo luogotenenziale 27 ottobre 1945, n. 893](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20corsi%20straordinari%20presso%20le%20Universita%20per%20studenti%20reduci%20ed%20assimilati.md), e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

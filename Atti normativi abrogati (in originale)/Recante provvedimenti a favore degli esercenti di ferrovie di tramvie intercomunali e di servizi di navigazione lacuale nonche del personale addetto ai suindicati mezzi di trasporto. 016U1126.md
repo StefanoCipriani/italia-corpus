@@ -24,13 +24,13 @@ Quando nel triennio 1913, 1914 e 1915 il dividendo distribuito a tutti gli azion
  
  b) sino al 15% l'aumento medio di cui al precedente articolo. 
  
- In nessun caso gli aumenti, stabiliti in base al Nostro decreto 17 febbraio 1916, n. 192, ed al presente decreto, possono superare il 25% delle tariffe, depurate dagli aumenti dipendenti dalla [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835).
+ In nessun caso gli aumenti, stabiliti in base al Nostro decreto 17 febbraio 1916, n. 192, ed al presente decreto, possono superare il 25% delle tariffe, depurate dagli aumenti dipendenti dalla [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md).
 
 ## Art. 3.
 
 Per determinare a quali esercenti si applicano le disposizioni dell'articolo precedente, si indicheranno, prima del 15 settembre 1916, con decreto del ministro dei lavori pubblici: 
  
- a) quali esercenti si debbano escludere dalla facolta' di aumentare le tariffe per non aver voluto applicare le norme di equo trattamento del personale, approvate in base alla [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835); 
+ a) quali esercenti si debbano escludere dalla facolta' di aumentare le tariffe per non aver voluto applicare le norme di equo trattamento del personale, approvate in base alla [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md); 
  
  b) quali esercenti, oltre quelli gia' esclusi dall'applicazione degli aumenti di cui al Nostro decreto 17 febbraio 1916, n. 192, non siano nelle condizioni stabilite per avvalersi delle disposizioni dell'art. 2.
 
@@ -76,7 +76,7 @@ Gli agenti chiamati alle armi, cessando dal servizio militare, hanno diritto a r
 
 ## Art. 7.
 
-Per le tranvie intercomunali, quando con i provvedimenti di cui all'[art. 1 della legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835#art_1), non riesca possibile raggiungere l'ammontare dei compensi riconosciuti necessari in dipendenza degli oneri derivanti dalle norme di equo trattamento gia' approvate, il ministro dei lavori pubblici, di concerto con il ministro dell'interno, puo': 
+Per le tranvie intercomunali, quando con i provvedimenti di cui all'[art. 1 della legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), non riesca possibile raggiungere l'ammontare dei compensi riconosciuti necessari in dipendenza degli oneri derivanti dalle norme di equo trattamento gia' approvate, il ministro dei lavori pubblici, di concerto con il ministro dell'interno, puo': 
  
  a) convertire i canoni di manutenzione delle strade nel solo rimborso delle spese effettive di manutenzione della sede occupata dalla tranvia; 
  
@@ -86,7 +86,7 @@ Per le tranvie intercomunali, quando con i provvedimenti di cui all'[art. 1 dell
 
 ## Art. 8.
 
-Le questioni, che insorgono nell'applicazione degli articoli 5 e 6 del presente decreto, sono deferite all'esame della Commissione dell'equo trattamento, istituita in base alla [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835). 
+Le questioni, che insorgono nell'applicazione degli articoli 5 e 6 del presente decreto, sono deferite all'esame della Commissione dell'equo trattamento, istituita in base alla [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md). 
  
  Per le questioni, relative al trattamento dei chiamati alle armi o delle loro famiglie, la Commissione puo' decidere anche in via arbitrale, su richiesta dell'esercente e dell'agente o di persona di sua famiglia, con le norme stabilite dal [regolamento 1° maggio 1913, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-05-01;578). 
  

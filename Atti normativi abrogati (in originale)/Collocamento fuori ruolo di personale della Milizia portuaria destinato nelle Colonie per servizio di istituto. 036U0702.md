@@ -18,11 +18,11 @@ Visto il [decreto-legge 28 ottobre 1927, n. 2073](https://www.normattiva.it/uri-
 
 Vista la [legge 8 luglio 1929, n. 1337](Ordinamento%20della%20Milizia%20portuaria.%20029U1337.md), e successive modificazioni;
 
-Visto il regolamento per la Milizia portuaria approvato con [R. decreto 1° dicembre 1934, n. 2132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-01;2132);
+Visto il regolamento per la Milizia portuaria approvato con [R. decreto 1° dicembre 1934, n. 2132](Regolamento%20per%20lapplicazione%20della%20legge%208%20luglio%201929%20n.%201337%20sullordinamento%20della%20Milizia%20portuaria.%20034U2132.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 16 dicembre 1935, n. 2498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-12-16;2498), sul trattamento economico della Milizia portuaria in Colonia;
+Visto il [R. decreto 16 dicembre 1935, n. 2498](Trattamento%20economico%20del%20personale%20della%20Milizia%20portuaria%20destinato%20nelle%20Colonie%20dellAfrica%20Orientale.%20035U2498.md), sul trattamento economico della Milizia portuaria in Colonia;
 
 Ritenuta la necessita' urgente ed assoluta di apportare alcune modifiche all'ordinamento della Milizia portuaria ed al suddetto Regio decreto n. 2498;
 

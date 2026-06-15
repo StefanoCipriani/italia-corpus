@@ -14,7 +14,7 @@ Piena ed intera esecuzione e' data all'accordo commerciale, concluso a Roma il 1
 
 ## Art. 2.
 
-E' convertito in legge il [R. decreto-legge 23 novembre 1922, n. 1488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-11-23;1488).
+E' convertito in legge il [R. decreto-legge 23 novembre 1922, n. 1488](Che%20da%20piena%20e%20intera%20esecuzione%20allaccordo%20commerciale%2013%20novembre%201922%20tra%20lItalia%20e%20la%20Francia.%20022U1488.md).
 
 ## Art. 3.
 

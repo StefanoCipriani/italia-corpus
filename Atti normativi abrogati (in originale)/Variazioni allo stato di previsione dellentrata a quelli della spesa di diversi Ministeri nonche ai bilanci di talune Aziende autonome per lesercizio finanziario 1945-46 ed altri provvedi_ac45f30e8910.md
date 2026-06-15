@@ -69,7 +69,7 @@ E' autorizzata la concessione dei seguenti contributi straordinari a carico degl
 
 ## Art. 7.
 
-Il contributo statale stabilito con l'[art. 3 del R. decreto 18 aprile 1920, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-18;481#art_3), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), a favore de: Piu Istituto di Santo Spirito e Ospedali Riuniti di Roma, in relazione ai maggiori oneri dipendenti dall'applicazione dei provvedimenti economici e di altri di carattere generale a favore del personale ospedaliero, e' elevato per l'esercizio finanziario 1945-46 a L. 82.760.000.
+Il contributo statale stabilito con l'[art. 3 del R. decreto 18 aprile 1920, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-18;481#art_3), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), a favore de: Piu Istituto di Santo Spirito e Ospedali Riuniti di Roma, in relazione ai maggiori oneri dipendenti dall'applicazione dei provvedimenti economici e di altri di carattere generale a favore del personale ospedaliero, e' elevato per l'esercizio finanziario 1945-46 a L. 82.760.000.
 
 ## Art. 8.
 
@@ -86,7 +86,7 @@ I capitoli seguenti, aggiunti ai sottoindicati stati di previsione della spesa p
 
 ## Art. 10.
 
-In relazione ai miglioramenti disposti, per le pensioni di guerra, con il [decreto legislativo Luogotenenziale 12 aprile 1945, n. 193](Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md), il fondo consolidato di cui al [R. decreto-legge 26 settembre 1935, n. 1795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1795), convertito nella [legge 6 aprile 1936, n. 630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;630), relativo a tali pensioni e' elevato, per l'esercizio finanziario 1945-46, a L. 2.250.000.000.
+In relazione ai miglioramenti disposti, per le pensioni di guerra, con il [decreto legislativo Luogotenenziale 12 aprile 1945, n. 193](Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md), il fondo consolidato di cui al [R. decreto-legge 26 settembre 1935, n. 1795](Consolidamento%20della%20spesa%20per%20pensioni%20di%20guerra.%20035U1795.md), convertito nella [legge 6 aprile 1936, n. 630](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201795%20concernente%20il%20consolidamento%20della%20spesa%20per%20pensioni%20di%20guerra.%20036U0630.md), relativo a tali pensioni e' elevato, per l'esercizio finanziario 1945-46, a L. 2.250.000.000.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia, inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

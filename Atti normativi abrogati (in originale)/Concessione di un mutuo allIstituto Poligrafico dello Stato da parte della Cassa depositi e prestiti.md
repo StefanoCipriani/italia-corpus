@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -37,7 +37,7 @@ L'ammortamento decorrera' dal 1 gennaio successivo all'integrale versamento dell
 ## Art. 4.
 
 Lo Stato garantisce l'ammortamento del mutuo per il capitale e gli interessi.
- Qualora l'Istituto Poligrafico dello Stato non esegua il pagamento delle rate di ammortamento alle scadenze stabilite, la Cassa depositi e prestiti, senza obbligo di preventiva escussione del debitore principale dara' comunicazione dell'inadempienza al Ministero del tesoro, il quale provvedera' ad eseguire il pagamento delle rate scadute, aumentate degli interessi nella misura stabilita dall'[art. 4 della legge 11 aprile 1938, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-04-11;498#art_4), rimanendo surrogato alla Cassa depositi e prestiti a termini dell'[art. 1949 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1949).
+ Qualora l'Istituto Poligrafico dello Stato non esegua il pagamento delle rate di ammortamento alle scadenze stabilite, la Cassa depositi e prestiti, senza obbligo di preventiva escussione del debitore principale dara' comunicazione dell'inadempienza al Ministero del tesoro, il quale provvedera' ad eseguire il pagamento delle rate scadute, aumentate degli interessi nella misura stabilita dall'[art. 4 della legge 11 aprile 1938, n. 498](Modificazioni%20ed%20aggiunte%20alle%20norme%20vigenti%20in%20materia%20di%20mutui%20della%20Cassa%20depositi%20e%20prestiti.%20038U0498.md), rimanendo surrogato alla Cassa depositi e prestiti a termini dell'[art. 1949 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1949).
  Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

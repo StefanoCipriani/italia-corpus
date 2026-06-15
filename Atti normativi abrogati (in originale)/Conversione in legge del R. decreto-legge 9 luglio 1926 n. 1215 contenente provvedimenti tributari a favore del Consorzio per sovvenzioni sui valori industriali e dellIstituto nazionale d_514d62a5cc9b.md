@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 luglio 1926, n. 1215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1215), contenente provvedimenti tributari a favore del Consorzio per sovvenzioni sui valori industriali e dell'Istituto nazionale dei cambi. 
+ E' convertito in legge il [R. decreto-legge 9 luglio 1926, n. 1215](Provvedimenti%20per%20il%20Consorzio%20sovvenzioni%20su%20valori%20industriali%20e%20per%20lIstituto%20nazionale%20dei%20cambi.%20026U1215.md), contenente provvedimenti tributari a favore del Consorzio per sovvenzioni sui valori industriali e dell'Istituto nazionale dei cambi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

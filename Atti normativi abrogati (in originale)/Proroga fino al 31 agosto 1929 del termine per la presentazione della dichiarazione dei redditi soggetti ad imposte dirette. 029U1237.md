@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 8 della legge 9 dicembre 1928, n. 2834](Penalita%20in%20materia%20di%20imposte%20dirette.%20028U2834.md), recante disposizioni in materia di penalita' sulle imposte dirette;
 
-Visto l'[art. 26 del R. decreto 28 gennaio 1929, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-28;360#art_26), contenente le modalita' per le denuncie dei redditi agli effetti delle imposte dirette;
+Visto l'[art. 26 del R. decreto 28 gennaio 1929, n. 360](Modalita%20per%20le%20denuncie%20dei%20redditi%20agli%20effetti%20delle%20imposte%20dirette.%20029U0360.md), contenente le modalita' per le denuncie dei redditi agli effetti delle imposte dirette;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze, di concerto col Ministro per la gius
 
 ## Articolo unico.
 
-Il termine stabilito dall'[art. 26 del R. decreto 28 gennaio 1929, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-28;360#art_26), per la presentazione delle denuncie dei redditi soggetti ad imposte dirette e' prorogato al 31 agosto
+Il termine stabilito dall'[art. 26 del R. decreto 28 gennaio 1929, n. 360](Modalita%20per%20le%20denuncie%20dei%20redditi%20agli%20effetti%20delle%20imposte%20dirette.%20029U0360.md), per la presentazione delle denuncie dei redditi soggetti ad imposte dirette e' prorogato al 31 agosto
 
 1929.
 

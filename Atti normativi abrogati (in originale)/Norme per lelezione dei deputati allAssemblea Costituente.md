@@ -266,7 +266,7 @@ In ciascuna sezione e' costituito un ufficio elettorale, composto di un presiden
  In caso di impedimento del presidente che sopravvenga in condizioni tali da non consentirne la surrogazione normale, assume la presidenza il sindaco o un suo delegato. 
  L'enumerazione di queste categorie, salvo quella dei magistrati, non implica ordine di precedenza per la designazione. 
  Delle designazioni e' data notizia ai magistrati ed ai cancellieri e vice cancellieri e segretari degli uffici giudiziari, per mezzo dei rispettivi capi gerarchici; agli altri designati, mediante notificazione da eseguirsi dagli ufficiali giudiziari di pretura o dagli uscieri degli uffici di conciliazione o dai messi comunali. 
- Al presidente dell'ufficio elettorale dev'essere corrisposto dal comune, nel quale l'ufficio stesso ha sede, il trattamento di missione dovuto agli impiegati dello Stato di grado V, a norma del [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320).
+ Al presidente dell'ufficio elettorale dev'essere corrisposto dal comune, nel quale l'ufficio stesso ha sede, il trattamento di missione dovuto agli impiegati dello Stato di grado V, a norma del [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md).
 
 ### Art. 28.
 
@@ -283,7 +283,7 @@ Il segretario del seggio e' scelto, prima dell'insediamento dell'ufficio elettor
  2) notai; 
  3) impiegati o pensionati dello Stato e degli enti locali; 
  4) ufficiali giudiziari. 
- Al segretario dev'essere corrisposto dal comune, in cui ha sede l'ufficio elettorale, l'onorario giornaliero di lire 300 se vi abita, o, in caso diverso, il trattamento di missione spettante agli impiegati dello Stato di grado VII, a norma del [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320). 
+ Al segretario dev'essere corrisposto dal comune, in cui ha sede l'ufficio elettorale, l'onorario giornaliero di lire 300 se vi abita, o, in caso diverso, il trattamento di missione spettante agli impiegati dello Stato di grado VII, a norma del [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md). 
  Il processo verbale e' redatto dal segretario in due esemplari, e in esso dev'essere tenuto conto di tutte le operazioni prescritte dal presente decreto. Il processo verbale e' atto pubblico.
 
 ### Art. 30.
@@ -568,7 +568,7 @@ TITOLO VII
 
 ### Art. 66.
 
-L'elezione uninominale nel collegio "Val d'Aosta" agli effetti dell'[art. 22 del decreto legislativo Luogotenenziale 7 settembre 1945, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-07;545#art_22), e' regolata dalle disposizioni dei precedenti articoli, in quanto applicabili, e con le modificazioni seguenti: 
+L'elezione uninominale nel collegio "Val d'Aosta" agli effetti dell'[art. 22 del decreto legislativo Luogotenenziale 7 settembre 1945, n. 545](../Decreti%20legislativi%20luogotenenziali/Ordinamento%20amministrativo%20della%20Valle%20dAosta.%20045U0545.md), e' regolata dalle disposizioni dei precedenti articoli, in quanto applicabili, e con le modificazioni seguenti: 
  1) alla "Val d'Aosta" spetta un solo deputato, secondo il riparto stabilito nella tabella A, allegata al presente decreto; 
  2) la candidatura dev'essere proposta con dichiarazione sottoscritta, anche in atti separati, da non meno di 100 e non piu' di 200 elettori del collegio; 
  3) la dichiarazione di candidatura dev'essere depositata, non piu' tardi delle ore 16 del quarantacinquesimo giorno anteriore a quello dell'elezione, insieme con il contrassegno di ciascun candidato, presso la cancelleria del Tribunale di Aosta; 
@@ -618,7 +618,7 @@ Chiunque, con minacce o con atti di violenza, turba il regolare svolgimento dell
 ### Art. 74.
 
 Nei casi indicati negli articoli 69 e 73, primo comma, se siasi usata violenza o minaccia, se siasi esercitata pressione, se siansi cagionati disordini, mediante uso di armi o da persone travisate o da piu' persone riunite o con scritto anonimo, o in modo simbolico, o a nome di categorie, gruppi di persone, associazioni o comitati esistenti o supposti, la pena e' aumentata e sara', in ogni caso, non inferiore a tre anni. 
- Se la violenza o la minaccia e' fatta da piu' di cinque persone riunite, mediante uso di armi, anche soltanto da parte di una di esse, ovvero da piu' di dieci persone, pur senza uso di armi, la pena e' della reclusione da tre a quindici anni e della multa sino a lire 20.000, salva l'applicazione, quando vi sia concorso di recati, delle relative norme del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ Se la violenza o la minaccia e' fatta da piu' di cinque persone riunite, mediante uso di armi, anche soltanto da parte di una di esse, ovvero da piu' di dieci persone, pur senza uso di armi, la pena e' della reclusione da tre a quindici anni e della multa sino a lire 20.000, salva l'applicazione, quando vi sia concorso di recati, delle relative norme del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 75.
 
@@ -647,8 +647,8 @@ Chiunque concorre all'ammissione al voto di chi non ne ha il diritto o alla escl
 Le condanne per reati elettorali, ove venga dal giudice applicata la pena della reclusione, producono sempre la sospensione dal diritto elettorale e l'interdizione dai pubblici uffici. 
  Se la condanna colpisca il candidato, la privazione dal diritto elettorale e di eleggibilita e' pronunziati per un tempo non minore di cinque anni, e non superiore a dieci. 
  Il giudice puo' ordinare, in ogni caso, la pubblicazione della sentenza di condanna. 
- Resta sempre salva l'applicazione delle maggiori pene stabilite nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e in altre leggi per i reati non previsti dal presente decreto. 
- Ai reati elettorali non sono applicabili le disposizioni degli [articoli dal 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_163) [al 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_167) e [175 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_175) e dell'[art. 487 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_487), relative alla sospensione della esecuzione della condanna, e alla non menzione della condanna nel Certificato del casellario giudiziario.
+ Resta sempre salva l'applicazione delle maggiori pene stabilite nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e in altre leggi per i reati non previsti dal presente decreto. 
+ Ai reati elettorali non sono applicabili le disposizioni degli [articoli dal 163](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) [al 167](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [175 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[art. 487 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_487), relative alla sospensione della esecuzione della condanna, e alla non menzione della condanna nel Certificato del casellario giudiziario.
 
 ### Art. 79.
 

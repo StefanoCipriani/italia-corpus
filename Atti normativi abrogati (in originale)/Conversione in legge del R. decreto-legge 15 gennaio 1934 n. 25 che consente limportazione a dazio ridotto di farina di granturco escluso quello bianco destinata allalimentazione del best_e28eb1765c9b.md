@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 gennaio 1934, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-15;25), che consente l'importazione a dazio ridotto di farina di granturco, escluso quello bianco, destinata alla alimentazione del bestiame. 
+ E' convertito in legge il [R. decreto-legge 15 gennaio 1934, n. 25](Importazione%20a%20dazio%20ridotto%20di%20farina%20di%20granturco%20escluso%20quello%20bianco%20destinata%20allalimentazione%20del%20bestiame.%20034U0025.md), che consente l'importazione a dazio ridotto di farina di granturco, escluso quello bianco, destinata alla alimentazione del bestiame. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -25,7 +25,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 maggio 1927, n. 764](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-12;764), concernente norme intese a regolare e facilitare, in casi speciali, il pagamento delle polizze gratuite di assicurazione emesse a favore dei combattenti e loro superstiti. 
+ E' convertito in legge il [R. decreto-legge 12 maggio 1927, n. 764](Norme%20intese%20a%20regolare%20e%20facilitare%20in%20casi%20speciali%20il%20pagamento%20delle%20polizze%20gratuite%20di%20assicurazione%20emesse%20a%20favore%20dei%20combattenti%20e%20loro%20superstiti.%20027U0764.md), concernente norme intese a regolare e facilitare, in casi speciali, il pagamento delle polizze gratuite di assicurazione emesse a favore dei combattenti e loro superstiti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

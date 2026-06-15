@@ -26,7 +26,7 @@ Su proposta del Ministro Segretario di Stato per l'economia nazionale, di concer
 
 ## Art. 1.
 
-Sulle somministrazioni fatte dalla Cassa depositi e prestiti al Ministero dell'economia nazionale, ai sensi e agli effetti dell'art. 1 del citato [R. decreto-legge 29 luglio 1925, n. 1317](Provvedimenti%20per%20il%20credito%20agrario.%20025U1317.md), sara' messa a disposizione della Cassa di risparmio della Tripolitania, alle condizioni e con le modalita' contemplate nel Regio decreto stesso, una somma fino a L. 1,333,333, per operazioni di credito agrario di esercizio e di credito per miglioramenti agrari da effettuarsi a favore degli agricoltori locali con le norme fissate dal [R. decreto 18 aprile 1926, n. 884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-18;884).
+Sulle somministrazioni fatte dalla Cassa depositi e prestiti al Ministero dell'economia nazionale, ai sensi e agli effetti dell'art. 1 del citato [R. decreto-legge 29 luglio 1925, n. 1317](Provvedimenti%20per%20il%20credito%20agrario.%20025U1317.md), sara' messa a disposizione della Cassa di risparmio della Tripolitania, alle condizioni e con le modalita' contemplate nel Regio decreto stesso, una somma fino a L. 1,333,333, per operazioni di credito agrario di esercizio e di credito per miglioramenti agrari da effettuarsi a favore degli agricoltori locali con le norme fissate dal [R. decreto 18 aprile 1926, n. 884](Norme%20in%20base%20alle%20quali%20dovranno%20essere%20eseguite%20le%20operazioni%20di%20credito%20agrario%20e%20fondiario-agrario%20in%20Tripolitania.%20026U0884.md).
 
 ## Art. 2.
 

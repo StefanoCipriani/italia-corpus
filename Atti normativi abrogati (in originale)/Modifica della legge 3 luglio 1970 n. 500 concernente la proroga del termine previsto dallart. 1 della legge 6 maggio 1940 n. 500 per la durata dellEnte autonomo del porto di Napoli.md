@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77 comma secondo della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Vista la [legge 6 maggio 1940, n. 500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-06;500);
+Vista la [legge 6 maggio 1940, n. 500](Costituzione%20dellEnte%20autonomo%20del%20porto%20di%20Napoli.%20040U0500.md);
 
-Vista la [legge 3 luglio 1970, n. 500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-07-03;500);
+Vista la [legge 3 luglio 1970, n. 500](Proroga%20del%20termine%20previsto%20dallarticolo%201%20della%20legge%206%20maggio%201940%20n.%20500%20per%20la%20durata%20dellEnte%20autonomo%20del%20porto%20di%20Napoli.md);
 
 Ritenuta la necessita' e l'urgenza di prorogare la durata dell'Ente autonomo del porto di Napoli fino al 31 dicembre 1971, in attesa che venga istituito il nuovo Consorzio autonomo del porto di Napoli ed al fine di evitare un vuoto normativo che possa turbare o danneggiare la normale gestione commerciale del porto stesso;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la marina mercantile; Decreta:
 
 ## Art. 1.
 
-L'[art. 1 della legge 3 luglio 1970, n. 500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-07-03;500#art_1), e' modificato come segue: "Il termine di durata dell'Ente autonomo del porto di Napoli previsto dall'[art. 1 della legge 6 maggio 1940, n. 500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-06;500#art_1), e' prorogato al 31 dicembre 1971, soltanto per la normale amministrazione".
+L'[art. 1 della legge 3 luglio 1970, n. 500](Proroga%20del%20termine%20previsto%20dallarticolo%201%20della%20legge%206%20maggio%201940%20n.%20500%20per%20la%20durata%20dellEnte%20autonomo%20del%20porto%20di%20Napoli.md), e' modificato come segue: "Il termine di durata dell'Ente autonomo del porto di Napoli previsto dall'[art. 1 della legge 6 maggio 1940, n. 500](Costituzione%20dellEnte%20autonomo%20del%20porto%20di%20Napoli.%20040U0500.md), e' prorogato al 31 dicembre 1971, soltanto per la normale amministrazione".
 
 ## Art. 2.
 

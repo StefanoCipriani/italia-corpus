@@ -42,7 +42,7 @@ Il programma di cui all'articolo 1 e' finalizzato ad un miglior godimento pubbli
 
 2.
 
-Nel caso in cui il programma contenga interventi rientranti nelle ipotesi di cui all'[articolo 1, primo comma, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;292#art_1-com1-leta) e [b), della legge 14 marzo 1968, n. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;292#art_1-com1-letb), il Ministro per i beni culturali e ambientali mette a disposizione del provveditorato regionale alle opere pubbliche competente per territorio le somme necessarie a valere sullo stanziamento previsto dal presente decreto.
+Nel caso in cui il programma contenga interventi rientranti nelle ipotesi di cui all'[articolo 1, primo comma, lettere a)](Disposizioni%20sulla%20competenza%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lavori%20che%20interessano%20il%20patrimonio%20storico%20e%20artistico.md) e [b), della legge 14 marzo 1968, n. 292](Disposizioni%20sulla%20competenza%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lavori%20che%20interessano%20il%20patrimonio%20storico%20e%20artistico.md), il Ministro per i beni culturali e ambientali mette a disposizione del provveditorato regionale alle opere pubbliche competente per territorio le somme necessarie a valere sullo stanziamento previsto dal presente decreto.
 
 3.
 
@@ -60,7 +60,7 @@ Ai fini della predisposizione del programma, gli interventi sui beni dello Stato
 
 1.
 
-Il parere del Consiglio nazionale per i beni culturali e ambientali, espresso ai sensi dell'articolo 2, comma 1, sostituisce i pareri previsti dalla [legge 21 dicembre 1961, n. 1552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-21;1552). Per opere ed interventi di particolare complessita' tecnica o entita' finanziaria il Ministro per i beni culturali e ambientali puo' richiedere il parere dei competenti comitati di settore.
+Il parere del Consiglio nazionale per i beni culturali e ambientali, espresso ai sensi dell'articolo 2, comma 1, sostituisce i pareri previsti dalla [legge 21 dicembre 1961, n. 1552](Disposizioni%20in%20materia%20di%20tutela%20di%20cose%20di%20interesse%20artistico%20e%20storico.md). Per opere ed interventi di particolare complessita' tecnica o entita' finanziaria il Ministro per i beni culturali e ambientali puo' richiedere il parere dei competenti comitati di settore.
 
 2.
 
@@ -70,7 +70,7 @@ Ai fini della realizzazione degli interventi previsti nel programma di cui all'a
 
 1.
 
-All'onere di lire 250 miliardi derivante dall'applicazione del presente decreto si provvede mediante corrispondente riduzione del capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1987, parzialmente utilizzando l'accantonamento "Iniziative per la tutela, la valorizzazione e il restauro dei beni culturali, compreso il rifinanziamento dell'[articolo 15 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_15)".
+All'onere di lire 250 miliardi derivante dall'applicazione del presente decreto si provvede mediante corrispondente riduzione del capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1987, parzialmente utilizzando l'accantonamento "Iniziative per la tutela, la valorizzazione e il restauro dei beni culturali, compreso il rifinanziamento dell'[articolo 15 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md)".
 
 2.
 

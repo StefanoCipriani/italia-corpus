@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Ritenuta la necessita' di aumentare l'assegnazione del fondo di riserva delle impreviste per l'esercizio 1915-916, che trovasi quasi interamente esaurita per prelevazioni gia' autorizzate, onde potervi attingere per provvedere a spese di carattere indilazionabile;
 

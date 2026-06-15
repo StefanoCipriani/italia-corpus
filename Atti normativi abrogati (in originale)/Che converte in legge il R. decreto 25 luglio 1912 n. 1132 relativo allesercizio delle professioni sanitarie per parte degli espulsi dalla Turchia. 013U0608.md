@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E'convertito in legge il [R. decreto 25 luglio 1912, n. 1132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-07-25;1132), col quale venne concesso ai cittadini italiani espulsi dalla Turchia in occasione ed in conseguenza della guerra allora esistente tra l'Italia e l'Impero ottomano, muniti di diplomi esteri per l'esercizio della professione di medico-chirurgo, di veterinario, di odontoiatra, di farmacista, di levatrice, di esercitare nel Regno, fino al 25 gennaio 1913, la professione cui sono abilitati dai rispettivi diplomi. 
+ E'convertito in legge il [R. decreto 25 luglio 1912, n. 1132](Che%20concede%20ai%20cittadini%20italiani%20espulsi%20dalla%20Turchia%20in%20conseguenza%20della%20guerra%20di%20esercitare%20nel%20Regno%20le%20professioni%20sanitarie%20cui%20sono%20abilitati%20dai%20rispettivi%20diplomi.%20012U1132.md), col quale venne concesso ai cittadini italiani espulsi dalla Turchia in occasione ed in conseguenza della guerra allora esistente tra l'Italia e l'Impero ottomano, muniti di diplomi esteri per l'esercizio della professione di medico-chirurgo, di veterinario, di odontoiatra, di farmacista, di levatrice, di esercitare nel Regno, fino al 25 gennaio 1913, la professione cui sono abilitati dai rispettivi diplomi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

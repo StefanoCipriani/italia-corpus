@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395); [30 dicembre 1923, n. 3084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3084), ed [8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;843);
+Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); [30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), ed [8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,16 +22,16 @@ Sulla proposta del Capo del Governo Primo Ministro Segretario di Stato e Ministr
 
 ## Art. 1.
 
-Al [secondo comma dell'art. 148 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_148-com2), sono aggiunti i seguenti periodi: 
+Al [secondo comma dell'art. 148 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono aggiunti i seguenti periodi: 
  
  «I detti periodi di permanenza possono essere ridotti, per merito distinto, di due anni ciascuno agli insegnanti che dimostrino con nuovi importanti lavori pubblicati e con altri notevoli titoli la loro operosita' scientifica, letteraria e didattica, su proposta del Consiglio di amministrazione del Ministero, sempre che una Commissione, composta come e' indicato all'[art. 1 del R. decreto 4 maggio 1924, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-04;835#art_1), dia poi parere favorevole alla concessione.
-Inoltre per gli insegnanti cui sia computabile agli effetti dello stipendio il servizio pre-accademico ai termini dell'[art. 1 del R. decreto 17 dicembre 1922, n. 1777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-17;1777#art_1), la permanenza nel grado ottavo potra' essere ridotta - fino al limite minimo di due anni - del periodo computabile ai suddetti effetti; qualora quest'ultimo superi la riduzione effettuabile, l'eccedenza potra' servire a diminuire la permanenza nel grado settimo sempre fino al minimo di due anni».
+Inoltre per gli insegnanti cui sia computabile agli effetti dello stipendio il servizio pre-accademico ai termini dell'[art. 1 del R. decreto 17 dicembre 1922, n. 1777](Concernente%20il%20riconoscimento%20dei%20servizi%20pregovernativi%20agli%20insegnanti%20della%20R.%20Accademia%20navale.%20022U1777.md), la permanenza nel grado ottavo potra' essere ridotta - fino al limite minimo di due anni - del periodo computabile ai suddetti effetti; qualora quest'ultimo superi la riduzione effettuabile, l'eccedenza potra' servire a diminuire la permanenza nel grado settimo sempre fino al minimo di due anni».
 
 ## Art. 2.
 
-All'[art. 27 del R. decreto 8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;843#art_27), e' aggiunto il seguente comma: 
+All'[art. 27 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), e' aggiunto il seguente comma: 
  
- «Per il personale civile insegnante della Regia accademia navale quando il servizio pre-accademico valutabile agli effetti dello stipendio, all'atto della promozione ad ordinario a termini dell'[art. 1 del R. decreto 17 dicembre 1922, numero 1777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-17;1777#art_1), superi i dodici anni prescritti per il passaggio allo stipendio massimo del grado ottavo, il periodo eccedente sara' computato, sempre agli effetti dello stipendio, all'atto del passaggio al grado settimo».
+ «Per il personale civile insegnante della Regia accademia navale quando il servizio pre-accademico valutabile agli effetti dello stipendio, all'atto della promozione ad ordinario a termini dell'[art. 1 del R. decreto 17 dicembre 1922, numero 1777](Concernente%20il%20riconoscimento%20dei%20servizi%20pregovernativi%20agli%20insegnanti%20della%20R.%20Accademia%20navale.%20022U1777.md), superi i dodici anni prescritti per il passaggio allo stipendio massimo del grado ottavo, il periodo eccedente sara' computato, sempre agli effetti dello stipendio, all'atto del passaggio al grado settimo».
 
 ## Art. 3.
 

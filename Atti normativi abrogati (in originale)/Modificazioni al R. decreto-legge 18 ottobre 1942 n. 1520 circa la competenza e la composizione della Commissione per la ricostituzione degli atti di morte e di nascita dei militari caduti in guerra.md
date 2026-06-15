@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 18 ottobre 1942, n. 1520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-10-18;1520), convertito in legge con la [legge 11 marzo 1943, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-03-11;241);
+Visto il [R. decreto-legge 18 ottobre 1942, n. 1520](Istituzione%20di%20una%20Commissione%20per%20la%20ricostituzione%20di%20atti%20di%20morte%20o%20di%20nascita.%20042U1520.md), convertito in legge con la [legge 11 marzo 1943, n. 241](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2018%20ottobre%201942-XX%20n.%201520%20concernente%20listituzione%20di%20una%20Commissione%20per%20la%20ricostituzione%20di%20atti%20di%20morte%20o%20di%20nascita.%20043U0241.md);
 
 Visto l'[art. 1 della legge 29 novembre 1941, n. 1571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-11-29;1571#art_1);
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-La Commissione per la ricostituzione di atti di morte e di nascita istituita con il [R. decreto-legge 18 ottobre 1942, n. 1520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-10-18;1520), convertito in legge con la [legge 11 marzo 1943, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-03-11;241), ha facolta', anche, di provvedere alla formazione degli atti di morte o di nascita previsti dall'art. 109 del testo della legge di guerra, approvato con il [R. decreto 18 luglio 1938, n. 1415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-18;1415), quando non siano stati compilati dalle autorita' competenti o si possa presumere la mancata compilazione di essi e la morte o la nascita risulti da elementi di prova riconosciuti idonei, provenienti da autorita' italiane, da governi esteri, da associazioni internazionali di soccorso o da testimoni oculari.
+La Commissione per la ricostituzione di atti di morte e di nascita istituita con il [R. decreto-legge 18 ottobre 1942, n. 1520](Istituzione%20di%20una%20Commissione%20per%20la%20ricostituzione%20di%20atti%20di%20morte%20o%20di%20nascita.%20042U1520.md), convertito in legge con la [legge 11 marzo 1943, n. 241](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2018%20ottobre%201942-XX%20n.%201520%20concernente%20listituzione%20di%20una%20Commissione%20per%20la%20ricostituzione%20di%20atti%20di%20morte%20o%20di%20nascita.%20043U0241.md), ha facolta', anche, di provvedere alla formazione degli atti di morte o di nascita previsti dall'art. 109 del testo della legge di guerra, approvato con il [R. decreto 18 luglio 1938, n. 1415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-18;1415), quando non siano stati compilati dalle autorita' competenti o si possa presumere la mancata compilazione di essi e la morte o la nascita risulti da elementi di prova riconosciuti idonei, provenienti da autorita' italiane, da governi esteri, da associazioni internazionali di soccorso o da testimoni oculari.
  Sempre che ricorrano le condizioni previste nel comma precedente la Commissione ha pure la facolta' di formare o di ricostituire gli atti di morte dei cittadini italiani militari e non militari, deceduti fuori dal territorio metropolitano in campi di concentramento o durante il servizio di lavoro obbligatorio e gli atti di nascita relativi alle nascite da cittadine italiane verificatesi fuori dal territorio metropolitano in campo di concentramento o durante il servizio di lavoro obbligatorio.
  Alla Commissione spetta, altresi', di formare gli atti di morte nei casi previsti dall'art. 125-ter inserito nel testo della legge di guerra con la [legge 29 novembre 1941, n. 1571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-11-29;1571).
 
@@ -59,12 +59,12 @@ La Commissione di cui all'art. 1 e' competente a provvedere alla correzione degl
 
 ## Art. 7.
 
-Il numero dei membri componenti la Commissione, previsto dall'[art. 2 del R. decreto-legge 18 ottobre 1942, n. 1520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-10-18;1520#art_2), e' ridotto da 10 a 8, con l'eliminazione dei due rappresentanti della disciolta milizia volontaria sicurezza nazionale.
+Il numero dei membri componenti la Commissione, previsto dall'[art. 2 del R. decreto-legge 18 ottobre 1942, n. 1520](Istituzione%20di%20una%20Commissione%20per%20la%20ricostituzione%20di%20atti%20di%20morte%20o%20di%20nascita.%20042U1520.md), e' ridotto da 10 a 8, con l'eliminazione dei due rappresentanti della disciolta milizia volontaria sicurezza nazionale.
  Il rappresentante del Ministero dell'Africa Italiana per il soppresso Corpo di polizia dell'Africa italiana, previsto dall'art. 2 del citato R. decreto-legge n. 1520, e' sostituito da un ufficiale superiore del Corpo delle guardie di pubblica sicurezza, da designarsi dal Ministero dell'interno.
 
 ## Art. 8.
 
-Le deliberazioni di cui all'[art. 3 del R. decreto-legge 18 ottobre 1942, n. 1520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-10-18;1520#art_3), saranno prese, per il personale della soppressa milizia volontaria sicurezza nazionale, coll'intervento di almeno uno dei membri designati dal Ministero della guerra e, per il personale del soppresso Corpo di polizia dell'Africa italiana, coll'intervento del rappresentante del Corpo delle guardie di pubblica sicurezza.
+Le deliberazioni di cui all'[art. 3 del R. decreto-legge 18 ottobre 1942, n. 1520](Istituzione%20di%20una%20Commissione%20per%20la%20ricostituzione%20di%20atti%20di%20morte%20o%20di%20nascita.%20042U1520.md), saranno prese, per il personale della soppressa milizia volontaria sicurezza nazionale, coll'intervento di almeno uno dei membri designati dal Ministero della guerra e, per il personale del soppresso Corpo di polizia dell'Africa italiana, coll'intervento del rappresentante del Corpo delle guardie di pubblica sicurezza.
 
 ## Art. 9.
 

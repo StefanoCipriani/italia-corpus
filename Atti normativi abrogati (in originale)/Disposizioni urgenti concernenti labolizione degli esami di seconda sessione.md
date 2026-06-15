@@ -28,7 +28,7 @@ Gli esami di seconda sessione negli istituti e scuole di istruzione secondaria s
 
 2.
 
-L'[articolo 74, comma 6, del decreto legislativo 16 aprile 1994, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-16;297#art_74-com6), relativo allo svolgimento degli esami di seconda sessione, e' abrogato.
+L'[articolo 74, comma 6, del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), relativo allo svolgimento degli esami di seconda sessione, e' abrogato.
 
 ## Art. 2. — Interventi didattici ed educativi e verifica dei risultati
 
@@ -58,7 +58,7 @@ Le attivita' di cui al comma 1 possono essere svolte anche da docenti appartenen
 
 1.
 
-Le attivita' didattiche del personale docente di ruolo e del personale docente con supplenza annuale, riguardanti gli interventi previsti dall'articolo 2, possono svolgersi, in deroga a quanto disposto dall'[articolo 74, comma 2, del decreto legislativo 16 aprile 1994, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-16;297#art_74-com2), anche dopo la data del 30 giugno e comunque non oltre quella del 15 luglio.
+Le attivita' didattiche del personale docente di ruolo e del personale docente con supplenza annuale, riguardanti gli interventi previsti dall'articolo 2, possono svolgersi, in deroga a quanto disposto dall'[articolo 74, comma 2, del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), anche dopo la data del 30 giugno e comunque non oltre quella del 15 luglio.
 
 ## Art. 5. — Norma finanziaria
 
@@ -74,7 +74,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 1.
 
-Le disposizioni di cui agli articoli 2, 3 e 4 sono efficaci fino alla sostituzione delle medesime con nuova disciplina deliberata dalle unita' scolastiche sulla base del decreto legislativo attuativo dell'[articolo 4, comma 6, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_4-com6), concernente l'autonomia organizzativa, finanziaria, didattica, di ricerca e sviluppo degli istituti e delle scuole di ogni ordine e grado.
+Le disposizioni di cui agli articoli 2, 3 e 4 sono efficaci fino alla sostituzione delle medesime con nuova disciplina deliberata dalle unita' scolastiche sulla base del decreto legislativo attuativo dell'[articolo 4, comma 6, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), concernente l'autonomia organizzativa, finanziaria, didattica, di ricerca e sviluppo degli istituti e delle scuole di ogni ordine e grado.
 
 ## Art. 7. — Entrata in vigore
 

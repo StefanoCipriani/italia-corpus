@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Alla tariffa generale allegato A alla legge tributaria sulle assicurazioni approvata con [regio decreto 30 dicembre 1923, n. 3281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3281), sono aggiunte le seguenti voci:
+Alla tariffa generale allegato A alla legge tributaria sulle assicurazioni approvata con [regio decreto 30 dicembre 1923, n. 3281](Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md), sono aggiunte le seguenti voci:
  1) assicurazioni a garanzia della solvibilita' del debitore; imposta proporzionale per ogni 100 lire, comprensiva di ogni addizionale: lire 2;
  2) assicurazioni di cauzioni e contro i danni derivanti da atti di infedelta' dei prestatori d'opera; imposta proporzionale per ogni 100 lire comprensiva di ogni addizionale: lire 5.
  La imposta deve essere liquidata sull'ammontare di ciascun pagamento del premio con le norme stabilite dagli articoli 16 e 17 della legge.
@@ -27,7 +27,7 @@ Le quietanze che dagli assicurati o loro aventi causa vengono rilasciate agli as
 
 ## Art. 3.
 
-Il testo dell'art. 54 della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3269), e successive modificazioni, e' sostituito dal seguente:
+Il testo dell'art. 54 della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e successive modificazioni, e' sostituito dal seguente:
  "Cauzioni, mallevadorie, fideiussioni anche solidali, di somme e valori prestate da una o piu' persone cumulativamente per una terza persona; costituzioni di pegno o di ipoteca e promesse d'indennita' del pari per terzi:
 
  sulle prime lire 1000 . . . . . . . . . . . . . . . . . L. 20 - su ogni lire 1000 in piu. . . . . . . . . . . . . . . . L. 10 - 

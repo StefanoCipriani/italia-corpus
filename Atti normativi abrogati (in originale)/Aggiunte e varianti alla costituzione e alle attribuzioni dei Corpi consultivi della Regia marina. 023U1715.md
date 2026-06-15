@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro per la marina, di concerto col Ministro delle
 
 ## Art. 1.
 
-L'[art. 3 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156#art_3), modificato dai [Regi decreti 21 dicembre 1922, n. 1798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1798), [4 marzo 1923, numero 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-04;617), e' abrogato, eccetto gli ultimi due comma, e sostituito dalle seguenti disposizioni: 
+L'[art. 3 del R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), modificato dai [Regi decreti 21 dicembre 1922, n. 1798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1798), [4 marzo 1923, numero 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-04;617), e' abrogato, eccetto gli ultimi due comma, e sostituito dalle seguenti disposizioni: 
  
  «Il Comitato degli ammiragli e' costituito come segue: 
  
@@ -42,7 +42,7 @@ L'[art. 3 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/ur
 
 ## Art. 2.
 
-L'[art. 6 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156#art_6), modificata con l'[art. 5 del R. decreto 2 maggio 1920, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-02;643#art_5), con il [R. decreto 21 dicembre 1922, n. 1798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1798), e col [R. decreto 4 marzo 1923, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-04;617), e' abrogato e sostituito dal seguente: 
+L'[art. 6 del R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), modificata con l'[art. 5 del R. decreto 2 maggio 1920, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-02;643#art_5), con il [R. decreto 21 dicembre 1922, n. 1798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1798), e col [R. decreto 4 marzo 1923, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-04;617), e' abrogato e sostituito dal seguente: 
  
  «La Commissione suprema di avanzamento di cui all'[articolo 28 della legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md), si compone come segue: 
  
@@ -70,7 +70,7 @@ L'[art. 6 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/ur
 
 ## Art. 3.
 
-Gli ultimi due comma dell'[art. 16 del Regio decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156#art_16), sono abrogati e sostituiti come segue: 
+Gli ultimi due comma dell'[art. 16 del Regio decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), sono abrogati e sostituiti come segue: 
  
  «In caso di assenza o impedimento, i membri straordinari, sono sostituiti da chi ne fa le veci negli incarichi. 
  
@@ -78,13 +78,13 @@ Gli ultimi due comma dell'[art. 16 del Regio decreto 1° febbraio 1920, n. 156](
 
 ## Art. 4.
 
-Il penultimo comma dell'art. 17 del precitato [R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156), e' abrogato e sostituito dal seguente: 
+Il penultimo comma dell'art. 17 del precitato [R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), e' abrogato e sostituito dal seguente: 
  
  «All'ufficio esecutivo dei progetti e' preposto l'ufficiale generale o superiore del Genio navale a cui e' stato affidato dal Ministro il progetto di nuova nave o di trasformazione di nave esistente».
 
 ## Art. 5.
 
-L'art. 19 del citato [R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156), e' abrogato e sostituito dal seguente: 
+L'art. 19 del citato [R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), e' abrogato e sostituito dal seguente: 
  
  «Il progetto di nuove navi e quello di trasformazione di esistenti sono affidati, di massima, al presidente del Comitato, ma, in casi speciali, essi possono essere affidati - a scelta del Ministro o per concorso - a qualunque altro ufficiale generale o superiore del Genio navale con la maggiore liberta' nella esecuzione del suo compito. In quest'ultimo caso lo svolgimento dei lavori e' seguito dal presidente del Comitato, o, per sua delegazione, dal vicepresidente; pero' i disegni del progetto debbono essere controfirmati sempre dal presidente. 
  
@@ -93,7 +93,7 @@ L'art. 19 del citato [R. decreto 1° febbraio 1920, n. 156](https://www.normatti
 
 ## Art. 6.
 
-All'art. 20 del predetto [R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156), e' aggiunto il seguente comma: 
+All'art. 20 del predetto [R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), e' aggiunto il seguente comma: 
  
  «Quando trattisi di progetti di nuove navi o di trasformazione di esistenti, una copia del processo verbale sara' trasmessa al Ministro, per le sue decisioni, con rapporto circostanziato del presidente, al quale rimane la piena responsabilita' personale dei risultati delle proposte da lui formulate».
 

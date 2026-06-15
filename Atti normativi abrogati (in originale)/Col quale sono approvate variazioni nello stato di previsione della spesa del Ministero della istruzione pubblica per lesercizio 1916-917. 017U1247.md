@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 21 gennaio 1915, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;31), convertito nella [legge 1° aprile 1915, n. 476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;476);
+Visto il [R. decreto 21 gennaio 1915, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;31), convertito nella [legge 1° aprile 1915, n. 476](Che%20converte%20in%20legge%2017%20decreti%20Reali%20recanti%20provvedimenti%20a%20favore%20dei%20paesi%20danneggiati%20dal%20terremoto%20del%2013%20gennaio%201915%20e%20porta%20modificazioni%20ai%20decreti%20stessi%20con%20laggiunta%20di%20altr_f19f0a26f386.md);
 
 Vista la [legge 24 dicembre 1910, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-24;1738);
 
-Visto che sul fondo di riserva di cui all'[art. 90 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_90), risultano disponibili lire 7.624,831,88;
+Visto che sul fondo di riserva di cui all'[art. 90 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), risultano disponibili lire 7.624,831,88;
 
 Udito il consiglio, dei ministri;
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 luglio 1934, n. 1339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-27;1339), riguardante l'ampliamento, della rete radiofonica nazionale. 
+ E' convertito in legge il [R. decreto-legge 27 luglio 1934, n. 1339](Ampliamento%20della%20rete%20radiofonica%20nazionale.%20034U1339.md), riguardante l'ampliamento, della rete radiofonica nazionale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

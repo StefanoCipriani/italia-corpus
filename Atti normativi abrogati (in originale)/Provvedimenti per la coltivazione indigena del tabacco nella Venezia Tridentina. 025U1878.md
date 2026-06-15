@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [decreto-legge Luogotenenziale 1° ottobre 1917, n. 1660](Recante%20provvedimenti%20per%20incoraggiare%20lesercizio%20e%20lo%20sviluppo%20della%20coltivazione%20indigena%20dei%20tabacchi.%20017U1660.md), convertito nella [legge 7 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-07;473), recante provvedimenti a favore della coltivazione indigena del tabacco;
 
-Visto il [R. decreto 10 settembre 1923, n. 2015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-10;2015), col quale viene abolito il concorso dello Stato nelle spese di costruzione o di adattamento di locali di cura e custodia nonche' ad uso di magazzini generali;
+Visto il [R. decreto 10 settembre 1923, n. 2015](Provvedimenti%20relativi%20alla%20coltivazione%20indigena%20del%20tabacco.%20023U2015.md), col quale viene abolito il concorso dello Stato nelle spese di costruzione o di adattamento di locali di cura e custodia nonche' ad uso di magazzini generali;
 
 Considerata la necessita' pel Monopolio di trasformare, per ragioni tecniche e fiscali, il sistema di coltivazione, di cura e di custodia dei tabacchi nella Venezia Tridentina;
 

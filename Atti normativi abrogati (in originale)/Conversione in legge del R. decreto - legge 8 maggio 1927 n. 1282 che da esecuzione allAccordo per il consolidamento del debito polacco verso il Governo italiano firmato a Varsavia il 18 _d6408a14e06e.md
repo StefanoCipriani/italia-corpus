@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 8 maggio 1927, n. 1282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-08;1282), che da' piena ed intera esecuzione all'Accordo per il consolidamento del debito polacco verso il Governo italiano, firmato a Varsavia il 18 dicembre 1926, fra l'Italia e la Polonia. 
+ E' convertito in legge il [R. decreto legge 8 maggio 1927, n. 1282](Esecuzione%20dellAccordo%20per%20il%20consolidamento%20del%20debito%20polacco%20verso%20il%20Governo%20italiano%20firmato%20a%20Varsavia%20il%2018%20dicembre%201926%20fra%20lItalia%20e%20la%20Polonia.%20027U1282.md), che da' piena ed intera esecuzione all'Accordo per il consolidamento del debito polacco verso il Governo italiano, firmato a Varsavia il 18 dicembre 1926, fra l'Italia e la Polonia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

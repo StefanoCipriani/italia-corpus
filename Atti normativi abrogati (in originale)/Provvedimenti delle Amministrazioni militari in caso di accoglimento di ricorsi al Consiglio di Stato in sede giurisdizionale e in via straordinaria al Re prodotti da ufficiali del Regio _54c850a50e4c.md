@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti gli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054#art_16), [29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054#art_29) e [30 del R. decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054#art_30), col quale fu approvato il testo unico delle leggi sul Consiglio di Stato;
 
-Visto il [R. decreto 26 giugno 1924, n. 1055](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1055), col quale fu approvato il regolamento per l'esecuzione del testo unico suddetto;
+Visto il [R. decreto 26 giugno 1924, n. 1055](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20024U1055.md), col quale fu approvato il regolamento per l'esecuzione del testo unico suddetto;
 
 Udito il Consiglio dei Ministri;
 

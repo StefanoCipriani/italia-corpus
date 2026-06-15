@@ -14,7 +14,7 @@ E' convertito in legge il [R. decreto 25 aprile 1929, n. 594](https://www.normat
 
 ## Art. 2.
 
-Sono convalidati i [Regi decreti 8 aprile 1929, n. 514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-04-08;514), [18 aprile 1929, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-04-18;596), e [25 aprile 1929, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-04-25;597), relativi a prelevazioni dal fondo di riserva per le spese impreviste, inscritto nel bilancio del Ministero delle finanze, per l'esercizio finanziario 1928-29. 
+Sono convalidati i [Regi decreti 8 aprile 1929, n. 514](16a%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201928-29.%20029U0514.md), [18 aprile 1929, n. 596](17ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201928-29.%20029U0596.md), e [25 aprile 1929, n. 597](18ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201928-29.%20029U0597.md), relativi a prelevazioni dal fondo di riserva per le spese impreviste, inscritto nel bilancio del Ministero delle finanze, per l'esercizio finanziario 1928-29. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

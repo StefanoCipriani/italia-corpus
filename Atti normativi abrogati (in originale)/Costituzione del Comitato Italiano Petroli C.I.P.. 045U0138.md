@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741), che disciplina l'importazione, la lavorazione, il deposito e la distribuzione degli oli minerali e dei carburanti, convertito nella [legge 8 febbraio 1934, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-08;367);
+Visto il [R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741), che disciplina l'importazione, la lavorazione, il deposito e la distribuzione degli oli minerali e dei carburanti, convertito nella [legge 8 febbraio 1934, n. 367](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%202%20novembre%201933%20n.%201741%20concernente%20la%20disciplina%20dellimportazione%20lavorazione%20deposito%20e%20distribuzione%20degli%20olii%20minerali%20e%20dei%20carburanti.%20034U0367.md);
 
-Visto il [R. decreto-legge 6 aprile 1944, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-04-06;106), che detta norme per la ripartizione, l'assegnazione e la distribuzione dei combustibili liquidi destinati agli usi civili;
+Visto il [R. decreto-legge 6 aprile 1944, n. 106](Soppressione%20del%20Commissariato%20generale%20per%20i%20combustibili%20liquidi%20e%20istituzione%20di%20una%20Commissione%20per%20la%20ripartizione%20lassegnazione%20e%20la%20distribuzione%20dei%20combustibili%20liquidi%20destinati_c9dbdadea66e.md), che detta norme per la ripartizione, l'assegnazione e la distribuzione dei combustibili liquidi destinati agli usi civili;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

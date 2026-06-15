@@ -16,7 +16,7 @@ LUOGOTENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 21 luglio 1938, n. 1609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-07-21;1609);
+Visto il [R. decreto-legge 21 luglio 1938, n. 1609](Disciplina%20della%20industria%20della%20panificazione.%20038U1609.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per l'industria e il commercio, di concerto coi Mini
 
 ## Art. 1.
 
-E' sospesa l'applicazione dell'[art. 4 del R. decreto-legge 21 luglio 1938, n. 1609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-07-21;1609#art_4), che stabilisce l'attrezzatura tecnica dei panifici che debbono essere impiantati nei comuni con popolazione superiore ai 5000 abitanti.
+E' sospesa l'applicazione dell'[art. 4 del R. decreto-legge 21 luglio 1938, n. 1609](Disciplina%20della%20industria%20della%20panificazione.%20038U1609.md), che stabilisce l'attrezzatura tecnica dei panifici che debbono essere impiantati nei comuni con popolazione superiore ai 5000 abitanti.
 
 ## Art. 2.
 

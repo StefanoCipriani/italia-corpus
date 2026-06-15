@@ -389,7 +389,7 @@ All'ufficiale che viene inscritto sul quadro di avanzamento a scelta o ad anzian
 
 La Commissione centrale chiamata a giudicare gli ufficiali in congedo per la promozione dei generali e' la stessa che e' stabilita per gli ufficiali in servizio permanente effettivo. 
  
- Per giudicare dell'idoneita' all'avanzamento al grado superiore dei tenenti colonnelli e colonnelli delle categorie in congedo, la Commissione centrale di avanzamento e' sostituita, ad ogni effetto, da una Commissione speciale, la quale si compone: di un ufficiale generale, presidente, e di altri quattro ufficiali generali, membri, dei quali uno scelto fra quelli in aspettativa per riduzione di quadri di cui al [Regio decreto-legge 4 settembre 1925, n. 1600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1600). 
+ Per giudicare dell'idoneita' all'avanzamento al grado superiore dei tenenti colonnelli e colonnelli delle categorie in congedo, la Commissione centrale di avanzamento e' sostituita, ad ogni effetto, da una Commissione speciale, la quale si compone: di un ufficiale generale, presidente, e di altri quattro ufficiali generali, membri, dei quali uno scelto fra quelli in aspettativa per riduzione di quadri di cui al [Regio decreto-legge 4 settembre 1925, n. 1600](Collocamento%20in%20aspettativa%20per%20riduzione%20di%20quadri%20degli%20ufficiali%20del%20Regio%20esercito%20in%20posizione%20ausiliaria%20speciale.%20025U1600.md). 
  
  Tale Commissione e' nominata al principio di ogni anno con decreto Ministeriale e valgono anche per essa le norme di cui agli articoli 28, terzo e quarto comma, 40, 41 e 42. 
  

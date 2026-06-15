@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 novembre 1930, n. 1503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-06;1503), che detta norme per i censimenti generali della popolazione e che indice il VII censimento generale. 
+ E' convertito in legge il [R. decreto-legge 6 novembre 1930, n. 1503](Norme%20per%20i%20censimenti%20generali%20e%20per%20il%207%20censimento%20generale%20della%20popolazione%20del%20Regno%20delle%20Colonie%20e%20dei%20possedimenti%20italiani.%20030U1503.md), che detta norme per i censimenti generali della popolazione e che indice il VII censimento generale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

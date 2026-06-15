@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il testo unico delle leggi costituzionali concernente lo statuto speciale del Trentino-Alto Adige, approvato con [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-31;670);
+Visto il testo unico delle leggi costituzionali concernente lo statuto speciale del Trentino-Alto Adige, approvato con [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md);
 
-Visto il [decreto legislativo 6 luglio 1993, n. 291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-07-06;291), recante "Norme di attuazione dello statuto speciale della regione Trentino- Alto Adige concernente modifiche alle tabelle organiche degli uffici statali siti nella provincia di Bolzano";
+Visto il [decreto legislativo 6 luglio 1993, n. 291](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-%20Alto%20Adige%20concernenti%20modifiche%20alle%20tabelle%20organiche%20degli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano.md), recante "Norme di attuazione dello statuto speciale della regione Trentino- Alto Adige concernente modifiche alle tabelle organiche degli uffici statali siti nella provincia di Bolzano";
 
-Considerato che l'art. 2, comma 1, del citato [decreto legislativo 6 luglio 1993, n. 291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-07-06;291), e' stato dichiarato illegittimo dalla Corte costituzionale;
+Considerato che l'art. 2, comma 1, del citato [decreto legislativo 6 luglio 1993, n. 291](../Decreti%20Legislativi/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-%20Alto%20Adige%20concernenti%20modifiche%20alle%20tabelle%20organiche%20degli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano.md), e' stato dichiarato illegittimo dalla Corte costituzionale;
 
 Sentita la commissione paritetica per le norme di attuazione prevista dall'art. 107, comma secondo, del citato testo unico;
 
@@ -30,12 +30,12 @@ E M A N A il seguente decreto legislativo:
 
 1.
 
-Il [secondo comma dell'art. 26 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-07-26;752#art_26-com2), e' sostituito dai seguenti:
+Il [secondo comma dell'art. 26 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), e' sostituito dai seguenti:
  "Alle modifiche delle tabelle di cui al primo comma dell'art. 8 si provvede, nel limite degli organici complessivi nazionali delle singole amministrazioni, con provvedimenti delle amministrazioni centrali competenti, su proposta del consiglio di amministrazione di cui all'art. 22 del presente decreto.
  Delle determinazioni di cui sopra sara' data preventivamente notizia alla giunta della provincia autonoma di Bolzano".
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
  - L'art. 107 del testo unico delle leggi costituzionali concernente lo statuto speciale per il Trentino-Alto Adige, approvato con [D.P.R. n. 670/1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;670), e' cosi' formulato:

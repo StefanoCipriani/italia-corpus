@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto-legge 13 novembre 1924, n. 1825](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il [R. decreto-legge 3 gennaio 1926, n. 37](Costituzione%20dellIstituto%20di%20assicurazione%20e%20previdenza%20per%20i%20titolari%20degli%20uffici%20secondari%20per%20i%20ricevitori%20postali%20telegrafici%20e%20per%20gli%20agenti%20rurali.%20026U0037.md), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898);
+Visto il [R. decreto-legge 3 gennaio 1926, n. 37](Costituzione%20dellIstituto%20di%20assicurazione%20e%20previdenza%20per%20i%20titolari%20degli%20uffici%20secondari%20per%20i%20ricevitori%20postali%20telegrafici%20e%20per%20gli%20agenti%20rurali.%20026U0037.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
 Visto il [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 

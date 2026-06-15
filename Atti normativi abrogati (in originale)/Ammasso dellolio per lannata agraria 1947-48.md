@@ -12,9 +12,9 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Veduto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Veduto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Veduto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Veduta la [legge 2 dicembre 1940, n. 1792](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-02;1792), recante disposizioni per l'ammasso dell'olio di oliva e di sanse;
+Veduta la [legge 2 dicembre 1940, n. 1792](Modificazioni%20alle%20disposizioni%20dellammasso%20dellolio%20di%20oliva%20e%20di%20sanse.%20040U1792.md), recante disposizioni per l'ammasso dell'olio di oliva e di sanse;
 
 Veduta la deliberazione del Consiglio dei Ministri;
 
@@ -188,7 +188,7 @@ L'Ufficio nazionale statistico economico dell'agricoltura e i suoi uffici perife
 
 ## Art. 27.
 
-Cessano di aver vigore, per il raccolto olivicolo 1947-1948, le disposizioni contenute nella [legge 2 dicembre 1940, n. 1792](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-02;1792), per l'ammasso dell'olio di oliva e di sanse in quanto siano in contrasto col presente decreto.
+Cessano di aver vigore, per il raccolto olivicolo 1947-1948, le disposizioni contenute nella [legge 2 dicembre 1940, n. 1792](Modificazioni%20alle%20disposizioni%20dellammasso%20dellolio%20di%20oliva%20e%20di%20sanse.%20040U1792.md), per l'ammasso dell'olio di oliva e di sanse in quanto siano in contrasto col presente decreto.
 
 ## Art. 28.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1039](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1039), concernente restituzione alla Cassa depositi e prestiti di somme anticipate allo Stato per pensioni, mutui alle ferrovie e somministrazioni per l'Azienda dei telefoni. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1039](Restituzione%20alla%20Cassa%20depositi%20e%20prestiti%20di%20somme%20anticipate%20allo%20Stato%20per%20pensioni%20mutui%20alle%20Ferrovie%20e%20somministrazioni%20per%20lAzienda%20dei%20telefoni.%20027U1039.md), concernente restituzione alla Cassa depositi e prestiti di somme anticipate allo Stato per pensioni, mutui alle ferrovie e somministrazioni per l'Azienda dei telefoni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

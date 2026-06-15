@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [R. decreto-legge 1° giugno 1933, n. 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-01;798), che ammette all'importazione nel Regno, in franchigia dei dazi doganali, frumenti di Rodi, entro il quantitativo massimo di 5000 quintali annui. 
+ E convertito in legge il [R. decreto-legge 1° giugno 1933, n. 798](Introduzione%20nel%20Regno%20in%20esenzione%20di%20dazio%20doganale%20di%20un%20contingente%20di%20cinquemila%20quintali%20al%20massimo%20di%20frumenti%20di%20Rodi.%20033U0798.md), che ammette all'importazione nel Regno, in franchigia dei dazi doganali, frumenti di Rodi, entro il quantitativo massimo di 5000 quintali annui. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

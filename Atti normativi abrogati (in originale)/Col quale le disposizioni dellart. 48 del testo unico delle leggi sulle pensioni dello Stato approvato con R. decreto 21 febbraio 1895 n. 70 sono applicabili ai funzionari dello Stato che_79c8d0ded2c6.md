@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 5 della legge 31 dicembre 1907, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-12-31;804#art_5); 
+ Visto l'[art. 5 della legge 31 dicembre 1907, n. 804](Che%20approva%20le%20disposizioni%20per%20le%20modifiche%20di%20alcuni%20articoli%20della%20legge%20sugli%20Istituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20Banca%20007U0804.md); 
  
  Sentito il Consiglio dei ministri; 
  

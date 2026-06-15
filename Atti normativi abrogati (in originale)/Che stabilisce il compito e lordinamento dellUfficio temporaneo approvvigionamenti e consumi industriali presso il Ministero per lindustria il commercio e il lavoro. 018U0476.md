@@ -32,7 +32,7 @@ Il personale dell'Ufficio e' costituito:
  
  da funzionari dello Stato a riposo e da militari inabili alle fatiche di guerra o appartenenti a corpi non combattenti; 
  
- da cittadini esperti, i quali assumono i doveri e le responsabilita' dei pubblici funzionari, e da avventizi assunti o da assumersi con le norme della [legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182), anche in deroga delle limitazioni di numero portate da successive disposizioni.
+ da cittadini esperti, i quali assumono i doveri e le responsabilita' dei pubblici funzionari, e da avventizi assunti o da assumersi con le norme della [legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md), anche in deroga delle limitazioni di numero portate da successive disposizioni.
 
 ## Art. 4.
 

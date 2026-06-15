@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 9 luglio 1916, n. 814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-07-09;814);
+Vista la [legge 9 luglio 1916, n. 814](Che%20proroga%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lanno%20finanziario%201916-917%20fino%20quando%20non%20siano%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%20_cbe86bff6c88.md);
 
 Udito il Consiglio dei ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto con q
 
 Per ulteriori spese straordinarie l'Amministrazione delle ferrovie dello Stato e' autorizzata ad assumere, nell'esercizio finanziario 1916-917, impegni per l'importo di lire sessantamilioni (L. 60.000.000). 
  
- Detta somma verra' stanziata per lire trentamilioni (L 30.000.000) in ciascuno degli esercizi finanziari 1917-918 e 1918-919, entro il limite annuo di cui alla [legge 24 dicembre 1908, n. 731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;731).
+ Detta somma verra' stanziata per lire trentamilioni (L 30.000.000) in ciascuno degli esercizi finanziari 1917-918 e 1918-919, entro il limite annuo di cui alla [legge 24 dicembre 1908, n. 731](Provvedimenti%20per%20le%20spese%20ferroviarie%20viarie%20e%20per%20debiti%20redimibili.%20008U0731.md).
 
 ## Art. 2.
 

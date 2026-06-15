@@ -24,7 +24,7 @@ Ove l'interesse nazionale lo richieda, il Governo potra' in casi singoli sancire
 
 ## Art. 3.
 
-I contravventori al divieto sancito dall'art. 1 incorrono nelle penalita' comminate dall'[art. 1 della legge 21 marzo 1915, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-03-21;273#art_1). Il giudice puo' ridurre tali pene alla meta' o ad un terzo se riconosca che l'entita' del reato sia lieve o lievissima.
+I contravventori al divieto sancito dall'art. 1 incorrono nelle penalita' comminate dall'[art. 1 della legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md). Il giudice puo' ridurre tali pene alla meta' o ad un terzo se riconosca che l'entita' del reato sia lieve o lievissima.
 
 ## Art. 4.
 

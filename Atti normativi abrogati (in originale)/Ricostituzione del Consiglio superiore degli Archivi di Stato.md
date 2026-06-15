@@ -12,15 +12,15 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163), che approva il regolamento per gli Archivi di Stato;
 
-Visto il [regio decreto-legge 20 giugno 1935, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1137);
+Visto il [regio decreto-legge 20 giugno 1935, n. 1137](Modificazioni%20alle%20norme%20per%20la%20composizione%20e%20per%20le%20attribuzioni%20del%20Consiglio%20per%20gli%20Archivi%20del%20Regno.%20035U1137.md);
 
 Vista la [legge 22 dicembre 1939, n. 2606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-12-22;2606);
 
-Visto il [decreto legislativo luogotenenziale 21 settembre 1944, n. 236](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-21;236);
+Visto il [decreto legislativo luogotenenziale 21 settembre 1944, n. 236](../Decreti%20legislativi%20luogotenenziali/Scioglimento%20del%20Consiglio%20superiore%20per%20gli%20Archivi%20del%20Regno%20e%20della%20Giunta%20per%20gli%20Archivi%20del%20Regno.%20044U0236.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 
 ## Art. 1.
 
-L'[art. 4 della legge 22 dicembre 1939, n. 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-12-22;2006#art_4), e' abrogato e sostituito con il seguente:
+L'[art. 4 della legge 22 dicembre 1939, n. 2006](Nuovo%20ordinamento%20degli%20Archivi%20del%20Regno.%20039U2006.md), e' abrogato e sostituito con il seguente:
  "E' istituito presso il Ministero dell'interno Il Consiglio Superiore degli Archivi di Stato.
  Il Consiglio e' presieduto dal Ministro o, per sua delega o in caso di sua assenza, od impedimento, dal Sottosegretario di Stato per l'interno, ed e' composto:
  a) di un vice presidente e di sette membri scelti tra persone particolarmente competenti in materie storico-archivistiche;
@@ -45,7 +45,7 @@ L'[art. 4 della legge 22 dicembre 1939, n. 2006](https://www.normattiva.it/uri-r
 
 ## Art. 2.
 
-Il [decreto legislativo luogotenenziale 21 settembre 1944, n. 236](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-21;236), e' abrogato.
+Il [decreto legislativo luogotenenziale 21 settembre 1944, n. 236](../Decreti%20legislativi%20luogotenenziali/Scioglimento%20del%20Consiglio%20superiore%20per%20gli%20Archivi%20del%20Regno%20e%20della%20Giunta%20per%20gli%20Archivi%20del%20Regno.%20044U0236.md), e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

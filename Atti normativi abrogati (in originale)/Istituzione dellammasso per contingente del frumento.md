@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [decreto legislativo del Capo provvisorio dello Stato 30 maggio 1947, n. 439](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-30;439), ratificato con modificazioni, con la [legge 11 febbraio 1952, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-11;69), che prevede l'ammasso totale del frumento;
+Visto il [decreto legislativo del Capo provvisorio dello Stato 30 maggio 1947, n. 439](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-30;439), ratificato con modificazioni, con la [legge 11 febbraio 1952, n. 69](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2030%20maggio%201947%20n.%20439%20concernente%20norme%20per%20il%20conferimento%20del%20grano%20dellorzo%20della%20segale%20del%20granoturco%20e%20del%20risone%20ai%20Granai%20del%20popolo.md), che prevede l'ammasso totale del frumento;
 
 Ritenuta la straordinaria necessita' ed urgenza di disporre, nell'imminenza del raccolto, la limitazione dell'ammasso del frumento ad un'aliquota soltanto dell'intera produzione;
 
@@ -22,12 +22,12 @@ Sulla proposta del Ministro per l'agricoltura e le foreste, di concerto con i Mi
 
 ## Art. 1.
 
-L'ammasso del frumento di produzione nazionale sara' effettuato per contingente anziche' per la totalita' del prodotto come previsto dal [decreto legislativo del Capo provvisorio dello Stato 30 maggio 1947, n. 439](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-30;439), ratificato, con modificazioni, con la [legge 11 febbraio 1952, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-11;69).
+L'ammasso del frumento di produzione nazionale sara' effettuato per contingente anziche' per la totalita' del prodotto come previsto dal [decreto legislativo del Capo provvisorio dello Stato 30 maggio 1947, n. 439](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-30;439), ratificato, con modificazioni, con la [legge 11 febbraio 1952, n. 69](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2030%20maggio%201947%20n.%20439%20concernente%20norme%20per%20il%20conferimento%20del%20grano%20dellorzo%20della%20segale%20del%20granoturco%20e%20del%20risone%20ai%20Granai%20del%20popolo.md).
  Il contingente nazionale sara' determinato dal Ministro per l'agricoltura e le foreste, di concerto con il Ministro per il tesoro.
 
 ## Art. 2.
 
-Per l'esecuzione dell'ammasso di cui al precedente articolo sono richiamate in vigore le disposizioni contenute nella [legge 10 luglio 1951, n. 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-07-10;541).
+Per l'esecuzione dell'ammasso di cui al precedente articolo sono richiamate in vigore le disposizioni contenute nella [legge 10 luglio 1951, n. 541](Istituzione%20dellammasso%20per%20contingente%20del%20frumento%20per%20la%20produzione%20dellannata%20agraria%201950-1951.md).
 
 ## Art. 3.
 

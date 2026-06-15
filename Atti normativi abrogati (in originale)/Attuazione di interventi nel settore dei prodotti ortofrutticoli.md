@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il Trattato istitutivo della Comunita' economica europea ratificato con [legge 14 ottobre 1957, n. 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-14;1203);
+Visto il Trattato istitutivo della Comunita' economica europea ratificato con [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
 
 Visti i regolamenti nn. 23 e 159 adottati dal Consiglio dei Ministri della Comunita' economica europea, rispettivamente in data 4 aprile 1962 e 25 ottobre 1966;
 
@@ -80,7 +80,7 @@ Per l'applicazione delle disposizioni relative ai rimborsi previsti dal preceden
 
 ## Art. 8.
 
-Il fondo istituito con l'[articolo 49 del decreto-legge 9 novembre 1966, n. 912](Norme%20per%20lerogazione%20della%20integrazione%20del%20prezzo%20ai%20produttori%20di%20olio%20di%20oliva%20nonche%20modificazioni%20al%20regime%20fiscale%20degli%20oli.md), convertito nella [legge 23 dicembre 1966, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-23;1143), assume la denominazione di "Fondo di rotazione per interventi nel settore agricolo in applicazione di regolamenti comunitari".
+Il fondo istituito con l'[articolo 49 del decreto-legge 9 novembre 1966, n. 912](Norme%20per%20lerogazione%20della%20integrazione%20del%20prezzo%20ai%20produttori%20di%20olio%20di%20oliva%20nonche%20modificazioni%20al%20regime%20fiscale%20degli%20oli.md), convertito nella [legge 23 dicembre 1966, n. 1143](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%201966%20n.%20912%20concernente%20norme%20per%20lerogazione%20dellintegrazione%20del%20prezzo%20ai%20produttori%20di%20olio%20doliva%20nonche%20modificaz_3ae199c296c4.md), assume la denominazione di "Fondo di rotazione per interventi nel settore agricolo in applicazione di regolamenti comunitari".
  Il Fondo predetto e' destinato, oltre che agli interventi indicati al citato [articolo 49 del decreto-legge 9 novembre 1966, n. 912](Norme%20per%20lerogazione%20della%20integrazione%20del%20prezzo%20ai%20produttori%20di%20olio%20di%20oliva%20nonche%20modificazioni%20al%20regime%20fiscale%20degli%20oli.md), anche a quelli di cui all'articolo 1 del presente decreto, ed a quelli derivanti dall'applicazione di altre norme comunitarie per l'organizzazione comune di altri settori agricoli.
  La dotazione del Fondo, in base alle necessita', puo' essere aumentata nel biennio 1967-1969 sino all'importo massimo di lire 147.600 milioni.
  Nello stato di previsione del Ministero dell'agricoltura e delle foreste, negli anni finanziari 1967 e 1968, con decreti del Ministro per il tesoro, saranno iscritte le somme occorrenti per i versamenti al Fondo stesso, Da tale Fondo, in relazione alle esigenze, l'Azienda di Stato per gli interventi nel mercato agricolo fara' affluire al proprio bilancio le somme occorrenti.
@@ -96,7 +96,7 @@ Il Ministro per il tesoro e' autorizzato ad emettere negli anni finanziari 1967 
 
 ## Art. 10.
 
-Ai certificati di credito, di cui al precedente articolo 9, ai loro interessi ed agli atti comunque ad essi relativi sono estese le esenzioni fiscali ed agevolazioni tributarie contenute negli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-19;2356#art_3) e [8 della legge 19 dicembre 1952, n. 2356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-19;2356#art_8).
+Ai certificati di credito, di cui al precedente articolo 9, ai loro interessi ed agli atti comunque ad essi relativi sono estese le esenzioni fiscali ed agevolazioni tributarie contenute negli [articoli 3](Emissione%20di%20buoni%20del%20Tesoro%20novennali%205%20per%20cento%201962.md) e [8 della legge 19 dicembre 1952, n. 2356](Emissione%20di%20buoni%20del%20Tesoro%20novennali%205%20per%20cento%201962.md).
  I certificati medesimi e le relative cedole sono equiparati a tutti gli effetti ai titoli di credito pubblico e loro rendite, e godono delle garanzie, privilegi e benefici ad essi concessi e possono essere sottoscritti, anche in deroga ai rispettivi ordinamenti, dagli Enti di qualsiasi natura esercenti il credito, la assicurazione e la previdenza, nonche' dalla Cassa depositi e prestiti.
 
 ## Art. 11.

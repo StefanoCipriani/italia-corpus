@@ -30,9 +30,9 @@ Di regola la medaglia al valor di Marina sara' consegnata ai Titolari in forma s
 
 ## Art. 3.
 
-Non potranno conseguire la medaglia al valor di Marina e, avendola conseguita, saranno privati del diritto di fregiarsene, coloro i quali siano incorsi nella interdizione perpetua dai pubblici uffici in conformita' del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), salvo il caso di riabilitazione. 
+Non potranno conseguire la medaglia al valor di Marina e, avendola conseguita, saranno privati del diritto di fregiarsene, coloro i quali siano incorsi nella interdizione perpetua dai pubblici uffici in conformita' del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo il caso di riabilitazione. 
  
- Parimenti non potranno conseguire la medaglia al valor di Marina, ne', avendola conseguita, potranno fregiarsene coloro che siano incorsi nella interdizione temporanea dai pubblici uffici, finche' dura siffatta interdizione, giusta le norme del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), salvo sempre il caso di riabilitazione.
+ Parimenti non potranno conseguire la medaglia al valor di Marina, ne', avendola conseguita, potranno fregiarsene coloro che siano incorsi nella interdizione temporanea dai pubblici uffici, finche' dura siffatta interdizione, giusta le norme del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo sempre il caso di riabilitazione.
 
 ## Art. 4.
 

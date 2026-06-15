@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti gli [articoli 1](Provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U1420.md), [2](Provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U1420.md), [12](Provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U1420.md) e [39 della legge 24 giugno 1923, n. 1420](Provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U1420.md), recante provvedimenti per la protezione della selvaggina e l'esercizio della caccia;
 
-Visto che il regolamento per la esecuzione della legge medesima, approvato con [R. decreto 24 settembre 1923, n. 2448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2448), e' stato pubblicato nella Gazzetta Ufficiale del Regno n. 278 del 27 novembre 1923;
+Visto che il regolamento per la esecuzione della legge medesima, approvato con [R. decreto 24 settembre 1923, n. 2448](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20giugno%201923%20n.%201420%20recante%20provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U2448.md), e' stato pubblicato nella Gazzetta Ufficiale del Regno n. 278 del 27 novembre 1923;
 
 Ritenuta la necessita' di prorogare i termini rispettivamente stabiliti dalla legge e dal regolamento anzidetti, per la presentazione delle domande intese ad ottenere la concessione di bandite o riserve gia' istituite e per il rilevamento delle bandite di Stato e private e della loro relativa estensione, in ciascuna Provincia, per dar modo agli interessati di uniformarsi alle disposizioni recate dal regolamento su ricordato;
 

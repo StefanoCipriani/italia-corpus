@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' approvato, agli effetti della [legge 11 luglio 1913, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921), il piano regolatore della zona occidentale della citta' di Napoli, in data 28 novembre 1914 (modificato in conformita' della deliberazione 24 novembre 1917 della Giunta municipale) a condizione che l'ampliamento del rione Bagnoli sia limitato alla zona occidentale o al piano filare continuativo di isolati nella zona occidentale fino alla strada vicinale della Sterza III ramo. Tale piano sara', d'ordine Nostro, munito della firma del ministro proponente.
+E' approvato, agli effetti della [legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md), il piano regolatore della zona occidentale della citta' di Napoli, in data 28 novembre 1914 (modificato in conformita' della deliberazione 24 novembre 1917 della Giunta municipale) a condizione che l'ampliamento del rione Bagnoli sia limitato alla zona occidentale o al piano filare continuativo di isolati nella zona occidentale fino alla strada vicinale della Sterza III ramo. Tale piano sara', d'ordine Nostro, munito della firma del ministro proponente.
 
 ## Art. 2.
 

@@ -24,13 +24,13 @@ VITTORIO EMANUELE III
  
  Sono convertiti in legge i [Regi decreti-legge: 
  
- 3 agosto 1930, n. 1065](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-08-03;1065), [24 ottobre 1930, n. 1426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-24;1426), e [23 ottobre 1930, n. 1454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-23;1454), recanti provvedimenti a favore dei danneggiati dal terremoto del 23 luglio 1930, e 10 novembre 1930, n. 1447, recante provvedimenti a favore dei danneggiati dal terremoto del 30 ottobre 1930. 
+ 3 agosto 1930, n. 1065](Provvedimenti%20in%20dipendenza%20del%20terremoto%20del%2023%20luglio%201930.%20030U1065.md), [24 ottobre 1930, n. 1426](Autorizzazione%20della%20spesa%20complementare%20di%20L.%2016.800.000%20per%20lattuazione%20delle%20provvidenze%20stabilite%20con%20R.%20decreto%203%20agosto%201930%20n.%201065%20a%20favore%20dei%20danneggiati%20dal%20terremoto%20del%2023%20lu_2072cb73f262.md), e [23 ottobre 1930, n. 1454](Disposizioni%20a%20favore%20dei%20danneggiati%20dal%20terremoto%20del%2023%20luglio%201930%20in%20aggiunta%20e%20modifica%20del%20R.%20decreto%203%20agosto%201930%20n.%201065.%20030U1454.md), recanti provvedimenti a favore dei danneggiati dal terremoto del 23 luglio 1930, e 10 novembre 1930, n. 1447, recante provvedimenti a favore dei danneggiati dal terremoto del 30 ottobre 1930. 
  
- Al [R. decreto-legge 3 agosto 1930, n. 1065](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-08-03;1065), e' aggiunto l'articolo seguente: 
+ Al [R. decreto-legge 3 agosto 1930, n. 1065](Provvedimenti%20in%20dipendenza%20del%20terremoto%20del%2023%20luglio%201930.%20030U1065.md), e' aggiunto l'articolo seguente: 
  
  «Art. 19-bis. - Le disposizioni degli articoli 17, 18 e 19 del presente decreto non si applicano per i fabbricati delle cooperative edilizie, che hanno ottenuto il contributo statale, ne' agli altri fabbricati comunque gravati di ipoteca a favore della Cassa depositi e prestiti». 
  
- Al [R. decreto-legge 10 novembre 1930, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-10;1447), e' aggiunto l'articolo seguente: 
+ Al [R. decreto-legge 10 novembre 1930, n. 1447](Provvedimenti%20a%20favore%20dei%20danneggiati%20dal%20terremoto%20del%2030%20ottobre%201930.%20030U1447.md), e' aggiunto l'articolo seguente: 
  
  «Art.11-bis. - Le disposizioni degli articoli 8, 9 e 11 del presente decreto non si applicano per i fabbricati delle cooperative edilizie, che hanno ottenuto il contributo statale, ne' agli altri fabbricati comunque gravati di ipoteca a favore della Cassa depositi e prestiti». 
  

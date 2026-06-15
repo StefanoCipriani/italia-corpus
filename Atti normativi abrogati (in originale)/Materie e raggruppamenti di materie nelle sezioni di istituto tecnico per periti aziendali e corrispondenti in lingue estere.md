@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sull'ordinamento dell'istruzione media tecnica;
- Vista la [legge 13 luglio 1965, n. 884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;884), relativa alla istituzione di sezioni di istituto tecnico per periti aziendali e corrispondenti in lingue estere;
+ Vista la [legge 13 luglio 1965, n. 884](Istituzione%20della%20sezione%20di%20istituto%20tecnico%20per%20periti%20aziendali%20e%20corrispondenti%20in%20lingue%20estere.md), relativa alla istituzione di sezioni di istituto tecnico per periti aziendali e corrispondenti in lingue estere;
  Visto il decreto ministeriale 8 agosto 1966, con il quale sono stati approvati gli orari e programmi di insegnamento delle sezioni di istituto tecnico per periti aziendali e corrispondenti in lingue estere;
  Sentito il parere del Consiglio superiore della pubblica istruzione;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;

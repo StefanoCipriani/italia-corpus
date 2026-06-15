@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 novembre 1928, n. 2628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-18;2628), riflettente la costituzione della Commissione di arte ed edilita' presso il Ministero delle colonie. 
+ E' convertito in legge il [R. decreto-legge 18 novembre 1928, n. 2628](Costituzione%20di%20una%20Commissione%20di%20arte%20ed%20edilita%20presso%20il%20Ministero%20delle%20colonie.%20028U2628.md), riflettente la costituzione della Commissione di arte ed edilita' presso il Ministero delle colonie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti dei Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

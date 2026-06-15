@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 novembre 1926, n. 1944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1944), concernente l'introduzione di un nuovo termine di commisurazione per la graduazione della tassa di bollo sulle cambiali con scadenza non superiore ad un mese. 
+ E' convertito in legge il [R. decreto-legge 14 novembre 1926, n. 1944](Introduzione%20di%20un%20nuovo%20termine%20di%20commisurazione%20per%20la%20graduazione%20della%20tassa%20di%20bollo%20sulle%20cambiali%20con%20scadenza%20non%20superiore%20ad%20un%20mese.%20026U1944.md), concernente l'introduzione di un nuovo termine di commisurazione per la graduazione della tassa di bollo sulle cambiali con scadenza non superiore ad un mese. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

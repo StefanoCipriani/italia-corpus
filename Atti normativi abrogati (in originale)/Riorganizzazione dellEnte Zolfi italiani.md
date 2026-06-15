@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 11, primo comma, della legge 25 giugno 1956, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-06-25;695#art_11-com1);
+Visto l'[art. 11, primo comma, della legge 25 giugno 1956, n. 695](Provvedimenti%20in%20favore%20dellindustria%20zolfifera.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -23,11 +23,11 @@ Sulla proposta del Ministro per l'industria e per il commercio, di concerto con 
 ## Art. 1.
 
 E' riservata all'Ente Zolfi Italiani la vendita degli zolfi fusi, degli zolfi di recupero e dei concentrati di minerale di zolfo commerciabili come tali; 
- I prodotti indicati nel precedente comma sono denominati zolfi grezzi e sottoposti alla disciplina prevista dai [regi decreti-legge 11 dicembre 1933, n. 1699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-11;1699), [28 settembre 1934, n. 1591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1591), [27 giugno 1935, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-27;1312), [30 dicembre 1935, n. 2491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-30;2491), e dalla [legge 2 aprile 1940, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-04-02;287).
+ I prodotti indicati nel precedente comma sono denominati zolfi grezzi e sottoposti alla disciplina prevista dai [regi decreti-legge 11 dicembre 1933, n. 1699](Nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20033U1699.md), [28 settembre 1934, n. 1591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1591), [27 giugno 1935, n. 1312](Provvedimenti%20per%20lindustria%20solfifera%20nazionale.%20035U1312.md), [30 dicembre 1935, n. 2491](Nuove%20norme%20per%20lindustria%20zolfifera%20nazionale.%20035U2491.md), e dalla [legge 2 aprile 1940, n. 287](Istituzione%20dellEnte%20Zolfi%20Italiani%20E.Z.I..%20040U0287.md).
 
 ## Art. 2.
 
-A modifica dell'[art. 1 del regio decreto 3 gennaio 1934, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-03;18#art_1), la classifica degli zolfi grezzi posti a disposizione dell'Ente Zolfi italiani deve essere effettuata assegnando gli zolfi stessi ad una delle seguenti categorie:
+A modifica dell'[art. 1 del regio decreto 3 gennaio 1934, n. 18](Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md), la classifica degli zolfi grezzi posti a disposizione dell'Ente Zolfi italiani deve essere effettuata assegnando gli zolfi stessi ad una delle seguenti categorie:
  zolfi gialli;
  zolfi bruni;
  concentrati di zolfo.
@@ -54,7 +54,7 @@ L'Ente Zolfi Italiani e' autorizzato a stipulare convenzioni con la Regione sici
 
 L'Ente Zolfi Italiani e' autorizzato a stipulare convenzioni con la Regione siciliana allo scopo di regolare l'impiego di contributi che siano dalla medesima concessi per lo svolgimento nell'Isola, dell'attivita' assistenziale dell'Ente. 
  In tal caso, per esplicare l'attivita' assistenziale indicata nel precedente comma, l'Ente Zolfi italiani costituira' nell'Isola apposito Ufficio regionale. 
- A detto Ufficio sara' assegnata una quota, proporzionale alla produzione siciliana, delle entrate della Sezione di assistenza sociale dell'Ente previste dall'[art. 10 della legge 25 giugno 1956, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-06-25;695#art_10). 
+ A detto Ufficio sara' assegnata una quota, proporzionale alla produzione siciliana, delle entrate della Sezione di assistenza sociale dell'Ente previste dall'[art. 10 della legge 25 giugno 1956, n. 695](Provvedimenti%20in%20favore%20dellindustria%20zolfifera.md). 
  Il rendiconto dell'attivita' svolta, nell'esercizio finanziario, con i contributi della Regione e con la quota di entrate della Sezione di assistenza sociale dell'Ente indicata nel precedente comma, viene approvato dal Ministro per l'industria e per il commercio e dal Ministro per il tesoro, sentito il Presidente della Regione siciliana.
 
 ## Art. 7.

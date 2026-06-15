@@ -232,7 +232,7 @@ E' vietata qualsiasi forma di associazione e collaborazione professionale tra i 
 
 ### Art. 26.
 
-L'esercizio delle attivita' professionali vietate dall'art. 21 punito ai sensi dell'[art. 348 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_348). 
+L'esercizio delle attivita' professionali vietate dall'art. 21 punito ai sensi dell'[art. 348 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  La trasgressione alle disposizioni di cui all'art. 25 importa la cancellazione, secondo i casi, dagli albi professionali, dagli elenchi aggiunti, ovvero dagli elenchi speciali.
 

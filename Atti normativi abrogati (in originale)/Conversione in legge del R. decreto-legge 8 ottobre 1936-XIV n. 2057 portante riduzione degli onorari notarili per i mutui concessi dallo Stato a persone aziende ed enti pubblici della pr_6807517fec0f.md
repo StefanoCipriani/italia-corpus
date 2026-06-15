@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  Noi abbiamo sanzionato e promulghiamo quanto segue: 
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 ottobre 1936, n. 2057](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-08;2057), portante riduzione degli onorari notarili per i mutui concessi dallo Stato a persone, aziende ed enti pubblici della provincia di Fiume. 
+ E' convertito in legge il [R. decreto-legge 8 ottobre 1936, n. 2057](Riduzione%20degli%20onorari%20notarili%20per%20i%20mutui%20concessi%20dallo%20Stato%20a%20persone%20aziende%20ed%20enti%20pubblici%20della%20provincia%20di%20Fiume.%20036U2057.md), portante riduzione degli onorari notarili per i mutui concessi dallo Stato a persone, aziende ed enti pubblici della provincia di Fiume. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 18 gennaio 1937 - Anno XV 
  VITTORIO EMANUELE 

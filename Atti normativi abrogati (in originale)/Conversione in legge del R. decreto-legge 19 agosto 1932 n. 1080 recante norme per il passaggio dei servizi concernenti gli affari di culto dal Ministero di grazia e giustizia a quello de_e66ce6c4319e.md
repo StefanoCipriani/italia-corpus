@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 agosto 1932, n. 1080](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-08-19;1080), recante norme per il passaggio dei servizi concernenti gli affari di culto dal Ministero di grazia e giustizia a quello dell'interno. 
+ E' convertito in legge il [R. decreto-legge 19 agosto 1932, n. 1080](Norme%20per%20il%20passaggio%20dei%20servizi%20concernenti%20gli%20affari%20di%20culto%20dal%20Ministero%20di%20grazia%20e%20giustizia%20a%20quello%20dellinterno.%20032U1080.md), recante norme per il passaggio dei servizi concernenti gli affari di culto dal Ministero di grazia e giustizia a quello dell'interno. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

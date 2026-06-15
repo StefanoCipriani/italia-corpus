@@ -16,13 +16,13 @@ RE D'ITALIA
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto il [R. decreto-legge 29 aprile 1925, n. 988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-29;988), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), riflettente l'ordinamento delle ricevitorie postali telegrafiche e del relativo personale, e successive modificazioni;
 
 Visto il regolamento approvato col [R. decreto 3 gennaio 1926, n. 357](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20R.%20decreto-legge%2029%20aprile%201925%20n.%20988%20riflettente%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20e%20del%20relativo%20personale.%20026U0357.md), per la esecuzione del precedente R. decreto-legge n. 988;
 
-Visto il [R. decreto-legge 5 marzo 1925, n. 325](Istituzione%20e%20concessione%20degli%20uffici%20secondari%20postali%20telegrafici%20e%20telefonici.%20025U0325.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), riflettente la istituzione e concessione degli uffici secondari postali e telegrafici;
+Visto il [R. decreto-legge 5 marzo 1925, n. 325](Istituzione%20e%20concessione%20degli%20uffici%20secondari%20postali%20telegrafici%20e%20telefonici.%20025U0325.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), riflettente la istituzione e concessione degli uffici secondari postali e telegrafici;
 
 Visto il [R. decreto-legge 21 gennaio 1929, n. 126](Nuove%20norme%20per%20il%20conferimento%20degli%20uffici%20secondari%20e%20delle%20ricevitorie%20postali-telegrafiche%20nonche%20dei%20servizi%20rurali%20nei%20territori%20ex%20austriaci.%20029U0126.md), convertito nella [legge 17 giugno 1929, n. 1030](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20gennaio%201929%20n.%20126%20recante%20nuove%20norme%20per%20il%20conferimento%20degli%20uffici%20secondari%20e%20delle%20ricevitorie%20postali%20telegrafiche%20nonche%20dei%20servizi_34b032a421ef.md);
 
@@ -32,9 +32,9 @@ Visto il [R. decreto 9 maggio 1926, n. 976](Abolizione%20della%20Commissione%20c
 
 Visto il [R. decreto 21 giugno 1928, n. 1670](Retribuzioni%20dei%20ricevitori%20postali%20e%20telegrafici.%20028U1670.md);
 
-Visto il [R. decreto-legge 3 gennaio 1926, n. 37](Costituzione%20dellIstituto%20di%20assicurazione%20e%20previdenza%20per%20i%20titolari%20degli%20uffici%20secondari%20per%20i%20ricevitori%20postali%20telegrafici%20e%20per%20gli%20agenti%20rurali.%20026U0037.md), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898), e successive modificazioni;
+Visto il [R. decreto-legge 3 gennaio 1926, n. 37](Costituzione%20dellIstituto%20di%20assicurazione%20e%20previdenza%20per%20i%20titolari%20degli%20uffici%20secondari%20per%20i%20ricevitori%20postali%20telegrafici%20e%20per%20gli%20agenti%20rurali.%20026U0037.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md), e successive modificazioni;
 
-Visto il [R. decreto-legge 7 maggio 1925, n. 584](Abrogazione%20delle%20disposizioni%20sulla%20pubblicita%20commerciale%20industriale%20e%20professionale%20sulle%20cose%20di%20pertinenza%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20025U0584.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge 7 maggio 1925, n. 584](Abrogazione%20delle%20disposizioni%20sulla%20pubblicita%20commerciale%20industriale%20e%20professionale%20sulle%20cose%20di%20pertinenza%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20025U0584.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Riconosciuta la necessita' di modificare alcune norme attualmente in vigore per gli uffici secondari, le ricevitorie postali telegrafiche, le agenzie, i servizi rurali e l'Istituto di assicurazione e previdenza per i titolari degli uffici secondari, per i ricevitori postali telegrafici e gli agenti rurali;
 
@@ -54,7 +54,7 @@ A tutti gli effetti dell'ordinamento delle ricevitorie postali telegrafiche e de
 
 Gli uffici secondari assumono la denominazione di uffici di 1ª classe. 
  
- Agli uffici di 1ª classe sono applicabili le norme del [R. decreto-legge 5 marzo 1925, n. 325](Istituzione%20e%20concessione%20degli%20uffici%20secondari%20postali%20telegrafici%20e%20telefonici.%20025U0325.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), anziche' le norme del [secondo comma dell'art. 1 della legge 11 dicembre 1927, n. 2309](Conversione%20in%20legge%20con%20modificazioni%20del.%20R.%20decreto-legge%2023%20dicembre%201926%20n.%202314%20contenente%20modificazioni%20ai%20Regi%20decreti%2029%20aprile%201925%20n.%20988%20e%2016%20maggio%201926%20n.%20897%20riguardanti%20ri_8e7b375ee3df.md).
+ Agli uffici di 1ª classe sono applicabili le norme del [R. decreto-legge 5 marzo 1925, n. 325](Istituzione%20e%20concessione%20degli%20uffici%20secondari%20postali%20telegrafici%20e%20telefonici.%20025U0325.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), anziche' le norme del [secondo comma dell'art. 1 della legge 11 dicembre 1927, n. 2309](Conversione%20in%20legge%20con%20modificazioni%20del.%20R.%20decreto-legge%2023%20dicembre%201926%20n.%202314%20contenente%20modificazioni%20ai%20Regi%20decreti%2029%20aprile%201925%20n.%20988%20e%2016%20maggio%201926%20n.%20897%20riguardanti%20ri_8e7b375ee3df.md).
 
 ## Art. 3.
 
@@ -136,7 +136,7 @@ Il comma a) dell'[art. 13 del R. decreto-legge 3 gennaio 1926, n. 37](Costituzio
 
 ## Art. 12.
 
-Al divieto di cui all'[art. 2 del R. decreto-legge 7 maggio 1925, n. 584](Abrogazione%20delle%20disposizioni%20sulla%20pubblicita%20commerciale%20industriale%20e%20professionale%20sulle%20cose%20di%20pertinenza%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20025U0584.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), puo' essere derogato a favore dell'Istituto di assicurazione e previdenza per i titolari degli uffici secondari, per i ricevitori postali telegrafici e per gli agenti rurali.
+Al divieto di cui all'[art. 2 del R. decreto-legge 7 maggio 1925, n. 584](Abrogazione%20delle%20disposizioni%20sulla%20pubblicita%20commerciale%20industriale%20e%20professionale%20sulle%20cose%20di%20pertinenza%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20025U0584.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), puo' essere derogato a favore dell'Istituto di assicurazione e previdenza per i titolari degli uffici secondari, per i ricevitori postali telegrafici e per gli agenti rurali.
 
 ## Art. 13.
 

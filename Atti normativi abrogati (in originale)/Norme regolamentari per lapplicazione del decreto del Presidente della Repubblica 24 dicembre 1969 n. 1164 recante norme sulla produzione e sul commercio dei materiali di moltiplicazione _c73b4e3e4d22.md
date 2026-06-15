@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 13 ottobre 1969, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-13;740), recante delega al Governo ad emanare provvedimenti nelle materie previste dai trattati delle Comunita' economiche europee (C.E.E.) per la durata della terza tappa;
+Vista la [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md), recante delega al Governo ad emanare provvedimenti nelle materie previste dai trattati delle Comunita' economiche europee (C.E.E.) per la durata della terza tappa;
 
-Visti il [decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-24;1164), recante norme sulla produzione e sul commercio dei materiali di moltiplicazione vegetativa della vite, ed in particolare gli articoli 3,11, 12 e l'allegato IV;
+Visti il [decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](../DPR/Norme%20sulla%20produzione%20e%20sul%20commercio%20dei%20materiali%20di%20moltiplicazione%20vegetativa%20della%20vite.md), recante norme sulla produzione e sul commercio dei materiali di moltiplicazione vegetativa della vite, ed in particolare gli articoli 3,11, 12 e l'allegato IV;
 
 Ritenuta l'opportunita' di emanare norme regolamentari per l'applicazione delle disposizioni sopra menzionate;
 

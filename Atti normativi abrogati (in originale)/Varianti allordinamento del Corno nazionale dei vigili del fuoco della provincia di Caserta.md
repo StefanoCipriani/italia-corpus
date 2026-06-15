@@ -14,9 +14,9 @@ Vista la [legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2L
 
 Visto il [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699), contenente norme sullo stato giuridico e sul trattamento economico del personale non statale del Corpo nazionale dei vigili del fuoco;
 
-Visto il [regio decreto 16 marzo 1942, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;700), che prevede la forza organica dei vigili del fuoco;
+Visto il [regio decreto 16 marzo 1942, n. 700](Forza%20organica%20del%20Corpi%20dei%20vigili%20del%20fuoco.%20042U0700.md), che prevede la forza organica dei vigili del fuoco;
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -35,7 +35,7 @@ La tabella C annessa alla legge citata negli articoli precedenti, e' sostituita 
 
 ## Art. 3.
 
-La tabella allegato 1 al [regio decreto 16 marzo 1942, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;700), e sostituita, dalla tabella allegato 2 al presente decreto.
+La tabella allegato 1 al [regio decreto 16 marzo 1942, n. 700](Forza%20organica%20del%20Corpi%20dei%20vigili%20del%20fuoco.%20042U0700.md), e sostituita, dalla tabella allegato 2 al presente decreto.
 
 ## Art. 4.
 

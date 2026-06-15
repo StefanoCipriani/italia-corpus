@@ -40,12 +40,12 @@ Sono dichiarate di pubblica utilita' le opere occorrenti per i lavori e costruzi
 ## Art. 7.
 
 La costruzione dell'edificio per gli uffici finanziari e per l'Avvocatura di Stato in Napoli e' affidata all'Alto Commissariato il quale provvedera' pure l'area di sedime della superficie non inferiore a metri quadrati 5000 tra quelle risultanti dalla espropriazione del rione San Giuseppe-Carita' e provvedera' alla relativa spesa per l'acquisto dell'area e per la costruzione dell'edificio entro il limite di 20.000.000 di lire. 
- Per l'esecuzione delle espropriazioni e dei lavori occorrenti per la costruzione dell'edificio suddetto, l'Alto Commissario e' autorizzato ad assumere gli impegni, oltre il limite di cui all'[art. 3 del R. decreto-legge 10 luglio 1930, n. 1048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-10;1048#art_3), sino alla concorrenza di L. 20.000.000 corrispondenti alla somma di cui all'art. 5.
+ Per l'esecuzione delle espropriazioni e dei lavori occorrenti per la costruzione dell'edificio suddetto, l'Alto Commissario e' autorizzato ad assumere gli impegni, oltre il limite di cui all'[art. 3 del R. decreto-legge 10 luglio 1930, n. 1048](Proroga%20del%20termine%20per%20il%20funzionamento%20dellAlto%20Commissariato%20per%20la%20citta%20e%20provincia%20di%20Napoli.%20030U1048.md), sino alla concorrenza di L. 20.000.000 corrispondenti alla somma di cui all'art. 5.
 
 ## Art. 8.
 
-L'[art. 8 del R. decreto-legge 10 luglio 1930, n. 1048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-10;1048#art_8), e' sostituito dal seguente: 
- «L'[art. 32 del R. decreto-legge 15 agosto 1925, n. 1636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-08-15;1636#art_32), e' cosi' modificato: 
+L'[art. 8 del R. decreto-legge 10 luglio 1930, n. 1048](Proroga%20del%20termine%20per%20il%20funzionamento%20dellAlto%20Commissariato%20per%20la%20citta%20e%20provincia%20di%20Napoli.%20030U1048.md), e' sostituito dal seguente: 
+ «L'[art. 32 del R. decreto-legge 15 agosto 1925, n. 1636](Costituzione%20e%20funzionamento%20dellAlto%20Commissariato%20per%20la%20citta%20e%20la%20provincia%20di%20Napoli.%20025U1636.md), e' cosi' modificato: 
  «Sono ceduti gratuitamente al comune di Napoli i seguenti immobili di proprieta' dello Stato: 
  1° caserma di Pizzofalcone con relativi annessi; 
  2° caserma di San Pasquale a Chiaia; 

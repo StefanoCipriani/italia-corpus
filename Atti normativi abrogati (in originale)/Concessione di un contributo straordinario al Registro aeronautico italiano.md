@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 24 novembre 1938, numero 1912](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-24;1912), che istituisce il Registro aeronautico italiano;
+Visto il [regio decreto-legge 24 novembre 1938, numero 1912](Istituzione%20del%20Registro%20aeronautico%20italiano.%20038U1912.md), che istituisce il Registro aeronautico italiano;
 
-Visto il [regio decreto 14 giugno 1941, n. 1558](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-06-14;1558), che approva lo statuto del Registro aeronautico italiano;
+Visto il [regio decreto 14 giugno 1941, n. 1558](Approvazione%20dello%20statuto%20del%20Registro%20aeronautico%20italiano.%20041U1558.md), che approva lo statuto del Registro aeronautico italiano;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

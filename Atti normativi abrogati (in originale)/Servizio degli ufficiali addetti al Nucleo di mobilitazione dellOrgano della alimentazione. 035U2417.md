@@ -22,9 +22,9 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Visto il testo unico delle disposizioni, riflettenti l'ordinamento della Commissione Suprema di difesa ed il servizio degli Osservatori industriali;
 
-approvato con [R. decreto 8 gennaio 1928, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-08;165);
+approvato con [R. decreto 8 gennaio 1928, n. 165](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20riflettenti%20lordinamento%20della%20Commissione%20Suprema%20di%20difesa%20ed%20il%20servizio%20degli%20osservatori%20industriali.%20028U0165.md);
 
-Visto il [R. decreto 13 marzo 1933, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-13;674), riguardante la costituzione del Nucleo di mobilitazione dell'Organo dell'alimentazione;
+Visto il [R. decreto 13 marzo 1933, n. 674](Costituzione%20del%20Nucleo%20di%20mobilitazione%20dellOrgano%20dellalimentazione.%20033U0674.md), riguardante la costituzione del Nucleo di mobilitazione dell'Organo dell'alimentazione;
 
 Ritenuta l'urgente ed assoluta necessita' di provvedere alla emanazione delle norme per l'attuazione del servizio degli ufficiali addetti al Nucleo di mobilitazione dell'Organo dell'alimentazione;
 
@@ -40,7 +40,7 @@ Gli ufficiali addetti al Nucleo di mobilitazione dell'Organo dell'alimentazione,
  
  I dati raccolti dovranno essere comunicati in via riservattissima all'Ufficio centrale del Nucleo di mobilitazione dell'Organo dell'alimentazione, al quale pure incombe l'obbligo del segreto, a norma del comma precedente. 
  
- Gli industriali ed i loro dirigenti tecnici amministrativi che si rifiutassero di fornire le notizie, o che le fornissero non conformi al vero, e gli ufficiali che non serbassero il segreto di ufficio, vengono puniti a norma dell'art. 12 del testo unico approvato con [R. decreto 8 gennaio 1928, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-08;165).
+ Gli industriali ed i loro dirigenti tecnici amministrativi che si rifiutassero di fornire le notizie, o che le fornissero non conformi al vero, e gli ufficiali che non serbassero il segreto di ufficio, vengono puniti a norma dell'art. 12 del testo unico approvato con [R. decreto 8 gennaio 1928, n. 165](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20riflettenti%20lordinamento%20della%20Commissione%20Suprema%20di%20difesa%20ed%20il%20servizio%20degli%20osservatori%20industriali.%20028U0165.md).
 
 ## Art. 2.
 

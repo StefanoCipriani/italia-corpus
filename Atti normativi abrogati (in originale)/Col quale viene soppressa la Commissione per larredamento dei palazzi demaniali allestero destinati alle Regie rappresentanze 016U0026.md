@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il [decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625); 
  
- Vista la [legge 26 luglio 1888, n. 5594](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-26;5594), serie 3ª; 
+ Vista la [legge 26 luglio 1888, n. 5594](Che%20stabilisce%20le%20norme%20per%20larredamento%20dei%20palazzi%20demaniali%20allestero%20sedi%20di%20missioni%20di%20S.%20M.%20il%20Re%20dItalia.%20088U5594.md), serie 3ª; 
  
  Vino il decreto Reale 11 ottobre 1888, n. 5751, serie 3ª, che approvava il regolamento per [arredamento dei palazzi demaniali all'estero, destinati alle RR. rappresentanze; 
  

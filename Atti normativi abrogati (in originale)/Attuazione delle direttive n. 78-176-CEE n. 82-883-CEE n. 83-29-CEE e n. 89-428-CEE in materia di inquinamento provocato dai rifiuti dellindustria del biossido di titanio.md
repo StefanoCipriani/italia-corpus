@@ -110,7 +110,7 @@ Lo stoccaggio temporaneo e quello definitivo di tutti i rifiuti definiti all'art
 
 3.
 
-Lo scarico dei rifiuti leggermente acidi e dei rifiuti neutralizzati e' subordinato al rilascio di autorizzazione quadriennale da parte delle province competenti per territorio e, per quanto non previsto dal presente decreto, e' sottoposto alla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), e successive modifiche e integrazioni.
+Lo scarico dei rifiuti leggermente acidi e dei rifiuti neutralizzati e' subordinato al rilascio di autorizzazione quadriennale da parte delle province competenti per territorio e, per quanto non previsto dal presente decreto, e' sottoposto alla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modifiche e integrazioni.
 
 4.
 
@@ -126,7 +126,7 @@ L'autorizzazione e' rilasciata a condizione che:
                         c)
                             non si arrechi alcun pregiudizio alla navigazione, alla pesca, alla ricreazione, alla estrazione di materie prime, alla dissalazione, alla piscicoltura, alla molluschicoltura, alle piante, agli animali, alle aree aventi interessi ambientale o scientifico particolare o agli altri usi leciti degli ambienti in questione;
                         d)
-                            lo scarico dei rifiuti leggermente acidi e di quelli neutralizzati rispetti i limiti previsti dalla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), e successive modificazioni e, comunque, non comporti il superamento dei valori indicati nell'allegato II.
+                            lo scarico dei rifiuti leggermente acidi e di quelli neutralizzati rispetti i limiti previsti dalla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni e, comunque, non comporti il superamento dei valori indicati nell'allegato II.
 
 6.
 

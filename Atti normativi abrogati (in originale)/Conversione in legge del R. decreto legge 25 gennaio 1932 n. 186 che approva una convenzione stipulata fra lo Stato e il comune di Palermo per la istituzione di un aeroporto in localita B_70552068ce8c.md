@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 gennaio 1932, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-01-25;186), che approva una convenzione stipulata tra lo Stato ed il comune di Palermo, per la istituzione di un aeroporto in localita' Boccadifalco (Palermo) e la cessione in uso al Comune medesimo di una zona del parco monumentale «Real Favorita» da adibire a campo di corse. 
+ E' convertito in legge il [R. decreto-legge 25 gennaio 1932, n. 186](Approvazione%20della%20convenzione%20stipulata%20col%20comune%20di%20Palermo%20per%20lampliamento%20dellaeroporto%20di%20quella%20citta%20e%20la%20cessione%20in%20uso%20al%20Comune%20medesimo%20di%20aree%20demaniali.%20032U0186.md), che approva una convenzione stipulata tra lo Stato ed il comune di Palermo, per la istituzione di un aeroporto in localita' Boccadifalco (Palermo) e la cessione in uso al Comune medesimo di una zona del parco monumentale «Real Favorita» da adibire a campo di corse. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 23 giugno 1932 - Anno X 
  

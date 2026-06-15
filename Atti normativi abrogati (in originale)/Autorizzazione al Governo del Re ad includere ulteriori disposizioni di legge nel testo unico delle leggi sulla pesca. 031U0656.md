@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il Governo del Re e' autorizzato a coordinare e riunire nel testo unico, da emanare a norma dell'[art. 5 del R. decreto-legge 20 novembre 1927, n. 2525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-20;2525#art_5), le disposizioni legislative sulla pesca emanate posteriormente alla entrata in vigore del medesimo Regio decreto-legge, e fino alla pubblicazione della presente legge. 
+ Il Governo del Re e' autorizzato a coordinare e riunire nel testo unico, da emanare a norma dell'[art. 5 del R. decreto-legge 20 novembre 1927, n. 2525](Modificazioni%20alle%20disposizioni%20in%20vigore%20sulla%20pesca.%20027U2525.md), le disposizioni legislative sulla pesca emanate posteriormente alla entrata in vigore del medesimo Regio decreto-legge, e fino alla pubblicazione della presente legge. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 28 maggio 1931 - Anno IX 
  

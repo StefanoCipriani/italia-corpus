@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), recante norme per la razionalizzazione e la revisione delle discipline in materia di pubblico impiego;
+Vista la [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), recante norme per la razionalizzazione e la revisione delle discipline in materia di pubblico impiego;
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni, recante norme per la razionalizzazione dell'organizzazione delle amministrazioni pubbliche e la revisione della disciplina in materia di pubblico impiego e in particolare l'art. 73, comma 6, che demanda ad appositi regolamenti l'emanazione di norme di adeguamento alla disciplina contenuta nell'art. 2 della predetta [legge n. 421 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;421), relative all'organizzazione ed al funzionamento delle strutture amministrative dell'Avvocatura dello Stato;
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, recante norme per la razionalizzazione dell'organizzazione delle amministrazioni pubbliche e la revisione della disciplina in materia di pubblico impiego e in particolare l'art. 73, comma 6, che demanda ad appositi regolamenti l'emanazione di norme di adeguamento alla disciplina contenuta nell'art. 2 della predetta [legge n. 421 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;421), relative all'organizzazione ed al funzionamento delle strutture amministrative dell'Avvocatura dello Stato;
 
 Visto l'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
@@ -34,14 +34,14 @@ Capo I
 
 1.
 
-Le disposizioni del presente regolamento disciplinano l'organizzazione e il funzionamento delle strutture amministrative dell'Avvocatura dello Stato al fine di adeguarli alla disciplina contenuta nell'[art. 2 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2). 
+Le disposizioni del presente regolamento disciplinano l'organizzazione e il funzionamento delle strutture amministrative dell'Avvocatura dello Stato al fine di adeguarli alla disciplina contenuta nell'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md). 
  AVVERTENZA: 
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, commi 2 e 3, del testo unico delle 
  disposizioni sulla promulgazione delle leggi, 
  sull'emanazione dei decreti del Presidente della Repubblica 
  e sulle pubblicazioni ufficiali della Repubblica italiana, 
- approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo 
+ approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
  fine di facilitare la lettura delle disposizioni di legge 
  modificate o alle quali e' operato il rinvio. Restano 
  invariati il valore e l'efficacia degli atti legislativi 
@@ -232,11 +232,11 @@ Le disposizioni del presente regolamento disciplinano l'organizzazione e il funz
  prevedere che il Nucleo di valutazione della spesa relativa 
  al pubblico impiego istituito presso il Consiglio nazionale 
  dell'economia e del lavoro dall'[art. 10 della legge 30 
- dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412#art_10), operi, su richiesta del Presidente 
+ dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md), operi, su richiesta del Presidente 
  del Consiglio dei Ministri o delle organizzazioni 
  sindacali, nell'ambito dell'attuale dotazione finanziaria 
  dell'ente, con compiti sostitutivi di quelli affidatigli 
- dal citato [art. 10 della legge 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412#art_10), di 
+ dal citato [art. 10 della legge 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md), di 
  controllo e certificazione dei costi del lavoro pubblico 
  sulla base delle rilevazioni effettuate dalla Ragioneria 
  generale dello Stato, dal Dipartimento della funzione 
@@ -296,7 +296,7 @@ Le disposizioni del presente regolamento disciplinano l'organizzazione e il funz
  caso, prevedere che l'amministrazione,ente, societa' o 
  persona fisica che hanno conferito al personale dipendente 
  da una pubblica amministrazione incarichi previsti 
- dall'[art. 24 della legge 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412#art_24), entro 
+ dall'[art. 24 della legge 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md), entro 
  sei mesi dell'emanazione dei decreti legislativi di cui al 
  presente articolo, siano tenuti a comunicare alle 
  amministrazioni di appartenenza del personale medesimo gli 
@@ -353,7 +353,7 @@ Le disposizioni del presente regolamento disciplinano l'organizzazione e il funz
  comprese quelle riguardanti le categorie protette, in caso 
  di mancata rideterminazione delle piante organiche secondo 
  il disposto dell'[art. 6 della legge 30 dicembre 1991, n. 
- 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412#art_6), ed in caso di accertata possibilita' di copertura dei 
+ 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md), ed in caso di accertata possibilita' di copertura dei 
  posti vacanti mediante mobilita' volontaria, ancorche' 
  realizzabile a seguito della copertura del fabbisogno di 
  personale nella sede di provenienza; prevedere norme 
@@ -373,7 +373,7 @@ Le disposizioni del presente regolamento disciplinano l'organizzazione e il funz
  ai sensi dell'art. 72 del testo unico delle disposizioni 
  concernenti lo statuto degli impiegati civili dello Stato 
  approvato con [decreto del Presidente della Repubblica 10 
- gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3); 
+ gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md); 
  s) prevedere che, fatte salve le disposizioni di leggi 
  speciali, la disciplina del trasferimento di azienda di cui 
  all'[art. 2112 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2112) si applica anche nel caso 
@@ -399,7 +399,7 @@ Le disposizioni del presente regolamento disciplinano l'organizzazione e il funz
  sistemi automatizzati; prevedere altresi' il decentramento 
  delle sedi di svolgimento dei concorsi; 
  u) prevedere per le categorie protette di cui al 
- titolo I della [legge 2 aprile 1968, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482), l'assunzione, 
+ titolo I della [legge 2 aprile 1968, n. 482](Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md), l'assunzione, 
  da parte dello Stato, delle aziende e degli enti pubblici, 
  per chiamata numerica degli iscritti nelle liste di 
  collocamento sulla base delle graduatorie stabilite dagli 
@@ -589,12 +589,12 @@ Le disposizioni del presente regolamento disciplinano l'organizzazione e il funz
  n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29#art_73-com6) (Razionalizzazione dell'organizzazione delle 
  amministrazioni pubbliche e revisione della disciplina in 
  materia di pubblico impiego, a norma dell'[art. 2 della 
- legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2)): "6. Con uno o piu' 
+ legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)): "6. Con uno o piu' 
  regolamenti, da adottarsi ai sensi dell'[art. 17, comma 1, 
  della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), entro sei mesi dalla 
  data di entrata in vigore del presente decreto, sono 
  emanate norme di adeguamento alla disciplina contenuta 
- nell'[art. 2 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2), relative 
+ nell'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), relative 
  all'organizzazione ed al funzionamento delle strutture 
  amministrative del Consiglio di Stato e dei tribunali 
  amministrativi regionali, della Corte dei conti e 
@@ -602,7 +602,7 @@ Le disposizioni del presente regolamento disciplinano l'organizzazione e il funz
  - Il [comma 1 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com1) 
  (Disciplina dell'attivita' di Governo e ordinamento della 
  Presidenza del Consiglio dei Ministri), come modificato 
- dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_74), prevede che 
+ dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), prevede che 
  con decreto del Presidente della Repubblica, previa 
  deliberazione del Consiglio dei Ministri, sentito il parere 
  del Consiglio di Stato che deve pronunziarsi entro novanta 
@@ -648,7 +648,7 @@ L'Avvocatura dello Stato e' ordinata secondo i seguenti criteri:
 
 Nota all'art. 2:
  - Si riporta il testo dell'[art. 24 della legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_24) (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi):
- "Art. 24. - 1. Il diritto di accesso e' escluso per i documenti coperti da segreto di Stato ai sensi dell'[art. 12 della legge 24 ottobre 1977, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-24;801#art_12), nonche' nei casi di segreto o di divieto di divulgazione altrimenti previsti dall'ordinamento.
+ "Art. 24. - 1. Il diritto di accesso e' escluso per i documenti coperti da segreto di Stato ai sensi dell'[art. 12 della legge 24 ottobre 1977, n. 801](Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md), nonche' nei casi di segreto o di divieto di divulgazione altrimenti previsti dall'ordinamento.
  2. Il Governo e' autorizzato ad emanare, ai sensi del [comma 2 dell'art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), entro sei mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti intesi a disciplinare le modalita' di esercizio del diritto di accesso e gli altri casi di esclusione del diritto di accesso in relazione alla esigenza di salvaguardare:
  a) la sicurezza, la difesa nazionale e le relazioni internazionali;
  b) la politica monetaria e valutaria;
@@ -667,11 +667,11 @@ Per l'Avvocatura dello Stato la consistenza delle piante organiche del personale
 
 2.
 
-La verifica dei carichi di lavoro, ai sensi dell'[art. 3, comma 5, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_3-com5), ai fini della determinazione delle piante organiche di cui al comma 1, deve essere effettuata con specifico riferimento al numero di affari contenziosi e consultivi aperti nell'ultimo triennio.
+La verifica dei carichi di lavoro, ai sensi dell'[art. 3, comma 5, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ai fini della determinazione delle piante organiche di cui al comma 1, deve essere effettuata con specifico riferimento al numero di affari contenziosi e consultivi aperti nell'ultimo triennio.
 
 Nota all'art. 3:
  - Si riporta il testo dell'[art. 3, comma 5, della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_3-com5) (Interventi correttivi di finanza pubblica):
- "5. Le pubbliche amministrazioni di cui all'[art. 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_1-com2), provvedono entro il 31 dicembre 1994 e, successivamente, con cadenza biennale, alla verifica dei carichi di lavoro, che deve essere effettuata con specifico riferimento alla quantita' totale di atti o di operazioni, prodotti nella media degli ultimi tre anni, ai tempi standard di esecuzione delle attivita e, ove rilevi, al grado di copertura del servizio reso in rapporto alla domanda espressa o potenziale. Il Dipartimento della funzione pubblica, entro trenta giorni dall'invio della documentazione richiesta, verifica la congruita' delle metodologie utilizzate per determinare i carichi di lavoro".
+ "5. Le pubbliche amministrazioni di cui all'[art. 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), provvedono entro il 31 dicembre 1994 e, successivamente, con cadenza biennale, alla verifica dei carichi di lavoro, che deve essere effettuata con specifico riferimento alla quantita' totale di atti o di operazioni, prodotti nella media degli ultimi tre anni, ai tempi standard di esecuzione delle attivita e, ove rilevi, al grado di copertura del servizio reso in rapporto alla domanda espressa o potenziale. Il Dipartimento della funzione pubblica, entro trenta giorni dall'invio della documentazione richiesta, verifica la congruita' delle metodologie utilizzate per determinare i carichi di lavoro".
 
 ### Art. 4. — Relazioni con il pubblico
 
@@ -712,11 +712,11 @@ Nota all'art. 5:
  g) ad esercitare le funzioni della commissione di disciplina nei confronti degli avvocati e procuratori dello Stato a norma dell'art. 24 della presente legge;
  h) a designare gli avvocati dello Stato che debbono far parte del comitato consultivo.
  Gli atti del consiglio sono pubblici e gli avvocati e procuratori dello Stato possono prenderne visione ed estrarne copia.
- Il consiglio degli avvocati e procuratori dello Stato ed il consiglio permanente per il personale di cui agli [articoli 8 della legge 22 maggio 1960, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-05-22;520#art_8), e 32 della [legge 5 aprile 1964, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-04-05;284), riuniti in seduta congiunta, costituiscono il consiglio di amministrazione dell'Avvocatura dello Stato.
+ Il consiglio degli avvocati e procuratori dello Stato ed il consiglio permanente per il personale di cui agli [articoli 8 della legge 22 maggio 1960, n. 520](Istituzione%20del%20ruolo%20dei%20segretari%20e%20revisione%20degli%20organici%20del%20personale%20esecutivo%20ed%20ausiliario%20dellAvvocatura%20dello%20Stato.md), e 32 della [legge 5 aprile 1964, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-04-05;284), riuniti in seduta congiunta, costituiscono il consiglio di amministrazione dell'Avvocatura dello Stato.
  Il consiglio di amministrazione dell'Avvocatura dello Stato provvede:
  a) ad esprimere pareri ed a formulare proposte sulla organizzazione e sullo svolgimento dei servizi;
  b) a fissare i criteri per la ripartizione, tra i vari uffici dell'Avvocatura dello Stato, delle somme stanziate in bilancio per ogni capitolo di spesa;
- c) ad esercitare le altre attribuzioni previste dall'[art. 146 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_146), e successive modificazioni, fatta eccezione per quelle riservate rispettivamente al consiglio degli avvocati e procuratori dello Stato dalla presente legge ed al comitato permanente per il personale dalle disposizioni di cui al comma precedente".
+ c) ad esercitare le altre attribuzioni previste dall'[art. 146 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni, fatta eccezione per quelle riservate rispettivamente al consiglio degli avvocati e procuratori dello Stato dalla presente legge ed al comitato permanente per il personale dalle disposizioni di cui al comma precedente".
 
 ### Art. 6. — Attribuzioni del segretario generale
 
@@ -761,7 +761,7 @@ Agli avvocati distrettuali, oltre alle competenze previste da disposizioni legis
                             b)
                                 la gestione di risorse finanziarie nei limiti di spesa stabiliti dal segretario generale;
                             c)
-                                la rilevazione e la verifica periodica del carico di lavoro e della produttivita' della struttura amministrativa, previo eventuale esame con le organizzazioni sindacali secondo le modalita' di cui all'[art. 10 del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_10), e l'adozione delle proposte di governo del personale;
+                                la rilevazione e la verifica periodica del carico di lavoro e della produttivita' della struttura amministrativa, previo eventuale esame con le organizzazioni sindacali secondo le modalita' di cui all'[art. 10 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e l'adozione delle proposte di governo del personale;
                             d)
                                 l'attribuzione di trattamenti economici accessori, per quanto di competenza, nel rispetto delle disposizioni vigenti;
                             e)
@@ -800,19 +800,19 @@ Nell'ambito della segreteria generale, la segreteria degli organi collegiali cur
 
 1.
 
-Il responsabile per i sistemi informativi automatizzati e' nominato dall'avvocato generale, sentito il segretario generale, tra gli avvocati dello Stato dotati di specifiche competenze ed esperienze professionali; mantiene i rapporti con l'Autorita' di cui al [decreto legislativo 12 febbraio 1993, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39); attende alle funzioni di cui all'art. 10, commi 2 e 3, del medesimo decreto legislativo, secondo le direttive dell'avvocato generale e in conformita' del piano triennale di cui all'art. 9, comma 2, lettera c), dello stesso decreto legislativo.
+Il responsabile per i sistemi informativi automatizzati e' nominato dall'avvocato generale, sentito il segretario generale, tra gli avvocati dello Stato dotati di specifiche competenze ed esperienze professionali; mantiene i rapporti con l'Autorita' di cui al [decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md); attende alle funzioni di cui all'art. 10, commi 2 e 3, del medesimo decreto legislativo, secondo le direttive dell'avvocato generale e in conformita' del piano triennale di cui all'art. 9, comma 2, lettera c), dello stesso decreto legislativo.
 
 2.
 
-La proposta di schema del piano triennale, con le indicazioni relative al primo anno del triennio di cui all'[art. 9, comma 2, lettera b), del decreto legislativo 12 febbraio 1993, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39#art_9-com2-letb), e' predisposta, sulla base delle direttive dell'avvocato generale, dal responsabile per i sistemi informativi automatizzati, su conforme avviso di un comitato dal medesimo presieduto, del quale fanno parte un avvocato addetto alla segreteria generale ed i preposti agli uffici che si avvalgono dell'informatica per specifiche necessita' di funzionamento.
+La proposta di schema del piano triennale, con le indicazioni relative al primo anno del triennio di cui all'[art. 9, comma 2, lettera b), del decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' predisposta, sulla base delle direttive dell'avvocato generale, dal responsabile per i sistemi informativi automatizzati, su conforme avviso di un comitato dal medesimo presieduto, del quale fanno parte un avvocato addetto alla segreteria generale ed i preposti agli uffici che si avvalgono dell'informatica per specifiche necessita' di funzionamento.
 
 Nota all'art. 10:
- - Si riporta il testo degli [articoli 9, comma 2, lettere b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;39#art_9-com2-letb) e [c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;39#art_9-com2-letc), e [10, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;39#art_10-com2) e [3 del D.Lgs. n. 39/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;39#art_10-com3) (Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art, 2, comma 1, lettera mm), della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421));
+ - Si riporta il testo degli [articoli 9, comma 2, lettere b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;39#art_9-com2-letb) e [c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;39#art_9-com2-letc), e [10, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;39#art_10-com2) e [3 del D.Lgs. n. 39/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;39#art_10-com3) (Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art, 2, comma 1, lettera mm), della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md));
  "Art. 9, comma 2. - Ai fini della predisposizione del piano triennale e delle successive revisioni annuali:
  a) l'autorita' elabora le linee strategiche per il conseguimento degli obiettivi di cui all'art. 1, comma 2;
  b) le amministrazioni propongono una bozza di piano triennale relativamente alle aree di propria competenza, con la specificazione, per quanto attiene al primo anno del triennio, degli studi di fattibilita' e dei progetti di sviluppo, mantenimento e gestione dei sistemi informativi automatizzati da avviare e dei relativi obiettivi, implicazioni organizzative, tempi e costi di realizzazione e modalita' di affidamento;
  c) l'Autorita' redige il piano triennale sulla base delle proposte delle amministrazioni, verificandone la coerenza con le linee strategiche di cui alla lettera a), integrandole con iniziative tese al soddisfacimento dei fondamentali bisogni informativi e determinando i contratti di grande rilievo".
- "Art. 10, commi 2 e 3. - 2. Il dirigente responsabile di cui al comma 1 cura i rapporti dell'amministrazione di appartenenza con l'Autorita' e assume la responsabilita' per i risultati conseguiti nella medesima amministrazione con l'impiego delle tecnologie informatiche, verificati ai sensi dell'art. 7, comma 1, lettera d). Ai fini della verifica dei risultati, i compiti del nucleo di valutazione di cui all'[art. 20, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_20-com2), sono attribuiti all'Autorita'.
+ "Art. 10, commi 2 e 3. - 2. Il dirigente responsabile di cui al comma 1 cura i rapporti dell'amministrazione di appartenenza con l'Autorita' e assume la responsabilita' per i risultati conseguiti nella medesima amministrazione con l'impiego delle tecnologie informatiche, verificati ai sensi dell'art. 7, comma 1, lettera d). Ai fini della verifica dei risultati, i compiti del nucleo di valutazione di cui all'[art. 20, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sono attribuiti all'Autorita'.
  3. In relazione all'amministrazione di appartenenza, il dirigente responsabile per i sistemi informativi automatizzati, oltre a contribuire alla definizione della bozza del piano triennale, trasmette all'Autorita' entro il mese di febbraio di ogni anno una relazione sullo stato dell'automazione a consuntivo dell'anno precedente, con l'indicazione delle tecnologie impiegate, delle spese sostenute, delle risorse umane utilizzate e dei benefici conseguiti".
 
 ### Art. 11. — Controllo interno
@@ -837,7 +837,7 @@ I servizi amministrativi di cui all'[art. 1 della legge 15 ottobre 1986, n. 664]
                             a)
                                 Ufficio I - Affari generali e personale. 
  Cura i seguenti adempimenti: ricezione e smistamento corrispondenza; protocollo corrispondenza non riguardante affari professionali; rapporti con i sindacati e contrattazione decentrata; raccolta e conservazione della normativa interna e degli atti relativi agli affari di segreteria generale; reclutamento e trattamento giuridico degli avvocati e procuratori e del personale amministrativo; riconoscimento della dipendenza di infermita' da causa di servizio; svolgimento della pratica forense; conferimento di onorificenze; relazioni con il pubblico, ai sensi del precedente art. 
-4. Ai sensi dell'[art. 34 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-08;266#art_34), nonche' dell'[art. 15 del decreto del Presidente della Repubblica 17 gennaio 1990, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-01-17;44#art_15), e dell'art. 2 del decreto del Presidente del Consiglio dei Ministri 20 febbraio 1992, cura gli adempimenti demandati all'amministrazione per la promozione culturale e il benessere psicofisico dei dipendenti, da realizzare attraverso iniziative a cio' finalizzate;
+4. Ai sensi dell'[art. 34 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md), nonche' dell'[art. 15 del decreto del Presidente della Repubblica 17 gennaio 1990, n. 44](../DPR/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20settembre%201989%20concernente%20il%20personale%20del%20comparto%20Ministeri%20ed%20altre%20categorie%20di%20cui_c6e7f9764299.md), e dell'art. 2 del decreto del Presidente del Consiglio dei Ministri 20 febbraio 1992, cura gli adempimenti demandati all'amministrazione per la promozione culturale e il benessere psicofisico dei dipendenti, da realizzare attraverso iniziative a cio' finalizzate;
                             b)
                                 Ufficio II - Organizzazione e metodo. 
  Cura, anche in funzione di supporto del nucleo di valutazione di cui all'art. 11, le rilevazioni ed elaborazioni statistiche sul personale amministrativo e sull'attivita' degli uffici dell'Avvocatura dello Stato ai fini delle proposte per la modificazione di metodi e condizioni di lavoro per migliorare l'efficienza dei servizi ed i rapporti con le pubbliche amministrazioni ed enti;
@@ -879,9 +879,9 @@ Note all'art. 12:
  4. A successive eventuali variazioni si provvedera' nei modi di cui all'[art. 6 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_6)".
  - Si riporta il testo dell'[art. 34 del D.P.R. n. 266/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987;266#art_34) (Norme risultanti dalla disciplina prevista dall'accordo del 26 marzo 1987 concernente il comparto del personale dipendente dai Ministeri):
  "Art. 34 (Attivita' culturali, ricreative ed assistenziali). - 1. Le attivita' culturali, ricreative ed assistenziali, promosse nelle unita' amministrative, sono gestite da organismi formati a maggioranza dai rappresentanti dei lavoratori".
- - Si riporta il testo dell'[art. 15 del D.P.R. n. 44/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990;44#art_15) (Regolamento per il recepimento delle norme risultanti dalla disciplina prevista dall'accordo del 26 settembre 1989 concernente il personale del comparto Ministeri ed altre categorie di cui all'[art. 2 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-05;68#art_2)):
+ - Si riporta il testo dell'[art. 15 del D.P.R. n. 44/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990;44#art_15) (Regolamento per il recepimento delle norme risultanti dalla disciplina prevista dall'accordo del 26 settembre 1989 concernente il personale del comparto Ministeri ed altre categorie di cui all'[art. 2 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68](../DPR/Determinazione%20e%20composizione%20dei%20comparti%20di%20contrattazione%20collettiva%20di%20cui%20allart.%205%20della%20legge-quadro%20sul%20pubblico%20impiego%2029%20marzo%201983%20n.%2093.md)):
  "Art. 15 (Attivita' culturali e ricreative). - 1.
- Nell'ambito di quanto stabilito nell'[art. 34 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-08;266#art_34), ai fini dell'incremento della produttivita', conseguibile anche con il rispetto e con l'articolazione dell'orario di lavoro, con la promozione culturale e con il benessere psicofisico, le amministrazioni possono istituire al loro interno servizi ricreativi, culturali, di ristoro, di mensa, di approvvigionamento, di asilo nido ed assumere iniziative per il tempo libero a favore dei propri dipendenti.
+ Nell'ambito di quanto stabilito nell'[art. 34 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md), ai fini dell'incremento della produttivita', conseguibile anche con il rispetto e con l'articolazione dell'orario di lavoro, con la promozione culturale e con il benessere psicofisico, le amministrazioni possono istituire al loro interno servizi ricreativi, culturali, di ristoro, di mensa, di approvvigionamento, di asilo nido ed assumere iniziative per il tempo libero a favore dei propri dipendenti.
  2. La gestione di tali servizi puo' essere affidata ad organismi formati, a maggioranza, dai rappresentanti dei dipendenti e da rappresentanti dell'amministrazione ed e' sottoposta alla vigilanza di un comitato interno formato, a maggioranza, da rappresentanti dell'amministrazione e che preveda anche la partecipazione di rappresentanti dei dipendenti.
  3. Per il raggiungimento delle finalita' di cui al comma 1, le amministrazioni possono, compatibilmente con le proprie necessarie e prioritarie esigenze operative, mettere a disposizione degli organismi di cui al comma 2, nonche' di eventuali associazioni fra i dipendenti all'uopo costituite, adeguati locali che, in quanto utilizzati per scopi istituzionali, sono esenti da canoni.
  4. Le amministrazioni iscrivono negli appositi capitoli degli stati di previsione le spese per la manutenzione ordinaria dei locali messi a disposizione.

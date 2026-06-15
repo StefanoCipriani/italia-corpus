@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il decreto Luogotenenziale in data 2 settembre 1917 col quale vennero prorogate le disposizioni dell'[art. 5 della legge 17 luglio 1910, n. 492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;492#art_5), concernente la Camera agrumaria di Messina;
+Visto il decreto Luogotenenziale in data 2 settembre 1917 col quale vennero prorogate le disposizioni dell'[art. 5 della legge 17 luglio 1910, n. 492](Modificazioni%20alla%20legge%205%20luglio%201908%20n.%20404%20sulla%20Camera%20agrumaria%20di%20Messina.%20010U0492.md), concernente la Camera agrumaria di Messina;
 
 Sentito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per l'industria, il commercio e 
 
 ## Art. 1.
 
-Il termine per la determinazione del prezzo minimo ai depositanti di citrato di calcio e di agrocotto presso la Camera agrumaria di cui nell'[art. 5 della legge 17 luglio 1910, n. 492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;492#art_5), e' prorogato fino al 30 novembre di ciascun anno a partire dall'esercizio camerale 1917-918 e fino all'esercizio successivo a quello nel quale sara' conclusa la pace.
+Il termine per la determinazione del prezzo minimo ai depositanti di citrato di calcio e di agrocotto presso la Camera agrumaria di cui nell'[art. 5 della legge 17 luglio 1910, n. 492](Modificazioni%20alla%20legge%205%20luglio%201908%20n.%20404%20sulla%20Camera%20agrumaria%20di%20Messina.%20010U0492.md), e' prorogato fino al 30 novembre di ciascun anno a partire dall'esercizio camerale 1917-918 e fino all'esercizio successivo a quello nel quale sara' conclusa la pace.
 
 ## Art. 2.
 

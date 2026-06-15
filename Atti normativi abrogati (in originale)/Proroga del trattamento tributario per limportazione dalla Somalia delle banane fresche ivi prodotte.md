@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Vista la [legge 9 ottobre 1964, n. 986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-09;986), concernente la abolizione del monopolio statale delle banane;
+Vista la [legge 9 ottobre 1964, n. 986](Abolizione%20del%20Monopolio%20statale%20delle%20banane.md), concernente la abolizione del monopolio statale delle banane;
 
-Visto il [decreto-legge 14 dicembre 1965, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-12-14;1334), convertito nella [legge 9 febbraio 1966, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-02-09;21);
+Visto il [decreto-legge 14 dicembre 1965, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-12-14;1334), convertito nella [legge 9 febbraio 1966, n. 21](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2014%20dicembre%201965%20n.%201334%20concernente%20la%20importazione%20delle%20banane%20fresche.md);
 
 Ritenuta la straordinaria necessita' e l'urgenza di prorogare per altri due anni il trattamento tributario per le banane prodotte in Somalia e provenienti da detto Stato, previsto dal secondo comma dell'articolo 1 del citato decreto-legge;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per le finanze, di concerto con i Ministri per gli a
 
 ## Art. 1.
 
-L'imposta erariale di consumo sulle banane fresche prodotte in Somalia e provenienti da quello Stato, stabilita dal [secondo comma dell'articolo 1 del decreto-legge 14 dicembre 1965, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-12-14;1334#art_1-com2), convertito nella [legge 9 febbraio 1966, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-02-09;21), in lire sessanta per chilogrammo, continua ad applicarsi, nella stessa misura, per il periodo 1 gennaio 1968-31 dicembre 1969 e per un quantitativo massimo di un milione di quintali per ciascuno di detti anni.
+L'imposta erariale di consumo sulle banane fresche prodotte in Somalia e provenienti da quello Stato, stabilita dal [secondo comma dell'articolo 1 del decreto-legge 14 dicembre 1965, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-12-14;1334#art_1-com2), convertito nella [legge 9 febbraio 1966, n. 21](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2014%20dicembre%201965%20n.%201334%20concernente%20la%20importazione%20delle%20banane%20fresche.md), in lire sessanta per chilogrammo, continua ad applicarsi, nella stessa misura, per il periodo 1 gennaio 1968-31 dicembre 1969 e per un quantitativo massimo di un milione di quintali per ciascuno di detti anni.
 
 ## Art. 2.
 

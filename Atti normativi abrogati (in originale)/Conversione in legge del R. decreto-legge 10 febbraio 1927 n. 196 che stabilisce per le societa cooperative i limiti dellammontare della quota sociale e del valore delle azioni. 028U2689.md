@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 febbraio 1927, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-10;196), che stabilisce per le societa' cooperative i limiti dell'ammontare della quota sociale e del valore delle azioni. 
+ E' convertito in legge il [R. decreto-legge 10 febbraio 1927, n. 196](Limiti%20della%20quota%20sociale%20e%20delle%20azioni%20per%20le%20societa%20cooperative.%20027U0196.md), che stabilisce per le societa' cooperative i limiti dell'ammontare della quota sociale e del valore delle azioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

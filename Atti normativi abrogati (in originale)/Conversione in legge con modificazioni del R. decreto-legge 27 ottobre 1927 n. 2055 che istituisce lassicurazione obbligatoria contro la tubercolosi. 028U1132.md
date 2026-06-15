@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2055](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-27;2055), che istituisce l'assicurazione obbligatoria contro la tubercolosi, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2055](Assicurazione%20obbligatoria%20contro%20la%20tubercolosi.%20027U2055.md), che istituisce l'assicurazione obbligatoria contro la tubercolosi, con le seguenti modificazioni: 
  
  nell'art. 11, alla lettera e) aggiungere: «e un rappresentante dell'Opera nazionale per la protezione della maternita' e dell'infanzia»; 
  

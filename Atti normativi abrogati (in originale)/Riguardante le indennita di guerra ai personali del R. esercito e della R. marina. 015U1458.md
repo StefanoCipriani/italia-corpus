@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono considerati nelle condizioni previste dall'[art. 2 del R. decreto 23 maggio 1915, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;677#art_2), per le indennita' alle truppe in campagna, ed hanno percio' diritto alle indennita' di guerra stabilite dal R. decreto medesimo: 
+Sono considerati nelle condizioni previste dall'[art. 2 del R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), per le indennita' alle truppe in campagna, ed hanno percio' diritto alle indennita' di guerra stabilite dal R. decreto medesimo: 
  
  a) il personale addetto al Comando supremo dell'esercito, all'Intendenza generale e quello componente le grandi unita' di guerra, esclusi pero' gli stabilimenti ed uffici dipendenti dall'Intendenza generale e dalle Intendenze d'armata che abbiano carattere territoriale. La designazione di tali stabilimenti ed uffici vien fatta dal Comando supremo; 
  
@@ -36,13 +36,13 @@ Le indennita' e i soprassoldi di guerra stabiliti per il personale della R. mari
 
 ## Art. 3.
 
-Le indennita' ed i soprassoldi rispettivamente previsti dal [R. decreto 23 maggio 1915, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;677) e dal Nostro decreto 24 giugno 1915, n. 999, sono altresi' dovuti alle truppe ed ai personali militari dipendenti dai Ministeri della guerra e della marina addetti a speciali servizi interessanti la difesa, in base a determinazioni da prendersi d'accordo tra i due ministri competenti, o singolarmente da ciascun ministro, di concerto col ministro del tesoro, a seconda che quegli speciali servizi interessino entrambe le Amministrazioni militari o soltanto una di esse.
+Le indennita' ed i soprassoldi rispettivamente previsti dal [R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md) e dal Nostro decreto 24 giugno 1915, n. 999, sono altresi' dovuti alle truppe ed ai personali militari dipendenti dai Ministeri della guerra e della marina addetti a speciali servizi interessanti la difesa, in base a determinazioni da prendersi d'accordo tra i due ministri competenti, o singolarmente da ciascun ministro, di concerto col ministro del tesoro, a seconda che quegli speciali servizi interessino entrambe le Amministrazioni militari o soltanto una di esse.
 
 ## Art. 4.
 
 Il personale di cui alla lettera a) dell'art. 1 perde il diritto alle indennita' di guerra, quando cessa, anche temporaneamente, dal prendere parte alle operazioni di guerra. Spetta al ministro della guerra, su proposta del Comando supremo, stabilire volta per volta, quali siano i personali che si trovano in siffatta condizione e la data d'inizio e di cessazione del provvedimento. 
  
- In questi casi sono dovute le sole competenze di pace, oltre le speciali indennita' stabilite dal [R. decreto 3 gennaio 1915, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-03;1), per gli ufficiali e sottufficiali che si trovino nelle condizioni ivi previste. 
+ In questi casi sono dovute le sole competenze di pace, oltre le speciali indennita' stabilite dal [R. decreto 3 gennaio 1915, n. 1](Da%20convertirsi%20in%20legge%20col%20quale%20e%20concessa%20una%20indennita%20giornaliera%20per%20gli%20ufficiali%20in%20servizio%20attivo%20o%20richiamati%20dal%20congedo%20destinati%20in%20servizio%20collettivo%20fuori%20della%20sede%20ordi_0d8b0e5f7e64.md), per gli ufficiali e sottufficiali che si trovino nelle condizioni ivi previste. 
  
  I sottufficiali che non abbiano diritto a tali indennita' e gli altri militari riceveranno l'indennita' di marcia.
 

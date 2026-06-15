@@ -63,7 +63,7 @@ La presente legge ha effetto dal 30 giugno 1961.
 
 ## Art. 9.
 
-Alla copertura dell'onere derivante dal presente provvedimento nell'esercizio 1961-62 per milioni 3.000 sara' provveduto con una aliquota dei maggiori introiti per l'aumento delle tariffe di cui al [decreto del Presidente della Repubblica 24 giugno 1961, n. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-24;515).
+Alla copertura dell'onere derivante dal presente provvedimento nell'esercizio 1961-62 per milioni 3.000 sara' provveduto con una aliquota dei maggiori introiti per l'aumento delle tariffe di cui al [decreto del Presidente della Repubblica 24 giugno 1961, n. 515](../DPR/Modificazioni%20alle%20condizioni%20e%20tariffe%20per%20i%20trasporti%20delle%20persone%20e%20delle%20cose%20sulle%20Ferrovie%20dello%20Stato.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

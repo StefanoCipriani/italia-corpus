@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-In deroga al disposto dell'[art. 3 della legge 23 marzo 1964, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-03-23;134#art_3), i Comitati tecnico-amministrativi presso i Provveditorati alle opere pubbliche di Venezia e di Trieste sono competenti a pronunciarsi senza limite di valore sui progetti di massima ed esecutivi delle opere di ricostruzione previste dalla [legge 31 maggio 1964, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-31;357).
+In deroga al disposto dell'[art. 3 della legge 23 marzo 1964, n. 134](Aggiornamento%20dei%20limiti%20di%20valore%20del%20decentramento%20dei%20servizi%20del%20Ministero%20dei%20lavori%20pubblici.md), i Comitati tecnico-amministrativi presso i Provveditorati alle opere pubbliche di Venezia e di Trieste sono competenti a pronunciarsi senza limite di valore sui progetti di massima ed esecutivi delle opere di ricostruzione previste dalla [legge 31 maggio 1964, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-31;357).
 
 ## Art. 2.
 
@@ -33,7 +33,7 @@ Nei casi non contemplati dagli [articoli 2](https://www.normattiva.it/uri-res/N2
 
 ## Art. 4.
 
-Per le opere di importo fino a 30 milioni di lire la concessione, ai sensi dell'[art. 19 della legge 31 maggio 1964, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-31;357#art_19), dei contributi di cui all'[art. 3 della legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991#art_3), e' disposta, in deroga allo [art. 17 del decreto del Presidente della Repubblica 16 novembre 1952, n. 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-16;1979#art_17), dai capi degli Ispettorati ripartimentali delle foreste.
+Per le opere di importo fino a 30 milioni di lire la concessione, ai sensi dell'[art. 19 della legge 31 maggio 1964, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-31;357#art_19), dei contributi di cui all'[art. 3 della legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991#art_3), e' disposta, in deroga allo [art. 17 del decreto del Presidente della Repubblica 16 novembre 1952, n. 1979](../DPR/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2025%20luglio%201952%20n.%20991%20recante%20provvedimenti%20in%20favore%20dei%20territori%20montani.md), dai capi degli Ispettorati ripartimentali delle foreste.
 
 ## Art. 5.
 

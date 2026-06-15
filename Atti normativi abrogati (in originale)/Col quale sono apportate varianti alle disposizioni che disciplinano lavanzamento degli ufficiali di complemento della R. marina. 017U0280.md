@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visti gli [articoli 17 e seguenti della legge 29 giugno 1913, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;797#art_17);
+Visti gli [articoli 17 e seguenti della legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md);
 
-Visto il [R. decreto 23 maggio 1915, n. 747](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;747), e i [decreti Luogotenenziali 2 gennaio 1916, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-01-02;18); [6 aprile 1916, n. 393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-04-06;393); [6 agosto 1916, n. 946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-06;946);
+Visto il [R. decreto 23 maggio 1915, n. 747](Concernente%20il%20reclutamento%20di%20ufficiali%20di%20complemento%20dello%20stato%20maggiore%20generale%20della%20R.%20marina.%20015U0747.md), e i [decreti Luogotenenziali 2 gennaio 1916, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-01-02;18); [6 aprile 1916, n. 393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-04-06;393); [6 agosto 1916, n. 946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-06;946);
 
 Sentito il Consiglio dei ministri;
 
@@ -38,7 +38,7 @@ All'art. 4 del Nostro decreto 6 aprile 1916, n. 393, modificato coll'art. 5 dell
 
 ## Art. 2.
 
-Agli ufficiali di vascello di complemento, inscritti in ruolo in applicazione della [legge 27 giugno 1909, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-27;377), e del relativo regolamento, sono applicabili le disposizioni contenute nell'art. 4 del Nostro decreto 6 aprile 1916, n. 393, modificato dall'art. 5 dell'altro Nostro decreto 6 agosto 1916, n. 946, e dal presente decreto, per gli ufficiali di vascello specialisti direzionali. Ad essi pero' non sara' applicabile, per una volta tanto, il disposto dell'ultimo comma del citato art. 4. 
+Agli ufficiali di vascello di complemento, inscritti in ruolo in applicazione della [legge 27 giugno 1909, n. 377](Disposizioni%20relative%20alla%20riserva%20navale.%20009U0377.md), e del relativo regolamento, sono applicabili le disposizioni contenute nell'art. 4 del Nostro decreto 6 aprile 1916, n. 393, modificato dall'art. 5 dell'altro Nostro decreto 6 agosto 1916, n. 946, e dal presente decreto, per gli ufficiali di vascello specialisti direzionali. Ad essi pero' non sara' applicabile, per una volta tanto, il disposto dell'ultimo comma del citato art. 4. 
  
  Il presente decreto andra' in vigore dal 1° febbraio 1917. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 febbraio 1930, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;264), col quale e stata approvata la convenzione con la Societa' anonima autostrada Torino-Milano per la concessione dell'autostrada Torino-Milano. 
+ E' convertito in legge il [R. decreto-legge 26 febbraio 1930, n. 264](Approvazione%20della%20convenzione%20per%20la%20costruzione%20ed%20esercizio%20dellautostrada%20Torino-Milano.%20030U0264.md), col quale e stata approvata la convenzione con la Societa' anonima autostrada Torino-Milano per la concessione dell'autostrada Torino-Milano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

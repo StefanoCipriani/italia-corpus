@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Vista la [legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254), sull'avanzamento nel R. esercito e successive modificazioni;
+Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito e successive modificazioni;
 
-Visto il regolamento approvato con [R. decreto 21 luglio 1907, n. 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-21;626), e successive modificazioni;
+Visto il regolamento approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), e successive modificazioni;
 
 Visto il [decreto Luogotenenziale del 24 giugno 1915, n. 1018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-24;1018);
 
@@ -34,7 +34,7 @@ Sulla proposta del ministro, segretario di Stato per gli affari della guerra; Ab
 
 ## Art. 1.
 
-Dopo trascorso un mese come richiamato in servizio per ragioni di guerra, l'ufficiale in congedo di qualunque categoria, il quale sia addetto a comandi, corpi o servizi dell'esercito operante o delle piazze dichiarate in stato di resistenza ed abbia le condizioni di anzianita' e di permanenza nel grado richieste per la promovibilita' dei pari grado in servizio attivo permanente, puo' essere proposto per l'avanzamento colla procedura e colle norme stabilite dal § 224 del regolamento approvato con [R. decreto 21 luglio 1907, numero 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-21;626).
+Dopo trascorso un mese come richiamato in servizio per ragioni di guerra, l'ufficiale in congedo di qualunque categoria, il quale sia addetto a comandi, corpi o servizi dell'esercito operante o delle piazze dichiarate in stato di resistenza ed abbia le condizioni di anzianita' e di permanenza nel grado richieste per la promovibilita' dei pari grado in servizio attivo permanente, puo' essere proposto per l'avanzamento colla procedura e colle norme stabilite dal § 224 del regolamento approvato con [R. decreto 21 luglio 1907, numero 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md).
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ Non dispensa da tale procedura la circostanza di essere gia' iscritto nei quadri
  
  a) la esclusione definitiva dall'avanzamento eventualmente pronunziata in tempo di pace; 
  
- b) il disposto dall'[art. 19 della legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254#art_19), modificato colla [legge 3 luglio 1902, numero 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-07-03;247).
+ b) il disposto dall'[art. 19 della legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), modificato colla [legge 3 luglio 1902, numero 247](Relativa%20a%20modificazioni%20ai%20quadri%20degli%20ufficiali%20del%20R.%20esercito.%20002U0247.md).
 
 ## Art. 3.
 

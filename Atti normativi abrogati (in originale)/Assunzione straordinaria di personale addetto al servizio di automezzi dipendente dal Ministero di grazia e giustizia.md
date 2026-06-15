@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Allo scopo di sopperire alle esigenze di funzionalita' dell'Amministrazione della giustizia e di sicurezza dei magistrati, i presidenti ed i procuratori generali delle corti di appello, i presidenti dei tribunali ed i procuratori della Repubblica, nell'ambito delle rispettive competenze, nel termine massimo di un quinquennio a decorrere dall'entrata in vigore della presente legge, provvedono con decreto ad assumere per la durata massima di un anno rinnovabile per un ulteriore periodo di eguale durata - nei limiti dei posti vacanti presso ciascun ufficio giudiziario - autisti non di ruolo, in deroga alle disposizioni di cui al [decreto del Presidente della Repubblica 31 marzo 1971, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-03-31;276).
+Allo scopo di sopperire alle esigenze di funzionalita' dell'Amministrazione della giustizia e di sicurezza dei magistrati, i presidenti ed i procuratori generali delle corti di appello, i presidenti dei tribunali ed i procuratori della Repubblica, nell'ambito delle rispettive competenze, nel termine massimo di un quinquennio a decorrere dall'entrata in vigore della presente legge, provvedono con decreto ad assumere per la durata massima di un anno rinnovabile per un ulteriore periodo di eguale durata - nei limiti dei posti vacanti presso ciascun ufficio giudiziario - autisti non di ruolo, in deroga alle disposizioni di cui al [decreto del Presidente della Repubblica 31 marzo 1971, n. 276](../DPR/Assunzioni%20temporanee%20di%20personale%20presso%20le%20Amministrazioni%20dello%20Stato.md).
 
 ## Art. 2.
 

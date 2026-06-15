@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -39,7 +39,7 @@ Nei primi due anni dalla data da cui ha effetto il presente decreto, i periodi d
 ## Art. 4.
 
 Nella prima attuazione del presente decreto, un terzo dei posti disponibili nei gradi 5°, 6° e 7° dei ruoli tecnici (gruppo A) puo' essere conferito mediante concorsi per titoli a cui potranno essere ammessi i funzionari di ruolo dell'Amministrazione della sanita' pubblica, gli ufficiali sanitari di ruolo delle Amministrazioni locali, gli assistenti ed aiuti di ruolo degli Istituti d'igiene delle Universita', ed i medici di ruolo dei reparti medico-micrografici dei Laboratori provinciali d'igiene e profilassi.
- A detti concorsi potranno partecipare i funzionari suddetti che, oltre a possedere i requisiti prescritti dall'[art. 4 del regio decreto 25 giugno 1914, n. 702](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-06-25;702#art_4), abbiano almeno cumulativamente 16, 14, 12 anni di esercizio professionale e di servizio di ruolo a seconda che partecipino ai concorsi di grado 5°, 6° e 7°.
+ A detti concorsi potranno partecipare i funzionari suddetti che, oltre a possedere i requisiti prescritti dall'[art. 4 del regio decreto 25 giugno 1914, n. 702](Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20e%20dellAmministrazione%20provinciale%20della%20sanita%20pubblica.%20014U0702.md), abbiano almeno cumulativamente 16, 14, 12 anni di esercizio professionale e di servizio di ruolo a seconda che partecipino ai concorsi di grado 5°, 6° e 7°.
 
 ## Art. 5.
 

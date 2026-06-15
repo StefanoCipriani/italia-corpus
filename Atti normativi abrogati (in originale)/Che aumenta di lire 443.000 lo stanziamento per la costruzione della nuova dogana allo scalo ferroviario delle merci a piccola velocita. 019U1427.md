@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 11 giugno 1914, n 531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-11;531), con la quale fu autorizzata la spesa di L. 2,572,000 per la costruzione in Milano di una nuova dogana allo scalo di via Farini; 
+ Vista la [legge 11 giugno 1914, n 531](Che%20autorizza%20la%20spesa%20per%20la%20costruzione%20di%20un%20edificio%20ad%20uso%20della%20dogana%20di%20Milano%20al%20nuovo%20scalo%20delle%20merci%20a%20piccola%20velocita.%20014U0531.md), con la quale fu autorizzata la spesa di L. 2,572,000 per la costruzione in Milano di una nuova dogana allo scalo di via Farini; 
  
  Ritenuta la necessita', in relazione alle variate condizioni del mercato, di stanziare, per la parte a carico dell'amministrazione finanziaria, l'ulteriore somma di L. 443,000 per la ripresa ed ultimazione dei lavori rimasti sospesi a causa della guerra; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Lo stanziamento per la costruzione della nuova dogana allo scalo ferroviario delle merci a piccola velocita' di via Farini in Milano, fissato dall'[art. 1 della legge 11 giugno 1914, n. 531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-11;531#art_1), e' aumentato della somma di L. 443.000. 
+ Lo stanziamento per la costruzione della nuova dogana allo scalo ferroviario delle merci a piccola velocita' di via Farini in Milano, fissato dall'[art. 1 della legge 11 giugno 1914, n. 531](Che%20autorizza%20la%20spesa%20per%20la%20costruzione%20di%20un%20edificio%20ad%20uso%20della%20dogana%20di%20Milano%20al%20nuovo%20scalo%20delle%20merci%20a%20piccola%20velocita.%20014U0531.md), e' aumentato della somma di L. 443.000. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

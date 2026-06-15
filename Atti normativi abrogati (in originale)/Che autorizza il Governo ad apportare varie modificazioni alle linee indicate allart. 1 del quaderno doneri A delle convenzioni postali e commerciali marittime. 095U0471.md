@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il Governo del Re, in relazione all'art. 4 del quaderno d'oneri A, delle convenzioni postali e commerciali marittime, annesse alla [legge 22 aprile 1893, n. 195](Che%20approva%20le%20Convenzioni%20per%20i%20servizi%20postali%20e%20commerciali%20marittimi.%20093U0195.md), ed al [Regio decreto 29 ottobre 1893, n. 592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-10-29;592), e' autorizzato ad apportare le seguenti modificazioni alle linee indicate all'art. 1 del detto quaderno di oneri: 
+Il Governo del Re, in relazione all'art. 4 del quaderno d'oneri A, delle convenzioni postali e commerciali marittime, annesse alla [legge 22 aprile 1893, n. 195](Che%20approva%20le%20Convenzioni%20per%20i%20servizi%20postali%20e%20commerciali%20marittimi.%20093U0195.md), ed al [Regio decreto 29 ottobre 1893, n. 592](Che%20approva%20le%20convenzioni%20pei%20servizi%20postali%20e%20commerciali%20marittimi.%20093U0592.md), e' autorizzato ad apportare le seguenti modificazioni alle linee indicate all'art. 1 del detto quaderno di oneri: 
  
  Dal 1° agosto saranno soppressi: 
  

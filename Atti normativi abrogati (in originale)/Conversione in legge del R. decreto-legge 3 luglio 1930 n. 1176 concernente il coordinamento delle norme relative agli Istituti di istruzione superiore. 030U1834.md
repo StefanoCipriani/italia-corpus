@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 1176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-03;1176), concernente il coordinamento delle norme relative agli Istituti di istruzione superiore. 
+ E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 1176](Coordinamento%20delle%20norme%20relative%20agli%20Istituti%20di%20istruzione%20superiore.%20030U1176.md), concernente il coordinamento delle norme relative agli Istituti di istruzione superiore. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

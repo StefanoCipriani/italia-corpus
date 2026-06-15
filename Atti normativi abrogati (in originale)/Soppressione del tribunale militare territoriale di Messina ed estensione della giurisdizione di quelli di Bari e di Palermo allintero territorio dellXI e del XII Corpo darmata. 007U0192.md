@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito;
 
 Vista la legge sull'ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra testo unico - approvato con [R. decreto 14 luglio 1898 n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), modificato con le [leggi 7 luglio 1901, n. 285 e 21 luglio 1902 n. 303, 2 giugno 1904, n. 216, 3 luglio 1904, n. 300, 9 luglio 1905 n. 347](Modificazione%20alla%20tabella%20n.%2014%20degli%20ufficiali%20del%20corpo%20veterinario%20militare%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20R.%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20de_d18d0c6cd3f2.md);
 

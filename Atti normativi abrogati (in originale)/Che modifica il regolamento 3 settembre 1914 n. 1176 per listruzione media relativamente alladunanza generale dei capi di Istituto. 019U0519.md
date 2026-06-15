@@ -14,7 +14,7 @@ L'adunanza generale dei capi d'Istituto che dal Regio provveditore e' annualment
 
 ## Art. 2.
 
-E' abrogata la corrispondente disposizione contenuta nell'art. 9 del regolamento approvato con [R. decreto 3 settembre 1914, n. 1176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-03;1176). 
+E' abrogata la corrispondente disposizione contenuta nell'art. 9 del regolamento approvato con [R. decreto 3 settembre 1914, n. 1176](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20in%20applicazione%20di%20alcuni%20articoli%20della%20legge%2016%20luglio%201914%20n.%20679%20concernente%20provvedimenti%20per%20listruzione%20classica%20tecnica%20nautica%20e%20no_2953e5baac49.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

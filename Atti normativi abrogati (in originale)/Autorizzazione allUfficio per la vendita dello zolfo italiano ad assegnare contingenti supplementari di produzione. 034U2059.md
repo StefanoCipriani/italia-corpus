@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto-legge 11 dicembre 1933, n. 1699](Nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20033U1699.md), convertito con [legge 5 febbraio 1934, n. 307](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20contenente%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0307.md), ed il [R. decreto 3 gennaio 1934, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-03;18), contenenti disposizioni per l'industria zolfifera nazionale;
+Visto il [R. decreto-legge 11 dicembre 1933, n. 1699](Nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20033U1699.md), convertito con [legge 5 febbraio 1934, n. 307](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20contenente%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0307.md), ed il [R. decreto 3 gennaio 1934, n. 18](Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md), contenenti disposizioni per l'industria zolfifera nazionale;
 
 Visto il decreto in data 14 luglio 1934 del Capo del Governo, Ministro per le corporazioni, di concerto col Ministro per le finanze, col quale l'Ufficio per la vendita dello zolfo italiano fu autorizzato, per l'esercizio 1934-1935, a garantire determinati prezzi minimi ai produttori nazionali di zolfo;
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 luglio 1934, n. 1356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-12;1356), che approva, il progetto di allargamento delle vie San Tommaso, Bertola e Mercanti in variante al vigente piano regolatore della citta' di Torino, ed il piano di risanamento dei quartieri Sant'Aventino e Sant'Eusebio. 
+ E' convertito in legge il [R. decreto-legge 12 luglio 1934, n. 1356](Approvazione%20del%20progetto%20di%20variante%20allattuale%20piano%20regolatore%20di%20Torino%20per%20le%20vie%20S.%20Tommaso%20Bertola%20e%20Mercanti%20e%20di%20risanamento%20degli%20isolati%20S.%20Aventino%20e%20S.%20Eusebio.%20034U1356.md), che approva, il progetto di allargamento delle vie San Tommaso, Bertola e Mercanti in variante al vigente piano regolatore della citta' di Torino, ed il piano di risanamento dei quartieri Sant'Aventino e Sant'Eusebio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla, e di farla osservare come legge dello Stato. 
  

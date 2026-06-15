@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 1° marzo 1945, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;82), relativo al riordinamento del Consiglio nazionale delle ricerche;
+Visto il [decreto legislativo luogotenenziale 1° marzo 1945, n. 82](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20045U0082.md), relativo al riordinamento del Consiglio nazionale delle ricerche;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1.
 
-Il termine previsto nel [secondo comma dell'art. 24 del decreto legislativo luogotenenziale 1° marzo 1945, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;82#art_24-com2), per il funzionamento dei Comitati nazionali di consulenza del Consiglio nazionale delle ricerche costituiti in base al primo comma dell'articolo stesso, e' prorogato di un anno.
+Il termine previsto nel [secondo comma dell'art. 24 del decreto legislativo luogotenenziale 1° marzo 1945, n. 82](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20045U0082.md), per il funzionamento dei Comitati nazionali di consulenza del Consiglio nazionale delle ricerche costituiti in base al primo comma dell'articolo stesso, e' prorogato di un anno.
 
 ## Art. 2.
 

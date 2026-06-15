@@ -14,17 +14,17 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-24;501);
+Visto il testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
 
-Visto il regolamento generale sul servizio postale approvato con [R. decreto 10 febbraio 1901, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-10;120);
+Visto il regolamento generale sul servizio postale approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
 
-Visto l'[art. 5 del R. decreto-legge 25 gennaio 1921, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-01-25;44#art_5), convertito con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto l'[art. 5 del R. decreto-legge 25 gennaio 1921, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-01-25;44#art_5), convertito con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto l'[art. 2, paragrafo 4, del R. decreto-legge 29 luglio 1925, n. 1428](Convenzione%20ed%20Accordi%20postali%20internazionali%20stipulati%20a%20Stoccolma%20il%2028%20agosto%201924.%20025U1428.md), convertito con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), concernente le Convenzioni ed Accordi postali stipulati a Stoccolma;
 
-Visto il [R. decreto-legge 19 febbraio 1925, n. 196](Modificazioni%20alle%20vigenti%20tariffe%20postali%20e%20telegrafiche.%20025U0196.md), convertito con la [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge 19 febbraio 1925, n. 196](Modificazioni%20alle%20vigenti%20tariffe%20postali%20e%20telegrafiche.%20025U0196.md), convertito con la [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
-Visto l'art. 7, capoverso 1°, del [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito con la [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto l'art. 7, capoverso 1°, del [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito con la [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto il testo unico di legge sui telefoni 3 maggio 1903, n. 196;
 

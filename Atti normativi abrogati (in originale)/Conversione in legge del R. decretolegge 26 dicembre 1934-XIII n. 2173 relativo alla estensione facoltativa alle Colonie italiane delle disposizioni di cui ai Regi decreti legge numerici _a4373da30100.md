@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il R. decreto-legge 26 dicembre 1934-XIII, n. 2173, relativo alla estensione facoltativa alle Colonie italiane delle disposizioni di cui ai Regi decreti-legge nn. 1942 e [1943, in data 8 dicembre 1934](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-08;1943)-XIII, concernenti la cessione delle divise e la dichiarazione del possesso dei titoli emessi all'estero e relative sanzioni. 
+ E' convertito in legge il R. decreto-legge 26 dicembre 1934-XIII, n. 2173, relativo alla estensione facoltativa alle Colonie italiane delle disposizioni di cui ai Regi decreti-legge nn. 1942 e [1943, in data 8 dicembre 1934](Sanzioni%20per%20la%20irregolare%20tenuta%20delle%20contabilita%20e%20della%20corrispondenza%20di%20banche%20e%20cambiavalute%20riferentisi%20a%20pagamenti%20fuori%20dItalia%20ed%20al%20commercio%20dei%20cambi.%20034U1943.md)-XIII, concernenti la cessione delle divise e la dichiarazione del possesso dei titoli emessi all'estero e relative sanzioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

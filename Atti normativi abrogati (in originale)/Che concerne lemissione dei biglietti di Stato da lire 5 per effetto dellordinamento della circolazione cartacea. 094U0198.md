@@ -14,15 +14,15 @@ IL MINISTRO DELLE FINANZE
  
  INTERIM DEL TESORO 
  
- Veduto l'[art. 7 del R. decreto 21 febbraio 1894, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-02-21;50#art_7), che provvede per l'ordinamento della circolazione cartacea; 
+ Veduto l'[art. 7 del R. decreto 21 febbraio 1894, n. 50](Concernente%20lordinamento%20della%20circolazione%20cartacea.%20094U0050.md), che provvede per l'ordinamento della circolazione cartacea; 
  
- Veduto il regolamento approvato con [R. decreto 16 giugno 1881, n. 253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-06-16;253) (serie 3a); 
+ Veduto il regolamento approvato con [R. decreto 16 giugno 1881, n. 253](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20provvedimenti%20per%20labolizione%20del%20corso%20forzoso.%20081U0253.md) (serie 3a); 
  
  Veduti i RR. decreti 17 dicembre 1882, n. 1134 (serie 3a), e 11 settembre 1892, n. 495, con i quali furono pubblicati i distintivi ed i segni caratteristici dei biglietti di Stato da L. 5; 
  
  Ritenuto che, per effetto del decreto ministeriale 25 febbraio 1887, la emissione dei biglietti di Stato da lire 5, stabilita in numero di 
  
- 20 milioni di biglietti, per l'importare di 100 milioni di lire, dall'[articolo 8 del R. decreto 1° marzo 1883, n. 1218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-03-01;1218#art_8), fu ridotta a numero 18814581 di biglietti per l'importare nominale di L. 91072905 e che quindi, per raggiungere il numero di 40 milioni di biglietti, per l'importare di 200 milioni di lire, autorizzati dal citato [art. 7 del R. decreto 21 febbraio 1891, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-02-21;50#art_7), sono ancora da emettersi 21185419 biglietti, per l'ammontare di L. 105,927,095; 
+ 20 milioni di biglietti, per l'importare di 100 milioni di lire, dall'[articolo 8 del R. decreto 1° marzo 1883, n. 1218](che%20fissa%20il%20giorno%20in%20cui%20deve%20cessare%20il%20corso%20forzoso%20dei%20biglietti%20a%20carico%20dello%20Stato%20083U1218.md), fu ridotta a numero 18814581 di biglietti per l'importare nominale di L. 91072905 e che quindi, per raggiungere il numero di 40 milioni di biglietti, per l'importare di 200 milioni di lire, autorizzati dal citato [art. 7 del R. decreto 21 febbraio 1891, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-02-21;50#art_7), sono ancora da emettersi 21185419 biglietti, per l'ammontare di L. 105,927,095; 
  
  Sentita la Commissione permanente di vigilanza sulla circolazione cartacea; 
  
@@ -30,7 +30,7 @@ IL MINISTRO DELLE FINANZE
  
  Determina: 
  
- I biglietti di Stato da lire cinque che l'Amministrazione del Tesoro dovra' emettere per l'ammontare di lire 105,927,095, giusta l'[art. 7 del R. decreto 21 febbraio 1894 n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-02-21;50#art_7), saranno in numero di 21,185,419, divisi in 212 serie, contraddistinte dai numeri 751 a 962 inclusive, ciascuna di n. 100,000 biglietti numerati da 1 a 100,000, salvo la serie 962, la cui emissione si limitera' a 85,419 biglietti. 
+ I biglietti di Stato da lire cinque che l'Amministrazione del Tesoro dovra' emettere per l'ammontare di lire 105,927,095, giusta l'[art. 7 del R. decreto 21 febbraio 1894 n. 50](Concernente%20lordinamento%20della%20circolazione%20cartacea.%20094U0050.md), saranno in numero di 21,185,419, divisi in 212 serie, contraddistinte dai numeri 751 a 962 inclusive, ciascuna di n. 100,000 biglietti numerati da 1 a 100,000, salvo la serie 962, la cui emissione si limitera' a 85,419 biglietti. 
  
  Il presente decreto sara' inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia. 
  

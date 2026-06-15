@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 agosto 1919, n. 1470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1470), che apporta miglioramenti al personale dei chimici e degli elettricisti della R. marina. 
+ E' convertito in legge il [R. decreto-legge 10 agosto 1919, n. 1470](Che%20istituisce%20nella%20R.%20marina%20un%20personale%20civile%20con%20la%20denominazione%20di%20chimici%20per%20le%20Direzioni%20di%20artiglieria%20ed%20armamenti%20e%20conserva%20in%20via%20transitoria%20il%20ruolo%20degli%20ingegneri%20elet_8010541b1f3c.md), che apporta miglioramenti al personale dei chimici e degli elettricisti della R. marina. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

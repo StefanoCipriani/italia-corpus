@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 25 settembre 1924, n. 1470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1470);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
 
@@ -34,7 +34,7 @@ In corrispondenza del ruolo speciale il ruolo organico dell'Amministrazione cent
 
 ## Art. 3.
 
-La promozione dal grado 13° al 12° nel ruolo di cui all'art. 1 del presente decreto, avra' luogo secondo le norme dell'[art. 12 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_12).
+La promozione dal grado 13° al 12° nel ruolo di cui all'art. 1 del presente decreto, avra' luogo secondo le norme dell'[art. 12 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ### Art. 4.
 

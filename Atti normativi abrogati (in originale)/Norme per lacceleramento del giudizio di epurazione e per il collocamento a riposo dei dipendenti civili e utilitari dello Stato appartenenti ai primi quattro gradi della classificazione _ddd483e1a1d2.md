@@ -46,7 +46,7 @@ Nei casi preveduti dall'articolo precedente, verra' computato, ai fini della liq
  
  Tuttavia la liquidazione della pensione non potra' essere commisurata ad un periodo di servizio inferiore a venti anni, ne' superiore complessivamente ai quaranta anni. 
  
- Agli effetti del primo comma del presente articolo sono considerati inamovibili il personale della Magistratura ordinaria, delle magistrature del Consiglio di Stato e della Corte dei conti ed i professori universitari; a costoro, quando non e' applicabile il primo comma del presente articolo, e' esteso il disposto della [legge 23 maggio 1940, n. 587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-23;587).
+ Agli effetti del primo comma del presente articolo sono considerati inamovibili il personale della Magistratura ordinaria, delle magistrature del Consiglio di Stato e della Corte dei conti ed i professori universitari; a costoro, quando non e' applicabile il primo comma del presente articolo, e' esteso il disposto della [legge 23 maggio 1940, n. 587](Concessione%20di%20una%20indennita%20in%20aggiunta%20alla%20pensione%20ai%20dipendenti%20statali%20per%20i%20quali%20e%20prevista%20la%20inamovibilita%20dispensati%20dal%20servizio%20in%20esecuzione%20del%20R.%20decreto%20legge%2017%20novembre_135e45667a9e.md).
 
 ## Art. 4.
 

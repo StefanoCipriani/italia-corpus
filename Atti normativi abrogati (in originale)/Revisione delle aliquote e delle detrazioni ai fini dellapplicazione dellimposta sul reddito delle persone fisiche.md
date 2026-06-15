@@ -22,7 +22,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-L'[articolo 11 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_11), e successive modificazioni, e' sostituito dal seguente: 
+L'[articolo 11 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), e successive modificazioni, e' sostituito dal seguente: 
  "Art. 11 - (Determinazione dell'imposta). - L'imposta lorda e' determinata applicando al reddito complessivo, al netto delle deduzioni previste nell'articolo 10, le seguenti aliquote per scaglioni di reddito: 
  fino a 6 milioni di lire 12 per cento; 
  oltre 6 Fino a 12 milioni di lire 22 per cento; 
@@ -36,7 +36,7 @@ L'[articolo 11 del decreto del Presidente della Repubblica 29 settembre 1973, n.
 
 ## Art. 2.
 
-L'[articolo 15 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_15), e successive modificazioni, e' sostituito dal seguente: 
+L'[articolo 15 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), e successive modificazioni, e' sostituito dal seguente: 
  "Art. 15 - (Detrazioni per carichi di famiglia). - Dall'imposta lorda si detraggono per carichi di famiglia: 
  1) L. 360.000 per il coniuge non legalmente ed effettivamente separato; 
  2) le seguenti somme per i figli, compresi i figli naturali riconosciuti, i figli adottivi e gli affidati o affiliati, minori di eta' o permanentemente inabili al lavoro e per quelli di eta' non superiore a ventisei anni dediti agli studi o a tirocinio gratuito: 
@@ -72,7 +72,7 @@ genitore ma esclusivamente a carico del contribuente;
 
 ## Art. 3.
 
-L'[articolo 16 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_16), e successive modificazioni, e' sostituito dal seguente:
+L'[articolo 16 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), e successive modificazioni, e' sostituito dal seguente:
  "Art. 16 - (Detrazioni per i redditi di lavoro dipendente).
  - Se alla formazione del reddito complessivo concorrono uno o piu' redditi di lavoro dipendente spetta una detrazione dall'imposta lorda di L. 492.000, rapportata al periodo di lavoro o di pensione nell'anno.
  Se il reddito di lavoro dipendente non supera 11 milioni di lire annui, spetta altresi' una detrazione, rapportata al periodo di lavoro o di pensione nell'anno, di L. 156.000. Se l'ammontare del reddito di lavoro dipendente e' superiore a lire 11 milioni, la detrazione spetta nella misura necessaria ad evitare che l'ammontare residuo di tale reddito scenda al di sotto dell'importo risultante dall'applicazione dell'imposta, diminuita della detrazione, a un reddito di lavoro dipendente pari a lire 11 milioni.
@@ -82,19 +82,19 @@ L'[articolo 16 del decreto del Presidente della Repubblica 29 settembre 1973, n.
 
 1.
 
-L'[articolo 16-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_16bis), e successive modificazioni, e' sostituito dal seguente:
+L'[articolo 16-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), e successive modificazioni, e' sostituito dal seguente:
  "Art. 16-bis - (Detrazione per i redditi di lavoro autonomo e di impresa). - Se alla formazione del reddito complessivo concorrono uno o piu' redditi di lavoro autonomo o di impresa di cui all'articolo 72 compete una detrazione di imposta, non cumulabile con le detrazioni di cui all'articolo precedente, di L. 150.000 se l'ammontare complessivo dei redditi di lavoro autonomo o di impresa non supera lire 6 milioni. La detrazione non compete per i redditi di lavoro autonomo determinati forfetariamente ai sensi del quarto e quinto comma dell'articolo 50 e per i redditi di impresa determinati forfetariamente ai sensi dell'articolo 72-bis. Se l'ammontare complessivo dei redditi di lavoro autonomo o di impresa e' superiore a lire 6 milioni, la detrazione spetta nella misura necessaria ad evitare che l'ammontare residuo di tali redditi scenda al di sotto dell'importo risultante dall'applicazione dell'imposta, diminuita della detrazione, a un ammontare complessivo di redditi di lavoro autonomo o di impresa pari a lire 6 milioni.
  La detrazione di cui al comma precedente compete in aggiunta a quelle previste nell'articolo 15 e fino alla concorrenza dell'imposta lorda relativa ai redditi di lavoro autonomo o di impresa che concorrono alla formazione del reddito complessivo".
 
 2.
 
-Le disposizioni del presente articolo si applicano anche ai contribuenti ammessi ai regimi forfetari di cui all'[articolo 2, commi 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_2-com9) e [10, del decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_2-com10), convertitO in legge, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-17;17).
+Le disposizioni del presente articolo si applicano anche ai contribuenti ammessi ai regimi forfetari di cui all'[articolo 2, commi 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_2-com9) e [10, del decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_2-com10), convertitO in legge, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201984%20n.%20853%20recante%20disposizioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20imposte%20sul%20reddito%20e%20disposizioni%20rel_0b6b4cacfea3.md).
 
 ## Art. 5.
 
 1.
 
-Al [decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597), e successive modificazioni, sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                         a)
                             nell'articolo 13, primo comma, il secondo periodo e' abrogato;
                         b)
@@ -103,7 +103,7 @@ Al [decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://w
 
 2.
 
-Al [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600), e successive modificazioni, sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                         a)
                             nell'articolo 3, ultimo comma, e nell'articolo 53, ultimo comma, le parole "terzo comma" sono sostituite dalle parole "quarto comma";
                         b)
@@ -111,11 +111,11 @@ Al [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://w
 
 3.
 
-Nel [quarto comma dell'articolo 3 della legge 25 novembre 1983, n. 649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-25;649#art_3-com4), di conversione del [decreto-legge 30 settembre 1983, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-30;512), le parole "penultimo comma" sono sostituite dalle parole "quarto comma".
+Nel [quarto comma dell'articolo 3 della legge 25 novembre 1983, n. 649](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201983%20n.%20512%20recante%20disposizioni%20relative%20ad%20alcune%20ritenute%20alla%20fonte%20sugli%20interessi%20ed%20altri%20proventi%20di%20capitale.md), di conversione del [decreto-legge 30 settembre 1983, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-30;512), le parole "penultimo comma" sono sostituite dalle parole "quarto comma".
 
 4.
 
-Sono soppresse le detrazioni previste dall'[articolo 3 della legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146#art_3), e successive modificazioni, e dall'[articolo 44 della legge 3 maggio 1982, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-03;203#art_44).
+Sono soppresse le detrazioni previste dall'[articolo 3 della legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md), e successive modificazioni, e dall'[articolo 44 della legge 3 maggio 1982, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-03;203#art_44).
 
 ## Art. 6.
 
@@ -126,7 +126,7 @@ Il [secondo comma dell'articolo 17 della legge 13 aprile 1977, n. 114](https://w
 
 2.
 
-Gli uffici delle imposte e i centri di servizio procedono ai controlli previsti nell'[articolo 36-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_36bis), e successive modificazioni, sulla base di criteri selettivi fissati annualmente dal Ministro delle finanze tenendo anche conto delle loro capacita' operative.
+Gli uffici delle imposte e i centri di servizio procedono ai controlli previsti nell'[articolo 36-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, sulla base di criteri selettivi fissati annualmente dal Ministro delle finanze tenendo anche conto delle loro capacita' operative.
 
 ## Art. 7.
 
@@ -134,7 +134,7 @@ Le disposizioni del presente decreto hanno effetto dal 1 gennaio
 
 1986.
 
-Tuttavia fino al periodo di paga anteriore a quello che ha inizio dopo il 28 febbraio 1986 i sostituti di imposta operano le ritenute di cui agli [articoli 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_23) e [29 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_29), determinandole con riferimento alle aliquote, agli scaglioni e alle detrazioni vigenti al 31 dicembre 1985 e applicando una detrazione aggiuntiva, in acconto di quelle da effettuare ai sensi delle disposizioni recate dal presente decreto, pari a complessive L. 80.000 suddivise in misura uguale per ciascuno dei periodi di paga che hanno inizio anteriormente al 1 marzo 1986. I sostituti devono effettuare i relativi conguagli in sede di conguaglio di fine anno o, se precedente, alla data di cessazione del rapporto di lavoro.
+Tuttavia fino al periodo di paga anteriore a quello che ha inizio dopo il 28 febbraio 1986 i sostituti di imposta operano le ritenute di cui agli [articoli 23](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md) e [29 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), determinandole con riferimento alle aliquote, agli scaglioni e alle detrazioni vigenti al 31 dicembre 1985 e applicando una detrazione aggiuntiva, in acconto di quelle da effettuare ai sensi delle disposizioni recate dal presente decreto, pari a complessive L. 80.000 suddivise in misura uguale per ciascuno dei periodi di paga che hanno inizio anteriormente al 1 marzo 1986. I sostituti devono effettuare i relativi conguagli in sede di conguaglio di fine anno o, se precedente, alla data di cessazione del rapporto di lavoro.
 
 ## Art. 8.
 

@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduta la [legge 8 aprile 1906, nn. 141 e 142; 14 marzo 1911, n. 177, e 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679); 
+ Veduta la [legge 8 aprile 1906, nn. 141 e 142; 14 marzo 1911, n. 177, e 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md); 
  
  Veduto il [decreto Luogotenenziale 27 luglio 1916, n. 1033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-07-27;1033); 
  
- Veduto l'[art. 2 della legge 30 marzo 1917, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-30;494#art_2); 
+ Veduto l'[art. 2 della legge 30 marzo 1917, n. 494](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%2027%20luglio%201916%20n.%201033%20col%20quale%20e%20disposto%20siano%20raccolti%20e%20stampati%20a%20spese%20dello%20Stato%20gli%20scritti%20di%20Cesare%20Battisti.%20017U0494.md); 
  
  Sulla proposta del ministro segretario di Stato per l'istruzione pubblica; 
  

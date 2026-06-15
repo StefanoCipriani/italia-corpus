@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 2986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2986), riguardante il reclutamento degli ufficiali del Regio esercito in servizio permanente;
+Visto il [R. decreto 30 dicembre 1923, n. 2986](Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md), riguardante il reclutamento degli ufficiali del Regio esercito in servizio permanente;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -24,7 +24,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Le disposizioni di cui all'[art. 8 del R. decreto 30 dicembre 1923, n. 2986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2986#art_8), riguardanti l'applicazione di una speciale ritenuta mensile sugli assegni degli allievi delle accademie militari, cessano di aver vigore col 30 settembre 1927.
+Le disposizioni di cui all'[art. 8 del R. decreto 30 dicembre 1923, n. 2986](Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md), riguardanti l'applicazione di una speciale ritenuta mensile sugli assegni degli allievi delle accademie militari, cessano di aver vigore col 30 settembre 1927.
 
 ## Art. 2.
 

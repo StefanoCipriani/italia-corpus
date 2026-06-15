@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 luglio 1930, n. 1210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-28;1210), concernente la istituzione di una Coorte autonoma di Milizia portuaria con sede in Trieste. 
+ E' convertito in legge il [R. decreto-legge 28 luglio 1930, n. 1210](Istituzione%20di%20una%20Coorte%20autonoma%20di%20Milizia%20portuaria%20con%20sede%20in%20Trieste.%20030U1210.md), concernente la istituzione di una Coorte autonoma di Milizia portuaria con sede in Trieste. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

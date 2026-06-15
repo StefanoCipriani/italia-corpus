@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [decreto legislativo 12 ottobre 1915, n. 1510](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1915-10-12;1510), allegato B, convertito nella [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774), col quale si sottopongono ad una imposta speciale i proventi degli amministratori delle Societa' anonime e di quelle in accomandita per azioni;
+Visto il [decreto legislativo 12 ottobre 1915, n. 1510](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1915-10-12;1510), allegato B, convertito nella [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md), col quale si sottopongono ad una imposta speciale i proventi degli amministratori delle Societa' anonime e di quelle in accomandita per azioni;
 
 Ritenuta la necessita' di provvedere allo stanziamento in bilancio delle spese per la provvista degli stampati e dei registri occorrenti per l'applicazione dell'imposta sopra indicata;
 

@@ -22,7 +22,7 @@ I diritti derivanti agli agenti di ruolo dell'Amministrazione delle ferrovie del
 
 ## Art. 3.
 
-Fino a quando non saranno avvenute le elezioni dei rappresentanti del personale nel Consiglio centrale di disciplina, gli esoneri di cui agli articoli 167 lettera b) e 168 lettera a) del regolamento del personale e all'art. 75 lettera d) del regolamento del personale, navigante dello ferrovie dello Stato, saranno disposti previo conforme parere del Consiglio di disciplina rispettivamente previsto dall'art. 50 del regolamento approvato col [R. decreto 22 luglio 1906, n. 417, e dall'art. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-07-22;417#art_49) del regolamento approvato col [R. decreto 25 giugno 1914, n. 707](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-06-25;707).
+Fino a quando non saranno avvenute le elezioni dei rappresentanti del personale nel Consiglio centrale di disciplina, gli esoneri di cui agli articoli 167 lettera b) e 168 lettera a) del regolamento del personale e all'art. 75 lettera d) del regolamento del personale, navigante dello ferrovie dello Stato, saranno disposti previo conforme parere del Consiglio di disciplina rispettivamente previsto dall'art. 50 del regolamento approvato col [R. decreto 22 luglio 1906, n. 417, e dall'art. 49](Che%20approva%20gli%20annessi%20regolamenti%20pel%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20quello%20addetto%20alla%20navigazione%20sullo%20stretto%20di%20Messina.%20006U0417.md) del regolamento approvato col [R. decreto 25 giugno 1914, n. 707](Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20il%20personale%20navigante%20delle%20ferrovie%20dello%20Stato.%20014U0707.md).
 
 ## Art. 4.
 

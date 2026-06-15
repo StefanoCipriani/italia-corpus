@@ -20,7 +20,7 @@ Le annesse disposizioni si applicano alle categorie di personale specificate nel
 
 ## Art. 3.
 
-Sono abrogati il [R. decreto 10 giugno 1900, n. 264 e l'articolo 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-06-10;264#art_1) del [decreto Luogotenenziale 15 maggio 1919, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-15;775), ed ogni altra disposizione diversa o contraria a quella del presente decreto. 
+Sono abrogati il [R. decreto 10 giugno 1900, n. 264 e l'articolo 1](Che%20approva%20le%20disposizioni%20in%20base%20alle%20quali%20le%20Societa%20ferroviarie%20formeranno%20gli%20orari%20ed%20i%20turni%20di%20servizio%20del%20personale.%20000U0264.md) del [decreto Luogotenenziale 15 maggio 1919, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-15;775), ed ogni altra disposizione diversa o contraria a quella del presente decreto. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

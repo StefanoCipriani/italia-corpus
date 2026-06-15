@@ -24,7 +24,7 @@ E' autorizzata la spesa di lire 5.800 milioni per l'anno 1998 e di lire 300 mili
 
 2.
 
-Il Ministro degli affari esteri provvede a somministrare le somme occorrenti mediante aperture di credito a favore del funzionario delegato di cui all'articolo 2, comma 2, di importo anche eccedente il limite gia' previsto dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), come sostituito dalla [legge 2 marzo 1963, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-03-02;386), e dal regolamento recante semplificazione e accelerazione delle procedure di spesa e contabili, reso esecutivo con [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;367).
+Il Ministro degli affari esteri provvede a somministrare le somme occorrenti mediante aperture di credito a favore del funzionario delegato di cui all'articolo 2, comma 2, di importo anche eccedente il limite gia' previsto dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), come sostituito dalla [legge 2 marzo 1963, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-03-02;386), e dal regolamento recante semplificazione e accelerazione delle procedure di spesa e contabili, reso esecutivo con [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md).
 
 3.
 
@@ -35,7 +35,7 @@ In relazione all'eccezionalita' dell'evento ed alla necessita' di far fronte ai 
 Il rendiconto delle spese sostenute sulle aperture di credito relative alle spese per l'organizzazione della presidenza e' presentato, entro sei mesi dalla conclusione del periodo di presidenza, all'Ufficio centrale del bilancio presso il Ministero degli affari esteri.
 
 Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  
  Note all'art. 1: 
  - Il testo dell'[art. 56 del R.D. 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56) (Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato), come sostituito dalla [legge 2 marzo 1963, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-03-02;386), e' il seguente: 
@@ -53,7 +53,7 @@ Avvertenza:
  11) pagamenti relativi alla devoluzione ed alla restituzione di tributi, nonche' alla restituzione di somme indebitamente percette. 
  Per le spese indicate dai precedenti numeri da 1 a 5 le aperture di credito per ciascun capitolo di spesa non possono superare, singolarmente, il limite di lire 480 milioni, salvo maggiori limiti stabiliti da particolari disposizioni di legge o di regolamento. 
  Per le spese di cui al n. 10) devono farsi aperture di credito distintamente per ogni contratto di fornitura o lavoro". 
- - Il [D.P.R. 20 aprile 1994, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;367), reca: "Regolamento recante semplificazione e accelerazione delle procedure di spesa e contabili".
+ - Il [D.P.R. 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md), reca: "Regolamento recante semplificazione e accelerazione delle procedure di spesa e contabili".
 
 ## Art. 2.
 

@@ -906,7 +906,7 @@ Al capitano giudicato non idoneo dalla detta commissione si applica il disposto 
 
 ## Art. 76.
 
-Nell'art. 138, dopo le parole «operazioni militari importanti nelle colonie», sono aggiunte le seguenti: «riconosciute tali con appositi decreti Reali, ai sensi del [R. decreto 18 marzo 1923, n. 621](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-18;621)».
+Nell'art. 138, dopo le parole «operazioni militari importanti nelle colonie», sono aggiunte le seguenti: «riconosciute tali con appositi decreti Reali, ai sensi del [R. decreto 18 marzo 1923, n. 621](Relativo%20alla%20estensione%20delle%20norme%20di%20avanzamento%20per%20le%20promozioni%20per%20merito%20di%20guerra%20alle%20truppe%20operanti%20nelle%20colonie.%20023U0621.md)».
 
 ## Art. 77.
 
@@ -997,7 +997,7 @@ La disposizione contenuta nell'ultimo comma dell'articolo 95 della legge 7 giugn
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 16 febbraio 1939, n. 321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-16;321), convertito senza modificazioni dalla [L. 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 16 febbraio 1939, n. 321](Aggiornamenti%20alle%20vigenti%20disposizioni%20legislative%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20039U0321.md), convertito senza modificazioni dalla [L. 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 85.
 

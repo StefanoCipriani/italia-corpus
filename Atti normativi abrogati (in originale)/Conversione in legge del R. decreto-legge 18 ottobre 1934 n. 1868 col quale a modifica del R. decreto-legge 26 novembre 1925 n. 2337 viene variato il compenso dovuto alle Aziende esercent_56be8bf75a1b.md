@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 ottobre 1934, n. 1868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-18;1868), che apporta modifiche al [R. decreto-legge 26 novembre 1925, n. 2337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-26;2337), per quanto riguarda il compenso dovuto alle Aziende esercenti linee ferroviarie concesse all'industria privata per il trasporto dei pacchi postali. 
+ E' convertito in legge il [R. decreto-legge 18 ottobre 1934, n. 1868](Modifiche%20al%20R.%20decreto-legge%2026%20novembre%201925%20n.%202337%20per%20quanto%20riguarda%20il%20compenso%20dovuto%20alle%20Aziende%20esercenti..linee%20ferroviarie%20concesse%20allindustria%20privata%20per%20il%20trasporto%20dei%20_1b01adf532f9.md), che apporta modifiche al [R. decreto-legge 26 novembre 1925, n. 2337](Modificazione%20al%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tramvie%20e%20gli%20automobili%20approvato%20con%20R.%20decreto%209%20maggio%201912%20n.%201447.%20025U2337.md), per quanto riguarda il compenso dovuto alle Aziende esercenti linee ferroviarie concesse all'industria privata per il trasporto dei pacchi postali. 
  
  Ordiniamo che la presente, munita del sigillo della Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

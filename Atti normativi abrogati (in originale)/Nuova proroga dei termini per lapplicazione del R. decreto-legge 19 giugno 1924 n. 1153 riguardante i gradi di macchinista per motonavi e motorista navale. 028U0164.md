@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il Codice per la marina mercantile del Regno ed il relativo regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166);
+Visto il Codice per la marina mercantile del Regno ed il relativo regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md);
 
 Visto il [R. decreto-legge 19 giugno 1924, n. 1153](Istituzione%20dei%20gradi%20marittimi%20di%20Macchinista%20per%20motonavi%20e%20di%20Motorista%20navale.%20024U1153.md);
 

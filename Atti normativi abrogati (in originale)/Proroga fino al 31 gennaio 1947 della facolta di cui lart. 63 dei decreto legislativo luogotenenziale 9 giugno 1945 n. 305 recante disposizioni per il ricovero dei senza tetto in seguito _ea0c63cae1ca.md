@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-09;305);
+Visto il [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](../Decreti%20legislativi%20luogotenenziali/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 ## Articolo unico.
 
-L'Amministrazione dei lavori pubblici e' autorizzata a continuare ad avvalersi fino al 31 gennaio 1947, della facolta' di cui all'[art. 63 del decreto legislativo luogotenenziale 9 giugno 1945, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-09;305#art_63).
+L'Amministrazione dei lavori pubblici e' autorizzata a continuare ad avvalersi fino al 31 gennaio 1947, della facolta' di cui all'[art. 63 del decreto legislativo luogotenenziale 9 giugno 1945, n. 305](../Decreti%20legislativi%20luogotenenziali/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

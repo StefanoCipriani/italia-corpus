@@ -20,7 +20,7 @@ Visto il [decreto legislativo Luogotenenziale 2 novembre 1944, n. 365](Istituzio
 
 Visto l'art. 327 del regolamento del Corpo degli agenti di pubblica sicurezza approvato con [R. decreto 30 novembre 1930, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-30;1629);
 
-Visto il [R. decreto-legge 3 gennaio 1944, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-03;6);
+Visto il [R. decreto-legge 3 gennaio 1944, n. 6](Organico%20e%20trattamento%20economico%20dei%20sottufficiali%20e%20militari%20di%20truppa%20dellArma%20dei%20C.C.R.R.%20044U0006.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro per l'Interno, d'intesa coi Ministri per la guerra e
 
 ## Art. 1.
 
-A decorrere dal 1° novembre 1944 e per la durata della guerra, la corresponsione del vitto in natura o in contanti ai sottufficiali e militari di truppa dell'Arma dei carabinieri Reali di cui all'[art. 5 del R. decreto-legge 3 gennaio 1944, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-03;6#art_5), e' estesa ai sottufficiali, guardie scelte e guardie di pubblica sicurezza, nonche' agli allievi guardie di pubblica sicurezza.
+A decorrere dal 1° novembre 1944 e per la durata della guerra, la corresponsione del vitto in natura o in contanti ai sottufficiali e militari di truppa dell'Arma dei carabinieri Reali di cui all'[art. 5 del R. decreto-legge 3 gennaio 1944, n. 6](Organico%20e%20trattamento%20economico%20dei%20sottufficiali%20e%20militari%20di%20truppa%20dellArma%20dei%20C.C.R.R.%20044U0006.md), e' estesa ai sottufficiali, guardie scelte e guardie di pubblica sicurezza, nonche' agli allievi guardie di pubblica sicurezza.
 
 ## Art. 2.
 

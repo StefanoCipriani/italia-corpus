@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-02-24;329), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni;
 
-Vista la [legge 9 maggio 1940, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;368), sull'ordinamento dell'Esercito, e successive modificazioni;
+Vista la [legge 9 maggio 1940, n. 368](Ordinamento%20del%20Regio%20esercito.%20040U0368.md), sull'ordinamento dell'Esercito, e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 24 settembre 1953, n. 816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953-09-24;816), sull'ordinamento delle Scuole militari;
+Visto il [decreto del Presidente della Repubblica 24 settembre 1953, n. 816](../DPR/Ordinamento%20delle%20scuole%20militari.md), sull'ordinamento delle Scuole militari;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -113,7 +113,7 @@ Gli allievi delle Scuole militari che abbiano conseguito la maturita' classica o
 
 ## Art. 17.
 
-Gli allievi al compimento del 17° anno di eta' contraggono l'arruolamento volontario ai sensi dell'art. 107 del testo unico delle disposizioni legislative sul reclutamento dell'Esercito approvato con [regio decreto 24 febbraio 1938, n. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-02-24;329), quale integrato dall'[art. 2 della legge 22 dicembre 1939, n. 2184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-12-22;2184#art_2).
+Gli allievi al compimento del 17° anno di eta' contraggono l'arruolamento volontario ai sensi dell'art. 107 del testo unico delle disposizioni legislative sul reclutamento dell'Esercito approvato con [regio decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), quale integrato dall'[art. 2 della legge 22 dicembre 1939, n. 2184](Varianti%20al%20testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20039U2184.md).
 
 ## Art. 18.
 
@@ -125,7 +125,7 @@ Ai giovani di cui al precedente articolo si applicano le disposizioni contenute 
 
 ## Art. 20.
 
-E' abrogato il [decreto del Presidente della Repubblica 24 settembre 1953, n. 816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953-09-24;816), sull'ordinamento delle Scuole militari.
+E' abrogato il [decreto del Presidente della Repubblica 24 settembre 1953, n. 816](../DPR/Ordinamento%20delle%20scuole%20militari.md), sull'ordinamento delle Scuole militari.
 
 Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

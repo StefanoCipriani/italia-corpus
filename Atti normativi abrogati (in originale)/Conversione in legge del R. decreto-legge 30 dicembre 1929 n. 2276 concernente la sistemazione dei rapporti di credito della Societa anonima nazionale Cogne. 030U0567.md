@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 dicembre 1929, n. 2276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-12-30;2276), concernente la sistemazione dei rapporti di credito della Societa' anonima nazionale «Cogne». 
+ E' convertito in legge il [R. decreto-legge 30 dicembre 1929, n. 2276](Sistemazione%20di%20rapporti%20di%20credito%20con%20la%20Societa%20anonima%20nazionale%20Cogne.%20029U2276.md), concernente la sistemazione dei rapporti di credito della Societa' anonima nazionale «Cogne». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

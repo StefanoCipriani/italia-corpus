@@ -14,11 +14,11 @@ Visto il testo unico delle leggi e delle norme giuridiche sull'istruzione elemen
 
 Visto il regolamento generale sui servizi dell'istruzione elementare, approvato con [regio decreto 26 aprile 1928, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1297);
 
-Visto il [regio decreto-legge 26 settembre 1935, n. 1866](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1866);
+Visto il [regio decreto-legge 26 settembre 1935, n. 1866](Aggiornamento%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20opere%20di%20integrazione.%20035U1866.md);
 
-Visto il [regio decreto-legge 21 novembre 1938, n. 2163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-21;2163);
+Visto il [regio decreto-legge 21 novembre 1938, n. 2163](Norme%20per%20la%20nomina%20e%20le%20attribuzioni%20dei%20Regi%20provveditori%20agli%20studi%20e%20per%20listituzione%20del%20Consiglio%20provinciale%20delleducazione%20e%20del%20Consiglio%20di%20disciplina%20per%20gli%20insegnanti%20elementari.%20038U2163.md);
 
-Vista la [legge 1° giugno 1942, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-06-01;675);
+Vista la [legge 1° giugno 1942, n. 675](Inquadramento%20degli%20insegnanti%20dellordine%20elementare%20nel%20gruppo%20B%20dellordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20042U0675.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -37,7 +37,7 @@ Il Provveditore agli studi sovraintende personalmente e per mezzo degli ispettor
 
 ## Art. 3.
 
-Sono abrogati gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1866#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1866#art_2) e [4 del regio decretolegge 26 settembre 1935, n. 1866](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1866#art_4) ed ogni altra disposizione contraria e comunque non compatibile con quelle del presente decreto.
+Sono abrogati gli [articoli 1](Aggiornamento%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20opere%20di%20integrazione.%20035U1866.md), [2](Aggiornamento%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20opere%20di%20integrazione.%20035U1866.md) e [4 del regio decretolegge 26 settembre 1935, n. 1866](Aggiornamento%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20opere%20di%20integrazione.%20035U1866.md) ed ogni altra disposizione contraria e comunque non compatibile con quelle del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

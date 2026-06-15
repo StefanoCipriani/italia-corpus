@@ -20,7 +20,7 @@ Viste le Condizioni e Tariffe per i trasporti delle cose sulle ferrovie dello St
 
 Visti l'[art. 40 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), e il Regio decreto-legge 7 settembre 1938-XVI, n. 1550, convertito nella legge 5 gennaio 1939-XVII, n. 23, concernenti la revisione della nomenclatura e classificazione delle cose;
 
-Visto il [R. decreto 10 settembre 1923, n. 2641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-10;2641);
+Visto il [R. decreto 10 settembre 1923, n. 2641](Modificazioni%20alle%20disposizioni%20vigenti%20in%20materia%20di%20tariffe%20ferroviarie.%20023U2641.md);
 
 Visto l'art. 18 della legge 19 gennaio 1939-XVII, n. 129;
 
@@ -92,7 +92,7 @@ Il Ministro per le comunicazioni puo' delegare al direttore generale delle Ferro
 
 ## Art. 10.
 
-Il [R. decreto 10 settembre 1923, n. 2641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-10;2641), e il R. decreto-legge 9 dicembre 1935-XIV, n. 2109, convertito nella legge 28 maggio 1936-XIV, n. 1142, sono abrogati.
+Il [R. decreto 10 settembre 1923, n. 2641](Modificazioni%20alle%20disposizioni%20vigenti%20in%20materia%20di%20tariffe%20ferroviarie.%20023U2641.md), e il R. decreto-legge 9 dicembre 1935-XIV, n. 2109, convertito nella legge 28 maggio 1936-XIV, n. 1142, sono abrogati.
 
 ## Art. 11.
 

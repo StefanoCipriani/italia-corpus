@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 17 della legge 19 dicembre 1912, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-19;1311#art_17); 
+ Visto l'[art. 17 della legge 19 dicembre 1912, n. 1311](Portante%20modificazioni%20allordinamento%20giudiziario.%20012U1311.md); 
  
  Visto il parere del Consiglio superiore della magistratura; 
  
- Visto il [R. decreto 12 novembre 1914, n. 1306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-12;1306), che determina le Corti di assise, ai presidenti delle quali e' assegnata l'indennita' disposta dall'[art. 9 della legge 18 luglio 1904, n. 402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-18;402#art_9); 
+ Visto il [R. decreto 12 novembre 1914, n. 1306](Col%20quale%20e%20concessa%20lindennita%20di%20cui%20allart.%209%20della%20legge%2018%20luglio%201904%20n.%20402%20ai%20presidenti%20di%2040%20Corti%20di%20assise.%20014U1306.md), che determina le Corti di assise, ai presidenti delle quali e' assegnata l'indennita' disposta dall'[art. 9 della legge 18 luglio 1904, n. 402](Modificazioni%20allordinamento%20giudiziario.%20004U0402.md); 
  
  Ritenuta l'opportunita' di modificare tale determinazione; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decreto e decretiamo quanto segue: 
  
- Al presidente della Corte di assise di Teramo non sara' ulteriormente assegnata l'indennita' disposta dall'[art. 9 della legge 18 luglio 1904, n. 402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-18;402#art_9). L'indennita' medesima sara' invece assegnata al presidente della Corte di assise di Treviso. 
+ Al presidente della Corte di assise di Teramo non sara' ulteriormente assegnata l'indennita' disposta dall'[art. 9 della legge 18 luglio 1904, n. 402](Modificazioni%20allordinamento%20giudiziario.%20004U0402.md). L'indennita' medesima sara' invece assegnata al presidente della Corte di assise di Treviso. 
  
  Il presente decreto ha effetto a decorrere dal 1° aprile 1916. 
  

@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8), recante nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e successive modificazioni;
 
-Visto il regolamento per l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [regio decreto 10 febbraio 1927, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-02-10;443), e successive modificazioni;
+Visto il regolamento per l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [regio decreto 10 febbraio 1927, n. 443](Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20027U0443.md), e successive modificazioni;
 
 Visto il testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [regio decreto 2 febbraio 1925, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-02;263), e successive modificazioni;
 

@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Ritenuta la necessita' di introdurre talune variazioni compensative nello stato di previsione della spesa dell'Amministrazione del fondo per il culto, per l'esercizio finanziario 1915-916, e nei bilanci degli Economati generali dei benefici vacanti per l'esercizio medesimo, anche in virtu' del [decreto Luogotenenziale 20 giugno 1915, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-20;991);
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Udito il Consiglio dei ministri;
 

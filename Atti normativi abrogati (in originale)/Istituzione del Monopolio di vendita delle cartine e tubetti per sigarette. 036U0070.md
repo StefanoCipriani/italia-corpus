@@ -157,7 +157,7 @@ I rivenditori debbono vendere le cartine e i tubetti per sigarette ai prezzi fis
  
  Un esemplare della tariffa deve essere tenuto costantemente affisso, in modo ben visibile al pubblico, nei locali di vendita. 
  
- In caso di vendita a prezzo superiore si fa luogo al ritiro della licenza, salve le pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) ove il fatto costituisca reato.
+ In caso di vendita a prezzo superiore si fa luogo al ritiro della licenza, salve le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ove il fatto costituisca reato.
 
 ## Art. 19.
 
@@ -173,7 +173,7 @@ Le disposizioni di cui agli articoli 144, n. 3, 145 ed al capo VI, sezione 5°, 
 
 ## Art. 22.
 
-Il Monopolio di vendita delle cartine e tubetti per sigarette costituisce una separata gestione dell'Amministrazione autonoma dei monopoli di Stato, per la quale valgono le disposizioni del [R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258), convertito nella [legge 6 dicembre 1928, n. 3474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;3474), e del [R. decreto 29 dicembre 1927, n. 2452](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-29;2452). 
+Il Monopolio di vendita delle cartine e tubetti per sigarette costituisce una separata gestione dell'Amministrazione autonoma dei monopoli di Stato, per la quale valgono le disposizioni del [R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258), convertito nella [legge 6 dicembre 1928, n. 3474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201927%20n.%202258%20relativo%20allautonomia%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20028U3474.md), e del [R. decreto 29 dicembre 1927, n. 2452](Determinazione%20delle%20facolta%20dellAmministrazione%20autonoma%20dei%20monopoli%20di%20Stato%20e%20delle%20attribuzioni%20del%20Consiglio%20di%20amministrazione%20e%20del%20direttore%20generale%20dellAmministrazione%20stessa.%20027U2452.md). 
  
  La entrata fiscale e' stabilita nella misura percentuale del 45 per cento sul provento lordo. 
  

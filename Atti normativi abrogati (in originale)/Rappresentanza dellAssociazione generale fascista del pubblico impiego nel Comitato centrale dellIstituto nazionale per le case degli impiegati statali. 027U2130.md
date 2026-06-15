@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 25 ottobre 1924, n. 1944](Disposizioni%20per%20fornire%20agli%20impiegati%20dello%20Stato%20civili%20e%20militari%20alloggi%20a%20condizioni%20favorevoli.%20024U1944.md), col quale e' stato creato l'Istituto nazionale per le case degli impiegati statali;
 
-Visto il [R. decreto 20 novembre 1924, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-20;1945), contenente le norme per l'esecuzione del citato R. decreto-legge 25 ottobre 1924;
+Visto il [R. decreto 20 novembre 1924, n. 1945](Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), contenente le norme per l'esecuzione del citato R. decreto-legge 25 ottobre 1924;
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

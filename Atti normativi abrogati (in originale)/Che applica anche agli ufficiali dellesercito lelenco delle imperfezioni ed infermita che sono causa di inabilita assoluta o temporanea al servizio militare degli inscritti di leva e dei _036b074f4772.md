@@ -22,7 +22,7 @@ Il ministro della guerra ha facolta' di sottoporre a nuovi accertamenti sanitari
  
  a) gli ufficiali di qualsiasi arma, corpo e categoria, appartenenti a classi di leva soggette ad obblighi di servizio militare, che siano stati dichiarati, in qualunque tempo, permanentemente inabili a qualsiasi servizio militare, o permanentemente inabili a servizio militare incondizionato; 
  
- b) gli ufficiali di qualsiasi arma o corpo, delle categorie di cui agli [art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254#art_8), [20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254#art_20) e [21 della legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254#art_21) sull'avanzamento del R. esercito, che, pur non appartenendo a classi di leva soggette ad obblighi di servizio, non abbiano pero' superati i limiti di eta' ivi stabiliti, e che siano stati dichiarati, posteriormente al 31 dicembre 1914, permanentemente inabili a qualsiasi servizio militare, o permanentemente inabili a servizio militare incondizionato.
+ b) gli ufficiali di qualsiasi arma o corpo, delle categorie di cui agli [art. 8](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), [20](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md) e [21 della legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md) sull'avanzamento del R. esercito, che, pur non appartenendo a classi di leva soggette ad obblighi di servizio, non abbiano pero' superati i limiti di eta' ivi stabiliti, e che siano stati dichiarati, posteriormente al 31 dicembre 1914, permanentemente inabili a qualsiasi servizio militare, o permanentemente inabili a servizio militare incondizionato.
 
 ## Art. 3.
 
@@ -56,7 +56,7 @@ Gli ufficiali, gia' dichiarati permanentemente inabili a qualsiasi servizio mili
 
 ## Art. 6.
 
-Gli ufficiali, gia' dichiarati permanentemente inabili a servizio militare incondizionato, saranno impiegati, nella categoria a cui appartengono, ai servizi per i quali siano riconosciuti idonei in seguito ai nuovi accertamenti, fermo restando per gli ufficiali di riserva il disposto del primo capoverso dell'[art. 6 della legge 25 gennaio 1888, n. 5177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-01-25;5177#art_6). Quelli che fossero riconosciuti permanentemente inabili a qualsiasi servizio saranno tolti dai ruoli nei modi di legge. 
+Gli ufficiali, gia' dichiarati permanentemente inabili a servizio militare incondizionato, saranno impiegati, nella categoria a cui appartengono, ai servizi per i quali siano riconosciuti idonei in seguito ai nuovi accertamenti, fermo restando per gli ufficiali di riserva il disposto del primo capoverso dell'[art. 6 della legge 25 gennaio 1888, n. 5177](Sugli%20obblighi%20di%20servizio%20degli%20ufficiali%20in%20congedo.%20088U5177.md). Quelli che fossero riconosciuti permanentemente inabili a qualsiasi servizio saranno tolti dai ruoli nei modi di legge. 
  
  Quelli che avessero ottenuto il trasferimento nella riserva in virtu' dell'[art. 5 del decreto Luogotenenziale 10 giugno 1917, n. 944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-06-10;944#art_5), e fossero riconosciuti idonei al servizio incondizionato saranno ritrasferiti nella categoria di provenienza.
 

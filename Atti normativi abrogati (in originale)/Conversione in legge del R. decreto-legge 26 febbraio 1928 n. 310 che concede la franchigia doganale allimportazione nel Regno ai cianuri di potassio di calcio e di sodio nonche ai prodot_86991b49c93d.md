@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 febbraio 1928, n. 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-26;310), col quale si concede la franchigia doganale all'importazione nel Regno ai cianuri di potassio, di sodio e di calcio, nonche' ai prodotti imbevuti di acido cianidrico, destinati ad essere impiegati nell'agricoltura. 
+ E' convertito in legge il [R. decreto-legge 26 febbraio 1928, n. 310](Franchigia%20doganale%20ai%20cianuri%20di%20potassio%20di%20sodio%20e%20di%20calcio%20nonche%20ai%20prodotti%20costituiti%20da%20materiali%20imbevuti%20di%20acido%20cianidrico%20per%20la%20distruzione%20dei%20parassiti%20delle%20piante.%20028U0310.md), col quale si concede la franchigia doganale all'importazione nel Regno ai cianuri di potassio, di sodio e di calcio, nonche' ai prodotti imbevuti di acido cianidrico, destinati ad essere impiegati nell'agricoltura. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta la necessita' urgente ed assoluta di dettare norme aggiuntive al [R. decreto-legge 3 gennaio 1926, n. 32](Provvedimenti%20in%20materia%20di%20meccanica%20agraria%20per%20il%20progresso%20della%20coltivazione%20frumentaria.%20026U0032.md), convertito in legge con la [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898), concernente provvedimenti in materia di meccanica agraria per il progresso della coltivazione frumentaria;
+Ritenuta la necessita' urgente ed assoluta di dettare norme aggiuntive al [R. decreto-legge 3 gennaio 1926, n. 32](Provvedimenti%20in%20materia%20di%20meccanica%20agraria%20per%20il%20progresso%20della%20coltivazione%20frumentaria.%20026U0032.md), convertito in legge con la [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md), concernente provvedimenti in materia di meccanica agraria per il progresso della coltivazione frumentaria;
 
 Sentito il Consiglio dei Ministri;
 

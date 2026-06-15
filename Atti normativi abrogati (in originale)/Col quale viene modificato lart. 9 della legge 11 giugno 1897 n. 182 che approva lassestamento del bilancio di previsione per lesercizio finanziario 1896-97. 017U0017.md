@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 9 della legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182#art_9); 
+ Visto l'[art. 9 della legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Ferme, in quanto applicabili, le altre disposizioni dell'[art. 9 della legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182#art_9), a decorrere dalla data di pubblicazione del presente decreto, le conferme, le sostituzioni e le cessazioni dal servizio concernenti il personale straordinario, di qualsiasi specie e comunque retribuito a carico del bilancio dello Stato, avranno luogo con decreti del ministro del tesoro emanati di concerto coi vari ministri. 
+ Ferme, in quanto applicabili, le altre disposizioni dell'[art. 9 della legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md), a decorrere dalla data di pubblicazione del presente decreto, le conferme, le sostituzioni e le cessazioni dal servizio concernenti il personale straordinario, di qualsiasi specie e comunque retribuito a carico del bilancio dello Stato, avranno luogo con decreti del ministro del tesoro emanati di concerto coi vari ministri. 
  
  Restano immutate le forme prescritte dall'articolo predetto per le nuove assunzioni consentite dalle disposizioni in vigore. 
  

@@ -22,7 +22,7 @@ UMBERTO I.
  
  Articolo unico. 
  
- E' convertito in legge il [Regio decreto del 29 marzo 1891 n. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-03-29;157) col quale e' data esecuzione nel Regno alla convenzione internazionale di Bruxelles del 5 luglio 1890 per la tradizione e pubblicazione delle tariffe doganali. 
+ E' convertito in legge il [Regio decreto del 29 marzo 1891 n. 157](Che%20da%20piena%20ed%20intera%20esecuzione%20alla%20convenzione%20internazionale%20firmata%20a%20Bruxelles%20per%20la%20traduzione%20e%20la%20pubblicazione%20delle%20tariffe%20doganali.%20091U0157.md) col quale e' data esecuzione nel Regno alla convenzione internazionale di Bruxelles del 5 luglio 1890 per la tradizione e pubblicazione delle tariffe doganali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

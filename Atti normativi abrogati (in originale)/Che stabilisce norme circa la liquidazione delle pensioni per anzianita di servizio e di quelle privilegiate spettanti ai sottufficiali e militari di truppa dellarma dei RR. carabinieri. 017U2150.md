@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), che approva il testo unico delle leggi sulle pensioni civili e militari;
 
-Viste le [leggi 6 luglio 1911, n. 690 e 31 maggio 1913, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-31;596);
+Viste le [leggi 6 luglio 1911, n. 690 e 31 maggio 1913, n. 596](Che%20porta%20disposizioni%20relative%20alla%20legge%206%20luglio%201911%20n.%20690%20riguardanti%20larma%20dei%20RR.%20carabinieri%20013U0596.md);
 
 Visto il [decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876);
 
@@ -34,7 +34,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto con q
 
 La pensione di riposo, spettante per anzianita' di servizio ai sottufficiali e ai militari di truppa dell'arma dei Reali carabinieri, sara' liquidata sulla base dell'assegno complessivo goduto durante l'ultimo anno di servizio effettivo. 
  
- Rimane fermo il disposto dell'art. 1 (16) della [legge 31 maggio 1913, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-31;596). 
+ Rimane fermo il disposto dell'art. 1 (16) della [legge 31 maggio 1913, n. 596](Che%20porta%20disposizioni%20relative%20alla%20legge%206%20luglio%201911%20n.%20690%20riguardanti%20larma%20dei%20RR.%20carabinieri%20013U0596.md). 
  
  Per i primi venti anni la pensione e' pari alla meta' dell'assegno, aumentata di un quinto. Per ciascun anno di servizio oltre il 20°, fino al 25° incluso, la pensione sara' aumentata di un venticinquesimo dell'assegno goduto durante l'ultimo anno di servizio effettivo.
 
@@ -48,11 +48,11 @@ Agli effetti della liquidazione delle pensioni privilegiate, spettanti ai sottuf
 
 ## Art. 3.
 
-Le precedenti disposizioni avranno vigore dalla data del presente decreto, restando contemporaneamente abrogati gli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;690#art_12) e [15 della legge 6 luglio 1911, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;690#art_15), e l'art. 1 (12) della [legge 31 maggio 1913, numero 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-31;596).
+Le precedenti disposizioni avranno vigore dalla data del presente decreto, restando contemporaneamente abrogati gli [articoli 12](Che%20porta%20i%20provvedimenti%20per%20larma%20dei%20carabinieri%20reali.%20011U0690.md) e [15 della legge 6 luglio 1911, n. 690](Che%20porta%20i%20provvedimenti%20per%20larma%20dei%20carabinieri%20reali.%20011U0690.md), e l'art. 1 (12) della [legge 31 maggio 1913, numero 596](Che%20porta%20disposizioni%20relative%20alla%20legge%206%20luglio%201911%20n.%20690%20riguardanti%20larma%20dei%20RR.%20carabinieri%20013U0596.md).
 
 ### Art. 4.
 
-I sottufficiali dell'arma dei Reali carabinieri che, avendo in base all'[art. 14 della legge 6 luglio 1911, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;690#art_14), optato per la legge precedente, si trovino alla data del presente decreto tuttora in servizio, e rispetto ai quali non sia stato emesso provvedimento di collocamento a riposo, potranno, nel termine di tre mesi dalla pubblicazione del decreto stesso, optare fra il trattamento di pensione determinato dai precedenti articoli 1 e 2, e quello stabilito dalle disposizioni, che erano in vigore prima della [legge 6 luglio 1911, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;690). Nel primo caso, otterranno grado ed assegno nuovi e saranno collocati a riposo entro due anni, con diritto ed una pensione pari ai sette decimi dell'assegno goduto nell'ultimo anno. 
+I sottufficiali dell'arma dei Reali carabinieri che, avendo in base all'[art. 14 della legge 6 luglio 1911, n. 690](Che%20porta%20i%20provvedimenti%20per%20larma%20dei%20carabinieri%20reali.%20011U0690.md), optato per la legge precedente, si trovino alla data del presente decreto tuttora in servizio, e rispetto ai quali non sia stato emesso provvedimento di collocamento a riposo, potranno, nel termine di tre mesi dalla pubblicazione del decreto stesso, optare fra il trattamento di pensione determinato dai precedenti articoli 1 e 2, e quello stabilito dalle disposizioni, che erano in vigore prima della [legge 6 luglio 1911, n. 690](Che%20porta%20i%20provvedimenti%20per%20larma%20dei%20carabinieri%20reali.%20011U0690.md). Nel primo caso, otterranno grado ed assegno nuovi e saranno collocati a riposo entro due anni, con diritto ed una pensione pari ai sette decimi dell'assegno goduto nell'ultimo anno. 
  
  Il presente decreto verra' presentato al Parlamento per essere convertito in legge. 
  

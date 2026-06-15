@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'articolo unico del [regio decreto-legge 28 novembre 1938, n. 2138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;2138);
+Visto l'articolo unico del [regio decreto-legge 28 novembre 1938, n. 2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md);
 
 Visto l'[art. 33, comma secondo, della legge 29 aprile 1949, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-04-29;264#art_33-com2);
 
@@ -22,7 +22,7 @@ Visto l'[art. 6, comma quinto, della legge 4 agosto 1955, n. 692](https://www.no
 
 Visto l'[art. 1, comma primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-04-14;307#art_1-com1), e l'[art. 2, comma secondo, della legge 14 aprile 1956, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-04-14;307#art_2-com2);
 
-Sentita, la Commissione centrale di cui al [decreto legislativo luogotenenziale 8 febbraio 1945, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-08;75);
+Sentita, la Commissione centrale di cui al [decreto legislativo luogotenenziale 8 febbraio 1945, n. 75](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20una%20Commissione%20centrale%20e%20di%20Commissioni%20comunali%20per%20il%20servizio%20di%20compilazione%20degli%20elenchi%20nominativi%20dei%20lavoratori%20agricoli%20e%20per%20laccertamento%20e%20riscossione%20dei%20co_f1ac89f9c6b7.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -35,7 +35,7 @@ I contributi dovuti per l'anno 1957 nel settore agricolo per le assicurazioni co
 ## Art. 2.
 
 Le misure dei contributi, come indicate nella tabella, allegata, si applicano alle giornate di lavoro accertate nei confronti delle singole aziende, a norma del [regio decreto-legge 28 novembre 1938, n. 
-2138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;2138), e delle successive disposizioni di attuazione e di modificazione. 
+2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md), e delle successive disposizioni di attuazione e di modificazione. 
  Nei confronti di quelle aziende nelle quali prestano la propria opera salariati fissi, il numero delle giornate da essi impiegate, sara' considerato, ai fini della applicazione dei contributi in 300.
 Ove i predetti salariati siano addetti promiscuamente alle colture ed al bestiame, tali giornate verranno detratte da quelle complessivamente attribuite alle aziende per la coltivazione dei fondi e per il governo e la custodia del bestiame. 
  Ove, invece, siano addetti esclusivamente alle colture od al bestiame, le 300 giornate verranno detratte rispettivamente da quelle attribuite alle colture od al bestiame. 

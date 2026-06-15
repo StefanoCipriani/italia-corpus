@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 settembre 1935, n. 1757](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-23;1757), concernente le norme per l'amministrazione e la contabilita' del Possedimento delle Isole italiane dell'Egeo. 
+ E' convertito in legge il [R. decreto-legge 23 settembre 1935, n. 1757](Norme%20per%20lamministrazione%20e%20la%20contabilita%20del%20Possedimento%20delle%20Isole%20italiane%20dellEgeo.%20035U1757.md), concernente le norme per l'amministrazione e la contabilita' del Possedimento delle Isole italiane dell'Egeo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

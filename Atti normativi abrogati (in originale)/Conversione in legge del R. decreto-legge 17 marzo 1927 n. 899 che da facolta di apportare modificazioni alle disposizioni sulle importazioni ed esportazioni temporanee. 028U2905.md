@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 marzo 1927, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-17;899), che da' facolta' di apportare modificazioni alle disposizioni sulle importazioni ed esportazioni temporanee. 
+ E' convertito in legge il [R. decreto-legge 17 marzo 1927, n. 899](Facolta%20di%20apportare%20modificazioni%20alle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20027U0899.md), che da' facolta' di apportare modificazioni alle disposizioni sulle importazioni ed esportazioni temporanee. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

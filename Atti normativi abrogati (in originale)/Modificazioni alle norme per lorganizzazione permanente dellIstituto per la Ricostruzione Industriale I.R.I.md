@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 23 gennaio 1933, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-23;5), convertito in [legge 3 maggio 1933, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-05-03;512);
+Visto il [R. decreto-legge 23 gennaio 1933, n. 5](Costituzione%20dellIstituto%20per%20la%20ricostruzione%20industriale%20con%20sede%20in%20Roma.%20033U0005.md), convertito in [legge 3 maggio 1933, n. 512](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20gennaio%201933%20n.%205%20concernente%20la%20costituzione%20dellIstituto%20per%20la%20ricostruzione%20industriale.%20033U0512.md);
 
-Visto il [R. decreto-legge 24 giugno 1937, n. 905](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-24;905), convertito nella [legge 25 aprile 1938, n. 637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-04-25;637);
+Visto il [R. decreto-legge 24 giugno 1937, n. 905](Norme%20per%20lorganizzazione%20permanente%20dellIstituto%20per%20la%20Ricostruzione%20Industriale.%20037U0905.md), convertito nella [legge 25 aprile 1938, n. 637](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20giugno%201937-XV%20n.%20905%20recante%20norme%20per%20lorganizzazione%20permanente%20dellIstituto%20per%20la%20ricostruzione%20industriale.%20038U0637.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -54,7 +54,7 @@ I due vice presidenti e i consiglieri di cui alla lettera c) del precedente art.
 ## Art. 3.
 
 E' costituito un Ufficio di presidenza composto del presidente, dei due vice presidenti e da uno dei consiglieri di cui alla lettera c) dell'art. 1 e da indicare nello stesso decreto previsto dal precedente art. 2.
- Sono attribuite all'Ufficio di presidenza le funzioni gia' spettanti alla Giunta esecutiva ai sensi dell'[art. 7 del R. decreto-legge 24 giugno 1937, n. 905](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-24;905#art_7), e in genere, nei casi di urgenza, quelle spettanti al Consiglio di amministrazione.
+ Sono attribuite all'Ufficio di presidenza le funzioni gia' spettanti alla Giunta esecutiva ai sensi dell'[art. 7 del R. decreto-legge 24 giugno 1937, n. 905](Norme%20per%20lorganizzazione%20permanente%20dellIstituto%20per%20la%20Ricostruzione%20Industriale.%20037U0905.md), e in genere, nei casi di urgenza, quelle spettanti al Consiglio di amministrazione.
  Le funzioni del presidente, in caso di sua assenza o impedimento, saranno esercitate dal vice presidente all'uopo delegato dal presidente stesso.
 
 ## Art. 4.
@@ -74,8 +74,8 @@ Il Collegio dei sindaci dell'Istituto per la Ricostruzione Industriale e' compos
 
 ## Art. 7.
 
-Il limite di lire 10 milioni di cui al [primo comma dell'art. 6 del R. decreto-legge 24 giugno 1937, n. 905](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-24;905#art_6-com1), e' elevato a lire 50 milioni e le approvazioni previste in detto comma per le operazioni di importo superiore, nonche' le approvazioni previste al successivo comma dello stesso art. 6 spettano al Ministro per il tesoro.
- Pure con decreto del Ministro per il tesoro si provvede alle approvazioni ed alle autorizzazioni previste al [secondo comma dell'art. 5 del R. decreto-legge 24 giugno 1937, n. 905](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-24;905#art_5-com2).
+Il limite di lire 10 milioni di cui al [primo comma dell'art. 6 del R. decreto-legge 24 giugno 1937, n. 905](Norme%20per%20lorganizzazione%20permanente%20dellIstituto%20per%20la%20Ricostruzione%20Industriale.%20037U0905.md), e' elevato a lire 50 milioni e le approvazioni previste in detto comma per le operazioni di importo superiore, nonche' le approvazioni previste al successivo comma dello stesso art. 6 spettano al Ministro per il tesoro.
+ Pure con decreto del Ministro per il tesoro si provvede alle approvazioni ed alle autorizzazioni previste al [secondo comma dell'art. 5 del R. decreto-legge 24 giugno 1937, n. 905](Norme%20per%20lorganizzazione%20permanente%20dellIstituto%20per%20la%20Ricostruzione%20Industriale.%20037U0905.md).
 
 ## Art. 8.
 
@@ -83,7 +83,7 @@ Con disposizione del Presidente del Consiglio dei Ministri, sentiti i Ministri i
 
 ## Art. 9.
 
-Il bilancio annuale dell'istituto per la Ricostruzione Industriale di cui all'[art. 8 del R. decreto-legge 24 giugno 1937, n. 905](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-24;905#art_8), compilato nei modi e nei termini ivi previsti, e' presentato al Ministro per il tesoro ed e' approvato dal Comitato interministeriale per la ricostruzione.
+Il bilancio annuale dell'istituto per la Ricostruzione Industriale di cui all'[art. 8 del R. decreto-legge 24 giugno 1937, n. 905](Norme%20per%20lorganizzazione%20permanente%20dellIstituto%20per%20la%20Ricostruzione%20Industriale.%20037U0905.md), compilato nei modi e nei termini ivi previsti, e' presentato al Ministro per il tesoro ed e' approvato dal Comitato interministeriale per la ricostruzione.
 
 ## Art. 10.
 
@@ -91,7 +91,7 @@ Con decreto del Presidente del Consiglio dei Ministri sara' approvato il nuovo s
 
 ## Art. 11.
 
-Sono abrogati il [primo comma dell'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-24;905#art_1-com1), l'[art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-24;905#art_3) e l'[art. 7 del R. decreto-legge 24 giugno 1937, n. 905](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-24;905#art_7), convertito in [legge 25 aprile 1938, n. 637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-04-25;637), e ogni altra disposizione contraria o incompatibile col presente decreto.
+Sono abrogati il [primo comma dell'art. 1](Norme%20per%20lorganizzazione%20permanente%20dellIstituto%20per%20la%20Ricostruzione%20Industriale.%20037U0905.md), l'[art. 3](Norme%20per%20lorganizzazione%20permanente%20dellIstituto%20per%20la%20Ricostruzione%20Industriale.%20037U0905.md) e l'[art. 7 del R. decreto-legge 24 giugno 1937, n. 905](Norme%20per%20lorganizzazione%20permanente%20dellIstituto%20per%20la%20Ricostruzione%20Industriale.%20037U0905.md), convertito in [legge 25 aprile 1938, n. 637](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20giugno%201937-XV%20n.%20905%20recante%20norme%20per%20lorganizzazione%20permanente%20dellIstituto%20per%20la%20ricostruzione%20industriale.%20038U0637.md), e ogni altra disposizione contraria o incompatibile col presente decreto.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

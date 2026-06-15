@@ -24,7 +24,7 @@ Visto il [R. decreto 26 luglio 1935, n. 1656](Nuovo%20ordinamento%20dellIstituto
 
 Visto il [R. decreto 9 agosto 1935, n. 1762](Istituzione%20del%20Centro%20di%20alti%20studi%20di%20guerra%20marittima.%20035U1762.md), riguardante la istituzione di un «Centro alti studi di guerra marittima»;
 
-Visto il [R. decreto-legge 26 settembre 1935, n. 1865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1865), convertito nella [legge 23 dicembre 1935, n. 2319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-23;2319), relativo all'imbarco di ufficiali della Regia marina su piroscafi della Marina mercantile;
+Visto il [R. decreto-legge 26 settembre 1935, n. 1865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1865), convertito nella [legge 23 dicembre 1935, n. 2319](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201865%20riguardante%20limbarco%20di%20ufficiali%20della%20Regia%20marina%20su%20piroscafi%20della%20marina%20mercantile.%20035U2319.md), relativo all'imbarco di ufficiali della Regia marina su piroscafi della Marina mercantile;
 
 Visto il testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Regia marina, approvato con [R. decreto 16 maggio 1932, n. 819](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md);
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le Opere pie ospedaliere, classificate di prima classe a norma dell'[art. 3 del R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841#art_3), che abbiano in esercizio da piu' di dieci anni farmacie interne per esclusivo servizio dell'ospedale, possono, nei Comuni con popolazione superiore ai 10.000 abitanti, essere autorizzate dal prefetto, sentito il Consiglio sanitario provinciale e la Giunta provinciale amministrativa, ad aprire e gestire farmacie in eccedenza alla pianta organica stabilita a norma dell'[art. 2 della legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), ancorche' in tali Comuni si trovino farmacie privilegiate ai sensi dell'art. 28 di detta legge.
+Le Opere pie ospedaliere, classificate di prima classe a norma dell'[art. 3 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), che abbiano in esercizio da piu' di dieci anni farmacie interne per esclusivo servizio dell'ospedale, possono, nei Comuni con popolazione superiore ai 10.000 abitanti, essere autorizzate dal prefetto, sentito il Consiglio sanitario provinciale e la Giunta provinciale amministrativa, ad aprire e gestire farmacie in eccedenza alla pianta organica stabilita a norma dell'[art. 2 della legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), ancorche' in tali Comuni si trovino farmacie privilegiate ai sensi dell'art. 28 di detta legge.
 
 ## Art. 2.
 

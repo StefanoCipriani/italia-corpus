@@ -18,13 +18,13 @@ UMBERTO DI SAVOIA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto-legge 21 giugno 1940, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-06-21;856); 
+ Visto il [R. decreto-legge 21 giugno 1940, n. 856](Norme%20per%20la%20gestione%20patrimoniale%20e%20finanziaria%20dello%20Stato%20in%20periodo%20di%20guerra.%20040U0856.md); 
  
  Visto il R. decreto 16 dicembre 1941. n. 1557, e successive modificazioni; 
  
- Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2); 
+ Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md); 
  
- Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141); 
+ Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md); 
  
  Visto il [decreto-legge Luogotenenziale 25 giugno 1914, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1914-06-25;151); 
  
@@ -36,7 +36,7 @@ UMBERTO DI SAVOIA
  
  Articolo Unico. 
  
- L'ultimo comma dell'[art. 13 del R. decreto-legge 21 giugno 1940, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-06-21;856#art_13), e' sostituito dal seguente: 
+ L'ultimo comma dell'[art. 13 del R. decreto-legge 21 giugno 1940, n. 856](Norme%20per%20la%20gestione%20patrimoniale%20e%20finanziaria%20dello%20Stato%20in%20periodo%20di%20guerra.%20040U0856.md), e' sostituito dal seguente: 
  
  «Per i lavori o forniture d'importo non superiore a L. 200.000 l'atto di collaudo puo' essere sostituito con un certificato di regolare esecuzione». 
  

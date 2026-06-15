@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 28 del testo unico sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016); 
+ Visto l'art. 28 del testo unico sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md); 
  
  Visto l'art. 51 del regolamento approvato con [R. decreto 6 maggio 1912, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-06;556), per la gestione amministrativa e contabile del Fondo per l'emigrazione; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Ritenuto che il fondo di riserva per le spese impreviste stanziato nel bilancio del Fondo per l'emigrazione per il corrente esercizio finanziario presenta una disponibilita' di L. 143.200; 
  
- Vista la [legge 3 gennaio 1918, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-01-03;4), che proroga lo esercizio provvisorio degli stati di previsione dell'entrata e della spesa del Fondo per l'emigrazione per l'esercizio finanziario 1917-918 sino a che gli stati stessi non siano approvati per legge; 
+ Vista la [legge 3 gennaio 1918, n. 4](Che%20proroga%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20del%20fondo%20dellemigrazione%20per%20lesercizio%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20siano%20app_d21241b81663.md), che proroga lo esercizio provvisorio degli stati di previsione dell'entrata e della spesa del Fondo per l'emigrazione per l'esercizio finanziario 1917-918 sino a che gli stati stessi non siano approvati per legge; 
  
  Sentito il Consiglio dei ministri; 
  

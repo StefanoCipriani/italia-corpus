@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 febbraio 1927, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-06;442), che da' esecuzione all'Accordo e relativo Protocollo, conclusi in Roma il 14 dicembre 1926, fra l'Italia e l'Austria, per la definizione di residue pendenze fra gli Uffici di verifica e compensazione italiano ed austriaco. 
+ E' convertito in legge il [R. decreto-legge 6 febbraio 1927, n. 442](Esecuzione%20dellAccordo%20e%20relativo%20Protocollo%20conclusi%20in%20Roma%20il%2014%20dicembre%201926%20fra%20lItalia%20e%20lAustria%20per%20la%20definizione%20di%20residue%20pendenze%20fra%20gli%20Uffici%20di%20verifica%20e%20compensazione%20_c5c94b2fca06.md), che da' esecuzione all'Accordo e relativo Protocollo, conclusi in Roma il 14 dicembre 1926, fra l'Italia e l'Austria, per la definizione di residue pendenze fra gli Uffici di verifica e compensazione italiano ed austriaco. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

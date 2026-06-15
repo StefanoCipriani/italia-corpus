@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduta la [legge 11 giugno 1914, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-11;503) che istituisce l'ufficio di ispettore generale degli archivi di Stato; 
+ Veduta la [legge 11 giugno 1914, n. 503](Riguardante%20i%20provvedimenti%20per%20il%20personale%20di%20educazione%20e%20di%20sorveglianza%20nei%20riformatori%20per%20il%20personale%20di%20ragioneria%20nellAmministrazione%20delle%20carceri%20e%20dei%20riformatori%20per%20il%20pers_91e5463a8f0b.md) che istituisce l'ufficio di ispettore generale degli archivi di Stato; 
  
  Veduto il [regolamento 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-10-02;1163); 
  

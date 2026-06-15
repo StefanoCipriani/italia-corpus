@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 1 del R. decreto 9 marzo 1942, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-09;335#art_1), quale risulta modificato dal [R. decreto 18 maggio 1943, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-05-18;650), e dal [decreto Luogotenenziale 7 settembre 1944, n. 274](Riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20044U0274.md), e' sostituito dal seguente: 
+L'[art. 1 del R. decreto 9 marzo 1942, n. 335](Riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20042U0335.md), quale risulta modificato dal [R. decreto 18 maggio 1943, n. 650](Modificazione%20del%20decreto%209%20marzo%201942-XX%20n.%20335%20riguardante%20il%20riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20043U0650.md), e dal [decreto Luogotenenziale 7 settembre 1944, n. 274](Riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20044U0274.md), e' sostituito dal seguente: 
  
  «La ripartizione dei servizi dell'Amministrazione centrale della guerra e' la seguente: 
  

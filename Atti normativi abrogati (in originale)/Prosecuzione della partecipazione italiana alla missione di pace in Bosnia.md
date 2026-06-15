@@ -38,14 +38,14 @@ E' autorizzata, fino al 31 dicembre 1997, la prosecuzione della partecipazione d
 
 2.
 
-Al contingente militare di cui al comma 1, anche in materia di trattamento economico, si applicano le disposizioni del [decreto-legge 1 luglio 1996, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428).
+Al contingente militare di cui al comma 1, anche in materia di trattamento economico, si applicano le disposizioni del [decreto-legge 1 luglio 1996, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201996%20n.%20346%20concernente%20partecipazione%20italiana%20alla%20missione%20di%20pace%20in%20Bosnia.md).
 
 ## Art. 2.
 
 1.
 
 All'onere derivante dall'attuazione del presente decreto, valutato in 200,598 miliardi, si provvede ai sensi dell'[articolo 1, comma 63, della legge 28 dicembre 1995,
-n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com63).
+n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md).
 
 ## Art. 3.
 

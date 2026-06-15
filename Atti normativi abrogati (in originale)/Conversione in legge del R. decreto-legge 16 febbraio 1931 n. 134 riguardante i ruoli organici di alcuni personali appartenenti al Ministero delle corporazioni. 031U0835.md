@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 febbraio 1931, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-02-16;134), che approva i ruoli organici di alcuni personali appartenenti al Ministero delle corporazioni. 
+ E' convertito in legge il [R. decreto-legge 16 febbraio 1931, n. 134](Approvazione%20dei%20ruoli%20organici%20di%20alcuni%20personali%20appartenenti%20al%20Ministero%20delle%20corporazioni.%20031U0134.md), che approva i ruoli organici di alcuni personali appartenenti al Ministero delle corporazioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

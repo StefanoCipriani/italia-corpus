@@ -202,7 +202,7 @@ L'Esattore non puo' ricusare somme a conto, sia in pagamento di rate scadute, si
 
 I pagamenti fatti all'Esattore da chi ha debito per imposte maturate s'intendono sempre fatti in isconto del debito stesso, sino a concorrenza del medesimo. 
  
- L'Esattore che imputa tali pagamenti nei suoi crediti privati, o che si appropria piu' del dovuto, oltre essere passibile delle pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), e' soggetto alla multa del decuplo delle somme indebitamente imputate o riscosse.
+ L'Esattore che imputa tali pagamenti nei suoi crediti privati, o che si appropria piu' del dovuto, oltre essere passibile delle pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' soggetto alla multa del decuplo delle somme indebitamente imputate o riscosse.
 
 ### Art. 31.
 

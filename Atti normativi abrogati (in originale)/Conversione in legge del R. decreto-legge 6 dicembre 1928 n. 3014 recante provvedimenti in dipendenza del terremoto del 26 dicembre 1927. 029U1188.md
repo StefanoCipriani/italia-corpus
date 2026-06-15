@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 dicembre 1928, n. 3014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-06;3014), recante provvedimenti in dipendenza del terremoto del 26 dicembre 1927. 
+ E' convertito in legge il [R. decreto-legge 6 dicembre 1928, n. 3014](Provvedimenti%20in%20dipendenza%20del%20terremoto%20del%2026%20dicembre%201927.%20028U3014.md), recante provvedimenti in dipendenza del terremoto del 26 dicembre 1927. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

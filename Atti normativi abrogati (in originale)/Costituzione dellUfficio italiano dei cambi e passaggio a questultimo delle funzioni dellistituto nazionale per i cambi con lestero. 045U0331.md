@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 6 gennaio 1936, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-01-06;104), contenente norme sulla riorganizzazione dell'Istituto nazionale per i cambi con l'estero;
+Visto il [R. decreto-legge 6 gennaio 1936, n. 104](Riorganizzazione%20dellIstituto%20nazionale%20per%20i%20cambi%20con%20lestero.%20036U0104.md), contenente norme sulla riorganizzazione dell'Istituto nazionale per i cambi con l'estero;
 
 Visto il [decreto legislativo Luogotenenziale 5 ottobre 1944, n. 310](Ripartizione%20dei%20servizi%20e%20del%20personale%20del%20soppresso%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20044U0310.md), riguardante la ripartizione dei servizi o del personale del soppresso Ministero per gli scambi e per le valute;
 

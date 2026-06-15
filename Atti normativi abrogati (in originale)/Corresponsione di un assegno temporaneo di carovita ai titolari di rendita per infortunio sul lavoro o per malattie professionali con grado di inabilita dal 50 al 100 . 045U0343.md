@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti il [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), il [r. decreto 15 dicembre 1936, n. 2276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-12-15;2276), e il regolamento apportato col [R. decreto 25 gennaio 1937, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-01-25;200), concernenti assicurazione obbligatoria contro gli infortuni sul lavoro e successive modificazioni;
+Visti il [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), il [r. decreto 15 dicembre 1936, n. 2276](Disposizioni%20integrative%20del%20R.%20decreto%2017%20agosto%201935-XIII%20n.%201765%20sullassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20036U2276.md), e il regolamento apportato col [R. decreto 25 gennaio 1937, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-01-25;200), concernenti assicurazione obbligatoria contro gli infortuni sul lavoro e successive modificazioni;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

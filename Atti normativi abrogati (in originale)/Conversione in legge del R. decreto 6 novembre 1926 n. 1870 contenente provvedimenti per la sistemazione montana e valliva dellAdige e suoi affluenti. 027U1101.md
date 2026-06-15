@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 novembre 1926, n. 1870](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-06;1870), contenente provvedimenti per la sistemazione montana e valliva dell'Adige e suoi affluenti. 
+ E' convertito in legge il [R. decreto-legge 6 novembre 1926, n. 1870](Provvedimenti%20per%20la%20sistemazione%20montana%20e%20valliva%20dellAdige%20e%20suoi%20affluenti.%20026U1870.md), contenente provvedimenti per la sistemazione montana e valliva dell'Adige e suoi affluenti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

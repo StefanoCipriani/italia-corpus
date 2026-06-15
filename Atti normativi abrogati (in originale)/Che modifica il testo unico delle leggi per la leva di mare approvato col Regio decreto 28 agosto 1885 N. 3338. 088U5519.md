@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 3, 49, 55, 57, 62, 65, 70, 75, 79, 84, 85, 86, 88, 96, 97, 98, 129 e 130 del testo unico delle leggi per la leva di mare, approvato col [Regio decreto 28 agosto 1885, n. 3338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-08-28;3338), sono sostituiti quelli seguenti: 
+Agli articoli 3, 49, 55, 57, 62, 65, 70, 75, 79, 84, 85, 86, 88, 96, 97, 98, 129 e 130 del testo unico delle leggi per la leva di mare, approvato col [Regio decreto 28 agosto 1885, n. 3338](Approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20085U3338.md), sono sostituiti quelli seguenti: 
  
  Art. 3. Sono soggetti alla leva marittima: 
  

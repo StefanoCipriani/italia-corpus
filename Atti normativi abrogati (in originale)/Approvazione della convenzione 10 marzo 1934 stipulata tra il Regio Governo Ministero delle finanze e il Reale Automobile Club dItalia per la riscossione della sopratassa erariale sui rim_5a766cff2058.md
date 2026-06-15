@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3283), e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e successive modificazioni;
 
 Visto il [R. decreto-legge 21 dicembre 1931, n. 1622](Approvazione%20della%20convenzione%2020%20novembre%201931%20stipulata%20tra%20il%20Governo%20ed%20il%20Reale%20Automobile%20Club%20dItalia%20per%20la%20riscossione%20delle%20tasse%20di%20circolazione%20sugli%20autoveicoli.%20031U1622.md) che approva la convenzione 20 novembre 1931 stipulata tra il Regio Governo e il Reale Automobile Club d'Italia per la riscossione delle tasse automobilistiche;
 

@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 25 gennaio 1921, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-01-25;44);
+Visto il [R. decreto 25 gennaio 1921, n. 44](recante%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche%20interne.%20021U0044.md);
 
-Visto il [R. decreto 17 dicembre 1922, n. 1638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-17;1638);
+Visto il [R. decreto 17 dicembre 1922, n. 1638](Che%20apporta%20modificazioni%20alle%20vigenti%20tariffe%20postali.%20022U1638.md);
 
-Visto il [R. decreto 27 settembre 1923, n. 2227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-27;2227);
+Visto il [R. decreto 27 settembre 1923, n. 2227](Nuove%20tariffe%20per%20le%20cartoline%20illustrate.%20023U2227.md);
 
-Visto il [R. decreto 2 dicembre 1923, n. 2993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2993);
+Visto il [R. decreto 2 dicembre 1923, n. 2993](Modificazione%20del%20R.%20decreto%2027%20settembre%201923%20n.%202227%20riguardante%20le%20tariffe%20di%20francatura%20delle%20cartoline%20illustrate.%20023U2993.md);
 
 Ritenuta l'opportunita' di modificare la tariffa di spedizione delle cartoline illustrate;
 

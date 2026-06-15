@@ -28,7 +28,7 @@ A decorrere dalla data che sara' stabilita con decreto del Ministro per il tesor
 
 ## Art. 3.
 
-L'importo, al netto di tutte le spese per la fabbricazione delle monete d'argento da lire 500 emesse, a norma degli articoli precedenti, in sostituzione dei biglietti della Banca d'Italia di pari taglio in circolazione alla data di entrata in vigore della presente legge, sara' versato alla Banca medesima in diminuzione del debito del Tesoro per anticipazioni temporanee, di cui al [decreto legislativo 21 gennaio 1948, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-21;7).
+L'importo, al netto di tutte le spese per la fabbricazione delle monete d'argento da lire 500 emesse, a norma degli articoli precedenti, in sostituzione dei biglietti della Banca d'Italia di pari taglio in circolazione alla data di entrata in vigore della presente legge, sara' versato alla Banca medesima in diminuzione del debito del Tesoro per anticipazioni temporanee, di cui al [decreto legislativo 21 gennaio 1948, n. 7](../Decreti%20Legislativi/Determinazione%20dellimporto%20delle%20anticipazioni%20temporanee%20della%20Banca%20dItalia%20al%20Tesoro%20dello%20Stato.md).
 
 ## Art. 4.
 

@@ -24,7 +24,7 @@ Il limite massimo di risconto che gli istituti di emissione hanno facolta' di co
 
 ## Art. 3.
 
-A modificazione dell'[art. 4 del R. decreto n. 1375 del 20 dicembre 1914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-12-20;1375#art_4), la Sezione ordinaria del Consorzio potra' accogliere operazioni con scadenza sino a 6 mesi, ma non potra' riscontare presso gli istituti di emissione a piu' di 4 mesi. 
+A modificazione dell'[art. 4 del R. decreto n. 1375 del 20 dicembre 1914](Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md), la Sezione ordinaria del Consorzio potra' accogliere operazioni con scadenza sino a 6 mesi, ma non potra' riscontare presso gli istituti di emissione a piu' di 4 mesi. 
  
  La Sezione ordinaria del Consorzio avra' facolta' di applicare una provvigione sulle operazioni da essa compiute.
 
@@ -34,7 +34,7 @@ Il limite delle operazioni di credito navale, stabilito in L. 225,000,000 dall'[
 
 ## Art. 5.
 
-Il contributo degli istituti di emissione al fondo di garanzia del Consorzio, Sezione ordinaria, quale e' disposto dall'[art. 8 lettera b) del R. decreto 23 maggio 1915, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;700#art_8-letb), modificato dall'[art. 2 del decreto-legge 23 settembre 1920, n. 1461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1920-09-23;1461#art_2), e dall'[art. 1 del R. decreto-legge 10 giugno 1921, n. 738](Che%20apporta%20modificazioni%20al%20R.%20decreto%2023%20maggio%201915%20n.%20700%20relativo%20al%20funzionamento%20del%20Consorzio%20per%20sovvenzioni%20su%20valori%20industriali.%20021U0738.md), sara' commisurato all'ottava parte degli utili netti che gli istituti di emissione ricaveranno dal risconto. 
+Il contributo degli istituti di emissione al fondo di garanzia del Consorzio, Sezione ordinaria, quale e' disposto dall'[art. 8 lettera b) del R. decreto 23 maggio 1915, n. 700](Che%20stabilisce%20norme%20per%20il%20funzionamento%20del%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20du%20cio%20al%20R.%20decreto%2020%20dicembre%201914%20n.%201375.%20015U0700.md), modificato dall'[art. 2 del decreto-legge 23 settembre 1920, n. 1461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1920-09-23;1461#art_2), e dall'[art. 1 del R. decreto-legge 10 giugno 1921, n. 738](Che%20apporta%20modificazioni%20al%20R.%20decreto%2023%20maggio%201915%20n.%20700%20relativo%20al%20funzionamento%20del%20Consorzio%20per%20sovvenzioni%20su%20valori%20industriali.%20021U0738.md), sara' commisurato all'ottava parte degli utili netti che gli istituti di emissione ricaveranno dal risconto. 
  
  I profitti netti del Consorzio, di che allo stesso art. 8 lettera a) del citato R. decreto n. 700, a cominciare dall'esercizio 1925, saranno destinati come appresso: 
  

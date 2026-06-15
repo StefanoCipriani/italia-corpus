@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 marzo 1932, n. 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-03-19;197), che ha dato esecuzione alla Convenzione di commercio e di navigazione tra l'Italia e la Spagna, stipulata in Roma il 15 marzo 1932. 
+ E' convertito in legge il [R. decreto-legge 19 marzo 1932, n. 197](Esecuzione%20della%20Convenzione%20di%20commercio%20e%20di%20navigazione%20fra%20lItalia%20e%20la%20Spagna.%20032U0197.md), che ha dato esecuzione alla Convenzione di commercio e di navigazione tra l'Italia e la Spagna, stipulata in Roma il 15 marzo 1932. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 3 giugno 1932 - Anno X 
  

@@ -16,11 +16,11 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 26 agosto 1927, n. 1633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-26;1633), e successive modificazioni, riguardante l'ordinamento della Regia aeronautica;
+Visto il [R. decreto 26 agosto 1927, n. 1633](Ordinamento%20della%20Regia%20accademia%20aeronautica.%20027U1633.md), e successive modificazioni, riguardante l'ordinamento della Regia aeronautica;
 
-Visto il [R. decreto 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1302), convertito nella [legge 4 aprile 1935, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;808), con le successive modificazioni, sulle indennita' dovute al personale dell'Amministrazione aeronautica;
+Visto il [R. decreto 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1302), convertito nella [legge 4 aprile 1935, n. 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md), con le successive modificazioni, sulle indennita' dovute al personale dell'Amministrazione aeronautica;
 
-Visto il [R. decreto 28 febbraio 1935, n. 447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-02-28;447), relativo alla costituzione della scuola di guerra aerea;
+Visto il [R. decreto 28 febbraio 1935, n. 447](Costituzione%20della%20Scuola%20di%20guerra%20aerea.%20035U0447.md), relativo alla costituzione della scuola di guerra aerea;
 
 Ritenuta la necessita' urgente ed assoluta di provvedere in conseguenza delle attuali eccezionali e straordinarie condizioni;
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Articolo unico.
 
-Agli insegnanti della Regia Accademia aeronautica, durante gli anni scolastici 1936-37, 1937-38, 1938-39, e' dovuto un compenso di L. 300, per anno solare, per ogni ora settimanale in piu' delle sei ore stabilite dal n. 3 della tabella annessa all'[art. 29 del R. decreto 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1302#art_29), convertito nella [legge 4 aprile 1935, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;808). 
+Agli insegnanti della Regia Accademia aeronautica, durante gli anni scolastici 1936-37, 1937-38, 1938-39, e' dovuto un compenso di L. 300, per anno solare, per ogni ora settimanale in piu' delle sei ore stabilite dal n. 3 della tabella annessa all'[art. 29 del R. decreto 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1302#art_29), convertito nella [legge 4 aprile 1935, n. 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md). 
  
  Le ore settimanali in piu' delle suddette sei ore non potranno essere superiori a nove e saranno stabilite mediante decreto del Ministro per l'aeronautica. 
  

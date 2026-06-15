@@ -84,7 +84,7 @@ Gli articoli 21, 107, 108, 164, 165 e 213 del regolamento generale 22 giugno 191
  
  3° il certificato di promozione dal secondo al terzo corso comune dei Regi Istituti di belle arti, limitatamente alle scuole per industrie artistiche; 
  
- 4° il certificato di promozione dalla terza alla quarta classe del ginnasio, ovvero la dichiarazione di idoneita' di cui all'[art. 5 della legge 27 giugno 1912, n. 678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;678#art_5), previo, in entrambi i casi, un esame di integrazione; 
+ 4° il certificato di promozione dalla terza alla quarta classe del ginnasio, ovvero la dichiarazione di idoneita' di cui all'[art. 5 della legge 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md), previo, in entrambi i casi, un esame di integrazione; 
  
  5° la licenza di una R. scuola commerciale di 2° grado, previo esame di integrazione. 
  
@@ -104,7 +104,7 @@ Istituto commerciale, sono ammessi:
  
  B) Diploma di licenza dalla scuola commerciale. 
  
- Le scuole commerciali rilasciano dopo il 3° anno di studi, un attestato del corso compiuto che sara' titolo per l'ammissione ai Regi Istituti commerciali e per l'ammissione alle scuole dipendenti dal Ministero dell'istruzione pubblica con gli esami di integrazione da stabilirsi a norma dell'[art. 4 della legge 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854#art_4). 
+ Le scuole commerciali rilasciano dopo il 3° anno di studi, un attestato del corso compiuto che sara' titolo per l'ammissione ai Regi Istituti commerciali e per l'ammissione alle scuole dipendenti dal Ministero dell'istruzione pubblica con gli esami di integrazione da stabilirsi a norma dell'[art. 4 della legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

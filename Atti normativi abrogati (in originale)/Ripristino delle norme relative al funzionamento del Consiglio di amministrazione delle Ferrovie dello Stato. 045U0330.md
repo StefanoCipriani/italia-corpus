@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429), contenente l'ordinamento dell'esercizio delle Ferrovie dello Stato, e successive modificazioni;
+Vista la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), contenente l'ordinamento dell'esercizio delle Ferrovie dello Stato, e successive modificazioni;
 
-Visto il [R. decreto-legge 22 maggio 1924, n. 868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-22;868), riguardante la istituzione del Consiglio di amministrazione e della carica di direttore generale per le Ferrovie dello Stato e successive modificazioni;
+Visto il [R. decreto-legge 22 maggio 1924, n. 868](Istituzione%20del%20Consiglio%20di%20amministrazione%20e%20della%20carica%20di%20direttore%20generale%20per%20le%20Ferrovie%20dello%20Stato.%20024U0868.md), riguardante la istituzione del Consiglio di amministrazione e della carica di direttore generale per le Ferrovie dello Stato e successive modificazioni;
 
-Visto il [R. decreto-legge 3 gennaio 1944, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-03;2), che sospende le norme relative al funzionamento del Consiglio di amministrazione delle ferrovie dello Stato, e attribuisce al Ministro per le comunicazioni i poteri del direttore generale delle Ferrovie dello Stato;
+Visto il [R. decreto-legge 3 gennaio 1944, n. 2](Sospensione%20delle%20norme%20relative%20al%20funzionamento%20del%20Consiglio%20di%20Amministrazione%20delle%20Ferrovie%20dello%20Stato%20e%20attribuzione%20al%20Ministero%20delle%20Comunicazioni%20dei%20poteri%20del%20Direttore%20Gene_1f2e751b7129.md), che sospende le norme relative al funzionamento del Consiglio di amministrazione delle ferrovie dello Stato, e attribuisce al Ministro per le comunicazioni i poteri del direttore generale delle Ferrovie dello Stato;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro Segretario di Stato per i trasporti, di intesa con i
 
 ## Art. 1.
 
-A decorrere dalla data di entrata in vigore del presente decreto cessa l'efficacia del [R. decreto-legge 3 gennaio 1944, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-03;2). 
+A decorrere dalla data di entrata in vigore del presente decreto cessa l'efficacia del [R. decreto-legge 3 gennaio 1944, n. 2](Sospensione%20delle%20norme%20relative%20al%20funzionamento%20del%20Consiglio%20di%20Amministrazione%20delle%20Ferrovie%20dello%20Stato%20e%20attribuzione%20al%20Ministero%20delle%20Comunicazioni%20dei%20poteri%20del%20Direttore%20Gene_1f2e751b7129.md). 
  
  Con la stessa data tornano in vigore le disposizioni, la cui applicazione era stata sospesa con lo stesso decreto-legge.
 

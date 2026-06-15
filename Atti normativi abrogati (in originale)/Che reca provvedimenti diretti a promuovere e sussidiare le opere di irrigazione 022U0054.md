@@ -18,7 +18,7 @@ Il Ministero di agricoltura e' autorizzato a prendere i seguenti provvedimenti, 
  
  c) a sussidiare campi sperimentali di irrigazione e sub-irrigazione; 
  
- d) a promuovere e premiare iniziative private per la maggiore estensione delle opere di irrigazione, in applicazione del testo unico delle leggi sul concorso dello Stato nelle spese per opere d'irrigazione, approvato con [Regio decreto 22 luglio 1920, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-07-22;1154); 
+ d) a promuovere e premiare iniziative private per la maggiore estensione delle opere di irrigazione, in applicazione del testo unico delle leggi sul concorso dello Stato nelle spese per opere d'irrigazione, approvato con [Regio decreto 22 luglio 1920, n. 1154](Che%20approva%20il%20testo%20unico%20delle%20leggi%20pel%20concorso%20dello%20Stato%20nelle%20spese%20per%20opere%20di%20irrigazione.%20020U1154.md); 
  
  e) a vigilare sul buon funzionamento delle opere d'irrigazione, ed a proporre, su parere della Commissione Reale per le irrigazioni, all'autorita' competente i provvedimenti di dichiarazione di decadenza dei concessionari quando venga meno la manutenzione delle opere e la utilizzazione a scopo irriguo di canali e serbatoi con danno della agricoltura e della igiene. In ogni caso e' riservata la competenza del Ministero dei lavori pubblici e dei suoi organi tecnici.
 
@@ -100,7 +100,7 @@ Gli istituti di emissione, il Consorzio di credito per le opere pubbliche, l'Ist
  
  Il contributo dello Stato, stabilito in base alle spese previste nel progetto delle opere approvato dal competente ufficio del Genio civile e dal Ministero di agricoltura, verra' liquidato a cura dell'ufficio del Genio civile sui lavori annualmente eseguiti, in proporzione all'impegno preso in base alla spesa prevista. 
  
- Le norme di cui agli [articoli 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-09;2161#art_53) e [54 del R. decreto legge 9 ottobre 1919, n. 2161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-09;2161#art_54) sono applicabili anche in materia di canali e di reti di pozzi costruiti a scopo d'irrigazione. 
+ Le norme di cui agli [articoli 53](Che%20reca%20disposizioni%20sulle%20derivazioni%20ed%20utilizzazioni%20dacque%20pubbliche%20stabilendo%20altresi%20le%20norme%20di%20giurisdizione%20e%20di%20procedura%20del%20contenzioso%20sulle%20acque%20pubbliche.%20019U2161.md) e [54 del R. decreto legge 9 ottobre 1919, n. 2161](Che%20reca%20disposizioni%20sulle%20derivazioni%20ed%20utilizzazioni%20dacque%20pubbliche%20stabilendo%20altresi%20le%20norme%20di%20giurisdizione%20e%20di%20procedura%20del%20contenzioso%20sulle%20acque%20pubbliche.%20019U2161.md) sono applicabili anche in materia di canali e di reti di pozzi costruiti a scopo d'irrigazione. 
  
  Nel caso di mutui concessi da Istituti di credito con garanzia di prima ipoteca su tutte o parte delle aree espropriate per la costruzione di opere di irrigazione, l'ipoteca s'intendera' estesa legalmente alle opere che verranno costruite; e le iscrizioni ipotecarie a garanzia dell'Istituto mutuante saranno valide in ogni caso di fronte a terzi creditori di proprietari di fondi consorziati per le opere irrigue. Tali mutui non potranno eccedere il 75 % del valore delle aree e della spesa prevista per l'esecuzione delle opere. La somministrazione delle somme mutuate avra' luogo ratealmente in base a stati di avanzamento dei lavori debitamente accertati dal competente ufficio del Genio civile.
 
@@ -120,7 +120,7 @@ Gli atti relativi alla costituzione di consorzi di irrigazione, o diretti ad est
 
 ## Art. 11.
 
-Il Governo del Re e' autorizzato a riunire e coordinare in un testo unico le disposizioni della presente legge con quelle della [legge 29 maggio 1873, n. 1787](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1787), e del testo unico approvato con [R. decreto 22 luglio 1920, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-07-22;1154). 
+Il Governo del Re e' autorizzato a riunire e coordinare in un testo unico le disposizioni della presente legge con quelle della [legge 29 maggio 1873, n. 1787](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1787), e del testo unico approvato con [R. decreto 22 luglio 1920, n. 1154](Che%20approva%20il%20testo%20unico%20delle%20leggi%20pel%20concorso%20dello%20Stato%20nelle%20spese%20per%20opere%20di%20irrigazione.%20020U1154.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, ala insorta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

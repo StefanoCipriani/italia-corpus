@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 maggio 1933, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-05-09;401), concernente il regime doganale dei vini e delle bevande alcooliche originari e provenienti da Paesi ammessi al trattamento della Nazione piu' favorita. 
+ E' convertito in legge il [R. decreto-legge 9 maggio 1933, n. 401](Regime%20doganale%20dei%20vini%20e%20delle%20bevande%20alcooliche%20originari%20e%20provenienti%20da%20Paesi%20ammessi%20al%20trattamento%20della%20Nazione%20piu%20favorita.%20033U0401.md), concernente il regime doganale dei vini e delle bevande alcooliche originari e provenienti da Paesi ammessi al trattamento della Nazione piu' favorita. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

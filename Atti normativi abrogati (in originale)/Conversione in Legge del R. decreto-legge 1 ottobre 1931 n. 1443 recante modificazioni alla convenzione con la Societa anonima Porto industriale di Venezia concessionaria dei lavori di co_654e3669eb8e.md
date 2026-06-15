@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [R. decreto-legge 1° ottobre 1931, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-01;1443), recante modificazioni alla convenzione con la Societa' anonima «Porto industriale di Venezia» concessionaria dei lavori di costruzione del nuovo porto di Venezia. 
+ E convertito in legge il [R. decreto-legge 1° ottobre 1931, n. 1443](Modificazione%20della%20convenzione%20con%20la%20Societa%20anonima%20ltltPorto%20Industriale%20di%20Venezia%20concessionaria%20dei%20lavori%20di%20costruzione%20del%20nuovo%20porto%20di%20Venezia.%20031U1443.md), recante modificazioni alla convenzione con la Societa' anonima «Porto industriale di Venezia» concessionaria dei lavori di costruzione del nuovo porto di Venezia. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 17 marzo 1932 - Anno X 
  

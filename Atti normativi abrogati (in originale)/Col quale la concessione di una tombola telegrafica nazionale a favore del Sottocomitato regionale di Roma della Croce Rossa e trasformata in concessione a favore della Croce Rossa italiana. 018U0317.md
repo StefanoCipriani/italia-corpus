@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 7 settembre 1910, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-09-07;645);
+Vista la [legge 7 settembre 1910, n. 645](Per%20la%20concessione%20di%20una%20tombola%20telegrafica%20nazionale%20a%20favore%20dei%20Sottocomitato%20regionale%20di%20Roma%20della%20Croce%20Rossa%20italiana.%20010U0645.md);
 
 Sulla proposta del ministro segretario di Stato per le finanze;
 
@@ -28,7 +28,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-La concessione fatta con la [legge 7 settembre 1910, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-09-07;645), di una tombola telegrafica nazionale di lire un milione (L. 1,000,000) a favore del Sottocomitato regionale di Roma della Croce Rossa italiana e' trasformata in concessione di una lotteria telegrafica nazionale per la stessa somma di lire un milione (L. 1,000,000) a favore della Croce Rossa italiana. 
+La concessione fatta con la [legge 7 settembre 1910, n. 645](Per%20la%20concessione%20di%20una%20tombola%20telegrafica%20nazionale%20a%20favore%20dei%20Sottocomitato%20regionale%20di%20Roma%20della%20Croce%20Rossa%20italiana.%20010U0645.md), di una tombola telegrafica nazionale di lire un milione (L. 1,000,000) a favore del Sottocomitato regionale di Roma della Croce Rossa italiana e' trasformata in concessione di una lotteria telegrafica nazionale per la stessa somma di lire un milione (L. 1,000,000) a favore della Croce Rossa italiana. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

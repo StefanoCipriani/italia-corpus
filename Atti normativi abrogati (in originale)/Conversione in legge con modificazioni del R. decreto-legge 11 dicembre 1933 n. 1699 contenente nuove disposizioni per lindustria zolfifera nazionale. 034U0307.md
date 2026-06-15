@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 dicembre 1933, n. 1699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-11;1699), contenente nuove disposizioni per l'industria zolfifera nazionale, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 11 dicembre 1933, n. 1699](Nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20033U1699.md), contenente nuove disposizioni per l'industria zolfifera nazionale, con le seguenti modificazioni: 
  
  Al comma 5° dell'art. 1, alle parole «a giudizio insindacabile dell'Ufficio» sono sostituite le seguenti: «a giudizio insindacabile del Ministero delle corporazioni». 
  

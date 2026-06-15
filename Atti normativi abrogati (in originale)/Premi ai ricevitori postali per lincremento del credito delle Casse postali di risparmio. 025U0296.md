@@ -20,11 +20,11 @@ Vista la [legge 8 luglio 1897, n. 252](Che%20costituisce%20un%20fondo%20di%20ris
 
 Vista la [legge 3 luglio 1902, n. 280](Che%20prescrive%20a%20vantaggio%20della%20Cassa%20Nazionale%20di%20previdenza%20per%20la%20vecchiaia%20e%20la%20invalidita%20degli%20operai%20il%20libretto%20della%20Cassa%20postale%20di%20risparmio%20portante%20credito%20non%20superiore%20ad%20_d604a32326be.md);
 
-Visto il [R. decreto 11 giugno 1903, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-06-11;394);
+Visto il [R. decreto 11 giugno 1903, n. 394](Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20casse%20di%20risparmio%20postali.%20003U0394.md);
 
 Visto il [testo unico 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-01-02;453);
 
-Visto il [R. decreto 20 dicembre 1914, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-12-20;1378);
+Visto il [R. decreto 20 dicembre 1914, n. 1378](Col%20quale%20e%20autorizzata%20listituzione%20dei%20libretti%20al%20portatore%20per%20depositi%20a%20risparmio%20presso%20le%20Casse%20postali.%20014U1378.md);
 
 Riconosciuta la opportunita' di dare sviluppo alle forme di incoraggiamento per la formazione, la conservazione e l'aumento del risparmio postale;
 

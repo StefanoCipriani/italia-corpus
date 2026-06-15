@@ -12,17 +12,17 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 11-ter della legge 20 novembre 1987, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-20;472#art_11ter), recante delega al Governo ad emanare appositi decreti per il riordinamento della banda musicale dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella dei componenti della banda musicale della Polizia di Stato, regolata con il [decreto del Presidente della Repubblica 30 aprile 1987, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-04-30;240);
+Visto l'[art. 11-ter della legge 20 novembre 1987, n. 472](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20settembre%201987%20n.%20387%20recante%20copertura%20finanziaria%20del%20decreto%20del%20Presidente%20della%20Repubblica%2010%20aprile%201987%20n.%20150%20di%20attuaz_cce295965b55.md), recante delega al Governo ad emanare appositi decreti per il riordinamento della banda musicale dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella dei componenti della banda musicale della Polizia di Stato, regolata con il [decreto del Presidente della Repubblica 30 aprile 1987, n. 240](../DPR/Nuovo%20ordinamento%20della%20banda%20musicale%20della%20Polizia%20di%20Stato.md);
 
-Visto l'[art. 12-bis del decreto-legge 4 ottobre 1990, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-10-04;276#art_12bis), convertito, con modificazioni, dalla [legge 30 novembre 1990, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-30;359), con il quale viene fissato un nuovo termine alla suddetta delega;
+Visto l'[art. 12-bis del decreto-legge 4 ottobre 1990, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-10-04;276#art_12bis), convertito, con modificazioni, dalla [legge 30 novembre 1990, n. 359](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%201990%20n.%20276%20recante%20aumento%20dellorganico%20del%20personale%20appartenente%20alle%20Forze%20di%20polizia%20disposizioni%20per%20lo%20snelliment_6f0f510e66a3.md), con il quale viene fissato un nuovo termine alla suddetta delega;
 
-Vista la [legge 1 marzo 1965, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-03-01;121), concernente organici, reclutamento, stato giuridico ed avanzamento del personale della banda dell'Arma dei carabinieri e dell'Aeronautica militare ed istituzione della banda dell'Esercito;
+Vista la [legge 1 marzo 1965, n. 121](Organici%20reclutamento%20stato%20giuridico%20e%20avanzamento%20del%20personale%20delle%20bande%20dellArma%20dei%20carabinieri%20e%20dellAeronautica%20militare%20ed%20istituzione%20della%20banda%20dellEsercito.md), concernente organici, reclutamento, stato giuridico ed avanzamento del personale della banda dell'Arma dei carabinieri e dell'Aeronautica militare ed istituzione della banda dell'Esercito;
 
 Vista la [legge 10 maggio 1983, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-10;212), concernente norme sul reclutamento, gli organici e l'avanzamento dei sottufficiali dell'Esercito, della Marina, dell'Aeronautica e della Guardia di finanza;
 
-Vista la [legge 6 giugno 1986, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-06;254), concernente modifiche della [legge 1 marzo 1965, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-03-01;121), e della [legge 1 maggio 1983, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-01;212), in materia di reclutamento e avanzamento del personale musicante delle Forze armate;
+Vista la [legge 6 giugno 1986, n. 254](Modifiche%20della%20legge%201%20marzo%201965%20n.%20121%20e%20della%20legge%2010%20maggio%201983%20n.%20212%20in%20materia%20di%20reclutamento%20e%20avanzamento%20del%20personale%20musicante%20delle%20Forze%20armate.md), concernente modifiche della [legge 1 marzo 1965, n. 121](Organici%20reclutamento%20stato%20giuridico%20e%20avanzamento%20del%20personale%20delle%20bande%20dellArma%20dei%20carabinieri%20e%20dellAeronautica%20militare%20ed%20istituzione%20della%20banda%20dellEsercito.md), e della [legge 1 maggio 1983, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-01;212), in materia di reclutamento e avanzamento del personale musicante delle Forze armate;
 
-Visto il [decreto del Presidente della Repubblica 30 aprile 1987, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-04-30;240), concernente il nuovo ordinamento della banda musicale della Polizia di Stato;
+Visto il [decreto del Presidente della Repubblica 30 aprile 1987, n. 240](../DPR/Nuovo%20ordinamento%20della%20banda%20musicale%20della%20Polizia%20di%20Stato.md), concernente il nuovo ordinamento della banda musicale della Polizia di Stato;
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), concernente disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
@@ -49,7 +49,7 @@ Su richiesta di enti o comitati, puo' essere autorizzata la partecipazione della
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'articolo 10, comma 3 del testo unico approvato 
  con [decreto del Presidente della Repubblica 28 dicembre 
- 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle 
+ 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge alle quali e' operato il rinvio. 
  Restano invariate il valore e l'efficacia degli atti 
  legislativi trascritti.
@@ -548,7 +548,7 @@ Gli orchestrali e l'archivista della banda dell'Arma dei carabinieri, che a giud
 
 3.
 
-Il maestro direttore della banda ed il maestro vice direttore della banda, giudicati dalle rispettive commissioni non piu' idonei, sono collocati nella riserva con diritto al trattamento economico di cui al [terzo comma dell'art. 36 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_36-com3), sullo stato degli ufficiali.
+Il maestro direttore della banda ed il maestro vice direttore della banda, giudicati dalle rispettive commissioni non piu' idonei, sono collocati nella riserva con diritto al trattamento economico di cui al [terzo comma dell'art. 36 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sullo stato degli ufficiali.
 
 4.
 
@@ -556,16 +556,16 @@ L'orchestrale della banda, giudicato dalla commissione non piu' idoneo per la pa
 
 5.
 
-Gli orchestrali e l'archivista, giudicati dalla commissione non piu' idonei, cessano di fare parte della banda e sono collocati nella riserva con diritto al trattamento economico di cui all'[art. 28 della legge 31 luglio 1954, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;599#art_28), sullo stato dei sottufficiali.
+Gli orchestrali e l'archivista, giudicati dalla commissione non piu' idonei, cessano di fare parte della banda e sono collocati nella riserva con diritto al trattamento economico di cui all'[art. 28 della legge 31 luglio 1954, n. 599](Stato%20dei%20sottufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sullo stato dei sottufficiali.
 
 Note all'[art. 27:
- La legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_27), concerne lo stato degli ufficiali dell'Esercito, della Marina e dell'Aeronautica.
+ La legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), concerne lo stato degli ufficiali dell'Esercito, della Marina e dell'Aeronautica.
  Si trascrive il testo del terzo comma dell'art. 36:
  "Art. 36. - Se trattisi di infermita' non provenienti da cause di servizio:
  a) l'ufficiale che ha venti o piu' anni di servizio effettivo consegue la pensione a norma delle vigenti disposizioni;
  b) l'ufficiale che ha meno di vent'anni di servizio effettivo, ma quindici o piu' anni di servizio utile per la pensione dei quali dodici di servizio effettivo, consegue la pensione considerando come se avesse compiuto venti anni di servizio effettivo;
  c) l'ufficiale che ha meno di quindici anni, di servizio utile per la pensione, ovvero quindici o piu' anni di detto servizio utile ma meno di dodici anni di servizio effettivo, consegue una indennita', per una volta tanto, pari a tanti ottavi degli assegni pensionabili quanti sono gli anni di servizio utile per la pensione".
- - La [legge 31 luglio 1954, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;599), concerne lo stato dei sottufficiali dell'Esercito, della Marina e dell'Aeronautica. Si trascrive il testo dell'art. 28:
+ - La [legge 31 luglio 1954, n. 599](Stato%20dei%20sottufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), concerne lo stato dei sottufficiali dell'Esercito, della Marina e dell'Aeronautica. Si trascrive il testo dell'art. 28:
  "Art. 28. - Il sottufficiale che cessa dal servizio permanente ai sensi dell'articolo precedente:
  a) se ha venti anni o piu' anni di servizio effettivo, consegue la pensione a norma delle vigenti disposizioni;
  b) se ha meno di venti anni di servizio effettivo, ma quindici o piu' anni di servizio utile per la pensione dei quali dodici di servizio effettivo, consegue la pensione considerando come se avesse compiuto venti anni di servizio effettivo;
@@ -608,10 +608,10 @@ L'avanzamento dell'ufficiale maestro vice direttore della banda dell'Arma dei ca
 
 2.
 
-Il predetto ufficiale e' valutato dai superiori gerarchici a norma dell'[art. 13 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_13), al compimento dell'anzianita' di grado prevista dalla tabella E annessa al presente decreto. L'eventuale eccedenza e' riassorbita con la prima vacanza.
+Il predetto ufficiale e' valutato dai superiori gerarchici a norma dell'[art. 13 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), al compimento dell'anzianita' di grado prevista dalla tabella E annessa al presente decreto. L'eventuale eccedenza e' riassorbita con la prima vacanza.
 
 Nota all'[art. 30:
- - La legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_30), concerne l'avanzamento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica. Si trascrive l'art. 13:
+ - La legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), concerne l'avanzamento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica. Si trascrive l'art. 13:
  "Art. 13. - Il comandante generale dell'Arma dei carabinieri quando non faccia parte della commissione superiore di avanzamento dell'Esercito ai sensi dell'art. 12, primo comma, lettera b), interviene con voto deliberativo allorche' la valutazione riguardi gli ufficiali dell'Arma stessa".
 
 ### Art. 31. — Progressione di carriera dei sottufficiali
@@ -649,10 +649,10 @@ Il maestro vice direttore, dopo quattro anni e sei mesi dalla nomina a capitano,
 
 2.
 
-Nei confronti dell'ufficiale maestro vice direttore non si applica il disposto di cui al [comma 7 dell'art. 1 del decreto-legge 16 settembre 1987, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379#art_1-com7), convertito con modificazioni dalla [legge 14 novembre 1987, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468).
+Nei confronti dell'ufficiale maestro vice direttore non si applica il disposto di cui al [comma 7 dell'art. 1 del decreto-legge 16 settembre 1987, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379#art_1-com7), convertito con modificazioni dalla [legge 14 novembre 1987, n. 468](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20379%20recante%20misure%20urgenti%20per%20la%20concessione%20di%20miglioramenti%20economici%20al%20personale%20militare%20e%20per%20la%20riliq_fcacd0f4fecc.md).
 
 Nota all'[art. 32:
- Il D.L. 16 settembre 1987, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379#art_32), convertito con modificazioni dalla [legge 14 novembre 1987, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468), riguarda la concessione di miglioramenti economici al personale militare e la liquidazione delle pensioni dei dirigenti civili e militari dello Stato e del personale ad essi collegato ed equiparato. Si trascrive il testo dell'art. 1, comma 7: "7. In caso di promozione o nomina a grado o qualifica superiore, nell'ambito dello stesso livello retributivo, viene attribuito uno scatto aggiuntivo del 2,50 per cento dello stipendio in godimento da riassorbirsi solo in caso di promozione o di nomina al grado o qualifica che comporta il passaggio al livello retributivo superiore. A tutto il personale militare senza distinzione per il ruolo di appartenenza, compreso quello dell'Arma dei carabinieri e del Corpo della guardia di finanza con trattamento stipendiale inferiore a quello spettante al pari grado, avente pari o minore anzianita' di servizio, ma promosso successivamente, e' attribuito nel tempo lo stesso trattamento stipendiale di quest'ultimo; tale norma non si applica tra il personale delle tre Forze armate e quello delle Forze militari di polizia".
+ Il D.L. 16 settembre 1987, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379#art_32), convertito con modificazioni dalla [legge 14 novembre 1987, n. 468](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20379%20recante%20misure%20urgenti%20per%20la%20concessione%20di%20miglioramenti%20economici%20al%20personale%20militare%20e%20per%20la%20riliq_fcacd0f4fecc.md), riguarda la concessione di miglioramenti economici al personale militare e la liquidazione delle pensioni dei dirigenti civili e militari dello Stato e del personale ad essi collegato ed equiparato. Si trascrive il testo dell'art. 1, comma 7: "7. In caso di promozione o nomina a grado o qualifica superiore, nell'ambito dello stesso livello retributivo, viene attribuito uno scatto aggiuntivo del 2,50 per cento dello stipendio in godimento da riassorbirsi solo in caso di promozione o di nomina al grado o qualifica che comporta il passaggio al livello retributivo superiore. A tutto il personale militare senza distinzione per il ruolo di appartenenza, compreso quello dell'Arma dei carabinieri e del Corpo della guardia di finanza con trattamento stipendiale inferiore a quello spettante al pari grado, avente pari o minore anzianita' di servizio, ma promosso successivamente, e' attribuito nel tempo lo stesso trattamento stipendiale di quest'ultimo; tale norma non si applica tra il personale delle tre Forze armate e quello delle Forze militari di polizia".
 
 ### Art. 33. — Trattamento economico degli orchestrali e dell'archivista
 
@@ -662,19 +662,19 @@ Agli orchestrali e all'archivista e' corrisposto il trattamento economico di cui
 
 2.
 
-Nei confronti dei medesimi non si applica il disposto di cui al [comma 7 dell'art. 1 del decreto-legge 16 settembre 1987, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379#art_1-com7), convertito con modificazioni dalla [legge 14 novembre 1987, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468).
+Nei confronti dei medesimi non si applica il disposto di cui al [comma 7 dell'art. 1 del decreto-legge 16 settembre 1987, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379#art_1-com7), convertito con modificazioni dalla [legge 14 novembre 1987, n. 468](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20379%20recante%20misure%20urgenti%20per%20la%20concessione%20di%20miglioramenti%20economici%20al%20personale%20militare%20e%20per%20la%20riliq_fcacd0f4fecc.md).
 
 Nota all'[art. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379#art_33):
- - Per l'[art. 1, comma 7, del D.L. 16 settembre 1987, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379#art_1-com7), convertito, con modificazioni dalla [legge 14 novembre 1987, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468), si veda la nota all'art. 32.
+ - Per l'[art. 1, comma 7, del D.L. 16 settembre 1987, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379#art_1-com7), convertito, con modificazioni dalla [legge 14 novembre 1987, n. 468](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20379%20recante%20misure%20urgenti%20per%20la%20concessione%20di%20miglioramenti%20economici%20al%20personale%20militare%20e%20per%20la%20riliq_fcacd0f4fecc.md), si veda la nota all'art. 32.
 
 ### Art. 34. — Divieto di perequazione
 
 1.
 
-Il disposto di cui al [comma 7 dell'art. 1 del decreto-legge 16 settembre 1987, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379#art_1-com7), convertito con modificazioni dalla [legge 14 novembre 1987, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468), non si applica tra il personale dell'Arma dei carabinieri e quello della banda, ne' tra gli appartenenti alla stessa banda.
+Il disposto di cui al [comma 7 dell'art. 1 del decreto-legge 16 settembre 1987, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379#art_1-com7), convertito con modificazioni dalla [legge 14 novembre 1987, n. 468](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20379%20recante%20misure%20urgenti%20per%20la%20concessione%20di%20miglioramenti%20economici%20al%20personale%20militare%20e%20per%20la%20riliq_fcacd0f4fecc.md), non si applica tra il personale dell'Arma dei carabinieri e quello della banda, ne' tra gli appartenenti alla stessa banda.
 
 Nota all'[art. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379#art_34):
- - Per l'[art. 1, comma 7, del D.L. 16 settembre 1987, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379#art_1-com7), convertito, con modificazioni dalla [legge 14 novembre 1987, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468), si veda la nota all'art. 32.
+ - Per l'[art. 1, comma 7, del D.L. 16 settembre 1987, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379#art_1-com7), convertito, con modificazioni dalla [legge 14 novembre 1987, n. 468](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20379%20recante%20misure%20urgenti%20per%20la%20concessione%20di%20miglioramenti%20economici%20al%20personale%20militare%20e%20per%20la%20riliq_fcacd0f4fecc.md), si veda la nota all'art. 32.
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
@@ -688,7 +688,7 @@ Il personale della banda dell'Arma dei carabinieri, anche se trattenuto oltre il
 
 2.
 
-Il nuovo inquadramento degli orchestrali avviene in relazione allo strumento suonato ed al periodo complessivo di servizio prestato nel ruolo della banda, nella parte o qualifica corrispondente, secondo i criteri indicati nella tabella H annessa al presente decreto, conservando ai fini della progressione economica di cui alla tabella G l'anzianita' di servizio maturata alla data di entrata in vigore della [legge 20 novembre 1987, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-20;472), con la quale e' stato convertito, con modificazioni, il [decreto-legge 21 settembre 1987, n. 
+Il nuovo inquadramento degli orchestrali avviene in relazione allo strumento suonato ed al periodo complessivo di servizio prestato nel ruolo della banda, nella parte o qualifica corrispondente, secondo i criteri indicati nella tabella H annessa al presente decreto, conservando ai fini della progressione economica di cui alla tabella G l'anzianita' di servizio maturata alla data di entrata in vigore della [legge 20 novembre 1987, n. 472](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20settembre%201987%20n.%20387%20recante%20copertura%20finanziaria%20del%20decreto%20del%20Presidente%20della%20Repubblica%2010%20aprile%201987%20n.%20150%20di%20attuaz_cce295965b55.md), con la quale e' stato convertito, con modificazioni, il [decreto-legge 21 settembre 1987, n. 
 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387).
 
 3.
@@ -704,7 +704,7 @@ Il maestro vice direttore della banda dell'Arma dei carabinieri, vincitore del r
 Per il nuovo inquadramento del personale di cui al presente articolo si procede d'ufficio entro novanta giorni dall'entrata in vigore del presente decreto.
 
 Nota all'[art. 35:
- - La legge 20 novembre 1987, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-20;472#art_35), con la quale e' stato convertito, con modificazioni, il [decreto-legge 21 settembre 1987, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387), reca copertura finanziaria del [D.P.R. 10 aprile 1987, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-04-10;150), di attuazione dell'accordo contrattuale triennale relativo al personale della Polizia di Stato ed estensione agli altri Corpi di polizia.
+ - La legge 20 novembre 1987, n. 472](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20settembre%201987%20n.%20387%20recante%20copertura%20finanziaria%20del%20decreto%20del%20Presidente%20della%20Repubblica%2010%20aprile%201987%20n.%20150%20di%20attuaz_cce295965b55.md), con la quale e' stato convertito, con modificazioni, il [decreto-legge 21 settembre 1987, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387), reca copertura finanziaria del [D.P.R. 10 aprile 1987, n. 150](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2013%20febbraio%201987%20per%20il%20personale%20della%20Polizia%20di%20Stato.md), di attuazione dell'accordo contrattuale triennale relativo al personale della Polizia di Stato ed estensione agli altri Corpi di polizia.
 
 ### Art. 36. — Inquadramento del personale effettivo della banda impiegato in parti superiori
 

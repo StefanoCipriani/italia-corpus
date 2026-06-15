@@ -26,7 +26,7 @@ La quota annua autorizzata con l'[art. 4 della legge 12 giugno 1930, n. 800](Sta
 
 ## Art. 5.
 
-Le disposizioni dell'art. 20 del testo unico concernente l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato col [R. decreto 2 febbraio 1928, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263), sono estese, in relazione al disposto dal successivo art. 44, ai capitoli riguardanti le spese del materiale e della mano d'opera dei Regi arsenali militari marittimi; i relativi prelevamenti non potranno eccedere, durante l'esercizio 1931-32, la somma di L.
+Le disposizioni dell'art. 20 del testo unico concernente l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato col [R. decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono estese, in relazione al disposto dal successivo art. 44, ai capitoli riguardanti le spese del materiale e della mano d'opera dei Regi arsenali militari marittimi; i relativi prelevamenti non potranno eccedere, durante l'esercizio 1931-32, la somma di L.
 4.000.000. 
  I capitoli a favore dei quali, nell'esercizio 1931-32, potranno operarsi prelevamenti dal fondo a disposizione di cui ai succitati articoli, sono quelli descritti nell'annessa tabella A. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 

@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'[art. 1 del regio decreto legislativo 14 maggio 1946, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-14;384#art_1);
+Visto l'[art. 1 del regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
 
-Visti gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;490#art_1) e [7 del regio decreto legislativo 31 maggio 1946, n. 490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;490#art_7);
+Visti gli [articoli 1](Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md) e [7 del regio decreto legislativo 31 maggio 1946, n. 490](Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md);
 
 Sulla proposta del Ministro per la marina militare, di concerto con il Ministro per il tesoro; Decreta:
 
 ## Art. 1.
 
-Le aliquote dei contrammiragli e quelle degli ufficiali superiori ed inferiori in servizio permanente effettivo e del ruolo speciale di complemento della Marina militare, che possono essere collocati in ausiliaria o dispensati dal servizio, per la prima applicazione del [regio decreto legislativo 14 maggio 1946, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-14;384), e del [regio decreto legislativo 31 maggio 1946, n. 490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;490), sono fissate, per ciascun Corpo e grado, come segue:
+Le aliquote dei contrammiragli e quelle degli ufficiali superiori ed inferiori in servizio permanente effettivo e del ruolo speciale di complemento della Marina militare, che possono essere collocati in ausiliaria o dispensati dal servizio, per la prima applicazione del [regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e del [regio decreto legislativo 31 maggio 1946, n. 490](Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md), sono fissate, per ciascun Corpo e grado, come segue:
 
 
  UFFICIALI IN SERVIZIO PERMANENTE EFFETTIVO

@@ -20,7 +20,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re colla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re colla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Sentito il Consiglio superiore di marina; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- L'art. 134 del regolamento per l'avanzamento dei corpi militari della R. marina, nella dizione che risulta approvata col [R. decreto 28 dicembre 1911, n.1438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-28;1438), e col [decreto Luogotenenziale 12 settembre 1915, n. 1400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-09-12;1400), e' sostituito dal seguente: 
+ L'art. 134 del regolamento per l'avanzamento dei corpi militari della R. marina, nella dizione che risulta approvata col [R. decreto 28 dicembre 1911, n.1438](Col%20quale%20vengono%20modificati%20gli%20articoli%20134%20e%20135%20del%20regolamento%20per%20lavanzamento%20nei%20corpi%20militari%20della%20R.%20marina%20durante%20lo%20stato%20di%20guerra.%20011U1438.md), e col [decreto Luogotenenziale 12 settembre 1915, n. 1400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-09-12;1400), e' sostituito dal seguente: 
  
  Art. 134. - Le promozioni straordinarie per merito di guerra avranno luogo su proposta del ministro della marina, previo favorevole parere di una Commissione, la quale, trattandosi di ufficiali di vascello o del Corpo Reale equipaggi, o di capi di 1ª classe del Corpo Reale equipaggi (esclusi i macchinisti di classe), e' composta del capo di stato maggiore della marina, del presidente del Consiglio superiore di marina e del segretario generale del Ministero della marina. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-19;561#art_3), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-19;561#art_8), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-19;561#art_10), [11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-19;561#art_11), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-19;561#art_14), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-19;561#art_16), [18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-19;561#art_18), [21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-19;561#art_21), [23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-19;561#art_23) e [32 del R. decreto-legge 19 aprile 1925, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-19;561#art_32), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), sono rispettivamente modificati nel modo seguente: 
+Gli [articoli 3](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md), [8](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md), [10](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md), [11](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md), [14](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md), [16](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md), [18](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md), [21](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md), [23](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md) e [32 del R. decreto-legge 19 aprile 1925, n. 561](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), sono rispettivamente modificati nel modo seguente: 
  
  Art. 3. - Il patrimonio della Cassa e' formato: 
  
@@ -20,7 +20,7 @@ Gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decr
  
  c) dalle ritenute sulle pensioni liquidate dalla Cassa di previdenza agli ufficiali giudiziari iscritti, nella misura del 2 per cento dell'ammontare delle pensioni stesse; 
  
- d) dall'ammontare dei capitali risultanti dai conti individuali, con i relativi interessi composti, esistenti all'andata in vigore del [R. decreto-legge 19 aprile 1925, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-19;561); 
+ d) dall'ammontare dei capitali risultanti dai conti individuali, con i relativi interessi composti, esistenti all'andata in vigore del [R. decreto-legge 19 aprile 1925, n. 561](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md); 
  
  e) dai lasciti, dalle donazioni e da qualsiasi altro provvedimento straordinario; 
  
@@ -106,7 +106,7 @@ Gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decr
 
 ## Art. 2.
 
-A decorrere dal 1° gennaio 1930, la riduzione di cui all'[art. 44 del R. decreto-legge 19 aprile 1925, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-19;561#art_44), sulle quote teoriche di pensione relative ai servizi prestati dagli ufficiali giudiziari iscritti alla Cassa di previdenza prima della data di attuazione del suddetto Regio decreto-legge e' stabilita nelle seguenti misure: 
+A decorrere dal 1° gennaio 1930, la riduzione di cui all'[art. 44 del R. decreto-legge 19 aprile 1925, n. 561](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md), sulle quote teoriche di pensione relative ai servizi prestati dagli ufficiali giudiziari iscritti alla Cassa di previdenza prima della data di attuazione del suddetto Regio decreto-legge e' stabilita nelle seguenti misure: 
  
  40 per cento per gli iscritti che alla data predetta avevano non piu' di dieci anni compiuti di servizio utile; 
  
@@ -160,7 +160,7 @@ A decorrere dal 1° gennaio 1930 sono iscritti all'Opera di previdenza dei perso
 
 ## Art. 6.
 
-L'accertamento o la riscossione dei contributi dovuti all'Opera di previdenza, di cui all'articolo precedente, avranno luogo con le norme fissate per i contributi personali dovuti alla Cassa di previdenza degli ufficiali giudiziari dal titolo III del [R. decreto-legge 19 aprile 1925, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-19;561), e dal titolo III del [R. decreto 25 giugno 1926, n. 1149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-25;1149). 
+L'accertamento o la riscossione dei contributi dovuti all'Opera di previdenza, di cui all'articolo precedente, avranno luogo con le norme fissate per i contributi personali dovuti alla Cassa di previdenza degli ufficiali giudiziari dal titolo III del [R. decreto-legge 19 aprile 1925, n. 561](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md), e dal titolo III del [R. decreto 25 giugno 1926, n. 1149](Disposizioni%20complementari%20integrative%20e%20regolamentari%20per%20lesecuzione%20del%20Regio%20decreto-legge%2019%20aprile%201925%20n.%20561%20concernente%20lordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20agl_b1db50cd3f58.md). 
  
  L'ammontare del contributo dovuto da ciascun ufficiale giudiziario a favore dell'Opera sara' indicato a parte negli elenchi generali e nei ruoli di riscossione relativi alla Cassa di previdenza predetta.
 

@@ -16,9 +16,9 @@ RE D ITALIA
 
 Veduto l'atto costitutivo dell'Istituto di Credito delle Casse di risparmio in data 12 dicembre 1919;
 
-Veduta la legge 15 luglio 1888 (serie 3ª) n. 5546 sull'ordinamento della Casse di risparmio e il regola mento approvato col [R. decreto 21 gennaio 1897, numero 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-01-21;43);
+Veduta la legge 15 luglio 1888 (serie 3ª) n. 5546 sull'ordinamento della Casse di risparmio e il regola mento approvato col [R. decreto 21 gennaio 1897, numero 43](Che%20approva%20il%20nuovo%20Regolamento%20per%20lesecuzione%20della%20legge%20sulle%20Casse%20di%20risparmio.%20097U0043.md);
 
-Veduto il [R. decreto 23 ottobre 1921, n. 1546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-10-23;1546), col quale fu eretto in Ente morale il detto Istituto e ne fu approvato il relativo statuto;
+Veduto il [R. decreto 23 ottobre 1921, n. 1546](Erezioni%20in%20Ente%20morale.%20021U1546.md), col quale fu eretto in Ente morale il detto Istituto e ne fu approvato il relativo statuto;
 
 Ritenuta la opportunita' di chiarire ed integrare il richiamato decreto, per quanto riguarda la partecipazione delle Casse di risparmio;
 

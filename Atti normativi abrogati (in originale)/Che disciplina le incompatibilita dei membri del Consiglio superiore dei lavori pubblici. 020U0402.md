@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'art. 44 del testo unico delle leggi sull'ordinamento del R. corpo del genio civile, approvato con [R. decreto 3 settembre 1906, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-09-03;522); 
+ Visto l'art. 44 del testo unico delle leggi sull'ordinamento del R. corpo del genio civile, approvato con [R. decreto 3 settembre 1906, n. 522](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md); 
  
- Visto l'art. 7 del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;693); 
+ Visto l'art. 7 del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md); 
  
  Ritenuta la necessita' di meglio disciplinare le incompatibilita' dei membri del Consiglio superiore dei lavori pubblici; 
  

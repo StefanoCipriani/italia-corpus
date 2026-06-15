@@ -55,7 +55,7 @@ All'esecuzione del censimento nei Comuni provvederanno i sindaci, assistiti da C
 
 Per l'accertamento delle contravvenzioni alle disposizioni degli [articoli 6](Concernente%20il%20VI%20censimento%20generale%20della%20popolazione%20del%20Regno.%20021U0457.md) e [10 della legge 7 aprile 1921, n. 457](Concernente%20il%20VI%20censimento%20generale%20della%20popolazione%20del%20Regno.%20021U0457.md) basta, sino a prova contraria, la deposizione, asseverata con giuramento nelle 24 ore dinanzi al sindaco, di uno degli agenti del Comune o di uno degli agenti della forza pubblica, contemplati dal [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) del Regno d'Italia. 
  
- Fino a tanto che lo stesso non sara' entrato in vigore nei territori annessi, agli agenti quivi contemplati s'intendono sostituite le persone indicate nel [paragrafo 68 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_par68) austriaco. 
+ Fino a tanto che lo stesso non sara' entrato in vigore nei territori annessi, agli agenti quivi contemplati s'intendono sostituite le persone indicate nel [paragrafo 68 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco. 
  
  Si' prima che dopo la detta deposizione il sindaco chiama i contravventori avanti di se' con la parte lesa per tentare la conciliazione. Il verbale di conciliazione, acconsentito e firmato da ambo le parti col sindaco, esclude ogni procedimento 
  

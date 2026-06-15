@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'[articolo 3 del regio decreto-legge 1 maggio 1924, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-01;653#art_3), e' abrogato.
+L'[articolo 3 del regio decreto-legge 1 maggio 1924, n. 653](Disposizioni%20concernenti%20gli%20istituti%20medi%20di%20istruzione.%20024U0653.md), e' abrogato.
 
 ## Art. 2.
 

@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'art. 1 del Nostro decreto in data 27 agosto 1916, n. 1055, e la tabella allegata al decreto medesimo; 
  
- Vista la [legge 9 luglio 1916, n. 814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-07-09;814); 
+ Vista la [legge 9 luglio 1916, n. 814](Che%20proroga%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lanno%20finanziario%201916-917%20fino%20quando%20non%20siano%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%20_cbe86bff6c88.md); 
  
  Sulla proposta del ministro segretario di Stato per il tesoro, di concerto con quello per la istruzione pubblica; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  a) Allo stanziamento dei seguenti capitoli sono apportati gli aumenti per ognuno indicati: 
  
- Cap. 180. - La denominazione e' variata come segue: «Corsi di perfezionamento istituiti presso l'Universita' per i licenziati dalle scuole - Spesa sulla speciale assegnazione in bilancio e spese alle quali si provvedera' con i proventi delle tesse istituite con la [legge 24 dicembre 1904, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-12-24;689)» lire ottantasettemilatrecento (L. 87,300). 
+ Cap. 180. - La denominazione e' variata come segue: «Corsi di perfezionamento istituiti presso l'Universita' per i licenziati dalle scuole - Spesa sulla speciale assegnazione in bilancio e spese alle quali si provvedera' con i proventi delle tesse istituite con la [legge 24 dicembre 1904, n. 689](Che%20modifica%20il%20ruolo%20organico%20degli%20ispettori%20scolastici.%20004U0689.md)» lire ottantasettemilatrecento (L. 87,300). 
  
  Cap. 282. - Somma da versare conto corrente istituito presso la Cassa depositi e prestiti per l'acquisto eventuale di cose d'arte e di antichita' ecc., lire centonovantacinquemilacinquecentoquaranta (L. 195.540) 
  
@@ -42,7 +42,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Cap. 169. - Istituti d'istruzione universitaria - Spesa alla quale si, provvedeva coi fondi proventi dai diritti di segreteria, ecc., lire dodicimilaseicentottanta (L. 12.680). 
  
- Cap. 173. - Scuola di agraria annessa alla R. Universita' di Bologna - Spesa alla quale si provvedeva con i proventi di cui alla [legge 9 giugno 1901, n.289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-06-09;289) ecc., lire undicimilaottocentocinquanta (L. 11.850). 
+ Cap. 173. - Scuola di agraria annessa alla R. Universita' di Bologna - Spesa alla quale si provvedeva con i proventi di cui alla [legge 9 giugno 1901, n.289](Istituzione%20di%20una%20Scuola%20agraria%20presso%20la%20R.%20Universita%20di%20Bologna.%20001U0289.md) ecc., lire undicimilaottocentocinquanta (L. 11.850). 
  
  Cap. 176. - RR. Universita' ed altri Istituti di istruzione universitaria - Spesa alla quale si provvedeva con i maggiori proventi delle tasse universitarie ecc., lire un milione settantaseimilaquattrocentotrenta (L. 1,76.430). 
  

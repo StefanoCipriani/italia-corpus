@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 dicembre 1926, n. 2295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-19;2295), recante provvedimenti per l'impiego dell'alcool come carburante, aggiungendo, in fine dell'art. 1, il seguente comma: 
+ E' convertito in legge il [R. decreto-legge 19 dicembre 1926, n. 2295](Provvedimenti%20per%20limpiego%20dellalcool%20come%20carburante.%20026U2295.md), recante provvedimenti per l'impiego dell'alcool come carburante, aggiungendo, in fine dell'art. 1, il seguente comma: 
  
  «g) di disporre che il maggior quantitativo di alcool venga assegnato a quei fabbricanti di carburante il cui prodotto sia composto di elementi di produzione e fabbricazione nazionale». 
  

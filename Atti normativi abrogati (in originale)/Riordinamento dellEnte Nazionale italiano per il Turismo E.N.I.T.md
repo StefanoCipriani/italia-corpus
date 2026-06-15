@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 10 della legge 31 luglio 1959, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-31;617#art_10), istitutiva del Ministero del turismo e dello spettacolo;
+Visto l'[art. 10 della legge 31 luglio 1959, n. 617](Istituzione%20del%20Ministero%20del%20turismo%20e%20dello%20spettacolo.md), istitutiva del Ministero del turismo e dello spettacolo;
 
-Udito il parere della Commissione parlamentare di cui all'[art. 10 della legge 31 luglio 1959, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-31;617#art_10);
+Udito il parere della Commissione parlamentare di cui all'[art. 10 della legge 31 luglio 1959, n. 617](Istituzione%20del%20Ministero%20del%20turismo%20e%20dello%20spettacolo.md);
 
 Sentito il Consiglio dei Ministri;
 

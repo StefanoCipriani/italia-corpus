@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 18 maggio 1942, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-18;566);
+Vista la [legge 18 maggio 1942, n. 566](Riordinamento%20degli%20Enti%20economici%20dellagricoltura%20e%20dei%20Consorzi%20agrari.%20042U0566.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -70,7 +70,7 @@ Le norme sulla gestione amministrativo contabile e sull'organizzazione dei servi
 
 ## Art. 8.
 
-Gli Enti economici dell'agricoltura (Ente economico della cerealicoltura, Ente economico delle fibre tessili, Ente economico della olivicoltura, Ente economico della ortoflorofrutticoltura, Ente economico della pastorizia, Ente economico della viticoltura, Ente economico della zootecnia), e l'Associazione fra i detti enti, istituiti con la [legge 18 maggio 1942, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-18;566), sono soppressi. 
+Gli Enti economici dell'agricoltura (Ente economico della cerealicoltura, Ente economico delle fibre tessili, Ente economico della olivicoltura, Ente economico della ortoflorofrutticoltura, Ente economico della pastorizia, Ente economico della viticoltura, Ente economico della zootecnia), e l'Associazione fra i detti enti, istituiti con la [legge 18 maggio 1942, n. 566](Riordinamento%20degli%20Enti%20economici%20dellagricoltura%20e%20dei%20Consorzi%20agrari.%20042U0566.md), sono soppressi. 
  
  Con decreto del Ministro per l'agricoltura e per le foreste saranno nominati uno o piu' commissari per la liquidazione dei patrimoni degli Enti suindicati. La destinazione delle attivita' residuate dalla liquidazione sara' determinata con successivo provvedimento, da emanarsi su proposta del Ministro per l'agricoltura e per le foreste di concerto con il Ministro per il tesoro. 
  
@@ -80,13 +80,13 @@ Gli Enti economici dell'agricoltura (Ente economico della cerealicoltura, Ente e
 
 ## Art. 9.
 
-Sono aboliti i contributi previsti dall'[art. 13 della legge 18 maggio 1942, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-18;566#art_13), nonche' quelli previsti dagli [articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-18;987#art_15), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-18;987#art_16) e [17 della legge 18 giugno 1931, n. 987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-18;987#art_17). 
+Sono aboliti i contributi previsti dall'[art. 13 della legge 18 maggio 1942, n. 566](Riordinamento%20degli%20Enti%20economici%20dellagricoltura%20e%20dei%20Consorzi%20agrari.%20042U0566.md), nonche' quelli previsti dagli [articoli 15](Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20031U0987.md), [16](Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20031U0987.md) e [17 della legge 18 giugno 1931, n. 987](Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20031U0987.md). 
  
  Tuttavia il Ministro per l'agricoltura e per le foreste, di concerto con quello per il tesoro, e' autorizzato a consentirne, su proposta del commissario liquidatore competente, la parziale o totale applicazione provvisoria fino a concorrenza del passivo dei rispettivi bilanci degli Enti e di quello che potra' risultare dalla liquidazione degli Enti stessi. 
  
  Salvo quanto disposto dall'art. 2, con successivo provvedimento legislativo sara' indicato se e quali dei compiti gia' attribuiti agli Enti soppressi dovranno essere devoluti agli Ispettorati provinciali dell'agricoltura. 
  
- Sino all'emanazione di tale provvedimento, i compiti indicati nelle [lettere b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-18;566#art_8-letb) e [c) dell'art. 8 della legge 18 maggio 1942, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-18;566#art_8-letc), sono affidati agli ispettori predetti.
+ Sino all'emanazione di tale provvedimento, i compiti indicati nelle [lettere b)](Riordinamento%20degli%20Enti%20economici%20dellagricoltura%20e%20dei%20Consorzi%20agrari.%20042U0566.md) e [c) dell'art. 8 della legge 18 maggio 1942, n. 566](Riordinamento%20degli%20Enti%20economici%20dellagricoltura%20e%20dei%20Consorzi%20agrari.%20042U0566.md), sono affidati agli ispettori predetti.
 
 ## Art. 10.
 
@@ -96,8 +96,8 @@ Il personale in servizio alla data di entrata in vigore del presente provvedimen
  
  La liquidazione del personale degli Enti economici dell'agricoltura e dell'Associazione tra i detti enti, non trattenuto in servizio dall'U.N.S.E.A., dovra' essere effettuata applicando i seguenti criteri: 
  a) per il personale gia' in servizio presso gli Enti che vennero assorbiti dalla Federazione nazionale dei Consorzi provinciali tra i produttori dell'agricoltura, dai Settori, dai Consorzi o dalle relative Sezioni e che fu successivamente mantenuto in servizio anche dagli Enti economici dell'agricoltura o dalla loro Associazione, l'indennita' di licenziamento deve essere determinata alla stregua delle norme contenute nei regolamenti ed ordinamenti dei rispettivi enti di provenienza; 
- b) per personale assunto dalla Federazione nazionale dei Consorzi provinciali tra i produttori dell'agricoltura, dai Settori, dai Consorzi e dalle Sezioni, licenziato alla data in cui cessarono di funzionare tali Enti e successivamente riassunto dagli Enti economici dell'agricoltura e dalla loro Associazione, l'indennita' di licenziamento sara' determinata per il periodo anteriore all'entrata in vigore della [legge 18 maggio 1942, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-18;566), applicando le disposizioni dell'art. 42 della legge stessa e per il periodo successivo con l'osservanza delle norme contenute nel [R. decreto-legge 13 novembre 1924, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-13;1825), convertito nella [legge 18 maggio 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-18;562), e successive modificazioni; 
- c) per il personale direttamente assunto dagli Enti economici dell'agricoltura o dalla loro Associazione l'indennita' di licenziamento sara' liquidata con le norme di cui al citato [R. decreto-legge 13 novembre 1924, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-13;1825), e successive modificazioni.
+ b) per personale assunto dalla Federazione nazionale dei Consorzi provinciali tra i produttori dell'agricoltura, dai Settori, dai Consorzi e dalle Sezioni, licenziato alla data in cui cessarono di funzionare tali Enti e successivamente riassunto dagli Enti economici dell'agricoltura e dalla loro Associazione, l'indennita' di licenziamento sara' determinata per il periodo anteriore all'entrata in vigore della [legge 18 maggio 1942, n. 566](Riordinamento%20degli%20Enti%20economici%20dellagricoltura%20e%20dei%20Consorzi%20agrari.%20042U0566.md), applicando le disposizioni dell'art. 42 della legge stessa e per il periodo successivo con l'osservanza delle norme contenute nel [R. decreto-legge 13 novembre 1924, n. 1825](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md), convertito nella [legge 18 maggio 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-18;562), e successive modificazioni; 
+ c) per il personale direttamente assunto dagli Enti economici dell'agricoltura o dalla loro Associazione l'indennita' di licenziamento sara' liquidata con le norme di cui al citato [R. decreto-legge 13 novembre 1924, n. 1825](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md), e successive modificazioni.
 
 ## Art. 11.
 
@@ -133,7 +133,7 @@ Il Ministero dell'agricoltura e delle foreste, per il recupero delle somme antic
 
 ## Art. 16.
 
-Rimangono in vigore tutte le altre disposizioni della [legge 18 maggio 1942, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-18;566), che non contrastino con quelle stabilite con il presente decreto legislativo.
+Rimangono in vigore tutte le altre disposizioni della [legge 18 maggio 1942, n. 566](Riordinamento%20degli%20Enti%20economici%20dellagricoltura%20e%20dei%20Consorzi%20agrari.%20042U0566.md), che non contrastino con quelle stabilite con il presente decreto legislativo.
 
 ## Art. 17.
 

@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 3 della legge 15 settembre 1964, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-09-15;755#art_3), sulla regolamentazione della vendita a rate;
+Visto l'[art. 3 della legge 15 settembre 1964, n. 755](Regolamentazione%20della%20vendita%20a%20rate.md), sulla regolamentazione della vendita a rate;
 
-Visto il [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1966-12-31;1175), registrato alla Corte dei conti il 7 gennaio 1967, registro n. 208, foglio n. 92, sulla sospensione della regolamentazione della vendita a rate per gli autoveicoli, i motoveicoli, gli elettrodomestici e gli apparecchi radioriceventi e televisivi;
+Visto il [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1175](../DPR/Applicazione%20dellart.%203%20della%20legge%2015%20settembre%201964%20n.%20755%20per%20la%20proroga%20della%20sospensione%20della%20regolamentazione%20della%20vendita%20a%20rate%20degli%20autoveicoli%20degli%20elettrodomestici%20e%20degli%20_e0a828ea276e.md), registrato alla Corte dei conti il 7 gennaio 1967, registro n. 208, foglio n. 92, sulla sospensione della regolamentazione della vendita a rate per gli autoveicoli, i motoveicoli, gli elettrodomestici e gli apparecchi radioriceventi e televisivi;
 
 Visto l'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per l'industria, il commercio e l'artigianato, di co
 
 ## Art. 1.
 
-E' prorogata fino al 31 dicembre 1969 la esclusione dell'applicabilita' della disciplina, di cui alla [legge 15 settembre 1964, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-09-15;755), disposta, per gli autoveicoli, i motoveicoli, gli elettrodomestici e gli apparecchi radioriceventi e televisivi con [decreto presidenziale 31 dicembre 1966, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1966-12-31;1175).
+E' prorogata fino al 31 dicembre 1969 la esclusione dell'applicabilita' della disciplina, di cui alla [legge 15 settembre 1964, n. 755](Regolamentazione%20della%20vendita%20a%20rate.md), disposta, per gli autoveicoli, i motoveicoli, gli elettrodomestici e gli apparecchi radioriceventi e televisivi con [decreto presidenziale 31 dicembre 1966, n. 1175](../DPR/Applicazione%20dellart.%203%20della%20legge%2015%20settembre%201964%20n.%20755%20per%20la%20proroga%20della%20sospensione%20della%20regolamentazione%20della%20vendita%20a%20rate%20degli%20autoveicoli%20degli%20elettrodomestici%20e%20degli%20_e0a828ea276e.md).
 
 ## Art. 2.
 

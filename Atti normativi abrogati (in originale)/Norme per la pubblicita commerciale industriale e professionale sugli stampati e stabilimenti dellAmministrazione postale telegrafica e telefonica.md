@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visti i [regi decreti-legge 23 aprile 1925, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-23;520), e [14 giugno 1925, n. 884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-06-14;884), rispettivamente convertiti nelle [leggi 21 marzo 1926, n. 597, e 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562), costitutivi dell'Azienda autonoma delle poste dei telegrafi e di quella dei telefoni;
+Visti i [regi decreti-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), e [14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), rispettivamente convertiti nelle [leggi 21 marzo 1926, n. 597, e 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), costitutivi dell'Azienda autonoma delle poste dei telegrafi e di quella dei telefoni;
 
-Visto il [regio decreto-legge 7 maggio 1925, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-05-07;584), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), con il quale venne stabilito il divieto di ogni forma di pubblicita' negli uffici e sugli stampati dell'Amministrazione postale e telegrafica;
+Visto il [regio decreto-legge 7 maggio 1925, n. 584](Abrogazione%20delle%20disposizioni%20sulla%20pubblicita%20commerciale%20industriale%20e%20professionale%20sulle%20cose%20di%20pertinenza%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20025U0584.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), con il quale venne stabilito il divieto di ogni forma di pubblicita' negli uffici e sugli stampati dell'Amministrazione postale e telegrafica;
 
-Visto Part. 12 del [regio decreto 16 dicembre 1929, n. 2185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-16;2185), col quale veniva autorizzata la deroga al divieto di cui sopra, a favore dell'Istituto di assicurazione e previdenza per i titolari degli uffici secondari, per i ricevitori postali telegrafici e per gli agenti rurali;
+Visto Part. 12 del [regio decreto 16 dicembre 1929, n. 2185](Modificazioni%20ed%20aggiunte%20ad%20alcune%20norme%20attualmente%20in%20vigore%20per%20gli%20uffici%20secondari%20le%20ricevitorie%20postali%20telegrafiche%20le%20agenzie%20i%20servizi%20rurali%20e%20lIstituto%20di%20assicurazione%20e%20pre_56be68810878.md), col quale veniva autorizzata la deroga al divieto di cui sopra, a favore dell'Istituto di assicurazione e previdenza per i titolari degli uffici secondari, per i ricevitori postali telegrafici e per gli agenti rurali;
 
 Visto il [decreto-legge luogotenenziale 2 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-02;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Art. 1.
 
-Il [regio decreto-legge 7 maggio 1925, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-05-07;584), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' abrogato.
+Il [regio decreto-legge 7 maggio 1925, n. 584](Abrogazione%20delle%20disposizioni%20sulla%20pubblicita%20commerciale%20industriale%20e%20professionale%20sulle%20cose%20di%20pertinenza%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20025U0584.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' abrogato.
 
 ## Art. 2.
 
@@ -47,7 +47,7 @@ Con decreto Ministeriale saranno fissate le modalita' per la concessione ai priv
 
 ## Art. 5.
 
-Sono abrogate le disposizioni contenute nell'[art. 12 del regio decreto 16 dicembre 1929, n. 2185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-16;2185#art_12), e nell'art. 2 del regolamento di esecuzione dei titoli I e II del Libro 1° dei Codice postale e delle telecomunicazioni, approvato con il [regio decreto 18 aprile 1940, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-18;689).
+Sono abrogate le disposizioni contenute nell'[art. 12 del regio decreto 16 dicembre 1929, n. 2185](Modificazioni%20ed%20aggiunte%20ad%20alcune%20norme%20attualmente%20in%20vigore%20per%20gli%20uffici%20secondari%20le%20ricevitorie%20postali%20telegrafiche%20le%20agenzie%20i%20servizi%20rurali%20e%20lIstituto%20di%20assicurazione%20e%20pre_56be68810878.md), e nell'art. 2 del regolamento di esecuzione dei titoli I e II del Libro 1° dei Codice postale e delle telecomunicazioni, approvato con il [regio decreto 18 aprile 1940, n. 689](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md).
  All'Istituto cauzioni e quiescenza per i ricevitori postali e telegrafici e' concessa, a compenso della perdita dei proventi derivanti dall'esercizio della pubblicita' di cui agli articoli precedenti, ad esso affidata dalle disposizioni abrogate a norma del precedente comma, una sovvenzione annua di L. 2.000.000 con decorrenza dal 10 gennaio 1946.
  L'onere di tale sovvenzione fara' carico allo stato di previsione della spesa, del bilancio dell'Azienda autonoma delle poste e dei telegrafi.
 

@@ -14,7 +14,7 @@ Fino al 30 giugno 1947 sono decuplicati i limiti di spesa stabiliti dagli [artic
 
 ## Art. 2.
 
-Dal 1° luglio 1946 cessano di aver vigore le norme di cui al [R. decreto-legge 21 giugno 1940, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-06-21;856), convertito, con modificazioni, nella [legge 21 ottobre 1940, n. 1518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-21;1518).
+Dal 1° luglio 1946 cessano di aver vigore le norme di cui al [R. decreto-legge 21 giugno 1940, n. 856](Norme%20per%20la%20gestione%20patrimoniale%20e%20finanziaria%20dello%20Stato%20in%20periodo%20di%20guerra.%20040U0856.md), convertito, con modificazioni, nella [legge 21 ottobre 1940, n. 1518](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2021%20giugno%201940-XVIII%20n.%20856%20contenente%20le%20norme%20per%20la%20gestione%20patrimoniale%20e%20finanziaria%20dello%20Stato%20in%20periodo%20di%20guerra.%20040U1518.md).
  Con successivo provvedimento legislativo saranno emanate le disposizioni transitorie occorrenti per il passaggio dalla gestione patrimoniale e finanziaria regolata dalle norme richiamate nel comma precedente a quella disciplinata dalle disposizioni ordinarie.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

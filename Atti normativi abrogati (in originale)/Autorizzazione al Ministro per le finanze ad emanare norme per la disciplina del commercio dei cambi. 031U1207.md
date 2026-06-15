@@ -28,7 +28,7 @@ E' data facolta' al Ministro per le finanze di emanare con propri decreti provve
 
 ## Art. 2.
 
-Lo stesso Ministro determinera' le ammende e le altre penalita' per i trasgressori nei limiti indicati nell'[art. 5 del R. decreto 10 giugno 1926, n. 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-10;942#art_5).
+Lo stesso Ministro determinera' le ammende e le altre penalita' per i trasgressori nei limiti indicati nell'[art. 5 del R. decreto 10 giugno 1926, n. 942](Concessione%20di%20alcune%20agevolazioni%20nelle%20contrattazioni%20in%20cambi.%20026U0942.md).
 
 ## Art. 3.
 

@@ -10,19 +10,19 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021), che approva il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile;
+Visto il [regio decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), che approva il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile;
 
-Visto il [regio decreto-legge 20 settembre 1926, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-20;1643), riguardante sgravi e riduzioni in materia di imposte dirette;
+Visto il [regio decreto-legge 20 settembre 1926, n. 1643](Abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bellico%20nonche%20sgravi%20e%20riduzioni%20in%20materia%20di%20imposte%20dirette%20e%20nuove%20norme%20p_7c52aec11706.md), riguardante sgravi e riduzioni in materia di imposte dirette;
 
-Visto il [regio decreto-legge 18 settembre 1934, n. 1465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-18;1465), relativo all'applicazione della imposta di ricchezza mobile sugli interessi dipendenti dalle obbligazioni emesse dalle societa' per azioni;
+Visto il [regio decreto-legge 18 settembre 1934, n. 1465](Disposizioni%20in%20materia%20di%20applicazione%20dellimposta%20di%20ricchezza%20mobile%20sugli%20interessi%20dipendenti%20dalle%20obbligazioni%20emesse%20dalle%20Societa%20per%20azioni.%20034U1465.md), relativo all'applicazione della imposta di ricchezza mobile sugli interessi dipendenti dalle obbligazioni emesse dalle societa' per azioni;
 
-Visto il [regio decreto 30 dicembre 1923, n. 3269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3269), che approva il testo della legge del registro;
+Visto il [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo della legge del registro;
 
-Vista la [legge 25 giugno 1943, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-06-25;540), sulle imposte ipotecarie;
+Vista la [legge 25 giugno 1943, n. 540](Nuovo%20testo%20della%20legge%20sulle%20imposte%20ipotecarie.%20043U0540.md), sulle imposte ipotecarie;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per le finanze, di concerto con il Ministro per il b
 
 ## Art. 1.
 
-Per gli interessi delle obbligazioni emesse dalle societa' per azioni e dalle societa' in accomandita per azioni sottoscritte dopo la data di pubblicazione del presente decreto e fino al 31 dicembre 1949, e' ripristinata l'esenzione dalla imposta, di ricchezza mobile disposta dall'[art. 10 del regio decreto-legge 20 settembre 1926, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-20;1643#art_10), convertito nella [legge 2 giugno 1927, n. 883](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-02;883), gia' sospesa col [regio decreto-legge 18 settembre 1934, n. 1465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-18;1465), convertito nella [legge 6 aprile 1935, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-06;647).
+Per gli interessi delle obbligazioni emesse dalle societa' per azioni e dalle societa' in accomandita per azioni sottoscritte dopo la data di pubblicazione del presente decreto e fino al 31 dicembre 1949, e' ripristinata l'esenzione dalla imposta, di ricchezza mobile disposta dall'[art. 10 del regio decreto-legge 20 settembre 1926, n. 1643](Abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bellico%20nonche%20sgravi%20e%20riduzioni%20in%20materia%20di%20imposte%20dirette%20e%20nuove%20norme%20p_7c52aec11706.md), convertito nella [legge 2 giugno 1927, n. 883](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-02;883), gia' sospesa col [regio decreto-legge 18 settembre 1934, n. 1465](Disposizioni%20in%20materia%20di%20applicazione%20dellimposta%20di%20ricchezza%20mobile%20sugli%20interessi%20dipendenti%20dalle%20obbligazioni%20emesse%20dalle%20Societa%20per%20azioni.%20034U1465.md), convertito nella [legge 6 aprile 1935, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-06;647).
 
 ## Art. 2.
 

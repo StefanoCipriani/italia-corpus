@@ -38,7 +38,7 @@ E' approvata la tabella A annessa al presente decreto, contenente l'elenco degli
 
 ## Art. 5.
 
-Per la direzione di detta scuola e per l'insegnamento nella medesima si provvede, salvo quanto e' stabilito agli articoli 8 e 9, con la destinazione in colonia di personale dei ruoli delle scuole medie del Regno, collocato a disposizione del Ministero delle colonie da quello della istruzione pubblica, con le norme stabilite dal [R. decreto 15 gennaio 1914, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-15;56), e dalle relative disposizioni regolamentari, approvate con [decreto Luogotenenziale 17 ottobre 1915, n. 1809](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-17;1809). 
+Per la direzione di detta scuola e per l'insegnamento nella medesima si provvede, salvo quanto e' stabilito agli articoli 8 e 9, con la destinazione in colonia di personale dei ruoli delle scuole medie del Regno, collocato a disposizione del Ministero delle colonie da quello della istruzione pubblica, con le norme stabilite dal [R. decreto 15 gennaio 1914, n. 56](col%20quale%20viene%20approvato%20lordinamento%20scolastico%20della%20Tripolitana%20e%20della%20Cirenaica.%20014U0056.md), e dalle relative disposizioni regolamentari, approvate con [decreto Luogotenenziale 17 ottobre 1915, n. 1809](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-17;1809). 
  
  Per l'insegnamento di quelle materie che non fanno parte dei programmi degli Istituti dipendenti dal Ministero dell'istruzione, si puo' provvedere con la destinazione in Colonia, con le norme precitate, in quanto applicabili, di personale di ruolo di una delle scuole medie commerciali del Regno, previo consenso del rispettivo Consiglio d'amministrazione.
 
@@ -46,7 +46,7 @@ Per la direzione di detta scuola e per l'insegnamento nella medesima si provvede
 
 In caso di necessita', per le materie indicate nel paragrafo I della tabella A annessa al presente decreto, puo' essere assunto personale supplente, purche' fornito di tutti i requisiti richiesti dalle leggi e dai regolamenti del Regno per gli incarichi delle scuole medie. 
  
- I supplenti assunti ai sensi del comma precedente hanno l'obbligo di 16 ore settimanali di insegnamento; ad essi saranno corrisposti, oltre il rimborso delle spese personali di viaggio (2ª classe in ferrovia e 1ª classe sui piroscafi) un compenso mensile di L. 250 ed una indennita' coloniale di pari somma, a decorrere questa dal giorno dell'arrivo in colonia. Le ore di lezione che essi fossero obbligati d'impartire in piu' dell'orario, saranno retribuite a parte, nella misura stabilita dalla tabella C della [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679). 
+ I supplenti assunti ai sensi del comma precedente hanno l'obbligo di 16 ore settimanali di insegnamento; ad essi saranno corrisposti, oltre il rimborso delle spese personali di viaggio (2ª classe in ferrovia e 1ª classe sui piroscafi) un compenso mensile di L. 250 ed una indennita' coloniale di pari somma, a decorrere questa dal giorno dell'arrivo in colonia. Le ore di lezione che essi fossero obbligati d'impartire in piu' dell'orario, saranno retribuite a parte, nella misura stabilita dalla tabella C della [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md). 
  
  L'indennita' coloniale e' ridotta della meta' per i supplenti assunti sul luogo.
 
@@ -56,7 +56,7 @@ L'insegnamento della lingua araba e' affidato dal ministro delle colonie a perso
 
 ## Art. 8.
 
-Per le materie comprese nei paragrafi 3 e 4 dell'annessa tabella A il relativo incarico e', anno per anno, affidato con decreto del ministro delle colonie, a personale tratto dall'elemento locale, e possibilmente fornito del richiesto titolo di abilitazione; ad esso verra' corrisposto un compenso mensile, secondo il numero delle ore effettive di insegnamento impartite, da liquidarsi nella misura della [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679). 
+Per le materie comprese nei paragrafi 3 e 4 dell'annessa tabella A il relativo incarico e', anno per anno, affidato con decreto del ministro delle colonie, a personale tratto dall'elemento locale, e possibilmente fornito del richiesto titolo di abilitazione; ad esso verra' corrisposto un compenso mensile, secondo il numero delle ore effettive di insegnamento impartite, da liquidarsi nella misura della [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md). 
  
  La retribuzione spettante agli insegnanti, a norma del comma precedente, sara' aumentata di un quarto, qualora, calcolata in base al numero delle ore di insegnamento stabilito nel piano degli studi, per le rispettive materie, risulti inferiore a lire cinquanta mensili.
 
@@ -88,7 +88,7 @@ La misura delle tasse di ammissione, di frequenza, di licenza e di diploma e' de
 
 ## Art. 14.
 
-Per le materie non esplicitamente previste nel presente decreto sono estese alla nuova scuola commerciale, in quanto applicabili, le disposizioni contenute nel [R. decreto 15 gennaio 1914, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-15;56) e nel [decreto Luogotenenziale 17 ottobre 1915, n. 1809](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-17;1809), riguardanti le altre scuole medie della Libia.
+Per le materie non esplicitamente previste nel presente decreto sono estese alla nuova scuola commerciale, in quanto applicabili, le disposizioni contenute nel [R. decreto 15 gennaio 1914, n. 56](col%20quale%20viene%20approvato%20lordinamento%20scolastico%20della%20Tripolitana%20e%20della%20Cirenaica.%20014U0056.md) e nel [decreto Luogotenenziale 17 ottobre 1915, n. 1809](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-17;1809), riguardanti le altre scuole medie della Libia.
 
 ## Art. 15.
 

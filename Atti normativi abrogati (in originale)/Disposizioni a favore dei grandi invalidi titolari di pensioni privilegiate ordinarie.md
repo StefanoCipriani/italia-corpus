@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -22,7 +22,7 @@ PROMULGA Il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-A favore dei titolari di pensioni o assegni privilegiati ordinari di prima categoria, militari o civili, che siano affetti da una invalidita' compresa nella tabella E allegata alla [legge 19 febbraio 1942, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-19;137), e' concesso, in aggiunta al trattamento ad essi spettante in base alle vigenti disposizioni, un assegno di superinvalidita' nella seguente misura:
+A favore dei titolari di pensioni o assegni privilegiati ordinari di prima categoria, militari o civili, che siano affetti da una invalidita' compresa nella tabella E allegata alla [legge 19 febbraio 1942, n. 137](Miglioramenti%20alle%20otto%20categorie%20di%20pensioni%20del%20mutilati%20ed%20invalidi%20di%20guerra.%20042U0137.md), e' concesso, in aggiunta al trattamento ad essi spettante in base alle vigenti disposizioni, un assegno di superinvalidita' nella seguente misura:
 
  lettera A annue . . . . . . . . . . . . . . . . . . . . . L. 49.800 lettera A-bis annue . . . . . . . . . . . . . . . . . . . L. 44.175 lettera B annue . . . . . . . . . . . . . . . . . . . . . L. 38.550 lettera C annue . . . . . . . . . . . . . . . . . . . . . L. 30.675 lettera D annue . . . . . . . . . . . . . . . . . . . . . L. 27.000 lettera E annue . . . . . . . . . . . . . . . . . . . . . L. 24.450 lettera F annue . . . . . . . . . . . . . . . . . . . . . L. 18.075 lettera G annue. . . . . . . . . . . . . . . . . . . . . . L. 8.550
 
@@ -34,7 +34,7 @@ A favore dei titolari di pensioni o assegni privilegiati ordinari di prima categ
  a L. 240.000 annue per coloro che all'atto della cessazione dal servizio appartenevano alle restanti categorie di personali militari o civili.
  L'assegno integrativo temporaneo di cui al precedente comma e' pari alla differenza fra i suddetti importi rispettivamente di L. 264.000, L. 252.000 o L. 240.000 e il trattamento dovuto a titolo di pensione o assegno, di caroviveri e di assegno suppletivo.
  Nei casi in cui in dipendenza dell'evento che ha dato luogo alla liquidazione della pensione o dell'assegno privilegiato spetti anche il trattamento di infortunio, devesi tenere conto pure di tale trattamento nello stabilire l'assegno integrativo temporaneo eventualmente dovuto.
- Ai fini dell'applicazione del presente articolo, per coloro che sono cessati dal servizio prima dell'attuazione dell'ordinamento gerarchico di cui al [regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), si ha riguardo, ove sia il caso, al grado di assimilazione attribuito in sede di applicazione del [regio decreto-legge 13 agosto 1926, n. 1431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1431).
+ Ai fini dell'applicazione del presente articolo, per coloro che sono cessati dal servizio prima dell'attuazione dell'ordinamento gerarchico di cui al [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), si ha riguardo, ove sia il caso, al grado di assimilazione attribuito in sede di applicazione del [regio decreto-legge 13 agosto 1926, n. 1431](Disposizioni%20a%20favore%20dei%20pensionati%20delle%20Amministrazioni%20dello%20Stato.%20026U1431.md).
 
 ## Art. 3.
 
@@ -46,7 +46,7 @@ L'indennita' rimane sospesa quando l'invalido sia ricoverato in luoghi di cura.
 ## Art. 4.
 
 Le disposizioni degli articoli precedenti e quella contenuta nell'[art. 1 del decreto legislativo del Capo provvisorio dello Stato 31 luglio 1947, n. 810](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-31;810#art_1), sono applicabili, dalle rispettive decorrenze, anche agli ex salariati titolari di pensioni speciali liquidate in base all'[art. 23 del regio decreto-legge 31 dicembre 1925, n. 2383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-12-31;2383#art_23), e agli ex agenti delle Ferrovie dello Stato titolari di pensioni eccezionali. I predetti ex salariati ed ex agenti per aver diritto all'assegno suppletivo di cui all'art. 1 del citato decreto n. 810 debbono essere affetti da una invalidita' ascrivibile alla prima categoria della tabella A.
- annessa alla [legge 19 febbraio 1942, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-19;137), e per aver titolo ai benefici previsti dai precedenti articoli 1, 2 e 3 devono trovarsi nelle condizioni di invalidita' richieste dagli articoli medesimi.
+ annessa alla [legge 19 febbraio 1942, n. 137](Miglioramenti%20alle%20otto%20categorie%20di%20pensioni%20del%20mutilati%20ed%20invalidi%20di%20guerra.%20042U0137.md), e per aver titolo ai benefici previsti dai precedenti articoli 1, 2 e 3 devono trovarsi nelle condizioni di invalidita' richieste dagli articoli medesimi.
  Per gli ex agenti delle Ferrovie dello Stato, ai fini dell'applicazione del precedente art. 2, il trattamento di L. 261.000 si osserva, per coloro che all'atto della cessazione dal servizio rivestivano il grado 9° ferroviario o un grado superiore, quello di L. 252.000 per coloro che rivestivano il grado 10° e quello di L. 240.000 per coloro che rivestivano un grado inferiore al 10°.
 
 ## Art. 5.

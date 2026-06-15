@@ -38,7 +38,7 @@ Per l'attuazione delle disposizioni contenute nel presente articolo, le societa'
 
 1.
 
-I minori introiti derivanti dalla riduzione di cui al presente decreto sono rimborsati alle societa' concessionarie nel limite di lire 10.500 milioni per l'anno 1995, a valere sui maggiori introiti affluiti al Fondo centrale di garanzia per le autostrade e le ferrovie metropolitane, ai sensi dell'[articolo 11, comma 2, della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_11-com2), a suo tempo accantonati per il decongestionamento della circolazione. I criteri e le modalita' di rimborso sono fissati con decreto del Ministro dei trasporti e della navigazione, di concerto con i Ministri del tesoro e dei lavori pubblici, da emanarsi entro trenta giorni dalla data di entrata in vigore del presente decreto.
+I minori introiti derivanti dalla riduzione di cui al presente decreto sono rimborsati alle societa' concessionarie nel limite di lire 10.500 milioni per l'anno 1995, a valere sui maggiori introiti affluiti al Fondo centrale di garanzia per le autostrade e le ferrovie metropolitane, ai sensi dell'[articolo 11, comma 2, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), a suo tempo accantonati per il decongestionamento della circolazione. I criteri e le modalita' di rimborso sono fissati con decreto del Ministro dei trasporti e della navigazione, di concerto con i Ministri del tesoro e dei lavori pubblici, da emanarsi entro trenta giorni dalla data di entrata in vigore del presente decreto.
 
 ## Art. 3.
 

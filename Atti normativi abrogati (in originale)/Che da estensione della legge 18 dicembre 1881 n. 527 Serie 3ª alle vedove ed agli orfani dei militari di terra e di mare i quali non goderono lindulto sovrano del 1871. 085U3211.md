@@ -22,7 +22,7 @@ La suddetta legge 18 dicembre 1881 e' estesa, con uguale decorrenza;
  
  a) alle vedove ed agli orfani dei militari di truppa dell'esercito, ai quali sia stata fatta applicazione dei Regi decreti 27 luglio e 9 dicembre 1871, n. 381 e 590 (serie 2ª); 
  
- b) alle vedove ed agli orfani dei militari di truppa della marina, ai quali sia stata fatta applicazione del [Regio decreto 17 settembre 1871, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1871-09-17;477) (serie 2ª); 
+ b) alle vedove ed agli orfani dei militari di truppa della marina, ai quali sia stata fatta applicazione del [Regio decreto 17 settembre 1871, n. 477](Col%20quale%20sono%20condonate%20le%20pene%20disciplinari%20incorse%20dai%20militari%20dei%20Corpi%20della%20Marina%20per%20aver%20contratto%20matrimonio%20senza%20autorizzazione.%20071U0477.md) (serie 2ª); 
  
  c) alle vedove ed agli orfani dei militari di truppa di terra e di mare, i quali, per non essersi piu' trovati sotto le armi od in congedo illimitato, ovvero per aver cessato di vivere, gli uni alla data del 27 luglio 1871, gli altri alla data 17 settembre stesso anno, non ebbero occasione d'invocare l'applicazione dei succitati R. decreti 27 luglio, 17 settembre e 9 dicembre 1871; 
  

@@ -92,7 +92,7 @@ Il cittadino italiano iscritto nelle liste di leva e valido alle armi diventa so
  
 a) dalla data della leva fascista all'atto della chiamata alle armi, nell'ambito delle organizzazioni del Regime; 
  
-b) dall'atto della chiamata alle armi, fino al compimento della ferma di leva, e, posteriormente, durante gli eventuali richiami per istruzione o per mobilitazione, nel quadro delle Forze armate (per la Milizia volontaria per la sicurezza nazionale, nei limiti di cui agli articoli 14 e 15 del testo unico della legge sul reclutamento del Regio esercito approvato con [R. decreto 8 settembre 1932, n. 1332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-08;1332)); 
+b) dall'atto della chiamata alle armi, fino al compimento della ferma di leva, e, posteriormente, durante gli eventuali richiami per istruzione o per mobilitazione, nel quadro delle Forze armate (per la Milizia volontaria per la sicurezza nazionale, nei limiti di cui agli articoli 14 e 15 del testo unico della legge sul reclutamento del Regio esercito approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md)); 
  
 c) per il rimanente periodo di tempo in congedo illimitato, salvo gli obblighi derivanti dalle disposizioni di legge sulla istruzione post-militare.
 
@@ -110,7 +110,7 @@ Alla diretta dipendenza del Capo del Governo e' istituito un organo di coordinam
  
  Scopo: indirizzare l'opera di tutte le istituzioni politiche, giovanili, scolastiche del Regime in rapporto fra loro e con le Forze armate, in guisa da darne organicita', coesione e continuita', vicendevole appoggio e completamento, agli effetti dell'istruzione pre-militare e post-militare. 
  
- Tale organo e' costituito dall'ispettore capo di cui al [Regio decreto-legge 20 settembre 1934, n. 1862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-20;1862), coadiuvato da tre segretari e da sette commissari col compito di collegamento tra i predetti enti. I sette commissari saranno designati rispettivamente dai Ministeri della guerra, della marina, dell'aeronautica e dell'educazione nazionale, nonche' dal Comando generale della Milizia volontaria per la sicurezza nazionale, dalla Presidenza dell'Opera nazionale Balilla e dal Segretario del Partito Nazionale Fascista per i Fasci giovanili di combattimento. 
+ Tale organo e' costituito dall'ispettore capo di cui al [Regio decreto-legge 20 settembre 1934, n. 1862](Istituzione%20della%20carica%20di%20ispettore%20capo%20della%20preparazione%20premilitare%20e%20post-militare%20della%20Nazione.%20034U1862.md), coadiuvato da tre segretari e da sette commissari col compito di collegamento tra i predetti enti. I sette commissari saranno designati rispettivamente dai Ministeri della guerra, della marina, dell'aeronautica e dell'educazione nazionale, nonche' dal Comando generale della Milizia volontaria per la sicurezza nazionale, dalla Presidenza dell'Opera nazionale Balilla e dal Segretario del Partito Nazionale Fascista per i Fasci giovanili di combattimento. 
  
  Gli ufficiali e funzionari statali ai quali saranno conferite le suddette cariche di segretari e di commissari, continueranno, per tutto il tempo che ne rimarranno investiti, a far parte dei rispettivi ruoli organici.
 

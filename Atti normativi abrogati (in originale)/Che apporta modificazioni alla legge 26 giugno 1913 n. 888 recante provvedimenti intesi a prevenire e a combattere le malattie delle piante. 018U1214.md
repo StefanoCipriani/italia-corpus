@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 15 giugno 1911, n. 529, e 26 giugno 1913, n. 888](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;888), e il regolamento approvato con [decreto Luogotenenziale 12 marzo 1916, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-03-12;723);
+Viste le [leggi 15 giugno 1911, n. 529, e 26 giugno 1913, n. 888](Che%20reca%20provvedimenti%20intesi%20a%20prevenire%20e%20a%20combattere%20le%20malattie%20delle%20piante.%20013U0888.md), e il regolamento approvato con [decreto Luogotenenziale 12 marzo 1916, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-03-12;723);
 
 Sentito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-All'[art. 5 della legge 26 giugno 1913, n. 888](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;888#art_5), e' aggiunto il seguente capoverso: 
+All'[art. 5 della legge 26 giugno 1913, n. 888](Che%20reca%20provvedimenti%20intesi%20a%20prevenire%20e%20a%20combattere%20le%20malattie%20delle%20piante.%20013U0888.md), e' aggiunto il seguente capoverso: 
  
  «Il Ministero per l'agricoltura puo' eseguire di ufficio la lotta contro le cavallette. Nessun indennizzo e' dovuto, ai sensi dell'art. 4, e non e' necessaria alcuna preventiva notificazione o ingiunzione ai proprietari o conduttori di fondi».
 
@@ -46,7 +46,7 @@ All'art. 7 della legge stessa e' aggiunto il seguente capoverso:
 
 ## Art. 3.
 
-La [legge 15 giugno 1911, n. 529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-15;529), e' abrogata con effetto dalla data di applicazione del presente decreto.
+La [legge 15 giugno 1911, n. 529](Concernente%20provvedimenti%20a%20favore%20delle%20Provincie%20invase%20dalle%20cavallette.%20011U0529.md), e' abrogata con effetto dalla data di applicazione del presente decreto.
 
 ## Art. 4.
 

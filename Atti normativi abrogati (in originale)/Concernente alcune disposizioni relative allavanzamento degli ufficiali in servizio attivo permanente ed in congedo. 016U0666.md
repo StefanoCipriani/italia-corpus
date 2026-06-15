@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La prova e l'esperimento, per la nomina di marescialli a sottotenenti in servizio attivo permanente sulla base del [n. 3 dell'articolo 3 della legge 8 giugno 1913, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_3-num3), per i marescialli delle colonie, avranno luogo nelle rispettive colonie in localita' che sara' designata dal comando delle truppe, davanti ad una Commissione unica per le quattro armi, presieduta dal comandante delle truppe e formata da quattro ufficiali superiori o capitani, e, possibilmente, uno per ciascuna delle quattro armi combattenti.
+La prova e l'esperimento, per la nomina di marescialli a sottotenenti in servizio attivo permanente sulla base del [n. 3 dell'articolo 3 della legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), per i marescialli delle colonie, avranno luogo nelle rispettive colonie in localita' che sara' designata dal comando delle truppe, davanti ad una Commissione unica per le quattro armi, presieduta dal comandante delle truppe e formata da quattro ufficiali superiori o capitani, e, possibilmente, uno per ciascuna delle quattro armi combattenti.
 
 ## Art. 2.
 
@@ -34,7 +34,7 @@ Nel computo dei mesi di servizio presso i corpi o reparti operanti, utili per co
 
 ## Art. 6.
 
-Nell'[art. 3 del R. decreto 31 dicembre 1914, n. 1431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-12-31;1431#art_3), alle parole: «Per l'applicazione degli articoli 7, 23 e 35, ecc.» debbono intendersi sostituite le parole: «Per l'applicazione degli articoli 23 e 35, ecc.» e debbono intendersi abolite le parole: «eccetto che per i subalterni».
+Nell'[art. 3 del R. decreto 31 dicembre 1914, n. 1431](Da%20convertirsi%20in%20legge%20concernente%20ulteriori%20provvedimenti%20per%20i%20quadri%20degli%20ufficiali%20del%20R.%20esercito.%20014U1431.md), alle parole: «Per l'applicazione degli articoli 7, 23 e 35, ecc.» debbono intendersi sostituite le parole: «Per l'applicazione degli articoli 23 e 35, ecc.» e debbono intendersi abolite le parole: «eccetto che per i subalterni».
 
 ## Art. 7.
 
@@ -48,7 +48,7 @@ Durante il periodo della guerra non fa ostacolo all'esercizio delle facolta', di
 
 ## Art. 9.
 
-Le disposizioni dell'[art. 2 del R. decreto n. 507 del 4 dicembre 1898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-12-04;507#art_2), relative alla nomina a sottotenente di milizia territoriale dei sottufficiali in congedo, sono estese ai sottufficiali richiamati in servizio per ragioni di guerra, ed a quelli di essi che, avendo chiesto il congedamento, fossero stati trattenuti alle armi in conseguenza della mobilitazione.
+Le disposizioni dell'[art. 2 del R. decreto n. 507 del 4 dicembre 1898](Relativo%20alla%20nomina%20a%20sottotenenti%20nella%20milizia%20territoriale.%20098U0507.md), relative alla nomina a sottotenente di milizia territoriale dei sottufficiali in congedo, sono estese ai sottufficiali richiamati in servizio per ragioni di guerra, ed a quelli di essi che, avendo chiesto il congedamento, fossero stati trattenuti alle armi in conseguenza della mobilitazione.
 
 ## Art. 10.
 

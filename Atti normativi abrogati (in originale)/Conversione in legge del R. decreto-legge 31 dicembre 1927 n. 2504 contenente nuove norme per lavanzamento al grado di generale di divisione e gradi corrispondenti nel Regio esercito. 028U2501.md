@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 dicembre 1927, n. 2504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-31;2504), contenente nuove norme per l'avanzamento al grado di generale di divisione e gradi corrispondenti nel Regio esercito. 
+ E' convertito in legge il [R. decreto-legge 31 dicembre 1927, n. 2504](Nuove%20norme%20per%20lavanzamento%20al%20grado%20di%20generale%20di%20divisione%20e%20gradi%20corrispondenti%20nel%20Regio%20esercito.%20027U2504.md), contenente nuove norme per l'avanzamento al grado di generale di divisione e gradi corrispondenti nel Regio esercito. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

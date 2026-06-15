@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-Il registro delle ditte, che, a termini dell'[art. 60 della legge 20 marzo 1910, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-20;121#art_60), le Camere di commercio e industria debbono compilare in base alle denuncie di cui all'art. 58 della leggo medesima, conterra' anche la indicazione della nazionalita' del commerciante o industriale, dei singoli soci delle Societa' in nome collettivo, dei soci accomandatari per le Societa' in accomandita e dei singoli amministratori per le Societa' anonime.
+Il registro delle ditte, che, a termini dell'[art. 60 della legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md), le Camere di commercio e industria debbono compilare in base alle denuncie di cui all'art. 58 della leggo medesima, conterra' anche la indicazione della nazionalita' del commerciante o industriale, dei singoli soci delle Societa' in nome collettivo, dei soci accomandatari per le Societa' in accomandita e dei singoli amministratori per le Societa' anonime.
 
 ## Art. 2.
 
 Con decreto del ministro per l'industria, il commercio e il lavoro, saranno stabilite le norme per la esecuzione di quanto dispone l'articolo precedente. 
  
- Ai contravventori a tali norme si applicheranno le penalita' sancite dall'[art. 63 della legge 20 marzo 1910, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-20;121#art_63).
+ Ai contravventori a tali norme si applicheranno le penalita' sancite dall'[art. 63 della legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md).
 
 ## Art. 3.
 

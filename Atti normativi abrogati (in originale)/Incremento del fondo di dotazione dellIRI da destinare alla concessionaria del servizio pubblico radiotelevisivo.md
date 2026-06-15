@@ -20,7 +20,7 @@ Il fondo di dotazione dell'IRI - Istituto per la ricostruzione industriale, e' i
 
 ## Art. 2.
 
-All'onere derivante dall'attuazione della presente legge, pari a lire 106 miliardi per l'anno 1984, si provvede mediante corrispondente riduzione del fondo iscritto al capitolo 6865 dello stato di previsione del Ministero del tesoro per il medesimo anno, istituito in applicazione dell'[articolo 1-quinquies del decreto-legge 17 aprile 1984, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-04-17;70#art_1quinquies), convertito in legge, con modificazioni, dalla [legge 12 giugno 1984, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-12;219).
+All'onere derivante dall'attuazione della presente legge, pari a lire 106 miliardi per l'anno 1984, si provvede mediante corrispondente riduzione del fondo iscritto al capitolo 6865 dello stato di previsione del Ministero del tesoro per il medesimo anno, istituito in applicazione dell'[articolo 1-quinquies del decreto-legge 17 aprile 1984, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-04-17;70#art_1quinquies), convertito in legge, con modificazioni, dalla [legge 12 giugno 1984, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20aprile%201984%20n.%2070%20concernente%20misure%20urgenti%20in%20materia%20di%20tariffe%20di%20prezzi%20amministrati%20e%20di%20indennita%20di%20contingenza.md).
  Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 ## Art. 3.

@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'art. 28 del regolamento annesso al [regio decreto 30 settembre 1920, n. 1538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-09-30;1538);
+Visto l'art. 28 del regolamento annesso al [regio decreto 30 settembre 1920, n. 1538](Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md);
 
-Visti gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-15;97#art_1) e [2 del decreto legislativo luogotenenziale 15 febbraio 1945, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-15;97#art_2);
+Visti gli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Rappresentanza%20delle%20aziende%20esercenti%20ferrovie%20tramvie%20e%20linee%20di%20navigazione%20interna%20e%20del%20personale%20da%20esse%20dipendente%20nei%20Consigli%20di%20disciplina%20e%20nelle%20Commissioni%20amministratrici%20de_bc5afda24156.md) e [2 del decreto legislativo luogotenenziale 15 febbraio 1945, n. 97](../Decreti%20legislativi%20luogotenenziali/Rappresentanza%20delle%20aziende%20esercenti%20ferrovie%20tramvie%20e%20linee%20di%20navigazione%20interna%20e%20del%20personale%20da%20esse%20dipendente%20nei%20Consigli%20di%20disciplina%20e%20nelle%20Commissioni%20amministratrici%20de_bc5afda24156.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista, la deliberazione del Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro Segretario di Stato per i trasporti, d'intesa con i 
 
 ## Art. 1.
 
-E' prorogata la validita' delle norme di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-15;97#art_1) e [2 del decreto legislativo luogotenenziale 15 febbraio 1945, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-15;97#art_2), relativo alla nomina dei membri dei consigli di disciplina e delle Casse soccorso e delle Casse speciali di previdenza, istituiti presso aziende esercenti ferrovie, tramvie e linee di navigazione interna in regime di concessione, in attesa che sia provveduto alla rielaborazione delle norme che disciplinano il trattamento giuridico del personale di tali aziende.
+E' prorogata la validita' delle norme di cui agli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Rappresentanza%20delle%20aziende%20esercenti%20ferrovie%20tramvie%20e%20linee%20di%20navigazione%20interna%20e%20del%20personale%20da%20esse%20dipendente%20nei%20Consigli%20di%20disciplina%20e%20nelle%20Commissioni%20amministratrici%20de_bc5afda24156.md) e [2 del decreto legislativo luogotenenziale 15 febbraio 1945, n. 97](../Decreti%20legislativi%20luogotenenziali/Rappresentanza%20delle%20aziende%20esercenti%20ferrovie%20tramvie%20e%20linee%20di%20navigazione%20interna%20e%20del%20personale%20da%20esse%20dipendente%20nei%20Consigli%20di%20disciplina%20e%20nelle%20Commissioni%20amministratrici%20de_bc5afda24156.md), relativo alla nomina dei membri dei consigli di disciplina e delle Casse soccorso e delle Casse speciali di previdenza, istituiti presso aziende esercenti ferrovie, tramvie e linee di navigazione interna in regime di concessione, in attesa che sia provveduto alla rielaborazione delle norme che disciplinano il trattamento giuridico del personale di tali aziende.
 
 ## Art. 2.
 

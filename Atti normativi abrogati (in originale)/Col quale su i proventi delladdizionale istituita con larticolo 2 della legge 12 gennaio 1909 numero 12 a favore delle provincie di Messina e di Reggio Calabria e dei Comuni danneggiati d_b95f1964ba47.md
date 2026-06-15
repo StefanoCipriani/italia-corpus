@@ -28,7 +28,7 @@ Sulla proposta del presidente del Consiglio dei ministri, ministro segretario di
 
 ## Art. 1.
 
-Sui proventi dell'addizionale, istituita con l'[art. 2 della legge 12 gennaio 1909, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-01-12;12#art_2), a favore delle provincie di Messina e di Reggio Calabria e dei comuni danneggiati dal terremoto del 28 dicembre 1908, e' autorizzata la spesa di L. 250 mila per la costruzione di case economiche in Palmi. 
+Sui proventi dell'addizionale, istituita con l'[art. 2 della legge 12 gennaio 1909, n. 12](Concernente%20provvedimenti%20a%20sollievo%20dei%20danneggiali%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0012.md), a favore delle provincie di Messina e di Reggio Calabria e dei comuni danneggiati dal terremoto del 28 dicembre 1908, e' autorizzata la spesa di L. 250 mila per la costruzione di case economiche in Palmi. 
  
  La somma come sopra autorizzata e' scritta nel bilancio del Ministero dell'interno.
 

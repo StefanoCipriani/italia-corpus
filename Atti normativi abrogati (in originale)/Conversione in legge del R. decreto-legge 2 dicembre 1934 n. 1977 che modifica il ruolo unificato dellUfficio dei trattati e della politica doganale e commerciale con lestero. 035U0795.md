@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 dicembre 1934, n. 1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-02;1977), che modifica il ruolo unificato dell'Ufficio dei trattati e della politica doganale e commerciale con l'estero. 
+ E' convertito in legge il [R. decreto-legge 2 dicembre 1934, n. 1977](Modificazione%20del%20ruolo%20dellUfficio%20trattati%20e%20della%20politica%20doganale%20e%20commerciale%20con%20lestero.%20034U1977.md), che modifica il ruolo unificato dell'Ufficio dei trattati e della politica doganale e commerciale con l'estero. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

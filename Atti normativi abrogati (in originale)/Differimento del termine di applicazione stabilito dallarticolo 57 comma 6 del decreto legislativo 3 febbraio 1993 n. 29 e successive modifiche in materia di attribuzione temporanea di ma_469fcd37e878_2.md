@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il termine di cui al [comma 6 dell'articolo 57 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modifiche, gia' prorogato al 30 ottobre 1995 dall'[articolo 1, comma 5, del decreto-legge 28 agosto 1995, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-08-28;361#art_1-com5), convertito, con modificazioni, dalla [legge 27 ottobre 1995, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-10-27;437), e' ulteriormente differito al 31 marzo 1996.
+Il termine di cui al [comma 6 dell'articolo 57 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modifiche, gia' prorogato al 30 ottobre 1995 dall'[articolo 1, comma 5, del decreto-legge 28 agosto 1995, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-08-28;361#art_1-com5), convertito, con modificazioni, dalla [legge 27 ottobre 1995, n. 437](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20agosto%201995%20n.%20361%20recante%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative%20in%20materia%20di%20interventi%20concernenti%20la_44101dc9f781.md), e' ulteriormente differito al 31 marzo 1996.
 
 ## Art. 2.
 

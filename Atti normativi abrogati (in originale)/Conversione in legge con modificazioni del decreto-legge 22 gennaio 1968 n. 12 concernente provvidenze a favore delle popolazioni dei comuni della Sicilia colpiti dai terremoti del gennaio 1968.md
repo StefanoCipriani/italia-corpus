@@ -27,7 +27,7 @@ E' convertito in legge il [decreto-legge 22 gennaio 1968, n. 12](Provvidenze%20a
 
  All'articolo 2 e' aggiunto il seguente comma:
 
- La sospensione del corso dei termini previsti dallo articolo 1 e dal primo comma del presente articolo, relativamente a obbligazioni concernenti il lotto pubblico nonche' i concorsi pronostici di cui al [decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496), e' limitata a tre mesi dal 15 gennaio 1968 e concerne esclusivamente le estrazioni del lotto e i concorsi pronostici svoltisi a tutto il 4 febbraio 1968.
+ La sospensione del corso dei termini previsti dallo articolo 1 e dal primo comma del presente articolo, relativamente a obbligazioni concernenti il lotto pubblico nonche' i concorsi pronostici di cui al [decreto legislativo 14 aprile 1948, n. 496](../Decreti%20Legislativi/Disciplina%20delle%20attivita%20di%20giuoco.md), e' limitata a tre mesi dal 15 gennaio 1968 e concerne esclusivamente le estrazioni del lotto e i concorsi pronostici svoltisi a tutto il 4 febbraio 1968.
 
  Dopo l'articolo 3 e' inserito il seguente articolo 3-bis:
 
@@ -51,7 +51,7 @@ E' convertito in legge il [decreto-legge 22 gennaio 1968, n. 12](Provvidenze%20a
 
  Dopo l'articolo 8 e' inserito il seguente articolo 8-bis:
 
- Ai comuni di cui all'articolo 1 sono estese le agevolazioni previste dagli [articoli 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-31;357#art_29), [30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-31;357#art_30), [31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-31;357#art_31) e [32 della legge 31 maggio 1964, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-31;357#art_32), e dalla [legge 4 luglio 1966, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-04;499).
+ Ai comuni di cui all'articolo 1 sono estese le agevolazioni previste dagli [articoli 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-31;357#art_29), [30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-31;357#art_30), [31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-31;357#art_31) e [32 della legge 31 maggio 1964, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-31;357#art_32), e dalla [legge 4 luglio 1966, n. 499](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20maggio%201966%20n.%20258%20concernente%20modifiche%20ed%20integrazioni%20alle%20leggi%204%20novembre%201963%20n.%201457%20e%2031%20maggio%201964%20n.%20357%20recanti%20prov_a39dc81007af.md).
 
  All'articolo 9, dopo le parole: sui tributi indicati nello articolo 5, sono aggiunte le altre: nonche' sulle sovrimposte comunale e provinciale sui terreni.
 
@@ -114,7 +114,7 @@ E' convertito in legge il [decreto-legge 22 gennaio 1968, n. 12](Provvidenze%20a
 
  Art. 39-bis
 
- In deroga all'[articolo 72 della legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_72), e delle successive modifiche ([articolo 6 del regio decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175#art_6), [articolo 5 della legge 26 aprile 1954, n. 251](Modificazione%20agli%20articoli%2010%2034%2036%20del%20regio%20decreto%2030%20dicembre%201923%20n.%202841%20e%20allart.%206%20del%20testo%20unico%20approvato%20con%20regio%20decreto%2014%20settembre%201931%20n.%201175.md)) i cittadini dei comuni di cui all'articolo 1 trasferiti a seguito del sisma in altri comuni hanno diritto all'assistenza da parte degli enti comunali di assistenza.
+ In deroga all'[articolo 72 della legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_72), e delle successive modifiche ([articolo 6 del regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), [articolo 5 della legge 26 aprile 1954, n. 251](Modificazione%20agli%20articoli%2010%2034%2036%20del%20regio%20decreto%2030%20dicembre%201923%20n.%202841%20e%20allart.%206%20del%20testo%20unico%20approvato%20con%20regio%20decreto%2014%20settembre%201931%20n.%201175.md)) i cittadini dei comuni di cui all'articolo 1 trasferiti a seguito del sisma in altri comuni hanno diritto all'assistenza da parte degli enti comunali di assistenza.
 
  Art. 39-ter.
 

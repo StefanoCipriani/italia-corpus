@@ -204,17 +204,17 @@ Le opere di cui all'art. 2 sono dichiarate di pubblica utilita', ed alle relativ
  
  L'azienda del porto potra' immettersi nel possesso dei beni occorrenti in seguito alla compilazione dello stato di consistenza dei fondi da occupare che sara' approvato dal Ministero dei lavori pubblici. 
  
- Il Ministero, sentito il Consiglio superiore dei lavori pubblici, determinera' pure la somma che in via provvisoria dovra' depositarsi per la indennita' di espropriazione e per gli altri eventuali risarcimenti che ai terzi possano competere. Il verbale di consistenza, equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, numero 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_32). 
+ Il Ministero, sentito il Consiglio superiore dei lavori pubblici, determinera' pure la somma che in via provvisoria dovra' depositarsi per la indennita' di espropriazione e per gli altri eventuali risarcimenti che ai terzi possano competere. Il verbale di consistenza, equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, numero 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
  
  Ogni variazione o rettifica delle espropriazioni che si manifestasse necessaria all'atto della esecuzione dell'opera sara' approvata con lo stesso procedimento. 
  
- Si applicheranno per tutto il resto le disposizioni della [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359).
+ Si applicheranno per tutto il resto le disposizioni della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
 
 ## Art. 26.
 
 L'azienda del porto ha fin da ora la facolta' di compilare un piano particolareggiato di esecuzione delle espropriazioni di terreni ed edifici che potranno occorrere per tutte le sedi di scali commerciali ed industriali nei territori di Cremona e di Duemiglia, anche in previsione di un maggiore movimento commerciale e di quelli che convenga riservare per futuri impianti commerciali ed industriali. 
  
- Questo piano da compilarsi e pubblicarsi a termini degli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_16) e [17 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_17), e ad ogni effetto di essa sara' presentato per l'approvazione entro tre anni ed approvato a termini dell'art. 22 della legge stessa. 
+ Questo piano da compilarsi e pubblicarsi a termini degli [articoli 16](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md) e [17 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e ad ogni effetto di essa sara' presentato per l'approvazione entro tre anni ed approvato a termini dell'art. 22 della legge stessa. 
  
  Alle espropriazioni che siano effettuate in base a tale piano sono estese le disposizioni dell'articolo precedente.
 

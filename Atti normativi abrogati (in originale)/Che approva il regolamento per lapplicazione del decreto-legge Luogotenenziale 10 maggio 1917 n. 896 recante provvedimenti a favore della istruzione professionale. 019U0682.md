@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854), e il relativo regolamento approvato con [R. decreto del 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1014); 
+ Vista la [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), e il relativo regolamento approvato con [R. decreto del 22 giugno 1913, n. 1014](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sullistruzione%20professionale%20scuole%20industriali%20e%20commerciali.%20013U1014.md); 
  
- Visto il [decreto-legge Luogotenenziale in data 10 maggio 1917, n. 896](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-05-10;896); 
+ Visto il [decreto-legge Luogotenenziale in data 10 maggio 1917, n. 896](Concernente%20provvedimenti%20a%20favore%20dellistruzione%20professionale.%20017U0896.md); 
  
  Sentito il parere del Consiglio per l'istruzione industriale; 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico: 
  
- E' approvato e reso esecutivo l'unito regolamento per l'applicazione del [decreto-legge Luogotenenziale 10 maggio 1917, n. 896](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-05-10;896), portante provvedimenti a favore dell'istruzione professionale, visto e firmato, d'ordine Nostro, dai ministri proponenti. 
+ E' approvato e reso esecutivo l'unito regolamento per l'applicazione del [decreto-legge Luogotenenziale 10 maggio 1917, n. 896](Concernente%20provvedimenti%20a%20favore%20dellistruzione%20professionale.%20017U0896.md), portante provvedimenti a favore dell'istruzione professionale, visto e firmato, d'ordine Nostro, dai ministri proponenti. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Roma, addi' 6 marzo 1919. 
  

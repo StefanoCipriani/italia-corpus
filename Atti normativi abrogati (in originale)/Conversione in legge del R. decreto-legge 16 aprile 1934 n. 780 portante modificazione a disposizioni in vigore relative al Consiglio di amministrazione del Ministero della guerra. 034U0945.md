@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 aprile 1934, n. 780](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-16;780), portante modificazione a disposizioni in vigore relative al Consiglio d'amministrazione del Ministero della guerra. 
+ E' convertito in legge il [R. decreto-legge 16 aprile 1934, n. 780](Modificazioni%20a%20disposizioni%20in%20vigore%20relative%20al%20Consiglio%20damministrazione%20del%20Ministero%20della%20guerra.%20034U0780.md), portante modificazione a disposizioni in vigore relative al Consiglio d'amministrazione del Ministero della guerra. 
  
  Ordiniamo chela presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

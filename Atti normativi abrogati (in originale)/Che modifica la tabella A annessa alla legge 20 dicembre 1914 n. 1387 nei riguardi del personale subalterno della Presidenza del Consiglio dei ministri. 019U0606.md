@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 3 della legge 11 luglio 1904, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;372#art_3); 
+ Visto l'[art. 3 della legge 11 luglio 1904, n. 372](Disposizioni%20relative%20ai%20ruoli%20organici.%20004U0372.md); 
  
- Vista la [legge 20 dicembre 1914, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-20;1387); 
+ Vista la [legge 20 dicembre 1914, n. 1387](Concernente%20provvedimenti%20intesi%20a%20parificare%20il%20trattamento%20del%20personale%20subalterno%20delle%20Amministrazioni%20centrali.%20014U1387.md); 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Considerata la necessita' di equiparare gli stipendi del personale subalterno dell'Ufficio della Presidenza del Consiglio dei ministri a quelli del personale subalterno delle Amministrazioni centrali; 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- La tabella A annessa alla [legge 20 dicembre 1914, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-20;1387), per quanto riguarda il personale subalterno della presidenza del Consiglio dei ministri, e' cosi' modificata a decorrere dal 1° gennaio 1919: 
+ La tabella A annessa alla [legge 20 dicembre 1914, n. 1387](Concernente%20provvedimenti%20intesi%20a%20parificare%20il%20trattamento%20del%20personale%20subalterno%20delle%20Amministrazioni%20centrali.%20014U1387.md), per quanto riguarda il personale subalterno della presidenza del Consiglio dei ministri, e' cosi' modificata a decorrere dal 1° gennaio 1919: 
  
  Usciere di prima classe n. 1, L. 2000. 
  

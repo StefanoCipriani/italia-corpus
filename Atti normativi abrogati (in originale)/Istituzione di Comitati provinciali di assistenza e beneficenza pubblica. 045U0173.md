@@ -20,13 +20,13 @@ Vista la [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto il [R. decreto-legge 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;2841);
 
-Vista la [legge 17 giugno 1926, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-06-17;1187);
+Vista la [legge 17 giugno 1926, n. 1187](Riforma%20dei%20Regi%20decreti%2030%20dicembre%201923%20nn.%202841%20e%203048%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20026U1187.md);
 
-Visto il [R. decreto-legge 20 febbraio 1927, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-20;257);
+Visto il [R. decreto-legge 20 febbraio 1927, n. 257](Norme%20per%20lestensione%20alle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza%20delle%20disposizioni%20vigenti%20circa%20la%20revisione%20ed%20approvazione%20dei%20conti%20dei%20Comuni%20e%20delle%20Provincie%20e%20per%20la%20_1e3e0ddffc4f.md);
 
-Vista la [legge 3 giugno 1937, n. 847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-03;847);
+Vista la [legge 3 giugno 1937, n. 847](Istituzione%20in%20ogni%20Comune%20del%20Regno%20dellEnte%20comunale%20di%20assistenza.%20037U0847.md);
 
-Visto il [R. decreto-legge 14 aprile 1944, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-04-14;125);
+Visto il [R. decreto-legge 14 aprile 1944, n. 125](Modifica%20dellart.%202%20della%20legge%203%20giugno%201937%20n.%20847%20sullistituzione%20degli%20Enti%20Comunali%20di%20Assistenza.%20044U0125.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -50,13 +50,13 @@ I Comitati provinciali di assistenza e beneficenza pubblica esercitano le attrib
  c) curano la regolare esecuzione, nell'ambito della provincia, delle disposizioni relative al libretto di assistenza di cui al successivo articolo 15; 
  d) ricevono le istanze di ricovero e di sussidio trasmesse o presentate da chiunque e le indirizzano a quelle tra le istituzioni pubbliche o private di assistenza, qualunque sia la loro natura giuridica, esistenti nella provincia, che ritengano piu' adatte a provvedere; 
  e) decidono sui ricorsi contro la concessione ed il diniego di assegni continuativi e dei posti di ricovero e le erogazioni di qualunque natura fatte dalle istituzioni pubbliche di assistenza e beneficenza che siano sotto l'alta vigilanza del Ministero dell'interno, quando si adduca che importano violazioni di leggi, di regolamenti o di statuti speciali aventi forza di legge. Se accolgono i ricorsi, annullano le deliberazioni impugnate e provvedono in merito. Possono annullare d'ufficio le concessioni ed erogazioni che siano state fatti illegalmente o con favoritismo; 
- f) provvedono alla nomina del personale di cui al successivo art. 13, nonche' alla determinazione del relativo stato giuridico e trattamento economico in modo comunque da non eccedere i limiti previsti dal [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), e successive disposizioni.
+ f) provvedono alla nomina del personale di cui al successivo art. 13, nonche' alla determinazione del relativo stato giuridico e trattamento economico in modo comunque da non eccedere i limiti previsti dal [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), e successive disposizioni.
 
 ## Art. 4.
 
 Spetta ai Comitati provinciali di dar parere: 
  
- a) sulle proposte di scioglimento delle amministrazioni delle istituzioni pubbliche di assistenza e beneficenza; resta ferma la facolta' del Ministro per l'interno di provvedere in materia a norma del [R. decreto 26 aprile 1923, n. 976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-26;976); 
+ a) sulle proposte di scioglimento delle amministrazioni delle istituzioni pubbliche di assistenza e beneficenza; resta ferma la facolta' del Ministro per l'interno di provvedere in materia a norma del [R. decreto 26 aprile 1923, n. 976](Che%20da%20facolta%20al%20Ministro%20dellinterno%20di%20dichiarare%20sciolte%20le%20Amministrazioni%20delle%20Congregazioni%20di%20carita%20e%20di%20tutte%20le%20Istituzioni%20pubbliche%20di%20beneficenza%20esistenti%20in%20uno%20stesso%20Co_d67517334ac6.md); 
  b) sulle domande di erezione in ente morale di nuove istituzioni pubbliche di assistenza e beneficenza e sugli statuti relativi, nonche' sulle domande delle dette istituzioni per l'accettazione di lasciti e donazioni o per l'acquisto di beni stabili; 
  c) sulle questioni relative alla dichiarazione della natura giuridica delle istituzioni pubbliche di assistenza e beneficenza; 
  d) sulle preposte, comunque formulate, di riforma delle istituzioni pubbliche di assistenza e beneficenza; 

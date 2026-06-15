@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 6 novembre 1913, n. 1289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-11-06;1289), che autorizza la filiale della Banca d'Italia in Bengasi a compiere le operazioni di credito agrario in Cirenaica, e le affida la liquidazione delle succursali nella detta colonia della cessata Banca agricola ottomana; 
+ Visto il [R. decreto 6 novembre 1913, n. 1289](Col%20quale%20la%20filiale%20della%20Banca%20dItalia%20in%20Bengasi%20e%20autorizzata%20a%20compiere%20operazioni%20di%20credito%20agrario%20nella%20Cirenaica.%20013U1289.md), che autorizza la filiale della Banca d'Italia in Bengasi a compiere le operazioni di credito agrario in Cirenaica, e le affida la liquidazione delle succursali nella detta colonia della cessata Banca agricola ottomana; 
  
  Ritenuto che per ragioni varie l'azione della Banca d'Italia a dichiarazione della sua Direzione generale non puo', agli effetti della liquidazione suddetta, estendersi indistintamente a tutte le succursali dell'ex-Banca agricola ottomana; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- All'[art. 3 del R. decreto 6 novembre 1913, n. 1289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-11-06;1289#art_3), e' aggiunto, dopo il primo comma, il seguente capoverso: 
+ All'[art. 3 del R. decreto 6 novembre 1913, n. 1289](Col%20quale%20la%20filiale%20della%20Banca%20dItalia%20in%20Bengasi%20e%20autorizzata%20a%20compiere%20operazioni%20di%20credito%20agrario%20nella%20Cirenaica.%20013U1289.md), e' aggiunto, dopo il primo comma, il seguente capoverso: 
  
  «E' data tuttavia facolta' al Governo della Cirenaica di affidare, secondo le norme e le garanzie che saranno da esso stabilite, ad altri enti o a speciali incaricati la liquidazione di quelle succursali della cessata Banca agricola ottomana per le quali la filiale in Bengasi della Banca d'Italia non potesse provvedere». 
  

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Agli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-01-05;30#art_5) e [6 della legge 5 gennaio 1933, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-01-05;30#art_6), sono sostituiti i seguenti:
+Agli [articoli 5](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U0030.md) e [6 della legge 5 gennaio 1933, n. 30](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U0030.md), sono sostituiti i seguenti:
  Art. 5. - Il Consiglio di amministrazione dell'Azienda di Stato per le foreste demaniali e' presieduto dal Ministro per l'agricoltura e per le foreste, o per sua delegazione, dal Sottosegretario di Stato.
  Esso e' composto di dieci membri, nominati con decreto del Capo dello Stato, promosso dal Ministro per l'agricoltura e per le foreste, e cioe':
  a) dal direttore generale delle foreste o da chi ne fa le veci, e da due funzionari del Corpo delle foreste di grado non inferiore al sesto;
@@ -35,7 +35,7 @@ Agli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:193
 ## Art. 2.
 
 Il [decreto legislativo luogotenenziale 26 ottobre 1944, n. 379](Funzionamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20044U0379.md), sul funzionamento dell'Azienda, di Stato per la foreste demaniali e' abrogato.
- Le funzioni attribuite al comandante della soppressa milizia forestale nella [legge 5 gennaio 1933, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-01-05;30), e nello statuto-regolamento dell'Azienda di Stato per le foreste demaniali, approvato con [regio decreto 5 ottobre 1933, n. 1577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-05;1577), sono invece attribuite al direttore generale delle foreste od a chi ne fa le veci.
+ Le funzioni attribuite al comandante della soppressa milizia forestale nella [legge 5 gennaio 1933, n. 30](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U0030.md), e nello statuto-regolamento dell'Azienda di Stato per le foreste demaniali, approvato con [regio decreto 5 ottobre 1933, n. 1577](Approvazione%20dello%20statuto-regolamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U1577.md), sono invece attribuite al direttore generale delle foreste od a chi ne fa le veci.
 
 ## Art. 3.
 

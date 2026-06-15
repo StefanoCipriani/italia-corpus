@@ -14,7 +14,7 @@ Visto il [decreto legislativo luogotenenziale 9 giugno 1945, n. 303](https://www
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Ritenuta l'urgente necessita' di emanare nuove disposizioni per l'alloggio dei rimasti senza tetto in seguito ad eventi bellici e per l'attuazione dei piani di ricostruzione, in attesa dell'emanazione di leggi generali sui danni di guerra;
 
@@ -41,7 +41,7 @@ Il Ministero dei lavori pubblici e' autorizzato a provvedere alla riparazione de
 ### Art. 3.
 
 Per l'attuazione delle norme per l'allogio dei senza tetto, ed in rapporto ai bisogni delle zone piu' danneggiate, il Ministro per i lavori pubblici e' autorizzato a provvedere, con propri decreti, alla istituzione di sezioni distaccate ed anche autonome del Genio civile, all'assunzione di personale avventizio o giornaliero, nonche' al conferimento di incarichi di progettazione a liberi professionisti.
- L'assunzione del personale avventizio o giornaliero puo' effettuarsi entro i limiti da stabilirsi dal Ministero dei lavori pubblici di concerto con quello delle finanze e del tesoro e con le modalita' e con il trattamento stabilito dal [regio decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100) e successive modificazioni.
+ L'assunzione del personale avventizio o giornaliero puo' effettuarsi entro i limiti da stabilirsi dal Ministero dei lavori pubblici di concerto con quello delle finanze e del tesoro e con le modalita' e con il trattamento stabilito dal [regio decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md) e successive modificazioni.
 
 ### Art. 4.
 
@@ -85,7 +85,7 @@ I proprietari che affidino ad un consorzio di bonifica o di miglioramento fondia
 
 ### Art. 10.
 
-Ai consorzi di bonifica e di miglioramento fondiario, che esplichino le attivita' indicate nel precedente art. 9, non sono applicabili le disposizioni del [regio decretolegge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-04;589), modificato dalla [legge 11 maggio 1942, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-11;616).
+Ai consorzi di bonifica e di miglioramento fondiario, che esplichino le attivita' indicate nel precedente art. 9, non sono applicabili le disposizioni del [regio decretolegge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-04;589), modificato dalla [legge 11 maggio 1942, n. 616](Modificazioni%20allart.%2017%20del%20R.%20decreto-legge%204%20aprile%201939-XVII%20n.%20589%20riguardante%20il%20blocco%20delle%20contribuzioni%20gravanti%20sulla%20proprieta%20immobiliare.%20042U0616.md).
 
 ### Art. 11.
 
@@ -312,7 +312,7 @@ Le persone rimaste senza tetto a causa degli eventi bellici possono chiedere l'a
 
 ### Art. 43.
 
-Le assegnazioni dei locali sono soggette al pagamento di un fitto mensile che e' stabilito, all'atto dell'assegnauzione o con altro provvedimento successivo, dal Comitato comunale per le riparazioni edilizie, o, dove non esista, dalla Giunta comunale, in base ai prezzi praticati nel Comune, tenuto conto delle disposizioni dell'[art. 10 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-12;669#art_10).
+Le assegnazioni dei locali sono soggette al pagamento di un fitto mensile che e' stabilito, all'atto dell'assegnauzione o con altro provvedimento successivo, dal Comitato comunale per le riparazioni edilizie, o, dove non esista, dalla Giunta comunale, in base ai prezzi praticati nel Comune, tenuto conto delle disposizioni dell'[art. 10 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Decreti%20legislativi%20luogotenenziali/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md).
  Ove uno stesso alloggio sia assegnato a piu' persone distintamente, il fitto e' stabilito per ciascuno degli assegnatari.
  La determinazione del fitto e' portata a conoscenza dell'avente diritto e degli assegnatari mediante lettera raccomandata con ricevuta di ritorno.
  Nei casi previsti nell'ultima parte del comma quarto dell'art. 37 un estratto di provvedimento viene affisso all'albo comunale.
@@ -413,7 +413,7 @@ CAPO IV
 
 All'Istituto nazionale per le case degli impiegati dello Stato, agli Istituti autonomi per le case popolari e all'Ente edilizio di Reggio Calabria, quando eseguono lavori di riparazione o ricostruzione di loro fabbricati danneggiati o distrutti, nonche' lavori di completamento in fabbricati la cui costruzione sia rimasta interrotta a causa della guerra, puo' essere concesso, con decreto del Ministro per i lavori pubblici, di concerto con quello per le finanze ed il tesoro, un contributo str'aordinario in conto capitale pari alla meta' della spesa occorrente, oltre al contribuito previsto dal tesoro unico 28 aprile 1938, n. 1165, sul mutuo da contrarsi per la parte non coperta dal detto concorso.
  Gli stessi benefici possono essere concessi per le riparazioni e ricostruzioni di sanatori, convalescenziari o case di cura danneggiati o distrutti da eventi bellici, di proprieta' di istituti di previdenza, di assistenza sociale e dei consorzi provinciali antitubercolari.
- Un contributo in conto capitale, nella misura di meta' della spesa, puo' essere concesso anche agli enti indicati all'[art. 27 della legge 26 ottobre 1940, n. 1543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-26;1543#art_27), per l'esecuzione di opere di ampliamento e di miglioramento dei fabbricati destinati ad ospedali, convalescenziari e luoghi di cura di loro pertinenza qualora tali lavori vengano compiuti in occasione della ricostruzione e riparazione degli edifici stessi in conseguenza dei danni causati da eventi bellici.
+ Un contributo in conto capitale, nella misura di meta' della spesa, puo' essere concesso anche agli enti indicati all'[art. 27 della legge 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md), per l'esecuzione di opere di ampliamento e di miglioramento dei fabbricati destinati ad ospedali, convalescenziari e luoghi di cura di loro pertinenza qualora tali lavori vengano compiuti in occasione della ricostruzione e riparazione degli edifici stessi in conseguenza dei danni causati da eventi bellici.
 
 ### Art. 57.
 
@@ -426,7 +426,7 @@ CAPO V.
 
 ### Art. 58.
 
-Qualora i Comuni non siano in grado per ragioni tecnico-finanziarie, accertate dal Ministero dei lavori pubblici, sentito il Ministero dell' interno, di provvedere direttamente all'attuazione totale o parziale dei piani di ricostruzione, approvati ai sensi del [decreto legislativo luogotenenziale 1° marzo 1945, n. 154, il Ministero dei lavori pubblici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;154) puo' sostituirsi ad essi nell'attuazione medesima in relazione alle necessita' di ciascun Comune.
+Qualora i Comuni non siano in grado per ragioni tecnico-finanziarie, accertate dal Ministero dei lavori pubblici, sentito il Ministero dell' interno, di provvedere direttamente all'attuazione totale o parziale dei piani di ricostruzione, approvati ai sensi del [decreto legislativo luogotenenziale 1° marzo 1945, n. 154, il Ministero dei lavori pubblici](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20i%20piani%20di%20ricostruzione%20degli%20abitati%20danneggiati%20dalla%20guerra.%20045U0154.md) puo' sostituirsi ad essi nell'attuazione medesima in relazione alle necessita' di ciascun Comune.
  Nel caso di cui al comma, precedente la spesa occorrente e' anticipata dallo Stato, salvo il recupero verso il Comune, in trenta rate annuali costanti senza interessi, decorrenti dal terzo anno successivo a quello in cui sara^ redatto il verbale di collaudo di ciascuna opera.
  Le disposizioni del presente articolo si applicano nei confronti dei Comuni con popolazione non superiore ai 25.000 abitanti; per quelli con popolazione superiore l'applicazione puo' essere disposta, in casi eccezionali, previo concerto col Ministero delle finanze e del tesoro.
 
@@ -501,14 +501,14 @@ Qualora l'assegnatario non presenti il progetto di Costruzione ovvero non inizi 
 
 ### Art. 70.
 
-Per la procedura delle espropriazioni delle aree comprese nei piano di ricostruzione e per la determinazione dell'indennita' si applicano le disposizioni dell'[art. 9 del decreto legislativo luogotenenziale 1° marzo 1945, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;154#art_9).
+Per la procedura delle espropriazioni delle aree comprese nei piano di ricostruzione e per la determinazione dell'indennita' si applicano le disposizioni dell'[art. 9 del decreto legislativo luogotenenziale 1° marzo 1945, n. 154](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20i%20piani%20di%20ricostruzione%20degli%20abitati%20danneggiati%20dalla%20guerra.%20045U0154.md).
  Nell'indennita' di esproprio non e' compreso l'ammontare del contributo dello Stato che potrebbe competere al proprietario per la ricostruzione del fabbricato distrutto che insisteva sull'area espropriata.
  E' fatta salva al proprietario medesimo la facolta' di conseguire l'eventuale indennita' per risarcimento dei danni di guerra ovvero di ricostruire, col beneficio del contribuito statale, su altra area direttamente acquistata ricadente nello stesso centro abitato in cui era sito il fabbricato distrutto da eventi bellici.
 
 ### Art. 71.
 
-I progetti di ricostruzione e di nuova costruzione di fabbricati sulle aree assegnate o espropriate in conseguenza dell'attuazione dei piani di ricostruzione devono corrispondere ai requisiti prescritti dal [testo unico sull'edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380) popolare ed economica approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165).
- L'approvazione dei progetti stessi, di esclusiva competenza del Genio civile, equivale a dichiarazione di pubblica utilita' ed i lavori in essa previsti sono dichiarati urgenti ed indifferibili ai sensi ed agli effetti degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_71).
+I progetti di ricostruzione e di nuova costruzione di fabbricati sulle aree assegnate o espropriate in conseguenza dell'attuazione dei piani di ricostruzione devono corrispondere ai requisiti prescritti dal [testo unico sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165).
+ L'approvazione dei progetti stessi, di esclusiva competenza del Genio civile, equivale a dichiarazione di pubblica utilita' ed i lavori in essa previsti sono dichiarati urgenti ed indifferibili ai sensi ed agli effetti degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
 
 ### Art. 72.
 
@@ -624,7 +624,7 @@ Nelle localita', dove la sistemazione degli uffici pubblici statali o degli enti
 
 ### Art. 86.
 
-Per i lavori che fino al 31 dicembre 1949 saranno disposti in applicazione del presente decreto, l'Amministrazione dei lavori pubblici e' autorizzata, ad avvalersi delle facolta' gia' previste dall'[art. 1 della Legge 9 luglio 1940, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;938#art_1).
+Per i lavori che fino al 31 dicembre 1949 saranno disposti in applicazione del presente decreto, l'Amministrazione dei lavori pubblici e' autorizzata, ad avvalersi delle facolta' gia' previste dall'[art. 1 della Legge 9 luglio 1940, n. 938](Interventi%20di%20pronto%20soccorso%20per%20la%20riparazione%20di%20opere%20pubbliche%20danneggiate%20in%20conseguenza%20di%20azioni%20belliche.%20040U0938.md).
 
 ### Art. 87.
 
@@ -692,7 +692,7 @@ Per l'attuazione dei fini di cui al presente decreto e' autorizzata la spesa di 
 ### Art. 100.
 
 Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana, tranne che per le disposizioni contenute nell'art. 98 le quali hanno efficacia a decorrere dal 21 gennaio 1946.
- Dalle stesse date cessano di avere effetto le disposizioni del [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-09;305).
+ Dalle stesse date cessano di avere effetto le disposizioni del [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](../Decreti%20legislativi%20luogotenenziali/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md).
 
  Il presente decreto, munito dei sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

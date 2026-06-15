@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 dicembre 1927, n. 2677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-29;2677), che reca nuove disposizioni sull'ordinamento del Consorzio obbligatorio per l'industria zolfifera siciliana, in Palermo. 
+ E' convertito in legge il [R. decreto-legge 29 dicembre 1927, n. 2677](Nuove%20disposizioni%20circa%20lordinamento%20del%20Consorzio%20obbligatorio%20per%20lindustria%20zolfifera%20siciliana.%20027U2677.md), che reca nuove disposizioni sull'ordinamento del Consorzio obbligatorio per l'industria zolfifera siciliana, in Palermo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

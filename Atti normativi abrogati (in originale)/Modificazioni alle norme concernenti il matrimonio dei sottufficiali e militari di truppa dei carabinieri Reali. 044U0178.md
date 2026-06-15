@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 7 giugno 1938, n. 1201](Abrogazione%20delle%20norme%20limitatrici%20in%20materia%20di%20matrimonio%20dei%20sottufficiali%20e%20militari%20di%20truppa%20delle%20Forze%20armate%20dello%20Stato.%20038U1201.md), concernente la abrogazione delle norme limitatrici in materia di matrimonio dei sottufficiali e militari di truppa delle Forze armate dello Stato convertito in legge, con modificazioni, con la [legge 22 dicembre 1938, n. 2214](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%207%20ghigno%201938-XVI%20n.%201201%20riguardante%20labrogazione%20delle%20norme%20limitatrici%20in%20materia%20di%20matrimonio%20dei%20sottufficiali%20e%20militar_ce5c6a895a81.md);
 
-Visto il [R. decreto 2 maggio 1940, n. 902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-02;902), che approva il regolamento alla legge suddetta;
+Visto il [R. decreto 2 maggio 1940, n. 902](Regolamento%20per%20il%20matrimonio%20dei%20sottufficiali%20e%20militari%20di%20truppa%20delle%20Forze%20armate%20dello%20Stato.%20040U0902.md), che approva il regolamento alla legge suddetta;
 
 Visto l'[art. 18 della legge 19 gennaio 1939; n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 

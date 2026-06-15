@@ -24,13 +24,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'articolo 1 del Nostro decreto in data 27 agosto 1916, n. 1055; 
  
- Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738); 
+ Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md); 
  
  Sulla proposta del ministro segretario di Stato per il tesoro di concerto con quello per la istruzione pubblica; 
  
  Abbiamo decretato e decretiamo: 
  
- Allo stanziamento del capitolo n. 173 «Scuola di agraria annessa alla Regia Universita' di Bologna - Spesa alla quale si provvedeva con i proventi di cui alla [legge 9 giugno 1901, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-06-09;289) - Spese di materiale, personale, ecc.» dello stato di previsione della spesa del Ministero dell'istruzione pubblica per l'esercizio finanziario 1916-917 e' apportato l'aumento di lire milleduecentoventicinque (L. 1225). 
+ Allo stanziamento del capitolo n. 173 «Scuola di agraria annessa alla Regia Universita' di Bologna - Spesa alla quale si provvedeva con i proventi di cui alla [legge 9 giugno 1901, n. 289](Istituzione%20di%20una%20Scuola%20agraria%20presso%20la%20R.%20Universita%20di%20Bologna.%20001U0289.md) - Spese di materiale, personale, ecc.» dello stato di previsione della spesa del Ministero dell'istruzione pubblica per l'esercizio finanziario 1916-917 e' apportato l'aumento di lire milleduecentoventicinque (L. 1225). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

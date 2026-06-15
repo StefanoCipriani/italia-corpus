@@ -176,7 +176,7 @@ I medici visitatori hanno l'obbligo di denunziare immediatamente all'autorita' s
 
 Nessuna retribuzione o compenso di qualunque genere puo' essere offerto o corrisposto, dai tenutari dei locali di meretricio, ai medici visitatori e da questi accettato per nessun titolo. 
  
- La contravvenzione a questa disposizione e' punita, per i tenutari dei locali, coll'ammenda fino a L. 50 e colla eventuale chiusura del locale, da ordinarsi dal prefetto, per i medici visitatori con la sospensione o la revoca dall'ufficio da parte del prefetto stesso, salvo per gli uni e per gli altri le maggiori pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ La contravvenzione a questa disposizione e' punita, per i tenutari dei locali, coll'ammenda fino a L. 50 e colla eventuale chiusura del locale, da ordinarsi dal prefetto, per i medici visitatori con la sospensione o la revoca dall'ufficio da parte del prefetto stesso, salvo per gli uni e per gli altri le maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 17.
 

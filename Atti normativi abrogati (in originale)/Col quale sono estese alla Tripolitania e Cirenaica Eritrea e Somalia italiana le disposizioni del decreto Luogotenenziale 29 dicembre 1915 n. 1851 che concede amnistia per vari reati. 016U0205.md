@@ -24,11 +24,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'art. 8 dello statuto fondamentale del Regno; 
  
- Vista la [legge 6 luglio 1912, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;749) ed il [R. decreto 20 novembre 1912, n. 1205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-11-20;1205); 
+ Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md) ed il [R. decreto 20 novembre 1912, n. 1205](riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md); 
  
  Visti i RR. decreti 2 luglio 1908, n. 325, 8 giugno 1911, n. 937, 20 marzo 1913, n. 289 coi quali furono rispettivamente approvati gli ordinativi giudiziari dell'Eritrea, della Somalia italiana e della Tripolitania e Cirenaica; 
  
- Visti gli [articoli 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_86) e [87 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_87) e gli [articoli 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_589), [590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_590), [591 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_591); 
+ Visti gli [articoli 86](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [87 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e gli [articoli 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_589), [590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_590), [591 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_591); 
  
  Visto il Nostro decreto 13 giugno 1915, n. 910 col quale sono state estese alle colonie, nei riguardi dei cittadini italiani, le disposizioni dell'altro Nostro decreto 27 maggio 1915, n. 740 di amnistia ed indulto per vari reati; 
  

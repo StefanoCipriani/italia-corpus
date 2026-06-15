@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 luglio 1933, n. 1018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-07-29;1018), recante provvedimenti a favore dell'industria automobilistica. 
+ E' convertito in legge il [R. decreto-legge 29 luglio 1933, n. 1018](Provvedimenti%20a%20favore%20dellindustria%20automobilistica.%20033U1018.md), recante provvedimenti a favore dell'industria automobilistica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

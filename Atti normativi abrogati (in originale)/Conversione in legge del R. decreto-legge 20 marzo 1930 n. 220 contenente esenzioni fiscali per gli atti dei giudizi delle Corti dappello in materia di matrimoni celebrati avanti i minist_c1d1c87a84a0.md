@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 marzo 1930, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-20;220), contenente esenzioni fiscali per gli atti dei giudizi delle Corti d'appello in materia di matrimoni celebrati avanti i ministri del culto cattolico e per gli atti di dispensa dalle pubblicazioni e dagli impedimenti al matrimonio. 
+ E' convertito in legge il [R. decreto-legge 20 marzo 1930, n. 220](Esenzioni%20fiscali%20per%20gli%20atti%20dei%20giudizi%20delle%20Corti%20dappello%20in%20materia%20di%20matrimoni%20celebrati%20avanti%20ai%20ministri%20del%20culto%20cattolico%20e%20per%20gli%20atti%20di%20dispensa%20dalle%20pubblicazioni%20e%20d_60c6101a9ab9.md), contenente esenzioni fiscali per gli atti dei giudizi delle Corti d'appello in materia di matrimoni celebrati avanti i ministri del culto cattolico e per gli atti di dispensa dalle pubblicazioni e dagli impedimenti al matrimonio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

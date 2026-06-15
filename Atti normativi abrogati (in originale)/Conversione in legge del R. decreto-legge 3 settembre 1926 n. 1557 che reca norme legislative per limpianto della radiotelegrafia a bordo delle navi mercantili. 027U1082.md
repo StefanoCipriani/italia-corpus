@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 settembre 1926, n. 1557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-03;1557), che reca norme legislative per l'impianto della radiotelegrafia a bordo delle navi mercantili. 
+ E' convertito in legge il [R. decreto-legge 3 settembre 1926, n. 1557](Norme%20legislative%20per%20limpianto%20e%20lesercizio%20della%20radiotelegrafia%20a%20bordo%20delle%20navi%20mercantili.%20026U1557.md), che reca norme legislative per l'impianto della radiotelegrafia a bordo delle navi mercantili. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

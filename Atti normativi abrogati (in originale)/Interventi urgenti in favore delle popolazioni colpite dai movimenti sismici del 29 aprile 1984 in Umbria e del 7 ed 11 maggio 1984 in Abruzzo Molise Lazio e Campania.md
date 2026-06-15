@@ -28,7 +28,7 @@ Per far fronte ai necessari interventi in favore delle popolazioni colpite dai m
 
 2.
 
-La somma di cui al precedente comma affluisce al fondo per la protezione civile, istituito con l'[articolo 2 del decreto-legge 10 luglio 1982, n. 428](Misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnimento%20degli%20incendi.md), convertito, con modificazioni, nella [legge 12 agosto 1982, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;547), e successive integrazioni.
+La somma di cui al precedente comma affluisce al fondo per la protezione civile, istituito con l'[articolo 2 del decreto-legge 10 luglio 1982, n. 428](Misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnimento%20degli%20incendi.md), convertito, con modificazioni, nella [legge 12 agosto 1982, n. 547](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20428%20recante%20misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnim_04ba3d019ac1.md), e successive integrazioni.
 
 ## Art. 2.
 
@@ -50,7 +50,7 @@ Le amministrazioni destinatarie delle quote di cui ai precedenti commi provvedon
 
 5.
 
-Restano fermi i poteri e le attribuzioni del Ministro per il coordinamento della protezione civile di cui al [comma 2 dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, nella [legge 23 dicembre 1982, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-23;938).
+Restano fermi i poteri e le attribuzioni del Ministro per il coordinamento della protezione civile di cui al [comma 2 dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, nella [legge 23 dicembre 1982, n. 938](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20novembre%201982%20n.%20829%20concernente%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20da%20calamita%20naturali%20o%20eventi%20eccezionali.md).
 
 6.
 
@@ -66,11 +66,11 @@ Il primo programma e' presentato entro il 30 settembre 1984.
 
 9.
 
-Il Ministro per il coordinamento della protezione civile, ai sensi del [comma 2 dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, nella [legge 23 dicembre 1982, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-23;938), determina, con propria ordinanza, i criteri e le modalita' in ordine alla riattuazione degli edifici e delle opere danneggiate dalle calamita' di cui al presente decreto.
+Il Ministro per il coordinamento della protezione civile, ai sensi del [comma 2 dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, nella [legge 23 dicembre 1982, n. 938](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20novembre%201982%20n.%20829%20concernente%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20da%20calamita%20naturali%20o%20eventi%20eccezionali.md), determina, con propria ordinanza, i criteri e le modalita' in ordine alla riattuazione degli edifici e delle opere danneggiate dalle calamita' di cui al presente decreto.
 
 10.
 
-Per la ricostruzione si applica la disciplina della [legge 14 maggio 1981, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), e successive integrazioni e modificazioni, in quanto compatibile e salvo quanto diversamente stabilito con le norme di cui al presente decreto.
+Per la ricostruzione si applica la disciplina della [legge 14 maggio 1981, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md), e successive integrazioni e modificazioni, in quanto compatibile e salvo quanto diversamente stabilito con le norme di cui al presente decreto.
 
 11.
 
@@ -110,7 +110,7 @@ Ai fini di provvedere, in modo unitario, alle esigenze di riattuazione e ricostr
 
 1.
 
-Le spese relative agli interventi di riattuazione e ricostruzione nel settore agricolo e nei settori produttivi fanno carico rispettivamente ai fondi di cui alla [legge 15 ottobre 1981, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-15;590), e al [decreto-legge 15 dicembre 1951, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1951-12-15;1334), convertito, con modificazioni, nella [legge 13 febbraio 1952, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-13;50), e successive modificazioni.
+Le spese relative agli interventi di riattuazione e ricostruzione nel settore agricolo e nei settori produttivi fanno carico rispettivamente ai fondi di cui alla [legge 15 ottobre 1981, n. 590](Nuove%20norme%20per%20il%20Fondo%20di%20solidarieta%20nazionale.md), e al [decreto-legge 15 dicembre 1951, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1951-12-15;1334), convertito, con modificazioni, nella [legge 13 febbraio 1952, n. 50](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2015%20dicembre%201951%20n.%201334%20concernente%20lestensione%20alle%20imprese%20commerciali%20ed%20artigiane%20della%20legge%2021%20agosto%201949%20n.%20638%20sulle%20imprese%20industriali%20d_0949d70ecf98.md), e successive modificazioni.
 
 2.
 
@@ -120,7 +120,7 @@ Il Ministro per il coordinamento della protezione civile provvede a stabilire co
 
 1.
 
-Per l'esecuzione dei lavori di competenza dell'ANAS. relativi al ripristino ed allo sviluppo della rete delle strade statali nelle zone colpite dalle calamita' naturali di cui al presente decreto, i capi compartimento della viabilita' sono autorizzati, in deroga ai limiti stabiliti dall'articolo 70 del regolamento approvato con [regio decreto 25 maggio 1895, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-05-25;350), e successive modificazioni, e dall'[articolo 25, lettera e), della legge 7 febbraio 1961, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-02-07;59#art_25-lete), a disporre l'esecuzione col sistema dell'economia.
+Per l'esecuzione dei lavori di competenza dell'ANAS. relativi al ripristino ed allo sviluppo della rete delle strade statali nelle zone colpite dalle calamita' naturali di cui al presente decreto, i capi compartimento della viabilita' sono autorizzati, in deroga ai limiti stabiliti dall'articolo 70 del regolamento approvato con [regio decreto 25 maggio 1895, n. 350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md), e successive modificazioni, e dall'[articolo 25, lettera e), della legge 7 febbraio 1961, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-02-07;59#art_25-lete), a disporre l'esecuzione col sistema dell'economia.
 
 2.
 
@@ -136,7 +136,7 @@ Il Ministro della pubblica istruzione, nel formulare i programmi di competenza, 
 
 5.
 
-I lavori di riparazione, di ricostruzione e di miglioramento di competenza dell'Amministrazione dello Stato sono considerati urgenti ai sensi dell'articolo 6 del regolamento approvato con [regio decreto 22 ottobre 1886, n. 3859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-10-22;3859). Per i lavori che interessano i beni di interesse storico, artistico e archeologico, anche di proprieta' privata, possono essere superati i limiti di spesa stabiliti dalla [legge 1 marzo 1975, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-01;44), senza alcuna limitazione e si applicano le disposizioni di cui alla [legge 14 marzo 1968, n. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;292).
+I lavori di riparazione, di ricostruzione e di miglioramento di competenza dell'Amministrazione dello Stato sono considerati urgenti ai sensi dell'articolo 6 del regolamento approvato con [regio decreto 22 ottobre 1886, n. 3859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-10-22;3859). Per i lavori che interessano i beni di interesse storico, artistico e archeologico, anche di proprieta' privata, possono essere superati i limiti di spesa stabiliti dalla [legge 1 marzo 1975, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-01;44), senza alcuna limitazione e si applicano le disposizioni di cui alla [legge 14 marzo 1968, n. 292](Disposizioni%20sulla%20competenza%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lavori%20che%20interessano%20il%20patrimonio%20storico%20e%20artistico.md).
 
 6.
 
@@ -164,7 +164,7 @@ Le somme per fronteggiare le emergenze e consentire le riattuazioni piu' urgenti
 
 1.
 
-Il gruppo nazionale per la difesa dai terremoti, costituito dal Ministro per il coordinamento delle iniziative per la ricerca scientifica e tecnologica, di concerto con il Ministro dei lavori pubblici, con decreto 12 giugno 1981 ai sensi dell'[articolo 14-undecies della legge 22 dicembre 1980, n. 874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-12-22;874#art_14undecies), continua ad operare, con le stesse modalita' di funzionamento previste nel suddetto decreto, fino alla istituzione dei servizi scientifici per la difesa dalle calamita' naturali collegati all'attuazione del Servizio nazionale per la protezione civile e comunque per non oltre un biennio dalla data di entrata in vigore del presente decreto.
+Il gruppo nazionale per la difesa dai terremoti, costituito dal Ministro per il coordinamento delle iniziative per la ricerca scientifica e tecnologica, di concerto con il Ministro dei lavori pubblici, con decreto 12 giugno 1981 ai sensi dell'[articolo 14-undecies della legge 22 dicembre 1980, n. 874](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20novembre%201980%20n.%20776%20recante%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dal%20terremoto%20del%20novembre%201980.md), continua ad operare, con le stesse modalita' di funzionamento previste nel suddetto decreto, fino alla istituzione dei servizi scientifici per la difesa dalle calamita' naturali collegati all'attuazione del Servizio nazionale per la protezione civile e comunque per non oltre un biennio dalla data di entrata in vigore del presente decreto.
 
 2.
 
@@ -191,7 +191,7 @@ Con le stesse disponibilita' di cui al precedente comma, il Ministro per il coor
 
 3.
 
-In deroga alla disposizione contenuta nell'[articolo 25 del decreto-legge 27 febbraio 1982, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-02-27;57#art_25), convertito, con modificazioni, nella [legge 29 aprile 1982, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-29;187), agli oneri occorrenti per le riparazioni delle roulottes, gestite dalle Forze armate ai sensi del quinto comma dell'articolo 2 del richiamato decreto-legge, si provvede con le disponibilita' del fondo per la protezione civile.
+In deroga alla disposizione contenuta nell'[articolo 25 del decreto-legge 27 febbraio 1982, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-02-27;57#art_25), convertito, con modificazioni, nella [legge 29 aprile 1982, n. 187](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20febbraio%201982%20n.%2057%20concernente%20disciplina%20per%20la%20gestione%20stralcio%20dellattivita%20del%20commissario%20per%20le%20zone%20terremotate%20della%20_0affa8529913.md), agli oneri occorrenti per le riparazioni delle roulottes, gestite dalle Forze armate ai sensi del quinto comma dell'articolo 2 del richiamato decreto-legge, si provvede con le disponibilita' del fondo per la protezione civile.
 
 ## Art. 11.
 
@@ -201,19 +201,19 @@ Il Ministro per il coordinamento della protezione civile, in attesa della discip
 
 1.
 
-Il termine del 30 giugno 1984 previsto nel [comma 15 dell'articolo 6 del decreto-legge 29 dicembre 1983, n. 747](Disciplina%20della%20proroga%20dei%20termini%20di%20vigenza%20delle%20leggi%20e%20proroga%20di%20taluni%20termini%20in%20scadenza%20al%2031%20dicembre%201983.md), convertito, con modificazioni, nella [legge 27 febbraio 1984, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-02-27;18), e' ulteriormente prorogato al 31 dicembre 1984.
+Il termine del 30 giugno 1984 previsto nel [comma 15 dell'articolo 6 del decreto-legge 29 dicembre 1983, n. 747](Disciplina%20della%20proroga%20dei%20termini%20di%20vigenza%20delle%20leggi%20e%20proroga%20di%20taluni%20termini%20in%20scadenza%20al%2031%20dicembre%201983.md), convertito, con modificazioni, nella [legge 27 febbraio 1984, n. 18](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%201983%20n.%20747%20concernente%20disciplina%20della%20proroga%20dei%20termini%20di%20vigenza%20delle%20leggi%20e%20proroga%20di%20taluni%20termini%20in%20sca_ce247a22eed6.md), e' ulteriormente prorogato al 31 dicembre 1984.
 
 2.
 
-Per la disciplina degli eventuali atti ancora pendenti alla predetta data del 31 dicembre 1984 si applicano le disposizioni di cui al [quinto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-11;114#art_1-com5) e [sesto comma dell'articolo 1 della legge 11 aprile 1983, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-11;114#art_1-com6).
+Per la disciplina degli eventuali atti ancora pendenti alla predetta data del 31 dicembre 1984 si applicano le disposizioni di cui al [quinto](Proroga%20della%20gestione%20stralcio%20dellattivita%20del%20commissario%20per%20le%20zone%20terremotate%20della%20Campania%20e%20della%20Basilicata.md) e [sesto comma dell'articolo 1 della legge 11 aprile 1983, n. 114](Proroga%20della%20gestione%20stralcio%20dellattivita%20del%20commissario%20per%20le%20zone%20terremotate%20della%20Campania%20e%20della%20Basilicata.md).
 
 3.
 
-Il termine indicato nel [secondo comma dell'articolo 9 del decreto-legge 27 febbraio 1982, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-02-27;57#art_9-com2), convertito, con modificazioni, nella [legge 29 aprile 1982, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-29;187), gia' prorogato al 30 giugno 1984 col [comma 4 dell'articolo 1 del decreto-legge 28 febbraio 1984, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-28;19#art_1-com4), convertito, con modificazioni, nella [legge 18 aprile 1984, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80), e' ulteriormente prorogato al 30 giugno 1985.
+Il termine indicato nel [secondo comma dell'articolo 9 del decreto-legge 27 febbraio 1982, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-02-27;57#art_9-com2), convertito, con modificazioni, nella [legge 29 aprile 1982, n. 187](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20febbraio%201982%20n.%2057%20concernente%20disciplina%20per%20la%20gestione%20stralcio%20dellattivita%20del%20commissario%20per%20le%20zone%20terremotate%20della%20_0affa8529913.md), gia' prorogato al 30 giugno 1984 col [comma 4 dell'articolo 1 del decreto-legge 28 febbraio 1984, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-28;19#art_1-com4), convertito, con modificazioni, nella [legge 18 aprile 1984, n. 80](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201984%20n.%2019%20recante%20proroga%20dei%20termini%20ed%20accelerazione%20delle%20procedure%20per%20lapplicazione%20della%20legge%2014%20maggio%201981%20n_a07e7a1fc128.md), e' ulteriormente prorogato al 30 giugno 1985.
 
 4.
 
-Il Ministro per il coordinamento della protezione civile e' autorizzato, per l'attivita' di studi, progettazioni e sperimentazioni di cui al [comma 1-ter dell'articolo 1 del decreto-legge 7 novembre 1983, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-11-07;623#art_1-com1ter), convertito, con modificazioni, nella [legge 23 dicembre 1983, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-23;748), a stipulare convenzioni secondo i criteri e le modalita' gia' applicate dai commissari straordinari di Governo per l'attuazione del titolo VIII della [legge 14 maggio 1981, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), per incarichi analoghi.
+Il Ministro per il coordinamento della protezione civile e' autorizzato, per l'attivita' di studi, progettazioni e sperimentazioni di cui al [comma 1-ter dell'articolo 1 del decreto-legge 7 novembre 1983, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-11-07;623#art_1-com1ter), convertito, con modificazioni, nella [legge 23 dicembre 1983, n. 748](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20novembre%201983%20n.%20623%20recante%20interventi%20urgenti%20per%20le%20zone%20colpite%20dal%20bradisismo%20dellarea%20flegrea%20e%20dal%20terremoto%20del%201980.md), a stipulare convenzioni secondo i criteri e le modalita' gia' applicate dai commissari straordinari di Governo per l'attuazione del titolo VIII della [legge 14 maggio 1981, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md), per incarichi analoghi.
 
 ## Art. 13.
 

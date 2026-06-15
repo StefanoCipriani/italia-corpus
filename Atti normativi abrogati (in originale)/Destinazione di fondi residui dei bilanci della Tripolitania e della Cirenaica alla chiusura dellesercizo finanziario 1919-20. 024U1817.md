@@ -18,7 +18,7 @@ Visto il [decreto Luogotenenziale 21 agosto 1915, n. 1363](https://www.normattiv
 
 Visto il [decreto Luogotenenziale 13 giugno 1918, n. 1051](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-13;1051);
 
-Visto il [R. decreto 7 ottobre 1923, n. 2403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-07;2403);
+Visto il [R. decreto 7 ottobre 1923, n. 2403](Prelevamento%20della%20somma%20di%20L.%2046043075%20dalle%20disponibilita%20dei%20conti%20correnti%20istituiti%20fra%20il%20Ministero%20delle%20colonie%20e%20la%20Tesoreria%20centrale%20per%20inserirla%20nei%20bilanci%20della%20Tripolitani_e1f9d5952830.md);
 
 Riconosciuta la necessita' per non aggravare il Tesoro dello Stato, di destinare l'avanzo finanziario risultante, alla chiusura dell'esercizio finanziario 1919-20, dalle operazioni del bilancio della Tripolitania e della Cirenaica, oltre che per i fini esplicitamente espressi nel succitato [decreto Luogotenenziale 13 giugno 1918, n. 1051](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-13;1051), anche per i seguenti scopi: a) per opere di pubblica utilita' e per concessione di mutui industriali nelle colonie dell'Africa Orientale; b) per mettere il Governo della Somalia Italiana in grado di pagare il debito di L. 2,667,440.31 che ha verso l'Amministrazione postale, c) per concessione di mutui a favore di Enti che esercitano il credito agrario nella Cirenaica;
 

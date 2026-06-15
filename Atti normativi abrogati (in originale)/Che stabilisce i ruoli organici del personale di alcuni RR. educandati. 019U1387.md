@@ -22,31 +22,31 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visti i RR. decreti 2 giugno 1895, nn. 392,393, 394, 395, 396 che approvano gli statuti organici dei RR. collegi femminili «Agli Angeli», di Verona, «delle Fanciulle» di Milano, «San Benedetto», di Montagnana, «Maria Adelaide» di Palermo e di «Poggio Imperiale», di Firenze;
 
-Visto il [R. decreto 31 agosto 1901, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-08-31;449), che modifica gli articoli 16 e 41 dello statuto organico del Collegio «Agli Angeli» di Verona;
+Visto il [R. decreto 31 agosto 1901, n. 449](Che%20modifica%20lo%20Statuto%20organico%20del%20R.%20Collegio%20femminile%20degli%20Angeli%20in%20Verona.%20001U0449.md), che modifica gli articoli 16 e 41 dello statuto organico del Collegio «Agli Angeli» di Verona;
 
-Visto il [R. decreto 29 settembre 1902, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-09-29;443), che modifica l'art. 18 dello statuto organico del R. Collegio delle Fanciulle di Milano;
+Visto il [R. decreto 29 settembre 1902, n. 443](Relativo%20alla%20designazione%20di%20talune%20zone%20malariche%20esistenti%20nelle%20provincie%20di%20Reggio%20Calabria.%20002U0443.md), che modifica l'art. 18 dello statuto organico del R. Collegio delle Fanciulle di Milano;
 
-Visto il [R. decreto 15 maggio 1898, n. 194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-05-15;194), che modifica l'art. 16 dello statuto organico del R. collegio «Maria Adelaide» di Palermo;
+Visto il [R. decreto 15 maggio 1898, n. 194](Che%20sostituisce%20con%20altro%20il%203%20comma%20dellart.%2016%20dello%20Statuto%20organico%20del%20R.%20Educatorio%20femminile%20Maria%20Adelaide%20in%20Palermo.%20098U0194.md), che modifica l'art. 16 dello statuto organico del R. collegio «Maria Adelaide» di Palermo;
 
-Visto il [R. decreto 15 dicembre 1912, n. 1449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-12-15;1449), che modifica l'art. 17 dello statuto organico del R. Collegio femminile di Poggio Imperiale di Firenze;
+Visto il [R. decreto 15 dicembre 1912, n. 1449](Aggiunta%20di%20un%20comma%20ad%20uno%20statuto%20organico%20collegiale.%20012U1449.md), che modifica l'art. 17 dello statuto organico del R. Collegio femminile di Poggio Imperiale di Firenze;
 
 Visti i RR. decreti 26 aprile 1900, n. 238; 13 novembre 1902, n. 567; 25 luglio 1912, n.989; 2 agosto 1912, n. 972, relativi al ruolo organico del R. Collegio femminile «Agli Angeli» di Verona;
 
 Visti i RR. decreti 6 ottobre 1867, n. 1941 (parte. supplementare); 20 giugno 1871, n. 313; 29 giugno 1883, n. 1514 (serie 3ª), relativi agli Istituti pubblici femminili di educazione;
 
-Vista la [legge 25 maggio 1913, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-25;517), riguardante la trasformazione di Istituti di istruzione e di educazione;
+Vista la [legge 25 maggio 1913, n. 517](Concernente%20la%20trasformazione%20di%20Istituti%20di%20istruzione%20e%20di%20educazione.%20013U0517.md), riguardante la trasformazione di Istituti di istruzione e di educazione;
 
-Veduta la [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), relativa agli Istituti di istruzione media;
+Veduta la [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), relativa agli Istituti di istruzione media;
 
-Visto il [R. decreto 27 maggio 1900, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-05-27;237), che modifica l'art. 39 dello statuto ed il ruolo organico del R. collegio femminile «delle Fanciulle» di Milano;
+Visto il [R. decreto 27 maggio 1900, n. 237](Ruolo%20organico%20del%20R.%20Collegio%20femminile%20di%20Milano.%20000U0237.md), che modifica l'art. 39 dello statuto ed il ruolo organico del R. collegio femminile «delle Fanciulle» di Milano;
 
 Veduta la [legge 3 luglio 1908, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-03;413), relativa al ruolo organico del R. collegio femminile di San Benedetto Montagnana;
 
-Visto il [R. decreto 10 febbraio 1898, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-02-10;111), relativo al ruolo organico del R. collegio «Maria Adelaide» di Palermo;
+Visto il [R. decreto 10 febbraio 1898, n. 111](Che%20modifica%20il%20ruolo%20organico%20del%20personale%20del%20R.%20Educatorio%20femminile%20Maria%20Adelaide%20in%20Palermo.%20098U0111.md), relativo al ruolo organico del R. collegio «Maria Adelaide» di Palermo;
 
 Visti i RR. decreti 15 ottobre 1895, n. 702, e 6 maggio 1906, n. 225, relativi al ruolo organico del R. collegio femminile al Poggio Imperiale di Firenze;
 
-Veduta la [legge 27 giugno 1909, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-27;415), che approva la conversione del Collegio Uccellis di Udine educatorio femminile governativo e fissa il ruolo organico dell'Istituto;
+Veduta la [legge 27 giugno 1909, n. 415](Per%20la%20conversione%20del%20collegio%20Uccellis%20di%20Udine%20in%20educatorio%20femminile%20governativo.%20009U0415.md), che approva la conversione del Collegio Uccellis di Udine educatorio femminile governativo e fissa il ruolo organico dell'Istituto;
 
 Udito il Consiglio dei ministri;
 
@@ -78,7 +78,7 @@ I posti di direttore spirituale, di insegnante di disegno, di calligrafia, di st
 
 ## Art. 5.
 
-Il [secondo comma dell'art. 8 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_8-com2), e' abrogato per la parte che si riferisce all'obbligo degli insegnanti delle RR. scuole medie di completare l'orario minimo prescritto negli Istituti governativi di educazione femminile.
+Il [secondo comma dell'art. 8 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), e' abrogato per la parte che si riferisce all'obbligo degli insegnanti delle RR. scuole medie di completare l'orario minimo prescritto negli Istituti governativi di educazione femminile.
 
 ## Art. 6.
 
@@ -90,7 +90,7 @@ Le direttrici, gli insegnanti e le istitutrici degli educandati governativi, all
 
 ## Art. 8.
 
-Oltreche' negli Istituii e nei modi di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-25;517#art_1) e [6 della legge 25 maggio 1913, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-25;517#art_6), gli Istituti femminili posti sotto la dipendenza del Ministero dell'istruzione pubblica, a norma dei RR. decreti 6 ottobre 1867, n. 1941 (parte supplementare) e 29 giugno 1883, n. 1514 (serie 3ª), potranno, sentiti gli enti interessati e il parere della Giunta provinciale delle scuole medie, essere trasformati in convitti o semi-convitti per accogliere alunne che frequentino le pubbliche scuole medie e gli Istituti superiori di magistero femminile od altri Istituti femminili di istruzione media. 
+Oltreche' negli Istituii e nei modi di cui agli [articoli 1](Concernente%20la%20trasformazione%20di%20Istituti%20di%20istruzione%20e%20di%20educazione.%20013U0517.md) e [6 della legge 25 maggio 1913, n. 517](Concernente%20la%20trasformazione%20di%20Istituti%20di%20istruzione%20e%20di%20educazione.%20013U0517.md), gli Istituti femminili posti sotto la dipendenza del Ministero dell'istruzione pubblica, a norma dei RR. decreti 6 ottobre 1867, n. 1941 (parte supplementare) e 29 giugno 1883, n. 1514 (serie 3ª), potranno, sentiti gli enti interessati e il parere della Giunta provinciale delle scuole medie, essere trasformati in convitti o semi-convitti per accogliere alunne che frequentino le pubbliche scuole medie e gli Istituti superiori di magistero femminile od altri Istituti femminili di istruzione media. 
  
  Essi potranno anche, con le stesse norme, essere soppressi o concentrati, o raggruppati con altri Istituti analoghi dipendenti dal Ministero della istruzione pubblica, esistenti nello stesso Comune o nella stessa Provincia. 
  

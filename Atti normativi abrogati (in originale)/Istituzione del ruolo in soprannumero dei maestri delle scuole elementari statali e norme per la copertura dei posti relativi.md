@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-E' istituito presso ogni Provveditorato agli studi, oltre al ruolo previsto con il [decreto legislativo del Capo provvisorio dello Stato 2 maggio 1947, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-02;499), ratificato, con modificazioni, con [legge 23 aprile 1952, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-23;526), un ruolo di maestri in soprannumero.
+E' istituito presso ogni Provveditorato agli studi, oltre al ruolo previsto con il [decreto legislativo del Capo provvisorio dello Stato 2 maggio 1947, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-02;499), ratificato, con modificazioni, con [legge 23 aprile 1952, n. 526](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%202%20maggio%201947%20n.%20499%20concernente%20il%20riordinamento%20dei%20ruoli%20organici%20e%20della%20carriera%20degli%20insegnanti%20elementari.md), un ruolo di maestri in soprannumero.
  Il numero dei posti di tale ruolo e' pari al decimo dei posti del ruolo istituito con il decreto legislativo predetto.
 
 ## Art. 2.

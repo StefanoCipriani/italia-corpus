@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare di pace, approvato con [regio decreto 20 febbraio 1941, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-02-20;303);
+Visto il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace, approvato con [regio decreto 20 febbraio 1941, n. 303](../Codici/Codici%20penali%20militari%20di%20pace%20e%20di%20guerra%20041U0303.md);
 
-Visto il [regio decreto 9 settembre 1941, n. 1023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1023);
+Visto il [regio decreto 9 settembre 1941, n. 1023](../Codici/Disposizioni%20di%20coordinamento%20transitorie%20e%20di%20attuazione%20dei%20Codici%20penali%20militari%20di%20pace%20e%20di%20guerra.%20041U1023.md);
 
 Visto il regolamento per gli stabilimenti militari di pena, approvato con decreto luogotenenziale 27 ottobre 1918;
 
-Visto il [regio decreto 10 febbraio 1943, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-02-10;306);
+Visto il [regio decreto 10 febbraio 1943, n. 306](Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md);
 
-Vista la [legge 7 maggio 1981, n. 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-07;180);
+Vista la [legge 7 maggio 1981, n. 180](Modifiche%20allordinamento%20giudiziario%20militare%20di%20pace.md);
 
 Vista la [legge 29 aprile 1983, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-29;167);
 
@@ -44,7 +44,7 @@ EMANA il seguente decreto:
 
 1.
 
-L'[articolo 409 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_409) militare di pace e' sostituito dal seguente:
+L'[articolo 409 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e' sostituito dal seguente:
  "Art. 409 - (Ufficio militare di sorveglianza).
  1. L'ufficio militare di sorveglianza e' costituito in Roma ed ha giurisdizione su tutto il territorio nazionale.
  2. Al suddetto ufficio sono assegnati magistrati militari di Cassazione, di appello e di tribunale, nonche' personale del ruolo delle cancellerie e segreterie giudiziarie e personale esecutivo e subalterno, civile o militare.
@@ -56,8 +56,8 @@ L'[articolo 409 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 1.
 
-L'[art. 4 della legge 7 maggio 1981, n. 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-07;180#art_4), e' sostituito dal seguente:
- "Art. 4 - (Tribunale militare di sorveglianza). - 1. E' costituito, in Roma, con giurisdizione su tutto il territorio nazionale, il tribunale militare di sorveglianza che si compone di tutti i magistrati militari di sorveglianza e di esperti nominati, fino alla costituzione dell'organo di autogoverno della magistratura militare, con decreto del Presidente della Repubblica, su proposta del Ministro della difesa, sentito il comitato istituito ai sensi del [primo comma dell'articolo 15 della legge 7 maggio 1981, n. 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-07;180#art_15-com1), nell'ambito delle categorie indicate nell'[articolo 80, quarto comma, della legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_80-com4), nonche' fra i docenti di scienze criminalistiche.
+L'[art. 4 della legge 7 maggio 1981, n. 180](Modifiche%20allordinamento%20giudiziario%20militare%20di%20pace.md), e' sostituito dal seguente:
+ "Art. 4 - (Tribunale militare di sorveglianza). - 1. E' costituito, in Roma, con giurisdizione su tutto il territorio nazionale, il tribunale militare di sorveglianza che si compone di tutti i magistrati militari di sorveglianza e di esperti nominati, fino alla costituzione dell'organo di autogoverno della magistratura militare, con decreto del Presidente della Repubblica, su proposta del Ministro della difesa, sentito il comitato istituito ai sensi del [primo comma dell'articolo 15 della legge 7 maggio 1981, n. 180](Modifiche%20allordinamento%20giudiziario%20militare%20di%20pace.md), nell'ambito delle categorie indicate nell'[articolo 80, quarto comma, della legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_80-com4), nonche' fra i docenti di scienze criminalistiche.
  2. I provvedimenti del tribunale militare di sorveglianza sono adottati da un collegio composto dal presidente, magistrato militare di sorveglianza con funzioni di magistrato militare di Cassazione o, in sua assenza o impedimento, dal magistrato militare di sorveglianza che lo segue nell'ordine delle funzioni giudiziarie e, a parita' di funzioni, nell'anzianita', da un magistrato di sorveglianza e da due fra gli esperti di cui al precedente comma 1.
  3. Per le funzioni e provvedimenti del tribunale militare di sorveglianza e per le funzioni del presidente dello stesso si osservano, in quanto applicabili, le disposizioni di cui agli [articoli 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_70) e [70-bis della legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_70bis), rispettivamente sostituito e inserito dagli [articoli 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-10;663#art_22) e [23 della legge 10 ottobre 1986, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-10;663#art_23)".
 
@@ -79,7 +79,7 @@ L'[articolo 6 della legge 29 aprile 1983, n. 167](https://www.normattiva.it/uri-
 
 1.
 
-Sono abrogati gli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-02-10;306#art_6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-02-10;306#art_7) e [8 del regio decreto 10 febbraio 1943, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-02-10;306#art_8), nonche' l'[articolo 37 del regio decreto 9 settembre 1941, n. 1023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1023#art_37).
+Sono abrogati gli [articoli 6](Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md), [7](Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md) e [8 del regio decreto 10 febbraio 1943, n. 306](Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md), nonche' l'[articolo 37 del regio decreto 9 settembre 1941, n. 1023](../Codici/Disposizioni%20di%20coordinamento%20transitorie%20e%20di%20attuazione%20dei%20Codici%20penali%20militari%20di%20pace%20e%20di%20guerra.%20041U1023.md).
 
 ## Art. 6.
 

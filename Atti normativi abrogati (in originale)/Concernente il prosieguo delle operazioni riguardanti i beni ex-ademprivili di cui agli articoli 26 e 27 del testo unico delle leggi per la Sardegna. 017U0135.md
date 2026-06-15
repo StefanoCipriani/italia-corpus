@@ -20,13 +20,13 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Ritenuta la necessita' e l'urgenza di autorizzare la prosecuzione delle operazioni di cui agli articoli 26 e 27 del testo unico delle leggi contenenti provvedimenti per la Sardegna, approvato con [R. decreto 10 novembre 1907, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-11-10;844), essendo scaduto il termine fissato al 31 dicembre 1915 con la [legge 21 luglio 1911, n. 884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-21;884), e prorogato di un anno con Nostro [decreto-legge 21 novembre 1915, n. 1674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-11-21;1674);
+Ritenuta la necessita' e l'urgenza di autorizzare la prosecuzione delle operazioni di cui agli articoli 26 e 27 del testo unico delle leggi contenenti provvedimenti per la Sardegna, approvato con [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), essendo scaduto il termine fissato al 31 dicembre 1915 con la [legge 21 luglio 1911, n. 884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-21;884), e prorogato di un anno con Nostro [decreto-legge 21 novembre 1915, n. 1674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-11-21;1674);
 
 Sulla proposta del ministro segretario di Stato per l'agricoltura; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Le operazioni riguardanti i beni ex-ademprivili, di cui agli articoli 26 e 27 del testo unico delle leggi recanti provvedimenti per la Sardegna, approvato con [R. decreto 10 novembre 1907, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-11-10;844), saranno proseguite sino al 31 dicembre 1919.
+Le operazioni riguardanti i beni ex-ademprivili, di cui agli articoli 26 e 27 del testo unico delle leggi recanti provvedimenti per la Sardegna, approvato con [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), saranno proseguite sino al 31 dicembre 1919.
 
 ## Art. 2.
 

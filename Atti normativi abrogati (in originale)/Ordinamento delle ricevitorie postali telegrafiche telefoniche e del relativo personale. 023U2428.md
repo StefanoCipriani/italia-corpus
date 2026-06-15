@@ -40,7 +40,7 @@ Esse vengono istituite o soppresse con decreto Ministeriale.
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 2.
 
@@ -57,7 +57,7 @@ Le ricevitorie sono di tre classi:
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 3.
 
@@ -72,7 +72,7 @@ Saranno gradatamente soppresse le ricevitorie succursali e le altre ricevitorie 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 4.
 
@@ -85,7 +85,7 @@ La concessione delle agenzie provenienti dalla separazione dei servizi a danaro 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 5.
 
@@ -98,7 +98,7 @@ Quanto ai servizi rurali (collettorie e portalettere) che siano istituiti in sos
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 6.
 
@@ -127,7 +127,7 @@ L'orario delle ricevitorie e delle agenzie viene stabilito dall'Amministrazione.
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Nomina dei ricevitori - Conferimento delle ricevitorie senza concorso e con concorso.
 
@@ -158,7 +158,7 @@ Per conseguire la nomina di ricevitore o di gerente di una ricevitoria occorre:
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 8.
 
@@ -177,7 +177,7 @@ Le ricevitorie sono conferite senza concorso, a titolo di successione, a favore 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 9.
 
@@ -186,7 +186,7 @@ In mancanza delle persone indicate nel precedente articolo 7 il conferimento del
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 10.
 
@@ -199,7 +199,7 @@ La concessione delle ricevitorie senza concorso ha luogo altresi':
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 11.
 
@@ -234,7 +234,7 @@ In mancanza di aspiranti di cui ai precedenti articoli 8, 9 e 10, si fa luogo al
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 12.
 
@@ -245,7 +245,7 @@ Qualora si manifesti l'assoluta incompatibilita' della ulteriore permanenza di u
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 13.
 
@@ -260,7 +260,7 @@ Salvo le eccezioni previste negli articoli precedenti, le ricevitorie sono confe
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 14.
 
@@ -297,7 +297,7 @@ Ai concorsi per ricevitorie con retribuzione annua fino a L. 15,000 possono pren
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Obblighi del ricevitore - Incompatibilità.
 
@@ -314,7 +314,7 @@ Il ricevitore deve disimpegnare personalmente il servizio.
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 16.
 
@@ -351,7 +351,7 @@ Il ricevitore non puo' esercitare quegli incarichi, impieghi, professioni, indus
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 17.
 
@@ -370,7 +370,7 @@ I ricevitori sono tenuti a prestare una cauzione (con vincolo di certificati di 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 18.
 
@@ -387,7 +387,7 @@ I ricevitori e i supplenti debbono risiedere nella localita' in cui e' situata l
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 19.
 
@@ -400,7 +400,7 @@ I ricevitori rispondono anche pecuniariamente ed a mezzo della cauzione prestata
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 20.
 
@@ -417,7 +417,7 @@ Il ricevitore ha l'obbligo di provvedere con la retribuzione a lui assegnata anc
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Disciplina - Risoluzione del rapporto di servizio.
 
@@ -434,7 +434,7 @@ Il ricevitore, che si rende colpevole di negligenza, di irregolarita' e mancanze
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 22.
 
@@ -465,7 +465,7 @@ Quando il ricevitore, anche per riprovevole condotta, non sia piu' meritevole de
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 23.
 
@@ -478,7 +478,7 @@ Quando la gravita' dei fatti lo richieda, il ricevitore puo' venire temporaneame
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 24.
 
@@ -493,7 +493,7 @@ In caso di risoluzione del rapporto per rinuncia del ricevitore, questi e' obbli
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Supplenti - Retribuzione - Tabella dei coefficienti di retribuzione e sua compilazione.
 
@@ -516,7 +516,7 @@ I ricevitori debbono essere coadiuvati dal numero di supplenti necessario ad ass
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 26.
 
@@ -551,7 +551,7 @@ La retribuzione a provvigione dei ricevitori e dei titolari degli uffici seconda
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 27.
 
@@ -564,7 +564,7 @@ Quando la retribuzione complessiva (compreso cioe' l'ammontare dell'aggio per la
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 28.
 
@@ -581,7 +581,7 @@ Finche' dura il rapporto di servizio, la retribuzione dei ricevitori e dei titol
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Commissione centrale e Commissioni compartimentali.
 
@@ -598,7 +598,7 @@ Sono istituite una Commissione centrale delle ricevitorie ed in ogni capoluogo d
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 30.
 
@@ -611,7 +611,7 @@ La Commissione centrale e' presieduta da un capo servizio dell'Amministrazione e
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 31.
 
@@ -626,7 +626,7 @@ Le Commissioni compartimentali sono presiedute dal direttore del compartimento.
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 32.
 
@@ -640,7 +640,7 @@ Ai ricevitori membri delle Commissioni compartimentali che non risiedono nella c
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 33.
 
@@ -649,7 +649,7 @@ Per un triennio, a decorrere dalla data di pubblicazione del presente decreto, n
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 34.
 
@@ -658,7 +658,7 @@ I gerenti ed i supplenti in attivita' di servizio, alla pari dei ricevitori, son
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 35.
 
@@ -671,7 +671,7 @@ Entro sei mesi sara' pubblicato un nuovo regolamento, comprendente anche le norm
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 36.
 
@@ -682,7 +682,7 @@ Fino a che non saranno costituite la Commissione centrale e le Commissioni compa
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 37.
 
@@ -705,7 +705,7 @@ E' abrogato il [R. decreto-legge 2 ottobre 1919, n. 2100](che%20stabilisce%20lor
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 38.
 

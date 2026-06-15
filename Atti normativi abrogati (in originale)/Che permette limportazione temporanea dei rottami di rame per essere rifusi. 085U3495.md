@@ -12,7 +12,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE 
  
- Vista la [legge 11 maggio 1881, n. 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-05-11;197) (serie 3ª); 
+ Vista la [legge 11 maggio 1881, n. 197](Che%20da%20facolta%20al%20Governo%20di%20provvedere%20alle%20importazioni%20ed%20esportazioni%20temporanee.%20081U0197.md) (serie 3ª); 
  
  Visto il R. decreto della stessa data, n. 216 (serie 3ª); 
  

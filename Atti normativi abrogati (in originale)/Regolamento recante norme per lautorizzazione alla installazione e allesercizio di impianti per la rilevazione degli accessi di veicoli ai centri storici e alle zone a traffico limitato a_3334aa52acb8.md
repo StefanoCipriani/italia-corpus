@@ -16,13 +16,13 @@ Visto l'[articolo 17, comma 133-bis, della legge 15 maggio 1997, n. 127](https:/
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), e successive modificazioni;
 
-Vista la [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675);
+Vista la [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md);
 
 Visto il [decreto del Presidente della Repubblica 10 novembre 1997, n. 513](Regolamento%20recante%20criteri%20e%20modalita%20per%20la%20formazione%20larchiviazione%20e%20la%20trasmissione%20di%20documenti%20con%20strumenti%20informatici%20e%20telematici%20a%20norma%20dellarticolo%2015%20comma%202%20della%20legge%201_a31e891a263b.md);
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), e successive modificazioni;
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
 
-Vito il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-16;495), e successive modificazioni;
+Vito il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni;
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
@@ -30,7 +30,7 @@ Visto il parere favorevole del Garante per la protezione dei dati personali, com
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 febbraio 1999;
 
-Acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8);
+Acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 10 maggio 1999;
 
@@ -63,7 +63,7 @@ L'autorizzazione di cui al comma 1 e' rilasciata entro il termine di novanta gio
 In caso di mancata conclusione del procedimento entro il termine di cui al comma 3, l'esercizio degli impianti si intende autorizzato, salva la facolta' del Ministero dei lavori pubblici, Ispettorato generale per la circolazione e la sicurezza stradale, di verificare la sussistenza dei requisiti richiesti per l'autorizzazione e di disporre, se del caso, con provvedimento motivato, la cessazione dell'esercizio degli impianti.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il testo dell'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) e' il seguente:
@@ -80,17 +80,17 @@ Avvertenza:
  Puo' concedere grazia e commutare le pene.
  Conferisce le onoreficienze della Repubblica".
  - L'[art. 17, comma 133-bis, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com133bis), introdotto dall'[art. 2, comma 33, della legge 16 giugno 1998, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;191#art_2-com33), e' il seguente:
- "133-bis. Con regolamento da emanare ai sensi dell'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), su proposta del Presidente del Consiglio dei Ministri, previo parere della Conferenza unificata di cui all'[art. 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8), sono disciplinate le procedure per la autorizzazione alla installazione ed esercizio di impianti per la rilevazione degli accessi di veicoli ai centri storici e alle zone a traffico limitato delle citta' ai fini dell'accertamento delle violazioni delle disposizioni in tema di limitazione del traffico veicolare e della irrogazione delle relative sanzioni. Con lo stesso regolamento sono indiduate le finalita' perseguibili nella rilevazione e nella utilizzazione dei dati, nonche' le categorie di soggetti che possono accedere ai dati personali rilevati a mezzo degli impianti".
+ "133-bis. Con regolamento da emanare ai sensi dell'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), su proposta del Presidente del Consiglio dei Ministri, previo parere della Conferenza unificata di cui all'[art. 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), sono disciplinate le procedure per la autorizzazione alla installazione ed esercizio di impianti per la rilevazione degli accessi di veicoli ai centri storici e alle zone a traffico limitato delle citta' ai fini dell'accertamento delle violazioni delle disposizioni in tema di limitazione del traffico veicolare e della irrogazione delle relative sanzioni. Con lo stesso regolamento sono indiduate le finalita' perseguibili nella rilevazione e nella utilizzazione dei dati, nonche' le categorie di soggetti che possono accedere ai dati personali rilevati a mezzo degli impianti".
  - La [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), reca: "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi".
- - La [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), reca: "Tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali".
- - Il [decreto del Presidente della Repubblica 10 novembre 1997, n. 513](Regolamento%20recante%20criteri%20e%20modalita%20per%20la%20formazione%20larchiviazione%20e%20la%20trasmissione%20di%20documenti%20con%20strumenti%20informatici%20e%20telematici%20a%20norma%20dellarticolo%2015%20comma%202%20della%20legge%201_a31e891a263b.md), reca: "Regolamento contenente i criteri e le modalita' di applicazione dell'[art. 15, comma 2, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_15-com2), in materia di formazione, archiviazione e trasmissione di documenti con strumenti informatici e telematici".
- - Il [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285) e successive modificazioni, reca: "Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)".
- - Il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-16;495), reca: "Regolamento di attuazione e di esecuzione del nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)".
+ - La [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), reca: "Tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali".
+ - Il [decreto del Presidente della Repubblica 10 novembre 1997, n. 513](Regolamento%20recante%20criteri%20e%20modalita%20per%20la%20formazione%20larchiviazione%20e%20la%20trasmissione%20di%20documenti%20con%20strumenti%20informatici%20e%20telematici%20a%20norma%20dellarticolo%2015%20comma%202%20della%20legge%201_a31e891a263b.md), reca: "Regolamento contenente i criteri e le modalita' di applicazione dell'[art. 15, comma 2, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), in materia di formazione, archiviazione e trasmissione di documenti con strumenti informatici e telematici".
+ - Il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e successive modificazioni, reca: "Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)".
+ - Il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), reca: "Regolamento di attuazione e di esecuzione del nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)".
  - L'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2) (Disciplina dell'attivita' di Governo e ordinamento della Presidente del Consiglio dei Ministri) e successive modificazioni, e' il seguente:
  "2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari".
- - L'[art. 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8) (Definizione e ampliamento delle attribuzioni della conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la conferenza Statocitta' ed autonomie locali), e' il seguente:
+ - L'[art. 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md) (Definizione e ampliamento delle attribuzioni della conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la conferenza Statocitta' ed autonomie locali), e' il seguente:
  "Art. 8 (Conferenza Statocitta' ed autonomie locali e conferenza unificata). - 1. La conferenza Statocitta' ed autonomie locali e' unificata per le materie e i compiti di interesse comune delle regioni, delle province, dei comuni e delle comunita' montane, con la conferenza Statoregioni.
- 2. La conferenza Statocitta' ed autonomie locali e' presieduta dal Presidente del Consiglio dei Ministri o, per sua delega, dal Ministro dell'interno o dal Ministro per gli affari regionali; ne fanno parte altresi' il Ministro del tesoro, del bilancio e della programmazione economica, il Ministro delle finanze, il Ministro dei lavori pubblici, il Ministro della sanita', il presidente dell'Associazione nazionale dei comuni d'Italia - ANCI, il presidente dell'Unione province d'Italia - UPI ed il presidente dell'Unione nazionale comuni, comunita' ed enti montani - UNCEM. Ne fanno parte inoltre quattordici sindaci designati dall'ANCI e sei presidenti di provincia designati dall'UPI. Dei quattordici sindaci designati dall'ANCI, cinque rappresentano le citta' individuate dall'[art. 17 della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_17). Alle riunioni possono essere invitati altri membri del Governo, nonche' rappresentanti di amministrazioni statali, locali o di enti pubblici.
+ 2. La conferenza Statocitta' ed autonomie locali e' presieduta dal Presidente del Consiglio dei Ministri o, per sua delega, dal Ministro dell'interno o dal Ministro per gli affari regionali; ne fanno parte altresi' il Ministro del tesoro, del bilancio e della programmazione economica, il Ministro delle finanze, il Ministro dei lavori pubblici, il Ministro della sanita', il presidente dell'Associazione nazionale dei comuni d'Italia - ANCI, il presidente dell'Unione province d'Italia - UPI ed il presidente dell'Unione nazionale comuni, comunita' ed enti montani - UNCEM. Ne fanno parte inoltre quattordici sindaci designati dall'ANCI e sei presidenti di provincia designati dall'UPI. Dei quattordici sindaci designati dall'ANCI, cinque rappresentano le citta' individuate dall'[art. 17 della legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md). Alle riunioni possono essere invitati altri membri del Governo, nonche' rappresentanti di amministrazioni statali, locali o di enti pubblici.
  3. La conferenza Statocitta' ed autonomie locali e' convocata almeno ogni tre mesi, e comunque in tutti i casi in cui il presidente ne ravvisi la necessita' o qualora ne faccia richiesta il presidente dell'ANCI, dell'UPI o dell'UNCEM.
  4. La conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno".
  Nota all'art. 1:
@@ -102,17 +102,17 @@ Avvertenza:
 
 Ai fini del presente regolamento si intende per:
                         a)
-                            "[codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)" il [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), e successive modificazioni, recante Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285) e per "regolamento di attuazione del [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)" il regolamento di esecuzione e di attuazione del Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), approvato con [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-16;495), e successive modificazioni;
+                            "[codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)" il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, recante Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e per "regolamento di attuazione del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)" il regolamento di esecuzione e di attuazione del Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), approvato con [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni;
                         b)
-                            "Organi di polizia stradale" gli Organi di cui all'[articolo 12 del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_12);
+                            "Organi di polizia stradale" gli Organi di cui all'[articolo 12 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md);
                         c)
                             "centro storico" la parte del centro abitato individuato in base alle zone definite A) ai sensi dell'[articolo 2 del decreto del Ministro dei lavori pubblici 2 aprile 1968, n. 1444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavori.pubblici:decreto:1968-04-02;1444#art_2);
                         d)
-                            "zone a traffico limitato" le zone delimitate rispettivamente ai sensi dell'[articolo 3, comma 1, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_3-com1-num54), e dell'[articolo 7, comma 9, del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_7-com9).
+                            "zone a traffico limitato" le zone delimitate rispettivamente ai sensi dell'[articolo 3, comma 1, n. 54](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e dell'[articolo 7, comma 9, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
 
 Note all'art. 2:
  - Per quanto concerne il [decreto legislativo n. 285/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285) e il [decreto del Presidente della Repubblica n. 495/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992;495) vedi nelle note alle premesse.
- - L'[art. 12 del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_12) e' il seguente:
+ - L'[art. 12 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
  "Art. 12 (Espletamento dei servizi di polizia stradale). 1. L'espletamento dei servizi di polizia stradale previsti dal presente codice spetta:
  a) in via principale alla specialita' polizia stradale della Polizia di Stato;
  b) alla Polizia di Stato;
@@ -138,11 +138,11 @@ Note all'art. 2:
  d) le parti del territorio destinate a nuovi insediamenti per impianti industriali o ad essi assimilati;
  e) le parti del territorio destinate ad usi agricoli, eslcuse quelle in cui - fermo restando il carattere agricolo delle stesse - il frazionamento delle proprieta' richieda insediamenti da considerare come zone c);
  f) le parti del territorio destinate ad attrezzature ed impianti di interesse generale".
- - L'[art. 3, comma 1, n. 54, del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_3-com1-num54), e' il seguente:
+ - L'[art. 3, comma 1, n. 54, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' il seguente:
  "1. Ai fini delle presenti norme le denominazioni stradali e di traffico hanno i seguenti significati:
  1)-53) (omissis);
  54) zona a traffico limitato: area in cui l'accesso e la circolazione veicolare sono limitati ad ore prestabilite o a particolari categorie di utenti e di veicoli".
- - L'[art. 7, comma 9, del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_7-com9), e' il seguente:
+ - L'[art. 7, comma 9, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' il seguente:
  "9. I comuni, con deliberazione della giunta, provvedono a delimitare le aree pedonali e le zone a traffico limitato tenendo conto degli effetti del traffico sulla sicurezza della circolazione, sulla salute, sull'ordine pubblico, sul patrimonio ambientale e culturale e sul territorio. In caso di urgenza il provvedimento potra' essere adottato con ordinanza del sindaco, ancorche' di modifica o integrazione della deliberazione della giunta.
  Analogamente i comuni provvedono a delimitare altre zone di rilevanza urbanistica nelle quali sussistono esigenze particolari di traffico, di cui al secondo periodo del comma 8.
  I comuni possono subordinare l'ingresso o la circolazione dei veicoli a motore, all'interno delle zone a traffico limitato, anche al pagamento di una somma.
@@ -156,7 +156,7 @@ Gli impianti sono utilizzati per la rilevazione dei dati riguardanti il luogo, i
 
 2.
 
-La procedura sanzionatoria prevista dal titolo VI del [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), ha luogo solamente in presenza di violazione documentata con immagini. A tal fine la custodia e l'utilizzazione dei dati rilevati dagli impianti sono riservati al responsabile di cui all'articolo 4 ed al personale di polizia stradale. L'organo di polizia stradale, sulla base del rilevamento, accerta l'identita' del soggetto destinatario della notifica della violazione e procede alla redazione del verbale di contestazione. Al verbale non e' allegata la documentazione con immagini che e' custodita per eventuali contestazioni.
+La procedura sanzionatoria prevista dal titolo VI del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), ha luogo solamente in presenza di violazione documentata con immagini. A tal fine la custodia e l'utilizzazione dei dati rilevati dagli impianti sono riservati al responsabile di cui all'articolo 4 ed al personale di polizia stradale. L'organo di polizia stradale, sulla base del rilevamento, accerta l'identita' del soggetto destinatario della notifica della violazione e procede alla redazione del verbale di contestazione. Al verbale non e' allegata la documentazione con immagini che e' custodita per eventuali contestazioni.
 
 3.
 
@@ -164,7 +164,7 @@ La documentazione con immagini e' utilizzata per le sole finalita' di applicazio
 
 4.
 
-Ferme restando le disposizioni di cui alla [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), e successive modificazioni, i dati rilevati sono accessibili per fini di polizia giudiziaria o di indagine penale.
+Ferme restando le disposizioni di cui alla [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), e successive modificazioni, i dati rilevati sono accessibili per fini di polizia giudiziaria o di indagine penale.
 
 Nota all'art. 3:
  - Per quanto concerne la [legge n. 675/1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996;675) vedi nelle note alle premesse.
@@ -173,10 +173,10 @@ Nota all'art. 3:
 
 1.
 
-Il sindaco designa e nomina, ai sensi dell'[articolo 8 della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_8), un responsabile per la gestione e il trattamento dei dati rilevati con gli impianti di rilevazione autorizzati.
+Il sindaco designa e nomina, ai sensi dell'[articolo 8 della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), un responsabile per la gestione e il trattamento dei dati rilevati con gli impianti di rilevazione autorizzati.
 
-Nota all'[art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_4):
- - L'[art. 8 della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_8) (Tutela delel persone e di altri soggetti rispetto al trattamento dei dati personali), e successive modificazioni, e' il seguente:
+Nota all'[art. 4](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md):
+ - L'[art. 8 della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md) (Tutela delel persone e di altri soggetti rispetto al trattamento dei dati personali), e successive modificazioni, e' il seguente:
  "Art. 8 (Responsabile). - 1. Il responsabile, se designato, deve essere nominato tra soggetti che per esperienza, capacita' ed affidabilita' forniscano idonea garanzia del pieno rispetto delel vigenti disposizioni in materia di trattamento, ivi compreso il profilo relativo alal sicurezza.
  2. Il responsabile procede al trattamento attenendosi alle istruzioni impartite dal titolare il quale, anche tramite verifiche periodiche, vigila sulla puntuale osservanza delle disposizioni di cui al comma 1 e delle proprie istruzioni.
  3. Ove necessario per esigenze organizzative, possono essere designati responsabili piu' soggetti, anche mediante suddivisione di compiti.
@@ -199,13 +199,13 @@ Gli impianti sono gestiti direttamente dagli organi di polizia stradale e devono
 
 4.
 
-L'accertamento delle violazioni rilevate, come previsto dall'articolo 385 del regolamento di attuazione del [codice strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), puo' essere effettuato in tempo successivo con esonero della contestazione immediata.
+L'accertamento delle violazioni rilevate, come previsto dall'articolo 385 del regolamento di attuazione del [codice strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), puo' essere effettuato in tempo successivo con esonero della contestazione immediata.
 
 ## Art. 6. — Utilizzazione dei dati per altre finalita'
 
 1.
 
-I dati rilevati possono essere utilizzati anche per la riscossione del pagamento della tariffa stabilita dall'[articolo 7, comma 9, del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_7-com9). Tale utilizzo e' consentito solamente ai comuni che si avvalgono della facolta' di subordinare al pagamento della tariffa l'ingresso o la circolazione dei veicoli a motore all'interno delle zone a traffico limitato, nel rispetto delle direttive a tal fine emanate dal Ministero dei lavori pubblici, Ispettorato generale per la circolazione e la sicurezza stradale.
+I dati rilevati possono essere utilizzati anche per la riscossione del pagamento della tariffa stabilita dall'[articolo 7, comma 9, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md). Tale utilizzo e' consentito solamente ai comuni che si avvalgono della facolta' di subordinare al pagamento della tariffa l'ingresso o la circolazione dei veicoli a motore all'interno delle zone a traffico limitato, nel rispetto delle direttive a tal fine emanate dal Ministero dei lavori pubblici, Ispettorato generale per la circolazione e la sicurezza stradale.
 
 2.
 
@@ -238,7 +238,7 @@ Per tutti gli impianti occorre garantire, in ogni caso, la necessaria sicurezza 
 
 1.
 
-Per l'omologazione od approvazione di prototipi degli impianti di rilevazione di cui al presente regolamento si applicano le disposizioni dell'articolo 192 del regolamento di attuazione del [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285).
+Per l'omologazione od approvazione di prototipi degli impianti di rilevazione di cui al presente regolamento si applicano le disposizioni dell'articolo 192 del regolamento di attuazione del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

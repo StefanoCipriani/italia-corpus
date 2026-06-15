@@ -21,7 +21,7 @@ Per le autenticazioni delle firme sulle dichiarazioni di consenso ricevute dall'
 
 ## Art. 2.
 
-E' abrogato l'art. 206 del regolamento generale sul debito pubblico, approvato con [regio decreto 19 febbraio 1911, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-19;298).
+E' abrogato l'art. 206 del regolamento generale sul debito pubblico, approvato con [regio decreto 19 febbraio 1911, n. 298](Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

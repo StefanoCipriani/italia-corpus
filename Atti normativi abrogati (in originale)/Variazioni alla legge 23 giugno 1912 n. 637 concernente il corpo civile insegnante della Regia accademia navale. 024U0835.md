@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 23 giugno 1912, n. 637](Che%20porta%20provvedimenti%20riguardanti%20il%20corpo%20civile%20insegnante%20della%20R.%20Accademia%20navale.%20012U0637.md), riguardante il corpo civile insegnante della Regia accademia navale e successive varianti;
 
-Visti i [Regi decreti 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395) e [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
 
 Udito il Consiglio dei Ministri;
 

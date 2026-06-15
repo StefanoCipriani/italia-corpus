@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 6 della legge 16 giugno 1951, n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-06-16;756#art_6), concernente norme per l'assicurazione contro gli infortuni sul lavoro e la previdenza sociale dei lavoratori addetti alle miniere di zolfo della Sicilia;
+Visto l'[art. 6 della legge 16 giugno 1951, n. 756](Norme%20per%20lassicurazione%20contro%20gli%20infortuni%20sul%20lavoro%20e%20la%20previdenza%20sociale%20dei%20lavoratori%20addetti%20alle%20miniere%20di%20zolfo%20della%20Sicilia.md), concernente norme per l'assicurazione contro gli infortuni sul lavoro e la previdenza sociale dei lavoratori addetti alle miniere di zolfo della Sicilia;
 
 Sentito il Consiglio dei Ministri;
 

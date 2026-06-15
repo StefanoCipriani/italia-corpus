@@ -14,11 +14,11 @@ Gli studi nei collegi militari si effettuano in tre anni per i corsi liceali ed 
 
 ## Art. 2.
 
-Per ottenere l'ammissione al 1° corso dei collegi militari occorre possedere la licenza ginnasiale o quella di scuola tecnica, in conformita' del regolamento per gli esami nelle scuole medie normali in applicazione della [legge 27 giugno 1912, n. 678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;678). Le altre condizioni di ammissione saranno fissate con disposizioni ministeriali.
+Per ottenere l'ammissione al 1° corso dei collegi militari occorre possedere la licenza ginnasiale o quella di scuola tecnica, in conformita' del regolamento per gli esami nelle scuole medie normali in applicazione della [legge 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md). Le altre condizioni di ammissione saranno fissate con disposizioni ministeriali.
 
 ## Art. 3.
 
-I citati [Regi decreti 19 ottobre 1894, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-10-19;511), [13 agosto 1897, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-08-13;390) e [28 maggio 1908, n. 250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-28;250), sono abrogati e resta modificata, in relazione alle disposizioni contenute nei precedenti articoli, la parte 1ª del regolamento organico per le scuole militari. 
+I citati [Regi decreti 19 ottobre 1894, n. 511](Sullo%20ordinamento%20degli%20studi%20nei%20Collegi%20militari%20di%20Napoli%20Firenze%20Milano%20Roma%20e%20Messina.%20094U0511.md), [13 agosto 1897, n. 390](Studi%20per%20gli%20allievi%20negli%20Istituti%20militari.%20097U0390.md) e [28 maggio 1908, n. 250](Concernete%20lordinamento%20degli%20studi%20nei%20Collegi%20militari.%20008U0250.md), sono abrogati e resta modificata, in relazione alle disposizioni contenute nei precedenti articoli, la parte 1ª del regolamento organico per le scuole militari. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando chiunque spetti di osservarlo e di farlo osservare. 
  

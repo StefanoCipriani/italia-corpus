@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 24 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_24), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372#art_1); 
+ Visto l'[art. 24 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md); 
  
- Vista la [legge 16 aprile 1916, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-16;420), colla quale vennero approvate le previsioni per l'entrata e per la spesa della Amministrazione delle ferrovie dello Stato per l'esercizio 1915-916; 
+ Vista la [legge 16 aprile 1916, n. 420](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20e%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20per%20lesercizio%20finanziario%201915-916.%20016U0420.md), colla quale vennero approvate le previsioni per l'entrata e per la spesa della Amministrazione delle ferrovie dello Stato per l'esercizio 1915-916; 
  
- Visto il [decreto-legge Luogotenenziale del 25 giugno 1916, n. 784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1916-06-25;784), col quale vennero introdotte variazioni alle previsioni suddette; 
+ Visto il [decreto-legge Luogotenenziale del 25 giugno 1916, n. 784](Col%20quale%20sono%20introdotte%20variazioni%20nel%20bilancio%20delle%20ferrovie%20dello%20Stato%20per%20lesercizio%20finanziario%201915-916.%20016U0784.md), col quale vennero introdotte variazioni alle previsioni suddette; 
  
  Visto il [decreto Luogotenenziale 22 giugno 1916, n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-06-22;756); 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- Dal fondo di riserva per le spese impreviste, depositato in conto corrente presso la tesoreria centrale del Regno, a termini dell'[art. 24 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_24), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372#art_1), e' autorizzata la prelevazione di lire quattro milioni settecento ottantatremila (L. 4.783.000) da versarsi all'Amministrazione delle ferrovie dello Stato con imputazione al capitolo 22 dello stato di previsione dell'entrata dell'Amministrazione medesima per l'esercizio finanziario 1915-916 e da portarsi in aumento a eguenti capitoli di spesa: 
+ Dal fondo di riserva per le spese impreviste, depositato in conto corrente presso la tesoreria centrale del Regno, a termini dell'[art. 24 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md), e' autorizzata la prelevazione di lire quattro milioni settecento ottantatremila (L. 4.783.000) da versarsi all'Amministrazione delle ferrovie dello Stato con imputazione al capitolo 22 dello stato di previsione dell'entrata dell'Amministrazione medesima per l'esercizio finanziario 1915-916 e da portarsi in aumento a eguenti capitoli di spesa: 
  
  Cap. n. 1. Direzione generale - Personale . . . . . . . 86,000- 
  
@@ -78,14 +78,14 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  » 31. Consiglio generale, Commissioni compartimentali 
  del traffico e Commissioni diverse 
- ([art. 61 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_61)) . 121,000- 
+ ([art. 61 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md)) . 121,000- 
  
  » 34. Contributo al fondo pensioni e sussidi . . . 776,000- 
  
  » 38. Oblazioni e sussidi al personale . . . . . . 243,000- 
  
  » 39. Spese per il servizio sanitario ([art. 8 
- della legge 9 luglio 1908, n. 418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;418#art_8)) . . . . . 145,000- 
+ della legge 9 luglio 1908, n. 418](Provvedimenti%20per%20le%20pensioni%20e%20per%20il%20trattamento%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20008U0418.md)) . . . . . 145,000- 
  
  » 40. Spese giudiziali e contenziose . . . . . . . 70,000- 
  

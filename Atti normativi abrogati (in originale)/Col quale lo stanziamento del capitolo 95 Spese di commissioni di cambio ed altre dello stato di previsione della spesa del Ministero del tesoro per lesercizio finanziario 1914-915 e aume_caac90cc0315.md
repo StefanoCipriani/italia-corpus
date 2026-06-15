@@ -22,7 +22,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 26 giugno 1914, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-26;578), e 16 dicembre stesso anno, n. 1354;
+Viste le [leggi 26 giugno 1914, n. 578](Che%20autorizza%20ad%20esercitare%20in%20via%20provvisoria%20gli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lesercizio%20finanziario%201914-915%20che%20non%20fossero%20tradotti%20in%20legge%20entro%20il%2030%20giugno%201914.%20014U0578.md), e 16 dicembre stesso anno, n. 1354;
 
 Ritenuta la necessita' di aumentare della somma di lire 21.500.000 lo stanziamento del capitolo n. 95 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1914-915 per maggiori spese di cambio verificatesi nell'esercizio stesso;
 

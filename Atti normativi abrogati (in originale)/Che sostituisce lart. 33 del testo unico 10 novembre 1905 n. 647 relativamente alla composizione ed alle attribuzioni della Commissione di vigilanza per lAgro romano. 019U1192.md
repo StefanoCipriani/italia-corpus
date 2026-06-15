@@ -48,7 +48,7 @@ La Commissione di vigilanza ha tutte le attribuzioni fissate dalle [leggi 10 nov
  
  c) si pronuncia sulla risoluzione dei contratti locativi e sulla eventuale loro rinnovazione, nel caso previsto dall'ultimo comma del medesimo art 4; 
  
- d) formula i criteri di massima per disciplinare l'applicazione della [legge 17 luglio 1910, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491), ai nuovi centri di cui all'art. 5 del predetto decreto legge e li sottopone all'approvazione del ministro; 
+ d) formula i criteri di massima per disciplinare l'applicazione della [legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md), ai nuovi centri di cui all'art. 5 del predetto decreto legge e li sottopone all'approvazione del ministro; 
  
  e) compie le indagini e gli atti istruttori sulle domande di costruzione di borgate, di centri rurali e di centri abitati, per giudicare circa la opportunita' o meno della loro costituzione, e ne approva i piani tecnici e finanziari; 
  

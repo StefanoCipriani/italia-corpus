@@ -29,8 +29,8 @@ da aumentare di una unita' per ogni successivo gruppo di quattro classi a cominc
 
 ## Art. 3.
 
-Nei confronti del personale di segreteria, tecnico ed ausiliario delle scuole medie e degli istituti di istruzione classica, scientifica e magistrale, si osservano, in quanto applicabili, le norme di cui al testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3).
- Sono abrogati gli [articoli 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-27;2367#art_168) e [da 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-27;2367#art_193) [a 197 del regio decreto 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-27;2367#art_197).
+Nei confronti del personale di segreteria, tecnico ed ausiliario delle scuole medie e degli istituti di istruzione classica, scientifica e magistrale, si osservano, in quanto applicabili, le norme di cui al testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ Sono abrogati gli [articoli 168](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md) e [da 193](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md) [a 197 del regio decreto 27 novembre 1924, n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md).
 
 ## Art. 4.
 

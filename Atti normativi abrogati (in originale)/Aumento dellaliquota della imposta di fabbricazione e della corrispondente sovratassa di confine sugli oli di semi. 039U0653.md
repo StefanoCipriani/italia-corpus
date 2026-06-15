@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la tariffa generale dei dazi doganali, approvata, con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni ed aggiunte;
+Vista la tariffa generale dei dazi doganali, approvata, con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni ed aggiunte;
 
 Visto il [R. decreto-legge 5 ottobre 1933, n. 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-05;1314), convertito nella [legge 18 gennaio 1934, n. 231](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%205%20ottobre%201933%20n.%201314%20riguardante%20il%20regime%20fiscale%20degli%20oli%20di%20semi.%20034U0231.md), che stabilisce il regime fiscale degli oli di semi, e successive modificazioni;
 

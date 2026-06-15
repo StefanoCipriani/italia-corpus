@@ -55,7 +55,7 @@ Per gli atti economici relativi al commercio dei prodotti tessili elencati nella
 ## Art. 7.
 
 Non costituisce entrata imponibile la vendita dei prodotti tessili (filati) elencati nella tabella allegato B alla presente legge effettuata fino al 31 dicembre 1949 al fabbricante di tessuti che li impiega direttamente nella propria industria.
- Le relative fatture di vendita, il cui rilascio e' in ogni caso obbligatorio, sono soggette alla tassa ordinaria di bollo di cui all'art. 52 della tariffa allegato A. al [regio decreto 30 dicembre 1923, n. 3268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3268), e successive modificazioni, e debbono contenere la specifica indicazione che trattasi di filati acquistati da fabbricanti di tessuti per il diretto impiego nella propria industria.
+ Le relative fatture di vendita, il cui rilascio e' in ogni caso obbligatorio, sono soggette alla tassa ordinaria di bollo di cui all'art. 52 della tariffa allegato A. al [regio decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni, e debbono contenere la specifica indicazione che trattasi di filati acquistati da fabbricanti di tessuti per il diretto impiego nella propria industria.
  Analoga esenzione si applica per l'importazione dei detti prodotti direttamente acquistati all'estero dal fabbricante di tessuti per uso della propria industria.
 
 ## Art. 8.
@@ -76,7 +76,7 @@ E' abrogato l'[art. 11 del decreto legislativo 3 maggio 1948, n. 799](Nuovi%20pr
 
 ## Art. 11.
 
-La facolta' prevista dall'[art. 10 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;348#art_10), ai fini della determinazione degli speciali regimi d'imposizione dell'imposta sull'entrata ivi contemplati, e' estesa anche alle entrate derivanti dal commercio delle specialita' medicinali.
+La facolta' prevista dall'[art. 10 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 348](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposta%20generale%20sullentrata%20e%20di%20addizionale%20straordinaria%20di%20guerra.%20044U0348.md), ai fini della determinazione degli speciali regimi d'imposizione dell'imposta sull'entrata ivi contemplati, e' estesa anche alle entrate derivanti dal commercio delle specialita' medicinali.
 
 ## Art. 12.
 

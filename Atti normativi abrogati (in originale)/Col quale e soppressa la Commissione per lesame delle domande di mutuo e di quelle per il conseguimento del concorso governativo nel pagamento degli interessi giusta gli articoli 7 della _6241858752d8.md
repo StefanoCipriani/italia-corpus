@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visti l'[art. 7 della legge 3 luglio 1904, n. 316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-03;316#art_7) e l'art. 10 del regolamento relativo approvato con [R. decreto 22 gennaio 1905, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-22;116), in base ai quali fu istituita una Commissione con l'incarico di dar parere sulle domande per il conseguimento dei prestiti di cui all'art. 7 della legge citata; 
+ Visti l'[art. 7 della legge 3 luglio 1904, n. 316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-03;316#art_7) e l'art. 10 del regolamento relativo approvato con [R. decreto 22 gennaio 1905, n. 116](Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%203%20luglio%201904%20n.%20313%20sui%20provvedimenti%20a%20favore%20dei%20danneggiati%20dalle%20alluvioni%20e%20frane.%20005U0116.md), in base ai quali fu istituita una Commissione con l'incarico di dar parere sulle domande per il conseguimento dei prestiti di cui all'art. 7 della legge citata; 
  
- Visto l'[art. 16 della legge 29 dicembre 1907, n. 810](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-12-29;810#art_16), che deferi' all'esame della Commissione suddetta anche le domande dirette ad ottenere mutui dalla Cassa depositi e prestiti contemplati dall'art. 14 di essa legge, e quelle per il conseguimento del concorso governativo nel pagamento degli interessi per tali mutui; 
+ Visto l'[art. 16 della legge 29 dicembre 1907, n. 810](Per%20maggiori%20assegnazioni%20e%20diminuzioni%20di%20stanziamento%20da%20portarsi%20nello%20stato%20di%20previsione%20della%20spesa%20dei%20Ministero%20dei%20lavori%20pubblici%20per%20lesercizio%201907-908.%20007U0810.md), che deferi' all'esame della Commissione suddetta anche le domande dirette ad ottenere mutui dalla Cassa depositi e prestiti contemplati dall'art. 14 di essa legge, e quelle per il conseguimento del concorso governativo nel pagamento degli interessi per tali mutui; 
  
  Visti i Regi decreti 15 aprile 1909, registrato alla Corte dei conti il 27 successivo, registro 72, foglio 255, e 8 giugno 1913, registrato alla Corte dei conti il 21 stesso mese, registro 371, foglio 205, con i quali venne ricostituita la Commissione nominata con R. decreto 1° giugno 1905, registrato alla Corte dei conti il 20 giugno stesso, registro 28, foglio 32, e vennero sostituiti alcuni membri; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' soppressa la Commissione di cui ai Regi decreti 1° giugno 1905 e 15 aprile 1909, per l'esame delle domande di mutuo e di quelle per il conseguimento del concorso governativo nel pagamento degli interessi, giusta l'[art. 7 della legge 3 luglio 1904, n. 313 e 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-03;16#art_7) della [legge 29 dicembre 1907, n. 810](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-12-29;810). 
+ E' soppressa la Commissione di cui ai Regi decreti 1° giugno 1905 e 15 aprile 1909, per l'esame delle domande di mutuo e di quelle per il conseguimento del concorso governativo nel pagamento degli interessi, giusta l'[art. 7 della legge 3 luglio 1904, n. 313 e 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-03;16#art_7) della [legge 29 dicembre 1907, n. 810](Per%20maggiori%20assegnazioni%20e%20diminuzioni%20di%20stanziamento%20da%20portarsi%20nello%20stato%20di%20previsione%20della%20spesa%20dei%20Ministero%20dei%20lavori%20pubblici%20per%20lesercizio%201907-908.%20007U0810.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

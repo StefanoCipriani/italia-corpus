@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 87, comma V, della Costituzione;
 
-Visto il [decreto del Presidente della Repubblica 27 ottobre 1958, n. 956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-10-27;956), che ha approvato le norme concernenti la disciplina della circolazione stradale;
+Visto il [decreto del Presidente della Repubblica 27 ottobre 1958, n. 956](../DPR/Approvazione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), che ha approvato le norme concernenti la disciplina della circolazione stradale;
 
-Vista la [legge 26 aprile 1959, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-04-26;207), che apporta modifiche al [decreto del Presidente della Repubblica 27 ottobre 1958, n. 956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-10-27;956), e alle norme sulla circolazione stradale;
+Vista la [legge 26 aprile 1959, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-04-26;207), che apporta modifiche al [decreto del Presidente della Repubblica 27 ottobre 1958, n. 956](../DPR/Approvazione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), e alle norme sulla circolazione stradale;
 
 Udito il parere del Consiglio di Stato;
 

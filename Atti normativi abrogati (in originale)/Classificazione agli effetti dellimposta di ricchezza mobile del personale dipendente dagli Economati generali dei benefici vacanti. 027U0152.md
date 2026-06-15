@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2782](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2782);
+Visto il [R. decreto 30 dicembre 1923, n. 2782](Estensione%20al%20personale%20degli%20Economati%20generali%20dei%20benefici%20vacanti%20delle%20disposizioni%20contenute%20nel%20R.%20decreto%2011%20novembre%201923%20n.%202395%20sullordinamento%20gerarchico%20delle%20Amministrazioni_9a96e2293103.md);
 
 Ritenuta l'opportunita' e l'urgenza di parificare il trattamento tributario dei dipendenti degli Economati dei benefici vacanti a quello dei dipendenti delle Amministrazioni dello Stato;
 

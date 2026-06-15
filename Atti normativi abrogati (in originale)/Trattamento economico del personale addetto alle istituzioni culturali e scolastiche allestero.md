@@ -81,7 +81,7 @@ Al personale direttivo ed insegnante destinato all'estero a norma degli [articol
 
 Al personale insegnante di grado inferiore al 6° incaricato della direzione di scuole italiane all'estero in caso di mancanza del titolare spetta l'indennita' indicata nell'allegata tabella B.
  Al professore o funzionario di grado inferiore al 60 incaricato delle funzioni di direttore degli Istituti di cultura di cui all'[art. 12 del testo unico 12 febbraio 1940, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1940-02-12;740#art_12), in caso di mancanza di titolare, e' attribuita una indennita' di direzione nel limite massimo di cui alla medesima tabella B, non cumulabile con quella indicata nel precedente comma.
- Al personale di cui ai due precedenti commi non spetta l'indennita' di carica stabilita dall'[art. 2 del decreto legislativo 11 marzo 1948, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-11;240#art_2).
+ Al personale di cui ai due precedenti commi non spetta l'indennita' di carica stabilita dall'[art. 2 del decreto legislativo 11 marzo 1948, n. 240](../Decreti%20Legislativi/Miglioramenti%20economici%20al%20personale%20direttivo%20insegnante%20ed%20educativo%20degli%20Istituti%20di%20istruzione%20e%20di%20educazione.md).
 
 ## Art. 13.
 

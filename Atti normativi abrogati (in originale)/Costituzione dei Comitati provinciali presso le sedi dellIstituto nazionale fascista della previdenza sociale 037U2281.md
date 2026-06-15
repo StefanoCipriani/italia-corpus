@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Veduti gli [articoli 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_29) e [140 del R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_140), concernente il perfezionamento e coordinamento legislativo della previdenza sociale, convertito nella [legge 6 aprile 1936, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155);
+Veduti gli [articoli 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_29) e [140 del R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_140), concernente il perfezionamento e coordinamento legislativo della previdenza sociale, convertito nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md);
 
 Veduto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

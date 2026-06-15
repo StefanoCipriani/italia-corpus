@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1515), che reca aggiunte all'[art. 17 della legge 17 marzo 1932, n. 368](Disciplinamento%20dei%20tipi%20di%20farina%20e%20di%20pane.%20032U0368.md), riguardante il disciplinamento dei tipi di farina e di pane. 
+ E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1515](Aggiunte%20allart.%2017%20della%20legge%2017%20marzo%201932%20n.%20368%20riguardante%20il%20disciplinamento%20dei%20tipi%20di%20farina%20e%20di%20pane.%20033U1515.md), che reca aggiunte all'[art. 17 della legge 17 marzo 1932, n. 368](Disciplinamento%20dei%20tipi%20di%20farina%20e%20di%20pane.%20032U0368.md), riguardante il disciplinamento dei tipi di farina e di pane. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ E' proibita ogni specie di lotteria pubblica.
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 27 settembre 1863, n. 1484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1863-09-27;1484), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 27 settembre 1863, n. 1484](Contenente%20disposizioni%20in%20esecuzione%20della%20legge%20sul%20giuoco%20del%20lotto%20e%20sulle%20lotterie.%20063U1484.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 

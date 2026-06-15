@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 19 luglio 1924, numero 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-19;1416), col quale si apportano variazioni alla tabella A, allegata al [R. decreto-legge 3 maggio 1923, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-03;1285), concernente l'autorizzazione di spesa per opere pubbliche straordinarie ed alla consistenza dei residui al 1° luglio 1924 per alcuni capitoli della spesa del Ministero dei lavori pubblici. 
+ E' convertito in legge il [R. decreto 19 luglio 1924, numero 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-19;1416), col quale si apportano variazioni alla tabella A, allegata al [R. decreto-legge 3 maggio 1923, n. 1285](Spesa%20di%20lire%206204407165.60%20per%20esecuzione%20di%20opere%20pubbliche%20straordinarie%20a%20carico%20del%20bilancio%20del%20Ministero%20dei%20lavori%20pubblici.%20023U1285.md), concernente l'autorizzazione di spesa per opere pubbliche straordinarie ed alla consistenza dei residui al 1° luglio 1924 per alcuni capitoli della spesa del Ministero dei lavori pubblici. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

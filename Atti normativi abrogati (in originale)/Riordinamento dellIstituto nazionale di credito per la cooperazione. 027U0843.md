@@ -24,11 +24,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-L'Istituto nazionale di credito per la cooperazione, eretto in ente morale con [R. decreto 15 agosto 1913, n. 1140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-15;1140), assume la denominazione di « Banca nazionale del lavoro e della cooperazione ».
+L'Istituto nazionale di credito per la cooperazione, eretto in ente morale con [R. decreto 15 agosto 1913, n. 1140](Erezione%20in%20ente%20morale%20e%20approvazione%20di%20statuto%20013U1140.md), assume la denominazione di « Banca nazionale del lavoro e della cooperazione ».
 
 ## Art. 2.
 
-I seguenti articoli dello statuto organico, approvato con [R. decreto 11 settembre 1924, n. 1520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-11;1520), sono modificati e sostituiti dai seguenti: 
+I seguenti articoli dello statuto organico, approvato con [R. decreto 11 settembre 1924, n. 1520](Approvazione%20dello%20statuto%20organico%20dellIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione%20in%20Roma%20e%20della%20Sezione%20autonoma%20di%20credito%20fondiario%20istituita%20presso%20listituto%20stesso.%20024U1520.md), sono modificati e sostituiti dai seguenti: 
  
  « Art. 2 (ultimo capoverso). - Su deliberazione del Consiglio di amministrazione puo' anche affidare la sua rappresentanza ad istituti di credito, e preferibilmente a Casse di risparmio e Banche popolari, in quei luoghi in cui esso non abbia il proprio ufficio, tanto nell'interno, quanto all'estero ». 
  

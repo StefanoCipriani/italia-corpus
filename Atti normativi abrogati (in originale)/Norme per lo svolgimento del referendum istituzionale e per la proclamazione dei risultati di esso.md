@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto legislativo Luogotenenziale 10 marzo 1946, n. 74](Norme%20per%20lelezione%20dei%20deputati%20allAssemblea%20Costituente.md), contenente norme per l'elezione dei deputati all'Assemblea Costituente;
 
-Visto il [decreto legislativo Luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98), recante integrazioni e modifiche al [decretolegge Luogotenenziale 23 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-23;151), relativo all'Assemblea per la nuova costituzione dello Stato, al giuramento dei membri del Governo ed alla facolta' del Governo di emanare norme giuridiche;
+Visto il [decreto legislativo Luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md), recante integrazioni e modifiche al [decretolegge Luogotenenziale 23 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-23;151), relativo all'Assemblea per la nuova costituzione dello Stato, al giuramento dei membri del Governo ed alla facolta' del Governo di emanare norme giuridiche;
 
 Visto il [decreto Luogotenenziale 16 marzo 1946, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;99), riguardante la convocazione dei comizi elettorali per il e referendum" sulla forma istituzionale dello Stato e per l'elezione dei deputati all'Assemblea Costituente;
 
@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Le schede di votazione per il e "referendum" sulla forma istituzionale dello Stato, di cui al [decreto legislativo Luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98), sono di tipo unico e di identico colore per tutti i collegi elettorali; sono fornite a cura del Ministero dell'interno con le caratteristiche essenziali del modello descritto nelle tabelle A e B allegate al presente decreto e firmate dal Presidente del Consiglio dei Ministri. Esse riproducono due rami di quercia e di alloro attorno a una testa turrita di donna come contrassegno della Repubblica e una corona sovrapposta allo stemma di Savoia come contrassegno della Monarchia. Nello sfondo di entrambi i simboli comparira' il profilo geografico dell'Italia.
+Le schede di votazione per il e "referendum" sulla forma istituzionale dello Stato, di cui al [decreto legislativo Luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md), sono di tipo unico e di identico colore per tutti i collegi elettorali; sono fornite a cura del Ministero dell'interno con le caratteristiche essenziali del modello descritto nelle tabelle A e B allegate al presente decreto e firmate dal Presidente del Consiglio dei Ministri. Esse riproducono due rami di quercia e di alloro attorno a una testa turrita di donna come contrassegno della Repubblica e una corona sovrapposta allo stemma di Savoia come contrassegno della Monarchia. Nello sfondo di entrambi i simboli comparira' il profilo geografico dell'Italia.
 
 ## Art. 2.
 
@@ -135,7 +135,7 @@ Alla Corte di cassazione, costituita come all'art. 17, e' riservato il giudizio 
 ## Art. 20.
 
 L'ultimo comma dell'[art. 27 del decreto legislativo Luogotenenziale 10 marzo 1946, n. 74](Norme%20per%20lelezione%20dei%20deputati%20allAssemblea%20Costituente.md), e' abrogato e sostituito dal seguente:
- "Al presidente dell'ufficio elettorale dev'essere corrisposto dal comune, nel quale l'ufficio stesso ha sede, un onorario giornaliero di L. 500, oltre il trattamento di missione spettante agli impiegati dello Stato di grado 5°, a norma del [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320), se dovuto; agli impiegati statali di grado superiore al 5° spetta il trattamento di missione inerente al grado rivestito.
+ "Al presidente dell'ufficio elettorale dev'essere corrisposto dal comune, nel quale l'ufficio stesso ha sede, un onorario giornaliero di L. 500, oltre il trattamento di missione spettante agli impiegati dello Stato di grado 5°, a norma del [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md), se dovuto; agli impiegati statali di grado superiore al 5° spetta il trattamento di missione inerente al grado rivestito.
 
 ## Art. 21.
 

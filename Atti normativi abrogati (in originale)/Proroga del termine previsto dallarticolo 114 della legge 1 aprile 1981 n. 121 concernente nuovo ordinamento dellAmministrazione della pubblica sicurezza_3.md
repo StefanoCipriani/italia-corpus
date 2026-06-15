@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Fermo restando quanto previsto dalla [legge 15 dicembre 1990, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;395), sull'ordinamento del Corpo di polizia penitenziaria, il termine di cui all'articolo 114 della legge 1' aprile 1981, n. 121, da ultimo prorogato al 31 dicembre 1990 dall'[articolo 1 del decreto-legge 21 aprile 1990, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-21;81#art_1), convertito, con modificazioni, dalla [legge 20 giugno 1990, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-20;159), e' ulteriormente prorogato fino alla data di entrata in vigore della normativa organica di cui all'articolo 98, terzo comma, della Costituzione.
+Fermo restando quanto previsto dalla [legge 15 dicembre 1990, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;395), sull'ordinamento del Corpo di polizia penitenziaria, il termine di cui all'articolo 114 della legge 1' aprile 1981, n. 121, da ultimo prorogato al 31 dicembre 1990 dall'[articolo 1 del decreto-legge 21 aprile 1990, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-21;81#art_1), convertito, con modificazioni, dalla [legge 20 giugno 1990, n. 159](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201990%20n.%2081%20recante%20proroga%20del%20termine%20previsto%20dallarticolo%20114%20della%20legge%201%20aprile%201981%20n.%20121%20concernente%20nuovo%20ordi_fc54568b4225.md), e' ulteriormente prorogato fino alla data di entrata in vigore della normativa organica di cui all'articolo 98, terzo comma, della Costituzione.
 
 ## Art. 2.
 

@@ -14,7 +14,7 @@ La Facolta' medico-chirurgica della Universita' di Pavia e gli Istituti clinici 
 
 ## Art. 2.
 
-La Facolta' medico-chirurgica ha i fini indicati negli articoli 11 e seguenti del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795), e in quelli del regolamento speciale per le Facolta' di medicina e chirurgia, approvato con [R. decreto 9 agosto 1910, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;808), nessuno escluso. 
+La Facolta' medico-chirurgica ha i fini indicati negli articoli 11 e seguenti del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e in quelli del regolamento speciale per le Facolta' di medicina e chirurgia, approvato con [R. decreto 9 agosto 1910, n. 808](Che%20approva%20gli%20annessi%20regolamenti%20speciali%20per%20le%20Facolta%20di%20giurisprudenza%20di%20medicina%20e%20chirurgia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20lettere%20e%20filosofia%20e%20per%20le%20scuole%20di_ce454a6b881c.md), nessuno escluso. 
  
  Gli Istituti clinici di perfezionamento hanno lo scopo di perfezionare i laureati in medicina e chirurgia negli studi medici, a norma delle disposizioni che li reggono. 
  

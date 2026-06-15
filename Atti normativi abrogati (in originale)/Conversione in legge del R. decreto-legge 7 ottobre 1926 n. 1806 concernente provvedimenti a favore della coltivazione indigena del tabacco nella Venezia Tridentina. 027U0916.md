@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 ottobre 1926, n. 1806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-07;1806), concernente provvedimenti a favore della coltivazione indigena del tabacco nella Venezia Tridentina. 
+ E' convertito in legge il [R. decreto-legge 7 ottobre 1926, n. 1806](Provvedimento%20a%20favore%20della%20coltivazione%20indigena%20del%20tabacco%20nella%20Venezia%20Tridentina.%20026U1806.md), concernente provvedimenti a favore della coltivazione indigena del tabacco nella Venezia Tridentina. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

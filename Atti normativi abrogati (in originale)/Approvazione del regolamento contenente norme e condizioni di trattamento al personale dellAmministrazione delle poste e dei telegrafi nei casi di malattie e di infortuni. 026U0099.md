@@ -18,17 +18,17 @@ Visto il [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/
 
 Visto il relativo regolamento approvato con [R. decreto 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603);
 
-Visto il [R. decreto 31 gennaio 1904, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-01-31;51), che approva il testo unico di legge per gli infortuni degli operai sul lavoro, modificato con la [legge 20 marzo 1921, n. 296](che%20apporta%20modificazioni%20a%20quella%2031%20gennaio%201904%20n.%2051%20per%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20021U0296.md);
+Visto il [R. decreto 31 gennaio 1904, n. 51](Che%20approva%20il%20testo%20unico%20di%20legge%20per%20glinfortuni%20degli%20operai%20sul%20lavoro.%20004U0051.md), che approva il testo unico di legge per gli infortuni degli operai sul lavoro, modificato con la [legge 20 marzo 1921, n. 296](che%20apporta%20modificazioni%20a%20quella%2031%20gennaio%201904%20n.%2051%20per%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20021U0296.md);
 
-Visto il relativo regolamento approvato con [R. decreto 13 marzo 1904, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-03-13;141), e modificato con [R. decreto 2 ottobre 1921, n. 1366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-10-02;1366);
+Visto il relativo regolamento approvato con [R. decreto 13 marzo 1904, n. 141](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20sugli%20infortuni%20degli%20operai%20sul%20lavoro.%20004U0141.md), e modificato con [R. decreto 2 ottobre 1921, n. 1366](Che%20modifica%20il%20regolamento%2013%20marzo%201904%20n.%20141%20per%20lesecuzione%20della%20legge%2031%20gennaio%201904%20n.%2051%20per%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20021U1366.md);
 
-Visto il [R. decreto 6 giugno 1907, n. 716](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-06-06;716);
+Visto il [R. decreto 6 giugno 1907, n. 716](Concernente%20concessione%20dindennita%20per%20infortuni%20sul%20lavoro%20ad%20agenti%20ed%20operai%20dellAmministrazione%20postale%20e%20telegrafica.%20007U0716.md);
 
-Visto l'[art. 4 del R. decreto 18 febbraio 1923, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-18;440#art_4);
+Visto l'[art. 4 del R. decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md);
 
 Visto il [R. decreto 8 marzo 1923, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-08;633);
 
-Visto il [R. decreto 5 aprile 1923, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-05;765);
+Visto il [R. decreto 5 aprile 1923, n. 765](Che%20autorizza%20il%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20a%20stipulare%20con%20la%20Cassa%20nazionale%20di%20assicurazioni%20per%20gli%20infortuni%20degli%20operai%20sul%20lavoro%20apposite%20convenzioni%20allo%20scopo%20di%20ind_60ed12fa6c61.md);
 
 Visto il [R. decreto 8 maggio 1924, n. 779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;779);
 

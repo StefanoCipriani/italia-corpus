@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RI D'ITALIA
 
-Visto l'art. 32 della leggo 19 luglio 1909, n. 496 (articolo 127 del T.U. delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795));
+Visto l'art. 32 della leggo 19 luglio 1909, n. 496 (articolo 127 del T.U. delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md));
 
 Visto le [leggi 21 luglio 1911, n. 880, 22 giugno 1913, n. 780 e 19 luglio 1914, n. 794](Con%20la%20quale%20e%20prorogato%20il%20termine%20fissato%20dallart.%2032%20della%20legge%2019%20luglio%201909%20n.%20496%20sulla%20istruzione%20superiore.%20014U0794.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato per l'istruzione pubblica, di co
 
 ## Art. 1.
 
-Il termine fissato dall'[art. 32 della legge 19 luglio 1909, n. 496](Recante%20provvedimenti%20per%20la%20istruzione%20superiore.%20009U0496.md) (art. 127 del testo unico delle leggi sulla istruzione superiore approvato con [R. decreto 9 agosto 1910 n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795)), per la revisione delle tabelle del personale assistente, tecnico e subalterno delle Universita' e degli Istituti superiori, e' prorogato al 30 giugno 1920. Tutti i posti di personale in soprannumero e straordinario, di cui agli articoli 34 e 35 della sopra indicata legge tuttora esistenti, saranno mantenuti fino a quando si procedera' alla revisione suddetta e potra' provvedera' alla sostituzione nei casi che taluno di essi rimanga scoperto.
+Il termine fissato dall'[art. 32 della legge 19 luglio 1909, n. 496](Recante%20provvedimenti%20per%20la%20istruzione%20superiore.%20009U0496.md) (art. 127 del testo unico delle leggi sulla istruzione superiore approvato con [R. decreto 9 agosto 1910 n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md)), per la revisione delle tabelle del personale assistente, tecnico e subalterno delle Universita' e degli Istituti superiori, e' prorogato al 30 giugno 1920. Tutti i posti di personale in soprannumero e straordinario, di cui agli articoli 34 e 35 della sopra indicata legge tuttora esistenti, saranno mantenuti fino a quando si procedera' alla revisione suddetta e potra' provvedera' alla sostituzione nei casi che taluno di essi rimanga scoperto.
 
 ## Art. 2.
 
@@ -34,7 +34,7 @@ Restano ferme tutte le altre disposizioni mantenute dalla [legge 19 luglio 1914,
 
 ## Art. 3.
 
-E' sospesa, fino a compimento della revisione predetta, l'applicazione dell'art. 19 dello leggo 19 luglio 1909, n. 496 (art. 104 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795), riguardante il personale assistente alle cattedre di materie complementari.
+E' sospesa, fino a compimento della revisione predetta, l'applicazione dell'art. 19 dello leggo 19 luglio 1909, n. 496 (art. 104 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), riguardante il personale assistente alle cattedre di materie complementari.
 
 ## Art. 4.
 

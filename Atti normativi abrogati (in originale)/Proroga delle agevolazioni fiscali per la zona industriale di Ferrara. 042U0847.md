@@ -22,7 +22,7 @@ Le agevolazioni previste dall'art. 5 del R. decreto-legge 26 dicembre 1936-XV, n
  
  Alle concessioni relative potra' farsi luogo qualora ne sia stata presentata domanda non oltre il 31 dicembre 1944-XXV. 
  
- L'esenzione dalla imposta di ricchezza mobile, prevista dall'[art. 6 del R. decreto-legge 26 dicembre 1936, n. 2455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-12-26;2455#art_6), e' concessa, in favore degli stabilimenti e degli impianti di cui sopra, per un decennio dalla data della loro attivazione. 
+ L'esenzione dalla imposta di ricchezza mobile, prevista dall'[art. 6 del R. decreto-legge 26 dicembre 1936, n. 2455](Istituzione%20di%20una%20zona%20industriale%20nel%20territorio%20del%20comune%20di%20Ferrara.%20036U2455.md), e' concessa, in favore degli stabilimenti e degli impianti di cui sopra, per un decennio dalla data della loro attivazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello stato. 
  

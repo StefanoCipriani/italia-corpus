@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il [R. decreto 5 novembre 1911, n. 1247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-11-05;1247), col quale la Tripolitania e la Cirenaica furono poste sotto la sovranita' piena ed intera del Regno d'Italia, e' convertito in legge. 
+ Il [R. decreto 5 novembre 1911, n. 1247](Che%20pone%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20regno%20dItalia%20la%20Tripolitania%20e%20la%20Cirenaica.%20011U1247.md), col quale la Tripolitania e la Cirenaica furono poste sotto la sovranita' piena ed intera del Regno d'Italia, e' convertito in legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

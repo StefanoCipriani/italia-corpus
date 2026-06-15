@@ -40,7 +40,7 @@ In dipendenza dei maggiori oneri derivanti dall'applicazione dei precedenti arti
 
 ## Art. 6.
 
-L'indennita' di diaria e quella di pernottazione, stabilite dalle rispettive norme di trattamento, approvate in dipendenza della [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835), sull'equo trattamento, sono aumentate del trenta per cento a decorrere dalla data di pubblicazione del presente decreto nella Gazzetta ufficiale del Regno. 
+L'indennita' di diaria e quella di pernottazione, stabilite dalle rispettive norme di trattamento, approvate in dipendenza della [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), sull'equo trattamento, sono aumentate del trenta per cento a decorrere dalla data di pubblicazione del presente decreto nella Gazzetta ufficiale del Regno. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

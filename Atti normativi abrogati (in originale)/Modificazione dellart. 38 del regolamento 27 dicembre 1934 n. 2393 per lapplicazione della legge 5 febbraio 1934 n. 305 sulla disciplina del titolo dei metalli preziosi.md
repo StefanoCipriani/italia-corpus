@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 5 febbraio 1934, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;305), sulla disciplina dei titoli dei metalli preziosi;
+Vista la [legge 5 febbraio 1934, n. 305](Disciplina%20dei%20titoli%20dei%20metalli%20preziosi.%20034U0305.md), sulla disciplina dei titoli dei metalli preziosi;
 
 Visto il regolamento approvato con [R. decreto 27 dicembre 1934, n. 2393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-27;2393), per l'applicazione della legge suddetta;
 
@@ -30,8 +30,8 @@ Sulla proposta del Ministro Segretario di Stato per l'industria ed il commercio,
 
 ## Art. 1.
 
-L'art. 38 del regolamento approvato con [R. decretolegge 27 dicembre 1934, n. 2393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-27;2393), per l'applicazione della [legge 5 febbraio 1934, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;305), sulla disciplina dei titoli dei metalli preziosi e' sostituito dal seguente: 
- "I diritti dovuti per i saggi delle materie prime di platino, d'oro e di argento, ai sensi della [legge 5 febbraio 1934, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;305), sono i seguenti: 
+L'art. 38 del regolamento approvato con [R. decretolegge 27 dicembre 1934, n. 2393](Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%205%20febbraio%201934%20n.%20305%20che%20disciplina%20i%20titoli%20dei%20metalli%20preziosi.%20034U2393.md), per l'applicazione della [legge 5 febbraio 1934, n. 305](Disciplina%20dei%20titoli%20dei%20metalli%20preziosi.%20034U0305.md), sulla disciplina dei titoli dei metalli preziosi e' sostituito dal seguente: 
+ "I diritti dovuti per i saggi delle materie prime di platino, d'oro e di argento, ai sensi della [legge 5 febbraio 1934, n. 305](Disciplina%20dei%20titoli%20dei%20metalli%20preziosi.%20034U0305.md), sono i seguenti: 
  
 
  1) platino..............................L. 100 per ogni saggio;

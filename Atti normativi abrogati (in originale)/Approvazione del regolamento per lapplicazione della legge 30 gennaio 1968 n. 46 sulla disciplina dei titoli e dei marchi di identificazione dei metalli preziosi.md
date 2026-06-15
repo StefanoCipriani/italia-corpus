@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 30 gennaio 1968, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-30;46), sulla disciplina dei titoli e dei marchi di identificazione dei metalli preziosi;
+Vista la [legge 30 gennaio 1968, n. 46](Disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi.md), sulla disciplina dei titoli e dei marchi di identificazione dei metalli preziosi;
 
 Visti gli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-17;600#art_10) e [11 della legge 17 luglio 1954, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-17;600#art_11), che stabiliscono i diritti dovuti per il saggio dei metalli preziosi effettuati nei laboratori degli uffici provinciali metrici e dell'ufficio centrale metrico e del saggio dei metalli preziosi;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per l'industria, il commercio e l'artigianato, di co
 
 ## Art. 1.
 
-E' approvato l'annesso regolamento contenente le norme per l'applicazione della [legge 30 gennaio 1968, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-30;46), sulla disciplina dei titoli e dei marchi di identificazione dei metalli preziosi.
+E' approvato l'annesso regolamento contenente le norme per l'applicazione della [legge 30 gennaio 1968, n. 46](Disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi.md), sulla disciplina dei titoli e dei marchi di identificazione dei metalli preziosi.
 
 ## Art. 2.
 
@@ -35,7 +35,7 @@ Il Ministro per l'industria, il commercio e l'artigianato e' autorizzato ad eman
 
 ## Art. 3.
 
-Sono abrogati il regolamento per l'applicazione della [legge 5 febbraio 1934, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;305), sulla disciplina dei titoli dei metalli preziosi, approvato con [regio decreto-legge 27 dicembre 1934, n. 2393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-27;2393), nonche' ogni altra norma incompatibile con quelle dell'annesso regolamento.
+Sono abrogati il regolamento per l'applicazione della [legge 5 febbraio 1934, n. 305](Disciplina%20dei%20titoli%20dei%20metalli%20preziosi.%20034U0305.md), sulla disciplina dei titoli dei metalli preziosi, approvato con [regio decreto-legge 27 dicembre 1934, n. 2393](Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%205%20febbraio%201934%20n.%20305%20che%20disciplina%20i%20titoli%20dei%20metalli%20preziosi.%20034U2393.md), nonche' ogni altra norma incompatibile con quelle dell'annesso regolamento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

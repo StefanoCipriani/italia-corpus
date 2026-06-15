@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 agosto 1928, n. 2175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-31;2175), che da' piena ed intera esecuzione ai seguenti Accordi e Convenzioni fra il Regno d'Italia ed il Regno dei Serbi, Croati e Sloveni, firmati a Nettuno il 20 luglio 1925: 
+ E' convertito in legge il [R. decreto-legge 31 agosto 1928, n. 2175](Esecuzione%20degli%20Accordi%20e%20Convenzioni%20tra%20il%20Regno%20dItalia%20ed%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni%20firmati%20a%20Nettuno%20il%2020%20luglio%201925.%20028U2175.md), che da' piena ed intera esecuzione ai seguenti Accordi e Convenzioni fra il Regno d'Italia ed il Regno dei Serbi, Croati e Sloveni, firmati a Nettuno il 20 luglio 1925: 
  
  1° Accordo integrativo dell'Accordo firmato a Roma il 27 gennaio 1924 per il regolamento del traffico e Protocollo finale; 
  

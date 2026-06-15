@@ -38,7 +38,7 @@ Il servizio di prima nomina dei sottotenenti nominati tali secondo le disposizio
 
 ## Art. 4.
 
-I sottufficiali ed i militari di truppa, in congedo illimitato, di qualsiasi arma, corpo o servizio, i quali siano o vengano a trovarsi in possesso dei titoli di studio prescritti dall'articolo 26 del testo unico delle leggi sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto n. 596 del 14 marzo 1938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-14;596)-XVI, e non abbiano compiuto il 55° anno di eta', sono, d'autorita', nominati sottotenenti di complemento nei servizi sanitario e veterinario, senza essere sottoposti ad esami od esperimenti. 
+I sottufficiali ed i militari di truppa, in congedo illimitato, di qualsiasi arma, corpo o servizio, i quali siano o vengano a trovarsi in possesso dei titoli di studio prescritti dall'articolo 26 del testo unico delle leggi sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto n. 596 del 14 marzo 1938](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md)-XVI, e non abbiano compiuto il 55° anno di eta', sono, d'autorita', nominati sottotenenti di complemento nei servizi sanitario e veterinario, senza essere sottoposti ad esami od esperimenti. 
  
  Il Ministro per la guerra puo' esentare da tale nomina coloro che chiedono di essere invece nominati sottotenenti di complemento in un'arma o nel corpo automobilistico e si trovino nelle condizioni stabilite per la nomina a sottotenente in detta arma o corpo.
 

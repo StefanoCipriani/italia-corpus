@@ -36,7 +36,7 @@ La Cassa depositi e prestiti e' autorizzata ad anticipare sui mutui da essa conc
 
 ## Art. 3.
 
-Le annualita' che lo Stato, le Provincie e i Comuni debbano corrispondere ai Comuni concessionari per opere ai bacini montani ed idrauliche di 2ª e 3ª categoria saranno calcolate con lo stesso tasso di interesse annualmente stabilito dalla Cassa depositi e prestiti per i mutui ordinari ai sensi degli articoli 9 e 73 del menzionato testo unico di legge approvato col [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453). 
+Le annualita' che lo Stato, le Provincie e i Comuni debbano corrispondere ai Comuni concessionari per opere ai bacini montani ed idrauliche di 2ª e 3ª categoria saranno calcolate con lo stesso tasso di interesse annualmente stabilito dalla Cassa depositi e prestiti per i mutui ordinari ai sensi degli articoli 9 e 73 del menzionato testo unico di legge approvato col [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md). 
  
  Tale disposizione si applica alle concessioni gia' effettuate prima della entrata in vigore del presente decreto, limitatamente ai lotti di opere non ancora collaudate.
 

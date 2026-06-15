@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto Part. [17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Vista la [legge 24 dicembre 1993, n.537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'art. 2. commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n.537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'art. 2. commi 7, 8 e 9;
 
 Vista la legge 11 giugno 1971. n. 426;
 
@@ -38,7 +38,7 @@ Il presente regolamento modifica la disciplina del procedimento di autorizzazion
 
 2.
 
-Ai sensi del presente regolamento si intende per "legge" la [legge 11 giugno 1971, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426) e si intende per "regolamento di esecuzione" il [decreto ministeriale 4 agosto 1988, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-08-04;375).
+Ai sensi del presente regolamento si intende per "legge" la [legge 11 giugno 1971, n. 426](Disciplina%20del%20commercio.md) e si intende per "regolamento di esecuzione" il [decreto ministeriale 4 agosto 1988, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-08-04;375).
 
 ## Art. 2. — Iscrizione nel registro
 
@@ -68,7 +68,7 @@ Ai fini del rilascio dei provvedimenti di cui ai precedenti commi, non e' richie
 
 1.
 
-Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), dalla data di entrata in vigore del presente regolamento, e' abrogato l'[articolo 4, comma 4, della legge 11 giugno 1971, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426#art_4-com4).
+Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento, e' abrogato l'[articolo 4, comma 4, della legge 11 giugno 1971, n. 426](Disciplina%20del%20commercio.md).
 
 2.
 

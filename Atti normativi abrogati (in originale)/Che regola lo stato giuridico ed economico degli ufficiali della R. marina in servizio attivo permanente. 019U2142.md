@@ -108,7 +108,7 @@ Con la stessa data sono abrogate le disposizioni relative all'indennita' d'arma 
  
  Le indennita' d'arma o quelle percepite in baso a quest'ultimo decreto dal 1° maggio 1919 in poi dovranno essere defalcate dagli assegni arretrati dovuti per effetto del presente decreto, anche se le indennita' di cui al [decreto Luogotenenziale n. 770 del 17 maggio 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-17;770) non fossero state percepite perche' gli ufficiali erano forniti di indennita' di guerra o di missione all'estero. 
  
- Sono abrogate le disposizioni dell'[art. 4 del R. decreto n. 815, in data 25 maggio 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-25;815#art_4), e dell'art. 2° del [decreto Luogotenenziale n. 1181, in data 25 luglio 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-25;1181), nonche' tutte le altre contrarie al presente decreto. Le indennita' di cui ai decreti menzionati nel presente comma, nonche' quella d'arma per gli ufficiali del corpo Reale equipaggi, percepite dal 1° maggio 1919 non saranno restituite.
+ Sono abrogate le disposizioni dell'[art. 4 del R. decreto n. 815, in data 25 maggio 1915](Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md), e dell'art. 2° del [decreto Luogotenenziale n. 1181, in data 25 luglio 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-25;1181), nonche' tutte le altre contrarie al presente decreto. Le indennita' di cui ai decreti menzionati nel presente comma, nonche' quella d'arma per gli ufficiali del corpo Reale equipaggi, percepite dal 1° maggio 1919 non saranno restituite.
 
 ### Art. 11.
 
@@ -139,7 +139,7 @@ Gli ufficiali delle categorie in congedo attualmente in servizio i quali pure pe
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 marzo 1921, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-03-13;322), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 marzo 1921, n. 322](Che%20sostituisce%20lart.%2014%20del%20Regio%20decreto%20legge%202%20novembre%201919%20n.%202142%20relativamente%20al%20computo%20degli%20stipendi%20agli%20ufficiali%20della%20R.%20marina%20richiamati%20dal%20congedo.%20021U0322.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 15.
 

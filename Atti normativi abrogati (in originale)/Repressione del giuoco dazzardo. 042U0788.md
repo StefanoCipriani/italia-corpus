@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le pene per i reati contemplati dagli [articoli 718](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_718), [719](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_719) e [720 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_720) sono triplicate. 
+Le pene per i reati contemplati dagli [articoli 718](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [719](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [720 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono triplicate. 
  
  Agli effetti degli articoli succitati, fra le case da giuoco previste dai successivo art. 721 sono comprese le abitazioni private e qualsiasi altro luogo in cui piu' persone convengono per praticare giuochi d'azzardo, anche se cio' non costituisca lo scopo esclusivo o prevalente del convegno. 
  

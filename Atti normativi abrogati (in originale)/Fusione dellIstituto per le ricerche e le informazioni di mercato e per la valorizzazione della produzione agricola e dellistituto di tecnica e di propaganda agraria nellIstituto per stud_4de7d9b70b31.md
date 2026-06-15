@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 12 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_12), il quale dispone che con decreto del Presidente della Repubblica, su proposta del Ministro dell'agricoltura e delle foreste, siano fusi in un unico organo, avente natura di ente pubblico economico, l'istituto per le ricerche e le informazioni di mercato e la valorizzazione della produzione agricola (IRVAM) e l'istituto di tecnica e propaganda agraria (ITPA);
+Visto l'[art. 12 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), il quale dispone che con decreto del Presidente della Repubblica, su proposta del Ministro dell'agricoltura e delle foreste, siano fusi in un unico organo, avente natura di ente pubblico economico, l'istituto per le ricerche e le informazioni di mercato e la valorizzazione della produzione agricola (IRVAM) e l'istituto di tecnica e propaganda agraria (ITPA);
 
 Visto l'[art. 4, comma 2, lettera g), della legge 8 novembre 1986, n. 752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-11-08;752#art_4-com2-letg), il quale prevede, fra l'altro, lo sviluppo dell'informazione in agricoltura;
 
@@ -32,7 +32,7 @@ Dalla data del presente decreto, l'istituto per le ricerche e le informazioni di
 
 2.
 
-I rapporti giuridici attivi e passivi, i diritti e gli obblighi, a qualsiasi titolo facenti capo ai soppressi IRVAM e ITPA, sono assunti dal costituito ISMEA, al quale e' attribuito il contributo straordinario di cui all'[art. 12, comma 6, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_12-com6).
+I rapporti giuridici attivi e passivi, i diritti e gli obblighi, a qualsiasi titolo facenti capo ai soppressi IRVAM e ITPA, sono assunti dal costituito ISMEA, al quale e' attribuito il contributo straordinario di cui all'[art. 12, comma 6, della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md).
 
 ## Art. 2.
 

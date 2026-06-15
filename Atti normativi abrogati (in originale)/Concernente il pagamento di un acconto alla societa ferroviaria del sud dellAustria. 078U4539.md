@@ -38,7 +38,7 @@ Bilancio definitivo dell'entrata:
                         a)
                             Al capitolo 10, Imposta sui redditi di ricchezza mobile, e' portata in aumento la somma di lire 22,496 10 a titolo di ritenuta da operarsi sovra lire 170,425, montare lordo del semestre al 1° gennaio 1879 della rendita di lire 340,850 di cui all'articolo 1;
                         b)
-                            E' istituito un apposito capitolo col num. 84bis, colla intestazione: Prodotto della rendita consolidata cinque per cento, creata con [R. decreto 1° ottobre 1878, n. 4539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1878-10-01;4539), in dipendenza della liquidazione dei conti, di cui all'art. 11 della Convenzione di Basilea del 17 novembre 1875, e degli articoli 5 e 8 del Compromesso di Parigi dell'11 giugno 1876, approvato colla [legge 29 giugno 1876, n. 3181](Concernente%20il%20riscatto%20delle%20ferrovie%20dellAlta%20Italia.%20076U3181.md), ed a questo capitolo verra' assegnata la somma di lire 4,921,874.
+                            E' istituito un apposito capitolo col num. 84bis, colla intestazione: Prodotto della rendita consolidata cinque per cento, creata con [R. decreto 1° ottobre 1878, n. 4539](Concernente%20il%20pagamento%20di%20un%20acconto%20alla%20societa%20ferroviaria%20del%20sud%20dellAustria.%20078U4539.md), in dipendenza della liquidazione dei conti, di cui all'art. 11 della Convenzione di Basilea del 17 novembre 1875, e degli articoli 5 e 8 del Compromesso di Parigi dell'11 giugno 1876, approvato colla [legge 29 giugno 1876, n. 3181](Concernente%20il%20riscatto%20delle%20ferrovie%20dellAlta%20Italia.%20076U3181.md), ed a questo capitolo verra' assegnata la somma di lire 4,921,874.
 
 2.
 

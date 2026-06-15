@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-All'art. 31 del testo unico delle leggi per l'istruzione elementare approvato col [R. decreto 22 gennaio 1925, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-22;432), sono soppressi i commi secondo, terzo, quarto e quinto. 
+All'art. 31 del testo unico delle leggi per l'istruzione elementare approvato col [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), sono soppressi i commi secondo, terzo, quarto e quinto. 
  
  E' soppresso egualmente l'art. 230 del citato testo unico.
 

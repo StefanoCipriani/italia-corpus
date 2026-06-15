@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge in data 1° giugno 1933, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-01;563), che ha dato approvazione alla Convenzione doganale fra l'Italia e l'Unione delle Repubbliche Sovietiche Socialiste, nonche' al Protocollo finale relativo alla Convenzione stessa; 
+ E' convertito in legge il [R. decreto-legge in data 1° giugno 1933, n. 563](Approvazione%20della%20Convenzione%20doganale%20e%20del%20Protocollo%20finale%20annessovi%20stipulati%20in%20Roma%20il%206%20maggio%201933%20tra%20lItalia%20e%20lU.R.S.S.%20033U0563.md), che ha dato approvazione alla Convenzione doganale fra l'Italia e l'Unione delle Repubbliche Sovietiche Socialiste, nonche' al Protocollo finale relativo alla Convenzione stessa; 
  
  Atti stipulati entrambi in Roma il 6 maggio 1933. 
  

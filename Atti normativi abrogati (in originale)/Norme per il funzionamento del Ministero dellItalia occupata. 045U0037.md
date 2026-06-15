@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il Ministero dell'Italia occupata provvede al funzionamento dei propri servizi con personale, civile e militare, comandato da altre Amministrazioni dello Stato e con personale avventizio assunto secondo le norme del [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), e successive modificazioni. 
+Il Ministero dell'Italia occupata provvede al funzionamento dei propri servizi con personale, civile e militare, comandato da altre Amministrazioni dello Stato e con personale avventizio assunto secondo le norme del [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), e successive modificazioni. 
  
  Le tabelle del personale che puo' essere comandato e di quello che puo' essere assunto in qualita' di avventizio saranno approvate con decreto del Ministro per l'Italia occupata, di concerto con quello per il tesoro.
 

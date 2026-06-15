@@ -20,13 +20,13 @@ Sulla proposta del Ministro per la pubblica istruzione di concerto con il Minist
 
 ## Art. 1.
 
-Lo stanziamento previsto dall'[art. 31 della legge 31 ottobre 1966, n. 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-31;942#art_31), per l'anno finanziario 1970, aumentato dall'[art. 9 della legge 21 aprile 1969, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-21;162#art_9), e' ulteriormente incrementato di L. 25 miliardi da utilizzarsi per l'anno accademico 1969-70.
+Lo stanziamento previsto dall'[art. 31 della legge 31 ottobre 1966, n. 942](Finanziamento%20del%20piano%20di%20sviluppo%20della%20scuola%20nel%20quinquennio%20dal%201966%20al%201970.md), per l'anno finanziario 1970, aumentato dall'[art. 9 della legge 21 aprile 1969, n. 162](Nuove%20norme%20per%20lattribuzione%20dellassegno%20di%20studio%20universitario.md), e' ulteriormente incrementato di L. 25 miliardi da utilizzarsi per l'anno accademico 1969-70.
  La somma sara' ripartita dal Ministero della pubblica istruzione per ogni singola sede sulla base del numero degli studenti universitari che avendo titolo all'assegno di studio universitario non l'abbiano ottenuto per esaurimento di fondi.
  Il consiglio di amministrazione dell'Opera di ciascuna universita' o d'istituto d'istruzione universitaria provvedera' a ripartire la somma assegnata tra le Facolta' per singoli corsi di laurea in proporzione al numero degli studenti universitari di cui al precedente comma.
 
 ## Art. 2.
 
-Lo stanziamento previsto dall'[art. 21, ottavo comma, della legge 24 febbraio 1967, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62#art_21-com8), concernente il finanziamento delle borse di addestramento didattico e scientifico, per l'anno finanziario 1970, e' incrementato di lire un miliardo.
+Lo stanziamento previsto dall'[art. 21, ottavo comma, della legge 24 febbraio 1967, n. 62](Istituzione%20di%20nuove%20cattedre%20universitarie%20di%20nuovi%20posti%20di%20assistente%20universitario%20e%20nuova%20disciplina%20degli%20incarichi%20di%20insegnamento%20universitario%20e%20degli%20assistenti%20volontari.md), concernente il finanziamento delle borse di addestramento didattico e scientifico, per l'anno finanziario 1970, e' incrementato di lire un miliardo.
 
 ## Art. 3.
 

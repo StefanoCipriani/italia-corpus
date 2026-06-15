@@ -31,7 +31,7 @@ Il prefetto provvede con decreto alla prima costituzione delle Commissioni elett
 
 ## Art. 4.
 
-Non oltre il 10 marzo 1948 il prefetto trasmette alle Commissioni elettorali mandamentali competenti per territorio l'elenco delle persone deferite alla Commissione prevista dall'[art. 6 del decreto legislativo 2 febbraio 1948, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-02;23#art_6), recante le norme per la revisione delle opzioni.
+Non oltre il 10 marzo 1948 il prefetto trasmette alle Commissioni elettorali mandamentali competenti per territorio l'elenco delle persone deferite alla Commissione prevista dall'[art. 6 del decreto legislativo 2 febbraio 1948, n. 23](../Decreti%20Legislativi/Revisione%20delle%20opzioni%20degli%20alto%20atesini.md), recante le norme per la revisione delle opzioni.
  Le Commissioni elettorali mandamentali, in sede di approvazione delle liste generali e sezionali, effettuano la cancellazione dalle liste medesime dei nominativi compresi nell'elenco di cui al comma precedente.
 
 ## Art. 5.

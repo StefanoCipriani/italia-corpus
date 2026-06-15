@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visti i [Regi decreti 1° novembre 1888, n. 5783](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-11-01;5783), [2 giugno 1889, n. 6172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-06-02;6172), [11 febbraio 1914, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-02-11;71), 7 luglio 1907, n. CCCCLXXX;
+Visti i [Regi decreti 1° novembre 1888, n. 5783](Che%20approva%20lannesso%20regolamento%20organico%20della%20Regia%20Scuola%20superiore%20di%20agricoltura%20di%20Milano.%20088U5783.md), [2 giugno 1889, n. 6172](Che%20approva%20lannesso%20regolamento%20per%20gli%20esami%20di%20promozione%20e%20di%20laurea%20nella%20Scuola%20superiore%20di%20agricoltura%20di%20Milano.%20089U6172.md), [11 febbraio 1914, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-02-11;71), 7 luglio 1907, n. CCCCLXXX;
 
 Vista la [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), ed il relativa regolamento approvato con [R. decreto 22 giugno 1914, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-06-22;1014);
 

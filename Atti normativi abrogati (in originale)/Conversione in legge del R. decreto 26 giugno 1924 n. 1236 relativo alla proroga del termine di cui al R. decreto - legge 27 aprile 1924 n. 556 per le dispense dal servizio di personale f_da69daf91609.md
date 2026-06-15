@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il R. decreto 211 giugno 1924, n. 1236, relativo alla proroga del termine di cui al [R. decreto-legge 27 aprile 1924, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-04-27;556), per le dispense dal servizio di personale ferroviario. 
+ E' convertito in legge il R. decreto 211 giugno 1924, n. 1236, relativo alla proroga del termine di cui al [R. decreto-legge 27 aprile 1924, n. 556](Proroga%20del%20termine%20per%20la%20dispensa%20dal%20servizio%20di%20personale%20ferroviario.%20024U0556.md), per le dispense dal servizio di personale ferroviario. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

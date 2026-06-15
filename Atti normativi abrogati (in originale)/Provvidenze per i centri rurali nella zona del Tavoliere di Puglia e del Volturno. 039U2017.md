@@ -21,7 +21,7 @@ Il Ministero dell'agricoltura e foreste e' autorizzato a concedere all'Opera naz
 
 ## Art. 3.
 
-Alla spesa di lire 45 milioni si fara' fronte con le assegnazioni di cui all'[art. 1 del R. decreto-legge 13 gennaio 1938, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-01-13;12#art_1), restando, peraltro, modificati come appresso sia i limiti d'impegno che i corrispondenti stanziamenti stabiliti all'art. 2 di detto Regio decreto-legge e nuove successive modificazioni: 
+Alla spesa di lire 45 milioni si fara' fronte con le assegnazioni di cui all'[art. 1 del R. decreto-legge 13 gennaio 1938, n. 12](Nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0012.md), restando, peraltro, modificati come appresso sia i limiti d'impegno che i corrispondenti stanziamenti stabiliti all'art. 2 di detto Regio decreto-legge e nuove successive modificazioni: 
  
 
  a) Limiti d'impegno:

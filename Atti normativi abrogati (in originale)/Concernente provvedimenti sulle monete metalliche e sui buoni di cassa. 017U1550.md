@@ -28,9 +28,9 @@ Le penalita' comminate dal [decreto Luogotenenziale 1° aprile 1917, n. 496](htt
 
 ## Art. 4.
 
-Fermo restando le disposizioni di che agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-06;790#art_1) e [4 del R. decreto 6 agosto 1914, n. 790](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-06;790#art_4), [1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-06;1) e [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-06;2) della [legge 21 marzo 1915, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-03-21;273), e del [decreto Luogotenenziale 1° aprile 1917, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-04-01;496), e' proibito, salva speciale autorizzazione del ministro del tesoro, la fusione e la demonetazione per uso industriale o privato di monete di qualsiasi specie. 
+Fermo restando le disposizioni di che agli [articoli 1](Che%20vieta%20lesportazione%20dal%20Regno%20di%20talune%20merci%20014U0790.md) e [4 del R. decreto 6 agosto 1914, n. 790](Che%20vieta%20lesportazione%20dal%20Regno%20di%20talune%20merci%20014U0790.md), [1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-06;1) e [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-06;2) della [legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md), e del [decreto Luogotenenziale 1° aprile 1917, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-04-01;496), e' proibito, salva speciale autorizzazione del ministro del tesoro, la fusione e la demonetazione per uso industriale o privato di monete di qualsiasi specie. 
  
- Chiunque contravvenga a tale disposizione e' punito con le pene camminate dall'[articolo 293 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_293). 
+ Chiunque contravvenga a tale disposizione e' punito con le pene camminate dall'[articolo 293 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  In caso di recidiva, la multa sara' raddoppiata. 
  

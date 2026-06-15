@@ -34,7 +34,7 @@ Il personale aggregato assunto a posti di ruolo nelle carceri delle nuove Provin
 
 Il personale di custodia che verra' assunto a norma dell'art. 1 del presente decreto, non acquista alcun diritto a sistemazione in ruolo, e potra' in qualunque momento essere licenziato per riduzione di posti senza diritto ad alcun compenso. 
  
- Per tutto quanto riguarda gli obblighi di servizio, i principi di subordinazione gerarchica, le mancanze disciplinari ed i reati, sono applicabili al detto personale le disposizioni contenute nel regolamento del corpo degli agenti di custodia delle carceri approvato con [R. decreto 23 dicembre 1920, n. 1921](Che%20approva%20il%20regolamento%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20020U1921.md), nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare ed in quello comune. 
+ Per tutto quanto riguarda gli obblighi di servizio, i principi di subordinazione gerarchica, le mancanze disciplinari ed i reati, sono applicabili al detto personale le disposizioni contenute nel regolamento del corpo degli agenti di custodia delle carceri approvato con [R. decreto 23 dicembre 1920, n. 1921](Che%20approva%20il%20regolamento%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20020U1921.md), nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare ed in quello comune. 
  
  Al detto personale spettera', a decorrere dalla data del decreto di nomina, il trattamento economico stabilito dalle disposizioni vigenti per le guardie del corpo degli agenti di custodia.
 

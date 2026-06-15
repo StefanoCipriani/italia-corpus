@@ -247,7 +247,7 @@ Nella prima attuazione del presente decreto il Ministero delle colonie e' autori
 
 ### Art. 12.
 
-Il termine del 31 dicembre 1931, di cui all'[art. 1 del Regio decreto 18 dicembre 1930, n. 1733](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-18;1733#art_1), e' prorogato, per l'Amministrazione coloniale, al 30 settembre 1934.
+Il termine del 31 dicembre 1931, di cui all'[art. 1 del Regio decreto 18 dicembre 1930, n. 1733](Norme%20transitorie%20per%20i%20passaggi%20a%20categoria%20superiore%20e%20la%20sistemazione%20in%20ruolo%20del%20personale%20in%20servizio%20delle%20Amministrazioni%20statali.%20030U1733.md), e' prorogato, per l'Amministrazione coloniale, al 30 settembre 1934.
 
 ### Art. 13.
 

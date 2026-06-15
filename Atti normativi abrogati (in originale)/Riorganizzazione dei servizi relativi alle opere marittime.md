@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 Il disimpegno di tutta l'attivita' relativa alle opera marittime, finora, di competenza degli ordinari uffici del Genio civile e delle sezioni autonome per il Servizio escavazione porti marittimi, e' trasferito alla competenza degli uffici del Genio civile per le opere marittime aventi le sedi e la circoscrizione di cui alla tabella annessa alla presente legge, vistata dal, Ministro per i lavori pubblici.
  Le sezioni autonome del Genio civile per il Servizio escavazione dei porti marittimi di Livorno, Napoli, Bari, Venezia, istituito con l'art. 3 del regio decreto 5 luglio 1934, sono soppresse.
- Rimangono immutate le competenze e l'organizzazione del Servizio per l'escavazione dei porti marittimi di cui al regio decreto 5 luglio 1934, e ai [regi decreti-legge 17 gennaio 1935, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-17;105) e [28 giugno 1937, n. 943](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-28;943).
+ Rimangono immutate le competenze e l'organizzazione del Servizio per l'escavazione dei porti marittimi di cui al regio decreto 5 luglio 1934, e ai [regi decreti-legge 17 gennaio 1935, n. 105](Variazioni%20a%20disposizioni%20riguardanti%20il%20Servizio%20per%20lescavazione%20dei%20porti%20marittimi%20del%20Regno.%20035U0105.md) e [28 giugno 1937, n. 943](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-28;943).
 
 ## Art. 2.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il disposto dell'[articolo 311 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_311) per l'Esercito;
+Visto il disposto dell'[articolo 311 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito;
 
 Sulla proposizione del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 

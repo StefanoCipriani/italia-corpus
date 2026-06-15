@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1858](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-03;1858), concernente variazioni nel ruolo organico dei professori delle Regie universita' e dei Regi istituti superiori. 
+ E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1858](Variazioni%20nel%20ruolo%20organico%20dei%20professori%20delle%20Regie%20universita%20e%20dei%20Regi%20istituti%20superiori.%20029U1858.md), concernente variazioni nel ruolo organico dei professori delle Regie universita' e dei Regi istituti superiori. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

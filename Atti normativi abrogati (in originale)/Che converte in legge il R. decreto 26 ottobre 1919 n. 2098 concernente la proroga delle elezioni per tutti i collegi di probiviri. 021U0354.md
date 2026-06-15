@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 ottobre 1919, n. 2098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-26;2098), che proroga le elezioni per tutti i collegi di probi-viri. 
+ E' convertito in legge il [R. decreto-legge 26 ottobre 1919, n. 2098](Che%20proroga%20le%20elezioni%20per%20tutti%20i%20collegi%20di%20probiviri.%20019U2098.md), che proroga le elezioni per tutti i collegi di probi-viri. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

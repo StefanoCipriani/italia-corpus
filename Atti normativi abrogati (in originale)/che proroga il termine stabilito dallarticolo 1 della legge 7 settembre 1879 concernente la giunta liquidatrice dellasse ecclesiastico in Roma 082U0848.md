@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' data forza di legge al [Regio decreto in data del 21 agosto 1881, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-08-21;384) (Serie 3ª), col quale il termine stabilito nell'[art. 1 della legge 7 settembre 1879, n. 5069](Che%20sopprime%20la%20giunta%20liquidatrice%20dellasse%20ecclesiastico%20in%20Roma.%20079U5069.md) (Serie ª), fu prorogato a tutto il mese di settembre dell'anno 1882.
+E' data forza di legge al [Regio decreto in data del 21 agosto 1881, n. 384](Che%20proroga%20il%20termine%20stabilito%20dallart.%201%20della%20legge%207%20settembre%201879%20concernente%20la%20giunta%20liquidatrice%20dellasse%20ecclesiastico%20in%20Roma.%20081U0384.md) (Serie 3ª), col quale il termine stabilito nell'[art. 1 della legge 7 settembre 1879, n. 5069](Che%20sopprime%20la%20giunta%20liquidatrice%20dellasse%20ecclesiastico%20in%20Roma.%20079U5069.md) (Serie ª), fu prorogato a tutto il mese di settembre dell'anno 1882.
 
 ## Art. 2.
 

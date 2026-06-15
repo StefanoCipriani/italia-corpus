@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Veduto l'articolo 1° della Convenzione 4 marzo 1872, stipulata fra il Governo e la Banca Nazionale nel Regno d'Italia ed approvata colla [legge 19 aprile 1872, n. 759](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1872-04-19;759) (serie 2ª);
+Veduto l'articolo 1° della Convenzione 4 marzo 1872, stipulata fra il Governo e la Banca Nazionale nel Regno d'Italia ed approvata colla [legge 19 aprile 1872, n. 759](Che%20approva%20alcuni%20provvedimenti%20finanziari.%20072U0759.md) (serie 2ª);
 
 Veduto il Reale decreto 18 agosto 1872, n. 960 (serie 2ª);
 

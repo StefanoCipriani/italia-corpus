@@ -48,7 +48,7 @@ L'attuale personale titolare dell'ex Regio istituto nazionale d'istruzione profe
  
  Il personale titolare gia' appartenente al Regio istituto d'istruzione professionale in Roma sara' destinato, con decreti del Ministro per l'economia nazionale, a posti di ruolo che siano o si rendano vacanti in Regi istituti e scuole professionali di uguale carattere e grado. 
  
- Il personale titolare gia' appartenente al Regio museo artistico industriale in Roma sara' destinato, con decreti del Ministro per la pubblica istruzione, a posti di ruolo che siano o si rendano vacanti in Regi istituti o scuole d'arte o nei Regi istituti e scuole per industrie artistiche di cui al [R. decreto 21 maggio 1924, n. 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-21;1200). 
+ Il personale titolare gia' appartenente al Regio museo artistico industriale in Roma sara' destinato, con decreti del Ministro per la pubblica istruzione, a posti di ruolo che siano o si rendano vacanti in Regi istituti o scuole d'arte o nei Regi istituti e scuole per industrie artistiche di cui al [R. decreto 21 maggio 1924, n. 1200](Passaggio%20di%20scuole%20per%20industrie%20artistiche%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20della%20pubblica%20istruzione.%20024U1200.md). 
  
  Sara' collocato in disponibilita' per un tempo non superiore a due anni il personale titolare stabile che, per mancanza di posti, non possa essere destinato a norma dei commi precedenti. 
  

@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 1.
 
-Per la determinazione dei limiti massimi di reddito previsti dall'[articolo 11, primo comma, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_11-com1), convertito, con modificazioni, nella [legge 11 novembre 1983, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638), ai fini della esenzione dalla partecipazione alla spesa per le prestazioni di diagnostica strumentale e di laboratorio e per l'assistenza farmaceutica, da ciascun reddito di lavoro dipendente o di pensione si deduce la somma annua di L. 4.500.000 o quella minore fino a concorrenza del reddito medesimo.
+Per la determinazione dei limiti massimi di reddito previsti dall'[articolo 11, primo comma, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_11-com1), convertito, con modificazioni, nella [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md), ai fini della esenzione dalla partecipazione alla spesa per le prestazioni di diagnostica strumentale e di laboratorio e per l'assistenza farmaceutica, da ciascun reddito di lavoro dipendente o di pensione si deduce la somma annua di L. 4.500.000 o quella minore fino a concorrenza del reddito medesimo.
 
 2.
 
@@ -40,11 +40,11 @@ Fino alla data di approvazione del nuovo metodo di determinazione dei prezzi di 
 
 5.
 
-Le autocertificazioni di cui alle disposizioni dell'[articolo 12, nono comma, lettera a), della legge 26 aprile 1982, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-26;181#art_12-com9-leta), devono essere accompagnate da una copia che l'interessato puo' trarre da quella in suo possesso della dichiarazione dei redditi compilata dal richiedente l'esenzione, ovvero del modello 101 rilasciato dal datore di lavoro o del modello 201 rilasciato dal soggetto erogatore del trattamento di pensione. Restano ferme le disposizioni dell'[articolo 11, comma ottavo, del decreto-legge 12 settembre 1983, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;468#art_11-com8), convertito, con modificazioni, nella [legge 11 novembre 1983, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638).
+Le autocertificazioni di cui alle disposizioni dell'[articolo 12, nono comma, lettera a), della legge 26 aprile 1982, n. 181](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201982.md), devono essere accompagnate da una copia che l'interessato puo' trarre da quella in suo possesso della dichiarazione dei redditi compilata dal richiedente l'esenzione, ovvero del modello 101 rilasciato dal datore di lavoro o del modello 201 rilasciato dal soggetto erogatore del trattamento di pensione. Restano ferme le disposizioni dell'[articolo 11, comma ottavo, del decreto-legge 12 settembre 1983, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;468#art_11-com8), convertito, con modificazioni, nella [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md).
 
 6.
 
-E' abrogato il [sesto comma dell'articolo 12 della legge 26 aprile 1982, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-26;181#art_12-com6).
+E' abrogato il [sesto comma dell'articolo 12 della legge 26 aprile 1982, n. 181](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201982.md).
 
 7.
 
@@ -59,7 +59,7 @@ A decorrere dal quarantacinquesimo giorno successivo alla data di entrata in vig
 2.
 
 Il godimento dei benefici di cui al precedente comma 1 e' condizionato alla presentazione da parte del soggetto interessato di apposita dichiarazione attestante che l'ammontare complessivo dei redditi posseduti, comprensivo dei redditi esenti e di quelli soggetti a ritenuta alla fonte a titolo di imposta o ad imposta sostitutiva, non e' superiore a quanto previsto per la fruizione delle deduzioni, delle detrazioni o agevolazioni di cui al comma 1.
-Alla dichiarazione si applicano le disposizioni di cui all'[articolo 26 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_26), ed il dichiarante e' tenuto, oltre che alla corresponsione delle somme non pagate, alla restituzione di quanto percepito ed al pagamento delle prestazioni ricevute, anche al pagamento di una pena pecuniaria pari a cinque volte l'importo delle somme indebitamente percepite e non pagate.
+Alla dichiarazione si applicano le disposizioni di cui all'[articolo 26 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), ed il dichiarante e' tenuto, oltre che alla corresponsione delle somme non pagate, alla restituzione di quanto percepito ed al pagamento delle prestazioni ricevute, anche al pagamento di una pena pecuniaria pari a cinque volte l'importo delle somme indebitamente percepite e non pagate.
 
 3.
 

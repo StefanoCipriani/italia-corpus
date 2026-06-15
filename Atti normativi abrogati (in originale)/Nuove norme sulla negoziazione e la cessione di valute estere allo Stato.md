@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [regio decreto-legge 8 dicembre 1934, n. 1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-08;1942), convertito nella [legge 9 gennaio 1936, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;193), concernente la cessione delle divise e la dichiarazione del possesso dei titoli emessi all'estero;
+Visto il [regio decreto-legge 8 dicembre 1934, n. 1942](Provvedimenti%20concernenti%20la%20cessione%20delle%20divise%20e%20la%20dichiarazione%20del%20possesso%20di%20titoli%20emessi%20allestero.%20034U1942.md), convertito nella [legge 9 gennaio 1936, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;193), concernente la cessione delle divise e la dichiarazione del possesso dei titoli emessi all'estero;
 
-Visto il [regio decreto-legge 5 dicembre 1938, n. 1928](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-12-05;1928), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), riguardante le norme per la repressione delle violazioni delle leggi valutarie;
+Visto il [regio decreto-legge 5 dicembre 1938, n. 1928](Norme%20per%20la%20repressione%20delle%20violazioni%20delle%20leggi%20valutarie.%20038U1928.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), riguardante le norme per la repressione delle violazioni delle leggi valutarie;
 
 Visto il [decreto luogotenenziale 16 gennaio 1946, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-16;12),
 
@@ -26,7 +26,7 @@ concernente nuove norme sulla cessione delle valute estere allo Stato;
 
 Visto il [decreto legislativo 28 novembre 1947, n. 1347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-28;1347), relativo alle norme in materia di cessione di valute estere all'Ufficio italiano dei cambi;
 
-Visto il [decreto-legge 19 settembre 1949, n. 632](Modifiche%20alle%20norme%20riguardanti%20la%20negoziazione%20di%20valute%20estere.md), convertito nella [legge 4 novembre 1949, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-11-04;830), concernente le modifiche alle norme riguardanti la negoziazione di valute estere;
+Visto il [decreto-legge 19 settembre 1949, n. 632](Modifiche%20alle%20norme%20riguardanti%20la%20negoziazione%20di%20valute%20estere.md), convertito nella [legge 4 novembre 1949, n. 830](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2019%20settembre%201949%20n.%20632%20adottato%20ai%20sensi%20dellart.%2077%20comma%20secondo%20della%20Costituzione%20e%20concernente%20modifiche%20in%20materia%20di%20norme%20riguardanti%20la%20n_37026dd95888.md), concernente le modifiche alle norme riguardanti la negoziazione di valute estere;
 
 Ritenuta la straordinaria necessita' e l'urgenza di emanare nuove norme sulla negoziazione e la cessione di valute estere allo Stato;
 
@@ -66,7 +66,7 @@ Le banche presso le quali sono istituiti i conti in valuta estera aperti ai sens
 
 ## Art. 7.
 
-Ferme le pene stabilite da altre norme legislative, alle violazioni delle disposizioni del presente decreto-legge si applicano le norme del [regio decreto-legge 5 dicembre 1938, n. 1928](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-12-05;1928), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), e successive modificazioni.
+Ferme le pene stabilite da altre norme legislative, alle violazioni delle disposizioni del presente decreto-legge si applicano le norme del [regio decreto-legge 5 dicembre 1938, n. 1928](Norme%20per%20la%20repressione%20delle%20violazioni%20delle%20leggi%20valutarie.%20038U1928.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), e successive modificazioni.
 
 ## Art. 8.
 

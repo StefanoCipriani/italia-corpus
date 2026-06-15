@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 giugno 1913, n. 767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;767), costitutiva della Cassa invalidi della marina mercantile e il regolamento per l'esecuzione della suindicata legge, approvato con decreto 18 novembre 1915, n. 1811;
+Vista la [legge 22 giugno 1913, n. 767](Che%20approva%20il%20riordinamento%20della%20Cassa%20invalidi%20della%20marina%20mercantile%20e%20del%20Fondo%20invalidi%20per%20la%20veneta%20marina%20mercantile.%20013U0767.md), costitutiva della Cassa invalidi della marina mercantile e il regolamento per l'esecuzione della suindicata legge, approvato con decreto 18 novembre 1915, n. 1811;
 
 Udito il Consiglio dei ministri;
 

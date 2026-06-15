@@ -14,9 +14,9 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduto lo statuto dell'Universita' commerciale "Luigi Bocconi" in Milano, approvato con [regio decreto 8 marzo 1925, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547), e modificato con [regio decreto 2 dicembre 1928, n. 3108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-02;3108) e successivi;
+Veduto lo statuto dell'Universita' commerciale "Luigi Bocconi" in Milano, approvato con [regio decreto 8 marzo 1925, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547), e modificato con [regio decreto 2 dicembre 1928, n. 3108](Modificazione%20dellart.%207%20dello%20statuto%20dellUniversita%20commerciale%20%20Luigi%20Bocconi%20%20di%20Milano.%20028U3108.md) e successivi;
 
 Vedute le proposte relative allo statuto dell'Universita' anzidetta;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto col Ministro
 
 ## Art. 1.
 
-La tabella n. IX annessa al [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), viene modificata nel senso che la laurea in lingue e letterature straniere e' rilasciata oltre che dall'Istituto superiore di economia e commercio di Venezia anche dall'Universita' commerciale "Luigi Bocconi" di Milano.
+La tabella n. IX annessa al [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), viene modificata nel senso che la laurea in lingue e letterature straniere e' rilasciata oltre che dall'Istituto superiore di economia e commercio di Venezia anche dall'Universita' commerciale "Luigi Bocconi" di Milano.
 
 ## Art. 2.
 

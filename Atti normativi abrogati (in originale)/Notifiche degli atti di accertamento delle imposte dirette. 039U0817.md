@@ -20,7 +20,7 @@ Il pagamento del Compenso stabilito dal precedente articolo sara' fatto sui rela
 
 ## Art. 3.
 
-E' abrogato l'[art. 3 del R. decreto-legge 14 aprile 1927, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-14;617#art_3) (convertito nella [legge 19 febbraio 1928, n. 259](Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20aprile%201927%20numero%20617%20concernente%20la%20concessione%20di%20compensi%20ai%20membri%20ed%20al%20personale%20di%20segreteria%20e%20di%20servizio%20delle%20Commissioni%20di%201%20e%20d_be8ca7a61597.md)).
+E' abrogato l'[art. 3 del R. decreto-legge 14 aprile 1927, n. 617](Concessione%20di%20compensi%20ai%20membri%20ed%20al%20personale%20di%20segreteria%20e%20di%20servizio%20delle%20Commissioni%20di%201%20e%20di%202%20grado%20per%20le%20imposte%20dirette.%20027U0617.md) (convertito nella [legge 19 febbraio 1928, n. 259](Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20aprile%201927%20numero%20617%20concernente%20la%20concessione%20di%20compensi%20ai%20membri%20ed%20al%20personale%20di%20segreteria%20e%20di%20servizio%20delle%20Commissioni%20di%201%20e%20d_be8ca7a61597.md)).
 
 ## Art. 4.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 2 dicembre 1928, n. 2644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-02;2644), concernente l'istituzione di un Ispettorato generale per gli Istituti di educazione e per gli Istituti pareggiati e privati di istruzione media classica, scientifica e magistrale. 
+ E' convertito in legge il [R. decreto legge 2 dicembre 1928, n. 2644](Istituzione%20di%20un%20Ispettorato%20generale%20per%20gli%20istituti%20di%20educazione%20e%20per%20gli%20istituti%20pareggiati%20e%20privati%20di%20istruzione%20media%20classica%20scientifica%20e%20magistrale.%20028U2644.md), concernente l'istituzione di un Ispettorato generale per gli Istituti di educazione e per gli Istituti pareggiati e privati di istruzione media classica, scientifica e magistrale. 
  
  Ordiniamo che la presente. munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

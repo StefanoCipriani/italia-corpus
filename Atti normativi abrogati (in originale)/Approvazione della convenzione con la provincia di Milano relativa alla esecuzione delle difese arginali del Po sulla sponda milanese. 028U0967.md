@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta la necessita' di provvedere con urgenza alla sistemazione delle difese del Basso Lodigiano, lungo la linea del Po, classificate nella seconda categoria delle opere idrauliche con [R. decreto 11 febbraio 1867, n. 3598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-02-11;3598);
+Ritenuta la necessita' di provvedere con urgenza alla sistemazione delle difese del Basso Lodigiano, lungo la linea del Po, classificate nella seconda categoria delle opere idrauliche con [R. decreto 11 febbraio 1867, n. 3598](Che%20approva%20liscrizione%20delle%20acque%20del%20Regno%20e%20delle%20opere%20relative.%20067U3598.md);
 
 Vista la convenzione stipulata il giorno 16 marzo 1928 tra le Amministrazioni dei lavori pubblici e delle finanze ed il Commissario straordinario per l'Amministrazione provinciale di Milano, con la quale la Provincia si impegna ad anticipare i fondi necessari all'esecuzione degli anzidetti lavori;
 

@@ -14,7 +14,7 @@ N.
 
 644.
 
-Decreto Luogotenenziale 27 febbraio 1919, col quale, sulla proposta del ministro per le poste ed i telegrafi, alle tabelle dimostrative delle esenzioni dalle tasse postali per il carteggio ufficiale delle autorita' e degli uffici governativi, approvate con [R. decreto 4 aprile 1909, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-04-04;195), sono apportate le seguenti aggiunte:
+Decreto Luogotenenziale 27 febbraio 1919, col quale, sulla proposta del ministro per le poste ed i telegrafi, alle tabelle dimostrative delle esenzioni dalle tasse postali per il carteggio ufficiale delle autorita' e degli uffici governativi, approvate con [R. decreto 4 aprile 1909, n. 195](Che%20approva%20le%20tabelle%20dimostrative%20delle%20esenzioni%20dalle%20tasse%20postali%20accordate%20al%20carteggio%20delle%20autorita%20e%20degli%20uffici%20governativi.%20009U0195.md), sono apportate le seguenti aggiunte:
 
 Uffici mittenti
                                 Uffici con i quali possono corrispondere

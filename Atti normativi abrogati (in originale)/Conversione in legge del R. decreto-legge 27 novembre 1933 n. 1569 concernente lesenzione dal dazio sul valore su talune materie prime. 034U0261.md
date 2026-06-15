@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1569](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1569), concernente l'esenzione dal dazio sul valore su talune materie prime. 
+ E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1569](Esenzione%20dal%20dazio%20sul%20valore%20su%20talune%20materie%20prime.%20033U1569.md), concernente l'esenzione dal dazio sul valore su talune materie prime. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

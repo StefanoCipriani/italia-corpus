@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduta la [legge 27 giugno 1912, n. 678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;678), e il regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1217);
+Veduta la [legge 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md), e il regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md);
 
-Veduta la [legge 12 luglio 1896, n. 293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-12;293), e il regolamento approvato con [R. decreto 3 dicembre 1896, n. 592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-12-03;592);
+Veduta la [legge 12 luglio 1896, n. 293](Sullinsegnamento%20nelle%20scuole%20normali%20maschili%20e%20femminili.%20096U0293.md), e il regolamento approvato con [R. decreto 3 dicembre 1896, n. 592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-12-03;592);
 
 Udito il Consiglio dei ministri;
 
@@ -40,7 +40,7 @@ Le prove per le quali e' concessa la dispensa totale sono, sempre che sia possib
 
 I mutilati o invalidi che negli esami di licenza dalle sezioni professionali degli Istituti tecnici vengano totalmente dispensati da una o piu' prove di discipline, che nelle istruzioni di cui all'art. 1° saranno dichiarate specificatamente necessarie per l'esercizio della professione, cui ciascuna sezione abilita, ottengono uno speciale attestato di licenza, che non e' valido per l'esercizio della professione. 
  
- Fermo restando il disposto degli articoli 92 e 100 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1217), i mutilati e gli invalidi che vengano totalmente dispensati per qualsiasi disciplina da una o piu' prove normalmente prescritte per la licenza dalle scuole magistrali, ottengono uno speciale attestato di licenza che non e' valido per conseguire il diploma di abilitazione all'insegnamento elementare. 
+ Fermo restando il disposto degli articoli 92 e 100 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md), i mutilati e gli invalidi che vengano totalmente dispensati per qualsiasi disciplina da una o piu' prove normalmente prescritte per la licenza dalle scuole magistrali, ottengono uno speciale attestato di licenza che non e' valido per conseguire il diploma di abilitazione all'insegnamento elementare. 
  
  Quelli pero' fra i candidati che, pur non potendo dar prova della conoscenza delle discipline di cui nei commi precedenti per la materiale impossibilita' di eseguire le operazioni od esercitazioni necessarie, dimostrino, o contemporaneamente all'esame, o in sessioni successive, coltura ed attitudini specifiche tali da metterli in grado di esercitare con piena validita' legale la professione o l'insegnamento elementare merce' l'aiuto di altri, possono a tale effetto ottenere il diploma di licenza, quando i relativi atti d'esame siano approvati dal Ministero dell'istruzione pubblica, udito il parere dell'Ispettorato delle scuole medie e normali.
 

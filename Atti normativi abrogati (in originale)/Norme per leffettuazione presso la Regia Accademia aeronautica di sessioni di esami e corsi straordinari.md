@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 28 gennaio 1935, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-28;314);
+Visto il [R. decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md);
 
 Visto il [R. Decreto-legge 25 marzo 1941, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-03-25;472);
 
@@ -46,7 +46,7 @@ Le materie di esame e di insegnamento relative sia alle sessioni straordinarie c
 
 ## Art. 4.
 
-Gli allievi della Regia Accademia aeronautica, che abbiano ottenuto il passaggio al terzo corso in base ad esami sostenuti nelle sessioni straordinarie di cui all'art. 1 ovvero in base ad esami sostenuti al termine dei corsi straordinari accelerati di cui all'art. 2, conseguiranno la nomina ad "aspirante ufficiale" previste dall'[art. 5 del R. Decreto 25 marzo 1941, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-03-25;472#art_5), con retrodatazione, ai soli effetti giuridici, all'epoca nella quale, presuntivamente, l'avrebbero conseguita, se cause di forza maggiore non avessero interrotto il normale andamento degli studi.
+Gli allievi della Regia Accademia aeronautica, che abbiano ottenuto il passaggio al terzo corso in base ad esami sostenuti nelle sessioni straordinarie di cui all'art. 1 ovvero in base ad esami sostenuti al termine dei corsi straordinari accelerati di cui all'art. 2, conseguiranno la nomina ad "aspirante ufficiale" previste dall'[art. 5 del R. Decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), con retrodatazione, ai soli effetti giuridici, all'epoca nella quale, presuntivamente, l'avrebbero conseguita, se cause di forza maggiore non avessero interrotto il normale andamento degli studi.
  La retrodatazione anzidetta sara' prorogata del periodo di tempo intercorso tra la chiusura della prima e della seconda sessione di esami, nel caso che il passaggio al terzo corso venga ottenuto in seconda sessione straordinaria.
 
 ## Art. 5.

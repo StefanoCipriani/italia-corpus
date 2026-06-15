@@ -22,7 +22,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Art. 1.
 
-Il disposto del numero 1) dell'articolo unico della [legge 18 febbraio 1949, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-02-18;27), e quello delle [lettere p)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-12-24;940#art_1-com1-letp) e [q) del primo comma dell'art. 1 della legge 24 dicembre 1949, n. 940](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-12-24;940#art_1-com1-letq), sono sostituiti come segue, a decorrere dalla data di pubblicazione del presente decreto:
+Il disposto del numero 1) dell'articolo unico della [legge 18 febbraio 1949, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20dicembre%201948%20n.%201427%20adottato%20ai%20sensi%20dellart.%2077%20comma%2020%20della%20Costituzione%20e%20concernente%20modificazioni%20al%20regime%20fiscale%20d_ec2fa99452cc.md), e quello delle [lettere p)](Regime%20fiscale%20dei%20filati%20delle%20varie%20fibre%20naturali%20ed%20artificiali.md) e [q) del primo comma dell'art. 1 della legge 24 dicembre 1949, n. 940](Regime%20fiscale%20dei%20filati%20delle%20varie%20fibre%20naturali%20ed%20artificiali.md), sono sostituiti come segue, a decorrere dalla data di pubblicazione del presente decreto:
  "La imposta interna di fabbricazione e la corrispondente sovrimposta di confine sui filati costituiti dalle fibre tessili sotto indicate sono stabilite nelle seguenti misure:
  per ogni chilogrammo di filato di solo cotone (sodo, cascame o rigenerato), o di solo fiocco di fibra artificiale o di cascame o di rigenerato di fibra artificiale;
  o di solo fiocco di canapa, o di cotone in mista intima con fibra artificiale (fiocco, cascame o rigenerata) o con fiocco di canapa, misurante:
@@ -50,7 +50,7 @@ t) oltre 244.000 metri " 2200
 
 ## Art. 2.
 
-La restituzione d'imposta, prevista, per i prodotti esportati, dall'ultimo comma dell'[art. 2 della legge 22 marzo 1951, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-03-22;205#art_2), per le esportazioni effettuate dalla data di entrata in vigore del presente decreto potra' essere operata, oltre che nei modi previsti dalle disposizioni in vigore, anche nel modo stabilito nei successivi articoli.
+La restituzione d'imposta, prevista, per i prodotti esportati, dall'ultimo comma dell'[art. 2 della legge 22 marzo 1951, n. 205](Regime%20fiscale%20dei%20filati%20delle%20varie%20fibre%20tessili%20naturali%20ed%20artificiali.md), per le esportazioni effettuate dalla data di entrata in vigore del presente decreto potra' essere operata, oltre che nei modi previsti dalle disposizioni in vigore, anche nel modo stabilito nei successivi articoli.
 
 ## Art. 3.
 
@@ -68,11 +68,11 @@ documenti saranno uniti alle prescritte contabilita' a giustificazione dello sgr
 
 ## Art. 5.
 
-Per i filati di peli fini, di peli grossolani o di crine (vergini, cascame o rigenerati) da soli o in quantita' complessiva superiore al cinque per cento in mista intima con altre fibre rigenerate o non, e' dovuta l'imposta di fabbricazione o la sovrimposta di confine nelle stesse misure stabilite per i filati di lana all'[art. 1 della legge 24 dicembre 1949, n. 940](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-12-24;940#art_1).
+Per i filati di peli fini, di peli grossolani o di crine (vergini, cascame o rigenerati) da soli o in quantita' complessiva superiore al cinque per cento in mista intima con altre fibre rigenerate o non, e' dovuta l'imposta di fabbricazione o la sovrimposta di confine nelle stesse misure stabilite per i filati di lana all'[art. 1 della legge 24 dicembre 1949, n. 940](Regime%20fiscale%20dei%20filati%20delle%20varie%20fibre%20naturali%20ed%20artificiali.md).
 
 ## Art. 6.
 
-Agli effetti dell'applicazione del disposto con il n. 8 dell'articolo unico della [legge 18 febbraio 1949, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-02-18;27), i filati di vetro a filamento continuo e discontinuo sono assoggettati al pagamento dell'imposta di fabbricazione o della corrispondente sovrimposta di confine nelle seguenti misure:
+Agli effetti dell'applicazione del disposto con il n. 8 dell'articolo unico della [legge 18 febbraio 1949, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20dicembre%201948%20n.%201427%20adottato%20ai%20sensi%20dellart.%2077%20comma%2020%20della%20Costituzione%20e%20concernente%20modificazioni%20al%20regime%20fiscale%20d_ec2fa99452cc.md), i filati di vetro a filamento continuo e discontinuo sono assoggettati al pagamento dell'imposta di fabbricazione o della corrispondente sovrimposta di confine nelle seguenti misure:
  per ogni chilogrammo di filato semplice di vetro, misurante:
 
  fino a 6.000 metri................................ L. 32
@@ -87,7 +87,7 @@ Agli effetti dell'applicazione del disposto con il n. 8 dell'articolo unico dell
 
 ## Art. 7.
 
-Il disposto dell'[art. 11 del decreto-legge 20 dicembre 1948, n. 1427](Modificazioni%20al%20regime%20fiscale%20di%20taluni%20prodotti%20soggetti%20ad%20imposta%20di%20fabbricazione_2.md), modificato, nel primo e secondo comma, dall'articolo unico della [legge 18 febbraio 1949, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-02-18;27), e' sostituito come segue:
+Il disposto dell'[art. 11 del decreto-legge 20 dicembre 1948, n. 1427](Modificazioni%20al%20regime%20fiscale%20di%20taluni%20prodotti%20soggetti%20ad%20imposta%20di%20fabbricazione_2.md), modificato, nel primo e secondo comma, dall'articolo unico della [legge 18 febbraio 1949, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20dicembre%201948%20n.%201427%20adottato%20ai%20sensi%20dellart.%2077%20comma%2020%20della%20Costituzione%20e%20concernente%20modificazioni%20al%20regime%20fiscale%20d_ec2fa99452cc.md), e' sostituito come segue:
  "I fabbricanti, che abbiano una produzione annua presunta di filati corrispondente ad una imposta complessiva annua non superiore a lire 800.000, sono considerati artigiani e, come tali, possono essere ammessi a pagare l'imposta in base alla quantita' e qualita' di filati da produrre ed alle aliquote d'imposta vigenti.
  Detti fabbricanti, almeno dieci giorni prima dell'inizio della lavorazione sono tenuti a presentare al competente Ufficio tecnico delle imposte di fabbricazione, apposita dichiarazione di lavoro bimestrale, se lavorano per un periodo di tempo superiore a sei mesi, oppure un'unica dichiarazione per tutto il periodo di attivita' nell'anno, se la loro lavorazione ha carattere stagionale ed in ogni modo non superiore a sei mesi.
  I fabbricanti, che scelgono saltuariamente nel corso dell'anno, per dette lavorazioni saltuarie possono essere ammessi a presentare di volta in volta, almeno dieci giorni prima dell'inizio di ogni lavorazione, apposita dichiarazione di lavoro, con a corredo la quietanza di Tesoreria comprovante il pagamento dell'imposta corrispondente al quantitativo complessivo dei filati, oggetto della dichiarazione, per ciascun titolo.
@@ -106,7 +106,7 @@ La regolarita' delle dichiarazioni di lavoro di cui al precedente art. 7 deve es
 
 ## Art. 9.
 
-La riduzione proporzionale del canone prevista dal [secondo comma dell'art. 3 della legge 22 marzo 1951, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-03-22;205#art_3-com2), per il caso che uno o piu' filatoi o macchine da filiera, rimangano inattivi per un periodo di tempo non inferiore a tre giorni lavorativi consecutivi, ove trattisi di fabbriche che lavorano continuativamente per 24 ore giornaliere puo' essere consentita anche se la inattivita' venga iniziata in qualsiasi ora della giornata lavorativa purche' l'interruzione della lavorazione abbia una durata non inferiore a 72 ore consecutive.
+La riduzione proporzionale del canone prevista dal [secondo comma dell'art. 3 della legge 22 marzo 1951, n. 205](Regime%20fiscale%20dei%20filati%20delle%20varie%20fibre%20tessili%20naturali%20ed%20artificiali.md), per il caso che uno o piu' filatoi o macchine da filiera, rimangano inattivi per un periodo di tempo non inferiore a tre giorni lavorativi consecutivi, ove trattisi di fabbriche che lavorano continuativamente per 24 ore giornaliere puo' essere consentita anche se la inattivita' venga iniziata in qualsiasi ora della giornata lavorativa purche' l'interruzione della lavorazione abbia una durata non inferiore a 72 ore consecutive.
 
 ## Art. 10.
 

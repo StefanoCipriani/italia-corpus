@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 dicembre 1931, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-31;1691), recante disposizioni per la determinazione del tasso d'interesse per il calcolo delle annualita' di contributo statale nelle spese di bonifica. 
+ E' convertito in legge il [R. decreto-legge 31 dicembre 1931, n. 1691](Disposizioni%20per%20la%20determinazione%20del%20tasso%20dinteresse%20per%20il%20calcolo%20delle%20annualita%20di%20contributo%20statale%20nelle%20spese%20di%20bonifica.%20031U1691.md), recante disposizioni per la determinazione del tasso d'interesse per il calcolo delle annualita' di contributo statale nelle spese di bonifica. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 31 marzo 1932 - Anno X 
  

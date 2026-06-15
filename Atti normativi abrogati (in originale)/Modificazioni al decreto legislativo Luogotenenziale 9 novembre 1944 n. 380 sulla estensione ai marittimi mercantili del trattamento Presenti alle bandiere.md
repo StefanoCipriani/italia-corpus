@@ -16,17 +16,17 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 15 marzo 1943, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-03-15;121);
+Visto il [R. decreto-legge 15 marzo 1943, n. 121](Norme%20intese%20a%20considerare%20presenti%20alle%20bandiere%20i%20militari%20e%20i%20militarizzati%20deceduti%20per%20ferite%20lesioni%20od%20infermita%20riportate%20o%20contratte%20per%20servizio%20di%20guerra%20o%20che%20siano%20nelle%20stes_c24e6980d7de.md);
 
-Visto il [R. decreto 5 aprile 1943, n. 681](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-04-05;681);
+Visto il [R. decreto 5 aprile 1943, n. 681](Norme%20integrative%20del%20R.%20decreto-legge%2015%20marzo%201943%20n.%20121%20recante%20norme%20intese%20a%20considerare%20Presenti%20alle%20bandiere%20i%20militari%20e%20i%20militarizzati%20deceduti%20per%20ferite%20lesioni%20od%20infermita_50e95ef6b864.md);
 
-Visto il [R. decreto-legge 6 aprile 1944, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-04-06;108);
+Visto il [R. decreto-legge 6 aprile 1944, n. 108](Modifica%20delle%20norme%20integrative%20del%20R.%20decreto%20legge%2015%20marzo%201943%20n.%20121%20sulla%20concessione%20del%20trattamento%20di%20Presenti%20alle%20Bandiere%20ai%20militari%20ed%20ai%20militarizzati%20deceduti%20per%20ferite%20_54e72c452b48.md);
 
-Visto il [R. decreto 22 novembre 1937, n. 2629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-11-22;2629);
+Visto il [R. decreto 22 novembre 1937, n. 2629](Tabella%20dei%20gradi%20militari%20da%20conferire%20al%20personale%20delle%20navi%20mercantili%20inscritte%20nel%20naviglio%20ausiliario%20dello%20Stato.%20037U2629.md);
 
 Visto il [R. decreto 1° settembre 1940, n. 1361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-01;1361);
 
-Vista la [legge 11 gennaio 1943, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-11;36);
+Vista la [legge 11 gennaio 1943, n. 36](Estensione%20delle%20benemerenze%20di%20guerra%20ai%20marittimi%20mercantili%20combattenti%20nellattuale%20guerra.%20043U0036.md);
 
 Visto il [decreto legislativo Luogotenenziale 9 novembre 1944, n. 380](Estensione%20ai%20marittimi%20mercantili%20del%20trattamento%20di%20posto%20dal%20R.%20decreto-legge%2015%20marzo%201943%20n.%20121%20a%20favore%20dei%20familiari%20dei%20militari%20e%20militarizzati%20considerati%20Presenti%20alle%20bandiere.%20044U0380.md);
 

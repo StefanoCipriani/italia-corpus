@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A parziale modificazione dell'[art. 2 del R. decretolegge 3 gennaio 1944, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-03;1#art_2), e dell'[art. 3 del decreto legislativo Luogotenenziale 29 dicembre 1944, n. 393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-29;393#art_3), i termini di decadenza in materia di tasse e di imposte indirette sugli affari che sono scaduti o vengono a scadere dal 1° aprile 1943 in poi sono prorogati di diritto, nei confronti della pubblica amministrazione, fino al 31 dicembre 1946.
+A parziale modificazione dell'[art. 2 del R. decretolegge 3 gennaio 1944, n. 1](Norme%20per%20la%20sospensione%20del%20corso%20delle%20prescrizioni%20dei%20termini%20di%20decadenza%20e%20dei%20termini%20processuali.%20044U0001.md), e dell'[art. 3 del decreto legislativo Luogotenenziale 29 dicembre 1944, n. 393](../Decreti%20legislativi%20luogotenenziali/Proroga%20dei%20termini%20di%20prescrizione%20e%20decadenza%20previsti%20dalle%20leggi%20tributarie.%20044U0393.md), i termini di decadenza in materia di tasse e di imposte indirette sugli affari che sono scaduti o vengono a scadere dal 1° aprile 1943 in poi sono prorogati di diritto, nei confronti della pubblica amministrazione, fino al 31 dicembre 1946.
  La stessa proroga puo' essere invocata dai contribuenti, oltre che per i termini di decadenza, anche per quelli relativi al pagamento ed alla presentazione della domanda di opzione di cui ai Regi decreti-legge 12 aprire 1943, n. 234, e 19 agosto 1943, n. 737, fermo restando in tutti i casi l'obbligo di dimostrare che si sono trovati, alla scadenza dei rispettivi termini, nella impossibilita' di osservarli.
 
 ## Art. 2.

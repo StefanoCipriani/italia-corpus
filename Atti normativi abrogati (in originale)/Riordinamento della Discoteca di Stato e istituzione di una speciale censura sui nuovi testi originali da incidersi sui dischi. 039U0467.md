@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La Discoteca di Stato, istituita con [Regio decreto-legge 10 agosto 1928, n. 2223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-10;2223), convertito nella [legge 3 gennaio 1929, n. 81](Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%2010%20agosto%201928%20n.%202223%20concernente%20la%20istituzione%20di%20una%20Discoteca%20di%20Stato%20in%20Roma.%20029U0081.md), passa a costituire un servizio del Ministero della cultura popolare.
+La Discoteca di Stato, istituita con [Regio decreto-legge 10 agosto 1928, n. 2223](Istituzione%20di%20una%20Discoteca%20di%20Stato%20in%20Roma.%20028U2223.md), convertito nella [legge 3 gennaio 1929, n. 81](Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%2010%20agosto%201928%20n.%202223%20concernente%20la%20istituzione%20di%20una%20Discoteca%20di%20Stato%20in%20Roma.%20029U0081.md), passa a costituire un servizio del Ministero della cultura popolare.
 
 ## Art. 2.
 
@@ -79,7 +79,7 @@ L'editore che procede a pubblicazioni discografiche senza la preventiva approvaz
 
 ## Art. 8.
 
-Il Ministero della cultura popolare e' autorizzato ad assumere in base alle norme ed al trattamento del [Regio decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), il personale straordinario appresso indicato con la qualifica di avventizio: 
+Il Ministero della cultura popolare e' autorizzato ad assumere in base alle norme ed al trattamento del [Regio decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), il personale straordinario appresso indicato con la qualifica di avventizio: 
  
  impiegati con incarico di disimpegnare mansioni di concetto e tecniche proprie dei ruoli di gruppo A . . . . . . n. 2, 
  

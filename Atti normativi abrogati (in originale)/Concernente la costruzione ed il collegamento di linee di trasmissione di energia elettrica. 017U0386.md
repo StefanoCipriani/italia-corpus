@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto gli articoli 1° (primo alinea), 7 ed 11 del [decreto Luogotenenziale 25 gennaio 1916, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-01-25;57); 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Sulla proposta dei ministri dei lavori pubblici e dell'industria, commercio e lavoro; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Quando non sia ancora intervenuta la dichiarazione di pubblica utilita' a termini degli [articoli 13 del decreto Luogotenenziale 20 novembre 1916, n. 1664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-20;1664#art_13), e dell'art. 36 del regolamento tecnico amministrativo approvato con [decreto Luogotenenziale 24 gennaio 1917, n 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-24;85), l'autorizzazione per la costruzione e il collegamento di linee di trasmissione dell'energia proveniente da impianti idraulici esistenti o nuovamente concessi, agli effetti della [legge 7 giugno 1894, n 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-06-07;232), e' data, in base ad istruttoria sommaria, dal ministro dei lavori pubblici. Il concessionario dovra' assumere ogni responsabilita' per danni ai terzi e dare, occorrendo, sufficienti garanzie. 
+ Quando non sia ancora intervenuta la dichiarazione di pubblica utilita' a termini degli [articoli 13 del decreto Luogotenenziale 20 novembre 1916, n. 1664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-20;1664#art_13), e dell'art. 36 del regolamento tecnico amministrativo approvato con [decreto Luogotenenziale 24 gennaio 1917, n 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-24;85), l'autorizzazione per la costruzione e il collegamento di linee di trasmissione dell'energia proveniente da impianti idraulici esistenti o nuovamente concessi, agli effetti della [legge 7 giugno 1894, n 232](Sulla%20trasmissione%20a%20distanza%20delle%20correnti%20elettriche%20destinate%20al%20trasporto%20ed%20alla%20distribuzione%20delle%20energie%20per%20uso%20industriale.%20094U0232.md), e' data, in base ad istruttoria sommaria, dal ministro dei lavori pubblici. Il concessionario dovra' assumere ogni responsabilita' per danni ai terzi e dare, occorrendo, sufficienti garanzie. 
  
  In casi d'urgenza, l'Ufficio del genio civile della Provincia in cui ricadono, in tutto od in parte, le linee di trasmissione e di collegamento, potra', riferendone mediatamente al Ministero, autorizzare l' inizio delle opere. 
  

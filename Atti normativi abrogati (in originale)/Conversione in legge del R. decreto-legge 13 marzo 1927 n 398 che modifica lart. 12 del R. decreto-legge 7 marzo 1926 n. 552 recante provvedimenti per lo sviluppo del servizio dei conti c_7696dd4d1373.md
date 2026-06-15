@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 marzo 1927, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-13;398), che modifica l'[art. 12 del R. decreto-legge n. 552 del 7 marzo 1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-07;552#art_12), recante provvedimenti per lo sviluppo del servizio dei conti correnti ed assegni postali. 
+ E' convertito in legge il [R. decreto-legge 13 marzo 1927, n. 398](Modificazione%20al%20R.%20decreto-legge%207%20marzo%201926%20n.%20552%20recante%20provvedimenti%20per%20lo%20sviluppo%20del%20servizio%20dei%20conti%20correnti%20ed%20assegni%20postali.%20027U0398.md), che modifica l'[art. 12 del R. decreto-legge n. 552 del 7 marzo 1926](Provvedimenti%20per%20lo%20sviluppo%20del%20servizio%20dei%20conti%20correnti%20ed%20assegni%20postali.%20026U0552.md), recante provvedimenti per lo sviluppo del servizio dei conti correnti ed assegni postali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

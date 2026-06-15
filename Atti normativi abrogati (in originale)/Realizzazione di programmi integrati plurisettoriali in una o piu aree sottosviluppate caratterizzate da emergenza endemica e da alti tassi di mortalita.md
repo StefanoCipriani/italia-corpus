@@ -42,7 +42,7 @@ I programmi comprendono interventi e infrastrutture di supporto alla produzione,
 
 1.
 
-Il Comitato interministeriale per la politica economica estera (CIPES), di cui all'[articolo 3 della legge 9 febbraio 1979, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38#art_3), su proposta del Ministro degli affari esteri, d'intesa con il commissario straordinario, determina l'area o le aree nelle quali intervenire con i programmi di cui al precedente articolo 1, tenendo conto del tasso di mortalita' e degli altri indicatori previsti in sede internazionale. Tale scelta va operata nel quadro degli indirizzi e dei principi ispiratori della terza convenzione ACP-CEE di Lome', firmata l'8 dicembre 1984, e privilegiando ogni possibilita' di acquisto o di scambio di derrate nei e fra i Paesi in via di sviluppo.
+Il Comitato interministeriale per la politica economica estera (CIPES), di cui all'[articolo 3 della legge 9 febbraio 1979, n. 38](Cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), su proposta del Ministro degli affari esteri, d'intesa con il commissario straordinario, determina l'area o le aree nelle quali intervenire con i programmi di cui al precedente articolo 1, tenendo conto del tasso di mortalita' e degli altri indicatori previsti in sede internazionale. Tale scelta va operata nel quadro degli indirizzi e dei principi ispiratori della terza convenzione ACP-CEE di Lome', firmata l'8 dicembre 1984, e privilegiando ogni possibilita' di acquisto o di scambio di derrate nei e fra i Paesi in via di sviluppo.
 
 2.
 
@@ -90,7 +90,7 @@ Per l'attuazione degli interventi straordinari finalizzati al conseguimento degl
                         e)
                             a impiegare, d'intesa con tutti i Ministeri interessati, enti locali ed enti pubblici, anche economici, i mezzi e il personale addetto per il tempestivo raggiungimento degli obiettivi del presente decreto;
                         f)
-                            ad utilizzare il volontariato civile nell'ambito degli organismi riconosciuti dalla sezione per il volontariato prevista dall'[articolo 37 della legge 9 febbraio 1979, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38#art_37), ovvero enti, istituti ed organismi costituiti, ai sensi degli [articoli da 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_14) [a 42 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_42), alla data del 31 dicembre 1983, che diano adeguate garanzie in ordine alla formazione, selezione, addestramento ed impiego dei volontari. L'utilizzazione puo' avvenire sia direttamente sia attraverso il finanziamento di programmi di intervento straordinario elaborati da tali organismi, qualora concordati con il commissario straordinario. Di tale utilizzazione viene data documentata motivazione nell'ambito delle relazioni di cui al successivo articolo 5;
+                            ad utilizzare il volontariato civile nell'ambito degli organismi riconosciuti dalla sezione per il volontariato prevista dall'[articolo 37 della legge 9 febbraio 1979, n. 38](Cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), ovvero enti, istituti ed organismi costituiti, ai sensi degli [articoli da 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_14) [a 42 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_42), alla data del 31 dicembre 1983, che diano adeguate garanzie in ordine alla formazione, selezione, addestramento ed impiego dei volontari. L'utilizzazione puo' avvenire sia direttamente sia attraverso il finanziamento di programmi di intervento straordinario elaborati da tali organismi, qualora concordati con il commissario straordinario. Di tale utilizzazione viene data documentata motivazione nell'ambito delle relazioni di cui al successivo articolo 5;
                         g)
                             alla realizzazione, in accordo con i governi locali, di programmi di comunicazione e di informazione che possano coinvolgere e informare sugli effetti dell'azione intrapresa le popolazioni dei Paesi destinatari e l'opinione pubblica nazionale e internazionale;
                         h)
@@ -114,11 +114,11 @@ In tale ambito devono essere forniti altresi' tutti gli elementi concretamente d
 
 1.
 
-Ai fini del presente decreto non si applicano gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38#art_3), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38#art_7), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38#art_10), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38#art_15), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38#art_16) e [32 della legge 9 febbraio 1979, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38#art_32).
+Ai fini del presente decreto non si applicano gli [articoli 3](Cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), [7](Cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), [10](Cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), [15](Cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), [16](Cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md) e [32 della legge 9 febbraio 1979, n. 38](Cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md).
 
 2.
 
-Il commissario straordinario, nelle aree oggetto di intervento stabilite ai sensi dell'articolo 2 del presente decreto, coordina le altre iniziative di cooperazione e di aiuto allo sviluppo gia' deliberate o in corso di esecuzione ai sensi della [legge 9 febbraio 1979, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), qualora esse rientrino nelle finalita' e nei compiti di cui agli articoli 1 e 4 del presente decreto.
+Il commissario straordinario, nelle aree oggetto di intervento stabilite ai sensi dell'articolo 2 del presente decreto, coordina le altre iniziative di cooperazione e di aiuto allo sviluppo gia' deliberate o in corso di esecuzione ai sensi della [legge 9 febbraio 1979, n. 38](Cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), qualora esse rientrino nelle finalita' e nei compiti di cui agli articoli 1 e 4 del presente decreto.
 
 ## Art. 7.
 
@@ -146,11 +146,11 @@ L'apposita contabilita' speciale di cui al precedente articolo 7 e' altresi' ali
 
 2.
 
-La deduzione di cui alla [lettera a) del secondo comma dell'articolo 60 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_60-com2-leta), si applica anche ai contributi iscritti nella contabilita' di cui al precedente comma 1. Per i soggetti non titolari di reddito di impresa i predetti contributi possono essere dedotti dal reddito complessivo fino all'ammontare di lire due milioni. I trasferimenti a favore della contabilita' predetta sono esenti dall'imposta di registro e delle imposte di bollo e di successione e donazione.
+La deduzione di cui alla [lettera a) del secondo comma dell'articolo 60 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), si applica anche ai contributi iscritti nella contabilita' di cui al precedente comma 1. Per i soggetti non titolari di reddito di impresa i predetti contributi possono essere dedotti dal reddito complessivo fino all'ammontare di lire due milioni. I trasferimenti a favore della contabilita' predetta sono esenti dall'imposta di registro e delle imposte di bollo e di successione e donazione.
 
 3.
 
-A chiusura della contabilita' speciale, le somme che risultano non liquidate confluiscono nel fondo per la cooperazione allo sviluppo di cui alla [legge 9 febbraio 1979, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), e possono essere impegnate esclusivamente per le medesime finalita'.
+A chiusura della contabilita' speciale, le somme che risultano non liquidate confluiscono nel fondo per la cooperazione allo sviluppo di cui alla [legge 9 febbraio 1979, n. 38](Cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), e possono essere impegnate esclusivamente per le medesime finalita'.
 
 ## Art. 9.
 

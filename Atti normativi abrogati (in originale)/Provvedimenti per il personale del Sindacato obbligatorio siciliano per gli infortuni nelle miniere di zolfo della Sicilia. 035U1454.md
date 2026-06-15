@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto-legge 23 marzo 1933, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-23;264), convertito nella [legge 29 giugno 1933, n. 860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-06-29;860), concernente l'unificazione degli Istituti di assicurazione contro gli infortuni sul lavoro, col quale il Sindacato obbligatorio siciliano di mutua assicurazione per gli infortuni sul lavoro delle miniere di zolfo della Sicilia e' trasformato in una sezione speciale dell'Istituto nazionale fascista per l'assicurazione contro gli infortuni sul lavoro;
+Veduto il [R. decreto-legge 23 marzo 1933, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-23;264), convertito nella [legge 29 giugno 1933, n. 860](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20marzo%201933%20n.%20264%20concernente%20lunificazione%20degli%20Istituti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20033U0860.md), concernente l'unificazione degli Istituti di assicurazione contro gli infortuni sul lavoro, col quale il Sindacato obbligatorio siciliano di mutua assicurazione per gli infortuni sul lavoro delle miniere di zolfo della Sicilia e' trasformato in una sezione speciale dell'Istituto nazionale fascista per l'assicurazione contro gli infortuni sul lavoro;
 
 Veduto il decreto 30 dicembre 1933 del Capo del Governo, Ministro per le corporazioni, relativo al passaggio all'Istituto nazionale fascista per l'assicurazione contro gli infortuni sul lavoro delle funzioni disimpegnate dagli organi del Sindacato obbligatorio siciliano di mutua assicurazione per gli infortuni sul lavoro nelle miniere di zolfo della Sicilia;
 
@@ -26,7 +26,7 @@ Veduto il regolamento della Cassa di previdenza del personale di ruolo, approvat
 
 Veduto il decreto 13 marzo 1910 del Ministro per l'agricoltura, industria e commercio che approva il regolamento interno per la disciplina dei servizi dei posti di soccorso istituiti in esecuzione della [legge 14 luglio 1907, n. 527](Disposizioni%20speciali%20per%20glinfortuni%20del%20lavoro%20nelle%20zolfare%20della%20Sicilia.%20007U0527.md), e con le norme fissate dal [regolamento 3 dicembre 1908, n. 787](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-12-03;787);
 
-Veduto il [R. decreto 3 luglio 1921, n. 1190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-03;1190), che approva il regolamento per il servizio di salvataggio degli operai addetti alla miniere di zolfo della Sicilia;
+Veduto il [R. decreto 3 luglio 1921, n. 1190](Che%20approva%20il%20regolamento%20per%20il%20servizio%20di%20salvataggio%20degli%20operai%20addetti%20alle%20miniere%20di%20solfo%20della%20Sicilia.%20021U1190.md), che approva il regolamento per il servizio di salvataggio degli operai addetti alla miniere di zolfo della Sicilia;
 
 Veduto lo statuto del Sindacato obbligatorio siciliano di mutua assicurazione per gli infortuni sul lavoro nelle miniere di zolfo approvato con R. decreto 27 marzo 1930-VII, n. 560;
 

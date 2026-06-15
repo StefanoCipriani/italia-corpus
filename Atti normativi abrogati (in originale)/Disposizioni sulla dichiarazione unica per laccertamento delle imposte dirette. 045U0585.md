@@ -97,7 +97,7 @@ La dichiarazione deve essere presentata dal 1° gennaio al 31 marzo di ciascun a
  
  Qualora il bilancio o rendiconto non sia chiuso e approvato nei termini stabiliti dalla legge o dallo statuto, la societa' o l'ente deve presentare la dichiarazione entro nove mesi dalla scadenza del termine di chiusura. 
  
- Nei casi, previsti nell'[art. 16 della legge 8 giugno 1936, n. 1231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-08;1231#art_16), di incorporazione o di fusione di societa' o enti, la dichiarazione, corredata col bilancio di chiusura della societa' o ente cessato, deve essere presentata dalla societa' o ente incorporante o risultante della fusione entro tre mesi dalla stipulazione dell'atto di fusione.
+ Nei casi, previsti nell'[art. 16 della legge 8 giugno 1936, n. 1231](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201887%20concernente%20interpretazioni%20e%20modificazioni%20alle%20leggi%20sulle%20imposte%20dirette%20e%20del%20R.%20decreto-legg_b2b0dad11f30.md), di incorporazione o di fusione di societa' o enti, la dichiarazione, corredata col bilancio di chiusura della societa' o ente cessato, deve essere presentata dalla societa' o ente incorporante o risultante della fusione entro tre mesi dalla stipulazione dell'atto di fusione.
 
 ## Art. 11.
 
@@ -114,7 +114,7 @@ La dichiarazione e' unica per tutti i redditi ed i cespiti patrimoniali pertinen
 ## Art. 13.
 
 Per i fabbricati la dichiarazione deve comprendere i redditi prodotti nell'anno precedente. Tali redditi sono tassabili a partire dal 1° gennaio dell'anno in cui la dichiarazione e' presentata.
-Tuttavia la variazione in piu' o in meno diventa effettiva ai fini della tassazione soltanto quando essa, in conformita' alle disposizioni dell'[art. 21 della legge 26 gennaio 1865, n. 2136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-01-26;2136#art_21), e dell'[art. 5 della legge 11 agosto 1870, n. 5781](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5781#art_5), raggiunga il terzo.
+Tuttavia la variazione in piu' o in meno diventa effettiva ai fini della tassazione soltanto quando essa, in conformita' alle disposizioni dell'[art. 21 della legge 26 gennaio 1865, n. 2136](Per%20lunificazione%20dellimposta%20sui%20fabbricati.%20065U2136.md), e dell'[art. 5 della legge 11 agosto 1870, n. 5781](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5781#art_5), raggiunga il terzo.
 Per i fabbricati di nuova costruzione, la dichiarazione deve comprendere i redditi di quelli che nell'anno precedente sono divenuti abitabili o servibili all'uso cui sono destinati. 
  
  Sono esenti dall'obbligo della dichiarazione coloro il cui reddito imponibile ai fini dell'imposta sui fabbricati risulti accertato in somma inferiore a L. 150 complessivamente per tutti i cespiti posseduti e non posseggano altri redditi soggetti ad imposta diretta. 
@@ -129,7 +129,7 @@ I redditi che, secondo le leggi vigenti, sono tassabili in via di rivalsa devono
 
 ## Art. 15.
 
-Quando il reddito di categoria B deriva da appalti e forniture tassabili una volta tanto ai sensi dell'[art. 8 della legge 8 giugno 1936, n. 1231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-08;1231#art_8), la dichiarazione di cui al primo comma dell'art. 10 deve comprendere il reddito degli appalti e delle forniture eseguite nell'anno precedente. 
+Quando il reddito di categoria B deriva da appalti e forniture tassabili una volta tanto ai sensi dell'[art. 8 della legge 8 giugno 1936, n. 1231](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201887%20concernente%20interpretazioni%20e%20modificazioni%20alle%20leggi%20sulle%20imposte%20dirette%20e%20del%20R.%20decreto-legg_b2b0dad11f30.md), la dichiarazione di cui al primo comma dell'art. 10 deve comprendere il reddito degli appalti e delle forniture eseguite nell'anno precedente. 
  
  Se l'appalto o la fornitura non si e' esaurito nell'anno stesso della sua assunzione, la dichiarazione deve comprendere il reddito relativo alla parte espletata nell'anno precedente, la cui tassazione ha luogo in via provvisoria, salvo conguaglio sulla base del reddito globale, da comprendersi nella dichiarazione che sara' presentata nel termine dal 1° gennaio al 31 marzo dell'anno successivo a quello in cui si e' verificato il collaudo dell'appalto o il compimento della fornitura. 
  
@@ -137,7 +137,7 @@ Quando il reddito di categoria B deriva da appalti e forniture tassabili una vol
 
 ## Art. 16.
 
-Quando il reddito di categoria C/1 deriva da prestazioni di opera come amministratore giudiziario, curatore, liquidatore di aziende, arbitro ed altri simili uffici e la tassazione di esso ha luogo una volta tanto, ai sensi dell'[art. 7 della legge 8 giugno 1936, n. 1231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-08;1231#art_7), la dichiarazione di cui al primo comma dell'art. 10 deve comprendere il reddito degli uffici espletati nell'anno precedente. 
+Quando il reddito di categoria C/1 deriva da prestazioni di opera come amministratore giudiziario, curatore, liquidatore di aziende, arbitro ed altri simili uffici e la tassazione di esso ha luogo una volta tanto, ai sensi dell'[art. 7 della legge 8 giugno 1936, n. 1231](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201887%20concernente%20interpretazioni%20e%20modificazioni%20alle%20leggi%20sulle%20imposte%20dirette%20e%20del%20R.%20decreto-legg_b2b0dad11f30.md), la dichiarazione di cui al primo comma dell'art. 10 deve comprendere il reddito degli uffici espletati nell'anno precedente. 
  
  Se l'ufficio non si e' esaurito nell'anno stesso della sua assunzione, la dichiarazione deve comprendere il reddito relativo alla parte espletata nell'anno precedente, la cui tassazione ha luogo in via provvisoria, salvo conguaglio sulla base del reddito globale, da comprendersi nella dichiarazione che sara' presentata dal 1° gennaio al 31 marzo dell'anno successivo a quello in cui l'ufficio ha avuto compimento.
 
@@ -157,7 +157,7 @@ Nella dichiarazione di cui al primo comma dell'art. 10 devono comprendersi anche
 
 ## Art. 19.
 
-La dichiarazione unica disposta dal presente decreto, deve contenere anche gli elementi relativi all'applicazione dell'imposta straordinaria sui maggiori utili di guerra, ferme restando per tale applicazione le norme contenute nel testo unico approvato con [R. decreto 3 giugno 1943, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-06-03;598), e successive modificazioni.
+La dichiarazione unica disposta dal presente decreto, deve contenere anche gli elementi relativi all'applicazione dell'imposta straordinaria sui maggiori utili di guerra, ferme restando per tale applicazione le norme contenute nel testo unico approvato con [R. decreto 3 giugno 1943, n. 598](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), e successive modificazioni.
 
 ## Art. 20.
 
@@ -165,7 +165,7 @@ Nella dichiarazione da presentarsi nel termine dal 1° gennaio al 31 marzo di ci
 
 ## Art. 21.
 
-Fermo quanto disposto all'[art. 12 della legge 8 giugno 1936, n. 1231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-08;1231#art_12), la mancata presentazione della dichiarazione annuale nel termine indicato al primo comma dell'art. 10, implica conferma della situazione precedente, salvi gli accertamenti dell'ufficio.
+Fermo quanto disposto all'[art. 12 della legge 8 giugno 1936, n. 1231](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201887%20concernente%20interpretazioni%20e%20modificazioni%20alle%20leggi%20sulle%20imposte%20dirette%20e%20del%20R.%20decreto-legg_b2b0dad11f30.md), la mancata presentazione della dichiarazione annuale nel termine indicato al primo comma dell'art. 10, implica conferma della situazione precedente, salvi gli accertamenti dell'ufficio.
 
 ## Art. 22.
 

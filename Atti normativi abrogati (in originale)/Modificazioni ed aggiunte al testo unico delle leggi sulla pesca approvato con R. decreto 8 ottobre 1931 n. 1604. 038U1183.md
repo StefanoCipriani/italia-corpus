@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604);
 
-Visto il [R. decreto 26 marzo 1936, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-03-26;1418), che apporta modificazioni alle disposizioni tributarie sulle concessioni governative;
+Visto il [R. decreto 26 marzo 1936, n. 1418](Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md), che apporta modificazioni alle disposizioni tributarie sulle concessioni governative;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -105,7 +105,7 @@ Ai commi 3, 4 e 5 dell'art. 33 del testo unico delle leggi sulla pesca approvato
  
  Al secondo comma dell'art. 37 dello stesso testo unico sono sostituiti i commi che seguono: 
  
- «Chiunque venga trovato a pescare nelle acque dolci senza il documento di licenza all'uopo prescritto e' punito, salvo il disposto dell'[art. 6 del R. decreto 26 marzo 1936, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-03-26;1418#art_6): 
+ «Chiunque venga trovato a pescare nelle acque dolci senza il documento di licenza all'uopo prescritto e' punito, salvo il disposto dell'[art. 6 del R. decreto 26 marzo 1936, n. 1418](Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md): 
  
  a) se abbia conseguita la licenza, con l'ammenda da L. 20 a L. 40; 
  
@@ -116,7 +116,7 @@ Ai commi 3, 4 e 5 dell'art. 33 del testo unico delle leggi sulla pesca approvato
 
 ## Art. 5.
 
-L'[art. 6 del R. decreto 26 marzo 1936, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-03-26;1418#art_6), e' modificato come segue: 
+L'[art. 6 del R. decreto 26 marzo 1936, n. 1418](Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md), e' modificato come segue: 
  
  «Art. 6. - Il comma terzo della nota apposta al n. 20 della tabella A annessa alla legge tributaria sulle concessioni governative 30 dicembre 1923, n. 3279, e' sostituito dal seguente: 
  
@@ -130,7 +130,7 @@ Alla prima riga dell'art. 38 del testo unico delle leggi sulla pesca approvato c
  
  Il primo comma dell'art. 40 del testo unico accennato e' completato come segue: 
  
- «Le infrazioni alle norme circa la licenza di pesca in acque dolci, che importano pena pecuniaria ai sensi dell'[art. 6 del R. decreto 26 marzo 1936, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-03-26;1418#art_6), sono denunciate anche all'intendenza di finanza».
+ «Le infrazioni alle norme circa la licenza di pesca in acque dolci, che importano pena pecuniaria ai sensi dell'[art. 6 del R. decreto 26 marzo 1936, n. 1418](Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md), sono denunciate anche all'intendenza di finanza».
 
 ## Art. 7.
 

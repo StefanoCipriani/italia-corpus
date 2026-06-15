@@ -40,11 +40,11 @@ Il finanziamento delle opere di edilizia scolastica di cui al presente articolo 
 
 4.
 
-La ripartizione dei finanziamenti tra i comuni e le province e la concessione dei mutui sono effettuate secondo le disposizioni di cui all'articolo 11 del decretolegge 1' luglio 1986, n. 318, convertito, con modificazioni, dalla [legge 9 agosto 1986, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488), come modificato dal [decreto-legge 5 settembre 1988, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-05;390), convertito, con modificazioni, dalla [legge 29 ottobre 1988, n. 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-29;464).
+La ripartizione dei finanziamenti tra i comuni e le province e la concessione dei mutui sono effettuate secondo le disposizioni di cui all'articolo 11 del decretolegge 1' luglio 1986, n. 318, convertito, con modificazioni, dalla [legge 9 agosto 1986, n. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md), come modificato dal [decreto-legge 5 settembre 1988, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-05;390), convertito, con modificazioni, dalla [legge 29 ottobre 1988, n. 464](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20settembre%201988%20n.%20390%20recante%20disposizioni%20urgenti%20in%20materia%20di%20edilizia%20scolastica.md).
 
 5.
 
-Le quote dei finanziamenti di cui all'articolo 11 del decreto-legge 1' luglio 1986, n. 318, convertito, con modificazioni, dalla [legge 9 agosto 1986, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488), possono essere concesse, con le procedure e le modalita' previste dall'[articolo 4 del decreto-legge 5 settembre 1988, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-05;390#art_4), convertito, con modificazioni, dalla [legge 29 ottobre 1988, n. 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-29;464), fino al 31 dicembre 1992. Con le stesse procedure e modalita' puo' essere autorizzata, nell'ambito dei mutui concessi, una diversa destinazione dei fondi.
+Le quote dei finanziamenti di cui all'articolo 11 del decreto-legge 1' luglio 1986, n. 318, convertito, con modificazioni, dalla [legge 9 agosto 1986, n. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md), possono essere concesse, con le procedure e le modalita' previste dall'[articolo 4 del decreto-legge 5 settembre 1988, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-05;390#art_4), convertito, con modificazioni, dalla [legge 29 ottobre 1988, n. 464](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20settembre%201988%20n.%20390%20recante%20disposizioni%20urgenti%20in%20materia%20di%20edilizia%20scolastica.md), fino al 31 dicembre 1992. Con le stesse procedure e modalita' puo' essere autorizzata, nell'ambito dei mutui concessi, una diversa destinazione dei fondi.
 
 6.
 
@@ -79,7 +79,7 @@ All'onere derivante dall'attuazione del presente articolo si provvede mediante c
 1.
 
 Per assicurare l'immediatezza degli interventi di piccola manutenzione dei locali scolastici, le istituzioni scolastiche sono autorizzate a provvedere direttamente con le modalita', in quanto compatibili, previste per gli acquisti dalle istruzioni amministrativo-contabili emanate ai sensi dell'articolo 25, ultimo comma, del [decreto del Presidente della Repubblica 31 maggio 1974, n. 
-416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;416).
+416](../DPR/Istituzione%20e%20riordinamento%20di%20organi%20collegiali%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica.md).
 
 2.
 
@@ -124,11 +124,11 @@ Per il calcolo del limite dell'onere complessivo di ammortamento annuo dei mutui
 
 4.
 
-Per il pagamento delle rate di ammortamento dei predetti mutui le istituzioni di cui al comma 1 possono utilizzare anche i finanziamenti concessi per l'edilizia in attuazione dell'[articolo 7, comma 8, della legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910#art_7-com8).
+Per il pagamento delle rate di ammortamento dei predetti mutui le istituzioni di cui al comma 1 possono utilizzare anche i finanziamenti concessi per l'edilizia in attuazione dell'[articolo 7, comma 8, della legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md).
 
 5.
 
-I finanziamenti concessi per l'edilizia in attuazione dell'[articolo 7, comma 8, della legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910#art_7-com8), possono essere impiegati anche per interventi di manutenzione straordinaria su beni immobili, utilizzati a qualsiasi titolo dalle predette istituzioni per i propri compiti istituzionali.
+I finanziamenti concessi per l'edilizia in attuazione dell'[articolo 7, comma 8, della legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), possono essere impiegati anche per interventi di manutenzione straordinaria su beni immobili, utilizzati a qualsiasi titolo dalle predette istituzioni per i propri compiti istituzionali.
 
 6.
 

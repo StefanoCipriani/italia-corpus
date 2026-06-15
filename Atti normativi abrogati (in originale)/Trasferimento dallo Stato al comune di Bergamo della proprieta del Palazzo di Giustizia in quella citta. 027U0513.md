@@ -18,7 +18,7 @@ E' trasferita dallo Stato al comune di Bergamo la proprieta' del Palazzo di Gius
 
 ## Art. 3.
 
-La Cassa depositi e prestiti e' autorizzata a concedere, con le norme del proprio Istituto sui fondi degli Istituti di previdenza, ai sensi del [R. decreto-legge 13 giugno 1926, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-06-13;1064), al comune di Bergamo, a carico del quale rimane l'intero onere finanziario per la costruzione dell'opera, un mutuo di L. 1,415,000 per la ultimazione del predetto Palazzo di Giustizia, rimanendo inoltre assegnata al Comune stesso quale contributo erariale, la somma di L. 203,903 gia' rimborsata dallo Stato.
+La Cassa depositi e prestiti e' autorizzata a concedere, con le norme del proprio Istituto sui fondi degli Istituti di previdenza, ai sensi del [R. decreto-legge 13 giugno 1926, n. 1064](Impiego%20di%20fondi%20appartenenti%20agli%20Istituti%20di%20previdenza%20amministrati%20dalla%20Cassa%20depositi%20e%20prestiti%20in%20mutui%20agli%20Enti%20locali%20a%20condizioni%20speciali%20e%20con%20gestione%20separata.%20026U1064.md), al comune di Bergamo, a carico del quale rimane l'intero onere finanziario per la costruzione dell'opera, un mutuo di L. 1,415,000 per la ultimazione del predetto Palazzo di Giustizia, rimanendo inoltre assegnata al Comune stesso quale contributo erariale, la somma di L. 203,903 gia' rimborsata dallo Stato.
 
 ## Art. 4.
 

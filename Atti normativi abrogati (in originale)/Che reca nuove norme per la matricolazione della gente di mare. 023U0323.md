@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il Codice della Marina Mercantile ed il relativo Regolamento approvato col [R. decreto 20 novembre 1879, n. 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166);
+Visto il Codice della Marina Mercantile ed il relativo Regolamento approvato col [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md);
 
 Udito il Consiglio dei Ministri;
 

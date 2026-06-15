@@ -14,7 +14,7 @@ Al [n. 2 dell'art. 19 della legge 11 marzo 1926, n. 396](Ordinamento%20del%20Reg
  
  2° il servizio tecnico delle armi e munizioni. 
  
- Alla lettera g) dell'art. 19 predetto, modificato dall'[art. 3 del R. decreto-legge 19 ottobre 1933, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1404#art_3), convertito in legge con la [legge 28 dicembre 1933, n. 1896](Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20ottobre%201933%20n.%201404%20portante%20modificazioni%20alla%20legge%20sullordinamento%20del%20Regio%20esercito%20e%20ad%20altre%20disposizioni.%20033U1896.md), e' sostituita la seguente: 
+ Alla lettera g) dell'art. 19 predetto, modificato dall'[art. 3 del R. decreto-legge 19 ottobre 1933, n. 1404](Modificazioni%20alla%20legge%20sullordinamento%20del%20Regio%20esercito%20e%20ad%20altre%20disposizioni%20in%20vigore.%20033U1404.md), convertito in legge con la [legge 28 dicembre 1933, n. 1896](Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20ottobre%201933%20n.%201404%20portante%20modificazioni%20alla%20legge%20sullordinamento%20del%20Regio%20esercito%20e%20ad%20altre%20disposizioni.%20033U1896.md), e' sostituita la seguente: 
  
 g) 4 reggimenti di artiglieria alpina.
 

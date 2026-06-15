@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La Societa' di navigazione «Marittima italiana» con sede in Genova e' autorizzata ad elevare al 100 % il supplemento di guerra sulle tariffe previste dall'art. 39 del capitolato, allegato D alla [legge 30 giugno 1912, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-30;685), pei trasporti da e per le colonie italiane di oltre Suez, da scalo a scalo delle colonie medesime e fra i porti del Mar Rosso compresi tra Aden e Suez, fermo restando pei trasporti di «tessuti di cotone» il supplemento del 25 % precedentemente autorizzato.
+La Societa' di navigazione «Marittima italiana» con sede in Genova e' autorizzata ad elevare al 100 % il supplemento di guerra sulle tariffe previste dall'art. 39 del capitolato, allegato D alla [legge 30 giugno 1912, n. 685](Che%20porta%20disposizioni%20sui%20servizi%20marittimi%20sovvenzionati.%20012U0685.md), pei trasporti da e per le colonie italiane di oltre Suez, da scalo a scalo delle colonie medesime e fra i porti del Mar Rosso compresi tra Aden e Suez, fermo restando pei trasporti di «tessuti di cotone» il supplemento del 25 % precedentemente autorizzato.
 
 ## Art. 2.
 

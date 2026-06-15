@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-11;26), concernente l'esenzione doganale per le uova di selvaggina destinate alla cova per la riproduzione o per il lancio, a scopo di ripopolamento. 
+ E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 26](Esenzione%20dal%20dazio%20doganale%20per%20le%20uova%20di%20selvaggina%20destinate%20alla%20cova%20per%20la%20riproduzione%20o%20per%20il%20lancio%20a%20scopo%20di%20ripopolamento.%20034U0026.md), concernente l'esenzione doganale per le uova di selvaggina destinate alla cova per la riproduzione o per il lancio, a scopo di ripopolamento. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

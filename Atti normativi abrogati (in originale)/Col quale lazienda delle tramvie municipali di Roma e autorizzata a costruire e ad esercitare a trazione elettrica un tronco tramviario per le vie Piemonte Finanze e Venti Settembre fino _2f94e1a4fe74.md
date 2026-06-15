@@ -18,7 +18,7 @@ Tale autorizzazione e' subordinata all' osservanza delle leggi e dei regolamenti
 
 ## Art. 3.
 
-Agli effetti della [legge 7 giugno 1894, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-06-07;232), per la trasmissione a distanza delle correnti elettriche, la azienda tramviaria dovra' prendere accordi col Ministero delle poste e dei telegrafi, allo scopo di concretare i provvedimenti necessari per assicurare il regolare funzionamento delle comunicazioni telegrafiche e telefoniche, specie in quanto che queste debbano, a giudizio del Ministero suddetto, essere spostate o modificate per effetto delle perturbazioni che, prodotte dall'esercizio della tramvia, sono incompatibili con quello telegrafico e telefonico. 
+Agli effetti della [legge 7 giugno 1894, n. 232](Sulla%20trasmissione%20a%20distanza%20delle%20correnti%20elettriche%20destinate%20al%20trasporto%20ed%20alla%20distribuzione%20delle%20energie%20per%20uso%20industriale.%20094U0232.md), per la trasmissione a distanza delle correnti elettriche, la azienda tramviaria dovra' prendere accordi col Ministero delle poste e dei telegrafi, allo scopo di concretare i provvedimenti necessari per assicurare il regolare funzionamento delle comunicazioni telegrafiche e telefoniche, specie in quanto che queste debbano, a giudizio del Ministero suddetto, essere spostate o modificate per effetto delle perturbazioni che, prodotte dall'esercizio della tramvia, sono incompatibili con quello telegrafico e telefonico. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

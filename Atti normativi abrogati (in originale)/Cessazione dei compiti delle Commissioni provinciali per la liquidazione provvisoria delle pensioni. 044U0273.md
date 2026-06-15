@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 2 dicembre 1943, n. 12-B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-02;12);
+Visto il [R. decreto-legge 2 dicembre 1943, n. 12-B](Norme%20per%20una%20liquidazione%20provvisoria%20delle%20pensioni%20a%20carico%20dello%20Stato.%20043U0012.md);
 
-Visti i [Regi decreti-legge 30 ottobre 1943, n. 2-B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e [29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visti i [Regi decreti-legge 30 ottobre 1943, n. 2-B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e [29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto il [decreto legislativo Luogotenenziale 12 agosto 1944, n. 169](Riassunzione%20da%20parte%20del%20Governo%20Italiano%20dellesercizio%20di%20tutti%20i%20poteri%20dello%20Stato%20nei%20territori%20delle%20provincie%20di%20Roma%20Frosinone%20c%20Littoria%20gia%20sottoposti%20allAmministrazione%20Militar_94635ed2904b.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro pel tesoro; Abbiamo, sanzionato e promulghiamo quant
 
 ## Art. 1.
 
-Le Commissioni provinciali per la liquidazione provvisoria delle pensioni, istituite con il [R. decreto-legge 2 dicembre 1943, n. 12-B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-02;12), cesseranno di funzionare dal 1° ottobre
+Le Commissioni provinciali per la liquidazione provvisoria delle pensioni, istituite con il [R. decreto-legge 2 dicembre 1943, n. 12-B](Norme%20per%20una%20liquidazione%20provvisoria%20delle%20pensioni%20a%20carico%20dello%20Stato.%20043U0012.md), cesseranno di funzionare dal 1° ottobre
 
 1944.
 

@@ -20,7 +20,7 @@ E' prorogata per un triennio, dal 1 luglio 1954 al 30 giugno 1957, l'efficacia d
 
 ## Art. 2.
 
-Alla spesa di lire 100 milioni per l'esercizio 1954-55 si fara' fronte con una corrispondente aliquota del provento derivante dall'aumento dei prezzi di vendita di taluni tipi di tabacchi lavorati, disposto con [decreto del Presidente della Repubblica 18 giugno 1954, n. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-06-18;292).
+Alla spesa di lire 100 milioni per l'esercizio 1954-55 si fara' fronte con una corrispondente aliquota del provento derivante dall'aumento dei prezzi di vendita di taluni tipi di tabacchi lavorati, disposto con [decreto del Presidente della Repubblica 18 giugno 1954, n. 292](../DPR/Modificazioni%20alla%20tariffa%20di%20vendita%20al%20pubblico%20di%20alcuni%20tipi%20di%20tabacchi%20lavorati.md).
  All'altra di lire 200 milioni, relativa all'esercizio 1955-56, si provvedera' a carico dello stanziamento dello stato di previsione della spesa del Ministero del tesoro per l'esercizio medesimo, concernente il "Fondo speciale" occorrente per la copertura di oneri derivanti da provvedimenti legislativi in corso.
  Il Ministro per il tesoro e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio.
 

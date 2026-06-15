@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il regolamento del personale delle Ferrovie dello Stato coi relativi allegati, approvato con [regio decretolegge 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-07;405), e le successive modificazioni ed aggiunte;
+Visto il regolamento del personale delle Ferrovie dello Stato coi relativi allegati, approvato con [regio decretolegge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), e le successive modificazioni ed aggiunte;
 
-Visto il [regio decreto 12 ottobre 1942, n. 1210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-12;1210);
+Visto il [regio decreto 12 ottobre 1942, n. 1210](Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per i trasporti, di concerto con
 
 ## Art. 1.
 
-A modificazione dell'allegato G annesso al [regio decreto 12 ottobre 1942, n. 1210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-12;1210), le promozioni da macchinista di 2ª classe a macchinista di 1ª classe, da conduttore capo a conduttore capo di 1a classe, da sorvegliante della linea a sorvegliante della linea di 1a classe, vengono conferite per titolo di anzianita' ai meritevoli dopo cinque anni di anzianita' di grado.
+A modificazione dell'allegato G annesso al [regio decreto 12 ottobre 1942, n. 1210](Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md), le promozioni da macchinista di 2ª classe a macchinista di 1ª classe, da conduttore capo a conduttore capo di 1a classe, da sorvegliante della linea a sorvegliante della linea di 1a classe, vengono conferite per titolo di anzianita' ai meritevoli dopo cinque anni di anzianita' di grado.
  A tali effetti, con decorrenza dal 1° gennaio 1947, i posti di pianta rispettivamente per i macchinisti di 2ª classe e di 1ª classe, di conduttore capo e di conduttore capo di 1a classe, di sorvegliante della linea e di sorvegliante della linea di 1a classe, sono considerati cumulativamente.
 
 ## Art. 2.

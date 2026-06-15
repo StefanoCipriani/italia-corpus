@@ -12,7 +12,7 @@ IL MINISTRO DELLE POSTE
 
 E DELLE TELECOMUNICAZIONI
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il decreto ministeriale 31 gennaio 1983, con il quale e' stato approvato il piano nazionale di ripartizione delle radiofrequenze, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 47 del 17 febbraio 1983;
 
@@ -28,7 +28,7 @@ riorganizzazione del Ministero delle poste e delle telecomunicazioni;
 
 Visto il regolamento delle radiocomunicazioni, annesso alla
 
-convenzione internazionale delle telecomunicazioni adottata a Ginevra il 22 dicembre 1992 e ratificata con [legge 31 gennaio 1996, n. 61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;61);
+convenzione internazionale delle telecomunicazioni adottata a Ginevra il 22 dicembre 1992 e ratificata con [legge 31 gennaio 1996, n. 61](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20della%20Conferenza%20addizionale%20dei%20plenipotenziari%20relativa%20alla%20costituzione%20e%20convenzione%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20co_ae91d02b7429.md);
 
 Riconosciuta l'opportunita' di accettare i rapporti di prova rilasciati da laboratori accreditati di Paesi aderenti alla conferenza europea delle poste e delle telecomunicazioni (CEPT) ai fini del rilascio delle omologazioni degli apparati monocanali per i servizi fisso e mobile terrestre;
 
@@ -46,10 +46,10 @@ Adotta il seguente regolamento:
 
 L'[articolo 8 del decreto ministeriale 4 ottobre 1994, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1994-10-04;625#art_8), e' sostituito dal seguente:
  "Art. 8. - 1. Rapporti di prova rilasciati da laboratori di Paesi aderenti alla conferenza europea delle poste e delle telecomunicazioni (CEPT), accreditati ai sensi delle norme EN 45001 o ISO 25, i quali siano compilati sui modulari pubblicati dalla CEPT e che dimostrino la conformita' degli apparati alle norme tecniche di cui agli articoli 2 e 3, sono considerati validi ai fini del rilascio dell'omologazione, purche' gli apparati rispettino anche le norme di cui all'allegato 1 al presente decreto.
- 2. Con riferimento ai Paesi aderenti alla CEPT, ma non facenti parte dello Spazio economico europeo (SEE) di cui alla [legge 28 luglio 1993, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-28;300), la disposizione recata dal comma 1 opera ove sussistano condizioni di reciprocita'.
+ 2. Con riferimento ai Paesi aderenti alla CEPT, ma non facenti parte dello Spazio economico europeo (SEE) di cui alla [legge 28 luglio 1993, n. 300](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20sullo%20Spazio%20economico%20europeo%20con%20protocolli%20allegati%20e%20dichiarazioni%20fatto%20a%20Oporto%20il%202%20maggio%201992%20e%20del%20protocollo%20di%20adattamento%20di%20detto%20accordo%20_e276372f7d8a.md), la disposizione recata dal comma 1 opera ove sussistano condizioni di reciprocita'.
  3. I rapporti di prova, di cui al comma 1, in originale o in copia autenticata, devono essere allegati alla domanda di omologazione".
  Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 Note all'art. 1:
  - Si riporta il testo degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir::decreto:1994-10-04;625#art_2) e 3 del decreto 4 ottobre 1994, n. 625, nonche' dell'allegato 1 al medesimo decreto:
@@ -68,7 +68,7 @@ Note all'art. 1:
  Per le stazioni di base e fisse destinate ad utilizzazioni speciali, quali, ad esempio, stazioni costituite da piu' di un trasmettitore, il predetto valore deve essere di almeno 70 dB.
  4.Condizioni di prova a temperatura estrema.
  Le temperature estreme sono:- 10 C + 55 C.
- - La [legge 28 luglio 1993, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-28;300), concerne la ratifica e l'esecuzione dell'accordo sullo spazio economico europeo (SEE) fatto a Oporto il 2 maggio 1992 e del protocollo di adattamento di detto accordo firmato a Bruxelles il 17 marzo 1993.
+ - La [legge 28 luglio 1993, n. 300](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20sullo%20Spazio%20economico%20europeo%20con%20protocolli%20allegati%20e%20dichiarazioni%20fatto%20a%20Oporto%20il%202%20maggio%201992%20e%20del%20protocollo%20di%20adattamento%20di%20detto%20accordo%20_e276372f7d8a.md), concerne la ratifica e l'esecuzione dell'accordo sullo spazio economico europeo (SEE) fatto a Oporto il 2 maggio 1992 e del protocollo di adattamento di detto accordo firmato a Bruxelles il 17 marzo 1993.
 
 ## Art. 2.
 

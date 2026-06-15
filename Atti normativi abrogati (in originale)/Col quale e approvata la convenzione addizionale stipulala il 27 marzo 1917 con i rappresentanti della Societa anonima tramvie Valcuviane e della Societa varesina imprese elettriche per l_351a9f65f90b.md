@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 9 febbraio 1913, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-02-09;176), col quale fu approvata e resa esecutoria la convenzione stipulata il 16 dicembre 1912 con la «Societa' anonima tramvie valcuviane» per la concessione della costruzione e dell'esercizio della tramvia a trazione a vapore, da Cittiglio a Molino d'Anna; 
+ Visto il [R. decreto 9 febbraio 1913, n. 176](Col%20quale%20viene%20approvata%20la%20convenzione%20con%20la%20Societa%20anonima%20tramvie%20Valcuviane%20per%20la%20concessione%20della%20costruzione%20e%20dellesercizio%20della%20tramvia%20a%20trazione%20a%20vapore%20da%20Cittiglio%20a%20Mo_e21d98909ce9.md), col quale fu approvata e resa esecutoria la convenzione stipulata il 16 dicembre 1912 con la «Societa' anonima tramvie valcuviane» per la concessione della costruzione e dell'esercizio della tramvia a trazione a vapore, da Cittiglio a Molino d'Anna; 
  
  Ritenuto che, in seguito, la Societa' concessionaria, con domanda 22 marzo 1913, chiese la autorizzazione di sostituire la trazione elettrica alla trazione a vapore, proponendo in pari tempo, come assuntrice dell'esercizio elettrico, la «Societa' varesina imprese elettriche»; 
  
- Visto il testo unico delle disposizioni di legge sulle ferrovie concesse alla industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447); ed il regolamento approvato con [R. decreto 17 giugno 1900, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-06-17;306); 
+ Visto il testo unico delle disposizioni di legge sulle ferrovie concesse alla industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447); ed il regolamento approvato con [R. decreto 17 giugno 1900, n. 306](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20n.%20561%20riflettente%20le%20tramvie%20a%20trazione%20meccanica%20e%20le%20ferrovie%20economiche.%20000U0306.md); 
  
  Udito il Consiglio superiore dei lavori pubblici ed il Consiglio di Stato; 
  

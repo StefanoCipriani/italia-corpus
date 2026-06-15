@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Visto il [decreto Luogotenenziale n. 1252, del 1° ottobre 1916](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-01;1252); 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- La percentuale dei sott'ufficiali stabilita con l'[art. 4 della legge 22 giugno 1913, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;710#art_4), modificata dal [decreto Luogotenenziale del 1° ottobre 1916, n. 1252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-01;1252), e' portata dal 16,3% al 19,1% della forza organica del Corpo R. equipaggi stabilita nello stato di previsione della spesa per la marina. 
+ La percentuale dei sott'ufficiali stabilita con l'[art. 4 della legge 22 giugno 1913, n. 710](Che%20reca%20provvedimenti%20per%20i%20militari%20del%20corpo%20R.%20equipaggi.%20013U0710.md), modificata dal [decreto Luogotenenziale del 1° ottobre 1916, n. 1252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-01;1252), e' portata dal 16,3% al 19,1% della forza organica del Corpo R. equipaggi stabilita nello stato di previsione della spesa per la marina. 
  
  Il presente decreto entrera' in vigore dal giorno della sua data e cessera' di avere effetto dopo sei mesi dalla conclusione della pace. 
  

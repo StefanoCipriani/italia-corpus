@@ -146,13 +146,13 @@ E' punito con l'arresto da uno a sei mesi e con la multa da 500 a 5000 lire chiu
  
  Gli armatori, comandanti di navi e noleggiatori che ricevono a bordo emigranti senza contratto, saranno puniti, se nazionali, con la stessa pena; ed al capitano sara' applicata la sospensione dai gradi marittimi preveduta dall'articolo 257 del Codice per la marina mercantile. Se stranieri, la multa sara' triplicata e ritenuta sulla cauzione che il capitano di bastimento estero deve dare in esecuzione agli articoli 91 del Codice per la marina mercantile e 582 del regolamento per l'esecuzione del medesimo Codice. 
  
- L'agente condannato per violazione dell'[articolo 396 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_396) perde la patente.
+ L'agente condannato per violazione dell'[articolo 396 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) perde la patente.
 
 ## Art. 19.
 
 E' punito con l'ammenda da 100 a 1000 lire: 
  
- a) l'agente, l'armatore, il capitano o padrone che, nelle operazioni relative all'emigrazione, contravvengano alle disposizioni del regolamento di cui all'articolo seguente, senza pregiudizio delle maggiori pene nelle quali incorrono per forza di questa legge o del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398); 
+ a) l'agente, l'armatore, il capitano o padrone che, nelle operazioni relative all'emigrazione, contravvengano alle disposizioni del regolamento di cui all'articolo seguente, senza pregiudizio delle maggiori pene nelle quali incorrono per forza di questa legge o del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  b) l'agente, l'armatore, il capitano o padrone che, nelle operazioni relative all'emigrazione, contravvengano alle disposizioni che saranno date dal Ministero dell'interno in casi di riconosciuta gravita' ed urgenza.
 

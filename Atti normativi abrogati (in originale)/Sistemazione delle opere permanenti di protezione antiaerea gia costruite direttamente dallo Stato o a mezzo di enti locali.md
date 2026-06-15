@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -29,13 +29,13 @@ Le opere permanenti di protezione antiaerea, gia' costruite dallo Stato direttam
 L'indennita' di espropriazione del suolo occupato nella costruzione dei ricoveri antiaerei e' determinata dall'Ufficio del genio civile in base al valore venale dell'immobile al momento dell'avvenuta occupazione.
  Sulla somma dovuta come indennita' devono corrispondersi al proprietario dell'immobile espropriato, dalla, data dell'avvenuta occupazione, gli interessi nella misura legale.
  L'indennita' di espropriazione, prevista nel primo comma, e' offerta all'interessato dal Prefetto con atto notificato con le forme stabilite per le citazioni.
- Qualora l'indennita' sia stata accettata dall'interessato, il Prefetto ne ordina il deposito presso la Cassa depositi e prestiti, insieme con gli interessi maturati alla data dell'accettazione, ovvero autorizza il pagamento a norma dell'[art. 30 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_30), e della [legge 3 aprile 1926, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-04-03;686), e pronuncia l'espropriazione.
- Trascorsi trenta giorni dall'avvenuta notifica senza che il proprietario dell'immobile espropriato abbia dichiarato di accettare l'indennita' offerta, il Prefetto, ai sensi dell'art. 48 della citata [legge 25 giugno 1865, numero 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), provvede al versamento presso la Cassa depositi e prestiti della stessa con gli interessi maturati allo scadere di trenta giorni e pronuncia l'espropriazione.
- Per gli ulteriori adempimenti e per quanto non e' previsto nel presente decreto, si applicano le norme della [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), e successive modificazioni.
+ Qualora l'indennita' sia stata accettata dall'interessato, il Prefetto ne ordina il deposito presso la Cassa depositi e prestiti, insieme con gli interessi maturati alla data dell'accettazione, ovvero autorizza il pagamento a norma dell'[art. 30 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e della [legge 3 aprile 1926, n. 686](Trasferimento%20allautorita%20giudiziaria%20della%20competenza%20di%20disporre%20il%20pagamento%20delle%20indennita%20di%20espropriazione%20per%20causa%20di%20pubblica%20utilita.%20026U0686.md), e pronuncia l'espropriazione.
+ Trascorsi trenta giorni dall'avvenuta notifica senza che il proprietario dell'immobile espropriato abbia dichiarato di accettare l'indennita' offerta, il Prefetto, ai sensi dell'art. 48 della citata [legge 25 giugno 1865, numero 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), provvede al versamento presso la Cassa depositi e prestiti della stessa con gli interessi maturati allo scadere di trenta giorni e pronuncia l'espropriazione.
+ Per gli ulteriori adempimenti e per quanto non e' previsto nel presente decreto, si applicano le norme della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e successive modificazioni.
 
 ## Art. 3.
 
-Per gli eventuali danni o diminuzioni di diritti derivanti dall'occupazione del sottosuolo e' dovuta una indennita' ai sensi dell'[art. 46 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_46), da determinare dall'Ufficio del genio civile, sulla base dei valori correnti all'epoca dell'avvenuta occupazione.
+Per gli eventuali danni o diminuzioni di diritti derivanti dall'occupazione del sottosuolo e' dovuta una indennita' ai sensi dell'[art. 46 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), da determinare dall'Ufficio del genio civile, sulla base dei valori correnti all'epoca dell'avvenuta occupazione.
  Per la notifica, l'accettazione, il deposito e la corresponsione di tale indennita', si applicano le disposizioni del precedente art. 2.
 
 ## Art. 4.
@@ -48,7 +48,7 @@ Tutte le opere permanenti di protezione antiaerea esistenti nel territorio della
  E' fatto obbligo alle Amministrazioni comunali di prendere in consegna opere, di cui al precedente comma, comunque esistenti nell'ambito del rispettivo territorio comunale e di assumere tutte le spese occorrenti per la manutenzione e per la conservazione, con facolta' peraltro di utilizzare le dette opere anche per scopi diversi da quelli dell'originaria destinazione.
  A tal fine le Amministrazioni comunali sono tenute a stipulare nei confronti dell'Amministrazione demaniale atti di concessione in uso, dai quali dovra' essere fatto risultare l'obbligo del pagamento di un canone a titolo di riconoscimento della proprieta' demaniale e quello della retrocessione ogni qualvolta lo Stato concedente nel suo insindacabile giudizio ne ravvisi la necessita'.
  Gli atti di concessione di cui al comma precedente saranno registrati e trascritti gratuitamente.
- Restano ferme, in quanto non siano contrarie alle disposizioni del presente articolo, le agevolazioni previste dalla [legge 22 dicembre 1938, n. 2224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-12-22;2224).
+ Restano ferme, in quanto non siano contrarie alle disposizioni del presente articolo, le agevolazioni previste dalla [legge 22 dicembre 1938, n. 2224](Disciplina%20della%20costruzione%20di%20ricoveri%20pubblici%20antiaerei.%20038U2224.md).
 
 ## Art. 6.
 

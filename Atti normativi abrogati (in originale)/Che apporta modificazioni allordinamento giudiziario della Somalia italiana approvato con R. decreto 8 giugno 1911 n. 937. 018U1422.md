@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 5 aprile 1908, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-04-05;161), sull'ordinamento della Somalia italiana; 
+ Vista la [legge 5 aprile 1908, n. 161](Per%20lordinamento%20della%20Somalia%20italiana.%20008U0161.md), sull'ordinamento della Somalia italiana; 
  
- Visto il [R. decreto 8 giugno 1911, n. 937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-06-08;937), che approva l'ordinamento giudiziario della Somalia italiana; 
+ Visto il [R. decreto 8 giugno 1911, n. 937](Che%20approva%20lordinamento%20della%20giustizia%20nella%20Somalia%20italiana.%20011U0937.md), che approva l'ordinamento giudiziario della Somalia italiana; 
  
  Udito il Consiglio coloniale; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- L'ordinamento giudiziario della Somalia italiana, approvato con [R. decreto 8 giugno 1911, n. 937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-06-08;937), viene modificato come segue: 
+ L'ordinamento giudiziario della Somalia italiana, approvato con [R. decreto 8 giugno 1911, n. 937](Che%20approva%20lordinamento%20della%20giustizia%20nella%20Somalia%20italiana.%20011U0937.md), viene modificato come segue: 
  
  1. - All'art. 29 e' sostituito il seguente: 
  
@@ -44,7 +44,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  2. - Nell'art. 76, e' inserito dopo il n. 2, e contrassegnato col n. 3, il seguente comma: 
  
- «I fatti che, ai termini del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) italiano, costituiscono delitti di omicidio o di lesione personale che risultino imposti o tollerati da consuetudini indigene e non rientrino nella competenza dei cadi' a norma dell'art. 27»; risultando conseguentemente avanzato di una unita' ciascun numero dei successivi comma, dal 3° al 12°. 
+ «I fatti che, ai termini del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) italiano, costituiscono delitti di omicidio o di lesione personale che risultino imposti o tollerati da consuetudini indigene e non rientrino nella competenza dei cadi' a norma dell'art. 27»; risultando conseguentemente avanzato di una unita' ciascun numero dei successivi comma, dal 3° al 12°. 
  
  3. - All'art. 90, e' aggiunto, e prende il n. 4, il seguente comma: 
  

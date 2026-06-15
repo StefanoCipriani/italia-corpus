@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 21 giugno 1938, n. 1296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-21;1296), contenente norme sulla revisione dei prezzi contrattuali relativi ad opere pubbliche, convertito nella [legge 19 gennaio 1939, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-19;392), modificato con le [leggi 9 luglio 1940, n. 1137, 19 gennaio 1942, n. 142, e 18 ottobre 1942, n. 1435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1435);
+Visto il [R. decreto-legge 21 giugno 1938, n. 1296](Norme%20sulla%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20038U1296.md), contenente norme sulla revisione dei prezzi contrattuali relativi ad opere pubbliche, convertito nella [legge 19 gennaio 1939, n. 392](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20n.%201296%20riguardante%20la%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20039U0392.md), modificato con le [leggi 9 luglio 1940, n. 1137, 19 gennaio 1942, n. 142, e 18 ottobre 1942, n. 1435](Modifica%20della%20composizione%20della%20Commissione%20per%20lesame%20dei%20ricorsi%20in%20materia%20di%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20042U1435.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 ## Art. 1.
 
-La facolta' di cui all'[art. 1 della legge 9 luglio 1940, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;1137#art_1), di rivedere i prezzi per i contratti relativi ad opere pubbliche e' estesa agli appalti di durata inferiore a sei mesi, quando, si accerti che il costo complessivo dell'opera appaltata sia aumentato o diminuito in misura superiore al 10% per effetto di variazioni di prezzi varificatesi dopo l'aggiudicazione o la stipulazione del contratto, ovvero, in caso di appalto concorso, dopo la presentazione dell'offerta.
+La facolta' di cui all'[art. 1 della legge 9 luglio 1940, n. 1137](Estensione%20della%20facolta%20di%20cui%20allart.%202%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20n.%201296%20circa%20la%20revisione%20dei%20prezzi%20degli%20appalti%20di%20opere%20pubbliche%20ai%20lavori%20di%20durata%20superiore%20a%20se_bb687bd39f1c.md), di rivedere i prezzi per i contratti relativi ad opere pubbliche e' estesa agli appalti di durata inferiore a sei mesi, quando, si accerti che il costo complessivo dell'opera appaltata sia aumentato o diminuito in misura superiore al 10% per effetto di variazioni di prezzi varificatesi dopo l'aggiudicazione o la stipulazione del contratto, ovvero, in caso di appalto concorso, dopo la presentazione dell'offerta.
 
 ## Art. 2.
 
@@ -34,7 +34,7 @@ La disposizione dell'articolo precedente si applica ai lavori appaltati dopo il 
 
 ## Art. 3.
 
-Restano ferme tutte le altre disposizioni del [Regio decreto-legge 21 giugno 1938, n. 1296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-21;1296), convertito nella [legge 19 gennaio 1939, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-19;392), e successive modificazioni.
+Restano ferme tutte le altre disposizioni del [Regio decreto-legge 21 giugno 1938, n. 1296](Norme%20sulla%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20038U1296.md), convertito nella [legge 19 gennaio 1939, n. 392](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20n.%201296%20riguardante%20la%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20039U0392.md), e successive modificazioni.
 
 ## Art. 4.
 

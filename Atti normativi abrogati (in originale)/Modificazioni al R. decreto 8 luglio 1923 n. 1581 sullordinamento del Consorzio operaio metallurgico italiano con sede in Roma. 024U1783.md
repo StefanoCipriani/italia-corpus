@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 settembre 1919, n. 1789](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-28;1789), col quale il Consorzio operaio metallurgico italiano venne eretto in Ente morale;
+Visto il [R. decreto 28 settembre 1919, n. 1789](Erezione%20in%20Ente%20morale.%20019U1789.md), col quale il Consorzio operaio metallurgico italiano venne eretto in Ente morale;
 
 Visto il [R. decreto 8 luglio 1923, n. 1581](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-08;1581), col quale si e' modificato l'ordinamento del Consorzio suddetto;
 

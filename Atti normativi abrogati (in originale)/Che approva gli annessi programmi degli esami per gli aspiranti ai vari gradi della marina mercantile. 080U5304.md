@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLA MARINA
 
-Visti gli articoli 135, 157 e 187 del regolamento per la esecuzione del testo unico del Codice per la Marina mercantile, approvato con [Regio decreto 20 novembre 1879, n. 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166) (Serie 2ª);
+Visti gli articoli 135, 157 e 187 del regolamento per la esecuzione del testo unico del Codice per la Marina mercantile, approvato con [Regio decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md) (Serie 2ª);
 
 Inteso il parere del Consiglio superiore di marina, Decreta:
 

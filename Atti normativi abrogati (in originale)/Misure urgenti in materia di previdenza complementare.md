@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Ritenuta la straordinaria necessita' ed urgenza di prevedere il tempestivo adeguamento delle forme pensionistiche complementari alla nuova disciplina recata dal [decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252), tenuto conto dell'anticipata entrata in vigore della predetta disciplina al 1° gennaio 2007;
+Ritenuta la straordinaria necessita' ed urgenza di prevedere il tempestivo adeguamento delle forme pensionistiche complementari alla nuova disciplina recata dal [decreto legislativo 5 dicembre 2005, n. 252](../Decreti%20Legislativi/Disciplina%20delle%20forme%20pensionistiche%20complementari.md), tenuto conto dell'anticipata entrata in vigore della predetta disciplina al 1° gennaio 2007;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 novembre 2006;
 
@@ -24,7 +24,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-All'[articolo 23 del decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_23), sono apportate le seguenti modificazioni:
+All'[articolo 23 del decreto legislativo 5 dicembre 2005, n. 252](../Decreti%20Legislativi/Disciplina%20delle%20forme%20pensionistiche%20complementari.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 3, le parole: "Entro il 31 dicembre 2007" sono sostituite dalle seguenti: "Entro il 31 dicembre 2006 per quanto concerne gli adeguamenti di cui alle lettere a) e b), n. 2), ed entro il 31 marzo 2007 per quanto concerne gli adeguamenti di cui alla lettera b), n. 1)";
                         b)
@@ -38,7 +38,7 @@ All'[articolo 23 del decreto legislativo 5 dicembre 2005, n. 252](https://www.no
 
 1.
 
-All'[articolo 1, comma 3, lettera c), del decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_1-com3-letc), le parole: "Commissione di vigilanza sulle forme pensionistiche complementari" sono sostituite dalle seguenti: "Commissione di vigilanza sui fondi pensione".
+All'[articolo 1, comma 3, lettera c), del decreto legislativo 5 dicembre 2005, n. 252](../Decreti%20Legislativi/Disciplina%20delle%20forme%20pensionistiche%20complementari.md), le parole: "Commissione di vigilanza sulle forme pensionistiche complementari" sono sostituite dalle seguenti: "Commissione di vigilanza sui fondi pensione".
 
 ## Art. 3. — Entrata in vigore
 

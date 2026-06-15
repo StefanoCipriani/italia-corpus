@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [testo unico delle disposizioni sulla edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380) popolare ed economica approvato con [R. decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165);
+Visto il [testo unico delle disposizioni sulla edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con [R. decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165);
 
 Visto il regolamento approvato con [R. decreto 30 aprile 1936, n. 1031](Norme%20di%20attuazione%20della%20legge%206%20giugno%201935%20n.%201129%20per%20la%20riforma%20degli%20Istituti%20autonomi%20per%20le%20case%20popolari%20e%20per%20la%20costituzione%20di%20un%20Consorzio%20nazionale%20fra%20gli%20Istituti%20predetti.%20030U1031.md);
 

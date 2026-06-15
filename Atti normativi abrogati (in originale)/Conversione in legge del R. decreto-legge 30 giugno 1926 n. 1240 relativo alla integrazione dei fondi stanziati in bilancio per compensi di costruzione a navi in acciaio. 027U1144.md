@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' Convertito in legge il [R. decreto-legge 30 giugno 1926, n. 1240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-06-30;1240), relativo alla integrazione dei fondi stanziati in bilancio per compensi di costruzione a navi in acciaio. 
+ E' Convertito in legge il [R. decreto-legge 30 giugno 1926, n. 1240](Integrazione%20dei%20fondi%20stanziati%20in%20bilancio%20per%20compensi%20di%20costruzione%20a%20navi%20mercantili%20in%20acciaio.%20026U1240.md), relativo alla integrazione dei fondi stanziati in bilancio per compensi di costruzione a navi in acciaio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

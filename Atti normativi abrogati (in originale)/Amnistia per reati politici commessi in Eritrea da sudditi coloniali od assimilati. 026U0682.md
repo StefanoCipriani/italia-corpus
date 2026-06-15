@@ -44,7 +44,7 @@ Le disposizioni del Nostro decreto 31 luglio 1925, n. 1277, che concede amnistia
 
 ## Art. 6.
 
-L'applicazione e gli effetti dei benefici conceduti col presente decreto sono regolati dalle disposizioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).
+L'applicazione e gli effetti dei benefici conceduti col presente decreto sono regolati dalle disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).
 
 ## Art. 7.
 

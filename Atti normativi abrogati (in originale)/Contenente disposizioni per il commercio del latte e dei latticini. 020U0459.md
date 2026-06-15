@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visti i [decreti luogotenenziali 3 gennaio 1918, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-01-03;49) e [22 maggio 1918, n. 700, e il R. decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1918-05-22;700) [3 giugno 1919, n. 1063](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-06-03;1063);
+Visti i [decreti luogotenenziali 3 gennaio 1918, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-01-03;49) e [22 maggio 1918, n. 700, e il R. decreto](Che%20per%20la%20durata%20della%20guerra%20e%20fino%20ad%20un%20anno%20dopo%20la%20pubblicazione%20della%20pace%20istituisce%20il%20Ministero%20per%20gli%20approvvigionamenti%20e%20consumi%20alimentari%20demandandosi%20ad%20esso%20tutte%20le%20att_ec24f490545e.md) [3 giugno 1919, n. 1063](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-06-03;1063);
 
 Visti i decreti del sottosegretario di Stato per gli approvvigionamenti e i consumi 15 agosto 1919, 12 settembre 1919, 12 dicembre 1919 e 3 gennaio 1920;
 

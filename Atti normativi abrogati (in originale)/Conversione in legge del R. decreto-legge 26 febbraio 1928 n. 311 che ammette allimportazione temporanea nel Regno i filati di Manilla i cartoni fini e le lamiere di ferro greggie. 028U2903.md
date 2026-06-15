@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 febbraio 1928, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-26;311), col quale si concede La temporanea importazione dei filati di Manilla per la fabbricazione di reti da pesca; dei cartoni Fini per la fabbricazione degli involucri per sigarette e delle lamiere di ferro greggie per la fabbricazione degli occhielli, dei ganci e dei bottoni per calzature. 
+ E' convertito in legge il [R. decreto-legge 26 febbraio 1928, n. 311](Ammissione%20di%20nuove%20merci%20al%20beneficio%20della%20importazione%20temporanea.%20028U0311.md), col quale si concede La temporanea importazione dei filati di Manilla per la fabbricazione di reti da pesca; dei cartoni Fini per la fabbricazione degli involucri per sigarette e delle lamiere di ferro greggie per la fabbricazione degli occhielli, dei ganci e dei bottoni per calzature. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

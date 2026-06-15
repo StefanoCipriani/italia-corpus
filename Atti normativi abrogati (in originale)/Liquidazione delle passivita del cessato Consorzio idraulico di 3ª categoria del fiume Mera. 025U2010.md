@@ -46,7 +46,7 @@ Allo scopo e' assegnato il termine di anni due per la ricostituzione del catasto
 
 ## Art. 6.
 
-Alla spesa, di cui al presente decreto, si provvedera' con i fondi assegnati al bilancio passivo del [Ministero dei lavori pubblici con il R. decreto 19 marzo 1925, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-19;266), per concorsi e sussidi ad opere idrauliche di 3ª, 4ª e 5ª categoria nell'Italia settentrionale, escluse le provincie Venete e di Mantova.
+Alla spesa, di cui al presente decreto, si provvedera' con i fondi assegnati al bilancio passivo del [Ministero dei lavori pubblici con il R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), per concorsi e sussidi ad opere idrauliche di 3ª, 4ª e 5ª categoria nell'Italia settentrionale, escluse le provincie Venete e di Mantova.
 
 ## Art. 7.
 

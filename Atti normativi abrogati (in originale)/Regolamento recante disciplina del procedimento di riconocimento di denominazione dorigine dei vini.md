@@ -14,9 +14,9 @@ Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.i
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'articolo 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
-Vista la [legge 10 febbraio 1992, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164);
+Vista la [legge 10 febbraio 1992, n. 164](Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 febbraio 1994;
 
@@ -37,7 +37,7 @@ E M A N A il seguente regolamento:
 Il presente regolamento disciplina il procedimento per il riconoscimento delle denominazioni di origine controllata e garantita, delle denominazioni di origine controllata e delle indicazioni geografiche tipiche dei vini.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - [Art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) e' il seguente:
  "Art. 87. - Il Presidente della Repubblica .. (Omissis).
@@ -58,18 +58,18 @@ AVVERTENZA:
  b) riduzione dei termini attualmente prescritti per la conclusione del procedimento;
  c) regolazione uniforme dei procedimenti dello stesso tipo, che si svolgono presso diverse amministrazioni, ovvero presso diversi uffici della medesima amministrazione, e uniformazione dei relativi tempi di conclusione;
  d) riduzione del numero dei procedimenti amministrativi e accorpamento dei procedimenti che si riferiscono alla medesima attivita';
- e) semplificazione e accelerazione delle procedure di spesa e contabili, anche mediante adozione, ed estensione alle fasi procedimentali di integrazione dell'efficacia degli atti, di disposizioni analoghe a quelle di cui all'[articolo 51, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_51-com2), e successive modificazioni;
+ e) semplificazione e accelerazione delle procedure di spesa e contabili, anche mediante adozione, ed estensione alle fasi procedimentali di integrazione dell'efficacia degli atti, di disposizioni analoghe a quelle di cui all'[articolo 51, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
  f) unificazione a livello regionale, oppure provinciale su espressa delega, dei procedimenti amministrativi per il rilascio delle autorizzazioni previste dalla legislazione vigente nelle materie dell'inquinamento acustico, dell'acqua, dell'aria e dello smaltimento dei rifiuti;
  g) snellimento per le piccole imprese operanti nei diversi comparti produttivi degli adempimenti amministrativi previsti dalla vigente legislazione per la tutela ambientale;
  h) individuazione delle responsabilita' e delle procedure di verifica e controllo.
  (Omissis)".
- - La [legge 10 febbraio 1992, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164), reca: "Nuova disciplina delle denominazioni di origine" (pubblicata nella Gazzetta Ufficiale n. 47 del 26 febbraio 1992).
+ - La [legge 10 febbraio 1992, n. 164](Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md), reca: "Nuova disciplina delle denominazioni di origine" (pubblicata nella Gazzetta Ufficiale n. 47 del 26 febbraio 1992).
 
 ## Art. 2. — Presentazione della domanda per il riconoscimento
 
 1.
 
-La domanda di riconoscimento puo' essere presentata dai Consorzi volontari di tutela e dai Consigli interprofessionali rispettivamente previsti dagli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164#art_19) e [20 della legge 10 febbraio 1992, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164#art_20), nonche' dalle regioni o province autonome o da organizzazioni di categoria che rappresentino gli interessati.
+La domanda di riconoscimento puo' essere presentata dai Consorzi volontari di tutela e dai Consigli interprofessionali rispettivamente previsti dagli [articoli 19](Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md) e [20 della legge 10 febbraio 1992, n. 164](Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md), nonche' dalle regioni o province autonome o da organizzazioni di categoria che rappresentino gli interessati.
 
 2.
 
@@ -89,10 +89,10 @@ I produttori ed i viticoltori di cui al comma 3, devono dichiarare di assoggetta
 
 5.
 
-I soggetti di cui al comma 1 debbono presentare domanda di riconoscimento al Comitato nazionale di cui all'[articolo 17 della legge 10 febbraio 1992, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164#art_17), d'ora in avanti chiamato Comitato, presso il Ministero delle risorse agricole, alimentari e forestali.
+I soggetti di cui al comma 1 debbono presentare domanda di riconoscimento al Comitato nazionale di cui all'[articolo 17 della legge 10 febbraio 1992, n. 164](Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md), d'ora in avanti chiamato Comitato, presso il Ministero delle risorse agricole, alimentari e forestali.
 
 Nota all'art. 2:
- - I testi degli [articoli 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164#art_17), [19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164#art_19) e [20 della legge 10 febbraio 1992, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164#art_20), sono i seguenti:
+ - I testi degli [articoli 17](Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md), [19](Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md) e [20 della legge 10 febbraio 1992, n. 164](Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md), sono i seguenti:
  "Art. 17 (Comitato nazionale per la tutela e la valorizzazione delle denominazioni di origine e delle indicazioni geografiche tipiche dei vini). - 1. Entro 180 giorni dalla data di pubblicazione della presente legge nella Gazzetta Ufficiale il Comitato nazionale per la tutela delle denominazioni d'origine di cui all'[articolo 17 del decreto del Presidente della Repubblica 12 luglio 1963, n. 930](Norme%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20mosti%20e%20dei%20vini.md), e' sostituito dal 'Comitato nazionale per la tutela e la valorizzazione delle denominazioni di origine e delle indicazioni geografiche tipiche dei vini', cui compete la tutela e la valorizzazione delle denominazioni d'origine e delle indicazioni geografiche tipiche dei vini italiani.
  2. Il Comitato e' organo del Ministero dell'agricoltura e delle foreste ed ha competenza consultiva, propositiva ed esecutiva su tutti i vini designati con norme geografico.
  3. Il Comitato e' composto da una sezione interprofessionale, costituita dal presidente e dai componenti di cui al comma 5, e da una sezione amministrativa, costituita da personale dipendente dal Ministero dell'agricoltura e delle foreste, che svolge anche i compiti di segreteria.
@@ -135,7 +135,7 @@ Nota all'art. 2:
  9. Il Comitato puo' costituirsi, per conto e previa autorizzazione del Ministero dell'agricoltura e delle foreste, parte civile nei procedimenti penali aventi ad oggetto frodi sull'origine e provenienza geografica dei vini di cui alla presente legge. Il Comitato puo' altresi' intervenire nei giudizi civili, ai sensi dell'[articolo 105, secondo comma, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_105-com2), per far valere il proprio interesse alla tutela delle denominazioni di origine e delle indicazioni geografiche tipiche.
  10. Il Comitato e' legittimato ad agire in giudizio, per conto e previa autorizzazione del Ministero dell'agricoltura e delle foreste, a tutela dei viticoltori interessati nei confronti di soggetti privati e pubblici, che con agenti inquinanti od altri fattori ovvero attraverso l'abusivo esercizio di servitu', rechino pregiudizio alle coltivazioni dei vigneti nonche' alla qualita' ed all'immagine dei vini a denominazione di origine e ad indicazione geografica tipica.
  11. Le spese annuali per il funzionamento del Comitato e per l'adempimento dei suoi compiti istituzionali, sono poste a carico dell'apposito capitolo di spesa dello stato di previsione del Ministero dell'agricoltura e delle foreste.
- 12. Per il funzionamento del Comitato si osservano, in quanto applicabili, le norme del [decreto del Presidente della Repubblica 22 novembre 1965, n. 1675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-11-22;1675)".
+ 12. Per il funzionamento del Comitato si osservano, in quanto applicabili, le norme del [decreto del Presidente della Repubblica 22 novembre 1965, n. 1675](../DPR/Norme%20sullorganizzazione%20e%20sul%20funzionamento%20del%20Comitato%20nazionale%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20vini.md)".
  "Art. 19 (Consorzi volontari di tutela). - 1. Per ciascuna denominazione di origine o indicazione geografica tipica possono essere costituiti consorzi volontari di tutela con l'incarico della tutela, valorizzazione e cura generale degli interessi relativi alle DOCG, DOC e IGT.
  Essi hanno inoltre compiti di proposta per la disciplina regolamentare delle rispettive DOCG, DOC e IGT nonche' compiti consultivi nei riguardi della regione e della camera di commercio, industria, artigianato e agricoltra, in materia, di gestione degli albi dei vigneti e degli elenchi delle vigne, di denunce di produzione delle uve e dei vini, di distribuzione dei contrassegni di cui all'articolo 23 e di quant'altro di competenza delle regioni e dei predetti enti camerali, in materia di vini a denominazione d'origine e ad indicazione geografica tipica.
  Il Ministro dell'agricoltura e delle foreste, sentito il Comitato nazionale di cui all'articolo 17, puo' con proprio decreto, affidare l'incarico di collaborare, secondo modalita' stabilite dallo stesso decreto, alla vigilanza sull'applicazione della presente legge nei confronti dei propri affiliati, ai consorzi volontari che:
@@ -179,25 +179,25 @@ La sezione amministrativa del Comitato, dopo aver notificato all'interessato, en
 
 2.
 
-Verificata, nei termini di cui al comma precedente, la sussistenza dei requisiti soggettivi e la rispondenza dei disciplinari di produzione alle norme della [legge 10 febbraio 1992, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164), il Comitato provvede all'approvazione del disciplinare e al riconoscimento con decreto del dirigente responsabile del procedimento.
+Verificata, nei termini di cui al comma precedente, la sussistenza dei requisiti soggettivi e la rispondenza dei disciplinari di produzione alle norme della [legge 10 febbraio 1992, n. 164](Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md), il Comitato provvede all'approvazione del disciplinare e al riconoscimento con decreto del dirigente responsabile del procedimento.
 
 ## Art. 5. — Modifica e abrogazione di norme
 
 1.
 
-L'[articolo 17, quinto comma, lettera e), della legge 10 febbraio 1992, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164#art_17-com5-lete), e' cosi' modificato: 
+L'[articolo 17, quinto comma, lettera e), della legge 10 febbraio 1992, n. 164](Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md), e' cosi' modificato: 
  " e) sei membri designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano di cui all'[articolo 12 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_12), in rappresentanza delle regioni e delle province autonome;".
 
 2.
 
-Qualora il comitato di cui all'[articolo 17, comma 6, della legge 10 febbraio 1992, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164#art_17-com6), tratti questioni attinenti ad una denominazione d'origine ovvero ad una indicazione geografica tipica, partecipa alla riunione, con diritto di voto, un rappresentante della regione interessata.
+Qualora il comitato di cui all'[articolo 17, comma 6, della legge 10 febbraio 1992, n. 164](Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md), tratti questioni attinenti ad una denominazione d'origine ovvero ad una indicazione geografica tipica, partecipa alla riunione, con diritto di voto, un rappresentante della regione interessata.
 
 3.
 
-Sono abrogati, ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), dall'entrata in vigore del presente regolamento, gli [articoli 4](Norme%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20mosti%20e%20dei%20vini.md) e [6 del decreto del Presidente della Repubblica 12 luglio 1963, n. 930](Norme%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20mosti%20e%20dei%20vini.md), cosi' come modificato dalla [legge 11 maggio 1966, n. 302 e l'articolo 17, comma 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-05-11;302#art_17-com6), della [legge 10 febbraio 1992, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164).
+Sono abrogati, ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dall'entrata in vigore del presente regolamento, gli [articoli 4](Norme%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20mosti%20e%20dei%20vini.md) e [6 del decreto del Presidente della Repubblica 12 luglio 1963, n. 930](Norme%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20mosti%20e%20dei%20vini.md), cosi' come modificato dalla [legge 11 maggio 1966, n. 302 e l'articolo 17, comma 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-05-11;302#art_17-com6), della [legge 10 febbraio 1992, n. 164](Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md).
 
 Note all'articolo 5:
- - Per il testo dell'[articolo 17, comma 5, della legge 10 febbraio 1992, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164#art_17-com5), si veda la precedente nota all'articolo 2.
+ - Per il testo dell'[articolo 17, comma 5, della legge 10 febbraio 1992, n. 164](Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md), si veda la precedente nota all'articolo 2.
  - Il testo dell'[articolo 4 del D.P.R. 12 luglio 1963, n. 930](Norme%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20mosti%20e%20dei%20vini.md), e' il seguente:
  "Art. 4. - Le denominazioni di origine 'controllate' sono riservate a vini che rispondono alle condizioni ed ai requisiti stabiliti, per ciascuna di esse, nei relativi disciplinari di produzione.
  Le denominazioni di origine 'controllate e garantite' sono riservate a vini di particolare pregio - da immettersi al consumo con le modalita' previste dal successivo articolo 7 - che rispondono alle condizioni ed ai requisiti stabiliti, per ciascuna di esse, nei relativi disciplinari di produzione.
@@ -221,7 +221,7 @@ Note all'articolo 5:
  I produttori e i viticoltori di cui alle lettere a) e b) del comma precedente devono dichiarare espressamente di assoggettarsi alla particolare disciplina prevista dal successivo art. 7.
  Le disposizioni di cui ai commi precedenti si applicano anche quando si intenda effettuare il passaggio di un vino dalla categoria dei vini a denominazione di origine 'controllata' a quella dei vini a denominazione di origine 'controllalta e garantita'.
  La domanda, con la relativa documentazione, e' trasmessa, a cura del Ministero dell'agricoltura e delle foreste, al Comitato nazionale di cui all'art. 17 per il prescritto parere, che deve essere espresso nel termine di novanta giorni dal ricevimento".
- - Per il testo dell'[articolo 17, comma 6, della legge 10 febbraio 1992, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164#art_17-com6), si veda la precedente nota all'articolo 2.
+ - Per il testo dell'[articolo 17, comma 6, della legge 10 febbraio 1992, n. 164](Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md), si veda la precedente nota all'articolo 2.
 
 ## Art. 6. — Entrata in vigore del regolamento
 

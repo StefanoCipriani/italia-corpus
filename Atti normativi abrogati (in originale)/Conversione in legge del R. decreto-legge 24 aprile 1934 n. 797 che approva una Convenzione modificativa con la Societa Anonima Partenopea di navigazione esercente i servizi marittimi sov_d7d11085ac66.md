@@ -22,7 +22,7 @@ VITTORIO EMANUELE
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 aprile 1934, numero 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-24;797), che approva una Convenzione modificativa con la Societa' Anonima Partenopea di navigazione esercente i servizi marittimi sovvenzionati del gruppo C (Isole Partenopee e Pontine). 
+ E' convertito in legge il [R. decreto-legge 24 aprile 1934, numero 797](Convenzione%20modificativa%20con%20la%20Societa%20anonima%20Partenopea%20di%20navigazione%20esercente%20i%20servizi%20marittimi%20sovvenzionati%20del%20Gruppo%20C%20Isole%20Partenopee%20e%20Pontine.%20034U0797.md), che approva una Convenzione modificativa con la Societa' Anonima Partenopea di navigazione esercente i servizi marittimi sovvenzionati del gruppo C (Isole Partenopee e Pontine). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 maggio 1941, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-15;412), concernente modificazioni del trattamento doganale dei cianuri di potassio e di sodio. 
+ E' convertito in legge il [R. decreto-legge 15 maggio 1941, n. 412](Modificazioni%20del%20trattamento%20doganale%20dei%20cianuri%20di%20potassio%20e%20di%20sodio.%20041U0412.md), concernente modificazioni del trattamento doganale dei cianuri di potassio e di sodio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

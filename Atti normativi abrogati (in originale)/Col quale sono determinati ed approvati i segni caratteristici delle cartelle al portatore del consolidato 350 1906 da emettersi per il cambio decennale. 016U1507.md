@@ -23,7 +23,7 @@ Vittorio Emanuele III.
  
  Le leggende delle cartelle e delle cedole sono stampate, per tutte le diverse serie, in colore bruno d'Italia sopra un fondo costituito da ornati in colore turchino. 
  
- Nella intestazione delle cartelle e' riportata la indicazione del consolidato cui esse appartengono con le parole: «Consolidato 3,50%» - «esente da ogni imposta presente e futura» - «([Legge 29 giugno 1906, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-29;262))» e sulla linea inferiore e' indicato che il pagamento delle rate semestrali e' fatto nel Regno dalle sezioni della Regia tesoreria provinciale e all'estero dai corrispondenti del tesoro italiano nelle citta' di Parigi, Londra, Berlino e Vienna, rispettivamente in franchi, sterline, marchi e corone d'oro, alla pari con la valuta italiana d'oro, secondo le norme stabilite con decreto del Ministero del tesoro. 
+ Nella intestazione delle cartelle e' riportata la indicazione del consolidato cui esse appartengono con le parole: «Consolidato 3,50%» - «esente da ogni imposta presente e futura» - «([Legge 29 giugno 1906, n. 262](../DL%20e%20leggi%20di%20conversione/Conversione%20delle%20rendite%20consolidate%205%20per%20cento%20lordo%20e%204%20per%20cento%20netto.%20006U0262.md))» e sulla linea inferiore e' indicato che il pagamento delle rate semestrali e' fatto nel Regno dalle sezioni della Regia tesoreria provinciale e all'estero dai corrispondenti del tesoro italiano nelle citta' di Parigi, Londra, Berlino e Vienna, rispettivamente in franchi, sterline, marchi e corone d'oro, alla pari con la valuta italiana d'oro, secondo le norme stabilite con decreto del Ministero del tesoro. 
  
  Sopra ciascuna delle venti cedole, relative ai semestri dal 1° luglio 1917 al 1° gennaio 1927, sono stampate ai lati in linee verticali le parole: «Tre e cinquanta per cento» e «Legge 29 giugno 1906». 
  
@@ -35,7 +35,7 @@ Vittorio Emanuele III.
 
 ## Art. 3.
 
-Nella parte anteriore le cartelle sono munite delle firme del direttore generale del debito pubblico, del direttore capo della divisione VI (Gran Libro) e del rappresentante l'ufficio di riscontro della Corte dei conti, prescritte dall'art. 5 del regolamento sul Debito pubblico, approvato con [R. decreto 19 febbraio 1911, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-19;298). 
+Nella parte anteriore le cartelle sono munite delle firme del direttore generale del debito pubblico, del direttore capo della divisione VI (Gran Libro) e del rappresentante l'ufficio di riscontro della Corte dei conti, prescritte dall'art. 5 del regolamento sul Debito pubblico, approvato con [R. decreto 19 febbraio 1911, n. 298](Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md). 
  
  Negli angoli superiori, rispettivamente a destra ed a sinistra, in appositi spazi bianchi, e' apposto il bollo demaniale di valore diverso secondo la serie di rendita e il bollo a secco di forma rotonda con lo stemma Reale contornato dalla leggenda «Debito pubblico del Regno d'Italia». 
  

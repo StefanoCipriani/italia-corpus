@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Il [R. decreto-legge 2 giugno 1944, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-06-02;147), e' abrogato.
+Il [R. decreto-legge 2 giugno 1944, n. 147](Modifica%20temporanea%20della%20composizione%20della%20Commissione%20centrale%20per%20la%20finanza%20locale.%20044U0147.md), e' abrogato.
 
 ## Art. 2.
 
-L'art. 329 del testo unico della legge comunale e provinciale approvato con [R. decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), modificato dall'[art. 19 del decreto-legge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1939-04-04;589#art_19), e' abrogato e sostituito dal seguente: 
+L'art. 329 del testo unico della legge comunale e provinciale approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), modificato dall'[art. 19 del decreto-legge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1939-04-04;589#art_19), e' abrogato e sostituito dal seguente: 
  
  «La Commissione centrale per la finanza locale e' presieduta dal Ministro per l'interno o, per sua delega, dal Sottosegretario di Stato dell'interno ed e' composta come appresso: 
  

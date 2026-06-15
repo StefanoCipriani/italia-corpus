@@ -32,7 +32,7 @@ marescialli di 1ª classe e aiutanti di battaglia. . . . . . . . 4.640 marescial
 Per gli anni dal 1977 al 1981 il numero delle promozioni al grado di maresciallo di 1ª classe dell'Arma aeronautica, ruolo specialisti, e' fissato in 800 unita' all'anno, ivi comprese quelle derivanti dalle vacanze organiche.
  Per gli stessi anni il numero delle promozioni a sergente maggiore e' fissato in 1.300 all'anno.
  Le promozioni di cui al precedente comma saranno disposte con decorrenza dalla data del verificarsi delle vacanze organiche ovvero al 31 dicembre di ciascun anno.
- La consistenza complessiva dei sergenti e dei sottufficiali in servizio permanente dei ruoli naviganti e specialisti dell'Aeronautica militare non potra' comunque superare fino al 31 dicembre 1981 le 35.000 unita' e a tale consistenza si fa riferimento ai fini della determinazione del limite di cui al [secondo comma dell'articolo 23 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1079](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1079#art_23-com2).
+ La consistenza complessiva dei sergenti e dei sottufficiali in servizio permanente dei ruoli naviganti e specialisti dell'Aeronautica militare non potra' comunque superare fino al 31 dicembre 1981 le 35.000 unita' e a tale consistenza si fa riferimento ai fini della determinazione del limite di cui al [secondo comma dell'articolo 23 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1079](../DPR/Nuovi%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20delle%20Amministrazioni%20dello%20Stato%20compreso%20quello%20ad%20ordinamento%20autonomo.md).
 
 ## Art. 3.
 

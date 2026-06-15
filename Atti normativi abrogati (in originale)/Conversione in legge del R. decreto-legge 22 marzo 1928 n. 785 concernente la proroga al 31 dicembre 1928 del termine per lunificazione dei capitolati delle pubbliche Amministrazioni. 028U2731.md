@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 marzo 1928, n. 785](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-03-22;785), concernente la proroga al 31 dicembre 1928 del termine per l'unificazione dei capitolati delle pubbliche Amministrazioni. 
+ E' convertito in legge il [R. decreto-legge 22 marzo 1928, n. 785](Proroga%20del%20termine%20per%20lunificazione%20dei%20capitolati%20delle%20pubbliche%20Amministrazioni%20e%20determinazione%20dei%20fondi%20per%20il%20funzionamento%20della%20Commissione%20relativa.%20028U0785.md), concernente la proroga al 31 dicembre 1928 del termine per l'unificazione dei capitolati delle pubbliche Amministrazioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

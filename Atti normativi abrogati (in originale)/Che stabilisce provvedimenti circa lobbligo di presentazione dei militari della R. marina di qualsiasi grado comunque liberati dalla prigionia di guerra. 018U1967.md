@@ -18,7 +18,7 @@ Il militare di qualsiasi grado, comunque liberato dalla prigionia di guerra, che
 
 ## Art. 3.
 
-L'infrazione agli obblighi sanciti negli articoli precedenti e' considerata diserzione ed e' punita con la pena stabilita nell'art. 169, seconda parte, [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo. 
+L'infrazione agli obblighi sanciti negli articoli precedenti e' considerata diserzione ed e' punita con la pena stabilita nell'art. 169, seconda parte, [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
  
  Essa si presume per i prigionieri di guerra, che, liberati dalla prigionia dopo il 1° novembre 1918, si trovino, posteriormente al 31 dicembre stesso anno, nel territorio al di qua' delle linee Tirano-Edolo-Vobarno-Ala-Schio-Bassano-Vidor-Priula-fiume Piave fino alla foce, sprovvisti di documenti attestanti la presentazione ad un'autorita' militare o l'assegnazione ad un reparto.
 

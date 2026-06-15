@@ -16,7 +16,7 @@ Il ministro per le terre liberate dal nemico, e' autorizzato ad assumere, per i 
 
 ## Art. 2.
 
-Per i servizi amministrativi e' autorizzato ad assumere, di concerto col ministro del tesoro e con le forme dell'[art. 9 della legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182#art_9), personale avventizio, anche fra i pensionati dello Stato. 
+Per i servizi amministrativi e' autorizzato ad assumere, di concerto col ministro del tesoro e con le forme dell'[art. 9 della legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md), personale avventizio, anche fra i pensionati dello Stato. 
  
  Con decreto Ministeriale il personale avventizio puo' essere incaricato di funzioni direttive.
 

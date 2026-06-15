@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'art. 45 del testo unico di legge sull'amministrazione e la contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016);
+Visto l'art. 45 del testo unico di legge sull'amministrazione e la contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md);
 
 Viste le disposizioni concernenti entrate speciali dello Stato, con destinazione a fronteggiare spese speciali;
 
-Viste le disposizioni riguardanti reintegrazioni di fondi alla parte passiva del bilancio dello Stato, contenute nel regolamento, per la esecuzione del citato testo unico di legge per l'amministrazione del patrimonio e la contabilita' generale, approvato con [R. decreto 4 maggio 1885, n. 3074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-05-04;3074), nonche' tutti gli altri speciali provvedimenti sulla materia, interessanti le varie Amministrazioni dello Stato;
+Viste le disposizioni riguardanti reintegrazioni di fondi alla parte passiva del bilancio dello Stato, contenute nel regolamento, per la esecuzione del citato testo unico di legge per l'amministrazione del patrimonio e la contabilita' generale, approvato con [R. decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md), nonche' tutti gli altri speciali provvedimenti sulla materia, interessanti le varie Amministrazioni dello Stato;
 
 Visti gli articoli 145 e 162 del regolamento predetto;
 
@@ -51,7 +51,7 @@ Sono abrogate le disposizioni concernenti le reintegrazioni di fondi alla parte 
 
 ## Art. 3.
 
-L'art. 162 del regolamento per la esecuzione della legge sull'amministrazione del patrimonio e la contabilita' generale dello Stato, approvato con [R. decreto 4 maggio 1885, n. 3074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-05-04;3074), e' modificato come segue: 
+L'art. 162 del regolamento per la esecuzione della legge sull'amministrazione del patrimonio e la contabilita' generale dello Stato, approvato con [R. decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md), e' modificato come segue: 
  
  «Al rendiconto generale consuntivo deve inoltre unirsi, a corredo, un prospetto dimostrativo delle prelevazioni fatte dai due fondi di riserva indicati nel precedente art. 142 e dei capitoli ai quali vennero aggiunte le somme prelevate».
 

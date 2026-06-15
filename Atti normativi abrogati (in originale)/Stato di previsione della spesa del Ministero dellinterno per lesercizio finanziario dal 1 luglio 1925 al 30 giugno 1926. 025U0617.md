@@ -22,7 +22,7 @@ E' stabilita in L. 1,000,000, per l'esercizio finanziario 1925-1926, la somma oc
 
 ## Art. 4.
 
-E' stabilita in L. 500,000 per l'esercizio finanziario 1925-26, la somma di cui all'[art. 3 del Regio decreto-legge 23 ottobre 1919, n. 2292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-23;2292#art_3), per la costruzione, la sistemazione e il funzionamento di istituti antitracomatosi.
+E' stabilita in L. 500,000 per l'esercizio finanziario 1925-26, la somma di cui all'[art. 3 del Regio decreto-legge 23 ottobre 1919, n. 2292](Che%20autorizza%20la%20Cassa%20depositi%20e%20prestiti%20a%20concedere%20mutui%20senza%20interesse%20per%20provvedere%20alla%20costruzione%20sistemazione%20e%20arredamento%20di%20ambulatori%20anti-tracomatosi%20e%20stabilisce%20inoltre_9bf208b598e4.md), per la costruzione, la sistemazione e il funzionamento di istituti antitracomatosi.
 
 ## Art. 5.
 
@@ -30,11 +30,11 @@ E' stabilita in L. 40,000, per l'esercizio finanziario 1925-26, la somma di cui 
 
 ## Art. 6.
 
-E' stabilita in L. 1,000,000, per l'esercizio finanziario 1925-26, la somma da erogarsi in premi ai Carabinieri Reali per importante risultato di servizio, giusta l'[art. 29 del Regio decreto 31 dicembre 1922, n. 1680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-31;1680#art_29), concernente la riforma ed unificazione dei Corpi armati di polizia.
+E' stabilita in L. 1,000,000, per l'esercizio finanziario 1925-26, la somma da erogarsi in premi ai Carabinieri Reali per importante risultato di servizio, giusta l'[art. 29 del Regio decreto 31 dicembre 1922, n. 1680](Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md), concernente la riforma ed unificazione dei Corpi armati di polizia.
 
 ## Art. 7.
 
-E' stabilita in L. 200,000, per l'esercizio 1925-26, la somma da destinarsi a premi alle famiglie dei funzionari, agenti e Reali Carabinieri vittime dal dovere, di cui all'[art. 14 del Regio decreto-legge 13 marzo 1921, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-03-13;261#art_14), recante provvedimenti a favore del Corpo degli agenti di investigazione. 
+E' stabilita in L. 200,000, per l'esercizio 1925-26, la somma da destinarsi a premi alle famiglie dei funzionari, agenti e Reali Carabinieri vittime dal dovere, di cui all'[art. 14 del Regio decreto-legge 13 marzo 1921, n. 261](Contenente%20provvedimenti%20a%20favore%20del%20corpo%20degli%20agenti%20di%20investigazione%20istituito%20col%20R.%20decreto%2014%20agosto%201919%20n.%201442.%20021U0261.md), recante provvedimenti a favore del Corpo degli agenti di investigazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

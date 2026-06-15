@@ -122,7 +122,7 @@ Gli effetti economici della presente legge decorrono dal 1 settembre 1961.
 
 ## Art. 23.
 
-Alla copertura dell'onere di milioni 3.350 derivante dal presente provvedimento per l'esercizio 1961-62, sara' provveduto con una aliquota dei maggiori introiti per l'aumento delle tariffe di cui al [decreto del Presidente della Repubblica 24 giugno 1961, n. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-24;515).
+Alla copertura dell'onere di milioni 3.350 derivante dal presente provvedimento per l'esercizio 1961-62, sara' provveduto con una aliquota dei maggiori introiti per l'aumento delle tariffe di cui al [decreto del Presidente della Repubblica 24 giugno 1961, n. 515](../DPR/Modificazioni%20alle%20condizioni%20e%20tariffe%20per%20i%20trasporti%20delle%20persone%20e%20delle%20cose%20sulle%20Ferrovie%20dello%20Stato.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare e' me legge dello Stato.
 

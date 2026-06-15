@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 giugno 1932, n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-06-18;756), concernente autorizzazione di spese per opere straordinarie urgenti e disposizioni per opere varie. 
+ E' convertito in legge il [R. decreto-legge 18 giugno 1932, n. 756](Autorizzazione%20di%20spese%20per%20opere%20straordinarie%20urgenti%20e%20disposizioni%20per%20opere%20varie.%20032U0756.md), concernente autorizzazione di spese per opere straordinarie urgenti e disposizioni per opere varie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

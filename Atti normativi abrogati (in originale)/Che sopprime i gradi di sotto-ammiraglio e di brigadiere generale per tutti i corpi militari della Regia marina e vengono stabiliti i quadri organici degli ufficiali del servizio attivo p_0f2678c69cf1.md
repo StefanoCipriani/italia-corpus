@@ -158,7 +158,7 @@ Nota redazionale
  Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 12/02/1923, n. 35 durante il periodo di "vacatio legis". 
  E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione. 
  Tale testo, tuttavia, non e' mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis". 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 4 marzo 1923, n. 592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-04;592) e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 4 marzo 1923, n. 592](Che%20stabilisce%20il%20quadro%20organico%20degli%20ufficiali%20del%20corpo%20delle%20Capitanerie%20di%20porto%20e%20da%20facolta%20di%20collocare%20in%20P.%20A.%20S.%20gli%20ufficiali%20aventi%20grado%20di%20vice%20ammiraglio%20e%20corrispondente.%20023U0592.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
@@ -173,7 +173,7 @@ Per l'applicazione del precedente art. 3 le competenti Commissioni di avanzament
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 24 aprile 1924, n. 597](Disposizioni%20interpretative%20del%20R.%20decreto%2011%20gennaio%201923%20n.%20135%20concernente%20i%20quadri%20organici%20degli%20ufficiali%20della%20Regia%20marina.%20024U0597.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 24 aprile 1924, n. 597](Disposizioni%20interpretative%20del%20R.%20decreto%2011%20gennaio%201923%20n.%20135%20concernente%20i%20quadri%20organici%20degli%20ufficiali%20della%20Regia%20marina.%20024U0597.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 5.
 
@@ -189,7 +189,7 @@ Per l'applicazione del presente decreto ed in occasione della formazione dei qua
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 24 aprile 1924, n. 597](Disposizioni%20interpretative%20del%20R.%20decreto%2011%20gennaio%201923%20n.%20135%20concernente%20i%20quadri%20organici%20degli%20ufficiali%20della%20Regia%20marina.%20024U0597.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 24 aprile 1924, n. 597](Disposizioni%20interpretative%20del%20R.%20decreto%2011%20gennaio%201923%20n.%20135%20concernente%20i%20quadri%20organici%20degli%20ufficiali%20della%20Regia%20marina.%20024U0597.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 7.
 

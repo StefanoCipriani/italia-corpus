@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [decreto-legge Luogotenenziale n. 1451 del 6 settembre 1917](Col%20quale%20e%20istituito%20alle%20dipendenze%20del%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20il%20servizio%20dei%20conti%20correnti%20e%20degli%20assegni%20postali.%20017U1451.md), concernente l'istituzione del servizio dei conti correnti e assegni postali, convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni;
+Visto il [decreto-legge Luogotenenziale n. 1451 del 6 settembre 1917](Col%20quale%20e%20istituito%20alle%20dipendenze%20del%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20il%20servizio%20dei%20conti%20correnti%20e%20degli%20assegni%20postali.%20017U1451.md), concernente l'istituzione del servizio dei conti correnti e assegni postali, convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni;
 
 Visto il regolamento sul detto servizio, approvato con [decreto Luogotenenziale del 9 maggio 1918, n. 622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-09;622), e successive modificazioni;
 
@@ -748,7 +748,7 @@ Fino a che il rapporto di conto corrente non sia risoluto e la somma residuale n
 
 L'ufficio dei conti puo' con effetto immediato, e indipendentemente dalle sanzioni penali previste dalle leggi vigenti, escludere dal servizio il correntista che emetta piu' di una volta assegni di pagamento per somme maggiori di quelle disponibili, o in altro modo contravvenga alle disposizioni del presente decreto, in guisa da intralciare il regolare andamento del servizio. 
  
- Tale esclusione puo' anche essere deliberata contro colui che si valga del conto per fini contrari all'interesse nazionale o contro chi fosse condannato per un reato di cui al titolo VI, capo 1° e 4°, e titolo X, capo 1° e 5°, del libro II [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ Tale esclusione puo' anche essere deliberata contro colui che si valga del conto per fini contrari all'interesse nazionale o contro chi fosse condannato per un reato di cui al titolo VI, capo 1° e 4°, e titolo X, capo 1° e 5°, del libro II [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Puo' altresi' essere escluso dal servizio, a giudizio insindacabile dell'Amministrazione, il correntista che si serve del conto corrente postale per fini diversi da quelli inerenti al servizio stesso. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 Settembre 1926, n. 1638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-16;1638), concernente l'aumento del prezzo massimo di vendita al pubblico di talune qualita' di tabacchi lavorati. 
+ E' convertito in legge il [R. decreto-legge 16 Settembre 1926, n. 1638](Aumento%20del%20prezzo%20massimo%20di%20vendita%20al%20pubblico%20di%20talune%20qualita%20di%20tabacchi%20lavorati.%20026U1638.md), concernente l'aumento del prezzo massimo di vendita al pubblico di talune qualita' di tabacchi lavorati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

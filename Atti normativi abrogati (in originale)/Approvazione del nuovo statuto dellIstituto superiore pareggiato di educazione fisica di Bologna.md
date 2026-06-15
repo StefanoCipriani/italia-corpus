@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Veduto lo statuto dell'istituto superiore pareggiato di educazione fisica di Bologna, approvato con [decreto del Presidente della Repubblica 31 ottobre 1960, n. 1891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-10-31;1891); 
+ Veduto lo statuto dell'istituto superiore pareggiato di educazione fisica di Bologna, approvato con [decreto del Presidente della Repubblica 31 ottobre 1960, n. 1891](../DPR/Approvazione%20dello%20statuto%20dellIstituto%20superiore%20di%20educazione%20fisica%20pareggiato%20di%20Bologna.md); 
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
  Veduta la [legge 7 febbraio 1958, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-07;88); 
  Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto; 

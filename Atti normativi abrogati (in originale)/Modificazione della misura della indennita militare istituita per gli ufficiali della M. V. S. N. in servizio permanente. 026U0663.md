@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i Nostri [decreti-legge 14 gennaio 1923, n. 31; 8 marzo 1923, n. 832, e 15 marzo 1923, n. 967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-03-15;967), convertiti in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visti i Nostri [decreti-legge 14 gennaio 1923, n. 31; 8 marzo 1923, n. 832, e 15 marzo 1923, n. 967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-03-15;967), convertiti in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto il [R. decreto-legge 10 febbraio 1926, n. 206](Provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20e%20dei%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20delle%20altre%20forze%20armate%20dello%20Stato.%20026U0206.md);
 

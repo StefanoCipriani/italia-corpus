@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 27 maggio 1875, n. 2779](Per%20la%20istituzione%20delle%20casse%20di%20risparmio%20postali%20e%20per%20modificazioni%20alla%20legge%2017%20maggio%201863%20sulla%20cassa%20dei%20depositi%20e%20prestiti.%20075U2779.md);
 
-Visto il regolamento sul servizio delle Casse di risparmio postali, approvato con [R. decreto 11 giugno 1903, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-06-11;394);
+Visto il regolamento sul servizio delle Casse di risparmio postali, approvato con [R. decreto 11 giugno 1903, n. 394](Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20casse%20di%20risparmio%20postali.%20003U0394.md);
 
 Visto l'art. 337 del regolamento per la contabilita' generale dello Stato;
 

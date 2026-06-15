@@ -32,7 +32,7 @@ Al dipendente statale che ne faccia domanda entro un anno dalla data di pubblica
 
 ## Art. 3.
 
-Con effetto dal 1° luglio 1956, il disposto dell'[art. 202 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_202), si applica anche al personale militare, nonche' ai sottufficiali nominati agli impieghi civili dello Stato.
+Con effetto dal 1° luglio 1956, il disposto dell'[art. 202 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), si applica anche al personale militare, nonche' ai sottufficiali nominati agli impieghi civili dello Stato.
 
 ## Art. 4.
 

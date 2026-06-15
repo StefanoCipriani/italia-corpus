@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1292), contenente norme per la determinazione del tasso di capitalizzazione da adottare nel calcolo delle sovvenzioni per le ferrovie concesse all'industria privata. 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1292](Norme%20per%20la%20determinazione%20del%20tasso%20di%20capitalizzazione%20da%20adottare%20nel%20calcolo%20delle%20sovvenzioni%20per%20le%20ferrovie%20concesse%20allindustria%20privata.%20034U1292.md), contenente norme per la determinazione del tasso di capitalizzazione da adottare nel calcolo delle sovvenzioni per le ferrovie concesse all'industria privata. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

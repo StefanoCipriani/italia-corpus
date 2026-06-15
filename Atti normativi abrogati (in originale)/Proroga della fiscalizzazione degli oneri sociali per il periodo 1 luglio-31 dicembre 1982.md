@@ -22,11 +22,11 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-A favore dei soggetti indicati nell'[articolo 1 del decreto-legge 24 marzo 1982, n. 91](Proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20per%20i%20mesi%20di%20febbraio%20e%20marzo%201982%20ed%20estensione%20ad%20altri%20settori.md), convertito, con modificazioni, nella [legge 21 maggio 1982, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-21;267), gli sgravi contributivi vigenti al 30 giugno 1982 sono prorogati a tutto il periodo di paga in corso alla data del 31 dicembre 1982.
+A favore dei soggetti indicati nell'[articolo 1 del decreto-legge 24 marzo 1982, n. 91](Proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20per%20i%20mesi%20di%20febbraio%20e%20marzo%201982%20ed%20estensione%20ad%20altri%20settori.md), convertito, con modificazioni, nella [legge 21 maggio 1982, n. 267](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20marzo%201982%20n.%2091%20concernente%20proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20per%20i%20mesi%20di%20febbraio%20e%20marzo%201982%20ed%20estension_3d538e8f99b7.md), gli sgravi contributivi vigenti al 30 giugno 1982 sono prorogati a tutto il periodo di paga in corso alla data del 31 dicembre 1982.
 
 ## Art. 2.
 
-La riduzione di cui all'[art. 2 del decreto-legge 24 marzo 1982, n. 91](Proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20per%20i%20mesi%20di%20febbraio%20e%20marzo%201982%20ed%20estensione%20ad%20altri%20settori.md), convertito, con modificazioni, nella [legge 21 maggio 1982, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-21;267), ferme restando le condizioni previste dall'articolo stesso, e' estesa ai contributi relativi a tutte le giornate di lavoro svolte dagli operai agricoli e retribuite per l'anno 1982.
+La riduzione di cui all'[art. 2 del decreto-legge 24 marzo 1982, n. 91](Proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20per%20i%20mesi%20di%20febbraio%20e%20marzo%201982%20ed%20estensione%20ad%20altri%20settori.md), convertito, con modificazioni, nella [legge 21 maggio 1982, n. 267](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20marzo%201982%20n.%2091%20concernente%20proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20per%20i%20mesi%20di%20febbraio%20e%20marzo%201982%20ed%20estension_3d538e8f99b7.md), ferme restando le condizioni previste dall'articolo stesso, e' estesa ai contributi relativi a tutte le giornate di lavoro svolte dagli operai agricoli e retribuite per l'anno 1982.
 
 ## Art. 3.
 

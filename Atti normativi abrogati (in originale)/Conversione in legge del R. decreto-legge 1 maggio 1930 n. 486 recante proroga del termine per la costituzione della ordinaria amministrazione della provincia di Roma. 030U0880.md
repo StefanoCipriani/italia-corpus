@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° maggio 1930, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-05-01;486), recante proroga del termine per la costituzione dell'Amministrazione ordinaria della provincia di Roma. 
+ E' convertito in legge il [R. decreto-legge 1° maggio 1930, n. 486](Proroga%20del%20termine%20per%20la%20costituzione%20dellAmministrazione%20ordinaria%20della%20provincia%20di%20Roma.%20030U0486.md), recante proroga del termine per la costituzione dell'Amministrazione ordinaria della provincia di Roma. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

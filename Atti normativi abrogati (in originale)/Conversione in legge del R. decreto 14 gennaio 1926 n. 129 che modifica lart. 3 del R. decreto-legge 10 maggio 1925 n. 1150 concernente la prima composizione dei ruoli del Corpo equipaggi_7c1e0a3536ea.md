@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 14 gennaio 1926, numero 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-14;129), che modifica l'[art. 3 del R. decreto-legge 10 maggio 1925, n. 1150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-05-10;1150#art_3), concernente la prima composizione dei ruoli del Corpo equipaggi della Regia aeronautica. 
+ E' convertito in legge il [R. decreto 14 gennaio 1926, numero 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-14;129), che modifica l'[art. 3 del R. decreto-legge 10 maggio 1925, n. 1150](Norme%20per%20la%20prima%20composizione%20dei%20ruoli%20del%20corpo%20equipaggi%20della%20Regia%20aeronautica.%20025U1150.md), concernente la prima composizione dei ruoli del Corpo equipaggi della Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

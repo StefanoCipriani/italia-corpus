@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 gennaio 1923, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;143);
+Visto il [R. decreto 28 gennaio 1923, n. 143](Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md);
 
-Visto il [R. decreto 7 dicembre 1923, n. 2590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-07;2590);
+Visto il [R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md);
 
-Visto il [R. decreto 31 dicembre 1923, n. 3135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3135);
+Visto il [R. decreto 31 dicembre 1923, n. 3135](Trattamento%20di%20esonero%20ad%20agenti%20delle%20Ferrovie%20dello%20Stato.%20023U3135.md);
 
 Visto il [R. decreto-legge 27 gennaio 1924, n. 172](Proroga%20delle%20disposizioni%20contenute%20nel%20R.%20decreto%2028%20gennaio%201923%20n.%20143%20circa%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20024U0172.md);
 
@@ -34,7 +34,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Articolo unico.
 
-Il termine del 31 dicembre 1924, fissato nel [R. decreto-legge 26 giugno 1924, n. 1236](Proroga%20del%20termine%20di%20cui%20al%20R.%20decreto-legge%2027%20aprile%201924%20n%20556%20per%20le%20dispense%20dal%20servizio%20di%20personale%20ferroviario.%20024U1236.md), come limite per l'applicazione delle disposizioni sulle dispense del personale delle Ferrovie dello Stato di cui al [R. decreto 28 gennaio 1923, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;143) e sul conseguente trattamento di pensione e di indennita', viene prorogato fino a quando non sara' emanato il nuovo regolamento relativo al personale ferroviario, ferme restando tutte le altre disposizioni contenute nel [R. decreto 31 dicembre 1923, n. 3135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3135), e nel [R. decreto-legge 27 gennaio 1924, n. 172](Proroga%20delle%20disposizioni%20contenute%20nel%20R.%20decreto%2028%20gennaio%201923%20n.%20143%20circa%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20024U0172.md). 
+Il termine del 31 dicembre 1924, fissato nel [R. decreto-legge 26 giugno 1924, n. 1236](Proroga%20del%20termine%20di%20cui%20al%20R.%20decreto-legge%2027%20aprile%201924%20n%20556%20per%20le%20dispense%20dal%20servizio%20di%20personale%20ferroviario.%20024U1236.md), come limite per l'applicazione delle disposizioni sulle dispense del personale delle Ferrovie dello Stato di cui al [R. decreto 28 gennaio 1923, n. 143](Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md) e sul conseguente trattamento di pensione e di indennita', viene prorogato fino a quando non sara' emanato il nuovo regolamento relativo al personale ferroviario, ferme restando tutte le altre disposizioni contenute nel [R. decreto 31 dicembre 1923, n. 3135](Trattamento%20di%20esonero%20ad%20agenti%20delle%20Ferrovie%20dello%20Stato.%20023U3135.md), e nel [R. decreto-legge 27 gennaio 1924, n. 172](Proroga%20delle%20disposizioni%20contenute%20nel%20R.%20decreto%2028%20gennaio%201923%20n.%20143%20circa%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20024U0172.md). 
  
  Il presente decreto ha effetto dalla data del decreto stesso e sara' presentato al Parlamento per la conversione in legge. 
  

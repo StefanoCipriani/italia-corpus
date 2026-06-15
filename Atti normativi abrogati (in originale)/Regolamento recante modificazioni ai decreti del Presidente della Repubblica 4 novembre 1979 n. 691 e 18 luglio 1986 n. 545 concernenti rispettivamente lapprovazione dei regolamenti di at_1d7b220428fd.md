@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli articoli 5, primo comma, 18, 19 e 20, ultimo comma, della [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382), recante norme di principio sulla disciplina militare;
+Visti gli articoli 5, primo comma, 18, 19 e 20, ultimo comma, della [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), recante norme di principio sulla disciplina militare;
 
 Visto il [decreto del Presidente della Repubblica 4 novembre 1979, n. 691](Regolamento%20che%20disciplina%20lattuazione%20della%20rappresentanza%20militare.md), e successive modificazioni, concernente regolamento di attuazione della rappresentanza militare;
 
 Visto il [decreto del Presidente della Repubblica 18 luglio 1986, n. 545](Approvazione%20del%20regolamento%20di%20disciplina%20militare%20ai%20sensi%20dellart.%205%20primo%20comma%20della%20legge%2011%20luglio%201978%20n.%20382.md), con il quale e' stato approvato il regolamento di disciplina militare;
 
-Vista la [legge 9 aprile 1990, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-09;89), riguardante l'aumento da due a tre anni della durata del mandato dei militari di carriera eletti negli organi della rappresentanza militare;
+Vista la [legge 9 aprile 1990, n. 89](Modifica%20dellarticolo%2018%20della%20legge%2011%20luglio%201978%20n.%20382%20concernente%20laumento%20della%20durata%20del%20mandato%20per%20i%20militari%20di%20carriera%20eletti%20negli%20organi%20della%20rappresentanza%20militare.md), riguardante l'aumento da due a tre anni della durata del mandato dei militari di carriera eletti negli organi della rappresentanza militare;
 
 Visto il comma 3 dell'art. 37 del regolamento di disciplina militare, approvato con [decreto del Presidente della Repubblica 18 luglio 1986, n. 545](Approvazione%20del%20regolamento%20di%20disciplina%20militare%20ai%20sensi%20dellart.%205%20primo%20comma%20della%20legge%2011%20luglio%201978%20n.%20382.md), che detta disposizioni circa l'uso dell'appellativo "signore" allorche' un militare si rivolge ad un superiore;
 
@@ -60,7 +60,7 @@ Il primo comma dell'art. 13 del regolamento di attuazione della rappresentanza m
  per i militari dei COBAR allievi e all'estero la durata del mandato e' fissata nei precedenti articoli 7 e 7- bis.".
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
  - Si trascrive il testo delle disposizioni della [legge n. 382/1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;382) (Norme di principio sulla disciplina militare) alle quali il presente decreto fa rinvio:

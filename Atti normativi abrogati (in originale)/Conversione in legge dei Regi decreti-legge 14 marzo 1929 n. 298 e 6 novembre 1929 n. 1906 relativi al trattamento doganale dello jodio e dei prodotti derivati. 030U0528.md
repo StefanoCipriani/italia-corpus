@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sono convertiti in legge i [Regi decreti-legge 14 marzo 1929, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-14;298), e [6 novembre 1929, n. 1906](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-06;1906), che modificano il trattamento doganale dello jodio greggio e dei prodotti derivati. 
+ Sono convertiti in legge i [Regi decreti-legge 14 marzo 1929, n. 298](Trattamento%20doganale%20dello%20jodio%20e%20dei%20prodotti%20jodurati.%20029U0298.md), e [6 novembre 1929, n. 1906](Modificazioni%20al%20trattamento%20doganale%20dello%20jodio%20e%20dei%20prodotti%20jodurati.%20029U1906.md), che modificano il trattamento doganale dello jodio greggio e dei prodotti derivati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

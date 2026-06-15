@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 febbraio 1927, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;359), concernente il pagamento di quote a favore dei Comitati per l'uso di biglietti ferroviari di andata e ritorno a riduzione. 
+ E' convertito in legge il [R. decreto-legge 17 febbraio 1927, n. 359](Disposizioni%20relative%20al%20pagamento%20di%20quote%20a%20favore%20dei%20Comitati%20per%20luso%20di%20biglietti%20ferroviari%20di%20andata%20e%20ritorno%20a%20riduzione.%20027U0359.md), concernente il pagamento di quote a favore dei Comitati per l'uso di biglietti ferroviari di andata e ritorno a riduzione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla di farla osservare come legge dello Stato. 
  

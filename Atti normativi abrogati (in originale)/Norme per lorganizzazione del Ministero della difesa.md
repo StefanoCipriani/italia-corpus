@@ -14,7 +14,7 @@ Visto il [decreto del Capo provvisorio dello Stato 4 febbraio 1947, n. 17](https
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visti, l'[art. 3 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3);
+Visti, l'[art. 3 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -33,7 +33,7 @@ Il Gabinetto del Ministro per la difesa e' composto di:
  4) non piu' di ventiquattro impiegati di gruppo C o sottufficiali delle Forze armate per i servizi di archivio e di copia.
  I funzionari ed impiegati delle tre preesistenti Amministrazioni e gli ufficiali addetti al Gabinetto compresi nelle categorie indicate ai numeri 3 e 4, debbono essere in misura pari per ciascuna delle Amministrazioni stesse.
  Nel Gabinetto del Ministro per la difesa e nelle Segreterie particolari dei Sottosegretari di Stato possono essere addetti ai servizi degli archivi riservati anche ufficiali del Corpo equipaggi militari marittimi ed ufficiali di grado non superiore a quello di capitano, o sottufficiali dell'Esercito e dell'Aeronautica.
- Restano ferme le disposizioni dell'art. 1, ultimo comma, del [regio decreto-legge 10 luglio 1924, n. 1100, e dell'art. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-07-10;1100#art_181), settimo, comma del [regio decreto 11 novembre 1923 n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), per i distacchi e le aggregazioni ivi previste.
+ Restano ferme le disposizioni dell'art. 1, ultimo comma, del [regio decreto-legge 10 luglio 1924, n. 1100, e dell'art. 181](Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20segreterie%20particolari%20dei%20Sottosegretari%20di%20Stato.%20024U1100.md), settimo, comma del [regio decreto 11 novembre 1923 n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), per i distacchi e le aggregazioni ivi previste.
 
 ## Art. 3.
 

@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 dicembre 1931, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-21;1592), concernente tassa speciale per le merci provenienti dall'estero che si sbarcano nei porti e nelle spiagge del Regno. 
+ E' convertito in legge il [R. decreto-legge 21 dicembre 1931, n. 1592](Tassa%20speciale%20per%20le%20merci%20provenienti%20dallestero%20che%20si%20sbarcano%20nei%20porti%20e%20nelle%20spiaggie%20del%20Regno.%20031U1592.md), concernente tassa speciale per le merci provenienti dall'estero che si sbarcano nei porti e nelle spiagge del Regno. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

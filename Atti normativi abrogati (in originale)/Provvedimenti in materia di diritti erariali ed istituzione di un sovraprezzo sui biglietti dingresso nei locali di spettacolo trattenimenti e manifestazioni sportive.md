@@ -54,7 +54,7 @@ erariale, superiori a L. 150................ 40 % ".
 
 ## Art. 3.
 
-La frazione inferiore a cinque centesimi prevista per l'arrotondamento sino a cinque centesimi dall'[art. 4 del regio decreto 2 ottobre 1924, n. 1589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-02;1589#art_4), a beneficio degli impresari o esercenti, viene aumentata per i prezzi cumulativi che presentano frazione di lira fino a lira intera.
+La frazione inferiore a cinque centesimi prevista per l'arrotondamento sino a cinque centesimi dall'[art. 4 del regio decreto 2 ottobre 1924, n. 1589](Esazione%20dei%20diritti%20erariali%20sui%20cinematografi%20a%20mezzo%20della%20Societa%20Italiana%20degli%20Autori.%20024U1589.md), a beneficio degli impresari o esercenti, viene aumentata per i prezzi cumulativi che presentano frazione di lira fino a lira intera.
 
 ## Art. 4.
 
@@ -63,7 +63,7 @@ Sui diritti erariali accertati sulle scommesse al totalizzatore e al libro che h
 
 ## Art. 5.
 
-In deroga all'[art. 5 del regio decreto legislativo 30 maggio 1946, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-30;538#art_5), e' istituito in tutte le domeniche comprese tra il 15 dicembre 1948 e il 20 marzo 1949, nonche' nei giorni 25 dicembre 1948, 1° e 6 gennaio, 11 febbraio e 19 marzo 1949, un sovraprezzo su ciascun biglietto d'ingresso nei locali in cui si danno trattenimenti ed altri pubblici spettacoli di qualsiasi specie, soggetti a diritto erariale, ivi comprese le manifestazioni sportive con o senza scommesse, nella misura seguente:
+In deroga all'[art. 5 del regio decreto legislativo 30 maggio 1946, n. 538](Nuove%20norme%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli.md), e' istituito in tutte le domeniche comprese tra il 15 dicembre 1948 e il 20 marzo 1949, nonche' nei giorni 25 dicembre 1948, 1° e 6 gennaio, 11 febbraio e 19 marzo 1949, un sovraprezzo su ciascun biglietto d'ingresso nei locali in cui si danno trattenimenti ed altri pubblici spettacoli di qualsiasi specie, soggetti a diritto erariale, ivi comprese le manifestazioni sportive con o senza scommesse, nella misura seguente:
 
  sul biglietto, al lordo del diritto
 erariale, fino a L. 50................. sovraprezzo L. 5

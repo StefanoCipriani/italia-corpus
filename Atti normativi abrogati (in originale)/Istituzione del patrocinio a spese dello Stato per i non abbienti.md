@@ -64,7 +64,7 @@ In ogni caso, la disposizione del comma 1 non si applica nei confronti dell'impu
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, commi 2 e 3, del testo unico approvato 
  con [decreto del Presidente della Repubblica 28 dicembre 
- 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle 
+ 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge modificate o alle quali e' operato il 
  rinvio. Restano invariati il valore e l'efficacia degli 
  atti legislativi qui trascritti.
@@ -195,10 +195,10 @@ La mancanza delle dichiarazioni, delle indicazioni e delle allegazioni previste 
 
 7.
 
-La falsita' o le omissioni nell'autocertificazione, nelle dichiarazioni, nelle indicazioni o nelle comunicazioni previste dai commi 1 e 2 sono punite con le sanzioni previste dalle norme del titolo VII del libro secondo del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398); la condanna importa la decadenza prevista dall'articolo 10 e il recupero delle somme corrisposte dallo Stato a carico del responsabile.
+La falsita' o le omissioni nell'autocertificazione, nelle dichiarazioni, nelle indicazioni o nelle comunicazioni previste dai commi 1 e 2 sono punite con le sanzioni previste dalle norme del titolo VII del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); la condanna importa la decadenza prevista dall'articolo 10 e il recupero delle somme corrisposte dallo Stato a carico del responsabile.
 
 Nota all'art. 5:
- - Il titolo VII del libro secondo del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) comprende (articoli 453-498) i delitti contro la fede pubblica.
+ - Il titolo VII del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comprende (articoli 453-498) i delitti contro la fede pubblica.
 
 ## Art. 6. — Procedura per l'ammissione al patrocinio 
  a spese dello Stato

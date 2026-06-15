@@ -18,15 +18,15 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto Luogotenenziale 14 settembre 1918, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1311);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [R. decreto-legge 19 agosto 1938, n. 1518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-08-19;1518);
+Visto il [R. decreto-legge 19 agosto 1938, n. 1518](Modificazioni%20alle%20norme%20che%20regolano%20il%20trattamento%20economico%20del%20dipendenti%20dallo%20Stato%20in%20occasione%20di%20missioni%20e%20trasferimenti.%20038U1518.md);
 
-Visto il [R. decreto-legge 27 febbraio 1942, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-02-27;76);
+Visto il [R. decreto-legge 27 febbraio 1942, n. 76](Trattamento%20di%20missione%20al%20personale%20statale%20nellinterno%20del%20Regno.%20042U0076.md);
 
-Visto il [R. decreto-legge 2 dicembre 1943, n. 14-B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-02;14);
+Visto il [R. decreto-legge 2 dicembre 1943, n. 14-B](Trattamento%20di%20missione%20al%20personale%20statale%20nellinterno%20del%20Regno.%20043U0014.md);
 
-Visto il [R. decreto-legge 9 maggio 1944, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-09;131);
+Visto il [R. decreto-legge 9 maggio 1944, n. 131](Aumento%20del%20trattamento%20di%20missione%20al%20personale%20statale%20nellinterno%20del%20Regno.%20044U0131.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -38,7 +38,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Il termine biennale previsto dall'[art. 12 del R. decreto-legge 19 agosto 1938, n. 1518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-08-19;1518#art_12), quando sia scaduto dopo il 30 giugno 1943 o venga a scadere prima del decorso di un anno dalla cessazione dello stato di guerra e' prorogato fino al compimento dell'anno stesso.
+Il termine biennale previsto dall'[art. 12 del R. decreto-legge 19 agosto 1938, n. 1518](Modificazioni%20alle%20norme%20che%20regolano%20il%20trattamento%20economico%20del%20dipendenti%20dallo%20Stato%20in%20occasione%20di%20missioni%20e%20trasferimenti.%20038U1518.md), quando sia scaduto dopo il 30 giugno 1943 o venga a scadere prima del decorso di un anno dalla cessazione dello stato di guerra e' prorogato fino al compimento dell'anno stesso.
 
 ## Art. 2.
 

@@ -16,11 +16,11 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti i [Regi decreti 3 agosto 1891, n. 510](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-08-03;510), e [6 agosto 1891, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-08-06;518);
+Visti i [Regi decreti 3 agosto 1891, n. 510](Che%20abolisce%20nellestensione%20e%20misura%20dellultimo%20possesso%20di%20fatto%20le%20servitu%20di%20pascolo%20di%20seminare%20di%20legnatico%20di%20vendere%20erbe%20di%20fidare%20o%20dimporre%20tassa%20a%20titolo%20di%20pascolo%20in%20alcuni%20c_e26ee4d2e86f.md), e [6 agosto 1891, n. 518](Che%20sopprime%20larticolo%2015%20del%20regolamento%20vigente%20per%20la%20esecuzione%20della%20legge%2024%20giugno%201888%20n.%205489%20serie%203ª.%20091U0518.md);
 
-Visti i [Regi decreti 22 maggio 1924, n. 751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;751); [28 agosto 1924, n. 1484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1484); [16 maggio 1926, n. 895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-16;895), convertiti in legge con modificazioni con la [legge 16 giugno 1927, n. 1766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;1766);
+Visti i [Regi decreti 22 maggio 1924, n. 751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;751); [28 agosto 1924, n. 1484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1484); [16 maggio 1926, n. 895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-16;895), convertiti in legge con modificazioni con la [legge 16 giugno 1927, n. 1766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20maggio%201924%20n.%20751%20riguardante%20il%20riordinamento%20degli%20usi%20civici%20nel%20Regno%20del%20R.%20decreto%2028%20agosto%201924%20n.%201484%20che%20modifica%20lart.%2026%20del%20R.%20decret_728733510b66.md);
 
-Visto il [R. decreto 26 febbraio 1928; n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;332), che approva il regolamento per la [legge 16 giugno 1927, n. 1766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;1766);
+Visto il [R. decreto 26 febbraio 1928; n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;332), che approva il regolamento per la [legge 16 giugno 1927, n. 1766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20maggio%201924%20n.%20751%20riguardante%20il%20riordinamento%20degli%20usi%20civici%20nel%20Regno%20del%20R.%20decreto%2028%20agosto%201924%20n.%201484%20che%20modifica%20lart.%2026%20del%20R.%20decret_728733510b66.md);
 
 Vista la leggo 16 marzo 1931, n. 377;
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per l'interno, di concerto con i Ministri per la gra
 
 ## Art. 1.
 
-I commissari per la liquidazione degli usi civici, su richiesta dei Comuni e' delle Universita' o Associazioni agrarie, possono, per la durata della guerra e fino ad un anno dopo la conclusione della pace autorizzare, in deroga alle vigenti disposizioni della legge 16 giugno 1927, n, 1766, e del regolamento di esecuzione approvato con [R. decreto 26 febbraio 1928, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;332). nonche' della [legge 16 marzo 1931 n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-03-16;377), la concessione all'utenza con l'obbligo di migliorare, delle terre convenientemente utilizzabili per la cultura agraria di cui al 1° comma dell'art. 11 della sopra detta legge 16 giugno 1927.
+I commissari per la liquidazione degli usi civici, su richiesta dei Comuni e' delle Universita' o Associazioni agrarie, possono, per la durata della guerra e fino ad un anno dopo la conclusione della pace autorizzare, in deroga alle vigenti disposizioni della legge 16 giugno 1927, n, 1766, e del regolamento di esecuzione approvato con [R. decreto 26 febbraio 1928, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;332). nonche' della [legge 16 marzo 1931 n. 377](Norme%20per%20la%20coordinazione%20della%20legge%20sugli%20usi%20civici%20con%20quelle%20sulla%20bonifica%20integrale.%20031U0377.md), la concessione all'utenza con l'obbligo di migliorare, delle terre convenientemente utilizzabili per la cultura agraria di cui al 1° comma dell'art. 11 della sopra detta legge 16 giugno 1927.
 
 ## Art. 2.
 
@@ -72,13 +72,13 @@ L'assegnazione delle unita' fondiarie risultanti dalla ripartizione e' fatta con
  
  Le unita' fondiarie ridevolute o abbandonate sono riassegnate a norma degli articoli 5 e 6 del presente decreto. 
  
- Eseguite le migliorie di cui all'art. 3, che sono di volta in volta accertate dall'ispettore provinciale agrario, il commissario provvede a trasformare le concessioni in enfiteusi perpetue. All'atto della concessione in enfiteusi sono fissati i canoni definitivi, a norma dell'[art. 10 della legge 16 giugno 1927, n. 1766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;1766#art_10).
+ Eseguite le migliorie di cui all'art. 3, che sono di volta in volta accertate dall'ispettore provinciale agrario, il commissario provvede a trasformare le concessioni in enfiteusi perpetue. All'atto della concessione in enfiteusi sono fissati i canoni definitivi, a norma dell'[art. 10 della legge 16 giugno 1927, n. 1766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20maggio%201924%20n.%20751%20riguardante%20il%20riordinamento%20degli%20usi%20civici%20nel%20Regno%20del%20R.%20decreto%2028%20agosto%201924%20n.%201484%20che%20modifica%20lart.%2026%20del%20R.%20decret_728733510b66.md).
 
 ## Art. 8.
 
 Per tutto il termine indicato nell'art. 1 del presente decreto, in pendenza delle operazioni di liquidazione degli usi civici sulle terre dei privati, il commissario puo', con decreto motivato, su domanda dirgli Enti interessati, sentito l'ispettore provinciale agrario e le parti, attribuire, a titolo di compenso provvisorio, salva la liquidazione definitiva, ai Comuni, frazioni di Comuni, Universita' o Associazioni agrarie, una quota parte dei terreni sui quali pacificamente si esercita l'uso civico di semina. 
  
- La quota, determinata dal commissario in base alla scala dei compensi stabilita, nell'[art. 5 della legge 16 giugno 1927, n. 1766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;1766#art_5), viene ripartita secondo le norme del presente decreto.
+ La quota, determinata dal commissario in base alla scala dei compensi stabilita, nell'[art. 5 della legge 16 giugno 1927, n. 1766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20maggio%201924%20n.%20751%20riguardante%20il%20riordinamento%20degli%20usi%20civici%20nel%20Regno%20del%20R.%20decreto%2028%20agosto%201924%20n.%201484%20che%20modifica%20lart.%2026%20del%20R.%20decret_728733510b66.md), viene ripartita secondo le norme del presente decreto.
 
 ## Art. 9.
 

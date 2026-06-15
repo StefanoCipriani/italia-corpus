@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto l'[art. 83 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_83), che dispone il mantenimento dell'attuale disciplina per i parchi e le riserve naturali dello Stato esistenti fino all'entrata in vigore della legge nazionale prevista dallo stesso articolo;
+Visto l'[art. 83 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), che dispone il mantenimento dell'attuale disciplina per i parchi e le riserve naturali dello Stato esistenti fino all'entrata in vigore della legge nazionale prevista dallo stesso articolo;
 
 Ritenuta la straordinaria necessita' e l'urgenza di porre norme intese ad assicurare i necessari mezzi finanziari per la gestione dei suddetti parchi e riserve, la cui conservazione e tutela appare seriamente compromessa dall'assoluta insufficienza delle somme messe a disposizione degli enti gestori;
 

@@ -90,7 +90,7 @@ Per l'accertamento della sanita' del seme gia' preparato per la vendita, i funzi
 
 Le spose per l'accertamento del seme sono a carico della Ditta preparatrice ogni volta che la infezione risulti accertata. 
  
- Nel caso in cui il seme non risulti infetto, le spese suddette faranno carico sui fondi di cui e' parola all'[art. 2 della legge 6 luglio 1912, n. 869](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;869#art_2), concernente provvedimenti per la produzione e l'industria serica.
+ Nel caso in cui il seme non risulti infetto, le spese suddette faranno carico sui fondi di cui e' parola all'[art. 2 della legge 6 luglio 1912, n. 869](Per%20provvedimenti%20sulla%20produzione%20e%20la%20industria%20serica.%20012U0869.md), concernente provvedimenti per la produzione e l'industria serica.
 
 ## Art. 14.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono richiamate e tenute ferme le disposizioni dell'[art. 3 del R. decreto 5 maggio 1916, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1916-05-05;505#art_3), e dell'[art. 1 del decreto Luogotenenziale 24 dicembre 1916, n. 1811](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-24;1811#art_1), in virtu' delle quali agli acquirenti di buoni quinquennali e triennali 5 % e' concesso rispettivamente un abbuono di L. 1,50 e L. 0,75 per ogni cento lire di capitale nominale dei buoni.
+Sono richiamate e tenute ferme le disposizioni dell'[art. 3 del R. decreto 5 maggio 1916, n. 505](Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md), e dell'[art. 1 del decreto Luogotenenziale 24 dicembre 1916, n. 1811](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-24;1811#art_1), in virtu' delle quali agli acquirenti di buoni quinquennali e triennali 5 % e' concesso rispettivamente un abbuono di L. 1,50 e L. 0,75 per ogni cento lire di capitale nominale dei buoni.
 
 ## Art. 2.
 

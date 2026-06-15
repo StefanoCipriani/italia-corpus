@@ -380,7 +380,7 @@ Davanti le Commissioni arbitrali di prima istanza e davanti la Commissione centr
  
  Le Commissioni, ricevuto il ricorso, provvedono esse stesse, in quanto occorre, a tutti gli atti di istruzione della causa. 
  
- Per il procedimento si osserveranno le disposizioni della [legge 15 giugno 1893, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-15;295), e del [regolamento 26 aprile 1894, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1894-04-26;179), sui Collegi di probiviri, in quanto siano applicabili, e le ulteriori norme procedurali che saranno stabilite dal regolamento. 
+ Per il procedimento si osserveranno le disposizioni della [legge 15 giugno 1893, n. 295](Sulla%20istituzione%20dei%20Collegi%20di%20probi-viri.%20093U0295.md), e del [regolamento 26 aprile 1894, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1894-04-26;179), sui Collegi di probiviri, in quanto siano applicabili, e le ulteriori norme procedurali che saranno stabilite dal regolamento. 
  
  Tutti gli atti del procedimento avanti le Commissioni e tutti i provvedimenti di qualunque natura dalle Commissioni stesse emanati, sono esenti da tassa di bollo e di registro. 
  
@@ -451,7 +451,7 @@ A favore della Cassa nazionale per le assicurazioni sociali e' assegnata sul bil
  
  L'annualita' a carico dello Stato sara' stabilita in misura costante per periodi decennali. 
  
- Sono abrogate le disposizioni dell'art. 9 della legge ([testo unico) 30 maggio 1907, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1907-05-30;376); per quanto riguarda le assegnazioni alla Cassa di cui alle lettere a), b) e c) del citato articolo, e quelle dell'ultimo comma dell'[art. 14 della legge 4 aprile 1912, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-04-04;305#art_14); le somme ivi indicate saranno acquisite al tesoro dello Stato.
+ Sono abrogate le disposizioni dell'art. 9 della legge ([testo unico) 30 maggio 1907, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1907-05-30;376); per quanto riguarda le assegnazioni alla Cassa di cui alle lettere a), b) e c) del citato articolo, e quelle dell'ultimo comma dell'[art. 14 della legge 4 aprile 1912, n. 305](Che%20reca%20provvedimenti%20per%20lesercizio%20delle%20assicurazioni%20sulla%20durata%20della%20vita%20umana%20da%20parte%20di%20un%20Istituto%20nazionale%20di%20assicurazioni.%20012U0305.md); le somme ivi indicate saranno acquisite al tesoro dello Stato.
 
 ## Disposizioni transitorie.
 
@@ -526,7 +526,7 @@ Presso il Ministero per l'industria, il commercio e il lavoro e' istituito, seco
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 15 agosto 1919, n. 1549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-15;1549), convertito senza modificazioni dalla [L. 15 ottobre 1923, n. 2293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-10-15;2293), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 15 agosto 1919, n. 1549](Che%20proroga%20il%20termine%20fissato%20dallart.%2041%20del%20decreto-legge%2021%20aprile%201919%20n.%20603%20circa%20la%20costituzione%20dellUfficio%20tecnico%20attuariale%20presso%20il%20Ministero%20dellindustria%20commercio%20e%20lavoro.%20019U1549.md), convertito senza modificazioni dalla [L. 15 ottobre 1923, n. 2293](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20decreti%20Regi%20e%20Luogotenenziali%20aventi%20per%20oggetto%20argomenti%20gia%20superati%20per%20il%20tempo%20o%20per%20il%20contenuto.%20023U2293.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 42.
 

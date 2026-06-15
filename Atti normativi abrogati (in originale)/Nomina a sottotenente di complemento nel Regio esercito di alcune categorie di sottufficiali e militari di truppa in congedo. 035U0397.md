@@ -22,9 +22,9 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'[art. 2 della legge 27 giugno 1929, n. 1185](Nomina%20a%20sottotenente%20di%20complemento%20nel%20Regio%20esercito%20di%20un%20gruppo%20di%20sottufficiali%20e%20militari%20di%20truppa.%20029U1185.md), quale risulta modificato dal [R. decreto-legge 5 luglio 1934, n. 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1200), e' sostituito dal seguente: 
+ L'[art. 2 della legge 27 giugno 1929, n. 1185](Nomina%20a%20sottotenente%20di%20complemento%20nel%20Regio%20esercito%20di%20un%20gruppo%20di%20sottufficiali%20e%20militari%20di%20truppa.%20029U1185.md), quale risulta modificato dal [R. decreto-legge 5 luglio 1934, n. 1200](Modificazione%20allart.%202%20della%20legge%2027%20giugno%201929%20n.%201185%20recante%20norme%20per%20la%20nomina%20a%20sottotenente%20di%20complemento%20nel%20Regio%20esercito%20di%20un%20gruppo%20di%20sottufficiali%20e%20militari%20di%20truppa.%20034U1200.md), e' sostituito dal seguente: 
  
- « Le disposizioni relative alla nomina a sottotenente di' complemento di cui al [R. decreto-legge 26 luglio 1927, numero 1743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-26;1743), sono applicabili anche alle seguenti categorie di militari di truppa e sottufficiali, i quali pero' non possono essere nominati che sottotenenti di complemento nell'arma di fanteria: 
+ « Le disposizioni relative alla nomina a sottotenente di' complemento di cui al [R. decreto-legge 26 luglio 1927, numero 1743](Modificazioni%20ed%20aggiunte%20alle%20leggi%20concernenti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20del%20Regio%20esercito%20e%20lo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della_41d4b83b74a4.md), sono applicabili anche alle seguenti categorie di militari di truppa e sottufficiali, i quali pero' non possono essere nominati che sottotenenti di complemento nell'arma di fanteria: 
  
  a) militari di truppa e sottufficiali dei carabinieri Reali che non abbiano i requisiti speciali per essere nominati sottotenenti di complemento nell'arma di provenienza; 
  

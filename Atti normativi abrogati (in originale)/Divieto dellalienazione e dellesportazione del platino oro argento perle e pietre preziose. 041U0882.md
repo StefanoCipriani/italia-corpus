@@ -36,7 +36,7 @@ Chiunque viola i divieti di cui al comma 1° dell'articolo precedente e' punito 
  
  Se il fatto e' commesso nell'esercizio del commercio, dell'industria o della professione, la reclusione e' da tre a quindici anni e la multa da lire diecimila a lire centomila. 
  
- In tutti i casi e' ordinata la confisca, a termini dell'[art. 240 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240). Essa e' obbligatoria anche nelle ipotesi prevedute nel comma primo dello stesso articolo. 
+ In tutti i casi e' ordinata la confisca, a termini dell'[art. 240 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Essa e' obbligatoria anche nelle ipotesi prevedute nel comma primo dello stesso articolo. 
  
  La cognizione del delitto preveduto in questo articolo e' di competenza del tribunale anche nell'ipotesi di cui al comma secondo.
 

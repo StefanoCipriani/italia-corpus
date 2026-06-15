@@ -31,7 +31,7 @@ tiche a indirizzo marinaro. maschili (ruolo c).
 
 ## Art. 2.
 
-Gli insegnanti collocati nei ruoli speciali transitori ai sensi dell'[articolo 20 della legge 28 luglio 1961, n. 831](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-28;831#art_20), per l'insegnamento di stenografia, dattilografia e calligrafia nelle scuole secondarie di avviamento professionale sono iscritti d'ufficio in corrispondenti ruoli transitori ordinari, ferme restando le posizioni acquisite ai sensi degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-11-15;2064#art_12) e [13 del decreto del Presidente della Repubblica 15 novembre 1963, n. 2064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-11-15;2064#art_13), e successive modificazioni.
+Gli insegnanti collocati nei ruoli speciali transitori ai sensi dell'[articolo 20 della legge 28 luglio 1961, n. 831](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-28;831#art_20), per l'insegnamento di stenografia, dattilografia e calligrafia nelle scuole secondarie di avviamento professionale sono iscritti d'ufficio in corrispondenti ruoli transitori ordinari, ferme restando le posizioni acquisite ai sensi degli [articoli 12](../DPR/Norme%20di%20attuazione%20degli%20articoli%2017%20e%2018%20della%20legge%2031%20dicembre%201962%20n.%201859%20istitutiva%20della%20scuola%20media%20statale.md) e [13 del decreto del Presidente della Repubblica 15 novembre 1963, n. 2064](../DPR/Norme%20di%20attuazione%20degli%20articoli%2017%20e%2018%20della%20legge%2031%20dicembre%201962%20n.%201859%20istitutiva%20della%20scuola%20media%20statale.md), e successive modificazioni.
 
 ## Art. 3.
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'imposta per i trasferimenti a titolo oneroso e per i conferimenti in societa' di beni immobili o di altri diritti immobiliari, stabilita dagli articoli 1 e 81, lettera c), e da quelli che vi fanno richiamo, della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3269), e successive modificazioni, e' dovuta nella misura seguente:
+L'imposta per i trasferimenti a titolo oneroso e per i conferimenti in societa' di beni immobili o di altri diritti immobiliari, stabilita dagli articoli 1 e 81, lettera c), e da quelli che vi fanno richiamo, della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e successive modificazioni, e' dovuta nella misura seguente:
 a) per i trasferimenti immobiliari di qualsiasi valore lire 7,50
 per ogni cento lire;
  b) se il trasferimento avvenga entro tre anni da altro trasferimento a titolo oneroso dello stesso immobile o diritto immobiliare sul quale sia pagata l'imposta normale di passaggio: la stessa imposta di cui alla lettera a) ridotta di un quarto, fine a concorrenza del valore tassato nel precedente trasferimento;

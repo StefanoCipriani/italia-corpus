@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [Regio decreto 15 agosto 1871, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1871-08-15;470) (Serie 2ª), il quale istituisce in Savona una scuola professionale;
+Visto il [Regio decreto 15 agosto 1871, n. 470](Che%20istituisce%20presso%20lIstituto%20degli%20Artigianelli%20in%20Savona%20una%20Scuola%20professionale%20pei%20giovani%20che%20vogliono%20prepararsi%20ad%20esercitare%20le%20arti%20della%20ceramica%20e%20dellebanisteria.%20071U0470.md) (Serie 2ª), il quale istituisce in Savona una scuola professionale;
 
 Viste le deliberazioni prese dal Consiglio di perfezionamento di detta scuola nelle sedute del 22 febbraio, e 30 giugno 1875;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro d'Agricoltura, Industria e Commercio, Abbiamo decret
 
 ## Art. 1.
 
-All'[articolo 7 del Regio decreto 15 agosto 1871, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1871-08-15;470#art_7) e' aggiunto il seguente comma: 
+All'[articolo 7 del Regio decreto 15 agosto 1871, n. 470](Che%20istituisce%20presso%20lIstituto%20degli%20Artigianelli%20in%20Savona%20una%20Scuola%20professionale%20pei%20giovani%20che%20vogliono%20prepararsi%20ad%20esercitare%20le%20arti%20della%20ceramica%20e%20dellebanisteria.%20071U0470.md) e' aggiunto il seguente comma: 
  
  La rinnovazione del Consiglio di perfezionamento si fa per sorteggio di due membri in ciascuno dei due primi anni, gli altri tre cessano dall'ufficio nel terzo anno. Negli anni successivi la rinnovazione si fa per anzianita'.
 

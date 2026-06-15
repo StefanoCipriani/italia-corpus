@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 28 gennaio 1915, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-28;49), che conferisce allo Stato la facolta' di espropriare diritti di privativa od usare delle invenzioni nello interesse della difesa nazionale; 
+ Visto il [R. decreto 28 gennaio 1915, n. 49](Col%20quale%20e%20concessa%20allo%20Stato%20nellinteresse%20della%20difesa%20nazionale%20e%20pel%20solo%20uso%20militare%20la%20espropriazione%20in%20tutto%20o%20in%20parte%20dei%20diritti%20di%20privativa.%20015U0049.md), che conferisce allo Stato la facolta' di espropriare diritti di privativa od usare delle invenzioni nello interesse della difesa nazionale; 
  
  Udito il Consiglio dei ministri; 
  

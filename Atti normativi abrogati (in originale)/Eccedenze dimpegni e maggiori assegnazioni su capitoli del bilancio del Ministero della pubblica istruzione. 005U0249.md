@@ -29,7 +29,7 @@ E' approvata la maggiore assegnazione di L. 2,591, inscritta al cap. n. 187-novi
 
 E' approvata la maggiore assegnazione di L. 4400, inscritta al cap.
 n. 187-decies: «Eccedenza d'impegni verificatasi al cap. n. 27 - RR.
-Universita' ed altri istituti universitari - Personale (spese fisse) - Stipendi, assegni e retribuzioni per incarichi e supplenze a posti vacanti - Assegni e compensi al personale straordinario; indennita' e retribuzioni per eventuali servizi straordinari - Propine in supplemento della sopratassa di esame ([R. decreto 26 ottobre 1890, n. 7337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-10-26;7337), serie 3ª) - dello stato di previsione della spesa per gli esercizi 1902-903 e retro», per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero della pubblica istruzione nell'esercizio finanziario 1903-904.
+Universita' ed altri istituti universitari - Personale (spese fisse) - Stipendi, assegni e retribuzioni per incarichi e supplenze a posti vacanti - Assegni e compensi al personale straordinario; indennita' e retribuzioni per eventuali servizi straordinari - Propine in supplemento della sopratassa di esame ([R. decreto 26 ottobre 1890, n. 7337](Che%20approva%20lannesso%20regolamento%20universitario.%20090U7337.md), serie 3ª) - dello stato di previsione della spesa per gli esercizi 1902-903 e retro», per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero della pubblica istruzione nell'esercizio finanziario 1903-904.
 
 ## Art. 6.
 

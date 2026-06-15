@@ -14,7 +14,7 @@ E' abrogato il decreto Governatoriale del 10 ottobre 1911.
 
 ## Art. 2.
 
-Il dazio doganale dell'uno per cento ad valorem stabilito con l'[art. 2 del R. decreto 8 maggio 1913 n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-05-08;413#art_2), e' imposto anche sugli animali bovini ed ovini esportati dalla Tripolitania.
+Il dazio doganale dell'uno per cento ad valorem stabilito con l'[art. 2 del R. decreto 8 maggio 1913 n. 413](Col%20quale%20revocandosi%20le%20disposizioni%20che%20vietavano%20lesportazione%20dei%20quadrupedi%20dalla%20Cirenaica%20viene%20imposto%20un%20dazio%20doganale%20agli%20animali%20bovini%20ed%20ovini%20esportati%20dalla%20Cirenaica%20stessa.%20013U0413.md), e' imposto anche sugli animali bovini ed ovini esportati dalla Tripolitania.
 
 ## Art. 3.
 

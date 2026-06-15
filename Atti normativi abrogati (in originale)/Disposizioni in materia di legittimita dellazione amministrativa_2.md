@@ -84,7 +84,7 @@ Il procuratore generale coordina l'attivita' dei procuratori regionali e, questi
 
 4.
 
-Fermo restando quanto stabilito dall'[articolo 16, comma 3, del decreto-legge 13 maggio 1991, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;152#art_16-com3), convertito, con modificazioni, dalla [legge 12 luglio 1991, n. 203, e dall'articolo 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203#art_74) del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), la Corte dei conti, per l'esercizio delle sue attribuzioni, puo' altresi' delegare adempimenti istruttori a funzionari delle pubbliche amministrazioni e avvalersi di consulenti tecnici, nel rispetto delle disposizioni di cui all'[articolo 73 del decreto legislativo 28 luglio 1989, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;271#art_73).
+Fermo restando quanto stabilito dall'[articolo 16, comma 3, del decreto-legge 13 maggio 1991, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;152#art_16-com3), convertito, con modificazioni, dalla [legge 12 luglio 1991, n. 203, e dall'articolo 74](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md) del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), la Corte dei conti, per l'esercizio delle sue attribuzioni, puo' altresi' delegare adempimenti istruttori a funzionari delle pubbliche amministrazioni e avvalersi di consulenti tecnici, nel rispetto delle disposizioni di cui all'[articolo 73 del decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md).
 
 ## Art. 3. — Azione di responsabilita'
 
@@ -108,7 +108,7 @@ La Corte dei conti giudica sulla responsabilita' amministrativa degli amministra
 
 1.
 
-Decorsi cinque anni dal deposito del conto effettuato a norma dell'[articolo 27 del regio decreto 13 agosto 1933, n. 1038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-13;1038#art_27), senza che sia stata depositata presso la segreteria della sezione la relazione prevista dall'articolo 29 dello stesso decreto o siano state elevate contestazioni a carico del tesoriere o del contabile da parte dell'amministrazione, degli organi di controllo o del procuratore regionale, il giudizio sul conto si estingue, ferma restando l'eventuale responsabilita' amministrativa e contabile a carico dell'agente contabile; il conto stesso e la relativa documentazione vengono restituiti alla competente amministrazione.
+Decorsi cinque anni dal deposito del conto effettuato a norma dell'[articolo 27 del regio decreto 13 agosto 1933, n. 1038](Approvazione%20del%20regolamento%20di%20procedura%20per%20i%20giudizi%20innanzi%20alla%20Corte%20dei%20conti.%20033U1038.md), senza che sia stata depositata presso la segreteria della sezione la relazione prevista dall'articolo 29 dello stesso decreto o siano state elevate contestazioni a carico del tesoriere o del contabile da parte dell'amministrazione, degli organi di controllo o del procuratore regionale, il giudizio sul conto si estingue, ferma restando l'eventuale responsabilita' amministrativa e contabile a carico dell'agente contabile; il conto stesso e la relativa documentazione vengono restituiti alla competente amministrazione.
 
 ## Art. 5. — Giudizi di responsabilita'
 
@@ -155,7 +155,7 @@ Per il pagamento delle parcelle dovute ai consulenti tecnici si applica la proce
 8.
 
 Il limite di somma di cui all'articolo 55 del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214, e all'articolo 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214#art_49) del [regio decreto 13 agosto 1933, n. 
-1038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-13;1038), e' elevato a L. 5.000.000 e puo' essere aggiornato, in relazione alle variazioni dell'indice ISTAT sul costo della vita, con decreto del Presidente del Consiglio dei Ministri, sentita la Corte dei conti.
+1038](Approvazione%20del%20regolamento%20di%20procedura%20per%20i%20giudizi%20innanzi%20alla%20Corte%20dei%20conti.%20033U1038.md), e' elevato a L. 5.000.000 e puo' essere aggiornato, in relazione alle variazioni dell'indice ISTAT sul costo della vita, con decreto del Presidente del Consiglio dei Ministri, sentita la Corte dei conti.
 
 ## Art. 6. — Giudizi in materia pensionistica
 
@@ -247,7 +247,7 @@ La Corte dei conti riferisce, almeno annualmente, al Parlamento ed ai consigli r
 
 8.
 
-Restano ferme, relativamente agli enti locali, le disposizioni di cui al [decreto-legge 22 dicembre 1981, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;786), convertito, con modificazioni, nella [legge 26 febbraio 1982, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-26;51), e successive modificazioni ed integrazioni, nonche', relativamente agli enti cui lo Stato contribuisce in via ordinaria, le disposizioni della [legge 21 marzo 1958, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259). Le relazioni della Corte contengono anche valutazioni sul funzionamento dei controlli interni.
+Restano ferme, relativamente agli enti locali, le disposizioni di cui al [decreto-legge 22 dicembre 1981, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;786), convertito, con modificazioni, nella [legge 26 febbraio 1982, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%201981%20n.%20786%20recante%20disposizioni%20in%20materia%20di%20finanza%20locale.md), e successive modificazioni ed integrazioni, nonche', relativamente agli enti cui lo Stato contribuisce in via ordinaria, le disposizioni della [legge 21 marzo 1958, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259). Le relazioni della Corte contengono anche valutazioni sul funzionamento dei controlli interni.
 
 9.
 
@@ -284,7 +284,7 @@ I servizi hanno accesso ai documenti amministrativi e possono richiedere, oralme
 
 4.
 
-I comitati provinciali delle pubbliche amministrazioni e i comitati metropolitani di cui all'[articolo 18 del decreto-legge 24 novembre 1990, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-11-24;344#art_18), convertito, con modificazioni, dalla [legge 23 gennaio 1991, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-23;21), e al decreto del Presidente del Consiglio dei Ministri 10 giugno 1992, si avvalgono dei servizi di controllo interno delle amministrazioni territoriali e periferiche.
+I comitati provinciali delle pubbliche amministrazioni e i comitati metropolitani di cui all'[articolo 18 del decreto-legge 24 novembre 1990, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-11-24;344#art_18), convertito, con modificazioni, dalla [legge 23 gennaio 1991, n. 21](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20novembre%201990%20n.%20344%20recante%20corresponsione%20ai%20pubblici%20dipendenti%20di%20acconti%20sui%20miglioramenti%20economici%20relativi%20al%20periodo%20c_a8fc84d974dd.md), e al decreto del Presidente del Consiglio dei Ministri 10 giugno 1992, si avvalgono dei servizi di controllo interno delle amministrazioni territoriali e periferiche.
 
 5.
 
@@ -308,7 +308,7 @@ All'onere derivante dall'attuazione del presente decreto, valutato in lire 4.160
 
 2.
 
-Il numero dei posti di dirigente di livello E previsti dal quadro E della tabella I annessa al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748), come sostituito dal quadro annesso alla [legge 7 agosto 1985, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-07;428), da ultimo integrato dall'articolo 1 del decreto del Presidente della Repubblica in data 30 novembre 1990, pubblicato nella Gazzetta Ufficiale n. 18 del 22 gennaio 1991, e' aumentato di ventinove unita'. Nella dotazione organica del personale appartenente all'ottava qualifica funzionale, profilo professionale "funzionario amministrativo contabile", determinata con decreto del Presidente del Consiglio dei Ministri in data 3 gennaio 1992, pubblicato nella Gazzetta Ufficiale n. 73 del 27 marzo 1992, sono soppresse 40 unita'.
+Il numero dei posti di dirigente di livello E previsti dal quadro E della tabella I annessa al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), come sostituito dal quadro annesso alla [legge 7 agosto 1985, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-07;428), da ultimo integrato dall'articolo 1 del decreto del Presidente della Repubblica in data 30 novembre 1990, pubblicato nella Gazzetta Ufficiale n. 18 del 22 gennaio 1991, e' aumentato di ventinove unita'. Nella dotazione organica del personale appartenente all'ottava qualifica funzionale, profilo professionale "funzionario amministrativo contabile", determinata con decreto del Presidente del Consiglio dei Ministri in data 3 gennaio 1992, pubblicato nella Gazzetta Ufficiale n. 73 del 27 marzo 1992, sono soppresse 40 unita'.
 
 3.
 

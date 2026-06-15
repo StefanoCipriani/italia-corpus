@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 15, primo ed ultimo comma, della legge costituzione 26 febbraio 1948, n. 5;
 
-Visto l'[art. 6 della legge 15 dicembre 1955, n. 1440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-12-15;1440#art_6), con la quale vengono dettate nuove norme sullo svolgimento degli esami di Stato per il conseguimento dell'abilitazione all'insegnamento medio;
+Visto l'[art. 6 della legge 15 dicembre 1955, n. 1440](Nuove%20norme%20per%20lo%20svolgimento%20degli%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale%20dellinsegnamento%20medio.md), con la quale vengono dettate nuove norme sullo svolgimento degli esami di Stato per il conseguimento dell'abilitazione all'insegnamento medio;
 
-Visto il [decreto del Presidente della Repubblica 29 aprile 1957, n. 972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-29;972), col quale viene approvato il regolamento per lo svolgimento degli esimi di Stato per l'abilitazione all'esercizio professionale dell'insegnamento medio;
+Visto il [decreto del Presidente della Repubblica 29 aprile 1957, n. 972](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20degli%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale%20dellinsegnamento%20medio.md), col quale viene approvato il regolamento per lo svolgimento degli esimi di Stato per l'abilitazione all'esercizio professionale dell'insegnamento medio;
 
-Considerata la necessita' di stabilire, ai sensi dei primo ed ultimo comma dell'[art. 15 della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_15), le modalita' per lo svolgimento degli esami di Stato, per l'abilitazione all'esercizio professionale per l'insegnamento medio nelle scuole secondarie con lingua d'insegnamento tedesca nella provincia di Bolzano;
+Considerata la necessita' di stabilire, ai sensi dei primo ed ultimo comma dell'[art. 15 della legge costituzionale 26 febbraio 1948, n. 5](../Leggi%20costituzionali/Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), le modalita' per lo svolgimento degli esami di Stato, per l'abilitazione all'esercizio professionale per l'insegnamento medio nelle scuole secondarie con lingua d'insegnamento tedesca nella provincia di Bolzano;
 
 Sentito il Consiglio superiore per la pubblica istruzione;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concetto con il Minis
 
 ## Art. 1.
 
-L'abilitazione all'insegnamento negli Istituti di istruzione secondaria con lingua d'insegnamento tedesca nella provincia di Bolzano si consegue mediante esame di Stato, in conformita' delle norme contenute nel regolamento approvato con [decreto del Presidente della Repubblica 29 aprile 1957, n. 972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-29;972), integrate dalle disposizioni contenute nel presente decreto.
+L'abilitazione all'insegnamento negli Istituti di istruzione secondaria con lingua d'insegnamento tedesca nella provincia di Bolzano si consegue mediante esame di Stato, in conformita' delle norme contenute nel regolamento approvato con [decreto del Presidente della Repubblica 29 aprile 1957, n. 972](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20degli%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale%20dellinsegnamento%20medio.md), integrate dalle disposizioni contenute nel presente decreto.
 
 ## Art. 2.
 
@@ -40,7 +40,7 @@ I predetti esami di Stato sono indetti con decreto del Ministro per la pubblica 
 
 ## Art. 4.
 
-Ad essi possono partecipare coloro che si trovino nelle condizioni previste dall'[art. 15 della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_15), e siano in possesso degli altri requisiti stabiliti dal [decreto del Presidente della Repubblica 29 aprile 1957, n. 972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-29;972), e dal presente decreto.
+Ad essi possono partecipare coloro che si trovino nelle condizioni previste dall'[art. 15 della legge costituzionale 26 febbraio 1948, n. 5](../Leggi%20costituzionali/Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), e siano in possesso degli altri requisiti stabiliti dal [decreto del Presidente della Repubblica 29 aprile 1957, n. 972](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20degli%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale%20dellinsegnamento%20medio.md), e dal presente decreto.
 
 ## Art. 5.
 
@@ -62,7 +62,7 @@ I candidati all'esame di Stato per l'abilitazione all'insegnamento della lingua 
 
 ## Art. 8.
 
-Le abilitazioni conseguite in base al presente decreto sono valide anche per l'insegnamento in tutte le scuole della Repubblica, limitatamente alle materie per le quali e' stato superato l'esame, secondo i programmi previsti dalle tabelle annesse al [decreto del Presidente della Repubblica 29 aprile 1957, n. 972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-29;972).
+Le abilitazioni conseguite in base al presente decreto sono valide anche per l'insegnamento in tutte le scuole della Repubblica, limitatamente alle materie per le quali e' stato superato l'esame, secondo i programmi previsti dalle tabelle annesse al [decreto del Presidente della Repubblica 29 aprile 1957, n. 972](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20degli%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale%20dellinsegnamento%20medio.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

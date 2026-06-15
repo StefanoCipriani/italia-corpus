@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto del Presidente della Repubblica 16 giugno 1959, n. 820](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-06-16;820);
+Visto il [decreto del Presidente della Repubblica 16 giugno 1959, n. 820](../DPR/Determinazione%20degli%20oneri%20per%20lassistenza%20di%20malattia%20ai%20pensionati%20per%20gli%20anni%201955%201956%20e%201957%20ai%20sensi%20dellart.%205%20della%20legge%204%20agosto%201955%20n.%20692.md);
 
 Visto l'[art. 5, comma terzo, della legge 4 agosto 1955, n. 692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-08-04;692#art_5-com3);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-A decorrere dal periodo di paga corrente alla data del 1 gennaio 1958, il contributo dovuto al Fondo per le pensioni al personale addetto ai pubblici servizi di telefonia di cui alla [legge 30 settembre 1920, n. 1405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-09-30;1405), e successive modificazioni, e' maggiorato di un'aliquota pari allo 0,20 per cento delle retribuzioni imponibili ai fini della applicazione del contributo medesimo.
+A decorrere dal periodo di paga corrente alla data del 1 gennaio 1958, il contributo dovuto al Fondo per le pensioni al personale addetto ai pubblici servizi di telefonia di cui alla [legge 30 settembre 1920, n. 1405](Che%20istituisce%20una%20Commissione%20per%20la%20determinazione%20del%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20telefonia%20gestiti%20dallindustria%20privata.%20020U1405.md), e successive modificazioni, e' maggiorato di un'aliquota pari allo 0,20 per cento delle retribuzioni imponibili ai fini della applicazione del contributo medesimo.
 
 ## Art. 2.
 

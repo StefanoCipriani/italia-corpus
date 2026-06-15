@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), ed in particolare l'articolo 43, recante delega al Governo per l'attuazione delle [direttive del Consiglio 89/391/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;391), [89/654/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;654), [89/655/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;655), [89/656/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;656), [90/269/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;269), [90/270/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;270), [90/394/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;394) e [90/679/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;679) in materia di sicurezza e salute dei lavoratori durante il lavoro;
 
-Vista la [legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146), recante proroga del termine della delega legislativa contemplata dall'art. 43 della citata [legge n. 142 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;142), nonche' delega al Governo per l'attuazione delle direttive particolari gia' adottate, ai sensi dell'[art. 16, paragrafo 1, della direttiva 89/391/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;391), successivamente alla medesima [legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md);
+Vista la [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), recante proroga del termine della delega legislativa contemplata dall'art. 43 della citata [legge n. 142 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;142), nonche' delega al Governo per l'attuazione delle direttive particolari gia' adottate, ai sensi dell'[art. 16, paragrafo 1, della direttiva 89/391/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;391), successivamente alla medesima [legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 luglio 1994;
 
@@ -49,7 +49,7 @@ Nei riguardi dei lavoratori di cui alla [legge 18 dicembre 1973, n. 877](https:/
 Le disposizioni di cui al presente decreto si applicano nelle regioni a statuto speciale e nelle province autonome di Trento e Bolzano compatibilmente con i rispettivi statuti e relative norme di attuazione.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [d.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [d.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
@@ -533,7 +533,7 @@ Il datore di lavoro deve, salvo eccezioni debitamente motivate, astenersi dal ch
 
 1.
 
-Fermo restando quanto previsto dal [decreto del Presidente della Repubblica 29 luglio 1982, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-29;577), i Ministri dell'interno, del lavoro e della previdenza sociale, in relazione al tipo di attivita', al numero dei lavoratori occupati ed ai fattori di rischio, adottano uno o piu' decreti nei quali sono definiti:
+Fermo restando quanto previsto dal [decreto del Presidente della Repubblica 29 luglio 1982, n. 577](../DPR/Approvazione%20del%20regolamento%20concernente%20lespletamento%20dei%20servizi%20di%20prevenzione%20e%20di%20vigilanza%20antincendi.md), i Ministri dell'interno, del lavoro e della previdenza sociale, in relazione al tipo di attivita', al numero dei lavoratori occupati ed ai fattori di rischio, adottano uno o piu' decreti nei quali sono definiti:
                             a)
                                 i criteri diretti ad individuare: 
  1) misure intese ad evitare l'insorgere di un incendio e a limitarne le conseguenze qualora esso si verifichi; 
@@ -762,7 +762,7 @@ Sono fatti salvi, ai fini del comma 1, gli organismi bilaterali o partecipativi 
 Agli effetti dell'[art. 10 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), gli organismi di cui al comma 1 sono parificati alla rappresentanza indicata nel medesimo articolo.
 
 Nota all'[art. 20:
- - Il D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29#art_20) reca razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992 n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2).
+ - Il D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29#art_20) reca razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992 n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md).
  L'art. 10 cosi' recita:
  "Art. 10 (Partecipazione sindacale). - 1. Le amministrazioni pubbliche informano le rappresentanze sindacali sulla qualita' dell'ambiente di lavoro e sulle misure inerenti alla gestione dei rapporti di lavoro; su loro richiesta, nei casi previsti dal presente decreto, le incontrano per l'esame delle predette materie, ferme restando l'autonoma determinazione definitiva e la responsabilita' dei dirigenti nelle stesse materie.
  2. L'eventuale eame previsto dal comma 1 deve espletarsi nel termine tassativo di quindici giorni dalla ricezione dell'informazione, ovvero entro un termine piu' breve per motivi di urgenza; decorsi tali termini le amministrazioni pubbliche assumono le proprie autonome determinazioni".
@@ -1002,7 +1002,7 @@ L'INAIL e l'ISPESL si forniscono reciprocamente i dati relativi agli infortuni e
 
 2.
 
-L'ISPESL e L'INAIL indicono una conferenza permanente di servizio per assicurare il necessario coordinamento in relazione a quanto previsto dall'[art. 8, comma 3, del decreto legislativo 7 dicembre 1993, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517#art_8-com3), nonche' per verificare l'adeguatezza dei sistemi di prevenzione ed assicurativi, e per studiare e proporre soluzioni normative e tecniche atte a ridurre il fenomeno degli infortuni e delle malattie professionali.
+L'ISPESL e L'INAIL indicono una conferenza permanente di servizio per assicurare il necessario coordinamento in relazione a quanto previsto dall'[art. 8, comma 3, del decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), nonche' per verificare l'adeguatezza dei sistemi di prevenzione ed assicurativi, e per studiare e proporre soluzioni normative e tecniche atte a ridurre il fenomeno degli infortuni e delle malattie professionali.
 
 3.
 
@@ -1017,7 +1017,7 @@ Con decreto del Ministro del lavoro e della previdenza sociale e del Ministro de
 I criteri per la raccolta e l'elaborazione delle informazioni relative ai rischi e ai danni derivanti dalle malattie professionali, nonche' ad altre malattie e forme patologiche eziologicamente collegate al lavoro, sono individuati con decreto del Ministro del lavoro e della previdenza sociale e del Ministro della sanita', sentita la commissione consultiva permanente, sulla base delle norme di buona tecnica.
 
 Nota all'[art. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;517#art_29):
- - L'[art. 8 del D.Lgs. n 517/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;517#art_8) sostituisce l'[art. 7 del D.Lgs. 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_7), recante riordino della disciplina in materia sanitaria, con il seguente:
+ - L'[art. 8 del D.Lgs. n 517/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;517#art_8) sostituisce l'[art. 7 del D.Lgs. 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), recante riordino della disciplina in materia sanitaria, con il seguente:
  "Art. 7 (Dipartimenti di prevenzione). - 1. Le regioni istituiscono presso ciascuna unita' sanitaria locale un dipartimento di prevenzione cui sono attribuite le funzioni attualmente svolte dai servizi delle unita' sanitarie locali ai sensi degli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_16), [20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_20) e [21 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_21). Il dipartimento e' articolato almeno nei seguenti servizi:
  a) igiene e sanita' pubblica;
  b) prevenzione e sicurezza degli ambienti di lavoro;
@@ -1154,17 +1154,17 @@ L'[art. 8 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](No
 
 4.
 
-L'intestazione del titolo II del [decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303), e' sostituita dalla seguente: 
+L'intestazione del titolo II del [decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), e' sostituita dalla seguente: 
  "Titolo II 
  DISPOSlZIONI PARTICOLARI".
 
 5.
 
-Nell'[art. 6, primo comma, del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_6-com1), dopo le parole "da destinarsi al lavoro nelle aziende" e' soppressa la parola "industriali".
+Nell'[art. 6, primo comma, del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), dopo le parole "da destinarsi al lavoro nelle aziende" e' soppressa la parola "industriali".
 
 6.
 
-L'[art. 9 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_9), e' sostituito dal seguente: 
+L'[art. 9 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), e' sostituito dal seguente: 
  "Art. 9 (Aerazione dei luoghi di lavoro chiusi). - 
  1. Nei luoghi di lavoro chiusi, e' necessario far si' che tenendo conto dei metodi di lavoro e degli sforzi fisici ai quali sono sottoposti i lavoratori, essi dispongano di aria salubre in quantita' sufficiente. 
  2. Se viene utilizzato un impianto di aerazione, esso deve essere sempre mantenuto funzionante. Ogni eventuale guasto deve essere segnalato da un sistema di controllo, quando cio' e' necessario per salvaguardare la salute dei lavoratori. 
@@ -1173,7 +1173,7 @@ L'[art. 9 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](htt
 
 7.
 
-L'[art. 11 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_11), e' sostituito dal seguente: 
+L'[art. 11 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), e' sostituito dal seguente: 
  "Art. 11 (Temperatura dei locali). - 1. La temperatura nei locali di lavoro deve essere adeguata all'organismo umano durante il tempo di lavoro, tenuto conto dei metodi di lavoro applicati e degli sforzi fisici imposti ai lavoratori. 
  2. Nel giudizio sulla temperatura adeguata per i lavoratori si deve tener conto della influenza che possono esercitare sopra di essa il grado di umidita' ed il movimento dell'aria concomitanti. 
  3. La temperatura dei locali di riposo, dei locali per il personale di sorveglianza, dei servizi igienici, delle mense e dei locali di pronto soccorso deve essere conforme alla destinazione specifica di questi locali. 
@@ -1182,7 +1182,7 @@ L'[art. 11 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](ht
 
 8.
 
-L'[art. 10 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_10), e' sostituito dal seguente: 
+L'[art. 10 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), e' sostituito dal seguente: 
  "Art. 10 (Illuminazione naturale ed artificiale dei luoghi di lavoro). - 1. I luoghi di lavoro devono disporre di sufficiente luce naturale ed essere dotati di dispositivi che consentono un'illuminazione artificiale adeguata per salvaguardare la sicurezza, la salute e il benessere di lavoratori. 
  2. Gli impianti di illuminazione dei locali di lavoro e delle vie di circolazione devono essere installati in modo che il tipo d'illuminazione previsto non rappresenta un rischio di infortunio per i lavoratori. 
  3. I luoghi di lavoro nei quali i lavoratori sono particolarmente esposti a rischi in caso di guasto dell'illuminazione artificiale, devono disporre di un'illuminazione di sicurezza di sufficiente intensita'. 
@@ -1190,7 +1190,7 @@ L'[art. 10 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](ht
 
 9.
 
-L'[art. 7 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_7), e' sostituito dal seguente: 
+L'[art. 7 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), e' sostituito dal seguente: 
  "Art. 7 (Pavimenti, muri, soffitti, finestre e lucernari dei locali scale e marciapiedi mobili, banchina e rampe di carico). - 1. A meno che non sia richiesto diversamente dalle necessita' della lavorazione, e' vietato adibire a lavori continuativi i locali chiusi i che non rispondono alle seguenti condizioni: 
  a) essere ben difesi contro gli agenti atmosferici, e provvisti di un isolamento termico sufficiente, tenuto conto del tipo di impresa e dell'attivita' fisica dei lavoratori; 
  b) avere aperture sufficienti per un rapido ricambio d'aria; 
@@ -1211,7 +1211,7 @@ L'[art. 7 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](htt
 
 10.
 
-L'[art. 14 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_14), e' sostituito dal seguente: 
+L'[art. 14 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), e' sostituito dal seguente: 
  "Art. 14 (Locali di riposo). - 1. Quando la sicurezza e la salute dei lavoratori, segnatamente a causa del tipo di attivita', lo richiedono, i lavoratori devono poter disporre di un locale di riposo facilmente accessibile. 
  2. La disposizione di cui al comma 1 non si applica quando il personale lavora in uffici o in analoghi locali di lavoro che offrono equivalenti possibilita' di riposo durante la pausa. 
  3. I locali di riposo devono avere dimensioni sufficienti ed essere dotati di un numero di tavoli e sedili con schienale in funzione del numero dei lavoratori. 
@@ -1222,7 +1222,7 @@ L'[art. 14 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](ht
 
 11.
 
-L'[art. 40 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_40), e' sostituito dal seguente: 
+L'[art. 40 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), e' sostituito dal seguente: 
  "Art. 40 (Spogliatoi e armadi per il vestiario). - 1. Locali appositamente destinati a spogliatoi devono essere messi a disposizione dei lavoratori quando questi devono indossare indumenti di lavoro specifici e quando per ragioni di salute o di decenza non si puo' loro chiedere di cambiarsi in altri locali. 
  2. Gli spogliatoi devono essere distinti fra i due sessi e convenientemente arredati. 
  3. I locali destinati a spogliatoio devono avere una capacita' sufficiente, essere possibilmente vicini ai locali di lavoro aerati, illuminati, ben difesi dalle intemperie, riscaldati durante la stagione fredda e muniti di sedili. 
@@ -1232,7 +1232,7 @@ L'[art. 40 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](ht
 
 12.
 
-Gli [articoli 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_37) e [39 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_39), sono sostituiti dai seguenti: 
+Gli [articoli 37](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md) e [39 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), sono sostituiti dai seguenti: 
  "Art. 37 (Docce e lavabi). - 1. Docce sufficienti ed appropriate devono essere messe a disposizione dei lavoratori quando il tipo di attivita' o la salubrita' lo esigono. 
  2. Devono essere previsti locali per le docce separati per uomini e donne o un'utilizzazione separata degli stessi. Le docce o i lavabi e gli spogliatoi devono comunque facilmente comunicare tra loro. 
  3. I locali delle docce devono avere dimensioni sufficienti per permettere a ciascun lavoratore di rivestirsi senza impacci e in condizioni appropriate di igiene. 
@@ -1277,7 +1277,7 @@ Note all'[art. 33:
  L'Ispettorato del lavoro puo' prescrivere l'adozione di aperture e di scale di sicurezza, quando possano verificarsi particolari esigenze di rapida uscita delle persone".
  "Art. 14. - I locali di lavoro e quelli adibiti a deposito devono essere provvisti di porte di uscita, che abbiano la larghezza di almeno m. 1,10 e che siano in numero non inferiore ad una per ogni 50 lavoratori normalmente ivi occupati o frazione compresa fra 10 e 50.
  Il numero delle porte puo' anche essere minore, purche' la loro larghezza complessiva non risulti inferiore".
- - Il [D.P.R. 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303), reca norme generali per l'igiene del lavoro. Il titolo II era cosi' formulato: "Titolo II - Disposizioni relative alle aziende industriali e commerciali".
+ - Il [D.P.R. 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), reca norme generali per l'igiene del lavoro. Il titolo II era cosi' formulato: "Titolo II - Disposizioni relative alle aziende industriali e commerciali".
  L'art. 6, come modificato dal presente decreto, cosi' recita:
  "Art. 6 (Altezza, cubatura e superficie). - I limiti minimi per l'altezza, cubatura e superficie dei locali chiusi destinati o da destinare al lavoro nelle aziende che occupano piu' di 5 lavoratori, ed in ogni caso in quelle che eseguono lavorazioni indicate nell'art. 33, devono essere i seguenti:
  a) altezza netta non inferiore a m. 3;
@@ -2044,7 +2044,7 @@ L'informazione e la formazione di cui ai commi 1 e 2 sono fornite prima che i la
 
 4.
 
-Il datore di lavoro provvede inoltre affinche' gli impianti, i contenitori, gli imballaggi contenenti agenti cancerogeni siano etichettati in maniera chiaramente leggibile e comprensibile. I contrassegni utilizzati e le altre indicazioni devono essere conformi al disposto della [legge 29 maggio 1974, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-05-29;256), e successive modifiche ed integrazioni.
+Il datore di lavoro provvede inoltre affinche' gli impianti, i contenitori, gli imballaggi contenenti agenti cancerogeni siano etichettati in maniera chiaramente leggibile e comprensibile. I contrassegni utilizzati e le altre indicazioni devono essere conformi al disposto della [legge 29 maggio 1974, n. 256](Classificazione%20e%20disciplina%20dellimballaggio%20e%20delletichettatura%20delle%20sostanze%20e%20dei%20preparati%20pericolosi.md), e successive modifiche ed integrazioni.
 
 Nota all'[art. 66:
  - La legge n. 256/1974](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974;256#art_66) reca classificazione e disciplina dell'imballaggio e dell'etichettatura delle sostanze e dei preparati pericolosi.

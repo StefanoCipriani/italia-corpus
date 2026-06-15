@@ -20,7 +20,7 @@ Sulla proposta del nostro Ministro segretario di Stato per l'industria e il comm
 
 ## Art. 1.
 
-Il commissario di cui al Nostro decreto 4 marzo. 1923, n. 481, e' autorizzato ad alienare, anche in deroga delle vigenti disposizioni, i beni e i diritti dei sudditi ex-nemici devoluti al Demanio dello Stato in virtu' dell'[articolo 1 del R. decreto 10 aprile 1921, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-04-10;470#art_1) e dell'articolo 17 del. [R. decreto 22 dicembre 1921, n. 1962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-12-22;1962). 
+Il commissario di cui al Nostro decreto 4 marzo. 1923, n. 481, e' autorizzato ad alienare, anche in deroga delle vigenti disposizioni, i beni e i diritti dei sudditi ex-nemici devoluti al Demanio dello Stato in virtu' dell'[articolo 1 del R. decreto 10 aprile 1921, n. 470](Contenente%20norme%20per%20la%20devoluzione%20al%20Demanio%20dello%20Stato%20dei%20beni%20appartenenti%20allentrata%20in%20vigore%20dei%20Trattati%20di%20pace%20a%20sudditi%20della%20Germania%20o%20dellantico%20Impero%20dAustria.%20021U0470.md) e dell'articolo 17 del. [R. decreto 22 dicembre 1921, n. 1962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-12-22;1962). 
  
  E' parimenti autorizzato a consegnare i dotti beni ad Enti o a Societa' private perche' ne curino l'amministrazione o la vendita, determinando le clausole atte a garantire l'interesse dello Stato.
 

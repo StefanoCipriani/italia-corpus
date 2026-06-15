@@ -22,7 +22,7 @@ UMBERTO I
  
  Articolo unico. 
  
- E' convertito in legge il [Regio decreto del 27 settembre 1896 n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-09-27;424), col quale fu mantenuto in vigore, dal giorno 29 dello stesso mese di settembre e fino a nuova disposizione, il regime doganale riflettente le merci provenienti dalla Tunisia e quelle italiane ivi destinate. 
+ E' convertito in legge il [Regio decreto del 27 settembre 1896 n. 424](Sul%20regime%20doganale%20concernente%20le%20merci%20provenienti%20dalla%20Tunisia%20e%20quelle%20italiane%20ivi%20destinate.%20096U0424.md), col quale fu mantenuto in vigore, dal giorno 29 dello stesso mese di settembre e fino a nuova disposizione, il regime doganale riflettente le merci provenienti dalla Tunisia e quelle italiane ivi destinate. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

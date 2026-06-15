@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 27 gennaio 1944, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;21), e il [regio decreto-legge 16 marzo 1944, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-16;90), relativi all'istituzione di un Alto Commissariato per la Sardegna;
+Visto il [regio decreto-legge 27 gennaio 1944, n. 21](Istituzione%20dellAlto%20Commissariato%20della%20Sardegna.%20044U0021.md), e il [regio decreto-legge 16 marzo 1944, n. 90](Norme%20integrative%20del%20R.%20decreto-legge%2027%20gennaio%201944%20n.%2021%20per%20la%20istituzione%20dellAlto%20Commissariato%20per%20la%20Sardegna.%20044U0090.md), relativi all'istituzione di un Alto Commissariato per la Sardegna;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;417), recante provvedimenti regionali per la Sardegna;
+Visto il [decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md), recante provvedimenti regionali per la Sardegna;
 
-Visto il [regio decreto legislativo 14 maggio 1946, n. 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-14;464), che modifica l'art. 36 del predetto [decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;417);
+Visto il [regio decreto legislativo 14 maggio 1946, n. 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-14;464), che modifica l'art. 36 del predetto [decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md);
 
-Visti gli articoli e 6 del [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visti gli articoli e 6 del [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

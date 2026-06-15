@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-30;1647), concernente l'attribuzione, al commissario speciale per l'Agro Pontino, dei poteri spettanti al prefetto per la tutela della sicurezza pubblica e, al capo dell'Ufficio di pubblica sicurezza di Littoria, dei poteri spettanti al questore. 
+ E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1647](Attribuzione%20al%20commissario%20speciale%20per%20lAgro%20Pontino%20di%20poteri%20spettanti%20al%20prefetto%20per%20la%20tutela%20della%20sicurezza%20pubblica%20e%20al%20capo%20dellufficio%20di%20pubblica%20sicurezza%20di%20Littoria%20dei%20p_163a79e9c753.md), concernente l'attribuzione, al commissario speciale per l'Agro Pontino, dei poteri spettanti al prefetto per la tutela della sicurezza pubblica e, al capo dell'Ufficio di pubblica sicurezza di Littoria, dei poteri spettanti al questore. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

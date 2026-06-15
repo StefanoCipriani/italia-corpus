@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Pei servizi del Ministero per l'agricoltura, e di quello per l'industria, il commercio e il lavoro, il Consiglio di amministrazione e di disciplina si compone dei funzionari dei due Ministeri che hanno diritto di appartenervi a norma dello art. 47 del testo unico delle leggi sullo stato degli impiegati civili, approvato col [R. decreto 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;693). 
+Pei servizi del Ministero per l'agricoltura, e di quello per l'industria, il commercio e il lavoro, il Consiglio di amministrazione e di disciplina si compone dei funzionari dei due Ministeri che hanno diritto di appartenervi a norma dello art. 47 del testo unico delle leggi sullo stato degli impiegati civili, approvato col [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md). 
  
  In ogni adunanza, oltre il Ministro o il sotto segretario di Stato che la presiede, puo' intervenire anche l'altro ministro o il suo sotto segretario di Stato e partecipare di pieno diritto ai lavori del Consiglio. 
  
@@ -32,7 +32,7 @@ Il Consiglio di amministrazione e di disciplina, di cui all'articolo precedente,
 
 ## Art. 3.
 
-Le disposizioni del regolamento organico per il personale dell'Amministrazione centrale dell'agricoltura, industria e commercio approvate con [R. decreto 11 gennaio 1912, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-01-11;138), sono applicabili al Ministero per la agricoltura e a quello per l'industria, il commercio e il lavoro, in quanto non siano contrarie alle disposizioni del presente decreto. 
+Le disposizioni del regolamento organico per il personale dell'Amministrazione centrale dell'agricoltura, industria e commercio approvate con [R. decreto 11 gennaio 1912, n. 138](Col%20quale%20viene%20approvato%20annesso%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20dellagricoltura%20industria%20e%20commercio.%20012U0138.md), sono applicabili al Ministero per la agricoltura e a quello per l'industria, il commercio e il lavoro, in quanto non siano contrarie alle disposizioni del presente decreto. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

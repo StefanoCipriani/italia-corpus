@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1826](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-03;1826), concernente e il trattamento doganale del prosciutto cotto, conservato in scatole. 
+ E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1826](Trattamento%20doganale%20del%20prosciutto%20cotto%20conservato%20in%20scatole.%20028U1826.md), concernente e il trattamento doganale del prosciutto cotto, conservato in scatole. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

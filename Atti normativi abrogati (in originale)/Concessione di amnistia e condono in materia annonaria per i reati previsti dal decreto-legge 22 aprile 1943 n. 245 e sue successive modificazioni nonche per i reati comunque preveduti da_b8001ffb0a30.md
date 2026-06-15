@@ -31,7 +31,7 @@ Nei casi in cui sia intervenuta sentenza e di condanna, passata in cosa, giudica
 
 ## Art. 4. — (Applicabilita' ai recidivi)
 
-I benefici dell'amnistia e del condono di cui al presente decreto si applicano ai recidivi anche nei casi preveduti dai capoversi dell'[art. 99 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_99).
+I benefici dell'amnistia e del condono di cui al presente decreto si applicano ai recidivi anche nei casi preveduti dai capoversi dell'[art. 99 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5. — (Computo della pena)
 

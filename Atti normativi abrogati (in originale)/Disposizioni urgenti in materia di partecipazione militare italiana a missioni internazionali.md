@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto-legge 13 gennaio 1998, n. 1](Disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20proroga%20della%20permanenza%20di%20contingenti%20militari%20italiani%20in%20Bosnia-Erzegovina.md), convertito, con modificazioni, dalla [legge 13 marzo 1998, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-03-13;42);
+Visto il [decreto-legge 13 gennaio 1998, n. 1](Disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20proroga%20della%20permanenza%20di%20contingenti%20militari%20italiani%20in%20Bosnia-Erzegovina.md), convertito, con modificazioni, dalla [legge 13 marzo 1998, n. 42](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20gennaio%201998%20n.%201%20recante%20disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20_5969bbb35428.md);
 
 Vista la risoluzione del Consiglio di sicurezza dell'Organizzazione delle Nazioni Unite n. 1174 del 15 giugno 1998, che autorizza la prosecuzione nei territori della Bosnia-Erzegovina delle missioni affidate alla Multinational Stabilization Force (SFOR) ed alla International Police Task Force (IPTF);
 
@@ -30,11 +30,11 @@ Emana il seguente decreto-legge:
 
 1.
 
-Il termine previsto dall'[articolo 2 del decreto-legge 13 gennaio 1998, n. 1](Disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20proroga%20della%20permanenza%20di%20contingenti%20militari%20italiani%20in%20Bosnia-Erzegovina.md), convertito, con modificazioni, dalla [legge 13 marzo 1998, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-03-13;42), relativo alla presenza di un contingente militare delle Forze armate italiane nei territori della ex Jugoslavia, e' prorogato fino al 26 dicembre 1998.
+Il termine previsto dall'[articolo 2 del decreto-legge 13 gennaio 1998, n. 1](Disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20proroga%20della%20permanenza%20di%20contingenti%20militari%20italiani%20in%20Bosnia-Erzegovina.md), convertito, con modificazioni, dalla [legge 13 marzo 1998, n. 42](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20gennaio%201998%20n.%201%20recante%20disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20_5969bbb35428.md), relativo alla presenza di un contingente militare delle Forze armate italiane nei territori della ex Jugoslavia, e' prorogato fino al 26 dicembre 1998.
 
 2.
 
-Al personale appartenente al contingente di cui al comma 1 si applicano le disposizioni sul trattamento economico previste dal [decreto-legge 1 luglio 1996, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428).
+Al personale appartenente al contingente di cui al comma 1 si applicano le disposizioni sul trattamento economico previste dal [decreto-legge 1 luglio 1996, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201996%20n.%20346%20concernente%20partecipazione%20italiana%20alla%20missione%20di%20pace%20in%20Bosnia.md).
 
 ## Art. 2.
 
@@ -54,7 +54,7 @@ Per le finalita' e nei limiti temporali stabiliti nel comma 1, il Ministero dell
 
 1.
 
-Il termine previsto dall'[articolo 3-bis del decretolegge 13 gennaio 1998, n. 1](Disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20proroga%20della%20permanenza%20di%20contingenti%20militari%20italiani%20in%20Bosnia-Erzegovina.md), convertito, con modificazioni, dalla [legge 13 marzo 1998, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-03-13;42), relativo alla partecipazione del contingente di trentuno unita' di militari italiani al gruppo di osservatori temporanei ad Hebron (Temporary International Presence in Hebron - TIPH), e' prorogato fino al 26 dicembre 1998.
+Il termine previsto dall'[articolo 3-bis del decretolegge 13 gennaio 1998, n. 1](Disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20proroga%20della%20permanenza%20di%20contingenti%20militari%20italiani%20in%20Bosnia-Erzegovina.md), convertito, con modificazioni, dalla [legge 13 marzo 1998, n. 42](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20gennaio%201998%20n.%201%20recante%20disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20_5969bbb35428.md), relativo alla partecipazione del contingente di trentuno unita' di militari italiani al gruppo di osservatori temporanei ad Hebron (Temporary International Presence in Hebron - TIPH), e' prorogato fino al 26 dicembre 1998.
 
 2.
 
@@ -64,11 +64,11 @@ Al personale appartenente al contingente di cui al comma 1 si applicano le dispo
 
 1.
 
-Il termine previsto dall'[articolo 3 del decreto-legge 13 gennaio 1998, n. 1](Disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20proroga%20della%20permanenza%20di%20contingenti%20militari%20italiani%20in%20Bosnia-Erzegovina.md), convertito, con modificazioni, dalla [legge 13 marzo 1998, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-03-13;42), relativo alla permanenza del contingente dell'Arma dei carabinieri a Brcko nell'ambito della Forza di polizia internazionale in Bosnia (IPTF), e' prorogato fino al 26 dicembre 1998.
+Il termine previsto dall'[articolo 3 del decreto-legge 13 gennaio 1998, n. 1](Disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20proroga%20della%20permanenza%20di%20contingenti%20militari%20italiani%20in%20Bosnia-Erzegovina.md), convertito, con modificazioni, dalla [legge 13 marzo 1998, n. 42](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20gennaio%201998%20n.%201%20recante%20disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20_5969bbb35428.md), relativo alla permanenza del contingente dell'Arma dei carabinieri a Brcko nell'ambito della Forza di polizia internazionale in Bosnia (IPTF), e' prorogato fino al 26 dicembre 1998.
 
 2.
 
-Al personale appartenente al contingente di cui al comma 1 si applicano le disposizioni sul trattamento economico previste dall'[articolo 3 del decreto-legge 13 gennaio 1998, n. 1](Disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20proroga%20della%20permanenza%20di%20contingenti%20militari%20italiani%20in%20Bosnia-Erzegovina.md), convertito, con modificazioni, dalla [legge 13 marzo 1998, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-03-13;42).
+Al personale appartenente al contingente di cui al comma 1 si applicano le disposizioni sul trattamento economico previste dall'[articolo 3 del decreto-legge 13 gennaio 1998, n. 1](Disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20proroga%20della%20permanenza%20di%20contingenti%20militari%20italiani%20in%20Bosnia-Erzegovina.md), convertito, con modificazioni, dalla [legge 13 marzo 1998, n. 42](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20gennaio%201998%20n.%201%20recante%20disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20_5969bbb35428.md).
 
 ## Art. 5.
 
@@ -84,17 +84,17 @@ Al personale di cui al comma 1 si applicano le disposizioni sul trattamento econ
 
 1.
 
-Nell'ambito degli interventi di cui agli articoli 1 e 2 e' autorizzata la cessione a titolo gratuito di beni e servizi, ad eccezione dei sistemi d'arma, alle Autorita' o ai Paesi interessati alle operazioni NATO nei territori della ex Jugoslavia, secondo le disposizioni di cui all'[articolo 1, comma 11, del decreto-legge 13 gennaio 1998, n. 1](Disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20proroga%20della%20permanenza%20di%20contingenti%20militari%20italiani%20in%20Bosnia-Erzegovina.md), convertito, con modificazioni, dalla [legge 13 marzo 1998, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-03-13;42).
+Nell'ambito degli interventi di cui agli articoli 1 e 2 e' autorizzata la cessione a titolo gratuito di beni e servizi, ad eccezione dei sistemi d'arma, alle Autorita' o ai Paesi interessati alle operazioni NATO nei territori della ex Jugoslavia, secondo le disposizioni di cui all'[articolo 1, comma 11, del decreto-legge 13 gennaio 1998, n. 1](Disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20proroga%20della%20permanenza%20di%20contingenti%20militari%20italiani%20in%20Bosnia-Erzegovina.md), convertito, con modificazioni, dalla [legge 13 marzo 1998, n. 42](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20gennaio%201998%20n.%201%20recante%20disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20tra%20Italia%20e%20Albania%20nel%20settore%20della%20difesa%20nonche%20_5969bbb35428.md).
 
 ## Art. 7.
 
 1.
 
-Contro i rischi comunque connessi all'impiego del personale di cui agli articoli 1, 2, 3, 4 e 5, si applicano le norme previste dall'[articolo 2 della legge 18 dicembre 1997, n. 439](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-18;439#art_2).
+Contro i rischi comunque connessi all'impiego del personale di cui agli articoli 1, 2, 3, 4 e 5, si applicano le norme previste dall'[articolo 2 della legge 18 dicembre 1997, n. 439](Proroga%20di%20termini%20relativi%20ad%20impegni%20internazionali%20del%20Ministero%20degli%20affari%20esteri%20e%20norme%20in%20materia%20di%20personale%20militare%20impegnato%20in%20missioni%20allestero.md).
 
 2.
 
-Al personale di cui agli articoli 1, 2, 3, 4 e 5 si applicano le disposizioni previste dall'[articolo 2, comma 4, del decreto-legge 24 aprile 1997, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-04-24;108#art_2-com4), convertito, con modificazioni, dalla [legge 20 giugno 1997, n. 174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-20;174).
+Al personale di cui agli articoli 1, 2, 3, 4 e 5 si applicano le disposizioni previste dall'[articolo 2, comma 4, del decreto-legge 24 aprile 1997, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-04-24;108#art_2-com4), convertito, con modificazioni, dalla [legge 20 giugno 1997, n. 174](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%201997%20n.%20108%20recante%20partecipazione%20italiana%20alle%20iniziative%20internazionali%20in%20favore%20dellAlbania.md).
 
 3.
 
@@ -104,7 +104,7 @@ Sono convalidati gli atti adottati, le attivita' svolte e le prestazioni effettu
 
 1.
 
-All'onere derivante dall'attuazione dell'articolo 1, valutato in lire 75.000 milioni per l'anno 1998, si provvede ai sensi dell'[articolo 1, comma 63, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com63).
+All'onere derivante dall'attuazione dell'articolo 1, valutato in lire 75.000 milioni per l'anno 1998, si provvede ai sensi dell'[articolo 1, comma 63, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md).
 
 2.
 

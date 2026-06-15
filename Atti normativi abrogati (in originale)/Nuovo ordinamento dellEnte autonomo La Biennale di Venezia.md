@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La Biennale di Venezia, Esposizione internazionale d'arte, creata dal comune di Venezia con delibera consiliare 19 aprile 1893, eretta in ente autonomo con [regio decreto-legge 13 gennaio 1930, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-01-13;33), convertito in [legge 17 aprile 1930, n. 504](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201930%20n.%2033%20concernente%20la%20istituzione%20di%20un%20Ente%20autonomo%20denominato%20Esposizione%20biennale%20internazionale%20darte%20con%20sede%20in%20Venezia.%20030U0504.md), e successive modificazioni, assume la denominazione di "Ente autonomo " La Biennale di Venezia "".
+La Biennale di Venezia, Esposizione internazionale d'arte, creata dal comune di Venezia con delibera consiliare 19 aprile 1893, eretta in ente autonomo con [regio decreto-legge 13 gennaio 1930, n. 33](Istituzione%20di%20un%20Ente%20autonomo%20denominato%20Esposizione%20biennale%20internazionale%20darte%20con%20sede%20in%20Venezia.%20030U0033.md), convertito in [legge 17 aprile 1930, n. 504](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201930%20n.%2033%20concernente%20la%20istituzione%20di%20un%20Ente%20autonomo%20denominato%20Esposizione%20biennale%20internazionale%20darte%20con%20sede%20in%20Venezia.%20030U0504.md), e successive modificazioni, assume la denominazione di "Ente autonomo " La Biennale di Venezia "".
  L'ente ha personalita' giuridica di diritto pubblico e sede in Venezia.
  Esso e' istituto di cultura democraticamente organizzato e ha lo scopo, assicurando piena liberta' di idee e di forme espressive, di promuovere attivita' permanenti e di organizzare manifestazioni internazionali inerenti la documentazione, la conoscenza, la critica, la ricerca e la sperimentazione nel campo delle arti.
  L'ente agevola la partecipazione di ogni ceto sociale alla vita artistica e culturale e puo' organizzare e gestire manifestazioni in collaborazione con enti e con istituti italiani e stranieri.
@@ -232,12 +232,12 @@ La gestione finanziaria della Biennale e' sottoposta al controllo della Corte de
 
 ## Art. 28.
 
-Il servizio di cassa della Biennale e' affidato all'ente che svolge il servizio di tesoreria per il comune di Venezia o ad una delle aziende di credito prescelta dal consiglio direttivo tra quelle indicate dall'[art. 5 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_5), convertito in legge, con modificazioni, dalla [legge 7 marzo 1938, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-07;141), e successive modificazioni e integrazioni.
+Il servizio di cassa della Biennale e' affidato all'ente che svolge il servizio di tesoreria per il comune di Venezia o ad una delle aziende di credito prescelta dal consiglio direttivo tra quelle indicate dall'[art. 5 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_5), convertito in legge, con modificazioni, dalla [legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md), e successive modificazioni e integrazioni.
  I mandati, per essere esigibili, devono portare congiuntamente le firme del presidente e del direttore amministrativo della Biennale.
 
 ## Art. 29.
 
-I proventi derivanti dalle attivita' e manifestazioni dell'ente sono assoggettati all'aliquota del 3 per cento di cui al punto 5 della tabella allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;640).
+I proventi derivanti dalle attivita' e manifestazioni dell'ente sono assoggettati all'aliquota del 3 per cento di cui al punto 5 della tabella allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](../DPR/Imposta%20sugli%20spettacoli.md).
 
 ## Art. 30.
 
@@ -245,7 +245,7 @@ La Biennale di Venezia e' ammessa ad usufruire per tutte le sue manifestazioni d
 
 ## Art. 31.
 
-Fino al termine che sara' stabilito con le disposizioni da emanarsi ai sensi dell'[art. 9 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_9), la Biennale e' esente dall'imposta di ricchezza mobile di categoria B, nonche' dall'imposta sui fabbricati.
+Fino al termine che sara' stabilito con le disposizioni da emanarsi ai sensi dell'[art. 9 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), la Biennale e' esente dall'imposta di ricchezza mobile di categoria B, nonche' dall'imposta sui fabbricati.
  E' inoltre equiparata, alle condizioni di cui al primo comma, ai fini delle imposte indirette sugli affari, alle amministrazioni dello Stato.
 
 ## Art. 32.

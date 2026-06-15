@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' approvata, a tutti gli effetti, la diffida notificata il 5 giugno 1911, per il riscatto della ferrovia Livorno-Vada, concessa con la convenzione in data 4 settembre 1904, approvata con [R. decreto 8 settembre 1904, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-09-08;566). 
+E' approvata, a tutti gli effetti, la diffida notificata il 5 giugno 1911, per il riscatto della ferrovia Livorno-Vada, concessa con la convenzione in data 4 settembre 1904, approvata con [R. decreto 8 settembre 1904, n. 566](Che%20approva%20e%20rende%20esecutoria%20la%20convenzione%20stipulata%20tra%20i%20Ministri%20dei%20Lavori%20Pubblici%20e%20del%20Tesoro%20e%20la%20provincia%20di%20Livorno%20per%20la%20concessione%20costruzione%20ed%20esercizio%20di%20una%20ferrov_98df44376d3e.md). 
  
  In pendenza della liquidazione dell'indennita' di riscatto, il Governo e' autorizzato a continuare a corrispondere, a titolo di provvisionale sull'indennita' stessa e salvo conguaglio, a favore della provincia di Livorno concessionaria, e, per essa, della ditta Saverio Parisi subconcessionaria, le somme di cui all'art. 7 ed al primo comma dell'art. 8 dell'atto di concessione della ferrovia, nei modi e termini rispettivamente stabiliti negli articoli 7 e 9 (1° comma) della convenzione medesima.
 

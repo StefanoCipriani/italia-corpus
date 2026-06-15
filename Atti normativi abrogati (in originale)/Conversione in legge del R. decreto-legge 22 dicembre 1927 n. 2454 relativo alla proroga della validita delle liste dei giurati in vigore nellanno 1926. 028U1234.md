@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 dicembre 1927, n. 2454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-22;2454), relativo alla proroga della validita' delle liste dei giurati in vigore nell'anno 1926. 
+ E' convertito in legge il [R. decreto-legge 22 dicembre 1927, n. 2454](Proroga%20della%20validita%20delle%20liste%20dei%20giurati%20in%20vigore%20nellanno%201926.%20027U2454.md), relativo alla proroga della validita' delle liste dei giurati in vigore nell'anno 1926. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

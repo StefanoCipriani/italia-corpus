@@ -16,7 +16,7 @@ E' autorizzata la spesa di L. 5.000.000 per provvedere, a norma delle disposizio
 
 ## Art. 2.
 
-Per la riparazione dei danni di cui al precedente articolo nelle provincie dell'Italia Meridionale ed Insulare sono applicabili le disposizioni degli [articoli 2 e seguenti del Regio decreto-legge 28 settembre 1934, n. 1627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1627#art_2). 
+Per la riparazione dei danni di cui al precedente articolo nelle provincie dell'Italia Meridionale ed Insulare sono applicabili le disposizioni degli [articoli 2 e seguenti del Regio decreto-legge 28 settembre 1934, n. 1627](Provvedimenti%20straordinari%20in%20dipendenza%20di%20alluvioni%20piene%20frane%20mareggiate%20e%20valanghe%20di%20neve%20in%20varie%20Provincie.%20034U1627.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

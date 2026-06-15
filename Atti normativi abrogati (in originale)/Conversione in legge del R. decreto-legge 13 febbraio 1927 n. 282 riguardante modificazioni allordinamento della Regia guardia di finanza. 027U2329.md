@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 febbraio 1927, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;282), riguardante modificazioni all'ordinamento della Regia guardia di finanza. 
+ E' convertito in legge il [R. decreto-legge 13 febbraio 1927, n. 282](Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U0282.md), riguardante modificazioni all'ordinamento della Regia guardia di finanza. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserti nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

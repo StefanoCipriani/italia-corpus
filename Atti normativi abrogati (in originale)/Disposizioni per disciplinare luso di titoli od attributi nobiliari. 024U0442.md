@@ -22,7 +22,7 @@ Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 Nessuno puo' fare uso di titoli o attributi nobiliari se non sia inscritto come legittimamente investito di tali titoli o attributi nei registri dalla Regia consulta araldica. 
  
- Della iscrizione fa fede l'annotazione nell'elenco ufficiale nobiliare approvato con [R. decreto del 3 luglio 1921, n. 972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-03;972), e nei successivi elenchi supplementari approvati e depositati nei modi stabiliti dal detto decreto.
+ Della iscrizione fa fede l'annotazione nell'elenco ufficiale nobiliare approvato con [R. decreto del 3 luglio 1921, n. 972](Che%20approva%20lelenco%20delle%20famiglie%20nobili%20e%20titolate%20del%20Regno%20dItalia.%20021U0972.md), e nei successivi elenchi supplementari approvati e depositati nei modi stabiliti dal detto decreto.
 
 ## Art. 2.
 
@@ -44,7 +44,7 @@ I notai, gli ufficiali dello stato civile e tutti gli altri pubblici ufficiali n
 
 ## Art. 5.
 
-Indipendentemente dall'applicazione della pena comminata per l'usurpazione di titoli, quando il fatto costituisca il delitto preveduto dall'[art. 186 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_186), chiunque, sia in documenti ufficiali, sia in qualsiasi atto giuridico, o anche negli ordinari rapporti sociali, faccia uso di titoli o attributi nobiliari che non risultino appartenergli da conforme inscrizione nei registri della Consulta araldica, e' punito con l'ammenda da L. 1000 a L. 5000. 
+Indipendentemente dall'applicazione della pena comminata per l'usurpazione di titoli, quando il fatto costituisca il delitto preveduto dall'[art. 186 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque, sia in documenti ufficiali, sia in qualsiasi atto giuridico, o anche negli ordinari rapporti sociali, faccia uso di titoli o attributi nobiliari che non risultino appartenergli da conforme inscrizione nei registri della Consulta araldica, e' punito con l'ammenda da L. 1000 a L. 5000. 
  
  E' fatta salva l'applicazione delle penalita' pecuniarie comminate dalla legge nei casi in cui l'uso dei titoli sia subordinato ad una, tassa di concessione governativa. 
  

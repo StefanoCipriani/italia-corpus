@@ -26,7 +26,7 @@ A comporre la giunta speciale di Sanita' puo' essere chiamato un giudice di Trib
 
 ## Art. 5.
 
-Alla esecuzione della presente legge provvede il regolamento approvato con [R. Decreto 12 marzo 1885 n. 3003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-03-12;3003). 
+Alla esecuzione della presente legge provvede il regolamento approvato con [R. Decreto 12 marzo 1885 n. 3003](Che%20approva%20lannessovi%20Regolamento%20per%20la%20esecuzione%20della%20legge%20sulle%20opere%20da%20eseguirsi%20per%20il%20risanamento%20della%20citta%20di%20Napoli.%20085U3003.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

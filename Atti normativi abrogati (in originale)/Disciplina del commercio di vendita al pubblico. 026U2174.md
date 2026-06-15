@@ -85,7 +85,7 @@ La licenza di esercizio puo' essere tolta e la cauzione sara' incamerata nei cas
  
  b) il commerciante venda i generi alimentari a un prezzo superiore a quello indicato sui cartellini; 
  
- c) il commerciante, per due volte consecutive, qualunque sia il periodo di tempo della infrazione, sia stato punito per i reati di cui al capo V, titolo VI, libro II del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e per le frodi e le sofisticazioni contemplate in leggi speciali o di polizia annonaria.
+ c) il commerciante, per due volte consecutive, qualunque sia il periodo di tempo della infrazione, sia stato punito per i reati di cui al capo V, titolo VI, libro II del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e per le frodi e le sofisticazioni contemplate in leggi speciali o di polizia annonaria.
 
 ## Art. 6.
 

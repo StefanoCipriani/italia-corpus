@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 31 marzo 1911, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-03-31;598) "Approvazione del regolamento organico per il personale del Ministero per gli scambi e per le valute" Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), "Testo unico delle disposizioni sullo statuto degli impiegati civili dello Stato";
+Visto il [regio decreto 31 marzo 1911, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-03-31;598) "Approvazione del regolamento organico per il personale del Ministero per gli scambi e per le valute" Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), "Testo unico delle disposizioni sullo statuto degli impiegati civili dello Stato";
 
-Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686) "Norme di esecuzione del testo unico delle disposizioni sullo statuto degli impiegati civili dello Stato";
+Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md) "Norme di esecuzione del testo unico delle disposizioni sullo statuto degli impiegati civili dello Stato";
 
-Vista la [legge 4 giugno 1962, n. 524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-04;524) "Adeguamento dei ruoli organici del Ministero degli affari esteri" Vista la [legge 9 febbraio 1963, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-09;66) "Ammissione della donna ai pubblici uffici ed alle professioni" Udito il parere del Consiglio di Stato;
+Vista la [legge 4 giugno 1962, n. 524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-04;524) "Adeguamento dei ruoli organici del Ministero degli affari esteri" Vista la [legge 9 febbraio 1963, n. 66](Ammissione%20della%20donna%20ai%20pubblici%20uffici%20ed%20alle%20professioni.md) "Ammissione della donna ai pubblici uffici ed alle professioni" Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei ministri;
 

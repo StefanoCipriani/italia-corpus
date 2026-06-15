@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-11;20), che modifica il regime doganale del bestiame bovino, del pollame e delle carni non preparate. 
+ E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 20](Modificazione%20del%20regime%20doganale%20del%20bestiame%20bovino%20del%20pollame%20e%20delle%20carni%20non%20preparate.%20034U0020.md), che modifica il regime doganale del bestiame bovino, del pollame e delle carni non preparate. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -18,7 +18,7 @@ La composizione del Consiglio superiore di assistenza e beneficenza pubblica e' 
  
  sei membri di diritto, designati in ragione del loro ufficio; direttore generale dell'Amministrazione civile nel Ministero dell'interno; direttore capo di divisione della beneficenza pubblica nel Ministero medesimo; direttore generale della sanita' pubblica; direttore generale dell'istruzione primaria e popolare; direttore generale del credito o della previdenza; direttore capo di divisione degli affari civili nel Ministero di grazia e giustizia; 
  
- un membro scelto dal Consiglio superiore del lavoro, a norma dell'[art. 14 della legge 18 luglio 1904, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-18;390#art_14);
+ un membro scelto dal Consiglio superiore del lavoro, a norma dell'[art. 14 della legge 18 luglio 1904, n. 390](Riflettente%20la%20istituzione%20di%20Commissioni%20provinciali%20di%20un%20Consiglio%20superiore%20e%20di%20un%20servizio%20dispezione%20della%20pubblica%20assistenza%20e%20beneficenza%20004U0390.md);
 
 ## Art. 2.
 

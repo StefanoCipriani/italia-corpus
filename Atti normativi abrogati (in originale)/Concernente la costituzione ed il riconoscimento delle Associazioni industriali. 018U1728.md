@@ -82,7 +82,7 @@ Le deliberazioni relative a modificazioni dell'atto costitutivo e dello statuto,
 
 ## Art. 7.
 
-A rimborso delle spese per le pubblicazioni nel Bollettino ufficiale delle Societa' per azioni prescritto dal presente decreto le Associazioni devono pagare i diritti fissi determinati dall'[art. 59, primo comma, del regolamento 27 dicembre 1882, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1882-12-27;1139#art_59-com1), per l'esecuzione del Codice di commercio, modificato con [R. decreto 4 agosto 1894, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-08-04;416).
+A rimborso delle spese per le pubblicazioni nel Bollettino ufficiale delle Societa' per azioni prescritto dal presente decreto le Associazioni devono pagare i diritti fissi determinati dall'[art. 59, primo comma, del regolamento 27 dicembre 1882, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1882-12-27;1139#art_59-com1), per l'esecuzione del Codice di commercio, modificato con [R. decreto 4 agosto 1894, n. 416](Che%20modifica%20gli%20articoli%2052%20e%2053%20del%20regolamento%20per%20lesecuzione%20del%20Codice%20di%20commercio%20in%20ordine%20al%20Bollettino%20ufficiale%20delle%20Societa%20per%20azioni.%20094U0416.md).
 
 ## Art. 8.
 

@@ -31,7 +31,7 @@ Le modalita' e le condizioni tecniche, secondo le quali sara' effettuato l'eserc
 
 ## Art. 3.
 
-Durante l'esperimento dell'esercizio economico di cui al precedente articolo 1, in luogo delle tasse di bollo di centesimi 5 e di centesimi 50 rispettivamente stabilite dall'articolo 20, n. 5, e dall'articolo 66, ultimo comma, del testo unico approvato col [R. decreto 4 luglio 1897, n. 414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-07-04;414), sara' dovuta una tassa di bollo proporzionale unica per tutti i trasporti, nella misura del 0,50 per cento sull'ammontare complessivo del prezzo dei biglietti o riscontri distribuiti.
+Durante l'esperimento dell'esercizio economico di cui al precedente articolo 1, in luogo delle tasse di bollo di centesimi 5 e di centesimi 50 rispettivamente stabilite dall'articolo 20, n. 5, e dall'articolo 66, ultimo comma, del testo unico approvato col [R. decreto 4 luglio 1897, n. 414](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md), sara' dovuta una tassa di bollo proporzionale unica per tutti i trasporti, nella misura del 0,50 per cento sull'ammontare complessivo del prezzo dei biglietti o riscontri distribuiti.
 
 ## Art. 4.
 

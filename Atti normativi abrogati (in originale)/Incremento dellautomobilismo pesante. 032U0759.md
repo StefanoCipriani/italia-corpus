@@ -30,7 +30,7 @@ Il Ministero della guerra, nei limiti della disponibilita' del suo bilancio, ed 
 
 ## Art. 4.
 
-Gli autoveicoli gia' dichiarati «ausiliari militari» alla data di entrata in vigore della presente legge, i proprietari dei quali abbiano gia' richiesto ed ottenuto le agevolazioni di cui al [R. decreto-legge 9 novembre 1925, n. 2080](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-09;2080), continueranno a godere delle stesse agevolazioni loro accordate, finche' permanga in essi la qualita' di «autoveicolo ausiliario militare». Per ogni ulteriore applicazione il decreto-legge citato deve intendersi abrogato come abrogata e' la denominazione di «autoveicoli ausiliari militari».
+Gli autoveicoli gia' dichiarati «ausiliari militari» alla data di entrata in vigore della presente legge, i proprietari dei quali abbiano gia' richiesto ed ottenuto le agevolazioni di cui al [R. decreto-legge 9 novembre 1925, n. 2080](Agevolazioni%20fiscali%20per%20gli%20autocarri%20dichiarati%20ausiliari%20militari.%20025U2080.md), continueranno a godere delle stesse agevolazioni loro accordate, finche' permanga in essi la qualita' di «autoveicolo ausiliario militare». Per ogni ulteriore applicazione il decreto-legge citato deve intendersi abrogato come abrogata e' la denominazione di «autoveicoli ausiliari militari».
 
 ## Art. 5.
 

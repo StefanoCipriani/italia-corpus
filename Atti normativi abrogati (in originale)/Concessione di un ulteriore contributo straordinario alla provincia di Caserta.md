@@ -32,7 +32,7 @@ Sulla proposta del Ministro per l'interno, di concerto con il Ministro per il te
 
 ## Articolo unico.
 
-Per l'attuazione dei primi provvedimenti di cui all'[art. 2 del decreto legislativo Luogotenenziale 11 giugno 1945, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-11;373#art_2), concernente la ricostituzione della provincia di Caserta, e' autorizzata la concessione, da parte dello Stato, di un ulteriore contributo di lire 25 milioni da iscriversi nello stato di previsione delle spese del Ministero dell'interno per l'esercizio 1945-46.
+Per l'attuazione dei primi provvedimenti di cui all'[art. 2 del decreto legislativo Luogotenenziale 11 giugno 1945, n. 373](../Decreti%20legislativi%20luogotenenziali/Ricostruzione%20della%20provincia%20di%20Caserta.%20045U0373.md), concernente la ricostituzione della provincia di Caserta, e' autorizzata la concessione, da parte dello Stato, di un ulteriore contributo di lire 25 milioni da iscriversi nello stato di previsione delle spese del Ministero dell'interno per l'esercizio 1945-46.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

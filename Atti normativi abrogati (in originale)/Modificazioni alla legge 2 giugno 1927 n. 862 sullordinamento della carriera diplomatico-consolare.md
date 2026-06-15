@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 2 giugno 1927, n. 862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-02;862);
+Vista la [legge 2 giugno 1927, n. 862](Ordinamento%20della%20carriera%20diplomatico-consolare.%20027U0862.md);
 
-Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1);
+Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Vista la [legge 4 settembre 1940, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-04;1547);
+Vista la [legge 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per gli affari esteri, di concer
 
 ## Art. 1.
 
-Il [primo comma dell'art. 2 della legge 2 giugno 1927, n. 862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-02;862#art_2-com1), e' sostituito dal seguente:
+Il [primo comma dell'art. 2 della legge 2 giugno 1927, n. 862](Ordinamento%20della%20carriera%20diplomatico-consolare.%20027U0862.md), e' sostituito dal seguente:
  "Alla carriera diplomatico-consolare si accede mediante esame di concorso, a cui si puo' essere ammessi con la prova del possesso dei seguenti requisiti:
  a) cittadinanza italiana col godimento dei diritti politici;
  b) eta' non minore di ventun anni ne' maggiore di trenta, salvo quanto e' stabilito dalle vigenti disposizioni per l'elevazione dei limiti di eta' per l'ammissione ai pubblici concorsi;

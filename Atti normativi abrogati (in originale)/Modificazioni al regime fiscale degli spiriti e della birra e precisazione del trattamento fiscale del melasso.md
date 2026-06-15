@@ -22,7 +22,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ### Art. 1.
 
-L'[art. 1 del decreto-legge 18 aprile 1950, n. 142](Modificazioni%20al%20regime%20fiscale%20degli%20spiriti%20per%20agevolare%20la%20distillazione%20del%20vino%20e%20alle%20disposizioni%20relative%20alla%20minuta%20vendita%20degli%20estratti%20ed%20essenze%20per%20la%20preparazione%20di%20liquori.md), convertito in legge con la [legge 16 giugno 1950, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-16;331), e' sostituito come segue, a decorrere dalla data di entrata in vigore del presente decreto:
+L'[art. 1 del decreto-legge 18 aprile 1950, n. 142](Modificazioni%20al%20regime%20fiscale%20degli%20spiriti%20per%20agevolare%20la%20distillazione%20del%20vino%20e%20alle%20disposizioni%20relative%20alla%20minuta%20vendita%20degli%20estratti%20ed%20essenze%20per%20la%20preparazione%20di%20liquori.md), convertito in legge con la [legge 16 giugno 1950, n. 331](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2018%20aprile%201950%20n.%20142%20adottato%20ai%20sensi%20dellart.%2077%20comma%20secondo%20della%20Costituzione%20e%20concernente%20modificazioni%20al%20regime%20fiscale%20degli%20spiriti%20per_43704fc935bf.md), e' sostituito come segue, a decorrere dalla data di entrata in vigore del presente decreto:
  "La imposta interna di fabbricazione sullo spirito (alcool etilico) e la corrispondente sovrimposta di confine sul prodotto medesimo importato dall'estero sono stabilite nella misura di L. 40.000 per ogni ettanidro alla temperatura di 150,56 del termometro centesimale.
  Nella stessa misura sono stabilite la imposta interna di fabbricazione e la corrispondente sovrimposta di confine per gli alcoli metilico, propilico e isopropilico, i quali, agli effetti del presente decreto, sono equiparati in tutto all'alcool etilico di prima categoria".
 
@@ -44,13 +44,13 @@ Per lo spirito impiegato nella fabbricazione dell'aceto, l'imposta di fabbricazi
 
 ### Art. 5.
 
-L'[art. 10 del regio decreto-legge 1 marzo 1937, numero 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-03-01;226#art_10), e' sostituito come appresso:
+L'[art. 10 del regio decreto-legge 1 marzo 1937, numero 226](Modificazioni%20al%20regime%20fiscale%20dellalcool%20impiegato%20nella%20preparazione%20del%20marsala%20del%20vermut%20dei%20liquori%20del%20cognac%20e%20di%20altri%20prodotti%20alcoolici.%20037U0226.md), e' sostituito come appresso:
  "Sui cali effettivi di alcole accertati nella preparazione e nell'invecchiamento dei liquori, destinati al consumo interno, e' accordato l'abbuono dell'imposta di fabbricazione ed eventualmente anche del diritto erariale, purche' non superino le seguenti misure dopo il primo anno di invecchiamento il 6% e dopo il secondo il 10% del quantitativo di spirito impiegato nella preparazione del prodotto che e' rimasto giacente dopo gli anzidetti periodi di tempo.
  Sui cali eccedenti quelli complessivi sopra indicati e' dovuto senz'altro il pagamento dei tributi".
 
 ### Art. 6.
 
-L'[art. 1 del decreto-legge 20 dicembre 1948, n. 1427](Modificazioni%20al%20regime%20fiscale%20di%20taluni%20prodotti%20soggetti%20ad%20imposta%20di%20fabbricazione_2.md), convertito in legge con la [legge 18 febbraio 1949, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-02-18;27), e' sostituito dal seguente:
+L'[art. 1 del decreto-legge 20 dicembre 1948, n. 1427](Modificazioni%20al%20regime%20fiscale%20di%20taluni%20prodotti%20soggetti%20ad%20imposta%20di%20fabbricazione_2.md), convertito in legge con la [legge 18 febbraio 1949, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20dicembre%201948%20n.%201427%20adottato%20ai%20sensi%20dellart.%2077%20comma%2020%20della%20Costituzione%20e%20concernente%20modificazioni%20al%20regime%20fiscale%20d_ec2fa99452cc.md), e' sostituito dal seguente:
  "La imposta di fabbricazione sulla birra e' stabilita nella misura di L. 300 per ettolitro e per ogni grado saccarometrico del mosto, misurato col saccarometro ufficiale alla temperatura di gradi 17,50 del termometro centesimale.
  La ricchezza saccarometrica del mosto, come sopra misurata, viene arrotondata, agli effetti dell'accertamento della imposta, a un decimo di grado.
  Le frazioni di grado superiori ai 5 centesimi sono computate per un decimo di grado.
@@ -105,7 +105,7 @@ Le restituzioni d'imposta spettanti, nei casi previsti dalle norme in vigore, in
 
 ### Art. 13.
 
-E' soppresso il numero II dell'articolo unico della [legge 22 luglio 1939, n. 1096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-22;1096). La infrazione ivi prevista e' punita a termini dell'[art. 38 del decreto-legge 6 ottobre 1948, n. 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-10-06;1200#art_38), convertito in legge con la [legge 3 dicembre 1948, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-03;1388).
+E' soppresso il numero II dell'articolo unico della [legge 22 luglio 1939, n. 1096](Modificazioni%20di%20alcune%20delle%20norme%20vigenti%20in%20materia%20di%20licenze%20di%20vendita%20e%20di%20vincoli%20sulla%20circolazione%20dellalcole%20dei%20prodotti%20alcolici%20e%20degli%20estratti%20per%20liquori.%20039U1096.md). La infrazione ivi prevista e' punita a termini dell'[art. 38 del decreto-legge 6 ottobre 1948, n. 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-10-06;1200#art_38), convertito in legge con la [legge 3 dicembre 1948, n. 1388](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%206%20ottobre%201948%20n.%201200%20concernente%20modificazioni%20al%20regime%20fiscale%20degli%20alcoli%20e%20del%20benzolo.md).
 
 ### Art. 14.
 

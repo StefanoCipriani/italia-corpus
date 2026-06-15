@@ -14,7 +14,7 @@ I medici condotti e altri sanitari in regolare servizio alla pubblicazione della
  
  La relativa domanda deve essere presentata entro il termine perentorio di sei mesi dalla data di pubblicazione della presente legge. 
  
- Il contributo per il riconoscimento dei servizi di cui al comma precedente potra' essere pagato dal sanitario in unica soluzione, ovvero potra' essere corrisposto per la meta' all'atto della concessione e per l'altra meta' a rate mensili calcolate con l'applicazione della tabella C annessa al [R. decreto-legge 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-04-19;1000), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), in un periodo non superiore a dieci anni.
+ Il contributo per il riconoscimento dei servizi di cui al comma precedente potra' essere pagato dal sanitario in unica soluzione, ovvero potra' essere corrisposto per la meta' all'atto della concessione e per l'altra meta' a rate mensili calcolate con l'applicazione della tabella C annessa al [R. decreto-legge 19 aprile 1923, n. 1000](Che%20apporta%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulla%20Cassa%20di%20previdenza%20per%20le%20pensioni%20dei%20sanitari.%20023U1000.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), in un periodo non superiore a dieci anni.
 
 ## Art. 2.
 
@@ -22,7 +22,7 @@ Il sanitario che abbia ottenuto il riconoscimento dei servizi di cui al preceden
  
  Il versamento rateale dell'altra meta' del premio dovra' effettuarsi non oltre tre mesi dalla data di emissione del relativo ruolo, pure sotto pena di decadenza dalla concessione. 
  
- Per il pagamento rateale di cui al penultimo comma dell'articolo precedente si applicano le disposizioni dei tre ultimi commi dell'[art. 9 del R. decreto-legge 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-04-19;1000#art_9), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473).
+ Per il pagamento rateale di cui al penultimo comma dell'articolo precedente si applicano le disposizioni dei tre ultimi commi dell'[art. 9 del R. decreto-legge 19 aprile 1923, n. 1000](Che%20apporta%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulla%20Cassa%20di%20previdenza%20per%20le%20pensioni%20dei%20sanitari.%20023U1000.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md).
 
 ## Art. 3.
 
@@ -32,7 +32,7 @@ Il sanitario che si sia avvalso della facolta' di cui all'art. 1 della presente 
 
 ## Art. 4.
 
-Ai sanitari iscritti alla Cassa di previdenza, che abbiano lasciato trascorrere il biennio di cui all'[art. 7 del R. decreto-legge 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-04-19;1000#art_7), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), senza presentare la domanda per ottenere il riconoscimento dei servizi che intendono riscattare, e' data la facolta' di chiedere, entro sei mesi dalla data di pubblicazione della presente legge, il riconoscimento stesso secondo le norme vigenti.
+Ai sanitari iscritti alla Cassa di previdenza, che abbiano lasciato trascorrere il biennio di cui all'[art. 7 del R. decreto-legge 19 aprile 1923, n. 1000](Che%20apporta%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulla%20Cassa%20di%20previdenza%20per%20le%20pensioni%20dei%20sanitari.%20023U1000.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), senza presentare la domanda per ottenere il riconoscimento dei servizi che intendono riscattare, e' data la facolta' di chiedere, entro sei mesi dalla data di pubblicazione della presente legge, il riconoscimento stesso secondo le norme vigenti.
 
 ## Art. 5.
 
@@ -40,7 +40,7 @@ E' riconosciuto valido agli effetti della liquidazione degli assegni il periodo 
 
 ## Art. 6.
 
-L'art. 1 sub 17 del [R. decreto-legge 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-04-19;1000), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' sostituito dal seguente articolo: 
+L'art. 1 sub 17 del [R. decreto-legge 19 aprile 1923, n. 1000](Che%20apporta%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulla%20Cassa%20di%20previdenza%20per%20le%20pensioni%20dei%20sanitari.%20023U1000.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' sostituito dal seguente articolo: 
  
  «Acquistano il diritto di conseguire la pensione i sanitari iscritti alla Cassa di previdenza nei seguenti casi: 
  
@@ -56,7 +56,7 @@ L'art. 1 sub 17 del [R. decreto-legge 19 aprile 1923, n. 1000](https://www.norma
 
 ## Art. 7.
 
-L'art. 1 sub 20 del [R. decreto-legge 19 aprile 1923, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-04-19;1000), convertito nella [legge 17 aprile 1925, n. 473, e l'art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473#art_3) della [legge 14 aprile 1927, n. 604](Riforma%20della%20Cassa%20di%20previdenza%20dei%20sanitari%20per%20il%20miglioramento%20del%20trattamento%20di%20quiescenza%20e%20per%20laumento%20dal%201%20gennaio%201926%20di%20tutte%20le%20pensioni%20dirette%20e%20indirette%20gia%20concesse.%20027U0604.md), sono sostituiti dal seguente articolo: 
+L'art. 1 sub 20 del [R. decreto-legge 19 aprile 1923, n. 1000](Che%20apporta%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulla%20Cassa%20di%20previdenza%20per%20le%20pensioni%20dei%20sanitari.%20023U1000.md), convertito nella [legge 17 aprile 1925, n. 473, e l'art. 3](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md) della [legge 14 aprile 1927, n. 604](Riforma%20della%20Cassa%20di%20previdenza%20dei%20sanitari%20per%20il%20miglioramento%20del%20trattamento%20di%20quiescenza%20e%20per%20laumento%20dal%201%20gennaio%201926%20di%20tutte%20le%20pensioni%20dirette%20e%20indirette%20gia%20concesse.%20027U0604.md), sono sostituiti dal seguente articolo: 
  
  «La pensione da corrispondersi ai sanitari e' liquidata secondo la tabella A in ordine all'eta' del sanitario alla data di cessazione dal servizio e alla durata dei servizi valutabili alla data stessa.  
  «Pero', nel caso di cessazione dal servizio per una delle cause di cui alla lettera c) dell'articolo precedente, la pensione da liquidarsi al sanitario non potra' essere inferiore a L. 2000, mentre nel caso di cessazione dal servizio nelle circostanze di cui alla lettera d) dell'articolo stesso, la pensione non potra' essere inferiore a L. 5000. 
@@ -71,7 +71,7 @@ Le disposizioni degli articoli 1, 2, 3 sono estese ai sanitari delle Provincie d
 
 ## Art. 9.
 
-All'[art. 60 del R. decreto-legge 15 aprile 1926, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;679#art_60), convertito nella [legge 3 marzo 1927, n. 293](Conversione%20in%20legge%20del%20R.%20decreto%2015%20aprile%201926%20n.%20679%20relativo%20allordinamento%20delle%20Casse%20di%20previdenza%20per%20le%20pensioni%20degli%20impiegati%20e%20dei%20salariati%20degli%20enti%20locali.%20027U0293.md), e' sostituito il seguente: 
+All'[art. 60 del R. decreto-legge 15 aprile 1926, n. 679](Approvazione%20dellordinamento%20delle%20Casse%20di%20previdenza%20per%20le%20pensioni%20agli%20impiegati%20e%20ai%20salariati%20degli%20Enti%20locali.%20026U0679.md), convertito nella [legge 3 marzo 1927, n. 293](Conversione%20in%20legge%20del%20R.%20decreto%2015%20aprile%201926%20n.%20679%20relativo%20allordinamento%20delle%20Casse%20di%20previdenza%20per%20le%20pensioni%20degli%20impiegati%20e%20dei%20salariati%20degli%20enti%20locali.%20027U0293.md), e' sostituito il seguente: 
  
  «Una Commissione, appositamente nominata con decreto del Ministro per le finanze ogni volta che occorrano provvedimenti di riforma nell'interesse di ciascuno degli Istituti di previdenza amministrati dalla Cassa depositi e prestiti, esamina i bilanci tecnici, le statistiche degli iscritti, e, in base ai risultati ottenuti, propone al Ministro per le finanze le opportune variazioni alle disposizioni in vigore per gli Istituti di previdenza. Tali variazioni non possono diminuire le pensioni in corso di godimento. 
  

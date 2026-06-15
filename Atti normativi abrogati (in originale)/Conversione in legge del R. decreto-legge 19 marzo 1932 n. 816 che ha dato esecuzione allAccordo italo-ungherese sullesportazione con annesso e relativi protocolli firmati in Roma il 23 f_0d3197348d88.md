@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 marzo 1932, n. 816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-03-19;816), che ha dato esecuzione all'Accordo italo-ungherese sull'esportazione, con annesso e relativi protocolli, firmato in Roma il 23 febbraio 1932. 
+ E' convertito in legge il [R. decreto-legge 19 marzo 1932, n. 816](Esecuzione%20dellAccordo%20italo-ungherese%20sullesportazione%20con%20annesso%20e%20relativi%20Protocolli%20firmati%20a%20Roma%20il%2023%20febbraio%201932.%20032U0816.md), che ha dato esecuzione all'Accordo italo-ungherese sull'esportazione, con annesso e relativi protocolli, firmato in Roma il 23 febbraio 1932. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

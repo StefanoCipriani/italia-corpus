@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 3 marzo 1938, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-03;243), che stabilisce le vigenti tabelle della circoscrizione territoriale della marina mercantile, e le successive variazioni;
+Visto il [regio decreto 3 marzo 1938, n. 243](Nuove%20tabelle%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.%20038U0243.md), che stabilisce le vigenti tabelle della circoscrizione territoriale della marina mercantile, e le successive variazioni;
 
-Visto il [regio decreto 25 novembre 1937, n. 2360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-11-25;2360);
+Visto il [regio decreto 25 novembre 1937, n. 2360](Conferimento%20dei%20posti%20di%20incaricato%20marittimo%20e%20di%20delegato%20di%20spiaggia.%20037U2360.md);
 
-Visto l'[art. 16 del Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_16), approvato con [regio decreto 30 marzo 1942, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327);
+Visto l'[art. 16 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
-Visti gli articoli 1 e 2 del regolamento per l'esecuzione del [Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) (navigazione marittima), approvato con decreto del Presidente della pubblica 15 febbraio 1952, n. 328;
+Visti gli articoli 1 e 2 del regolamento per l'esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con decreto del Presidente della pubblica 15 febbraio 1952, n. 328;
 
 Udito il parere del Consiglio di Stato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la marina mercantile, di concerto con i Ministri
 
 ## Articolo unico
 
-La tabella annessa al [regio decreto 3 marzo 1938, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-03;243), quale risulta dalle varianti successivamente disposte, e' abrogata e sostituita da quella allegata al presente decreto, firmata dai Ministri per la marina mercantile, per la grazia e giustizia, per la difesa e per il tesoro.
+La tabella annessa al [regio decreto 3 marzo 1938, n. 243](Nuove%20tabelle%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.%20038U0243.md), quale risulta dalle varianti successivamente disposte, e' abrogata e sostituita da quella allegata al presente decreto, firmata dai Ministri per la marina mercantile, per la grazia e giustizia, per la difesa e per il tesoro.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

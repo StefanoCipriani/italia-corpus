@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 febbraio 1931, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-02-23;209), che aumenta il contingente di etere di petrolio da ammettere in franchigia doganale per essere impiegato nella estrazione di essenze concrete dai fiori. 
+ E' convertito in legge il [R. decreto-legge 23 febbraio 1931, n. 209](Aumento%20del%20contingente%20di%20etere%20di%20petrolio%20da%20ammettere%20in%20esenzione%20da%20dazio%20doganale%20per%20limpiego%20nella%20estrazione%20delle%20essenze%20concrete%20dai%20fiori.%20031U0209.md), che aumenta il contingente di etere di petrolio da ammettere in franchigia doganale per essere impiegato nella estrazione di essenze concrete dai fiori. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 18 maggio 1931 - Anno IX 
  

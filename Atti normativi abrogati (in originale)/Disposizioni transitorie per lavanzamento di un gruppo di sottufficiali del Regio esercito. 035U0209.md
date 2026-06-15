@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-15;1514);
+Visto il testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md);
 
 Vista la [legge 21 giugno 1931, n. 1093](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-21;1093), recante modificazioni al testo unico suddetto;
 
@@ -40,7 +40,7 @@ Con le norme che saranno emanate dal Ministro per guerra per l'applicazione del 
 
 ## Art. 4.
 
-Il n. 8) dell'art. 31 del testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-15;1514), e' modificato nel modo seguente: 
+Il n. 8) dell'art. 31 del testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e' modificato nel modo seguente: 
  
  «8) perdita del grado in seguito a condanna penale, in seguito a perdita della cittadinanza e per irreperibilita'». 
  

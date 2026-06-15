@@ -25,7 +25,7 @@ E' autorizzata, la spesa di lire dieci miliardi, da iscrivere nello stato di pre
 ## Art. 2.
 
 Per l'esecuzione a cura dello Stato dei lavori di competenza degli Enti di cui alla lettera a) del precedente articolo, si applicano le disposizioni di cui agli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-10-12;690#art_3) e [4 del decreto legislativo luogotenenziale 12 ottobre 1946, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-10-12;690#art_4).
- Per i lavori di cui alla lettera b) si applicano le disposizioni degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-22;637#art_2) e [3 dei decreto legislativo luogotenenziale 22 settembre 1945, n. 637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-22;637#art_3).
+ Per i lavori di cui alla lettera b) si applicano le disposizioni degli [articoli 2](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20favorire%20lattivita%20costruttiva%20dellI.N.C.I.S.%20degli%20Istituti%20per%20le%20case%20popolari%20e%20dellEnte%20edilizio%20di%20Reggio%20Calabria.%20045U0637.md) e [3 dei decreto legislativo luogotenenziale 22 settembre 1945, n. 637](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20favorire%20lattivita%20costruttiva%20dellI.N.C.I.S.%20degli%20Istituti%20per%20le%20case%20popolari%20e%20dellEnte%20edilizio%20di%20Reggio%20Calabria.%20045U0637.md).
 
 ## Art. 3.
 

@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 14 giugno 1928, n. 1647](Tutela%20della%20vita%20uman
 
 Visto il [R. decreto-legge 3 settembre 1926, n. 1557](Norme%20legislative%20per%20limpianto%20e%20lesercizio%20della%20radiotelegrafia%20a%20bordo%20delle%20navi%20mercantili.%20026U1557.md), convertito nella [legge 16 giugno 1927, n. 1082](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20settembre%201926%20n.%201557%20che%20reca%20norme%20legislative%20per%20limpianto%20della%20radiotelegrafia%20a%20bordo%20delle%20navi%20mercantili.%20027U1082.md), contenente le norme legislative per l'impianto e l'esercizio della radiotelegrafia a bordo delle navi mercantili nazionali;
 
-Visto il [R. decreto 10 agosto 1928, n. 2752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-10;2752), che approva il regolamento per la sicurezza delle navi mercantili e della vita umana in mare;
+Visto il [R. decreto 10 agosto 1928, n. 2752](Approvazione%20del%20regolamento%20per%20la%20sicurezza%20delle%20navi%20mercantili%20e%20della%20vita%20umana%20in%20mare.%20028U2752.md), che approva il regolamento per la sicurezza delle navi mercantili e della vita umana in mare;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

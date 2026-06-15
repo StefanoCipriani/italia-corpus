@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102), e successive modificazioni;
+Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e successive modificazioni;
 
 Veduti i [Regi decreti-legge 5 febbraio 1928, n. 186](Disposizioni%20per%20lavviamento%20della%20Facolta%20fascista%20di%20scienze%20politiche%20presso%20la%20Regia%20universita%20di%20Perugia.%20028U0186.md), [4 ottobre 1928, n. 2288](Proroga%20della%20facolta%20concessa%20al%20Ministro%20per%20la%20pubblica%20istruzione%20di%20affidare%20lincarico%20di%20curare%20lavviamento%20della%20Facolta%20fascista%20di%20scienze%20politiche%20della%20Regia%20universita%20di%20Per_b98a52d79986.md), [14 novembre 1929, n. 2050](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-14;2050), [13 novembre 1930, n. 1591](Proroga%20dei%20poteri%20conferiti%20al%20Ministro%20per%20leducazione%20nazionale%20per%20il%20funzionamento%20della%20Facolta%20fascista%20di%20scienze%20politiche%20presso%20la%20Regia%20universita%20di%20Perugia.%20030U1591.md), convertiti in legge rispettivamente con le [leggi 14 giugno 1928, n. 1465, 2 dicembre 1928, n. 2729, 3 aprile 1930, n. 402, e 11 maggio 1931, n. 569](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2013%20novembre%201930%20n.%201591%20concernente%20la%20proroga%20dei%20poteri%20conferiti%20al%20Ministro%20per%20leducazione%20nazionale%20per%20il%20funzionamento%20della%20Facolta%20fas_1ffdf6ffd9c1.md);
 

@@ -13,14 +13,14 @@ vigente: true
 UMBERTO II
  RE D'ITALIA
 
- Veduto l'[art. 15 del decreto legislativo Luogotenenziale 5 aprile 1945, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;238#art_15);
+ Veduto l'[art. 15 del decreto legislativo Luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md);
  Veduto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
  Udito il parere del Consiglio di Stato;
  Sentito il Consiglio dei Ministri;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quello per il tesoro;
  Abbiamo decretato e decretiamo:
 
- E' approvato il regolamento per la concessione delle borse di studio, di cui all'[art. 15 del decreto legislativo Luogotenenziale 5 aprile 1945, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;238#art_15), a favore gli studenti universitari meritevoli e bisognosi, annesso al presente decreto e firmato dai Ministri per la pubblica istruzione e per il tesoro.
+ E' approvato il regolamento per la concessione delle borse di studio, di cui all'[art. 15 del decreto legislativo Luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md), a favore gli studenti universitari meritevoli e bisognosi, annesso al presente decreto e firmato dai Ministri per la pubblica istruzione e per il tesoro.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
 

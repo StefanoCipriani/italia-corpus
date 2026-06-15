@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 gennaio 1936, n. 1624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-01-09;1624), con il quale si riserva allo Stato la fabbricazione, distribuzione e vendita delle targhe di riconoscimento degli autoveicoli appartenenti ai membri del Corpo diplomatico e si autorizza il Ministero delle comunicazioni a fissare, di intesa con quello degli esteri, le caratteristiche delle targhe stesse e la data a decorrere dalla quale ne sara' obbligatoria l'adozione. 
+ E' convertito in legge il [R. decreto-legge 9 gennaio 1936, n. 1624](Riserva%20allo%20Stato%20della%20fabbricazione%20distribuzione%20e%20vendita%20delle%20targhe%20di%20riconoscimento%20degli%20autoveicoli%20appartenenti%20ai%20Membri%20del%20Corpo%20diplomatico.%20036U1624.md), con il quale si riserva allo Stato la fabbricazione, distribuzione e vendita delle targhe di riconoscimento degli autoveicoli appartenenti ai membri del Corpo diplomatico e si autorizza il Ministero delle comunicazioni a fissare, di intesa con quello degli esteri, le caratteristiche delle targhe stesse e la data a decorrere dalla quale ne sara' obbligatoria l'adozione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

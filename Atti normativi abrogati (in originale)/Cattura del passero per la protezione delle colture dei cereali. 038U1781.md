@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le fo
 
 ## Articolo unico.
 
-Durante il periodo della semina dei cereali e fino a tutto il mese di marzo e' consentita la cattura del passero con i mezzi vietati di cui all'art. 14, comma 3°, del testo unico, approvato con [R. decreto 15 gennaio 1931, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-15;117). 
+Durante il periodo della semina dei cereali e fino a tutto il mese di marzo e' consentita la cattura del passero con i mezzi vietati di cui all'art. 14, comma 3°, del testo unico, approvato con [R. decreto 15 gennaio 1931, n. 117](Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20decreti%20per%20la%20protezione%20della%20selvaggina%20e%20per%20lesercizio%20della%20caccia.%20031U0117.md). 
  
  Le zone nelle quali potra' essere ammesso l'impiego di questi mezzi e le modalita' dell'impiego saranno determinate dagli Ispettori provinciali dell'agricoltura di concerto con le Commissioni venatorie. 
  

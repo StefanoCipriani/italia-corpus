@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1754](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1754), recante provvedimenti per l'incremento dell'olivicoltura. 
+ E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1754](Provvedimenti%20per%20lincremento%20della%20olivicoltura.%20027U1754.md), recante provvedimenti per l'incremento dell'olivicoltura. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

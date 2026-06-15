@@ -22,15 +22,15 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 28 del testo unico sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016); 
+ Visto l'art. 28 del testo unico sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md); 
  
- Visto l'art. 51 del regolamento, approvato con [R. decreto 16 maggio 1912, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;556), per la gestione amministrativa e contabile del fondo per l'emigrazione; 
+ Visto l'art. 51 del regolamento, approvato con [R. decreto 16 maggio 1912, n. 556](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20del%20Fondo%20per%20lemigrazione.%20012U0556.md), per la gestione amministrativa e contabile del fondo per l'emigrazione; 
  
  Ritenuta la necessita' di provvedere ad imprescindibili bisogni mediante l'istituzione di nuovi capitoli nello stato di previsione della spesa del fondo per l'emigrazione per l'esercizio finanziario 1917-918 per la complessiva somma di lire ventiseimilaottocento; 
  
  Ritenuto che il fondo di riserva per le spese impreviste stanziato nel bilancio del fondo per l'emigrazione per il corrente esercizio finanziario e' interamente disponibile; 
  
- Vista la [legge 26 luglio 1917, n. 1218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-26;1218) che autorizza l'esercizio provvisorio del bilancio del fondo per l'emigrazione per l'esercizio finanziario 1917-918 a tutto il mese di ottobre 1917; 
+ Vista la [legge 26 luglio 1917, n. 1218](Che%20autorizza%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20del%20fondo%20per%20lemigrazione%20per%20lesercizio%201917-918%20a%20tutto%20il%20mese%20di%20ottobre%201917.%20017U1218.md) che autorizza l'esercizio provvisorio del bilancio del fondo per l'emigrazione per l'esercizio finanziario 1917-918 a tutto il mese di ottobre 1917; 
  
  Sentito il Consiglio dei ministri; 
  

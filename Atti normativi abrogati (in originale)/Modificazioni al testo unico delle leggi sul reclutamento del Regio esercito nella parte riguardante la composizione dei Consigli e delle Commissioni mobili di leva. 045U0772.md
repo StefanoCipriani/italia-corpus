@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle disposizioni legislative sul reclutamento del Regio esercito, approvato con [R. decreto 24 febbraio 1938, n. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-02-24;329), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sul reclutamento del Regio esercito, approvato con [R. decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la guerra, di concerto coi Ministri per gli affa
 
 ## Art. 1.
 
-Al testo unico delle disposizioni legislative sul reclutamento del Regio esercito, approvato con [R. decreto 24 febbraio 1938, n. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-02-24;329), e successive modificazioni, sono apportate le seguenti varianti: 
+Al testo unico delle disposizioni legislative sul reclutamento del Regio esercito, approvato con [R. decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni, sono apportate le seguenti varianti: 
  
  L'art. 21 e' sostituito dal seguente: 
  «In tempo di guerra, o in contingenze straordinarie, il Ministro per la guerra ha facolta' di ordinare che le operazioni della leva militare nel Regno siano compiute da Commissioni temporanee con speciali modalita'». 

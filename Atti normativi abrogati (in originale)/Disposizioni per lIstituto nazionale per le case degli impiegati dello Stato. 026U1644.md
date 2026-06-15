@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 25 ottobre 1924, n. 1944](Disposizioni%20per%20fornire%20agli%20impiegati%20dello%20Stato%20civili%20e%20militari%20alloggi%20a%20condizioni%20favorevoli.%20024U1944.md), col quale e' stato creato l'Istituto nazionale per le case degli impiegati statali;
 
-Visto il [R. decreto 20 novembre 1924, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-20;1945), contenente le norme per l'esecuzione del citato R. decreto-legge 25 ottobre 1924;
+Visto il [R. decreto 20 novembre 1924, n. 1945](Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), contenente le norme per l'esecuzione del citato R. decreto-legge 25 ottobre 1924;
 
 Visto il [R. decreto-legge 7 febbraio 1926, n. 193](Ordinamento%20dei%20servizi%20preposti%20alla%20edilizia%20popolare%20ed%20economica%20ed%20altri%20provvedimenti%20in%20materia.%20026U0193.md), contenente nuove disposizioni per l'Istituto nazionale suddetto;
 
@@ -58,7 +58,7 @@ Ai membri ed ai segretari della Commissione suddetta, del Comitato centrale e de
  
  Le medaglie di presenza non possono superare il numero di quaranta all'anno, per ciascun membro di ciascun organo. 
  
- A favore dei revisori dei conti di cui all'[art. 17 del R. decreto 20 novembre 1924, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-20;1945#art_17), puo' essere assegnato un compenso nella misura da stabilirsi dal Comitato centrale dell'Istituto nazionale.
+ A favore dei revisori dei conti di cui all'[art. 17 del R. decreto 20 novembre 1924, n. 1945](Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), puo' essere assegnato un compenso nella misura da stabilirsi dal Comitato centrale dell'Istituto nazionale.
 
 ## Art. 4.
 
@@ -66,7 +66,7 @@ A termini del combinato disposto degli [articoli 3](Disposizioni%20per%20fornire
  
  Tutti gli altri enti finanziatovi hanno facolta' di incaricare uno dei rappresentanti suddetti per la trattazione presso il Comitato centrale degli affari che li interessino. 
  
- Fanno parte del Comitato centrale i due capi di ufficio di cui all'[art. 2 del R. decreto-legge 21 giugno 1925, n. 1185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-06-21;1185#art_2), restando pero' immutata la composizione della Giunta esecutiva di cui all'[art. 12 del R. decreto 20 novembre 1924, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-20;1945#art_12).
+ Fanno parte del Comitato centrale i due capi di ufficio di cui all'[art. 2 del R. decreto-legge 21 giugno 1925, n. 1185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-06-21;1185#art_2), restando pero' immutata la composizione della Giunta esecutiva di cui all'[art. 12 del R. decreto 20 novembre 1924, n. 1945](Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md).
 
 ## Art. 5.
 

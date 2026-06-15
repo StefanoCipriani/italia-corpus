@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 agosto 1925, n. 1513](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-08-30;1513), relativo alla costituzione del Ministero dell'aeronautica. 
+ E' convertito in legge il [R. decreto-legge 30 agosto 1925, n. 1513](Costituzione%20del%20Ministero%20dellaeronautica.%20025U1513.md), relativo alla costituzione del Ministero dell'aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

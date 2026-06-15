@@ -22,13 +22,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 1 della legge 21 dicembre 1903, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483#art_1), col quale fu autorizzata la conversione della rendita consolidata 4,50% netto in altra del consolidato 3,50% netto; 
+ Visto l'[art. 1 della legge 21 dicembre 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md), col quale fu autorizzata la conversione della rendita consolidata 4,50% netto in altra del consolidato 3,50% netto; 
  
  Visto l'art. 2 della legge stessa, col quale furono dichiarate esenti dalla conversione suddetta le rendite 4,50%, possedute dalle pubbliche istituzioni di beneficenza in quanto non vengano successivamente, per effetto di qualsiasi operazione, ad essere trasferite ad altri intestatari, ovvero tramutate al portatore; 
  
- Visto il regolamento approvato con [R. decreto 21 dicembre 1903, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-12-21;486), per l'esecuzione della legge suddetta; 
+ Visto il regolamento approvato con [R. decreto 21 dicembre 1903, n. 486](Che%20disciplina%20la%20conversione%20del%20consolidato%20450%20in%20consolidato%20350%20per%20cento.%20003U0486.md), per l'esecuzione della legge suddetta; 
  
- Visto il [R. decreto 21 marzo 1915, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-21;443), relativo a variazioni del bilancio della spesa del Ministero del tesoro per l'esercizio 1914-915 dipendenti dalle conversioni di rendite del consolidato 4,50% netto in altre del consolidato 3,50% netto eseguite nel secondo semestre dell'anno 1914; 
+ Visto il [R. decreto 21 marzo 1915, n. 443](Col%20quale%20sono%20introdotte%20alcune%20variazioni%20nel%20bilancio%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201914-915%20015U0443.md), relativo a variazioni del bilancio della spesa del Ministero del tesoro per l'esercizio 1914-915 dipendenti dalle conversioni di rendite del consolidato 4,50% netto in altre del consolidato 3,50% netto eseguite nel secondo semestre dell'anno 1914; 
  
  Ritenuto che nel corso del semestre dal 1° gennaio al 30 giugno 1915 in seguito ad ulteriori accertamenti, da parte della Direzione generale del debito pubblico venne riconosciuto che tra le rendite conservate provvisoriamente nel consolidato 4.50% netto dovevano essere e vennero, di fatto, convertite nel consolidato 3.50% netto, iscrizioni: 
  
@@ -46,7 +46,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Ritenuto che venne disposto il ricupero delle differenze d'importo delle rate scadute dopo il 1° gennaio 1904 delle iscrizioni al consolidato 4,50% netto, le quali avrebbero dovuto essere convertite in 3,50% netto, con decorrenza dalla stessa data; 
  
- Ritenuto che trattandosi di operazioni gia' definitivamente compiute in virtu' della citata [legge 21 dicembre 1903, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483), devesi ora provvedere soltanto per le variazioni dei due capitoli dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1914-915, relativi ai debiti consolidati anzidetti; 
+ Ritenuto che trattandosi di operazioni gia' definitivamente compiute in virtu' della citata [legge 21 dicembre 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md), devesi ora provvedere soltanto per le variazioni dei due capitoli dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1914-915, relativi ai debiti consolidati anzidetti; 
  
  Visto l'art. 14 del regolamento sopra ricordato; 
  

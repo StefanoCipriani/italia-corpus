@@ -14,11 +14,11 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
-Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), e successive modifiche;
+Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modifiche;
 
-Visto il testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), e successive modifiche;
+Visto il testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modifiche;
 
-Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686);
+Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
 
 Visto il [decreto del Presidente della Repubblica 30 dicembre 1971, n. 1252](Regolamento%20per%20il%20concorso%20di%20ammissione%20alla%20carriera%20diplomatica.md);
 
@@ -66,7 +66,7 @@ L'[art. 1, comma primo, n. 3), del decreto del Presidente della Repubblica 30 di
  lingue e letterature orientali".
 
 AVVERTENZA: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
  - Il [comma 1 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com1) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possano essere emanati regolamenti per: 
@@ -113,9 +113,9 @@ AVVERTENZA:
  filologia e storia dell'Europa orientale, 
  lingue e civilta' orientali, 
  lingue e letterature orientali; 
- 4) buona condotta, che sara' accertata d'ufficio ai sensi dell'[art. 2 del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686#art_2) (il requisito della buona condotta e' stato eliminato dall'articolo unico della [legge 29 ottobre 1984, n. 732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;732), n.d.r.); 
+ 4) buona condotta, che sara' accertata d'ufficio ai sensi dell'[art. 2 del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md) (il requisito della buona condotta e' stato eliminato dall'articolo unico della [legge 29 ottobre 1984, n. 732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;732), n.d.r.); 
  5) costituzione fisica che permetta di affrontare qualsiasi clima ed assenza di imperfezioni fisiche che siano di impedimento o di pregiudizio all'esercizio delle funzioni proprie della carriera. 
- Si applicano le disposizioni del [quinto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_2-com5) e [settimo comma dell'art. 2 del decreto del Presidente della Repubblica 10  gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_2-com7).".
+ Si applicano le disposizioni del [quinto](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [settimo comma dell'art. 2 del decreto del Presidente della Repubblica 10  gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).".
 
 ## Art. 2.
 

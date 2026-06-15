@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 25 luglio 1952, n. 1009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;1009), recante norme per la fecondazione artificiale degli animali;
+Vista la [legge 25 luglio 1952, n. 1009](Norme%20per%20la%20fecondazione%20artificiale%20degli%20animali.md), recante norme per la fecondazione artificiale degli animali;
 
 Visto l'[art. 40 del decreto del Presidente della Repubblica 10 giugno 1955, n. 854](Decentramento%20dei%20servizi%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.md);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per l'agricoltura e le foreste di concerto con l'Alt
 
 ## Art. 1.
 
-Le autorizzazioni relative alle attivita' di cui all'[art. 1 della legge 25 luglio 1952, n. 1009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;1009#art_1), vengono rilasciate dando la precedenza agli Enti pubblici che per natura e scopi statutari perseguano finalita' direttamente connesse con il miglioramento zootecnico e con la difesa sanitaria del bestiame e ai Consorzi di allevatori legalmente costituiti.
+Le autorizzazioni relative alle attivita' di cui all'[art. 1 della legge 25 luglio 1952, n. 1009](Norme%20per%20la%20fecondazione%20artificiale%20degli%20animali.md), vengono rilasciate dando la precedenza agli Enti pubblici che per natura e scopi statutari perseguano finalita' direttamente connesse con il miglioramento zootecnico e con la difesa sanitaria del bestiame e ai Consorzi di allevatori legalmente costituiti.
 
 ## Art. 2.
 
@@ -59,14 +59,14 @@ Per ottenere l'autorizzazione ai fini della istituzione e della attivazione degl
  e) organizzazione tecnica ed economica per la distribuzione del materiale seminale agli inseminatori operanti nei sottocentri e a domicilio;
  f) numero e razze delle fattrici che potranno essere annualmente inseminate;
  g) nominativo del veterinario preposto alla direzione dell'impianto.
- Devono inoltre allegarsi, in unico esemplare, un documento comprovante che il veterinario preposto alla direzione dell'impianto ha frequentato, con esito favorevole, lo speciale corso di perfezionamento previsto dall'[art. 1 della legge 25 luglio 1952, n 1009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;1009#art_1), ed un certificato dal quale risulti che il veterinario e' iscritto all'Albo dei medici veterinari.
+ Devono inoltre allegarsi, in unico esemplare, un documento comprovante che il veterinario preposto alla direzione dell'impianto ha frequentato, con esito favorevole, lo speciale corso di perfezionamento previsto dall'[art. 1 della legge 25 luglio 1952, n 1009](Norme%20per%20la%20fecondazione%20artificiale%20degli%20animali.md), ed un certificato dal quale risulti che il veterinario e' iscritto all'Albo dei medici veterinari.
  I documenti di cui al precedente comma sono trasmessi alla Prefettura a cura della Commissione provinciale approvazione tori.
 
 ## Art. 6.
 
 Sulla domanda, presentata per ottenere l'autorizzazione di cui al precedente art. 5, riferisce preventivamente, ai fini zootecnici, una apposita Commissione e, ai fini sanitari, la Prefettura competente per territorio la Commissione di cui al precedente comma e' costituita dall'ispettore agrario compartimentale, con funzioni di presidente, o, in caso di assenza o di impedimento, dal funzionario preposto ai servizi zootecnici dello stesso Ispettorato, dal veterinario provinciale del capoluogo, sede di compartimento, o dal direttore dell'Istituto sperimentale zooprofilattico, competente per circoscrizione, e da un rappresentante delle organizzazioni di allevatori operanti nelle Province interessate.
  Alla nomina del rappresentante degli allevatori in seno alla Commissione provvede il Ministero dell'agricoltura e delle foreste, su proposta degli Ispettorati agrari compartimentali, sentita la Associazione italiana allevatori.
- Alle spese di funzionamento della Commissione si provvede con quote da ricavare dai fondi ordinari delle gestioni delle Commissioni provinciali approvazione tori ([art. 3 della legge 25 luglio 1952, n. 1009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;1009#art_3)) in rapporto al numero dei tori impiegati in ciascun. Provincia per la fecondazione artificiale.
+ Alle spese di funzionamento della Commissione si provvede con quote da ricavare dai fondi ordinari delle gestioni delle Commissioni provinciali approvazione tori ([art. 3 della legge 25 luglio 1952, n. 1009](Norme%20per%20la%20fecondazione%20artificiale%20degli%20animali.md)) in rapporto al numero dei tori impiegati in ciascun. Provincia per la fecondazione artificiale.
 
 ## Art. 7. — null
 
@@ -97,7 +97,7 @@ Per la sostituzione del titolare di un impianto o di un sottocentro al titolare 
 
 ## Art. 11.
 
-I veterinari abilitati ai sensi dell'[art. 1, quarto comma, della legge 25 luglio 1952, n. 1009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;1009#art_1-com4), esplicano le attivita' relative alla fecondazione artificiale:
+I veterinari abilitati ai sensi dell'[art. 1, quarto comma, della legge 25 luglio 1952, n. 1009](Norme%20per%20la%20fecondazione%20artificiale%20degli%20animali.md), esplicano le attivita' relative alla fecondazione artificiale:
  negli impianti, in qualita' di direttori tecnici o di loro coadiutori;
  nei sottocentri, in qualita' di operatori o di loro coadiutori.
  La sostituzione del direttore tecnico e la sostituzione degli operatori e dei coadiutori sono subordinate al nulla osta del prefetto, su richiesta del titolare dell'impianto o del sottocentro.
@@ -129,7 +129,7 @@ I titolari dei sottocentri, gli enti di cui al precedente art. 12, ed i veterina
 
 ## Art. 15.
 
-I riproduttori in dotazione ai centri di fecondazione artificiale devono risultare idonei dal punto di vista sanitario e rispondere ai requisiti previsti dal regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320).
+I riproduttori in dotazione ai centri di fecondazione artificiale devono risultare idonei dal punto di vista sanitario e rispondere ai requisiti previsti dal regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md).
  I requisiti genotipici-morfo funzionali dei tori da impiegare per la fecondazione artificiale vengono stabiliti dalle Commissioni tecniche direttive del Libro genealogico delle razze bovine di cui al decreto del Ministro per l'agricoltura e le foreste 30 giugno 1951 per le razze oggetto di miglioramento, e dalle Commissioni di cui al precedente art. 6 per le altre razze.
  I riproduttori maschi delle specie cavallina ed asinina da adibire alla fecondazione artificiale devono presentare i requisiti prescritti dalle Commissioni di cui allo [art. 4 della legge 16 ottobre 1954, n. 1051](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-16;1051#art_4).
  I riproduttori ovini e suini devono presentare i requisiti fissati dalla Commissione di cui all'art. 6 del presente regolamento.
@@ -217,11 +217,11 @@ Entro il 31 marzo di ogni anno i titolari degli impianti di produzione di materi
 
 ## Art. 27.
 
-La vigilanza sugli impianti di fecondazione artificiale e sull'impiego a domicilio del materiale seminale viene espletata dai funzionari del Ministero dell'agricoltura e delle foreste e dell'Alto Commissariato per l'igiene e la sanita' pubblica per la parte di rispettiva competenza, nonche', per quanto riguarda il distacco delle bollette di cui al precedente art. 23, dagli agenti di cui all'[art. 20 della legge 29 giugno 1929, n. 1366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-29;1366#art_20).
+La vigilanza sugli impianti di fecondazione artificiale e sull'impiego a domicilio del materiale seminale viene espletata dai funzionari del Ministero dell'agricoltura e delle foreste e dell'Alto Commissariato per l'igiene e la sanita' pubblica per la parte di rispettiva competenza, nonche', per quanto riguarda il distacco delle bollette di cui al precedente art. 23, dagli agenti di cui all'[art. 20 della legge 29 giugno 1929, n. 1366](Legge%20organica%20sulla%20produzione%20zootecnica.%20029U1366.md).
 
 ## Art. 28.
 
-I contravventori alle disposizioni contenute negli articoli 11, 12, 14, 15, 16, 17, 18, 19, 20, 21 (primo comma), 22, 23, 24, 25 e 26 del presente decreto sono puniti con l'ammenda fino ad un massimo di lire 50.000, ai sensi dell'[art. 5 della legge 25 luglio 1952, n. 1009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;1009#art_5).
+I contravventori alle disposizioni contenute negli articoli 11, 12, 14, 15, 16, 17, 18, 19, 20, 21 (primo comma), 22, 23, 24, 25 e 26 del presente decreto sono puniti con l'ammenda fino ad un massimo di lire 50.000, ai sensi dell'[art. 5 della legge 25 luglio 1952, n. 1009](Norme%20per%20la%20fecondazione%20artificiale%20degli%20animali.md).
 
 Il presente decreto munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 38 della legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889#art_38);
- Visto il [regio decreto 11 ottobre 1934, n. 2107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-11;2107), contenente norme per i passaggi dei presidi e professori degli istituti di istruzione tecnica alle presidenze e alle cattedre degli istituti di istruzione classica, scientifica e magistrale e viceversa;
+ Visto il [regio decreto 11 ottobre 1934, n. 2107](Norme%20circa%20i%20passaggi%20dei%20presidi%20direttori%20e%20professori%20dei%20Regi%20istituti%20distruzione%20media%20tecnica%20alle%20presidenze%20e%20alle%20cattedre%20dei%20Regi%20istituti%20medi%20distruzione%20classica%20scientifi_74cd36cb4b80.md), contenente norme per i passaggi dei presidi e professori degli istituti di istruzione tecnica alle presidenze e alle cattedre degli istituti di istruzione classica, scientifica e magistrale e viceversa;
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
  Sentito il Consiglio superiore della pubblica istruzione;
  Udito il parere del Consiglio di Stato;
@@ -22,7 +22,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- A modifica delle tabelle I e II, annesse al [regio decreto 11 ottobre 1934, n. 2107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-11;2107), nelle parti concernenti i passaggi di presidenza (lett. A), e' ammesso il passaggio dei presidi da uno ad altro tipo dei seguenti istituti: licei classici, licei scientifici, istituti magistrali, istituti tecnici commerciali e per geometri, istituti tecnici femminili, istituti tecnici per periti aziendali e corrispondenti in lingue estere.
+ A modifica delle tabelle I e II, annesse al [regio decreto 11 ottobre 1934, n. 2107](Norme%20circa%20i%20passaggi%20dei%20presidi%20direttori%20e%20professori%20dei%20Regi%20istituti%20distruzione%20media%20tecnica%20alle%20presidenze%20e%20alle%20cattedre%20dei%20Regi%20istituti%20medi%20distruzione%20classica%20scientifi_74cd36cb4b80.md), nelle parti concernenti i passaggi di presidenza (lett. A), e' ammesso il passaggio dei presidi da uno ad altro tipo dei seguenti istituti: licei classici, licei scientifici, istituti magistrali, istituti tecnici commerciali e per geometri, istituti tecnici femminili, istituti tecnici per periti aziendali e corrispondenti in lingue estere.
  I presidi degli istituti tecnici agrari, industriali e nautici che abbiano ottenuto il passaggio ad altro tipo di istituto tecnico non possono successivamente ottenere il passaggio ad istituti di istruzione classica, scientifica e magistrale, salvo che provengano da cattedre da cui sia ammesso il passaggio a cattedre dei licei classici, dei licei scientifici e degli istituti magistrali.
  E' richiesto, in ogni caso, il possesso della laurea.
 

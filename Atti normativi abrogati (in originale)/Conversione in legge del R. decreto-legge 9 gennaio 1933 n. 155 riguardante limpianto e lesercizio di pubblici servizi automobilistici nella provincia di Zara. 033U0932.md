@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 gennaio 1933, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-09;155), riguardante l'impianto e l'esercizio di pubblici servizi automobilistici nella provincia di Zara. 
+ E' convertito in legge il [R. decreto-legge 9 gennaio 1933, n. 155](Impianto%20ed%20esercizio%20di%20pubblici%20servizi%20automobilistici%20nella%20provincia%20di%20Zara.%20033U0155.md), riguardante l'impianto e l'esercizio di pubblici servizi automobilistici nella provincia di Zara. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

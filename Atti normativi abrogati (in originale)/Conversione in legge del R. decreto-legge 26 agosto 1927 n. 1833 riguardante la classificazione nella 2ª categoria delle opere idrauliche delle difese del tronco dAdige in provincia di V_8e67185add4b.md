@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 agosto 1927, n. 1833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-26;1833), che classifica nella 2ª categoria delle opere idrauliche le difese del tronco dell'Adige in provincia di Verona dal confine con la provincia di Trento all'inizio delle arginature gia' classificate nella 2ª categoria, a valle di Verona, compreso il tratto urbano della citta' di Verona. 
+ E' convertito in legge il [R. decreto-legge 26 agosto 1927, n. 1833](Classificazione%20in%20seconda%20categoria%20delle%20opere%20idrauliche%20di%20difesa%20di%20un%20tronco%20del%20fiume%20Adige%20in%20provincia%20di%20Verona.%20027U1833.md), che classifica nella 2ª categoria delle opere idrauliche le difese del tronco dell'Adige in provincia di Verona dal confine con la provincia di Trento all'inizio delle arginature gia' classificate nella 2ª categoria, a valle di Verona, compreso il tratto urbano della citta' di Verona. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

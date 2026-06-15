@@ -14,7 +14,7 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Ritenuta la straordinaria necessita' ed urgenza di provvedere immediatamente alla modifica di talune disposizioni contenute nella [legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298), e successive modificazioni ed integrazioni;
 
-Ritenuta, altresi', la straordinaria necessita' ed urgenza di adottare particolari misure di prevenzione per la sicurezza stradale, nonche' di assicurare la continuita' funzionale della [legge 15 giugno 1984, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-15;285), concernente il piano generale dei trasporti, attraverso l'utilizzazione dell'accantonamento disposto dalla [legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41);
+Ritenuta, altresi', la straordinaria necessita' ed urgenza di adottare particolari misure di prevenzione per la sicurezza stradale, nonche' di assicurare la continuita' funzionale della [legge 15 giugno 1984, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-15;285), concernente il piano generale dei trasporti, attraverso l'utilizzazione dell'accantonamento disposto dalla [legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 settembre 1986;
 
@@ -56,7 +56,7 @@ Il [secondo comma dell'articolo 41 della legge 6 giugno 1974, n. 298](https://ww
 
 2.
 
-Le licenze e le autorizzazioni di cui al comma 1 sono soggette, per ciascun veicolo compreso nell'unita' di trasporto, alle tasse di cui al n. 110 della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641).
+Le licenze e le autorizzazioni di cui al comma 1 sono soggette, per ciascun veicolo compreso nell'unita' di trasporto, alle tasse di cui al n. 110 della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md).
 
 3.
 

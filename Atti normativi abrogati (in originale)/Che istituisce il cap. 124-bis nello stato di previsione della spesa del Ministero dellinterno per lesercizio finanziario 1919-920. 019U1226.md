@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), sul conferimento al Governo dei poteri straordinari per la guerra: 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), sul conferimento al Governo dei poteri straordinari per la guerra: 
  
  Visti i RR. decreti 25 aprile e 23 maggio 1915, nn. 559, 675 e 688, sulla revisione preventiva della stampa e la censura telegrafica, telefonica e radiotelegrafica; 
  
- Vista la [legge 26 giugno 1919, n. 1005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1919-06-26;1005); 
+ Vista la [legge 26 giugno 1919, n. 1005](Che%20autorizza%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20della%20entrata%20e%20della%20spesa%20dellanno%20finanziario%201919-920%20fino%20al%2031%20luglio%201919.%20019U1005.md); 
  
  Udito il Consiglio dei ministri; 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' approvata l'assegnazione straordinaria di L. 120,000 da inscriversi nello stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio 1906-907, al nuovo capitolo n. 482-ter «Spese per la Commissione reale istituita in dipendenza della [legge 29 marzo 1900, n. 101](Circa%20i%20provvedimenti%20definitivi%20per%20gli%20Istituti%20di%20previdenza%20del%20personale%20ferroviario.%20000U0101.md), con [R. decreto 8 aprile 1900, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-04-08;137), per la valutazione e il riparto dei disavanzi degli Istituti di previdenza del personale ferroviario». 
+ E' approvata l'assegnazione straordinaria di L. 120,000 da inscriversi nello stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio 1906-907, al nuovo capitolo n. 482-ter «Spese per la Commissione reale istituita in dipendenza della [legge 29 marzo 1900, n. 101](Circa%20i%20provvedimenti%20definitivi%20per%20gli%20Istituti%20di%20previdenza%20del%20personale%20ferroviario.%20000U0101.md), con [R. decreto 8 aprile 1900, n. 137](Col%20quale%20si%20istituisce%20una%20Commissione%20incaricata%20di%20eseguire%20le%20valutazioni%20circa%20i%20disavanzi%20delle%20attuali%20Casse%20pensioni%20e%20di%20Mutuo%20soccorso%20per%20il%20personale%20delle%20Societa%20esercenti%20l_7349bbfe36d9.md), per la valutazione e il riparto dei disavanzi degli Istituti di previdenza del personale ferroviario». 
  
  Il Governo e' autorizzato ad imputare il pagamento di tale spesa, in conto residui, prelevando la corrispondente somma dai residui del fondo di riserva inscritto al capitolo n. 483 del predetto stato di previsione». 
  

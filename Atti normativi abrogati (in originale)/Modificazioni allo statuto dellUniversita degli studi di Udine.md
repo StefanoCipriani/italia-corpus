@@ -14,10 +14,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  Veduto lo statuto dell'Universita' di Udine, approvato con [decreto del Presidente della Repubblica 11 giugno 1979, n. 298](Approvazione%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Udine.md); 
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
- Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73); 
- Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni; 
- Veduto il [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;102), ed in particolare l'art. 6; 
- Veduta la [legge 11 aprile 1953, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312); 
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md); 
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni; 
+ Veduto il [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](../DPR/Norme%20sulla%20Universita%20statale%20di%20Udine%20e%20sulla%20istituzione%20ed%20il%20potenziamento%20di%20strutture%20per%20la%20ricerca%20scientifica%20e%20tecnologica%20di%20alta%20cultura%20ed%20universitarie%20in%20Trieste.md), ed in particolare l'art. 6; 
+ Veduta la [legge 11 aprile 1953, n. 312](Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md); 
  Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta; 
  Sentito il parere del Consiglio universitario nazionale; 
  Riconosciuta la necessita' di modificare lo statuto per quanto concerne l'istituzione della facolta' di lettere limitatamente per ora al corso di laurea di conservazione dei beni culturali ad indirizzo beni archivistici e librari; 

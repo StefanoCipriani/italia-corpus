@@ -20,9 +20,9 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto l'art. 1 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795);
+Veduto l'art. 1 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
 
-Veduti gli [articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141#art_15) e [16 della legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141#art_16), e 77 della [legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487);
+Veduti gli [articoli 15](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md) e [16 della legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md), e 77 della [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md);
 
 Ritenuta la necessita' di assicurare una maggiore stabilita' alla giurisprudenza del Consiglio superiore dell'istruzione pubblica, della Giunta di esso e delle sezioni della Giunta stessa per l'istruzione media e per l'istruzione primaria e popolare, evitandone i troppo improvvisi mutamenti derivanti dalla contemporanea scadenza dall'ufficio di un numero troppo grande di membri senza la possibilita' che siano riconfermati in tutto o in parte;
 
@@ -34,26 +34,26 @@ Sulla proposta del ministro segretario di Stato per la istruzione pubblica; Abbi
 
 ## Art. 1.
 
-Al comma penultimo dell'art. 1 del testo unico delle leggi sulla istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795), e' sostituito il seguente: 
+Al comma penultimo dell'art. 1 del testo unico delle leggi sulla istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e' sostituito il seguente: 
  
  «I membri del Consiglio superiore durano in carica quattro anni.
 Gli uscenti possono essere per eta' e per una sola volta rinominati o rieletti, alla scadenza, secondo le norme che saranno stabilite per regolamento: gli altri non possono essere nuovamente nominati che dopo due anni dal giorno della loro cessazione».
 
 ## Art. 2.
 
-Al [n. 1 dell'art. 15 della legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141#art_15-num1), sullo stato giuridico degli insegnanti delle scuole medie Regie e pareggiate e' sostituito il seguente: 
+Al [n. 1 dell'art. 15 della legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md), sullo stato giuridico degli insegnanti delle scuole medie Regie e pareggiate e' sostituito il seguente: 
  
  «1° di quattro membri del Consiglio superiore nominati dal ministro».
 
 ## Art. 3.
 
-Al [1° comma dell'art. 16 della legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141#art_16-com1) e' sostituito il seguente: 
+Al [1° comma dell'art. 16 della legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md) e' sostituito il seguente: 
  
  «I componenti della sezione di cui al n. 1 dell'articolo precedente scadranno dal loro ufficio quando cessino di appartenere al Consiglio superiore. Essi pero' potranno essere confermati quando siano nuova mente nominati od eletti al Consiglio stesso a norma dell'art. 1 del presente decreto».
 
 ## Art. 4.
 
-La sezione della Giunta dell'istruzione media, oltre che sugli affari ad essa deferiti dalle [leggi 8 aprile 1906 n. 141 e n. 142 e 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), da' parere sulle questioni relative agli obblighi di orario, degli insegnanti secondo l'art. 8 della citata legge 16 luglio 1914; sulla concessione di pareggiamento degli Istituti d'istruzione media e normale mantenuti da comuni, province ed enti morali; sulla revoca dei pareggiamenti stessi; sulla conversione in governative di scuole pareggiate mantenute da enti morali; e sulla chiusura di Istituti privati d'istruzione e di educazione. 
+La sezione della Giunta dell'istruzione media, oltre che sugli affari ad essa deferiti dalle [leggi 8 aprile 1906 n. 141 e n. 142 e 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), da' parere sulle questioni relative agli obblighi di orario, degli insegnanti secondo l'art. 8 della citata legge 16 luglio 1914; sulla concessione di pareggiamento degli Istituti d'istruzione media e normale mantenuti da comuni, province ed enti morali; sulla revoca dei pareggiamenti stessi; sulla conversione in governative di scuole pareggiate mantenute da enti morali; e sulla chiusura di Istituti privati d'istruzione e di educazione. 
  
  Il parere della sezione puo' essere anche richiesto dal ministro sui progetti di legge o di regolamento che riflettano l'ordinamento dell'istruzione media e normale.
 

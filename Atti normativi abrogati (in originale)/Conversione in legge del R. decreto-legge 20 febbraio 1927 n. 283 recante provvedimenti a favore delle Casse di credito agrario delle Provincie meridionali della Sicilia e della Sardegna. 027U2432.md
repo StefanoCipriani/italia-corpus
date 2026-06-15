@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 febbraio 1927, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-20;283), riguardante provvedimenti a favore delle Casse di Credito agrario delle Provincie meridionali, della Sicilia e della Sardegna. 
+ E' convertito in legge il [R. decreto-legge 20 febbraio 1927, n. 283](Provvedimenti%20a%20favore%20delle%20Casse%20di%20credito%20agrario%20delle%20Provincie%20meridionali%20della%20Sicilia%20e%20Sardegna.%20027U0283.md), riguardante provvedimenti a favore delle Casse di Credito agrario delle Provincie meridionali, della Sicilia e della Sardegna. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

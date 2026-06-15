@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge e il [R. decreto-legge 14 aprile 1934, n. 564](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;564), che disciplina l'approvvigionamento di talune merci estere in relazione con l'andamento degli scambi commerciali con i Paesi fornitori. 
+ E' convertito in legge e il [R. decreto-legge 14 aprile 1934, n. 564](Disciplina%20dellapprovvigionamento%20di%20talune%20merci%20estere%20in%20relazione%20con%20landamento%20degli%20scambi%20commerciali%20con%20i%20Paesi%20fornitori.%20034U0564.md), che disciplina l'approvvigionamento di talune merci estere in relazione con l'andamento degli scambi commerciali con i Paesi fornitori. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

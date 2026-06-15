@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuto che permane la necessita' e l'urgenza di disporre il differimento del termine del 1° gennaio 1980 stabilito dall'[art. 89, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_89-com2), in relazione alle iniziative gia' adottate per una riorganizzazione del settore della difesa idraulica;
+Ritenuto che permane la necessita' e l'urgenza di disporre il differimento del termine del 1° gennaio 1980 stabilito dall'[art. 89, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), in relazione alle iniziative gia' adottate per una riorganizzazione del settore della difesa idraulica;
 
 Vista la deliberazione del Consiglio dei Ministri del 29 febbraio 1980;
 
@@ -22,7 +22,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-Con effetto dal 31 dicembre 1979 il termine del 1° gennaio 1980, indicato nell'[art. 89, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_89-com2), e' differito al 31 dicembre 1981.
+Con effetto dal 31 dicembre 1979 il termine del 1° gennaio 1980, indicato nell'[art. 89, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), e' differito al 31 dicembre 1981.
 
 ## Art. 2.
 

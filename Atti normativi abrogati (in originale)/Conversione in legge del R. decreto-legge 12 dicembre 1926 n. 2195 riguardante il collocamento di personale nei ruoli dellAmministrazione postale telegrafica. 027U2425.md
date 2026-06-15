@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-12;2195), riguardante il collocamento di personale nei ruoli dell'Amministrazione postale telegrafica. 
+ E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2195](Collocamento%20di%20personale%20nei%20ruoli%20dellAmministrazione%20postale%20telegrafica.%20026U2195.md), riguardante il collocamento di personale nei ruoli dell'Amministrazione postale telegrafica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

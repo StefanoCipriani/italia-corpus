@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la leggo 22 maggio 1915, n. 671 
  
- Visto il [R. decreto 6 maggio 1915, n. 683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-06;683), e successive modificazioni; 
+ Visto il [R. decreto 6 maggio 1915, n. 683](Relativo%20al%20conferimento%20del%20grado%20militare%20al%20personale%20delle%20navi%20mercantili%20requisite%20quali%20incrociatori%20ausiliari.%20015U0683.md), e successive modificazioni; 
  
  Sentito il Consiglio dei ministri; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Alla tabella dei gradi da conferirsi alle persone dell'equipaggio dei piroscafi mercantili requisiti dallo Stato per servizi ausiliari, approvata con [R. decreto 6 maggio 1915, n. 683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-06;683), e' apportata la seguente variante: 
+ Alla tabella dei gradi da conferirsi alle persone dell'equipaggio dei piroscafi mercantili requisiti dallo Stato per servizi ausiliari, approvata con [R. decreto 6 maggio 1915, n. 683](Relativo%20al%20conferimento%20del%20grado%20militare%20al%20personale%20delle%20navi%20mercantili%20requisite%20quali%20incrociatori%20ausiliari.%20015U0683.md), e' apportata la seguente variante: 
  
  
 

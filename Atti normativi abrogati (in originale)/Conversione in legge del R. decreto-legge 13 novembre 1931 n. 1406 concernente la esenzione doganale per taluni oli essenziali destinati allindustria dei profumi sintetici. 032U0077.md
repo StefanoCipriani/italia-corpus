@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 novembre 1931, n. 1406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-13;1406), concernente la esenzione daziaria per taluni oli essenziali destinati all'industria dei profumi sintetici. 
+ E' convertito in legge il [R. decreto-legge 13 novembre 1931, n. 1406](Esenzione%20daziaria%20per%20taluni%20oli%20essenziali%20destinati%20alla%20industria%20dei%20profumi%20sintetici.%20031U1406.md), concernente la esenzione daziaria per taluni oli essenziali destinati all'industria dei profumi sintetici. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 18 gennaio 1932 - Anno X 
  

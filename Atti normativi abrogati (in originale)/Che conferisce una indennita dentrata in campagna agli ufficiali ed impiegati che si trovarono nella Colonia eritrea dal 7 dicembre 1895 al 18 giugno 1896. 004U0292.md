@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli ufficiali ed impiegati, che si trovarono nella Colonia Eritrea dal 7 dicembre 1895 al 18 giugno 1896, a complemento degli assegni gia' ricevuti in base all'ordinamento approvato con [R. decreto 18 febbraio 1894, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-02-18;68), e' accordata, per il fatto del passaggio delle truppe allo stato di guerra, una indennita' di entrata in campagna nella misura stabilita dalla tabella annessa alla presente legge. 
+Agli ufficiali ed impiegati, che si trovarono nella Colonia Eritrea dal 7 dicembre 1895 al 18 giugno 1896, a complemento degli assegni gia' ricevuti in base all'ordinamento approvato con [R. decreto 18 febbraio 1894, n. 68](Sullordinamento%20dei%20servizi%20civili%20e%20militari%20nella%20Colonia%20Eritrea.%20094U0068.md), e' accordata, per il fatto del passaggio delle truppe allo stato di guerra, una indennita' di entrata in campagna nella misura stabilita dalla tabella annessa alla presente legge. 
  
  La indennita' suddetta non e' cedibile ne' sequestrabile, e sara' esente dalla tassa sui redditi di ricchezza mobile.
 

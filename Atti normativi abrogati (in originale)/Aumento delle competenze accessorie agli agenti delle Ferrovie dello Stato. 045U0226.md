@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-07;405), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e successive modificazioni;
+Visto il [R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e successive modificazioni;
 
-Visto il [R. decreto-legge 29 luglio 1937, n. 1616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-29;1616);
+Visto il [R. decreto-legge 29 luglio 1937, n. 1616](Ordinamento%20giuridico%20e%20trattamento%20economico%20del%20personale%20delle%20Ferrovie%20dello%20Stato%20addetto%20al%20servizio%20delle%20navi%20traghetto.%20037U1616.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per i trasporti, d'intesa col Mi
 
 ## Art. 1.
 
-L'indennita' di malaria e i compensi per alloggi, di cui rispettivamente agli articoli 30 e 33 delle disposizioni sulle competenze accessorie approvate con [R. decreto-legge 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-07;405), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e successive modificazioni sono raddoppiati.
+L'indennita' di malaria e i compensi per alloggi, di cui rispettivamente agli articoli 30 e 33 delle disposizioni sulle competenze accessorie approvate con [R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e successive modificazioni sono raddoppiati.
 
 ## Art. 2.
 

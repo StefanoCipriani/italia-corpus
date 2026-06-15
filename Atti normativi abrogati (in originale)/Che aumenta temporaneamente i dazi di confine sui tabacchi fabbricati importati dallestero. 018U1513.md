@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Finche' restera' in vigore il [decreto Luogotenenziale 8 settembre 1918, n. 1304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-08;1304), che ha provveduto ad aumentare il prezzo di vendita al pubblico di tutti i tabacchi nazionali, i dazi sui tabacchi fabbricati importati dall'estero saranno riscossi nelle misure indicate dalla seguente tabella di modificazioni alla tariffa generale dei dazi doganali (testo unico approvato con [R. decreto 28 luglio 1910, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-28;577)): 
+Finche' restera' in vigore il [decreto Luogotenenziale 8 settembre 1918, n. 1304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-08;1304), che ha provveduto ad aumentare il prezzo di vendita al pubblico di tutti i tabacchi nazionali, i dazi sui tabacchi fabbricati importati dall'estero saranno riscossi nelle misure indicate dalla seguente tabella di modificazioni alla tariffa generale dei dazi doganali (testo unico approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md)): 
  
  Numero dazio 
  e lettera Denominazione della merce Unita' di entrata  della tariffa lire in oro 

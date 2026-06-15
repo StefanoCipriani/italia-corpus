@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-03;976), che reca disposizioni per l'allargamento della via Roma, in Torino, e per il risanamento dei quartieri adiacenti. 
+ E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 976](Provvedimenti%20per%20lallargamento%20della%20via%20Roma%20in%20Torino%20e%20per%20il%20risanamento%20dei%20quartieri%20adiacenti.%20030U0976.md), che reca disposizioni per l'allargamento della via Roma, in Torino, e per il risanamento dei quartieri adiacenti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiuque spetti di osservarla e di farla osservare come legge dello Stato. 
  

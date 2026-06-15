@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1934, numero 1170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1170), che ha portato modificazioni al [R. decreto-legge 1° luglio 1926, n. 1197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-01;1197), convertito nella [legge 9 giugno 1927, n. 1126](Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20luglio%201926%20numero%201197%20recante%20provvedimenti%20per%20lamministrazione%20autonoma%20delle%20Regie%20grotte%20demaniali%20di%20Postumia.%20027U1126.md), riguardante l'Azienda demaniale di Postumia, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1934, numero 1170](Modificazioni%20al%20R.%20decreto-legge%201%20luglio%201926%20n.%201197%20convertito%20nella%20legge%209%20giugno%201927%20n.%201126%20riguardante%20lAzienda%20demaniale%20di%20Postumia.%20034U1170.md), che ha portato modificazioni al [R. decreto-legge 1° luglio 1926, n. 1197](Provvedimenti%20per%20lamministrazione%20autonoma%20delle%20Regie%20grotte%20demaniali%20di%20Postumia.%20026U1197.md), convertito nella [legge 9 giugno 1927, n. 1126](Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20luglio%201926%20numero%201197%20recante%20provvedimenti%20per%20lamministrazione%20autonoma%20delle%20Regie%20grotte%20demaniali%20di%20Postumia.%20027U1126.md), riguardante l'Azienda demaniale di Postumia, con la seguente modificazione: 
  
  All'art. 4, dopo le parole: «e' autorizzata», inserire le seguenti: «previo consenso del Ministro per le finanze». 
  

@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 5 settembre 1938, n. 1662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-05;1662), convertito nella [legge 3 gennaio 1939, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-03;130), sul riordinamento delle Stazioni sperimentali per l'industria;
+Visto il [regio decreto 5 settembre 1938, n. 1662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-05;1662), convertito nella [legge 3 gennaio 1939, n. 130](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%205%20settembre%201938-XVI%20n.%201662%20concernente%20il%20riordinamento%20del%20personale%20delle%20Regie%20stazioni%20sperimentali%20per%20lindustria.%20039U0130.md), sul riordinamento delle Stazioni sperimentali per l'industria;
 
-Visto il [regio decreto 23 marzo 1940, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-03-23;744), che trasforma la Sezione per i combustibili annessa all'istituto di chimica industriale del Politecnico di Milano in Stazione sperimentale per i combustibili;
+Visto il [regio decreto 23 marzo 1940, n. 744](Trasformazione%20della%20Sezione%20per%20i%20combustibili%20annessa%20allIstituto%20di%20chimica%20industriale%20del%20Regio%20politecnico%20di%20Milano%20in%20Regia%20stazione%20sperimentale%20per%20i%20combustibili.%20040U0744.md), che trasforma la Sezione per i combustibili annessa all'istituto di chimica industriale del Politecnico di Milano in Stazione sperimentale per i combustibili;
 
-Visti i [regi decreti 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive loro modificazioni ed aggiunte;
+Visti i [regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive loro modificazioni ed aggiunte;
 
 Udito il parere del Consiglio di Stato;
 
@@ -24,8 +24,8 @@ Sulla proposta del Ministro per l'industria e per il commercio, di concerto con 
 
 ## Art. 1.
 
-L'[art. 5 del regio decreto 23 marzo 1940, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-03-23;744#art_5), e' sostituito dai seguenti: 
- Art. 5. - Alle esigenze funzionali della Stazione sperimentale per i combustibili viene provveduto aumentando la tabella A), allegata al [regio decreto-legge 5 settembre 1938, n. 1662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;1662), e la tabella I), allegata al [regio decreto-legge 9 febbraio 1939, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-09;271), come appresso: 
+L'[art. 5 del regio decreto 23 marzo 1940, n. 744](Trasformazione%20della%20Sezione%20per%20i%20combustibili%20annessa%20allIstituto%20di%20chimica%20industriale%20del%20Regio%20politecnico%20di%20Milano%20in%20Regia%20stazione%20sperimentale%20per%20i%20combustibili.%20040U0744.md), e' sostituito dai seguenti: 
+ Art. 5. - Alle esigenze funzionali della Stazione sperimentale per i combustibili viene provveduto aumentando la tabella A), allegata al [regio decreto-legge 5 settembre 1938, n. 1662](Riordinamento%20del%20personale%20delle%20Regie%20stazioni%20sperimentali%20per%20lindustria.%20038U1662.md), e la tabella I), allegata al [regio decreto-legge 9 febbraio 1939, n. 271](Modificazione%20dellordinamento%20dei%20servizi%20e%20dei%20ruoli%20organici%20del%20Ministero%20delle%20corporazioni.%20039U0271.md), come appresso: 
  a) di un posto di direttore (dal grado 7° al grado 4°), uno di vice direttore (grado 7°), uno di aiuto direttore (grado 8°), uno di assistente di 1ª classe (grado 9°) e uno di assistente di 2ª classe (grado 10°) nei ruoli di gruppo A del personale direttivo e tecnico; 
  b) di un posto di primo segretario (grado 9°) nel ruolo di gruppo B del personale di segreteria; 
  c) di un posto di primo assistente (grado 10°), uno di assistente di 1ª classe (grado 11°) e uno di assistente di 2ª classe (grado 12°) nel ruolo del personale d'ordine (gruppo C). 

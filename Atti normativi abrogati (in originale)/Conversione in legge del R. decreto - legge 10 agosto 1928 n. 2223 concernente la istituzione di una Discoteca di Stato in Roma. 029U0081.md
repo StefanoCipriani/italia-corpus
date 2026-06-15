@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 agosto 1928, n. 2223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-10;2223), concernente la istituzione di una Discoteca di Stato in Roma. 
+ E' convertito in legge il [R. decreto-legge 10 agosto 1928, n. 2223](Istituzione%20di%20una%20Discoteca%20di%20Stato%20in%20Roma.%20028U2223.md), concernente la istituzione di una Discoteca di Stato in Roma. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

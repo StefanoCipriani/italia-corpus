@@ -22,7 +22,7 @@ Vista la [legge 26 dicembre 1936, n. 2174](Esposizione%20Universale%20ed%20Inter
 
 Visto il [R. decreto-legge 6 maggio 1937, n. 1756](Costituzione%20in%20Napoli%20dellEnte%20autonomo%20Mostra%20triennale%20delle%20terre%20italiane%20doltremare.%20037U1756.md);
 
-Visto il [R. decreto 25 gennaio 1937, n. 484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-01-25;484);
+Visto il [R. decreto 25 gennaio 1937, n. 484](Regolamento%20dei%20contributi%20sindacali.%20037U0484.md);
 
 Ritenuta la necessita' urgente ed assoluta di regolare la partecipazione delle categorie produttrici all'Esposizione universale di Roma, mediante applicazione di contributi a carico dei datori di lavoro dei lavoratori;
 

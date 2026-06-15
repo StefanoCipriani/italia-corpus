@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-In deroga a quanto e' previsto dall'art. 1, ultimo comma, del testo unico delle norme concernenti gli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-05-30;797), gli assegni familiari spettano ai lavoratori stranieri immigrati in Italia anche se le persone a carico per le quali la corresponsione degli assegni e' prevista risiedono nello Stato del quale i lavoratori stessi sono cittadini.
+In deroga a quanto e' previsto dall'art. 1, ultimo comma, del testo unico delle norme concernenti gli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), gli assegni familiari spettano ai lavoratori stranieri immigrati in Italia anche se le persone a carico per le quali la corresponsione degli assegni e' prevista risiedono nello Stato del quale i lavoratori stessi sono cittadini.
  La disposizione di cui al precedente comma si applica ai lavoratori stranieri cittadini di Stati i quali provvedono ad un trattamento di reciprocita' in favore dei cittadini italiani ed ha effetto dalla stessa data di decorrenza con la quale il trattamento di reciprocita' e' attuato dal Paese del quale i lavoratori stessi sono cittadini.
  Restano salve le particolari disposizioni previste in materia dalle Convenzioni internazionali stipulate tra l'Italia ed altri Stati.
 

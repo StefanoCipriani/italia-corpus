@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2162), che reca norme complementari per la disciplina del lavoro nei porti del Regno. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2162](Norme%20complementari%20per%20la%20disciplina%20del%20lavoro%20nei%20porti.%20027U2162.md), che reca norme complementari per la disciplina del lavoro nei porti del Regno. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,13 +10,13 @@ vigente: true
 
 IL MINISTRO DEL TESORO
 
-Veduto il [regio decreto 4 agosto 1893, n. 452](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-08-04;452), che ha autorizzata l'emissione temporanea di buoni di cassa a corso legale, del valore nominale di lire una, da non eccedere complessivamente il valore nominale di 30 milioni di lire;
+Veduto il [regio decreto 4 agosto 1893, n. 452](Che%20autorizza%20lemissione%20di%20Buoni%20di%20Cassa%20a%20corso%20legale.%20093U0452.md), che ha autorizzata l'emissione temporanea di buoni di cassa a corso legale, del valore nominale di lire una, da non eccedere complessivamente il valore nominale di 30 milioni di lire;
 
 Veduta la proposta del direttore ff. della officina delle carte valori in Torino, presidente della commissione tecnica, di cui all'art. 33 del regolamento approvato con regio decreto 16 giugno 1881, n. 253 (serie 3ª); Determina:
 
 ## Art. 1.
 
-I buoni di cassa da lire una, la cui emissione temporanea, a corso legale, fu autorizzata con [regio decreto 4 agosto 1893, n. 452](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-08-04;452), da non eccedere complessivamente il valore nominale di trenta milioni di lire, saranno impressi a diversi colori su carta bianca a mano, gelatinata, ed avranno i segni ed i distintivi seguenti, e cioe': 
+I buoni di cassa da lire una, la cui emissione temporanea, a corso legale, fu autorizzata con [regio decreto 4 agosto 1893, n. 452](Che%20autorizza%20lemissione%20di%20Buoni%20di%20Cassa%20a%20corso%20legale.%20093U0452.md), da non eccedere complessivamente il valore nominale di trenta milioni di lire, saranno impressi a diversi colori su carta bianca a mano, gelatinata, ed avranno i segni ed i distintivi seguenti, e cioe': 
  
  Esclusi i margini, il recto di ciascun buono si stende in larghezza per millimetri 72 ed in altezza per millimetri 36, e si compone di tre parti distinte, ossiano il fondo, l'ornato ed il testo. 
  
@@ -36,7 +36,7 @@ I buoni di cassa da lire una, la cui emissione temporanea, a corso legale, fu au
  
  Sotto il testo sonvi le firme del cassiere speciale Dell'Ara e del delegato della corte dei conti Righetti. 
  
- A sinistra poi del riguardante e parallelamente all'altezza del recto scorgesi, stampata in carattere maiuscolo a bastoncino, la dicitura [Regio decreto 4 agosto 1893, n. 452](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-08-04;452). 
+ A sinistra poi del riguardante e parallelamente all'altezza del recto scorgesi, stampata in carattere maiuscolo a bastoncino, la dicitura [Regio decreto 4 agosto 1893, n. 452](Che%20autorizza%20lemissione%20di%20Buoni%20di%20Cassa%20a%20corso%20legale.%20093U0452.md). 
  
  Il verso di ciascun buono e' un rettangolo, in colore azzurro di Berlino, avente la precisa dimensione del recto ed incorniciato da un fregio imitante una trina. A breve distanza dal fregio anzidetto svolgesi, in forma poligonale, una fascia a linee rette e curve, ed internamente a questa un meandro che, colle sue spire, collega fra loro un ovale e due circoli fiancheggianti l'ovale stesso. In detto ovale campeggia lo stemma ufficiale dello Stato su fondo bianco; nel circolo di sinistra la grande cifra 1 fregiata ed intrecciantesi con un'artistica maiuscola L su fondo lineato; nel circolo di destra una leggenda, su fondo bianco, composta di maiuscoletto in carattere bastoncino, distribuita su dieci linee e cosi' concepita: 
  

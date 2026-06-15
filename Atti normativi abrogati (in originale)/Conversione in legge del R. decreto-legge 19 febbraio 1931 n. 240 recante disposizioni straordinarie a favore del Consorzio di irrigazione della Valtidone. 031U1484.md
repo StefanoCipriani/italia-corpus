@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 febbraio 1931, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-02-19;240), recante disposizioni straordinarie a favore del Consorzio d'irrigazione della Valtidone, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 19 febbraio 1931, n. 240](Disposizioni%20straordinarie%20a%20favore%20del%20Consorzio%20dirrigazione%20della%20Valtidone.%20031U0240.md), recante disposizioni straordinarie a favore del Consorzio d'irrigazione della Valtidone, con le seguenti modificazioni: 
  Al 1° comma dell'art. 1 sostituire il seguente: «Gli istituti speciali di credito agrario sono autorizzati, anche in deroga agli statuti e convenzioni che ne disciplinano il funzionamento, a concedere al Consorzio d'irrigazione della Valtidone, con sede in Piacenza, un mutuo ordinario dell'importo di 25 milioni di lire». 
  Dopo il 1° comma dell'art. 5 aggiungere il seguente: «Nello stato di previsione del Ministero predetto per l'esercizio 1931-1932, e' pertanto istituito il capitolo 80-quater, con la denominazione seguente: Contributo annuo straordinario al Consorzio d'irrigazione della Valtidone, con sede in Piacenza (1ª delle trenta annualita') di L. 1.900.000». 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 

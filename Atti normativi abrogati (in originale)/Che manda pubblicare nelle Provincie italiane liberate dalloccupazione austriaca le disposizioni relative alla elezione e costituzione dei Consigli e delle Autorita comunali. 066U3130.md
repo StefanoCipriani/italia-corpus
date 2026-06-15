@@ -318,7 +318,7 @@ Tre membri almeno dell'ufficio dovranno sempre trovarsi presenti alle operazioni
 
 ### Art. 39.
 
-Chi con finto nome avra' dato il suo suffragio in un'adunanza elettorale in cui non dovesse intervenire, o che si fosse giovato di falsi titoli o documenti per essere iscritto sulle liste elettorali, perdera' per dieci anni l'esercizio d'ogni diritto politico, senza pregiudizio delle pene che potessero per lo stesso fatto essergli inflitte a termini del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+Chi con finto nome avra' dato il suo suffragio in un'adunanza elettorale in cui non dovesse intervenire, o che si fosse giovato di falsi titoli o documenti per essere iscritto sulle liste elettorali, perdera' per dieci anni l'esercizio d'ogni diritto politico, senza pregiudizio delle pene che potessero per lo stesso fatto essergli inflitte a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 40.
 

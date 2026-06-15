@@ -76,7 +76,7 @@ Le riassunzioni in servizio, ai sensi degli articoli 1 e 3, non sono considerate
 
 ## Art. 8.
 
-La qualifica di partigiano combattente puo' essere provvisoriamente comprovata da attestazione della "Associazione Nazionale Partigiani d'Italia", salvo regolarizzazione a seguito del riconoscimento di essa da parte delle commissioni competenti, nei modi previsti dal [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;518).
+La qualifica di partigiano combattente puo' essere provvisoriamente comprovata da attestazione della "Associazione Nazionale Partigiani d'Italia", salvo regolarizzazione a seguito del riconoscimento di essa da parte delle commissioni competenti, nei modi previsti dal [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md).
  Agli effetti del presente decreto e di ogni altra disposizione di legge, la qualifica di civile reduce dalla deportazione o dall'internamento e' comprovata con attestazione del Prefetto della provincia nel cui territorio l'interessato ha la sua residenza.
 
 ## Art. 9.
@@ -104,7 +104,7 @@ Le domande di riassunzione e di assunzione presentate da coloro che si trovino n
 
 ## Art. 14.
 
-Nulla e' innovato alle disposizioni contenute nel [decreto legislativo Luogotenenziale 4 agosto 1945, numero 453](Assunzione%20obbligatoria%20dei%20reduci%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20imprese%20private.%20045U0453.md) e nella [legge 21 agosto 1921, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-21;1312).
+Nulla e' innovato alle disposizioni contenute nel [decreto legislativo Luogotenenziale 4 agosto 1945, numero 453](Assunzione%20obbligatoria%20dei%20reduci%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20imprese%20private.%20045U0453.md) e nella [legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md).
 
 ## Art. 15.
 

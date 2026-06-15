@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 27 giugno 1941, n. 661](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-06-27;661), convertito, con modificazioni, nella [legge 5 dicembre 1941, n. 1507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-05;1507), recante modificazioni alle disposizioni relative alla carica di Capo di Stato Maggiore generale e alle sue attribuzioni;
+Visto il [R. decreto-legge 27 giugno 1941, n. 661](Modificazioni%20alle%20vigenti%20disposizioni%20relative%20alla%20carica%20dl%20Capo%20di%20Stato%20Maggiore%20Generale%20e%20alle%20sue%20attribuzioni.%20041U0661.md), convertito, con modificazioni, nella [legge 5 dicembre 1941, n. 1507](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20giugno%20194I-XIX%20n.%20661%20concernente%20modificazioni%20alle%20vigenti%20disposizioni%20relative%20alla%20carica%20di%20Capo%20di%20Stato%20Maggiore%20ge_85b5f9ee9b4b.md), recante modificazioni alle disposizioni relative alla carica di Capo di Stato Maggiore generale e alle sue attribuzioni;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

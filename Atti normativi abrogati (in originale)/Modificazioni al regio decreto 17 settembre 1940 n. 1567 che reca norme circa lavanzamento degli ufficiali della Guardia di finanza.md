@@ -10,25 +10,25 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'[art. 3 del regio decreto-legge 25 gennaio 1937, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-25;116#art_3), convertito nella [legge 7 giugno 1937, n. 993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-07;993), che reca modificazioni all'ordinamento della Guardia di finanza;
+Visto l'[art. 3 del regio decreto-legge 25 gennaio 1937, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-25;116#art_3), convertito nella [legge 7 giugno 1937, n. 993](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20che%20reca%20modificazioni%20allordinamento%20del%20Corpo%20della%20Regia%20guardia%20di%20finanza.%20037U0993.md), che reca modificazioni all'ordinamento della Guardia di finanza;
 
-Vista la [legge 7 giugno 1934, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-07;899), e successive modificazioni, sull'avanzamento degli ufficiali dell'Esercito;
+Vista la [legge 7 giugno 1934, n. 899](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20034U0899.md), e successive modificazioni, sull'avanzamento degli ufficiali dell'Esercito;
 
-Visto il regolamento per l'esecuzione della [legge 7 giugno 1934, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-07;899), approvato con [regio decreto 20 gennaio 1938, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-01-20;226), e successive modificazioni;
+Visto il regolamento per l'esecuzione della [legge 7 giugno 1934, n. 899](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20034U0899.md), approvato con [regio decreto 20 gennaio 1938, n. 226](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0226.md), e successive modificazioni;
 
-Visto il [regio decreto 29 luglio 1937, n. 1494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-29;1494), e successive modificazioni, che detta norme per l'assegnazione dei punti per la classifica dei capitani, dei maggiori e dei tenenti colonnelli, prescritta dall'[art. 47 della legge 7 giugno 1934, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-07;899#art_47), e successive modificazioni;
+Visto il [regio decreto 29 luglio 1937, n. 1494](Norme%20per%20lassegnazione%20dei%20punti%20per%20la%20classifica%20dei%20capitani%20maggiori%20e%20tenenti%20colonnelli%20prescritta%20dallart.%2047%20della%20legge%207%20giugno%201934-XII%20n.%20899%20e%20successive%20modificazioni.%20037U1494.md), e successive modificazioni, che detta norme per l'assegnazione dei punti per la classifica dei capitani, dei maggiori e dei tenenti colonnelli, prescritta dall'[art. 47 della legge 7 giugno 1934, n. 899](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20034U0899.md), e successive modificazioni;
 
-Visto il [regio decreto 6 dicembre 1937, n. 2350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-06;2350), che detta norme sull'avanzamento degli ufficiali della Guardia di finanza a scelta ordinaria al grado di capitano, maggiore e tenente colonnello;
+Visto il [regio decreto 6 dicembre 1937, n. 2350](Norme%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20guardia%20di%20Finanza.%20037U2350.md), che detta norme sull'avanzamento degli ufficiali della Guardia di finanza a scelta ordinaria al grado di capitano, maggiore e tenente colonnello;
 
-Visto il [regio decreto 17 settembre 1940, n. 1567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-17;1567), che detta norme per l'esecuzione dell'[art. 3 del regio decretolegge 25 gennaio 1937, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-25;116#art_3), convertito nella [legge 7 giugno 1937, n. 993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-07;993), che reca modificazioni all'ordinamento della Guardia di finanza;
+Visto il [regio decreto 17 settembre 1940, n. 1567](Norme%20per%20lesecuzione%20dellart.%203%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20convertito%20nella%20legge%207%20giugno%201937-XV%20n.%20993%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di_14063937e20d.md), che detta norme per l'esecuzione dell'[art. 3 del regio decretolegge 25 gennaio 1937, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-25;116#art_3), convertito nella [legge 7 giugno 1937, n. 993](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20che%20reca%20modificazioni%20allordinamento%20del%20Corpo%20della%20Regia%20guardia%20di%20finanza.%20037U0993.md), che reca modificazioni all'ordinamento della Guardia di finanza;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Ritenuta la necessita' urgente di modificare le norme sull'avanzamento degli ufficiali della Guardia di finanza;
 
-Visto l'[art. 1, n. 1, della, legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num1);
+Visto l'[art. 1, n. 1, della, legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -38,7 +38,7 @@ Sulla proposta del Ministro Segretario di Stato per le finanze, di concerto con 
 
 ## Art. 1.
 
-E' abrogato l'[art. 17 del regio decreto 17 settembre 1940, n. 1567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-17;1567#art_17).
+E' abrogato l'[art. 17 del regio decreto 17 settembre 1940, n. 1567](Norme%20per%20lesecuzione%20dellart.%203%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20convertito%20nella%20legge%207%20giugno%201937-XV%20n.%20993%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di_14063937e20d.md).
  Al predetto regio decreto sono inoltre apportate le modificazioni risultanti dagli articoli seguenti.
 
 ## Art. 2.
@@ -63,7 +63,7 @@ La lettera b) dell'art. 11 e' sostituita come segue:
 
 ## Art. 5.
 
-Fino a quando non sara' entrata in vigore la nuova legge di avanzamento degli ufficiali della Guardia di finanza e in ogni caso non oltre il 31 dicembre 1947, la procedura per l'avanzamento a scelta ordinaria al grado di maggiore sara' effettuata senza sottoporre i capitani al corso valutativo di cui all'[art. 18 del regio decreto 17 settembre 1940 n. 1567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-17;1567#art_18).
+Fino a quando non sara' entrata in vigore la nuova legge di avanzamento degli ufficiali della Guardia di finanza e in ogni caso non oltre il 31 dicembre 1947, la procedura per l'avanzamento a scelta ordinaria al grado di maggiore sara' effettuata senza sottoporre i capitani al corso valutativo di cui all'[art. 18 del regio decreto 17 settembre 1940 n. 1567](Norme%20per%20lesecuzione%20dellart.%203%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20convertito%20nella%20legge%207%20giugno%201937-XV%20n.%20993%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di_14063937e20d.md).
 
 ## Art. 6.
 

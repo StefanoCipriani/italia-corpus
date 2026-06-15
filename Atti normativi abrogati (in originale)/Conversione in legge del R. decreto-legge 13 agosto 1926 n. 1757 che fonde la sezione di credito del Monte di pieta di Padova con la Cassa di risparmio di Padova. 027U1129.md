@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto-legge 13 agosto 1926, n. 1757](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1757), che fonde la sezione di credito del Monte di pieta' di Padova con la Cassa di risparmio di Padova.
+E' convertito in legge il [R. decreto-legge 13 agosto 1926, n. 1757](Approvazione%20della%20convenzione%20per%20lassunzione%20del%20servizio%20della%20sezione%20di%20credito%20del%20Monte%20di%20pieta%20di%20Padova%20da%20parte%20della%20Cassa%20di%20risparmio%20di%20Padova.%20026U1757.md), che fonde la sezione di credito del Monte di pieta' di Padova con la Cassa di risparmio di Padova.
 
 ## Art. 2.
 

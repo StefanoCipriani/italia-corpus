@@ -117,7 +117,7 @@ Gli oli vegetali liquidi di cui all'art. ove non siano subito estratti dalle fab
 ## Art. 13.
 
 Le ditte che producono gli oli indicati all'art. 1 debbono prestare una cauzione ragguagliata al 10% dell'imposta corrispondente alla quantita' massima di prodotti che intendono tenere in deposito.
- La cauzione sara' prestata nel termine che sara' fissato dall'Amministrazione finanziaria e nei modi indicati all'[art. 36 del decreto-legge 6 ottobre 1948, n. 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-10-06;1200#art_36), convertito nella [legge 3 dicembre 1948, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-03;1388).
+ La cauzione sara' prestata nel termine che sara' fissato dall'Amministrazione finanziaria e nei modi indicati all'[art. 36 del decreto-legge 6 ottobre 1948, n. 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-10-06;1200#art_36), convertito nella [legge 3 dicembre 1948, n. 1388](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%206%20ottobre%201948%20n.%201200%20concernente%20modificazioni%20al%20regime%20fiscale%20degli%20alcoli%20e%20del%20benzolo.md).
  Chiunque omette di prestare nel termine di cui sopra la cauzione prevista dal presente articolo e' tenuto al pagamento di una pena pecuniaria dal doppio al quintuplo dell'imposta sulla quale si sarebbe dovuto ragguagliare la cauzione.
 
 ## Art. 14.
@@ -182,13 +182,13 @@ Il credito dello Stato per l'imposta e per i diritti previsti dal presente decre
 
 Chiunque fabbrica clandestinamente i prodotti indicati all'art. 1 del presente decreto punito, oltre che con la multa non minore del doppio ne' maggiore del decuplo dell'imposta corrispondente ai prodotti gia' ottenuti e ottenibili dalle materie rinvenute in fabbrica o nei locali annessi od attigui, con la reclusione fino a due anni. La multa non puo' essere in nessun caso inferiore ad un milione di lire.
  E' considerata fabbrica clandestina anche la sola esistenza nei locali di fabbrica o in locali annessi od attigui di apparecchi o meccanismi di produzione e di materie prime, ovvero di prodotti semilavorati e finiti, prima della prescritta denuncia.
- Gli apparecchi e i macchinari, i prodotti e le materie prime, oggetto della violazione di cui al primo comma del presente articolo, sono soggetti a confisca a termini della legge doganale 25 settembre 1940, n. 1424, e in deroga alle disposizioni dell'[art. 240 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+ Gli apparecchi e i macchinari, i prodotti e le materie prime, oggetto della violazione di cui al primo comma del presente articolo, sono soggetti a confisca a termini della legge doganale 25 settembre 1940, n. 1424, e in deroga alle disposizioni dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 26.
 
 Chiunque sottrae o tenta di sottrarre con qualunque mezzo i prodotti contemplati nell'art. 1 del presente decreto all'accertamento o al pagamento dell'imposta di fabbricazione e' punito, indipendentemente dal pagamento dell'imposta evasa, con la multa non minore del doppio ne' maggiore del decuplo dell'imposta stessa.
  La multa non puo' essere in nessun caso inferiore a L. 200.000. Il contravventore incorre nel ritiro della licenza.
- I prodotti sottratti o che si tentasse di sottrarre e le cose adoperate per commettere la frode sono soggetti a confisca ai termini della legge doganale 25 settembre 1940, n. 1424, e in deroga alle disposizioni dell'[art. 240 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+ I prodotti sottratti o che si tentasse di sottrarre e le cose adoperate per commettere la frode sono soggetti a confisca ai termini della legge doganale 25 settembre 1940, n. 1424, e in deroga alle disposizioni dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 27.
 
@@ -206,7 +206,7 @@ Chiunque omette di presentare la denuncia prescritta dall'art. 3 o la dichiarazi
 
 ## Art. 30.
 
-Chiunque manomette od altera in qualsiasi modo i congegni, i bolli ed i sigilli posti dall'Amministrazione e' punito a termine dell'[art. 349 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_349).
+Chiunque manomette od altera in qualsiasi modo i congegni, i bolli ed i sigilli posti dall'Amministrazione e' punito a termine dell'[art. 349 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 31.
 
@@ -228,7 +228,7 @@ Le pene della multa e dell'ammenda non eseguite per insolvenza del condannato si
 
 ## Art. 35.
 
-Le disposizioni di cui agli articoli 17, 25, 26, 27, 28, 29, 31, 32 e 33 per quanto concerne la misura delle pene della multa e della ammenda, sono adottate in deroga agli [articoli 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_24) e [26 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_26) e delle loro successive modificazioni.
+Le disposizioni di cui agli articoli 17, 25, 26, 27, 28, 29, 31, 32 e 33 per quanto concerne la misura delle pene della multa e della ammenda, sono adottate in deroga agli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle loro successive modificazioni.
 
 ## Art. 36.
 

@@ -38,7 +38,7 @@ Coloro che all'atto dell'entrata in vigore della presente legge gia' esercitino 
 
 ## Art. 4.
 
-Alla tariffa allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641), concernente la disciplina delle tasse sulle concessioni governative, e' aggiunto, dopo il n. 89, il seguente:
+Alla tariffa allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), concernente la disciplina delle tasse sulle concessioni governative, e' aggiunto, dopo il n. 89, il seguente:
 
  ----> Parte di provvedimento in formato grafico <----
 
@@ -48,7 +48,7 @@ I recipienti riempiti con gas di petrolio liquefatti, di capacita' non inferiore
  a) della responsabilita' civile cui e' tenuta essa impresa o qualsiasi altro soggetto per danni conseguenti all'uso dei recipienti e relativi annessi causati a persone, cose ed animali;
  b) della responsabilita' civile dell'utente o delle persone con esso conviventi, conseguenti all'uso dei recipienti e relativi annessi.
  L'assicurazione e' stipulata per somme non inferiori a 100 milioni per ogni evento che provochi danni a persone, cose e animali, con un limite di 10 milioni per ogni persona e di 30 milioni per le cose e gli animali.
- Sono esclusi dai benefici derivanti dall'assicurazione di cui al primo comma, lettera b), coloro per i quali e' prescritta l'assicurazione obbligatoria contro gli infortuni sul lavoro ai sensi del [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-30;1124).
+ Sono esclusi dai benefici derivanti dall'assicurazione di cui al primo comma, lettera b), coloro per i quali e' prescritta l'assicurazione obbligatoria contro gli infortuni sul lavoro ai sensi del [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md).
  L'impresa distributrice entro 120 giorni dall'entrata in vigore della presente legge deve comunicare al Ministero dell'industria, del commercio e dell'artigianato gli estremi della polizza di assicurazione stipulata. Le eventuali variazioni debbono essere comunicate entro un mese dal loro verificarsi.
  Analoga comunicazione deve essere fatta al prefetto competente.
  Nei punti di distribuzione e di vendita devono essere chiaramente indicati la ragione sociale dell'impresa distributrice e gli estremi della polizza di assicurazione da essa stipulata ai sensi del presente articolo.
@@ -86,7 +86,7 @@ Chiunque violi le disposizioni di cui agli articoli 1, 2 e 3 e' punito con ammen
  Chiunque violi le disposizioni di cui agli articoli 5, primo e secondo comma, 6, 7 e 9 e' punito con ammenda fino a lire 1.000.000 o con l'arresto fino a tre mesi.
  Chiunque violi le disposizioni di cui all'articolo 5, quarto comma, e' punito con ammenda fino a L. 200.000.
  La condanna importa sospensione della concessione o dell'autorizzazione di vendita per un periodo da due a sei mesi e la pubblicazione della sentenza.
- Il Ministro per l'industria, il commercio e l'artigianato, il prefetto, il sindaco, ai quali deve essere trasmessa copia del verbale o del rapporto, possono sospendere, secondo la loro competenza, la concessione o l'autorizzazione sino all'esito del giudizio penale, salvo quanto disposto dall'[articolo 140 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_140).
+ Il Ministro per l'industria, il commercio e l'artigianato, il prefetto, il sindaco, ai quali deve essere trasmessa copia del verbale o del rapporto, possono sospendere, secondo la loro competenza, la concessione o l'autorizzazione sino all'esito del giudizio penale, salvo quanto disposto dall'[articolo 140 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 12.
 

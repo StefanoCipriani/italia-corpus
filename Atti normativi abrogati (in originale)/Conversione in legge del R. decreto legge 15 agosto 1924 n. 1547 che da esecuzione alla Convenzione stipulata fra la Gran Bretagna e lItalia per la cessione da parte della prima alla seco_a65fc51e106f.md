@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico: 
  
- E' convertito in legge il [R. decreto-legge 15 agosto 1924, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-08-15;1547), che da esecuzione alla Convenzione stipulata fra la Gran Bretagna e l'Italia per la cessione da parte della prima alla seconda dell'Oltre Giuba, Convenzione firmata in Londra il 15 luglio 1924. 
+ E' convertito in legge il [R. decreto-legge 15 agosto 1924, n. 1547](Approvazione%20della%20Convenzione%20per%20la%20cessione%20dellOltre%20Giuba.%20024U1547.md), che da esecuzione alla Convenzione stipulata fra la Gran Bretagna e l'Italia per la cessione da parte della prima alla seconda dell'Oltre Giuba, Convenzione firmata in Londra il 15 luglio 1924. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 15 luglio 1926. 
  

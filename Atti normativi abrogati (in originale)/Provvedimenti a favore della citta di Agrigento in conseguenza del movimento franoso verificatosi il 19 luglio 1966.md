@@ -21,7 +21,7 @@ Sulla proposta del Ministro per i lavori pubblici, di concerto con i Ministri pe
 ## Art. 1.
 
 In dipendenza del movimento franoso che il 19 luglio 1966 ha colpito la citta' di Agrigento, il Ministero dei lavori pubblici e' autorizzato a disporre:
- a) interventi di pronto soccorso ai sensi del [decreto legislativo 12 aprile 1948, n. 1010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;1010), ratificato con [legge 18 dicembre 1952, n. 3136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-18;3136);
+ a) interventi di pronto soccorso ai sensi del [decreto legislativo 12 aprile 1948, n. 1010](../Decreti%20Legislativi/Autorizzazione%20al%20Ministero%20dei%20lavori%20pubblici%20a%20provvedere%20a%20sua%20cura%20e%20spese%20ai%20lavori%20di%20carattere%20urgente%20ed%20inderogabile%20dipendenti%20da%20necessita%20di%20pubblico%20interesse%20determinate%20da_849e4a6b6d55.md), ratificato con [legge 18 dicembre 1952, n. 3136](../Leggi%20di%20ratifica/Ratifica%20di%20decreti%20legislativi%20concernenti%20il%20Ministero%20dei%20lavori%20pubblici%20emanati%20dal%20Governo%20durante%20il%20periodo%20dellAssemblea%20Costituente.md);
  b) studi ed indagini tendenti ad accertare le cause e l'evoluzione del fenomeno, delimitare le zone da esso interessate, indicare quelle da sottoporsi a vincoli di carattere idrogeologico ed urbanistico nonche' le parti di abitato da consolidare e quelle eventualmente da trasferire;
  c) la costruzione di alloggi a totale carico dello Stato da mettere a disposizione delle famiglie rimaste senza letto e la costruzione delle relative opere di urbanizzazione primaria e secondaria.
  Le opere di cui al presente articolo saranno eseguite dalla sezione autonoma del Genio civile di Agrigento, istituita ai sensi del successivo art. 7.
@@ -55,7 +55,7 @@ All'assegnazione degli alloggi provvede una Commissione presieduta dal prefetto 
 Il Ministero dei lavori pubblici e' autorizzato a provvedere a totale carico dello Stato alle espropriazioni occorrenti per l'esecuzione delle opere previste dal presente decreto-legge, anche se tali espropriazioni interessino aree comprese in piani di zona approvati ai sensi della vigente legislazione regionale.
  Le aree espropriate per l'esecuzione di opere ed impianti pubblici passano in proprieta' del Comune, al quale e' altresi' trasferita la proprieta' delle opere e degli impianti.
  L'indennita' di espropriazione delle aree e' determinata dall'Ufficio tecnico erariale nei modi previsti dall'[art. 13 della legge 15 gennaio 1885, n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_13).
- L'Ufficio tecnico erariale comunica al prefetto l'indennita' fissata. La stima effettuata dall'Ufficio tecnico erariale ha gli effetti della perizia giudiziale di cui all'[articolo 34 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_34).
+ L'Ufficio tecnico erariale comunica al prefetto l'indennita' fissata. La stima effettuata dall'Ufficio tecnico erariale ha gli effetti della perizia giudiziale di cui all'[articolo 34 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
 
 ## Art. 6.
 
@@ -99,7 +99,7 @@ Al comune di Agrigento, in relazione alle spese straordinarie assunte, e' conces
 
 ## Art. 15.
 
-L'annualita' da versare al fondo per l'acquisto di buoni del Tesoro poliennali e per l'ammortamento di altri titoli di debito pubblico, ai sensi dell'[art. 7 del decreto-legge 23 gennaio 1958, n. 8](Facolta%20di%20rinnovo%20dei%20buoni%20del%20Tesoro%20novennali%205%20con%20scadenza%201%20aprile%201959%20e%20costituzione%20di%20un%20Fondo%20destinato%20al%20graduale%20acquisto%20sul%20mercato%20di%20buoni%20del%20Tesoro%20novennali.md), convertito nella [legge 23 febbraio 1958, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-23;84), e' ridotta per l'anno 1966 di L. 9250 milioni.
+L'annualita' da versare al fondo per l'acquisto di buoni del Tesoro poliennali e per l'ammortamento di altri titoli di debito pubblico, ai sensi dell'[art. 7 del decreto-legge 23 gennaio 1958, n. 8](Facolta%20di%20rinnovo%20dei%20buoni%20del%20Tesoro%20novennali%205%20con%20scadenza%201%20aprile%201959%20e%20costituzione%20di%20un%20Fondo%20destinato%20al%20graduale%20acquisto%20sul%20mercato%20di%20buoni%20del%20Tesoro%20novennali.md), convertito nella [legge 23 febbraio 1958, n. 84](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2023%20gennaio%201958%20n.%208%20concernente%20la%20facolta%20di%20rinnovo%20dei%20buoni%20del%20Tesoro%20novennali%205%20per%20cento%20con%20scadenza%20al%201%20aprile%201959%20e%20costituzione%20di%20un_237e0a9666c0.md), e' ridotta per l'anno 1966 di L. 9250 milioni.
  All'onere di lire 10 miliardi derivanti dall'applicazione del presente decreto-legge per l'anno finanziario 1966, si provvede per lire 9250 milioni con le disponibilita' derivanti dalla riduzione di cui al comma precedente e per lire 250 milioni e lire 500 milioni rispettivamente con riduzione dai capitoli 2192 e 5381 dello stato di previsione del Ministero del tesoro per l'anno 1966.
  Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

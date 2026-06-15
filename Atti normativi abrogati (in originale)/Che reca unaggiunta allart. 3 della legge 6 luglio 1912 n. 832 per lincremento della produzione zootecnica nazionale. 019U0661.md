@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 6 luglio 1912, n. 832](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;832), concernente provvedimenti a tutela e ad incremento della produzione zootecnica nazionale; 
+ Vista la [legge 6 luglio 1912, n. 832](Concernente%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U0832.md), concernente provvedimenti a tutela e ad incremento della produzione zootecnica nazionale; 
  
  Sentito il Consiglio dei ministri; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- All'[art. 3 della legge 6 luglio 1912, n. 832](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;832#art_3), che enumera le iniziative di carattere zootecnico che possono essere promosse od incoraggiate dal Ministero per la agricoltura, viene aggiunto il seguente comma: 
+ All'[art. 3 della legge 6 luglio 1912, n. 832](Concernente%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U0832.md), che enumera le iniziative di carattere zootecnico che possono essere promosse od incoraggiate dal Ministero per la agricoltura, viene aggiunto il seguente comma: 
  
  «n) promuove ed incoraggia le iniziative aventi per scopo la conservazione, il trasporto ed il commercio di prodotti agricoli e zootecnici deperibili, favorendo altresi' lo studio e la propaganda intesa ad estendere ed intensificare, nel paese, la organizzazione frigorifera applicata ai prodotti anzidetti». 
  

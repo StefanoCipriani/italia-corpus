@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 dicembre 1933, n. 1701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-11;1701), recante provvedimenti straordinari in dipendenza di danni causati da alluvioni, piene, frane e mareggiate nell'Italia meridionale ed insulare ed in altre Provincie, nell'autunno 1933. 
+ E' convertito in legge il [R. decreto-legge 11 dicembre 1933, n. 1701](Provvedimenti%20straordinari%20in%20dipendenza%20di%20danni%20causati%20da%20alluvioni%20piene%20frane%20e%20mareggiate%20nellItalia%20meridionale%20ed%20insulare%20ed%20in%20altre%20Provincie%20nellautunno%201933.%20033U1701.md), recante provvedimenti straordinari in dipendenza di danni causati da alluvioni, piene, frane e mareggiate nell'Italia meridionale ed insulare ed in altre Provincie, nell'autunno 1933. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

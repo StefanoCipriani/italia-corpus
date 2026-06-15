@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 23 marzo 1944, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-23;103);
+Visto il [R. decreto-legge 23 marzo 1944, n. 103](Paghe%20ordinarie%20dei%20Militari%20di%20truppa%20del%20R.%20Esercito%20della%20R.%20Marina%20e%20della%20R.%20Aeronautica.%20044U0103.md);
 
 Visto l'art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n.
 
@@ -30,7 +30,7 @@ Ministri per il tesoro, per la guerra e per l'aeronautica; Abbiamo sanzionato e 
 
 ## Art. 1.
 
-Le paghe ordinarie giornaliere dei sottocapi e comuni di leva della Regia marina a bordo su navi in armamento o in riserva, dei sottocapi e comuni volontari della Regia marina a bordo e a terra, e dei sottocapi e comuni raffermati di leva, sono stabilite nella misura unica che segue, comprensiva dell'integrazione temporanea di cui al [R. decreto-legge 6 dicembre 1943, numero 18/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;18): 
+Le paghe ordinarie giornaliere dei sottocapi e comuni di leva della Regia marina a bordo su navi in armamento o in riserva, dei sottocapi e comuni volontari della Regia marina a bordo e a terra, e dei sottocapi e comuni raffermati di leva, sono stabilite nella misura unica che segue, comprensiva dell'integrazione temporanea di cui al [R. decreto-legge 6 dicembre 1943, numero 18/B](Miglioramenti%20economici%20di%20carattere%20temporaneo%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20degli%20enti%20ausiliari%20dello%20Stato%20e%20di%20diritto%20pubblico.%20043U0018.md): 
  
  Sottocapi e comuni di leva a bordo di navi in armamento o in 
 riserva: 

@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Al [R. decreto-legge 3 gennaio 1926, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-03;188), sono apportate le seguenti modificazioni: 
+ Al [R. decreto-legge 3 gennaio 1926, n. 188](Modificazioni%20alle%20disposizioni%20riguardanti%20le%20concessioni%20ferroviarie%20di%20viaggio.%20026U0188.md), sono apportate le seguenti modificazioni: 
  All'art. 2, punto 9°, aggiungere nel primo comma dopo «dimissioni» le parole «o per decadenza». 
  Allo stesso art. 2, sopprimere il punto 12°. 
  All'art. 11, punto 2°, invece di «il trattamento stabilito dall'art. 11, comma 2°» leggere «il trattamento stabilito dall'art. 11, comma 3°». 

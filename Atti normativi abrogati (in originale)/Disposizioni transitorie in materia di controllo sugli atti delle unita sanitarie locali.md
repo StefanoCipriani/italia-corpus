@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la necessita' e l'urgenza di emanare disposizioni transitorie in materia di controllo sugli atti delle unita' sanitarie locali, differendo al 1 luglio 1982 l'operativita' dei comitati regionali di controllo nella composizione prevista dall'[articolo 13 della legge 26 aprile 1982, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-26;181#art_13);
+Ritenuta la necessita' e l'urgenza di emanare disposizioni transitorie in materia di controllo sugli atti delle unita' sanitarie locali, differendo al 1 luglio 1982 l'operativita' dei comitati regionali di controllo nella composizione prevista dall'[articolo 13 della legge 26 aprile 1982, n. 181](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201982.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 aprile 1982;
 
@@ -22,7 +22,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-All'[articolo 13 della legge 26 aprile 1982, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-26;181#art_13), e' aggiunto il seguente comma: 
+All'[articolo 13 della legge 26 aprile 1982, n. 181](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201982.md), e' aggiunto il seguente comma: 
  "I comitati regionali di controllo di cui al quarto comma esercitano il controllo dal 1 luglio 1982 sugli atti adottati dalle unita' sanitarie locali a decorrere da tale data".
 
 ## Art. 2.

@@ -88,7 +88,7 @@ Il primo capoverso dell'[art. 18 della legge 24 marzo 1921, n. 312](Che%20reca%2
  
  « Chiunque peschi nelle acque di proprieta' privata, ovvero in quelle soggette a diritti esclusivi di pesca o concesse a scopo di piscicoltura, senza il consenso del proprietario, possessore o concessionario, incorrera' in una pena pecuniaria da L. 200 a L. 1000 senza pregiudizio delle piu' gravi sanzioni comminate dalle leggi vigenti per i delitti. 
  
- « Incorre nel reato punito dagli [articoli 402 e seguenti del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_402) chiunque peschi di frodo in dette acque qualora esse, per disposizione naturale o per opere manufatte, si trovino racchiuse in modo da impedire l'uscita del pesce tenutovi in allevamento, ancorche' tali acque siano comunicanti con quelle pubbliche. 
+ « Incorre nel reato punito dagli [articoli 402 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) chiunque peschi di frodo in dette acque qualora esse, per disposizione naturale o per opere manufatte, si trovino racchiuse in modo da impedire l'uscita del pesce tenutovi in allevamento, ancorche' tali acque siano comunicanti con quelle pubbliche. 
  
  « Chi trasgredisca o concorra a far trasgredire le disposizioni contenute nell'[art. 3 della legge 4 marzo 1877, numero 3706](Sulla%20pesca.%20077U3706.md), incorre in una pena pecuniaria da L. 200 a L. 1000 ». 
  
@@ -98,7 +98,7 @@ Il primo capoverso dell'[art. 18 della legge 24 marzo 1921, n. 312](Che%20reca%2
  
  « I regolamenti per la esecuzione della presente legge potranno stabilire pene pecuniarie da L. 200 a L. 1000, e, per quanto riguarda le disposizioni sulle tonnare e sulla pesca del corallo, da L. 1000 a L. 5000, senza pregiudizio delle particolari sanzioni portate da altre leggi. 
  
- « Fino alla emanazione di nuovi regolamenti, le pene stabilite dal regolamento sulla pesca marittima approvato con [R. decreto 13 novembre 1882, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-11-13;1090), e dal regolamento sulla pesca fluviale e lacuale approvato col [R. decreto 22 novembre 1914, n. 1486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-22;1486), nonche' da altre disposizioni di carattere regolamentare, in applicazione dell'[art. 18 della legge 4 marzo 1877, n. 3706](Sulla%20pesca.%20077U3706.md), come sopra modificato, sono elevate alle misure minime e massime fissate dal precedente comma ». 
+ « Fino alla emanazione di nuovi regolamenti, le pene stabilite dal regolamento sulla pesca marittima approvato con [R. decreto 13 novembre 1882, n. 1090](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20pesca%20marittima.%20082U1090.md), e dal regolamento sulla pesca fluviale e lacuale approvato col [R. decreto 22 novembre 1914, n. 1486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-22;1486), nonche' da altre disposizioni di carattere regolamentare, in applicazione dell'[art. 18 della legge 4 marzo 1877, n. 3706](Sulla%20pesca.%20077U3706.md), come sopra modificato, sono elevate alle misure minime e massime fissate dal precedente comma ». 
  
  L'ultimo capoverso dell'art. 28 e' cosi' modificato: 
  

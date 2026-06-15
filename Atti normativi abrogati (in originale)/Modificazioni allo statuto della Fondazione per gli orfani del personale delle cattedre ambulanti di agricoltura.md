@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 11 aprile 1940, n. 793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-11;793), con il quale e' stato approvato lo statuto della Fondazione per gli orfani del personale delle cattedre ambulanti di agricoltura, modificato con il [regio decreto 8 gennaio 1942, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-08;507);
+Visto il [regio decreto 11 aprile 1940, n. 793](Approvazione%20dello%20statuto%20della%20Fondazione%20per%20gli%20orfani%20del%20personale%20delle%20Cattedre%20ambulanti%20di%20agricoltura.%20040U0793.md), con il quale e' stato approvato lo statuto della Fondazione per gli orfani del personale delle cattedre ambulanti di agricoltura, modificato con il [regio decreto 8 gennaio 1942, n. 507](Modificazioni%20dello%20statuto%20della%20Fondazione%20per%20gli%20orfani%20del%20personale%20delle%20Cattedre%20ambulanti%20di%20agricoltura.%20042U0507.md);
 
 Ritenuta la necessita' di apportare modifiche agli articoli 5, 10, 11 e 13 del predetto statuto;
 

@@ -25,7 +25,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il [comma 2-bis dell'articolo 31 della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_31-com2bis), e' sostituito dal seguente:
+Il [comma 2-bis dell'articolo 31 della legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md), e' sostituito dal seguente:
  "2-bis. Le dimissioni dalla carica di consigliere, indirizzate al rispettivo consiglio, devono essere assunte al protocollo dell'ente nella medesima giornata di presentazione. Esse sono irrevocabili, non necessitano di presa d'atto e sono immediatamente efficaci. Il consiglio deve procedere alla relativa surrogazione entro venti giorni dalla data di presentazione delle dimissioni. Non si fa luogo alla surrogazione qualora, ricorrendone i presupposti, si debba procedere allo scioglimento del consiglio a norma dell'articolo 39, comma 1, lettera b), n. 2), della presente legge.".
 
 2.

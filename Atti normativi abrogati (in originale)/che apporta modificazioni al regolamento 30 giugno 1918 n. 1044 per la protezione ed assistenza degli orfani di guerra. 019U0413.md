@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nell'articolo 19 del regolamento per l'esecuzione della [legge 18 luglio 1917, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-18;1143) per la protezione e l'assistenza degli orfani di guerra, approvato con [decreto Luogotenenziale 30 giugno 19l8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:2019-06-30;8), [n. 1044](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:2019-06-30;1044), dopo le parole «e ne fanno altresi' parte» si aggiunge «il detto vice presidente».
+Nell'articolo 19 del regolamento per l'esecuzione della [legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md) per la protezione e l'assistenza degli orfani di guerra, approvato con [decreto Luogotenenziale 30 giugno 19l8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:2019-06-30;8), [n. 1044](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:2019-06-30;1044), dopo le parole «e ne fanno altresi' parte» si aggiunge «il detto vice presidente».
 
 ## Art. 2.
 
@@ -28,19 +28,19 @@ Negli articoli 101, 102, 103, 105 e 106 alle parole «Consoli generali» «Conso
 
 Al capo V del predetto regolamento sono aggiunti gli articoli seguenti i quali prendano la numerazione 108, 109, 110, 111 e 112. 
  
- Art. 108. - Nelle colonie italiane i segretari generali esercitano, per l'intero territorio di esse, le funzioni, affidate nel Regno, al Comitato provinciale secondo le disposizioni dell'[art. 11 della legge 18 luglio 1917, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-18;1143#art_11), in quanto siano applicabili. Essi sono coadiuvati da un Comitato di autorita' e notabilita' nominato dal governatore, e del quale fa parte di diritto il giudice delle tutele residente nel capoluogo di ciascuna colonia, e possono farne parte anche le donne. 
+ Art. 108. - Nelle colonie italiane i segretari generali esercitano, per l'intero territorio di esse, le funzioni, affidate nel Regno, al Comitato provinciale secondo le disposizioni dell'[art. 11 della legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md), in quanto siano applicabili. Essi sono coadiuvati da un Comitato di autorita' e notabilita' nominato dal governatore, e del quale fa parte di diritto il giudice delle tutele residente nel capoluogo di ciascuna colonia, e possono farne parte anche le donne. 
  
  Essi possono anche incaricare qualche membro del Comitato di funzioni ispettive sull'assistenza degli orfani nel territorio della colonia. 
  
- Art. 109. - Presso il segretario generale di ciascuna colonia deve essere redatto e tenuto l'elenco di cui all'[art. 5 della legge 18 luglio 1917, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-18;1143#art_5). All'uopo il Ministero per l'assistenza militare e lo pensioni di guerra deve a mezzo dei segretari generali, richiedere che sia fatta, a cura dei competenti uffici coloniali, la annotazione che il genitore, il quale risiedeva nella colonia, e' morto per la guerra nazionale. 
+ Art. 109. - Presso il segretario generale di ciascuna colonia deve essere redatto e tenuto l'elenco di cui all'[art. 5 della legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md). All'uopo il Ministero per l'assistenza militare e lo pensioni di guerra deve a mezzo dei segretari generali, richiedere che sia fatta, a cura dei competenti uffici coloniali, la annotazione che il genitore, il quale risiedeva nella colonia, e' morto per la guerra nazionale. 
  
  Di tale elenco, e delle successive variazioni, deve essere inviata copia al Comitato nazionale. 
  
- Art. 110. - Il Comitato nazionale, ricevuto le relazioni e proposte dei segretari generali di ciascuna colonia, assegna ai medesimi le somme che ritiene necessarie per gli scopi, previsti dalla [legge 18 luglio 1917, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-18;1143), da prelevarsi dal fondo stabilito dall'articolo 31 della legge medesima. Di detti fondi deve essere reso il conto al Comitato nazionale al termine di ogni esercizio finanziario. 
+ Art. 110. - Il Comitato nazionale, ricevuto le relazioni e proposte dei segretari generali di ciascuna colonia, assegna ai medesimi le somme che ritiene necessarie per gli scopi, previsti dalla [legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md), da prelevarsi dal fondo stabilito dall'articolo 31 della legge medesima. Di detti fondi deve essere reso il conto al Comitato nazionale al termine di ogni esercizio finanziario. 
  
  E' a carico dei segretari generali l'adempimento delle formalita' richieste per la liquidazione della pensione spettante agli orfani di guerra residenti nelle rispettive colonie. 
  
- Art. 111. - Il governatore, in relazione all'ordinamento giudiziario della colonia, designa il magistrato che deve esercitare le funzioni di giudice delle tutele per gli orfani di guerra, a norma dell'[art. 17 della legge 18 luglio 1917, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-18;1143#art_17). 
+ Art. 111. - Il governatore, in relazione all'ordinamento giudiziario della colonia, designa il magistrato che deve esercitare le funzioni di giudice delle tutele per gli orfani di guerra, a norma dell'[art. 17 della legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md). 
  
  Nelle colonie in cui hanno sede piu' tribunali e' designato un giudice delle tutele per ciascun tribunale. 
  

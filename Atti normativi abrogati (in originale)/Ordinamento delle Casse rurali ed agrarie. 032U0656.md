@@ -140,7 +140,7 @@ CAPO IV.
 ### Art. 17.
 
 Le Casse rurali e le Casse agrarie sono soggette alla vigilanza del Ministero dell'agricoltura e delle foreste. 
- Il [R. decreto-legge 6 novembre 1926, n. 1830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-06;1830), si applica alle Casse rurali e alle Casse agrarie limitatamente all'art. 2 ed in quanto le disposizioni in tale articolo contenute non siano in contrasto con la presente legge.
+ Il [R. decreto-legge 6 novembre 1926, n. 1830](Norme%20regolamentari%20per%20la%20tutela%20del%20risparmio.%20026U1830.md), si applica alle Casse rurali e alle Casse agrarie limitatamente all'art. 2 ed in quanto le disposizioni in tale articolo contenute non siano in contrasto con la presente legge.
 
 ### Art. 18.
 
@@ -150,7 +150,7 @@ Fermo restando l'esercizio della vigilanza da parte dell'Istituto di emissione, 
 
 ### Art. 19.
 
-Salvi gli obblighi di cui al Codice di commercio ed all'[articolo 2 del R. decreto-legge 6 novembre 1926, n. 1830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-06;1830#art_2), le Casse rurali e le Casse agrarie devono trasmettere al Ministero dell'agricoltura e delle foreste: 
+Salvi gli obblighi di cui al Codice di commercio ed all'[articolo 2 del R. decreto-legge 6 novembre 1926, n. 1830](Norme%20regolamentari%20per%20la%20tutela%20del%20risparmio.%20026U1830.md), le Casse rurali e le Casse agrarie devono trasmettere al Ministero dell'agricoltura e delle foreste: 
  a) i loro bilanci consuntivi annuali, debitamente approvati, nel termine di un mese dalla data della loro approvazione; 
  b) le loro situazioni dei conti alla fine di ogni bimestre a partire da quella relativa alla fine del mese di febbraio di ogni anno entro quindici giorni dalla data a cui si riferiscono; 
  c) gli elenchi indicati all'art. 9; 
@@ -195,15 +195,15 @@ CAPO VI.
 ### Art. 24.
 
 E' in facolta' del Ministro per l'agricoltura e le foreste di infliggere sanzioni di carattere civile consistenti nel pagamento di un minimo di L. 50 sino ad un massimo di L. 2000 agli amministratori che contravvengono alle disposizioni del secondo comma dell'art. 1. della presente legge. 
- Eguali sanzioni, salve le pene comminate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), puo' lo stesso Ministro infliggere ai promotori, amministratori e sindaci che contravvengono alle disposizioni degli articoli 2, 3, 4, 8, 9, 10, 12, 13, 14, 15, 16, 19, 21 della presente legge e dello statuto.
+ Eguali sanzioni, salve le pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), puo' lo stesso Ministro infliggere ai promotori, amministratori e sindaci che contravvengono alle disposizioni degli articoli 2, 3, 4, 8, 9, 10, 12, 13, 14, 15, 16, 19, 21 della presente legge e dello statuto.
 
 ### Art. 25.
 
-Non si applica agli amministratori, direttori e sindaci delle Casse rurali e delle Casse agrarie l'[articolo 6 del R. decreto-legge 30 ottobre 1930, n. 1459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-30;1459#art_6), convertito in legge e modificato con la [legge del 4 giugno 1931, n. 660](Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20ottobre%201930%20n.%201459%20contenente%20disposizioni%20penali%20in%20materia%20di%20societa%20commerciali.%20031U0660.md).
+Non si applica agli amministratori, direttori e sindaci delle Casse rurali e delle Casse agrarie l'[articolo 6 del R. decreto-legge 30 ottobre 1930, n. 1459](Disposizioni%20penali%20in%20materia%20di%20societa%20commerciali.%20030U1459.md), convertito in legge e modificato con la [legge del 4 giugno 1931, n. 660](Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20ottobre%201930%20n.%201459%20contenente%20disposizioni%20penali%20in%20materia%20di%20societa%20commerciali.%20031U0660.md).
 
 ### Art. 26.
 
-E' applicabile alle Casse rurali e alle Casse agrarie l'[articolo 21 del R. decreto-legge 29 luglio 1927, n. 1509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509#art_21), convertito in legge e modificato con la [legge 5 luglio 1928, n. 1760](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md). 
+E' applicabile alle Casse rurali e alle Casse agrarie l'[articolo 21 del R. decreto-legge 29 luglio 1927, n. 1509](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md), convertito in legge e modificato con la [legge 5 luglio 1928, n. 1760](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md). 
  Il trattamento tributario di cui al predetto articolo si intende limitato alle sole operazioni di credito agrario. 
  Le Casse rurali e agrarie godono il beneficio del gratuito patrocinio limitatamente agli atti riguardanti operazioni di credito agrario.
 

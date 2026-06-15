@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -28,7 +28,7 @@ La disposizione dell'[art. 2 del decreto legislativo 30 settembre 1947, n. 1031]
 ## Art. 2.
 
 La disposizione dell'art. 4 del decreto legislativo predetto e' sostituita dalla seguente:
- "La rinnovazione dei brevetti per marchi di impresa per i quali, all'entrata in vigore del presente decreto, sono decorsi i termini stabiliti all'[art. 82 del regio decreto 21 giugno 1942, n. 929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-06-21;929#art_82), ha effetto dalla scadenza del precedente periodo di validita', a condizione che il deposito della domanda di concessione del brevetto di rinnovazione risulti eseguito entro il 30 giugno 1948".
+ "La rinnovazione dei brevetti per marchi di impresa per i quali, all'entrata in vigore del presente decreto, sono decorsi i termini stabiliti all'[art. 82 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), ha effetto dalla scadenza del precedente periodo di validita', a condizione che il deposito della domanda di concessione del brevetto di rinnovazione risulti eseguito entro il 30 giugno 1948".
 
 ## Art. 3.
 

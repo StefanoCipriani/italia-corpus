@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 gennaio 1927, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-13;80), che proroga l'efficacia del [R. decreto-legge 14 giugno 1925, n. 1115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-06-14;1115), concernente l'alienazione di Regie navi radiate dal quadro del Regio naviglio e non piu' reimpiegabili. 
+ E' convertito in legge il [R. decreto-legge 13 gennaio 1927, n. 80](Proroga%20dellefficacia%20del%20R.%20decreto-legge%2014%20giugno%201925%20n.%201115%20concernente%20lalienazione%20di%20Regie%20navi%20radiate%20dal%20quadro%20del%20Regio%20naviglio%20e%20non%20piu%20reimpiegabili.%20027U0080.md), che proroga l'efficacia del [R. decreto-legge 14 giugno 1925, n. 1115](Proroga%20fino%20a%20tutto%20lesercizio%20finanziario%201925-26%20dellefficacia%20del%20R.%20decreto-legge%204%20febbraio%201923%20n.%20429%20circa%20lalienazione%20di%20Regie%20navi%20radiate%20dal%20quadro%20del%20Regio%20naviglio.%20025U1115.md), concernente l'alienazione di Regie navi radiate dal quadro del Regio naviglio e non piu' reimpiegabili. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

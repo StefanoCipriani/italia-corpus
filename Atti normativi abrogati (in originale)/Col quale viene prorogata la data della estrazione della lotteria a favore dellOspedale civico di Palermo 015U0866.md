@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la leggo 7 luglio 1907, n. 435, che autorizza il Governo del Re a concedere una lotteria per l'ammontare di due milioni di lire a favore dell'ospedale Civico di Palermo;
 
-Vista la [legge 23 giugno 1912, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-23;615), che trasporta dall'esercizio 1911-912 all'esercizio 1914-915 il periodo di svolgimento della lotteria predetta;
+Vista la [legge 23 giugno 1912, n. 615](Che%20proroga%20al%204%20luglio%20stesso%20anno%20la%20data%20di%20estrazione%20della%20tombola%20nazionale%20a%20favore%20degli%20ospedali%20di%20Padova%20Tempio%20Sassari%20e%20Ozieri.%20012U0615.md), che trasporta dall'esercizio 1911-912 all'esercizio 1914-915 il periodo di svolgimento della lotteria predetta;
 
 Visto il decreto Reale 11 febbraio 1915, n. 152, col quale viene fissata al 30 giugno 1915 la data della estrazione della ripetuta lotteria;
 
@@ -34,7 +34,7 @@ Sulla proposta del ministro segretario di Stato per le finanze; Abbiamo decretat
 
 ## Art. 1.
 
-L'estrazione della lotteria a favore dell'ospedale Civico di Palermo autorizzata con [legge 7 luglio 1907, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;435), e' prorogata.
+L'estrazione della lotteria a favore dell'ospedale Civico di Palermo autorizzata con [legge 7 luglio 1907, n. 435](Provvedimenti%20a%20favore%20dellospedale%20civile%20di%20Palermo%20e%20riforme%20di%20lasciti%20esistenti%20in%20Sicilia.%20007U0435.md), e' prorogata.
 
 ## Art. 2.
 

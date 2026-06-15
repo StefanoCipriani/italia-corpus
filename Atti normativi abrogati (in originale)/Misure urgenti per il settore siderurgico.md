@@ -37,11 +37,11 @@ I finanziamenti agevolati previsti dall'[articolo 4, primo comma, lettera b), de
 
 4.
 
-Gli importi degli interventi a valere sul fondo speciale per la ricerca applicata, istituito con l'[articolo 4 della legge 25 ottobre 1968, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-10-25;1089#art_4), a favore delle imprese esercenti attivita' siderurgica, deliberati entro la data del 20 dicembre 1985 e non erogati alla stessa data o da deliberare in relazione a domande preselezionate alla medesima data ai sensi dell'[articolo 7 della legge 17 febbraio 1982, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;46#art_7), sono versati ad apposita contabilita' separata dall'Istituto mobiliare italiano e non sono soggetti alle disposizioni di cui alla [legge 29 maggio 1985, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-29;237).
+Gli importi degli interventi a valere sul fondo speciale per la ricerca applicata, istituito con l'[articolo 4 della legge 25 ottobre 1968, n. 1089](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201968%20n.%20918%20recante%20provvidenze%20creditizie%20agevolazioni%20fiscali%20e%20sgravio%20di%20oneri%20sociali%20per%20favorire%20nuovi%20investimen_7cf466023fc0.md), a favore delle imprese esercenti attivita' siderurgica, deliberati entro la data del 20 dicembre 1985 e non erogati alla stessa data o da deliberare in relazione a domande preselezionate alla medesima data ai sensi dell'[articolo 7 della legge 17 febbraio 1982, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;46#art_7), sono versati ad apposita contabilita' separata dall'Istituto mobiliare italiano e non sono soggetti alle disposizioni di cui alla [legge 29 maggio 1985, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-29;237).
 
 5.
 
-Gli importi dei contributi previsti dalla [legge 2 maggio 1976, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-02;183), relativi ad imprese esercenti attivita' siderurgica, riguardanti domande presentate entro il 20 dicembre 1985 e non erogati alla stessa data, sono versati al Medio credito centrale, che ne tiene apposita contabilita' separata.
+Gli importi dei contributi previsti dalla [legge 2 maggio 1976, n. 183](Disciplina%20dellintervento%20straordinario%20nel%20Mezzogiorno%20per%20il%20quinquennio%201976-80.md), relativi ad imprese esercenti attivita' siderurgica, riguardanti domande presentate entro il 20 dicembre 1985 e non erogati alla stessa data, sono versati al Medio credito centrale, che ne tiene apposita contabilita' separata.
 
 6.
 
@@ -55,7 +55,7 @@ Per far fronte agli oneri indiretti connessi all'attivita' di consorzi di collab
 
 1.
 
-Il termine del 31 dicembre 1985, previsto dall'[articolo 1, primo comma, del decreto-legge 31 gennaio 1983, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-01-31;19#art_1-com1), convertito nella [legge 31 marzo 1983, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-31;87), e' prorogato al 31 dicembre 1987. Con decreto del Ministro dell'industria, del commercio e dell'artigianato, da emanarsi entro due mesi dalla data di entrata in vigore del presente decreto, sono stabilite le modalita' di attuazione del presente comma, anche in relazione all'andamento della politica di settore in sede interna e internazionale.
+Il termine del 31 dicembre 1985, previsto dall'[articolo 1, primo comma, del decreto-legge 31 gennaio 1983, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-01-31;19#art_1-com1), convertito nella [legge 31 marzo 1983, n. 87](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2031%20gennaio%201983%20n.%2019%20recante%20norme%20sul%20regime%20autorizzatorio%20per%20gli%20investimenti%20comportanti%20aumento%20delle%20capacita%20produttive%20delle%20imprese%20sider_43e5586d8b77.md), e' prorogato al 31 dicembre 1987. Con decreto del Ministro dell'industria, del commercio e dell'artigianato, da emanarsi entro due mesi dalla data di entrata in vigore del presente decreto, sono stabilite le modalita' di attuazione del presente comma, anche in relazione all'andamento della politica di settore in sede interna e internazionale.
 
 2.
 
@@ -103,7 +103,7 @@ Il contributo e' concesso dal CIPI su proposta del Ministro dell'industria, del 
 
 5.
 
-La misura del contributo e' determinata tenendo conto dello stato degli impianti, dell'entita' della capacita' produttiva soppressa rispetto a quella totale posseduta dall'impresa, nonche' della localizzazione dei medesimi impianti nelle aree di cui al [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218), e dei relativi riflessi occupazionali.
+La misura del contributo e' determinata tenendo conto dello stato degli impianti, dell'entita' della capacita' produttiva soppressa rispetto a quella totale posseduta dall'impresa, nonche' della localizzazione dei medesimi impianti nelle aree di cui al [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e dei relativi riflessi occupazionali.
 
 6.
 

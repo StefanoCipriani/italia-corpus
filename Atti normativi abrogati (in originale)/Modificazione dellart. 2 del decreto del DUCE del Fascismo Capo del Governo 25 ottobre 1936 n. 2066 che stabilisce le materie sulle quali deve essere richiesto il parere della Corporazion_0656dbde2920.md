@@ -14,11 +14,11 @@ IL DUCE DEL FASCISMO
  
  CAPO DEL GOVERNO 
  
- Visto l'[art. 12 della legge 5 febbraio 1934, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;163#art_12), sulla sostituzione e sulle funzioni delle Corporazioni; 
+ Visto l'[art. 12 della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md), sulla sostituzione e sulle funzioni delle Corporazioni; 
  
  Visto il proprio decreto in data 23 giugno 1934, relativo alla costituzione della Corporazione della previdenza e del credito; 
  
- Visto il proprio decreto in data 25 ottobre 1936, n. 2066, con il quale e' stato soppresso il Comitato tecnico per la previdenza sociale e le assicurazioni private, istituito con [R. decreto 13 novembre 1930, n. 1568](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-13;1568), e sono state stabilite le materie sulle quali deve essere richiesto il parere della Corporazione della previdenza e del credito; 
+ Visto il proprio decreto in data 25 ottobre 1936, n. 2066, con il quale e' stato soppresso il Comitato tecnico per la previdenza sociale e le assicurazioni private, istituito con [R. decreto 13 novembre 1930, n. 1568](Istituzione%20presso%20il%20Ministero%20delle%20corporazioni%20di%20un%20Comitato%20tecnico%20per%20la%20previdenza%20sociale%20e%20le%20assicurazioni%20private.%20030U1568.md), e sono state stabilite le materie sulle quali deve essere richiesto il parere della Corporazione della previdenza e del credito; 
  
  Ritenuta l'opportunita' di modificare l'art. 2 del citato decreto in data 25 ottobre 1936; 
  
@@ -26,7 +26,7 @@ IL DUCE DEL FASCISMO
  
  Articolo unico. 
  
- L'art. 2 del decreto del DUCE del Fascismo, [Capo del Governo, in data 25 ottobre 1936, n. 2066](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.governo::1936-10-25;2066), concernente la soppressione del Comitato tecnico per la previdenza sociale e le assicurazioni private, istituito con [R. decreto 13 novembre 1930, n. 1568](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-13;1568), e l'attribuzione di funzioni colsultive alla Corporazione della previdenza e del credito, e' modificato come segue: 
+ L'art. 2 del decreto del DUCE del Fascismo, [Capo del Governo, in data 25 ottobre 1936, n. 2066](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.governo::1936-10-25;2066), concernente la soppressione del Comitato tecnico per la previdenza sociale e le assicurazioni private, istituito con [R. decreto 13 novembre 1930, n. 1568](Istituzione%20presso%20il%20Ministero%20delle%20corporazioni%20di%20un%20Comitato%20tecnico%20per%20la%20previdenza%20sociale%20e%20le%20assicurazioni%20private.%20030U1568.md), e l'attribuzione di funzioni colsultive alla Corporazione della previdenza e del credito, e' modificato come segue: 
  
  «Art. 2. - Il parere della Corporazione della previdenza e del credito deve essere richiesto: 
  

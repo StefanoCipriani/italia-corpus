@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1295), che autorizza lo stanziamento nel bilancio del Ministero delle comunicazioni delle maggiori spese derivanti dalla proroga di un anno della durata di alcune convenzioni per i servizi marittimi sovvenzionati. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1295](Variazioni%20nelle%20spese%20derivanti%20dalla%20proroga%20della%20durata%20di%20alcune%20convenzioni%20per%20i%20servizi%20marittimi.%20027U1295.md), che autorizza lo stanziamento nel bilancio del Ministero delle comunicazioni delle maggiori spese derivanti dalla proroga di un anno della durata di alcune convenzioni per i servizi marittimi sovvenzionati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -18,7 +18,7 @@ Vista la [legge 6 luglio 1922, n. 915](Che%20da%20facolta%20ai%20possessori%20de
 
 Visto il [R. decreto-legge 22 marzo 1923, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-22;5)(3, che modifica la legge stessa;
 
-Visti i [Regi decreti 25 marzo 1923, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;600); [26 aprile 1923, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-26;889); [27 settembre 1923, n. 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-27;1994), che autorizzano le prime tre serie dei detti buoni;
+Visti i [Regi decreti 25 marzo 1923, n. 600](Che%20reca%20disposizioni%20per%20la%20emissione%20dei%20buoni%20del%20tesoro%20novennali.%20023U0600.md); [26 aprile 1923, n. 889](Che%20autorizza%20lemissione%20della%20seconda%20serie%20di%20buoni%20del%20tesoro%20novennali%20a%20premi.%20023U0889.md); [27 settembre 1923, n. 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-27;1994), che autorizzano le prime tre serie dei detti buoni;
 
 Visto il [R. decreto-legge 6 dicembre 1923, n. 2652](Emissione%20di%20un%20quarto%20miliardo%20di%20buoni%20del%20tesoro%20novennali.%20023U2652.md), che autorizza la emissione di una quarta serie dei buoni stessi;
 

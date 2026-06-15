@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 marzo 1933, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-20;184), concernente la istituzione di un premio per la seta prodotto nel Regno con bozzoli italiani del raccolto 1932. 
+ E' convertito in legge il [R. decreto-legge 20 marzo 1933, n. 184](Istituzione%20di%20un%20premio%20per%20la%20seta%20prodotta%20nel%20Regno%20con.%20bozzoli%20italiani%20del%20raccolto%201932.%20033U0184.md), concernente la istituzione di un premio per la seta prodotto nel Regno con bozzoli italiani del raccolto 1932. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

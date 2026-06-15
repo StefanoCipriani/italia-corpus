@@ -28,12 +28,12 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Al secondo comma dell'articolo 58 del testo unico delle leggi recanti norme per l'elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-30;361), come modificato dall'[articolo 3, comma 1, lettera d), della legge 4 agosto 1993, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-04;277#art_3-com1-letd), e dall'[articolo 2, comma 1, lettera e), n. 2), del decreto legislativo 20 dicembre 1993, n. 534](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-20;534#art_2-com1-lete-num2), il primo periodo e' sostituito dal seguente:
+Al secondo comma dell'articolo 58 del testo unico delle leggi recanti norme per l'elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), come modificato dall'[articolo 3, comma 1, lettera d), della legge 4 agosto 1993, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-04;277#art_3-com1-letd), e dall'[articolo 2, comma 1, lettera e), n. 2), del decreto legislativo 20 dicembre 1993, n. 534](../Decreti%20Legislativi/Modificazioni%20al%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20lelezione%20della%20Camera%20dei%20deputati%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2030%20marzo%201957%20n.%20361.md), il primo periodo e' sostituito dal seguente:
  "L'elettore deve recarsi ad uno degli appositi tavoli e, senza che sia avvicinato da alcuno, votare tracciando, con la matita, sulla scheda per l'elezione del candidato nel collegio uninominale un solo segno, comunque apposto, nel rettangolo contenente il cognome e nome del candidato preferito ed il contrassegno o i contrassegni relativi e, sulla scheda per la scelta della lista una solo segno, comunque apposto, nel rettangolo contenente il contrassegno ed il cognome e nome del candidato o dei candidati corrispondenti alla lista prescelta.".
 
 2.
 
-L'articolo 14 del testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, approvato con [decreto legislativo 20 dicembre 1993, n. 533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-20;533), e' sostituito dal seguente:
+L'articolo 14 del testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, approvato con [decreto legislativo 20 dicembre 1993, n. 533](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20recanti%20norme%20per%20lelezione%20del%20Senato%20della%20Repubblica.md), e' sostituito dal seguente:
  "Art. 14. - 1. Il voto si esprime tracciando, con la matita, un solo segno, comunque apposto, nel rettangolo contenente il contrassegno ed il cognome e nome del candidato da lui prescelti.
 Sono vietati altri segni o indicazioni.".
 
@@ -41,13 +41,13 @@ Sono vietati altri segni o indicazioni.".
 
 1.
 
-I manifesti di cui all'articolo 24, primo comma, n. 5), del testo unico recante le leggi per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-30;361), nel testo sostituito dall'[articolo 1, comma 1, lettera i), n. 9), del decreto legislativo 20 dicembre 1993, n. 534](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-20;534#art_1-com1-leti-num9), nonche' i manifesti di cui all'articolo 11, comma 1, lettera d), n. 2), del testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, approvato con [decreto legislativo 20 dicembre 1993, n. 533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-20;533), devono riportare, in calce, a caratteri ben visibili, l'avvertenza che l'elettore puo' esprimere un solo segno, comunque apposto, nel rettangolo contenente il nominativo o i nominativi dei candidati, nonche' il simbolo o i simboli posti a fianco dei nominativi medesimi.
+I manifesti di cui all'articolo 24, primo comma, n. 5), del testo unico recante le leggi per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), nel testo sostituito dall'[articolo 1, comma 1, lettera i), n. 9), del decreto legislativo 20 dicembre 1993, n. 534](../Decreti%20Legislativi/Modificazioni%20al%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20lelezione%20della%20Camera%20dei%20deputati%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2030%20marzo%201957%20n.%20361.md), nonche' i manifesti di cui all'articolo 11, comma 1, lettera d), n. 2), del testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, approvato con [decreto legislativo 20 dicembre 1993, n. 533](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20recanti%20norme%20per%20lelezione%20del%20Senato%20della%20Repubblica.md), devono riportare, in calce, a caratteri ben visibili, l'avvertenza che l'elettore puo' esprimere un solo segno, comunque apposto, nel rettangolo contenente il nominativo o i nominativi dei candidati, nonche' il simbolo o i simboli posti a fianco dei nominativi medesimi.
 
 ## Art. 3.
 
 1.
 
-L'[articolo 7 del decreto del Presidente della Repubblica 5 gennaio 1994, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-01-05;14#art_7), recante il regolamento di attuazione della [legge 4 agosto 1993, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-04;277), per la elezione della Camera dei deputati, e' abrogato.
+L'[articolo 7 del decreto del Presidente della Repubblica 5 gennaio 1994, n. 14](../DPR/Regolamento%20di%20attuazione%20della%20legge%204%20agosto%201993%20n.%20277%20per%20lelezione%20della%20Camera%20dei%20deputati.md), recante il regolamento di attuazione della [legge 4 agosto 1993, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-04;277), per la elezione della Camera dei deputati, e' abrogato.
 
 2.
 
@@ -55,7 +55,7 @@ Le tabelle B e D allegate al [decreto del Presidente della Repubblica n. 14 del 
 
 3.
 
-La tabella B allegata al testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, approvato con [decreto legislativo 20 dicembre 1993, n. 533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-20;533), e' sostituita dalla tabella C allegata al presente decreto.
+La tabella B allegata al testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, approvato con [decreto legislativo 20 dicembre 1993, n. 533](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20recanti%20norme%20per%20lelezione%20del%20Senato%20della%20Repubblica.md), e' sostituita dalla tabella C allegata al presente decreto.
 
 ## Art. 4.
 

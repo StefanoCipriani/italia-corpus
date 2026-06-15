@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 maggio 1929, n. 937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-05-09;937), che approva la proroga al 1 giugno 1929 del «Modus vivendi» di stabilimento provvisorio, stipulato in Parigi, fra l'Italia e la Francia, il 3 dicembre 1927, proroga conclusa con scambio di note che ha avuto luogo in Parigi il 30 marzo 1929. 
+ E' convertito in legge il [R. decreto-legge 9 maggio 1929, n. 937](Approvazione%20della%20proroga%20al%20l%20giugno%201929%20del%20Modus%20vivendi%20di%20stabilimento%20provvisorio%20stipulato%20in%20Parigi%20fra%20lItalia%20e%20la%20Francia%20il%203%20dicembre%201927.%20029U0937.md), che approva la proroga al 1 giugno 1929 del «Modus vivendi» di stabilimento provvisorio, stipulato in Parigi, fra l'Italia e la Francia, il 3 dicembre 1927, proroga conclusa con scambio di note che ha avuto luogo in Parigi il 30 marzo 1929. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

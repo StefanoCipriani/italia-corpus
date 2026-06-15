@@ -28,11 +28,11 @@ Sulla proposta del Nostro ministro segretario di Stato per gli affari esteri d'a
 
 ## Art. 1.
 
-Il testo del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'Eritrea portante la data odierna e' approvato ed avra' esecuzione in tutto il territorio della Colonia Eritrea nel decimo quinto giorno dopo che sia stato inserito sul Bollettino ufficiale della Colonia, anche nelle traduzioni in lingua araba ed in lingua amarica.
+Il testo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Eritrea portante la data odierna e' approvato ed avra' esecuzione in tutto il territorio della Colonia Eritrea nel decimo quinto giorno dopo che sia stato inserito sul Bollettino ufficiale della Colonia, anche nelle traduzioni in lingua araba ed in lingua amarica.
 
 ## Art. 2.
 
-Un esemplare del suddetto testo del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) eritreo stampato nella stamperia Reale, firmato da noi e controsegnato dai Nostri ministri degli affari esteri e di grazia e giustizia e dei culti, servira' di originale e sara' depositato e custodito negli archivi generali del Regno.
+Un esemplare del suddetto testo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) eritreo stampato nella stamperia Reale, firmato da noi e controsegnato dai Nostri ministri degli affari esteri e di grazia e giustizia e dei culti, servira' di originale e sara' depositato e custodito negli archivi generali del Regno.
 
 ## Art. 3.
 

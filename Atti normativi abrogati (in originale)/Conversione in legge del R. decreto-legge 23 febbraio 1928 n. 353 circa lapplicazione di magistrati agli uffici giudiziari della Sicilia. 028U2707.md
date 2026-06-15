@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 febbraio 1928, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-23;353), circa l'applicazione di magistrati agli uffici giudiziari della Sicilia. 
+ E' convertito in legge il [R. decreto-legge 23 febbraio 1928, n. 353](Applicazione%20di%20magistrati%20agli%20uffici%20giudiziari%20della%20Sicilia.%20028U0353.md), circa l'applicazione di magistrati agli uffici giudiziari della Sicilia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -190,7 +190,7 @@ La concessione e liquidazione dei contributi di cui agli articoli 3 e 4, corrisp
 
 1.
 
-Per i lavori relativi alla costruzione delle unita' di cui all'articolo 2 ed alla trasformazione delle medesime unita' alle condizioni di cui al comma 2 dell'articolo 4, sempreche' tali lavori siano effettuati nei cantieri nazionali iscritti negli albi di cui all'[articolo 19 della legge 14 giugno 1989, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-14;234#art_19), o nei cantieri dei Paesi membri della Comunita' economica europea, il Ministro della marina mercantile puo' concedere alle imprese aventi i requisiti per essere proprietarie di navi italiane ai sensi degli [articoli 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_143) e [144 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_144) un contributo inteso a ridurre i relativi oneri finanziari.
+Per i lavori relativi alla costruzione delle unita' di cui all'articolo 2 ed alla trasformazione delle medesime unita' alle condizioni di cui al comma 2 dell'articolo 4, sempreche' tali lavori siano effettuati nei cantieri nazionali iscritti negli albi di cui all'[articolo 19 della legge 14 giugno 1989, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-14;234#art_19), o nei cantieri dei Paesi membri della Comunita' economica europea, il Ministro della marina mercantile puo' concedere alle imprese aventi i requisiti per essere proprietarie di navi italiane ai sensi degli [articoli 143](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [144 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) un contributo inteso a ridurre i relativi oneri finanziari.
 
 2.
 
@@ -232,7 +232,7 @@ Se l'accertamento definitivo dell'ammontare del contributo da' luogo a differenz
 
 1.
 
-Il contributo di cui all'articolo 10 e' subordinato al mantenimento dell'iscrizione nei registri di cui all'[articolo 146 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_146) dell'unita' per la quale il contributo e' concesso per un periodo di quattro anni a decorrere dalla data di ultimazione dei relativi lavori di costruzione o trasformazione.
+Il contributo di cui all'articolo 10 e' subordinato al mantenimento dell'iscrizione nei registri di cui all'[articolo 146 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) dell'unita' per la quale il contributo e' concesso per un periodo di quattro anni a decorrere dalla data di ultimazione dei relativi lavori di costruzione o trasformazione.
 
 2.
 
@@ -308,7 +308,7 @@ Con decreto del Ministro della marina mercantile sono adottate eventuali limitaz
 
 5.
 
-I contributi di cui al presente decreto si considerano erogati in conto capitale e ad essi si applica la disposizione di cui alla lettera b) del comma 3 dell'articolo 55 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni.
+I contributi di cui al presente decreto si considerano erogati in conto capitale e ad essi si applica la disposizione di cui alla lettera b) del comma 3 dell'articolo 55 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni.
 
 ## Art. 19.
 

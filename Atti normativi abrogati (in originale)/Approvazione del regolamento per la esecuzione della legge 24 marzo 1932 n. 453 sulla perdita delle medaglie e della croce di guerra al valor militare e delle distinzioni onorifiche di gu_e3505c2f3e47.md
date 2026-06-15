@@ -16,13 +16,13 @@ RE D'ITALIA
 
 Visto l'art. 15 della legge 24 marzo 1932 - Anno X, n. 453;
 
-Visto il vigente [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'Esercito;
+Visto il vigente [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito;
 
-Visto il vigente [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo;
+Visto il vigente [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo;
 
 Vista la [legge 13 giugno 1912, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-13;555);
 
-Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), approvato con R. decreto 19 ottobre 1930 - Anno VIII, n. 1398;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con R. decreto 19 ottobre 1930 - Anno VIII, n. 1398;
 
 Visto il [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con R. decreto 19 ottobre 1930 - Anno VIII, n. 1399;
 

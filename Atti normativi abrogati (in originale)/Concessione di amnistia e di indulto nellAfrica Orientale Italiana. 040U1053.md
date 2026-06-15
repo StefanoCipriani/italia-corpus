@@ -56,7 +56,7 @@ I benefici di cui agli articoli 1 e 2 non si applicano:
  
  3° ai delitti di omicidio e lesioni personali quando siano stati determinati da pretesi diritti delle collettivita' indigene in materia di proprieta' fondiaria delle stirpi e tribu', di pascoli od abbeverate; oppure, siano stati commessi allo scopo di esercitare vendette di sangue delle stirpi o tribu'; 
  
- 4° ai delitti in materia di schiavitu' previsti dagli [articoli 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_600)-[604 del C. P.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_604); 
+ 4° ai delitti in materia di schiavitu' previsti dagli [articoli 600](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)-[604 del C. P.](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  5° al delitto di rapina quando abbia il carattere di razzia compiuta, da un gruppo di indigeni contro la proprieta' di altri, appartenenti ad una diversa stirpe, tribu', villaggio o paese; 
  
@@ -66,11 +66,11 @@ I benefici di cui agli articoli 1 e 2 non si applicano:
  
  8° agli atti di violenza contro corrieri, carovane ed ogni altro mezzo di trasporto in servizio del Governo; 
  
- 9° ai fatti di pubblicazione o diffusione di notizie false, esagerate o tendenziose per le quali possa essere turbato l'ordine pubblico, preveduti dall'[art. 656 C. P.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_656); 
+ 9° ai fatti di pubblicazione o diffusione di notizie false, esagerate o tendenziose per le quali possa essere turbato l'ordine pubblico, preveduti dall'[art. 656 C. P.](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  10° ai reati contro la liberta' sessuale ed a quelli di offesa al pudore ed all'onore sessuale commessi da sudditi o assimilati in danno di cittadini metropolitani, preveduti dal titolo IX, capo 1 e II Libro II C. P.; 
  
- 11° ai reati concernenti le sostanze stupefacenti preveduti dagli [articoli 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_446), [447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_447), [729](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_729) e [730 del C. P.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_730); 
+ 11° ai reati concernenti le sostanze stupefacenti preveduti dagli [articoli 446](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [447](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [729](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [730 del C. P.](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  12° alle violazioni delle leggi, regolamenti ed altre disposizioni vigenti in Africa Orientale Italiana circa la disciplina dei prezzi delle merci, dei servizi e degli affitti e l'accaparramento e la sottrazione di merci e derrate.
 
@@ -84,7 +84,7 @@ Si applicano altresi' le disposizioni degli articoli 3 e 4.
 
 ## Art. 7.
 
-E' conceduta amnistia per i reati per i quali la legge penale militare commina una pena detentiva non superiore, nel massimo, a due anni, ovvero la pena pecuniaria sola o congiunta a pena detentiva non eccedente il limite suddetto, ovvero la pena di cui al [n. 5 dell'art. 4 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_4-num5) per l'esercito e del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo, sola o congiunta ad una pena detentiva non eccedente il limite di due anni.
+E' conceduta amnistia per i reati per i quali la legge penale militare commina una pena detentiva non superiore, nel massimo, a due anni, ovvero la pena pecuniaria sola o congiunta a pena detentiva non eccedente il limite suddetto, ovvero la pena di cui al [n. 5 dell'art. 4 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, sola o congiunta ad una pena detentiva non eccedente il limite di due anni.
 
 ## Art. 8.
 

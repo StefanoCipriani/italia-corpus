@@ -55,7 +55,7 @@ Agli effetti del presente decreto si intende per:
  delle disposizioni sulla promulgazione delle leggi, sulla 
  emanazione dei decreti del Presidente della Repubblica e 
  sulle pubblicazioni ufficiali della Repubblica italiana, 
- approvato con [D.P.R. 14 marzo 1986, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-14;217).
+ approvato con [D.P.R. 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ### Art. 2. — Ambito di applicazione
 
@@ -63,7 +63,7 @@ Agli effetti del presente decreto si intende per:
 
 Le disposizioni di cui agli articoli 3 e 4 e ai titoli II e III del presente decreto si applicano:
                             a)
-                                alle imprese di assicurazione aventi la sede legale nel territorio della Repubblica e a quelle aventi la sede legale in altri Stati membri che siano stabilite nel predetto territorio, per le obbligazioni assunte in regime di liberta' di prestazione di servizi in Stati membri diversi dall'Italia nei rami indicati nella tabella allegata alla [legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742);
+                                alle imprese di assicurazione aventi la sede legale nel territorio della Repubblica e a quelle aventi la sede legale in altri Stati membri che siano stabilite nel predetto territorio, per le obbligazioni assunte in regime di liberta' di prestazione di servizi in Stati membri diversi dall'Italia nei rami indicati nella tabella allegata alla [legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md);
                             b)
                                 alle imprese di assicurazione aventi la sede legale in altri Stati membri, nonche' agli stabilimenti in questi stessi Stati di dette imprese e delle imprese con sede legale nel territorio della Repubblica, per le obbligazioni assunte in regime di liberta' di prestazione di servizi nel predetto territorio.
 
@@ -121,7 +121,7 @@ Le imprese stabilite nel territorio della Repubblica, che intendono stipulare co
 
 1.
 
-L'ISVAP, entro trenta giorni dalla data di comunicazione di cui all'art. 5, rilascia all'impresa un certificato che attesti quali sono i rami che essa e' autorizzata ad esercitare, che puo' operare anche all'estero, e che nulla osta a che assuma obbligazioni in re- gime di liberta' di prestazione di servizi. Per le imprese che hanno nel territorio della Repubblica la sede legale, il certificato deve altresi' attestare che l'impresa possiede, per l'insieme delle sue attivita', il margine di solvibilita' minimo previsto dalla [legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742).
+L'ISVAP, entro trenta giorni dalla data di comunicazione di cui all'art. 5, rilascia all'impresa un certificato che attesti quali sono i rami che essa e' autorizzata ad esercitare, che puo' operare anche all'estero, e che nulla osta a che assuma obbligazioni in re- gime di liberta' di prestazione di servizi. Per le imprese che hanno nel territorio della Repubblica la sede legale, il certificato deve altresi' attestare che l'impresa possiede, per l'insieme delle sue attivita', il margine di solvibilita' minimo previsto dalla [legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md).
 
 2.
 
@@ -151,7 +151,7 @@ L'ISVAP comunica, altresi', all'autorita' di controllo dello Stato membro di pre
 
 1.
 
-Le imprese di cui all'art. 5, devono comunicare all'ISVAP, entro il mese successivo a quello di approvazione del bilancio, l'importo dei premi dell'esercizio precedente relativi ai contratti conclusi in regime di liberta' di prestazione di servizi, al lordo delle cessioni in riassicurazione, suddiviso per Stati membri e per ciascuno dei rami di cui alla tabella allegata alla [legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742).
+Le imprese di cui all'art. 5, devono comunicare all'ISVAP, entro il mese successivo a quello di approvazione del bilancio, l'importo dei premi dell'esercizio precedente relativi ai contratti conclusi in regime di liberta' di prestazione di servizi, al lordo delle cessioni in riassicurazione, suddiviso per Stati membri e per ciascuno dei rami di cui alla tabella allegata alla [legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md).
 
 2.
 
@@ -167,7 +167,7 @@ utili e sui valori di riscatto e di riduzione
 
 1.
 
-Le riserve tecniche e matematiche relative ai contratti di cui all'art. 5, devono essere determinate e rappresentate in conformita' alle disposizioni della [legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742), sotto il controllo dell'ISVAP, salvo che si tratti di assicurazioni o di operazioni il cui esercizio e' soggetto al rilascio di autorizzazione da parte dello Stato membro di prestazione di servizi o ai regimi 
+Le riserve tecniche e matematiche relative ai contratti di cui all'art. 5, devono essere determinate e rappresentate in conformita' alle disposizioni della [legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md), sotto il controllo dell'ISVAP, salvo che si tratti di assicurazioni o di operazioni il cui esercizio e' soggetto al rilascio di autorizzazione da parte dello Stato membro di prestazione di servizi o ai regimi 
 transitori previsti dall'[art. 26 della direttiva CEE 
 n. 90/619 dell'8 novembre 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;619). In questi ultimi casi le riserve tecniche e matematiche devono essere determinate e reppresentate in conformita' alle disposizioni vigenti in detto Stato e sotto il controllo delle autorita' del medesimo.
 
@@ -192,7 +192,7 @@ L'approvazione e' data dal Ministro dell'industria, del commercio e dell'artigia
 
 3.
 
-Ove l'impresa cessionaria sia stabilita nel territorio della Repubblica, si applicano le disposizioni previste dal [comma 3 dell'art. 68 della legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_68-com3). Ove la cessazione avvenga nei confronti di uno stabilimento di un'impresa avente la propria sede legale in un altro Stato membro, l'approvazione e' subordinata all'attestazione da parte dell'autorita' di controllo di detto Stato che l'impresa stessa dispone, tenuto conto del trasferimento, del margine di solvibilita' necessario. L'impresa cessionaria deve inoltre soddisfare, in ciascuno Stato membro di prestazione di servizi, alle condizioni previste dagli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1990-11-08;619#art_11), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1990-11-08;619#art_12), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1990-11-08;619#art_14) e [16 della direttiva CEE n. 90/619 dell'8 novembre 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;619).
+Ove l'impresa cessionaria sia stabilita nel territorio della Repubblica, si applicano le disposizioni previste dal [comma 3 dell'art. 68 della legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md). Ove la cessazione avvenga nei confronti di uno stabilimento di un'impresa avente la propria sede legale in un altro Stato membro, l'approvazione e' subordinata all'attestazione da parte dell'autorita' di controllo di detto Stato che l'impresa stessa dispone, tenuto conto del trasferimento, del margine di solvibilita' necessario. L'impresa cessionaria deve inoltre soddisfare, in ciascuno Stato membro di prestazione di servizi, alle condizioni previste dagli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1990-11-08;619#art_11), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1990-11-08;619#art_12), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1990-11-08;619#art_14) e [16 della direttiva CEE n. 90/619 dell'8 novembre 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;619).
 
 4.
 
@@ -273,14 +273,14 @@ Le imprese stabilite in un altro Stato membro, che intendono assumere obbligazio
 
 2.
 
-L'autorizzazione e' rilasciata dal Ministro dell'industria, del commercio e dell'artigianato con decreto da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana, sentita la Commissione consultiva per le assicurazioni private, di cui al titolo IX del Testo unico approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), e successive modificazioni, previa istruttoria e su parere dell'ISVAP. Essa e' valida per l'intero territorio nazionale. Si applicano i [commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_7-com4) e [5 dell'art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_7-com5) e il [comma 2 dell'art. 8 della legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_8-com2).
+L'autorizzazione e' rilasciata dal Ministro dell'industria, del commercio e dell'artigianato con decreto da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana, sentita la Commissione consultiva per le assicurazioni private, di cui al titolo IX del Testo unico approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), e successive modificazioni, previa istruttoria e su parere dell'ISVAP. Essa e' valida per l'intero territorio nazionale. Si applicano i [commi 4](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md) e [5 dell'art. 7](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md) e il [comma 2 dell'art. 8 della legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md).
 
 3.
 
 Per ottenere l'autorizzazione l'impresa deve farne domanda al Ministero dell'industria, del commercio e dell'artigianato. Alla domanda di autorizzazione devono essere uniti i seguenti documenti: 
  - un certificato rilasciato dall'autorita' di controllo dello Stato membro della sede legale, attestante che l'impresa possiede, per l'insieme delle sue attivita', il margine di solvibilita' minimo previsto dall'[art. 19 della direttiva CEE n. 79/267 del 5 marzo 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;267), e che l'autorizzazione di cui l'impresa dispone le consente di esercitare l'attivita' assicurativa anche all'estero; 
  - un certificato rilasciato dall'autorita' di controllo dello Stato membro dello stabilimento da cui l'impresa intende operare, indicante i rami che l'impresa e' autorizzata ad esercitare e attestante che detta autorita' consente che l'impresa stessa assuma obbligazioni in regime di liberta' di prestazione di servizi; 
- - un programma di attivita', redatto in lingua italiana, recante l'indicazione della natura delle obbligazioni che l'impresa intende assumere, gli elementi previsti dalle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_12-com1-leta) e [b) del comma 1 dell'art. 12 della legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_12-com1-letb), le condizioni generali e speciali di polizza, le tariffe, i formulari e ogni altro stampato che l'impresa intende adottare per ciascuna categoria di assicurazione o di operazioni.
+ - un programma di attivita', redatto in lingua italiana, recante l'indicazione della natura delle obbligazioni che l'impresa intende assumere, gli elementi previsti dalle [lettere a)](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md) e [b) del comma 1 dell'art. 12 della legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md), le condizioni generali e speciali di polizza, le tariffe, i formulari e ogni altro stampato che l'impresa intende adottare per ciascuna categoria di assicurazione o di operazioni.
 
 4.
 
@@ -297,7 +297,7 @@ Le nuove tariffe e le nuove condizioni di polizza, nonche' le relative modificaz
 
 7.
 
-Sono soggette ad approvazione con le modalita' previste dal comma 6 le modificazioni relative agli atti e ai dati previsti dalle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_12-leta) e [b) dell'art. 12 della legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_12-letb). 
+Sono soggette ad approvazione con le modalita' previste dal comma 6 le modificazioni relative agli atti e ai dati previsti dalle [lettere a)](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md) e [b) dell'art. 12 della legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md). 
  ([Direttiva n. 90/619, artt. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;619) e [19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1990;619#art_19))
 
 ### Art. 14. — Diniego dell'autorizzazione
@@ -426,7 +426,7 @@ L'ISVAP chiede alle autorita' di controllo degli Stati membri di stabilimento de
 
 1.
 
-Le riserve tecniche e matematiche relative ai contratti di cui all'art. 13 devono essere determinate e rappresentate in conformita' alle disposizioni della [legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742), sotto il controllo dell'ISVAP.
+Le riserve tecniche e matematiche relative ai contratti di cui all'art. 13 devono essere determinate e rappresentate in conformita' alle disposizioni della [legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md), sotto il controllo dell'ISVAP.
 
 2.
 
@@ -523,7 +523,7 @@ Le parti possono convenire di assoggettare il contratto alla legislazione di un 
 
 3.
 
-Per quanto non disposto dal presente articolo, si applicano le disposizioni della convenzione di Roma del 19 giugno 1980, sulla legge applicabile alle obbligazioni contrattuali, resa esecutiva con [legge 18 dicembre 1984, n. 975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-18;975), presumendosi, ai fini della sua applicazione, che il contratto presenti il collegamento piu' stretto con lo Stato membro del contratto. 
+Per quanto non disposto dal presente articolo, si applicano le disposizioni della convenzione di Roma del 19 giugno 1980, sulla legge applicabile alle obbligazioni contrattuali, resa esecutiva con [legge 18 dicembre 1984, n. 975](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20legge%20applicabile%20alle%20obbligazioni%20contrattuali%20con%20protocollo%20e%20due%20dichiarazioni%20comuni%20adottata%20a%20Roma%20il%2019%20giugno%201980.md), presumendosi, ai fini della sua applicazione, che il contratto presenti il collegamento piu' stretto con lo Stato membro del contratto. 
  ([Direttiva n. 90/619, art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;619))
 
 ## MODIFICHE E INTEGRAZIONI ALLA LEGISLAZIONE SULL'ESERCIZIO DELL'ATTIVITA' ASSICURATIVA
@@ -535,22 +535,22 @@ Titolo V
 
 1.
 
-Dal 20 maggio 1993 e' abolito l'obbligo di cui agli articoli 23, 24, 25 e 26 del Testo Unico delle leggi sulle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449, ed agli articoli 62](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md) e [63](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md) della [legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742). Restano ferme le disposizioni di cui agli articoli sopra richiamati per i contratti conclusi fino alla predetta data e la relativa attivita' resta attribuita all'Istituto Nazionale delle Assicurazioni - INA S.p.a. titolo di concessione ai sensi dell'[art. 14 del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_14), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359).
+Dal 20 maggio 1993 e' abolito l'obbligo di cui agli articoli 23, 24, 25 e 26 del Testo Unico delle leggi sulle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449, ed agli articoli 62](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md) e [63](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md) della [legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md). Restano ferme le disposizioni di cui agli articoli sopra richiamati per i contratti conclusi fino alla predetta data e la relativa attivita' resta attribuita all'Istituto Nazionale delle Assicurazioni - INA S.p.a. titolo di concessione ai sensi dell'[art. 14 del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_14), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20luglio%201992%20n.%20333%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica.md).
 
 2.
 
-Il comma 2 dell'art. 6 del decreto del Presidente della Repubblica sopracitato ed il [comma 2 dell'art. 5 della legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_5-com2), sono abrogati dal 20 maggio 1993.
+Il comma 2 dell'art. 6 del decreto del Presidente della Repubblica sopracitato ed il [comma 2 dell'art. 5 della legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md), sono abrogati dal 20 maggio 1993.
 
 3.
 
-Dal 20 maggio 1993 sono abrogati i commi 2 e 3 dell'art. 83 del decreto del Presidente della Repubblica sopracitato ed i [commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_71-com2) e [3 dell'art. 71 della legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_71-com3). Ai contratti di assicurazione sulla vita, stipulati da una impresa posta in liquidazione coatta amministrativa dopo tale data si applica l'art. 88 del decreto del Presidente della Repubblica sopracitato. 
+Dal 20 maggio 1993 sono abrogati i commi 2 e 3 dell'art. 83 del decreto del Presidente della Repubblica sopracitato ed i [commi 2](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md) e [3 dell'art. 71 della legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md). Ai contratti di assicurazione sulla vita, stipulati da una impresa posta in liquidazione coatta amministrativa dopo tale data si applica l'art. 88 del decreto del Presidente della Repubblica sopracitato. 
  ([Direttiva n. 90/619, art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;619))
 
 ### Art. 28. — Modifiche e integrazioni alla legge 22 ottobre 1986, n. 742
 
 1.
 
-Dopo l'[art. 27 della legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_27), sono inseriti i seguenti articoli: 
+Dopo l'[art. 27 della legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md), sono inseriti i seguenti articoli: 
  "Art. 27-bis (Comunicazione delle autorizzazioni all'esercizio 
 dell'attivita' assicurativa e delle acqusizioni di partecipazioni di controllo da parte di imprese aventi la sede legale in uno Stato terzo rispetto alla Comunita' economica europea). - 1. Il Ministero dell'industria, del commercio e dell'artigianato, sentito l'ISVAP, informa la Commissione della Comunita' economica europea: 
  a) di ogni autorizzazione all'esercizio dell'attivita' assicurativa rilasciata ad un'impresa di assicurazione controllata da un'impresa avente la sede legale in uno Stato terzo rispetto alla Comunita' economica europea; 
@@ -567,11 +567,11 @@ dell'attivita' assicurativa e delle acqusizioni di partecipazioni di controllo d
 
 2.
 
-All'[art. 68, comma 1, della legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_68-com1), le parole: "In caso di trasferimento volontario del portafoglio italiano" sono sostituite dalle seguenti: "In caso di trasferimento volontario del portafoglio concernente contratti conclusi in regime di stabilimento nel territorio della Repubblica".
+All'[art. 68, comma 1, della legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md), le parole: "In caso di trasferimento volontario del portafoglio italiano" sono sostituite dalle seguenti: "In caso di trasferimento volontario del portafoglio concernente contratti conclusi in regime di stabilimento nel territorio della Repubblica".
 
 3.
 
-Il secondo periodo del [comma 3 dell'art. 68 della legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_68-com3), e' abrogato.
+Il secondo periodo del [comma 3 dell'art. 68 della legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md), e' abrogato.
 
 ### Art. 29. — Entrata in vigore
 

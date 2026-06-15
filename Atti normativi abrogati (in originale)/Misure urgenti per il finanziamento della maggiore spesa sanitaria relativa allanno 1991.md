@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del teso
 
 1.
 
-Il limite di crescita della spesa per acquisti di beni e servizi da parte degli enti del Servizio sanitario nazionale previsto dall'[articolo 5, comma 2, della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_5-com2), e' elevato dall'11 al 22 per cento.
+Il limite di crescita della spesa per acquisti di beni e servizi da parte degli enti del Servizio sanitario nazionale previsto dall'[articolo 5, comma 2, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), e' elevato dall'11 al 22 per cento.
 
 2.
 
@@ -30,7 +30,7 @@ Per l'anno 1991 le maggiori occorrenze finanziarie del Servizio sanitario nazion
 
 3.
 
-I mutui hanno durata di quindici anni e sono regolati a tasso di interesse annuo posticipato fisso o variabile in misura non superiore a quella massima stabilita in applicazione dell'[articolo 13, comma 1, del decreto-legge 28 dicembre 1989, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-28;415#art_13-com1), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;38). L'ammortamento decorre dal 1' gennaio 1993.
+I mutui hanno durata di quindici anni e sono regolati a tasso di interesse annuo posticipato fisso o variabile in misura non superiore a quella massima stabilita in applicazione dell'[articolo 13, comma 1, del decreto-legge 28 dicembre 1989, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-28;415#art_13-com1), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 38](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%201989%20n.%20415%20recante%20norme%20urgenti%20in%20materia%20di%20finanza%20locale%20e%20di%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20le%20regioni%20nonc_ea7a0a31f2d9.md). L'ammortamento decorre dal 1' gennaio 1993.
 
 4.
 

@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
-Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modificazioni, nella [legge 24 luglio 1972, n. 321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-07-24;321);
+Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modificazioni, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com1);
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -61,7 +61,7 @@ Gli ispettorati compartimentali delle tasse e delle imposte indirette sugli affa
 
 ## Art. 6.
 
-Restano ferme le disposizioni previste dal [decreto legislativo 18 gennaio 1948, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-18;69), istitutivo del servizio permanente di controllo contabile amministrativo delle riscossioni eseguite per conto dello Stato dall'Automobile club d'Italia (A.C.I.) e dalla Societa' italiana autori ed editori (S.I.A.E.).
+Restano ferme le disposizioni previste dal [decreto legislativo 18 gennaio 1948, n. 69](../Decreti%20Legislativi/Istituzione%20di%20un%20servizio%20permanente%20di%20controllo%20contabile%20amministrativo%20delle%20riscossioni%20eseguite%20per%20conto%20dello%20Stato%20dallAutomobile%20Club%20dItalia%20A.C.I.%20e%20dalla%20Societa%20italiana%20Au_21f6be5408a3.md), istitutivo del servizio permanente di controllo contabile amministrativo delle riscossioni eseguite per conto dello Stato dall'Automobile club d'Italia (A.C.I.) e dalla Societa' italiana autori ed editori (S.I.A.E.).
 
 ## Art. 7.
 

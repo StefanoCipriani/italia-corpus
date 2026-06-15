@@ -12,15 +12,15 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [regio decreto-legge 24 maggio 1938, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-05-24;379), convertito nella [legge 7 giugno 1938, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-06-07;1090);
+Visto il [regio decreto-legge 24 maggio 1938, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-05-24;379), convertito nella [legge 7 giugno 1938, n. 1090](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20marzo%201938-XVI%20n.%20379%20riguardante%20lautorizzazione%20al%20P.N.F.%20ad%20emettere%20un%20prestito%20per%20la%20costruzione%20della%20Casa%20Littoria.%20038U1090.md);
 
-Vista la [legge 26 ottobre 1940, n. 1734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-26;1734);
+Vista la [legge 26 ottobre 1940, n. 1734](Trasferimento%20della%20costruenda%20Littoria%20di%20Roma%20in%20proprieta%20dello%20Stato%20per%20essere%20destinata%20a%20nuova%20sede%20del%20Ministero%20degli%20affari%20esteri.%20040U1734.md);
 
 Visto il [regio decreto-legge 2 agosto 1943, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-02;704);
 
-Visto il [decreto legislativo luogotenenziale 27 luglio 1944, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-07-27;159);
+Visto il [decreto legislativo luogotenenziale 27 luglio 1944, n. 159](../Decreti%20legislativi%20luogotenenziali/Sanzioni%20contro%20il%20fascismo.%20044U0159.md);
 
 Visto il [decreto Ministeriale 25 settembre 1943, numero 306224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1943-09-25;306224);
 

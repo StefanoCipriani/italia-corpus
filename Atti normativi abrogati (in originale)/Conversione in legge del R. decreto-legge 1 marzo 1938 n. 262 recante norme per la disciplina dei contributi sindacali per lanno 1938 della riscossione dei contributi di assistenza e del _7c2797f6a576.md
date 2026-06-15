@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° marzo 1938, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-01;262), recante norme per la disciplina dei contributi sindacali per l'anno 1938, della riscossione dei contributi di assistenza e del rimborso delle spese per la tenuta degli albi professionali. 
+ E' convertito in legge il [R. decreto-legge 1° marzo 1938, n. 262](Disciplina%20dei%20contributi%20sindacali%20per%20lanno%201938%20riscossione%20dei%20contributi%20di%20assistenza%20e%20rimborso%20delle%20spese%20per%20la%20tenuta%20degli%20albi%20professionali.%20038U0262.md), recante norme per la disciplina dei contributi sindacali per l'anno 1938, della riscossione dei contributi di assistenza e del rimborso delle spese per la tenuta degli albi professionali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

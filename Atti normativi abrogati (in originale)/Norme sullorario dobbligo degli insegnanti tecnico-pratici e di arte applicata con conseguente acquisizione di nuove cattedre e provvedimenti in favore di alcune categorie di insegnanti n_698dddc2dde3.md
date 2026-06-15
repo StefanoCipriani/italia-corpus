@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'orario d'obbligo degli insegnanti tecnico-pratici e degli insegnanti di arte applicata degli istituti di istruzione tecnica e professionale, degli istituti e scuole d'arte e delle scuole secondarie di primo grado, a decorrere dal 1 ottobre 1964, e' di 18 ore settimanali d'insegnamento, fermo restando l'obbligo della preparazione e della cura delle attrezzature ai sensi dell'[articolo 2 del decreto legislativo 7 maggio 1948, n. 1277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1277#art_2).
+L'orario d'obbligo degli insegnanti tecnico-pratici e degli insegnanti di arte applicata degli istituti di istruzione tecnica e professionale, degli istituti e scuole d'arte e delle scuole secondarie di primo grado, a decorrere dal 1 ottobre 1964, e' di 18 ore settimanali d'insegnamento, fermo restando l'obbligo della preparazione e della cura delle attrezzature ai sensi dell'[articolo 2 del decreto legislativo 7 maggio 1948, n. 1277](../Decreti%20Legislativi/Revisione%20dello%20stato%20giuridico%20ed%20economico%20del%20personale%20tecnico%20degli%20istituti%20e%20delle%20scuole%20di%20istruzione%20tecnica.md).
  Agli insegnanti di cui al precedente comma si applicano, per la retribuzione delle ore eccedenti l'orario d'obbligo e limitatamente alle ore di effettivo insegnamento, le norme della [legge 14 novembre 1962, n. 1617](Disposizione%20sulle%20ore%20dinsegnamento%20eccedenti%20lorario%20di%20cattedra%20negli%20Istituti%20di%20istruzione%20secondaria.md).
 
 ## Art. 2.

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 giugno 1926, n. 1045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-06-11;1045), portante modificazioni ai Regi decreti-legge 8 febbraio e 26 aprile 1923, nn. 323 e 999, circa i marittimi disertati o che disertano. 
+ E' convertito in legge il [R. decreto-legge 11 giugno 1926, n. 1045](Modificazioni%20ai%20Regi%20decreti%20legge%208%20febbraio%20e%2026%20aprile%201923%20nn.%20323%20e%20999%20circa%20i%20marittimi%20disertati%20o%20che%20disertano%20da%20navi%20mercantili.%20026U1045.md), portante modificazioni ai Regi decreti-legge 8 febbraio e 26 aprile 1923, nn. 323 e 999, circa i marittimi disertati o che disertano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del regno d'Italia, mandando a chiunque spetti di osservarla e farla osservare come legge dello Stato. 
  

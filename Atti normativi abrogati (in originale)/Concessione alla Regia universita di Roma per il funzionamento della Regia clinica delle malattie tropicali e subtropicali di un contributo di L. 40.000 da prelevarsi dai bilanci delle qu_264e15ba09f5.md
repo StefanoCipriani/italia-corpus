@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Per provvedere alle spese di funzionamento della Clinica delle malattie tropicali e subtropicali presso la Regia universita' di Roma, oltre ai contributi fissati all'[art. 4 del R. decreto-legge in data 18 dicembre 1930, n. 1837](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-18;1837#art_4), sara' corrisposto, a decorrere dall'esercizio finanziario 1934-35, dal Ministero delle colonie l'annuo contributo di L. 40.000 ripattito in uguale misura sui bilanci della Tripolitania, della Cirenaica, dell'Eritrea e della Somalia italiana. 
+ Per provvedere alle spese di funzionamento della Clinica delle malattie tropicali e subtropicali presso la Regia universita' di Roma, oltre ai contributi fissati all'[art. 4 del R. decreto-legge in data 18 dicembre 1930, n. 1837](Insegnamento%20di%20statistica%20e%20di%20clinica%20delle%20malattie%20tropicali%20e%20sub-tropicali%20nella%20Regia%20universita%20di%20Roma.%20030U1837.md), sara' corrisposto, a decorrere dall'esercizio finanziario 1934-35, dal Ministero delle colonie l'annuo contributo di L. 40.000 ripattito in uguale misura sui bilanci della Tripolitania, della Cirenaica, dell'Eritrea e della Somalia italiana. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

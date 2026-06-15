@@ -265,7 +265,7 @@ La risoluzione in via amministrativa di ogni altra controversia tra l'Amministra
  
  Alle stesse Commissioni censuarie comunali e provinciali e' pure demandata, rispettivamente in prima stanza ed in appello, la risoluzione in via amministrativa delle controversie tra l'Amministrazione finanziaria ed i contribuenti in materia di imposte sui terreni, sui fabbricati e sul reddito agrario. Nei casi contemplati dalle leggi contro le decisioni delle Commissioni censuarie provinciali e' ammesso ricorso alla Commissione censuaria centrale. 
  
- Resta ferma la competenza delle Commissioni amministrative previste dal [R. decreto-legge 7 agosto 1936, n. 1639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-08-07;1639), convertito nella legge 7 giugno 1937-XV, n. 1016, per le controversie in materia di indebito, errori e sgravi d'imposta nonche' di esenzioni ed agevolazioni stabilite esclusivamente in rapporto alla persona dei soggetti. 
+ Resta ferma la competenza delle Commissioni amministrative previste dal [R. decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), convertito nella legge 7 giugno 1937-XV, n. 1016, per le controversie in materia di indebito, errori e sgravi d'imposta nonche' di esenzioni ed agevolazioni stabilite esclusivamente in rapporto alla persona dei soggetti. 
  
  Resta fermo il disposto dell'articolo 5, 2° comma, del R. decreto-legge 27 marzo 1939-XVII, n. 571, convertito nella legge 23 giugno 1939-XVII, n. 916, in materia di ricorsi contro la decorrenza dei maggiori estimi derivanti dalle opere di bonifica. 
  
@@ -363,7 +363,7 @@ La Commissione censuaria centrale continuera' a funzionare nella sua attuale cos
 
 ### Art. 36.
 
-Sino a quando non entrera' in vigore il nuovo catasto edilizio urbano la risoluzione in via amministrativa delle controversie in materia di imposta sui fabbricati continua ad essere demandata alle Commissioni amministrative previste dal [R. decreto-legge 7 agosto 1936, n. 1639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-08-07;1639), convertito nella legge 7 giugno 1937 XV, n. 1016. 
+Sino a quando non entrera' in vigore il nuovo catasto edilizio urbano la risoluzione in via amministrativa delle controversie in materia di imposta sui fabbricati continua ad essere demandata alle Commissioni amministrative previste dal [R. decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), convertito nella legge 7 giugno 1937 XV, n. 1016. 
  
  Ordiniamo che la presente, munita del sigillo dello stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

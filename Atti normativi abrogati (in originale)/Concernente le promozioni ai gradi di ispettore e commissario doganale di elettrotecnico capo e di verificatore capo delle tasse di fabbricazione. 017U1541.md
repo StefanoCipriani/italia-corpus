@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Durante la guerra le promozioni ai gradi di ispettore e di commissario nelle dogane, per tutti i posti che sono e che, in detto periodo di tempo, si renderanno vacanti, sono, a deroga di quanto prescrivono gli articoli 12 e 14 del regolamento per il personale delle dogane approvato con [R. decreto 13 luglio 1914, n. 1106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-07-13;1106), conferiti senza esame, coi criteri e nelle forme stabilite per le promozioni di grado dall'art. 4 e dal terzo comma dell'art. 6 del testo unico delle leggi sullo stato degli impiegati civili. 
+Durante la guerra le promozioni ai gradi di ispettore e di commissario nelle dogane, per tutti i posti che sono e che, in detto periodo di tempo, si renderanno vacanti, sono, a deroga di quanto prescrivono gli articoli 12 e 14 del regolamento per il personale delle dogane approvato con [R. decreto 13 luglio 1914, n. 1106](Col%20quale%20e%20approvato%20lo%20annesso%20regolamento%20per%20il%20personale%20delle%20dogane.%20014U1106.md), conferiti senza esame, coi criteri e nelle forme stabilite per le promozioni di grado dall'art. 4 e dal terzo comma dell'art. 6 del testo unico delle leggi sullo stato degli impiegati civili. 
  
  Agli effetti dello stesso articolo 6, terzo comma, del citato testo unico di leggi sono considerati come di grado e classe immediatamente precedenti i funzionari di 1ª categoria delle dogane con stipendio immediatamente inferiore a quello di ispettore e di commissario di 2ª classe. 
  
@@ -18,7 +18,7 @@ Durante la guerra le promozioni ai gradi di ispettore e di commissario nelle dog
 
 ## Art. 2.
 
-Durante la guerra le promozioni ai gradi di elettrotecnico-capo e di verificatore-capo delle tasse di fabbricazione, per tutti i posti che sono e che, in detto periodo di tempo, si renderanno vacanti, saranno, a deroga di ogni altra norma attualmente in vigore, conferite esclusivamente a scelta per merito agli elettrotecnici ed ai verificatori di 1ª e di 2ª classe, secondo i criteri e nelle forme stabilite per le promozioni a scelta per merito, dall'ultimo comma dell'art. 16 e dall'art. 17 del regolamento per il personale tecnico delle tasse di fabbricazione approvato con [R. decreto 15 aprile 1915, n. 492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-15;492). 
+Durante la guerra le promozioni ai gradi di elettrotecnico-capo e di verificatore-capo delle tasse di fabbricazione, per tutti i posti che sono e che, in detto periodo di tempo, si renderanno vacanti, saranno, a deroga di ogni altra norma attualmente in vigore, conferite esclusivamente a scelta per merito agli elettrotecnici ed ai verificatori di 1ª e di 2ª classe, secondo i criteri e nelle forme stabilite per le promozioni a scelta per merito, dall'ultimo comma dell'art. 16 e dall'art. 17 del regolamento per il personale tecnico delle tasse di fabbricazione approvato con [R. decreto 15 aprile 1915, n. 492](Col%20quale%20e%20approvato%20il%20regolamento%20per%20il%20personale%20tecnico%20delle%20tasse%20di%20fabbricazione.%20015U0492.md). 
  
  Nella prima applicazione del presente articolo, gli impiegati promossi al grado superiore in virtu' di questo stesso articolo, prenderanno posto nel rispettivo ruolo, in confronto coi funzionari gia' promossi allo stesso grado per merito ma con riserva di anzianita', secondo l'ordine nel quale, prima della nomina di questi ultimi, gli uni e gli altri si trovavano nel ruolo dal quale provengono.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 maggio 1933, n. 759](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-05-08;759), che approva la convenzione 24 aprile 1933 stipulata con la Societa' triestina di navigazione « Cosulich » sedente in Trieste, per l'esercizio della linea di navigazione fra Trieste e Para' (Nord Brasile). 
+ E' convertito in legge il [R. decreto-legge 8 maggio 1933, n. 759](Approvazione%20di%20una%20convenzione%20con%20la%20Societa%20di%20navigazione%20Cosulich.%20033U0759.md), che approva la convenzione 24 aprile 1933 stipulata con la Societa' triestina di navigazione « Cosulich » sedente in Trieste, per l'esercizio della linea di navigazione fra Trieste e Para' (Nord Brasile). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

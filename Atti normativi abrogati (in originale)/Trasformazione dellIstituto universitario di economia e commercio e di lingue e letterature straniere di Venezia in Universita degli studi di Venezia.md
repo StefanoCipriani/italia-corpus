@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto dell'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1029](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029), e modificato con [regio decreto 26 marzo 1942, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352), e successive modificazioni;
+Veduto lo statuto dell'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1029](Approvazione%20del%20nuovo%20statuto%20del%20Regio%20istituto%20superiore%20di%20economia%20e%20commercio%20di%20Venezia.%20039U1029.md), e modificato con [regio decreto 26 marzo 1942, n. 352](Modificazioni%20alle%20statuto%20del%20Regio%20istituto%20universitario%20di%20economia%20e%20commercio%20di%20Venezia.%20042U0352.md), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
 Veduta la [legge 11 giugno 1954, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-06-11;360);
 

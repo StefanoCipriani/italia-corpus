@@ -22,7 +22,7 @@ Le disposizioni del presente decreto disciplinano la riduzione delle dotazioni o
 
 2.
 
-Nell'ambito delle dotazioni organiche determinate dall'[articolo 1, comma 96, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_1-com96), vengono, conseguentemente, adeguate le previsioni normative attinenti al reclutamento, allo stato giuridico ed all'avanzamento degli ufficiali di cui al comma 1 in base ai criteri previsti dal comma 97 del medesimo articolo 1 della citata [legge n. 662 del 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996;662).
+Nell'ambito delle dotazioni organiche determinate dall'[articolo 1, comma 96, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), vengono, conseguentemente, adeguate le previsioni normative attinenti al reclutamento, allo stato giuridico ed all'avanzamento degli ufficiali di cui al comma 1 in base ai criteri previsti dal comma 97 del medesimo articolo 1 della citata [legge n. 662 del 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996;662).
 
 3.
 
@@ -37,20 +37,20 @@ Con apposito decreto legislativo emanato ai sensi dell'articolo 1, comma 97, del
 Ai fini dell'applicazione del presente decreto, se non diversamente specificato, con i gradi degli ufficiali dell'Esercito si individuano anche i corrispondenti gradi della Marina e dell'Aeronautica secondo quanto riportato nella tabella "A" allegata al presente decreto. 
  
  Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e 1'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e 1'efficacia degli atti legislativi qui trascritti.
 
 Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
- - La [legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662), recante: "Misure di razionalizzazione della finanza pubblica" e' pubblicata nella Gazzetta Ufficiale 28 dicembre 1996, n. 303, supplemento ordinario. Il testo dell'art. 1, commi 96 e 97, e' il seguente:
- "96. Nel quadro della ristrutturazione dell'organizzazione centrale, territoriale e periferica della Difesa, disciplinata dai decreti legislativi previsti dalla [legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549), le dotazioni organiche e le consistenze effettive complessive degli ufficiali in servizio permanente dell'esercito, esclusa l'Arma dei carabinieri, della Marina militare, escluso il corpo delle capitanerie di porto, e dell'Aeronautica militare sono ridotte del 25 per cento entro otto anni, attraverso la riduzione almeno del 30 per cento della alimentazione dei ruoli.
+ - La [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), recante: "Misure di razionalizzazione della finanza pubblica" e' pubblicata nella Gazzetta Ufficiale 28 dicembre 1996, n. 303, supplemento ordinario. Il testo dell'art. 1, commi 96 e 97, e' il seguente:
+ "96. Nel quadro della ristrutturazione dell'organizzazione centrale, territoriale e periferica della Difesa, disciplinata dai decreti legislativi previsti dalla [legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), le dotazioni organiche e le consistenze effettive complessive degli ufficiali in servizio permanente dell'esercito, esclusa l'Arma dei carabinieri, della Marina militare, escluso il corpo delle capitanerie di porto, e dell'Aeronautica militare sono ridotte del 25 per cento entro otto anni, attraverso la riduzione almeno del 30 per cento della alimentazione dei ruoli.
  97. Nell'ambito delle riduzioni di cui al comma 96, il Governo e' delegato ad emanare, entro dodici mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per il riordino del reclutamento, dello stato giuridico e dell'avanzamento degli ufficiali, che dovranno:
  a) definire per ciascuna Forza armata, in relazione alle esigenze ordinativo-funzionali da soddisfare ed ai livelli gerarchici da assicurare, in rapporto anche alle funzioni da svolgere nell'ambito delle strutture integrate dell'Alleanza atlantica e di altri organismi multinazionali similari, i ruoli normali e speciali anche attraverso revisione dei ruoli esistenti e, ove occorra, mediante la soppressione, esaurimento ovvero istituzione di nuovi ruoli, con determinazione delle relative consistenze organiche;
  b) apportare le necessarie modificazioni alla normativa vigente al fine di realizzare, in ambito interforze, avanzamenti normalizzati paritetici ed uguali limiti di eta' per la cessazione dal servizio tra ruoli omologhi preposti a funzioni similari;
  c) prolungare opportunamente la permanenza nei singoli gradi in relazione ai piu' elevati limiti di eta', che comunque non possono eccedere i sessantacinque anni;
- d) aggiornare, in chiave riduttiva, i numeri massimi di cui alla [legge 10 dicembre 1973, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-10;804), in relazione a quanto previsto nel comma 96, precisando le cariche da escludere dal collocamento in aspettativa per riduzione di quadri, di cui all'art. 7 della medesima [legge n. 804 del 1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;804);
+ d) aggiornare, in chiave riduttiva, i numeri massimi di cui alla [legge 10 dicembre 1973, n. 804](Norme%20per%20lattuazione%20dellarticolo%2016-quater%20della%20legge%2018%20marzo%201968%20n.%20249%20quale%20risulta%20modificato%20dallarticolo%2012%20della%20legge%2028%20ottobre%201970%20n.%20775%20nei%20confronti%20degli%20ufficiali%20del_3480d302bea6.md), in relazione a quanto previsto nel comma 96, precisando le cariche da escludere dal collocamento in aspettativa per riduzione di quadri, di cui all'art. 7 della medesima [legge n. 804 del 1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;804);
  e) regolare con norme transitorie il graduale passaggio, in un arco di otto anni, dalla vigente normativa a quella che verra' definita con i decreti legislativi, tenendo conto dei giudizi di idoneita' espressi dalle commissioni di avanzamento alla data di entrata in vigore dei predetti decreti, nonche' disciplinando il transito, senza oneri aggiuntivi, del personale eccedente in altre amministrazioni;
- f) prevedere la semplificazione e la razionalizzazione delle procedure relative alla valutazione del personale ai fini dell'avanzamento, nel rispetto dei principi sanciti dalla [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), e dalla [legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224), mediante l'utilizzazione prevalente di voti numerici quale sintesi valutativa della documentazione caratteristica disponibile, la razionalizzazione del funzionamento dei collegi giudicanti preposti alla valutazione del personale, nonche' procedure di verifica dell'operato delle commissioni di avanzamento in caso di annullamento delle valutazioni;
+ f) prevedere la semplificazione e la razionalizzazione delle procedure relative alla valutazione del personale ai fini dell'avanzamento, nel rispetto dei principi sanciti dalla [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e dalla [legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), mediante l'utilizzazione prevalente di voti numerici quale sintesi valutativa della documentazione caratteristica disponibile, la razionalizzazione del funzionamento dei collegi giudicanti preposti alla valutazione del personale, nonche' procedure di verifica dell'operato delle commissioni di avanzamento in caso di annullamento delle valutazioni;
  g) aggiornare la normativa relativa alla posizione dell'ausiliaria, limitandone le condizioni di accesso, riducendone la durata che sara' allineata ai limiti di eta' per la cessazione dal servizio previsti per le differenti categorie del pubblico impiego, ampliandone le cause di esclusione e di cessazione anticipata e ridisciplinandone le modalita' di impiego, continuando comunque ad assicurare il versamento delle ritenute contributive ai fini pensionistici per tutta la durata della permanenza in tale posizione;
  h) realizzare economie nette di spesa, con riferimento agli oneri per gli ufficiali in servizio permanente effettivo previsti ai fini del bilancio triennale 1997-1999, non inferiori, rispettivamente, a lire 60 miliardi nel 1997, lire 84 miliardi nel 1998 e lire 138 miliardi nel 1999".
  Note all'art. 1, commi 2, 3 e 4:
@@ -273,7 +273,7 @@ I frequentatori che non superino i corsi applicativi:
                                 se provenienti dalla vita civile, sono collocati in congedo a meno che non debbano assolvere o completare gli obblighi di leva.
 
 Nota all'art. 5, comma 1:
- - Il testo del [decreto legislativo 12 maggio 1995, n. 196](Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20dei%20ruoli%20modifica%20alle%20norme%20di%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20non%20direttivo%20delle%20Forze%20armate.md), concernente "Attuazione dell'[art. 3 della legge 6 marzo 1992, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216#art_3), in materia di riordino dei ruoli, modifica alle norme di reclutamento, stato ed avanzamento del personale non direttivo delle Forze armate" e'
+ - Il testo del [decreto legislativo 12 maggio 1995, n. 196](Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20dei%20ruoli%20modifica%20alle%20norme%20di%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20non%20direttivo%20delle%20Forze%20armate.md), concernente "Attuazione dell'[art. 3 della legge 6 marzo 1992, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), in materia di riordino dei ruoli, modifica alle norme di reclutamento, stato ed avanzamento del personale non direttivo delle Forze armate" e'
  pubblicato nella Gazzetta Ufficiale 27 maggio 1995, n. 122, supplemento ordinario. Il testo dell'art. 11, comma l, lettere a) e b) del decreto legislativo e' il seguente:
  "Art. 11 (Reclutamento nel ruolo dei marescialli). - 1.
  Il personale del ruolo dei marescialli dell'Esercito (esclusa l'Arma dei carabinieri, della Marina e dell'Aeronautica, in rapporto alle consistenze degli organici di cui al precedente art. 3, e' tratto:
@@ -315,10 +315,10 @@ I frequentatori dei corsi normali delle accademie, qualora fruiscano delle event
  5. gli ufficiali reclutati ai sensi dell'articolo 4, commi 4 e 5, e dell'articolo 5, comma 1, al superamento del corso applicativo hanno l'obbligo di contrarre una ferma di cinque anni decorrente dall'inizio del corso ovvero dalla scadenza delle precedente ferma. 
  6. Gli ufficiali reclutati ai sensi dell'articolo 5, comma 2, lettera a), hanno l'obbligo di contrarre una ferma di dodici anni dall'inizio del corso ivi previsto che assorbe la ferma precedentemente contratta. 
  7. Le ferme per dodici anni contratte dagli allievi o ufficiali piloti di complemento rimangono valide in caso di transito nei ruoli del servizio permanente effettivo. 
- 8. In deroga a quanto previsto dall'[articolo 14, comma 5, della legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404#art_14-com5), la partecipazione ai corsi di qualificazione per il controllo del traffico aereo nonche' a corsi di elevato livello professionale, da determinare per ciascuna Forza Armata con decreto ministeriale, e' subordinata al vincolo di un'ulteriore ferma di anni cinque che decorre dalla scadenza della precedente ferma. L'ulteriore ferma contratta non rimane operante in caso di mancato superamento o di dimissioni dal corso.
+ 8. In deroga a quanto previsto dall'[articolo 14, comma 5, della legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md), la partecipazione ai corsi di qualificazione per il controllo del traffico aereo nonche' a corsi di elevato livello professionale, da determinare per ciascuna Forza Armata con decreto ministeriale, e' subordinata al vincolo di un'ulteriore ferma di anni cinque che decorre dalla scadenza della precedente ferma. L'ulteriore ferma contratta non rimane operante in caso di mancato superamento o di dimissioni dal corso.
 
 Nota all'art. 7, comma 8:
- - Il testo dell'[art. 14, comma 5, della legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404#art_14-com5), concernente: "Nuove norme in materia di avanzamento degli ufficiali e sottufficiali delle Forze armate e del Corpo della guardia di finanza", pubblicata nella Gazzetta Ufficiale 29 dicembre 1990, n. 302, e' il seguente:
+ - Il testo dell'[art. 14, comma 5, della legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md), concernente: "Nuove norme in materia di avanzamento degli ufficiali e sottufficiali delle Forze armate e del Corpo della guardia di finanza", pubblicata nella Gazzetta Ufficiale 29 dicembre 1990, n. 302, e' il seguente:
  "5. Gli ufficia1i in servizio permanente effettivo della Marina militare e dell'Aeronautica militare che a partire dalla data di entrata in vigore della presente legge siano ammessi a frequentare corsi di elevato livello tecnico o che siano destinati a ricoprire incarichi particolarmente qualificati in campo internazionale, hanno l'obbligo di permanere in servizio per un periodo pari a due volte la durata del corso o dell'incarico, con decorrenza dalla data di inizio del corso o di assunzione dell'incarico. Detto periodo e' aggiuntivo rispetto al periodo di ferma eventualmente in atto. Il Ministro della difesa definisce, con proprio decreto, i corsi e gli incarichi di cui al presente comma".
 
 ## AVANZAMENTO CAPO I DELL'AVANZAMENTO DEGLI UFFICIALI DELL'ESERCITO, DELLA MARINA E DELL'AERONAUTICA Sezione I Norme fondamentali
@@ -403,7 +403,7 @@ Non possono far parte delle Commissioni di avanzamento gli ufficiali che ricopro
 
 Non possono far parte delle predette commissioni gli ufficiali impiegati presso:
                             a)
-                                i servizi per le informazioni e la sicurezza dello Stato di cui alla [legge 24 ottobre 1977, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-24;801);
+                                i servizi per le informazioni e la sicurezza dello Stato di cui alla [legge 24 ottobre 1977, n. 801](Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md);
                             b)
                                 gli enti, comandi o unita' internazionali che abbiano sede di servizio fuori dal territorio nazionale;
                             c)
@@ -411,7 +411,7 @@ Non possono far parte delle predette commissioni gli ufficiali impiegati presso:
 
 5.
 
-All'[articolo 26 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_26) sono apportate le seguenti modifiche:
+All'[articolo 26 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) sono apportate le seguenti modifiche:
                             a)
                                 al comma 2°: dopo la lettere "c)" e' aggiunta la seguente "d)": "attitudine ad assumere incarichi nel grado superiore, con specifico riferimento ai settori di impiego di particolare interesse per l'Amministrazione.";
                             b)
@@ -420,10 +420,10 @@ All'[articolo 26 della legge 12 novembre 1955, n. 1137](https://www.normattiva.i
                                 al comma 4°: dopo le parole "nelle precedenti lettere a), b), c)", e' aggiunta la seguente ", d)".
 
 Nota all'art. 10, comma 4:
- - Il testo della [legge 24 ottobre 1977, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-24;801), concernente: "Istituzione e ordinamento dei servizi per le informazioni e la sicurezza e disciplina del segreto di Stato" e' pubblicato nella Gazzetta Ufficiale &d7 novembre
+ - Il testo della [legge 24 ottobre 1977, n. 801](Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md), concernente: "Istituzione e ordinamento dei servizi per le informazioni e la sicurezza e disciplina del segreto di Stato" e' pubblicato nella Gazzetta Ufficiale &d7 novembre
  1977, n. 303.
  Nota all'art. 10, comma 5:
- - Il testo dell'[art. 26 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_26) concernente: "Avanzamento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica", pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 7 dicembre 1955, n. 282, e' il seguente:
+ - Il testo dell'[art. 26 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) concernente: "Avanzamento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica", pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 7 dicembre 1955, n. 282, e' il seguente:
  "Art. 26. - Il punto di merito di cui al secondo comma dell'art. 25 e' attribuito dalla commissione con l'osservanza delle norme che seguono.
  Quando il giudizio riguardi ufficiali aventi grado non superiore a colonnello o corrispondente, ogni componente della commissione assegna all'ufficiale un punto da uno a trenta per ciascun complesso di elementi di cui alle seguenti lettere:
  a) qualita' morali, di carattere e fisiche;
@@ -507,10 +507,10 @@ Il Vice Segretario Generale militare del Ministero della Difesa, nonche' il Sott
 8.
 
 Assume la Presidenza della commissione superiore di avanzamento il Capo di Stato Maggiore di Forza Armata o, in caso di assenza o di impedimento, il Tenente Generale o grado corrispondente piu' anziano di grado e, a parita' di anzianita' di grado, piu' anziano di eta' tra i presenti. 
- 9. relativamente alla valutazione degli Ufficiali dell'Arma dei Carabinieri si applicano gli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_12) e [13 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_13), e successive modificazioni.
+ 9. relativamente alla valutazione degli Ufficiali dell'Arma dei Carabinieri si applicano gli [articoli 12](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [13 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni.
 
 Nota all'art. 12, comma 9:
- - I testi degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_12) e [13 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_13), concernente: "Avanzamento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica" pubblicata nel suppplemento ordinario alla Gazzetta Ufficiale 7 dicembre 1955, n. 282, e' il seguente:
+ - I testi degli [articoli 12](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [13 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), concernente: "Avanzamento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica" pubblicata nel suppplemento ordinario alla Gazzetta Ufficiale 7 dicembre 1955, n. 282, e' il seguente:
  "Art. 12. - La commissione superiore di avanzamento dell'Esercito e' composta:
  a) dagli ufficiali generali che rivestono le cariche di Capo di stato maggiore dell'Esercito e di presidente della Sezione Esercito del Consiglio superiore delle Forze armate;
  b) dai sette generali di corpo d'armata che siano o siano stati preposti a comandi costituiti per grandi unita' complesse o a comandi di corpo d'armata o a comandi militari territoriali o al comando generale dell'Arma dei carabinieri, piu' anziani nel ruolo e che non rivestano le cariche di cui alla precedente lettera a);
@@ -566,10 +566,10 @@ In caso di assenza o di impedimento del Presidente assume la presidenza l'uffici
 
 6.
 
-Relativamente alla valutazione degli Ufficiali dell'Arma dei Carabinieri si applica l'[art. 16 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_16), e successive modificazioni.
+Relativamente alla valutazione degli Ufficiali dell'Arma dei Carabinieri si applica l'[art. 16 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni.
 
 Nota all'art. 13, comma 6:
- - Il testo dell'[art. 16 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_16), e' il seguente:
+ - Il testo dell'[art. 16 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e' il seguente:
  "Art. 16. - La commissione ordinaria di avanzamento dell'Esercito e' composta:
  a) da un generale di corpo d'armata, presidente;
  b) da due generali di divisione, da due generali di brigata e da quattro colonnelli, rispettivamente, delle Armi di fanteria, artiglieria, cavalleria e genio;
@@ -626,10 +626,10 @@ Nota all'art. 15, comma 1:
 
 1.
 
-Per quanto non diversamente regolato nella presente Sezione, si applicano le disposizioni del Titolo I, Capi IV e VI, della [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137).
+Per quanto non diversamente regolato nella presente Sezione, si applicano le disposizioni del Titolo I, Capi IV e VI, della [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md).
 
 Nota all'art. 16, comma 1:
- - Le disposizioni del titolo I, capi IV e VI, della [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), sono le seguenti:
+ - Le disposizioni del titolo I, capi IV e VI, della [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sono le seguenti:
  "Titolo I
  DELL'AVANZAMENTO IN GENERALE
  Capo IV
@@ -827,23 +827,23 @@ Nei gradi in cui l'avanzamento ha luogo a scelta, il numero delle promozioni fis
 
 2.
 
-Le promozioni sono conferite con le modalita' di cui all'[articolo 6, comma 4, della legge 20 settembre 1980, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-09-20;574#art_6-com4), salvo quanto previsto dall'[articolo 7 della legge 10 dicembre 1973, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-10;804#art_7), e successive modificazioni.
+Le promozioni sono conferite con le modalita' di cui all'[articolo 6, comma 4, della legge 20 settembre 1980, n. 574](Unificazione%20e%20riordinamento%20dei%20ruoli%20normali%20speciali%20e%20di%20complemento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), salvo quanto previsto dall'[articolo 7 della legge 10 dicembre 1973, n. 804](Norme%20per%20lattuazione%20dellarticolo%2016-quater%20della%20legge%2018%20marzo%201968%20n.%20249%20quale%20risulta%20modificato%20dallarticolo%2012%20della%20legge%2028%20ottobre%201970%20n.%20775%20nei%20confronti%20degli%20ufficiali%20del_3480d302bea6.md), e successive modificazioni.
 
 Nota all'art. 23, comma 2:
- - Il testo dell'[art. 6, comma 4, della legge 20 settembre 1980, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-09-20;574#art_6-com4), concernente: "Unificazione e riordinamento dei ruoli normali, speciali e di complemento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica" pubblicato nel supplemento ordinario della Gazzetta Ufficiale 24 settembre 1980, n. 262, e' il seguente:
- "Le promozioni da effettuare ai sensi del presente articolo sono conferite anche in soprannumero agli organici previsti dalle leggi vigenti. Le eventuali eccedenze che si determineranno in applicazione delle norme di cui al presente articolo saranno assorbite con le vacanze che si avranno per cause diverse da quelle di cui alla [lettera a) dell'art. 44 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_44-leta), e successive modificazioni".
- - Il testo dell'art. 7 della legge 10 dicembre l973, n. 804, concernente: "Norme per l'attuazione dell'art. l6-quater della [legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249), quale risulta modificato dall'art. 12 della legge 28 ottobre 1970. n. 775, nei confronti degli ufficiali dell'Esercito, della Marina, dell'Aeronautica e dei Corpi di Polizia di Stato" pubblicato nella Gazzetta Ufficiale 22 dicembre 1973, n. 329, e' il seguente:
+ - Il testo dell'[art. 6, comma 4, della legge 20 settembre 1980, n. 574](Unificazione%20e%20riordinamento%20dei%20ruoli%20normali%20speciali%20e%20di%20complemento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), concernente: "Unificazione e riordinamento dei ruoli normali, speciali e di complemento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica" pubblicato nel supplemento ordinario della Gazzetta Ufficiale 24 settembre 1980, n. 262, e' il seguente:
+ "Le promozioni da effettuare ai sensi del presente articolo sono conferite anche in soprannumero agli organici previsti dalle leggi vigenti. Le eventuali eccedenze che si determineranno in applicazione delle norme di cui al presente articolo saranno assorbite con le vacanze che si avranno per cause diverse da quelle di cui alla [lettera a) dell'art. 44 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni".
+ - Il testo dell'art. 7 della legge 10 dicembre l973, n. 804, concernente: "Norme per l'attuazione dell'art. l6-quater della [legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), quale risulta modificato dall'art. 12 della legge 28 ottobre 1970. n. 775, nei confronti degli ufficiali dell'Esercito, della Marina, dell'Aeronautica e dei Corpi di Polizia di Stato" pubblicato nella Gazzetta Ufficiale 22 dicembre 1973, n. 329, e' il seguente:
  "Art. 7. - Le eccedenze che si dovessero verificare, rispetto al numero massimo di cui al precedente art. 3, nei gradi di generale e di colonnello, saranno eliminate con il collocamento in aspettativa per riduzione di quadri della durata massima di anni due a cominciare dagli ufficiali piu' anziani in ruolo e secondo il seguente ordine:
  ufficiali a disposizione giudicati non idonei all'avanzamento nel servizio permanente effettivo;
  ufficiali promossi nella posizione di "a disposizione"; ufficiali a disposizione giudicati idonei all'avanzamento nel servizio permanente effettivo ma non iscritti in quadro;
- ufficiali a disposizione ai sensi del [sesto comma dell'art. 48 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_48-com6), e del [sesto comma dell'art. 37 della legge 13 dicembre 1965, n. 1366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-12-13;1366#art_37-com6);
- ufficiali in servizio permanente effettivo in soprannumero, per effetto dell'[art. 48 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_48), e dell'[art. 37 della legge 13 dicembre 1965, n. 1366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-12-13;1366#art_37);
+ ufficiali a disposizione ai sensi del [sesto comma dell'art. 48 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e del [sesto comma dell'art. 37 della legge 13 dicembre 1965, n. 1366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-12-13;1366#art_37-com6);
+ ufficiali in servizio permanente effettivo in soprannumero, per effetto dell'[art. 48 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e dell'[art. 37 della legge 13 dicembre 1965, n. 1366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-12-13;1366#art_37);
  ufficiali in servizio permanente effettivo.
  Sono esclusi dal provvedimento di collocamento in aspettativa gli ufficiali che ricoprano la carica di capo di stato maggiore della difesa o di capo di stato maggiore di forza armata o di segretario generale del Ministero della difesa.
  Agli ufficiali di cui al primo comma del presente articolo, per il periodo in cui permangono in aspettativa competono gli assegni nella misura ridotta ai quattro quinti del trattamento economico previsto dall'art. 8 della presente legge.
  Il relativo trattamento di quiescenza verra' comunque liquidato sulla base dell'intero trattamento economico previsto dal citato art. 8.
  Qualora nel frattempo non siano stati raggiunti dal limite di eta', allo scadere dei due anni di aspettativa gli ufficiali di cui al primo comma del presente articolo cessano dal servizio permanente. In tal caso ai fini della liquidazione della pensione e dell'indennita' di buonuscita sono computati tanti anni quanti sono gli anni o la frazione di anno superiore ai sei mesi intercorrenti tra la data di cessazione del servizio permanente e quella del raggiungimento del limite di eta', in aggiunta a qualsiasi altro beneficio spettante.
- Agli ufficiali di cui al precedente comma sono concesse, inoltre, le indennita' di cui, agli [articoli 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_67) e [68 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_68), e agli [articoli 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-03-29;288#art_47) e [48 della legge 29 marzo 1956, n. 288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-03-29;288#art_48).
+ Agli ufficiali di cui al precedente comma sono concesse, inoltre, le indennita' di cui, agli [articoli 67](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [68 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e agli [articoli 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-03-29;288#art_47) e [48 della legge 29 marzo 1956, n. 288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-03-29;288#art_48).
  Gli ufficiali che debbono essere collocati in aspettativa possono chiedere di cessare dal servizio permanente a domanda. In tal caso nei loro confronti si applicano le disposizioni di cui ai precedenti quinto e sesto comma.
  La maggiore spesa derivante all'Ente nazionale di previdenza ed assistenza per i dipendenti statali dal pagamento delle indennita' di buonuscita, per l'applicazione del precedente quinto comma e del quinto comma del successivo art. 17 della presente legge, fara' carico al Ministero del tesoro".
 
@@ -1082,17 +1082,17 @@ TITOLO II
 
 1.
 
-La durata dei periodi di esperimento stabiliti dalle tabelle 5, 6 e 7 allegate alla [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), e' elevata a tre mesi per gli ufficiali dell'Esercito esclusa l'Arma dei Carabinieri, della Marina e dell'Aeronautica. L'esperimento puo' essere svolto in uno o piu' periodi della durata minima di un mese.
+La durata dei periodi di esperimento stabiliti dalle tabelle 5, 6 e 7 allegate alla [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e' elevata a tre mesi per gli ufficiali dell'Esercito esclusa l'Arma dei Carabinieri, della Marina e dell'Aeronautica. L'esperimento puo' essere svolto in uno o piu' periodi della durata minima di un mese.
 
 2.
 
-Le disposizioni di cui al Titolo I, [articolo 4, del Regio Decreto 16 maggio 1932, n. 819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-16;819#art_4), sono estese anche all'Esercito e all'Aeronautica.
+Le disposizioni di cui al Titolo I, [articolo 4, del Regio Decreto 16 maggio 1932, n. 819](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), sono estese anche all'Esercito e all'Aeronautica.
 
 Nota all'art. 31, comma 1:
- - I testi della tabella 5, 6 e 7 risultano in allegato B alla [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137).
+ - I testi della tabella 5, 6 e 7 risultano in allegato B alla [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md).
  Nota all'art. 31, comma 2:
- - Il testo dell'[art. 4 del regio decreto 16 maggio 1932, n. 819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-16;819#art_4), concernente: "Approvazione del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della regia marina" pubblicato nella Gazzetta Ufficiale 19 luglio 1932, n. 165, e' il seguente:
- "[Art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-06;2289#art_4) ([art. 1, comma terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-06;2289#art_1-com3) e [quarto del regio decreto-legge 6 novembre 1924, n. 2289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-06;2289#art_1-com4), e [art. 50 del regio decreto-legge 19 dicembre 1927, n. 2317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-19;2317#art_50), modificati). - Puo' essere conferito senza concorso il grado di capitano di fregata di complemento (o di tenente colonnello) ai cittadini muniti di titoli superiori a quelli prescritti per ottenere il grado inferiore per concorso per titoli, i quali, godano di fama indiscussa in materie attinenti ai servizi della regia marina.
+ - Il testo dell'[art. 4 del regio decreto 16 maggio 1932, n. 819](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), concernente: "Approvazione del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della regia marina" pubblicato nella Gazzetta Ufficiale 19 luglio 1932, n. 165, e' il seguente:
+ "[Art. 4](Modificazioni%20alle%20disposizioni%20relative%20al%20reclutamento%20e%20allavanzamento%20degli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20024U2289.md) ([art. 1, comma terzo](Modificazioni%20alle%20disposizioni%20relative%20al%20reclutamento%20e%20allavanzamento%20degli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20024U2289.md) e [quarto del regio decreto-legge 6 novembre 1924, n. 2289](Modificazioni%20alle%20disposizioni%20relative%20al%20reclutamento%20e%20allavanzamento%20degli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20024U2289.md), e [art. 50 del regio decreto-legge 19 dicembre 1927, n. 2317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-19;2317#art_50), modificati). - Puo' essere conferito senza concorso il grado di capitano di fregata di complemento (o di tenente colonnello) ai cittadini muniti di titoli superiori a quelli prescritti per ottenere il grado inferiore per concorso per titoli, i quali, godano di fama indiscussa in materie attinenti ai servizi della regia marina.
  Possono essere nominati in via eccezionale senza concorso ufficiali di complemento dai gradi di guardiamarina (o sottotenente) a capitano di corvetta (o maggiore) incluso, quei cittadini muniti del titolo prescritto, i quali per particolare competenza diano ampio affidamento di prestare opera proficua alla regia marina.
  Per comprovata alta competenza in discipline nautiche o tecniche, da valutarsi caso per caso, nelle nomine di cui al precedente comma si potra' prescindere anche dal prescritto titolo di studio, salvo che per la nomina ad ufficiale di complemento nel corpo sanitario militare marittimo (ufficiali medici e chimici farmacisti).
  Per meriti eccezionali, da accertarsi caso per caso, possono anche conferirsi, a seconda della natura ed entita' delle benemerenze acquistate e del servizio prestato in tempo di guerra, i gradi di guardiamarina, sottotenente di vascello o tenente di vascello di complemento ai cittadini che nel periodo dal 1915 al 1918 disimpegnarono la carica di capo gruppo nel corpo nazionale volontari motonauti, o che, avendo comandato mas in zona di guerra, siano stati almeno insigniti della croce di guerra, o che nella qualita' di volontari motonauti abbiano reso in guerra importanti servizi alla marina.
@@ -1106,7 +1106,7 @@ TITOLO III
 
 1.
 
-L'[articolo 21 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_21) e' sostituito dal seguente: 
+L'[articolo 21 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e' sostituito dal seguente: 
  "Articolo 21 - 1. L'aspettativa e' la posizione dell'Ufficiale esonerato temporaneamente dal servizio per una delle seguenti cause: 
  a) prigionia di guerra, o altre cause di limitazione della liberta' personale nel corso di operazioni di carattere umanitario, o di polizia internazionale, o di conflitti armati assimilabili allo stato di guerra, ancorche' non formalmente dichiarato; 
  b) infermita' temporanee; 
@@ -1116,12 +1116,12 @@ L'[articolo 21 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri
  2. L'aspettativa e' disposta di diritto per le cause di cui al comma 1, lettera a), a domanda o d'autorita' per la causa di cui al comma 1, lettera b); a domanda per la causa di cui al comma 1, lettera c); d'autorita' per la causa di cui al comma 1, lettera d). 
  3. La causa indicata dal comma 1, lettera b), deve essere accertata dall'amministrazione. Prima del collocamento in aspettativa per infermita' all'Ufficiale sono concessi, a domanda, i periodi di licenza non ancora fruiti, previsti dalle disposizioni vigenti. 
  4. Nel caso di cui al comma 1, lettera c), l'ufficiale deve motivare la richiesta di aspettativa. L'aspettativa non puo' avere durata inferiore a quattro mesi e la sua concessione e' subordinata alle esigenze di servizio. Trascorsi i primi quattro mesi, l'ufficiale puo' fare domanda di richiamo anticipato in servizio. 
- 5. L'aspettativa di cui al comma 1, lettera e), per le cariche elettive politiche e' disposta d'ufficio ai sensi dell'[articolo 71 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni. Per le cariche elettive amministrative e' disposta a domanda, ai sensi dell'[articolo 1 della legge 12 dicembre 1966 n. 1078](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-12;1078#art_1), e dell'[articolo 2 della legge 27 dicembre 1985, n. 816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-12-27;816#art_2).".
+ 5. L'aspettativa di cui al comma 1, lettera e), per le cariche elettive politiche e' disposta d'ufficio ai sensi dell'[articolo 71 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni. Per le cariche elettive amministrative e' disposta a domanda, ai sensi dell'[articolo 1 della legge 12 dicembre 1966 n. 1078](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-12;1078#art_1), e dell'[articolo 2 della legge 27 dicembre 1985, n. 816](Aspettative%20permessi%20e%20indennita%20degli%20amministratori%20locali.md).".
 
 Nota all'art. 32, comma 1:
- - Il testo della [legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113), concernte: "Stato degli ufficiali dell'Esercito, della Marina e dell'Aeronautica" e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 29 aprile 1954, n. 98.
+ - Il testo della [legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), concernte: "Stato degli ufficiali dell'Esercito, della Marina e dell'Aeronautica" e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 29 aprile 1954, n. 98.
  Nota all'art. 32, comma 5:
- - Il testo dell'[art. 71 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), concernente: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2)", pubblicato nella Gazzetta Ufficiale 6 febbraio 1993, n. 30 - supplemento ordinario - e' il seguente:
+ - Il testo dell'[art. 71 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), concernente: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)", pubblicato nella Gazzetta Ufficiale 6 febbraio 1993, n. 30 - supplemento ordinario - e' il seguente:
  "Art. 71 (Aspettativa per mandato parlamentare). - 1. I dipendenti delle pubbliche amministrazioni eletti al Parlamento nazionale, al Parlamento europeo e nei consigli regionali sono collocati in aspettativa senza assegni per la durata del mandato. Essi possono optare per la conservazione, in luogo dell'indennita' parlamentare e dell'analoga indennita' corrisposta ai consiglieri regionali, del trattamento economico in godimento presso l'amministrazione di appartenenza, che resta a carico della medesima.
  2. Il periodo di aspettativa e' utile ai fini dell'anzianita' di servizio e del trattamento di quiescenza e di previdenza.
  3. Il collocamento in aspettativa ha luogo all'atto della proclamazione degli eletti; di questa le camere ed i consigli regionali danno comunicazione alle amministrazioni di appartenenza degli eletti per i conseguenti provvedimenti.
@@ -1129,7 +1129,7 @@ Nota all'art. 32, comma 1:
  5. Le regioni adeguano i propri ordinamenti ai principi di cui ai commi 1, 2 e 3 entro sessanta giorni dalla data di entrata in vigore del presente decreto".
  - Il testo dell'[art. 1 della legge 12 dicembre 1966, n. 1078](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-12;1078#art_1), concernente: "Posizione e trattamento dei dipendenti dello Stato e degli enti pubblici, eletti a cariche presso enti autonomi territoriali" pubblicato nella Gazzetta Ufficiale 20 dicembre 1966, n. 319, e' il seguente:
  "Art. 1. - I dipendenti dello Stato e degli enti pubblici eletti alle cariche di consiglieri regionali, presidenti di giunta provinciale, assessori provinciali di provincia con piu' di 700.000 abitanti, sindaci di capoluogo di provincia o di comuni con popolazione superiore a 50.000 abitanti, assessori di comuni con popolazione superiore a 100.000 abitanti, presidenti di enti e di aziende con amministrazione autonoma di enti autonomi territoriali con piu' di 1000 dipendenti sono, a loro richiesta, collocati in aspettativa, anche se questa non sia prevista dai rispettivi ordinamenti".
- - Il testo dell'[art. 2 della legge 27 dicembre 1985, n. 816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-12-27;816#art_2), concernente: "Aspettative, permessi ed indennita' degli amministratori locali" e' pubblicato nella Gazzetta Ufficiale 10 gennaio 1986, n. 7, e' il seguente:
+ - Il testo dell'[art. 2 della legge 27 dicembre 1985, n. 816](Aspettative%20permessi%20e%20indennita%20degli%20amministratori%20locali.md), concernente: "Aspettative, permessi ed indennita' degli amministratori locali" e' pubblicato nella Gazzetta Ufficiale 10 gennaio 1986, n. 7, e' il seguente:
  "Art. 2 (Collocamenti in aspettativa). - Agli effetti degli articoli successivi possono essere collocati, a domanda, in aspettativa non retribuita, anche se questa non e' prevista dai rispettivi ordinamenti, solo i lavoratori dipendenti pubblici o dipendenti da imprese, aziende o enti, pubblici o privati, eletti alle cariche di cui alla presente legge.
  Il periodo trascorso in aspettativa e' considerato a tutti i fini come servizio effettivamente prestato, nonche' come legittimo impedimento per il compimento del periodo di prova.
  Per i lavoratori dipendenti eletti negli organi esecutivi degli enti locali per i quali la presente legge prevede il raddoppio dell'indennita' mensile di carica, gli oneri previdenziali, assistenziali ed assicurativi sono versati ai rispettivi istituti dal datore di lavoro pubblico e, su richiesta di questo, rimborsati dall'ente presso il quale il lavoratore posto in aspettativa esercita il mandato. Lo stesso ente provvede al versamento, presso i competenti istituti previdenziali ed assicurativi, dei predetti oneri in sostituzione del datore di lavoro privato, al quale e' altresi' rimborsata la quota annuale di accantonamento per l'indennita' di fine rapporto, entro i limiti di un dodicesimo dell'indennita' di carica annua da parte dell'ente e per l'eventuale residuo da parte dell'eletto".
@@ -1138,34 +1138,34 @@ Nota all'art. 32, comma 1:
 
 1.
 
-L'[articolo 25 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_25), sostituito dall'[articolo 6 della legge 27 gennaio 1968, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-27;37#art_6), e' sostituito dal seguente: 
+L'[articolo 25 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sostituito dall'[articolo 6 della legge 27 gennaio 1968, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-27;37#art_6), e' sostituito dal seguente: 
  "Art. 25 - 1. L'ufficiale in aspettativa per infermita', che abbia maturato le condizioni per essere compreso nelle aliquote di valutazione per l'avanzamento o che debba frequentare corsi, compiere esperimenti o sostenere esami prescritti ai fini dell'avanzamento, qualora ne faccia domanda, e' sottoposta ad accertamenti sanitari; se riconosciuto idoneo e' richiamato in servizio. 
  2. E' parimenti richiamato in servizio, a domanda, l'ufficiale in aspettativa per motivi privati che venga a trovarsi nelle condizioni di cui al comma 1.".
 
 Nota agli articoli 33, comma 1, 34, comma 1, 35, comma 1, 36, comma 1:
- - I riferimenti normativi alla [legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113), sono riportati in nota all'art. 32.
+ - I riferimenti normativi alla [legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sono riportati in nota all'art. 32.
 
 ### Articolo 34 — (Sospensione precauzionale dall'impiego)
 
 1.
 
-L'ultimo comma dell'[articolo 29 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_29) e' sostituito dal seguente: 
+L'ultimo comma dell'[articolo 29 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e' sostituito dal seguente: 
  "L'Ufficiale nei cui confronti la sospensione precauzionale si prolunghi oltre un biennio e' considerato in soprannumero agli organici ovvero non computato nella consistenza massima del grado di appartenenza per tutto il tempo dell'ulteriore durata della sospensione.".
 
 Nota agli articoli 33, comma 1, 34, comma 1, 35, comma 1, 36, comma 1:
- - I riferimenti normativi alla [legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113), sono riportati in nota all'art. 32.
+ - I riferimenti normativi alla [legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sono riportati in nota all'art. 32.
 
 ### Articolo 35 — (Cessazione anticipata dal servizio permanente)
 
 1.
 
-L'[articolo 43 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_43) e' sostituito dal seguente: 
+L'[articolo 43 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e' sostituito dal seguente: 
  "art. 43.- 1. L'ufficiale che cessa dal servizio permanente, qualora abbia prestato almeno venticinque anni di servizio effettivo ovvero rivesta il grado di colonnello o grado corrispondente, e' collocato nella riserva o in congedo assoluto a seconda dell'idoneita'. 
  2. L'ufficiale che non si trovi nelle condizioni di cui al comma 1 ha egualmente diritto alla cessazione dal servizio permanente, sempre che abbia adempiuto agli obblighi delle ferme ordinarie o speciali eventualmente contratte. In tal caso e' collocato nella categoria degli ufficiali di complemento o della riserva di complemento a seconda dell'eta'. 
  3. L'Amministrazione ha facolta' di non accogliere le domande di cessazione per motivi penali o disciplinari, o di ritardarne l'accoglimento per gravi motivi di servizio.".
 
 Nota agli articoli 33, comma 1, 34, comma 1, 35, comma 1, 36, comma 1:
- - I riferimenti normativi alla [legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113), sono riportati in nota all'art. 32.
+ - I riferimenti normativi alla [legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sono riportati in nota all'art. 32.
 
 ### Articolo 36 — (Cessazione dalla riserva)
 
@@ -1177,13 +1177,13 @@ L'[articolo 63 della legge 10 aprile 1964, n. 113 del 1954](https://www.normatti
  b) 70 anni se ufficiale superiore o inferiore.".
 
 Nota agli articoli 33, comma 1, 34, comma 1, 35, comma 1, 36, comma 1:
- - I riferimenti normativi alla [legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113), sono riportati in nota all'art. 32.
+ - I riferimenti normativi alla [legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sono riportati in nota all'art. 32.
 
 ### Articolo 37 — (Limiti di eta' per il collocamento in congedo. Gradi di vertice)
 
 1.
 
-Le tabelle n. 1, 2 e 3 annesse alla [legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113), cosi' come modificate dalle tabelle A, B e C annesse alla [legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404), e indicate nell'articolo 7 della stessa legge, sono sostituite dalle tabelle 4, 5 e 6 annesse al presente decreto.
+Le tabelle n. 1, 2 e 3 annesse alla [legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), cosi' come modificate dalle tabelle A, B e C annesse alla [legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md), e indicate nell'articolo 7 della stessa legge, sono sostituite dalle tabelle 4, 5 e 6 annesse al presente decreto.
 
 2.
 
@@ -1209,7 +1209,7 @@ TITOLO IV
 
 1.
 
-Dalla data di entrata in vigore del presente decreto non sono piu' alimentati il ruolo tecnico-amministrativo dell'Esercito, il ruolo del Corpo unico degli specialisti della Marina ed il ruolo unico degli specialisti dell'Aeronautica, previsti dall'[articolo 53 della legge 10 maggio 1983, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-10;212#art_53), nonche' il ruolo degli ufficiali specialisti del Corpo delle capitanerie di porto di cui all'[articolo 6 della legge 6 agosto 1991, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-06;255#art_6).
+Dalla data di entrata in vigore del presente decreto non sono piu' alimentati il ruolo tecnico-amministrativo dell'Esercito, il ruolo del Corpo unico degli specialisti della Marina ed il ruolo unico degli specialisti dell'Aeronautica, previsti dall'[articolo 53 della legge 10 maggio 1983, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-10;212#art_53), nonche' il ruolo degli ufficiali specialisti del Corpo delle capitanerie di porto di cui all'[articolo 6 della legge 6 agosto 1991, n. 255](Potenziamento%20degli%20organici%20del%20personale%20militare%20delle%20capitanerie%20di%20porto.md).
 
 2.
 
@@ -1260,7 +1260,7 @@ Nota all'art. 38, comma 1:
  I ruoli degli ufficiali del Corpo equipaggi militari marittimi sono soppressi; in loro vece e' istituito il ruolo del corpo unico degli specialisti della Marina militare, nel quale sono immessi gli ufficiali appartenenti ai soppressi ruoli dei servizi nautici, tecnici, macchina, contabili e portuali.
  Il Ministro della difesa e, per quanto di competenza, il Ministro delle finanze, ripartiscono, se necessario, i ruoli di cui ai precedenti primo e secondo comma in sottoruoli in base alle specializzazioni, categorie e specialita' in cui si articolano i sottufficiali delle tre Forze armate e del Corpo della Guardia di finanza.
  Le consistenze organiche dei ruoli, le forme e le modalita' di avanzamento, il numero delle promozioni annuali e gli anni di anzianita' minima richiesti per la valutazione sono riportati nelle tabelle D/l, D/2, D/3 e D/4, annesse alla presente legge".
- - Il testo dell'[art. 6 della legge 6 agosto 1991, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-06;255#art_6), concernente: "Potenziamento degli organici del personale militare delle capitanerie di porto" pubblicato nella Gazzetta Ufficiale 14 agosto 1991, n. 190, e' il seguente:
+ - Il testo dell'[art. 6 della legge 6 agosto 1991, n. 255](Potenziamento%20degli%20organici%20del%20personale%20militare%20delle%20capitanerie%20di%20porto.md), concernente: "Potenziamento degli organici del personale militare delle capitanerie di porto" pubblicato nella Gazzetta Ufficiale 14 agosto 1991, n. 190, e' il seguente:
  "Art. 6. - 1. E' istituito il ruolo degli ufficiali specialisti del Corpo delle capitanerie di porto, in conformita' alla tabella G allegata alla presente legge, nel quale confluiscono gli ufficiali del Corpo unico specialisti della Marina militare - sottoruolo porti - di cui al decreto del Ministro della difesa del 24 marzo 1986.
  2. La tabella D/2 allegata alla legge 10 maggio l983, n. 2l2, e' modificata in relazione a quanto stabilito dal comma 1".
  Nota all'art. 38, comma 7:
@@ -1271,7 +1271,7 @@ Nota all'art. 38, comma 1:
 1.
 
 A decorrere dalla data di entrata in vigore del presente decreto, nelle aliquote di valutazione per la promozione a maggiore degli ufficiali dei ruoli ad esaurimento transitati in servizio permanente ai sensi dell'[articolo 12 della legge 27 dicembre 1990, n. 
-404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404#art_12), sono inclusi gli ufficiali che abbiano compiuto undici anni di permanenza nel grado di capitano, a condizione che abbiano diciotto anni di anzianita' di servizio.
+404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md), sono inclusi gli ufficiali che abbiano compiuto undici anni di permanenza nel grado di capitano, a condizione che abbiano diciotto anni di anzianita' di servizio.
 
 2.
 
@@ -1279,11 +1279,11 @@ I maggiori e gradi corrispondenti dei ruoli di cui al comma 1 sono promossi, se 
 
 3.
 
-Agli ufficiali che rivestano, alla data di entrata in vigore del presente decreto, il grado di tenente colonnello, o grado corrispondente, l'anzianita' di grado e' rideterminata con le modalita' di cui al [comma 3 bis dell'articolo 32 della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_32-com3bis), aggiunto dall'[articolo 13, comma 1, della legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404#art_13-com1), qualora non abbiano conseguito, ancorche' nei gradi inferiori, rideterminazioni di anzianita' ad altro titolo ed abbiano almeno ventidue anni di anzianita' di servizio.
+Agli ufficiali che rivestano, alla data di entrata in vigore del presente decreto, il grado di tenente colonnello, o grado corrispondente, l'anzianita' di grado e' rideterminata con le modalita' di cui al [comma 3 bis dell'articolo 32 della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), aggiunto dall'[articolo 13, comma 1, della legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md), qualora non abbiano conseguito, ancorche' nei gradi inferiori, rideterminazioni di anzianita' ad altro titolo ed abbiano almeno ventidue anni di anzianita' di servizio.
 
 4.
 
-Agli ufficiali che rivestano, alla data di entrata in vigore del presente decreto, il grado di maggiore, o grado corrispondente, l'anzianita' di grado e' rideterminata con le modalita' di cui al [comma 3 bis dell'articolo 32 della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_32-com3bis), aggiunto dall'[articolo 13, comma 1, della legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404#art_13-com1), qualora non abbiano conseguito, ancorche' nei gradi inferiori, rideterminazioni di anzianita' ad altro titolo ed abbiano almeno diciotto anni di anzianita' di servizio.
+Agli ufficiali che rivestano, alla data di entrata in vigore del presente decreto, il grado di maggiore, o grado corrispondente, l'anzianita' di grado e' rideterminata con le modalita' di cui al [comma 3 bis dell'articolo 32 della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), aggiunto dall'[articolo 13, comma 1, della legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md), qualora non abbiano conseguito, ancorche' nei gradi inferiori, rideterminazioni di anzianita' ad altro titolo ed abbiano almeno diciotto anni di anzianita' di servizio.
 
 5.
 
@@ -1291,7 +1291,7 @@ Le rideterminazioni di anzianita' di cui ai commi 3 e 4 sono considerate alterna
 
 6.
 
-Nei confronti degli ufficiali dei ruoli speciali che, a seguito delle rideterminazioni di anzianita' di cui ai commi 3 e 4, sarebbero promossi al grado superiore dopo i pari grado appartenenti ai ruoli ad esaurimento aventi uguale anzianita' di servizio da ufficiale, si applicano per una sola volta le disposizioni dell'[articolo 24, comma 4, della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_24-com4), e dell'[articolo 11 della legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404#art_11). L'ultimo periodo del comma 1 dell'articolo 11 della predetta [legge n. 404 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;404) non opera nei confronti delle rideterminazioni di anzianita' degli ufficiali in servizio permanente da qualunque causa determinate.
+Nei confronti degli ufficiali dei ruoli speciali che, a seguito delle rideterminazioni di anzianita' di cui ai commi 3 e 4, sarebbero promossi al grado superiore dopo i pari grado appartenenti ai ruoli ad esaurimento aventi uguale anzianita' di servizio da ufficiale, si applicano per una sola volta le disposizioni dell'[articolo 24, comma 4, della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), e dell'[articolo 11 della legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md). L'ultimo periodo del comma 1 dell'articolo 11 della predetta [legge n. 404 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;404) non opera nei confronti delle rideterminazioni di anzianita' degli ufficiali in servizio permanente da qualunque causa determinate.
 
 7.
 
@@ -1304,25 +1304,25 @@ Effettuati gli avanzamenti ordinari dell'anno di riferimento, i vincitori dei co
 
 9.
 
-Agli ufficiali transitati nei ruoli speciali ai sensi del comma 7 non si applicano le disposizioni di cui all'[articolo 24, comma 4, della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_24-com4) ed all'[articolo 11 della legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404#art_11).
+Agli ufficiali transitati nei ruoli speciali ai sensi del comma 7 non si applicano le disposizioni di cui all'[articolo 24, comma 4, della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md) ed all'[articolo 11 della legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md).
 
 Nota all'art. 39, comma 1:
- - Il testo dell'[art. 12, della legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404#art_12), concernente: "Nuove norme in materia di avanzamento degli ufficiali e sottufficiali delle Forze armate e del Corpo della Guardia di finanza pubblicato nella Gazzetta Ufficiale 29 dicembre 1990, n. 302, e' il seguente:
- "Art. 12. - 1. Gli ufficiali iscritti nei ruoli ad esaurimento, costituiti con [legge 20 settembre 1980, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-09-20;574), in applicazione del disposto del [comma 1, dell'art. 31 della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_31-com1), cessano di appartenere, dalla data di costituzione dei rispettivi ruoli, alla categoria del congedo di cui al titolo IV della [legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113), e transitano tra quelle del servizio permanente di cui al titolo III della predetta [legge n. 113 del 1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954;113).
+ - Il testo dell'[art. 12, della legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md), concernente: "Nuove norme in materia di avanzamento degli ufficiali e sottufficiali delle Forze armate e del Corpo della Guardia di finanza pubblicato nella Gazzetta Ufficiale 29 dicembre 1990, n. 302, e' il seguente:
+ "Art. 12. - 1. Gli ufficiali iscritti nei ruoli ad esaurimento, costituiti con [legge 20 settembre 1980, n. 574](Unificazione%20e%20riordinamento%20dei%20ruoli%20normali%20speciali%20e%20di%20complemento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), in applicazione del disposto del [comma 1, dell'art. 31 della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), cessano di appartenere, dalla data di costituzione dei rispettivi ruoli, alla categoria del congedo di cui al titolo IV della [legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e transitano tra quelle del servizio permanente di cui al titolo III della predetta [legge n. 113 del 1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954;113).
  2. A decorrere dalla data di cui al comma 1, i ruoli ad esaurimento di cui al comma precedente transitano tra i ruoli degli ufficiali in servizio permanente effettivo dell'Esercito, della Marina militare e dell'Aeronautica militare ed assumono la denominazione di ruoli ad esaurimento in servizio permanente.
- 3. Il grado vertice per i predetti ruoli e', fino alla vigilia della cessazione dal servizio attivo, quello di tenente colonnello o corrispondente, fermo restando il beneficio di cui all'art. 32, cornma 6, della [legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224).
- 4. Restano valide per i suddetti ruoli ad esaurimento tutte le norme previste dalle [leggi 12 novembre 1955, n. 1137, 20 settembre 1980, n. 574, 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224), e successive modifiche ed integrazioni.
- 5. Il [comma 2 dell'art. 3; della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_3-com2), e' sostituito dal seguente:
+ 3. Il grado vertice per i predetti ruoli e', fino alla vigilia della cessazione dal servizio attivo, quello di tenente colonnello o corrispondente, fermo restando il beneficio di cui all'art. 32, cornma 6, della [legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md).
+ 4. Restano valide per i suddetti ruoli ad esaurimento tutte le norme previste dalle [leggi 12 novembre 1955, n. 1137, 20 settembre 1980, n. 574, 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), e successive modifiche ed integrazioni.
+ 5. Il [comma 2 dell'art. 3; della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), e' sostituito dal seguente:
  ''2. Gli ufficiali dei ruoli normali e speciali hanno la precedenza sugli ufficiali dei ruoli ad esaurimento di grado eguale solo per l'assolvimento degli obblighi di comando e di attribuzioni specifiche prescritte per l'avanzamento dalla normativa in vigore. In tutti gli altri casi la precedenza al comando compete all'ufficiale avente maggiore anzianita' di grado indipendentemente dal ruolo di appartenenza''".
  Nota all'art. 39, commi 3 e 4:
- - Il testo del [comma 3-bis dell'art. 32, della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_32-com3bis), concernente: "Norme per il recclutamento degli ufficiali e sottufficiali piloti di complemento delle Forze armate e modifiche ed integrazioni alla [legge 20 settembre 1980, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-09-20;574), riguardanti lo stato e l'avanzamento degli ufficiali delle Forze armate e della Guardia di finanza" aggiunto dall'art. 13, comma 1, della legge 27 dicembre l990, n. 302, e' il seguente:
- "3-bis. La promozione al grado superiore deli ufficiali di cui ai commi 1 e 2 avviene, se piu' favorevole e se idonei, a partire dal l gennaio 1981, con effetto dal giorno successivo a quella dei pari grado con uguale o maggiore anzianita' di grado appartenenti ai rispettivi ruoli speciali. In assenza di ruoli speciali vengono presi in considerazione i rispettivi ruoli normali. Le citate promozioni sono effettuate in deroga alle disposizioni relative alle esigenze di mobilitazione di cui alla [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), e successive modificazioni".
+ - Il testo del [comma 3-bis dell'art. 32, della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), concernente: "Norme per il recclutamento degli ufficiali e sottufficiali piloti di complemento delle Forze armate e modifiche ed integrazioni alla [legge 20 settembre 1980, n. 574](Unificazione%20e%20riordinamento%20dei%20ruoli%20normali%20speciali%20e%20di%20complemento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), riguardanti lo stato e l'avanzamento degli ufficiali delle Forze armate e della Guardia di finanza" aggiunto dall'art. 13, comma 1, della legge 27 dicembre l990, n. 302, e' il seguente:
+ "3-bis. La promozione al grado superiore deli ufficiali di cui ai commi 1 e 2 avviene, se piu' favorevole e se idonei, a partire dal l gennaio 1981, con effetto dal giorno successivo a quella dei pari grado con uguale o maggiore anzianita' di grado appartenenti ai rispettivi ruoli speciali. In assenza di ruoli speciali vengono presi in considerazione i rispettivi ruoli normali. Le citate promozioni sono effettuate in deroga alle disposizioni relative alle esigenze di mobilitazione di cui alla [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni".
  Note all'art. 39, comma 6:
- - Il testo dell'[art. 24, comma 4, della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_24-com4), e' il seguente:
- "4. Gli ufficiali del servizio permanente che, in applicazione delle norme della presente legge, sarebbero promossi al grado superiore dopo i pari grado appartenenti ai ruoli ad esaurimento ed aventi uguale anzianita' di servizio da ufficiale, sono comunque promossi, sempre che appartenenti al ruolo ed alla specialita' corrispondenti, anche in deroga alle norme di cui al successivo art. 37 della presente legge ed agli articoli, 24, 25 28, 29 e 30 della [legge 20 settembre 1980, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-09-20;574), il giorno precedente a quello del compimento dell'anzianita' di servizio prevista per gli ufficiali dei ruoli ad esaurimento".
- Il testo dell'[art. 11 della legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404#art_11), e' il seguente:
- "Art. 11. - 1. I capitani e maggiori del servizio permanente effettivo scavalcati nel ruolo di appartenenza per effetto dell'applicazione dell'[art. 24, comma 4, della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_24-com4), qualora per effetto dello stesso comma non abbiano a loro volta gia' conseguito il grado di appartenenza scavalcando in ruolo ufficiali transitati nel servizio permanente effettivo in anni precedenti, all'atto della promozione al grado superiore assumono, agli effetti giuridici ed economici, un'anzianita' assoluta di grado corrispondente ad una permanenza teorica nel grado di capitano o maggiore ridotta nella misura necessaria per ripristinare la loro posizione in ruolo rispetto a quella dell'ufficiale meno anziano che per effetto della promozione conseguita ai sensi del predetto art. 24, comma 4, ha assunto l'anzianita' piu' favorevole. La predetta riduzione non puo' comunque essere superiore a due anni.
- 2. Le disposizioni di cui al comma 1 si applicano anche ai tenenti colonnelli del servizio permanente effettivo scavalcati per effetto della [legge 19 maggio 1986, n. 224, e del comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_com1)".
+ - Il testo dell'[art. 24, comma 4, della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), e' il seguente:
+ "4. Gli ufficiali del servizio permanente che, in applicazione delle norme della presente legge, sarebbero promossi al grado superiore dopo i pari grado appartenenti ai ruoli ad esaurimento ed aventi uguale anzianita' di servizio da ufficiale, sono comunque promossi, sempre che appartenenti al ruolo ed alla specialita' corrispondenti, anche in deroga alle norme di cui al successivo art. 37 della presente legge ed agli articoli, 24, 25 28, 29 e 30 della [legge 20 settembre 1980, n. 574](Unificazione%20e%20riordinamento%20dei%20ruoli%20normali%20speciali%20e%20di%20complemento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), il giorno precedente a quello del compimento dell'anzianita' di servizio prevista per gli ufficiali dei ruoli ad esaurimento".
+ Il testo dell'[art. 11 della legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md), e' il seguente:
+ "Art. 11. - 1. I capitani e maggiori del servizio permanente effettivo scavalcati nel ruolo di appartenenza per effetto dell'applicazione dell'[art. 24, comma 4, della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), qualora per effetto dello stesso comma non abbiano a loro volta gia' conseguito il grado di appartenenza scavalcando in ruolo ufficiali transitati nel servizio permanente effettivo in anni precedenti, all'atto della promozione al grado superiore assumono, agli effetti giuridici ed economici, un'anzianita' assoluta di grado corrispondente ad una permanenza teorica nel grado di capitano o maggiore ridotta nella misura necessaria per ripristinare la loro posizione in ruolo rispetto a quella dell'ufficiale meno anziano che per effetto della promozione conseguita ai sensi del predetto art. 24, comma 4, ha assunto l'anzianita' piu' favorevole. La predetta riduzione non puo' comunque essere superiore a due anni.
+ 2. Le disposizioni di cui al comma 1 si applicano anche ai tenenti colonnelli del servizio permanente effettivo scavalcati per effetto della [legge 19 maggio 1986, n. 224, e del comma 1](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md)".
 
 ## SEMPLIFICAZIONE DEI PROCEDIMENTI DI VALUTAZIONE DEGLI UFFICIALI DELL'ESERCITO, DELLA MARINA E DELL'AERONAUTICA
 
@@ -1332,7 +1332,7 @@ TITOLO V
 
 1.
 
-Il giudizio di avanzamento a scelta si articola in due fasi. La prima fase e' diretta ad accertare, ai sensi dell'[articolo 25, comma 1, della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_25-com1), l'idoneita' di ciascun ufficiale all'adempimento delle funzioni del grado superiore. La seconda fase e' caratterizzata dall'applicazione dei criteri di cui agli articoli 25, comma 2, e 26 della [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), come integrato e modificato dall'articolo 10, comma 5, del presente decreto.
+Il giudizio di avanzamento a scelta si articola in due fasi. La prima fase e' diretta ad accertare, ai sensi dell'[articolo 25, comma 1, della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), l'idoneita' di ciascun ufficiale all'adempimento delle funzioni del grado superiore. La seconda fase e' caratterizzata dall'applicazione dei criteri di cui agli articoli 25, comma 2, e 26 della [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), come integrato e modificato dall'articolo 10, comma 5, del presente decreto.
 
 2.
 
@@ -1348,7 +1348,7 @@ Quando si debba rinnovare un giudizio di avanzamento annullato d'ufficio o in se
 
 4.
 
-La promozione di cui al comma 3 non e' ricompresa tra quelle attribuite nell'anno in cui viene rinnovato il giudizio. Qualora non sussista vacanza nelle dotazioni organiche o nei numeri massimi del grado in cui deve essere effettuata la promozione, gli ufficiali gia' promossi, in relazione ai quali e' stata riconosciuta l'illegittimita' della mancata iscrizione in quadro degli ufficiali vincitori di ricorso, vengono collocati in aspettativa per riduzione di quadri di cui all'[art. 7 della legge 10 dicembre 1973, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-10;804#art_7).
+La promozione di cui al comma 3 non e' ricompresa tra quelle attribuite nell'anno in cui viene rinnovato il giudizio. Qualora non sussista vacanza nelle dotazioni organiche o nei numeri massimi del grado in cui deve essere effettuata la promozione, gli ufficiali gia' promossi, in relazione ai quali e' stata riconosciuta l'illegittimita' della mancata iscrizione in quadro degli ufficiali vincitori di ricorso, vengono collocati in aspettativa per riduzione di quadri di cui all'[art. 7 della legge 10 dicembre 1973, n. 804](Norme%20per%20lattuazione%20dellarticolo%2016-quater%20della%20legge%2018%20marzo%201968%20n.%20249%20quale%20risulta%20modificato%20dallarticolo%2012%20della%20legge%2028%20ottobre%201970%20n.%20775%20nei%20confronti%20degli%20ufficiali%20del_3480d302bea6.md).
 
 5.
 
@@ -1405,12 +1405,12 @@ A decorrere dalla data di entrata in vigore del presente decreto gli ufficiali a
 
 Il trasferimento ha luogo:
                             a)
-                                per i Colonnelli, i Brigadieri Generali ed i Maggiori Generali con l'anzianita' di grado posseduta, secondo le modalita' stabilite dagli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9);
+                                per i Colonnelli, i Brigadieri Generali ed i Maggiori Generali con l'anzianita' di grado posseduta, secondo le modalita' stabilite dagli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
                             b)
                                 per i Tenenti, i Capitani, i Maggiori ed i Tenenti Colonnelli con le modalita' indicate all'articolo 42.
 
 Nota all'art. 41, comma 2:
- - Il testo degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), e' il seguente:
+ - Il testo degli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e' il seguente:
  "Art. 8. - Nei trasferimenti da ruolo a ruolo, si conserva l'anzianita' posseduta prima del trasferimento, salvo i casi diversamente regolati dalle leggi".
  "Art. 9. - Nei trasferimenti da ruolo a ruolo d'ufficiali di pari anzianita' assoluta, l'ordine di precedenza e' determinato dall'eta', salvo il caso di ufficiali provenienti dallo stesso ruolo, per i quali si osserva l'ordine di precedenza acquisito nel comune ruolo di provenienza.
  A parita' di eta' si raffrontano le anzianita' assolute successivamente nei gradi inferiori fino a quello in cui non si riscontra parita' di anzianita'.
@@ -1438,11 +1438,11 @@ In caso di scavalcamento tra ufficiali provenienti dallo stesso ruolo, a seguito
 
 4.
 
-Nei confronti dell'ufficiale che ha subito uno spostamento in ruolo, in applicazione delle norme di cui all'[articolo 10 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_10), ovvero per i ritardi nello svolgimento della carriera, ai fini della rideterminazione di anzianita', viene considerata un'anzianita' uguale a quella del pari grado che lo precede immediatamente nel ruolo di appartenenza.
+Nei confronti dell'ufficiale che ha subito uno spostamento in ruolo, in applicazione delle norme di cui all'[articolo 10 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), ovvero per i ritardi nello svolgimento della carriera, ai fini della rideterminazione di anzianita', viene considerata un'anzianita' uguale a quella del pari grado che lo precede immediatamente nel ruolo di appartenenza.
 
 5.
 
-L'ordine di iscrizione in ruolo dei predetti ufficiali e' stabilito in base agli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), e successive modificazioni.
+L'ordine di iscrizione in ruolo dei predetti ufficiali e' stabilito in base agli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni.
 
 6.
 
@@ -1450,7 +1450,7 @@ Le rideterminazioni di anzianita' cui alle lettere a), b) e c) del comma 2 non d
 
 7.
 
-Nei confronti degli ufficiali iscritti nel ruolo normale del Corpo sanitario non si applica l'[articolo 24, comma 4, della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_24-com4).
+Nei confronti degli ufficiali iscritti nel ruolo normale del Corpo sanitario non si applica l'[articolo 24, comma 4, della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md).
 
 Nota all'art. 42, comma 4:
  - Il testo dell'[art. 10 della legge n. 113/1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954;113#art_10) e' il seguente:
@@ -1470,7 +1470,7 @@ Nota all'art. 42, comma 4:
 
 1.
 
-Nei confronti degli ufficiali medici che, alla data di entrata in vigore del presente decreto, stiano frequentando uno dei corsi di cui al D.P.R. 5 dicembre 1978 e successive modificazioni, continuano ad applicarsi le norme di cui all'[articolo 69 bis della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_69bis), e successive modificazioni ed integrazioni. I relativi vantaggi di carriera sono attribuiti dopo il trasferimento degli ufficiali nel ruolo normale del Corpo sanitario.
+Nei confronti degli ufficiali medici che, alla data di entrata in vigore del presente decreto, stiano frequentando uno dei corsi di cui al D.P.R. 5 dicembre 1978 e successive modificazioni, continuano ad applicarsi le norme di cui all'[articolo 69 bis della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni ed integrazioni. I relativi vantaggi di carriera sono attribuiti dopo il trasferimento degli ufficiali nel ruolo normale del Corpo sanitario.
 
 Note all'art. 43, comma 1:
  - Il testo del decreto del Presidente della Repubblica 5 dicembre 1978, e' pubblicato nella Gazzetta Ufficiale 3 febbraio 1982, n. 32.
@@ -1488,7 +1488,7 @@ A decorrere dal 1 gennaio 1998 gli ufficiali dell'ausiliaria, della riserva, di 
 
 2.
 
-Il trasferimento degli ufficiali di cui al comma 1 viene effettuato ai sensi degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), e successive modificazioni.
+Il trasferimento degli ufficiali di cui al comma 1 viene effettuato ai sensi degli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni.
 
 3.
 
@@ -1511,20 +1511,20 @@ A decorrere dalla data di entrata in vigore del presente decreto, gli ufficiali 
 
 Il trasferimento ha luogo:
                             a)
-                                per i Colonnelli, i Brigadieri Generali ed i Maggiori Generali, con l'anzianita' di grado posseduta secondo le modalita' stabilite dagli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), e successive modificazioni;
+                                per i Colonnelli, i Brigadieri Generali ed i Maggiori Generali, con l'anzianita' di grado posseduta secondo le modalita' stabilite dagli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni;
                             b)
-                                per i Sottotenenti, secondo l'ordine derivante dal posto conseguito nella graduatoria unica formata al termine del Corso di Accademia, fermo restando il disposto dell'[articolo 65 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_65) e successive modificazioni ed integrazioni. I Sottotenenti reclutati per concorso a nomina diretta vengono trasferiti secondo l'ordine di graduatoria del concorso, collocandosi dopo i pari grado provenienti dai Corsi di Accademia;
+                                per i Sottotenenti, secondo l'ordine derivante dal posto conseguito nella graduatoria unica formata al termine del Corso di Accademia, fermo restando il disposto dell'[articolo 65 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e successive modificazioni ed integrazioni. I Sottotenenti reclutati per concorso a nomina diretta vengono trasferiti secondo l'ordine di graduatoria del concorso, collocandosi dopo i pari grado provenienti dai Corsi di Accademia;
                             c)
-                                per i Tenenti, i Capitani, i Maggiori ed i Tenenti Colonnelli, con l'anzianita' di grado posseduta ovvero, ai soli fini giuridici, con quella del pari grado, nominato Tenente nello stesso anno, che abbia avuto uno sviluppo di carriera piu' favorevoli, non conseguente all'applicazione degli [articoli 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_55) e [56 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_56). L'ordine di iscrizione in ruolo e' stabilito in base agli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), e successive modificazioni.
+                                per i Tenenti, i Capitani, i Maggiori ed i Tenenti Colonnelli, con l'anzianita' di grado posseduta ovvero, ai soli fini giuridici, con quella del pari grado, nominato Tenente nello stesso anno, che abbia avuto uno sviluppo di carriera piu' favorevoli, non conseguente all'applicazione degli [articoli 55](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [56 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md). L'ordine di iscrizione in ruolo e' stabilito in base agli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni.
 
 3.
 
-Nei confronti degli ufficiali iscritti nel ruolo normale del Corpo di amministrazione e di commissariato non si applica l'[articolo 24, comma 4, della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_24-com4).
+Nei confronti degli ufficiali iscritti nel ruolo normale del Corpo di amministrazione e di commissariato non si applica l'[articolo 24, comma 4, della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md).
 
 Nota all'art. 45, comma 2, lettera a):
  - Vedasi nota precedente.
  Nota all'art. 45, comma 2, lettera b):
- - Il testo dell'[art. 65 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_65), e' il seguente:
+ - Il testo dell'[art. 65 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e' il seguente:
  "Art. 65. - Per i sottotenenti che superino i corsi di applicazione viene determinato, con decreto del Ministro, il nuovo ordine di anzianita' in base alla media fra il punto, ridotto in centesimi, riportato nella classifica finale dell'Accademia ed i punti, espressi in centesimi, attribuiti all'ufficiale al termine del primo e del secondo anno del corso di applicazione.
  I sottotenenti che superino il corso di applicazione nella sessione di riparazione sono iscritti in ruolo dopo i pari grado che hanno superato il corso nella prima sessione.
  I sottotenenti che, per motivi di servizio riconosciuti dal Ministro con propria determinazione o per motivi di salute dipendenti da causa di servizio, frequentino il corso di applicazione con ritardo, qualora lo superino, sono iscritti in ruolo al posto che ad essi sarebbe spettato se avessero superato il corso a loro turno.
@@ -1549,7 +1549,7 @@ A decorrere dal 1 gennaio 1998 gli ufficiali dell'ausiliaria, della riserva, di 
 
 2.
 
-Il trasferimento degli ufficiali di cui al comma 1 viene effettuato ai sensi degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), e successive modificazioni.
+Il trasferimento degli ufficiali di cui al comma 1 viene effettuato ai sensi degli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni.
 
 3.
 
@@ -1570,7 +1570,7 @@ A decorrere dalla data di entrata in vigore del presente decreto, gli ufficiali 
 
 2.
 
-L'ordine di iscrizione in ruolo dei predetti ufficiali e' stabilito in base agli articoli di cui agli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), e successive modificazioni.
+L'ordine di iscrizione in ruolo dei predetti ufficiali e' stabilito in base agli articoli di cui agli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni.
 
 Nota agli articoli 46, comma 2, 47, comma 2, 48, comma 2, 49, comma 2, 50, comma 2:
  - I testi degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954;113#art_8) e [9 della legge n. 113/1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954;113#art_9) sono riportati in nota all'art. 41 comma 2.
@@ -1583,7 +1583,7 @@ A decorrere dal 1 gennaio 1998 gli ufficiali dell'ausiliaria, della riserva, di 
 
 2.
 
-Il trasferimento degli ufficiali di cui al comma 1 viene effettuato ai sensi degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), e successive modificazioni.
+Il trasferimento degli ufficiali di cui al comma 1 viene effettuato ai sensi degli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni.
 
 Nota agli articoli 46, comma 2, 47, comma 2, 48, comma 2, 49, comma 2, 50, comma 2:
  - I testi degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954;113#art_8) e [9 della legge n. 113/1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954;113#art_9) sono riportati in nota all'art. 41 comma 2.
@@ -1600,7 +1600,7 @@ A decorrere dalla data di entrata in vigore del presente decreto, gli ufficiali 
 
 2.
 
-L'ordine di iscrizione in ruolo dei predetti ufficiali e' stabilito in base agli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), e successive modificazioni.
+L'ordine di iscrizione in ruolo dei predetti ufficiali e' stabilito in base agli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni.
 
 3.
 
@@ -1617,11 +1617,11 @@ A decorrere dal 1 gennaio 1998 gli ufficiali dell'ausiliaria, della riserva, di 
 
 2.
 
-Il trasferimento degli ufficiali di cui al comma 1 viene effettuato ai sensi degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), e successive modificazioni.
+Il trasferimento degli ufficiali di cui al comma 1 viene effettuato ai sensi degli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni.
 
 3.
 
-Gli ufficiali dei ruoli ad esaurimento in servizio permanente del Corpo del genio aeronautico ruolo ingegneri, chimici e fisici di cui al Titolo IV della [legge 20 settembre 1980, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-09-20;574), e successive modificazioni, assumono la denominazione di ufficiali del ruolo ad esaurimento in servizio permanente del ruolo normale del Corpo del genio aeronautico.
+Gli ufficiali dei ruoli ad esaurimento in servizio permanente del Corpo del genio aeronautico ruolo ingegneri, chimici e fisici di cui al Titolo IV della [legge 20 settembre 1980, n. 574](Unificazione%20e%20riordinamento%20dei%20ruoli%20normali%20speciali%20e%20di%20complemento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni, assumono la denominazione di ufficiali del ruolo ad esaurimento in servizio permanente del ruolo normale del Corpo del genio aeronautico.
 
 Nota agli articoli 46, comma 2, 47, comma 2, 48, comma 2, 49, comma 2, 50, comma 2:
  - I testi degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954;113#art_8) e [9 della legge n. 113/1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954;113#art_9) sono riportati in nota all'art. 41 comma 2.
@@ -1699,7 +1699,7 @@ Il maestro direttore ed il maestro vice direttore della banda musicale dell'Aero
 Sono altresi' istituiti i ruoli dei Corpi sanitari dell'Esercito, della Marina e dell'Aeronautica.
 
 Nota all'art. 52, comma 2:
- - Il testo dell'[art. 33 del decreto legislativo 12 maggio 1995, n. 196](Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20dei%20ruoli%20modifica%20alle%20norme%20di%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20non%20direttivo%20delle%20Forze%20armate.md), concernente: "Attuazione dell'[art. 3 della legge 6 marzo 1992, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216#art_3), in materia di riordinamento dei ruoli, modifica alle norme di reclutamento, stato ed avanzamento del personale non direttivo delle Forze armate" pubblicato nella Gazzetta Ufficiale 27 maggio 1995, n. 122 - supplemento ordinario - e' il seguente:
+ - Il testo dell'[art. 33 del decreto legislativo 12 maggio 1995, n. 196](Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20dei%20ruoli%20modifica%20alle%20norme%20di%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20non%20direttivo%20delle%20Forze%20armate.md), concernente: "Attuazione dell'[art. 3 della legge 6 marzo 1992, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), in materia di riordinamento dei ruoli, modifica alle norme di reclutamento, stato ed avanzamento del personale non direttivo delle Forze armate" pubblicato nella Gazzetta Ufficiale 27 maggio 1995, n. 122 - supplemento ordinario - e' il seguente:
  "Capo VI
  B a n d e
  Art. 33 (Bande musicali). - 1. Le bande musicali dell'Esercito e dell'Aeronautica, sono complessi organici destinati a partecipare alle celebrazioni piu' importanti della vita della Forza armata di appartenenza, in occasione di manifestazioni pubbliche, organizzate anche a livello internazionale. A tali fini e' istituita, altresi', la banda musicale della Marina militare.
@@ -1767,11 +1767,11 @@ Gli ufficiali fino al grado di Tenente Colonnello appartenenti ai ruoli normali 
 
 2.
 
-Qualora il numero delle domande superi le dotazioni organiche dei singoli gradi, per il transito nei ruoli speciali si procede alla formazione di graduatorie distinte per gradi, sulla base dei requisiti previsti dall'[articolo 26 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_26) e successive modificazioni. A parita' di merito la precedenza spetta all'ufficiale con maggiore anzianita' di grado e, a parita' di grado, al piu' anziano in ruolo.
+Qualora il numero delle domande superi le dotazioni organiche dei singoli gradi, per il transito nei ruoli speciali si procede alla formazione di graduatorie distinte per gradi, sulla base dei requisiti previsti dall'[articolo 26 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e successive modificazioni. A parita' di merito la precedenza spetta all'ufficiale con maggiore anzianita' di grado e, a parita' di grado, al piu' anziano in ruolo.
 
 3.
 
-Gli ufficiali trasferiti mantengono il grado, la posizione di stato e l'anzianita' assoluta e relativa posseduta. L'ordine di iscrizione in ruolo viene effettuato ai sensi degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), e successive modificazioni.
+Gli ufficiali trasferiti mantengono il grado, la posizione di stato e l'anzianita' assoluta e relativa posseduta. L'ordine di iscrizione in ruolo viene effettuato ai sensi degli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni.
 
 Nota all'art. 53, commi 2 e 3:
  - Il testo dell'[art. 26 della legge n. 1137/1955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955;1137#art_26) e' riportato in nota all'art. 16, comma 1.
@@ -1794,7 +1794,7 @@ Gli stessi possono presentare domanda irrevocabile di transito nel rispettivo ru
 
 4.
 
-Gli ufficiali trasferiti mantengono il grado, la posizione di stato e l'anzianita' assoluta e relativa posseduta. L'ordine di iscrizione in ruolo viene effettuato ai sensi degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), e successive modificazioni.
+Gli ufficiali trasferiti mantengono il grado, la posizione di stato e l'anzianita' assoluta e relativa posseduta. L'ordine di iscrizione in ruolo viene effettuato ai sensi degli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni.
 
 Nota all'art. 54, comma 4:
  - Vedasi nota precedente.
@@ -1821,7 +1821,7 @@ Gli ufficiali trasferiti conservano la posizione di stato e l'anzianita' di grad
 
 3.
 
-L'ordine di iscrizione in ruolo dei predetti ufficiali e' stabilito in base agli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), e successive modificazioni.
+L'ordine di iscrizione in ruolo dei predetti ufficiali e' stabilito in base agli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni.
 
 4.
 
@@ -1838,7 +1838,7 @@ Qualora il numero di domande superi gli organici dei singoli gradi si applicano 
 Nota all'art. 56, comma 3:
  - Vedasi nota precedente.
  Nota all'art. 56, comma 4:
- - Il testo dell'[art. 35 del D.P.R. 29 settembre 1979, n. 611](Norme%20di%20esecuzione%20della%20legge%2028%20aprile%201976%20n.%20192%20sui%20corsi%20della%20Scuola%20di%20guerra%20dellEsercito.md), concernente: "Norme di esecuzione della [legge 28 aprile 1976, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-28;192), sui corsi della scuola di guerra dell'Esercito" pubblicato nella Gazzetta Ufficiale 10 dicembre l979, n. 335, e' il seguente:
+ - Il testo dell'[art. 35 del D.P.R. 29 settembre 1979, n. 611](Norme%20di%20esecuzione%20della%20legge%2028%20aprile%201976%20n.%20192%20sui%20corsi%20della%20Scuola%20di%20guerra%20dellEsercito.md), concernente: "Norme di esecuzione della [legge 28 aprile 1976, n. 192](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md), sui corsi della scuola di guerra dell'Esercito" pubblicato nella Gazzetta Ufficiale 10 dicembre l979, n. 335, e' il seguente:
  "Art. 35. - Gli ufficiali cui sia attribuita la qualifica di ottimo, molto buono, buono e sufficiente sono dichiarati idonei. Ai medesimi:
  a) e' conferito il "titolo Scuola di guerra";
  b) viene rilasciato uno speciale diploma a firma del Ministro della difesa.
@@ -1853,7 +1853,7 @@ Gli ufficiali del ruolo normale delle Armi di fanteria, cavalleria, artiglieria,
 
 2.
 
-Gli ufficiali trasferiti conservano la posizione di stato e l'anzianita' di grado posseduta. L'ordine di iscrizione in ruolo e' stabilito in base agli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_8) e [9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), e successive modificazioni, dopo gli ufficiali dell'Arma dei trasporti e dei materiali aventi uguale anzianita' di grado.
+Gli ufficiali trasferiti conservano la posizione di stato e l'anzianita' di grado posseduta. L'ordine di iscrizione in ruolo e' stabilito in base agli [articoli 8](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni, dopo gli ufficiali dell'Arma dei trasporti e dei materiali aventi uguale anzianita' di grado.
 
 3.
 
@@ -1891,11 +1891,11 @@ Ai Tenenti Colonnelli con 25 anni di servizio dalla nomina a Tenente e' corrispo
 
 6.
 
-I limiti di eta' per la cessazione dal servizio permanente riportati nelle tabelle A, B e C allegate alla [legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404), e successive modificazioni ed integrazioni, sono gradualmente elevati secondo le decorrenze fissate dall'[articolo 7, comma 1, del decreto legislativo 30 aprile 1997, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-04-30;165#art_7-com1).
+I limiti di eta' per la cessazione dal servizio permanente riportati nelle tabelle A, B e C allegate alla [legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md), e successive modificazioni ed integrazioni, sono gradualmente elevati secondo le decorrenze fissate dall'[articolo 7, comma 1, del decreto legislativo 30 aprile 1997, n. 165](../Decreti%20Legislativi/Attuazione%20delle%20deleghe%20conferite%20dallarticolo%202%20comma%2023%20della%20legge%208%20agosto%201995%20n.%20335%20e%20dallarticolo%201%20commi%2097%20lettera%20g%20e%2099%20della%20legge%2023%20dicembre%201996%20n.%20662%20in%20materia%20di%20armo_34db78410fbb.md).
 
 7.
 
-I limiti di eta' per la cessazione dal servizio permanente riportati nelle tabelle A e B allegate alla [legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404), e successive modificazioni ed integrazioni, sono elevati a 61 anni a decorrere dal 2008 per il grado di maggior generale del ruolo normale delle Armi di fanteria, cavalleria, artiglieria, genio, trasmissioni, per il grado di colonnello dei ruoli speciali delle Armi di fanteria, cavalleria, artiglieria, genio, trasmissioni e dell'Arma dei trasporti e dei materiali e per il grado di colonnello dei Corpi logistici dell'Esercito nonche' per il grado di ammiraglio di divisione. Fino all'anno 2008 i limiti di eta' per la cessazione dal servizio permanente degli ufficiali dei Corpi logistici dell'Esercito sono uguali ai limiti di eta' previsti per i pari grado del ruolo speciale delle Armi di fanteria, cavalleria, artiglieria, genio, trasmissioni.
+I limiti di eta' per la cessazione dal servizio permanente riportati nelle tabelle A e B allegate alla [legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md), e successive modificazioni ed integrazioni, sono elevati a 61 anni a decorrere dal 2008 per il grado di maggior generale del ruolo normale delle Armi di fanteria, cavalleria, artiglieria, genio, trasmissioni, per il grado di colonnello dei ruoli speciali delle Armi di fanteria, cavalleria, artiglieria, genio, trasmissioni e dell'Arma dei trasporti e dei materiali e per il grado di colonnello dei Corpi logistici dell'Esercito nonche' per il grado di ammiraglio di divisione. Fino all'anno 2008 i limiti di eta' per la cessazione dal servizio permanente degli ufficiali dei Corpi logistici dell'Esercito sono uguali ai limiti di eta' previsti per i pari grado del ruolo speciale delle Armi di fanteria, cavalleria, artiglieria, genio, trasmissioni.
 
 8.
 
@@ -1903,7 +1903,7 @@ A decorrere dal 1 gennaio 2005 i limiti di eta' per la cessazione dal servizio p
 
 9.
 
-I limiti di eta' per la cessazione dal servizio permanente riportati nella tabella C allegata alla [legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404), e successive modificazioni ed integrazioni, per i gradi di generale dell'Aeronautica sono elevati di un anno a decorrere dal 2005 e di un ulteriore anno a decorrere dal 2008. Per il grado di Generale di Squadra Aerea sono elevati di un anno a decorrere dalla data di entrata in vigore del presente decreto e di un ulteriore anno a decorrere dal 2008.
+I limiti di eta' per la cessazione dal servizio permanente riportati nella tabella C allegata alla [legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md), e successive modificazioni ed integrazioni, per i gradi di generale dell'Aeronautica sono elevati di un anno a decorrere dal 2005 e di un ulteriore anno a decorrere dal 2008. Per il grado di Generale di Squadra Aerea sono elevati di un anno a decorrere dalla data di entrata in vigore del presente decreto e di un ulteriore anno a decorrere dal 2008.
 
 10.
 
@@ -1911,7 +1911,7 @@ Per gli ufficiali fino al grado di tenente colonnello, in servizio alla data di 
 
 11.
 
-Qualora il conferimento delle promozioni annuali determini, nel grado di colonnello o di generale di un determinato ruolo, eccedenze rispetto agli organici di legge, salvo quanto disposto dall'[articolo 8, comma 3, della legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404#art_8-com3), il collocamento in aspettativa per riduzione di quadri viene effettuato solo nel caso in cui la predetta eccedenza non possa essere assorbita nei numeri massimi complessivi di tale grado, fissati per ogni Forza Armata dalla [legge 10 dicembre 1973, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-10;804), e successive modificazioni ed integrazioni. Qualora si determinino eccedenze in piu' ruoli di una Forza Armata non totalmente riassorbibili, e' collocato in aspettativa per riduzione di quadri, se colonnello, l'ufficiale dei predetti ruoli anagraficamente piu' anziano ed, a parita' di eta', l'ufficiale meno anziano nel grado ovvero, se generale, l'ufficiale piu' anziano in grado ed, a parita' di anzianita', l'ufficiale anagraficamente piu' anziano.
+Qualora il conferimento delle promozioni annuali determini, nel grado di colonnello o di generale di un determinato ruolo, eccedenze rispetto agli organici di legge, salvo quanto disposto dall'[articolo 8, comma 3, della legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md), il collocamento in aspettativa per riduzione di quadri viene effettuato solo nel caso in cui la predetta eccedenza non possa essere assorbita nei numeri massimi complessivi di tale grado, fissati per ogni Forza Armata dalla [legge 10 dicembre 1973, n. 804](Norme%20per%20lattuazione%20dellarticolo%2016-quater%20della%20legge%2018%20marzo%201968%20n.%20249%20quale%20risulta%20modificato%20dallarticolo%2012%20della%20legge%2028%20ottobre%201970%20n.%20775%20nei%20confronti%20degli%20ufficiali%20del_3480d302bea6.md), e successive modificazioni ed integrazioni. Qualora si determinino eccedenze in piu' ruoli di una Forza Armata non totalmente riassorbibili, e' collocato in aspettativa per riduzione di quadri, se colonnello, l'ufficiale dei predetti ruoli anagraficamente piu' anziano ed, a parita' di eta', l'ufficiale meno anziano nel grado ovvero, se generale, l'ufficiale piu' anziano in grado ed, a parita' di anzianita', l'ufficiale anagraficamente piu' anziano.
 
 12.
 
@@ -1919,24 +1919,24 @@ Per un periodo di 4 anni dalla data di entrata in vigore del presente decreto, i
 
 13.
 
-Alla data di entrata in vigore del presente decreto, gli organici dei gradi di colonnello e di generale dei ruoli di ciascuna Forza Armata coincidono con i contingenti dei predetti gradi stabiliti con il decreto del Presidente della Repubblica 11 luglio 1974 in attuazione dell'[articolo 3 della legge 10 dicembre 1973, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-10;804#art_3), e successive modificazioni ed integrazioni.
+Alla data di entrata in vigore del presente decreto, gli organici dei gradi di colonnello e di generale dei ruoli di ciascuna Forza Armata coincidono con i contingenti dei predetti gradi stabiliti con il decreto del Presidente della Repubblica 11 luglio 1974 in attuazione dell'[articolo 3 della legge 10 dicembre 1973, n. 804](Norme%20per%20lattuazione%20dellarticolo%2016-quater%20della%20legge%2018%20marzo%201968%20n.%20249%20quale%20risulta%20modificato%20dallarticolo%2012%20della%20legge%2028%20ottobre%201970%20n.%20775%20nei%20confronti%20degli%20ufficiali%20del_3480d302bea6.md), e successive modificazioni ed integrazioni.
 
 14.
 
-Gli ufficiali in servizio permanente a disposizione ai sensi dell'[articolo 48 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_48), sono computati negli organici dei rispettivi ruoli e permangono in tale posizione di stato fino alla cessazione dal servizio permanente. Gli stessi possono essere impiegati in tutte le cariche previste per gli ufficiali in servizio permanente.
+Gli ufficiali in servizio permanente a disposizione ai sensi dell'[articolo 48 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sono computati negli organici dei rispettivi ruoli e permangono in tale posizione di stato fino alla cessazione dal servizio permanente. Gli stessi possono essere impiegati in tutte le cariche previste per gli ufficiali in servizio permanente.
 
 15.
 
 Sulla base delle esigenze di ciascuna Forza Armata, qualora nei rispettivi ruoli speciali del Corpo Sanitario non risultino ricoperte particolari posizioni organiche, possono essere indetti annualmente concorsi straordinari per titoli ed esami per il reclutamento di ufficiali nei citati ruoli da trarre dai giovani che non abbiano superato il 32 anno di eta' alla data indicata dal bando di concorso e in possesso di uno dei diplomi di laurea richiesti.
 
 Nota all'art. 58, comma 6:
- - Il testo dell'[art. 7, comma 1 del d.lgs. 30 aprile 1997, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-04-30;165#art_7-com1), concernente: "Attuazione delle deleghe conferite dall'[art. 2, comma 23, della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_2-com23) e dell'art. 1, commi 97, lettera g), e 99, della [legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662), in materia di armonizzazione al regime previdenziale generale dei trattamenti pensionistici del personale militare, delle Forze di polizia e del Corpo nazionale dei vigili del fuoco, nonche' del personale non contrattualizzato del pubblico impiego" pubblicato nella Gazzetta Ufficiale 17 giugno 1997, n. 139, e' il seguente:
+ - Il testo dell'[art. 7, comma 1 del d.lgs. 30 aprile 1997, n. 165](../Decreti%20Legislativi/Attuazione%20delle%20deleghe%20conferite%20dallarticolo%202%20comma%2023%20della%20legge%208%20agosto%201995%20n.%20335%20e%20dallarticolo%201%20commi%2097%20lettera%20g%20e%2099%20della%20legge%2023%20dicembre%201996%20n.%20662%20in%20materia%20di%20armo_34db78410fbb.md), concernente: "Attuazione delle deleghe conferite dall'[art. 2, comma 23, della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_2-com23) e dell'art. 1, commi 97, lettera g), e 99, della [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), in materia di armonizzazione al regime previdenziale generale dei trattamenti pensionistici del personale militare, delle Forze di polizia e del Corpo nazionale dei vigili del fuoco, nonche' del personale non contrattualizzato del pubblico impiego" pubblicato nella Gazzetta Ufficiale 17 giugno 1997, n. 139, e' il seguente:
  "Art. 7 (Norme transitorie). - 1. In fase di prima applicazione, i limiti di eta' per la cessazione dal servizio, previsti dall'art. 2, sono gradualmente elevati al 57 anno di eta' per gli anni dal 1998 al 2001, al 58 anno per gli anni dal 2002 al 2004, al 59 anno per gli anni dal 2005 al 2007 ed al 60 anno a decorrere dal 2008".
  Nota all'art. 58, commi 7 e 9:
  - I testi della [legge n. 404/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;404) e delle relative tabelle sono pubblicati nella Gazzetta Ufficiale 29 dicembre 1990, n. 302.
  Nota all'art. 58, comma 11:
  - Il testo dell'[art. 8, comma 3, della legge n. 404/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;404#art_8-com3) e' il seguente:
- "3. Per gli ufficiali in servizio permanente effettivo, nei gradi in cui le promozioni a scelta al grado superiore non si effettuano tutti gli anni, l'[art. 7 della legge 10 dicembre 1973, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-10;804#art_7), si applica solo negli anni in cui si forma il quadro di avanzamento. Gli ufficiali che siano stati iscritti nel predetto quadro non sono computati nel numero massimo del grado di appartenenza fino alla promozione".
+ "3. Per gli ufficiali in servizio permanente effettivo, nei gradi in cui le promozioni a scelta al grado superiore non si effettuano tutti gli anni, l'[art. 7 della legge 10 dicembre 1973, n. 804](Norme%20per%20lattuazione%20dellarticolo%2016-quater%20della%20legge%2018%20marzo%201968%20n.%20249%20quale%20risulta%20modificato%20dallarticolo%2012%20della%20legge%2028%20ottobre%201970%20n.%20775%20nei%20confronti%20degli%20ufficiali%20del_3480d302bea6.md), si applica solo negli anni in cui si forma il quadro di avanzamento. Gli ufficiali che siano stati iscritti nel predetto quadro non sono computati nel numero massimo del grado di appartenenza fino alla promozione".
  I riferimenti normativi alla [legge n. 804/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;804) sono riportati in nota all'art. 23, comma 2".
  Nota all'art. 58, comma 13:
  - Il testo dell'[art. 3, della legge n. 804/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;804#art_3) e' il seguente:
@@ -1976,7 +1976,7 @@ Colon- 1.379 508 558 126 85 1 2.657
 
 1.
 
-Il Ministro della Difesa ha facolta' di bandire uno o piu' concorsi per titoli per l'immissione rispettivamente di tenenti e di capitani di cui ai Titoli II e III della [legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224), e successive modificazioni ed integrazioni, con anzianita' di grado non inferiore a due anni, nel ruolo speciale delle Armi di fanteria, cavalleria, artiglieria, genio, trasmissioni dell'Esercito, nel ruolo speciale del Corpo di stato maggiore della Marina, nel ruolo speciale del Corpo delle capitanerie di porto e nel ruolo naviganti speciale dell'Arma aeronautica nei limiti delle vacanze esistenti nell'organico degli ufficiali inferiori dei predetti ruoli.
+Il Ministro della Difesa ha facolta' di bandire uno o piu' concorsi per titoli per l'immissione rispettivamente di tenenti e di capitani di cui ai Titoli II e III della [legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), e successive modificazioni ed integrazioni, con anzianita' di grado non inferiore a due anni, nel ruolo speciale delle Armi di fanteria, cavalleria, artiglieria, genio, trasmissioni dell'Esercito, nel ruolo speciale del Corpo di stato maggiore della Marina, nel ruolo speciale del Corpo delle capitanerie di porto e nel ruolo naviganti speciale dell'Arma aeronautica nei limiti delle vacanze esistenti nell'organico degli ufficiali inferiori dei predetti ruoli.
 
 2.
 
@@ -1991,7 +1991,7 @@ Nei confronti degli ufficiali transitati nei ruoli speciali con i concorsi di cu
 I concorsi vengono espletati secondo le modalita' di cui agli articoli 19 e 20 della predetta [legge n. 224 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;224). Nella graduatoria di merito viene attribuito un punto per ogni anno di servizio prestato senza demerito in ferma dodecennale.
 
 Nota all'art. 59, comma 1:
- - Il testo della [legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224), e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 31 maggio 1986, n. 125.
+ - Il testo della [legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 31 maggio 1986, n. 125.
  Nota all'art. 59, comma 4:
  - Il testo degli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;224#art_19) e [20 della legge n. 224/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;224#art_20) e' il seguente:
  "Art. 19. - 1. Le commissioni giudicatrici dei concorsi sono nominate con decreto del Ministro della difesa e sono composte come segue:
@@ -2076,7 +2076,7 @@ In fase di prima applicazione e comunque fino al 2005, per gli ufficiali apparte
 
 3.
 
-Fermo restando quanto previsto dall'articolo 60 comma 4, in fase di prima applicazione e comunque fino al 2005, le permanenze minime nei gradi del ruolo speciale delle Armi di fanteria, cavalleria, artiglieria, genio, trasmissioni previste, ai fini dell'avanzamento al grado superiore, dalla [legge 16 novembre 1962, n. 1622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-11-16;1622), e successive modificazioni ed integrazioni, si applicano a tutti i ruoli speciali.
+Fermo restando quanto previsto dall'articolo 60 comma 4, in fase di prima applicazione e comunque fino al 2005, le permanenze minime nei gradi del ruolo speciale delle Armi di fanteria, cavalleria, artiglieria, genio, trasmissioni previste, ai fini dell'avanzamento al grado superiore, dalla [legge 16 novembre 1962, n. 1622](Riordinamento%20dei%20ruoli%20degli%20ufficiali%20in%20servizio%20permanente%20effettivo%20dellEsercito.md), e successive modificazioni ed integrazioni, si applicano a tutti i ruoli speciali.
 
 4.
 
@@ -2092,19 +2092,19 @@ E' consentito il transito, per concorso per titoli ed esami, degli ufficiali app
 
 7.
 
-Le disposizioni di cui all'articolo 25, comma 4 si applicano a partire dagli ufficiali che terminano il corso di applicazione, di cui all'allegato A della [legge 20 settembre 1980, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-09-20;574), nel corso del 1998.
+Le disposizioni di cui all'articolo 25, comma 4 si applicano a partire dagli ufficiali che terminano il corso di applicazione, di cui all'allegato A della [legge 20 settembre 1980, n. 574](Unificazione%20e%20riordinamento%20dei%20ruoli%20normali%20speciali%20e%20di%20complemento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), nel corso del 1998.
 
 8.
 
-Gli ufficiali transitati nel complemento in applicazione del [comma 4 dell'articolo 64 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_64-com4), in servizio alla data in entrata in vigore del presente decreto, sono transitati nel corrispondente ruolo ad esaurimento con l'anzianita' di grado posseduta, a condizione che non abbiano riportato nella documentazione caratteristica valutazioni inferiori a "nella media".
+Gli ufficiali transitati nel complemento in applicazione del [comma 4 dell'articolo 64 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), in servizio alla data in entrata in vigore del presente decreto, sono transitati nel corrispondente ruolo ad esaurimento con l'anzianita' di grado posseduta, a condizione che non abbiano riportato nella documentazione caratteristica valutazioni inferiori a "nella media".
 I predetti ufficiali sono iscritti in ruolo dopo i pari grado di uguale anzianita' di grado.
 
 Nota all'art. 61, comma 3:
- - Il testo della [legge 16 novembre 1962, n. 1622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-11-16;1622), concernente: "Riordinamento dei ruoli degli ufficiali in servizio permanente effettivo dell'Esercito" e' pubblicato nella Gazzetta Ufficiale 3 dicembre 1962, n. 308.
+ - Il testo della [legge 16 novembre 1962, n. 1622](Riordinamento%20dei%20ruoli%20degli%20ufficiali%20in%20servizio%20permanente%20effettivo%20dellEsercito.md), concernente: "Riordinamento dei ruoli degli ufficiali in servizio permanente effettivo dell'Esercito" e' pubblicato nella Gazzetta Ufficiale 3 dicembre 1962, n. 308.
  Nota all'art. 61, comma 7:
  - I riferimenti normativi alla [legge n. 574/1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980;574) sono riportati in nota all'art. 23, comma 2.
  Nota all'art. 61, comma 8:
- - Il testo dell'[art. 64, comma 4 della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_64-com4), e' il seguente:
+ - Il testo dell'[art. 64, comma 4 della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e' il seguente:
  "Art. 64. - L'avanzamento dei sottotenenti ha luogo ad anzianita'.
  Detti ufficiali sono valutati per l'avanzamento dopo che abbiano compiuto due anni di permanenza nel grado e, quando si tratti dei sottotenenti delle Armi dei carabinieri, di fanteria, di cavalleria, di artiglieria e del genio, nonche' del Servizio automobilistico, provenienti dai corsi dell'Accademia, sempre che abbiano gia' superato i corsi di applicazione previsti dalla tabella n. 1 annessa alla presente legge. Se idonei, essi sono promossi con anzianita' corrispondente alla data di compimento dei due anni di permanenza nel grado.
  Il sottotenente giudicato non idoneo all'avanzamento e' nuovamente valutato dopo che sia trascorso un anno dalla data sotto la quale fu pronunciato il giudizio di non idoneita', e, se idoneo, e' promosso con anzianita' corrispondente alla data del giudizio definito favorevole.
@@ -2158,7 +2158,7 @@ Le disposizioni di cui all'articolo 27 si applicano agli ufficiali del Corpo di 
 
 11.
 
-Per l'anno 1998 sono fatti salvi gli effetti derivanti dall'applicazione dell'[articolo 48, comma 7, della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_48-com7).
+Per l'anno 1998 sono fatti salvi gli effetti derivanti dall'applicazione dell'[articolo 48, comma 7, della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md).
 
 Nota all'art. 62, comma 11:
  - Il testo dell'[art. 48, comma 7 della legge n. 1137/1955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955;1137#art_48-com7) e' riportato in nota all'art. 58 comma 14.
@@ -2224,7 +2224,7 @@ TITOLO VIII
 
 1.
 
-Al [comma 1 dell'articolo 7 della legge 10 dicembre 1973, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-10;804#art_7-com1), le parole "della durata massima di anni due a cominciare dagli ufficiali piu' anziani in ruolo" sono sostituite dalle seguenti: 
+Al [comma 1 dell'articolo 7 della legge 10 dicembre 1973, n. 804](Norme%20per%20lattuazione%20dellarticolo%2016-quater%20della%20legge%2018%20marzo%201968%20n.%20249%20quale%20risulta%20modificato%20dallarticolo%2012%20della%20legge%2028%20ottobre%201970%20n.%20775%20nei%20confronti%20degli%20ufficiali%20del_3480d302bea6.md), le parole "della durata massima di anni due a cominciare dagli ufficiali piu' anziani in ruolo" sono sostituite dalle seguenti: 
 "dell'ufficiale anagraficamente piu' anziano ed, a parita' di eta', dell'ufficiale meno anziano nel grado, se colonnello, ovvero dell'ufficiale piu' anziano in grado ed, a parita' di anzianita', dell'ufficiale anagraficamente piu' anziano, se generale.".
 
 2.
@@ -2237,7 +2237,7 @@ Alla [lettera b) del comma 3 dell'articolo 5 della legge 8 agosto 1990, n. 231](
 
 4.
 
-Agli ufficiali generali o ammiragli di cui al comma 4 dell'articolo 37 e' attribuita una speciale indennita' commisurata a quella definita per le massime cariche della Pubblica Amministrazione in attuazione di quanto disposto dalla [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59).
+Agli ufficiali generali o ammiragli di cui al comma 4 dell'articolo 37 e' attribuita una speciale indennita' commisurata a quella definita per le massime cariche della Pubblica Amministrazione in attuazione di quanto disposto dalla [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 5.
 
@@ -2245,11 +2245,11 @@ Per le immissioni in ruolo degli ufficiali si tiene conto delle vacanze compless
 
 6.
 
-All'[articolo 2, comma 1, della legge 5 luglio 1952, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-05;989#art_2-com1), alle parole "muniti del brevetto di pilota militare" sono aggiunte le seguenti: "o del brevetto di navigatore militare" ed alle parole "come ufficiali piloti" sono aggiunte le seguenti: "o come ufficiali navigatori".
+All'[articolo 2, comma 1, della legge 5 luglio 1952, n. 989](Riordinamento%20di%20ruoli%20quadri%20organici%20e%20nuovi%20limiti%20di%20eta%20per%20la%20cessazione%20dal%20servizio%20permanente%20degli%20ufficiali%20dellaeronautica.md), alle parole "muniti del brevetto di pilota militare" sono aggiunte le seguenti: "o del brevetto di navigatore militare" ed alle parole "come ufficiali piloti" sono aggiunte le seguenti: "o come ufficiali navigatori".
 
 7.
 
-Il [comma 1 dell'articolo 3 della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_3-com1), e' sostituito dal seguente: 
+Il [comma 1 dell'articolo 3 della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), e' sostituito dal seguente: 
 "1. Gli ufficiali di complemento dell'Arma aeronautica, ruolo naviganti, sono reclutati mediante corsi di pilotaggio aereo o corsi per navigatori militari, indetti dal Ministro della Difesa.".
 
 8.
@@ -2258,11 +2258,11 @@ Ai fini della determinazione delle anzianita' minime di grado richieste per l'in
 
 9.
 
-Qualora il conferimento delle promozioni annuali determini, nel grado di colonnello o di generale di un determinato ruolo, eccedenze rispetto agli organici di legge, salvo quanto disposto dall'[articolo 8, comma 3, della legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404#art_8-com3), il collocamento in aspettativa per riduzione di quadri viene effettuato solo nel caso in cui la predetta eccedenza non possa essere assorbita nelle dotazioni complessive di tale grado fissate per ogni Forza Armata dal presente decreto. Qualora si determinino eccedenze in piu' ruoli di una Forza Armata non totalmente riassorbibili, e' collocato in aspettativa per riduzione di quadri, se colonnello, l'ufficiale dei predetti ruoli anagraficamente piu' anziano ed, a parita' di eta', l'ufficiale meno anziano nel grado ovvero, se generale, l'ufficiale piu' anziano in grado ed, a parita' di anzianita', l'ufficiale anagraficamente piu' anziano.
+Qualora il conferimento delle promozioni annuali determini, nel grado di colonnello o di generale di un determinato ruolo, eccedenze rispetto agli organici di legge, salvo quanto disposto dall'[articolo 8, comma 3, della legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md), il collocamento in aspettativa per riduzione di quadri viene effettuato solo nel caso in cui la predetta eccedenza non possa essere assorbita nelle dotazioni complessive di tale grado fissate per ogni Forza Armata dal presente decreto. Qualora si determinino eccedenze in piu' ruoli di una Forza Armata non totalmente riassorbibili, e' collocato in aspettativa per riduzione di quadri, se colonnello, l'ufficiale dei predetti ruoli anagraficamente piu' anziano ed, a parita' di eta', l'ufficiale meno anziano nel grado ovvero, se generale, l'ufficiale piu' anziano in grado ed, a parita' di anzianita', l'ufficiale anagraficamente piu' anziano.
 
 10.
 
-Sono considerati in soprannumero agli organici gli ufficiali che ricoprano le cariche di Ministri o di Sottosegretario di Stato o che siano distaccati presso Forze di Polizia ad ordinamento militare ovvero impiegati per esigenze di altre Amministrazioni dello Stato, nonche' il personale di cui all'[articolo 4 del R.D. 15 settembre 1897, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-09-15;421#art_4), ed all'[articolo 15 del R.D. 16 giugno 1932, n. 840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-16;840#art_15), e successive modificazioni ed integrazioni.
+Sono considerati in soprannumero agli organici gli ufficiali che ricoprano le cariche di Ministri o di Sottosegretario di Stato o che siano distaccati presso Forze di Polizia ad ordinamento militare ovvero impiegati per esigenze di altre Amministrazioni dello Stato, nonche' il personale di cui all'[articolo 4 del R.D. 15 settembre 1897, n. 421](Che%20provvede%20al%20servizio%20del%20Genio%20militare%20per%20la%20Regia%20Marina%20nelle%20piazze%20di%20Spezia%20Venezia%20e%20Taranto.%20097U0421.md), ed all'[articolo 15 del R.D. 16 giugno 1932, n. 840](Ordinamento%20dei%20servizi%20periferici%20territoriali%20della%20Regia%20marina.%20032U0840.md), e successive modificazioni ed integrazioni.
 
 11.
 
@@ -2270,7 +2270,7 @@ Il collocamento in soprannumero degli ufficiali di cui al comma 10 ha luogo il 1
 
 12.
 
-Le funzioni di cui agli [articoli 19 del Decreto del Presidente della Repubblica 8 novembre 1991, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-11-08;435#art_19), e 95 del [Regio Decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), possono essere espletate anche dai Sottotenenti di Vascello del Corpo delle Capitanerie di Porto che abbiano maturato almeno tre anni di anzianita' di grado.
+Le funzioni di cui agli [articoli 19 del Decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), e 95 del [Regio Decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), possono essere espletate anche dai Sottotenenti di Vascello del Corpo delle Capitanerie di Porto che abbiano maturato almeno tre anni di anzianita' di grado.
 
 13.
 
@@ -2286,11 +2286,11 @@ Nota all'art. 65 comma 1:
  - Il testo delle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-08;231#art_5-com3-leta) e [b) del comma 3 dell'art. 5 della legge 8 agosto 1990, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-08;231#art_5-com3-letb), concernente: "Disposizioni in materia di trattamento economico del personale militare" pubblicato nella Gazzetta Ufficiale 11 agosto 1990, n. 187, e' il seguente:
  "3. A decorrere dal 1 settembre 1990, quale ulteriore omogeneizzazione stipendiale con le forze militari di polizia:
  a) ai tenenti colonnelli e gradi corrispondenti che abbiano prestato servizio militare senza demerito per 15 anni dalla nomina a tenente, e' attribuito lo stipendio spettante al colonnello con relative modalita' di determinazione e progressione economica:
- b) ai colonnelli e gradi corrispondenti che abbiano prestato servizio militare senza demerito per 25 anni dalla nomina a tenente, e' attribuito lo stipendio spettante al generale di brigata con relative modalita' di determinazione e progressione economica. Tale beneficio, quando entra nel computo della liquidazione della pensione e dell'indennita' di buonuscita, esclude quello previsto all'[art. 32, comma 9, della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_32-com9)".
+ b) ai colonnelli e gradi corrispondenti che abbiano prestato servizio militare senza demerito per 25 anni dalla nomina a tenente, e' attribuito lo stipendio spettante al generale di brigata con relative modalita' di determinazione e progressione economica. Tale beneficio, quando entra nel computo della liquidazione della pensione e dell'indennita' di buonuscita, esclude quello previsto all'[art. 32, comma 9, della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md)".
  Nota all'art. 65, comma 4:
- - Il testo della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), concernente: "Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa" e' pubblicato nella Gazzetta Ufficiale 17 marzo 1997, n. 63 - supplemento ordinario.
+ - Il testo della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), concernente: "Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa" e' pubblicato nella Gazzetta Ufficiale 17 marzo 1997, n. 63 - supplemento ordinario.
  Nota all'art. 65, comma 6:
- - Il testo dell'[art. 2, comma 1, della legge 5 luglio 1952, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-05;989#art_2-com1), concernente: "Riordinamento di ruoli, quadri organici e nuovi limiti di eta' per la cessazione dal servizio permanente degli ufficiali dell'Aeronautica, pubblicato nella Gazzetta Ufficiale 31 luglio 1952, n. 176, e' il seguente:
+ - Il testo dell'[art. 2, comma 1, della legge 5 luglio 1952, n. 989](Riordinamento%20di%20ruoli%20quadri%20organici%20e%20nuovi%20limiti%20di%20eta%20per%20la%20cessazione%20dal%20servizio%20permanente%20degli%20ufficiali%20dellaeronautica.md), concernente: "Riordinamento di ruoli, quadri organici e nuovi limiti di eta' per la cessazione dal servizio permanente degli ufficiali dell'Aeronautica, pubblicato nella Gazzetta Ufficiale 31 luglio 1952, n. 176, e' il seguente:
  "Art. 2. - Il reclutamento nel grado iniziale del ruolo naviganti speciale si effettua mediante concorso per titoli ed esami tra:
  gli ufficiali subalterni di completamento del ruolo naviganti, muniti del brevetto di pilota militare, che abbiano compiuto un periodo di servizio di almeno due anni come ufficiali piloti;
  i marescialli in servizio permanente dell'Arma aeronautica, ruolo naviganti che contino almeno due anni di anzianita' di grado nonche' i marescialli e gli altri sottufficiali, in servizio permanente, dell'Arma aeronautica, ruolo naviganti che siano in possesso del diploma di licenza di istituto medio di secondo grado e abbiano prestato almeno quattro anni di servizio da sottufficiale pilota".
@@ -2309,10 +2309,10 @@ Nota all'art. 65 comma 1:
  Nota all'art. 65, comma 9:
  - Il testo dell'[art. 8, comma 3 della legge n. 404/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;404#art_8-com3), e' riportato in nota all'art. 58, comma 11.
  Nota all'art. 65, comma 10:
- - Il testo del [R.D. 15 settembre 1897, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-09-15;421), che separa il Servizio del genio per la regia marina da quello per la guerra nelle piazze di Spezia, Taranto, Venezia e Maddalena" e' pubblicato nella Gazzetta Ufficiale del Regno 28 settembre 1897, n. 225.
- - Il testo dell'[art. 15 del R.D 16 giugno 1932, n. 840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-16;840#art_15), concernente: "Ordinamento dei servizi periferici territoriali della Regia marina" e' pubblicato nella Gazzetta Ufficiale 25 luglio 1932, n. 170.
+ - Il testo del [R.D. 15 settembre 1897, n. 421](Che%20provvede%20al%20servizio%20del%20Genio%20militare%20per%20la%20Regia%20Marina%20nelle%20piazze%20di%20Spezia%20Venezia%20e%20Taranto.%20097U0421.md), che separa il Servizio del genio per la regia marina da quello per la guerra nelle piazze di Spezia, Taranto, Venezia e Maddalena" e' pubblicato nella Gazzetta Ufficiale del Regno 28 settembre 1897, n. 225.
+ - Il testo dell'[art. 15 del R.D 16 giugno 1932, n. 840](Ordinamento%20dei%20servizi%20periferici%20territoriali%20della%20Regia%20marina.%20032U0840.md), concernente: "Ordinamento dei servizi periferici territoriali della Regia marina" e' pubblicato nella Gazzetta Ufficiale 25 luglio 1932, n. 170.
  Nota all'art. 65, comma 12:
- - Il testo dell'[art. 19 del D.P.R. 8 novembre 1991, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-11-08;435#art_19), concernente: "Approvazione del regolamento per la sicurezza della navigazione e della vita umana in mare", pubblicato nella Gazzetta Ufficiale 22 gennaio 1992, n. 17 - supplemento ordinario - e' il seguente:
+ - Il testo dell'[art. 19 del D.P.R. 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), concernente: "Approvazione del regolamento per la sicurezza della navigazione e della vita umana in mare", pubblicato nella Gazzetta Ufficiale 22 gennaio 1992, n. 17 - supplemento ordinario - e' il seguente:
  "Art. 19. (Organi di esecuzione delle visite e degli accertamenti). - 1. Agli accertamenti previsti dall'ultimo comma dell'art. 28 della legge, per le navi di stazza lorda inferiore a 200 tonnellate, ma uguale o superiore a 25 tonnellate, provvede il capo del circondario marittimo o un ufficiale da lui designato, di grado non inferiore a tenente di vascello, assistito, secondo modalita' concordate con l'ente tecnico, da un ingegnere o perito designato da tale ente e da un funzionario del Ministero delle poste e delle telecomunicazioni, nonche' da un sottufficiale di porto o impiegato civile dell'ufficio di circondario marittimo, che svolge le funzioni di segretario. Ove ritenuto opportuno dal capo del circondario marittimo anche il medico di porto puo' essere chiamato a dare la propria assistenza nell'espletamento dei predetti accertamenti.
  2. Degli accertamenti effettuati viene redatto processo verbale".
  - Il testo dell'[art. 95 del R.D. 23 maggio 1924, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;87#art_95), concernente: "Regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato", pubblicato nella Gazzetta Ufficiale 3 giugno 1924, n. 130 - supplemento ordinario - e' il seguente:
@@ -2326,19 +2326,19 @@ Nota all'art. 65 comma 1:
 
 1.
 
-Il vantaggio di carriera di cui alla tabella n. 4, quadro II della [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), e successive modificazioni, conseguibile a seguito del superamento del Corso di Stato Maggiore, non sara' piu' concesso a partire dal Corso di Stato Maggiore che avra' inizio nell'anno 2001. Per gli ufficiali che frequenteranno il corso che avra' inizio nell'anno 1998, il predetto vantaggio di carriera sara' attribuito con le modalita' di cui alla citata tabella e nella misura massima corrispondente ad una rideterminazione di anzianita' non superiore a due anni. Per gli ufficiali che frequenteranno i corsi che avranno inizio negli anni 1999 e 2000, il predetto vantaggio di carriera sara' attribuito con le modalita' di cui alla citata tabella e nella misura massima corrispondente ad una rideterminazione di anzianita' non superiore a un anno.
+Il vantaggio di carriera di cui alla tabella n. 4, quadro II della [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni, conseguibile a seguito del superamento del Corso di Stato Maggiore, non sara' piu' concesso a partire dal Corso di Stato Maggiore che avra' inizio nell'anno 2001. Per gli ufficiali che frequenteranno il corso che avra' inizio nell'anno 1998, il predetto vantaggio di carriera sara' attribuito con le modalita' di cui alla citata tabella e nella misura massima corrispondente ad una rideterminazione di anzianita' non superiore a due anni. Per gli ufficiali che frequenteranno i corsi che avranno inizio negli anni 1999 e 2000, il predetto vantaggio di carriera sara' attribuito con le modalita' di cui alla citata tabella e nella misura massima corrispondente ad una rideterminazione di anzianita' non superiore a un anno.
 
 2.
 
-Il vantaggio di carriera di cui alla tabella n. 4, quadri I e II, della [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), e successive modificazioni, conseguibile a seguito della frequenza del Corso Superiore di Stato Maggiore o dell'equipollente Corso Superiore di Stato Maggiore Interforze, non sara' piu' concesso a partire dal Corso che avra' inizio nell'anno 1999.
+Il vantaggio di carriera di cui alla tabella n. 4, quadri I e II, della [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni, conseguibile a seguito della frequenza del Corso Superiore di Stato Maggiore o dell'equipollente Corso Superiore di Stato Maggiore Interforze, non sara' piu' concesso a partire dal Corso che avra' inizio nell'anno 1999.
 
 3.
 
-Il vantaggio di carriera di cui alla tabella n. 4, quadro IV della [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137) e successive modificazioni, previsto per gli ufficiali medici che conseguono una delle specializzazioni di cui al Decreto del Presidente della Repubblica 5 dicembre 1978, e successive modificazioni, non sara' piu' concesso a partire dai corsi che avranno inizio nell'anno 1999.
+Il vantaggio di carriera di cui alla tabella n. 4, quadro IV della [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e successive modificazioni, previsto per gli ufficiali medici che conseguono una delle specializzazioni di cui al Decreto del Presidente della Repubblica 5 dicembre 1978, e successive modificazioni, non sara' piu' concesso a partire dai corsi che avranno inizio nell'anno 1999.
 
 4.
 
-A partire dal Corso Superiore di Stato Maggiore o dell'equipollente Corso Superiore di Stato Maggiore Interforze, che avra' inizio nell'anno 1999 non si applicano le disposizioni di cui agli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-28;192#art_6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-28;192#art_7) e [8 della legge 28 aprile 1976, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-28;192#art_8).
+A partire dal Corso Superiore di Stato Maggiore o dell'equipollente Corso Superiore di Stato Maggiore Interforze, che avra' inizio nell'anno 1999 non si applicano le disposizioni di cui agli [articoli 6](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md), [7](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md) e [8 della legge 28 aprile 1976, n. 192](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md).
 
 Nota all'art. 66, commi 1, 2 e 3:
  - I riferimenti normativi della [legge n. 1137/1955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955;1137) sono riportati in nota all'art. 10, comma 5.
@@ -2359,15 +2359,15 @@ Gli ufficiali dell'Arma aeronautica ruolo naviganti speciale, in possesso del br
 
 4.
 
-Le disposizioni contenute nei [commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_3-com2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_3-com3) e [4 dell'articolo 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_3-com4) e nel [comma 1 dell'articolo 7 della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_7-com1), nonche' agli articoli 4, 5, 6, 11, 12, 13, 15, 16, 17, 18, 19 e 20 della stessa legge si applicano, per le parti di rispettiva competenza, anche a tutto il personale reclutato mediante corsi per navigatori militari.
+Le disposizioni contenute nei [commi 2](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), [3](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md) e [4 dell'articolo 3](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md) e nel [comma 1 dell'articolo 7 della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), nonche' agli articoli 4, 5, 6, 11, 12, 13, 15, 16, 17, 18, 19 e 20 della stessa legge si applicano, per le parti di rispettiva competenza, anche a tutto il personale reclutato mediante corsi per navigatori militari.
 
 5.
 
-Nella [legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224), alle parole "pilota", "pilota militare", "corsi di pilotaggio", "attitudine al pilotaggio", "brevetto di pilota di aeroplano" e "brevetto di pilota militare", sono aggiunte, rispettivamente, le parole "navigatore", "navigatore militare", "corsi di navigatori", "attitudine ad espletare mansioni di navigatore" e "brevetto di navigatore militare".
+Nella [legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md), alle parole "pilota", "pilota militare", "corsi di pilotaggio", "attitudine al pilotaggio", "brevetto di pilota di aeroplano" e "brevetto di pilota militare", sono aggiunte, rispettivamente, le parole "navigatore", "navigatore militare", "corsi di navigatori", "attitudine ad espletare mansioni di navigatore" e "brevetto di navigatore militare".
 
 6.
 
-A decorrere dalla data di entrata in vigore del presente decreto, il numero degli ufficiali navigatori di complemento dell'Aeronautica Militare, da mantenere annualmente in servizio, e' portato in detrazione del numero massimo degli ufficiali piloti di complemento dell'Aeronautica Militare ammessi al trattenimento in servizio ai sensi dell'[articolo 15, comma 1, della legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224#art_15-com1).
+A decorrere dalla data di entrata in vigore del presente decreto, il numero degli ufficiali navigatori di complemento dell'Aeronautica Militare, da mantenere annualmente in servizio, e' portato in detrazione del numero massimo degli ufficiali piloti di complemento dell'Aeronautica Militare ammessi al trattenimento in servizio ai sensi dell'[articolo 15, comma 1, della legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md).
 
 Nota all'art. 67, commi 4, 5 e 6:
  - I riferimenti normativi alla [legge n. 224/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;224) sono riportati in nota all'art. 59, comma 1.
@@ -2424,7 +2424,7 @@ Nota all'art. 68, commi 1, 2, 3, 4 e 6:
 
 1.
 
-La tabella organica dei cappellani militari in servizio permanente annessa alla [legge 1 giugno 1961, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-01;512), modificata dalla [legge 22 novembre 1973, n. 873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-22;873), e' cosi' sostituita:
+La tabella organica dei cappellani militari in servizio permanente annessa alla [legge 1 giugno 1961, n. 512](Stato%20giuridico%20avanzamento%20e%20trattamento%20economico%20del%20personale%20dellassistenza%20spirituale%20alle%20Forze%20armate%20dello%20Stato.md), modificata dalla [legge 22 novembre 1973, n. 873](Modifica%20alla%20legge%201%20giugno%201961%20n.%20512%20sullo%20stato%20giuridico%20avanzamento%20e%20trattamento%20economico%20del%20personale%20dellassistenza%20spirituale%20alle%20forze%20armate%20dello%20Stato.md), e' cosi' sostituita:
                             a)
                                 terzi cappellani militari capi: n. 9;
                             b)
@@ -2440,36 +2440,36 @@ Alla data di entrata in vigore del presente decreto e' istituito il ruolo ad esa
 
 4.
 
-Nel limite delle vacanze esistenti nell'organico complessivo dei cappellani militari addetti e dei cappellani militari capi, i cappellani militari di cui al comma 3 sono immessi annualmente in servizio permanente, qualora abbiano svolto almeno due anni di servizio in qualita' di cappellani militari addetti, previo giudizio di idoneita' dell'Ordinario Militare da emettersi sulla base della documentazione caratteristica e del fascicolo matricolare del personale interessato. Dalla data di immissione nel predetto ruolo essi cessano di appartenere alla categoria del congedo e transitano in quella del servizio permanente di cui alla parte IV della [legge 1 giugno 1961, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-01;512), e successive modificazioni.
+Nel limite delle vacanze esistenti nell'organico complessivo dei cappellani militari addetti e dei cappellani militari capi, i cappellani militari di cui al comma 3 sono immessi annualmente in servizio permanente, qualora abbiano svolto almeno due anni di servizio in qualita' di cappellani militari addetti, previo giudizio di idoneita' dell'Ordinario Militare da emettersi sulla base della documentazione caratteristica e del fascicolo matricolare del personale interessato. Dalla data di immissione nel predetto ruolo essi cessano di appartenere alla categoria del congedo e transitano in quella del servizio permanente di cui alla parte IV della [legge 1 giugno 1961, n. 512](Stato%20giuridico%20avanzamento%20e%20trattamento%20economico%20del%20personale%20dellassistenza%20spirituale%20alle%20Forze%20armate%20dello%20Stato.md), e successive modificazioni.
 
 5.
 
-Il limite di eta' per la cessazione dal servizio permanente dei cappellani militari di cui al comma 3 e' di 62 anni, fermo restando quanto disposto dall'[articolo 8 della legge 1 giugno 1961, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-01;512#art_8).
+Il limite di eta' per la cessazione dal servizio permanente dei cappellani militari di cui al comma 3 e' di 62 anni, fermo restando quanto disposto dall'[articolo 8 della legge 1 giugno 1961, n. 512](Stato%20giuridico%20avanzamento%20e%20trattamento%20economico%20del%20personale%20dellassistenza%20spirituale%20alle%20Forze%20armate%20dello%20Stato.md).
 
 6.
 
-Al [comma 2 dell'articolo 2 della legge 1 giugno 1961, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-01;512#art_2-com2), le parole: "al gradi di generale di brigata" sono sostituite dalle seguenti: "al grado di maggior generale" e le parole: "al grado di tenente colonnello" sono sostituite dalle seguenti: "al grado di brigadier generale".
+Al [comma 2 dell'articolo 2 della legge 1 giugno 1961, n. 512](Stato%20giuridico%20avanzamento%20e%20trattamento%20economico%20del%20personale%20dellassistenza%20spirituale%20alle%20Forze%20armate%20dello%20Stato.md), le parole: "al gradi di generale di brigata" sono sostituite dalle seguenti: "al grado di maggior generale" e le parole: "al grado di tenente colonnello" sono sostituite dalle seguenti: "al grado di brigadier generale".
 
 7.
 
-Al [comma 1 dell'articolo 15 della legge 1 giugno 1961, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-01;512#art_15-com1), dopo le parole: "dai seguenti gradi:" sono aggiunte le seguenti: 
+Al [comma 1 dell'articolo 15 della legge 1 giugno 1961, n. 512](Stato%20giuridico%20avanzamento%20e%20trattamento%20economico%20del%20personale%20dellassistenza%20spirituale%20alle%20Forze%20armate%20dello%20Stato.md), dopo le parole: "dai seguenti gradi:" sono aggiunte le seguenti: 
 "terzo cappellano militare capo, assimilato di rango al grado di colonnello; secondo cappellano militare capo, assimilato di rango al grado di tenente colonnello.".
 
 8.
 
-Al [comma 1 dell'articolo 28 della legge 1 giugno 1961, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-01;512#art_28-com1), e successive modificazioni, le parole: "un anno" e "40 anno di eta'" sono sostituite, rispettivamente, dalle seguenti: "almeno due anni" e "50 anno di eta'" e dopo lo stesso comma 1 e' aggiunto il seguente: "La nomina a cappellano militare addetto in servizio permanente e' conferita, altresi', agli allievi cappellani militari che abbiano superato il prescritto ciclo di formazione per l'ordinazione sacerdotale presso il relativo Istituto, abbiano svolto almeno due anni di servizio in qualita' di cappellani militari addetti di complemento, siano riconosciuti idonei a giudizio dell'ordinario Militare e non abbiano compiuto il 50 anno di eta'.".
+Al [comma 1 dell'articolo 28 della legge 1 giugno 1961, n. 512](Stato%20giuridico%20avanzamento%20e%20trattamento%20economico%20del%20personale%20dellassistenza%20spirituale%20alle%20Forze%20armate%20dello%20Stato.md), e successive modificazioni, le parole: "un anno" e "40 anno di eta'" sono sostituite, rispettivamente, dalle seguenti: "almeno due anni" e "50 anno di eta'" e dopo lo stesso comma 1 e' aggiunto il seguente: "La nomina a cappellano militare addetto in servizio permanente e' conferita, altresi', agli allievi cappellani militari che abbiano superato il prescritto ciclo di formazione per l'ordinazione sacerdotale presso il relativo Istituto, abbiano svolto almeno due anni di servizio in qualita' di cappellani militari addetti di complemento, siano riconosciuti idonei a giudizio dell'ordinario Militare e non abbiano compiuto il 50 anno di eta'.".
 
 9.
 
-Dopo il [comma 1 dell'articolo 65 della legge 1 giugno 1961, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-01;512#art_65-com1) e' aggiunto il seguente: 
+Dopo il [comma 1 dell'articolo 65 della legge 1 giugno 1961, n. 512](Stato%20giuridico%20avanzamento%20e%20trattamento%20economico%20del%20personale%20dellassistenza%20spirituale%20alle%20Forze%20armate%20dello%20Stato.md) e' aggiunto il seguente: 
 "I cappellani militari addetti di complemento che, dopo aver prestato due anni di servizio continuativo, abbiano inoltrato domanda di transito nel servizio permanente ai sensi dell'articolo 28, qualora non siano riconosciuti idonei a giudizio dell'Ordinario Militare, cessano definitivamente dal servizio.".
 
 10.
 
-Fermo restando l'organico fissato dall'[articolo 2 della legge 1 giugno 1961, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-01;512#art_2), possono essere effettuate nuove designazioni agli uffici di Vicario Generale Militare e di Ispettore all'atto della nomina dell'Ordinario Militare. Entro sei mesi dalla predetta nomina il Vicario Generale Militare e gli Ispettori non confermati ai predetti uffici vengono collocati in aspettativa per riduzione di quadri con gli stessi effetti giuridico-economici previsti per gli ufficiali pari grado delle Forze Armate.
+Fermo restando l'organico fissato dall'[articolo 2 della legge 1 giugno 1961, n. 512](Stato%20giuridico%20avanzamento%20e%20trattamento%20economico%20del%20personale%20dellassistenza%20spirituale%20alle%20Forze%20armate%20dello%20Stato.md), possono essere effettuate nuove designazioni agli uffici di Vicario Generale Militare e di Ispettore all'atto della nomina dell'Ordinario Militare. Entro sei mesi dalla predetta nomina il Vicario Generale Militare e gli Ispettori non confermati ai predetti uffici vengono collocati in aspettativa per riduzione di quadri con gli stessi effetti giuridico-economici previsti per gli ufficiali pari grado delle Forze Armate.
 
 Nota all'art. 69:
- - Il testo della [legge 1 giugno 1961, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-01;512), concernente: "Stato giuridico, avanzamento e trattamento economico del personale dell'assistenza spirituale", e' pubblicato nella Gazzetta Ufficiale 30 giugno 1961, n. 159.
+ - Il testo della [legge 1 giugno 1961, n. 512](Stato%20giuridico%20avanzamento%20e%20trattamento%20economico%20del%20personale%20dellassistenza%20spirituale%20alle%20Forze%20armate%20dello%20Stato.md), concernente: "Stato giuridico, avanzamento e trattamento economico del personale dell'assistenza spirituale", e' pubblicato nella Gazzetta Ufficiale 30 giugno 1961, n. 159.
 
 ### Articolo 70 — (Norme che si applicano al personale delle Forze Armate)
 
@@ -2481,23 +2481,23 @@ Non si applicano al personale delle Forze Armate:
                             b)
                                 e
                             c)
-                                della [legge 8 luglio 1926, n. 1178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178); 
- b) gli articoli 10, comma 1 n. 5), e le tabelle 1, 2 e 3 della [legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113); 
- c) gli articoli 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 14, 15, 15 bis, 16, 17, 18, 19, 20, 21, 22, 23, 28, 29, 30, 31, 32, 33, 38, 39, 40, 41, 42, 43, 44, 46, 47, 48, 54, 192 nonche' il Titolo II capi VI, VII e VIII, il Titolo III e le tabelle 1, 2, 3 e 4 della [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137);
+                                della [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md); 
+ b) gli articoli 10, comma 1 n. 5), e le tabelle 1, 2 e 3 della [legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md); 
+ c) gli articoli 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 14, 15, 15 bis, 16, 17, 18, 19, 20, 21, 22, 23, 28, 29, 30, 31, 32, 33, 38, 39, 40, 41, 42, 43, 44, 46, 47, 48, 54, 192 nonche' il Titolo II capi VI, VII e VIII, il Titolo III e le tabelle 1, 2, 3 e 4 della [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
                             d)
-                                l'[articolo 10 della legge 26 gennaio 1963, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-26;52#art_10);
+                                l'[articolo 10 della legge 26 gennaio 1963, n. 52](Riordinamento%20del%20Corpo%20del%20genio%20aeronautico.md);
                             e)
-                                gli articoli 37, comma 7, secondo periodo, e 46 della [legge 20 settembre 1980, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-09-20;574);
+                                gli articoli 37, comma 7, secondo periodo, e 46 della [legge 20 settembre 1980, n. 574](Unificazione%20e%20riordinamento%20dei%20ruoli%20normali%20speciali%20e%20di%20complemento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
                             f)
                                 gli [articoli 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-10;212#art_54), [58, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-10;212#art_58-com2), e [59, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-10;212#art_59-com2) e [3, della legge 10 maggio 1983, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-10;212#art_59-com3);
                             g)
-                                l'[articolo 5 della legge 4 aprile 1985, n. 123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-04-04;123#art_5);
+                                l'[articolo 5 della legge 4 aprile 1985, n. 123](Nuove%20norme%20per%20il%20reclutamento%20degli%20ufficiali%20in%20servizio%20permanente%20effettivo%20dellArma%20aeronautica%20ruolo%20servizi.md);
                             h)
-                                gli articoli 32, commi 1, 2, 3, 3-bis, 4, 9-ter e quinquies, e 33 della [legge 19 maggio 1986, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224);
+                                gli articoli 32, commi 1, 2, 3, 3-bis, 4, 9-ter e quinquies, e 33 della [legge 19 maggio 1986, n. 224](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20e%20sottufficiali%20piloti%20di%20complemento%20delle%20Forze%20armate%20e%20modifiche%20ed%20integrazioni%20alla%20legge%2020%20settembre%201980%20n.%20574%20riguardanti%20lo%20stato%20e%20l_78387b50cc70.md);
                             i)
                                 l'articolo 5, comma 3, lettera b), secondo periodo, della [legge 8 agosto 1990, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-08;231);
                             j)
-                                gli articoli 1 comma 6, secondo periodo, e 13, comma 1, e le tabelle A, B e C della [legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404);
+                                gli articoli 1 comma 6, secondo periodo, e 13, comma 1, e le tabelle A, B e C della [legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md);
 
 2.
 

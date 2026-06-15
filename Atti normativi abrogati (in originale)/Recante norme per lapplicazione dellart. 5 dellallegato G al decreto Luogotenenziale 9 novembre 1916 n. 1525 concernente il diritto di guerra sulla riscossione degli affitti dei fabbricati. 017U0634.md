@@ -16,7 +16,7 @@ In adempimento al disposto dell'art. 5 dell'allegato G al [decreto Luogotenenzia
 
 La formula esecutiva puo', giusta l'articolo precedente, essere apposta non solo agli effetti del pagamento delle rate di affitto gia' scadute, ma anche a quelli della risoluzione del contratto e del rilascio dell'immobile, quando nel contratto medesimo sia stata espressamente convenuta la risoluzione come immediata conseguenza del mancato pagamento della pigione. 
  
- Qualora la risoluzione non sia convenuta nel contratto, il proprietario, per ottenere il rilascio dell'immobile, puo' sperimentare la procedura stabilita dalla [legge 24 dicembre 1896, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-12-24;547) decorsi due mesi dalla scadenza del termine convenuto per il pagamento del canone di affitto, senza che questo sia stato soddisfatto.
+ Qualora la risoluzione non sia convenuta nel contratto, il proprietario, per ottenere il rilascio dell'immobile, puo' sperimentare la procedura stabilita dalla [legge 24 dicembre 1896, n. 547](Sulle%20licenze%20per%20rilascio%20di%20beni%20immobili.%20096U0547.md) decorsi due mesi dalla scadenza del termine convenuto per il pagamento del canone di affitto, senza che questo sia stato soddisfatto.
 
 ## Art. 3.
 

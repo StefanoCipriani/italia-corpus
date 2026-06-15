@@ -20,11 +20,11 @@ operativo della Guardia di finanza per la lotta all'evasione fiscale;
 
 Visto il [decreto-legge 30 settembre 1982, n. 688](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-09-30;688), convertito, con
 
-modificazioni, in [legge 27 novembre 1982, n. 873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-27;873), che ha incrementato gli organici della Guardia di finanza;
+modificazioni, in [legge 27 novembre 1982, n. 873](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201982%20n.%20688%20recante%20misure%20urgenti%20in%20materia%20di%20entrate%20fiscali.md), che ha incrementato gli organici della Guardia di finanza;
 
 Visto il [decreto del Presidente della Repubblica 24 maggio 1972, n. 311](Determinazione%20dei%20comandi%20e%20dei%20reparti%20della%20guardia%20di%20finanza.md), che stabilisce il numero dei comandi e reparti territoriali della Guardia di finanza;
 
-Visto il [decreto del Presidente della Repubblica 22 gennaio 1981, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-01-22;65), con il quale e' stata istituita la zona centrale con sede in Roma;
+Visto il [decreto del Presidente della Repubblica 22 gennaio 1981, n. 65](../DPR/Istituzione%20della%20zona%20centrale%20della%20guardia%20di%20finanza.md), con il quale e' stata istituita la zona centrale con sede in Roma;
 
 Ritenuta la necessita' di istituire un nuovo comando di zona ed un comando di nucleo regionale di polizia tributaria in sede di particolare importanza economico-fiscale;
 
@@ -39,7 +39,7 @@ I comandi e reparti territoriali della Guardia di finanza sono cosi' determinati
 
 ## Art. 2.
 
-I [decreti presidenziali 24 maggio 1972, n. 311](Determinazione%20dei%20comandi%20e%20dei%20reparti%20della%20guardia%20di%20finanza.md) e [22 gennaio 1981, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-01-22;65), sono abrogati.
+I [decreti presidenziali 24 maggio 1972, n. 311](Determinazione%20dei%20comandi%20e%20dei%20reparti%20della%20guardia%20di%20finanza.md) e [22 gennaio 1981, n. 65](../DPR/Istituzione%20della%20zona%20centrale%20della%20guardia%20di%20finanza.md), sono abrogati.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

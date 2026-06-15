@@ -14,7 +14,7 @@ IL MINISTRO:
  
  Veduti l'art 4 del regolamento approvato con R. decreto 20 nevembre 1879, N. 5166 (Serie 2ª), e l'annessavi tabella N. 2; 
  
- Veduto il [R. decreto 7 luglio 1889, N. 6251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-07-07;6251) (Serie 3ª) con cui venne istituita una delegazione di Porto a Porto Conte, provincia di Sassari, compartimento marittimo della Maddalena; 
+ Veduto il [R. decreto 7 luglio 1889, N. 6251](Che%20istituisce%20a%20Porto%20Conte%20Sassari%20una%20Delegazione%20di%20porto.%20089U6251.md) (Serie 3ª) con cui venne istituita una delegazione di Porto a Porto Conte, provincia di Sassari, compartimento marittimo della Maddalena; 
  
  Presi gli opportuni concerti col Ministero dell'Interno; 
  

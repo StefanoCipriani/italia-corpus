@@ -55,7 +55,7 @@ Presso il Ministero della sanita' e' istituita una Commissione centrale contro l
  da un rappresentante dell'Associazione termotecnica italiana.
  Disimpegna le funzioni di segretario un funzionario della carriera direttiva del Ministero della sanita', di qualifica non inferiore a direttore di sezione o equiparata.
  La Commissione, per l'esame di determinati problemi, puo' avvalersi dell'opera di tecnici e di esperti e puo' sentire i rappresentanti di enti o di categorie interessate.
- Ai componenti della Commissione centrale spettano i compensi previsti dal [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;5).
+ Ai componenti della Commissione centrale spettano i compensi previsti dal [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](../DPR/Compensi%20ai%20componenti%20delle%20Commissioni%20Consigli%20Comitati%20o%20Collegi%20operanti%20nelle%20Amministrazioni%20statali%20anche%20con%20ordinamento%20autonomo%20e%20delle%20Commissioni%20giudicatrici%20dei%20concorsi%20di_6b5a1d3e573d.md).
 
 ### Art. 4.
 
@@ -84,7 +84,7 @@ In ogni capoluogo di regione, nella quale almeno un Comune risulti interessato a
  Il Comitato, per l'esame di determinati problemi, puo' avvalersi dell'opera di tecnici e di esperti e puo' sentire i rappresentanti di enti o di categorie interessate.
  Dovra' sentire inoltre i medici provinciali e gli ufficiali sanitari delle Province e dei Comuni di volta in volta interessati.
  Il Comitato, nominato con decreto del Ministro per la sanita', dura in carica tre anni.
- Ai componenti del Comitato regionale spettano i compensi previsti dal [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;5).
+ Ai componenti del Comitato regionale spettano i compensi previsti dal [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](../DPR/Compensi%20ai%20componenti%20delle%20Commissioni%20Consigli%20Comitati%20o%20Collegi%20operanti%20nelle%20Amministrazioni%20statali%20anche%20con%20ordinamento%20autonomo%20e%20delle%20Commissioni%20giudicatrici%20dei%20concorsi%20di_6b5a1d3e573d.md).
 
 ### Art. 6.
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La tabella A del [regio decreto 23 novembre 1942, n. 1501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-11-23;1501), concernente i ruoli organici del personale a contratto dell'Istituto centrale di statistica, e' sostituita dalla seguente:
+La tabella A del [regio decreto 23 novembre 1942, n. 1501](Modificazioni%20ai%20ruoli%20organici%20dellIstituto%20centrale%20di%20statistica.%20042U1501.md), concernente i ruoli organici del personale a contratto dell'Istituto centrale di statistica, e' sostituita dalla seguente:
 
  RUOLO DEL PERSONALE A CONTRATTO
 
@@ -70,7 +70,7 @@ La tabella A del [regio decreto 23 novembre 1942, n. 1501](https://www.normattiv
 
 ## Art. 2.
 
-Nella prima attuazione della presente legge il personale a contratto di ogni categoria e grado di cui alla soppressa tabella A del [regio decreto 23 novembre 1942, n. 1501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-11-23;1501), e' cosi' inquadrato:
+Nella prima attuazione della presente legge il personale a contratto di ogni categoria e grado di cui alla soppressa tabella A del [regio decreto 23 novembre 1942, n. 1501](Modificazioni%20ai%20ruoli%20organici%20dellIstituto%20centrale%20di%20statistica.%20042U1501.md), e' cosi' inquadrato:
  a) gli impiegati dei vari gradi della categoria di concetto sono inquadrati, secondo il proprio grado e l'anzianita' nel grado stesso, nella carriera direttiva, rispettivamente nella qualifica a fianco di ciascun grado indicata:
  grado 4° - direttore generale;
  " 5° - ispettore generale;

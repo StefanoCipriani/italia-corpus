@@ -22,7 +22,7 @@ Gli Uffici, Enti ed Istituti costituiti e agenti con la finalita' di provvedere 
 
 ## Art. 4.
 
-L'Alto Commissario ha il suo ufficio in Bolzano; l'Ufficio e' costituito con personale comandato appartenente ai ruoli dell'Amministrazione dell'interno e con personale direttamente assunto in base alle norme e con le modalita' stabilite col [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100).
+L'Alto Commissario ha il suo ufficio in Bolzano; l'Ufficio e' costituito con personale comandato appartenente ai ruoli dell'Amministrazione dell'interno e con personale direttamente assunto in base alle norme e con le modalita' stabilite col [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md).
 
 ## Art. 5.
 

@@ -29,7 +29,7 @@ E M A N A il seguente decreto-legge:
 ## Art. 1. — null
 
 2. Nei confronti dei soggetti che, in qualsiasi modo, anche indirettamente, commettono le violazioni di cui al comma 1 si applica la sanzione amministrativa consistente nel pagamento di una somma di denaro non inferiore alla meta' del valore dell'attivita' economica svolta e non superiore al valore medesimo. 
- 3. Per l'accertamento delle violazioni delle disposizioni di cui al presente decreto e per l'irrogazione delle relative sanzioni si applicano le disposizioni del titolo II, capi I e II, del testo unico delle norme di legge in materia valutaria, approvato con [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-03-31;148).
+ 3. Per l'accertamento delle violazioni delle disposizioni di cui al presente decreto e per l'irrogazione delle relative sanzioni si applicano le disposizioni del titolo II, capi I e II, del testo unico delle norme di legge in materia valutaria, approvato con [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md).
 
 ## Art. 2.
 
@@ -39,13 +39,13 @@ Le autorizzazioni alle forniture destinate alle zone della Repubblica di Bosnia-
 
 2.
 
-Le deroghe ai divieti previste dal [regolamento n. 2471/94](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1994;2471), diverse da quello di cui al comma 1, possono essere disposte secondo la procedura prevista dall'[articolo 4 del decreto-legge 6 giugno 1992, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-06-06;305#art_4), convertito dalla [legge 7 agosto 1992, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-07;355).
+Le deroghe ai divieti previste dal [regolamento n. 2471/94](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1994;2471), diverse da quello di cui al comma 1, possono essere disposte secondo la procedura prevista dall'[articolo 4 del decreto-legge 6 giugno 1992, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-06-06;305#art_4), convertito dalla [legge 7 agosto 1992, n. 355](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%206%20giugno%201992%20n.%20305%20recante%20provvedimenti%20urgenti%20in%20ordine%20alla%20situazione%20determinatasi%20nelle%20Repubbliche%20di%20Serbia%20e%20di%20Montenegro.md).
 
 ## Art. 3.
 
 1.
 
-Le disposizioni del [decreto-legge 6 maggio 1994, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-06;272), convertito, con modificazioni, dalla [legge 5 luglio 1994, n. 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-05;434), cessano di avere efficacia nei confronti di Haiti dalla data del 16 ottobre 1994.
+Le disposizioni del [decreto-legge 6 maggio 1994, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-06;272), convertito, con modificazioni, dalla [legge 5 luglio 1994, n. 434](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20maggio%201994%20n.%20272%20recante%20attuazione%20degli%20embarghi%20deliberati%20dal%20Consiglio%20di%20sicurezza%20delle%20Nazioni%20Unite%20nei%20confronti%20di%20_641e5e475408.md), cessano di avere efficacia nei confronti di Haiti dalla data del 16 ottobre 1994.
 
 ## Art. 4.
 

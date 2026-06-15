@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 gennaio 1929, n. 872](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-31;872), che approva il Trattato preliminare di amicizia e di commercio, stipulato in Nanchino, fra l'Italia e la Cina, il 27 novembre 1928. 
+ E' convertito in legge il [R. decreto-legge 31 gennaio 1929, n. 872](Approvazione%20del%20Trattato%20preliminare%20di%20amicizia%20e%20di%20commercio%20stipulato%20in%20Nanchino%20fra%20lItalia%20e%20la%20Cina%20il%2027%20novembre%201928.%20029U0872.md), che approva il Trattato preliminare di amicizia e di commercio, stipulato in Nanchino, fra l'Italia e la Cina, il 27 novembre 1928. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

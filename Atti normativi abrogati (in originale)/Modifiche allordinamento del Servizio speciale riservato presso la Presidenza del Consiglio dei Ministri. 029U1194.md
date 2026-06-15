@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il [R. decreto-legge 10 gennaio 1929, n. 27](Soppressione%20del%20Servizio%20stenografico%20ed%20istituzione%20di%20un%20Servizio%20speciale%20riservato%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri.%20029U0027.md), concernente la istituzione di un Servizio speciale riservato presso la Presidenza del Consiglio dei Ministri;
 
-Veduto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
+Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
 
 Veduto il [R. decreto-legge 16 agosto 1926, n. 1387](Divieto%20di%20assunzione%20di%20nuovo%20personale%20nellAmministrazione%20dello%20Stato%20e%20norme%20per%20il%20riordinamento%20dei%20servizi.%20026U1387.md), riguardante il divieto di assunzione di nuovo personale nelle Amministrazioni dello Stato;
 
@@ -34,7 +34,7 @@ I ruoli organici del Servizio speciale riservato presso la Presidenza del Consig
  
  E' applicabile, nei riguardi del personale dei gruppi A, B e C di detta tabella, l'art. 43 del testo unico della legge sugli ufficiali ed agenti di pubblica sicurezza, in data 31 agosto 1907, n. 690. 
  
- E' esteso nei riguardi del medesimo personale il disposto del [primo comma dell'art. 7 del R. decreto 27 maggio 1923, n. 1176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-27;1176#art_7-com1), nonche' l'[art. 74 del R. decreto 21 gennaio 1929, numero 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-21;62#art_74).
+ E' esteso nei riguardi del medesimo personale il disposto del [primo comma dell'art. 7 del R. decreto 27 maggio 1923, n. 1176](Che%20fissa%20la%20pianta%20organica%20dei%20funzionari%20della%20pubblica%20sicurezza%20e%20la%20concessione%20di%20indennita%20speciali.%20023U1176.md), nonche' l'[art. 74 del R. decreto 21 gennaio 1929, numero 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-21;62#art_74).
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ Il personale che ha dato prova di capacita' nello speciale servizio sara' inquad
 
 ## Art. 3.
 
-Il personale del Servizio speciale riservato, di grado inferiore al 6°, puo' essere dispensato dal servizio per i motivi previsti dall'art. 1. del [R. decreto 6 gennaio 1927, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-06;57), senza che occorra il parere del Consiglio di amministrazione o la deliberazione del Consiglio dei Ministri, nei casi in cui sarebbe necessaria ai sensi dell'articolo sopracitato. Resta fermo il disposto del penultimo capoverso dell'articolo stesso. 
+Il personale del Servizio speciale riservato, di grado inferiore al 6°, puo' essere dispensato dal servizio per i motivi previsti dall'art. 1. del [R. decreto 6 gennaio 1927, n. 57](Modificazioni%20agli%20articoli%2051%20e%2052%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202960%20sullo%20stato%20giuridico%20degli%20impiegati%20dellAmministrazione%20dello%20Stato.%20027U0057.md), senza che occorra il parere del Consiglio di amministrazione o la deliberazione del Consiglio dei Ministri, nei casi in cui sarebbe necessaria ai sensi dell'articolo sopracitato. Resta fermo il disposto del penultimo capoverso dell'articolo stesso. 
  
  Tale disposizione e' applicabile alle proposte di dispensa dal servizio in corso di istruttoria alla data della entrata in vigore del presente decreto.
 

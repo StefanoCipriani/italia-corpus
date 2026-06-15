@@ -53,7 +53,7 @@ E' autorizzata la seguente variazione nelle spese per le opere marittime nell'It
 
 Con decorrenza dal 1° gennaio 1924 sono imposti nel porto di Napoli: 
  
- a) un aumento di cent. 5 per ogni tonnellata di stazza netta delle navi in arrivo, alla sopratassa di ancoraggio di cent. 10 stabilita dall'[art. 3 del R. decreto 25 marzo 1923, n. 1018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;1018#art_3); 
+ a) un aumento di cent. 5 per ogni tonnellata di stazza netta delle navi in arrivo, alla sopratassa di ancoraggio di cent. 10 stabilita dall'[art. 3 del R. decreto 25 marzo 1923, n. 1018](Che%20stabilisce%20le%20attribuzioni%20del%20R.%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20023U1018.md); 
  
  b) una tassa di L. 1.50 per ogni tonnellata metrica di merce imbarcata o sbarcata nel porto; 
  
@@ -67,7 +67,7 @@ Con decorrenza dal 1° gennaio 1924 sono imposti nel porto di Napoli:
  
  I proventi sopra indicati saranno interamente devoluti all'Erario dello Stato a parziale rimborso della spesa sostenuta per le opere portuali. 
  
- Per il conseguimento degli scopi previsti dal [R. decreto 25 marzo 1923, n. 1018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;1018), il Regio commissario del porto di Napoli continuera' a percepire la sopratassa di ancoraggio nella misura di L. 0,10 per ogni tonnellata di stazza netta delle navi in arrivo.
+ Per il conseguimento degli scopi previsti dal [R. decreto 25 marzo 1923, n. 1018](Che%20stabilisce%20le%20attribuzioni%20del%20R.%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20023U1018.md), il Regio commissario del porto di Napoli continuera' a percepire la sopratassa di ancoraggio nella misura di L. 0,10 per ogni tonnellata di stazza netta delle navi in arrivo.
 
 ## Art. 5.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 luglio 1933, n. 1161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-07-13;1161), relativo alla concessione alla Regia universita' di Roma di un contributo straordinario di L. 300.000 per l'arredamento ed il completamento della Clinica delle malattie tropicali e sub-tropicali. 
+ E' convertito in legge il [R. decreto-legge 13 luglio 1933, n. 1161](Concessione%20alla%20Regia%20universita%20di%20Roma%20di%20un%20contributo%20straordinario%20di%20L.%20300.000%20per%20larredamento%20ed%20il%20completamento%20della%20Clinica%20delle%20malattie%20tropicali%20e%20subtropicali.%20033U1161.md), relativo alla concessione alla Regia universita' di Roma di un contributo straordinario di L. 300.000 per l'arredamento ed il completamento della Clinica delle malattie tropicali e sub-tropicali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

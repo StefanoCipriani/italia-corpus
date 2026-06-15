@@ -33,7 +33,7 @@ All'art. 7 del Regio decreto-legge predetto, e' aggiunto il seguente comma:
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 ottobre 1925, n. 1881](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-18;1881), convertito senza modificazioni dalla [L. 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 ottobre 1925, n. 1881](Determinazione%20dellanzianita%20degli%20ufficiali%20del%20Regio%20esercito%20nominati%20in%20S.%20A.%20P.%20direttamente%20col%20grado%20di%20tenente%20in%20base%20alla%20circolare%20677%20del%20Giornale%20militare%201915%20ed%20indi%20trasfe_9e0a980d5529.md), convertito senza modificazioni dalla [L. 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 

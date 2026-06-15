@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 marzo 1930, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-17;244), che concede la franchigia doganale per l'etere di petrolio. 
+ E' convertito in legge il [R. decreto-legge 17 marzo 1930, n. 244](Franchigia%20doganale%20per%20letere%20di%20petrolio.%20030U0244.md), che concede la franchigia doganale per l'etere di petrolio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

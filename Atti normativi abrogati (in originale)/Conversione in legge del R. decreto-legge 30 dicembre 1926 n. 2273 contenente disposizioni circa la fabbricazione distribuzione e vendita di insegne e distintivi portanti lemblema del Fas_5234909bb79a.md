@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 dicembre 1926, n. 2273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-30;2273), contenente disposizioni circa la fabbricazione, distribuzione e vendita di insegne e distintivi portanti l'emblema del Fascio Littorio. 
+ E' convertito in legge il [R. decreto-legge 30 dicembre 1926, n. 2273](Disposizioni%20concernenti%20la%20fabbricazione%20distribuzione%20e%20vendita%20di%20insegne%20e%20distintivi%20portanti%20lemblema%20del%20Fascio%20Littorio.%20026U2273.md), contenente disposizioni circa la fabbricazione, distribuzione e vendita di insegne e distintivi portanti l'emblema del Fascio Littorio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

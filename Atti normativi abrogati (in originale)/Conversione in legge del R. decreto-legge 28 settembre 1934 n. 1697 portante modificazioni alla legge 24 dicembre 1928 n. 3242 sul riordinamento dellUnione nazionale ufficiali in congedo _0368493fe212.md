@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1697), portante modificazioni alla [legge 24 dicembre 1928, n. 3242](Riordinamento%20dellUnione%20nazionale%20ufficiali%20in%20congedo%20dItalia.%20028U3242.md), sul riordinamento dell'Unione nazionale ufficiali in congedo d'Italia. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1697](Modificazioni%20alla%20legge%2024%20dicembre%201928%20n.%203242%20sul%20riordinamento%20dellUnione%20nazionale%20ufficiali%20in%20congedo%20dItalia.%20034U1697.md), portante modificazioni alla [legge 24 dicembre 1928, n. 3242](Riordinamento%20dellUnione%20nazionale%20ufficiali%20in%20congedo%20dItalia.%20028U3242.md), sul riordinamento dell'Unione nazionale ufficiali in congedo d'Italia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

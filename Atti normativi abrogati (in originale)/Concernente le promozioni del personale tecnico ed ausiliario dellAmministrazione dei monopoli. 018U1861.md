@@ -20,11 +20,11 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;693) ed il relativo regolamento generale approvato con [R. decreto 24 novembre 1908, n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-24;756);
+Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md) ed il relativo regolamento generale approvato con [R. decreto 24 novembre 1908, n. 756](Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md);
 
-Visti i ruoli organici degli impiegati delle coltivazioni dei tabacchi, delle manifatture dei tabacchi, delle saline e dei magazzini di deposito dei generi di monopolio, approvato con la [legge 5 giugno 1913, numero 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-05;541), ed i relativi regolamenti e disposizioni speciali;
+Visti i ruoli organici degli impiegati delle coltivazioni dei tabacchi, delle manifatture dei tabacchi, delle saline e dei magazzini di deposito dei generi di monopolio, approvato con la [legge 5 giugno 1913, numero 541](Che%20approva%20modificazioni%20ai%20ruoli%20organici%20del%20personale%20dellAmministrazione%20esterna%20delle%20gabelle%20degli%20uffici%20tecnici%20di%20finanza%20del%20personale%20tecnico%20ed%20amministrativo%20degli%20stabilime_df0a6fc0f2f8.md), ed i relativi regolamenti e disposizioni speciali;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774), e i Nostri decreti 3 dicembre 1916, n. 1659, e 21 febbraio 1917, n. 421;
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md), e i Nostri decreti 3 dicembre 1916, n. 1659, e 21 febbraio 1917, n. 421;
 
 Sulla proposta del ministro segretario di Stato per le finanze;
 

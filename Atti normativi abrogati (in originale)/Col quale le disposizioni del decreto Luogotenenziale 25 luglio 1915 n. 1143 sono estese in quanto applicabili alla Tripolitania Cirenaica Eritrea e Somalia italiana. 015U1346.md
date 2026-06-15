@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 6 luglio 1912, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;749), e il [R. decreto 20 novembre 1912, n. 1205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-11-20;1205); 
+ Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), e il [R. decreto 20 novembre 1912, n. 1205](riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md); 
  
  Visti i RR. decreti 2 luglio 1908, n. 325, 8 giugno 1911, n. 937, 20 marzo 1913, n. 289, coi quali furono rispettivamente approvati gli ordinamenti giudiziari dell'Eritrea, della Somalia italiana e della Tripolitania e Cirenaica; 
  

@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Viste le [leggi 17 luglio 1910, n. 547, e 8 giugno 1911, n. 550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-08;550); 
+ Viste le [leggi 17 luglio 1910, n. 547, e 8 giugno 1911, n. 550](Che%20reca%20i%20provvedimenti%20per%20estendere%20lazione%20della%20R.%20stazione%20sperimentale%20di%20granicoltura%20di%20Rieti.%20011U0550.md); 
  
- Visto il [R. decreto del 23 giugno 1912, n. 1047](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-23;1047); 
+ Visto il [R. decreto del 23 giugno 1912, n. 1047](Col%20quale%20viene%20approvato%20il%20regolamento%20per%20la%20R.%20stazione%20di%20bieticultura%20di%20Rovigo.%20012U1047.md); 
  
  Udito il Consiglio per l'istruzione agraria; 
  
@@ -38,11 +38,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- All'art. 4 del regolamento per la R. stazione di bieticoltura di Rovigo, approvato con [R. decreto del 23 giugno 1912, n. 1047](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-23;1047), e' sostituito il seguente 
+ All'art. 4 del regolamento per la R. stazione di bieticoltura di Rovigo, approvato con [R. decreto del 23 giugno 1912, n. 1047](Col%20quale%20viene%20approvato%20il%20regolamento%20per%20la%20R.%20stazione%20di%20bieticultura%20di%20Rovigo.%20012U1047.md), e' sostituito il seguente 
  
  «A disposizione della stazione sono i proventi sotto enumerati: 
  
- 1° il contributo governativo di L. 20.000, di cui il penultimo comma dell'art. 4 della precitata [legge 17 luglio 1910, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;547); 
+ 1° il contributo governativo di L. 20.000, di cui il penultimo comma dell'art. 4 della precitata [legge 17 luglio 1910, n. 547](Provvedimento%20riguardante%20modificazioni%20alla%20imposta%20sulla%20fabbricazione%20dello%20zucchero%20indigeno.%20010U0547.md); 
  
  2° i contributi della Cassa di risparmio, della Camera di commercio e del comune di Rovigo; 
  

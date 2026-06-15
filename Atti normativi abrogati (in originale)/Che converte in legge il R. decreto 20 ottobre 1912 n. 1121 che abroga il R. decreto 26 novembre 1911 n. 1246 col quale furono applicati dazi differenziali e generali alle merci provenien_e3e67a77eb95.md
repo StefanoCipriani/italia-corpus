@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 20 ottobre 1912, n. 1121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-10-20;1121), che abroga il [R. decreto 26 novembre 1911, n. 1246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-11-26;1246), col quale furono applicati dazi differenziali e generali alle merci provenienti dalla Turchia (europea e asiatica). 
+ E' convertito in legge il [R. decreto 20 ottobre 1912, n. 1121](Che%20abroga%20il%20R.%20decreto%2026%20novembre%201911%20n.%201246%20col%20quale%20furono%20applicati%20dazi%20differenziali%20e%20generali%20alle%20merci%20provenienti%20dalla%20Turchia.%20012U1121.md), che abroga il [R. decreto 26 novembre 1911, n. 1246](Col%20quale%20viene%20imposta%20lapplicazione%20di%20dazi%20differenziali%20e%20generali%20alle%20merci%20di%20provenienza%20turca.%20011U1246.md), col quale furono applicati dazi differenziali e generali alle merci provenienti dalla Turchia (europea e asiatica). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

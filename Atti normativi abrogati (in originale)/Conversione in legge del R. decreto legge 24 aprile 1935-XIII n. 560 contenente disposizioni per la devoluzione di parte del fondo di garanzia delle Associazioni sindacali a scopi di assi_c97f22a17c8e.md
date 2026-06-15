@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 aprile 1935, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-24;560), contenente disposizioni per la devoluzione di parte del fondo di garanzia delle Associazioni sindacali a scopi di assistenza di interesse nazionale. 
+ E' convertito in legge il [R. decreto-legge 24 aprile 1935, n. 560](Devoluzione%20di%20parte%20del%20fondo%20di%20garanzia%20delle%20Associazioni%20sindacali%20a%20scopi%20di%20assistenza%20di%20interesse%20nazionale.%20035U0560.md), contenente disposizioni per la devoluzione di parte del fondo di garanzia delle Associazioni sindacali a scopi di assistenza di interesse nazionale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

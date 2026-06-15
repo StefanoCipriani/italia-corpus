@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visti gli articoli 22 a 36, 402 a 414 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare di pace;
+Visti gli articoli 22 a 36, 402 a 414 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace;
 
 Visto il R. decreto 9 settembre 1941-XIX, n. 1022, relativo all'ordinamento giudiziario militare;
 
@@ -181,7 +181,7 @@ CAPO V.
 
 E' istituita, presso il comando degli stabilimenti militari di pena, la cassa militare delle ammende, nella quale sono versate le somme dovute, ai termini della legge penale militare, per sanzioni disciplinari, o per condanna alla perdita della cauzione o al pagamento della malleveria. 
  
- Le somme come sopra versate sono destinate, in relazione ai condannati militari, a scopi analoghi a quelli indicati nell'[art. 149 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_149) e negli articoli 12 e 19 del regolamento per gli istituti di prevenzione e di pena approvato con R. decreto 18 giugno 1931-IX, n. 787, nei riguardi della cassa delle ammende istituita con la legge 9 maggio 1932-X, n. 547. 
+ Le somme come sopra versate sono destinate, in relazione ai condannati militari, a scopi analoghi a quelli indicati nell'[art. 149 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e negli articoli 12 e 19 del regolamento per gli istituti di prevenzione e di pena approvato con R. decreto 18 giugno 1931-IX, n. 787, nei riguardi della cassa delle ammende istituita con la legge 9 maggio 1932-X, n. 547. 
  
  Il funzionamento della cassa militare delle ammende, la gestione dei fondi relativi e le loro erogazioni sono regolate con provvedimento del Ministro per la guerra, d'intesa col Ministro per le finanze.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 marzo 1926, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-03;332), riguardante la istituzione presso la Cassa depositi e prestiti di una Cassa di ammortamento autonoma per il pagamento delle rate di estinzione dei debiti di guerra verso gli Stati Uniti d'America del Nord e la Gran Bretagna. 
+ E' convertito in legge il [R. decreto-legge 3 marzo 1926, n. 332](Istituzione%20presso%20la%20Cassa%20depositi%20e%20prestiti%20di%20una%20Cassa%20di%20ammortamento%20autonoma%20pel%20pagamento%20delle%20rate%20di%20estinzione%20dei%20debiti%20di%20guerra%20verso%20gli%20Stati%20Uniti%20dAmerica%20del%20Nord%20e_27227b5c0fba.md), riguardante la istituzione presso la Cassa depositi e prestiti di una Cassa di ammortamento autonoma per il pagamento delle rate di estinzione dei debiti di guerra verso gli Stati Uniti d'America del Nord e la Gran Bretagna. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

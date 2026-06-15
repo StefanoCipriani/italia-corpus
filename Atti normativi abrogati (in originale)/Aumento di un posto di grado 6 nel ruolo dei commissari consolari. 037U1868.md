@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari esteri, di
 
 ## Art. 1.
 
-Al ruolo dei commissari consolari di cui al [R. decreto 14 agosto 1931, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-08-14;1354), e' aggiunto transitoriamente un posto di grado sesto da riassorbire con la prima vacanza.
+Al ruolo dei commissari consolari di cui al [R. decreto 14 agosto 1931, n. 1354](Approvazione%20di%20nuovi%20ruoli%20organici%20del%20Ministero%20degli%20affari%20esteri.%20031U1354.md), e' aggiunto transitoriamente un posto di grado sesto da riassorbire con la prima vacanza.
 
 ## Art. 2.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I [Regi decreti-legge 16 agosto 1926, n. 1577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-16;1577), e [25 novembre 1926, n. 2108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-25;2108), concernenti limitazioni alla facolta' di modificare le piante organiche del personale delle Provincie, dei Comuni e delle Istituzioni pubbliche di assistenza e beneficenza, sono abrogati.
+I [Regi decreti-legge 16 agosto 1926, n. 1577](Sospensione%20delle%20modificazioni%20alle%20piante%20organiche%20degli%20impiegati%20degli%20enti%20locali.%20026U1577.md), e [25 novembre 1926, n. 2108](Parziale%20deroga%20al%20R.%20decreto-legge%2016%20agosto%201926%20n.%201577%20relativo%20alla%20sospensione%20delle%20modificazioni%20alle%20piante%20organiche%20degli%20impiegati%20degli%20enti%20locali.%20026U2108.md), concernenti limitazioni alla facolta' di modificare le piante organiche del personale delle Provincie, dei Comuni e delle Istituzioni pubbliche di assistenza e beneficenza, sono abrogati.
 
 ## Art. 2.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' istituito presso il Ministero delle corporazioni un Comitato permanente per l'esame delle domande concernenti la organizzazione di mostre, fiere ed esposizioni di cui all'[art. 1 del R. decreto-legge 7 aprile 1927, n. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-07;515#art_1), convertito nella [legge 8 marzo 1928, n. 630](Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20aprile%201927%20n.%20515%20contenente%20norme%20relative%20alla%20istituzione%20ed%20alla%20organizzazione%20di%20fiere%20mostre%20ed%20esposizioni.%20028U0630.md), ad eccezione delle esposizioni e mostre d'arte, librarie, zootecniche e di carattere strettamente agricolo. 
+E' istituito presso il Ministero delle corporazioni un Comitato permanente per l'esame delle domande concernenti la organizzazione di mostre, fiere ed esposizioni di cui all'[art. 1 del R. decreto-legge 7 aprile 1927, n. 515](Norme%20relative%20alla%20istituzione%20ed%20alla%20organizzazione%20di%20fiere%20mostre%20ed%20esposizioni.%20027U0515.md), convertito nella [legge 8 marzo 1928, n. 630](Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20aprile%201927%20n.%20515%20contenente%20norme%20relative%20alla%20istituzione%20ed%20alla%20organizzazione%20di%20fiere%20mostre%20ed%20esposizioni.%20028U0630.md), ad eccezione delle esposizioni e mostre d'arte, librarie, zootecniche e di carattere strettamente agricolo. 
  
  Non sono sottoposte all'esame del Comitato di cui al comma precedente le domande relative ad esposizioni o mostre che debbono aver luogo, senza alcun concorso di produttori metropolitani residenti nel Regno, nelle Colonie od anche nel Regno se hanno, queste ultime, carattere coloniale.
 

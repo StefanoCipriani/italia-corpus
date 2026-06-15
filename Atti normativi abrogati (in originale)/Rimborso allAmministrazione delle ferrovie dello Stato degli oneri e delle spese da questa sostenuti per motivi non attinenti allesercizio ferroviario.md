@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 4 della legge 29 novembre 1957, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-11-29;1155#art_4), concernente il rimborso all'Amministrazione delle ferrovie dello Stato degli oneri e delle spese da questa sostenuti per motivi non attinenti all'esercizio ferroviario;
+Visto l'[art. 4 della legge 29 novembre 1957, n. 1155](Rimborso%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20degli%20oneri%20e%20delle%20spese%20da%20questa%20sostenuti%20per%20motivi%20non%20attinenti%20allesercizio%20ferroviario_2.md), concernente il rimborso all'Amministrazione delle ferrovie dello Stato degli oneri e delle spese da questa sostenuti per motivi non attinenti all'esercizio ferroviario;
 
-Visto l'[art. 1 della legge 20 aprile 1959, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-04-20;256#art_1);
+Visto l'[art. 1 della legge 20 aprile 1959, n. 256](Modificazioni%20alla%20legge%2029%20novembre%201957%20n.%201155%20concernente%20il%20rimborso%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20degli%20oneri%20e%20delle%20spese%20da%20questa%20sostenuti%20per%20motivi%20non%20attine_c32c774fb603.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,14 +22,14 @@ Sulla proposta del Ministro per i trasporti, di concerto con i Ministri per il b
 
 ## Art. 1.
 
-Gli oneri da rimborsare all'Amministrazione delle ferrovie dello Stato ai sensi dell'[art. 1 della legge 29 novembre 1957, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-11-29;1155#art_1), sono costituiti:
+Gli oneri da rimborsare all'Amministrazione delle ferrovie dello Stato ai sensi dell'[art. 1 della legge 29 novembre 1957, n. 1155](Rimborso%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20degli%20oneri%20e%20delle%20spese%20da%20questa%20sostenuti%20per%20motivi%20non%20attinenti%20allesercizio%20ferroviario_2.md), sono costituiti:
  1) dall'importo delle tasse di trasporto non riscosse da detta Amministrazione in conseguenza delle concessioni di trasporto gratuito in favore delle categorie di persone indicate nella tabella A annessa al presente decreto e firmata dai Ministri per i trasporti, per il bilancio e per il tesoro;
  2) dai minori introiti derivanti alla stessa Amministrazione dalle concessioni di riduzioni di tariffe o di prezzi speciali di trasporto a favore delle categorie di viaggiatori e di merci, rispettivamente elencate nelle tabelle B e C annesse al presente decreto e firmate dai Ministri per i trasporti, per il bilancio e per il tesoro;
  3) dal costo dei trasporti degli effetti postali effettuati gratuitamente dall'Amministrazione delle ferrovie dello Stato per conto dell'Amministrazione delle poste e delle telecomunicazioni.
 
 ## Art. 2.
 
-Gli oneri da rimborsare all'Amministrazione delle ferrovie dello Stato ai sensi dell'[art. 2 della legge 29 novembre 1957, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-11-29;1155#art_2), sono costituiti dagli oneri per il pagamento di annualita' di interesse e di ammortamento relative alla parte dei prestiti contratti dall'Amministrazione delle ferrovie dello Stato che e' stata destinata alla ricostruzione e alla riparazione del materiale e degli impianti distrutti o danneggiati per cause di guerra.
+Gli oneri da rimborsare all'Amministrazione delle ferrovie dello Stato ai sensi dell'[art. 2 della legge 29 novembre 1957, n. 1155](Rimborso%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20degli%20oneri%20e%20delle%20spese%20da%20questa%20sostenuti%20per%20motivi%20non%20attinenti%20allesercizio%20ferroviario_2.md), sono costituiti dagli oneri per il pagamento di annualita' di interesse e di ammortamento relative alla parte dei prestiti contratti dall'Amministrazione delle ferrovie dello Stato che e' stata destinata alla ricostruzione e alla riparazione del materiale e degli impianti distrutti o danneggiati per cause di guerra.
 
 ## Art. 3.
 

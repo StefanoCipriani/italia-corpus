@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 maggio 1928, n. 1286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-05-31;1286), contenente modificazioni alle norme sulle promozioni dei magistrati in Corte di cassazione e sul personale delle cancellerie e segreterie giudiziarie. 
+ E' convertito in legge il [R. decreto-legge 31 maggio 1928, n. 1286](Modificazioni%20alle%20norme%20sulle%20promozioni%20dei%20magistrati%20in%20Corte%20di%20cassazione%20e%20sul%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20028U1286.md), contenente modificazioni alle norme sulle promozioni dei magistrati in Corte di cassazione e sul personale delle cancellerie e segreterie giudiziarie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

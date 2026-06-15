@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' approvato l'annesso regolamento per la esecuzione della [legge 25 marzo 1917, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;481), sulla protezione ed assistenza degli invalidi della guerra. 
+ E' approvato l'annesso regolamento per la esecuzione della [legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), sulla protezione ed assistenza degli invalidi della guerra. 
  
  Detto regolamento sara' vidimato e sottoscritto, d'ordine Nostro, dal ministro proponente. 
  

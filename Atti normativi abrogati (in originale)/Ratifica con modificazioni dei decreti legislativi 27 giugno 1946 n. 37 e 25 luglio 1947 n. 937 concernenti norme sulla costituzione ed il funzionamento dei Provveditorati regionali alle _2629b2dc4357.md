@@ -58,7 +58,7 @@ Entro i limiti di spesa assegnati annualmente dal provveditore spetta ai capi de
  Restano invariate, anche per quanto riguarda la competenza, le disposizioni vigenti in materia di piani regolatori, nuove costruzioni ferroviarie, edilizia popolare, derivazione ed utilizzazione di acque pubbliche, navigazione interna, escavazione di porti, conduzione di energia elettrica, occupazione di spiagge marittime, nonche' di concessione di sussidi, concorsi, sovvenzioni e contributi".
 
  Art. 15. - E' sostituito dal seguente:
- "Ferme restando le attribuzioni conferite dal [regio decreto-legge 7 luglio 1925, n. 1173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-07;1173), e successive modificazioni ed integrazioni, ai Provveditorati per le opere pubbliche per la Sicilia e per la Sardegna si applicano a tali istituti anche le disposizioni di cui agli articoli 2, 3, 4, 5, 6, 7, 8 e 10 del presente decreto".
+ "Ferme restando le attribuzioni conferite dal [regio decreto-legge 7 luglio 1925, n. 1173](Istituzione%20dei%20Provveditorati%20alle%20opere%20pubbliche%20pel%20Mezzogiorno%20e%20le%20Isole.%20025U1173.md), e successive modificazioni ed integrazioni, ai Provveditorati per le opere pubbliche per la Sicilia e per la Sardegna si applicano a tali istituti anche le disposizioni di cui agli articoli 2, 3, 4, 5, 6, 7, 8 e 10 del presente decreto".
 
  Art. 16. - Il secondo, il terzo e il quarto comma sono sostituiti dal seguente:
  "Per le materie ed i servizi attribuiti al Magistrato alle acque quale Provveditorato alle opere pubbliche ai sensi del precedente comma, e' costituito presso il Magistrato medesimo un Comitato tecnico amministrativo, con le modalita' di cui al precedente art. 5.

@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il termine di cui all'[articolo 3, comma 1, del decreto-legge 13 settembre 1996, n. 475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-09-13;475#art_3-com1), convertito, con modificazioni, dalla [legge 5 novembre 1996, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-05;573), e' differito al 31 ottobre 1997 con riferimento al Consiglio universitario nazionale ed al 31 dicembre 1997 con riferimento al Consiglio nazionale della scienza e della tecnologia, in attesa del riordino dei due organi consultivi del Ministero dell'universita' e della ricerca scientifica e tecnologica.
+Il termine di cui all'[articolo 3, comma 1, del decreto-legge 13 settembre 1996, n. 475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-09-13;475#art_3-com1), convertito, con modificazioni, dalla [legge 5 novembre 1996, n. 573](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20settembre%201996%20n.%20475%20recante%20misure%20urgenti%20per%20le%20universita%20e%20gli%20enti%20di%20ricerca.md), e' differito al 31 ottobre 1997 con riferimento al Consiglio universitario nazionale ed al 31 dicembre 1997 con riferimento al Consiglio nazionale della scienza e della tecnologia, in attesa del riordino dei due organi consultivi del Ministero dell'universita' e della ricerca scientifica e tecnologica.
 
 ## Art. 2.
 

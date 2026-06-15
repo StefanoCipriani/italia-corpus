@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito 28 novembre 1869;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito 28 novembre 1869;
 
 Visto il Nostro decreto 15 gennaio 1885, n. 2884 (Serie 3ª), che stabilisce la circoscrizione giurisdizionale nella quale e' compreso il territorio della colonia italiana di Assab;
 

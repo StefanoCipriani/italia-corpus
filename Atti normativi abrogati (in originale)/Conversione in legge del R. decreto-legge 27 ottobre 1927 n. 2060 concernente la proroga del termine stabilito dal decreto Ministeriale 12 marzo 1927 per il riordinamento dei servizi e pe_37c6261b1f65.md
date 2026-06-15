@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2060](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-27;2060), concernente la proroga del termine stabilito dal decreto Ministeriale 12 marzo 1927, in applicazione del [R. decreto-legge 17 febbraio 1927, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;223), per il riordinamento dei servizi e per la epurazione del personale dipendente dal comune di Palermo. 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2060](Proroga%20del%20termine%20stabilito%20dal%20decreto%20Ministeriale%2012%20marzo%201927%20per%20lepurazione%20del%20personale%20dipendente%20dal%20comune%20di%20Palermo.%20027U2060.md), concernente la proroga del termine stabilito dal decreto Ministeriale 12 marzo 1927, in applicazione del [R. decreto-legge 17 febbraio 1927, n. 223](Norme%20per%20il%20riordinamento%20degli%20uffici%20e%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20dipendente%20dagli%20enti%20locali.%20027U0223.md), per il riordinamento dei servizi e per la epurazione del personale dipendente dal comune di Palermo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia incerta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

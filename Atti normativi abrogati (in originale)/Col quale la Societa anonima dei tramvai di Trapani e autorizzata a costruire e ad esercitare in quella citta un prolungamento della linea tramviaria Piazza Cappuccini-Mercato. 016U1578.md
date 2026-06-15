@@ -14,7 +14,7 @@ La «Societa' anonima dei tramvays di Trapani» e' autorizzata a costruire ed es
 
 ## Art. 2.
 
-Per l'impianto e l'esercizio del prolungamento suddetto, dovranno osservarsi, oltre le disposizioni di legge e regolamenti sopra citati, anche le norme contenute nel disciplinare 5 febbraio 1914, relative alla linea principale, ed approvato con [R. decreto 2 aprile 1914, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-04-02;444). Dovranno inoltre osservarsi le speciali disposizioni di sicurezza, che si riconosceranno necessarie all'atto del collaudo. 
+Per l'impianto e l'esercizio del prolungamento suddetto, dovranno osservarsi, oltre le disposizioni di legge e regolamenti sopra citati, anche le norme contenute nel disciplinare 5 febbraio 1914, relative alla linea principale, ed approvato con [R. decreto 2 aprile 1914, n. 444](Col%20quale%20la%20Societa%20anonima%20dei%20tramvai%20di%20Trapani%20e%20autorizzata%20a%20costruire%20e%20ad%20esercitare%20in%20quella%20citta%20una%20linea%20tramviaria%20dalla%20piazza%20dei%20Cappuccini%20a%20via%20Mercato.%20014U0444.md). Dovranno inoltre osservarsi le speciali disposizioni di sicurezza, che si riconosceranno necessarie all'atto del collaudo. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

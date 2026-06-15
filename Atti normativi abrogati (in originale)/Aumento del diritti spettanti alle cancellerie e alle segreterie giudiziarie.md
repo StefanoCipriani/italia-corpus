@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -41,7 +41,7 @@ L'importo dei diritti, di cui ai precedenti articoli 1 e 2, costituisce provento
 
 ### Art. 4.
 
-I diritti spettanti agli uffici delle cancellerie e delle segreterie giudiziarie in materia penale fino a quando la sentenza non sia eseguita, stabiliti con la tabella allegata al presente decreto, sono annotati e riscossi con le modalita' prescritte per le pene pecuniarie e per le spese di giustizia dalla tariffa penale, approvata con [regio decreto 23 dicembre 1865, n. 2701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-23;2701), e successive modificazioni.
+I diritti spettanti agli uffici delle cancellerie e delle segreterie giudiziarie in materia penale fino a quando la sentenza non sia eseguita, stabiliti con la tabella allegata al presente decreto, sono annotati e riscossi con le modalita' prescritte per le pene pecuniarie e per le spese di giustizia dalla tariffa penale, approvata con [regio decreto 23 dicembre 1865, n. 2701](Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), e successive modificazioni.
 
 ### Art. 5.
 
@@ -62,7 +62,7 @@ Nei decreti, con i quali si stabiliscono le spese degli uffici giudiziari, quell
 
 ### Art. 8.
 
-Presso i Tribunali e le Preture sui proventi riscossi nel bimestre si prelevano le somme indicate nell'[art. 9 del regio decreto 9 febbraio 1896, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-09;25#art_9).
+Presso i Tribunali e le Preture sui proventi riscossi nel bimestre si prelevano le somme indicate nell'[art. 9 del regio decreto 9 febbraio 1896, n. 25](Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md).
  Per la retribuzione del lavoro straordinario di copiatura non puo' prelevarsi una quota superiore ai cinque decimi delle somme che spettano alla cancelleria sui diritti di copia.
 
 ### Art. 9.
@@ -92,19 +92,19 @@ I funzionari di cancelleria e segreteria, che nella ripartizione bimestrale dei 
 
 ### Art. 14.
 
-Qualora, in applicazione dell'[art. 99, primo comma, del regio decreto-legge 8 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;745#art_99-com1), nelle cancellerie e segreterie giudiziarie siano assunti ai lavori di copiatura dattilografi o amanuensi, la retribuzione da corrispondere ai medesimi e' stabilita da una Commissione composta: per le Preture dal pretore e dal cancelliere dirigente; per i Tribunali dal presidente, dal procuratore della Repubblica, dal cancelliere capo e dal segretario capo; per le Corti dal primo presidente, dal procuratore generale, dal cancelliere capo e dal segretario capo.
+Qualora, in applicazione dell'[art. 99, primo comma, del regio decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), nelle cancellerie e segreterie giudiziarie siano assunti ai lavori di copiatura dattilografi o amanuensi, la retribuzione da corrispondere ai medesimi e' stabilita da una Commissione composta: per le Preture dal pretore e dal cancelliere dirigente; per i Tribunali dal presidente, dal procuratore della Repubblica, dal cancelliere capo e dal segretario capo; per le Corti dal primo presidente, dal procuratore generale, dal cancelliere capo e dal segretario capo.
 
 ### Art. 15.
 
-Il funzionario di cancelleria e di segreteria, incaricato di sostituire saltuariamente, in caso di mancanza, il cancelliere di un ufficio viciniore, ai sensi dell'[art. 13 del regio decreto-legge 14 novembre 1926, n. 1935](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1935#art_13), percepisce i proventi a sua scelta o nell'ufficio presso il quale presta saltuario servizio o in quello nel quale e' in pianta.
+Il funzionario di cancelleria e di segreteria, incaricato di sostituire saltuariamente, in caso di mancanza, il cancelliere di un ufficio viciniore, ai sensi dell'[art. 13 del regio decreto-legge 14 novembre 1926, n. 1935](Modificazioni%20al%20R.%20decreto-legge%208%20maggio%201924%20n.%20745%20e%20al%20R.%20decreto-legge%206%20novembre%201924%20n.%201762%20riguardanti%20il%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20026U1935.md), percepisce i proventi a sua scelta o nell'ufficio presso il quale presta saltuario servizio o in quello nel quale e' in pianta.
  I proventi, risultanti dopo i prelevamenti di cui agli articoli 8, 9 e 14 del presente decreto e non riscossi dal funzionario in uno dei due suindicati uffici, presso i quali egli presta servizio, sono trasmessi per intero alla segreteria della Procura generale.
 
 ### Art. 16.
 
-Nei primi cinque giorni di ogni bimestre il cancelliere della Pretura e le Commissioni indicate negli [articoli 13, primo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-09;25#art_13-com1), e [15, primo comma, del regio decreto 9 febbraio 1896, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-09;25#art_15-com1), provvedono alla compilazione dell'elenco dei funzionari aventi diritto ai proventi con la indicazione della quota a ciascuno assegnata.
+Nei primi cinque giorni di ogni bimestre il cancelliere della Pretura e le Commissioni indicate negli [articoli 13, primo comma](Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md), e [15, primo comma, del regio decreto 9 febbraio 1896, n. 25](Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md), provvedono alla compilazione dell'elenco dei funzionari aventi diritto ai proventi con la indicazione della quota a ciascuno assegnata.
  L'elenco e' reso noto mediante affissione in cancelleria.
  In caso di dissenso, gli interessati possono ricorrere nei tre
-giorni successivi rispettivamente al pretore o alle Commissioni di cui agli articoli 13, ultimo comma, e 15, ultimo comma, del [regio decreto 9 febbraio 1896, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-09;25).
+giorni successivi rispettivamente al pretore o alle Commissioni di cui agli articoli 13, ultimo comma, e 15, ultimo comma, del [regio decreto 9 febbraio 1896, n. 25](Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md).
 
 ### Art. 17.
 

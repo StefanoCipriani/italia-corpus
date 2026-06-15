@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1924, n. 1850](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1850), concernente il ripristino del Regio istituto superiore di medicina veterinaria di Parma. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1924, n. 1850](Ripristino%20del%20Regio%20istituto%20superiore%20di%20medicina%20veterinaria%20di%20Parma.%20024U1850.md), concernente il ripristino del Regio istituto superiore di medicina veterinaria di Parma. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

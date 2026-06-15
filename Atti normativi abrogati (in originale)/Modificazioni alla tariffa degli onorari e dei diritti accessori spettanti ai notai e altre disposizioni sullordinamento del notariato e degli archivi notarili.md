@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -28,7 +28,7 @@ Gli onorari previsti dall'art. 3 della tariffa, annessa alla [legge 16 febbraio 
 
 ## Art. 2.
 
-Gli onorari previsti dall'art. 4 della tariffa annessa alla [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), e successive modificazioni, sono dovuti al notaio nelle seguenti misure: L. 1000 per gli atti di consegna di testamento segreto; L. 600 per gli atti di deposito di testamento olografo; L. 30 per i certificati di vita per pensioni; L. 400 per gli atti di ratifica e per ogni altro atto di valore indeterminabile, compresi quelli indicati nell'[art. 18 lettera c) del regio decreto-legge 14 luglio 1937, n. 1666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-14;1666#art_18-letc), convertito, con modificazioni, nella [legge 30 dicembre 1937, n. 2358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-12-30;2358).
+Gli onorari previsti dall'art. 4 della tariffa annessa alla [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), e successive modificazioni, sono dovuti al notaio nelle seguenti misure: L. 1000 per gli atti di consegna di testamento segreto; L. 600 per gli atti di deposito di testamento olografo; L. 30 per i certificati di vita per pensioni; L. 400 per gli atti di ratifica e per ogni altro atto di valore indeterminabile, compresi quelli indicati nell'[art. 18 lettera c) del regio decreto-legge 14 luglio 1937, n. 1666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-14;1666#art_18-letc), convertito, con modificazioni, nella [legge 30 dicembre 1937, n. 2358](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20luglio%201937-XV%20n.%201666%20contenente%20modificazioni%20allordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20037U2358.md).
  L'onorario di L. 400 spetta anche per i contratti di liberazione di una parte dei beni immobili ipotecati quando manchi il corrispettivo convenuto.
  Per le firme e vidimazioni di libri commerciali l'onorario e' di L. 200.
 
@@ -54,7 +54,7 @@ L'onorario ad ore, di cui all'art. 13 della tariffa annessa alla [legge 16 febbr
 
 ## Art. 7.
 
-Il limite massimo dell'onorario di copia, di cui all'[art. 2 del decreto legislativo luogotenenziale 8 dicembre 1944, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-08;428#art_2), e' elevato a L. 1500 per le copie in forma esecutiva e a L. 1000 per le altre copie.
+Il limite massimo dell'onorario di copia, di cui all'[art. 2 del decreto legislativo luogotenenziale 8 dicembre 1944, n. 428](../Decreti%20legislativi%20luogotenenziali/Aumento%20della%20tariffa%20degli%20onorari%20e%20dei%20diritti%20notarili.%20044U0428.md), e' elevato a L. 1500 per le copie in forma esecutiva e a L. 1000 per le altre copie.
  L'onorario di copia non puo' in ogni caso essere inferiore a L. 80.
  Per le copie degli atti di valore indeterminabile l'onorario e' di L. 80 e per le copie ad uso dell'Ufficio del registro e' di L. 25.
 
@@ -96,7 +96,7 @@ Il diritto di scritturazione, di cui all'art. 23 della tariffa annessa alla [leg
 ## Art. 15.
 
 Il diritto di iscrizione a repertorio, di cui all'art. 24 della tariffa annessa alla [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), e successive modificazioni, e' dovuto nella misura di L. 50 per gli atti soggetti a registrazione e per quelli di ultima volonta', e nella misura di L. 20 per gli altri atti.
- La quota di tale diritto devoluta alla Cassa nazionale del notariato e' in ogni caso di L. 10, e viene riscossa, anche per gli atti soggetti a registrazione, a cura dell'Archivio notarile, osservate le norme degli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-14;1666#art_20) e [21 del regio decreto-legge 14 luglio 1937, n. 1666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-14;1666#art_21), convertito nella [legge 30 dicembre 1937, n. 2358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-12-30;2358).
+ La quota di tale diritto devoluta alla Cassa nazionale del notariato e' in ogni caso di L. 10, e viene riscossa, anche per gli atti soggetti a registrazione, a cura dell'Archivio notarile, osservate le norme degli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-14;1666#art_20) e [21 del regio decreto-legge 14 luglio 1937, n. 1666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-14;1666#art_21), convertito nella [legge 30 dicembre 1937, n. 2358](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20luglio%201937-XV%20n.%201666%20contenente%20modificazioni%20allordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20037U2358.md).
 
 ## Art. 16.
 
@@ -116,16 +116,16 @@ La tassa di ricerca, di un atto nell'indice generale stabilita dall'[art. 33 del
 
 ## Art. 20.
 
-La tassa di ricerca per le operazioni compiute sugli originali e sulle copie delle scritture private stabilita dall'[art. 5 del regio decreto-legge 12 dicembre 1926, n. 2167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-12;2167#art_5), e' aumentata del 500 per cento.
+La tassa di ricerca per le operazioni compiute sugli originali e sulle copie delle scritture private stabilita dall'[art. 5 del regio decreto-legge 12 dicembre 1926, n. 2167](Modificazioni%20alla%20tariffa%20degli%20onorari%20e%20diritti%20accessori%20spettanti%20ai%20notari%20e%20agli%20archivi%20notarili.%20026U2167.md), e' aumentata del 500 per cento.
 
 ## Art. 21.
 
-La tassa di archivio stabilita dall'[art. 10 del decreto legislativo luogotenenziale 8 dicembre 1944, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-08;428#art_10), e' dovuta anche per gli atti di deposito del testamento Olografo e di ricevimento del testamento pubblico o segreto.
+La tassa di archivio stabilita dall'[art. 10 del decreto legislativo luogotenenziale 8 dicembre 1944, n. 428](../Decreti%20legislativi%20luogotenenziali/Aumento%20della%20tariffa%20degli%20onorari%20e%20dei%20diritti%20notarili.%20044U0428.md), e' dovuta anche per gli atti di deposito del testamento Olografo e di ricevimento del testamento pubblico o segreto.
  La tassa medesima e' dovuta anche in base ai supplementi di onorario liquidati a favore della Cassa nazionale del notariato a norma dell'art. 12 del decreto anzidetto, e viene riscossa per questa parte dagli Uffici del registro che ne versano l'importo all'Amministrazione degli archivi notarili dopo aver prelevato l'aggio del 5 per cento.
 
 ## Art. 22.
 
-All'[art. 5 del regio decreto-legge 8 gennaio 1920, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-01-08;81#art_5), e' sostituito il seguente:
+All'[art. 5 del regio decreto-legge 8 gennaio 1920, n. 81](Contenente%20norme%20per%20il%20conferimento%20dei%20posti%20vacanti%20negli%20archivi%20notarili%20distrettuali%20e%20sussidiari.%20020U0081.md), e' sostituito il seguente:
  "Quando negli Archivi notarili vi sia mancanza di assistenti o di personale subalterno, ai lavori di copiatura ed a quelli di custodia e pulizia dei locali potra' provvedersi, sotto la responsabilita' del conservatore o di chi ne fa le veci, mediante prestazioni di opera da parte di privati, da retribuirsi nella misura che verra' determinata caso per caso dal Ministero di grazia e giustizia.
  La precedente disposizione si applica anche agli Archivi notarili sussidiari. A questi ultimi si applica anche il disposto dell'art. 112, capoverso 8°, della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), e successive modificazioni".
 

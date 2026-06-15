@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto n. 3173 del 31 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3173);
+Visto il [R. decreto n. 3173 del 31 dicembre 1923](Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md);
 
-Visto il [R. decreto-legge n. 596 del 30 aprile 1924](Istituzione%20del%20Ministero%20delle%20comunicazioni.%20024U0596.md), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge n. 596 del 30 aprile 1924](Istituzione%20del%20Ministero%20delle%20comunicazioni.%20024U0596.md), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il [R. decreto-legge n. 2231 del 30 ottobre 1924](Ordinamento%20definitivo%20dei%20servizi%20postali%20e%20commerciali%20marittimi%20sovvenzionati.%20024U2231.md), convertito in [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge n. 2231 del 30 ottobre 1924](Ordinamento%20definitivo%20dei%20servizi%20postali%20e%20commerciali%20marittimi%20sovvenzionati.%20024U2231.md), convertito in [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni di c
 
 ## Articolo unico.
 
-Per provvedere all'esercizio dei servizi marittimi sovvenzionati riordinati dal 1° gennaio 1926 in base al [R. decreto n. 3173 del 31 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3173), sono autorizzate le spese indicate per i seguenti esercizi finanziari:
+Per provvedere all'esercizio dei servizi marittimi sovvenzionati riordinati dal 1° gennaio 1926 in base al [R. decreto n. 3173 del 31 dicembre 1923](Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), sono autorizzate le spese indicate per i seguenti esercizi finanziari:
 
 Esercizio
                                 Pei servizi indispensabili a contratto ventennale

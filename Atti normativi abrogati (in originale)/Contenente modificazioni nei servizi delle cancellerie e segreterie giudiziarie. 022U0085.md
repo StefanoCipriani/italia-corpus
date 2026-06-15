@@ -32,7 +32,7 @@ Quando sia necessaria la costituzione della tutela del condannato, il pubblico m
 
 ## Art. 3.
 
-Il decreto di citazione, con la trascrizione dell'[art. 210 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_210), e' consegnato all'ufficiale giudiziario dalla cancelleria della Corte, del tribunale o della pretura, un numero di stampati uguale a quello delle persone da citarsi, perche' l'ufficiale giudiziario faccia su di essi la notificazione.
+Il decreto di citazione, con la trascrizione dell'[art. 210 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' consegnato all'ufficiale giudiziario dalla cancelleria della Corte, del tribunale o della pretura, un numero di stampati uguale a quello delle persone da citarsi, perche' l'ufficiale giudiziario faccia su di essi la notificazione.
 
 ## Art. 4.
 

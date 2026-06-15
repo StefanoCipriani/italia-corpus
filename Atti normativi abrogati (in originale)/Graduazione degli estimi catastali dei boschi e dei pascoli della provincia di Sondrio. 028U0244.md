@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 1° marzo 1886, n. 3682](Riordinamento%20dellimposta%20fondiaria.%20086U3682.md) (serie 3ª), sul riordinamento dell'imposta fondiaria;
 
-Visto il [R. decreto 7 gennaio 1923, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;17), per la revisione generale degli estimi catastali;
+Visto il [R. decreto 7 gennaio 1923, n. 17](Che%20dispone%20la%20revisione%20generale%20degli%20estimi%20catastali.%20023U0017.md), per la revisione generale degli estimi catastali;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze; Abbiamo decretato e decretiamo:
 
 ## Articolo unico.
 
-Per i terreni della provincia di Sondrio qualificati come boschi e pascoli o con altre voci affini come zerbi e simili, l'imposta e' applicata a datare dal 1° gennaio 1928 sopra meta' degli estimi del vigente catasto, riveduti agli effetti del [R. decreto 7 gennaio 1923, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;17), e sopra meta' di quelli del nuovo catasto, fino alla attivazione, in tutta la provincia, del nuovo catasto ordinato dalla [legge 1° marzo 1886, numero 3682](Riordinamento%20dellimposta%20fondiaria.%20086U3682.md) (serie 3ª). 
+Per i terreni della provincia di Sondrio qualificati come boschi e pascoli o con altre voci affini come zerbi e simili, l'imposta e' applicata a datare dal 1° gennaio 1928 sopra meta' degli estimi del vigente catasto, riveduti agli effetti del [R. decreto 7 gennaio 1923, n. 17](Che%20dispone%20la%20revisione%20generale%20degli%20estimi%20catastali.%20023U0017.md), e sopra meta' di quelli del nuovo catasto, fino alla attivazione, in tutta la provincia, del nuovo catasto ordinato dalla [legge 1° marzo 1886, numero 3682](Riordinamento%20dellimposta%20fondiaria.%20086U3682.md) (serie 3ª). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' incaricato di presentare il relativo disegno di legge. 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 1 del R. decreto-legge 16 agosto 1926, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-16;1491#art_1), convertito nella [legge 14 aprile 1927, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-04-14;633);
+Visto l'[art. 1 del R. decreto-legge 16 agosto 1926, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-16;1491#art_1), convertito nella [legge 14 aprile 1927, n. 633](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20agosto%201926%20n.%201491%20recante%20provvedimenti%20per%20la%20sistemazione%20delle%20Regie%20fonti%20demaniali%20di%20Recoaro%20e%20per%20le%20espropriazioni%20alluopo%20necessarie.%20027U0633.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto con quelli per l'interno e per i lavori pubblici; Abbiamo decretato e decretiamo:
 

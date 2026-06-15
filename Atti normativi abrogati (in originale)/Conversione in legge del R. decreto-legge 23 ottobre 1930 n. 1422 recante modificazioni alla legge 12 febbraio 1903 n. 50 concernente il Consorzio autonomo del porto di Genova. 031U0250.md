@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-23;1422), recante modificazioni alla [legge 12 febbraio 1903, n. 50](Costituzione%20di%20un%20consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20003U0050.md), concernente il Consorzio autonomo del porto di Genova. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1422](Modificazioni%20alla%20legge%2012%20febbraio%201903%20n.%2050%20concernente%20il%20consorzio%20autonomo%20del%20porto%20di%20Genova.%20030U1422.md), recante modificazioni alla [legge 12 febbraio 1903, n. 50](Costituzione%20di%20un%20consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20003U0050.md), concernente il Consorzio autonomo del porto di Genova. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

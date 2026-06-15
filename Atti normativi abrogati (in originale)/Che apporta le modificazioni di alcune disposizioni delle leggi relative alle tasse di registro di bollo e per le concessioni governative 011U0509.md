@@ -40,7 +40,7 @@ Le private scritture di vendita o promesse di vendita contemplate dall'art. 4, n
  
  In tal caso le scritture sono registrate col pagamento della tassa di centesimi dieci, oltre i decimi, per ogni 100 lire dei corrispettivi pattuiti. 
  
- Non sono applicabili a tali scritture gli aumenti di tassa di cui nell'articolo 8 del testo unico delle leggi sulle tasse di registro approvato con [regio decreto 20 maggio 1897, n.217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-05-20;217). 
+ Non sono applicabili a tali scritture gli aumenti di tassa di cui nell'articolo 8 del testo unico delle leggi sulle tasse di registro approvato con [regio decreto 20 maggio 1897, n.217](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20tasse%20di%20registro.%20097U0217.md). 
  
  Agli effetti della trascrizione di cui all'articolo 773, n 3 del Codice di commercio, la tassa di cui nel presente articolo si riscuote mediante registrazione del documento che si deposita per la trascrizione, qualora non risulti gia' pagata.
 
@@ -134,7 +134,7 @@ Se il prezzo convenuto nei trasferimenti a titolo oneroso e' riputato inferiore 
 
 La parte contro la quale e' domandata la stima dovra', entro dieci giorni dalla ricevuta intimazione, notificare alla parte istante la propria adesione al valore da questa reclamato. Trascorso inutilmente questo termine, si procedera' alla stima, che sara' ordinata entro quindici giorni da quello della richiesta, che ne sara' fatta al presidente del tribunale. 
  
- Le spese del giudizio di stima sommariamente tassate dal presidente del tribunale, saranno a carico dell'erario o del contribuente, secondo che il valore accertato non eccedera' o superera' rispettivamente il sesto e l'ottavo di cui all'articolo precedente e all'art.24 del tasto unico delle leggi di registro approvato con [Regio decreto 20 maggio 1897, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-05-20;217). 
+ Le spese del giudizio di stima sommariamente tassate dal presidente del tribunale, saranno a carico dell'erario o del contribuente, secondo che il valore accertato non eccedera' o superera' rispettivamente il sesto e l'ottavo di cui all'articolo precedente e all'art.24 del tasto unico delle leggi di registro approvato con [Regio decreto 20 maggio 1897, n. 217](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20tasse%20di%20registro.%20097U0217.md). 
  
  Il calcolo dell'insufficenza sara' fatto confrontando il valore stabilito nella perizia giudiziale e quello dichiarato nell'atto o nella denunzia, aumentato soltanto delle offerte presentate nei dieci giorni dalla notifica della domanda di stima. 
  
@@ -252,7 +252,7 @@ E' stabilito in sei mesi il termine per ricorrere all'autorita' giudiziaria in t
 
 ### Art. 34.
 
-E' abrogata la duplicazione delle sopratasse e pene pecuniarie stabilita dall' art. 99 della legge sulle tasse di registro (testo unico approvato col [Regio decreto 20 maggio 1897, n. 217) e dall'art. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-05-20;217#art_56), ultimo capoverso della legge sulle tasse di bollo (testo unico approvato col [Regio decreto 4 luglio 1897, n. 414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-07-04;414)).
+E' abrogata la duplicazione delle sopratasse e pene pecuniarie stabilita dall' art. 99 della legge sulle tasse di registro (testo unico approvato col [Regio decreto 20 maggio 1897, n. 217) e dall'art. 56](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20tasse%20di%20registro.%20097U0217.md), ultimo capoverso della legge sulle tasse di bollo (testo unico approvato col [Regio decreto 4 luglio 1897, n. 414](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md)).
 
 ### Art. 35.
 

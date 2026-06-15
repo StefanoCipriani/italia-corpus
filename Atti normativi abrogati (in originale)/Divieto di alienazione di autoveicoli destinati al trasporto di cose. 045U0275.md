@@ -16,19 +16,19 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto [R. decreto-legge 10 febbraio 1942, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-02-10;75), convertito nella [legge 27 giugno 1942, n. 789](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-06-27;789), contenente le norme per la denuncia degli autoveicoli immatricolati anteriormente al 1° gennaio 1930, e le successive disposizioni di attuazione;
+Visto [R. decreto-legge 10 febbraio 1942, n. 75](Norme%20per%20la%20denuncia%20degli%20autoveicoli%20immatricolati%20anteriormente%20al%201%20gennaio%201930-VIII.%20042U0075.md), convertito nella [legge 27 giugno 1942, n. 789](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2010%20febbraio%201942-XX%20n.%2075%20concernente%20norme%20per%20la%20denuncia%20degli%20autoveicoli%20immatricolati%20anteriormente%20al%201%20gennaio%201930-VIII.%20042U0789.md), contenente le norme per la denuncia degli autoveicoli immatricolati anteriormente al 1° gennaio 1930, e le successive disposizioni di attuazione;
 
-Visto il [R. decreto-legge 10 marzo 1944, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-10;83), che concerne la denuncia obbligatoria di tutti gli autoveicoli immatricolati anteriormente al 1° gennaio 1930;
+Visto il [R. decreto-legge 10 marzo 1944, n. 83](Denunzia%20obbligatoria%20di%20tutti%20gli%20autoveicoli%20immatricolati%20anteriormente%20al%201%20gennaio%201930.%20044U0083.md), che concerne la denuncia obbligatoria di tutti gli autoveicoli immatricolati anteriormente al 1° gennaio 1930;
 
-Visto il [R. decreto-legge 5 aprile 1944, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-04-05;105), che dispone il censimento degli autoveicoli nelle provincie liberate;
+Visto il [R. decreto-legge 5 aprile 1944, n. 105](Censimento%20degli%20autoveicoli%20nelle%20province%20liberate.%20044U0105.md), che dispone il censimento degli autoveicoli nelle provincie liberate;
 
-Visto il [decreto legislativo Luogotenenziale 10 agosto 1944, n. 223](Norme%20integrative%20dei%20Regi%20decreti-legge%2010%20febbraio%201942%20n.%2075%2010%20marzo%201944%20n.%2083%20e%205%20aprile%201944%20n.%20105%20relativi%20alla%20denuncia%20obbligatoria%20di%20tutti%20gli%20autoveicoli%20immatricolati%20anter_20837070d079.md), contenente le norme integrative dei [Regi decreti-legge 10 febbraio 1942, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-02-10;75), [10 marzo 1944, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-10;83), e [5 aprile 1944, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-04-05;105), relativi alla denuncia obbligatoria di tutti gli autoveicoli immatricolati anteriormente al 1° gennaio 1930 ed al censimento degli autoveicoli nelle provincie liberate;
+Visto il [decreto legislativo Luogotenenziale 10 agosto 1944, n. 223](Norme%20integrative%20dei%20Regi%20decreti-legge%2010%20febbraio%201942%20n.%2075%2010%20marzo%201944%20n.%2083%20e%205%20aprile%201944%20n.%20105%20relativi%20alla%20denuncia%20obbligatoria%20di%20tutti%20gli%20autoveicoli%20immatricolati%20anter_20837070d079.md), contenente le norme integrative dei [Regi decreti-legge 10 febbraio 1942, n. 75](Norme%20per%20la%20denuncia%20degli%20autoveicoli%20immatricolati%20anteriormente%20al%201%20gennaio%201930-VIII.%20042U0075.md), [10 marzo 1944, n. 83](Denunzia%20obbligatoria%20di%20tutti%20gli%20autoveicoli%20immatricolati%20anteriormente%20al%201%20gennaio%201930.%20044U0083.md), e [5 aprile 1944, n. 105](Censimento%20degli%20autoveicoli%20nelle%20province%20liberate.%20044U0105.md), relativi alla denuncia obbligatoria di tutti gli autoveicoli immatricolati anteriormente al 1° gennaio 1930 ed al censimento degli autoveicoli nelle provincie liberate;
 
 Visto il [decreto legislativo Luogotenenziale 17 agosto 1944, n. 188](Istituzione%20dellEnte%20Nazionale%20Autotrasporti%20di%20Cose%20E.N.A.C..%20044U0188.md), che istituisce l'Ente Nazionale Autotrasporti di Cose (E.N.A.C.);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e successive modificazioni;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e successive modificazioni;
 
 Vista la deliberazione del Consiglio dei Ministri;
 

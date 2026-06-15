@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 maggio 1926, n. 872](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-20;872), riguardante la proroga delle agevolazioni tributarie in favore delle Provincie meridionali e delle Isole. 
+ E' convertito in legge il [R. decreto-legge 20 maggio 1926, n. 872](Proroga%20delle%20agevolazioni%20tributarie%20in%20favore%20delle%20Provincie%20meridionali%20e%20delle%20Isole.%20026U0872.md), riguardante la proroga delle agevolazioni tributarie in favore delle Provincie meridionali e delle Isole. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

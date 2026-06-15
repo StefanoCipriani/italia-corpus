@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Vista la legge 11 marzo 1926-IV, n. 397, e le successive aggiunte e modificazioni;
 
-Visto il R. decreto-legge 20 luglio 1934-XII, n. 1302, convertito nella [legge 4 aprile 1935, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;808), con le successive modificazioni, sulle indennita' dovute al personale dell'Amministrazione aeronautica;
+Visto il R. decreto-legge 20 luglio 1934-XII, n. 1302, convertito nella [legge 4 aprile 1935, n. 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md), con le successive modificazioni, sulle indennita' dovute al personale dell'Amministrazione aeronautica;
 
 Visto il R. decreto-legge 28 gennaio 1935-XIII, n. 314, convertito nella legge 13 giugno 1935-XIII, n. 1297, e le successive aggiunte e modificazioni;
 

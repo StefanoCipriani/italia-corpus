@@ -16,9 +16,9 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 20 dicembre 1923; n. 2957](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-20;2957);
+Visto il [R. decreto 20 dicembre 1923; n. 2957](Ordinamento%20definitivo%20della%20Commissione%20Suprema%20di%20difesa.%20023U2957.md);
 
-Vista la [legge 21 maggio 1940, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-21;416);
+Vista la [legge 21 maggio 1940, n. 416](Ordinamento%20e%20compiti%20della%20Commissione%20Suprema%20di%20difesa.%20040U0416.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

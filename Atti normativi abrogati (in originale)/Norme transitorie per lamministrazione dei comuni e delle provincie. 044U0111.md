@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 
-Visto il T.U. della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);
+Visto il T.U. della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
@@ -48,7 +48,7 @@ Il sindaco, in caso di assenza o impedimento, e' sostituito dall'assessore deleg
 
 ## Art. 3.
 
-Spetta alla giunta municipale di deliberare sulle materie per le quali nel [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato con [R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839), era stabilita la competenza della giunta e del consiglio municipale, salvo le disposizioni delle leggi speciali in vigore.
+Spetta alla giunta municipale di deliberare sulle materie per le quali nel [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato con [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), era stabilita la competenza della giunta e del consiglio municipale, salvo le disposizioni delle leggi speciali in vigore.
 
 ## Art. 4.
 
@@ -68,7 +68,7 @@ Il presidente inoltre convoca e presiede la deputazione provinciale, stabilendo 
 
 ## Art. 6.
 
-Spetta alla deputazione provinciale di deliberare su tutte le materie per le quali nel [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato con [R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839), era stabilita la competenza della deputazione e del consiglio provinciale, salvo le disposizioni delle leggi speciali in vigore.
+Spetta alla deputazione provinciale di deliberare su tutte le materie per le quali nel [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato con [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), era stabilita la competenza della deputazione e del consiglio provinciale, salvo le disposizioni delle leggi speciali in vigore.
 
 ## Art. 7.
 
@@ -76,7 +76,7 @@ Oltre i casi previsti dal T.U. 4 febbraio 1915, n. 148, non possano essere nomin
 
 ## Art. 8.
 
-La composizione, la convocazione e il funzionamento della giunta comunale e della deputazione sono regolate dalle disposizioni del T.U. 4 febbraio 1915, n. 148, modificato con [R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839). 
+La composizione, la convocazione e il funzionamento della giunta comunale e della deputazione sono regolate dalle disposizioni del T.U. 4 febbraio 1915, n. 148, modificato con [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
  
  Le deliberazioni del sindaco, della giunta municipale, del presidente della deputazione provinciale sono soggette ai controlli di legittimita' e di merito attribuiti agli organi governativi dalle vigenti disposizioni di legge.
 

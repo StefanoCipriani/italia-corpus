@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 novembre 1934, n. 1810](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-11-04;1810), recante provvidenze in materia di credito fondiario. 
+ E' convertito in legge il [R. decreto-legge 4 novembre 1934, n. 1810](Provvidenze%20in%20materia%20di%20credito%20fondiario.%20034U1810.md), recante provvidenze in materia di credito fondiario. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

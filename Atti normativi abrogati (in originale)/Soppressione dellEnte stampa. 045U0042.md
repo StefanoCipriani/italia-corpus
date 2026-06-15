@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 4 aprile 1940, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-04-04;300), sulla istituzione dell'Ente stampa, modificata dalle [leggi 30 gennaio 1941, n. 205, e 22 gennaio 1942, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-22;102);
+Vista la [legge 4 aprile 1940, n. 300](Istituzione%20dellEnte%20Stampa.%20040U0300.md), sulla istituzione dell'Ente stampa, modificata dalle [leggi 30 gennaio 1941, n. 205, e 22 gennaio 1942, n. 102](Modificazioni%20alla%20legge%204%20aprile%201940-XVIII%20n.%20300%20istitutiva%20dellEnte%20stampa.%20042U0102.md);
 
 Visti i [decreti Luogotenenziali 3 luglio 1944, n. 163](Soppressione%20del%20Ministeroper%20la%20cultura%20popolare%20e%20istituzione%20di%20un%20Sottosegretariato%20per%20la%20stampa%20e%20le%20informazioni.%20044U0163.md), e [12 dicembre 1944, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-12;407), riguardanti il Sottosegretariato di Stato per la stampa, spettacolo e turismo;
 

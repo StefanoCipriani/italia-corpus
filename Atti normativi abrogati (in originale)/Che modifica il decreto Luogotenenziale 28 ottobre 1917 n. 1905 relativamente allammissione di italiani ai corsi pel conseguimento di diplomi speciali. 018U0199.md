@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduto l'art. 17 del testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795); 
+ Veduto l'art. 17 del testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md); 
  
  Veduto il Nostro decreto 28 ottobre 1917, n. 1905, che autorizza le Universita' Regie a rilasciare diplomi speciali a titolo di particolare cultura scientifica, in una speciale disciplina; 
  

@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il R. decreto-legge 29 agosto 1941-XIX, n. 1093, concernente la proroga del termine stabilito dall'[art. 2 del R. decreto-legge 16 gennaio 1941, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-01-16;30#art_2), relativo alla presentazione da parte del commissario straordinario dell'Istituto nazionale di credito per il lavoro italiano all'estero, dello stato di consistenza patrimoniale dell'Istituto medesimo, con la seguente modificazione:
+ E' convertito in legge il R. decreto-legge 29 agosto 1941-XIX, n. 1093, concernente la proroga del termine stabilito dall'[art. 2 del R. decreto-legge 16 gennaio 1941, n. 30](Scioglimento%20del%20Consiglio%20di%20amministrazione%20dellIstituto%20nazionale%20di%20credito%20per%20il%20lavoro%20degli%20italiani%20allestero%20e%20nomina%20di%20un%20commissario%20straordinario.%20041U0030.md), relativo alla presentazione da parte del commissario straordinario dell'Istituto nazionale di credito per il lavoro italiano all'estero, dello stato di consistenza patrimoniale dell'Istituto medesimo, con la seguente modificazione:
 all'art. 1 le parole: «e' prorogato al 31 marzo 1942-XX», sono sostituite dalle altre: «e' prorogato al 31 dicembre 1942-XXI». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare, come legge dello Stato. 

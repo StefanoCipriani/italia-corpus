@@ -14,7 +14,7 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di differimento di termini previsti da disposizioni legislative in tema di avanzamento degli ufficiali;
 
-Ritenuta la necessita' di apportare modifiche alle modalita' di corresponsione degli emolumenti arretrati al personale di cui al [decreto-legge 7 gennaio 1992, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5), convertito, con modificazioni, dalla [legge 6 marzo 1992, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216);
+Ritenuta la necessita' di apportare modifiche alle modalita' di corresponsione degli emolumenti arretrati al personale di cui al [decreto-legge 7 gennaio 1992, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5), convertito, con modificazioni, dalla [legge 6 marzo 1992, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 luglio 1993;
 
@@ -26,13 +26,13 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Le disposizioni di cui ai [commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404#art_1-com2) e [3 dell'articolo 1 della legge 27 dicembre 1990, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404#art_1-com3), sono ulteriormente prorogate fino al 31 dicembre 1994.
+Le disposizioni di cui ai [commi 2](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md) e [3 dell'articolo 1 della legge 27 dicembre 1990, n. 404](Nuove%20norme%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20e%20sottufficiali%20delle%20Forze%20armate%20e%20del%20Corpo%20della%20guardia%20di%20finanza.md), sono ulteriormente prorogate fino al 31 dicembre 1994.
 
 ## Art. 2.
 
 1.
 
-In deroga a quanto previsto dall'[articolo 2, comma 2, lettera b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5#art_2-com2-letb), e dall'[articolo 4, comma 2, lettera c), del decreto-legge 7 gennaio 1992, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5#art_4-com2-letc), convertito, con modificazioni, dalla [legge 6 marzo 1992, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216), nell'anno 1993 le amministrazioni interessate sono autorizzate a corrispondere a ciascun beneficiario un acconto non superiore al 72 per cento delle competenze spettanti per l'anno 1994 ai sottufficiali dell'Arma dei carabinieri, del Corpo della guardia di finanza, nonche' al personale di cui all'articolo 4, comma 1, del citato [decreto-legge n. 5 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992;5).
+In deroga a quanto previsto dall'[articolo 2, comma 2, lettera b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5#art_2-com2-letb), e dall'[articolo 4, comma 2, lettera c), del decreto-legge 7 gennaio 1992, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5#art_4-com2-letc), convertito, con modificazioni, dalla [legge 6 marzo 1992, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), nell'anno 1993 le amministrazioni interessate sono autorizzate a corrispondere a ciascun beneficiario un acconto non superiore al 72 per cento delle competenze spettanti per l'anno 1994 ai sottufficiali dell'Arma dei carabinieri, del Corpo della guardia di finanza, nonche' al personale di cui all'articolo 4, comma 1, del citato [decreto-legge n. 5 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992;5).
 
 2.
 

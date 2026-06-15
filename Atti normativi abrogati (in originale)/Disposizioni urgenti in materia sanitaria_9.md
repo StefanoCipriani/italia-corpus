@@ -44,7 +44,7 @@ All'[articolo 7, comma primo, della legge 24 luglio 1985, n. 409](../Atti%20di%2
 
 1.
 
-All'[articolo 8 del decreto legislativo 15 gennaio 1992, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-15;51#art_8), dopo il comma 1 e' aggiunto il seguente: 
+All'[articolo 8 del decreto legislativo 15 gennaio 1992, n. 51](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2085-73-CEE%20e%20n.%2088-409-CEE%20in%20materia%20di%20finanziamento%20delle%20ispezioni%20e%20dei%20controlli%20sanitari%20delle%20carni%20fresche%20e%20delle%20carni%20di%20volatili%20da%20cortile.md), dopo il comma 1 e' aggiunto il seguente: 
  "1-bis. Fino alla data del 31 dicembre 1994 resta in vigore il tasso di conversione pubblicato nella Gazzetta Ufficiale delle Comunita' europee il 1 settembre 1992.".
 
 ## Art. 4.
@@ -111,7 +111,7 @@ A decorrere dalla data di entrata in vigore del presente decreto, il divieto di 
 
 2.
 
-La pubblicita' al pubblico dei prodotti di cui al comma 1, qualora ne suggerisca l'idoneita' all'uso nell'ambito di diete finalizzate al dimagramento o alla riduzione del peso, e' sottoposta alla disciplina prevista dall'[articolo 201, terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201-com3), [quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201-com4) e [quinto comma, del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201-com5), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), come sostituito dall'[articolo 7 della legge 1 maggio 1941, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-05-01;422#art_7), secondo le modalita' di cui al decreto del Ministro della sanita' 6 ottobre 1993, pubblicato nella Gazzetta Ufficiale n. 237 dell'8 ottobre 1993, i cui effetti sono differiti a novanta giorni dopo la data di entrata in vigore della legge di conversione del presente decreto.
+La pubblicita' al pubblico dei prodotti di cui al comma 1, qualora ne suggerisca l'idoneita' all'uso nell'ambito di diete finalizzate al dimagramento o alla riduzione del peso, e' sottoposta alla disciplina prevista dall'[articolo 201, terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201-com3), [quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201-com4) e [quinto comma, del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201-com5), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), come sostituito dall'[articolo 7 della legge 1 maggio 1941, n. 422](Modificazioni%20ed%20aggiunte%20ad%20alcuni%20articoli%20del%20testo%20unico%20delle%20leggi%20sanitarie%20approvato%20con%20R.%20decreto%2027%20luglio%201934-XII%20n.%201265.%20041U0422.md), secondo le modalita' di cui al decreto del Ministro della sanita' 6 ottobre 1993, pubblicato nella Gazzetta Ufficiale n. 237 dell'8 ottobre 1993, i cui effetti sono differiti a novanta giorni dopo la data di entrata in vigore della legge di conversione del presente decreto.
 
 3.
 
@@ -140,7 +140,7 @@ Le disposizioni di cui al [secondo comma dell'articolo 36 del regio decreto 18 n
 
 1.
 
-A decorrere dal 1 gennaio 1995, le strutture sanitarie esistenti presso il Ministero degli affari esteri, previste dall'[articolo 3, secondo comma, del decreto del Presidente della Repubblica 31 luglio 1980, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;618#art_3-com2), sono direttamente gestite dal Ministero della sanita'.
+A decorrere dal 1 gennaio 1995, le strutture sanitarie esistenti presso il Ministero degli affari esteri, previste dall'[articolo 3, secondo comma, del decreto del Presidente della Repubblica 31 luglio 1980, n. 618](../DPR/Assistenza%20sanitaria%20ai%20cittadini%20italiani%20allestero%20art.%2037%20primo%20comma%20lettere%20a%20e%20b%20della%20legge%20n.%20833%20del%201978.md), sono direttamente gestite dal Ministero della sanita'.
 
 2.
 
@@ -152,7 +152,7 @@ Gli oneri derivanti dalla convenzione di cui al comma 2 sono contenuti nei limit
 
 4.
 
-Il [comma terzo dell'articolo 3 del decreto del Presidente della Repubblica 31 luglio 1980, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;618#art_3-com3), e' abrogato.
+Il [comma terzo dell'articolo 3 del decreto del Presidente della Repubblica 31 luglio 1980, n. 618](../DPR/Assistenza%20sanitaria%20ai%20cittadini%20italiani%20allestero%20art.%2037%20primo%20comma%20lettere%20a%20e%20b%20della%20legge%20n.%20833%20del%201978.md), e' abrogato.
 
 ## Art. 9.
 
@@ -186,7 +186,7 @@ L'[articolo 2 della legge 25 febbraio 1992, n. 210](https://www.normattiva.it/ur
 
 1.
 
-Il Ministero della sanita' per la formulazione dei pareri medico-legali, ha facolta' di sottoporre gli interessati a visita di controllo al fine di acquisire tutti gli elementi per un giudizio diagnostico ed una sicura applicazione delle tabelle A e B di cui al [decreto del Presidente della Repubblica 30 dicembre 1981, n. 834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-12-30;834). Le visite di controllo, che possono essere richieste anche da pubbliche amministrazioni e dagli interessati, sono effettuate, nei casi in cui sia ritenuto necessario, da un collegio medico costituito dal direttore dell'ufficio medico legale, che lo presiede, da un medico del predetto servizio, relatore, e da un esperto scelto tra i docenti universitari e dirigenti del Servizio sanitario nazionale.
+Il Ministero della sanita' per la formulazione dei pareri medico-legali, ha facolta' di sottoporre gli interessati a visita di controllo al fine di acquisire tutti gli elementi per un giudizio diagnostico ed una sicura applicazione delle tabelle A e B di cui al [decreto del Presidente della Repubblica 30 dicembre 1981, n. 834](../DPR/Definitivo%20riordinamento%20delle%20pensioni%20di%20guerra%20in%20attuazione%20della%20delega%20prevista%20dallart.%201%20della%20legge%2023%20settembre%201981%20n.%20533.md). Le visite di controllo, che possono essere richieste anche da pubbliche amministrazioni e dagli interessati, sono effettuate, nei casi in cui sia ritenuto necessario, da un collegio medico costituito dal direttore dell'ufficio medico legale, che lo presiede, da un medico del predetto servizio, relatore, e da un esperto scelto tra i docenti universitari e dirigenti del Servizio sanitario nazionale.
 
 ## Art. 12.
 
@@ -236,7 +236,7 @@ I presidi sanitari pubblici e privati sono tenuti a comunicare al Ministero dell
 
 5.
 
-L'utilizzo di cittadini stranieri con i contratti biennali di diritto privato stipulati ai sensi dell'[articolo 9, comma 4, del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_9-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), e' consentito fino al 31 dicembre 1994.
+L'utilizzo di cittadini stranieri con i contratti biennali di diritto privato stipulati ai sensi dell'[articolo 9, comma 4, del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_9-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), e' consentito fino al 31 dicembre 1994.
 
 ## Art. 16.
 
@@ -262,7 +262,7 @@ Fino alla riorganizzazione delle funzioni assistenziali dei policlinici universi
 
 2.
 
-Nei concorsi pubblici, aperti a tutti, per la copertura dei posti che risultino vacanti a seguito della ridefinizione delle piante organiche di cui al comma 1, il servizio reso dal personale confermato e' valutato tra i titoli di carriera come servizio reso nella posizione funzionale iniziale con un incremento pari al venticinque per cento del punteggio complessivamente attribuibile. Il personale confermato ai sensi del comma 1 deve dichiarare di non versare nelle condizioni di incompatibilita' indicate dall'[articolo 4 della legge 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412#art_4), e che nei suoi confronti non trova applicazione l'[articolo 8, commi 1- bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_8-com1bis) e [8, del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_8-com8), come modificato dal [decreto legislativo 7 dicembre 1993, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517).
+Nei concorsi pubblici, aperti a tutti, per la copertura dei posti che risultino vacanti a seguito della ridefinizione delle piante organiche di cui al comma 1, il servizio reso dal personale confermato e' valutato tra i titoli di carriera come servizio reso nella posizione funzionale iniziale con un incremento pari al venticinque per cento del punteggio complessivamente attribuibile. Il personale confermato ai sensi del comma 1 deve dichiarare di non versare nelle condizioni di incompatibilita' indicate dall'[articolo 4 della legge 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md), e che nei suoi confronti non trova applicazione l'[articolo 8, commi 1- bis](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e [8, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dal [decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 ## Art. 19.
 

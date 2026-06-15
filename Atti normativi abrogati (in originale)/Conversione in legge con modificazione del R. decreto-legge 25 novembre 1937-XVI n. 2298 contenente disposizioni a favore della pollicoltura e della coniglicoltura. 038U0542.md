@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 novembre 1937, n. 2298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-11-25;2298), contenente disposizioni a favore della pollicoltura e della coniglicoltura, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 25 novembre 1937, n. 2298](Disposizioni%20a%20favore%20della%20pollicoltura%20e%20della%20coniglicoltura.%20037U2298.md), contenente disposizioni a favore della pollicoltura e della coniglicoltura, con la seguente modificazione: 
  
  All'art. 8, le parole «A partire dal 1° luglio 1938-XVI...», sono sostituite dalle seguenti: «A partire dal 1° gennaio 1939-XVII...». 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 28 novembre 1929, n. 2234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-28;2234), col quale il territorio dell'Istria fu classificato fra i comprensori soggetti a trasformazione fondiaria di pubblico interesse, agli effetti dei [Regi decreti 18 maggio 1924, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-18;753), e [29 novembre 1925, n. 2464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-11-29;2464);
+Visto il [R. decreto 28 novembre 1929, n. 2234](Secondo%20elenco%20dei%20comprensori%20da%20sottoporre%20a%20trasformazione%20fondiaria%20di%20pubblico%20interesse.%20029U2234.md), col quale il territorio dell'Istria fu classificato fra i comprensori soggetti a trasformazione fondiaria di pubblico interesse, agli effetti dei [Regi decreti 18 maggio 1924, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-18;753), e [29 novembre 1925, n. 2464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-11-29;2464);
 
 Visto il [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), recante norme sulla bonifica integrale;
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il compenso mensile di cui al [R. decreto 24 ottobre 1910, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-10-24;774), modificato con [R. decreto 20 agosto 1921, n. 1204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-08-20;1204), e' elevato a lire 50 mensili. 
+Il compenso mensile di cui al [R. decreto 24 ottobre 1910, n. 774](Che%20fissa%20la%20retribuzione%20da%20accordarsi%20ai%20fattorini%20telegrafi%20pel%20recapito%20dei%20telegrammi.%20010U0774.md), modificato con [R. decreto 20 agosto 1921, n. 1204](Che%20modifica%20larticolo%202%20del%20R.%20decreto%2024%20ottobre%201910%20n.%20774%20relativo%20al%20compenso%20da%20accordarsi%20ai%20fattorini%20telegrafici%20pel%20recapito%20dei%20telegrammi.%20021U1204.md), e' elevato a lire 50 mensili. 
  
  Al compenso di cui al precedente comma non si applicano le riduzioni previste nei [Regi decreti- legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561). 
  

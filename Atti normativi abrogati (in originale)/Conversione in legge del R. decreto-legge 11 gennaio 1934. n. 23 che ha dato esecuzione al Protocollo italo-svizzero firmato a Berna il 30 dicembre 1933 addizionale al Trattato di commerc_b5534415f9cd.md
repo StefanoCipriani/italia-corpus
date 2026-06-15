@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-11;23), che ha dato esecuzione al Protocollo italo-svizzero firmato a Berna il 30 dicembre 1933, addizionale al Trattato di commercio fra l'Italia e la Svizzera del 27 gennaio 1923. 
+ E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 23](Esecutorieta%20del%20Protocollo%20italo-svizzero%20firmato%20a%20Berna%20il%2030%20dicembre%201933%20addizionale%20al%20Trattato%20di%20commercio%20fra%20lItalia%20e%20la%20Svizzera%20del%2027%20gennaio%201923.%20034U0023.md), che ha dato esecuzione al Protocollo italo-svizzero firmato a Berna il 30 dicembre 1933, addizionale al Trattato di commercio fra l'Italia e la Svizzera del 27 gennaio 1923. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

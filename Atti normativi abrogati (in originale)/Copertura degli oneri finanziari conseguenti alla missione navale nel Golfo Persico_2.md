@@ -28,13 +28,13 @@ Il trattamento economico ed assicurativo di cui all'[articolo 1 della legge 5 di
 
 2.
 
-Al personale militare di cui al comma 1 si applica il [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare di pace.
+Al personale militare di cui al comma 1 si applica il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
 
 ## Art. 2.
 
 1.
 
-All'onere di lire 51.000 milioni, derivante dall'applicazione del presente decreto per il 1987, si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno medesimo, all'uopo utilizzando i seguenti accantonamenti: "Adeguamento del regime fiscale delle banane" per lire 7.400 milioni; "Aumento degli indennizzi previsti dalla [legge 24 dicembre 1976, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-12-24;898), sulla nuova regolamentazione delle servitu' militari ed altri oneri connessi" per lire 43.600 milioni.
+All'onere di lire 51.000 milioni, derivante dall'applicazione del presente decreto per il 1987, si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno medesimo, all'uopo utilizzando i seguenti accantonamenti: "Adeguamento del regime fiscale delle banane" per lire 7.400 milioni; "Aumento degli indennizzi previsti dalla [legge 24 dicembre 1976, n. 898](Nuova%20regolamentazione%20delle%20servitu%20militari.md), sulla nuova regolamentazione delle servitu' militari ed altri oneri connessi" per lire 43.600 milioni.
 
 2.
 

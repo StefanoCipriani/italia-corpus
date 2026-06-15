@@ -24,8 +24,8 @@ E M A N A il seguente decreto:
 
 1.
 
-All'[articolo 1 della legge 22 aprile 1989, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-22;143#art_1), e' aggiunto, in fine, il seguente comma:
- "7- bis. Sono esentati dall'obbligo di utilizzare i sistemi di ritenuta i bambini fino a dieci anni di eta' che viaggiano su auto pubbliche o autovetture adibite a noleggio di rimessa, autorizzate ad effettuare servizio da piazza ai sensi del terzo comma dell'articolo 105 del testo unico di norme per la tutela delle strade e per la circolazione, approvato con [regio decreto 8 dicembre 1933, n. 1740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-08;1740), quando circolano nei centri abitati o su itinerario da e per stazioni ferroviarie, porti ed aeroporti, a condizione che occupino i sedili posteriori e siano accompagnati da persona di almeno sedici anni di eta'".
+All'[articolo 1 della legge 22 aprile 1989, n. 143](Disposizioni%20in%20materia%20di%20installazione%20ed%20utilizzazione%20delle%20cinture%20di%20sicurezza%20nei%20veicoli%20a%20motore.md), e' aggiunto, in fine, il seguente comma:
+ "7- bis. Sono esentati dall'obbligo di utilizzare i sistemi di ritenuta i bambini fino a dieci anni di eta' che viaggiano su auto pubbliche o autovetture adibite a noleggio di rimessa, autorizzate ad effettuare servizio da piazza ai sensi del terzo comma dell'articolo 105 del testo unico di norme per la tutela delle strade e per la circolazione, approvato con [regio decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), quando circolano nei centri abitati o su itinerario da e per stazioni ferroviarie, porti ed aeroporti, a condizione che occupino i sedili posteriori e siano accompagnati da persona di almeno sedici anni di eta'".
 
 ## Art. 2.
 

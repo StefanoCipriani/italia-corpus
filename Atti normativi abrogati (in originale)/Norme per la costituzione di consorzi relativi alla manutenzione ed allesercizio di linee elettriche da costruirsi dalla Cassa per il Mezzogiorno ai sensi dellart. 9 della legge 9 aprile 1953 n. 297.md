@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76), [77, comma primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), ed [87, comma quinto della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 9, comma secondo, della legge 9 aprile 1953, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-09;297#art_9-com2);
+Visto l'[art. 9, comma secondo, della legge 9 aprile 1953, n. 297](Provvedimenti%20a%20favore%20della%20citta%20di%20Napoli.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri e Ministro per l'intern
 
 ## Art. 1.
 
-Quando la Cassa per le opere straordinarie di pubblico interesse nell'Italia meridionale (Cassa per il Mezzogiorno) ritenga utile e conveniente avvalersi della facolta' di cui al [secondo comma dell'art. 9 della legge 9 aprile 1953, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-09;297#art_9-com2), potra' promuovere la costituzione di consorzi volontari fra gli interessati ai sensi dell'[art. 2602 e seguenti del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2602).
+Quando la Cassa per le opere straordinarie di pubblico interesse nell'Italia meridionale (Cassa per il Mezzogiorno) ritenga utile e conveniente avvalersi della facolta' di cui al [secondo comma dell'art. 9 della legge 9 aprile 1953, n. 297](Provvedimenti%20a%20favore%20della%20citta%20di%20Napoli.md), potra' promuovere la costituzione di consorzi volontari fra gli interessati ai sensi dell'[art. 2602 e seguenti del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2602).
  Saranno chiamati a far parte di tali consorzi:
  a) gli Enti di riforma agraria e quelli di colonizzazione in quanto interessati per territorio;
  b) i Consorzi di bonifica e di miglioramento fondiario i cui comprensori siano serviti dalle linee elettriche costruite;
@@ -31,7 +31,7 @@ Quando la Cassa per le opere straordinarie di pubblico interesse nell'Italia mer
 ## Art. 2.
 
 Qualora la costituzione dei Consorzi volontari di cui al precedente articolo non sia effettuata nei termini fissati, caso per caso dalla Cassa per il Mezzogiorno, questa potra' promuovere la costituzione di Consorzi obbligatori ai sensi dell'[art. 2616 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2616).
- Il provvedimento relativo e' devoluto alla competenza del prefetto quando le linee siano limitate a servire gli interessi di territori ricadenti in una sola provincia. Quando, invece, le linee interessino territori appartenenti a due o piu' province, il provvedimento e' devoluto alla competenza del Presidente del Comitato dei Ministri di cui all'[art. 1 della legge 10 agosto 1950, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;646#art_1), modificata con la [legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949).
+ Il provvedimento relativo e' devoluto alla competenza del prefetto quando le linee siano limitate a servire gli interessi di territori ricadenti in una sola provincia. Quando, invece, le linee interessino territori appartenenti a due o piu' province, il provvedimento e' devoluto alla competenza del Presidente del Comitato dei Ministri di cui all'[art. 1 della legge 10 agosto 1950, n. 646](Istituzione%20della%20Cassa%20per%20opere%20straordinarie%20di%20pubblico%20interesse%20nellItalia%20meridionale%20Cassa%20per%20il%20Mezzogiorno.md), modificata con la [legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949).
 
 ## Art. 3.
 

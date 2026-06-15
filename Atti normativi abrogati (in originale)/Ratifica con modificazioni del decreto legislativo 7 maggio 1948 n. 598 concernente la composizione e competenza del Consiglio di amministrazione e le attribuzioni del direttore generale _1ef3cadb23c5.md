@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il [decreto legislativo 7 maggio 1948, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;598), e' ratificato con le seguenti modificazioni:
+Il [decreto legislativo 7 maggio 1948, n. 598](../Decreti%20Legislativi/Composizione%20e%20competenza%20del%20Consiglio%20damministrazione%20e%20attribuzioni%20del%20direttore%20generale%20delle%20Ferrovie%20dello%20Stato.md), e' ratificato con le seguenti modificazioni:
 
  Art. 1. - Prima dell'ultimo comma e' aggiunto il seguente:
  "Se i Sottosegretari di Stato sono due entrambi fanno parte del Consiglio di amministrazione ed uno di essi, in caso di assenza del Ministro, lo sostituisce nella presidenza, secondo la delega del Ministro".

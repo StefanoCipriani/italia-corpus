@@ -14,7 +14,7 @@ Viste le norme sul reclutamento ed avanzamento dei sottufficiali e militari di t
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-Nell'attesa che vengano emanate disposizioni legislative per la sistemazione degli organici dei sottufficiali dell' Aeronautica, e' data facolta' al Ministro per la difesa di collocare a riposo o dispensare dal servizio gli aiutanti di battaglia, i marescialli di 1ª, 2ª e 3ª classe e i sergenti maggiori in servizio continuativo di carriera (compresi i trattenuti e i fuori quadro ai sensi degli [articoli 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744#art_116) e [71 del regio decreto-legge 3 febbraio 1938, numero 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744#art_71)) con le norme stabilite negli articoli seguenti e nella misura che sara' fissata per ciascun grado, ruolo e categorie con successivi decreti del Capo provvisorio dello Stato da emanare su proposta del Ministro per la difesa, di intesa con il Ministro per il tesoro.
+Nell'attesa che vengano emanate disposizioni legislative per la sistemazione degli organici dei sottufficiali dell' Aeronautica, e' data facolta' al Ministro per la difesa di collocare a riposo o dispensare dal servizio gli aiutanti di battaglia, i marescialli di 1ª, 2ª e 3ª classe e i sergenti maggiori in servizio continuativo di carriera (compresi i trattenuti e i fuori quadro ai sensi degli [articoli 116](Norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20stato%20dei%20sottufficiali%20della%20Regia%20aeronautica.%20038U0744.md) e [71 del regio decreto-legge 3 febbraio 1938, numero 744](Norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20stato%20dei%20sottufficiali%20della%20Regia%20aeronautica.%20038U0744.md)) con le norme stabilite negli articoli seguenti e nella misura che sara' fissata per ciascun grado, ruolo e categorie con successivi decreti del Capo provvisorio dello Stato da emanare su proposta del Ministro per la difesa, di intesa con il Ministro per il tesoro.
 
 ## Art. 2.
 
@@ -95,7 +95,7 @@ Le disposizioni del presente decreto non si applicano:
  Le disposizioni del presente decreto possono, invece, essere applicate ai sottufficiali per i quali sia tuttora pendente il giudizio di epurazione, ed essi, ai fini del collocamento a riposo o della dispensa dal servizio di autorita', sono valutati, indipendentemente dagli addebiti contemplati dalle vigenti norme sull'epurazione, sulla base dell'affidamento dato di percorrere in modo particolarmente distinto l'ulteriore carriera, ovvero, se abbiano gia' conseguito il grado finale della carriera, di disimpegnare in modo particolarmente distinto l'ulteriore servizio.
  Il collocamento a riposo o la dispensa dal servizio, adottati ai sensi del presente decreto, non estinguono il procedimento di epurazione, che segue il suo corso come se non fosse cessato il rapporto d'impiego.
  Qualora detto procedimento si concluda con giudizio sfavorevole, il collocamento a riposo o la dispensa dal servizio di cui sopra dovra' essere sostituito dal provvedimento di Stato relativo a tale giudizio.
- Resta fermo per i sottufficiali sottoposti a giudizio di epurazione quanto disposto nell'[art. 6 del decreto legislativo luogotenenziale 22 aprile 1945, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-22;179#art_6), circa il collocamento a riposo del personale, di ufficio o su domanda.
+ Resta fermo per i sottufficiali sottoposti a giudizio di epurazione quanto disposto nell'[art. 6 del decreto legislativo luogotenenziale 22 aprile 1945, n. 179](../Decreti%20legislativi%20luogotenenziali/Nuove%20disposizioni%20integrative%20per%20lepurazione%20dellAministrazione.%20045U0179.md), circa il collocamento a riposo del personale, di ufficio o su domanda.
 
 ## Art. 12.
 

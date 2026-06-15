@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [regio decreto legislativo 27 maggio 1946, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-27;436);
+Visto il [regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [regio decreto-legge 5 ottobre 1936, n. 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-05;1744), convertito nella [legge 14 gennaio 1937, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-01-14;91);
+Visto il [regio decreto-legge 5 ottobre 1936, n. 1744](Istituzione%20di%20una%20imposta%20straordinaria%20progressiva%20sui%20dividendi%20delle%20societa%20commerciali.%20036U1744.md), convertito nella [legge 14 gennaio 1937, n. 91](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201744%20concernente%20listituzione%20di%20una%20imposta%20straordinaria%20progressiva%20sui%20dividendi%20delle%20societa%20commer_666994d8a012.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -24,15 +24,15 @@ Sulla proposta del Ministro per le finanze, di concerto col Ministro per il teso
 
 ## Art. 1.
 
-I saldi attivi delle rivalutazioni monetarie eseguite ai sensi del [regio decreto legislativo 27 maggio 1946, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-27;436), quando vengano trasferiti a capitale, sono, nella misura del 25%, devoluti a favore dello Stato.
- La devoluzione non si applica ai saldi attivi corrispondenti alle rivalutazioni riferibili all'allineamento della lira, stabilito dal [regio decreto 5 ottobre 1936, n. 1745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-05;1745), convertito nella [legge 4 gennaio 1937, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-01-04;40).
+I saldi attivi delle rivalutazioni monetarie eseguite ai sensi del [regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), quando vengano trasferiti a capitale, sono, nella misura del 25%, devoluti a favore dello Stato.
+ La devoluzione non si applica ai saldi attivi corrispondenti alle rivalutazioni riferibili all'allineamento della lira, stabilito dal [regio decreto 5 ottobre 1936, n. 1745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-05;1745), convertito nella [legge 4 gennaio 1937, n. 40](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201745%20contenente%20modificazioni%20al%20R.%20decreto-legge%2021%20dicembre%201927-VI%20n.%202325%20sulla%20parita%20aurea%20della%20lira.%20037U0040.md).
 
 ## Art. 2.
 
-Quando i saldi attivi indicati nel primo comma dell'art. 1 vengono accantonati a riserva, essi non sono compresi tra le riserve risultanti dal bilancio agli effetti della disposizione contenuta nell'[art. 1 del regio decreto-legge 5 ottobre 1936, n. 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-05;1744#art_1), convertito nella [legge 14 gennaio 1937, n. 91, e nell'art. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-01-14;91#art_29) del [regio decreto-legge 19 ottobre 1937, n. 1729](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-10-19;1729), convertito nella [legge 13 gennaio 1938, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-01-13;19).
+Quando i saldi attivi indicati nel primo comma dell'art. 1 vengono accantonati a riserva, essi non sono compresi tra le riserve risultanti dal bilancio agli effetti della disposizione contenuta nell'[art. 1 del regio decreto-legge 5 ottobre 1936, n. 1744](Istituzione%20di%20una%20imposta%20straordinaria%20progressiva%20sui%20dividendi%20delle%20societa%20commerciali.%20036U1744.md), convertito nella [legge 14 gennaio 1937, n. 91, e nell'art. 29](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201744%20concernente%20listituzione%20di%20una%20imposta%20straordinaria%20progressiva%20sui%20dividendi%20delle%20societa%20commer_666994d8a012.md) del [regio decreto-legge 19 ottobre 1937, n. 1729](Istituzione%20di%20una%20imposta%20straordinaria%20sul%20capitale%20delle%20societa%20per%20azioni.%20037U1729.md), convertito nella [legge 13 gennaio 1938, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20ottobre%201937-XV%20n.%201729%20concernente%20lIstituzione%20di%20una%20imposta%20straordinaria%20sul%20capitale%20delle%20societa%20per%20azioni.%20038U0019.md).
  Il comma precedente non trova applicazione quando la societa' devolva a favore dello Stato una somma pari al 15% dei saldi attivi accantonati a riserva.
  Al momento in cui i saldi attivi sopra indicati venissero trasferiti a capitale, sara' devoluta a favore dello Stato una quota pari al 10%, a complemento della devoluzione del 15% gia' operata a mente del comma precedente.
- E' abrogato l'ultimo comma dell'art. 1 del citato [regio decreto legge 5 ottobre 1936, n. 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-05;1744).
+ E' abrogato l'ultimo comma dell'art. 1 del citato [regio decreto legge 5 ottobre 1936, n. 1744](Istituzione%20di%20una%20imposta%20straordinaria%20progressiva%20sui%20dividendi%20delle%20societa%20commerciali.%20036U1744.md).
 
 ## Art. 3.
 

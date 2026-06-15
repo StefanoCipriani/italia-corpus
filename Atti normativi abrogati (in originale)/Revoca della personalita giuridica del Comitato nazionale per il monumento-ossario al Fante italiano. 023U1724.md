@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 14 luglio 1921, n. 1162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-14;1162), con cui fu eretto in ente morale il «Comitato nazionale per il monumento-ossario al Fante italiano» con sede centrale in Milano, avente per scopo la costruzione di una grande opera d'arte su Cima 3 del San Michele al Carso alla memoria dei caduti in guerra;
+Visto il [R. decreto 14 luglio 1921, n. 1162](Erezione%20in%20ente%20morale.%20021U1162.md), con cui fu eretto in ente morale il «Comitato nazionale per il monumento-ossario al Fante italiano» con sede centrale in Milano, avente per scopo la costruzione di una grande opera d'arte su Cima 3 del San Michele al Carso alla memoria dei caduti in guerra;
 
 Ritenuto che la zona del San Michele e' stata gia' dichiarata monumento nazionale col [R. decreto-legge 29 ottobre 1922, n. 1386](Che%20dichiara%20monumenti%20alcune%20zone%20fra%20le%20piu%20cospicue%20per%20fasti%20di%20gloria%20del%20teatro%20di%20guerra%201915-918.%20022U1386.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'interno, Presidente
 
 ## Art. 1.
 
-E' revocata la personalita' giuridica conferita al «Comitato nazionale per il monumento-ossario al Fante italiano» col [R. decreto 14 luglio 1921, n. 1162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-14;1162), ed il Comitato stesso e' sciolto.
+E' revocata la personalita' giuridica conferita al «Comitato nazionale per il monumento-ossario al Fante italiano» col [R. decreto 14 luglio 1921, n. 1162](Erezione%20in%20ente%20morale.%20021U1162.md), ed il Comitato stesso e' sciolto.
 
 ## Art. 2.
 

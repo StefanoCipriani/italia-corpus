@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 giugno 1931, n. 799](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-12;799), concernente la riduzione a L. 0,50 per cento della tassa di scambio per le materie fertilizzanti ed anticrittogamiche direttamente utilizzabili per uso agricolo. 
+ E' convertito in legge il [R. decreto-legge 12 giugno 1931, n. 799](Riduzione%20della%20normale%20aliquota%20della%20tassa%20di%20scambio%20per%20le%20materie%20fertilizzanti%20ed%20anticrittogamiche%20direttamente%20utilizzabili%20per%20uso%20agricolo.%20031U0799.md), concernente la riduzione a L. 0,50 per cento della tassa di scambio per le materie fertilizzanti ed anticrittogamiche direttamente utilizzabili per uso agricolo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

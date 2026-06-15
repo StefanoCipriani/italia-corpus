@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-A decorrere dall'esercizio 1951-52, il contributo ordinario annuo di lire 750.000 a favore dell'Ente nazionale serico, stabilito con [regio decreto-legge 16 dicembre 1926, n. 2265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2265), convertito nella [legge 13 dicembre 1928, n. 3107](Conversione%20in%20legge%20con%20modifiche%20del%20R.%20decreto-legge%2016%20dicembre%201926%20n.%202265%20concernente%20listituzione%20dellEnte%20nazionale%20serico.%20028U3107.md), e' elevato a lire 20.000.000.
+A decorrere dall'esercizio 1951-52, il contributo ordinario annuo di lire 750.000 a favore dell'Ente nazionale serico, stabilito con [regio decreto-legge 16 dicembre 1926, n. 2265](Istituzione%20dellEnte%20nazionale%20serico.%20026U2265.md), convertito nella [legge 13 dicembre 1928, n. 3107](Conversione%20in%20legge%20con%20modifiche%20del%20R.%20decreto-legge%2016%20dicembre%201926%20n.%202265%20concernente%20listituzione%20dellEnte%20nazionale%20serico.%20028U3107.md), e' elevato a lire 20.000.000.
 
 ## Art. 2.
 

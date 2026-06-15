@@ -42,7 +42,7 @@ Possono essere richiesti certificati, copie (escluse quelle di mappa) ed estratt
 
 ## Art. 4.
 
-Sono abrogati l'allegato D del [Regio decreto 12 ottobre 1915, n. 1510 e l'art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-10-12;1510#art_2) della [legge 22 giugno 1911, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-22;590).
+Sono abrogati l'allegato D del [Regio decreto 12 ottobre 1915, n. 1510 e l'art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-10-12;1510#art_2) della [legge 22 giugno 1911, n. 590](Per%20provvedimenti%20per%20la%20rinnovazione%20delle%20matricole%20fondiarie%20e%20per%20migliorare%20il%20funzionamento%20del%20servizio%20catastale.%20011U0590.md).
 
 ## Art. 5.
 

@@ -20,11 +20,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri eccezionali per la guerra conferiti al Governo del Re colla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri eccezionali per la guerra conferiti al Governo del Re colla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Visto il Nostro decreto 30 giugno 1918, n. 932; 
  
- Vista la [legge 23 giugno 1918, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-06-23;830); 
+ Vista la [legge 23 giugno 1918, n. 830](Che%20autorizza%20il%20Governo%20ad%20esercitare%20provvisoriamente%20fino%20a%20quando%20non%20siano%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%201918%20i%20bilanci%20delle%20Amministrazioni%20dello%20Stato%20per%20leserci_caa5fa712e10.md); 
  
  Sentito il Consiglio dei ministri; 
  

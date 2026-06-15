@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge in data 10 aprile 1924, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-04-10;489), col quale si da' piena ed intera esecuzione alla Convenzione stipulata a Parigi il 10 aprile 1924 tra il Regno d'Italia e la Repubblica Francese, riguardo alla produzione ed al commercio del seme-bachi da seta. 
+ E' convertito in legge il [R. decreto-legge in data 10 aprile 1924, n. 489](Convenzione%20italo-francese%20per%20la%20produzione%20ed%20il%20commercio%20del%20seme%20bachi%20da%20seta.%20024U0489.md), col quale si da' piena ed intera esecuzione alla Convenzione stipulata a Parigi il 10 aprile 1924 tra il Regno d'Italia e la Repubblica Francese, riguardo alla produzione ed al commercio del seme-bachi da seta. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

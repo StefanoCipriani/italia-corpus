@@ -510,7 +510,7 @@ Nelle promozioni e nei concorsi in cui si valutino, tra i coefficienti di merito
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 42.
 
@@ -519,7 +519,7 @@ L'eta' massima stabilita dagli ordinamenti di ciascuna amministrazione per l'amm
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 43.
 
@@ -534,7 +534,7 @@ Agli impiegati ed agenti civili di ruolo delle amministrazioni dello Stato, comp
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 44.
 
@@ -549,7 +549,7 @@ Agli impiegati ed agenti civili di ruolo delle amministrazioni dello Stato, ai m
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e del [Regio D.L. 17 maggio 1923, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-17;1284), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e del [Regio D.L. 17 maggio 1923, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-17;1284), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 45.
 
@@ -558,7 +558,7 @@ I benefici di cui ai precedenti articoli 43 e 44 saranno concessi in base ai doc
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 46.
 
@@ -567,7 +567,7 @@ Qualora gli impiegati contemplati nei precedenti articoli 43 e 41 raggiungano il
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 47.
 
@@ -582,7 +582,7 @@ Gli impiegati ed agenti di cui al precedente art. 43, i quali, alla data di pubb
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 48.
 
@@ -593,7 +593,7 @@ Gli agenti subalterni che si trovino nelle condizioni di cui al precedente artic
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 49.
 
@@ -606,7 +606,7 @@ Dopo i collocamenti del personale di cui ai precedenti articoli 47 e 48, e non o
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 50.
 
@@ -617,7 +617,7 @@ Gli insegnanti medi che si trovino nelle condizioni previste dal precedente art 
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 51.
 
@@ -626,7 +626,7 @@ Coloro che si trovino nelle condizioni di cui al procedente art. 43 e che, nei c
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 52.
 
@@ -635,7 +635,7 @@ Con decreto del ministro dell'istruzione pubblica verranno stabilite le modalita
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 18 dicembre 1922, n. 1637](Che%20reca%20aggiunte%20e%20varianti%20ai%20provvedimenti%20sul%20trattamento%20economico%20degli%20impiegati%20civili%20e%20degli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20guardia%20_ee2f0f62bdaf.md), convertito senza modificazioni dalla [L. 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Disposizioni varie
 

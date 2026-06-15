@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato e successive estensioni e modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato e successive estensioni e modificazioni;
 
 Ritenuta la necessita' di adottare disposizioni transitorie per la prima nomina del direttore della tipografia del Ministero degli affari esteri che sia da effettuare, per vacanza di posto, dopo l'attuazione del precitato Regio decreto;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segret
 
 ## Art. 1.
 
-All'[art. 88 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_88), contenente disposizioni transitorie per l'applicazione dello stesso Regio decreto al personale del Ministero degli affari esteri, e' aggiunto il seguente comma: 
+All'[art. 88 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), contenente disposizioni transitorie per l'applicazione dello stesso Regio decreto al personale del Ministero degli affari esteri, e' aggiunto il seguente comma: 
  
  « Nella prima nomina del direttore della tipografia, che sia da' effettuare, per vacanza del posto di cui alla tabella 21 dell'allegato II, dopo l'attuazione del presente decreto, ma prima della scadenza di un triennio dalla data della sua entrata in vigore, sara' conferito al predetto direttore, in deroga al disposto della detta tabella e a tutti gli effetti, il grado 8° ».
 

@@ -20,11 +20,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA.
  
  RE D' ITALIA 
  
- In virtu' dell'autorita' a Noi delegata o dei poteri straordinari conferiti al Governo dalla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata o dei poteri straordinari conferiti al Governo dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Viste le [leggi 1° marzo 1886, n. 3682 e 21 gennaio 1897, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-01-21;23), sul riordinamento dell'imposta fondiaria, nonche' il regolamento per la loro esecuzione, approvato con [R. decreto 26 gennaio 1905, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-26;65); 
+ Viste le [leggi 1° marzo 1886, n. 3682 e 21 gennaio 1897, n. 23](Che%20sostituisce%20con%20altri%20alcuni%20articoli%20di%20quella%20in%20data%201%20marzo%201886%20n.%203682%20concernente%20il%20riordinamento%20dellimposta%20fondiaria.%20097U0023.md), sul riordinamento dell'imposta fondiaria, nonche' il regolamento per la loro esecuzione, approvato con [R. decreto 26 gennaio 1905, n. 65](Che%20approva%20e%20contiene%20il%20regolamento%20per%20lesecuzione%20delle%20leggi%20sul%20riordinamento%20dellimposta%20fondiaria.%20005U0065.md); 
  
- Visto il [R. decreto 20 ottobre 1912, n. 1148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-10-20;1148); 
+ Visto il [R. decreto 20 ottobre 1912, n. 1148](Col%20quale%20le%20Provincie%20vengono%20autorizzate%20a%20concedere%20ai%20componenti%20le%20Commissioni%20censuarie%20provinciali%20una%20medaglia%20di%20presenza%20per%20intervento%20alle%20sedute%20e%20per%20i%20lavori%20di%20campagna.%20012U1148.md); 
  
  Sentito il Consiglio dei ministri; 
  

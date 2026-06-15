@@ -18,11 +18,11 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-11;560);
 
-Visto il [R. decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105), convertito nella [legge 1° maggio 1930, n. 611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-05-01;611);
+Visto il [R. decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105), convertito nella [legge 1° maggio 1930, n. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20febbraio%201930%20n.%20105%20relativo%20allaumento%20dei%20diritti%20erariali%20sugli%20apparecchi%20automatici%20di%20accensione.%20030U0611.md);
 
-Visto il [R. decreto-legge 18 gennaio 1932, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-01-18;14), convertito nella [legge 7 aprile 1932, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-04-07;356);
+Visto il [R. decreto-legge 18 gennaio 1932, n. 14](Rinnovazione%20delle%20convenzioni%20tra%20lo%20Stato%20ed%20il%20Consorzio%20delle%20fabbriche%20di%20fiammiferi.%20032U0014.md), convertito nella [legge 7 aprile 1932, n. 356](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20gennaio%201932%20n.%2014%20relativa%20alla%20rinnovazione%20delle%20convenzioni%20tra%20lo%20Stato%20ed%20il%20Consorzio%20Industrie%20Fiammiferi.%20032U0356.md);
 
-Vista la [legge 28 settembre 1940, n. 1402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-28;1402);
+Vista la [legge 28 settembre 1940, n. 1402](Rinnovazione%20delle%20convenzioni%20fra%20lo%20Stato%20ed%20il%20Consorzio%20industrie%20fiammiferi.%20040U1402.md);
 
 Visto il R. decreto-legge 20 ottobre 1943, 11, 2-B;
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro per le finanze; Abbiamo sanzionato e promulghiamo qu
 
 ## Art. 1.
 
-Le convenzioni fra il Consorzio industrie fiammiferi e lo Stato contemplate dall'art, 1 della [legge 28 settembre 1940, n. 1402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-28;1402), continueranno ad avere efficacia dal 1° giugno 1944 al 31 maggio 1946, sotto l'osservanza delle norme di cui agli articoli seguenti.
+Le convenzioni fra il Consorzio industrie fiammiferi e lo Stato contemplate dall'art, 1 della [legge 28 settembre 1940, n. 1402](Rinnovazione%20delle%20convenzioni%20fra%20lo%20Stato%20ed%20il%20Consorzio%20industrie%20fiammiferi.%20040U1402.md), continueranno ad avere efficacia dal 1° giugno 1944 al 31 maggio 1946, sotto l'osservanza delle norme di cui agli articoli seguenti.
 
 ## Art. 2.
 

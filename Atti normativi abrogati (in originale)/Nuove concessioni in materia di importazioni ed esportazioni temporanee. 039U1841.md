@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alle merci ammesse alla temporanea importazione per essere lavorate giusta la tabella I annessa al [R. decreto-legge 18 dicembre 1913, n. 1453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-12-18;1453), convertito nella legge 17 aprile 1925 III, n. 473, sono aggiunte le seguenti: 
+Alle merci ammesse alla temporanea importazione per essere lavorate giusta la tabella I annessa al [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella legge 17 aprile 1925 III, n. 473, sono aggiunte le seguenti: 
  
  Parte di provvedimento in formato grafico
 
@@ -38,7 +38,7 @@ La temporanea importazione di perle coltivate, per effettuarne la cernita e la m
 
 ## Art. 5.
 
-E' abolito il limite di chilogrammi 25 fissato dall'[art. 80 del R. decreto 6 aprile 1922, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-06;547#art_80), che approva il regolamento sulle importazioni ed esportazioni temporanee, per i tessuti di ogni specie temporaneamente importati per essere ricamati.
+E' abolito il limite di chilogrammi 25 fissato dall'[art. 80 del R. decreto 6 aprile 1922, n. 547](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), che approva il regolamento sulle importazioni ed esportazioni temporanee, per i tessuti di ogni specie temporaneamente importati per essere ricamati.
 
 ## Art. 6.
 

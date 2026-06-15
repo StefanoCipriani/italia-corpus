@@ -30,7 +30,7 @@ La Cassa dei depositi e prestiti e' autorizzata a ricevere in conto corrente dal
 
 ## Art. 2.
 
-Il mutuo che ai termini dell'articolo precedente la Cassa dei depositi e prestiti fara' al comune di Verona, sara' concesso all'interesse del 5 e 7/8 per cento e con ammortamento in 30 annualita' da garantirsi nei modi previsti dagli art. 75 e seguenti del testo unico delle leggi sulla Cassa dei depositi e prestiti, approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453). 
+Il mutuo che ai termini dell'articolo precedente la Cassa dei depositi e prestiti fara' al comune di Verona, sara' concesso all'interesse del 5 e 7/8 per cento e con ammortamento in 30 annualita' da garantirsi nei modi previsti dagli art. 75 e seguenti del testo unico delle leggi sulla Cassa dei depositi e prestiti, approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md). 
  
  Per la contrattazione, la concessione e la somministrazione del mutuo predetto saranno applicabili, oltre le disposizioni del citato testo unico, in parte modificate dai Reali [decreti legge 20 ottobre 1921, n. 1576, e 8 febbraio 1923, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-02-08;287), anche quelle del relativo regolamento approvato con [decreto Luogotenenziale 23 marzo 1919, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-23;1058). 
  

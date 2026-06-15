@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-11;140), col quale sono determinate le merci di origine delle Isole italiane dell'Egeo ammesse all'importazione nel Regno, in esenzione del dazio doganale, nel limite del quantitativo annuale per ciascuna di esse indicato. 
+ E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 140](Determinazione%20delle%20merci%20originarie%20delle%20Isole%20italiane%20dellEgeo%20da%20ammettere%20nel%20Regno%20in%20esenzione%20doganale%20in%20determinati%20contingenti.%20034U0140.md), col quale sono determinate le merci di origine delle Isole italiane dell'Egeo ammesse all'importazione nel Regno, in esenzione del dazio doganale, nel limite del quantitativo annuale per ciascuna di esse indicato. 
  
  Ordiniamo che la presente, Munita del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

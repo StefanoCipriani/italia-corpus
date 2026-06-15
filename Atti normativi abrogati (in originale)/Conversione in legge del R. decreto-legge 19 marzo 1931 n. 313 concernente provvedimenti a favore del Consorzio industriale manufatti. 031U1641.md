@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 marzo 1931, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-03-19;313), portante provvedimenti a favore del Consorzio industriale manufatti. 
+ E' convertito in legge il [R. decreto-legge 19 marzo 1931, n. 313](Provvedimenti%20a%20favore%20del%20Consorzio%20industriale%20manufatti.%20031U0313.md), portante provvedimenti a favore del Consorzio industriale manufatti. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 10 dicembre 1931 - Anno X 
  

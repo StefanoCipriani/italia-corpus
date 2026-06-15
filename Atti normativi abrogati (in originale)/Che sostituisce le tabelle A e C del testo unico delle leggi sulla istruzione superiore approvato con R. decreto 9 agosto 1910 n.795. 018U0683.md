@@ -20,11 +20,11 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto l'art. 25 del testo unico delle leggi sulla istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795);
+Veduto l'art. 25 del testo unico delle leggi sulla istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
 
 Vedute le tabelle A e C annesse al testo unico predetto;
 
-Vedute le [leggi 5 giugno 1913, n. 768 e 19 luglio 1914, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;795), con le quali vengono rispettivamente modificate le tabelle anzidette;
+Vedute le [leggi 5 giugno 1913, n. 768 e 19 luglio 1914, n. 795](Riguardante%20la%20istituzione%20presso%20la%20R.%20Universita%20di%20Napoli%20di%20una%20cattedra%20di%20clinica%20delle%20malattie%20tropicali.%20014U0795.md), con le quali vengono rispettivamente modificate le tabelle anzidette;
 
 Udito il Consiglio dei ministri;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per la istruzione pubblica di co
 
 ## Art. 1.
 
-Alle tabelle A e C del testo unico delle leggi sulla istruzione superiore, rispettivamente modificate con le [leggi 5 giugno 1913, n. 768, e 19 luglio 1914, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;795), sono sostituite le tabelle annesse al presente decreto e firmate d'ordine Nostro, dal ministro segretario di Stato per la istruzione pubblica.
+Alle tabelle A e C del testo unico delle leggi sulla istruzione superiore, rispettivamente modificate con le [leggi 5 giugno 1913, n. 768, e 19 luglio 1914, n. 795](Riguardante%20la%20istituzione%20presso%20la%20R.%20Universita%20di%20Napoli%20di%20una%20cattedra%20di%20clinica%20delle%20malattie%20tropicali.%20014U0795.md), sono sostituite le tabelle annesse al presente decreto e firmate d'ordine Nostro, dal ministro segretario di Stato per la istruzione pubblica.
 
 ## Art. 2.
 

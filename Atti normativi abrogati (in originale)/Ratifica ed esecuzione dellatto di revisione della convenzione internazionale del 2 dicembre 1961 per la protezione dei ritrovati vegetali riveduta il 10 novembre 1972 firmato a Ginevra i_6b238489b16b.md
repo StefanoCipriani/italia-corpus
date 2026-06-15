@@ -31,7 +31,7 @@ Il [primo comma dell'articolo 1 del decreto del Presidente della Repubblica 12 a
 ## Art. 4.
 
 Il [secondo comma dell'articolo 3 del decreto del Presidente della Repubblica 12 agosto 1975, n. 974](Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), e' sostituito dal seguente:
- "Al costitutore o al suo avente causa, che rivendica il diritto di priorita', e' concesso un periodo di quattro anni, con decorrenza dalla data di scadenza del termine di priorita', entro il quale fornire i documenti complementari e il materiale necessario ai fini degli accertamenti previsti nel successivo articolo 8. Detti documenti e il materiale necessario per gli accertamenti possono tuttavia essere richiesti prima della scadenza dei quattro anni ed entro un congruo termine, qualora la domanda della quale si e' rivendicata la priorita' sia stata respinta o ritirata. Rimane invariato il termine di sei mesi stabilito dall'articolo 20 delle disposizioni regolamentari di cui al [regio decreto 5 febbraio 1940, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-02-05;244), per la presentazione della copia, certificata conforme dall'ufficio competente, dei documenti di primo deposito".
+ "Al costitutore o al suo avente causa, che rivendica il diritto di priorita', e' concesso un periodo di quattro anni, con decorrenza dalla data di scadenza del termine di priorita', entro il quale fornire i documenti complementari e il materiale necessario ai fini degli accertamenti previsti nel successivo articolo 8. Detti documenti e il materiale necessario per gli accertamenti possono tuttavia essere richiesti prima della scadenza dei quattro anni ed entro un congruo termine, qualora la domanda della quale si e' rivendicata la priorita' sia stata respinta o ritirata. Rimane invariato il termine di sei mesi stabilito dall'articolo 20 delle disposizioni regolamentari di cui al [regio decreto 5 febbraio 1940, n. 244](Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20040U0244.md), per la presentazione della copia, certificata conforme dall'ufficio competente, dei documenti di primo deposito".
 
 ## Art. 5.
 
@@ -45,7 +45,7 @@ Il [secondo comma dell'articolo 5 del decreto del Presidente della Repubblica 12
 ## Art. 6.
 
 L'ultimo comma dell'articolo 7 del decreto del Presidente della Repubblica 12 agosto 1975, e' sostituito dal seguente:
- "Salvo quanto previsto dal [terzo comma dell'articolo 4 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_4-com3), gli effetti del brevetto decorrono dalla data in cui la domanda, con gli allegati, e' resa accessibile al pubblico ai sensi del successivo articolo 9".
+ "Salvo quanto previsto dal [terzo comma dell'articolo 4 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), gli effetti del brevetto decorrono dalla data in cui la domanda, con gli allegati, e' resa accessibile al pubblico ai sensi del successivo articolo 9".
 
 ## Art. 7.
 
@@ -57,7 +57,7 @@ Gli esami di cui ai punti b) e c) competono al Ministero dell'agricoltura e dell
 ## Art. 8.
 
 L'ultimo comma dell'[articolo 9 del decreto del Presidente della Repubblica 12 agosto 1975, n. 974](Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), e' sostituito dai seguenti:
- "Per le domande di brevetto concernenti nuove varieta' vegetali il termine previsto dall'[articolo 4 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_4), per la messa a disposizione del pubblico della documentazione e' di novanta giorni a decorrere dalla data di deposito della domanda.
+ "Per le domande di brevetto concernenti nuove varieta' vegetali il termine previsto dall'[articolo 4 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), per la messa a disposizione del pubblico della documentazione e' di novanta giorni a decorrere dalla data di deposito della domanda.
  Nei sessanta giorni successivi al suddetto termine chiunque puo' comunicare all'Ufficio centrale brevetti le proprie osservazioni, in duplice copia, in merito alla brevettazione della varieta' vegetale".
 
 ## Art. 9.
@@ -77,12 +77,12 @@ o se viene accertato che al momento della concessione non ricorrevano le condizi
 ## Art. 12.
 
 Il [primo comma dell'articolo 14 del decreto del Presidente della Repubblica 12 agosto 1975, n. 974](Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), e' sostituito dal seguente:
- "Ai brevetti concernenti nuove varieta' vegetali si applicano, in quanto compatibili con le disposizioni contenute nel presente decreto, le norme del [decreto del Presidente della Repubblica 26 febbraio 1968, n. 849](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-02-26;849), e successive modificazioni, in materia di licenze obbligatorie".
+ "Ai brevetti concernenti nuove varieta' vegetali si applicano, in quanto compatibili con le disposizioni contenute nel presente decreto, le norme del [decreto del Presidente della Repubblica 26 febbraio 1968, n. 849](../DPR/Applicazione%20delle%20norme%20della%20convenzione%20per%20la%20protezione%20della%20proprieta%20industriale%20firmata%20a%20Lisbona%20il%2031%20ottobre%201958%20e%20ratificata%20con%20la%20legge%204%20luglio%201967%20n.%20676.md), e successive modificazioni, in materia di licenze obbligatorie".
 
 ## Art. 13.
 
 L'[articolo 22 del decreto del Presidente della Repubblica 12 agosto 1975, n. 974](Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), e' sostituito dal seguente: "Il brevetto per nuova varieta' vegetale e' soggetto alle stesse tasse ed alle stesse scadenze stabilite per i brevetti per invenzioni industriali.
- Per la domanda e concessione di licenze obbligatorie speciali di cui al precedente articolo 15 sono dovute le stesse tasse ed alle stesse scadenze stabilite per le licenze obbligatorie ordinarie dal n. 91 del titolo VIII della tariffa allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641), e successive modificazioni".
+ Per la domanda e concessione di licenze obbligatorie speciali di cui al precedente articolo 15 sono dovute le stesse tasse ed alle stesse scadenze stabilite per le licenze obbligatorie ordinarie dal n. 91 del titolo VIII della tariffa allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), e successive modificazioni".
 
 ## Art. 14.
 

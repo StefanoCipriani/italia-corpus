@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'articolo 1° del testo unico dello leggi per la risoluzione delle controversie doganali, approvato con [R. decreto 9 aprile 1911, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-04-09;330), e' aggiunto il seguente comma: 
+All'articolo 1° del testo unico dello leggi per la risoluzione delle controversie doganali, approvato con [R. decreto 9 aprile 1911, n. 330](Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20risoluzione%20delle%20controversie%20doganali.%20011U0330.md), e' aggiunto il seguente comma: 
  
  «La controversia non avra' ulteriore corso e la merce sara' classificata secondo la richiesta della dogana se: 
  

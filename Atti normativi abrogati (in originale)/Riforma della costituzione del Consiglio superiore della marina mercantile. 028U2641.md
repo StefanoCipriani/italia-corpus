@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti-legge 10 aprile 1924, n. 532](Riforma%20della%20costituzione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20024U0532.md), e [25 settembre 1924, n. 1604](Modificazione%20dellart.%202%20del%20R.%20decreto-legge%2010%20aprile%201924%20n.%20532%20sulla%20ricostituzione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20024U1604.md), convertiti in legge rispettivamente con le [leggi 17 aprile 1925, n. 473, e 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), relativi alla costituzione del Consiglio superiore della marina mercantile;
+Visti i [Regi decreti-legge 10 aprile 1924, n. 532](Riforma%20della%20costituzione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20024U0532.md), e [25 settembre 1924, n. 1604](Modificazione%20dellart.%202%20del%20R.%20decreto-legge%2010%20aprile%201924%20n.%20532%20sulla%20ricostituzione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20024U1604.md), convertiti in legge rispettivamente con le [leggi 17 aprile 1925, n. 473, e 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), relativi alla costituzione del Consiglio superiore della marina mercantile;
 
 Ritenuta la necessita di provvedere ad un nuovo ordinamento del Consiglio superiore predetto;
 
@@ -210,7 +210,7 @@ Per l'attuazione del presente decreto, le relative spese saranno sopportate dal 
 
 ## Art. 11.
 
-I [Regi decreti-legge 10 aprile 1921, n. 532](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-04-10;532), e [25 settembre 1924, n. 1604](Modificazione%20dellart.%202%20del%20R.%20decreto-legge%2010%20aprile%201924%20n.%20532%20sulla%20ricostituzione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20024U1604.md), convertiti in legge rispettivamente con le [leggi 17 aprile 1925, n. 473, e 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), sono abrogati. 
+I [Regi decreti-legge 10 aprile 1921, n. 532](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-04-10;532), e [25 settembre 1924, n. 1604](Modificazione%20dellart.%202%20del%20R.%20decreto-legge%2010%20aprile%201924%20n.%20532%20sulla%20ricostituzione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20024U1604.md), convertiti in legge rispettivamente con le [leggi 17 aprile 1925, n. 473, e 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), sono abrogati. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

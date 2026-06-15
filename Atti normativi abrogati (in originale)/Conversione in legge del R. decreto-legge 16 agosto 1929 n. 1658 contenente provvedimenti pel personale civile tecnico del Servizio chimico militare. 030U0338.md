@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [Regio decreto-legge 16 agosto 1929, n. 1658](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-08-16;1658), contenente provvedimenti pel personale civile tecnico del Servizio chimico militare. 
+ E' convertito in legge il [Regio decreto-legge 16 agosto 1929, n. 1658](Provvedimenti%20pel%20personale%20tecnico%20civile%20del%20servizio%20chimico%20militare.%20029U1658.md), contenente provvedimenti pel personale civile tecnico del Servizio chimico militare. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

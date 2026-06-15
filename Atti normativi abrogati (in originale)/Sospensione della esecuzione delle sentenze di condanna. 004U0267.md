@@ -16,13 +16,13 @@ Nel pronunziare sentenze di condanna alla reclusione, alla detenzione, al confin
 
 ## Art. 2.
 
-In caso di delitto la sospensione della condanna puo' essere subordinata al risarcimento del danno cagionato, che gia' sia stato liquidato nella sentenza, o al pagamento di una somma da imputarsi nella liquidazione del danno stesso, o ad una riparazione, giusta l'[articolo 38 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_38), non che al pagamento delle spese del procedimento, entro un termine da prefiggersi nella sentenza.
+In caso di delitto la sospensione della condanna puo' essere subordinata al risarcimento del danno cagionato, che gia' sia stato liquidato nella sentenza, o al pagamento di una somma da imputarsi nella liquidazione del danno stesso, o ad una riparazione, giusta l'[articolo 38 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), non che al pagamento delle spese del procedimento, entro un termine da prefiggersi nella sentenza.
 
 ## Art. 3.
 
 Nel caso preveduto dall'articolo 1°, se il condannato, entro il termine suddetto, non commetta un delitto, la condanna si ha come non avvenuta. 
  
- In caso diverso, la sospensione dell'esecuzione della condanna s'intende revocata, e la pena e' scontata secondo le norme degli [articoli 68 e seguenti del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_68). 
+ In caso diverso, la sospensione dell'esecuzione della condanna s'intende revocata, e la pena e' scontata secondo le norme degli [articoli 68 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  La sospensione dell'esecuzione della condanna s'intende revocata altresi' se l'imputato, durante il termine suddetto, sia condannato alla reclusione per delitto commesso prima della condanna, la cui esecuzione fu dichiarata sospesa.
 
@@ -34,7 +34,7 @@ La sospensione dell'esecuzione della condanna non si estende alle sanzioni diver
 
 ## Art. 5.
 
-Qualora il giudice ordini che l'esecuzione della condanna rimanga sospesa, il presidente o il pretore, dopo letta la sentenza, rivolge in pubblica udienza al condannato un severo ammonimento, e lo avverte che se, entro il termine in essa stabilito, commetta un delitto, la pena e' scontata a norma del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+Qualora il giudice ordini che l'esecuzione della condanna rimanga sospesa, il presidente o il pretore, dopo letta la sentenza, rivolge in pubblica udienza al condannato un severo ammonimento, e lo avverte che se, entro il termine in essa stabilito, commetta un delitto, la pena e' scontata a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 

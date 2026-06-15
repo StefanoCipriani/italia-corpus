@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [decreto Luogotenenziale 6 settembre 1917 n. 1451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-09-06;1451), che istituisce presso il Ministero delle poste e dei telegrafi il servizio dei conti correnti e assegni postali;
 
-Visto il regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [R. decreto 4 maggio 1885, n. 3074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-05-04;3074) (serie 3ª);
+Visto il regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [R. decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md) (serie 3ª);
 
 Udito il Consiglio dei ministri;
 
@@ -32,7 +32,7 @@ Il pagamento degli assegni fissi ai pensionati dello Stato e degli Istituti di p
 
 Gli impiegati in disponibilita', in aspettativa ed in posizione ausiliaria, i pensionati, i danneggiati politici, ed in generale coloro che godono assegni vitalizi di cui all'art. 1, saranno dispensati dall'obbligo di presentare il certificato di esistenza in vita per la riscossione delle somme loro dovute, quando tale riscossione venga fatta direttamente dai creditori. 
  
- Saranno parimenti dispensati dal presentare il certificato di vedovanza o di stato libero le vedove e le orfane nubili provviste di pensione di riversibilita'. All'atto della consegna del titolo di pagamento della pensione, le vedove e le orfane nubili o i rappresentanti di queste, se minorenni, dovranno firmare una dichiarazione dalla quale risulti che le vedove non sono passate ad altre nozze e che le orfane pensionate conservino lo stato libero. Le false dichiarazioni, oltre ad essere punibili a termini dell'[art. 279 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_279), danno luogo al ricupero delle somme percette indebitamente. 
+ Saranno parimenti dispensati dal presentare il certificato di vedovanza o di stato libero le vedove e le orfane nubili provviste di pensione di riversibilita'. All'atto della consegna del titolo di pagamento della pensione, le vedove e le orfane nubili o i rappresentanti di queste, se minorenni, dovranno firmare una dichiarazione dalla quale risulti che le vedove non sono passate ad altre nozze e che le orfane pensionate conservino lo stato libero. Le false dichiarazioni, oltre ad essere punibili a termini dell'[art. 279 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), danno luogo al ricupero delle somme percette indebitamente. 
  
  I pensionati residenti all'estero, per la riscossione dei loro assegni, dovranno produrre il certificato di vita.
 

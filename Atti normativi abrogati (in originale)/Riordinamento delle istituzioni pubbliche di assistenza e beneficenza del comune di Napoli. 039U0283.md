@@ -78,7 +78,7 @@ Sono fusi in unico Ente denominato « Ospedali Riuniti di Napoli »:
  
  Il presidente di esso e' nominato con decreto Reale su proposta del Ministro per l'interno. 
  
- All'ente medesimo sara' attribuito l'Ospedale allo Scudillo, costruito ed arredato a cura ed a carico dello Stato, in esecuzione dei [Regi decreti-legge 6 gennaio 1927, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-06;221) e [23 dicembre 1937, n. 2573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-12-23;2573).
+ All'ente medesimo sara' attribuito l'Ospedale allo Scudillo, costruito ed arredato a cura ed a carico dello Stato, in esecuzione dei [Regi decreti-legge 6 gennaio 1927, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-06;221) e [23 dicembre 1937, n. 2573](Autorizzazione%20alla%20spesa%20di%20L.%2029.000.000%20per%20provvedere%20al%20completamento%20dei%20lavori%20ed%20allarredamento%20del%20nuovo%20Ospedale%20di%20Napoli.%20037U2573.md).
 
 ## Art. 9.
 

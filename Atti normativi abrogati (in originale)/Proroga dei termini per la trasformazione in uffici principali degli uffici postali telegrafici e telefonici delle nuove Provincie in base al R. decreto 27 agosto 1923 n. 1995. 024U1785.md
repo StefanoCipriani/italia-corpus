@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 27 agosto 1923, n. 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-27;1995), relativo alla trasformazione degli uffici postali, telegrafici e telefonici delle nuove Provincie, ed il [R. decreto 20 dicembre 1923, numero 2810](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-20;2810), col quale furono apportate modificazioni al Regio decreto sopra citato;
+Veduto il [R. decreto 27 agosto 1923, n. 1995](Norme%20per%20la%20trasformazione%20degli%20uffici%20postali%20telegrafici%20e%20telefonici%20delle%20nuove%20provincie%20in%20base%20allordinamento%20stabilito%20dal%20R.%20decreto%2018%20marzo%201923%20n.%20596.%20023U1995.md), relativo alla trasformazione degli uffici postali, telegrafici e telefonici delle nuove Provincie, ed il [R. decreto 20 dicembre 1923, numero 2810](Modificazioni%20al%20R.%20decreto%2027%20agosto%201923%20n.%201995%20relative%20alla%20trasformazione%20degli%20uffici%20postali%20telegrafici%20e%20telefonici%20delle%20nuove%20Provincie.%20023U2810.md), col quale furono apportate modificazioni al Regio decreto sopra citato;
 
 Veduto il [R. decreto-legge 23 maggio 1924, n. 904](Proroga%20dei%20termini%20stabiliti%20dal%20R.%20decreto%2027%20agosto%201923%20n.%201995%20per%20la%20trasformazione%20degli%20uffici%20postali%20telegrafici%20e%20telefonici%20delle%20nuove%20Provincie.%20024U0904.md), con cui furono prorogati al 31 dicembre 1924 i termini per la trasformazione degli uffici postali, telegrafici e telefonici delle nuove Provincie;
 
@@ -24,7 +24,7 @@ Su proposta del Nostro Ministro Segretario di Stato per le comunicazioni; Abbiam
 
 ## Art. 1.
 
-I termini di cui all'[articolo 1 del R. decreto 27 agosto 1923, n. 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-27;1995#art_1), relativo alla trasformazione degli uffici postali, telegrafici e telefonici delle nuove Provincie in uffici principali, secondari, ricevitorie, agenzie e posti telefonici pubblici, sono prorogati al 30 giugno 1925. 
+I termini di cui all'[articolo 1 del R. decreto 27 agosto 1923, n. 1995](Norme%20per%20la%20trasformazione%20degli%20uffici%20postali%20telegrafici%20e%20telefonici%20delle%20nuove%20provincie%20in%20base%20allordinamento%20stabilito%20dal%20R.%20decreto%2018%20marzo%201923%20n.%20596.%20023U1995.md), relativo alla trasformazione degli uffici postali, telegrafici e telefonici delle nuove Provincie in uffici principali, secondari, ricevitorie, agenzie e posti telefonici pubblici, sono prorogati al 30 giugno 1925. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

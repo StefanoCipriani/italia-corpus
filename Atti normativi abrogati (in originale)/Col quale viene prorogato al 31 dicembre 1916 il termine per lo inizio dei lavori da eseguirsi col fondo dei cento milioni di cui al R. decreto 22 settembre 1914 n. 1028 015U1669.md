@@ -32,7 +32,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Articolo unico.
 
-Il termine entro il quale, giusta l'[art. 6 del R. decreto 22 settembre 1914, n. 1028](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-22;1028#art_6), le Provincie e i Comuni debbono avere iniziati i lavori, sotto pena di decadenza dalla concessione dei mutui por la esecuzione dei lavori stessi, gia' prorogato col [R. decreto 31 dicembre 1914, n. 1465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-12-31;1465), e col Nostro decreto 5 giugno 1915, n. 856, e' ulteriormente prorogato a tutto il 31 dicembre 1916. 
+Il termine entro il quale, giusta l'[art. 6 del R. decreto 22 settembre 1914, n. 1028](Col%20quale%20vengono%20autorizzate%20anticipazioni%20di%20fondi%20alla%20Cassa%20depositi%20e%20prestiti%20per%20metterla%20in%20grado%20di%20concedere%20alle%20Provincie%20ed%20ai%20Comuni%20mutui%20destinati%20alla%20pronta%20esecuzione%20d_6b598753f60b.md), le Provincie e i Comuni debbono avere iniziati i lavori, sotto pena di decadenza dalla concessione dei mutui por la esecuzione dei lavori stessi, gia' prorogato col [R. decreto 31 dicembre 1914, n. 1465](Da%20convertirsi%20in%20legge%20col%20quale%20sono%20prorogati%20i%20termini%20stabiliti%20dagli%20articoli%203%20e%206%20del%20R.%20decreto%2022%20settembre%201914%20n.%201028%20che%20autorizza%20lanticipazione%20di%20un%20fondo%20di%20100%20milioni%20_6971eade0c5b.md), e col Nostro decreto 5 giugno 1915, n. 856, e' ulteriormente prorogato a tutto il 31 dicembre 1916. 
  
  Il presente decreto sara' presentato al Parlamento nazionale per essere convertito in logge. 
  

@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 16 dicembre 1914, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1354);
+Vista la [legge 16 dicembre 1914, n. 1354](Per%20la%20proroga%20dellesercizio%20provvisorio%20dei%20bilanci%20e%20provvedimenti%20finanziari.%20014U1354.md);
 
 Udito il Consiglio dei ministri;
 

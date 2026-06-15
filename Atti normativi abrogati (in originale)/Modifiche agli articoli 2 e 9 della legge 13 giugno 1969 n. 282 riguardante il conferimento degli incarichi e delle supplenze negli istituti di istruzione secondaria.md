@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77);
 
-Ritenuta la necessita' e l'urgenza di apportare modifiche agli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-06-13;282#art_2) e [9 della legge 13 giugno 1969, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-06-13;282#art_9), riguardante il conferimento degli incarichi e delle supplenze negli istituti di istruzione secondaria;
+Ritenuta la necessita' e l'urgenza di apportare modifiche agli [articoli 2](Conferimento%20degli%20incarichi%20e%20delle%20supplenze%20negli%20istituti%20di%20istruzione%20secondaria.md) e [9 della legge 13 giugno 1969, n. 282](Conferimento%20degli%20incarichi%20e%20delle%20supplenze%20negli%20istituti%20di%20istruzione%20secondaria.md), riguardante il conferimento degli incarichi e delle supplenze negli istituti di istruzione secondaria;
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,12 +20,12 @@ Sulla proposta del Ministro per la pubblica istruzione; Decreta:
 
 ## Art. 1.
 
-Il [secondo comma dell'art. 2 della legge 13 giugno 1969, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-06-13;282#art_2-com2), e' sostituito dal seguente:
+Il [secondo comma dell'art. 2 della legge 13 giugno 1969, n. 282](Conferimento%20degli%20incarichi%20e%20delle%20supplenze%20negli%20istituti%20di%20istruzione%20secondaria.md), e' sostituito dal seguente:
  "E' ammessa la presentazione della domanda ad un solo Provveditorato agli studi".
 
 ## Art. 2.
 
-Il [terzo comma dell'art. 9 della legge 13 giugno 1969, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-06-13;282#art_9-com3), e' sostituito dal seguente:
+Il [terzo comma dell'art. 9 della legge 13 giugno 1969, n. 282](Conferimento%20degli%20incarichi%20e%20delle%20supplenze%20negli%20istituti%20di%20istruzione%20secondaria.md), e' sostituito dal seguente:
  "Le domande di cui al comma precedente saranno presentate entro il termine da stabilirsi annualmente con ordinanza ministeriale e non posteriore, comunque, al 31 ottobre".
 
 ## Art. 3.

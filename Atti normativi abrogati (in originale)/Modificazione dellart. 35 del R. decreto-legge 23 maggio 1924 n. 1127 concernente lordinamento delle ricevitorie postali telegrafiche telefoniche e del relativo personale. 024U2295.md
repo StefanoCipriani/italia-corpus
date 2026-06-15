@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 35 del R. decreto-legge n. 1127 del 23 maggio 1924](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md);
 
-Visto il regolamento approvato con [R. decreto n. 196 del 13 febbraio 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-02-13;196);
+Visto il regolamento approvato con [R. decreto n. 196 del 13 febbraio 1921](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20ottobre%201919%20n.%202100%20modificato%20col%20R.%20decreto-legge%2030%20settembre%201920%20n.%201441%20riflettente%20lordinamento%20delle%20ricevitorie_1844c5b600cd.md);
 
 Ritenuto che non e' possibile addivenire alla pubblicazione entro il 31 dicembre 1924 del regolamento d'esecuzione dell'anzidetto Regio decreto-legge, in quanto sono tuttora allo studio proposte intese a modificarne singole disposizioni;
 

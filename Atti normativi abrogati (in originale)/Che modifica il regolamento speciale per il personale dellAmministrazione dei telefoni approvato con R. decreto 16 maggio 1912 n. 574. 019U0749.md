@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-I sottoindicati articoli del regolamento speciale per il personale dell'Amministrazione dei telefoni, approvato con [R. decreto 16 maggio 1912, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;574), sono modificati come segue: 
+I sottoindicati articoli del regolamento speciale per il personale dell'Amministrazione dei telefoni, approvato con [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), sono modificati come segue: 
  
  Art. 1. 
  
  Le ammissioni ai posti con stipendio minimo nei quadri I e II della tabella A e in quelli II e IV della tabella B dei ruoli organici della Amministrazione dei telefoni sono fatte nei modi e con le forme indicate negli articoli seguenti. 
  
- Quando le ammissioni riguardino aspiranti estranei all'Amministrazione, questi dovranno comprovare il possesso dei requisiti prescritti dall'art. 3 del testo unico delle leggi sullo stato degli impiegati civili e dall'allegato 2 delle aggiunte e varianti al presente regolamento, salvo quanto e' disposto a favore degli invalidi di guerre dalla [legge n. 481 del 25 marzo 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;481), e dal relativo [regolamento n. 1158 del 28 giugno 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1917-06-28;1158). 
+ Quando le ammissioni riguardino aspiranti estranei all'Amministrazione, questi dovranno comprovare il possesso dei requisiti prescritti dall'art. 3 del testo unico delle leggi sullo stato degli impiegati civili e dall'allegato 2 delle aggiunte e varianti al presente regolamento, salvo quanto e' disposto a favore degli invalidi di guerre dalla [legge n. 481 del 25 marzo 1917](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), e dal relativo [regolamento n. 1158 del 28 giugno 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1917-06-28;1158). 
  
  Art. 6. 
  
@@ -166,9 +166,9 @@ I sottoindicati articoli del regolamento speciale per il personale dell'Amminist
 
 ## Art. 2.
 
-Sono aggiunti i seguenti commi all'art. 117-B delle aggiunte varianti al regolamento speciale approvate col [R. decreto n. 462 del 6 aprile 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-04-06;462): 
+Sono aggiunti i seguenti commi all'art. 117-B delle aggiunte varianti al regolamento speciale approvate col [R. decreto n. 462 del 6 aprile 1913](Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md): 
  
- Gli invalidi di guerra, i quali consegnano la titolarita' della ricevitoria di seconda classe, hanno facolta' di prestare la cauzione prescritta, al momento dell'assunzione in servizio, mediante ritenuta sulla pensione o sugli assegni temporanei o rinnovabili loro liquidati e nella misura che risultera' disponibile tenuto conto degli eventuali impegni assunti in forza dell'[art. 21 della legge 25 marzo 1917, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;491#art_21), e dell'[art. 2 della legge 30 giugno 1908, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;335#art_2). 
+ Gli invalidi di guerra, i quali consegnano la titolarita' della ricevitoria di seconda classe, hanno facolta' di prestare la cauzione prescritta, al momento dell'assunzione in servizio, mediante ritenuta sulla pensione o sugli assegni temporanei o rinnovabili loro liquidati e nella misura che risultera' disponibile tenuto conto degli eventuali impegni assunti in forza dell'[art. 21 della legge 25 marzo 1917, n. 491](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%2014%20novembre%201917%20n.%201624%20concernente%20lo%20stanziamento%20di%20somme%20destinale%20allammortamento%20delle%20anticipazioni%20fatte%20dalla%20Cassa%20depositi%20e%20p_479a652306ac.md), e dell'[art. 2 della legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md). 
  
  Per valersi della facolta' di cui sopra, gli invalidi di guerra devono rilasciare un atto scritto di consenso alle ritenute, nel quale sia anche indicato se le relative somme debbono convertirsi in titolo cauzionale definitivo mediante deposito presso la Cassa depositi e prestiti di numerario o di titoli dello Stato garantiti dallo Stato. 
  

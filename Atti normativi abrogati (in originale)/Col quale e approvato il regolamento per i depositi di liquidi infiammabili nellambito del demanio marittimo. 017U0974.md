@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visti gli articoli 157, 158, 159, 163 e 461 del Codice per la marina mercantile; 
  
- Visti i capitoli I, II, III e IV del titolo III e l'articolo 857 del regolamento per l'esecuzione del Codice suddetto, approvato con [R. decreto 20 novembre 1879, n. 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166) (serie 3ª); 
+ Visti i capitoli I, II, III e IV del titolo III e l'articolo 857 del regolamento per l'esecuzione del Codice suddetto, approvato con [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md) (serie 3ª); 
  
  Udito il parere del Consiglio superiore della marina mercantile e del Consiglio di Stato; 
  

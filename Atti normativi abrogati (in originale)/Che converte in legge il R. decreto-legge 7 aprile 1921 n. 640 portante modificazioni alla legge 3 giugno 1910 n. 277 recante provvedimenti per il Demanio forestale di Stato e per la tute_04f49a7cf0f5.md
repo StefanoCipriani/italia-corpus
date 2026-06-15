@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 aprile 1921, n. 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-04-07;640), portante modificazioni alla [legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md), riguardante provvedimenti per il Demanio forestale di Stato per la tutela e l'incoraggiamento della selvicoltura. 
+ E' convertito in legge il [R. decreto-legge 7 aprile 1921, n. 640](Che%20apporta%20modificazioni%20alla%20legge%202%20giugno%201910%20n.%20277%20contenente%20provvedimenti%20per%20il%20demanio%20forestale%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20021U0640.md), portante modificazioni alla [legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md), riguardante provvedimenti per il Demanio forestale di Stato per la tutela e l'incoraggiamento della selvicoltura. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

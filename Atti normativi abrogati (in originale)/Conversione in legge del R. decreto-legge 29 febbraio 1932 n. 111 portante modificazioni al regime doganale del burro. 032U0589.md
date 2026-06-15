@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 febbraio 1932, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-02-29;111) portante modificazioni al regime doganale del burro. 
+ E' convertito in legge il [R. decreto-legge 29 febbraio 1932, n. 111](Modifiche%20al%20regime%20doganale%20del%20burro.%20032U0111.md) portante modificazioni al regime doganale del burro. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 19 maggio 1932 - Anno X 
  

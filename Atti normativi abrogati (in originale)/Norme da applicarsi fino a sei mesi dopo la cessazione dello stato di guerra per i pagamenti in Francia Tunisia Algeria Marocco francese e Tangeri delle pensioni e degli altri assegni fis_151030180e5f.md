@@ -38,7 +38,7 @@ Nei casi previsti all'art. 2, il Regio console italiano residente a Tangeri, all
  
  e) che il beneficiario non ha perduto la cittadinanza italiana, ne' acquistato una cittadinanza straniera, ai sensi della legge 31 gennaio 1926-IV, n. 108, del R. decreto-legge 7 settembre 1933-XI, n. 1295, e del R. decreto-legge 8 luglio 1938-XVI, n. 1415; 
  
- f) che il beneficiario non ha riportato condanna che o privi in tutto o in parte del godimento della pensione, ai termini del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398); del [testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70), e del R. decreto 12 luglio 1923-I, numnero 1491; 
+ f) che il beneficiario non ha riportato condanna che o privi in tutto o in parte del godimento della pensione, ai termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); del [testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70), e del R. decreto 12 luglio 1923-I, numnero 1491; 
  
  g) inoltre, qualora si tratti di beneficiaria di pensione di riversibilita' o di intestataria di quota o di assegno di integrazione, che essa conserva tuttora lo stato vedovile o nubile. 
  

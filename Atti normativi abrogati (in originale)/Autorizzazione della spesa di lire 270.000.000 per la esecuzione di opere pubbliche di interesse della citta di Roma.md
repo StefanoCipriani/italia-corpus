@@ -35,7 +35,7 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 E' autorizzata la complessiva spesa di L. 270.000.000 per provvedere a carico dello Stato nella citta' di Roma:
  al riassetto della viabilita' comunale e delle altre opere pubbliche comunali deteriorate in conseguenza dell'uso straordinario fattone per necessita' occasionate dalla guerra;
  all'esecuzione di opere pubbliche comunali e al Completamento di quelle dirette a tutelare l'igiene pubblica e ad assicurare il normale funzionamento di altri indispensabili servizi cittadini;
- al ripristino di opere pubbliche comunali danneggiate da azioni belliche, salva restando l'applicazione delle disposizioni delle [leggi 9 luglio 1940, n. 938, e 26 ottobre 1940, n. 1543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-26;1543), per quelle fra le dette opere che non siano finanziate in base al presente decreto.
+ al ripristino di opere pubbliche comunali danneggiate da azioni belliche, salva restando l'applicazione delle disposizioni delle [leggi 9 luglio 1940, n. 938, e 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md), per quelle fra le dette opere che non siano finanziate in base al presente decreto.
  La suindicata somma di L. 270.000.000, sara' inscritta con decreti del Ministro per il tesoro in apposito capitolo della parte straordinaria dello stato di previsione della spesa del Ministero dei lavori pubblici, a misura del fabbisogno occorrente.
 
 ## Art. 2.

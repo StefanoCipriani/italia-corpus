@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il regolamento sul servizio dei fari e del segnalamento marittimo, approvato con [decreto Luogotenenziale 23 luglio 1915, n. 1240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-23;1240); 
  
- Vista la [legge in data 29 giugno 1917, n. 1025](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-06-29;1025), che approva l'esercizio provvisorio del bilancio 1917-918; 
+ Vista la [legge in data 29 giugno 1917, n. 1025](Che%20autorizza%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20dellanno%20finanziario%201917-918%20fino%20al%2031%20luglio%201917.%20017U1025.md), che approva l'esercizio provvisorio del bilancio 1917-918; 
  
  Sulla proposta del ministro della marina; 
  

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 17 della legge 19 dicembre 1992, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489#art_17), recante delega al Governo per l'attuazione della [direttiva 91/628/CEE del Consiglio del 19 novembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;628);
+Visto l'[art. 17 della legge 19 dicembre 1992, n. 489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md), recante delega al Governo per l'attuazione della [direttiva 91/628/CEE del Consiglio del 19 novembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;628);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 dicembre 1992;
 
@@ -248,7 +248,7 @@ Le Regioni a statuto ordinario ed a statuto speciale e le prov- ince autonome di
 
 3.
 
-Ferma restando la competenza generale del Comune a vigilare sul rispetto delle norme di protezione degli animali anche tramite le guardie zoofile delle associazioni di volontariato, fatta salva la competenza del Prefetto a vigilare sulle violazioni all'[art. 727 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_727), le Unita' Sanitarie Locali nell'ambito della vigilanza di cui all'[art. 6, lettera u) della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_6-letu), controllano l'applicazione delle disposizioni del presente decreto.
+Ferma restando la competenza generale del Comune a vigilare sul rispetto delle norme di protezione degli animali anche tramite le guardie zoofile delle associazioni di volontariato, fatta salva la competenza del Prefetto a vigilare sulle violazioni all'[art. 727 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le Unita' Sanitarie Locali nell'ambito della vigilanza di cui all'[art. 6, lettera u) della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_6-letu), controllano l'applicazione delle disposizioni del presente decreto.
 
 4.
 
@@ -256,7 +256,7 @@ Il Ministero della Sanita' comunica alla Commissione le disposizioni piu' favore
 
 5.
 
-Le entrate previste dall'[art. 5, comma 12 della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_5-com12), sono utilizzate anche per le attivita' che il personale del Ministero della Sanita' svolge nell'ambito delle funzioni di controllo, programmazione, verifica, informazione ed educazione sanitaria.
+Le entrate previste dall'[art. 5, comma 12 della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), sono utilizzate anche per le attivita' che il personale del Ministero della Sanita' svolge nell'ambito delle funzioni di controllo, programmazione, verifica, informazione ed educazione sanitaria.
 
 ### Art. 14.
 

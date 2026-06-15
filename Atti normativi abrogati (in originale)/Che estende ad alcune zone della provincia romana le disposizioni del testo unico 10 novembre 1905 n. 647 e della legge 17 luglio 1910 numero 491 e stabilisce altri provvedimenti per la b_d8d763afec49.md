@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [testo unico 10 novembre 1905, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-11-10;647), e la [legge 17 luglio 1910, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491), concernenti il bonificamento e la colonizzazione dell'Agro romano;
+Visto il [testo unico 10 novembre 1905, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-11-10;647), e la [legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md), concernenti il bonificamento e la colonizzazione dell'Agro romano;
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-Le disposizioni del [testo unico 10 novembre 1905, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-11-10;647), e della [legge 17 luglio 1910, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491), per il bonificamento dell'Agro romano e del presente decreto Luogotenenziale sono estese alle seguenti zone della provincia di Roma: 
+Le disposizioni del [testo unico 10 novembre 1905, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-11-10;647), e della [legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md), per il bonificamento dell'Agro romano e del presente decreto Luogotenenziale sono estese alle seguenti zone della provincia di Roma: 
  
  a) i terreni dell'Agro pontino compresi tra la base dei monti Lepini e colli Albani, il mar Tirreno e costituenti la parte pianeggiante dei terreni dei comuni di Cisterna, Sermoneta, Sezze Romano, Piperno, Sonnino, Terracina, San Felice Circeo; 
  
@@ -56,9 +56,9 @@ Tutti i contratti che riguardino comunque l'esercizio dell'industria agraria, ne
 
 ## Art. 5.
 
-Le disposizioni della [legge 17 luglio 1910, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491), concernenti i centri di colonizzazione agraria, si applicano anche alla costituzione dei centri rurali che siano dotati di terreno coltivabile non eccedente la superficie di 15 ettari per ciascuna delle famiglie, il numero delle quali, per ogni centro, non potra' essere inferiore a dieci. 
+Le disposizioni della [legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md), concernenti i centri di colonizzazione agraria, si applicano anche alla costituzione dei centri rurali che siano dotati di terreno coltivabile non eccedente la superficie di 15 ettari per ciascuna delle famiglie, il numero delle quali, per ogni centro, non potra' essere inferiore a dieci. 
  
- E' pure ammessa, coi benefici di cui alla [legge 17 luglio 1910, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491), la costituzione di centri abitati, anche se destinati a famiglie non addette all'agricoltura o all'artigianato agricolo, dandosi la preferenza a quei centri che sorgessero ai margini delle strade o circostanti le stazioni ferroviarie e tranviarie. 
+ E' pure ammessa, coi benefici di cui alla [legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md), la costituzione di centri abitati, anche se destinati a famiglie non addette all'agricoltura o all'artigianato agricolo, dandosi la preferenza a quei centri che sorgessero ai margini delle strade o circostanti le stazioni ferroviarie e tranviarie. 
  
  I due tipi di centri sopra indicati dovranno sorgere, in ogni caso, oltre 5 km. dalla cinta daziaria della citta' di Roma. 
  
@@ -66,17 +66,17 @@ Le disposizioni della [legge 17 luglio 1910, n. 491](https://www.normattiva.it/u
 
 ## Art. 6.
 
-Il limite di cinque esercizi di cui all'[art. 5 della legge 17 luglio 1910, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491#art_5), e' soppresso e la somma occorrente per i mutui contemplati dall'articolo medesimo sara' cumulata, agli effetti del presente decreto, con quella stabilita dall'[art. 29 del testo unico 10 novembre 1905, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-11-10;647#art_29). 
+Il limite di cinque esercizi di cui all'[art. 5 della legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md), e' soppresso e la somma occorrente per i mutui contemplati dall'articolo medesimo sara' cumulata, agli effetti del presente decreto, con quella stabilita dall'[art. 29 del testo unico 10 novembre 1905, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-11-10;647#art_29). 
  
  La Cassa depositi e prestiti e' autorizzata a somministrare la somma annua di tre milioni al Ministero di agricoltura per la concessione dei mutui di favore alle condizioni fissate dall'articolo 29 del testo unico predetto. Tale autorizzazione ha la durata di 20 anni. 
  
  Le somme che in ciascun anno non sono state somministrate sui tre milioni si intendono cumulate con quelle da somministrare negli anni successivi. 
  
- La differenza tra l'interesse normale e il tasso di favore sui mutui concessi per i centri di colonizzazione, sara' pagata sui fondi della Cassa di colonizzazione, di cui all'[art. 12 della legge 17 luglio 1910, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491#art_12).
+ La differenza tra l'interesse normale e il tasso di favore sui mutui concessi per i centri di colonizzazione, sara' pagata sui fondi della Cassa di colonizzazione, di cui all'[art. 12 della legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md).
 
 ## Art. 7.
 
-Tenuto conto della disponibilita' di lire due milioni sui fondi autorizzati per la costruzione delle strade comunali dell'Agro romano dalle [leggi 6 giugno 1907, n. 300, 5 aprile 1908, n. 126 e 20 giugno 1912, n. 712](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-20;712) e della maggior somma di 8 milioni da stanziarsi per tali strade nel bilancio dei lavori pubblici in dipendenza del Nostro [decreto 7 febbraio 1919, n. 150, il Ministero dei lavori pubblici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavori.pubblici:decreto:1919-02-07;150), di accordo col Ministero di agricoltura e col comune di Roma, provvedera' a una revisione del vigente piano regolatore delle strade stesse e determinera', in rapporto con le esigenze del bonificamento agrario, l'ordine da seguire nella loro costruzione. 
+Tenuto conto della disponibilita' di lire due milioni sui fondi autorizzati per la costruzione delle strade comunali dell'Agro romano dalle [leggi 6 giugno 1907, n. 300, 5 aprile 1908, n. 126 e 20 giugno 1912, n. 712](Che%20approva%20provvedimenti%20per%20agevolare%20lesecuzione%20di%20opere%20di%20bonifica%20di%20prima%20categoria.%20012U0712.md) e della maggior somma di 8 milioni da stanziarsi per tali strade nel bilancio dei lavori pubblici in dipendenza del Nostro [decreto 7 febbraio 1919, n. 150, il Ministero dei lavori pubblici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavori.pubblici:decreto:1919-02-07;150), di accordo col Ministero di agricoltura e col comune di Roma, provvedera' a una revisione del vigente piano regolatore delle strade stesse e determinera', in rapporto con le esigenze del bonificamento agrario, l'ordine da seguire nella loro costruzione. 
  
  I proprietari hanno l'obbligo di contribuire alla costruzione delle strade somministrando a proprie spese il terreno occorrente alla sede stradale. 
  
@@ -92,7 +92,7 @@ Fino a quando non sara' completata la sistemazione fondiaria delle zone in cui t
 
 Mediante decreto Reale da promuoversi dai ministri di agricoltura e dei lavori pubblici potranno essere costituiti Consorzi obbligatori fra proprietari delle terre soggette a bonificamento per la provvista di acqua potabile e d'irrigazione, per la utilizzazione di energia elettrica, per la costruzione di strade rurali, e, in genere, per la esecuzione di opere e lavori nei quali abbiano comune interesse piu' fondi di una determinata zona. 
  
- A facilitare il compito dei predetti Consorzi, il Ministero di agricoltura potra' loro concedere mutui di favore e contributi. I contributi non potranno superare 1_4 della spesa totale delle opere, e saranno concessi sui fondi di cui all'[art. 13 della legge 17 luglio 1910, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491#art_13).
+ A facilitare il compito dei predetti Consorzi, il Ministero di agricoltura potra' loro concedere mutui di favore e contributi. I contributi non potranno superare 1_4 della spesa totale delle opere, e saranno concessi sui fondi di cui all'[art. 13 della legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md).
 
 ## Art. 10.
 

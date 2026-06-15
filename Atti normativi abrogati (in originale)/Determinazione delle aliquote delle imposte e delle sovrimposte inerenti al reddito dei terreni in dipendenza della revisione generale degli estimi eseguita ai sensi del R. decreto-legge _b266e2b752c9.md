@@ -26,7 +26,7 @@ Visto il R. decreto-legge 21 gennaio 1935-XIII, numero 29, concernente provvedim
 
 Visto il testo unico delle leggi sul nuovo catasto dei terreni, approvato con R. decreto 8 ottobre 1931-IX, n. 1572, e successive modificazioni;
 
-Visto il [testo unico 4 luglio 1897, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1897-07-04;276), per la conservazione degli antichi catasti dei terreni e dei fabbricati ed il relativo regolamento approvato con [R. decreto 24 marzo 1907, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-03-24;237), nonche' il regolamento per la conservazione del nuovo catasto dei terreni, approvato con R. decreto 8 dicembre 1938-XVII, n. 2153;
+Visto il [testo unico 4 luglio 1897, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1897-07-04;276), per la conservazione degli antichi catasti dei terreni e dei fabbricati ed il relativo regolamento approvato con [R. decreto 24 marzo 1907, n. 237](Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20sulla%20conservazione%20degli%20antichi%20catasti%20dei%20terreni%20e%20di%20quello%20urbano.%20007U0237.md), nonche' il regolamento per la conservazione del nuovo catasto dei terreni, approvato con R. decreto 8 dicembre 1938-XVII, n. 2153;
 
 Visto il R. decreto-legge 27 marzo 1939-XVII, numero 571, concernente la soppressione dell'imposta straordinaria sui terreni bonificati e norme di perequazione dell'imposta fondiaria;
 
@@ -48,7 +48,7 @@ Visti il testo unico di leggi per la finanza locale approvato con R. decreto 14 
 
 Visto il [R. decreto-legge 2 febbraio 1922, n. 119](Che%20reca%20provvedimenti%20per%20il%20Consorzio%20zolfifero%20siciliano.%20022U0119.md), concernente agevolazioni tributarie a favore dell'industria zolfifera e successive modificazioni;
 
-Visto il testo unico delle leggi sulla riscossione delle imposte dirette, approvato con [R. decreto 17 ottobre 1922, n. 1401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-17;1401), e successive modificazioni;
+Visto il testo unico delle leggi sulla riscossione delle imposte dirette, approvato con [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e successive modificazioni;
 
 Visto il testo delle disposizioni riguardanti le dichiarazioni dei redditi in materia d'imposte dirette, approvato con R. decreto 17 settembre 1931-IX, numero 1608;
 
@@ -236,7 +236,7 @@ La misura dell'aliquota di imposta sul reddito agrario e' fissata nel 10 per cen
 
 ## Art. 21.
 
-I proprietari o i possessori dei fondi concessi in affitto, i cui redditi, per l'art. 5 del R. decreto-legge 4 aprile 1939-XVII, n. 589, sono soggetti all'imposta di ricchezza mobile a' sensi dell'[art. 9 della legge 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-08-24;4021#art_9), in quanto il loro ammontare raggiunga il minimo imponibile di L. 2000 annue, devono chiedere lo sgravio dall'imposta sul reddito agrario ai sensi dell'art. 118 del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-11;560).
+I proprietari o i possessori dei fondi concessi in affitto, i cui redditi, per l'art. 5 del R. decreto-legge 4 aprile 1939-XVII, n. 589, sono soggetti all'imposta di ricchezza mobile a' sensi dell'[art. 9 della legge 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-08-24;4021#art_9), in quanto il loro ammontare raggiunga il minimo imponibile di L. 2000 annue, devono chiedere lo sgravio dall'imposta sul reddito agrario ai sensi dell'art. 118 del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md).
 
 ## Art. 22.
 

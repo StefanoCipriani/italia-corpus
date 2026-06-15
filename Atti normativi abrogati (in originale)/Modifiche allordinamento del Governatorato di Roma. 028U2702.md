@@ -67,11 +67,11 @@ Fino al 30 giugno 1929, il Governatore di Roma e' autorizzato, in deroga a quals
  
  b) a provvedere in ordine ai posti eventualmente vacanti o che siano per rendersi vacanti, fissandone le norme e le modalita'. 
  
- Nulla e' innovato al [R. decreto-legge 16 agosto 1926, numero 1577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-16;1577), restando, altresi', vietato ogni aumento dell'onere globale risultante, alla data di entrata in vigore di detto decreto, complessivamente per stipendi e per pensioni.
+ Nulla e' innovato al [R. decreto-legge 16 agosto 1926, numero 1577](Sospensione%20delle%20modificazioni%20alle%20piante%20organiche%20degli%20impiegati%20degli%20enti%20locali.%20026U1577.md), restando, altresi', vietato ogni aumento dell'onere globale risultante, alla data di entrata in vigore di detto decreto, complessivamente per stipendi e per pensioni.
 
 ## Art. 9.
 
-Sono abrogate le disposizioni del [R. decreto-legge 28 ottobre 1925, n. 1949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-28;1949), e di ogni altra legge, contrarie o comunque incompatibili con quelle della presente legge.
+Sono abrogate le disposizioni del [R. decreto-legge 28 ottobre 1925, n. 1949](Istituzione%20e%20ordinamento%20del%20Governatorato%20di%20Roma.%20025U1949.md), e di ogni altra legge, contrarie o comunque incompatibili con quelle della presente legge.
 
 ## Art. 10.
 
@@ -79,7 +79,7 @@ Il Governo del Re e' autorizzato:
  
  a) ad emanare tutte le disposizioni, anche di ordine integrativo, necessarie per l'attuazione della presente legge; 
  
- b) a coordinare e riunire in testo unico le disposizioni della presente legge con quelle del [R. decreto-legge 28 ottobre 1925, n. 1949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-28;1949), e dei successivi decreti-legge che lo hanno modificato, della legge comunale e provinciale, delle leggi successive che l'hanno modificata e delle altre leggi che vi abbiano attinenza per ragione di materia, anche modificandone le disposizioni. 
+ b) a coordinare e riunire in testo unico le disposizioni della presente legge con quelle del [R. decreto-legge 28 ottobre 1925, n. 1949](Istituzione%20e%20ordinamento%20del%20Governatorato%20di%20Roma.%20025U1949.md), e dei successivi decreti-legge che lo hanno modificato, della legge comunale e provinciale, delle leggi successive che l'hanno modificata e delle altre leggi che vi abbiano attinenza per ragione di materia, anche modificandone le disposizioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -52,7 +52,7 @@ Per le salme dei militari appartenenti agli eserciti alleati od ex nemici sara' 
 ## Art. 8.
 
 L'Ufficio centrale per la cura e per le onoranze dei Caduti in guerra, istituito con decreto del 19 marzo 1920 del Ministero della guerra, passa alla diretta dipendenza del commissario per le onoranze ai Caduti in guerra. 
- In deroga agli articoli 39 e 40 del regolamento per l'amministrazione dei corpi, istituti e stabilimenti militari, approvato con [R. decreto 10 febbraio 1927, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-02-10;443), le cariche di gestore e di capo ufficio d'amministrazione potranno essere riunite, in via permanente, in unica persona.
+ In deroga agli articoli 39 e 40 del regolamento per l'amministrazione dei corpi, istituti e stabilimenti militari, approvato con [R. decreto 10 febbraio 1927, n. 443](Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20027U0443.md), le cariche di gestore e di capo ufficio d'amministrazione potranno essere riunite, in via permanente, in unica persona.
 
 ## Art. 9.
 

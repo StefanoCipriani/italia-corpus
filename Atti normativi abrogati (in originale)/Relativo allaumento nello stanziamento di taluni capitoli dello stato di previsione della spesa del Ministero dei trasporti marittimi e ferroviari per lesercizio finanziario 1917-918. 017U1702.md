@@ -22,9 +22,9 @@ TOMASO SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), sul conferimento al Governo dei poteri eccezionali per la guerra; 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), sul conferimento al Governo dei poteri eccezionali per la guerra; 
  
- Vista la [legge 19 luglio 1917, n. 1125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-19;1125); 
+ Vista la [legge 19 luglio 1917, n. 1125](Che%20autorizza%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lesercizio%20finanziario%201917-918%20fino%20a%20quando%20non%20sieno%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20_e944da86f500.md); 
  
  Udito il Consiglio dei ministri; 
  

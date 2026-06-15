@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- Sono convertiti in legge gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-12-24;1409#art_2) e [3 del R. decreto 24 dicembre 1914, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-12-24;1409#art_3), concernenti il pareggiamento fra R. esercito, R. marina e R. guardia di finanza nei riguardi della soggezione al [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare ed al [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo. 
+ Sono convertiti in legge gli [articoli 2](Concernente%20il%20pareggiamento%20fra%20R.%20esercito%20R.%20marina%20e%20R.%20guardia%20di%20finanza%20nei%20riguardi%20penali%20e%20disciplinari.%20014U1409.md) e [3 del R. decreto 24 dicembre 1914, n. 1409](Concernente%20il%20pareggiamento%20fra%20R.%20esercito%20R.%20marina%20e%20R.%20guardia%20di%20finanza%20nei%20riguardi%20penali%20e%20disciplinari.%20014U1409.md), concernenti il pareggiamento fra R. esercito, R. marina e R. guardia di finanza nei riguardi della soggezione al [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare ed al [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

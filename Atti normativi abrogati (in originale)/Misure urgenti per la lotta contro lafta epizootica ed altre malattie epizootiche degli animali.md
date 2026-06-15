@@ -38,7 +38,7 @@ Quando sia necessario, per impedire la diffusione della malattia, il Ministro de
 
 3.
 
-Nei casi di altre malattie per le quali, ai sensi dell'articolo 1 del vigente regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320), e' previsto l'obbligo della denuncia, il Ministro della sanita', quando sia necessario per impedire la diffusione della malattia, stabilisce che gli animali infetti o sospetti di infezione o di contaminazione siano abbattuti ed eventualmente distrutti alle condizioni e secondo le modalita' che saranno stabilite con decreto ministeriale.
+Nei casi di altre malattie per le quali, ai sensi dell'articolo 1 del vigente regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e' previsto l'obbligo della denuncia, il Ministro della sanita', quando sia necessario per impedire la diffusione della malattia, stabilisce che gli animali infetti o sospetti di infezione o di contaminazione siano abbattuti ed eventualmente distrutti alle condizioni e secondo le modalita' che saranno stabilite con decreto ministeriale.
 
 4.
 
@@ -62,7 +62,7 @@ In caso di abbattimento nei posti di confine di animali infetti o sospetti di in
 
 9.
 
-L'indennita' non e' concessa a coloro che contravvengono alle disposizioni previste dall'[articolo 264 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_264), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), dal presente decreto e dal regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320).
+L'indennita' non e' concessa a coloro che contravvengono alle disposizioni previste dall'[articolo 264 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_264), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), dal presente decreto e dal regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md).
 In tali casi l'indennita', ove competa, viene corrisposta soltanto a conclusione favorevole del procedimento di irrogazione della sanzione amministrativa. Per l'accertamento delle infrazioni o per l'applicazione delle sanzioni amministrative pecuniarie previste dal presente decreto si applicano le disposizioni di cui alla [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), e le relative norme di attuazione.
 
 10.
@@ -77,11 +77,11 @@ Per i trattamenti di cui al comma 10 e nei casi in cui si debba procedere alla d
 
 1.
 
-Le indennita' di abbattimento gravano sui fondi a destinazione vincolata di cui all'[articolo 17 della legge 22 dicembre 1984, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887#art_17), per la parte afferente alla profilassi delle malattie infettive e diffusive degli animali.
+Le indennita' di abbattimento gravano sui fondi a destinazione vincolata di cui all'[articolo 17 della legge 22 dicembre 1984, n. 887](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201985.md), per la parte afferente alla profilassi delle malattie infettive e diffusive degli animali.
 
 2.
 
-Per tali indennita' il Ministro del tesoro, in deroga alle procedure previste dalla [legge 23 dicembre 1978, n. 833, e dall'articolo 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_17) della [legge 22 dicembre 1984, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887), assegna direttamente alle regioni, su proposta del Ministro della sanita', le somme destinate al pagamento delle indennita' di abbattimento in relazione agli abbattimenti effettuati o preventivati dalle regioni interessate.
+Per tali indennita' il Ministro del tesoro, in deroga alle procedure previste dalla [legge 23 dicembre 1978, n. 833, e dall'articolo 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_17) della [legge 22 dicembre 1984, n. 887](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201985.md), assegna direttamente alle regioni, su proposta del Ministro della sanita', le somme destinate al pagamento delle indennita' di abbattimento in relazione agli abbattimenti effettuati o preventivati dalle regioni interessate.
 
 3.
 
@@ -109,7 +109,7 @@ Chiunque contravvenga all'ordine di abbattimento dell'animale, impartito ai sens
 
 3.
 
-Fuori dei casi previsti dal comma 1, i contravventori alle disposizioni del regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320), sono soggetti a sanzione amministrativa pecuniaria, da lire cinquecentomila a lire duemilionicinquecentomila. Alla stessa sanzione sono assoggettati coloro che non osservano un ordine legalmente dato ai sensi del presente decreto per impedire la diffusione delle malattie in essa previste.
+Fuori dei casi previsti dal comma 1, i contravventori alle disposizioni del regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), sono soggetti a sanzione amministrativa pecuniaria, da lire cinquecentomila a lire duemilionicinquecentomila. Alla stessa sanzione sono assoggettati coloro che non osservano un ordine legalmente dato ai sensi del presente decreto per impedire la diffusione delle malattie in essa previste.
 
 4.
 

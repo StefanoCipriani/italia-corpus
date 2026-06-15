@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti gli articoli 21, 22 e 43 dello statuto del Banco di Napoli, approvato con [R. decreto 2 agosto 1908, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-08-02;506), e dello statuto del Banco di Sicilia, approvato con [R. decreto 2 agosto 1908, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-08-02;584);
+Visti gli articoli 21, 22 e 43 dello statuto del Banco di Napoli, approvato con [R. decreto 2 agosto 1908, n. 506](Che%20approva%20lannesso%20statuto%20del%20Banco%20di%20Napoli.%20008U0506.md), e dello statuto del Banco di Sicilia, approvato con [R. decreto 2 agosto 1908, n. 584](Che%20approva%20lannesso%20statuto%20del%20Banco%20di%20Sicilia.%20008U0584.md);
 
 Sentito il Consiglio dei ministri;
 

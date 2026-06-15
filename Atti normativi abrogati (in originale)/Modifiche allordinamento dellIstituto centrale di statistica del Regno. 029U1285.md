@@ -138,7 +138,7 @@ I servizi dell'Istituto, con ordinanza del presidente, sono distinti in reparti 
  
  I direttori generali sono nominati con Regio decreto, promosso dal Capo del Governo Primo Ministro, alle condizioni determinate dal Comitato amministrativo, su proposta del presidente dell'Istituto. 
  
- Se la nomina cade su un funzionario dello Stato o su un professore di Universita' o di Istituto superiore di scienze economiche e commerciali, questi puo' essere collocato fuori ruolo, secondo le norme dell'[art. 17 del R. decreto 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-10;46#art_17), nell'Amministrazione dalla quale dipende e alla sua posizione di carriera si applicano le disposizioni del [R. decreto 30 dicembre 1923, n. 2958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2958). La retribuzione del direttore generale e' in tal caso a carico dell'Istituto.
+ Se la nomina cade su un funzionario dello Stato o su un professore di Universita' o di Istituto superiore di scienze economiche e commerciali, questi puo' essere collocato fuori ruolo, secondo le norme dell'[art. 17 del R. decreto 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-10;46#art_17), nell'Amministrazione dalla quale dipende e alla sua posizione di carriera si applicano le disposizioni del [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md). La retribuzione del direttore generale e' in tal caso a carico dell'Istituto.
 
 ## Art. 11.
 
@@ -217,13 +217,13 @@ Sono tenuti a prestare la loro collaborazione all'Istituto centrale, nei limiti 
 
 E' fatto obbligo ad ognuno, in occasione di censimento generale o di particolari inchieste dell'Istituto centrale di statistica o degli enti da esso delegati, di fornire le notizie che gli vengano domandate. 
  
- Coloro che per se', o come rappresentanti degli enti ed organi di cui al precedente articolo, non forniscano le notizie loro richieste, ovvero le forniscano scientemente errate o incomplete, saranno passibili di una ammenda fino a L. 2000, la quale potra' essere aumentata fino a L. 20,000, in caso di recidiva, senza pregiudizio delle sanzioni fissate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ Coloro che per se', o come rappresentanti degli enti ed organi di cui al precedente articolo, non forniscano le notizie loro richieste, ovvero le forniscano scientemente errate o incomplete, saranno passibili di una ammenda fino a L. 2000, la quale potra' essere aumentata fino a L. 20,000, in caso di recidiva, senza pregiudizio delle sanzioni fissate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 19.
 
 Le notizie che si raccolgono in occasione di inchieste, ordinate dall'Istituto centrale, direttamente o a mezzo di enti delegati, sono vincolate al piu' scrupoloso segreto di ufficio e non possono essere rese note, per nessun titolo, se non in forma collettiva, in modo che non se ne possa fare alcun riferimento individuale. Possono essere solo comunicate all'autorita' giudiziaria, quando le richieda con sentenza, decreto od ordinanza emessa in corso di procedimento. 
  
- Coloro che, per ragioni del proprio ufficio, essendo venuti a conoscenza di notizie, di carattere personale, le comunichino ad altri o se ne servano per scopi privati, sono passibili di un'ammenda fino a L. 3000, elevabile, in caso di recidiva, sino a L. 20,000, senza pregiudizio delle pene in cui fossero incorsi per reati previsti nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ Coloro che, per ragioni del proprio ufficio, essendo venuti a conoscenza di notizie, di carattere personale, le comunichino ad altri o se ne servano per scopi privati, sono passibili di un'ammenda fino a L. 3000, elevabile, in caso di recidiva, sino a L. 20,000, senza pregiudizio delle pene in cui fossero incorsi per reati previsti nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 20.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I sottoindicati articoli del regolamento speciale per il personale di lª e 2ª categoria dell'Amministrazione delle poste e dei telegrafi, approvato con [R. decreto 16 maggio 1909, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-05-16;341), sono modificati come segue: 
+I sottoindicati articoli del regolamento speciale per il personale di lª e 2ª categoria dell'Amministrazione delle poste e dei telegrafi, approvato con [R. decreto 16 maggio 1909, n. 341](Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md), sono modificati come segue: 
  
  Art. 2. - Il n. 1 e' modificato come appresso: 
  
@@ -46,11 +46,11 @@ I sottoindicati articoli del regolamento speciale per il personale di lª e 2ª 
 
 ## Art. 2.
 
-I sottoindicati articoli del regolamento speciale per il personale di 3ª categoria e per il personale subalterno fuori ruolo, approvato con [R. decreto 12 maggio 1910, n. 680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-12;680), sono modificati come segue: 
+I sottoindicati articoli del regolamento speciale per il personale di 3ª categoria e per il personale subalterno fuori ruolo, approvato con [R. decreto 12 maggio 1910, n. 680](Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md), sono modificati come segue: 
  
  Art. 5. - E' modificato come segue: 
  
- I posti di commesso e portalettere a L. 1200 sono conferiti agli agenti subalterni fuori ruolo con le norme della [legge 11 luglio 1913, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;887). 
+ I posti di commesso e portalettere a L. 1200 sono conferiti agli agenti subalterni fuori ruolo con le norme della [legge 11 luglio 1913, n. 887](Che%20riduce%20da%20due%20anni%20ad%20un%20anno%20il%20servizio%20degli%20agenti%20subalterni%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20per%20il%20passaggio%20in%20pianta%20stabile.%20013U0887.md). 
  
  Un numero dei predetti posti non superiore al decimo di quelli coperti nell'anno ai sensi del precedente capoverso indipendentemente da essi, e' conferito agli invalidi della guerra, senza limiti di eta' e con le norme stabilite dall'[art. 67 del regolamento 28 giugno 1917, n. 1158](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1917-06-28;1158#art_67). 
  
@@ -132,7 +132,7 @@ I sottoindicati articoli del regolamento speciale per il personale di 3ª catego
 
 ## Art. 3.
 
-I sottoindicati articoli del regolamento speciale per il personale degli, uffici di 2ª e 3ª classe e per gli agenti rurali approvato, con [R. decreto 22 dicembre 1910, n. 936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-12-22;936), modificato coi RR. decreti del 30 giugno 1912, n. 857, o dell'11 luglio 1913, n. 1317, sono modificati come appresso: 
+I sottoindicati articoli del regolamento speciale per il personale degli, uffici di 2ª e 3ª classe e per gli agenti rurali approvato, con [R. decreto 22 dicembre 1910, n. 936](Che%20approva%20lannesso%20regolamento%20speciale%20per%20il%20personale%20degli%20uffici%20postali%20telegrafici%20e%20fonotelegrafici%20di%202ª%20e%203ª%20classe%20e%20per%20gli%20agenti%20rurali.%20010U0936.md), modificato coi RR. decreti del 30 giugno 1912, n. 857, o dell'11 luglio 1913, n. 1317, sono modificati come appresso: 
  
  Art. 4. - I numeri 1 e 4, comma a), sono modificati come segue: 
  
@@ -172,11 +172,11 @@ I sottoindicati articoli del regolamento speciale per il personale degli, uffici
  
  c) per concorso da bandire nel Comune ove i posti siano vacanti, in mancanza di aspiranti contemplati nei precedenti comma. 
  
- 5. Nei concorsi, a parita' di titoli di merito, hanno diritto alla precedenza anzitutto gli invalidi della guerra che eventualmente vi partecipino o subordinatamente ad essi: gli orfani della guerra che comprovino siffatta condizione con certificato del Comitato provinciale di cui all'art. 9 della sopra ricordata logge 18 luglio 1917, n. 1143; i figli dei militari e cittadini invalidi della guerra ed incapaci assolutamente a lavori proficui che giustifichino tale qualita' con la dichiarazione di invalidita' prevista dall'[art. 2 della legge 25 marzo 1917, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;481#art_2) e con la copia dell'atto di nascita; i figli di colore divenuti inabili al lavoro ai termini dell'art. 42 della legge 1917, n. 1143 sulla protezione ed assistenza degli orfani di guerra. 
+ 5. Nei concorsi, a parita' di titoli di merito, hanno diritto alla precedenza anzitutto gli invalidi della guerra che eventualmente vi partecipino o subordinatamente ad essi: gli orfani della guerra che comprovino siffatta condizione con certificato del Comitato provinciale di cui all'art. 9 della sopra ricordata logge 18 luglio 1917, n. 1143; i figli dei militari e cittadini invalidi della guerra ed incapaci assolutamente a lavori proficui che giustifichino tale qualita' con la dichiarazione di invalidita' prevista dall'[art. 2 della legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md) e con la copia dell'atto di nascita; i figli di colore divenuti inabili al lavoro ai termini dell'art. 42 della legge 1917, n. 1143 sulla protezione ed assistenza degli orfani di guerra. 
  
  Art. 34. - Sono aggiunti i seguenti comma 9, 10, 11, 12 e 13: 
  
- 9. Gli invalidi della guerra i quali conseguono la titolarita', delle ricevitorie di 2ª e 3ª classe hanno facolta' di prestare la cauzione dovuta al momento dell'assunzione in servizio, mediante ritenuta sula pensione e sugli assegni temporanei e rinnovabili loro liquidati e nella misura che risultera' disponibile, tenuto conto degli eventuali impegni assunti in forza dell'[art. 21 della legge 25 marzo 1917, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;481#art_21), e dell'[art. 2 della legge 30 giugno 1908, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;335#art_2). 
+ 9. Gli invalidi della guerra i quali conseguono la titolarita', delle ricevitorie di 2ª e 3ª classe hanno facolta' di prestare la cauzione dovuta al momento dell'assunzione in servizio, mediante ritenuta sula pensione e sugli assegni temporanei e rinnovabili loro liquidati e nella misura che risultera' disponibile, tenuto conto degli eventuali impegni assunti in forza dell'[art. 21 della legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), e dell'[art. 2 della legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md). 
  
  10. Per valersi della facolta' di cui sopra, gli invalidi della guerra devono rilasciare un atto scritto di consenso alla ritenuta in cui sia anche indicato in quale dei modi consentiti devo essere convertita la relativa somma, quando sara' completata: se cioe' mediante deposito su libretti dello Casse postali di risparmio debitamente vincolati, ovvero mediante deposito in numerario, in buoni triennali e quinquennali del tesoro, o in titoli di rendita al portatore nella Cassa depositi e prestiti, o mediante vincolo di certificati di rendita del debito pubblico. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 marzo 1931, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-03-26;311), relativo alla soppressione dell'Istituto «Vittorio Emanuele III» per i danneggiati dai terremoti di Reggio Calabria, e per la concessione dei mutui richiesti all'Istituto stesso. 
+ E' convertito in legge il [R. decreto-legge 26 marzo 1931, n. 311](Soppressione%20dellIstituto%20Vittorio%20Emanuele%20III%20per%20i%20danneggiati%20dai%20terremoti%20di%20Reggio%20Calabria%20e%20concessione%20dei%20mutui%20richiesti%20allIstituto%20stesso.%20031U0311.md), relativo alla soppressione dell'Istituto «Vittorio Emanuele III» per i danneggiati dai terremoti di Reggio Calabria, e per la concessione dei mutui richiesti all'Istituto stesso. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

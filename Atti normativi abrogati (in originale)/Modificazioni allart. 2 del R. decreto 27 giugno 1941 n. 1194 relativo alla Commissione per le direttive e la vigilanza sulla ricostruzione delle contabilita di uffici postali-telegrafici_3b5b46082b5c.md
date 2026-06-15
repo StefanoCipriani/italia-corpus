@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-L'[art. 2 del R. decreto 27 giugno 1941, n. 1194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-06-27;1194#art_2), e' sostituito dal seguente: 
+L'[art. 2 del R. decreto 27 giugno 1941, n. 1194](Nomina%20di%20una%20Commissione%20per%20le%20direttive%20e%20la%20vigilanza%20sulla%20ricostruzione%20delle%20contabilita%20di%20uffici%20postali-telegrafici%20distrutte%20o%20disperse%20in%20conseguenza%20della%20guerra%20e%20per%20la%20cor_e7daaa7e8ab5.md), e' sostituito dal seguente: 
  
  «La Commissione e' presieduta da un funzionario dell'Amministrazione delle poste e dei telegrafi di grado non inferiore al 6° ed e' composta dai seguenti membri: 
  

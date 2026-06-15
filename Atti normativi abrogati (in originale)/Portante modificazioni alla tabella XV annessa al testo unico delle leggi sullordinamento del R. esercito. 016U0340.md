@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Oltre gli ufficiali generali indicati all'[art. 1 del Regio decreto 7 febbraio 1915, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-07;113#art_1), potranno essere collocati a disposizione in soprannumero al ruolo dello stato maggiore generale stabilito dal [R. decreto 29 dicembre 1910, n. 951](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-12-29;951): 
+Oltre gli ufficiali generali indicati all'[art. 1 del Regio decreto 7 febbraio 1915, n. 113](Riguardante%20la%20costituzione%20ed%20il%20funzionamento%20di%20alcuni%20speciali%20comandi%20e%20servizi%20militari.%20015U0113.md), potranno essere collocati a disposizione in soprannumero al ruolo dello stato maggiore generale stabilito dal [R. decreto 29 dicembre 1910, n. 951](Che%20stabilisce%20il%20ruolo%20dello%20stato%20maggiore%20generale%20al%201%20gennaio%201911.%20010U0951.md): 
  
  10 tenenti generali; 
  

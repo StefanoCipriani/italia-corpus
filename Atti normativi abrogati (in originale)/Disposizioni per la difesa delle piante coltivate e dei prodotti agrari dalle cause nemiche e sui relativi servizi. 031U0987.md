@@ -132,8 +132,8 @@ I Consorzi per la difesa della vite costituiti a norma del comma b) del preceden
 
 ### Art. 16.
 
-Per i Consorzi per l'olivicoltura costituiti e da costituire con lo scopo della difesa dell'ulivo dalle malattie, dell'incremento della sua coltura e miglioramento dell'industria olearia vigono le disposizioni del [R. decreto-legge 12 agosto 1927, n. 1754](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1754), in quanto non contrastino con le disposizioni della presente legge. 
- Per i detti Consorzi la contribuzione, ivi comprese le spese generali di amministrazione, resta quella prevista dall'[articolo 5 del R. decreto-legge 12 agosto 1927, n. 1754](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1754#art_5).
+Per i Consorzi per l'olivicoltura costituiti e da costituire con lo scopo della difesa dell'ulivo dalle malattie, dell'incremento della sua coltura e miglioramento dell'industria olearia vigono le disposizioni del [R. decreto-legge 12 agosto 1927, n. 1754](Provvedimenti%20per%20lincremento%20della%20olivicoltura.%20027U1754.md), in quanto non contrastino con le disposizioni della presente legge. 
+ Per i detti Consorzi la contribuzione, ivi comprese le spese generali di amministrazione, resta quella prevista dall'[articolo 5 del R. decreto-legge 12 agosto 1927, n. 1754](Provvedimenti%20per%20lincremento%20della%20olivicoltura.%20027U1754.md).
 
 ### Art. 17.
 
@@ -215,7 +215,7 @@ Ai membri del Consiglio di amministrazione ed ai commissari straordinari residen
 
 ### Art. 27.
 
-La direzione tecnica dei Consorzi obbligatori di cui ai precedenti articoli 15, 16 e 17, sara' affidata a personale specializzato, retribuito dal Consorzio e nominato dalla Commissione amministratrice in seguito a concorso da bandirsi con le norme che saranno dettate dal regolamento di cui all'art. 4, o mediante chiamata di funzionari appartenenti al ruolo dei delegati tecnici antifillosserici, di cui alla tabella n. 91, dell'allegato A al [R. decreto 11 novembre 1923, numero 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395). Il trattamento economico del detto personale sara' stabilito col regolamento stesso. 
+La direzione tecnica dei Consorzi obbligatori di cui ai precedenti articoli 15, 16 e 17, sara' affidata a personale specializzato, retribuito dal Consorzio e nominato dalla Commissione amministratrice in seguito a concorso da bandirsi con le norme che saranno dettate dal regolamento di cui all'art. 4, o mediante chiamata di funzionari appartenenti al ruolo dei delegati tecnici antifillosserici, di cui alla tabella n. 91, dell'allegato A al [R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). Il trattamento economico del detto personale sara' stabilito col regolamento stesso. 
  Fino a quando i Consorzi non abbiano provveduto alla nomina del personale specializzato di cui sopra, la direzione tecnica di essi sara' mantenuta gratuitamente dal direttore della Cattedra ambulante di agricoltura.
 
 ### Art. 28.
@@ -233,7 +233,7 @@ Il Ministero dell'agricoltura e delle foreste puo', nei casi in cui lo stimi ind
 
 ### Art. 30.
 
-Gli Istituti di credito agrario, creati col [R. decreto-legge 29 luglio 1927, n. 1509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509), la [legge 5 settembre 1928, n. 2085](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-09-05;2085), ed il [R. decreto-legge 28 febbraio 1930, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-28;241), sono autorizzati a concedere, ai Consorzi obbligatori ed a quelli volontari riconosciuti, prestiti di esercizio sia per condurre direttamente le operazioni di difesa contro nemici e parassiti delle piante coltivate e per acquisto di attrezzi e materiale occorrente, sia per le spese inerenti ad altri compiti ad essi affidati dalla presente legge. 
+Gli Istituti di credito agrario, creati col [R. decreto-legge 29 luglio 1927, n. 1509](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md), la [legge 5 settembre 1928, n. 2085](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-09-05;2085), ed il [R. decreto-legge 28 febbraio 1930, n. 241](Estensione%20allIstituto%20federale%20della%20provincia%20di%20Ferrara%20per%20lesercizio%20del%20credito%20agrario%20delle%20disposizioni%20contenute%20nellart.%2021%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509.%20030U0241.md), sono autorizzati a concedere, ai Consorzi obbligatori ed a quelli volontari riconosciuti, prestiti di esercizio sia per condurre direttamente le operazioni di difesa contro nemici e parassiti delle piante coltivate e per acquisto di attrezzi e materiale occorrente, sia per le spese inerenti ad altri compiti ad essi affidati dalla presente legge. 
  Tali mutui saranno garantiti a mezzo di delegazioni sugli esattori incaricati delle riscossioni dei ruoli nominativi di contribuzione di cui al seguente articolo.
 
 ### Art. 31.
@@ -251,7 +251,7 @@ In caso di cessazione del Consorzio, i residui della gestione ed ogni altra atti
 
 ### Art. 34.
 
-Le violazioni delle norme relative alla importazione, esportazione e circolazione delle piante, parti di piante e semi, sono punite con l'ammenda da L. 100 a L. 2000 senza pregiudizio delle maggiori pene stabilite dalle leggi doganali per il contrabbando e dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per i reati in esso previsti. 
+Le violazioni delle norme relative alla importazione, esportazione e circolazione delle piante, parti di piante e semi, sono punite con l'ammenda da L. 100 a L. 2000 senza pregiudizio delle maggiori pene stabilite dalle leggi doganali per il contrabbando e dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i reati in esso previsti. 
  Nel caso di commercio ambulante di talee e barbatelle di viti americane si procede, inoltre, alla confisca e alla distruzione immediata del materiale. 
  E' data facolta' al Governo del Re di stabilire, nel regolamento di cui all'articolo 4, sanzioni penali limitate all'ammenda fino a L.
 1000.

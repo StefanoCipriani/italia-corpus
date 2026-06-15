@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Vista la legge sulle pensioni civili e militari, testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
 
-Visto il testo unico delle disposizioni per le pensioni del personale delle ferrovie dello Stato, approvato con [R. decreto 22 aprile 1909, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-04-22;229), e successive modificazioni;
+Visto il testo unico delle disposizioni per le pensioni del personale delle ferrovie dello Stato, approvato con [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), e successive modificazioni;
 
-Visto il [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491), sulla riforma tecnico-giuridica delle norme vigenti sulle pensioni di guerra;
+Visto il [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sulla riforma tecnico-giuridica delle norme vigenti sulle pensioni di guerra;
 
 Visto il [R. decreto-legge 24 luglio 1930, n. 1094](Perdita%20del%20diritto%20a%20pensione%20in%20caso%20di%20perdita%20della%20cittadinanza%20italiana.%20030U1094.md), convertito nella [legge 18 dicembre 1930, n. 1776](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-12-18;1776), sulla decadenza dal diritto a pensione in caso di perdita della cittadinanza italiana;
 
@@ -48,7 +48,7 @@ Le disposizioni dell'articolo precedente si applicano anche per le pensioni, ass
  
  Il beneficiario della polizza perde il diritto alla liquidazione di essa, anche quando le condizioni del presente articolo si verifichino nei riguardi del combattente titolare. 
  
- E' fatto, pero', salvo, a favore dell'Opera nazionale per i combattenti, nei limiti del suo credito, il diritto al riscatto delle polizze sulle quali, anteriormente alla entrata in vigore del presente decreto, siano state eseguite anticipazioni ai sensi dell'[art. 4 del R. decreto-legge 7 marzo 1920, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-03-07;583#art_4), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473).
+ E' fatto, pero', salvo, a favore dell'Opera nazionale per i combattenti, nei limiti del suo credito, il diritto al riscatto delle polizze sulle quali, anteriormente alla entrata in vigore del presente decreto, siano state eseguite anticipazioni ai sensi dell'[art. 4 del R. decreto-legge 7 marzo 1920, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-03-07;583#art_4), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md).
 
 ## Art. 3.
 

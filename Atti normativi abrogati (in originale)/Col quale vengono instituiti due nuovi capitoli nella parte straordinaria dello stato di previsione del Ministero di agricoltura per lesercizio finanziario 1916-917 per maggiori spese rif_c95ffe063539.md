@@ -22,13 +22,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), sul conferimento al Governo dei poteri eccezionali per la guerra; 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), sul conferimento al Governo dei poteri eccezionali per la guerra; 
  
  Visto il [decreto Luogotenenziale 27 aprile 1916, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-04-27;472), riguardante i prezzi massimi di vendita al pubblico per le merci di comune o largo consumo; 
  
  Visto il [decreto Luogotenenziale 30 maggio 1916, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-30;645), concernente provvedimenti straordinari per il lavoro agricolo; 
  
- Vista la [legge 14 giugno 1916, n. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-06-14;738); 
+ Vista la [legge 14 giugno 1916, n. 738](Che%20autorizza%20lesercizio%20provvisorio%20non%20oltre%20il%2031%20luglio%201916%20dei%20bilanci%20delle%20Amministrazioni%20dello%20Stato%20dellesercizio%20finanziario%201916-917.%20016U0738.md); 
  
  Visto il [decreto Luogotenenziale 9 luglio 1916, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-07-09;824), col quale, in applicazione del Regio decreto 22 giugno stesso anno, n. 755, vennero istituiti due appositi bilanci, l'uno per le spese del Ministero di agricoltura e l'altro per quelle del Ministero per l'industria, il commercio e il lavoro; 
  

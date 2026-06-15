@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 settembre 1932, n. 1328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-22;1328), relativo alla sospensione dei concorsi per titoli per le promozioni ai posti di consigliere di Corte di cassazione. 
+ E' convertito in legge il [R. decreto-legge 22 settembre 1932, n. 1328](Sospensione%20dei%20concorsi%20per%20titoli%20per%20le%20promozioni%20ai%20posti%20di%20consigliere%20di%20Corte%20di%20cassazione.%20032U1328.md), relativo alla sospensione dei concorsi per titoli per le promozioni ai posti di consigliere di Corte di cassazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale dello leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

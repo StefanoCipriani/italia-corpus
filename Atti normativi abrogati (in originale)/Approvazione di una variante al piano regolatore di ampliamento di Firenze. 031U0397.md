@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[art. 4 del R. decreto-legge 13 gennaio 1924, n. 170](Approvazione%20del%20nuovo%20piano%20regolatore%20di%20ampliamento%20della%20citta%20di%20Firenze%20e%20delle%20norme%20per%20la%20relativa%20esecuzione.%20024U0170.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), che approvo' il nuovo piano regolatore di ampliamento della citta' di Firenze; 
+ Visto l'[art. 4 del R. decreto-legge 13 gennaio 1924, n. 170](Approvazione%20del%20nuovo%20piano%20regolatore%20di%20ampliamento%20della%20citta%20di%20Firenze%20e%20delle%20norme%20per%20la%20relativa%20esecuzione.%20024U0170.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), che approvo' il nuovo piano regolatore di ampliamento della citta' di Firenze; 
  
  Vista la domanda 10 luglio 1930-VIII del podesta' di Firenze, intesa ad ottenere l'approvazione di una variante del detto piano, per la costruzione di una nuova via che staccandosi dal viale Alessandro Volta e attraversando i terreni Baldi, si ricongiunge al tratto superiore della via Barbacane; 
  

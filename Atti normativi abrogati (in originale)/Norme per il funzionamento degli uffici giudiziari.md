@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 Fino al 31 dicembre 1950 sono prorogati:
  a) l'[art. 2 del decreto legislativo 3 maggio 1945, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1945-05-03;232#art_2);
- b) l'[art. 1 del decreto legislativo 14 febbraio 1948, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-14;113#art_1), fermo restando per gli uditori destinati in reggenza il trattamento economico stabilito dall'[art. 6, terzo comma, della legge 31 ottobre 1942, n. 1352](Disposizioni%20relative%20al%20personale%20della%20Magistratura%20e%20delle%20Cancellerie%20e%20Segreterie%20giudiziarie.%20042U1352.md);
+ b) l'[art. 1 del decreto legislativo 14 febbraio 1948, n. 113](../Decreti%20Legislativi/Facolta%20del%20Ministro%20di%20grazia%20e%20giustizia%20di%20destinare%20uditori%20giudiziari%20a%20posti%20di%20giudice%20di%20sostituto%20o%20di%20pretore.md), fermo restando per gli uditori destinati in reggenza il trattamento economico stabilito dall'[art. 6, terzo comma, della legge 31 ottobre 1942, n. 1352](Disposizioni%20relative%20al%20personale%20della%20Magistratura%20e%20delle%20Cancellerie%20e%20Segreterie%20giudiziarie.%20042U1352.md);
  c) l'[art. 10, primo comma, della legge 31 ottobre 1942, n. 1352](Disposizioni%20relative%20al%20personale%20della%20Magistratura%20e%20delle%20Cancellerie%20e%20Segreterie%20giudiziarie.%20042U1352.md).
 
 ## Art. 2.

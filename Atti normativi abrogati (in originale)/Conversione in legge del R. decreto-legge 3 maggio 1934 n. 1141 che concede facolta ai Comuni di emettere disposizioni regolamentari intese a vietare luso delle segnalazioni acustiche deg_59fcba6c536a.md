@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 maggio 1934, n. 1141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-05-03;1141), che concede facolta' ai Comuni di emettere disposizioni regolamentari intese a vietare l'uso delle segnalazioni acustiche degli autoveicoli in determinate ore notturne. 
+ E' convertito in legge il [R. decreto-legge 3 maggio 1934, n. 1141](Facolta%20ai%20Comuni%20di%20emettere%20disposizioni%20regolamentari%20intese%20a%20evitare%20luso%20delle%20segnalazioni%20acustuche%20degli%20autoveicoli%20in%20determinate%20ore%20notturne.%20034U1141.md), che concede facolta' ai Comuni di emettere disposizioni regolamentari intese a vietare l'uso delle segnalazioni acustiche degli autoveicoli in determinate ore notturne. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

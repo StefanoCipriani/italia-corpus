@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 1.
 
-L'[articolo 3 della legge 10 aprile 1951, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-04-10;287#art_3), come sostituito dall'[articolo 1 del decreto-legge 14 febbraio 1978, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-02-14;31#art_1), convertito, con modificazioni, nella [legge 24 marzo 1978, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-03-24;74), e' sostituito dal seguente:
+L'[articolo 3 della legge 10 aprile 1951, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-04-10;287#art_3), come sostituito dall'[articolo 1 del decreto-legge 14 febbraio 1978, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-02-14;31#art_1), convertito, con modificazioni, nella [legge 24 marzo 1978, n. 74](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20febbraio%201978%20n.%2031%20contenente%20modificazioni%20alle%20norme%20sul%20funzionamento%20delle%20corti%20di%20assise.md), e' sostituito dal seguente:
  "Art. 3 (Composizione delle corti di assise). - La corte di assise e' composta:
  a) di un magistrato del distretto scelto tra quelli aventi funzioni di appello, che la presiede o, in mancanza o per indisponibilita', tra quelli aventi qualifica non inferiore a magistrato di appello;
  b) di un magistrato del distretto avente le funzioni di magistrato di tribunale;
@@ -34,7 +34,7 @@ L'[articolo 3 della legge 10 aprile 1951, n. 287](https://www.normattiva.it/uri-
 
 1.
 
-L'[articolo 4 della legge 10 aprile 1951, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-04-10;287#art_4), come sostituito dall'[articolo 2 del decreto-legge 14 febbraio 1978, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-02-14;31#art_2), convertito, con modificazioni, dalla [legge 24 marzo 1978, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-03-24;74), e' sostituito dal seguente:
+L'[articolo 4 della legge 10 aprile 1951, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-04-10;287#art_4), come sostituito dall'[articolo 2 del decreto-legge 14 febbraio 1978, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-02-14;31#art_2), convertito, con modificazioni, dalla [legge 24 marzo 1978, n. 74](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20febbraio%201978%20n.%2031%20contenente%20modificazioni%20alle%20norme%20sul%20funzionamento%20delle%20corti%20di%20assise.md), e' sostituito dal seguente:
  "Art. 4 (Composizione delle corti di assise di appello). - La corte di assise di appello e' composta:
  a) di un magistrato con funzioni di presidente di sezione della corte di appello o, in mancanza o per indisponibilita', di un magistrato avente qualifica non inferiore a magistrato di appello dichiarato idoneo ad essere ulteriormente valutato ai fini della nomina a magistrato di cassazione, che la presiede;
  b) di un magistrato della corte di appello;

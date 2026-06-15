@@ -10,11 +10,11 @@ vigente: true
 
 IL MINISTRO DELLA MARINA MERCANTILE
 
-Visto il [regio decreto-legge 24 maggio 1925, n. 1031](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-05-24;1031), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562), concernente la repressione della senseria per il collocamento della gente di mare;
+Visto il [regio decreto-legge 24 maggio 1925, n. 1031](Repressione%20della%20senseria%20in%20fatto%20di%20collocamento%20della%20gente%20di%20mare.%20025U1031.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), concernente la repressione della senseria per il collocamento della gente di mare;
 
-Vista la [legge 16 dicembre 1928, n. 3042](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-16;3042), relativa alla istituzione di uffici movimento ufficiali della marina mercantile presso le capitanerie di porto;
+Vista la [legge 16 dicembre 1928, n. 3042](Istituzione%20di%20Uffici%20movimento%20ufficiali%20della%20marina%20mercantile%20presso%20le%20Capitanerie%20di%20porto.%20028U3042.md), relativa alla istituzione di uffici movimento ufficiali della marina mercantile presso le capitanerie di porto;
 
-Visti gli [artt. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_125), [126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_126), [1176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_1176), [1177 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_1177);
+Visti gli [artt. 125](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [126](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [1176](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [1177 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visto l'[art. 2098 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2098);
 
@@ -52,11 +52,11 @@ Non sono soggetti all'obbligo del collocamento:
                             su navi da pesca aventi tonnellaggio compreso tra 50 e 150 T.S.L. che effettuano la pesca mediterranea ovvero oltre gli Stretti con contratto a parte.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
 - Il [R.D.L. n. 1031/1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925;1031) ha istituito gli uffici di collocamento della gente di mare.
 - La [legge n. 3042/1928](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928;3042) ha istituito gli uffici di collocamento per gli ufficiali della Marina mercantile denominati "movimenti ufficiali".
-- Il testo degli [articoli 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_125), [126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_126), [1176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_1176) e [1177 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_1177) e' il seguente:
+- Il testo degli [articoli 125](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [126](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [1176](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [1177 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
 "Art. 125. - Al collocamento degli iscritti nelle matricole della gente di mare, destinati a far parte degli equipaggi delle navi, si provvede, nel territorio della Repubblica, esclusivamente ad opera di appositi uffici istituiti secondo norme stabilite con legge".
 "Art. 126. - E' vietata la mediazione anche gratuita per il collocamento degli iscritti nelle matricole della gente di mare destinati a far parte degli equipaggi delle navi".
 "Art. 1176. - Chiunque richiede o riceve per se' o per altri, in danaro o altra utilita', una retribuzione per procurare l'assunzione di una persona dell'equipaggio di navi o galleggianti marittimi nazionali o aeromobili nazionali e' punito, qualora il fatto non costituisca un piu' grave reato, con l'arresto fino a sei mesi ovvero con l'ammenda fino a L. 40.000".
@@ -338,11 +338,11 @@ Il marittimo che, senza giustificato motivo, rifiuti l'imbarco, viene cancellato
 
 1.
 
-La cancellazione dai turni di collocamento, oltre che nei casi previsti dagli articoli 4, 6, 8, 11, 14, 15, si effettua d'ufficio qualora il marittimo sia stato cancellato dalle matricole e dai registri ai sensi dell'[art. 120, lettera f), del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_120-letf).
+La cancellazione dai turni di collocamento, oltre che nei casi previsti dagli articoli 4, 6, 8, 11, 14, 15, si effettua d'ufficio qualora il marittimo sia stato cancellato dalle matricole e dai registri ai sensi dell'[art. 120, lettera f), del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 2.
 
-La reiscrizione nei turni di collocamento potra' avvenire nei casi previsti dall'[art. 121 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_121).
+La reiscrizione nei turni di collocamento potra' avvenire nei casi previsti dall'[art. 121 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 3.
 
@@ -357,7 +357,7 @@ Tale data sara' quella dell'ultimo giorno utile per rispondere all'appello medes
 L'imbarco del marittimo iscritto in turno particolare su nave di altro armatore comporta la cancellazione da tale turno.
 
 Nota all'art. 16:
- - Si riporta il testo dell'[art. 120, lettera f)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_120-letf), e dell'[art. 121 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_121):
+ - Si riporta il testo dell'[art. 120, lettera f)](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e dell'[art. 121 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
  "Art. 120 (Cancellazione dalle matricole e dai registri). - Alla cancellazione degli iscritti nelle matricole della gente di mare, oltre che nei casi previsti dagli articoli 1251, 1253, si procede per i seguenti motivi:
  a)- e) (omissis);
  f) cessazione dall'esercizio della navigazione".
@@ -452,10 +452,10 @@ L'ufficio di collocamento deve rilasciare, al marittimo che deve essere imbarcat
 
 1.
 
-I marittimi ai quali sia stata inflitta la sanzione prevista dall'art. 1252, primo comma, punto 4, del [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) hanno diritto alla reiscrizione nei turni di collocamento alla scadenza del termine indicato dal provvedimento di inibizione.
+I marittimi ai quali sia stata inflitta la sanzione prevista dall'art. 1252, primo comma, punto 4, del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) hanno diritto alla reiscrizione nei turni di collocamento alla scadenza del termine indicato dal provvedimento di inibizione.
 
 Nota all'art. 21:
- - Il punto 4, [primo comma, dell'art. 1252 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_1252-com1) cosi' recita: "la inibizione dall'esercizio della professione marittima per un tempo non inferiore ad un mese e non superiore a due anni".
+ - Il punto 4, [primo comma, dell'art. 1252 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) cosi' recita: "la inibizione dall'esercizio della professione marittima per un tempo non inferiore ad un mese e non superiore a due anni".
 
 ## Art. 22. — Iscrizioni nei turni di marittimi appartenenti ai Paesi della Comunita' economica europea
 
@@ -479,15 +479,15 @@ L'avvenuto imbarco di marittimi della Comunita' su navi italiane deve essere com
 
 1.
 
-L'imbarco di marittimi extracomunitari e' disciplinato dall'[art. 318, secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_318-com2), e dall'[art. 319 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_319).
+L'imbarco di marittimi extracomunitari e' disciplinato dall'[art. 318, secondo comma](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e dall'[art. 319 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 2.
 
-Verra' consentita l'iscrizione del personale medesimo in appositi turni di collocamento, in attuazione delle disposizioni che saranno emanate ai sensi della [legge 28 febbraio 1990, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39).
+Verra' consentita l'iscrizione del personale medesimo in appositi turni di collocamento, in attuazione delle disposizioni che saranno emanate ai sensi della [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md).
 
-Note all'[art. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_23):
- - L'[art. 318, secondo comma, del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_318-com2) cosi' recita: "Il Ministro per la marina mercantile, in caso di particolari necessita', puo' autorizzare che del personale di bassa forza di bordo facciano parte stranieri in misura non superiore ad un terzo dell'intero equipaggio".
- - Si riporta il testo dell'[art. 319 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_319):
+Note all'[art. 23](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - L'[art. 318, secondo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) cosi' recita: "Il Ministro per la marina mercantile, in caso di particolari necessita', puo' autorizzare che del personale di bassa forza di bordo facciano parte stranieri in misura non superiore ad un terzo dell'intero equipaggio".
+ - Si riporta il testo dell'[art. 319 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
  "Art. 319. - Nei porti esteri della navigazione marittima internazionale o se non siano disponibili rispettivamente marittimi o personale navigante di nazionalita' italiana, possono essere assunti anche stranieri in misura non superiore ad un quarto dell'intero equipaggio e per il solo tempo necessario al viaggio da compiere.
  In caso di speciali esigenze, l'autorita' consolare puo' autorizzare l'assunzione di stranieri in misura superiore a quella indicata dal comma precedente".
  - Il [comma 4 dell'art. 10 della legge n. 39/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;39#art_10-com4) cosi' recita: "Entro centoventi giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Presidente della Repubblica previa deliberazione del Consiglio dei Ministri, su proposta del Ministro della pubblica istruzione, e' disciplinato, in conformita' con la normativa comunitaria, il riconoscimento dei titoli di studio e professionali, nonche' delle qualifiche di mestiere acquisite nei Paesi di origine, e sono istituiti altresi' gli eventuali corsi di adeguamento e di integrazione da svolgersi presso istituti scolastici o universitari italiani".

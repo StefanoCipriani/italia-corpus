@@ -12,7 +12,7 @@ vigente: true
 
 Con la presente legge e' ammessa l'esenzione dalle tasse postali: 
  
- a) pel carteggio fra la sede del sindacato obbligatorio siciliano di mutua assicurazione per gl'infortuni sul lavoro nelle miniere di zolfo in Caltanissetta, istituito col [R. decreto 11 luglio 1904, n. 430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-11;430) e i suoi agenti, i sindaci dei Comuni, gli esercenti consociati e gli operai; 
+ a) pel carteggio fra la sede del sindacato obbligatorio siciliano di mutua assicurazione per gl'infortuni sul lavoro nelle miniere di zolfo in Caltanissetta, istituito col [R. decreto 11 luglio 1904, n. 430](Che%20rende%20obbligatoria%20la%20costituzione%20di%20un%20sindacato%20di%20mutua%20assicurazione%20per%20gli%20infortuni%20sul%20lavoro%20fra%20gli%20esercenti%20lindustria%20delle%20miniere%20di%20zolfo%20in%20Sicilia.%20004U0430.md) e i suoi agenti, i sindaci dei Comuni, gli esercenti consociati e gli operai; 
  
  b) per la trasmissione di fondi, mediante vaglia di servizio, fra la sede centrale del sindacato, i suoi agenti, i sindaci dei Comuni, i soci del sindacato e gli operai.
 

@@ -18,7 +18,7 @@ Veduto il [R. decreto-legge 16 novembre 1922, n. 1545](Che%20reca%20norme%20per%
 
 Veduto il Nostro decreto 6 maggio 1923, n. 1054;
 
-Veduto il Nostro decreto 26 giugno 1923, n. 1413 e le modificazioni ed aggiunte apportatevi col [R. decreto 31 dicembre 1923, n. 2977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2977);
+Veduto il Nostro decreto 26 giugno 1923, n. 1413 e le modificazioni ed aggiunte apportatevi col [R. decreto 31 dicembre 1923, n. 2977](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%2026%20giugno%201923%20numero%201473%20relativo%20allattuazione%20del%20nuovo%20ordinamento%20dellistruzione%20media%20e%20dei%20convitti%20nazionali.%20023U2977.md);
 
 Veduto il Nostro decreto 31 dicembre 1923, n. 3040;
 
@@ -40,7 +40,7 @@ Le cattedre di lingua straniera nei ginnasi sono cattedre di ruolo A; ma i titol
 
 ## Art. 4.
 
-Il Ministro della pubblica istruzione puo' autorizzare, dall'inizio dell'anno scolastico 1923-24, nei modi prescritti dal [R. decreto 31 dicembre 1923, n. 3040](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3040), oltre che presidi, anche insegnanti di Regi istituti medi di istruzione ad assumere la direzione di istituti medi annessi ai piu' importanti tra i Regi educandati ed istituti femminili di educazione.
+Il Ministro della pubblica istruzione puo' autorizzare, dall'inizio dell'anno scolastico 1923-24, nei modi prescritti dal [R. decreto 31 dicembre 1923, n. 3040](Provvedimenti%20per%20gli%20istituti%20medi%20di%20istruzione%20annessi%20a%20Reali%20educandati%20ed%20istituti%20femminili%20di%20educazione.%20023U3040.md), oltre che presidi, anche insegnanti di Regi istituti medi di istruzione ad assumere la direzione di istituti medi annessi ai piu' importanti tra i Regi educandati ed istituti femminili di educazione.
 
 ## Art. 5.
 

@@ -12,4 +12,4 @@ vigente: true
 
 N. 1101 
  
- Decreto Luogotenenziale 17 giugno 1915, col quale, sulla proposta del ministro dell'interno, di concerto col ministro delle finanze, viene autorizzata l'applicazione della tassa di soggiorno nel comune di Sorrento, ai sensi della [legge 11 dicembre 1910, n. 863](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;863).
+ Decreto Luogotenenziale 17 giugno 1915, col quale, sulla proposta del ministro dell'interno, di concerto col ministro delle finanze, viene autorizzata l'applicazione della tassa di soggiorno nel comune di Sorrento, ai sensi della [legge 11 dicembre 1910, n. 863](Che%20da%20facolta%20ai%20Comuni%20di%20istituire%20una%20tassa%20di%20soggiorno.%20010U0863.md).

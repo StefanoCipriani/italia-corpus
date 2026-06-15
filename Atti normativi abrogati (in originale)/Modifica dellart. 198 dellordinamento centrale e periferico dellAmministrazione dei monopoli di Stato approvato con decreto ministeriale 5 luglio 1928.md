@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il decreto ministeriale 5 luglio 1928, registrato alla Corte dei conti il 10 settembre 1928, registro n. 1 Monopoli, foglio n. 54, emanato a seguito della delega legislativa di cui all'[art. 14 del regio decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258#art_14), convertito nella [legge 6 dicembre 1928, n. 3474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;3474), con il quale sono state approvate le disposizioni sull'ordinamento centrale e periferico dell'Amministrazione dei monopoli di Stato;
+Visto il decreto ministeriale 5 luglio 1928, registrato alla Corte dei conti il 10 settembre 1928, registro n. 1 Monopoli, foglio n. 54, emanato a seguito della delega legislativa di cui all'[art. 14 del regio decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258#art_14), convertito nella [legge 6 dicembre 1928, n. 3474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201927%20n.%202258%20relativo%20allautonomia%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20028U3474.md), con il quale sono state approvate le disposizioni sull'ordinamento centrale e periferico dell'Amministrazione dei monopoli di Stato;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

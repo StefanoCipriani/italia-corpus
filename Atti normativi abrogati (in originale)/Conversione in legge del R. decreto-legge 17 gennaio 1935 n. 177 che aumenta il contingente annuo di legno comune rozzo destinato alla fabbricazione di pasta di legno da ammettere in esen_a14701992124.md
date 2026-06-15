@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 gennaio 1935, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-17;177), che alimenta il contingente annuo di legno comune rozzo destinato alla fabbricazione di pasta di legno, da ammettere in esenzione da diritti di confine. 
+ E' convertito in legge il [R. decreto-legge 17 gennaio 1935, n. 177](Aumento%20del%20contingente%20annuo%20di%20legno%20comune%20rozzo%20destinato%20alla%20fabbricazione%20di%20pasta%20di%20legno%20da%20ammettere%20in%20esenzione%20da%20diritti%20di%20confine.%20035U0177.md), che alimenta il contingente annuo di legno comune rozzo destinato alla fabbricazione di pasta di legno, da ammettere in esenzione da diritti di confine. 
  
  Ordiniamo che la presente munita del sigillo dello Stato sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

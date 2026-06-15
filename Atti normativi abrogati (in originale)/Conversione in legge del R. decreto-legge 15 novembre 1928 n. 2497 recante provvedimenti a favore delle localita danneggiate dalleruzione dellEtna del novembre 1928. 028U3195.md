@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 novembre 1928, n. 2497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-15;2497), recante provvedimenti a favore delle localita' colpite dall'eruzione dell'Etna del novembre 1928. 
+ E' convertito in legge il [R. decreto-legge 15 novembre 1928, n. 2497](Provvedimenti%20a%20favore%20delle%20localita%20danneggiate%20dalleruzione%20dellEtna%20del%20novembre%201928.%20028U2497.md), recante provvedimenti a favore delle localita' colpite dall'eruzione dell'Etna del novembre 1928. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

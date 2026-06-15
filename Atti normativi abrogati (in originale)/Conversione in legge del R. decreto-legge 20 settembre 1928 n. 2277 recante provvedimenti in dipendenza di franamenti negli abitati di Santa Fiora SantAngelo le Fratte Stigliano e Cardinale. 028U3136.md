@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 settembre 1928, n. 2277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-09-20;2277), recante provvedimenti in dipendenza di franamenti negli abitati di Santa Fiora, Sant'Angelo le Fratte, Stigliano e Cardinale. 
+ E' convertito in legge il [R. decreto-legge 20 settembre 1928, n. 2277](Provvedimenti%20in%20dipendenza%20di%20franamenti%20negli%20abitati%20di%20Santa%20Fiora%20SantAngelo%20le%20Fratte%20Stigliano%20e%20Cardinale.%20028U2277.md), recante provvedimenti in dipendenza di franamenti negli abitati di Santa Fiora, Sant'Angelo le Fratte, Stigliano e Cardinale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 marzo 1931, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-03-23;347), recante provvedimenti per la costruzione di case popolari nella citta' di Messina. 
+ E' convertito in legge il [R. decreto-legge 23 marzo 1931, n. 347](Provvedimenti%20per%20la%20costruzione%20di%20case%20popolari%20nella%20citta%20di%20Messina.%20031U0347.md), recante provvedimenti per la costruzione di case popolari nella citta' di Messina. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

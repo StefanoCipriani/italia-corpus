@@ -26,7 +26,7 @@ Sono pubblicati ed avranno vigore di legge in Roma e nelle provincie romane il R
 
 ## Art. 2.
 
-Provvisoriamente e fino a che rimarra' in vigore in Roma e nelle provincie romane il regolamento sui delitti e sulle pene del 20 settembre 1852, ove nell'editto suddetto sono richiamati articoli del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), s'intenderanno richiamate le disposizioni analoghe del detto regolamento, siccome e' indicato nell'annessa tabella.
+Provvisoriamente e fino a che rimarra' in vigore in Roma e nelle provincie romane il regolamento sui delitti e sulle pene del 20 settembre 1852, ove nell'editto suddetto sono richiamati articoli del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), s'intenderanno richiamate le disposizioni analoghe del detto regolamento, siccome e' indicato nell'annessa tabella.
 
 ## Art. 3.
 

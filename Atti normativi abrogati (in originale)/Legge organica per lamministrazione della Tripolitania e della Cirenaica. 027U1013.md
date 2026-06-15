@@ -14,7 +14,7 @@ La Tripolitania e la Cirenaica sono costituite in due separati Governi, retti og
  
  Il Governatore e' nominato con decreto Reale su proposta del Ministro delle colonie, sentito il Consiglio dei ministri. 
  
- Quando nella Colonia sia dichiarato lo stato di guerra, il Governatore ha le facolta' che, in simili casi, sono conferite ai comandanti di corpo d'armata dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito, dalle leggi e dai regolamenti militari.
+ Quando nella Colonia sia dichiarato lo stato di guerra, il Governatore ha le facolta' che, in simili casi, sono conferite ai comandanti di corpo d'armata dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, dalle leggi e dai regolamenti militari.
 
 ### Art. 2.
 
@@ -462,7 +462,7 @@ Le imposte e le tasse vigenti in Colonia all'attuazione della presente legge rim
 
 La presente legge entrera' in vigore il 1° luglio 1927, ma e' in facolta' del Ministro delle colonie, con suo decreto, di sospendere, fino a non oltre il 1° luglio 1928, l'applicazione di quelle norme, che egli ritenga non immediatamente attuabili. 
  
- Con la entrata in vigore della legge saranno abrogati i [Regi decreto 17 maggio 1919, numero 886](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-05-17;886), [1° giugno 1919, n. 931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-06-01;931), [31 ottobre 1919, n. 2401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-31;2401), e ogni altra contraria disposizione.
+ Con la entrata in vigore della legge saranno abrogati i [Regi decreto 17 maggio 1919, numero 886](Relativo%20alla%20costituzione%20del%20Governo%20nella%20Tripolitania%20e%20nella%20Cirenaica.%20019U0886.md), [1° giugno 1919, n. 931](Che%20approva%20le%20norme%20fondamentali%20per%20lassetto%20della%20Tripolitania.%20019U0931.md), [31 ottobre 1919, n. 2401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-31;2401), e ogni altra contraria disposizione.
 
 ### Art. 61.
 

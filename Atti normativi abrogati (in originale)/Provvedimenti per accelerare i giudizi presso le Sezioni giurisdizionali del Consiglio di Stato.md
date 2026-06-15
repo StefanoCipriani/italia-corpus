@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -25,7 +25,7 @@ PROMULGA Il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 ## Art. 1.
 
 E' istituita, senza aumento di posti, una terza Sezione del Consiglio di Stato in sede giurisdizionale, che assume la denominazione di Sezione sesta.
- Gli affari attualmente devoluti alla Sezione dell'Africa italiana, istituita con [regio decreto-legge 6 febbraio 1939, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-06;478), sono assegnati alle altre Sezioni consultive, con le modalita' previste dai primo comma dell'art. 9 del testo unico delle leggi sul Consiglio di Stato, approvato con [regio decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054).
+ Gli affari attualmente devoluti alla Sezione dell'Africa italiana, istituita con [regio decreto-legge 6 febbraio 1939, n. 478](Istituzione%20di%20una%20nuova%20Sezione%20presso%20il%20Consiglio%20di%20Stato%20per%20gii%20affari%20dellAfrica%20Italiana.%20039U0478.md), sono assegnati alle altre Sezioni consultive, con le modalita' previste dai primo comma dell'art. 9 del testo unico delle leggi sul Consiglio di Stato, approvato con [regio decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054).
  I componenti della sesta Sezione giurisdizionale concorrono a costituire l'Adunanza plenaria secondo le disposizioni del terzo comma dell'art. 45 del testo unico predetto.
 
 ## Art. 2.
@@ -35,7 +35,7 @@ Sulle domande incidentali di sospensione il Consiglio di Stato in sede giurisdiz
 
 ## Art. 3.
 
-Il numero dei magistrati del Consiglio di Stato, che possono essere collocati fuori ruolo ai sensi dell'[art. 1 del regio decreto-legge 15 ottobre 1925, n. 1791](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;1791#art_1), e' elevato a diciotto.
+Il numero dei magistrati del Consiglio di Stato, che possono essere collocati fuori ruolo ai sensi dell'[art. 1 del regio decreto-legge 15 ottobre 1925, n. 1791](Aumento%20del%20numero%20complessivo%20dei%20presidenti%20e%20dei%20consiglieri%20di%20Stato.%20025U1791.md), e' elevato a diciotto.
 
 ## Art. 4.
 

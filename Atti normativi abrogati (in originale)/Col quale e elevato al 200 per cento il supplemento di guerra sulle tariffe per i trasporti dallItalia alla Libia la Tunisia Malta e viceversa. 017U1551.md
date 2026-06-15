@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' della autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Visti i Nostri decreti 2 gennaio 1916, n. 59, 19 aprile 1916, n. 438 e 1° aprile 1917, n. 511; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- La Societa' di navigazione «Sicilia», con sede in Roma, e' autorizzata, a partire dalla data di pubblicazione del presente decreto nella Gazzetta ufficiale del Regno, ad elevare dal cento al duecento per cento il supplemento di guerra sulle tariffe previste dal capitolato allegato D alla [legge 30 giugno 1912, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-30;685), pei trasporti dall'Italia alla Libia, alla Tunisia, a Malta e viceversa e da scalo a scalo della Libia, eccezione fatta pei trasporti di tessuti di cotone, pei quali il supplemento di guerra non potra' superare quello del 25 per cento attualmente autorizzato. 
+ La Societa' di navigazione «Sicilia», con sede in Roma, e' autorizzata, a partire dalla data di pubblicazione del presente decreto nella Gazzetta ufficiale del Regno, ad elevare dal cento al duecento per cento il supplemento di guerra sulle tariffe previste dal capitolato allegato D alla [legge 30 giugno 1912, n. 685](Che%20porta%20disposizioni%20sui%20servizi%20marittimi%20sovvenzionati.%20012U0685.md), pei trasporti dall'Italia alla Libia, alla Tunisia, a Malta e viceversa e da scalo a scalo della Libia, eccezione fatta pei trasporti di tessuti di cotone, pei quali il supplemento di guerra non potra' superare quello del 25 per cento attualmente autorizzato. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

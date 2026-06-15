@@ -13,7 +13,7 @@ vigente: true
 Lo stanziamento del capitolo n. 192: 
  «Costruzione dell'edificio destinato a sede del 
  Ministero dell'interno (spesa ripartita, [legge 
- 18 luglio 1911, n. 836, e articolo 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-18;836#art_7) del [decreto 
+ 18 luglio 1911, n. 836, e articolo 7](Riguardante%20i%20provvedimenti%20per%20la%20sistemazione%20dei%20locali%20degli%20uffici%20dello%20Stato%20nella%20capitale.%20011U0836.md) del [decreto 
  Luogotenenziale 17 novembre 1918, n. 1698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-17;1698))» 
  dello stato di previsione della spesa del 
  Ministero dell'interno, per l'esercizio 

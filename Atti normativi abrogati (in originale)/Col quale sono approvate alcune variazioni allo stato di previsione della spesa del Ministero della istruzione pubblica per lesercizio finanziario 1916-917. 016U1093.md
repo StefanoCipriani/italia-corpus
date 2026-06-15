@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata:
 
-Visto l'[art. 5 della legge 27 maggio 1875, n. 2554](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-05-27;2554#art_5), il quale stabilisce che il provento delle tasse d'ingresso ai musei, alle gallerie, ed agli scavi del Regno ottenuto nell'anno antecedente debba essere inscritto nello stato di previsione della spesa del Ministero dell'istruzione pubblica per i fini nell'articolo stesso ed in quello n. 22 della [legge 20 giugno 1909, n. 364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-20;364), indicati;
+Visto l'[art. 5 della legge 27 maggio 1875, n. 2554](Sulla%20tassa%20di%20entrata%20nei%20musei%20nelle%20gallerie%20e%20negli%20scavi%20archeologici.%20075U2554.md), il quale stabilisce che il provento delle tasse d'ingresso ai musei, alle gallerie, ed agli scavi del Regno ottenuto nell'anno antecedente debba essere inscritto nello stato di previsione della spesa del Ministero dell'istruzione pubblica per i fini nell'articolo stesso ed in quello n. 22 della [legge 20 giugno 1909, n. 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md), indicati;
 
 Accertato che il provento delle tasse in parola, versato in tesoreria nell' esercizio 1915-916, ascende a somma insufficiente a provvedere, nell'anno finanziario 1916-917, alle spese della indicata specie;
 
@@ -32,7 +32,7 @@ Considerata la necessita' di scindere dalle altre spese necessarie agli Istituti
 
 Visto l'[art. 12, comma primo del decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625#art_12-com1), convertito nella legge 21 dicembre stesso anno, n. 1774;
 
-Vista la [legge 9 luglio 1916, n. 814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-07-09;814);
+Vista la [legge 9 luglio 1916, n. 814](Che%20proroga%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lanno%20finanziario%201916-917%20fino%20quando%20non%20siano%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%20_cbe86bff6c88.md);
 
 Udito il Consiglio dei ministri;
 
@@ -40,7 +40,7 @@ Sulla proposta del ministro segretario di Stato per la istruzione pubblica, di c
 
 ## Art. 1.
 
-A deroga del disposto dell'[art. 23, comma primo, dalla legge 20 giugno 1909, n. 364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-20;364#art_23-com1), lo stanziamento di L. 300.000 assegnato al capitolo n. 282 dello stato di previsione della spesa del Ministero dell'istruzione pubblica per l'esercizio finanziario 1916-917, anziche' essere versato al conto corrente istituito presso la Cassa depositi e prestiti per l'acquisto di cose d'arte e di antichita', viene destinato come segue: 
+A deroga del disposto dell'[art. 23, comma primo, dalla legge 20 giugno 1909, n. 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md), lo stanziamento di L. 300.000 assegnato al capitolo n. 282 dello stato di previsione della spesa del Ministero dell'istruzione pubblica per l'esercizio finanziario 1916-917, anziche' essere versato al conto corrente istituito presso la Cassa depositi e prestiti per l'acquisto di cose d'arte e di antichita', viene destinato come segue: 
  
  a) per L. 250.000 e' trasportato ad altro capitolo da istituirsi nella parte straordinaria dello stato di previsione medesimo per provvedere alle spese di qualsiasi genere, riguardanti i monumenti, i musei, gli scavi, le gallerie e gli oggetti d'arte e di antichita'; 
  

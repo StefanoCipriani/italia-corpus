@@ -20,7 +20,7 @@ I comuni provvedono all'applicazione ed alla riscossione delle imposte su indica
 
 ## Art. 2.
 
-Alla tariffa massima delle imposte di consumo di cui all'[art. 95 del testo unico 14 settembre 1931 n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175#art_95), modificato dall'[art. 1 del R. decreto-legge 12 aprile 1943, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-12;449#art_1), e' sostituita la seguente per tutti indistintamente i comuni del territorio nazionale: 
+Alla tariffa massima delle imposte di consumo di cui all'[art. 95 del testo unico 14 settembre 1931 n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175#art_95), modificato dall'[art. 1 del R. decreto-legge 12 aprile 1943, n. 449](Unificazione%20della%20tariffa%20delle%20imposte%20di%20consumo.%20043U0449.md), e' sostituita la seguente per tutti indistintamente i comuni del territorio nazionale: 
 
  Parte di provvedimento in formato grafico
 
@@ -59,7 +59,7 @@ Con l'applicazione della tariffa di cui al precedente art. 2 cessano di avere vi
 
 ## Art. 7.
 
-L'[art. 100 del testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175#art_100), modificato dall'articolo unico, [lettere B)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-23;901#art_letb) e [C) della legge 23 giugno 1939, n. 901](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-23;901#art_letc), dall'[art. 4 della legge 21 ottobre 1940, n. 1504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-21;1504#art_4), e dall'[art. 6 del R. decreto-legge 12 aprile 1943, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-12;449#art_6), e' sostituito dal seguente: 
+L'[art. 100 del testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175#art_100), modificato dall'articolo unico, [lettere B)](Modificazioni%20agli%20articoli%2070%20e%20100%20del%20testo%20unico%20per%20la%20finanza%20locale%20approvato%20col%20R.%20decreto%2014%20settembre%201931%20n.%201175.%20039U0901.md) e [C) della legge 23 giugno 1939, n. 901](Modificazioni%20agli%20articoli%2070%20e%20100%20del%20testo%20unico%20per%20la%20finanza%20locale%20approvato%20col%20R.%20decreto%2014%20settembre%201931%20n.%201175.%20039U0901.md), dall'[art. 4 della legge 21 ottobre 1940, n. 1504](Regolazione%20dei%20rapporti%20tra%20Comuni%20ed%20appaltatori%20delle%20imposte%20di%20consumo%20in%20dipendenza%20degli%20aumenti%20di%20retribuzione%20concessi%20al%20personale%20e%20modifiche%20alla%20legge%2023%20giugno%201939-XVII%20n._59cc4a2c6afb.md), e dall'[art. 6 del R. decreto-legge 12 aprile 1943, n. 449](Unificazione%20della%20tariffa%20delle%20imposte%20di%20consumo.%20043U0449.md), e' sostituito dal seguente: 
  
 «I Comuni possono imporre i seguenti diritti accessori nelle misure massime sotto indicate: 
  
@@ -79,7 +79,7 @@ Negli appalti a canone fisso spetta all'appaltatore un aggio di riscossione del 
 
 ## Art. 8.
 
-L'[art. 22 del testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175#art_22), modificato dall'[art. 2 del R. decreto-legge 12 aprile 1943, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-12;449#art_2), e' sostituito dal seguente: 
+L'[art. 22 del testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175#art_22), modificato dall'[art. 2 del R. decreto-legge 12 aprile 1943, n. 449](Unificazione%20della%20tariffa%20delle%20imposte%20di%20consumo.%20043U0449.md), e' sostituito dal seguente: 
  
 «L'applicazione delle imposte deve essere contenuta entro i limiti indicati nella tariffa di cui all'art. 95. 
  
@@ -115,7 +115,7 @@ Le predette disposizioni non danno luogo all'applicazione del [sesto comma dell'
 
 Per gli appalti in corso alla data dell'entrata in vigore del presente decreto, tanto ad aggio quanto a canone fisso, sul maggiore provento derivante dall'applicazione della nuova tariffa, e' dovuto all'appaltatore l'aggio di riscossione nella misura del 4%. 
  
-Dalla data di applicazione della nuova tariffa cessano di avere vigore l'[art. 2 del R. decreto-legge 23 luglio 1937, n. 1574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-23;1574#art_2), convertito nella [legge 30 dicembre 1937, n. 2440, e l'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-12-30;2440#art_1) della [legge 21 ottobre 1940, n. 1504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-21;1504). 
+Dalla data di applicazione della nuova tariffa cessano di avere vigore l'[art. 2 del R. decreto-legge 23 luglio 1937, n. 1574](Ritocchi%20agli%20aggi%20di%20riscossione%20agli%20esattori%20delle%20imposte%20dirette%20e%20rimborso%20a%20carico%20dei%20Comuni%20degli%20aumenti%20di%20retribuzione%20concessi%20dal%209%20maggio%201937-XV%20al%20personale%20dipendente%20da_f601e301316e.md), convertito nella [legge 30 dicembre 1937, n. 2440, e l'art. 1](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20luglio%201937-XV%20n.%201574%20concernente%20ritocchi%20agli%20aggi%20di%20riscossione%20degli%20esattori%20delle%20imposte%20dirette%20e%20rimborso%20a%20carico%20dei%20Comuni%20degli_0bd577cc6def.md) della [legge 21 ottobre 1940, n. 1504](Regolazione%20dei%20rapporti%20tra%20Comuni%20ed%20appaltatori%20delle%20imposte%20di%20consumo%20in%20dipendenza%20degli%20aumenti%20di%20retribuzione%20concessi%20al%20personale%20e%20modifiche%20alla%20legge%2023%20giugno%201939-XVII%20n._59cc4a2c6afb.md). 
  
 Qualora peraltro la misura dell'aggio stabilita nel primo comma risulti in eccesso rispetto al maggiore onere derivante all'appaltatore dall'applicazione dei miglioramenti economici di carattere obbligatorio al personale, ovvero risulti insufficiente a coprire tale maggiore onere, il comune e l'appaltatore possono determinare d'accordo la diversa misura dell'aggio. 
  
@@ -123,7 +123,7 @@ In caso di disaccordo fra le parti l'aggio e' determinato col procedimento stabi
  
 Il maggiore provento, al netto del suindicato aggio, deve essere versato al comune alle medesime scadenze stabilite nel contratto per i versamenti delle riscossioni o delle rate di canone. 
  
-Per gli appalti conferiti ai consorzi degli esercenti deve procedersi, d'accordo fra le parti, alla revisione del canone in relazione al presumibile maggior provento derivante dall'applicazione della nuova tariffa. In caso di disaccordo sara' seguita la procedura stabilita dal [R. decreto-legge 25 gennaio 1931, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-25;36). Fino a quando non sia stato determinato il nuovo canone il consorzio e' tenuto a versare, salvo conguaglio, per il detto maggior provento, in aggiunta alle rate del canone dovuto al comune a seguito della revisione disposta dall'[art. 7 del R. decreto-legge 12 aprile 1943, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-12;449#art_7), una quota provvisoria pari al doppio dell'ammontare di dette rate. 
+Per gli appalti conferiti ai consorzi degli esercenti deve procedersi, d'accordo fra le parti, alla revisione del canone in relazione al presumibile maggior provento derivante dall'applicazione della nuova tariffa. In caso di disaccordo sara' seguita la procedura stabilita dal [R. decreto-legge 25 gennaio 1931, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-25;36). Fino a quando non sia stato determinato il nuovo canone il consorzio e' tenuto a versare, salvo conguaglio, per il detto maggior provento, in aggiunta alle rate del canone dovuto al comune a seguito della revisione disposta dall'[art. 7 del R. decreto-legge 12 aprile 1943, n. 449](Unificazione%20della%20tariffa%20delle%20imposte%20di%20consumo.%20043U0449.md), una quota provvisoria pari al doppio dell'ammontare di dette rate. 
  
 Le cauzioni prestate dagli appaltatori e dai consorzi degli esercenti devono essere integrate in relazione al maggiore provento, tenute presenti le disposizioni degli [articoli 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175#art_81) e [87 del testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175#art_87).
 
@@ -133,7 +133,7 @@ Con decreto del Ministro per le finanze, di concerto con quello per l'interno, s
 
 ## Art. 12.
 
-L'[art. 5 della legge 11 luglio 1941, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-07-11;685#art_5), e' sostituito dal seguente: 
+L'[art. 5 della legge 11 luglio 1941, n. 685](Provvedimenti%20in%20materia%20di%20imposte%20di%20consumo.%20041U0685.md), e' sostituito dal seguente: 
  
 Ai fini di cui al precedente articolo e' costituita, con decreto del Ministro per le finanze, una commissione composta: 
  
@@ -153,7 +153,7 @@ g) di un ispettore superiore di ragioneria del Ministero dell'interno.
  
 Le funzioni di segretario della commissione medesima sono disimpegnate da un funzionario amministrativo del ruolo centrale del Ministero delle finanze di gruppo A e di grado non inferiore al 9°. 
  
-Ai componenti della commissione sara' corrisposto per ogni giornata di adunanza un gettone di presenza nella misura stabilita dalle vigenti disposizioni. Al segretario sara' corrisposto un premio di operosita' ai sensi dell'[art. 63 del R. decreto 8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;843#art_63). Le spese inerenti al funzionamento della commissione fanno carico al capitolo 25 del bilancio passivo del Ministero delle finanze per l'esercizio in corso ed a quelli corrispondenti per gli esercizi successivi».
+Ai componenti della commissione sara' corrisposto per ogni giornata di adunanza un gettone di presenza nella misura stabilita dalle vigenti disposizioni. Al segretario sara' corrisposto un premio di operosita' ai sensi dell'[art. 63 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md). Le spese inerenti al funzionamento della commissione fanno carico al capitolo 25 del bilancio passivo del Ministero delle finanze per l'esercizio in corso ed a quelli corrispondenti per gli esercizi successivi».
 
 ## Art. 13.
 
@@ -169,11 +169,11 @@ Le delegazioni rilasciate sulle imposte di consumo ai sensi dell'[art. 94 del te
 
 ## Art. 15.
 
-L'[art. 104 del testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175#art_104), modificato dall'[art. 1, lett. d) del R. decreto-legge 9 settembre 1937, n. 1769](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-09-09;1769#art_1-letd), convertito nella [legge 13 gennaio 1938, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-01-13;20), e' sostituito dal seguente: 
+L'[art. 104 del testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175#art_104), modificato dall'[art. 1, lett. d) del R. decreto-legge 9 settembre 1937, n. 1769](Modificazioni%20al%20testo%20unico%2014%20settembre%201931-IX%20n.%201175%20per%20la%20finanza%20locale%20e%20al%20R.%20decreto%2014%20giugno%201928-VI%20n.%201393%20concernente%20le%20pubbliche%20affissioni%20e%20la%20pubblicita%20affine.%20037U1769.md), convertito nella [legge 13 gennaio 1938, n. 20](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20settembre%201937-XV%20n.%201769%20contenente%20modificazioni%20al%20testo%20unico%20per%20la%20finanza%20locale%20approvato%20con%20R.%20decreto%2014%20settembre_a81c9e4d7c34.md), e' sostituito dal seguente: 
  
 «Il valore locativo si desume dal fitto reale o presunto. 
  
-E' fitto reale quello risultante da contratto scritto o da denunzia verbale d'affitto di cui all'art. 9 della tariffa allegato A (parte prima) alla legge del bollo approvata con [R. decreto 30 dicembre 1923, n. 3268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3268), e successive modificazioni; e' presunto in ogni altro caso. 
+E' fitto reale quello risultante da contratto scritto o da denunzia verbale d'affitto di cui all'art. 9 della tariffa allegato A (parte prima) alla legge del bollo approvata con [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni; e' presunto in ogni altro caso. 
  
 Quando il fitto reale risulti inferiore ai prezzi locativi correnti, e' in facolta' del comune di procedere all'accertamento del fitto presunto per via di comparazione con altre abitazioni locate in condizioni e circostanze similari. 
  
@@ -213,7 +213,7 @@ L'imposta sugli animali caprini prevista dall'[art. 127 del testo unico 14 sette
 
 ## Art. 21.
 
-La tariffa della imposta sui cani, stabilita dall'articolo unico della [legge 22 gennaio 1942, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-22;35), e' modificata come segue: 
+La tariffa della imposta sui cani, stabilita dall'articolo unico della [legge 22 gennaio 1942, n. 35](Aumento%20alla%20tariffa%20dellimposta%20sui%20cani%20di%20lusso%20di%20cui%20allart.%20132%20del%20testo%20unico%20per%20la%20finanza%20locale%2014%20settembre%201931-1X%20n.%201175.%20042U0035.md), e' modificata come segue: 
  
 L. 400 per i cani appartenenti alla 1ª categoria; 
  
@@ -254,7 +254,7 @@ CLASSE DI COMUNI (art.11)
 
 ## Art. 26.
 
-L'[art. 151 del testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175#art_151), modificato dall'[art. 1 del R. decreto-legge 11 gennaio 1943, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-11;65#art_1), e' 
+L'[art. 151 del testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175#art_151), modificato dall'[art. 1 del R. decreto-legge 11 gennaio 1943, n. 65](Provvedimenti%20in%20materia%20di%20finanza%20locale.%20043U0065.md), e' 
 sostituito dal seguente: 
  
 «La misura massima dell'imposta e' stabilita dalla seguente tabella: 
@@ -278,7 +278,7 @@ progressivamente maggiorata di altre lire duecento».
 
 ## Art. 27.
 
-La misura massima dell'imposta, stabilita con l'[articolo 1 del R. decreto-legge 11 gennaio 1943, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-11;65#art_1), modificata, come segue: 
+La misura massima dell'imposta, stabilita con l'[articolo 1 del R. decreto-legge 11 gennaio 1943, n. 65](Provvedimenti%20in%20materia%20di%20finanza%20locale.%20043U0065.md), modificata, come segue: 
  
 
 pianoforti......................................... L. 100
@@ -294,7 +294,7 @@ Per i bigliardini di dimensioni non superiori a m. 2 di lunghezza e m. 1 di larg
 
 L'imposta sulle industrie, i commerci, le arti e le professioni e' applicata al reddito assoggettato all'imposta di ricchezza mobile. 
  
-Per i redditi di categoria B esenti dalla imposta di ricchezza mobile in virtu' di leggi speciali, fino a che restera' in vigore l'imposta istituita con l'[art. 12 del R. decreto-legge 12 aprile 1943, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-12;205#art_12), modificato dal [terzo comma dell'art. 1 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 384](Disposizioni%20in%20materia%20di%20imposte%20dirette.%20044U0384.md), l'imposta sulle industrie e' applicata al reddito assoggettato alla suddetta imposta speciale.
+Per i redditi di categoria B esenti dalla imposta di ricchezza mobile in virtu' di leggi speciali, fino a che restera' in vigore l'imposta istituita con l'[art. 12 del R. decreto-legge 12 aprile 1943, n. 205](Provvedimenti%20in%20materia%20di%20imposte%20dirette.%20043U0205.md), modificato dal [terzo comma dell'art. 1 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 384](Disposizioni%20in%20materia%20di%20imposte%20dirette.%20044U0384.md), l'imposta sulle industrie e' applicata al reddito assoggettato alla suddetta imposta speciale.
 
 ## Art. 29.
 
@@ -314,7 +314,7 @@ L'[art. 166 del testo unico 14 settembre 1931, n. 1175](https://www.normattiva.i
 
 ## Art. 30.
 
-L'imposta di soggiorno e di cura si applica in misura doppia di quella stabilita dall'[art. 2 del R. decreto-legge 24 novembre 1938, n. 1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-24;1926#art_2), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739).
+L'imposta di soggiorno e di cura si applica in misura doppia di quella stabilita dall'[art. 2 del R. decreto-legge 24 novembre 1938, n. 1926](Modificazioni%20concernenti%20lordinamento%20della%20imposta%20di%20soggiorno%20di%20cura%20e%20turismo.%20038U1926.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md).
 
 ## Art. 31.
 
@@ -382,7 +382,7 @@ Nei comuni delle prime cinque classi un terzo dei membri della commissione e' no
  
 La commissione elegge nel suo seno a scrutinio segreto ed a maggioranza di voti il presidente ed uno o piu' vice presidenti. 
  
-I membri della commissione debbono avere i requisiti richiesti dal testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148), per la nomina a consigliere comunale. 
+I membri della commissione debbono avere i requisiti richiesti dal testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), per la nomina a consigliere comunale. 
  
 Il segretario comunale, o altro impiegato del comune, funziona da segretario della commissione; egli risponde della conservazione dei documenti e della regolare tenuta del registro delle decisioni e cura ogni altro adempimento richiesto dai lavori della commissione. 
  

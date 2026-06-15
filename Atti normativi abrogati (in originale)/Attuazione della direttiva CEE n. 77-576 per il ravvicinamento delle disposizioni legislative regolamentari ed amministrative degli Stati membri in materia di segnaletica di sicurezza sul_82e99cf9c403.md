@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Viste le [direttive n. 77/576 del 25 luglio 1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;576) e [n. 79/640 del 21 giugno 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;640), emanate dal Consiglio delle Comunita' europee, in materia di segnaletica di sicurezza sul posto di lavoro;
 
-Considerato che in data 25 marzo 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 25 marzo 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -67,7 +67,7 @@ Per la segnaletica concernente il traffico all'interno della azienda deve essere
 
 ## Art. 6.
 
-Per la vigilanza sull'applicazione delle norme del presente decreto si applicano le disposizioni degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-09;128#art_2) e [3 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-09;128#art_3), nonche' l'[art. 21 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_21), e successive modificazioni e integrazioni.
+Per la vigilanza sull'applicazione delle norme del presente decreto si applicano le disposizioni degli [articoli 2](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md) e [3 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), nonche' l'[art. 21 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_21), e successive modificazioni e integrazioni.
  Per quanto riguarda la vigilanza sugli impianti delle ferrovie dello Stato nei quali sono svolte attivita' industriali, si osservano le disposizioni dell'[art. 35 della legge 26 aprile 1974, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-04-26;191#art_35), e delle relative norme di esecuzione.
 
 ## Art. 7.

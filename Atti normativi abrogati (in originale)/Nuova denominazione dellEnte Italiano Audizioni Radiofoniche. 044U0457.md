@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-L'ente Italiano Audizioni Radiofoniche, concessionarie dei servizi di radiodiffusione circolari ai sensi e per gli effetti dell'[art. 1 del R. decreto-legge 17 novembre 1927, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-17;2207#art_1), a decorrere dall'entrata in vigore del presente decreto, assume la nuova denominazione «Radio Audizioni Italia (R.A.I.)». 
+L'ente Italiano Audizioni Radiofoniche, concessionarie dei servizi di radiodiffusione circolari ai sensi e per gli effetti dell'[art. 1 del R. decreto-legge 17 novembre 1927, n. 2207](Nuove%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20delle%20radioaudizioni%20circolari.%20027U2207.md), a decorrere dall'entrata in vigore del presente decreto, assume la nuova denominazione «Radio Audizioni Italia (R.A.I.)». 
  
  Il presente decreto entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

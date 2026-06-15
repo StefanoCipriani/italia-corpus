@@ -48,11 +48,11 @@ La commissione puo' attribuire ai soggetti di cui al comma 3, lettera a), in agg
 
 5.
 
-Si applicano agli interventi di cui al presente decreto le disposizioni di cui alla [legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109), e successive modificazioni ed integrazioni. Fermo il disposto dell'articolo 6, comma 5, della predetta legge, il piano indica, altresi', gli ulteriori progetti da sottoporre al parere del Consiglio superiore dei lavori pubblici.
+Si applicano agli interventi di cui al presente decreto le disposizioni di cui alla [legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni ed integrazioni. Fermo il disposto dell'articolo 6, comma 5, della predetta legge, il piano indica, altresi', gli ulteriori progetti da sottoporre al parere del Consiglio superiore dei lavori pubblici.
 
 6.
 
-I soggetti di cui al comma 3, lettera a), assicurano in maniera coordinata il monitoraggio permanente, sia quantitativo che qualitativo, degli interventi, in conformita' ai criteri indicati dalla commissione, alla quale riferiscono ogni tre mesi. A tal fine i detti soggetti possono avvalersi dell'Agenzia romana per la preparazione del Giubileo S.p.a., di cui all'[articolo 6 del decreto-legge 27 ottobre 1995, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-10-27;444#art_6), convertito, con modificazioni, dalla [legge 20 dicembre 1995, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-20;539), stipulando con la stessa, ove necessario, apposite convenzioni.
+I soggetti di cui al comma 3, lettera a), assicurano in maniera coordinata il monitoraggio permanente, sia quantitativo che qualitativo, degli interventi, in conformita' ai criteri indicati dalla commissione, alla quale riferiscono ogni tre mesi. A tal fine i detti soggetti possono avvalersi dell'Agenzia romana per la preparazione del Giubileo S.p.a., di cui all'[articolo 6 del decreto-legge 27 ottobre 1995, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-10-27;444#art_6), convertito, con modificazioni, dalla [legge 20 dicembre 1995, n. 539](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20ottobre%201995%20n.%20444%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale.md), stipulando con la stessa, ove necessario, apposite convenzioni.
 
 7.
 

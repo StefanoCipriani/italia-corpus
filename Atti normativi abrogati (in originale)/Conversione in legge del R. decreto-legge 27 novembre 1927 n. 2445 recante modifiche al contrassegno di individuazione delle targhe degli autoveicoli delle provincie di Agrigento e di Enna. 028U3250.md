@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 novembre 1927, n. 2445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-27;2445), recante modifiche al contrassegno di individuazione delle targhe degli autoveicoli immatricolati nelle provincie di Agrigento e di Enna. 
+ E' convertito in legge il [R. decreto-legge 27 novembre 1927, n. 2445](Modifica%20del%20contrassegno%20di%20individuazione%20delle%20targhe%20degli%20autoveicoli%20delle%20provincie%20di%20Agrigento%20e%20di%20Enna.%20027U2445.md), recante modifiche al contrassegno di individuazione delle targhe degli autoveicoli immatricolati nelle provincie di Agrigento e di Enna. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

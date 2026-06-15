@@ -114,7 +114,7 @@ Per l'applicazione delle disposizioni contenute nell'art. 83 del capitolato anne
 
 ## Art. 13.
 
-Nei capitolati annessi alla [legge 13 giugno 1910, n. 306](Per%20le%20convenzioni%20provvisorie%20e%20definitive%20pei%20servizi%20postali%20e%20commerciali%20marittimi%20ed%20altri%20provvedimenti%20a%20favore%20delle%20industrie%20marittime.%20010U0306.md), ed in quello approvato con [R. decreto 26 giugno 1910, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-06-26;598), potra' il ministro della marina, d'accordo con gli assuntori dei servizi, introdurre le modificazioni necessarie per armonizzarne le disposizioni con quelle del capitolato annesso alla presente, senza che percio' venga in alcun modo aumentato l'onere del bilancio dello Stato.
+Nei capitolati annessi alla [legge 13 giugno 1910, n. 306](Per%20le%20convenzioni%20provvisorie%20e%20definitive%20pei%20servizi%20postali%20e%20commerciali%20marittimi%20ed%20altri%20provvedimenti%20a%20favore%20delle%20industrie%20marittime.%20010U0306.md), ed in quello approvato con [R. decreto 26 giugno 1910, n. 598](Che%20approva%20lannesso%20capitolato%20pei%20servizi%20postali%20marittimi%20fra%20Ravenna%20e%20Fiume%20e%20fra%20Ravenna%20e%20Trieste.%20010U0598.md), potra' il ministro della marina, d'accordo con gli assuntori dei servizi, introdurre le modificazioni necessarie per armonizzarne le disposizioni con quelle del capitolato annesso alla presente, senza che percio' venga in alcun modo aumentato l'onere del bilancio dello Stato.
 
 ## Art. 14.
 

@@ -20,7 +20,7 @@ Visto l'[art. 31 del R. decreto-legge 22 marzo 1934, n. 654](Tutela%20della%20ma
 
 Visto il [R. decreto 12 dicembre 1938, n. 2237](Norme%20di%20attuazione%20del%20R.%20decreto-legge%2022%20marzo%201934-XIII%20n.%20654%20sulla%20tutela%20della%20maternita%20delle%20lavoratrici.%20038U2237.md), che detta norme per l'attuazione del citato decreto;
 
-Visto il [R. decreto-legge 14 aprile 1939, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-14;636), convertito con modificazioni in legge con [legge 6 luglio 1939, n. 1272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-06;1272), concernente le assicurazioni obbligatorie per l'invalidita' e la vecchiaia, per la tubercolosi e per la disoccupazione involontaria;
+Visto il [R. decreto-legge 14 aprile 1939, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-14;636), convertito con modificazioni in legge con [legge 6 luglio 1939, n. 1272](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20aprile%201939-XVII%20n.%20636%20sulle%20assicurazioni%20obbligatorie%20per%20linvalidita%20e%20la%20vecchiaia%20per%20la%20tubercolosi%20e%20per%20la%20disoccup_59ee77548f3d.md), concernente le assicurazioni obbligatorie per l'invalidita' e la vecchiaia, per la tubercolosi e per la disoccupazione involontaria;
 
 Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

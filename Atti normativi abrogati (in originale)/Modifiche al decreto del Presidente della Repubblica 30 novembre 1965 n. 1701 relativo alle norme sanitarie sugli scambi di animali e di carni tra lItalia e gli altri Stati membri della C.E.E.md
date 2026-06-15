@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il trattato che istituisce la Comunita' economica europea, ratificato con [legge 14 ottobre 1957, n. 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-14;1203);
+Visto il trattato che istituisce la Comunita' economica europea, ratificato con [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
 
-Visto il proprio decreto 30 dicembre 1965, n. 1701, emanato su delega del Parlamento, di cui alla [legge 13 luglio 1965, n. 871](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;871), per l'esecuzione delle norme fissate dalle [direttive n. 64/432/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1964;432) e [64/433/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1964;433), adottate il 26 giugno 1964 dal Consiglio della Comunita' economica europea e dalle direttive n. VI/COM (65) 185 def. e n. VI/COM (65) 186 def. adottate il 13 maggio 1965 dalla Commissione della Comunita' economica europea;
+Visto il proprio decreto 30 dicembre 1965, n. 1701, emanato su delega del Parlamento, di cui alla [legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md), per l'esecuzione delle norme fissate dalle [direttive n. 64/432/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1964;432) e [64/433/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1964;433), adottate il 26 giugno 1964 dal Consiglio della Comunita' economica europea e dalle direttive n. VI/COM (65) 185 def. e n. VI/COM (65) 186 def. adottate il 13 maggio 1965 dalla Commissione della Comunita' economica europea;
 
 Viste le [direttive n. 66/600/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1966;600) e [66/601/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1966;601) adottate il 25 ottobre 1966 dal Consiglio della Comunita' economica europea, che apportano modifiche alle precedenti e che devono essere recepite nell'ordinamento degli Stati membri entro il 30 giugno 1967;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la sanita', di concerto con i Ministri per gli a
 
 ## Art. 1.
 
-Al [decreto del Presidente della Repubblica 30 dicembre 1965, n. 1701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-30;1701), sono apportate le modifiche di cui ai successivi articoli.
+Al [decreto del Presidente della Repubblica 30 dicembre 1965, n. 1701](../DPR/Norme%20sanitarie%20sugli%20scambi%20di%20animali%20e%20di%20carni%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20C.E.E.md), sono apportate le modifiche di cui ai successivi articoli.
 
 ## Art. 2.
 

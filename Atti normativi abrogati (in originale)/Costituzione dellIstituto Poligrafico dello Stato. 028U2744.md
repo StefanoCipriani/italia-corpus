@@ -178,7 +178,7 @@ Dagli attuali impiegati ed operai dello Stabilimento Poligrafico per l'Amministr
 
 ## Art. 24.
 
-La disposizione dell'[art. 34 del R. decreto-legge 7 febbraio 1926, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-07;193#art_34), e' estesa a favore degli addetti all'Istituto Poligrafico dello Stato provenienti dalla soppressa Officina Carte-Valori di Torino.
+La disposizione dell'[art. 34 del R. decreto-legge 7 febbraio 1926, n. 193](Ordinamento%20dei%20servizi%20preposti%20alla%20edilizia%20popolare%20ed%20economica%20ed%20altri%20provvedimenti%20in%20materia.%20026U0193.md), e' estesa a favore degli addetti all'Istituto Poligrafico dello Stato provenienti dalla soppressa Officina Carte-Valori di Torino.
 
 ## Art. 25.
 

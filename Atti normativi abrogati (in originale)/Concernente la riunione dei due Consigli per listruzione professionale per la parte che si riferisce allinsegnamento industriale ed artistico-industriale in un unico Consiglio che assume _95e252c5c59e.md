@@ -22,17 +22,17 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto Luogotenenziale in data 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625);
 
-Vista la [legge 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854), sull'istruzione professionale ed il relativo regolamento approvato con [Regio decreto 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1014);
+Vista la [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), sull'istruzione professionale ed il relativo regolamento approvato con [Regio decreto 22 giugno 1913, n. 1014](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sullistruzione%20professionale%20scuole%20industriali%20e%20commerciali.%20013U1014.md);
 
-Visto il [Regio decreto 21 dicembre 1911, n. 1475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-21;1475), che istituisce un Consiglio per l'istruzione artistico-industriale;
+Visto il [Regio decreto 21 dicembre 1911, n. 1475](Che%20istituisce%20presso%20il%20Ministero%20di%20agricoltura%20industria%20e%20commercio%20un%20Consiglio%20per%20la%20istruzione%20artistica%20industriale.%20011U1475.md), che istituisce un Consiglio per l'istruzione artistico-industriale;
 
-Visto il [Regio decreto 21 dicembre 1911, n. 1477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-21;1477), che istituisce un Consiglio per l'istruzione industriale e commerciale;
+Visto il [Regio decreto 21 dicembre 1911, n. 1477](Che%20istituisce%20presso%20il%20Ministero%20di%20agricoltura%20industria%20e%20commercio%20un%20Consiglio%20per%20la%20istruzione%20industriale%20commerciale.%20011U1477.md), che istituisce un Consiglio per l'istruzione industriale e commerciale;
 
 Sulla proposta del ministro segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-I due Consigli per l'istruzione professionale, istituiti con i [Regi decreti del 21 dicembre 1911, nn. 1475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-21;1475) e [1477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-21;1477) sono, per la parte che si riferisce all'insegnamento industriale e artistico-industriale, riuniti in un unico Consiglio, che assume il nome di Consiglio per l'istruzione industriale ed e' composto di 11 membri. 
+I due Consigli per l'istruzione professionale, istituiti con i [Regi decreti del 21 dicembre 1911, nn. 1475](Che%20istituisce%20presso%20il%20Ministero%20di%20agricoltura%20industria%20e%20commercio%20un%20Consiglio%20per%20la%20istruzione%20artistica%20industriale.%20011U1475.md) e [1477](Che%20istituisce%20presso%20il%20Ministero%20di%20agricoltura%20industria%20e%20commercio%20un%20Consiglio%20per%20la%20istruzione%20industriale%20commerciale.%20011U1477.md) sono, per la parte che si riferisce all'insegnamento industriale e artistico-industriale, riuniti in un unico Consiglio, che assume il nome di Consiglio per l'istruzione industriale ed e' composto di 11 membri. 
  
  Con separato decreto sara' provveduto per la parte che si riferisce all'insegnamento commerciale.
 
@@ -66,7 +66,7 @@ Le disposizioni dell'art. 12 del R. decreto 21 dicembre 1911 e degli articoli 25
  
  Ai componenti del Consiglio e della Giunta, che non risiedono nelle citta' dove si tengono le adunanze saranno inoltre dovute le indennita' di viaggio e di soggiorno, le quali per i funzionari dello Stato corrisponderanno alla misura stabilita dalle disposizioni in vigore per le indennita' di trasferimento e di missione e per gli altri componenti, compresi quelli appartenenti alle scuole professionali, una diaria di L. 15 oltre al rimborso delle spese di viaggio in 1ª classe. 
  
- Le disposizioni dei precedenti capoversi si applicano anche alle persone estranee che, per invito del ministro, intervengano nel Consiglio o nella Giunta a norma dell'[art. 24 del R. decreto 21 dicembre 1911, n. 1477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-21;1477#art_24).
+ Le disposizioni dei precedenti capoversi si applicano anche alle persone estranee che, per invito del ministro, intervengano nel Consiglio o nella Giunta a norma dell'[art. 24 del R. decreto 21 dicembre 1911, n. 1477](Che%20istituisce%20presso%20il%20Ministero%20di%20agricoltura%20industria%20e%20commercio%20un%20Consiglio%20per%20la%20istruzione%20industriale%20commerciale.%20011U1477.md).
 
 ## Art. 5.
 

@@ -14,7 +14,7 @@ Per gli anni 1869 e 1870 l' imposta fondiaria sui beni rustici e sugli urbani e'
 
 ## Art. 2.
 
-Per l'anno 1868 l' imposta sui redditi della ricchezza mobile e' stabilita nell'aliquota determinata dal [Regio Decreto 28 giugno 1866, n. 3023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-06-28;3023), mentre per gli anni 1869 e 1870 essa sara' cresciuta di un decimo. 
+Per l'anno 1868 l' imposta sui redditi della ricchezza mobile e' stabilita nell'aliquota determinata dal [Regio Decreto 28 giugno 1866, n. 3023](Per%20limposta%20fondiaria%20sui%20terreni%20sui%20fabbricati%20e%20sui%20redditi%20della%20ricchezza%20mobile.%20066U3023.md), mentre per gli anni 1869 e 1870 essa sara' cresciuta di un decimo. 
  
  Per l'applicazione dell'imposta si osserveranno le norme stabilite dalla [Legge 28 maggio 1867, n. 3749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1867-05-28;3749), in tutto cio' che non e' contrariamente disposto dalla presente Legge e da quella sul macinato.
 
@@ -52,7 +52,7 @@ E' esente da sovrimposte comunali e provinciali l'imposta sui redditi di cui all
 
 ## Art. 8.
 
-Per gli anni 1869 e 1870, la facolta' accordata alle Provincie ed ai Comuni d'imporre centesimi addizionali alla tassa sui redditi della ricchezza mobile e' limitata a quattro decimi della principale, da ripartirsi giusta le norme dell'[art. 15 del Regio Decreto 28 giugno 1866, n. 3023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-06-28;3023#art_15). 
+Per gli anni 1869 e 1870, la facolta' accordata alle Provincie ed ai Comuni d'imporre centesimi addizionali alla tassa sui redditi della ricchezza mobile e' limitata a quattro decimi della principale, da ripartirsi giusta le norme dell'[art. 15 del Regio Decreto 28 giugno 1866, n. 3023](Per%20limposta%20fondiaria%20sui%20terreni%20sui%20fabbricati%20e%20sui%20redditi%20della%20ricchezza%20mobile.%20066U3023.md). 
  
  Le facolta' accordate ai Comuni dall' [art. 118 della Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_118), e dall' art. 16 della succitata Legge 28 giugno 1866, vengono estese eziandio ad imporre nei respettivi territori le seguenti tasse: 
  
@@ -62,7 +62,7 @@ Per gli anni 1869 e 1870, la facolta' accordata alle Provincie ed ai Comuni d'im
  
  I Regolamenti per l'applicazione di queste tasse dovranno per ciascuna Provincia essere deliberati dalle Deputazioni provinciali ed approvati con Decreto Reale, sentito il Consiglio di Stato. 
  
- Prima di concedere ad un Comune la speciale autorizzazione, di cui e' parola nell'[art. 20 del Regio Decreto 28 giugno 1866, n. 3023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-06-28;3023#art_20), le Deputazioni provinciali dovranno verificare che il Comune medesimo abbia applicato, o la tassa sul valore locativo, od alcuna delle tasse permesse dalla Legge attuale.
+ Prima di concedere ad un Comune la speciale autorizzazione, di cui e' parola nell'[art. 20 del Regio Decreto 28 giugno 1866, n. 3023](Per%20limposta%20fondiaria%20sui%20terreni%20sui%20fabbricati%20e%20sui%20redditi%20della%20ricchezza%20mobile.%20066U3023.md), le Deputazioni provinciali dovranno verificare che il Comune medesimo abbia applicato, o la tassa sul valore locativo, od alcuna delle tasse permesse dalla Legge attuale.
 
 ## Art. 9.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 giugno 1930, n. 936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-06-26;936), col quale a datare dalla morte di Vittorio Montiglio viene concesso alla di lui vedova Anna Thea Springer, un assegno straordinario annuo a vita di L. 9000, in aggiunta agli altri assegni ad essa eventualmente spettanti, a norma delle disposizioni vigenti. 
+ E' convertito in legge il [R. decreto-legge 26 giugno 1930, n. 936](Concessione%20di%20un%20assegno%20straordinario%20annuo%20alla%20vedova%20della%20Medaglia%20doro%20Vittorio%20Montiglio.%20030U0936.md), col quale a datare dalla morte di Vittorio Montiglio viene concesso alla di lui vedova Anna Thea Springer, un assegno straordinario annuo a vita di L. 9000, in aggiunta agli altri assegni ad essa eventualmente spettanti, a norma delle disposizioni vigenti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

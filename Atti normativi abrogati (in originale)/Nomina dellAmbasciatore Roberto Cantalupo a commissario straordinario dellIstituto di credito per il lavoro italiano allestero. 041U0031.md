@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il R. decreto-legge 16 gennaio 1941-XIX, n. 30, col quale il Governo del Re e' autorizzato a provvedere allo scioglimento del Consiglio di amministrazione dell'Istituto nazionale di credito per il lavoro italiano all'estero, istituito con [R. decreto-legge 15 dicembre 1923, n. 3148](Costituzione%20di%20un%20Istituto%20nazionale%20di%20credito%20per%20il%20lavoro%20italiano%20allestero.%20023U3148.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), ed a nominare in sua vece un commissario straordinario;
+Visto il R. decreto-legge 16 gennaio 1941-XIX, n. 30, col quale il Governo del Re e' autorizzato a provvedere allo scioglimento del Consiglio di amministrazione dell'Istituto nazionale di credito per il lavoro italiano all'estero, istituito con [R. decreto-legge 15 dicembre 1923, n. 3148](Costituzione%20di%20un%20Istituto%20nazionale%20di%20credito%20per%20il%20lavoro%20italiano%20allestero.%20023U3148.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), ed a nominare in sua vece un commissario straordinario;
 
 Sentito il Consiglio dei Ministri;
 

@@ -30,7 +30,7 @@ Per le Societa' e gli Istituti indicati nell'[art. 25 della legge 24 agosto 1877
 
 ## Art. 4.
 
-Il Governo del Re provvedera' alla riforma del regolamento approvato con [R. decreto 3 novembre 1894, n. 493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-11-03;493). 
+Il Governo del Re provvedera' alla riforma del regolamento approvato con [R. decreto 3 novembre 1894, n. 493](Che%20approva%20il%20regolamento%20per%20lapplicazione%20sui%20redditi%20della%20ricchezza%20mobile.%20094U0493.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

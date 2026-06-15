@@ -20,17 +20,17 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Vista la [legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254), sull'avanzamento nel R. esercito, e successive modificazioni;
+Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito, e successive modificazioni;
 
-Visto il regolamento per la esecuzione della legge sull'avanzamento, approvato con [R. decreto 21 luglio 1907, n. 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-21;626), e successivo modificazioni;
+Visto il regolamento per la esecuzione della legge sull'avanzamento, approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), e successivo modificazioni;
 
-Vista la [legge 18 luglio 1912, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-18;806), sullo stato degli ufficiali del R. esercito e della R. marina, e il testo unico delle leggi sullo stato dei sottufficiali del R. esercito approvato con [R. decreto 17 novembre 1912, numero 1329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-11-17;1329);
+Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina, e il testo unico delle leggi sullo stato dei sottufficiali del R. esercito approvato con [R. decreto 17 novembre 1912, numero 1329](Col%20quale%20viene%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20dellesercito.%20012U1329.md);
 
-Visto il regolamento per l'applicazione della legge anzidetta, approvato con [R decreto 18 luglio 1912, numero 867](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-07-18;867), e modificato con [R. decreto 10 aprile 1913, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-04-10;384);
+Visto il regolamento per l'applicazione della legge anzidetta, approvato con [R decreto 18 luglio 1912, numero 867](Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md), e modificato con [R. decreto 10 aprile 1913, n. 384](Col%20quale%20viene%20aggiunto%20un%20nuovo%20articolo%20al%20regolamento%20per%20lesecuzione%20della%20legge%2018%20luglio%201912%20n.%20806%20sullo%20stato%20degli%20ufficiali.%20013U0384.md);
 
-Visto il testo unico delle leggi sugli stipendi ed assegni fissi per il R. esercito, approvato con [R. decreto 14 luglio 1898, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;380), e successive modificazioni;
+Visto il testo unico delle leggi sugli stipendi ed assegni fissi per il R. esercito, approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e successive modificazioni;
 
 Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70) e successive modificazioni.
 
@@ -38,7 +38,7 @@ Visto il [decreto Luogotenenziale del 3 settembre 1916, n. 1200](https://www.nor
 
 Visto il [decreto Luogotenenziale del 2 aprile 1916, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-04-02;486), col quale si dispone che la dichiarazione di congedo assoluto tiene luogo del decreto di collocamento a riposo peri militari resi permanentemente inabili al servizio;
 
-Vista la [legge 25 marzo 1917, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;481), sulla protezione ed assistenza degli invalidi della guerra;
+Vista la [legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), sulla protezione ed assistenza degli invalidi della guerra;
 
 Udito il Consiglio dei ministri;
 
@@ -46,7 +46,7 @@ Sulla proposta del ministro segretario di Stato per gli affari della guerra, di 
 
 ## Art. 1.
 
-Per il mantenimento o riassunzione in servizio dei militari invalidi della guerra, di cui all'[art 6 della legge 25 marzo 1917, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;481#art_6), il ministro della guerra stabilira' l'elenco degli esiti di lesioni o infermita' che potranno essere considerati, quando le condizioni generali dell'invalido lo consentano, compatibili con la prestazione di un servizio militare sedentario e l'elenco degli esiti di lesioni o infermita' che potranno essere considerati, in via eccezionale, e sempre quando le condizioni generali dell'invalido lo consentano, compatibili con la continuazione del servizio militare attivo.
+Per il mantenimento o riassunzione in servizio dei militari invalidi della guerra, di cui all'[art 6 della legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), il ministro della guerra stabilira' l'elenco degli esiti di lesioni o infermita' che potranno essere considerati, quando le condizioni generali dell'invalido lo consentano, compatibili con la prestazione di un servizio militare sedentario e l'elenco degli esiti di lesioni o infermita' che potranno essere considerati, in via eccezionale, e sempre quando le condizioni generali dell'invalido lo consentano, compatibili con la continuazione del servizio militare attivo.
 
 ## Art. 2.
 
@@ -88,7 +88,7 @@ Con decreto del ministro della guerra sara' stabilito quali fra gli impieghi mil
 
 ## Art. 6.
 
-L'impiego conferito a norma degli articoli precedenti non potra' essere tolto ne' sospeso se non nei casi e nei modi stabiliti per gli ufficiali in servizio attivo permanente dalla [legge 18 luglio 1912, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-18;806).
+L'impiego conferito a norma degli articoli precedenti non potra' essere tolto ne' sospeso se non nei casi e nei modi stabiliti per gli ufficiali in servizio attivo permanente dalla [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md).
 
 ## Art. 7.
 
@@ -104,7 +104,7 @@ Gli ufficiali, che siano affetti da una lesione o infermita' incontrata per serv
  
  Se l'ufficiale abbia risposto in senso affermativo, i giudizi del direttore di sanita' e dell'Ispettorato di sanita' dovranno essere preceduti da visita personale, e, oltre a pronunziarsi sull'esistenza e causa dell'inabilita' 
  
- e sulla sua assegnazione ad una determinata categoria agli effetti delle disposizioni sulle pensioni e della dichiarazione di invalidita' di cui all'[art. 2 della legge 25 marzo 1917, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;481#art_2), dovranno pronunziarsi altresi' sulla idoneita' dell'ufficiale alla continuazione del servizio alla prestazione di un servizio sedentario agli effetti delle presenti disposizioni.
+ e sulla sua assegnazione ad una determinata categoria agli effetti delle disposizioni sulle pensioni e della dichiarazione di invalidita' di cui all'[art. 2 della legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), dovranno pronunziarsi altresi' sulla idoneita' dell'ufficiale alla continuazione del servizio alla prestazione di un servizio sedentario agli effetti delle presenti disposizioni.
 
 ## Art. 9.
 

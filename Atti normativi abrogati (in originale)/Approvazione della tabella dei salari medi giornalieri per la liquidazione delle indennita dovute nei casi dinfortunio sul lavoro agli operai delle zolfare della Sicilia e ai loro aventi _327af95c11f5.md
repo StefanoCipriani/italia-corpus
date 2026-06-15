@@ -22,11 +22,11 @@ La misura del contributo dovuto per l'esercizio 1945 per l'assicurazione contro 
 
 ## Art. 4.
 
-Gli uffici della dogana provvederanno alla riscossione del contributo previsto dall'art. 3 con le modalita' stabilite dal [R. decreto 27 marzo 1933, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-27;299).
+Gli uffici della dogana provvederanno alla riscossione del contributo previsto dall'art. 3 con le modalita' stabilite dal [R. decreto 27 marzo 1933, n. 299](Norme%20per%20la%20riscossione%20dei%20contributi%20di%20assicurazioni%20sociali%20dovuti%20dai%20concessionari%20ed%20esercenti%20le%20miniere%20di%20zolfo%20della%20Sicilia.%20033U0299.md).
 
 ## Art. 5.
 
-Il Banco di Sicilia - Sezione credito minerario - nell'effettuare ai termini dell'art. 2 ultimo comma del [R. decreto 27 marzo 1933, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-27;299), il versamento delle somme riscosse per contributi dagli uffici di dogana, rimettera' all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro - Sezione speciale Zolfare siciliane - una nota dimostrativa del quantitativo di zolfo cui si riferiscono gli stessi versamenti.
+Il Banco di Sicilia - Sezione credito minerario - nell'effettuare ai termini dell'art. 2 ultimo comma del [R. decreto 27 marzo 1933, n. 299](Norme%20per%20la%20riscossione%20dei%20contributi%20di%20assicurazioni%20sociali%20dovuti%20dai%20concessionari%20ed%20esercenti%20le%20miniere%20di%20zolfo%20della%20Sicilia.%20033U0299.md), il versamento delle somme riscosse per contributi dagli uffici di dogana, rimettera' all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro - Sezione speciale Zolfare siciliane - una nota dimostrativa del quantitativo di zolfo cui si riferiscono gli stessi versamenti.
 
 ## Art. 6.
 

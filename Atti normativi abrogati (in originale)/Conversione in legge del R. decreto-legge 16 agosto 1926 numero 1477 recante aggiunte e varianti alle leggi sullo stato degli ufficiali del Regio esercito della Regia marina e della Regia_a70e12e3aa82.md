@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 agosto 1926, n. 1477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-16;1477), recante aggiunte e varianti alle leggi sullo stato degli ufficiali del Regio esercito, della Regia marina e della Regia aeronautica e sull'avanzamento degli ufficiali del Regio esercito, ed estensione ai comandi militari della Sicilia e della Sardegna delle disposizioni sugli uffici di contabilita' e di revisione e sul decentramento amministrativo dei servizi dell'Amministrazione della guerra. 
+ E' convertito in legge il [R. decreto-legge 16 agosto 1926, n. 1477](Aggiunte%20e%20varianti%20alle%20leggi%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica%20e%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito%20ed%20estensio_a3cd6a68831a.md), recante aggiunte e varianti alle leggi sullo stato degli ufficiali del Regio esercito, della Regia marina e della Regia aeronautica e sull'avanzamento degli ufficiali del Regio esercito, ed estensione ai comandi militari della Sicilia e della Sardegna delle disposizioni sugli uffici di contabilita' e di revisione e sul decentramento amministrativo dei servizi dell'Amministrazione della guerra. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

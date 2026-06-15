@@ -14,13 +14,13 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto il testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1937, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1937-01-10;3), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686);
+Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
 
-Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modificazioni;
 
-Visto l'art. 134, comma terzo, del citato [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), che prevede il concorso al posto di direttore della biblioteca del Ministero degli affari esteri;
+Visto l'art. 134, comma terzo, del citato [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), che prevede il concorso al posto di direttore della biblioteca del Ministero degli affari esteri;
 
-Considerata la necessita' di emanare il regolamento previsto dall'art. 94, comma quarto, del citato [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), per cio' che attiene al suddetto concorso;
+Considerata la necessita' di emanare il regolamento previsto dall'art. 94, comma quarto, del citato [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), per cio' che attiene al suddetto concorso;
 
 Udito il parere del Consiglio di Stato;
 
@@ -34,7 +34,7 @@ La qualifica di direttore di biblioteca e' conferita mediante concorso, per tito
  a) qualifica di bibliotecario dell'Amministrazione degli affari esteri e permanenza nella qualifica per almeno 10 anni di effettivo servizio; 
  b) qualifica non inferiore a direttore di biblioteca di seconda classe della carriera direttiva delle biblioteche pubbliche governative, sempreche' l'eta' del candidato non superi i 45 anni. 
  L'amministrazione si riserva la facolta' di accertare la conoscenza delle lingue estere mediante apposita prova. 
- Si applicano le disposizioni del [quinto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_2-com5) e [settimo comma dell'art. 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_2-com7).
+ Si applicano le disposizioni del [quinto](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [settimo comma dell'art. 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 2. — Domande di ammissione
 
@@ -73,12 +73,12 @@ Il punteggio e' espresso in trentesimi. Sono idonei i candidati a cui siano stat
 
 ## Art. 6. — Graduatoria
 
-La graduatoria viene formata dalla commissione esaminatrice secondo l'ordine derivante dal punteggio totale conseguito da ciascun candidato. A parita' di punteggio vengono applicati l'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_5), e le altre vigenti disposizioni in materia di preferenze.
+La graduatoria viene formata dalla commissione esaminatrice secondo l'ordine derivante dal punteggio totale conseguito da ciascun candidato. A parita' di punteggio vengono applicati l'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e le altre vigenti disposizioni in materia di preferenze.
  Il Ministro per gli affari esteri, riconosciuta la regolarita' del procedimento del concorso, approva con proprio decreto, sotto condizione dell'accertamento dei requisiti per l'ammissione all'impiego, la graduatoria di merito dei concorrenti.
 
 ## Art. 7. — Norme da applicare
 
-Ad integrazione della specifica disciplina dettata dagli articoli precedenti, si applicano le disposizioni del [Presidente della Repubblica 10 gennaio 1957, n. 3, del decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3) del [Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686), e successive modificazioni.
+Ad integrazione della specifica disciplina dettata dagli articoli precedenti, si applicano le disposizioni del [Presidente della Repubblica 10 gennaio 1957, n. 3, del decreto](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) del [Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), e successive modificazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

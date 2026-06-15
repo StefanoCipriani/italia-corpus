@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
- Visto il [regio decreto 21 ottobre 1940, n. 1708](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-21;1708), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Lauria;
+ Visto il [regio decreto 21 ottobre 1940, n. 1708](Modificazione%20alla%20tabella%20organica%20della%20Regia%20scuola%20tecnica%20industriale%20di%20Lauria.%20040U1708.md), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Lauria;
  Considerata l'opportunita' di trasformare, per esigenze di servizio, il posto di segretario economo incaricato previsto dalla suddetta tabella organica in posto di segretario economo di ruolo;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

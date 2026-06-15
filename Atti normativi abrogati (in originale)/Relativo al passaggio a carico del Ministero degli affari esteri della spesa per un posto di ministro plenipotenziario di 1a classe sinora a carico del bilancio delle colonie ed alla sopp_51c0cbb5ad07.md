@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto l'[art. 7 del R. decreto 22 gennaio 1914, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-22;19#art_7), e la tabella allegata al Nostro decreto 2 gennaio 1918, n. 44; 
  
- Visto il [R. decreto 25 gennaio 1914, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-25;66), col quale, per le speciali esigenze dell'Amministrazione centrale delle colonie, nel ruolo organico del personale diplomatico di cui alla tabella A) annessa alla [legge 18 luglio 1911, n. 762](Concernente%20i%20ruoli%20organici%20del%20personale%20dipendente%20dal%20Ministero%20degli%20affari%20esteri%20011U0762.md), venne aumentato un posto di ministro plenipotenziario di 2ª classe a carico del bilancio del Ministero delle colonie; 
+ Visto il [R. decreto 25 gennaio 1914, n. 66](Col%20quale%20nel%20ruolo%20organico%20del%20personale%20diplomatico%20approvato%20con%20la%20legge%209%20giugno%201907%20n.%20298%20e%20aumentato%20un%20posto%20di%20ministro%20plenipotenzio%20di%202ª%20classe.%20014U0066.md), col quale, per le speciali esigenze dell'Amministrazione centrale delle colonie, nel ruolo organico del personale diplomatico di cui alla tabella A) annessa alla [legge 18 luglio 1911, n. 762](Concernente%20i%20ruoli%20organici%20del%20personale%20dipendente%20dal%20Ministero%20degli%20affari%20esteri%20011U0762.md), venne aumentato un posto di ministro plenipotenziario di 2ª classe a carico del bilancio del Ministero delle colonie; 
  
  Visto il Nostro decreto 28 gennaio 1917, n. 144, col quale il predetto posto venne convertito in uno di ministro plenipotenziario di 1ª classe; 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 aprile 1931, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-23;431), che modifica il trattamento doganale dei bottoni di madreperla. 
+ E' convertito in legge il [R. decreto-legge 23 aprile 1931, n. 431](Trattamento%20doganale%20dei%20bottoni%20di%20madreperla.%20031U0431.md), che modifica il trattamento doganale dei bottoni di madreperla. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

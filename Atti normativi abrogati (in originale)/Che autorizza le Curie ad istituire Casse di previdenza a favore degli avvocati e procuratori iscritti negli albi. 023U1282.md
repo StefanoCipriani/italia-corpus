@@ -36,7 +36,7 @@ Ai fondi necessari per le finalita' di previdenza che la Cassa si propone potra'
  
  Alla stampa delle marche e alla loro distribuzione provvederanno le Curie interessate. 
  
- Gli atti giudiziali non provvisti della marca speciale avranno corso; tuttavia il cancelliere dovra' curare la esazione dell'importo della marca di cui non fu fatta l'apposizione, provocando il rilascio da parte del presidente o del pretore di un apposito ordine di pagamento a carico dell'avvocato o del procuratore in conformita' all'ultimo capoverso dell'[art. 49 del R. decreto 10 dicembre 1882, n. 1103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-12-10;1103#art_49), e all'[art. 379 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_379). 
+ Gli atti giudiziali non provvisti della marca speciale avranno corso; tuttavia il cancelliere dovra' curare la esazione dell'importo della marca di cui non fu fatta l'apposizione, provocando il rilascio da parte del presidente o del pretore di un apposito ordine di pagamento a carico dell'avvocato o del procuratore in conformita' all'ultimo capoverso dell'[art. 49 del R. decreto 10 dicembre 1882, n. 1103](Che%20approva%20il%20regolamento%20concernente%20la%20contabilita%20delle%20cancellerie%20giudiziarie%20ed%20altre%20parti%20del%20servizio.%20082U1103.md), e all'[art. 379 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_379). 
  
  Per l'esazione coattiva delle marche speciali non apposte agli atti stragiudiziali saranno date norme col R. decreto di cui al successivo art. 5.
 

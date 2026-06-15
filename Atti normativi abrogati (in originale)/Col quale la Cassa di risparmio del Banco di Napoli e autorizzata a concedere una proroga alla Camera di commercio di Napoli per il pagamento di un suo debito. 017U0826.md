@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto l'[art. 12 della legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486#art_12), allegato T;
 
-Visto l'[art. 6 della legge 7 luglio 1902, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-07-07;318#art_6);
+Visto l'[art. 6 della legge 7 luglio 1902, n. 318](Concernenti%20rispettivamente%20provvedimenti%20per%20lassetto%20del%20bilancio%20del%20Comune%20di%20Napoli.%20002U0318.md);
 
 Udito il Consiglio dei ministri;
 
@@ -30,7 +30,7 @@ Sulla preposta del ministro del tesoro, di concetto col ministro dell'industria,
 
 ## Art. 1.
 
-A deroga dell'art. 12, ultimo comma, dell'allegato T all'[art. 39 della legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486#art_39), la Cassa di risparmio del Banco di Napoli e' autorizzata a concedere alla Camera di commercio e industria di Napoli il prolungamento ad anni 30, a decorrere dal 1° gennaio 1915, del termine stabilito dall'[art. 6 della legge 7 luglio 1902, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-07-07;318#art_6), per estinguere con una rata annuale posticipata e costante di L. 15.925,86, tra capitale ed interessi, il residuale debito di L. 275.390,51 per il mutuo ipotecario di L. 500.000, stipulato con istrumento del 3 gennaio 1895.
+A deroga dell'art. 12, ultimo comma, dell'allegato T all'[art. 39 della legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486#art_39), la Cassa di risparmio del Banco di Napoli e' autorizzata a concedere alla Camera di commercio e industria di Napoli il prolungamento ad anni 30, a decorrere dal 1° gennaio 1915, del termine stabilito dall'[art. 6 della legge 7 luglio 1902, n. 318](Concernenti%20rispettivamente%20provvedimenti%20per%20lassetto%20del%20bilancio%20del%20Comune%20di%20Napoli.%20002U0318.md), per estinguere con una rata annuale posticipata e costante di L. 15.925,86, tra capitale ed interessi, il residuale debito di L. 275.390,51 per il mutuo ipotecario di L. 500.000, stipulato con istrumento del 3 gennaio 1895.
 
 ## Art. 2.
 

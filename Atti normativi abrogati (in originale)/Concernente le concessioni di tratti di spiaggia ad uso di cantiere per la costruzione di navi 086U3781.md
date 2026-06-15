@@ -86,7 +86,7 @@ E' data facolta' al Governo di variare, senza accrescimento di spesa, con decret
 
 ## Art. 14.
 
-Il Governo del Re rechera' al regolamento per l'esecuzione del Codice della marina mercantile, approvato con [Regio decreto del 20 novembre 1879, n. 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166), (serie 2ª) le modificazioni rese necessarie dalla presente legge, o altrimenti riconosciute opportune, sentito il Consiglio di Stato. 
+Il Governo del Re rechera' al regolamento per l'esecuzione del Codice della marina mercantile, approvato con [Regio decreto del 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md), (serie 2ª) le modificazioni rese necessarie dalla presente legge, o altrimenti riconosciute opportune, sentito il Consiglio di Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

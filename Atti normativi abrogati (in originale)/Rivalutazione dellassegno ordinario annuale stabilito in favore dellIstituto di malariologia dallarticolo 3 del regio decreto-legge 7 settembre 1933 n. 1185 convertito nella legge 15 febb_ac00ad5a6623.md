@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-A partire dall'esercizio finanziario 1961-62 l'assegno ordinario annuale stabilito dall'[articolo 3 del regio decreto-legge 7 settembre 1933, n. 1185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-07;1185#art_3), convertito nella [legge 15 febbraio 1934, n. 288](Conversione%20in%20legge%20del%20R.%20decreto%20legge%207%20settembre%201933%20n.%201185%20col%20quale%20la%20Scuola%20superiore%20di%20malariologia%20creata%20in%20Roma%20col%20R.%20decreto%20legge%208%20maggio%201927%20n.%20773%20e%20costituita%20in%20I_7df7a9a9048c.md), per il funzionamento dell'Istituto di malariologia e' elevato a lire 40 milioni e sara' iscritto nello stato di previsione della spesa del Ministero della sanita'.
+A partire dall'esercizio finanziario 1961-62 l'assegno ordinario annuale stabilito dall'[articolo 3 del regio decreto-legge 7 settembre 1933, n. 1185](Trasformazione%20della%20Scuola%20superiore%20di%20malariologia%20in%20Roma%20in%20Istituto%20di%20malariologia.%20033U1185.md), convertito nella [legge 15 febbraio 1934, n. 288](Conversione%20in%20legge%20del%20R.%20decreto%20legge%207%20settembre%201933%20n.%201185%20col%20quale%20la%20Scuola%20superiore%20di%20malariologia%20creata%20in%20Roma%20col%20R.%20decreto%20legge%208%20maggio%201927%20n.%20773%20e%20costituita%20in%20I_7df7a9a9048c.md), per il funzionamento dell'Istituto di malariologia e' elevato a lire 40 milioni e sara' iscritto nello stato di previsione della spesa del Ministero della sanita'.
 
 ## Art. 2.
 

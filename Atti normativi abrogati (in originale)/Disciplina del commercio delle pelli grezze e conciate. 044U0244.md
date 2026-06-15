@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 13 giugno 1940, n. 826](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-13;826), concernente la disciplina della raccolta, salatura e distribuzione delle pelli bovine ed equine;
+Vista la [legge 13 giugno 1940, n. 826](Disciplina%20della%20raccolta%20salatura%20e%20distribuzione%20delle%20pelli%20bovine%20ed%20equine.%20040U0826.md), concernente la disciplina della raccolta, salatura e distribuzione delle pelli bovine ed equine;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), concernente l'assemblea per la nuova costituzione dello Stato, il giuramento dei membri del Governo e la facolta' del Governo di emanare norme giuridiche;
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), modificato col [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141), concernente la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti ed altri provvedimenti;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), modificato col [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md), concernente la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti ed altri provvedimenti;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -38,7 +38,7 @@ Il Prefetto della provincia ove ha sede il consorzio nominera' un commissario li
 
 ## Art. 3.
 
-L'esercizio del commercio delle pelli grezze nazionali e' consentito soltanto a coloro che, alla data di pubblicazione del presente decreto, risultino iscritti quali esercenti tale commercio nel registro delle ditte previste dal [R. decreto 20 settembre 1934, n. 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;2011).
+L'esercizio del commercio delle pelli grezze nazionali e' consentito soltanto a coloro che, alla data di pubblicazione del presente decreto, risultino iscritti quali esercenti tale commercio nel registro delle ditte previste dal [R. decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
 
 ## Art. 4.
 

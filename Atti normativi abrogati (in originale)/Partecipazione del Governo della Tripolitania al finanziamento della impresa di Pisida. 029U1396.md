@@ -42,7 +42,7 @@ La somma predetta di L. 5,000,000 verra' versata al Governo della Tripolitania i
 
 Il Governo della Tripolitania corrispondera', sulle somme ricevute, l'interesse annuo in ragione del 4 per cento e rimborsera' il capitale in dieci annualita' uguali a decorrere dall'esercizio 1932-33. 
  
- All'uopo gli eventuali avanzi di bilancio di cui all'art. 65 dell'ordinamento amministrativo contabile, approvato con [R. decreto 26 giugno 1925, n. 1271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-26;1271), nonche' le eventuali maggiori entrate di cui al successivo art. 70 saranno, prima di ogni altra destinazione, impiegati per l'estinzione del mutuo stesso.
+ All'uopo gli eventuali avanzi di bilancio di cui all'art. 65 dell'ordinamento amministrativo contabile, approvato con [R. decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), nonche' le eventuali maggiori entrate di cui al successivo art. 70 saranno, prima di ogni altra destinazione, impiegati per l'estinzione del mutuo stesso.
 
 ## Art. 4.
 

@@ -11,7 +11,7 @@ vigente: true
 ## Art. 1.
 
 Nel testo unico delle leggi sullo stato dei sottufficiali del R.
-Esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-15;1514), e successive modificazioni, dopo l'art. 31 bis e' aggiunto il seguente: 
+Esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e successive modificazioni, dopo l'art. 31 bis e' aggiunto il seguente: 
  
  «Art. 31-ter. In tempo di guerra il sottufficiale non di carriera, anche se richiamato o trattenuto ma non proveniente dalla carriera continuativa, che abbia dimostrato di non adempiere pienamente ai suoi doveri, puo' incorrere nella perdita del grado su decisione del Ministro della Guerra in seguito a proposta delle autorita' gerarchiche. 
  
@@ -35,6 +35,6 @@ Il presente decreto entra in vigore il giorno della sua pubblicazione nella seri
  
  BADOGLIO - JUNG - ORLANDO 
  
- Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-10-30;1)) 
+ Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
  
  Il Guardasigilli: BADOGLIO

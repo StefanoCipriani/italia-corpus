@@ -10,8 +10,8 @@ vigente: true
 
 ## Art. 1.
 
-Dopo il [terzo comma dell'art. 2 del R. decreto-legge 23 dicembre 1929, n. 2225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-12-23;2225#art_2-com3), e' aggiunto il seguente: 
- «Ai predetti ufficiali e' applicabile il disposto degli ultimi due commi dell'[art. 11 del R. decreto-legge 26 luglio 1927, n. 1743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-26;1743#art_11)».
+Dopo il [terzo comma dell'art. 2 del R. decreto-legge 23 dicembre 1929, n. 2225](Modifiche%20alle%20leggi%20sullordinamento%20e%20sullavanzamento%20del%20Regio%20esercito%20nella%20parte%20relativa%20agli%20enti%20ospedalieri%20militari%20e%20agli%20ufficiali%20medici.%20029U2225.md), e' aggiunto il seguente: 
+ «Ai predetti ufficiali e' applicabile il disposto degli ultimi due commi dell'[art. 11 del R. decreto-legge 26 luglio 1927, n. 1743](Modificazioni%20ed%20aggiunte%20alle%20leggi%20concernenti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20del%20Regio%20esercito%20e%20lo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della_41d4b83b74a4.md)».
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 maggio 1927, n. 837](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-12;837), recante riduzioni alle tariffe postali e telefoniche. 
+ E' convertito in legge il [R. decreto-legge 12 maggio 1927, n. 837](Riduzione%20delle%20tariffe%20postali%20e%20telefoniche.%20027U0837.md), recante riduzioni alle tariffe postali e telefoniche. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

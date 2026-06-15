@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 dicembre 1927, n. 2489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-22;2489), circa la sanatoria per i depositi per multa relativi ai ricorsi per cassazione provenienti dalle nuove Provincie. 
+ E' convertito in legge il [R. decreto-legge 22 dicembre 1927, n. 2489](Sanatoria%20circa%20i%20depositi%20per%20multa%20relativi%20ai%20ricorsi%20per%20cassazione%20provenienti%20dalle%20nuove%20Provincie.%20027U2489.md), circa la sanatoria per i depositi per multa relativi ai ricorsi per cassazione provenienti dalle nuove Provincie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

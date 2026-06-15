@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 19 aprile 1923, n. 936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;936);
+Veduto il [R. decreto 19 aprile 1923, n. 936](Relativo%20allapplicazione%20delle%20imposte%20e%20delle%20ritenute%20sugli%20stipendi%20sulle%20pensioni%20e%20sugli%20assegni%20di%20ogni%20genere%20corrisposti%20al%20personale%20proveniente%20dal%20cessato%20regime.%20023U0936.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Gli assegni personali da corrispondersi, in virtu' dei relativi decreti di regificazione, al personale degli istituti medi regificati delle nuove Provincie, sono commisurati, a decorrere dal 1° marzo 1924, in base alla norma contenuta nell'[art. 2 del R. decreto 19 aprile 1923, n. 936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;936#art_2).
+Gli assegni personali da corrispondersi, in virtu' dei relativi decreti di regificazione, al personale degli istituti medi regificati delle nuove Provincie, sono commisurati, a decorrere dal 1° marzo 1924, in base alla norma contenuta nell'[art. 2 del R. decreto 19 aprile 1923, n. 936](Relativo%20allapplicazione%20delle%20imposte%20e%20delle%20ritenute%20sugli%20stipendi%20sulle%20pensioni%20e%20sugli%20assegni%20di%20ogni%20genere%20corrisposti%20al%20personale%20proveniente%20dal%20cessato%20regime.%20023U0936.md).
 
 ## Art. 2.
 

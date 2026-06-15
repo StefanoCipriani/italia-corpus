@@ -22,7 +22,7 @@ Visto il regolamento sul servizio metrico, approvato con [R. Decreto 31 gennaio 
 
 Visto il [R. Decreto 9 ottobre 1921, n. 1473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-10-09;1473), col quale furono, tra l'altro, modificati gli articoli 115 e 131 del suddetto regolamento;
 
-Visto il [R. decreto 21 ottobre 1923, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367), col quale furono modificati i diritti metrici;
+Visto il [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md), col quale furono modificati i diritti metrici;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), riguardante l' Assemblea per la nuova costituzione dello Stato, il giuramento dei membri dei Governo e la facolta' del Governo di emanare norme giuridiche;
 

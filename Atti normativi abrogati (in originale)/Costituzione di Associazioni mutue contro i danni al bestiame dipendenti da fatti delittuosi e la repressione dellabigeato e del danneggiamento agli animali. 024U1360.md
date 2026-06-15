@@ -41,7 +41,7 @@ Gli enti mutui i quali alla data del presente decreto gia' funzionino per l'assi
 Parimenti le associazioni agrarie di mutua assicurazione, riconosciute e funzionanti ai sensi del [decreto-legge 2 novembre 1919, n. 1759](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-11-02;1759), ed aventi per fine l'assicurazione contro i rischi in genere del bestiame, possono ottenere, con le norme che saranno stabilite dal regolamento, l'autorizzazione ad esercitare, con gestione separata, l'assicurazione ai sensi del presente decreto.
 Solo per quest'ultima assicurazione le associazioni predette saranno considerate come mutue obbligatorie. 
  
- Per i comuni della Sardegna, per i quali sara' disposta la costituzione di associazioni mutue obbligatorie o autorizzati gli enti mutui di cui al precedente articolo all'esercizio dell'assicurazione ai sensi del presente decreto, e dalla data dei relativi provvedimenti, cesseranno di avere vigore le disposizioni del regolamento, approvato con [R. decreto 14 luglio 1898, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;403), per tutto quanto concerne l'assicurazione del bestiame.
+ Per i comuni della Sardegna, per i quali sara' disposta la costituzione di associazioni mutue obbligatorie o autorizzati gli enti mutui di cui al precedente articolo all'esercizio dell'assicurazione ai sensi del presente decreto, e dalla data dei relativi provvedimenti, cesseranno di avere vigore le disposizioni del regolamento, approvato con [R. decreto 14 luglio 1898, n. 403](Che%20approva%20il%20Regolamento%20per%20le%20Compagnie%20dei%20Barracelli.%20098U0403.md), per tutto quanto concerne l'assicurazione del bestiame.
 
 ### Art. 4.
 
@@ -130,15 +130,15 @@ Capo II.
 
 Il furto commesso su bestiame in greggie e su animali bovini ed equini, ancorche' non raccolti in gregge, e' punito con la reclusione da due a otto anni. 
  
- Concorrendo una delle circostanze prevedute sotto i numeri 1 a 11 dell'[art. 404 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_404), la reclusione e' da tre a dieci anni.
+ Concorrendo una delle circostanze prevedute sotto i numeri 1 a 11 dell'[art. 404 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la reclusione e' da tre a dieci anni.
 
 ### Art. 15.
 
-Le pene stabilite dagli [articoli 406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_406), [408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_408) e [409 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_409) sono aumentate da un terzo alla meta', quando la rapina e la estorsione abbiano per oggetto bestiame in gregge ovvero animali bovini ed equini ancorche' non raccolti in gregge.
+Le pene stabilite dagli [articoli 406](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [408](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [409 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono aumentate da un terzo alla meta', quando la rapina e la estorsione abbiano per oggetto bestiame in gregge ovvero animali bovini ed equini ancorche' non raccolti in gregge.
 
 ### Art. 16.
 
-Il delitto previsto dall'[art. 424 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_424) quando sia commesso su un intero gregge o su parte notevole di esso, ovvero su animali bovini ed equini, e' punito con la reclusione da uno a cinque anni e con la multa sino a L. 10,000; e quando concorra l'aggravante di cui ai nn. 1 e 2 dello stesso articolo 424, con la reclusione da due a sei anni e con la multa non inferiore a L. 2000. 
+Il delitto previsto dall'[art. 424 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) quando sia commesso su un intero gregge o su parte notevole di esso, ovvero su animali bovini ed equini, e' punito con la reclusione da uno a cinque anni e con la multa sino a L. 10,000; e quando concorra l'aggravante di cui ai nn. 1 e 2 dello stesso articolo 424, con la reclusione da due a sei anni e con la multa non inferiore a L. 2000. 
  
  Resta ferma la disposizione dell'ultimo capoverso dell'[articolo 3 della legge 2 agosto 1897, n. 382](Che%20estende%20per%20lisola%20di%20Sardegna%20le%20disposizioni%20di%20alcuni%20articoli%20di%20quella%20in%20data%2030%20luglio%201896%20n.%20345%20concernente%20listituzione%20di%20un%20R.%20Commissario%20civile%20per%20la%20Sicilia.%20097U0382.md).
 
@@ -148,11 +148,11 @@ La ricettazione di cose provenienti dai delitti di cui ai precedenti articoli 14
 
 3000.
 
-Non si applica il secondo capoverso dell'[art. 421 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_421). 
+Non si applica il secondo capoverso dell'[art. 421 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Le stesse pene si applicano al colpevole di favoreggiamento senza tener conto della limitazione di pena prescritta nella prima parte dell'[art. 225 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_225). 
+ Le stesse pene si applicano al colpevole di favoreggiamento senza tener conto della limitazione di pena prescritta nella prima parte dell'[art. 225 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Non si applica l'ultimo capoverso dell'[art. 225 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_225).
+ Non si applica l'ultimo capoverso dell'[art. 225 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 18.
 
@@ -182,7 +182,7 @@ Quando per particolari condizioni di luogo o per altre circostanze ne ricorrano 
 
 ### Art. 22.
 
-L'omissione di cautele nelle operazioni di commercio e di pegno preveduta nell'[art. 493 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_493) quando abbia per oggetto bestiame grosso o minuto, e' punita con l'arresto da quindici giorni a tre mesi, e se il contravventore sia una delle persone indicate dall'[art. 492 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_492), l'arresto e' comminato fino a sei mesi.
+L'omissione di cautele nelle operazioni di commercio e di pegno preveduta nell'[art. 493 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) quando abbia per oggetto bestiame grosso o minuto, e' punita con l'arresto da quindici giorni a tre mesi, e se il contravventore sia una delle persone indicate dall'[art. 492 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), l'arresto e' comminato fino a sei mesi.
 
 ### Art. 23.
 

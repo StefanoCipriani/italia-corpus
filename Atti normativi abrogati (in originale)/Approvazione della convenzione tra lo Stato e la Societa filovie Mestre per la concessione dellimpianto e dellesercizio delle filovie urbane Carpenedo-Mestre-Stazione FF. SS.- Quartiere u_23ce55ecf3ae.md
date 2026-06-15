@@ -16,7 +16,7 @@ UMBERTO DI SAVOIA
 
  In virtu' dell'autorita' a Noi delegata;
  Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e successive modificazioni;
- Visto il [R. decreto 14 luglio 1937, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-14;1728), convertito nella [legge 23 dicembre 1937, n. 2562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-12-23;2562), recante nuove disposizioni per agevolare la concessione di filovie;
+ Visto il [R. decreto 14 luglio 1937, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-14;1728), convertito nella [legge 23 dicembre 1937, n. 2562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20luglio%201937-V%20n.%201728%20col%20quale%20sono%20state%20emanate%20nuove%20disposizioni%20per%20agevolare%20la%20concessione%20di%20filovie.%20037U2562.md), recante nuove disposizioni per agevolare la concessione di filovie;
  Visto l'[art. 4 del decreto legislativo Luogotenenziale 5 ottobre 1944, n. 249](Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md), concernente l'assetto della legislazione nei territori liberati;
  Visto il [decreto Luogotenenziale 12 dicembre 1944, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-12;413);
  Udito il Consiglio superiore dei lavori pubblici;

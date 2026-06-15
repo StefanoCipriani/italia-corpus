@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 20 maggio 1935, n. 874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-20;874), con il quale venne autorizzata la circolazione dei biglietti di Stato;
+Visto il [R. decreto-legge 20 maggio 1935, n. 874](Autorizzazione%20a%20ritirare%20dalla%20circolazione%20le%20attuali%20monete%20di%20argento%20e%20ad%20emettere%20biglietti%20di%20Stato.%20035U0874.md), con il quale venne autorizzata la circolazione dei biglietti di Stato;
 
-Visto il [R. decreto-legge 9 luglio 1936, n. 1674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-07-09;1674), col quale venne riordinata la circolazione metallica dello Stato;
+Visto il [R. decreto-legge 9 luglio 1936, n. 1674](Riordinamento%20della%20circolazione%20monetaria%20metallica%20di%20Stato.%20036U1674.md), col quale venne riordinata la circolazione metallica dello Stato;
 
-Visto il [R. decreto-legge 7 febbraio 1938, n. 907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-07;907), con il quale venne autorizzata la fabbricazione e l'emissione di monete di acmonital da L. 2, da L. 1, da L. 0,50 e da L. 0,20;
+Visto il [R. decreto-legge 7 febbraio 1938, n. 907](Fabbricazione%20ed%20emissione%20di%20monete%20di%20acmonital.%20038U0907.md), con il quale venne autorizzata la fabbricazione e l'emissione di monete di acmonital da L. 2, da L. 1, da L. 0,50 e da L. 0,20;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per la esecuzione del [R. decreto 2 gennaio 1917, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1917-01-02;3), che autorizza la emissione di un prestito nazionale consolidato 5 per cento netto, e specialmente in relazione agli articoli 6, 7 e 8 saranno applicate le disposizioni contenute negli articoli seguenti.
+Per la esecuzione del [R. decreto 2 gennaio 1917, n. 3](Col%20quale%20e%20autorizzata%20lemissione%20di%20un%20nuovo%20prestito%20nazionale%20per%20le%20somme%20necessarie%20a%20sostenere%20le%20spese%20di%20guerra%20017U0003.md), che autorizza la emissione di un prestito nazionale consolidato 5 per cento netto, e specialmente in relazione agli articoli 6, 7 e 8 saranno applicate le disposizioni contenute negli articoli seguenti.
 
 ## Art. 2.
 
@@ -88,7 +88,7 @@ I titoli pubblici emessi in paesi esteri, che, a tenore dell'art. 7 del citato d
 
 I versamenti in oro di che all'art. 8 del detto R.decreto 2 gennaio 1917, per le sottoscrizioni del Prestito, saranno eseguiti presso le filiali degli Istituti di emissione nelle valute e alle condizioni di cambio seguenti: 
  
- monete d'oro decimali aventi corso legale nel Regno a tenore del [R. decreto 7 marzo 1907, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-03-07;149), al prezzo di L. 130 per cento; lire sterline, al prezzo di L. 32,70; dollari degli Stati Uniti d'America settentrionale, al prezzo di L. 6,70. 
+ monete d'oro decimali aventi corso legale nel Regno a tenore del [R. decreto 7 marzo 1907, n. 149](Corso%20legale%20delle%20monete%20nazionali%20ed%20estere%20e%20degli%20antichi%20Stati%20dItalia.%20007U0149.md), al prezzo di L. 130 per cento; lire sterline, al prezzo di L. 32,70; dollari degli Stati Uniti d'America settentrionale, al prezzo di L. 6,70. 
  
  E' in facolta' del ministro del tesoro di modificare i prezzi indicati e di ammettere in pagamento altre valute auree durante il periodo dell'operazione. 
  
@@ -96,7 +96,7 @@ I versamenti in oro di che all'art. 8 del detto R.decreto 2 gennaio 1917, per le
 
 ## Art. 11.
 
-Ai portatori dei prestiti nazionali 4.50 per cento creati coi RR. decreti 19 dicembre 1914, n. 1371, e 15 giugno 1915, n. 859, e del prestito nazionale 5 per cento creato con [R. decreto 22 dicembre1915, n. 1800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-12-22;1800), e' data facolta' di chiederne la conversione in titoli del nuovo prestito. 
+Ai portatori dei prestiti nazionali 4.50 per cento creati coi RR. decreti 19 dicembre 1914, n. 1371, e 15 giugno 1915, n. 859, e del prestito nazionale 5 per cento creato con [R. decreto 22 dicembre1915, n. 1800](Che%20da%20facolta%20al%20presidente%20del%20Consiglio%20dei%20ministri%20e%20al%20ministro%20del%20tesoro%20di%20effettuare%20una%20operazione%20di%20credito%20per%20raccogliere%20i%20mezzi%20occorrenti%20a%20fronteggiare%20le%20spese%20di%20guer_500dd5fac2df.md), e' data facolta' di chiederne la conversione in titoli del nuovo prestito. 
  
  I portatori che intendono di approfittare di una tale facolta' dovranno depositare, non piu' tardi del 30 aprile 1917, i titoli al portatore o nominativi da convertire, alle filiali degli Istituti di emissione nel Regno e nelle colonie, e alla R. tesoreria della Somalia. 
  
@@ -132,7 +132,7 @@ Alle affissioni di manifesti che in qualsiasi modo o forma siano destinati a dif
 
 ## Art. 16.
 
-La Cassa depositi e prestiti, sopra domanda dei titolari di depositi cauzionali o di garanzia, fatti per qualsiasi causa in dipendenza di leggi o di regolamenti, e' autorizzata ad accettare titoli al portatore del nuovo prestito in sostituzione dei buoni quinquennali del tesoro 4 per cento, con scadenza negli anni 1917 e 1918, e di buoni triennali e quinquennali 5 per cento, per la durata della sottoscrizione, e, sino al 30 aprile 1917, in sostituzione di obbligazioni dei prestiti 4,50 per cento di cui ai RR. decreti 19 dicembre 1914, n. 1371, e 15 giugno 1915, n. 359, e del prestito 5 per cento autorizzato con [R. decreto 22 dicembre 1915, n. 1800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-12-22;1800). 
+La Cassa depositi e prestiti, sopra domanda dei titolari di depositi cauzionali o di garanzia, fatti per qualsiasi causa in dipendenza di leggi o di regolamenti, e' autorizzata ad accettare titoli al portatore del nuovo prestito in sostituzione dei buoni quinquennali del tesoro 4 per cento, con scadenza negli anni 1917 e 1918, e di buoni triennali e quinquennali 5 per cento, per la durata della sottoscrizione, e, sino al 30 aprile 1917, in sostituzione di obbligazioni dei prestiti 4,50 per cento di cui ai RR. decreti 19 dicembre 1914, n. 1371, e 15 giugno 1915, n. 359, e del prestito 5 per cento autorizzato con [R. decreto 22 dicembre 1915, n. 1800](Che%20da%20facolta%20al%20presidente%20del%20Consiglio%20dei%20ministri%20e%20al%20ministro%20del%20tesoro%20di%20effettuare%20una%20operazione%20di%20credito%20per%20raccogliere%20i%20mezzi%20occorrenti%20a%20fronteggiare%20le%20spese%20di%20guer_500dd5fac2df.md). 
  
  A tale effetto i titoli del nuovo prestito saranno valutati al prezzo di emissione, diminuito del decimo se trattasi di cauzioni fornite da impiegati o contabili dello Stato. 
  

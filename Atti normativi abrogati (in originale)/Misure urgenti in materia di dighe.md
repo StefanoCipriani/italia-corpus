@@ -34,7 +34,7 @@ E' soggetta all'approvazione tecnica del progetto anche ogni op- era di modifica
 
 3.
 
-L'approvazione tecnica dei progetti e' di competenza del Servizio nazionale dighe, di cui alla [legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183).
+L'approvazione tecnica dei progetti e' di competenza del Servizio nazionale dighe, di cui alla [legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md).
 
 4.
 
@@ -142,27 +142,27 @@ Chiunque non adempia alle prescrizioni di cui all'articolo 3, comma 5, ovvero de
 
 5.
 
-L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 6 e 7, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_373).
+L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 6 e 7, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 
 1.
 
-E' abrogato l'[articolo 24, comma 4, del decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-01-24;85#art_24-com4).
+E' abrogato l'[articolo 24, comma 4, del decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](../DPR/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20geologico%20idrografico%20e%20mareografico%20sismico%20e%20dighe%20nellambito%20della%20Presidenza%20del%20Consigli_22dd683b662a.md).
 
 2.
 
-All'[articolo 10, comma 3, della legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183#art_10-com3), sono soppresse le parole: "di tutti gli sbarramenti artificiali".
+All'[articolo 10, comma 3, della legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md), sono soppresse le parole: "di tutti gli sbarramenti artificiali".
 
 3.
 
-L'[articolo 4, comma 2, della legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183#art_4-com2), e' sostituito dal seguente: "2. E' istituito, presso la Presidenza del Consiglio dei Ministri, il Comitato dei Ministri per i servizi tecnici nazionali e gli interventi nel settore della difesa del suolo. Il Comitato e' presieduto dal Presidente del Consiglio dei Ministri o, su sua delega, da un Ministro membro del Comitato stesso o dal Sottosegretario di Stato alla Presidenza del Consiglio dei Ministri, ed e' composto dai Ministri dei lavori pubblici, dell'ambiente, per il coordinamento delle politiche agricole, alimentari e forestali, per il coordinamento della protezione civile, per gli affari regionali e per i beni culturali e ambientali, ovvero dai Sottosegretari delegati. Al Comitato partecipano anche i Ministri non facenti parte del Comitato stesso, quando vengano trattate questioni che riguardino i relativi Dicasteri.".
+L'[articolo 4, comma 2, della legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md), e' sostituito dal seguente: "2. E' istituito, presso la Presidenza del Consiglio dei Ministri, il Comitato dei Ministri per i servizi tecnici nazionali e gli interventi nel settore della difesa del suolo. Il Comitato e' presieduto dal Presidente del Consiglio dei Ministri o, su sua delega, da un Ministro membro del Comitato stesso o dal Sottosegretario di Stato alla Presidenza del Consiglio dei Ministri, ed e' composto dai Ministri dei lavori pubblici, dell'ambiente, per il coordinamento delle politiche agricole, alimentari e forestali, per il coordinamento della protezione civile, per gli affari regionali e per i beni culturali e ambientali, ovvero dai Sottosegretari delegati. Al Comitato partecipano anche i Ministri non facenti parte del Comitato stesso, quando vengano trattate questioni che riguardino i relativi Dicasteri.".
 
 ## Art. 6.
 
 1.
 
-Gli organici relativi alle qualifiche funzionali ottava, settima e sesta del ruolo tecnico del Servizio nazionale dighe, di cui alla tabella B annessa al [decreto del Presidente della Repubblica 5 aprile 1993, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1993-04-05;106), sono coperti entro dodici mesi dalla data di entrata in vigore del presente decreto, secondo le modalita' di accesso al pubblico impiego previste dalla vigente normativa, anche in deroga alle limitazioni previste dall'[articolo 7, comma 8, del decreto-legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_7-com8), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-14;438).
+Gli organici relativi alle qualifiche funzionali ottava, settima e sesta del ruolo tecnico del Servizio nazionale dighe, di cui alla tabella B annessa al [decreto del Presidente della Repubblica 5 aprile 1993, n. 106](../DPR/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20nellambito%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20ai%20sensi%20dellart.%209%20della%20legge%2018%20mag_1ef0eb6066ac.md), sono coperti entro dodici mesi dalla data di entrata in vigore del presente decreto, secondo le modalita' di accesso al pubblico impiego previste dalla vigente normativa, anche in deroga alle limitazioni previste dall'[articolo 7, comma 8, del decreto-legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_7-com8), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201992%20n.%20384%20recante%20misure%20urgenti%20in%20materia%20di%20previdenza%20di%20sanita%20e%20di%20pubblico%20impiego%20nonche%20disposizioni%20fiscali.md).
 
 2.
 
@@ -178,11 +178,11 @@ Per far fronte alle esigenze di personale ed organizzative del Servizio nazional
 
 5.
 
-Fino all'insediamento di cui al comma 3, e comunque non oltre il 31 dicembre 1994, i singoli uffici periferici del Ministero dei lavori pubblici continuano a svolgere le attivita', relative alle dighe, espletate in applicazione alle disposizioni legislative e regolamentari vigenti prima della data di entrata in vigore della [legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183). Entro trenta giorni dall'insediamento dei singoli uffici periferici del Servizio nazionale dighe, gli uffici periferici del Ministero dei lavori pubblici trasmettono ai medesimi tutti gli atti relativi alle dighe.
+Fino all'insediamento di cui al comma 3, e comunque non oltre il 31 dicembre 1994, i singoli uffici periferici del Ministero dei lavori pubblici continuano a svolgere le attivita', relative alle dighe, espletate in applicazione alle disposizioni legislative e regolamentari vigenti prima della data di entrata in vigore della [legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md). Entro trenta giorni dall'insediamento dei singoli uffici periferici del Servizio nazionale dighe, gli uffici periferici del Ministero dei lavori pubblici trasmettono ai medesimi tutti gli atti relativi alle dighe.
 
 6.
 
-E' abrogato l'[articolo 28 del decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-01-24;85#art_28).
+E' abrogato l'[articolo 28 del decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](../DPR/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20geologico%20idrografico%20e%20mareografico%20sismico%20e%20dighe%20nellambito%20della%20Presidenza%20del%20Consigli_22dd683b662a.md).
 
 ## Art. 7.
 

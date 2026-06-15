@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 agosto 1927, n. 1748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-19;1748) concernente il rinvio delle rinnovazioni totali e parziali dei componenti delle Congregazioni di carita'. 
+ E' convertito in legge il [R. decreto-legge 19 agosto 1927, n. 1748](Rinvio%20delle%20rinnovazioni%20totali%20e%20parziali%20dei%20componenti%20delle%20Congregazioni%20di%20carita.%20027U1748.md) concernente il rinvio delle rinnovazioni totali e parziali dei componenti delle Congregazioni di carita'. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto-legge 15 marzo 1934, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-15;586), convertito nella [legge 7 giugno 1934, n. 930](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-07;930), col quale il comune di Valvestino e' stato staccato dalla provincia di Trento ed aggregato a quella di Brescia; 
+ Veduto il [R. decreto-legge 15 marzo 1934, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-15;586), convertito nella [legge 7 giugno 1934, n. 930](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%2015%20marzo%201934%20n.%20586%20concernente%20il%20distacco%20del%20comune%20di%20Valvestino%20dalla%20provincia%20di%20Trento%20e%20la%20sua%20aggregazione%20a%20quella%20di%20Brescia.%20034U0930.md), col quale il comune di Valvestino e' stato staccato dalla provincia di Trento ed aggregato a quella di Brescia; 
  
  Vedute le deliberazioni dei commissari prefettizi per le Amministrazioni provinciali di Trento e di Brescia, rispettivamente in data 22 giugno e 4 luglio 1934, riguardanti accordi circa la sistemazione dei rapporti patrimoniali e finanziari tra le due Provincie in dipendenza della modificazione di circoscrizione disposta con la legge sopra citata, nonche' le decisioni 6 luglio 1934 della Giunta provinciale amministrativa di Trento e 23 detto mese della Giunta provinciale amministrativa di Brescia; 
  

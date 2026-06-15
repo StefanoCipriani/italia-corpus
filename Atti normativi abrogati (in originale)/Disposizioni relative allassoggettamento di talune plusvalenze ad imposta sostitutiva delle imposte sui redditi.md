@@ -28,7 +28,7 @@ Sono soggette ad imposta sostitutiva delle imposte sui redditi le plusvalenze, d
 
 2.
 
-Sono soppressi la lettera c) del comma 1 dell'articolo 81 e il comma 3 dell'articolo 82 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917).
+Sono soppressi la lettera c) del comma 1 dell'articolo 81 e il comma 3 dell'articolo 82 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 ## Art. 2. — Modalita' di applicazione dell'imposta sostitutiva
 
@@ -38,7 +38,7 @@ L'imposta sostitutiva si applica in ragione del 20 per cento della plusvalenza, 
 
 2.
 
-I soggetti di cui al comma 1 devono dichiarare, nella dichiarazione di cui all'[articolo 7 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_7), senza indicazioni nominative, l'ammontare complessivo delle plusvalenze e quello delle relative ritenute, distinte a seconda dell'aliquota applicata.
+I soggetti di cui al comma 1 devono dichiarare, nella dichiarazione di cui all'[articolo 7 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), senza indicazioni nominative, l'ammontare complessivo delle plusvalenze e quello delle relative ritenute, distinte a seconda dell'aliquota applicata.
 
 3.
 
@@ -48,7 +48,7 @@ Le persone fisiche e gli altri soggetti di cui all'articolo 1 devono dichiarare 
 
 1.
 
-Gli uffici procedono al controllo, all'accertamento e alla riscossione dell'imposta sostitutiva non versata, nei confronti dei soggetti indicati nei commi 1 e 3 dell'articolo 2 a norma delle disposizioni contenute nel [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600), e nel [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).
+Gli uffici procedono al controllo, all'accertamento e alla riscossione dell'imposta sostitutiva non versata, nei confronti dei soggetti indicati nei commi 1 e 3 dell'articolo 2 a norma delle disposizioni contenute nel [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e nel [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).
 
 2.
 
@@ -56,7 +56,7 @@ Qualora la plusvalenza risulti determinata dal sostituto d'imposta in misura inf
 
 3.
 
-In caso di falsita' della certificazione o altra documentazione prevista dagli articoli 2 e 4, si applicano le pene indicate nell'[articolo 4 del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_4), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;516).
+In caso di falsita' della certificazione o altra documentazione prevista dagli articoli 2 e 4, si applicano le pene indicate nell'[articolo 4 del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_4), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md).
 
 ## Art. 4. — Disposizioni di attuazione e transitorie
 

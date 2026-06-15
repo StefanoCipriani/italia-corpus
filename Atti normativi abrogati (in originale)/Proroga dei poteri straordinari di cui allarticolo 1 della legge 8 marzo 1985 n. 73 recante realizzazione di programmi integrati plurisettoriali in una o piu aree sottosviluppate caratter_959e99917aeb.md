@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di prorogare i poteri straordinari conferiti al Ministro degli affari esteri e delegati ad un Sottosegretario di Stato ai sensi della [legge 8 marzo 1985, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-08;73);
+Ritenuta la straordinaria necessita' ed urgenza di prorogare i poteri straordinari conferiti al Ministro degli affari esteri e delegati ad un Sottosegretario di Stato ai sensi della [legge 8 marzo 1985, n. 73](Realizzazione%20di%20programmi%20integrati%20plurisettoriali%20in%20una%20o%20piu%20aree%20sottosviluppate%20caratterizzate%20da%20emergenza%20endemica%20e%20da%20alti%20tassi%20di%20mortalità.md);
 
 Considerata l'opportunita' di assicurare la continuita' degli interventi di emergenza secondo le procedure e le modalita' previste dalla citata legge;
 
@@ -26,7 +26,7 @@ EMANA il seguente decreto:
 
 1.
 
-I poteri straordinari conferiti al Ministro degli affari esteri e delegati ad un Sottosegretario di Stato ai sensi dell'[articolo 1, comma primo, della legge 8 marzo 1985, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-08;73#art_1-com1), sono prorogati fino alla data di entrata in vigore della nuova normativa organica in materia di cooperazione allo sviluppo.
+I poteri straordinari conferiti al Ministro degli affari esteri e delegati ad un Sottosegretario di Stato ai sensi dell'[articolo 1, comma primo, della legge 8 marzo 1985, n. 73](Realizzazione%20di%20programmi%20integrati%20plurisettoriali%20in%20una%20o%20piu%20aree%20sottosviluppate%20caratterizzate%20da%20emergenza%20endemica%20e%20da%20alti%20tassi%20di%20mortalità.md), sono prorogati fino alla data di entrata in vigore della nuova normativa organica in materia di cooperazione allo sviluppo.
 
 ## Art. 2.
 

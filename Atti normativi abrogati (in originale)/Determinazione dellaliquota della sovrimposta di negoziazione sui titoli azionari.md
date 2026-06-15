@@ -16,13 +16,13 @@ Visto il [decreto legislativo del Capo provvisorio dello Stato 5 settembre 1947,
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 1° aprile 1947, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-01;154), concernente il ripristino della sovrimposta di negoziazione dei titoli azionari;
 
-Visto il [regio decreto-legge 19 agosto 1943, n. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-19;738), concernente provvedimenti tributari in materia di titoli azionari;
+Visto il [regio decreto-legge 19 agosto 1943, n. 738](Nuovi%20provvedimenti%20tributari%20la%20materia%20di%20negoziazione%20di%20titoli%20azionari.%20043U0738.md), concernente provvedimenti tributari in materia di titoli azionari;
 
-Visti i [decreti legislativi luogotenenziali 25 maggio 1945, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-25;301), e [14 maggio 1946, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-14;420), recanti disposizioni in materia di imposte in surrogazione del bollo e registro;
+Visti i [decreti legislativi luogotenenziali 25 maggio 1945, n. 301](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20in%20materia%20di%20Imposte%20in%20surrogazione%20del%20bollo%20e%20registro.%20045U0301.md), e [14 maggio 1946, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-14;420), recanti disposizioni in materia di imposte in surrogazione del bollo e registro;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

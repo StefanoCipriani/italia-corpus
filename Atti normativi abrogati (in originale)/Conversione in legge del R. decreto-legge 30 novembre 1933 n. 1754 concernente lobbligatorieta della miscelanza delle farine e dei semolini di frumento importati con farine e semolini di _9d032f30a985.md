@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1754](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-30;1754), concernente l'obbligatorieta' della miscelanza delle farine e dei semolini di frumento importati con farine e semolini di frumento di produzione nazionale. 
+ E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1754](Obbligatorieta%20della%20miscelanza%20delle%20farine%20e%20dei%20semolini%20di%20frumento%20importati%20con%20farine%20e%20semolini%20di%20frumento%20di%20produzione%20nazionale.%20033U1754.md), concernente l'obbligatorieta' della miscelanza delle farine e dei semolini di frumento importati con farine e semolini di frumento di produzione nazionale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

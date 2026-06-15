@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 Le disposizioni della [legge 27 giugno 1961, n. 550](Norme%20modificative%20ed%20integrative%20della%20legge%203%20aprile%201958%20n.%20472%20sulla%20valutazione%20ai%20fini%20del%20trattamento%20di%20quiescenza%20dei%20servizi%20resi%20dai%20militari%20delle%20categorie%20in%20congedo%20delle%20forze%20armate.md), sono estese agli ufficiali di complemento e della riserva di complemento e ai sottufficiali, graduati e militari di truppa delle categorie in congedo delle forze armate, nonche' agli ufficiali, sottufficiali e militari di truppa del congedo assoluto iscritti nel ruolo d'onore, che abbiano prestato servizio militare durante conflitti anteriori alla guerra 1940-45.
- Ai fini dell'applicazione dell'articolo 4 della legge sopracitata sono valutabili anche i servizi resi anteriormente all'entrata in vigore del [regio decreto-legge 30 dicembre 1937, n. 2411](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-12-30;2411).
+ Ai fini dell'applicazione dell'articolo 4 della legge sopracitata sono valutabili anche i servizi resi anteriormente all'entrata in vigore del [regio decreto-legge 30 dicembre 1937, n. 2411](Trattamento%20di%20quiescenza%20spettante%20agli%20ufficiali%20e%20ai%20sottufficiali%20delle%20categorie%20in%20congedo%20richiamati%20alle%20armi%20in%20caso%20di%20guerra%20o%20di%20mobilitazione.%20037U2411.md).
 
 ## Art. 2.
 

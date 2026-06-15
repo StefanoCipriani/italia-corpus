@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-Sulle domande di autorizzazione per esposizioni e mostre d'arte, di cui all'[art. 1 del R. decreto-legge 7 aprile 1927, n. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-07;515#art_1), convertito nella [legge 8 marzo 1928, n. 630](Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20aprile%201927%20n.%20515%20contenente%20norme%20relative%20alla%20istituzione%20ed%20alla%20organizzazione%20di%20fiere%20mostre%20ed%20esposizioni.%20028U0630.md), qualora riguardino l'arte contemporanea, sara' sentito, per mezzo del Ministero delle corporazioni, il parere tecnico artistico del Sindacato nazionale degli artisti. 
+Sulle domande di autorizzazione per esposizioni e mostre d'arte, di cui all'[art. 1 del R. decreto-legge 7 aprile 1927, n. 515](Norme%20relative%20alla%20istituzione%20ed%20alla%20organizzazione%20di%20fiere%20mostre%20ed%20esposizioni.%20027U0515.md), convertito nella [legge 8 marzo 1928, n. 630](Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20aprile%201927%20n.%20515%20contenente%20norme%20relative%20alla%20istituzione%20ed%20alla%20organizzazione%20di%20fiere%20mostre%20ed%20esposizioni.%20028U0630.md), qualora riguardino l'arte contemporanea, sara' sentito, per mezzo del Ministero delle corporazioni, il parere tecnico artistico del Sindacato nazionale degli artisti. 
  
  Anche in tal caso continuera' a sentirsi, insieme con il parere degli altri Ministeri interessati, quello del Ministero della pubblica istruzione.
 
 ## Art. 2.
 
-Le esposizioni o mostre d'arte regionali e nazionali e quelle d'arte moderna (secoli XIX-XX) di carattere retrospettivo e riesumativo, promosse dai Sindacati degli artisti, avranno la preferenza nella concessione dell'autorizzazione prescritta dagli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-07;515#art_1) e [2 del R. decreto-legge 7 aprile 1927, numero 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-07;515#art_2).
+Le esposizioni o mostre d'arte regionali e nazionali e quelle d'arte moderna (secoli XIX-XX) di carattere retrospettivo e riesumativo, promosse dai Sindacati degli artisti, avranno la preferenza nella concessione dell'autorizzazione prescritta dagli [articoli 1](Norme%20relative%20alla%20istituzione%20ed%20alla%20organizzazione%20di%20fiere%20mostre%20ed%20esposizioni.%20027U0515.md) e [2 del R. decreto-legge 7 aprile 1927, numero 515](Norme%20relative%20alla%20istituzione%20ed%20alla%20organizzazione%20di%20fiere%20mostre%20ed%20esposizioni.%20027U0515.md).
 
 ## Art. 3.
 

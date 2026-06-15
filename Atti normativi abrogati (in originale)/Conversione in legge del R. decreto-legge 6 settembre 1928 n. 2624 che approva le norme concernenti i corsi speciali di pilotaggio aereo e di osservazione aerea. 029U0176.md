@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 settembre 1928, n. 2624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-09-06;2624), che approva le norme concernenti i corsi speciali di pilotaggio e di osservazione aerea, e che sopprime il [R. decreto-legge 14 gennaio 1926, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-14;141), riguardante i corsi premilitari di pilotaggio aereo. 
+ E' convertito in legge il [R. decreto-legge 6 settembre 1928, n. 2624](Norme%20concernenti%20i%20corsi%20speciali%20di%20pilotaggio%20aereo%20e%20di%20osservazione%20aerea.%20028U2624.md), che approva le norme concernenti i corsi speciali di pilotaggio e di osservazione aerea, e che sopprime il [R. decreto-legge 14 gennaio 1926, n. 141](Istituzione%20di%20speciali%20corsi%20distruzione%20premilitare%20di%20pilotaggio.%20026U0141.md), riguardante i corsi premilitari di pilotaggio aereo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

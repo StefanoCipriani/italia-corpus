@@ -18,11 +18,11 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico delle leggi ferroviarie approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
 
-Visto il [R. decreto-legge 26 novembre 1925, n. 2337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-26;2337);
+Visto il [R. decreto-legge 26 novembre 1925, n. 2337](Modificazione%20al%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tramvie%20e%20gli%20automobili%20approvato%20con%20R.%20decreto%209%20maggio%201912%20n.%201447.%20025U2337.md);
 
 Visto il [R. decreto-legge 26 gennaio 1923, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-01-26;242);
 
-Visto il [R. decreto-legge 18 ottobre 1934, n. 1868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-18;1868);
+Visto il [R. decreto-legge 18 ottobre 1934, n. 1868](Modifiche%20al%20R.%20decreto-legge%2026%20novembre%201925%20n.%202337%20per%20quanto%20riguarda%20il%20compenso%20dovuto%20alle%20Aziende%20esercenti..linee%20ferroviarie%20concesse%20allindustria%20privata%20per%20il%20trasporto%20dei%20_1b01adf532f9.md);
 
 Riconosciuta la necessita' di modificare la misura del compenso dovuto alle aziende esercenti linee ferroviarie concesse alla industria privata per il trasporto di pacchi postali;
 
@@ -36,7 +36,7 @@ Sulla proposta del Ministro per i trasporti, di concerto con quello per le poste
 
 ## Art. 1.
 
-L'[art. 1 del R. decreto-legge 18 ottobre 1934, n. 1868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-18;1868#art_1), e' modificato come segue: 
+L'[art. 1 del R. decreto-legge 18 ottobre 1934, n. 1868](Modifiche%20al%20R.%20decreto-legge%2026%20novembre%201925%20n.%202337%20per%20quanto%20riguarda%20il%20compenso%20dovuto%20alle%20Aziende%20esercenti..linee%20ferroviarie%20concesse%20allindustria%20privata%20per%20il%20trasporto%20dei%20_1b01adf532f9.md), e' modificato come segue: 
  
  Lo stesso obbligo avranno per i pacchi postali mediante il corrispettivo di L. 1,60 per i pacchi di peso fino a kg. 10; di L. 2 per i pacchi di peso superiore a, kg. 10 fino a kg. 15; L. 2,40 per i pacchi di peso superiore a kg. 15 fino a kg. 20, senza pregiudizio delle speciali convenzioni esistenti con l'Amministrazione delle poste e delle telecomunicazioni.
 

@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Ritenuta la necessita' assoluta ed urgente di assicurare ovunque la tutela dell'ordine pubblico;
 
-Visto l'[art. 5 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_5) militare di guerra;
+Visto l'[art. 5 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra;
 
 Sentito il Consiglio dei Ministri;
 

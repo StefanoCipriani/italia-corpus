@@ -22,7 +22,7 @@ VITTORIO EMANUELE
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge del 14 ottobre 1932, n. 1878](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-10-14;1878), contenente norme per la disciplina del commercio delle uova. 
+ E' convertito in legge il [R. decreto-legge del 14 ottobre 1932, n. 1878](Disciplina%20del%20commercio%20delle%20uova.%20032U1878.md), contenente norme per la disciplina del commercio delle uova. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

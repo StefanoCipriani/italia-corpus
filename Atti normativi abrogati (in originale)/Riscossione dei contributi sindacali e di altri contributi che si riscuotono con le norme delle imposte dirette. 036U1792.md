@@ -16,11 +16,11 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 17 ottobre 1922, n. 1401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-17;1401), che approva il testo unico delle leggi sulla riscossione delle imposte dirette o le successive modificazioni;
+Visto il [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), che approva il testo unico delle leggi sulla riscossione delle imposte dirette o le successive modificazioni;
 
-Visto il testo unico delle leggi sui Consigli e sugli Uffici provinciali dell'economia corporativa approvato con [R. decreto 20 settembre 1934, n. 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;2011);
+Visto il testo unico delle leggi sui Consigli e sugli Uffici provinciali dell'economia corporativa approvato con [R. decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md);
 
-Visto il [R. decreto 1° dicembre 1930, n. 1644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-01;1644), concernente la disciplina delle denuncie e del contributi sindacali, obbligatori e le successive modificazioni;
+Visto il [R. decreto 1° dicembre 1930, n. 1644](Disciplina%20delle%20denunzie%20e%20dei%20contributi%20sindacali%20obbligatori%20per%20il%20periodo%20dal%201%20gennaio%201931%20al%2030%20giugno%201933.%20030U1644.md), concernente la disciplina delle denuncie e del contributi sindacali, obbligatori e le successive modificazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -56,11 +56,11 @@ La riscossione dei contributi dovuti da coloro che per l'esercizio del loro comm
 
 Le domande di rimborso per inesigibilita' dei contributi di cui al presente Regio decreto-legge sono decise entro due mesi dalla data della loro presentazione. 
  
- Trascorso tale termine senza che sia stato emesso il provvedimento, l'esattore puo' ottenere uno sgravio provvisorio, analogamente a quanto e' stabilito per le imposte dirette dall'art. 90 del testo unico approvato con [R. decreto 17 ottobre 1922, n. 1401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-17;1401). 
+ Trascorso tale termine senza che sia stato emesso il provvedimento, l'esattore puo' ottenere uno sgravio provvisorio, analogamente a quanto e' stabilito per le imposte dirette dall'art. 90 del testo unico approvato con [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md). 
  
  Sulle domande di rimborso o di discarico di quote inesigibili per entrate e contributi di cui al presente Regio decreto-legge, decidono in prima istanza gli Uffici distrettuali delle imposte o gli Enti creditori per i ruoli rispettivamente emanati, ed in grado di appello l'intendente di finanza della provincia. 
  
- Contro il provvedimento dell'intendente e' ammesso soltanto il ricorso alla Corte dei conti nei termine di 90 giorni dalla notifica del provvedimento stesso con le norme di cui all'art. 58 del regolamento di procedura approvato con [R. decreto 13 agosto 1933 n. 1038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-13;1038).
+ Contro il provvedimento dell'intendente e' ammesso soltanto il ricorso alla Corte dei conti nei termine di 90 giorni dalla notifica del provvedimento stesso con le norme di cui all'art. 58 del regolamento di procedura approvato con [R. decreto 13 agosto 1933 n. 1038](Approvazione%20del%20regolamento%20di%20procedura%20per%20i%20giudizi%20innanzi%20alla%20Corte%20dei%20conti.%20033U1038.md).
 
 ## Art. 6.
 

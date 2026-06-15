@@ -18,7 +18,7 @@ Con decreto Reale, da emanarsi a norma dell'art. 8, n. della [legge 31 gennaio 1
 
 ## Art. 3.
 
-Alla convenzione ed alle eventuali sue modificazioni sono applicabili le disposizioni del [secondo comma dell'art. 3 del R. decreto-legge 5 luglio 1934, n. 1180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1180#art_3-com2), convertito nella [legge 1° aprile 1935, n. 539, e dell'art. 10](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20luglio%201934%20n.%201180%20concernente%20la%20sistemazione%20del%20compendio%20termale%20di%20Roncegno.%20035U0539.md), allegato B, del R. decreto-legge 15 novembre 1937-XVI, n. 1924. 
+Alla convenzione ed alle eventuali sue modificazioni sono applicabili le disposizioni del [secondo comma dell'art. 3 del R. decreto-legge 5 luglio 1934, n. 1180](Sistemazione%20del%20compendio%20termale%20di%20Roncegno.%20034U1180.md), convertito nella [legge 1° aprile 1935, n. 539, e dell'art. 10](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20luglio%201934%20n.%201180%20concernente%20la%20sistemazione%20del%20compendio%20termale%20di%20Roncegno.%20035U0539.md), allegato B, del R. decreto-legge 15 novembre 1937-XVI, n. 1924. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

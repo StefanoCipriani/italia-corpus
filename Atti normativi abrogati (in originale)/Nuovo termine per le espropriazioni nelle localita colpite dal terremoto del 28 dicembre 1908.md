@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico delle disposizioni legislative emanate in conseguenza del terremoto del 28 dicembre 1908, approvato con [decreto Luogotenenziale 19 agosto 1917, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-19;1399);
 
-Vista la [legge 22 maggio 1939, n. 845](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-05-22;845);
+Vista la [legge 22 maggio 1939, n. 845](Proroga%20di%20termini%20per%20lesecuzione%20di%20lavori%20nelle%20zone%20colpite%20dal%20terremoto%20del%2028%20dicembre%201908.%20039U0845.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151).
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156);
+Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il [decreto del Presidente della Repubblica 9 dicembre 1980, n. 878](Determinazione%20delle%20tariffe%20postali%20telegrafiche%20per%20il%20servizio%20radiomarittimo%20nazionale%20e%20per%20il%20servizio%20diretto%20fra%20utenti%20telegrafici%20telex%20nellinterno%20della%20Repubblica.%20Caratterist_72f244c1bcd1.md), con il quale si e' provveduto alla determinazione delle
 

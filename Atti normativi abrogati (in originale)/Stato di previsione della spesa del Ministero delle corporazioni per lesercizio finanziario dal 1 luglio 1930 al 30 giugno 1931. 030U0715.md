@@ -16,7 +16,7 @@ Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie
 
 E' approvato il bilancio del fondo speciale delle corporazioni per l'esercizio finanziario dal 1° luglio 1930 al 30 giugno 1931, allegato allo stato di previsione annesso alla presente legge. 
  
- E' data facolta' al Capo del Governo di stabilire, con suo decreto, di concerto con i Ministri per le finanze e per le corporazioni, sentito il Consiglio nazionale delle corporazioni, le norme amministrative e contabili che dovranno seguirsi, per la gestione del fondo speciale delle corporazioni, a decorrere dal 1° luglio 1930, fermo restando il disposto del [terzo comma dell'art. 4 del R. decreto 17 marzo 1927, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-17;401#art_4-com3). 
+ E' data facolta' al Capo del Governo di stabilire, con suo decreto, di concerto con i Ministri per le finanze e per le corporazioni, sentito il Consiglio nazionale delle corporazioni, le norme amministrative e contabili che dovranno seguirsi, per la gestione del fondo speciale delle corporazioni, a decorrere dal 1° luglio 1930, fermo restando il disposto del [terzo comma dell'art. 4 del R. decreto 17 marzo 1927, n. 401](Ordinamento%20del%20Ministero%20delle%20corporazioni.%20027U0401.md). 
  
  E' data, altresi', facolta' al Capo del Governo di provvedere con propri decreti, di concerto con i Ministri per le finanze per le corporazioni, alle variazioni del bilancio del fondo speciale predetto, che si rendessero necessarie nel corso della gestione. 
  

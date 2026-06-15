@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-I sudditi inglesi residenti in Italia, i quali essendo stati precettati a presentarsi per la visita personale e l'arruolamento dinanzi ai comandi dei distretti militari, in applicazione della convenzione dell'11 dicembre 1917 tra Italia e Inghilterra per la prestazione del servizio militare dei cittadini dei due Stati, resa esecutiva col Nostro decreto 20 dicembre 1917, n. 2037, non ottemperino a tale precetto, saranno passibili delle stesse sanzioni penali stabilite per i renitenti dal testo unico delle leggi sul reclutamento, approvato col [R. decreto 24 dicembre 1911, n. 1497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-24;1497). 
+I sudditi inglesi residenti in Italia, i quali essendo stati precettati a presentarsi per la visita personale e l'arruolamento dinanzi ai comandi dei distretti militari, in applicazione della convenzione dell'11 dicembre 1917 tra Italia e Inghilterra per la prestazione del servizio militare dei cittadini dei due Stati, resa esecutiva col Nostro decreto 20 dicembre 1917, n. 2037, non ottemperino a tale precetto, saranno passibili delle stesse sanzioni penali stabilite per i renitenti dal testo unico delle leggi sul reclutamento, approvato col [R. decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

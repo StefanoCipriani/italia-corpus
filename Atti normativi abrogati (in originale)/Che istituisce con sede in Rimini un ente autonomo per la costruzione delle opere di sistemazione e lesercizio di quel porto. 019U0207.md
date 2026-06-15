@@ -112,7 +112,7 @@ Alle opere occorrenti per la formazione di una zona industriale che, nel termine
 
 ## Art. 9.
 
-Alle nuove opere ed impianti del porto, come pure agli stabilimenti industriali di ogni specie, entro i limiti del porto stesso ed eventualmente dell'annessa zona industriale di cui all'articolo precedente, saranno estese, in quanto applicabili, tutte le disposizioni d'indole tributaria ed economica fissate dalle [leggi 8 luglio 1904, n. 351, e 12 marzo 1911, n. 258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-12;258), concernenti provvedimenti per la citta' di Napoli.
+Alle nuove opere ed impianti del porto, come pure agli stabilimenti industriali di ogni specie, entro i limiti del porto stesso ed eventualmente dell'annessa zona industriale di cui all'articolo precedente, saranno estese, in quanto applicabili, tutte le disposizioni d'indole tributaria ed economica fissate dalle [leggi 8 luglio 1904, n. 351, e 12 marzo 1911, n. 258](Concernente%20provvedimenti%20per%20la%20citta%20di%20Napoli.%20011U0258.md), concernenti provvedimenti per la citta' di Napoli.
 
 ## Art. 10.
 

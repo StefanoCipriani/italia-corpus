@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato pei lavori pubblici, di concerto
 
 ## Art. 1.
 
-E' autorizzata la spesa di L. 40.000, da inscriversi in apposito capitolo dello stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio finanziario 1915-916 in aggiunta a quella stabilita dall'[articolo 24 della legge 23 luglio 1914, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742#art_24), per la Commissione incaricata di esaminare l'ordinamento e il funzionamento delle ferrovie dello Stato.
+E' autorizzata la spesa di L. 40.000, da inscriversi in apposito capitolo dello stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio finanziario 1915-916 in aggiunta a quella stabilita dall'[articolo 24 della legge 23 luglio 1914, n. 742](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md), per la Commissione incaricata di esaminare l'ordinamento e il funzionamento delle ferrovie dello Stato.
 
 ## Art. 2.
 

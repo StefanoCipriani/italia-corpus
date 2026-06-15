@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 maggio 1926, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-09;889), concernente la ricostruzione di case canoniche, di chiese non sussidiate dallo Stato, e di altri edifici ecclesiastici, destinati a scopo di beneficenza nel comune di Messina. 
+ E' convertito in legge il [R. decreto-legge 9 maggio 1926, n. 889](Ricostruzione%20di%20case%20canoniche%20di%20chiese%20non%20sussidiate%20dallo%20Stato%20e%20di%20altri%20edifici%20ecclesiastici%20destinati%20a%20scopi%20di%20beneficenza%20nel%20comune%20di%20Messina.%20026U0889.md), concernente la ricostruzione di case canoniche, di chiese non sussidiate dallo Stato, e di altri edifici ecclesiastici, destinati a scopo di beneficenza nel comune di Messina. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

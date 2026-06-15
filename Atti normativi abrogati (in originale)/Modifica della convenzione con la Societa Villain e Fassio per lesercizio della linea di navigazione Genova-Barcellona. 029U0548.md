@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 dicembre 1923, n. 3173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3173), che autorizza il Commissario per i servizi della marina mercantile, di concerto con i Ministri per le finanze, per l'economia nazionale, per i lavori pubblici e per le poste e telegrafi, a determinare l'ordinamento definitivo dei servizi postali e commerciali marittimi sovvenzionati e ad affidare l'esercizio dei servizi medesimi alla industria privata, anche a licitazione od a trattativa privata;
+Visto il [R. decreto 31 dicembre 1923, n. 3173](Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), che autorizza il Commissario per i servizi della marina mercantile, di concerto con i Ministri per le finanze, per l'economia nazionale, per i lavori pubblici e per le poste e telegrafi, a determinare l'ordinamento definitivo dei servizi postali e commerciali marittimi sovvenzionati e ad affidare l'esercizio dei servizi medesimi alla industria privata, anche a licitazione od a trattativa privata;
 
 Visto il [R. decreto-legge 30 aprile 1924, n. 596](Istituzione%20del%20Ministero%20delle%20comunicazioni.%20024U0596.md), che istituisce il Ministero delle comunicazioni;
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sono convertiti in legge il [R. decreto-legge 14 settembre 1924, n. 1373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-09-14;1373), che abolisce l'imposta, generale sul consumo del vino e il [R. decreto-legge 14 settembre 1924, n. 1372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-09-14;1372), che porta modificazioni alla tassa di consumo sul caffe' e alle imposte di fabbricazione sui surrogati del caffe' e sugli zuccheri. 
+ Sono convertiti in legge il [R. decreto-legge 14 settembre 1924, n. 1373](Abolizione%20della%20imposta%20generale%20sul%20consumo%20del%20vino.%20024U1373.md), che abolisce l'imposta, generale sul consumo del vino e il [R. decreto-legge 14 settembre 1924, n. 1372](Modificazioni%20alla%20tassa%20di%20consumo%20sul%20caffe%20ed%20alle%20imposte%20dl%20fabbricazione%20sui%20surrogati%20del%20caffe%20e%20sugli%20zuccheri.%20024U1372.md), che porta modificazioni alla tassa di consumo sul caffe' e alle imposte di fabbricazione sui surrogati del caffe' e sugli zuccheri. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

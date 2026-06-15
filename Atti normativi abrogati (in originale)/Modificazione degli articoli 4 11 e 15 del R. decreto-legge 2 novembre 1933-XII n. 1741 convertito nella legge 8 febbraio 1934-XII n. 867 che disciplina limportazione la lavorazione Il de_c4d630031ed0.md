@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741), convertito nella [legge 8 febbraio 1934, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-08;367), che disciplina l'importazione, la lavorazione, il deposito e la distribuzione degli oli minerali e dei carburanti;
+Visto il [R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741), convertito nella [legge 8 febbraio 1934, n. 367](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%202%20novembre%201933%20n.%201741%20concernente%20la%20disciplina%20dellimportazione%20lavorazione%20deposito%20e%20distribuzione%20degli%20olii%20minerali%20e%20dei%20carburanti.%20034U0367.md), che disciplina l'importazione, la lavorazione, il deposito e la distribuzione degli oli minerali e dei carburanti;
 
 Visto il [R. decreto 20 luglio 1934, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1303), con cui e' stato approvato il regolamento d'esecuzione della legge predetta;
 
@@ -36,7 +36,7 @@ Sulla proposta del Ministro Segretario di Stato per le corporazioni, di concerto
 
 Chiunque intenda eseguire le operazioni di trasformazione, rettificazione, o comunque elaborazione contemplate dall'[art. 4 del R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_4), e dall'art. 12 del regolamento di esecuzione approvato con [R. decreto 20 luglio 1934, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1303), in opifici, la cui potenzialita' di trattamento non oltrepassi le 5000 tonn. annue di materia prima, non e' tenuto a chiedere la concessione prevista dagli articoli sopra citati, ma deve ottenere preventivamente apposita autorizzazione dal Ministro per le corporazioni, che provvede in merito di concerto col Ministro per le finanze. 
  
- Le domande dirette ad ottenere la predetta autorizzazione devono essere formulate ed inoltrate al Ministero delle corporazioni con le modalita' e con la procedura stabilite dall'[art. 4 del R. decreto 15 maggio 1933, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-05-15;590#art_4), recante norme per l'attuazione della [legge 12 gennaio 1933, n. 141](Delega%20al%20Governo%20dei%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0141.md). 
+ Le domande dirette ad ottenere la predetta autorizzazione devono essere formulate ed inoltrate al Ministero delle corporazioni con le modalita' e con la procedura stabilite dall'[art. 4 del R. decreto 15 maggio 1933, n. 590](Norme%20per%20lattuazione%20della%20legge%2012%20gennaio%201933%20n.%20141%20con%20cui%20furono%20delegati%20al%20Governo%20del%20Re%20i%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0590.md), recante norme per l'attuazione della [legge 12 gennaio 1933, n. 141](Delega%20al%20Governo%20dei%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0141.md). 
  
  Le lavorazioni eseguite in detti opifici sono sottoposte, oltre che alla vigilanza fiscale del Ministero delle finanze, al controllo del Ministero delle corporazioni. 
  

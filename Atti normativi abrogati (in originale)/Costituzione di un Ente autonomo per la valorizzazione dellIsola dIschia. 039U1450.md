@@ -25,7 +25,7 @@ Ad esso spetta di provvedere:
  3° all'impianto ed all'esercizio di altri servizi pubblici, o di pubblica utilita' che il comune di Ischia intenda affidargli ovvero dargli in concessione; 
  
  4° all'apprestamento ed all'attuazione di piani regolatori degli abitati ed alla sistemazione, costruzione e manutenzione di strade;  
- 5° alle opere e in genere a tutti gli affari che, in virtu' del [R. decreto-legge 15 aprile 1926-1V](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;1), [n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;765), convertito nella legge 1° luglio 1926-IV, n. 1380, e delle successive modificazioni, sono di competenza delle Aziende autonome delle stazioni di soggiorno, di cura e di turismo.
+ 5° alle opere e in genere a tutti gli affari che, in virtu' del [R. decreto-legge 15 aprile 1926-1V](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;1), [n. 765](Provvedimenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20di%20soggiorno%20o%20di%20turismo.%20026U0765.md), convertito nella legge 1° luglio 1926-IV, n. 1380, e delle successive modificazioni, sono di competenza delle Aziende autonome delle stazioni di soggiorno, di cura e di turismo.
 
 ## Art. 2.
 
@@ -104,7 +104,7 @@ L'Ente ha facolta' di imporre ai proprietari dei beni che siano avvantaggiati da
 
 ## Art. 9.
 
-All'intero territorio del comune di Ischia sono riconosciute, a tutti gli effetti del [R decreto-legge 15 aprile 1926-1V](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;1), [n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;765), e successive modificazioni, le caratteristiche di stazione di soggiorno e di cura.
+All'intero territorio del comune di Ischia sono riconosciute, a tutti gli effetti del [R decreto-legge 15 aprile 1926-1V](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;1), [n. 765](Provvedimenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20di%20soggiorno%20o%20di%20turismo.%20026U0765.md), e successive modificazioni, le caratteristiche di stazione di soggiorno e di cura.
 
 ## Art. 10.
 

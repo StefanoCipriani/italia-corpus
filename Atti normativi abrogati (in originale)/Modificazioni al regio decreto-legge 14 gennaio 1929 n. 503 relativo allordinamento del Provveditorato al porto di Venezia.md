@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 30 agosto 1919, n. 1712](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-30;1712);
+Visto il [regio decreto-legge 30 agosto 1919, n. 1712](Che%20istituisce%20una%20azienda%20autonoma%20per%20lesercizio%20del%20porto%20di%20Venezia%20sotto%20la%20denominazione%20di%20Provveditorato%20al%20porto%20determinandone%20lordinamento.%20019U1712.md);
 
-Visto il [regio decreto-legge 29 luglio 1920, n. 1136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-07-29;1136);
+Visto il [regio decreto-legge 29 luglio 1920, n. 1136](Modifica%20dellart.%203%20di%20quello%2030%20agosto%201919%20n.%201712%20relativo%20alla%20istituzione%20dellAzienda%20autonoma%20per%20il%20porto%20di%20Venezia.%20020U1136.md);
 
-Visto il [regio decreto-legge 7 febbraio 1926, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-07;222);
+Visto il [regio decreto-legge 7 febbraio 1926, n. 222](Provvedimenti%20per%20il%20funzionamento%20del%20Provveditorato%20al%20porto%20di%20Venezia.%20026U0222.md);
 
-Visto il [regio decreto-legge 14 marzo 1929, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-14;503);
+Visto il [regio decreto-legge 14 marzo 1929, n. 503](Ordinamento%20del%20Provveditorato%20al%20porto%20di%20Venezia.%20029U0503.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la marina mercantile, di concerto con i Ministri
 
 ## Art. 1.
 
-Sono apportate le modificazioni di cui agli articoli seguenti al [regio decreto-legge 14 marzo 1929, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-14;503).
+Sono apportate le modificazioni di cui agli articoli seguenti al [regio decreto-legge 14 marzo 1929, n. 503](Ordinamento%20del%20Provveditorato%20al%20porto%20di%20Venezia.%20029U0503.md).
 
 ## Art. 2.
 

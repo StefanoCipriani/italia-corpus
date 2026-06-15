@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 27 del regolamento approvato con [R. decreto 10 gennaio 1895, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-01-10;5), e' sostituito il seguente: 
+All'art. 27 del regolamento approvato con [R. decreto 10 gennaio 1895, n. 5](Che%20approva%20il%20regolamento%20sul%20servizio%20dellAmministrazione%20del%20Lotto.%20095U0005.md), e' sostituito il seguente: 
  
  «La cauzione dei ricevitori e' fornita in rendita del debito pubblico dello Stato o con deposito in numerario presso la Cassa depositi e prestiti. 
  
- Nel primo caso il valore della rendita e' stabilito in ragione del corso medio di essa nel semestre precedente, secondo le norme contenute nel [R. decreto 8 giugno 1873, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1873-06-08;1447). 
+ Nel primo caso il valore della rendita e' stabilito in ragione del corso medio di essa nel semestre precedente, secondo le norme contenute nel [R. decreto 8 giugno 1873, n. 1447](Concernente%20le%20cauzioni%20dei%20Contabili%20e%20degli%20altri%20Impiegati%20dello%20Stato.%20073U1447.md). 
  
  L'ammontare della cauzione deve corrispondere ad una volta e mezza l'importo della riscossione di una estrazione, calcolata in base alla media del precedente triennio, per i banchi delle citta' dove hanno sede le Direzioni del lotto, ed alla somma delle riscossioni di tre estrazioni, calcolate nello stesso modo, per tutti gli altri banchi. 
  
@@ -22,7 +22,7 @@ All'art. 27 del regolamento approvato con [R. decreto 10 gennaio 1895, n. 5](htt
 
 ## Art. 2.
 
-L'art. 32 del regolamento approvato con [R. decreto 10 gennaio 1895, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-01-10;5), e' modificato come appresso: 
+L'art. 32 del regolamento approvato con [R. decreto 10 gennaio 1895, n. 5](Che%20approva%20il%20regolamento%20sul%20servizio%20dellAmministrazione%20del%20Lotto.%20095U0005.md), e' modificato come appresso: 
  
  «Sara' fornita a ciascun ricevitore, a titolo di deposito, una dotazione di registri del giuoco a prezzo fisso dei diversi tipi, in relazione al presunto rispettivo consumo, per un totale importo uguale all'ammontare della cauzione effettivamente prestata e calcolata nei modi prescritti. 
  
@@ -32,13 +32,13 @@ L'art. 32 del regolamento approvato con [R. decreto 10 gennaio 1895, n. 5](https
 
 ## Art. 3.
 
-All'art. 69 del regolamento approvato con [R. decreto 10 gennaio 1895, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-01-10;5), viene aggiunto il seguente comma: 
+All'art. 69 del regolamento approvato con [R. decreto 10 gennaio 1895, n. 5](Che%20approva%20il%20regolamento%20sul%20servizio%20dellAmministrazione%20del%20Lotto.%20095U0005.md), viene aggiunto il seguente comma: 
  
  «In caso di morte del titolare che non abbia la gestione personale, e fintantoche' non sia stato provveduto alla nomina del reggente, puo' essere consentito al gerente di continuare interinalmente la gestione deil Banco, purche' fornisca subito una congrua malleveria od acquisti, mediante versamento in tesoreria, la quantita' di registri bollettari occorrenti per la normale raccolta del giuoco».
 
 ## Art. 4.
 
-L'art. 13 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-12-23;665), e' cosi' modificato: 
+L'art. 13 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](Che%20approva%20lannesso%20schema%20del%20regolamento%20sul%20personale%20dei%20banchi%20lotto.%20006U0665.md), e' cosi' modificato: 
  
  «I commessi in servizio avventizio possono essere assunti senza limitazione di sorta. 
  
@@ -58,7 +58,7 @@ L'art. 13 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](ht
 
 ## Art. 5.
 
-All'art. 30 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-12-23;665), e' sostituito il seguente: 
+All'art. 30 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](Che%20approva%20lannesso%20schema%20del%20regolamento%20sul%20personale%20dei%20banchi%20lotto.%20006U0665.md), e' sostituito il seguente: 
  
  «I banchi vacanti sono conferiti mediante concorsi per titoli: 
  
@@ -70,7 +70,7 @@ All'art. 30 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](
 
 ## Art. 6.
 
-L'art. 33 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-12-23;665), e' modificato come segue: 
+L'art. 33 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](Che%20approva%20lannesso%20schema%20del%20regolamento%20sul%20personale%20dei%20banchi%20lotto.%20006U0665.md), e' modificato come segue: 
  
  «Per concorrere a titolo di promozione a qualsiasi banco del Regno, i ricevitori devono aver servito in quello di cui sono titolari, e con gestione personale continuata, per un periodo minimo di tre anni. 
  
@@ -78,7 +78,7 @@ L'art. 33 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](ht
 
 ## Art. 7.
 
-L'art. 37 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-12-23;665), e' cosi' modificato: 
+L'art. 37 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](Che%20approva%20lannesso%20schema%20del%20regolamento%20sul%20personale%20dei%20banchi%20lotto.%20006U0665.md), e' cosi' modificato: 
  
  «Le istanze, stese su carta da bollo da L. 1, scritte e firmate dai concorrenti e controfirmate dai gestori (ricevitori, reggenti e gerenti) per i commessi e collettori, devono essere presentate alle Direzioni da cui gli aspiranti dipendono. 
  
@@ -92,7 +92,7 @@ Al [terzo comma dell'art. 39 del regolamento 23 dicembre 1906, n. 665](https://w
 
 ## Art. 9.
 
-L'art. 40 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-12-23;665), viene sostituito dal seguente: 
+L'art. 40 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](Che%20approva%20lannesso%20schema%20del%20regolamento%20sul%20personale%20dei%20banchi%20lotto.%20006U0665.md), viene sostituito dal seguente: 
  
  «Per i concorsi a banchi di aggio eccedente le L. 2500 e fino a L. 3500, i ricevitori sono classificati in base alla durata del servizio personale prestato nel banco di cui sono titolari. 
  
@@ -113,7 +113,7 @@ L'entita' di questa detrazione viene determinata avuto riguardo al numero ed all
 
 ## Art. 10.
 
-All'art. 47 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-12-23;665), e' sostituito il seguente: 
+All'art. 47 del regolamento approvato con [R. decreto 23 dicembre 1906, n. 665](Che%20approva%20lannesso%20schema%20del%20regolamento%20sul%20personale%20dei%20banchi%20lotto.%20006U0665.md), e' sostituito il seguente: 
  
  «In caso di deserzione dei concorsi, i banchi vengono rimessi in gara con una congrua diminuzione dei requisiti di aggio e di servizio da parte degli aspiranti, tenuto conto delle circostanze speciali che han dato luogo all'esito negativo della precedente prova». 
  

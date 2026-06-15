@@ -90,7 +90,7 @@ Fatto salvo quanto previsto al comma 1 e 4, con decreto del Ministro dell'ambien
 
 1.
 
-La provincia e la regione rilasciano le autorizzazioni, secondo la rispettiva competenza quali stabilite dalla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319) e successive modifiche, dal [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), e dalla [legge 16 agosto 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-16;142), tenendo conto delle disposizioni del presente decreto.
+La provincia e la regione rilasciano le autorizzazioni, secondo la rispettiva competenza quali stabilite dalla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md) e successive modifiche, dal [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), e dalla [legge 16 agosto 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-16;142), tenendo conto delle disposizioni del presente decreto.
 
 2.
 
@@ -102,13 +102,13 @@ La provincia e la regione adottano direttamente, ovvero sollecitano presso le al
 
 4.
 
-Restano ferme le competenze delle provincie autonome di Trento e di Bolzano ai sensi del testo unico delle leggi sullo statuto speciale per il Trentino-Alto Adige, approvato con [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-31;670), e delle relative norme di attuazione.
+Restano ferme le competenze delle provincie autonome di Trento e di Bolzano ai sensi del testo unico delle leggi sullo statuto speciale per il Trentino-Alto Adige, approvato con [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), e delle relative norme di attuazione.
 
 ## Art. 6. — Scarichi diretti
 
 1.
 
-Fermi i divieti stabiliti dalla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319) in materia di scarichi nel sottosuolo, ed in particolare all'art. 4, e' vietato qualsiasi scarico diretto nelle acque sotterranee di sostanze indicate nell'elenco I e II dell'allegato, con esclusione, limitatamente alle sostanze indicate nell'elenco II dell'allegato, degli scarichi di acque reflue che recapitano nelle unita' geologiche profonde, che devono essere comunque autorizzati ai sensi della predetta legge.
+Fermi i divieti stabiliti dalla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md) in materia di scarichi nel sottosuolo, ed in particolare all'art. 4, e' vietato qualsiasi scarico diretto nelle acque sotterranee di sostanze indicate nell'elenco I e II dell'allegato, con esclusione, limitatamente alle sostanze indicate nell'elenco II dell'allegato, degli scarichi di acque reflue che recapitano nelle unita' geologiche profonde, che devono essere comunque autorizzati ai sensi della predetta legge.
 
 ## Art. 7. — Eliminazione e deposito delle sostanze dell'elenco I
 
@@ -122,7 +122,7 @@ E' vietato ogni scarico sul suolo di acque reflue che contengono le sostanze del
 
 ## Art. 8. — D e r o g h e
 
-1. Lo scarico consistente nella reiniezione nella stessa falda delle acque utilizzate per scopi geotermici delle acque di infiltrazione di miniere o cave, o delle acque pompate nel corso di determinati lavori di ingegneria civile, e' soggetto a preventiva autorizzazione. La Regione rilascia l'autorizzazione, ai sensi della [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), se a seguito di indagine preventiva sull'assetto geomorfologico, sulla qualita' delle acque, sulle modalita' di prelievo e di reiniezione, risulta che non vi e' pericolo di inquinamento della falda.
+1. Lo scarico consistente nella reiniezione nella stessa falda delle acque utilizzate per scopi geotermici delle acque di infiltrazione di miniere o cave, o delle acque pompate nel corso di determinati lavori di ingegneria civile, e' soggetto a preventiva autorizzazione. La Regione rilascia l'autorizzazione, ai sensi della [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), se a seguito di indagine preventiva sull'assetto geomorfologico, sulla qualita' delle acque, sulle modalita' di prelievo e di reiniezione, risulta che non vi e' pericolo di inquinamento della falda.
 
 ## Art. 9. — Scarico indiretto delle sostanze dell'elenco II
 
@@ -172,7 +172,7 @@ Lo scarico deve comunque rispettare le norme tecniche generali previste dalla de
 
 3.
 
-Lo scarico indiretto di acque usate eventualmente autorizzato deve in ogni caso rispettare i limiti di accettabilita' previsti dalla tabella A allegata alla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319).
+Lo scarico indiretto di acque usate eventualmente autorizzato deve in ogni caso rispettare i limiti di accettabilita' previsti dalla tabella A allegata alla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md).
 
 ## Art. 12. — Autorizzazione alle operazioni di eliminazione e di deposito di rifiuti
 
@@ -242,7 +242,7 @@ In nessun caso le misure di attuazione del presente decreto possono provocare di
 
 1.
 
-Agli scarichi diretti e indiretti previsti dal presente decreto sono applicabili le disposizioni generali previste dalla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319) e successive modifiche ed integrazioni.
+Agli scarichi diretti e indiretti previsti dal presente decreto sono applicabili le disposizioni generali previste dalla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md) e successive modifiche ed integrazioni.
 
 2.
 

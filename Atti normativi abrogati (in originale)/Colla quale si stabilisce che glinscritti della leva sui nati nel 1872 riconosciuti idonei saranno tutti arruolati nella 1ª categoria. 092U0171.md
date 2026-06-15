@@ -20,7 +20,7 @@ Gl'inscritti che furono rimandati dalle leve precedenti come rivedibili, a senso
 
 ## Art. 3.
 
-E' fatta facolta' al Ministro della guerra di stabilire il numero degli uomini che, nati nel 1872, ed arruolati nella prima categoria, dovranno assumere la ferma di anni due, prevista dal testo unico delle leggi sul reclutamento del R. esercito, approvato con [Regio decreto del 6 agosto 1888 n. 5655](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-08-06;5655) (serie 3ª).
+E' fatta facolta' al Ministro della guerra di stabilire il numero degli uomini che, nati nel 1872, ed arruolati nella prima categoria, dovranno assumere la ferma di anni due, prevista dal testo unico delle leggi sul reclutamento del R. esercito, approvato con [Regio decreto del 6 agosto 1888 n. 5655](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md) (serie 3ª).
 
 ## Art. 4.
 

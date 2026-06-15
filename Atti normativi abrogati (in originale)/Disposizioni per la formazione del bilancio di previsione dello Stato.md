@@ -46,7 +46,7 @@ Al quadro generale riassuntivo del bilancio sono allegati:
 
 Entro il 20 gennaio ed il ventesimo giorno del mese successivo a ciascun trimestre, i comuni e le province e le loro aziende o consorzi comunque costituiti sono tenuti a comunicare alla regione nel cui territorio essi operano gli incassi e i pagamenti effettuati, rispettivamente, nell'anno e nel trimestre precedente e le variazioni nelle attivita' finanziarie (in particolare nei depositi presso la tesoreria e presso gli istituti di credito) e nell'indebitamento a breve e medio termine.
  Le regioni comunicheranno al Ministro per il tesoro entro dieci giorni dalle anzidette scadenze i dati di cui sopra aggregati per l'insieme delle province e per l'insieme dei comuni, con i dati analoghi relativi all'amministrazione regionale.
- Il Ministro per il tesoro riportera' tali informazioni nella relazione che e' tenuto a fare al Parlamento ai sensi dell'[articolo 2 della legge 20 luglio 1977, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-07-20;407#art_2), a modifica dell'[articolo 9 della legge 10 maggio 1976, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;249#art_9), che dovra' essere presentata entro venti giorni dalle anzidette scadenze.
+ Il Ministro per il tesoro riportera' tali informazioni nella relazione che e' tenuto a fare al Parlamento ai sensi dell'[articolo 2 della legge 20 luglio 1977, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-07-20;407#art_2), a modifica dell'[articolo 9 della legge 10 maggio 1976, n. 249](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20marzo%201976%20n.%2046%20concernente%20misure%20urgenti%20in%20materia%20tributaria.md), che dovra' essere presentata entro venti giorni dalle anzidette scadenze.
 
 ### Art. 6.
 
@@ -67,7 +67,7 @@ Per il rimborso all'Azienda nazionale autonoma delle strade dell'onere relativo 
 
 ### Art. 9.
 
-Per l'esercizio 1978 il Ministero del tesoro, a seguito degli impegni derivanti dal [decreto-legge 10 febbraio 1977, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-02-10;19), convertito nella [legge 6 aprile 1977, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-04-06;106), e' autorizzato a versare al fondo centrale di garanzia per le autostrade e le ferrovie metropolitane la somma di lire 56 miliardi per il pagamento, anche in deroga delle proprie norme regolamentari e in sostituzione dell'ANAS, le rate di mutui contratti dalla Societa' autostrade romane abruzzesi (SARA), per la costruzione delle autostrade Roma-Alba Adriatica e Torano-Pescara, scadenti nello stesso anno 1978.
+Per l'esercizio 1978 il Ministero del tesoro, a seguito degli impegni derivanti dal [decreto-legge 10 febbraio 1977, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-02-10;19), convertito nella [legge 6 aprile 1977, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20febbraio%201977%20n.%2019%20concernente%20decadenza%20della%20Societa%20autostrade%20romane%20e%20abruzzesi%20SARA%20dalla%20concessione%20di%20costruzione%20ed%20_0ebc7752901f.md), e' autorizzato a versare al fondo centrale di garanzia per le autostrade e le ferrovie metropolitane la somma di lire 56 miliardi per il pagamento, anche in deroga delle proprie norme regolamentari e in sostituzione dell'ANAS, le rate di mutui contratti dalla Societa' autostrade romane abruzzesi (SARA), per la costruzione delle autostrade Roma-Alba Adriatica e Torano-Pescara, scadenti nello stesso anno 1978.
 
 ### Art. 10.
 
@@ -76,7 +76,7 @@ Alle spese iscritte negli stati di previsione dell'Amministrazione dei monopoli 
 
 ### Art. 11.
 
-In relazione all'[articolo 18 del decreto legislativo luogotenenziale 1 marzo 1945, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;82#art_18), ed agli impegni in materia di personale non statale addetto agli istituti scientifici ed ai centri di studio, di cui al [decreto legislativo 7 maggio 1948, n. 1167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1167), lo stanziamento relativo e' autorizzato con apposita disposizione da inserire nella legge di approvazione del bilancio.
+In relazione all'[articolo 18 del decreto legislativo luogotenenziale 1 marzo 1945, n. 82](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20045U0082.md), ed agli impegni in materia di personale non statale addetto agli istituti scientifici ed ai centri di studio, di cui al [decreto legislativo 7 maggio 1948, n. 1167](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%201%20marzo%201945%20n.%2082%20relativo%20al%20riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.md), lo stanziamento relativo e' autorizzato con apposita disposizione da inserire nella legge di approvazione del bilancio.
 
 ### Art. 12.
 
@@ -84,7 +84,7 @@ In relazione all'andamento dei programmi spaziali nazionali di cui alla [legge 2
 
 ### Art. 13.
 
-Per l'attribuzione di somme agli enti indicati nello [articolo 14 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_14), in sostituzione di tributi, contributi e compartecipazioni previsti a norma del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;638), e successive modificazioni, gli stanziamenti relativi sono autorizzati con apposita disposizione da inserire nella legge di approvazione del bilancio.
+Per l'attribuzione di somme agli enti indicati nello [articolo 14 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), in sostituzione di tributi, contributi e compartecipazioni previsti a norma del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 638](../DPR/Disposizioni%20per%20lattribuzione%20di%20somme%20agli%20enti%20indicati%20nellart.%2014%20della%20legge%209%20ottobre%201971%20n.%20825%20in%20sostituzione%20di%20tributi%20contributi%20e%20compartecipazioni%20e%20norme%20per%20la%20delegabil_3fbd056216dc.md), e successive modificazioni, gli stanziamenti relativi sono autorizzati con apposita disposizione da inserire nella legge di approvazione del bilancio.
 
 ### Art. 14.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 dicembre 1934, n. 1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-03;1984) recante provvedimenti in materia di tasse automobilistiche. 
+ E' convertito in legge il [R. decreto-legge 3 dicembre 1934, n. 1984](Provvedimenti%20in%20materia%20di%20tasse%20automobilistiche.%20034U1984.md) recante provvedimenti in materia di tasse automobilistiche. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

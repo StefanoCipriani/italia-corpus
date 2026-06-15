@@ -12,13 +12,13 @@ vigente: true
 
 E' transitoriamente istituita presso il Ministero del tesoro la Direzione generale per il risarcimento dei danni di guerra. 
  
- Sono assegnarti ad essa tutti i servizi relativi all'applicazione delle [leggi 28 settembre 1940, n. 1399; 26 ottobre 1940, n. 1543, e 20 novembre 1941, n. 1432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-11-20;1432), nonche' del [R. decreto 16 dicembre 1940, n. 1957](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-12-16;1957), riguardanti il risarcimento dei danni di guerra. 
+ Sono assegnarti ad essa tutti i servizi relativi all'applicazione delle [leggi 28 settembre 1940, n. 1399; 26 ottobre 1940, n. 1543, e 20 novembre 1941, n. 1432](Indennizzo%20per%20danni%20di%20guerra%20subiti%20da%20funzionari%20ed%20Impiegati%20dipendenti%20dal%20Ministero%20degli%20affari%20esteri.%20041U1432.md), nonche' del [R. decreto 16 dicembre 1940, n. 1957](Norme%20integrative%20e%20regolamentari%20per%20lattuazione%20della%20legge%2026%20ottobre%201940-XVIII%20n.%201543%20sul%20risarcimento%20dei%20danni%20di%20guerra.%20040U1957.md), riguardanti il risarcimento dei danni di guerra. 
  
- Il Ministero del tesoro provvedera' alle relative esigenze con personale proprio, con personale appartenente ai ruoli di altre Amministrazioni statali, nella posizione di comando, nelle forme stabilite dal [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni e con personale non di ruolo da assumere a norma del [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), e del [decreto legislativo Luogotenenziale 4 agosto 1915, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-04;453).
+ Il Ministero del tesoro provvedera' alle relative esigenze con personale proprio, con personale appartenente ai ruoli di altre Amministrazioni statali, nella posizione di comando, nelle forme stabilite dal [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni e con personale non di ruolo da assumere a norma del [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), e del [decreto legislativo Luogotenenziale 4 agosto 1915, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-04;453).
 
 ## Art. 2.
 
-Il numero dei posti di cui alle tabelle B e D annesse al [decreto Luogotenenziale 28 ottobre 1944, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-28;356), rispettivamente riguardanti il ruolo per la carriera amministrativa dell'Amministrazione centrale del tesoro e quello per la carriera d'ordine della stessa Amministrazione centrale e' aumentato come segue: 
+Il numero dei posti di cui alle tabelle B e D annesse al [decreto Luogotenenziale 28 ottobre 1944, n. 356](../Decreti%20legislativi%20luogotenenziali/Nuove%20tabelle%20organiche%20del%20personale%20dipendente%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.%20044U0356.md), rispettivamente riguardanti il ruolo per la carriera amministrativa dell'Amministrazione centrale del tesoro e quello per la carriera d'ordine della stessa Amministrazione centrale e' aumentato come segue: 
  
  Direttore generale (grado 4° del gruppo A) 1 posto; 
  
@@ -34,11 +34,11 @@ Il numero dei posti di cui alle tabelle B e D annesse al [decreto Luogotenenzial
 
 ## Art. 3.
 
-Il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari approvato con [R. decreto 23 marzo 1933, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-23;185), si estende anche, in quanto applicabile, all'Amministrazione del tesoro fino a che non sara' emanato apposito regolamento per il personale ed i servizi dell'Amministrazione stessa.
+Il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari approvato con [R. decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), si estende anche, in quanto applicabile, all'Amministrazione del tesoro fino a che non sara' emanato apposito regolamento per il personale ed i servizi dell'Amministrazione stessa.
 
 ## Art. 4.
 
-Il funzionario di cui all'[art. 10, comma 5°, del Regio decreto-legge 4 marzo 1937, n. 304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-03-04;304#art_10-com5), conserva ad personam il grado di ispettore generale in soprannumero lasciando scoperto nella tabella B del [decreto legislativo Luogotenenziale 28 ottobre 1944, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-28;356), un posto di capo divisione. 
+Il funzionario di cui all'[art. 10, comma 5°, del Regio decreto-legge 4 marzo 1937, n. 304](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20finanziaria.%20037U0304.md), conserva ad personam il grado di ispettore generale in soprannumero lasciando scoperto nella tabella B del [decreto legislativo Luogotenenziale 28 ottobre 1944, n. 356](../Decreti%20legislativi%20luogotenenziali/Nuove%20tabelle%20organiche%20del%20personale%20dipendente%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.%20044U0356.md), un posto di capo divisione. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  

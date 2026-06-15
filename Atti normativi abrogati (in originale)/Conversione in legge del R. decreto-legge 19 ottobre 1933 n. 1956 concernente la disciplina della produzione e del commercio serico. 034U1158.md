@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1956), concernente la disciplina della produzione e del commercio serico. 
+ E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1956](Disciplina%20della%20produzione%20e%20del%20commercio%20serico.%20033U1956.md), concernente la disciplina della produzione e del commercio serico. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

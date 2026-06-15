@@ -32,7 +32,7 @@ I tesorieri o i cassieri possono richiedere l'adeguamento delle convenzioni stip
 
 3.
 
-Agli enti ed agli organismi di cui al primo comma non si applicano le disposizioni previste dall'[articolo 40 della legge 30 marzo 1981, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119#art_40), modificato dall'[articolo 21, quarto comma, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_21-com4), convertito, con modificazioni, nella [legge 11 novembre 1983, n. 638, nonche' dall'articolo 35, quattordicesimo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638#art_35-com14), della [legge 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730).
+Agli enti ed agli organismi di cui al primo comma non si applicano le disposizioni previste dall'[articolo 40 della legge 30 marzo 1981, n. 119](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201981.md), modificato dall'[articolo 21, quarto comma, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_21-com4), convertito, con modificazioni, nella [legge 11 novembre 1983, n. 638, nonche' dall'articolo 35, quattordicesimo comma](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md), della [legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md).
 
 4.
 
@@ -42,11 +42,11 @@ Con decreti del Ministro del tesoro sono disciplinate le condizioni, i criteri e
 
 1.
 
-Le disposizioni previste dall'[articolo 40 della legge 30 marzo 1981, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119#art_40), modificato dall'[articolo 21, quarto comma, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_21-com4), convertito, con modificazioni, nella [legge 11 novembre 1983, n. 638, nonche' dall'articolo 35, quattordicesimo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638#art_35-com14), della [legge 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730), si applicano agli enti ed agli organismi pubblici indicati nell'allegata tabella B.
+Le disposizioni previste dall'[articolo 40 della legge 30 marzo 1981, n. 119](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201981.md), modificato dall'[articolo 21, quarto comma, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_21-com4), convertito, con modificazioni, nella [legge 11 novembre 1983, n. 638, nonche' dall'articolo 35, quattordicesimo comma](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md), della [legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md), si applicano agli enti ed agli organismi pubblici indicati nell'allegata tabella B.
 
 2.
 
-Restano in vigore, per le unita' sanitarie locali, le disposizioni dell'[articolo 35 della legge 30 marzo 1981, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119#art_35).
+Restano in vigore, per le unita' sanitarie locali, le disposizioni dell'[articolo 35 della legge 30 marzo 1981, n. 119](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201981.md).
 
 3.
 

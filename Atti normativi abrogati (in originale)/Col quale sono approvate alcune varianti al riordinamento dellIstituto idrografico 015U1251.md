@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto n. 232, in data 14 maggio 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-14;232), che approva il riordinamento dell'Istituto idrografico della R. marina; 
+ Visto il [R. decreto n. 232, in data 14 maggio 1908](Che%20approva%20lannesso%20riordinamento%20dellIstituto%20idrografico%20della%20R.%20marina.%20008U0232.md), che approva il riordinamento dell'Istituto idrografico della R. marina; 
  
  Visti i RR. decreti n. 956, in data 6 agosto 1911, e n. 1395; in data 14 dicembre 1913, che modificano l'articolo 16 di tale riordinamento; 
  

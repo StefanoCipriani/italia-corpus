@@ -16,7 +16,7 @@ Visti gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legg
 
 Visto il [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
-Visto il [decreto legislativo 12 febbraio 1993, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39);
+Visto il [decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -30,7 +30,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Il presente regolamento si applica ai procedimenti amministrativi d'ufficio e ad istanza di parte, di competenza dei servizi del soppresso Ministero della marina mercantile, per la parte degli stessi confluiti nel Ministero dei trasporti e della navigazione, istituito con [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537).
+Il presente regolamento si applica ai procedimenti amministrativi d'ufficio e ad istanza di parte, di competenza dei servizi del soppresso Ministero della marina mercantile, per la parte degli stessi confluiti nel Ministero dei trasporti e della navigazione, istituito con [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md).
 
 2.
 
@@ -41,7 +41,7 @@ I procedimenti di competenza dell'amministrazione dei trasporti e della navigazi
 Nella tabella C allegata al presente regolamento, sono indicati i termini entro i quali, al di fuori delle ipotesi di cui agli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_16) e [17 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_17), l'amministrazione dei trasporti e della navigazione espleta la prescritta attivita' endoprocedimentale e manifesta il proprio intento, comunque determinato, nei procedimenti di competenza di altre amministrazioni.
 
 AVVERTENZA: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulla pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulla pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
  - La [legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241) reca: "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi". Gli articoli 2, 4 e 12 cosi' recitano: 
  "Art. 2. - 1. Ove il procedimento consegua obbligatoriamente ad una istanza, ovvero debba essere iniziato d'ufficio, la pubblica amministrazione ha il dovere di concluderlo mediante l'adozione di un provvedimento espresso. 
@@ -52,9 +52,9 @@ AVVERTENZA:
  2. Le disposizioni adottate ai sensi del comma 1 sono rese pubbliche secondo quanto previsto dai singoli ordinamenti". 
  "Art. 12. - 1. La concessione di sovvenzioni, contributi, sussidi ed ausili finanziari e l'attribuzione di vantaggi economici di qualunque genere a persone ed enti pubblici e privati sono subordinate alla predeterminazione ed alla pubblicazione da parte delle amministrazioni procedenti, nelle forme previste dai rispettivi ordinamenti, dei criteri e delle modalita' cui le amministrazioni stesse devono attenersi. 
  2. L'effettiva osservanza dei criteri e delle modalita' di cui al comma 1 deve risultare dai singoli provvedimenti relativi agli interventi di cui al medesimo comma 1". 
- - Il [D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29) reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2)". 
+ - Il [D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29) reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)". 
  - Il [D.Lgs. n. 39/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;39) reca: "Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art. 2, comma 1, lettera mm), della 
- [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421)". 
+ [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)". 
  - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti delle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed intermisteriali non possono dettare norme contrarie a quello dei regolamenti emanati dal Governo.
  Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale. 
  Note all'[art. 1: 
@@ -75,7 +75,7 @@ AVVERTENZA:
 
 1.
 
-Gli atti amministrativi adottati dall'amministrazione dei trasporti e della navigazione sono di norma predisposti tramite i sistemi informativi automatizzati, ai sensi dell'[art. 3 del decreto legislativo 12 febbraio 1993, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39#art_3).
+Gli atti amministrativi adottati dall'amministrazione dei trasporti e della navigazione sono di norma predisposti tramite i sistemi informativi automatizzati, ai sensi dell'[art. 3 del decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 2.
 
@@ -126,7 +126,7 @@ Ove la domanda dell'interessato sia ritenuta irregolare o incompleta, il respons
 
 5.
 
-Restano salvi la facolta' di autocertificazione e il dovere di procedere agli accertamenti di ufficio previsti rispettivamente dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_2) e [10 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_10), nonche' il disposto di cui all'[art. 18 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_18).
+Restano salvi la facolta' di autocertificazione e il dovere di procedere agli accertamenti di ufficio previsti rispettivamente dagli [articoli 2](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e [10 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), nonche' il disposto di cui all'[art. 18 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_18).
 
 Note all'[art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_4): 
  - Gli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_7), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_8) e [18 della legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_18), piu' volte citata, cosi' recitano: 
@@ -140,7 +140,7 @@ Note all'[art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:199
  d) l'ufficio in cui si puo' prendere visione degli atti. 
  3. Qualora per il numero dei destinatari la comunicazione personale non sia possibile o risulti particolarmente gravosa, l'amministrazione provvede a rendere noti gli elementi di cui al comma 2 mediante forme di pubblicita' idonee di volta in volta stabilite dall'amministrazionemedesima. 
  4. L'omissione di taluna delle comunicazioni prescritte puo' esser fatta valere solo dal soggetto nel cui interesse la comunicazione e' prevista". 
- "Art. 18. - 1. Entro sei mesi dalla data di entrata in vigore della presente legge le amministrazioni interessate adottano le misure organizzative idonee a garantire l'applicazione delle disposizioni in materia di autocertificazione e di presentazione di atti e documenti da parte di cittadini a pubbliche amministrazioni di cui alla [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), e successive modificazioni e integrazioni. Delle misure adottate le amministrazioni danno comunicazione alla Commissione di cui all'articolo 27. 
+ "Art. 18. - 1. Entro sei mesi dalla data di entrata in vigore della presente legge le amministrazioni interessate adottano le misure organizzative idonee a garantire l'applicazione delle disposizioni in materia di autocertificazione e di presentazione di atti e documenti da parte di cittadini a pubbliche amministrazioni di cui alla [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), e successive modificazioni e integrazioni. Delle misure adottate le amministrazioni danno comunicazione alla Commissione di cui all'articolo 27. 
  2. Qualora l'interessato dichiari che fatti, stati e qualita' sono attestati in documenti gia' in possesso della stessa amministrazione procedente o di altra pubblica amministrazione, il responsabile del procedimento provvede d'ufficio all'acquisizione dei documenti stessi o di copia di essi. 
  3. Parimenti sono accertati d'ufficio dal responsabile del procedimento i fatti, gli stati e le qualita' che la stessa amministrazione procedente o altra pubblica amministrazione e' tenuta a certificare". 
  - La [legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15) reca: "Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme". Gli articoli 2 e 10 cosi' recitano: 
@@ -249,7 +249,7 @@ Salvo diversa determinazione, relativamente agli uffici centrali dell'amministra
 
 2.
 
-Relativamente agli uffici periferici dell'Amministrazione dei trasporti e della navigazione devono intendersi per unita' organizzative responsabili dell'istruttoria e di ogni altro adempimento procedimentale nonche' dell'adozione del provvedimento finale, salvo diversa determinazione, l'ufficio marittimo periferico attributario delle relative competenze stabilite dal [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) approvato con [regio decreto 30 marzo 1942, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), e successive modificazioni e dal regolamento per la sua esecuzione (parte marittima) approvato con decreto del Presidente della Republbica 15 febbraio 1952, n. 328, e successive modificazioni.
+Relativamente agli uffici periferici dell'Amministrazione dei trasporti e della navigazione devono intendersi per unita' organizzative responsabili dell'istruttoria e di ogni altro adempimento procedimentale nonche' dell'adozione del provvedimento finale, salvo diversa determinazione, l'ufficio marittimo periferico attributario delle relative competenze stabilite dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e successive modificazioni e dal regolamento per la sua esecuzione (parte marittima) approvato con decreto del Presidente della Republbica 15 febbraio 1952, n. 328, e successive modificazioni.
 
 ## Art. 11. — Responsabile del procedimento
 
@@ -267,7 +267,7 @@ Il responsabile dell'unita' organizzativa puo' affidare ad altro dipendente adde
 
 4.
 
-Il responsabile del procedimento esercita le attribuzioni contemplate all'[art. 6 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_6), e dal presente regolamento e svolge tutti gli altri compiti indicati nelle disposizioni organizzative e di servizio nonche' quelli attinenti all'applicazione della [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15).
+Il responsabile del procedimento esercita le attribuzioni contemplate all'[art. 6 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_6), e dal presente regolamento e svolge tutti gli altri compiti indicati nelle disposizioni organizzative e di servizio nonche' quelli attinenti all'applicazione della [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
 
 Note all'[art. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_11): 
  - L'[art. 6 della legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_6) cosi' recita: 

@@ -16,7 +16,7 @@ Per la durata della guerra la permanenza nei gradi di sergente maggiore, di mare
 
 ## Art. 2.
 
-Per la durata della guerra i termini ed i limiti minimi di anzianita' di grado stabiliti dall'[art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;690#art_2) e dall'[art. 3 della legge 6 luglio 1911, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;690#art_3), quale fu modificata dalla [legge 31 maggio 1913, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-31;596), sono ridotti a meta' per i sottufficiali dell'arma dei carabinieri reali che siano addetti a comandi, corpi e servizi dell'esercito operante. 
+Per la durata della guerra i termini ed i limiti minimi di anzianita' di grado stabiliti dall'[art. 2](Che%20porta%20i%20provvedimenti%20per%20larma%20dei%20carabinieri%20reali.%20011U0690.md) e dall'[art. 3 della legge 6 luglio 1911, n. 690](Che%20porta%20i%20provvedimenti%20per%20larma%20dei%20carabinieri%20reali.%20011U0690.md), quale fu modificata dalla [legge 31 maggio 1913, n. 596](Che%20porta%20disposizioni%20relative%20alla%20legge%206%20luglio%201911%20n.%20690%20riguardanti%20larma%20dei%20RR.%20carabinieri%20013U0596.md), sono ridotti a meta' per i sottufficiali dell'arma dei carabinieri reali che siano addetti a comandi, corpi e servizi dell'esercito operante. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

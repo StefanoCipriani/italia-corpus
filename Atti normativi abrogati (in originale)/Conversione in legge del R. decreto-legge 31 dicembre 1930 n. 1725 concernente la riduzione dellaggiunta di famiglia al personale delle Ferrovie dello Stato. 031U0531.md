@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 dicembre 1930, n. 1725](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-31;1725), concernente la riduzione dell'aggiunta di famiglia, al personale delle Ferrovie dello Stato. 
+ E' convertito in legge il [R. decreto-legge 31 dicembre 1930, n. 1725](Riduzione%20dellaggiunta%20di%20famiglia%20al%20personale%20delle%20Ferrovie%20dello%20Stato.%20030U1725.md), concernente la riduzione dell'aggiunta di famiglia, al personale delle Ferrovie dello Stato. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 17 aprile 1931 - Anno IX 
  

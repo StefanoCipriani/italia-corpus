@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 Le spese di cura, comprese quelle per ricovero in istituti sanitari e per protesi, riconosciute necessarie per il personale militare dell'Esercito, della Marina, dell'Aeronautica e per gli appartenenti ai Corpi della guardia di finanza, delle guardie di pubblica sicurezza e degli agenti di custodia nonche' per i sottufficiali, le guardie scelte e le guardie del Corpo forestale dello Stato, che abbiano contratto ferite, lesioni o infermita' dipendenti da causa di servizio, sono poste a carico dei Ministeri della difesa, delle finanze, dell'interno, di grazia e giustizia e dell'agricoltura e delle foreste per i rispettivi dipendenti.
- Per il personale civile delle Amministrazioni sopra indicate si applica l'art. 68 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), restando le spese relative a carico delle rispettive Amministrazioni.
+ Per il personale civile delle Amministrazioni sopra indicate si applica l'art. 68 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), restando le spese relative a carico delle rispettive Amministrazioni.
  Ai fini dell'applicazione dei commi precedenti l'eventuale ricovero in ospedali o luoghi di cura civili dev'essere autorizzato dalla rispettiva Amministrazione.
 
 ## Art. 2.

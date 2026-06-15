@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [regio decreto-legge 5 ottobre 1933, n. 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-05;1314), riguardante il regime fiscale degli oli di semi, convertito nella [legge 18 gennaio 1934, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-18;231), e successive modificazioni;
+Visto il [regio decreto-legge 5 ottobre 1933, n. 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-05;1314), riguardante il regime fiscale degli oli di semi, convertito nella [legge 18 gennaio 1934, n. 231](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%205%20ottobre%201933%20n.%201314%20riguardante%20il%20regime%20fiscale%20degli%20oli%20di%20semi.%20034U0231.md), e successive modificazioni;
 
 Ritenuta, la straordinaria necessita' ed urgenza di stabilire un nuovo sistema di accertamento dell'imposta di fabbricazione sugli oli di semi;
 
@@ -26,7 +26,7 @@ L'imposta di fabbricazione sugli oli greggi di semi destinati a qualsiasi uso e 
  Sugli oli di semi raffinati importati dall'estero, la sovrimposta di confine e' stabilita nella misura di lire 6500 per quintale.
  Le oleine di oli di semi importate dall'estero, qualunque sia la loro acidita', sono soggette al pagamento della sovrimposta di confine stabilita nel primo comma per gli oli greggi di semi.
  Le paste di raffinazione di oli di semi importate dall'estero sono soggette alla sovrimposta di confine di cui al primo comma, commisurata sulla quantita' di olio di semi non combinato in esse contenuto, eccedenti il 10%.
- La sovrimposta di confine di cui al primo ed al secondo comma si applica anche sui prodotti importati dall'estero contenenti oli di semi, in base alla quantita' fissa di olio prevista dalle note alle voci della tariffa generale dei dazi doganali, approvata con [decreto del Presidente della Repubblica 7 luglio 1950, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-07-07;442), ovvero, nei casi non contemplati dalle dette note, in base alla quantita' di olio in essi presente, da accertarsi mediante analisi eseguita dai Laboratori chimici delle dogane.
+ La sovrimposta di confine di cui al primo ed al secondo comma si applica anche sui prodotti importati dall'estero contenenti oli di semi, in base alla quantita' fissa di olio prevista dalle note alle voci della tariffa generale dei dazi doganali, approvata con [decreto del Presidente della Repubblica 7 luglio 1950, n. 442](../DPR/Approvazione%20della%20nuova%20tariffa%20doganale%20dei%20dazi%20di%20importazione.md), ovvero, nei casi non contemplati dalle dette note, in base alla quantita' di olio in essi presente, da accertarsi mediante analisi eseguita dai Laboratori chimici delle dogane.
 
 ## Art. 2.
 
@@ -77,7 +77,7 @@ Sono soggette alla vigilanza continuativa della Finanza:
  Sono soggette a vigilanza saltuaria della Finanza le fabbriche non contemplate nel precedente comma.
  Le fabbriche di oli di semi assoggettate a vigilanza sia continuativa che saltuaria della Finanza, debbono prestare una cauzione rapportata all'ammontare della imposta corrispondente alla massima quantita' di olio producibile nelle 24 ore, calcolata in base alla resa prevista nelle tabelle A) e B) per i semi a piu' alto contenuto in olio.
  Le raffinerie di oli di semi debbono prestare una cauzione rapportata all'ammontare della imposta corrispondente alla massima quantita' di olio producibile nelle 24 ore.
- Le cauzioni saranno prestate nel termine che verra' fissato dall'Amministrazione finanziaria e nei modi indicati all'[art. 36 del decreto-legge 6 ottobre 1948, numero 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-10-06;1200#art_36), convertito nella [legge 3 dicembre 1948, numero 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-03;1388).
+ Le cauzioni saranno prestate nel termine che verra' fissato dall'Amministrazione finanziaria e nei modi indicati all'[art. 36 del decreto-legge 6 ottobre 1948, numero 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-10-06;1200#art_36), convertito nella [legge 3 dicembre 1948, numero 1388](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%206%20ottobre%201948%20n.%201200%20concernente%20modificazioni%20al%20regime%20fiscale%20degli%20alcoli%20e%20del%20benzolo.md).
  Chiunque ometta di prestare, nel termine fissato, le cauzioni di cui ai precedenti commi e' tenuto al pagamento di una pena pecuniaria dal doppio al quintuplo della imposta sulla quale si sarebbe dovuta ragguagliare la cauzione.
 
 ## Art. 8.
@@ -93,7 +93,7 @@ Le fabbriche di oli di semi soggette a vigilanza saltuaria, almeno dieci giorni 
  f) il diametro interno della campana e la relativa altezza per ciascuna pressa;
  g) il numero dei giorni lavorativi con l'indicazione della data di ciascun giorno;
  h) la qualita', la quantita' dei semi introdotti in fabbrica nonche' la data e l'ora della loro introduzione;
- i) gli estremi delle fatture, note, conti, quietanze o altri documenti emessi in relazione all'acquisto od al passaggio dei semi oleosi in conto lavorazione, ai sensi degli [articoli 8 della legge 19 giugno 1940, n. 762 e 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-19;16#art_8) e 35 del relativo regolamento, approvato con [regio decreto 26 gennaio 1940, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-01-26;10); ovvero, quando trattisi di semi esteri, gli estremi delle relative bollette di importazione;
+ i) gli estremi delle fatture, note, conti, quietanze o altri documenti emessi in relazione all'acquisto od al passaggio dei semi oleosi in conto lavorazione, ai sensi degli [articoli 8 della legge 19 giugno 1940, n. 762 e 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-19;16#art_8) e 35 del relativo regolamento, approvato con [regio decreto 26 gennaio 1940, n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md); ovvero, quando trattisi di semi esteri, gli estremi delle relative bollette di importazione;
  l) il quantitativo di olio ricavabile dalla partita di semi da lavorare, calcolato nel modo indicato all'art. 3;
  m) l'importo della imposta pagata sul quantitativo di olio di cui alla precedente lettera l);
  n) gli estremi della quietanza di Tesoreria comprovante il pagamento dell'imposta.
@@ -173,7 +173,7 @@ Le infrazioni alle disposizioni dell'art. 10 sono punite con l'ammenda da L. 200
 
 ## Art. 20.
 
-Le disposizioni di cui agli articoli 18 e 19, per quanto concerne la misura delle pene della multa e dell'ammenda, sono adottate in modifica agli [articoli 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_24) e [26 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_26) e delle loro successive modificazioni.
+Le disposizioni di cui agli articoli 18 e 19, per quanto concerne la misura delle pene della multa e dell'ammenda, sono adottate in modifica agli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle loro successive modificazioni.
 
 ## Art. 21.
 

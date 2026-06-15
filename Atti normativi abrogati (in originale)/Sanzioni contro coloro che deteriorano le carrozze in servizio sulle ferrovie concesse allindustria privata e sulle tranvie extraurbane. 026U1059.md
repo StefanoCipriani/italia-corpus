@@ -28,9 +28,9 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di
 
 ## Art. 1.
 
-Chiunque, col posare i piedi sui sedili o sulle pareti, o con altro qualsiasi atto, guasta, deteriora, sciupa, gualcisce, insudicia vetture in servizio sulle ferrovie concesse all'industria privata o sulle tranvie extraurbane, i loro arredi o accessori, e' punito con l'ammenda da L. 10 a 100, ove trattisi di vetture di prima classe, e da L. 5 a 50 negli altri casi, sempre che il fatto non costituisca un reato punibile con sanzioni piu' gravi dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) o dalle altre leggi e regolamenti in vigore, nel qual caso sara' proceduto verso il trasgressore nei modi prescritti per l'applicazione di tali sanzioni piu' gravi. 
+Chiunque, col posare i piedi sui sedili o sulle pareti, o con altro qualsiasi atto, guasta, deteriora, sciupa, gualcisce, insudicia vetture in servizio sulle ferrovie concesse all'industria privata o sulle tranvie extraurbane, i loro arredi o accessori, e' punito con l'ammenda da L. 10 a 100, ove trattisi di vetture di prima classe, e da L. 5 a 50 negli altri casi, sempre che il fatto non costituisca un reato punibile con sanzioni piu' gravi dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o dalle altre leggi e regolamenti in vigore, nel qual caso sara' proceduto verso il trasgressore nei modi prescritti per l'applicazione di tali sanzioni piu' gravi. 
  
- L'ammenda e' convertibile, nel caso di non eseguito pagamento, in pena restrittiva della liberta' personale, a norma degli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_19) e [24 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_24). 
+ L'ammenda e' convertibile, nel caso di non eseguito pagamento, in pena restrittiva della liberta' personale, a norma degli [articoli 19](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [24 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  La sanzione di cui al 1° comma non si applica quando gli atti vengono compiuti da chi e' colto da improvviso malore. 
  

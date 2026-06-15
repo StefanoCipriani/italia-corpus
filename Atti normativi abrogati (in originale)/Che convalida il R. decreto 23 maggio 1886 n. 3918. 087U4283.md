@@ -22,7 +22,7 @@ UMBERTO I
  
  Articolo unico. 
  
- E' convalidato il [R. decreto 23 maggio 1886, n. 3918](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-05-23;3918), col quale venne autorizzata la prelevazione dal fondo di riserva per le spese impreviste della somma di lire 4000, portata in aumento al capitolo n. 11, Spese casuali, dello stato di previsione della spesa del Ministero dell'Interno per l'esercizio finanziario 1885-86. 
+ E' convalidato il [R. decreto 23 maggio 1886, n. 3918](Col%20quale%20viene%20autorizzato%20un%20prelevamento%20di%20somma%20dal%20fondo%20per%20le%20Spese%20impreviste.%20086U3918.md), col quale venne autorizzata la prelevazione dal fondo di riserva per le spese impreviste della somma di lire 4000, portata in aumento al capitolo n. 11, Spese casuali, dello stato di previsione della spesa del Ministero dell'Interno per l'esercizio finanziario 1885-86. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

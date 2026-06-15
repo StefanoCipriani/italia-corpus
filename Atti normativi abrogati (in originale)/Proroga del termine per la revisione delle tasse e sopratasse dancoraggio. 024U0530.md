@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 21 ottobre 1923, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367);
+Visto il [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2830);
+Visto il [R. decreto 30 dicembre 1923, n. 2830](Disposizioni%20semplificative%20per%20la%20regolazione%20delle%20contabilita%20delle%20Amministrazioni%20militari%20per%20gli%20esercizi%20dal%201914-15%20al%201920-21%20e%20di%20quelle%20di%20altre%20gestioni%20dipendenti%20dalla%20guerra.%20023U2830.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per le poste ed i telegrafi, Commissario per i servi
 
 ## Articolo unico.
 
-E' prorogato al 30 giugno 1924 il termine stabilito dall'[art. 4 del R. decreto 21 ottobre 1923, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367#art_4), e dall'articolo unico del [R. decreto 30 dicembre 1923, n. 2836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2836), per la revisione delle tasse e sopratasse d'ancoraggio di cui al capitolo IV della [legge 23 luglio 1896, n. 318](Riflettente%20la%20concessione%20di%20compensi%20di%20costruzione%20e%20premi%20di%20navigazione%20ai%20piroscafi%20ed%20ai%20velieri%20nazionali%20096U0318.md), modificata dalla [legge 21 dicembre 1905, n. 890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-12-21;890), e dal [R. decreto 22 marzo 1923, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-22;830), o prevedute da leggi speciali, nonche' dei diritti di costituto sanitario di cui alla [legge 16 luglio 1916, n. 947](Contenente%20diposizioni%20varie%20sulla%20sanita%20pubblica.%20016U0947.md). 
+E' prorogato al 30 giugno 1924 il termine stabilito dall'[art. 4 del R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md), e dall'articolo unico del [R. decreto 30 dicembre 1923, n. 2836](Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), per la revisione delle tasse e sopratasse d'ancoraggio di cui al capitolo IV della [legge 23 luglio 1896, n. 318](Riflettente%20la%20concessione%20di%20compensi%20di%20costruzione%20e%20premi%20di%20navigazione%20ai%20piroscafi%20ed%20ai%20velieri%20nazionali%20096U0318.md), modificata dalla [legge 21 dicembre 1905, n. 890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-12-21;890), e dal [R. decreto 22 marzo 1923, n. 830](Che%20aumenta%20la%20misura%20dei%20diritti%20marittimi%20stabiliti%20dalla%20legge%2023%20luglio%201896%20n.%20318.%20023U0830.md), o prevedute da leggi speciali, nonche' dei diritti di costituto sanitario di cui alla [legge 16 luglio 1916, n. 947](Contenente%20diposizioni%20varie%20sulla%20sanita%20pubblica.%20016U0947.md). 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

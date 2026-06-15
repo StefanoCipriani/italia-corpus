@@ -80,11 +80,11 @@ Ai fini del presente decreto si intende per:
 
 1.
 
-Chiunque intenda effettuare operazioni di raccolta o trasporto di residui destinati al riutilizzo deve, su carta libera e senza alcun onere finanziario, darne comunicazione al Comitato nazionale dell'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti, di cui all'[articolo 10 del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441), almeno trenta giorni prima dell'inizio dell'attivita', indicando la quantita', la natura, l'origine, la destinazione, la frequenza media della raccolta, la tipologia del mezzo di trasporto dei residui; per le attivita' in corso dalla data di entrata in vigore del presente decreto la comunicazione deve essere effettuata entro trenta giorni dalla stessa data. Il Comitato redige l'elenco degli operatori che hanno effettuato le comunicazioni ai sensi del presente decreto.
+Chiunque intenda effettuare operazioni di raccolta o trasporto di residui destinati al riutilizzo deve, su carta libera e senza alcun onere finanziario, darne comunicazione al Comitato nazionale dell'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti, di cui all'[articolo 10 del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md), almeno trenta giorni prima dell'inizio dell'attivita', indicando la quantita', la natura, l'origine, la destinazione, la frequenza media della raccolta, la tipologia del mezzo di trasporto dei residui; per le attivita' in corso dalla data di entrata in vigore del presente decreto la comunicazione deve essere effettuata entro trenta giorni dalla stessa data. Il Comitato redige l'elenco degli operatori che hanno effettuato le comunicazioni ai sensi del presente decreto.
 
 2.
 
-Durante il trasporto i residui di cui al presente articolo sono identificati dal documento di accompagnamento dei beni viaggianti di cui all'[articolo 1 del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-06;627#art_1), dal quale, opportunamente integrato, devono risultare in particolare i seguenti dati:
+Durante il trasporto i residui di cui al presente articolo sono identificati dal documento di accompagnamento dei beni viaggianti di cui all'[articolo 1 del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](../DPR/Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md), dal quale, opportunamente integrato, devono risultare in particolare i seguenti dati:
                         a)
                             nome ed indirizzo del produttore o detentore;
                         b)
@@ -98,7 +98,7 @@ Durante il trasporto i residui di cui al presente articolo sono identificati dal
 
 3.
 
-I soggetti di cui al comma 1 non devono prestare le garanzie finanziarie di cui all'[articolo 10, comma 2, del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10-com2), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441).
+I soggetti di cui al comma 1 non devono prestare le garanzie finanziarie di cui all'[articolo 10, comma 2, del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_10-com2), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md).
 
 4.
 
@@ -199,11 +199,11 @@ I soggetti che svolgono attivita' di raccolta e trasporto dei residui tossici e 
 
 I registri di cui al comma 1 possono essere sostituiti, purche' vidimati ed integrati con gli elementi in esso previsti, da:
                         a)
-                            registri di carico e scarico dei rifiuti di cui all'[articolo 3, comma 5, del decreto-legge 9 settembre 1988, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397#art_3-com5), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475);
+                            registri di carico e scarico dei rifiuti di cui all'[articolo 3, comma 5, del decreto-legge 9 settembre 1988, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397#art_3-com5), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20settembre%201988%20n.%20397%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti%20industriali.md);
                         b)
                             registri IVA di acquisto e vendita;
                         c)
-                            scrittura ausiliare di magazzino di cui all'[articolo 14 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_14), e successive modificazioni;
+                            scrittura ausiliare di magazzino di cui all'[articolo 14 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni;
                         d)
                             altri registri la cui tenuta sia resa obbligatoria da disposizioni di legge se vidimati ed integrati ai sensi del comma 1.
 
@@ -233,7 +233,7 @@ Le regioni o le province delegate entro il 31 dicembre di ogni anno trasmettono 
 
 1.
 
-In attuazione dell'[articolo 14 della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_14), e salvo che la legge regionale o delle province autonome di Trento e di Bolzano non dispongano diversamente, i controlli sulle operazioni di raccolta e trasporto, stoccaggio, trattamento e riutilizzo, previste nel presente decreto, sono esercitati dalle province, che si avvalgono, per gli aspetti tecnici, dei competenti servizi tecnici.
+In attuazione dell'[articolo 14 della legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md), e salvo che la legge regionale o delle province autonome di Trento e di Bolzano non dispongano diversamente, i controlli sulle operazioni di raccolta e trasporto, stoccaggio, trattamento e riutilizzo, previste nel presente decreto, sono esercitati dalle province, che si avvalgono, per gli aspetti tecnici, dei competenti servizi tecnici.
 
 2.
 
@@ -261,7 +261,7 @@ Le disposizioni del [decreto del Presidente della Repubblica 10 settembre 1982, 
 
 1.
 
-E' abrogato l'[articolo 2 del decreto-legge 9 settembre 1988, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397#art_2), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475). Sono fatte salve le leggi regionali in materia in quanto compatibili con le disposizioni di principio del presente decreto.
+E' abrogato l'[articolo 2 del decreto-legge 9 settembre 1988, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397#art_2), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20settembre%201988%20n.%20397%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti%20industriali.md). Sono fatte salve le leggi regionali in materia in quanto compatibili con le disposizioni di principio del presente decreto.
 
 ## Art. 14. — Disposizioni transitorie
 

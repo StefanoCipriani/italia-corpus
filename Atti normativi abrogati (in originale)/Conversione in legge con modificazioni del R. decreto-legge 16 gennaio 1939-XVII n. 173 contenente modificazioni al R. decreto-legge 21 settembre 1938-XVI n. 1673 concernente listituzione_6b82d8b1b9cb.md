@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  L'art. 1 e' sostituito dal seguente: 
  
- «L'art. 1 del citato [R. decreto-legge 21 settembre 1938, n. 1673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;1673), e' sostituito dal seguente: 
+ «L'art. 1 del citato [R. decreto-legge 21 settembre 1938, n. 1673](Istituzione%20del%20Consiglio%20nazionale%20delleducazione%20delle%20scienze%20e%20delle%20arti.%20038U1673.md), e' sostituito dal seguente: 
  
  «E' istituito il Consiglio nazionale dell'educazione, delle scienze e delle arti, che si pronuncia sugli argomenti di carattere generale attinenti all'insegnamento e alla cultura. 
  

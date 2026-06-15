@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 22 novembre 1888, n. 5801](Con%20la%20quale%20il%20Governo%20del%20Re%20e%20autorizzato%20a%20pubblicare%20lallegato%20Codice%20penale%20per%20il%20Regno%20dItalia.%20088U5801.md) (serie 3ª), con la quale il Governo fu autorizzato a pubblicare il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) allegato alla legge stessa, introducendo nel testo di esso quelle modificazioni che, tenuto conto dei voti del Parlamento, ravvisasse necessarie per emendarne le disposizioni e coordinarle tra loro e con quelle degli altri codici e leggi, e a fare per Regio decreto le disposizioni transitorie e le altre necessarie per l'attuazione del predetto Codice;
+Vista la [legge 22 novembre 1888, n. 5801](Con%20la%20quale%20il%20Governo%20del%20Re%20e%20autorizzato%20a%20pubblicare%20lallegato%20Codice%20penale%20per%20il%20Regno%20dItalia.%20088U5801.md) (serie 3ª), con la quale il Governo fu autorizzato a pubblicare il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) allegato alla legge stessa, introducendo nel testo di esso quelle modificazioni che, tenuto conto dei voti del Parlamento, ravvisasse necessarie per emendarne le disposizioni e coordinarle tra loro e con quelle degli altri codici e leggi, e a fare per Regio decreto le disposizioni transitorie e le altre necessarie per l'attuazione del predetto Codice;
 
 Visto il Nostro decreto 30 giugno del corrente anno, n. 6133 (serie 3ª), con cui fu approvato il testo definitivo di quel Codice e fu stabilito che abbia esecuzione a cominciare dal 1° gennaio 1890;
 
@@ -28,7 +28,7 @@ Capo I.
 
 ### Art. 1.
 
-Per la dichiarazione preveduta nel Capoverso dell'[art. 7 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_7) e' competente la Corte d'appello (sezione degli appelli penali), e si osservano le disposizioni del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) per l'appello dalle sentenze dei tribunali, in quanto siano applicabili. 
+Per la dichiarazione preveduta nel Capoverso dell'[art. 7 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' competente la Corte d'appello (sezione degli appelli penali), e si osservano le disposizioni del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) per l'appello dalle sentenze dei tribunali, in quanto siano applicabili. 
  
  La competenza e' determinata dal luogo del domicilio del condannato; in mancanza di domicilio, da quello della sua residenza; in mancanza di questa, dal luogo della sua dimora. 
  
@@ -36,11 +36,11 @@ Per la dichiarazione preveduta nel Capoverso dell'[art. 7 del codice penale](htt
 
 ### Art. 2.
 
-Per la deliberazione richiesta nel secondo Capoverso dell'[articolo 9 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_9) e' competente la Corte d'appello (sezione d'accusa) del distretto in cui lo straniero si trova.
+Per la deliberazione richiesta nel secondo Capoverso dell'[articolo 9 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' competente la Corte d'appello (sezione d'accusa) del distretto in cui lo straniero si trova.
 
 ### Art. 3.
 
-L'ammissione allo stabilimento penitenziario, agricolo o industriale, o al lavoro in opere pubbliche o private fuori dello stabilimento penale, secondo l'[articolo 14 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_14), e' decretata dal Ministro dell'Interno, dietro proposta motivata del Consiglio di sorveglianza presso lo stabilimento in cui il condannato sconta la pena. 
+L'ammissione allo stabilimento penitenziario, agricolo o industriale, o al lavoro in opere pubbliche o private fuori dello stabilimento penale, secondo l'[articolo 14 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' decretata dal Ministro dell'Interno, dietro proposta motivata del Consiglio di sorveglianza presso lo stabilimento in cui il condannato sconta la pena. 
  
  Le stesse norme si osservano per la revocazione dell'ammissione suddetta.
 
@@ -56,7 +56,7 @@ La liberazione condizionale e' concessa con decreto del Ministro della Giustizia
 
 ### Art. 5.
 
-La liberazione condizionale, nei casi indicati nell'[articolo 17 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_17), e' revocata con decreto del Ministro della Giustizia. 
+La liberazione condizionale, nei casi indicati nell'[articolo 17 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' revocata con decreto del Ministro della Giustizia. 
  
  La proposta di revocazione e' fatta dall'Autorita' di pubblica sicurezza al procuratore generale presso la corte d'appello indicata nello articolo precedente. Il procuratore generale provoca con motivate conclusioni, il parere della sezione d'accusa, e trasmette quindi la proposta e gli atti al Ministro della Giustizia. 
  
@@ -68,7 +68,7 @@ La liberazione condizionale, nei casi indicati nell'[articolo 17 del codice pena
 
 ### Art. 6.
 
-Per gli effetti dell'ultimo Capoverso dell'art. 19 e della prima parte dell'[art. 22 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_22), il procuratore del Re, assunte le opportune informazioni dall'autorita' amministrativa competente, assegna il condannato ai lavori ai quali sia possibile destinarlo. 
+Per gli effetti dell'ultimo Capoverso dell'art. 19 e della prima parte dell'[art. 22 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il procuratore del Re, assunte le opportune informazioni dall'autorita' amministrativa competente, assegna il condannato ai lavori ai quali sia possibile destinarlo. 
  
  Il condannato deve presentarsi a prestare l'opera propria nel giorno fissato dal procuratore del Re. 
  
@@ -76,7 +76,7 @@ Per gli effetti dell'ultimo Capoverso dell'art. 19 e della prima parte dell'[art
 
 ### Art. 7.
 
-Nel caso preveduto nel Capoverso dell'[art. 21 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_21), il giudice indica nella sentenza l'abitazione in cui la pena dev'essere scontata. 
+Nel caso preveduto nel Capoverso dell'[art. 21 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il giudice indica nella sentenza l'abitazione in cui la pena dev'essere scontata. 
  
  L'abitazione indicata nella sentenze puo', per giusti motivi, essere mutata dal giudice, ad istanza del condannato, sentito il pubblico ministero. 
  
@@ -90,31 +90,31 @@ Nel caso preveduto nel Capoverso dell'[art. 21 del codice penale](https://www.no
 
 ### Art. 8.
 
-Nel caso preveduto nell'[art. 26 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_26), il presidente della Corte o del tribunale od il pretore, che pronunzio' la condanna, fissa, entro tre giorni da quello in cui la sentenza e' divenuta irrevocabile, l'udienza nella quale il condannato deve presentarsi per ricevere la riprensione giudiziale. 
+Nel caso preveduto nell'[art. 26 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il presidente della Corte o del tribunale od il pretore, che pronunzio' la condanna, fissa, entro tre giorni da quello in cui la sentenza e' divenuta irrevocabile, l'udienza nella quale il condannato deve presentarsi per ricevere la riprensione giudiziale. 
  
  Il condannato non comparso puo' fare opposizione al provvedimento che lo dichiara incorso nella pena alla quale la riprensione ora stata sostituita, entro tre giorni dalla notificazione del provvedimento medesimo.
 
 ### Art. 9.
 
-L'obbligazione prescritta nella prima parte dell'[art. 27 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_27) e' assunta con atto seguito contemporaneamente al verbale di riprensione davanti al giudice che la pronunzia. 
+L'obbligazione prescritta nella prima parte dell'[art. 27 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' assunta con atto seguito contemporaneamente al verbale di riprensione davanti al giudice che la pronunzia. 
  
  Il giudice decide sull'idoneita' dei fidejussori, e, nel caso preveduto nell'ultimo Capoverso dello stesso articolo, dichiara incorso il condannato nella pena cui la riprensione e' stata sostituita.
 
 ### Art. 10.
 
-La dichiarazione prescritta nel primo Capoverso dell'[articolo 28 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_28) deve farsi innanzi all'Autorita' di pubblica sicurezza del luogo in cui il condannato ha finito di scontare la pena o del luogo in cui e' stato autorizzato a recarsi dall'Autorita' medesima.
+La dichiarazione prescritta nel primo Capoverso dell'[articolo 28 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) deve farsi innanzi all'Autorita' di pubblica sicurezza del luogo in cui il condannato ha finito di scontare la pena o del luogo in cui e' stato autorizzato a recarsi dall'Autorita' medesima.
 
 ### Art. 11.
 
-Nei casi preveduti nell'[articolo 33 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_33), il pubblico ministero, incaricato di promuovere l'esecuzione della sentenza di condanna, provoca, entro due mesi dalla sentenza stessa, trasmettendone copia si pretore competente, i provvedimenti di tutela e di cura che siano necessarii.
+Nei casi preveduti nell'[articolo 33 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il pubblico ministero, incaricato di promuovere l'esecuzione della sentenza di condanna, provoca, entro due mesi dalla sentenza stessa, trasmettendone copia si pretore competente, i provvedimenti di tutela e di cura che siano necessarii.
 
 ### Art. 12.
 
-Nel caso preveduto nel primo Capoverso dell'[articolo 42 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_42), provvede la corte, il tribunale o il pretore che pronunzio' la condanna. La corte e il tribunale procedono in camera di consiglio, sentito il pubblico ministero.
+Nel caso preveduto nel primo Capoverso dell'[articolo 42 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), provvede la corte, il tribunale o il pretore che pronunzio' la condanna. La corte e il tribunale procedono in camera di consiglio, sentito il pubblico ministero.
 
 ### Art. 13.
 
-Nel caso preveduto nel Capoverso dell'[articolo 46 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_46), la corte d'assise provvede, con ordinanza motivata, alla consegna dell'accusato prosciolto all'Autorita' di pubblica sicurezza, che lo fa ricoverare provvisoriamente in un manicomio, in istato di osservazione, sino a che non sia pronunziata la decisione preveduta l'articolo seguente. 
+Nel caso preveduto nel Capoverso dell'[articolo 46 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la corte d'assise provvede, con ordinanza motivata, alla consegna dell'accusato prosciolto all'Autorita' di pubblica sicurezza, che lo fa ricoverare provvisoriamente in un manicomio, in istato di osservazione, sino a che non sia pronunziata la decisione preveduta l'articolo seguente. 
  
  Le altre Autorita' giudiziarie provvedono con la stessa sentenza con la quale l'imputato e' prosciolto. 
  
@@ -130,15 +130,15 @@ Il presidente dal tribunale civile, nel cui circondario fu pronunziata l'ordinan
 
 ### Art. 15.
 
-La revocazione del provvedimente indicato nel Capoverso dell'[articolo 47 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_47) spetta al presidente del tribunale nel cui circondario fu pronunziata la condanna, sulla proposta del Consiglio di sorveglianza presso lo stabilimento nel quale il condannato si trova, e sulle conclusioni del pubblico ministero.
+La revocazione del provvedimente indicato nel Capoverso dell'[articolo 47 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) spetta al presidente del tribunale nel cui circondario fu pronunziata la condanna, sulla proposta del Consiglio di sorveglianza presso lo stabilimento nel quale il condannato si trova, e sulle conclusioni del pubblico ministero.
 
 ### Art. 16.
 
-La revocazione del provvedimento col quale fu ordinato il ricovero del minorenne o del sordomuto in un istituto di educazione e di correzione, secondo gli [articoli 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_54) e [58 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_58), spetta al presidente, del tribunale civile nel cui circondario fu dato il provvedimento stesso, che procede sulla istanza delle parti o anche di ufficio.
+La revocazione del provvedimento col quale fu ordinato il ricovero del minorenne o del sordomuto in un istituto di educazione e di correzione, secondo gli [articoli 54](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [58 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), spetta al presidente, del tribunale civile nel cui circondario fu dato il provvedimento stesso, che procede sulla istanza delle parti o anche di ufficio.
 
 ### Art. 17.
 
-Nel caso preveduto nella prima parte dell'[art. 58 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_58), rispetto al sordomuto maggiore dei 24 anni prosciolto dalla imputazione per mancanza di discernimento, si procede nel modo indicato nei precedenti articoli 13 e 14, e il ricovero e' fatto nello stabilimento designato dall'Autorita'.
+Nel caso preveduto nella prima parte dell'[art. 58 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), rispetto al sordomuto maggiore dei 24 anni prosciolto dalla imputazione per mancanza di discernimento, si procede nel modo indicato nei precedenti articoli 13 e 14, e il ricovero e' fatto nello stabilimento designato dall'Autorita'.
 
 ### Art. 18.
 
@@ -148,7 +148,7 @@ Per gli effetti degli articoli 3, 4 e 15 del presente decreto, presso gli stabil
 
 ### Art. 19.
 
-Speciali regolamenti approvati con Regio decreto, sulla proposta dei Ministri della Giustizia e dell'Interno, udito il Consiglio di Stato, stabiliscono le norme per il trattamento dei condannati alle pene dell'ergastolo, della reclusione, della detenzione e dell'arresto, rispetto alla disciplina, al vitto, al vestiario, al lavoro e alle mercedi, durante i vari periodi della pena, come pure per attuare le disposizioni del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e del presente decreto rispetto ai diversi modi di esecuzione della pena.
+Speciali regolamenti approvati con Regio decreto, sulla proposta dei Ministri della Giustizia e dell'Interno, udito il Consiglio di Stato, stabiliscono le norme per il trattamento dei condannati alle pene dell'ergastolo, della reclusione, della detenzione e dell'arresto, rispetto alla disciplina, al vitto, al vestiario, al lavoro e alle mercedi, durante i vari periodi della pena, come pure per attuare le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e del presente decreto rispetto ai diversi modi di esecuzione della pena.
 
 ## Disposizioni di coordinamento.
 
@@ -170,11 +170,11 @@ In tutti i casi e per gli effetti per i quali le leggi, i decreti, i regolamenti
 
 Quando le leggi, i decreti, i regolamenti, i trattati e le convenzioni internazionali parlano di «crimini» per distinguerli dai delitti, s'intendono per crimini i reati che importano le pene indicate nel numero 1° dell'articolo precedente. 
  
- Per determinare se un reato preveduto nelle leggi, nei decreti, nei regolamenti, nei trattati e nelle convenzioni internazionali sia un delitto ovvero una contravvenzione, non si deve aver riguardo alla pena, ma soltanto al carattere del reato, secondo la distinzione fatta nel [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) tra delitti e contravvenzioni.
+ Per determinare se un reato preveduto nelle leggi, nei decreti, nei regolamenti, nei trattati e nelle convenzioni internazionali sia un delitto ovvero una contravvenzione, non si deve aver riguardo alla pena, ma soltanto al carattere del reato, secondo la distinzione fatta nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) tra delitti e contravvenzioni.
 
 ### Art. 22.
 
-Quando nelle leggi, nei decreti, nei regolamenti, nei trattati e nelle convenzioni internazionali si parla di «pene restrittive della liberta' personale» o «individuale», ovvero di «pene corporali», e di una determinata loro durata, s'intendono richiamato quelle che il [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) comprende sotto la denominazione di «pene restrittive della liberta' personale», per la medesima durata. 
+Quando nelle leggi, nei decreti, nei regolamenti, nei trattati e nelle convenzioni internazionali si parla di «pene restrittive della liberta' personale» o «individuale», ovvero di «pene corporali», e di una determinata loro durata, s'intendono richiamato quelle che il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comprende sotto la denominazione di «pene restrittive della liberta' personale», per la medesima durata. 
  
  Ove sia comminata o richiamata una determinata specie di pena, si intende corrispondente: 
  
@@ -193,17 +193,17 @@ Quando nelle leggi, nei decreti, nei regolamenti, nei trattati e nelle convenzio
  
  Nel caso del numero 6°, se il reato per cui e' comminata la pena sia, per il suo carattere, una contravvenzione, al carcere s'intende corrispondente l'arresto non inferiore ai sei giorni. 
  
- Nei numeri dal 2° al 7°, la reclusione, la detenzione e l'arresto sono sostituiti alle pene corrispondenti per una uguale durata; e quanto all'arresto si puo' oltrepassare il massimo stabilito nel [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ Nei numeri dal 2° al 7°, la reclusione, la detenzione e l'arresto sono sostituiti alle pene corrispondenti per una uguale durata; e quanto all'arresto si puo' oltrepassare il massimo stabilito nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Alla pena di morte, comminata nel codice per la marina mercantile, e' sostituita la pena dell'ergastolo.
 
 ### Art. 23.
 
-Quando nelle leggi, nei decreti e nei regolamenti e' comminata la multa, senza che ne sia determinato l'ammontare, s'intende la multa stabilita nel [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), ma per una somma da lire cinquantuna a cinquemila; quando sia comminata l'ammenda, s'intende la multa o l'ammenda per una somma non superiore alle lire cinquanta.
+Quando nelle leggi, nei decreti e nei regolamenti e' comminata la multa, senza che ne sia determinato l'ammontare, s'intende la multa stabilita nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ma per una somma da lire cinquantuna a cinquemila; quando sia comminata l'ammenda, s'intende la multa o l'ammenda per una somma non superiore alle lire cinquanta.
 
 ### Art. 24.
 
-Quando nelle leggi, nei decreti, nei regolamenti, nei trattati e nelle convenzioni internazionali si parla di «sospensione dall'esercizio dei pubblici uffici», s'intende corrispondente l'interdizione temporanea dai pubblici ufficii; e quando si parla di «interdizione dai pubblici uffici», s'intende corrispondente l'interdizione perpetua dai pubblici ufficii, secondo il [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+Quando nelle leggi, nei decreti, nei regolamenti, nei trattati e nelle convenzioni internazionali si parla di «sospensione dall'esercizio dei pubblici uffici», s'intende corrispondente l'interdizione temporanea dai pubblici ufficii; e quando si parla di «interdizione dai pubblici uffici», s'intende corrispondente l'interdizione perpetua dai pubblici ufficii, secondo il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 25.
 
@@ -215,7 +215,7 @@ Quando nelle leggi, nei decreti, nei regolamenti, nei trattati e nelle convenzio
 
 ### Art. 27.
 
-Quando nelle leggi, nei decreti, nei regolamenti nei trattati e nelle convenzioni internazionali si fa richiamo a titoli o a disposizioni di leggi penali abrogate con la [legge 22 novembre 1888, n 5801](Con%20la%20quale%20il%20Governo%20del%20Re%20e%20autorizzato%20a%20pubblicare%20lallegato%20Codice%20penale%20per%20il%20Regno%20dItalia.%20088U5801.md) (serie 3ª), s'intendefatto il richiamo alle disposizioni corrispondenti del nuove [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e della nuova legge sulla pubblica sicurezza.
+Quando nelle leggi, nei decreti, nei regolamenti nei trattati e nelle convenzioni internazionali si fa richiamo a titoli o a disposizioni di leggi penali abrogate con la [legge 22 novembre 1888, n 5801](Con%20la%20quale%20il%20Governo%20del%20Re%20e%20autorizzato%20a%20pubblicare%20lallegato%20Codice%20penale%20per%20il%20Regno%20dItalia.%20088U5801.md) (serie 3ª), s'intendefatto il richiamo alle disposizioni corrispondenti del nuove [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e della nuova legge sulla pubblica sicurezza.
 
 ### Art. 28.
 
@@ -225,11 +225,11 @@ Le disposizioni degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:ni
  
  «1° dei delitti contro la sicurezza dello Stato, e di istigazione o provocazione a commetterli, anche avvenuta col mezzo della stampa, salvo che il Senato fosse stato costituito in alta corte di giustizia, ai termini dell'articolo 36 dello Statuto; 
  
- «2° dei delitti preveduti negli articoli dall'89 al 96 del testo unico della legge elettorale politica 22 gennaio 1882, approvato col regio decreto 24 settembre stesso anno, n. 999 (serie 3ª), negli articoli dal 92 al 99 del testo unico della legge comunale e provinciale 30 dicembre 1888, approvato col [regio decreto 10 febbraio 1889, n. 5921](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20089U5921.md) (serie 3ª), e nell'[articolo 139 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_139), e dell'istigazione a commettere tali delitti; 
+ «2° dei delitti preveduti negli articoli dall'89 al 96 del testo unico della legge elettorale politica 22 gennaio 1882, approvato col regio decreto 24 settembre stesso anno, n. 999 (serie 3ª), negli articoli dal 92 al 99 del testo unico della legge comunale e provinciale 30 dicembre 1888, approvato col [regio decreto 10 febbraio 1889, n. 5921](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20089U5921.md) (serie 3ª), e nell'[articolo 139 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e dell'istigazione a commettere tali delitti; 
  
  «3° dei delitti preveduti negli articoli 14, 15,16 e dal 18 al 24 della legge 26 marzo 1848, e negli articoli corrispondenti delle leggi sulla stampa pubblicate nelle provincie napoletane e siciliane; 
  
- «4° degli abusi dei ministri dei culti nell'esercizio delle proprie funzioni, preceduti negli [articoli 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_182) e [183 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_183); 
+ «4° degli abusi dei ministri dei culti nell'esercizio delle proprie funzioni, preceduti negli [articoli 182](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [183 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  «5° di ogni altro delitto per il quale la legge stabilisce la pena dell'ergastolo, ovvero un'altra pena restrittiva della liberta' personale non inferiore nel minimo ai cinque anni o superiore nel massimo ai dieci anni. Se il delitto sia di bancarotta fraudolenta, preveduta nell'articolo 861 del codice di commercio, la corte d'assise e' competente a conoscerne soltanto ove si tratti del casi piu' gravi.» 
  
@@ -239,7 +239,7 @@ Le disposizioni degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:ni
  
  «1° del delitti per i quali la legge stabilisce la pena della reclusione o della detenzione non superiore nel massimo ai tre mesi o del confino non superiore nel massimo ad un anno, ovvero della multa, sola o congiunta ad una di dette pene, non superiore nel massimo alle lire mille; 
  
- «2° delle contravvenzioni prevedute nel [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398); 
+ «2° delle contravvenzioni prevedute nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  «3° delle contravvenzioni prevedute in leggi speciali per le quali sia stabilita una pena restrittiva della libera' personale non superiore nel massimo ai due anni od una pena pecuniaria non superiore nel massimo alle lire duemila. 
  
@@ -258,7 +258,7 @@ Le disposizioni degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:ni
  
  «Se i reati siano della stessa gravezza e in ugual numero, o se nell'interesse della giustizia, o per riguardo ad altre circostanze, fosse piu' conveniente di deviare dalle norme sovra prescritte, gli ufficiali del pubblico ministero presso le rispettive corti trasmettono gli atti e i documenti col loro avviso alla corte di cassazione, la quale designa la corte che deve conoscerne. 
  
- «Ove si tratti di persona imputata di due o piu' reati gli uni di competenza ordinaria e gli altri di competenza speciale per ragione di materia o di persona, la corte e il tribunale speciale procedono distintamente al giudizio per i reati di loro rispettiva competenza, osservate per l'applicazione delle pene le norme stabilite da leggi speciali o in difetto dall'[articolo 76 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_76). Ove non sia per legge stabilito l'ordine di precedenza dei rispettivi giudizii, esso e' determinato dalla corte di cassazione, cui gli ufficiali del pubblico ministero devono trasmettere gli atti e i documenti col loro parere.» 
+ «Ove si tratti di persona imputata di due o piu' reati gli uni di competenza ordinaria e gli altri di competenza speciale per ragione di materia o di persona, la corte e il tribunale speciale procedono distintamente al giudizio per i reati di loro rispettiva competenza, osservate per l'applicazione delle pene le norme stabilite da leggi speciali o in difetto dall'[articolo 76 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Ove non sia per legge stabilito l'ordine di precedenza dei rispettivi giudizii, esso e' determinato dalla corte di cassazione, cui gli ufficiali del pubblico ministero devono trasmettere gli atti e i documenti col loro parere.» 
  
  «27. Se la stessa persona sia imputata di uno o piu' reati di competenza dei tribunali penali, commessi nel distretto di un tribunale, e di uno o piu' reati di competenza dei pretori, seguiti nello stesso distretto o in quello di altro tribunale, la cognizione di questi appartiene a quel tribunale nel cui distretto sono stati commessi i reati piu' gravi. 
  
@@ -266,35 +266,35 @@ Le disposizioni degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:ni
  
  «Nondimeno, la camera di consiglio o il giudice istruttore, se per la natura o il numero dei reati o per altre circostanze lo stimi conveniente, puo' rinviare l'imputato al pretore per i reati di sua competenza». 
  
- «34. Per i delitti pei quali, a' termini degli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_4) [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_5) e [6 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_6), si procede nel regno, e per la rinnovazione del giudizio ammessa nel Capoverso dell'articolo 7 del detto codice, il luogo del domicilio o quello dell'arresto o della consegna dell'imputato determina la competenza, e si fa luogo alla prevenzione. 
+ «34. Per i delitti pei quali, a' termini degli [articoli 4](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) [5](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [6 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si procede nel regno, e per la rinnovazione del giudizio ammessa nel Capoverso dell'articolo 7 del detto codice, il luogo del domicilio o quello dell'arresto o della consegna dell'imputato determina la competenza, e si fa luogo alla prevenzione. 
  
  «Nondimeno, la corte di cassazione, sulle domanda del pubblico ministero o delle altre parti, puo' rimettere la cognizione dell'affare alla corte o al tribunale piu' vicino al luogo in cui i delitti furono commessi». 
  
  «66. I predetti ufficiali devono parimenti ordinare e far eseguire l'arresto degli oziosi, dei vagabondi, dei mendicanti, di coloro che si trovano sottoposti alla vigilanza speciale dell'Autorita' di pubblica sicurezza, e delle persone indicate negli articoli 95 e 96 della legge sulla pubblica sicurezza, sempre che sovr'essi cada qualche indizio che abbiano commesso il reato». 
  
- «102. Nei casi preveduti nell'[articolo 439 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_439) e sotto la pena nel medesimo stabilita, il referto ivi prescritto deve farsi entro le ventiquattr'ore, o, se vi sia grave pericolo, immediatamente, al giudice incaricato dell'istruzione o a qualunque altro ufficiale di polizia giudiziaria del luogo ove si trova la persona offesa, o in loro mancanza all'ufficiale di polizia giudiziaria piu' vicino. 
+ «102. Nei casi preveduti nell'[articolo 439 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e sotto la pena nel medesimo stabilita, il referto ivi prescritto deve farsi entro le ventiquattr'ore, o, se vi sia grave pericolo, immediatamente, al giudice incaricato dell'istruzione o a qualunque altro ufficiale di polizia giudiziaria del luogo ove si trova la persona offesa, o in loro mancanza all'ufficiale di polizia giudiziaria piu' vicino. 
  
  «Nel referto si deve indicare il luogo ove trovasi l'offeso, e per quanto sia possibile, il nome, cognome e tutte le altre circostanze espresse nell'articolo 131 del presente codice. 
  
  «Ove il referto non possa essere fatto subito con giuramento, questo deve essere prestato al piu' presto possibile davanti l'istruttore o il pretore». 
  
- «105. Possono anche portare querela il marito per la moglie, l'ascendente per i discendenti minori sottoposti alla sua potesta', il tutore e il protutore per chi e' soggetto a tutela; salvo quanto dispone l'[articolo 356 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_356)». 
+ «105. Possono anche portare querela il marito per la moglie, l'ascendente per i discendenti minori sottoposti alla sua potesta', il tutore e il protutore per chi e' soggetto a tutela; salvo quanto dispone l'[articolo 356 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)». 
  
  «116. Nei reati per i quali l'azione penale non puo' esercitarsi che a querela di parte, l'ufficiale che ha ricevuto la querela deve avvertire la parte stessa del diritto che le compete di fare remissione, e del termine in cui questa puo' essere fatta». 
  
  «117. La remissione si fa nelle stesse forme della querela e davanti gli stessi ufficiali autorizzati a riceverla. 
  
- «La remissione puo' farsi in qualunque stato e grado di causa; salvo le disposizioni degli [articoli 336](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_336), [344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_344) e [358 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_358) 
+ «La remissione puo' farsi in qualunque stato e grado di causa; salvo le disposizioni degli [articoli 336](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [344](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [358 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 
  
  «Quando la remissione sia accettata, chi l'ha fatta e' obbligato a pagare le spese occorse. L'ordinanza o la sentenza con cui, per effetto della remissione, si dichiari non essere luogo a procedimento, porta la condanna di chi ha fatto la remissione al pagamento delle dette spese». 
  
- «133. Se il pericolo enunciato nel primo giudizio cessi o cresca, il perito ne da' avviso al giudice, e si procede ad una nuova relazione. Lo stesso ha luogo se il fatto imputato risulti accompagnato o seguito da alcuna delle circostanze aggravanti indicate nei numeri 1° e 2° del primo Capoverso dell'[articolo 372 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_372).» 
+ «133. Se il pericolo enunciato nel primo giudizio cessi o cresca, il perito ne da' avviso al giudice, e si procede ad una nuova relazione. Lo stesso ha luogo se il fatto imputato risulti accompagnato o seguito da alcuna delle circostanze aggravanti indicate nei numeri 1° e 2° del primo Capoverso dell'[articolo 372 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).» 
  
- «159. I periti che ricusino, senza giusti motivi, di prestare la loro opera e di dare il loro giudizio incorrono nelle pene portate dall'[articolo 210 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_210). Il giudice stende verbale del rifiuto, e lo comunica al procuratore del Re, per quelle istanze che giudichi convenienti.» 
+ «159. I periti che ricusino, senza giusti motivi, di prestare la loro opera e di dare il loro giudizio incorrono nelle pene portate dall'[articolo 210 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Il giudice stende verbale del rifiuto, e lo comunica al procuratore del Re, per quelle istanze che giudichi convenienti.» 
  
  «172. Fuori dei casi preveduti negli articoli 126, 128, 175 e 242, i testimoni sono sentiti senza giuramento. 
  
- «In tutti i casi, prima di ricevere le loro deposizioni, il giudice istruttore rammenta loro l'obbligo che hanno e come uomini e come cittadini di dire tutta la verita', e non altro che la verita', sui fatti che sono chiamati a deporre; e rammenta pure le pene stabilite contro i testimoni falsi o reticenti nell'[articolo 214 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_214). 
+ «In tutti i casi, prima di ricevere le loro deposizioni, il giudice istruttore rammenta loro l'obbligo che hanno e come uomini e come cittadini di dire tutta la verita', e non altro che la verita', sui fatti che sono chiamati a deporre; e rammenta pure le pene stabilite contro i testimoni falsi o reticenti nell'[articolo 214 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  «Indi li interroga sul loro nome, cognome, soprannome, sul nome del loro padre, sulla loro eta', patria, domicilio, stato, professione, sul valore dei loro beni, e anche se siano parenti, affini e in quale grado o se domestici, creditori o debitori dell'imputato o della parte offesa o danneggiata.» 
  
@@ -302,11 +302,11 @@ Le disposizioni degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:ni
  
  «Egli puo altresi', secondo i casi, condannarlo ad un'ammenda, come e' detto nell'articolo 176. 
  
- «Queste pene sono pronunziate nelle forme prescritte dallo stesso articolo; salvo le altre pene stabilite negli [articoli 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_210) e [289 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_289).» 
+ «Queste pene sono pronunziate nelle forme prescritte dallo stesso articolo; salvo le altre pene stabilite negli [articoli 210](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [289 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).» 
  
- «179. Se il testimone citato e comparso ricusi di deporre sopra i fatti di cui viene interrogato, il giudice lo avverte delle pene stabilite nell'[articolo 210 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_210). Se l'avvertimento rimanga inefficace, il giudice stende verbale, e puo' procedere contro di esso ai termini di legge. 
+ «179. Se il testimone citato e comparso ricusi di deporre sopra i fatti di cui viene interrogato, il giudice lo avverte delle pene stabilite nell'[articolo 210 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Se l'avvertimento rimanga inefficace, il giudice stende verbale, e puo' procedere contro di esso ai termini di legge. 
  
- «Se dai risultamenti dell'istruzione la deposizione di un testimone apparisca falsa, o se un testimone nella sua deposizione occulti la verita' sopra un fatto di cui consta dall'istruzione avere egli conoscenza, il giudice lo avverte di nuovo delle pene stabilite nell'[articolo 214 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_214); e, se l'avvertimento rimanga inefficace, ultimato il processo in cui il testimone siasi reso colpevole di falsita' o di reticenza, procede contro di esso nei modi di legge.» 
+ «Se dai risultamenti dell'istruzione la deposizione di un testimone apparisca falsa, o se un testimone nella sua deposizione occulti la verita' sopra un fatto di cui consta dall'istruzione avere egli conoscenza, il giudice lo avverte di nuovo delle pene stabilite nell'[articolo 214 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); e, se l'avvertimento rimanga inefficace, ultimato il processo in cui il testimone siasi reso colpevole di falsita' o di reticenza, procede contro di esso nei modi di legge.» 
  
  «182. Se trattisi di delitto per il quale la legge stabilisce la multa, il confino, ovvero la reclusione o la detenzione inferiore nel minimo ai tre anni, ovvero la interdizione dai pubblici ufficii, sola o congiunta ad una di dette pene, il giudice rilascia mandato di comparizione. 
  
@@ -314,11 +314,11 @@ Le disposizioni degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:ni
  
  «1° contro le persone indicate nel numero 1° dell'articolo 206 del presente codice e negli articoli 95 e 96 della legge sulla pubblica sicurezza, quando siano imputate di un delitto per il quale la legge stabilisce una pena superiore nel massimo ai tre mesi di reclusione o di detenzione; 
  
- «2° contro gli imputati di violenza, resistenza od oltraggio contro persone rivestite di pubblica autorita' o contro gli agenti della forza pubblica, ovvero di associazione per delinquere preveduta nell'[articolo 248 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_248); 
+ «2° contro gli imputati di violenza, resistenza od oltraggio contro persone rivestite di pubblica autorita' o contro gli agenti della forza pubblica, ovvero di associazione per delinquere preveduta nell'[articolo 248 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  «3° contro gli imputati di fabbricazione, introduzione nel regno, porto o detenzione di armi, gia' condannati per violenza o resistenza alle persone o agli agenti suindicati; 
  
- «4° contro gli imputati di furto, di rapina, di estorsione, di truffa, purche' la pena stabilita dalla legge sia superiore nel massimo ai tre mesi di reclusione o di detenzione, e contro gli imputati di alcuno fra i delitti preveduti nel primo Capoverso dell'articolo 202, nei numeri 1° e 2° dell'articolo 218, nell'articolo 257, nella prima parte dell'articolo 258, nel Capoverso dell'articolo 333 e nei Capoversi dell'[articolo 345 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_345); 
+ «4° contro gli imputati di furto, di rapina, di estorsione, di truffa, purche' la pena stabilita dalla legge sia superiore nel massimo ai tre mesi di reclusione o di detenzione, e contro gli imputati di alcuno fra i delitti preveduti nel primo Capoverso dell'articolo 202, nei numeri 1° e 2° dell'articolo 218, nell'articolo 257, nella prima parte dell'articolo 258, nel Capoverso dell'articolo 333 e nei Capoversi dell'[articolo 345 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  «5° contro gli stranieri imputati di un delitto commesso nel regno, per il quale la legge stabilisce una pena superiore nel massimo ai tre mesi di reclusione o di detenzione. 
  
@@ -334,11 +334,11 @@ Le disposizioni degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:ni
  
  «3° gli imputati di un delitto contro la sicurezza dello Stato, o di furto, ovvero di violenza o resistenza contro persone rivestite di pubblica autorita' o contro gli agenti della forza pubblica, quando si tratti di delitto per il quale la legge stabilisce una pena restrittiva della liberta' personale non inferiore nel minimo ai tre anni, tranne il caso di minori degli anni diciotto imputati di furto e non recidivi». 
  
- «224. Se l'imputato non si presenti in seguito alla citazione o intimazione fattagli, e' arrestato in forza di un mandato rilasciato dal giudice istruttore, dal relatore o dal giudice delegato, il quale pronunzia ad un tempo ordinanza per il pagamento della cauzione, o, se l'imputato sia stato dispensato dalla cauzione, lo condanna al pagamento di una multa sino a lire cinquecento, convertibile ai termini del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). Questa ordinanza e' notificata all'imputato, e al fidejussore». 
+ «224. Se l'imputato non si presenti in seguito alla citazione o intimazione fattagli, e' arrestato in forza di un mandato rilasciato dal giudice istruttore, dal relatore o dal giudice delegato, il quale pronunzia ad un tempo ordinanza per il pagamento della cauzione, o, se l'imputato sia stato dispensato dalla cauzione, lo condanna al pagamento di una multa sino a lire cinquecento, convertibile ai termini del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Questa ordinanza e' notificata all'imputato, e al fidejussore». 
  
  «228. Se l'imputato abbia obbedito agli ordini impostigli giusta l'articolo 213, sia comparso in tutti gli alti del processo, e, nel caso, di condanna ad una pena restrittiva della liberta' personale, si presenti per l'esecuzione della sentenza, entro cinque giorni dall'intimazione che gliene e' fatta, o entro quindici giorni dall'ingiunzione di cui nell'articolo 778 del presente codice, e, se nel caso preveduto nell'articolo 439, stasi costituito in carcere nel termine ivi prescritto, la cauzione, ove sia stata data da un fidejussore, e' a lui restituita e, ove sia stata data dall'imputato, gli e' pure restituita, salvoche' fosse gia' emanata contro di lui sentenza di condanna, nel qual caso la cauzione puo' essere ritenuta per il pagamento delle multe o ammende delle spese e dei danni dal reato». 
  
- «252. Qualora si tratti di alcuno fra i reati per i quali la legge stabilisce una pena restrittiva della liberta' personale non superiore nel massimo ai tre anni e nel minimo ai tre mesi, ovvero una pena pecuniaria non superiore nel massimo alle lire tremila, sola o congiunta a detta pena, la camera di consiglio puo' altresi' rinviare l'imputato innanzi al pretore, se riconosca che per lo stato di mente o per altre circostanze che diminuiscono la pena escluse le attenuanti prevedute nell'[articolo 59 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_59), ovvero per la tenuita' del reato, si possa far luogo rispetto a tutti gli imputati all'applicazione di una pena che non superi la competenza del pretore. 
+ «252. Qualora si tratti di alcuno fra i reati per i quali la legge stabilisce una pena restrittiva della liberta' personale non superiore nel massimo ai tre anni e nel minimo ai tre mesi, ovvero una pena pecuniaria non superiore nel massimo alle lire tremila, sola o congiunta a detta pena, la camera di consiglio puo' altresi' rinviare l'imputato innanzi al pretore, se riconosca che per lo stato di mente o per altre circostanze che diminuiscono la pena escluse le attenuanti prevedute nell'[articolo 59 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero per la tenuita' del reato, si possa far luogo rispetto a tutti gli imputati all'applicazione di una pena che non superi la competenza del pretore. 
  
  «Tale rinvio non ha luogo se non quando sia deliberato ad unanimita' di voti. 
  
@@ -358,7 +358,7 @@ Le disposizioni degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:ni
  
  «La camera di consiglio spedisce parimente, con la stessa ordinanza, mandato di cattura contro l'imputato di delitto per il quale la legge stabilisce la pena dell'ergastolo o un'altra pena ristrettiva della liberta' personale non inferiore nel minimo ai tre anni; il quale sia stato temporaneamente scarcerato per insufficienza di prove ai termini della sezione VIII e non abbia ottenuto la liberta' provvisoria in conformita' della sezione IX.» 
  
- «267. Ove siasi dichiarato non esser luogo a procedere contro un minore di anni quattordici o contro un sordomuto, imputato di un delitto che importi l'ergastolo o la reclusione, ovvero la detenzione non inferiore ad un anno, perche' non risulti che abbia agito con discernimento, il giudice istruttore o la camera di consiglio rinvia gli atti al procuratore generale, il quale promuove il provvedimento della seziono d'accusa, secondo gli [art. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_54) e [58 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_58). 
+ «267. Ove siasi dichiarato non esser luogo a procedere contro un minore di anni quattordici o contro un sordomuto, imputato di un delitto che importi l'ergastolo o la reclusione, ovvero la detenzione non inferiore ad un anno, perche' non risulti che abbia agito con discernimento, il giudice istruttore o la camera di consiglio rinvia gli atti al procuratore generale, il quale promuove il provvedimento della seziono d'accusa, secondo gli [art. 54](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [58 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  «271. La comparizione dell'imputato o dell'accusato e' prescritta con le distinzioni seguenti: 
  
@@ -374,11 +374,11 @@ Le disposizioni degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:ni
  
  «Coloro che non abbiano compiuto tale eta' o che non possano esercitare l'ufficio di perito non possono, sotto pena di nullita', essere assunti come testimoni, ne', rispettivamente, prestare ufficio di periti se non per semplici indicazioni o schiarimenti, e senza giuramento». 
  
- «299. Il giuramento e' prestato dai testimoni o periti stando in piedi alla presenza dei giudici, previa seria ammonizione che ad essi dal presidente o dal pretore e' fatta sull'importanza morale di un tale atto, sul vincolo religioso che i credenti con esso contraggono dinanzi a Dio, e sulle pene stabilite contro i colpevoli di falsa testimonianza o perizia o di reticenza negli [articoli 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_214) e [217 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_217). 
+ «299. Il giuramento e' prestato dai testimoni o periti stando in piedi alla presenza dei giudici, previa seria ammonizione che ad essi dal presidente o dal pretore e' fatta sull'importanza morale di un tale atto, sul vincolo religioso che i credenti con esso contraggono dinanzi a Dio, e sulle pene stabilite contro i colpevoli di falsa testimonianza o perizia o di reticenza negli [articoli 214](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [217 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  «Ai testimoni o periti, che dovessero essere sentiti senza giuramento, si fa l'ammonizione prescritta nel primo Capoverso dell'art 172.» 
  
- «326. Il cancelliere che spedisce copia di una sentenza prima che sia stata sottoscritta, come e' sopra stabilito, incorre in una multa non minore delle lire trecento, salvo, quando vi siano i caratteri del reato di falsita', l'applicazione della prima parte dell'[articolo 277 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_277). 
+ «326. Il cancelliere che spedisce copia di una sentenza prima che sia stata sottoscritta, come e' sopra stabilito, incorre in una multa non minore delle lire trecento, salvo, quando vi siano i caratteri del reato di falsita', l'applicazione della prima parte dell'[articolo 277 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  «Egli deve presentare ogni mese le minute delle sentenze al procuratore del Re, il quale, nel caso di contravvenzione alle disposizioni di questo articolo o del precedente, stende verbale accio' si proceda come di ragione.» 
  
@@ -504,7 +504,7 @@ Scorso il detto termine di ventiquattr'ore dalla notificazione, l'ordinanza di c
  
  «So il presidente non accolga le istanze delle parti, la corte delibera ai termini del numero 4° dell'articolo 281.» 
  
- «515. La corte, se il fatto di cui l'accusato e' stato dichiarato colpevole o convinto non costituisca reato a' termini della legge penale, ovvero se la risposta dei giurati sia stata negativa sulla questione di cui: nell'articolo 496, pronunzia non essersi fatto luogo a procedimento; salvo, ove occorra, l'applicazione della prima parte dell'[articolo 54 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_54), quanto al minore degli anni quattordici, o della prima parte dell'articolo 58, quanto al sordomuto. 
+ «515. La corte, se il fatto di cui l'accusato e' stato dichiarato colpevole o convinto non costituisca reato a' termini della legge penale, ovvero se la risposta dei giurati sia stata negativa sulla questione di cui: nell'articolo 496, pronunzia non essersi fatto luogo a procedimento; salvo, ove occorra, l'applicazione della prima parte dell'[articolo 54 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quanto al minore degli anni quattordici, o della prima parte dell'articolo 58, quanto al sordomuto. 
  
  «Parimente la corte pronunzia non farsi luogo a procedimento se l'azione penale sia prescritta, o in un altro modo estinta.» 
  
@@ -514,27 +514,27 @@ Scorso il detto termine di ventiquattr'ore dalla notificazione, l'ordinanza di c
  
  «586. L'esecuzione delle sentenze di condanna a pena restrittiva della liberta' personale, passate in giudicato, e' sospesa se il condannato si trovi in istato di demenza o di malattia grave.» 
  
- «594. Non effettuandosi dal condannato il pagamento della multa o ammenda, se egli sia insolvibile, si fa luogo all'applicazione della pena sussidiaria ai termini degli articoli 19 o 24 del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), anche quando nella sentenza di condanna siasi omesso di far cenno della pena sussidiaria. 
+ «594. Non effettuandosi dal condannato il pagamento della multa o ammenda, se egli sia insolvibile, si fa luogo all'applicazione della pena sussidiaria ai termini degli articoli 19 o 24 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), anche quando nella sentenza di condanna siasi omesso di far cenno della pena sussidiaria. 
  
  «A tale effetto il pubblico ministero presso la corte o il tribunale, o lo stesso pretore che ha proferita la sentenza, indirizza al comandante dei carabinieri reali una richiesta per l'arresto del condannato, tosto che abbia ricevuto dall'amministrazione incaricata delle riscossioni delle multe o ammende i documenti comprovanti l'insolvibilita' del condannato.» 
  
- «600. La sentenza di cui e' menziono nell'articolo precedente, e salvo il caso preveduto nel secondo Capoverso dell'articolo 544, e' parimenti esecutoria in cio' che riguarda il risarcimento dei danni, dopo il termine di trenta giorni dalla notificazione al condannato, e nelle forme stabilite negli articoli dal 573 al 583 del presente codice. Lo stesso ha luogo relativamente agli effetti civili di cui e' menzione nel [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), salvo cio' che e' prescritto negli ultimi due Capoversi dell'articolo 543 e nell'articolo 544 del presento codice.» 
+ «600. La sentenza di cui e' menziono nell'articolo precedente, e salvo il caso preveduto nel secondo Capoverso dell'articolo 544, e' parimenti esecutoria in cio' che riguarda il risarcimento dei danni, dopo il termine di trenta giorni dalla notificazione al condannato, e nelle forme stabilite negli articoli dal 573 al 583 del presente codice. Lo stesso ha luogo relativamente agli effetti civili di cui e' menzione nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo cio' che e' prescritto negli ultimi due Capoversi dell'articolo 543 e nell'articolo 544 del presento codice.» 
  
- «603. Gli ascendenti possono, relativamente alle offese che loro fossero recate dai loro discendenti o affini in linea retta ancorche' costituiscano un reato di azione pubblica, rimettere la meta' della pena restrittiva della liberta' personale non superiore ai cinque anni, o della pena pecuniaria pronunziata contro di essi. La stessa facolta' e' accordata al coniuge per le offeso della stessa natura recategli dall'altro conjuge, salvo il disposto dell'[articolo 358 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_358). 
+ «603. Gli ascendenti possono, relativamente alle offese che loro fossero recate dai loro discendenti o affini in linea retta ancorche' costituiscano un reato di azione pubblica, rimettere la meta' della pena restrittiva della liberta' personale non superiore ai cinque anni, o della pena pecuniaria pronunziata contro di essi. La stessa facolta' e' accordata al coniuge per le offeso della stessa natura recategli dall'altro conjuge, salvo il disposto dell'[articolo 358 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  «Ogni domanda a quest'effetto e' presentata al pretore, al tribunale o alla corte che ha pronunziato la condanna: vi si provvede sulle conclusioni del pubblico ministero in camera di consiglio.» 
  
  «635. Se la difesa degli imputati o accusati fosse trascurata, la corte o il tribunale puo', secondo i casi, e in via di disciplina, ammonire i difensori nominati; e in caso di recidiva puo' anche sospenderli dall'esercizio delle loro funzioni per un tempo non minore dei giorni quindici ne' maggiore dei tre mesi, salvo inoltre il rimborso delle speso che il ritardo avesse occasionato. 
  
- «Gli stessi provvedimenti, in via di disciplina, possono aver luogo contro gli avvocati e i procuratori, i quali nella loro arringhe o negli atti si allontanassero dal rispetto dovuto alla dignita' dei giudici, o in qualunque altro modo si rendessero riprensibili nell'esercizio del loro ministero; ferme le disposizioni dell'[articolo 398 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_398), e salvo a procedere nella forma ordinaria, se le mancanze costituiscano un reato speciale. 
+ «Gli stessi provvedimenti, in via di disciplina, possono aver luogo contro gli avvocati e i procuratori, i quali nella loro arringhe o negli atti si allontanassero dal rispetto dovuto alla dignita' dei giudici, o in qualunque altro modo si rendessero riprensibili nell'esercizio del loro ministero; ferme le disposizioni dell'[articolo 398 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e salvo a procedere nella forma ordinaria, se le mancanze costituiscano un reato speciale. 
  
  «Nel caso di sospensione pronunziata dal tribunale, il presidente ne informa la corte d'appello.» 
  
- «803. Le Autorita' e gli ufficiali sovra menzionati, sull'avviso ricevuto, o sulla notizia in altro modo acquistata di un atto arbitrario della natura di quelli preveduti dall'[articolo 145 e seguenti del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_145), devono trasferirsi immantinente sul luogo, e far rimettere in liberta' la persona detenuta o sequestrata, o, so venga allegato qualche motivo legale di detenzione, farla tradurre sull'istante avanti il giudice competente. 
+ «803. Le Autorita' e gli ufficiali sovra menzionati, sull'avviso ricevuto, o sulla notizia in altro modo acquistata di un atto arbitrario della natura di quelli preveduti dall'[articolo 145 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), devono trasferirsi immantinente sul luogo, e far rimettere in liberta' la persona detenuta o sequestrata, o, so venga allegato qualche motivo legale di detenzione, farla tradurre sull'istante avanti il giudice competente. 
  
  «Essi stendono verbale d'ogni cosa.» 
  
- «809. Nessun custode delle carceri puo', sotto la pena portata dell'articolo l50 del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), ricevere, ne' ritenere qualsiasi persona, se non in forza di un mandato di cattura, o di una sentenza di rinvio avanti la corte, o di una sentenza di condanna a pena restrittiva della liberta' personale che non sia il confino, o anche in seguito a ordine per iscritto di un'Autorita' legittima.» 
+ «809. Nessun custode delle carceri puo', sotto la pena portata dell'articolo l50 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ricevere, ne' ritenere qualsiasi persona, se non in forza di un mandato di cattura, o di una sentenza di rinvio avanti la corte, o di una sentenza di condanna a pena restrittiva della liberta' personale che non sia il confino, o anche in seguito a ordine per iscritto di un'Autorita' legittima.» 
  
  «830. L'amnistia si concede per decreto reale, sopra proposta del Ministro di grazia o giustizia, udito il Consiglio dei Ministri. 
  
@@ -582,7 +582,7 @@ Le disposizioni degli [articoli 5](Contenente%20alcune%20modificazioni%20allordi
  
  «2.° coloro che furono condannati per un delitto per il quale e' stabilita dalla legge la pena dell'interdizione perpetua dai pubblici ufficii, dell'ergastolo od un'altra pena restrittiva della liberta' personale non inferiore nel minimo ai tre anni, ancorche' per effetto di circostanze scusanti sia stata inflitta una pena di minore durata; 
  
- «3.° coloro che furono condannati per falsita' in monete o in carte di pubblico credito; per falsita' in sigilli, bolli pubblici e loro impronte, per falsita' in atti, passaporti, licenze, certificati, attestati, e dichiarazioni; per simulazione di reato, calunnia e falsita' in giudizio; per istigazione a delinquere, associazione per delinquere preveduta nell'[articolo 248 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_248), per violenza privata e minacce prevedute negli [articoli 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_154) e [156 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_156); per mendicita', oziosita', vagabondaggio; per furto, rapina, estorsione, truffa, appropriazione indebita, ricettazione di cose furtive, peculato, concussione; corruzione, contrabbando; per oltraggio al pudore, corruzione di minorenni, violenza carnale, lenocinio, atti di libidine violenti; per oltraggio, violenza o minaccia a giudici o giurati.» 
+ «3.° coloro che furono condannati per falsita' in monete o in carte di pubblico credito; per falsita' in sigilli, bolli pubblici e loro impronte, per falsita' in atti, passaporti, licenze, certificati, attestati, e dichiarazioni; per simulazione di reato, calunnia e falsita' in giudizio; per istigazione a delinquere, associazione per delinquere preveduta nell'[articolo 248 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per violenza privata e minacce prevedute negli [articoli 154](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [156 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); per mendicita', oziosita', vagabondaggio; per furto, rapina, estorsione, truffa, appropriazione indebita, ricettazione di cose furtive, peculato, concussione; corruzione, contrabbando; per oltraggio al pudore, corruzione di minorenni, violenza carnale, lenocinio, atti di libidine violenti; per oltraggio, violenza o minaccia a giudici o giurati.» 
  
  «Art. 6. Non possono essere assunti all'ufficio di giurato: 
  
@@ -602,7 +602,7 @@ Le disposizioni dell'[art. 1 del regio decreto 6 dicembre 1865, numero 2644](Sul
  
  «Art. 1.° E' istituito in ogni tribunale penale un casellario giudiziale, in cui sono conservate in estratto per le occorrenti ispezioni e certificazioni tutte le seguenti decisioni divenute irrevocabili, concernenti persone nate nel territorio soggetto alla giurisdizione del tribunale medesimo: 
  
- «1.° Le sentenze con le quali un imputato e' dichiarato colpevole di delitto o di contravvenzione, senza distinzione se siano proferite da giudizii penali ordinarii, militari o marittimi, purche' il reato sia preveduto nel [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) comune, e senza distinzione se siano proferite in contradittorio o in contumacia, eccettuate solo, in questo ultimo caso, quelle dei tribunali o dei pretori, alle quali si fosse fatta opposizione; 
+ «1.° Le sentenze con le quali un imputato e' dichiarato colpevole di delitto o di contravvenzione, senza distinzione se siano proferite da giudizii penali ordinarii, militari o marittimi, purche' il reato sia preveduto nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, e senza distinzione se siano proferite in contradittorio o in contumacia, eccettuate solo, in questo ultimo caso, quelle dei tribunali o dei pretori, alle quali si fosse fatta opposizione; 
  
  «2.° Le ordinanze e sentenze di non farsi luogo a procedimento, tranne quelle che furono proferite perche' il fatto non e' provato o non costituisce reato, e quelle per le quali sia stato pronunziato il provvedimento accennato nell'[articolo 604 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_604); 
  
@@ -630,9 +630,9 @@ Capo III.
 
 ### Art. 36.
 
-Nell'esecuzione delle condanne a pene non ammesse nel [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), osservano le norme seguenti: 
+Nell'esecuzione delle condanne a pene non ammesse nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), osservano le norme seguenti: 
  
- 1.° la pena di morte e quella dei lavori forzati a vita, secondo il «Alce penale del 1859, e la pena dell'ergastolo, secondo il [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) toscano, sono commutate nella pena dell'ergastolo stabilita nel nuovo codice; 
+ 1.° la pena di morte e quella dei lavori forzati a vita, secondo il «Alce penale del 1859, e la pena dell'ergastolo, secondo il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano, sono commutate nella pena dell'ergastolo stabilita nel nuovo codice; 
  
  2.° le pene dei lavori forzati a tempo e della reclusione, secondo il codice del 1859, e della casa di forza, secondo il codice toscano, sono commutate nella pena della reclusione stabilita nel nuovo codice. 
  

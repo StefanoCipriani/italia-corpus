@@ -26,11 +26,11 @@ E' concessa amnistia per i seguenti reati:
  
  a) reati di azione pubblica preveduti nel R. editto sulla stampa e nella [legge 6 maggio 1877, n. 3814](Che%20abroga%20lart.%2049%20della%20legge%20sullordinamento%20dei%20giurati%20e%20la%20prima%20parte%20dellart.%2010%20di%20quella%20sulla%20stampa%20e%20vi%20sostituisce%20altre%20disposizioni.%20077U3814.md); 
  
- b) reati preveduti dagli [articoli 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_125), [126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_126), [140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_140), [246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_246), [247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_247) e [251 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_251); 
+ b) reati preveduti dagli [articoli 125](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [126](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [140](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [246](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [247](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [251 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  c) reati elettorali, previsti dalla legge elettorale politica e dalla legge comunale e provinciale, esclusi i reati di corruzione di cui agli articoli 105 legge elettorale politica e 102 legge comunale e provinciale; 
  
- d) reati di esercizio arbitrario e di usurpazione ([art. 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_235), [422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_422) e [423 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_423)), determinati da pretese ragioni di usi civici; 
+ d) reati di esercizio arbitrario e di usurpazione ([art. 235](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [422](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [423 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)), determinati da pretese ragioni di usi civici; 
  
  e) reati preveduti negli [articoli 1](Sui%20reati%20commessi%20con%20materie%20esplodenti.%20094U0314.md) e [5 della legge 19 luglio 1894, n. 314](Sui%20reati%20commessi%20con%20materie%20esplodenti.%20094U0314.md), sulle materie esplodenti; 
  
@@ -42,11 +42,11 @@ E' concessa amnistia per i seguenti reati:
 
 E' pure concessa amnistia per i seguenti reati: 
  
- a) delitti di duello, preveduti dagli [articoli 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_237), [238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_238), [239 n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_239-num3), [241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_239-num241) e [244 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_239-num244); 
+ a) delitti di duello, preveduti dagli [articoli 237](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [238](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [239 n. 3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [241](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [244 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  b) furti semplici commessi su legna da ardere o su cose destinate all'alimentazione umana, quando il valore della cosa non superi le lire venti; 
  
- c) delitti previsti dall'[art. 375, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_375-num1) e [2 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_375-num2); 
+ c) delitti previsti dall'[art. 375, n. 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [2 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  d) per le contravvenzioni previste nei Codici, nelle leggi e nei regolamenti, purche' le pene ivi stabilite non superino i 30 giorni, se restrittive della liberta' personale, ovvero 300 lire se pecuniarie, oppure una pena restrittiva della liberta' personale ed insieme una pena pecuniaria, le quali nel complesso, convertendo quest'ultima a norma di legge, avrebbero una durata non superiore a 30 giorni. 
  
@@ -62,7 +62,7 @@ Sono condonate le pene inferiori a sei mesi, e ridotte di un terzo le pene super
 
 ## Art. 4.
 
-Nel caso di concorso di reati e di pene, l'amnistia si applica distintamente a ciascun reato. Indulto, invece, si applica una sola volta, dopo cumulate le pene, secondo le norme di cui agli [articoli 67 e seguenti del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_67).
+Nel caso di concorso di reati e di pene, l'amnistia si applica distintamente a ciascun reato. Indulto, invece, si applica una sola volta, dopo cumulate le pene, secondo le norme di cui agli [articoli 67 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 

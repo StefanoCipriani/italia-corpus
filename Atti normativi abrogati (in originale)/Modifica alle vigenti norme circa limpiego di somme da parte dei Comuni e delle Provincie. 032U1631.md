@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta la necessita' urgente ed assoluta di apportare alcune modificazioni al primo ed al quarto comma dell'art. 16 del testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175);
+Ritenuta la necessita' urgente ed assoluta di apportare alcune modificazioni al primo ed al quarto comma dell'art. 16 del testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -24,13 +24,13 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-Al [primo comma dell'art. 16 del R. decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175#art_16-com1), sono sostituiti i seguenti: 
+Al [primo comma dell'art. 16 del R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono sostituiti i seguenti: 
  «Le somme eccedenti i bisogni ordinari dei Comuni e delle Provincie debbono essere depositate, ad interesse, di regola presso la Cassa depositi e prestiti, le Casse di risparmio ordinarie, le Casse postali di risparmio, l'Istituto di emissione e gl'Istituti di credito di diritto pubblico. 
  «La Giunta provinciale amministrativa, sentito, l'Istituto di emissione, puo' autorizzare il deposito di dette somme anche presso altri Istituti di credito di notoria solidita'. La deliberazione della Giunta provinciale amministrativa deve essere omologata dal prefetto».
 
 ## Art. 2.
 
-Nel [quarto comma dell'art. 16 del R. decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175#art_16-com4), alle parole: «dei primi due comma» sono sostituite le seguenti: «del primo e del terzo comma». 
+Nel [quarto comma dell'art. 16 del R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), alle parole: «dei primi due comma» sono sostituite le seguenti: «del primo e del terzo comma». 
  Il presente decreto verra' presentato al Parlamento per la conversione in legge. 
  Il Capo del Governo, Ministro per l'interno, e' incaricato della presentazione del relativo disegno di legge. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 

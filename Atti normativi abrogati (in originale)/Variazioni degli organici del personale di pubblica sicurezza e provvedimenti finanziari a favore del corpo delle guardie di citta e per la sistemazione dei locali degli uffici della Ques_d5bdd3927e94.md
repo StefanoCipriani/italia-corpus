@@ -12,7 +12,7 @@ vigente: true
 
 La categoria degli agenti ausiliari di pubblica sicurezza e' soppressa; coloro che vi appartengono saranno collocati, secondo le loro attitudini, con le norme da stabilirsi nel regolamento, o nel personale degli ufficiali d'ordine di pubblica sicurezza o in quello delle guardie di citta'. 
  
- L'organico del personale d'ordine di pubblica sicurezza e' aumentato di 500 posti, come all'annessa tabella allegato H, i quali saranno conferiti agli agenti ausiliari dichiarati idonei, con deroga dal testo unico della legge sullo stato dei sottufficiali, approvato con [R. decreto 30 novembre 1902, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-11-30;521), e dalla [legge 2 giugno 1904, n. 217](Che%20porta%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali.%20004U0217.md), che modifica il testo unico precitato. 
+ L'organico del personale d'ordine di pubblica sicurezza e' aumentato di 500 posti, come all'annessa tabella allegato H, i quali saranno conferiti agli agenti ausiliari dichiarati idonei, con deroga dal testo unico della legge sullo stato dei sottufficiali, approvato con [R. decreto 30 novembre 1902, n. 521](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali.%20002U0521.md), e dalla [legge 2 giugno 1904, n. 217](Che%20porta%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali.%20004U0217.md), che modifica il testo unico precitato. 
  
  Alle tabelle E e F allegate alla [legge 8 luglio 1906, n. 318](Modificazioni%20ai%20ruoli%20organici%20dei%20funzionari%20di%20pubblica%20sicurezza%20e%20del%20corpo%20delle%20guardie%20di%20citta%20e%20miglioramenti%20economici%20006U0318.md), colle quali vennero stabiliti gli organici dei funzionari ed impiegati di pubblica sicurezza e delle guardie di citta', sono sostituite le tabelle G ed H allegate alla presente legge.
 
@@ -58,7 +58,7 @@ Ferme restando le disposizioni contenute nell'[art. 2 della legge 8 luglio 1906,
  
  Per provvedere all'applicazione del presente articolo e' autorizzata la maggiore spesa di L. 150,000. 
  
- La concessione di tali premi sara' fatta con le norme stabilite dal regolamento, approvato con [R. decreto 1° ottobre 1906, n. 558](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-10-01;558).
+ La concessione di tali premi sara' fatta con le norme stabilite dal regolamento, approvato con [R. decreto 1° ottobre 1906, n. 558](Portante%20la%20sostituzione%20di%20alcuni%20articoli%20del%20regolamento%2021%20maggio%201905%20n.%20232%20del%20corpo%20delle%20guardie%20di%20citta.%20006U0558.md).
 
 ### Art. 5.
 
@@ -74,7 +74,7 @@ Le disposizioni contenute nella presente legge avranno effetto dal primo del mes
 
 ### Art. 8.
 
-Il Governo del Re e' autorizzato ad apportare al [regolamento 30 aprile 1905, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1905-04-30;216), pei funzionari ed impiegati di pubblica sicurezza e relativi allegati, modificato col [R. decreto 8 settembre 1906, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-09-08;542) ed al [regolamento 21 maggio 1905, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1905-05-21;232), per il corpo delle guardie di citta' e relativi allegati, modificato col [R. decreto 1° ottobre 1906, n. 558](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-10-01;558), le modificazioni ed aggiunte, che saranno ritenute necessarie, ed e' altresi' autorizzato a riunire in testo unico tanto il regolamento per i funzionari ed impiegati di pubblica sicurezza, quanto quello per il corpo delle guardie di citta. 
+Il Governo del Re e' autorizzato ad apportare al [regolamento 30 aprile 1905, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1905-04-30;216), pei funzionari ed impiegati di pubblica sicurezza e relativi allegati, modificato col [R. decreto 8 settembre 1906, n. 542](Sostituzione%20di%20taluni%20articoli%20del%20regolamento%20per%20gli%20ufficiali%20ed%20impiegati%20di%20pubblica%20sicurezza.%20006U0542.md) ed al [regolamento 21 maggio 1905, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1905-05-21;232), per il corpo delle guardie di citta' e relativi allegati, modificato col [R. decreto 1° ottobre 1906, n. 558](Portante%20la%20sostituzione%20di%20alcuni%20articoli%20del%20regolamento%2021%20maggio%201905%20n.%20232%20del%20corpo%20delle%20guardie%20di%20citta.%20006U0558.md), le modificazioni ed aggiunte, che saranno ritenute necessarie, ed e' altresi' autorizzato a riunire in testo unico tanto il regolamento per i funzionari ed impiegati di pubblica sicurezza, quanto quello per il corpo delle guardie di citta. 
  
  E' pure autorizzato a riunire in testo unico le relative leggi. 
  

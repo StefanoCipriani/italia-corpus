@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il testo unico delle leggi sull'avanzamento approvato con [R. decreto 7 novembre 1929, n. 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-07;2007), e sue successive modificazioni;
+Visto il testo unico delle leggi sull'avanzamento approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e sue successive modificazioni;
 
 Ritenuta la necessita' assoluta ed urgente di modificare l'art. 62 del testo unico precitato;
 

@@ -16,9 +16,9 @@ Visto il decreto Ministeriale 8 luglio 1924 che approva il testo unico delle leg
 
 Visto il [decreto legislativo luogotenenziale 4 gennaio 1946, n. 5](Norme%20di%20attuazione%20dellAccordo%20stipulato%20l8%20marzo%201945%20tra%20il%20Governo%20italiano%20e%20lU.N.R.R.A.%20ed%20approvato%20con%20il%20decreto%20legislativo%20Luogotenenziale%2019%20marzo%201945%20n.%2079.md), e le successive modificazioni;
 
-Visto il [decreto-legge 11 marzo 1950, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1950-03-11;50), convertito, con modificazioni, nella [legge 9 maggio 1950, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-09;202), riguardante modificazioni in materia di imposte di fabbricazione, di imposte sul consumo e di dazi doganali;
+Visto il [decreto-legge 11 marzo 1950, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1950-03-11;50), convertito, con modificazioni, nella [legge 9 maggio 1950, n. 202](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto%20legge%2011%20marzo%201950%20n.%2050%20contenente%20modificazioni%20al%20regime%20fiscale%20degli%20oli%20minerali%20dei%20surrogati%20del%20caffe%20dello%20zucchero%20e%20degli%20altri%20prodotti%20zucc_1456cea2db14.md), riguardante modificazioni in materia di imposte di fabbricazione, di imposte sul consumo e di dazi doganali;
 
-Vista la [legge 25 luglio 1956, n. 924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-25;924), che esenta dall'imposta di fabbricazione un contingente annuo, limitatamente al triennio 1956, 1957 e 1958, di quintali 8000 di zucchero per la preparazione di uno speciale alimento per le api;
+Vista la [legge 25 luglio 1956, n. 924](Esenzione%20dallimposta%20di%20fabbricazione%20per%20un%20contingente%20annuo%20limitatamente%20al%20triennio%201956%201957%20e%201958%20di%20quintali%208000%20di%20zucchero%20da%20impiegare%20nella%20preparazione%20di%20uno%20speciale%20ali_02459e4eb8a0.md), che esenta dall'imposta di fabbricazione un contingente annuo, limitatamente al triennio 1956, 1957 e 1958, di quintali 8000 di zucchero per la preparazione di uno speciale alimento per le api;
 
 Ritenuta la straordinaria necessita' e l'urgenza di ridurre le misure dell'imposta di fabbricazione sullo zucchero, sul glucosio, sul maltosio e sugli altri prodotti zuccherini; di istituire un diritto erariale sul melasso destinato alla dezuccherazione e di esentare dall'imposta di fabbricazione i prodotti nazionali acquistati dall'Amministrazione per le Attivita' Assistenziali italiane e Internazionali e destinati a scopi assistenziali;
 
@@ -33,7 +33,7 @@ L'imposta di fabbricazione sullo zucchero e la corrispondente sovrimposta di con
 
 ## Art. 2.
 
-Il contingente di zucchero, stabilito dall'[art. 7 del decreto-legge 11 marzo 1950, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1950-03-11;50#art_7), convertito, con modificazioni, nella [legge 9 maggio 1950, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-09;202), da impiegare in ciascun esercizio finanziario nella produzione del latte condensato ottenuto con latte in tutto o in parte scremato, e' assoggettato all'imposta di fabbricazione od alla corrispondente sovrimposta di confine nelle misure di cui al secondo comma del precedente art. 1.
+Il contingente di zucchero, stabilito dall'[art. 7 del decreto-legge 11 marzo 1950, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1950-03-11;50#art_7), convertito, con modificazioni, nella [legge 9 maggio 1950, n. 202](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto%20legge%2011%20marzo%201950%20n.%2050%20contenente%20modificazioni%20al%20regime%20fiscale%20degli%20oli%20minerali%20dei%20surrogati%20del%20caffe%20dello%20zucchero%20e%20degli%20altri%20prodotti%20zucc_1456cea2db14.md), da impiegare in ciascun esercizio finanziario nella produzione del latte condensato ottenuto con latte in tutto o in parte scremato, e' assoggettato all'imposta di fabbricazione od alla corrispondente sovrimposta di confine nelle misure di cui al secondo comma del precedente art. 1.
  Restano in vigore le altre disposizioni di cui allo stesso art. 7 del sopracennato [decreto-legge 11 marzo 1950, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1950-03-11;50).
 
 ## Art. 3.
@@ -49,7 +49,7 @@ che nel consumo possano servire ad usi del glucosio: le stesse aliquote stabilit
 
 ## Art. 4.
 
-All'[art. 2 della legge 25 luglio 1956, n. 924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-25;924#art_2), le parole "gli zuccherifici autorizzati dal Ministero delle finanze" sono sostituite dalle parole "gli stabilimenti autorizzati dal Ministero delle finanze, d'intesa con il Ministero dell'agricoltura e delle foreste".
+All'[art. 2 della legge 25 luglio 1956, n. 924](Esenzione%20dallimposta%20di%20fabbricazione%20per%20un%20contingente%20annuo%20limitatamente%20al%20triennio%201956%201957%20e%201958%20di%20quintali%208000%20di%20zucchero%20da%20impiegare%20nella%20preparazione%20di%20uno%20speciale%20ali_02459e4eb8a0.md), le parole "gli zuccherifici autorizzati dal Ministero delle finanze" sono sostituite dalle parole "gli stabilimenti autorizzati dal Ministero delle finanze, d'intesa con il Ministero dell'agricoltura e delle foreste".
 
 ## Art. 5.
 
@@ -78,7 +78,7 @@ Le misure d'imposta stabilite dal presente decreto si applicano allo zucchero in
 
 ## Art. 10.
 
-Sono abrogati gli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1950-03-11;50#art_6) e [8 del decreto-legge 11 marzo 1950, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1950-03-11;50#art_8), convertito, con modificazioni, nella [legge 9 maggio 1950, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-09;202).
+Sono abrogati gli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1950-03-11;50#art_6) e [8 del decreto-legge 11 marzo 1950, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1950-03-11;50#art_8), convertito, con modificazioni, nella [legge 9 maggio 1950, n. 202](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto%20legge%2011%20marzo%201950%20n.%2050%20contenente%20modificazioni%20al%20regime%20fiscale%20degli%20oli%20minerali%20dei%20surrogati%20del%20caffe%20dello%20zucchero%20e%20degli%20altri%20prodotti%20zucc_1456cea2db14.md).
 
 ## Art. 11.
 

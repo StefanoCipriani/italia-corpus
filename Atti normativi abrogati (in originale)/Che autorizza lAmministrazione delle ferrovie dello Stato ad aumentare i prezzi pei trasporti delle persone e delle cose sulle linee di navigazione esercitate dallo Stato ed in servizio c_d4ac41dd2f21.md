@@ -12,7 +12,7 @@ vigente: true
 
 L'Amministrazione delle ferrovie dello Stato e' autorizzata: 
  
- a) ad elevare al duecento per cento gli aumenti dei prezzi in vigore sulle linee di navigazione esercitate dallo Stato per tutti i trasporti delle persone (esclusa la tassa di pontile) e delle cose - di cui l'articolo 13, comma c), della [legge 23 luglio 1914, n. 742, e l'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742#art_1), comma h), del Nostro decreto 18 maggio 1916, n. 689 - applicando il provvedimento anche ai trasporti per conto delle Amministrazioni dello Stato e dei militari e loro famiglie per conto proprio, compresi quei trasporti che finora ne furono esclusi; 
+ a) ad elevare al duecento per cento gli aumenti dei prezzi in vigore sulle linee di navigazione esercitate dallo Stato per tutti i trasporti delle persone (esclusa la tassa di pontile) e delle cose - di cui l'articolo 13, comma c), della [legge 23 luglio 1914, n. 742, e l'art. 1](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md), comma h), del Nostro decreto 18 maggio 1916, n. 689 - applicando il provvedimento anche ai trasporti per conto delle Amministrazioni dello Stato e dei militari e loro famiglie per conto proprio, compresi quei trasporti che finora ne furono esclusi; 
  
  b) ad estendere alle tasse ferroviarie pei trasporti eseguiti in servizio cumulativo ferroviario-marittimo con la Sardegna, l'aumento del quaranta per cento di cui l'art. 1, comma b), del Nostro decreto 12 settembre 1918, n. 1380.
 

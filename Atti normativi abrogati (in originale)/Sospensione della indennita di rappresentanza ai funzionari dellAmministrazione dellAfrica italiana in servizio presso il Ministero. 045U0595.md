@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-La corresponsioni della indennita', per spese di rappresentanza ai funzionari di gruppo A dell'Amministrazione dell'Africa italiana in servizio presso il Ministero, prevista dal [R. decreto 29 luglio 1927, n. 1531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1531), e' sospesa a decorrere dal primo giorno del mese successivo a quello della pubblicazione del presente decreto nella Gazzetta Ufficiale. 
+La corresponsioni della indennita', per spese di rappresentanza ai funzionari di gruppo A dell'Amministrazione dell'Africa italiana in servizio presso il Ministero, prevista dal [R. decreto 29 luglio 1927, n. 1531](Indennita%20di%20rappresentanza%20ai%20funzionari%20coloniali%20distaccati%20al%20Ministero%20delle%20colonie.%20027U1531.md), e' sospesa a decorrere dal primo giorno del mese successivo a quello della pubblicazione del presente decreto nella Gazzetta Ufficiale. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

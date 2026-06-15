@@ -181,7 +181,7 @@ Le disposizioni che regolano la misura del trattamento di missione e di trasferi
 
 Tutte le indennita', comunque denominate, commisurate ad una aliquota dell'indennita' di trasferta, restano stabilite nelle misure spettanti anteriormente alla data di entrata in vigore della presente legge.
  L'indennita' di cui all'[articolo 18 della legge 29 giugno 1951, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-06-29;489#art_18), per il personale dei ruoli centrali delle Amministrazioni dello Stato destinato a prestare servizio fuori della Capitale compete nella stessa misura prevista per i dipendenti senza carico di famiglia quando il dipendente, coniugato senza figli, non riscuota per il coniuge l'aggiunta di famiglia.
- Il diritto di opzione, di cui al [secondo comma dell'articolo 8 del decreto legislativo luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320#art_8-com2), non e' consentito nel caso di successive destinazioni da una ad altra sede di servizio fuori della Capitale.
+ Il diritto di opzione, di cui al [secondo comma dell'articolo 8 del decreto legislativo luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md), non e' consentito nel caso di successive destinazioni da una ad altra sede di servizio fuori della Capitale.
 
 ## Art. 25.
 

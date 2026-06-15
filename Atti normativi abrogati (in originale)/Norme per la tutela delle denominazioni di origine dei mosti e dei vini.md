@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 3 febbraio 1963, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;116), con la quale il Governo e' stato delegato ad emanare norme per la tutela delle denominazioni di origine dei mosti e dei fini;
+Vista la [legge 3 febbraio 1963, n. 116](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20la%20tutela%20della%20denominazione%20di%20origine%20dei%20mosti%20e%20dei%20vini.md), con la quale il Governo e' stato delegato ad emanare norme per la tutela delle denominazioni di origine dei mosti e dei fini;
 
 Sentito il Consiglio dei Ministri;
 
@@ -52,7 +52,7 @@ Le denominazioni di origine "controllate" sono riservate a vini che rispondono a
 
 Nei disciplinari di produzione di cui al precedente art. 4 saranno stabilite:
  a) la denominazione di origine del vino;
- b) la delimitazione della zona di produzione delle uve. Nella zona di produzione saranno compresi i territori che gia' in essa furono ammessi con decreti del Ministro per l'agricoltura e le foreste, in esecuzione della [legge 10 luglio 1930, n. 1164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-07-10;1164);
+ b) la delimitazione della zona di produzione delle uve. Nella zona di produzione saranno compresi i territori che gia' in essa furono ammessi con decreti del Ministro per l'agricoltura e le foreste, in esecuzione della [legge 10 luglio 1930, n. 1164](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20gennaio%201930%20n.%2062%20contenente%20disposizioni%20per%20la%20difesa%20dei%20vini%20tipici%20italiani.%20030U1164.md);
  c) le condizioni di produzione (caratteristiche naturali dell'ambiente, vitigni, pratiche di impianto e di coltivazione dei vigneti, produzione massima di uva per ettaro consentita, modalita' di preparazione anche per i vini speciali, pratiche correttive anche con uve, mosti o vini di altre zone di produzione eventualmente necessarie e limiti di dette correzioni);
  d) la resa massima dell'uva in mosto o in vino;
  e) le caratteristiche fisico-chimiche ed organolettiche che deve presentare il vino, nonche' la gradazione alcoolica minima naturale;
@@ -124,7 +124,7 @@ Il conduttore di un terreno vitato a coltura specializzata o promiscua, iscritto
  b) ubicazione dei terreni vitati da cui l'uva proviene e luogo di destinazione;
  c) nominativo ed indirizzo del conduttore e, nel caso che il prodotto sia stato ceduto, dell'acquirente e del destinatario;
  d) data di presentazione della denuncia.
- Coloro i quali sono soggetti all'obbligo della denuncia di produzione e delle giacenze di fino ai sensi del [decreto del Presidente della Repubblica 14 dicembre 1961, n. 1315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-14;1315), devono indicare, nella denuncia medesima e distintamente dagli altri prodotti, i quantitativi di vino a denominazione di origine "controllata" e "controllata e garantita", specificando, per ciascuno di detti vini, la corrispondente denominazione, il quantitativo di uva impiegato, nonche' gli estremi della denuncia di produzione delle uve e della relativa ricevuta cui detto quantitativo si riferisce.
+ Coloro i quali sono soggetti all'obbligo della denuncia di produzione e delle giacenze di fino ai sensi del [decreto del Presidente della Repubblica 14 dicembre 1961, n. 1315](../DPR/Norme%20di%20attuazione%20dellart.%208%20della%20legge%2018%20dicembre%201959%20n.%201079%20concernente%20labolizione%20dellimposta%20comunale%20di%20consumo%20sul%20vino.md), devono indicare, nella denuncia medesima e distintamente dagli altri prodotti, i quantitativi di vino a denominazione di origine "controllata" e "controllata e garantita", specificando, per ciascuno di detti vini, la corrispondente denominazione, il quantitativo di uva impiegato, nonche' gli estremi della denuncia di produzione delle uve e della relativa ricevuta cui detto quantitativo si riferisce.
 
 ### Art. 12.
 
@@ -217,7 +217,7 @@ Il Ministro per l'agricoltura e per le foreste, di concerto con il Ministro per 
  b) comprendano tanti soci che rappresentino non meno del 20 per cento dei produttori della zona e non meno del 20 per cento della produzione e della superficie complessiva dei vigneti - iscritti nell'albo di cui all'art. 10 - riguardante la corrispondente denominazione di origine, quando si tratti di vini diversi da quelli di cui alla lettera a);
  c) siano retti da statuti che consentano senza discriminazioni l'ammissione nel Consorzio di viticoltori, singoli o associati, industriali o commercianti interessati;
  d) garantiscano un efficace ed imparziale svolgimento delle funzioni di vigilanza.
- Ai funzionari dei Consorzi volontari, incaricati della vigilanza, e' riconosciuta la qualifica di agenti di polizia giudiziaria, agli effetti del [regio decreto-legge 13 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-13;2033), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562) e successive modificazioni e integrazioni, limitatamente alla parte che riguarda la cui tutela i Consorzi medesimi sono costituiti.
+ Ai funzionari dei Consorzi volontari, incaricati della vigilanza, e' riconosciuta la qualifica di agenti di polizia giudiziaria, agli effetti del [regio decreto-legge 13 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-13;2033), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md) e successive modificazioni e integrazioni, limitatamente alla parte che riguarda la cui tutela i Consorzi medesimi sono costituiti.
  Restano in ogni caso salvi i poteri di vigilanza spettanti al Ministero dell'agricoltura e delle foreste ed alle altre pubbliche Amministrazioni, in base all'ordinamento vigente.
 
 ### Art. 22.
@@ -254,7 +254,7 @@ Gli agenti, ivi compresi quelli dei Consorzi di cui all'art. 21 del presente dec
 
 Chiunque produce, vende o comunque fa commercio dei prodotti di cui al presente decreto, e' tenuto a fornire, dovunque i prodotti si trovino, campioni a richiesta degli ufficiali e agenti incaricati.
  Detti campioni saranno prelevati dagli ufficiali e agenti sopra indicati in numero di almeno cinque per ogni controllo, di cui due saranno consegnati al produttore o commerciante.
- Per quanto concerne il prelevamento dei campioni, la esecuzione delle analisi ed ogni altra attivita' necessaria per l'esercizio della vigilanza per la esecuzione del presente decreto, si osservano, in quanto applicabili, le disposizioni contenute nel [regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562), e nel relativo regolamento approvato con [regio decreto 1 luglio 1926, n. 1361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1361), e loro successive modificazioni ed integrazioni.
+ Per quanto concerne il prelevamento dei campioni, la esecuzione delle analisi ed ogni altra attivita' necessaria per l'esercizio della vigilanza per la esecuzione del presente decreto, si osservano, in quanto applicabili, le disposizioni contenute nel [regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e nel relativo regolamento approvato con [regio decreto 1 luglio 1926, n. 1361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1361), e loro successive modificazioni ed integrazioni.
 
 ### Art. 27.
 
@@ -312,7 +312,7 @@ La condanna per alcuno dei delitti previsti dal presente decreto importa la pubb
 ### Art. 39.
 
 Trascorsi 180 giorni dalla data di pubblicazione del disciplinare di produzione di ciascun vino, e' vietato nel commercio, nella propaganda e nella pubblicita' del vino stesso:
- a) qualificare "classico" il vino a cui tale qualifica non sia stata riconosciuta dai decreti ministeriali di attuazione della [legge 10 luglio 1930, n. 1164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-07-10;1164), o dai decreti del Presidente della Repubblica di cui all'art. 4 del presente decreto;
+ a) qualificare "classico" il vino a cui tale qualifica non sia stata riconosciuta dai decreti ministeriali di attuazione della [legge 10 luglio 1930, n. 1164](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20gennaio%201930%20n.%2062%20contenente%20disposizioni%20per%20la%20difesa%20dei%20vini%20tipici%20italiani.%20030U1164.md), o dai decreti del Presidente della Repubblica di cui all'art. 4 del presente decreto;
  b) impiegare nella denominazione di un vino e del rispettivo territorio qualifiche o termini come "disciplinato", o e regolamentato", o "controllato", o "garantito", o "delimitato" e simili, se non per il prodotto cui dette qualifiche spettino in forza del presente decreto o dei relativi disciplinari di produzione di cui al precedente art. 11. La violazione delle disposizioni di cui alla lettera a) del presente articolo e' punita con la multa da lire 10.000 a lire 50.000 per ogni quintale o frazione di quintale del prodotto detenuto o venduto.
 
 ## DISPOSIZIONI FINALI
@@ -325,7 +325,7 @@ Le norme del presente decreto si applicano anche ai mosti.
 
 ### Art. 41.
 
-Le norme del presente decreto si applicano ai vini "Moscato Passito di Pantelleria" e "Marsala" ove noi contrastino con quelle contenute nella [legge 4 novembre 1950, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-11-04;1068), nella [legge 4 novembre 1950, n. 1069](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-11-04;1069) e relativo regolamento di esecuzione, approvato con [decreto del Presidente della Repubblica 20 ottobre 1961, n. 1644](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%204%20novembre%201950%20n.%201069%20recante%20norme%20relative%20al%20territorio%20di%20produzione%20ed%20alle%20caratteristiche%20dei%20vini%20tipici%20denominati%20Marsala.md).
+Le norme del presente decreto si applicano ai vini "Moscato Passito di Pantelleria" e "Marsala" ove noi contrastino con quelle contenute nella [legge 4 novembre 1950, n. 1068](Norme%20relative%20al%20territorio%20di%20produzione%20ed%20alle%20caratteristiche%20del%20vino%20tipico%20denominato%20Moscato%20di%20Pantelleria.md), nella [legge 4 novembre 1950, n. 1069](Norme%20relative%20al%20territorio%20di%20produzione%20ed%20alle%20caratteristiche%20dei%20vini%20tipici%20denominati%20Marsala.md) e relativo regolamento di esecuzione, approvato con [decreto del Presidente della Repubblica 20 ottobre 1961, n. 1644](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%204%20novembre%201950%20n.%201069%20recante%20norme%20relative%20al%20territorio%20di%20produzione%20ed%20alle%20caratteristiche%20dei%20vini%20tipici%20denominati%20Marsala.md).
 
 ### Art. 42.
 

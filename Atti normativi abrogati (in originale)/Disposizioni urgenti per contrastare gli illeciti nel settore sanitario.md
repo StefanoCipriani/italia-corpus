@@ -51,14 +51,14 @@ La violazione delle disposizioni previste dall'[articolo 15 del decreto legislat
 
 1.
 
-All'[articolo 640 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_640) dopo il secondo comma e', inserito il seguente:
+All'[articolo 640 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) dopo il secondo comma e', inserito il seguente:
  "Se il fatto e' commesso a danno del Servizio sanitario nazionale da professionisti sanitari dipendenti dal medesimo Servizio o con esso convenzionati, ovvero responsabili di strutture sanitarie accreditate per l'erogazione di prestazioni clinico-diagnostiche, la pena pecuniaria di cui al secondo comma e' decuplicata. E' sempre ordinata la confisca delle cose che servirono o furono destinate a commettere il reato o delle cose che ne sono il prodotto o il profitto. Il provvedimento che definisce il giudizio deve essere comunicato al competente ordine o collegio professionale di appartenenza che, valutati gli atti, dispone la radiazione dalla professione del responsabile.".
 
 ## Art. 4. — Attivita' ispettive
 
 1.
 
-Ferme restando le disposizioni di cui all'[articolo 8 del decreto legislativo 30 giugno 1993, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;266#art_8), con decreto del Ministro della salute, di concerto con il Ministro per la funzione pubblica e con il Ministro dell'economia e delle finanze, e' individuato presso il Ministero della salute, senza oneri aggiuntivi a carico del bilancio dello Stato, un corpo di specialisti appartenenti ai ruoli del medesimo Ministero che, anche su segnalazione delle regioni, possono coadiuvare i carabinieri del Comando carabinieri per la sanita' nello svolgimento dell'attivita' di controllo finalizzata al rispetto dei Livelli Essenziali di Assistenza ed il Corpo della guardia di finanza nella prevenzione e nell'accertamento delle violazioni economiche e finanziarie a danno del Servizio sanitario nazionale, nonche' nella verifica della corretta rappresentazione dei DRG (Diagnosis Related Groups) alle regioni da parte degli ospedali pubblici, accreditati o comunque finanziati dal Servizio sanitario nazionale.
+Ferme restando le disposizioni di cui all'[articolo 8 del decreto legislativo 30 giugno 1993, n. 266](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), con decreto del Ministro della salute, di concerto con il Ministro per la funzione pubblica e con il Ministro dell'economia e delle finanze, e' individuato presso il Ministero della salute, senza oneri aggiuntivi a carico del bilancio dello Stato, un corpo di specialisti appartenenti ai ruoli del medesimo Ministero che, anche su segnalazione delle regioni, possono coadiuvare i carabinieri del Comando carabinieri per la sanita' nello svolgimento dell'attivita' di controllo finalizzata al rispetto dei Livelli Essenziali di Assistenza ed il Corpo della guardia di finanza nella prevenzione e nell'accertamento delle violazioni economiche e finanziarie a danno del Servizio sanitario nazionale, nonche' nella verifica della corretta rappresentazione dei DRG (Diagnosis Related Groups) alle regioni da parte degli ospedali pubblici, accreditati o comunque finanziati dal Servizio sanitario nazionale.
 
 ## Art. 5. — Norme procedimentali in materia disciplinare
 
@@ -70,7 +70,7 @@ Entro il termine di 180 giorni dalla data di entrata in vigore del presente decr
 
 1.
 
-All'[articolo 7 della legge 11 novembre 1975, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-11-11;584#art_7), come sostituito dal [comma 20 dell'articolo 52 della legge 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448#art_52-com20), sono apportate le seguenti modificazioni:
+All'[articolo 7 della legge 11 novembre 1975, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-11-11;584#art_7), come sostituito dal [comma 20 dell'articolo 52 della legge 28 dicembre 2001, n. 448](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: "da euro 25 a euro 250" sono sostituite dalle seguenti: "da euro 50 a euro 500";
                         b)

@@ -16,9 +16,9 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee, approvate con [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni ed aggiunte, nonche' il relativo regolamento approvato col decreto 6 aprile 1922, n. 547, successivamente modificato:
+Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee, approvate con [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni ed aggiunte, nonche' il relativo regolamento approvato col decreto 6 aprile 1922, n. 547, successivamente modificato:
 
-Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1313#art_1), successivamente modificato;
+Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), successivamente modificato;
 
 Sentito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, di conc
 
 ## Art. 1.
 
-Alle merci ammesse alla importazione temporanea per essere lavorate, giusta la tabella 1° annessa al [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sono aggiunte le seguenti: 
+Alle merci ammesse alla importazione temporanea per essere lavorate, giusta la tabella 1° annessa al [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), sono aggiunte le seguenti: 
  
  Tabella 
  
@@ -68,13 +68,13 @@ a) rame elettrolitico: per la fabbricazione di ossido rosso e nero in polvere.
  
  La concessione e' valevole fino al 30 giugno 1938. 
  
- ([R. decreto-legge 11 maggio 1924, n. 809](Modificazioni%20ed%20aggiunte%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20024U0809.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473)); 
+ ([R. decreto-legge 11 maggio 1924, n. 809](Modificazioni%20ed%20aggiunte%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20024U0809.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md)); 
  
 b) acciaio in barre: per la fabbricazione di falci. 
  
  La concessione e' valevole fino al 30 giugno 1939. 
  
- ([R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473)); 
+ ([R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md)); 
  
  c) alluminio in lingotti ed in pani: per la fabbricazione di: 1°) scatole e capsule a vite, per la industria dei profumi, cosmetici e medicinali; 2°) dischi di protezione per tappi corona. 
  

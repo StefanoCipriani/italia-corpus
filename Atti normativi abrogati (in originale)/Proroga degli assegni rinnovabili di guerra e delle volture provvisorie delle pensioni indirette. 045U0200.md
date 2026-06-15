@@ -26,7 +26,7 @@ Sulla proposta del Ministro per il tesoro; Abbiamo sanzionato e promulghiamo qua
 
 ## Art. 1.
 
-La proroga degli assegni rinnovabili di guerra consentita, ai sensi dell'[art. 1, comma secondo, del R. decreto-legge 13 novembre 1919, n. 2232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2232#art_1-com2), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), per non oltre un anno dalla scadenza dell'assegno, e' protratta per tutta la durata dello stato di guerra e fino a sei mesi dopo la sua cessazione. 
+La proroga degli assegni rinnovabili di guerra consentita, ai sensi dell'[art. 1, comma secondo, del R. decreto-legge 13 novembre 1919, n. 2232](Che%20proroga%20il%20termine%20per%20gli%20accertamenti%20sanitari%20riguardanti%20militari%20provvisti%20di%20assegno%20rinnovabile.%20019U2232.md), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), per non oltre un anno dalla scadenza dell'assegno, e' protratta per tutta la durata dello stato di guerra e fino a sei mesi dopo la sua cessazione. 
  
  Gli Uffici provinciali del tesoro continueranno a corrispondere gli assegni rinnovabili, segnandone la variazione sul certificato di iscrizione, sino a che non sia compiuto il procedimento per la nuova valutazione della invalidita'. 
  

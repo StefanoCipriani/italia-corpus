@@ -28,13 +28,13 @@ Sulla proposta del ministro segretario di Stato per l'istruzione pubblica, di co
 
 ## Art. 1.
 
-Gl'insegnanti delle scuole elementari amministrate dai Consigli scolastici o dai Comuni sono assunti nel ruolo col grado di straordinari; sono promossi ordinari dopo un triennio alle condizioni prescritte dall'art. 10 del testo unico approvato col [R. decreto 21 ottobre 1903, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-10-21;431). 
+Gl'insegnanti delle scuole elementari amministrate dai Consigli scolastici o dai Comuni sono assunti nel ruolo col grado di straordinari; sono promossi ordinari dopo un triennio alle condizioni prescritte dall'art. 10 del testo unico approvato col [R. decreto 21 ottobre 1903, n. 431](Che%20approva%20il%20regolamento%20per%20la%20nomina%20e%20il%20licenziamento%20dei%20maestri.%20003U0431.md). 
  
  Gli stipendi degl'insegnanti straordinari o ordinari sono stabiliti dalla tabella A, annessa al presente decreto.
 
 ## Art. 2.
 
-Gl'insegnanti dei ruoli provinciali e comunali, e quelli di cui all'art. 25 del testo unico approvato col [R. decreto 21 ottobre 1903, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-10-21;431), hanno diritto, oltre allo stipendio, a una indennita' di residenza nella misura indicata dalla tabella B, annessa al presente decreto. 
+Gl'insegnanti dei ruoli provinciali e comunali, e quelli di cui all'art. 25 del testo unico approvato col [R. decreto 21 ottobre 1903, n. 431](Che%20approva%20il%20regolamento%20per%20la%20nomina%20e%20il%20licenziamento%20dei%20maestri.%20003U0431.md), hanno diritto, oltre allo stipendio, a una indennita' di residenza nella misura indicata dalla tabella B, annessa al presente decreto. 
  
  L'indennita' si considera come parte integrante dello stipendio attribuito all'insegnante anche agli effetti della pensione.
 
@@ -44,7 +44,7 @@ La maggiore spesa che i Comuni, i quali conservino l'amministrazione delle scuol
 
 ## Art. 4.
 
-Sono abrogati gli [articoli 2 della legge 11 aprile 1886, n. 3798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-04-11;3798#art_2), e 27 del testo unico approvato col R. decreto 21 ottobre 1903, numero
+Sono abrogati gli [articoli 2 della legge 11 aprile 1886, n. 3798](Che%20eleva%20gli%20stipendi%20dei%20maestri%20elementari%20proporzionalmente%20al%20minimo%20fissato%20dallunita%20tabella.%20086U3798.md), e 27 del testo unico approvato col R. decreto 21 ottobre 1903, numero
 
 431.
 
@@ -58,7 +58,7 @@ Con altro decreto saranno stabilite le condizioni e le norme per la formazione d
 
 ## Art. 6.
 
-I Comuni che conservano l'amministrazione delle scuole e i corpi morali di cui all'art. 3 devono corrispondere ai loro insegnanti, decorrere dal 1° maggio 1919, l'aumento minimo di stipendio in ragione di L. 1200 annue, concesso dal [decreto Luogotenenziale 19 giugno 1919, n. 973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-19;973), ai maestri inscritti nei ruoli provinciali a termini dell'[art. 43 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_43), salvo liquidazione definitiva, quando sia stato pubblicato il decreto di cui all'art. 5.
+I Comuni che conservano l'amministrazione delle scuole e i corpi morali di cui all'art. 3 devono corrispondere ai loro insegnanti, decorrere dal 1° maggio 1919, l'aumento minimo di stipendio in ragione di L. 1200 annue, concesso dal [decreto Luogotenenziale 19 giugno 1919, n. 973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-19;973), ai maestri inscritti nei ruoli provinciali a termini dell'[art. 43 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), salvo liquidazione definitiva, quando sia stato pubblicato il decreto di cui all'art. 5.
 
 ## Art. 7.
 

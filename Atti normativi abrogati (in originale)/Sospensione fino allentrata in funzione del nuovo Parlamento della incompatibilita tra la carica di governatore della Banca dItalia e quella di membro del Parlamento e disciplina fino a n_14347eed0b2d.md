@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico di legge approvato con [R. decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204);
 
-Visto lo statuto della Banca d'Italia approvato con [R. decreto 11 giugno 1936, n. 1067](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-06-11;1067);
+Visto lo statuto della Banca d'Italia approvato con [R. decreto 11 giugno 1936, n. 1067](Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -48,7 +48,7 @@ Sono esclusi dai poteri del governatore quelli inerenti alla presidenza dell'Ist
 
 ## Art. 5.
 
-Il Consorzio per sovvenzioni su valori industriali cessa di costituire una Sezione autonoma dell'istituto Mobiliare Italiano (I.M.I.) rimanendo cosi' abrogata la disposizione contenuta nel [primo comma dell'art. 3 del R. decreto-legge 12 marzo 1936, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;376#art_3-com1).
+Il Consorzio per sovvenzioni su valori industriali cessa di costituire una Sezione autonoma dell'istituto Mobiliare Italiano (I.M.I.) rimanendo cosi' abrogata la disposizione contenuta nel [primo comma dell'art. 3 del R. decreto-legge 12 marzo 1936, n. 376](Esercizio%20del%20credito%20mobiliare%20da%20parte%20di%20istituti%20di%20diritto%20pubblico.%20036U0376.md).
 
 ## Art. 6.
 

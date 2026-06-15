@@ -26,7 +26,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-L'Amministrazione della Cassa depositi e prestiti e' autorizzata a registrare i contratti di mutuo agli impiegati e salariati dello Stato, stipulati in esecuzione della [legge 16 dicembre 1914, n. 1362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1362), senza la esibizione della copia dei singoli contratti all'Ufficio del registro competente, ma in base alla semplice presentazione di un elenco riassuntivo del contenuto dei contratti medesimi, previa registrazione di un contratto tipo, al quale devono conformarsi esattamente tutti i contratti successivi.
+L'Amministrazione della Cassa depositi e prestiti e' autorizzata a registrare i contratti di mutuo agli impiegati e salariati dello Stato, stipulati in esecuzione della [legge 16 dicembre 1914, n. 1362](Sulla%20cedibilita%20degli%20stipendi%20degli%20impiegati%20e%20delle%20mercedi%20degli%20operai%20dipendenti%20dallo%20Stato.%20014U1362.md), senza la esibizione della copia dei singoli contratti all'Ufficio del registro competente, ma in base alla semplice presentazione di un elenco riassuntivo del contenuto dei contratti medesimi, previa registrazione di un contratto tipo, al quale devono conformarsi esattamente tutti i contratti successivi.
 
 ## Art. 2.
 

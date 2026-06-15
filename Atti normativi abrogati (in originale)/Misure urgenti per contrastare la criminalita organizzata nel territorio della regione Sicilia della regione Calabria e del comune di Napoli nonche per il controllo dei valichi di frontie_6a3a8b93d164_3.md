@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto-legge 25 luglio 1992, n. 349](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-23;386);
+Visto il [decreto-legge 25 luglio 1992, n. 349](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20luglio%201992%20n.%20349%20recante%20misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di utilizzare contingenti di Forze armate in operazioni di polizia per contrastare la criminalita' organizzata nel territorio della regione Sicilia, della regione Calabria e del comune di Napoli per la tutela di specifici obiettivi di lotta alla criminalita' organizzata, nonche' per il controllo dei valichi di frontiera nella regione Friuli-Venezia Giulia, al fine di conseguire un piu' diffuso controllo dell'ordine pubblico e di garantire la sicurezza dei cittadini;
 
@@ -26,7 +26,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Le disposizioni previste dall'[articolo 1](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md) e dall'[articolo 3, comma 1, del decreto-legge 25 luglio 1992, n. 349](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-23;386), continuano ad applicarsi nelle province della Sicilia a decorrere dal 1 gennaio 1994.
+Le disposizioni previste dall'[articolo 1](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md) e dall'[articolo 3, comma 1, del decreto-legge 25 luglio 1992, n. 349](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20luglio%201992%20n.%20349%20recante%20misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), continuano ad applicarsi nelle province della Sicilia a decorrere dal 1 gennaio 1994.
 
 2.
 

@@ -30,7 +30,7 @@ Alla tabella delle aliquote dell'addizionale governativo al dazio di consumo, an
  
 
  | | Comune di | | |______________________| | Unita' | 1ª o 2ª | 3ª o 4ª | | | classe | classe | | | Lire | Lire | |_____________|____________|_________| | | | | Vino ......................... | Ettolitro | 25 - | 20 - | Vini fini in bottiglie ....... | Una | 0.50 | 0.50 | Alcool, acquavite e liquori | | | | in fusti fino a 250 | | | | dell'alcoolometro di Gay - | | | | Lussac ...................... | Ettolitro | 25 - | 20 - | Id. id. da 26° a 30° id. id. | " | 50 - | 40 - | Id. id. da 51° a 75° id. id. | " | 75 - | 60 - | Id. id. oltre 75° id. id. | " | 100 - | 80 - | Alcool, acquavite e liquori in | | | | bottiglie ................... | Una | 1 - | 1 - | Birra .........................| Ettolitro | 15 - | 15 - | 
- Per i generi designati nella nota (2), alla tariffa massima dei dazi annessa al [R. decreto 24 settembre 1923 n. 2030](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2030), esclusa l'uva secca, il detto addizionale e' dovuto nelle stesse proporzioni ivi fissate in confronto alla voce «vino».
+ Per i generi designati nella nota (2), alla tariffa massima dei dazi annessa al [R. decreto 24 settembre 1923 n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), esclusa l'uva secca, il detto addizionale e' dovuto nelle stesse proporzioni ivi fissate in confronto alla voce «vino».
 
 ## Art. 2.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'art. 19 del regolamento per l'officina governativa delle carte valori, approvato col [R. decreto 18 novembre 1909, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-11-18;755), e' modificato come segue: 
+L'art. 19 del regolamento per l'officina governativa delle carte valori, approvato col [R. decreto 18 novembre 1909, n. 755](Che%20approva%20lannesso%20regolamento%20per%20i%20servizi%20ed%20il%20personale%20dellofficina%20governativa%20delle%20carte-valori%20009U0755.md), e' modificato come segue: 
  
  «La durata normale della giornata di lavoro utile per l'officina delle carte valori, per l'annessovi magazzino centrale e per gli uffici di controllo all'officina, al magazzino ed alle cartiere e' di nove ore. Tale durata potra', pero', essere prolungata dal Ministero del tesoro, quando le esigenze del servizio lo richiedano. 
  
@@ -33,7 +33,7 @@ Pero', nei casi di eccezionale urgenza in cui si verifichi la necessita' di ripa
 
 ## Art. 2.
 
-L'articolo 25 del regolamento per la R. zecca approvato col [R. decreto 6 gennaio 1910, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-01-06;4), e' modificato come segue: 
+L'articolo 25 del regolamento per la R. zecca approvato col [R. decreto 6 gennaio 1910, n. 4](Che%20approva%20lannesso%20regolamento%20sui%20servizi%20e%20sul%20funzionamento%20della%20R.%20Zecca.%20010U0004.md), e' modificato come segue: 
  
  «L'orario di lavorazione e' continuativo per la durata di otto ore, che il direttore potra' prolungare in caso di bisogno. 
  

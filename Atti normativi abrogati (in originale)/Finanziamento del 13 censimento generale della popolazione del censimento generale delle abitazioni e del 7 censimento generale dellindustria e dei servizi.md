@@ -33,7 +33,7 @@ Le date e le norme di esecuzione dei censimenti di cui al comma 1 sono stabilite
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, comma 3, del testo unico approvato con 
  [decreto del Presidente della Repubblica 28 dicembre 1985, 
- n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle 
+ n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge alle quali e' operato il rinvio. 
  Restano invariati il valore e l'efficacia degli atti 
  legislativi qui trascritti.
@@ -55,7 +55,7 @@ Nota all'art. 1:
 
 1.
 
-Per far fronte a tutte le spese per l'esecuzione dei censimenti di cui all'articolo 1, e' autorizzata la spesa di lire 446.200 milioni, da assegnare all'Istituto nazionale di statistica (ISTAT), che provvede ad eseguire i censimenti ai sensi del [decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322).
+Per far fronte a tutte le spese per l'esecuzione dei censimenti di cui all'articolo 1, e' autorizzata la spesa di lire 446.200 milioni, da assegnare all'Istituto nazionale di statistica (ISTAT), che provvede ad eseguire i censimenti ai sensi del [decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md).
 
 2.
 
@@ -66,7 +66,7 @@ Per l'attuazione della presente legge sono estese all'Istituto nazionale di stat
 La spesa di cui al comma 1 e' iscritta nello stato di previsione del Ministero del tesoro in ragione di lire 262.000 milioni per l'anno finanziario 1991 e di lire 184.200 milioni per l'anno finanziario 1992.
 
 Note all'[art. 2:
- - Il D.Lgs. 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_2), reca: "Norme sul Sistema statistico nazionale di statistica, ai sensi dell'[art. 24 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_24)".
+ - Il D.Lgs. 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), reca: "Norme sul Sistema statistico nazionale di statistica, ai sensi dell'[art. 24 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_24)".
  - Il testo del [primo comma dell'art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;539#art_2-com1) e del [terzo comma dell'art. 5 della legge 13 luglio 1966, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;539#art_5-com3) (Nuovo ordinamento dell'Istituto Poligrafico dello Stato), e' il seguente:
  "Art. 2, primo comma. - L'Istituto Poligrafico dello Stato ha per compiti la produzione e la fornitura della carta, delle carte valori, degli stampati, delle pubblicazioni e dei prodotti cartotecnici per il fabbisogno delle Amministrazioni dello Stato".
  "Art. 5, terzo comma. - Per le ordinazioni conferite all'Istituto per le esigenze dell'Amministrazione statale non e' richiesta la stipula di contratto formale, ne' e' dovuto il pagamento della imposta di registro e della tassa di bollo e sulle concessioni governative".
@@ -109,7 +109,7 @@ Le somme di cui ai commi 1 e 3 dell'articolo 3 sono distribuite ai comuni e alle
 
 1.
 
-Le amministrazioni comunali, ai sensi di quanto disposto dall'[articolo 15 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-08-23;395#art_15), e dal relativo contratto di comparto, incrementano il fondo di incentivazione di cui all'articolo 14 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13, destinando ad esso una quota pari all'80 per cento del rimborso forfettario di cui al comma 1 dell'articolo 3, definito in base alle norme stabilite dalla commissione prevista dall'articolo 5.
+Le amministrazioni comunali, ai sensi di quanto disposto dall'[articolo 15 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20intercompartimentale%20di%20cui%20allart.%2012%20della%20legge-quadro%20sul%20pubblico%20impiego%2029%20marzo%201983%20n.%2093%20relativo%20al%20triennio%201988-90.md), e dal relativo contratto di comparto, incrementano il fondo di incentivazione di cui all'articolo 14 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13, destinando ad esso una quota pari all'80 per cento del rimborso forfettario di cui al comma 1 dell'articolo 3, definito in base alle norme stabilite dalla commissione prevista dall'articolo 5.
 
 2.
 
@@ -154,16 +154,16 @@ Le modalita' e i tempi per l'esecuzione delle operazioni di cui al comma 2 del p
 
 1.
 
-Il segreto sui dati e sulle notizie raccolti in occasione dei censimenti e' tutelato ai sensi degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_8) e [9 del decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_9), fatto salvo quanto disposto dall'articolo 11 della presente legge.
+Il segreto sui dati e sulle notizie raccolti in occasione dei censimenti e' tutelato ai sensi degli [articoli 8](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md) e [9 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), fatto salvo quanto disposto dall'articolo 11 della presente legge.
 
 2.
 
-I rilevatori ed i coordinatori sono vincolati al segreto d'ufficio ai sensi dell'[articolo 8 del decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_8), e, in quanto incaricati di un pubblico servizio, al divieto di cui all'[articolo 326 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_326).
+I rilevatori ed i coordinatori sono vincolati al segreto d'ufficio ai sensi dell'[articolo 8 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), e, in quanto incaricati di un pubblico servizio, al divieto di cui all'[articolo 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 Nota all'art. 9:
- - Il testo degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_8) e [9 del D.Lgs. 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_9) (Norme sul Sistema statistico nazionale e sulla riorganizzazione dell'Istituto nazionale di statistica, ai sensi dell'[art. 24 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_24)), e' il seguente:
+ - Il testo degli [articoli 8](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md) e [9 del D.Lgs. 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md) (Norme sul Sistema statistico nazionale e sulla riorganizzazione dell'Istituto nazionale di statistica, ai sensi dell'[art. 24 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_24)), e' il seguente:
  "Art. 8 (Segreto di ufficio degli addetti agli uffici di statistica). - 1. Le norme in materia di segreto d'ufficio previste dal vigente ordinamento dell'impiego civile dello Stato si applicano a tutti gli addetti agli uffici di statistica previsti dagli articoli 3, 4 e 5.
- 2. Resta fermo il disposto dell'[art. 15 del decreto del Presidente della Repubblica 2 novembre 1976, n. 784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-11-02;784#art_15).
+ 2. Resta fermo il disposto dell'[art. 15 del decreto del Presidente della Repubblica 2 novembre 1976, n. 784](../DPR/Modificazioni%20e%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2029%20settembre%201973%20n.%20605%20e%20successive%20modificazioni%20concernente%20disposizioni%20relative%20allanagrafe%20tributaria%20e%20al%20c_41a9a5474e04.md).
  Art. 9 (Disposizioni per la tutela del segreto statistico). - 1. I dati raccolti nell'ambito di rilevazioni statistiche comprese nel programma statistico nazionale da parte degli uffici di statistica non possono essere esternati se non in forma aggregata, in modo che non se ne possa trarre alcun riferimento individuale, e possono essere utilizzati solo per scopi statistici.
  2. I dati di cui al comma 1 non possono essere comunicati, se non in forma aggregata sulla base di dati individuali non nominativi, ad alcun soggetto esterno, pubblico o privato, ne' ad alcun ufficio della pubblica amministrazione.
  3. In casi eccezionali, l'organo responsabile dell'amministrazione nella quale e' inserito l'ufficio di statistica puo', sentito il comitato di cui all'art. 17, chiedere al Presidente del Consiglio dei Ministri l'autorizzazione ad estendere il segreto statistico anche a dati aggregati.
@@ -177,10 +177,10 @@ E' fatto obbligo alle persone fisiche ed ai legali rappresentanti delle persone 
 
 2.
 
-Coloro che non forniscano i dati e le notizie richiesti, ovvero li forniscano scientemente errati o incompleti, sono soggetti alle sanzioni amministrative pecuniarie previste dall'[articolo 11 del decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_11).
+Coloro che non forniscano i dati e le notizie richiesti, ovvero li forniscano scientemente errati o incompleti, sono soggetti alle sanzioni amministrative pecuniarie previste dall'[articolo 11 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md).
 
 Nota all'art. 10:
- - Il testo dell'[art. 11 del D.Lgs. 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_11) (Norme sul Sistema statistico nazionale e sulla riorganizzazione dell'Istituto nazionale di statistica, ai sensi dell'[art. 24 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_24)), e' il seguente:
+ - Il testo dell'[art. 11 del D.Lgs. 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md) (Norme sul Sistema statistico nazionale e sulla riorganizzazione dell'Istituto nazionale di statistica, ai sensi dell'[art. 24 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_24)), e' il seguente:
  "Art. 11 (Sanzioni amministrative). - 1. Sanzioni amministrative pecuniarie, di cui all'art. 7, sono stabilite:
  a) nella misura minima di lire quattrocentomila e massima di lire quattromilioni per le violazioni da parte di persone fisiche;
  b) nella misura minima di lire un milione e massima di lire diecimilioni per le violazioni da parte di enti e societa'.
@@ -195,28 +195,28 @@ L'Istituto nazionale di statistica fornisce agli uffici di statistica delle regi
 
 2.
 
-L'Istituto nazionale di statistica fornisce i dati di cui al comma 1, alle stesse condizioni e con le stesse modalita', agli uffici di statistica delle camere di commercio, industria, artigianato ed agricoltura che, costituiti ai sensi e per gli effetti del [decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322), conservano la natura e le attribuzioni degli uffici provinciali di statistica precedentemente operanti presso le camere di commercio medesime.
+L'Istituto nazionale di statistica fornisce i dati di cui al comma 1, alle stesse condizioni e con le stesse modalita', agli uffici di statistica delle camere di commercio, industria, artigianato ed agricoltura che, costituiti ai sensi e per gli effetti del [decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), conservano la natura e le attribuzioni degli uffici provinciali di statistica precedentemente operanti presso le camere di commercio medesime.
 
 3.
 
-I dati di cui ai commi 1 e 2 devono essere utilizzati nell'osservanza delle norme di cui agli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_8) e [9 del decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_9).
+I dati di cui ai commi 1 e 2 devono essere utilizzati nell'osservanza delle norme di cui agli [articoli 8](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md) e [9 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md).
 
 4.
 
 Le modalita' per la fornitura, la conservazione e l'utilizzazione dei dati saranno disciplinate nel regolamento di cui al comma 3 dell'articolo 1.
 
 Nota all'art. 11:
- - Per il titolo ed il testo degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_8) e [9 del D.Lgs. 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322#art_9), si veda in nota all'art. 9.
+ - Per il titolo ed il testo degli [articoli 8](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md) e [9 del D.Lgs. 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), si veda in nota all'art. 9.
 
 ## Art. 12.
 
 1.
 
-I comuni, in conformita' a quanto disposto dall'articolo 46 del regolamento di esecuzione della [legge 24 dicembre 1954, n. 1228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-24;1228), sull'ordinamento delle anagrafi della popolazione residente, approvato con [decreto del Presidente della Repubblica 30 maggio 1989, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1989-05-30;223), effettuano la revisione dell'anagrafe della popolazione residente sulla base delle notizie, raccolte con apposito modello inserito sul questionario del censimento generale della popolazione, riguardanti il cognome, il nome, il sesso, il luogo, la data di nascita e il comune di residenza. Le istruzioni per l'anzidetta revisione vengono impartite dall'Istituto nazionale di statistica, d'intesa con il Ministero dell'interno.
+I comuni, in conformita' a quanto disposto dall'articolo 46 del regolamento di esecuzione della [legge 24 dicembre 1954, n. 1228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-24;1228), sull'ordinamento delle anagrafi della popolazione residente, approvato con [decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), effettuano la revisione dell'anagrafe della popolazione residente sulla base delle notizie, raccolte con apposito modello inserito sul questionario del censimento generale della popolazione, riguardanti il cognome, il nome, il sesso, il luogo, la data di nascita e il comune di residenza. Le istruzioni per l'anzidetta revisione vengono impartite dall'Istituto nazionale di statistica, d'intesa con il Ministero dell'interno.
 
 Note all'[art. 12:
  - La legge 24 dicembre 1954, n. 1228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-24;1228#art_12), reca: "Ordinamento delle anagrafi della popolazione residente".
- - Il testo dell'[art. 46 del D.P.R. 30 maggio 1989, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1989-05-30;223#art_46) (Approvazione del nuovo regolamento anagrafico della popolazione residente), e' il seguente:
+ - Il testo dell'[art. 46 del D.P.R. 30 maggio 1989, n. 223](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md) (Approvazione del nuovo regolamento anagrafico della popolazione residente), e' il seguente:
  "Art. 46 (Revisione delle anagrafi). - 1. A seguito di ogni censimento generale della popolazione, i comuni devono provvedere alla revisione dell'anagrafe al fine di accertare la corrispondenza quantitativa e qualitativa di essa con le risultanze del censimento.
  2. La documentazione desunta dai censimenti per la revisione delle anagrafi e' soggetta alle norme che tutelano la riservatezza dei dati censuari.
  3. La revisione viene effettuata secondo modalita' tecniche stabilite nell'occasione dall'Istituto centrale di statistica.

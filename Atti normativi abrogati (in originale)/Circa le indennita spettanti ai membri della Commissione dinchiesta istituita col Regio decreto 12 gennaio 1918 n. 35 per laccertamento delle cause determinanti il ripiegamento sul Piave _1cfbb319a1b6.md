@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Ai membri della Commissione d'inchiesta istituita con [R. decreto 12 gennaio 1918, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1918-01-12;35), che, per ragione del loro ufficio debbano trasferirsi in luogo diverso da quello della loro ordinaria residenza saranno rimborsate le spese di viaggio e sara' corrisposta - in luogo di qualsiasi altra indennita' che per tale servizio, potesse loro competere una diaria di lire venticinque, unicamente per i giorni di viaggio e di soggiorno fuori della residenza, anche quando essi dovessero recarsi nel territorio dichiarato zona di operazioni. 
+Ai membri della Commissione d'inchiesta istituita con [R. decreto 12 gennaio 1918, n. 35](Che%20istituisce%20una%20Commissione%20dinchiesta%20per%20laccertamento%20delle%20cause%20e%20delle%20eventuali%20responsabilita%20degli%20avvenimenti%20militari%20determinanti%20il%20ripiegamento%20sul%20Piave.%20018U0035.md), che, per ragione del loro ufficio debbano trasferirsi in luogo diverso da quello della loro ordinaria residenza saranno rimborsate le spese di viaggio e sara' corrisposta - in luogo di qualsiasi altra indennita' che per tale servizio, potesse loro competere una diaria di lire venticinque, unicamente per i giorni di viaggio e di soggiorno fuori della residenza, anche quando essi dovessero recarsi nel territorio dichiarato zona di operazioni. 
  
  Quando la Commissione tiene le sue sedute in Roma, la detta indennita' non spetta ai membri del Parlamento mentre spetta, anche in tale citta', agli altri membri che abbiano la loro ordinaria sede altrove.
 
@@ -26,7 +26,7 @@ Le spese di cui agli articoli precedenti e tutte le altre occorrenti per il funz
 
 ## Art. 4.
 
-Le disposizioni del presente decreto avranno effetto dalla stessa data in cui e' entrato in vigore il [R. decreto 12 gennaio 1918, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1918-01-12;35). 
+Le disposizioni del presente decreto avranno effetto dalla stessa data in cui e' entrato in vigore il [R. decreto 12 gennaio 1918, n. 35](Che%20istituisce%20una%20Commissione%20dinchiesta%20per%20laccertamento%20delle%20cause%20e%20delle%20eventuali%20responsabilita%20degli%20avvenimenti%20militari%20determinanti%20il%20ripiegamento%20sul%20Piave.%20018U0035.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

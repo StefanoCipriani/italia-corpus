@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 gennaio 1929, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-31;224), con cui si autorizza il Ministro per le colonie a variare gli elenchi delle opere pubbliche della Tripolitania e della Cirenaica di cui agli allegati A e B al [R. decreto-legge 7 giugno 1928, n. 1280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-07;1280). 
+ E' convertito in legge il [R. decreto-legge 31 gennaio 1929, n. 224](Autorizzazione%20al%20Ministro%20per%20le%20colonie%20a%20variare%20gli%20elenchi%20delle%20opere%20pubbliche%20della%20Tripolitania%20e%20della%20Cirenaica%20di%20cui%20agli%20allegati%20A%20e%20B%20al%20R.%20decreto-legge%207%20giugno%201928%20n.%20_310fb97f04c6.md), con cui si autorizza il Ministro per le colonie a variare gli elenchi delle opere pubbliche della Tripolitania e della Cirenaica di cui agli allegati A e B al [R. decreto-legge 7 giugno 1928, n. 1280](Contrattazione%20di%20un%20mutuo%20di%20lire%20100%20milioni%20col%20Consorzio%20di%20credito%20per%20le%20opere%20pubbliche%20per%20lavori%20da%20eseguire%20in%20Tripolitania%20ed%20in%20Cirenaica.%20028U1280.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

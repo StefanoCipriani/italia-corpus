@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 settembre 1931, n. 1161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-14;1161), riguardante provvedimenti in materia di tassa di scambio e di dazi doganali sui prodotti dell'industria cotoniera. 
+ E' convertito in legge il [R. decreto-legge 14 settembre 1931, n. 1161](Provvedimenti%20in%20materia%20di%20tassa%20di%20scambio%20e%20di%20dazi%20doganali%20sui%20prodotti%20dellindustria%20cotoniera.%20031U1161.md), riguardante provvedimenti in materia di tassa di scambio e di dazi doganali sui prodotti dell'industria cotoniera. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

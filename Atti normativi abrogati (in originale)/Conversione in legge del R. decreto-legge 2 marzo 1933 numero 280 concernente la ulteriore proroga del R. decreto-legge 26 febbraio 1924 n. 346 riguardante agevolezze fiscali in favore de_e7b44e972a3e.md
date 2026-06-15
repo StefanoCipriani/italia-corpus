@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 marzo 1933, numero 280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-02;280), concernente la ulteriore proroga del [R. decreto-legge 26 febbraio 1924, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-02-26;346), riguardante agevolezze fiscali in favore dell'industria estrattiva carbonifera dell'Istria. 
+ E' convertito in legge il [R. decreto-legge 2 marzo 1933, numero 280](Ulteriore%20proroga%20del%20R.%20decreto-legge%2026%20febbraio%201924%20n.%20346%20concernente%20agevolezze%20fiscali%20in%20favore%20dellindustria%20estrattiva%20carbonifera%20dellIstria.%20033U0280.md), concernente la ulteriore proroga del [R. decreto-legge 26 febbraio 1924, n. 346](Agevolezze%20fiscali%20per%20lindustria%20estrattiva%20del%20carbone%20nellIstria.%20024U0346.md), riguardante agevolezze fiscali in favore dell'industria estrattiva carbonifera dell'Istria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

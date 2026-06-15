@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1634), concernente l'ordinamento delle scuole di ostetricia. 
+ E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1634](Ordinamento%20delle%20Scuole%20di%20ostetricia.%20027U1634.md), concernente l'ordinamento delle scuole di ostetricia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

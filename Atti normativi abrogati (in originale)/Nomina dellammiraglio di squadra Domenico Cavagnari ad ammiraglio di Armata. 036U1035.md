@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Vista la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), sull'ordinamento della Regia marina, e successive modificazioni;
 
-Visto il testo unico sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-07;2007), e successive modificazioni;
+Visto il testo unico sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e successive modificazioni;
 
 Vista la [legge 6 giugno 1935, n. 1280](Nuovi%20organici%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20035U1280.md), riguardante gli organici degli ufficiali della Regia marina;
 

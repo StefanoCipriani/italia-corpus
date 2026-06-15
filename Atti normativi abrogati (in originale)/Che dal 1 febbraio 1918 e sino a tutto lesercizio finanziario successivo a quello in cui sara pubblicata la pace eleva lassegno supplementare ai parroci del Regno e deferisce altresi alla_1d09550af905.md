@@ -26,7 +26,7 @@ Sulla proposta del ministro di grazia e giustizia e dei culti, di concerto col m
 
 ## Art. 1.
 
-A datare dal 1° febbraio 1918 e fino a tutto l'esercizio finanziario successivo a quello in cui sara' pubblicata la pace, l'assegno supplementare che si concede ai parroci del Regno, sara' elevato sino a portarne la congrua, compresi i prodotti casuali, a lire 1000 al netto di qualsiasi onere e peso, in conformita' degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1899-06-04;191#art_2) e [3 della legge 4 giugno 1899, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1899-06-04;191#art_3). 
+A datare dal 1° febbraio 1918 e fino a tutto l'esercizio finanziario successivo a quello in cui sara' pubblicata la pace, l'assegno supplementare che si concede ai parroci del Regno, sara' elevato sino a portarne la congrua, compresi i prodotti casuali, a lire 1000 al netto di qualsiasi onere e peso, in conformita' degli [articoli 2](Che%20provvede%20allaumento%20delle%20Congrue%20parrocchiali%20-%20allanticipata%20consegna%20ai%20Comuni%20delle%20rendite%20delle%20soppresse%20Chiese%20ricettizie%20e%20Comunie%20curate%20-%20e%20al%20pagamento%20di%20un%20acconto%20ai%20Co_3ebb50757754.md) e [3 della legge 4 giugno 1899, n. 191](Che%20provvede%20allaumento%20delle%20Congrue%20parrocchiali%20-%20allanticipata%20consegna%20ai%20Comuni%20delle%20rendite%20delle%20soppresse%20Chiese%20ricettizie%20e%20Comunie%20curate%20-%20e%20al%20pagamento%20di%20un%20acconto%20ai%20Co_3ebb50757754.md). 
  
  L'assegno per le spese di culto, nel caso in cui e' dovuto ai sensi del terzo comma dell'art. 2 anzidetto, sara' accresciuto in ragione dell'aumentata congrua, ferma restando la misura del 15 per cento. 
  
@@ -34,7 +34,7 @@ A datare dal 1° febbraio 1918 e fino a tutto l'esercizio finanziario successivo
 
 ## Art. 2.
 
-Le liquidazioni gia' eseguite e notificate ai sensi della [legge 4 giugno 1899, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1899-06-04;191), non saranno rinnovate, e l'aumento sara' fatto nel modo disposto dall'ultimo comma dell'art. 3 di detta legge. 
+Le liquidazioni gia' eseguite e notificate ai sensi della [legge 4 giugno 1899, n. 191](Che%20provvede%20allaumento%20delle%20Congrue%20parrocchiali%20-%20allanticipata%20consegna%20ai%20Comuni%20delle%20rendite%20delle%20soppresse%20Chiese%20ricettizie%20e%20Comunie%20curate%20-%20e%20al%20pagamento%20di%20un%20acconto%20ai%20Co_3ebb50757754.md), non saranno rinnovate, e l'aumento sara' fatto nel modo disposto dall'ultimo comma dell'art. 3 di detta legge. 
  
  Nel caso in cui occorra la liquidazione, l'interessato entro 30 giorni dalla comunicazione, potra' presentare reclamo, su cui deliberera' il Consiglio di amministrazione del Fondo per il culto. 
  
@@ -44,7 +44,7 @@ Le liquidazioni gia' eseguite e notificate ai sensi della [legge 4 giugno 1899, 
 
 Contro la deliberazione del Consiglio di amministrazione e' ammesso ricorso al ministro di grazia e giustizia e dei culti nel termine di 60 giorni dalla data della partecipazione all'interessato, a norma dell'[art. 26 del regolamento 25 agosto 1899, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1899-08-25;350#art_26). 
  
- Tutte le controversie di qualsiasi natura, comprese quelle di cui al comma precedente, alle quali possa dar luogo l'applicazione del presente decreto, della [legge 4 giugno 1899, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1899-06-04;191), e di ogni altra legge o decreto precedenti, riguardanti assegni per congrua, per supplemento di congrua, per indennita' di decime, per spese di culto, nonche' della [legge 30 dicembre 1900, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-12-30;454), concernente gli assegni agli economi spirituali, saranno deferite al ministro di grazia e giustizia e dei culti nel termine di sessanta giorni dalla data di partecipazione all'interessato del provvedimento amministrativo. 
+ Tutte le controversie di qualsiasi natura, comprese quelle di cui al comma precedente, alle quali possa dar luogo l'applicazione del presente decreto, della [legge 4 giugno 1899, n. 191](Che%20provvede%20allaumento%20delle%20Congrue%20parrocchiali%20-%20allanticipata%20consegna%20ai%20Comuni%20delle%20rendite%20delle%20soppresse%20Chiese%20ricettizie%20e%20Comunie%20curate%20-%20e%20al%20pagamento%20di%20un%20acconto%20ai%20Co_3ebb50757754.md), e di ogni altra legge o decreto precedenti, riguardanti assegni per congrua, per supplemento di congrua, per indennita' di decime, per spese di culto, nonche' della [legge 30 dicembre 1900, n. 454](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20di%20Grazia%20e%20Giustizia%20e%20dei%20Culti.%20000U0454.md), concernente gli assegni agli economi spirituali, saranno deferite al ministro di grazia e giustizia e dei culti nel termine di sessanta giorni dalla data di partecipazione all'interessato del provvedimento amministrativo. 
  
  Il procedimento suaccennato e' applicabile pure alle controversie, per ufficiatura, adempimento di oneri religiosi e manutenzione delle chiese, anche non parrocchiali o non aventi diritto a congrue che appartenevano ad enti soppressi o che furono comunque ufficiate e mantenute a cura ed a spese degli enti medesimi.
 

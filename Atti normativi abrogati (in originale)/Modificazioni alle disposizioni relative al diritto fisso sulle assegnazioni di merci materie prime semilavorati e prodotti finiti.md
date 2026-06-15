@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 12 marzo 1946, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-12;211), sulla disciplina delle iniziative industriali e sulla istituzione di una Commissione centrale dell'industria, modificato con il [decreto legislativo del Capo provvisorio dello Stato 27 gennaio 1947, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-27;130);
+Visto il [decreto legislativo luogotenenziale 12 marzo 1946, n. 211](../Decreti%20legislativi%20luogotenenziali/Disciplina%20delle%20iniziative%20industriali%20e%20istituzione%20di%20una%20Commissione%20centrale%20dellindustria.md), sulla disciplina delle iniziative industriali e sulla istituzione di una Commissione centrale dell'industria, modificato con il [decreto legislativo del Capo provvisorio dello Stato 27 gennaio 1947, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-27;130);
 
 Visto il decreto Ministeriale 6 giugno 1946, pubblicato nella Gazzetta Ufficiale del 10 giugno 1946, n. 133/2, che detta norme per l'ordinamento ed il funzionamento della Commissione centrale dell'industria e sottocommissioni dipendenti;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 27 gennaio 1947, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-27;401), che istituisce un diritto fisso sulle assegnazioni industriali, sulle materie prime, semilavorati e prodotti finiti;
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Udito il parere della Corte dei conti;
 
@@ -32,7 +32,7 @@ Il [decreto legislativo del Capo provvisorio dello Stato 27 gennaio 1947, n. 401
 
 Sulle merci nazionali ed estere, materie prime, semilavorati e prodotti finiti distribuite sulla base di piani di ripartizione predisposti, sentita la Commissione centrale dell'industria, del Ministero dell'industria, e commercio, e' dovuto un diritto fisso del 0,25%.
  Il diritto fisso e' ragguagliato al valore delle cose distribuite e non e' dovuto per quelle destinate alle Amministrazioni dello Stato e per altre cose che ne vengano esonerate con disposizioni del Ministro per l'industria e commercio, adottate di concerto con il Ministro per il tesoro.
- Per i prodotti petroliferi e loro derivati, in luogo del diritto fisso di cui sopra, verra' assegnata al capitolo della entrata del bilancio dello Stato di cui al seguente art. 3, una somma prelevata dai fondi derivanti dal gettito del contributo speciale previsto dall'[art. 9 del regio decreto-legge 6 aprile 1944, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-04-06;106#art_9), da concordarsi mensilmente tra il Ministro per l'industria e commercio ed il Ministro per il tesoro.
+ Per i prodotti petroliferi e loro derivati, in luogo del diritto fisso di cui sopra, verra' assegnata al capitolo della entrata del bilancio dello Stato di cui al seguente art. 3, una somma prelevata dai fondi derivanti dal gettito del contributo speciale previsto dall'[art. 9 del regio decreto-legge 6 aprile 1944, n. 106](Soppressione%20del%20Commissariato%20generale%20per%20i%20combustibili%20liquidi%20e%20istituzione%20di%20una%20Commissione%20per%20la%20ripartizione%20lassegnazione%20e%20la%20distribuzione%20dei%20combustibili%20liquidi%20destinati_c9dbdadea66e.md), da concordarsi mensilmente tra il Ministro per l'industria e commercio ed il Ministro per il tesoro.
 
 ## Art. 3.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'[art. 1, n. 2, della legge 31 gennaio 1926, numero 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num2);
+Visto l'[art. 1, n. 2, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Visto il [regio decreto 17 marzo 1938, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-17;255), concernente l'istituzione di uno speciale distintivo di onore per i cittadini italiani, che in seguito ad infortunio sul lavoro o a malattie professionali abbiano riportato ferite o lesioni con esiti gravi di mutilazione o di alterazioni permanenti organiche;
 

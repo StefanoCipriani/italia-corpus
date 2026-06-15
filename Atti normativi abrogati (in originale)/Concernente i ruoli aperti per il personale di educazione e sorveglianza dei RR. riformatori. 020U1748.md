@@ -28,7 +28,7 @@ Gli istitutori sono nominati in seguito a concorso per esami.
 
 ## Art. 3.
 
-Per l'ammissione al concorso, di cui al precedente articolo, valgono le norme stabilite dall'art. 5 e seguenti del regolamento speciale approvato con decreto 15 aprile 1909, n. 235, modificato dal [R. decreto 18 gennaio 1912, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-01-18;20). 
+Per l'ammissione al concorso, di cui al precedente articolo, valgono le norme stabilite dall'art. 5 e seguenti del regolamento speciale approvato con decreto 15 aprile 1909, n. 235, modificato dal [R. decreto 18 gennaio 1912, n. 20](Col%20quale%20viene%20modificato%20il%20regolamento%20approvato%20con%20R.%20decreto%2015%20aprile%201909%20n.%20236%20per%20il%20personale%20di%20educazione%20e%20di%20sorveglianza%20dei%20riformatorii%20governativi.%20012U0020.md). 
  
  Nel caso che difettivo concorrenti provvisti di diploma magistrale possono essere ammessi anche gli aspiranti forniti del diploma di licenza da una scuola media di secondo grado.
 
@@ -48,7 +48,7 @@ I censori forniti dei titoli di studio e con l'anzianita' di servizio di cui ris
 
 ## Art. 6.
 
-Sono applicabili al personale di educazione e sorveglianza nei Regi riformatori, in quanto non siano contrarie all'ordinamento speciale del personale medesimo, tutte le disposizioni concernenti lo stato giuridico ed economico del personale dell'Amministrazione centrale dello Stato stabilite dai [Regi decreti-legge 23 ottobre 1919, n. 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-23;1971) e [27 novembre 1919, n. 2231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-27;2231).
+Sono applicabili al personale di educazione e sorveglianza nei Regi riformatori, in quanto non siano contrarie all'ordinamento speciale del personale medesimo, tutte le disposizioni concernenti lo stato giuridico ed economico del personale dell'Amministrazione centrale dello Stato stabilite dai [Regi decreti-legge 23 ottobre 1919, n. 1971](Che%20regola%20lo%20stato%20giuridico%20ed%20economico%20del%20personale%20delle%20Amministrazioni%20centrali%20dello%20Stato.%20019U1971.md) e [27 novembre 1919, n. 2231](che%20modifica%20le%20tabelle%20annesse%20al%20R.%20decreto-legge%2023%20ottobre%201919%20n.%201971%20che%20stabilisce%20altre%20norme%20circa%20lordinamento%20e%20lo%20stato%20economico%20del%20personale%20dellamministrazione%20dello%20Stat_b10148616fe8.md).
 
 ## Art. 7.
 
@@ -74,7 +74,7 @@ I posti di censore vacanti alla data di pubblicazione della presente legge, o ch
  
  I vice-censori e gli istitutori, che in uno dei concorsi suddetti non abbiano conseguito gli otto decimi dei punti, saranno esclusi dai successivi concorsi per titoli. 
  
- Il concorso per titoli sara' giudicato dalla Commissione di cui all'[art. 10 del Regio decreto 15 aprile 1909, n. 236](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-04-15;236#art_10).
+ Il concorso per titoli sara' giudicato dalla Commissione di cui all'[art. 10 del Regio decreto 15 aprile 1909, n. 236](Che%20approva%20il%20regolamento%20speciale%20per%20il%20personale%20di%20educazione%20e%20di%20sorveglianza%20dei%20riformatori%20governativi.%20009U0236.md).
 
 ### Art. 10.
 

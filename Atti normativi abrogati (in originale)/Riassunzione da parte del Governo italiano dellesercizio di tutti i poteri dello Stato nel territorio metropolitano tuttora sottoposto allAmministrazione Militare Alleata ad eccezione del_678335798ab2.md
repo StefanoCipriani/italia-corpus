@@ -26,7 +26,7 @@ Visto il [decreto legislativo Luogotenenziale 20 luglio 1944, n. 162](Regime%20g
 
 Visto il [decreto legislativo Luogotenenziale 8 agosto 1944, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-08;168);
 
-Visto il [decreto legislativo Luogotenenziale 31 agosto 1945, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;571);
+Visto il [decreto legislativo Luogotenenziale 31 agosto 1945, n. 571](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20circa%20le%20nomine%20ed%20i%20licenziamenti%20disposti%20dal%20Governo%20Militare%20Alleato.%20045U0571.md);
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 

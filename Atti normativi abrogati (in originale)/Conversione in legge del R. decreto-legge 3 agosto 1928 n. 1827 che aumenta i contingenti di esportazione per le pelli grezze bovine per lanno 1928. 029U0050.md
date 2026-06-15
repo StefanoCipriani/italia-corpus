@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-03;1827), che aumenta i contingenti di esportazione per le pelli grezze bovine, per l'anno 1928. 
+ E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1827](Aumento%20del%20contingente%20di%20esportazione%20delle%20pelli%20grezze%20bovine%20per%20lanno%201928.%20028U1827.md), che aumenta i contingenti di esportazione per le pelli grezze bovine, per l'anno 1928. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -47,7 +47,7 @@ Le date e le Modalita' dei passaggi dei servizi sono stabilite d'accordo tra i M
 
 I provveditori alle opere sono nominati con decreto Reale, udito il Consiglio dei Ministri, ed e' loro attribuito durante l'incarico il grado 4° della gerarchia, anche se, essendo funzionari dello Stato, appartengano a gradi inferiori. 
  
- Durante l'incarico, i provveditori, se provenienti dall'Amministrazione dello Stato, sono surrogati nel ruolo, con le garanzie di cui al [R. decreto 30 dicembre 1923, n. 2958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2958). 
+ Durante l'incarico, i provveditori, se provenienti dall'Amministrazione dello Stato, sono surrogati nel ruolo, con le garanzie di cui al [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md). 
  
  I provveditori alle opere rappresentano il Ministro per i lavori pubblici, dal quale dipendono direttamente e rispondono verso di lui di tutto quanto si attiene ai servizi ed alle attribuzioni loro assegnate dalla legge. 
  
@@ -197,7 +197,7 @@ I provveditori alle opere hanno alla loro dipendenza tutto il personale di ruolo
  
  I delegati dei Ministeri dell'economia nazionale, dell'interno e della pubblica istruzione, destinati a far parte dei Comitati tecnici, sono permanentemente distaccati presso i Provveditorati e sono posti anche a capo del competente reparto di gestione. 
  
- I Provveditorati sono inclusi tra le Amministrazioni presto le quali i funzionari dei suindicati Ministeri possono essere distaccati nella posizione prevista dal [R. decreto 30 dicembre 1923, n. 2958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2958). Ai sensi dello stesso decreto possono essere collocati fuori ruolo anche i funzionari dei Ministeri suddetti, i quali sieno destinati a prestare servizio presso l'Amministrazione centrale dei lavori pubblici.
+ I Provveditorati sono inclusi tra le Amministrazioni presto le quali i funzionari dei suindicati Ministeri possono essere distaccati nella posizione prevista dal [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md). Ai sensi dello stesso decreto possono essere collocati fuori ruolo anche i funzionari dei Ministeri suddetti, i quali sieno destinati a prestare servizio presso l'Amministrazione centrale dei lavori pubblici.
 
 ## Art. 15.
 
@@ -219,7 +219,7 @@ Per la formazione degli uffici dei Provveditorati e' consentito, in deroga alle 
 
 ## Art. 17.
 
-Per compensare l'intensificazione di lavoro e la maggiore produttivita' del personale addetto ai Provveditorati, sara' stanziata annualmente in bilancio la somma di L. 5,000,000, da trarre dal fondo di riserva di cui al [R. decreto 19 marzo 1925, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-19;266). 
+Per compensare l'intensificazione di lavoro e la maggiore produttivita' del personale addetto ai Provveditorati, sara' stanziata annualmente in bilancio la somma di L. 5,000,000, da trarre dal fondo di riserva di cui al [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md). 
  
  Le norme per la erogazione di detta somma saranno stabilite con decreto del Ministro per i lavori pubblici, di concerto con quello per le finanze. 
  
@@ -249,7 +249,7 @@ I Provveditorati alle opere, per le ricerche e per le esperienze di carattere sc
 
 ## Art. 23.
 
-La tabella n. 48 allegato II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), modificata dall'[art. 13 del R. decreto 4 settembre 1924, n. 1356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-04;1356#art_13), e dall'[art. 3 del R. decreto 25 settembre 1924, n. 1477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1477#art_3), e' sostituita dalla seguente, per quanto riguarda il personale della carriera amministrativa (gruppo A) del Ministero dei lavori pubblici: 
+La tabella n. 48 allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificata dall'[art. 13 del R. decreto 4 settembre 1924, n. 1356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-04;1356#art_13), e dall'[art. 3 del R. decreto 25 settembre 1924, n. 1477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1477#art_3), e' sostituita dalla seguente, per quanto riguarda il personale della carriera amministrativa (gruppo A) del Ministero dei lavori pubblici: 
  
  Numero 
  Grado dei posti 
@@ -278,7 +278,7 @@ La tabella n. 48 allegato II al [R. decreto 11 novembre 1923, n. 2395](https://w
  207 
  --- 
  
- Con decreto del Ministro per le finanze saranno stabiliti per i ruoli organici del personale del gruppo A e del gruppo C, di cui alla tabella n. 2 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), gli aumenti che si rendessero necessari per i servizi del Ministero dei lavori pubblici.
+ Con decreto del Ministro per le finanze saranno stabiliti per i ruoli organici del personale del gruppo A e del gruppo C, di cui alla tabella n. 2 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), gli aumenti che si rendessero necessari per i servizi del Ministero dei lavori pubblici.
 
 ## Art. 24.
 

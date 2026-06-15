@@ -16,11 +16,11 @@ LUOGOTENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 10 febbraio 1926, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-10;206), convertito nella [legge 25 giugno 1926, n. 1135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-06-25;1135);
+Visto il [R. decreto-legge 10 febbraio 1926, n. 206](Provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20e%20dei%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20delle%20altre%20forze%20armate%20dello%20Stato.%20026U0206.md), convertito nella [legge 25 giugno 1926, n. 1135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201926%20n.%20206%20recante%20provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20e%20dei%20sottufficiali%20del%20Regio%20esercito%20cella%20Regia%20marina%20della%20_b59362d25dd3.md);
 
-Vista la [legge 11 marzo 1926, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-11;397), e successive modificazioni;
+Vista la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), e successive modificazioni;
 
-Vista la [legge 18 dicembre 1930, n. 1684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-12-18;1684), e successive modificazioni;
+Vista la [legge 18 dicembre 1930, n. 1684](Trattamento%20di%20ausiliaria%20per%20gli%20ufficiali%20dei%20gradi%20di%20capitano%20di%20vascello%20ammiragli%20e%20gradi%20corrispondenti%20collocati%20in%20tale%20posizione%20direttamente%20dal%20servizio%20permanente%20effettivo.%20030U1684.md), e successive modificazioni;
 
 Vista la [legge 6 giugno 1935, n. 1401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-06;1401), e successive modificazioni;
 
@@ -62,12 +62,12 @@ subalterni . . . . . . . . . . . . . . . . . . . . » 4.000
  
  In ogni caso, l'indennita' e' corrisposta in relazione al grado rivestito dall'ufficiale all'atto del suo collocamento in ausiliaria. 
  
- Agli ufficiali di cui sopra non e' corrisposta l'indennita' prevista dall'[art. 4 del R. decreto-legge 10 febbraio 1926, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-10;206#art_4), convertito nella [legge 25 giugno 1926, n. 1135 e dall'art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-06-25;1135#art_8) della [legge 18 dicembre 1930, numero 1684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-12-18;1684), e loro successive modificazioni.
+ Agli ufficiali di cui sopra non e' corrisposta l'indennita' prevista dall'[art. 4 del R. decreto-legge 10 febbraio 1926, n. 206](Provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20e%20dei%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20delle%20altre%20forze%20armate%20dello%20Stato.%20026U0206.md), convertito nella [legge 25 giugno 1926, n. 1135 e dall'art. 8](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201926%20n.%20206%20recante%20provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20e%20dei%20sottufficiali%20del%20Regio%20esercito%20cella%20Regia%20marina%20della%20_b59362d25dd3.md) della [legge 18 dicembre 1930, numero 1684](Trattamento%20di%20ausiliaria%20per%20gli%20ufficiali%20dei%20gradi%20di%20capitano%20di%20vascello%20ammiragli%20e%20gradi%20corrispondenti%20collocati%20in%20tale%20posizione%20direttamente%20dal%20servizio%20permanente%20effettivo.%20030U1684.md), e loro successive modificazioni.
 A detti ufficiali si applica il disposto dell'[art. 10 del decreto legislativo Luogotenenziale 30 gennaio 1945, n. 41](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md).
 
 ## Art. 2.
 
-L'indennita' di cui all'art. 1 compete, inoltre, agli ufficiali che siano dal servizio permanente effettivo direttamente collocati a riposo, in riforma, od in congedo assoluto, per eta', o per ferite, lesioni od infermita' dipendenti da cause di servizio. Qualora si tratti di mutilati od invalidi di guerra, la concessione del trattamento e' subordinata alla condizione che gli ufficiali rinuncino alla pensione od all'assegno rinnovabile di guerra, ovvero all'assegno integratore, di cui all'[art. 19 del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_19), e successive modificazioni.
+L'indennita' di cui all'art. 1 compete, inoltre, agli ufficiali che siano dal servizio permanente effettivo direttamente collocati a riposo, in riforma, od in congedo assoluto, per eta', o per ferite, lesioni od infermita' dipendenti da cause di servizio. Qualora si tratti di mutilati od invalidi di guerra, la concessione del trattamento e' subordinata alla condizione che gli ufficiali rinuncino alla pensione od all'assegno rinnovabile di guerra, ovvero all'assegno integratore, di cui all'[art. 19 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni.
 
 ## Art. 3.
 
@@ -97,7 +97,7 @@ Agli ufficiali indicati nell'art. 5 che non presenteranno la domanda per il tras
 
 ## Art. 8.
 
-Le disposizioni di cui all'art. 1 si applicano agli ufficiali che, alla data di entrata in vigore del presente decreto, siano in ausiliaria e che in tale posizione siano stati collocati per eta', o in seguito a esclusione dall'avanzamento, o per compiuto periodo di permanenza nelle posizioni di « a disposizione » o fuori organico, di cui alla [legge 6 giugno 1935, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-06;1404), o in applicazione dell'[art. 122 del testo unico 1° agosto 1936, n. 1493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1936-08-01;1493#art_122), successive modificazioni. 
+Le disposizioni di cui all'art. 1 si applicano agli ufficiali che, alla data di entrata in vigore del presente decreto, siano in ausiliaria e che in tale posizione siano stati collocati per eta', o in seguito a esclusione dall'avanzamento, o per compiuto periodo di permanenza nelle posizioni di « a disposizione » o fuori organico, di cui alla [legge 6 giugno 1935, n. 1404](Disposizioni%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20035U1404.md), o in applicazione dell'[art. 122 del testo unico 1° agosto 1936, n. 1493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1936-08-01;1493#art_122), successive modificazioni. 
  
  Gli ufficiali anzidetti possono pero', entro tre mesi dalla data di entrata in vigore del presente decreto, optare per il trattamento stabilito dalle disposizioni attualmente in vigore. 
  

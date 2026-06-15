@@ -20,7 +20,7 @@ PROMULGA la seguente legge:
 
 Sono abrogati gli articoli 89, 90, 91, 95, 96, 97, 98, nonche' il terzo e il [quarto comma dell'articolo 103 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_103-com4), approvato con [regio decreto 18 giugno 1931, n. 
 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773). 
- Sono altresi' abrogate le disposizioni contenute nei [decreti legislativi del Capo provvisorio dello Stato 28 giugno 1946, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-06-28;78), e [10 luglio 1947, n. 705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-10;705), ratificati con [legge 22 aprile 1953, n. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-22;342), e le disposizioni di cui alla [legge 8 luglio 1949, n. 478](Modificazioni%20al%20testo%20unico%2018%20giugno%201931%20n.%20773%20sulla%20vendita%20e%20il%20consumo%20di%20bevande%20alcooliche%20nei%20luoghi%20di%20cura%20soggiorno%20e%20turismo.md).
+ Sono altresi' abrogate le disposizioni contenute nei [decreti legislativi del Capo provvisorio dello Stato 28 giugno 1946, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-06-28;78), e [10 luglio 1947, n. 705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-10;705), ratificati con [legge 22 aprile 1953, n. 342](../Leggi%20di%20ratifica/Ratifica%20di%20decreti%20legislativi%20concernenti%20il%20Ministero%20dellinterno%20emanati%20dal%20Governo%20durante%20il%20periodo%20dellAssemblea%20Costituente.md), e le disposizioni di cui alla [legge 8 luglio 1949, n. 478](Modificazioni%20al%20testo%20unico%2018%20giugno%201931%20n.%20773%20sulla%20vendita%20e%20il%20consumo%20di%20bevande%20alcooliche%20nei%20luoghi%20di%20cura%20soggiorno%20e%20turismo.md).
 
 ## Art. 2.
 
@@ -61,7 +61,7 @@ Fino a quando non saranno stati approvati i piani di cui al primo comma dell'art
 
 ## Art. 8.
 
-Nelle province di Trento e di Bolzano, sino a quando non sara' diversamente disposto con legge provinciale ai sensi della [legge costituzionale 10 novembre 1971, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1971-11-10;1) rimane ferma la competenza del presidente della giunta provinciale in ordine ai provvedimenti da adottarsi dal questore a norma della presente legge.
+Nelle province di Trento e di Bolzano, sino a quando non sara' diversamente disposto con legge provinciale ai sensi della [legge costituzionale 10 novembre 1971, n. 1](../Leggi%20costituzionali/Modificazioni%20e%20integrazioni%20dello%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md) rimane ferma la competenza del presidente della giunta provinciale in ordine ai provvedimenti da adottarsi dal questore a norma della presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

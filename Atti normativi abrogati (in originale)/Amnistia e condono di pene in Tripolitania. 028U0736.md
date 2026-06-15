@@ -18,7 +18,7 @@ Visto l'art. 8 dello Statuto fondamentale del Regno;
 
 Visto il [R. decreto 20 marzo 1913, n. 289](Col%20quale%20vengono%20approvati%20gli%20annessi%20ordinamento%20giudiziario%20e%20disposizioni%20relative%20alle%20leggi%20da%20applicarsi%20in%20Libia.%20013U0289.md), che approva l'ordinamento giudiziario per la Tripolitania e la Cirenaica, e il [decreto Luogotenenziale 15 aprile 1917, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-04-15;938);
 
-Visti gli [articoli 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_86) e [87 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_87) e 589 e 591 [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visti gli [articoli 86](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [87 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e 589 e 591 [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Sentito il Consiglio dei Ministri;
 
@@ -30,13 +30,13 @@ E' conceduta amnistia in Tripolitania:
  
  a) per i delitti per i quali e' stabilita la pena della reclusione o della detenzione non superiore nel massimo ad un anno, ovvero della multa, sola o congiunta ad una di dette pene, non superiore nel massimo a L. 2000; 
  
- b) per le contravvenzioni prevedute nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e nelle leggi speciali.
+ b) per le contravvenzioni prevedute nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nelle leggi speciali.
 
 ## Art. 2.
 
 Salvo il disposto dell'articolo precedente, sono condonate in Tripolitania tutte le pene restrittive della liberta' personale non superiori ad un anno e le pene pecuniarie, sole o congiunte alle dette pene restrittive, non superiori a L. 2000, e di altrettanto sono ridotte le altre, inflitte o da infliggersi per reati avvenuti anteriormente alla data del presente decreto. 
  
- L'indulto si ha come non conceduto quando chi ne ha beneficiato commetta un delitto entro il termine di anni cinque dalla data del provvedimento che lo applica: e in tal caso si procede al cumulo delle pene a norma del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ L'indulto si ha come non conceduto quando chi ne ha beneficiato commetta un delitto entro il termine di anni cinque dalla data del provvedimento che lo applica: e in tal caso si procede al cumulo delle pene a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 3.
 

@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto i [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto i [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto, l'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022);
 
@@ -72,7 +72,7 @@ Ciascuna delle sezioni indicate nell'articolo precedente e' costituita da un pre
 ### Art. 8. — (Ordinamento delle sezioni).
 
 Salvo quanto e' stabilito nel presente decreto, si osservano, per l'ordinamento delle sezioni indicate nell'articolo 5, in quanto applicabili, le disposizioni per i Tribunali militari territoriali prevedute dall'ordinamento giudiziario militare approvato con [regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022), e dalle successive modificazioni.
- Continuano ad osservarsi per la sezione con sede in Catania le disposizioni di carattere transitorio degli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-21;144#art_10) e [14 del decreto legislativo luogotenenziale 21 marzo 1946, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-21;144#art_14).
+ Continuano ad osservarsi per la sezione con sede in Catania le disposizioni di carattere transitorio degli [articoli 10](../Decreti%20legislativi%20luogotenenziali/Norme%20dirette%20a%20regolare%20il%20passaggio%20dallapplicazione%20della%20legge%20penale%20militare%20di%20guerra%20allapplicazione%20di%20quella%20di%20pace.md) e [14 del decreto legislativo luogotenenziale 21 marzo 1946, n. 144](../Decreti%20legislativi%20luogotenenziali/Norme%20dirette%20a%20regolare%20il%20passaggio%20dallapplicazione%20della%20legge%20penale%20militare%20di%20guerra%20allapplicazione%20di%20quella%20di%20pace.md).
 
 ## Disposizioni transitorie.
 
@@ -87,7 +87,7 @@ La competenza per i procedimenti, che alla data di entrata in vigore del present
 ### Art. 10. — (Personale del Tribunale militare di Cagliari).
 
 Gli ufficiali che, alla data di entrata in vigore del presente decreto, esercitano le funzioni di presidente, di giudice militare, di giudice relatore, di giudice istruttore, di pubblico ministero e di cancelliere presso il Tribunale militare territoriale di Cagliari, passano a esercitare le stesse rispettive funzioni presso la sezione autonoma del Tribunale militare territoriale di Roma con sede a Cagliari.
- Le disposizioni degli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-21;144#art_10) e [13 del decreto legislativo luogotenenziale 21 marzo 1946, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-21;144#art_13), in quanto applicabili al Tribunale militare territoriale di Cagliari, continuano a osservarsi, sostituendosi al Tribunale militare territoriale di Cagliari la sezione indicata nel comma precedente.
+ Le disposizioni degli [articoli 10](../Decreti%20legislativi%20luogotenenziali/Norme%20dirette%20a%20regolare%20il%20passaggio%20dallapplicazione%20della%20legge%20penale%20militare%20di%20guerra%20allapplicazione%20di%20quella%20di%20pace.md) e [13 del decreto legislativo luogotenenziale 21 marzo 1946, n. 144](../Decreti%20legislativi%20luogotenenziali/Norme%20dirette%20a%20regolare%20il%20passaggio%20dallapplicazione%20della%20legge%20penale%20militare%20di%20guerra%20allapplicazione%20di%20quella%20di%20pace.md), in quanto applicabili al Tribunale militare territoriale di Cagliari, continuano a osservarsi, sostituendosi al Tribunale militare territoriale di Cagliari la sezione indicata nel comma precedente.
 
 ### Art. 11. — (Inizio del funzionamento del Tribunale militare di Genova).
 

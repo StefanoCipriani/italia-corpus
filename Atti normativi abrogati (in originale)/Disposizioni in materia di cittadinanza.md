@@ -21,7 +21,7 @@ PROMULGA la seguente legge:
 ## Art. 2.
 
 Precludono l'acquisto della cittadinanza: 
- 1) la condanna per uno dei delitti previsti nel libro II, titolo I, capi I, II e III, del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398); 
+ 1) la condanna per uno dei delitti previsti nel libro II, titolo I, capi I, II e III, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  2) la condanna a pena superiore ad anni due di reclusione inflitta per qualsiasi delitto non politico dall'autorita' giudiziaria italiana; 
  3) la sussistenza, nel caso specifico, di comprovati motivi inerenti alla sicurezza della Repubblica. 
  La riabilitazione fa cessare gli effetti preclusivi della condanna.

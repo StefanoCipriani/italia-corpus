@@ -20,9 +20,9 @@ Per la concessione dei mutui autorizzati dall'art. 8 del Nostro decreto 17 novem
 
 ## Art. 2.
 
-Le domande di mutui dovranno essere trasmesse per mezzo della Prefettura, al Ministero dei lavori pubblici, corredate dei documenti indicati ai nn. 1 a 4 e 6 dell'[art. 4 del R. decreto 22 settembre 1914, n. 1028](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-22;1028#art_4). 
+Le domande di mutui dovranno essere trasmesse per mezzo della Prefettura, al Ministero dei lavori pubblici, corredate dei documenti indicati ai nn. 1 a 4 e 6 dell'[art. 4 del R. decreto 22 settembre 1914, n. 1028](Col%20quale%20vengono%20autorizzate%20anticipazioni%20di%20fondi%20alla%20Cassa%20depositi%20e%20prestiti%20per%20metterla%20in%20grado%20di%20concedere%20alle%20Provincie%20ed%20ai%20Comuni%20mutui%20destinati%20alla%20pronta%20esecuzione%20d_6b598753f60b.md). 
  
- Nei riguardi di tali mutui si applica il disposto dagli ultimi due commi dell'art. 5 e dai primi tre commi dell'art. 6 del suddetto [R. decreto 22 settembre 1914, n. 1028](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-22;1028).
+ Nei riguardi di tali mutui si applica il disposto dagli ultimi due commi dell'art. 5 e dai primi tre commi dell'art. 6 del suddetto [R. decreto 22 settembre 1914, n. 1028](Col%20quale%20vengono%20autorizzate%20anticipazioni%20di%20fondi%20alla%20Cassa%20depositi%20e%20prestiti%20per%20metterla%20in%20grado%20di%20concedere%20alle%20Provincie%20ed%20ai%20Comuni%20mutui%20destinati%20alla%20pronta%20esecuzione%20d_6b598753f60b.md).
 
 ## Art. 3.
 

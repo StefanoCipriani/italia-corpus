@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 ottobre 1926, n. 1793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-07;1793), concernente la concessione di riduzioni di tariffe per trasporti in transito da e per l'Italia. 
+ E' convertito in legge il [R. decreto-legge 7 ottobre 1926, n. 1793](Concessione%20di%20riduzioni%20di%20tariffe%20per%20trasporti%20in%20transito%20da%20e%20per%20lItalia.%20026U1793.md), concernente la concessione di riduzioni di tariffe per trasporti in transito da e per l'Italia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

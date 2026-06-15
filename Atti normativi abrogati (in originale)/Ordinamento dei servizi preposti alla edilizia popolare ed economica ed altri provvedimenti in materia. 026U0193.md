@@ -56,7 +56,7 @@ Tutti i progetti di costruzioni popolari ed economiche, da eseguire con il conco
 
 ### Art. 6.
 
-Ferme restando le disposizioni del [R. decreto 8 novembre 1921, n. 1636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-08;1636), tutti gli atti definitivi d'appalto, i contratti principali e suppletivi coi relativi capitolati, e gli atti di transazione delle vertenze comunque sorte in dipendenza delle costruzioni di case cooperative eseguite con il concorso dello Stato, dovranno riportare la preventiva approvazione ministeriale, previo parere della Commissione di vigilanza, perche' si possano rilasciare i nulla osta per i pagamenti in conto dei mutui concessi. 
+Ferme restando le disposizioni del [R. decreto 8 novembre 1921, n. 1636](Concernente%20norme%20per%20lassegnazione%20dei%20contributi%20statali%20la%20equa%20determinazione%20dei%20prezzi%20per%20la%20costruzione%20di%20case%20popolari%20ed%20economiche.%20021U1636.md), tutti gli atti definitivi d'appalto, i contratti principali e suppletivi coi relativi capitolati, e gli atti di transazione delle vertenze comunque sorte in dipendenza delle costruzioni di case cooperative eseguite con il concorso dello Stato, dovranno riportare la preventiva approvazione ministeriale, previo parere della Commissione di vigilanza, perche' si possano rilasciare i nulla osta per i pagamenti in conto dei mutui concessi. 
  
  Parimenti, dovranno approvarsi dal Ministero dei lavori pubblici i compensi da liquidare per la redazione di progetti e per direzione dei lavori e qualsiasi altra spesa da far gravare sui mutui predetti.
 
@@ -74,7 +74,7 @@ I collaudi delle costruzioni di case popolari ed economiche eseguite con concors
 
 ### Art. 8.
 
-Sulle controversie e sulle riserve fatte in qualsiasi tempo dalle imprese assuntrici di lavori di cooperative edilizie sovvenzionate dallo Stato, ove non sia intervenuta una transazione approvata ai sensi dell'art. 6 del presente decreto, decide il Ministro per i lavori pubblici dopo il collaudo, sentito l'ispettore di circolo del Genio civile od il Consiglio superiore dei lavori pubblici, giusta le disposizioni vigenti per gli appalti di conto dello Stato, salvo alle parti il ricorso al giudizio degli arbitri a termini del capitolato d'appalto, restando fermo pero' quanto e' stabilito all'[art. 2 del R. decreto 8 febbraio 1923, n. 345](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;345#art_2), circa l'imputazione ai mutui concessi dei maggiori oneri dipendenti dalle decisioni arbitrali. 
+Sulle controversie e sulle riserve fatte in qualsiasi tempo dalle imprese assuntrici di lavori di cooperative edilizie sovvenzionate dallo Stato, ove non sia intervenuta una transazione approvata ai sensi dell'art. 6 del presente decreto, decide il Ministro per i lavori pubblici dopo il collaudo, sentito l'ispettore di circolo del Genio civile od il Consiglio superiore dei lavori pubblici, giusta le disposizioni vigenti per gli appalti di conto dello Stato, salvo alle parti il ricorso al giudizio degli arbitri a termini del capitolato d'appalto, restando fermo pero' quanto e' stabilito all'[art. 2 del R. decreto 8 febbraio 1923, n. 345](Contenente%20norme%20complementari%20per%20la%20esecuzione%20ed%20il%20collaudo%20dei%20lavori%20edilizi%20col%20contributo%20governativo.%20023U0345.md), circa l'imputazione ai mutui concessi dei maggiori oneri dipendenti dalle decisioni arbitrali. 
  
  A richiesta delle parti, o quando a suo insindacabile giudizio il Ministro predetto lo ritenga necessario, questi potra' disporre che vengano anche esaminate e risolute come sopra in corso d'opera le riserve e controversie relative a tali appalti. 
  
@@ -113,7 +113,7 @@ Ove si verifichi tale incompatibilita', il funzionario potra' essere temporaneam
  
  Parimenti dovra' astenersi, ed essere eventualmente sostituito come sopra, il membro che risulti socio di cooperativa edilizia allorche' la Commissione dovra' trattare affari attinenti alla cooperativa della quale egli faccia parte. 
  
- E' abolita la incompatibilita' di cui all'[art. 1 del R. decreto 13 gennaio 1924, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-01-13;142#art_1).
+ E' abolita la incompatibilita' di cui all'[art. 1 del R. decreto 13 gennaio 1924, n. 142](Costituzione%20della%20Commissione%20di%20vigilanza%20sulledilizia%20popolare.%20024U0142.md).
 
 ### Art. 14.
 
@@ -179,7 +179,7 @@ Conservano il diritto all'assegnazione dell'alloggio gli impiegati statali di co
 
 ### Art. 23.
 
-Possono pure essere assegnatari di alloggi cooperativi e conseguentemente del mutuo edilizio individuale col contributo governativo i soci di cooperative edilizie, gia' impiegati di Amministrazioni dello Stato e gia' regolarmente inscritti nelle cooperative medesime i quali siano stati esonerati dal servizio anche a condizioni diverse da quelle previste dal [R. decreto-legge 7 giugno 1923, n. 1451](Estensione%20agli%20impiegati%20dello%20Stato%20con%20pensione%20insufficiente%20della%20assegnazione%20degli%20alloggi%20cooperativi.%20023U1451.md), purche' non si tratti di casi di destituzione colla perdita del diritto a pensione, e di esoneri disposti in base ai [Regi decreti 28 gennaio 1923, nn. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;143) e [153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;153), a meno che per questi ultimi, a suo giudizio insindacabile, l'Amministrazione che procedette all'esonero non ne dia speciale consenso.
+Possono pure essere assegnatari di alloggi cooperativi e conseguentemente del mutuo edilizio individuale col contributo governativo i soci di cooperative edilizie, gia' impiegati di Amministrazioni dello Stato e gia' regolarmente inscritti nelle cooperative medesime i quali siano stati esonerati dal servizio anche a condizioni diverse da quelle previste dal [R. decreto-legge 7 giugno 1923, n. 1451](Estensione%20agli%20impiegati%20dello%20Stato%20con%20pensione%20insufficiente%20della%20assegnazione%20degli%20alloggi%20cooperativi.%20023U1451.md), purche' non si tratti di casi di destituzione colla perdita del diritto a pensione, e di esoneri disposti in base ai [Regi decreti 28 gennaio 1923, nn. 143](Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md) e [153](Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md), a meno che per questi ultimi, a suo giudizio insindacabile, l'Amministrazione che procedette all'esonero non ne dia speciale consenso.
 
 ### Art. 24.
 
@@ -217,7 +217,7 @@ I contratti dell'Istituto nazionale per le case degli impiegati statali, gli att
 
 ### Art. 29.
 
-A deroga di ogni contraria disposizione ed in via transitoria fino al 30 giugno 1926 l'Istituto cooperativo per le case degli impiegati dello Stato in Roma e' autorizzato ad assegnare in locazione alloggi comunque disponibili, in ragione di uno ogni cinque, ai magistrati e funzionari della Corte di cassazione del Regno trasferiti in Roma per ragioni dell'attuale loro ufficio, posteriormente alla unificazione delle Corti di cassazione e prima della data del presente decreto, nonche' ai sostituti avvocati generali militari trasferiti in Roma al Tribunale supremo militare in applicazione del nuovo ordinamento della giustizia militare di cui al [R. decreto 19 ottobre 1923, n. 2316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-19;2316) (3 e 15) i quali dimostrino averne assoluta necessita'. 
+A deroga di ogni contraria disposizione ed in via transitoria fino al 30 giugno 1926 l'Istituto cooperativo per le case degli impiegati dello Stato in Roma e' autorizzato ad assegnare in locazione alloggi comunque disponibili, in ragione di uno ogni cinque, ai magistrati e funzionari della Corte di cassazione del Regno trasferiti in Roma per ragioni dell'attuale loro ufficio, posteriormente alla unificazione delle Corti di cassazione e prima della data del presente decreto, nonche' ai sostituti avvocati generali militari trasferiti in Roma al Tribunale supremo militare in applicazione del nuovo ordinamento della giustizia militare di cui al [R. decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md) (3 e 15) i quali dimostrino averne assoluta necessita'. 
  
  Essi dovranno essere iscritti come soci dell'Istituto. 
  
@@ -289,7 +289,7 @@ Al Comitato centrale dell'Istituto nazionale per le case degli impiegati dello S
 
 ### Art. 39.
 
-Il termine di cui all'[art. 22 del R. decreto 20 novembre 1924, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-20;1945#art_22), e' prorogato al 30 giugno 1926.
+Il termine di cui all'[art. 22 del R. decreto 20 novembre 1924, n. 1945](Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), e' prorogato al 30 giugno 1926.
 
 ### Art. 40.
 
@@ -363,7 +363,7 @@ Per facilitare la formazione e lo sviluppo di borgate rurali nel Mezzogiorno d'I
 
 ### Art. 53.
 
-Nella tabella annessa al [R. decreto 19 marzo 1925, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-19;266), sono introdotte le seguenti variazioni: 
+Nella tabella annessa al [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), sono introdotte le seguenti variazioni: 
  
  Aumenti: 
  

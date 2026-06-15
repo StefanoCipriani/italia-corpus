@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il numero dei direttori e dei vice direttori capi di sezione staccata e addetti di cui all'[art. 2 del R. decreto-legge 16 dicembre 1926, n. 2121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2121#art_2), convertito in legge con la [legge 21 novembre 1928, n. 2781](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-11-21;2781), e' modificato nel modo seguente: 
+ Il numero dei direttori e dei vice direttori capi di sezione staccata e addetti di cui all'[art. 2 del R. decreto-legge 16 dicembre 1926, n. 2121](Disposizioni%20riguardanti%20il%20servizio%20tecnico%20dartiglieria.%20026U2121.md), convertito in legge con la [legge 21 novembre 1928, n. 2781](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-11-21;2781), e' modificato nel modo seguente: 
  
  
 

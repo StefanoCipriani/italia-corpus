@@ -12,17 +12,17 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo 20 marzo 1947, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-03-20;427);
 
-Visto il [regio decreto 8 maggio 1933, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-05-08;841), che approva il regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e dei telegrafi, e successive modificazioni;
+Visto il [regio decreto 8 maggio 1933, n. 841](Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md), che approva il regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e dei telegrafi, e successive modificazioni;
 
-Visto il [decreto luogotenenziale 2 marzo 1945, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-02;144);
+Visto il [decreto luogotenenziale 2 marzo 1945, n. 144](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20delle%20poste%20e%20dei%20telegrafi%20approvato%20con%20R.%20decreto%208%20maggio%201933%20n.%20841.%20045U0144.md);
 
-Visto il [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722);
+Visto il [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md);
 
-Visto il [decreto legislativo luogotenenziale 21 marzo 1946, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-21;357);
+Visto il [decreto legislativo luogotenenziale 21 marzo 1946, n. 357](../Decreti%20legislativi%20luogotenenziali/Estensione%20ad%20alcune%20categorie%20di%20personale%20dellAmministrazione%20postale%20e%20Telegrafica%20e%20dellAzienda%20per%20i%20servizi%20telefonici%20dei%20provvedimenti%20economici%20di%20cui%20al%20decreto%20legislativo%20Luog_d7c673e93a58.md);
 
 Sentiti il Consiglio di Stato in adunanza generale e la Corte dei conti in sezioni riunite;
 
@@ -40,7 +40,7 @@ Il limite di somma delle richieste di carte valori da parte delle ricevitorie su
 
 ## Art. 3.
 
-I limiti di spesa annua di cui agli ultimi due commi dell'art. 17 del regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e dei telegrafi, approvato con [regio decreto 8 maggio 1933, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-05-08;841), gia' elevati a L. 15.000 col [decreto luogotenenziale 2 marzo 1945, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-02;144), sono ulteriormente elevati ad annue L. 100.000 con effetto dal 1 gennaio 1946.
+I limiti di spesa annua di cui agli ultimi due commi dell'art. 17 del regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e dei telegrafi, approvato con [regio decreto 8 maggio 1933, n. 841](Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md), gia' elevati a L. 15.000 col [decreto luogotenenziale 2 marzo 1945, n. 144](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20delle%20poste%20e%20dei%20telegrafi%20approvato%20con%20R.%20decreto%208%20maggio%201933%20n.%20841.%20045U0144.md), sono ulteriormente elevati ad annue L. 100.000 con effetto dal 1 gennaio 1946.
  Quest'ultimo limite s'intendera' proporzionalmente variato, per l'avvenire, in dipendenza di future variazioni alla retribuzione degli agenti vincolati con obbligazione personale, disposte con carattere di generalita' mediante provvedimenti legislativi posteriori al [decreto legislativo 19 aprile 1947, n. 466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-04-19;466), ed e' indipendente dalle indennita' accessorie spettanti agli agenti stessi.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

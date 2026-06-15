@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la tariffa dei dazi doganali, approvata con [R. decreto-legge 9 giugno 1921, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-06-09;806), convertito nella [Legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni;
+Vista la tariffa dei dazi doganali, approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [Legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni;
 
-Visto l'[art. 2 del R. decreto-legge 15 aprile 1943, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-15;249#art_2), concernente l'aumento del diritto di licenza sulle importazioni e la istituzione di un diritto di licenza sulle esportazioni;
+Visto l'[art. 2 del R. decreto-legge 15 aprile 1943, n. 249](Aumento%20del%20diritto%20di%20licenza%20sulle%20importazioni%20dallestero%20ed%20istituzione%20di%20un%20diritto%20di%20licenza%20sulle%20esportazioni.%20043U0249.md), concernente l'aumento del diritto di licenza sulle importazioni e la istituzione di un diritto di licenza sulle esportazioni;
 
 Visto il [decreto-legge 17 maggio 1943, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1943-05-17;451), recante modificazioni al citato [R. decreto-legge 15 aprile 1943, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-15;219);
 
@@ -32,11 +32,11 @@ Sulla proposta del Ministro per le finanze, di concerto coi Ministri per gli aff
 
 ## Art. 1.
 
-E' sospesa l'applicazione dei dazi di esportazione previsti dalla tariffa dei dazi doganali approvata con [R. decreto-legge 9 giugno 1921, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-06-09;806), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473).
+E' sospesa l'applicazione dei dazi di esportazione previsti dalla tariffa dei dazi doganali approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md).
 
 ## Art. 2.
 
-E' abolito il diritto di licenza sulle merci in esportazione, previsto dall'[art. 2 del R. decreto-legge 15 aprile 1943, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-15;249#art_2).
+E' abolito il diritto di licenza sulle merci in esportazione, previsto dall'[art. 2 del R. decreto-legge 15 aprile 1943, n. 249](Aumento%20del%20diritto%20di%20licenza%20sulle%20importazioni%20dallestero%20ed%20istituzione%20di%20un%20diritto%20di%20licenza%20sulle%20esportazioni.%20043U0249.md).
 
 ## Art. 3.
 

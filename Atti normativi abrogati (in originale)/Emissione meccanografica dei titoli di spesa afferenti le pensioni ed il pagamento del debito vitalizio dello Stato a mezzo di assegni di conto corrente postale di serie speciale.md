@@ -53,7 +53,7 @@ L'emissione degli assegni speciali, di cui all'art. 2 della presente legge, vien
 ## Art. 6.
 
 Il conto mensile degli assegni di conto corrente postale speciale pagato, corredato dagli assegni quietanzati, nonche' le note degli assegni rinnovati o da rinnovarsi, sono resi dagli Uffici provinciali del tesoro, per ciascun capitolo, distintamente per competenze e residui, direttamente alla Corte dei conti ovvero alle competenti Amministrazioni e Aziende autonome di,Stato.
- Gli assegni scaduti, in quanto non estinti nel termine di validita' di cui all'art. 2 della presente legge o smarriti, sono rinnovati - ove le corrispondenti rate di pensione non siano prescritte ai sensi dell'[art. 2 del regio decreto-legge 19 gennaio 1939, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-01-19;295#art_2) - con le norme previste dal regolamento di cui al successivo art. 9, dall'Ufficio provinciale del tesoro traente, e vengono ammessi a pagamento inserendoli in appositi elenchi.
+ Gli assegni scaduti, in quanto non estinti nel termine di validita' di cui all'art. 2 della presente legge o smarriti, sono rinnovati - ove le corrispondenti rate di pensione non siano prescritte ai sensi dell'[art. 2 del regio decreto-legge 19 gennaio 1939, n. 295](Ricupero%20dei%20crediti%20verso%20impiegati%20e%20pensionati%20e%20prescrizione%20biennale%20di%20stipendi%20pensioni%20ed%20altri%20emolumenti.%20039U0295.md) - con le norme previste dal regolamento di cui al successivo art. 9, dall'Ufficio provinciale del tesoro traente, e vengono ammessi a pagamento inserendoli in appositi elenchi.
 
 ## Art. 7.
 

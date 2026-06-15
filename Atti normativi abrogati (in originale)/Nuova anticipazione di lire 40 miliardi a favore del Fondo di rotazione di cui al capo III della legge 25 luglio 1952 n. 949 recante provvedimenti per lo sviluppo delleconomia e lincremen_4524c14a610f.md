@@ -21,7 +21,7 @@ A favore del "Fondo di rotazione", previsto dal capo III della [legge 25 luglio 
 
 ## Art. 2.
 
-Per l'utilizzazione delle somme di cui al precedente art. 1, si applicano le norme contenute nel capo III della [legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949), e nel regolamento di esecuzione approvato con [decreto del Presidente della Repubblica 17 ottobre 1952, n. 1317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-10-17;1317), con le seguenti modificazioni.
+Per l'utilizzazione delle somme di cui al precedente art. 1, si applicano le norme contenute nel capo III della [legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949), e nel regolamento di esecuzione approvato con [decreto del Presidente della Repubblica 17 ottobre 1952, n. 1317](../DPR/Regolamento%20per%20lesecuzione%20delle%20norme%20di%20cui%20al%20capo%20III%20della%20legge%2025%20luglio%201952%20n.%20949%20recante%20provvedimenti%20per%20lo%20sviluppo%20delleconomia%20e%20lincremento%20delloccupazione.md), con le seguenti modificazioni.
 
 ## Art. 3.
 
@@ -29,7 +29,7 @@ Al [primo comma dell'art. 5 della legge 25 luglio 1952, n. 949](https://www.norm
 
 ## Art. 4.
 
-I prestiti e i mutui per edifici rurali e, per impianti di irrigazione, concessi ai termini del capo III della [legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949), a favore di coltivatori diretti, singoli o associati, e di piccole aziende, sono assistiti dalla garanzia sussidiaria della Cassa per la formazione della piccola proprieta' contadina, istituita con l'[art. 9 del decreto legislativo 5 marzo 1948, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-05;121#art_9), sino all'ammontare del 70 per cento della perdita che gli Istituti mutuanti dimostrino di aver sofferto dopo l'esperimento delle procedure di riscossione coattiva sui beni delle ditte mutuatarie inadempienti.
+I prestiti e i mutui per edifici rurali e, per impianti di irrigazione, concessi ai termini del capo III della [legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949), a favore di coltivatori diretti, singoli o associati, e di piccole aziende, sono assistiti dalla garanzia sussidiaria della Cassa per la formazione della piccola proprieta' contadina, istituita con l'[art. 9 del decreto legislativo 5 marzo 1948, n. 121](../Decreti%20Legislativi/Provvedimenti%20a%20favore%20di%20varie%20regioni%20dellItalia%20meridionale%20e%20delle%20Isole.md), sino all'ammontare del 70 per cento della perdita che gli Istituti mutuanti dimostrino di aver sofferto dopo l'esperimento delle procedure di riscossione coattiva sui beni delle ditte mutuatarie inadempienti.
  La liquidazione delle somme dovute per effetto della garanzia sussidiaria prevista al precedente comma e' disposta dal Comitato amministrativo della Cassa. Le condizioni e modalita' di erogazione delle somme dovute dalla Cassa in conseguenza della garanzia sussidiaria saranno disciplinate con apposite convenzioni da stipulare fra la Cassa medesima e gli Istituti mutuanti.
 
 ## Art. 5.

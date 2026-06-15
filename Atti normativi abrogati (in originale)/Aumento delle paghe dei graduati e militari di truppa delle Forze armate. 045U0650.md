@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 23 marzo 1944, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-23;103);
+Visto il [R. decreto-legge 23 marzo 1944, n. 103](Paghe%20ordinarie%20dei%20Militari%20di%20truppa%20del%20R.%20Esercito%20della%20R.%20Marina%20e%20della%20R.%20Aeronautica.%20044U0103.md);
 
-Visto il [decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;328);
+Visto il [decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -36,9 +36,9 @@ In aggiunta alle paghe ordinarie giornaliere, ai graduati e militari di truppa d
 
 ## Art. 2.
 
-Ai graduati e militari di truppa del Regio esercito e gradi corrispondenti della Regia marina e della Regia aeronautica, raffermati o vincolati a ferma speciale, che non fruiscono di integrazione temporanea a se' stante, si applica il disposto degli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;328#art_4), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;328#art_7) e [10 del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;328#art_10). 
+Ai graduati e militari di truppa del Regio esercito e gradi corrispondenti della Regia marina e della Regia aeronautica, raffermati o vincolati a ferma speciale, che non fruiscono di integrazione temporanea a se' stante, si applica il disposto degli [articoli 4](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md), [7](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md) e [10 del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md). 
  
- E' abrogato l'ultimo periodo della lettera c) del primo comma dell'art. 4 del predetto [decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;328).
+ E' abrogato l'ultimo periodo della lettera c) del primo comma dell'art. 4 del predetto [decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md).
 
 ## Art. 3.
 

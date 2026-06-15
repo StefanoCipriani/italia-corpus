@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il diritto fisso stabilito dall'art. 5 del regolamento approvato con [R. decreto 14 luglio 1898 n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;404), a favore dei segretari comunali per il rilascio dei bollettini di di compravendita di bestiame e' aumentato da lire 0,20 a lire 3, comprensivo di tutte le spese occorrenti per tale servizio.
+Il diritto fisso stabilito dall'art. 5 del regolamento approvato con [R. decreto 14 luglio 1898 n. 404](Che%20approva%20il%20Regolamento%20per%20la%20repressione%20dellabigeato%20e%20del%20pascolo%20abusivo%20in%20Sardegna%20098U0404.md), a favore dei segretari comunali per il rilascio dei bollettini di di compravendita di bestiame e' aumentato da lire 0,20 a lire 3, comprensivo di tutte le spese occorrenti per tale servizio.
 
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.
 

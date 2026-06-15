@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il Nostro decreto 18 novembre 1915, n. 1625, convertito nella [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774), col quale si stabiliscono economie nelle spese delle varie Amministrazioni dello Stato; 
+ Visto il Nostro decreto 18 novembre 1915, n. 1625, convertito nella [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md), col quale si stabiliscono economie nelle spese delle varie Amministrazioni dello Stato; 
  
  Udito il Consiglio dei ministri; 
  

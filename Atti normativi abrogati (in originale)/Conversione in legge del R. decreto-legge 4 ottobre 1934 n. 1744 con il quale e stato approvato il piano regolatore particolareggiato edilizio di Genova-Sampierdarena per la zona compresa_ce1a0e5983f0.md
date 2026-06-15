@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 ottobre 1934, n. 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-04;1744), con il quale e' stato approvato il piano regolatore particolareggiato edilizio di Genova-Sanpierdarena, per la zona compresa fra le vie Cavour, Colombo e Garibaldi, con le relative norme di attuazione. 
+ E' convertito in legge il [R. decreto-legge 4 ottobre 1934, n. 1744](Approvazione%20del%20piano%20regolatore%20particolareggiato%20edilizio%20di%20Genova-Sampierdarena%20per%20la%20zona%20compresa%20fra%20le%20vie%20Cavour%20Colombo%20e%20Garibaldi%20e%20delle%20relative%20norme%20di%20esecuzione.%20034U1744.md), con il quale e' stato approvato il piano regolatore particolareggiato edilizio di Genova-Sanpierdarena, per la zona compresa fra le vie Cavour, Colombo e Garibaldi, con le relative norme di attuazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -38,7 +38,7 @@ Le disposizioni di cui sopra avranno effetto dal 1° giugno
 
 1917.
 
-E' abrogato il [R. decreto 16 maggio 1912, n. 715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;715), ed ogni altra disposizione contraria al presente decreto. 
+E' abrogato il [R. decreto 16 maggio 1912, n. 715](Concernente%20i%20compensi%20da%20corrispondersi%20ai%20componenti%20governativi%20delle%20Giunte%20tecniche%20catastali.%20012U0715.md), ed ogni altra disposizione contraria al presente decreto. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;891#art_1), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;891#art_3), [5 della legge 13 luglio 1965, numero 891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;891#art_5), concernente delega al Governo per l'emanazione di norme relative all'ordinamento dell'Amministrazione degli affari esteri;
+Visti gli [articoli 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), [3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), [5 della legge 13 luglio 1965, numero 891](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), concernente delega al Governo per l'emanazione di norme relative all'ordinamento dell'Amministrazione degli affari esteri;
 
-Vista la [legge 25 luglio 1966, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;586), concernente la proroga della delega predetta;
+Vista la [legge 25 luglio 1966, n. 586](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20della%20delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri%20e%20per%20modificare%20e%20coordinare%20le%20norme%20vigenti%20in%20materia%20consolare.md), concernente la proroga della delega predetta;
 
-Udita la Commissione parlamentare di cui all'[art. 1 della legge 13 luglio 1965, n. 891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;891#art_1);
+Udita la Commissione parlamentare di cui all'[art. 1 della legge 13 luglio 1965, n. 891](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20allordinamento%20dellAmministrazione%20degli%20affari%20esteri.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -35,7 +35,7 @@ Per esigenze di servizio le funzioni di direttore didattico possono essere affid
 
 ## Art. 3. — (Corsi di informazione)
 
-Il personale da destinare all'estero puo' essere chiamato a frequentare, in base all'[art. 95 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_95), appositi corsi di informazione ed orientamento sul servizio all'estero. 
+Il personale da destinare all'estero puo' essere chiamato a frequentare, in base all'[art. 95 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), appositi corsi di informazione ed orientamento sul servizio all'estero. 
  I corsi per il personale insegnante hanno luogo durante le vacanze di fine anno scolastico.
 
 ## Art. 4. — (Collocamento fuori ruolo)
@@ -57,7 +57,7 @@ La destinazione da una ad altra sede all'estero del personale di cui al presente
 
 ## Art. 7. — (Trattamento economico durante i congedi - Aspettative)
 
-Ferma restando la disciplina della corresponsione dell'assegno personale durante il congedo ordinario stabilita dall'[art. 9 della legge 6 ottobre 1962, n. 1546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-06;1546#art_9), durante i periodi di congedo straordinario per infermita', gravidanza e puerperio, l'assegno personale e' corrisposto per intero durante il primo mese e con la riduzione del venti per cento per il restante periodo. Trascorsi i suddetti periodi e in tutti gli altri casi di congedo straordinario previsti per le singole categorie di personale dai rispettivi ordinamenti la corresponsione dell'assegno personale e' sospesa. 
+Ferma restando la disciplina della corresponsione dell'assegno personale durante il congedo ordinario stabilita dall'[art. 9 della legge 6 ottobre 1962, n. 1546](Trattamento%20economico%20del%20personale%20addetto%20alle%20istituzioni%20culturali%20e%20scolastiche%20allestero_2.md), durante i periodi di congedo straordinario per infermita', gravidanza e puerperio, l'assegno personale e' corrisposto per intero durante il primo mese e con la riduzione del venti per cento per il restante periodo. Trascorsi i suddetti periodi e in tutti gli altri casi di congedo straordinario previsti per le singole categorie di personale dai rispettivi ordinamenti la corresponsione dell'assegno personale e' sospesa. 
  Il personale collocato in aspettativa e' restituito ai ruoli di provenienza.
 
 ## Art. 8. — (Rapporti informativi)
@@ -77,13 +77,13 @@ La destinazione all'estero puo' cessare in qualunque momento, con decreto del Mi
 ## Art. 10. — (Assegnazione alle sedi metropolitane)
 
 All'atto della restituzione ai ruoli di provenienza i professori universitari riacquistano la cattedra nella Universita' alla quale appartengono. Gli ispettori scolastici, i direttori didattici, i professori di scuole secondarie e i maestri elementari riacquistano la sede scolastica nella quale erano titolari al momento della loro destinazione all'estero, se il loro servizio all'estero non sia durato oltre un triennio e non sia cessato per motivi di demerito. 
- I capi di istituto, qualunque sia stata la durata del loro servizio all'estero, e gli altri appartenenti al personale di ruolo, nel caso che il loro servizio sia durato oltre tre anni, hanno la facolta' di richiedere di essere destinati con diritto di priorita', qualora vi sia vacanza, alla stessa scuola o, in subordine, nella sede scolastica nella quale erano titolari all'atto della loro destinazione all'estero, ovvero ad una sede scolastica, a scelta del Ministero della pubblica istruzione, fra tre da essi indicate, nelle quali vi sia vacanza. Tale facolta' per i capi di istituto o per gli insegnanti di scuole secondarie e' limitata alle sedi della stessa categoria di quelle di provenienza, ferma restando la disposizione transitoria di cui al [terzo comma dell'art. 7 della legge 13 luglio 1939, n. 1120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-13;1120#art_7-com3), e successive proroghe.
+ I capi di istituto, qualunque sia stata la durata del loro servizio all'estero, e gli altri appartenenti al personale di ruolo, nel caso che il loro servizio sia durato oltre tre anni, hanno la facolta' di richiedere di essere destinati con diritto di priorita', qualora vi sia vacanza, alla stessa scuola o, in subordine, nella sede scolastica nella quale erano titolari all'atto della loro destinazione all'estero, ovvero ad una sede scolastica, a scelta del Ministero della pubblica istruzione, fra tre da essi indicate, nelle quali vi sia vacanza. Tale facolta' per i capi di istituto o per gli insegnanti di scuole secondarie e' limitata alle sedi della stessa categoria di quelle di provenienza, ferma restando la disposizione transitoria di cui al [terzo comma dell'art. 7 della legge 13 luglio 1939, n. 1120](Disposizioni%20concernenti%20i%20concorsi%20speciali%20a%20cattedre%20di%20scuole%20medie.%20039U1120.md), e successive proroghe.
 
 ## Art. 11. — (Assegni di sede)
 
 Al personale in servizio nelle istituzioni culturali e scolastiche all'estero, oltre allo stipendio e agli assegni di carattere fisso e continuativo previsti per l'interno, tranne che per tali assegni sia diversamente disposto, compete, dal giorno di assunzione fino a quello di cessazione dalle funzioni in sede, uno speciale assegno di sede, non avente carattere retributivo, per sopperire agli oneri derivanti dal servizio all'estero. Tale assegno e' costituito: 
  a) dall'assegno base previsto per le diverse funzioni dalla tabella allegata al presente decreto; 
- b) dalle maggiorazioni o dalle riduzioni relative alle singole sedi determinate secondo coefficienti da fissarsi con decreto del Ministro per gli affari esteri, di concerto con quello per il tesoro, sentita la Commissione di cui all'[art. 172 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_172). 
+ b) dalle maggiorazioni o dalle riduzioni relative alle singole sedi determinate secondo coefficienti da fissarsi con decreto del Ministro per gli affari esteri, di concerto con quello per il tesoro, sentita la Commissione di cui all'[art. 172 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md). 
  I coefficienti sono fissati sulla base del costo della vita e delle sue variazioni risultanti dalle periodiche pubblicazioni statistiche dell'O.N.U., del Fondo monetario internazionale e locali, nonche' dalle relazioni dei capi di rappresentanza diplomatica e, in particolari situazioni dei capi di ufficio consolare, dai rapporti degli ispettori del Ministero e degli uffici all'estero, come pure da ogni altro elemento utile, tenuto conto, tra l'altro, del corso dei cambi e delle particolari condizioni locali anche in relazione agli eventuali disagi della sede, al costo degli alloggi, del personale domestico e dei servizi. 
  Al personale cui venga integralmente sospesa la corresponsione dell'assegno personale e che continui ad occupare un posto all'estero compete l'intero trattamento previsto per l'interno escluse le indennita' per i servizi o funzioni di carattere speciale.
 
@@ -97,11 +97,11 @@ L'assegno di sede all'estero e' aumentato del 20% a favore del personale coniuga
 1 della legge 11 febbraio 1963, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-11;79#art_1). Per i dipendenti di cui al quarto comma si intendono a carico anche le figlie nubili maggiorenni con essi conviventi. 
  Nel caso di piu' figlie nubili maggiorenni, gli aumenti di cui al quarto comma spettano soltanto per due di esse. 
  Ai fini del presente decreto si intende per "assegno di sede" quello previsto dal primo comma dell'art. 11 e per "assegno personale" quello risultante dall'eventuale cumulo dell'assegno di sede con gli aumenti, in dipendenza della situazione di famiglia, di cui al presente articolo. 
- Per quanto riguarda gli aumenti previsti dal presente articolo si applicano le disposizioni di cui al sesto e settimo comma dell'art. 173, al quarto comma dell'articolo 174, all'undecimo comma dell'[art. 266 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_266).
+ Per quanto riguarda gli aumenti previsti dal presente articolo si applicano le disposizioni di cui al sesto e settimo comma dell'art. 173, al quarto comma dell'articolo 174, all'undecimo comma dell'[art. 266 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
 
 ## Art. 13. — (Alloggi demaniali all'estero)
 
-Al personale che usufruisca di alloggio demaniale si applicano le disposizioni di cui all'[art. 84 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_84).
+Al personale che usufruisca di alloggio demaniale si applicano le disposizioni di cui all'[art. 84 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
 
 ## Art. 14. — (Indennita' di sistemazione)
 
@@ -110,14 +110,14 @@ All'atto dell'assunzione del servizio in ciascuna sede all'estero, il personale 
 ## Art. 15. — (Contributo spese per abitazione)
 
 Al personale che per l'abitazione vuota o mobiliata sopporti una spesa superiore al 20% dell'assegno personale spetta un contributo da parte dello Stato. 
- Il contributo e' commisurato ai quattro quinti della differenza fra il canone di locazione e un ammontare pari al 18% dell'assegno personale. Nel caso in cui il canone superi il 25% dell'assegno personale, il contributo e' concesso, per la parte compresa tra il 25% e il 30%, in ragione di tre quinti; il suddetto limite del 30% e' elevato al 32,50% e al 35% per il personale che presta servizio rispettivamente nelle residenze disagiate e particolarmente disagiate di cui all'[art. 144 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_144). 
+ Il contributo e' commisurato ai quattro quinti della differenza fra il canone di locazione e un ammontare pari al 18% dell'assegno personale. Nel caso in cui il canone superi il 25% dell'assegno personale, il contributo e' concesso, per la parte compresa tra il 25% e il 30%, in ragione di tre quinti; il suddetto limite del 30% e' elevato al 32,50% e al 35% per il personale che presta servizio rispettivamente nelle residenze disagiate e particolarmente disagiate di cui all'[art. 144 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md). 
  Il contributo e' dovuto in costanza del contratto di locazione nel periodo compreso tra l'assunzione di funzioni in sede e la cessazione definitiva dalle funzioni stesse. Esso viene corrisposto anche durante il congedo e nei periodi in cui e' sospeso o diminuito l'assegno personale. 
  Salvo diverse disposizioni regolamentari, per quanto riguarda le condizioni e le modalita' per la concessione e la corresponsione del contributo si applicano le disposizioni dell'art. 279 del decreto del Presidente della - Repubblica 5 gennaio 1967, n. 18. La competenza ad esprimere il parere sulla rispondenza dell'alloggio spetta al capo dell'ufficio diplomatico o consolare cui sono devolute le funzioni di cui all'[art. 2 del testo unico 12 febbraio 1940, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1940-02-12;740#art_2), e quelle di cui all'[art. 54 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md).
 
 ## Art. 16. — (Provvidenze scolastiche)
 
 Al personale con ex coefficiente di stipendio non superiore a 500, il quale abbia figli a carico che studino in Italia o frequentino all'estero, in localita' diversa dalla sede di servizio, una scuola italiana statale o legalmente riconosciuta, e' accordato, a domanda, un contributo mensile di ventimila lire per ogni figlio in eta' compresa tra i dieci e i diciotto anni e di trentamila lire per ogni figlio in eta' compresa tra i diciannove e i ventisei anni. 
- Il contributo e' accordato senza limitazione di coefficiente al personale in servizio nelle sedi particolarmente disagiate di cui all'[art. 144 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_144). 
+ Il contributo e' accordato senza limitazione di coefficiente al personale in servizio nelle sedi particolarmente disagiate di cui all'[art. 144 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md). 
  Le provvidenze previste dal presente articolo sono concesse nei limiti della durata effettiva degli studi, seguiti con continuita'.
 
 ## Art. 17. — (Spese di viaggio per congedo)
@@ -134,10 +134,10 @@ Per i viaggi di trasferimento all'estero o dall'estero o fra sedi all'estero spe
  a) per i percorsi in ferrovia, il pagamento delle spese relative alla prima classe con eventuale supplemento rapido a tutto il personale nonche' di quelle relative al vagone letto in compartimento singolo ai direttori, vice direttori e docenti degli istituti di cultura, presidi, professori dei ruoli A e B, ispettori scolastici, direttori didattici, funzionari direttivi, docenti e lettori presso istituzioni scolastiche e culturali straniere. Il Ministero puo' autorizzare, in considerazione dei disagi del viaggio o di particolari circostanze, il pagamento delle spese relative al vagone letto in compartimento doppio o, in mancanza, in compartimento singolo a favore di altro personale. Per i tratti in territorio nazionale, ove si abbia diritto a riduzione ferroviaria, le spese di viaggio competono entro i limiti della riduzione stessa; 
  b) per i percorsi marittimi, il pagamento delle spese, comprensive del passaggio e del vitto, per una cabina di prima classe singola al personale, specificatamente elencato al punto a), avente diritto al vagone letto in compartimento singolo e per un posto di prima classe al restante personale; 
  c) per i percorsi in aereo, il pagamento delle spese per la prima classe al personale, specificatamente elencato al punto a), avente diritto al vagone letto in compartimento singolo e per la classe turistica al restante personale. 
- Per i tragitti effettuati con altri mezzi si applicano le disposizioni dell'[art. 194 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_194). 
- Oltre al pagamento delle spese di cui ai precedenti commi spetta il trattamento di cui all'[art. 195 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_195). 
- Ai viaggi di trasferimento del personale di cui al presente decreto, si applicano le disposizioni previste dallo [art. 202 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_202). 
- I trattamenti di cui sopra si estendono, con l'osservanza dei criteri previsti all'[art. 196, secondo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_196-com2), ai familiari a carico di cui all'art. 12 del presente decreto. 
+ Per i tragitti effettuati con altri mezzi si applicano le disposizioni dell'[art. 194 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md). 
+ Oltre al pagamento delle spese di cui ai precedenti commi spetta il trattamento di cui all'[art. 195 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md). 
+ Ai viaggi di trasferimento del personale di cui al presente decreto, si applicano le disposizioni previste dallo [art. 202 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md). 
+ I trattamenti di cui sopra si estendono, con l'osservanza dei criteri previsti all'[art. 196, secondo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), ai familiari a carico di cui all'art. 12 del presente decreto. 
  Il personale che cessi dalle funzioni all'estero per ragioni diverse dal richiamo o dalla destinazione ad altra sede ha diritto per se' e per i familiari a carico al pagamento, a norma del presente decreto, delle spese di viaggio e di trasporto degli effetti per trasferirsi al luogo di residenza prescelto in Italia o, nei limiti di tali spese, in altro paese. Il personale cessato dalle funzioni che non si trasferisca entro un anno dalla data di cessazione decade dal diritto.
 
 ## Art. 19. — (Trasporto degli effetti)
@@ -164,17 +164,17 @@ Al personale con comando annuale di cui all'[art. 19 del testo unico 12 febbraio
 Coloro che, per ragioni di servizio, dalle sedi all'estero vengano chiamati temporaneamente in Italia conservano, per un periodo massimo di dieci giorni oltre quelli necessari per il viaggio, l'intero assegno personale. L'intero assegno personale e' altresi' mantenuto, per un periodo massimo di dieci giorni, a coloro che siano trattenuti in Italia per ragioni di servizio durante o allo scadere del congedo ordinario. 
  A coloro che compiono viaggi nel paese di residenza o in altri paesi esteri, oltre all'assegno personale in godimento, spetta: 
  a) nei casi di viaggi nel paese in cui prestano servizio, un'indennita' giornaliera pari a un sessantesimo dell'assegno di sede mensile; 
- b) nei casi di viaggi dalla sede di servizio in altri paesi, un'indennita' giornaliera pari a un sessantesimo dell'assegno base mensile maggiorato del coefficiente previsto per il personale delle istituzioni scolastiche e culturali in servizio nella sede dove si svolge la missione. In mancanza di tale coefficiente, il coefficiente da applicarsi e' stabilito con decreto del Ministro per gli affari esteri, sentita la Commissione di cui all'[articolo 172 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_172). 
+ b) nei casi di viaggi dalla sede di servizio in altri paesi, un'indennita' giornaliera pari a un sessantesimo dell'assegno base mensile maggiorato del coefficiente previsto per il personale delle istituzioni scolastiche e culturali in servizio nella sede dove si svolge la missione. In mancanza di tale coefficiente, il coefficiente da applicarsi e' stabilito con decreto del Ministro per gli affari esteri, sentita la Commissione di cui all'[articolo 172 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md). 
  Per i viaggi compiuti ai sensi del presente articolo sono corrisposte, oltre alle spese di cui all'art. 18, anche le spese per la spedizione del bagaglio-presso fino a un peso di 50 kg. 
  I viaggi di servizio sono disposti dal Ministero degli affari esteri.
 
 ## Art. 23. — (Modalita' di pagamento delle competenze)
 
-Per il pagamento delle competenze al personale in servizio presso le istituzioni scolastiche e culturali all'estero si applicano le disposizioni previste dall'[art. 209 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_209).
+Per il pagamento delle competenze al personale in servizio presso le istituzioni scolastiche e culturali all'estero si applicano le disposizioni previste dall'[art. 209 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
 
 ## Art. 24. — (Rinvio)
 
-Sono estese al personale in servizio nelle istituzioni scolastiche e culturali all'estero, nei limiti delle disposizioni del presente decreto, le provvidenze di cui agli [articoli 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_207), [208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_208) e [211 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_211), concernenti i casi di decesso durante il servizio all'estero, l'indennizzo per danni e l'assistenza sanitaria, limitatamente, per questa ultima, agli aventi diritto all'assistenza ENPAS.
+Sono estese al personale in servizio nelle istituzioni scolastiche e culturali all'estero, nei limiti delle disposizioni del presente decreto, le provvidenze di cui agli [articoli 207](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), [208](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e [211 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), concernenti i casi di decesso durante il servizio all'estero, l'indennizzo per danni e l'assistenza sanitaria, limitatamente, per questa ultima, agli aventi diritto all'assistenza ENPAS.
 
 ## Art. 25. — (Valutazione del servizio prestato all'estero)
 
@@ -182,7 +182,7 @@ Ai fini dell'ammissione ai concorsi a preside, ogni biennio di servizio prestato
 
 ## Art. 26. — (Disposizione transitoria)
 
-Le disposizioni dell'art. 5 non si applicano al personale in servizio all'estero alla data di entrata in vigore del presente decreto: ad esso continuano ad applicarsi le norme del precedente ordinamento, sentito, per i criteri generali di richiamo e di avvicendamento, il comitato consultivo misto di cui alla [lettera d) dell'articolo 213 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_213-letd).
+Le disposizioni dell'art. 5 non si applicano al personale in servizio all'estero alla data di entrata in vigore del presente decreto: ad esso continuano ad applicarsi le norme del precedente ordinamento, sentito, per i criteri generali di richiamo e di avvicendamento, il comitato consultivo misto di cui alla [lettera d) dell'articolo 213 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
 
 ## Art. 27. — (Decorrenze)
 
@@ -192,7 +192,7 @@ Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazz
 
 ## Art. 28. — (Spese)
 
-Alle spese derivanti dall'attuazione del presente decreto si provvede secondo quanto stabilito dall'[art. 267 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_267).
+Alle spese derivanti dall'attuazione del presente decreto si provvede secondo quanto stabilito dall'[art. 267 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
 
 ## Art. 29. — (Materie non disciplinate dal presente decreto)
 

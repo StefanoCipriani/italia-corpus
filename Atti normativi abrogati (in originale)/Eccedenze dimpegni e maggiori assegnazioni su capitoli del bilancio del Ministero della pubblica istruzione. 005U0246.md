@@ -48,7 +48,7 @@ E' approvata in L. 112.24 l'eccedenza d'impegni verificatasi sull'assegnazione d
 
 ## Art. 9.
 
-E' approvata in L. 344,412.77 l'eccedenza d'impegni verificatasi sull'assegnazione del cap. n. 27: «Regie Universita' ed altri Istituti universitari - Personale (Spese fisse) - Stipendi, assegni e retribuzioni per incarichi e supplenze a posti vacanti - Assegni e compensi al personale straordinario; indennita' e retribuzioni per eventuali servizi straordinari - Propine in supplemento della sopratassa di esame ([R. decreto 26 ottobre 1890, n. 7337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-10-26;7337), serie 3ª)» dello stato di previsione della spesa del Ministero dell'istruzione pubblica per l'esercizio finanziario 1902-903, ed inscritta per L. 414,865.96 nel rendiconto consuntivo di questo esercizio. 
+E' approvata in L. 344,412.77 l'eccedenza d'impegni verificatasi sull'assegnazione del cap. n. 27: «Regie Universita' ed altri Istituti universitari - Personale (Spese fisse) - Stipendi, assegni e retribuzioni per incarichi e supplenze a posti vacanti - Assegni e compensi al personale straordinario; indennita' e retribuzioni per eventuali servizi straordinari - Propine in supplemento della sopratassa di esame ([R. decreto 26 ottobre 1890, n. 7337](Che%20approva%20lannesso%20regolamento%20universitario.%20090U7337.md), serie 3ª)» dello stato di previsione della spesa del Ministero dell'istruzione pubblica per l'esercizio finanziario 1902-903, ed inscritta per L. 414,865.96 nel rendiconto consuntivo di questo esercizio. 
  
  La differenza di L. 70,453.19 sara' portata in economia al corrispondente capitolo nel rendiconto consuntivo per l'esercizio finanziario 1904-905 (residui).
 

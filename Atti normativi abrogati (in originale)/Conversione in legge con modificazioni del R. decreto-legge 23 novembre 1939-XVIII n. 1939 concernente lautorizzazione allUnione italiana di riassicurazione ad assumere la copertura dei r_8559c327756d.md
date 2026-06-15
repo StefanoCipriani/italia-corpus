@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 novembre 1939, n. 1939](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-11-23;1939), concernente l'autorizzazione all'Unione italiana di riassicurazione ad assumere la copertura dei rischi di guerra della navigazione marittima ed aerea, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 23 novembre 1939, n. 1939](Autorizzazione%20allUnione%20italiana%20di%20riassicurazione%20ad%20assumere%20la%20copertura%20dei%20rischi%20di%20guerra%20della%20navigazione%20marittima%20ed%20aerea.%20039U1939.md), concernente l'autorizzazione all'Unione italiana di riassicurazione ad assumere la copertura dei rischi di guerra della navigazione marittima ed aerea, con le seguenti modificazioni: 
  
  L'articolo 1 e' sostituito dal seguente: 
  

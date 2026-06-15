@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 12 maggio 1950, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230), recante provvedimenti per la colonizzazione dell'Altopiano della Sila e dei territori jonici contermini;
+Vista la [legge 12 maggio 1950, n. 230](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), recante provvedimenti per la colonizzazione dell'Altopiano della Sila e dei territori jonici contermini;
 
-Vista la [legge 21 ottobre 1950, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841), recante norme per la espropriazione, bonifica, trasformazione ed assegnazione dei terreni ai contadini;
+Vista la [legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), recante norme per la espropriazione, bonifica, trasformazione ed assegnazione dei terreni ai contadini;
 
-Visto il [decreto legislativo 10 aprile 1951, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1951-04-10;256), contenente norme per l'applicazione della predetta [legge 21 ottobre 1950, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841), a tutto il territorio della Sardegna;
+Visto il [decreto legislativo 10 aprile 1951, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1951-04-10;256), contenente norme per l'applicazione della predetta [legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), a tutto il territorio della Sardegna;
 
-Vista la delega contenuta nell'art. 2 della predetta [legge 21 ottobre 1950, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Vista la delega contenuta nell'art. 2 della predetta [legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per Pagricoltura e per le forest
 
 ## Art. 1.
 
-Ai sensi dell'[art. 2 della legge 21 ottobre 1950, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841#art_2), e' costituito l'Ente per la trasformazione fondiaria ed agraria in Sardegna, con lo scopo di esercitare, nel territorio indicato nell'art. 2 del presente decreto, le funzioni relative alla espropriazione, bonifica, trasformazione ed assegnazione dei terreni ai contadini, nonche' le altre attribuzioni previste dalla citata [legge 21 ottobre 1950, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841), e quelle che potranno essere conferite da successive disposizioni di legge in materia di riforma fondiaria o di bonifica.
+Ai sensi dell'[art. 2 della legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e' costituito l'Ente per la trasformazione fondiaria ed agraria in Sardegna, con lo scopo di esercitare, nel territorio indicato nell'art. 2 del presente decreto, le funzioni relative alla espropriazione, bonifica, trasformazione ed assegnazione dei terreni ai contadini, nonche' le altre attribuzioni previste dalla citata [legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e quelle che potranno essere conferite da successive disposizioni di legge in materia di riforma fondiaria o di bonifica.
 
 ## Art. 2.
 
@@ -77,9 +77,9 @@ Il Consiglio dell'Ente da' parere su tutti gli affari sui quali sia interpellato
  l) sull'accensione o cancellazione di ipoteche, sulle deliberazioni di stare o resistere in giudizio e sulle transazioni;
  m) sulle convenzioni con Istituti di credito, sulla stipulazione di mutui e sulle operazioni di sconto o di cessione in garanzia delle rate di pagamento dei terreni assegnati;
  n) sulla costituzione di societa' o enti e sulla partecipazione ad essi;
- o) sui programmi per l'attuazione dei compiti indicati nell'[art. 22 della legge 12 maggio 1950, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230#art_22);
+ o) sui programmi per l'attuazione dei compiti indicati nell'[art. 22 della legge 12 maggio 1950, n. 230](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md);
  p) sulle domande di derivazione d'acqua;
- q) sulle domande di autorizzazione a sostituirsi ai proprietari ai sensi dell'[art. 10 della legge 31 dicembre 1947, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1947-12-31;1629#art_10);
+ q) sulle domande di autorizzazione a sostituirsi ai proprietari ai sensi dell'[art. 10 della legge 31 dicembre 1947, n. 1629](Norme%20per%20la%20istituzione%20dellOpera%20di%20valorizzazione%20della%20Sila.md);
  r) sulla eventuale istituzione di Comitati consultivi;
  s) sull'accettazione di eredita', donazioni e legati disposti a favore dell'Ente.
 
@@ -127,7 +127,7 @@ All'Ente e' assegnato un patrimonio di fondazione di lire 150 milioni a carico d
 
 ## Art. 16.
 
-Con decreto del Ministro per l'agricoltura e per le foreste verra' determinata la somma da assegnarsi all'Ente per l'esercizio 1950-51 mediante prelevamento sulla somma di 28 miliardi prevista dal [secondo comma dell'art. 24 della legge 21 ottobre 1950, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841#art_24-com2).
+Con decreto del Ministro per l'agricoltura e per le foreste verra' determinata la somma da assegnarsi all'Ente per l'esercizio 1950-51 mediante prelevamento sulla somma di 28 miliardi prevista dal [secondo comma dell'art. 24 della legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md).
  Per gli esercizi finanziari 1951-52 al 1959-60 incluso, la somma da assegnarsi annualmente all'Ente secondo le norme del primo comma del citato art. 24, verra' determinata con decreto del Ministro per l'agricoltura e per le foreste.
 
 ## Art. 17.
@@ -140,11 +140,11 @@ Il versamento all'Ente delle somme ad esso assegnate verra' effettuato su presen
 
 ## Art. 18.
 
-L'Ente esercita tutte le funzioni indicate all'[art. 10 della legge 12 maggio 1950, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230#art_10), ed agli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841#art_3) e [22 della legge 21 ottobre 1950, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841#art_22).
+L'Ente esercita tutte le funzioni indicate all'[art. 10 della legge 12 maggio 1950, n. 230](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ed agli [articoli 3](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md) e [22 della legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md).
 
 ## Art. 19.
 
-Si applicano a favore dell'Ente le agevolazioni fiscali previste, per gli atti e contratti compiuti dall'Opera per la valorizzazione della Sila, dagli [articoli 11 della legge 31 dicembre 1947, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1947-12-31;1629#art_11), e 29 della [legge 12 maggio 1950, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230).
+Si applicano a favore dell'Ente le agevolazioni fiscali previste, per gli atti e contratti compiuti dall'Opera per la valorizzazione della Sila, dagli [articoli 11 della legge 31 dicembre 1947, n. 1629](Norme%20per%20la%20istituzione%20dellOpera%20di%20valorizzazione%20della%20Sila.md), e 29 della [legge 12 maggio 1950, n. 230](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md).
 
 ## Art. 20.
 
@@ -154,11 +154,11 @@ L'Ente svolge, di regola, la sua attivita' attraverso programmi predisposti dal 
 
 ## Art. 21.
 
-Nei casi previsti dall'ultimo comma dell'[art. 20 della legge 21 ottobre 1950, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841#art_20), gli interessati sono tenuti a fornire all'Ente, a mezzo di lettera raccomandata con ricevuta di ritorno, nel termine di trenta giorni dall'entrata in vigore del presente decreto, la prova documentata a norma dell'[art. 2704 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2704), delle alienazioni poste in essere anteriormente al 29 ottobre 1950, ai sensi del [decreto legislativo 24 febbraio 1948, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-24;114), ratificato, con modificazioni, dalla [legge 22 marzo 1950, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-03-22;144).
+Nei casi previsti dall'ultimo comma dell'[art. 20 della legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), gli interessati sono tenuti a fornire all'Ente, a mezzo di lettera raccomandata con ricevuta di ritorno, nel termine di trenta giorni dall'entrata in vigore del presente decreto, la prova documentata a norma dell'[art. 2704 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2704), delle alienazioni poste in essere anteriormente al 29 ottobre 1950, ai sensi del [decreto legislativo 24 febbraio 1948, n. 114](../Decreti%20Legislativi/Provvidenze%20a%20favore%20della%20piccola%20proprieta%20contadina.md), ratificato, con modificazioni, dalla [legge 22 marzo 1950, n. 144](../Leggi%20di%20ratifica/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%205%20maggio%201948%20n.%201242%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2024%20febbraio%201948%20n.%20114%20concernenti%20provvidenze%20a%20favore%20de_de112bc48ebe.md).
 
 ## Art. 22.
 
-Le osservazioni relative ad eventuali errori od omissioni dei piani particolareggiati di espropriazione debbono essere proposte dagli interessati a mezzo di lettera raccomandata con ricevuta di ritorno diretta all'Ente nel termine indicato nell'[art. 4 della legge 12 maggio 1950, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230#art_4).
+Le osservazioni relative ad eventuali errori od omissioni dei piani particolareggiati di espropriazione debbono essere proposte dagli interessati a mezzo di lettera raccomandata con ricevuta di ritorno diretta all'Ente nel termine indicato nell'[art. 4 della legge 12 maggio 1950, n. 230](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md).
 
 ## Art. 23.
 
@@ -166,7 +166,7 @@ Il termine entro il quale gli interessati possono chidedere all'Ente la rettific
 
 ## Art. 24.
 
-Al fine di assicurare la migliore conoscenza del piano particolareggiato di espropriazione da parte degli interessati, l'Ente ha facolta' di adottare altre forme di pubblicazione, in aggiunta a quelle prescritte dall'[art. 4 della legge 12 maggio 1950, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230#art_4), ferme restando le disposizioni del precedente art. 23 circa la data di decorrenza del termine per la presentazione di eventuali reclami.
+Al fine di assicurare la migliore conoscenza del piano particolareggiato di espropriazione da parte degli interessati, l'Ente ha facolta' di adottare altre forme di pubblicazione, in aggiunta a quelle prescritte dall'[art. 4 della legge 12 maggio 1950, n. 230](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ferme restando le disposizioni del precedente art. 23 circa la data di decorrenza del termine per la presentazione di eventuali reclami.
 
 ## Art. 25.
 

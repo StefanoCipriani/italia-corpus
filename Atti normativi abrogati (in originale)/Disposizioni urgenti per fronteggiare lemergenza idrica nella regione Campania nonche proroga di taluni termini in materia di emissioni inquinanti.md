@@ -48,7 +48,7 @@ Gli impianti industriali esistenti appartenenti alle categorie indicate nell'all
 
 2.
 
-Relativamente al termine per la presentazione delle domande di autorizzazione alle emissioni degli impianti di cui al comma 1, le parole: "entro dodici mesi" di cui all'articolo 12 del citato decreto del Presidente della Repubblica n. 203, come modificato dall'[articolo 6, comma 1, del decreto-legge 30 giugno 1989, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-30;245#art_6-com1), convertito, con modificazioni, dalla [legge 4 agosto 1989, n. 288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-04;288), sono sostituite dalle seguenti: "entro il 30 settembre 1990".
+Relativamente al termine per la presentazione delle domande di autorizzazione alle emissioni degli impianti di cui al comma 1, le parole: "entro dodici mesi" di cui all'articolo 12 del citato decreto del Presidente della Repubblica n. 203, come modificato dall'[articolo 6, comma 1, del decreto-legge 30 giugno 1989, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-30;245#art_6-com1), convertito, con modificazioni, dalla [legge 4 agosto 1989, n. 288](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201989%20n.%20245%20recante%20proroga%20di%20taluni%20termini%20previsti%20da%20disposizioni%20legislative.md), sono sostituite dalle seguenti: "entro il 30 settembre 1990".
 
 3.
 

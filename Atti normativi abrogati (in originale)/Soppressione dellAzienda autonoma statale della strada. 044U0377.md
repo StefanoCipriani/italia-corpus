@@ -42,19 +42,19 @@ Con decreto del Ministro per i lavori pubblici potranno essere risoluti i contra
 
 ## Art. 6.
 
-La facolta', concessa all'Azienda, con l'[art. 20 della legge 17 maggio 1928, n. 1094](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-05-17;1094#art_20), resta in vigore nei confronti del Ministero dei lavori pubblici.
+La facolta', concessa all'Azienda, con l'[art. 20 della legge 17 maggio 1928, n. 1094](Istituzione%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1094.md), resta in vigore nei confronti del Ministero dei lavori pubblici.
 
 ## Art. 7.
 
 Il personale di ruolo dell'Amministrazione centrale e provinciale dei lavori pubblici comandato a prestare servizio presso l'Azienda cessa da tale posizione. 
  
- Il personale collocato fuori ruolo ai termini dell'ultimo comma dell'[art. 4 del R. decreto 1° giugno 1928, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-01;1139#art_4), modificato con il [R. decreto 8 dicembre 1941, n. 1472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-12-08;1472), rientra nel ruolo di provenienza. 
+ Il personale collocato fuori ruolo ai termini dell'ultimo comma dell'[art. 4 del R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), modificato con il [R. decreto 8 dicembre 1941, n. 1472](Modificazione%20dellart.%204%20ultimo%20comma%20del%20R.%20decreto%201%20giugno%201928-VI%20n.%201139%20sul%20personale%20dellAzienda%20autonoma%20statale%20della%20strada.%20041U1472.md), rientra nel ruolo di provenienza. 
  
- La facolta', di cui all'[art. 7 del R. decreto 1° giugno 1928, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-01;1139#art_7), e' demandata alla Commissione unica per gli affari del personale costituita presso il Ministero dei lavori pubblici in base al [R. decreto-legge 12 aprile 1944, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-04-12;109), per il personale in genere, dipendente dal Ministero stesso.
+ La facolta', di cui all'[art. 7 del R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e' demandata alla Commissione unica per gli affari del personale costituita presso il Ministero dei lavori pubblici in base al [R. decreto-legge 12 aprile 1944, n. 109](Costituzione%20in%20deroga%20agli%20articoli%2011%20e%2068%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202960%20e%20per%20la%20durata%20dellattuale%20stato%20di%20guerra%20di%20una%20Commissione%20unica%20per%20ciascun%20Dicastero%20per%20gli%20aff_c360c0596801.md), per il personale in genere, dipendente dal Ministero stesso.
 
 ## Art. 8.
 
-Il personale assunto con contratto a' termini dell'[articolo 4 del R. decreto 1° giugno 1928, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-01;1139#art_4), e successive modificazioni, passa alle dipendenze del Ministero dei lavori pubblici, conservando il trattamento giuridico ed economico in atto in vigore nei propri confronti. 
+Il personale assunto con contratto a' termini dell'[articolo 4 del R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e successive modificazioni, passa alle dipendenze del Ministero dei lavori pubblici, conservando il trattamento giuridico ed economico in atto in vigore nei propri confronti. 
  
  Non e' consentita l'assunzione di altro personale a contratto con le condizioni di cui al citato art. 4.
 
@@ -72,7 +72,7 @@ La Cassa di mutuo soccorso tra i cantonieri e capi cantonieri delle strade stata
  
  Il contributo statale passera' sul bilancio del Ministero dei lavori pubblici. Detto contributo e' elevato a L. 1.000.000. 
  
- Il fondo massa vestiario di cui all'[art. 8 della legge 22 dicembre 1932, n. 1754](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-12-22;1754#art_8), e' amministrato dalla Cassa di mutuo soccorso di cui al comma che precede. Il contributo, gia' a carico dell'Azienda autonoma statale della strada e' elevato a L. 1.000.000 e gravera' sul bilancio del Ministero dei lavori pubblici.
+ Il fondo massa vestiario di cui all'[art. 8 della legge 22 dicembre 1932, n. 1754](Norme%20per%20lordinamento%20del%20personale%20dei%20cantonieri%20delle%20strade%20statali.%20032U1754.md), e' amministrato dalla Cassa di mutuo soccorso di cui al comma che precede. Il contributo, gia' a carico dell'Azienda autonoma statale della strada e' elevato a L. 1.000.000 e gravera' sul bilancio del Ministero dei lavori pubblici.
 
 ## Art. 12.
 
@@ -80,7 +80,7 @@ Gli organi periferici dell'Azienda sono soppressi.In loro vece sono istituiti de
 
 ## Art. 13.
 
-I ruoli dell'Amministrazione dei lavori pubblici e quelli del Corpo Reale del genio civile saranno aumentati delle unita' risultanti dalla tabella annessa al [Regio decreto-legge 16 giugno 1938, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;1302) (tabella B).
+I ruoli dell'Amministrazione dei lavori pubblici e quelli del Corpo Reale del genio civile saranno aumentati delle unita' risultanti dalla tabella annessa al [Regio decreto-legge 16 giugno 1938, n. 1302](Riordinamento%20dei%20servizi%20e%20del%20personale%20dellAzienda%20autonoma%20statale%20della%20strada.%20038U1302.md) (tabella B).
 
 ## Art. 14.
 

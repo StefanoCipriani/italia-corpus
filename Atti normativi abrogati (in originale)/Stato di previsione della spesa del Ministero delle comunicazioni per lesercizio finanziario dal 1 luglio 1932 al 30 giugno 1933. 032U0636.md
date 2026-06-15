@@ -18,7 +18,7 @@ Il limite di impegno, per l'esercizio finanziario 1932-33, per le sovvenzioni ch
 
 ## Art. 3.
 
-Il limite di impegno, per le sovvenzioni da accordare, nell'esercizio finanziario 1932-33, alle funivie concesse ai sensi della [legge 23 giugno 1927, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1110), resta fissato, a mente dell'[art. 6 del R. decreto-legge 30 ottobre 1930, n. 1417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-30;1417#art_6), in L. 200.000.
+Il limite di impegno, per le sovvenzioni da accordare, nell'esercizio finanziario 1932-33, alle funivie concesse ai sensi della [legge 23 giugno 1927, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1110), resta fissato, a mente dell'[art. 6 del R. decreto-legge 30 ottobre 1930, n. 1417](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20ed%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20per%20lesercizio%20finanziario%201930-31%20nonche%20ai%20bilanci%20speciali%20di%20Aziende%20autonome%20per%20leserciz_7dc5f578cb23.md), in L. 200.000.
 
 ## Art. 4.
 

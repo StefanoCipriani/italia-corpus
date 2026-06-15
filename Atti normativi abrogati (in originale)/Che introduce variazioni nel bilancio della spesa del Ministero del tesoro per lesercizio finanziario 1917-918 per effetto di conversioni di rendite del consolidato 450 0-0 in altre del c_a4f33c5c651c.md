@@ -22,17 +22,17 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi conferita: 
  
- Visto l'[art. 1 della legge 21 dicembre 1903, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483#art_1), col quale fu autorizzata la conversione della rendita consolidata 4,50 0/0 netto in altra del consolidato 3,50 0/0 netto; 
+ Visto l'[art. 1 della legge 21 dicembre 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md), col quale fu autorizzata la conversione della rendita consolidata 4,50 0/0 netto in altra del consolidato 3,50 0/0 netto; 
  
  Visto l'art. 2 della legge stessa, col quale furono dichiarate esenti dalla conversione suddetta le rendite 4,50 0/0 possedute dalle pubbliche istituzioni di beneficenza, in quanto non vengano, successivamente, per effetto di qualsiasi operazione trasferite ad altri intestatari, ovvero tramutate al portatore; 
  
- Visto il regolamento approvato col [R. decreto 21 dicembre 1903, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-12-21;486), per l'esecuzione della legge suddetta; 
+ Visto il regolamento approvato col [R. decreto 21 dicembre 1903, n. 486](Che%20disciplina%20la%20conversione%20del%20consolidato%20450%20in%20consolidato%20350%20per%20cento.%20003U0486.md), per l'esecuzione della legge suddetta; 
  
  Visto il [decreto Luogotenenziale 15 febbraio 1917, n.385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-02-15;385), relativo a variazioni nel bilancio della spesa del Ministero del tesoro per l'esercizio 1916 917, dipendenti da conversioni di rendite del consolidato 4,50 0/0 nette in altre del consolidato 3,50 0/0 netto e viceversa eseguite nel secondo semestre dell'anno 1916; 
  
- Vista la [legge 31 dicembre 1917, n. 2045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-12-31;2045), colla quale venne prorogato l'esercizio provvisorio fino a quando i bilanci non siano approvati per legge; 
+ Vista la [legge 31 dicembre 1917, n. 2045](Che%20proroga%20il%20termine%20indicato%20della%20legge%2028%20ottobre%201917%20n.%201751%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20sian_80dd5cff68ce.md), colla quale venne prorogato l'esercizio provvisorio fino a quando i bilanci non siano approvati per legge; 
  
- Ritenuto che nel corso dell'esercizio 1916-917 venne disposto l'annullamento dell'annua rendita consolidata 4,50 0/0 di L. 1898,60 e convertita in altra del consolidato 3,50 0/0 (1902) di annue L.1476,69 giusta la [legge 21 dicembre 1903, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483); 
+ Ritenuto che nel corso dell'esercizio 1916-917 venne disposto l'annullamento dell'annua rendita consolidata 4,50 0/0 di L. 1898,60 e convertita in altra del consolidato 3,50 0/0 (1902) di annue L.1476,69 giusta la [legge 21 dicembre 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md); 
  
  Ritenuto che nel corso del semestre 1° luglio al 31 dicembre 1917, in seguito ad ulteriori accertamenti, da parte della Direzione generale del debito pubblico, venne riconosciuto che fra le rendite conservate provvisoriamente nel consolidato 4,500/0 netto, dovevano essere, e vennero di fatto convertite nel consolidato 3,50 0/0 netto, iscrizioni: con decorrenza 1° ottobre 1917 per annue L. 1267,48; 
  
@@ -42,7 +42,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  con decorrenza dalla stessa data; 
  
- Ritenuto che trattandosi di operazioni gia' definitivamente compiute in virtu' della citata [legge 21 dicembre 1903, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483), devesi ora provvedere soltanto per le variazioni dei due capitoli dello stato di previsione della spesa del Ministero del tesoro per l'esercizio 1917-918, relativi ai debiti consolidati suddetti; 
+ Ritenuto che trattandosi di operazioni gia' definitivamente compiute in virtu' della citata [legge 21 dicembre 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md), devesi ora provvedere soltanto per le variazioni dei due capitoli dello stato di previsione della spesa del Ministero del tesoro per l'esercizio 1917-918, relativi ai debiti consolidati suddetti; 
  
  Visto l'art. 14 del regolamento sopra ricordato; 
  
@@ -69,7 +69,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  Totale da diminuire . . . 2,849 21 
  -------- 
  
- Al capitolo n. 4. Rendita consolidata 3,50 % netto creata in virtu' delle [leggi 12 giugno 1902, n. 166, e 21 dicembre 1903, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483). 
+ Al capitolo n. 4. Rendita consolidata 3,50 % netto creata in virtu' delle [leggi 12 giugno 1902, n. 166, e 21 dicembre 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md). 
  
  In aumento: 
  

@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 23 gennaio 1910, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-01-23;75); 
+ Visto il [R. decreto 23 gennaio 1910, n. 75](Relativo%20alla%20concentrazione%20dei%20servizi%20marittimi%20nel%20Ministero%20della%20marina.%20010U0075.md); 
  
- Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738); 
+ Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Nello stato di previsione del Ministero dei trasporti marittimi e ferroviari per l'esercizio finanziario 19161917, e' istituito il capitolo n. 30-bis «Spese, per la vigilanza sulla pesca marittima ([R. decreto 23 gennaio 1910, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-01-23;75))», con lo stanziamento di lire millecinquecento (L. 1500) e di egual somma e' diminuita l'assegnazione del capitolo 28 «Indennita' speciali al personale addetto ai servizi della marina mercantile», dello stato di previsione medesimo. 
+ Nello stato di previsione del Ministero dei trasporti marittimi e ferroviari per l'esercizio finanziario 19161917, e' istituito il capitolo n. 30-bis «Spese, per la vigilanza sulla pesca marittima ([R. decreto 23 gennaio 1910, n. 75](Relativo%20alla%20concentrazione%20dei%20servizi%20marittimi%20nel%20Ministero%20della%20marina.%20010U0075.md))», con lo stanziamento di lire millecinquecento (L. 1500) e di egual somma e' diminuita l'assegnazione del capitolo 28 «Indennita' speciali al personale addetto ai servizi della marina mercantile», dello stato di previsione medesimo. 
  
  Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
  

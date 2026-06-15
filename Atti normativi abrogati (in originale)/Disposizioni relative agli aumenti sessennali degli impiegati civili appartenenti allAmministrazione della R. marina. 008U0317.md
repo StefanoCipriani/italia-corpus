@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono estese a tutti gli impiegati civili appartenenti all'Amministrazione della marina le disposizioni contenute negli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-12-31;3624#art_4) e [6 del R. decreto 31 dicembre 1876, n. 3624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-12-31;3624#art_6), o nei RR. decreti 29 gennaio 1880, n. 5539, serie 2ª e 5 maggio 1887, n. 4499, serie 3ª, e contemporaneamente e' abrogato l'[art. 7 della legge 5 luglio 1882, n. 853](Riflettente%20gli%20stipendi%20ed%20assegni%20fissi%20per%20gli%20ufficiali%20ed%20impiegati%20della%20regia%20marina.%20082U0853.md), serie 3ª.
+Sono estese a tutti gli impiegati civili appartenenti all'Amministrazione della marina le disposizioni contenute negli [articoli 4](Che%20stabilisce%20gli%20organici%20del%20personale%20dellamministrazione%20centrale%20e%20del%20consiglio%20superiore%20di%20marina.%20076U3624.md) e [6 del R. decreto 31 dicembre 1876, n. 3624](Che%20stabilisce%20gli%20organici%20del%20personale%20dellamministrazione%20centrale%20e%20del%20consiglio%20superiore%20di%20marina.%20076U3624.md), o nei RR. decreti 29 gennaio 1880, n. 5539, serie 2ª e 5 maggio 1887, n. 4499, serie 3ª, e contemporaneamente e' abrogato l'[art. 7 della legge 5 luglio 1882, n. 853](Riflettente%20gli%20stipendi%20ed%20assegni%20fissi%20per%20gli%20ufficiali%20ed%20impiegati%20della%20regia%20marina.%20082U0853.md), serie 3ª.
 
 ### Art. 2.
 

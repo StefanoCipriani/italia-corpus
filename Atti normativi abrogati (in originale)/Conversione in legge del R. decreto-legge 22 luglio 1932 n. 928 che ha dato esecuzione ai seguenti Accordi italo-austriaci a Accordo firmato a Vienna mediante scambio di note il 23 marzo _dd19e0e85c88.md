@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 luglio 1932, n. 928](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-07-22;928), che ha dato esecuzione ai seguenti Accordi italo-austriaci: 
+ E' convertito in legge il [R. decreto-legge 22 luglio 1932, n. 928](Esecuzione%20dei%20seguenti%20Accordi%20italo-austriaci%201%20Accordo%20firmato%20a%20Vienna%20mediante%20scambio%20di%20note%20il%2023%20marzo%201932%20al%20fine%20di%20modificare%20lAccordo%20del%2030%20dicembre%201931%20per%20regolare%20i%20pag_a09a47bac538.md), che ha dato esecuzione ai seguenti Accordi italo-austriaci: 
  
  a) Accordo firmato a Vienna, mediante scambio di note, il 23 marzo 1932, al fine di modificare l'Accordo del 30 dicembre 1931, per regolare i pagamenti relativi agli scambi commerciali italo-austriaci; 
  

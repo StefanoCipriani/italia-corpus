@@ -10,15 +10,15 @@ vigente: true
 
 ## Art. 1.
 
-La misura dei contributi per l'esercizio 1917, dovuti al Sindacato obbligatorio di mutua assicurazione per gli infortuni sul lavoro nelle miniere di zolfo della Sicilia, a termini delle [leggi 11 luglio 1904, n. 396, e 14 luglio 1907, n. 527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-14;527), viene elevata a lire sei e centesimi cinquanta per tonnellata di zolfo, in luogo di lire quattro e centesimi cinquanta di cui all'[art. 1 del decreto Luogotenenziale 28 dicembre 1916, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-28;1859#art_1).
+La misura dei contributi per l'esercizio 1917, dovuti al Sindacato obbligatorio di mutua assicurazione per gli infortuni sul lavoro nelle miniere di zolfo della Sicilia, a termini delle [leggi 11 luglio 1904, n. 396, e 14 luglio 1907, n. 527](Disposizioni%20speciali%20per%20glinfortuni%20del%20lavoro%20nelle%20zolfare%20della%20Sicilia.%20007U0527.md), viene elevata a lire sei e centesimi cinquanta per tonnellata di zolfo, in luogo di lire quattro e centesimi cinquanta di cui all'[art. 1 del decreto Luogotenenziale 28 dicembre 1916, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-28;1859#art_1).
 
 ## Art. 2.
 
 L'indicato contributo di L. 6,50 verra' distribuito nel modo seguente: 
  
- a) L. 4 per tonnellata saranno attribuite al bilancio assicurativo per l'esercizio 1917, a norma dell'[art. 1 della legge 11 luglio 1904, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;396#art_1), in luogo del contributo di cui alla [lettera a) del decreto Luogotenenziale 28 dicembre 1916, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-28;1859#art_leta); 
+ a) L. 4 per tonnellata saranno attribuite al bilancio assicurativo per l'esercizio 1917, a norma dell'[art. 1 della legge 11 luglio 1904, n. 396](Provvedimenti%20a%20favore%20del%20Sindacato%20obbligatorio%20di%20assicurazione%20mutua%20contro%20gli%20infortuni%20del%20lavoro%20fra%20gli%20esercenti%20di%20miniere%20di%20zolfo%20della%20Sicilia.%20004U0396.md), in luogo del contributo di cui alla [lettera a) del decreto Luogotenenziale 28 dicembre 1916, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-28;1859#art_leta); 
  
- b) L. 1,52 per tonnellata saranno attribuite al bilancio sanitario per l'esercizio 1917, a norma dell'[art. 9 della legge 14 luglio 1907, n. 527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-14;527#art_9), in luogo del contributo di cui alla lettera b) del citato [decreto Luogotenenziale 28 dicembre 1916, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-28;1859); 
+ b) L. 1,52 per tonnellata saranno attribuite al bilancio sanitario per l'esercizio 1917, a norma dell'[art. 9 della legge 14 luglio 1907, n. 527](Disposizioni%20speciali%20per%20glinfortuni%20del%20lavoro%20nelle%20zolfare%20della%20Sicilia.%20007U0527.md), in luogo del contributo di cui alla lettera b) del citato [decreto Luogotenenziale 28 dicembre 1916, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-28;1859); 
  
  c) L. 0,65 per tonnellata saranno attribuite al lancio assicurativo dell'esercizio 1915, in sostituzione del contributo di cui alla lettera c) del citato [decreto Luogotenenziale 28 dicembre 1916, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-28;1859); 
  

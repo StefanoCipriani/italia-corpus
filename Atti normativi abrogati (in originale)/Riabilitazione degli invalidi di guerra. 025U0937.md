@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le disposizioni degli articoli 1 e 3 parte prima del [decreto Luogotenenziale 11 luglio 1915, n. 1074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1074), sulla riabilitazione per merito di guerra, sono estese ai militari i quali abbiano partecipato alla campagna 1915-18 per l'Indipendenza d'Italia servendo con fedelta' ed onore, e siano stati dichiarati invalidi, con pensione privilegiata di guerra, per una delle infermita' comprese nelle categorie di cui alla tabella A allegata al [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491). 
+Le disposizioni degli articoli 1 e 3 parte prima del [decreto Luogotenenziale 11 luglio 1915, n. 1074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1074), sulla riabilitazione per merito di guerra, sono estese ai militari i quali abbiano partecipato alla campagna 1915-18 per l'Indipendenza d'Italia servendo con fedelta' ed onore, e siano stati dichiarati invalidi, con pensione privilegiata di guerra, per una delle infermita' comprese nelle categorie di cui alla tabella A allegata al [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
  
  La dichiarazione o la concessione del beneficio, a norma del precedente comma, non ha luogo che per quei reati, i quali siano stati commessi anteriormente alla data in cui il militare riporto' la ferita o contrasse l'infermita' per la quale fu dichiarato invalido di guerra.
 
@@ -20,7 +20,7 @@ Se la riabilitazione sia stata concessa a norma dei [decreti Luogotenenziali 15 
 
 ## Art. 3.
 
-In nessun caso potranno beneficiare delle disposizioni della presente legge i militari che si siano resi colpevoli di abbandono di posto di fronte al nemico o di uno dei reati previsti dall'[art. 46 del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_46), anche se sia intervenuta amnistia, grazia o indulto. 
+In nessun caso potranno beneficiare delle disposizioni della presente legge i militari che si siano resi colpevoli di abbandono di posto di fronte al nemico o di uno dei reati previsti dall'[art. 46 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), anche se sia intervenuta amnistia, grazia o indulto. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

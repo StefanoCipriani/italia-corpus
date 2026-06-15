@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 dicembre 1926, n. 2372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2372), che modifica il [comma 3° dell'art. 7 del R. decreto-legge 4 marzo 1926, n. 681](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-04;681#art_7-com3), sulle tariffe dell'energia elettrica. 
+ E' convertito in legge il [R. decreto-legge 16 dicembre 1926, n. 2372](Modificazione%20al%20R.%20decreto-legge%204%20marzo%201926%20n.%20681%20recante%20disposizioni%20sulle%20tariffe%20dell%20energia%20elettrica.%20026U2372.md), che modifica il [comma 3° dell'art. 7 del R. decreto-legge 4 marzo 1926, n. 681](Disposizioni%20sulle%20tariffe%20dellenergia%20elettrica.%20026U0681.md), sulle tariffe dell'energia elettrica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

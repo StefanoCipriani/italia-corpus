@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), con la quale sono stati conferiti al Governo del Re poteri straordinari per la durata della guerra; 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), con la quale sono stati conferiti al Governo del Re poteri straordinari per la durata della guerra; 
  
  Visto il [decreto Luogotenenziale 9 luglio 1916, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-07-09;848), con il quale sono state stabilite norme per determinare il prezzo del gas durante la guerra; 
  
- Visto il testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, numero 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148); 
+ Visto il testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, numero 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md); 
  
  Ritenuta la necessita', per motivi di ordine pubblico, di promuovere la sollecita od equa composizione delle vertenze relative ai sopra prezzi arretrati che le Societa' concessionarie di illuminazione abbiano titolo a riscuotere dai Comuni e dai privati; 
  

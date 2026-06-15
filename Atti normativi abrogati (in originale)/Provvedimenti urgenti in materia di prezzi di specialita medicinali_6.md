@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Fino a che non abbia luogo la determinazione dei prezzi ai sensi della deliberazione del CIPE indicante i criteri per la fissazione del prezzo medio dei farmaci, secondo quanto previsto dall'[articolo 8, comma 12, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com12), le specialita' medicinali collocate nelle classi di cui alle lettere a) e b) del comma 10 dello stesso articolo 8 della citata [legge n. 537 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537), vengono commercializzate ai prezzi indicati dalle aziende titolari dell'autorizzazione all'immissione in commercio, che siano stati giudicati dalla Commissione unica del farmaco compatibili con i vincoli di spesa farmaceutica previsti dalla medesima [legge n. 537 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537).
+Fino a che non abbia luogo la determinazione dei prezzi ai sensi della deliberazione del CIPE indicante i criteri per la fissazione del prezzo medio dei farmaci, secondo quanto previsto dall'[articolo 8, comma 12, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), le specialita' medicinali collocate nelle classi di cui alle lettere a) e b) del comma 10 dello stesso articolo 8 della citata [legge n. 537 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537), vengono commercializzate ai prezzi indicati dalle aziende titolari dell'autorizzazione all'immissione in commercio, che siano stati giudicati dalla Commissione unica del farmaco compatibili con i vincoli di spesa farmaceutica previsti dalla medesima [legge n. 537 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537).
 
 2.
 
@@ -32,7 +32,7 @@ Il prezzo al pubblico delle specialita' medicinali per uso umano, compresi i far
 
 3.
 
-Fino al 20 marzo 1995, i prezzi delle specialita' medicinali di cui alla [lettera c) dell'articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com10-letc), non possono subire variazioni in aumento rispetto ai prezzi in vigore al 15 settembre 1994.
+Fino al 20 marzo 1995, i prezzi delle specialita' medicinali di cui alla [lettera c) dell'articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), non possono subire variazioni in aumento rispetto ai prezzi in vigore al 15 settembre 1994.
 
 ## Art. 2.
 

@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'art. 101 delle norme approvate con [R. decreto-legge 28 gennaio 1935, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-28;314), quale fu sostituito dall'[art. 27 della legge 13 agosto 1940, n. 1185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-08-13;1185#art_27);
+Visto l'art. 101 delle norme approvate con [R. decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), quale fu sostituito dall'[art. 27 della legge 13 agosto 1940, n. 1185](Modificazioni%20alle%20norme%20sul%20reclutamento%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica%20approvate%20con%20il%20Regio%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20convertito%20nella%20leggo_055f5fca2b68.md);
 
 Visto il [R. decreto-legge 17 febbraio 1944, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-02-17;73):
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro Segretario di Stato per l'aeronautica, di concerto c
 
 ## Articolo unico.
 
-In via transitoria, la Commissione superiore di avanzamento di cui all'[art. 59 del R. decreto-legge 28 gennaio 1935, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-28;314#art_59), convertito nella [legge 13 giugno 1935, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-13;1297), e successive modificazioni, e' composta di cinque ufficiali generali designati di volta in volta, all'atto della convocazione, dal Ministro per l'aeronautica. 
+In via transitoria, la Commissione superiore di avanzamento di cui all'[art. 59 del R. decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), convertito nella [legge 13 giugno 1935, n. 1297](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20che%20approva%20le%20norme%20riguardanti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U1297.md), e successive modificazioni, e' composta di cinque ufficiali generali designati di volta in volta, all'atto della convocazione, dal Ministro per l'aeronautica. 
  
  La presidenza della Commissione e' assunta dall'ufficiale generale piu' elevato in grado e, a parita' di grado, dal piu' anziano. 
  

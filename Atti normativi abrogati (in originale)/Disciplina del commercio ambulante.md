@@ -30,7 +30,7 @@ L'esercizio del commercio ambulante e' subordinato alla iscrizione in una specia
  L'iscrizione ha validita' per tutto il territorio della Repubblica.
  Chiunque intende esercitare la vendita in forma ambulante dei
 prodotti previsti dall'ultimo comma dell'[articolo 5 della legge 11 giugno 1971, n. 426](Disciplina%20del%20commercio.md), puo' ottenere l'iscrizione soltanto se abbia superato l'apposito esame.
- L'esercizio del commercio ambulante nei porti, sia a terra che a bordo, va, inoltre, subordinato alle speciali norme emanate dalle competenti autorita' marittime in applicazione dell'[articolo 68 del codice di navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_68) e del numero 107 della tariffa allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641), concernente la disciplina delle tasse sulle concessioni governative.
+ L'esercizio del commercio ambulante nei porti, sia a terra che a bordo, va, inoltre, subordinato alle speciali norme emanate dalle competenti autorita' marittime in applicazione dell'[articolo 68 del codice di navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e del numero 107 della tariffa allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), concernente la disciplina delle tasse sulle concessioni governative.
  Senza permesso dell'ente proprietario o gestore e' vietato l'esercizio del commercio ambulante negli aeroporti, nelle stazioni e nelle autostrade.
 
 ## Art. 3.

@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 marzo 1932, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-03-21;230), concernente l'emissione di una sesta serie di buoni del Tesoro novennali. 
+ E' convertito in legge il [R. decreto-legge 21 marzo 1932, n. 230](Emissione%20di%20una%20sesta%20serie%20di%20buoni%20del%20Tesoro%20novennali.%20032U0230.md), concernente l'emissione di una sesta serie di buoni del Tesoro novennali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserti nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,9 +16,9 @@ Visto il [decreto del Presidente della Repubblica 24 settembre 1963, n. 2053](Ri
 
 Vista la [legge 14 agosto 1967, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-08-14;800);
 
-Vista la [legge 8 gennaio 1979, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-08;8), concernente "Modifiche ed integrazioni alla [legge 14 agosto 1967, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-08-14;800), in materia di impiego del personale artistico e tecnico";
+Vista la [legge 8 gennaio 1979, n. 8](Modifiche%20ed%20integrazioni%20alla%20legge%2014%20agosto%201967%20n.%20800%20in%20materia%20di%20impiego%20del%20personale%20artistico%20e%20tecnico.md), concernente "Modifiche ed integrazioni alla [legge 14 agosto 1967, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-08-14;800), in materia di impiego del personale artistico e tecnico";
 
-Considerata la necessita' di emanare il regolamento di attuazione in conformita' di quanto disposto dallo art. 8 della sopra citata [legge 8 gennaio 1979, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-08;8);
+Considerata la necessita' di emanare il regolamento di attuazione in conformita' di quanto disposto dallo art. 8 della sopra citata [legge 8 gennaio 1979, n. 8](Modifiche%20ed%20integrazioni%20alla%20legge%2014%20agosto%201967%20n.%20800%20in%20materia%20di%20impiego%20del%20personale%20artistico%20e%20tecnico.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro del turismo e dello spettacolo, di concerto con il M
 
 ## Articolo unico
 
-E' approvato l'annesso regolamento di attuazione della [legge 8 gennaio 1979, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-08;8), recante "Modifiche ed integrazioni alla [legge 14 agosto 1967, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-08-14;800), in materia di impiego del personale artistico e tecnico".
+E' approvato l'annesso regolamento di attuazione della [legge 8 gennaio 1979, n. 8](Modifiche%20ed%20integrazioni%20alla%20legge%2014%20agosto%201967%20n.%20800%20in%20materia%20di%20impiego%20del%20personale%20artistico%20e%20tecnico.md), recante "Modifiche ed integrazioni alla [legge 14 agosto 1967, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-08-14;800), in materia di impiego del personale artistico e tecnico".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

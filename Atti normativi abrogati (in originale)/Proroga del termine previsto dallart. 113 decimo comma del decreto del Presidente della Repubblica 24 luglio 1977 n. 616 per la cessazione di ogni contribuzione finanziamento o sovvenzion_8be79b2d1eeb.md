@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77);
 
-Ritenuta la necessita' e l'urgenza di assicurare lo svolgimento delle attivita' istituzionali degli enti di cui alla tabella B annessa al [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616), nonche' di disporre la statizzazione delle istituzioni scolastiche e dei convitti per sordomuti gestiti dall'Ente nazionale sordomuti;
+Ritenuta la necessita' e l'urgenza di assicurare lo svolgimento delle attivita' istituzionali degli enti di cui alla tabella B annessa al [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), nonche' di disporre la statizzazione delle istituzioni scolastiche e dei convitti per sordomuti gestiti dall'Ente nazionale sordomuti;
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ### Art. 1.
 
-Il [decimo comma dell'art. 113 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_113-com10), e' sostituito dal seguente:
+Il [decimo comma dell'art. 113 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), e' sostituito dal seguente:
  "In ogni caso qualora al primo gennaio 1979 non sia stato emanato il decreto di cui ai precedenti commi, ne' abbiano provveduto in materia le leggi statali di cui agli articoli 25 e 34, cessa ogni contribuzione, finanziamento o sovvenzione a carico dello Stato o di altri enti pubblici, a qualsiasi titolo erogati, a favore degli enti di cui alla tabella B".
 
 ### Art. 2.
@@ -39,8 +39,8 @@ Il personale di ruolo o incaricato a tempo indeterminato, in servizio nelle isti
  L'inquadramento del personale di ruolo, contemplato nel precedente comma, e' disposto nei corrispondenti ruoli statali e secondo le anzianita' possedute. 
  Il personale docente incaricato a tempo indeterminato con trattamento di cattedra ed in possesso di abilitazione all'insegnamento, ove richiesta, nonche' il personale non docente incaricato a tempo indeterminato, ha titolo all'ammissione nei corrispondenti ruoli statali secondo le disposizioni che disciplinano l'immissione in ruolo del personale docente e non docente non di ruolo in servizio nell'anno scolastico 1977-78. 
  Parimenti ha titolo all'immissione nei corrispondenti ruoli statali il personale docente non di ruolo a tempo indeterminato, con trattamento di cattedra, che conseguira' l'abilitazione all'insegnamento al termine dei corsi abilitanti indetti con decreto ministeriale 1 luglio 1976, pubblicato nella Gazzetta Ufficiale n. 43 del 13 febbraio 1978. 
- Il restante personale incaricato a tempo indeterminato, di cui al precedente primo comma, ha titolo all'immissione nei ruoli unici statali secondo le disposizioni e con le modalita' previste dal [quarto comma dell'art. 4 del decreto del Presidente della Repubblica 24 luglio 1977, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;618#art_4-com4). 
- Qualora per effetto dell'inquadramento il personale previsto nel presente articolo conservi un trattamento economico complessivo inferiore a quello fruito presso l'ente, si applica il disposto di cui all'ultimo comma dell'[art. 4 del decreto del Presidente della Repubblica 24 luglio 1977, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;618#art_4).
+ Il restante personale incaricato a tempo indeterminato, di cui al precedente primo comma, ha titolo all'immissione nei ruoli unici statali secondo le disposizioni e con le modalita' previste dal [quarto comma dell'art. 4 del decreto del Presidente della Repubblica 24 luglio 1977, n. 618](../DPR/Istituzione%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri%20di%20ruoli%20unici%20di%20impiegati%20ed%20operai.md). 
+ Qualora per effetto dell'inquadramento il personale previsto nel presente articolo conservi un trattamento economico complessivo inferiore a quello fruito presso l'ente, si applica il disposto di cui all'ultimo comma dell'[art. 4 del decreto del Presidente della Repubblica 24 luglio 1977, n. 618](../DPR/Istituzione%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri%20di%20ruoli%20unici%20di%20impiegati%20ed%20operai.md).
 
 ### Art. 5.
 

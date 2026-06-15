@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 16 della legge 30 giugno 1910, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-30;361#art_16), che fa obbligo all'Amministrazione delle ferrovie dello Stato di corrispondere al Consorzio obbligatorio per l'industria zolfifera siciliana la meta' degli introiti di tariffa per i trasporti di zolfo;
+Visto l'[art. 16 della legge 30 giugno 1910, n. 361](Concernente%20provvedimenti%20per%20lindustria%20solfifera%20siciliana.%20010U0361.md), che fa obbligo all'Amministrazione delle ferrovie dello Stato di corrispondere al Consorzio obbligatorio per l'industria zolfifera siciliana la meta' degli introiti di tariffa per i trasporti di zolfo;
 
 Visto che, per effetto dell'interruzione della linea Catania-Palermo, fra le stazioni di Catenanuova e Raddusa, gli zolfi spediti da Santa Caterina, Imera, Villarosa, Leonforte, ecc., diretti alle raffinerie di Catania, sono costretti a seguire la via di Termini Imerese-Messina;
 

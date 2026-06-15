@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 
-Visto l'art. 2, capoverso, del [R. decreto 14 novembre 1929, n. 2183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-14;2183);
+Visto l'art. 2, capoverso, del [R. decreto 14 novembre 1929, n. 2183](Ordinamento%20dei%20servizi%20dei%20Ministeri%20dei%20lavori%20pubblici%20dellagricoltura%20e%20delle%20foreste%20e%20delle%20corporazioni.%20029U2183.md);
 
-Visto l'[art. 2 del R. decreto 12 giugno 1930, n. 805](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-06-12;805#art_2);
+Visto l'[art. 2 del R. decreto 12 giugno 1930, n. 805](Trasferimento%20di%20posti%20dai%20ruoli%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste%20a%20quelli%20del%20Ministero%20delle%20corporazioni.%20030U0805.md);
 
 Ritenuta la necessita' urgente ed assoluta di disciplinare la competenza e l'ordinamento dell'Ispettorato corporativo;
 
@@ -30,11 +30,11 @@ Abbiamo decretato e decretiamo: Attribuzioni dell'Ispettorato corporativo.
 
 ## Art. 1.
 
-Oltre alle attribuzioni deferite all'Ispettorato corporativo dall'art. 2 capoverso del [R. decreto 14 novembre 1929, numero 2183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-14;2183), spetta ad esso la vigilanza sull'esecuzione dei contratti collettivi di lavoro e delle norme equiparate. Gli spetta altresi': 
+Oltre alle attribuzioni deferite all'Ispettorato corporativo dall'art. 2 capoverso del [R. decreto 14 novembre 1929, numero 2183](Ordinamento%20dei%20servizi%20dei%20Ministeri%20dei%20lavori%20pubblici%20dellagricoltura%20e%20delle%20foreste%20e%20delle%20corporazioni.%20029U2183.md), spetta ad esso la vigilanza sull'esecuzione dei contratti collettivi di lavoro e delle norme equiparate. Gli spetta altresi': 
 a) di raccogliere tutte le notizie e le informazioni che fossero richieste dal Ministero delle corporazioni o dalla Magistratura del lavoro sulle condizioni e lo sviluppo della produzione nazionale e delle singole attivita' produttive; di compiere tutte le rilevazioni, indagini e inchieste delle quali fosse incaricato dal Ministero delle corporazioni; 
 b) di vigilare il funzionamento delle attivita' previdenziali, assistenziali e igienico-sanitarie a favore dei prestatori d'opera compiute dalle associazioni professionali, da altri enti pubblici e da privati, escluse le istituzioni pubbliche di assistenza e beneficenza e le istituzioni esercitate direttamente dallo Stato, dalle provincie e dai comuni per il personale da essi dipendente; 
 c) di compiere tutte le funzioni che ad esso vengano demandate da disposizioni legislative e regolamentari e da norme emanate dal Consiglio nazionale delle corporazioni. 
- Restano ferme le attribuzioni del Ministero dell'interno ai sensi dell'[art. 1 del R. decreto 30 dicembre 1923, n. 2889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2889#art_1), e quelle dell'Opera nazionale per la protezione della maternita' ed infanzia ai sensi della [legge 10 dicembre 1925, n. 2277](Protezione%20e%20assistenza%20della%20maternita%20e%20dellinfanzia.%20025U2277.md), e delle relative norme regolamentari.
+ Restano ferme le attribuzioni del Ministero dell'interno ai sensi dell'[art. 1 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e quelle dell'Opera nazionale per la protezione della maternita' ed infanzia ai sensi della [legge 10 dicembre 1925, n. 2277](Protezione%20e%20assistenza%20della%20maternita%20e%20dellinfanzia.%20025U2277.md), e delle relative norme regolamentari.
 
 ## Art. 2.
 
@@ -91,7 +91,7 @@ Per le assunzioni nella categoria del personale ispettivo ed amministrativo sono
 ## Art. 10.
 
 Nella prima attuazione del presente decreto i posti dei gradi 5°, 6° e 7° di ispettore centrale possono, inteso il parere del Consiglio di amministrazione dell'Ispettorato, essere conferiti, anche per promozione al grado immediatamente superiore ove ricorrano i requisiti di anzianita' di grado prescritti dalle vigenti disposizioni, agli impiegati di ruolo del gruppo A del Ministero delle corporazioni, compresi quelli dei ruoli dell'Ispettorato corporativo. 
- Non piu' di quattro posti del gruppo A dell'Ispettorato possono essere conferiti, inteso il parere del Consiglio di amministrazione dell'Ispettorato, anche per promozione al grado immediatamente superiore ove ricorrano i requisiti di anzianita' di grado prescritti dalle vigenti disposizioni, agli impiegati di ruolo del gruppo A delle Amministrazioni dello Stato, purche' alla data del presente decreto prestino servizio da almeno un anno alle dipendenze del Ministero delle corporazioni e osservate le norme del [R. decreto 20 novembre 1930, n. 1482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-20;1482). 
+ Non piu' di quattro posti del gruppo A dell'Ispettorato possono essere conferiti, inteso il parere del Consiglio di amministrazione dell'Ispettorato, anche per promozione al grado immediatamente superiore ove ricorrano i requisiti di anzianita' di grado prescritti dalle vigenti disposizioni, agli impiegati di ruolo del gruppo A delle Amministrazioni dello Stato, purche' alla data del presente decreto prestino servizio da almeno un anno alle dipendenze del Ministero delle corporazioni e osservate le norme del [R. decreto 20 novembre 1930, n. 1482](Norme%20per%20gli%20esami%20di%20promozione%20nei%20ruoli%20dei%20personali%20civili%20di%20gruppo%20A.%20030U1482.md). 
  Salvo il disposto del 1° comma, il personale dell'Ispettorato corporativo, facente rispettivamente parte dei ruoli del personale gia' appartenente al soppresso Ispettorato tecnico dell'industria ed al soppresso Ispettorato dell'industria e del lavoro e del personale a contratto di questo Ispettorato, verra' fuso ed inquadrato nei corrispondenti gradi del ruolo organico di cui al presente decreto, secondo l'anzianita' di servizio nel grado attualmente occupato, sia essa di ruolo che a contratto, e secondo le seguenti specificazioni: 
 a) gli ispettori saranno inquadrati nei corrispondenti gradi del personale ispettivo regionale (gruppo A), salvo il disposto dell'art. 11; 
 b) gli aiutanti ispettori saranno inquadrati nei corrispondenti gradi del personale degli ispettori aggiunti (gruppo C); 
@@ -133,7 +133,7 @@ L'Associazione nazionale per la prevenzione infortuni e' soppressa con effetto d
 
 ## Art. 16.
 
-La spesa per il trattamento economico (stipendi, supplemento di servizio attivo, aggiunta di famiglia e trattamento di quiescenza) del personale dell'Ispettorato corporativo sara' posta a carico dello Stato soltanto entro i limiti dei ruoli organici gia' fissati per l'Ispettorato dell'industria e per l'Ispettorato della industria e del lavoro dalle tabelle 80 e 81 allegate al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395). 
+La spesa per il trattamento economico (stipendi, supplemento di servizio attivo, aggiunta di famiglia e trattamento di quiescenza) del personale dell'Ispettorato corporativo sara' posta a carico dello Stato soltanto entro i limiti dei ruoli organici gia' fissati per l'Ispettorato dell'industria e per l'Ispettorato della industria e del lavoro dalle tabelle 80 e 81 allegate al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  Alle spese eccedenti il suddetto limite, come a tutte le altre spese per il funzionamento dei servizi dell'Ispettorato corporativo (comprese quelle per l'impianto e l'attrezzamento dei nuovi uffici), eccedenti la somma di L. 420.000, consolidata ai sensi dell'[art. 12 del R. decreto 30 dicembre 1923, n. 3245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3245#art_12), sara' provveduto con i contributi gia' previsti, per l'Ispettorato del lavoro, dal [R. decreto 30 dicembre 1923, n. 3245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3245), e, per l'Associazione nazionale per la prevenzione infortuni, dal [R. decreto 3 gennaio 1926, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;79), modificato con [R. decreto 1° luglio 1926, n. 1309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1309), e cioe' con contributi: 
 a) a carico degli Istituti di assicurazione sociale; 
 b) a carico delle imprese industriali ed agricole soggette alla assicurazione di cui alla [legge 31 gennaio 1904, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-01-31;51), per gli infortuni degli operai sul lavoro, ai [decreti-legge 23 agosto 1917, n. 1450, e 29 novembre 1925, n. 2146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-11-29;2146), per l'assicurazione obbligatoria contro gli infortuni sul lavoro in agricoltura. 
@@ -153,7 +153,7 @@ Il Ministro per le finanze e' autorizzato ad introdurre nel bilancio dello Stato
 
 ## Art. 18.
 
-Con l'attuazione delle norme previste circa l'inquadramento del personale, restano soppresse le tabelle nn. 80 e 81 allegate al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), confermate dall'[art. 2 del R. decreto 12 giugno 1930, n. 805](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-06-12;805#art_2), nonche' l'organico del personale a contratto di cui al decreto Ministeriale 23 aprile 1925.
+Con l'attuazione delle norme previste circa l'inquadramento del personale, restano soppresse le tabelle nn. 80 e 81 allegate al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), confermate dall'[art. 2 del R. decreto 12 giugno 1930, n. 805](Trasferimento%20di%20posti%20dai%20ruoli%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste%20a%20quelli%20del%20Ministero%20delle%20corporazioni.%20030U0805.md), nonche' l'organico del personale a contratto di cui al decreto Ministeriale 23 aprile 1925.
 
 ## Art. 19.
 

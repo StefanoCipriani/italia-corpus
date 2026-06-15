@@ -21,9 +21,9 @@ L'indennita' temporanea prevista dall'[art. 16 del regio decreto-legge 14 aprile
 
 ## Art. 2.
 
-Il trattamento di cui al precedente art. 1 e' esteso ai maestri elementari e ai direttori didattici obbligatoriamente assicurati contro la tubercolosi ai sensi del [regio decreto-legge 21 dicembre 1938, n. 2202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-12-21;2202).
+Il trattamento di cui al precedente art. 1 e' esteso ai maestri elementari e ai direttori didattici obbligatoriamente assicurati contro la tubercolosi ai sensi del [regio decreto-legge 21 dicembre 1938, n. 2202](Estensione%20dellassicurazione%20obbligatoria%20contro%20la%20tubercolosi%20ai%20maestri%20elementari%20ed%20ai%20direttori%20didattici.%20038U2202.md).
  La decorrenza delle prestazioni economiche di cui al comma precedente e' fissata dal giorno in cui cessa la corresponsione di qualsiasi emolumento da parte dell'Amministrazione dalla quale gli assicurati dipendono.
- L'[art. 3 del regio decreto-legge 21 dicembre 1938, n. 2202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-12-21;2202#art_3), e' abrogato.
+ L'[art. 3 del regio decreto-legge 21 dicembre 1938, n. 2202](Estensione%20dellassicurazione%20obbligatoria%20contro%20la%20tubercolosi%20ai%20maestri%20elementari%20ed%20ai%20direttori%20didattici.%20038U2202.md), e' abrogato.
 
 ## Art. 3.
 

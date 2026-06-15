@@ -22,11 +22,11 @@ Visto il [R. decreto 21 ottobre 1923, n. 2557](Nuovo%20ordinamento%20dei%20Regi%
 
 Visto il [R. decreto 21 ottobre 1923, n. 2438](Aumento%20della%20tassa%20di%20frequenza%20nei%20Regi%20istituti%20nautici.%20023U2438.md);
 
-Visto il [R. decreto-legge 8 febbraio 1925, n. 242](Esonero%20dalle%20tasse%20scolastiche%20per%20gli%20italiani%20di%20Zara%20e%20della%20Dalmazia%20che%20si%20iscrivano%20previ%20i%20titoli%20necessari%20nei%20Regi%20istituti%20nautici.%20025U0242.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge 8 febbraio 1925, n. 242](Esonero%20dalle%20tasse%20scolastiche%20per%20gli%20italiani%20di%20Zara%20e%20della%20Dalmazia%20che%20si%20iscrivano%20previ%20i%20titoli%20necessari%20nei%20Regi%20istituti%20nautici.%20025U0242.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto il [R. decreto-legge 9 marzo 1924, n. 417](Iscrizione%20esami%20e%20disciplina%20nei%20Regi%20istituti%20nautici.%20024U0417.md), convertito nella [legge 18 giugno 1925, n. 1092](Conversione%20in%20legge%20del%20R.%20decreto%209%20marzo%201924%20n.%20417%20circa%20liscrizione%20gli%20esami%20e%20la%20disciplina%20nei%20Regi%20istituti%20nautici%20con%20alcune%20varianti.%20025U1092.md);
 
-Visto il [R. decreto-legge 16 aprile 1925, n. 542](Esonero%20dalle%20tasse%20scolastiche%20per%20gli%20alunni%20del%20Regio%20istituto%20nautico%20di%20Lussinpiccolo.%20025U0542.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge 16 aprile 1925, n. 542](Esonero%20dalle%20tasse%20scolastiche%20per%20gli%20alunni%20del%20Regio%20istituto%20nautico%20di%20Lussinpiccolo.%20025U0542.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto il [R. decreto-legge 4 settembre 1925, n. 1573](Aggiunta%20al%20R.%20decreto%209%20marzo%201924%20n.%20417%20concernente%20lammissione%20e%20gli%20esami%20nei%20Regi%20istituti%20nautici.%20025U1573.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 

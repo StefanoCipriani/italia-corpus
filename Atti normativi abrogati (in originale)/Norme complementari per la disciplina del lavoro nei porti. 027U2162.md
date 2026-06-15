@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 15 ottobre 1923, n. 2476](Norme%20per%20la%20disciplina%20del%20lavoro%20nei%20porti%20del%20Regno.%20023U2476.md), convertito in [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), col quale si dettavano norme per la disciplina del lavoro nei porti del Regno;
+Visto il [R. decreto-legge 15 ottobre 1923, n. 2476](Norme%20per%20la%20disciplina%20del%20lavoro%20nei%20porti%20del%20Regno.%20023U2476.md), convertito in [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), col quale si dettavano norme per la disciplina del lavoro nei porti del Regno;
 
-Visto il [R. decreto 20 dicembre 1923, n. 3235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-20;3235), relativo alle nuove circoscrizioni della Marina mercantile;
+Visto il [R. decreto 20 dicembre 1923, n. 3235](Nuove%20circoscrizioni%20della%20marina%20mercantile.%20023U3235.md), relativo alle nuove circoscrizioni della Marina mercantile;
 
-Visto il [R. decreto-legge 1º febbraio 1925, n. 232](Istituzione%20degli%20uffici%20del%20lavoro%20portuale.%20025U0232.md), convertito in [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), relativo alla istituzione degli uffici del lavoro portuale;
+Visto il [R. decreto-legge 1º febbraio 1925, n. 232](Istituzione%20degli%20uffici%20del%20lavoro%20portuale.%20025U0232.md), convertito in [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), relativo alla istituzione degli uffici del lavoro portuale;
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

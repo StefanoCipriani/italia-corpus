@@ -12,15 +12,15 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
-Visto il [regio decreto-legge 20 settembre 1931, n. 1207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-20;1207), convertito nella [legge 11 gennaio 1932, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-01-11;18), e successive modificazioni, integrazioni ed aggiunte;
+Visto il [regio decreto-legge 20 settembre 1931, n. 1207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-20;1207), convertito nella [legge 11 gennaio 1932, n. 18](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20settembre%201931%20n.%201207%20che%20autorizza%20il%20Ministro%20per%20le%20finanze%20ad%20emanare%20norme%20per%20la%20disciplina%20del%20commercio%20dei%20cambi.%20032U0018.md), e successive modificazioni, integrazioni ed aggiunte;
 
-Visto il [decreto legislativo luogotenenziale 17 maggio 1945, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-17;331);
+Visto il [decreto legislativo luogotenenziale 17 maggio 1945, n. 331](../Decreti%20legislativi%20luogotenenziali/Costituzione%20dellUfficio%20italiano%20dei%20cambi%20e%20passaggio%20a%20questultimo%20delle%20funzioni%20dellistituto%20nazionale%20per%20i%20cambi%20con%20lestero.%20045U0331.md);
 
-Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-26;139);
+Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md);
 
 Visto il decreto legislativo del capo provvisorio dello Stato
 
@@ -52,8 +52,8 @@ Sentito il parere del Comitato di cui all'art. 5, il Ministro per il tesoro puo'
 ## Art. 4.
 
 Il Ministro per il tesoro potra' subordinare la concessione delle garanzie previste dagli articoli 2 e 3 all'adempimento di particolari condizioni da parte delle aziende interessate alle operazioni connesse ai finanziamenti dell'Export Import Bank, nonche' alle prestazioni dirette o indirette, da parte delle aziende stesse, di speciali garanzie reali o personali.
- Sono estese ai finanziamenti e alle operazioni ad essi connesse, previsti dal presente decreto nei confronti delle aziende italiane che ne usufruiranno, le disposizioni degli articoli 6, 8, 9, comma 1 e 2, ed 11 del [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-01;367) e successive modificazioni.
- Sono altresi' applicabili nei confronti delle aziende italiane, per i finanziamenti e le operazioni suddetti, le disposizioni dell'art. 7 del citato [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-01;367), qualora nel relativo decreto sia previsto come modo di garanzia il privilegio a norma di detto articolo.
+ Sono estese ai finanziamenti e alle operazioni ad essi connesse, previsti dal presente decreto nei confronti delle aziende italiane che ne usufruiranno, le disposizioni degli articoli 6, 8, 9, comma 1 e 2, ed 11 del [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md) e successive modificazioni.
+ Sono altresi' applicabili nei confronti delle aziende italiane, per i finanziamenti e le operazioni suddetti, le disposizioni dell'art. 7 del citato [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md), qualora nel relativo decreto sia previsto come modo di garanzia il privilegio a norma di detto articolo.
 
 ## Art. 5.
 
@@ -87,7 +87,7 @@ Il Ministro per il tesoro determinera' l'ammontare della provvigione che, caso p
 ## Art. 11.
 
 I finanziamenti e le operazioni previsti dal presente decreto e tutti gli atti, contratti e formalita' relative, ivi compresi i titoli all'ordine indicati dagli articoli 7, n. 3 e 8 sono esenti da ogni tassa, imposta o tributo presente e futuro, spettanti all'Erario e agli Enti locali, che possano comunque colpire sia l'Istituto Mobiliare Italiano che le aziende contraenti e l'Export Import Bank.
- Detti finanziamenti ed operazioni non saranno coimputati agli effetti della liquidazione della quota fissa di abbonamento prevista dall'[art. 8 del regio decreto-legge 13 novembre 1931, n. 1398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-13;1398#art_8), sul capitale impiegato e risultante dal bilancio annuale dell'istituto Mobiliare Italiano.
+ Detti finanziamenti ed operazioni non saranno coimputati agli effetti della liquidazione della quota fissa di abbonamento prevista dall'[art. 8 del regio decreto-legge 13 novembre 1931, n. 1398](Costituzione%20dellIstituto%20mobiliare%20italiano.%20031U1398.md), sul capitale impiegato e risultante dal bilancio annuale dell'istituto Mobiliare Italiano.
  Restano esclusi dall'esenzione gli emolumenti spettanti ai Conservatori dei registri immobiliari e le tasse sulle cambiali emesse in relazione ad operazioni previste dal presente decreto le quali saranno assoggettate al bollo nella misura di L. 0,10 per ogni millelire, qualunque sia la loro scadenza.
  Gli onorari notarili sono ridotti alla misura di un decimo.
 

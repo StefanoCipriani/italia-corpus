@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  Articolo unico. 
  
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-23;1434), che sopprime la carica di Regio commissario straordinario per il porto di Napoli. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1434](Soppressione%20a%20decorrere%20dal%201%20gennaio%201931%20della%20carica%20di%20Regio%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20030U1434.md), che sopprime la carica di Regio commissario straordinario per il porto di Napoli. 
  
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 

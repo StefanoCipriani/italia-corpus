@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 giugno 1924, n. 1151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-06-03;1151): «Norme circa l'esercizio delle attribuzioni conferite alla Corte di cassazione del Regno dagli [articoli 9 e seguenti del R. decreto-legge 20 marzo 1924, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-03-20;373#art_9), sulla sistemazione provvisoria dei servizi giudiziari di Fiume, e determinazione delle tasse giudiziarie». 
+ E' convertito in legge il [R. decreto-legge 3 giugno 1924, n. 1151](Norme%20circa%20lesercizio%20delle%20attribuzioni%20conferite%20alla%20Corte%20di%20cassazione%20del%20Regno%20dagli%20articoli%209%20e%20seguenti%20del%20R.%20decreto-legge%2020%20marzo%201924%20n.%20373%20sulla%20sistemazione%20provvisoria_13f81e1b161a.md): «Norme circa l'esercizio delle attribuzioni conferite alla Corte di cassazione del Regno dagli [articoli 9 e seguenti del R. decreto-legge 20 marzo 1924, n. 373](Sistemazione%20provvisoria%20dei%20servizi%20e%20del%20personale%20degli%20uffici%20giudiziari%20di%20Fiume.%20024U0373.md), sulla sistemazione provvisoria dei servizi giudiziari di Fiume, e determinazione delle tasse giudiziarie». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

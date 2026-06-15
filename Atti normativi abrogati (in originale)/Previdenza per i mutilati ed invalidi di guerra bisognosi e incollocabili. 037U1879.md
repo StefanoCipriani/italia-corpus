@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491), e le successive modifiche ed integrazioni;
+Visto il [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e le successive modifiche ed integrazioni;
 
 Ritenuta la necessita' e l'urgenza di concedere uno speciale assegno di previdenza ai mutilati ed invalidi di guerra bisognosi e incollocabili;
 
@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-E concesso ai mutilati ed agli invalidi di guerra, in aggiunta all'attuale trattamento, un assegno speciale di previdenza, non riversibile ne' sequestrabile, di annue L. 960, se provvisti di pensione o assegno rinnovabile di cui alla tabella C annessa al [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491), e di L. 840, se provvisti di pensione o assegno rinnovabile di cui alla tabella D del citato Regio decreto.
+E concesso ai mutilati ed agli invalidi di guerra, in aggiunta all'attuale trattamento, un assegno speciale di previdenza, non riversibile ne' sequestrabile, di annue L. 960, se provvisti di pensione o assegno rinnovabile di cui alla tabella C annessa al [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e di L. 840, se provvisti di pensione o assegno rinnovabile di cui alla tabella D del citato Regio decreto.
 
 ## Art. 2.
 
@@ -38,9 +38,9 @@ L'assegno di cui al precedente articolo e' concesso dal compimento del 55° anno
 
 Sono esclusi dalla concessione dell'assegno speciale di previdenza: 
  
- a) i grandi invalidi ed i mutilati e gli invalidi di guerra provvisti di pensione o assegno rinnovabile di prima categoria, nonche' coloro che siano in godimento di assegno temporaneo o indennita' una volta tanto ai sensi degli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876#art_6) e [7 del decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876#art_7), e dell'[art. 16 del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_16); 
+ a) i grandi invalidi ed i mutilati e gli invalidi di guerra provvisti di pensione o assegno rinnovabile di prima categoria, nonche' coloro che siano in godimento di assegno temporaneo o indennita' una volta tanto ai sensi degli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876#art_6) e [7 del decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876#art_7), e dell'[art. 16 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md); 
  
- b) i mutilati e gli invalidi di guerra che godano di stipendio, retribuzione, salario o pensione a carico dello Stato, delle Provincie, dei Comuni, dell'Istituto nazionale fascista per la previdenza sociale o di uno degli Enti contemplati negli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_9) e [10 del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_10), quando dal cumulo della pensione o assegno rinnovabile di guerra con lo stipendio, retribuzione, salario o trattamento di quiescenza e gli altri eventuali redditi risulti una somma superiore a quella stabilita nel prospetto di cui alla successiva lettera e); 
+ b) i mutilati e gli invalidi di guerra che godano di stipendio, retribuzione, salario o pensione a carico dello Stato, delle Provincie, dei Comuni, dell'Istituto nazionale fascista per la previdenza sociale o di uno degli Enti contemplati negli [articoli 9](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [10 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), quando dal cumulo della pensione o assegno rinnovabile di guerra con lo stipendio, retribuzione, salario o trattamento di quiescenza e gli altri eventuali redditi risulti una somma superiore a quella stabilita nel prospetto di cui alla successiva lettera e); 
  
  c) i mutilati e gli invalidi di guerra che siano provvisti di redditi (compresa la pensione o assegno rinnovabile di guerra) superiori globalmente a quelli indicati nel seguente prospetto: 
  
@@ -49,12 +49,12 @@ Sono esclusi dalla concessione dell'assegno speciale di previdenza:
 L. 4.000 per soldati e graduati Se provvisti di pensione od
 L. 5.000 per sottufficiali assegni in base alla tabella
 L. 8.000 per ufficiali la C annessa al [R. decreto
- 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491).
+ 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
 
 L. 3.600 per soldati e graduati Se provvisti di pensione od
 L. 4.500 per sottufficiali assegni in base alla tabella
 L. 7.500 per ufficiali D annessa al [R. decreto
- 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491).
+ 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
 
  
  

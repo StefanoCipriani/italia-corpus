@@ -12,11 +12,11 @@ vigente: true
 
 Nello stato di previsione dell'entrata per l'esercizio finanziario 1914-915 allo stanziamento dei seguenti capitoli e' aggiunta la somma per ciascuno indicata: 
  
- Cap n. 89. - Rimborsi e concorsi dovuti dai Comuni per le spese di mantenimento dei RR. licei, ginnasi o convitti ([legge 25 febbraio 1892, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-02-25;71), e RR. decreti 25 luglio 1907, n. 645, e 28 aprile 1910, n. 307) lire cinquantamilaseicentoquindici e centesimi quarantanove (L. 50.615,49). 
+ Cap n. 89. - Rimborsi e concorsi dovuti dai Comuni per le spese di mantenimento dei RR. licei, ginnasi o convitti ([legge 25 febbraio 1892, n. 71](Che%20determina%20gli%20organici%20e%20gli%20stipendi%20del%20personale%20dei%20licei%20e%20dei%20ginnasi%20e%20le%20tassa%20per%20listruzione%20secondaria%20classica.%20092U0071.md), e RR. decreti 25 luglio 1907, n. 645, e 28 aprile 1910, n. 307) lire cinquantamilaseicentoquindici e centesimi quarantanove (L. 50.615,49). 
  
- Cap. n. 90. - Rimborsi e concorsi dovuti dai Comuni per le spese di mantenimento delle scuole tecniche governative ([legge 12 luglio 1900, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-07-12;259), e RR. decreti 25 luglio 1907, n. 645, e 28 aprile 1910, n. 307) lire sessantacinquemila duecentosettantuno e centesimi settantadue (L 65.271,72). 
+ Cap. n. 90. - Rimborsi e concorsi dovuti dai Comuni per le spese di mantenimento delle scuole tecniche governative ([legge 12 luglio 1900, n. 259](Relativa%20agli%20stipendi%20dei%20professori%20delle%20Scuole%20e%20deglIstituti%20Tecnici%20ed%20altri%20provvedimenti.%20000U0259.md), e RR. decreti 25 luglio 1907, n. 645, e 28 aprile 1910, n. 307) lire sessantacinquemila duecentosettantuno e centesimi settantadue (L 65.271,72). 
  
- Cap. n. 91. - Concorsi delle Provincie nella spesa di mantenimento degli Istituti tecnici e nautici ([legge 12 luglio 1900, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-07-12;259), e [Regi decreti 25 luglio 1907, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-25;645), e [28 aprile 1910, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;307)) lire diciannovemilaottocentonovantaquattro e centesimi uno (L. 19.894,01).
+ Cap. n. 91. - Concorsi delle Provincie nella spesa di mantenimento degli Istituti tecnici e nautici ([legge 12 luglio 1900, n. 259](Relativa%20agli%20stipendi%20dei%20professori%20delle%20Scuole%20e%20deglIstituti%20Tecnici%20ed%20altri%20provvedimenti.%20000U0259.md), e [Regi decreti 25 luglio 1907, n. 645](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20norme%20per%20la%20istituzione%20e%20conversione%20in%20governative%20di%20nuove%20scuole%20medie.%20007U0645.md), e [28 aprile 1910, n. 307](Che%20approva%20la%20tabella%20indicante%20i%20contributi%20da%20corrispondersi%20allErario%20per%20le%20scuole%20medie%20che%20verranno%20istituite%20o%20convertite%20in%20governative%20dopo%20il%201%20ottobre%201909.%20010U0307.md)) lire diciannovemilaottocentonovantaquattro e centesimi uno (L. 19.894,01).
 
 ## Art. 2.
 
@@ -24,17 +24,17 @@ Nello stato di previsione della spesa del Ministero dell'istruzione pubblica per
  
  In aumento: 
  
- Cap. n. 81. - Regi ginnasi e licei - Personale di ruolo - Stipendi assegni, indennita', retribuzioni e compensi indicati nella [legge 8 aprile 1906, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142), ecc. lire centotrentaseimilacentonovantasette (L. 136.197). 
+ Cap. n. 81. - Regi ginnasi e licei - Personale di ruolo - Stipendi assegni, indennita', retribuzioni e compensi indicati nella [legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md), ecc. lire centotrentaseimilacentonovantasette (L. 136.197). 
  
  Cap. n. 82. - Regi ginnasi e licei - Personale - Retribuzioni per le classi aggiunte (spese fisse) lire millequattrocentoquaranta (L. 1440). 
  
- Cap. n. 92. - Regie scuole tecniche, Regi Istituti tecnici e nautici - Personale di ruolo - Stipendi, assegni, indennita', retribuzioni e compensi indicati nella [legge 8 aprile 1906, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142), ecc. lire cen-toventisettemilaottocento e centesimi settantacinque (L. 127.800,75). 
+ Cap. n. 92. - Regie scuole tecniche, Regi Istituti tecnici e nautici - Personale di ruolo - Stipendi, assegni, indennita', retribuzioni e compensi indicati nella [legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md), ecc. lire cen-toventisettemilaottocento e centesimi settantacinque (L. 127.800,75). 
  
  Cap. 93. - Regie scuole tecniche, Regi Istituti tecnici e nautici Personale - Retribuzioni per le classi aggiunte (spese fisse) lire quarantaduemilacinquecentoquarantasei e cent. quaranta (L 42.546,40). 
  
- Cap. n. 107. - RR. scuole complementari e normali - Personale di ruolo - Stipendi, assegni, indennita', retribuzioni e compensi indicati nella [legge 8 aprile 1906, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142), ecc. lire cinquemiladuecen-tocinquanta (L. 5250). 
+ Cap. n. 107. - RR. scuole complementari e normali - Personale di ruolo - Stipendi, assegni, indennita', retribuzioni e compensi indicati nella [legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md), ecc. lire cinquemiladuecen-tocinquanta (L. 5250). 
  
- Cap. n. 134. - Insegnamento della educazione fisica nelle scuole medie governative - Personale di ruolo - Stipendi, assegni, indennita', retribuzioni e compensi indicati nella [legge 26 dicembre 1909, n. 805](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-12-26;805), ecc. lire novemiladuecentoottantacinque (L. 9285). 
+ Cap. n. 134. - Insegnamento della educazione fisica nelle scuole medie governative - Personale di ruolo - Stipendi, assegni, indennita', retribuzioni e compensi indicati nella [legge 26 dicembre 1909, n. 805](Insegnamento%20ed%20insegnanti%20di%20educazione%20fisica.%20009U0805.md), ecc. lire novemiladuecentoottantacinque (L. 9285). 
  
  Cap. n. 135. - Insegnamento della educazione fisica nelle scuole medie governative - Personale - Retribuzioni per classi aggiunte, ecc., lire seimiladuecentoquaranta (L. 6240). 
  

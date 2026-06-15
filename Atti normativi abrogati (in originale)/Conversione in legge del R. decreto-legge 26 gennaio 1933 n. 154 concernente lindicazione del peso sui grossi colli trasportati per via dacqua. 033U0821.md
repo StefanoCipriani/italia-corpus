@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 gennaio 1933, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-26;154), concernente la indicazione del peso sui grossi colli trasportati per via d'acqua. 
+ E' convertito in legge il [R. decreto-legge 26 gennaio 1933, n. 154](Indicazione%20del%20peso%20sui%20grossi%20colli%20trasportati%20per%20via%20dacqua.%20033U0154.md), concernente la indicazione del peso sui grossi colli trasportati per via d'acqua. 
  
  Ordiniamo che la presente munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

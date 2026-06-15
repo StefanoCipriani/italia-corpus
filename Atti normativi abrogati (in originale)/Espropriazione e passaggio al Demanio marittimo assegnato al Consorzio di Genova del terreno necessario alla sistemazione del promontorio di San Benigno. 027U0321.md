@@ -20,7 +20,7 @@ Vista la [legge 12 febbraio 1903, n. 50](Costituzione%20di%20un%20consorzio%20au
 
 Vista la [legge 28 giugno 1906, n. 291](Modificazioni%20alla%20legge%2012%20febbraio%201903%20n.%2050%20relativa%20alla%20costituzione%20di%20un%20Consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20006U0291.md), e i [Regi decreti-legge 15 settembre 1923, n. 1997](Provvedimenti%20per%20le%20opere%20di%20ampliamento%20e%20di%20sistemazione%20del%20porto%20di%20Genova.%20023U1997.md), e [28 dicembre 1924, n. 2285](Modificazioni%20alla%20legge%20istitutiva%20del%20Consorzio%20autonomo%20del%20porto%20di%20Genova.%20024U2285.md), che apportarono modifiche alla legge predetta;
 
-Visto il Codice per la marina mercantile approvato con [R. decreto 24 ottobre 1877, n. 4146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-10-24;4146) serie seconda;
+Visto il Codice per la marina mercantile approvato con [R. decreto 24 ottobre 1877, n. 4146](Che%20approva%20il%20testo%20unico%20del%20Codice%20della%20marina%20mercantile.%20077U4146.md) serie seconda;
 
 Visto il progetto 12 agosto 1925 redatto a cura del Consorzio autonomo del porto di Genova e concernente lavori di ampliamento del porto verso Sampierdarena, in connessione con la proposta di massima per la sistemazione del promontorio di San Benigno, progetto ritenuto meritevole di approvazione dal Consiglio superiore dei lavori pubblici col voto emesso in assemblea generale addi' 14 settembre 1925, n. 2505;
 

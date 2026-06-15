@@ -35,11 +35,11 @@ Gli attuali Regi vice avvocati militari di 2a classe i quali, per effetto dell'o
 
 ## Art. 3.
 
-Agli effetti della promozione a Regio avvocato militare, nel biennio di permanenza nel grado inferiore richiesto dall'[art. 14 del R. decreto-legge 26 gennaio 1931, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-26;122#art_14), deve essere computato il periodo trascorso nella qualita' di vice avvocato militare, sia di 1a sia di 2a classe, di cui al [R. decreto 19 ottobre 1923, n. 2316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-19;2316).
+Agli effetti della promozione a Regio avvocato militare, nel biennio di permanenza nel grado inferiore richiesto dall'[art. 14 del R. decreto-legge 26 gennaio 1931, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-26;122#art_14), deve essere computato il periodo trascorso nella qualita' di vice avvocato militare, sia di 1a sia di 2a classe, di cui al [R. decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md).
 
 ## Art. 4.
 
-Nell'[art. 10 del R. decreto-legge 26 gennaio 1931, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-26;122#art_10), dopo la frase « agli effetti dell'[art. 317 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_317) per l'Esercito », sono aggiunte le parole: « (338 [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo) e successive modificazioni ».
+Nell'[art. 10 del R. decreto-legge 26 gennaio 1931, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-26;122#art_10), dopo la frase « agli effetti dell'[art. 317 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito », sono aggiunte le parole: « (338 [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo) e successive modificazioni ».
 
 ## Art. 5.
 

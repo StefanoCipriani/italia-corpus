@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 marzo 1933, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-30;367), che concede agevolazioni per l'anticipata estinzione con abbuono dei prestiti cerealicoli ratizzati nelle Provincie pugliesi e lucane. 
+ E' convertito in legge il [R. decreto-legge 30 marzo 1933, n. 367](Agevolazioni%20per%20lanticipata%20estinzione%20con%20abbuono%20dei%20prestiti%20cerealicoli%20ratizzati%20nelle%20Provincie%20pugliesi%20e%20lucane.%20033U0367.md), che concede agevolazioni per l'anticipata estinzione con abbuono dei prestiti cerealicoli ratizzati nelle Provincie pugliesi e lucane. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- A cominciare dall'esercizio finanziario 1915-916 i capitoli istituiti nello stato di previsione del Ministero delle poste e dei telegrafi sotto la categoria: «Movimento di capitali» per imputarvi le spese di ammortamento delle anticipazioni da effettuarsi dalla Cassa depositi e prestiti ai sensi delle [leggi 20 marzo 1913, nn. 253 e 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;254) saranno indicati «per memoria». 
+ A cominciare dall'esercizio finanziario 1915-916 i capitoli istituiti nello stato di previsione del Ministero delle poste e dei telegrafi sotto la categoria: «Movimento di capitali» per imputarvi le spese di ammortamento delle anticipazioni da effettuarsi dalla Cassa depositi e prestiti ai sensi delle [leggi 20 marzo 1913, nn. 253 e 254](Per%20la%20sistemazione%20completa%20delle%20reti%20telefoniche%20urbane%20esercitate%20dallo%20Stato.%20013U0254.md) saranno indicati «per memoria». 
  
  Con decreto del ministro del tesoro verra', in ciascun esercizio, stanziata agli indicati capitoli la somma da corrispondersi alla Cassa predetta, determinandola in base alle anticipazioni effettivamente operate. 
  

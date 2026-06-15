@@ -10,19 +10,19 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 20 dicembre 1928, n. 3133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-20;3133), sull'ordinamento dell'Associazione italiana della Croce Rossa, e successive modificazioni;
+Vista la [legge 20 dicembre 1928, n. 3133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20agosto%201928%20n.%202034%20concernente%20il%20nuovo%20ordinamento%20dellAssociazione%20della%20Croce%20Rossa%20Italiana.%20028U3133.md), sull'ordinamento dell'Associazione italiana della Croce Rossa, e successive modificazioni;
 
-Visto il [regio decreto 21 gennaio 1929, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-21;111), sullo statuto organico dell'Associazione italiana della Croce Rossa, e successive modificazioni;
+Visto il [regio decreto 21 gennaio 1929, n. 111](Approvazione%20dello%20statuto%20organico%20dellAssociazione%20italiana%20della%20Croce%20Rossa.%20029U0111.md), sullo statuto organico dell'Associazione italiana della Croce Rossa, e successive modificazioni;
 
-Visto il [regio decreto 10 febbraio 1936, n. 484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-10;484), sul reclutamento, stato giuridico, avanzamento, trattamento economico e amministrativo del personale mobilitabile dell'Associazione italiana della Croce Rossa, e successive modificazioni;
+Visto il [regio decreto 10 febbraio 1936, n. 484](Norme%20per%20disciplinare%20lo%20stato%20giuridico%20il%20reclutamento%20lavanzamento%20ed%20il%20trattamento%20economico%20ed%20amministrativo%20del%20personale%20della%20Croce%20Rossa%20Italiana.%20036U0484.md), sul reclutamento, stato giuridico, avanzamento, trattamento economico e amministrativo del personale mobilitabile dell'Associazione italiana della Croce Rossa, e successive modificazioni;
 
-Vista la [legge 4 gennaio 1938, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-01-04;23), sul personale addetto al funzionamento dei servizi dell'Associazione dei cavalieri italiani del Sovrano Militare Ordine di Malta;
+Vista la [legge 4 gennaio 1938, n. 23](Disposizioni%20riguardanti%20il%20personale%20addetto%20al%20funzionamento%20dei%20servizi%20dellAssociazione%20dei%20Cavalieri%20italiani%20del%20Sovrano%20Militare%20Ordine%20di%20Malta.%20038U0023.md), sul personale addetto al funzionamento dei servizi dell'Associazione dei cavalieri italiani del Sovrano Militare Ordine di Malta;
 
 Vista la convenzione tra il Ministero della guerra e l'Associazione dei cavalieri italiani del Sovrano Militare Ordine di Malta, stipulata in data 30 marzo 1940, e successive modificazioni;
 
-Vista la [legge 11 marzo 1926, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-11;416), contenente disposizioni sulle procedure da seguirsi negli accertamenti medico-legali delle ferite, lesioni ed infermita' dei personali dipendenti dalle Amministrazioni militari e da altre Amministrazioni dello Stato;
+Vista la [legge 11 marzo 1926, n. 416](Nuove%20disposizioni%20sulle%20procedure%20da%20seguirsi%20negli%20accertamenti%20medico-legali%20delle%20ferite%20lesioni%20ed%20infermita%20dei%20personali%20dipendenti%20dalle%20Amministrazioni%20militari%20e%20da%20altre%20Ammini_859b71684ddf.md), contenente disposizioni sulle procedure da seguirsi negli accertamenti medico-legali delle ferite, lesioni ed infermita' dei personali dipendenti dalle Amministrazioni militari e da altre Amministrazioni dello Stato;
 
-Visto il [regio decreto-legge 1 aprile 1935, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-01;343), sul trattamento al personale statale e degli enti pubblici richiamati alle armi per mobilitazione, e successive modificazioni;
+Visto il [regio decreto-legge 1 aprile 1935, n. 343](Trattamento%20al%20personale%20statale%20e%20degli%20enti%20pubblici%20richiamato%20alle%20armi%20per%20mobilitazione.%20035U0343.md), sul trattamento al personale statale e degli enti pubblici richiamati alle armi per mobilitazione, e successive modificazioni;
 
 Vista la [legge 10 giugno 1940, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-10;653), sul trattamento degli impiegati privati richiamati alle armi, e successive modificazioni;.
 
@@ -30,11 +30,11 @@ Visto il decreto interministeriale 12 ottobre 1945, che stabilisce e disciplina 
 
 Visto il decreto interministeriale 22 marzo 1946, che stabilisce e disciplina la gestione, da parte dell'Associazione italiana della Croce Rossa e dell'Associazione del cavalieri italiani del Sovrano Militare Ordine di Malta, di ospedali, infermerie, posti di ristoro, adibiti a ricovero, cura, assistenza dei partigiani, dei reduci civili e delle vittime civili della guerra;
 
-Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;49), sulla cessazione dello stato di guerra e sul passaggio dalla legislazione di guerra a quella di pace;
+Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 49](../Decreti%20legislativi%20luogotenenziali/Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md), sulla cessazione dello stato di guerra e sul passaggio dalla legislazione di guerra a quella di pace;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio del Ministri;
 
@@ -52,7 +52,7 @@ Il numero del personale previsto dal precedente articolo sara' periodicamente so
 ## Art. 3.
 
 I personali militari e le infermiere volontarie, che si trovino compresi nei contingenti di cui ai precedenti articoli, sono considerati trattenuti in servizio per esigenze di carattere eccezionale.
- Gli enti autarchici e parastatali, nonche' le aziende private, sono obbligati a conservare l'impiego ai propri dipendenti che facciano parte del personale della Croce Rossa Italiana e del Sovrano Militare Ordine di Malta, adibito ai servizi di cui all'art. 1, con le norme previste dal [regio decreto-legge 1° aprile 1935, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-01;343), e dalla [legge 10 giugno 1940, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-10;653), e successive modificazioni.
+ Gli enti autarchici e parastatali, nonche' le aziende private, sono obbligati a conservare l'impiego ai propri dipendenti che facciano parte del personale della Croce Rossa Italiana e del Sovrano Militare Ordine di Malta, adibito ai servizi di cui all'art. 1, con le norme previste dal [regio decreto-legge 1° aprile 1935, n. 343](Trattamento%20al%20personale%20statale%20e%20degli%20enti%20pubblici%20richiamato%20alle%20armi%20per%20mobilitazione.%20035U0343.md), e dalla [legge 10 giugno 1940, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-10;653), e successive modificazioni.
 
 ## Art. 4.
 
@@ -63,8 +63,8 @@ I personali militari, di cui al precedente articolo, percepiscono lo stipendio e
 ## Art. 5.
 
 Il servizio effettivamente prestato dai personali militari e dalle infermiere volontarie, di cui all'art. 3, e' valutabile, ad ogni effetto di pensione, come reso allo stato.
- Per gli accertamenti della dipendenza da causa di servizio delle ferite, lesioni, infermita' riportate o contratte durante detto servizio, e' seguita, con decorrenza dal 16 settembre 1945, la procedura medico-legale stabilita dalla [legge 11 marzo 1926, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-11;416), per i personali civili e militari ed operai dipendenti dalle Amministrazioni militari e da altre Amministrazioni dello Stato.
- E' data in ogni caso facolta' ad personale interessato di optare per il trattamento previsto dal [1° comma dell'art. 37 del regio decreto 10 febbraio 1936, n. 484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-10;484#art_37-com1), se personale della Croce Rossa Italiana, e dal [1° comma dell'art. 8 della legge 4 gennaio 1935, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-01-04;23#art_8-com1), se personale del sovrano Militare Ordine di Malta.
+ Per gli accertamenti della dipendenza da causa di servizio delle ferite, lesioni, infermita' riportate o contratte durante detto servizio, e' seguita, con decorrenza dal 16 settembre 1945, la procedura medico-legale stabilita dalla [legge 11 marzo 1926, n. 416](Nuove%20disposizioni%20sulle%20procedure%20da%20seguirsi%20negli%20accertamenti%20medico-legali%20delle%20ferite%20lesioni%20ed%20infermita%20dei%20personali%20dipendenti%20dalle%20Amministrazioni%20militari%20e%20da%20altre%20Ammini_859b71684ddf.md), per i personali civili e militari ed operai dipendenti dalle Amministrazioni militari e da altre Amministrazioni dello Stato.
+ E' data in ogni caso facolta' ad personale interessato di optare per il trattamento previsto dal [1° comma dell'art. 37 del regio decreto 10 febbraio 1936, n. 484](Norme%20per%20disciplinare%20lo%20stato%20giuridico%20il%20reclutamento%20lavanzamento%20ed%20il%20trattamento%20economico%20ed%20amministrativo%20del%20personale%20della%20Croce%20Rossa%20Italiana.%20036U0484.md), se personale della Croce Rossa Italiana, e dal [1° comma dell'art. 8 della legge 4 gennaio 1935, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-01-04;23#art_8-com1), se personale del sovrano Militare Ordine di Malta.
 
 ## Art. 6.
 

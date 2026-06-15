@@ -52,7 +52,7 @@ Per la riscossione delle quote di cui al precedente articolo 2, nonche' dei cont
 
 ## Art. 5.
 
-L'Unione nazionale ufficiali in congedo d'Italia e' autorizzata a concedere agli ufficiali in congedo, regolarmente iscritti, che siano impiegati dello Stato, di enti locali e parastatali, prestiti contro cessione del quinto dello stipendio, ai sensi e per gli effetti della [legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md), e del relativo regolamento, approvato con [R. decreto 24 settembre 1908, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-09-24;574).
+L'Unione nazionale ufficiali in congedo d'Italia e' autorizzata a concedere agli ufficiali in congedo, regolarmente iscritti, che siano impiegati dello Stato, di enti locali e parastatali, prestiti contro cessione del quinto dello stipendio, ai sensi e per gli effetti della [legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md), e del relativo regolamento, approvato con [R. decreto 24 settembre 1908, n. 574](Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20sulla%20pignorabilita%20e%20sulla%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20sulla%20cessione%20degli%20stipendi%20dei%20funzionari%20d_90469592ae47.md).
 
 ## Art. 6.
 

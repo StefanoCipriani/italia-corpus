@@ -18,7 +18,7 @@ Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni;
 
-Visto il [R. decreto 23 ottobre 1924, n. 2028](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;2028), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto 23 ottobre 1924, n. 2028](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;2028), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto il [R. decreto-legge 25 settembre 1924, n. 1460](Sistemazione%20del%20personale%20telefonico%20in%20conseguenza%20della%20cessione%20dei%20telefoni%20allindustria%20privata.%20024U1460.md), convertito nella [legge 10 dicembre 1925, n. 2210](Conversione%20in%20legge%20del%20R.%20decreto%2025%20settembre%201924%20n.%201460%20riguardante%20la%20sistemazione%20del%20personale%20telefonico%20in%20conseguenza%20della%20cessione%20dei%20telefoni%20allindustria%20privata.%20025U2210.md);
 

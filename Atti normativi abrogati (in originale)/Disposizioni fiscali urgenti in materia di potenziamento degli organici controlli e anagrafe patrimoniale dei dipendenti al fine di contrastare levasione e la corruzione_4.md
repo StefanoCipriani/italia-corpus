@@ -36,7 +36,7 @@ Al fine di verificare la scrupolosa osservanza da parte degli appartenenti all'A
                         c)
                             esegue indagini patrimoniali sui soggetti di cui al presente comma;
                         d)
-                            richiede alle amministrazioni pubbliche, all'Amministrazione postale, agli enti creditizi, alle societa' di intermediazione mobiliare, agli agenti di cambio, alle societa' autorizzate al collocamento a domicilio di valori mobiliari, alle societa' di gestione di fondi comuni di investimento mobiliare, alle societa' fiduciarie, alle imprese ed enti assicurativi ed alla societa' Monte Titoli S.p.a. di cui alla [legge 19 giugno 1986, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-19;289), copia della documentazione inerente i rapporti intrattenuti con i soggetti di cui al presente comma, nonche' ogni altra notizia o informazione utile ai fini dello svolgimento delle indagini di cui alla lettera c);
+                            richiede alle amministrazioni pubbliche, all'Amministrazione postale, agli enti creditizi, alle societa' di intermediazione mobiliare, agli agenti di cambio, alle societa' autorizzate al collocamento a domicilio di valori mobiliari, alle societa' di gestione di fondi comuni di investimento mobiliare, alle societa' fiduciarie, alle imprese ed enti assicurativi ed alla societa' Monte Titoli S.p.a. di cui alla [legge 19 giugno 1986, n. 289](Disposizioni%20relative%20allamministrazione%20accentrata%20di%20valori%20mobiliari%20attraverso%20la%20Monte%20Titoli%20S.p.a.md), copia della documentazione inerente i rapporti intrattenuti con i soggetti di cui al presente comma, nonche' ogni altra notizia o informazione utile ai fini dello svolgimento delle indagini di cui alla lettera c);
                         e)
                             richiede informazioni o documenti all'autorita' giudiziaria salvo il rispetto delle norme che disciplinano il segreto delle indagini;
                         f)
@@ -142,7 +142,7 @@ Le disposizioni di cui agli articoli 1 e 3 si applicano a tutti gli appartenenti
 
 1.
 
-Alla [legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146), sono apportate le seguenti modificazioni:
+Alla [legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md), sono apportate le seguenti modificazioni:
                         a)
                             nell'articolo 9, secondo comma, la lettera a) e' sostituita dalla seguente: " a) controlla, sulla base di direttive emanate dal Ministro delle finanze, sentite le competenti commissioni parlamentari, l'attivita' di verifica e accertamento di uffici espressamente individuati in base ad elementi oggettivi nella direttiva stessa, avvalendosi anche dei direttori regionali territorialmente competenti o dei comandanti di zona della Guardia di finanza; controlla, altresi', sulla base di direttive emanate dal Ministro delle finanze, le verifiche eseguite dalla Guardia di finanza;". Nello stesso comma, nella lettera b), le parole: "del controllo" sono sostituite dalle seguenti: "dei controlli" e, dopo la lettera d) e' aggiunta la seguente lettera: "d-bis) esprime pareri su specifiche questioni sottoposte al suo esame dal Ministro delle finanze.";
                         b)
@@ -159,13 +159,13 @@ Il limite quinquennale di cui al comma 1, lettera b), non si applica agli ispett
 
 4.
 
-La suddivisione nelle categorie di provenienza di cui all'[articolo 10 della legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146#art_10), e' determinata con decreto del Ministro delle finanze.
+La suddivisione nelle categorie di provenienza di cui all'[articolo 10 della legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md), e' determinata con decreto del Ministro delle finanze.
 
 ## Art. 6. — Concorsi speciali
 
 1.
 
-I concorsi di cui all'[articolo 15, comma 3, del decreto-legge 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557#art_15-com3), convertito, con modificazioni, dalla [legge 26 febbraio 1994, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-26;133), per l'assunzione del personale da destinare al potenziamento dell'attivita' di controllo si svolgono su base regionale e si articolano in una prova di preselezione consistente in una serie di test psico-attitudinali, in una prova scritta, anche a carattere teorico-pratico, ed in un colloquio, in materie attinenti al profilo professionale da ricoprire.
+I concorsi di cui all'[articolo 15, comma 3, del decreto-legge 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557#art_15-com3), convertito, con modificazioni, dalla [legge 26 febbraio 1994, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20557%20recante%20ulteriori%20interventi%20correttivi%20di%20finanza%20pubblica%20per%20lanno%201994.md), per l'assunzione del personale da destinare al potenziamento dell'attivita' di controllo si svolgono su base regionale e si articolano in una prova di preselezione consistente in una serie di test psico-attitudinali, in una prova scritta, anche a carattere teorico-pratico, ed in un colloquio, in materie attinenti al profilo professionale da ricoprire.
 
 2.
 
@@ -177,7 +177,7 @@ Alla prova scritta possono essere ammessi soltanto coloro che abbiano superato c
 
 Il [comma 1 dell'articolo 10 della legge 29 ottobre 1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358#art_10-com1), e' sostituito dai seguenti:
  " 1. Il personale appartenente alle qualifiche dirigenziali del Ministero delle finanze, escluso quello del Dipartimento delle dogane e delle imposte indirette, e' inquadrato, secondo le modalita' stabilite dall'articolo 12, in un ruolo amministrativo e in un ruolo tecnico, aventi dotazioni organiche il cui numero complessivo non puo' superare le duemilaquattrocentotredici unita', di cui quattro per il livello di funzione B, quarantadue per il livello di funzione C, cinquecentonovantotto per il livello di funzione D e millesettecentosessantanove per il livello di funzione E.
- 1-bis. Nella tabella A allegata al [decreto legislativo 26 aprile 1990, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-04-26;105), e' aggiunto un posto di funzione di consigliere ministeriale nella qualifica di dirigente generale di livello C.".
+ 1-bis. Nella tabella A allegata al [decreto legislativo 26 aprile 1990, n. 105](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Organizzazione%20centrale%20e%20periferica%20dellAmministrazione%20delle%20dogane%20e%20delle%20imposte%20indirette%20e%20ordinamento%20del%20relativo%20personale%20in%20attuazione%20della%20legge%2010%20ottobre%201989%20n.%20349.md), e' aggiunto un posto di funzione di consigliere ministeriale nella qualifica di dirigente generale di livello C.".
 
 2.
 
@@ -203,7 +203,7 @@ Nella stessa tabella la dotazione organica delle qualifiche di dirigente superio
 
 1.
 
-La Scuola centrale tributaria, oltre ai compiti indicati nell'[articolo 5 della legge 29 ottobre 1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358#art_5), partecipa, su direttiva del Ministro delle finanze, alla elaborazione degli studi di settore previsti dall'[articolo 62-bis del decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331#art_62bis), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427). Per l'espletamento dei predetti compiti, con regolamento da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), e' disciplinata la possibilita', nei limiti dello stanziamento di bilancio, di stipulare convenzioni, di associarsi e consorziarsi con universita', enti di ricerca ed istituti italiani ed esteri, pubblici e privati, di determinare compensi e forme di erogazione degli stessi, di effettuare pubblicazioni ed acquisti di libri di testo e di altro materiale didattico da distribuire ai partecipanti alle attivita' didattiche, di ricerca e di studio, senza obbligo di restituzione.
+La Scuola centrale tributaria, oltre ai compiti indicati nell'[articolo 5 della legge 29 ottobre 1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358#art_5), partecipa, su direttiva del Ministro delle finanze, alla elaborazione degli studi di settore previsti dall'[articolo 62-bis del decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331#art_62bis), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md). Per l'espletamento dei predetti compiti, con regolamento da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), e' disciplinata la possibilita', nei limiti dello stanziamento di bilancio, di stipulare convenzioni, di associarsi e consorziarsi con universita', enti di ricerca ed istituti italiani ed esteri, pubblici e privati, di determinare compensi e forme di erogazione degli stessi, di effettuare pubblicazioni ed acquisti di libri di testo e di altro materiale didattico da distribuire ai partecipanti alle attivita' didattiche, di ricerca e di studio, senza obbligo di restituzione.
 
 2.
 
@@ -228,11 +228,11 @@ La stessa si articola in due sottocommissioni per la valutazione dei titoli e de
 
 2.
 
-Sino all'emanazione del decreto ministeriale con il quale sono stabilite le modalita' di svolgimento del concorso per l'ammissione e del corso superiore di polizia tributaria, i tenenti colonnelli compresi nell'ultimo terzo dell'organico del grado, i maggiori ed i capitani compresi nel primo terzo dell'organico del grado partecipano al concorso e sono ammessi alla frequenza del corso superiore di polizia tributaria secondo le norme previste dal regolamento approvato con [decreto del Presidente della Repubblica 5 gennaio 1989, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1989-01-05;46). Al superamento del corso conseguono i benefici di carriera previsti dall'[articolo 5, comma 9, della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5-com9), come modificato dal presente articolo.
+Sino all'emanazione del decreto ministeriale con il quale sono stabilite le modalita' di svolgimento del concorso per l'ammissione e del corso superiore di polizia tributaria, i tenenti colonnelli compresi nell'ultimo terzo dell'organico del grado, i maggiori ed i capitani compresi nel primo terzo dell'organico del grado partecipano al concorso e sono ammessi alla frequenza del corso superiore di polizia tributaria secondo le norme previste dal regolamento approvato con [decreto del Presidente della Repubblica 5 gennaio 1989, n. 46](../DPR/Approvazione%20del%20regolamento%20per%20lammissione%20e%20la%20frequenza%20al%20corso%20superiore%20di%20polizia%20tributaria%20per%20ufficiali%20in%20servizio%20permanente%20effettivo%20della%20Guardia%20di%20finanza.md). Al superamento del corso conseguono i benefici di carriera previsti dall'[articolo 5, comma 9, della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5-com9), come modificato dal presente articolo.
 
 3.
 
-La [legge 29 luglio 1991, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-29;237), e' abrogata a decorrere dalla data di entrata in vigore del presente decreto.
+La [legge 29 luglio 1991, n. 237](Nuove%20disposizioni%20per%20il%20corso%20superiore%20di%20polizia%20tributaria%20ed%20istituzione%20del%20corso%20di%20polizia%20tributaria.md), e' abrogata a decorrere dalla data di entrata in vigore del presente decreto.
 
 ## Art. 10. — Spese di funzionamento delle commissioni di studio
  per la riforma del sistema tributario
@@ -243,7 +243,7 @@ Le somme non impegnate sul capitolo 1110 dello stato di previsione del Ministero
 
 2.
 
-Alle spese di funzionamento delle commissioni di studio per la riforma del sistema tributario, nominate dal Ministro delle finanze, valutate in complessive lire 300 milioni, si provvede mediante utilizzo delle disponibilita' in conto residui iscritte sul capitolo 1110 dello stato di previsione del Ministero delle finanze per l'anno finanziario 1995, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 3, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75#art_3-com2) e [3, della legge 24 marzo 1993, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75#art_3-com3). Dette disponibilita' saranno versate ad apposito capitolo dello stato di previsione dell'entrata per l'anno finanziario 1995, ai fini della loro iscrizione nello stato di previsione del Ministero delle finanze per l'anno medesimo.
+Alle spese di funzionamento delle commissioni di studio per la riforma del sistema tributario, nominate dal Ministro delle finanze, valutate in complessive lire 300 milioni, si provvede mediante utilizzo delle disponibilita' in conto residui iscritte sul capitolo 1110 dello stato di previsione del Ministero delle finanze per l'anno finanziario 1995, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 3, commi 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md) e [3, della legge 24 marzo 1993, n. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md). Dette disponibilita' saranno versate ad apposito capitolo dello stato di previsione dell'entrata per l'anno finanziario 1995, ai fini della loro iscrizione nello stato di previsione del Ministero delle finanze per l'anno medesimo.
 
 3.
 
@@ -258,7 +258,7 @@ Le disposizioni di cui all'articolo 11, comma 2, del decreto del Ministro delle 
 
 2.
 
-I concessionari possono disporre delle somme giacenti sui conti correnti postali istituiti per il versamento dell'imposta comunale sugli immobili esclusivamente a fronte del contestuale versamento, a favore degli enti destinatari dell'imposta tramite posta giro alla contabilita' speciale aperta presso le competenti tesorerie provinciali dello Stato, per gli enti assoggettati alla tesoreria unica, ovvero ai conti correnti postali intestati ai comuni interessati, delle somme incassate, al netto di quelle indebitamente affluite sui conti stessi e delle commissioni previste dall'[articolo 10, comma 3, del decreto legislativo 30 dicembre 1992, n. 504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;504#art_10-com3).
+I concessionari possono disporre delle somme giacenti sui conti correnti postali istituiti per il versamento dell'imposta comunale sugli immobili esclusivamente a fronte del contestuale versamento, a favore degli enti destinatari dell'imposta tramite posta giro alla contabilita' speciale aperta presso le competenti tesorerie provinciali dello Stato, per gli enti assoggettati alla tesoreria unica, ovvero ai conti correnti postali intestati ai comuni interessati, delle somme incassate, al netto di quelle indebitamente affluite sui conti stessi e delle commissioni previste dall'[articolo 10, comma 3, del decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 3.
 
@@ -273,7 +273,7 @@ All'[articolo 16, comma 1, della legge 29 dicembre 1990, n. 408](https://www.nor
 
 2.
 
-All'[articolo 2 del decreto-legge 10 giugno 1994, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-10;357#art_2), convertito, con modificazioni, dalla [legge 8 agosto 1994, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-08;489), dopo il comma 3-ter, e' aggiunto il seguente:
+All'[articolo 2 del decreto-legge 10 giugno 1994, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-10;357#art_2), convertito, con modificazioni, dalla [legge 8 agosto 1994, n. 489](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20giugno%201994%20n.%20357%20recante%20disposizioni%20tributarie%20urgenti%20per%20accelerare%20la%20ripresa%20delleconomia%20e%20delloccupazione%20nonche%20per%20_034e3ebc77cd.md), dopo il comma 3-ter, e' aggiunto il seguente:
  "3-quater. Il credito di imposta non spetta nel caso di inosservanza delle disposizioni contrattuali in materia di trattamento economico dei soggetti assunti.".
 
 ## Art. 13. — Uso della denominazione
@@ -282,7 +282,7 @@ All'[articolo 2 del decreto-legge 10 giugno 1994, n. 357](https://www.normattiva
 1.
 
 Il [comma 1 dell'articolo 22 della legge 29 dicembre 1993, n. 580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-29;580#art_22-com1), e' sostituito dal seguente:
- " 1. Oltre agli enti disciplinati dalla presente legge, possono assumere nel territorio nazionale la denominazione 'camera di commercio' le associazioni cui partecipino enti e imprese italiani e di altro Stato riconosciuto dallo Stato italiano, i cui amministratori cittadini italiani non abbiano riportato condanne per reati punibili con la reclusione e i cui amministratori cittadini stranieri siano in possesso di benestare della rappresentanza diplomatica dello Stato di appartenenza, e abbiano ottenuto il riconoscimento di cui alla [legge 1 luglio 1970, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-07-01;518), ovvero siano iscritte in un apposito albo, disciplinato con decreto del Ministro del commercio con l'estero, di concerto con il Ministro degli affari esteri, tenuto presso la sezione separata di cui all'articolo 1 dello statuto dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura, approvato con [decreto del Presidente della Repubblica 31 dicembre 1985, n. 947](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-31;947).".
+ " 1. Oltre agli enti disciplinati dalla presente legge, possono assumere nel territorio nazionale la denominazione 'camera di commercio' le associazioni cui partecipino enti e imprese italiani e di altro Stato riconosciuto dallo Stato italiano, i cui amministratori cittadini italiani non abbiano riportato condanne per reati punibili con la reclusione e i cui amministratori cittadini stranieri siano in possesso di benestare della rappresentanza diplomatica dello Stato di appartenenza, e abbiano ottenuto il riconoscimento di cui alla [legge 1 luglio 1970, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-07-01;518), ovvero siano iscritte in un apposito albo, disciplinato con decreto del Ministro del commercio con l'estero, di concerto con il Ministro degli affari esteri, tenuto presso la sezione separata di cui all'articolo 1 dello statuto dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura, approvato con [decreto del Presidente della Repubblica 31 dicembre 1985, n. 947](../DPR/Approvazione%20del%20nuovo%20statuto%20dellUnione%20italiana%20delle%20camere%20di%20commercio%20industria%20artigianato%20e%20agricoltura%20in%20Roma.md).".
 
 2.
 
@@ -292,7 +292,7 @@ Il termine previsto dal [comma 2 dell'articolo 22 della legge 29 dicembre 1993, 
 
 1.
 
-All'[articolo 2, comma 17-bis, del decreto-legge 20 maggio 1993, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;149#art_2-com17bis), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;237), le parole: "31 dicembre 1994" sono sostituite dalle seguenti: "31 marzo 1995".
+All'[articolo 2, comma 17-bis, del decreto-legge 20 maggio 1993, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;149#art_2-com17bis), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 237](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20maggio%201993%20n.%20149%20recante%20interventi%20urgenti%20in%20favore%20delleconomia.md), le parole: "31 dicembre 1994" sono sostituite dalle seguenti: "31 marzo 1995".
 
 ## Art. 15. — Funzionamento dell'Avvocatura distrettuale
  dello Stato di Firenze

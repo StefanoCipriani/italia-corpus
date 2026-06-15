@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1159), portante provvedimenti per l'estensione al personale degli enti locali delle norme relative alla soppressione ed alle riduzioni delle indennita' del caro viveri. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1159](Estensione%20al%20personale%20degli%20enti%20locali%20delle%20norme%20relative%20alla%20soppressione%20e%20riduzione%20delle%20indennita%20di%20caro-viveri.%20027U1159.md), portante provvedimenti per l'estensione al personale degli enti locali delle norme relative alla soppressione ed alle riduzioni delle indennita' del caro viveri. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

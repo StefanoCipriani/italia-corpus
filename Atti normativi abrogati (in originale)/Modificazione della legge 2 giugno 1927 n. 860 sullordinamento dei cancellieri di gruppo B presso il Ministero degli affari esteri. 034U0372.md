@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 All'ultimo concorso per completare il ruolo dei cancellieri di gruppo B da indire a termini dell'art. 9, ultimo capoverso, della [legge 2 giugno 1927, n. 860](Ordinamento%20della%20carriera%20dei%20cancellieri%20presso%20lAmministrazione%20degli%20affari%20esteri.%20027U0860.md), e limitatamente al quinto dei posti fissato dalla prima parte dell'articolo 3 della legge stessa, potranno essere ammessi, previo parere unanime del Consiglio d'amministrazione, gli impiegati d'archivio (personale d'ordine) del Ministero degli affari esteri che alla data del bando di concorso avranno compiuto nove anni di servizio. 
  
- Per il calcolo di tale periodo di servizio sara' applicabile la disposizione di cui al [primo comma dell'art. 11 del R. decreto 8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;843#art_11-com1), a favore dei combattenti.
+ Per il calcolo di tale periodo di servizio sara' applicabile la disposizione di cui al [primo comma dell'art. 11 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), a favore dei combattenti.
 
 ## Art. 2.
 

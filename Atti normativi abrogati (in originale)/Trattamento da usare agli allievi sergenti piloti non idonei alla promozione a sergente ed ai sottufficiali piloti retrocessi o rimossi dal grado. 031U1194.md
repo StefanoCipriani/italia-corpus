@@ -20,7 +20,7 @@ All'art. 9 delle norme concernenti i corsi speciali di pilotaggio e di osservazi
 
 ## Art. 2.
 
-All'[art. 8 del R. decreto-legge 24 febbraio 1927, n. 391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-24;391#art_8), sono aggiunti i seguenti commi: 
+All'[art. 8 del R. decreto-legge 24 febbraio 1927, n. 391](Norme%20relative%20al%20reclutamento%20e%20trattamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20della%20Regia%20aeronautica.%20027U0391.md), sono aggiunti i seguenti commi: 
  
  «Pero', i militari di truppa, che abbiano frequentato un corso di pilotaggio aereo e non abbiano conseguito la nomina a sergente, sia per non aver superato le prove teoriche prescritte per il conferimento della nomina a pilota militare, sia perche' dichiarati inidonei al grado stesso per ragioni disciplinari, potranno conseguire la nomina a sergente, a senso delle disposizioni di cui alla prima parte del predetto articolo, quando abbiano frequentato con successo due successivi periodi di allenamento. 
  

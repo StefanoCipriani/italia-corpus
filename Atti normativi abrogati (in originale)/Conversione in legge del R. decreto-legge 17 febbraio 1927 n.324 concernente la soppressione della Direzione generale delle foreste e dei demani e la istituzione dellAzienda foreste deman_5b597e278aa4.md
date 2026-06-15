@@ -26,7 +26,7 @@ L'art. 18 del R. decreto-legge 17 febbraio 1927 (Anno V), n. 324, e' modificato 
 
 ## Art. 3.
 
-Il [comma 1° lettera d) dell'art. 5 del R. decreto-legge 17 febbraio 1927, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;324#art_5-com1-letd), e' modificato colla soppressione delle parole «non funzionari». 
+Il [comma 1° lettera d) dell'art. 5 del R. decreto-legge 17 febbraio 1927, n. 324](Soppressione%20della%20Direzione%20generale%20delle%20foreste%20e%20dei%20demani%20ed%20istituzione%20dell%20Azienda%20Foreste%20Demaniali%20.%20027U0324.md), e' modificato colla soppressione delle parole «non funzionari». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

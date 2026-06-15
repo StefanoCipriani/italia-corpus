@@ -18,7 +18,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  E M A N A 
  il seguente decreto-legge: 
  Art. 1. 
- 1. In deroga a quanto previsto dall'[articolo 31 della legge 1 giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089#art_31), la somma di lire 27.727.000.000 necessaria per l'esercizio del diritto di prelazione da parte dello Stato del complesso immobiliare sito in Roma, via Nomentana n. 216, denominato "Villa Blanc" e' imputata alle disponibilita' del capitolo 7851 (gia' 7901) dello stato di previsione del Ministero delle finanze per l'anno 1993. 
+ 1. In deroga a quanto previsto dall'[articolo 31 della legge 1 giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), la somma di lire 27.727.000.000 necessaria per l'esercizio del diritto di prelazione da parte dello Stato del complesso immobiliare sito in Roma, via Nomentana n. 216, denominato "Villa Blanc" e' imputata alle disponibilita' del capitolo 7851 (gia' 7901) dello stato di previsione del Ministero delle finanze per l'anno 1993. 
  2. Sono fatti salvi gli effetti del decreto del Ministro per i beni culturali e ambientali, emanato di concerto con il Ministro delle finanze in data 7 ottobre 1992, con il quale e' stato esercitato il diritto di prelazione da parte dello Stato del complesso immobiliare di cui al comma 1.
 
 ## Art. 2.

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 3 novembre 1921, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-03;1547), col quale l'abitato di Celle sul Rigo, frazione del comune di San Casciano Bagni, in provincia di Siena, e' stato incluso fra quelli da consolidare a cura e spese dello Stato, ai sensi della [legge 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445);
+Visto il [R. decreto 3 novembre 1921, n. 1547](Che%20approva%20una%20tabella%20di%20abitati%20da%20consolidare%20ed%20altra%20di%20abitati%20da%20trasferire%20a%20cure%20e%20spese%20dello%20Stato%20a%20termini%20della%20legge%209%20luglio%201908%20n.%20445%20Titolo%20IV.%20021U1547.md), col quale l'abitato di Celle sul Rigo, frazione del comune di San Casciano Bagni, in provincia di Siena, e' stato incluso fra quelli da consolidare a cura e spese dello Stato, ai sensi della [legge 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445);
 
 Ritenuta la necessita' urgente ed assoluta di procedere, invece, al parziale spostamento dell'abitato della suddetta frazione, in nuova sede, e di provvedere, inoltre, alla costruzione di ricoveri stabili, da destinare alle famiglie povere rimaste senza tetto in seguito alla frana;
 

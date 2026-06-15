@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 30 dicembre 1923, n. 2994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2994); [22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e [8 agosto 1924, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-08;1323), sullo stato giuridico e il trattamento economico dei salariati statali;
+Visti i [Regi decreti 30 dicembre 1923, n. 2994](Disposizioni%20relative%20allo%20stato%20giuridico%20ed%20al%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.%20023U2994.md); [22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e [8 agosto 1924, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-08;1323), sullo stato giuridico e il trattamento economico dei salariati statali;
 
 Udito il Consiglio dei Ministri;
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il soprassoldo giornaliero previsto a favore dei sottufficiali, appuntati e carabinieri effettivi dello squadrone guardie del Presidente della Repubblica dalle tabelle V, VI e VII allegate al testo unico delle disposizioni sugli stipendi, sulle paghe giornaliere e sugli assegni fissi per l'Esercito, approvato con [regio decreto 31 dicembre 1928, n. 3458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-31;3458), aumentato con la [legge 29 giugno 1940, n. 1030](Aumento%20del%20soprassoldo%20giornaliero%20di%20servizio%20per%20i%20militari%20dello%20squadrone%20carabinieri%20Guardie%20del%20RE%20IMPERATORE.%20040U1030.md), e' ulteriormente aumentato, a decorrere dal 1 luglio 1949, da lire 5 a lire 90.
+Il soprassoldo giornaliero previsto a favore dei sottufficiali, appuntati e carabinieri effettivi dello squadrone guardie del Presidente della Repubblica dalle tabelle V, VI e VII allegate al testo unico delle disposizioni sugli stipendi, sulle paghe giornaliere e sugli assegni fissi per l'Esercito, approvato con [regio decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), aumentato con la [legge 29 giugno 1940, n. 1030](Aumento%20del%20soprassoldo%20giornaliero%20di%20servizio%20per%20i%20militari%20dello%20squadrone%20carabinieri%20Guardie%20del%20RE%20IMPERATORE.%20040U1030.md), e' ulteriormente aumentato, a decorrere dal 1 luglio 1949, da lire 5 a lire 90.
 
 ## Art. 2.
 

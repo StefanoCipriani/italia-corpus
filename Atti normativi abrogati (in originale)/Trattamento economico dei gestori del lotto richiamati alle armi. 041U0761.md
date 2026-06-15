@@ -16,13 +16,13 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il R. decreto-legge 19 ottobre 1938-XVI, n. 1933, convertito, con modificazioni, nella [legge 5 giugno 1939, n. 973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-05;973);
+Visto il R. decreto-legge 19 ottobre 1938-XVI, n. 1933, convertito, con modificazioni, nella [legge 5 giugno 1939, n. 973](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20ottobre%201938-XVI%20n.%201933%20riguardante%20la%20riforma%20delle%20leggi%20sul%20lotto%20pubblico.%20039U0973.md);
 
 Visto il regolamento sui servizi del lotto e sul personale delle ricevitorie approvato con decreto 25 luglio 1940-XVIII, n. 1077;
 
 Visto l'art. 1, n. 3, della legge 31 gennaio 1926-IV, n. 100;
 
-Visto l'art. 84, settimo comma, del R. decreto-legge 19 ottobre 1938-XVI, n. 1933, convertito nella [legge 5 giugno 1939, n. 973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-05;973), il quale stabilisce che al trattamento dei ricevitori del lotto sotto le armi in tempo di guerra si provvede con disposizioni speciali;
+Visto l'art. 84, settimo comma, del R. decreto-legge 19 ottobre 1938-XVI, n. 1933, convertito nella [legge 5 giugno 1939, n. 973](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20ottobre%201938-XVI%20n.%201933%20riguardante%20la%20riforma%20delle%20leggi%20sul%20lotto%20pubblico.%20039U0973.md), il quale stabilisce che al trattamento dei ricevitori del lotto sotto le armi in tempo di guerra si provvede con disposizioni speciali;
 
 Sentito il Consiglio di Stato;
 

@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Veduto il [R. decreto-legge 23 marzo 1933, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-23;264), convertito nella [legge 29 giugno 1933, n. 860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-06-29;860), concernente l'unificazione degli istituti per l'assicurazione obbligatoria contro gli infortuni degli operai sul lavoro;
+Veduto il [R. decreto-legge 23 marzo 1933, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-23;264), convertito nella [legge 29 giugno 1933, n. 860](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20marzo%201933%20n.%20264%20concernente%20lunificazione%20degli%20Istituti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20033U0860.md), concernente l'unificazione degli istituti per l'assicurazione obbligatoria contro gli infortuni degli operai sul lavoro;
 
 Veduto il [R. decreto 29 maggio 1933, n. 516](Norme%20per%20la%20liquidazione%20dei%20Sindacati%20di%20assicurazione%20mutua%20contro%20gli%20infortuni%20sul%20lavoro.%20033U0516.md), che detta le norme per la liquidazione dei Sindacati di assicurazione mutua, contro gli infortuni sul lavoro;
 

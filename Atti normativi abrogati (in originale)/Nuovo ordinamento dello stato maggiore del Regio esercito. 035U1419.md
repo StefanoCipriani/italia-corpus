@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 11 ottobre 1934, n. 1723](Aggiornamento%20delle%20dis
 
 Vista la [legge 7 giugno 1934, n. 899](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20034U0899.md), sull'avanzamento degli ufficiali del Regio esercito, e successive modificazioni;
 
-Visto il [R. decreto 14 novembre 1929, n. 2048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-14;2048), contenente norme per il reclutamento degli ufficiali di stato maggiore del Regio esercito e successive modificazioni;
+Visto il [R. decreto 14 novembre 1929, n. 2048](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20di%20Stato%20Maggiore%20del%20Regio%20esercito.%20029U2048.md), contenente norme per il reclutamento degli ufficiali di stato maggiore del Regio esercito e successive modificazioni;
 
 Considerata la necessita' urgente ed assoluta di provvedere al riordinamento dello stato maggiore del Regio esercito;
 

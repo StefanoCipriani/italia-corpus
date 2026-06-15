@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 dicembre 1932, n. 1864](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-12-22;1864), portante agevolazioni alle industrie della conservazione del pesce nella Venezia Giulia in relazione alle passivita' contratte dalle medesime. 
+ E' convertito in legge il [R. decreto-legge 22 dicembre 1932, n. 1864](Agevolazioni%20alle%20industrie%20della%20conservazione%20del%20pesce%20nella%20Venezia%20Giulia%20in%20relazione%20alle%20passivita%20contratte%20dalle%20medesime.%20032U1864.md), portante agevolazioni alle industrie della conservazione del pesce nella Venezia Giulia in relazione alle passivita' contratte dalle medesime. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

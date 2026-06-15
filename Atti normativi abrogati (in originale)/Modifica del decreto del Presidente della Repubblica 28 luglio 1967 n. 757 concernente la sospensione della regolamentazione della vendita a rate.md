@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77);
 
-Vista la [legge 15 settembre 1964, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-09-15;755), sulla regolamentazione della vendita a rate;
+Vista la [legge 15 settembre 1964, n. 755](Regolamentazione%20della%20vendita%20a%20rate.md), sulla regolamentazione della vendita a rate;
 
 Visto il [decreto del Presidente della Repubblica 28 luglio 1967, n. 757](Ulteriore%20proroga%20della%20sospensione%20della%20regolamentazione%20della%20vendita%20a%20rate%20per%20gli%20autoveicoli%20motoveicoli%20elettrodomestici%20e%20apparecchi%20televisivi%20e%20radioriceventi.md) sulla sospensione della regolamentazione della vendita a rate per gli autoveicoli, motoveicoli, elettrodomestici e apparecchi televisivi e radioriceventi;
 
@@ -28,7 +28,7 @@ E' prorogato al 31 dicembre 1971 il termine di cui all'[articolo 1 del decreto d
 
 ## Art. 2.
 
-E' abrogato il [primo comma dell'art. 4 della legge 15 settembre 1964, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-09-15;755#art_4-com1).
+E' abrogato il [primo comma dell'art. 4 della legge 15 settembre 1964, n. 755](Regolamentazione%20della%20vendita%20a%20rate.md).
 
 ## Art. 3.
 

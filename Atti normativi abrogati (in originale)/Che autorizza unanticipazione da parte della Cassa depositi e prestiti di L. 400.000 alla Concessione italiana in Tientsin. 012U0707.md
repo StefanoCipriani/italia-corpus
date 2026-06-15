@@ -34,7 +34,7 @@ Sino a completa estinzione del debito, le somme rappresentanti le annualita' com
 
 ## Art. 6.
 
-Nel rendiconto generale consuntivo dell'Amministrazione dello Stato, di cui all'articolo 71 del testo unico di legge sulla amministrazione e sulla contabilita' generale dello Stato, approvato col [R. decreto 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016) (serie 2ª), parte seconda - Conto generale del patrimonio - Sezione dei conti speciali - verra' annualmente incluso il rendiconto delle entrate e delle spese che concernono la Concessione italiana in Tientsin.
+Nel rendiconto generale consuntivo dell'Amministrazione dello Stato, di cui all'articolo 71 del testo unico di legge sulla amministrazione e sulla contabilita' generale dello Stato, approvato col [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (serie 2ª), parte seconda - Conto generale del patrimonio - Sezione dei conti speciali - verra' annualmente incluso il rendiconto delle entrate e delle spese che concernono la Concessione italiana in Tientsin.
 
 ## Art. 7.
 

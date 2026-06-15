@@ -107,7 +107,7 @@ Art. 13.
 
 ## Art. 14.
 
-All'onere di lire 11.000 milioni derivante dall'applicazione del presente decreto nell'anno finanziario 1968 si provvede con una corrispondente aliquota del provento derivante dall'emissione dei certificati di credito di cui all'[art. 12 del decreto-legge 2 ottobre 1967, n. 867](Misure%20per%20assicurare%20lapprovvigionamento%20dei%20prodotti%20petroliferi%20nellattuale%20momento%20internazionale.md), convertito, con modificazioni, nella [legge 1 dicembre 1967, n. 1098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-01;1098), intendendosi corrispondentemente ridotta, di pari importo, l'autorizzazione di spesa di cui all'articolo 11 dello stesso decreto-legge.
+All'onere di lire 11.000 milioni derivante dall'applicazione del presente decreto nell'anno finanziario 1968 si provvede con una corrispondente aliquota del provento derivante dall'emissione dei certificati di credito di cui all'[art. 12 del decreto-legge 2 ottobre 1967, n. 867](Misure%20per%20assicurare%20lapprovvigionamento%20dei%20prodotti%20petroliferi%20nellattuale%20momento%20internazionale.md), convertito, con modificazioni, nella [legge 1 dicembre 1967, n. 1098](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20ottobre%201967%20n.%20867%20concernente%20misure%20per%20assicurare%20lapprovvigionamento%20di%20prodotti%20petroliferi%20nellattuale%20momento%20internazionale.md), intendendosi corrispondentemente ridotta, di pari importo, l'autorizzazione di spesa di cui all'articolo 11 dello stesso decreto-legge.
  Il Ministro per il tesoro provvedera', con propri decreti, alle occorrenti variazioni di bilancio.
 
 ## Art. 15.

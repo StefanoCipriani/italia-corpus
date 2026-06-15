@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944 n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Veduto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -35,7 +35,7 @@ I titoli, da rilasciarsi a norma del precedente articolo, saranno della medesima
 
 ## Art. 3.
 
-La sostituzione di buoni dei Tesoro poliennali distrutti, a qualunque emissione appartenessero, avverra' mediante rilascio di altrettanti titoli, da iscriversi in una serie speciale dei buoni del Tesoro novennali 5%, scadenti il 15 settembre 1951, di cui al [regio decretolegge 27 giugno 1943, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-06-27;559).
+La sostituzione di buoni dei Tesoro poliennali distrutti, a qualunque emissione appartenessero, avverra' mediante rilascio di altrettanti titoli, da iscriversi in una serie speciale dei buoni del Tesoro novennali 5%, scadenti il 15 settembre 1951, di cui al [regio decretolegge 27 giugno 1943, n. 559](Provvedimenti%20riguardanti%20i%20buoni%20novennali%20del%20Tesoro%204%20scadenti%20il%2015%20settembre%201951-XXIX.%20043U0559.md).
  Trattandosi di sostituire buoni 4% della scadenza anzidetta, il possessore dovra' versare la somma di L. 5,50 per ogni 100 lire di capitale nominale.
  I nuovi buoni concorreranno ai premi loro assegnati secondo le norme in vigore, a cominciare dalla estrazione stabilita per il secondo semestre 1946.
  I sorteggi relativi saranno effettuati alla data che verra' fissata con decreto del Ministro per il tesoro, dopo ultimate le operazioni richieste in base al presente decreto.
@@ -85,7 +85,7 @@ Nel caso che la distruzione, a seguito di ordine della competente autorita', abb
 ## Art. 12.
 
 I nuovi titoli al portatore o nominativi e all'ordine, in sostituzione di quelli distrutti, vengono emessi con esenzione da qualsiasi spesa e tassa, anche nei riguardi delle pubblicazioni da eseguirsi a norama del precedente art. 11.
- Gli atti occorrenti per l'emissione sono esenti da tassa di bollo e di concessione governativa. La registrazione ha luogo, in caso di uso, per effetti diversi da, quelli considerati nel presente decreto a norma dell'art. 3 della tabella D, allegata, alla legge dei registro 30 dicembre 1923, n. 3269 e dell'[art. 2 della legge 3 dicembre 1942, n. 1548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-12-03;1548#art_2).
+ Gli atti occorrenti per l'emissione sono esenti da tassa di bollo e di concessione governativa. La registrazione ha luogo, in caso di uso, per effetti diversi da, quelli considerati nel presente decreto a norma dell'art. 3 della tabella D, allegata, alla legge dei registro 30 dicembre 1923, n. 3269 e dell'[art. 2 della legge 3 dicembre 1942, n. 1548](Norme%20relative%20alla%20registrazione%20dei%20processi%20verbali%20di%20conciliazione%20e%20al%20bollo%20e%20alla%20registrazione%20degli%20atti%20e%20dei%20documenti%20prodotti%20dalle%20parti%20nei%20procedimenti%20civili.%20042U1548.md).
 
 ## Art. 13.
 

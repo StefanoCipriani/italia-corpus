@@ -22,9 +22,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Riconosciuta la necessita' di aumentare le assegnazioni per spese di pensioni inscritte nei bilanci dei Ministeri del tesoro, della grazia e giustizia, degli affari esteri, dell'istruzione pubblica, della guerra e della marina in relazione all'andamento delle speso stesse nell'esercizio finanziario 1914-915;
 
-Viste le [leggi 13 giugno 1901, n. 238, e 2 luglio 1905, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-02;320), sul consolidamento delle spese del bilancio del Ministero della marina;
+Viste le [leggi 13 giugno 1901, n. 238, e 2 luglio 1905, n. 320](Relativa%20alla%20dotazione%20del%20bilancio%20per%20la%20spesa%20effettiva%20del%20Ministero%20della%20marina%20per%20gli%20esercizi%20dal%201904-905%20al%201916-917.%20005U0320.md), sul consolidamento delle spese del bilancio del Ministero della marina;
 
-Vista la [legge 16 dicembre 1914, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1354);
+Vista la [legge 16 dicembre 1914, n. 1354](Per%20la%20proroga%20dellesercizio%20provvisorio%20dei%20bilanci%20e%20provvedimenti%20finanziari.%20014U1354.md);
 
 Sentito il Consiglio dei ministri;
 

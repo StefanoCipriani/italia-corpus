@@ -14,4 +14,4 @@ N.
 
 1977.
 
-Decreto Luogotenenziale 23 settembre 1917, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, la R. Conceria-scuola italiana in Torino e' riordinata in conformita' della [legge 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854), del relativo [regolamento 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1014), e delle norme contenute nel decreto medesimo, assumendo il nome di «R. Istituto nazionale per le industrie del cuoio».
+Decreto Luogotenenziale 23 settembre 1917, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, la R. Conceria-scuola italiana in Torino e' riordinata in conformita' della [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), del relativo [regolamento 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1014), e delle norme contenute nel decreto medesimo, assumendo il nome di «R. Istituto nazionale per le industrie del cuoio».

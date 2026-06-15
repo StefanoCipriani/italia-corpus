@@ -28,7 +28,7 @@ Sulla proposta del ministro per la marina; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Le promozioni a capo disegnatore di 2ª classe nella R. marina si effettueranno, anche durante la guerra, esclusivamente per concorso, come e' stabilito dall'[articolo 2 della legge n. 632 del 2 luglio 1911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-02;632#art_2), salvo che gli esami si svolgeranno in base a programmi semplificati, da stabilirsi con decreto del ministro per la marina.
+Le promozioni a capo disegnatore di 2ª classe nella R. marina si effettueranno, anche durante la guerra, esclusivamente per concorso, come e' stabilito dall'[articolo 2 della legge n. 632 del 2 luglio 1911](Concernente%20il%20riordinamento%20del%20personale%20dei%20disegnatori%20della%20R.%20marina.%20011U0632.md), salvo che gli esami si svolgeranno in base a programmi semplificati, da stabilirsi con decreto del ministro per la marina.
 
 ## Art. 2.
 

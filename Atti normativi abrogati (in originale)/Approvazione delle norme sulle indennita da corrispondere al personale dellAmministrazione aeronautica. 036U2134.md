@@ -16,13 +16,13 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 23 ottobre 1921, n. 1555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-10-23;1555), sulla indennita' di soggiorno e trasferimento;
+Visto il [R. decreto 23 ottobre 1921, n. 1555](Che%20modifica%20il%20comma%202%20dellart.%205%20del%20decreto%20Luogotenenziale%2014%20settembre%201918%20n.%201311%20sulle%20indennita%20di%20soggiorno%20e%20trasferimento.%20021U1555.md), sulla indennita' di soggiorno e trasferimento;
 
 Visto il decreto commissariale 27 giugno 1924, sulla indennita' da corrispondere al personale addetto ai servizi dell'Aeronautica;
 
 Visto il decreto commissariale 3 agosto 1925, sull'indennita' di spostamento, missione e trasferimento del personale dell'Amministrazione aeronautica;
 
-Visto il [R. decreto 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1302), convertito nella [legge 4 aprile 1935, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;808), con le successive modificazioni, sulle indennita' dovute al personale dell'Amministrazione aeronautica;
+Visto il [R. decreto 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1302), convertito nella [legge 4 aprile 1935, n. 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md), con le successive modificazioni, sulle indennita' dovute al personale dell'Amministrazione aeronautica;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

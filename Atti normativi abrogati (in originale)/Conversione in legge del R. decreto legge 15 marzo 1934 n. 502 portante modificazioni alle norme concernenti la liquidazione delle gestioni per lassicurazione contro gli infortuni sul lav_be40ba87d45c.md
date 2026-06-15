@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 marzo 1934, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-15;502), portante modificazioni delle norme concernenti la liquidazione delle gestioni per l'assicurazione contro gli infortuni sul lavoro secondo le leggi ex austro-ungariche. 
+ E' convertito in legge il [R. decreto-legge 15 marzo 1934, n. 502](Modifica%20delle%20norme%20concernenti%20la%20liquidazione%20delle%20gestioni%20per%20lassicurazione%20contro%20glinfortuni%20sul%20lavoro%20secondo%20le%20leggi%20ex%20austro-ungariche.%20034U0502.md), portante modificazioni delle norme concernenti la liquidazione delle gestioni per l'assicurazione contro gli infortuni sul lavoro secondo le leggi ex austro-ungariche. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare conte legge dello Stato. 
  

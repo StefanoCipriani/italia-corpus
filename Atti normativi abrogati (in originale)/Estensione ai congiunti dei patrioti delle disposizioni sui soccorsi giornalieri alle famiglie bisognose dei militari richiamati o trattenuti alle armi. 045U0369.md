@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto Luogotenenziale 12 dicembre 1944, n. 395](Istituzione%20del%20Ministero%20dellItalia%20occupata.%20044U0395.md);
 
-Vista la [legge 22 gennaio 1934, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-22;115);
+Vista la [legge 22 gennaio 1934, n. 115](Soccorsi%20giornalieri%20alle%20famiglie%20bisognose%20dei%20militari%20richiamati%20o%20trattenuti%20alle%20armi.%20034U0115.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro Segretario di stato per l'Italia occupata, di concer
 
 ## Articolo unico.
 
-I patrioti, « Volontari della Liberta' », che nell'Italia o ccupata o al fronte facciano o abbiano fatto parte di unita' combattenti contro i tedeschi o i fascisti riconosciute dai Comitati di Liberazione Nazionale, sono considerati come volontari di guerra agli effetti del [secondo comma dell'art. 1, legge 22 gennaio 1934, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-22;115#art_1-com2). 
+I patrioti, « Volontari della Liberta' », che nell'Italia o ccupata o al fronte facciano o abbiano fatto parte di unita' combattenti contro i tedeschi o i fascisti riconosciute dai Comitati di Liberazione Nazionale, sono considerati come volontari di guerra agli effetti del [secondo comma dell'art. 1, legge 22 gennaio 1934, n. 115](Soccorsi%20giornalieri%20alle%20famiglie%20bisognose%20dei%20militari%20richiamati%20o%20trattenuti%20alle%20armi.%20034U0115.md). 
  
  Conseguentemente, per la durata della guerra, e limitatamente al periodo in cui sono rimasti effettivamente alle armi, sono estese ai loro congiunti le disposizioni della legge medesima e tutte le provvidenze posteriori sui soccorsi giornalieri alle famiglie bisognose dei militari richiamati o trattenuti alle armi. 
  

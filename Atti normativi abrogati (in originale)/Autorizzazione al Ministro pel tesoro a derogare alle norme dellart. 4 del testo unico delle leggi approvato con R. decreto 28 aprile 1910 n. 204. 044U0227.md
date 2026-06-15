@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico delle leggi sull'istituto di emissione, approvato con [R. decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204);
 
-Visto l'[art. 1 del R. decreto-legge 31 gennaio 1944, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-31;35#art_1), e il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
+Visto l'[art. 1 del R. decreto-legge 31 gennaio 1944, n. 35](Facolta%20di%20fabbricazione%20dei%20biglietti%20di%20Stato%20in%20deroga%20alle%20norme%20di%20cui%20al%20Regolamento%20alligato%20al%20R.D.L.%2020%20maggio%201935%20n.%20874.%20044U0035.md), e il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

@@ -94,7 +94,7 @@ Il lavoratore ha diritto di prendere visione, in qualunque momento, del libretto
 
 E' vietato agli uffici pubblici di collocamento di inscrivere negli elenchi i lavoratori non muniti di libretto, nei casi in cui questo e' prescritto. 
  
- All'atto dell'iscrizione negli elenchi dell'ufficio di collocamento, giusta l'[art. 1 del R. decreto 29 marzo 1928, n. 1003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-29;1003#art_1), il lavoratore deve esibire il libretto, l'ufficio vi apporra' il suo timbro e lo restituira' al lavoratore.
+ All'atto dell'iscrizione negli elenchi dell'ufficio di collocamento, giusta l'[art. 1 del R. decreto 29 marzo 1928, n. 1003](Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md), il lavoratore deve esibire il libretto, l'ufficio vi apporra' il suo timbro e lo restituira' al lavoratore.
 
 ## Art. 9.
 
@@ -120,7 +120,7 @@ Salvo il disposto dell'art. 14, entro sei mesi dall'entrata in Vigore della pres
 
 ## Art. 11.
 
-Salvo il disposto dell'art. 14 e fermo restando il disposto dell'art. 19 del Codice di marina mercantile, decorso il sesto mese dall'entrata in vigore della presente legge, cessano di avere effetto, relativamente ai lavoratori in questa, contemplati, l'[art. 129 (testo unico) della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_129), approvato con [R. decreto 18 giugno 1931, n. 773, l'art. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_16) del [R. decreto-legge 13 novembre 1924, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-13;1825), e in genere, salvo deroga autorizzata dal Ministro per le corporazioni, tutte le altre norme di legge, di regolamento, di atti amministrativi o di contratto collettivo di lavoro che prescrivono determinati libretti di lavoro ed altri documenti equipollenti, contenenti in tutto o in parte le notizie da inserire nel libretto previsto dalla presente legge. Senza autorizzazione del Ministro per le corporazioni non possono essere successivamente istituiti e resi obbligatori documenti del genere.
+Salvo il disposto dell'art. 14 e fermo restando il disposto dell'art. 19 del Codice di marina mercantile, decorso il sesto mese dall'entrata in vigore della presente legge, cessano di avere effetto, relativamente ai lavoratori in questa, contemplati, l'[art. 129 (testo unico) della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_129), approvato con [R. decreto 18 giugno 1931, n. 773, l'art. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_16) del [R. decreto-legge 13 novembre 1924, n. 1825](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md), e in genere, salvo deroga autorizzata dal Ministro per le corporazioni, tutte le altre norme di legge, di regolamento, di atti amministrativi o di contratto collettivo di lavoro che prescrivono determinati libretti di lavoro ed altri documenti equipollenti, contenenti in tutto o in parte le notizie da inserire nel libretto previsto dalla presente legge. Senza autorizzazione del Ministro per le corporazioni non possono essere successivamente istituiti e resi obbligatori documenti del genere.
 
 ## Art. 12.
 

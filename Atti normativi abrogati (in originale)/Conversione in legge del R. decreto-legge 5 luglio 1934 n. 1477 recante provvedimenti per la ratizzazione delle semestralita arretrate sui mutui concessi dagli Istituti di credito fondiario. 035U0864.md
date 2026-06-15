@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1477), recante provvedimenti per la ratizzazione delle semestralita' arretrate sui mutui concessi dagli Istituti di credito fondiario. 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1477](Provvedimenti%20per%20la%20rateizzazione%20delle%20semestralita%20arretrate%20sui%20mutui%20concessi%20dagli%20Istituti%20di%20credito%20fondiario.%20034U1477.md), recante provvedimenti per la ratizzazione delle semestralita' arretrate sui mutui concessi dagli Istituti di credito fondiario. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

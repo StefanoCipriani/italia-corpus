@@ -14,9 +14,9 @@ Visto il [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%
 
 Visto il C.C.N.L. del personale dipendente del comparto Ministeri, sottoscritto in data 16 febbraio 1999 e pubblicato nella Gazzetta Ufficiale del 25 febbraio 1999 valido per il quadriennio 1998-2001;
 
-Visto l'[articolo 18 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_18), come
+Visto l'[articolo 18 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), come
 
-modificato dal [comma 4 dell'articolo 13 della legge 17 maggio 1999, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144#art_13-com4);
+modificato dal [comma 4 dell'articolo 13 della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md);
 
 Visto l'articolo 1, comma 1, e la tabella B6 del decreto del
 
@@ -42,7 +42,7 @@ Adotta il seguente regolamento:
 
 1.
 
-La somma di cui al [comma 1 dell'articolo 18, legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_18-com1), e successive modificazioni, e' ripartita dal dirigente dell'ufficio di livello dirigenziale generale attuatore dell'intervento in base al presente regolamento.
+La somma di cui al [comma 1 dell'articolo 18, legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, e' ripartita dal dirigente dell'ufficio di livello dirigenziale generale attuatore dell'intervento in base al presente regolamento.
 
 2.
 
@@ -86,10 +86,10 @@ massima dell'1,5 per cento nei seguenti casi:
 
 Avvertenza: 
  Il testo delle note qui pubblicato e' stato redatto 
- dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione dalle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione dalle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Nota al titolo: 
  - Si riporta il testo dell'[art. 18 della legge 
- 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_18), e successive modifiche e integrazioni (legge quadro in materia di lavori pubblici): 
+ 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modifiche e integrazioni (legge quadro in materia di lavori pubblici): 
  "Art. 18 (Incentivi e spese per la progettazione). - 1. 
  Una somma non superiore all'1,5 per cento dell'importo posto a base di gara di un'opera o di un lavoro, a valere direttamente sugli stanziamenti di cui all'art. 16, comma 7, e' ripartita, per ogni singola opera o lavoro, con le modalita' ed i criteri previsti in sede di contrattazione decentrata ed assunti in un regolamento adottato dall'amministrazione, tra il responsabile unico del procedimento e gli incaricati della redazione del progetto, del piano della sicurezza, della direzione dei lavori, del collaudo nonche' tra i loro collaboratori. La percentuale effettiva, nel limite massimo dell'1,5 per cento, e' stabilita dal regolamento in rapporto all'entita' e alla complessita' dell'opera da realizzare. La ripartizione tiene conto delle responsabilita' professionali connesse alle specifiche prestazioni da svolgere. Le quote parti della predetta somma corrispondenti a prestazioni che non sono svolte dai predetti dipendenti, in quanto affidate a personale esterno all'organico dell'amministrazione medesima, costituiscono economie. I commi quarto e quinto dell'art. 62 del regolamento approvato con [regio decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537), sono abrogati. I soggetti di cui all'art. 2, comma 2, lettera b), possono adottare con proprio provvedimento analoghi criteri. 
  2. Il 30 per cento della tariffa professionale relativa 
@@ -102,9 +102,9 @@ Avvertenza:
  progettazione, direzione lavori, collaudo, indagine e attivita' di supporto a mezzo di contratti a tempo determinato od altre procedure diverse da quelle previste dalla presente legge". 
  Note alle premesse: 
  - Il [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e 
- successive modifiche ed integrazioni, reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2)". 
+ successive modifiche ed integrazioni, reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)". 
  - Per il testo dell'[art. 18 della legge 11 febbraio 
- 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_18), come modificato dal comma 4 dell'art. 13 della legge 17 maggio 1999, vedasi nota al titolo. 
+ 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), come modificato dal comma 4 dell'art. 13 della legge 17 maggio 1999, vedasi nota al titolo. 
  - L'[art. 17, comma 3, della legge 23 agosto 1988, n. 
  400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' il seguente: 
  "3. Con decreto ministeriale possono essere adottati 
@@ -119,7 +119,7 @@ Avvertenza:
  convenzioni predisposti da uno o piu' Ministri". 
  Nota all'art. 1: 
  - Per il testo dell'[art. 18 della legge 11 febbraio 
- 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_18), come modificato dal [comma 4 dell'art. 13 della legge 17 maggio 1999, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144#art_13-com4), vedasi in nota al titolo.
+ 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), come modificato dal [comma 4 dell'art. 13 della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md), vedasi in nota al titolo.
 
 ## Art. 2.
 
@@ -151,7 +151,7 @@ la redazione di un progetto richieda l'apporto di una pluralita' di competenze t
 3.
 
 L'aliquota di cui al punto c) del comma 1 e' addizionata a 
-quella di cui al punto b), del medesimo comma, qualora il piano di sicurezza e di coordinamento di cui all'articolo 12 del decreto legislativo 14 agosto l996, n. 494, e successive modificazioni, sia sostituito ai sensi dell'[articolo 31, comma 1-bis, lettera b) della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_31-com1bis-letb), e successive modificazioni.
+quella di cui al punto b), del medesimo comma, qualora il piano di sicurezza e di coordinamento di cui all'articolo 12 del decreto legislativo 14 agosto l996, n. 494, e successive modificazioni, sia sostituito ai sensi dell'[articolo 31, comma 1-bis, lettera b) della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni.
 
 4.
 
@@ -201,7 +201,7 @@ Note all'art. 2:
  6. Le disposizioni del presente articolo non si 
  applicano ai lavori la cui esecuzione immediata e' necessaria per prevenire incidenti imminenti o per organizzare urgenti misure di salvataggio". 
  - Si trascrive il testo dell'art. 31, comma 1-bis, 
- lettera b) della citata [legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109): 
+ lettera b) della citata [legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md): 
  "1-bis. Entro trenta giorni dall'aggiudicazione, e 
  comunque prima della consegna dei lavori, l'appaltatore od il concessionario redige e consegna ai soggetti di cui all'art. 2, comma 2: 
  a) eventuali proposte integrative del piano di 

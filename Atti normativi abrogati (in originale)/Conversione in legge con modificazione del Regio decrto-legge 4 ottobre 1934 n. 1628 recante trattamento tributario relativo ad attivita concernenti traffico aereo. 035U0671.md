@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 ottobre 1934, n. 1628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-04;1628), riguardante trattamento tributario relativo ad attivita' concernenti il traffico aereo, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 4 ottobre 1934, n. 1628](Trattamento%20tributario%20relativo%20ad%20attivita%20concernenti%20il%20traffico%20aereo.%20034U1628.md), riguardante trattamento tributario relativo ad attivita' concernenti il traffico aereo, con la seguente modificazione: 
  
  Al 2° comma dell'art. 9: «La tassa si riscuote mediante bollo a punzone» e' sostituito il seguente: 
  

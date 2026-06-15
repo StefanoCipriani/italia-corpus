@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli ufficiali del corpo R. equipaggi radiotelegrafisti, destinati temporaneamente quali capi posto presso stazioni radiotelegrafiche, in sostituzione di sottufficiali radiotelegrafisti, e' assegnato lo stesso soprassoldo giornaliero di lire 2,80 stabilito, per i capi di 1ª e 2ª classe con analoga destinazione, dal [R. decreto 5 febbraio 1914, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-02-05;126).
+Agli ufficiali del corpo R. equipaggi radiotelegrafisti, destinati temporaneamente quali capi posto presso stazioni radiotelegrafiche, in sostituzione di sottufficiali radiotelegrafisti, e' assegnato lo stesso soprassoldo giornaliero di lire 2,80 stabilito, per i capi di 1ª e 2ª classe con analoga destinazione, dal [R. decreto 5 febbraio 1914, n. 126](Col%20quale%20vengono%20approvate%20alcune%20varianti%20allordinamento%20degli%20assegni%20del%20corpo%20Reale%20equipaggi.%20014U0126.md).
 
 ## Art. 2.
 

@@ -12,23 +12,23 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti gli [articoli 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-07-19;466#art_62) e [63 del regio decreto 19 luglio 1906, n. 466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-07-19;466#art_63);
+Visti gli [articoli 62](Che%20approva%20il%20regolamento%20sulla%20assistenza%20sanitaria%20sulla%20vigilanza%20igienica%20e%20sulla%20igiene%20degli%20abitanti%20nei%20comuni%20del%20Regno.%20006U0466.md) e [63 del regio decreto 19 luglio 1906, n. 466](Che%20approva%20il%20regolamento%20sulla%20assistenza%20sanitaria%20sulla%20vigilanza%20igienica%20e%20sulla%20igiene%20degli%20abitanti%20nei%20comuni%20del%20Regno.%20006U0466.md);
 
 Visto il [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
 
-Visto il [regio decreto-legge 15 ottobre 1936, n. 2128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-15;2128), modificato dalla [legge 23 dicembre 1957, n. 1252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-12-23;1252);
+Visto il [regio decreto-legge 15 ottobre 1936, n. 2128](Ordinamento%20delle%20Scuole%20di%20ostetricia%20e%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20036U2128.md), modificato dalla [legge 23 dicembre 1957, n. 1252](Modificazioni%20allordinamento%20delle%20scuole%20di%20ostetricia.md);
 
-Visto il [regio decreto-legge 1 luglio 1937, n. 1520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-01;1520);
+Visto il [regio decreto-legge 1 luglio 1937, n. 1520](Disposizioni%20sullordinamento%20delle%20Scuole%20di%20ostetricia%20e%20sulla%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20037U1520.md);
 
-Visto il [regio decreto 26 maggio 1940, n. 1364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-26;1364);
+Visto il [regio decreto 26 maggio 1940, n. 1364](Regolamento%20per%20lesercizio%20professionale%20delle%20ostetriche.%20040U1364.md);
 
 Vista la [legge 31 gennaio 1953, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-01-31;44);
 
-Visto l'[art. 6 del decreto del Presidente della Repubblica 14 gennaio 1972, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-01-14;4#art_6);
+Visto l'[art. 6 del decreto del Presidente della Repubblica 14 gennaio 1972, n. 4](../DPR/Trasferimento%20alle%20Regioni%20a%20statuto%20ordinario%20delle%20funzioni%20amministrative%20statali%20in%20materia%20di%20assistenza%20sanitaria%20ed%20ospedaliera%20e%20dei%20relativi%20personali%20ed%20uffici.md);
 
-Visto il [decreto del Presidente della Repubblica 14 marzo 1974, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-03-14;225);
+Visto il [decreto del Presidente della Repubblica 14 marzo 1974, n. 225](../DPR/Modifiche%20al%20regio%20decreto%202%20maggio%201940%20n.%201310%20sulle%20mansioni%20degli%20infermieri%20professionali%20e%20infermieri%20generici.md);
 
-Riconosciuta l'opportunita' di aggiornare la normativa di cui al [regio decreto 26 maggio 1940, n. 1364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-26;1364), concernente il regolamento per l'esercizio professionale delle ostetriche;
+Riconosciuta l'opportunita' di aggiornare la normativa di cui al [regio decreto 26 maggio 1940, n. 1364](Regolamento%20per%20lesercizio%20professionale%20delle%20ostetriche.%20040U1364.md), concernente il regolamento per l'esercizio professionale delle ostetriche;
 
 Sentito il Consiglio superiore di sanita';
 
@@ -44,7 +44,7 @@ L'ostetrica ha il compito specifico dell'assistenza alla donna, durante la gesta
 
 ## Art. 2.
 
-I compiti di vigilanza di cui all'art. 1 vengono affidati alle ostetriche diplomate a norma del [regio decreto-legge 15 ottobre 1936, n. 2128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-15;2128) e del [regio decreto-legge 1 luglio 1937, n. 1520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-01;1520), sull'ordinamento delle scuole di ostetricia e sulla disciplina giuridica della professione di ostetrica, modificati con [legge 31 gennaio 1953, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-01-31;44) e con [legge 23 dicembre 1957, n. 1252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-12-23;1252).
+I compiti di vigilanza di cui all'art. 1 vengono affidati alle ostetriche diplomate a norma del [regio decreto-legge 15 ottobre 1936, n. 2128](Ordinamento%20delle%20Scuole%20di%20ostetricia%20e%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20036U2128.md) e del [regio decreto-legge 1 luglio 1937, n. 1520](Disposizioni%20sullordinamento%20delle%20Scuole%20di%20ostetricia%20e%20sulla%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20037U1520.md), sull'ordinamento delle scuole di ostetricia e sulla disciplina giuridica della professione di ostetrica, modificati con [legge 31 gennaio 1953, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-01-31;44) e con [legge 23 dicembre 1957, n. 1252](Modificazioni%20allordinamento%20delle%20scuole%20di%20ostetricia.md).
  Nell'esercizio dei compiti di vigilanza della madre e del bambino, l'ostetrica coadiuva i sanitari nell'assistenza domiciliare; svolge opera di informazione presso le famiglie sulle provvidenze assistenziali esistenti per la protezione della maternita' ed infanzia, segnala agli enti ed alle autorita' competenti i casi particolarmente bisognosi di assistenza.
  Sulla base delle acquisizioni della scienza medica e seguendo le direttive delle autorita' sanitarie, l'ostetrica svolge opera di educazione sanitaria della famiglia e di informazione sulla regolazione delle nascite. Essa, per quanto possibile, vigila sulla osservanza da parte delle donne delle norme pratiche di igiene e le indirizza agli opportuni controlli ed accertamenti ogni qualvolta constati anomalie o disturbi a carico della funzione dell'apparato genitale, segni manifesti o sospetti di infezioni veneree e di neoplasie degli organi genitali e della mammella.
  Sulla base delle direttive di cui al comma precedente, l'ostetrica si adopera per l'osservanza nelle famiglie delle norme pratiche di igiene neonatale ed infantile.
@@ -90,7 +90,7 @@ L'ostetrica deve subito annotare nei rispettivi registri, che le sono forniti da
 ## Art. 9.
 
 L'ostetrica ha l'obbligo:
- a) di redigere e rilasciare gratuitamente, per ogni parto al quale abbia assistito, il certificato di assistenza, previsto dall'[articolo 18 del regio decreto-legge 15 ottobre 1936, n. 2128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-15;2128#art_18), sull'ordinamento delle scuole di ostetricia e sulla disciplina giuridica della professione di ostetrica, conforme al modello stabilito dal Ministero della sanita';
+ a) di redigere e rilasciare gratuitamente, per ogni parto al quale abbia assistito, il certificato di assistenza, previsto dall'[articolo 18 del regio decreto-legge 15 ottobre 1936, n. 2128](Ordinamento%20delle%20Scuole%20di%20ostetricia%20e%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20036U2128.md), sull'ordinamento delle scuole di ostetricia e sulla disciplina giuridica della professione di ostetrica, conforme al modello stabilito dal Ministero della sanita';
  b) di denunciare al sindaco ed all'ufficiale sanitario ogni nascita di neonato deforme, secondo i moduli e le istruzioni del Ministero della sanita', a meno che la denuncia non sia fatta dal medico, il cui intervento deve sempre essere richiesto, ai sensi del precedente articolo 5;
  c) di segnalare sollecitamente all'ufficiale sanitario la nascita di immaturi o di deboli vitali e di promuovere l'immediato ricovero per gli eventuali interventi assistenziali.
 
@@ -102,7 +102,7 @@ L'ostetrica deve essere provvista della busta ostetrica il cui contenuto e' dete
 
 ## Art. 11.
 
-E' abrogato il regolamento per l'esercizio professionale delle ostetriche approvato con [regio decreto 26 maggio 1940, n. 1364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-26;1364), e ogni altra disposizione regolamentare contraria o comunque incompatibile con quelle del presente decreto.
+E' abrogato il regolamento per l'esercizio professionale delle ostetriche approvato con [regio decreto 26 maggio 1940, n. 1364](Regolamento%20per%20lesercizio%20professionale%20delle%20ostetriche.%20040U1364.md), e ogni altra disposizione regolamentare contraria o comunque incompatibile con quelle del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

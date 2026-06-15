@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 dicembre 1933, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-04;1860), con il quale vengono aumentati per le ferrovie concesse e per le tramvie i limiti massimi di velocita' previsti dall'art. 118 del testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447). 
+ E' convertito in legge il [R. decreto-legge 4 dicembre 1933, n. 1860](Disposizioni%20circa%20i%20limiti%20di%20velocita%20massima%20di%20corsa%20che%20possono%20essere%20raggiunti%20dalle%20ferrovie%20concesse%20e%20dalle%20tramvie.%20033U1860.md), con il quale vengono aumentati per le ferrovie concesse e per le tramvie i limiti massimi di velocita' previsti dall'art. 118 del testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -18,13 +18,13 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), ed il relativo regolamento approvato con [R. decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068);
 
-Visto il [R. decreto-legge 7 marzo 1925, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-03-07;222);
+Visto il [R. decreto-legge 7 marzo 1925, n. 222](Riordinamento%20per%20le%20Borse.%20025U0222.md);
 
-Visto il regolamento approvato con [R. decreto 9 aprile 1925, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-09;376);
+Visto il regolamento approvato con [R. decreto 9 aprile 1925, n. 376](Approvazione%20del%20regolamento%20sulle%20Borse.%20025U0376.md);
 
-Visto il [R. decreto-legge 29 luglio 1925, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-29;1261);
+Visto il [R. decreto-legge 29 luglio 1925, n. 1261](Passaggio%20delle%20attribuzioni%20concernenti%20le%20Borse%20valori%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20delle%20finanze.%20025U1261.md);
 
-Visto il [R. decreto-legge 30 giugno 1932, n. 815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-06-30;815);
+Visto il [R. decreto-legge 30 giugno 1932, n. 815](Modifiche%20di%20alcune%20disposizioni%20inerenti%20alle%20Borse%20valori%20ed%20agli%20agenti%20di%20cambio.%20032U0815.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -59,9 +59,9 @@ Le domande di ammissione al concorso, indirizzate al Ministero del tesoro, dovra
 
 ## Art. 3.
 
-Sono estese ai concorrenti ai posti di agente di cambio tutte le preferenze accordate ai reduci di guerra ed alle categorie assimilate dalle vigenti disposizioni concernenti i pubblici impieghi, in virtu' del [decreto legislativo Luogotenenziale 4 agosto 1945, n. 467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-04;467).
+Sono estese ai concorrenti ai posti di agente di cambio tutte le preferenze accordate ai reduci di guerra ed alle categorie assimilate dalle vigenti disposizioni concernenti i pubblici impieghi, in virtu' del [decreto legislativo Luogotenenziale 4 agosto 1945, n. 467](../Decreti%20legislativi%20luogotenenziali/Estensione%20delle%20vigenti%20disposizioni%20concernenti%20i%20reduci%20ed%20i%20congiunti%20dei%20caduti%20in%20guerra%20ai%20reduci%20ed%20ai%20congiunti%20dei%20caduti%20per%20la%20lotta%20di%20liberazione.%20045U0467.md).
  I candidati ex combattenti presenteranno, oltre alla copia dello stato di servizio o del foglio matricolare, annotata delle benemerenze di guerra, anche la prescritta dichiarazione integrativa dei servizi resi in zona di operazioni.
- Gli invalidi di guerra dovranno presentare, inoltre, il certificato mod. 69, rilasciato dal Ministero del tesoro (Direzione generale delle pensioni di guerra), ovvero una dichiarazione rilasciata dalla competente Rappresentanza provinciale degli invalidi di guerra, in cui siano anche indicati i documenti in base ai quali e' stata riconosciuta la loro qualita' di invalido, ai fini dell'iscrizione nei ruoli provinciali di cui all'[art. 3 della legge 21 agosto 1921, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-21;1312#art_3).
+ Gli invalidi di guerra dovranno presentare, inoltre, il certificato mod. 69, rilasciato dal Ministero del tesoro (Direzione generale delle pensioni di guerra), ovvero una dichiarazione rilasciata dalla competente Rappresentanza provinciale degli invalidi di guerra, in cui siano anche indicati i documenti in base ai quali e' stata riconosciuta la loro qualita' di invalido, ai fini dell'iscrizione nei ruoli provinciali di cui all'[art. 3 della legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md).
  Gli orfani di guerra ed i figli degli invalidi di guerra dovranno dimostrare la loro qualita', mediante certificato rilasciato dalla competente autorita'.
  Coloro che abbiano fatto parte di bande armate ed abbiano partecipato ad azioni di guerra contro i nazifascisti posteriormente all'8 settembre 1943, dovranno esibire apposito documento rilasciato dalla competente autorita'.
 
@@ -88,7 +88,7 @@ L'ammissione al concorso puo' essere negata con decreto del Ministro per il teso
 
 ## Art. 8.
 
-A modifica dell'[art. 3 del R. decreto-legge 30 giugno 1932, n. 815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-06-30;815#art_3), avranno titolo preferenziale e nell'ordine appresso indicato:
+A modifica dell'[art. 3 del R. decreto-legge 30 giugno 1932, n. 815](Modifiche%20di%20alcune%20disposizioni%20inerenti%20alle%20Borse%20valori%20ed%20agli%20agenti%20di%20cambio.%20032U0815.md), avranno titolo preferenziale e nell'ordine appresso indicato:
  1) gli agenti di cambio in carica presso le varie Borse;
  2) coloro che abbiano esercitato la professione di agente di cambio ed abbiano sempre conservato i prescritti requisiti;
  3) coloro che abbiano esercitato le funzioni di rappresentante alle grida di agente di cambio per almeno un quinquennio;

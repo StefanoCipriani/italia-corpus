@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto-legge 19 giugno 2015, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-06-19;78), convertito, con modificazioni, dalla [legge 6 agosto 2015, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-06;125), recante: «Disposizioni urgenti in materia di enti territoriali. Disposizioni per garantire la continuita' dei dispositivi di sicurezza e di controllo del territorio. Razionalizzazione delle spese del Servizio sanitario nazionale nonche' norme in materia di rifiuti e di emissioni industriali»;
+Visto il [decreto-legge 19 giugno 2015, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-06-19;78), convertito, con modificazioni, dalla [legge 6 agosto 2015, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20giugno%202015%20n.%2078%20recante%20disposizioni%20urgenti%20in%20materia%20di%20enti%20territoriali.%2015G00135.md), recante: «Disposizioni urgenti in materia di enti territoriali. Disposizioni per garantire la continuita' dei dispositivi di sicurezza e di controllo del territorio. Razionalizzazione delle spese del Servizio sanitario nazionale nonche' norme in materia di rifiuti e di emissioni industriali»;
 
 Visto, in particolare, l'articolo 9-ter, comma 9-bis, del citato [decreto-legge n. 78 del 2015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015;78), in materia di ripiano per il superamento del tetto di spesa per i dispositivi medici;
 
@@ -34,7 +34,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-All'[articolo 9-ter, comma 9-bis, del decreto-legge 19 giugno 2015, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-06-19;78#art_9ter-com9bis), convertito, con modificazioni, dalla [legge 6 agosto 2015, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-06;125), le parole: «entro trenta giorni dalla pubblicazione dei provvedimenti regionali e provinciali» sono sostituite dalle seguenti: «entro il 30 aprile 2023».
+All'[articolo 9-ter, comma 9-bis, del decreto-legge 19 giugno 2015, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-06-19;78#art_9ter-com9bis), convertito, con modificazioni, dalla [legge 6 agosto 2015, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20giugno%202015%20n.%2078%20recante%20disposizioni%20urgenti%20in%20materia%20di%20enti%20territoriali.%2015G00135.md), le parole: «entro trenta giorni dalla pubblicazione dei provvedimenti regionali e provinciali» sono sostituite dalle seguenti: «entro il 30 aprile 2023».
 
 ## Art. 2. — Entrata in vigore
 

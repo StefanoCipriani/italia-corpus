@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1580), che disciplina l'industria della macinazione dei cereali. 
+ E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1580](Disciplina%20dellindustria%20della%20macinazione%20dei%20cereali.%20027U1580.md), che disciplina l'industria della macinazione dei cereali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

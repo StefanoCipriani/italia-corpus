@@ -22,7 +22,7 @@ Nei casi previsti dal presente decreto quando sia necessario il provvedimento de
 
 ## Art. 4.
 
-I pagamenti in favore degli eredi, di cui al presente decreto, non saranno soggetti alla osservanza delle norme contenute nell'[art. 8 della legge 27 maggio 1875, n. 2779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-05-27;2779#art_8), e saranno effettuati appena espletato l'esame ed il giudizio sulla validita' dei documenti legali prodotti.
+I pagamenti in favore degli eredi, di cui al presente decreto, non saranno soggetti alla osservanza delle norme contenute nell'[art. 8 della legge 27 maggio 1875, n. 2779](Per%20la%20istituzione%20delle%20casse%20di%20risparmio%20postali%20e%20per%20modificazioni%20alla%20legge%2017%20maggio%201863%20sulla%20cassa%20dei%20depositi%20e%20prestiti.%20075U2779.md), e saranno effettuati appena espletato l'esame ed il giudizio sulla validita' dei documenti legali prodotti.
 
 ## Art. 5.
 

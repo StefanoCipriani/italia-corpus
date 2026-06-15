@@ -20,11 +20,11 @@ Visto il decreto del Ministro della difesa in data 18 dicembre 1981, recante "Re
 
 Visto il decreto del Ministro della difesa in data 18 dicembre 1981, recante "Regolamento per le inchieste sugli incidenti, infortuni ed eventi di particolare gravita' o di particolare risonanza avvenuti nell'ambito dei comandi ed enti della Aeronautica militare o che abbiano coinvolto personale militare dell'Aeronautica", e successive modificazioni, pubblicato nel Giornale Ufficiale della Difesa;
 
-Vista la [legge 18 febbraio 1997, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-02-18;25);
+Vista la [legge 18 febbraio 1997, n. 25](Attribuzioni%20del%20Ministro%20della%20difesa%20ristrutturazione%20dei%20vertici%20delle%20Forze%20armate%20e%20dellAmministrazione%20della%20difesa.md);
 
 Visto il [decreto del Presidente della Repubblica 25 ottobre 1999, n. 556](Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md);
 
-Visto il [decreto legislativo 28 novembre 1997, n. 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-11-28;464);
+Visto il [decreto legislativo 28 novembre 1997, n. 464](../Decreti%20Legislativi/Riforma%20strutturale%20delle%20Forze%20armate%20a%20norma%20dellarticolo%201%20comma%201%20lettere%20a%20d%20ed%20h%20della%20legge%2028%20dicembre%201995%20n.%20549.md);
 
 Udito il parere del Consiglio superiore delle Forze armate;
 
@@ -55,7 +55,7 @@ Il presente regolamento non si applica agli incidenti automobilistici, nei quali
 Avvertenza:
 
 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  Note alle premesse:
 
@@ -70,7 +70,7 @@ Avvertenza:
  - Il decreto ministeriale del 1° giugno 1962, recante il «Regolamento per le inchieste sui sinistri marittimi occorsi ad unita' ed a bordo di unita' e sugli incidenti occorsi presso comandi ed enti della Marina militare», e' pubblicato nel Giornale Ufficiale della Marina militare n. 1462 - dispensa 5ª del 1962;
  - Il decreto ministeriale 18 dicembre 1981, recante il «Regolamento per le inchieste sugli incidenti, infortuni ed eventi di particolare gravita' o risonanza avvenuti nell'ambito dei corpi, unita' o reparti dell'Esercito», e' pubblicato nel Giornale Ufficiale del Ministero della difesa, dispensa 2ª del 9 gennaio 1982;
  - Il decreto ministeriale 18 dicembre 1981, recante il «Regolamento per le inchieste sugli incidenti, infortuni ed eventi di particolare gravita' o di particolare risonanza avvenuti nell'ambito dei comandi ed enti della Aeronautica militare», e' pubblicato nel Giornale Ufficiale del Ministero della difesa, dispensa 2ª del 9 gennaio 1982;
- - La [legge 18 febbraio 1997, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-02-18;25), recante «Attribuzioni del Ministro della difesa, ristrutturazione dei vertici delle Forze armate e dell'Amministrazione della difesa», e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana 24 febbraio 1997, n. 45;
+ - La [legge 18 febbraio 1997, n. 25](Attribuzioni%20del%20Ministro%20della%20difesa%20ristrutturazione%20dei%20vertici%20delle%20Forze%20armate%20e%20dellAmministrazione%20della%20difesa.md), recante «Attribuzioni del Ministro della difesa, ristrutturazione dei vertici delle Forze armate e dell'Amministrazione della difesa», e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana 24 febbraio 1997, n. 45;
  - Il [decreto del Presidente della Repubblica 28 novembre 1997, n. 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-11-28;464), recante «Riforma strutturale delle Forze armate», e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana 5 gennaio 1998, n. 3;
  - Il [decreto del Presidente della Repubblica, 25 ottobre 1999, n. 556](Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md), e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana 18 maggio 2000, n. 114.
 
@@ -140,7 +140,7 @@ Le autorita' competenti a ordinare l'inchiesta sommaria sono:
                             b)
                                 il Segretario generale della difesa, quando gli eventi sono avvenuti nell'ambito del Segretariato generale;
                             c)
-                                i superiori gerarchici del comando, ente, unita' ed ufficio coinvolti nell'evento, il cui livello ordinativo e' individuato, in via generale, con decreto del Ministro della difesa, in base all'assetto organizzativo delle aree tecnico-operativa, tecnico-amministrativa e tecnico-industriale del Ministero della difesa, nonche' alla capacita' ad acquisire, con la necessaria tempestivita', gli elementi necessari per valutare l'opportunita' di disporre l'inchiesta sommaria e ad adottare o proporre le misure correttive, sulla base dei risultati dell'indagine, fermo restando quanto disposto dal [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) in materia di sinistri marittimi.
+                                i superiori gerarchici del comando, ente, unita' ed ufficio coinvolti nell'evento, il cui livello ordinativo e' individuato, in via generale, con decreto del Ministro della difesa, in base all'assetto organizzativo delle aree tecnico-operativa, tecnico-amministrativa e tecnico-industriale del Ministero della difesa, nonche' alla capacita' ad acquisire, con la necessaria tempestivita', gli elementi necessari per valutare l'opportunita' di disporre l'inchiesta sommaria e ad adottare o proporre le misure correttive, sulla base dei risultati dell'indagine, fermo restando quanto disposto dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) in materia di sinistri marittimi.
 
 2.
 
@@ -228,14 +228,14 @@ L'autorita' che dispone l'inchiesta fissa il termine, non superiore a centoventi
 
 1.
 
-Quando il sinistro deriva da collisioni con navi della marina mercantile, nazionale o straniera, o comunque e' in relazione con la manovra di una delle predette navi, la valutazione sulla necessita' di disporre l'inchiesta formale, e l'eventuale svolgimento dell'inchiesta, sono di competenza delle autorita' di cui al libro IV, titolo I, del [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) ed al libro IV, titolo I, del regolamento di esecuzione, di cui al [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328), e sono effettuate in base alle disposizioni ed alle procedure dettate dalla medesima normativa.
+Quando il sinistro deriva da collisioni con navi della marina mercantile, nazionale o straniera, o comunque e' in relazione con la manovra di una delle predette navi, la valutazione sulla necessita' di disporre l'inchiesta formale, e l'eventuale svolgimento dell'inchiesta, sono di competenza delle autorita' di cui al libro IV, titolo I, del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ed al libro IV, titolo I, del regolamento di esecuzione, di cui al [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e sono effettuate in base alle disposizioni ed alle procedure dettate dalla medesima normativa.
 
 2.
 
 Alle autorita' di cui al comma 1, sono trasmessi, dietro richiesta, gli atti relativi all'inchiesta sommaria eseguita ai sensi del Capo II del presente regolamento.
 
 Nota all'[art. 12:
- - Il decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328#art_12), recante il regolamento per l'esecuzione del [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana 21 aprile 1952, n. 94.
+ - Il decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), recante il regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana 21 aprile 1952, n. 94.
 
 ### Art. 13. — Commissione d'inchiesta formale
 

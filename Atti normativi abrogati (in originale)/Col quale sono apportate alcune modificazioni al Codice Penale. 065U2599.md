@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la Legge del 2 aprile 1865, n.° 2215, colla quale il Governo del Re fu autorizzato a pubblicare la Legge di modificazioni al [Codice Penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) circa la competenza in materia penale dei Giudici di Mandamento e dei Tribunali di Circondario, colle modificazioni riconosciute necessarie a norma dell'articolo 2 della stessa Legge;
+Vista la Legge del 2 aprile 1865, n.° 2215, colla quale il Governo del Re fu autorizzato a pubblicare la Legge di modificazioni al [Codice Penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) circa la competenza in materia penale dei Giudici di Mandamento e dei Tribunali di Circondario, colle modificazioni riconosciute necessarie a norma dell'articolo 2 della stessa Legge;
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli af
 
 ## Art. 1.
 
-Agli articoli 276-A 437, 442, 443, 444, 445, 463, 625, 634, 635, 649, 665, 672 e 676 del [Codice Penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), 20 novembre 1859, che sono abrogati, sono sostituiti ai corrispondenti numeri gli articoli seguenti: 
+Agli articoli 276-A 437, 442, 443, 444, 445, 463, 625, 634, 635, 649, 665, 672 e 676 del [Codice Penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), 20 novembre 1859, che sono abrogati, sono sostituiti ai corrispondenti numeri gli articoli seguenti: 
  
  276-A. 1° Se il danno causato non supera il valore di cento lire, la pena del carcere sara' estensibile ad un mese; 
  
@@ -123,7 +123,7 @@ Nota redazionale
 
 ## Art. 2.
 
-Il presente decreto avra' esecuzione il 1 gennaio 1866 , in tutte le provincie in cui e' in vigore il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del 20 novembre
+Il presente decreto avra' esecuzione il 1 gennaio 1866 , in tutte le provincie in cui e' in vigore il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 20 novembre
 
 1859.
 

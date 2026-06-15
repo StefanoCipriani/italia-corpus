@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 settembre 1936, n. 2017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-09-03;2017), contenente norme temporanee sul trattamento economico del personale militare nazionale ed indigeno in servizio nell'Africa Orientale Italiana. 
+ E' convertito in legge il [R. decreto-legge 3 settembre 1936, n. 2017](Norme%20temporanee%20sul%20trattamento%20economico%20del%20personale%20militare%20nazionale%20ed%20indigeno%20in%20servizio%20nellAfrica%20Orientale%20Italiana.%20036U2017.md), contenente norme temporanee sul trattamento economico del personale militare nazionale ed indigeno in servizio nell'Africa Orientale Italiana. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

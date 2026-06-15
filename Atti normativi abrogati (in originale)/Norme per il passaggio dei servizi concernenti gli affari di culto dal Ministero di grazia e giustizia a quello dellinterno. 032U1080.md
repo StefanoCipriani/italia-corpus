@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visto il Nostro decreto 20 luglio 1932, n. 884, che trasferisce dal Ministero di grazia e giustizia al Ministero dell'interno tutte le attribuzioni della Direzione generale degli affari di culto e della Direzione generale del Fondo per il culto e del Fondo di beneficenza e religione nella citta' di Roma;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
 
-Visto il [R. decreto 24 settembre 1931, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-24;1326);
+Visto il [R. decreto 24 settembre 1931, n. 1326](Nuovo%20ruolo%20organico%20degli%20Uffici%20per%20gli%20affari%20di%20culto.%20031U1326.md);
 
 Ritenuta la necessita' urgente e assoluta di provvedere, rispettivamente, al comando ed al passaggio al Ministero dell'interno del personale attualmente addetto ai servizi sopraindicati;
 

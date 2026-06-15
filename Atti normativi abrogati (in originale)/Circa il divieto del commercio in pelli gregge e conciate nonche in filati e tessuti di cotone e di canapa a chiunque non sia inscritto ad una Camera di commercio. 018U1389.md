@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Udito il Consiglio dei ministri;
 
@@ -36,7 +36,7 @@ Dalla data di pubblicazione del presente decreto e' vietato il commercio in pell
 
 ## Art. 2.
 
-Gli esercenti il commercio al dettaglio temporaneo o girovago delle merci indicate all'art. 1, i quali non fossero gia' inscritti alla Camera di commercio, dovranno, entro i trenta giorni dalla pubblicazione del presente decreto, uniformarsi alla prescrizione dell'ultimo capoverso dell'[art. 58 della legge 20 marzo 1910, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-20;121#art_58), sulle Camere di commercio. 
+Gli esercenti il commercio al dettaglio temporaneo o girovago delle merci indicate all'art. 1, i quali non fossero gia' inscritti alla Camera di commercio, dovranno, entro i trenta giorni dalla pubblicazione del presente decreto, uniformarsi alla prescrizione dell'ultimo capoverso dell'[art. 58 della legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md), sulle Camere di commercio. 
  
  Essi potranno ottenere l'inscrizione alla Camera, senza bisogno della speciale autorizzazione di cui all'articolo precedente, quando comprovino, con certificato dell'autorita' di pubblica sicurezza o del sindaco, che esercitavano tale forma di commercio anteriormente alla pubblicazione del decreto medesimo.
 

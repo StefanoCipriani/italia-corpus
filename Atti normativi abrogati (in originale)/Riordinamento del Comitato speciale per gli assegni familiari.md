@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 17 giugno 1937, n. 1048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-17;1048);
+Visto il [R. decreto-legge 17 giugno 1937, n. 1048](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md);
 
-Vista la [legge 6 agosto 1940, n. 1278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-08-06;1278), Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
+Vista la [legge 6 agosto 1940, n. 1278](Istituzione%20di%20una%20Cassa%20unica%20per%20gli%20assegni%20familiari%20ai%20lavoratori%20e%20disciplina%20della%20corresponsione%20degli%20assegni%20stessi%20al%20personale%20non%20usufruente%20di%20un%20trattamento%20di%20famiglia%20del_350b7c47914c.md), Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
@@ -28,12 +28,12 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-L'[art. 18 del R. decreto-legge 17 giugno 1937, n. 1048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-17;1048#art_18), convertito in legge con la [legge 25 ottobre 1938, n. 2233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-10-25;2233), e' sostituito dal seguente "E' istituito presso l'Istituto nazionale della previdenza sociale un Comitato speciale per gli assegni familiari, distinto in tante sezioni quante sono le gestioni degli assegni, presieduto dal presidente dell'Istituto, e in sua vece o impedimento da uno dei vice presidenti dell'Istituto stesso. 
+L'[art. 18 del R. decreto-legge 17 giugno 1937, n. 1048](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md), convertito in legge con la [legge 25 ottobre 1938, n. 2233](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20contenente%20disposizioni%20per%20il%20perfezionamento%20e%20la%20generalizzazione%20degli%20assegni%20familiari%20ai%20prest_b75c670e8a1f.md), e' sostituito dal seguente "E' istituito presso l'Istituto nazionale della previdenza sociale un Comitato speciale per gli assegni familiari, distinto in tante sezioni quante sono le gestioni degli assegni, presieduto dal presidente dell'Istituto, e in sua vece o impedimento da uno dei vice presidenti dell'Istituto stesso. 
  Il Comitato puo' essere convocato in assemblea plenaria per le questioni di ordine generale".
 
 ## Art. 2.
 
-Al [2° comma dell'art. 11 della legge 6 agosto 1940, n. 1278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-08-06;1278#art_11-com2), sono sostituiti i seguenti: 
+Al [2° comma dell'art. 11 della legge 6 agosto 1940, n. 1278](Istituzione%20di%20una%20Cassa%20unica%20per%20gli%20assegni%20familiari%20ai%20lavoratori%20e%20disciplina%20della%20corresponsione%20degli%20assegni%20stessi%20al%20personale%20non%20usufruente%20di%20un%20trattamento%20di%20famiglia%20del_350b7c47914c.md), sono sostituiti i seguenti: 
  "Il Comitato per gli assegni familiari e' composto dai seguenti membri: 
  a) per tutte le sezioni il direttore generale del la previdenza e dell'assistenza sociale e il direttore generale del lavoro del Ministero del lavoro e della previdenza sociale e un rappresentante del Ministero del tesoro; 
  b) inoltre, per ciascuna delle sezioni dell'industria, dell'agricoltura, del commercio e professioni e arti e del credito e assicurazione, tre rappresentanti delle rispettive categorie dei datori di lavoro e tre dei lavoratori, nominati dal Ministro per il lavoro e la previdenza sociale, sentite le organizzazioni sindacali nazionali; 

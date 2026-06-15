@@ -20,11 +20,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri eccezionali conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri eccezionali conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visti gli articoli 1 e 2 del testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, numero 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-24;501); 
+ Visti gli articoli 1 e 2 del testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, numero 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md); 
  
- Visto il [R. decreto 23 maggio 1915, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;689), riguardante la censura postale in caso di circostanze eccezionali; 
+ Visto il [R. decreto 23 maggio 1915, n. 689](Riguardante%20la%20censura%20postale%20in%20caso%20di%20circostanze%20straordinarie.%20015U0689.md), riguardante la censura postale in caso di circostanze eccezionali; 
  
  Udito il Consiglio dei ministri; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  E' vietato a chiunque di portare e di ricevere sulle navi di qualunque bandiera in partenza dai porti del Regno corrispondenze sia private che di ufficio, che non siano state impostate a terra nelle ordinarie cassette di impostazione o che non siano altrimenti passate per i RR. uffici postali. 
  
- Le infrazioni a questo divieto saranno punite con l'ammenda non inferiore a lire cento, salvo le maggiori pene comminate dalla [legge 21 marzo 1915, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-03-21;273), cui potesse dar luogo il contenuto delle corrispondenze. 
+ Le infrazioni a questo divieto saranno punite con l'ammenda non inferiore a lire cento, salvo le maggiori pene comminate dalla [legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md), cui potesse dar luogo il contenuto delle corrispondenze. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

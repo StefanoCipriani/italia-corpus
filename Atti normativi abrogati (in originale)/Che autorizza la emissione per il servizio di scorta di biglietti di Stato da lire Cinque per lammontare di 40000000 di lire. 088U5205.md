@@ -12,11 +12,11 @@ vigente: true
 
 IL MINISTRO DEL TESORO 
  
- Veduta la [legge 7 aprile 1881, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-04-07;133), sui provvedimenti per l'abolizione del corso forzoso; 
+ Veduta la [legge 7 aprile 1881, n. 133](Che%20provvede%20per%20labolizione%20del%20corso%20forzoso%20081U0133.md), sui provvedimenti per l'abolizione del corso forzoso; 
  
  Veduto il Regolamento per la esecuzione della legge predetta, approvato con [R. decreto 16 giugno 1881, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-06-16;133) (Serie 3ª); 
  
- Veduto il [R. decreto 17 dicembre 1882, numero 1134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-12-17;1134) (Serie 3ª), che pubblico' i segni ed i distintivi caratteristici dei biglietti di Stato da L. 5; 
+ Veduto il [R. decreto 17 dicembre 1882, numero 1134](Concernente%20i%20distintivi%20dei%20biglietti%20da%20lire%20cinque.%20082U1134.md) (Serie 3ª), che pubblico' i segni ed i distintivi caratteristici dei biglietti di Stato da L. 5; 
  
  Veduti i [decreti Ministeriali 1° marzo 1883, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1883-03-01;1388), [1° ottobre 1884, num. 2709](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1884-10-01;2709), e [2 maggio 1886, num. 3857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1886-05-02;3857) (Serie 3ª); 
  
@@ -30,7 +30,7 @@ IL MINISTRO DEL TESORO
  
  E' autorizzata la emissione, pel servizio di scorta, di biglietti di Stato da lire Cinque per l'ammontare di Quaranta milioni di Lire. 
  
- Questi biglietti avranno gli stessi segni e distintivi caratteristici stabiliti col [R. decreto 17 dicembre 1882, numero 1134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-12-17;1134), (Serie 3ª) e saranno in numero di otto milioni, divisi in ottanta serie, distinte coi numeri dal 331 al 410 inclusivo. Ciascuna serie sara' composta di 100,000 biglietti numerati dall'1 al 100,000. 
+ Questi biglietti avranno gli stessi segni e distintivi caratteristici stabiliti col [R. decreto 17 dicembre 1882, numero 1134](Concernente%20i%20distintivi%20dei%20biglietti%20da%20lire%20cinque.%20082U1134.md), (Serie 3ª) e saranno in numero di otto milioni, divisi in ottanta serie, distinte coi numeri dal 331 al 410 inclusivo. Ciascuna serie sara' composta di 100,000 biglietti numerati dall'1 al 100,000. 
  
  Il presente Decreto sara' inserto nella Raccolta delle leggi e dei decreti del Regno d'Italia. 
  

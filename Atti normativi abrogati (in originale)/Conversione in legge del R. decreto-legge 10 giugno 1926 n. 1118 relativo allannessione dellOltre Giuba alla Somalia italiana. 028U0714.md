@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 giugno 1926, n. 1118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-06-10;1118), relativo all'annessione dell'Oltre Giuba alla Somalia italiana. 
+ E' convertito in legge il [R. decreto-legge 10 giugno 1926, n. 1118](Annessione%20del%20territorio%20dellOltre%20Giuba%20alla%20Somalia%20Italiana.%20026U1118.md), relativo all'annessione dell'Oltre Giuba alla Somalia italiana. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

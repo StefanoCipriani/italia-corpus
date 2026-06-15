@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3062](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3062), per la istituzione della imposta complementare progressiva sul reddito;
+Visto il [R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), per la istituzione della imposta complementare progressiva sul reddito;
 
 Ritenuta l'urgente necessita' di apportare alcune modificazioni alle norme vigenti per l'applicazione dell'imposta complementare progressiva sul reddito;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-All'[art. 12 del R. decreto 30 dicembre 1923, n. 3062](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3062#art_12), e' sostituito il seguente: 
+All'[art. 12 del R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), e' sostituito il seguente: 
  
  «Ai fini del controllo della veridicita' delle denuncie e per i conseguenti accertamenti d'ufficio, deve tenersi conto di tutti i redditi gia' iscritti agli effetti delle varie imposte speciali e dei redditi ad esse soggetti, ma non ancora definitivamente accertati e valutati a norma del precedente art. 7. Deve altresi' tenersi conto dei redditi risultanti da documenti, i quali provengono dal contribuente, o siano comunque certi, nonche' di quelli la cui esistenza si palesi per circostanze od elementi di fatto, con speciale riguardo al tenore di vita del contribuente. 
  

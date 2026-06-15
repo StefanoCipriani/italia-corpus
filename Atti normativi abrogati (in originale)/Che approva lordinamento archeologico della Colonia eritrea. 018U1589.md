@@ -78,7 +78,7 @@ Con decreto governatoriale verranno approvate le norme per l'attuazione del pres
 
 ## Art. 15.
 
-Gli articoli 530, 531 e 532 del regolamento per i Commissariati regionali, allegato E della raccolta degli atti dell'autorita' approvata con [R. decreto 30 dicembre 1909, n. 845](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-12-30;845), sono abrogati.
+Gli articoli 530, 531 e 532 del regolamento per i Commissariati regionali, allegato E della raccolta degli atti dell'autorita' approvata con [R. decreto 30 dicembre 1909, n. 845](Che%20approva%20la%20raccolta%20degli%20atti%20dellautorita%20pubblica%20anteriori%20alla%20promulgazione%20della%20legge%2024%20maggio%201903%20n.%20205%20in%20vigore%20nella%20Colonia%20Eritrea.%20009U0845.md), sono abrogati.
 
 ### Art. 16.
 

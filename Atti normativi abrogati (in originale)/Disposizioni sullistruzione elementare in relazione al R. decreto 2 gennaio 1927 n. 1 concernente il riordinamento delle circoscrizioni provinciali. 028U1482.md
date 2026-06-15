@@ -12,11 +12,11 @@ vigente: true
 
 I comuni di Enna, Frosinone, Matera, Nuoro, Pescara, Ragusa, Rieti e Varese che, per effetto del [R. decreto-legge 2 gennaio 1927, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-02;1), convertito in legge con la [legge 29 dicembre 1927, n. 2584](Conversione%20in%20legge%20del%20R.%20decreto-legge%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20027U2584.md), sono divenuti capoluogo di provincia, e le cui scuole elementari sono governate dall'Amministrazione scolastica, assumeranno, a decorrere dal 1° luglio 1928, la diretta amministrazione delle scuole stesse. 
  
- Da tale data saranno annullati ad ogni effetto i contributi scolastici consolidati a carico di ciascuno dei detti Comuni, ai sensi dell'[art. 17 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), nonche' quelli suppletivi, stabiliti in esecuzione degli [articoli 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722#art_18) e [19 del R. decreto-legge 4 settembre 1925, n. 1722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722#art_19). 
+ Da tale data saranno annullati ad ogni effetto i contributi scolastici consolidati a carico di ciascuno dei detti Comuni, ai sensi dell'[art. 17 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), nonche' quelli suppletivi, stabiliti in esecuzione degli [articoli 18](Disposizioni%20per%20listruzione%20elementare.%20025U1722.md) e [19 del R. decreto-legge 4 settembre 1925, n. 1722](Disposizioni%20per%20listruzione%20elementare.%20025U1722.md). 
  
  I concorsi e rimborsi dello Stato da corrispondersi ai Comuni predetti sono consolidati nella differenza fra la spesa effettivamente sostenuta per le scuole predette dall'Amministrazione regionale scolastica e direttamente dal Ministero per le scuole non classificate nell'esercizio 1927-28 e i contributi di cui al precedente comma. 
  
- Per le scuole istituite posteriormente all'esercizio 1927-1928, i concorsi e rimborsi di cui all'[art. 2 del R. decreto-legge 4 settembre 1925, n. 1722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722#art_2), saranno liquidati secondo le percentuali di cui appresso: 
+ Per le scuole istituite posteriormente all'esercizio 1927-1928, i concorsi e rimborsi di cui all'[art. 2 del R. decreto-legge 4 settembre 1925, n. 1722](Disposizioni%20per%20listruzione%20elementare.%20025U1722.md), saranno liquidati secondo le percentuali di cui appresso: 
  
  Enna . . . . . . . . . . . . . . . . . . 75 per cento 
  
@@ -52,7 +52,7 @@ Il Ministero, riconosciuta regolare la domanda di rinuncia, e sentito il parere 
 
 I Comuni le cui scuole, per effetto della rinuncia, passano all'Amministrazione dei Regi provveditorati agli studi, verseranno annualmente alla Tesoreria dello Stato: 
  
- 1° l'ammontare delle spese obbligatorie e facoltative per stipendi, miglioramenti di carriera, retribuzioni, supplenze, assegni di qualsiasi natura spettanti al personale direttivo e insegnante, ammontare liquidato e consolidato in base alle risultanze del conto consuntivo comunale dell'anno 1927 e alla pianta organica, al netto dei concorsi e rimborsi scolastici liquidati nello stesso anno 1927 a favore dei detti Comuni in applicazione dell'[art. 2 del R. decreto-legge 4 settembre 1925, n. 1722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722#art_2); 
+ 1° l'ammontare delle spese obbligatorie e facoltative per stipendi, miglioramenti di carriera, retribuzioni, supplenze, assegni di qualsiasi natura spettanti al personale direttivo e insegnante, ammontare liquidato e consolidato in base alle risultanze del conto consuntivo comunale dell'anno 1927 e alla pianta organica, al netto dei concorsi e rimborsi scolastici liquidati nello stesso anno 1927 a favore dei detti Comuni in applicazione dell'[art. 2 del R. decreto-legge 4 settembre 1925, n. 1722](Disposizioni%20per%20listruzione%20elementare.%20025U1722.md); 
  
  2° l'ammontare delle quote del contributo al Monte pensioni. 
  

@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
-Vieta la [legge 19 luglio 1894, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-19;344);
+Vieta la [legge 19 luglio 1894, n. 344](Che%20approva%20il%20piano%20di%20risanamento%20e%20ampliamento%20della%20citta%20di%20Palermo.%20094U0344.md);
 
 Udito il Consiglio dei ministri;
 
@@ -30,7 +30,7 @@ Sula proposta del ministro segretario di Stato per i lavori pubblici, di concert
 
 ## Art. 1.
 
-Il termine di venticinque anni stabilito dall'[art. 4 della legge 19 luglio 1894, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-19;344#art_4), per la esecuzione delle opere comprese, nel piano particolareggiato di risanamento e conseguenziale ampliamento della citta' Palermo e delle varianti relative, e' prorogato al 19 luglio 1931.
+Il termine di venticinque anni stabilito dall'[art. 4 della legge 19 luglio 1894, n. 344](Che%20approva%20il%20piano%20di%20risanamento%20e%20ampliamento%20della%20citta%20di%20Palermo.%20094U0344.md), per la esecuzione delle opere comprese, nel piano particolareggiato di risanamento e conseguenziale ampliamento della citta' Palermo e delle varianti relative, e' prorogato al 19 luglio 1931.
 
 ## Art. 2.
 

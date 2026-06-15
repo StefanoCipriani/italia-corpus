@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 dicembre 1933, n. 1743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-14;1743), concernente proroga dei pieni poteri al commissario straordinario del Reale Automobile Club d'Italia. 
+ E' convertito in legge il [R. decreto-legge 14 dicembre 1933, n. 1743](Proroga%20dei%20pieni%20poteri%20al%20commissario%20straordinario%20del%20Reale%20Automobile%20Club%20dItalia.%20033U1743.md), concernente proroga dei pieni poteri al commissario straordinario del Reale Automobile Club d'Italia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per tutti i Collegi di probiviri instituiti nel Regno in conformita' alla [legge 15 giugno 1893, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-15;295), situati dentro e fuori della zona di guerra, le elezioni parziali che, a norma dell'[art. 17 del regolamento 26 aprile 1894, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1894-04-26;179#art_17), dovrebbero aver luogo la seconda domenica di novembre dell'anno corrente, sono rinviate alla seconda domenica di novembre dell'anno 1916 e i probiviri che hanno compiuto il quadriennio di carica rimangono in ufficio fino al 31 dicembre 1916.
+Per tutti i Collegi di probiviri instituiti nel Regno in conformita' alla [legge 15 giugno 1893, n. 295](Sulla%20istituzione%20dei%20Collegi%20di%20probi-viri.%20093U0295.md), situati dentro e fuori della zona di guerra, le elezioni parziali che, a norma dell'[art. 17 del regolamento 26 aprile 1894, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1894-04-26;179#art_17), dovrebbero aver luogo la seconda domenica di novembre dell'anno corrente, sono rinviate alla seconda domenica di novembre dell'anno 1916 e i probiviri che hanno compiuto il quadriennio di carica rimangono in ufficio fino al 31 dicembre 1916.
 
 ## Art. 2.
 

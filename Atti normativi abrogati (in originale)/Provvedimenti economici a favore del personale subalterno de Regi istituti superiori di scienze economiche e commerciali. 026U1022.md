@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'ordinamento degli istituti superiori di scienze economiche e commerciali approvato con [R. decreto 28 agosto 1924, n. 1618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1618);
+Visto il testo unico delle leggi sull'ordinamento degli istituti superiori di scienze economiche e commerciali approvato con [R. decreto 28 agosto 1924, n. 1618](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md);
 
-Visto il regolamento generale degli istituti superiori di scienze economiche e commerciali, approvato con [R. decreto 8 luglio 1925, n. 1227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-08;1227);
+Visto il regolamento generale degli istituti superiori di scienze economiche e commerciali, approvato con [R. decreto 8 luglio 1925, n. 1227](Approvazione%20del%20regolamento%20generale%20degli%20istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20025U1227.md);
 
 Visto il [R. decreto-legge 11 gennaio 1923, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-01-11;220);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -36,7 +36,7 @@ Gli stipendi e i supplementi di servizio attivo del personale subalterno dei Reg
 
 ## Art. 2.
 
-Per la maggiore spesa derivante dall'applicazione dell'articolo 1 del presente decreto si applica la disposizione dell'[art. 209 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_209).
+Per la maggiore spesa derivante dall'applicazione dell'articolo 1 del presente decreto si applica la disposizione dell'[art. 209 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 3.
 

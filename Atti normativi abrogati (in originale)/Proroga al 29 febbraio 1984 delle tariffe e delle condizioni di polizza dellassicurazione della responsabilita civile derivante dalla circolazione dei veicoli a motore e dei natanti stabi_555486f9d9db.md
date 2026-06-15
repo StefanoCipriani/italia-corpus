@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 24 dicembre 1969, n. 990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-24;990), e successive modificazioni;
+Vista la [legge 24 dicembre 1969, n. 990](Assicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), e successive modificazioni;
 
 Vista la [delibera n. 3/1983 del Comitato interministeriale prezzi](https://www.normattiva.it/uri-res/N2Ls?urn:nir:comitato.interministeriale.prezzi:delibera:1983;3), con la quale sono state stabilite le tariffe dei premi per l'assicurazione della responsabilita' civile dei veicoli a motore e dei natanti da applicarsi dal 1 febbraio 1983 al 31 gennaio 1984;
 
@@ -38,7 +38,7 @@ Le nuove tariffe da determinarsi entro il 29 febbraio 1984 avranno vigore dal 1 
 
 ## Art. 2.
 
-Per i contratti in corso al 1 febbraio 1984, che verranno a scadere nel corso dello stesso mese, le imprese potranno rilasciare il certificato ed il contrassegno anche oltre il termine indicato dall'articolo 16 del regolamento di esecuzione della [legge 24 dicembre 1969, n. 990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-24;990), approvato con [decreto del Presidente della Repubblica 24 novembre 1970, n. 973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-11-24;973), purche' entro venti giorni dalla data di scadenza del premio. In tal caso continueranno a valere, fino al rilascio dei nuovi documenti, quelli gia' rilasciati per il periodo assicurativo antecedente, e l'assicuratore restera' obbligato in base a questi ultimi documenti, anche oltre i termini stabiliti dall'articolo 13 del citato regolamento, fino alle 24 ore del ventesimo giorno successivo alla suddetta data di scadenza del premio.
+Per i contratti in corso al 1 febbraio 1984, che verranno a scadere nel corso dello stesso mese, le imprese potranno rilasciare il certificato ed il contrassegno anche oltre il termine indicato dall'articolo 16 del regolamento di esecuzione della [legge 24 dicembre 1969, n. 990](Assicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), approvato con [decreto del Presidente della Repubblica 24 novembre 1970, n. 973](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2024%20dicembre%201969%20n.%20990%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), purche' entro venti giorni dalla data di scadenza del premio. In tal caso continueranno a valere, fino al rilascio dei nuovi documenti, quelli gia' rilasciati per il periodo assicurativo antecedente, e l'assicuratore restera' obbligato in base a questi ultimi documenti, anche oltre i termini stabiliti dall'articolo 13 del citato regolamento, fino alle 24 ore del ventesimo giorno successivo alla suddetta data di scadenza del premio.
 
 ## Art. 3.
 

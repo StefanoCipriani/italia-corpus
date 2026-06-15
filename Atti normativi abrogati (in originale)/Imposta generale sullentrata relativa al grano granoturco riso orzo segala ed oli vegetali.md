@@ -31,7 +31,7 @@ Per gli atti economici relativi al commercio del risone l'imposta sull'entrata, 
 ## Art. 3.
 
 Quando la pileria impiega, il riso ottenuto dalla pilatura nella diretta fabbricazione di altri prodotti, l'imposta dovuta a norma del primo comma del precedente articolo, si corrisponde in occasione della destinazione del riso alle dette produzioni, in base ad apposito registro di carico e scarico. Sul detto registro debbono essere giornalmente annotate le singole partite di riso impiegate nella produzione industriale con indicazione dei prezzo all'ingrosso; entro il lunedi di ciascuna settimana devesi provvedere a riepilogare i totali delle partite annotate nelle singole giornate della settimana precedente ed a corrispondere sul totale complessivo l'imposta nei modi normali.
- Il registro, prescritto dal precedente comma prima dell'uso deve essere presentato al competente Ufficio del registro per l'espletamento delle formalita' richieste dall'art. 112 del regolamento, approvato con [regio decreto 26 gennaio 1940, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-01-26;10).
+ Il registro, prescritto dal precedente comma prima dell'uso deve essere presentato al competente Ufficio del registro per l'espletamento delle formalita' richieste dall'art. 112 del regolamento, approvato con [regio decreto 26 gennaio 1940, n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md).
 
 ## Art. 4.
 
@@ -57,12 +57,12 @@ Per gli atti economici relativi al commercio degli oli vegetali allo stato comme
 
 ## Art. 9.
 
-Sono abrogate le disposizioni stabilite dagli articoli 5 a 8 del [decreto legislativo luogotenenziale 19 ottobre 1944, n. 348, dall'art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;348#art_3) del decreto legislativo del Capo provvisorio dello Stato 297 dicembre 1946, n. 469, e dalle [leggi 19 agosto 1948, n. 1210, e 21 dicembre 1948, n. 1442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-21;1442).
+Sono abrogate le disposizioni stabilite dagli articoli 5 a 8 del [decreto legislativo luogotenenziale 19 ottobre 1944, n. 348, dall'art. 3](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposta%20generale%20sullentrata%20e%20di%20addizionale%20straordinaria%20di%20guerra.%20044U0348.md) del decreto legislativo del Capo provvisorio dello Stato 297 dicembre 1946, n. 469, e dalle [leggi 19 agosto 1948, n. 1210, e 21 dicembre 1948, n. 1442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-21;1442).
 
 ## Art. 10.
 
 Per le vendite al minuto dei prodotti indicati nei precedenti articoli 7 e 8 l'imposta nella misura ivi stabilita si applica a decorrere dal 1 gennaio 1950.
- Le aliquote d'imposta stabilite dai precedenti articoli 2, 7 e 8 si applicano anche quando i prodotti ad esse soggetti abbiano gia' assolto il tributo una volta tanto a norma degli [articoli 5 e seguenti del decreto legislativo luogotenenziale 19 ottobre 1944, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;348#art_5).
+ Le aliquote d'imposta stabilite dai precedenti articoli 2, 7 e 8 si applicano anche quando i prodotti ad esse soggetti abbiano gia' assolto il tributo una volta tanto a norma degli [articoli 5 e seguenti del decreto legislativo luogotenenziale 19 ottobre 1944, n. 348](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposta%20generale%20sullentrata%20e%20di%20addizionale%20straordinaria%20di%20guerra.%20044U0348.md).
 
 ## Art. 11.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923), convertito nella [legge 7 luglio 1927, n. 1495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-07;1495), e successive modificazioni;
+Visto il [R. decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923), convertito nella [legge 7 luglio 1927, n. 1495](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2014%20novembre%201926%20n.%201923%20che%20provvede%20ad%20unificare%20coordinare%20ed%20integrare%20le%20disposizioni%20relative%20ai%20divieti%20di%20importazione%20e%20di%20esportazione%20di%20car_ac354a1268bc.md), e successive modificazioni;
 
 Visto il [R. decreto-legge 14 aprile 1934, n. 564](Disciplina%20dellapprovvigionamento%20di%20talune%20merci%20estere%20in%20relazione%20con%20landamento%20degli%20scambi%20commerciali%20con%20i%20Paesi%20fornitori.%20034U0564.md), convertito nella [legge 21 giugno 1934, n. 1157](Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20aprile%201934%20n.%20564%20che%20disciplina%20lapprovvigionamento%20di%20talune%20merci%20estere%20in%20relazione%20con%20landamento%20degli%20scambi%20commerciali%20con%20i%20Paesi%20_8644fca70fc1.md), che disciplina l'approvvigionamento all'estero di talune merci;
 

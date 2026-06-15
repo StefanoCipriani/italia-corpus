@@ -12,7 +12,7 @@ VITTORIO EMANUELE III
 
 per grazia di Dio e per volonta' della Nazione
 
-Ritenuto che, giusta le disposizioni della [legge 8 agosto 1893, n 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-08-08;556), e del Regolamento approvato col [Regio decreto 9 febbraio 1896, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-09;25), le spese d'Ufficio dei tribunali e delle preture sono sostenute con i proventi di ciascuna cancelleria, salvo a provvedervi in via sussidiaria lo Stato, qualora i proventi non raggiungano le somme assegnate annualmente per le spese stesse;
+Ritenuto che, giusta le disposizioni della [legge 8 agosto 1893, n 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-08-08;556), e del Regolamento approvato col [Regio decreto 9 febbraio 1896, n. 25](Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md), le spese d'Ufficio dei tribunali e delle preture sono sostenute con i proventi di ciascuna cancelleria, salvo a provvedervi in via sussidiaria lo Stato, qualora i proventi non raggiungano le somme assegnate annualmente per le spese stesse;
 
 Considerato che in seguito al terremoto del 13 gennaio 1915 e' probabile che nei tribunali e nelle preture delle provincie di Aquila, Campobasso, Caserta e Roma, come gia' si e' verificato in alcuni di essi, i proventi di cancelleria daranno somme cosi' esigue da non poter bastare al pagamento dille spese di ufficio nella misura indicata dal decreto Ministeriale 20 giugno 1914, e quindi si manifesta la necessita' di provvedimenti eccezionali per assicurare il regolare andamento del servizio;
 

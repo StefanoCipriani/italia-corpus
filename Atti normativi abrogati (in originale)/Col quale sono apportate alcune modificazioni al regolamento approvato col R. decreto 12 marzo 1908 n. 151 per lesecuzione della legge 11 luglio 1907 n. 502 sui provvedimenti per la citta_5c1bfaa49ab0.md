@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Agli articoli 64, 65, 66 e 69 del regolamento approvato con [R. decreto 12 marzo 1908, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-03-12;151), per l'esecuzione della [legge 11 luglio 1907, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-11;502), sui provvedimenti per la citta' di Roma, sono sostituiti i seguenti: 
+Agli articoli 64, 65, 66 e 69 del regolamento approvato con [R. decreto 12 marzo 1908, n. 151](Che%20approva%20il%20regolamento%20di%20esecuzione%20alla%20legge%2011%20luglio%201907%20n.%20502%20portante%20provvedimenti%20per%20la%20citta%20di%20Roma.%20008U0151.md), per l'esecuzione della [legge 11 luglio 1907, n. 502](Provvedimenti%20per%20la%20citta%20di%20Roma.%20007U0502.md), sui provvedimenti per la citta' di Roma, sono sostituiti i seguenti: 
  
  Art. 64. - I mutui concessi dalla Cassa depositi all'Istituto delle case per gli impiegati sono garantiti: 
  
@@ -22,7 +22,7 @@ Agli articoli 64, 65, 66 e 69 del regolamento approvato con [R. decreto 12 marzo
  
  Art. 65. - In garanzia dei contratti di locazione stipulati fra l'Istituto e gli impiegati o pensionati, questi devono rilasciare all'Istituto, oltre il deposito prescritto dallo statuto del sodalizio una delegazione irrevocabile per tutta la durata della locazione per autorizzare l'Amministrazione, dalla quale essi percepiscono lo stipendio o la pensione, a ritenere sulle mensilita' loro dovute l'importo della convenuta rata mensile di affitto. 
  
- La ritenuta puo' farsi anche oltre il limite del quinto stabilito dalla [legge 30 giugno 1908, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;335), ma non oltre il limite del terzo stabilito dall'[art. 6 della legge 16 dicembre 1914, n. 1362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1362#art_6). 
+ La ritenuta puo' farsi anche oltre il limite del quinto stabilito dalla [legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md), ma non oltre il limite del terzo stabilito dall'[art. 6 della legge 16 dicembre 1914, n. 1362](Sulla%20cedibilita%20degli%20stipendi%20degli%20impiegati%20e%20delle%20mercedi%20degli%20operai%20dipendenti%20dallo%20Stato.%20014U1362.md). 
  
  L'Istituto da' comunicazione dei contratti di locazione stipulati con gli impiegati, alle Amministrazioni dalle quali essi dipendono, esibendo le delegazioni dai medesimi rilasciate. 
  

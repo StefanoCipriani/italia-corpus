@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 8, 10, 11, 12, 14, 15, 16, 19, 29, 21, 22, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 41, 44, 47, 60, 61, 62 e 85 del regolamento approvato con [R. decreto 6 aprile 1913, n. 552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-04-06;552), sono sostituiti gli articoli seguenti: 
+Agli articoli 8, 10, 11, 12, 14, 15, 16, 19, 29, 21, 22, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 41, 44, 47, 60, 61, 62 e 85 del regolamento approvato con [R. decreto 6 aprile 1913, n. 552](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20concernente%20lo%20stato%20giuridico%20dei%20maestri%20delle%20scuole%20elementari%20amministrate%20dai%20Comuni%20013U0552.md), sono sostituiti gli articoli seguenti: 
  
  Art. 8. - I documenti, che i concorrenti devono presentare a corredo della domanda in carta bollata, sono i seguenti: 
  
@@ -34,7 +34,7 @@ Agli articoli 8, 10, 11, 12, 14, 15, 16, 19, 29, 21, 22, 24, 25, 26, 27, 28, 29,
  
  Nella domanda i concorrenti devono chiaramente indicare il proprio recepito. 
  
- Il candidato che concorre ad un posto vacante di scuola ridotta a semestrale per effetto dell'[art. 19, comma 1°, della legge 8 luglio 1904, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;407#art_19-com1), deve esibire tutti i suindicati documenti, compresi quelli di cui alle lettere a) e b), essendo nella specie inapplicabile la disposizione dell'articolo l, [comma 3°, del testo unico 24 ottobre 1903, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1903-10-24;431#art_com3). 
+ Il candidato che concorre ad un posto vacante di scuola ridotta a semestrale per effetto dell'[art. 19, comma 1°, della legge 8 luglio 1904, n. 407](Portante%20provvedimenti%20per%20la%20scuola%20e%20pei%20maestri%20elementari.%20004U0407.md), deve esibire tutti i suindicati documenti, compresi quelli di cui alle lettere a) e b), essendo nella specie inapplicabile la disposizione dell'articolo l, [comma 3°, del testo unico 24 ottobre 1903, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1903-10-24;431#art_com3). 
  
  L'Amministrazione che bandisce il concorso ha sempre facolta' di accertarsi con mezzi propri della verita' del contenuto dei documenti esibiti dai candidati. 
  
@@ -58,7 +58,7 @@ Agli articoli 8, 10, 11, 12, 14, 15, 16, 19, 29, 21, 22, 24, 25, 26, 27, 28, 29,
  
  Sono esclusi, in ogni caso, i componenti dei Consigli scolastici e, della sezione per la istruzione primaria e popolare della Giunta del Consiglio superiore. 
  
- Art. 15. - Per i concorsi a direttore didattico ed in genere a tutti i poeti ispettivi e direttivi delle scuole elementari, comunque denominati, esclusi quelli per titoli ed esame ai posti di direttore generale od ispettore nei Comuni di cui all'[art. 42, comma 2°, della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_42-com2), sono reputate persone ideate ai termini dell'[art. 6, comma 4° del testo unico 21 ottobre 1903, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1903-10-21;431#art_6-com4), i professori di pedagogia delle RR. Universita', i direttori o i professori di materie letterarie, filosofiche e scientifiche delle scuole normali, i direttori didattici in attivita' di servizio, i RR. ispettori o vice ispettori scolastici, esclusi, nei soli concorsi Interni, i Regi ispettori e vice ispettori che abbiano od abbiano avuto alla loro dipendenza, come ispettori di circoscrizione, le scuole per la cui direzione il concorso e' bandito. 
+ Art. 15. - Per i concorsi a direttore didattico ed in genere a tutti i poeti ispettivi e direttivi delle scuole elementari, comunque denominati, esclusi quelli per titoli ed esame ai posti di direttore generale od ispettore nei Comuni di cui all'[art. 42, comma 2°, della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), sono reputate persone ideate ai termini dell'[art. 6, comma 4° del testo unico 21 ottobre 1903, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1903-10-21;431#art_6-com4), i professori di pedagogia delle RR. Universita', i direttori o i professori di materie letterarie, filosofiche e scientifiche delle scuole normali, i direttori didattici in attivita' di servizio, i RR. ispettori o vice ispettori scolastici, esclusi, nei soli concorsi Interni, i Regi ispettori e vice ispettori che abbiano od abbiano avuto alla loro dipendenza, come ispettori di circoscrizione, le scuole per la cui direzione il concorso e' bandito. 
  
  Per i concorsi per titoli ed esame ai posti di direttore generale od ispettore, di cui nel comma precedente, a costituire la Commissione giudicatrice sono reputate persone idonee, a termini dell'art. 6. [comma 4°, del testo unico 21 ottobre 1903, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1903-10-21;431#art_com4), i professori ufficiali di Universita', appartenenti alle Facolta' di lettere e filosofia, di scienze matematiche, fisiche e naturali e di giurisprudenza, i direttori generali dei Comuni che hanno piu' di 200 classi con maestro proprio, e i RR. ispettori centrali per le scuole primarie e popolari. Tali Commissioni sono assistite per il servizio di segreteria da un funzionario amministrativo. 
  
@@ -170,7 +170,7 @@ Agli articoli 8, 10, 11, 12, 14, 15, 16, 19, 29, 21, 22, 24, 25, 26, 27, 28, 29,
  
  f) i diplomi rilasciati degli Istituti superiori femminili di magistero; 
  
- g) i diplomi di abilitazione ad insegnamenti speciali nelle scuole medie (diplomi per il disegno, conseguiti per esame o a norma dell'[art. 35 della legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734#art_35), per la calligrafia e il canto, conseguiti per esame, per l'educazione fisica, conseguiti per esame o a norma della [legge 26 dicembre 1909, n. 805](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-12-26;805)); 
+ g) i diplomi di abilitazione ad insegnamenti speciali nelle scuole medie (diplomi per il disegno, conseguiti per esame o a norma dell'[art. 35 della legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734#art_35), per la calligrafia e il canto, conseguiti per esame, per l'educazione fisica, conseguiti per esame o a norma della [legge 26 dicembre 1909, n. 805](Insegnamento%20ed%20insegnanti%20di%20educazione%20fisica.%20009U0805.md)); 
  
  h) il diploma di abilitazione all'insegnamento dell'agraria, rilasciato dalla Sezione agraria presso la Regia scuola normale di Udine o da altre Scuole simili; 
  
@@ -222,7 +222,7 @@ Per effetto di questo la Commissione puo' diminuire fino al massimo di un punto 
  
  b) come direttore o vice direttore didattico senza insegnamento, sia come effettivo sia come provvisorio, sia come supplente, purche' il servizio in questa ultima qualita' sia stato prestato nello stesso Comune e non sia inferiore ad un semestre ogni anno, o come ispettore o vice ispettore comunale; 
  
- c) come direttore con insegnamento, in qualunque tempo, entro il ventennio sopraindicato, il servizio sia stato prestato purche' anteriore alla [legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487). 
+ c) come direttore con insegnamento, in qualunque tempo, entro il ventennio sopraindicato, il servizio sia stato prestato purche' anteriore alla [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md). 
  
  Art. 27-bis. - Il servizio di cui alla lett. a) dell'articolo precedente e' valutato, nella misura indicata dalla tabella B annessa al presente regolamento, qualunque sia la sua durata nel ventennio indicato nell'articolo stesso, e purche' sia qualificato almeno come buono. 
  
@@ -246,7 +246,7 @@ Per effetto di questo la Commissione puo' diminuire fino al massimo di un punto 
  
  e) il diploma di maestra di giardino d'infanzia; 
  
- f) i diplomi di abilitazione ad insegnamenti speciali nelle scuole medie (diplomi per il disegno, conseguiti per esame o a norma dell'[art. 35 , della legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734#art_35); per la calligrafia e il canto, conseguiti per esame o a norma della [legge 26 dicembre 1909, n. 805](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-12-26;805) ; per la computisteria, conseguiti per esame ; per la stenografia, conseguiti per esame o a norma dell'[art. 19 del regolamento 29 luglio 1909, n. 644](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-07-29;644#art_19)); 
+ f) i diplomi di abilitazione ad insegnamenti speciali nelle scuole medie (diplomi per il disegno, conseguiti per esame o a norma dell'[art. 35 , della legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734#art_35); per la calligrafia e il canto, conseguiti per esame o a norma della [legge 26 dicembre 1909, n. 805](Insegnamento%20ed%20insegnanti%20di%20educazione%20fisica.%20009U0805.md) ; per la computisteria, conseguiti per esame ; per la stenografia, conseguiti per esame o a norma dell'[art. 19 del regolamento 29 luglio 1909, n. 644](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-07-29;644#art_19)); 
  
  g) i diplomi, conseguiti per esame, di corsi speciali tenuti in Istituti dello Stato, o anche, quando della Commissione esaminatrice abbia fatto parte almeno un commissario governativo, di Comuni, Provincie o altri enti pubblici o privati (diploma di agraria rilasciato dalla sezione agraria presso la R. scuola normale di Udine o da altre scuole simili ; diploma di maestro di sordomuti, di pedagogia sperimentale, di ortofrenia, di insegnamento del lavoro manuale nelle scuole medie, di economia domestica, d' insegnamento del disegno nelle scuole popolari ottenuto a norma dell'[art. 35 della legge 8 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-08;734#art_35)). 
  
@@ -266,7 +266,7 @@ Per effetto di questo la Commissione puo' diminuire fino al massimo di un punto 
  
  Art. 29. - Nei concorsi di cui all'art. 27 le pubblicazioni si valutano nella misura indicata nella tabella B annessa al presente regolamento e con le norme stabilite dall'art. 26-quater. 
  
- Art. 30. - Nei concorsi a posti di direttore generale o di ispettore nelle scuole elementari dei Comuni di cui all'[art. 2, comma 2°, della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_2-com2), le Commissioni valutano i titoli dei concorrenti a norma dei regolamenti comunali, i quali devono indicare i punti massimi e minimi da assegnarsi a ciascun titolo entro il massimo fissato rispettivamente per ognuna delle categorie dalla tabella B, annessa a questo regolamento 
+ Art. 30. - Nei concorsi a posti di direttore generale o di ispettore nelle scuole elementari dei Comuni di cui all'[art. 2, comma 2°, della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), le Commissioni valutano i titoli dei concorrenti a norma dei regolamenti comunali, i quali devono indicare i punti massimi e minimi da assegnarsi a ciascun titolo entro il massimo fissato rispettivamente per ognuna delle categorie dalla tabella B, annessa a questo regolamento 
  
  Il diploma di abilitazione alla direzione didattica, non e' soggetto a valutazione. 
  
@@ -314,13 +314,13 @@ Per effetto di questo la Commissione puo' diminuire fino al massimo di un punto 
  
  Art. 44. - L'anno scolastico pel quale ha durata ed efficacia la graduatoria di concorso, a norma dell'[art. 7, comma 5°, del testo unico 21 ottobre 1903, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1903-10-21;431#art_7-com5), termina con la chiusura delle scuole. 
  
- I posti che si rendono disponibili nel periodo delle vacanze, che immediatamente succede alla chiusura delle scuole, saranno messi a concorso nell'anno successivo, coprendosi i posti medesimi con nomine provvisorie, salvo che il Comune non abbia dichiarato, nel bando di concorso, di valersi della facolta' di protrarre a un biennio la durata e l'efficacia della graduatoria, in conformita' dell'[art. 44, comma 2°, della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_44-com2). 
+ I posti che si rendono disponibili nel periodo delle vacanze, che immediatamente succede alla chiusura delle scuole, saranno messi a concorso nell'anno successivo, coprendosi i posti medesimi con nomine provvisorie, salvo che il Comune non abbia dichiarato, nel bando di concorso, di valersi della facolta' di protrarre a un biennio la durata e l'efficacia della graduatoria, in conformita' dell'[art. 44, comma 2°, della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md). 
  
  Le nomine provvisorie e quelle dei supplenti devono farsi secondo l'ordine della graduatoria dell'ultimo concorso, finche' questa non sia esaurita. 
  
  Art. 47. - Dei risultati di ciascuna visita dei RR. ispettori e dei direttori e ispettori comunali vien data comunicazione al maestro interessato, il quale firma il relativo processo verbale. 
  
- I verbali delle autorita' direttive e ispettive comunali sono inviati, per mezzo del R. ispettore, al R. provveditore agli studi dal capo del Consiglio di direzione esistente a norma dell'[art. 42, comma 2°, della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_42-com2), o, in mancanza, dal direttore didattico generale. 
+ I verbali delle autorita' direttive e ispettive comunali sono inviati, per mezzo del R. ispettore, al R. provveditore agli studi dal capo del Consiglio di direzione esistente a norma dell'[art. 42, comma 2°, della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), o, in mancanza, dal direttore didattico generale. 
  
  Quando il maestro ritenga che i rilievi fatti dall'ispettore o direttore nel verbale di visita non rispondano alla realta', puo' chiedere al R. provveditore agli studi una nuova visita. 
  
@@ -346,7 +346,7 @@ Per effetto di questo la Commissione puo' diminuire fino al massimo di un punto 
  
  Per accertare tale idoneita' i Comuni debbono emanare norme regolamentari da approvarsi dal Consiglio scolastico. Non potranno pero' mai stabilire che l'idoneita' debba essere accertata mediante concorso per esami. Se i maestri furono assunti in servizio per concorso bandito con distinzione di grado, non possono essere assegnati alle classi quinta e sesta se non appartengono al grado superiore. 
  
- Art. 62-bis. - Nell'assegnazione dei maestri a classi speciali (di deficienti, di sordo-muti, di ciechi, di tracomatosi e simili) o a corsi speciali, quali sono quelli indicati nell'[art. 10, commi 3°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;407#art_10-com3) e [4° della legge 8 luglio 1904, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;407#art_10-com4), devono essere preferiti quelli che siano forniti dell'abilitazione all'insegnamento in essi impartito. 
+ Art. 62-bis. - Nell'assegnazione dei maestri a classi speciali (di deficienti, di sordo-muti, di ciechi, di tracomatosi e simili) o a corsi speciali, quali sono quelli indicati nell'[art. 10, commi 3°](Portante%20provvedimenti%20per%20la%20scuola%20e%20pei%20maestri%20elementari.%20004U0407.md) e [4° della legge 8 luglio 1904, n. 407](Portante%20provvedimenti%20per%20la%20scuola%20e%20pei%20maestri%20elementari.%20004U0407.md), devono essere preferiti quelli che siano forniti dell'abilitazione all'insegnamento in essi impartito. 
  
  Art. 85. - Il maestro e' tenuto a compilare il diario scolastico, in modo che da esso risulti in succinto l'argomento e il contenuto di ciascuna lezione.
 

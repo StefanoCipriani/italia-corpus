@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto dell'8 maggio 1913, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-05-08;421), che ha recato modificazioni e aggiunte al repertorio per l'applicazione della tariffa generale dei dazi doganali. 
+ E' convertito in legge il [R. decreto dell'8 maggio 1913, n. 421](Col%20quale%20vengono%20approvate%20le%20tabelle%20recanti%20modificazioni%20ed%20aggiunte%20al%20repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali%20013U0421.md), che ha recato modificazioni e aggiunte al repertorio per l'applicazione della tariffa generale dei dazi doganali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -34,7 +34,7 @@ All'articolo 2 e' aggiunto, in fine, il seguente comma:
  
  Agli oneri di carattere generale si fara' fronte con i fondi del bilancio ordinario dell'ANAS. 
  Dopo l'articolo 2, e' aggiunto il seguente: 
- Art. 2-bis. - Ai componenti ed al segretario della commissione tecnico-finanziaria istituita con l'[articolo 7 del decreto-legge 10 febbraio 1977, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-02-10;19#art_7), convertito, con modificazioni, nella [legge 6 aprile 1977, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-04-06;106), spetta un compenso che sara' determinato con decreto del Ministro dei lavori pubblici, sentito il Ministro del tesoro.
+ Art. 2-bis. - Ai componenti ed al segretario della commissione tecnico-finanziaria istituita con l'[articolo 7 del decreto-legge 10 febbraio 1977, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-02-10;19#art_7), convertito, con modificazioni, nella [legge 6 aprile 1977, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20febbraio%201977%20n.%2019%20concernente%20decadenza%20della%20Societa%20autostrade%20romane%20e%20abruzzesi%20SARA%20dalla%20concessione%20di%20costruzione%20ed%20_0ebc7752901f.md), spetta un compenso che sara' determinato con decreto del Ministro dei lavori pubblici, sentito il Ministro del tesoro.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

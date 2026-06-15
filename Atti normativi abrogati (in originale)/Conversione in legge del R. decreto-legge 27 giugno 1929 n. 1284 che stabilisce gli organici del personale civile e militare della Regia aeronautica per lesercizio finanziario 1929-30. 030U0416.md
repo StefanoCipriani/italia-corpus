@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 giugno 1929, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-06-27;1284), che stabilisce gli organici del personale civile e militare della Regia aeronautica per l'esercizio finanziario 1929-30. 
+ E' convertito in legge il [R. decreto-legge 27 giugno 1929, n. 1284](Organici%20del%20personale%20civile%20e%20militare%20della%20Regia%20aeronautica%20per%20lesercizio%20finanziario%201929-1930.%20029U1284.md), che stabilisce gli organici del personale civile e militare della Regia aeronautica per l'esercizio finanziario 1929-30. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

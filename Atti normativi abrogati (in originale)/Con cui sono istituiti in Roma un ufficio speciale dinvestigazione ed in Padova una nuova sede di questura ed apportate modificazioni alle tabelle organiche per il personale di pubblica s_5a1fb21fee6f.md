@@ -20,7 +20,7 @@ E' istituito una nuova sede di questura nella citta' di Padova.
 
 ## Art. 3.
 
-Nelle tabelle organiche per il personale di pubblica sicurezza e per il corpo delle guardie di citta' allegate alla [legge 6 luglio 1911, n. 670](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;670) sono introdotte le modificazioni risultanti dalle tabelle A e B annesse al presente decreto.
+Nelle tabelle organiche per il personale di pubblica sicurezza e per il corpo delle guardie di citta' allegate alla [legge 6 luglio 1911, n. 670](Concernente%20i%20provvedimenti%20per%20il%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza.%20011U0670.md) sono introdotte le modificazioni risultanti dalle tabelle A e B annesse al presente decreto.
 
 ## Art. 4.
 
@@ -41,7 +41,7 @@ Capitani anni 55.
 
 ## Art. 5.
 
-Il disposto dell'ultimo comma della tabella A, annessa al testo unico della legge sull'ordinamento della R. guardia di finanza, approvato con [R. decreto 26 novembre 1914, n. 1440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-26;1440), e' applicabile anche alle paghe dei graduati, delle guardie scelte, delle guardie, nonche' degli allievi guardie di citta' e degli agenti sedentari.
+Il disposto dell'ultimo comma della tabella A, annessa al testo unico della legge sull'ordinamento della R. guardia di finanza, approvato con [R. decreto 26 novembre 1914, n. 1440](Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md), e' applicabile anche alle paghe dei graduati, delle guardie scelte, delle guardie, nonche' degli allievi guardie di citta' e degli agenti sedentari.
 
 ## Art. 6.
 
@@ -104,7 +104,7 @@ Nella prima attuazione del nuovo organico e' data facolta' al Governo di ammette
 
 ## Art. 16.
 
-L'aumento di paga di cui all'[art. 4 della legge 6 luglio 1911, n.670](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;670#art_4) e', a datare dalla pubblicazione del presente decreto, convertito in soprassoldo quinquennale. 
+L'aumento di paga di cui all'[art. 4 della legge 6 luglio 1911, n.670](Concernente%20i%20provvedimenti%20per%20il%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza.%20011U0670.md) e', a datare dalla pubblicazione del presente decreto, convertito in soprassoldo quinquennale. 
  
  Tale soprassoldo sara' mantenuto anche in caso di promozione, meno per quella di ufficiale, e sara' computato agli effetti della pensione.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il [R. decreto-legge 6 gennaio 1927, n. 11](Istituzione%20di%20un%20servizio%20stenografico%20alla%20dipendenza%20del%20Capo%20del%20Governo.%20027U0011.md), concernente la istituzione di un Servizio stenografico alla dipendenza del Capo del Governo;
 
-Veduto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
+Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
 
 Veduto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
@@ -89,7 +89,7 @@ Le assunzioni del personale degli altri gruppi dell'annessa tabella sono fatte t
  
  Quando non sia possibile provvedere a norma del primo comma, il Capo del Governo ha facolta' di indire pubblici concorsi determinandone, con suo decreto, le norme e le modalita'. 
  
- L'ammissione a tali concorsi e' subordinata al possesso dei requisiti stabiliti dall'[art. 16 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_16).
+ L'ammissione a tali concorsi e' subordinata al possesso dei requisiti stabiliti dall'[art. 16 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 11.
 
@@ -117,7 +117,7 @@ Il Capo del Governo ha facolta' di istituire, con suo dereto, corsi professional
 
 Il personale addetto al Servizio speciale riservato e' obbligato per turno a prestare la propria opera sia in orario notturno, dalle 22 alle 6 del mattino, sia nei giorni di riposo festivo. 
  
- Gli spettano per tali prestazioni i compensi orari stabiliti dal [R. decreto 17 febbraio 1924, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-17;182), aumentati della meta'. 
+ Gli spettano per tali prestazioni i compensi orari stabiliti dal [R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), aumentati della meta'. 
  
  Allo stesso personale, per eventuali speciali servizi prestati durante il mese, potra' essere corrisposto un compenso computabile secondo il tempo occorso per eseguirli, e secondo la tariffa di cui sopra. 
  

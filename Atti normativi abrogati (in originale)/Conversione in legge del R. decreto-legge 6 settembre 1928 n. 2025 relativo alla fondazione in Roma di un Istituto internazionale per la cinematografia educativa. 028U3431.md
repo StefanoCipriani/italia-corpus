@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 settembre 1928, n. 2025](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-09-06;2025), che approva la fondazione in Roma di un Istituto internazionale per la cinematografia educativa in base agli Accordi fra il Regio Governo e la Societa' delle Nazioni, giusta le Note rispettivamente scambiate il 7 gennaio 1928 e il 4 settembre 1928. 
+ E' convertito in legge il [R. decreto-legge 6 settembre 1928, n. 2025](Fondazione%20in%20Roma%20di%20un%20Istituto%20internazionale%20per%20la%20cinematografia%20educativa.%20028U2025.md), che approva la fondazione in Roma di un Istituto internazionale per la cinematografia educativa in base agli Accordi fra il Regio Governo e la Societa' delle Nazioni, giusta le Note rispettivamente scambiate il 7 gennaio 1928 e il 4 settembre 1928. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

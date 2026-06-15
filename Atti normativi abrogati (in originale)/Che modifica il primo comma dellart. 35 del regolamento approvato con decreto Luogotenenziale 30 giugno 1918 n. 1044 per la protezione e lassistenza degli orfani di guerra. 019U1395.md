@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Nel primo comma dell'art. 35 del regolamento per l'esecuzione della [legge 18 luglio 1917, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-18;1143), per la protezione e l'assistenza degli orfani di guerra, approvato con [decreto Luogotenenziale 30 giugno 1918, n. 1044](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-30;1044), sono soppresse le parole «che prestino gratuitamente l'opera loro». 
+Nel primo comma dell'art. 35 del regolamento per l'esecuzione della [legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md), per la protezione e l'assistenza degli orfani di guerra, approvato con [decreto Luogotenenziale 30 giugno 1918, n. 1044](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-30;1044), sono soppresse le parole «che prestino gratuitamente l'opera loro». 
  
  Il presente decreto ha vigore dalla data della sua pubblicazione nella Gazzetta ufficiale del Regno. 
  

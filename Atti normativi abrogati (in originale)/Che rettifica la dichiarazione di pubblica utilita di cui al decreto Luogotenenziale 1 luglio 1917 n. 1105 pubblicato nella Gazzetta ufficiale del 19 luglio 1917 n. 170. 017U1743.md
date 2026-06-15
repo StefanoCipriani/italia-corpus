@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), sull'espropriazione per causa di pubblica utilita'; 
+ Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sull'espropriazione per causa di pubblica utilita'; 
  
- Vista la [legge 18 dicembre 1879, n. 5188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-18;5188), che approva alcune modificazioni a quella citata; 
+ Vista la [legge 18 dicembre 1879, n. 5188](Che%20approva%20alcune%20modificazioni%20alla%20legge%20sulle%20espropriazioni%20per%20pubblica%20utilita%20del%2025%20giugno%201865%20n.%202359.%20079U5188.md), che approva alcune modificazioni a quella citata; 
  
  Visto il [decreto Luogotenenziale 1° luglio 1917, numero 1105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-07-01;1105) (pubblicato nella Gazzetta ufficiale del 19 luglio 1917, n. 170), col quale e' stata dichiarata opera di pubblica utilita' la costruzione da parte della «Societa' anonima italiana G. Ansaldo e C.,», di un raccordo ferroviario tra gli stabilimenti ausiliari «Cantieri officine Savoia» di essa Societa', siti in comune di Cornigliano Ligure, e la linea ferroviaria Genova-Novi Ligure, con derivazione dall'esistente binario di raccordo fra gli stabilimenti della Societa' stessa «Acciaierie e Fonderie» pure situati in territorio di detto Comune, e la medesima linea Genova-Novi Ligure; 
  

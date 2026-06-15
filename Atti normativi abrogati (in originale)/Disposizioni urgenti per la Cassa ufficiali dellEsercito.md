@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-A decorrere dal 1 gennaio 1996 la Cassa ufficiali dell'Esercito, ente di diritto pubblico avente autonomia amministrativo-contabile, e' sottoposta alla vigilanza del Ministro della difesa, gestisce il Fondo previdenziale integrativo ufficiali dell'Esercito costituito dalla fusione dei patrimoni afferenti l'indennita' supplementare e l'assegno speciale, di cui rispettivamente alle [leggi 29 dicembre 1930, n. 1712, e 9 maggio 1940, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;371).
+A decorrere dal 1 gennaio 1996 la Cassa ufficiali dell'Esercito, ente di diritto pubblico avente autonomia amministrativo-contabile, e' sottoposta alla vigilanza del Ministro della difesa, gestisce il Fondo previdenziale integrativo ufficiali dell'Esercito costituito dalla fusione dei patrimoni afferenti l'indennita' supplementare e l'assegno speciale, di cui rispettivamente alle [leggi 29 dicembre 1930, n. 1712, e 9 maggio 1940, n. 371](Concessione%20di%20un%20assegno%20speciale%20agli%20ufficiali%20del%20Regio%20esercito%20che%20lasciano%20il%20servizio%20permanente.%20040U0371.md).
 
 2.
 

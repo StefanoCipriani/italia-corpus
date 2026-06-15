@@ -40,7 +40,7 @@ E' delegata agl'intendenti di finanza l'approvazione dei contratti d'appalto deg
 
 ## Art. 4.
 
-Per tutte le altre formalita' riguardanti la procedura d'asta, la stipulazione e l'approvazione dei contratti d'appalto, nonche' la registrazione dei decreti relativi alla Corte dei conti, dovranno, per l'attuazione del presente decreto, applicarsi le disposizioni contenute nel regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [Regio decreto 4 maggio 1885, n. 3074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-05-04;3074) (Serie III).
+Per tutte le altre formalita' riguardanti la procedura d'asta, la stipulazione e l'approvazione dei contratti d'appalto, nonche' la registrazione dei decreti relativi alla Corte dei conti, dovranno, per l'attuazione del presente decreto, applicarsi le disposizioni contenute nel regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [Regio decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md) (Serie III).
 
 ## Art. 5.
 

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  
- Ritenuta la necessita' assoluta e l'urgenza di prorogare il termine stabilito dall'art. 1 del Nostro [decreto-legge 10 gennaio 1926, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-01-10;14), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898), per la dispensa dal servizio dei notari in esercizio nei territori annessi al Regno, i quali per insufficiente conoscenza della lingua italiana o per altri motivi non siano ritenuti in condizione di poter esplicare le funzioni del loro ufficio; 
+ Ritenuta la necessita' assoluta e l'urgenza di prorogare il termine stabilito dall'art. 1 del Nostro [decreto-legge 10 gennaio 1926, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-01-10;14), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md), per la dispensa dal servizio dei notari in esercizio nei territori annessi al Regno, i quali per insufficiente conoscenza della lingua italiana o per altri motivi non siano ritenuti in condizione di poter esplicare le funzioni del loro ufficio; 
  
  Sentito il Consiglio dei Ministri; 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il termine preveduto dall'art. 1 del Nostro [decreto-legge 10 gennaio 1926, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-01-10;14), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898), e' prorogato al 15 luglio 1927. 
+ Il termine preveduto dall'art. 1 del Nostro [decreto-legge 10 gennaio 1926, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-01-10;14), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md), e' prorogato al 15 luglio 1927. 
  
  Il Nostro Guardasigilli, Ministro anzidetto, e' incaricato dell'esecuzione del presente decreto, che avra' efficacia dal 31 dicembre 1926 e sara' presentato al Parlamento per la conversione in legge. 
  

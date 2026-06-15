@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il termine del 31 marzo 1922 indicato nell'art. 1 del testo unico delle disposizioni legislative per la concessione delle terre approvato con [R. decreto 15 dicembre 1921, n. 2047](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-12-15;2047), e' prorogato sino alla data di pubblicazione della legge «Trasformazione del latifondo e colonizzazione interna», presentato al Parlamento il 23 giugno 1921, con il disegno di legge n. 742 e in ogni caso, non oltre il 31 dicembre 1922. 
+ Il termine del 31 marzo 1922 indicato nell'art. 1 del testo unico delle disposizioni legislative per la concessione delle terre approvato con [R. decreto 15 dicembre 1921, n. 2047](Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20concessione%20delle%20terre.%20021U2047.md), e' prorogato sino alla data di pubblicazione della legge «Trasformazione del latifondo e colonizzazione interna», presentato al Parlamento il 23 giugno 1921, con il disegno di legge n. 742 e in ogni caso, non oltre il 31 dicembre 1922. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare, come legge dello Stato. 
  

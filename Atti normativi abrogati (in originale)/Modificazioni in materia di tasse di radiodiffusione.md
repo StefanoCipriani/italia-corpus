@@ -66,7 +66,7 @@ L'obbligo di registrazione previsto dal [secondo comma dell'art. 7 della legge 1
 
 ## Art. 10.
 
-Sono abrogati gli articoli 2, primo comma, e 3 del [regio decreto-legge 9 maggio 1935, n. 714](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-09;714), nonche' tutte le altre disposizioni incompatibili con la presente legge.
+Sono abrogati gli articoli 2, primo comma, e 3 del [regio decreto-legge 9 maggio 1935, n. 714](Variazioni%20in%20ordine%20alla%20applicazione%20della%20tassa%20radiofonica%20sulle%20valvole%20termojoniche.%20035U0714.md), nonche' tutte le altre disposizioni incompatibili con la presente legge.
 
 ## Art. 11.
 

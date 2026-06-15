@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto legislativo 25 maggio 1946, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-25;424).
+Visto il [regio decreto legislativo 25 maggio 1946, n. 424](Norme%20per%20la%20pubblicazione%20dellelenco%20dei%20confidenti%20dell%20O.V.R.A.md).
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Nei modi stabiliti dall'[art. 2, primo comma, del regio decreto legislativo 25 maggio 1946, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-25;424#art_2-com1), possono essere nominati supplenti dei presidente e degli altri membri della Commissione ivi prevista.
+Nei modi stabiliti dall'[art. 2, primo comma, del regio decreto legislativo 25 maggio 1946, n. 424](Norme%20per%20la%20pubblicazione%20dellelenco%20dei%20confidenti%20dell%20O.V.R.A.md), possono essere nominati supplenti dei presidente e degli altri membri della Commissione ivi prevista.
  Presso la Presidenza del Consiglio dei Ministri e' costituito l'Ufficio di segreteria della Commissione di cui all'articolo precitato. A detto Ufficio puo' essere adibito personale dell'Ufficio per le sanzioni contro il fascismo.
 
 ## Art. 2.
@@ -34,7 +34,7 @@ La facolta' di ricorrere ai sensi dell'[art. 2 del decreto legislativo luogotene
 
 ## Art. 3.
 
-Per i prigionieri di guerra e per coloro che si trovano internati fuori del territorio dello Stato, il termine per ricorrere, ai sensi dell'[art. 2, primo comma, del regio decreto legislativo 25 maggio 1946, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-25;424#art_2-com1), decorre dal giorno del loro rimpatrio.
+Per i prigionieri di guerra e per coloro che si trovano internati fuori del territorio dello Stato, il termine per ricorrere, ai sensi dell'[art. 2, primo comma, del regio decreto legislativo 25 maggio 1946, n. 424](Norme%20per%20la%20pubblicazione%20dellelenco%20dei%20confidenti%20dell%20O.V.R.A.md), decorre dal giorno del loro rimpatrio.
  Per coloro che hanno la residenza all'estero, detto termine e' di centottanta giorni dalla data di pubblicazione dell'elenco dei confidenti dell'O.V.R.A.
 
 ## Art. 4.
@@ -65,12 +65,12 @@ Qualora a carico dei ricorrenti penda un procedimento di epurazione o disciplina
 
 ## Art. 9.
 
-Qualora vengano pubblicati nella Gazzetta Ufficiale della Repubblica italiana altri elenchi dei confidenti dell'O.V.R.A., si applicano le disposizioni dell'[art. 2 del regio decreto legislativo 25 maggio 1946, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-25;424#art_2), e quella del presente decreto.
+Qualora vengano pubblicati nella Gazzetta Ufficiale della Repubblica italiana altri elenchi dei confidenti dell'O.V.R.A., si applicano le disposizioni dell'[art. 2 del regio decreto legislativo 25 maggio 1946, n. 424](Norme%20per%20la%20pubblicazione%20dellelenco%20dei%20confidenti%20dell%20O.V.R.A.md), e quella del presente decreto.
  Per i ricorsi avverso l'elenco pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 145 del 2 luglio 1946, il termine per ricorrere nel caso previsto dal n. 1 del primo comma dell'art. 2, decorre dalla data di entrata in vigore del presente decreto.
 
 ## Art. 10.
 
-Ai componenti della Commissione e' attribuito il trattamento previsto dall'[art. 3 del decreto legislativo luogotenenziale 31 agosto 1945, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;572#art_3).
+Ai componenti della Commissione e' attribuito il trattamento previsto dall'[art. 3 del decreto legislativo luogotenenziale 31 agosto 1945, n. 572](../Decreti%20legislativi%20luogotenenziali/Trattamento%20economico%20dei%20componenti%20e%20del%20personale%20di%20segreteria%20delle%20commissioni%20consigli%20comitati%20o%20di%20altri%20collegi%20comunque%20denominati%20istituiti%20presso%20le%20Amministrazioni%20dello%20Stato.%20045U0572.md).
 
 ## Art. 11.
 

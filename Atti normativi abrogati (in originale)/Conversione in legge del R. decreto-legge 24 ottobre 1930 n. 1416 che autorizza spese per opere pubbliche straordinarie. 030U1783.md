@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 ottobre 1930, n. 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-24;1416), riguardante l'autorizzazione di spese per opere pubbliche straordinarie. 
+ E' convertito in legge il [R. decreto-legge 24 ottobre 1930, n. 1416](Autorizzazione%20di%20spese%20per%20opere%20pubbliche%20straordinarie.%20030U1416.md), riguardante l'autorizzazione di spese per opere pubbliche straordinarie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -117,7 +117,7 @@ La mancata indicazione per l'avanzamento avra' valore, in tal caso, di un giudiz
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 dicembre 1927, n. 2504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-31;2504), convertito senza modificazioni dalla [L. 13 novembre 1928, n. 2501](Conversione%20in%20legge%20del%20R.%20decreto-legge%2031%20dicembre%201927%20n.%202504%20contenente%20nuove%20norme%20per%20lavanzamento%20al%20grado%20di%20generale%20di%20divisione%20e%20gradi%20corrispondenti%20nel%20Regio%20esercito.%20028U2501.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 dicembre 1927, n. 2504](Nuove%20norme%20per%20lavanzamento%20al%20grado%20di%20generale%20di%20divisione%20e%20gradi%20corrispondenti%20nel%20Regio%20esercito.%20027U2504.md), convertito senza modificazioni dalla [L. 13 novembre 1928, n. 2501](Conversione%20in%20legge%20del%20R.%20decreto-legge%2031%20dicembre%201927%20n.%202504%20contenente%20nuove%20norme%20per%20lavanzamento%20al%20grado%20di%20generale%20di%20divisione%20e%20gradi%20corrispondenti%20nel%20Regio%20esercito.%20028U2501.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 11.
 
@@ -129,7 +129,7 @@ Se un generale di divisione non abbia potuto essere preso in esame, a turno norm
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 dicembre 1927, n. 2504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-31;2504), convertito senza modificazioni dalla [L. 13 novembre 1928, n. 2501](Conversione%20in%20legge%20del%20R.%20decreto-legge%2031%20dicembre%201927%20n.%202504%20contenente%20nuove%20norme%20per%20lavanzamento%20al%20grado%20di%20generale%20di%20divisione%20e%20gradi%20corrispondenti%20nel%20Regio%20esercito.%20028U2501.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 dicembre 1927, n. 2504](Nuove%20norme%20per%20lavanzamento%20al%20grado%20di%20generale%20di%20divisione%20e%20gradi%20corrispondenti%20nel%20Regio%20esercito.%20027U2504.md), convertito senza modificazioni dalla [L. 13 novembre 1928, n. 2501](Conversione%20in%20legge%20del%20R.%20decreto-legge%2031%20dicembre%201927%20n.%202504%20contenente%20nuove%20norme%20per%20lavanzamento%20al%20grado%20di%20generale%20di%20divisione%20e%20gradi%20corrispondenti%20nel%20Regio%20esercito.%20028U2501.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 12.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 27 ottobre 1927, n. 2187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-27;2187), contenente l'ordinamento dei servizi del Ministero di grazia e giustizia;
+Visto il [regio decreto 27 ottobre 1927, n. 2187](Ordinamento%20dei%20servizi%20del%20Ministero%20della%20giustizia%20e%20degli%20affari%20di%20culto.%20027U2187.md), contenente l'ordinamento dei servizi del Ministero di grazia e giustizia;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

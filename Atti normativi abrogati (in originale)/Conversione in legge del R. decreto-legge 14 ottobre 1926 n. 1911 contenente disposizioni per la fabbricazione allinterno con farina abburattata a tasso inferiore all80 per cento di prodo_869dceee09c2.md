@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 ottobre 1926, n. 1911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-14;1911), contenente disposizioni per la fabbricazione all'interno con farina abburattata a tasso inferiore all'80 per cento di prodotti destinati all'esportazione. 
+ E' convertito in legge il [R. decreto-legge 14 ottobre 1926, n. 1911](Disposizioni%20per%20la%20fabbricazione%20allinterno%20con%20farina%20abburattata%20a%20tasso%20inferiore%20all80%20%20di%20prodotti%20destinati%20allesportazione.%20026U1911.md), contenente disposizioni per la fabbricazione all'interno con farina abburattata a tasso inferiore all'80 per cento di prodotti destinati all'esportazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

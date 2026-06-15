@@ -48,7 +48,7 @@ Gli impiegati, i militari e i salariati comunque incorsi nella perdita del dirit
 
 La [lettera b) dell'art. 183 del testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_183-letb), e' sostituita dalla seguente: 
  
- «b) per condanna a qualunque pena, per i reati di peculato, malversazione a danno di privati, peculato mediante profitto dell'errore altrui, concussione, corruzione per un atto d'ufficio, corruzione per un atto contrario ai doveri d'ufficio, corruzione di persona incaricata di un pubblico servizio, istigazione alla corruzione e per il reato di prevaricazione previsto dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'Esercito e dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo».
+ «b) per condanna a qualunque pena, per i reati di peculato, malversazione a danno di privati, peculato mediante profitto dell'errore altrui, concussione, corruzione per un atto d'ufficio, corruzione per un atto contrario ai doveri d'ufficio, corruzione di persona incaricata di un pubblico servizio, istigazione alla corruzione e per il reato di prevaricazione previsto dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito e dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo».
 
 ## Art. 4.
 

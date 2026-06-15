@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), che conferisce al Governo poteri straordinari durante la guerra;
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), che conferisce al Governo poteri straordinari durante la guerra;
 
 Considerata l'opportunita' di regolare le richieste delle autorita' militari e civili per l'accosto e lo scarico dei piroscafi e per l'assegno dei carri ferroviari nel porto di Genova, in guisa da conciliare le esigenze della guerra e dei pubblici servizi con quelle del commercio libero.
 

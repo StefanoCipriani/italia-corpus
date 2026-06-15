@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- I segretari particolari del Presidente del Consiglio dei Ministri e dei Sottosegretari di Stato, possono essere scelti fra gli impiegati di tutte le Amministrazioni dello Stato ed anche fra estranei alle Amministrazioni medesime, ai quali ultimi e' applicabile il disposto dal [secondo comma dell'art. 183 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_183-com2). 
+ I segretari particolari del Presidente del Consiglio dei Ministri e dei Sottosegretari di Stato, possono essere scelti fra gli impiegati di tutte le Amministrazioni dello Stato ed anche fra estranei alle Amministrazioni medesime, ai quali ultimi e' applicabile il disposto dal [secondo comma dell'art. 183 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Il [secondo comma dell'art. 3 del R. decreto 10 luglio 1924, n. 1100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-10;1100#art_3-com2), e' abrogato. 
  

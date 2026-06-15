@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 3 aprile 1913, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-04-03;271), che reca modificazioni e aggiunte alla [legge 15 luglio 1907, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-15;506), per l'esercizio di Stato dei telefoni;
+Vista la [legge 3 aprile 1913, n. 271](Che%20reca%20modificazioni%20ed%20aggiunte%20alla%20legge%2015%20luglio%201907%20n.%20506%20per%20lesercizio%20di%20Stato%20dei%20telefoni.%20013U0271.md), che reca modificazioni e aggiunte alla [legge 15 luglio 1907, n. 506](Riscatto%20di%20linee%20e%20reti%20telefoniche%20esercitate%20dallindustria%20privata%20e%20ordinamento%20dellazienda%20dei%20telefoni%20dello%20Stato.%20007U0506.md), per l'esercizio di Stato dei telefoni;
 
 Visto il Nostro decreto 18 novembre 1915, n. 1625, col quale si stabiliscono economie nelle spese delle varie Amministrazioni dello Stato;
 
@@ -36,11 +36,11 @@ Sulla proposta del ministro segretario di Stato per le poste ed i telegrafi, di 
 
 All'Amministrazione delle poste e dei telegrafi ed a quella dei telefoni, sono estesi, in quanto applicabili, i procedimenti e le disposizioni portate dal [decreto Luogotenenziale 6 febbraio 1919, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-06;107), per l'esecuzione di opere pubbliche dello Stato. 
  
- All'Amministrazione delle poste e dei telegrafi sono estesi anche i procedimenti in deroga alla legge ed al regolamento sulla contabilita' generale dello Stato, consentiti all'Amministrazione dei telefoni con gli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-04-03;271#art_8), [9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-04-03;271#art_9) e [10 della legge 3 aprile 1913, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-04-03;271#art_10).
+ All'Amministrazione delle poste e dei telegrafi sono estesi anche i procedimenti in deroga alla legge ed al regolamento sulla contabilita' generale dello Stato, consentiti all'Amministrazione dei telefoni con gli [articoli 8](Che%20reca%20modificazioni%20ed%20aggiunte%20alla%20legge%2015%20luglio%201907%20n.%20506%20per%20lesercizio%20di%20Stato%20dei%20telefoni.%20013U0271.md), [9](Che%20reca%20modificazioni%20ed%20aggiunte%20alla%20legge%2015%20luglio%201907%20n.%20506%20per%20lesercizio%20di%20Stato%20dei%20telefoni.%20013U0271.md) e [10 della legge 3 aprile 1913, n. 271](Che%20reca%20modificazioni%20ed%20aggiunte%20alla%20legge%2015%20luglio%201907%20n.%20506%20per%20lesercizio%20di%20Stato%20dei%20telefoni.%20013U0271.md).
 
 ## Art. 2.
 
-Per lo studio dei progetti e dei preventivi di spesa necessari alla esecuzione delle opere e dei lavori di cui al [decreto Luogotenenziale 17 novembre 1918, numero 1698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-17;1698), e pel compimento di quelli analogamente in precedenza autorizzati, l'Amministrazione delle poste, telegrafi e telefoni ha facolta' ad assumere temporaneamente con la procedura indicata dall'[articolo 9 della legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182#art_9), il personale tecnico specializzato occorrente, in relazione ai bisogni che si andranno manifestando e per la durata di essi. 
+Per lo studio dei progetti e dei preventivi di spesa necessari alla esecuzione delle opere e dei lavori di cui al [decreto Luogotenenziale 17 novembre 1918, numero 1698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-17;1698), e pel compimento di quelli analogamente in precedenza autorizzati, l'Amministrazione delle poste, telegrafi e telefoni ha facolta' ad assumere temporaneamente con la procedura indicata dall'[articolo 9 della legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md), il personale tecnico specializzato occorrente, in relazione ai bisogni che si andranno manifestando e per la durata di essi. 
  
  La relativa spesa gravera' sui fondi assegnati col citato decreto 23 marzo 1919, n. 528. 
  

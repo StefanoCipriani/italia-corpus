@@ -91,7 +91,7 @@ Titolo IV.
 
 Gli Istituti di credito agrario, gli Istituti di credito ordinario e cooperativo, le Casse di risparmio ordinario, i Monti di pieta' e frumentari e le Casse di prestanze agrarie, sono autorizzati, indipendentemente da qualunque disposizione di leggi, regolamenti e statuti, a concedere prestiti per la coltivazione di grano, altri cereali, legumi e tuberi commestibili, nella misura e con le scadenze richieste caso per caso dalla estensione e intensita' delle colture e della durata del ciclo produttivo. 
  
- La presente autorizzazione, quanto alle Casse di risparmio ordinarie e alle Societa' cooperative di credito, non innova su quella contenuta nell'[art. 1 del R. decreto 11 ottobre 1914, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-10-11;1089#art_1), convertito nella [legge 4 gennaio 1917, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-01-04;11).
+ La presente autorizzazione, quanto alle Casse di risparmio ordinarie e alle Societa' cooperative di credito, non innova su quella contenuta nell'[art. 1 del R. decreto 11 ottobre 1914, n. 1089](Riguardante%20provvedimenti%20straordinari%20per%20il%20credito%20agrario.%20014U1089.md), convertito nella [legge 4 gennaio 1917, n. 11](Che%20converte%20in%20legge%20il%20R.%20decreto%2011%20ottobre%201914%20n.%201089%20riguardante%20provvedimenti%20straordinari%20per%20il%20credito%20agrario.%20017U0011.md).
 
 ### Art. 9.
 
@@ -103,7 +103,7 @@ I prestiti per le culture indicate nell'articolo precedente sono privilegiati so
 
 ### Art. 10.
 
-Quando il debitore deteriora o distrae gli oggetti sottoposti al privilegio, oppure impiega in tutto o in parte la somma ricevuta a prestito, per scopi diversi da quelli per i quali fu concessa, e' punito con le pene comminate dall'[art. 203 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_203). 
+Quando il debitore deteriora o distrae gli oggetti sottoposti al privilegio, oppure impiega in tutto o in parte la somma ricevuta a prestito, per scopi diversi da quelli per i quali fu concessa, e' punito con le pene comminate dall'[art. 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  La stessa pena si applica in caso di requisizione dei prodotti sottoposti a privilegio, se il debitore, all'atto della requisizione, non dichiari il debito alla autorita' che la ordina. 
  

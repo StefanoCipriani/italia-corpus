@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il Centro nazionale di informazioni bibliografiche, di cui al [regio decreto 9 novembre 1931, n. 1799](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-11-09;1799), viene riformato nella struttura e nella, funzione secondo le norme stabilite dalla presente legge.
+Il Centro nazionale di informazioni bibliografiche, di cui al [regio decreto 9 novembre 1931, n. 1799](Istituzione%20in%20Roma%20di%20un%20Centro%20nazionale%20di%20informazioni%20bibliografiche.%20031U1799.md), viene riformato nella struttura e nella, funzione secondo le norme stabilite dalla presente legge.
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 dicembre 1927, n. 2616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-22;2616), concernente il limite di emissione per le cartelle dell'Istituto italiano di credito fondiario. 
+ E' convertito in legge il [R. decreto-legge 22 dicembre 1927, n. 2616](Limite%20di%20emissione%20per%20le%20cartelle%20dellIstituto%20italiano%20di%20credito%20fondiario.%20027U2616.md), concernente il limite di emissione per le cartelle dell'Istituto italiano di credito fondiario. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Ritenuta la necessita' di aumentare lo stanziamento del capitolo n. 202 dello stato di previsione della spesa del Ministero dell'istruzione pubblica per l'esercizio finanziario 1915-916 di L. 8000, quale somma si rende possibile trasportare dalla dotazione del capitolo n. 200 dello stato di previsione medesimo; 
  
- Vista la [legge 13 aprile 1916, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-13;403); 
+ Vista la [legge 13 aprile 1916, n. 403](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellistruzione%20pubblica%20per%20lesercizio%20finanziario%201915-916%20016U0403.md); 
  
  Udito il Consiglio dei Ministri; 
  

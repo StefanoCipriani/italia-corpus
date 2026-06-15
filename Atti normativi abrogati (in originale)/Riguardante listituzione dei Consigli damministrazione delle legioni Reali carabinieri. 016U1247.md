@@ -38,7 +38,7 @@ I comandanti delle legioni hanno sui rispettivi Consigli d'amministrazione le at
 
 ## Art. 4.
 
-Gli art. 772 e 866 del regolamento per l'amministrazione e la contabilita' dei corpi, Istituti e stabilimenti militari approvato con [R. decreto 6 agosto 1911, numero 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-08-06;1413) sono soppressi.
+Gli art. 772 e 866 del regolamento per l'amministrazione e la contabilita' dei corpi, Istituti e stabilimenti militari approvato con [R. decreto 6 agosto 1911, numero 1413](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20011U1413.md) sono soppressi.
 
 ## Art. 5.
 

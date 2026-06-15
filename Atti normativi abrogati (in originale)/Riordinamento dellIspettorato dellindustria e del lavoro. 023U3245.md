@@ -18,7 +18,7 @@ In virtu' della delegazione dei poteri conferiti al Governo con la [legge 3 dice
 
 Vista la [legge 22 dicembre 1912, n. 1361](Che%20istituisce%20un%20corpo%20di%20ispettori%20dellindustria%20e%20del%20lavoro.%20012U1361.md);
 
-Viste il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);
+Viste il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -40,7 +40,7 @@ L'Ispettorato dell'industria e del lavoro, istituito con la [legge 22 dicembre 1
 
 ## Art. 2.
 
-Ai funzionari del ruolo dell'Ispettorato dell'industria e del lavoro, di cui alla tabella n. 81 annessa al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), aventi grado di ispettori capi circolo, e' affidata la direzione e l'andamento del circolo cui sono preposti. Gli altri funzionari compiono, sotto la direzione del rispettivo capo circolo, le mansioni demandate dalle leggi all'Ispettorato. 
+Ai funzionari del ruolo dell'Ispettorato dell'industria e del lavoro, di cui alla tabella n. 81 annessa al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), aventi grado di ispettori capi circolo, e' affidata la direzione e l'andamento del circolo cui sono preposti. Gli altri funzionari compiono, sotto la direzione del rispettivo capo circolo, le mansioni demandate dalle leggi all'Ispettorato. 
  
  Gli ispettori laureati in medicina destinati presso i diversi circoli possono essere posti alle dipendenze del capo circolo di cui all'art. 5 relativamente alle funzioni ad essi assegnate o per alcune di esse, restando per la parte disciplinare alle dipendenze del capo del circolo cui sono destinati.
 
@@ -102,7 +102,7 @@ Il personale assunto con contratto a tempo determinato ha le stesse funzioni e g
 
 ## Art. 10.
 
-Le condizioni per l'ammissione all'Ispettorato e per le promozioni di grado sono stabilite a norma degli [art. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_15) e [19 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_19), e, in quanto non sia preveduto in detto decreto, dalla [legge 22 dicembre 1912, n. 1361](Che%20istituisce%20un%20corpo%20di%20ispettori%20dellindustria%20e%20del%20lavoro.%20012U1361.md). 
+Le condizioni per l'ammissione all'Ispettorato e per le promozioni di grado sono stabilite a norma degli [art. 15](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [19 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e, in quanto non sia preveduto in detto decreto, dalla [legge 22 dicembre 1912, n. 1361](Che%20istituisce%20un%20corpo%20di%20ispettori%20dellindustria%20e%20del%20lavoro.%20012U1361.md). 
  
  Ove speciali esigenze lo richiedano, il Ministro per l'economia nazionale potra' con suo decreto determinare che siano riservati alcuni dei posti di ispettore a laureati in medicina, scienze agrarie, fisiche e chimiche. 
  
@@ -118,7 +118,7 @@ Dai capitoli 5, 6, 7, 11, 12, 13, 16 e 17 dello stato di previsione della spesa 
 
 ## Art. 12.
 
-Le spese tutte, comprese quelle per i contratti di assicurazione di cui all'art. 8, derivanti dall'applicazione del presente decreto, per la parte che eccede il totale degli attuali stanziamenti di bilancio per i servizi dell'Ispettorato e degli stanziamenti per le spese di personale in dipendenza dell'attuazione del [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395) - che rimane a carico dello Stato - saranno poste a carico degli istituti per le assicurazioni sociali. 
+Le spese tutte, comprese quelle per i contratti di assicurazione di cui all'art. 8, derivanti dall'applicazione del presente decreto, per la parte che eccede il totale degli attuali stanziamenti di bilancio per i servizi dell'Ispettorato e degli stanziamenti per le spese di personale in dipendenza dell'attuazione del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) - che rimane a carico dello Stato - saranno poste a carico degli istituti per le assicurazioni sociali. 
  
  Con decreti del Ministro per l'economia nazionale saranno stabilite per l'esercizio in corso, e, di volta in volta, per gli esercizi successivi, la misura del contributo a carico di ciascun istituto e le modalita' e i termini per il suo versamento. 
  

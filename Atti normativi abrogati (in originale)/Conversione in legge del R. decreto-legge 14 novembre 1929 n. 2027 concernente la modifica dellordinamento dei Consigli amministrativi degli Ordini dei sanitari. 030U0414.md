@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 novembre 1929, n. 2027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-14;2027), che modifica l'ordinamento dei Consigli amministrativi degli Ordini dei sanitari. 
+ E' convertito in legge il [R. decreto-legge 14 novembre 1929, n. 2027](Modifica%20dellordinamento%20dei%20Consigli%20amministrativi%20degli%20Ordini%20dei%20sanitari.%20029U2027.md), che modifica l'ordinamento dei Consigli amministrativi degli Ordini dei sanitari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

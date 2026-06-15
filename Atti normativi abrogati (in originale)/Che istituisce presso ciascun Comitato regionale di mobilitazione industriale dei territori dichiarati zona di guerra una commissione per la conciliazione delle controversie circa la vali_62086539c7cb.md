@@ -48,7 +48,7 @@ Contro il giudizio espresso dalla Commissione, e' ammesso il ricorso al Comitato
 
 ## Art. 8.
 
-Il procedimento davanti la Commissione, per tutto cio' che non e' disciplinato espressamente dal presente decreto, prende norma dal regolamento per l'applicazione del [R. decreto 26 giugno 1915, n. 993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-06-26;993). 
+Il procedimento davanti la Commissione, per tutto cio' che non e' disciplinato espressamente dal presente decreto, prende norma dal regolamento per l'applicazione del [R. decreto 26 giugno 1915, n. 993](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md). 
  
  Ai componenti della Commissione e al segretario nei giorni di riunione o di viaggio per servizio, spettano le stesse indennita' stabilite nel detto regolamento per i componenti e il segretario del Comitato regionale.
 
@@ -58,7 +58,7 @@ Entro trenta giorni dalla entrata in vigore del presente decreto il ministro del
 
 ## Art. 10.
 
-Dove siano regolarmente in funzione Collegi di probiviri, restano di competenza degli stessi tutte le controversie di carattere individuale previste dalla [legge 15 giugno 1893, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-15;295). 
+Dove siano regolarmente in funzione Collegi di probiviri, restano di competenza degli stessi tutte le controversie di carattere individuale previste dalla [legge 15 giugno 1893, n. 295](Sulla%20istituzione%20dei%20Collegi%20di%20probi-viri.%20093U0295.md). 
  
  Le Commissioni previste dal presente regolamento non possono essere adite per controversie o conflitti di competenza di magistrature speciali create con leggi o decreti Luogotenenziali, quali ad esempio la Commissione per l'equo trattamento dei ferrovieri delle ferrovie secondarie, o delle tramvie interurbane e la Commissione per il porto di Genova. 
  

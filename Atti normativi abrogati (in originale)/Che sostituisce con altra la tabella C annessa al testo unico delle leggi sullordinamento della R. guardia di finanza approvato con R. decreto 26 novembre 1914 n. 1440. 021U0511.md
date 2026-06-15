@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D' ITALIA
 
-Visto il testo Unico delle leggi sull'ordinamento della R. Guardia di finanza approvato con [R. decreto 26 novembre 1914, n.1440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-26;1440);
+Visto il testo Unico delle leggi sull'ordinamento della R. Guardia di finanza approvato con [R. decreto 26 novembre 1914, n.1440](Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md);
 
 Udito il Consiglio dei ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro ministro segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Alla tabella C annessa al testo unico delle leggi sull'ordinamento della R. guardia di finanza, approvato col [R. decreto 26 novembre 1914, n. 1440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-26;1440), e' sostituita quella annessa al presente decreto; vista d'ordine Nostro, dal ministro segretario di Stato per le finanze.
+Alla tabella C annessa al testo unico delle leggi sull'ordinamento della R. guardia di finanza, approvato col [R. decreto 26 novembre 1914, n. 1440](Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md), e' sostituita quella annessa al presente decreto; vista d'ordine Nostro, dal ministro segretario di Stato per le finanze.
 
 ## Art. 2.
 

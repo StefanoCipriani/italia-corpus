@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 1.
 
-E' autorizzata la spesa di lire 600 milioni annue per gli esercizi finanziari dal 1985 al 1988 per il finanziamento delle ricerche oceanografiche e degli studi da effettuare nell'Adriatico in attuazione dell'accordo italo-jugoslavo sulla collaborazione per la salvaguardia dagli inquinamenti delle acque del mare Adriatico e delle zone costiere, firmato a Belgrado il 14 febbraio 1974 e reso esecutivo con il [decreto del Presidente della Repubblica 29 maggio 1976, n. 992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-05-29;992).
+E' autorizzata la spesa di lire 600 milioni annue per gli esercizi finanziari dal 1985 al 1988 per il finanziamento delle ricerche oceanografiche e degli studi da effettuare nell'Adriatico in attuazione dell'accordo italo-jugoslavo sulla collaborazione per la salvaguardia dagli inquinamenti delle acque del mare Adriatico e delle zone costiere, firmato a Belgrado il 14 febbraio 1974 e reso esecutivo con il [decreto del Presidente della Repubblica 29 maggio 1976, n. 992](../DPR/Esecuzione%20dellaccordo%20italo-jugoslavo%20sulla%20collaborazione%20per%20la%20salvaguardia%20dagli%20inquinamenti%20delle%20acque%20del%20mare%20Adriatico%20e%20delle%20zone%20costiere%20firmato%20a%20Belgrado%20il%2014%20febbraio%201974.md).
 
 ## Art. 2.
 

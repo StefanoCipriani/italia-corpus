@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti del 24 settembre 1923, n. 2030](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2030); [16 dicembre 1923, n. 2720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-16;2720); [25 febbraio 1924, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-25;540); [13 febbraio 1925, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-13;117), e [20 ottobre 1925, n. 1944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-20;1944), concernenti i dazi interni di consumo e l'addizionale governativo al dazio sul consumo delle bevande vinose ed alcooliche e della birra;
+Visti i [Regi decreti del 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md); [16 dicembre 1923, n. 2720](Proroga%20dellattuazione%20del%20nuovo%20ordinamento%20dei%20dazi%20interni%20di%20consumo%20di%20cui%20al%20R.%20decreto%2024%20settembre%201923%20n.%202030%20e%20norme%20transitorie.%20023U2720.md); [25 febbraio 1924, n. 540](Approvazione%20del%20regolamento%20per%20la%20riscossione%20dei%20dazi%20Interni%20di%20consumo.%20024U0540.md); [13 febbraio 1925, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-13;117), e [20 ottobre 1925, n. 1944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-20;1944), concernenti i dazi interni di consumo e l'addizionale governativo al dazio sul consumo delle bevande vinose ed alcooliche e della birra;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Ai fini della determinazione dell'aumento da apportarsi per addizionale governativo ai canoni di abbonamento al dazio di consumo, che si riferiscono a generi diversi, l'intendente di finanza della Provincia puo' avvalersi del procedimento di cui al capoverso dell'art. 29 dell'allegato A al [R. decreto 24 settembre 1923, n. 2030](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2030), per impugnare la convenuta ripartizione dell'importo del predetto canone in rapporto a ciascun genere.
+Ai fini della determinazione dell'aumento da apportarsi per addizionale governativo ai canoni di abbonamento al dazio di consumo, che si riferiscono a generi diversi, l'intendente di finanza della Provincia puo' avvalersi del procedimento di cui al capoverso dell'art. 29 dell'allegato A al [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), per impugnare la convenuta ripartizione dell'importo del predetto canone in rapporto a ciascun genere.
 
 ## Art. 2.
 
@@ -40,7 +40,7 @@ I Comuni o gli appaltatori daziari sono tenuti ad inviare alla Intendenza di fin
 
 ## Art. 3.
 
-I Comuni e gli appaltatori daziari sono obbligati versare anche l'importo degli addizionali governativi dovuti in virtu' di abbonamento, sebbene non riscossi alle prestabilite scadenze dai contribuenti, sempre quando non comprovino di aver dato regolarmente corso agli atti coattivi contro gli stessi contribuenti per il recupero del credito d dazio ed addizionali, a sensi degli articoli 32 e 33 dell'allegato A al [R. decreto 24 settembre 1923, n. 2030, e degli articoli 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2030#art_122) e [224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2030#art_224) del relativo [regolamento 25 febbraio 1924, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-02-25;540).
+I Comuni e gli appaltatori daziari sono obbligati versare anche l'importo degli addizionali governativi dovuti in virtu' di abbonamento, sebbene non riscossi alle prestabilite scadenze dai contribuenti, sempre quando non comprovino di aver dato regolarmente corso agli atti coattivi contro gli stessi contribuenti per il recupero del credito d dazio ed addizionali, a sensi degli articoli 32 e 33 dell'allegato A al [R. decreto 24 settembre 1923, n. 2030, e degli articoli 122](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md) e [224](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md) del relativo [regolamento 25 febbraio 1924, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-02-25;540).
 
 ## Art. 4.
 
@@ -70,11 +70,11 @@ Le disposizioni del [R. decreto-legge 13 febbraio 1925, n. 117](Istituzione%20di
 
 ## Art. 7.
 
-Le deliberazioni dei Comuni per l'imposizione di dazi su generi di consumo non compresi nella tariffa annessa all'allegato A al [R. decreto 24 settembre 1923, n. 2030](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2030), giusta le norme dell'art. 7 dello stesso decreto, dell'[art. 2 del R. decreto 16 dicembre 1923, n. 2720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-16;2720#art_2), e dell'[art. 17 del R. decreto 20 ottobre 1925, n. 1944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-20;1944#art_17), non possono in alcun caso avere esecuzione prima che sia intervenuta la relativa autorizzazione del Ministero delle finanze, da concedersi di anno in anno, previo parere della Commissione centrale del dazio consumo e sentita, ove occorra, anche la Commissione per la finanza locale istituita con l'[art. 22 del R. decreto 20 ottobre 1925, n. 1944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-20;1944#art_22).
+Le deliberazioni dei Comuni per l'imposizione di dazi su generi di consumo non compresi nella tariffa annessa all'allegato A al [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), giusta le norme dell'art. 7 dello stesso decreto, dell'[art. 2 del R. decreto 16 dicembre 1923, n. 2720](Proroga%20dellattuazione%20del%20nuovo%20ordinamento%20dei%20dazi%20interni%20di%20consumo%20di%20cui%20al%20R.%20decreto%2024%20settembre%201923%20n.%202030%20e%20norme%20transitorie.%20023U2720.md), e dell'[art. 17 del R. decreto 20 ottobre 1925, n. 1944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-20;1944#art_17), non possono in alcun caso avere esecuzione prima che sia intervenuta la relativa autorizzazione del Ministero delle finanze, da concedersi di anno in anno, previo parere della Commissione centrale del dazio consumo e sentita, ove occorra, anche la Commissione per la finanza locale istituita con l'[art. 22 del R. decreto 20 ottobre 1925, n. 1944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-20;1944#art_22).
 
 ## Art. 8.
 
-Al n. 1 dell'art. 15 dell'allegato A al [R. decreto 24 settembre 1923, n. 2030](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2030), sono aggiunti i seguenti capoversi: 
+Al n. 1 dell'art. 15 dell'allegato A al [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), sono aggiunti i seguenti capoversi: 
  
  «i generi destinati ai Capi di missione e ai membri del Corpo diplomatico (consiglieri, segretari, addetti militari, navali e aeronautici e commerciali) accreditati in Italia e regolarmente notificati al R. Ministero degli affari esteri a condizione che uguale franchigia sia stabilita nei rispettivi Stati a favore dei Capi di missione e del personale diplomatico italiano accreditato presso di quelli, in rapporto ai dazi di consumo o ad altri analoghi tributi locali; 
  
@@ -86,7 +86,7 @@ Il limite di minuta vendita stabilito per l'aceto ai fini dell'applicazione del 
 
 ## Art. 10.
 
-La disposizione del 5° comma dell'art. 94 del regolamento per la riscossione dei dazi interni di consumo, approvato con [R. decreto 25 febbraio 1924, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-25;540), in quanto riflette la gratuita' degli obblighi imposti alle Amministrazioni ferroviarie e tramviarie in genere, non e' applicabile alle Ferrovie dello Stato.
+La disposizione del 5° comma dell'art. 94 del regolamento per la riscossione dei dazi interni di consumo, approvato con [R. decreto 25 febbraio 1924, n. 540](Approvazione%20del%20regolamento%20per%20la%20riscossione%20dei%20dazi%20Interni%20di%20consumo.%20024U0540.md), in quanto riflette la gratuita' degli obblighi imposti alle Amministrazioni ferroviarie e tramviarie in genere, non e' applicabile alle Ferrovie dello Stato.
 
 ## Art. 11.
 

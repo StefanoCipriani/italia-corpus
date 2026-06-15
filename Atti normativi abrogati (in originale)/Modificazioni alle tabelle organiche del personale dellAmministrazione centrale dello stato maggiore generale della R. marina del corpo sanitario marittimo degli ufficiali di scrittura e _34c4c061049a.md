@@ -18,7 +18,7 @@ A partire dal l° luglio 1904, sono soppressi quattro posti di ufficiali d'ordin
 
 ## Art. 3.
 
-A partire dal 1° luglio 1904, sono soppressi sei posti di ufficiale di scrittura di 1ª classe nel ruolo degli ufficiali di scrittura, approvato con [R. decreto 3 gennaio 1904, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-01-03;24).
+A partire dal 1° luglio 1904, sono soppressi sei posti di ufficiale di scrittura di 1ª classe nel ruolo degli ufficiali di scrittura, approvato con [R. decreto 3 gennaio 1904, n. 24](Che%20stabilisce%20il%20quadro%20organico%20del%20personale%20degli%20ufficiali%20di%20scrittura%20della%20R.%20Marina.%20004U0024.md).
 
 ## Art. 4.
 

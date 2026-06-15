@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'ultimo comma dell'[art. 8 del R. decreto-legge 21 febbraio 1932, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-02-21;154#art_8), e' sostituito dal seguente: 
+L'ultimo comma dell'[art. 8 del R. decreto-legge 21 febbraio 1932, n. 154](Disposizioni%20circa%20la%20pubblicita%20dei%20prezzi%20degli%20alberghi%20delle%20pensioni%20e%20delle%20locande.%20032U0154.md), e' sostituito dal seguente: 
  
  «Gli affittacamere sono esclusi dagli obblighi di cui al presente decreto, ma non possono fornire alloggio per un periodo inferiore ad una settimana, ad eccezione che ad artisti drammatici e lirici ed agli altri partecipanti allo spettacolo».
 

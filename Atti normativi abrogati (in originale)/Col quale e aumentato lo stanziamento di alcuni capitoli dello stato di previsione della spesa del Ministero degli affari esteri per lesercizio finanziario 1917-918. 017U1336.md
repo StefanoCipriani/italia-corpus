@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 50 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_50); 
+ Visto l'[art. 50 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md); 
  
- Vista la [legge 19 luglio 1917, n. 1125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-19;1125); 
+ Vista la [legge 19 luglio 1917, n. 1125](Che%20autorizza%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lesercizio%20finanziario%201917-918%20fino%20a%20quando%20non%20sieno%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20_e944da86f500.md); 
  
  Udito il Consiglio dei ministri; 
  

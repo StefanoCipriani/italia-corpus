@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Ritenuta la necessita' di inscrivere nello stato di previsione del Ministero degli affari esteri per l'esercizio 1915-916, la somma di L. 500.000 per maggiori spese di telegrammi da spedirsi all'estero;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Sentito il Consiglio dei ministri;
 

@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la legge 15 luglio 1906 sull'esercizio della professione di ragioniere;
 
-Visto il [R. decreto 9 dicembre 1906, n. 715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-12-09;715) che approva il regolamento per la esecuzione della legge citata;
+Visto il [R. decreto 9 dicembre 1906, n. 715](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%2015%20luglio%201906%20n.%20327%20sullesercizio%20della%20professione%20di%20ragioniere.%20006U0715.md) che approva il regolamento per la esecuzione della legge citata;
 
 Ritenuta la necessita' di abbreviare il termine stabilito dalla legge stessa per la pratica e di consentire eccezionali iscrizioni nell'albo a favore di coloro che abbiano prestato servizio militare durante la guerra e che per tale causa abbiano subito un ritardo nell'esercizio professionale;
 
@@ -32,9 +32,9 @@ Sulla proposta del guardasigilli, ministro segretario di Stato per gli affari di
 
 ## Art. 1.
 
-Per coloro, che abbiano prestato servizio militare durante la guerra almeno per un anno, il periodo della pratica richiesto dalla [lettera d) dell'art. 2 della legge 15 luglio 1906, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;327#art_2-letd) agli effetti della iscrizione nei collegi di ragionieri e' ridotto a mesi tre. 
+Per coloro, che abbiano prestato servizio militare durante la guerra almeno per un anno, il periodo della pratica richiesto dalla [lettera d) dell'art. 2 della legge 15 luglio 1906, n. 327](Sullesercizio%20della%20professione%20di%20ragioniere.%20006U0327.md) agli effetti della iscrizione nei collegi di ragionieri e' ridotto a mesi tre. 
  
- I Consigli dei collegi di ragionieri hanno facolta' di provvedere in ordine a domande di iscrizioni presentate fuori dei termini indicati nell'art. 6 del regolamento approvato con [R. decreto 9 dicembre 1906, n. 715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-12-09;715) e di apportare le conseguenti variazioni all'albo, anche fuori del periodo della ordinaria revisione annuale, di cui all'art. 10 del citato regolamento, quando la iscrizione nell'albo riguardi chi abbia prestato servizio militare durante la guerra almeno per un anno. 
+ I Consigli dei collegi di ragionieri hanno facolta' di provvedere in ordine a domande di iscrizioni presentate fuori dei termini indicati nell'art. 6 del regolamento approvato con [R. decreto 9 dicembre 1906, n. 715](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%2015%20luglio%201906%20n.%20327%20sullesercizio%20della%20professione%20di%20ragioniere.%20006U0715.md) e di apportare le conseguenti variazioni all'albo, anche fuori del periodo della ordinaria revisione annuale, di cui all'art. 10 del citato regolamento, quando la iscrizione nell'albo riguardi chi abbia prestato servizio militare durante la guerra almeno per un anno. 
  
  Consigli dei collegi di ragionieri hanno pure facolta' di indire nel corso dell'anno, in deroga all'art. 21 del citato regolamento, appositi esami pratici ai quali possono essere ammessi solo coloro che abbiano prestato servizio militare durante la guerra almeno per un anno.
 

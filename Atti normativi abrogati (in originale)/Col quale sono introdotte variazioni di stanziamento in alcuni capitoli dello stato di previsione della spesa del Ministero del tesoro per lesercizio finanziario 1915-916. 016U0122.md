@@ -24,7 +24,7 @@ Ritenuta la necessita' di aumentare la dotazione di taluni capitoli dello stato 
 
 Considerato che la somma stessa si rende possibile diminuire sulle assegnazioni di taluni altri capitoli dello stato di previsione medesimo;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Udito il Consiglio dei ministri;
 

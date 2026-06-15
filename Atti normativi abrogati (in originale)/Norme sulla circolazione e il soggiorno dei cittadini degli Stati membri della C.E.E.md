@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 13 luglio 1965, n. 871](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;871);
+Vista la [legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
 
 Vista la direttiva della Comunita' economica europea n. 64/220 pubblicata nella "Gazzetta Ufficiale" della Comunita' economica europea n. 56 del 4 aprile 1964;
 
@@ -22,7 +22,7 @@ Visto l'art. 5 della direttiva della Comunita' economica europea n. 64/224 pubbl
 
 Vista la direttiva della Comunita' economica europea n. 64/240 pubblicata nella "Gazzetta Ufficiale" della Comunita' economica europea n. 62 del 17 aprile 1964;
 
-Sentita la Commissione parlamentare di cui all'[articolo 3 della legge 13 luglio 1965, n. 871](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;871#art_3);
+Sentita la Commissione parlamentare di cui all'[articolo 3 della legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
 
 Sentito il Consiglio dei Ministri;
 

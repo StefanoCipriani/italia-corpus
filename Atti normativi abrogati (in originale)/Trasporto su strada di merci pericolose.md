@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Al fine del trasporto su strada sono considerate merci pericolose quelle appartenenti alle classi indicate negli allegati all'Accordo europeo relativo al trasporto internazionale su strada di merci pericolose, di cui alla [legge 12 agosto 1962, n. 1839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1839), e successive modificazioni.
+Al fine del trasporto su strada sono considerate merci pericolose quelle appartenenti alle classi indicate negli allegati all'Accordo europeo relativo al trasporto internazionale su strada di merci pericolose, di cui alla [legge 12 agosto 1962, n. 1839](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20europeo%20relativo%20al%20trasporto%20internazionale%20di%20merci%20pericolose%20su%20strada%20con%20annessi%20Protocollo%20ed%20Allegati%20adottato%20a%20Ginevra%20il%2030%20settembre%201957.md), e successive modificazioni.
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ Per l'accertamento delle violazioni delle norme previste dalla presente legge e 
 
 ## Art. 7.
 
-Nulla e' innovato per quanto riguarda il trasporto delle materie fissili e delle materie radioattive, regolato dall'[articolo 5 della legge 31 dicembre 1962, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1860#art_5), modificato ed integrato dall'[articolo 2 del decreto del Presidente della Repubblica 30 dicembre 1965, n. 1704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-30;1704#art_2).
+Nulla e' innovato per quanto riguarda il trasporto delle materie fissili e delle materie radioattive, regolato dall'[articolo 5 della legge 31 dicembre 1962, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1860#art_5), modificato ed integrato dall'[articolo 2 del decreto del Presidente della Repubblica 30 dicembre 1965, n. 1704](../DPR/Modifiche%20ed%20integrazioni%20alla%20legge%2031%20dicembre%201962%20n.%201860%20sullimpiego%20pacifico%20dellenergia%20nucleare.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -12,7 +12,7 @@ vigente: true
 
 Al personale civile di ruolo ed agli operai pure di ruolo, a qualunque Amministrazione appartengano, comprese le ferrovie di Stato, assegnati a servizi presso le forze operanti del R. esercito, spetta una indennita' solamente quando prestano servizio fuori della loro ordinaria residenza. 
  
- Per la misura della indennita' stessa sono applicabili le disposizioni del [R. decreto 14 settembre 1862, n. 840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1862-09-14;840), eccettuata quella contenuta nell'ultimo comma dell'art. 5. 
+ Per la misura della indennita' stessa sono applicabili le disposizioni del [R. decreto 14 settembre 1862, n. 840](Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md), eccettuata quella contenuta nell'ultimo comma dell'art. 5. 
  
  Eguale trattamento e' fatto al personale predetto dipendente dall'Amministrazione della R. marina che si trovi nelle condizioni di cui alle lettere b, c, d, dell'art. 1° del Nostro decreto 24 giugno 1915, n. 999. 
  
@@ -24,7 +24,7 @@ Al personale civile di ruolo ed agli operai pure di ruolo, a qualunque Amministr
  
 ----------------- 
 Nota redazionale 
- Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Decreto Luogotenenziale 30 settembre 1915, n. 1458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-09-30;1458), convertito con modificazioni dalla [L. 3 agosto 2010, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-03;126), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Decreto Luogotenenziale 30 settembre 1915, n. 1458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-09-30;1458), convertito con modificazioni dalla [L. 3 agosto 2010, n. 126](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202010%20n.%20102%20recante%20proroga%20degli%20interventi%20di%20cooperazione%20allo%20sviluppo%20e%20a%20sostegno%20dei%20processi%20di%20pace%20di%20stabilizz_a29bf19e311a.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 

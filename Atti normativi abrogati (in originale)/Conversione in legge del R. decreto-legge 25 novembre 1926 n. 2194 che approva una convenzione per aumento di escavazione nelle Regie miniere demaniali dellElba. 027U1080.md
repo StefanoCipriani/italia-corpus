@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 novembre 1926, n. 2194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-25;2194), che approva una convenzione per aumento di escavazione nelle Regie miniere demaniali dell'Elba. 
+ E' convertito in legge il [R. decreto-legge 25 novembre 1926, n. 2194](Approvazione%20della%20Convenzione%20per%20aumento%20di%20escavazione%20nelle%20Regie%20miniere%20demaniali%20dellElba.%20026U2194.md), che approva una convenzione per aumento di escavazione nelle Regie miniere demaniali dell'Elba. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

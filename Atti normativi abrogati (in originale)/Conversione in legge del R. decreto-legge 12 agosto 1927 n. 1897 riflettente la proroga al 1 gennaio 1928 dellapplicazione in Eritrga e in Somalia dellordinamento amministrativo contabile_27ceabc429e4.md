@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1897), riflettente la proroga al 1° gennaio 1928 dell'applicazione in Eritrea e in Somalia dell'ordinamento amministrativo contabile per le Colonie. 
+ E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1897](Proroga%20al%201%20gennaio%201928%20dellapplicazione%20in%20Eritrea%20e%20in%20Somalia%20dellordinamento%20amministrativo%20contabile%20per%20le%20Colonie.%20027U1897.md), riflettente la proroga al 1° gennaio 1928 dell'applicazione in Eritrea e in Somalia dell'ordinamento amministrativo contabile per le Colonie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

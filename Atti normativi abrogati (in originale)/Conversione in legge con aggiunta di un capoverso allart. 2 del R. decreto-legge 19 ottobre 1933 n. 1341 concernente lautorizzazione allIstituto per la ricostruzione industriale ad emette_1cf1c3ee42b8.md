@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1341), concernente l'autorizzazione all'Istituto per la ricostruzione industriale ad emettere speciali serie di obbligazioni, con l'aggiunta del seguente capoverso all'art. 2: 
+ E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1341](Autorizzazione%20allIstituto%20per%20la%20ricostruzione%20industriale%20ad%20emettere%20speciali%20serie%20di%20obbligazioni.%20033U1341.md), concernente l'autorizzazione all'Istituto per la ricostruzione industriale ad emettere speciali serie di obbligazioni, con l'aggiunta del seguente capoverso all'art. 2: 
  
  « Per l'ammissione alla quotazione di Borsa delle azioni costituite in gestione speciale, ai sensi del precedente articolo, le societa' richiedenti possono essere dispensate, con determinazione del Ministro per le finanze, dall'adempimento della condizione di cui al [n. 1, art. 12, della legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272#art_12-num1). 
  

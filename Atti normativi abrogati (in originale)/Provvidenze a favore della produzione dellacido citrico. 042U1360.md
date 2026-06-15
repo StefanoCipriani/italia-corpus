@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al fine di sovvenire i produttori di acido citrico derivato dai limoni e destinato alla fabbricazione di anticrittogamici, e' consentita anche per la campagna 1941-42 la utilizzazione dei fondi disposti col [R. decreto-legge 11 aprile 1941, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-04-11;230), convertito in legge, con modificazioni, con la legge 25 luglio 1941-XIX, n. 1042.
+Al fine di sovvenire i produttori di acido citrico derivato dai limoni e destinato alla fabbricazione di anticrittogamici, e' consentita anche per la campagna 1941-42 la utilizzazione dei fondi disposti col [R. decreto-legge 11 aprile 1941, n. 230](Produzione%20di%20acido%20citrico%20per%20anticrittogamici.%20041U0230.md), convertito in legge, con modificazioni, con la legge 25 luglio 1941-XIX, n. 1042.
 
 ## Art. 2.
 

@@ -28,11 +28,11 @@ Con decreti Reali, da emanarsi ai sensi dell'[art. 1, n. 3, della legge 31 genna
 
 ## Art. 3.
 
-La tabella n. 16 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395) per il personale del Ministero della giustizia e degli affari di culto, integrata dal [R. decreto legge 20 marzo 1924 n. 495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-03-20;495), e' sostituita dalla tabella annessa alla presente legge, firmata, d'ordine Nostro, dal Ministro per la giustizia e da quello per le finanze.
+La tabella n. 16 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) per il personale del Ministero della giustizia e degli affari di culto, integrata dal [R. decreto legge 20 marzo 1924 n. 495](Sistemazione%20dei%20servizi%20e%20del%20personale%20della%20Direzione%20generale%20delle%20carceri%20e%20dei%20riformatori.%20024U0495.md), e' sostituita dalla tabella annessa alla presente legge, firmata, d'ordine Nostro, dal Ministro per la giustizia e da quello per le finanze.
 
 ## Art. 4.
 
-Il terzo comma dell'art. 158 del testo unico delle disposizioni sull'ordinamento degli uffici giudiziari e del personale della magistratura approvato con [R. decreto 30 dicembre 1923, n. 2786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2786), e' modificato come appresso: 
+Il terzo comma dell'art. 158 del testo unico delle disposizioni sull'ordinamento degli uffici giudiziari e del personale della magistratura approvato con [R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), e' modificato come appresso: 
  
  «I magistrati posti fuori del ruolo organico, in forza alla presente disposizione, non devono in ogni caso superare il numero di ventotto». 
  

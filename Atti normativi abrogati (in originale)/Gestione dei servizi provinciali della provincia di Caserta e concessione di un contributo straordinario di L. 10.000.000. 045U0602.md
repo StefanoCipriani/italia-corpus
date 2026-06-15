@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [decreto legislativo Luogotenenziale 11 giugno 1945, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-11;373);
+Visto il [decreto legislativo Luogotenenziale 11 giugno 1945, n. 373](../Decreti%20legislativi%20luogotenenziali/Ricostruzione%20della%20provincia%20di%20Caserta.%20045U0373.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,9 +28,9 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Ferma restando la data 1° settembre 1945, stabilita dal [decreto legislativo Luogotenenziale 11 giugno 1945, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-11;373), per la ricostituzione della provincia di Caserta, la gestione dei servizi provinciali sul territorio da restituire alla detta provincia, da quelle di Napoli, Benevento e Campobasso sara' rispettivamente continuata da queste ultime provincie fino al 31 dicembre 1945. 
+Ferma restando la data 1° settembre 1945, stabilita dal [decreto legislativo Luogotenenziale 11 giugno 1945, n. 373](../Decreti%20legislativi%20luogotenenziali/Ricostruzione%20della%20provincia%20di%20Caserta.%20045U0373.md), per la ricostituzione della provincia di Caserta, la gestione dei servizi provinciali sul territorio da restituire alla detta provincia, da quelle di Napoli, Benevento e Campobasso sara' rispettivamente continuata da queste ultime provincie fino al 31 dicembre 1945. 
  
- I rapporti finanziari fra le predette Amministrazioni provinciali di Napoli, Benevento e Campobasso e quella di Caserta, in dipendenza della suindicata gestione provvisoria, verranno regolati con le modalita' di cui all'[articolo 5 del decreto legislativo Luogotenenziale 11 giugno 1945, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-11;373#art_5).
+ I rapporti finanziari fra le predette Amministrazioni provinciali di Napoli, Benevento e Campobasso e quella di Caserta, in dipendenza della suindicata gestione provvisoria, verranno regolati con le modalita' di cui all'[articolo 5 del decreto legislativo Luogotenenziale 11 giugno 1945, n. 373](../Decreti%20legislativi%20luogotenenziali/Ricostruzione%20della%20provincia%20di%20Caserta.%20045U0373.md).
 
 ## Art. 2.
 

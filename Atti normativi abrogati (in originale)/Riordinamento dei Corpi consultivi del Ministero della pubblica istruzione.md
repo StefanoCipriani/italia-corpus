@@ -159,7 +159,7 @@ Con ordinanza del Ministro per la pubblica istruzione saranno stabilite le modal
 
 ### Art. 28.
 
-Sono richiamate in vigore, in quanto possono essere ancora applicate, tutte le disposizioni vigenti al momento della emanazione del [regio decreto-legge 20 giugno 1935, n. 1070](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1070), che facevano obbligo al Ministro per la pubblica istruzione di' sentire, per determinate materie, il parere del Consiglio superiore della pubblica istruzione o di uniformarsi ad esso.
+Sono richiamate in vigore, in quanto possono essere ancora applicate, tutte le disposizioni vigenti al momento della emanazione del [regio decreto-legge 20 giugno 1935, n. 1070](Riordinamento%20del%20Consiglio%20superiore%20delleducazione%20nazionale.%20035U1070.md), che facevano obbligo al Ministro per la pubblica istruzione di' sentire, per determinate materie, il parere del Consiglio superiore della pubblica istruzione o di uniformarsi ad esso.
  Ogni altra disposizione contraria alla presente legge e' abrogata.
 
 ### Art. 29.

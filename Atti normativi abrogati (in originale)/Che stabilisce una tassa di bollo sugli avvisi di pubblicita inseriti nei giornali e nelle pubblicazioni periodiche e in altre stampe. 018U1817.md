@@ -80,7 +80,7 @@ Nei cinque giorni successivi ad ogni decade del mese l'editore di giornali quoti
  
  Per i periodici non quotidiani e per le riviste, la presentazione della denuncia e' mensile e deve, a cura delle persone indicate nel primo comma del presente articolo, essere fatta nei primi cinque giorni di ciascun mese, con le indicazioni prescritte nel comma secondo e col corredo di un esemplare dei numeri pubblicati nel mese precedente. 
  
- Quando il periodico o la rivista si pubblichi a periodi piu' lunghi di un mese, e per i libri, opuscoli od altre stampe contemplate nel primo comma dell'art. 1, la denuncia, corredata di una copia della pubblicazione deve essere presentata entro i dieci giorni successivi alla presentazione fatta all'ufficio del procuratore del Re delle tre copie prescritte dalla [legge 7 luglio 1910, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-07;432). 
+ Quando il periodico o la rivista si pubblichi a periodi piu' lunghi di un mese, e per i libri, opuscoli od altre stampe contemplate nel primo comma dell'art. 1, la denuncia, corredata di una copia della pubblicazione deve essere presentata entro i dieci giorni successivi alla presentazione fatta all'ufficio del procuratore del Re delle tre copie prescritte dalla [legge 7 luglio 1910, n. 432](Concernente%20lobbligo%20per%20lo%20stampatore%20od%20editore%20di%20consegnare%20al%20procuratore%20del%20Re%20del%20circondario%20o%20distretto%20tre%20copie%20di%20ogni%20pubblicazione%20prima%20di%20porla%20in%20commercio.%20010U0432.md). 
  
  In base alle risultanze della denuncia sara' immediatamente eseguito il pagamento della tassa, salvo l'obbligo dei supplementi od il diritto ai rimborsi che dipendano da eventuali errori di calcolo. 
  

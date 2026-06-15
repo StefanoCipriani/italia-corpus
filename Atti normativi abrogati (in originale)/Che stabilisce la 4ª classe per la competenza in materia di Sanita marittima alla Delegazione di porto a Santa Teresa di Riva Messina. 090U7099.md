@@ -14,9 +14,9 @@ MINISTERO DELLA MARINA
  
  IL MINISTRO 
  
- Visto l'art. 4 del regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166) (serie 2ª), e la tabella n. 2 annessa al regolamento medesimo; 
+ Visto l'art. 4 del regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md) (serie 2ª), e la tabella n. 2 annessa al regolamento medesimo; 
  
- Visto il [R. decreto 20 luglio 1890, n. 7019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-07-20;7019) (serie 3ª), che instituisce una Delegazione di porto a Santa Teresa di Riva, provincia di Messina, compartimento marittimo di Messina; 
+ Visto il [R. decreto 20 luglio 1890, n. 7019](Che%20sopprime%20la%20delegazione%20di%20porto%20di%20Forza%20dAgro%20Messina%20ed%20istituisce%20una%20delegazione%20di%20porto%20a%20Santa%20Teresa%20Messina.%20090U7019.md) (serie 3ª), che instituisce una Delegazione di porto a Santa Teresa di Riva, provincia di Messina, compartimento marittimo di Messina; 
  
  Presi gli opportuni concerti col Ministero dell'Interno; 
  

@@ -20,7 +20,7 @@ L'Ente nazionale per le industrie turistiche (ENIT), istituito con la [legge 7 a
  
  d) tutelare e promuovere le industrie turistiche ed alberghiere, provvedendo anche alla diffusione ed al perfezionamento della cultura tecnica ad esse inerenti; 
  
- e) coordinare e regolare l'attivita' delle stazioni di cura, soggiorno e turismo, ferme restando le competenze del Ministro per l'interno a norma del [R. decreto-legge 15 aprile 1926, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-15;765), e successive modificazioni. 
+ e) coordinare e regolare l'attivita' delle stazioni di cura, soggiorno e turismo, ferme restando le competenze del Ministro per l'interno a norma del [R. decreto-legge 15 aprile 1926, n. 765](Provvedimenti%20per%20la%20tutela%20e%20lo%20sviluppo%20dei%20luoghi%20di%20cura%20di%20soggiorno%20o%20di%20turismo.%20026U0765.md), e successive modificazioni. 
  
  Le norme relative ai compiti ad esso affidati saranno fissate nello statuto da approvarsi con Regio decreto su proposta del Ministro per l'economia nazionale di concerto con il Ministro per l'interno. 
  

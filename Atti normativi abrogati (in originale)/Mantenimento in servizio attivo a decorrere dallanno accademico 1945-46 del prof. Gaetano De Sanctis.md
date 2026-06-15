@@ -22,7 +22,7 @@ Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20
 
 Visto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
 
-Visto il [decreto legislativo Luogotenenziale 5 aprile 1945, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;238);
+Visto il [decreto legislativo Luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

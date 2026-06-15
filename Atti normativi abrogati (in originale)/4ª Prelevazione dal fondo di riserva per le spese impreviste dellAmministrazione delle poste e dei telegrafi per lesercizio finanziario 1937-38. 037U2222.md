@@ -20,7 +20,7 @@ Vista la [legge 17 giugno 1937, n. 941](Stato%20di%20previsione%20della%20spesa%
 
 Visto l'art. 21 del R. decreto-legge 23 aprile 19251 n. 520
 
-convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto che il fondo di riserva istituito per le spese impreviste dell'Amministrazione delle poste e dei telegrafi presenta una disponibilita' di L. 9.110.755 depositate in conto corrente speciale presso la Tesoreria centrale del Regno;
 

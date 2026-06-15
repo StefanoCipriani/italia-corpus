@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 novembre 1926, n. 2332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-09;2332), che da' piena ed intera esecuzione al Trattato di amicizia e di relazioni economiche fra l'Italia e lo Yemen, stipulato a Sana il 2 settembre 1926. 
+ E' convertito in legge il [R. decreto-legge 9 novembre 1926, n. 2332](Approvazione%20del%20Trattato%20di%20amicizia%20e%20di%20relazioni%20economiche%20fra%20lItalia%20e%20lo%20Yemen%20firmato%20a%20Sana%20il%202%20settembre%201926.%20026U2332.md), che da' piena ed intera esecuzione al Trattato di amicizia e di relazioni economiche fra l'Italia e lo Yemen, stipulato a Sana il 2 settembre 1926. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

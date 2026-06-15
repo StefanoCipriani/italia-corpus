@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 28 aprile 1983, n. 174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-28;174);
+Vista la [legge 28 aprile 1983, n. 174](Autorizzazione%20ad%20effettuare%20per%20gli%20anni%201983%201984%20e%201985%20le%20lotterie%20di%20Viareggio%20e%20di%20Venezia.md);
 
 Vista la [legge 25 ottobre 1985, n. 591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-10-25;591);
 
@@ -32,7 +32,7 @@ E' autorizzata per l'anno 1989 e, qualora non intervenga un provvedimento di leg
 
 2.
 
-Gli utili della lotteria di Viareggio e della lotteria di Venezia sono devoluti per un quarto ai comuni interessati, per le finalita' indicate nella [legge 28 aprile 1983, n. 174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-28;174), e per tre quarti sono versati in conto entrata del bilancio dello Stato. Gli utili delle lotterie di Taormina, di Sanremo, di Foligno e del Garda sono versati per tre quarti in conto entrata del bilancio dello Stato e sono devoluti per un quarto rispettivamente ai comuni di Taormina, di Sanremo, di Foligno e della comunita' del Garda, destinati alla valorizzazione ed al potenziamento delle manifestazioni artistiche, alla conservazione ed al restauro dei beni artistici e culturali, nonche' alla promozione turistica e al potenziamento dei servizi di interesse turistico delle citta' di Taormina, di Sanremo e di Foligno e dei territori della comunita' del Garda. Le quote riservate al bilancio dello Stato sono destinate ad incrementare il fondo perequativo per la finanza locale, nell'ambito dei trasferimenti statali ai comuni e alle province.
+Gli utili della lotteria di Viareggio e della lotteria di Venezia sono devoluti per un quarto ai comuni interessati, per le finalita' indicate nella [legge 28 aprile 1983, n. 174](Autorizzazione%20ad%20effettuare%20per%20gli%20anni%201983%201984%20e%201985%20le%20lotterie%20di%20Viareggio%20e%20di%20Venezia.md), e per tre quarti sono versati in conto entrata del bilancio dello Stato. Gli utili delle lotterie di Taormina, di Sanremo, di Foligno e del Garda sono versati per tre quarti in conto entrata del bilancio dello Stato e sono devoluti per un quarto rispettivamente ai comuni di Taormina, di Sanremo, di Foligno e della comunita' del Garda, destinati alla valorizzazione ed al potenziamento delle manifestazioni artistiche, alla conservazione ed al restauro dei beni artistici e culturali, nonche' alla promozione turistica e al potenziamento dei servizi di interesse turistico delle citta' di Taormina, di Sanremo e di Foligno e dei territori della comunita' del Garda. Le quote riservate al bilancio dello Stato sono destinate ad incrementare il fondo perequativo per la finanza locale, nell'ambito dei trasferimenti statali ai comuni e alle province.
 
 3.
 

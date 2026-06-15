@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-19;629), concernente riduzioni di aliquota di tassa di scambio per l'argento greggio in grana importato dall'estero e destinato alla preparazione del nitrato d'argento occorrente per la fabbricazione delle pellicole cinematografiche e fotografiche, lastre di vetro e carta per fotografia. 
+ E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 629](Provvedimenti%20in%20materia%20di%20tassa%20di%20scambio.%20034U0629.md), concernente riduzioni di aliquota di tassa di scambio per l'argento greggio in grana importato dall'estero e destinato alla preparazione del nitrato d'argento occorrente per la fabbricazione delle pellicole cinematografiche e fotografiche, lastre di vetro e carta per fotografia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

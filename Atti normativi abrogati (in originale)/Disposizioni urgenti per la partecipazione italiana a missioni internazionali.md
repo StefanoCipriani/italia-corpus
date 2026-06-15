@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 21 marzo 2005, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-21;39), recante disposizioni per la partecipazione italiana a missioni internazionali;
+Vista la [legge 21 marzo 2005, n. 39](Disposizioni%20per%20la%20partecipazione%20italiana%20a%20missioni%20internazionali.md), recante disposizioni per la partecipazione italiana a missioni internazionali;
 
 Vista la risoluzione n. 1590 approvata dal Consiglio di sicurezza dell'ONU il 24 marzo 2005, relativa alla missione denominata United Nation Mission in Sudan;
 
@@ -30,15 +30,15 @@ Emana il seguente decreto-legge:
 
 1.
 
-E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 16.235.103 per la proroga della partecipazione di personale militare alla missione internazionale Enduring Freedom e alle missioni Active Endeavour e Resolute Behaviour a essa collegate, di cui all'[articolo 1, comma 1, della legge 21 marzo 2005, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-21;39#art_1-com1).
+E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 16.235.103 per la proroga della partecipazione di personale militare alla missione internazionale Enduring Freedom e alle missioni Active Endeavour e Resolute Behaviour a essa collegate, di cui all'[articolo 1, comma 1, della legge 21 marzo 2005, n. 39](Disposizioni%20per%20la%20partecipazione%20italiana%20a%20missioni%20internazionali.md).
 
 2.
 
-E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 138.262.283 per la proroga della partecipazione di personale militare alla missione internazionale International Security Assistance Force-ISAF, di cui all'[articolo 1, comma 2, della legge 21 marzo 2005, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-21;39#art_1-com2).
+E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 138.262.283 per la proroga della partecipazione di personale militare alla missione internazionale International Security Assistance Force-ISAF, di cui all'[articolo 1, comma 2, della legge 21 marzo 2005, n. 39](Disposizioni%20per%20la%20partecipazione%20italiana%20a%20missioni%20internazionali.md).
 
 3.
 
-E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 126.285.892 per la proroga della partecipazione di personale militare, compreso il personale appartenente al corpo militare dell'Associazione dei cavalieri italiani del Sovrano Militare Ordine di Malta, speciale ausiliario dell'Esercito italiano, alle missioni internazionali, di cui all'[articolo 1, comma 3, della legge 21 marzo 2005, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-21;39#art_1-com3), di seguito elencate:
+E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 126.285.892 per la proroga della partecipazione di personale militare, compreso il personale appartenente al corpo militare dell'Associazione dei cavalieri italiani del Sovrano Militare Ordine di Malta, speciale ausiliario dell'Esercito italiano, alle missioni internazionali, di cui all'[articolo 1, comma 3, della legge 21 marzo 2005, n. 39](Disposizioni%20per%20la%20partecipazione%20italiana%20a%20missioni%20internazionali.md), di seguito elencate:
                         a)
                             Over the Horizon Force in Bosnia;
                         b)
@@ -52,23 +52,23 @@ E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 126.285.892 per la pr
 
 4.
 
-E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 36.332.846 per la proroga della partecipazione di personale militare all'operazione dell'Unione europea in Bosnia-Erzegovina, denominata ALTHEA, di cui all'[articolo 2 della legge 21 marzo 2005, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-21;39#art_2), nel cui ambito opera la missione Integrated Police Unit-IPU.
+E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 36.332.846 per la proroga della partecipazione di personale militare all'operazione dell'Unione europea in Bosnia-Erzegovina, denominata ALTHEA, di cui all'[articolo 2 della legge 21 marzo 2005, n. 39](Disposizioni%20per%20la%20partecipazione%20italiana%20a%20missioni%20internazionali.md), nel cui ambito opera la missione Integrated Police Unit-IPU.
 
 5.
 
-E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 614.078 per la proroga della partecipazione di personale militare alla missione di monitoraggio dell'Unione europea nei territori della ex Jugoslavia-EUMM, di cui all'[articolo 1, comma 5, della legge 21 marzo 2005, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-21;39#art_1-com5).
+E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 614.078 per la proroga della partecipazione di personale militare alla missione di monitoraggio dell'Unione europea nei territori della ex Jugoslavia-EUMM, di cui all'[articolo 1, comma 5, della legge 21 marzo 2005, n. 39](Disposizioni%20per%20la%20partecipazione%20italiana%20a%20missioni%20internazionali.md).
 
 6.
 
-E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 588.866 per la proroga della partecipazione di personale militare alla missione internazionale Temporary International Presence in Hebron (TIPH 2), di cui all'[articolo 1, comma 6, della legge 21 marzo 2005, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-21;39#art_1-com6).
+E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 588.866 per la proroga della partecipazione di personale militare alla missione internazionale Temporary International Presence in Hebron (TIPH 2), di cui all'[articolo 1, comma 6, della legge 21 marzo 2005, n. 39](Disposizioni%20per%20la%20partecipazione%20italiana%20a%20missioni%20internazionali.md).
 
 7.
 
-E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 1.747.501 per la proroga della partecipazione di personale militare alla missione internazionale United Nations Mission in Etiopia ed Eritrea (UNMEE), di cui all'[articolo 1, comma 7, della legge 21 marzo 2005, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-21;39#art_1-com7).
+E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 1.747.501 per la proroga della partecipazione di personale militare alla missione internazionale United Nations Mission in Etiopia ed Eritrea (UNMEE), di cui all'[articolo 1, comma 7, della legge 21 marzo 2005, n. 39](Disposizioni%20per%20la%20partecipazione%20italiana%20a%20missioni%20internazionali.md).
 
 8.
 
-E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 344.870 per la proroga della partecipazione di personale militare al processo di pace in corso per il Sudan, di cui all'[articolo 1, comma 8, della legge 21 marzo 2005, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-21;39#art_1-com8).
+E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 344.870 per la proroga della partecipazione di personale militare al processo di pace in corso per il Sudan, di cui all'[articolo 1, comma 8, della legge 21 marzo 2005, n. 39](Disposizioni%20per%20la%20partecipazione%20italiana%20a%20missioni%20internazionali.md).
 
 ## Art. 2. — Missione ONU in Sudan
 
@@ -110,31 +110,31 @@ Il Ministero della difesa e' autorizzato, fino al 31 dicembre 2005, a cedere, a 
 
 1.
 
-E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 1.849.123 per il sostegno logistico della compagnia di fanteria rumena, di cui all'[articolo 11 del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_11), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-02-27;15).
+E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 1.849.123 per il sostegno logistico della compagnia di fanteria rumena, di cui all'[articolo 11 del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_11), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20451%20recante%20disposizioni%20urgenti%20per%20la%20proroga%20della%20partecipazione%20italiana%20ad%20operazioni%20militari%20internazionali.md).
 
 ## Art. 7. — Partecipazione di personale delle Forze di polizia a missioni internazionali
 
 1.
 
-E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 692.907 per la proroga della partecipazione del personale della Polizia di Stato alla missione United Nations Mission in Kosovo (UNMIK), di cui all'[articolo 5, comma 1, della legge 21 marzo 2005, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-21;39#art_5-com1).
+E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 692.907 per la proroga della partecipazione del personale della Polizia di Stato alla missione United Nations Mission in Kosovo (UNMIK), di cui all'[articolo 5, comma 1, della legge 21 marzo 2005, n. 39](Disposizioni%20per%20la%20partecipazione%20italiana%20a%20missioni%20internazionali.md).
 
 2.
 
-E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 4.319.622 per la proroga dei programmi di cooperazione delle Forze di polizia italiane in Albania e nei Paesi dell'area balcanica, di cui all'[articolo 5, comma 2, della legge 21 marzo 2005, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-21;39#art_5-com2).
+E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 4.319.622 per la proroga dei programmi di cooperazione delle Forze di polizia italiane in Albania e nei Paesi dell'area balcanica, di cui all'[articolo 5, comma 2, della legge 21 marzo 2005, n. 39](Disposizioni%20per%20la%20partecipazione%20italiana%20a%20missioni%20internazionali.md).
 
 3.
 
-E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 646.968 per la proroga della partecipazione di personale della Polizia di Stato e dell'Arma dei carabinieri alla missione in Bosnia-Erzegovina denominata EUPM, di cui all'[articolo 5, comma 3, della legge 21 marzo 2005, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-21;39#art_5-com3).
+E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 646.968 per la proroga della partecipazione di personale della Polizia di Stato e dell'Arma dei carabinieri alla missione in Bosnia-Erzegovina denominata EUPM, di cui all'[articolo 5, comma 3, della legge 21 marzo 2005, n. 39](Disposizioni%20per%20la%20partecipazione%20italiana%20a%20missioni%20internazionali.md).
 
 4.
 
-E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 166.693 per la proroga della partecipazione di personale della Polizia di Stato e dell'Arma dei carabinieri alla missione di polizia dell'Unione europea in Macedonia, denominata EUPOL Proxima, di cui all'[articolo 5, comma 4, della legge 21 marzo 2005, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-21;39#art_5-com4).
+E' autorizzata, fino al 31 dicembre 2005, la spesa di euro 166.693 per la proroga della partecipazione di personale della Polizia di Stato e dell'Arma dei carabinieri alla missione di polizia dell'Unione europea in Macedonia, denominata EUPOL Proxima, di cui all'[articolo 5, comma 4, della legge 21 marzo 2005, n. 39](Disposizioni%20per%20la%20partecipazione%20italiana%20a%20missioni%20internazionali.md).
 
 ## Art. 8. — Trattamento assicurativo
 
 1.
 
-Al personale dell'Esercito impiegato nella regione sudanese del Darfur nell'ambito della missione di monitoraggio del cessate il fuoco dell'Unione Africana e' attribuito il trattamento assicurativo previsto dall'[articolo 3 del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_3), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-02-27;15).
+Al personale dell'Esercito impiegato nella regione sudanese del Darfur nell'ambito della missione di monitoraggio del cessate il fuoco dell'Unione Africana e' attribuito il trattamento assicurativo previsto dall'[articolo 3 del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_3), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20451%20recante%20disposizioni%20urgenti%20per%20la%20proroga%20della%20partecipazione%20italiana%20ad%20operazioni%20militari%20internazionali.md).
 Per la finalita' di cui al presente articolo e' autorizzata, per l'anno 2005, la spesa di euro 875.
 
 ## Art. 9. — Indennita' di missione
@@ -157,7 +157,7 @@ L'indennita' di cui al comma 1 e' corrisposta ai funzionari diplomatici di cui a
 
 5.
 
-Al personale che partecipa alla missione di cui all'articolo 7, comma 2, si applica il trattamento economico previsto dalla [legge 8 luglio 1961, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-08;642), e l'indennita' speciale, di cui all'articolo 3 della medesima legge, nella misura del cinquanta per cento dell'assegno di lungo servizio all'estero.
+Al personale che partecipa alla missione di cui all'articolo 7, comma 2, si applica il trattamento economico previsto dalla [legge 8 luglio 1961, n. 642](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trattamento%20economico%20del%20personale%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20destinato%20isolatamente%20allestero%20presso%20Delegazioni%20o%20Rappresentanze%20militari%20ovvero%20presso%20enti%20comandi%20od_1e382f250bd3.md), e l'indennita' speciale, di cui all'articolo 3 della medesima legge, nella misura del cinquanta per cento dell'assegno di lungo servizio all'estero.
 
 ## Art. 10. — Valutazione del servizio prestato in missioni internazionali
 
@@ -169,7 +169,7 @@ I periodi di comando, di attribuzioni specifiche, di servizio e di imbarco svolt
 
 1.
 
-Al personale militare impiegato nelle missioni di cui all'articolo 1, commi 1 e 2, si applicano il [codice penale militare di guerra e l'articolo 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:relazione.e.regio.decreto:1941-02-20;303#art_9) del [decreto-legge 1° dicembre 2001, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-01;421), convertito, con modificazioni, dalla [legge 31 gennaio 2002, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-01-31;6).
+Al personale militare impiegato nelle missioni di cui all'articolo 1, commi 1 e 2, si applicano il [codice penale militare di guerra e l'articolo 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:relazione.e.regio.decreto:1941-02-20;303#art_9) del [decreto-legge 1° dicembre 2001, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-01;421), convertito, con modificazioni, dalla [legge 31 gennaio 2002, n. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%202001%20n.%20421%20recante%20disposizioni%20urgenti%20per%20la%20partecipazione%20di%20personale%20militare%20alloperazione%20multinazionale%20denom_06c344f957a1.md).
 
 2.
 
@@ -181,31 +181,31 @@ Per i reati di cui al comma 2 la competenza territoriale e' del Tribunale di Rom
 
 4.
 
-Al personale militare impiegato nelle missioni di cui agli articoli 1, commi 3, 4, 5, 6, 7 e 8, 2, 3 e 7, commi 2, 3 e 4, si applicano il [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare di pace e l'articolo 9, commi 3, 4, lettere a), b), c) e d), 5 e 6, del [decreto-legge n. 421 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001;421), convertito, con modificazioni, dalla [legge n. 6 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002;6).
+Al personale militare impiegato nelle missioni di cui agli articoli 1, commi 3, 4, 5, 6, 7 e 8, 2, 3 e 7, commi 2, 3 e 4, si applicano il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e l'articolo 9, commi 3, 4, lettere a), b), c) e d), 5 e 6, del [decreto-legge n. 421 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001;421), convertito, con modificazioni, dalla [legge n. 6 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002;6).
 
 ## Art. 12. — Disposizioni in materia contabile
 
 1.
 
-Le disposizioni in materia contabile previste dall'[articolo 8, comma 2, del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_8-com2), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-02-27;15), sono estese alle acquisizioni di materiali d'armamento e di equipaggiamenti individuali e si applicano entro il limite complessivo di euro 50.000.000 a valere sullo stanziamento di cui all'articolo 15.
+Le disposizioni in materia contabile previste dall'[articolo 8, comma 2, del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_8-com2), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20451%20recante%20disposizioni%20urgenti%20per%20la%20proroga%20della%20partecipazione%20italiana%20ad%20operazioni%20militari%20internazionali.md), sono estese alle acquisizioni di materiali d'armamento e di equipaggiamenti individuali e si applicano entro il limite complessivo di euro 50.000.000 a valere sullo stanziamento di cui all'articolo 15.
 
 ## Art. 13. — Rinvii normativi
 
 1.
 
-Per quanto non diversamente previsto, alle missioni internazionali di cui al presente decreto si applicano gli articoli 2, commi 2 e 3, 3, 4, 5, 7, 8, commi 1 e 2, 9, 13 e [14, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com2), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com5) e [7, del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com7), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-02-27;15).
+Per quanto non diversamente previsto, alle missioni internazionali di cui al presente decreto si applicano gli articoli 2, commi 2 e 3, 3, 4, 5, 7, 8, commi 1 e 2, 9, 13 e [14, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com2), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com5) e [7, del decreto-legge 28 dicembre 2001, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;451#art_14-com7), convertito, con modificazioni, dalla [legge 27 febbraio 2002, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20451%20recante%20disposizioni%20urgenti%20per%20la%20proroga%20della%20partecipazione%20italiana%20ad%20operazioni%20militari%20internazionali.md).
 
 ## Art. 14. — Attivita' di ricerca scientifica a fini di prevenzione sanitaria
 
 1.
 
-E' autorizzata, per l'anno 2005, la spesa di euro 100.000 per la prosecuzione dello studio epidemiologico di tipo prospettico seriale indirizzato all'accertamento dei livelli di uranio e di altri elementi potenzialmente tossici presenti in campioni biologici di militari impiegati nelle missioni internazionali, al fine di individuare eventuali situazioni espositive idonee a costituire fattore di rischio per la salute, di cui all'[articolo 13-ter del decreto-legge 20 gennaio 2004, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9#art_13ter), convertito, con modificazioni, dalla [legge 12 marzo 2004, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-03-12;68).
+E' autorizzata, per l'anno 2005, la spesa di euro 100.000 per la prosecuzione dello studio epidemiologico di tipo prospettico seriale indirizzato all'accertamento dei livelli di uranio e di altri elementi potenzialmente tossici presenti in campioni biologici di militari impiegati nelle missioni internazionali, al fine di individuare eventuali situazioni espositive idonee a costituire fattore di rischio per la salute, di cui all'[articolo 13-ter del decreto-legge 20 gennaio 2004, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9#art_13ter), convertito, con modificazioni, dalla [legge 12 marzo 2004, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20gennaio%202004%20n.%209%20recante%20proroga%20della%20partecipazione%20italiana%20a%20operazioni%20internazionali.%20Disposizioni%20in%20favore%20delle%20vitti_bd502c28793d.md).
 
 ## Art. 15. — Copertura finanziaria
 
 1.
 
-Agli oneri derivanti dall'attuazione del presente decreto, pari complessivamente a euro 346.315.735 per l'anno 2005, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa recata dall'[articolo 1, comma 233, della legge 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311#art_1-com233).
+Agli oneri derivanti dall'attuazione del presente decreto, pari complessivamente a euro 346.315.735 per l'anno 2005, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa recata dall'[articolo 1, comma 233, della legge 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md).
 
 2.
 

@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 agosto 1931, n. 1091](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-08-24;1091), concernente l'appannaggio di annue L. 1.000.000 in favore di S. A. R. il Principe Amedeo Umberto di Savoia, Duca d'Aosta. 
+ E' convertito in legge il [R. decreto-legge 24 agosto 1931, n. 1091](Appannaggio%20di%20annue%20L.%201.000.000%20in%20favore%20di%20S.%20A.%20R.%20il%20Principe%20Amedeo%20Umberto%20di%20Savoia%20Duca%20dAosta.%20031U1091.md), concernente l'appannaggio di annue L. 1.000.000 in favore di S. A. R. il Principe Amedeo Umberto di Savoia, Duca d'Aosta. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 17 dicembre 1931 - Anno X 
  

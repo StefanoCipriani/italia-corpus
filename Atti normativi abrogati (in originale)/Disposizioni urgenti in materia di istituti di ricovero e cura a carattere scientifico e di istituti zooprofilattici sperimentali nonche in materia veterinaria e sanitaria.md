@@ -28,7 +28,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Al [decreto legislativo 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), sono apportate le seguenti modificazioni:
+Al [decreto legislativo 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 1, comma 3, dopo le parole: "degli istituti" sono inserite le seguenti: "in cui sono attivati dipartimenti di ricerca e di assistenza clinica necessari allo studio completo delle patologie di maggior rilievo nazionale o almeno sovraregionale";
                         b)
@@ -37,7 +37,7 @@ Al [decreto legislativo 30 giugno 1993, n. 269](https://www.normattiva.it/uri-re
                             all'articolo 4, comma 1, le parole: "dalle disposizioni" sono sostituite dalle seguenti: "in analogia con le disposizioni";
                         d)
                             il comma 2 dell'articolo 4 e' sostituito dal seguente:
- " 2. Ai concorsi negli istituti si applica il regolamento previsto dall'[articolo 18, comma 1, del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_18-com1), come modificato dal [decreto legislativo 7 dicembre 1993, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517), nel quale devono essere previste specifiche norme relative ai titoli specifici per la partecipazione ai concorsi medesimi ed ai criteri per la loro valutazione, al numero ed alla tipologia delle prove d'esame, alla nomina ed alla composizione delle commissioni esaminatrici.";
+ " 2. Ai concorsi negli istituti si applica il regolamento previsto dall'[articolo 18, comma 1, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dal [decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), nel quale devono essere previste specifiche norme relative ai titoli specifici per la partecipazione ai concorsi medesimi ed ai criteri per la loro valutazione, al numero ed alla tipologia delle prove d'esame, alla nomina ed alla composizione delle commissioni esaminatrici.";
                         e)
                             il comma 3 dell'articolo 4 e' abrogato;
                         f)
@@ -65,13 +65,13 @@ ricerca corrente per quanto attiene ai costi del personale, a quelli per la stru
 
 2.
 
-Al fine di avviare il processo di aziendalizzazione degli istituti di ricovero e cura a carattere scientifico, con personalita' giuridica di diritto pubblico, i commissari straordinari preposti ai predetti istituti ai sensi dell'[articolo 1 del decreto-legge 26 aprile 1996, n. 224](Disposizioni%20urgenti%20in%20materia%20di%20assistenza%20farmaceutica%20e%20di%20sanita_12.md), esercitano, fino all'insediamento degli organi ordinari di amministrazione degli istituti stessi, le relative attribuzioni con i poteri del direttore generale dell'azienda ospedaliera di cui all'[articolo 3, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_3-com6), modificato dal [decreto legislativo 7 dicembre 1993, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517).
+Al fine di avviare il processo di aziendalizzazione degli istituti di ricovero e cura a carattere scientifico, con personalita' giuridica di diritto pubblico, i commissari straordinari preposti ai predetti istituti ai sensi dell'[articolo 1 del decreto-legge 26 aprile 1996, n. 224](Disposizioni%20urgenti%20in%20materia%20di%20assistenza%20farmaceutica%20e%20di%20sanita_12.md), esercitano, fino all'insediamento degli organi ordinari di amministrazione degli istituti stessi, le relative attribuzioni con i poteri del direttore generale dell'azienda ospedaliera di cui all'[articolo 3, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), modificato dal [decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 ## Art. 2.
 
 1.
 
-Dopo l'[articolo 10 del decreto legislativo 30 giugno 1993, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270#art_10), e' aggiunto il seguente:
+Dopo l'[articolo 10 del decreto legislativo 30 giugno 1993, n. 270](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' aggiunto il seguente:
  "Art. 10-bis (Norma transitoria). - 1. In sede di prima applicazione, i direttori di ruolo degli istituti zooprofilattici sperimentali in servizio alla data di entrata in vigore del presente decreto, sono confermati ed assumono la qualifica di direttori generali.
  2. Il consiglio di amministrazione ed i collegi dei revisori in carica alla data di entrata in vigore del presente decreto restano confermati fino all'entrata in vigore della normativa regionale di cui al comma 7 dell'articolo 3.".
 
@@ -181,7 +181,7 @@ Le disposizioni di cui ai commi 1 e 2 si applicano anche agli stabilimenti per l
 
 1.
 
-Il differimento di termini previsto dall'[articolo 1, comma 3, del decreto-legge 17 maggio 1996, n. 280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-05-17;280#art_1-com3), concernente l'approvazione dei progetti esecutivi delle opere finanziate con le risorse disponibili in attuazione di quanto previsto dalla [legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67), si applica, altresi', agli interventi di cui all'[articolo 2 della legge 5 giugno 1990, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-05;135#art_2).
+Il differimento di termini previsto dall'[articolo 1, comma 3, del decreto-legge 17 maggio 1996, n. 280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-05-17;280#art_1-com3), concernente l'approvazione dei progetti esecutivi delle opere finanziate con le risorse disponibili in attuazione di quanto previsto dalla [legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), si applica, altresi', agli interventi di cui all'[articolo 2 della legge 5 giugno 1990, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-05;135#art_2).
 
 ## Art. 8.
 

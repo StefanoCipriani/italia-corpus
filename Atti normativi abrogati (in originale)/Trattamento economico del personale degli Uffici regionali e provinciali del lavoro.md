@@ -24,7 +24,7 @@ Il personale degli Uffici regionali e provinciali del lavoro puo' essere trasfer
 
 ## Art. 4.
 
-Per il trattamento economico di missione e di trasferimento si applicano le disposizioni previste dal [decreto legislativo Luogotenenziale 7 giugno 1945, numero 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320) e quelle dallo stesso richiamate.
+Per il trattamento economico di missione e di trasferimento si applicano le disposizioni previste dal [decreto legislativo Luogotenenziale 7 giugno 1945, numero 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md) e quelle dallo stesso richiamate.
  Ai funi delle disposizioni di cui al precedente comma l'indennita' giornaliera base e' fissata nella misura di L. 140 lorde per i direttori di uffici regionali, di lire 120 lorde per i direttori di uffici provinciali e segretari di uffici regionali, di L. 110 lorde per i segretari di uffici provinciali e per i capi-servizio, di L. 100 lorde per i capi-sezione e per i funzionari, di L. 90 lorde per gli impiegati di concetto, di L. 80 lorde per gli impiegati d'ordine e di L. 60 lorde per gli uscieri, autisti e fattorini.
 
 ## Art. 5.
@@ -36,8 +36,8 @@ Al personale che, in seguito all'applicazione dello art. 1 non consegna un migli
 
 ## Art. 6.
 
-Il personale degli Uffici del lavoro, con provvedimento e a giudizio insindacabile del Ministro per il lavoro e la previdenza sociale, puo' essere licenziato per i motivi previsti dall'[art. 8 del R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100#art_8), o quando sia necessario nell'interesse del servizio.
- Al personale licenziato che non abbia demeriti e' corrisposta l'indennita' di licenziamento nella misura prevista dal [R. decreto-legge 2 marzo 1924, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-03-02;319).
+Il personale degli Uffici del lavoro, con provvedimento e a giudizio insindacabile del Ministro per il lavoro e la previdenza sociale, puo' essere licenziato per i motivi previsti dall'[art. 8 del R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), o quando sia necessario nell'interesse del servizio.
+ Al personale licenziato che non abbia demeriti e' corrisposta l'indennita' di licenziamento nella misura prevista dal [R. decreto-legge 2 marzo 1924, n. 319](Indennita%20di%20licenziamento%20agli%20avventizi%20che%20siano%20allontanati.%20dallAmministrazione%20dello%20Stato%20per%20diminuite%20esigenze%20dei%20servizi.%20024U0319.md).
 
 ## Art. 7.
 

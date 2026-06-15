@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 giugno 1932, n. 930](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-06-16;930), concernente l'approvazione della convenzione 27 maggio 1932, con la quale si provvede alla parziale sistemazione dell'accasermamento nella citta' di Torino. 
+ E' convertito in legge il [R. decreto-legge 16 giugno 1932, n. 930](Approvazione%20della%20convenzione%2027%20maggio%201932%20concernente%20la%20parziale%20sistemazione%20dellaccasermamento%20nella%20citta%20di%20Torino.%20032U0930.md), concernente l'approvazione della convenzione 27 maggio 1932, con la quale si provvede alla parziale sistemazione dell'accasermamento nella citta' di Torino. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

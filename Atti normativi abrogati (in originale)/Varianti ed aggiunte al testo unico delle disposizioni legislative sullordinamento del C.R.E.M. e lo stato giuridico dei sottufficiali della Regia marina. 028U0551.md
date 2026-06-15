@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge in data 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il testo unico delle disposizioni legislative riguardanti l'ordinamento del C.R.E.M. e lo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 21 agosto 1924, n. 1525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-21;1525), e sue successive modificazioni;
+Visto il testo unico delle disposizioni legislative riguardanti l'ordinamento del C.R.E.M. e lo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e sue successive modificazioni;
 
 Ritenuta la necessita' e l'urgenza di apportare alcune varianti ed aggiunte al precitato testo unico di disposizioni legislativo;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Nel 2° comma dell'art. 27 del testo unico delle disposizioni legislative riguardanti l'ordinamento del C.R.E.M. e lo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 21 agosto 1924, n. 1525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-21;1525), e sue successive modificazioni, le parole «col solo criterio della scelta» sono sostituite dalle seguenti: «col solo criterio della scelta comparativa».
+Nel 2° comma dell'art. 27 del testo unico delle disposizioni legislative riguardanti l'ordinamento del C.R.E.M. e lo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e sue successive modificazioni, le parole «col solo criterio della scelta» sono sostituite dalle seguenti: «col solo criterio della scelta comparativa».
 
 ## Art. 2.
 

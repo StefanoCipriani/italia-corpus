@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A partire dal 15 marzo 1917 e fino al termine del terzo mese successivo a quello in cui sara' cessato lo stato di guerra, l'esercizio della ferrovia Rezzato Vobarno, concessa alla «Societa' anonima ferrovia Rezzato-Vobarno-Valle Sabbia» con [R. decreto 2 aprile 1896, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-04-02;90), sara' eseguito a cura della Direzione generale delle ferrovie dello Stato.
+A partire dal 15 marzo 1917 e fino al termine del terzo mese successivo a quello in cui sara' cessato lo stato di guerra, l'esercizio della ferrovia Rezzato Vobarno, concessa alla «Societa' anonima ferrovia Rezzato-Vobarno-Valle Sabbia» con [R. decreto 2 aprile 1896, n. 90](Che%20approva%20la%20convenzione%20per%20la%20concessione%20della%20costruzione%20e%20dellesercizio%20di%20una%20ferrovia%20a%20scartamento%20normale%20da%20Rezzato%20a%20Vobarno.%20096U0090.md), sara' eseguito a cura della Direzione generale delle ferrovie dello Stato.
 
 ## Art. 2.
 

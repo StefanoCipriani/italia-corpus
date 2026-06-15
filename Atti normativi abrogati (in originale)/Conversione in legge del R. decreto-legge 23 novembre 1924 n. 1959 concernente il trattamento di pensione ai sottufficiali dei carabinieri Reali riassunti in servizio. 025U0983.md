@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 novembre 1924, n. 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-23;1959), concernente il trattamento di pensione ai sottufficiali dei carabinieri Reali riassunti in servizio. 
+ E' convertito in legge il [R. decreto-legge 23 novembre 1924, n. 1959](Trattamento%20di%20pensione%20ai%20sottufficiali%20dei%20carabinieri%20Reali%20riassunti%20in%20servizio.%20024U1959.md), concernente il trattamento di pensione ai sottufficiali dei carabinieri Reali riassunti in servizio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

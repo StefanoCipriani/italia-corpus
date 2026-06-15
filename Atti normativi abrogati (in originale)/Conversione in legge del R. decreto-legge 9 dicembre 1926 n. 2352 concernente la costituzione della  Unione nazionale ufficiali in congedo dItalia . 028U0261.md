@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 dicembre 1926, n. 2352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-09;2352), concernente la costituzione della « Unione nazionale ufficiali in congedo d'Italia ». 
+ E' convertito in legge il [R. decreto-legge 9 dicembre 1926, n. 2352](Costituzione%20della%20%20Unione%20nazionale%20ufficiali%20in%20congedo%20dItalia%20%20ed%20approvazione%20dello%20statuto%20relativo.%20026U2352.md), concernente la costituzione della « Unione nazionale ufficiali in congedo d'Italia ». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

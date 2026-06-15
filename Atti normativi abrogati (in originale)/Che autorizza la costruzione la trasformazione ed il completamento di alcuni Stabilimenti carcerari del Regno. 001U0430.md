@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[articolo 7 della legge 14 luglio 1889, n. 6165](Che%20approva%20la%20riforma%20penitenziaria.%20089U6165.md) (serie 3ª), con cui venne autorizzata la graduale esecuzione della riforma penitenziaria col riordinamento dei fabbricati per l'applicazione del [Codice Penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398); 
+ Visto l'[articolo 7 della legge 14 luglio 1889, n. 6165](Che%20approva%20la%20riforma%20penitenziaria.%20089U6165.md) (serie 3ª), con cui venne autorizzata la graduale esecuzione della riforma penitenziaria col riordinamento dei fabbricati per l'applicazione del [Codice Penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  Visti i Nostri RR. decreti 5 giugno 1892, n. 290, 16 marzo 1893, n. 199, 1° aprile 1894, n. 166, 15 maggio 1898, n. 198, e 10 giugno 1900, n. 225, in applicazione parziale del citato articolo 7. 
  

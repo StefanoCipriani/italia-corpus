@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-All'art. 239 del regolamento doganale approvato col [R. decreto 13 febbraio 1896, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-13;65), e' aggiunto, dopo il numero V, il seguente capoverso: 
+All'art. 239 del regolamento doganale approvato col [R. decreto 13 febbraio 1896, n. 65](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20doganali.%20096U0065.md), e' aggiunto, dopo il numero V, il seguente capoverso: 
  
  VI. Carni congelate depositate in magazzini frigoriferi, 3 per cento. 
  

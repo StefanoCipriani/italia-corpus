@@ -558,7 +558,7 @@ Con le norme stabilite negli articoli 9 e l5 del testo unico delle leggi per la 
 
 ### Art. 64.
 
-Per i bacini di irrigazione da costruire in Sardegna, gli Enti che, a norma dell'art. 47 del testo unico approvato con [R. decreto 10 novembre 1907, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-11-10;844), intendono chiederne la concessione, potranno optare per le disposizioni del presente decreto, applicandosi in tal caso le agevolazioni e prescrizioni da questo stabilite, e restando la relativa spesa a carico del bilancio dei lavori pubblici.
+Per i bacini di irrigazione da costruire in Sardegna, gli Enti che, a norma dell'art. 47 del testo unico approvato con [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), intendono chiederne la concessione, potranno optare per le disposizioni del presente decreto, applicandosi in tal caso le agevolazioni e prescrizioni da questo stabilite, e restando la relativa spesa a carico del bilancio dei lavori pubblici.
 
 ## Giurisdizione e norme di procedura del contenzioso sulle acque pubbliche.
 
@@ -1061,7 +1061,7 @@ Il Governo del Re provvedera' a dettare le norme per coordinare il presente decr
  
  d) [legge 5 maggio 1907, n. 257](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md), sul magistrato alle acque, per le provincie Venete o di Mantova; 
  
- e) testo unico approvato con [R. decreto 21 marzo 1912, numero 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-21;442), sulla sistemazione idraulica-forestale dei bacini montani; 
+ e) testo unico approvato con [R. decreto 21 marzo 1912, numero 442](Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani.%20012U0442.md), sulla sistemazione idraulica-forestale dei bacini montani; 
  
  f) le norme speciali sui canali demaniali. 
  

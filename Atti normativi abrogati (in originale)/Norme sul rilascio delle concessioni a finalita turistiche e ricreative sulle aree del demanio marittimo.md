@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77);
 
-Visto l'[art. 59 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_59);
+Visto l'[art. 59 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md);
 
 Ritenuta la necessita' e l'urgenza di provvedere a disciplinare, in attesa della operativita' della delega alle regioni prevista dal citato [art. 59 del decreto del Presidente della Repubblica n. 616/77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977;616#art_59), il rinnovo e il rilascio delle concessioni, a fini turistici e ricreativi, sul demanio marittimo nell'imminenza dell'inizio della stagione estiva;
 
@@ -22,7 +22,7 @@ Sentito il Consiglio dei Ministri; Decreta:
 
 ## Art. 1.
 
-Fino all'approvazione degli elenchi previsti dall'[articolo 59, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_59-com2), le concessioni di cui l'autorita' marittima disporra' il rinnovo o il rilascio riguarderanno, quando l'utilizzazione prevista risponda a finalita' turistiche e ricreative, periodi di tempo non superiori all'anno. Qualora, per la natura delle iniziative rispondenti ad obiettive esigenze di interesse pubblico, il rapporto concessorio debba avere maggiore durata, l'autorita' marittima procedera' sentita la regione territorialmente interessata.
+Fino all'approvazione degli elenchi previsti dall'[articolo 59, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), le concessioni di cui l'autorita' marittima disporra' il rinnovo o il rilascio riguarderanno, quando l'utilizzazione prevista risponda a finalita' turistiche e ricreative, periodi di tempo non superiori all'anno. Qualora, per la natura delle iniziative rispondenti ad obiettive esigenze di interesse pubblico, il rapporto concessorio debba avere maggiore durata, l'autorita' marittima procedera' sentita la regione territorialmente interessata.
 
 ## Art. 2.
 

@@ -27,7 +27,7 @@ All'art. 2 del detto [decreto Luogotenenziale 11 luglio 1915, n. 1064](https://w
 
 All'[art. 4 del decreto Luogotenenziale 11 luglio 1915, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1064#art_4), e' sostituito il seguente: 
  
- «Trattamento analogo a quello previsto negli articoli precedenti sara' fatto agli insegnanti delle scuole primarie la cui amministrazione e' affidata al Consiglio scolastico provinciale, ai sensi della [legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487), e ai capi cantonieri e cantonieri addetti alla manutenzione delle strade nazionali. 
+ «Trattamento analogo a quello previsto negli articoli precedenti sara' fatto agli insegnanti delle scuole primarie la cui amministrazione e' affidata al Consiglio scolastico provinciale, ai sensi della [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), e ai capi cantonieri e cantonieri addetti alla manutenzione delle strade nazionali. 
  
  «Pero', nel caso del trattamento di cui all'art. 2, se lo stipendio od assegno militare e' inferiore a quello civile, a carico dell'Amministrazione civile alla quale l'impiegato appartiene, rimarra' soltanto la differenza esistente tra lo stipendio civile e il militare, mentre, se lo stipendio od assegno militare e' superiore a quello civile, l'Amministrazione civile non dovra' sostenere alcuna spesa a proprio carico».
 

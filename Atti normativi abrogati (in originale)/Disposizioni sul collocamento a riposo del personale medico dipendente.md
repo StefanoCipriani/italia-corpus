@@ -28,12 +28,12 @@ La domanda deve essere presentata entro i sei mesi successivi al compimento del 
 
 3.
 
-E' fatto salvo il diritto al trattenimento in servizio fino al settantesimo anno di eta', acquisito ai sensi dell'[articolo 6 della legge 10 maggio 1964, n. 336](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-10;336#art_6), e del [decreto-legge 2 luglio 1982, n. 402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-02;402), convertito in legge, con modificazioni, dalla [legge 3 settembre 1982, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-09-03;627). 
+E' fatto salvo il diritto al trattenimento in servizio fino al settantesimo anno di eta', acquisito ai sensi dell'[articolo 6 della legge 10 maggio 1964, n. 336](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-10;336#art_6), e del [decreto-legge 2 luglio 1982, n. 402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-02;402), convertito in legge, con modificazioni, dalla [legge 3 settembre 1982, n. 627](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20luglio%201982%20n.%20402%20recante%20disposizioni%20urgenti%20in%20materia%20di%20assistenza%20sanitaria.md). 
  AVVERTENZA: 
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, comma 3, del testo unico approvato con 
  [decreto del Presidente della Repubblica 28 dicembre 1985, 
- n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle 
+ n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge alle quali e' operato il rinvio. 
  Restano invariati il valore e l'efficacia degli atti 
  legislativi qui trascritti.

@@ -18,9 +18,9 @@ IMPERATORE D'ETIOPIA
 
 Visto il testo unico di leggi ferroviarie, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
 
-Visto l'[art. 6 del R. decreto-legge 29 gennaio 1922, n. 40](Che%20reca%20provvedimenti%20a%20favore%20delle%20aziende%20esercenti%20servizi%20pubblici%20di%20trasporto.%20022U0040.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto l'[art. 6 del R. decreto-legge 29 gennaio 1922, n. 40](Che%20reca%20provvedimenti%20a%20favore%20delle%20aziende%20esercenti%20servizi%20pubblici%20di%20trasporto.%20022U0040.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il [R. decreto-legge 19 ottobre 1923, n. 2311](Norme%20per%20lequo%20trattamento%20del%20personale%20addetto%20alle%20ferrovie%20tramvie%20e%20linee%20di%20navigazione%20interna%20esercitate%20dalla%20industria%20privata%20da%20Provincie%20o%20da%20Comuni.%20023U2311.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge 19 ottobre 1923, n. 2311](Norme%20per%20lequo%20trattamento%20del%20personale%20addetto%20alle%20ferrovie%20tramvie%20e%20linee%20di%20navigazione%20interna%20esercitate%20dalla%20industria%20privata%20da%20Provincie%20o%20da%20Comuni.%20023U2311.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Vista la [legge 23 giugno 1927, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1110);
 
@@ -38,7 +38,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-- Tutti i trasporti che si attuano sulle ferrovie pubbliche, sulle tramvie extraurbane e sulle linee assimilate (funicolari e funivie) nonche' quelli che si effettuano per conto di terzi sulle ferrovie private di 2ª categoria e quelli che si attuano sulle linee di navigazione interna, sono assoggettati alle tasse erariali di cui all'[art. 6 del R. decreto 29 gennaio 1922, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-29;40#art_6), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473). 
+- Tutti i trasporti che si attuano sulle ferrovie pubbliche, sulle tramvie extraurbane e sulle linee assimilate (funicolari e funivie) nonche' quelli che si effettuano per conto di terzi sulle ferrovie private di 2ª categoria e quelli che si attuano sulle linee di navigazione interna, sono assoggettati alle tasse erariali di cui all'[art. 6 del R. decreto 29 gennaio 1922, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-29;40#art_6), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md). 
  
  Le tasse erariali, che le aziende riscuotono in aggiunta al prezzo di trasporto, in nome e per conto dello Stato, devono essere denunciate bimestralmente dalle aziende stesse, con appositi prospetti dimostrativi, non oltre il sessantesimo giorno dalla fine del bimestre cui si riferiscono, e l'importo denunciato deve essere versata in Tesoreria, non oltre il settantesimo giorno, indipendentemente dalla liquidazione definitiva riservata all'Amministrazione governativa. 
  

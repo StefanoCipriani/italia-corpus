@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 marzo 1933, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-13;281), che approva e rende esecutorio l'atto aggiuntivo stipulato il 7 marzo 1933, per la concessione del tronco di prolungamento Calambrone-Livorno della ferrovia Pisa-Marina di Pisa-Calambrone ed autorizza l'impegno della occorrente spesa annua di L. 654.542,57 in eccedenza al limite stabilito con l'[art. 2 della legge 6 giugno 1932, n. 636](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20comunicazioni%20per%20lesercizio%20finanziario%20dal%201%20luglio%201932%20al%2030%20giugno%201933.%20032U0636.md). 
+ E' convertito in legge il [R. decreto-legge 13 marzo 1933, n. 281](Approvazione%20dellatto%20aggiuntivo%207%20marzo%201933%20per%20la%20concessione%20del%20tronco%20di%20prolungamento%20Calambrone-Livorno%20della%20ferrovia%20Pisa-Marina%20di%20Pisa-Calambrone.%20033U0281.md), che approva e rende esecutorio l'atto aggiuntivo stipulato il 7 marzo 1933, per la concessione del tronco di prolungamento Calambrone-Livorno della ferrovia Pisa-Marina di Pisa-Calambrone ed autorizza l'impegno della occorrente spesa annua di L. 654.542,57 in eccedenza al limite stabilito con l'[art. 2 della legge 6 giugno 1932, n. 636](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20comunicazioni%20per%20lesercizio%20finanziario%20dal%201%20luglio%201932%20al%2030%20giugno%201933.%20032U0636.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

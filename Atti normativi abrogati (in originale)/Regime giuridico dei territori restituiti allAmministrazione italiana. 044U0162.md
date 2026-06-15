@@ -18,13 +18,13 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visti gli accordi intervenuti col Governo Militare Alleato in relazione al ritorno all'Amministrazione italiana di territori gia' sottoposti al predetto Governo;
 
-Visto il [R. decreto-legge 11 febbraio 1944, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-02-11;31), riguardante provvedimenti sul regime giuridico dei territori italiani liberati;
+Visto il [R. decreto-legge 11 febbraio 1944, n. 31](Provvedimenti%20sul%20regime%20giuridico%20dei%20territori%20italiani%20liberati.%20044U0031.md), riguardante provvedimenti sul regime giuridico dei territori italiani liberati;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), concernente l'Assemblea per la nuova costituzione dello Stato, il giuramento dei Membri del Governo e la facolta' del Governo di emanare norme giuridiche;
 
-Visto il. [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), sulla sospensione delle norme relative alla emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
+Visto il. [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), sulla sospensione delle norme relative alla emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141), istituzione presso la sede del Governo di una Sezione speciale di controllo della Corte dei conti;
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md), istituzione presso la sede del Governo di una Sezione speciale di controllo della Corte dei conti;
 
 Vista la deliberazione del Consiglio dei Ministri; Sulla proposta del Presidente del Consiglio dei Ministri e Ministro per l'interno, d'intesa con i Ministri per la grazia e giustizia, per le finanze, pel tesoro, per la guerra, per la marina e per l'aeronautica; Abbiamo sanzionato e promulghiamo quanto segue:
 

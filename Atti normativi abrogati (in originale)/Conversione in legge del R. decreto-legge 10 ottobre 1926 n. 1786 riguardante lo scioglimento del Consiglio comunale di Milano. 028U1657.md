@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 ottobre 1926, n. 1786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-10;1786), riguardante lo scioglimento del Consiglio comunale di Milano. 
+ E' convertito in legge il [R. decreto-legge 10 ottobre 1926, n. 1786](Scioglimento%20del%20Consiglio%20comunale%20di%20Milano%20e%20nomina%20del%20Regio%20commissario.%20026U1786.md), riguardante lo scioglimento del Consiglio comunale di Milano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

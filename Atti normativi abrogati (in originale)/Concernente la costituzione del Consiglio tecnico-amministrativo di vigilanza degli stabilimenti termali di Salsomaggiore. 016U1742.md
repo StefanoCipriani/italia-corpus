@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il regolamento approvato con [R. decreto 10 gennaio 1915, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-10;216); 
+ Visto il regolamento approvato con [R. decreto 10 gennaio 1915, n. 216](Col%20quale%20e%20approvato%20lannesso%20regolamento%20organico%20per%20lazienda%20termale%20demaniale%20di%20Salsomaggiore.%20015U0216.md); 
  
  Visto il [decreto Luogotenenziale 11 luglio 1915, numero 1106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1106); 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Visto il [decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625); 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Al primo comma dell'articolo 3 del regolamento approvato col [R. decreto 10 gennaio 1915, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-10;216), modificato col [decreto Luogotenenziale 31 dicembre 1915, n. 1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1963), e' sostituito il seguente: 
+ Al primo comma dell'articolo 3 del regolamento approvato col [R. decreto 10 gennaio 1915, n. 216](Col%20quale%20e%20approvato%20lannesso%20regolamento%20organico%20per%20lazienda%20termale%20demaniale%20di%20Salsomaggiore.%20015U0216.md), modificato col [decreto Luogotenenziale 31 dicembre 1915, n. 1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1963), e' sostituito il seguente: 
  
  «Il Consiglio tecnico-amministrativo di vigilanza e' costituito: 
  

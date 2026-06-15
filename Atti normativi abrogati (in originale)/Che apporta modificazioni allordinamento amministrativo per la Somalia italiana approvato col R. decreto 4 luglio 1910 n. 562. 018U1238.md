@@ -10,21 +10,21 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 26, 35 ed 83 dell'ordinamento amministrativo per la Somalia italiana, approvato col [R. decreto 4 luglio 1910, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-04;562), sono apportate le seguenti modificazioni ed aggiunte: 
+Agli articoli 26, 35 ed 83 dell'ordinamento amministrativo per la Somalia italiana, approvato col [R. decreto 4 luglio 1910, n. 562](Che%20approva%20lannesso%20regolamento%20amministrativo%20per%20la%20Somalia%20italiana.%20010U0562.md), sono apportate le seguenti modificazioni ed aggiunte: 
  
  Il primo comma dell'art. 26 e' sostituito da quello seguente: «Gli impiegati delle varie Amministrazioni dello Stato destinati in colonia, conservano il posto rispettivo di anzianita' nei ruoli organici delle Amministrazioni cui appartengono e sono considerati a disposizione del Governo coloniale per un periodo di tempo non inferiore a quattro anni». 
  
- Al comma g) dell'art. 35 e' sostituito quello seguente: «Avere la laurea di una Universita' del Regno, o l'attestato di licenza degli Istituti contemplati nella [legge 21 agosto 1870, n. 5830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-21;5830), oppure il diploma dell'Istituto orientale di Napoli, quando siasi gia' provvisti di licenza liceale, o, infine, essere ufficiali del R. esercito a della R. marina». 
+ Al comma g) dell'art. 35 e' sostituito quello seguente: «Avere la laurea di una Universita' del Regno, o l'attestato di licenza degli Istituti contemplati nella [legge 21 agosto 1870, n. 5830](Riguardante%20lammissione%20al%20concorso%20per%20la%20carriera%20consolare.%20070U5830.md), oppure il diploma dell'Istituto orientale di Napoli, quando siasi gia' provvisti di licenza liceale, o, infine, essere ufficiali del R. esercito a della R. marina». 
  
  All'art. 83 sono aggiunte le parole: «L. 2500 al segretario generale».
 
 ## Art. 2.
 
-Il [R. decreto 6 agosto 1914, n. 862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-06;862), e' abrogato e sostituito dal seguente articolo: 
+Il [R. decreto 6 agosto 1914, n. 862](Che%20modifica%20lordinamento%20amministrativo%20per%20la%20Somalia%20italiana%20per%20quanto%20riguarda%20gli%20agenti%20coloniali.%20014U0862.md), e' abrogato e sostituito dal seguente articolo: 
  
  «Gli aspiranti agenti coloniali debbono prestare non meno di un anno di servizio effettivo in colonia, dal giorno della assunzione in funzione, ed aver dato prova di idoneita', diligenza ed attitudine al servizio coloniale, per poter conseguire la nomina ad agente coloniale di 7ª classe. 
  
- «Salvo quanto e' disposto dall'art. 37 dell'ordinamento approvato col [R. decreto 4 luglio 1910, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-04;562), man mano che vi siano posti disponibili, il passaggio degli aspiranti ad agenti coloniali di 7ª classe e' disposto secondo l'ordine di precedenza risultante dalla graduatoria del concorso. 
+ «Salvo quanto e' disposto dall'art. 37 dell'ordinamento approvato col [R. decreto 4 luglio 1910, n. 562](Che%20approva%20lannesso%20regolamento%20amministrativo%20per%20la%20Somalia%20italiana.%20010U0562.md), man mano che vi siano posti disponibili, il passaggio degli aspiranti ad agenti coloniali di 7ª classe e' disposto secondo l'ordine di precedenza risultante dalla graduatoria del concorso. 
  
  «Coloro pero' che trascorso il periodo minimo di cui al primo comma del presente articolo non abbiano dato sufficiente prova di idoneita', diligenza ed attitudine al servizio coloniale, sono dispensati dal servizio, senza diritto ad altra indennita' all'infuori della spesa effettiva del viaggio di rimpatrio, aumentata del decimo. 
  
@@ -34,7 +34,7 @@ Il [R. decreto 6 agosto 1914, n. 862](https://www.normattiva.it/uri-res/N2Ls?urn
 
 ## Art. 3.
 
-Abrogati del pari e sostituiti da quello seguente, sono gli articoli 42, 43 e 45, primo e secondo comma, dell'ordinamento approvato col [R. decreto 4 luglio 1910, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-04;562): 
+Abrogati del pari e sostituiti da quello seguente, sono gli articoli 42, 43 e 45, primo e secondo comma, dell'ordinamento approvato col [R. decreto 4 luglio 1910, n. 562](Che%20approva%20lannesso%20regolamento%20amministrativo%20per%20la%20Somalia%20italiana.%20010U0562.md): 
  
  «Le promozioni agli agenti coloniali si conferiscono: 
  
@@ -57,7 +57,7 @@ Abrogati del pari e sostituiti da quello seguente, sono gli articoli 42, 43 e 45
 
 Disposizione transitoria. 
  
- Salvo il disposto dall'art. 37 dell'ordinamento approvato col [R. decreto 4 luglio 1910, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-04;562), fino a sei mesi dopo la pubblicazione della pace, i posti di agente coloniale che sono e che durante la guerra si renderanno vacanti nelle ultime due classi, su proposta motivata del governatore, possono eccezionalmente conferirsi ai funzionari civili di ruolo delle varie Amministrazioni del Regno che si trovino in servizio nella colonia da almeno due anni o che vi abbiano in antecedenza prestato servizio per un eguale periodo, ed agli ufficiali effettivi o di complemento che, da un anno almeno, siano adibiti in colonia ad incarichi civili con funzioni politico-amministrative, o che per eguale periodo di tempo abbiano coperto in antecedenza tali incarichi. 
+ Salvo il disposto dall'art. 37 dell'ordinamento approvato col [R. decreto 4 luglio 1910, n. 562](Che%20approva%20lannesso%20regolamento%20amministrativo%20per%20la%20Somalia%20italiana.%20010U0562.md), fino a sei mesi dopo la pubblicazione della pace, i posti di agente coloniale che sono e che durante la guerra si renderanno vacanti nelle ultime due classi, su proposta motivata del governatore, possono eccezionalmente conferirsi ai funzionari civili di ruolo delle varie Amministrazioni del Regno che si trovino in servizio nella colonia da almeno due anni o che vi abbiano in antecedenza prestato servizio per un eguale periodo, ed agli ufficiali effettivi o di complemento che, da un anno almeno, siano adibiti in colonia ad incarichi civili con funzioni politico-amministrative, o che per eguale periodo di tempo abbiano coperto in antecedenza tali incarichi. 
  
  Gli agenti coloniali nominati per effetto del presente articolo, non appena, a giudizio del governatore, le condizioni del personale della colonia lo permettano, dovranno frequentare uno speciale corso accelerato presso l'Istituto orientale di Napoli. 
  

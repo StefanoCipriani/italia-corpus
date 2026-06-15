@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduti il [R. decreto-legge 2 gennaio 1927, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-02;1), convertito nella [legge 29 dicembre 1927, n. 2584](Conversione%20in%20legge%20del%20R.%20decreto-legge%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20027U2584.md), ed il [R. decreto-legge 31 marzo 1927, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-31;468), convertito nella [legge 29 dicembre 1927, n. 2585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-29;2585); 
+ Veduti il [R. decreto-legge 2 gennaio 1927, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-02;1), convertito nella [legge 29 dicembre 1927, n. 2584](Conversione%20in%20legge%20del%20R.%20decreto-legge%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20027U2584.md), ed il [R. decreto-legge 31 marzo 1927, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-31;468), convertito nella [legge 29 dicembre 1927, n. 2585](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2031%20marzo%201927%20n.%20468%20portante%20modifiche%20al%20riordinamento%20delle%20circoscrizioni%20provinciali.%20027U2585.md); 
  
  Vedute le deliberazioni dei Rettorati delle provincie di Milano e di Varese, rispettivamente in data 26 e 27 febbraio 1930, concernenti il progetto per la separazione del patrimonio e il reparto delle attivita' e passivita' fra le Provincie medesime; 
  

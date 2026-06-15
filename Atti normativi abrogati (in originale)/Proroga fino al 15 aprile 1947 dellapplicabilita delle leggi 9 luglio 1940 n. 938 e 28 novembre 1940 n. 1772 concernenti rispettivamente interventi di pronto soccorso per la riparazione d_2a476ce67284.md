@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 9 luglio 1940, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;938), concernente interventi di pronto soccorso per la riparazione di opere pubbliche danneggiate in conseguenza di azioni belliche;
+Vista la [legge 9 luglio 1940, n. 938](Interventi%20di%20pronto%20soccorso%20per%20la%20riparazione%20di%20opere%20pubbliche%20danneggiate%20in%20conseguenza%20di%20azioni%20belliche.%20040U0938.md), concernente interventi di pronto soccorso per la riparazione di opere pubbliche danneggiate in conseguenza di azioni belliche;
 
-Vista la [legge 28 novembre 1940, n. 1772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-11-28;1772), concernente la sospensione durante lo stato di guerra di opere pubbliche appaltate;
+Vista la [legge 28 novembre 1940, n. 1772](Sospensione%20durante%20lo%20stato%20di%20guerra%20di%20opere%20pubbliche%20appaltate.%20040U1772.md), concernente la sospensione durante lo stato di guerra di opere pubbliche appaltate;
 
-Visto il [decreto legislativo Luogotenenziale 8 febbraio 1946, n 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;49), relativo alla cessazione dello stato di guerra e passaggio della legislazione di guerra a quella di pace;
+Visto il [decreto legislativo Luogotenenziale 8 febbraio 1946, n 49](../Decreti%20legislativi%20luogotenenziali/Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md), relativo alla cessazione dello stato di guerra e passaggio della legislazione di guerra a quella di pace;
 
 Ritenuta la necessita' di prorogare per un anno l'applicabilita' delle disposizioni contenute nelle citate leggi 9 luglio 1940 e 28 novembre 1940, che cesseranno di avere effetto al 15 aprile 1946;
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 ## Articolo unico.
 
-Le disposizioni contenute nelle [leggi 9 luglio 1940, n. 938 e 28 novembre 1940, n. 1772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-11-28;1772), sono applicabili fino al 15 aprile 1947.
+Le disposizioni contenute nelle [leggi 9 luglio 1940, n. 938 e 28 novembre 1940, n. 1772](Sospensione%20durante%20lo%20stato%20di%20guerra%20di%20opere%20pubbliche%20appaltate.%20040U1772.md), sono applicabili fino al 15 aprile 1947.
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

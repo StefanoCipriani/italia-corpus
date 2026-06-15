@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Alle marche da bollo a tassa fissa ed in ragione della dimensione della carta da centesimi 50 e da L. 1, 2, 3 e 4, oltre l'aumento di due decimi, stabilite col citato [R. decreto 22 ottobre 1905, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-10-22;539), ne sono sostituite altre del prezzo di centesimi 65, di L. 1,25, 2,50, 3,75 e 5,00, aventi il formato, i disegni ed i colori identici a quelli delle marche ora esistenti, salvo l'in dicazione del nuovo valore con le parole «Centesimi 05, L. 1,25, L. 2,50, L. 3,75 e Lire cinque».
+Alle marche da bollo a tassa fissa ed in ragione della dimensione della carta da centesimi 50 e da L. 1, 2, 3 e 4, oltre l'aumento di due decimi, stabilite col citato [R. decreto 22 ottobre 1905, n. 539](Che%20stabilisce%20le%20modalita%20per%20la%20stampa%20delle%20nuove%20marche%20da%20bollo%20a%20tassa%20fissa%20da%20cent.%2050%20e%20da%20lire%201%202%203%20e%204.%20005U0539.md), ne sono sostituite altre del prezzo di centesimi 65, di L. 1,25, 2,50, 3,75 e 5,00, aventi il formato, i disegni ed i colori identici a quelli delle marche ora esistenti, salvo l'in dicazione del nuovo valore con le parole «Centesimi 05, L. 1,25, L. 2,50, L. 3,75 e Lire cinque».
 
 ## Art. 2.
 
-Alle marche da L. 1, 2, 3, 5 per la riscossione delle tasse sulle concessioni governative e sugli atti e provvedimenti amministrativi, stabilite col citato [R. decreto 29 settembre 1885, n. 3368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-09-29;3368), e alle marche doppie per atti amministrativi da L. 5 e 10 stabilite con l'altro [R. decreto 21 maggio 1911, n. 510](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-05-21;510), ne sono sostituite altre del prezzo rispettivamente di L. 1,25; 2,50; 3,75; 6,30; 5,25 e 10,50.
+Alle marche da L. 1, 2, 3, 5 per la riscossione delle tasse sulle concessioni governative e sugli atti e provvedimenti amministrativi, stabilite col citato [R. decreto 29 settembre 1885, n. 3368](Che%20sostituisce%20alle%20marche%20da%20bollo%20a%20tassa%20fissa%20ed%20in%20ragione%20della%20dimensione%20della%20carta%20altre%20di%20eguali%20prezzi.%20085U3368.md), e alle marche doppie per atti amministrativi da L. 5 e 10 stabilite con l'altro [R. decreto 21 maggio 1911, n. 510](Che%20istituisce%20nuovi%20valori%20di%20bollo%20e%20marche%20per%20atti%20amministrativi%20011U0510.md), ne sono sostituite altre del prezzo rispettivamente di L. 1,25; 2,50; 3,75; 6,30; 5,25 e 10,50.
 
 ## Art. 3.
 
@@ -41,7 +41,7 @@ L. 3,75.
 
 ## Art. 4.
 
-Le marche che servono al pagamento delle tasse di L. 2 e L. 10 per rilascio di passaporti, di L. 1 e L. 5 per vidimazione di passaporti o di L. 3 e L. 5 per legalizzazione di firme sugli atti esteri o destinati all'estero stabilite col citato [R. decreto 2 giugno 1889, n. 6112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-06-02;6112), sono sostituite da altre marche del prezzo rispettivamente di L. 2,50; 12,60; 1,25; 6,30; 3,75 e 6,30.
+Le marche che servono al pagamento delle tasse di L. 2 e L. 10 per rilascio di passaporti, di L. 1 e L. 5 per vidimazione di passaporti o di L. 3 e L. 5 per legalizzazione di firme sugli atti esteri o destinati all'estero stabilite col citato [R. decreto 2 giugno 1889, n. 6112](Concernente%20le%20nuove%20marche%20da%20servire%20al%20pagamento%20di%20tasse.%20089U6112.md), sono sostituite da altre marche del prezzo rispettivamente di L. 2,50; 12,60; 1,25; 6,30; 3,75 e 6,30.
 
 ## Art. 5.
 
@@ -76,7 +76,7 @@ L. 3,75 - L. 6,30.
 
 La vendita e l'uso delle nuove marche di che ai precedenti articoli incominciera' a misura che gli uffici del registro e bollo ne saranno provvisti. 
  
- Provvisoriamente continuera' la vendita e l'uso delle corrispondenti marche portanti sovraimpressa l'indicazione dei nuovi valori in cifre arabiche in nero od in tutte lettere parimente in nero, istituite con [R. decreto 1° novembre 1914, n. 1193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-01;1193).
+ Provvisoriamente continuera' la vendita e l'uso delle corrispondenti marche portanti sovraimpressa l'indicazione dei nuovi valori in cifre arabiche in nero od in tutte lettere parimente in nero, istituite con [R. decreto 1° novembre 1914, n. 1193](Riguardante%20listituzione%20di%20marche%20da%20bollo%20provvisorie%20per%20lapplicazione%20delle%20disposizioni%20di%20cui%20ai%20RR.%20decreti%2022%20ottobre%201914%20nn.%201152%20e%201154%20relativi%20alle%20tasse%20sul%20bollo%20sulle%20conc_21b566d7db46.md).
 
 ## Art. 7.
 

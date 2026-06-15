@@ -41,7 +41,7 @@ L'[articolo 17 della legge 26 agosto 1950, n. 860](Tutela%20fisica%20ed%20econom
 ## Art. 4.
 
 L'[articolo 22 della legge 26 agosto 1950, n. 860](Tutela%20fisica%20ed%20economica%20delle%20lavoratrici%20madri.md), e' sostituito dal seguente:
- Articolo 22. - "E' dovuta alle lavoratrici agricole di cui all'articolo 1 della presente legge, non aventi qualifica impiegatizia, oltre l'assistenza completa, di parto, ai sensi del [decreto legislativo luogotenenziale 9 aprile 1946, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-09;212), e successive modificazioni, una indennita' una tantum nella misura sottoindicata a fianco di ciascuna categoria:
+ Articolo 22. - "E' dovuta alle lavoratrici agricole di cui all'articolo 1 della presente legge, non aventi qualifica impiegatizia, oltre l'assistenza completa, di parto, ai sensi del [decreto legislativo luogotenenziale 9 aprile 1946, n. 212](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20delle%20vigenti%20disposizioni%20sulla%20assicurazione%20di%20malattia%20per%20i%20lavoratori%20in%20agricoltura.md), e successive modificazioni, una indennita' una tantum nella misura sottoindicata a fianco di ciascuna categoria:
  1°) salariate fisse, assimilate, obbligate e braccianti o compartecipanti permanenti, lire 35.000;.
  2°) braccianti o compartecipanti abituali, lire 35 mila;
  3°) braccianti o compartecipanti occasionali, lire 25.000;

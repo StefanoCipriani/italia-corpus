@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 5 novembre 1962, n. 1695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-11-05;1695), riguardante i documenti caratteristici degli ufficiali, dei sottufficiali e dei militari di truppa dell'Esercito, della Marina, dell'Aeronautica e del Corpo della guardia di finanza;
+Vista la [legge 5 novembre 1962, n. 1695](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20dellAeronautica%20e%20della%20Guardia%20di%20finanza.md), riguardante i documenti caratteristici degli ufficiali, dei sottufficiali e dei militari di truppa dell'Esercito, della Marina, dell'Aeronautica e del Corpo della guardia di finanza;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -42,7 +42,7 @@ I documenti caratteristici per gli ufficiali sono i seguenti:
 ### Art. 3.
 
 Con la scheda valutativa viene espresso il giudizio su ogni servizio prestato, salvo i casi per i quali sia prescritto il rapporto informativo.
- Il giudizio espresso nella scheda valutativa si conclude con una delle qualifiche previste dall'[art. 2 della legge 5 novembre 1962, n. 1695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-11-05;1695#art_2); la qualifica "eccellente" e' riservata a coloro che emergano nettamente per, qualita' e rendimento eccezionali.
+ Il giudizio espresso nella scheda valutativa si conclude con una delle qualifiche previste dall'[art. 2 della legge 5 novembre 1962, n. 1695](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20dellAeronautica%20e%20della%20Guardia%20di%20finanza.md); la qualifica "eccellente" e' riservata a coloro che emergano nettamente per, qualita' e rendimento eccezionali.
  Col rapporto informativo viene espresso il giudizio sui servizi di durata inferiore al minimo di tempo previsto dall'art. 5 per la redazione della scheda valutativa.
  Rapporti informativi sono altresi' compilati per gli ufficiali che frequentano corsi di istruzione o che prestano servizio presso organismi nei quali il compilatore o uno dei revisori sia un'autorita' civile o un'autorita' militare che non appartenga all'Esercito, alla Marina od all'Aeronautica.
  Rapporti informativi sono anche compilati per gli ufficiali generali e per gli ufficiali superiori che partecipano ad esercitazioni di grandi unita' alla temporanea dipendenza di un'autorita' che non sia quella dalla quale direttamente dipendono per il normale impiego. Il rapporto e' compilato soltanto nel caso che lo Stato Maggiore interessato giudichi la esercitazione di particolare importanza e rilievo e puo' riferirsi anche a periodo di tempo inferiore al minimo stabilito dal successivo articolo 5.
@@ -173,7 +173,7 @@ Il foglio matricolare previsto dalle disposizioni sulle matricole in vigore per 
  rapporto informativo, modello I.
  I modelli dello specchio valutativo e del rapporto informativo di cui al comma precedente sono conformi a quelli annessi al presente regolamento.
  Lo specchio valutativo deve:
- a) registrare i servizi prestati e il giudizio dei superiori su tali servizi e sulle qualita' del militare. Il giudizio si conclude con una delle qualifiche previste dall'[art. 2 della legge 5 novembre 1962, n. 1695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-11-05;1695#art_2);
+ a) registrare i servizi prestati e il giudizio dei superiori su tali servizi e sulle qualita' del militare. Il giudizio si conclude con una delle qualifiche previste dall'[art. 2 della legge 5 novembre 1962, n. 1695](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20dellAeronautica%20e%20della%20Guardia%20di%20finanza.md);
  b) essere compilato dall'autorita' da cui il militare dipende in linea diretta di servizio e revisionato dall'ufficiale diretto superiore in carica.
  Il rapporto informativo e' formato per impieghi di servizio a carattere speciale od occasionale ed al termine di corsi di istruzione, con le stesse modalita' prescritte alla precedente lettera b).
  I documenti caratteristici del personale a ferma volontaria, sono redatti in duplice copia, di cui una segue il militare nelle sue destinazioni e l'altra viene custodita dall'autorita' centrale o periferica stabilita da ciascuna forza armata.

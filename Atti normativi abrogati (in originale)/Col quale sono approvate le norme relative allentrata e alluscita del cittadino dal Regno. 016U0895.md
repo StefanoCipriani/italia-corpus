@@ -16,7 +16,7 @@ Capo I.
 
 Ogni cittadino italiano, per uscire dal Regno o per entrarvi, deve essere provvisto del passaporto per l'estero. 
  
- II passaporto deve essere munito di recente fotografia del titolare e di quelle delle altre persone iscrittevi a norma dell'[articolo 4 del R. decreto 31 gennaio 1901, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-01-31;36#art_4), autenticate tutte dal sindaco o dall'autorita' concedente. Anche le firme apposte al passaporto dal titolare e dalle altre persone suddette debbono essere autenticate. 
+ II passaporto deve essere munito di recente fotografia del titolare e di quelle delle altre persone iscrittevi a norma dell'[articolo 4 del R. decreto 31 gennaio 1901, n. 36](Circa%20il%20rilascio%20dei%20passaporti%20per%20lestero.%20001U0036.md), autenticate tutte dal sindaco o dall'autorita' concedente. Anche le firme apposte al passaporto dal titolare e dalle altre persone suddette debbono essere autenticate. 
  
  La fotografia non e' necessaria per gli iscritti di eta' non superiore ai 12 anni, che viaggino con persona la cui fotografia sia annessa al passaporto.
 
@@ -256,7 +256,7 @@ Le autorita' di pubblica sicurezza nel ricevere, a termini dell'[articolo 4 del 
 
 ### Art. 37.
 
-Per tutti gli effetti del presente Capo V sono equiparate alla zona delle retrovie le piazze forti militari marittime indicate nel [R. decreto 20 maggio 1915, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-20;795). 
+Per tutti gli effetti del presente Capo V sono equiparate alla zona delle retrovie le piazze forti militari marittime indicate nel [R. decreto 20 maggio 1915, n. 795](Col%20quale%20sono%20concessi%20pieni%20poteri%20ai%20comandanti%20delle%20piazze%20forti%20marittime%20ed%20ai%20comandanti%20delle%20fortezze%20costiere.%20015U0795.md). 
  
  Ai comandanti militari delle dette piazze spettano tutte le attribuzioni che il presente Capo V deferisce al Comando supremo del R. esercito.
 

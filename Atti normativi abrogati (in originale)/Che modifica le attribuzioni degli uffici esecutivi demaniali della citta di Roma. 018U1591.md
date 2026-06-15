@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto del 7 settembre 1908, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-09-07;570); 
+ Visto il [R. decreto del 7 settembre 1908, n. 570](Approvazione%20della%20tabella%20che%20modifica%20le%20attribuzioni%20degli%20uffici%20esecutivi%20demaniali%20della%20citta%20di%20Roma.%20008U0570.md); 
  
  Visto l'altro Nostro decreto in data odierna; 
  

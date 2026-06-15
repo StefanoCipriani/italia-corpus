@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli articoli 172, 174, 175 e 177 del regolamento sul servizio del materiale d'artiglieria ed automobilistico, approvato con [R. decreto 16 agosto 1926, n. 1628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1628), quali risultano modificati dal R. decreto 3 aprile, 1942, n. 556, nono sostituiti dai seguenti; 
+Gli articoli 172, 174, 175 e 177 del regolamento sul servizio del materiale d'artiglieria ed automobilistico, approvato con [R. decreto 16 agosto 1926, n. 1628](Nuovo%20regolamento%20per%20il%20servizio%20del%20materiale%20di%20artiglieria%20ed%20automobilistico%20del%20Regio%20esercito.%20026U1628.md), quali risultano modificati dal R. decreto 3 aprile, 1942, n. 556, nono sostituiti dai seguenti; 
  
  «Art. 172. - Le spese di cui all'articolo precedente debbono essere contenute nei seguenti limiti: 
  

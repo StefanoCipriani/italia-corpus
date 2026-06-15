@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alle disposizioni dell'[art. 13 del R. decreto-legge 16 giugno 1938, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;1387#art_13), (convertito con modificazioni nella legge 19 gennaio 1939-XVII, n. 486), sono aggiunte, per quanto riguarda i canoni di affitto dei fondi rustici, le seguenti.
+Alle disposizioni dell'[art. 13 del R. decreto-legge 16 giugno 1938, n. 1387](Norme%20per%20la%20disciplina%20dei%20prezzi%20delle%20merci%20dei%20servizi%20e%20degli%20affitti.%20038U1387.md), (convertito con modificazioni nella legge 19 gennaio 1939-XVII, n. 486), sono aggiunte, per quanto riguarda i canoni di affitto dei fondi rustici, le seguenti.
 
 ## Art. 2.
 

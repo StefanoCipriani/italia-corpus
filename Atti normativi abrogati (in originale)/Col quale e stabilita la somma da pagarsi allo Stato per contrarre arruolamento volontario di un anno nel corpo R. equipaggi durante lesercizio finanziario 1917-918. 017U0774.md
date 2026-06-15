@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 79 del testo unico delle leggi sulla leva marittima approvato con [R. decreto 16 dicembre 1888, n. 5860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-12-16;5860) (serie 3ª); 
+ Visto l'art. 79 del testo unico delle leggi sulla leva marittima approvato con [R. decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md) (serie 3ª); 
  
  Sulla proposta del ministro della marina; 
  

@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge in data 23 giugno 1912, n. 637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-23;637);
+Vista la [legge in data 23 giugno 1912, n. 637](Che%20porta%20provvedimenti%20riguardanti%20il%20corpo%20civile%20insegnante%20della%20R.%20Accademia%20navale.%20012U0637.md);
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro della marina, di concerto col ministro del tesoro; A
 
 ## Articolo unico.
 
-L'ultimo comma dell'[art. 6 della legge in data 23 giugno 1912, n. 637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-23;637#art_6) e' abrogato. 
+L'ultimo comma dell'[art. 6 della legge in data 23 giugno 1912, n. 637](Che%20porta%20provvedimenti%20riguardanti%20il%20corpo%20civile%20insegnante%20della%20R.%20Accademia%20navale.%20012U0637.md) e' abrogato. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge, ed entrera' in vigore dalla data della sua pubblicazione nella Gazzetta ufficiale. 
  

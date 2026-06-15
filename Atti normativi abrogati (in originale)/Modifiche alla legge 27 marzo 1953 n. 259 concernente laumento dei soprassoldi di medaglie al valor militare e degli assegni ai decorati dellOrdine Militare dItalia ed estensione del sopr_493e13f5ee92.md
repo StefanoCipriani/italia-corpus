@@ -30,7 +30,7 @@ Per il grado di Cavaliere . . . . . . . . . . . . . . . . . L. 52.500 Per il gra
 
 ## Art. 3.
 
-E' concesso allo stesso titolo e con gli stessi effetti un assegno annuo di lire 5.000 ai decorati della Croce di guerra al valor militare istituita con [regio decreto 7 gennaio 1922, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-07;195).
+E' concesso allo stesso titolo e con gli stessi effetti un assegno annuo di lire 5.000 ai decorati della Croce di guerra al valor militare istituita con [regio decreto 7 gennaio 1922, n. 195](Che%20differenzia%20la%20croce%20di%20guerra%20al%20valor%20militare%20da%20quella%20concessa%20per%20i%20titoli%20comuni%20di%20cui%20al%20R.%20decreto%20n.%20205%20del%2019%20gennaio%201918.%20022U0195.md).
  L'assegno previsto dal presente articolo e' concesso a domanda. La domanda deve essere indirizzata al Ministero del tesoro - Direzione generale delle pensioni di guerra - dai militari in congedo; al Comando di appartenenza dai militari in servizio.
  Per coloro che presentino la domanda oltre un anno dall'entrata in vigore della presente legge, l'assegno decorre dal primo giorno del mese di presentazione della domanda.
 

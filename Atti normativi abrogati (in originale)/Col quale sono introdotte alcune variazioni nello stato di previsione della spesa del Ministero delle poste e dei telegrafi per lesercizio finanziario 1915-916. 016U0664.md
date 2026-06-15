@@ -24,7 +24,7 @@ Riconosciuta la necessita' di stanziare nello stato di previsione della spesa de
 
 Ritenuta l'opportunita' di trasportare dalla parte ordinaria a quella straordinaria dell'indicato stato di previsione la somma inscrittavi con [decreto Luogotenenziale del 12 agosto 1915, n. 1299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-12;1299), per far fronte alla spesa per la costruzione della nuova sede ad uso dei servizi postali e doganali nella stazione di Como San Giovanni;
 
-Vista la [legge 1° aprile 1915, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;380);
+Vista la [legge 1° aprile 1915, n. 380](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20per%20lesercizio%20finanziario%201915-916.%20015U0380.md);
 
 Udito il Consiglio dei ministri;
 

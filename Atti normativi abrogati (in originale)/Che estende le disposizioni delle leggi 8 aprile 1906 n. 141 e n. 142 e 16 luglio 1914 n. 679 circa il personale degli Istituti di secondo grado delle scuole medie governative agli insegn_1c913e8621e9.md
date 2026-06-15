@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 24 marzo 1907, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-03-24;136), che stabilisce gli stipendi del personale insegnante nella R. scuola mineraria di Caltanissetta;
+Vista la [legge 24 marzo 1907, n. 136](Modificazioni%20al%20ruolo%20organico%20della%20R.%20scuola%20mineraria%20di%20Caltanissetta.%20007U0136.md), che stabilisce gli stipendi del personale insegnante nella R. scuola mineraria di Caltanissetta;
 
 Udito il Consiglio dei ministri;
 
@@ -28,11 +28,11 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-Per l'assunzione in servizio e per gli stipendi da assegnarsi agli insegnanti della cattedra di lettere italiane, storia e geografia, della cattedra di matematica, geometria descrittiva e disegno, di quella di fisica e chimica generale e della cattedra di lingua francese nella R. Scuola di Caltanissetta, sono estese, in quanto applicabili, le disposizioni delle [leggi dell'8 aprile 1906, n. 141 e n. 142 e del 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), relative al personale degli Istituti di secondo grado delle scuole medie governative.
+Per l'assunzione in servizio e per gli stipendi da assegnarsi agli insegnanti della cattedra di lettere italiane, storia e geografia, della cattedra di matematica, geometria descrittiva e disegno, di quella di fisica e chimica generale e della cattedra di lingua francese nella R. Scuola di Caltanissetta, sono estese, in quanto applicabili, le disposizioni delle [leggi dell'8 aprile 1906, n. 141 e n. 142 e del 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), relative al personale degli Istituti di secondo grado delle scuole medie governative.
 
 ## Art. 2.
 
-Gli stipendi saranno regolati secondo il ruolo A della tabella B annessa alla [legge del 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), aumentati a norma del [decreto Luogotenenziale del 10 febbraio 1918, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;107).
+Gli stipendi saranno regolati secondo il ruolo A della tabella B annessa alla [legge del 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), aumentati a norma del [decreto Luogotenenziale del 10 febbraio 1918, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;107).
 
 ## Art. 3.
 

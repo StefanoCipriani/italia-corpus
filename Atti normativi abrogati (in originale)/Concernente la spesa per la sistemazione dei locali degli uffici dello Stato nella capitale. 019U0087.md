@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 18 luglio 1911, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-18;836), portante provvedimenti per la sistemazione dei locali degli uffici dello Stato nella capitale;
+Vista la [legge 18 luglio 1911, n. 836](Riguardante%20i%20provvedimenti%20per%20la%20sistemazione%20dei%20locali%20degli%20uffici%20dello%20Stato%20nella%20capitale.%20011U0836.md), portante provvedimenti per la sistemazione dei locali degli uffici dello Stato nella capitale;
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro; Abbiamo decretato
 
 ## Articolo unico.
 
-Alla spesa per la sistemazione dei locali degli uffici dello Stato nella capitale, autorizzata con l'[art. 1 della legge 18 luglio 1911, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-18;836#art_1), potra' provvedersi, oltre che con i mezzi indicati all' art.2 della legge stessa, anche con assegnazioni dirette a carico del bilancio. 
+Alla spesa per la sistemazione dei locali degli uffici dello Stato nella capitale, autorizzata con l'[art. 1 della legge 18 luglio 1911, n. 836](Riguardante%20i%20provvedimenti%20per%20la%20sistemazione%20dei%20locali%20degli%20uffici%20dello%20Stato%20nella%20capitale.%20011U0836.md), potra' provvedersi, oltre che con i mezzi indicati all' art.2 della legge stessa, anche con assegnazioni dirette a carico del bilancio. 
  
  Questo decreto sara' presentato al Parlamento per essere convertito in legge ed andra' in vigore il giorno, stesso della sua pubblicazione nella Gazzetta ufficiale del Regno. 
  

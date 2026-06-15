@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [R. decreto-legge 15 agosto 1930, n. 1268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-08-15;1268), recante provvedimenti in favore delle localita' danneggiate dal ciclone del 24 luglio 1930 nelle provincie di Treviso e del Friuli. 
+ E convertito in legge il [R. decreto-legge 15 agosto 1930, n. 1268](Provvedimenti%20in%20favore%20delle%20localita%20danneggiate%20dal%20ciclone%20del%2024%20luglio%201930%20nelle%20provincie%20di%20Treviso%20e%20del%20Friuli.%20030U1268.md), recante provvedimenti in favore delle localita' danneggiate dal ciclone del 24 luglio 1930 nelle provincie di Treviso e del Friuli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

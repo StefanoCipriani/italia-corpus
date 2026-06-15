@@ -46,7 +46,7 @@ Gli alunni di scuola privata o paterna, nel presentarsi alla inscrizione o agli 
 
 ## Art. 6.
 
-La pagella scolastica debitamente redatta e firmata ha lo stesso valore, a tutti gli effetti di legge, dei certificati corrispondenti e previsti dall'art. 184 del testo unico delle leggi sull'istruzione elementare approvato col [R. decreto 22 gennaio 1925, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-22;432).
+La pagella scolastica debitamente redatta e firmata ha lo stesso valore, a tutti gli effetti di legge, dei certificati corrispondenti e previsti dall'art. 184 del testo unico delle leggi sull'istruzione elementare approvato col [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md).
 
 ## Art. 7.
 

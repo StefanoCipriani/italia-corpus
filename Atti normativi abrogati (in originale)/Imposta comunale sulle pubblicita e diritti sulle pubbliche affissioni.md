@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
-Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modifiche nella [legge 24 luglio 1972, n. 321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-07-24;321);
+Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modifiche nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com1);
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -242,7 +242,7 @@ L'azione del comune per chiedere il pagamento delle somme accertate ai fini dell
 
 ### Art. 27. — Interessi
 
-Per la corresponsione degli interessi si applicano le disposizioni di cui all'art. 48-bis del testo unico della finanza locale 14 settembre 1931, n. 1175, introdotto con l'[art. 4 della legge 18 maggio 1967, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-05-18;388#art_4), e successive modificazioni ed integrazioni.
+Per la corresponsione degli interessi si applicano le disposizioni di cui all'art. 48-bis del testo unico della finanza locale 14 settembre 1931, n. 1175, introdotto con l'[art. 4 della legge 18 maggio 1967, n. 388](Modificazioni%20al%20testo%20unico%20della%20finanza%20locale%20approvato%20con%20regio%20decreto%2014%20settembre%201931%20n.%201175%20e%20disciplina%20della%20riscossione%20dei%20carichi%20arretrati%20di%20tributi%20locali.md), e successive modificazioni ed integrazioni.
 
 ## DIRITTI SULLE PUBBLICHE AFFISSIONI
 
@@ -414,7 +414,7 @@ L'aggio va commisurato all'ammontare lordo dell'imposta e dei diritti di affissi
 
 Il concessionario del servizio e' tenuto a prestare, prima della stipulazione del contratto, una cauzione determinata dalla giunta municipale e commisurata alle prevedibili riscossioni di un trimestre.
  La cauzione deve essere prestata in numerario o in titoli dello Stato o garantiti dallo Stato ovvero mediante polizza fideiussoria o fideiussione bancaria.
- Per la costituzione di cauzione mediante polizza fideiussoria o fideiussione bancaria si applicano i limiti e le disposizioni di cui al [decreto legislativo 30 gennaio 1948, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-30;86), e successive modificazioni.
+ Per la costituzione di cauzione mediante polizza fideiussoria o fideiussione bancaria si applicano i limiti e le disposizioni di cui al [decreto legislativo 30 gennaio 1948, n. 86](../Decreti%20Legislativi/Facolta%20agli%20appaltatori%20delle%20imposte%20di%20consumo%20di%20prestare%20cauzione%20mediante%20polizza%20fideiussoria%20o%20fideiussione%20bancaria.md), e successive modificazioni.
  I comuni possono procedere ad esecuzione sulla cauzione secondo le norme previste per la escussione degli esattori delle imposte dirette in caso di mancato versamento per due mesi consecutivi delle somme dovute dal concessionario.
 
 ### Art. 47. — Decadenza
@@ -449,7 +449,7 @@ Le maggiorazioni a qualunque titolo previste dal presente decreto sono cumulabil
 
 Chiunque avendone l'obbligo ometta di presentare la dichiarazione o presenti una dichiarazione infedele e' soggetto, oltre al pagamento dell'imposta o del diritto dovuti, ad una sopratassa pari all'ammontare della imposta evasa. La sopratassa e' ridotta alla meta' se la dichiarazione e' prodotta non oltre trenta giorni dalla data in cui avrebbe dovuto essere presentata.
  Per il tardivo pagamento della imposta o delle singole rate di essa e' dovuta, indipendentemente dalla sopratassa di cui al primo comma, una sopratassa pari al venti per cento della imposta il cui pagamento e' stato ritardato.
- Per le violazioni alle norme regolamentari emanate dai comuni in esecuzione del presente decreto si applica, con l'osservanza delle norme di cui alla [legge 3 maggio 1967, n. 317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-05-03;317), la sanzione pecuniaria da lire diecimila a lire centomila.
+ Per le violazioni alle norme regolamentari emanate dai comuni in esecuzione del presente decreto si applica, con l'osservanza delle norme di cui alla [legge 3 maggio 1967, n. 317](Modificazioni%20al%20sistema%20sanzionatorio%20delle%20norme%20in%20tema%20di%20circolazione%20stradale%20e%20delle%20norme%20dei%20regolamenti%20locali.md), la sanzione pecuniaria da lire diecimila a lire centomila.
  Le disposizioni di cui ai precedenti commi si applicano, per quanto compatibili, anche ai diritti sulle pubbliche affissioni.
 
 ### Art. 52. — Rimozione e sequestro del materiale pubblicitario abusivo
@@ -478,25 +478,25 @@ Il Ministero delle finanze ha facolta' di disporre ispezioni sulle gestioni del 
 Per la prima applicazione i comuni dovranno deliberare entro il 31 gennaio 1973 i regolamenti e le relative tariffe.
  Per la pubblicita' effettuata anteriormente al 1 gennaio 1973 e per la quale non sia stato accertato il relativo tributo, i comuni possono procedere al recupero del tributo medesimo secondo le modalita' di accertamento e di riscossione previste dal presente decreto, fermi restando i termini e le tariffe in vigore prima della suddetta data.
  La disposizione di cui al precedente comma si applica anche ai diritti sulle pubbliche affissioni.
- Per la tassa sulle insegne si applicano le disposizioni dell'[art. 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;638#art_19). I relativi accertamenti debbono essere effettuati, entro il 30 giugno 1973, per le annualita' 1971 e 1972 e, entro il 30 giugno 1974, per l'annualita' 1972.
+ Per la tassa sulle insegne si applicano le disposizioni dell'[art. 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 638](../DPR/Disposizioni%20per%20lattribuzione%20di%20somme%20agli%20enti%20indicati%20nellart.%2014%20della%20legge%209%20ottobre%201971%20n.%20825%20in%20sostituzione%20di%20tributi%20contributi%20e%20compartecipazioni%20e%20norme%20per%20la%20delegabil_3fbd056216dc.md). I relativi accertamenti debbono essere effettuati, entro il 30 giugno 1973, per le annualita' 1971 e 1972 e, entro il 30 giugno 1974, per l'annualita' 1972.
 
 ### Art. 57. — Iscrizione all'albo delle imprese gia' titolari di appalti
 
 Le persone fisiche e giuridiche che all'entrata in vigore del presente decreto sono titolari di appalti per la riscossione della imposta comunale sulla pubblicita' affine o dei diritti sulle pubbliche affissioni sono iscritte, a domanda, nell'albo di cui al precedente art. 40, sempreche' comprovino di avere esercitato il servizio stesso per non meno di un anno.
  Le stesse possono continuare la gestione del servizio fino alla scadenza del contratto in corso alle medesime condizioni in esso stabilite, salvo l'adeguamento dell'aggio o del canone fisso, nonche' del minimo garantito rapportandoli alle maggiori entrate derivanti dall'applicazione del presente decreto.
- Ove le parti non si accordassero sulla misura degli adeguamenti, la determinazione sara' demandata alla commissione arbitrale di cui al [regio decreto-legge 26 gennaio 1931, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-26;36), convertito nella [legge 9 aprile 1931, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-04-09;460).
+ Ove le parti non si accordassero sulla misura degli adeguamenti, la determinazione sara' demandata alla commissione arbitrale di cui al [regio decreto-legge 26 gennaio 1931, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-26;36), convertito nella [legge 9 aprile 1931, n. 460](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2025%20gennaio%201931%20n.%2036%20portante%20modificazioni%20alle%20norme%20relative%20alla%20definizione%20delle%20controversie%20in%20materia%20di%20imposte%20di%20consumo%20tra%20Comuni%20_85748453a7a1.md).
  I capitolati annessi ai contratti di concessione, in atto alla data di entrata in vigore del presente decreto, devono essere adeguati alle norme stabilite dal medesimo, abrogando quelle che risultassero in contrasto.
 
 ### Art. 58. — Norme abrogate
 
 A decorrere dall'entrata in vigore del presente decreto sono abrogati:
- A) la sezione II del capo XII del titolo III del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175);
+ A) la sezione II del capo XII del titolo III del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
  B) il [decreto legislativo del Capo provvisorio dello Stato 8 novembre 1947, n. 1417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-08;1417);
- C) l'ultimo comma dell'[art. 8 della legge 19 dicembre 1952, n. 2356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-19;2356#art_8);
+ C) l'ultimo comma dell'[art. 8 della legge 19 dicembre 1952, n. 2356](Emissione%20di%20buoni%20del%20Tesoro%20novennali%205%20per%20cento%201962.md);
  D) l'[art. 7 della legge 4 aprile 1956, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-04-04;212#art_7);
  E) il [secondo comma dell'art. 17 della legge 22 dicembre 1957, n. 1293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-12-22;1293#art_17-com2);
- F) la [legge 5 luglio 1961, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-05;641);
- G) il [terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213#art_39-com3) e [quarto comma dell'art. 39 della legge 4 novembre 1965, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213#art_39-com4);
+ F) la [legge 5 luglio 1961, n. 641](Disposizioni%20sulle%20pubbliche%20affissioni%20e%20sulla%20pubblicita%20affine.md);
+ G) il [terzo](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md) e [quarto comma dell'art. 39 della legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md);
  H) ogni altra norma che sia incompatibile o in contrasto con le disposizioni del presente decreto.
 
 ### Art. 59.

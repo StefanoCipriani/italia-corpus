@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) in data 1° ottobre 1859;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in data 1° ottobre 1859;
 
 Visto il R. Decreto 18 agosto 1861, con cui venne istituito un Tribunale militare permanente in ogni Capoluogo delle Divisioni militari territoriali;
 
-Vista la Legge 11 febbraio 1864 portante modificazione al [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare;
+Vista la Legge 11 febbraio 1864 portante modificazione al [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare;
 
 Visto il R. Decreto in data 30 dicembre 1865, con cui venne approvato un nuovo quadro del Personale addetto al Tribunale Supremo di Guerra ed ai Tribunali;
 

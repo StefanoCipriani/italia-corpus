@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 settembre 1929, n. 1718](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-09-30;1718), recante modificazioni alla legge di contabilita' generale dello Stato, nei riguardi dei servizi della Regia aeronautica. 
+ E' convertito in legge il [R. decreto-legge 30 settembre 1929, n. 1718](Modificazioni%20alla%20legge%20sulla%20contabilita%20generale%20dello%20Stato%20nei%20riguardi%20dei%20servizi%20della%20Regia%20aeronautica.%20029U1718.md), recante modificazioni alla legge di contabilita' generale dello Stato, nei riguardi dei servizi della Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

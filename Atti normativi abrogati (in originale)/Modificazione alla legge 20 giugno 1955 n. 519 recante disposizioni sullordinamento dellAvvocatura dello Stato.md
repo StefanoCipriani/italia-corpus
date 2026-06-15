@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Nel ruolo organico degli avvocati dello Stato, di cui al [decreto legislativo 2 marzo 1948, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-02;155), modificato dalla [legge 20 giugno 1955, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-06-20;519), sono aumentati: due posti nella qualifica di sostituto avvocato dello Stato; quattro posti nella qualifica di vice avvocato dello Stato; quattordici posti nella qualifica di sostituto avvocato generale dello Stato; tre posti nella qualifica di vice avvocato generale dello Stato.
+Nel ruolo organico degli avvocati dello Stato, di cui al [decreto legislativo 2 marzo 1948, n. 155](../Decreti%20Legislativi/Modificazioni%20dellordinamento%20dellAvvocatura%20dello%20Stato.md), modificato dalla [legge 20 giugno 1955, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-06-20;519), sono aumentati: due posti nella qualifica di sostituto avvocato dello Stato; quattro posti nella qualifica di vice avvocato dello Stato; quattordici posti nella qualifica di sostituto avvocato generale dello Stato; tre posti nella qualifica di vice avvocato generale dello Stato.
  I rispettivi ruoli restano cosi' fissati:
 
  Vice avvocati generali............................ n. 9

@@ -24,7 +24,7 @@ Visto il testo unico delle leggi sugli ufficiali ed agenti di P.
 
 S., approvato con [R. decreto 31 agosto 1907, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690);
 
-Vista la [legge 6 luglio 1911, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;690) con la quale si apportano variazioni all'organico ed agli stipendi dei funzionari di P. S., degli ufficiali e degli agenti del corpo delle guardie di citta';
+Vista la [legge 6 luglio 1911, n. 690](Che%20porta%20i%20provvedimenti%20per%20larma%20dei%20carabinieri%20reali.%20011U0690.md) con la quale si apportano variazioni all'organico ed agli stipendi dei funzionari di P. S., degli ufficiali e degli agenti del corpo delle guardie di citta';
 
 Considerata l'opportunita' di istituire, per riparare a sperequazioni di carriera ed in considerazione della lunga permanenza nei gradi di ufficiali inferiori, una speciale categoria di comandanti di 1ª classe anziani;
 

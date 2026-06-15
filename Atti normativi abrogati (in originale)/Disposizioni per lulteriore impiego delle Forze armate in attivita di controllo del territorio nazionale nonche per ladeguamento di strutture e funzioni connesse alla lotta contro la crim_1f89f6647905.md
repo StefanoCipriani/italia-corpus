@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto-legge 25 luglio 1992, n. 349](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-23;386);
+Visto il [decreto-legge 25 luglio 1992, n. 349](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20luglio%201992%20n.%20349%20recante%20misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md);
 
-Visto il [decreto-legge 30 dicembre 1993, n. 551](Disposizioni%20urgenti%20relative%20allo%20svolgimento%20della%20missione%20umanitaria%20in%20Somalia%20e%20Monzambico.md), convertito, con modificazioni, dalla [legge 22 febbraio 1994, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;125);
+Visto il [decreto-legge 30 dicembre 1993, n. 551](Disposizioni%20urgenti%20relative%20allo%20svolgimento%20della%20missione%20umanitaria%20in%20Somalia%20e%20Monzambico.md), convertito, con modificazioni, dalla [legge 22 febbraio 1994, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20551%20recante%20disposizioni%20urgenti%20relative%20allo%20svolgimento%20della%20missione%20umanitaria%20in%20Somalia%20e%20Mozambico.md);
 
-Visto il [decreto-legge 29 agosto 1994, n. 521](Disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missioni%20umanitarie%20allestero_2.md), convertito dalla [legge 27 ottobre 1994, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;599);
+Visto il [decreto-legge 29 agosto 1994, n. 521](Disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missioni%20umanitarie%20allestero_2.md), convertito dalla [legge 27 ottobre 1994, n. 599](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2029%20agosto%201994%20n.%20521%20recante%20disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missi_237264d1bc8c.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di utilizzare contingenti di Forze armate in operazioni di polizia per contrastare la criminalita' organizzata nel territorio delle province della Sicilia, della Calabria e di Napoli, per la tutela di specifici obiettivi ed al fine di conseguire un piu' diffuso controllo dell'ordine pubblico e di garantire la sicurezza dei cittadini;
 
-Ritenuta, altresi', la straordinaria necessita' ed urgenza di avviare il programma di sostituzione dei contingenti di Forze armate impiegati nelle predette province in operazioni di polizia, con ulteriore personale delle Forze di polizia, di rafforzare talune strutture e funzioni, al fine di intensificare la lotta contro la criminalita' organizzata nei settori di controllo del traffico degli stupefacenti, nonche' di apportare i necessari adeguamenti ai [decreti legislativi 12 maggio 1995, n. 198 e n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;199), concernenti il riordino delle carriere del personale, rispettivamente, dell'Arma dei carabinieri e della Guardia di finanza;
+Ritenuta, altresi', la straordinaria necessita' ed urgenza di avviare il programma di sostituzione dei contingenti di Forze armate impiegati nelle predette province in operazioni di polizia, con ulteriore personale delle Forze di polizia, di rafforzare talune strutture e funzioni, al fine di intensificare la lotta contro la criminalita' organizzata nei settori di controllo del traffico degli stupefacenti, nonche' di apportare i necessari adeguamenti ai [decreti legislativi 12 maggio 1995, n. 198 e n. 199](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20nuovo%20inquadramento%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20della%20Guardia%20di%20finanza.md), concernenti il riordino delle carriere del personale, rispettivamente, dell'Arma dei carabinieri e della Guardia di finanza;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 giugno 1995;
 
@@ -32,7 +32,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Le disposizioni dell'[articolo 1](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md) e dell'[articolo 3, comma 1, del decreto-legge 25 luglio 1992, n. 349](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-23;386), continuano ad applicarsi nelle province della Sicilia, della Calabria e di Napoli fino al 31 agosto 1995. A decorrere dal 1 settembre 1995, i contingenti delle Forze armate messi a disposizione dei prefetti delle predette province saranno gradualmente sostituiti con personale delle Forze di polizia, i cui organici saranno incrementati con successivo provvedimento legislativo in modo da pervenire alla integrale sostituzione del personale delle Forze armate entro il 31 agosto 1996.
+Le disposizioni dell'[articolo 1](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md) e dell'[articolo 3, comma 1, del decreto-legge 25 luglio 1992, n. 349](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20luglio%201992%20n.%20349%20recante%20misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), continuano ad applicarsi nelle province della Sicilia, della Calabria e di Napoli fino al 31 agosto 1995. A decorrere dal 1 settembre 1995, i contingenti delle Forze armate messi a disposizione dei prefetti delle predette province saranno gradualmente sostituiti con personale delle Forze di polizia, i cui organici saranno incrementati con successivo provvedimento legislativo in modo da pervenire alla integrale sostituzione del personale delle Forze armate entro il 31 agosto 1996.
 
 2.
 
@@ -47,7 +47,7 @@ All'[articolo 1 della legge 15 gennaio 1991, n. 16](https://www.normattiva.it/ur
 
 2.
 
-Al [decreto legislativo 12 maggio 1995, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;199), sono apportate le seguenti modificazioni:
+Al [decreto legislativo 12 maggio 1995, n. 199](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20nuovo%20inquadramento%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20della%20Guardia%20di%20finanza.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 36, il numero 4) del comma 5, lettera a), e' soppresso;
                         b)
@@ -56,7 +56,7 @@ Al [decreto legislativo 12 maggio 1995, n. 199](https://www.normattiva.it/uri-re
 
 3.
 
-Per gli inquadramenti del personale nel ruolo degli ispettori dei Carabinieri e della Guardia di finanza, oltre a quanto previsto nei [decreti legislativi 12 maggio 1995, n. 198 e n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;199), non vanno computati gli anni per i quali gli interessati sono stati giudicati non idonei all'avanzamento, nonche' i periodi di detrazione di anzianita' subiti per effetto di condanne penali o di sospensioni dal servizio per motivi disciplinari o di aspettativa per motivi privati.
+Per gli inquadramenti del personale nel ruolo degli ispettori dei Carabinieri e della Guardia di finanza, oltre a quanto previsto nei [decreti legislativi 12 maggio 1995, n. 198 e n. 199](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20nuovo%20inquadramento%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20della%20Guardia%20di%20finanza.md), non vanno computati gli anni per i quali gli interessati sono stati giudicati non idonei all'avanzamento, nonche' i periodi di detrazione di anzianita' subiti per effetto di condanne penali o di sospensioni dal servizio per motivi disciplinari o di aspettativa per motivi privati.
 
 ## Art. 3.
 

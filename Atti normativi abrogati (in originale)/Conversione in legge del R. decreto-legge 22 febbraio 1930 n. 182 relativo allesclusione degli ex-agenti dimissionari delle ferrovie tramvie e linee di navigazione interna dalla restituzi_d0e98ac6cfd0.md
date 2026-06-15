@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 febbraio 1930, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-22;182), relativo all'esclusione degli ex-agenti dimissionari delle ferrovie, tramvie e linee di navigazione interna dalla restituzione dei contributi di previdenza. 
+ E' convertito in legge il [R. decreto-legge 22 febbraio 1930, n. 182](Esclusione%20degli%20ex%20agenti%20dimissionari%20delle%20ferrovie%20tramvie%20e%20linee%20di%20navigazione%20interna%20dalla%20restituzione%20dei%20contributi%20di%20previdenza.%20030U0182.md), relativo all'esclusione degli ex-agenti dimissionari delle ferrovie, tramvie e linee di navigazione interna dalla restituzione dei contributi di previdenza. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 15 ottobre 1923, n. 2476](Norme%20per%20la%20disciplina%20del%20lavoro%20nei%20porti%20del%20Regno.%20023U2476.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), per la disciplina del lavoro nei porti del Regno;
+Visto il [R. decreto-legge 15 ottobre 1923, n. 2476](Norme%20per%20la%20disciplina%20del%20lavoro%20nei%20porti%20del%20Regno.%20023U2476.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), per la disciplina del lavoro nei porti del Regno;
 
-Visto il [R. decreto-legge 1° febbraio 1925, n. 232](Istituzione%20degli%20uffici%20del%20lavoro%20portuale.%20025U0232.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), relativo alla istituzione degli Uffici del lavoro portuale;
+Visto il [R. decreto-legge 1° febbraio 1925, n. 232](Istituzione%20degli%20uffici%20del%20lavoro%20portuale.%20025U0232.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), relativo alla istituzione degli Uffici del lavoro portuale;
 
 Visto il [R. decreto-legge 23 ottobre 1927, n. 2162](Norme%20complementari%20per%20la%20disciplina%20del%20lavoro%20nei%20porti.%20027U2162.md), convertito nella [legge 14 giugno 1928, n. 1461](Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20ottobre%201927%20n.%202162%20che%20reca%20norme%20complementari%20per%20la%20disciplina%20del%20lavoro%20nei%20porti%20del%20Regno.%20028U1461.md), contenente norme complementari per la disciplina del lavoro nei porti;
 

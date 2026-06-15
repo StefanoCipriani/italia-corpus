@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 settembre 1933, n. 1275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-21;1275), recante norme relative all'avanzamento dei capitani anziani delle armi di fanteria, cavalleria, artiglieria e genio che hanno partecipato alla guerra 1915-1918. 
+ E' convertito in legge il [R. decreto-legge 21 settembre 1933, n. 1275](Norme%20relative%20allavanzamento%20dei%20capitani%20anziani%20delle%20armi%20di%20fanteria%20cavalleria%20artiglieria%20e%20genio%20che%20hanno%20partecipato%20alla%20guerra%201915-18.%20033U1275.md), recante norme relative all'avanzamento dei capitani anziani delle armi di fanteria, cavalleria, artiglieria e genio che hanno partecipato alla guerra 1915-1918. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

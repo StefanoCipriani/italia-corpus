@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Capitolo n. 337 ter. - Spese per la Commissione 
  Reale istituita in dipendenza della [legge 29 marzo 
- 1900, n. 101](Circa%20i%20provvedimenti%20definitivi%20per%20gli%20Istituti%20di%20previdenza%20del%20personale%20ferroviario.%20000U0101.md), con [R. decreto 8 aprile 1900, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-04-08;137), 
+ 1900, n. 101](Circa%20i%20provvedimenti%20definitivi%20per%20gli%20Istituti%20di%20previdenza%20del%20personale%20ferroviario.%20000U0101.md), con [R. decreto 8 aprile 1900, n. 137](Col%20quale%20si%20istituisce%20una%20Commissione%20incaricata%20di%20eseguire%20le%20valutazioni%20circa%20i%20disavanzi%20delle%20attuali%20Casse%20pensioni%20e%20di%20Mutuo%20soccorso%20per%20il%20personale%20delle%20Societa%20esercenti%20l_7349bbfe36d9.md), 
  per la valutazione e il riparto dei disavanzi degli 
  Istituti di previdenza del personale ferroviario . . L. 55.000,-- 
  Capitolo n. 337 quater. - Spese per la Commissione 

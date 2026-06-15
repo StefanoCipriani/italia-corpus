@@ -26,7 +26,7 @@ Sulla proposta del Guardasigilli Ministro Segretario di Stato per la giustizia e
 
 ## Art. 1.
 
-Le disposizioni penali integrative del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) che hanno vigore nella citta' di Fiume e nel territorio annesso al Regno in virtu' dell'[art. 2 del R. decreto-legge 22 febbraio 1924, n. 211](Approvazione%20dellAccordo%20concluso%20fra%20lItalia%20ed%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni%20sottoscritto%20a%20Roma%20il%2027%20gennaio%201924%20col%20quale%20si%20stabilisce%20che%20la%20citta%20di%20Fiume%20ed%20il%20territorio%20_db1707827c7e.md), sono le seguenti: 
+Le disposizioni penali integrative del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) che hanno vigore nella citta' di Fiume e nel territorio annesso al Regno in virtu' dell'[art. 2 del R. decreto-legge 22 febbraio 1924, n. 211](Approvazione%20dellAccordo%20concluso%20fra%20lItalia%20ed%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni%20sottoscritto%20a%20Roma%20il%2027%20gennaio%201924%20col%20quale%20si%20stabilisce%20che%20la%20citta%20di%20Fiume%20ed%20il%20territorio%20_db1707827c7e.md), sono le seguenti: 
  
  1° la [legge 19 luglio 1894, n. 314](Sui%20reati%20commessi%20con%20materie%20esplodenti.%20094U0314.md), sui reati commessi con materie esplodenti; 
  
@@ -34,7 +34,7 @@ Le disposizioni penali integrative del [Codice penale](https://www.normattiva.it
  
  3° la [legge 26 dicembre 1920, n. 1819](Relativa%20alle%20contravvenzioni%20per%20porto%20darmi.%20020U1819.md), contenente penalita' per le contravvenzioni per parto d'armi; 
  
- 4° la [legge 26 giugno 1904, n. 285](Impiego%20dei%20condannati%20nei%20lavori%20di%20bonificazione%20dei%20terreni%20incolti%20e%20malarici.%20004U0285.md), sull'impiego dei condannati alla pena della reclusione, in lavori di dissodamento e di bonificazione di terreni incolti o malarici, fino a che non siano istituiti gli stabilimenti richiesti dall'[art. 13 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_13), concernenti la pena della reclusione.
+ 4° la [legge 26 giugno 1904, n. 285](Impiego%20dei%20condannati%20nei%20lavori%20di%20bonificazione%20dei%20terreni%20incolti%20e%20malarici.%20004U0285.md), sull'impiego dei condannati alla pena della reclusione, in lavori di dissodamento e di bonificazione di terreni incolti o malarici, fino a che non siano istituiti gli stabilimenti richiesti dall'[art. 13 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), concernenti la pena della reclusione.
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ Fino a nuova disposizione, nei territori indicati nell'articolo 1, restano in vi
 
 ## Art. 3.
 
-Salvo le disposizioni dell'articolo seguente, sono estese ai territori anzidetti quelle comprese negli articoli 20 a 27 del [R. decreto 1° dicembre 1889, n. 6509](Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md), concernenti il coordinamento del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno con le altre leggi anteriori alla pubblicazione del Codice stesso e rimaste in vigore.
+Salvo le disposizioni dell'articolo seguente, sono estese ai territori anzidetti quelle comprese negli articoli 20 a 27 del [R. decreto 1° dicembre 1889, n. 6509](Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md), concernenti il coordinamento del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno con le altre leggi anteriori alla pubblicazione del Codice stesso e rimaste in vigore.
 
 ## Art. 4.
 
@@ -60,15 +60,15 @@ Quando in una disposizione rimasta in vigore nei territori indicati nell'articol
 
 ## Art. 5.
 
-Nell'applicazione di leggi penali rimaste in vigore nei territori indicati nell'art. 1, si osservano le disposizioni che escludono o diminuiscono la responsabilita', secondo il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno; ma qualora concorrano circostanze attenuanti non specificatamente contemplate da tale Codice, in luogo delle diminuzioni, nella misura stabilita dall'art. 59, all'ergastolo e' sostituita la reclusione per venti anni, e le altre pene sono diminuite da un sesto a due terzi.
+Nell'applicazione di leggi penali rimaste in vigore nei territori indicati nell'art. 1, si osservano le disposizioni che escludono o diminuiscono la responsabilita', secondo il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno; ma qualora concorrano circostanze attenuanti non specificatamente contemplate da tale Codice, in luogo delle diminuzioni, nella misura stabilita dall'art. 59, all'ergastolo e' sostituita la reclusione per venti anni, e le altre pene sono diminuite da un sesto a due terzi.
 
 ## Art. 6.
 
-Quando in disposizioni vigenti nei suddetti territori si fa richiamo a titoli o disposizioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) ungarico s'intende fatto richiamo alle disposizioni corrispondenti del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno.
+Quando in disposizioni vigenti nei suddetti territori si fa richiamo a titoli o disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ungarico s'intende fatto richiamo alle disposizioni corrispondenti del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno.
 
 ## Art. 7.
 
-Le contravvenzioni a disposizioni sancite da leggi non abrogate in Fiume e territori annessi, le quali trovavano la loro sanzione nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) ungarico e non la trovano nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno, sono equiparate alle contravvenzioni previste dall'art. 434 di quest'ultimo e punite con le pene dal medesimo stabilite, salvo che il fatto non costituisca un reato piu' grave espressamente preveduto dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno.
+Le contravvenzioni a disposizioni sancite da leggi non abrogate in Fiume e territori annessi, le quali trovavano la loro sanzione nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ungarico e non la trovano nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, sono equiparate alle contravvenzioni previste dall'art. 434 di quest'ultimo e punite con le pene dal medesimo stabilite, salvo che il fatto non costituisca un reato piu' grave espressamente preveduto dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno.
 
 ## Art. 8.
 

@@ -16,19 +16,19 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 16 maggio 1940, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-16;691);
+Vista la [legge 16 maggio 1940, n. 691](Istituzione%20del%20a%20%20Ruolo%20per%20gli%20affari%20albanesi%20%20presso%20il%20Ministero%20degli%20affari%20esteri.%20040U0691.md);
 
-Visto il testo organico dell'ordinamento del personale degli ufficiali giudiziari approvato col [R. decreto 28 dicembre 1924, n. 2271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-28;2271);
+Visto il testo organico dell'ordinamento del personale degli ufficiali giudiziari approvato col [R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md);
 
-Visto la [legge 25 giugno 1940, n. 828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-25;828);
+Visto la [legge 25 giugno 1940, n. 828](Provvedimenti%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi.%20040U0828.md);
 
-Vista la [legge 22 maggio 1942, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-22;703);
+Vista la [legge 22 maggio 1942, n. 703](Provvedimenti%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi.%20042U0703.md);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 6 dicembre 1943, n. 18/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;18);
+Visto il [R. decreto-legge 6 dicembre 1943, n. 18/B](Miglioramenti%20economici%20di%20carattere%20temporaneo%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20degli%20enti%20ausiliari%20dello%20Stato%20e%20di%20diritto%20pubblico.%20043U0018.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -46,27 +46,27 @@ I diritti e le indennita' di trasferta in materia civile e penale, stabiliti per
 
 ## Art. 2.
 
-La misura della retribuzione minima annua garantita dallo Stato agli ufficiali giudiziari, a norma dell'[art. 2 della legge 25 giugno 1940, n. 828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-25;828#art_2), e' aumentata ai sensi dell'[art. 1 del R. decreto-legge 6 dicembre 1943, n. 18/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;18#art_1).
+La misura della retribuzione minima annua garantita dallo Stato agli ufficiali giudiziari, a norma dell'[art. 2 della legge 25 giugno 1940, n. 828](Provvedimenti%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi.%20040U0828.md), e' aumentata ai sensi dell'[art. 1 del R. decreto-legge 6 dicembre 1943, n. 18/B](Miglioramenti%20economici%20di%20carattere%20temporaneo%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20degli%20enti%20ausiliari%20dello%20Stato%20e%20di%20diritto%20pubblico.%20043U0018.md).
 
 ## Art. 3.
 
-Spetta agli ufficiali giudiziari una indennita' temporanea nella misura stabilita per il personale statale con l'[art. 4 primo comma lettera c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;328#art_4-com1-letc) e [secondo comma del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;328#art_4-com2). 
+Spetta agli ufficiali giudiziari una indennita' temporanea nella misura stabilita per il personale statale con l'[art. 4 primo comma lettera c)](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md) e [secondo comma del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md). 
  
  E' altresi' dovuta agli ufficiali giudiziari' l'indennita' giornaliera di disagiatissima residenza di cui all'art. 10 del detto decreto Luogotenenziale per la durata e con le limitazioni, modalita' e condizioni in esso stabilite e nella misura spettante al personale statale del gruppo C del grado 12°.
 
 ## Art. 4.
 
-A decorrere dal 1° luglio 1943 agli ufficiali giudiziari, indipendentemente dalle entita' degli emolumenti di cui all'[art. 1, comma 2°, della legge 22 maggio 1942, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-22;703#art_1-com2), spettano le indennita' a titolo di aggiunta di famiglia e l'assegno temporaneo di guerra nella misura stabilita per il personale di ruolo delle Amministrazioni statali.
+A decorrere dal 1° luglio 1943 agli ufficiali giudiziari, indipendentemente dalle entita' degli emolumenti di cui all'[art. 1, comma 2°, della legge 22 maggio 1942, n. 703](Provvedimenti%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi.%20042U0703.md), spettano le indennita' a titolo di aggiunta di famiglia e l'assegno temporaneo di guerra nella misura stabilita per il personale di ruolo delle Amministrazioni statali.
 
 ## Art. 5.
 
-Ai fini del versamento all'Erario del 50 per cento e del 70 per cento dei proventi riscossi dagli ufficiali giudiziari ai sensi dell'[art. 3 della legge 22 dicembre 1932, n. 1675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-12-22;1675#art_3), modificato dall'[art. 3 della legge 25 giugno 1940, n. 828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-25;828#art_3), l'ammontare dei proventi stessi e' stabilito, rispettivamente, a L. 48.000 e a L. 70.000 annue limitatamente per gli ufficiali giudiziari addetti ad uffici con sede in comuni aventi una popolazione superiore ai 200.000 abitanti. 
+Ai fini del versamento all'Erario del 50 per cento e del 70 per cento dei proventi riscossi dagli ufficiali giudiziari ai sensi dell'[art. 3 della legge 22 dicembre 1932, n. 1675](Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md), modificato dall'[art. 3 della legge 25 giugno 1940, n. 828](Provvedimenti%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi.%20040U0828.md), l'ammontare dei proventi stessi e' stabilito, rispettivamente, a L. 48.000 e a L. 70.000 annue limitatamente per gli ufficiali giudiziari addetti ad uffici con sede in comuni aventi una popolazione superiore ai 200.000 abitanti. 
  
- La misura della detrazione della spesa per i commessi stabilita nel 30 per cento con l'art. 5 della citata [legge 25 giugno 1940, n. 828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-25;828), e' elevata a1 40 per cento dell'ammontare complessivo dei proventi e il limite massimo della detrazione medesima stabilito per ciascun commesso e' elevato a L. 12.000.
+ La misura della detrazione della spesa per i commessi stabilita nel 30 per cento con l'art. 5 della citata [legge 25 giugno 1940, n. 828](Provvedimenti%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi.%20040U0828.md), e' elevata a1 40 per cento dell'ammontare complessivo dei proventi e il limite massimo della detrazione medesima stabilito per ciascun commesso e' elevato a L. 12.000.
 
 ## Art. 6.
 
-Ai commessi autorizzati in aggiunta alla retribuzione mensile attualmente ad essi corrisposta, dagli ufficiali giudiziari dai quali dipendono e' attribuita una integrazione temporanea nella misura stabilita per il personale statale dall'[art. 1 del R. decreto-legge 6 dicembre 1943, n. 18/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;18#art_1). 
+Ai commessi autorizzati in aggiunta alla retribuzione mensile attualmente ad essi corrisposta, dagli ufficiali giudiziari dai quali dipendono e' attribuita una integrazione temporanea nella misura stabilita per il personale statale dall'[art. 1 del R. decreto-legge 6 dicembre 1943, n. 18/B](Miglioramenti%20economici%20di%20carattere%20temporaneo%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20degli%20enti%20ausiliari%20dello%20Stato%20e%20di%20diritto%20pubblico.%20043U0018.md). 
  
  In nessun caso la retribuzione mensile, maggiorata, della integrazione, potra' essere inferiore a L. 650.
 
@@ -74,7 +74,7 @@ Ai commessi autorizzati in aggiunta alla retribuzione mensile attualmente ad ess
 
 Spetta ai commessi autorizzati una indennita' temporanea nella misura concessa al personale statale con l'[art. 4, primo comma, lettera c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1914-11-18;328#art_4-com1-letc) e [secondo comma del decreto legislativo Luogotenenziale 18 novembre 1914, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1914-11-18;328#art_4-com2). 
  
- E' altresi' dovuta ai commessi autorizzati l'indennita' giornaliera di disagiatissima residenza di cui all'art. 10 del detto decreto Luogotenenziale per la durata e con le limitazioni, modalita' e condizioni in esso stabilite e' nella misura spettante al personale non di ruolo di quarta categoria di cui al [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100). 
+ E' altresi' dovuta ai commessi autorizzati l'indennita' giornaliera di disagiatissima residenza di cui all'art. 10 del detto decreto Luogotenenziale per la durata e con le limitazioni, modalita' e condizioni in esso stabilite e' nella misura spettante al personale non di ruolo di quarta categoria di cui al [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md). 
  
  Il versamento delle somme dovute in virtu' dei comma precedenti e' effettuato ai commessi autorizzati dall'ufficiale giudiziario da cui dipendono, che ne otterra' il rimborso dall'Erario con mandato di pagamento rilasciatogli dal capo dell'ufficio giudiziario con le modalita' stabilite per la liquidazione dell'indennita' supplementare.
 

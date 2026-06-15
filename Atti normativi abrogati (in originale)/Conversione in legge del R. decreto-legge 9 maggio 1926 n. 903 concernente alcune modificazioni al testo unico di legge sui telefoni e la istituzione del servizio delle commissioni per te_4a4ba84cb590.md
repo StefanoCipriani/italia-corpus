@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 maggio 1926, n. 903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-09;903), concernente alcune modificazioni al testo unico di legge sui telefoni e la istituzione del servizio delle commissioni per telefono, aggiungendo all'art. 3 le seguenti parole: 
+ E' convertito in legge il [R. decreto-legge 9 maggio 1926, n. 903](Modificazioni%20al%20testo%20unico%20di%20legge%20sui%20telefoni%20e%20istituzione%20del%20servizio%20delle%20commissioni%20per%20telefono.%20026U0903.md), concernente alcune modificazioni al testo unico di legge sui telefoni e la istituzione del servizio delle commissioni per telefono, aggiungendo all'art. 3 le seguenti parole: 
  
  «I termini per effettuare le commissioni potranno essere abbreviati con decreto del Ministro per le comunicazioni». 
  

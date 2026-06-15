@@ -40,7 +40,7 @@ Resta fermo, salvo le modificazioni di coordinamento che saranno necessarie in d
  
  L'educazione fisica che si impartisce negli Istituti previsti nel precedente comma sara' sottoposta alla vigilanza dell'Opera nazionale «Balilla». 
  
- Resta altresi' fermo, con la stessa riserva di cui al primo comma del presente articolo, quanto e' stabilito dagli articoli 103, ultimo comma, del [R. decreto 6 maggio 1923, numero 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), [12 del R. decreto 15 marzo 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;12), [n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684), e 2 del [R. decreto 31 dicembre 1923, n. 3039](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3039), circa gli obblighi ivi fatti agli enti locali.
+ Resta altresi' fermo, con la stessa riserva di cui al primo comma del presente articolo, quanto e' stabilito dagli articoli 103, ultimo comma, del [R. decreto 6 maggio 1923, numero 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), [12 del R. decreto 15 marzo 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;12), [n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684), e 2 del [R. decreto 31 dicembre 1923, n. 3039](Disposizioni%20concernenti%20lEnte%20nazionale%20per%20leducazione%20fisica.%20023U3039.md), circa gli obblighi ivi fatti agli enti locali.
 
 ## Art. 4.
 

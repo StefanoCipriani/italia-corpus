@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'Istituto nazionale per le opere pubbliche dei Comuni, costituito con [R. decreto-legge 2 settembre 1919, n. 1628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-09-02;1628), convertito in legge con la legge 17 aprile 1925-III, n. 473, e' soppresso con effetto dalla data che sara' stabilita dal Ministro per i lavori pubblici, ed in ogni caso non oltre due mesi dalla data di pubblicazione della presente legge.
+L'Istituto nazionale per le opere pubbliche dei Comuni, costituito con [R. decreto-legge 2 settembre 1919, n. 1628](Che%20istituisce%20lIstituto%20nazionale%20per%20le%20opere%20pubbliche%20dei%20Comuni%20stabilendone%20lordinamento.%20019U1628.md), convertito in legge con la legge 17 aprile 1925-III, n. 473, e' soppresso con effetto dalla data che sara' stabilita dal Ministro per i lavori pubblici, ed in ogni caso non oltre due mesi dalla data di pubblicazione della presente legge.
 
 ## Art. 2.
 
@@ -28,9 +28,9 @@ Le eventuali attivita' residue dell'Istituto, dopo ultimata la gestione degli in
 
 ## Art. 4.
 
-Sono conservate al predetto Ufficio di stralcio le agevolazioni tributarie consentite a favore dell'Istituto nazionale per le opere pubbliche dei Comuni con l'ultimo comma dell'[Art. 13 del R. decreto-legge 2 settembre 1919, n. 1628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-09-02;1628#art_13). 
+Sono conservate al predetto Ufficio di stralcio le agevolazioni tributarie consentite a favore dell'Istituto nazionale per le opere pubbliche dei Comuni con l'ultimo comma dell'[Art. 13 del R. decreto-legge 2 settembre 1919, n. 1628](Che%20istituisce%20lIstituto%20nazionale%20per%20le%20opere%20pubbliche%20dei%20Comuni%20stabilendone%20lordinamento.%20019U1628.md). 
  
- Le disposizioni degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-09-02;1628#art_9) e [10, 1° comma, del R. decreto-legge 2 settembre 1919, n. 1628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-09-02;1628#art_10-com1), continueranno ad avere vigore nei riguardi dell'Ufficio di stralcio fino all'espletamento degli incarichi ad esso trasferiti a norma del precedente art. 2.
+ Le disposizioni degli [articoli 9](Che%20istituisce%20lIstituto%20nazionale%20per%20le%20opere%20pubbliche%20dei%20Comuni%20stabilendone%20lordinamento.%20019U1628.md) e [10, 1° comma, del R. decreto-legge 2 settembre 1919, n. 1628](Che%20istituisce%20lIstituto%20nazionale%20per%20le%20opere%20pubbliche%20dei%20Comuni%20stabilendone%20lordinamento.%20019U1628.md), continueranno ad avere vigore nei riguardi dell'Ufficio di stralcio fino all'espletamento degli incarichi ad esso trasferiti a norma del precedente art. 2.
 
 ## Art. 5.
 

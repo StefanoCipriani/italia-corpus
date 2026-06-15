@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 febbraio 1930, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-18;93), concernente la istituzione e l'ordinamento della Milizia per la difesa aerea territoriale (D.A.T.). 
+ E' convertito in legge il [R. decreto-legge 18 febbraio 1930, n. 93](Istituzione%20e%20ordinamento%20della%20Milizia%20per%20la%20difesa%20aerea%20territoriale%20D.A.T..%20030U0093.md), concernente la istituzione e l'ordinamento della Milizia per la difesa aerea territoriale (D.A.T.). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 20 febbraio 1927, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-20;328), concernente disposizioni per la ricostruzione degli edifici di culto e di quelli adibiti a scopi di beneficenza, di educazione e di istruzione nelle zone terremotate, modificando il primo comma dell'art. 6 come segue: 
+ E' convertito in legge il [R. decreto legge 20 febbraio 1927, n. 328](Disposizioni%20per%20la%20ricostruzione%20degli%20edifici%20di%20culto%20e%20di%20quelli%20adibiti%20a%20scopi%20di%20beneficenza%20di%20educazione%20e%20di%20istruzione%20nelle%20zone%20terremotate.%20027U0328.md), concernente disposizioni per la ricostruzione degli edifici di culto e di quelli adibiti a scopi di beneficenza, di educazione e di istruzione nelle zone terremotate, modificando il primo comma dell'art. 6 come segue: 
  
  «Gli atti di trapasso dei diritti a mutuo o a contributo, stipulati entro il 30 giugno 1930 dagli ordinari pro tempore della Mensa arcivescovile di Messina, nonche' dagli ordinari pro tempore della archidiocesi di Reggio Calabria e delle diocesi di Mileto, Gerace, Oppido Mamertina, Bova, Nicotera e Tropea, e gli atti stipulati pure entro il 30 giugno 1930 dai medesimi ordinari per gli scopi enumerati nel presente decreto, sono soggetti alla tassa fissa di registro ed ipotecaria di L. 10, salvo gli emolumenti ai conservatori delle ipoteche». 
  

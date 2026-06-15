@@ -30,18 +30,18 @@ Al fine di soddisfare le esigenze assistenziali del policlinico Umberto I, l'Uni
 
 1.
 
-Il numero 3) del [primo comma dell'articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_13-com1), e' sostituito dal seguente: 
+Il numero 3) del [primo comma dell'articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), e' sostituito dal seguente: 
  "3) nomina a componente delle istituzioni delle Comunita' europee e delle Nazioni Unite;".
 
 2.
 
-In attuazione delle disposizioni di cui all'[articolo 5, commi 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_5-com10) e [12, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_5-com12), e' abrogato il [comma 2 dell'articolo 3 del decreto-legge 2 marzo 1987, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-03-02;57#art_3-com2), convertito, con modificazioni, dalla [legge 22 aprile 1987, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-22;58).
+In attuazione delle disposizioni di cui all'[articolo 5, commi 10](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e [12, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e' abrogato il [comma 2 dell'articolo 3 del decreto-legge 2 marzo 1987, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-03-02;57#art_3-com2), convertito, con modificazioni, dalla [legge 22 aprile 1987, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-22;58).
 
 ## Art. 3.
 
 1.
 
-La disposizione di cui all'[articolo 13, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_13-com2) e [3, della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_13-com3), si interpreta nel senso che essa si applica anche alle universita' e agli istituti di istruzione universitaria.
+La disposizione di cui all'[articolo 13, commi 2](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md) e [3, della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md), si interpreta nel senso che essa si applica anche alle universita' e agli istituti di istruzione universitaria.
 
 ## Art. 4.
 
@@ -62,7 +62,7 @@ Esclusivamente nell'ambito delle strutture di cui al comma 1, le universita' pos
 3.
 
 L'assunzione avviene per selezione pubblica, le cui modalita' sono disciplinate dalle universita' secondo i rispettivi ordinamenti. 
-Ai titolari dei contratti di cui all'[articolo 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_28), in servizio nell'anno accademico 1992-1993, che siano in possesso dei requisiti di cui al comma 2, ovvero di una comprovata esperienza maturata in tale attivita' per almeno un triennio, certificata dai competenti organi accademici, e' attribuita priorita' ai fini dell'assunzione.
+Ai titolari dei contratti di cui all'[articolo 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), in servizio nell'anno accademico 1992-1993, che siano in possesso dei requisiti di cui al comma 2, ovvero di una comprovata esperienza maturata in tale attivita' per almeno un triennio, certificata dai competenti organi accademici, e' attribuita priorita' ai fini dell'assunzione.
 
 4.
 
@@ -70,7 +70,7 @@ Le universita' procedono annualmente alla verifica dell'attivita' svolta. L'esit
 
 5.
 
-L'[articolo 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_28), e' abrogato.
+L'[articolo 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), e' abrogato.
 
 ## Art. 6.
 
@@ -82,13 +82,13 @@ I cittadini italiani che hanno conseguito all'estero un titolo di studio di scuo
 
 1.
 
-Tra i requisiti culturali previsti nell'allegato C al decreto del Presidente del Consiglio dei Ministri 24 settembre 1981, pubblicato nella Gazzetta Ufficiale n. 340 dell'11 dicembre 1981, cosi' come richiamato dall'[articolo 22, comma 11, del decreto del Presidente della Repubblica 3 agosto 1990, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-03;319#art_22-com11), e' compreso il titolo del diploma di laurea.
+Tra i requisiti culturali previsti nell'allegato C al decreto del Presidente del Consiglio dei Ministri 24 settembre 1981, pubblicato nella Gazzetta Ufficiale n. 340 dell'11 dicembre 1981, cosi' come richiamato dall'[articolo 22, comma 11, del decreto del Presidente della Repubblica 3 agosto 1990, n. 319](../DPR/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2021%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20universita%20di%20cui%20allart.%209%20de_f82d8fcf6f26.md), e' compreso il titolo del diploma di laurea.
 
 ## Art. 8.
 
 1.
 
-Le universita' possono derogare dai limiti massimi previsti nel [comma 15 dell'articolo 5 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_5-com15), nello stabilire i contributi di cui allo stesso comma, in relazione a particolari esigenze di organizzazione e di strumentazione didattica e scientifica.
+Le universita' possono derogare dai limiti massimi previsti nel [comma 15 dell'articolo 5 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), nello stabilire i contributi di cui allo stesso comma, in relazione a particolari esigenze di organizzazione e di strumentazione didattica e scientifica.
 
 2.
 
@@ -96,7 +96,7 @@ I contributi universitari sono finalizzati al miglioramento delle infrastrutture
 
 3.
 
-Il contributo suppletivo di cui all'[articolo 4 della legge 18 dicembre 1951, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551#art_4), e' mantenuto anche per gli anni accademici 1994-1995 e 1995-1996.
+Il contributo suppletivo di cui all'[articolo 4 della legge 18 dicembre 1951, n. 1551](Aumento%20dei%20contributi%20statali%20a%20favore%20delle%20Universita%20e%20degli%20Istituti%20superiori%20e%20dei%20contributi%20per%20lassistenza%20agli%20studenti%20ampliamento%20delle%20esenzioni%20tributarie%20per%20gli%20studenti%20_eef25c2651a6.md), e' mantenuto anche per gli anni accademici 1994-1995 e 1995-1996.
 
 ## Art. 9.
 

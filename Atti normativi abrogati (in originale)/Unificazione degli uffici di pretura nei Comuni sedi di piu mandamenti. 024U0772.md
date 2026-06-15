@@ -24,7 +24,7 @@ Nei Comuni che sieno sede di piu' mandamenti le preture sono riunite e, insieme 
  
  L'ufficio di pretura e' diviso in sezioni ed e' posto sotto la direzione del magistrato piu' anziano, il quale distribuisce il lavoro fra le sezioni. 
  
- Nei comuni in cui ha sede un tribunale al quale, a norma dell'[art. 2 del R. decreto 3 maggio 1923, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1165#art_2), sia destinato in qualita' di presidente e di procuratore del Re, un magistrato avente grado rispettivamente di consigliere e sostituto procuratore generale di Cassazione o parificato, la direzione dell'ufficio di pretura e' affidato a un magistrato avente grado di consigliere di Corte di appello. 
+ Nei comuni in cui ha sede un tribunale al quale, a norma dell'[art. 2 del R. decreto 3 maggio 1923, n. 1165](Che%20stabilisce%20il%20numero%20dei%20magistrati%20dei%20funzionari%20delle%20cancellerie%20e%20segreterie%20giudiziarie%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari%20e%20norme%20di%20attuazione.%20023U1165.md), sia destinato in qualita' di presidente e di procuratore del Re, un magistrato avente grado rispettivamente di consigliere e sostituto procuratore generale di Cassazione o parificato, la direzione dell'ufficio di pretura e' affidato a un magistrato avente grado di consigliere di Corte di appello. 
  
  I magistrati addetti a qualsiasi ufficio di pretura conservano la denominazione inerente al proprio grado con l'aggiunta della qualifica di pretore titolare per il dirigente, di pretore per i giudici o i giudici aggiunti e di vice pretore per gli uditori.
 

@@ -16,7 +16,7 @@ Visto l'accordo economico per la disciplina del commercio all'ingrosso dello zuc
 
 Udita la Corporazione delle bietole e dello zucchero sul problema del commercio dello zucchero;
 
-Vista la deliberazione del Comitato corporativo centrale in data 24 gennaio 1936-XIV, che approva l'accordo suindicato, ai sensi dell'[art. 11 della legge 5 febbraio 1934, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;163#art_11), e dell'art. 1 del R. decreto-legge 18 aprile 1935-XIII, n. 441, convertito in legge con la legge 12 settembre 1935-XIII, n. 1745;
+Vista la deliberazione del Comitato corporativo centrale in data 24 gennaio 1936-XIV, che approva l'accordo suindicato, ai sensi dell'[art. 11 della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md), e dell'art. 1 del R. decreto-legge 18 aprile 1935-XIII, n. 441, convertito in legge con la legge 12 settembre 1935-XIII, n. 1745;
 
 Visto l'art. 11 della legge 5 febbraio 1934, n. 163; Decreta:
 

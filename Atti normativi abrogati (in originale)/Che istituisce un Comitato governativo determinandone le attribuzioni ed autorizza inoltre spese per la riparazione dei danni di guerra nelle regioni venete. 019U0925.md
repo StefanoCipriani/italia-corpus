@@ -161,7 +161,7 @@ Di tali aperture sussidiarie verra' dai delegati reso conto al Comitato governat
 
 ### Art. 14.
 
-Per la esecuzione dei lavori previsti nell'art. 8 sono richiamate in vigore le disposizioni dell'[art. 7 del R. decreto 6 febbraio 1909, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-02-06;44#art_7), e quelle del [R. decreto 6 maggio 1909, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-05-06;255), convertiti nella [legge 21 luglio 1910, n. 579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-21;579).
+Per la esecuzione dei lavori previsti nell'art. 8 sono richiamate in vigore le disposizioni dell'[art. 7 del R. decreto 6 febbraio 1909, n. 44](Che%20autorizza%20lo%20sgombero%20delle%20macerie%20e%20dei%20materiali%20caduti%20o%20che%20potessero%20ancora%20cadere%20sulle%20aree%20pubbliche%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0044.md), e quelle del [R. decreto 6 maggio 1909, n. 255](Portante%20disposizioni%20circa%20il%20risarcimento%20dei%20danni%20cagionati%20dalle%20demolizioni%20dei%20luoghi%20colpiti%20dal%20terremoto.%20009U0255.md), convertiti nella [legge 21 luglio 1910, n. 579](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20decreti%20Reali%20sul%20terremoto%20del%2028%20dicembre%201908.%20010U0579.md).
 
 ### Art. 15.
 
@@ -263,7 +263,7 @@ CAPO V.
 
 ### Art. 28.
 
-Le occupazioni temporanee dei beni immobili, che possono occorrere per la esecuzione delle opere previste nel [decreto Luogotenenziale 23 febbraio 1919, n. 291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-23;291), saranno dai prefetti ordinate ai sensi degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_71), modificata da quella del 18 dicembre 1879, n. 5188.
+Le occupazioni temporanee dei beni immobili, che possono occorrere per la esecuzione delle opere previste nel [decreto Luogotenenziale 23 febbraio 1919, n. 291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-23;291), saranno dai prefetti ordinate ai sensi degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), modificata da quella del 18 dicembre 1879, n. 5188.
 
 ### Art. 29.
 
@@ -275,7 +275,7 @@ La procedura per la determinazione e il pagamento delle indennita' per le esprop
 
 ### Art. 31.
 
-Le stime compilate dagli uffici del genio civile, allo scopo di determinare le indennita' da offrire ai proprietari per le espropriazioni, equivalgono, per tutti gli effetti dell'[art. 43 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_43), alla perizia di cui all'art. 32 della legge medesima ogni qual volta siano redatte in base a stati di consistenza alla cui compilazione siasi proceduto con le modalita' stabilite dal seguente articolo.
+Le stime compilate dagli uffici del genio civile, allo scopo di determinare le indennita' da offrire ai proprietari per le espropriazioni, equivalgono, per tutti gli effetti dell'[art. 43 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), alla perizia di cui all'art. 32 della legge medesima ogni qual volta siano redatte in base a stati di consistenza alla cui compilazione siasi proceduto con le modalita' stabilite dal seguente articolo.
 
 ### Art. 32.
 
@@ -293,7 +293,7 @@ Almeno dieci giorni prima di procedere alla visita per l'accertamento delle cond
 
 ### Art. 33.
 
-Un estratto dei decreti contemplati nell'[articolo 53 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_53), deve essere inserito, entro il termine di cinque giorni, nel foglio destinato per gli annunzi legali della Provincia. 
+Un estratto dei decreti contemplati nell'[articolo 53 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), deve essere inserito, entro il termine di cinque giorni, nel foglio destinato per gli annunzi legali della Provincia. 
  
  Coloro che hanno ragioni da esperire sulla indennita' possono impugnarla come insufficiente nel termine di trenta giorni dalla suddetta inserzione e nei modi indicati dall'art. 51 della citata legge. L'impugnativa e' fatta avanti la Commissione di cui all'art. 39 del presente decreto. Essa, delibato il titolo all'azione, decide sulla misura della indennita', salvo all'autorita' giudiziaria di pronunciarsi, in sede di opposizione al pagamento, sulla sussistenza del diritto asserito. 
  
@@ -327,7 +327,7 @@ Se entro il termine di tre mesi di cui all'ultimo comma dell'articolo 33 siano d
 
 ### Art. 38.
 
-Il decreto del prefetto, di cui all'[art. 72 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_72), e' inserito nel Foglio degli annunzi legali della Provincia, ai sensi e per gli effetti dell'art.
+Il decreto del prefetto, di cui all'[art. 72 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e' inserito nel Foglio degli annunzi legali della Provincia, ai sensi e per gli effetti dell'art.
 
 33.
 

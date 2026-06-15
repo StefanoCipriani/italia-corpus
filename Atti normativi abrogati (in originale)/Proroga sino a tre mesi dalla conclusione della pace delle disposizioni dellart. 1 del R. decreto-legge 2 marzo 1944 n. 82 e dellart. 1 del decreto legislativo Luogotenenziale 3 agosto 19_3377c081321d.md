@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le disposizioni contenute nell'[art. 1 del R. decretolegge 2 marzo 1944, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-02;82#art_1), e nell'[art. 1 del decreto legislativo Luogotenenziale 3 agosto 1944, n. 357](Facolta%20al%20Ministro%20per%20la%20marina%20di%20apportare%20variazioni%20provvisorie%20ai%20quadri%20degli%20ufficiali%20in%20servizio%20permanente%20effettivo%20dei%20vari%20Corpi%20della%20Regia%20marina.%20044U0357.md), riguardanti gli organici degli ufficiali in servizio permanente effettivo e del ruolo speciale dei vari Corpi militari della marina, hanno efficacia sino a tre mesi dalla conclusione della pace.
+Le disposizioni contenute nell'[art. 1 del R. decretolegge 2 marzo 1944, n. 82](Variazione%20provvisoria%20degli%20organici%20degli%20Ufficiali%20dei%20vari%20Corpi%20Militari%20della%20R.%20Marina.%20044U0082.md), e nell'[art. 1 del decreto legislativo Luogotenenziale 3 agosto 1944, n. 357](Facolta%20al%20Ministro%20per%20la%20marina%20di%20apportare%20variazioni%20provvisorie%20ai%20quadri%20degli%20ufficiali%20in%20servizio%20permanente%20effettivo%20dei%20vari%20Corpi%20della%20Regia%20marina.%20044U0357.md), riguardanti gli organici degli ufficiali in servizio permanente effettivo e del ruolo speciale dei vari Corpi militari della marina, hanno efficacia sino a tre mesi dalla conclusione della pace.
 
 ## Art. 2.
 

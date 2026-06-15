@@ -22,15 +22,15 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 17, secondo comma, della legge 19 luglio 1907, n. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-19;515#art_17-com2) ed il quadro III della tabella C annessa alla [legge del 25 giugno 1911, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;575), riguardante il personale di 3ª categoria dipendente dal Ministero delle poste e dei telegrafi; 
+ Visto l'[art. 17, secondo comma, della legge 19 luglio 1907, n. 515](Riforma%20dellordinamento%20organico%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20007U0515.md) ed il quadro III della tabella C annessa alla [legge del 25 giugno 1911, n. 575](Per%20i%20provvedimenti%20relativi%20agli%20anziani%20ed%20allelevazione%20dei%20minimi%20di%20stipendio%20del%20personale%20dipendente%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20011U0575.md), riguardante il personale di 3ª categoria dipendente dal Ministero delle poste e dei telegrafi; 
  
- Visto il [R. decreto del 15 marzo 1914, n. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-03-15;329) col quale il numero degli agenti di manutenzione del quadro III, tabella C, venne portato da 1945 a 2090 dal 1° marzo 1914; 
+ Visto il [R. decreto del 15 marzo 1914, n. 329](Col%20quale%20viene%20aumentato%20il%20numero%20degli%20agenti%20di%203ª%20categoria%20dellAmministrazione%20delle%20poste%20e%20telegrafi%20nel%20quadro%20III%20della%20tabella%20C%20annessa%20alla%20legge%2025%20giugno%201911%20n.%20575.%20014U0329.md) col quale il numero degli agenti di manutenzione del quadro III, tabella C, venne portato da 1945 a 2090 dal 1° marzo 1914; 
  
  Sulla proposta del ministro segretario di Stato per le poste e per i telegrafi, di concerto con quello del tesoro; 
  
  Abbiamo decretato e decretiamo: 
  
- Dal 1°luglio 1918, il numero degli agenti di manutenzione delle linee telegrafiche e telefoniche del quadro III della tabella C, relativa al personale di 3ª categoria dell'Amministrazione delle poste e dei telegrafi, ed annessa alla [legge del 25 giugno 1911, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;575), e' portato da n. 2090 a n. 2450. 
+ Dal 1°luglio 1918, il numero degli agenti di manutenzione delle linee telegrafiche e telefoniche del quadro III della tabella C, relativa al personale di 3ª categoria dell'Amministrazione delle poste e dei telegrafi, ed annessa alla [legge del 25 giugno 1911, n. 575](Per%20i%20provvedimenti%20relativi%20agli%20anziani%20ed%20allelevazione%20dei%20minimi%20di%20stipendio%20del%20personale%20dipendente%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20011U0575.md), e' portato da n. 2090 a n. 2450. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

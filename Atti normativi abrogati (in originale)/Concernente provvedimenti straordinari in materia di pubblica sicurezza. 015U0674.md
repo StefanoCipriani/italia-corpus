@@ -26,7 +26,7 @@ Le disposizioni contenute nelle leggi di pubblica sicurezza e nei relativi regol
 
 ## Art. 2.
 
-Senza pregiudizio delle disposizioni di cui agli [articoli 243 e seguenti del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_243) per l'esercito e agli [articoli 597 e seguenti del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_597) militare marittimo, la direzione dei servizi di pubblica sicurezza in qualunque parte del territorio dello Stato, e l'esercizio dei poteri straordinari consentiti col presente e con qualunque altro decreto o legge dello Stato in materia di pubblica sicurezza, potranno con decreto del ministro dell'interno essere affidati a comandanti militari o a commissari civili all'uopo designati. 
+Senza pregiudizio delle disposizioni di cui agli [articoli 243 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e agli [articoli 597 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, la direzione dei servizi di pubblica sicurezza in qualunque parte del territorio dello Stato, e l'esercizio dei poteri straordinari consentiti col presente e con qualunque altro decreto o legge dello Stato in materia di pubblica sicurezza, potranno con decreto del ministro dell'interno essere affidati a comandanti militari o a commissari civili all'uopo designati. 
  
  In tal caso tutte le autorita' civili e militari per quanto si riferisce ai servizi di pubblica sicurezza dipenderanno dai detti comandanti militari o commissari civili.
 

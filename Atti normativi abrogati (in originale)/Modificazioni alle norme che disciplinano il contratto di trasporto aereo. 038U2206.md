@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIPIA
 
-Visto il [R. decreto-legge 20 agosto 1923, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-08-20;2207), concernente provvedimenti per la navigazione aerea ed il relativo regolamento approvato con il [R. decreto 11 gennaio 1925, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-11;356), e le successive modificazioni;
+Visto il [R. decreto-legge 20 agosto 1923, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-08-20;2207), concernente provvedimenti per la navigazione aerea ed il relativo regolamento approvato con il [R. decreto 11 gennaio 1925, n. 356](Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md), e le successive modificazioni;
 
 Visto il [R. decreto-legge 28 settembre 1933, n. 1733](Norme%20che%20disciplinano%20il%20contratto%20di%20trasporto%20aereo.%20033U1733.md), concernente le norme che disciplinano il contratto di trasporto aereo, convertito in legge con la [legge 22 gennaio 1934, n. 326](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20settembre%201933%20n.%201733%20contenente%20norme%20che%20disciplinano%20il%20contratto%20di%20trasporto%20aereo.%20034U0326.md);
 

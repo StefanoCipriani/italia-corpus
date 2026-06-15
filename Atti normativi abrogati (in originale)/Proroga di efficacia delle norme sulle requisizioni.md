@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 18 agosto 1940, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-08-18;1741), che detta norme sulla disciplina delle requisizioni e successive modificazioni;
+Visto il [R. decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), che detta norme sulla disciplina delle requisizioni e successive modificazioni;
 
-Visto il [decreto legislativo Luogotenenziale 8 febbraio 1946, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;49), riguardante la cessazione dello stato di guerra ed il passaggio dallo stato di guerra a quello di pace;
+Visto il [decreto legislativo Luogotenenziale 8 febbraio 1946, n. 49](../Decreti%20legislativi%20luogotenenziali/Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md), riguardante la cessazione dello stato di guerra ed il passaggio dallo stato di guerra a quello di pace;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Le disposizioni riguardanti la disciplina delle requisizioni di cui al [R. decreto 18 agosto 1940, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-08-18;1741) e successive modificazioni, continuano ad avere effetto fino al 15 settembre 1946.
+Le disposizioni riguardanti la disciplina delle requisizioni di cui al [R. decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md) e successive modificazioni, continuano ad avere effetto fino al 15 settembre 1946.
 
 ## Art. 2.
 

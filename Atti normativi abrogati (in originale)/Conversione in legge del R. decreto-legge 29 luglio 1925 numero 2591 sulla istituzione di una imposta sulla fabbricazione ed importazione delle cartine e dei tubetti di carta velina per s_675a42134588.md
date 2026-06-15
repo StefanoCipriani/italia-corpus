@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 luglio 1925, n. 2591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-29;2591), con cui il Governo del Re e' autorizzato ad istituire una imposta su la fabbricazione ed importazione delle cartine e dei tubetti di carta velina per sigarette. 
+ E' convertito in legge il [R. decreto-legge 29 luglio 1925, n. 2591](Imposta%20sulla%20fabbricazione%20e%20limportazione%20di%20cartine%20e%20tubetti%20per%20sigarette.%20025U2591.md), con cui il Governo del Re e' autorizzato ad istituire una imposta su la fabbricazione ed importazione delle cartine e dei tubetti di carta velina per sigarette. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

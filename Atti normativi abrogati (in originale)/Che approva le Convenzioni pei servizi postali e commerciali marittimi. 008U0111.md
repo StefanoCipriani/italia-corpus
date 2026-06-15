@@ -101,7 +101,7 @@ I capitani di lungo corso, preposti al comando dei piroscafi dello Stato, sono o
 
 Nella prima attuazione del servizio l'amministrazione delle ferrovie dello Stato assumera' il personale in servizio della Navigazione generale italiana al 30 giugno 1910, il quale al 1° luglio 1907 era addetto ai piroscafi normalmente adibiti alle linee Civitavecchia-Golfo Aranci, Napoli-Reggio e Napoli-Palermo, distinte rispettivamente dai numeri XXXII, XXXIII, XXXIV, delle convenzioni vigenti, purche' si trovi nelle condizioni che saranno stabilite nel regolamento speciale di cui all'art. 8 e abbia fatto, entro il 30 giugno 1909, domanda individuale per essere assunto in servizio della navigazione di Stato. 
  
- Per coloro che in forza del precedente comma, siano assunti dall'Amministrazione e che siano iscritti allo Istituto di previdenza del personale ferroviario, il servizio prestato alla dipendenza della Navigazione generale italiana e' valutato agli effetti dell'art. 55 dello Statuto approvato col [Regio decreto 23 maggio 1907, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-05-23;289).
+ Per coloro che in forza del precedente comma, siano assunti dall'Amministrazione e che siano iscritti allo Istituto di previdenza del personale ferroviario, il servizio prestato alla dipendenza della Navigazione generale italiana e' valutato agli effetti dell'art. 55 dello Statuto approvato col [Regio decreto 23 maggio 1907, n. 289](Che%20approva%20gli%20annessi%20statuti%20modificati%20dellIstituto%20di%20previdenza%20delle%20Casse%20pensioni%20e%20dei%20Consorzi%20di%20mutuo%20soccorso%20per%20il%20personale%20ferroviario%20assunto%20in%20servizio%20dal%201%20gennaio%20_a2a9e10de495.md).
 
 ### Art. 13.
 

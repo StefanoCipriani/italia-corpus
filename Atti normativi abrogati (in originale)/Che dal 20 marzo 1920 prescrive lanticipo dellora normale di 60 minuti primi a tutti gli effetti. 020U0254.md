@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 10 agosto 1893, n. 490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-08-10;490), riguardante l'adozione per l'Italia dell'ora del 2° fuso (ora dell'Europa centrale);
+Visto il [R. decreto 10 agosto 1893, n. 490](Col%20quale%20si%20dispone%20che%20il%20servizio%20delle%20strade%20ferrate%20nel%20Regno%20venga%20regolato%20secondo%20il%20tempo%20dellEuropa%20centrale.%20093U0490.md), riguardante l'adozione per l'Italia dell'ora del 2° fuso (ora dell'Europa centrale);
 
 Udito il Consiglio dei ministri;
 

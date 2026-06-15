@@ -18,7 +18,7 @@ Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res
 
 Visto il [R. decreto 3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md); che approva il regolamento per l'applicazione del Regio decreto anzidetto;
 
-Visto il [R. decreto 18 febbraio 1926, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-02-18;312), concernente la soppressione della Regia scuola industriale di Sant'Anastasia;
+Visto il [R. decreto 18 febbraio 1926, n. 312](Soppressione%20della%20Regia%20scuola%20industriale%20di%20SantAnastasia.%20026U0312.md), concernente la soppressione della Regia scuola industriale di Sant'Anastasia;
 
 Vista la deliberazione del comune di Ottaiano del 26 gennaio 1926 e della Congregazione di carita' di Ottaiano del 26 gennaio 1926;
 

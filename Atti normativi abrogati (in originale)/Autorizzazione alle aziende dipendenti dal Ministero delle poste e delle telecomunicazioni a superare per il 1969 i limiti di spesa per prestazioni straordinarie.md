@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'Amministrazione delle poste e delle telecomunicazioni e l'Azienda di Stato per i servizi telefonici sono autorizzate a superare - nell'esercizio 1969 - i limiti di spesa annua relativa alle prestazioni straordinarie rese, anche con il sistema del cottimo, dal personale dipendente, di cui all'ultimo comma dell'[articolo 3 del decreto del Presidente della Repubblica 5 giugno 1965, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-05;749#art_3), e successive modificazioni, rispettivamente, nella misura massima di L. 4.700 milioni e di L. 400 milioni.
+L'Amministrazione delle poste e delle telecomunicazioni e l'Azienda di Stato per i servizi telefonici sono autorizzate a superare - nell'esercizio 1969 - i limiti di spesa annua relativa alle prestazioni straordinarie rese, anche con il sistema del cottimo, dal personale dipendente, di cui all'ultimo comma dell'[articolo 3 del decreto del Presidente della Repubblica 5 giugno 1965, n. 749](../DPR/Conglobamento%20dellassegno%20mensile%20e%20competenze%20analoghe%20negli%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20statale%20in%20applicazione%20dellart.%203%20della%20legge%205%20dicembre%201964%20n.%201268.md), e successive modificazioni, rispettivamente, nella misura massima di L. 4.700 milioni e di L. 400 milioni.
 
 ## Art. 2.
 

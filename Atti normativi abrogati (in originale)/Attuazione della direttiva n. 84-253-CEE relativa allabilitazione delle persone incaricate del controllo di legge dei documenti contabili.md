@@ -138,7 +138,7 @@ Non possono essere iscritti nel registro coloro che:
                         a)
                             si trovano in stato di interdizione temporanea o di sospensione dagli uffici direttivi delle persone giuridiche e delle imprese;
                         b)
-                            sono stati sottoposti a misure di prevenzione ai sensi della [legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423) o della [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575) e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione;
+                            sono stati sottoposti a misure di prevenzione ai sensi della [legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md) o della [legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md) e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione;
                         c)
                             hanno riportato condanna alla reclusione, anche se con pena condizionalmente sospesa, salvi gli effetti della riabilitazione: 
  1) per uno dei delitti previsti dal [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267); 
@@ -188,7 +188,7 @@ Entro un anno dall'entrata in vigore del presente decreto, il Ministero di grazi
 
 Sono iscritti nel registro, purche' presentino domanda entro centottanta giorni dall'entrata in vigore del presente decreto, abbiano domicilio in Italia e non si trovino nelle situazioni indi- cate nell'art. 8:
                         a)
-                            coloro che alla data di entrata in vigore del presente decreto sono iscritti o sono in possesso dei requisiti per essere iscritti nel ruolo dei revisori ufficiali dei conti. Per i dipendenti dello Stato e degli enti pubblici, il periodo indicato al 3 comma dell'[art. 12 del regio decreto-legge 24 luglio 1936, n. 1548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-07-24;1548#art_12), e' ridotto a 5 anni;
+                            coloro che alla data di entrata in vigore del presente decreto sono iscritti o sono in possesso dei requisiti per essere iscritti nel ruolo dei revisori ufficiali dei conti. Per i dipendenti dello Stato e degli enti pubblici, il periodo indicato al 3 comma dell'[art. 12 del regio decreto-legge 24 luglio 1936, n. 1548](Disposizioni%20relative%20ai%20sindaci%20dello%20societa%20commerciali.%20036U1548.md), e' ridotto a 5 anni;
                         b)
                             coloro che sono iscritti o hanno acquisito il diritto ad essere iscritti nell'albo dei dottori commercialisti o nell'albo dei ragionieri e periti commerciali alla medesima data o, successivamente, in base ad una sessione d'esame in corso a tale data e hanno svolto attivita' di controllo legale dei conti per almeno un anno;
                         c)
@@ -200,7 +200,7 @@ Sono iscritti nel registro, purche' presentino domanda entro centottanta giorni 
 
 3.
 
-Coloro che restano in carica nei collegi sindacali ai sensi dell'art. 27 del presente decreto sono iscritti in un elenco allegato al registro e, successivamente, sono iscritti nel registro dei revisori contabili, purche', fermi restando gli altri requisiti previsti dal comma 2, risultino, per effetto della permanenza nella carica, avere svolto le funzioni di sindaco per il periodo indicato dall'[art. 12 del regio decreto-legge 24 luglio 1936, n. 1548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-07-24;1548#art_12), o dalle lettere b) e c) del comma 2 del presente articolo. Le modalita' per l'iscrizione nell'elenco e, successivamente, nel registro sono disciplinate dal regolamento previsto dall'art. 14.
+Coloro che restano in carica nei collegi sindacali ai sensi dell'art. 27 del presente decreto sono iscritti in un elenco allegato al registro e, successivamente, sono iscritti nel registro dei revisori contabili, purche', fermi restando gli altri requisiti previsti dal comma 2, risultino, per effetto della permanenza nella carica, avere svolto le funzioni di sindaco per il periodo indicato dall'[art. 12 del regio decreto-legge 24 luglio 1936, n. 1548](Disposizioni%20relative%20ai%20sindaci%20dello%20societa%20commerciali.%20036U1548.md), o dalle lettere b) e c) del comma 2 del presente articolo. Le modalita' per l'iscrizione nell'elenco e, successivamente, nel registro sono disciplinate dal regolamento previsto dall'art. 14.
 
 ## Art. 12. — Iscrizione di societa' in sede di prima formazione del registro
 
@@ -286,7 +286,7 @@ Gli iscritti in sede di prima formazione nel registro dei revisori contabili ist
 Dopo l'[art. 8 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136](Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md), e' inserito il seguente: 
  "Art. 8-bis (Onorabilita' degli amministratori). - 1. Non puo' essere iscritta nell'albo la societa' il cui amministratore: 
  a) si trova in stato di interdizione temporanea o di sospensione dagli uffici direttivi delle persone giuridiche e delle imprese; 
- b) e' stato sottoposto a misure di prevenzione ai sensi della [legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423) o della [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575), e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione; 
+ b) e' stato sottoposto a misure di prevenzione ai sensi della [legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md) o della [legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione; 
  c) ha riportato condanna alla reclusione, anche se con pena condizionalmente sospesa, salvi gli effetti della riabilitazione: 
  1) per uno dei delitti previsti nel [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267); 
  2) per uno dei delitti previsti nel titolo XI del libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262); 
@@ -371,11 +371,11 @@ Coloro che alla data di inizio di efficacia dell'articolo 21 del presente decret
 
 1.
 
-Dalla data di entrata in vigore del presente decreto sono abrogati gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-02-10;228#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-02-10;228#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-02-10;228#art_3) e [4 del regio decreto 10 febbraio 1937, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-02-10;228#art_4) e l'[art. 13 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136](Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md).
+Dalla data di entrata in vigore del presente decreto sono abrogati gli [articoli 1](Norme%20per%20lattuazione%20del%20Regio%20decreto-legge%2024%20luglio%201936-XIV%20n.%201548%20sui%20sindaci%20delle%20Societa%20commerciali%20revisori%20dei%20conti.%20037U0228.md), [2](Norme%20per%20lattuazione%20del%20Regio%20decreto-legge%2024%20luglio%201936-XIV%20n.%201548%20sui%20sindaci%20delle%20Societa%20commerciali%20revisori%20dei%20conti.%20037U0228.md), [3](Norme%20per%20lattuazione%20del%20Regio%20decreto-legge%2024%20luglio%201936-XIV%20n.%201548%20sui%20sindaci%20delle%20Societa%20commerciali%20revisori%20dei%20conti.%20037U0228.md) e [4 del regio decreto 10 febbraio 1937, n. 228](Norme%20per%20lattuazione%20del%20Regio%20decreto-legge%2024%20luglio%201936-XIV%20n.%201548%20sui%20sindaci%20delle%20Societa%20commerciali%20revisori%20dei%20conti.%20037U0228.md) e l'[art. 13 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136](Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md).
 
 2.
 
-Dalla data della prima pubblicazione del registro prevista dall'art. 11, comma 1, sono abrogati il [regio decreto-legge 24 luglio 1936, n. 1548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-07-24;1548), ed i rimanenti articoli del [regio decreto 10 febbraio 1937, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-02-10;228).
+Dalla data della prima pubblicazione del registro prevista dall'art. 11, comma 1, sono abrogati il [regio decreto-legge 24 luglio 1936, n. 1548](Disposizioni%20relative%20ai%20sindaci%20dello%20societa%20commerciali.%20036U1548.md), ed i rimanenti articoli del [regio decreto 10 febbraio 1937, n. 228](Norme%20per%20lattuazione%20del%20Regio%20decreto-legge%2024%20luglio%201936-XIV%20n.%201548%20sui%20sindaci%20delle%20Societa%20commerciali%20revisori%20dei%20conti.%20037U0228.md).
 
 3.
 

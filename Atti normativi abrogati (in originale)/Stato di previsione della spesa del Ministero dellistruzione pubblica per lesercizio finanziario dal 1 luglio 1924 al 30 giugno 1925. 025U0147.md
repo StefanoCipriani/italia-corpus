@@ -14,7 +14,7 @@ Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie
 
 ## Art. 2.
 
-Le entrate e le spese del Regio istituto orientale di Napoli, per l'esercizio finanziario 1924-25, sono stabilite in conformita' del bilancio allegato al presente stato di previsione della spesa del Ministero della pubblica istruzione, ai sensi del [R. decreto 14 gennaio 1923, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-14;449).
+Le entrate e le spese del Regio istituto orientale di Napoli, per l'esercizio finanziario 1924-25, sono stabilite in conformita' del bilancio allegato al presente stato di previsione della spesa del Ministero della pubblica istruzione, ai sensi del [R. decreto 14 gennaio 1923, n. 449](Concernente%20il%20passaggio%20del%20R.%20Istituto%20orientale%20di%20Napoli%20alla%20dipendenza%20del%20Ministro%20della%20istruzione%20pubblica.%20023U0449.md).
 
 ## Art. 3.
 

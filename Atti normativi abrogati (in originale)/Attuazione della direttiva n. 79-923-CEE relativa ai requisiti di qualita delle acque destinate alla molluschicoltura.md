@@ -92,7 +92,7 @@ Le regioni interessate, provvedono:
                         c)
                             alla individuazione tra le acque designate di quelle richiedenti protezione e di quelle per le quali siano necessarie azioni di miglioramento per consentire la vita e lo sviluppo dei molluschi e per contribuire alla buona qualita' dei medesimi nel rispetto dei valori indicati nella colonna C dell'allegato I;
                         d)
-                            ad apportare ai rispettivi piani regionali di risanamento delle acque, di cui all'[art. 4 lettera a) della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_4-leta), gli adeguamenti necessari per assicurare il raggiungimento degli obiettivi di qualita' di cui al presente decreto;
+                            ad apportare ai rispettivi piani regionali di risanamento delle acque, di cui all'[art. 4 lettera a) della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), gli adeguamenti necessari per assicurare il raggiungimento degli obiettivi di qualita' di cui al presente decreto;
                         e)
                             a pubblicare nel Bollettino Ufficiale della regione i provvedimenti di designazione delle acque destinate alla molluschicoltura.
 
@@ -110,15 +110,15 @@ Le regioni provvedono altresi' a trasmettere annualmente ai Ministeri della sani
                         e)
                             la localizzazione degli scarichi, civili e/o industriali che interessano la zona designata, individuati tramite coordinate geografiche e riportate su tavolette IGM 1:25.000;
                         f)
-                            l'elenco degli impianti di coltivazione, di cui all'[art. 5 della legge 2 maggio 1977, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-05-02;192#art_5).
+                            l'elenco degli impianti di coltivazione, di cui all'[art. 5 della legge 2 maggio 1977, n. 192](Norme%20igienico-sanitarie%20per%20la%20produzione%20commercio%20e%20vendita%20dei%20molluschi%20eduli%20lamellibranchi.md).
 
 3.
 
-Ferme restando le attribuzioni del Ministero della sanita' ai sensi della [legge 2 maggio 1977, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-05-02;192) e successive modifiche e integrazioni, competono al Ministero dell'ambiente le funzioni concernenti:
+Ferme restando le attribuzioni del Ministero della sanita' ai sensi della [legge 2 maggio 1977, n. 192](Norme%20igienico-sanitarie%20per%20la%20produzione%20commercio%20e%20vendita%20dei%20molluschi%20eduli%20lamellibranchi.md) e successive modifiche e integrazioni, competono al Ministero dell'ambiente le funzioni concernenti:
                         a)
                             l'indirizzo, la promozione e il coordinamento delle attivita' connesse alla applicazione del presente decreto;
                         b)
-                            l'integrazione del piano generale di risanamento delle acque previsto dall'[art. 2, lettera c) della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_2-letc) e successive modifiche ed integrazioni per gli aspetti disciplinati dalla presente normativa, sulla base dei piani regionali di risanamento delle acque;
+                            l'integrazione del piano generale di risanamento delle acque previsto dall'[art. 2, lettera c) della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md) e successive modifiche ed integrazioni per gli aspetti disciplinati dalla presente normativa, sulla base dei piani regionali di risanamento delle acque;
                         c)
                             la tenuta e l'aggiornamento, sulla base dei dati forniti dalle regioni dell'elenco nazionale delle acque destinate alla molluschicoltura designate ai sensi del presente decreto;
                         d)
@@ -140,7 +140,7 @@ Il Ministro dell'ambiente, con decreto adottato di concerto con il Ministro dell
 
 1.
 
-Nell'ambito delle acque designate, le Regioni provvedono ad una nuova classificazione ai sensi dell'[art. 2 legge 2 maggio 1977, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-05-02;192#art_2), in base ai parametri di cui all'allegato II, entro 180 giorni dall'emanazione del provvedimento che fissa i requisiti di cui all'art. 4, comma 4, lettera c), del presente decreto.
+Nell'ambito delle acque designate, le Regioni provvedono ad una nuova classificazione ai sensi dell'[art. 2 legge 2 maggio 1977, n. 192](Norme%20igienico-sanitarie%20per%20la%20produzione%20commercio%20e%20vendita%20dei%20molluschi%20eduli%20lamellibranchi.md), in base ai parametri di cui all'allegato II, entro 180 giorni dall'emanazione del provvedimento che fissa i requisiti di cui all'art. 4, comma 4, lettera c), del presente decreto.
 
 2.
 
@@ -150,7 +150,7 @@ Il provvedimento di classificazione e' pubblicato nel Bollettino ufficiale regio
 
 Le regioni trasmettono al Ministero dell'ambiente, della sanita' e della marina mercantile:
                         a)
-                            l'elenco degli impianti di cui all'[art. 5 della legge 2 maggio 1977, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-05-02;192#art_5);
+                            l'elenco degli impianti di cui all'[art. 5 della legge 2 maggio 1977, n. 192](Norme%20igienico-sanitarie%20per%20la%20produzione%20commercio%20e%20vendita%20dei%20molluschi%20eduli%20lamellibranchi.md);
                         b)
                             la mappa delle acque classificate ai sensi del comma 1.
 
@@ -162,7 +162,7 @@ Qualora sia richiesto da eccezionali ed urgenti necessita' di tutela delle acque
 
 2.
 
-Sono fatte salve le competenze dell'autorita' marittima, cosi' come previsto agli [articoli 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_68) e [81 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_81).
+Sono fatte salve le competenze dell'autorita' marittima, cosi' come previsto agli [articoli 68](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [81 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 3.
 

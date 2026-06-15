@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 4 marzo 1972, n. 25](Provvidenze%20a%20
  
  All'articolo 1, al primo comma, dopo le parole: Camerata Picena, e' aggiunta la parola: Castelfidardo; dopo le parole: San Marcello, sono aggiunte le parole: Santa Maria Nuova; le parole: 30 giugno 1972, sono sostituite con le parole: 30 aprile 1972; 
  al secondo comma, le parole: per lo stesso periodo; sono sostituite con le parole: per il periodo dal 25 gennaio al 30 giugno 1972; dopo le parole: prima del 25 gennaio, sono aggiunte le parole: e dal 25 gennaio al 15 febbraio. 
- All'articolo 5, al quinto comma, dopo le parole: [decreto legislativo 12 aprile 1948, n. 1010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;1010), sono aggiunte le parole: fatte salve le provvidenze previste dai successivi articoli 6 e 7 del presente decreto. 
+ All'articolo 5, al quinto comma, dopo le parole: [decreto legislativo 12 aprile 1948, n. 1010](../Decreti%20Legislativi/Autorizzazione%20al%20Ministero%20dei%20lavori%20pubblici%20a%20provvedere%20a%20sua%20cura%20e%20spese%20ai%20lavori%20di%20carattere%20urgente%20ed%20inderogabile%20dipendenti%20da%20necessita%20di%20pubblico%20interesse%20determinate%20da_849e4a6b6d55.md), sono aggiunte le parole: fatte salve le provvidenze previste dai successivi articoli 6 e 7 del presente decreto. 
  All'articolo 6, al secondo comma, dopo le parole: diverse da quelle preesistenti, sono aggiunte le parole: nell'ambito delle norme urbanistiche. 
  All'articolo 7, al primo comma, e' soppressa la parola: urbani. 
  All'articolo 30, al primo comma, sostituire le parole: 30 giugno 1972, con le parole: 31 ottobre 1972. 

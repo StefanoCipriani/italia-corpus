@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 dicembre 1928, n. 3505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-24;3505), che da' esecuzione al Trattato di amicizia, di conciliazione e di regolamento giudiziario, firmato in Roma, fra l'Italia e la Grecia, il 23 settembre 1928. 
+ E' convertito in legge il [R. decreto-legge 24 dicembre 1928, n. 3505](Approvazione%20del%20Trattato%20damicizia%20di%20conciliazione%20e%20di%20regolamento%20giudiziario%20firmato%20in%20Roma%20il%2023%20settembre%201928%20fra%20lItalia%20e%20la%20Grecia.%20028U3505.md), che da' esecuzione al Trattato di amicizia, di conciliazione e di regolamento giudiziario, firmato in Roma, fra l'Italia e la Grecia, il 23 settembre 1928. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

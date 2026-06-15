@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 8 luglio 1926, n. 1178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178), sull'ordinamento della Marina militare, e successive modificazioni;
+Vista la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), sull'ordinamento della Marina militare, e successive modificazioni;
 
 Vista la [legge 23 febbraio 1956, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-02-23;116), concernente le norme per la nomina a sottotenente del Corpo equipaggi militari marittimi (CEMM) direttore del Corpo musicale della Marina militare;
 
-Visto il [decreto del Presidente della Repubblica 18 ottobre 1957, n. 1220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-10-18;1220), con il quale sono stati approvati i programmi e le modalita' delle prove d'esame, i criteri di valutazione dei titoli e la composizione delle commissioni esaminatrici dei concorsi per la nomina a direttore del Corpo musicale della Marina militare;
+Visto il [decreto del Presidente della Repubblica 18 ottobre 1957, n. 1220](../DPR/Approvazione%20dei%20programmi%20delle%20modalita%20nelle%20prove%20di%20esame%20dei%20criteri%20di%20valutazione%20dei%20titoli%20e%20della%20composizione%20della%20Commissione%20giudicatrice%20dei%20concorsi%20per%20la%20nomina%20a%20sotto_e36c8d090a20.md), con il quale sono stati approvati i programmi e le modalita' delle prove d'esame, i criteri di valutazione dei titoli e la composizione delle commissioni esaminatrici dei concorsi per la nomina a direttore del Corpo musicale della Marina militare;
 
-Vista la [legge 20 dicembre 1977, n. 965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-20;965), che, nello stabilire nuove norme sul reclutamento, sullo stato giuridico e sull'avanzamento dell'ufficiale maestro direttore delle bande musicali dell'Esercito, dell'Aeronautica, dell'Arma dei carabinieri, del Corpo della guardia di finanza, del Corpo delle guardie di pubblica sicurezza e del Corpo musicale della Marina, ha disposto che al vincitore del concorso per la nomina a maestro direttore del Corpo musicale della Marina e' conferito il grado di tenente di vascello;
+Vista la [legge 20 dicembre 1977, n. 965](Nuove%20norme%20sul%20reclutamento%20sullo%20stato%20giuridico%20e%20sullavanzamento%20dellufficiale%20maestro%20direttore%20delle%20bande%20musicali%20dellEsercito%20dellAeronautica%20dellArma%20dei%20carabinieri%20del%20Corpo%20d_cec62d937812.md), che, nello stabilire nuove norme sul reclutamento, sullo stato giuridico e sull'avanzamento dell'ufficiale maestro direttore delle bande musicali dell'Esercito, dell'Aeronautica, dell'Arma dei carabinieri, del Corpo della guardia di finanza, del Corpo delle guardie di pubblica sicurezza e del Corpo musicale della Marina, ha disposto che al vincitore del concorso per la nomina a maestro direttore del Corpo musicale della Marina e' conferito il grado di tenente di vascello;
 
 Vista la [legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312), relativa al nuovo assetto retributivo-funzionale del personale civile e militare dello Stato;
 
@@ -81,8 +81,8 @@ La commissione esaminatrice, sulla base di criteri preventivamente determinati e
 
 ## Art. 7.
 
-A parita' di merito saranno osservate le norme di cui all'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_5), e successive disposizioni in materia.
- Il [decreto del Presidente della Repubblica 18 ottobre 1957, n. 1220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-10-18;1220), e' abrogato.
+A parita' di merito saranno osservate le norme di cui all'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive disposizioni in materia.
+ Il [decreto del Presidente della Repubblica 18 ottobre 1957, n. 1220](../DPR/Approvazione%20dei%20programmi%20delle%20modalita%20nelle%20prove%20di%20esame%20dei%20criteri%20di%20valutazione%20dei%20titoli%20e%20della%20composizione%20della%20Commissione%20giudicatrice%20dei%20concorsi%20per%20la%20nomina%20a%20sotto_e36c8d090a20.md), e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

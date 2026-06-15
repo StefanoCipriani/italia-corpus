@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 27 novembre 1904, n. 656](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-11-27;656), che istituisce la medaglia d'onore per lunga navigazione compiuta, modificato dal [R. decreto 29 dicembre 1910, n. 928](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-12-29;928), dal [decreto Luogotenenziale 31 ottobre 1918, n. 1846](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-31;1846), e dal [R. decreto 24 settembre 1931, n. 1273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-24;1273);
+Visto il [R. decreto 27 novembre 1904, n. 656](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-11-27;656), che istituisce la medaglia d'onore per lunga navigazione compiuta, modificato dal [R. decreto 29 dicembre 1910, n. 928](Che%20sostituisce%20lart.%203%20del%20decreto%20riflettente%20la%20istituzione%20della%20medaglia%20donore%20per%20lunga%20navigazione.%20010U0928.md), dal [decreto Luogotenenziale 31 ottobre 1918, n. 1846](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-31;1846), e dal [R. decreto 24 settembre 1931, n. 1273](Modifiche%20al%20R.%20decreto%2027%20novembre%201904%20n.%20656%20relativo%20al%20conferimento%20ai%20marittimi%20della%20medaglia%20donore%20di%20lunga%20navigazione.%20031U1273.md);
 
-Visto l'[art. 1, n. 2, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num2);
+Visto l'[art. 1, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e [29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e [29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto l'[art. 5 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_5);
 

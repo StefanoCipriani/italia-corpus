@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156);
+Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Visto il [decreto del Presidente della Repubblica 7 febbraio 1967, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-07;299), con il quale si e' provveduto alla revisione delle tariffe telegrafiche applicate dalla societa' Radiostampa per i servizi di stampa interni;
+Visto il [decreto del Presidente della Repubblica 7 febbraio 1967, n. 299](../DPR/Revisione%20delle%20tariffe%20telegrafiche%20applicate%20dalla%20Societa%20Radiostampa%20per%20i%20servizi%20di%20stampa%20interni.md), con il quale si e' provveduto alla revisione delle tariffe telegrafiche applicate dalla societa' Radiostampa per i servizi di stampa interni;
 
 Visto il [decreto del Presidente della Repubblica 25 settembre 1973, n. 965](Determinazione%20delle%20tariffe%20per%20la%20ricezione%20telegrafica%20di%20bollettini%20economici%20e%20finanziari%20relativi%20alle%20quotazioni%20delle%20borse%20valori%20italiane.md), con il quale si e' provveduto alla determinazione delle tariffe per la ricezione telegrafica di bollettini economici e finanziari relativi alle quotazioni delle borse valori italiane;
 
@@ -27,7 +27,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 ## Articolo unico
 
 A decorrere dal primo giorno del mese successivo alla pubblicazione del presente decreto nella Gazzetta Ufficiale, le tariffe telegrafiche, relative ai servizi di stampa e di informazione per l'interno della Repubblica svolti in concessione, sono stabilite nella misura indicata nell'annessa tabella, firmata dal Ministro per le poste e le telecomunicazioni. 
- A decorrere dalla stessa data sono abrogati i [decreti del Presidente della Repubblica 7 febbraio 1967, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-07;299) e [25 settembre 1973, n. 965](Determinazione%20delle%20tariffe%20per%20la%20ricezione%20telegrafica%20di%20bollettini%20economici%20e%20finanziari%20relativi%20alle%20quotazioni%20delle%20borse%20valori%20italiane.md), citati nelle premesse.
+ A decorrere dalla stessa data sono abrogati i [decreti del Presidente della Repubblica 7 febbraio 1967, n. 299](../DPR/Revisione%20delle%20tariffe%20telegrafiche%20applicate%20dalla%20Societa%20Radiostampa%20per%20i%20servizi%20di%20stampa%20interni.md) e [25 settembre 1973, n. 965](Determinazione%20delle%20tariffe%20per%20la%20ricezione%20telegrafica%20di%20bollettini%20economici%20e%20finanziari%20relativi%20alle%20quotazioni%20delle%20borse%20valori%20italiane.md), citati nelle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

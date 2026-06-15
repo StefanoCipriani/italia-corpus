@@ -40,7 +40,7 @@ Nel caso in cui il danneggiato intenda riscattare il proprio debito, il versamen
 
 ## Art. 5.
 
-Qualora il danneggiato si avvalga della facolta' di ratizzazione del debito, l'ipoteca legale prevista dall'[art. 2 della legge 21 agosto 1922, n. 1233](Che%20reca%20garanzie%20e%20modalita%20per%20anticipazioni%20sui%20risarcimenti%20dei%20danni%20di%20guerra.%20022U1233.md), conserva la sua efficacia a garanzia del credito dell'Istituto anticipatore, anche oltre il termine previsto nel [R. decreto-legge 8 novembre 1928, n. 2531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-08;2531), purche' ne sia fatta annotazione in margine alla relativa iscrizione.
+Qualora il danneggiato si avvalga della facolta' di ratizzazione del debito, l'ipoteca legale prevista dall'[art. 2 della legge 21 agosto 1922, n. 1233](Che%20reca%20garanzie%20e%20modalita%20per%20anticipazioni%20sui%20risarcimenti%20dei%20danni%20di%20guerra.%20022U1233.md), conserva la sua efficacia a garanzia del credito dell'Istituto anticipatore, anche oltre il termine previsto nel [R. decreto-legge 8 novembre 1928, n. 2531](Proroga%20a%20favore%20degli%20Istituti%20sovventori%20degli%20effetti%20dellipoteca%20legale%20a%20garanzia%20delle%20anticipazioni%20su%20risarcimenti%20di%20danni%20di%20guerra%20di%20cui%20allart.%203%20della%20legge%2021%20agosto%201922%20n_92edfe738449.md), purche' ne sia fatta annotazione in margine alla relativa iscrizione.
 
 ## Art. 6.
 

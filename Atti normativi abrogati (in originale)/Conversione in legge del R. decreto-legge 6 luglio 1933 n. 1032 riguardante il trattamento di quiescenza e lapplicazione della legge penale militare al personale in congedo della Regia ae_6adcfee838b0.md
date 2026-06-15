@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 luglio 1933, n. 1032](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-07-06;1032), riguardante il trattamento di quiescenza e l'applicazione della legge penale militare al personale in congedo della Regia aeronautica che compie l'allenamento presso le squadriglie da turismo aereo. 
+ E' convertito in legge il [R. decreto-legge 6 luglio 1933, n. 1032](Trattamento%20di%20quiescenza%20e%20applicazione%20della%20legge%20penale%20militare%20al%20personale%20in%20congedo%20della%20Regia%20aeronautica%20che%20compie%20lallenamento%20presso%20le%20squadriglie%20da%20turismo%20aereo.%20033U1032.md), riguardante il trattamento di quiescenza e l'applicazione della legge penale militare al personale in congedo della Regia aeronautica che compie l'allenamento presso le squadriglie da turismo aereo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

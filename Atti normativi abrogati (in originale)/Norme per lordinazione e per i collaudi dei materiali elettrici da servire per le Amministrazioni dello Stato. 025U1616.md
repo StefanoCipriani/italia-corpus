@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il decreto Luogotenenziale n. 752 dell'1l aprile 1918, riflettente le norme per l'ordinazione ed il collaudo delle macchine elettriche;
 
-Visto il [R. decreto 31 dicembre 1923, n. 3046](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3046), concernente la normalizzazione dei materiali occorrenti alle Amministrazioni dello Stato;
+Visto il [R. decreto 31 dicembre 1923, n. 3046](Normalizzazione%20dei%20materiali%20occorrenti%20alle%20Amministrazioni%20dello%20Stato.%20023U3046.md), concernente la normalizzazione dei materiali occorrenti alle Amministrazioni dello Stato;
 
 Visto il [R. decreto-legge del 4 gennaio 1925, n. 123](Ordinamento%20della%20Commissione%20suprema%20di%20difesa.%20025U0123.md), riflettente l'ordinamento della Commissione suprema di difesa;
 
@@ -32,7 +32,7 @@ Nelle ordinazioni e nel collaudo dei materiali elettrici da servire per le Ammin
 
 ## Art. 2.
 
-Le modificazioni che in avvenire si rendessero necessarie alle norme di cui all'articolo precedente, saranno emanate, conformemente al disposto del [R. decreto 31 dicembre 1923, n. 3046](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3046), con appositi decreti Presidenziali su deliberazione della Commissione suprema di difesa.
+Le modificazioni che in avvenire si rendessero necessarie alle norme di cui all'articolo precedente, saranno emanate, conformemente al disposto del [R. decreto 31 dicembre 1923, n. 3046](Normalizzazione%20dei%20materiali%20occorrenti%20alle%20Amministrazioni%20dello%20Stato.%20023U3046.md), con appositi decreti Presidenziali su deliberazione della Commissione suprema di difesa.
 
 ## Art. 3.
 

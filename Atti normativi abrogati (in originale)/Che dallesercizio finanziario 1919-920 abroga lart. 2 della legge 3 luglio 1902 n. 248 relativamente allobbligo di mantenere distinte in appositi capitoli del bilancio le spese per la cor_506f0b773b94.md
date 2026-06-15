@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- A decorrere dall'esercizio finanziario 1919-920, e' abrogata la disposizione dell'[art. 2 della legge 3 luglio 1902, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-07-03;248#art_2), che fa obbligo di mantenere distinte in appositi capitoli del bilancio le spese per la corresponsione delle indennita' di residenza in Roma al personale delle Amministrazioni dello Stato. 
+ A decorrere dall'esercizio finanziario 1919-920, e' abrogata la disposizione dell'[art. 2 della legge 3 luglio 1902, n. 248](Relativa%20allindennita%20da%20concedersi%20agli%20impiegati%20dello%20Stato%20residenti%20in%20Roma.%20002U0248.md), che fa obbligo di mantenere distinte in appositi capitoli del bilancio le spese per la corresponsione delle indennita' di residenza in Roma al personale delle Amministrazioni dello Stato. 
  
  Al pagamento di tali indennita' sara' provveduto con fondi assegnati agli stessi capitoli ai quali fanno carico gli stipendi spettanti al personale predetto. 
  

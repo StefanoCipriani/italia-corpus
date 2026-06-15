@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta l'urgenza e l'assoluta necessita' di prorogare l'applicazione delle disposizioni del [R. decreto 30 dicembre 1923, n. 3244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3244), oltre il termine stabilito dall'art. 2 del decreto stesso;
+Ritenuta l'urgenza e l'assoluta necessita' di prorogare l'applicazione delle disposizioni del [R. decreto 30 dicembre 1923, n. 3244](Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md), oltre il termine stabilito dall'art. 2 del decreto stesso;
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e per l
 
 ## Art. 1.
 
-Il termine stabilito dall'[art. 2 del R. decreto 30 dicembre 1923, n. 3244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3244#art_2), e' prorogato per anni due.
+Il termine stabilito dall'[art. 2 del R. decreto 30 dicembre 1923, n. 3244](Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md), e' prorogato per anni due.
 
 ## Art. 2.
 

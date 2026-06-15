@@ -16,12 +16,12 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [primo comma dell'art. 6 del, regio decreto-legge 15 ottobre 1936, n. 2128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-15;2128#art_6-com1), convertito nella [legge 23 marzo 1937, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-03-23;921), e' sostituito dal seguente:
+Il [primo comma dell'art. 6 del, regio decreto-legge 15 ottobre 1936, n. 2128](Ordinamento%20delle%20Scuole%20di%20ostetricia%20e%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20036U2128.md), convertito nella [legge 23 marzo 1937, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-03-23;921), e' sostituito dal seguente:
  "Il corso di studi per il conseguimento del diploma di ostetrica ha la durata di due anni".
 
 ## Art. 2.
 
-Il [primo comma dell'art. 13 del regio decreto-legge 15 ottobre 1936, n. 2128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-15;2128#art_13-com1), convertito nella [legge 23 marzo 1937, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-03-23;921), e' sostituito dal seguente:
+Il [primo comma dell'art. 13 del regio decreto-legge 15 ottobre 1936, n. 2128](Ordinamento%20delle%20Scuole%20di%20ostetricia%20e%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20036U2128.md), convertito nella [legge 23 marzo 1937, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-03-23;921), e' sostituito dal seguente:
  "Possono essere iscritte alle scuole di ostetricia le donne che abbiano conseguito il diploma di Stato per l'esercizio della professione d'infermiera, a termini dell'[art. 135 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_135), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265)".
 
 ## Art. 3.
@@ -31,7 +31,7 @@ Le studentesse in medicina e chirurgia possono essere iscritte alla scuola di os
 
 ## Art. 4.
 
-L'[art. 15 del regio decreto-legge 15 ottobre 1936, n. 2128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-15;2128#art_15), e' soppresso.
+L'[art. 15 del regio decreto-legge 15 ottobre 1936, n. 2128](Ordinamento%20delle%20Scuole%20di%20ostetricia%20e%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20036U2128.md), e' soppresso.
 
 ## Art. 5.
 
@@ -39,7 +39,7 @@ Entro sei mesi dalla pubblicazione della presente legge l'Alto Commissariato per
 
 ### Art. 6.
 
-Coloro che hanno gia' conseguito il diploma di ostetrica in una delle scuole di ostetricia indicate nell'[art. 1 del regio decreto-legge 15 ottobre 1936, n. 2128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-15;2128#art_1), convertito nella [legge 23 marzo 1937, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-03-23;921), e le allieve attualmente iscritte a dette scuole che conseguano il diploma di ostetrica, entro un triennio dalla promulgazione della presente legge possono essere ammesse al secondo anno di una scuola-convitto professionale per infermiere con dispensa da qualsiasi esame. 
+Coloro che hanno gia' conseguito il diploma di ostetrica in una delle scuole di ostetricia indicate nell'[art. 1 del regio decreto-legge 15 ottobre 1936, n. 2128](Ordinamento%20delle%20Scuole%20di%20ostetricia%20e%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20036U2128.md), convertito nella [legge 23 marzo 1937, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-03-23;921), e le allieve attualmente iscritte a dette scuole che conseguano il diploma di ostetrica, entro un triennio dalla promulgazione della presente legge possono essere ammesse al secondo anno di una scuola-convitto professionale per infermiere con dispensa da qualsiasi esame. 
  
  La presente legge, munita, del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

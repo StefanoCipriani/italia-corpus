@@ -102,7 +102,7 @@ Le opere contemplate nel progetto 17 aprile 1918 sono dichiarate di pubblica uti
  
  Il Ministero sentito il Consiglio superiore dei lavori pubblici, determinera' pure la somma che in via provvisoria dovra' depositare per indennita' di espropriazione e per gli eventuali risarcimenti. 
  
- Il verbale di consistenza come sopra approvato equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_32).
+ Il verbale di consistenza come sopra approvato equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
 
 ## Art. 8.
 

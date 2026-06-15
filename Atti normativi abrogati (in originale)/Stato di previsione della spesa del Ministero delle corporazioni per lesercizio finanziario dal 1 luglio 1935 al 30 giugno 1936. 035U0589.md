@@ -18,12 +18,12 @@ E' approvato il bilancio del Fondo speciale delle corporazioni per l'esercizio f
 
 ## Art. 3.
 
-Il contributo a favore dell'Ente nazionale serico, di cui al [R. decreto-legge 16 dicembre 1926, n. 2265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2265), convertito nella [legge 13 dicembre 1928, n. 3107](Conversione%20in%20legge%20con%20modifiche%20del%20R.%20decreto-legge%2016%20dicembre%201926%20n.%202265%20concernente%20listituzione%20dellEnte%20nazionale%20serico.%20028U3107.md), e' stabilito, per l'esercizio 1935-36, in L.
+Il contributo a favore dell'Ente nazionale serico, di cui al [R. decreto-legge 16 dicembre 1926, n. 2265](Istituzione%20dellEnte%20nazionale%20serico.%20026U2265.md), convertito nella [legge 13 dicembre 1928, n. 3107](Conversione%20in%20legge%20con%20modifiche%20del%20R.%20decreto-legge%2016%20dicembre%201926%20n.%202265%20concernente%20listituzione%20dellEnte%20nazionale%20serico.%20028U3107.md), e' stabilito, per l'esercizio 1935-36, in L.
 1.250.000.
 
 ## Art. 4.
 
-L'assegnazione di cui all'[art. 2 del R. decreto-legge 30 giugno 1934, n. 1230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-06-30;1230#art_2), per la corresponsione di premi ad imprese che ricercano e trattano idrocarburi nazionali, e' stabilita, per l'esercizio 1935-36, in L. 10.000.000. 
+L'assegnazione di cui all'[art. 2 del R. decreto-legge 30 giugno 1934, n. 1230](Istituzione%20di%20un%20premio%20a%20favore%20delle%20imprese%20che%20ricercano%20e%20trattano%20idrocarburi%20nazionali.%20034U1230.md), per la corresponsione di premi ad imprese che ricercano e trattano idrocarburi nazionali, e' stabilita, per l'esercizio 1935-36, in L. 10.000.000. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

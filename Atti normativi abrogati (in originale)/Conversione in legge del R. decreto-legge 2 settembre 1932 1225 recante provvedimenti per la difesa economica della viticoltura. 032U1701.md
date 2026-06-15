@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 settembre 1932, n. 1225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-02;1225), recante provvedimenti per la difesa economica della viticoltura, con la seguente aggiunta: 
+ E' convertito in legge il [R. decreto-legge 2 settembre 1932, n. 1225](Provvedimenti%20per%20la%20difesa%20economica%20della%20viticoltura.%20032U1225.md), recante provvedimenti per la difesa economica della viticoltura, con la seguente aggiunta: 
  
  Dopo l'art. 16 e' introdotta la seguente aggiunta: 
  

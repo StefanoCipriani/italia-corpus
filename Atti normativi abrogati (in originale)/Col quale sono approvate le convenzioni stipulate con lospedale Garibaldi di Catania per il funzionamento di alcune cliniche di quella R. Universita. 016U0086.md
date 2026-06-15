@@ -33,7 +33,7 @@ Universita' ed alla costruzione e adattamento dei locali destinati a detti Istit
 
 ## Art. 2.
 
-Il contributo che, a norma delle predette convenzioni dovra' essere corrisposto dallo Stato per spese di costruzione e adattamento di locali ad uso delle cliniche dell'Universita' di Catania in complessive lire 54.071,75 gravera' sulla somma gia' inscritta nel bilancio della pubblica istruzione per la dotazione della Universita' medesima e sul fondo della [legge 13 luglio 1905, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-13;384). 
+Il contributo che, a norma delle predette convenzioni dovra' essere corrisposto dallo Stato per spese di costruzione e adattamento di locali ad uso delle cliniche dell'Universita' di Catania in complessive lire 54.071,75 gravera' sulla somma gia' inscritta nel bilancio della pubblica istruzione per la dotazione della Universita' medesima e sul fondo della [legge 13 luglio 1905, n. 384](Provvedimenti%20per%20lesecuzione%20del%20decreto%20prodittatoriale%20per%20la%20Sicilia%2019%20ottobre%201860%20n.%20274%20a%20favore%20delle%20Universita%20siciliane.%20005U0384.md). 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

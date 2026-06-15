@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto-legge 12 maggio 1927, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-12;693), recante variazioni al bilancio dell'esercizio finanziario 1926-27.
+E' convertito in legge il [R. decreto-legge 12 maggio 1927, n. 693](Variazioni%20di%20stanziamento%20nello%20stato%20di%20previsione%20dellentrata%20ed%20in%20quelli%20della%20spesa%20dei%20diversi%20Ministeri%20nonche%20ai%20bilanci%20speciali%20per%20lesercizio%20finanziario%201926-27%20e%20disposizion_cbe70677f19b.md), recante variazioni al bilancio dell'esercizio finanziario 1926-27.
 
 ## Art. 2.
 
-E' convalidato il [R. decreto 12 maggio 1927, n. 692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;692), che autorizza una 45ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1926-27. 
+E' convalidato il [R. decreto 12 maggio 1927, n. 692](45ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201926-27.%20027U0692.md), che autorizza una 45ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1926-27. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

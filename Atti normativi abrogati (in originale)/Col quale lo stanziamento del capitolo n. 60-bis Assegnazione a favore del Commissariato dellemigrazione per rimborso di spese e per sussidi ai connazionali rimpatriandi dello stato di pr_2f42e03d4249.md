@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), sul conferimento dei poteri straordinari al Governo per la guerra; 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), sul conferimento dei poteri straordinari al Governo per la guerra; 
  
- Visti il [R. decreto 9 maggio 1915, n. 607](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-09;607), e i Nostri decreti 8 luglio, 12 settembre e 14 novembre 1915, numeri 1066, 1425 e 1666, con i quali venne assegnata complessivamente la somma di lire sei milioni per provvedere a rimborso di spese ed a concessione di sussidi ai connazionali rimpatriandi; 
+ Visti il [R. decreto 9 maggio 1915, n. 607](Che%20autorizza%20una%20prelevazione%20di%20L.%201.000.000%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20per%20lesercizio%201914-915%20a%20favore%20del%20Ministero%20degli%20affari%20esteri.%20015U0607.md), e i Nostri decreti 8 luglio, 12 settembre e 14 novembre 1915, numeri 1066, 1425 e 1666, con i quali venne assegnata complessivamente la somma di lire sei milioni per provvedere a rimborso di spese ed a concessione di sussidi ai connazionali rimpatriandi; 
  
  Riconosciuta la necessita' di assegnare al Commissariato per l'emigrazione l'ulteriore somma di lire due milioni per gli scopi suindicati; 
  

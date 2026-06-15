@@ -18,7 +18,7 @@ Veduto il testo unico delle leggi sul credito fondiario approvato con il [R. dec
 
 Veduto il regolamento per l'esecuzione del predetto testo unico approvato con il [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
 
-Veduto il [R. decreto-legge 10 ottobre 1929, n. 1894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-10;1894), convertito nella [legge 12 maggio 1930, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-05-12;653), col quale e' stata costituita presso il Banco di Napoli, con sede in Napoli, una Sezione di credito fondiario avente per fine l'esercizio, nelle provincie continentali del Mezzogiorno, di tale forma di credito, in conformita' delle leggi vigenti sul credito fondiario;
+Veduto il [R. decreto-legge 10 ottobre 1929, n. 1894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-10;1894), convertito nella [legge 12 maggio 1930, n. 653](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20ottobre%201929%20n.%201894%20concernente%20la%20costituzione%20di%20una%20Sezione%20di%20credito%20fondiario%20del%20Banco%20di%20Napoli.%20030U0653.md), col quale e' stata costituita presso il Banco di Napoli, con sede in Napoli, una Sezione di credito fondiario avente per fine l'esercizio, nelle provincie continentali del Mezzogiorno, di tale forma di credito, in conformita' delle leggi vigenti sul credito fondiario;
 
 Veduto il decreto Ministeriale 28 dicembre 1929 che approva le norme per l'amministrazione, l'ordinamento ed il funzionamento di detta Sezione di credito fondiario;
 

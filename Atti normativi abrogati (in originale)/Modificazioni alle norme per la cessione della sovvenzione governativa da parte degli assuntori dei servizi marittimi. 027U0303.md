@@ -52,7 +52,7 @@ Il [terzo comma dell'art. 2 del R. decreto-legge 24 maggio 1926, n. 945](Cession
 
 ## Art. 4.
 
-Il Ministro per le comunicazioni, di concerto con i Ministri per le finanze, per l'economia nazionale e per i lavori pubblici, potra', quando lo ritenga necessario per le mutate condizioni dell'economia nazionale o per nuovi orientamenti dei traffici marittimi, e previo accordo con gli assuntori dei servizi marittimi sovvenzionati, indispensabili o utili, modificare le convenzioni stipulate con essi in virtu' del [R. decreto 31 dicembre 1923, n. 3173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3173), sia nei riguardi dell'assetto e delle caratteristiche delle linee, sia nei riguardi delle condizioni di esercizio delle medesime, fermo restando che non ne venga diminuita la percorrenza complessiva annua, ne' aumentato l'onere finanziario dello Stato stabiliti dallo convenzioni predette.
+Il Ministro per le comunicazioni, di concerto con i Ministri per le finanze, per l'economia nazionale e per i lavori pubblici, potra', quando lo ritenga necessario per le mutate condizioni dell'economia nazionale o per nuovi orientamenti dei traffici marittimi, e previo accordo con gli assuntori dei servizi marittimi sovvenzionati, indispensabili o utili, modificare le convenzioni stipulate con essi in virtu' del [R. decreto 31 dicembre 1923, n. 3173](Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), sia nei riguardi dell'assetto e delle caratteristiche delle linee, sia nei riguardi delle condizioni di esercizio delle medesime, fermo restando che non ne venga diminuita la percorrenza complessiva annua, ne' aumentato l'onere finanziario dello Stato stabiliti dallo convenzioni predette.
 
 ## Art. 5.
 

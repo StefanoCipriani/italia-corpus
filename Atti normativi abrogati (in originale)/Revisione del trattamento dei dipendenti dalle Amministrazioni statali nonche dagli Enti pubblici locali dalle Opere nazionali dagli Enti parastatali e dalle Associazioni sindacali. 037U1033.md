@@ -42,7 +42,7 @@ Gli aumenti spettanti in applicazione dei precedenti articoli 1 e 2, non sono co
 
 ## Art. 4.
 
-Le misure orarie del premi di operosita' e rendimento, previsti dal [R. decreto 17 febbraio 1924, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-17;182), sono fissate come appresso: 
+Le misure orarie del premi di operosita' e rendimento, previsti dal [R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), sono fissate come appresso: 
  
  L. 2,70, L. 2,50, L. 2,20 e L. 2 per il personale di ruolo appartenente, rispettivamente, ai gruppi A, B, C e subalterno; 
  
@@ -62,7 +62,7 @@ L'indennita' per orario straordinario prevista dal [R. decreto-legge 8 giugno 19
 
 ## Art. 6.
 
-I premi unitari per ora di lavoro impiegata, secondo l'orario dei treni, per servizio di condotta delle locomotive e di scorta ai treni, di cui agli articoli 42 e 50 delle disposizioni sulle competenze accessorie del personale delle Ferrovie dello Stato, approvate con [R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), sono stabiliti nelle misure seguenti: 
+I premi unitari per ora di lavoro impiegata, secondo l'orario dei treni, per servizio di condotta delle locomotive e di scorta ai treni, di cui agli articoli 42 e 50 delle disposizioni sulle competenze accessorie del personale delle Ferrovie dello Stato, approvate con [R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), sono stabiliti nelle misure seguenti: 
  
  lire 1,40 per il macchinista. 
  
@@ -86,7 +86,7 @@ I premi unitari per ora di lavoro impiegata, secondo l'orario dei treni, per ser
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 9 settembre 1938, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-09;1625), convertito senza modificazioni dalla [L. 5 gennaio 1939, n. 22](Conversione%20in%20legge%20del%20Regio%20decreto-legge%209%20settembre%201938-XVI%20n.%201625%20che%20apporta%20aggiunte%20al%20Regio%20decreto-legge%2027%20giugno%201937-XV%20n.%201033%20riguardante%20il%20trattamento%20di%20alcune%20catego_51c4e7bcfc78.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 9 settembre 1938, n. 1625](Aggiunte%20al%20R.%20decreto-legge%2027%20giugno%201937-XV%20n.%201033%20riguardante%20il%20trattamento%20di%20alcune%20categorie%20di%20personale%20delle%20Ferrovie%20dello%20Stato.%20038U1625.md), convertito senza modificazioni dalla [L. 5 gennaio 1939, n. 22](Conversione%20in%20legge%20del%20Regio%20decreto-legge%209%20settembre%201938-XVI%20n.%201625%20che%20apporta%20aggiunte%20al%20Regio%20decreto-legge%2027%20giugno%201937-XV%20n.%201033%20riguardante%20il%20trattamento%20di%20alcune%20catego_51c4e7bcfc78.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 7.
 
@@ -96,7 +96,7 @@ Gli aumenti stabiliti dall'art. 1 del presente decreto non hanno effetto sulle i
  
 a) ai premi per prolungamento di orario spettanti agli impiegati addetti a stabilimenti o servizi, in relazione all'orario di lavoro delle maestranze; 
  
- b) ai compensi per lavoro straordinario, festivo, notturno, ed a cottimo, nonche' ai premi di operosita' e di rendimento spettanti ai salariati con le norme del testo unico approvato con [R. decreto 24 dicembre 1924, n. 2114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-24;2114) e successive modificazioni. 
+ b) ai compensi per lavoro straordinario, festivo, notturno, ed a cottimo, nonche' ai premi di operosita' e di rendimento spettanti ai salariati con le norme del testo unico approvato con [R. decreto 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md) e successive modificazioni. 
  
  In ogni caso il compenso orario per lavoro straordinario, festivo e notturno, non puo' essere inferiore alla paga oraria ordinaria, diurna; 
  

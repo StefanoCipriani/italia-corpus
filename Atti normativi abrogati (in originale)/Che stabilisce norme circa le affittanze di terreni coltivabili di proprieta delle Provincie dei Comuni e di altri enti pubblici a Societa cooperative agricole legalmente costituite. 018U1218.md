@@ -26,7 +26,7 @@ Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-I terreni coltivabili di proprieta' delle Provincie, dei Comuni e delle Istituzioni pubbliche di beneficenza, possono essere concessi in affitto mediante trattativa privata, previa autorizzazione prefettizia, a Societa' cooperative agricole, le quali siano legalmente costituite e si trovino nelle condizioni stabilite dal [R. decreto 12 febbraio 1911, n. 278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;278). 
+I terreni coltivabili di proprieta' delle Provincie, dei Comuni e delle Istituzioni pubbliche di beneficenza, possono essere concessi in affitto mediante trattativa privata, previa autorizzazione prefettizia, a Societa' cooperative agricole, le quali siano legalmente costituite e si trovino nelle condizioni stabilite dal [R. decreto 12 febbraio 1911, n. 278](Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md). 
  
  Nel caso di pubbliche gare le suddette Societa' avranno diritto, a parita' di offerte, alla preferenza.
 
@@ -44,7 +44,7 @@ Le dette Societa' dovranno prestare a garanzia di tutti gli obblighi nascenti da
 
 ## Art. 5.
 
-Le disposizioni di cui agli articoli precedenti e quelle del [decreto Luogotenenziale 20 settembre 1917, n. 1676](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-09-20;1676) sono estese agli enti agrari esistenti nelle Provincie dell'ex-Stato pontificio e dell'Emilia, contemplati dalla [legge 4 agosto 1894, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-08-04;397), a condizione che i detti enti si obblighino di far coltivare direttamente i terreni dai propri componenti. 
+Le disposizioni di cui agli articoli precedenti e quelle del [decreto Luogotenenziale 20 settembre 1917, n. 1676](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-09-20;1676) sono estese agli enti agrari esistenti nelle Provincie dell'ex-Stato pontificio e dell'Emilia, contemplati dalla [legge 4 agosto 1894, n. 397](Sullordinamento%20dei%20dominii%20collettivi%20nelle%20provincie%20dellex%20Stato%20Pontificio%20094U0397.md), a condizione che i detti enti si obblighino di far coltivare direttamente i terreni dai propri componenti. 
  
  In caso di contratti ultranovennali da stipularsi da tali enti ai termini dello articolo 2, dovra' anche sentirsi il parere del Ministero di agricoltura. 
  

@@ -30,7 +30,7 @@ A decorrere dal 1° gennaio 1930 l'obbligo della iscrizione all'Istituto naziona
 
 ## Art. 4.
 
-L'assistenza ai sanitari e loro superstiti, di cui al precedente art. 3, verra' esercitata con le modalita' stabilite dall'[art. 3, n. 1, del R. decreto-legge 23 luglio 1925, n. 1605](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-23;1605#art_3-num1), e relativo regolamento approvato con [R. decreto 20 dicembre 1928, n. 3239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3239), mentre l'assistenza ed istruzione degli orfani di detti impiegati continuera' ad essere affidata alla Opera pia nazionale «Orfani dei sanitarii» di cui al R. decreto 21 luglio 1899 e successive modifiche.
+L'assistenza ai sanitari e loro superstiti, di cui al precedente art. 3, verra' esercitata con le modalita' stabilite dall'[art. 3, n. 1, del R. decreto-legge 23 luglio 1925, n. 1605](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-23;1605#art_3-num1), e relativo regolamento approvato con [R. decreto 20 dicembre 1928, n. 3239](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2023%20luglio%201925%20n.%201605%20concernente%20la%20costituzione%20di%20un%20Istituto%20nazionale%20a%20favore%20degli%20impiegati%20degli%20enti%20locali%20e%20_cbea002117f8.md), mentre l'assistenza ed istruzione degli orfani di detti impiegati continuera' ad essere affidata alla Opera pia nazionale «Orfani dei sanitarii» di cui al R. decreto 21 luglio 1899 e successive modifiche.
 
 ## Art. 5.
 
@@ -62,7 +62,7 @@ Quando i posti stabiliti per legge o per organico siano vacanti e gli impiegati 
 
 ## Art. 11.
 
-Gli enti che non trasmettono all'Istituto, entro il termine prescritto dall'[art. 33 del R. decreto 20 dicembre 1928, n. 3239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3239#art_33), gli elenchi dei propri impiegati obbligati al contributo dell'1 per cento, possono essere assoggettati ad una penalita', a favore dell'Istituto stesso, nella misura non superiore al 5 per cento dei contributi complessivamente dovuti. 
+Gli enti che non trasmettono all'Istituto, entro il termine prescritto dall'[art. 33 del R. decreto 20 dicembre 1928, n. 3239](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2023%20luglio%201925%20n.%201605%20concernente%20la%20costituzione%20di%20un%20Istituto%20nazionale%20a%20favore%20degli%20impiegati%20degli%20enti%20locali%20e%20_cbea002117f8.md), gli elenchi dei propri impiegati obbligati al contributo dell'1 per cento, possono essere assoggettati ad una penalita', a favore dell'Istituto stesso, nella misura non superiore al 5 per cento dei contributi complessivamente dovuti. 
  
  Tale penalita' verra' inflitta con decreto del prefetto, che sara' notificato all'ente inadempiente, per l'azione di valsa sui propri impiegati responsabili, ed all'Istituto, dopo passato in giudicato. 
  
@@ -108,13 +108,13 @@ E' motivo di decadenza per i consiglieri:
 
 ## Art. 15.
 
-In aggiunta alla somma da destinare annualmente al conferimento di assegni vitalizi agli impiegati e loro superstiti che si trovano nelle condizioni stabilite con le lettere a) e b) dell'art. 48 del regolamento approvato con [R. decreto 20 dicembre 1928, n. 3239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3239), l'Istituto potra' stanziare nel proprio bilancio passivo, subordinatamente agli impegni in precedenza assunti ed alle disponibilita' dell'ente, un fondo annuo da destinare al conferimento di assegni vitalizi in favore: 
+In aggiunta alla somma da destinare annualmente al conferimento di assegni vitalizi agli impiegati e loro superstiti che si trovano nelle condizioni stabilite con le lettere a) e b) dell'art. 48 del regolamento approvato con [R. decreto 20 dicembre 1928, n. 3239](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2023%20luglio%201925%20n.%201605%20concernente%20la%20costituzione%20di%20un%20Istituto%20nazionale%20a%20favore%20degli%20impiegati%20degli%20enti%20locali%20e%20_cbea002117f8.md), l'Istituto potra' stanziare nel proprio bilancio passivo, subordinatamente agli impegni in precedenza assunti ed alle disponibilita' dell'ente, un fondo annuo da destinare al conferimento di assegni vitalizi in favore: 
  
  1° degli impiegati e loro superstiti che non abbiano compiuto il termine minimo di cinque anni di iscrizione all'Istituto, voluto dalla lettera a) del suaccennato art. 48 del regolamento; 
  
  2° degli impiegati e loro superstiti che siano cessati dal servizio anteriormente al 1° gennaio 1925. 
  
- La somma da destinare a tali scopi non potra' eccedere i 2/10 dell'importo totale degli assegni da conferire annualmente agli iscritti e superstiti di cui alle lettere a) e b) del succitato art. 48 dell regolamento e gli assegni saranno conferiti nella misura e con le modalita' tutte previste nel regolamento approvato con [R. decreto 20 dicembre 1928, n. 3239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3239). 
+ La somma da destinare a tali scopi non potra' eccedere i 2/10 dell'importo totale degli assegni da conferire annualmente agli iscritti e superstiti di cui alle lettere a) e b) del succitato art. 48 dell regolamento e gli assegni saranno conferiti nella misura e con le modalita' tutte previste nel regolamento approvato con [R. decreto 20 dicembre 1928, n. 3239](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2023%20luglio%201925%20n.%201605%20concernente%20la%20costituzione%20di%20un%20Istituto%20nazionale%20a%20favore%20degli%20impiegati%20degli%20enti%20locali%20e%20_cbea002117f8.md). 
  
  L'ammontare degli assegni da conferire agli impiegati e loro superstiti indicati ai nn. 1 e 2 del presente articolo sara' ripartito in parti uguali tra i due gruppi e la eventuale economia che si verifichi, al momento della assegnazione sul gruppo indicato al n. 2, andra' in aumento della dotazione pel gruppo n. 1. 
  
@@ -182,7 +182,7 @@ L'Istituto nazionale a favore degli impiegati degli enti locali e loro superstit
 
 ## Art. 24.
 
-L'[art. 2 del R. decreto-legge 13 gennaio 1927, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-13;75#art_2), e' sostituito dal seguente: 
+L'[art. 2 del R. decreto-legge 13 gennaio 1927, n. 75](Provvedimenti%20per%20lIstituto%20nazionale%20a%20favore%20degli%20impiegati%20degli%20enti%20locali.%20027U0075.md), e' sostituito dal seguente: 
  
  «Sono estesi all'Istituto i benefici consentiti in materia di imposte dirette da leggi e disposizioni speciali per le Amministrazioni dello Stato. 
  

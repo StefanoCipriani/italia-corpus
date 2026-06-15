@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 settembre 1931, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-18;1238), concernente il riscatto della ferrovia Aosta-Pre' Saint Didier. 
+ E' convertito in legge il [R. decreto-legge 18 settembre 1931, n. 1238](Riscatto%20della%20ferrovia%20Aosta%20-%20Pre%20Saint%20Didier.%20031U1238.md), concernente il riscatto della ferrovia Aosta-Pre' Saint Didier. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

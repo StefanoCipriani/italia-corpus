@@ -12,7 +12,7 @@ vigente: true
 
 Per tutto il periodo della guerra il ministro della guerra ha facolta' di provvedere, coi suoi decreti, da registrarsi alla Corte dei conti, alla creazione di Consigli di amministrazione e alla nomina di consegnatari per la gestione del danaro e delle materie di enti militari cui ritenga utile concedere autonomia amministrativa, siano tali enti di nuova formazione o siano provenienti dalla scissione di unita' o stabilimenti gia' esistenti in tempo di pace. 
  
- Ai Consigli ed ai consegnatari di cui al comma precedente, saranno applicabili tutte le norme contenute per i Consigli e i consegnatari di unita' o stabilimenti analoghi nel regolamento per l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari approvato col [R. decreto 6 agosto 1911, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-08-06;1413). 
+ Ai Consigli ed ai consegnatari di cui al comma precedente, saranno applicabili tutte le norme contenute per i Consigli e i consegnatari di unita' o stabilimenti analoghi nel regolamento per l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari approvato col [R. decreto 6 agosto 1911, n. 1413](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20011U1413.md). 
  
  La composizione dei nuovi Consigli sara' stabilita dagli stessi decreti ministeriali coi quali verranno creati.
 

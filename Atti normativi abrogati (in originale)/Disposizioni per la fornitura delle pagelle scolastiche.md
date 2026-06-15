@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A decorrere dall'anno scolastico 1945-46 le disposizioni contenute negli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-21;1308#art_1) e [2 del R. decreto-legge 21 settembre 1933, n. 1308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-21;1308#art_2), concernente la fornitura di un tipo unico di pagella scolastica agli alunni delle scuole e degli istituti di istruzionie secondaria, sono estese alla fornitura delle pagelle scolastiche agli alunni delle scuole elementari.
+A decorrere dall'anno scolastico 1945-46 le disposizioni contenute negli [articoli 1](Disposizioni%20per%20ladozione%20di%20un%20unico%20modello%20di%20pagella%20scolastica%20negli%20Istituti%20distruzione%20media.%20033U1308.md) e [2 del R. decreto-legge 21 settembre 1933, n. 1308](Disposizioni%20per%20ladozione%20di%20un%20unico%20modello%20di%20pagella%20scolastica%20negli%20Istituti%20distruzione%20media.%20033U1308.md), concernente la fornitura di un tipo unico di pagella scolastica agli alunni delle scuole e degli istituti di istruzionie secondaria, sono estese alla fornitura delle pagelle scolastiche agli alunni delle scuole elementari.
 
 ## Art. 2.
 

@@ -46,7 +46,7 @@ Il Commissariato, ordinato gerarchicamente, sara' presieduto da un Alto commissa
 
 Per il disimpegno dei servizi affidatigli il Commissariato, esclusa la istituzione di nuovi posti organici, avra' un personale, ivi compreso il capo ragioniere, determinato con decreto Reale su proposta del ministro del tesoro, udito l'Alto commissario, e che potra' essere costituito da funzionari dello Stato in attivita' di servizio od a riposo, da ufficiali o militari dichiarati non idonei alle fatiche di guerra, ovvero da profughi. 
  
- Il personale in attivita' di servizio continuera' ad appartenere ai ruoli di origine; quello estraneo all'Amministrazione verra' assunto, udito l'Alto commissario, con le norme dell'[art. 9 della legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182#art_9), concernente gli impiegati avventizi. 
+ Il personale in attivita' di servizio continuera' ad appartenere ai ruoli di origine; quello estraneo all'Amministrazione verra' assunto, udito l'Alto commissario, con le norme dell'[art. 9 della legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md), concernente gli impiegati avventizi. 
  
  L'ordinamento interno di tale personale e cioe' l'assegnazione di esso ai vari servizi, le norme disciplinari e simili, sara' stabilito con decreto dell'Alto commissario.
 

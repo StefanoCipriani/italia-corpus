@@ -33,7 +33,7 @@ E M A N A il seguente decreto:
 Il presente decreto stabilisce le misure minime per la protezione delle galline ovaiole in batteria da sofferenze inutili ed eccessive.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2.
 
@@ -61,7 +61,7 @@ A decorrere dalla data di entrata in vigore del presente decreto, le gabbie in b
                         d)
                             l'altezza minima della gabbia in batteria non deve essere inferiore a 40 cm per il 65 per cento della superficie ed a 35 cm di ogni punto;
                         e)
-                            il pavimento delle gabbie deve essere costruito in modo da sostenere adeguatamente ciascuna delle dita anteriori di ciascuna zampa. La pendenza del pavimento non deve superare il 14 per cento ovvero gli otto gradi. In caso di pavimenti diversi da quelli provvisti di rete metallica rettangolare e' permessa una diversa pendenza, previo esperimento della procedura di cui all'[art. 3 della legge 14 ottobre 1985, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-10-14;623#art_3).
+                            il pavimento delle gabbie deve essere costruito in modo da sostenere adeguatamente ciascuna delle dita anteriori di ciascuna zampa. La pendenza del pavimento non deve superare il 14 per cento ovvero gli otto gradi. In caso di pavimenti diversi da quelli provvisti di rete metallica rettangolare e' permessa una diversa pendenza, previo esperimento della procedura di cui all'[art. 3 della legge 14 ottobre 1985, n. 623](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md).
 
 2.
 
@@ -73,7 +73,7 @@ A decorrere dal 1 gennaio 1995 tutte le gabbie in batteria
 devono soddisfare ai requisiti minimi di cui al comma 1.
 
 Nota all'art. 3:
- Il testo dell'[art. 3 della legge 14 ottobre 1985, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-10-14;623#art_3) (Ratifica ed esecuzione delle convenzioni sulla protezione degli animali negli allevamenti e sulla protezione degli animali da macello, adottate a Strasburgo rispettivamente il 10 marzo 1976 e il 10 maggio 1979), e' il seguente:
+ Il testo dell'[art. 3 della legge 14 ottobre 1985, n. 623](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md) (Ratifica ed esecuzione delle convenzioni sulla protezione degli animali negli allevamenti e sulla protezione degli animali da macello, adottate a Strasburgo rispettivamente il 10 marzo 1976 e il 10 maggio 1979), e' il seguente:
  "Art. 3. - Con delibera adottata dal Consiglio dei Ministri su proposta del Presidente del Consiglio d'intesa con i Ministri dell'agricoltura e delle foreste e della sanita', sentiti il Consiglio sanitario nazionale e la commissione di cui all'art. 4 della presente legge, al fine di assicurare sul territorio nazionale un regime uniforme di protezione degli animali da allevamento e da macello, sono emanate, ai sensi dell'[art. 5 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_5), norme di indirizzo e di coordinamento dell'attivita' amministrativa delle regioni in base ai princi'pi contenuti nelle convenzioni europee di cui all'art. 1, nonche' nelle raccomandazioni approvate dal comitato di cui all'art. 8 della convenzione europea sulla protezione degli animali negli allevamenti, in particolare per quanto riguarda i seguenti aspetti:
  a) caratteristiche degli impianti;
  b) igiene dell'alimentazione;

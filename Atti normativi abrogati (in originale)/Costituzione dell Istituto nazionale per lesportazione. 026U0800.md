@@ -140,7 +140,7 @@ La direzione dell'Ufficio e' affidata ad un direttore generale che potra' essere
 
 ## Art. 9.
 
-Qualora la scelta del direttore generale cada su di un funzionario dell'Amministrazione dello Stato in attivita' di servizio, questi e' collocato fuori ruolo, secondo le norme dell'[art. 17 del R. decreto 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-10;46#art_17), nell'Amministrazione dalla quale dipende e alla sua posizione di carriera si applicano le disposizioni del [R. decreto 30 dicembre 1923, n. 2958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2958). 
+Qualora la scelta del direttore generale cada su di un funzionario dell'Amministrazione dello Stato in attivita' di servizio, questi e' collocato fuori ruolo, secondo le norme dell'[art. 17 del R. decreto 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-10;46#art_17), nell'Amministrazione dalla quale dipende e alla sua posizione di carriera si applicano le disposizioni del [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md). 
  
  Le retribuzioni del direttore generale sono a carico dell'Istituto. 
  
@@ -210,7 +210,7 @@ Entro 6 mesi dalla sua costituzione il Consiglio generale sottoporra' al Ministr
 
 ### Art. 20.
 
-A far tempo dal 1° luglio 1926 e' abolito l'Ufficio di informazioni commerciali, e del Bollettino di notizie commerciali, esistente presso la Direzione generale del commercio e della politica economica, di cui al [R. decreto 6 settembre 1923, n. 2125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-06;2125).
+A far tempo dal 1° luglio 1926 e' abolito l'Ufficio di informazioni commerciali, e del Bollettino di notizie commerciali, esistente presso la Direzione generale del commercio e della politica economica, di cui al [R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md).
 
 ### Art. 21.
 

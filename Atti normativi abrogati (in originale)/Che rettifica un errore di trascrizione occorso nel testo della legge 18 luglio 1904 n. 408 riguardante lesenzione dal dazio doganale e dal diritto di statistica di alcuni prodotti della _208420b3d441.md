@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'art. 2 della su accennata [legge 18 luglio 1904, numero 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-18;408), stata approdata dal Senato e dalla Camera dei deputati, e' da Noi sanzionato e promulgato come segue: 
+L'art. 2 della su accennata [legge 18 luglio 1904, numero 408](Che%20concede%20lesenzione%20dal%20dazio%20doganale%20e%20dal%20diritto%20di%20statistica%20allentrata%20nel%20Regno%20al%20frumento%20e%20ad%20altri%20prodotti%20originari%20della%20Colonia%20Eritrea.%20004U0408.md), stata approdata dal Senato e dalla Camera dei deputati, e' da Noi sanzionato e promulgato come segue: 
  
  «E' concessa, senza limiti di quantita', l'esenzione dal dazio doganale e dal diritto di statistica, all'entrata nel Regno, per i seguenti prodotti originari della Colonia Eritrea: 
  

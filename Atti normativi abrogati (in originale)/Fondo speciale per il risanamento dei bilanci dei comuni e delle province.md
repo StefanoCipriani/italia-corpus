@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
-Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modifiche, nella [legge 24 luglio 1972, n. 321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-07-24;321);
+Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modifiche, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com1);
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -53,7 +53,7 @@ I comuni e le province devono produrre motivata istanza al comitato, presso il M
 
 ## Art. 5. — Poteri del comitato
 
-Il comitato, avuto riguardo alla disponibilita' annuale del fondo, determina, con particolare considerazione per gli enti cui si applicano i benefici previsti dal [decreto del Presidente della Repubblica 30 giugno 1967, n. 1523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-06-30;1523), i criteri di massima da seguire per la valutazione delle domande, tenendo anche conto dell'incidenza che il risanamento dei bilanci potra' avere sugli indirizzi di politica economica. 
+Il comitato, avuto riguardo alla disponibilita' annuale del fondo, determina, con particolare considerazione per gli enti cui si applicano i benefici previsti dal [decreto del Presidente della Repubblica 30 giugno 1967, n. 1523](../DPR/Testo%20unico%20delle%20leggi%20sul%20Mezzogiorno.md), i criteri di massima da seguire per la valutazione delle domande, tenendo anche conto dell'incidenza che il risanamento dei bilanci potra' avere sugli indirizzi di politica economica. 
  Nell'esame dei piani di risanamento il comitato deve tener conto in via prioritaria dei programmi volti ad eliminare le cause dell'indebitamento, attraverso la graduale riduzione delle spese e le eventuali maggiori entrate che i comuni e le province ritengano di poter realizzare nel periodo considerato. 
  Il comitato, qualora ritenga che il piano di risanamento prodotto debba essere modificato, suggerisce alle amministrazioni interessate, dandone comunicazione anche alle regioni, le variazioni da introdurvi ed assegna un congruo termine per provvedervi. 
  I comuni e le province ove non ritengano di accogliere le variazioni proposte dal comitato possono controdedurre nello stesso termine di cui al precedente comma. 

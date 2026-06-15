@@ -28,7 +28,7 @@ E' istituito alla dipendenza del Ministero di agricoltura, industria e commercio
 
 Gl'ispettori hanno facolta' di visitare in ogni parte, a qualunque ora del giorno ed anche della notte, i laboratori, gli opifici, i cantieri ed i lavori in quanto siano sottoposti alla loro vigilanza nonche' i dormitori e refettori annessi agli stabilimenti. 
  
- Nel caso di rifiuto d'obbedienza agli ispettori del lavoro, salve le penalita' stabilite dalle singole leggi, sono applicabili gli [articoli 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_434), [435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_435), [436 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_436). 
+ Nel caso di rifiuto d'obbedienza agli ispettori del lavoro, salve le penalita' stabilite dalle singole leggi, sono applicabili gli [articoli 434](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [435](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [436 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Gl'ispettori hanno diritto di elevare verbale di contravvenzione alle leggi accennate dall'art. 1. 
  
@@ -38,7 +38,7 @@ Gl'ispettori hanno facolta' di visitare in ogni parte, a qualunque ora del giorn
 
 ## Art. 3.
 
-Le indagini sui processi di lavorazione che gli industriali vogliono tenere segreti, devono essere limitate solo a quanto si riferisce all'igiene ed alla immunita' degli operai, e solo per questa parte possono essere comunicati i relativi risultati. Gli ispettori ed il personale dipendente devono conservare il segreto sopra tali processi e sopra ogni altro particolare di lavorazione, che venisse a loro conoscenza per ragioni di ufficio, sotto le sanzioni dell'[art. 298 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_298). 
+Le indagini sui processi di lavorazione che gli industriali vogliono tenere segreti, devono essere limitate solo a quanto si riferisce all'igiene ed alla immunita' degli operai, e solo per questa parte possono essere comunicati i relativi risultati. Gli ispettori ed il personale dipendente devono conservare il segreto sopra tali processi e sopra ogni altro particolare di lavorazione, che venisse a loro conoscenza per ragioni di ufficio, sotto le sanzioni dell'[art. 298 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  E' vietato agli ispettori di intraprendere, per conto proprio o di terzi, alcuna impresa, industria o costruzione, come pure di esservi in qualunque modo interessati o impiegati.
 

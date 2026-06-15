@@ -56,7 +56,7 @@ Gli ufficiali collocati in «congedo speciale» sono tolti definitivamente dai r
 
 Agli ufficiali collocati in «congedo speciale» competono i quattro quinti di tutti gli assegni ed indennita' (esclusa la sola indennita' di aeronavigazione o di volo) spettanti ai pari grado del servizio permanente effettivo. 
  
- Agli ufficiali che ai sensi del [R. decreto-legge 27 luglio 1934, n. 1340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-27;1340), abbiano diritto pel trattamento di pensione ai benefizi del servizio di aeronavigazione o di volo compete - oltre al trattamento di cui al 1° comma - una indennita' di «congedo speciale» pari all'aliquota del trattamento di pensione maturata in dipendenza dei benefizi del servizio di aeronavigazione o di volo, computata secondo le norme stabilite dall'art. 9 del cennato [R. decreto-legge 27 luglio 1934, numero 1340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-27;1340). 
+ Agli ufficiali che ai sensi del [R. decreto-legge 27 luglio 1934, n. 1340](Trattamento%20di%20pensione%20al%20personale%20militare%20della%20Regia%20aeronautica.%20034U1340.md), abbiano diritto pel trattamento di pensione ai benefizi del servizio di aeronavigazione o di volo compete - oltre al trattamento di cui al 1° comma - una indennita' di «congedo speciale» pari all'aliquota del trattamento di pensione maturata in dipendenza dei benefizi del servizio di aeronavigazione o di volo, computata secondo le norme stabilite dall'art. 9 del cennato [R. decreto-legge 27 luglio 1934, numero 1340](Trattamento%20di%20pensione%20al%20personale%20militare%20della%20Regia%20aeronautica.%20034U1340.md). 
  
  Ai generali e colonnelli, oltre il trattamento di cui ai commi precedenti, compete una indennita' supplementare di «congedo speciale» costituita da un quinto di tutti gli assegni di indennita (esclusa la sola indennita' di aeronavigazione o di volo) spettante al pari grado del servizio permanente effettivo.
 
@@ -72,11 +72,11 @@ Gli ufficiali collocati in «congedo speciale» rimangono in tale posizione salv
  
  L'ufficiale che, collocato di autorita' in «congedo speciale», abbia diritto al computo di almeno una campagna della guerra 1915-18, qualora non abbia raggiunto 19 anni, 6 mesi ed un giorno di servizio effettivo al momento in cui dovrebbe cessare, ai sensi del 1° comma, dalla posizione di «congedo speciale», sara' trattenuto nella posizione stessa fino al compimento del periodo sopra detto, ma non oltre il raggiungimento del limite di eta' del proprio grado, e collocato in ausiliaria o a riposo (con o senza inscrizione nella riserva) a seconda della idoneita'. 
  
- Ai generali e colonnelli collocati in ausiliaria al termine della permanenza nella posizione di «congedo speciale» e che abbiano ottenuto il riconoscimento di almeno due campagne della guerra 1915-18, ovvero una campagna 1915-18 ed una della guerra italo-turca 29 settembre 1911-18 ottobre 1912, oppure una campagna 1915-18 e due campagne nelle colonie libiche nello stesso periodo 1915-18, compete per il periodo previsto dalle vigenti disposizioni, compreso l'[art. 4 del R. decreto-legge 8 settembre 1932, n. 1406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-08;1406#art_4), la seguente indennita' annua, oltre gli assegni normali di pensione, qualunque sia il numero degli anni di servizio prestato: 
+ Ai generali e colonnelli collocati in ausiliaria al termine della permanenza nella posizione di «congedo speciale» e che abbiano ottenuto il riconoscimento di almeno due campagne della guerra 1915-18, ovvero una campagna 1915-18 ed una della guerra italo-turca 29 settembre 1911-18 ottobre 1912, oppure una campagna 1915-18 e due campagne nelle colonie libiche nello stesso periodo 1915-18, compete per il periodo previsto dalle vigenti disposizioni, compreso l'[art. 4 del R. decreto-legge 8 settembre 1932, n. 1406](Trattamento%20da%20usare%20agli%20ufficiali%20generali%20ed%20ai%20colonnelli%20della%20Regia%20aeronautica%20collocati%20in%20posizione%20ausiliaria%20direttamente%20dal%20servizio%20permanente%20effettivo.%20032U1406.md), la seguente indennita' annua, oltre gli assegni normali di pensione, qualunque sia il numero degli anni di servizio prestato: 
  
  Colonnelli L. 9.000 
  
- Colonnelli che si trovino nelle condizioni previste dall'[art. 4 del R. decreto-legge 8 settembre 1932, n. 1406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-08;1406#art_4) » 12.000 
+ Colonnelli che si trovino nelle condizioni previste dall'[art. 4 del R. decreto-legge 8 settembre 1932, n. 1406](Trattamento%20da%20usare%20agli%20ufficiali%20generali%20ed%20ai%20colonnelli%20della%20Regia%20aeronautica%20collocati%20in%20posizione%20ausiliaria%20direttamente%20dal%20servizio%20permanente%20effettivo.%20032U1406.md) » 12.000 
  
  Generali di brigata e corrispondenti » 12.000 
  
@@ -90,7 +90,7 @@ Gli ufficiali collocati in «congedo speciale» rimangono in tale posizione salv
 
 Il periodo trascorso in «congedo speciale» si computa per intero agli effetti della pensione, escluso, per quanto riguarda il servizio di volo, l'aumento di favore previsto dall'[art. 5 del decreto-legge 27 luglio 1934, n. 1340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1934-07-27;1340#art_5). 
  
- Durante il «congedo speciale» gli ufficiali possono contrarre matrimonio senza il Regio assentimento di cui all'art. 1 del testo unico delle leggi sul matrimonio degli ufficiali approvato con [R. decreto 9 febbraio 1928, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-09;371).
+ Durante il «congedo speciale» gli ufficiali possono contrarre matrimonio senza il Regio assentimento di cui all'art. 1 del testo unico delle leggi sul matrimonio degli ufficiali approvato con [R. decreto 9 febbraio 1928, n. 371](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md).
 
 ## Art. 11.
 
@@ -104,7 +104,7 @@ Le disposizioni della presente legge non si applicano agli ufficiali esclusi def
 
 ## Art. 13.
 
-E' abrogato il [R. decreto-legge 6 aprile 1926, n. 657](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-06;657), eccetto il disposto dell'art. 8 del Regio decreto-legge stesso. 
+E' abrogato il [R. decreto-legge 6 aprile 1926, n. 657](Varianti%20alle%20norme%20vigenti%20sullo%20stato%20e%20sullavanzamento%20degli%20ufficiali%20e%20dei%20sottufficiali%20della%20Regia%20aeronautica.%20026U0657.md), eccetto il disposto dell'art. 8 del Regio decreto-legge stesso. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

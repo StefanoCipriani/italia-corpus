@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 25 gennaio 1940, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-01-25;9), convertito nella [legge 13 maggio 1940, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-13;674);
+Visto il [R. decreto-legge 25 gennaio 1940, n. 9](Nuove%20condizioni%20e%20tariffe%20per%20il%20trasporto%20delle%20cose%20sulle%20ferrovie%20dello%20Stato.%20040U0009.md), convertito nella [legge 13 maggio 1940, n. 674](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2025%20gennaio%201940-XVIII%20n.%209%20concernente%20la%20semplificazione%20e%20ladeguamento%20delle%20tariffe%20per%20il%20trasporto%20delle%20merci%20sulle%20ferrovie%20dello%20Stato.%20040U0674.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2-B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e successive modificazioni;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2-B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e successive modificazioni;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Su proposta del Ministro Segretario di Stato per le comunicazioni, d'intesa col 
 
 ## Art. 1.
 
-Per tutta la durata dello stato di guerra il trasporto delle cose sulle Ferrovie dello Sfato, in deroga alle condizioni e tariffe approvate con [R. decreto-legge 25 gennaio 1940, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-01-25;9), convertito nella [legge 13 maggio 1940, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-13;674), e' accettato a solo rischio e pericolo del mittente.
+Per tutta la durata dello stato di guerra il trasporto delle cose sulle Ferrovie dello Sfato, in deroga alle condizioni e tariffe approvate con [R. decreto-legge 25 gennaio 1940, n. 9](Nuove%20condizioni%20e%20tariffe%20per%20il%20trasporto%20delle%20cose%20sulle%20ferrovie%20dello%20Stato.%20040U0009.md), convertito nella [legge 13 maggio 1940, n. 674](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2025%20gennaio%201940-XVIII%20n.%209%20concernente%20la%20semplificazione%20e%20ladeguamento%20delle%20tariffe%20per%20il%20trasporto%20delle%20merci%20sulle%20ferrovie%20dello%20Stato.%20040U0674.md), e' accettato a solo rischio e pericolo del mittente.
 
 ## Art. 2.
 

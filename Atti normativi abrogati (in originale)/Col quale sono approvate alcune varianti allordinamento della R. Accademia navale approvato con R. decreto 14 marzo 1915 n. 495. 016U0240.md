@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 14 marzo 1915, n. 495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-14;495), che approva l'ordinamento della R. Accademia navale; 
+ Visto il [R. decreto 14 marzo 1915, n. 495](Col%20quale%20e%20approvato%20il%20nuovo%20ordinamento%20della%20R.%20Accademia%20navale.%20015U0495.md), che approva l'ordinamento della R. Accademia navale; 
  
  Sentito il Consiglio superiore di marina; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Sono approvate le annesse varianti all'ordinamento della R Accademia navale approvato con [R. decreto 14 marzo 1915, n. 495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-14;495), firmate, d'ordine Nostro, dal ministro della marina. 
+ Sono approvate le annesse varianti all'ordinamento della R Accademia navale approvato con [R. decreto 14 marzo 1915, n. 495](Col%20quale%20e%20approvato%20il%20nuovo%20ordinamento%20della%20R.%20Accademia%20navale.%20015U0495.md), firmate, d'ordine Nostro, dal ministro della marina. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

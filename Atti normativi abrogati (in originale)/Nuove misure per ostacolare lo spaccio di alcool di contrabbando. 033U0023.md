@@ -113,7 +113,7 @@ L'art. 57 e' sostituito dal seguente:
  
  Le pene della multa e, dell'ammenda, non eseguite per insolvenza del condannato, si convertono rispettivamente nella reclusione o nell'arresto per non oltre sei mesi, o per non oltre un anno se si tratta di recidivi. 
  
- La norma del comma precedette e' stabilita in deroga a quanto dispone l'[art. 136 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_136), osservato peraltro, in ordine al ragguaglio, l'art. 135 dello stesso Codice.
+ La norma del comma precedette e' stabilita in deroga a quanto dispone l'[art. 136 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), osservato peraltro, in ordine al ragguaglio, l'art. 135 dello stesso Codice.
 
 ## Art. 9.
 

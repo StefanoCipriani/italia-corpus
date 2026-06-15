@@ -14,7 +14,7 @@ Fino a nuova disposizione, la pesca nell'Adriatico e' vietata, tanto di notte co
  
  Il ministro della marina potra' permettere in quei tratti di costa che saranno da lui designati, dal sorgere al tramontare del sole, l'esercizio della pesca da terra, mediante ami, reti a mano o impianti fissi. Nell'esercizio della pesca con reti a mano potranno essere impiegati esclusivamente battelli a remi, privi di qualsiasi albero od antenna, che non dovranno allontanarsi dalla spiaggia piu' di cinquecento metri. 
  
- Per le contravvenzioni alle disposizioni del presente decreto sono applicabili le prescrizioni degli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-16;612#art_10) e [11 della legge 16 giugno 1912, n. 612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-16;612#art_11).
+ Per le contravvenzioni alle disposizioni del presente decreto sono applicabili le prescrizioni degli [articoli 10](Che%20determina%20norme%20per%20il%20transito%20ed%20il%20soggiorno%20delle%20navi%20mercantili%20lungo%20le%20coste%20dello%20Stato.%20012U0612.md) e [11 della legge 16 giugno 1912, n. 612](Che%20determina%20norme%20per%20il%20transito%20ed%20il%20soggiorno%20delle%20navi%20mercantili%20lungo%20le%20coste%20dello%20Stato.%20012U0612.md).
 
 ## Art. 2.
 

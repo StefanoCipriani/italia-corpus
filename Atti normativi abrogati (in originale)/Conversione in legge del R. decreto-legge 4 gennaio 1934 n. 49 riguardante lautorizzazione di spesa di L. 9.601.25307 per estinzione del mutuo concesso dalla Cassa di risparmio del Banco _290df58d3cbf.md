@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 gennaio 1934, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-04;49), riguardante l'autorizzazione di spesa di L. 9.601.253,07 per provvedere al pagamento delle ultime tre rate dovute alla Cassa di risparmio del Banco di Napoli ad estinzione del mutuo concesso per i lavori di ampliamento ed arredamento del porto di Napoli, eseguiti dal soppresso Ente portuale in base alla convenzione 8 febbraio 1918, approvata con [decreto Luogotenenziale 10 marzo 1918, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-03-10;448). 
+ E' convertito in legge il [R. decreto-legge 4 gennaio 1934, n. 49](Spesa%20di%20L.%209.601.25307%20per%20estinzione%20del%20mutuo%20concesso%20dalla%20Cassa%20di%20risparmio%20del%20Banco%20di%20Napoli%20per%20lavori%20nel%20porto%20di%20Napoli.%20034U0049.md), riguardante l'autorizzazione di spesa di L. 9.601.253,07 per provvedere al pagamento delle ultime tre rate dovute alla Cassa di risparmio del Banco di Napoli ad estinzione del mutuo concesso per i lavori di ampliamento ed arredamento del porto di Napoli, eseguiti dal soppresso Ente portuale in base alla convenzione 8 febbraio 1918, approvata con [decreto Luogotenenziale 10 marzo 1918, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-03-10;448). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

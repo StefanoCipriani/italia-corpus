@@ -20,7 +20,7 @@ Visto il testo unico delle leggi sull'istruzione superiore approvato con [R. dec
 
 Visto il decreto 4 giugno 1938, n. 1269;
 
-Visto il [R. decreto 27 gennaio 1944, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-01-27;60);
+Visto il [R. decreto 27 gennaio 1944, n. 60](Istituzione%20presso%20la%20R.%20Universita%20di%20Bari%20di%20corsi%20dinsegnamento%20per%20lanno%20accademico%201943-1944.%20044U0060.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello p
 
 ## Art. 1.
 
-I corsi d'insegnamento istituiti presso la Regia universita' di Bari col [R. decreto 27 gennaio 1944, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-01-27;60), per l'anno accademico 1943-44 continueranno a funzionare fino a tutto l'anno accademico, nel quale verra' dichiarata la cessazione dello stato di guerra. 
+I corsi d'insegnamento istituiti presso la Regia universita' di Bari col [R. decreto 27 gennaio 1944, n. 60](Istituzione%20presso%20la%20R.%20Universita%20di%20Bari%20di%20corsi%20dinsegnamento%20per%20lanno%20accademico%201943-1944.%20044U0060.md), per l'anno accademico 1943-44 continueranno a funzionare fino a tutto l'anno accademico, nel quale verra' dichiarata la cessazione dello stato di guerra. 
  
  A decorrere dall'anno accademico 1944-45 e' istituito il secondo anno dei corsi per il conseguimento della laurea in scienze matematiche e in matematica e fisica.
 

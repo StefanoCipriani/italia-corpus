@@ -34,7 +34,7 @@ Ai sensi dell'articolo precedente possono essere concesse le seguenti agevolazio
  
 a) per gli acquisti di immobili in Italia, da parte di cittadini stranieri o da parte di italiani stabilmente residenti all'estero, il cui valore in comune commercio sia superiore a L. 500.000: tassa fissa di L. 10 in luogo delle imposte proporzionali di registro e di trascrizione ipotecaria ed esenzione dai diritti catastali; 
  
- b) per i mutui contratti verso l'estero da privati, da societa' ed enti, le esenzioni di cui al [R. decreto 16 dicembre 1922, n. 1634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-16;1634), ed al [R. decreto-legge 11 settembre 1925, numero 1635](Agevolazioni%20tributarie%20per%20le%20operazioni%20di%20mutuo%20ed%20il%20collocamento%20di%20obbligazioni%20allEstero.%20025U1635.md); 
+ b) per i mutui contratti verso l'estero da privati, da societa' ed enti, le esenzioni di cui al [R. decreto 16 dicembre 1922, n. 1634](Concernente%20la%20esenzione%20dallimposta%20di%20ricchezza%20mobile%20per%20gli%20interessi%20dei%20mutui%20contratti%20e%20delle%20obbligazioni%20collettive%20allEstero%20da%20Societa%20Provincie%20Comuni%20ed%20altri%20Enti.%20022U1634.md), ed al [R. decreto-legge 11 settembre 1925, numero 1635](Agevolazioni%20tributarie%20per%20le%20operazioni%20di%20mutuo%20ed%20il%20collocamento%20di%20obbligazioni%20allEstero.%20025U1635.md); 
  
 c) per le obbligazioni collocate all'estero l'esenzione dall'imposta del 10 per cento stabilita dal [R. decreto-legge 7 settembre 1935, n. 1627](Istituzione%20di%20una%20imposta%20del%2010%20per%20cento%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20societa%20istituti%20ed%20enti%20diversi%20dallo%20Stato.%20035U1627.md), in aggiunta alle agevolazioni di cui alla precedente lettera b); 
  
@@ -60,9 +60,9 @@ Le persone, le societa' e gli enti che intendono avvalersi delle agevolazioni fi
 
 ## Art. 6.
 
-Il Comitato di cui all'[art. 3 del R. decreto 5 gennaio 1928, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-05;1#art_3), e' soppresso. 
+Il Comitato di cui all'[art. 3 del R. decreto 5 gennaio 1928, n. 1](Norme%20per%20la%20disciplina%20della%20contrattazione%20di%20operazioni%20di%20mutuo%20allestero.%20028U0001.md), e' soppresso. 
  
- Sulle domande dirette ad ottenere l'autorizzazione di cui all'art. 1 del predetto [R. decreto 5 gennaio 1928, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-05;1), per la contrazione di prestiti all'estero, decidera' il Ministro per le finanze, di concerto con il Ministro per gli scambi e per le valute. 
+ Sulle domande dirette ad ottenere l'autorizzazione di cui all'art. 1 del predetto [R. decreto 5 gennaio 1928, n. 1](Norme%20per%20la%20disciplina%20della%20contrattazione%20di%20operazioni%20di%20mutuo%20allestero.%20028U0001.md), per la contrazione di prestiti all'estero, decidera' il Ministro per le finanze, di concerto con il Ministro per gli scambi e per le valute. 
  
  Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge. 
  

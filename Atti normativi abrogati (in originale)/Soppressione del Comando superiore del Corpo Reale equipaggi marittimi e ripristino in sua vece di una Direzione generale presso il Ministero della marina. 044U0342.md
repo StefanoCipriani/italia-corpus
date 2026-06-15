@@ -16,7 +16,7 @@ II Comando superiore del Corpo Reale equipaggi marittimi e' soppresso.
 
 E' istituita presso il Ministero della marina la Direzione generale del Corpo Reale equipaggi marittimi. 
  
- Tale Direzione generale segue nell'ordine indicativo disposto dall'[Art. 3 della legge 8 luglio 1926, n. 1180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1180#art_3), e successive modificazioni, la Direzione generale del personale e dei servizi militari che assume la intitolazione di Direzione generale degli ufficiali e dei servizi militari e scientifici.
+ Tale Direzione generale segue nell'ordine indicativo disposto dall'[Art. 3 della legge 8 luglio 1926, n. 1180](Ordinamento%20dellAmministrazione%20centrale%20della%20Regia%20marina.%20026U1180.md), e successive modificazioni, la Direzione generale del personale e dei servizi militari che assume la intitolazione di Direzione generale degli ufficiali e dei servizi militari e scientifici.
 
 ## Art. 3.
 

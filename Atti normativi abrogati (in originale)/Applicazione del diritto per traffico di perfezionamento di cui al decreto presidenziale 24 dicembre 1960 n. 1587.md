@@ -10,33 +10,33 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il trattato che istituisce la Comunita' economica europea, ratificato con [legge 14 ottobre 1957, numero 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-14;1203);
+Visto il trattato che istituisce la Comunita' economica europea, ratificato con [legge 14 ottobre 1957, numero 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
 
 Visti gli articoli 9, 10, 11, 189 e 191 del trattato stesso;
 
-Visto il [decreto del Presidente della Repubblica 24 dicembre 1960, n. 1587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-12-24;1587), concernente le modalita' di applicazione degli articoli 9 e 10 del trattato sopra richiamato;
+Visto il [decreto del Presidente della Repubblica 24 dicembre 1960, n. 1587](../DPR/Modalita%20di%20applicazione%20degli%20articoli%209%20e%2010%20del%20Trattato%20che%20istituisce%20la%20Comunita%20Economica%20Europea.md), concernente le modalita' di applicazione degli articoli 9 e 10 del trattato sopra richiamato;
 
-Visto il [decreto del Presidente della Repubblica 24 dicembre 1960, n. 1584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-12-24;1584), che da' applicazione alla decisione del Consiglio dei Ministri delle Comunita' europee del 13 febbraio 1960 concernente la tariffa doganale comune, e successive aggiunte e modificazioni;
+Visto il [decreto del Presidente della Repubblica 24 dicembre 1960, n. 1584](../DPR/Applicazione%20della%20Decisione%20del%20Consiglio%20dei%20Ministri%20delle%20Comunita%20Europee%20del%2013%20febbraio%201960%20che%20stabilisce%20la%20Tariffa%20doganale%20comune.md), che da' applicazione alla decisione del Consiglio dei Ministri delle Comunita' europee del 13 febbraio 1960 concernente la tariffa doganale comune, e successive aggiunte e modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 18 gennaio 1962, n. 45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-18;45), relativo alla variazione dell'aliquota del diritto del traffico di perfezionamento di cui all'articolo 3 del citato [decreto del Presidente della Repubblica 24 dicembre 1960, n. 1587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-12-24;1587);
+Visto il [decreto del Presidente della Repubblica 18 gennaio 1962, n. 45](../DPR/Variazione%20dellaliquota%20del%20diritto%20per%20traffico%20di%20perfezionamento%20di%20cui%20al%20decreto%20del%20Presidente%20della%20Repubblica%2024%20dicembre%201960%20n.%201587.md), relativo alla variazione dell'aliquota del diritto del traffico di perfezionamento di cui all'articolo 3 del citato [decreto del Presidente della Repubblica 24 dicembre 1960, n. 1587](../DPR/Modalita%20di%20applicazione%20degli%20articoli%209%20e%2010%20del%20Trattato%20che%20istituisce%20la%20Comunita%20Economica%20Europea.md);
 
-Visto il [decreto del Presidente della Repubblica 15 dicembre 1965, n. 1428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-15;1428), concernente l'applicazione del diritto per traffico di perfezionamento di cui al [decreto presidenziale 24 dicembre 1960, n. 1587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-12-24;1587);
+Visto il [decreto del Presidente della Repubblica 15 dicembre 1965, n. 1428](../DPR/Applicazione%20del%20diritto%20per%20traffico%20di%20perfezionamento%20di%20cui%20al%20decreto%20presidenziale%2024%20dicembre%201960%20n.%201587.md), concernente l'applicazione del diritto per traffico di perfezionamento di cui al [decreto presidenziale 24 dicembre 1960, n. 1587](../DPR/Modalita%20di%20applicazione%20degli%20articoli%209%20e%2010%20del%20Trattato%20che%20istituisce%20la%20Comunita%20Economica%20Europea.md);
 
 Visto il decreto del Presidente della Repubblica 24 gennaio 1968 concernente la restituzione dei diritti di confine per taluni prodotti esportati (pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 137 del 31 maggio 1968);
 
-Vista la [legge 9 ottobre 1964, n. 948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-09;948), concernente la importazione in esenzione da prelievo di grano a reintegro di quello impiegato nella fabbricazione di paste e prodotti da forno esportati;
+Vista la [legge 9 ottobre 1964, n. 948](Importazione%20in%20esenzione%20da%20prelievo%20di%20grano%20e%20reintegro%20di%20quello%20impiegato%20nella%20fabbricazione%20di%20paste%20e%20prodotti%20da%20forno%20esportati.md), concernente la importazione in esenzione da prelievo di grano a reintegro di quello impiegato nella fabbricazione di paste e prodotti da forno esportati;
 
-Vista la tariffa dei dazi doganali d'importazione della Repubblica italiana, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-26;723);
+Vista la tariffa dei dazi doganali d'importazione della Repubblica italiana, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](../DPR/Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md);
 
 Vista la legge doganale 25 settembre 1940, n. 1424, e successive aggiunte e modificazioni;
 
-Vista la [legge 13 ottobre 1969, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-13;740), che delega il Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea e della Comunita' europea dell'energia atomica per la durata della III tappa;
+Vista la [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md), che delega il Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea e della Comunita' europea dell'energia atomica per la durata della III tappa;
 
 Viste le decisioni della commissione della Comunita' economica europea adottate il 21 dicembre 1965, il 23 marzo 1967 e il 26 giugno 1967 e le decisioni della commissione delle Comunita' europee adottate il 28 giugno 1968 e 7 ottobre 1968, concernenti la misura del diritto per traffico di perfezionamento e i rispettivi periodi di efficacia;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Sentita la commissione parlamentare costituita a norma dell'art. 3 della citata [legge 13 ottobre 1969, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-13;740);
+Sentita la commissione parlamentare costituita a norma dell'art. 3 della citata [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -44,7 +44,7 @@ Sulla proposta del Ministro per le finanze di concerto con i Ministri per gli af
 
 ## Art. 1.
 
-Salvo quanto diversamente disposto nei successivi articoli l'aliquota del diritto per traffico di perfezionamento di cui agli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-12-24;1587#art_3) e [4 del decreto del Presidente della Repubblica 24 dicembre 1960, n. 1587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-12-24;1587#art_4), e' stabilita nella misura del 75% per il periodo 1 gennaio 1966-30 giugno 1967, dell'85% per il periodo 1 luglio 1967-30 giugno 1968, del 100% per il periodo 1 luglio 1968-30 settembre 1968 in conformita' delle decisioni della commissione della Comunita' economica europea 21 dicembre 1965, 26 giugno 1967 e della decisione della commissione delle Comunita' europee del 28 giugno 1968.
+Salvo quanto diversamente disposto nei successivi articoli l'aliquota del diritto per traffico di perfezionamento di cui agli [articoli 3](../DPR/Modalita%20di%20applicazione%20degli%20articoli%209%20e%2010%20del%20Trattato%20che%20istituisce%20la%20Comunita%20Economica%20Europea.md) e [4 del decreto del Presidente della Repubblica 24 dicembre 1960, n. 1587](../DPR/Modalita%20di%20applicazione%20degli%20articoli%209%20e%2010%20del%20Trattato%20che%20istituisce%20la%20Comunita%20Economica%20Europea.md), e' stabilita nella misura del 75% per il periodo 1 gennaio 1966-30 giugno 1967, dell'85% per il periodo 1 luglio 1967-30 giugno 1968, del 100% per il periodo 1 luglio 1968-30 settembre 1968 in conformita' delle decisioni della commissione della Comunita' economica europea 21 dicembre 1965, 26 giugno 1967 e della decisione della commissione delle Comunita' europee del 28 giugno 1968.
 
 ## Art. 2.
 
@@ -69,7 +69,7 @@ A decorrere dall'abolizione del diritto per traffico di perfezionamento prevista
 
 ## Art. 6.
 
-A decorrere dalle date stabilite dal precedente art. 4 sono aboliti la restituzione del dazio, prevista per i prodotti di cui all'art. 2 del decreto del Presidente della Repubblica 24 gennaio 1968 ed il diritto al reintegro previsto per i prodotti di cui all'[art. 3 della legge 9 ottobre 1964, n. 948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-09;948#art_3), quando tali prodotti vengono esportati verso i Paesi membri della Comunita' economica europea.
+A decorrere dalle date stabilite dal precedente art. 4 sono aboliti la restituzione del dazio, prevista per i prodotti di cui all'art. 2 del decreto del Presidente della Repubblica 24 gennaio 1968 ed il diritto al reintegro previsto per i prodotti di cui all'[art. 3 della legge 9 ottobre 1964, n. 948](Importazione%20in%20esenzione%20da%20prelievo%20di%20grano%20e%20reintegro%20di%20quello%20impiegato%20nella%20fabbricazione%20di%20paste%20e%20prodotti%20da%20forno%20esportati.md), quando tali prodotti vengono esportati verso i Paesi membri della Comunita' economica europea.
 
 ## Art. 7.
 

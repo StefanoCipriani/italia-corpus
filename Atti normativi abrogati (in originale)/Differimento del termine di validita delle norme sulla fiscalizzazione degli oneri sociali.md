@@ -22,7 +22,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-Il termine di cui all'[art. 1 del decreto-legge 28 luglio 1981, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-07-28;395#art_1), convertito, con modificazioni, nella [legge 25 settembre 1981, n. 534](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-09-25;534), e' differito fino alla scadenza del periodo di paga in corso alla data del 31 dicembre 1981.
+Il termine di cui all'[art. 1 del decreto-legge 28 luglio 1981, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-07-28;395#art_1), convertito, con modificazioni, nella [legge 25 settembre 1981, n. 534](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20luglio%201981%20n.%20395%20concernente%20proroga%20delle%20norme%20relative%20al%20contenimento%20del%20costo%20del%20lavoro%20nonche%20del%20termine%20per%20il%20vers_80a1563d5161.md), e' differito fino alla scadenza del periodo di paga in corso alla data del 31 dicembre 1981.
 
 ## Art. 2.
 

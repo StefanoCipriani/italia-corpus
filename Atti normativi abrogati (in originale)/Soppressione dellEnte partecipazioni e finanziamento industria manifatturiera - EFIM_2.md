@@ -127,7 +127,7 @@ Per far fronte alle piu' urgenti necessita' di amministrazione dell'ente soppres
 
 6.
 
-Il commissario puo' provvedere al pagamento, ai creditori dell'ente soppresso e delle societa' controllate, di acconti in conformita' ai criteri previsti dall'[articolo 2, comma settimo, del decreto-legge 30 gennaio 1979, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-01-30;26#art_2-com7), convertito, con modificazioni, dalla [legge 3 aprile 1979, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;95), e successive modificazioni.
+Il commissario puo' provvedere al pagamento, ai creditori dell'ente soppresso e delle societa' controllate, di acconti in conformita' ai criteri previsti dall'[articolo 2, comma settimo, del decreto-legge 30 gennaio 1979, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-01-30;26#art_2-com7), convertito, con modificazioni, dalla [legge 3 aprile 1979, n. 95](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20gennaio%201979%20n.%2026%20concernente%20provvedimenti%20urgenti%20per%20lamministrazione%20straordinaria%20delle%20grandi%20imprese%20in%20crisi.md), e successive modificazioni.
 
 ## Art. 5.
 
@@ -137,7 +137,7 @@ Dalla data del 18 luglio 1992 sono sospesi, per la durata di due anni, i pagamen
 
 2.
 
-Le disposizioni del comma 1 non sono applicabili ai prestiti obbligazionari di cui alla [legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910), al [decreto-legge 19 ottobre 1985, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-10-19;547), convertito dalla [legge 20 dicembre 1985, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-12-20;749), nonche' ai prestiti BEI di cui alla [legge 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730).
+Le disposizioni del comma 1 non sono applicabili ai prestiti obbligazionari di cui alla [legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), al [decreto-legge 19 ottobre 1985, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-10-19;547), convertito dalla [legge 20 dicembre 1985, n. 749](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2019%20ottobre%201985%20n.%20547%20recante%20autorizzazione%20allIRI%20ENI%20ed%20EFIM%20per%20la%20emissione%20di%20prestiti%20obbligazionari%20con%20onere%20a%20carico%20dello%20Stato.md), nonche' ai prestiti BEI di cui alla [legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md).
 
 3.
 

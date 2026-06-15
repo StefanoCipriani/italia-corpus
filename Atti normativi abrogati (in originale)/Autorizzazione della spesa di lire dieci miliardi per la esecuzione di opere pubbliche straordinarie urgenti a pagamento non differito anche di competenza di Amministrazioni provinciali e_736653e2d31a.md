@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151) Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151) Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -40,7 +40,7 @@ Con il fondo di cui all'art. 2, lettera b), si puo' provvedere alla costruzione 
 
 ## Art. 4.
 
-Per l'esecuzione dei lavori di competenza degli Enti di cui all'art. 1 del presente decreto, si applicano gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-12;690#art_3) e [4 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-12;690#art_4).
+Per l'esecuzione dei lavori di competenza degli Enti di cui all'art. 1 del presente decreto, si applicano gli [articoli 3](../Decreti%20legislativi%20luogotenenziali/Autorizzazione%20della%20spesa%20di%20lire%20trentasette%20miliardi%20per%20lesecuzione%20di%20opere%20pubbliche%20straordinarie%20urgenti%20a%20pagamento%20non%20differito%20per%20la%20ricostruzione%20ed%20a%20sollievo%20della%20disoccu_2fb80316f8da.md) e [4 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 690](../Decreti%20legislativi%20luogotenenziali/Autorizzazione%20della%20spesa%20di%20lire%20trentasette%20miliardi%20per%20lesecuzione%20di%20opere%20pubbliche%20straordinarie%20urgenti%20a%20pagamento%20non%20differito%20per%20la%20ricostruzione%20ed%20a%20sollievo%20della%20disoccu_2fb80316f8da.md).
 
 ## Art. 5.
 

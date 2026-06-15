@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 1 della legge 28 dicembre 1952, n. 3060](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-28;3060#art_1), e l'art. 47 dell'ordinamento della professione di dottore commercialista, approvato con [decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067](Ordinamento%20della%20professione%20di%20dottore%20commercialista.md);
+Visto l'[art. 1 della legge 28 dicembre 1952, n. 3060](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20della%20facolta%20di%20provvedere%20alla%20riforma%20degli%20ordinamenti%20delle%20professioni%20di%20esercente%20in%20economia%20e%20commercio%20e%20di%20ragioniere.md), e l'art. 47 dell'ordinamento della professione di dottore commercialista, approvato con [decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067](Ordinamento%20della%20professione%20di%20dottore%20commercialista.md);
 
 Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Ritenuta la necessita' di adeguare la tariffa per le prestazioni professionali dei dottori commercialisti, approvata con [decreto del Presidente della Repubblica 30 giugno 1987, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-06-30;309);
+Ritenuta la necessita' di adeguare la tariffa per le prestazioni professionali dei dottori commercialisti, approvata con [decreto del Presidente della Repubblica 30 giugno 1987, n. 309](../DPR/Modificazioni%20alla%20tariffa%20delle%20prestazioni%20professionali%20dei%20dottori%20commercialisti.md);
 
 Sentito il Consiglio nazionale dei dottori commercialisti;
 
-Visto il parere espresso il 17 marzo 1993 dal Comitato interministeriale prezzi, ai sensi dell'art. 14, penultimo comma, della [legge 22 dicembre 1984, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887);
+Visto il parere espresso il 17 marzo 1993 dal Comitato interministeriale prezzi, ai sensi dell'art. 14, penultimo comma, della [legge 22 dicembre 1984, n. 887](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201985.md);
 
 Udito il parere del Consiglio di Stato, espresso nelle adunanze generali del 24 marzo 1994 e del 22 settembre 1994;
 
@@ -43,7 +43,7 @@ TITOLO I
 La presente tariffa stabilisce i criteri e le modalita' per la determinazione e la liquidazione dei compensi spettanti agli iscritti negli albi professionali dei dottori commercialisti.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
  - Il testo dell'articolo unico della [legge n. 3060/1952](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952;3060) (Delega al Governo della facolta' di provvedere alla riforma degli ordinamenti delle professioni di esercente in economia e commercio e di ragioniere) e' il seguente:

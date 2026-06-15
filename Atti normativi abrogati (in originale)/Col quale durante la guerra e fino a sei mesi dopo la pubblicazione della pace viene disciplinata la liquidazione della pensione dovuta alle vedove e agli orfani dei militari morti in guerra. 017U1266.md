@@ -32,7 +32,7 @@ Il sindaco provvede a far eseguire la consegna di cui al precedente articolo per
 
 ## Art. 6.
 
-La dichiarazione di ricevuta fa fede della notificazione, agli effetti del precedente [art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1868-07-26;4516#art_2) e dell'[art. 1 della legge 26 luglio 1868, n. 4516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1868-07-26;4516#art_1).
+La dichiarazione di ricevuta fa fede della notificazione, agli effetti del precedente [art. 2](Colla%20quale%20e%20prefisso%20un%20termine%20pei%20richiami%20contro%20le%20decisioni%20della%20Corte%20dei%20conti%20in%20materia%20di%20pensioni.%20068U4516.md) e dell'[art. 1 della legge 26 luglio 1868, n. 4516](Colla%20quale%20e%20prefisso%20un%20termine%20pei%20richiami%20contro%20le%20decisioni%20della%20Corte%20dei%20conti%20in%20materia%20di%20pensioni.%20068U4516.md).
 
 ## Art. 7.
 

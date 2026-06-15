@@ -22,7 +22,7 @@ IL MINISTRO DELL'INDUSTRIA
 
 DEL COMMERCIO E DELL'ARTIGIANATO
 
-Visto il [decreto-legge 30 dicembre 1985, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-12-30;786), convertito, con modificazioni, dalla [legge 28 febbraio 1986, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;44), recante misure straordinarie per la promozione e lo sviluppo della imprenditorialita' giovanile nel Mezzogiorno;
+Visto il [decreto-legge 30 dicembre 1985, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-12-30;786), convertito, con modificazioni, dalla [legge 28 febbraio 1986, n. 44](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201985%20n.%20786%20concernente%20misure%20straordinarie%20per%20la%20promozione%20e%20lo%20sviluppo%20della%20imprenditorialita%20giovanile%20nel%20Mezzogiorno.md), recante misure straordinarie per la promozione e lo sviluppo della imprenditorialita' giovanile nel Mezzogiorno;
 
 Viste le modificazioni apportate al citato [decreto-legge 30 dicembre 1985, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-12-30;786), dalla [legge 11 agosto 1991, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-11;275);
 
@@ -67,7 +67,7 @@ Gli statuti societari devono contenere una clausola che non consenta atti di tra
  disposizioni sulla promulgazione delle leggi, 
  sull'emanazione dei decreti del Presidente della Repubblica 
  e sulle pubblicazioni ufficiali della Repubblica italiana, 
- approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo 
+ approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
  fine di facilitare la lettura delle disposizioni di legge 
  alle quali e' operato il rinvio. Restano invariati il 
  valore e l'efficacia degli atti legislativi qui trascritti. 
@@ -83,7 +83,7 @@ Gli statuti societari devono contenere una clausola che non consenta atti di tra
  territoriale di riferimento per il perseguimento delle 
  finalita' e degli obiettivi del [decreto-legge 30 dicembre 
  1985, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-12-30;786), convertito, con modificazioni, dalla [legge 28 
- febbraio 1986, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;44), e' costituito dai territori di cui 
+ febbraio 1986, n. 44](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201985%20n.%20786%20concernente%20misure%20straordinarie%20per%20la%20promozione%20e%20lo%20sviluppo%20della%20imprenditorialita%20giovanile%20nel%20Mezzogiorno.md), e' costituito dai territori di cui 
  agli obiettivi 1, 2 e 5b, cosi come definiti dai 
  regolamenti dell'Unione europea. Entro trenta giorni dalla 
  data di entrata in vigore del presente decreto, il Ministro 
@@ -149,7 +149,7 @@ Gli statuti societari devono contenere una clausola che non consenta atti di tra
  Si applicano le disposizioni di cui all'[art. 15, commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_15-com4) e 
  [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_15-com5), e all'[art. 19 del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_19), 
  convertito, con modificazioni, dalla [legge 8 agosto 1992, 
- n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359). 
+ n. 359](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20luglio%201992%20n.%20333%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica.md). 
  4. Per le finalita' di cui al presente articolo, e' 
  autorizzata la complessiva spesa di lire 100 miliardi per 
  l'anno 1994 e di lire 200 miliardi per ciascuno degli anni 
@@ -179,7 +179,7 @@ Gli statuti societari devono contenere una clausola che non consenta atti di tra
  delle finalita' di cui al comma 2. 
  5. Il personale in servizio presso il comitato alla data 
  di entrata in vigore del [decreto legislativo 3 aprile 1993, 
- n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-04-03;96), se e fino a quando non venga assunto dalla societa', 
+ n. 96](../Decreti%20Legislativi/Trasferimento%20delle%20competenze%20dei%20soppressi%20Dipartimento%20per%20gli%20interventi%20straordinari%20nel%20Mezzogiorno%20e%20Agenzia%20per%20la%20promozione%20dello%20sviluppo%20del%20Mezzogiorno%20a%20norma%20dellart.%203%20del_01145d8ccfec.md), se e fino a quando non venga assunto dalla societa', 
  resta iscritto nel ruolo transitorio ad esaurimento presso 
  il Ministero del bilancio e della programmazione economica, 
  di cui all'art. 14 del medesimo decreto legislativo, e 
@@ -187,7 +187,7 @@ Gli statuti societari devono contenere una clausola che non consenta atti di tra
  sessantesimo giorno successivo alla costituzione della 
  societa' di cui al presente articolo, il [decreto-legge 30 
  dicembre 1985, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-12-30;786), convertito, con modificazioni, dalla 
- [legge 28 febbraio 1986, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;44), cosi come modificato ed 
+ [legge 28 febbraio 1986, n. 44](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201985%20n.%20786%20concernente%20misure%20straordinarie%20per%20la%20promozione%20e%20lo%20sviluppo%20della%20imprenditorialita%20giovanile%20nel%20Mezzogiorno.md), cosi come modificato ed 
  integrato dalla successiva normativa, e' abrogato. 
  6. I mutui a tasso agevolato sono assistiti dalle 
  garanzie previsti dal [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) e da privilegio 
@@ -226,7 +226,7 @@ Note all'art. 1:
  2) riconvertire le regioni, regioni frontaliere o parti di regioni (compresi i bacini d'occupazione e le comunita' urbane) gravemente colpite dal declino industriale, denominato "obiettivo n. 2";
  5-b) promuovere lo sviluppo rurale, agevolando lo sviluppo e l'adeguamento strutturale delle zone rurali, denominato "obiettivo n. 5-b".
  - Il testo dell'[art. 13 del D.L.C.P.S. n. 1577/1947](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legge:1947;1577#art_13) (Provvedimenti per la cooperazione), come modificato dall'[art. 6 della legge 17 febbraio 1971, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-17;127#art_6), e dall'[art. 6 della legge 8 novembre 1991, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;381#art_6), e' il seguente:
- "Art. 13 (Riordinamento del registro prefettizio). - Nel registro prefettizio delle cooperative di cui all'art. 14 del regolamento approvato con [regio decreto 12 febbraio 1911, n. 278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;278), oltre alle cooperative ammissibili ai pubblici appalti, devono essere iscritti:
+ "Art. 13 (Riordinamento del registro prefettizio). - Nel registro prefettizio delle cooperative di cui all'art. 14 del regolamento approvato con [regio decreto 12 febbraio 1911, n. 278](Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md), oltre alle cooperative ammissibili ai pubblici appalti, devono essere iscritti:
  a) tutte le altre cooperative legalmente costituite qualunque sia il loro oggetto;
  b) (soppressa).
  Il registro e' tenuto distintamente per sezioni a seconda della diversa natura ed attivita' degli enti, e cioe':
@@ -361,7 +361,7 @@ Alla domanda vanno allegati in duplice copia i seguenti documenti:
 Una copia della documentazione e' trasmessa dalla Societa' per l'imprenditorialita' giovanile S.p.a. alla regione competente, che esprime il proprio motivato parere entro il termine perentorio di trenta giorni, decorso il quale il provvedimento ha l'ulteriore corso.
 
 Nota all'[art. 6:
- - Il D.L. n. 786/1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985;786#art_6), convertito, con modificazioni, dalla [legge 28 febbraio 1986, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;44), reca misure straordinarie per la promozione e lo sviluppo della imprenditorialita' giovanile nel Mezzogiorno.
+ - Il D.L. n. 786/1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985;786#art_6), convertito, con modificazioni, dalla [legge 28 febbraio 1986, n. 44](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201985%20n.%20786%20concernente%20misure%20straordinarie%20per%20la%20promozione%20e%20lo%20sviluppo%20della%20imprenditorialita%20giovanile%20nel%20Mezzogiorno.md), reca misure straordinarie per la promozione e lo sviluppo della imprenditorialita' giovanile nel Mezzogiorno.
 
 ## Art. 7. — Provvedimento di ammissibilita' alle agevolazioni
 
@@ -439,7 +439,7 @@ A tutte le erogazioni relative al benefici di cui all'art. 3 provvede - mediante
 
 4.
 
-Ai mutui agevolati gia' concessi dalla Cassa depositi e prestiti alle societa' beneficiarie della [legge 28 febbraio 1986, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;44), si applicano a richiesta delle societa' interessate le disposizioni di cui all'art. 9. A tal fine la Societa' per l'imprenditorialita' giovanile puo' stipulare appositi contratti con le suddette societa'.
+Ai mutui agevolati gia' concessi dalla Cassa depositi e prestiti alle societa' beneficiarie della [legge 28 febbraio 1986, n. 44](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201985%20n.%20786%20concernente%20misure%20straordinarie%20per%20la%20promozione%20e%20lo%20sviluppo%20della%20imprenditorialita%20giovanile%20nel%20Mezzogiorno.md), si applicano a richiesta delle societa' interessate le disposizioni di cui all'art. 9. A tal fine la Societa' per l'imprenditorialita' giovanile puo' stipulare appositi contratti con le suddette societa'.
 
 5.
 

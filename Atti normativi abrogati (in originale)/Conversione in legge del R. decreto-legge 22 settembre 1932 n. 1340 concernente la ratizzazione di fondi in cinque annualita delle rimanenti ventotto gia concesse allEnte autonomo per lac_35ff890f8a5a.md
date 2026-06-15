@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 settembre 1932, n. 1340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-22;1340), concernente la ratizzazione di fondi in cinque annualita' delle rimanenti ventotto gia' concesse all'Ente autonomo per l'acquedotto pugliese. 
+ E' convertito in legge il [R. decreto-legge 22 settembre 1932, n. 1340](Ratizzazione%20di%20fondi%20in%20cinque%20annualita%20delle%20rimanenti%20ventotto%20gia%20concesse%20allEnte%20autonomo%20per%20lAcquedotto%20pugliese.%20032U1340.md), concernente la ratizzazione di fondi in cinque annualita' delle rimanenti ventotto gia' concesse all'Ente autonomo per l'acquedotto pugliese. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

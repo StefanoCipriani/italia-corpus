@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per provvedere all'esecuzione e manutenzione delle opere di bonifica nei territori della Dalmazia annessi al Regno d'Italia con [R. decreto-legge 18 maggio 1941, n. 452](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-18;452), e' autorizzata la spesa di L. 70.000.000.
+Per provvedere all'esecuzione e manutenzione delle opere di bonifica nei territori della Dalmazia annessi al Regno d'Italia con [R. decreto-legge 18 maggio 1941, n. 452](Sistemazione%20dei%20territori%20che%20sono%20venuti%20a%20far%20parte%20integrante%20del%20Regno%20dItalia.%20041U0452.md), e' autorizzata la spesa di L. 70.000.000.
 
 ## Art. 2.
 

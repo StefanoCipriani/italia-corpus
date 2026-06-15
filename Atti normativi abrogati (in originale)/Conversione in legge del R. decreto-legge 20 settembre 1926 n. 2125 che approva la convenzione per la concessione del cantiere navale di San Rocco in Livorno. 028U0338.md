@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 settembre 1926, n. 2125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-20;2125), che approva la convenzione per la concessione del cantiere navale di San Rocco in Livorno. 
+ E' convertito in legge il [R. decreto-legge 20 settembre 1926, n. 2125](Convenzione%20per%20la%20concessione%20dellesercizio%20del%20Cantiere%20navale%20di%20San%20Rocco%20in%20Livorno.%20026U2125.md), che approva la convenzione per la concessione del cantiere navale di San Rocco in Livorno. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

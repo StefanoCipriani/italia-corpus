@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), sul conferimento dei poteri straordinari al Governo, in caso di guerra e durante la guerra medesima;
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), sul conferimento dei poteri straordinari al Governo, in caso di guerra e durante la guerra medesima;
 
-Vista la [legge 2 luglio 1911, n. 630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-02;630);
+Vista la [legge 2 luglio 1911, n. 630](Concernente%20modificazioni%20alla%20legge%2027%20giugno%201909%20n.%20384%20circa%20spese%20per%20la%20marina%20militare.%20011U0630.md);
 
-Visto il [R. decreto 26 giugno 1915, n. 993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-06-26;993), che da' facolta' al Governo di dichiarare soggetto alla giurisdizione militare, in tutto o in parte, il personale degli stabilimenti che producono materiali per l'esercito o per l'armata, ogni qualvolta occorra, per assicurare la continuita' e lo sviluppo della produzione richiesta dalle esigenze della guerra;
+Visto il [R. decreto 26 giugno 1915, n. 993](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md), che da' facolta' al Governo di dichiarare soggetto alla giurisdizione militare, in tutto o in parte, il personale degli stabilimenti che producono materiali per l'esercito o per l'armata, ogni qualvolta occorra, per assicurare la continuita' e lo sviluppo della produzione richiesta dalle esigenze della guerra;
 
 Sentito il Consiglio dei ministri;
 
@@ -42,7 +42,7 @@ Gli operai indicati nell'articolo precedente, durante il tempo in cui sono milit
 
 ## Art. 3.
 
-Limitatamente alla durata della guerra il ministro della marina, a deroga del disposto dell'[art. 4 della legge 2 luglio 1911, n. 630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-02;630#art_4), ha facolta' di assumere presso gli stabilimenti militari marittimi, un numero di operai permanenti non superiore ai posti che si rendono disponibili in conseguenza dello ordinarie eliminazioni. 
+Limitatamente alla durata della guerra il ministro della marina, a deroga del disposto dell'[art. 4 della legge 2 luglio 1911, n. 630](Concernente%20modificazioni%20alla%20legge%2027%20giugno%201909%20n.%20384%20circa%20spese%20per%20la%20marina%20militare.%20011U0630.md), ha facolta' di assumere presso gli stabilimenti militari marittimi, un numero di operai permanenti non superiore ai posti che si rendono disponibili in conseguenza dello ordinarie eliminazioni. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

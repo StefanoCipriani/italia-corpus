@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 dicembre 1934, n. 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-03;1979), che reca nuove norme per le dichiarazioni dei redditi di categoria C-2. 
+ E' convertito in legge il [R. decreto-legge 3 dicembre 1934, n. 1979](Nuove%20norme%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C.%202.%20034U1979.md), che reca nuove norme per le dichiarazioni dei redditi di categoria C-2. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

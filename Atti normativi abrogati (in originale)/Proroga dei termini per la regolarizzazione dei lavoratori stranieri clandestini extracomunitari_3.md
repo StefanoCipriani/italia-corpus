@@ -45,7 +45,7 @@ Il [comma 5 dell'articolo 16 della legge 30 dicembre 1986, n. 943](https://www.n
 
 1.
 
-All'[articolo 1, comma 1, della legge 30 dicembre 1986, n. 943](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943#art_1-com1), dopo le parole: "dalla [legge 29 febbraio 1980, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33)," sono aggiunte le seguenti: "con partecipazione alla spesa sanitaria secondo le misure e le modalita' stabilite per i lavoratori italiani disoccupati che risultano iscritti nelle liste di collocamento,".
+All'[articolo 1, comma 1, della legge 30 dicembre 1986, n. 943](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943#art_1-com1), dopo le parole: "dalla [legge 29 febbraio 1980, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201979%20n.%20663%20concernente%20provvedimenti%20per%20il%20finanziamento%20del%20Servizio%20sanitario%20nazionale%20per%20la%20previdenza%20per%20il%20c_9d4821b80b65.md)," sono aggiunte le seguenti: "con partecipazione alla spesa sanitaria secondo le misure e le modalita' stabilite per i lavoratori italiani disoccupati che risultano iscritti nelle liste di collocamento,".
 
 ## Art. 4.
 
@@ -61,7 +61,7 @@ L'autorizzazione al lavoro di cui ai [commi 3](https://www.normattiva.it/uri-res
                         a)
                             della durata non inferiore a ventiquattro ore settimanali per i lavoratori adibiti ai servizi domestici;
                         b)
-                            a tempo parziale, ai sensi dell'[articolo 5 del decreto-legge 30 ottobre 1984, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-10-30;726#art_5), convertito, con modificazioni, dalla [legge 19 dicembre 1984, n. 863](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863);
+                            a tempo parziale, ai sensi dell'[articolo 5 del decreto-legge 30 ottobre 1984, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-10-30;726#art_5), convertito, con modificazioni, dalla [legge 19 dicembre 1984, n. 863](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20ottobre%201984%20n.%20726%20recante%20misure%20urgenti%20a%20sostegno%20e%20ad%20incremento%20dei%20livelli%20occupazionali.md);
                         c)
                             a domicilio, ai sensi della [legge 18 dicembre 1973, n. 877](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;877).
 

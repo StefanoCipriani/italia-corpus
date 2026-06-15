@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Vista la [legge 15 dicembre 1971, n. 1240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-15;1240);
+Vista la [legge 15 dicembre 1971, n. 1240](Norme%20relative%20alla%20ristrutturazione%20del%20Comitato%20nazionale%20per%20lenergia%20nucleare%20CNEN.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di provvedere alla concessione al Comitato nazionale per l'energia nucleare e all'istituto nazionale di fisica nucleare di contributi dello Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per l'industria, il commercio e l'artigianato, di co
 
 ## Art. 1.
 
-Al Comitato nazionale per l'energia nucleare, istituito con [legge 11 agosto 1960, n. 933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-08-11;933), e ristrutturato con [legge 15 dicembre 1971, n. 1240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-15;1240), e' assegnato per l'anno 1972, a carico dello stato di previsione del Ministero dell'industria, del commercio e dell'artigianato, un contributo di 45 miliardi di lire di cui 5190 milioni di lire da destinare all'Istituto nazionale di fisica nucleare.
+Al Comitato nazionale per l'energia nucleare, istituito con [legge 11 agosto 1960, n. 933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-08-11;933), e ristrutturato con [legge 15 dicembre 1971, n. 1240](Norme%20relative%20alla%20ristrutturazione%20del%20Comitato%20nazionale%20per%20lenergia%20nucleare%20CNEN.md), e' assegnato per l'anno 1972, a carico dello stato di previsione del Ministero dell'industria, del commercio e dell'artigianato, un contributo di 45 miliardi di lire di cui 5190 milioni di lire da destinare all'Istituto nazionale di fisica nucleare.
 
 ## Art. 2.
 

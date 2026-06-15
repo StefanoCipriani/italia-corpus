@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Noi abbiamo sanzionato e promulghiamo quanto segue: 
  
- Articolo unico - E' convertito in legge il R. decreto-legge 9 dicembre 1935-XIV, n, 2355, relativo all'abbuono a favore delle Casse di risparmio di Bolzano e di Brunico delle anticipazioni statali, coi relativi interessi, corrisposte in applicazione dei [Regi decreti-legge 9 dicembre 1920, n. 1883](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-12-09;1883) e 5 aprile 1935-XIII, n. 491, per i deficit di conversione delle valute austro-ungariche. 
+ Articolo unico - E' convertito in legge il R. decreto-legge 9 dicembre 1935-XIV, n, 2355, relativo all'abbuono a favore delle Casse di risparmio di Bolzano e di Brunico delle anticipazioni statali, coi relativi interessi, corrisposte in applicazione dei [Regi decreti-legge 9 dicembre 1920, n. 1883](Che%20reca%20provvedimenti%20finanziari%20a%20favore%20degli%20Istituti%20di%20credito%20delle%20nuove%20Provincie%20non%20aventi%20scopi%20di%20lucro.%20020U1883.md) e 5 aprile 1935-XIII, n. 491, per i deficit di conversione delle valute austro-ungariche. 
  
  Ordiniamo che la presente, munita del sigillo della Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

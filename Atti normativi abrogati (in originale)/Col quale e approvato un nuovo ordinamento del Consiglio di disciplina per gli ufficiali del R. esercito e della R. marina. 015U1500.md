@@ -10,7 +10,7 @@ vigente: true
 
 ### Art. 1.
 
-Un ufficiale del R. esercito o della R. marina non puo' essere sottoposto a Consiglio di disciplina se non dal ministro della guerra o della marina, fuorche' nei casi previsti dal [R. decreto-legge 22 aprile 1915, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1915-04-22;499). 
+Un ufficiale del R. esercito o della R. marina non puo' essere sottoposto a Consiglio di disciplina se non dal ministro della guerra o della marina, fuorche' nei casi previsti dal [R. decreto-legge 22 aprile 1915, n. 499](Col%20quale%20sono%20modificate%20le%20disposizioni%20relative%20allordinamento%20ed%20alla%20procedura%20dei%20Consigli%20di%20disciplina%20per%20gli%20ufficiali%20di%20terra%20e%20di%20mare%20mobilitati.%20015U0499.md). 
  
  Qualora per un medesimo fatto o piu' fatti connessi siano da giudicarsi ufficiali del R. esercito e della R. marina, questi vengono sottoposti ad un unico Consiglio dal ministro della guerra o della marina secondo che il piu' elevato in grado o il piu' anziano degli ufficiali da sottoporsi a Consiglio appartenga al R. esercito o alla R. marina.
 
@@ -90,7 +90,7 @@ Le sedute del Consiglio di disciplina sono segrete.
 
 ### Art. 12.
 
-Il presente decreto sostituisce il titolo III della parte prima della [legge 18 luglio 1912, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-18;806), sullo stato degli ufficiali del R. esercito e della R. marina e andra' in vigore dal giorno della sua pubblicazione. Esso avra' efficacia per la durata della guerra. 
+Il presente decreto sostituisce il titolo III della parte prima della [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina e andra' in vigore dal giorno della sua pubblicazione. Esso avra' efficacia per la durata della guerra. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

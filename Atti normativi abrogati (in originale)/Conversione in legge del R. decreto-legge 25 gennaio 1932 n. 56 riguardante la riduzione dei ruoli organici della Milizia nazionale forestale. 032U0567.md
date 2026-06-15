@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 gennaio 1932, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-01-25;56), riguardante la riduzione dei ruoli organici della Milizia nazionale forestale. 
+ E' convertito in legge il [R. decreto-legge 25 gennaio 1932, n. 56](Riduzione%20dei%20ruoli%20organici%20della%20Milizia%20nazionale%20forestale.%20032U0056.md), riguardante la riduzione dei ruoli organici della Milizia nazionale forestale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

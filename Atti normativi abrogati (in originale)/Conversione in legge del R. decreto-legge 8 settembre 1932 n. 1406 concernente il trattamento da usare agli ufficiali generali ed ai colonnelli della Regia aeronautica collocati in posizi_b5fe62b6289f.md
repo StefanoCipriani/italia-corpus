@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 settembre 1932, n. 1406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-08;1406), concernente il trattamento da usare agli ufficiali generali ed ai colonnelli della Regia aeronautica collocati in posizione ausiliaria direttamente dal servizio permanente effettivo. 
+ E' convertito in legge il [R. decreto-legge 8 settembre 1932, n. 1406](Trattamento%20da%20usare%20agli%20ufficiali%20generali%20ed%20ai%20colonnelli%20della%20Regia%20aeronautica%20collocati%20in%20posizione%20ausiliaria%20direttamente%20dal%20servizio%20permanente%20effettivo.%20032U1406.md), concernente il trattamento da usare agli ufficiali generali ed ai colonnelli della Regia aeronautica collocati in posizione ausiliaria direttamente dal servizio permanente effettivo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

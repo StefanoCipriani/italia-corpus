@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Veduto il [decreto Luogotenenziale 28 aprile 1918, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-28;734);
 
-Veduta la [legge 19 giugno 1913, n. 857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-19;857);
+Veduta la [legge 19 giugno 1913, n. 857](Che%20esonera%20dalle%20tasse%20scolastiche%20per%20gli%20anni%20scolastici%201912-913-914-915%20gli%20studenti%20rimasti%20orfani%20ed%20abbandonati%20a%20causa%20del%20terremoto%20del%2028%20dicembre%201908.%20013U0857.md);
 
 Veduto il [R. decreto 25 aprile 1915, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-25;650), e i [decreti Luogotenenziali 21 maggio 1916, n. 969](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-21;969), e [22 ottobre 1916, n. 1740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-22;1740);
 

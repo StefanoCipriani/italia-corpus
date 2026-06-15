@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la tariffa generale dei dazi doganali, approvata con [Regio decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473) e successive modificazioni ed aggiunte;
+Vista la tariffa generale dei dazi doganali, approvata con [Regio decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md) e successive modificazioni ed aggiunte;
 
 Visti i [Regi decreti-legge 20 settembre 1934, n. 1494](Restituzione%20dei%20diritti%20di%20confine%20e%20della%20tassa%20di%20scambio%20sulle%20vetture%20automobili%20e%20loro%20parti%20di%20ricambio%20che%20si%20esportano.%20034U1494.md), convertito nella [legge 8 aprile 1935, n. 960, e 27 giugno 1935, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-27;1323), convertito nella [legge 27 gennaio 1936, n. 179](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20giugno%201935-XIII%20n.%201323%20concernente%20la%20restituzione%20dei%20diritti%20di%20confine%20e%20della%20tassa%20di%20scambio%20sulle%20materie%20prime%20impiegate%20nella%20fabbr_90deaeada90b.md);
 
@@ -24,7 +24,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Ritenuta la necessita' urgente ed assoluta di integrare le disposizioni concernenti la restituzione dei diritti di confine e della tassa di scambio sulle materie prime impiegate nella fabbricazione degli autoveicoli che si esportano;
 
-Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1313#art_1), successivamente modificato;
+Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), successivamente modificato;
 
 Sentito il Consiglio del Ministri;
 

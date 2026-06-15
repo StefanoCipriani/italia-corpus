@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 giugno 1928, n. 1759](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-14;1759), riguardante il riordinamento del Regio comitato talassografico italiano. 
+ E' convertito in legge il [R. decreto-legge 14 giugno 1928, n. 1759](Riordinamento%20del%20Regio%20comitato%20talassografico%20italiano.%20028U1759.md), riguardante il riordinamento del Regio comitato talassografico italiano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

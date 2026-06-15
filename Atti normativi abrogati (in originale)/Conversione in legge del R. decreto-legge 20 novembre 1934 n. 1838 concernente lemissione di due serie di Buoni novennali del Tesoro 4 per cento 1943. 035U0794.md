@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 novembre 1934, n. 1838](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-11-20;1838), concernente la emissione di due serie di Buoni novennali del Tesoro 4 per cento 1943. 
+ E' convertito in legge il [R. decreto-legge 20 novembre 1934, n. 1838](Emissione%20di%20due%20serie%20di%20buoni%20novennali%20del%20Tesoro%204%20per%20cento%201943.%20034U1838.md), concernente la emissione di due serie di Buoni novennali del Tesoro 4 per cento 1943. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

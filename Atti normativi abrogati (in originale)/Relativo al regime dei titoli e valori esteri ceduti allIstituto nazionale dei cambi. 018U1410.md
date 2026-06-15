@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Nei casi di realizzazione all'estero di titoli esteri posseduti da chiunque risieda nel Regno e di riscossione all'estero delle relative cedole, con la cessione del provento del cambio al tesoro dello Stato o all'Istituto nazionale dei cambi, il Governo ha facolta' di sospendere fino alla conclusione della pace l'applicazione sui corrispondenti titoli della tassa proporzionale di bollo di cui alla [legge 25 luglio 1909, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-25;556). 
+Nei casi di realizzazione all'estero di titoli esteri posseduti da chiunque risieda nel Regno e di riscossione all'estero delle relative cedole, con la cessione del provento del cambio al tesoro dello Stato o all'Istituto nazionale dei cambi, il Governo ha facolta' di sospendere fino alla conclusione della pace l'applicazione sui corrispondenti titoli della tassa proporzionale di bollo di cui alla [legge 25 luglio 1909, n. 556](Che%20regola%20la%20tassa%20di%20bollo%20da%20applicarsi%20ai%20titoli%20o%20valori%20esteri.%20009U0556.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -315,7 +315,7 @@ Capo VIII.
 
 ### Art. 36.
 
-Le contravvenzioni alle disposizioni della presente legge sono punibili con un'ammenda da L. 25 a L. 300, senza pregiudizio dell'applicazione di ogni altra sanzione e penalita' che sia prevista anche dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) o da altre leggi per ogni singola fattispecie. 
+Le contravvenzioni alle disposizioni della presente legge sono punibili con un'ammenda da L. 25 a L. 300, senza pregiudizio dell'applicazione di ogni altra sanzione e penalita' che sia prevista anche dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da altre leggi per ogni singola fattispecie. 
  
  Nei casi che interessano la sicurezza e la regolarita' dell'esercizio l'ammenda non puo' essere inferiore a L. 50. 
  
@@ -327,21 +327,21 @@ Le contravvenzioni alle disposizioni della presente legge sono punibili con un'a
 
 Con l'entrata in vigore della presente legge restano abrogati: 
  
- 1° il titolo III, e gli articoli 57, ultimo comma, e 62 del regolamento per i veicoli a trazione meccanica senza guida di rotaie approvato con [R. decreto 29 luglio 1909, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-07-29;710); 
+ 1° il titolo III, e gli articoli 57, ultimo comma, e 62 del regolamento per i veicoli a trazione meccanica senza guida di rotaie approvato con [R. decreto 29 luglio 1909, n. 710](Che%20approva%20lannesso%20regolamento%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie.%20009U0710.md); 
  
  2° la parte III del testo unico delle disposizioni' di legge per le ferrovie concesse all'industria privata, le tram-vie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), per quanto riguarda gli automobili; 
  
  3° la [legge 5 ottobre 1920, n. 1459](Che%20reca%20provvedimenti%20a%20favore%20dei%20concessionari%20di%20linee%20automobilistiche%20per%20i%20trasporti%20postali.%20020U1459.md); 
  
- 4° il [R. decreto 24 aprile 1921, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-04-24;671); 
+ 4° il [R. decreto 24 aprile 1921, n. 671](Che%20reca%20disposizioni%20per%20i%20trasporti%20postali%20automobilistici.%20021U0671.md); 
  
- 5° il [R. decreto 7 maggio 1922, n. 705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-05-07;705); 
+ 5° il [R. decreto 7 maggio 1922, n. 705](Che%20reca%20modificazioni%20al%20regolamento%2029%20luglio%201909%20n.%20710%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie.%20022U0705.md); 
  
- 6° il [R. decreto legge 21 ottobre 1923, n. 2386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-10-21;2386); 
+ 6° il [R. decreto legge 21 ottobre 1923, n. 2386](Disposizioni%20per%20garantire%20la%20continuita%20e%20regolarita%20dei%20servizi%20pubblici%20automobilistici.%20023U2386.md); 
  
- 7° il [R. decreto-legge 9 dicembre 1926, n. 2443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-09;2443); 
+ 7° il [R. decreto-legge 9 dicembre 1926, n. 2443](Concessioni%20di%20linee%20automobilistiche%20in%20servizio%20pubblico.%20026U2443.md); 
  
- 8° il [R. decreto-legge 12 maggio 1927, n. 922](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-12;922); ed ogni altra disposizione contraria a quelle contenute nei precedenti articoli. 
+ 8° il [R. decreto-legge 12 maggio 1927, n. 922](Concessione%20di%20speciali%20premi%20a%20favore%20delle%20ditte%20che%20gestiscono%20autoservizi%20di%20gran%20turismo.%20027U0922.md); ed ogni altra disposizione contraria a quelle contenute nei precedenti articoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -72,7 +72,7 @@ Con decreti del Ministro per le finanze sara' provveduto alle variazioni di bila
 
 ## Art. 7.
 
-Per l'esecuzione delle opere di cui all'art. 1 del presente decreto non si applica il quarto comma dell'art. 378 del testo unico della legge comunale e provinciale, approvato col [R. decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), e sono elevati al doppio i limiti di valore stabiliti dagli articoli 378, terzo comma, e 379 del testo unico medesimo.
+Per l'esecuzione delle opere di cui all'art. 1 del presente decreto non si applica il quarto comma dell'art. 378 del testo unico della legge comunale e provinciale, approvato col [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e sono elevati al doppio i limiti di valore stabiliti dagli articoli 378, terzo comma, e 379 del testo unico medesimo.
 
 ## Art. 8.
 

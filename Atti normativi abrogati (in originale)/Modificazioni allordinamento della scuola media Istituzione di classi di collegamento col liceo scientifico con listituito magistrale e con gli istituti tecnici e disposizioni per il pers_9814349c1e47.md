@@ -20,9 +20,9 @@ Visto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Vista la [legge 22 aprile 1932, n. 490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-04-22;490), sul riordinamento della scuola secondaria di avviamento;
+Vista la [legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), sul riordinamento della scuola secondaria di avviamento;
 
-Vista la [legge 1° luglio 1940, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-01;899), istitutiva della scuola media;
+Vista la [legge 1° luglio 1940, n. 899](Istituzione%20della%20Scuola%20media.%20040U0899.md), istitutiva della scuola media;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -39,7 +39,7 @@ Nella scuola media si insegnano: religione, lingua italiana, lingua latina, stor
 
 ## Art. 2.
 
-Oltre agli esami di cui all'[art. 14 della legge 1° luglio 1940, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-01;899#art_14), nella scuola media si sostengono esami di idoneita' per l'iscrizione alla seconda e alla terza classe. Per partecipare agli anzidetti esami e' necessario che si sia conseguita, rispettivamente, da uno o due anni almeno l'ammissione alla scuola media.
+Oltre agli esami di cui all'[art. 14 della legge 1° luglio 1940, n. 899](Istituzione%20della%20Scuola%20media.%20040U0899.md), nella scuola media si sostengono esami di idoneita' per l'iscrizione alla seconda e alla terza classe. Per partecipare agli anzidetti esami e' necessario che si sia conseguita, rispettivamente, da uno o due anni almeno l'ammissione alla scuola media.
  Gli esami di idoneita' si svolgono in due sessioni: estiva ed autunnale.
 
 ## Art. 3.
@@ -76,8 +76,8 @@ Per l'immatricolazione e la frequenza delle classi di collegamento, per la frequ
 
 ## Art. 8.
 
-Sono abrogati gli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-07-02;1272#art_6) e [7 della legge 2 luglio 1929, n. 1272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-07-02;1272#art_7), riguardanti l'esonero dal pagamento del tasse scolastiche, l'istituzione di borse di studio e il conferimento di posti gratuiti in convitti a favore degli alunni maschi degli istituti magistrali.
-E' abrogato altresi' l'[art. 22 della legge 1° luglio 1940, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-01;899#art_22).
+Sono abrogati gli [articoli 6](Provvedimenti%20per%20listruzione%20magistrale.%20029U1272.md) e [7 della legge 2 luglio 1929, n. 1272](Provvedimenti%20per%20listruzione%20magistrale.%20029U1272.md), riguardanti l'esonero dal pagamento del tasse scolastiche, l'istituzione di borse di studio e il conferimento di posti gratuiti in convitti a favore degli alunni maschi degli istituti magistrali.
+E' abrogato altresi' l'[art. 22 della legge 1° luglio 1940, n. 899](Istituzione%20della%20Scuola%20media.%20040U0899.md).
  Gli alunni che ai sensi delle citate disposizioni sono attualmente assegnati di posti gratuiti in convitti mantengono il beneficio sino al compimento degli studi secondari. Gli alunni di cui al precedente comma sono tenuti, salvo le esenzioni accordate dalle vigenti norme, a corrispondere le tasse nella misura stabilita per le alunne.
 
 ## Art. 9.
@@ -92,15 +92,15 @@ La frequenza alle lezioni di educazione fisica e' obbligatoria. Il capo di istit
  Il voto di educazione fisica non e' compreso nel calcolo della media dei punti ai fini dell'ammissione ad esami, dell'iscrizione alle scuole e della dispensa dal pagamento delle tasse scolastiche.
  Gli insegnanti di educazione fisica fanno parte dei consigli di classe e dei collegi dei professori degli istituiti ai quali sono assegnati.
  Gli alunni esonerati o semiesonerati dal pagamento delle tasse scolastiche godono anche del beneficio, rispettivamente, dell'esonero o del semiesonero dalle tasse di educazione fisica.
- La [legge 14 novembre 1941, n. 1361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-11-14;1361), e' abrogata.
+ La [legge 14 novembre 1941, n. 1361](Disciplina%20ed%20equiparazione%20dellinsegnamento%20delleducazione%20fisica%20agli%20altri%20insegnamenti.%20041U1361.md), e' abrogata.
 
 ## Art. 11.
 
-E' abolita la facolta' di cui all'[art. 4 del R. decretolegge 21 novembre 1938, n. 2163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-21;2163#art_4), di disporre il comando di personale direttivo e insegnante ai Regi provveditorati agli studi ai sensi dell'[art. 54, del R. decreto 27 novembre 1924 n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-27;2367#art_54), e sono revocati i comandi cosi' disposti.
+E' abolita la facolta' di cui all'[art. 4 del R. decretolegge 21 novembre 1938, n. 2163](Norme%20per%20la%20nomina%20e%20le%20attribuzioni%20dei%20Regi%20provveditori%20agli%20studi%20e%20per%20listituzione%20del%20Consiglio%20provinciale%20delleducazione%20e%20del%20Consiglio%20di%20disciplina%20per%20gli%20insegnanti%20elementari.%20038U2163.md), di disporre il comando di personale direttivo e insegnante ai Regi provveditorati agli studi ai sensi dell'[art. 54, del R. decreto 27 novembre 1924 n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md), e sono revocati i comandi cosi' disposti.
 
 ### Art. 12.
 
-E' sospeso l'obbligo del concorso speciale per l'assegnazione dei capi di istituto e degli insegnanti alle sedi di cui all'[art. 1 del R. decreto 17 agosto 1942, n. 1097](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-08-17;1097#art_1);
+E' sospeso l'obbligo del concorso speciale per l'assegnazione dei capi di istituto e degli insegnanti alle sedi di cui all'[art. 1 del R. decreto 17 agosto 1942, n. 1097](Norme%20riguardanti%20i%20concorsi%20speciali%20a%20cattedre%20e%20a%20posti%20di%20capo%20distituto%20gli%20obblighi%20di%20servizio%20degli%20insegnanti%20la%20prova%20e%20la%20retribuzione%20degli%20incaricati%20di%20puericultura.%20042U1097.md);
 
 ### Art. 13.
 
@@ -110,8 +110,8 @@ Per gli anni scolastici 1944-45 e 1945-46, nei casi previsti dall'[art 22 del R.
 
 ### Art. 14.
 
-Sono mantenuti in servizio per l'anno scolastico 1944-45 i presidi, i direttori e gli insegnanti che avrebbero dovuto essere collocati a riposo dal 1° ottobre 1944 per gli effetti degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-24;565#art_2) e [3 del R. decreto-legge 24 aprile 1935, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-24;565#art_3) e successive modificazioni.
- Sono altresi' mantenuti in servizio, per l'anno scolastico 1944-45, i presidi, i direttori e gli insegnanti che, per effetto della [legge 10 dicembre 1942, n. 1704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-12-10;1704), non furono collocati a riposo dal 1° ottobre 1942 e che rimasero in servizio anche nell'anno scolastico 1943-44 e quelli che, ai sensi dei citati articoli del [R. decretolegge 24 aprile 1935, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-24;565), avrebbero dovuto essere collocati a riposo dal 1° ottobre 1943.
+Sono mantenuti in servizio per l'anno scolastico 1944-45 i presidi, i direttori e gli insegnanti che avrebbero dovuto essere collocati a riposo dal 1° ottobre 1944 per gli effetti degli [articoli 2](Limiti%20di%20eta%20pel%20collocamento%20a%20riposo%20del%20personale%20direttivo%20ed%20insegnante%20degli%20istituti%20distruzione.%20035U0565.md) e [3 del R. decreto-legge 24 aprile 1935, n. 565](Limiti%20di%20eta%20pel%20collocamento%20a%20riposo%20del%20personale%20direttivo%20ed%20insegnante%20degli%20istituti%20distruzione.%20035U0565.md) e successive modificazioni.
+ Sono altresi' mantenuti in servizio, per l'anno scolastico 1944-45, i presidi, i direttori e gli insegnanti che, per effetto della [legge 10 dicembre 1942, n. 1704](Norme%20transitorie%20sul%20collocamento%20a%20riposo%20del%20personale%20direttivo%20ed%20insegnante%20delle%20scuole%20governative%20e%20sullesonero%20dalle%20tasse%20in%20relazione%20allo%20stato%20di%20guerra.%20042U1704.md), non furono collocati a riposo dal 1° ottobre 1942 e che rimasero in servizio anche nell'anno scolastico 1943-44 e quelli che, ai sensi dei citati articoli del [R. decretolegge 24 aprile 1935, n. 565](Limiti%20di%20eta%20pel%20collocamento%20a%20riposo%20del%20personale%20direttivo%20ed%20insegnante%20degli%20istituti%20distruzione.%20035U0565.md), avrebbero dovuto essere collocati a riposo dal 1° ottobre 1943.
 
 ### Art. 15.
 

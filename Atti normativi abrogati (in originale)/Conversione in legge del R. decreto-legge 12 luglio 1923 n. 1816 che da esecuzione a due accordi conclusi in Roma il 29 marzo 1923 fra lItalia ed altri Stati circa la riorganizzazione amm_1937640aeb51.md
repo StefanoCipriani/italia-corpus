@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 luglio 1923, n. 1816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-07-12;1816), col quale e' data esecuzione: 
+ E' convertito in legge il [R. decreto-legge 12 luglio 1923, n. 1816](Esecuzione%20piena%20ed%20intera%20allaccordo%20firmato%20a%20Roma%20il%2029%20marzo%201923%20per%20la%20riorganizzazione%20amministrativa%20e%20tecnica%20della%20rete%20della%20Compagnia%20delle%20Ferrovie%20Meridionali%20fra%20la%20Repubbl_f4ae01bd12c5.md), col quale e' data esecuzione: 
  
  1° all'Accordo per la riorganizzazione amministrativa e tecnica della Compagnia delle ferrovie meridionali, sedente in Vienna, concluso in Roma il 29 marzo 1923, fra il Regno d'Italia, la Repubblica d'Austria, il Regno dei Serbi-Croati-Sloveni, il Regno d'Ungheria e la Compagnia delle ferrovie meridionali, con l'intervento del Comitato rappresentante i portatori di obbligazioni emesse dalla detta Compagnia; 
  

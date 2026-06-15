@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 8 della legge 2 giugno 1910, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277#art_8);
+Visto l'[art. 8 della legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md);
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Articolo unico.
 
-Il Comitato che, a norma dell'[art. 8 della legge 2 giugno 1910, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277#art_8), dev'essere consultato per i provvedimenti relativi al personale del Real corpo delle foreste, e' presieduto dal ministro, oppure dal sottosegretario di Stato, ed e' composto dal direttore generale delle foreste, dal direttore generale dell'agricoltura, da due ispettori superiori forestali, dal capo del segretariato generale del Ministero per l'agricoltura e dal capo della Divisione del personale forestale. 
+Il Comitato che, a norma dell'[art. 8 della legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md), dev'essere consultato per i provvedimenti relativi al personale del Real corpo delle foreste, e' presieduto dal ministro, oppure dal sottosegretario di Stato, ed e' composto dal direttore generale delle foreste, dal direttore generale dell'agricoltura, da due ispettori superiori forestali, dal capo del segretariato generale del Ministero per l'agricoltura e dal capo della Divisione del personale forestale. 
  
  Gli ispettori superiori saranno designati dal ministro e dureranno in carica due anni. 
  

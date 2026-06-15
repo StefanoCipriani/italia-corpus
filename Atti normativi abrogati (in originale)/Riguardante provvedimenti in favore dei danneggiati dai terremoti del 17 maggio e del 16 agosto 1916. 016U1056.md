@@ -53,7 +53,7 @@ Le domande di mutuo dovranno, entro il 31 dicembre 1916, essere trasmesse, per m
  2° la copia legale della decisione della Giunta provinciale amministrativa approvante la deliberazione del Consiglio comunale.
 Ove per garantire il prestito occorra l'eccedenza della sovrimposta al limite legale, la Giunta provinciale amministrativa nella decisione di cui sopra autorizzera' tale eccedenza. 
  
- Agli effetti della [legge 6 luglio 1912 n. 767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;767), verra' pubblicato soltanto la decisione tutoria, ed il termine per il ricorso alla 5ª sezione del Consiglio di Stato sara' ridotto a 15 giorni; 
+ Agli effetti della [legge 6 luglio 1912 n. 767](Concernente%20disposizioni%20sulle%20sovrimposte%20comunali%20e%20provinciali%20e%20sulle%20spese%20facoltative.%20012U0767.md), verra' pubblicato soltanto la decisione tutoria, ed il termine per il ricorso alla 5ª sezione del Consiglio di Stato sara' ridotto a 15 giorni; 
  
  3° l'attestazione prefettizia sulla consistenza della sovrimposta comunale e la quota disponibile a garanzia del mutuo; 
  
@@ -79,7 +79,7 @@ Riconosciuta la regolarita' degli atti presentati, il prefetto trasmette al Mini
 
 Nelle localita' danneggiate dai terremoti suddetti gli ufficiali del genio civile accerteranno i fabbricati dei quali sia necessaria, in tutto o in parte, la demolizione od il puntellamento a tutela della pubblica incolumita', e quelli che non potrebbero dare sicura abitazione alle persone che li abitavano senza l'esecuzione dei lavori di riparazione. 
  
- I lavori occorrenti saranno dal genio civile competente eseguiti immediatamente nei casi indifferibili, ed ordinati negli altri casi ai proprietari interessati, i quali, ove non dichiarino che preferiscono l'esecuzione di ufficio, dovranno porre mano ai lavori stessi entro il termine che sara' stabilito nell'ordinanza. Scaduto detto termine ed avuta la dichiarazione, il genio ebbe eseguira' d'ufficio i lavori, salvo rimborso allo Stato da parte degli abbienti della spesa sostenuta, nelle forme e coi privilegi fissati dall'art. 153 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148). 
+ I lavori occorrenti saranno dal genio civile competente eseguiti immediatamente nei casi indifferibili, ed ordinati negli altri casi ai proprietari interessati, i quali, ove non dichiarino che preferiscono l'esecuzione di ufficio, dovranno porre mano ai lavori stessi entro il termine che sara' stabilito nell'ordinanza. Scaduto detto termine ed avuta la dichiarazione, il genio ebbe eseguira' d'ufficio i lavori, salvo rimborso allo Stato da parte degli abbienti della spesa sostenuta, nelle forme e coi privilegi fissati dall'art. 153 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md). 
  
  Contro l'ordinanza dell'ufficiale del genio civile che dispone l'esecuzione dei lavori non e' ammesso reclamo ne' in via amministrativa ne' in via giurisdizionale. 
  
@@ -105,7 +105,7 @@ Tutti i lavori occorrenti nelle predette localita' danneggiate sono dichiarati d
 
 ## Art. 8.
 
-Le occupazioni temporanee dei beni immobili che possono occorrere per la esecuzione delle opere nelle localita' danneggiate, nonche' per la costruzione di baracche e di edifici, sia ad uso di privati che per servizi pubblici, saranno dal prefetto ordinate ai sensi degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_71), modificati da quella del 18 dicembre 1879, numero 5188. 
+Le occupazioni temporanee dei beni immobili che possono occorrere per la esecuzione delle opere nelle localita' danneggiate, nonche' per la costruzione di baracche e di edifici, sia ad uso di privati che per servizi pubblici, saranno dal prefetto ordinate ai sensi degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), modificati da quella del 18 dicembre 1879, numero 5188. 
  
  Quando l'indennita' offerta non sia accettata, essa sara' determinata in modo definitivo da una Commissione arbitrale composta del pretore del mandamento, di un funzionario del genio civile e di un delegato eletto dal Consiglio comunale.
 
@@ -117,7 +117,7 @@ E' data facolta' al Governo del Re di provvedere allo sgombero delle macerie e d
 
 ## Art. 10.
 
-Sono richiamate in vigore le disposizioni dell'[art. 7 del R. decreto 6 febbraio 1909, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-02-06;44#art_7), e quelle del [R. decreto 6 maggio 1909, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-05-06;255), convertiti nella [legge 21 luglio 1910, n. 579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-21;579).
+Sono richiamate in vigore le disposizioni dell'[art. 7 del R. decreto 6 febbraio 1909, n. 44](Che%20autorizza%20lo%20sgombero%20delle%20macerie%20e%20dei%20materiali%20caduti%20o%20che%20potessero%20ancora%20cadere%20sulle%20aree%20pubbliche%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0044.md), e quelle del [R. decreto 6 maggio 1909, n. 255](Portante%20disposizioni%20circa%20il%20risarcimento%20dei%20danni%20cagionati%20dalle%20demolizioni%20dei%20luoghi%20colpiti%20dal%20terremoto.%20009U0255.md), convertiti nella [legge 21 luglio 1910, n. 579](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20decreti%20Reali%20sul%20terremoto%20del%2028%20dicembre%201908.%20010U0579.md).
 
 ## Art. 11.
 

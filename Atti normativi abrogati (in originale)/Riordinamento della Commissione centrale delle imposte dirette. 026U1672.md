@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [testo unico 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1877-08-24;4021) (serie 2ª), sulla imposta di ricchezza mobile;
 
-Visto il [R. decreto 31 dicembre 1923, n. 2870](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2870), sul riordinamento della Commissione centrale per le imposte dirette;
+Visto il [R. decreto 31 dicembre 1923, n. 2870](Riordinamento%20della%20Commissione%20centrale%20delle%20imposte%20dirette.%20023U2870.md), sul riordinamento della Commissione centrale per le imposte dirette;
 
 Visto il decreto Ministeriale 2 aprile 1924, registrato alla Corte dei conti il 7 aprile 1924;
 
@@ -50,7 +50,7 @@ Ciascuna sezione e' composta di un vice-presidente e di quattro membri. Per la v
 
 ## Art. 3.
 
-Spetta al presidente della Commissione disciplinare con norme speciali il funzionamento dei lavori della Commissione in seduta plenaria e delle sezioni ed eseguire il riparto delle somme stabilite per onorari ai relativi membri, fermi restando la indennita' stabilita per i vice-presidenti, e l'indennita' fissa presidenziale di cui al [R. decreto 24 aprile 1921, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-04-24;689), nonche' i premi di operosita' e di rendimento, nei limiti stabiliti dall'[art. 3 del decreto Ministeriale 27 marzo 1924, n. 4174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1924-03-27;4174#art_3), al personale della segreteria compreso quello subalterno.
+Spetta al presidente della Commissione disciplinare con norme speciali il funzionamento dei lavori della Commissione in seduta plenaria e delle sezioni ed eseguire il riparto delle somme stabilite per onorari ai relativi membri, fermi restando la indennita' stabilita per i vice-presidenti, e l'indennita' fissa presidenziale di cui al [R. decreto 24 aprile 1921, n. 689](Che%20ripristina%20la%20medaglia%20di%20presenza%20per%20i%20componenti%20la%20Commissione%20centrale%20delle%20imposte%20dirette%20e%20fissa%20altresi%20il%20compenso%20mensile%20per%20il%20presidente%20della%20Commissione%20stessa.%20021U0689.md), nonche' i premi di operosita' e di rendimento, nei limiti stabiliti dall'[art. 3 del decreto Ministeriale 27 marzo 1924, n. 4174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1924-03-27;4174#art_3), al personale della segreteria compreso quello subalterno.
 
 ## Art. 4.
 

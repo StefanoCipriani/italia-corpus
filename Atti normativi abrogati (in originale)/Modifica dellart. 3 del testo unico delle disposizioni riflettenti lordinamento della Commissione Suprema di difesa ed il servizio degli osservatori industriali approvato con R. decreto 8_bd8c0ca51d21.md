@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'art. 3 del testo unico delle disposizioni riflettenti l'ordinamento della Commissione Suprema di difesa ed il servizio degli osservatori industriali, approvato con [R. decreto 8 gennaio 1928, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-08;165), e' sostituito dal seguente: 
+ L'art. 3 del testo unico delle disposizioni riflettenti l'ordinamento della Commissione Suprema di difesa ed il servizio degli osservatori industriali, approvato con [R. decreto 8 gennaio 1928, n. 165](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20riflettenti%20lordinamento%20della%20Commissione%20Suprema%20di%20difesa%20ed%20il%20servizio%20degli%20osservatori%20industriali.%20028U0165.md), e' sostituito dal seguente: 
  
  «Il Comitato deliberativo e' composto come segue: 
  

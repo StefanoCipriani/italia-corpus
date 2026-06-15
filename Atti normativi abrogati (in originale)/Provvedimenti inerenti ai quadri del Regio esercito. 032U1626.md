@@ -333,7 +333,7 @@ Il collocamento in ausiliaria col trattamento previsto dalla presente legge potr
 ### Art. 46.
 
 Gli ufficiali collocati in ausiliaria, in applicazione della presente legge, hanno diritto per la durata di otto anni ai quattro quinti dello stipendio, nonche' ai quattro quinti della indennita' militare e dell'aggiunta di famiglia che percepivano all'atto del collocamento in ausiliaria. 
- I predetti ufficiali non hanno diritto, pero', alla indennita' di ausiliaria fissata dal [R. decreto-legge 10 febbraio 1926, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-10;206). 
+ I predetti ufficiali non hanno diritto, pero', alla indennita' di ausiliaria fissata dal [R. decreto-legge 10 febbraio 1926, n. 206](Provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20e%20dei%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20delle%20altre%20forze%20armate%20dello%20Stato.%20026U0206.md). 
  Dopo gli otto Anni di permanenza in ausiliaria col trattamento previsto dal presente articolo gli ufficiali sopra indicati vengono collocati a riposo. 
  L'aggiunta di famiglia, di cui al primo comma del presente articolo, verra' ridotta malora si verifichino mutamenti nella situazione di famiglia dell'ufficiale. Detta aggiunta di famiglia non sara' piu' corrisposta all'ufficiale senza figli minorenni, che durante la permanenza in ausiliaria sia divenuto vedovo. 
  All'ufficiale che venga a trovarsi in quest'ultima condizione sara' inoltre corrisposta la indennita' militare ridotta - com'e' indicata nel primo comma del presente articolo - spettante agli ufficiali celibi, anziche' quella spettante agli ufficiali ammogliati.
@@ -362,7 +362,7 @@ CAPO VI.
 
 ### Art. 51.
 
-In deroga alle disposizioni contenute nell'[art. 11 del R. decreto 23 febbraio 1928, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-23;327#art_11), che approva il testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, i commissari di leva saranno tratti per concorso per titoli dai maggiori e dai capitani in servizio attivo permanente delle armi di fanteria e di cavalleria, sino a quando non risulteranno assorbite le eccedenze di organico esistenti in detti gradi nelle armi su menzionate, conseguenti alle promozioni effettuate ai gradi stessi in base al R. decreto-legge 2532 dell'8 novembre 1928.
+In deroga alle disposizioni contenute nell'[art. 11 del R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), che approva il testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, i commissari di leva saranno tratti per concorso per titoli dai maggiori e dai capitani in servizio attivo permanente delle armi di fanteria e di cavalleria, sino a quando non risulteranno assorbite le eccedenze di organico esistenti in detti gradi nelle armi su menzionate, conseguenti alle promozioni effettuate ai gradi stessi in base al R. decreto-legge 2532 dell'8 novembre 1928.
 
 ### Art. 52.
 
@@ -378,17 +378,17 @@ All'atto dell'assunzione in servizio i commissari di leva nominati in base al pr
 
 ### Art. 54.
 
-I commissari di leva nominati in base alla presente legge non sono assoggettati al periodo di esperimento della durata di un anno, di cui all'[art. 11 del R. decreto 23 febbraio 1928, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-23;327#art_11). 
+I commissari di leva nominati in base alla presente legge non sono assoggettati al periodo di esperimento della durata di un anno, di cui all'[art. 11 del R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md). 
  La loro nomina avviene con decreto Ministeriale.
 
 ### Art. 55.
 
-I posti resisi vacanti nei ruoli delle armi di fanteria e di cavalleria in seguito alla nomina a commissari di leva di maggiori e di capitani delle predette armi, effettuata in base alla presente legge, non saranno disponibili per il reclutamento di ufficiali subalterni e saranno destinati al riassorbimento degli ufficiali promossi in soprannumero in base al [R. decreto-legge n. 2532 dell'8 novembre 1928](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-08;2532). 
+I posti resisi vacanti nei ruoli delle armi di fanteria e di cavalleria in seguito alla nomina a commissari di leva di maggiori e di capitani delle predette armi, effettuata in base alla presente legge, non saranno disponibili per il reclutamento di ufficiali subalterni e saranno destinati al riassorbimento degli ufficiali promossi in soprannumero in base al [R. decreto-legge n. 2532 dell'8 novembre 1928](Provvedimenti%20per%20la%20carriera%20degli%20ufficiali%20inferiori%20di%20fanteria%20e%20cavalleria%20e%20degli%20ufficiali%20del%20Corpo%20veterinario%20militare.%20028U2532.md). 
  La presente legge non modifica le disposizioni contenute nella [legge 15 dicembre 1930, n. 1697](Conversione%20in%20legge%20del%20R.%20decreto-leggo%2022%20agosto%201930%20n.%201374%20concernente%20la%20nomina%20ad%20ufficiale%20in%20servizio%20permanente%20effettivo%20degli%20allievi%20delle%20accademie%20e%20delle%20scuole%20militari.%20030U1697.md).
 
 ### Art. 56.
 
-Rimangono immutate le disposizioni non in contrasto con la presente legge, contenute negli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-23;327#art_11), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-23;327#art_12) e [13 del R. decreto 23 febbraio 1928, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-23;327#art_13).
+Rimangono immutate le disposizioni non in contrasto con la presente legge, contenute negli [articoli 11](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), [12](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md) e [13 del R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md).
 
 ## Modificazioni alla legge 11 marzo 1926, n. 398.
 
@@ -407,7 +407,7 @@ CAPO VIII.
 
 ### Art. 58.
 
-Gli organici dei maggiori e dei tenenti colonnelli in S.P.E. dell'arma dei carabinieri Reali fissati dal [R. decreto-legge 16 maggio 1926, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;855), e successive modificazioni, sono stabiliti nel modo seguente: 
+Gli organici dei maggiori e dei tenenti colonnelli in S.P.E. dell'arma dei carabinieri Reali fissati dal [R. decreto-legge 16 maggio 1926, n. 855](Composizione%20e%20organico%20dellarma%20dei%20carabinieri%20Reali%20norme%20per%20laccertamento%20dellidoneita%20al%20trasferimento%20dei%20subalterni%20al%20servizio%20dellarma%20reclutamento%20straordinario%20di%20ufficiali%20ne_9d563d74ca88.md), e successive modificazioni, sono stabiliti nel modo seguente: 
  tenenti colonnelli . . . 67 
  maggiori . . . . . . . . 90 
  Per raggiungere gradualmente tali organici il Ministero della guerra, considerate le vacanze rispetto agli organici stabiliti dall'anzidetto Regio decreto-legge e successive modificazioni, procedera' alle promozioni al grado di tenente colonnello per non oltre un quinto delle vacanze stesse. 
@@ -415,7 +415,7 @@ Gli organici dei maggiori e dei tenenti colonnelli in S.P.E. dell'arma dei carab
 
 ### Art. 59.
 
-Gli organici dei sottotenenti, dei tenenti e dei capitani in S.P.E. dei carabinieri Reali stabiliti dal [R. decreto-legge 16 maggio 1926, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;855), e successive modificazioni, sono modificati nel modo seguente: 
+Gli organici dei sottotenenti, dei tenenti e dei capitani in S.P.E. dei carabinieri Reali stabiliti dal [R. decreto-legge 16 maggio 1926, n. 855](Composizione%20e%20organico%20dellarma%20dei%20carabinieri%20Reali%20norme%20per%20laccertamento%20dellidoneita%20al%20trasferimento%20dei%20subalterni%20al%20servizio%20dellarma%20reclutamento%20straordinario%20di%20ufficiali%20ne_9d563d74ca88.md), e successive modificazioni, sono modificati nel modo seguente: 
  capitani . . . . . . . . . 354 
  tenenti e sottotenenti . . 500 
  Gli organici predetti verranno raggiunti: 

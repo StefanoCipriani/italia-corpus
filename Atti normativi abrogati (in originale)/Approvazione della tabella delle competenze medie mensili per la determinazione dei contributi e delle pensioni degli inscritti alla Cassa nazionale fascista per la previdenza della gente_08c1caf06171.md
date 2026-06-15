@@ -16,9 +16,9 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto-legge 20 ottobre 1919, n. 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-20;1996), convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), che erige in ente morale la Cassa degli invalidi della marina mercantile;
+Visto il [R. decreto-legge 20 ottobre 1919, n. 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-20;1996), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), che erige in ente morale la Cassa degli invalidi della marina mercantile;
 
-Visto l'[art. 1 del R. decreto-legge 29 marzo 1923, n. 884](Che%20reca%20modificazioni%20a%20quello%2026%20ottobre%201919%20n.%201996%20sulla%20cassa%20invalidi%20della%20marina%20mercantile.%20023U0884.md), convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), che reca modificazioni al Regio decreto-legge precitato;
+Visto l'[art. 1 del R. decreto-legge 29 marzo 1923, n. 884](Che%20reca%20modificazioni%20a%20quello%2026%20ottobre%201919%20n.%201996%20sulla%20cassa%20invalidi%20della%20marina%20mercantile.%20023U0884.md), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), che reca modificazioni al Regio decreto-legge precitato;
 
 Visto l'[art. 5 della legge 9 aprile 1931, n. 456](Miglioramento%20delle%20pensioni%20ai%20marittimi%20inscritti%20alla%20Cassa%20invalidi%20della%20Marina%20mercantile.%20031U0456.md), concernente il miglioramento delle pensioni ai marittimi inscritti alla Cassa invalidi della marina mercantile;
 

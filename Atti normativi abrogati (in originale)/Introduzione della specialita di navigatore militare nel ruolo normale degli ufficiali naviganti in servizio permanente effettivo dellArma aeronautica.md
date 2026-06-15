@@ -16,13 +16,13 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'[articolo 5 del regio decreto-legge 28 gennaio 1935, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-28;314#art_5), quale risulta sostituito dall'[articolo 7 della legge 5 luglio 1952, n. 989](Riordinamento%20di%20ruoli%20quadri%20organici%20e%20nuovi%20limiti%20di%20eta%20per%20la%20cessazione%20dal%20servizio%20permanente%20degli%20ufficiali%20dellaeronautica.md), e' sostituito dal seguente:
+L'[articolo 5 del regio decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), quale risulta sostituito dall'[articolo 7 della legge 5 luglio 1952, n. 989](Riordinamento%20di%20ruoli%20quadri%20organici%20e%20nuovi%20limiti%20di%20eta%20per%20la%20cessazione%20dal%20servizio%20permanente%20degli%20ufficiali%20dellaeronautica.md), e' sostituito dal seguente:
  "I sottotenenti in servizio permanente del ruolo naviganti normale dell'Arma aeronautica sono tratti dagli allievi della Accademia aeronautica che abbiano compiuto con esito favorevole l'ultimo anno di corso ed abbiano conseguito il brevetto di pilota di aeroplano o di idrovolante od il brevetto di navigatore di aeroplano".
 
 NOTE
 
  Nota all'[art. 1:
- Il R.D.L. 28 gennaio 1935, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-28;314#art_1), ha approvato le norme relative al reclutamento ed all'avanzamento degli ufficiali della regia aeronautica.
+ Il R.D.L. 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), ha approvato le norme relative al reclutamento ed all'avanzamento degli ufficiali della regia aeronautica.
 
 ## Art. 2.
 
@@ -90,7 +90,7 @@ Nota all'art. 7, comma quarto:
 
 ## Art. 8.
 
-Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro della difesa, sono emanate, entro sei mesi dall'entrata in vigore della presente legge, norme dirette ad adeguare alla presente legge il [regio decreto 25 marzo 1941, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-03-25;472), concernente l'ordinamento della Accademia aeronautica ed ogni altra norma regolamentare.
+Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro della difesa, sono emanate, entro sei mesi dall'entrata in vigore della presente legge, norme dirette ad adeguare alla presente legge il [regio decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), concernente l'ordinamento della Accademia aeronautica ed ogni altra norma regolamentare.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

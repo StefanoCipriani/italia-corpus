@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 1256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-03;1256), che approva una convenzione aggiuntiva fra il Ministero dell'aeronautica e la Societa' Transadriatica per l'esercizio della linea aerea commerciale Venezia-Brindisi. 
+ E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 1256](Approvazione%20di%20una%20convenzione%20aggiuntiva%20con%20la%20Societa%20Transadriatica%20per%20lesercizio%20della%20linea%20aerea%20commerciale%20Venezia-Brindisi.%20030U1256.md), che approva una convenzione aggiuntiva fra il Ministero dell'aeronautica e la Societa' Transadriatica per l'esercizio della linea aerea commerciale Venezia-Brindisi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 dicembre 1923, n. 3150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-13;3150), col quale si da' esecuzione alle seguenti convenzioni concluse a Roma il 6 aprile 1922: 
+ E' convertito in legge il [R. decreto-legge 13 dicembre 1923, n. 3150](Approvazione%20di%20tre%20convenzioni%20conchiuse%20fra%20lItalia%20ed%20altri%20Stati%20in%20materia%20di%20assicurazioni%20private.%20023U3150.md), col quale si da' esecuzione alle seguenti convenzioni concluse a Roma il 6 aprile 1922: 
  
  1° Convenzioni preliminari fra l'Italia e la Repubblica Austriaca, la Repubblica Cecoslovacca, lo Stato Polacco, il Regno di Romania, il Regno dei Serbi, Croati, Sloveni ed il Regno di Ungheria e concernenti: 
  
@@ -43,4 +43,4 @@ VITTORIO EMANUELE III
  Visto, il Guardasigilli: Rocco. 
  
  --------------- 
- NB. - Il [R. decreto-legge 13 dicembre 1923, n. 3150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-13;3150), venne pubblicato nella Gazzetta Ufficiale 11 febbraio 1924, n. 35.
+ NB. - Il [R. decreto-legge 13 dicembre 1923, n. 3150](Approvazione%20di%20tre%20convenzioni%20conchiuse%20fra%20lItalia%20ed%20altri%20Stati%20in%20materia%20di%20assicurazioni%20private.%20023U3150.md), venne pubblicato nella Gazzetta Ufficiale 11 febbraio 1924, n. 35.

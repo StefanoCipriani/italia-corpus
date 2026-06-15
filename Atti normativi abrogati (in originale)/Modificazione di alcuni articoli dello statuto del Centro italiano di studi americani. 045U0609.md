@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I comma 3 e 4, dell'art. 5 dello statuto del Centro italiano di studi americani in Roma, approvato con [R. decreto 17 settembre 1936, n. 2027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-09-17;2027), sono abrogati.
+I comma 3 e 4, dell'art. 5 dello statuto del Centro italiano di studi americani in Roma, approvato con [R. decreto 17 settembre 1936, n. 2027](Erezione%20in%20ente%20morale%20dellAssociazione%20Centro%20italiano%20di%20studi%20americani.%20036U2027.md), sono abrogati.
 
 ## Art. 2. — null
 

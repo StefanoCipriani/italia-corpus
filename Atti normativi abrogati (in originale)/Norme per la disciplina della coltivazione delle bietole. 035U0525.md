@@ -14,7 +14,7 @@ PRIMO MINISTRO SEGRETARIO DI STATO
 
 Viste le norme elaborate dalla Corporazione delle bietole e dello zucchero per la disciplina della coltivazione delle bietole, su proposta della Federazione nazionale fascista degli industriali dello zucchero, dei dolci, degli affini e derivati;
 
-Vista la deliberazione del Comitato corporativo centrale, in data 27 aprile 1935, che approva le norme stesse, ai sensi del [R. decreto-legge 18 aprile 1935, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-18;441);
+Vista la deliberazione del Comitato corporativo centrale, in data 27 aprile 1935, che approva le norme stesse, ai sensi del [R. decreto-legge 18 aprile 1935, n. 441](Norme%20sulle%20attribuzioni%20del%20Comitato%20corporativo%20centrale.%20035U0441.md);
 
 Visto l'art. 11 della legge 5 febbraio 1934, n. 163; Decreta:
 
@@ -30,7 +30,7 @@ Sono pubblicate nella Gazzetta Ufficiale del Regno le seguenti norme per la disc
  
  III. - Le competenti Associazioni-sindacali dovranno istituire un rigoroso controllo delle superfici coltivate e delle consegne. Esse potranno all'uopo avvalersi degli Enti di cui all'art. 1, nei limiti consentiti dai rispettivi statuti. 
  
- IV. - Per le sanzioni in caso di inosservanza delle presenti norme, si osservano le disposizioni dell'[art. 11, secondo comma, della legge 5 febbraio 1934, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;163#art_11-com2).
+ IV. - Per le sanzioni in caso di inosservanza delle presenti norme, si osservano le disposizioni dell'[art. 11, secondo comma, della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md).
 
 ## Art. 2.
 

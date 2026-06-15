@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto il regolamento approvato con [R. decreto 15 ottobre 1914, n. 1234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-10-15;1234);
+Veduto il regolamento approvato con [R. decreto 15 ottobre 1914, n. 1234](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20per%20le%20tasse%20nelle%20scuole%20medie%20e%20normali.%20014U1234.md);
 
 Veduto il [R. decreto 28 aprile 1918, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1918-04-28;695);
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 marzo 1934, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-22;443), concernente proroga dei poteri conferiti al presidente dell'Istituto nazionale fascista per l'assicurazione contro gli infortuni sul lavoro per l'ordinamento del personale. 
+ E' convertito in legge il [R. decreto-legge 22 marzo 1934, n. 443](Proroga%20dei%20poteri%20conferiti%20al%20presidente%20dellIstituto%20nazionale%20fascista%20per%20lassicurazione%20contro%20glinfortuni%20sul%20lavoro%20per%20lordinamento%20del%20personale.%20034U0443.md), concernente proroga dei poteri conferiti al presidente dell'Istituto nazionale fascista per l'assicurazione contro gli infortuni sul lavoro per l'ordinamento del personale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

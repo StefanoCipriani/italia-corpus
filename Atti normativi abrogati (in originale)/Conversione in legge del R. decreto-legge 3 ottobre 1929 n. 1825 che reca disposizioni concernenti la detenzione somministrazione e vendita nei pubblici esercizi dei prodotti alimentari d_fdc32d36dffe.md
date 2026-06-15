@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo Unico. 
  
- E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-03;1825), che reca disposizioni concernenti la detenzione, somministrazione e vendita nei pubblici esercizi dei prodotti alimentari della pesca conservati in recipienti. 
+ E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1825](Disposizioni%20concernenti%20la%20detenzione%20somministrazione%20e%20vendita%20nei%20pubblici%20esercizi%20dei%20prodotti%20alimentari%20della%20pesca%20conservati%20in%20recipienti.%20029U1825.md), che reca disposizioni concernenti la detenzione, somministrazione e vendita nei pubblici esercizi dei prodotti alimentari della pesca conservati in recipienti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

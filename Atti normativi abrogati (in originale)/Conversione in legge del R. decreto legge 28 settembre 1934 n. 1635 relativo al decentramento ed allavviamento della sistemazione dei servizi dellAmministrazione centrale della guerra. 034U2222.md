@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1635), relativo al decentramento ed all'avviamento della sistemazione dei servizi dell'amministrazione centrale della guerra. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1635](Decentramento%20ed%20avviamento%20alla%20sistemazione%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20034U1635.md), relativo al decentramento ed all'avviamento della sistemazione dei servizi dell'amministrazione centrale della guerra. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

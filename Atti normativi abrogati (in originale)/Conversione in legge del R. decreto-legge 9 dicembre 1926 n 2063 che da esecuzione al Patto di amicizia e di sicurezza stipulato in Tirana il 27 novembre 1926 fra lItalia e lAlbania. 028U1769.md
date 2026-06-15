@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 dicembre 1926, n. 2063](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-09;2063), che da' esecuzione al Patto di amicizia e di sicurezza stipulato in Tirana, il 27 novembre 1926, fra l'Italia e l'Albania. 
+ E' convertito in legge il [R. decreto-legge 9 dicembre 1926, n. 2063](Esecuzione%20del%20Patto%20di%20amicizia%20e%20di%20sicurezza%20stipulato%20in%20Tirana%20il%2027%20novembre%201926%20fra%20lItalia%20e%20lAlbania.%20026U2063.md), che da' esecuzione al Patto di amicizia e di sicurezza stipulato in Tirana, il 27 novembre 1926, fra l'Italia e l'Albania. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

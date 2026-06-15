@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 27 novembre 1919, n. 2265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2265); [21 ottobre 1923, n. 2471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2471) e [23 marzo 1924, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-03-23;577);
+Visti i [Regi decreti 27 novembre 1919, n. 2265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2265); [21 ottobre 1923, n. 2471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2471) e [23 marzo 1924, n. 577](Approvazione%20del%20nuovo%20regolamento%20generale%20pel%20funzionamento%20delle%20cattedre%20ambulanti%20di%20agricoltura.%20024U0577.md);
 
 Sentito il Consiglio dei Ministri;
 

@@ -32,7 +32,7 @@ A modifica delle vigenti disposizioni e fino a quando non saranno emanate nuove 
 
 ## Art. 3.
 
-Il ruolo dei sottufficiali maniscalchi, di cui al [regio decreto 15 settembre 1932, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-15;1514), e il ruolo dei sottufficiali musicanti di cui alla [legge 14 ottobre 1940, n. 1549](Norme%20per%20lorganico%20e%20per%20lavanzamento%20dei%20musicanti%20effettivi%20e%20modificazioni%20allart.%20150%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20040U1549.md), sono soppressi. I sottufficiali appartenenti ai suddetti ruoli sono trasferiti nel ruolo unico delle Armi e servizi dell'Esercito e ad essi si applicano, per l'avanzamento, le disposizioni vigenti per i sottufficiali dell'Esercito.
+Il ruolo dei sottufficiali maniscalchi, di cui al [regio decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e il ruolo dei sottufficiali musicanti di cui alla [legge 14 ottobre 1940, n. 1549](Norme%20per%20lorganico%20e%20per%20lavanzamento%20dei%20musicanti%20effettivi%20e%20modificazioni%20allart.%20150%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20040U1549.md), sono soppressi. I sottufficiali appartenenti ai suddetti ruoli sono trasferiti nel ruolo unico delle Armi e servizi dell'Esercito e ad essi si applicano, per l'avanzamento, le disposizioni vigenti per i sottufficiali dell'Esercito.
 
 ### Art. 4.
 
@@ -44,7 +44,7 @@ L'organico dei sergenti maggiori di cui all'articolo 1 sara' raggiunto gradualme
 
 ### Art. 5.
 
-I sergenti maggiori che, alla data in entrata in vigore della presente legge, si trovino nella posizione di ammessi alla seconda rafferma di due anni di cui all'articolo 3 del testo unico delle leggi sullo stato dei sottufficiali dell'Esercito, approvato con [regio decreto 15 settembre 1932, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-15;1514), sono, a domanda, e se giudicati idonei, nominati in servizio permanente, con decorrenza dal giorno successivo a quello di entrata in vigore della presente legge.
+I sergenti maggiori che, alla data in entrata in vigore della presente legge, si trovino nella posizione di ammessi alla seconda rafferma di due anni di cui all'articolo 3 del testo unico delle leggi sullo stato dei sottufficiali dell'Esercito, approvato con [regio decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), sono, a domanda, e se giudicati idonei, nominati in servizio permanente, con decorrenza dal giorno successivo a quello di entrata in vigore della presente legge.
 I sergenti maggiori giudicati non idonei sono trasferiti nella
 categoria di complemento e collocati in congedo illimitato.
 
@@ -68,7 +68,7 @@ Fino al completo riassorbimento dei soprannumeri di cui all'articolo precedente,
 
 ### Art. 9.
 
-Il Ministro per la difesa e' autorizzato, entro i limiti numerici della forza organica dei sergenti in ferma volontaria e in rafferma, a concedere, fino al massimo di cinque, ulteriori rafferme annuali oltre quelle previste dall'articolo 138 del testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-02-24;329), e successive modificazioni.
+Il Ministro per la difesa e' autorizzato, entro i limiti numerici della forza organica dei sergenti in ferma volontaria e in rafferma, a concedere, fino al massimo di cinque, ulteriori rafferme annuali oltre quelle previste dall'articolo 138 del testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni.
 
 ### Art. 10.
 

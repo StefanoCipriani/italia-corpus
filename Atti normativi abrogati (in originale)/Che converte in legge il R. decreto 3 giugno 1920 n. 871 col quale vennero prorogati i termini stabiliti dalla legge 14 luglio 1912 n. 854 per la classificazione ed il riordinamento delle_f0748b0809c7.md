@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- convertito in legge il [R. decreto-legge 3 giugno 1920, n. 871](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-03;871), col quale sono prorogati i termini stabiliti dagli [articoli 12](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md) e [13 della legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), per la classificazione ed il riordinamento delle scuole industriali. 
+ convertito in legge il [R. decreto-legge 3 giugno 1920, n. 871](Che%20proroga%20i%20termini%20stabiliti%20dalla%20legge%2014%20luglio%201912%20n.%20854%20per%20la%20classificazione%20ed%20il%20riordinamento%20delle%20scuole%20industriali.%20020U0871.md), col quale sono prorogati i termini stabiliti dagli [articoli 12](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md) e [13 della legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), per la classificazione ed il riordinamento delle scuole industriali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare, come legge dello Stato. 
  

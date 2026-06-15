@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto del 31 dicembre 1913, n. 1403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-12-31;1403), col quale viene modificato, per alcuni prodotti del monopolio dei tabacchi, il prezzo massimo stabilito dalla tabella annessa alla [legge 15 maggio 1890, n. 6851](Che%20determina%20lapplicazione%20del%20Reale%20decreto%20relativo%20alla%20vendita%20dei%20tabacchi.%20090U6851.md), serie 3ª. 
+ E' convertito in legge il [R. decreto del 31 dicembre 1913, n. 1403](Che%20eleva%20il%20prezzo%20massimo%20per%20chilogramma%20di%20talune%20qualita%20di%20trinciati%20sigari%20e%20spagnolette.%20013U1403.md), col quale viene modificato, per alcuni prodotti del monopolio dei tabacchi, il prezzo massimo stabilito dalla tabella annessa alla [legge 15 maggio 1890, n. 6851](Che%20determina%20lapplicazione%20del%20Reale%20decreto%20relativo%20alla%20vendita%20dei%20tabacchi.%20090U6851.md), serie 3ª. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

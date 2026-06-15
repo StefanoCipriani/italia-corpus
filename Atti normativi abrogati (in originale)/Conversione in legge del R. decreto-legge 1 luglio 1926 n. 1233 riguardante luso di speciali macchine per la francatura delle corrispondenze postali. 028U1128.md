@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° luglio 1926, n. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-01;1233), riguardante l'uso di speciali macchine per la francatura delle corrispondenze postali. 
+ E' convertito in legge il [R. decreto-legge 1° luglio 1926, n. 1233](Uso%20di%20speciali%20macchine%20per%20la%20francatura%20delle%20corrispondenze%20postali.%20026U1233.md), riguardante l'uso di speciali macchine per la francatura delle corrispondenze postali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

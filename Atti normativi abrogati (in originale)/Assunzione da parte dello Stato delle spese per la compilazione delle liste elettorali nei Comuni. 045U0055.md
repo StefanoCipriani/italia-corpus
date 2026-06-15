@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il testo unico della legge elettorale politica, approvato con [R. decreto 2 settembre 1919, n. 1495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-02;1495);
+Visto il testo unico della legge elettorale politica, approvato con [R. decreto 2 settembre 1919, n. 1495](Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica%20in%20sostituzione%20di%20quello%20approvato%20con%20R.%20decreto%2026%20giugno%201913%20n.%20821.%20019U1495.md);
 
 Visto il [decreto-legge Luogotenenziale 28 settembre 1944, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-09-28;247);
 

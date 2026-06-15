@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 dicembre 1933, n. 1864](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-11;1864), con il quale e' stato approvato il piano regolatore particolareggiato edilizio e di risanamento della parte centrale della citta' di Modena. 
+ E' convertito in legge il [R. decreto-legge 11 dicembre 1933, n. 1864](Approvazione%20del%20piano%20regolatore%20particolareggiato%20edilizio%20e%20di%20risanamento%20della%20parte%20centrale%20della%20citta%20di%20Modena.%20033U1864.md), con il quale e' stato approvato il piano regolatore particolareggiato edilizio e di risanamento della parte centrale della citta' di Modena. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

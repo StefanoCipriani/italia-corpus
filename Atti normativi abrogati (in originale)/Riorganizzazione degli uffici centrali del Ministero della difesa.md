@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 2 della legge 12 dicembre 1962, n. 1862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-12;1862#art_2), concernente delega al Governo per il riordinamento del Ministero della difesa;
+Visto l'[art. 2 della legge 12 dicembre 1962, n. 1862](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md), concernente delega al Governo per il riordinamento del Ministero della difesa;
 
-Vista la [legge 9 ottobre 1964, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-09;1058), concernente il rinnovo della delega predetta;
+Vista la [legge 9 ottobre 1964, n. 1058](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Rinnovo%20della%20delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20al%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20maggiori%20e%20delega%20per%20il%20riordinamento%20delle%20carriere%20e%20delle%20c_90e4698fc918.md), concernente il rinnovo della delega predetta;
 
 Udito il parere del Consiglio superiore delle forze armate;
 
-Udito il parere della Commissione parlamentare di cui all'[art. 6 della legge 12 dicembre 1962, n. 1862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-12;1862#art_6);
+Udito il parere della Commissione parlamentare di cui all'[art. 6 della legge 12 dicembre 1962, n. 1862](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -391,7 +391,7 @@ decorrenza delle trasformazioni, istituzioni e soppressioni di cariche ed uffici
 
 ### Art. 39.
 
-A decorrere dalla data di cui al precedente [art. 38 la lettera c) del secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-01-09;167#art_38-com2-letc) dell'[art. 5 della legge 9 gennaio 1951, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-01-09;167#art_5), concernente la istituzione del Consiglio superiore delle forze armate, e' sostituita dalla seguente:
+A decorrere dalla data di cui al precedente [art. 38 la lettera c) del secondo comma](Istituzione%20del%20Consiglio%20superiore%20delle%20Forze%20armate.md) dell'[art. 5 della legge 9 gennaio 1951, n. 167](Istituzione%20del%20Consiglio%20superiore%20delle%20Forze%20armate.md), concernente la istituzione del Consiglio superiore delle forze armate, e' sostituita dalla seguente:
  "c) il segretario generale del Ministero della difesa, il quale puo' farsi rappresentare da un generale o da un ammiraglio addetto al suo ufficio".
 
 ### Art. 40.
@@ -411,7 +411,7 @@ Nel periodo intercorrente tra la data di cui al precedente art. 38 e la data pre
 
 ### Art. 43.
 
-Alla data in cui sara' costituita la Direzione generale per gli impiegati civili, i Consigli di amministrazione per il personale ausiliario, operanti presso le direzioni generali personali civili e affari generali di ciascuna forza armata, saranno sostituiti da un unico Consiglio di amministrazione con la composizione e le attribuzioni stabilite dall'art. 146 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3).
+Alla data in cui sara' costituita la Direzione generale per gli impiegati civili, i Consigli di amministrazione per il personale ausiliario, operanti presso le direzioni generali personali civili e affari generali di ciascuna forza armata, saranno sostituiti da un unico Consiglio di amministrazione con la composizione e le attribuzioni stabilite dall'art. 146 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ### Art. 44.
 

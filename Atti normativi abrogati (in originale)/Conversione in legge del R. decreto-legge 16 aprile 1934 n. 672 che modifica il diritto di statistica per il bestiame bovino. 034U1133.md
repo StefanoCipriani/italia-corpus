@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 aprile 1934, n. 672](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-16;672), che modifica il diritto di statistica per il bestiame bovino. 
+ E' convertito in legge il [R. decreto-legge 16 aprile 1934, n. 672](Modificazioni%20del%20diritto%20di%20statistica%20per%20il%20bestiame%20bovino.%20034U0672.md), che modifica il diritto di statistica per il bestiame bovino. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

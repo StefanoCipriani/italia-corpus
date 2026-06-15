@@ -20,7 +20,7 @@ Sono abrogate le [leggi 1° luglio 1877, n. 3960, e 30 giugno 1887, n. 4646](Che
 
 ## Art. 3.
 
-A principiare col bilancio di previsione del 1901-1902, quei lavori per estesi restauri e per importanti modificazioni delle navi, per i quali l'articolo 56, n. 1, del Regolamento approvato con [R. decreto del 20 giugno 1895, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-06-20;431), richiedono l'ordine preventivo o la preventiva autorizzazione del Ministero della Marina, saranno segnate in articoli speciali. 
+A principiare col bilancio di previsione del 1901-1902, quei lavori per estesi restauri e per importanti modificazioni delle navi, per i quali l'articolo 56, n. 1, del Regolamento approvato con [R. decreto del 20 giugno 1895, n. 431](Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20direzioni%20dei%20lavori%20e%20per%20la%20contabilita%20del%20materiale%20nei%20regi%20arsenali%20e%20cantieri%20marittimi.%20095U0431.md), richiedono l'ordine preventivo o la preventiva autorizzazione del Ministero della Marina, saranno segnate in articoli speciali. 
  
  Per ciascuna nave cui i detti lavori si riferiscono, sara' acceso un articolo cosi' in preventivo come in consuntivo.
 

@@ -22,13 +22,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduta la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Veduta la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Veduto l'[art. 1 della legge 31 gennaio 1901, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-01-31;23#art_1), sull'emigrazione; 
+ Veduto l'[art. 1 della legge 31 gennaio 1901, n. 23](Disposizioni%20sullemigrazione.%20001U0023.md), sull'emigrazione; 
  
- Veduto il [R. decreto 31 gennaio 1901, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-01-31;36), per il rilascio di passaporti per l'estero; 
+ Veduto il [R. decreto 31 gennaio 1901, n. 36](Circa%20il%20rilascio%20dei%20passaporti%20per%20lestero.%20001U0036.md), per il rilascio di passaporti per l'estero; 
  
- Veduto il [R. decreto 6 agosto 1914, n. 803](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-06;803); 
+ Veduto il [R. decreto 6 agosto 1914, n. 803](Col%20quale%20viene%20sospesa%20la%20facolta%20di%20emigrare%20ai%20militari%20del%20R.%20esercito%20e%20della%20R.%20marina.%20014U0803.md); 
  
  Veduto il [R. decreto 2 maggio 1915, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-02;635), prorogato col [decreto Luogotenenziale 23 dicembre 1915, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-23;1825); 
  

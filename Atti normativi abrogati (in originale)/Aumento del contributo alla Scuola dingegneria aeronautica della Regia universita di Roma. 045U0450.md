@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 11 dicembre 1941, n. 1662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-11;1662), concernente il contributo del Ministero dell'aeronautica a favore delle Scuole di ingegneria aeronautica di Roma e Torino;
+Vista la [legge 11 dicembre 1941, n. 1662](Contributo%20del%20Ministero%20dellaeronautica%20a%20favore%20delle%20scuole%20dingegneria%20aeronautica%20di%20Roma%20e%20di%20Torino.%20041U1662.md), concernente il contributo del Ministero dell'aeronautica a favore delle Scuole di ingegneria aeronautica di Roma e Torino;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per l'aeronautica, di concerto c
 
 ## Art. 1.
 
-A decorrere dall'esercizio finanziario 1944-1945, il contributo di L. 456.000 (quattrocentocinquantaseimila) a favore della Scuola di ingegneria aeronautica della Regia universita' di Roma, di cui all'[art. 1 della legge 11 dicembre 1941, n. 1662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-11;1662#art_1), e' elevato a L. 856.000 (ottocentocinquantaseimila).
+A decorrere dall'esercizio finanziario 1944-1945, il contributo di L. 456.000 (quattrocentocinquantaseimila) a favore della Scuola di ingegneria aeronautica della Regia universita' di Roma, di cui all'[art. 1 della legge 11 dicembre 1941, n. 1662](Contributo%20del%20Ministero%20dellaeronautica%20a%20favore%20delle%20scuole%20dingegneria%20aeronautica%20di%20Roma%20e%20di%20Torino.%20041U1662.md), e' elevato a L. 856.000 (ottocentocinquantaseimila).
 
 ## Art. 2.
 

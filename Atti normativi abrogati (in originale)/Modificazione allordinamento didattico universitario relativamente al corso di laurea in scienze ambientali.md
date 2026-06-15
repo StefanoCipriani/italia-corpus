@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Visto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) - modifiche ed aggiornamento al testo unico delle leggi sull'istruzione superiore - convertito nella [legge 2 gennaio 1936, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Visto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) - modifiche ed aggiornamento al testo unico delle leggi sull'istruzione superiore - convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Visto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) - disposizioni sull'ordinamento didattico universitario - e successive modificazioni;
+Visto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) - disposizioni sull'ordinamento didattico universitario - e successive modificazioni;
 
-Vista la [legge 11 aprile 1953, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vista la [legge 11 aprile 1953, n. 312](Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
-Visto il [decreto del Presidente della Repubblica 29 agosto 1986, n. 886](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-08-29;886), istitutivo del corso di laurea in scienze ambientali presso la facolta' di chimica industriale dell'Universita' degli studi di Venezia;
+Visto il [decreto del Presidente della Repubblica 29 agosto 1986, n. 886](../DPR/Istituzione%20del%20corso%20di%20laurea%20in%20scienze%20ambientali%20presso%20la%20facolta%20di%20chimica%20industriale%20dellUniversita%20degli%20studi%20di%20Venezia.md), istitutivo del corso di laurea in scienze ambientali presso la facolta' di chimica industriale dell'Universita' degli studi di Venezia;
 
 Vista la proposta degli organi accademici dell'Universita' degli studi di Venezia intesa ad ottenere l'inserimento nello statuto dell'ordinamento degli studi del corso di laurea in scienze ambientali non previsto dal vigente ordinamento didattico universitario;
 
@@ -32,9 +32,9 @@ Sulla proposta del Ministro della pubblica istruzione; Decreta:
 
 ## Articolo unico
 
-All'elenco delle lauree e dei diplomi di cui alla tabella I, annessa al [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), citato nelle premesse, e' aggiunta la laurea in scienze ambientali.
- La tabella II, annessa al [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), citato nelle premesse, e' integrata nel senso che le facolta' di scienze matematiche, fisiche e naturali, di chimica industriale, di ingegneria e di agraria possono rilasciare anche la laurea in scienze ambientali.
- Dopo la tabella XXXIV, annessa al citato [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' aggiunta la tabella allegata al presente decreto che assume il numero XXXV.
+All'elenco delle lauree e dei diplomi di cui alla tabella I, annessa al [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), citato nelle premesse, e' aggiunta la laurea in scienze ambientali.
+ La tabella II, annessa al [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), citato nelle premesse, e' integrata nel senso che le facolta' di scienze matematiche, fisiche e naturali, di chimica industriale, di ingegneria e di agraria possono rilasciare anche la laurea in scienze ambientali.
+ Dopo la tabella XXXIV, annessa al citato [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' aggiunta la tabella allegata al presente decreto che assume il numero XXXV.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

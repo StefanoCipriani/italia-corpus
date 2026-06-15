@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 20 agosto 1921, n. 1133](Relativa%20ad%20autorizzazione%20straordinaria%20di%20spese%20per%20urgenti%20opere%20lavori%20ed%20acquisti%20inerenti%20ai%20servizi%20telegrafici%20e%20telefonici.%20021U1133.md);
 
-Visto il [R. decreto-legge 7 dicembre 1922, n. 1751](Che%20modifica%20lart.%203%20della%20legge%2020%20agosto%201921%20n.%201135%20relativa%20ad%20autorizzazione%20straordinaria%20di%20spese%20urgenti%20per%20opere%20e%20lavori%20inerenti%20ai%20servizi%20telegrafici%20e%20telefonici.%20022U1751.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge 7 dicembre 1922, n. 1751](Che%20modifica%20lart.%203%20della%20legge%2020%20agosto%201921%20n.%201135%20relativa%20ad%20autorizzazione%20straordinaria%20di%20spese%20urgenti%20per%20opere%20e%20lavori%20inerenti%20ai%20servizi%20telegrafici%20e%20telefonici.%20022U1751.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto il [R. decreto 8 febbraio 1923, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;427);
 

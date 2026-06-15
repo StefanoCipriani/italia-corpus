@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto l'[art. 84 della legge 31 marzo 1904, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;140#art_84);
+Veduto l'[art. 84 della legge 31 marzo 1904, n. 140](Che%20emana%20provvedimenti%20a%20favore%20della%20provincia%20di%20Basilicata.%20004U0140.md);
 
 Veduto l'[art. 59 della legge 14 luglio 1907, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-14;562#art_59);
 
-Veduta la nota I alla tabella G annessa alla [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679);
+Veduta la nota I alla tabella G annessa alla [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md);
 
 Sentito il Consiglio dei ministri;
 

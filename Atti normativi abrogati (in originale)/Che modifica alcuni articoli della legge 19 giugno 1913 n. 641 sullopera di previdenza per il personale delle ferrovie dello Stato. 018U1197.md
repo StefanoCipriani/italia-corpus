@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Su proposta del ministro dei trasporti marittimi e ferroviari, di concerto con i
 
 ## Art. 1.
 
-I sottoindicati articoli della [legge 19 giugno 1913, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-19;641), sono modificati come segue: 
+I sottoindicati articoli della [legge 19 giugno 1913, n. 641](Riguardante%20lOpera%20di%20previdenza%20ed%20altri%20provvedimenti%20a%20favore%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20013U0641.md), sono modificati come segue: 
  
  Art. 1, n. 1. - Sostituire: 
  

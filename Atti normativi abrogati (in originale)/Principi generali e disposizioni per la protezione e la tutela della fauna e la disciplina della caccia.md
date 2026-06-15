@@ -290,7 +290,7 @@ privati e nei terreni adibiti ad attivita' sportive;
  r) usare selvaggina morta non proveniente da allevamenti, per sagre e manifestazioni a carattere gastronomico; 
  s) usare munizione spezzata nella caccia agli ungulati; usare esche o bocconi avvelenati; usare armi da sparo munite di silenziatore o impostate con scatto provocato dalla preda; 
  t) commerciare beccacce comunque confezionate nonche' uccelli morti di dimensione inferiore al tordo, fatta eccezione per gli storni, i passeri e le allodole nel periodo in cui ne e' consentita la caccia; 
- u) rimuovere, danneggiare o comunque rendere inidonee al loro fine le tabelle legittimamente apposte ai sensi dell'articolo 6 o di altre disposizioni della presente legge o delle leggi regionali, salva restando l'applicazione dell'[articolo 635 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_635). 
+ u) rimuovere, danneggiare o comunque rendere inidonee al loro fine le tabelle legittimamente apposte ai sensi dell'articolo 6 o di altre disposizioni della presente legge o delle leggi regionali, salva restando l'applicazione dell'[articolo 635 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  Le competenti autorita' territoriali possono vietare temporaneamente la caccia nelle zone interessate da intenso fenomeno turistico.
 
 ## LICENZA DI CACCIA - ESAMI
@@ -321,13 +321,13 @@ Titolo VII
 
 ### Art. 23. — Tasse sulle concessioni governative per la licenza di porto d'armi anche per uso di caccia
 
-Il n. 26, sottonumero I), della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641), e successive modificazioni, concernente la disciplina delle tasse sulle concessioni governative, e' sostituito dal seguente: 
+Il n. 26, sottonumero I), della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), e successive modificazioni, concernente la disciplina delle tasse sulle concessioni governative, e' sostituito dal seguente: 
  
 
  Parte di provvedimento in formato grafico
 
  
- Sono soppressi i numeri 26, sottonumero III), e 27, sottonumero 1),  della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641), e successive modificazioni.
+ Sono soppressi i numeri 26, sottonumero III), e 27, sottonumero 1),  della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), e successive modificazioni.
 
 ### Art. 24. — Tasse di concessione regionale - Tasse regionali per gli appostamenti fissi, le aziende faunistiche e le riserve
 
@@ -437,9 +437,9 @@ Titolo XI
 Le regioni, entro un anno dalla data di entrata in vigore della presente legge, emanano le norme in materia.
  L'articolo 23 si applica dal 10 gennaio dell'anno successivo all'entrata in vigore della presente legge. Le tasse regionali di cui all'articolo 24 si applicano a decorrere dal 10 gennaio dell'anno successivo all'entrata in vigore della presente legge sempreche' siano state emanate le relative norme regionali istitutive di dette tasse. In caso contrario esse decorrono dal mese successivo all'entrata in vigore delle citate leggi regionali.
  Gli articoli 25 e 26 si applicano a decorrere dal secondo anno successivo all'entrata in vigore della presente legge. Le somme incamerate nell'anno 1977 dovranno essere ripartite secondo le norme in vigore.
- Fino a quando non saranno emanate le norme regionali di applicazione dell'articolo 17, quarto comma, continueranno ad avere vigore le disposizioni di cui all'[articolo 30 del regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016#art_30), e successive modificazioni e integrazioni, salvo per quanto concerne le sanzioni.
- Le norme del titolo III del [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e le norme delle leggi regionali che regolamentano la stessa materia e, in particolare, quelle relative alla costituzione di oasi di protezione e di rifugio e di zone di ripopolamento e, comunque, di aree di tutela, rimarranno efficaci nei termini di tempo di cui al primo comma, sempre che siano compatibili con le disposizioni della presente legge.
- Con l'entrata in vigore delle leggi regionali sono abrogate le disposizioni del [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e successive modificazioni ed integrazioni, nonche' ogni altra disposizione legislativa o regolamentare non espressamente richiamata nella presente legge. Fino a tale data restano in vigore le suddette disposizioni compatibili con la presente legge.
+ Fino a quando non saranno emanate le norme regionali di applicazione dell'articolo 17, quarto comma, continueranno ad avere vigore le disposizioni di cui all'[articolo 30 del regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e successive modificazioni e integrazioni, salvo per quanto concerne le sanzioni.
+ Le norme del titolo III del [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e le norme delle leggi regionali che regolamentano la stessa materia e, in particolare, quelle relative alla costituzione di oasi di protezione e di rifugio e di zone di ripopolamento e, comunque, di aree di tutela, rimarranno efficaci nei termini di tempo di cui al primo comma, sempre che siano compatibili con le disposizioni della presente legge.
+ Con l'entrata in vigore delle leggi regionali sono abrogate le disposizioni del [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e successive modificazioni ed integrazioni, nonche' ogni altra disposizione legislativa o regolamentare non espressamente richiamata nella presente legge. Fino a tale data restano in vigore le suddette disposizioni compatibili con la presente legge.
 
 ### Art. 35. — Istituto nazionale di biologia della selvaggina
 

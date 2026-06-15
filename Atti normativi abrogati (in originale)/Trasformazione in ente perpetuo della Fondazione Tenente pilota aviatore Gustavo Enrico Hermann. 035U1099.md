@@ -11,7 +11,7 @@ vigente: true
 ## Art. 1.
 
 La «Fondazione Tenente pilota aviatore Gustavo Enrico Hermann», costituita colla donazione di L. 2.000.000 fatta dal cav. di gr. cr.
-Hermann Gustavo ed eretta in ente morale col [R. decreto-legge 2 aprile 1925, n. 531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-02;531), convertito in legge con la [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' trasformata, a datare dal 1° luglio 1935, in fondazione perpetua col capitale di L. 600.000, rimanenza, a quella data, della detta donazione.
+Hermann Gustavo ed eretta in ente morale col [R. decreto-legge 2 aprile 1925, n. 531](Erezione%20in%20Ente%20morale%20della%20Fondazione%20tenente%20pilota%20aviatore%20Gustavo%20Enrico%20Hermann.%20025U0531.md), convertito in legge con la [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' trasformata, a datare dal 1° luglio 1935, in fondazione perpetua col capitale di L. 600.000, rimanenza, a quella data, della detta donazione.
 
 ## Art. 2.
 

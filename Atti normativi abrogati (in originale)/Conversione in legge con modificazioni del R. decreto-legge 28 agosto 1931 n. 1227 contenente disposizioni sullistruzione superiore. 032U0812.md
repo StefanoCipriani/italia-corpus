@@ -21,11 +21,11 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 agosto 1931, n. 1227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-08-28;1227), contenente disposizioni sull'istruzione superiore, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 28 agosto 1931, n. 1227](Disposizioni%20sullistruzione%20superiore.%20031U1227.md), contenente disposizioni sull'istruzione superiore, con le seguenti modificazioni: 
  
  Il primo comma dell'art. 3 e' sostituito dal seguente: 
  
- L'[art. 63 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_63), e' sostituito dal seguente ed e' esteso agl'Istituti superiori agrari, di medicina veterinaria e di scienze economiche e commerciali: 
+ L'[art. 63 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente ed e' esteso agl'Istituti superiori agrari, di medicina veterinaria e di scienze economiche e commerciali: 
  
  «Ogni Universita' o Istituto superiore ha un regolamento interno, nel quale sono contenute le norme relative al funzionamento amministrativo, contabile e interno dell'Universita' o Istituto e quelle per il personale posto a carico del suo bilancio, ferme restando le disposizioni di legge concernenti i professori e gli assistenti». 
  
@@ -35,7 +35,7 @@ VITTORIO EMANUELE III
  
  L'ultimo comma dello stesso art. 3 e' sostituito dal seguente: 
  
- «Rimangono in vigore per gli Istituti superiori di scienze economiche e commerciali le disposizioni del [R. decreto 11 novembre 1923, n. 2395, dell'art. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_41) del [R. decreto 28 agosto 1924, n. 1618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1618), e del [R. decreto 3 giugno 1926, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;1022), per il personale ivi contemplato». 
+ «Rimangono in vigore per gli Istituti superiori di scienze economiche e commerciali le disposizioni del [R. decreto 11 novembre 1923, n. 2395, dell'art. 41](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) del [R. decreto 28 agosto 1924, n. 1618](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md), e del [R. decreto 3 giugno 1926, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;1022), per il personale ivi contemplato». 
  
  Dopo il primo comma dell'art. 7 e' aggiunto il comma seguente: 
  
@@ -80,10 +80,10 @@ VITTORIO EMANUELE III
  
  «Sono altresi' ammessi: 
  
- a) i giovani che hanno conseguito il diploma di perito agrario secondo l'ordinamento previsto dal [R. decreto 30 dicembre 1923, n. 3214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3214), e che sono in possesso: del titolo di ammissione al liceo classico, o del certificato di promozione al secondo corso del liceo scientifico o al secondo corso di Istituto tecnico o commerciale; 
+ a) i giovani che hanno conseguito il diploma di perito agrario secondo l'ordinamento previsto dal [R. decreto 30 dicembre 1923, n. 3214](Ordinamento%20dellistruzione%20agraria%20media.%20023U3214.md), e che sono in possesso: del titolo di ammissione al liceo classico, o del certificato di promozione al secondo corso del liceo scientifico o al secondo corso di Istituto tecnico o commerciale; 
  
- b) i giovani che hanno conseguito il diploma di perito agrario secondo l'ordinamento previsto dal [R. decreto 30 dicembre 1923, n. 3214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3214), che hanno inoltre frequentato uno dei corsi di specializzazione presso scuole medie agrarie specializzate e che sono in possesso del titolo di ammissione all'Istituto tecnico superiore o al liceo scientifico o del certificato di promozione alla quinta ginnasiale.  
- «Possono essere ammessi ai Regi istituti superiori agrari con le norme dell'art. 36 della presente legge anche i licenziati delle scuole medie agrarie specializzate a corso quadriennale istituite secondo il [R. decreto 30 dicembre 1923, n. 3214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3214), i quali siano in possesso del titolo di ammissione al liceo classico o del certificato di promozione al secondo corso del liceo scientifico». 
+ b) i giovani che hanno conseguito il diploma di perito agrario secondo l'ordinamento previsto dal [R. decreto 30 dicembre 1923, n. 3214](Ordinamento%20dellistruzione%20agraria%20media.%20023U3214.md), che hanno inoltre frequentato uno dei corsi di specializzazione presso scuole medie agrarie specializzate e che sono in possesso del titolo di ammissione all'Istituto tecnico superiore o al liceo scientifico o del certificato di promozione alla quinta ginnasiale.  
+ «Possono essere ammessi ai Regi istituti superiori agrari con le norme dell'art. 36 della presente legge anche i licenziati delle scuole medie agrarie specializzate a corso quadriennale istituite secondo il [R. decreto 30 dicembre 1923, n. 3214](Ordinamento%20dellistruzione%20agraria%20media.%20023U3214.md), i quali siano in possesso del titolo di ammissione al liceo classico o del certificato di promozione al secondo corso del liceo scientifico». 
  
  All'art. 37 e' aggiunto, in fine, il seguente comma: 
  
@@ -119,7 +119,7 @@ VITTORIO EMANUELE III
  
  L'ultimo comma dello stesso art. 54 e' sostituito dal seguente: 
  
- «Fermo restando quanto e' disposto dall'[art.87-bis, il R. decreto-legge 18 ottobre 1928, n. 2478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-10-18;2478#art_87bis), e' abrogato». 
+ «Fermo restando quanto e' disposto dall'[art.87-bis, il R. decreto-legge 18 ottobre 1928, n. 2478](Disposizioni%20relative%20alla%20riscossione%20della%20tassa%20a%20favore%20delle%20Opere%20universitarie.%20028U2478.md), e' abrogato». 
  
  Il primo comma dell'art. 55 e' sostituito dal seguente: 
  
@@ -183,7 +183,7 @@ VITTORIO EMANUELE III
  
  Dopo l'art. 87 e' aggiunto il seguente art. 87-bis: 
  
- «Per la riscossione delle somme dovute dai contribuenti, di cui agli art. 86 e 87, si applica la procedura coattiva, mezzo di ruolo, prevista dal [R. decreto-legge 18 ottobre 1928, n. 2478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-10-18;2478). La procedura medesima resta inoltre in vigore per la riscossione delle quote annuali dovute, a norma del citato [R. decreto-legge 18 ottobre 1928, n. 2478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-10-18;2478), sino a tutto il 1931 dai laureati e diplomati inscritti presso i Sindacati commerciali e industriali o aventi impiego comunque retribuito alla dipendenza di Societa' commerciali o industriali». 
+ «Per la riscossione delle somme dovute dai contribuenti, di cui agli art. 86 e 87, si applica la procedura coattiva, mezzo di ruolo, prevista dal [R. decreto-legge 18 ottobre 1928, n. 2478](Disposizioni%20relative%20alla%20riscossione%20della%20tassa%20a%20favore%20delle%20Opere%20universitarie.%20028U2478.md). La procedura medesima resta inoltre in vigore per la riscossione delle quote annuali dovute, a norma del citato [R. decreto-legge 18 ottobre 1928, n. 2478](Disposizioni%20relative%20alla%20riscossione%20della%20tassa%20a%20favore%20delle%20Opere%20universitarie.%20028U2478.md), sino a tutto il 1931 dai laureati e diplomati inscritti presso i Sindacati commerciali e industriali o aventi impiego comunque retribuito alla dipendenza di Societa' commerciali o industriali». 
  
  Nella tabella B l'importo della sopratassa esami di profitto del corso a) del Regio istituto orientale di Napoli indicato in lire 180 e' modificato in lire 150. 
  

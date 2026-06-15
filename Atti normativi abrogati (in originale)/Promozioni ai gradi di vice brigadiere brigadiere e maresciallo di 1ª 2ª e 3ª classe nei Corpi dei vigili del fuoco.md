@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, numero 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Vista la [legge 4 settembre 1940, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-04;1547), Vista la [legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570), contenente le nuove norme per l'organizzazione dei servizi antincendi;
+Vista la [legge 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md), Vista la [legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570), contenente le nuove norme per l'organizzazione dei servizi antincendi;
 
 Visto il [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699), recante norme sullo stato giuridico e sul trattamento economico del personale non statale del Corpo nazionale dei vigili del fuoco;
 
@@ -52,7 +52,7 @@ Le promozioni al grado di brigadiere ed a ciascuno dei gradi di maresciallo sono
 ## Art. 6.
 
 Il Ministero dell'interno, entro il termine di cui all'art. 1, indice i concorsi per le promozioni, in ciascun Corpo, ai gradi di maresciallo di 1ª, 2ª e 3ª classe, di brigadiere e di vice brigadiere, per il conferimento dei posti che si siano resi vacanti negli organici dei Corpi dei vigili del fuoco e per i quali non siano ancora stati espletati i concorsi previsti dagli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699#art_20) e [24 del regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699#art_24), nonche' per i posti che si renderanno vacanti negli organici stessi entro i termini di cui agli articoli 1 e 7 del presente decreto. 
- Gli organici di cui sopra sono quelli riportati nella tabella allegato I al [regio decreto 16 marzo 1942, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;700). 
+ Gli organici di cui sopra sono quelli riportati nella tabella allegato I al [regio decreto 16 marzo 1942, n. 700](Forza%20organica%20del%20Corpi%20dei%20vigili%20del%20fuoco.%20042U0700.md). 
  Il Ministero dell'interno stabilisce, altresi', il numero dei posti da mettere a concorso per ciascun grado in ciascun Corpo.
 
 ## Art. 7.

@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 14 giugno 1900, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-06-14;240), con il quale fu approvato il ruolo organico degli enotecnici all'interno e all'estero, dei direttori ed assistenti di cantine sperimentali, dei direttori di oleifici sperimentali, dei professori ambulanti di zootecnia e di caseificio e dei direttori ed assistenti dei vivai di viti americane;
+Visto il [R. decreto 14 giugno 1900, n. 240](Approvazione%20Organico%20degli%20enotecnici%20allinterno%20ed%20allestero%20dei%20direttori%20ed%20assistenti%20delle%20cantine%20sperimentali%20oleificii%20ecc.%20000U0240.md), con il quale fu approvato il ruolo organico degli enotecnici all'interno e all'estero, dei direttori ed assistenti di cantine sperimentali, dei direttori di oleifici sperimentali, dei professori ambulanti di zootecnia e di caseificio e dei direttori ed assistenti dei vivai di viti americane;
 
-Visto il [R. decreto 16 novembre 1902, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-11-16;559), che riguarda le norme per le nomine e le promozioni del personale delle cantine e degli oleifici sperimentali, delle cattedre ambulanti di zootecnia e di caseificio e dei vivai di viti americane;
+Visto il [R. decreto 16 novembre 1902, n. 559](Modificazione%20del%20ruolo%20del%20personale%20degli%20enotecnici%20dei%20direttori%20ed%20assistenti%20di%20cantine%20sperimentali%20di%20oleifici%20sperimentali%20dei%20professori%20ambulanti%20di%20zootecnia%20e%20caseificio%20e%20de_2dc38276065b.md), che riguarda le norme per le nomine e le promozioni del personale delle cantine e degli oleifici sperimentali, delle cattedre ambulanti di zootecnia e di caseificio e dei vivai di viti americane;
 
 Udito il Consiglio dei ministri;
 

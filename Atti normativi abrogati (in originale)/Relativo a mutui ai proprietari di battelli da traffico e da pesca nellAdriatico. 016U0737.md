@@ -30,7 +30,7 @@ I proprietari di navi e galleggianti che aspirino a tali mutui dovranno rivolger
 
 L'ammontare del mutuo per ciascuna nave o galleggiante non potra' eccedere lire 30 (trenta) per tonnellata di stazza netta, considerando come tonnellata intera ogni frazione di tonnellata. 
  
- Per i galleggianti pescherecci potra' pero' essere consentito un aumento del mutuo in misura non superiore al 10 % del valore degli attrezzi da pesca, purche' le relative domande siano presentate pel tramite del Sindacato peschereccio adriatico o di una Societa' fra pescatori legalmente costituita a termini della [legge 11 luglio 1904, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;378), e l' ente che avra' presentato la domanda intervenga nella stipulazione del contratto di mutuo, assumendo solidalmente col mutuatario tutti gli obblighi stabiliti dal contratto medesimo.
+ Per i galleggianti pescherecci potra' pero' essere consentito un aumento del mutuo in misura non superiore al 10 % del valore degli attrezzi da pesca, purche' le relative domande siano presentate pel tramite del Sindacato peschereccio adriatico o di una Societa' fra pescatori legalmente costituita a termini della [legge 11 luglio 1904, n. 378](Concessioni%20speciali%20alle%20Societa%20cooperative%20di%20lavoro%20e%20produzione%20fra%20gli%20inscritti%20marittimi%20esercenti%20la%20pesca%20costituite%20in%20unico%20sindacato%20generale.%20004U0378.md), e l' ente che avra' presentato la domanda intervenga nella stipulazione del contratto di mutuo, assumendo solidalmente col mutuatario tutti gli obblighi stabiliti dal contratto medesimo.
 
 ## Art. 4.
 

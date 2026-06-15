@@ -18,11 +18,11 @@ Allo scopo di fornire alloggi in affitto agli ufficiali e sottufficiali del Regi
 
 ## Art. 2.
 
-L'[art. 38 del R. decreto-legge 7 febbraio 1926, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-07;193#art_38), e' cosi' modificato: 
+L'[art. 38 del R. decreto-legge 7 febbraio 1926, n. 193](Ordinamento%20dei%20servizi%20preposti%20alla%20edilizia%20popolare%20ed%20economica%20ed%20altri%20provvedimenti%20in%20materia.%20026U0193.md), e' cosi' modificato: 
  
  «Del Comitato centrale e della Giunta esecutiva dell'Istituto nazionale per le case degli impiegati dello Stato fa parte il direttore generale del Genio militare, in rappresentanza dell'Amministrazione militare. 
  
- «Al Collegio dei revisori di cui all'[art. 17 del R. decreto 20 novembre 1924, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-20;1945#art_17), sono aggiunti un membro effettivo ed un supplente da nominarsi dal Ministero della guerra».
+ «Al Collegio dei revisori di cui all'[art. 17 del R. decreto 20 novembre 1924, n. 1945](Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), sono aggiunti un membro effettivo ed un supplente da nominarsi dal Ministero della guerra».
 
 ## Art. 3.
 
@@ -40,7 +40,7 @@ Le determinazioni di cui al precedente art. 3 sono dai Comandi di divisione comu
 
 ## Art. 6.
 
-Gli assegnatari degli alloggi dovranno corrispondere una pigione mensile da determinarsi secondo le norme stabilite dall'[art. 8 del R. decreto legge 25 ottobre 1924, n. 1944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-25;1944#art_8). 
+Gli assegnatari degli alloggi dovranno corrispondere una pigione mensile da determinarsi secondo le norme stabilite dall'[art. 8 del R. decreto legge 25 ottobre 1924, n. 1944](Disposizioni%20per%20fornire%20agli%20impiegati%20dello%20Stato%20civili%20e%20militari%20alloggi%20a%20condizioni%20favorevoli.%20024U1944.md). 
  
  Per la riscossione dei canoni di affitto varranno le disposizioni dell'[art. 9 del R. decreto 21 novembre 1924, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-21;1945#art_9).
 
@@ -80,7 +80,7 @@ I mutui contratti per la costruzione di alloggi militari non potranno essere dev
 
 ## Art. 13.
 
-Agli effetti della presente legge non e' applicabile l'[art. 14 del R. decreto-legge 25 ottobre 1924, n. 1944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-25;1944#art_14), relativamente ai comuni di Messina e Reggio Calabria.
+Agli effetti della presente legge non e' applicabile l'[art. 14 del R. decreto-legge 25 ottobre 1924, n. 1944](Disposizioni%20per%20fornire%20agli%20impiegati%20dello%20Stato%20civili%20e%20militari%20alloggi%20a%20condizioni%20favorevoli.%20024U1944.md), relativamente ai comuni di Messina e Reggio Calabria.
 
 ## Art. 14.
 

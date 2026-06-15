@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La disciplina giuridica che, a norma della [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e dei [Regi decreti 1° luglio 1926, n. 1130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1130), e [6 maggio 1928, n. 1251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-06;1251), si applica ai rapporti collettivi di lavoro, e' estesa a tutti i capitolati, convenzioni, patti ed accordi, comunque denominati, che dalle competenti Associazioni sindacali vengono stipulati per regolare il rapporto di compartecipazione nel ramo di produzione agricola (colonia parziaria, mezzadria, partitanza, ecc.), ed ai contratti accessori riguardanti colture speciali ed allevamenti di animali da eseguirsi sul fondo in dipendenza del rapporto principale. 
+La disciplina giuridica che, a norma della [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e dei [Regi decreti 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), e [6 maggio 1928, n. 1251](Norme%20per%20il%20deposito%20e%20la%20pubblicazione%20dei%20contratti%20collettivi%20di%20lavoro.%20028U1251.md), si applica ai rapporti collettivi di lavoro, e' estesa a tutti i capitolati, convenzioni, patti ed accordi, comunque denominati, che dalle competenti Associazioni sindacali vengono stipulati per regolare il rapporto di compartecipazione nel ramo di produzione agricola (colonia parziaria, mezzadria, partitanza, ecc.), ed ai contratti accessori riguardanti colture speciali ed allevamenti di animali da eseguirsi sul fondo in dipendenza del rapporto principale. 
  
  Tali capitolati, convenzioni, patti ed accordi debbono uniformarsi alle consuetudini e condizioni locali e non debbono contenere norme relative al salario, all'orario di lavoro, alle ferie, al periodo di prova, od altre previste nei contratti collettivi di lavoro, le quali contrastino con la natura del rapporto.
 
@@ -20,7 +20,7 @@ Le disposizioni del precedente articolo si applicano anche ai contratti di picco
 
 ## Art. 3.
 
-I contratti collettivi non produrranno gli effetti previsti dall'[art. 54 del R. decreto 1° luglio 1926, n. 1130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1130#art_54), sui contratti individuali di colonia parziaria e di affittanza in corso con obbligo di miglioria. 
+I contratti collettivi non produrranno gli effetti previsti dall'[art. 54 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), sui contratti individuali di colonia parziaria e di affittanza in corso con obbligo di miglioria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

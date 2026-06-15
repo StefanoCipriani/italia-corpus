@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Dopo l'art. 3 e' aggiunto il seguente: 
  
- «Art. 4. - A parziale modifica della composizione del Comitato di cui all'[art. 7 del R. decreto-legge 22 luglio 1932, n. 870](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-07-22;870#art_7), sono chiamati a far parte del Comitato stesso: 
+ «Art. 4. - A parziale modifica della composizione del Comitato di cui all'[art. 7 del R. decreto-legge 22 luglio 1932, n. 870](Assicurazione%20dei%20piroscafi%20Rex%20e%20Conte%20di%20Savoia.%20032U0870.md), sono chiamati a far parte del Comitato stesso: 
  
  due rappresentanti del Ministero delle corporazioni; 
  

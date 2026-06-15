@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Gli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-07;293#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-07;293#art_13) e [14 del R. decreto 7 marzo 1915, n. 293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-07;293#art_14), sopracitato sono abrogati e ad essi sono rispettivamente sostituiti gli articoli seguenti: 
+Gli [articoli 12](Col%20quale%20viene%20approvata%20la%20nuova%20tariffa%20dei%20diritti%20di%20segreteria%20da%20riscuotersi%20dalla%20Camera%20di%20commercio%20di%20Savona.%20015U0293.md), [13](Col%20quale%20viene%20approvata%20la%20nuova%20tariffa%20dei%20diritti%20di%20segreteria%20da%20riscuotersi%20dalla%20Camera%20di%20commercio%20di%20Savona.%20015U0293.md) e [14 del R. decreto 7 marzo 1915, n. 293](Col%20quale%20viene%20approvata%20la%20nuova%20tariffa%20dei%20diritti%20di%20segreteria%20da%20riscuotersi%20dalla%20Camera%20di%20commercio%20di%20Savona.%20015U0293.md), sopracitato sono abrogati e ad essi sono rispettivamente sostituiti gli articoli seguenti: 
  
  «Art. 12. - Per ogni certificato di iscrizione nel ruolo triennale dei curatori di fallimenti, L. 5». 
  

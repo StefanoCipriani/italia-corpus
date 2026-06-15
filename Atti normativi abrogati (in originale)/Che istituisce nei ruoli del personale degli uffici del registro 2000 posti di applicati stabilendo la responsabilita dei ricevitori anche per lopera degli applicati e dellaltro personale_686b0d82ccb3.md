@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 24 dicembre 1908, n. 744, 17 luglio 1910, n. 518 e 20 dicembre 1914, n. 1383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-20;1383), portanti provvedimenti a favore del personale dipendente dall'Amministrazione delle tasse sugli affari, oggi Direzione generale del registro, del bollo e delle tasse;
+Viste le [leggi 24 dicembre 1908, n. 744, 17 luglio 1910, n. 518 e 20 dicembre 1914, n. 1383](Contenente%20provvedimenti%20per%20il%20personale%20provinciale%20dipendente%20dalla%20amministrazione%20delle%20tasse%20sugli%20affari.%20014U1383.md), portanti provvedimenti a favore del personale dipendente dall'Amministrazione delle tasse sugli affari, oggi Direzione generale del registro, del bollo e delle tasse;
 
 Visto il testo unico delle leggi sullo stato degli impiegati civili approvato con decreto Reale 22 novembre 1908, n. 693;
 
@@ -42,7 +42,7 @@ Il trattamento di pensione degli applicati del registro e' regolato, come per gl
  
  Tale iscrizione e' resa obbligatoria e deve essere effettuata dagli attuali commessi che conseguano la nomina ad applicato e che abbiano i requisiti di cui ai regolamenti della Cassa nazionale di previdenza, entro tre mesi dalla conseguita nomina ad applicato. 
  
- Le vedove, i figli minori e le figlie nubili, se pur maggiorenni, degli applicati morti in attivita' di servizio o dopo il loro licenziamento per invalidita' o per vecchiaia, nonche' gli applicati che non abbiano i requisiti per l'iscrizione alla Cassa nazionale di previdenza, partecipano ai sussidi d'invalidita' e di vedovanza, istituiti con la [legge 17 luglio 1910, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;518).
+ Le vedove, i figli minori e le figlie nubili, se pur maggiorenni, degli applicati morti in attivita' di servizio o dopo il loro licenziamento per invalidita' o per vecchiaia, nonche' gli applicati che non abbiano i requisiti per l'iscrizione alla Cassa nazionale di previdenza, partecipano ai sussidi d'invalidita' e di vedovanza, istituiti con la [legge 17 luglio 1910, n. 518](Concorso%20dello%20Stato%20per%20liscrizione%20del%20personale%20sussidiario%20degli%20uffici%20del%20registro%20e%20delle%20ipoteche%20della%20Cassa%20nazionale%20di%20previdenza%20degli%20operai.%20010U0518.md).
 
 ## Art. 3.
 
@@ -50,7 +50,7 @@ I ricevitori del registro rispondono, anche pecuniariamente ed a mezzo della cau
 
 ## Art. 4.
 
-Il Comitato istituito con decreto Luogotenenziale 23 dicembre 1915 in sostituzione della Commissione centrale di cui all'[art. 6 della legge 24 dicembre 1908, numero 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;744#art_6), per l'accertamento della congruita' delle mercedi dei commessi, stabilisce per ciascun ufficio quale somma debba far carico al ricevitore con deduzione dall'aggio per il personale di collaborazione e per le spese d'ufficio. 
+Il Comitato istituito con decreto Luogotenenziale 23 dicembre 1915 in sostituzione della Commissione centrale di cui all'[art. 6 della legge 24 dicembre 1908, numero 744](Che%20approva%20le%20tabelle%20per%20il%20riordinamento%20del%20ruolo%20organico%20dei%20ricevitori%20aiuto-ricevitori%20e%20bollatori%20degli%20uffici%20del%20registro.%20008U0744.md), per l'accertamento della congruita' delle mercedi dei commessi, stabilisce per ciascun ufficio quale somma debba far carico al ricevitore con deduzione dall'aggio per il personale di collaborazione e per le spese d'ufficio. 
  
  La quota stabilita rimane consolidata fino a successiva variazione.
 

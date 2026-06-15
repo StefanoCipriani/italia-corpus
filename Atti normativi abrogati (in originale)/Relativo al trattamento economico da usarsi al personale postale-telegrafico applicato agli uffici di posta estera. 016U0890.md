@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il personale postale-telegrafico di ruolo applicato agli ufffici di posta estera ha diritto dal 1° dicembre 1915 ad un compenso pari alla meta' della indennita' di missione stabilita pel personale civile, a meno che, per il fatto di trovarsi fuori della sua abituale residenza, non percepisca gia' l'intera indennita' di missione nella misura stabilita dal [R. decreto 14 settembre 1862, n. 840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1862-09-14;840). Al detto personale non e' applicabile il disposto dell'ultimo comma dell'art. 5 del detto R. decreto 14 settembre 1862. E' pero' in facolta' del ministro delle poste e dei telegrafi di ridurre la diaria o mezza diaria suaccennata dopo il primo mese di servizio negli uffici suddetti.
+Il personale postale-telegrafico di ruolo applicato agli ufffici di posta estera ha diritto dal 1° dicembre 1915 ad un compenso pari alla meta' della indennita' di missione stabilita pel personale civile, a meno che, per il fatto di trovarsi fuori della sua abituale residenza, non percepisca gia' l'intera indennita' di missione nella misura stabilita dal [R. decreto 14 settembre 1862, n. 840](Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md). Al detto personale non e' applicabile il disposto dell'ultimo comma dell'art. 5 del detto R. decreto 14 settembre 1862. E' pero' in facolta' del ministro delle poste e dei telegrafi di ridurre la diaria o mezza diaria suaccennata dopo il primo mese di servizio negli uffici suddetti.
 
 ## Art. 2.
 

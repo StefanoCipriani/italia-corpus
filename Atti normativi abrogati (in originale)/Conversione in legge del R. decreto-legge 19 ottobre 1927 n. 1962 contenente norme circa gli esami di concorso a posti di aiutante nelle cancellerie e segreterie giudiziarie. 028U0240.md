@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 ottobre 1927, n. 1962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-19;1962), contenente norme circa gli esami di concorso a posti di aiutante nelle cancellerie e segreterie giudiziarie. 
+ E' convertito in legge il [R. decreto-legge 19 ottobre 1927, n. 1962](Norme%20circa%20gli%20esami%20di%20concorso%20a%20posti%20di%20aiutante%20nelle%20cancellerie%20e%20segreterie%20giudiziarie.%20027U1962.md), contenente norme circa gli esami di concorso a posti di aiutante nelle cancellerie e segreterie giudiziarie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

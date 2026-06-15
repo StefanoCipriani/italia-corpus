@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'aulorita' a Noi delegata;
 
-Visto il [R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258), sulla costituzione dell'Amministrazione dei monopoli di Stato, convertito nella [legge 6 dicembre 1928, numero 3474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;3474);
+Visto il [R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258), sulla costituzione dell'Amministrazione dei monopoli di Stato, convertito nella [legge 6 dicembre 1928, numero 3474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201927%20n.%202258%20relativo%20allautonomia%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20028U3474.md);
 
-Visto il [R. decreto 14 giugno 1941, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-06-14;577), sull'ordinamento dei servizi di distribuzione e vendita dei generi di monopolio;
+Visto il [R. decreto 14 giugno 1941, n. 577](Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md), sull'ordinamento dei servizi di distribuzione e vendita dei generi di monopolio;
 
-Vista la [legge 7 giugno 1928, n. 1335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-06-07;1335), circa la inserzione, nei contratti d'appalto dei magazzini di vendita dei generi di monopolio, della clausola per la revisione delle indennita' di gestione;
+Vista la [legge 7 giugno 1928, n. 1335](Inserzione%20nei%20contratti%20dappalto%20degli%20spacci%20allingrosso%20dei%20generi%20di%20privativa%20della%20clausola%20per%20la%20revisione%20delle%20indennita.%20028U1335.md), circa la inserzione, nei contratti d'appalto dei magazzini di vendita dei generi di monopolio, della clausola per la revisione delle indennita' di gestione;
 
-Visto il [R. decreto-legge 13 giugno 1940, n. 901](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-06-13;901), sulla revisione dei prezzi nei contratti di pubbliche forniture, convertito, con moditicazioni, nella [legge 26 ottobre 1940, n. 1676](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-26;1676);
+Visto il [R. decreto-legge 13 giugno 1940, n. 901](Revisione%20dei%20prezzi%20nei%20contratti%20di%20pubbliche%20forniture.%20040U0901.md), sulla revisione dei prezzi nei contratti di pubbliche forniture, convertito, con moditicazioni, nella [legge 26 ottobre 1940, n. 1676](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013%20giugno%201940-XVIII%20n.%20901%20concernente%20la%20revisione%20dei%20prezzi%20nei%20contratti%20di%20pubbliche%20forniture.%20040U1676.md);
 
 Visto il [decreto legislativo Luogotenenziale 5 ottobre 1944, n. 300](Scioglimento%20del%20Consiglio%20di%20amministrazione%20dei%20monopoli%20di%20Stato.%20044U0300.md), che scioglie il Consiglio d'amministrazione dei monopoli di stato e ne deferisce le attribuzioni al Ministro per le finanze;
 
@@ -42,7 +42,7 @@ Le spese che i gestori dei magazzini di vendita dei generi di monopolio incontra
 
 ## Art. 2.
 
-Le disposizioni del precedente articolo sono appiicabili dal 1° luglio 1943, nei casi e limitatamente al tempo in cui, anziche' corrispondere le normali indennita' di gestione, di cui all'[art. 45 del R. decreto 14 giugno 1941, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-06-14;577#art_45), siano state rimborsate ai gestori dei magazzini le spese di esercizio.
+Le disposizioni del precedente articolo sono appiicabili dal 1° luglio 1943, nei casi e limitatamente al tempo in cui, anziche' corrispondere le normali indennita' di gestione, di cui all'[art. 45 del R. decreto 14 giugno 1941, n. 577](Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md), siano state rimborsate ai gestori dei magazzini le spese di esercizio.
 
 ## Art. 3.
 

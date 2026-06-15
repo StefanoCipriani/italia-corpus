@@ -34,7 +34,7 @@ Il fondo speciale per lo sviluppo ed il potenziamento delle attivita' cinematogr
 
 ## Art. 5.
 
-Il fondo di dotazione della Sezione autonoma per il credito cinematografico della Banca nazionale del lavoro, istituita con il [regio decreto 14 novembre 1935, n. 2504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-11-14;2504), e' aumentato di lire 1.500 milioni, mediante conferimento da parte del Tesoro dello Stato nell'anno 1971.
+Il fondo di dotazione della Sezione autonoma per il credito cinematografico della Banca nazionale del lavoro, istituita con il [regio decreto 14 novembre 1935, n. 2504](Costituzione%20presso%20la%20Banca%20nazionale%20del%20lavoro%20di%20una%20Sezione%20autonoma%20per%20il%20credito%20cinematografico.%20035U2504.md), e' aumentato di lire 1.500 milioni, mediante conferimento da parte del Tesoro dello Stato nell'anno 1971.
  Il fondo particolare, istituito presso la Sezione stessa ai sensi dell'[articolo 28 della legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), e' aumentato di lire 1.500 milioni mediante conferimento da parte del Tesoro dello Stato di lire 300 milioni per ciascuno degli anni dal 1971 al 1975.
  I conferimenti di cui ai precedenti commi saranno iscritti nello stato di previsione della spesa del Ministero del tesoro.
 

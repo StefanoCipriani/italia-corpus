@@ -40,7 +40,7 @@ Qualora la persona sia deceduta in eta' minore, l'indennizzo spetta ai genitori 
 
 5.
 
-I soggetti di cui all'[articolo 1 della legge 25 febbraio 1992, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210#art_1), sono esentati dalla partecipazione alla spesa sanitaria di cui ai [commi 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com14) e [15 dell'articolo 8 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com15), e successive modificazioni, nonche' dal pagamento della quota fissa per ricetta di cui al comma 16-ter del medesimo articolo 8, introdotto dall'[articolo 1 della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_1), limitatamente alle prestazioni sanitarie necessarie per la diagnosi e la cura delle patologie previste dalla predetta [legge n. 210 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;210).
+I soggetti di cui all'[articolo 1 della legge 25 febbraio 1992, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210#art_1), sono esentati dalla partecipazione alla spesa sanitaria di cui ai [commi 14](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e [15 dell'articolo 8 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e successive modificazioni, nonche' dal pagamento della quota fissa per ricetta di cui al comma 16-ter del medesimo articolo 8, introdotto dall'[articolo 1 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), limitatamente alle prestazioni sanitarie necessarie per la diagnosi e la cura delle patologie previste dalla predetta [legge n. 210 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;210).
 
 6.
 
@@ -74,7 +74,7 @@ Al [comma 1 dell'articolo 6 della legge 25 febbraio 1992, n. 210](https://www.no
 
 13.
 
-Ai fini dell'attuazione delle disposizioni di cui al presente articolo, le commissioni medico-ospedaliere di cui all'[articolo 4 della legge 25 febbraio 1992, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210#art_4), sono integrate con medici esperti nelle materie attinenti alle richieste di indennizzo, ai sensi dell'ultimo comma dell'articolo 165 del testo unico approvato con [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-12-29;1092).
+Ai fini dell'attuazione delle disposizioni di cui al presente articolo, le commissioni medico-ospedaliere di cui all'[articolo 4 della legge 25 febbraio 1992, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210#art_4), sono integrate con medici esperti nelle materie attinenti alle richieste di indennizzo, ai sensi dell'ultimo comma dell'articolo 165 del testo unico approvato con [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md).
 
 ## Art. 2.
 

@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 17 maggio 1943, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-17;457);
+Visto il [regio decreto-legge 17 maggio 1943, n. 457](Provvedimenti%20eccezionali%20in%20materia%20di%20buoni%20ordinari%20del%20Tesoro%20in%20rapporto%20alle%20attuali%20esigenze%20di%20guerra.%20043U0457.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il tesoro; HA SANZIONATO E PROMULGA:
 
 ## Art. 1.
 
-L'efficacia delle norme contenute negli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-17;457#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-17;457#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-17;457#art_3) e [4 del regio decreto-legge 17 maggio 1943, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-17;457#art_4), recante provvedimenti eccezionali in materia di buoni del Tesoro ordinari, e' prorogata sino al 31 dicembre 1948.
+L'efficacia delle norme contenute negli [articoli 1](Provvedimenti%20eccezionali%20in%20materia%20di%20buoni%20ordinari%20del%20Tesoro%20in%20rapporto%20alle%20attuali%20esigenze%20di%20guerra.%20043U0457.md), [2](Provvedimenti%20eccezionali%20in%20materia%20di%20buoni%20ordinari%20del%20Tesoro%20in%20rapporto%20alle%20attuali%20esigenze%20di%20guerra.%20043U0457.md), [3](Provvedimenti%20eccezionali%20in%20materia%20di%20buoni%20ordinari%20del%20Tesoro%20in%20rapporto%20alle%20attuali%20esigenze%20di%20guerra.%20043U0457.md) e [4 del regio decreto-legge 17 maggio 1943, n. 457](Provvedimenti%20eccezionali%20in%20materia%20di%20buoni%20ordinari%20del%20Tesoro%20in%20rapporto%20alle%20attuali%20esigenze%20di%20guerra.%20043U0457.md), recante provvedimenti eccezionali in materia di buoni del Tesoro ordinari, e' prorogata sino al 31 dicembre 1948.
 
 ## Art. 2.
 

@@ -52,7 +52,7 @@ L'assegno a favore della Reale Accademia d'Italia di cui alla [lettera a) del R.
 
 ## Art. 7.
 
-E' prorogata fino al 30 giugno 1930 l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-26;1237). 
+E' prorogata fino al 30 giugno 1930 l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md). 
  
  E' pure prorogata fino al 30 giugno 1930 l'efficacia delle disposizioni recate dal [R. decreto 3 giugno 1926, n. 974](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;974), concernenti la contabilita' generale dello Stato.
 
@@ -62,7 +62,7 @@ Il limite di impegno per il completamento e la liquidazione delle opere pubblich
 
 ## Art. 9.
 
-Gli utili da versarsi al Tesoro, da parte dell'Amministrazione dei monopoli di Stato, ai sensi dell'[art. 4 del R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258#art_4), convertito nella [legge 6 dicembre 1928, n. 3474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;3474), sono costituiti dall'avanzo finanziario della gestione, accertato alla chiusura di ciascun esercizio. 
+Gli utili da versarsi al Tesoro, da parte dell'Amministrazione dei monopoli di Stato, ai sensi dell'[art. 4 del R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258#art_4), convertito nella [legge 6 dicembre 1928, n. 3474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201927%20n.%202258%20relativo%20allautonomia%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20028U3474.md), sono costituiti dall'avanzo finanziario della gestione, accertato alla chiusura di ciascun esercizio. 
  
  Questo decreto andra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

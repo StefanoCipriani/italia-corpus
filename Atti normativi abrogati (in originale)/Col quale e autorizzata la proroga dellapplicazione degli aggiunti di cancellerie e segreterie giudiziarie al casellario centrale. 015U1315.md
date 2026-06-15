@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Durante la presente guerra, e sino a tutto il trentesimo giorno successivo a quello in cui la pace sara' pubblicata, gli aggiunti delle cancellerie e segreterie giudiziarie, che in forza dell'[art. 2 della legge 21 luglio 1910, n. 509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-21;509#art_2), sono addetti alle funzioni d'ordine del casellario centrale e dell'ufficio della statistica nel Ministero di grazia e giustizia e dei culti, potranno continuare a prestare servizio nei detti uffici anche se promossi al grado superiore.
+Durante la presente guerra, e sino a tutto il trentesimo giorno successivo a quello in cui la pace sara' pubblicata, gli aggiunti delle cancellerie e segreterie giudiziarie, che in forza dell'[art. 2 della legge 21 luglio 1910, n. 509](Riordinamento%20del%20casellario%20centrale%20e%20degli%20uffici%20della%20statistica.%20010U0509.md), sono addetti alle funzioni d'ordine del casellario centrale e dell'ufficio della statistica nel Ministero di grazia e giustizia e dei culti, potranno continuare a prestare servizio nei detti uffici anche se promossi al grado superiore.
 
 ## Art. 2.
 

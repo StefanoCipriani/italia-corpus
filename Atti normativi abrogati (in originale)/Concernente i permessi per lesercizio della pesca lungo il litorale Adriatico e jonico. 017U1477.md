@@ -20,7 +20,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata o dei poteri straordinari conferiti al Governo del Re della [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata o dei poteri straordinari conferiti al Governo del Re della [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Visti i Nostri decreti 25 luglio 1915, n. 1119, 24 agosto 1915, n. 1312, 23 dicembre 1915, n. 1880, 22 febbraio 1917, n. 248, 11 marzo 1917, n. 531, 4 giugno 1917, n. 1006; 
  

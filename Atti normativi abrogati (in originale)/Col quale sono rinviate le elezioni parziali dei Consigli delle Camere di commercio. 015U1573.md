@@ -20,7 +20,7 @@ I consiglieri delle Camere di commercio e industria che alla fine dell'anno 1915
 
 ## Art. 3.
 
-Agli effetti del [2° comma dell'art. 19 della legge 20 marzo 1910, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-20;121#art_19-com2), sono considerati in regolare congedo i consiglieri che non prendano parte alle adunanze camerali perche' impediti per servizio militare. Tale congedo s'intendera' iniziato dal giorno della chiamata sotto le armi e terminato un mese dopo la effettiva cessazione dal servizio militare. 
+Agli effetti del [2° comma dell'art. 19 della legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md), sono considerati in regolare congedo i consiglieri che non prendano parte alle adunanze camerali perche' impediti per servizio militare. Tale congedo s'intendera' iniziato dal giorno della chiamata sotto le armi e terminato un mese dopo la effettiva cessazione dal servizio militare. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

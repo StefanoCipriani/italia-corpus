@@ -169,7 +169,7 @@ precedenti ............» 9.794.421,47
 
 ### Art. 9.
 
-All'art. 92 della spesa straordinaria del bilancio della Somalia, per l'esercizio finanziario 1933-34, con la dizione: «Fondo di riserva destinato a fronteggiare le necessita' di cui all'[art. 2 del R. decreto-legge 25 marzo 1929, n. 531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-25;531#art_2), modificato dall'[art. 1 della legge 29 dicembre 1932, n. 1895](Proroga%20del%20R.%20decreto%20legge%2025%20marzo%201929%20n.%20531%20sul%20consolidamento%20dei%20bilanci%20coloniali.%20032U1895.md)», e' iscritta la somma di L. 845.010,74 cosi' costituita: 
+All'art. 92 della spesa straordinaria del bilancio della Somalia, per l'esercizio finanziario 1933-34, con la dizione: «Fondo di riserva destinato a fronteggiare le necessita' di cui all'[art. 2 del R. decreto-legge 25 marzo 1929, n. 531](Contributo%20dello%20Stato%20diretto%20a%20consolidare%20per%20gli%20esercizi%20finanziari%20dal%201929-30%20al%201932-33%20i%20bilanci%20della%20Tripolitania%20Cirenaica%20Eritrea%20e%20Somalia.%20029U0531.md), modificato dall'[art. 1 della legge 29 dicembre 1932, n. 1895](Proroga%20del%20R.%20decreto%20legge%2025%20marzo%201929%20n.%20531%20sul%20consolidamento%20dei%20bilanci%20coloniali.%20032U1895.md)», e' iscritta la somma di L. 845.010,74 cosi' costituita: 
  
 
 a) avanzo della gestione di competenza dell'esercizio
@@ -186,7 +186,7 @@ Sono inoltre ratificate:
                             a)
                                 le eccedenze di spesa verificatesi in conto residui, compensate con le minori spese accertate nel medesimo conto dei residui;
                             b)
-                                le variazioni introdotte con decreto governatoriale in dipendenza delle facolta' concesse con l'[art. 5 del R. decreto-legge 30 giugno 1934, n. 1059](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-06-30;1059#art_5);
+                                le variazioni introdotte con decreto governatoriale in dipendenza delle facolta' concesse con l'[art. 5 del R. decreto-legge 30 giugno 1934, n. 1059](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20ed%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20in%20alcuni%20bilanci%20di%20Aziende%20autonome%20per%20lesercizio%20finanziario%201933-34%20ed%20altri%20indif_03737ba92162.md);
                             c)
                                 le variazioni introdotte con decreti governatoriali o rientranti - per effetto dell'[art. 4 della legge 29 dicembre 1932, n. 1895](Proroga%20del%20R.%20decreto%20legge%2025%20marzo%201929%20n.%20531%20sul%20consolidamento%20dei%20bilanci%20coloniali.%20032U1895.md) - nella competenza ministeriale.
 
@@ -287,7 +287,7 @@ in Tesoreria ............ -
 Sono ratificate: 
  
 a) l'eccedenza di spesa verificatasi in conto residui dell'art. n. 7, compensata con le minori spese accertate, nel medesimo conto dei residui; 
- b) le variazioni introdotte con decreto governatoriale in dipendenza delle facolta' concesse con l'[art. 5 del R. decreto-legge 30 giugno 1934, n. 1059](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-06-30;1059#art_5). 
+ b) le variazioni introdotte con decreto governatoriale in dipendenza delle facolta' concesse con l'[art. 5 del R. decreto-legge 30 giugno 1934, n. 1059](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20ed%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20in%20alcuni%20bilanci%20di%20Aziende%20autonome%20per%20lesercizio%20finanziario%201933-34%20ed%20altri%20indif_03737ba92162.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

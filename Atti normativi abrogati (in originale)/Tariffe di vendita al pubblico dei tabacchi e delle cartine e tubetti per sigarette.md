@@ -16,7 +16,7 @@ Vista la [legge 11 aprile 1959, n. 137](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [decreto del Presidente della Repubblica 18 aprile 1959, n. 167](Variazioni%20alla%20tariffa%20di%20vendita%20al%20pubblico%20dei%20tabacchi.md);
 
-Visto il [decreto del Presidente della Repubblica 30 giugno 1959, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-06-30;497);
+Visto il [decreto del Presidente della Repubblica 30 giugno 1959, n. 497](../DPR/Immissione%20alla%20vendita%20della%20sigaretta%20di%20produzione%20nazionale%20denominata%20M.E.C.md);
 
 Udito il Consiglio di amministrazione dei monopoli di Stato;
 

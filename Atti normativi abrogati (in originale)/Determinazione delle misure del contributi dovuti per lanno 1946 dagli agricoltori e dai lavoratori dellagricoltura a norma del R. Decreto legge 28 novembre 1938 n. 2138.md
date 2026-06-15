@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il comma 30 dell'articolo unico del [R. Decreto legge 28 novembre 1938, n. 2138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;2138);
+Visto il comma 30 dell'articolo unico del [R. Decreto legge 28 novembre 1938, n. 2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md);
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Visto il [decreto Luogotenenziale 31 agosto 1945, n. 632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;632);
 
-Sentita la Commissione centrale di cui al [decreto legislativo Luogotenenziale 8 febbraio 1945, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-08;75);
+Sentita la Commissione centrale di cui al [decreto legislativo Luogotenenziale 8 febbraio 1945, n. 75](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20una%20Commissione%20centrale%20e%20di%20Commissioni%20comunali%20per%20il%20servizio%20di%20compilazione%20degli%20elenchi%20nominativi%20dei%20lavoratori%20agricoli%20e%20per%20laccertamento%20e%20riscossione%20dei%20co_f1ac89f9c6b7.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -79,11 +79,11 @@ I proprietari di terre affittate sono tenuti a corrispondere le quote previste n
 ## Art. 4.
 
 Per l'assicurazione degli infortuni sul lavoro in agricoltura, per le categorie di cui all'art. 1, lettere a), b), c), la rispettiva quota sara' fissata per ogni provincia dal Ministro per il lavoro e la previdenza sociale.
- In quelle provincie nelle quali il riferimento alle giornate di lavoro possa risultare equivalente al riferimento all'estimo catastale la quota relativa potra' essere, di accordo con il Ministro per le finanze ed ai sensi del [1° comma dell'art. 3 della legge 16 giugno 1939, n. 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-16;942#art_3-com1), inscritta nei ruoli dell'imposta fondiaria.
+ In quelle provincie nelle quali il riferimento alle giornate di lavoro possa risultare equivalente al riferimento all'estimo catastale la quota relativa potra' essere, di accordo con il Ministro per le finanze ed ai sensi del [1° comma dell'art. 3 della legge 16 giugno 1939, n. 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md), inscritta nei ruoli dell'imposta fondiaria.
 
 ## Art. 5.
 
-Le quote indicate all'art. 1 si applicheranno alle giornate di lavoro accertate nei confronti delle singole aziende a norma del [R. decreto-legge 28 novembre 1938, n. 2138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;2138) e delle relative disposizioni di attuazione.
+Le quote indicate all'art. 1 si applicheranno alle giornate di lavoro accertate nei confronti delle singole aziende a norma del [R. decreto-legge 28 novembre 1938, n. 2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md) e delle relative disposizioni di attuazione.
  Nei confronti di quelle aziende nelle quali prestano la propria opera salariati fissi, il numero delle giornate da essi impiegate sara' considerato ai fini della applicazione dei contributi di cui all'art. 1, lettera a) in 300. Ove i predetti salariati siano addetti alle colture ed al bestiame, tali giornate verranno detratte da quelle complessivamente attribuite alla azienda per la coltivazione dei fondi e per il bestiame.
  Nei confronti delle aziende coloniche e mezzadrili, il numero delle giornate impiegate da ogni unita' lavorativa del nucleo familiare sara' considerato, ai fini della applicazione dei contributi di cui all'art. 1, lettera c) nn. 1, 2 e 3 in 240.
 

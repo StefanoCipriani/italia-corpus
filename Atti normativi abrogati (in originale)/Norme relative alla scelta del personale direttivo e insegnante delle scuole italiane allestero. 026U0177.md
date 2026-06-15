@@ -18,9 +18,9 @@ Veduta la [legge 18 dicembre 1910, n. 867](Riordinamento%20delle%20scuole%20ital
 
 Veduti i [Regi decreti-legge 7 dicembre 1919, nn. 2479](Relativo%20alle%20indennita%20da%20corrispondersi%20agli%20insegnanti%20delle%20scuole%20medie%20del%20Regno%20incaricati%20dellinsegnamento%20allestero.%20019U2479.md) e [2480](Che%20modifica%20la%20legge%2018%20dicembre%201910%20n.%20867%20circa%20la%20direzione%20e%20la%20sorveglianza%20delle%20scuole%20istituite%20dallo%20Stato%20allestero.%20019U2480.md);
 
-Veduto il [R. decreto 15 luglio 1923, n. 1731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-15;1731);
+Veduto il [R. decreto 15 luglio 1923, n. 1731](Norme%20per%20la%20durata%20della%20permanenza%20allestero%20del%20personale%20delle%20scuole%20primarie%20e%20secondarie%20e%20per%20il%20passaggio%20nelle%20scuole%20del%20Regno%20del%20personale%20delle%20scuole%20primarie.%20023U1731.md);
 
-Veduto il [R. decreto 30 dicembre 1923, n. 3234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3234);
+Veduto il [R. decreto 30 dicembre 1923, n. 3234](Norme%20relative%20ai%20concorsi%20per%20le%20Regie%20scuole%20elementari%20allestero.%20023U3234.md);
 
 Veduti i [Regi decreti-legge 2 giugno 1924, nn. 1052](Provvedimenti%20per%20il%20personale%20delle%20Regie%20scuole%20allestero.%20024U1052.md) e [1053](Disposizioni%20per%20i%20concorsi%20a%20cattedre%20di%20scuole%20medie%20allestero.%20024U1053.md);
 
@@ -56,7 +56,7 @@ Entro il mese di luglio una Commissione composta del direttore generale delle sc
 
 ## Art. 4.
 
-Al personale delle scuole del Regno messo a disposizione per le scuole all'estero, secondo le norme di cui agli articoli precedenti, sono applicabili le disposizioni, di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-15;1731#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-15;1731#art_2), [3 del R. decreto 15 luglio 1923, n. 1731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-15;1731#art_3), relative alla durata della permanenza nelle scuole all'estero.
+Al personale delle scuole del Regno messo a disposizione per le scuole all'estero, secondo le norme di cui agli articoli precedenti, sono applicabili le disposizioni, di cui agli [articoli 1](Norme%20per%20la%20durata%20della%20permanenza%20allestero%20del%20personale%20delle%20scuole%20primarie%20e%20secondarie%20e%20per%20il%20passaggio%20nelle%20scuole%20del%20Regno%20del%20personale%20delle%20scuole%20primarie.%20023U1731.md), [2](Norme%20per%20la%20durata%20della%20permanenza%20allestero%20del%20personale%20delle%20scuole%20primarie%20e%20secondarie%20e%20per%20il%20passaggio%20nelle%20scuole%20del%20Regno%20del%20personale%20delle%20scuole%20primarie.%20023U1731.md), [3 del R. decreto 15 luglio 1923, n. 1731](Norme%20per%20la%20durata%20della%20permanenza%20allestero%20del%20personale%20delle%20scuole%20primarie%20e%20secondarie%20e%20per%20il%20passaggio%20nelle%20scuole%20del%20Regno%20del%20personale%20delle%20scuole%20primarie.%20023U1731.md), relative alla durata della permanenza nelle scuole all'estero.
 
 ## Art. 5.
 

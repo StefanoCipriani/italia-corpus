@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 23 dicembre 1967 n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376) sull'assistenza tecnica, culturale, economica e finanziaria alla Somalia;
+Vista la [legge 23 dicembre 1967 n. 1376](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md) sull'assistenza tecnica, culturale, economica e finanziaria alla Somalia;
 
-Vista la [legge 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380), sulla collaborazione tecnica bilaterale con i Paesi in via di sviluppo per il quadriennio 1968-1971;
+Vista la [legge 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md), sulla collaborazione tecnica bilaterale con i Paesi in via di sviluppo per il quadriennio 1968-1971;
 
-Vista la [legge 21 aprile 1969, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-21;168), sulla collaborazione di enti ospedalieri nei Paesi in via di sviluppo;
+Vista la [legge 21 aprile 1969, n. 168](Collaborazione%20di%20enti%20ospedalieri%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), sulla collaborazione di enti ospedalieri nei Paesi in via di sviluppo;
 
-Vista la [legge 8 novembre 1966, n. 1033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-11-08;1033), e successive modificazioni e integrazioni, sul rinvio e la dispensa dal servizio militare di leva dei cittadini che prestano servizio volontario civile nei Paesi in via di sviluppo;
+Vista la [legge 8 novembre 1966, n. 1033](Norme%20integrative%20del%20capo%20IX%20del%20decreto%20del%20Presidente%20della%20Repubblica%2014%20febbraio%201964%20n.%20237%20per%20la%20dispensa%20dal%20servizio%20di%20leva%20dei%20cittadini%20che%20prestino%20servizio%20di%20assistenza%20te_80161eb3ffa5.md), e successive modificazioni e integrazioni, sul rinvio e la dispensa dal servizio militare di leva dei cittadini che prestano servizio volontario civile nei Paesi in via di sviluppo;
 
 Udito il parere del Consiglio di Stato;
 
@@ -30,12 +30,12 @@ TITOLO I
 
 ### Art. 1. — (Comando di personale di ruolo presso il Ministero degli affari esteri)
 
-Per le esigenze della collaborazione con i Paesi in via di sviluppo di cui alle leggi in premessa puo' essere comandato presso i competenti uffici del Ministero degli affari esteri personale di ruolo dello Stato, ai sensi degli [articoli 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_56) e [57 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_57), ivi compreso il personale il cui ordinamento non e' regolato dal predetto decreto.
+Per le esigenze della collaborazione con i Paesi in via di sviluppo di cui alle leggi in premessa puo' essere comandato presso i competenti uffici del Ministero degli affari esteri personale di ruolo dello Stato, ai sensi degli [articoli 56](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [57 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), ivi compreso il personale il cui ordinamento non e' regolato dal predetto decreto.
 
 ### Art. 2. — (Incarichi di studio)
 
-Per le predette esigenze possono essere affidati a persone anche estranee alla pubblica amministrazione incarichi di studio con la disciplina prevista dall'[articolo 380 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_380).
- L'onere complessivo per gli incarichi di studio di cui al precedente comma non puo' superare rispettivamente lo 0,60% della quota-parte riservata alla assistenza tecnica e culturale nell'ambito della somma di cui l'[art. 4 della legge 23 dicembre 1967, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_4) autorizza l'iscrizione nello stato di previsione della spesa del Ministero degli affari esteri e lo 0,40% dei fondi di cui all'[art. 9 della legge 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380#art_9).
+Per le predette esigenze possono essere affidati a persone anche estranee alla pubblica amministrazione incarichi di studio con la disciplina prevista dall'[articolo 380 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ L'onere complessivo per gli incarichi di studio di cui al precedente comma non puo' superare rispettivamente lo 0,60% della quota-parte riservata alla assistenza tecnica e culturale nell'ambito della somma di cui l'[art. 4 della legge 23 dicembre 1967, n. 1376](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md) autorizza l'iscrizione nello stato di previsione della spesa del Ministero degli affari esteri e lo 0,40% dei fondi di cui all'[art. 9 della legge 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md).
 
 ### Art. 3. — (Personale all'estero)
 
@@ -49,11 +49,11 @@ TITOLO II
 
 ### Art. 4. — (Unicita' di trattamento)
 
-Il trattamento del personale civile di ruolo o militare inviato in Somalia, o in altri Paesi in via di sviluppo, ai sensi dell'[art. 1, lettera a) numeri 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_1-leta-num1) e [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_1-leta-num2), dell'[art. 2, lettera b) della legge 23 dicembre 1967, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_2-letb), nonche' dell'[art. 2, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380#art_2-leta) e [b) della legge 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380#art_2-letb), in quanto disciplinato dal presente regolamento e salvo quanto e' disposto dagli articoli 4 e 5 della citata [legge n. 380 del 28 marzo 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380), e' regolato unitariamente.
+Il trattamento del personale civile di ruolo o militare inviato in Somalia, o in altri Paesi in via di sviluppo, ai sensi dell'[art. 1, lettera a) numeri 1](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md) e [2](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md), dell'[art. 2, lettera b) della legge 23 dicembre 1967, n. 1376](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md), nonche' dell'[art. 2, lettere a)](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md) e [b) della legge 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md), in quanto disciplinato dal presente regolamento e salvo quanto e' disposto dagli articoli 4 e 5 della citata [legge n. 380 del 28 marzo 1968](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md), e' regolato unitariamente.
 
 ### Art. 5. — (Decorrenza della disciplina unitaria)
 
-La disciplina unitaria di cui al precedente articolo decorre dalla data in cui ha effetto la disposizione dell'[art. 10, terzo comma, della legge 28 marzo 1968, numero 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380#art_10-com3).
+La disciplina unitaria di cui al precedente articolo decorre dalla data in cui ha effetto la disposizione dell'[art. 10, terzo comma, della legge 28 marzo 1968, numero 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md).
 
 ### Art. 6. — (Congedi)
 
@@ -61,7 +61,7 @@ Al personale civile di ruolo e al personale militare, utilizzato ai sensi delle 
 
 ### Art. 7. — (Indennita' integrativa)
 
-Al personale del Ministero degli affari esteri ed a quello messo a sua disposizione da altre amministrazioni dello Stato che sia autorizzato per esigenze di assistenza tecnica ad assumere impiego o ad esercitare funzioni, anche continuative, presso Governi di Paesi in via di sviluppo, o presso enti od organismi internazionali, puo' essere corrisposta, qualora il trattamento economico inerente a tale posizione non sia ritenuto sufficiente, un'indennita' integrativa - gravante sui fondi di cui alle leggi in premessa - in misura da fissare con decreto del Ministro per gli affari esteri, di concerto con quello per il tesoro e - ove del caso - con altro Ministro interessato, ai sensi dell'[art. 189 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_189).
+Al personale del Ministero degli affari esteri ed a quello messo a sua disposizione da altre amministrazioni dello Stato che sia autorizzato per esigenze di assistenza tecnica ad assumere impiego o ad esercitare funzioni, anche continuative, presso Governi di Paesi in via di sviluppo, o presso enti od organismi internazionali, puo' essere corrisposta, qualora il trattamento economico inerente a tale posizione non sia ritenuto sufficiente, un'indennita' integrativa - gravante sui fondi di cui alle leggi in premessa - in misura da fissare con decreto del Ministro per gli affari esteri, di concerto con quello per il tesoro e - ove del caso - con altro Ministro interessato, ai sensi dell'[art. 189 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
 
 ## PERSONALE A CONTRATTO
 
@@ -69,7 +69,7 @@ TITOLO III
 
 ### Art. 8. — (Requisiti del personale assunto a contratto: esperti)
 
-Il personale da assumere a contratto ai sensi dello [art. 1, lettera a), n. 3, della legge 23 dicembre 1967, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_1-leta-num3) e dell'[art. 2, lettera c) della legge 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380#art_2-letc), deve possedere i seguenti requisiti:
+Il personale da assumere a contratto ai sensi dello [art. 1, lettera a), n. 3, della legge 23 dicembre 1967, n. 1376](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md) e dell'[art. 2, lettera c) della legge 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md), deve possedere i seguenti requisiti:
  1) cittadinanza italiana;
  2) eta' non minore di 25 anni, ne' maggiore di 63;
  3) godimento dei diritti politici;
@@ -95,7 +95,7 @@ Gli esperti assunti a contratto sono suddivisi nelle seguenti categorie:
 
 ### Art. 10. — (Assistenti esperti)
 
-Il Ministero degli affari esteri, per i fini previsti dall'[art. 1 della legge 23 dicembre 1967, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_1) e dall'[articolo 2 della legge 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380#art_2), puo' anche assumere a contratto dei laureati i quali, pur non avendo l'eta' minima di venticinque anni richiesta per gli esperti, siano in possesso dei requisiti di cui ai numeri 1), 3), 4), 5), 6), 8) e 9) del precedente art. 8, ed abbiano esercitato per almeno un biennio funzioni corrispondenti al compito cui sono
+Il Ministero degli affari esteri, per i fini previsti dall'[art. 1 della legge 23 dicembre 1967, n. 1376](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md) e dall'[articolo 2 della legge 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md), puo' anche assumere a contratto dei laureati i quali, pur non avendo l'eta' minima di venticinque anni richiesta per gli esperti, siano in possesso dei requisiti di cui ai numeri 1), 3), 4), 5), 6), 8) e 9) del precedente art. 8, ed abbiano esercitato per almeno un biennio funzioni corrispondenti al compito cui sono
  destinati, ovvero rivestano la qualifica di assistente universitario.
 Agli effetti del presente regolamento, il personale di cui sopra
 assume la denominazione di "assistente esperto".
@@ -115,7 +115,7 @@ Il contratto a termine di diritto privato e' stipulato in forma scritta per la d
 
 ### Art. 13. — (Trattamento economico)
 
-Al personale assunto a contratto dal Ministero degli affari esteri in base alle [leggi 23 dicembre 1967, n. 1376 e 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380), e' attribuito un trattamento economico composto da un assegno fisso lordo mensile e da un'indennita' di sede lorda mensile stabiliti nelle seguenti misure, in relazione alle categorie di cui agli articoli 9 e 10 del presente regolamento: 
+Al personale assunto a contratto dal Ministero degli affari esteri in base alle [leggi 23 dicembre 1967, n. 1376 e 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md), e' attribuito un trattamento economico composto da un assegno fisso lordo mensile e da un'indennita' di sede lorda mensile stabiliti nelle seguenti misure, in relazione alle categorie di cui agli articoli 9 e 10 del presente regolamento: 
  
 
  Categoria Assegno fisso Indennita' di sede
@@ -130,7 +130,7 @@ Al personale assunto a contratto dal Ministero degli affari esteri in base alle 
 
 
  
- All'indennita' di sede di cui sopra si applicano le stesse maggiorazioni eventualmente determinate per il personale civile di ruolo e militare a norma dell'[art. 4, primo comma, lettera b) della legge 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380#art_4-com1-letb). 
+ All'indennita' di sede di cui sopra si applicano le stesse maggiorazioni eventualmente determinate per il personale civile di ruolo e militare a norma dell'[art. 4, primo comma, lettera b) della legge 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md). 
  Le retribuzioni anzidette non potranno tuttavia risultare inferiori a quelle previste dal decreto del Ministro per gli affari esteri 21 febbraio 1964, registrato alla Corte dei conti il 21 aprile 1964, registro n. 213 Esteri, foglio n. 254. 
  Dal trattamento economico come sopra stabilito va dedotta, secondo la disciplina prevista dall'art. 23 del presente regolamento, la retribuzione che di regola deve essere corrisposta dal Governo locale al personale di cui al primo comma.
 
@@ -156,7 +156,7 @@ Agli effetti dei precedenti articoli 15 e 16, non sono computati come servizio i
 Il personale a contratto di cui all'art. 3, lettera b) del presente regolamento e' iscritto, a cura del Ministero degli affari esteri, alle assicurazioni per la tubercolosi, per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti gestita dall'I.N.P.S., e per le malattie - limitatamente alle prestazioni sanitarie - gestita dall'I.N.A.M., sempre che non debbano applicarsi al predetto personale corrispondenti forme di tutela previdenziale ed assistenziale stabilite, con carattere di obbligatorieta', dalla legislazione locale.
  I rapporti assicurativi di cui al precedente comma sono regolati da convenzioni concluse con gli istituti assicuratori dal Ministero degli affari esteri, previa intesa col Ministero del lavoro e della previdenza sociale.
  I contributi per le assicurazioni di cui al primo comma sono commisurati ad apposite retribuzioni convenzionali, da stabilirsi con decreto del Ministro per il lavoro e la previdenza sociale di concerto con i Ministri per gli affari esteri e per il tesoro.
- Con apposita convenzione da stipulare con l'I.N.A., il Ministero degli affari esteri provvede inoltre ad assicurare la liquidazione di un equo indennizzo nei confronti del contrattista che abbia subito una lesione della propria integrita' fisica per effetto di infortunio occorso o d'infermita' contratta per causa di servizio, nonche' di un'indennita' per il caso di morte per causa di servizio, da corrispondere al coniuge non legalmente separato per sua colpa ed ai figli minori del contrattista. L'onere per tale assicurazione e' interamente a carico del Ministero degli affari esteri, che vi provvede con le disponibilita' di cui alle [leggi 23 dicembre 1967, n. 1376 e 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380). La relativa convenzione e' approvata con decreto del Ministro per gli affari esteri di concerto con il Ministro per il tesoro.
+ Con apposita convenzione da stipulare con l'I.N.A., il Ministero degli affari esteri provvede inoltre ad assicurare la liquidazione di un equo indennizzo nei confronti del contrattista che abbia subito una lesione della propria integrita' fisica per effetto di infortunio occorso o d'infermita' contratta per causa di servizio, nonche' di un'indennita' per il caso di morte per causa di servizio, da corrispondere al coniuge non legalmente separato per sua colpa ed ai figli minori del contrattista. L'onere per tale assicurazione e' interamente a carico del Ministero degli affari esteri, che vi provvede con le disponibilita' di cui alle [leggi 23 dicembre 1967, n. 1376 e 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md). La relativa convenzione e' approvata con decreto del Ministro per gli affari esteri di concerto con il Ministro per il tesoro.
  Le norme di cui ai precedenti comma possono trovare applicazione, in tutto od in parte, anche nei confronti del personale a contratto di cui all'art. 25 del presente regolamento, quando per tale personale non sia prevista, per effetto del rapporto di servizio con lo Stato estero, con l'ente o con l'organismo internazionale, una corrispondente forma di tutela previdenziale e assistenziale. A tal fine, la retribuzione utile e' commisurata ad apposite retribuzioni convenzionali, da stabilirsi con decreto del Ministro per il lavoro e la previdenza sociale di concerto con i Ministri per gli affari esteri e per il tesoro.
 
 ### Art. 19. — (Viaggi e trasporto effetti)
@@ -235,7 +235,7 @@ TITOLO IV
 ### Art. 26. — (Insegnamento all'estero)
 
 L'insegnamento prestato nel quadro dell'assistenza tecnica e culturale italiana - ai sensi delle leggi in premessa - presso universita' od istituti di insegnamento di ogni ordine e grado siti in Paesi in via di sviluppo, da parte del personale insegnante od assistente di ruolo comandato presso il Ministero degli affari esteri, e' equiparato a tutti gli effetti giuridici a quello effettuato presso le universita' o corrispondenti scuole italiane in Italia.
- L'attivita' didattica svolta presso universita' od istituti d'istruzione superiore siti in Paesi in via di sviluppo dal personale provvisto di libera docenza e' valida per l'adempimento degli obblighi d'insegnamento previsti dalla [legge 30 dicembre 1958, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-12-30;1175).
+ L'attivita' didattica svolta presso universita' od istituti d'istruzione superiore siti in Paesi in via di sviluppo dal personale provvisto di libera docenza e' valida per l'adempimento degli obblighi d'insegnamento previsti dalla [legge 30 dicembre 1958, n. 1175](Esami%20di%20abilitazione%20alla%20libera%20docenza.md).
 
 ## CONTRIBUTI ED ATTREZZATURA STRUMENTALE
 
@@ -243,7 +243,7 @@ TITOLO V
 
 ### Art. 27. — (Contributi a piani e progettazioni - Legge 28 marzo 1968, n. 380)
 
-La spesa per i contributi di cui all'[art. 7, primo comma, della legge 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380#art_7-com1), non puo' superare il 33% dello stanziamento globale previsto per ciascun esercizio finanziario.
+La spesa per i contributi di cui all'[art. 7, primo comma, della legge 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md), non puo' superare il 33% dello stanziamento globale previsto per ciascun esercizio finanziario.
  Per la concessione dei contributi, constatata l'esistenza di un accordo di collaborazione scientifica, tecnica od economica fra l'Italia ed il Paese in via di sviluppo che abbia richiesto l'effettuazione di ricerche o l'elaborazione di uno studio, piano o progettazione, devono osservarsi le seguenti norme:
  1) nella scelta dei progetti deve tenersi conto delle concrete possibilita' di realizzazione dei piani di sviluppo cui essi si riferiscono, nonche' del grado di aspettativa che i successivi lavori di esecuzione vengano affidati, in tutto od in parte, a imprese italiane;
  2) nella concessione di contributi si tiene conto anche delle iniziative italiane di assistenza gia' attuate o programmate;
@@ -253,11 +253,11 @@ La spesa per i contributi di cui all'[art. 7, primo comma, della legge 28 marzo 
  a) se lo Stato interessato, un ente pubblico dello Stato medesimo, ovvero una organizzazione internazionale contribuiscono alla spesa preventivata, singolarmente o congiuntamente, in misura uguale o superiore al 25% della spesa stessa, il contributo italiano puo' arrivare fino al 60% del costo preventivato;
  b) se lo Stato interessato, un ente pubblico dello Stato medesimo, ovvero una organizzazione internazionale contribuiscono alla spesa, singolarmente o congiuntamente, in misura inferiore al 25%, il contributo italiano non puo' superare il 25% del costo preventivato.
  Se ne' lo Stato interessato, ne' un ente pubblico dello Stato medesimo, ne' una organizzazione internazionale partecipano alla spesa, non puo' accordarsi alcun contributo.
- I contributi di cui all'[art. 7, secondo comma, della legge 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380#art_7-com2), non possono superare il 7% dello stanziamento globale previsto per ciascun esercizio finanziario. Tali contributi possono essere concessi a richiesta dei Governi interessati e secondo modalita' da concordare di volta in volta.
+ I contributi di cui all'[art. 7, secondo comma, della legge 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md), non possono superare il 7% dello stanziamento globale previsto per ciascun esercizio finanziario. Tali contributi possono essere concessi a richiesta dei Governi interessati e secondo modalita' da concordare di volta in volta.
 
 ### Art. 28. — (Commissione consultiva per i contributi)
 
-Per l'attuazione delle disposizioni di cui all'[art. 7, primo comma, della legge 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380#art_7-com1), il Ministro per gli affari esteri nomina ogni due anni con suo decreto una commissione composta:
+Per l'attuazione delle disposizioni di cui all'[art. 7, primo comma, della legge 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md), il Ministro per gli affari esteri nomina ogni due anni con suo decreto una commissione composta:
  di un Sottosegretario di Stato per gli affari esteri, che la presiede;
  di un rappresentante della Direzione generale delle relazioni culturali del Ministero degli affari esteri;
  di un rappresentante della Direzione generale degli affari economici dello stesso Ministero;
@@ -280,21 +280,21 @@ La commissione, esaminate le domande di contributo pervenute al Ministero degli 
 
 ### Art. 30. — (Contributi ad istituzioni scolastiche ed educative somale o di interesse somalo)
 
-I contributi di cui all'[art. 1, lettera c), della legge 23 dicembre 1967, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_1-letc) devono essere concessi a istituzioni che utilizzino docenti italiani, od esprimano una collaborazione culturale somalo-italiana.
+I contributi di cui all'[art. 1, lettera c), della legge 23 dicembre 1967, n. 1376](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md) devono essere concessi a istituzioni che utilizzino docenti italiani, od esprimano una collaborazione culturale somalo-italiana.
  Possono, ai sensi della citata norma, essere concessi contributi ad enti culturali somali con sede in Italia.
 
 ### Art. 31. — (Contributi ad istituti di formazione tecnico-professionale)
 
-Ai fini della concessione dei contributi di cui all'[art. 7, secondo comma, della legge 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380#art_7-com2), si intendono come "Istituti di formazione tecnico-professionale" le universita', le istituzioni di ricerca scientifica e tecnologica, gli istituti tecnici e le scuole professionali, nonche' ogni altra istituzione di formazione professionale comunque denominata.
+Ai fini della concessione dei contributi di cui all'[art. 7, secondo comma, della legge 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md), si intendono come "Istituti di formazione tecnico-professionale" le universita', le istituzioni di ricerca scientifica e tecnologica, gli istituti tecnici e le scuole professionali, nonche' ogni altra istituzione di formazione professionale comunque denominata.
  I contributi di cui sopra sono corrisposti ad istituti che utilizzino docenti, esperti, tecniche od attrezzature italiane, od esprimano una collaborazione culturale fra l'Italia ed il Paese assistito.
 
 ### Art. 32. — (Attrezzatura tecnico-strumentale - Legge 28 maggio 1968, n. 380)
 
-L'attrezzatura tecnico-strumentale di cui all'[art. 6 della legge 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380#art_6) puo', al termine del programma per il quale e' stata fornita, essere trasportata in Italia e presa in carico dal Ministero degli affari esteri per eventuale impiego in altro programma di assistenza, ovvero essere ceduta, anche a titolo gratuito, dal Ministero stesso al Paese nel quale e' stata utilizzata, o ad altro Paese in via di sviluppo.
+L'attrezzatura tecnico-strumentale di cui all'[art. 6 della legge 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md) puo', al termine del programma per il quale e' stata fornita, essere trasportata in Italia e presa in carico dal Ministero degli affari esteri per eventuale impiego in altro programma di assistenza, ovvero essere ceduta, anche a titolo gratuito, dal Ministero stesso al Paese nel quale e' stata utilizzata, o ad altro Paese in via di sviluppo.
 
 ### Art. 33. — (Spese relative al servizio volontario civile)
 
-Le spese per gli interventi da disporre ai sensi dell'[art. 10 della legge 19 febbraio 1970, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-02-19;75#art_10), sul servizio volontario civile, in aggiunta agli stanziamenti previsti per la assistenza tecnica ai Paesi in via di sviluppo, non possono superare l'importo complessivo annuo di lire 400 milioni, secondo le disposizioni della predetta legge e dei relativi regolamenti.
+Le spese per gli interventi da disporre ai sensi dell'[art. 10 della legge 19 febbraio 1970, n. 75](Modificazioni%20ed%20integrazioni%20alla%20legge%208%20novembre%201966%20n.%201033%20concernenti%20il%20rinvio%20e%20la%20dispensa%20dal%20servizio%20di%20leva%20per%20i%20cittadini%20che%20prestino%20servizio%20volontario%20civile%20in%20Paesi%20_fd719e077d05.md), sul servizio volontario civile, in aggiunta agli stanziamenti previsti per la assistenza tecnica ai Paesi in via di sviluppo, non possono superare l'importo complessivo annuo di lire 400 milioni, secondo le disposizioni della predetta legge e dei relativi regolamenti.
 
 ## DISPOSIZIONI SPECIALI PER L'ESECUZIONE DELL'ART. 2 DELLA LEGGE 23 DICEMBRE 1967, N. 1376 SULL'ASSISTENZA TECNICA ALLA SOMALIA
 
@@ -302,7 +302,7 @@ TITOLO VI
 
 ### Art. 34. — (Corsi)
 
-I Ministeri dell'interno, della difesa e delle finanze, nell'ambito delle rispettive competenze e con l'osservanza delle disposizioni che regolano l'attivita' didattica delle accademie e delle scuole, determinano le condizioni per l'ammissione dei cittadini somali ai corsi di cui all'[art. 2 della legge 23 dicembre 1967, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_2), la modalita' e la durata della loro partecipazione ai corsi stessi.
+I Ministeri dell'interno, della difesa e delle finanze, nell'ambito delle rispettive competenze e con l'osservanza delle disposizioni che regolano l'attivita' didattica delle accademie e delle scuole, determinano le condizioni per l'ammissione dei cittadini somali ai corsi di cui all'[art. 2 della legge 23 dicembre 1967, n. 1376](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md), la modalita' e la durata della loro partecipazione ai corsi stessi.
  Le assegnazioni degli effetti di vestiario e di equipaggiamento ai cittadini somali ammessi ai corsi sono stabilite con determinazione dei Ministeri competenti.
  Il contributo individuale da concedere ai frequentatori dei vari corsi e' stabilito con determinazione del Ministero competente d'intesa con il Ministero degli affari esteri e con gli altri Dicasteri di cui al primo comma.
 
@@ -323,10 +323,10 @@ Le autorita' preposte alla direzione dei corsi possono concedere ai frequentator
  a) licenze brevi durante la frequenza dei corsi, da trascorrere in Italia con spese a carico degli interessati;
  b) licenze ordinarie ai frequentatori di corsi pluriennali, da trascorrere:
  in Italia, per gli allievi delle accademie al termine del primo anno di corso: con possibilita' per gli allievi di usufruire gratuitamente delle organizzazioni logistiche delle amministrazioni interessate o delle forze armate;
- in Somalia, con spese di viaggio a carico degli stanziamenti di cui all'[art. 4 della legge 23 dicembre 1967, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_4):
+ in Somalia, con spese di viaggio a carico degli stanziamenti di cui all'[art. 4 della legge 23 dicembre 1967, n. 1376](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md):
  per gli allievi delle accademie, al termine del secondo anno di corso;
  per gli ufficiali frequentatori della Scuola di guerra di Civitavecchia, al termine di ciascun anno di corso.
- Durante la licenza ordinaria trascorsa in Somalia non compete il contributo individuale di cui all'[art. 2 della legge 23 dicembre 1967, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_2).
+ Durante la licenza ordinaria trascorsa in Somalia non compete il contributo individuale di cui all'[art. 2 della legge 23 dicembre 1967, n. 1376](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md).
 
 ### Art. 37. — (Cessioni materiali)
 
@@ -348,16 +348,16 @@ Non costituisce motivo di risoluzione contrattuale, nei riguardi del personale a
 
 ### Art. 39.
 
-(Contributi di cui all'[art. 1, lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_1-letd) ed [e) della legge 23 dicembre 1967, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_1-lete))
+(Contributi di cui all'[art. 1, lettere d)](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md) ed [e) della legge 23 dicembre 1967, n. 1376](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md))
 
- La materia dei contributi di cui all'[art. 1, lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_1-letd) ed [e), della legge 23 dicembre 1967, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_1-lete), resta disciplinata dal [decreto del Presidente della Repubblica 1 marzo 1968, n. 779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-03-01;779).
+ La materia dei contributi di cui all'[art. 1, lettere d)](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md) ed [e), della legge 23 dicembre 1967, n. 1376](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md), resta disciplinata dal [decreto del Presidente della Repubblica 1 marzo 1968, n. 779](../DPR/Norme%20di%20esecuzione%20della%20legge%2023%20dicembre%201967%20n.%201376%20sullassistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md).
 
 ### Art. 40. — (Decorrenze ed entrata in vigore)
 
 Il trattamento economico del personale previsto dal presente regolamento si applica con le seguenti decorrenze: 
- a) relativamente al personale di cui all'[art. 1, lettera a), n. 3, della legge 23 dicembre 1967, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376#art_1-leta-num3), a partire dalla stessa data stabilita dall'[art. 10, terzo comma, della legge 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380#art_10-com3) per il personale di cui all'art. 1, lettera a), numeri 1 e 2, della suddetta [legge 23 dicembre 1967, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-23;1376); 
- b) relativamente al personale di cui all'[art. 2, lettera c), della legge 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380#art_2-letc), a partire dal primo giorno del mese successivo a quello della entrata in vigore del presente regolamento. 
- Per quanto riguarda i contratti di assunzione stipulati a norma della citata [legge 28 marzo 1968, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;380), ed in atto alla data di entrata in vigore del presente regolamento, il contrattista - entro sessanta giorni da tale data - puo' chiederne la modifica secondo le norme degli articoli precedenti, con decorrenza dalla data di applicazione delle medesime. 
+ a) relativamente al personale di cui all'[art. 1, lettera a), n. 3, della legge 23 dicembre 1967, n. 1376](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md), a partire dalla stessa data stabilita dall'[art. 10, terzo comma, della legge 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md) per il personale di cui all'art. 1, lettera a), numeri 1 e 2, della suddetta [legge 23 dicembre 1967, n. 1376](Assistenza%20tecnica%20culturale%20economica%20e%20finanziaria%20alla%20Somalia.md); 
+ b) relativamente al personale di cui all'[art. 2, lettera c), della legge 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md), a partire dal primo giorno del mese successivo a quello della entrata in vigore del presente regolamento. 
+ Per quanto riguarda i contratti di assunzione stipulati a norma della citata [legge 28 marzo 1968, n. 380](Collaborazione%20tecnica%20bilaterale%20con%20i%20paesi%20in%20via%20di%20sviluppo%20per%20il%20quadriennio%201968-1971.md), ed in atto alla data di entrata in vigore del presente regolamento, il contrattista - entro sessanta giorni da tale data - puo' chiederne la modifica secondo le norme degli articoli precedenti, con decorrenza dalla data di applicazione delle medesime. 
  La commissione di cui al precedente art. 28, e' nominata con decorrenza dal primo giorno del mese successivo a quello dell'entrata in vigore del presente regolamento; fino a tale giorno resta in funzione l'analoga commissione gia' costituita secondo i regolamenti precedentemente in vigore. 
  Il presente regolamento entra in vigore il giorno successivo a quella della sua pubblicazione nella Gazzetta Ufficiale.
 

@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- - E' convertito in legge il R. decreto-legge 17 ottobre 1935-XIII, n. 1987, col quale sono state stabilite alcune norme integrative del [R. decreto-legge 6 luglio 1931, n. 981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-06;981), sul piano regolatore di Roma, convertito, con modificazioni, nella [legge 24 marzo 1932, n. 355](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%206%20luglio%201931%20n.%20981%20con%20il%20quale%20sono%20stati%20approvati%20il%20piano%20regolatore%20di%20Roma%20e%20le%20norme%20generali%20e%20le%20prescrizioni%20tecnic_3c08f30e6e0a.md), con le seguenti modificazioni; 
+ - E' convertito in legge il R. decreto-legge 17 ottobre 1935-XIII, n. 1987, col quale sono state stabilite alcune norme integrative del [R. decreto-legge 6 luglio 1931, n. 981](Approvazione%20del%20piano%20regolatore%20della%20citta%20di%20Roma%20e%20delle%20norme%20per%20la%20sua%20attuazione.%20031U0981.md), sul piano regolatore di Roma, convertito, con modificazioni, nella [legge 24 marzo 1932, n. 355](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%206%20luglio%201931%20n.%20981%20con%20il%20quale%20sono%20stati%20approvati%20il%20piano%20regolatore%20di%20Roma%20e%20le%20norme%20generali%20e%20le%20prescrizioni%20tecnic_3c08f30e6e0a.md), con le seguenti modificazioni; 
  
  L'ultimo comma dell'art. 1 e' sostituito dal seguente: 
  

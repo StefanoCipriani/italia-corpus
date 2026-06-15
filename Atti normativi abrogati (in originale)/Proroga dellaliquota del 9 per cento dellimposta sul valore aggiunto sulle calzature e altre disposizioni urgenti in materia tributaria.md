@@ -28,17 +28,17 @@ Fino al 28 febbraio 1991 l'aliquota dell'imposta sul valore aggiunto sulle calza
 
 2.
 
-Nel [quarto comma dell'articolo 74 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_74-com4), e' aggiunto il seguente periodo: "La stessa autorizzazione puo' essere concessa agli esercenti impianti di distribuzione di carburante per uso di autotrazione".
+Nel [quarto comma dell'articolo 74 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e' aggiunto il seguente periodo: "La stessa autorizzazione puo' essere concessa agli esercenti impianti di distribuzione di carburante per uso di autotrazione".
 
 3.
 
-Le aziende di credito e le casse rurali ed artigiane delegate al versamento dell'imposta sul valore aggiunto ai sensi dell'[articolo 38 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_38), possono effettuare per conto del contribuente il versamento dell'imposta liquidata per il mese di novembre 1990, ai sensi dell'articolo 27 del medesimo decreto, nell'apposita contabilita' speciale aperta presso la competente sezione di tesoreria provinciale dello Stato entro il giorno 28 del successivo mese di dicembre.
+Le aziende di credito e le casse rurali ed artigiane delegate al versamento dell'imposta sul valore aggiunto ai sensi dell'[articolo 38 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), possono effettuare per conto del contribuente il versamento dell'imposta liquidata per il mese di novembre 1990, ai sensi dell'articolo 27 del medesimo decreto, nell'apposita contabilita' speciale aperta presso la competente sezione di tesoreria provinciale dello Stato entro il giorno 28 del successivo mese di dicembre.
 
 ## Art. 2.
 
 1.
 
-La disposizione del [comma 3- bis dell'articolo 4 del decreto-legge 2 marzo 1989, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;69#art_4-com3bis), convertito, con modificazioni, dalla [legge 27 aprile 1989, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-27;154), si applica a partire dalle dichiarazioni dei redditi da presentare nel 1992.
+La disposizione del [comma 3- bis dell'articolo 4 del decreto-legge 2 marzo 1989, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;69#art_4-com3bis), convertito, con modificazioni, dalla [legge 27 aprile 1989, n. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2069%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20persone%20fisiche%20e%20versamento%20di%20acconto%20de_946bfc2c101b.md), si applica a partire dalle dichiarazioni dei redditi da presentare nel 1992.
 
 2.
 
@@ -54,7 +54,7 @@ Le disposizioni dell'[articolo 1 della legge 15 maggio 1986, n. 191](https://www
 
 1.
 
-All'onere derivante dall'applicazione del comma 1, dell'articolo 1, valutato in lire 116 miliardi, si provvede mediante corrispondente utilizzo delle maggiori entrate derivanti dalle disposizioni del decreto del Presidente del Consiglio dei Ministri recante adeguamento delle aliquote di importo fisso di taluni tributi nei limiti delle variazioni percentuali del valore dell'indice dei prezzi al consumo per le famiglie di operai e impiegati, previsto dall'[articolo 7, comma 1, del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_7-com1), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165).
+All'onere derivante dall'applicazione del comma 1, dell'articolo 1, valutato in lire 116 miliardi, si provvede mediante corrispondente utilizzo delle maggiori entrate derivanti dalle disposizioni del decreto del Presidente del Consiglio dei Ministri recante adeguamento delle aliquote di importo fisso di taluni tributi nei limiti delle variazioni percentuali del valore dell'indice dei prezzi al consumo per le famiglie di operai e impiegati, previsto dall'[articolo 7, comma 1, del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_7-com1), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20aprile%201990%20n.%2090%20recante%20disposizioni%20in%20materia%20di%20determinazione%20del%20reddito%20ai%20fini%20delle%20imposte%20sui%20redditi%20di%20rimborsi%20d_30659e7e2a97.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

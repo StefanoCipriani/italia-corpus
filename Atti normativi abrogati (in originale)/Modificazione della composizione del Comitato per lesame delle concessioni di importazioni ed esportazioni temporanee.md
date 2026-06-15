@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 18 dicembre 1913, n. 1458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-12-18;1458), che detta disposizioni sulle importazioni ed esportazioni temporanee, convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [regio decreto-legge 18 dicembre 1913, n. 1458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-12-18;1458), che detta disposizioni sulle importazioni ed esportazioni temporanee, convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il [regio decreto 14 giugno 1923, n. 1313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1313), che apporta modificazioni alla legge sulle importazioni ed esportazioni temporanee;
+Visto il [regio decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), che apporta modificazioni alla legge sulle importazioni ed esportazioni temporanee;
 
 Visto l'art. 13 delle disposizioni preliminari alla tariffa dei dazi doganali;
 
@@ -22,7 +22,7 @@ Visto il [decreto luogotenenziale 22 dicembre 1945, n. 809](https://www.normatti
 
 Visto il [decreto luogotenenziale 16 gennaio 1946, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-16;12), che stabilisce le attribuzioni del Ministero del commercio con l'estero;
 
-Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1), modificata dalla [legge 4 settembre 1940, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-04;1547);
+Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), modificata dalla [legge 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -30,7 +30,7 @@ Sentito il Consiglio dei Ministri, Sulla proposta del Ministro per il commercio 
 
 ## Art. 1.
 
-Il Comitato di cui all'[art. 1, dei regio decreto 14 giugno 1923, n. 1313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1313#art_1), e successive modificazioni, per l'esame delle concessioni di importazioni ed esportazioni temporanee e di quelle relative alla restituzione dei dazi, previste dall'art. 13 delle disposizioni preliminari alla tariffa dei dazi doganali e' composto dal direttore generale per i piani degli scambi con l'estero e per gli affari doganali; 
+Il Comitato di cui all'[art. 1, dei regio decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), e successive modificazioni, per l'esame delle concessioni di importazioni ed esportazioni temporanee e di quelle relative alla restituzione dei dazi, previste dall'art. 13 delle disposizioni preliminari alla tariffa dei dazi doganali e' composto dal direttore generale per i piani degli scambi con l'estero e per gli affari doganali; 
  dal direttore generale per i servizi delle importazioni e delle esportazioni; 
  dal direttore generale per le dogane e imposte indirette; 
  dal direttore generale della produzione agricola; 

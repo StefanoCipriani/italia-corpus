@@ -16,11 +16,11 @@ Visti gli accordi economici collettivi per la disciplina della compra-vendita e 
 
 Visto l'accordo economico collettivo del 31 maggio 1937-XV, stipulato ad integrazione dei suindicati accordi del 17 dicembre 1935-XIV e del 30 ottobre 1936-XV, tra la Federazione nazionale fascista degli esercenti le industrie estrattive, la Federazione nazionale fascista dei commercianti di materiali da costruzione e la Federazione nazionale fascista degli artigiani, con l'intervento della Federazione nazionale fascista delle cooperative di produzione e lavoro;
 
-Visto il parere espresso dalla Corporazione delle industrie estrattive nella seduta del 12 giugno 1937-XV, ai sensi dell'[art. 5 della legge 5 febbraio 1934, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;163#art_5);
+Visto il parere espresso dalla Corporazione delle industrie estrattive nella seduta del 12 giugno 1937-XV, ai sensi dell'[art. 5 della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md);
 
 Visto il parere favorevole espresso dal Ministero per gli scambi e le valute;
 
-Vista l'approvazione data dal Comitato corporativo centrale nella seduta dell'11 dicembre 1937-XVI, ai sensi dell'[art. 1 del R. decreto-legge 18 aprile 1935, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-18;441#art_1), convertito in legge con la [legge 12 settembre 1935, n. 1745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-09-12;1745);
+Vista l'approvazione data dal Comitato corporativo centrale nella seduta dell'11 dicembre 1937-XVI, ai sensi dell'[art. 1 del R. decreto-legge 18 aprile 1935, n. 441](Norme%20sulle%20attribuzioni%20del%20Comitato%20corporativo%20centrale.%20035U0441.md), convertito in legge con la [legge 12 settembre 1935, n. 1745](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20aprile%201935-XIII%20n.%20441%20contenente%20norme%20sulle%20attribuzioni%20del%20Comitato%20corporativo%20centrale.%20035U1745.md);
 
 Visto l'art. 11, 1° comma, della legge 5 febbraio 1934, n. 163; Decreta:
 

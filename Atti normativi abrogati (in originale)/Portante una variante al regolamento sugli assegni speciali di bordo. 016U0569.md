@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il Nostro decreto in data 13 febbraio 1916, n. 164, che apporta una variante al regolamento sugli assegni speciali di bordo approvato con [R. decreto 7 luglio 1907, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-07;547); 
+ Visto il Nostro decreto in data 13 febbraio 1916, n. 164, che apporta una variante al regolamento sugli assegni speciali di bordo approvato con [R. decreto 7 luglio 1907, n. 547](Varianti%20al%20regolamento%20degli%20assegni%20speciali%20di%20bordo.%20007U0547.md); 
  
  Udito il Consiglio superiore di marina; 
  

@@ -46,15 +46,15 @@ Sono esclusi dal servizio militare, e non possono far parte dell'esercito:
 
 I condannati:
                             a)
-                                Alla pena dei lavori forzati per applicazione del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) comune;
+                                Alla pena dei lavori forzati per applicazione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune;
                             b)
-                                Alla pena dell'ergastolo ed a quella della casa di forza per un tempo maggiore di dieci anni per applicazione del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) toscano;
+                                Alla pena dell'ergastolo ed a quella della casa di forza per un tempo maggiore di dieci anni per applicazione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano;
 
 2.
 
 I condannati:
                             a)
-                                Alla pena della reclusione o della relegazione come colpevoli dei reati definiti nel libro secondo del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) comune: 
+                                Alla pena della reclusione o della relegazione come colpevoli dei reati definiti nel libro secondo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune: 
  
  Titolo 1, capo 1 e 2, 
  
@@ -70,7 +70,7 @@ I condannati:
  
  Titolo 10, capo 2;
                             b)
-                                Alla pena della casa di forza per un tempo non maggiore di dieci anni, come colpevoli dei reati definiti nel libro 2 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) toscano: 
+                                Alla pena della casa di forza per un tempo non maggiore di dieci anni, come colpevoli dei reati definiti nel libro 2 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano: 
  
  Titolo 1, capo 1 e 2, 
  
@@ -1284,7 +1284,7 @@ I medici o chirurghi chiamati come periti nei casi preveduti da questa legge, i 
 
 ### Art. 164.
 
-Ogni ufficiale pubblico ed ogni agente od impiegato del Governo che sotto qualsiasi pretesto abbia autorizzato od ammesso esenzioni dal servizio di 1ª e di 2ª categoria, riforme, esclusioni, surrogazioni di fratello e rafferme con premio oppostamente al disposto della legge, ovvero abbia data arbitraria estensione sia alla durata, sia alle regole e condizioni della chiamata alla leva e degli arruolamenti volontari, e' punto come reo di abuso di autorita' colle pene portate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), senza pregiudizio delle pene maggiori prescritte dello stesso Codice, nel caso di circostanze che ne aggravino la colpa.
+Ogni ufficiale pubblico ed ogni agente od impiegato del Governo che sotto qualsiasi pretesto abbia autorizzato od ammesso esenzioni dal servizio di 1ª e di 2ª categoria, riforme, esclusioni, surrogazioni di fratello e rafferme con premio oppostamente al disposto della legge, ovvero abbia data arbitraria estensione sia alla durata, sia alle regole e condizioni della chiamata alla leva e degli arruolamenti volontari, e' punto come reo di abuso di autorita' colle pene portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle pene maggiori prescritte dello stesso Codice, nel caso di circostanze che ne aggravino la colpa.
 
 ### Art. 165.
 

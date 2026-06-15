@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 aprile 1926, numero 705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-03;705), recante modificazioni alle norme tecniche ed igieniche di edilizia obbligatorie per le localita' colpite da terremoti. 
+ E' convertito in legge il [R. decreto-legge 3 aprile 1926, numero 705](Modificazioni%20alle%20norme%20tecniche%20ed%20igieniche%20di%20edilizia%20obbligatorie%20per%20le%20localita%20colpite%20da%20terremoti.%20026U0705.md), recante modificazioni alle norme tecniche ed igieniche di edilizia obbligatorie per le localita' colpite da terremoti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

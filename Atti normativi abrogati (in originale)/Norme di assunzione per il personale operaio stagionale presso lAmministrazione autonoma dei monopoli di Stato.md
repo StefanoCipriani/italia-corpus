@@ -19,7 +19,7 @@ PROMULGA la seguente legge:
 ## Articolo unico
 
 Le assunzioni di personale per i lavori di carattere stagionale presso l'Amministrazione autonoma dei monopoli di Stato sono disciplinate dall'[articolo 2 della legge 31 marzo 1955, n. 265](Personale%20dellAmministrazione%20autonoma%20dei%20monopoli%20di%20Stato.md). 
- L'ultimo comma dell'[articolo 1 del decreto del Presidente della Repubblica 31 marzo 1971, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-03-31;276#art_1), e' soppresso.
+ L'ultimo comma dell'[articolo 1 del decreto del Presidente della Repubblica 31 marzo 1971, n. 276](../DPR/Assunzioni%20temporanee%20di%20personale%20presso%20le%20Amministrazioni%20dello%20Stato.md), e' soppresso.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alla disposizione di cui alla [lettera c) dell'art. 1 del R. decreto 17 settembre 1908, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-09-17;576#art_1-letc), sono sostituite le seguenti: 
+Alla disposizione di cui alla [lettera c) dell'art. 1 del R. decreto 17 settembre 1908, n. 576](che%20classifica%20le%20cariche%20corrispondenti%20a%20quelle%20di%20comandante%20in%20capo%20di%20forza%20navale%20o%20di%20designato%20a%20detto%20comando%20in%20tempo%20di%20guerra.%20008U0576.md), sono sostituite le seguenti: 
  
  c) Presidente del Consiglio superiore di marina, dopo due anni di permanenza in tale grado o purche' sia stato per un anno al comando di una forza navale; 
  
@@ -18,7 +18,7 @@ Alla disposizione di cui alla [lettera c) dell'art. 1 del R. decreto 17 settembr
 
 ## Art. 2.
 
-L'art. 2 del citato [Regio decreto 17 settembre 1908, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-09-17;576), e' modificato come segue: 
+L'art. 2 del citato [Regio decreto 17 settembre 1908, n. 576](che%20classifica%20le%20cariche%20corrispondenti%20a%20quelle%20di%20comandante%20in%20capo%20di%20forza%20navale%20o%20di%20designato%20a%20detto%20comando%20in%20tempo%20di%20guerra.%20008U0576.md), e' modificato come segue: 
  
  «I periodi di permanenza nel comando in capo di una forza navale, di designato al comando di una forza navale in tempo di guerra, e nelle cariche corrispondenti indicate nei paragrafi a), b), c) e d) del presente decreto sono cumulabili agli effetti dell'articolo 4 della legge suddetta. 
  

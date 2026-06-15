@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il decreto Ministeriale 3 giugno 1815, n. 7926, col quale, fra altro, si introducono variazioni nello stato di, previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1915-916 concernenti la sistemazione del personale straordinario in servizio della avvocatura erariale, in relazione ad analoghe proposte comunicate alla presidenza della Camera dei deputati; 
  
- Visto l'[art. 3 della legge 11 luglio 1904, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;372#art_3); 
+ Visto l'[art. 3 della legge 11 luglio 1904, n. 372](Disposizioni%20relative%20ai%20ruoli%20organici.%20004U0372.md); 
  
  Udito il Consiglio dei ministri; 
  

@@ -44,7 +44,7 @@ Nei Comuni indicati nell'articolo precedente la riscossione delle imposte sui re
  
  Le quote delle suddette imposte, delle quali sia stata sospesa la riscossione, in quanto non siano riconosciute non dovute, saranno ripartite nelle dodici rate bimestrali nei ruoli degli anni 1931 e 1932. 
  
- Nei Comuni suddetti i termini per le dichiarazioni di cui all'[art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-28;360#art_4) ([secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-28;360#art_com2)) e all'[art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-28;360#art_5) ([secondo comma) del R. decreto 28 gennaio 1929, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-28;360#art_com2), sono prorogati al 31 dicembre 1930. 
+ Nei Comuni suddetti i termini per le dichiarazioni di cui all'[art. 4](Modalita%20per%20le%20denuncie%20dei%20redditi%20agli%20effetti%20delle%20imposte%20dirette.%20029U0360.md) ([secondo comma](Modalita%20per%20le%20denuncie%20dei%20redditi%20agli%20effetti%20delle%20imposte%20dirette.%20029U0360.md)) e all'[art. 5](Modalita%20per%20le%20denuncie%20dei%20redditi%20agli%20effetti%20delle%20imposte%20dirette.%20029U0360.md) ([secondo comma) del R. decreto 28 gennaio 1929, n. 360](Modalita%20per%20le%20denuncie%20dei%20redditi%20agli%20effetti%20delle%20imposte%20dirette.%20029U0360.md), sono prorogati al 31 dicembre 1930. 
  
  Gli uffici delle imposte possono controrettificare i redditi dichiarati ai sensi dei commi secondo e quarto del presente articolo entro il 30 giugno 1931.
 

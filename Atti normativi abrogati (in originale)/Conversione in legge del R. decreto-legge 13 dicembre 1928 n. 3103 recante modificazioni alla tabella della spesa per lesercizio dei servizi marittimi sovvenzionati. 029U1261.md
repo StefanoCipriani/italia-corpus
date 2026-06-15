@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 dicembre 1928, n. 3103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-13;3103), recante modificazioni alla tabella della spesa per l'esercizio dei servizi marittimi sovvenzionati. 
+ E' convertito in legge il [R. decreto-legge 13 dicembre 1928, n. 3103](Modificazioni%20nella%20tabella%20delle%20spese%20per%20lesercizio%20dei%20servizi%20marittimi%20sovvenzionati.%20028U3103.md), recante modificazioni alla tabella della spesa per l'esercizio dei servizi marittimi sovvenzionati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

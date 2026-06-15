@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visti gli [articoli 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_298) e [303 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_303) per l'esercito;
+Visti gli [articoli 298](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [303 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito;
 
 Visto il [R. decreto 30 marzo 1902, n. 168](Contenente%20lordinamento%20dei%20vari%20servizi%20civili%20e%20militari%20della%20Colonia%20Eritrea.%20002U0168.md), che approva l'ordinamento organico della Colonia Eritrea e gli organici uniti all'ordinamento stesso;
 

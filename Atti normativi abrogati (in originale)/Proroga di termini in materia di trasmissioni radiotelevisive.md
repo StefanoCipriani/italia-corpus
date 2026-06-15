@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il testo unico approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156);
+Visto il testo unico approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Vista la [legge 14 aprile 1975, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-14;103);
 
 Visto il decreto ministeriale 31 gennaio 1983, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 47 del 17 febbraio 1983;
 
-Visto il [decreto-legge 6 dicembre 1984, n. 807](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-06;807), convertito, con modificazioni, nella [legge 4 febbraio 1985, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-04;10);
+Visto il [decreto-legge 6 dicembre 1984, n. 807](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-06;807), convertito, con modificazioni, nella [legge 4 febbraio 1985, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%201984%20n.%20807%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasmissioni%20radiotelevisive.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di adottare disposizioni in materia di servizi di radiodiffusione;
 
@@ -30,7 +30,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-Il termine semestrale previsto all'[articolo 3 del decreto-legge 6 dicembre 1984, n. 807](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-06;807#art_3), convertito, con modificazioni, nella [legge 4 febbraio 1985, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-04;10), e' prorogato al 31 dicembre 1985.
+Il termine semestrale previsto all'[articolo 3 del decreto-legge 6 dicembre 1984, n. 807](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-06;807#art_3), convertito, con modificazioni, nella [legge 4 febbraio 1985, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%201984%20n.%20807%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasmissioni%20radiotelevisive.md), e' prorogato al 31 dicembre 1985.
 
 ## Art. 2.
 

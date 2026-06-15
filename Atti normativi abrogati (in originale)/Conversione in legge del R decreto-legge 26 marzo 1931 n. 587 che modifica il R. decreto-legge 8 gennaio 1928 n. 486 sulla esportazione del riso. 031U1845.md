@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 marzo 1931, n. 587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-03-26;587), che Modifica il [R. decreto-legge 8 gennaio 1928,n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-08;486), sulla esportazione del riso. 
+ E' convertito in legge il [R. decreto-legge 26 marzo 1931, n. 587](Modificazioni%20al%20R.%20decreto-legge%208%20gennaio%201928%20n.%20486%20sulla%20esportazione%20del%20riso.%20031U0587.md), che Modifica il [R. decreto-legge 8 gennaio 1928,n. 486](Determinazione%20dei%20tipi%20e%20denominazioni%20ufficiali%20di%20riso%20nazionale%20lavorato%20diretto%20allestero%20e%20applicazione%20del%20marchio%20nazionale%20di%20esportazione.%20028U0486.md), sulla esportazione del riso. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

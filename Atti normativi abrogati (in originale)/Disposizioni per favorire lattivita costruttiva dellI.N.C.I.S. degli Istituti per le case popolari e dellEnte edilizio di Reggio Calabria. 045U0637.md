@@ -34,7 +34,7 @@ E' autorizzata la spesa di lire due miliardi per l'esecuzione di lavori di ripar
 
 I lavori di cui al precedente articolo potranno essere eseguiti a cura del Ministero dei lavori pubblici su domanda degli Enti interessati. 
  
- I contratti di appalto in corso per tali lavori saranno risoluti, applicandosi le disposizioni dell'[art. 2 della legge 28 novembre 1940, n. 1772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-11-28;1772#art_2). 
+ I contratti di appalto in corso per tali lavori saranno risoluti, applicandosi le disposizioni dell'[art. 2 della legge 28 novembre 1940, n. 1772](Sospensione%20durante%20lo%20stato%20di%20guerra%20di%20opere%20pubbliche%20appaltate.%20040U1772.md). 
  
  E' in facolta' dello stesso Ministero di affidare l'esecuzione dei lavori agli Enti richiedenti qualora riconosca che essi possiedano adeguata attrezzatura tecnico-amministrativa. In tal caso i fondi saranno somministrati agli Enti costruttori in base a stato di avanzamento dei lavori, vistati dagli uffici del Genio civile, e per la rata di saldo in base al collaudo.
 

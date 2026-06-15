@@ -23,7 +23,7 @@ Al personale delle Amministrazioni dello Stato, compreso quello delle Amministra
 
 La conversione di cui al precedente articolo e' attuata mediante l'applicazione di rapporti di ragguaglio da determinare con decreti del Ministro per il tesoro per un controvalore massimo di 2 nuovi franchi per la Francia, di 3 franchi svizzeri per la Svizzera e di 15 scellini per l'Austria per ogni 100 lire dell'aliquota delle competenze da convertire.
  I rapporti di ragguaglio da determinarsi ai sensi del precedente comma possono riferirsi tanto a singoli gradi o qualifiche quanto a gruppi di gradi o qualifiche ovvero a classi di retribuzioni.
- Nulla e' innovato per quanto riguarda il trattamento da usare nei confronti delle visitatrici doganali di cui all'[articolo 1, secondo comma, del decreto legislativo 20 marzo 1948, n. 649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-20;649#art_1-com2), non inquadrate nel ruolo istituito con [legge 23 febbraio 1960, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-02-23;132).
+ Nulla e' innovato per quanto riguarda il trattamento da usare nei confronti delle visitatrici doganali di cui all'[articolo 1, secondo comma, del decreto legislativo 20 marzo 1948, n. 649](../Decreti%20Legislativi/Modificazioni%20del%20decreto%20legislativo%2031%20luglio%201947%20n.%201071%20riguardante%20la%20determinazione%20delle%20competenze%20al%20personale%20delle%20Amministrazioni%20dello%20Stato%20in%20servizio%20in%20territorio%20estero_2bd4146bceab.md), non inquadrate nel ruolo istituito con [legge 23 febbraio 1960, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-02-23;132).
 
 ## Art. 3.
 

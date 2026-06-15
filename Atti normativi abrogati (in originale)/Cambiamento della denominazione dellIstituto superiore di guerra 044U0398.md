@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'Istituto superiore della guerra, di cui all'[art. 7 della legge 9 maggio 1940, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;368#art_7), sull'ordinamento del Regio esercito, riassume la denominazione di «Scuola di guerra».
+L'Istituto superiore della guerra, di cui all'[art. 7 della legge 9 maggio 1940, n. 368](Ordinamento%20del%20Regio%20esercito.%20040U0368.md), sull'ordinamento del Regio esercito, riassume la denominazione di «Scuola di guerra».
 
 ## Art. 2.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la domanda del comune di Padova tendente ad ottenere l'approvazione del piano regolatore e di ampliamento della citta' stessa compilato dall'ufficio tecnico municipale e approvato da quel Consiglio comunale nelle adunanze 7 febbraio e 26 maggio 1923;
 
-Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e il [R. decreto 8 febbraio 1923, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;422);
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e il [R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md);
 
 Sentito il Consiglio superiore dei lavori pubblici;
 
@@ -88,7 +88,7 @@ I proprietari confinanti o contigui, i cui immobili siano resi per la esecuzione
 
 ## Art. 6.
 
-E' data al Comune la facolta' in ordine all'[articolo 34 del R. decreto 8 febbraio 1923, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;422#art_34), di espropriare oltre i terreni e i fabbricati occorrenti per l'esecuzione del piano di ampliamento e sue eventuali modificazioni tutte le zone che sono comprese ad una profondita' non superiore ai m. 50 dalle fronti delle strade, viali, piazze e giardini compresi nel piano stesso.
+E' data al Comune la facolta' in ordine all'[articolo 34 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), di espropriare oltre i terreni e i fabbricati occorrenti per l'esecuzione del piano di ampliamento e sue eventuali modificazioni tutte le zone che sono comprese ad una profondita' non superiore ai m. 50 dalle fronti delle strade, viali, piazze e giardini compresi nel piano stesso.
 
 ## Art. 7.
 

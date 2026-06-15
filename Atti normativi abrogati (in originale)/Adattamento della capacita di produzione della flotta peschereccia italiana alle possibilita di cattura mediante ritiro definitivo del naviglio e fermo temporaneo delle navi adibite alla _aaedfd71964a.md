@@ -32,7 +32,7 @@ Sono considerate prioritarie le iniziative riguardanti la demolizione, trasferim
 
 3.
 
-Il Ministro della marina mercantile, con proprio decreto, sentito il Comitato nazionale per la conservazione e la gestione delle risorse biologiche del mare, di cui all'[articolo 3 della legge 17 febbraio 1982, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41#art_3), stabilisce le norme di attuazione del presente articolo.
+Il Ministro della marina mercantile, con proprio decreto, sentito il Comitato nazionale per la conservazione e la gestione delle risorse biologiche del mare, di cui all'[articolo 3 della legge 17 febbraio 1982, n. 41](Piano%20per%20la%20razionalizzazione%20e%20lo%20sviluppo%20della%20pesca%20marittima.md), stabilisce le norme di attuazione del presente articolo.
 
 4.
 
@@ -42,7 +42,7 @@ L'onere derivante dall'attuazione del presente articolo, per l'anno 1987, e' det
 
 1.
 
-Il premio previsto dall'[articolo 21, secondo comma, lettera a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41#art_21-com2-leta) e dall'[articolo 22 della legge 17 febbraio 1982, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41#art_22), e' concesso alle stesse condizioni di cui all'articolo 1 del presente decreto alle navi da pesca la cui lunghezza tra le perpendicolari e' inferiore a dodici metri.
+Il premio previsto dall'[articolo 21, secondo comma, lettera a)](Piano%20per%20la%20razionalizzazione%20e%20lo%20sviluppo%20della%20pesca%20marittima.md) e dall'[articolo 22 della legge 17 febbraio 1982, n. 41](Piano%20per%20la%20razionalizzazione%20e%20lo%20sviluppo%20della%20pesca%20marittima.md), e' concesso alle stesse condizioni di cui all'articolo 1 del presente decreto alle navi da pesca la cui lunghezza tra le perpendicolari e' inferiore a dodici metri.
 
 2.
 
@@ -74,9 +74,9 @@ L'onere derivante dall'attuazione del presente articolo per l'anno 1987, e' dete
 
 1.
 
-Con decreto del Ministro della marina mercantile, sentito il Comitato nazionale per la conservazione e la gestione delle risorse biologiche del mare, di cui all'[articolo 3 della legge 17 febbraio 1982, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41#art_3), sono stabilite le norme di attuazione per il fermo temporaneo previsto dalla [direttiva CEE n. 515 del 4 ottobre 1983](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;515) e successive norme della Comunita' economica europea e dal presente decreto. In particolare il predetto decreto ministeriale stabilisce:
+Con decreto del Ministro della marina mercantile, sentito il Comitato nazionale per la conservazione e la gestione delle risorse biologiche del mare, di cui all'[articolo 3 della legge 17 febbraio 1982, n. 41](Piano%20per%20la%20razionalizzazione%20e%20lo%20sviluppo%20della%20pesca%20marittima.md), sono stabilite le norme di attuazione per il fermo temporaneo previsto dalla [direttiva CEE n. 515 del 4 ottobre 1983](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;515) e successive norme della Comunita' economica europea e dal presente decreto. In particolare il predetto decreto ministeriale stabilisce:
                         a)
-                            i sistemi di pesca che possono operare il fermo temporaneo. A tal fine il Ministero acquisira' anche il parere preventivo del comitato tecnico-scientifico di cui all'[articolo 6 della legge 17 febbraio 1982, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41#art_6);
+                            i sistemi di pesca che possono operare il fermo temporaneo. A tal fine il Ministero acquisira' anche il parere preventivo del comitato tecnico-scientifico di cui all'[articolo 6 della legge 17 febbraio 1982, n. 41](Piano%20per%20la%20razionalizzazione%20e%20lo%20sviluppo%20della%20pesca%20marittima.md);
                         b)
                             l'entita' del premio per il fermo temporaneo nei limiti fissati dalla direttiva comunitaria;
                         c)
@@ -93,7 +93,7 @@ Con decreto del Ministro della marina mercantile, sentito il Comitato nazionale 
 1.
 
 Al fine di consentire la sollecita attuazione degli adempimenti previsti dal presente decreto, dal [decreto-legge 17 dicembre 1986, n. 
-873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-12-17;873), convertito, con modificazioni, dalla [legge 13 febbraio 1987, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-13;26), e dalla [legge 5 dicembre 1986, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-05;856), i posti di primo dirigente del ruolo amministrativo del Ministero della marina mercantile, comunque non coperti alla data di entrata in vigore del presente decreto, sono conferiti mediante corso-concorso di formazione dirigenziale riservato ai funzionari del medesimo Ministero.
+873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-12-17;873), convertito, con modificazioni, dalla [legge 13 febbraio 1987, n. 26](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20dicembre%201986%20n.%20873%20recante%20misure%20urgenti%20per%20il%20risanamento%20delle%20gestioni%20dei%20porti%20e%20per%20lavvio%20della%20riforma%20degli%20ordina_e91f5edd6a0e.md), e dalla [legge 5 dicembre 1986, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-05;856), i posti di primo dirigente del ruolo amministrativo del Ministero della marina mercantile, comunque non coperti alla data di entrata in vigore del presente decreto, sono conferiti mediante corso-concorso di formazione dirigenziale riservato ai funzionari del medesimo Ministero.
 
 2.
 
@@ -105,7 +105,7 @@ La nomina a primo dirigente e' fatta secondo l'ordine della graduatoria formata 
 
 4.
 
-Si applicano, in quanto compatibili, le disposizioni dettate dalla [legge 10 luglio 1984, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-10;301).
+Si applicano, in quanto compatibili, le disposizioni dettate dalla [legge 10 luglio 1984, n. 301](Norme%20di%20accesso%20alla%20dirigenza%20statale.md).
 
 ## Art. 6.
 

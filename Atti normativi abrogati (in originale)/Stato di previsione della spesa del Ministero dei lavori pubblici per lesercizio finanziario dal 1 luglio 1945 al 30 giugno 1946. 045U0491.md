@@ -34,7 +34,7 @@ E' autorizzata la spesa di L. 2.000.000.000 per provvedere a cura ed a carico de
  
  E' autorizzata la spesa di L. 100.000.000 per il recupero, la riparazione e la rinnovazione dei mezzi effossori. 
  
- E' autorizzata la spesa di L. 30.000.000 per le necessita' piu' urgenti in caso di pubbliche calamita' ai sensi del [R. decreto-legge 9 dicembre 1926, n. 2389](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-09;2389), convertito nella [legge 15 marzo 1928, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-15;833). Le eventuali maggiori assegnazioni necessarie a questo titolo saranno autorizzate con decreti Luogotenenziali, su proposta del Ministro per i lavori pubblici, di concerto con quello per il tesoro. 
+ E' autorizzata la spesa di L. 30.000.000 per le necessita' piu' urgenti in caso di pubbliche calamita' ai sensi del [R. decreto-legge 9 dicembre 1926, n. 2389](Disposizioni%20per%20i%20servizi%20di%20pronto%20soccorso%20in%20caso%20di%20disastri%20tellurici%20o%20di%20altra%20natura.%20026U2389.md), convertito nella [legge 15 marzo 1928, n. 833](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20aggiunte%20e%20modifiche%20del%20R.%20decreto-legge%209%20dicembre%201926%20n.%202389%20recante%20disposizioni%20per%20i%20servizi%20di%20pronto%20soccorso%20in%20caso%20dl%20disastri%20tellurici%20o%20di%20altra%20n_6ce65c347856.md). Le eventuali maggiori assegnazioni necessarie a questo titolo saranno autorizzate con decreti Luogotenenziali, su proposta del Ministro per i lavori pubblici, di concerto con quello per il tesoro. 
  
  Tali decreti verranno comunicati alle Camere legislative unitamente al conto consuntivo.
 
@@ -42,7 +42,7 @@ E' autorizzata la spesa di L. 2.000.000.000 per provvedere a cura ed a carico de
 
 E' autorizzata la spesa di L. 4.000.000.000 per provvedere, in base alle disposizioni vigenti relative ai danni prodotti da eventi bellici, alla ricostruzione e riparazione di beni dello Stato, alla costruzione di ricoveri per i senza tetto, agli interventi d'interesse pubblico. 
  
- E' autorizzata la spesa di L. 1.500.000.000 per provvedere, in applicazione della [legge 26 ottobre 1940, n. 1543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-26;1543), alla ricostituzione di beni di enti locali, di istituzioni pubbliche di beneficenza e assistenza, di chiese parrocchiali ed assimilate, danneggiati dalla guerra. 
+ E' autorizzata la spesa di L. 1.500.000.000 per provvedere, in applicazione della [legge 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md), alla ricostituzione di beni di enti locali, di istituzioni pubbliche di beneficenza e assistenza, di chiese parrocchiali ed assimilate, danneggiati dalla guerra. 
  
  E' autorizzata altresi' la spesa di L. 1.000.000.000 per lavori a cura ed a carico dello Stato, di riparazioni di alloggi di proprieta' privata, nonche' per la concessione di contributi in capitale ai proprietari che provvedono direttamente alle riparazioni indifferibili ed urgenti ai propri fabbricati per dare alloggio ai senza tetto ai sensi del [decreto legislativo Luogotenenziale 17 novembre 1944, n. 364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-17;364) e del successivo in data 18 gennaio 1945, n. 4.
 
@@ -52,7 +52,7 @@ E' autorizzata la spesa di L. 2.000.000.000 per la esecuzione di lavori urgenti 
 
 ## Art. 5.
 
-E' autorizzata la spesa di L. 20.000.000 per far fronte agli oneri relativi a concorsi e sussidi previsti da speciali disposizioni legislative, ivi compreso il [Regio decreto-legge 30 dicembre 1923, n. 3132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3132), sulle agevolezze per la provvista di acqua potabile e per le opere d'igiene, convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e modificato col [Regio decreto-legge 16 aprile 1936, n. 937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-04-16;937), convertito nella [legge 14 gennaio 1937, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-01-14;144).
+E' autorizzata la spesa di L. 20.000.000 per far fronte agli oneri relativi a concorsi e sussidi previsti da speciali disposizioni legislative, ivi compreso il [Regio decreto-legge 30 dicembre 1923, n. 3132](Agevolezze%20per%20la%20provvista%20di%20acqua%20potabile%20e%20per%20le%20opere%20di%20igiene.%20023U3132.md), sulle agevolezze per la provvista di acqua potabile e per le opere d'igiene, convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e modificato col [Regio decreto-legge 16 aprile 1936, n. 937](Abolizione%20dei%20limiti%20dimpegno%20speciali%20per%20la%20concessione%20di%20sussidi%20in%20capitale%20nellesecuzione%20di%20opere%20igieniche.%20036U0937.md), convertito nella [legge 14 gennaio 1937, n. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20aprile%201936-XVI%20I.%20937%20che%20abolisce%20i%20limiti%20dimpegno%20speciali%20per%20la%20concessione%20di%20sussidi%20in%20capitale%20nellesecuzione%20di%20opere%20igieniche.%20037U0144.md).
 
 ## Art. 6.
 
@@ -66,7 +66,7 @@ Le somme inscritte nello stato di previsione annesso al presente decreto nell'im
 
 ## Art. 8.
 
-Il termine del funzionamento dei «Provveditorati alle opere pubbliche » con sede in Palermo e in Cagliari, gia' prorogato al 30 giugno 1945 con la [legge 2 aprile 1940, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-04-02;332), sara' quello in cui cesseranno di aver vigore le disposizioni di cui al [decreto legislativo Luogotenenziale 18 gennaio 1945, n. 16](Istituzione%20dei%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0016.md), istitutivo dei Provveditorati regionali alle opere pubbliche. 
+Il termine del funzionamento dei «Provveditorati alle opere pubbliche » con sede in Palermo e in Cagliari, gia' prorogato al 30 giugno 1945 con la [legge 2 aprile 1940, n. 332](Proroga%20del%20termine%20del%20funzionamento%20dei%20Provveditorati%20alle%20opere%20pubbliche%20con%20sede%20in%20Palermo%20e%20Cagliari%20ed%20aumento%20dei%20componenti%20il%20Comitato%20tecnico-amministrativo%20del%20Provveditorat_f1e62f0b8f36.md), sara' quello in cui cesseranno di aver vigore le disposizioni di cui al [decreto legislativo Luogotenenziale 18 gennaio 1945, n. 16](Istituzione%20dei%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0016.md), istitutivo dei Provveditorati regionali alle opere pubbliche. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  

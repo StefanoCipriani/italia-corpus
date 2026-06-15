@@ -10,9 +10,9 @@ vigente: true
 
 ## Art. 1.
 
-Nel caso in cui uno dei Comuni elencati nella tabella annessa al [decreto-legge 13 marzo 1927, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1927-03-13;431), sia cancellato dalla tabella stessa o sia trasportato dalla prima alla seconda categoria, il contributo dello Stato dovra' essere calcolato applicando i coefficienti di maggiorazione di cui all'[art. 69 del R. decreto-legge 13 marzo 1927, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-13;431#art_69), relativi rispettivamente ai Comuni non compresi nell'elenco od a quelli compresi nella nuova categoria. 
+Nel caso in cui uno dei Comuni elencati nella tabella annessa al [decreto-legge 13 marzo 1927, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1927-03-13;431), sia cancellato dalla tabella stessa o sia trasportato dalla prima alla seconda categoria, il contributo dello Stato dovra' essere calcolato applicando i coefficienti di maggiorazione di cui all'[art. 69 del R. decreto-legge 13 marzo 1927, n. 431](Norme%20tecniche%20ed%20igieniche%20di%20edilizia%20per%20le%20localita%20colpite%20dai%20terremoti.%20027U0431.md), relativi rispettivamente ai Comuni non compresi nell'elenco od a quelli compresi nella nuova categoria. 
  
- La disposizione di cui al primo comma del presente articolo non si applica ai lavori ultimati alla data di pubblicazione del provvedimento ministeriale di cambiamento di classificazione, siano o non collaudati, ne' alle nuove opere in corso alla stessa data, purche' risultino eseguiti lavori fino al piano di calpestio del piano terreno e la costruzione o la riparazione venga completata in base al progetto gia' approvato secondo le norme di cui al [R. decreto legge 13 marzo 1927, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-13;431). 
+ La disposizione di cui al primo comma del presente articolo non si applica ai lavori ultimati alla data di pubblicazione del provvedimento ministeriale di cambiamento di classificazione, siano o non collaudati, ne' alle nuove opere in corso alla stessa data, purche' risultino eseguiti lavori fino al piano di calpestio del piano terreno e la costruzione o la riparazione venga completata in base al progetto gia' approvato secondo le norme di cui al [R. decreto legge 13 marzo 1927, n. 431](Norme%20tecniche%20ed%20igieniche%20di%20edilizia%20per%20le%20localita%20colpite%20dai%20terremoti.%20027U0431.md). 
  
  I proprietari di fabbricati in corso di costruzione o di riparazione, o gia' ultimati e non collaudati, dovranno far denunzia dello stato dei lavori al competente ufficio del Genio civile ed alla Intendenza di finanza, entro trenta giorni dalla data di pubblicazione del provvedimento ministeriale di cui innanzi, mediante biglietto postale raccomandato, con ricevuta di ritorno. 
  
@@ -26,7 +26,7 @@ Per il comune di Carrara la denunzia di cui al terzo comma del precedente artico
 
 ## Art. 3.
 
-All'[art. 3 del R. decreto-legge 17 marzo 1927, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-17;334#art_3), e' sostituito il seguente: 
+All'[art. 3 del R. decreto-legge 17 marzo 1927, n. 334](Provvedimenti%20in%20seguito%20della%20nuova%20circoscrizione%20provinciale%20per%20la%20esecuzione%20di%20lavori%20nelle%20zone%20terremotate.%20027U0334.md), e' sostituito il seguente: 
  
  «I lavori di costruzione e di riparazione da eseguirsi dai danneggiati con i contributi depositati dall'Unione edilizia nazionale presso la Cassa depositi e prestiti entro il 30 giugno 1929, dovranno essere eseguiti e completati entro il 30 giugno 1930, sotto comminatoria di decadenza. 
  
@@ -38,13 +38,13 @@ All'[art. 3 del R. decreto-legge 17 marzo 1927, n. 334](https://www.normattiva.i
 
 ## Art. 4.
 
-I documenti necessari per dimostrare il diritto a contributo, richiesti a norma del [R. decreto-legge 26 febbraio 1928, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-26;457), debbono essere presentati, a pena di decadenza dai benefici di legge, entro il 30 giugno 1930 alle Intendenze di finanza o al Ministero delle finanze od agli Istituti mutuanti. 
+I documenti necessari per dimostrare il diritto a contributo, richiesti a norma del [R. decreto-legge 26 febbraio 1928, n. 457](Provvedimenti%20in%20materia%20di%20terremoti.%20028U0457.md), debbono essere presentati, a pena di decadenza dai benefici di legge, entro il 30 giugno 1930 alle Intendenze di finanza o al Ministero delle finanze od agli Istituti mutuanti. 
  
- Nulla e' modificato per la dimostrazione del possesso legittimo delle aree nonche' per quanto riflette la documentazione delle domande di contributo relative ai fabbricati indicati negli [articoli 2 del R. decreto-legge 19 dicembre 1926, n. 2178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-19;2178#art_2), e 12 del [R. decreto-legge 26 febbraio 1928, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-26;457).
+ Nulla e' modificato per la dimostrazione del possesso legittimo delle aree nonche' per quanto riflette la documentazione delle domande di contributo relative ai fabbricati indicati negli [articoli 2 del R. decreto-legge 19 dicembre 1926, n. 2178](Provvedimenti%20a%20favore%20dei%20danneggiati%20dai%20terremoti.%20026U2178.md), e 12 del [R. decreto-legge 26 febbraio 1928, n. 457](Provvedimenti%20in%20materia%20di%20terremoti.%20028U0457.md).
 
 ## Art. 5.
 
-Coloro che, avendo devoluto a suo tempo il contributo alla cessata Unione edilizia nazionale, intendono ottenere, a costruzione ultimata, a norma dell'[art. 11 del R. decreto-legge 17 gennaio 1924, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-01-17;74#art_11), la concessione dell'ulteriore quota del contributo a somministrazione rateale, debbono farne, a pena di decadenza, domanda direttamente al Ministero delle finanze, entro tre mesi dalla data del collaudo dei lavori.
+Coloro che, avendo devoluto a suo tempo il contributo alla cessata Unione edilizia nazionale, intendono ottenere, a costruzione ultimata, a norma dell'[art. 11 del R. decreto-legge 17 gennaio 1924, n. 74](Autorizzazione%20allUnione%20edilizia%20nazionale%20per%20il%20deposito%20presso%20la%20Cassa%20depositi%20e%20prestiti%20di%20contributi%20scontati.%20024U0074.md), la concessione dell'ulteriore quota del contributo a somministrazione rateale, debbono farne, a pena di decadenza, domanda direttamente al Ministero delle finanze, entro tre mesi dalla data del collaudo dei lavori.
 
 ## Art. 6.
 
@@ -54,7 +54,7 @@ Le domande di contributo presentate entro il 31 marzo 1927, invece che al Minist
 
 ## Art. 7.
 
-Ai danneggiati delle Isole Eolie dal terremoto del 17 agosto 1926 e' data facolta' di completare la documentazione delle domande di mutuo o di contributo presentate entro termine previsto dal [R. decreto-legge 19 agosto 1927, n. 1899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-19;1899), entro il 30 giugno 1930.
+Ai danneggiati delle Isole Eolie dal terremoto del 17 agosto 1926 e' data facolta' di completare la documentazione delle domande di mutuo o di contributo presentate entro termine previsto dal [R. decreto-legge 19 agosto 1927, n. 1899](Estensione%20ai%20comuni%20di%20Malfa%20Leni%20e%20Santa%20Maria%20dellisola%20Salina%20Eolie%20colpiti%20dal%20terremoto%20del%2017%20agosto%201926%20dei%20benefici%20di%20cui%20al%20testo%20unico%2019%20agosto%201917%20n.%201399.%20027U1899.md), entro il 30 giugno 1930.
 
 ## Art. 8.
 

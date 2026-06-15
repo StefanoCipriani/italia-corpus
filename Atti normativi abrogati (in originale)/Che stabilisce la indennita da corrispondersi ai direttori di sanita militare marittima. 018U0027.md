@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 5 luglio 1882, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-07-05;853) (serie 3ª) sugli stipendi ed assegni fissi per i corpi militari; 
+ Vista la [legge 5 luglio 1882, n. 853](Riflettente%20gli%20stipendi%20ed%20assegni%20fissi%20per%20gli%20ufficiali%20ed%20impiegati%20della%20regia%20marina.%20082U0853.md) (serie 3ª) sugli stipendi ed assegni fissi per i corpi militari; 
  
  Vidi i Regi decreti 26 giugno 1887 e 8 luglio 1888 sulle indennita' di carica ai direttori di sanita' ed ai vice direttori di ospedali militari marittimi; 
  

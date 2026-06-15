@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e successive disposizioni;
 
-Visto il [regio decreto-legge 21 novembre 1938, n. 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-21;2010), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), col quale fu istituito il Consorzio dell'Adda, ente autonomo per la costruzione, la manutenzione e l'esercizio dell' opera regolatrice dell'invaso del lago di Como;
+Visto il [regio decreto-legge 21 novembre 1938, n. 2010](Istituzione%20con%20sede%20in%20Milano%20del%20Consorzio%20dellAdda%20per%20la%20costrizione%20la%20manutenzione%20e%20lesercizio%20dellopera%20regolatrice%20del%20lago%20di%20Como.%20038U2010.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), col quale fu istituito il Consorzio dell'Adda, ente autonomo per la costruzione, la manutenzione e l'esercizio dell' opera regolatrice dell'invaso del lago di Como;
 
 Visto il decreto-legge luogotenenziale 25 giugno 1044, n. 151;
 

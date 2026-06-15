@@ -34,7 +34,7 @@ Con successivo decreto Reale, su proposta del Ministro per i lavori pubblici, se
 
 ## Art. 3.
 
-Per la costruzione delle ferrovie comprese nel programmi di cui al precedente articolo, lo Stato corrispondera' in somma capitale ai rispettivi concessionari, in base a regolari certificati di avanzamento, l'importo percentuale dei relativi lavori, ragguagliato al preventivo di ciascuna linea entro i limiti della spesa complessiva di L. 190,000,000, la quale fara' carico sulle apposite assegnazioni stabilite con la tabella annessa al [R. decreto 19 marzo 1925, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-19;266), integrate mediante un prelevamento di L. 65,000,000 dal fondo di riserva per le spese della categoria I, costituito col decreto stesso.
+Per la costruzione delle ferrovie comprese nel programmi di cui al precedente articolo, lo Stato corrispondera' in somma capitale ai rispettivi concessionari, in base a regolari certificati di avanzamento, l'importo percentuale dei relativi lavori, ragguagliato al preventivo di ciascuna linea entro i limiti della spesa complessiva di L. 190,000,000, la quale fara' carico sulle apposite assegnazioni stabilite con la tabella annessa al [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), integrate mediante un prelevamento di L. 65,000,000 dal fondo di riserva per le spese della categoria I, costituito col decreto stesso.
 
 ## Art. 4.
 

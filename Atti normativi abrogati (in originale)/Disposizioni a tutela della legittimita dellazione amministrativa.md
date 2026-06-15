@@ -116,7 +116,7 @@ Quando ricorrono le condizioni di cui al comma 1 e risulta gia' pendente il giud
 
 9.
 
-Qualora nel corso di un giudizio amministrativo che sia promosso ai sensi del comma 1, ovvero si svolga ai sensi del comma 8, il giudice ravvisi fatti penalmente rilevanti, ne da' immediata comunicazione al procuratore della Repubblica presso il giudice competente. Qualora, nel corso di un procedimento penale, l'ufficio giudiziario procedente ritenga che sussista l'illegittimita' di atti o provvedimenti amministrativi dei quali abbia preso conoscenza, ne da' parimenti comunicazione immediata al procuratore regionale presso la Corte dei conti, fermo restando quanto previsto dall'[articolo 129, comma 3, del decreto legislativo 28 luglio 1989, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;271#art_129-com3), recante norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).
+Qualora nel corso di un giudizio amministrativo che sia promosso ai sensi del comma 1, ovvero si svolga ai sensi del comma 8, il giudice ravvisi fatti penalmente rilevanti, ne da' immediata comunicazione al procuratore della Repubblica presso il giudice competente. Qualora, nel corso di un procedimento penale, l'ufficio giudiziario procedente ritenga che sussista l'illegittimita' di atti o provvedimenti amministrativi dei quali abbia preso conoscenza, ne da' parimenti comunicazione immediata al procuratore regionale presso la Corte dei conti, fermo restando quanto previsto dall'[articolo 129, comma 3, del decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).
 
 10.
 
@@ -126,7 +126,7 @@ Nei procedimenti giurisdizionali amministrativi di cui al presente articolo si o
 
 1.
 
-Agli amministratori e dipendenti delle pubbliche amministrazioni si applicano le disposizioni dell'[articolo 58, comma 4, della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_58-com4), e successive modificazioni e integrazioni.
+Agli amministratori e dipendenti delle pubbliche amministrazioni si applicano le disposizioni dell'[articolo 58, comma 4, della legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md), e successive modificazioni e integrazioni.
 
 ## Art. 5. — Obblighi di denuncia
 

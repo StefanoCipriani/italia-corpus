@@ -10,9 +10,9 @@ vigente: true
 
 IL MINISTRO DI GRAZIA E GIUSTIZIA
 
-Visto il [decreto legislativo 12 maggio 1995, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;200), recante: "Attuazione dell'[articolo 3 della legge 6 marzo 1992, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216#art_3), in materia di riordino delle carriere del personale non direttivo del Corpo di polizia penitenziaria";
+Visto il [decreto legislativo 12 maggio 1995, n. 200](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20del%20Corpo%20di%20polizia%20penitenziaria.md), recante: "Attuazione dell'[articolo 3 della legge 6 marzo 1992, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), in materia di riordino delle carriere del personale non direttivo del Corpo di polizia penitenziaria";
 
-Visto l'[articolo 16 del decreto legislativo 30 ottobre 1992, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443#art_16), cosi' come modificato dal decreto legislativo 12 maggio 1995, n.
+Visto l'[articolo 16 del decreto legislativo 30 ottobre 1992, n. 443](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20di%20polizia%20penitenziaria%20a%20norma%20dellart.%2014%20comma%201%20della%20legge%2015%20dicembre%201990%20n.%20395.md), cosi' come modificato dal decreto legislativo 12 maggio 1995, n.
 
 200;
 
@@ -39,15 +39,15 @@ Capo I
 La nomina alla qualifica iniziale del ruolo dei sovrintendenti del Corpo della polizia penitenziaria si consegue, nel limite del 30% dei posti disponibili al 31 dicembre di ciascun anno, mediante concorso interno per esame teoricopratico e superamento del successivo corso di formazione tecnicoprofessionale di cui all'articolo 8, riservato agli appartenenti al ruolo degli assistenti ed agenti che abbiano compiuto almeno quattro anni di effettivo servizio.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  
  Note alle premesse: 
- - Il testo del [D.Lgs. 12 maggio 1995, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;200), e' pubblicato nel supplemento ordinario alla Gazzetta 
+ - Il testo del [D.Lgs. 12 maggio 1995, n. 200](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20del%20Corpo%20di%20polizia%20penitenziaria.md), e' pubblicato nel supplemento ordinario alla Gazzetta 
  Ufficiale n. 122 del 27 maggio 1995. 
  - Il testo dell'[art. 3 della legge 6 marzo 1992, n. 
- 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216#art_3), e' il seguente: 
+ 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), e' il seguente: 
  "Art. 3. - 1. Il Governo della Repubblica e' delegato ad emanare, entro il 31 dicembre 1992, su proposta, rispettivamente, dei Ministri dell'interno, della difesa, delle finanze, di grazia e giustizia e dell'agricoltura e delle foreste, di concerto con i Ministri per la funzione pubblica e del tesoro, decreti legislativi contenenti le necessarie modificazioni agli ordinamenti del personale indicato nell'art. 2, comma 1, con esclusione dei dirigenti e direttivi e gradi corrispondenti, per il riordino delle carriere, delle attribuzioni e dei trattamenti economici, allo scopo di conseguire una disciplina omogenea, fermi restando i rispettivi compiti istituzionali, le norme fondamentali di stato, nonche' le attribuzioni delle autorita' di pubblica sicurezza, previsti dalle vigenti disposizioni di legge. Per il personale delle Forze di polizia i decreti legislativi sono adottati sempre su proposta dei Ministri interessati e con la concertazione del Ministro dell'interno. 
  2. Gli schemi di decreto legislativo saranno trasmessi alle organizzazioni sindacali del personale interessato maggiormente rappresentative sul piano nazionale e agli organismi di rappresentanza del personale militare, perche' possano esprimere il proprio parere entro il termine di trenta giorni dalla ricezione degli schemi stessi, trascorso il quale il parere si intende favorevole. Essi saranno, inoltre, trasmessi, almeno tre mesi prima della scadenza del termine di cui al comma 1, al Parlamento affinche' le competenti commissioni permanenti della Camera dei deputati e del Senato della Repubblica esprimano il proprio parere secondo le modalita' di cui all'[art. 24, 
  comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_24-com2). 
@@ -56,7 +56,7 @@ Avvertenza:
  b) l'accesso a ruoli, gradi e qualifiche superiori sia riservato, fino al limite massimo del 30 per cento dei posti disponibili e mediante concorso interno, per titoli ed esami, al personale appartenente al ruolo, grado o qualifica immediatamente sottostante in possesso di determinate anzianita' di servizio, anche se privo del prescritto titolo di studio. Il limite predetto puo' essere diversamente definito per il solo accesso dai ruoli degli assistenti e degli agenti ed equiparati a quello immediatamente superiore. Con i medesimi decreti legislativi saranno altresi' previste le occorrenti disposizioni transitorie. 
  4. Al personale che, alla data di entrata in vigore della presente legge, riveste la qualifica di agente o equiparata e' attribuito, a decorrere dal 1 gennaio 1993, il trattamento economico corrispondente al quinto livello retributivo. A decorrere dalla stessa data e' inoltre attribuito il trattamento economico corrispondente al sesto livello retributivo agli assistenti capo o equiparati in possesso della qualifica di ufficiale di polizia giudiziaria, previa collocazione degli stessi in posizione transitoria fino alla istituzione di apposito ruolo, anche ad esaurimento. Al personale con qualifica di agente, di agente scelto e di assistente capo ufficiale di polizia giudiziaria e con qualifiche o gradi equiparati e' corrisposta, per l'anno 1992, una somma una tantum non superiore a L. 500.000 per ciascuno. 
  5. Fermo restando quanto stabilito dal comma 4, l'onere relativo all'attuazione delle disposizioni di cui ai commi 1 e 3 non puo' superare il limite di spesa di 30.000 milioni di lire in ragione d'anno, a decorrere dal 1993". 
- - Il testo dell'[art. 16 del D.Lgs. 30 ottobre 1992, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443#art_16) (Ordinamento del personale del Corpo di polizia penitenziaria, a norma dell'[art. 14, comma 1, 
+ - Il testo dell'[art. 16 del D.Lgs. 30 ottobre 1992, n. 443](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20di%20polizia%20penitenziaria%20a%20norma%20dellart.%2014%20comma%201%20della%20legge%2015%20dicembre%201990%20n.%20395.md) (Ordinamento del personale del Corpo di polizia penitenziaria, a norma dell'[art. 14, comma 1, 
  delle legge 15 dicembre 1990, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;395#art_14-com1)), e' il seguente: 
  "Art. 16 (Nomina a vice sovrintendente). - 1. La nomina alla qualifica iniziale del ruolo dei sovrintendenti si consegue: 
  a) nel limite del trenta per cento dei posti disponibili al 31 dicembre di ciascun anno, mediante concorso interno pe r esame teoricopratico e superamento di un successivo corso di formazione tecnicoprofessionale, di durata non inferiore a tre mesi. Al concorso sono ammessi gli appartenenti al ruolo degli assistenti ed agenti che abbiano compiuto alla stessa data almeno quattro anni di effettivo servizio e non abbiano riportato, nei due anni precedenti, sanzioni disciplinari piu' gravi della deplorazione; 
@@ -83,13 +83,13 @@ Avvertenza:
  c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati; 
  d) indicazione e revisione periodica della consistenza delle piante organiche; 
  e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali". 
- - Il testo del [D.P.R. 9 maggio 1994, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487) (Regolamento recante norme sull'accesso agli impieghi nelle pubbliche amministrazioni e le modalita' di svolgimento dei concorsi, dei concorsi unici e delle altre forme di assunzione nei pubblici impieghi), e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 185 del 9 agosto 1994.
+ - Il testo del [D.P.R. 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md) (Regolamento recante norme sull'accesso agli impieghi nelle pubbliche amministrazioni e le modalita' di svolgimento dei concorsi, dei concorsi unici e delle altre forme di assunzione nei pubblici impieghi), e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 185 del 9 agosto 1994.
 
 ### Art. 2. — Prove d'esame
 
 1.
 
-I candidati in possesso dei requisiti previsti dall'[articolo 16, comma 1, lettera a), del decreto legislativo 30 ottobre 1992, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443#art_16-com1-leta), sono chiamati a sostenere una prova scritta concernente la trattazione di un argomento attinente ai servizi penitenziari avente ad oggetto una parte teorica, la redazione di un atto relativo alla futura attivita' del sovrintendente e un colloquio al quale sono ammessi i candidati che hanno riportato una votazione non inferiore a sei decimi nella prova scritta.
+I candidati in possesso dei requisiti previsti dall'[articolo 16, comma 1, lettera a), del decreto legislativo 30 ottobre 1992, n. 443](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20di%20polizia%20penitenziaria%20a%20norma%20dellart.%2014%20comma%201%20della%20legge%2015%20dicembre%201990%20n.%20395.md), sono chiamati a sostenere una prova scritta concernente la trattazione di un argomento attinente ai servizi penitenziari avente ad oggetto una parte teorica, la redazione di un atto relativo alla futura attivita' del sovrintendente e un colloquio al quale sono ammessi i candidati che hanno riportato una votazione non inferiore a sei decimi nella prova scritta.
 
 2.
 
@@ -160,7 +160,7 @@ La nomina alla qualifica iniziale del ruolo dei sovrintendenti nel Corpo di poli
 
 1.
 
-Il personale in possesso dei requisiti previsti dall'[articolo 16, comma 1, lettera b), del decreto legislativo 30 ottobre 1992, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443#art_16-com1-letb), e' chiamato a sostenere una selezione consistente in risposte ad un questionario articolato su domande tendenti ad accertare il grado di preparazione culturale e professionale dei candidati.
+Il personale in possesso dei requisiti previsti dall'[articolo 16, comma 1, lettera b), del decreto legislativo 30 ottobre 1992, n. 443](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20di%20polizia%20penitenziaria%20a%20norma%20dellart.%2014%20comma%201%20della%20legge%2015%20dicembre%201990%20n.%20395.md), e' chiamato a sostenere una selezione consistente in risposte ad un questionario articolato su domande tendenti ad accertare il grado di preparazione culturale e professionale dei candidati.
 
 2.
 
@@ -215,7 +215,7 @@ Per supplire ad eventuali temporanee assenze o impedimenti di uno dei componenti
 
 1.
 
-I vincitori del concorso ed i candidati che hanno superato la selezione, frequentano il corso di formazione tecnicoprofessionale, della durata di cinque mesi, comprensivi di un periodo di "formazione in sede lavoro", previsto dall'[articolo 16 del decreto legislativo 30 ottobre 1992, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443#art_16).
+I vincitori del concorso ed i candidati che hanno superato la selezione, frequentano il corso di formazione tecnicoprofessionale, della durata di cinque mesi, comprensivi di un periodo di "formazione in sede lavoro", previsto dall'[articolo 16 del decreto legislativo 30 ottobre 1992, n. 443](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20di%20polizia%20penitenziaria%20a%20norma%20dellart.%2014%20comma%201%20della%20legge%2015%20dicembre%201990%20n.%20395.md).
 
 2.
 
@@ -231,7 +231,7 @@ Il personale che ha superato gli esami di fine corso ottiene la nomina nella qua
 
 5.
 
-I vice sovrintendenti nominati in attuazione dell'[articolo 16, comma 1, lettera b), del decreto legislativo 30 ottobre 1992, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443#art_16-com1-letb), seguono nel ruolo quelli nominati in attuazione dell'[articolo 16, comma 1, lettera a), del decreto legislativo 30 ottobre 1992, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443#art_16-com1-leta).
+I vice sovrintendenti nominati in attuazione dell'[articolo 16, comma 1, lettera b), del decreto legislativo 30 ottobre 1992, n. 443](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20di%20polizia%20penitenziaria%20a%20norma%20dellart.%2014%20comma%201%20della%20legge%2015%20dicembre%201990%20n.%20395.md), seguono nel ruolo quelli nominati in attuazione dell'[articolo 16, comma 1, lettera a), del decreto legislativo 30 ottobre 1992, n. 443](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20di%20polizia%20penitenziaria%20a%20norma%20dellart.%2014%20comma%201%20della%20legge%2015%20dicembre%201990%20n.%20395.md).
 
 Nota all'art. 8:
  - Per il testo dell'[art. 16 del D.Lgs. n. 443/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;443#art_16), vedasi nelle note alle premesse.
@@ -240,7 +240,7 @@ Nota all'art. 8:
 
 1.
 
-Per quanto non previsto dal presente decreto si applicano le disposizioni del [decreto legislativo 30 ottobre 1992, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443), ed, in quanto compatibili, le disposizioni del [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487), e successive modifiche ed integrazioni.
+Per quanto non previsto dal presente decreto si applicano le disposizioni del [decreto legislativo 30 ottobre 1992, n. 443](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20di%20polizia%20penitenziaria%20a%20norma%20dellart.%2014%20comma%201%20della%20legge%2015%20dicembre%201990%20n.%20395.md), ed, in quanto compatibili, le disposizioni del [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modifiche ed integrazioni.
  Il presente decreto, munito del sigillo di Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
  Roma, 30 dicembre 1998
  Il Ministro: Diliberto Visto, il Guardasigilli: Diliberto

@@ -78,7 +78,7 @@ Il Consorzio decade dal diritto, di cui all'art.2, qualora non abbia iniziato gl
 
 In caso di opposizione del titolare della filanda requisita o di chiunque altro alla presa di possesso di essa da parte del Consorzio autorizzato, questi puo' richiedere al prefetto l'esecuzione d'ufficio, la quale avverra' a spese del titolare suddetto. 
  
- I responsabili della opposizione saranno altresi' puniti a norma dell'[art. 434 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_434), senza pregiudizio delle eventuali loro maggiori responsabilita'.
+ I responsabili della opposizione saranno altresi' puniti a norma dell'[art. 434 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle eventuali loro maggiori responsabilita'.
 
 ## Art. 12.
 

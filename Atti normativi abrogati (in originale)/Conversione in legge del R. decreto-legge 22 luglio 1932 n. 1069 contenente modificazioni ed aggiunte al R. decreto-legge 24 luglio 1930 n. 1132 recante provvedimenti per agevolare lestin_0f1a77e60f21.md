@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 luglio 1932, n. 1069](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-07-22;1069), contenente modificazioni ed aggiunte al [Regio decreto-legge 24 luglio 1930, n. 1132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-24;1132), recante provvedimenti per agevolare l'estinzione o la trasformazione di passivita' agrarie onerose. 
+ E' convertito in legge il [R. decreto-legge 22 luglio 1932, n. 1069](Modifiche%20ed%20aggiunte%20al%20R.%20decreto-legge%2024%20luglio%201930%20n.%201132%20circa%20provvidenze%20dirette%20ad%20agevolare%20la%20estinzione%20o%20trasformazione%20di%20passivita%20agrarie%20onerose.%20032U1069.md), contenente modificazioni ed aggiunte al [Regio decreto-legge 24 luglio 1930, n. 1132](Provvedimenti%20per%20agevolare%20lestinzione%20di%20passivita%20agrarie%20onerose.%20030U1132.md), recante provvedimenti per agevolare l'estinzione o la trasformazione di passivita' agrarie onerose. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il direttore capo di divisione delle cancellerie e segreterie, in caso di impedimento sara' sostituito nella Commissione centrale istituita presso il Ministero di grazia e giustizia dall'[art. 10 della legge 13 luglio 1911, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;720#art_10), da un capo sezione della divisione stessa. 
+Il direttore capo di divisione delle cancellerie e segreterie, in caso di impedimento sara' sostituito nella Commissione centrale istituita presso il Ministero di grazia e giustizia dall'[art. 10 della legge 13 luglio 1911, n. 720](Per%20il%20riordinamento%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20011U0720.md), da un capo sezione della divisione stessa. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

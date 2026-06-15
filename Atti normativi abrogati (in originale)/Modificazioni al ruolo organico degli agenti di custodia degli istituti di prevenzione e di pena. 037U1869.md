@@ -16,11 +16,11 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 23 dicembre 1920, n. 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-23;1921);
+Visto il [R. decreto 23 dicembre 1920, n. 1921](Che%20approva%20il%20regolamento%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20020U1921.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [R. decreto 31 dicembre 1923, n. 2973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2973);
+Visto il [R. decreto 31 dicembre 1923, n. 2973](Autorizzazione%20al%20Ministro%20per%20la%20giustizia%20di%20assumere%20in%20servizio%20provvisorio%20il%20personale%20aggregato%20e%20di%20custodia%20occorrente%20per%20il%20funzionamento%20degli%20stabilimenti%20carcerari%20nelle%20nuo_1e7f9e63bd7c.md);
 
 Vista la [legge 9 giugno 1927, n. 905](Vigilanza%20esterna%20degli%20stabilimenti%20carcerari%20da%20affidarsi%20agli%20agenti%20di%20custodia.%20027U0905.md);
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2105), contenente disposizioni per l'istruzione superiore. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2105](Disposizioni%20per%20listruzione%20superiore.%20027U2105.md), contenente disposizioni per l'istruzione superiore. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

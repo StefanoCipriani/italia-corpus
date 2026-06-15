@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445);
- Visto il [decreto-legge luogotenenziale 30 giugno 1918, n. 1019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1918-06-30;1019);
+ Visto il [decreto-legge luogotenenziale 30 giugno 1918, n. 1019](Che%20apporta%20modificazioni%20ed%20aggiunte%20al%20decreto-legge%20Luogotenenziale%204%20ottobre%201917%20n.%201679%20recante%20provvedimenti%20per%20opere%20pubbliche%20a%20favore%20delle%20provincie%20di%20Aquila%20Avellino%20Beneven_8d868b951bc9.md);
  Visto il voto del [Consiglio superiore dei lavori pubblici, in data 14 gennaio 1947, n. 93/1583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.superiore.lavori.pubblici::1947-01-14;1583);
  Sulla proposta del Ministro Segretario di Stato per i lavori pubblici;
 

@@ -30,11 +30,11 @@ E' autorizzato il pagamento delle spese ordinarie e straordinarie del Ministero 
 
 ## Art. 2.
 
-L'Amministrazione delle ferrovie dello Stato e' autorizzata ad accertare e riscuotere le entrate ed a far pagare le spese concernenti l'esercizio finanziario dal 1° luglio 1945 al 30 giugno 1946, ai termini della [legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429), in conformita' dello stato di previsione allegato al presente decreto (Appendice n. 1).
+L'Amministrazione delle ferrovie dello Stato e' autorizzata ad accertare e riscuotere le entrate ed a far pagare le spese concernenti l'esercizio finanziario dal 1° luglio 1945 al 30 giugno 1946, ai termini della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), in conformita' dello stato di previsione allegato al presente decreto (Appendice n. 1).
 
 ## Art. 3.
 
-L'ammontare del Fondo di dotazione delle ferrovie dello Stato, di cui all'[art. 17 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_17), rimane stabilito, per l'esercizio finanziario 1945-46 in L. 900.000.000. 
+L'ammontare del Fondo di dotazione delle ferrovie dello Stato, di cui all'[art. 17 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), rimane stabilito, per l'esercizio finanziario 1945-46 in L. 900.000.000. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  
  Dato a Roma, addi' 10 agosto 1945 

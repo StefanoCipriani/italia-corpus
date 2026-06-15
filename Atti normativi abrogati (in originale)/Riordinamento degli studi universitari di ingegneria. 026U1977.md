@@ -122,7 +122,7 @@ Gli allievi che, in anno scolastico precedente quello 1926-1927, furono iscritti
 
 ## Art. 14.
 
-Coloro che abbiano conseguito o conseguiranno entro il 31 dicembre 1926 la laurea in ingegneria saranno ammessi, all'esame di Stato per l'abilitazione alla professione di ingegnere secondo le disposizioni del [R. decreto 31 dicembre 1923, n. 2909](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909). 
+Coloro che abbiano conseguito o conseguiranno entro il 31 dicembre 1926 la laurea in ingegneria saranno ammessi, all'esame di Stato per l'abilitazione alla professione di ingegnere secondo le disposizioni del [R. decreto 31 dicembre 1923, n. 2909](Disposizioni%20concernenti%20gli%20esami%20di%20Stato.%20023U2909.md). 
  
  Posteriormente al 31 dicembre 1926 non potranno essere rilasciate lauree in ingegneria se non a coloro che abbiano soddisfatto le condizioni di cui all'ultimo comma dell'articolo 10 del presente decreto.
 

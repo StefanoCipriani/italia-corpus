@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 6 settembre 1923, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-06;2009), sul servizio degli osservatori industriali;
+Visto il [R. decreto 6 settembre 1923, n. 2009](Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md), sul servizio degli osservatori industriali;
 
-Visto il [R. decreto 20 dicembre 1923, n. 2957](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-20;2957), sull'ordinamento della Commissione Suprema di difesa ed i successivi decreti 4 gennaio 1925, n. 123, e 15 ottobre 1925, n. 2281;
+Visto il [R. decreto 20 dicembre 1923, n. 2957](Ordinamento%20definitivo%20della%20Commissione%20Suprema%20di%20difesa.%20023U2957.md), sull'ordinamento della Commissione Suprema di difesa ed i successivi decreti 4 gennaio 1925, n. 123, e 15 ottobre 1925, n. 2281;
 
 Ritenuta la necessita' urgente ed assoluta di disciplinare la fabbricazione di prodotti fondamentali alla difesa della Nazione;
 

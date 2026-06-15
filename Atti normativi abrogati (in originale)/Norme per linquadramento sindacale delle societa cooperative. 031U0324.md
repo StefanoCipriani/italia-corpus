@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni, di c
 
 ## Art. 1.
 
-Le Associazioni di imprese cooperative, di cui all'[art. 8 del R. decreto 1° luglio 1926, n. 1130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1130#art_8), costituiscono Federazioni nazionali di categoria. 
+Le Associazioni di imprese cooperative, di cui all'[art. 8 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), costituiscono Federazioni nazionali di categoria. 
  Esse hanno lo scopo di tutela degli interessi delle imprese aderenti nonche' di assistenza, di istruzione e di educazione, di incoraggiamento e perfezionamento della produzione e, agli effetti sindacali, esercitano le attribuzioni indicate nell'art. 2 del presente decreto.
 
 ## Art. 2.
@@ -41,7 +41,7 @@ Degli organi direttivi delle Federazioni di imprese cooperative fa parte un rapp
 
 ## Art. 4.
 
-Le Federazioni di imprese cooperative aderiscono, ai sensi dell'[art. 34 del R. decreto 1° luglio 1926, n. 1130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1130#art_34)/1428, all'Ente nazionale della cooperazione, il quale ha funzioni di studio dei problemi cooperativi e della mutualita', di rilevazione statistica ed in genere di tutela della cooperazione. 
+Le Federazioni di imprese cooperative aderiscono, ai sensi dell'[art. 34 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md)/1428, all'Ente nazionale della cooperazione, il quale ha funzioni di studio dei problemi cooperativi e della mutualita', di rilevazione statistica ed in genere di tutela della cooperazione. 
  Le Federazioni e l'Ente nazionale della cooperazione non possono esercitare alcuna ingerenza nella gestione amministrativa, tecnica e commerciale delle imprese cooperative, fuori del caso in cui vi sia il consenso di queste, e, per quanto riguarda l'Ente, del caso previsto dal capoverso dell'[articolo 1 del R. decreto 30 dicembre 1926, n. 2288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-12-30;2288#art_1).
 
 ## Art. 5.
@@ -63,7 +63,7 @@ Le disposizioni del presente decreto non si applicano alle Associazioni di coope
 
 ## Art. 8.
 
-Sono abrogati gli [articoli 2](Vigilanza%20sul%20funzionamento%20delle%20societa%20cooperative%20ed%20istituzione%20dellEnte%20nazionale%20per%20la%20cooperazione.%20026U2288.md), [3](Vigilanza%20sul%20funzionamento%20delle%20societa%20cooperative%20ed%20istituzione%20dellEnte%20nazionale%20per%20la%20cooperazione.%20026U2288.md) e [4 del R. decreto-legge 30 dicembre 1926, n. 2288](Vigilanza%20sul%20funzionamento%20delle%20societa%20cooperative%20ed%20istituzione%20dellEnte%20nazionale%20per%20la%20cooperazione.%20026U2288.md), ed il [R. decreto 21 aprile 1927, n. 718](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-21;718). 
+Sono abrogati gli [articoli 2](Vigilanza%20sul%20funzionamento%20delle%20societa%20cooperative%20ed%20istituzione%20dellEnte%20nazionale%20per%20la%20cooperazione.%20026U2288.md), [3](Vigilanza%20sul%20funzionamento%20delle%20societa%20cooperative%20ed%20istituzione%20dellEnte%20nazionale%20per%20la%20cooperazione.%20026U2288.md) e [4 del R. decreto-legge 30 dicembre 1926, n. 2288](Vigilanza%20sul%20funzionamento%20delle%20societa%20cooperative%20ed%20istituzione%20dellEnte%20nazionale%20per%20la%20cooperazione.%20026U2288.md), ed il [R. decreto 21 aprile 1927, n. 718](Inquadramento%20delle%20imprese%20cooperative%20agli%20effetti%20sindacali.%20027U0718.md). 
  Il presente decreto sara' presentato al Parlamento per conversione in legge; il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  Dato a Roma, addi' 2 marzo 1931 - Anno IX 

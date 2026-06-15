@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Gli articoli 1, 2 e 3 delle norme sul reclutamento, avanzamento e stato dei sottufficiali e militari di truppa dell'aeronautica militare, approvate con [regio decreto-legge 3 febbraio 1938, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744), convertito nella [legge 16 febbraio 1939, n. 468](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%203%20febbraio%201938-XVI%20n.%20744%20che%20detta%20norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20_aadad4eb4f5e.md), e successive modificazioni, sono sostituiti dal seguente articolo: 
+Gli articoli 1, 2 e 3 delle norme sul reclutamento, avanzamento e stato dei sottufficiali e militari di truppa dell'aeronautica militare, approvate con [regio decreto-legge 3 febbraio 1938, n. 744](Norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20stato%20dei%20sottufficiali%20della%20Regia%20aeronautica.%20038U0744.md), convertito nella [legge 16 febbraio 1939, n. 468](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%203%20febbraio%201938-XVI%20n.%20744%20che%20detta%20norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20_aadad4eb4f5e.md), e successive modificazioni, sono sostituiti dal seguente articolo: 
  "I sottufficiali, graduati e militari di truppa della aeronautica militare sono iscritti nei seguenti ruoli: 
  ruolo naviganti; 
  ruolo specialisti. 

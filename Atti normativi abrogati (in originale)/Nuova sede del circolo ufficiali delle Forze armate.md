@@ -32,7 +32,7 @@ Il comune di Roma e' autorizzato a concedere in uso gratuito al Ministero della 
 
 2.
 
-L'assegnazione di cui al comma 1 avviene anche in deroga alle vigenti prescrizioni urbanistiche e ad ogni altro vincolo, fatte salve, per i lavori, i restauri, la conservazione e le eventuali future ristrutturazioni, le previsioni della [legge 1 giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089).
+L'assegnazione di cui al comma 1 avviene anche in deroga alle vigenti prescrizioni urbanistiche e ad ogni altro vincolo, fatte salve, per i lavori, i restauri, la conservazione e le eventuali future ristrutturazioni, le previsioni della [legge 1 giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md).
 
 3.
 

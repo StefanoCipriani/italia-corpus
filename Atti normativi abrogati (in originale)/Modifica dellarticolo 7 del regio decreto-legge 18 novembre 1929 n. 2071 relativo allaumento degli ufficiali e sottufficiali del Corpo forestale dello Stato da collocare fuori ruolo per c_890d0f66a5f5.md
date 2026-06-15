@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il numero degli ufficiali e dei sottufficiali del Corpo forestale dello Stato che possono essere collocati fuori ruolo, nell'interesse dell'Azienda di Stato per le foreste demaniali, ai sensi dell'[articolo 7 del regio decreto-legge 18 novembre 1929, n. 2071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-18;2071#art_7), e' elevato rispettivamente a 50 e 20 unita'.
+Il numero degli ufficiali e dei sottufficiali del Corpo forestale dello Stato che possono essere collocati fuori ruolo, nell'interesse dell'Azienda di Stato per le foreste demaniali, ai sensi dell'[articolo 7 del regio decreto-legge 18 novembre 1929, n. 2071](Provvedimenti%20per%20la%20bonifica%20integrale%20e%20per%20i%20servizi%20agrari%20e%20forestali.%20029U2071.md), e' elevato rispettivamente a 50 e 20 unita'.
 
 ## Art. 2.
 

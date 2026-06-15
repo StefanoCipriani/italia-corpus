@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Viste le [leggi 29 dicembre 1930, n. 1712, 14 giugno 1934, n. 1015, 4 gennaio 1937, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-01-04;35), e successive modificazioni, istitutive rispettivamente, delle Casse ufficiali dell'Esercito, della Marina e dell'Aeronautica;
+Viste le [leggi 29 dicembre 1930, n. 1712, 14 giugno 1934, n. 1015, 4 gennaio 1937, n. 35](Istituzione%20di%20una%20Cassa%20ufficiali%20della%20Regia%20aeronautica.%20037U0035.md), e successive modificazioni, istitutive rispettivamente, delle Casse ufficiali dell'Esercito, della Marina e dell'Aeronautica;
 
-Visto l'[art. 3 della legge 27 febbraio 1958, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-27;166#art_3);
+Visto l'[art. 3 della legge 27 febbraio 1958, n. 166](Modifica%20dei%20termini%20di%20liquidazione%20della%20indennita%20supplementare%20da%20parte%20delle%20Casse%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Articolo unico.
 
-Agli ufficiali dell'Esercito, della Marina e dell'Aeronautica, nei cui riguardi il quadriennio di cessazione dal servizio permanente, previsto dall'[art. 1 della legge 27 febbraio 1958, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-27;166#art_1), sia scaduto alla data di entrata in vigore di detta legge o venga a scadere nei quattro anni successivi alla data stessa, l'indennita' supplementare, di cui alle rispettive [leggi 29 dicembre 1930, n. 1712, 14 giugno 1934, n. 1015, e 4 gennaio 1937, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-01-04;35), e' corrisposta entro i seguenti termini:
+Agli ufficiali dell'Esercito, della Marina e dell'Aeronautica, nei cui riguardi il quadriennio di cessazione dal servizio permanente, previsto dall'[art. 1 della legge 27 febbraio 1958, n. 166](Modifica%20dei%20termini%20di%20liquidazione%20della%20indennita%20supplementare%20da%20parte%20delle%20Casse%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sia scaduto alla data di entrata in vigore di detta legge o venga a scadere nei quattro anni successivi alla data stessa, l'indennita' supplementare, di cui alle rispettive [leggi 29 dicembre 1930, n. 1712, 14 giugno 1934, n. 1015, e 4 gennaio 1937, n. 35](Istituzione%20di%20una%20Cassa%20ufficiali%20della%20Regia%20aeronautica.%20037U0035.md), e' corrisposta entro i seguenti termini:
  Agli ufficiali dell'Esercito:
  entro il 30 giugno 1960, se cessati dal servizio permanente nel periodo compreso tra il 1 luglio 1941 ed il 4 aprile 1954;
  entro il 5 aprile 1962, se cessati dal servizio permanente nel periodo compreso tra il 5 aprile 1954 ed il 4 aprile 1958.

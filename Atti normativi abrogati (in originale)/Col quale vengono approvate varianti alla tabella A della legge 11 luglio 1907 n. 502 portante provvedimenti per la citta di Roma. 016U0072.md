@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il comune di Roma, e' autorizzato ad eseguire, con i fondi della anticipazione governativa di L. 25.000.000 concessa con [legge 11 luglio 1907, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-11;502), le seguenti opere di pubblica necessita', gia' prevedute nella tabella A annessa alla legge stessa, erogandovi rispettivamente le somme qui appresso indicate: 
+Il comune di Roma, e' autorizzato ad eseguire, con i fondi della anticipazione governativa di L. 25.000.000 concessa con [legge 11 luglio 1907, n. 502](Provvedimenti%20per%20la%20citta%20di%20Roma.%20007U0502.md), le seguenti opere di pubblica necessita', gia' prevedute nella tabella A annessa alla legge stessa, erogandovi rispettivamente le somme qui appresso indicate: 
  
  1. Prosecuzione del corso Vittorio Emanuele (n. 4 della tabella), L. 2.450.000; 
  

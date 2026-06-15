@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 3 dicembre 1934, n. 2012](Ordinamento%20organico%20pe
 
 Visto il [R. decreto-legge 25 settembre 1934, n. 1512](Condono%20di%20penalita%20in%20materia%20di%20imposte%20dirette%20di%20tasse%20sugli%20affari%20e%20di%20monopoli.%20034U1512.md);
 
-Visto il [R. decreto-legge 25 marzo 1923, n. 880](Che%20conferisce%20speciali%20poteri%20in%20materia%20finanziaria%20al%20governatore%20della%20Tripolitania.%20023U0880.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), con il quale si conferiscono al Governatore della Tripolitania, speciali poteri in materia finanziaria;
+Visto il [R. decreto-legge 25 marzo 1923, n. 880](Che%20conferisce%20speciali%20poteri%20in%20materia%20finanziaria%20al%20governatore%20della%20Tripolitania.%20023U0880.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), con il quale si conferiscono al Governatore della Tripolitania, speciali poteri in materia finanziaria;
 
 Visti i decreti del Governatore della Tripolitania 25 maggio 1923, n. 473, e 26 maggio 1923, n. 501, con i quali, in forza delle facolta' ad esso conferite col sopracitato Regio decreto-legge, si istituiscono in quella Colonia i tributi diretti e l'imposta sui redditi;
 

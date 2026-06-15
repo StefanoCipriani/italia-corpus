@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 dicembre 1933, n. 1862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-11;1862), recante modificazione all'art. 20 del testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito. 
+ E' convertito in legge il [R. decreto-legge 11 dicembre 1933, n. 1862](Modifica%20allart.%2020%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20033U1862.md), recante modificazione all'art. 20 del testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

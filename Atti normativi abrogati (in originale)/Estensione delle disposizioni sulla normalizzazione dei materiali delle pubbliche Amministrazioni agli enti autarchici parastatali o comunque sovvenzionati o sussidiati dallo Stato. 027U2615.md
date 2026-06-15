@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 dicembre 1923, n. 3046](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3046), concernente la normalizzazione dei materiali occorrenti alle Amministrazioni dello Stato;
+Visto il [R. decreto 31 dicembre 1923, n. 3046](Normalizzazione%20dei%20materiali%20occorrenti%20alle%20Amministrazioni%20dello%20Stato.%20023U3046.md), concernente la normalizzazione dei materiali occorrenti alle Amministrazioni dello Stato;
 
 Ritenuta la necessita' urgente ed assoluta di estendere le disposizioni contenute nel R. decreto sopracitato agli enti autarchici, agli enti sottoposti alla tutela o vigilanza dello Stato, nonche' alle aziende annesse o comunque dipendenti dalle Amministrazioni od enti predetti, alle societa', ditte, istituti o enti sovvenzionati o sussidiati dallo Stato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-Le disposizioni contenute nel [R. decreto 31 dicembre 1923, n. 3046](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3046), concernente la normalizzazione dei materiali occorrenti alle Amministrazioni dello Stato, sono estese agli enti autarchici, agli enti sottoposti alla tutela e vigilanza dello Stato, nonche' alle aziende annesse o in qualsiasi modo dipendenti dalle Amministrazioni od enti predetti, alle societa', ditte, istituti o enti comunque sovvenzionati o sussidiati dallo Stato.
+Le disposizioni contenute nel [R. decreto 31 dicembre 1923, n. 3046](Normalizzazione%20dei%20materiali%20occorrenti%20alle%20Amministrazioni%20dello%20Stato.%20023U3046.md), concernente la normalizzazione dei materiali occorrenti alle Amministrazioni dello Stato, sono estese agli enti autarchici, agli enti sottoposti alla tutela e vigilanza dello Stato, nonche' alle aziende annesse o in qualsiasi modo dipendenti dalle Amministrazioni od enti predetti, alle societa', ditte, istituti o enti comunque sovvenzionati o sussidiati dallo Stato.
 
 ## Art. 2.
 

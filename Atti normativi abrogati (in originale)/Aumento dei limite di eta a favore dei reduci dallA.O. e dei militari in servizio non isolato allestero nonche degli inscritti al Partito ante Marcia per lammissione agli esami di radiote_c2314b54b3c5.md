@@ -24,7 +24,7 @@ Visto il R. decreto-legge 2 giugno 1936-XIV, n. 1172, convertito nella [legge 26
 
 Visto il R. decreto-legge 21 ottobre 1937-XVI n. 2179, convertito nella [legge 31 marzo 1938, n. 610](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20ottobre%201937-XV%20n.%202179%20concernente%20la%20estensione%20ai%20militari%20in%20servizio%20non%20isolato%20allestero%20ed%20ai%20congiunti%20dei%20caduti%20delle%20provvidenze%20i_9098f0aaa2f7.md);
 
-Visto l'[art. 63 del R. decreto 8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;843#art_63);
+Visto l'[art. 63 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -44,7 +44,7 @@ Agli aspiranti agli esami di cui al precedente articolo che comprovino con certi
 
 ## Art. 3.
 
-A ciascuno dei componenti la Commissione esaminatrice prevista dal decreto Ministeriale 14 giugno 1931-IX spetta un compenso nella misura di lire 25, salve le riduzioni di legge, per ogni giornata di presenza effettiva alle riunioni, con le modalita' stabilite nell'[art. 63 del R. decreto 8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;843#art_63). 
+A ciascuno dei componenti la Commissione esaminatrice prevista dal decreto Ministeriale 14 giugno 1931-IX spetta un compenso nella misura di lire 25, salve le riduzioni di legge, per ogni giornata di presenza effettiva alle riunioni, con le modalita' stabilite nell'[art. 63 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md). 
  
  Il presente decreto avra' vigore dal 1° giugno 1938-XVI e sara' presentato al Parlamento per la sua conversione in legge. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'Amministrazione dei patronati scolastici dei Comuni, che, secondo i risultati dell'ultimo censimento ufficiale, hanno una popolazione legale non superiore ai tremila abitanti, e' affidata ad un Consiglio composto di tre membri effettivi ed uno supplente eletti dal Provveditore agli studi nelle categorie indicate dall'[articolo 72 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_72). Uno dei componenti sara' scelto fra i maestri elementari del Comune. 
+L'Amministrazione dei patronati scolastici dei Comuni, che, secondo i risultati dell'ultimo censimento ufficiale, hanno una popolazione legale non superiore ai tremila abitanti, e' affidata ad un Consiglio composto di tre membri effettivi ed uno supplente eletti dal Provveditore agli studi nelle categorie indicate dall'[articolo 72 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md). Uno dei componenti sara' scelto fra i maestri elementari del Comune. 
  
  Fra i membri effettivi, il provveditore designa il presidente del Consiglio. 
  

@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 12 febbraio 1903, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-02-12;50);
+Vista la [legge 12 febbraio 1903, n. 50](Costituzione%20di%20un%20consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20003U0050.md);
 
-Visto il [regio decreto 11 aprile 1926, n. 736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-11;736);
+Visto il [regio decreto 11 aprile 1926, n. 736](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2012%20febbraio%201903%20n.%2050%20relativa%20allistituzione%20del%20Consorzio%20autonomo%20del%20porto%20di%20Genova.%20026U0736.md);
 
-Visto l'[art. 4 della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_4);
+Visto l'[art. 4 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la marina mercantile, di concerto con i Ministri
 
 ## Art. 1.
 
-Le disposizioni contenute nelle lettere i) ed l) dell'art. 28 del regolamento per l'esecuzione della [legge 12 febbraio 1903, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-02-12;50), approvato con [regio decreto 11 aprile 1926, n. 736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-11;736), sono sostituite dalle seguenti:
+Le disposizioni contenute nelle lettere i) ed l) dell'art. 28 del regolamento per l'esecuzione della [legge 12 febbraio 1903, n. 50](Costituzione%20di%20un%20consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20003U0050.md), approvato con [regio decreto 11 aprile 1926, n. 736](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2012%20febbraio%201903%20n.%2050%20relativa%20allistituzione%20del%20Consorzio%20autonomo%20del%20porto%20di%20Genova.%20026U0736.md), sono sostituite dalle seguenti:
  i) salvo quanto disposto nella alinea seguente, ordina, quando lo ravvisi opportuno per il migliore servizio del porto, la rimozione, da eseguirsi a cura degli aventi diritto o d'ufficio, di qualsiasi partita di merce, anche se appena sbarcata, facendola trasportare ai magazzini dell'entroterra.
  Le merci giunte in partite separate e segnalate all'Amministrazione del consorzio, saranno immagazzinate in attesa di imbarco o di rispedizione e potranno essere trasferite nell'entroterra solo se entro 15 giorni dall'arrivo non giunga un ordine di rispedizione.
  Del trasferimento dovra' in ogni caso essere avvertito, con lettera raccomandata, chi puo' disporre della merce.

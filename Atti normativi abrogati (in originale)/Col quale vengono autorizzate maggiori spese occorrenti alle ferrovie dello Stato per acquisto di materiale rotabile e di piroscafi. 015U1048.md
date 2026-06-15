@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato pei lavori pubblici, di concerto
 
 ## Art. 1.
 
-Sono approvati gli impegni assunti dall'Amministrazione delle ferrovie dello Stato, in eccedenza ai limiti fissati dall'[art. 22 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_22), modificato con l'[art. 1 della legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372#art_1), fino alla somma di lire settantaquattro milioni, per spese di acquisto di materiale rotabile.
+Sono approvati gli impegni assunti dall'Amministrazione delle ferrovie dello Stato, in eccedenza ai limiti fissati dall'[art. 22 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato con l'[art. 1 della legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md), fino alla somma di lire settantaquattro milioni, per spese di acquisto di materiale rotabile.
 
 ## Art. 2.
 
@@ -36,11 +36,11 @@ Per ulteriori acquisti di materiale rotabile ed in eccedenza ai limiti indicati 
 
 ## Art. 3.
 
-Per l'esercizio dei servizi complementari di navigazione di cui al Nostro decreto 6 giugno corr., n. 870, l'Amministrazione delle ferrovie dello Stato, con autorizzazione del ministro dei lavori pubblici, previ accordi col ministro della marina, puo' acquistare altri piroscafi in aggiunta a quelli di cui all'allegato B della [legge 5 aprile 1908, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-04-05;111).
+Per l'esercizio dei servizi complementari di navigazione di cui al Nostro decreto 6 giugno corr., n. 870, l'Amministrazione delle ferrovie dello Stato, con autorizzazione del ministro dei lavori pubblici, previ accordi col ministro della marina, puo' acquistare altri piroscafi in aggiunta a quelli di cui all'allegato B della [legge 5 aprile 1908, n. 111](Che%20approva%20le%20Convenzioni%20pei%20servizi%20postali%20e%20commerciali%20marittimi.%20008U0111.md).
 
 ## Art. 4.
 
-La spesa per l'acquisto dei piroscafi di cui all'art. 3 non potra' superare la somma di lire nove milioni da conteggiarsi in aumento a quelle autorizzate per le spese straordinarie di cui all'[art. 22 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_22), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372#art_1).
+La spesa per l'acquisto dei piroscafi di cui all'art. 3 non potra' superare la somma di lire nove milioni da conteggiarsi in aumento a quelle autorizzate per le spese straordinarie di cui all'[art. 22 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md).
 
 ## Art. 5.
 
@@ -48,11 +48,11 @@ Il ministro del tesoro provvedera', mediante accensione di debiti, nei modi e ne
  
  Detti fondi sono da assegnare come segue: 
  
- a) per lire quattro milioni nell'esercizio finanziario 1914-915, in eccedenza al limite stabilito dalla [legge 24 dicembre 1908, n. 731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;731), da destinarsi interamente all'acquisto dei piroscafi di cui agli articoli 3 e 4; 
+ a) per lire quattro milioni nell'esercizio finanziario 1914-915, in eccedenza al limite stabilito dalla [legge 24 dicembre 1908, n. 731](Provvedimenti%20per%20le%20spese%20ferroviarie%20viarie%20e%20per%20debiti%20redimibili.%20008U0731.md), da destinarsi interamente all'acquisto dei piroscafi di cui agli articoli 3 e 4; 
  
  b) per lire trentotto milioni nell'esercizio finanziario 1915-916, in piu' della somma gia' inscritta in bilancio e da destinarsi, per lire cinque milioni, a saldo delle spese di acquisto dei detti piroscafi e per lire trentatre milioni, all'acquisto di materiale rotabile; 
  
- c) per le residuali lire settantuno milioni, concernenti acquisto di materiale rotabile, negli esercizi successivi al 1915-916 a seconda del bisogno ed entro il limite annuo di cui alla [legge 24 dicembre 1908, n. 731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;731).
+ c) per le residuali lire settantuno milioni, concernenti acquisto di materiale rotabile, negli esercizi successivi al 1915-916 a seconda del bisogno ed entro il limite annuo di cui alla [legge 24 dicembre 1908, n. 731](Provvedimenti%20per%20le%20spese%20ferroviarie%20viarie%20e%20per%20debiti%20redimibili.%20008U0731.md).
 
 ## Art. 6.
 

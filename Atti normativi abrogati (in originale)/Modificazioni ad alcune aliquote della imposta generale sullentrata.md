@@ -34,7 +34,7 @@ Per gli atti economici relativi al commercio dei seguenti prodotti l'imposta sul
 
 ## Art. 3.
 
-La facolta' prevista dall'[art. 10 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;348#art_10), ai fini della determinazione degli speciali regimi d'imposizione alla imposta sull'entrata ivi contemplati, puo' essere esercitata anche relativamente alle entrate derivanti dal commercio del latte e dei suoi derivati, del sommacco in foglie, del legname resinoso da opera, delle pelli da pellicceria e confezioni in pellicceria, delle acque e bevande gassate e del ghiaccio e delle carte da giuoco.
+La facolta' prevista dall'[art. 10 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 348](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposta%20generale%20sullentrata%20e%20di%20addizionale%20straordinaria%20di%20guerra.%20044U0348.md), ai fini della determinazione degli speciali regimi d'imposizione alla imposta sull'entrata ivi contemplati, puo' essere esercitata anche relativamente alle entrate derivanti dal commercio del latte e dei suoi derivati, del sommacco in foglie, del legname resinoso da opera, delle pelli da pellicceria e confezioni in pellicceria, delle acque e bevande gassate e del ghiaccio e delle carte da giuoco.
 
 ## Art. 4.
 

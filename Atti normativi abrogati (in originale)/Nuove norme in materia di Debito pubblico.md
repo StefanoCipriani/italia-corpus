@@ -46,7 +46,7 @@ I titoli al portatore o misti non possono, di regola, essere tramutati in titoli
 
 ## Art. 5.
 
-Per le operazioni di cui agli articoli 25, 26 e 28 del testo unico approvato con [regio decreto 17 luglio 1910, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-17;536), qualora il valore capitale nominale complessivo dei titoli dei debiti consolidati, perpetui o redimibili non sia superiore a L. 50.000, e' ammessa, in luogo del titolo legale a possedere, considerato nei detti articoli, la prova della successione coi documenti indicati dai l'art. 27 del testo unico sopra citato, ferma rimanendo la riserva prevista nell'ultimo comma dell'articolo stesso.
+Per le operazioni di cui agli articoli 25, 26 e 28 del testo unico approvato con [regio decreto 17 luglio 1910, n. 536](Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), qualora il valore capitale nominale complessivo dei titoli dei debiti consolidati, perpetui o redimibili non sia superiore a L. 50.000, e' ammessa, in luogo del titolo legale a possedere, considerato nei detti articoli, la prova della successione coi documenti indicati dai l'art. 27 del testo unico sopra citato, ferma rimanendo la riserva prevista nell'ultimo comma dell'articolo stesso.
  Ove il valore capitale dei titoli non superi le L. 5000, basteranno l'atto di morte e l'atto di notorieta' per giustificare il diritto di successione. L'atto di notorieta' potra' essere ricevuto dal sindaco, se il valore sia inferiore a L. 1000.
  Le stesse disposizioni sono applicabili nel caso previsto dall'art. 59 del testo unico citato e in genere per il pagamento di somme dovute in dipendenza di rapporto successorio.
 
@@ -61,7 +61,7 @@ Le facilitazioni concesse con il [decreto luogotenenziale 23 marzo 1946, n. 277,
 
 ## Art. 8.
 
-Il sorteggio dei premi, da assegnarsi ai titoli della 62ª serie del Prestito redimibile 3,50% 1934, a norma dell'[art. 7 del regio decreto-legge 3 febbraio 1934, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-02-03;60#art_7), avra' luogo nel secondo semestre dell'anno 1948.
+Il sorteggio dei premi, da assegnarsi ai titoli della 62ª serie del Prestito redimibile 3,50% 1934, a norma dell'[art. 7 del regio decreto-legge 3 febbraio 1934, n. 60](Emissione%20di%20un%20prestito%20redimibile%20350%20per%20cento%20per%20sostituire%20le%20rendite%20del%20debito%20consolidato%205%20per%20cento%20e%20del%20Littorio%205%20per%20cento.%20034U0060.md), avra' luogo nel secondo semestre dell'anno 1948.
  L'importo dei premi eventualmente attribuiti a titoli di detto prestito, dei quali, entro il 30 giugno 1948, non fosse domandato il cambio con quelli dei consolidati 5%, indicati nell'art. 1 del citato decreto, sara' diviso in quote proporzionali fra tutti i titoli ancora da cambiare.
  L'elenco di questi ultimi sara' pubblicato nella Gazzetta Ufficiale, insieme col decreto Ministeriale, che fissera' la data del sorteggio.
 

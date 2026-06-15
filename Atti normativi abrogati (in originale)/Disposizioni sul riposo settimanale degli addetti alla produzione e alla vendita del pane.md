@@ -25,7 +25,7 @@ Chiunque contravvenga alle disposizioni di cui al precedente articolo 1 e' punit
 
 ## Art. 3.
 
-Restano ferme le disposizioni previste dal [decreto del Presidente della Repubblica del 27 novembre 1960, numero 1798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-11-27;1798).
+Restano ferme le disposizioni previste dal [decreto del Presidente della Repubblica del 27 novembre 1960, numero 1798](../DPR/Norme%20sul%20trattamento%20economico%20e%20normativo%20dei%20lavoratori%20panettieri%20dipendenti%20dalle%20imprese%20di%20panificazione.md).
 
 ## Art. 4.
 

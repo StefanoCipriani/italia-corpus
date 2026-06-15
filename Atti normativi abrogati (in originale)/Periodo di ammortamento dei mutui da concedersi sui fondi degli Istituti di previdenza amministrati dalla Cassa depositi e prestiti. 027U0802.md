@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi generali e speciali riguardanti la Cassa dei depositi e prestiti, le gestioni annesse, la Sezione autonoma di credito comunale e provinciale, e gli Istituti di previdenza, approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453);
+Visto il testo unico delle leggi generali e speciali riguardanti la Cassa dei depositi e prestiti, le gestioni annesse, la Sezione autonoma di credito comunale e provinciale, e gli Istituti di previdenza, approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md);
 
 Visto il [R. decreto-legge 13 giugno 1926, n. 1064](Impiego%20di%20fondi%20appartenenti%20agli%20Istituti%20di%20previdenza%20amministrati%20dalla%20Cassa%20depositi%20e%20prestiti%20in%20mutui%20agli%20Enti%20locali%20a%20condizioni%20speciali%20e%20con%20gestione%20separata.%20026U1064.md), concernente l'impiego di fondi appartenenti agli Istituti di previdenza, amministrati dalla Cassa depositi e prestiti in mutui agli enti locali a condizioni speciali e con gestione separata;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-I mutui da concedersi, per la esecuzione di opere pubbliche, sui fondi degli Istituti di previdenza amministrati dalla Cassa depositi e prestiti, ai sensi del [R. decreto-legge 13 giugno 1926, n. 1064](Impiego%20di%20fondi%20appartenenti%20agli%20Istituti%20di%20previdenza%20amministrati%20dalla%20Cassa%20depositi%20e%20prestiti%20in%20mutui%20agli%20Enti%20locali%20a%20condizioni%20speciali%20e%20con%20gestione%20separata.%20026U1064.md), e del [R. decreto 15 luglio 1926, n. 1282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-15;1282), saranno ammortizzabili in un periodo di tempo che, per la parte di debito a carico dell'ente mutuatario, non potra' superare i 35 anni, ferma restando la possibilita' del coesistente ammortamento in 50 anni della parte di debito a carico dello Stato per i mutui che godono il concorso governativo.
+I mutui da concedersi, per la esecuzione di opere pubbliche, sui fondi degli Istituti di previdenza amministrati dalla Cassa depositi e prestiti, ai sensi del [R. decreto-legge 13 giugno 1926, n. 1064](Impiego%20di%20fondi%20appartenenti%20agli%20Istituti%20di%20previdenza%20amministrati%20dalla%20Cassa%20depositi%20e%20prestiti%20in%20mutui%20agli%20Enti%20locali%20a%20condizioni%20speciali%20e%20con%20gestione%20separata.%20026U1064.md), e del [R. decreto 15 luglio 1926, n. 1282](Norme%20per%20limpiego%20dei%20fondi%20appartenenti%20agli%20Istituti%20di%20previdenza%20amministrati%20dalla%20Cassa%20depositi%20e%20prestiti.%20026U1282.md), saranno ammortizzabili in un periodo di tempo che, per la parte di debito a carico dell'ente mutuatario, non potra' superare i 35 anni, ferma restando la possibilita' del coesistente ammortamento in 50 anni della parte di debito a carico dello Stato per i mutui che godono il concorso governativo.
 
 ## Art. 2.
 

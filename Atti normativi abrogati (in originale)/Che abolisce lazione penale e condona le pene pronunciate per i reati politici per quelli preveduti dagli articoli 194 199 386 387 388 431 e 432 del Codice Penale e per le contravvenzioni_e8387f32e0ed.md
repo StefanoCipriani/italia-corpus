@@ -26,11 +26,11 @@ E' abolita l'azione penale, e sono condonate le pene pronunciate per i seguenti 
  
  a) per i reati politici soggetti a pene correzionali, purche' non siano accompagnati o connessi con reati contro le persone, le proprieta' o le leggi militari; 
  
- b) per i reati preveduti dagli [articoli 194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_194) e [199 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_199) del Regno, commessi in occasione dell'ultima epidemia colerica, purche' soggetti a pena correzionale e non connessi con altri reati; 
+ b) per i reati preveduti dagli [articoli 194](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [199 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, commessi in occasione dell'ultima epidemia colerica, purche' soggetti a pena correzionale e non connessi con altri reati; 
  
- c) pei reati preveduti dagli [articoli 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_386), [387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_387) e [388 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_388), purche' soggetti a pene correzionali e non connessi con altri reati; 
+ c) pei reati preveduti dagli [articoli 386](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [387](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [388 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), purche' soggetti a pene correzionali e non connessi con altri reati; 
  
- d) pei reati preveduti dagli articoli 431, 432 del detto [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), commessi in occasione dei reati citati nella lettera c precedente e colle limitazioni ivi indicate. 
+ d) pei reati preveduti dagli articoli 431, 432 del detto [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), commessi in occasione dei reati citati nella lettera c precedente e colle limitazioni ivi indicate. 
  
  e) per le contravvenzioni alle leggi e regolamenti, forestali, purche' la pena pecuniaria, applicabile od applicata, non ecceda le lire 300.
 

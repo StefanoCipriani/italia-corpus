@@ -78,7 +78,7 @@ Rientra nella facolta' dell'autorita' concedente stabilire se le concessioni od 
 
 ## Art. 10.
 
-Il canone per le maggiori utilizzazioni idrauliche sara' fissato in base alle norme della [legge 10 agosto 1884, n. 2644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-08-10;2644).
+Il canone per le maggiori utilizzazioni idrauliche sara' fissato in base alle norme della [legge 10 agosto 1884, n. 2644](Concernente%20le%20derivazioni%20di%20acque%20pubbliche.%20084U2644.md).
 
 ## Art. 11.
 
@@ -96,7 +96,7 @@ Nel caso in cui l'esecuzione e l'esercizio delle opere ed impianti importino l'e
 
 ## Art. 13.
 
-Gl'interessati, ove credano, potranno valersi per la determinazione definitiva delle indennita' e dei risarcimenti di cui all'articolo precedente, della azione giudiziaria a norma della [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), Sulle espropriazioni per causa di pubblica utilita'. 
+Gl'interessati, ove credano, potranno valersi per la determinazione definitiva delle indennita' e dei risarcimenti di cui all'articolo precedente, della azione giudiziaria a norma della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), Sulle espropriazioni per causa di pubblica utilita'. 
  
  Tale azione non sospende il corso dei provvedidimenti del prefetto, ne' la costruzione e l'esercizio delle opere e degli impianti concessi od autorizzati. 
  
@@ -114,11 +114,11 @@ L'Amministrazione delle ferrovie dello Stato e' autorizzata ad estendere la traz
  
  La produzione dell'energia elettrica come sopra, sara' esente dall'imposta sul consumo dell'energia elettrica. 
  
- Alle cessioni di annualita', canoni e simili, pagabili dall'Amministrazione delle ferrovie dello Stato in forza dei contratti, di cui al presente articolo, sono applicabili le disposizioni degli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742#art_19), [20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742#art_20) e [21 della legge 23 luglio 1914, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742#art_21).
+ Alle cessioni di annualita', canoni e simili, pagabili dall'Amministrazione delle ferrovie dello Stato in forza dei contratti, di cui al presente articolo, sono applicabili le disposizioni degli [articoli 19](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md), [20](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md) e [21 della legge 23 luglio 1914, n. 742](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md).
 
 ## Art. 16.
 
-Agli effetti del presente decreto il possesso legittimo, esercitato per tutto il trentennio anteriore alla promulgazione della [legge 10 agosto 1884, n. 2644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-08-10;2644), ha valore ed efficacia di titolo, nei riguardi del demanio, per la quantita' di acqua o di energia effettivamente utilizzata nel trentennio medesimo.
+Agli effetti del presente decreto il possesso legittimo, esercitato per tutto il trentennio anteriore alla promulgazione della [legge 10 agosto 1884, n. 2644](Concernente%20le%20derivazioni%20di%20acque%20pubbliche.%20084U2644.md), ha valore ed efficacia di titolo, nei riguardi del demanio, per la quantita' di acqua o di energia effettivamente utilizzata nel trentennio medesimo.
 
 ## Art. 17.
 

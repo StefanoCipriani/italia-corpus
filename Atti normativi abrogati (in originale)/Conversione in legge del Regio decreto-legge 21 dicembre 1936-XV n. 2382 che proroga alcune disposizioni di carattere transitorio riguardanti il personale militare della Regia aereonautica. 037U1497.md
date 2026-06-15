@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 dicembre 1936, n. 2382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-12-21;2382), che proroga alcune disposizioni di carattere transitorio riguardanti il personale militare della Regia aeronautica. 
+ E' convertito in legge il [R. decreto-legge 21 dicembre 1936, n. 2382](Proroga%20a%20tutto%20il%201937%20di%20alcune%20disposizioni%20di%20carattere%20transitorio%20riguardanti%20il%20personale%20militare%20della%20Regia%20aeronautica.%20036U2382.md), che proroga alcune disposizioni di carattere transitorio riguardanti il personale militare della Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

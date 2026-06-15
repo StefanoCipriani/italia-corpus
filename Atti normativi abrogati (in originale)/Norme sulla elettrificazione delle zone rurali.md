@@ -30,7 +30,7 @@ Alla formulazione del piano provvede il Ministro per l'industria, il commercio e
  un rappresentante del Ministero del turismo e dello spettacolo;
  un rappresentante dell'ENEL.
  La segreteria della commissione e' costituita con il decreto di nomina della commissione stessa.
- Ai componenti della predetta commissione sara' corrisposto un compenso nella misura fissata dal [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;5), modificato dalla [legge 5 giugno 1967, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-05;417).
+ Ai componenti della predetta commissione sara' corrisposto un compenso nella misura fissata dal [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](../DPR/Compensi%20ai%20componenti%20delle%20Commissioni%20Consigli%20Comitati%20o%20Collegi%20operanti%20nelle%20Amministrazioni%20statali%20anche%20con%20ordinamento%20autonomo%20e%20delle%20Commissioni%20giudicatrici%20dei%20concorsi%20di_6b5a1d3e573d.md), modificato dalla [legge 5 giugno 1967, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-05;417).
 
 ## Art. 3.
 

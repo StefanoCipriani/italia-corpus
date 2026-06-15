@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
 
-Visto il testo unico delle disposizioni legislative sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-14;596), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per la guerra, d'intesa col Ministro per il tesoro; 
 
 ## Art. 1.
 
-L'art. 27 del testo unico delle disposizioni legislative sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-14;596), quale risulta modificato dall'[art. 1 della legge 6 febbraio 1941, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-02-06;149#art_1), e dall'[art. 7 della legge 24 marzo 1942, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-03-24;360#art_7), e' sostituito dal seguente: 
+L'art. 27 del testo unico delle disposizioni legislative sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), quale risulta modificato dall'[art. 1 della legge 6 febbraio 1941, n. 149](Varianti%20al%20testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20041U0149.md), e dall'[art. 7 della legge 24 marzo 1942, n. 360](Modificazioni%20al%20testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20degli%20ufficiali%20e%20disposizioni%20transitorie%20sul%20reclutamento%20degli%20ufficiali%20in%20servizio%20permanente%20effettivo%20d_b244b769d7d5.md), e' sostituito dal seguente: 
  
  «La nomina ad ufficiale di complemento nell'Arma dei carabinieri Reali puo' essere conferita ai sottufficiali dell'Arma congedati che abbiano cessato di appartenere all'Accademia militare di fanteria e cavalleria dopo il secondo anno, purche' siano risultati idonei agli esami delle materie militari. 
  

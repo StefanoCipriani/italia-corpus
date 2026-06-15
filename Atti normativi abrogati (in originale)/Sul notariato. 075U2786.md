@@ -1035,7 +1035,7 @@ E' punito colla destituzione:
  
  Il notaro che abbandona il luogo di sua residenza in occasione di malattie reputate epidemiche e contagiose; 
  
- Il notaro che non ha conservato, per dolo, i repertori o gli atti da lui ricevuti, o presso lui depositati, salvo le pene maggiori sancite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ Il notaro che non ha conservato, per dolo, i repertori o gli atti da lui ricevuti, o presso lui depositati, salvo le pene maggiori sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 116.
 

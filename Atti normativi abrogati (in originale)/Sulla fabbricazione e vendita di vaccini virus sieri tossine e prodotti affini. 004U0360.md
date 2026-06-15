@@ -49,7 +49,7 @@ I contravventori alle disposizioni della presente legge e del regolamento, di cu
 Per i recidivi, oltre la pena pecuniaria, si applichera' quella dell'arresto fino a venti giorni. 
  
  L'applicazione delle pene suddette si fara' senza pregiudizio dei  
- provvedimenti riservati all'autorita' amministrativa, a tutela della sanita', pubblica, e delle pene sancite dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) pei reati da esso 
+ provvedimenti riservati all'autorita' amministrativa, a tutela della sanita', pubblica, e delle pene sancite dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei reati da esso 
  
  previsti.
 

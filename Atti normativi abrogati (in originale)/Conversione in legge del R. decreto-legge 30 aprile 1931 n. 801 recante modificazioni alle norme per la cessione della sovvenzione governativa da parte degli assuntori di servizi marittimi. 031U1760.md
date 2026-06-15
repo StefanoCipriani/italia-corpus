@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 aprile 1931, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-30;801), recante modificazioni alle norme per la cessione della sovvenzione governativa da parte degli assuntori di servizi marittimi. 
+ E' convertito in legge il [R. decreto-legge 30 aprile 1931, n. 801](Modificazioni%20alle%20norme%20per%20la%20cessione%20della%20sovvenzione%20governativa%20da%20parte%20degli%20assuntori%20dei%20servizi%20marittimi.%20031U0801.md), recante modificazioni alle norme per la cessione della sovvenzione governativa da parte degli assuntori di servizi marittimi. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 21 dicembre 1931 - Anno X 
  

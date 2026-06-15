@@ -20,7 +20,7 @@ Visto l'[art 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https:/
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Visto il [R. decreto-legge 30 ottobre 1924, n. 1758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-30;1758) e la [legge 14 giugno 1928, n. 1384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-06-14;1384);
+Visto il [R. decreto-legge 30 ottobre 1924, n. 1758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-30;1758) e la [legge 14 giugno 1928, n. 1384](Modificazione%20della%20tabella%20organica%20del%20personale%20sanitario%20e%20religioso%20aggregato%20degli%20Istituti%20di%20prevenzione%20e%20di%20pena.%20028U1384.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -28,16 +28,16 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto col Ministro 
 
 ## Art. 1.
 
-Al personale aggregato degli Istituti di prevenzione e di pena fornito del trattamento di cui alle tabelle 9, 10 e 11, annesse al [R. decreto 4 aprile 1935, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-04;497), viene concesso l'assegno temporaneo di guerra di cui al [R. decreto-legge 14 luglio 1941, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-07-14;646), aumentato in base al [R. decreto-legge 8 luglio 1943, n. 610](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-07-08;610).
+Al personale aggregato degli Istituti di prevenzione e di pena fornito del trattamento di cui alle tabelle 9, 10 e 11, annesse al [R. decreto 4 aprile 1935, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-04;497), viene concesso l'assegno temporaneo di guerra di cui al [R. decreto-legge 14 luglio 1941, n. 646](Provvedimenti%20economici%20di%20carattere%20temporaneo%20in%20dipendenza%20della%20guerra%20per%20il%20personale%20statale%20in%20attivita%20ed%20in%20quiescenza%20e%20per%20i%20personali%20in%20servizio%20presso%20Enti%20di%20diritto%20pubblico.%20041U0646.md), aumentato in base al [R. decreto-legge 8 luglio 1943, n. 610](Miglioramenti%20economici%20di%20carattere%20temporaneo%20in%20dipendenza%20della%20guerra%20a%20favore%20del%20personale%20statale%20in%20attivita%20ed%20in%20quiescenza%20e%20dei%20dipendenti%20degli%20Enti%20ausiliari%20dello%20Stato%20e%20_7d34d46d255a.md).
 
 ## Art. 2.
 
-In aggiunta alle retribuzioni risultanti dall'applicazione del precedente articolo, e' concessa al personale suddetto una integrazione temporanea graduata dal 70 al 10% nei modi e termini previsti dal [R. decreto-legge 6 dicembre 1943, n. 18-B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;18) e successive modificazioni.
+In aggiunta alle retribuzioni risultanti dall'applicazione del precedente articolo, e' concessa al personale suddetto una integrazione temporanea graduata dal 70 al 10% nei modi e termini previsti dal [R. decreto-legge 6 dicembre 1943, n. 18-B](Miglioramenti%20economici%20di%20carattere%20temporaneo%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20degli%20enti%20ausiliari%20dello%20Stato%20e%20di%20diritto%20pubblico.%20043U0018.md) e successive modificazioni.
 
 ## Art. 3.
 
 L'assegno temporaneo di guerra di cui all'art. 1 e' conglobato nelle misure delle retribuzioni fissate nelle tabelle 9, 10 e 11 allegate al [R. decreto 4 aprile 1935, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-04;497).
- E' concesso al personale aggregato degli Istituti di prevenzione e di pena, un aumento integrativo temporaneo nella misura prevista per i personali indicati nella [lettera c) dell'art. 4 del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;328#art_4-letc), con i criteri e limiti stabiliti nel 2° comma dello stesso citato articolo e negli articoli 6 e 7 del decreto medesima,
+ E' concesso al personale aggregato degli Istituti di prevenzione e di pena, un aumento integrativo temporaneo nella misura prevista per i personali indicati nella [lettera c) dell'art. 4 del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md), con i criteri e limiti stabiliti nel 2° comma dello stesso citato articolo e negli articoli 6 e 7 del decreto medesima,
 
 ## Art. 4.
 

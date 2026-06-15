@@ -100,19 +100,19 @@ A provare che la morte di un militare, avvenuta in seguito a ferite, lesioni, co
 
 ### Art. 15.
 
-La disposizione dell'[art. 3 della legge 23 giugno 1912, n. 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-23;667#art_3), deve intendersi nel senso che la pensione spettante alle famiglie dei militari caduti in guerra corrisponde alla meta' di quella di prima categoria che sarebbe spettata al militare giusta l'art. 2 della legge stessa, sempre quando questa ultima pensione non superi il massimo limite di L 3000. Qualora si ecceda tale limite, resta ferma la misura stabilita dagli [articoli 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_100) e [119 del testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_119). 
+La disposizione dell'[art. 3 della legge 23 giugno 1912, n. 667](Che%20istituisce%20pensioni%20privilegiate%20di%20guerra%20per%20gli%20ufficiali%20e%20militari%20di%20truppa%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0667.md), deve intendersi nel senso che la pensione spettante alle famiglie dei militari caduti in guerra corrisponde alla meta' di quella di prima categoria che sarebbe spettata al militare giusta l'art. 2 della legge stessa, sempre quando questa ultima pensione non superi il massimo limite di L 3000. Qualora si ecceda tale limite, resta ferma la misura stabilita dagli [articoli 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_100) e [119 del testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_119). 
  
  In ogni caso, si deve eseguire la liquidazione in base allo stipendio corrispondente al grado inferiore che il militare avrebbe rivestito se non avesse ricevuto l'ultima od altre precedenti promozioni, sempre che la pensione cosi' liquidata risulti per gl'interessati piu' favorevole.
 
 ### Art. 16.
 
-Il padre non quinquagenario di un militare morto per una delle cause indicate nell'[art. 119 del testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_119), avra' diritto alla pensione di cui alla [legge 19 aprile 1906, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-19;135), soltanto quando risulti che il figlio era l'unico suo sostegno e che egli sia cieco o assolutamente incapace a qualsiasi proficuo lavoro per una delle infermita' contemplate dall'ultimo comma dell'[art. 2 della legge 23 giugno 1912, n. 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-23;667#art_2). 
+Il padre non quinquagenario di un militare morto per una delle cause indicate nell'[art. 119 del testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_119), avra' diritto alla pensione di cui alla [legge 19 aprile 1906, n. 135](Per%20modificazione%20allart.%20123%20del%20testo%20unico%2021%20febbraio%201895%20n.%2070%20delle%20leggi%20sulle%20pensioni.%20006U0135.md), soltanto quando risulti che il figlio era l'unico suo sostegno e che egli sia cieco o assolutamente incapace a qualsiasi proficuo lavoro per una delle infermita' contemplate dall'ultimo comma dell'[art. 2 della legge 23 giugno 1912, n. 667](Che%20istituisce%20pensioni%20privilegiate%20di%20guerra%20per%20gli%20ufficiali%20e%20militari%20di%20truppa%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0667.md). 
  
  Tali infermita' dovranno essere comprovate mediante certificato medico, da rilasciarsi da un sanitario designato dal sindaco del Comune ove risiede l'interessato, sul quale certificato il medico provinciale dovra' poi esprimere il suo parere, chiedendo, ove ne fosse il caso, maggiori schiarimenti e visitando anche personalmente il richiedente. 
  
  La Corte dei conti, quando lo creda opportuno, potra' richiedere anche il parere delle autorita' mediche militari. 
  
- Le presenti disposizioni saranno applicabili alle pensioni privilegiate di guerra contemplate dalla [legge 23 giugno 1912, n. 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-23;667), e successive modificazioni, ma con effetto, per il godimento, da una data non anteriore al 24 maggio 1915.
+ Le presenti disposizioni saranno applicabili alle pensioni privilegiate di guerra contemplate dalla [legge 23 giugno 1912, n. 667](Che%20istituisce%20pensioni%20privilegiate%20di%20guerra%20per%20gli%20ufficiali%20e%20militari%20di%20truppa%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0667.md), e successive modificazioni, ma con effetto, per il godimento, da una data non anteriore al 24 maggio 1915.
 
 ### Art. 17.
 
@@ -130,7 +130,7 @@ Nei casi in cui, per insufficiente documentazione o per altro motivo, la Corte d
 
 ### Art. 20.
 
-Ai soli effetti della [legge 23 giugno 1912, n. 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-23;667), modificata come ai precedenti articoli, la Tripolitania e' da considerarsi come in istato di guerra anche per il periodo dal 1° luglio 1914 fino al mezzogiorno del 15 maggio 1915, momento in cui lo stato di guerra medesimo venne effettivamente proclamato in virtu' del [R. decreto 14 maggio 1915, n. 777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-14;777).
+Ai soli effetti della [legge 23 giugno 1912, n. 667](Che%20istituisce%20pensioni%20privilegiate%20di%20guerra%20per%20gli%20ufficiali%20e%20militari%20di%20truppa%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0667.md), modificata come ai precedenti articoli, la Tripolitania e' da considerarsi come in istato di guerra anche per il periodo dal 1° luglio 1914 fino al mezzogiorno del 15 maggio 1915, momento in cui lo stato di guerra medesimo venne effettivamente proclamato in virtu' del [R. decreto 14 maggio 1915, n. 777](Col%20quale%20il%20territorio%20della%20Tripolitania%20viene%20considerato%20in%20istato%20di%20guerra.%20015U0777.md).
 
 ### Art. 21.
 

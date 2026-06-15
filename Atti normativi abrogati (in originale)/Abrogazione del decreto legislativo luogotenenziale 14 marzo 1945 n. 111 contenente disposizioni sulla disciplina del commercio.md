@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [decreto legislativo luogotenenziale 14 marzo 1945, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-14;111), contenente disposizioni sulla disciplina del commercio e' abrogato.
+Il [decreto legislativo luogotenenziale 14 marzo 1945, n. 111](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20sulla%20disciplina%20del%20commercio.%20045U0111.md), contenente disposizioni sulla disciplina del commercio e' abrogato.
 
 ## Art. 2.
 

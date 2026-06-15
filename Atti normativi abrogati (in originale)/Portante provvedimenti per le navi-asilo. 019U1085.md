@@ -20,7 +20,7 @@ RE D'ITALIA
 
 in virtu' dell'autorita' a Noi delegata:
 
-Viste le [leggi 11 luglio 1904 n. 378, 13 luglio 1911, n. 724, e 21 giugno 1914, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-21;576);
+Viste le [leggi 11 luglio 1904 n. 378, 13 luglio 1911, n. 724, e 21 giugno 1914, n. 576](Concernente%20le%20navi%20asilo%20e%20lopera%20nazionale%20di%20patronato%20per%20le%20medesime.%20014U0576.md);
 
 Udito il Consiglio dei ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro per la marina, di concerto con quelli per l'interno,
 
 Scopo delle navi-asilo e' di provvedere al ricovero su navi radiate o adatti galleggianti, all'assistenza ed all'educazione ed istruzione professionale marittima degli orfani di marinai e pescatori, e in genere, dei fanciulli materialmente o moralmente abbandonati. 
  
- A tali finalita' sono anche destinate le navi-asilo Caracciolo e Scilla, gia' esistenti in virtu' della [legge 13 luglio 1911, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;724). 
+ A tali finalita' sono anche destinate le navi-asilo Caracciolo e Scilla, gia' esistenti in virtu' della [legge 13 luglio 1911, n. 724](Per%20la%20sistemazione%20di%20due%20scuole%20elementari%20nautiche%20in%20Napoli%20e%20Venezia%20sulle%20navi%20Caracciolo%20e%20Scilla.%20011U0724.md). 
  
  In attesa dell'assegnazione delle navi o dei galleggianti, o per speciali transitorie ragioni, le navi asilo possono avere una preliminare o provvisoria sistemazione in locali a terra. 
  
@@ -38,7 +38,7 @@ Scopo delle navi-asilo e' di provvedere al ricovero su navi radiate o adatti gal
 
 ## Art. 2.
 
-Con le modalita' e nei limiti che saranno determinati dal regolamento di cui al successivo art. 16, le navi-asilo sono sottoposte alla vigilanza del Ministero della marina ad alla tutela dell'Opera nazionale di patronato per le navi-asilo, istituita, con sede in Roma, presso ministero della marina e riconosciuta quale ente morale dalla [legge 21 giugno 1914, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-21;576). 
+Con le modalita' e nei limiti che saranno determinati dal regolamento di cui al successivo art. 16, le navi-asilo sono sottoposte alla vigilanza del Ministero della marina ad alla tutela dell'Opera nazionale di patronato per le navi-asilo, istituita, con sede in Roma, presso ministero della marina e riconosciuta quale ente morale dalla [legge 21 giugno 1914, n. 576](Concernente%20le%20navi%20asilo%20e%20lopera%20nazionale%20di%20patronato%20per%20le%20medesime.%20014U0576.md). 
  
  L'Opera nazionale che e' a sua volta sottoposta alla diretta vigilanza del Ministero della marina, promuove la fondazione di nuove navi-asilo e lo sviluppo di quelle esistenti, e provvede, per quanto concerne istruzione degli allievi, al coordinamento dell'azione delle singole navi-asilo tra loro. 
  
@@ -76,7 +76,7 @@ Il Ministro per la marina e' autorizzato inoltre:
 
 ## Art. 6.
 
-Restano fermi i seguenti stanziamenti di annue sovvenzioni stabiliti dall'[art. 7 della legge 13 luglio 1911, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;724#art_7), e dall'arte 3 della [legge 21 giugno 1914, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-21;576), da pagarsi in due rate semestrali anticipate: 
+Restano fermi i seguenti stanziamenti di annue sovvenzioni stabiliti dall'[art. 7 della legge 13 luglio 1911, n. 724](Per%20la%20sistemazione%20di%20due%20scuole%20elementari%20nautiche%20in%20Napoli%20e%20Venezia%20sulle%20navi%20Caracciolo%20e%20Scilla.%20011U0724.md), e dall'arte 3 della [legge 21 giugno 1914, n. 576](Concernente%20le%20navi%20asilo%20e%20lopera%20nazionale%20di%20patronato%20per%20le%20medesime.%20014U0576.md), da pagarsi in due rate semestrali anticipate: 
  
  a) lire 16000 nel bilancio dell'istruzione pubblica, per la nave-asilo Caracciolo; 
  
@@ -180,7 +180,7 @@ Le disposizioni necessarie per la esecuzione del presente decreto-legge saranno 
 
 ## Art. 17.
 
-Sono abrogate le [leggi 13 luglio 1911, n. 724, e 21 giugno 1914, n. 576, nonche' l'art. 5, primo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-21;576#art_5-com1), della [legge 11 luglio 1904, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;378).
+Sono abrogate le [leggi 13 luglio 1911, n. 724, e 21 giugno 1914, n. 576, nonche' l'art. 5, primo comma](Concernente%20le%20navi%20asilo%20e%20lopera%20nazionale%20di%20patronato%20per%20le%20medesime.%20014U0576.md), della [legge 11 luglio 1904, n. 378](Concessioni%20speciali%20alle%20Societa%20cooperative%20di%20lavoro%20e%20produzione%20fra%20gli%20inscritti%20marittimi%20esercenti%20la%20pesca%20costituite%20in%20unico%20sindacato%20generale.%20004U0378.md).
 
 ## Art. 18.
 

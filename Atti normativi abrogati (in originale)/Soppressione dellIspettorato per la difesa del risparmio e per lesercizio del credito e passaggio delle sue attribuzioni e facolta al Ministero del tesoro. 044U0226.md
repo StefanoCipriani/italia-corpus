@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti il [R. decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e le modificazioni ad esso apportate con le [leggi 7 marzo 1938, n. 141, 7 aprile 1938, n. 636, 10 giugno 1940, n. 933, e 3 dicembre 1942, n. 1752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-12-03;1752);
+Visti il [R. decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e le modificazioni ad esso apportate con le [leggi 7 marzo 1938, n. 141, 7 aprile 1938, n. 636, 10 giugno 1940, n. 933, e 3 dicembre 1942, n. 1752](Modificazione%20dellart.%2012%20della%20legge%207%20marzo%201938-XVI%20n.%20141%20che%20ha%20convertito%20in%20legge%20con%20modificazioni%20il%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20dife_383c722bbb98.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

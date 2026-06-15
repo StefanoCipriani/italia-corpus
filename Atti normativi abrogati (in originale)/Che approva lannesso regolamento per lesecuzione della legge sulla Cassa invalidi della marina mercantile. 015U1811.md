@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-E' approvato l'annesso regolamento, firmato, d'ordino Nostro, dal ministro della marina per l'esecuzione della [legge 22 giugno 1913, n. 767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;767), modificata col [decreto Luogotenenziale 17 ottobre 1915, n. 1560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-17;1560). 
+E' approvato l'annesso regolamento, firmato, d'ordino Nostro, dal ministro della marina per l'esecuzione della [legge 22 giugno 1913, n. 767](Che%20approva%20il%20riordinamento%20della%20Cassa%20invalidi%20della%20marina%20mercantile%20e%20del%20Fondo%20invalidi%20per%20la%20veneta%20marina%20mercantile.%20013U0767.md), modificata col [decreto Luogotenenziale 17 ottobre 1915, n. 1560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-17;1560). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

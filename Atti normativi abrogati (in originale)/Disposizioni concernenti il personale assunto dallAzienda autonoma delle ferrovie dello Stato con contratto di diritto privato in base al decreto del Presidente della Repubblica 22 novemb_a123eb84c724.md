@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La facolta' per l'Azienda autonoma delle ferrovie dello Stato, di avvalersi, con contratto di diritto privato, del personale di cui all'[articolo 4 del decreto del Presidente della Repubblica 22 novembre 1961, n. 1192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-11-22;1192#art_4), e' prorogata per un ulteriore periodo massimo di un anno.
+La facolta' per l'Azienda autonoma delle ferrovie dello Stato, di avvalersi, con contratto di diritto privato, del personale di cui all'[articolo 4 del decreto del Presidente della Repubblica 22 novembre 1961, n. 1192](../DPR/Norme%20per%20la%20disciplina%20dellimpiego%20della%20mano%20dopera%20negli%20appalti%20concessi%20dalle%20Amministrazioni%20autonome%20delle%20ferrovie%20dello%20Stato%20dei%20monopoli%20di%20Stato%20e%20delle%20poste%20e%20telecomunicazioni.md), e' prorogata per un ulteriore periodo massimo di un anno.
 
 ## Art. 2.
 

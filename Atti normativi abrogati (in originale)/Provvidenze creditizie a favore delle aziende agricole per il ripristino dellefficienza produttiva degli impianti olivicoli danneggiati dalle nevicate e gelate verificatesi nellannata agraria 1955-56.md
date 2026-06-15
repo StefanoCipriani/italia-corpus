@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il Consorzio nazionale per il credito agrario di miglioramento, costituito ai sensi dell'[art. 18 del regio decreto-legge 29 luglio 1927, n. 1509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509#art_18), convertito, con modificazioni, nella [legge 5 luglio 1928, n. 1760](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md), avvalendosi delle somme ricavate con il collocamento di sue obbligazioni ventennali rimborsabili a decorrere dal nono anno, provvede a concedere mutui della durata di anni venti, fino alla somma di lire 10 miliardi, al tasso del 3 per cento, agli agricoltori le cui aziende siano state gravemente danneggiate negli impianti di olivi dalle nevicate e gelate dell'annata agraria 1955-56.
+Il Consorzio nazionale per il credito agrario di miglioramento, costituito ai sensi dell'[art. 18 del regio decreto-legge 29 luglio 1927, n. 1509](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md), convertito, con modificazioni, nella [legge 5 luglio 1928, n. 1760](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md), avvalendosi delle somme ricavate con il collocamento di sue obbligazioni ventennali rimborsabili a decorrere dal nono anno, provvede a concedere mutui della durata di anni venti, fino alla somma di lire 10 miliardi, al tasso del 3 per cento, agli agricoltori le cui aziende siano state gravemente danneggiate negli impianti di olivi dalle nevicate e gelate dell'annata agraria 1955-56.
  L'importo del mutuo deve essere destinato al ripristino dell'efficienza produttiva degli impianti olivicoli.
  Le obbligazioni di cui al primo comma del presente articolo sono assistite dalla garanzia statale per il rimborso del capitale e per il pagamento degli interessi.
 
@@ -38,7 +38,7 @@ I mutui di cui all'art. 1 della presente legge sono concessi dal Consorzio nazio
 ## Art. 5.
 
 In caso di esecuzione forzata sugli immobili dati in garanzia da coltivatori diretti o da piccoli proprietari per i mutui di cui alla presente legge, la Cassa per la formazione della piccola proprieta' contadina deve intervenire nella vendita, offrendo di acquistare gli immobili a prezzo non inferiore al valore di stima stabilito ai fini della concessione del mutuo da concordarsi tra il Consorzio nazionale di credito di miglioramento ed il capo dell'Ispettorato provinciale dell'agricoltura.
- Per i terreni acquistati dalla Cassa per la piccola proprieta' contadina, ai sensi dei precedenti commi, si applicano le disposizioni di cui all'[art. 8 del decreto legislativo 24 febbraio 1948, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-24;114#art_8), e successive modificazioni ed aggiunte.
+ Per i terreni acquistati dalla Cassa per la piccola proprieta' contadina, ai sensi dei precedenti commi, si applicano le disposizioni di cui all'[art. 8 del decreto legislativo 24 febbraio 1948, n. 114](../Decreti%20Legislativi/Provvidenze%20a%20favore%20della%20piccola%20proprieta%20contadina.md), e successive modificazioni ed aggiunte.
 
 ## Art. 6.
 

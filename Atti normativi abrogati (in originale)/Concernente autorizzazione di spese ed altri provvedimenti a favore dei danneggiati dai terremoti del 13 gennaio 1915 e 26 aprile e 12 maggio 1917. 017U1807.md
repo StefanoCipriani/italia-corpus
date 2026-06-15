@@ -42,9 +42,9 @@ Nello stato di previsione della spesa del Ministero dei lavori pubblici per l'es
 
 264.
 
-- Riparazione, ricostruzione o nuova costruzione degli edifici pubblici dello Stato in Messina, Reggio Calabria e negli altri luoghi danneggiati dal terremoto del 28 dicembre 1908 ([art. 51 della legge 13 luglio 1910, n. 466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;466#art_51), 3° comma, art. 2, lett.
+- Riparazione, ricostruzione o nuova costruzione degli edifici pubblici dello Stato in Messina, Reggio Calabria e negli altri luoghi danneggiati dal terremoto del 28 dicembre 1908 ([art. 51 della legge 13 luglio 1910, n. 466](Provvedimenti%20a%20favore%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2028%20dicembre%201908.%20010U0466.md), 3° comma, art. 2, lett.
                         a)
-                            e [articolo 3 della legge 28 luglio 1911, n. 842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-28;842#art_3), - L. 3.000.000. 
+                            e [articolo 3 della legge 28 luglio 1911, n. 842](Che%20autorizza%20maggiori%20fondi%20per%20la%20costruzione%20di%20edifici%20pubblici%20governativi%20nei%20comuni%20colpiti%20dal%20terremoto%20e%20provvedimenti%20vari%20a%20favore%20dei%20comuni%20stessi.%20011U0842.md), - L. 3.000.000. 
  
  Capitolo 268-bis (di nuova istituzione) - Spese per provvedere ai bisogni ed opere urgenti nelle localita' colpite dal terremoto del 26 aprile 1917 nelle provincie di Arezzo e Perugia, + L. 2.000.000. 
  
@@ -103,7 +103,7 @@ Il termine utile per la presentazione delle domande di sussidio, di cui alla [le
 
 ## Art. 9.
 
-Qualora nei Comuni danneggiati dal terremoto del 13 gennaio 1915 il restauro col sussidio dello Stato dell'abitazione di persone povere non sia tecnicamente effettuabile senza la contemporanea esecuzione di opere in altra parte dello stesso stabile o di altro ad esso adiacente, appartenenti a persone abbienti che non possono godere del beneficio del sussidio, il genio civile e' autorizzato a provvedervi di ufficio, salvo rimborso della spesa da parte degli abbienti medesimi, con le modalita' e le norme stabilite dagli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-11;106#art_7), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-11;106#art_8) e [9 del R. decreto 11 febbraio 1915, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-11;106#art_9), convertito nella [legge 1° aprile 1915, n. 476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;476), allegato N.
+Qualora nei Comuni danneggiati dal terremoto del 13 gennaio 1915 il restauro col sussidio dello Stato dell'abitazione di persone povere non sia tecnicamente effettuabile senza la contemporanea esecuzione di opere in altra parte dello stesso stabile o di altro ad esso adiacente, appartenenti a persone abbienti che non possono godere del beneficio del sussidio, il genio civile e' autorizzato a provvedervi di ufficio, salvo rimborso della spesa da parte degli abbienti medesimi, con le modalita' e le norme stabilite dagli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-11;106#art_7), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-11;106#art_8) e [9 del R. decreto 11 febbraio 1915, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-11;106#art_9), convertito nella [legge 1° aprile 1915, n. 476](Che%20converte%20in%20legge%2017%20decreti%20Reali%20recanti%20provvedimenti%20a%20favore%20dei%20paesi%20danneggiati%20dal%20terremoto%20del%2013%20gennaio%201915%20e%20porta%20modificazioni%20ai%20decreti%20stessi%20con%20laggiunta%20di%20altr_f19f0a26f386.md), allegato N.
 
 ## Art. 10.
 

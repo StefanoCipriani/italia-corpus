@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 febbraio 1930, n.176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-22;176), concernente nuove concessioni in materia di temporanea importazione ed esportazione. 
+ E' convertito in legge il [R. decreto-legge 22 febbraio 1930, n.176](Nuove%20concessioni%20di%20temporanea%20importazione%20ed%20esportazione%20di%20merci%20per%20essere%20lavorate.%20030U0176.md), concernente nuove concessioni in materia di temporanea importazione ed esportazione. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 12 giugno 1930 - Anno VIII 
  

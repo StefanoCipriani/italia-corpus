@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [decreto legislativo Luogotenenziale 8 febbraio 1946, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;49), concernente la cessazione dello stato di guerra ed il passaggio dalla legislazione di guerra a quella di pace;
+Visto il [decreto legislativo Luogotenenziale 8 febbraio 1946, n. 49](../Decreti%20legislativi%20luogotenenziali/Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md), concernente la cessazione dello stato di guerra ed il passaggio dalla legislazione di guerra a quella di pace;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -35,7 +35,7 @@ PROVVEDIMENTO
 
 ## Art. 2.
 
-Il termine per l'efficacia delle disposizioni di cui all'[art. 6 del R. decreto legge 17 ottobre 1941, n. 1159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-10-17;1159#art_6), all'[art. 5 del R. decreto-legge 28 maggio 1942, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-05-28;633#art_5) ed all'[art. 1 del decreto legislativo Luogotenenziale 31 luglio 1945, n. 447](Deroga%20alle%20disposizioni%20vigenti%20della%20legge%20di%20contabilita%20generale%20per%20il%20pagamento%20della%20indennita%20per%20il%20maggior%20prezzo%20del%20pane%20e%20della%20pasta.%20045U0447.md), relativi a deroghe al limite fissato per le aperture di credito dal penultimo comma dell'[art. 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e' prorogato di un anno.
+Il termine per l'efficacia delle disposizioni di cui all'[art. 6 del R. decreto legge 17 ottobre 1941, n. 1159](Maggiori%20assegnazioni%20agli%20stati%20di%20previsione%20della%20spesa%20di%20taluni%20Ministeri%20per%20lesercizio%20finanziario%201941-42%20per%20esigenze%20dipendenti%20dalla%20guerra.%20041U1159.md), all'[art. 5 del R. decreto-legge 28 maggio 1942, n. 633](Maggiori%20assegnazioni%20agli%20stati%20di%20previsione%20della%20spesa%20di%20taluni%20Ministeri%20per%20lesercizio%201941-42%20ed%20altri%20provvedimenti%20di%20carattere%20finanziario.%20042U0633.md) ed all'[art. 1 del decreto legislativo Luogotenenziale 31 luglio 1945, n. 447](Deroga%20alle%20disposizioni%20vigenti%20della%20legge%20di%20contabilita%20generale%20per%20il%20pagamento%20della%20indennita%20per%20il%20maggior%20prezzo%20del%20pane%20e%20della%20pasta.%20045U0447.md), relativi a deroghe al limite fissato per le aperture di credito dal penultimo comma dell'[art. 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e' prorogato di un anno.
 
 ## Art. 3.
 
@@ -43,7 +43,7 @@ Il termine per la presentazione dei rendiconti generali dello Stato a decorrere 
 
 ## Art. 4.
 
-La sospensione del versamento dei contributi a favore dell'Amministrazione delle ferrovie dello Stato, disposta con l'[art. 4 della legge 28 settembre 1942, n. 1140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-09-28;1140#art_4), ha effetto fino all'esercizio finanziario successivo a quello in cui verra' conclusa la pace.
+La sospensione del versamento dei contributi a favore dell'Amministrazione delle ferrovie dello Stato, disposta con l'[art. 4 della legge 28 settembre 1942, n. 1140](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20dei%20diversi%20Ministeri%20ed%20ai%20bilanci%20di%20talune%20Aziende%20autonome%20per%20lesercizio%20finanziario%201942-43%20ed%20altri%20provvedimen_c90e81b3fd1b.md), ha effetto fino all'esercizio finanziario successivo a quello in cui verra' conclusa la pace.
 
 ## Art. 5.
 
@@ -56,7 +56,7 @@ Il termine previsto dall'[art. 8 del R. decreto 6 gennaio 1942, n. 27](https://w
 
 ## Art. 7.
 
-A decorrere dal 15 aprile 1947 e' abrogata la facolta' di assumere personale non di ruolo in sostituzione del personale richiamato alle armi per esigenze di carattere eccezionale, prevista dalla [legge 21 maggio 1940, n. 528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-21;528), e dalla [legge 29 giugno 1940, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-29;739), nonche' la facolta' di assumere pensionati in temporaneo servizio presso le Amministrazioni centrali dello Stato, prevista dai [R. decreto-legge 31 gennaio 1944, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-31;34).
+A decorrere dal 15 aprile 1947 e' abrogata la facolta' di assumere personale non di ruolo in sostituzione del personale richiamato alle armi per esigenze di carattere eccezionale, prevista dalla [legge 21 maggio 1940, n. 528](Sostituzione%20del%20personale%20richiamato%20alle%20armi%20per%20esigenze%20di%20carattere%20eccezionale%20con%20personale%20pensionato.%20040U0528.md), e dalla [legge 29 giugno 1940, n. 739](Assunzione%20di%20personale%20femminile%20e%20di%20pensionati%20per%20assicurare%20il%20funzionamento%20dei%20servizi%20civili.%20040U0739.md), nonche' la facolta' di assumere pensionati in temporaneo servizio presso le Amministrazioni centrali dello Stato, prevista dai [R. decreto-legge 31 gennaio 1944, n. 34](Assunzione%20in%20servizio%20di%20pensionati%20dellAmministrazione%20dello%20Stato.%20044U0034.md).
 
 ## Art. 8.
 

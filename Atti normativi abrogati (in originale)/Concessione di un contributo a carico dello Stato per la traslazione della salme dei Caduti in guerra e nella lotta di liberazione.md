@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 31 maggio 1935, n. 752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-31;752), convertito nella [legge 9 gennaio 1936, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;132), recante modificazioni alla [legge 12 giugno 1931, n. 877](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-12;877), per la definitiva sistemazione dei Caduti in guerra;
+Visto il [regio decreto-legge 31 maggio 1935, n. 752](Modificazioni%20alla%20legge%2012%20giugno%201931-IX%20n.%20877%20concernente%20la%20definitiva%20sistemazione%20delle%20Salme%20dei%20Caduti%20in%20guerra.%20035U0752.md), convertito nella [legge 9 gennaio 1936, n. 132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2031%20maggio%201935-XIII%20n.%20752%20recante%20modificazioni%20alla%20legge%2012%20giugno%201931-IX%20n.%20877%20concernente%20la%20definitiva%20sistemazione%20delle%20Salme%20dei%20Cadut_b88c04823356.md), recante modificazioni alla [legge 12 giugno 1931, n. 877](Sistemazione%20definitiva%20delle%20salme%20dei%20Caduti%20in%20guerra.%20031U0877.md), per la definitiva sistemazione dei Caduti in guerra;
 
-Visto il [regio decreto 21 dicembre 1942, n. 1880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-12-21;1880), che, approva il regolamento di polizia mortuaria;
+Visto il [regio decreto 21 dicembre 1942, n. 1880](Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md), che, approva il regolamento di polizia mortuaria;
 
 Visto il [decreto legislativo 14 febbraio 1947, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-02-14;27), riguardante la soppressione del Ministero dell'assistenza post-bellica e la devoluzione delle sue attribuzioni ad altre Amministrazioni;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

@@ -20,13 +20,13 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 2 della legge 16 dicembre 1912, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-16;1312#art_2), il quale, fra l'altro, autorizza, per l'esecuzione delle spese nella legge stessa indicate, la istituzione di un conto corrente fra il tesoro dello Stato ed il Ministero delle colonie fino al limite massimo d L. 50.200.000, delle quali L. 200.000 stabilite dalla [legge 6 luglio 1912, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;749);
+Visto l'[art. 2 della legge 16 dicembre 1912, n. 1312](Colla%20quale%20viene%20data%20esecuzione%20al%20trattato%20di%20pace%20fra%20lItalia%20e%20la%20Turchia%20e%20sono%20adottati%20provvedimenti%20per%20la%20Libia%20012U1312.md), il quale, fra l'altro, autorizza, per l'esecuzione delle spese nella legge stessa indicate, la istituzione di un conto corrente fra il tesoro dello Stato ed il Ministero delle colonie fino al limite massimo d L. 50.200.000, delle quali L. 200.000 stabilite dalla [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md);
 
-Visto l'[art. 2 della legge 16 aprile 1914, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-04-16;275#art_2), il quale determina che al conto corrente predetto debbano essere portate in aumento le entrate proprie della Tripolitania e della Cirenaica accertate dal 1° luglio 1913 al 30 giugno 1914;
+Visto l'[art. 2 della legge 16 aprile 1914, n. 275](Che%20approva%20spese%20determinate%20dalloccupazione%20della%20Tripolitania%20e%20della%20Cirenaica%20e%20dalloccupazione%20temporanea%20delle%20isole%20dellEgeo.%20014U0275.md), il quale determina che al conto corrente predetto debbano essere portate in aumento le entrate proprie della Tripolitania e della Cirenaica accertate dal 1° luglio 1913 al 30 giugno 1914;
 
 Ritenuta la necessita' di stanziare in bilancio i fondi occorrenti per rimborsare il tesoro della indicata anticipazione di L. 50.200.000;
 
-Considerata, altresi', la necessita' di dare assetto, nei riguardi del bilancio, alla gestione relativa ai fondi di cui all'art. 2 della citata [legge 16 aprile 1914, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-04-16;275);
+Considerata, altresi', la necessita' di dare assetto, nei riguardi del bilancio, alla gestione relativa ai fondi di cui all'art. 2 della citata [legge 16 aprile 1914, n. 275](Che%20approva%20spese%20determinate%20dalloccupazione%20della%20Tripolitania%20e%20della%20Cirenaica%20e%20dalloccupazione%20temporanea%20delle%20isole%20dellEgeo.%20014U0275.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -34,11 +34,11 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto con q
 
 ## Art. 1.
 
-E' autorizzata l'assegnazione straordinaria di lire 50.200.00, da inscriversi in apposito capitolo dello stato di previsione della spesa del Ministero delle colonie per l'esercizio finanziario 1915-916, per altrettanta somma da rimborsare al tesoro a saldo delle anticipazioni affettuate in conto corrente al Ministero predetto ai sensi dell'[art. 2 della legge 16 dicembre 1912, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-16;1312#art_2).
+E' autorizzata l'assegnazione straordinaria di lire 50.200.00, da inscriversi in apposito capitolo dello stato di previsione della spesa del Ministero delle colonie per l'esercizio finanziario 1915-916, per altrettanta somma da rimborsare al tesoro a saldo delle anticipazioni affettuate in conto corrente al Ministero predetto ai sensi dell'[art. 2 della legge 16 dicembre 1912, n. 1312](Colla%20quale%20viene%20data%20esecuzione%20al%20trattato%20di%20pace%20fra%20lItalia%20e%20la%20Turchia%20e%20sono%20adottati%20provvedimenti%20per%20la%20Libia%20012U1312.md).
 
 ## Art. 2.
 
-Il provento delle entrate proprie della Tripolitania e della Cirenaica accertato dal 1° luglio 1913 al 30 giugno 1914, e portato in aumento al conto corrente, di cui al precedente articolo, giusta il disposto dell'[articolo 2 della legge 16 aprile 1914, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-04-16;275#art_2), sara' da inscriversi in apposito capitolo dello stato di previsione della spesa del Ministero delle colonie per lo esercizio finanziario 1915-916 contro corrispondente assegnazione nello stato di previsione dell'entrata per l'esercizio medesimo.
+Il provento delle entrate proprie della Tripolitania e della Cirenaica accertato dal 1° luglio 1913 al 30 giugno 1914, e portato in aumento al conto corrente, di cui al precedente articolo, giusta il disposto dell'[articolo 2 della legge 16 aprile 1914, n. 275](Che%20approva%20spese%20determinate%20dalloccupazione%20della%20Tripolitania%20e%20della%20Cirenaica%20e%20dalloccupazione%20temporanea%20delle%20isole%20dellEgeo.%20014U0275.md), sara' da inscriversi in apposito capitolo dello stato di previsione della spesa del Ministero delle colonie per lo esercizio finanziario 1915-916 contro corrispondente assegnazione nello stato di previsione dell'entrata per l'esercizio medesimo.
 
 ## Art. 3.
 

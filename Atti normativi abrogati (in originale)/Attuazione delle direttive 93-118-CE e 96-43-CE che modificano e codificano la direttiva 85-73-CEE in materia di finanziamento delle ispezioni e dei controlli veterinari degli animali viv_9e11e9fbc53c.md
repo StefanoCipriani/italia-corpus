@@ -61,7 +61,7 @@ E' vietata qualsiasi restituzione diretta o indiretta dei contributi previsti in
 I contributi di cui ai commi 1, 2 e 3 sostituiscono qualsiasi altra tassa o contributo sanitario previsto per le ispezioni ed i controlli di cui ai medesimi commi 1, 2 e 3 e la loro certificazione; e' fatta salva la possibilita' di stabilire, con decreto del Ministro della sanita', di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, uno specifico contributo per la lotta contro le epizoozie e le malattie enzootiche.
 
 Avvertenza:
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985 n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985 n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
  Note alle premesse:
@@ -155,7 +155,7 @@ Fermo restando quanto disposto dalIarticolo [20, comma 1, della legge 16 aprile 
 
 8.
 
-Entro due mesi dalla data di entrata in vigore del presente decreto, le regioni e le province autonome trasmettono al Ministero della sanita', relativamente agli anni 1993, 1994, 1995, 1996, 1997 e 1998, il rendiconto delle somme percepite, nonche' i dati relativi ai costi del servizio prestato per l'attuazione del [decreto legislativo 15 gennaio 1992, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-15;51).
+Entro due mesi dalla data di entrata in vigore del presente decreto, le regioni e le province autonome trasmettono al Ministero della sanita', relativamente agli anni 1993, 1994, 1995, 1996, 1997 e 1998, il rendiconto delle somme percepite, nonche' i dati relativi ai costi del servizio prestato per l'attuazione del [decreto legislativo 15 gennaio 1992, n. 51](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2085-73-CEE%20e%20n.%2088-409-CEE%20in%20materia%20di%20finanziamento%20delle%20ispezioni%20e%20dei%20controlli%20sanitari%20delle%20carni%20fresche%20e%20delle%20carni%20di%20volatili%20da%20cortile.md).
 
 Note all'art 4:
  - Il testo dell'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' il seguente:
@@ -175,7 +175,7 @@ Note all'art 4:
  e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali".
  - Il testo del [comma 1 dell'art. 20 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_20-com1) (Coordinamento delle politiche riguardanti l'appartenenza dell'Italia alle Comunita' europee ed adeguamento dell'ordinamento interno agli atti normativi comunitari), e' il seguente:
  "1. Con decreti dei Ministri interessati sara' data attuazione alle direttive che saranno emanate dalla Comunita' economica europea per le parti in cui modifichino modalita' esecutive e caratteristiche di ordine tecnico di altre direttive della Comunita' economica europea gia' recepite nell'ordinamento nazionale".
- - Il [D.Lgs. 15 gennaio 1992, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-15;51), reca "Attuazione delle [direttive n. 85/73/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;73) e [n. 88/409/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;409) in materia di finanziamento delle ispezioni e dei controlli sanitari delle carni fresche e delle carni di volatili da cortile".
+ - Il [D.Lgs. 15 gennaio 1992, n. 51](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2085-73-CEE%20e%20n.%2088-409-CEE%20in%20materia%20di%20finanziamento%20delle%20ispezioni%20e%20dei%20controlli%20sanitari%20delle%20carni%20fresche%20e%20delle%20carni%20di%20volatili%20da%20cortile.md), reca "Attuazione delle [direttive n. 85/73/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;73) e [n. 88/409/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;409) in materia di finanziamento delle ispezioni e dei controlli sanitari delle carni fresche e delle carni di volatili da cortile".
 
 ## Art. 5.
 
@@ -255,10 +255,10 @@ Il Ministro della sanita', con proprio decreto, puo' stabilire, informandone pre
 
 1.
 
-Dalla data di entrata in vigore del presente decreto, sono abrogati gli [articoli da 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-15;51#art_1) [a 10 del decreto legislativo 15 gennaio 1992, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-15;51#art_10).
+Dalla data di entrata in vigore del presente decreto, sono abrogati gli [articoli da 1](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2085-73-CEE%20e%20n.%2088-409-CEE%20in%20materia%20di%20finanziamento%20delle%20ispezioni%20e%20dei%20controlli%20sanitari%20delle%20carni%20fresche%20e%20delle%20carni%20di%20volatili%20da%20cortile.md) [a 10 del decreto legislativo 15 gennaio 1992, n. 51](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2085-73-CEE%20e%20n.%2088-409-CEE%20in%20materia%20di%20finanziamento%20delle%20ispezioni%20e%20dei%20controlli%20sanitari%20delle%20carni%20fresche%20e%20delle%20carni%20di%20volatili%20da%20cortile.md).
 
 Nota all'art. 8:
- - Per quanto concerne il [D.Lgs. 15 gennaio 1992, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-15;51), vedi nelle note all'art. 4.
+ - Per quanto concerne il [D.Lgs. 15 gennaio 1992, n. 51](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2085-73-CEE%20e%20n.%2088-409-CEE%20in%20materia%20di%20finanziamento%20delle%20ispezioni%20e%20dei%20controlli%20sanitari%20delle%20carni%20fresche%20e%20delle%20carni%20di%20volatili%20da%20cortile.md), vedi nelle note all'art. 4.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

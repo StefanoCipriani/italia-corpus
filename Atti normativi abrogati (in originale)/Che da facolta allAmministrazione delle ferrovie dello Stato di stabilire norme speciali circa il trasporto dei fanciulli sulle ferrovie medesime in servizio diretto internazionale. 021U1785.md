@@ -16,7 +16,7 @@ RE D' ITALIA
 
 Viste le tariffe e condizioni valevoli per i trasporti sulle linee ferroviarie esercitate dallo Stato;
 
-Visti gli articoli 39 e 62, ultimo capoverso, della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata con [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728);
+Visti gli articoli 39 e 62, ultimo capoverso, della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata con [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
 
 Visto il [decreto Luogotenenziale 12 settembre 1915, n. 1888](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-09-12;1888);
 

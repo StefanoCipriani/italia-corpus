@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 gennaio 1927, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-16;347), concernente l'assicurazione obbligatoria contro gli infortuni degli studenti delle scuole superiori di ingegneria e di architettura. 
+ E' convertito in legge il [R. decreto-legge 16 gennaio 1927, n. 347](Obbligatorieta%20dellassicurazione%20contro%20gli%20infortuni%20per%20gli%20studenti%20delle%20Regie%20scuole%20superiori%20di%20ingegneria%20e%20di%20architettura.%20027U0347.md), concernente l'assicurazione obbligatoria contro gli infortuni degli studenti delle scuole superiori di ingegneria e di architettura. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

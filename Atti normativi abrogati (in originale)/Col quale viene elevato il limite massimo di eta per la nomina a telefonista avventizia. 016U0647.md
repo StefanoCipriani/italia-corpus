@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Vista la [legge 19 luglio 1909, n. 528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;528); 
+ Vista la [legge 19 luglio 1909, n. 528](Che%20approva%20lorganico%20della%20direzione%20generale%20dei%20telefoni.%20009U0528.md); 
  
- Visto l'art. 82 del regolamento speciale per il personale dei telefoni, approvato col [R. decreto 16 maggio 1912, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;574); 
+ Visto l'art. 82 del regolamento speciale per il personale dei telefoni, approvato col [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md); 
  
  Considerato che, in dipendenza dello stato di guerra, fu sospesa l'ammissione di telefoniste avventizie nell'Amministrazione dei telefoni e dal 1° settembre 1915 fu anche sospesa l'accettazione delle relative domande; 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Il limite massimo di eta', stabilito dall'art. 82 del regolamento speciale approvato col [R. decreto 16 maggio 1912, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;574), per l'assunzione delle telefoniste avventizie e' elevato di un periodo di tempo pari a quello decorrente dal giorno della dichiarazione di guerra a tutto il sessantesimo giorno successivo alla data della conclusione della pace, a favore di tutte le aspiranti che si trovino inscritte nell'albo della Direzione generale dei telefoni per avere presentato domanda, debitamente accettata, non oltre il 31 agosto 1915. 
+ Il limite massimo di eta', stabilito dall'art. 82 del regolamento speciale approvato col [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), per l'assunzione delle telefoniste avventizie e' elevato di un periodo di tempo pari a quello decorrente dal giorno della dichiarazione di guerra a tutto il sessantesimo giorno successivo alla data della conclusione della pace, a favore di tutte le aspiranti che si trovino inscritte nell'albo della Direzione generale dei telefoni per avere presentato domanda, debitamente accettata, non oltre il 31 agosto 1915. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

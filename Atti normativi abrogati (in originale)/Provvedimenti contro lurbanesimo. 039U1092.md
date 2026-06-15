@@ -70,7 +70,7 @@ Il dirigente o il dipendente dell'Ufficio di collocamento che richiede o autoriz
  
  Chiunque, infine, in violazione del disposto dell'art. 5, dia in locazione o sublocazione case di abitazione, camere mobiliate non mobiliate ovvero qualsiasi altro locale, e' punito con l'ammenda da lire 50 a lire 300. 
  
- Le precedenti disposizioni si applicano senza pregiudizio delle maggiori pene comminate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e da altre leggi speciali.
+ Le precedenti disposizioni si applicano senza pregiudizio delle maggiori pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e da altre leggi speciali.
 
 ### Art. 11.
 

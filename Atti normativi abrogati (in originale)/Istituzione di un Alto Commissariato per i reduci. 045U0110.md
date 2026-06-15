@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 19 aprile 1923, n. 850](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;850), che ha istituito l'Ufficio per l'assistenza ai reduci di guerra e alle famiglie dei caduti, presso la Presidenza del Consiglio dei Ministri;
+Visto il [R. decreto 19 aprile 1923, n. 850](Concernente%20la%20sistemazione%20dei%20servizi%20di%20vigilanza%20protezione%20ed%20assistenza%20dei%20reduci%20validi%20ed%20invalidi%20della%20guerra%20nazionale%20e%20delle%20famiglie%20dei%20caduti.%20023U0850.md), che ha istituito l'Ufficio per l'assistenza ai reduci di guerra e alle famiglie dei caduti, presso la Presidenza del Consiglio dei Ministri;
 
-Visto il [R. decreto-legge 6 aprile 1944, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-04-06;107), concernente l'istituzione di un Alto Commissariato per i prigionieri di guerra;
+Visto il [R. decreto-legge 6 aprile 1944, n. 107](Istituzione%20di%20un%20Alto%20Commissariato%20per%20prigionieri%20di%20guerra.%20044U0107.md), concernente l'istituzione di un Alto Commissariato per i prigionieri di guerra;
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;137), che istituisce un Alto Commissariato per l'assistenza morale e materiale dei profughi di guerra;
+Visto il [R. decreto-legge 29 maggio 1944, n. 137](Istituzione%20di%20un%20Alto%20Commissariato%20per%20lassistenza%20morale%20e%20materiale%20dei%20profughi%20di%20guerra.%20044U0137.md), che istituisce un Alto Commissariato per l'assistenza morale e materiale dei profughi di guerra;
 
 Visto il [decreto Luogotenenziale 12 dicembre 1944, n. 395](Istituzione%20del%20Ministero%20dellItalia%20occupata.%20044U0395.md), che istituisce il Ministero dell'Italia occupata;
 
@@ -74,7 +74,7 @@ Agli effetti dell'articolo precedente sono considerati reduci di guerra:
 
 L'Alto Commissariato per i reduci provvede all'assistenza morale e materiale di tutti i reduci, a norma dei due articoli precedenti, a mezzo dell'Associazione nazionale combattenti, dell'Associazione nazionale partigiani d'Italia (A.N.P.I.) e delle altre istituzioni ed enti esistenti, secondo le rispettive competenze. 
  
- Puo', inoltre, se necessario, costituire uffici propri, servendosi di personale sia civile sia militare, comandato da altre Amministrazioni dello Stato, e di personale avventizio osservando, per quest'ultimo, le modalita' stabilite dal [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), e dalle successive modificazioni. 
+ Puo', inoltre, se necessario, costituire uffici propri, servendosi di personale sia civile sia militare, comandato da altre Amministrazioni dello Stato, e di personale avventizio osservando, per quest'ultimo, le modalita' stabilite dal [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), e dalle successive modificazioni. 
  
  Il numero massimo degli impiegati sara' stabilito con decreto del Presidente del Consiglio dei Ministri, d'intesa con il Ministro per il tesoro, su proposta dell'Alto Commissario.
 
@@ -110,7 +110,7 @@ L'Alto Commissariato e' posto alle dirette dipendenze della Presidenza del Consi
  
  Esso tratta direttamente con gli organi della Commissione Alleata e corrisponde direttamente con le pubbliche amministrazioni e con gli enti pubblici. 
  
- Della giunta istituita dall'[art. 6 del R. decreto-legge 29 maggio 1944, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;137#art_6), fa parte di diritto un rappresentante dell'Alto Commissariato per i reduci.
+ Della giunta istituita dall'[art. 6 del R. decreto-legge 29 maggio 1944, n. 137](Istituzione%20di%20un%20Alto%20Commissariato%20per%20lassistenza%20morale%20e%20materiale%20dei%20profughi%20di%20guerra.%20044U0137.md), fa parte di diritto un rappresentante dell'Alto Commissariato per i reduci.
 
 ## Art. 9.
 

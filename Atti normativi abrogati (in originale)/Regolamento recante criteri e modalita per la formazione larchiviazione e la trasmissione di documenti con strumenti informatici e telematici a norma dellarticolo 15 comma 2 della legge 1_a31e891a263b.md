@@ -14,9 +14,9 @@ Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Visto l'[articolo 15, comma 2, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_15-com2);
+Visto l'[articolo 15, comma 2, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
-Visto il [decreto legislativo 12 febbraio 1993, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39);
+Visto il [decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Sentito il Garante per la protezione dei dati personali;
 
@@ -73,7 +73,7 @@ Ai fini del presente regolamento s'intende:
                                 per regole tecniche, le specifiche di carattere tecnico, ivi compresa ogni disposizione che ad esse si applichi.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note al preambolo:
  - Si riporta il testo dell'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87):
  "Art. 87. - Il Presidente della Repubblica e' il Capo dello Stato e rappresenta l'unita' nazionale.
@@ -92,7 +92,7 @@ Avvertenza:
  "2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari".
  - Si riporta il testo dell'[art. 15, comma 2, della legge n. 59/1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997;59#art_15-com2) (Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa):
  "2. Gli atti, dati e documenti formati dalla pubblica amministrazione e dai privati con strumenti informatici o telematici, i contratti stipulati nelle medesime forme, nonche' la loro archiviazione e trasmissione con strumenti informatici, sono validi e rilevanti a tutti gli effetti di legge. I criteri e le modalita' di applicazione del presente comma sono stabiliti, per la pubblica amministrazione e per i privati, con specifici regolamenti da emanare entro centottanta giorni dalla data di entrata in vigore della presente legge ai sensi dell'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2). Gli schemi dei regolamenti sono trasmessi alla Camera dei deputati e al Senato della Repubblica, per l'acquisizione del parere delle competenti commissioni".
- - Il [decreto legislativo n. 39/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;39) reca: "Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art. 2, comma 1, lettera mm), della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421)".
+ - Il [decreto legislativo n. 39/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;39) reca: "Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art. 2, comma 1, lettera mm), della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)".
 
 ### Art. 2. — Documento informatico
 
@@ -116,7 +116,7 @@ Con il decreto di cui al comma 1 sono altresi' dettate le misure tecniche, organ
 
 4.
 
-Resta fermo quanto previsto dall'[articolo 15 della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_15).
+Resta fermo quanto previsto dall'[articolo 15 della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md).
 
 Nota all'art. 3:
  - Si riporta il testo dell'[art. 15 della legge n. 675/1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996;675#art_15) (Tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali):
@@ -261,7 +261,7 @@ Il certificatore e' tenuto a:
                             e)
                                 informare i richiedenti, in modo compiuto e chiaro, sulla procedura di certificazione e sui necessari requisiti tecnici per accedervi;
                             f)
-                                attenersi alle misure minime di sicurezza per il trattamento dei dati personali emanate ai sensi dell'[articolo 15, comma 2, della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_15-com2);
+                                attenersi alle misure minime di sicurezza per il trattamento dei dati personali emanate ai sensi dell'[articolo 15, comma 2, della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md);
                             g)
                                 non rendersi depositario di chiavi private;
                             h)
@@ -453,7 +453,7 @@ Entro il 31 marzo 1998 le pubbliche amministrazioni adottano un piano di svilupp
 
 2.
 
-Le pubbliche amministrazioni provvedono, entro cinque anni, a partire dal 1 gennaio 1998, a realizzare o revisionare sistemi informativi finalizzati alla totale automazione delle fasi di produzione, gestione, diffusione ed utilizzazione dei propri dati, documenti, procedimenti ed atti in conformita' alle disposizioni del presente regolamento ed alle disposizioni di cui alle [leggi 31 dicembre 1996, numeri 675 e 676](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;676).
+Le pubbliche amministrazioni provvedono, entro cinque anni, a partire dal 1 gennaio 1998, a realizzare o revisionare sistemi informativi finalizzati alla totale automazione delle fasi di produzione, gestione, diffusione ed utilizzazione dei propri dati, documenti, procedimenti ed atti in conformita' alle disposizioni del presente regolamento ed alle disposizioni di cui alle [leggi 31 dicembre 1996, numeri 675 e 676](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md).
 
 3.
 

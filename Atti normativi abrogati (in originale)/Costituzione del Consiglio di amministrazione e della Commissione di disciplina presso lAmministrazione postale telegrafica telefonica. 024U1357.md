@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 5 aprile 1923, n. 905](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-05;905); [15 luglio 1923, n. 1747](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-15;1747); [31 ottobre 1923, n. 2493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2493); [16 dicembre 1923, n. 2662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-16;2662);
+Visti i [Regi decreti 5 aprile 1923, n. 905](Che%20reca%20disposizioni%20per%20gli%20uffici%20del%20personale%20ed%20il%20Consiglio%20di%20amministrazione%20e%20di%20disciplina%20del%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20023U0905.md); [15 luglio 1923, n. 1747](Sistemazione%20organica%20degli%20uffici%20centrali%20del%20personale%20funzionamento%20del%20Consiglio%20di%20amministrazione%20e%20di%20disciplina%20sanzioni%20disciplinari%20a%20carico%20del%20personale%20di%203ª%20categoria%20fuor_35c4f44f34fb.md); [31 ottobre 1923, n. 2493](Costituzione%20del%20Consiglio%20di%20amministrazione%20e%20disciplina%20023U2493.md); [16 dicembre 1923, n. 2662](Norme%20per%20il%20funzionamento%20del%20Consiglio%20damministrazione%20e%20di%20disciplina%20del%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20023U2662.md);
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
 

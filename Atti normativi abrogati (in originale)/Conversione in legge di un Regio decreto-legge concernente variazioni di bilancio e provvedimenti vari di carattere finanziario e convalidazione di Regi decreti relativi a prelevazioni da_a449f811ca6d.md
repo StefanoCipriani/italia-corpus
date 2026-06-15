@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto-legge 14 novembre 1926, n. 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1998), concernente variazioni agli stati di previsione dell'entrata e della spesa per l'esercizio finanziario 1926-27, nonche' a bilanci speciali per l'esercizio finanziario medesimo, e disposizioni varie di natura finanziaria.
+E' convertito in legge il [R. decreto-legge 14 novembre 1926, n. 1998](Variazioni%20agli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lesercizio%20finanziario%201926-27%20nonche%20ai%20bilanci%20speciali%20per%20lesercizio%20finanziario%20medesimo%20e%20disposizioni%20varie%20di%20nat_9a9b7b673062.md), concernente variazioni agli stati di previsione dell'entrata e della spesa per l'esercizio finanziario 1926-27, nonche' a bilanci speciali per l'esercizio finanziario medesimo, e disposizioni varie di natura finanziaria.
 
 ## Art. 2.
 

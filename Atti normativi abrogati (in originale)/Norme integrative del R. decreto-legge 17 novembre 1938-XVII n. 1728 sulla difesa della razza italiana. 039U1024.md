@@ -22,7 +22,7 @@ La Commissione ha sede presso il Ministero dell'interno ed ha facolta' di chiama
  
  Tutti i pubblici uffici sono tenuti a corrispondere alle richieste della Commissione. 
  
- Alle persone chiamate a deporre si applicano le disposizioni di cui all'art. 366, 3° comma, del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ Alle persone chiamate a deporre si applicano le disposizioni di cui all'art. 366, 3° comma, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Il parere della Commissione e' motivato. 
  

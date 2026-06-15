@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1193), portante provvedimenti per l'ulteriore applicazione degli ordinamenti finanziari gia' in vigore nelle stazioni di cura delle Provincie annesse. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1193](Provvedimenti%20per%20lulteriore%20applicazione%20degli%20ordinamenti%20finanziari%20gia%20in%20vigore%20nelle%20stazioni%20di%20cura%20delle%20Provincie%20annesse.%20027U1193.md), portante provvedimenti per l'ulteriore applicazione degli ordinamenti finanziari gia' in vigore nelle stazioni di cura delle Provincie annesse. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

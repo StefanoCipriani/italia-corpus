@@ -70,7 +70,7 @@ Entro tre mesi dalla data del rilascio del certificato ministeriale previsto dal
  
  Gli agenti delle imposte accerteranno sopraluogo l'ultimazione e l'entrata in effettivo esercizio dell'impianto e terranno in sospeso ogni accertamento del reddito edilizio e di quello mobiliare per il termine di dieci anni a cominciare dal giorno in cui l'impianto sara' entrato in esercizio giusta il certificato di cui sopra. 
  
- Ove non venga rilasciato il certificato Ministeriale gli agenti provvederanno all'accertamento del reddito del fabbricato. Se si tratta di un opificio a' sensi della [legge 11 luglio 1889, n. 6214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-07-11;6214), tale accertamento sara' fatto a decorrere dal giorno in cui sara' scaduto il triennio di esenzione del fabbricato stesso, giusta l'articolo 8 della legge suddetta.
+ Ove non venga rilasciato il certificato Ministeriale gli agenti provvederanno all'accertamento del reddito del fabbricato. Se si tratta di un opificio a' sensi della [legge 11 luglio 1889, n. 6214](Concernente%20la%20revisione%20sui%20fabbricati%20089U6214.md), tale accertamento sara' fatto a decorrere dal giorno in cui sara' scaduto il triennio di esenzione del fabbricato stesso, giusta l'articolo 8 della legge suddetta.
 
 ## Art. 10.
 

@@ -14,9 +14,9 @@ Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie
 
 ## Art. 2.
 
-I capitoli a favore dei quali possono effettuarsi prelevamenti dal fondo a disposizione inscritto al capitolo n. 15 del presente stato di previsione sono quelli indicati nella tabella B, annessa alla presente legge, intendendosi esteso per l'esercizio 1930-31 al Ministero dell'aeronautica il disposto dell'art. 20 del testo unico di legge approvato col [R. decreto 2 febbraio 1928, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263). 
+I capitoli a favore dei quali possono effettuarsi prelevamenti dal fondo a disposizione inscritto al capitolo n. 15 del presente stato di previsione sono quelli indicati nella tabella B, annessa alla presente legge, intendendosi esteso per l'esercizio 1930-31 al Ministero dell'aeronautica il disposto dell'art. 20 del testo unico di legge approvato col [R. decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md). 
  
- Per quanto concerne i ricuperi delle spese che l'Amministrazione dell'aeronautica sostiene nell'interesse di altri Ministeri nonche' il ripianamento delle eventuali deficienze di cassa, sono estese all'Amministrazione dell'aeronautica, per l'esercizio 1930-31, le norme di cui agli articoli 21 e 39 del citato [R. decreto 2 febbraio 1928, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263).
+ Per quanto concerne i ricuperi delle spese che l'Amministrazione dell'aeronautica sostiene nell'interesse di altri Ministeri nonche' il ripianamento delle eventuali deficienze di cassa, sono estese all'Amministrazione dell'aeronautica, per l'esercizio 1930-31, le norme di cui agli articoli 21 e 39 del citato [R. decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md).
 
 ## Art. 3.
 

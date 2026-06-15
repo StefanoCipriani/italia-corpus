@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 febbraio 1926, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-07;187), contenente modificazioni ed aggiunte alle disposizioni della legge sull'Opera di previdenza del personale delle Ferrovie dello Stato. 
+ E' convertito in legge il [R. decreto-legge 7 febbraio 1926, n. 187](Modificazioni%20ed%20aggiunte%20alle%20disposizioni%20della%20legge%20sullOpera%20di%20previdenza%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20026U0187.md), contenente modificazioni ed aggiunte alle disposizioni della legge sull'Opera di previdenza del personale delle Ferrovie dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

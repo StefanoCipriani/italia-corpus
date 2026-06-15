@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Ritenuta la necessita' urgente ed assoluta di trasferire al Ministero per la stampa e la propaganda, al fine di conseguire una razionale coordinazione, tutte le attribuzioni finora esercitate dagli altri Ministeri nella materia del diritto di autore;
 
-Visto il [R. decreto 1° febbraio 1891, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-02-01;53), col quale la Societa' italiana degli editori venne eretta a ente morale e ne fu approvato lo statuto;
+Visto il [R. decreto 1° febbraio 1891, n. 53](Che%20erige%20in%20ente%20morale%20la%20societa%20italiana%20degli%20autori%20per%20la%20tutela%20della%20proprieta%20letteraria%20ed%20artistica%20con%20sede%20in%20Milano%20e%20ne%20approva%20lo%20statuto.%209100053R.md), col quale la Societa' italiana degli editori venne eretta a ente morale e ne fu approvato lo statuto;
 
 Visto il [R. decreto-legge 7 novembre 1925, n. 1950](Disposizioni%20sul%20diritto%20di%20autore.%20025U1950.md), contenente disposizioni sul diritto di autore;
 

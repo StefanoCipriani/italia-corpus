@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 giugno 1941, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-06-21;586), contenente norme per la consegna dei buoni del Tesoro novennali 5 per cento 1950-XXVIII, sottoscritti nell'Africa Orientale Italiana, e l'assegnazione degli eventuali premi ad essi pertinenti. 
+ E' convertito in legge il [R. decreto-legge 21 giugno 1941, n. 586](Norme%20per%20la%20consegna%20dei%20buoni%20del%20Tesoro%20novennali%205%20%201950-XXVIII%20sottoscritti%20nellAfrica%20Orientale%20Italiana%20e%20assegnazione%20degli%20eventuali%20premi%20ad%20essi%20pertinenti.%20041U0586.md), contenente norme per la consegna dei buoni del Tesoro novennali 5 per cento 1950-XXVIII, sottoscritti nell'Africa Orientale Italiana, e l'assegnazione degli eventuali premi ad essi pertinenti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

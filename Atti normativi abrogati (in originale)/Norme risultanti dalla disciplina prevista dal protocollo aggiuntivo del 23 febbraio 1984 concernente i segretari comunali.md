@@ -18,15 +18,15 @@ Vista la [legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn
 
 Vista la [legge 26 aprile 1983, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md);
 
-Vista la [legge 28 aprile 1983, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-28;133);
+Vista la [legge 28 aprile 1983, n. 133](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%201983%20e%20bilancio%20pluriennale%20per%20il%20triennio%201983-85.md);
 
 Vista la [legge 29 dicembre 1983, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-29;744), concernente approvazione del bilancio di previsione dello Stato per l'anno finanziario 1984 e del bilancio pluriennale per il triennio 1984-86;
 
 Visto il [decreto del Presidente della Repubblica 23 agosto 1981, n. 508](Attuazione%20dellaccordo%20contrattuale%20triennale%20relativo%20ai%20segretari%20comunali%20e%20provinciali.md);
 
-Visto il [decreto del Presidente della Repubblica 25 giugno 1983, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-06-25;344);
+Visto il [decreto del Presidente della Repubblica 25 giugno 1983, n. 344](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2029%20aprile%201983%20concernente%20il%20personale%20dei%20Ministeri%20ed%20altre%20categorie.md);
 
-Considerata la necessita' di integrare la disciplina prevista dal citato [decreto del Presidente della Repubblica n. 344 del 25 giugno 1983](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-06-25;344) con le norme derivanti dal protocollo aggiuntivo d'intesa riguardante i segretari comunali sottoscritto in data 23 febbraio 1984 fra la delegazione governativa e le organizzazioni sindacali CGIL, CISL, UIL e l'Unione nazionale segretari comunali e provinciali;
+Considerata la necessita' di integrare la disciplina prevista dal citato [decreto del Presidente della Repubblica n. 344 del 25 giugno 1983](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2029%20aprile%201983%20concernente%20il%20personale%20dei%20Ministeri%20ed%20altre%20categorie.md) con le norme derivanti dal protocollo aggiuntivo d'intesa riguardante i segretari comunali sottoscritto in data 23 febbraio 1984 fra la delegazione governativa e le organizzazioni sindacali CGIL, CISL, UIL e l'Unione nazionale segretari comunali e provinciali;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 maggio 1984, con la quale (respinte o ritenute inammissibili le osservazioni formulate dalle organizzazioni sindacali dissenzienti o che hanno dichiarato di non partecipare alle trattative) e' stata autorizzata, previa verifica delle compatibilita' finanziarie, la sottoscrizione del protocollo aggiuntivo d'intesa sottoscritto in data 23 febbraio 1984 fra la delegazione governativa e le organizzazioni sindacali di categoria CGIL, CISL, UIL e l'Unione nazionale segretari comunali e provinciali;
 
@@ -46,7 +46,7 @@ Le disposizioni contenute nel presente decreto si applicano ai segretari comunal
 A decorrere dal 1° gennaio 1983, al personale di cui al primo comma del precedente art. 1, in relazione alla particolare funzione direttiva esplicata nell'ambito dell'organizzazione comunale, compete lo stipendio annuo lordo iniziale di L. 8.640.000 del corrispondente livello statale. 
  La progressione economica si articola in otto classi biennali del 6 per cento, computato sul predetto stipendio iniziale, ed in successivi aumenti periodici biennali del 2,50 per cento, computato sull'ultima classe di stipendio. 
  La determinazione dei nuovi stipendi e' effettuata sulla base delle classi di stipendio e degli aumenti periodici in godimento al 31 dicembre 1982. 
- E' soppresso l'[art. 5-bis del decreto del Presidente della Repubblica 25 giugno 1983, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-06-25;344#art_5bis).
+ E' soppresso l'[art. 5-bis del decreto del Presidente della Repubblica 25 giugno 1983, n. 344](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2029%20aprile%201983%20concernente%20il%20personale%20dei%20Ministeri%20ed%20altre%20categorie.md).
 
 ## Art. 3. — Decorrenza dei benefici economici
 
@@ -66,17 +66,17 @@ dal 1° gennaio 1985 . . . . . . . . . . . . . . . . . . . . . . . 100%
 
 ## Art. 4. — Compenso per lavoro straordinario
 
-Le prestazioni di lavoro straordinario previste dall'[art. 3 del decreto del Presidente della Repubblica 23 agosto 1981, n. 508](Attuazione%20dellaccordo%20contrattuale%20triennale%20relativo%20ai%20segretari%20comunali%20e%20provinciali.md), vengono compensate con le aliquote e nei limiti previsti dall'[art. 9 del decreto del Presidente della Repubblica 25 giugno 1983, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-06-25;344#art_9).
+Le prestazioni di lavoro straordinario previste dall'[art. 3 del decreto del Presidente della Repubblica 23 agosto 1981, n. 508](Attuazione%20dellaccordo%20contrattuale%20triennale%20relativo%20ai%20segretari%20comunali%20e%20provinciali.md), vengono compensate con le aliquote e nei limiti previsti dall'[art. 9 del decreto del Presidente della Repubblica 25 giugno 1983, n. 344](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2029%20aprile%201983%20concernente%20il%20personale%20dei%20Ministeri%20ed%20altre%20categorie.md).
 
 ## Art. 5. — Indennita' di funzione e di coordinamento
 
-Al personale di cui all'art. 1 del presente decreto, a decorrere dal 1° gennaio 1984, compete una indennita' mensile, pari a quella prevista dal [primo comma dell'art. 10 del decreto del Presidente della Repubblica 25 giugno 1983, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-06-25;344#art_10-com1), maggiorata del 70 per cento. 
+Al personale di cui all'art. 1 del presente decreto, a decorrere dal 1° gennaio 1984, compete una indennita' mensile, pari a quella prevista dal [primo comma dell'art. 10 del decreto del Presidente della Repubblica 25 giugno 1983, n. 344](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2029%20aprile%201983%20concernente%20il%20personale%20dei%20Ministeri%20ed%20altre%20categorie.md), maggiorata del 70 per cento. 
  L'indennita' di cui al comma precedente viene corrisposta per undici mensilita' all'anno.
 
 ## Art. 6. — Rinvio al decreto del Presidente della Repubblica
  25 giugno 1983, n. 344
 
-Gli effetti economici e la liquidazione del nuovo stipendio di cui all'art. 2 del presente decreto sono disciplinati, rispettivamente, dall'[art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-06-25;344#art_7) e dall'[art. 8 del decreto del Presidente della Repubblica 25 giugno 1983, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-06-25;344#art_8).
+Gli effetti economici e la liquidazione del nuovo stipendio di cui all'art. 2 del presente decreto sono disciplinati, rispettivamente, dall'[art. 7](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2029%20aprile%201983%20concernente%20il%20personale%20dei%20Ministeri%20ed%20altre%20categorie.md) e dall'[art. 8 del decreto del Presidente della Repubblica 25 giugno 1983, n. 344](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2029%20aprile%201983%20concernente%20il%20personale%20dei%20Ministeri%20ed%20altre%20categorie.md).
 
 ## Art. 7. — Accordi intercompartimentali
 

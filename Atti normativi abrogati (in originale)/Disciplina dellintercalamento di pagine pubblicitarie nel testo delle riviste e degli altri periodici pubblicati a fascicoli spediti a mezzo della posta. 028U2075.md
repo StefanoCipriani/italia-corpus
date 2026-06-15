@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi postali approvato, con [Regio decreto 24 dicembre 1899, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-24;501), e le successive modificazioni;
+Visto il testo unico delle leggi postali approvato, con [Regio decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), e le successive modificazioni;
 
-Visto il regolamento generale sul servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-10;120), e le successive modificazioni;
+Visto il regolamento generale sul servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), e le successive modificazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

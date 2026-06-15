@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Veduto il testo unico di legge sugli Istituti di emissione, approvato col [R. decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204);
 
-Veduto il [R. decreto 2 agosto 1908, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-08-02;584), col quale fu approvato lo statuto del Banco di Sicilia;
+Veduto il [R. decreto 2 agosto 1908, n. 584](Che%20approva%20lannesso%20statuto%20del%20Banco%20di%20Sicilia.%20008U0584.md), col quale fu approvato lo statuto del Banco di Sicilia;
 
-Veduto il [R. decreto 26 gennaio 1913, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-26;82), col quale furono apportate modificazioni ed aggiunte al detto statuto;
+Veduto il [R. decreto 26 gennaio 1913, n. 82](Col%20quale%20vengono%20apportate%20modificazioni%20ed%20aggiunte%20allo%20statuto%20del%20Banco%20di%20Sicilia.%20013U0082.md), col quale furono apportate modificazioni ed aggiunte al detto statuto;
 
 Vedute la deliberazione 29 ottobre 1918 presa dal direttore generale del Banco di Sicilia assumendo i poteri del Consiglio di amminisrazione conferitigli col Nostro decreto 13 settembre 1917, n. 1581, e le deliberazioni prese dal Consiglio generale del detto Istituto nelle riunioni in sessione straordinaria del 28 dicembre 1918 e del 22 gennaio 1919 e nella riunione in sessione ordinaria del 27-28 marzo 1919, con cui vennero deliberate alcune proposte di modificazioni ed aggiunte al detto Istituto;
 
@@ -28,7 +28,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Articolo unico.
 
-Nello statuto del Banco di Sicilia, approvato con il [R. decreto 2 agosto 1908, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-08-02;584), e modificato con il [R. decreto 26 gennaio 1913, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-26;82), sono introdotte le seguenti altre modificazioni e aggiunte: 
+Nello statuto del Banco di Sicilia, approvato con il [R. decreto 2 agosto 1908, n. 584](Che%20approva%20lannesso%20statuto%20del%20Banco%20di%20Sicilia.%20008U0584.md), e modificato con il [R. decreto 26 gennaio 1913, n. 82](Col%20quale%20vengono%20apportate%20modificazioni%20ed%20aggiunte%20allo%20statuto%20del%20Banco%20di%20Sicilia.%20013U0082.md), sono introdotte le seguenti altre modificazioni e aggiunte: 
  
  Il quinto comma dell'art. 15 e' sostituito con il seguente: 
  

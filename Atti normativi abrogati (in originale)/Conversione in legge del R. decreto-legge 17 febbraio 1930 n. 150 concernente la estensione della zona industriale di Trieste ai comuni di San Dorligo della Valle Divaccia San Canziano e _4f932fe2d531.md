@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 febbraio 1930, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-17;150), concernente la estensione della zona industriale di Trieste ai comuni di San Dorligo della Valle, Divaccia, San Canziano e Cave Auremiane. 
+ E' convertito in legge il [R. decreto-legge 17 febbraio 1930, n. 150](Estensione%20ai%20territori%20dei%20comuni%20di%20San%20Dorligo%20della%20Valle%20Divaccia%20San%20Canziano%20e%20Cave%20Auremiane%20delle%20agevolazioni%20concesse%20col%20R.%20decreto-legge%2010%20agosto%201928%20n.%202260%20per%20la%20zona%20in_a7befb7330a5.md), concernente la estensione della zona industriale di Trieste ai comuni di San Dorligo della Valle, Divaccia, San Canziano e Cave Auremiane. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

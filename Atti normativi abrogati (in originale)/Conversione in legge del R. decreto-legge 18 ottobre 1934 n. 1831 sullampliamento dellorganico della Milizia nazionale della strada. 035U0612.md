@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 ottobre 1934, n. 1831](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-18;1831), col quale e' stato ampliato l'organico della Milizia nazionale della strada. 
+ E' convertito in legge il [R. decreto-legge 18 ottobre 1934, n. 1831](Ampliamento%20dellorganico%20nella%20Milizia%20nazionale%20della%20strada.%20034U1831.md), col quale e' stato ampliato l'organico della Milizia nazionale della strada. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

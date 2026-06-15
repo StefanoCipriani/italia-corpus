@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 novembre 1930, n. 1632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-24;1632), concernente modificazioni alla [legge 23 giugno 1927, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1110), sulle funicolari aeree ed ascensori in servizio pubblico. 
+ E' convertito in legge il [R. decreto-legge 24 novembre 1930, n. 1632](Modificazioni%20alla%20legge%2023%20giugno%201927%20n.%201110%20sulle%20funicolari%20aeree%20e%20ascensori%20in%20servizio%20pubblico.%20030U1632.md), concernente modificazioni alla [legge 23 giugno 1927, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1110), sulle funicolari aeree ed ascensori in servizio pubblico. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 17 aprile 1931 - Anno IX 
  

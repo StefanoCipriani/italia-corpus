@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [R. decreto 4 agosto 1913, n. 1047](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1047), sull'istituzione dell'Ispettorato del genio militare per i lavori della R. marina; 
+ Visto il [R. decreto 4 agosto 1913, n. 1047](Col%20quale%20viene%20istituito%20lIspettorato%20del%20genio%20militare%20pei%20lavori%20della%20R.%20marina.%20013U1047.md), sull'istituzione dell'Ispettorato del genio militare per i lavori della R. marina; 
  
- Visto il [R. decreto 29 luglio 1914, n. 918](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-07-29;918), che fissa il numero ed il grado degli ufficiali rivestiti di carica direttiva presso il Ministero della marina; 
+ Visto il [R. decreto 29 luglio 1914, n. 918](Che%20fissa%20il%20numero%20e%20il%20grado%20degli%20ufficiali%20investiti%20di%20carica%20direttiva%20presso%20il%20Ministero%20della%20marina.%20014U0918.md), che fissa il numero ed il grado degli ufficiali rivestiti di carica direttiva presso il Ministero della marina; 
  
  Sentito il Consiglio dei ministri; 
  

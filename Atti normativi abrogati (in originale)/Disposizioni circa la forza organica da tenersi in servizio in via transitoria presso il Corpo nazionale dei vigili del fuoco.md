@@ -10,19 +10,19 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 2 ottobre 1940, n. 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-02;1416), contenente norme sulla organizzazione dei servizi antincendi durante lo stato di guerra e successive modificazioni;
+Vista la [legge 2 ottobre 1940, n. 1416](Organizzazione%20dei%20servizi%20antincendi%20durante%20lattuale%20stato%20di%20guerra.%20040U1416.md), contenente norme sulla organizzazione dei servizi antincendi durante lo stato di guerra e successive modificazioni;
 
 Vista la [legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570), contenente le nuove norme per l'organizzazione dei servizi antincendi;
 
 Visto il [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699), recante nuove norme sullo stato giuridico e sul trattamento economico del personale non statale del Corpo nazionale dei vigili del fuoco;
 
-Visto il [regio decreto 30 novembre 1942, n. 1502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-11-30;1502);
+Visto il [regio decreto 30 novembre 1942, n. 1502](Modificazioni%20allordinamento%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U1502.md);
 
-Visto il [regio decreto 16 marzo 1942, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;700), concernente la forza organica dei Corpi dei vigili del fuoco;
+Visto il [regio decreto 16 marzo 1942, n. 700](Forza%20organica%20del%20Corpi%20dei%20vigili%20del%20fuoco.%20042U0700.md), concernente la forza organica dei Corpi dei vigili del fuoco;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -37,7 +37,7 @@ Per far fronte alle eccezionali esigenze conseguenti al cessato stato di guerra,
 
 ## Art. 2.
 
-I datori di lavoro e le Amministrazioni, Istituti ed Enti indicati nell'[art. 2 del regio decreto-legge 1° giugno 1933, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-01;641#art_2), convertito nella [legge 21 dicembre 1933, n. 1808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-12-21;1808), hanno l'obbligo di lasciare disponibili i loro dipendenti richiamati in servizio a norma dell'art. 1, comma 2°, e di conservare ai medesimi il posto occupato.
+I datori di lavoro e le Amministrazioni, Istituti ed Enti indicati nell'[art. 2 del regio decreto-legge 1° giugno 1933, n. 641](Norme%20per%20lammissione%20agli%20impieghi%20presso%20gli%20Enti%20locali%20e%20parastatali.%20033U0641.md), convertito nella [legge 21 dicembre 1933, n. 1808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%201%20giugno%201933%20n.%20641%20concernente%20norme%20per%20lammissione%20agli%20impieghi%20presso%20gli%20Enti%20locali%20e%20parastatali.%20033U1808.md), hanno l'obbligo di lasciare disponibili i loro dipendenti richiamati in servizio a norma dell'art. 1, comma 2°, e di conservare ai medesimi il posto occupato.
 
 ## Art. 3.
 
@@ -46,7 +46,7 @@ Fino al 31 dicembre 1947, la durata del servizio effettivo per la promozione dei
 
 ## Art. 4.
 
-Entro il termine indicato all'articolo precedente il Ministro per l'interno e autorizzato ad esercitare la facolta' di cui all'[art. 3 del regio decreto 30 novembre 1942, n. 1502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-11-30;1502#art_3).
+Entro il termine indicato all'articolo precedente il Ministro per l'interno e autorizzato ad esercitare la facolta' di cui all'[art. 3 del regio decreto 30 novembre 1942, n. 1502](Modificazioni%20allordinamento%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U1502.md).
 
 ## Art. 5.
 
@@ -93,7 +93,7 @@ Ai fini del presente decreto il Ministero dell'interno corrispondera' alla Cassa
 
 ## Art. 11.
 
-Al personale di cui all'art. 1 del presente decreto si applicheranno le disposizioni di cui all'[art. 10 della legge 2 ottobre 1940, n. 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-02;1416#art_10), ed all'articolo unico del [regio decreto-legge 1° maggio 1941, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-01;432), convertito nella [legge 31 ottobre 1941, n. 1322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-10-31;1322).
+Al personale di cui all'art. 1 del presente decreto si applicheranno le disposizioni di cui all'[art. 10 della legge 2 ottobre 1940, n. 1416](Organizzazione%20dei%20servizi%20antincendi%20durante%20lattuale%20stato%20di%20guerra.%20040U1416.md), ed all'articolo unico del [regio decreto-legge 1° maggio 1941, n. 432](Integrazione%20alla%20legge%202%20ottobre%201940-XVIII%20n.%201416%20sullorganizzazione%20dei%20servizi%20antincendi%20durante%20lattuale%20stato%20di%20guerra.%20041U0432.md), convertito nella [legge 31 ottobre 1941, n. 1322](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%20maggio%201941-XIX%20n.%20432%20recante%20integrazione%20alta%20legge%202%20ottobre%201940-XVIII%20n.%201416%20sulla%20organizzazione%20dei%20servizi%20antincendi%20durante%20lattuale%20_4c3b50081d62.md).
 
 ## Art. 12.
 

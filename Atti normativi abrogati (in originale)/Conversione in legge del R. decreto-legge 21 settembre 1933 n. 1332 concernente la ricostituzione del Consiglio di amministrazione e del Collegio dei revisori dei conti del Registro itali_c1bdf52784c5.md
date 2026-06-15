@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 settembre 1933, n. 1332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-21;1332), concernente la ricostituzione del Consiglio di amministrazione e del Collegio dei revisori dei conti del Registro italiano navale ed aeronautico. 
+ E' convertito in legge il [R. decreto-legge 21 settembre 1933, n. 1332](Ricostituzione%20del%20Consiglio%20di%20amministrazione%20e%20del%20Collegio%20dei%20revisori%20dei%20conti%20del%20Registro%20italiano%20navale%20ed%20aeronautico.%20033U1332.md), concernente la ricostituzione del Consiglio di amministrazione e del Collegio dei revisori dei conti del Registro italiano navale ed aeronautico. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

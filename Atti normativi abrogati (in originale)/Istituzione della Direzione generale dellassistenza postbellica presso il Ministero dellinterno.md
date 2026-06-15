@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 14 febbraio 1947, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-02-14;27);
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per l'interno, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-E' istituita temporaneamente presso il Ministero dell'interno la Direzione generale dell'assistenza post-bellica per l'assistenza alle categorie di cui all'[art. 1, primo comma del decreto legislativo luogotenenziale 28 settembre 1945, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-28;646#art_1-com1), e all'[art. 1 del decreto legislativo luogotenenziale 31 luglio 1945, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-31;425#art_1).
+E' istituita temporaneamente presso il Ministero dell'interno la Direzione generale dell'assistenza post-bellica per l'assistenza alle categorie di cui all'[art. 1, primo comma del decreto legislativo luogotenenziale 28 settembre 1945, n. 646](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20circa%20le%20attribuzioni%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0646.md), e all'[art. 1 del decreto legislativo luogotenenziale 31 luglio 1945, n. 425](../Decreti%20legislativi%20luogotenenziali/Attribuzioni%20ed%20ordinamento%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0425.md).
  Un prefetto, scelto tra quelli a disposizione a termine dell'[art. 102 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_102), e' proposto alla predetta Direzione generale.
 
 ## Art. 2.

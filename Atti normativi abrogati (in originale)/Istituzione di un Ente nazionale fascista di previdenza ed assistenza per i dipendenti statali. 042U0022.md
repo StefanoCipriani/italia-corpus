@@ -98,7 +98,7 @@ L'Ente nazionale fascista di previdenza « Umberto I » per salariati dello Stat
  
  5) alla concessione di prestiti; 
  
- 6) alla concessione delle prestazioni riconosciute ai sensi dell'[art. 25 del R. decreto-legge 16 dicembre 1937, n. 2287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-12-16;2287#art_25), convertito nella legge 7 aprile 1938-XVI, n. 870, e mantenute in vigore ai sensi dell'articolo medesimo. 
+ 6) alla concessione delle prestazioni riconosciute ai sensi dell'[art. 25 del R. decreto-legge 16 dicembre 1937, n. 2287](Riordinamento%20dellIstituto%20nazionale%20fascista%20di%20previdenza%20Umberto%20I%20per%20i%20dipendenti%20delle%20aziende%20industriali%20dello%20Stato%20e%20loro%20orfani%20con%20sede%20in%20Roma.%20037U2287.md), convertito nella legge 7 aprile 1938-XVI, n. 870, e mantenute in vigore ai sensi dell'articolo medesimo. 
  
  Restano ferme le disposizioni che disciplinano la concessione delle prestazioni indicate nel precedente comma. 
  

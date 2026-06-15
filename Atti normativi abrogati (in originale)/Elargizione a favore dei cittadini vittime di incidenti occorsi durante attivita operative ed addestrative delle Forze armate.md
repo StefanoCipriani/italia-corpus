@@ -75,7 +75,7 @@ gennaio 1986.
 
 1.
 
-I soggetti di cui all'articolo 3 ed il coniuge superstite ed i figli dei soggetti di cui all'articolo 1 hanno ciascuno diritto di assunzione presso le pubbliche amministrazioni, gli enti pubblici e le aziende private secondo le disposizioni della [legge 2 aprile 1968, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482), e della [legge 1 giugno 1977, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-06-01;285), e successive modificazioni.
+I soggetti di cui all'articolo 3 ed il coniuge superstite ed i figli dei soggetti di cui all'articolo 1 hanno ciascuno diritto di assunzione presso le pubbliche amministrazioni, gli enti pubblici e le aziende private secondo le disposizioni della [legge 2 aprile 1968, n. 482](Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md), e della [legge 1 giugno 1977, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-06-01;285), e successive modificazioni.
 
 ## Art. 7.
 

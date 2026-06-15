@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 21 ottobre 1923, n. 2580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2580);
+Visto il [R. decreto 21 ottobre 1923, n. 2580](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md);
 
 Visto il [R. decreto 25 settembre 1924, n. 1607](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1607);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni di c
 
 ## Art. 1.
 
-Il primo ed il [terzo comma dell'art. 10 del R. decreto 21 ottobre 1923, n. 2580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2580#art_10-com3), sono sostituiti dai seguenti: 
+Il primo ed il [terzo comma dell'art. 10 del R. decreto 21 ottobre 1923, n. 2580](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), sono sostituiti dai seguenti: 
  
  «1° comma. - Agli agenti di qualunque grado delle Ferrovie dello Stato nominati stabili, in prova o del ruolo aggiunto con decorrenza 21 ottobre 1923 o anteriore, i quali durante la guerra 1915-18 abbiano prestato servizio per almeno sei mesi (escluso il computo delle frazioni) come militari con buona condotta in zona di operazioni, ovvero abbiano comunque acquistato titolo oltre alla applicazione dell'art. 3 (o 5) anche a quella dell'art. 4, e che al 21 ottobre 1923 erano provvisti del titolo di studio prescritto, potranno chiedere il passaggio al grado per accedere al quale in base ai regolamenti vigenti per il personale delle Ferrovie dello Stato occorre il titolo di studio predetto». 
  
@@ -40,7 +40,7 @@ Anche le domande gia' presentate dagli interessati nei termini ed alle condizion
 
 ## Art. 3.
 
-Le disposizioni contenute nei [Regi decreti 25 settembre 1924, n. 1607](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1607); [30 ottobre 1924, n. 1818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-30;1818), o nel presente decreto, che modificano parzialmente il [R. decreto 21 ottobre 1923, n. 2580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2580), hanno vigore dalla stessa data di applicazione di quest'ultimo Regio decreto; pero' non saranno tenuti gli interessati alla restituzione delle somme eventualmente gia' percette in piu' per una prima liquidazione dei compensi economici di cui agli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2580#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2580#art_4) e [5 del R. decreto 21 ottobre 1923, n. 2580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2580#art_5), in confronto a quelli derivanti dall'applicazione delle disposizioni contenute nel [Regio decreto 25 settembre 1924, n. 1607](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1607). 
+Le disposizioni contenute nei [Regi decreti 25 settembre 1924, n. 1607](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1607); [30 ottobre 1924, n. 1818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-30;1818), o nel presente decreto, che modificano parzialmente il [R. decreto 21 ottobre 1923, n. 2580](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), hanno vigore dalla stessa data di applicazione di quest'ultimo Regio decreto; pero' non saranno tenuti gli interessati alla restituzione delle somme eventualmente gia' percette in piu' per una prima liquidazione dei compensi economici di cui agli [articoli 3](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), [4](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md) e [5 del R. decreto 21 ottobre 1923, n. 2580](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), in confronto a quelli derivanti dall'applicazione delle disposizioni contenute nel [Regio decreto 25 settembre 1924, n. 1607](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1607). 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

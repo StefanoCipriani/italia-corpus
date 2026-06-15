@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-L'[art. 1 del R. decreto 23 novembre 1942, n. 1736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-11-23;1736#art_1), e' costituita dal seguente: 
+L'[art. 1 del R. decreto 23 novembre 1942, n. 1736](Ordinamento%20dellIstituto%20di%20assistenza%20e%20previdenza%20per%20il%20personale%20delle%20ricevitorie%20postali%20e%20telegrafiche.%20042U1736.md), e' costituita dal seguente: 
  
  « Il Consiglio di amministrazione dell'Istituto di assistenza e previdenza per il personale delle ricevitorie postali e telegrafiche e' nominato con decreto Reale, su proposta del Ministro per le comunicazioni ed e' cosi' composto: 
  

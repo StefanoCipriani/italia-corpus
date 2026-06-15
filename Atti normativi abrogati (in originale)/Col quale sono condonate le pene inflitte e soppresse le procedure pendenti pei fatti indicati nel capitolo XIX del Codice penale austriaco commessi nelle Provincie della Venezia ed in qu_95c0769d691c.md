@@ -20,7 +20,7 @@ Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
 
 ## Articolo unico.
 
-Nelle Provincie della Venezia e in quella di Mantova e' abolita l'azione penale, e percio' sono condonate le pene inflitte, e soppresse le procedure pendenti, pei fatti indicati nel capitolo XIX del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) austriaco 27 maggio 1852, commessi prima della pubblicazione del presente Decreto. 
+Nelle Provincie della Venezia e in quella di Mantova e' abolita l'azione penale, e percio' sono condonate le pene inflitte, e soppresse le procedure pendenti, pei fatti indicati nel capitolo XIX del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco 27 maggio 1852, commessi prima della pubblicazione del presente Decreto. 
  
  Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque 
  

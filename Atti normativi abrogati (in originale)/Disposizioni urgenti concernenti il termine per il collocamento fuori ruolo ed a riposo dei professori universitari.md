@@ -24,11 +24,11 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-La disposizione di cui all'[articolo 16 del decreto legislativo 30 dicembre 1992, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_16), si applica ai professori associati nel senso che il biennio di permanenza in servizio di cui al medesimo articolo 16 del citato [decreto legislativo n. 503 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;503), e' opzionale rispetto al collocamento fuori ruolo e puo' essere usufruito dall'inizio dell'anno accademico successivo al compimento del sessantacinquesimo anno di eta', fermo restando in ogni caso il collocamento a riposo dall'inizio dell'anno accademico successivo al compimento del settantesimo anno di eta'.
+La disposizione di cui all'[articolo 16 del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), si applica ai professori associati nel senso che il biennio di permanenza in servizio di cui al medesimo articolo 16 del citato [decreto legislativo n. 503 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;503), e' opzionale rispetto al collocamento fuori ruolo e puo' essere usufruito dall'inizio dell'anno accademico successivo al compimento del sessantacinquesimo anno di eta', fermo restando in ogni caso il collocamento a riposo dall'inizio dell'anno accademico successivo al compimento del settantesimo anno di eta'.
 
 2.
 
-La disposizione di cui all'[articolo 16 del decreto legislativo 30 dicembre 1992, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_16), non si applica ai professori universitari ordinari ed ai professori incaricati stabilizzati divenuti associati a seguito di giudizio di idoneita'.
+La disposizione di cui all'[articolo 16 del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), non si applica ai professori universitari ordinari ed ai professori incaricati stabilizzati divenuti associati a seguito di giudizio di idoneita'.
 
 ## Art. 2.
 

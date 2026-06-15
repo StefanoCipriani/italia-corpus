@@ -14,9 +14,9 @@ MINISTERO DELLA MARINA
  
  IL MINISTRO 
  
- Veduto l'art. 4 del regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166) (serie 2ª) e la tabella n. 2 annessa al regolamento medesimo; 
+ Veduto l'art. 4 del regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md) (serie 2ª) e la tabella n. 2 annessa al regolamento medesimo; 
  
- Veduto il [R. decreto 13 ottobre 1890, n. 7179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-10-13;7179) (serie 3ª), con cui venne istituita una Delegazione di porto a Gerace, provincia e compartimento marittimo di Reggio Calabria; 
+ Veduto il [R. decreto 13 ottobre 1890, n. 7179](Che%20istituisce%20una%20delegazione%20di%20porto%20a%20Gerace%20Reggio%20di%20Calabria.%20090U7179.md) (serie 3ª), con cui venne istituita una Delegazione di porto a Gerace, provincia e compartimento marittimo di Reggio Calabria; 
  
  Presi gli opportuni concerti col Ministero dell'Interno; 
  

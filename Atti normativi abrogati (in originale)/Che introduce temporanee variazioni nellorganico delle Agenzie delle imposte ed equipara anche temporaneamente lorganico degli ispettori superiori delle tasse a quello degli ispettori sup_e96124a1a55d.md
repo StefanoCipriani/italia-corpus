@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A partire dalla data di pubblicazione del presente decreto e durante il tempo nel quale avranno applicazione le imposte dirette istituite per i bisogni dell'erario a causa della guerra, nell'organico delle agenzie delle imposte dirette risultante dalla tabella approvata colla [legge 13 luglio 1911, n.739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;739), sono introdotte le seguenti variazioni: 
+A partire dalla data di pubblicazione del presente decreto e durante il tempo nel quale avranno applicazione le imposte dirette istituite per i bisogni dell'erario a causa della guerra, nell'organico delle agenzie delle imposte dirette risultante dalla tabella approvata colla [legge 13 luglio 1911, n.739](Che%20apporta%20modificazioni%20al%20ruolo%20organico%20del%20personale%20delle%20agenzie%20delle%20imposte%20dirette%20e%20del%20catasto.%20011U0739.md), sono introdotte le seguenti variazioni: 
  
  1. Sono aumentati da 3 a 4 gli ispettori superiori di 1ª classe e da 2 a 4 gli ispettori superiori di 2ª classe. 
  

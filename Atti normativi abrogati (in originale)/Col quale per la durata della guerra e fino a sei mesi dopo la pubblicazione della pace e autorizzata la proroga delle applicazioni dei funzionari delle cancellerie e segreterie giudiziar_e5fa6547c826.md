@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per la durata della guerra e fino a sei mesi dopo la pubblicazione della pace, le applicazioni dei funzionari delle cancellerie e segreterie giudiziarie, di cui agli [articoli 19 della legge 18 luglio 1907, n. 512, 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-18;9#art_19) del [Regio decreto 8 dicembre 1907, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-12-08;703), ed 8 della [legge 13 luglio 1911, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;720), potranno essere prorogate senza tener conto dei limiti di tempo indicati negli articoli medesimi.
+Per la durata della guerra e fino a sei mesi dopo la pubblicazione della pace, le applicazioni dei funzionari delle cancellerie e segreterie giudiziarie, di cui agli [articoli 19 della legge 18 luglio 1907, n. 512, 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-18;9#art_19) del [Regio decreto 8 dicembre 1907, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-12-08;703), ed 8 della [legge 13 luglio 1911, n. 720](Per%20il%20riordinamento%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20011U0720.md), potranno essere prorogate senza tener conto dei limiti di tempo indicati negli articoli medesimi.
 
 ## Art. 2.
 

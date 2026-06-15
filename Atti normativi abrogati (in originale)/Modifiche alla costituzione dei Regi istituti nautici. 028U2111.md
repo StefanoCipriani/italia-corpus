@@ -24,7 +24,7 @@ Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Visto il [R. decreto-legge 16 agosto 1926, n. 1387](Divieto%20di%20assunzione%20di%20nuovo%20personale%20nellAmministrazione%20dello%20Stato%20e%20norme%20per%20il%20riordinamento%20dei%20servizi.%20026U1387.md);
 
-Visto il [R. decreto-legge 17 febbraio 1927, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;215), convertito nella [legge 8 marzo 1928, n. 495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-08;495);
+Visto il [R. decreto-legge 17 febbraio 1927, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;215), convertito nella [legge 8 marzo 1928, n. 495](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20febbraio%201927%20n.%20215%20concernente%20la%20riunione%20dei%20comuni%20di%20Gaeta%20e%20di%20Elena.%20028U0495.md);
 
 Visto il [R. decreto 14 aprile 1927, n. 598](Riunione%20dei%20comuni%20di%20Sorrento%20Piano%20di%20Sorrento%20SantAgnello%20e%20Meta%20in%20un%20unico%20Comune%20denominato%20Sorrento.%20027U0598.md);
 

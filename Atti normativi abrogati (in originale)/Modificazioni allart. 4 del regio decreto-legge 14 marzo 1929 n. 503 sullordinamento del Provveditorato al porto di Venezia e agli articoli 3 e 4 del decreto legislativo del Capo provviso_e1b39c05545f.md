@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'[art. 4 del regio decreto-legge 14 marzo 1929, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-14;503#art_4), e' sostituito dal seguente:
+L'[art. 4 del regio decreto-legge 14 marzo 1929, n. 503](Ordinamento%20del%20Provveditorato%20al%20porto%20di%20Venezia.%20029U0503.md), e' sostituito dal seguente:
  "Il provveditore al porto e' nominato con decreto del Capo dello Stato su proposta del Ministro per la marina mercantile, sentito il Consiglio dei Ministri.
  Egli dura in carica quattro anni e puo' essere riconfermato.
  La misura delle competenze a lui spettanti sara' fissata dal Ministro per la marina mercantile di concerto con il Ministro per il tesoro, su proposta del Consiglio di amministrazione del Provveditorato.

@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 febbraio 1932, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-02-25;303), concernente il quantitativo massimo di olio di oliva prodotto nelle Isole italiane dell'Egeo, da ammettere annualmente in franchigia da dazio doganale all'importazione nel Regno. 
+ E' convertito in legge il [R. decreto-legge 25 febbraio 1932, n. 303](Quantitativo%20massimo%20di%20olio%20di%20oliva%20prodotto%20nelle%20Isole%20italiane%20dellEgeo%20da%20importare%20in%20franchigia%20nel%20Regno.%20032U0303.md), concernente il quantitativo massimo di olio di oliva prodotto nelle Isole italiane dell'Egeo, da ammettere annualmente in franchigia da dazio doganale all'importazione nel Regno. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 3 giugno 1932 -Anno X 
  

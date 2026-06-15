@@ -54,7 +54,7 @@ Il personale assunto nel modo suindicato avra' rispettivamente titolo di segreta
 
 ## Art. 4.
 
-Durante un triennio a decorrere dal 1° gennaio 1920 i posti di segretario di 4ª classe, ispettore di 2ª classe, ragioniere di 4ª classe, nei ruoli dell'Amministrazione centrale, di ingegnere allievo e di geometra di 3ª classe nei ruoli del genio civile e di ufficiale idraulico e di bonifica, saranno riservati agli impiegati assunti nel modo indicato nell'art. 2, ed in seguito ai provvisori del genio civile assunti in base all'[art. 31 del testo unico 3 settembre 1906, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1906-09-03;522#art_31), ed agli avventizi assunti in base alla [legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182), e al [decreto Luogotenenziale 9 aprile 1916, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-04-09;400), nonche' agli impiegati appartenenti a categorie diverse, i quali siano provvisti dei titoli di studio prescritti. 
+Durante un triennio a decorrere dal 1° gennaio 1920 i posti di segretario di 4ª classe, ispettore di 2ª classe, ragioniere di 4ª classe, nei ruoli dell'Amministrazione centrale, di ingegnere allievo e di geometra di 3ª classe nei ruoli del genio civile e di ufficiale idraulico e di bonifica, saranno riservati agli impiegati assunti nel modo indicato nell'art. 2, ed in seguito ai provvisori del genio civile assunti in base all'[art. 31 del testo unico 3 settembre 1906, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1906-09-03;522#art_31), ed agli avventizi assunti in base alla [legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md), e al [decreto Luogotenenziale 9 aprile 1916, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-04-09;400), nonche' agli impiegati appartenenti a categorie diverse, i quali siano provvisti dei titoli di studio prescritti. 
  
  I detti posti saranno conferiti mediante esami di idoneita' con norme da stabilirsi con decreto Ministeriale. 
  
@@ -124,7 +124,7 @@ I funzionari dell'Amministrazione centrale dei lavori pubblici e del genio civil
  
  Detti funzionari continuano a far parte dell'Amministrazione cui appartengono, conservando ogni diritto di anzianita', sessenni, promozioni e collocamento a riposo, escluso lo stipendio, limitatamente al periodo di sei anni dalla data del decreto Ministeriale che dispone il collocamento fuori ruolo. 
  
- Trascorso tale periodo i funzionari predetti, qualora non riprendano servizio nell'Amministrazione cui appartengono, restando a disposizione degli enti presso i quali si trovano, sono considerati in aspettativa per motivi di famiglia a tutti gli effetti, tranne per quanto concerne il termine di cui all'art. 24 del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;693). 
+ Trascorso tale periodo i funzionari predetti, qualora non riprendano servizio nell'Amministrazione cui appartengono, restando a disposizione degli enti presso i quali si trovano, sono considerati in aspettativa per motivi di famiglia a tutti gli effetti, tranne per quanto concerne il termine di cui all'art. 24 del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md). 
  
  Le norme suddette si applicano anche ai funzionari che gia' sono fuori ruolo alla data di pubblicazione del presente decreto e da tale data decorrono per essi i termini di cui sopra. 
  
@@ -134,7 +134,7 @@ I funzionari dell'Amministrazione centrale dei lavori pubblici e del genio civil
  
  I funzionari che abbiano ripreso servizio nell'Amministrazione non possono essere nuovamente collocati fuori ruolo, che a favore di enti di nuova costituzione e nei limiti e con le condizioni di cui sopra. 
  
- Rimangono abrogati gli articoli 45 e 47 del testo unico delle leggi sul genio civile approvato con [R. decreto 3 settembre 1906, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-09-03;522).
+ Rimangono abrogati gli articoli 45 e 47 del testo unico delle leggi sul genio civile approvato con [R. decreto 3 settembre 1906, n. 522](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md).
 
 ## Art. 10.
 
@@ -146,7 +146,7 @@ Potranno essere inscritti, in seguito a domanda, nel ruolo transitorio del perso
  
  c) gli impiegati aggiunti del genio civile, gli ufficiali idraulici e di bonifica, attualmente in servizio presso l'Amministrazione centrale e gli impiegati di ruolo di altre Amministrazioni attualmente in servizio presso quella dei lavori pubblici; 
  
- d) gli assistenti assunti per la vigilanza sulla costruzione di ferrovie concesse all'industria privata in base all'art. 3, penultimo comma, della [legge 12 luglio 1908, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-12;444): lo stesso trattamento sara' fatto, di mano in mano che occorrera' assumerli pel detto servizio di vigilanza, ai candidati dichiarati idonei in precedenti esami. 
+ d) gli assistenti assunti per la vigilanza sulla costruzione di ferrovie concesse all'industria privata in base all'art. 3, penultimo comma, della [legge 12 luglio 1908, n. 444](Concernente%20la%20concessione%20e%20costruzione%20di%20ferrovie%20008U0444.md): lo stesso trattamento sara' fatto, di mano in mano che occorrera' assumerli pel detto servizio di vigilanza, ai candidati dichiarati idonei in precedenti esami. 
  
  L'inscrizione in parola devo essere preceduta dal parere favorevole del Consiglio d'amministrazione il quale, nel fare le proposte per l'assegnazione alle varie categorie, terra' conto, oltre che della condotta, e dello zelo dei singoli aspiranti, anche dei titoli di studio e della effettiva prova da essi data di avere attitudini intellettuali e fisiche pel disimpegno delle mansioni inerenti alla categoria a cui chiedono di essere inscritti.
 
@@ -156,8 +156,8 @@ I funzionari d'ordine del genio civile attualmente in servizio nel Ministero dei
  
  Analogo trattamento sara' fatto agli uscieri del genio civile in servizio nel Ministero dei lavori pubblici che non intendessero ritornare presso gli uffici del genio civile, salvo per quanto riguarda gli uscieri del genio civile di 3ª classe, i quali prenderanno posto dopo gli attuali inservienti dell'Amministrazione centrale. 
  
- In seguito a tali inclusioni sara' provveduto con decreto Reale, su proposta del ministro dei lavori pubblici, al riordinamento del ruolo del personale d'ordine del Ministero dei lavori pubblici a termini dell'[art. 2 della legge 30 giugno 1907, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-30;384#art_2), ed al riordinamento  
- del ruolo del personale di servizio in relazione alla tabella annessa alla [legge 20 dicembre 1914, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-20;1387). 
+ In seguito a tali inclusioni sara' provveduto con decreto Reale, su proposta del ministro dei lavori pubblici, al riordinamento del ruolo del personale d'ordine del Ministero dei lavori pubblici a termini dell'[art. 2 della legge 30 giugno 1907, n. 384](Riordinamento%20della%20carriera%20dordine%20nelle%20Amministrazioni%20centrali.%20007U0384.md), ed al riordinamento  
+ del ruolo del personale di servizio in relazione alla tabella annessa alla [legge 20 dicembre 1914, n. 1387](Concernente%20provvedimenti%20intesi%20a%20parificare%20il%20trattamento%20del%20personale%20subalterno%20delle%20Amministrazioni%20centrali.%20014U1387.md). 
  
  Dalla data del presente decreto il personale d'ordine e di servizio del genio civile non potra' essere traslocato al Ministero.
 

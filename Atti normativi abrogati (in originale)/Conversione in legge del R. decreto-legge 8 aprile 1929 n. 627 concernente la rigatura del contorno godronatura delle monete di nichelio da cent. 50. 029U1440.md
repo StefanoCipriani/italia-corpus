@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 aprile 1929, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-04-08;627), concernente la godronatura delle monete di nichelio da centesimi cinquanta. 
+ E' convertito in legge il [R. decreto-legge 8 aprile 1929, n. 627](Godronatura%20delle%20monete%20di%20nichelio%20da%20cent.%2050.%20029U0627.md), concernente la godronatura delle monete di nichelio da centesimi cinquanta. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

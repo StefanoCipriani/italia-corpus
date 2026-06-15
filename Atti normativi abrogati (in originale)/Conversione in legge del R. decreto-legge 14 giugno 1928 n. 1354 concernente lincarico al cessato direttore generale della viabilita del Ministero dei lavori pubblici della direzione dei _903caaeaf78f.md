@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 giugno 1928, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-14;1354), contenente disposizioni sulla nomina del direttore dei servizi amministrativi dell'Azienda autonoma statale della strada. 
+ E' convertito in legge il [R. decreto-legge 14 giugno 1928, n. 1354](Incarico%20allattuale%20direttore%20generale%20della%20viabilita%20della%20direzione%20dei%20servizi%20amministrativi%20per%20lAzienda%20autonoma%20statale%20della%20strada.%20028U1354.md), contenente disposizioni sulla nomina del direttore dei servizi amministrativi dell'Azienda autonoma statale della strada. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

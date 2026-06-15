@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 aprile 1931, n. 490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-23;490), recante provvedimenti a favore dell'Amministrazione provinciale di Zara e dei Comuni della Provincia stessa. 
+ E' convertito in legge il [R. decreto-legge 23 aprile 1931, n. 490](Provvedimenti%20a%20favore%20dellAmministrazione%20provinciale%20dl%20Zara%20e%20dei%20Comuni%20della%20Provincia%20stessa.%20031U0490.md), recante provvedimenti a favore dell'Amministrazione provinciale di Zara e dei Comuni della Provincia stessa. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

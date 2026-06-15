@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Tutto il personale militare della R. marina, con destinazione di servizio a terra in Albania, in Grecia, in Libia e nell'Egeo, cessa dal percepire il trattamento di cui ai [Regi decreti 2 settembre 1912, n. 1008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-09-02;1008), e [20 marzo 1913, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-03-20;284), fin qui ricevuto, ed in sua vece gli sono esclusivamente assegnate le normali indennita' di guerra previste dal [decreto Luogotenenziale 24 giugno 1915, n. 999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-24;999). 
+Tutto il personale militare della R. marina, con destinazione di servizio a terra in Albania, in Grecia, in Libia e nell'Egeo, cessa dal percepire il trattamento di cui ai [Regi decreti 2 settembre 1912, n. 1008](Col%20quale%20vengono%20modificate%20le%20tariffe%20degli%20assegni%20di%20viaggio%20o%20missione%20per%20il%20personale%20della%20R.%20marina.%20012U1008.md), e [20 marzo 1913, n. 284](Col%20quale%20viene%20stabilita%20la%20misura%20del%20soprassoldo%20giornaliero%20al%20personale%20della%20R.%20marina%20in%20Libia.%20013U0284.md), fin qui ricevuto, ed in sua vece gli sono esclusivamente assegnate le normali indennita' di guerra previste dal [decreto Luogotenenziale 24 giugno 1915, n. 999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-24;999). 
  
  Al detto personale, oltre le citate indennita' di guerra, assegnata la seguente indennita' giornaliera speciale: 
  

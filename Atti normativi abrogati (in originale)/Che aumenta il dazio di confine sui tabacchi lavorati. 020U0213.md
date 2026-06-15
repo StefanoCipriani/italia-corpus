@@ -22,7 +22,7 @@ Sulla proposta del Nostro ministro segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Alla tariffa generale dei dazi doganali (testo unico approvato con [R. decreto 28 luglio 1910, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-28;577)) sono, per il tabacco fabbricato, apportate le modificazioni di dazio risultanti dalla seguente tabella: 
+Alla tariffa generale dei dazi doganali (testo unico approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md)) sono, per il tabacco fabbricato, apportate le modificazioni di dazio risultanti dalla seguente tabella: 
  
  Numero e lettera della tariffa: 35-b. - Tabacco fabbricato: 
  

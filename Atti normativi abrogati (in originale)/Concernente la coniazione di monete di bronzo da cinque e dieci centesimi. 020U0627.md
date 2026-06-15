@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 9 luglio 1905, n. 363](Riordinamento%20della%20circolazione%20delle%20monete%20di%20bronzo%20e%20di%20nichelio.%20005U0363.md), sul riordinamento della circolazione delle monete di bronzo e di nichelio;
 
-Visto il [R. decreto 23 gennaio 1908, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-01-23;22), che stabilisce la fabbricazione di una nuova moneta da centesimi venti di nichelio puro;
+Visto il [R. decreto 23 gennaio 1908, n. 22](Autorizzazione%20per%20la%20fabbricazione%20ed%20emissione%20di%20monete%20di%20nichelio%20puro%20da%20cent.20.%20008U0022.md), che stabilisce la fabbricazione di una nuova moneta da centesimi venti di nichelio puro;
 
 Vista la [legge 10 giugno 1909, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-10;350), che alla Convenzione monetaria addizionale 4 novembre 1908 da' piena ed intera esecuzione;
 
@@ -24,13 +24,13 @@ Visto il [decreto Luogotenenziale 9 dicembre 1915, n. 1802](https://www.normatti
 
 Visto il [decreto Luogotenenziale 12 dicembre 1915, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-12;1917), che stabilisce il riparto delle monete divisionarie d'argento;
 
-Visto il [R. decreto 4 settembre 1919, n. 1618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-04;1618), che autorizza la fabbricazione di monete di nichelio puro da centesimi 50, e di bronzo (rame, stagno e zinco) da centesimi 10 del diametro di mm. 225;
+Visto il [R. decreto 4 settembre 1919, n. 1618](Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20nichelio%20puro%20da%20centesimi%20cinquanta%20e%20di%20bronzo%20da%20centesimi%20dieci.%20019U1618.md), che autorizza la fabbricazione di monete di nichelio puro da centesimi 50, e di bronzo (rame, stagno e zinco) da centesimi 10 del diametro di mm. 225;
 
 Visto il [R. decreto 15 luglio 1919, n. 1219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-15;1219), che autorizza la fabbricazione di monete di bronzo (rame, stagno e zinco) da centesimi 5, del diametro di mm. 19,5;
 
 Visto il [decreto Luogotenenziale 14 luglio 1918, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-07-14;1064), relativo alla sospensione della coniazione delle monete da centesimi uno e due di bronzo;
 
-Visto il [R. decreto 17 ottobre 1907, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-10-17;703), che autorizza la trasformazione di pezzi di monete d'argento da centesimi 50 in monete da 1 e 2 lire;
+Visto il [R. decreto 17 ottobre 1907, n. 703](Autorizzazione%20alla%20R.%20zecca%20di%20provvedere%20alla%20coniazione%20di%20nuovi%20spezzati%20dargento%20per%20un%20valore%20nominale%20di%20cinque%20milioni.%20007U0703.md), che autorizza la trasformazione di pezzi di monete d'argento da centesimi 50 in monete da 1 e 2 lire;
 
 Vista la [legge 9 luglio 1914, n. 659](Concernente%20provvedimenti%20sulla%20circolazione%20cartacea%20e%20metallica%20dello%20Stato.%20014U0659.md), che riduce il contingente delle monete di nichelio da centesimi 20, autorizzato con la [legge 9 luglio 1905, n. 363](Riordinamento%20della%20circolazione%20delle%20monete%20di%20bronzo%20e%20di%20nichelio.%20005U0363.md);
 

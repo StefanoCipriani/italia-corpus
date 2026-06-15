@@ -31,7 +31,7 @@ Sono approvate e rese esecutorie la convenzione stipulata addi' 6 aprile 1918 fr
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 22 febbraio 1925, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-02-22;209) convertito, senza modificazioni, dalla [L. 27 maggio 1926, n. 962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-27;962), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 22 febbraio 1925, n. 209](Abrogazione%20del%20decreto%20Luogotenenziale%2030%20giugno%201918%20n.%20972%20concernente%20lapprovazione%20delle%20concessioni%20relative%20ad%20opere%20nel%20porti%20di%20Napoli%20e%20di%20Baia%20Averno.%20025U0209.md) convertito, senza modificazioni, dalla [L. 27 maggio 1926, n. 962](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20febbraio%201925%20n.%20209%20che%20abroga%20il%20decreto%20Luogotenenziale%2030%20giugno%201918%20n.%20972%20concernente%20lapprovazione%20delle%20concessioni%20relative%20alla%20costruzio_9c30e553f4f1.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 
@@ -40,7 +40,7 @@ Sono dichiarate di pubblica utilita' le opere per la costruzione del porto di Ba
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 22 febbraio 1925, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-02-22;209) convertito, senza modificazioni, dalla [L. 27 maggio 1926, n. 962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-27;962), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 22 febbraio 1925, n. 209](Abrogazione%20del%20decreto%20Luogotenenziale%2030%20giugno%201918%20n.%20972%20concernente%20lapprovazione%20delle%20concessioni%20relative%20ad%20opere%20nel%20porti%20di%20Napoli%20e%20di%20Baia%20Averno.%20025U0209.md) convertito, senza modificazioni, dalla [L. 27 maggio 1926, n. 962](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20febbraio%201925%20n.%20209%20che%20abroga%20il%20decreto%20Luogotenenziale%2030%20giugno%201918%20n.%20972%20concernente%20lapprovazione%20delle%20concessioni%20relative%20alla%20costruzio_9c30e553f4f1.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
@@ -48,14 +48,14 @@ Alle espropriazioni occorrenti per l'esecuzione delle opere di cui all'art. 2, s
  
  Le operazioni relative alle dette espropriazioni che si effettueranno gradualmente, a seconda del bisogno, saranno eseguite direttamente dal concessionario della costruzione, che potra' immettersi nel possesso dei beni occorrenti in seguito alla compilazione dello stato di consistenza delle zone di terreni e laghi da occupare, approvato dal ministro dei lavori pubblici. Questi, sentito il Consiglio superiore dei lavori pubblici, determinera' pure la somma che, in via provvisoria, dovra' depositarsi per indennita' di espropriazioni e per gli altri eventuali risarcimenti che ai terzi possano competere. 
  
- Il verbale di consistenza di cui sopra, equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_32). 
+ Il verbale di consistenza di cui sopra, equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
  
- Ogni variazione o rettifica delle espropriazioni, che si manifestasse necessaria all'atto dell'esecuzione delle opere, sara' approvata con lo stesso procedimento. Si applicheranno per tutto il resto le disposizioni della [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359). 
+ Ogni variazione o rettifica delle espropriazioni, che si manifestasse necessaria all'atto dell'esecuzione delle opere, sara' approvata con lo stesso procedimento. Si applicheranno per tutto il resto le disposizioni della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
  
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 22 febbraio 1925, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-02-22;209) convertito, senza modificazioni, dalla [L. 27 maggio 1926, n. 962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-27;962), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 22 febbraio 1925, n. 209](Abrogazione%20del%20decreto%20Luogotenenziale%2030%20giugno%201918%20n.%20972%20concernente%20lapprovazione%20delle%20concessioni%20relative%20ad%20opere%20nel%20porti%20di%20Napoli%20e%20di%20Baia%20Averno.%20025U0209.md) convertito, senza modificazioni, dalla [L. 27 maggio 1926, n. 962](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20febbraio%201925%20n.%20209%20che%20abroga%20il%20decreto%20Luogotenenziale%2030%20giugno%201918%20n.%20972%20concernente%20lapprovazione%20delle%20concessioni%20relative%20alla%20costruzio_9c30e553f4f1.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 
@@ -77,4 +77,4 @@ Nella parte straordinaria dello stato di previsione della spesa del Ministero de
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 22 febbraio 1925, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-02-22;209) convertito, senza modificazioni, dalla [L. 27 maggio 1926, n. 962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-27;962), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 22 febbraio 1925, n. 209](Abrogazione%20del%20decreto%20Luogotenenziale%2030%20giugno%201918%20n.%20972%20concernente%20lapprovazione%20delle%20concessioni%20relative%20ad%20opere%20nel%20porti%20di%20Napoli%20e%20di%20Baia%20Averno.%20025U0209.md) convertito, senza modificazioni, dalla [L. 27 maggio 1926, n. 962](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20febbraio%201925%20n.%20209%20che%20abroga%20il%20decreto%20Luogotenenziale%2030%20giugno%201918%20n.%20972%20concernente%20lapprovazione%20delle%20concessioni%20relative%20alla%20costruzio_9c30e553f4f1.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

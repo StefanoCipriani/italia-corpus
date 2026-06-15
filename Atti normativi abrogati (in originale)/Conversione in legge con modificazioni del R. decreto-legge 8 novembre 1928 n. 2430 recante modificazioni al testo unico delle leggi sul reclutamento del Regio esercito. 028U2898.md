@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 novembre 1928, n. 2430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-08;2430), recante modificazioni al testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 5 agosto 1927, n. 1437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-05;1437), con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 8 novembre 1928, n. 2430](Modificazioni%20al%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%205%20agosto%201927%20n.%201437.%20028U2430.md), recante modificazioni al testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 5 agosto 1927, n. 1437](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20027U1437.md), con le seguenti modificazioni: 
  
  All'art. 1, nn. 4 e 5 alle parole: « reddito netto superiore a L. 50,000 », sostituire: « reddito globale netto, superiore a L. 18,000 ». 
  

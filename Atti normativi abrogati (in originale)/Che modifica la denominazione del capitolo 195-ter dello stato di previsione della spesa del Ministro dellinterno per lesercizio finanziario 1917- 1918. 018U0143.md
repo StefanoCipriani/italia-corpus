@@ -22,7 +22,7 @@ TOMASO Dl SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), sul conferimento al Governo del Re dei poteri straordinari per la guerra; 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), sul conferimento al Governo del Re dei poteri straordinari per la guerra; 
  
  Visto il [decreto Luogotenenziale 9 settembre 1917, n. 1571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-09-09;1571); 
  
@@ -32,7 +32,7 @@ TOMASO Dl SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- La denominazione del capitolo n.195-ter dello stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1917-918 e' modificata come segue; «Sussidi temporanei ai Comitati provinciali ed agli Istituti per la protezione ed assistenza degli orfani di guerra e spese varie per l'applicazione della [legge 18 luglio 1917, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-18;1143)». 
+ La denominazione del capitolo n.195-ter dello stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1917-918 e' modificata come segue; «Sussidi temporanei ai Comitati provinciali ed agli Istituti per la protezione ed assistenza degli orfani di guerra e spese varie per l'applicazione della [legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md)». 
  
  Questo decreto andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta ufficiale. 
  

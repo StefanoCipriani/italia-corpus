@@ -40,7 +40,7 @@ Sino a sei mesi dopo la cessazione dello stato di guerra, sono subordinate alla 
 
 ## Art. 2.
 
-Non sono assoggettati alla autorizzazione di cui al precedente articolo gli aumenti di capitale che le societa' per azioni esistenti all'entrata in vigore del nuovo Libro del lavoro, deliberaranno entro il 30 giugno 1945, a norma dell'art. 49 delle « disposizioni transitorie » del Libro « Del Lavoro » approvate con [R. decreto 16 febbraio 1942, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-02-16;71), per adeguare il loro capitale sociale al minimo previsto dalla disciplina portata dal Libro predetto.
+Non sono assoggettati alla autorizzazione di cui al precedente articolo gli aumenti di capitale che le societa' per azioni esistenti all'entrata in vigore del nuovo Libro del lavoro, deliberaranno entro il 30 giugno 1945, a norma dell'art. 49 delle « disposizioni transitorie » del Libro « Del Lavoro » approvate con [R. decreto 16 febbraio 1942, n. 71](Disposizioni%20per%20lattuazione%20del%20Libro%20del%20Codice%20civile%20Del%20lavoro%20e%20disposizioni%20transitorie.%20042U0071.md), per adeguare il loro capitale sociale al minimo previsto dalla disciplina portata dal Libro predetto.
 
 ## Art. 3.
 

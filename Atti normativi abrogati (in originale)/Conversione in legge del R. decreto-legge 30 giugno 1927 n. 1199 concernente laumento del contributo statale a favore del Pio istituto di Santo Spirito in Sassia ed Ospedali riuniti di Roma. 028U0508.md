@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 giugno 1927, n. 1199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-30;1199), concernente l'aumento del contributo statale a favore del Pio istituto di Santo Spirito in Sassia ed Ospedali riuniti di Roma. 
+ E' convertito in legge il [R. decreto-legge 30 giugno 1927, n. 1199](Aumento%20del%20contributo%20statale%20a%20favore%20del%20Pio%20istituto%20di%20Santo%20Spirito%20in%20Sassia%20ed%20Ospedali%20riuniti%20di%20Roma.%20027U1199.md), concernente l'aumento del contributo statale a favore del Pio istituto di Santo Spirito in Sassia ed Ospedali riuniti di Roma. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), sul conferimento dei poteri eccezionali per la guerra; 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), sul conferimento dei poteri eccezionali per la guerra; 
  
- Vista la [legge 19 dicembre 1918, n. 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-12-19;1908); 
+ Vista la [legge 19 dicembre 1918, n. 1908](che%20proroga%20il%20termine%20indicato%20dalla%20legge%2023%20giugno%201918%20n.%20830%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201918-919%20fino%20a%20quando%20i%20medesimi%20non%20siano%20_7c441eeabe94.md); 
  
  Udito il Consiglio dei ministri; 
  

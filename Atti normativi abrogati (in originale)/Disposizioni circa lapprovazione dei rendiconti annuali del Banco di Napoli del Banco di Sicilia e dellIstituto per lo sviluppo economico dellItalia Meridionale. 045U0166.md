@@ -32,7 +32,7 @@ Sulla proposta del Ministro segretario di Stato per il tesoro; Abbiamo sanzionat
 
 Fino a quando non sia possibile la ricostituzione dei consigli generali del Banco di Napoli e del Banco di Sicilia, i bilanci ed i conti economici annuali dei due Istituti e delle rispettive sezioni speciali autonome saranno ad ogni effetto approvati dal Ministro per il tesoro. 
  
- Dallo stesso Ministro sara' anche approvato il bilancio ed i1 conto profitti e perdite dell'Istituto per lo sviluppo economico dell'Italia Meridionale, fondazione del Banco di Napoli e ente di diritto pubblico creato col [R. decreto-legge 3 giugno 1938, n. 883](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-03;883).
+ Dallo stesso Ministro sara' anche approvato il bilancio ed i1 conto profitti e perdite dell'Istituto per lo sviluppo economico dell'Italia Meridionale, fondazione del Banco di Napoli e ente di diritto pubblico creato col [R. decreto-legge 3 giugno 1938, n. 883](Costituzione%20dellIstituto%20per%20lo%20sviluppo%20economico%20dellItalia%20meridionale%20con%20sede%20in%20Napoli.%20038U0883.md).
 
 ## Art. 2.
 

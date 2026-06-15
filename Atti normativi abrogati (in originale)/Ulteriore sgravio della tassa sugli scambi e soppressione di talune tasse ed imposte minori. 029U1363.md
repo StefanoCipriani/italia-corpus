@@ -54,7 +54,7 @@ Sono soppresse le seguenti tasse ed imposte indirette:
  
  10° Tassa sulla produzione o importazione di perfosfato, nitrato di soda e solfato di rame, istituita con l'[art. 64 del R. decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_64). 
  
- 11° Tassa di cui al 2° comma dell'art. 26 del testo unico della legge sull'emigrazione, approvata con [R. decreto 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-13;2205), ed al [R. decreto 30 settembre 1926, n. 1801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-30;1801), per i viaggi di ritorno degli emigranti di qualsiasi nazionalita' che sbarcano in porti del Regno. 
+ 11° Tassa di cui al 2° comma dell'art. 26 del testo unico della legge sull'emigrazione, approvata con [R. decreto 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-13;2205), ed al [R. decreto 30 settembre 1926, n. 1801](Fissazione%20a%20carico%20dei%20vettori%20e%20dei%20capitani%20dei%20piroscafi%20muniti%20di%20licenza%20consolare%20di%20una%20tassa%20per%20i%20viaggi%20di%20ritorno%20degli%20emigrati%20dai%20porti%20transoceanici%20ad%20un%20porto%20del%20Regno.%20026U1801.md), per i viaggi di ritorno degli emigranti di qualsiasi nazionalita' che sbarcano in porti del Regno. 
  
  12° Tassa di entrata nei musei, nelle gallerie, negli scavi di antichita' e nei monumenti, di che alla legge 27 maggio 1875, 2554, e successive. 
  

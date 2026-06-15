@@ -10,9 +10,9 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto l'[articolo 4 della legge del 20 aprile 1871, num. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1871-04-20;192#art_4) (Serie 2ª);
+Visto l'[articolo 4 della legge del 20 aprile 1871, num. 192](Concernente%20la%20riscossione%20delle%20imposte%20dirette.%20071U0192.md) (Serie 2ª);
 
-Visto il regolamento approvato con [Regio decreto del 25 agosto 1876, n. 3303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-08-25;3303) (Serie 2ª);
+Visto il regolamento approvato con [Regio decreto del 25 agosto 1876, n. 3303](Che%20modifica%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20076U3303.md) (Serie 2ª);
 
 Di concerto col Ministro dell'Interno, e sentito il Consiglio di Stato, Decreta quanto segue:
 

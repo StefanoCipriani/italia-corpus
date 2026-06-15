@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [R. decreto-legge 29 novembre 1925, n. 2146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-29;2146), e' modificato come segue: 
+Il [R. decreto-legge 29 novembre 1925, n. 2146](Estensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazione%20sociale.%20025U2146.md), e' modificato come segue: 
  
  I. - Al primo comma dell'art. 7 sono sostituiti i seguenti due commi: 
  
@@ -60,17 +60,17 @@ Il [R. decreto-legge 29 novembre 1925, n. 2146](https://www.normattiva.it/uri-re
 
 ## Art. 2.
 
-In tutti gli articoli del [R. decreto-legge 29 novembre 1925, n. 2146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-29;2146), le parole « Ministro per l'economia nazionale » e « Ministero dell'economia nazionale » sono sostituite da quelle di « Ministro per le corporazioni » e « Ministero delle corporazioni ».
+In tutti gli articoli del [R. decreto-legge 29 novembre 1925, n. 2146](Estensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazione%20sociale.%20025U2146.md), le parole « Ministro per l'economia nazionale » e « Ministero dell'economia nazionale » sono sostituite da quelle di « Ministro per le corporazioni » e « Ministero delle corporazioni ».
 
 ## Art. 3.
 
-La riscossione dei contributi di cui all'[art. 8 del R. decreto-legge 29 novembre 1925, n. 2146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-29;2146#art_8), e' eseguita dalla Cassa nazionale per le assicurazioni sociali insieme con quella dei contributi pertinenti alle assicurazioni da essa gestite, con le norme e i privilegi in vigore per le Casse di malattia. 
+La riscossione dei contributi di cui all'[art. 8 del R. decreto-legge 29 novembre 1925, n. 2146](Estensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazione%20sociale.%20025U2146.md), e' eseguita dalla Cassa nazionale per le assicurazioni sociali insieme con quella dei contributi pertinenti alle assicurazioni da essa gestite, con le norme e i privilegi in vigore per le Casse di malattia. 
  
  Con decreto del Ministro per le corporazioni saranno regolati i rapporti tra la Cassa nazionale per le assicurazioni sociali e le Casse di malattia in dipendenza del presente articolo.
 
 ## Art. 4.
 
-Le Casse circondariali di malattia non aventi sede nel capoluogo di Provincia, sono fuse con quelle dei rispettivi capoluoghi di Provincia che assumono la qualifica e le attribuzioni di Casse provinciali, agli effetti dell'art. 1 della presente legge, salvo il caso di applicazione del [secondo comma dell'art. 7 del R. decreto-legge 29 novembre 1925, n. 2146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-29;2146#art_7-com2), modificato in conformita' dell'art. 1 della presente legge. 
+Le Casse circondariali di malattia non aventi sede nel capoluogo di Provincia, sono fuse con quelle dei rispettivi capoluoghi di Provincia che assumono la qualifica e le attribuzioni di Casse provinciali, agli effetti dell'art. 1 della presente legge, salvo il caso di applicazione del [secondo comma dell'art. 7 del R. decreto-legge 29 novembre 1925, n. 2146](Estensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazione%20sociale.%20025U2146.md), modificato in conformita' dell'art. 1 della presente legge. 
  
  E' tuttavia conservata la Cassa circondariale di malattia di Cortina d'Ampezzo, con giurisdizione sui territori dei comuni di Cortina d'Ampezzo, di Pieve di Livinallongo, e di Colle Santa Lucia.
 
@@ -80,13 +80,13 @@ Le Federazioni regionali con sede in Trento e Trieste sono poste in liquidazione
  
  Con Regio decreto, su proposta del Ministro per le corporazioni, saranno nominati i liquidatori e stabilite le norme della liquidazione. 
  
- Il personale delle Federazioni predette sara' liquidato a norma del [R. decreto-legge 13 novembre 1924, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-13;1825). 
+ Il personale delle Federazioni predette sara' liquidato a norma del [R. decreto-legge 13 novembre 1924, n. 1825](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md). 
  
- La compilazione delle statistiche ai sensi dell'art. 44 del regolamento approvato con [R. decreto 4 marzo 1926, n. 528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-03-04;528), e' demandata alle Casse provinciali di Trento e di Trieste.
+ La compilazione delle statistiche ai sensi dell'art. 44 del regolamento approvato con [R. decreto 4 marzo 1926, n. 528](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20novembre%201925%20n.%202146%20concernente%20lestensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazioni%20sociali%20per%20la%20parte%20r_c27bf456a0f3.md), e' demandata alle Casse provinciali di Trento e di Trieste.
 
 ## Art. 6.
 
-Il Governo del Re e' autorizzato ad apportare al regolamento approvato con [R. decreto 4 marzo 1926, n. 528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-03-04;528), le modificazioni necessarie per l'esecuzione, l'attuazione ed integrazione della presente legge, che entrera' in vigore il 1° luglio 1933, nonche' a provvedere al coordinamento di questa con le disposizioni vigenti. 
+Il Governo del Re e' autorizzato ad apportare al regolamento approvato con [R. decreto 4 marzo 1926, n. 528](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20novembre%201925%20n.%202146%20concernente%20lestensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazioni%20sociali%20per%20la%20parte%20r_c27bf456a0f3.md), le modificazioni necessarie per l'esecuzione, l'attuazione ed integrazione della presente legge, che entrera' in vigore il 1° luglio 1933, nonche' a provvedere al coordinamento di questa con le disposizioni vigenti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

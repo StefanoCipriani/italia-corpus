@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [R. decreto-legge 14 novembre 1941, n. 1231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-11-14;1231), convertito, con modificazioni, nella [legge 19 gennaio 1942, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;9), ed il [decreto legislativo Luogotenenziale 27 novembre 1944:, n. 422](Revoca%20di%20divieto%20delle%20costruzioni%20di%20edifici%20privati%20di%20cui%20al%20R.%20decreto-legge%2014%20novembre%201941%20n.%201231.%20044U0422.md), sono abrogati.
+Il [R. decreto-legge 14 novembre 1941, n. 1231](Disposizioni%20limitative%20dellattivita%20edilizia%20privata%20in%20dipendenza%20dello%20stato%20di%20guerra.%20041U1231.md), convertito, con modificazioni, nella [legge 19 gennaio 1942, n. 9](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto%20legge%2014%20novembre%201941-XX%20n.%201231%20recante%20disposizioni%20limitative%20dellattivita%20edilizia%20privata%20in%20dipendenza%20dello%20stato%20di%20guerra.%20042U0009.md), ed il [decreto legislativo Luogotenenziale 27 novembre 1944:, n. 422](Revoca%20di%20divieto%20delle%20costruzioni%20di%20edifici%20privati%20di%20cui%20al%20R.%20decreto-legge%2014%20novembre%201941%20n.%201231.%20044U0422.md), sono abrogati.
 
 ## Art. 2.
 

@@ -28,7 +28,7 @@ E' instituita presso il Banco di Sicilia una sezione per l'esercizio del credito
 
 Il Banco di Sicilia e' autorizzato a prelevare il fondo iniziale di L. 3,000,000 a titolo d'impiego dall'ammontare della massa di rispetto disponibile. Nel fondo predetto sono comprese le somme tuttora impiegate nelle operazioni di credito agrario compiute dal Banco di Sicilia, in virtu' della [legge 23 gennaio 1887, n. 1276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-01-23;1276) (serie 3ª). 
  
- Rimane ferma, ad ogni effetto, la disposizione del capoverso dell'art. 50 del testo unico di legge sugli istituti d'emissione, approvato con [R. decreto 9 ottobre 1900, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-10-09;373), anche per la porzione della massa di rispetto del Banco assegnata al detto scopo.
+ Rimane ferma, ad ogni effetto, la disposizione del capoverso dell'art. 50 del testo unico di legge sugli istituti d'emissione, approvato con [R. decreto 9 ottobre 1900, n. 373](Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md), anche per la porzione della massa di rispetto del Banco assegnata al detto scopo.
 
 ### Art. 3.
 
@@ -58,7 +58,7 @@ Il Banco di Sicilia potra' impiegare il fondo iniziale, l'anticipazione in conto
  
  b) per il rimanente in titoli emessi o guarentiti dallo Stato. 
  
- Le somme depositate nel conto corrente col Banco non sono comprese nel limite massimo di 15 milioni di lire, di cui all'art. 38 del testo unico di legge sugli Istituti d'emissione e sulla circolazione dei biglietti di Banca, approvato con [R. decreto 9 ottobre 1900, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-10-09;373).
+ Le somme depositate nel conto corrente col Banco non sono comprese nel limite massimo di 15 milioni di lire, di cui all'art. 38 del testo unico di legge sugli Istituti d'emissione e sulla circolazione dei biglietti di Banca, approvato con [R. decreto 9 ottobre 1900, n. 373](Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md).
 
 ## Costituzione degli enti intermediari - Dei Monti frumentari.
 
@@ -260,7 +260,7 @@ Le disposizioni di cui agli articoli 22, 23 e 26 della presente legge sono appli
 
 ### Art. 29.
 
-Quando il debitore menoma, deteriora, distrae gli oggetti sottoposti al privilegio legale o convenzionale, incorro nel reato previsto dall'[art. 203 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_203).
+Quando il debitore menoma, deteriora, distrae gli oggetti sottoposti al privilegio legale o convenzionale, incorro nel reato previsto dall'[art. 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 30.
 

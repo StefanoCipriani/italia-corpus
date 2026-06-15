@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 aprile 1931, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-09;335), concernente il riparto degli utili di gestione dell'Ente autonomo per l'acquedotto pugliese dall'esercizio finanziario 1928-29 in poi colla seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 9 aprile 1931, n. 335](Riparto%20degli%20utili%20di%20gestione%20dellEnte%20autonomo%20dellAcquedotto%20pugliese.%20031U0335.md), concernente il riparto degli utili di gestione dell'Ente autonomo per l'acquedotto pugliese dall'esercizio finanziario 1928-29 in poi colla seguente modificazione: 
  
  Art. 1, comma 3°, dopo la parola «consuntivo» aggiungere le seguenti: «da registrarsi dalla Corte dei conti». 
  

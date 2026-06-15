@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 gennaio 1930, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-01-13;126), che da' esecuzione allo scambio di note, intervenuto a Parigi, tra la Regia ambasciata italiana e il Ministero degli affari esteri francese, in data 3-4 ottobre 1929, circa i visti consolari dei certificati di origine e delle fatture commerciali. 
+ E' convertito in legge il [R. decreto-legge 13 gennaio 1930, n. 126](Esecuzione%20dello%20scambio%20di%20note%20italo-francese%20del%203-4%20ottobre%201929%20circa%20i%20visti%20consolari%20dei%20certificati%20dorigine%20e%20delle%20fatture%20commerciali.%20030U0126.md), che da' esecuzione allo scambio di note, intervenuto a Parigi, tra la Regia ambasciata italiana e il Ministero degli affari esteri francese, in data 3-4 ottobre 1929, circa i visti consolari dei certificati di origine e delle fatture commerciali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

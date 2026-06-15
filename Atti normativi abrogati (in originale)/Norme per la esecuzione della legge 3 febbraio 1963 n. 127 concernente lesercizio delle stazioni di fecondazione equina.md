@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 3 febbraio 1963, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;127);
+Vista la [legge 3 febbraio 1963, n. 127](Norme%20per%20lesercizio%20delle%20stazioni%20di%20fecondazione%20equina.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con 
 
 ## Art. 1.
 
-Le domande intese ad ottenere le autorizzazioni di cui all'[art. 1 della legge 3 febbraio 1963, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;127#art_1), anche se riguardanti stazioni di fecondazione dotate di stalloni di puro sangue inglese e da trotto, devono essere inviate all'Istituto di incremento ippico competente per territorio non oltre il 15 agosto dell'anno precedente quello di inizio dell'esercizio della fecondazione.
+Le domande intese ad ottenere le autorizzazioni di cui all'[art. 1 della legge 3 febbraio 1963, n. 127](Norme%20per%20lesercizio%20delle%20stazioni%20di%20fecondazione%20equina.md), anche se riguardanti stazioni di fecondazione dotate di stalloni di puro sangue inglese e da trotto, devono essere inviate all'Istituto di incremento ippico competente per territorio non oltre il 15 agosto dell'anno precedente quello di inizio dell'esercizio della fecondazione.
  La domanda deve contenere le seguenti indicazioni:
  a) nome, cognome, domicilio del richiedente;
  b) localita' dove funzionera' la stazione di fecondazione;
@@ -61,7 +61,7 @@ La domanda per l'approvazione di cavalli stalloni, anche se di puro sangue ingle
  Alla domanda devono essere allegati:
  a) copia fotostatica del certificato genealogico o di origine del soggetto, il cui originale deve essere esibito all'atto della visita;
 b) certificato veterinario comprovante l'avvenuta prova
-diagnostica della materia ai sensi dell'art. 132 del regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica dell'8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320).
+diagnostica della materia ai sensi dell'art. 132 del regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica dell'8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md).
  Se l'approvazione e' richiesta dal gestore di una pubblica stazione di fecondazione la domanda dovra' essere corredata anche della bolletta di pagamento della tassa sulle concessioni governative di cui al n. 39 della tabella annessa al [decreto del Presidente della Repubblica 1 marzo 1961, n. 121](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.md).
 
 ## Art. 7.

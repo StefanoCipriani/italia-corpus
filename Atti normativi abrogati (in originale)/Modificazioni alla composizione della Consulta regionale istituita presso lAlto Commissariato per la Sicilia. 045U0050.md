@@ -16,9 +16,9 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 18 marzo 1944, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-18;91), relativo all'istituzione di un Alto Commissariato per la Sicilia;
+Visto il [R. decreto-legge 18 marzo 1944, n. 91](Istituzione%20di%20un%20Alto%20Commissariato%20Civile%20per%20la%20Sicilia.%20044U0091.md), relativo all'istituzione di un Alto Commissariato per la Sicilia;
 
-Visto il [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;416), recante provvedimenti regionali per la Sicilia;
+Visto il [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md), recante provvedimenti regionali per la Sicilia;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-L'[art. 7 del R. decreto-legge 18 marzo 1944, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-18;91#art_7), modificato dall'[art. 3 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;416#art_3), e' sostituito dal seguente: 
+L'[art. 7 del R. decreto-legge 18 marzo 1944, n. 91](Istituzione%20di%20un%20Alto%20Commissariato%20Civile%20per%20la%20Sicilia.%20044U0091.md), modificato dall'[art. 3 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md), e' sostituito dal seguente: 
  
 «E' istituita presso l'Alto Commissariato per la Sicilia una Consulta regionale, presieduta dall'Alto Commissario e composta di trentasei membri scelti fra i rappresentanti delle organizzazioni politiche, economiche, sindacali e culturali e fra competenti ed esperti. 
  

@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sui riordinamento della istruzione media tecnica;
- Visto il [regio decreto 24 agosto 1933, n. 2185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-24;2185), con il quale viene approvata la tabella organica dell'Istituto tecnico industriale "Leonardo da Vinci" di Napoli;
+ Visto il [regio decreto 24 agosto 1933, n. 2185](Trasformazione%20del%20Regio%20istituto%20nazionale%20per%20le%20industrie%20tessili%20Benito%20Mussolini%20di%20Napoli%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2185.md), con il quale viene approvata la tabella organica dell'Istituto tecnico industriale "Leonardo da Vinci" di Napoli;
  Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107#art_10);
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

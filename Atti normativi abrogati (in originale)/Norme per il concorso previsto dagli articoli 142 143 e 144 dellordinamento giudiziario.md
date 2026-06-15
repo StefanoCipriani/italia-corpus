@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visti gli articoli 142, 143 e 144 dell'ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
 
-Visto l'[art. 6 del decreto legislativo luogotenenziale 30 aprile 1946, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-30;352#art_6), che abroga gli articoli 256, 257, e 261 del citato ordinamento;
+Visto l'[art. 6 del decreto legislativo luogotenenziale 30 aprile 1946, n. 352](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20sul%20personale%20della%20Magistratura.md), che abroga gli articoli 256, 257, e 261 del citato ordinamento;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -24,14 +24,14 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-Il concorso per titoli per il passaggio dei pretori nel ruolo collegiale, previsto dagli articoli 142, 143 e 144 del vigente ordinamento giudiziario e dall'[art. 6 del decreto legislativo luogotenenziale 30 aprile 1946, numero 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-30;352#art_6), e' regolato dalle norme seguenti.
+Il concorso per titoli per il passaggio dei pretori nel ruolo collegiale, previsto dagli articoli 142, 143 e 144 del vigente ordinamento giudiziario e dall'[art. 6 del decreto legislativo luogotenenziale 30 aprile 1946, numero 352](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20sul%20personale%20della%20Magistratura.md), e' regolato dalle norme seguenti.
 
 ## Art. 2.
 
 L'istanza di ammissione al concorso deve essere inviata al Ministero per via gerarchica entro il termine perentorio di due mesi dalla data di pubblicazione nel bollettino ufficiale del decreto che indice il concorso.
  Con la domanda devono essere presentati cinque lavori giudiziari, redatti nel biennio antecedente al bando di concorso.
  Se risulta che entro il biennio il magistrato non ha redatto lavori giudiziari o ne ha redatto in numero inferiore a cinque, il Ministro puo', su istanza dell'interessato fissargli altro periodo, fermo tuttavia l'obbligo pel concorrente di produrre tutti i lavori eventualmente redatti nel biennio antecedente al bando.
- Entro un mese dalla partecipazione della ammissione ai concorso, i concorrenti possono inviare lavori giudiziari di loro libera scelta, in numero non superiore a dieci, e gli altri titoli e documenti che ritengono di esibire Si applicano le disposizioni del [terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-31;1352#art_4-com3), [quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-31;1352#art_4-com4) e [quinto comma dell'art. 4 della legge 31 ottobre 1942, n. 1352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-31;1352#art_4-com5), per i magistrati che si trovano Delle condizioni ivi previste. Detti magistrati possono, entro sei mesi dal loro ritorno in patria, rinunziare agli effetti del concorso, ed in tal caso sono considerati come non presentatisi al concorso medesimo.
+ Entro un mese dalla partecipazione della ammissione ai concorso, i concorrenti possono inviare lavori giudiziari di loro libera scelta, in numero non superiore a dieci, e gli altri titoli e documenti che ritengono di esibire Si applicano le disposizioni del [terzo](Disposizioni%20relative%20al%20personale%20della%20Magistratura%20e%20delle%20Cancellerie%20e%20Segreterie%20giudiziarie.%20042U1352.md), [quarto](Disposizioni%20relative%20al%20personale%20della%20Magistratura%20e%20delle%20Cancellerie%20e%20Segreterie%20giudiziarie.%20042U1352.md) e [quinto comma dell'art. 4 della legge 31 ottobre 1942, n. 1352](Disposizioni%20relative%20al%20personale%20della%20Magistratura%20e%20delle%20Cancellerie%20e%20Segreterie%20giudiziarie.%20042U1352.md), per i magistrati che si trovano Delle condizioni ivi previste. Detti magistrati possono, entro sei mesi dal loro ritorno in patria, rinunziare agli effetti del concorso, ed in tal caso sono considerati come non presentatisi al concorso medesimo.
 
 ## Art. 3.
 
@@ -46,7 +46,7 @@ Avverso la deliberazione di esclusione dal concorso, emessa dal Consiglio giudiz
 ## Art. 5.
 
 Nella valutazione di ciascun candidato si tiene particolarmente conto dei precedenti di carriera, delle doti di carattere e del comportamento del magistrato nell'esercizio delle funzioni affidategli e nella vita privata, della stima di cui egli e' circondato, e di tutti i servizi prestati ed incarichi assolti.
- Nell'esame dei lavori e dei titoli si tiene prevalentemente conto dei lavori giudiziari Per coloro che, in seguito ad applicazione, o a destinazione ai sensi dell'[art. 2, secondo comma, del decreto legislativo luogotenenziale 3 maggio 1945, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-03;232#art_2-com2), esercitano funzioni istruttorie penali o funzioni requirenti, si tiene prevalentemente conto delle informazioni sulle speciali attitudini alle funzioni stesse e sul modo col quale il candidato le ha esercitate.
+ Nell'esame dei lavori e dei titoli si tiene prevalentemente conto dei lavori giudiziari Per coloro che, in seguito ad applicazione, o a destinazione ai sensi dell'[art. 2, secondo comma, del decreto legislativo luogotenenziale 3 maggio 1945, n. 232](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20temporanee%20circa%20le%20applicazioni%20e%20supplenze%20di%20magistrati%20con%20funzioni%20del%20grado%20superiore%20e%20circa%20il%20concorso%20per%20uditore.%20045U0232.md), esercitano funzioni istruttorie penali o funzioni requirenti, si tiene prevalentemente conto delle informazioni sulle speciali attitudini alle funzioni stesse e sul modo col quale il candidato le ha esercitate.
  Per i magistrati che non prestano servizio presso uffici giudiziari non si applicano le disposizioni dell'art. 2, secondo comma, del presente decreto, ma si tiene principalmente conto della loro attivita' in relazione alle funzioni esercitate e dei precedenti di carriera nonche' dei lavori amministrativi affini a quelli giudiziari ed altri titoli presentati La maggiore anzianita' e presa in considerazione unicamente all'effetto di determinare la precedenza a parita' di voti nella graduatoria del concorso, salve le preferenze stabilite dall'art. 148 e successive modifiche del vigente ordinamento giudiziario.
 
 ## Art. 6.

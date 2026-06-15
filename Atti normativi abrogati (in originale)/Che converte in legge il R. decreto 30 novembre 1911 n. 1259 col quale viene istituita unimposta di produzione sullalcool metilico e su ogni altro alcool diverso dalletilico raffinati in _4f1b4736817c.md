@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto del 30 novembre 1911, n. 1259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-11-30;1259), che ha istituito un'imposta di produzione sull'alcool metilico, e su ogni altro alcool diverso dall'etilico, raffinati in guisa da poter essere impiegati nella preparazione delle bevande. 
+ E' convertito in legge il [R. decreto del 30 novembre 1911, n. 1259](Concernente%20la%20imposta%20interna%20di%20fabbricazione%20degli%20alcools%20raffinati%20atti%20alla%20preparazione%20delle%20bevande.%20011U1259.md), che ha istituito un'imposta di produzione sull'alcool metilico, e su ogni altro alcool diverso dall'etilico, raffinati in guisa da poter essere impiegati nella preparazione delle bevande. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

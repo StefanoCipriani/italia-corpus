@@ -26,15 +26,15 @@ E' concessa amnistia per i seguenti reati:
  
  a) reati di azione pubblica preveduti nella legge sulla stampa; 
  
- b) reati preveduti dagli [articoli 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_125), [126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_126), [140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_140), [246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_246), [247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_247) e [251 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_251); 
+ b) reati preveduti dagli [articoli 125](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [126](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [140](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [246](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [247](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [251 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- c) delitti di duello preveduti dagli articoli 237, 238, 239, n. 3°, 241 e 244 [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398); 
+ c) delitti di duello preveduti dagli articoli 237, 238, 239, n. 3°, 241 e 244 [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- d) reati di esercizio arbitrario e di usurpazione ([articoli 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_235), [422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_422) e [423 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_423)), determinati da pretese ragioni di usi civici; 
+ d) reati di esercizio arbitrario e di usurpazione ([articoli 235](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [422](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [423 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)), determinati da pretese ragioni di usi civici; 
  
  e) furti semplici commessi su legna da ardere o su cose destinate all'alimentazione umana quando il valore non superi le lire venti; 
  
- f) delitti previsti dall'art. 375, n. 1°, [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), purche' non rimangano offese piu' persone; 
+ f) delitti previsti dall'art. 375, n. 1°, [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), purche' non rimangano offese piu' persone; 
  
  g) reati di diserzione da navi mercantili, di disobbedienza e insubordinazione, previsti dagli articoli 264 a 280, 281 a 283 del Codice della marina mercantile; 
  
@@ -42,7 +42,7 @@ E' concessa amnistia per i seguenti reati:
 
 ## Art. 2.
 
-La disposizione contenuta nella lettera h) non si applica alle contravvenzioni previste dagli articoli 19 e 110 della legge di pubblica sicurezza e 464, n. 1° e 2°, del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+La disposizione contenuta nella lettera h) non si applica alle contravvenzioni previste dagli articoli 19 e 110 della legge di pubblica sicurezza e 464, n. 1° e 2°, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  I marinai ammessi a godere dell'amnistia come sopra concessa, sono reintegrati nei loro diritti verso la Cassa invalidi per quanto riguarda la navigazione utile alla liquidazione dei loro assegnamenti, anteriori alla diserzione.
 

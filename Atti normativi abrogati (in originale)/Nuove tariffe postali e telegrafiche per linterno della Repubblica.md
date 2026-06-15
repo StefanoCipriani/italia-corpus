@@ -18,21 +18,21 @@ Visto il [decreto luogotenenziale 2 aprile 1946, n. 397](https://www.normattiva.
 
 Visto il [decreto del Presidente della Repubblica 6 aprile 1949, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-04-06;111);
 
-Visto il [decreto del Presidente della Repubblica 22 gennaio 1950, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-01-22;193);
+Visto il [decreto del Presidente della Repubblica 22 gennaio 1950, n. 193](../DPR/Modificazioni%20alle%20tariffe%20dei%20pacchi%20postali%20ed%20istituzione%20di%20un%20diritto%20di%20ricevuta%20nei%20servizi%20della%20corrispondenza%20pacchi%20e%20vaglia.md);
 
-Visto il [decreto del Presidente della Repubblica 29 giugno 1951, n. 582](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-06-29;582);
+Visto il [decreto del Presidente della Repubblica 29 giugno 1951, n. 582](../DPR/Variazioni%20alle%20tariffe%20postali%20per%20linterno%20della%20Repubblica.md);
 
-Visto il [decreto del Presidente della Repubblica 29 giugno 1951, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-06-29;583);
+Visto il [decreto del Presidente della Repubblica 29 giugno 1951, n. 583](../DPR/Variazioni%20delle%20tariffe%20telegrafiche%20per%20linterno%20della%20Repubblica.md);
 
-Visto il [decreto del Presidente della Repubblica 2 agosto 1952, n. 1316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-08-02;1316);
+Visto il [decreto del Presidente della Repubblica 2 agosto 1952, n. 1316](../DPR/Variazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20per%20linterno.md);
 
-Visto il [decreto del Presidente della Repubblica 30 giugno 1954, n. 819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-06-30;819);
+Visto il [decreto del Presidente della Repubblica 30 giugno 1954, n. 819](../DPR/Modificazione%20alla%20voce%202%20della%20tabella%20n.%201%20delle%20tariffe%20postali%20allegata%20al%20decreto%20del%20Presidente%20della%20Repubblica%2029%20giugno%201951%20n.%20582.md);
 
-Visto il [decreto del Presidente della Repubblica 10 ottobre 1955, n. 1099](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-10-10;1099);
+Visto il [decreto del Presidente della Repubblica 10 ottobre 1955, n. 1099](../DPR/Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20ed%20ai%20limiti%20di%20peso%20dimensione%20valore%20e%20assegno%20per%20gli%20oggetti%20affidati%20allAmministrazione%20delle%20poste%20e%20per%20le%20operazioni%20ad%20essa%20richieste.md);
 
-Visto il [decreto del Presidente della Repubblica 20 marzo 1957, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-20;333);
+Visto il [decreto del Presidente della Repubblica 20 marzo 1957, n. 333](../DPR/Tariffa%20per%20la%20spedizione%20degli%20estratti%20di%20conto%20delle%20Amministrazioni%20dei%20giornali%20e%20delle%20cedole%20di%20commissioni%20librarie%20dirette%20alle%20Amministrazioni%20dei%20giornali.md);
 
-Visto il [decreto del Presidente della Repubblica 24 marzo 1957, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-24;366);
+Visto il [decreto del Presidente della Repubblica 24 marzo 1957, n. 366](../DPR/Determinazione%20dei%20tagli%20dei%20vaglia%20postali%20a%20taglio%20fisso%20e%20delle%20relative%20tasse.md);
 
 Visto il [decreto del Presidente della Repubblica 6 settembre 1957, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-09-06;855);
 
@@ -40,9 +40,9 @@ Visto il [decreto del Presidente della Repubblica 6 dicembre 1957, n. 1386](http
 
 Visto il [decreto del Presidente della Repubblica 5 agosto 1959, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-08-05;675);
 
-Visto il [decreto del Presidente della Repubblica 18 maggio 1960, n. 564](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-05-18;564);
+Visto il [decreto del Presidente della Repubblica 18 maggio 1960, n. 564](../DPR/Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali.md);
 
-Visto il [decreto del Presidente della Repubblica 23 giugno 1961, n. 733](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-23;733);
+Visto il [decreto del Presidente della Repubblica 23 giugno 1961, n. 733](../DPR/Modificazioni%20delle%20tariffe%20postali%20per%20linterno%20della%20Repubblica.md);
 
 Vista la [legge 25 aprile 1961, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-04-25;355), concernente abrogazione delle esenzioni dalle tasse postali e telegrafiche e delle riduzioni delle tasse medesime;
 
@@ -58,7 +58,7 @@ Le tabelle numeri 1, 2 e 3, allegate al [decreto dei Presidente della Repubblica
 
 ## Art. 2.
 
-La tabella A, allegata al [decreto del Presidente della Repubblica 29 giugno 1951, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-06-29;583) e successive modificazioni, e' sostituita dalla tabella n. 4 allegata al presente decreto, firmata dal Ministro per le poste e le telecomunicazioni.
+La tabella A, allegata al [decreto del Presidente della Repubblica 29 giugno 1951, n. 583](../DPR/Variazioni%20delle%20tariffe%20telegrafiche%20per%20linterno%20della%20Repubblica.md) e successive modificazioni, e' sostituita dalla tabella n. 4 allegata al presente decreto, firmata dal Ministro per le poste e le telecomunicazioni.
 
 ## Art. 3.
 
@@ -66,7 +66,7 @@ Le tariffe per i servizi radiotelegrafici e radiotelefonici marittimi, valevoli 
 
 ## Art. 4.
 
-La tabella, B, allegata al [decreto del Presidente della Repubblica 29 giugno 1951, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-06-29;583), e' soppressa.
+La tabella, B, allegata al [decreto del Presidente della Repubblica 29 giugno 1951, n. 583](../DPR/Variazioni%20delle%20tariffe%20telegrafiche%20per%20linterno%20della%20Repubblica.md), e' soppressa.
 
 ## Art. 5.
 

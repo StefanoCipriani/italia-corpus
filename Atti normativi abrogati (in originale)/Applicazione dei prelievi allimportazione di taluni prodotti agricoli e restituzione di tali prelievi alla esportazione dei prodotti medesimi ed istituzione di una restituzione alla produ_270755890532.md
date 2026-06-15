@@ -22,7 +22,7 @@ Visto il regolamento n. 49, adottato il 29 giugno 1962, con cui il Consiglio dei
 
 Visto il regolamento n. 55, adottato dal Consiglio dei Ministri della Comunita' Economica Europea il 30 giugno 1962, con il quale tra l'altro, viene prevista la istituzione di un rimborso alla produzione in favore degli amidi di cereali;
 
-Vista la decisione della Commissione della Comunita' Economica Europea in data 17 luglio 1962, relativa ai metodi di cooperazione amministrativa per l'applicazione dei regolamenti sopra indicati, con cui viene disposta la istituzione di un nuovo modello di certificato di circolazione destinato a comprovare, negli scambi fra gli Stati membri, la condizione comunitaria dei prodotti agricoli soggetti al regime dei prelievi agricoli Vista la legge doganale 25 settembre 1940, n. 1424, ed il relativo regolamento di applicazione approvato con [regio decreto 13 febbraio 1896, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-13;65), con le successive modificazioni ed aggiunte;
+Vista la decisione della Commissione della Comunita' Economica Europea in data 17 luglio 1962, relativa ai metodi di cooperazione amministrativa per l'applicazione dei regolamenti sopra indicati, con cui viene disposta la istituzione di un nuovo modello di certificato di circolazione destinato a comprovare, negli scambi fra gli Stati membri, la condizione comunitaria dei prodotti agricoli soggetti al regime dei prelievi agricoli Vista la legge doganale 25 settembre 1940, n. 1424, ed il relativo regolamento di applicazione approvato con [regio decreto 13 febbraio 1896, n. 65](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20doganali.%20096U0065.md), con le successive modificazioni ed aggiunte;
 
 Vista la tariffa dei dazi doganali approvata con [decreto del Presidente della Repubblica 21 dicembre 1961, n. 1339](Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20con%20linquadramento%20delle%20sottovoci%20della%20tariffa%20nazionale%20in%20quelle%20corrispondenti%20della%20tariffa%20doganale%20esterna%20della_6d5109dff4f2.md);
 
@@ -134,7 +134,7 @@ All'esportazione verso altro Stato membro, per i prodotti di cui all'articolo 1,
 
 ## Art. 12.
 
-Per la risoluzione delle controversie fra le Dogane e gli importatori o gli esportatori, relative all'applicazione dei prelievi e delle restituzioni di cui al presente decreto, si applica il procedimento previsto dal testo unico delle leggi approvato con [regio decreto 9 aprile 1911, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-04-09;330) e successive modificazioni.
+Per la risoluzione delle controversie fra le Dogane e gli importatori o gli esportatori, relative all'applicazione dei prelievi e delle restituzioni di cui al presente decreto, si applica il procedimento previsto dal testo unico delle leggi approvato con [regio decreto 9 aprile 1911, n. 330](Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20risoluzione%20delle%20controversie%20doganali.%20011U0330.md) e successive modificazioni.
 
 ## Art. 13.
 

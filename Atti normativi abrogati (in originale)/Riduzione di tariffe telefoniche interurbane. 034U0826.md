@@ -18,13 +18,13 @@ Visto il testo unico di legge sui telefoni 3 maggio 1903, n. 196, il relativo [r
 
 Visto il [R. decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il [R. decreto-legge 23 novembre 1921, n. 1824](Che%20apporta%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche.%20021U1824.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge 23 novembre 1921, n. 1824](Che%20apporta%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche.%20021U1824.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto il [R. decreto-legge 20 agosto 1926, n. 1433](Variazioni%20alle%20tariffe%20telefoniche%20e%20postali.%20026U1433.md), convertito nella [legge 18 dicembre 1927, n. 2424](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20agosto%201926%20n.%201433%20col%20quale%20si%20apportano%20variazioni%20alle%20tariffe%20telefoniche%20e%20postali.%20027U2424.md);
 
 Visto il decreto Ministeriale 20 giugno 1928;
 
-Visto il [R. decreto 9 aprile 1931, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-04-09;399);
+Visto il [R. decreto 9 aprile 1931, n. 399](Giorni%20festivi%20agli%20effetti%20della%20riduzione%20delle%20tariffe%20telefoniche.%20031U0399.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

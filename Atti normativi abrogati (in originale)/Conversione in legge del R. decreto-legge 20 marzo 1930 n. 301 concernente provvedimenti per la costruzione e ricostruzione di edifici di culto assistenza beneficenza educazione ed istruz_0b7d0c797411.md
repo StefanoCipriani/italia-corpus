@@ -23,9 +23,9 @@ Per gli scopi indicati nel successivo art. 2 e seguenti, concessa all'Ordinario 
  
  I diritti a mutuo e le obbligazioni, di cui al precedente articolo potranno essere impiegati: 
  
- a) per completare il programma dei lavori stabiliti con la convenzione del 30 marzo 1928, approvata con [R. decreto-legge del 14 giugno 1928, n. 1556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-14;1556); 
+ a) per completare il programma dei lavori stabiliti con la convenzione del 30 marzo 1928, approvata con [R. decreto-legge del 14 giugno 1928, n. 1556](Provvedimenti%20per%20la%20ricostruzione%20di%20edifici%20di%20culto%20e%20di%20beneficenza%20nellArchidiocesi%20di%20Messina.%20028U1556.md); 
  
- b) per dotare le chiese della Diocesi di fonti battesimali, di confessionali, di impianti elettrici, di campane e di cassettoni ed armadi per arredi sacri, purche' la spesa relativa insieme a quella occorrente per le opere indicate nell'[art. 3 del R. decreto-legge 20 febbraio 1927, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-20;328#art_3), e nell'art. 3. lettera g), della citata convenzione del 30 marzo 1928, non superi il 15 per cento della spesa prevista per la esecuzione dell'intero progetto di ricostruzione delle singole chiese, come e' stabilito nel predetto [art. 3 del R. decreto-legge 20 febbraio 1927, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-20;328#art_3); 
+ b) per dotare le chiese della Diocesi di fonti battesimali, di confessionali, di impianti elettrici, di campane e di cassettoni ed armadi per arredi sacri, purche' la spesa relativa insieme a quella occorrente per le opere indicate nell'[art. 3 del R. decreto-legge 20 febbraio 1927, n. 328](Disposizioni%20per%20la%20ricostruzione%20degli%20edifici%20di%20culto%20e%20di%20quelli%20adibiti%20a%20scopi%20di%20beneficenza%20di%20educazione%20e%20di%20istruzione%20nelle%20zone%20terremotate.%20027U0328.md), e nell'art. 3. lettera g), della citata convenzione del 30 marzo 1928, non superi il 15 per cento della spesa prevista per la esecuzione dell'intero progetto di ricostruzione delle singole chiese, come e' stabilito nel predetto [art. 3 del R. decreto-legge 20 febbraio 1927, n. 328](Disposizioni%20per%20la%20ricostruzione%20degli%20edifici%20di%20culto%20e%20di%20quelli%20adibiti%20a%20scopi%20di%20beneficenza%20di%20educazione%20e%20di%20istruzione%20nelle%20zone%20terremotate.%20027U0328.md); 
  
  c) per la completa costruzione dell'edificio di spettanza del Pio istituto <<Collereale» di Messina, che restera' sollevato, per cio',
 da qualsiasi spesa per la costruzione medesima; 
@@ -63,11 +63,11 @@ da qualsiasi spesa per la costruzione medesima;
  
  Art. 9. 
  
- Qualora i diritti a mutuo o le obbligazioni, di cui all'articolo 1, si riferiscano a fabbricati danneggiati da riparare, la dimostrazione dell'avvenuta riparazione, ai sensi dell'[articolo 11 del R. decreto-legge 26 febbraio 1928, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-26;457#art_11), spetta alla Mensa arcivescovile di Messina, ammenoche' per tali fabbricati non sia rilasciata dal Genio civile la prescritta dichiarazione che essi, cosi' come sono, non costituiscono pericolo per l'igiene e per la incolumita' pubblica. 
+ Qualora i diritti a mutuo o le obbligazioni, di cui all'articolo 1, si riferiscano a fabbricati danneggiati da riparare, la dimostrazione dell'avvenuta riparazione, ai sensi dell'[articolo 11 del R. decreto-legge 26 febbraio 1928, n. 457](Provvedimenti%20in%20materia%20di%20terremoti.%20028U0457.md), spetta alla Mensa arcivescovile di Messina, ammenoche' per tali fabbricati non sia rilasciata dal Genio civile la prescritta dichiarazione che essi, cosi' come sono, non costituiscono pericolo per l'igiene e per la incolumita' pubblica. 
  
  Art. 10. 
  
- La documentazione prescritta per ottenere il contributo relativo ai diritti a mutuo, di cui alla lettera a) dell'art. 1. potra' essere esibita fino a tutto il 31 dicembre 1934, ma i singoli documenti debbono essere richiesti, ai competenti uffici, nel termine del 31 gennaio 1928, stabilito dall'[art. 1 del R. decreto-legge 26 febbraio 1928, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-26;457#art_1). 
+ La documentazione prescritta per ottenere il contributo relativo ai diritti a mutuo, di cui alla lettera a) dell'art. 1. potra' essere esibita fino a tutto il 31 dicembre 1934, ma i singoli documenti debbono essere richiesti, ai competenti uffici, nel termine del 31 gennaio 1928, stabilito dall'[art. 1 del R. decreto-legge 26 febbraio 1928, n. 457](Provvedimenti%20in%20materia%20di%20terremoti.%20028U0457.md). 
  
  Art. 11. 
  

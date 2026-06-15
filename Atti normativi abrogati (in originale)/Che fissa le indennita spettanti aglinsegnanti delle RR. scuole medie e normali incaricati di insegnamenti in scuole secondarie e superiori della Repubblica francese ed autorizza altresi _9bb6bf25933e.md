@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli insegnanti delle RR. scuole medie e normali, che per effetto dell'[art. 18 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_18), verranno, a decorrere dall'anno scolastico 1917 918 e sino a contraria disposizione, incaricati di insegnamenti in scuole secondarie e superiori della Repubblica francese riceveranno, per la durata del loro incarico, oltre una indennita' di missione che sara' determinata dal Ministero dell'istruzione pubblica, e non superiore in ogni caso a L. 2500 annue, una indennita' pari al 30% (per cento) degli stipendi di cui sono provvisti, e saranno inoltre rimborsati delle spese di viaggio.
+Gli insegnanti delle RR. scuole medie e normali, che per effetto dell'[art. 18 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), verranno, a decorrere dall'anno scolastico 1917 918 e sino a contraria disposizione, incaricati di insegnamenti in scuole secondarie e superiori della Repubblica francese riceveranno, per la durata del loro incarico, oltre una indennita' di missione che sara' determinata dal Ministero dell'istruzione pubblica, e non superiore in ogni caso a L. 2500 annue, una indennita' pari al 30% (per cento) degli stipendi di cui sono provvisti, e saranno inoltre rimborsati delle spese di viaggio.
 
 ## Art. 2.
 

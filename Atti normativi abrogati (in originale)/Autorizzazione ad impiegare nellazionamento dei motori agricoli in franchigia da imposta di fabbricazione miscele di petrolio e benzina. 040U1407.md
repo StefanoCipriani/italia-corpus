@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la tariffa generale dei dazi doganali approvata con [decreto-legge 9 giugno 1921, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1921-06-09;806), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni;
+Vista la tariffa generale dei dazi doganali approvata con [decreto-legge 9 giugno 1921, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1921-06-09;806), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni;
 
 Visto il R. decreto-legge 26 luglio 1925-III, n. 1258, convertito nella legge 18 marzo 1926-IV, n. 562;
 

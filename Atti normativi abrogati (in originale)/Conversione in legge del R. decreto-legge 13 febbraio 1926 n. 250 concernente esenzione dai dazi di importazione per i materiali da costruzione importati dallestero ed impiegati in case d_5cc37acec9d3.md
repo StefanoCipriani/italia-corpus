@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 febbraio 1926, n. 250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-13;250), concernente esenzione dai dazi di importazione per i materiali da costruzione importati dall'estero ed impiegati in case di abitazione. 
+ E' convertito in legge il [R. decreto-legge 13 febbraio 1926, n. 250](Esenzione%20dai%20dazi%20di%20importazione%20per%20i%20materiali%20da%20costruzione%20importati%20dallestero%20ed%20impiegati%20in%20case%20di%20abitazione.%20026U0250.md), concernente esenzione dai dazi di importazione per i materiali da costruzione importati dall'estero ed impiegati in case di abitazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

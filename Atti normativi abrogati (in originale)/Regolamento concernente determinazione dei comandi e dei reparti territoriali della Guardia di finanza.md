@@ -18,7 +18,7 @@ Vista la [legge 31 marzo 1966, n. 200](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
-Visto il [decreto-legge 4 ottobre 1990, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-10-04;276), convertito, con modificazioni, dalla [legge 30 novembre 1990, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-30;359), concernente aumento dell'organico del personale appartenente alle Forze di polizia, disposizioni per lo snellimento delle procedure di assunzione e reclutamento e avvio di un piano di potenziamento delle sezioni di polizia giudiziaria;
+Visto il [decreto-legge 4 ottobre 1990, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-10-04;276), convertito, con modificazioni, dalla [legge 30 novembre 1990, n. 359](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%201990%20n.%20276%20recante%20aumento%20dellorganico%20del%20personale%20appartenente%20alle%20Forze%20di%20polizia%20disposizioni%20per%20lo%20snelliment_6f0f510e66a3.md), concernente aumento dell'organico del personale appartenente alle Forze di polizia, disposizioni per lo snellimento delle procedure di assunzione e reclutamento e avvio di un piano di potenziamento delle sezioni di polizia giudiziaria;
 
 Visto il [decreto del Presidente della Repubblica 31 maggio 1983, n. 456](Determinazione%20dei%20comandi%20e%20dei%20reparti%20territoriali%20della%20Guardia%20di%20finanza_2.md), che stabilisce il numero dei comandi e reparti territoriali della Guardia di finanza;
 

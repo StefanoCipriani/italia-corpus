@@ -32,9 +32,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Dalla tabella allegata al [decreto Luogotenenziale 27 agosto 1916, n. 1055](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-27;1055), e' eliminata l'indicazione: 
  
- 1° della somma corrispondente al beneficio netto annuale derivante dalla vendita del chinino di Stato, da erogare in sussidi per diminuire le cause della malaria, ai sensi dell'[art. 5 della legge 19 maggio 1904, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-05-19;209#art_5); 
+ 1° della somma corrispondente al beneficio netto annuale derivante dalla vendita del chinino di Stato, da erogare in sussidi per diminuire le cause della malaria, ai sensi dell'[art. 5 della legge 19 maggio 1904, n. 209](Che%20modifica%20alcuni%20articoli%20di%20quella%20in%20data%2023%20dicembre%201900%20n.%20505%20per%20la%20vendita%20del%20chinino%20per%20conto%20dello%20Stato.%20004U0209.md); 
  
- 2° dei diritti dovuti a mente dell'art. 1° della [legge 26 giugno 1902, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-06-26;272), per le visite sanitarie degli animali che s'importano nel Regno, da versare alla Cassa depositi e prestiti per costituire un fondo di riserva per le epizoozie. 
+ 2° dei diritti dovuti a mente dell'art. 1° della [legge 26 giugno 1902, n. 272](Circa%20modificazioni%20ad%20alcuni%20articoli%20di%20quella%20in%20data%2022%20dicembre%201888%20n.%205849%20sullassistenza%20e%20vigilanza%20zooiatrica.%20002U0272.md), per le visite sanitarie degli animali che s'importano nel Regno, da versare alla Cassa depositi e prestiti per costituire un fondo di riserva per le epizoozie. 
  
  Le assegnazioni annuali di bilancio per tali spese saranno, anche per gli esercizi finanziari 1916-917 e successivi, effettuate seguendo le disposizioni stabilite dalle leggi citate. 
  

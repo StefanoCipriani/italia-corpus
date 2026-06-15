@@ -67,7 +67,7 @@ Sono escluse dal frazionamento di cui all'articolo precedente le provvigioni di 
 
 ## Art. 5.
 
-La provvigione di acquisto che l'Istituto nazionale delle assicurazioni deve corrispondere alle imprese private sulle quote ad esso cedute a norma dell'[art. 24 del R. decreto-legge 29 aprile 1923, n. 966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-04-29;966#art_24), e' dall'Istituto liquidata integralmente nel primo anno alle imprese, ma queste, sulle polizze che fossero stornate nel secondo anno (escluse quelle di cui al precedente art. 4) sono tenute a restituire all'Istituto, all'atto dello storno, il 15 per cento delle provvigioni percepite, commisurato al pro rata dei premi stornati del secondo anno, trattenendo la differenza a rimborso delle spese fisse di acquisizione sostenute. 
+La provvigione di acquisto che l'Istituto nazionale delle assicurazioni deve corrispondere alle imprese private sulle quote ad esso cedute a norma dell'[art. 24 del R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), e' dall'Istituto liquidata integralmente nel primo anno alle imprese, ma queste, sulle polizze che fossero stornate nel secondo anno (escluse quelle di cui al precedente art. 4) sono tenute a restituire all'Istituto, all'atto dello storno, il 15 per cento delle provvigioni percepite, commisurato al pro rata dei premi stornati del secondo anno, trattenendo la differenza a rimborso delle spese fisse di acquisizione sostenute. 
  
  Per la produzione dell'anno 1940 tale percentuale e' limitata al 5 per cento mentre per quella del 1941 e' stabilita nel 10 per cento.
 

@@ -120,7 +120,7 @@ Tutte le disposizioni del [R. decreto-legge 2 aprile 1925, n. 383](Costituzione%
 
 ## Art. 15.
 
-Al completamento dei quadri di ispettore di 2ª classe e di comandante di lª classe sara' per la prima applicazione del presente decreto-legge, provveduto con le norme contenute nell'[art. 19 del R. decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md), e nell'[art. 5 del R. decreto 15 agosto 1925, n. 1555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-08-15;1555#art_5).
+Al completamento dei quadri di ispettore di 2ª classe e di comandante di lª classe sara' per la prima applicazione del presente decreto-legge, provveduto con le norme contenute nell'[art. 19 del R. decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md), e nell'[art. 5 del R. decreto 15 agosto 1925, n. 1555](Completamento%20dei%20quadri%20degli%20ufficiali%20del%20nuovo%20Corpo%20degli%20agenti%20di%20P.%20S.%20025U1555.md).
 
 ## Art. 16.
 

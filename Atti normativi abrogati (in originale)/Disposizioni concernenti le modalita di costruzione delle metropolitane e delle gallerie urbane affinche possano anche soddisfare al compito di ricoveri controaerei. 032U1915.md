@@ -42,7 +42,7 @@ Per renderle sicure agli effetti di bombe scoppianti lanciate da aeroplani su di
 
 ## Art. 3.
 
-Nel caso di violazione delle disposizioni del precedente articolo e delle norme relative, il colpevole e' punito con l'ammenda da un minimo di L. 5000 ad un massimo corrispondente al doppio dell'importa delle spese occorrenti per i lavori e gli impianti da eseguire ai sensi dell'art. 2. La pena suddetta si applica indipendentemente dalle altre pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), qualora il fatto sia punibile a termini dello stesso Codice. 
+Nel caso di violazione delle disposizioni del precedente articolo e delle norme relative, il colpevole e' punito con l'ammenda da un minimo di L. 5000 ad un massimo corrispondente al doppio dell'importa delle spese occorrenti per i lavori e gli impianti da eseguire ai sensi dell'art. 2. La pena suddetta si applica indipendentemente dalle altre pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), qualora il fatto sia punibile a termini dello stesso Codice. 
  
  I privati e le societa', che abbiano ottenuto la concessione della costruzione delle gallerie, possono inoltre essere dichiarati decaduti dalla concessione stessa con provvedimento dell'autorita' che l'ha accordata. 
  

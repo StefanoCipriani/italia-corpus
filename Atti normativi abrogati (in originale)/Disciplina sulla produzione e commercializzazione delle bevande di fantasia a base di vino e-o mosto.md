@@ -24,7 +24,7 @@ Visto il [decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../Att
 
 Visto il [decreto-legge 7 settembre 1987, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-07;370), recante nuove norme in materia di produzione e commercializzazione dei prodotti vinicoli, nonche' sanzioni per l'inosservanza di regolamenti comunitari in materia agricola ed, in particolare, l'art. 2, comma 3, che stabilisce che le disposizioni di cui al sopra citato art. 34 non si applicano alle bevande di fantasia a base di mosto o di vino o di entrambi i prodotti;
 
-Vista la [legge 4 novembre 1987, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-04;460), che converte in legge con modificazioni il [decreto-legge 7 settembre 1987, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-07;370), sopra citato;
+Vista la [legge 4 novembre 1987, n. 460](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20settembre%201987%20n.%20370%20recante%20nuove%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20dei%20prodotti%20vitivinicoli%20nonche%20sanzio_69d04f0feb47.md), che converte in legge con modificazioni il [decreto-legge 7 settembre 1987, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-07;370), sopra citato;
 
 Visto, in particolare, l'art. 2, comma 4, che prevede l'emanazione di norme concernenti la composizione, la preparazione, la designazione e la commercializzazione delle bevande di fantasia a base di vino;
 
@@ -49,7 +49,7 @@ Nella preparazione delle bevande di fantasia a base di vino e/o mosto e' vietato
 L'acqua puo' essere impiegata solo per la dissoluzione delle sostanze aromatizzanti.
 
 AVVERTENZA: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  
  Note all'art. 1: 
  - Il D.M. 31 marzo 1965, pubblicato nel suppl. ord. alla Gazzetta Ufficiale n. 101 del 22 aprile 1965, concerne la disciplina degli additivi chimici consentiti nella preparazione e per la conservazione delle sostanze alimentari. 
@@ -134,7 +134,7 @@ Note all'art. 4:
 
 1.
 
-La preparazione delle "bevande a base di vino" deve essere effettuata in cantine o stabilimenti all'uopo autorizzati dal Ministero dell'agricoltura e delle foreste che dispongano delle strutture idonee alla stabilizzazione fisica come previsto dal [par. 2 dell'art. 9- bis della legge 7 agosto 1986, n. 462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-07;462#art_9bis-par2), in cui non si producano o imbottiglino bevande diverse dal vino o dai succhi d'uva.
+La preparazione delle "bevande a base di vino" deve essere effettuata in cantine o stabilimenti all'uopo autorizzati dal Ministero dell'agricoltura e delle foreste che dispongano delle strutture idonee alla stabilizzazione fisica come previsto dal [par. 2 dell'art. 9- bis della legge 7 agosto 1986, n. 462](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20giugno%201986%20n.%20282%20recante%20misure%20urgenti%20in%20materia%20di%20prevenzione%20e%20repressione%20delle%20sofisticazioni%20alimentari.md), in cui non si producano o imbottiglino bevande diverse dal vino o dai succhi d'uva.
 
 2.
 
@@ -153,7 +153,7 @@ Note all'art. 5:
  "1. La preparazione dei vini che hanno bisogno di stabilizzazione in relazione al loro contenuto in zuccheri fermentescibili e' consentita alle ditte o cantine a cio' autorizzate dal Ministero dell'agricoltura e delle foreste.
  2. Per il rilascio dell'autorizzazione di cui al comma 1 le cantine o ditte devono essere fornite di impianti di stabilizzazione con potenzialita' adeguata alle loro necessita' di lavorazione".
  - L'art. 17 del D P.R. n. 162/1965 (per il titolo si veda nelle premesse) e' cosi' formulato:
- "Art. 17. - Salvo quanto previsto dal precedente [articolo 14](Aumento%20del%20prezzo%20dei%20contrassegni%20di%20Stato%20per%20recipienti%20contenenti%20prodotti%20alcolici%20e%20disciplina%20della%20produzione%20e%20del%20commercio%20del%20vermouth%20e%20degli%20altri%20vini%20aromatizzati.md) e dall'[art. 11 del decreto-legge 11 gennaio 1956, n. 3](Aumento%20del%20prezzo%20dei%20contrassegni%20di%20Stato%20per%20recipienti%20contenenti%20prodotti%20alcolici%20e%20disciplina%20della%20produzione%20e%20del%20commercio%20del%20vermouth%20e%20degli%20altri%20vini%20aromatizzati.md), convertito nella [legge 16 marzo 1956, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-03-16;108), negli stabilimenti enologici e nelle cantine nonche' nei locali annessi o intercomunicanti anche attraverso cortili, a qualunque uso destinati, e' vietato detenere:
+ "Art. 17. - Salvo quanto previsto dal precedente [articolo 14](Aumento%20del%20prezzo%20dei%20contrassegni%20di%20Stato%20per%20recipienti%20contenenti%20prodotti%20alcolici%20e%20disciplina%20della%20produzione%20e%20del%20commercio%20del%20vermouth%20e%20degli%20altri%20vini%20aromatizzati.md) e dall'[art. 11 del decreto-legge 11 gennaio 1956, n. 3](Aumento%20del%20prezzo%20dei%20contrassegni%20di%20Stato%20per%20recipienti%20contenenti%20prodotti%20alcolici%20e%20disciplina%20della%20produzione%20e%20del%20commercio%20del%20vermouth%20e%20degli%20altri%20vini%20aromatizzati.md), convertito nella [legge 16 marzo 1956, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20gennaio%201956%20n.%203%20concernente%20laumento%20del%20prezzo%20dei%20contrassegni%20di%20Stato%20per%20recipienti%20contenenti%20prodotti%20alcolici%20e%20la%20di_3da829a6c7cc.md), negli stabilimenti enologici e nelle cantine nonche' nei locali annessi o intercomunicanti anche attraverso cortili, a qualunque uso destinati, e' vietato detenere:
  a) acquavite ed alcole;
  b) zuccheri e loro soluzioni;
  c) sciroppi, bevande e succhi diversi dal mosto e dal vino, nonche' sostanze zuccherine o fermentate diverse da quelli provenienti dall'uva fresca;

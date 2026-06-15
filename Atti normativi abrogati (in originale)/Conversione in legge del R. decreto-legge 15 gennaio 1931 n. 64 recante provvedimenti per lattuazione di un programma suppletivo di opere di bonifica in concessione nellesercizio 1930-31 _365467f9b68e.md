@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 gennaio 1931, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-15;64), recante provvedimenti per l'attuazione di un programma suppletivo di opere di bonifica in concessione, nell'esercizio 1930-31, per l'importo di L. 80.000.000. 
+ E' convertito in legge il [R. decreto-legge 15 gennaio 1931, n. 64](Attuazione%20di%20un%20programma%20suppletivo%20di%20opere%20di%20bonifica%20in%20concessione%20nellesercizio%201930-31%20per%20limporto%20di%20L.%2080.000.000.%20031U0064.md), recante provvedimenti per l'attuazione di un programma suppletivo di opere di bonifica in concessione, nell'esercizio 1930-31, per l'importo di L. 80.000.000. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

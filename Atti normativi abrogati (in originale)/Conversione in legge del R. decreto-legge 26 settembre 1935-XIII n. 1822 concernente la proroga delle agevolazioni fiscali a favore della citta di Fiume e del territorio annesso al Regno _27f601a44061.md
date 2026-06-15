@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il R. decreto-legge 26 settembre 1935-XIII, n. 1822, concernente la proroga delle agevolazioni fiscali a favore della citta' di Fiume e del territorio annesso al Regno con [R. decreto-legge 22 febbraio 1924, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-02-22;211). 
+ E' convertito in legge il R. decreto-legge 26 settembre 1935-XIII, n. 1822, concernente la proroga delle agevolazioni fiscali a favore della citta' di Fiume e del territorio annesso al Regno con [R. decreto-legge 22 febbraio 1924, n. 211](Approvazione%20dellAccordo%20concluso%20fra%20lItalia%20ed%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni%20sottoscritto%20a%20Roma%20il%2027%20gennaio%201924%20col%20quale%20si%20stabilisce%20che%20la%20citta%20di%20Fiume%20ed%20il%20territorio%20_db1707827c7e.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

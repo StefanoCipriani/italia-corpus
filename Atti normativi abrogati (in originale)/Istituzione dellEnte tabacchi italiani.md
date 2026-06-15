@@ -44,7 +44,7 @@ L'Ente e' sottoposto all'alta vigilanza del Ministro delle finanze che detta gli
 
 6.
 
-Entro dodici mesi dalla data di entrata in vigore del presente decreto, con determinazione dell'amministratore unico di cui all'articolo 2, e' disposta la trasformazione dell'Ente in una o piu' societa' per azioni. In caso di mancata adozione di tale provvedimento l'Ente e' in ogni caso trasformato in societa' per azioni alla scadenza del predetto termine. Le azioni sono attribuite al Ministero del tesoro ed il Ministro del tesoro esercita i diritti dell'azionista d'intesa con il Ministro delle finanze, secondo le direttive del Presidente del Consiglio dei Ministri. Si applicano le disposizioni dell'[articolo 15, comma 2, del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_15-com2), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359).
+Entro dodici mesi dalla data di entrata in vigore del presente decreto, con determinazione dell'amministratore unico di cui all'articolo 2, e' disposta la trasformazione dell'Ente in una o piu' societa' per azioni. In caso di mancata adozione di tale provvedimento l'Ente e' in ogni caso trasformato in societa' per azioni alla scadenza del predetto termine. Le azioni sono attribuite al Ministero del tesoro ed il Ministro del tesoro esercita i diritti dell'azionista d'intesa con il Ministro delle finanze, secondo le direttive del Presidente del Consiglio dei Ministri. Si applicano le disposizioni dell'[articolo 15, comma 2, del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_15-com2), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20luglio%201992%20n.%20333%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica.md).
 
 ## Art. 2. — Organi, statuto, regolamenti e controllo dell'Ente
 
@@ -82,7 +82,7 @@ L'amministratore unico adotta il regolamento di amministrazione e contabilita', 
 
 8.
 
-Le previsioni e i consuntivi in termini di cassa sono trasmessi al Ministero del tesoro ai sensi degli [articoli 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_25) e [30 della legge 5 agosto 1978, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_30), e successive modificazioni e integrazioni.
+Le previsioni e i consuntivi in termini di cassa sono trasmessi al Ministero del tesoro ai sensi degli [articoli 25](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md) e [30 della legge 5 agosto 1978, n. 468](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), e successive modificazioni e integrazioni.
 
 9.
 
@@ -113,7 +113,7 @@ Alle obbligazioni e titoli similari, che sono emessi dall'Ente, si applica il tr
 
 6.
 
-L'Ente e' esente dall'imposta sul patrimonio netto delle imprese di cui al [decreto-legge 30 settembre 1992, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-30;394), convertito, con modificazioni, dalla [legge 26 novembre 1992, n. 461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;461).
+L'Ente e' esente dall'imposta sul patrimonio netto delle imprese di cui al [decreto-legge 30 settembre 1992, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-30;394), convertito, con modificazioni, dalla [legge 26 novembre 1992, n. 461](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201992%20n.%20394%20recante%20disposizioni%20concernenti%20listituzione%20di%20unimposta%20sul%20patrimonio%20netto%20delle%20imprese.md).
 
 7.
 
@@ -139,7 +139,7 @@ In sede di prima applicazione non puo' essere attribuito al personale in servizi
 
 4.
 
-Al personale in servizio continua ad applicarsi il regime previdenziale e pensionistico previsto alla data di entrata in vigore del presente decreto. Resta ferma la competenza attribuita alle direzioni provinciali del Tesoro ai sensi del [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-12-29;1092), e del [decreto del Presidente della Repubblica 19 aprile 1986, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-19;138), per il pagamento dei trattamenti di quiescenza e per la concessione dei relativi trattamenti di reversibilita'.
+Al personale in servizio continua ad applicarsi il regime previdenziale e pensionistico previsto alla data di entrata in vigore del presente decreto. Resta ferma la competenza attribuita alle direzioni provinciali del Tesoro ai sensi del [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), e del [decreto del Presidente della Repubblica 19 aprile 1986, n. 138](../DPR/Parziale%20attuazione%20della%20delega%20di%20cui%20alle%20lettere%20a%20b%20e%20d%20del%20secondo%20comma%20dellart.%201%20della%20legge%207%20agosto%201985%20n.%20428%20in%20materia%20di%20semplificazione%20delle%20procedure%20relative%20al%20pagame_d2a1a8c6c5c1.md), per il pagamento dei trattamenti di quiescenza e per la concessione dei relativi trattamenti di reversibilita'.
 
 5.
 
@@ -151,7 +151,7 @@ Le controversie concernenti il rapporto di lavoro di diritto privato con l'Ente 
 
 7.
 
-Le controversie relative a questioni attinenti al periodo del rapporto di lavoro svoltosi anteriormente alla trasformazione continuano ad essere attribuite alla giurisdizione esclusiva del giudice amministrativo, ai sensi dell'[articolo 1 del decreto-legge 6 maggio 1994, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-06;269#art_1), convertito, con modificazioni, dalla [legge 4 luglio 1994, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-04;432).
+Le controversie relative a questioni attinenti al periodo del rapporto di lavoro svoltosi anteriormente alla trasformazione continuano ad essere attribuite alla giurisdizione esclusiva del giudice amministrativo, ai sensi dell'[articolo 1 del decreto-legge 6 maggio 1994, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-06;269#art_1), convertito, con modificazioni, dalla [legge 4 luglio 1994, n. 432](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20maggio%201994%20n.%20269%20recante%20riparto%20della%20giurisdizione%20in%20tema%20di%20controversie%20di%20lavoro%20del%20personale%20degli%20enti%20pubblici%20trasf_6e83d52142ca.md).
 
 ## Art. 5. — Entrata in vigore
 

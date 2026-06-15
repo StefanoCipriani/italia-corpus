@@ -54,9 +54,9 @@ Quando, per maggior rendimento della leva, si preveda una forza media presente a
 
 ## Art. 8.
 
-Sono abolite tutte le disposizioni del testo unico delle leggi sul reclutamento approvato con [R. decreto 6 agosto 1888, n. 5655](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-08-06;5655), le quali siano contrarie alla presente legge. 
+Sono abolite tutte le disposizioni del testo unico delle leggi sul reclutamento approvato con [R. decreto 6 agosto 1888, n. 5655](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md), le quali siano contrarie alla presente legge. 
  
- Il Governo del Re ha facolta' di pubblicare un nuovo testo unico delle leggi sul reclutamento del R. esercito, introducendo in esso quelle modificazioni che, sentito il parere del Consiglio di Stato, saranno ritenute necessarie per emendarne le disposizioni o coordinarle tra loro, e con quelle del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito e delle altre leggi.
+ Il Governo del Re ha facolta' di pubblicare un nuovo testo unico delle leggi sul reclutamento del R. esercito, introducendo in esso quelle modificazioni che, sentito il parere del Consiglio di Stato, saranno ritenute necessarie per emendarne le disposizioni o coordinarle tra loro, e con quelle del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e delle altre leggi.
 
 ### Art. 9.
 

@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 4 novembre 1965, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213), in materia cinematografica, e successive modificazioni, ed in particolare l'articolo 45, primo comma, lettera c);
+Vista la [legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), in materia cinematografica, e successive modificazioni, ed in particolare l'articolo 45, primo comma, lettera c);
 
-Visto il [decreto-legge 14 gennaio 1994, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-01-14;26), convertito, con modificazioni, dalla [legge 1 marzo 1994, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-03-01;153);
+Visto il [decreto-legge 14 gennaio 1994, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-01-14;26), convertito, con modificazioni, dalla [legge 1 marzo 1994, n. 153](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20gennaio%201994%20n.%2026%20recante%20interventi%20urgenti%20in%20favore%20del%20cinema.md);
 
 Visto l'articolo 18, comma 1, della predetta legge;
 
@@ -32,7 +32,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Il premio puo' essere richiesto dall'esercente di sala cinematografica, qualificata sala d'essai o sala delle comunita' ecclesiali, ai sensi dell'[articolo 4, comma 10, della legge 4 novembre 1965, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213#art_4-com10).
+Il premio puo' essere richiesto dall'esercente di sala cinematografica, qualificata sala d'essai o sala delle comunita' ecclesiali, ai sensi dell'[articolo 4, comma 10, della legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md).
 
 2.
 
@@ -50,9 +50,9 @@ programmazione nell'anno solare ai film italiani o equiparati, di cui all'artico
                             aver presentato o inviato la domanda di premio entro il termine perentorio di cui all'articolo 2, comma 1, lettera a).
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota all'art. 1:
- - Il testo dell'[art. 4, comma 10, della legge 4 novembre 1965, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213#art_4-com10), recante "Nuovo ordinamento dei provvedimenti a favore della cinematografia" e' il seguente: "10. Per 'sala cinematografica' si intende qualunque spazio, al chiuso o all'aperto, con uno o piu' schermi, autorizzato ai sensi della presente legge e adibito a pubblico spettacolo cinematografico. Per 'sala d'essai' si intende la sala cinematografica il cui titolare, con dichiarazione resa all'autorita' competente in materia di spettacolo, si impegna per un periodo non inferiore a due anni a proiettare film d'essai e cortometraggi di interesse culturale nazionale per almeno il settanta per cento dei giorni di effettiva programmazione cinematografica annuale. La quota di programmazione e' ridotta al cinquanta per cento per le sale ubicate in comuni con popolazione inferiore a 40.000 abitanti. All'interno delle suddette quote almeno la meta' dei giorni di programmazione deve essere riservata alla programmazione di film d'essai di produzione italiana o dei Paesi della Comunita' europea. Per 'sale delle comunita' ecclesiali' si intendono le sale il cui nulla osta e la cui licenza di esercizio siano rilasciati a legali rappresentanti di istituzioni o enti ecclesiali riconosciuti dallo Stato, che svolgano attivita' di formazione sociale, culturale e religiosa e che programmino film secondo le indicazioni dell'autorita' religiosa competente in campo nazionale".
+ - Il testo dell'[art. 4, comma 10, della legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), recante "Nuovo ordinamento dei provvedimenti a favore della cinematografia" e' il seguente: "10. Per 'sala cinematografica' si intende qualunque spazio, al chiuso o all'aperto, con uno o piu' schermi, autorizzato ai sensi della presente legge e adibito a pubblico spettacolo cinematografico. Per 'sala d'essai' si intende la sala cinematografica il cui titolare, con dichiarazione resa all'autorita' competente in materia di spettacolo, si impegna per un periodo non inferiore a due anni a proiettare film d'essai e cortometraggi di interesse culturale nazionale per almeno il settanta per cento dei giorni di effettiva programmazione cinematografica annuale. La quota di programmazione e' ridotta al cinquanta per cento per le sale ubicate in comuni con popolazione inferiore a 40.000 abitanti. All'interno delle suddette quote almeno la meta' dei giorni di programmazione deve essere riservata alla programmazione di film d'essai di produzione italiana o dei Paesi della Comunita' europea. Per 'sale delle comunita' ecclesiali' si intendono le sale il cui nulla osta e la cui licenza di esercizio siano rilasciati a legali rappresentanti di istituzioni o enti ecclesiali riconosciuti dallo Stato, che svolgano attivita' di formazione sociale, culturale e religiosa e che programmino film secondo le indicazioni dell'autorita' religiosa competente in campo nazionale".
 
 ## Art. 2. — Domande di premio
 
@@ -64,7 +64,7 @@ L'istanza redatta in duplice copia, di cui una in bollo, deve:
                         b)
                             essere sottoscritta dalla persona fisica o dal legale rappresentante della persona giuridica o ente titolare dell'esercizio cinematografico;
                         c)
-                            fare riferimento alla [lettera c) dell'articolo 45 della legge 4 novembre 1965, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213#art_45-letc);
+                            fare riferimento alla [lettera c) dell'articolo 45 della legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md);
                         d)
                             indicare il numero di codice e il domicilio fiscale dell'esercente e, se si tratta di persona fisica, anche luogo e data di nascita.
 
@@ -94,7 +94,7 @@ All'istanza sono da allegare i seguenti documenti:
 Alla domanda di premio per le sale delle comunita' ecclesiali e' da allegare, altresi', visto dell'autorita' religiosa competente in campo nazionale di conformita' alle proprie indicazioni della programmazione indicata nell'elenco, di cui al comma 2, lettera c), oppure la relativa autocertificazione a firma dell'esercente.
 
 Nota all'art. 2:
- - Il testo dell'[art. 45 lettera c), della legge 4 novembre 1965, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213#art_45-letc), e' il seguente: "Il Ministero del turismo e dello spettacolo devolvera' annualmente la somma di lire un miliardo 470 milioni, sentito il parere della Comissione centrale per la cinematografia:
+ - Il testo dell'[art. 45 lettera c), della legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), e' il seguente: "Il Ministero del turismo e dello spettacolo devolvera' annualmente la somma di lire un miliardo 470 milioni, sentito il parere della Comissione centrale per la cinematografia:
  a) - b) (omissis);
  c) per la concessione di premi agli esercenti delle sale d'essai e delle sale delle comunita' ecclesiali in base ad un regolamento che tenga conto della qualita' della programmazione complessiva di film italiani, delle iniziative promozionali, culturali e informative, con particolare riguardo per le sale situate nelle zone urbane
 
@@ -136,7 +136,7 @@ Nota all'art. 3:
 
 1.
 
-Per la valutazione della qualita' della programmazione, si tiene conto del numero dei film programmati di interesse culturale nazionale, di cui all'[articolo 4, comma 5, della legge 4 novembre 1965, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213#art_4-com5), e d'essai prodotti in qualsiasi Paese dell'Unione europea.
+Per la valutazione della qualita' della programmazione, si tiene conto del numero dei film programmati di interesse culturale nazionale, di cui all'[articolo 4, comma 5, della legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), e d'essai prodotti in qualsiasi Paese dell'Unione europea.
 
 2.
 
@@ -164,20 +164,20 @@ Il valore del punto si ottiene dividendo la somma complessiva disponibile annual
 L'entita' del premio da assegnare a ciascuna sala e' determinata moltiplicando il numero di punti assommati dalla sala stessa per il valore del punto.
 
 Nota all'art. 4.
- - Il testo dell'[art. 4, comma 5, della legge 4 novembre 1965, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213#art_4-com5), e' il seguente: "5. Per 'film lungometraggio di interesse culturale nazionale' si intende il film di durata superiore a 75 minuti, postsincronizzato in lingua italiana, realizzato da imprese produttrici nazionali, che abbia il regista e lo sceneggiatore italiano, l'autore del soggetto italiano o in maggioranza italiani, la maggioranza degli interpreti principali, i tre quarti degli interpreti secondari, che utilizzino la lingua italiana sia per la ripresa sonora diretta sia per l'eventuale postsincronizzazione, la troupe italiana, che presenti quattro delle componenti di cui alle lettere g), h), i), l), e m) e le tre componenti di cui alle lettere o), p), e q) del comma 2 e che corrisponda ad un interesse culturale nazionale in quanto oltre ad adeguati requisiti di idoneita' tecnica, presenti significative qualita' artistiche e culturali o spettacolari senza pregiudizio della liberta' di espressione".
+ - Il testo dell'[art. 4, comma 5, della legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), e' il seguente: "5. Per 'film lungometraggio di interesse culturale nazionale' si intende il film di durata superiore a 75 minuti, postsincronizzato in lingua italiana, realizzato da imprese produttrici nazionali, che abbia il regista e lo sceneggiatore italiano, l'autore del soggetto italiano o in maggioranza italiani, la maggioranza degli interpreti principali, i tre quarti degli interpreti secondari, che utilizzino la lingua italiana sia per la ripresa sonora diretta sia per l'eventuale postsincronizzazione, la troupe italiana, che presenti quattro delle componenti di cui alle lettere g), h), i), l), e m) e le tre componenti di cui alle lettere o), p), e q) del comma 2 e che corrisponda ad un interesse culturale nazionale in quanto oltre ad adeguati requisiti di idoneita' tecnica, presenti significative qualita' artistiche e culturali o spettacolari senza pregiudizio della liberta' di espressione".
 
 ## Art. 5. — Inadempimento dell'impegno di proiezioni di film d'essai
 
 1.
 
-Qualora non siano rispettate le quote di programmazione nel biennio di cui all'[articolo 4, comma 10, della legge 4 novembre 1965, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213#art_4-com10), l'eventuale premio concesso deve essere restituito maggiorato degli interessi legali.
+Qualora non siano rispettate le quote di programmazione nel biennio di cui all'[articolo 4, comma 10, della legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), l'eventuale premio concesso deve essere restituito maggiorato degli interessi legali.
 
 2.
 
 Tuttavia, qualora le suddette quote non fossero rispettate nel primo anno del biennio, cui la dichiarazione di impegno fa riferimento, e' consentito il recupero delle giornate di programmazione nel secondo anno.
 
 Nota all'art. 5:
- - Per il testo dell'[art. 4, comma 10, della legge 4 novembre 1965, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213#art_4-com10), vedasi la nota all'art. 1.
+ - Per il testo dell'[art. 4, comma 10, della legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), vedasi la nota all'art. 1.
 
 ## Art. 6. — Norme transitorie
 

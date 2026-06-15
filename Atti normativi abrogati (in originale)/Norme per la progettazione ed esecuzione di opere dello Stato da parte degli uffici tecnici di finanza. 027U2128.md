@@ -18,7 +18,7 @@ Vista la [legge 21 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visti il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sull'amministrazione del patrimonio e per la contabilita' generale dello Stato, ed il relativo regolamento approvato col [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 
-Visti i [Regi decreti 8 febbraio 1923, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;422), [28 agosto 1924, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396), e [7 maggio 1925, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-07;646), contenenti norme per la esecuzione delle opere pubbliche;
+Visti i [Regi decreti 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), [28 agosto 1924, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396), e [7 maggio 1925, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-07;646), contenenti norme per la esecuzione delle opere pubbliche;
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze, di concerto col Ministro per i lavor
 
 ## Art. 1.
 
-All'[art. 3 del R. decreto 8 febbraio 1923, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;422#art_3), e' sostituito il seguente: 
+All'[art. 3 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), e' sostituito il seguente: 
  
  « I progetti dei lavori compilati dagli uffici tecnici di finanza nell'interesse delle varie Amministrazioni dello Stato, sono approvati dal Ministero competente su parere o su visto della Direzione generale del catasto e dei servizi tecnici, secondo le norme ed entro i limiti stabiliti per l'approvazione dei progetti pei quali e' richiesto il parere o il visto degl'ingegneri capi o degli ispettori superiori di circolo del Genio civile. 
  

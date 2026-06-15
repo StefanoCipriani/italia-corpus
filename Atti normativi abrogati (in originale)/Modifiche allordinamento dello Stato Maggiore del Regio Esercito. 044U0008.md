@@ -69,6 +69,6 @@ Il presente decreto entra in vigore il giorno della sua pubblicazione nella seri
  
  Badoglio - Jung - Orlando 
  
- Visto: (ai sensi del presente [R.D. 30 ottobre 1943) n. 1/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-10-30;1); 
+ Visto: (ai sensi del presente [R.D. 30 ottobre 1943) n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md); 
  
  Il Guardasigilli: Badoglio

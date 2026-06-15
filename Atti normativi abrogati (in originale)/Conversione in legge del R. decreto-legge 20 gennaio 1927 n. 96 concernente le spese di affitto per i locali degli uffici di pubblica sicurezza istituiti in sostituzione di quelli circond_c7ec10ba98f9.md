@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 gennaio 1927, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-20;96), concernente spese di affitto pei locali degli uffici di pubblica sicurezza istituiti in sostituzione di quelli circondariali. 
+ E' convertito in legge il [R. decreto-legge 20 gennaio 1927, n. 96](Spese%20di%20affitto%20per%20i%20locali%20degli%20uffici%20distaccati%20di%20pubblica%20sicurezza%20istituiti%20in%20sostituzione%20di%20quelli%20circondariali.%20027U0096.md), concernente spese di affitto pei locali degli uffici di pubblica sicurezza istituiti in sostituzione di quelli circondariali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

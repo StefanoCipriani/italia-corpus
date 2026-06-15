@@ -22,7 +22,7 @@ Nell'art. 1 del decreto Luogotenenziale 1328 del 26 agosto 1915, alle parole «d
 
 ## Art. 4.
 
-Ai componenti della Commissione centrale di avanzamento di cui all'[art. 4 della legge 21 marzo 1915, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-03-21;301#art_4), e' aggiunto il sottocapo di stato maggiore dell'esercito.
+Ai componenti della Commissione centrale di avanzamento di cui all'[art. 4 della legge 21 marzo 1915, n. 301](Che%20porta%20aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20nel%20R.%20esercito%20015U0301.md), e' aggiunto il sottocapo di stato maggiore dell'esercito.
 
 ## Art. 5.
 

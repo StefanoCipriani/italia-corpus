@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 4 gennaio 1925, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-04;44), che dichiara, di prima categoria taluni Monti di pieta', in applicazione del [R. decreto 14 giugno 1923, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1396);
+Visto il [R. decreto 4 gennaio 1925, n. 44](Dichiarazione%20di%20prima%20categoria%20di%20taluni%20Monti%20di%20pieta.%20025U0044.md), che dichiara, di prima categoria taluni Monti di pieta', in applicazione del [R. decreto 14 giugno 1923, n. 1396](Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md);
 
-Visto l'[art. 1 del R. decreto 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-16;646#art_1), che approva il testo unico delle leggi sul credito fondiario;
+Visto l'[art. 1 del R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), che approva il testo unico delle leggi sul credito fondiario;
 
-Visti il [R. decreto 18 dicembre 1927, n. 2534](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-18;2534), che approva lo statuto organico dell'Istituto di San Paolo in Torino, ed il [R. decreto 20 settembre 1928, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-20;2207), che modifica alcuni articoli dello statuto medesimo;
+Visti il [R. decreto 18 dicembre 1927, n. 2534](Approvazione%20del%20nuovo%20statuto%20organico%20dellIstituto%20di%20San%20Paolo%20in%20Torino.%20027U2534.md), che approva lo statuto organico dell'Istituto di San Paolo in Torino, ed il [R. decreto 20 settembre 1928, n. 2207](Modifica%20di%20alcuni%20articoli%20dello%20statuto%20organico%20dellIstituto%20di%20San%20Paolo%20in%20Torino.%20028U2207.md), che modifica alcuni articoli dello statuto medesimo;
 
 Viste le [leggi 23 giugno 1927, nn. 1107 e 1108](Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20novembre%201926%20n.%201830%20recante%20norme%20regolamentari%20per%20la%20tutela%20del%20risparmio.%20027U1108.md), recanti provvedimenti per la tutela del risparmio;
 

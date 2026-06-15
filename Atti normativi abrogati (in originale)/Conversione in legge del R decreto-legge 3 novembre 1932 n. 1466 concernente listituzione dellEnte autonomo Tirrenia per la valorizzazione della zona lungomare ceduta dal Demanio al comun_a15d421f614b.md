@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 novembre 1932, n. 1466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-11-03;1466), concernente l'istituzione dell'Ente autonomo «Tirrenia», per la valorizzazione della zona lungomare ceduta dal Demanio al comune di Pisa. 
+ E' convertito in legge il [R. decreto-legge 3 novembre 1932, n. 1466](Istituzione%20dellEnte%20autonomo%20Tirrenia%20per%20la%20valorizzazione%20della%20Zona%20lungo-mare%20ceduta%20dal%20Demanio%20al%20comune%20di%20Pisa.%20032U1466.md), concernente l'istituzione dell'Ente autonomo «Tirrenia», per la valorizzazione della zona lungomare ceduta dal Demanio al comune di Pisa. 
  
  Ordiniamo che la presente munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato 
  

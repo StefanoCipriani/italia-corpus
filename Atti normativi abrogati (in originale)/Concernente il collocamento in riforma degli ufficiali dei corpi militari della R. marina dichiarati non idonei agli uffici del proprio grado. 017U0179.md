@@ -20,7 +20,7 @@ Agli ufficiali dei corpi militari della R. marina in servizio attivo permanente,
 
 ## Art. 2.
 
-Per l'anno 1917 e seguenti fino all'anno successivo a quello in cui avra' termine la presente guerra, come media numerica delle promozioni in ciascun grado e ruolo, agli effetti dell'[art. 21 della legge 18 luglio 1912, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-18;806#art_21), e dell'art. 29 del regolamento per la sua applicazione, viene confermata la media quinquennale stabilita per l'anno 1915, nei riguardi degli ufficiali della R. marina. 
+Per l'anno 1917 e seguenti fino all'anno successivo a quello in cui avra' termine la presente guerra, come media numerica delle promozioni in ciascun grado e ruolo, agli effetti dell'[art. 21 della legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), e dell'art. 29 del regolamento per la sua applicazione, viene confermata la media quinquennale stabilita per l'anno 1915, nei riguardi degli ufficiali della R. marina. 
  
  Il presente decreto avra' effetto dalla data della sua pubblicazione. 
  

@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[art. 2 del R. decreto 14 giugno 1923, n. 1275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1275#art_2); 
+ Visto l'[art. 2 del R. decreto 14 giugno 1923, n. 1275](Col%20quale%20si%20autorizza%20lAmministrazione%20del%20catasto%20e%20dei%20servizi%20tecnici%20a%20confermare%20ed%20assumere%20in%20servizio%20personale%20provvisorio%20ed%20avventizio.%20023U1275.md); 
  
  Udito il Consiglio dei Ministri; 
  

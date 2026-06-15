@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La tabella A e la tabella D, lettera a), allegate alla [legge 24 maggio 1951, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-24;392), modificate con il [decreto del Presidente della Repubblica 11 luglio 1952, n. 767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-07-11;767), sono sostituite dalle tabelle nn. 1 e 2 allegate alla presente legge.
+La tabella A e la tabella D, lettera a), allegate alla [legge 24 maggio 1951, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-24;392), modificate con il [decreto del Presidente della Repubblica 11 luglio 1952, n. 767](../DPR/Maggiorazione%20delle%20competenze%20spettanti%20ai%20dipendenti%20statali%20in%20relazione%20al%20ripristino%20delle%20ritenute%20erariali.md), sono sostituite dalle tabelle nn. 1 e 2 allegate alla presente legge.
 
 ## Art. 2.
 

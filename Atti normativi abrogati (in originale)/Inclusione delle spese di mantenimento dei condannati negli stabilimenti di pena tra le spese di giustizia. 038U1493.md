@@ -16,11 +16,11 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto l'[art. 1, del R. decreto 24 luglio 1931, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-24;1071#art_1); emanato in virtu' della delega legislativa contenuta nella [legge 24 dicembre 1925, n. 2260](Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md);
+Visto l'[art. 1, del R. decreto 24 luglio 1931, n. 1071](Norme%20di%20coordinamento%20della%20tariffa%20in%20materia%20penale%20con%20quelle%20dei%20due%20nuovi%20codici%20penale%20e%20di%20procedura%20penale.%20031U1071.md); emanato in virtu' della delega legislativa contenuta nella [legge 24 dicembre 1925, n. 2260](Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta la necessita' urgente ed assoluta di stabilire che le spese contemplate nell'[art. 188 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_188) per il mantenimento dei condannati negli stabilimenti di pena sono da comprendere tra le spese di giustizia;
+Ritenuta la necessita' urgente ed assoluta di stabilire che le spese contemplate nell'[art. 188 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per il mantenimento dei condannati negli stabilimenti di pena sono da comprendere tra le spese di giustizia;
 
 Sentito il Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la gra
 
 All'[art. 1 del R. decreto 21 luglio 1931, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-21;1071#art_1), e' aggiunto il seguente numero: 
  
- «8° le spese relative al mantenimento dei condannati negli stabilimenti di pena ai sensi dell'[art. 188 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_188)».
+ «8° le spese relative al mantenimento dei condannati negli stabilimenti di pena ai sensi dell'[art. 188 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)».
 
 ## Art. 2.
 

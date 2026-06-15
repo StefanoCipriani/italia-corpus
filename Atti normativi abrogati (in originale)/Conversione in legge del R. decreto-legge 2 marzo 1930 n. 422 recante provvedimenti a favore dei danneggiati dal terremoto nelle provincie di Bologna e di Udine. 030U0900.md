@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 marzo 1930, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-02;422), recante provvedimenti a favore dei danneggiati dal terremoto nelle provincie di Bologna e di Udine. 
+ E' convertito in legge il [R. decreto-legge 2 marzo 1930, n. 422](Provvedimenti%20a%20favore%20di%20danneggiati%20dal%20terremoto%20nelle%20provincie%20di%20Bologna%20e%20di%20Udine.%20030U0422.md), recante provvedimenti a favore dei danneggiati dal terremoto nelle provincie di Bologna e di Udine. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

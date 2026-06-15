@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Vista la legge per l'amministrazione del patrimonio e per la contabilita' generale dello Stato ed il relativo regolamento;
 
-Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto il R. decreto-legge 31 dicembre 1936-XV, n. 2301, convertito nella legge 25 marzo 1937-XV, n. 446, col quale fu approvata la convenzione del 23 marzo 1936-XIV, con la Societa' italiana Pirelli per la posa e la manutenzione dei cavi sottomarini di proprieta' dello Stato;
 

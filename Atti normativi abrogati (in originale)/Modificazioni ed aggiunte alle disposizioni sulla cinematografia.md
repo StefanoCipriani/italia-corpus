@@ -117,7 +117,7 @@ All'[art. 13 della legge 29 dicembre 1949, n. 958](Disposizioni%20per%20la%20cin
 
 ## Art. 10.
 
-Per l'ammissione ai benefici previsti dalla presente legge, il produttore deve esibire la documentazione di cui all'[art. 10 del decreto legislativo 16 luglio 1947, n. 708](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-07-16;708#art_10), ratificato, con modificazioni, dall'articolo unico della [legge 29 novembre 1952, n. 2388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-11-29;2388), e dimostrare di aver osservato le norme sul collocamento.
+Per l'ammissione ai benefici previsti dalla presente legge, il produttore deve esibire la documentazione di cui all'[art. 10 del decreto legislativo 16 luglio 1947, n. 708](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-07-16;708#art_10), ratificato, con modificazioni, dall'articolo unico della [legge 29 novembre 1952, n. 2388](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2016%20luglio%201947%20n.%20708%20concernente%20disposizioni%20sullEnte%20nazionale%20di%20previdenza%20ed%20assistenza%20per%20i%20lavoratori%20dello%20spettacolo%20E.N.P.A.L.S.md), e dimostrare di aver osservato le norme sul collocamento.
 
 ## Art. 11. — null
 
@@ -226,7 +226,7 @@ Dopo l'[art. 21 della legge 29 dicembre 1949, n. 858](https://www.normattiva.it/
 ## Art. 22.
 
 Dopo l'[art. 25 della legge 29 dicembre 1949, n. 958](Disposizioni%20per%20la%20cinematografia.md), e' aggiunto il seguente articolo:
- Art. 25-bis. - "Fino a quando al rappresentante del Governo nella Regione sarda sia delegato, ai sensi dell'[art. 30 del decreto Presidenziale 19 maggio 1949, numero 250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-19;250#art_30), l'esercizio delle attribuzioni previste dagli articoli 21, 22 e 24, il parere di cui all'art. 25 e' dato da una Commissione composta:
+ Art. 25-bis. - "Fino a quando al rappresentante del Governo nella Regione sarda sia delegato, ai sensi dell'[art. 30 del decreto Presidenziale 19 maggio 1949, numero 250](../DPR/Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna.md), l'esercizio delle attribuzioni previste dagli articoli 21, 22 e 24, il parere di cui all'art. 25 e' dato da una Commissione composta:
  a) dal rappresentante del Governo nella Regione sarda, presidente;
  b) da un funzionario della carriera direttiva, di grado non inferiore a direttore di divisione, scelto dal rappresentante del Governo nella Regione;
  c) da un rappresentante della Regione;
@@ -292,7 +292,7 @@ I film non nazionali, di lunghezza non inferiore ai 1200 metri, dichiarati prodo
 
 L'[art. 3 della legge 26 Luglio 1949, n. 448](Costituzione%20di%20un%20fondo%20speciale%20per%20il%20credito%20cinematografico%20e%20disciplina%20della%20circolazione%20dei%20film%20esteri%20parlati%20in%20lingua%20italiana.md), e' sostituito dal seguente:
  "L'importo di ogni buono versato a norma dell'art. 1 sara' cosi' ripartito:
- 1) lire 3.500.000 alla formazione di uno speciale fondo amministrato dalla Sezione autonoma per il credito cinematografico della Banca nazionale del lavoro. La gestione del fondo suddetto sara' tenuta separata e distinta da quella della Sezione autonoma per il credito cinematografico, ma sottoposta alla vigilanza, ai controlli ed alle modalita' previste nel [regio decreto 14 novembre 1935, n. 2504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-11-14;2504).
+ 1) lire 3.500.000 alla formazione di uno speciale fondo amministrato dalla Sezione autonoma per il credito cinematografico della Banca nazionale del lavoro. La gestione del fondo suddetto sara' tenuta separata e distinta da quella della Sezione autonoma per il credito cinematografico, ma sottoposta alla vigilanza, ai controlli ed alle modalita' previste nel [regio decreto 14 novembre 1935, n. 2504](Costituzione%20presso%20la%20Banca%20nazionale%20del%20lavoro%20di%20una%20Sezione%20autonoma%20per%20il%20credito%20cinematografico.%20035U2504.md).
  Detta somma sara' cosi' destinata:
  a) lire 2.000.000 ad operazioni di finanziamento per la produzione, la distribuzione e la esportazione di film nazionali;
  b) lire 1.500.000 ad operazioni di finanziamento per l'acquisto di macchine e per l'arredamento di sale cinematografiche nei Comuni che ne risultino sprovvisti, per l'acquisto di macchine e l'arredamento di sale cinematografiche riservate prevalentemente alla proiezione di film "adatti per la gioventu'" e per il rinnovamento degli impianti negli esercizi cinematografici che svolgono attivita' saltuaria;

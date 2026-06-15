@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'ultimo capoverso dell'[art. 16 della legge 27 giugno 1909, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-27;377#art_16), e' abrogato e sostituito dal seguente: 
+L'ultimo capoverso dell'[art. 16 della legge 27 giugno 1909, n. 377](Disposizioni%20relative%20alla%20riserva%20navale.%20009U0377.md), e' abrogato e sostituito dal seguente: 
  
  «Nessun ufficiale della riserva navale puo' conseguire avanzamento se non vennero promossi al grado superiore, gli ufficiali di pari grado ed anzianita' dello stesso corpo nei quadri attivi, fatta astrazione da coloro che per qualsiasi motivo siano stati comunque esclusi o pretermessi nello avanzamento».
 

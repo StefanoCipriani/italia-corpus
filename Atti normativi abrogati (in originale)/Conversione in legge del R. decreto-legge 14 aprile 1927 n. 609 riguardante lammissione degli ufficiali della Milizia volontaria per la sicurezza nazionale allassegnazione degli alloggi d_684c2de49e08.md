@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 aprile 1927, n. 609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-14;609), che autorizza gli ufficiali della Milizia volontaria per la sicurezza nazionale a concorrere all'assegnazione degli alloggi dell'Istituto nazionale per le case degli impiegati dello Stato. 
+ E' convertito in legge il [R. decreto-legge 14 aprile 1927, n. 609](Ammissione%20degli%20ufficiali%20della%20M.%20V.%20S.%20N.%20allassegnazione%20degli%20alloggi%20dellIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20statali.%20027U0609.md), che autorizza gli ufficiali della Milizia volontaria per la sicurezza nazionale a concorrere all'assegnazione degli alloggi dell'Istituto nazionale per le case degli impiegati dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 agosto 1928, n. 2034](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-10;2034), concernente il nuovo ordinamento dell'Associazione della Croce Rossa Italiana. 
+ E' convertito in legge il [R. decreto-legge 10 agosto 1928, n. 2034](Provvedimenti%20necessari%20per%20assicurare%20il%20funzionamento%20della%20Croce%20Rossa%20Italiana.%20028U2034.md), concernente il nuovo ordinamento dell'Associazione della Croce Rossa Italiana. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

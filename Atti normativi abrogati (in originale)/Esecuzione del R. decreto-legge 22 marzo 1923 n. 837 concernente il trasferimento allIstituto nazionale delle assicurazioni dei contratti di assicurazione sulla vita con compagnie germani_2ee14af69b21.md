@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 22 marzo 1923, n. 837](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-22;837), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), concernente il trasferimento all'Istituto nazionale delle assicurazioni dei contratti di assicurazione sulla vita con compagnie germaniche, rescissi in base al Trattato di Versaglia;
+Visto il [R. decreto 22 marzo 1923, n. 837](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-22;837), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), concernente il trasferimento all'Istituto nazionale delle assicurazioni dei contratti di assicurazione sulla vita con compagnie germaniche, rescissi in base al Trattato di Versaglia;
 
 Visti gli accordi italo-germanici firmati a Roma il 1° settembre 1927, relativi a questioni attinenti agli articoli 296 e 297 del Trattato di Versaglia, approvati con [decreto-legge 19 ottobre 1927, n. 1930](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1927-10-19;1930);
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 aprile 1927, n. 569](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-14;569), che concede la franchigia doganale ad alcune materie occorrenti all'industria della fabbricazione di profumi sintetici. 
+ E' convertito in legge il [R. decreto-legge 14 aprile 1927, n. 569](Franchigia%20doganale%20ad%20alcune%20materie%20prime%20occorrenti%20alla%20industria%20della%20fabbricazione%20di%20profumi%20sintetici.%20027U0569.md), che concede la franchigia doganale ad alcune materie occorrenti all'industria della fabbricazione di profumi sintetici. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

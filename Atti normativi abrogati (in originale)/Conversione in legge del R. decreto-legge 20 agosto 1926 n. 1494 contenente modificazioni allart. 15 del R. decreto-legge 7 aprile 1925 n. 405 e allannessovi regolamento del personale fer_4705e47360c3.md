@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 agosto 1926, n. 1494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-20;1494), contenente modificazioni all'[art. 15 del R. decreto-legge 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-07;405#art_15), e all'annessovi regolamento del personale ferroviario. 
+ E' convertito in legge il [R. decreto-legge 20 agosto 1926, n. 1494](Modificazioni%20allart.%2015%20del%20R.%20decreto-legge%207%20aprile%201925%20n.%20405%20e%20allannessovi%20regolamento%20del%20personale%20ferroviario.%20026U1494.md), contenente modificazioni all'[art. 15 del R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), e all'annessovi regolamento del personale ferroviario. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ UMBERTO I
  
  Articolo unico. 
  
- E' convertito in legge il [Regio decreto 14 novembre 1894, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-11-14;474), per l'ordinamento del personale degli uffici finanziari centrali e provinciali e dell'Amministrazione esterna del Catasto e pel trattamento degli impiegati di tutte le Amministrazioni dipendenti dal Ministero delle Finanze, collocati in disponibilita' o posti fuori ruolo per effetto di riforme organiche; 
+ E' convertito in legge il [Regio decreto 14 novembre 1894, n. 474](Sullordinamento%20del%20personale%20amministrativo%20e%20di%20ordine%20del%20Ministero%20e%20delle%20Intendenze%20di%20finanza%20nonche%20del%20personale%20di%20ragioneria%20del%20Ministero%20medesimo%20e%20dellAmministrazione%20estern_54c44efab164.md), per l'ordinamento del personale degli uffici finanziari centrali e provinciali e dell'Amministrazione esterna del Catasto e pel trattamento degli impiegati di tutte le Amministrazioni dipendenti dal Ministero delle Finanze, collocati in disponibilita' o posti fuori ruolo per effetto di riforme organiche; 
  
  Alla tabella A dell'anzidetto Regio decreto e' sostituita la tabella C la quale avra' effetto dal giorno della pubblicazione della presente legge. 
  

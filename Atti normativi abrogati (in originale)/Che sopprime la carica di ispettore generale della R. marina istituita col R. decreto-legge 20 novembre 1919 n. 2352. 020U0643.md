@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 20 novembre 1919, n. 2352](Che%20istituisce%20la%20carica%20di%20ispettore%20generale%20della%20R.%20marina%20e%20il%20Comitato%20dei%20vice%20ammiragli%20e%20tenenti%20generali.%20019U2352.md), che istituisce la carica di ispettore generale della Regia marina, ed il Comitato del vice ammiragli e tenenti generali.
 
-Visto il [R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156), relativo alla costituzione ed alle attribuzioni dei Corpi consultivi della R. marina;
+Visto il [R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), relativo alla costituzione ed alle attribuzioni dei Corpi consultivi della R. marina;
 
 Visto il [R. decreto-legge 20 aprile 1920, n. 451](Che%20abrogando%20il%20R.%20decreto-legge%2021%20novembre%201919%20n.%202143%20detta%20nuove%20norme%20per%20lordinamento%20provvisorio%20del%20R.%20esercito.%20020U0451.md), circa l'ordinamento del R. esercito, col quale si sopprime la carica di ispettore tenente del R. esercito;
 
@@ -32,7 +32,7 @@ E' abrogato il [R. decreto-legge 20 novembre 1919, n. 2352](Che%20istituisce%20l
 
 ## Art. 2.
 
-Nell'[articolo 3 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156#art_3), il 2° alinea e' sostituito dai seguenti: 
+Nell'[articolo 3 del R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), il 2° alinea e' sostituito dai seguenti: 
  
  «L'ammiraglio, previsto dal ruolo organico, quando tale grado e' ricoperto per effetto di avanzamento per merito di guerra presidente. 
  
@@ -42,13 +42,13 @@ Nell'[articolo 3 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiv
 
 ## Art. 3.
 
-All'[art. 4 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156#art_4), e' aggiunto il seguente comma: 
+All'[art. 4 del R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), e' aggiunto il seguente comma: 
  
  «Il presidente del Comitato degli ammiragli, quando riveste il grado di ammiraglio puo' essere incaricato dal ministro della marina della direzione di manovre ed esercitazioni navali di speciale importanza, e possono a lui essere affidati altri incarichi temporanei di carattere particolarmente importante».
 
 ## Art. 4.
 
-Nell'[art. 9 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156#art_9), il 2° e il 3° alinea sono sostituiti dai seguenti: 
+Nell'[art. 9 del R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), il 2° e il 3° alinea sono sostituiti dai seguenti: 
  
  «L'ammiraglio di cui all'art. 3 del presente decreto, oppure un vice ammiraglio, presidente. 
  
@@ -56,17 +56,17 @@ Nell'[art. 9 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it
 
 ## Art. 5.
 
-In fine dell'alinea 7° dell'[art. 6 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156#art_6), e' inserito l'inciso «salvo i casi di impedimento» fra le parole: «i vice ammiragli in ordine di anzianita'» e «fino a raggiungere il numero di sette».
+In fine dell'alinea 7° dell'[art. 6 del R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), e' inserito l'inciso «salvo i casi di impedimento» fra le parole: «i vice ammiragli in ordine di anzianita'» e «fino a raggiungere il numero di sette».
 
 ## Art. 6.
 
-Al [1° comma dell'art. 8 del R. decreto 1° febbraio 1920 n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156#art_8-com1), e' sostituito il seguente: 
+Al [1° comma dell'art. 8 del R. decreto 1° febbraio 1920 n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), e' sostituito il seguente: 
  
  «Sulle proposte, alle quali il ministro ha dato corso, di promozione per merito di guerra a favore di ufficiali di qualsiasi grado e ruolo ed a favore dei capi di 1ª classe del corpo R. equipaggi, e sulle proposte di seconda ed ulteriore promozione nella riserva navale previste dal [decreto Luogotenenziale 9 dicembre 1917, n. 2020](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-12-09;2020), delibera una Commissione costituita dal Comitato degli ammiragli. Il presidente, ed uno dei membri, puo' essere sostituito, quando impedito, dal piu' anziano fra i vice ammiragli, e, in mancanza, dal piu' anziano fra i contrammiragli non aventi la classifica di specialisti di armi navali, che ha destinazione di ufficio a Roma, e non e' impedito di intervenire».
 
 ## Art. 7.
 
-In fine del terz'ultimo alinea dell'[art. 12 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156#art_12), dopo le parole «capitani di vascello» aggiungere «non aventi la classifica di specialisti di armi navali». 
+In fine del terz'ultimo alinea dell'[art. 12 del R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), dopo le parole «capitani di vascello» aggiungere «non aventi la classifica di specialisti di armi navali». 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge, ed avra' decorrenza dalla data di pubblicazione nella Gazzetta ufficiale. 
  

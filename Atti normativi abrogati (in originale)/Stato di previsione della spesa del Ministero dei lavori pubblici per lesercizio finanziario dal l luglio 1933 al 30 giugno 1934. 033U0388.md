@@ -22,7 +22,7 @@ E' autorizzata li spesa di L. 14.255.000 per provvedere ai servizi di edilizia t
 
 ## Art. 4.
 
-E' stabilito nella somma di L. 15.000.000, per l'esercizio 1933-34, il limite d'impegno di cui all'[articolo 3 del R. decreto-legge 6 ottobre 1927, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-06;1827#art_3), convertito nella [legge 17 maggio 1928, n. 1147, ed all'art. 1](Conversione%20in%20legge%20con%20aggiunta%20del%20R.%20decreto%206%20ottobre%201927%20n.%201827%20che%20reca%20disposizioni%20sulle%20opere%20pubbliche%20straordinarie.%20028U1147.md) della [legge 24 giugno 1929, n. 1137](Disposizioni%20sulle%20concessioni%20di%20opere%20pubbliche.%20029U1137.md), per le annualita' relative ed opere pubbliche straordinarie da eseguire in concessione, per sovvenzioni e contributi previsti da leggi speciali, nonche' per le opere pubbliche straordinarie a pagamento differito.
+E' stabilito nella somma di L. 15.000.000, per l'esercizio 1933-34, il limite d'impegno di cui all'[articolo 3 del R. decreto-legge 6 ottobre 1927, n. 1827](Disposizioni%20sulle%20opere%20pubbliche%20straordinarie.%20027U1827.md), convertito nella [legge 17 maggio 1928, n. 1147, ed all'art. 1](Conversione%20in%20legge%20con%20aggiunta%20del%20R.%20decreto%206%20ottobre%201927%20n.%201827%20che%20reca%20disposizioni%20sulle%20opere%20pubbliche%20straordinarie.%20028U1147.md) della [legge 24 giugno 1929, n. 1137](Disposizioni%20sulle%20concessioni%20di%20opere%20pubbliche.%20029U1137.md), per le annualita' relative ed opere pubbliche straordinarie da eseguire in concessione, per sovvenzioni e contributi previsti da leggi speciali, nonche' per le opere pubbliche straordinarie a pagamento differito.
 
 ## Art. 5.
 

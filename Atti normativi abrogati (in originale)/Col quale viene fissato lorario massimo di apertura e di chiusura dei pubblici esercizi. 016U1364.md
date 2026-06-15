@@ -24,7 +24,7 @@ I pubblici esercizi annessi alle stazioni ferroviarie possono aprirsi un'ora pri
 
 ## Art. 4.
 
-In casi del tutto eccezionali, e per esclusive considerazioni di pubblico interesse, i prefetti, sentite le Commissioni provinciali di cui all'[art. 3 della legge 19 giugno 1913, n. 632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-19;632#art_3), nonche' la Camera di commercio competente, possono accordare la protrazione dell'orario di chiusura fino alle ore 23 1/2 e l'anticipo di un'ora sull'orario di apertura. 
+In casi del tutto eccezionali, e per esclusive considerazioni di pubblico interesse, i prefetti, sentite le Commissioni provinciali di cui all'[art. 3 della legge 19 giugno 1913, n. 632](Recante%20provvedimenti%20per%20combattere%20lalcoolismo.%20013U0632.md), nonche' la Camera di commercio competente, possono accordare la protrazione dell'orario di chiusura fino alle ore 23 1/2 e l'anticipo di un'ora sull'orario di apertura. 
  
  Per gli esercizi pubblici annessi a teatri o a sale destinate a pubblico spettacolo, la concessione speciale di cui nel comma precedente puo' estendersi fino alla mezzanotte.
 

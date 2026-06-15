@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni legislative sull'ordinamento del corpo Reale equipaggi e lo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 21 agosto 1924, n. 1525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-21;1525);
+Visto il testo unico delle disposizioni legislative sull'ordinamento del corpo Reale equipaggi e lo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md);
 
-Visto il [R. decreto 21 novembre 1923, n. 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-21;2480), che detta nuove disposizioni sulle pensioni normali del personale delle Amministrazioni dello Stato e sue successive modificazioni;
+Visto il [R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), che detta nuove disposizioni sulle pensioni normali del personale delle Amministrazioni dello Stato e sue successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 aprile 1928, n. 912](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-04-05;912), concernente il diritto dovuto per lo sbarco temporaneo dei passeggeri delle navi in crociere turistiche. 
+ E' convertito in legge il [R. decreto-legge 5 aprile 1928, n. 912](Diritto%20dovuto%20per%20lo%20sbarco%20temporaneo%20dei%20passeggeri%20delle%20navi%20in%20crociere%20turistiche.%20028U0912.md), concernente il diritto dovuto per lo sbarco temporaneo dei passeggeri delle navi in crociere turistiche. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

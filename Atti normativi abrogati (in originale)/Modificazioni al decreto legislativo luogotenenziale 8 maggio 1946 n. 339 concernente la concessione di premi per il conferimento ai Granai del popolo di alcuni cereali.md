@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'[art. 3 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3);
+Visto l'[art. 3 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [decreto legislativo luogotenenziale 8 maggio 1946, n. 339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;339), concernente la concessione di premi per il conferimento ai "Granai del popolo" di alcuni cereali;
+Visto il [decreto legislativo luogotenenziale 8 maggio 1946, n. 339](../Decreti%20legislativi%20luogotenenziali/norme%20e%20premi%20per%20il%20conferimento%20ai%20Granai%20del%20popolo%20di%20alcuni%20cereali.md), concernente la concessione di premi per il conferimento ai "Granai del popolo" di alcuni cereali;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ I premi stabiliti con l'art. 3 del decreto legilativo luogotenenziale 8 maggio 1
 
 ## Art. 2.
 
-La corresponsione dei premi di cui all'[art. 3 del decreto legislativo luogotenenziale 8 maggio 1946, n. 339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;339#art_3), viene estesa anche ai conferimenti effettuati, a termine degli articoli 2 e 6 dei citato decreto legislativo luogotenenziale, posteriormente al 31 maggio 1946 per il grano, granoturco, orzo e segale ed al 30 giugno per il risone.
+La corresponsione dei premi di cui all'[art. 3 del decreto legislativo luogotenenziale 8 maggio 1946, n. 339](../Decreti%20legislativi%20luogotenenziali/norme%20e%20premi%20per%20il%20conferimento%20ai%20Granai%20del%20popolo%20di%20alcuni%20cereali.md), viene estesa anche ai conferimenti effettuati, a termine degli articoli 2 e 6 dei citato decreto legislativo luogotenenziale, posteriormente al 31 maggio 1946 per il grano, granoturco, orzo e segale ed al 30 giugno per il risone.
 
 ## Art. 3.
 

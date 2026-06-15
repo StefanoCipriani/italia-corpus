@@ -40,7 +40,7 @@ L'Ente autonomo di gestione per il cinema ha un fondo di dotazione costituito:
  dalle partecipazioni ad esso attribuite con l'articolo 3 della presente legge;
  dalle partecipazioni ad esso trasferibili con le modalita' di cui all'[articolo 14 della legge 21 giugno 1960, n. 649](Attivita%20e%20disciplina%20dellEnte%20autonomo%20di%20gestione%20per%20le%20aziende%20termali%20e%20altri%20provvedimenti%20ai%20fini%20dellinquadramento%20delle%20partecipazioni%20statali.md):
  dalla somma di lire 400 milioni concessa dallo Stato.
- Per i primi dieci anni gli utili di esercizio dell'Ente, salvo quelli destinati ali fondo di riserva, a norma dell'[articolo 12 del decreto del Presidente della Repubblica 7 maggio 1958, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-05-07;575#art_12), saranno destinati ad aumentare il fondo di dotazione di cui al precedente comma.
+ Per i primi dieci anni gli utili di esercizio dell'Ente, salvo quelli destinati ali fondo di riserva, a norma dell'[articolo 12 del decreto del Presidente della Repubblica 7 maggio 1958, n. 575](../DPR/Costituzione%20dellEnte%20autonomo%20di%20gestione%20per%20il%20cinema.md), saranno destinati ad aumentare il fondo di dotazione di cui al precedente comma.
 
 ## Art. 6.
 

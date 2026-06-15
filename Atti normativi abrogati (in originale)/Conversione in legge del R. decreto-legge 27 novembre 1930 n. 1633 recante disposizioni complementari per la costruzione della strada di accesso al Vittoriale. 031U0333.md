@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 novembre 1930, n. 1633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-27;1633), recante disposizioni complementari per la costruzione della strada di accesso al «Vittoriale». 
+ E' convertito in legge il [R. decreto-legge 27 novembre 1930, n. 1633](Disposizioni%20complementari%20per%20la%20costruzione%20di%20una%20strada%20di%20accesso%20al%20a%20Vittoriale.%20030U1633.md), recante disposizioni complementari per la costruzione della strada di accesso al «Vittoriale». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Vista la [legge 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-08-24;4021) (serie 2ª), ed il [regolamento 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1907-07-11;560);
 
-Visto il [R. decreto 17 febbraio 1924, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-17;182);
+Visto il [R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md);
 
 Visto il [R. decreto 16 ottobre 1924, n. 1613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-16;1613);
 
@@ -36,7 +36,7 @@ Ai componenti le Commissioni di 1° grado delle imposte dirette, che abbiano la 
 
 Il Ministro per le finanze e' autorizzato ad emanare le norme per disciplinare la distribuzione dei compensi ai componenti delle Commissioni di seconda istanza per le imposte dirette ed ai segretari ed inservienti addetti alle Commissioni di prima e seconda istanza, tanto estranei, quanto appartenenti all'Amministrazione dello Stato. 
  
- Per i compensi a favore di questi ultimi non si applicano le disposizioni del [R. decreto 17 febbraio 1924, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-17;182).
+ Per i compensi a favore di questi ultimi non si applicano le disposizioni del [R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md).
 
 ## Art. 3.
 

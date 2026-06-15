@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
-Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modificazioni, nella [legge 24 luglio 1972, n. 321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-07-24;321);
+Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modificazioni, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com1);
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -29,7 +29,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 E' istituito il Consiglio superiore delle finanze, organo tecnico consultivo del Ministro per le finanze.
  Il Consiglio, su richiesta del Ministro, si esprime di regola sulle questioni attinenti al sistema tributario dello Stato ed alle entrate non tributarie di questo, sulle relazioni tra i tributi dello Stato e quelli destinati alle regioni e agli enti locali o da essi istituiti, sui riflessi dell'azione fiscale, sull'andamento economico generale o di singoli settori, con particolare riguardo alla occupazione, ed esegue lo studio di questioni particolari, con formulazione di proposte.
  Il Consiglio si esprime altresi', sempre su richiesta del Ministro, sulle questioni relative agli aspetti generali dell'attivita' organizzativa e amministrativa del Ministero delle finanze e su ogni altro argomento relativo agli affari del Ministero medesimo, fatte salve le competenze del consiglio di amministrazione di questo.
- Restano ferme le attribuzioni conferite al comitato tecnico per la riforma tributaria dall'[art. 17, comma quinto, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com5).
+ Restano ferme le attribuzioni conferite al comitato tecnico per la riforma tributaria dall'[art. 17, comma quinto, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md).
 
 ## Art. 2. — Composizione del Consiglio superiore
 

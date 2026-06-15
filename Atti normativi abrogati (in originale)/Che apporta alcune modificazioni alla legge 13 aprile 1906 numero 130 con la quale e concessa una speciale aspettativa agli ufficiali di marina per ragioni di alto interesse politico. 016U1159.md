@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 13 aprile 1905, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-04-13;130);
+Vista la [legge 13 aprile 1905, n. 130](Accordo%20per%20due%20anni%20agli%20ufficiali%20della%20R.%20marina%20dellaspettativa%20di%20cui%20al%20%206%20dellart.%209%20della%20legge%2025%20maggio%201852.%20005U0130.md);
 
 Udito il Consiglio dei ministri;
 
@@ -28,11 +28,11 @@ Sulla proposta del ministro della marina, di concerto con quello del tesoro; Abb
 
 ## Art. 1.
 
-A tutti gli effetti delle leggi sulle pensioni, il tempo trascorso nella posizione di aspettativa prevista dalla [legge 13 aprile 1905, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-04-13;130), e' equiparato a quello trascorso nella posizione di aspettativa per riduzione di corpo.
+A tutti gli effetti delle leggi sulle pensioni, il tempo trascorso nella posizione di aspettativa prevista dalla [legge 13 aprile 1905, n. 130](Accordo%20per%20due%20anni%20agli%20ufficiali%20della%20R.%20marina%20dellaspettativa%20di%20cui%20al%20%206%20dellart.%209%20della%20legge%2025%20maggio%201852.%20005U0130.md), e' equiparato a quello trascorso nella posizione di aspettativa per riduzione di corpo.
 
 ## Art. 2.
 
-Per gli ufficiali che fossero stati collocati nella posizione di aspettativa regolata dalla citata [legge 13 aprile 1905, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-04-13;130), e pei quali fosse stata gia' liquidata la pensione o un assegno temporaneo, sara' provveduto ad una nuova liquidazione di pensione o di assegno con effetto dal giorno della cessazione dal servizio attivo.
+Per gli ufficiali che fossero stati collocati nella posizione di aspettativa regolata dalla citata [legge 13 aprile 1905, n. 130](Accordo%20per%20due%20anni%20agli%20ufficiali%20della%20R.%20marina%20dellaspettativa%20di%20cui%20al%20%206%20dellart.%209%20della%20legge%2025%20maggio%201852.%20005U0130.md), e pei quali fosse stata gia' liquidata la pensione o un assegno temporaneo, sara' provveduto ad una nuova liquidazione di pensione o di assegno con effetto dal giorno della cessazione dal servizio attivo.
 
 ## Art. 3.
 

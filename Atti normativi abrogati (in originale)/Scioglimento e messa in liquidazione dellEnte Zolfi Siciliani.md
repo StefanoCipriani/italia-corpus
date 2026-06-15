@@ -12,9 +12,9 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 2 aprile 1944, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1944-04-02;287), con la quale fu istituito l'Ente Zolfi Italiani;
 
-Visto il [decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-01;322), con cui fu istituito l'Ente Zolfi Siciliani;
+Visto il [decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20lEnte%20Zolfi%20Siciliani.%20044U0322.md), con cui fu istituito l'Ente Zolfi Siciliani;
 
-Visti il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), e il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visti il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), e il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,13 +22,13 @@ Sulla proposta del Ministro per l'industria e commercio, di concerto col Ministr
 
 ## Art. 1.
 
-L'Ente Zolfi Siciliani, istituito con il [decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-01;322), e' soppresso sotto la data del 31 dicembre 1946 ed il suo patrimonio e' posto in liquidazione con decorrenza dal 1° gennaio 1947.
+L'Ente Zolfi Siciliani, istituito con il [decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20lEnte%20Zolfi%20Siciliani.%20044U0322.md), e' soppresso sotto la data del 31 dicembre 1946 ed il suo patrimonio e' posto in liquidazione con decorrenza dal 1° gennaio 1947.
 
 ## Art. 2.
 
 La liquidazione delle attivita' e delle passivita' della gestione commerciale dell'Ente Zolfi Siciliani e' affidata all'Ente Zolfi Italiani.
  La gestione di tale liquidazione, compresi i debiti e crediti relativi sara', ad ogni effetto, tenuta completamente distinta, come gestione di stralcio, dalla gestione ordinaria dell'Ente Zolfi Italiani.
- La gestione e' controllata dal Collegio dei revisori di cui all'[art. 4 del decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-01;322#art_4).
+ La gestione e' controllata dal Collegio dei revisori di cui all'[art. 4 del decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20lEnte%20Zolfi%20Siciliani.%20044U0322.md).
 
 ## Art. 3.
 
@@ -37,7 +37,7 @@ La rimanenza alla data del 31 dicembre 1945 degli zolfi grezzi posti dai produtt
 
 ## Art. 4.
 
-Agli zolfi grezzi posti dai produttori a disposizione dell'Ente Zolfi Siciliani a partire dal 1° agosto e sino al 31 dicembre 1946, si applica la garanzia del prezzo minimo di cui all'[art. 3 della Legge 2 aprile 1940, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-04-02;287#art_3).
+Agli zolfi grezzi posti dai produttori a disposizione dell'Ente Zolfi Siciliani a partire dal 1° agosto e sino al 31 dicembre 1946, si applica la garanzia del prezzo minimo di cui all'[art. 3 della Legge 2 aprile 1940, n. 287](Istituzione%20dellEnte%20Zolfi%20Italiani%20E.Z.I..%20040U0287.md).
  Il prezzo minimo garantito, al netto dei contributi per le assicurazioni sociali e', per ciascuna qualita', fissato come segue: gialla superiore.......................L. 18.000 per tonnellata gialla inferiore.......................L. 17.600 per tonnellata buona..................................L. 17.000 per tonnellata corrente...............................L. 16.500 per tonnellata
 
 ## Art. 5.
@@ -46,11 +46,11 @@ Per le operazioni di liquidazione dell'Ente Zolfi Siciliani sara' trattenuto in 
 
 ## Art. 6.
 
-Le attivita' dell'Ente Zolfi Italiani, alla data del 1° ottobre 1944, di cui all'[art. 3 del decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-01;322#art_3), restano attribuite all'Ente medesimo.
+Le attivita' dell'Ente Zolfi Italiani, alla data del 1° ottobre 1944, di cui all'[art. 3 del decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20lEnte%20Zolfi%20Siciliani.%20044U0322.md), restano attribuite all'Ente medesimo.
 
 ## Art. 7.
 
-Con decreto del Capo dello Stato, su proposta del Ministro per l'industria e commercio di concerto col Ministro per le finanze ed il tesoro, saranno stabilite le norme che risulteranno necessarie per l'esecuzione del presente decreto ai sensi dell'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num1).
+Con decreto del Capo dello Stato, su proposta del Ministro per l'industria e commercio di concerto col Ministro per le finanze ed il tesoro, saranno stabilite le norme che risulteranno necessarie per l'esecuzione del presente decreto ai sensi dell'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md).
 
 ## Art. 8.
 

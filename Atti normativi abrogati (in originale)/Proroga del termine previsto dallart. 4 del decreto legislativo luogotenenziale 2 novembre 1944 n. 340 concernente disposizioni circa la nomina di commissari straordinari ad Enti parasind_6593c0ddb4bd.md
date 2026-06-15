@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-02;340), modificato con [decreto legislativo luogotenenziale 28 maggio 1945, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-28;382);
+Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 340](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20circa%20la%20nomina%20di%20commissari%20straordinari%20a%20Enti%20parasindacali%20e%20sostituzione%20in%20Commissioni%20od%20organi%20dei%20membri%20di%20nomina%20o%20designazione%20sindacale.%20044U0340.md), modificato con [decreto legislativo luogotenenziale 28 maggio 1945, n. 382](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20decreto%20legislativo%20Luogotenenziale%202%20novembre%201944%20n.%20340%20che%20reca%20disposizione%20circa%20la%20nomina%20di%20commissari%20straordinari%20ad%20enti%20parasindacali%20e%20sostituzione%20in%20commis_6789bd27fc8f.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 14 ottobre 1946, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-14;335);
 
@@ -18,7 +18,7 @@ Visto il [decreto legislativo del Capo provvisorio dello Stato 3 luglio 1947, n.
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-Le facolta' di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-02;340#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-02;340#art_2) e [3 del decreto legislativo luogotenenziale 2 novembre 1944, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-02;340#art_3), il cui esercizio fu prorogato al 30 settembre 1947, con [decreto legislativo del Capo provvisorio dello Stato 3 luglio 1947, n. 881](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-03;881), possono essere ulteriormente esercitate fino al 31 dicembre 1947.
+Le facolta' di cui agli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20circa%20la%20nomina%20di%20commissari%20straordinari%20a%20Enti%20parasindacali%20e%20sostituzione%20in%20Commissioni%20od%20organi%20dei%20membri%20di%20nomina%20o%20designazione%20sindacale.%20044U0340.md), [2](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20circa%20la%20nomina%20di%20commissari%20straordinari%20a%20Enti%20parasindacali%20e%20sostituzione%20in%20Commissioni%20od%20organi%20dei%20membri%20di%20nomina%20o%20designazione%20sindacale.%20044U0340.md) e [3 del decreto legislativo luogotenenziale 2 novembre 1944, n. 340](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20circa%20la%20nomina%20di%20commissari%20straordinari%20a%20Enti%20parasindacali%20e%20sostituzione%20in%20Commissioni%20od%20organi%20dei%20membri%20di%20nomina%20o%20designazione%20sindacale.%20044U0340.md), il cui esercizio fu prorogato al 30 settembre 1947, con [decreto legislativo del Capo provvisorio dello Stato 3 luglio 1947, n. 881](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-03;881), possono essere ulteriormente esercitate fino al 31 dicembre 1947.
 
 ## Art. 2.
 

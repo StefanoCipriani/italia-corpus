@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 28 marzo 1956, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-03-28;168), recante provvidenze per la stampa;
+Vista la [legge 28 marzo 1956, n. 168](Provvidenze%20per%20la%20stampa.md), recante provvidenze per la stampa;
 
 Ritenuta la straordinaria necessita' ed urgenza di rideterminare la misura del contributo dovuto all'Ente nazionale per la cellulosa e per la carta, al fine di comporre le controversie in atto e di dare sollecita attuazione alla decisione della Commissione CEE in data 24 aprile 1991;
 
@@ -26,7 +26,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il contributo dovuto, ai sensi del [primo comma della legge 28 marzo 1956, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-03-28;168#art_com1), all'Ente nazionale per la cellulosa e per la carta per lo svolgimento, direttamente o tramite societa' partecipate, dei propri compiti istituzionali, si applica alla carta ed al cartone, nonche' al legno ad uso industriale ed e' dovuto dalle imprese di settore nella misura dell'uno per cento, con diritto di rivalsa a totale carico degli acquirenti, ferme restando le esenzioni di cui all'[articolo 23 della legge 25 febbraio 1987, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67#art_23), le altre esenzioni gia' stabilite in favore delle amministrazioni dello Stato, nonche' le altre previste dalla normativa vigente.
+Il contributo dovuto, ai sensi del [primo comma della legge 28 marzo 1956, n. 168](Provvidenze%20per%20la%20stampa.md), all'Ente nazionale per la cellulosa e per la carta per lo svolgimento, direttamente o tramite societa' partecipate, dei propri compiti istituzionali, si applica alla carta ed al cartone, nonche' al legno ad uso industriale ed e' dovuto dalle imprese di settore nella misura dell'uno per cento, con diritto di rivalsa a totale carico degli acquirenti, ferme restando le esenzioni di cui all'[articolo 23 della legge 25 febbraio 1987, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67#art_23), le altre esenzioni gia' stabilite in favore delle amministrazioni dello Stato, nonche' le altre previste dalla normativa vigente.
 
 2.
 
@@ -34,7 +34,7 @@ La decorrenza del contributo di cui al comma 1 e' fissata al 3 marzo 1992 per la
 
 3.
 
-In adempimento della decisione della Commissione della CEE in data 24 aprile 1991, i contributi di cui ai commi primo e terzo dell'articolo unico della [legge 28 marzo 1956, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-03-28;168), non si applicano sui prodotti importati dagli Stati membri della Comunita'; sono inoltre soppressi le esenzioni o i rimborsi dei predetti contributi relativi a prodotti esportati verso gli Stati membri della Comunita'.
+In adempimento della decisione della Commissione della CEE in data 24 aprile 1991, i contributi di cui ai commi primo e terzo dell'articolo unico della [legge 28 marzo 1956, n. 168](Provvidenze%20per%20la%20stampa.md), non si applicano sui prodotti importati dagli Stati membri della Comunita'; sono inoltre soppressi le esenzioni o i rimborsi dei predetti contributi relativi a prodotti esportati verso gli Stati membri della Comunita'.
 
 ## Art. 2.
 

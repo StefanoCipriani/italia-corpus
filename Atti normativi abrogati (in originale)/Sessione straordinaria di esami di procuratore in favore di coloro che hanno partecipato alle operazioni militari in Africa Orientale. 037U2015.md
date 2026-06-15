@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con i Ministr
 
 ## Art. 1.
 
-L'esame per l'abilitazione alla professione di procuratore che fosse indetto a norma dell'art. 3 del R. decreto-legge 28 aprile 1937-XV, n. 580, sara' regolato dalle disposizioni stabilite dal presente decreto, e, per i casi in cui questo non disponga diversamente, da quelle del [R. decreto-legge 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578), convertito, con modificazioni, nella [legge 22 gennaio 1934, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-22;36), e del [R. decreto 22 gennaio 1934, numero 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37).
+L'esame per l'abilitazione alla professione di procuratore che fosse indetto a norma dell'art. 3 del R. decreto-legge 28 aprile 1937-XV, n. 580, sara' regolato dalle disposizioni stabilite dal presente decreto, e, per i casi in cui questo non disponga diversamente, da quelle del [R. decreto-legge 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578), convertito, con modificazioni, nella [legge 22 gennaio 1934, n. 36](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20riguardante%20lordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0036.md), e del [R. decreto 22 gennaio 1934, numero 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37).
 
 ## Art. 2.
 

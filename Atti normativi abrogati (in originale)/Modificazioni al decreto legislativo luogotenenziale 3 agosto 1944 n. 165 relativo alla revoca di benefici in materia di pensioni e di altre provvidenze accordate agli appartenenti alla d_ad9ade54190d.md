@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -35,7 +35,7 @@ Le disposizioni vigenti in materia di pensioni di guerra sono estese ai cittadin
 
 ## Art. 3.
 
-Le disposizioni del [decreto legislativo luogotenenziale 3 agosto 1944, n. 165](Revoca%20di%20benefici%20in%20materia%20di%20pensioni%20e%20di%20altre%20provvidenze%20accordate%20agi%20appartenenti%20alla%20disciolta%20M.V.S.N.%20e%20sue%20specialita%20e%20ai%20cittadini%20aventi%20benemerenze%20fasciste.%20044U0165.md), non si applicano alle pensioni ed assegni previsti dall'[art. 2 della legge 24 dicembre 1925, n. 2275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2275#art_2), quando risulti escluso che il danno nel corpo o nella salute sia stato riportato in servizio politico della disciolta milizia volontaria sicurezza nazionale quale organizzazione di partito.
+Le disposizioni del [decreto legislativo luogotenenziale 3 agosto 1944, n. 165](Revoca%20di%20benefici%20in%20materia%20di%20pensioni%20e%20di%20altre%20provvidenze%20accordate%20agi%20appartenenti%20alla%20disciolta%20M.V.S.N.%20e%20sue%20specialita%20e%20ai%20cittadini%20aventi%20benemerenze%20fasciste.%20044U0165.md), non si applicano alle pensioni ed assegni previsti dall'[art. 2 della legge 24 dicembre 1925, n. 2275](Pensioni%20alle%20famiglie%20dei%20caduti%20per%20la%20causa%20nazionale%20dal%2023%20luglio%201919%20al%201%20novembre%201922%20ed%20ai%20mutilati%20per%20la%20stessa%20causa%20nello%20stesso%20periodo%20nonche%20ai%20militi%20della%20M.V.S.N.%20muti_27dd77e61ec3.md), quando risulti escluso che il danno nel corpo o nella salute sia stato riportato in servizio politico della disciolta milizia volontaria sicurezza nazionale quale organizzazione di partito.
 
 ## Art. 4.
 

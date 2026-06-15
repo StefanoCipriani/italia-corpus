@@ -24,11 +24,11 @@ EMANA il seguente decreto:
 
 1.
 
-A decorrere dal 1 gennaio 1987 e' soppressa la partecipazione alla spesa da parte degli assistiti sulle prestazioni di diagnostica strumentale e di laboratorio disposta dall'[articolo 12 della legge 26 aprile 1982, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-26;181#art_12).
+A decorrere dal 1 gennaio 1987 e' soppressa la partecipazione alla spesa da parte degli assistiti sulle prestazioni di diagnostica strumentale e di laboratorio disposta dall'[articolo 12 della legge 26 aprile 1982, n. 181](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201982.md).
 
 2.
 
-E' altresi' abrogato il [comma 3 dell'articolo 28 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_28-com3), per la parte in cui fissa la partecipazione alla spesa da parte degli assistiti sulle prestazioni specialistiche di cui al [decreto-legge 25 gennaio 1982, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-25;16), convertito, con modificazioni, dalla [legge 25 marzo 1982, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-25;98), nella misura del 25 per cento delle tariffe stabilite per convenzioni stipulate ai sensi della [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833).
+E' altresi' abrogato il [comma 3 dell'articolo 28 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), per la parte in cui fissa la partecipazione alla spesa da parte degli assistiti sulle prestazioni specialistiche di cui al [decreto-legge 25 gennaio 1982, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-25;16), convertito, con modificazioni, dalla [legge 25 marzo 1982, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20gennaio%201982%20n.%2016%20recante%20misure%20urgenti%20in%20materia%20di%20prestazioni%20integrative%20erogate%20dal%20Servizio%20sanitario%20nazionale.md), nella misura del 25 per cento delle tariffe stabilite per convenzioni stipulate ai sensi della [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833).
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ La prescrizione di specialita' medicinali e di prodotti galenici erogati dal Ser
 
 4.
 
-Le quote di partecipazione dell'assistito alla spesa per le prestazioni farmaceutiche previste dalle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_10-leta) e [b) dell'articolo 10, comma 3, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_10-com3-letb), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638), e successive modificazioni, sono cosi' determinate:
+Le quote di partecipazione dell'assistito alla spesa per le prestazioni farmaceutiche previste dalle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_10-leta) e [b) dell'articolo 10, comma 3, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_10-com3-letb), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md), e successive modificazioni, sono cosi' determinate:
                         a)
                             una quota fissa di L. 1.000 per ricetta;
                         b)
@@ -90,17 +90,17 @@ Le disposizioni sulla programmazione sanitaria e il piano sanitario triennale di
 
 2.
 
-A modifica dell'[articolo 17, primo comma, della legge 22 dicembre 1984, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887#art_17-com1), limitatamente all'esercizio 1987, la quota riservata alle attivita' a destinazione vincolata e ai piani straordinari di cui alla lettera a) del medesimo comma e' rideterminata in complessive lire 500 miliardi.
+A modifica dell'[articolo 17, primo comma, della legge 22 dicembre 1984, n. 887](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201985.md), limitatamente all'esercizio 1987, la quota riservata alle attivita' a destinazione vincolata e ai piani straordinari di cui alla lettera a) del medesimo comma e' rideterminata in complessive lire 500 miliardi.
 
 3.
 
-A modifica dell'[articolo 25, secondo comma, della legge 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730#art_25-com2), limitatamente all'esercizio 1987, tutte le somme a qualsiasi titolo introitate dalle unita' sanitarie locali o alle stesse trasferite ai sensi della [lettera b) del primo comma dell'articolo 69 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_69-com1-letb), possono essere utilizzate ad integrazione del finanziamento di parte corrente.
+A modifica dell'[articolo 25, secondo comma, della legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md), limitatamente all'esercizio 1987, tutte le somme a qualsiasi titolo introitate dalle unita' sanitarie locali o alle stesse trasferite ai sensi della [lettera b) del primo comma dell'articolo 69 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_69-com1-letb), possono essere utilizzate ad integrazione del finanziamento di parte corrente.
 
 ## Art. 5.
 
 1.
 
-Al personale in servizio presso gli uffici di sanita' marittima, aerea e di frontiera e presso gli uffici veterinari di confine, porto, aeroporto e dogana interna, di cui alle tabelle allegate al [decreto del Presidente della Repubblica 31 luglio 1980, n. 614](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;614), come modificate dal decreto ministeriale in data 23 dicembre 1985, pubblicato nella Gazzetta Ufficiale n. 32 dell'8 febbraio 1986, sono estese le disposizioni di cui agli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-13;302#art_2) e [3 della legge 13 luglio 1984, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-13;302#art_3).
+Al personale in servizio presso gli uffici di sanita' marittima, aerea e di frontiera e presso gli uffici veterinari di confine, porto, aeroporto e dogana interna, di cui alle tabelle allegate al [decreto del Presidente della Repubblica 31 luglio 1980, n. 614](../DPR/Ristrutturazione%20e%20potenziamento%20degli%20uffici%20di%20sanita%20marittima%20aerea%20e%20di%20frontiera%20e%20degli%20uffici%20veterinari%20di%20confine%20di%20porto%20di%20aeroporto%20e%20di%20dogana%20interna%20art.%207%20della%20legge%20n.%20833%20del%201978.md), come modificate dal decreto ministeriale in data 23 dicembre 1985, pubblicato nella Gazzetta Ufficiale n. 32 dell'8 febbraio 1986, sono estese le disposizioni di cui agli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-13;302#art_2) e [3 della legge 13 luglio 1984, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-13;302#art_3).
 
 2.
 
@@ -126,7 +126,7 @@ All'[articolo 8 della legge 20 maggio 1985, n. 207](https://www.normattiva.it/ur
 
 1.
 
-Fermo quanto disposto dall'[articolo 3 del decreto-legge 29 agosto 1984, n. 528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-08-29;528#art_3), convertito, con modificazioni, dalla [legge 31 ottobre 1984, n. 733](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-31;733), il cittadino esente dalla partecipazione alla spesa per le prestazioni sanitarie decade dal diritto all'esenzione medesima qualora sia stato condannato con sentenza passata in giudicato per aver procurato ad altri l'indebito godimento del beneficio dell'esenzione.
+Fermo quanto disposto dall'[articolo 3 del decreto-legge 29 agosto 1984, n. 528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-08-29;528#art_3), convertito, con modificazioni, dalla [legge 31 ottobre 1984, n. 733](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20agosto%201984%20n.%20528%20recante%20misure%20urgenti%20in%20materia%20sanitaria.md), il cittadino esente dalla partecipazione alla spesa per le prestazioni sanitarie decade dal diritto all'esenzione medesima qualora sia stato condannato con sentenza passata in giudicato per aver procurato ad altri l'indebito godimento del beneficio dell'esenzione.
 
 2.
 

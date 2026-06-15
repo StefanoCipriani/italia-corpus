@@ -36,17 +36,17 @@ Agli effetti dell'applicazione del trattamento fatto dalla presente legge, all'u
 
 ## Art. 6.
 
-Agli ufficiali dei gradi di colonnello e generale attualmente in ausiliaria quali provenienti direttamente dal servizio permanente effettivo, esclusi quelli collocativi in base al [R. decreto-legge 4 settembre 1925, n. 1599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1599), e' fatto il trattamento previsto dalla presente legge, e relativo al grado col quale lasciarono il servizio permanente effettivo, sempre quando si trovino nelle condizioni stabilite dal precedente art. 1. Per gli ufficiali generali il trattamento sara' concesso sentito il Consiglio dei Ministri.
+Agli ufficiali dei gradi di colonnello e generale attualmente in ausiliaria quali provenienti direttamente dal servizio permanente effettivo, esclusi quelli collocativi in base al [R. decreto-legge 4 settembre 1925, n. 1599](Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U1599.md), e' fatto il trattamento previsto dalla presente legge, e relativo al grado col quale lasciarono il servizio permanente effettivo, sempre quando si trovino nelle condizioni stabilite dal precedente art. 1. Per gli ufficiali generali il trattamento sara' concesso sentito il Consiglio dei Ministri.
 
 ## Art. 7.
 
-Il terzo capoverso dell'[art. 6 del R. decreto-legge 31 dicembre 1927, n. 2504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-31;2504#art_6), e' sostituito dal seguente: 
+Il terzo capoverso dell'[art. 6 del R. decreto-legge 31 dicembre 1927, n. 2504](Nuove%20norme%20per%20lavanzamento%20al%20grado%20di%20generale%20di%20divisione%20e%20gradi%20corrispondenti%20nel%20Regio%20esercito.%20027U2504.md), e' sostituito dal seguente: 
  
  « I generali di brigata e i maggiori generali di cui trattasi rimangono in soprannumero e fuori dei quadri organici senza poter aspirare ulteriormente all'avanzamento fino al limite di eta' stabilito per il loro grado, non oltre pero' un periodo massimo di tre anni, allo scadere dei quali gli ufficiali stessi saranno collocati in ausiliaria col trattamento previsto dalla presente legge od a riposo a seconda della loro idoneita' ».
 
 ## Art. 8.
 
-Il terzo capoverso dell'art. 1, parte 2ª, del [R. decreto-legge 30 ottobre 1927, n. 2025](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-30;2025), e' sostituito dal seguente: 
+Il terzo capoverso dell'art. 1, parte 2ª, del [R. decreto-legge 30 ottobre 1927, n. 2025](Nuove%20norme%20per%20lavanzamento%20al%20grado%20di%20generale%20di%20corpo%20darmata.%20027U2025.md), e' sostituito dal seguente: 
  
  «I generali di divisione di cui trattasi rimangono in soprannumero e fuori dei quadri organici, senza poter aspirare ulteriormente all'avanzamento fino al limite di eta', stabilito per il loro grado, non oltre pero' un periodo massimo di tre anni allo scadere dei quali gli ufficiali stessi saranno collocati in ausiliaria col trattamento previsto dalla presente legge od a riposo a seconda della loro idoneita' ».
 
@@ -90,7 +90,7 @@ Del trattamento previsto dalla presente legge possono fruire soltanto gli uffici
 
 ## Art. 15.
 
-I generali di corpo d'armata collocati a disposizione per gli incarichi speciali in base all'[art. 15 del R. decreto-legge 31 dicembre 1927, n. 2504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-31;2504#art_15), modificato con R. decreto-legge 14 novembre 1929, n, 1993, che vengano a trovarsi nelle condizioni per essere collocati in aspettativa per riduzione di quadri, potranno optare invece per il collocamento in ausiliaria col trattamento previsto dalla presente legge, sempreche' abbiano i requisiti stabiliti dalla legge stessa.
+I generali di corpo d'armata collocati a disposizione per gli incarichi speciali in base all'[art. 15 del R. decreto-legge 31 dicembre 1927, n. 2504](Nuove%20norme%20per%20lavanzamento%20al%20grado%20di%20generale%20di%20divisione%20e%20gradi%20corrispondenti%20nel%20Regio%20esercito.%20027U2504.md), modificato con R. decreto-legge 14 novembre 1929, n, 1993, che vengano a trovarsi nelle condizioni per essere collocati in aspettativa per riduzione di quadri, potranno optare invece per il collocamento in ausiliaria col trattamento previsto dalla presente legge, sempreche' abbiano i requisiti stabiliti dalla legge stessa.
 
 ## Art. 16.
 

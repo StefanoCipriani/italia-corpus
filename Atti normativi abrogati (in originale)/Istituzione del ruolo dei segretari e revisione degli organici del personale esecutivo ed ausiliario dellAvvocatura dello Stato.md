@@ -54,7 +54,7 @@ L'esame di concorso per merito distinto per la promozione a primo segretario con
 
 ## Art. 7.
 
-Le tabelle organiche del personale addetto agli uffici dell'Avvocatura dello Stato, di cui ai quadri 44 e 64 allegati al [decreto del Presidente della Repubblica 11 gennaio 1956, n. 16](Ordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), e ai quadri 46 e 67 allegati al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), sono sostituite dalle tabelle B e C allegate alla presente legge.
+Le tabelle organiche del personale addetto agli uffici dell'Avvocatura dello Stato, di cui ai quadri 44 e 64 allegati al [decreto del Presidente della Repubblica 11 gennaio 1956, n. 16](Ordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), e ai quadri 46 e 67 allegati al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), sono sostituite dalle tabelle B e C allegate alla presente legge.
 
 ## Art. 8.
 

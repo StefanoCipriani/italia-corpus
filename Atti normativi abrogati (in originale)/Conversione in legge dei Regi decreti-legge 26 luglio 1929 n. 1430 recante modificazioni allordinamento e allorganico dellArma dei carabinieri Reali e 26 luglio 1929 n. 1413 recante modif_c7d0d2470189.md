@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sono convertiti in legge i [Regi decreti-legge 26 luglio 1929, n. 1430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-07-26;1430), recante modificazioni all'ordinamento e all'organico dell'Arma dei carabinieri Reali e 26 luglio 1929, n. 1413, recante modificazioni alle disposizioni riguardanti lo stato dei sottufficiali dell'Arma dei carabinieri Reali. 
+ Sono convertiti in legge i [Regi decreti-legge 26 luglio 1929, n. 1430](Modificazioni%20allordinamento%20e%20allorganico%20dellArma%20dei%20carabinieri%20Reali.%20029U1430.md), recante modificazioni all'ordinamento e all'organico dell'Arma dei carabinieri Reali e 26 luglio 1929, n. 1413, recante modificazioni alle disposizioni riguardanti lo stato dei sottufficiali dell'Arma dei carabinieri Reali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

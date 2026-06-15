@@ -30,7 +30,7 @@ La ripartizione degli utili e delle perdite eventuali dei Consorzi granari, ai t
 
 I Consorzi granari hanno facolta' di acquistare dal Ministero di agricoltura anche quegli altri prodotti che il servizio temporaneo degli approvvigionamenti mettesse a disposizione del consumo per la popolazione civile. Hanno pure facolta', previa autorizzazione del Ministero di agricoltura, di acquistare cereali per semina. 
  
- Anche a tali acquisti vengono estese le agevolazioni finanziarie del [R. decreto 31 gennaio 1915, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-31;52).
+ Anche a tali acquisti vengono estese le agevolazioni finanziarie del [R. decreto 31 gennaio 1915, n. 52](Recante%20disposizioni%20per%20il%20finanziamento%20dei%20Consorzi%20granari%20provinciali.%20015U0052.md).
 
 ## Art. 5.
 

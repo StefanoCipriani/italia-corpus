@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 febbraio 1934, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-02-08;347), per la modifica delle tabelle organiche del personale dell'Ispettorato corporativo. 
+ E' convertito in legge il [R. decreto-legge 8 febbraio 1934, n. 347](Modifica%20delle%20tabelle%20organiche%20del%20personale%20dellIspettorato%20corporativo.%20034U0347.md), per la modifica delle tabelle organiche del personale dell'Ispettorato corporativo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

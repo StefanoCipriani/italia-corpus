@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il regolamento sullo stato giuridico ed il trattamento economico dei salariati dello Stato, approvato con [R. decreto 31 dicembre 1924, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-31;2262), e successive variazioni;
+Visto il regolamento sullo stato giuridico ed il trattamento economico dei salariati dello Stato, approvato con [R. decreto 31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), e successive variazioni;
 
 Ritenuta la necessita' urgente ed assoluta di regolare il trattamento degli operai dello Stato comandati in localita' disagiate dell'A. O. I.;
 

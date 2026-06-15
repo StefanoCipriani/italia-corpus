@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -28,13 +28,13 @@ Sulla proposta del ministro segretario di Stato per la istruzione pubblica, di c
 
 ## Art. 1.
 
-L'[articolo 1 del decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625#art_1), convertito in [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774), e' revocato e cessa di avere effetto per quanto riguarda le cattedre vacanti delle scuole medie e normali governative e i posti vacanti negli Ispettorati delle scuole medie e negli uffici relativi.
+L'[articolo 1 del decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625#art_1), convertito in [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md), e' revocato e cessa di avere effetto per quanto riguarda le cattedre vacanti delle scuole medie e normali governative e i posti vacanti negli Ispettorati delle scuole medie e negli uffici relativi.
 
 ## Art. 2.
 
 Per provvedere per l'anno scolastico 1919-920 alle cattedre corrispondenti a posti dei ruoli B e C nelle scuole medie di primo grado (ginnasi, scuole tecniche e scuole complementari) alle cattedre di educazione fisica e ad alcune cattedre di scuole di secondo grado per l'insegnamento di discipline speciali (costruzioni, topografia, agraria, scienze giuridiche ed economiche e inglese negli Istituti tecnici, maestra giardiniera nelle scuole normali) saranno banditi concorsi secondo le disposizioni seguenti. 
  
- Il numero dei posti da assegnarsi ai vincitori del concorso per ciascuna disciplina in ciascun ordine di scuola sara' determinato in relazione a quello delle cattedre delle sedi non di primaria importanza effettivamente disponibili, cioe' al numero complessivo delle cattedre accertate vacanti al 15 maggio 1919, diminuito di quello delle cattedre da assegnarsi per effetto dell'[art. 47 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_47), e del [decreto Luogotenenziale 29 settembre 1918, n. 1566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-29;1566). Tale numero di posti non potra' superare i due terzi del numero di dette cattedre calcolato nel modo sopraindicato: ma sara' accresciuto di un numero di posti uguali al terzo delle cattedre vacanti alla stessa data nelle sedi di primaria importanza. 
+ Il numero dei posti da assegnarsi ai vincitori del concorso per ciascuna disciplina in ciascun ordine di scuola sara' determinato in relazione a quello delle cattedre delle sedi non di primaria importanza effettivamente disponibili, cioe' al numero complessivo delle cattedre accertate vacanti al 15 maggio 1919, diminuito di quello delle cattedre da assegnarsi per effetto dell'[art. 47 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), e del [decreto Luogotenenziale 29 settembre 1918, n. 1566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-29;1566). Tale numero di posti non potra' superare i due terzi del numero di dette cattedre calcolato nel modo sopraindicato: ma sara' accresciuto di un numero di posti uguali al terzo delle cattedre vacanti alla stessa data nelle sedi di primaria importanza. 
  
  La determinazione dei posti per ciascuna disciplina avverra' dopo l'approvazione delle graduatorie formate in applicazione del citato [decreto Luogotenenziale 29 settembre 1918, n. 1566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-29;1566).
 
@@ -46,7 +46,7 @@ Ai concorsi di cui nel precedente articolo sono ammessi soltanto gli estranei ai
  
  b) abbiano prestato servizio di supplente in classi ordinarie od aggiunte nelle scuole medie e normali governative di qualsiasi ordine e grado e per qualsiasi disciplina, per almeno tre anni scolastici anche non consecutivi o che abbiano coperto, per lo stesso periodo di tempo, ufficio di ruolo come insegnanti di qualsiasi disciplina in una scuola media o normale pareggiata. 
  
- Le donne saranno ammesse ai concorsi nei casi previsti dall'art. 3 del regolamento approvato con [Regio decreto 1° aprile 1915, n. 562 e dall'art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-01;562#art_8) del presente decreto. 
+ Le donne saranno ammesse ai concorsi nei casi previsti dall'art. 3 del regolamento approvato con [Regio decreto 1° aprile 1915, n. 562 e dall'art. 8](Col%20quale%20e%20approvato%20il%20regolamento%20per%20i%20concorsi%20e%20per%20le%20nomine%20a%20cattedre%20di%20ruolo%20nelle%20scuole%20medie%20e%20normali.%20015U0562.md) del presente decreto. 
  
  Nessun candidato puo' partecipare a piu' di due concorsi.
 
@@ -74,22 +74,22 @@ Entro l'anno 1920 saranno banditi concorsi a cattedre delle scuole medie di prim
 
 A coloro che otterranno la nomina in ruolo per effetto del primo concorso al quale avranno preso parte, sia tra quelli indicati nell'art. 3 sia tra quelli di cui all'art. 5, sara' applicabile l'[art. 8 del decreto Luogotenenziale 29 settembre 1918, n. 1566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-29;1566#art_8). 
  
- Questa disposizione e' applicata anche a tutti coloro che, essendo stati compresi nelle graduatorie formate a norma degli [articoli 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_47) e [48 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_48), non poterono essere nominati straordinari con la decorrenza dal 1° ottobre 1915.
+ Questa disposizione e' applicata anche a tutti coloro che, essendo stati compresi nelle graduatorie formate a norma degli [articoli 47](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md) e [48 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), non poterono essere nominati straordinari con la decorrenza dal 1° ottobre 1915.
 
 ## Art. 7.
 
 Sono abrogati gli [articoli 5 e seguenti del decreto Luogotenenziale 14 aprile 1918, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-14;519#art_5). 
  
- Alle sedi di primaria importanza si provvedera' con concorsi speciali a norma dell'[articolo 2 della legge 12 marzo 1911, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-12;177#art_2).
+ Alle sedi di primaria importanza si provvedera' con concorsi speciali a norma dell'[articolo 2 della legge 12 marzo 1911, n. 177](Concernente%20modificazioni%20agli%20articoli%203%20e%206%20della%20legge%208%20aprile%201906%20n.%20141%20sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20011U0177.md).
 Il servizio militare sara' valutato a norma dell'art. 4 del presente decreto, e per i concorsi speciali che saranno aperti per la prima volta sara' applicabile la disposizione del 5° comma dell'articolo stesso circa le pubblicazioni ed i titoli dei candidati. 
  
- Gli insegnanti che furono trasferiti l'anno scolastico 1918-919 a sedi primarie in applicazione degli articoli 5 e seguenti del citato [decreto Luogotenenziale 14 aprile 1918, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-14;519), potranno aspirare ad un nuovo trasferimento per l'anno scolastico 1919-920; pero' l'essere stati compresi nelle graduatorie formate a norma dei detti articoli non costituisce il titolo di preferenza per i trasferimenti secondo l'[art. 5 della legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141#art_5), modificato con l'[art. 4 del decreto Luogotenenziale 14 aprile 1918, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-14;519#art_4), e dell'ultimo comma dell'[art. 6 della legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141#art_6), modificato con l'[art. 2 della legge 12 marzo 1911, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-12;177#art_2).
+ Gli insegnanti che furono trasferiti l'anno scolastico 1918-919 a sedi primarie in applicazione degli articoli 5 e seguenti del citato [decreto Luogotenenziale 14 aprile 1918, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-14;519), potranno aspirare ad un nuovo trasferimento per l'anno scolastico 1919-920; pero' l'essere stati compresi nelle graduatorie formate a norma dei detti articoli non costituisce il titolo di preferenza per i trasferimenti secondo l'[art. 5 della legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md), modificato con l'[art. 4 del decreto Luogotenenziale 14 aprile 1918, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-14;519#art_4), e dell'ultimo comma dell'[art. 6 della legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md), modificato con l'[art. 2 della legge 12 marzo 1911, n. 177](Concernente%20modificazioni%20agli%20articoli%203%20e%206%20della%20legge%208%20aprile%201906%20n.%20141%20sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20011U0177.md).
 
 ## Art. 8.
 
-In aggiunta a quanto dispone il 2° comma dell'articolo 3 del regolamento approvato con [R. decreto 1° aprile 1915, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-01;562), le donne possono essere nominate, in concorrenza con i maschi, anche alle cattedre di disegno e di calligrafia nei corsi maschili o misti di scuole tecniche. 
+In aggiunta a quanto dispone il 2° comma dell'articolo 3 del regolamento approvato con [R. decreto 1° aprile 1915, n. 562](Col%20quale%20e%20approvato%20il%20regolamento%20per%20i%20concorsi%20e%20per%20le%20nomine%20a%20cattedre%20di%20ruolo%20nelle%20scuole%20medie%20e%20normali.%20015U0562.md), le donne possono essere nominate, in concorrenza con i maschi, anche alle cattedre di disegno e di calligrafia nei corsi maschili o misti di scuole tecniche. 
  
- Tale disposizione e' applicabile anche a coloro che siano compresi nelle graduatorie per i posti femminili formate in applicazione dell'[art. 47 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_47) e in quelle che saranno formate in applicazione del [decreto Luogotenenziale 29 settembre 1918, n. 1566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-29;1566).
+ Tale disposizione e' applicabile anche a coloro che siano compresi nelle graduatorie per i posti femminili formate in applicazione dell'[art. 47 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md) e in quelle che saranno formate in applicazione del [decreto Luogotenenziale 29 settembre 1918, n. 1566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-29;1566).
 
 ## Art. 9.
 

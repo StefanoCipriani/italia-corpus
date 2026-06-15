@@ -32,23 +32,23 @@ L'amministrazione finanziaria, ha facolta' di integrare o modificare la motivazi
 
 ### Art. 3.
 
-In ogni caso, ed ancorche' sia intervenuta la dichiarazione prevista dall'[art. 81 del regio decreto 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-11;560#art_81), gli accertamenti possono essere integrati o modificati, in base alla sopravvenuta conoscenza di nuovi elementi, senza obbligo di preventiva contestazione al contribuente, mediante notificazione di nuovo accertamento. 
+In ogni caso, ed ancorche' sia intervenuta la dichiarazione prevista dall'[art. 81 del regio decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), gli accertamenti possono essere integrati o modificati, in base alla sopravvenuta conoscenza di nuovi elementi, senza obbligo di preventiva contestazione al contribuente, mediante notificazione di nuovo accertamento. 
  Il contribuente che non abbia gia' ricorso e' in tal caso rimesso in termine per ricorrere anche contro i precedenti accertamenti. 
  Se l'Ufficio si avvale della facolta' di cui al primo comma nel corso della contestazione, l'organo giudicante, davanti al quale la vertenza sia pendente, la rimette d'ufficio alla Commissione di primo grado. 
  La facolta' di notificare nuovi accertamenti non puo' esercitarsi oltre il termine di prescrizione ancorche' sia pendente giudizio, salvo quanto previsto dal primo comma dell'art. 5, nel penultimo comma dell'art. 6 e nel quinto comma dell'art. 9.
 
 ### Art. 4. — null
 
-La declaratoria della nullita' prevista dal comma precedente deve essere richiesta dal contribuente, a pena di decadenza, con ricorso alla Commissione di primo grado entro il termine di giorni sessanta dalla data in cui la dichiarazione prevista dall'[art. 81 del regio decreto 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-11;560#art_81), e' stata sottoscritta. 
+La declaratoria della nullita' prevista dal comma precedente deve essere richiesta dal contribuente, a pena di decadenza, con ricorso alla Commissione di primo grado entro il termine di giorni sessanta dalla data in cui la dichiarazione prevista dall'[art. 81 del regio decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), e' stata sottoscritta. 
  Entro il 31 dicembre del secondo anno solare successivo alla data stessa uguale facolta' puo' essere esercitata dall'Ufficio. 
  L'impugnativa di nullita' non sospende la iscrizione a ruolo. 
- Ove la dichiarazione prevista dall'[art. 81 del regio decreto 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-11;560#art_81), sia dichiarata nulla, l'Ufficio deve provvedere, entro novanta giorni da quello in cui la pronuncia di nullita' e' divenuta definitiva, a notificare nuovo accertamento.
+ Ove la dichiarazione prevista dall'[art. 81 del regio decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), sia dichiarata nulla, l'Ufficio deve provvedere, entro novanta giorni da quello in cui la pronuncia di nullita' e' divenuta definitiva, a notificare nuovo accertamento.
 
 ### Art. 5.
 
 Se nel corso del giudizio di primo grado la Commissione viene a conoscenza di elementi che rendano opportuna una integrazione dell'accertamento, sospende la pronuncia e rinvia gli atti all'Ufficio fissando il termine per il nuovo accertamento.
- In tale ipotesi l'accertamento non puo' essere definito con la dichiarazione di cui all'[art. 81 del regio decreto 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-11;560#art_81).
- E' soppressa la facolta' delle Commissioni distrettuali delle imposte dirette prevista dall'art. 43 del testo unico approvato con [regio decreto 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021), e successive modificazioni.
+ In tale ipotesi l'accertamento non puo' essere definito con la dichiarazione di cui all'[art. 81 del regio decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md).
+ E' soppressa la facolta' delle Commissioni distrettuali delle imposte dirette prevista dall'art. 43 del testo unico approvato con [regio decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e successive modificazioni.
 
 ### Art. 6.
 
@@ -60,7 +60,7 @@ In caso di mancata dichiarazione o quando il reddito dichiarato sia inferiore al
  Della prestazione del giuramento e' redatto processo verbale sottoscritto dal presidente della Commissione e dalla persona che giura. 
  I fatti su cui e' prestato giuramento si considerano rispondenti a verita'. 
  Se il contribuente non presta giuramento senza che sussista un legittimo impedimento, le deduzioni del contribuente sui punti di fatto sui quali e' stato deferito il giuramento si considerano infondate. 
- Chiunque giura il falso e' punito ai sensi dell'[art. 371 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_371). Si applica il secondo comma dello stesso articolo. 
+ Chiunque giura il falso e' punito ai sensi dell'[art. 371 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Si applica il secondo comma dello stesso articolo. 
  Se e' pronunciata condanna per falso giuramento, l'Ufficio puo' procedere a nuovo accertamento, da notificarsi al contribuente non oltre il 31 dicembre del secondo anno solare successivo a quello in cui la sentenza di condanna e' divenuta definitiva. 
  Le disposizioni di cui ai commi precedenti non si applicano in caso di controversie relative ad accertamenti non superiori a lire 540.000.
 
@@ -99,7 +99,7 @@ Se le societa' e gli enti tassabili in base a bilancio e i contribuenti che chie
  Quando l'Ufficio accerta dall'esame del bilancio o delle scritture contabili o in base ad elementi o dati concreti raccolti anche al di fuori del bilancio e delle scritture medesime, che nelle diverse scritture o in alcuna di esse sono indicate spese inesistenti o comunque non dimostrabili, che le perdite effettive sono indicate in misura maggiore della realta', che sono iscritte spese o perdite inesistenti, che sono omesse od indicate in modo inesatto le registrazioni di entrate, o che i fatti aziendali sono comunque riportati inesattamente o irregolarmente in modo da concludere con un risultato diverso da quello effettivo, l'Ufficio ha facolta' di correggere ed integrare, secondo il suo apprezzamento con l'accertamento motivato le registrazioni contabili mancanti, inesatte o comunque non corrispondenti al vero. In caso di contestazione la prova contraria alle correzioni ed integrazioni apportate dall'Ufficio deve essere fornita dal contribuente. 
  Quando i fatti indicati nel comma precedente sono cosi' gravi o ripetuti da far ritenere inattendibili i libri e le scritture contabili, l'Ufficio accerta il reddito con le modalita' previste dal primo comma del presente articolo, avvalendosi anche di quegli elementi che emergono dalle scritture e che ritiene veritieri, e si applicano le norme di cui al secondo comma. L'Ufficio deve menzionare nell'accertamento i motivi per i quali ritiene si renda applicabile il presente comma. 
  Quando nel corso del giudizio di merito dinanzi alla Commissione di primo grado emergono elementi per cui la Commissione ritenga applicabile il terzo o quarto comma del presente articolo, questa provvede secondo le norme dell'art. 5. 
- Nelle ipotesi previste dal primo e quarto comma del presente articolo l'accertamento non puo' essere definito con la dichiarazione prevista dall'[art. 81 del regio decreto 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-11;560#art_81).
+ Nelle ipotesi previste dal primo e quarto comma del presente articolo l'accertamento non puo' essere definito con la dichiarazione prevista dall'[art. 81 del regio decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md).
 
 ### Art. 10.
 
@@ -152,7 +152,7 @@ Gli agenti di cambio, le aziende ed istituti di credito, le societa' finanziarie
  b) la specie, la quantita' e il valore nominale dei titoli, con la indicazione dell'emittente;
  c) la data dell'operazione ed il prezzo fatto;
  d) il termine allo scadere del quale l'operazione deve essere regolata.
- Per gli agenti di cambio il libro giornale di cui all'[art. 17 del regio decreto 9 aprile 1925, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-09;376#art_17), purche' integrato con le annotazioni sopra prescritte, sostituisce il libro previsto dal presente articolo.
+ Per gli agenti di cambio il libro giornale di cui all'[art. 17 del regio decreto 9 aprile 1925, n. 376](Approvazione%20del%20regolamento%20sulle%20Borse.%20025U0376.md), purche' integrato con le annotazioni sopra prescritte, sostituisce il libro previsto dal presente articolo.
  Le operazioni a termine e i riporti su titoli, che non diano luogo alle segnalazioni allo schedario previste dagli [articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-29;239#art_15), [38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-29;239#art_38) e [39 del regio decreto 29 marzo 1942, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-29;239#art_39), devono essere comunicate singolarmente allo schedario stesso con l'indicazione del numero progressivo del libro giornale e degli elementi propri dell'operazione, entro i primi dieci giorni del mese successivo a quello della liquidazione mensile di borsa.
  Nella comunicazione prescritta dagli [articoli 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-29;239#art_38) e [39 del regio decreto 29 marzo 1942, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-29;239#art_39), nonche' nelle distinte e negli elenchi presentati alle stanze di compensazione ai sensi dell'art. 15 del regio decreto medesimo, deve essere indicato il prezzo fatto per i riporti e per le operazioni a termine.
  Per tutte le operazioni indicate nel presente articolo e' obbligatorio l'uso di foglietti bollati, in conformita' alle vigenti disposizioni sul bollo, da staccarsi da appositi libretti a madre, figlia e contromatrice messi in vendita dall'Amministrazione finanziaria, sottoposti a rendiconto, numerati, vistati dagli ispettori del Tesoro delegati alla vigilanza governativa delle Borse valori, secondo le modalita' da stabilirsi con decreto del Ministro per il tesoro.
@@ -172,7 +172,7 @@ A decorrere dal 1° gennaio successivo all'entrata in vigore della presente legg
 
 ### Art. 19.
 
-Nell'elenco annuale previsto dall'[art. 3 del regio decreto-legge 30 gennaio 1933, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-30;18#art_3), i datori di lavoro e gli enti tenuti ad effettuare la ritenuta della imposta di ricchezza mobile e della imposta complementare sulle retribuzioni corrisposte, debbono indicare i seguenti elementi: 
+Nell'elenco annuale previsto dall'[art. 3 del regio decreto-legge 30 gennaio 1933, n. 18](Provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0018.md), i datori di lavoro e gli enti tenuti ad effettuare la ritenuta della imposta di ricchezza mobile e della imposta complementare sulle retribuzioni corrisposte, debbono indicare i seguenti elementi: 
  1) l'ammontare delle retribuzioni corrisposte ad ogni singolo percipiente al lordo e al netto dei contributi a carico dei prestatori di opera, distinguendo le quote esenti per effetto della detrazione di lire 240.000 ragguagliate ad anno, le quote assoggettate alla ritenuta dell'imposta di ricchezza mobile rispettivamente con le aliquote del 4 e dell'8 per cento, la quota assoggettata alla ritenuta per l'imposta complementare. 
  2) la distinta di tutti gli altri versamenti a qualsiasi titolo effettuati ai singoli prestatori d'opera, sui quali non e' stata effettuata la trattenuta; 
  3) l'ammontare complessivo dei contributi obbligatori a carico del datore di lavoro pagati nell'anno e gli estremi dei versamenti agli enti aventi diritto alla percezione dei contributi stessi. 
@@ -305,7 +305,7 @@ E' punito con ammenda da lire 10.000 a lire 50.000 il pubblico ufficiale che pro
 
 ### Art. 40.
 
-Quando la procedura di accertamento o di rettifica sia definita con la dichiarazione prevista dall'[art. 81 del regio decreto 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-11;560#art_81), prima che sia intervenuta alcuna decisione degli organi del contenzioso tributario, ovvero per mancata opposizione del contribuente all'accertamento dell'Ufficio, si osservano le seguenti disposizioni:
+Quando la procedura di accertamento o di rettifica sia definita con la dichiarazione prevista dall'[art. 81 del regio decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), prima che sia intervenuta alcuna decisione degli organi del contenzioso tributario, ovvero per mancata opposizione del contribuente all'accertamento dell'Ufficio, si osservano le seguenti disposizioni:
  1) la soprattassa per infedele dichiarazione e' ridotta ad un sesto della differenza tra l'imposta definitivamente dovuta per un esercizio finanziario e quella che sarebbe stata applicabile in base alla dichiarazione;
  2) la soprattassa per omessa dichiarazione e' ridotta al sesto dell'imposta definitivamente dovuta per un esercizio finanziario. Nel caso previsto al [terzo comma dell'art. 15 del regio decreto 17 settembre 1931, numero 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_15-com3), la soprattassa e' ridotta al decimo dell'imposta definitivamente dovuta per un esercizio finanziario;
  3) qualora la dichiarazione sia stata presentata con un ritardo non superiore ad un mese, la soprattassa e' ridotta ad un dodicesimo dell'imposta definitivamente dovuta per un esercizio finanziario. Ove si tratti delle dichiarazioni stabilite nel [primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_6-com1), [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_6-com2) e [terzo comma dell'art. 6 del regio decreto 17 settembre 1931, numero 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_6-com3), la soprattassa e' ridotta ad un ventesimo dell'imposta definitivamente dovuta per un esercizio finanziario;
@@ -323,7 +323,7 @@ Le aziende e istituti di credito e le societa' finanziarie o fiduciarie, che ril
 
 ### Art. 42.
 
-Per la mancata presentazione degli elenchi previsti nell'art. 18, comma quinto, della presente legge, e nell'[art. 3 del regio decreto 30 gennaio 1933, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-30;18#art_3), modificato dall'art. 19, n. 1, della presente legge, si applica una soprattassa pari alla meta' delle imposte dovute sulle somme o retribuzioni corrisposte, oltre alla ammenda prevista dall'art. 4, primo comma, dello stesso [regio decreto-legge 30 gennaio 1933, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-30;18). 
+Per la mancata presentazione degli elenchi previsti nell'art. 18, comma quinto, della presente legge, e nell'[art. 3 del regio decreto 30 gennaio 1933, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-30;18#art_3), modificato dall'art. 19, n. 1, della presente legge, si applica una soprattassa pari alla meta' delle imposte dovute sulle somme o retribuzioni corrisposte, oltre alla ammenda prevista dall'art. 4, primo comma, dello stesso [regio decreto-legge 30 gennaio 1933, n. 18](Provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0018.md). 
  In caso di ritardo nella presentazione degli elenchi stessi non superiore ad un mese, si applica soltanto la soprattassa ridotta alla meta'. 
  Per l'infedele indicazione negli elenchi delle somme corrisposte si applica la soprattassa pari alla meta' della differenza tra le imposte dovute e quelle risultanti dagli elenchi presentati. 
  Indipendentemente dalla applicazione delle sanzioni stabilite nei commi precedenti, coloro che provvedono ai versamenti prescritti dall'art. 18 senza effettuare la ritenuta a carico dei percipienti delle somme corrisposte sono soggetti a soprattassa pari alla meta' delle imposte non trattenute. 
@@ -335,7 +335,7 @@ Per la mancata o incompleta presentazione degli elenchi prescritti dagli articol
 
 ### Art. 44.
 
-Per l'inosservanza delle disposizioni contenute nell'art. 17 della presente legge si applicano le sanzioni previste nell'[art. 13 della legge 9 febbraio 1942, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-09;96#art_13), e nell'[art. 29 del regio decreto 29 marzo 1942, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-29;239#art_29), ferme restando le sanzioni previste dalle vigenti leggi tributarie per la inosservanza da parte di aziende o istituti di credito, societa' finanziarie e fiduciarie e agenti di cambio, delle prescrizioni contenute nelle leggi stesse.
+Per l'inosservanza delle disposizioni contenute nell'art. 17 della presente legge si applicano le sanzioni previste nell'[art. 13 della legge 9 febbraio 1942, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2025%20ottobre%201941-XIX%20n.%201148%20concernente%20la%20nominativita%20obbligatoria%20dei%20titoli%20azionari.%20042U0096.md), e nell'[art. 29 del regio decreto 29 marzo 1942, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-29;239#art_29), ferme restando le sanzioni previste dalle vigenti leggi tributarie per la inosservanza da parte di aziende o istituti di credito, societa' finanziarie e fiduciarie e agenti di cambio, delle prescrizioni contenute nelle leggi stesse.
 
 ### Art. 45.
 
@@ -362,7 +362,7 @@ Il Ministro per le finanze dispone ogni triennio la pubblicazione degli elenchi 
 
 ### Art. 49.
 
-Gli ultimi due commi dell'[art. 34 del regio decreto - legge 7 agosto 1936, n. 1639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-08-07;1639#art_34), sono cosi' sostituiti:
+Gli ultimi due commi dell'[art. 34 del regio decreto - legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), sono cosi' sostituiti:
  "Alle persone indicate nel comma precedente, ancorche' siano iscritte negli albi professionali, e' vietato per un biennio dalla data indicata nel decreto che riconosce la cessazione dal rapporto di impiego presso l'Amministrazione finanziaria di esercitare le funzioni di assistenza e di rappresentanza nel compartimento o nei compartimenti presso i quali hanno esercitato le loro funzioni nell'ultimo quinquennio.
  "Il termine e' ridotto ad un anno se il rapporto d'impiego sia cessato per collocamento a riposo per limiti di eta' o per anzianita' di servizio o se l'esercizio si svolge fuori del compartimento o dei compartimenti presso i quali il funzionario esercito' le proprie funzioni nell'ultimo quinquennio della sua attivita'".
  "Per ogni violazione della norma prevista dal presente articolo si applica la multa da lire 50.000 a lire 500.000. La condanna comporta l'esclusione per un anno dall'esercizio delle funzioni di assistenza e rappresentanza in aggiunta al periodo stabilito dai commi precedenti".
@@ -375,7 +375,7 @@ La data dell'udienza per la discussione dei ricorsi innanzi alle Commissioni per
 
 ### Art. 51.
 
-L'[art. 28, primo comma, del regio decreto 8 luglio 1937, n. 1516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-08;1516#art_28-com1), e' sostituito dal seguente:
+L'[art. 28, primo comma, del regio decreto 8 luglio 1937, n. 1516](Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md), e' sostituito dal seguente:
  "La mancata presentazione del contribuente a cui e' stata data regolare comunicazione dell'udienza per la discussione del ricorso non impedisce, qualunque ne sia la causa, che la Commissione possa decidere nella controversia; il giudizio sulle domande di differimento per addotta impossibilita' del contribuente a presentarsi e' rimesso al potere discrezionale della Commissione".
 
 ### Art. 52.
@@ -424,7 +424,7 @@ Entro sei mesi dall'entrata in vigore della presente legge, le Camere di commerc
 
 ### Art. 60.
 
-Alle persone che hanno cessato di far parte dell'Amministrazione finanziaria prima della data di entrata in vigore della presente legge continuano ad essere applicate le norme di cui ai due ultimi commi dell'[art. 34 del regio decreto-legge 7 agosto 1936, n. 1639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-08-07;1639#art_34).
+Alle persone che hanno cessato di far parte dell'Amministrazione finanziaria prima della data di entrata in vigore della presente legge continuano ad essere applicate le norme di cui ai due ultimi commi dell'[art. 34 del regio decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md).
 
 ### Art. 61.
 

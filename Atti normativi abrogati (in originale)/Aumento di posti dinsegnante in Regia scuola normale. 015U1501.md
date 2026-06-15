@@ -12,4 +12,4 @@ vigente: true
 
 N. 1501 
  
- Decreto Luogotenenziale 30 settembre 1915, col quale, sulla proposta del ministro dell'istruzione pubblica, di concerto col ministro del tesoro, in applicazione della [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), viene aggiunto alle tabelle organiche per l'anno scolastico 1914-915 un posto di insegnante del ruolo A per l'insegnamento della storia e geografia nella Regia scuola normale di Lucca.
+ Decreto Luogotenenziale 30 settembre 1915, col quale, sulla proposta del ministro dell'istruzione pubblica, di concerto col ministro del tesoro, in applicazione della [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), viene aggiunto alle tabelle organiche per l'anno scolastico 1914-915 un posto di insegnante del ruolo A per l'insegnamento della storia e geografia nella Regia scuola normale di Lucca.

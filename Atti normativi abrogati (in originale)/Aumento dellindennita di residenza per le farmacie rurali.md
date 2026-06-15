@@ -33,7 +33,7 @@ Per il 1950, il contributo annuo da corrispondersi da tutte le farmacie, escluse
 
 Nei Comuni di cui all'art. 332 del testo unico della legge comunale e provinciale 3 marzo 1934, n. 383, il rimborso al Comune previsto dal [secondo comma dell'art. 115 del testo unico della legge sanitaria](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115-com2) 27 luglio 1934, n. 1265, puo' essere effettuato per l'intero ammontare dell'indennita' di residenza di cui all'art. 1. 
  Rimane fermo, in ogni caso, il disposto del terzo comma del citato art. 115. 
- Ove i fondi del capitolo di bilancio previsto dall'[art. 2 del regio decreto 14 febbraio 1935, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-02-14;344#art_2), non siano sufficienti ad una corresponsione integrale, l'indennita' di residenza verra' ridotta in misura uniforme per tutte le farmacie dei Comuni di cui al primo comma.
+ Ove i fondi del capitolo di bilancio previsto dall'[art. 2 del regio decreto 14 febbraio 1935, n. 344](Applicazione%20della%20tassa%20sulle%20farmacie.%20035U0344.md), non siano sufficienti ad una corresponsione integrale, l'indennita' di residenza verra' ridotta in misura uniforme per tutte le farmacie dei Comuni di cui al primo comma.
 
 ## Art. 4.
 

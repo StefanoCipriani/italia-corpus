@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 30 luglio 1990, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;212), recante delega al Governo per l'attuazione di direttive delle Comunita' europee in materia di sanita' e di protezione dei lavoratori, tra cui le direttive sulle specialita' medicinali per uso umano n. 65/65/CEE, n. 75/319/CEE, n. 83/570/CEE, n. 87/21/CEE e loro eventuali modificazioni intervenute entro il termine della delega;
+Vista la [legge 30 luglio 1990, n. 212](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lattuazione%20di%20direttive%20delle%20Comunita%20europee%20in%20materia%20di%20sanita%20e%20di%20protezione%20dei%20lavoratori.md), recante delega al Governo per l'attuazione di direttive delle Comunita' europee in materia di sanita' e di protezione dei lavoratori, tra cui le direttive sulle specialita' medicinali per uso umano n. 65/65/CEE, n. 75/319/CEE, n. 83/570/CEE, n. 87/21/CEE e loro eventuali modificazioni intervenute entro il termine della delega;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 dicembre 1990;
 
@@ -49,7 +49,7 @@ Non sono considerati specialita' medicinali:
                             i medicinali preparati in farmacia in base alle indicazioni della Farmacopea ufficiale e destinati ad essere forniti direttamente ai clienti di tale farmacia.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
@@ -627,7 +627,7 @@ Salvo che il fatto costituisca reato, in caso di violazione delle disposizioni d
 
 7.
 
-Le disposizioni dell'art. 6 e quelle sull'autorizzazione all'immissione in commercio non si applicano, fatto in ogni caso salvo quanto disposto dal testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309), ai quantitativi di medicinali destinati a un trattamento terapeutico non superiore a trenta giorni:
+Le disposizioni dell'art. 6 e quelle sull'autorizzazione all'immissione in commercio non si applicano, fatto in ogni caso salvo quanto disposto dal testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), ai quantitativi di medicinali destinati a un trattamento terapeutico non superiore a trenta giorni:
                         a)
                             che vengano personalmente portati dal viaggiatore al momento dell'ingresso nel territorio nazionale;
                         b)
@@ -665,7 +665,7 @@ Dalla data di entrata in vigore del presente decreto cessano di avere applicazio
 
 6.
 
-E' abrogato il [comma 11 dell'art. 19 della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_19-com11).
+E' abrogato il [comma 11 dell'art. 19 della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md).
 
 Note all'[art. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_26):
  - Gli [articoli 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_161) e [180 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_180), approvato con [R.D. 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), disciplinano, rispettivamente, l'autorizzazione alla produzione, a scopo di vendita, di una "specialita' medicinale" e di "vaccini, virus, tossine e ogni altro prodotto simile" determinato con decreto del Ministro per l'interno (oggi Ministro della sanita').
@@ -692,9 +692,9 @@ Note all'[art. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.de
  Il prefetto, indipendentemente dall'azione penale, puo' ordinare il sequestro dei prodotti non autorizzati o dei quali sia stata revocata l'autorizzazione, ovunque essi si trovino, e la chiusura dell'officina o del locale nei quali tali prodotti siano stati fabbricati o smerciati.
  Il provvedimento del prefetto e' definitivo".
  - Il regolamento approvato con [R.D. 3 marzo 1927, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-03;478), contiene norme per la produzione e il commercio di specialita' medicinali. Gli articoli 10 e 11 di tale regolamento sono cosi' formulati:
- "Art. 10. - I prodotti terapeutici, semplici o composti, preparati dal farmacista a dose o forma di medicamento nella propria farmacia per la vendita diretta al pubblico nella farmacia stessa non sono specialita' medicinali agli effetti del [R.D.L. 7 agosto 1925, n. 1732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-08-07;1732), ma vengono considerati come specialita' qualora siano confezionati come al n. 1 del precedente art. 9, o sia ad essi assegnato un nome speciale che costituisca marchio di fabbrica, ovvero di essi venga fatta pubblicita' in qualsiasi modo e sotto qualsiasi forma.
+ "Art. 10. - I prodotti terapeutici, semplici o composti, preparati dal farmacista a dose o forma di medicamento nella propria farmacia per la vendita diretta al pubblico nella farmacia stessa non sono specialita' medicinali agli effetti del [R.D.L. 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md), ma vengono considerati come specialita' qualora siano confezionati come al n. 1 del precedente art. 9, o sia ad essi assegnato un nome speciale che costituisca marchio di fabbrica, ovvero di essi venga fatta pubblicita' in qualsiasi modo e sotto qualsiasi forma.
  Art. 11. - I prodotti terapeutici semplici e quelli composti, preparati secondo le formule prescritte dalla Farmacopea ufficiale, non possono essere messi in commercio con nome diverso da quello indicato nella Farmacopea ufficiale o come specialita' medicinali a meno che abbiano le caratteristiche di cui all'art. 9".
- - Il [comma 11 dell'art. 19 della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_19-com11), ora abrogato, prevedeva la decadenza della registrazione dei farmaci che non fossero immessi in commercio entro i diciotto mesi successivi alla emanazione del provvedimento di autorizzazione.
+ - Il [comma 11 dell'art. 19 della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), ora abrogato, prevedeva la decadenza della registrazione dei farmaci che non fossero immessi in commercio entro i diciotto mesi successivi alla emanazione del provvedimento di autorizzazione.
 
 ## Art. 27. — Entrata in vigore
 

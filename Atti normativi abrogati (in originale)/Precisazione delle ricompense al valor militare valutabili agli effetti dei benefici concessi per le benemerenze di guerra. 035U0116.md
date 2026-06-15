@@ -29,7 +29,7 @@ Sotto la denominazione «ricompense al valor militare», usata in legge e decret
  a) le onorificenze dell'Ordine militare di Savoia; 
  
  b) le decorazioni al valor militare propriamente dette, e cioe':  
- le medaglie d'oro e d'argento, istituite col R. viglietto 26 marzo 1833; la medaglia di bronzo, istituita con [R. decreto 8 dicembre 1877, n. 5100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-12-08;5100); la croce di guerra al valor militare, istituita col [R. decreto 7 gennaio 1922, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-07;195); 
+ le medaglie d'oro e d'argento, istituite col R. viglietto 26 marzo 1833; la medaglia di bronzo, istituita con [R. decreto 8 dicembre 1877, n. 5100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-12-08;5100); la croce di guerra al valor militare, istituita col [R. decreto 7 gennaio 1922, n. 195](Che%20differenzia%20la%20croce%20di%20guerra%20al%20valor%20militare%20da%20quella%20concessa%20per%20i%20titoli%20comuni%20di%20cui%20al%20R.%20decreto%20n.%20205%20del%2019%20gennaio%201918.%20022U0195.md); 
  
  c) le promozioni straordinarie per merito di guerra. 
  

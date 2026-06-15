@@ -26,7 +26,7 @@ Il numero medio dei sottotenenti di complemento che dovranno prestare servizio d
  
  Il numero massimo degli ufficiali di complemento da richiamare senza assegno durante l'esercizio 1937-38, ai fini dell'avanzamento, previsto dall'art. 68 secondo capoverso del decreto Ministeriale 6 luglio 1934, concernente le norme per la prima applicazione della [legge 7 giugno 1934, n. 899](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20034U0899.md), e' stabilito in duemiladuecento. 
  
- Il numero medio del personale specializzato, arruolato in base al [Regio decreto-legge 31 ottobre 1935, n. 2057](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-31;2057), e' stabilito, per l'esercizio 1937-38, in tremila. 
+ Il numero medio del personale specializzato, arruolato in base al [Regio decreto-legge 31 ottobre 1935, n. 2057](Arruolamento%20volontario%20di%20specializzati%20per%20il%20Regio%20esercito.%20035U2057.md), e' stabilito, per l'esercizio 1937-38, in tremila. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia iuserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

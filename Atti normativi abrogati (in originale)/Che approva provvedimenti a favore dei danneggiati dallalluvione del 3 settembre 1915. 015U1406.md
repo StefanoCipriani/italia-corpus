@@ -28,9 +28,9 @@ Sulla proposta del ministro segretario di Stato per gli affari dell'interno, pre
 
 Al comune di Bari od all'Amministrazione della provincia di Bari sono applicabili, anche pei danni causati dall'alluvione del 3 settembre 1915, le disposizioni dei seguenti articoli della [legge 13 luglio 1905, n. 400: 
  
- Articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-13;400#art_9), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-13;400#art_12), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-13;400#art_15); 
+ Articoli 9](Relativa%20ai%20provvedimenti%20a%20favore%20dei%20danneggiati%20dalle%20alluvioni%20del%20primo%20semestre%201905%20e%20dalluragano%20dei%2023%20e%2025%20giugno%201905.%20005U0400.md), [12](Relativa%20ai%20provvedimenti%20a%20favore%20dei%20danneggiati%20dalle%20alluvioni%20del%20primo%20semestre%201905%20e%20dalluragano%20dei%2023%20e%2025%20giugno%201905.%20005U0400.md), [15](Relativa%20ai%20provvedimenti%20a%20favore%20dei%20danneggiati%20dalle%20alluvioni%20del%20primo%20semestre%201905%20e%20dalluragano%20dei%2023%20e%2025%20giugno%201905.%20005U0400.md); 
  
- [Articolo 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-13;400#art_16), sostituendo alla indicazione della 3ª e 4ª rata delle imposte quella delle rate 5ª o 6ª; 
+ [Articolo 16](Relativa%20ai%20provvedimenti%20a%20favore%20dei%20danneggiati%20dalle%20alluvioni%20del%20primo%20semestre%201905%20e%20dalluragano%20dei%2023%20e%2025%20giugno%201905.%20005U0400.md), sostituendo alla indicazione della 3ª e 4ª rata delle imposte quella delle rate 5ª o 6ª; 
  
  Articolo 19, secondo comma e articolo 20; 
  

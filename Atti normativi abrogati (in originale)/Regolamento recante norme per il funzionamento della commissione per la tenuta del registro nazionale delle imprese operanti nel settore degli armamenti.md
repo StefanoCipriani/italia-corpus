@@ -27,7 +27,7 @@ A D O T T A il seguente regolamento:
 Nelle norme che seguono con le denominazioni abbreviate "legge" e "commissione" si intendono, rispettivamente, la [legge 9 luglio 1990, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185), recante nuove norme sul controllo dell'esportazione, importazione e transito dei materiali d'armamento e la commissione per la tenuta del registro nazionale delle imprese, prevista dall'art. 4, comma 2, della legge.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti normativi qui trascritti.
  Nota all'[art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;185#art_1):
  - Il [comma 2 dell'art. 4 della legge n. 185/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;185#art_4-com2) e' cosi' formulato:

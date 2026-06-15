@@ -12,7 +12,7 @@ IL MINISTRO DELLE FINANZE
 
 Visto il Reale Decreto del 13 ottobre 1870, n. 5920, col quale fu estesa alla Provincia di Roma l'imposta sui redditi della ricchezza mobile a cominciare dal 1° gennaio 1871;
 
-Visto il Regolamento approvato col [Regio Decreto del 25 agosto 1870, n. 5828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-08-25;5828), per l'applicazione della predetta imposta;
+Visto il Regolamento approvato col [Regio Decreto del 25 agosto 1870, n. 5828](Che%20approva%20il%20Regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20070U5828.md), per l'applicazione della predetta imposta;
 
 Visto il Reale Decreto del 15 corrente, n. 12, con cui fu stabilito il periodo entro il quale debbono farsi nella Provincia di Roma le dichiarazioni dei redditi;
 

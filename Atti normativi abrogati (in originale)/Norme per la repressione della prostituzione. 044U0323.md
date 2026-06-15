@@ -20,7 +20,7 @@ Visto il [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visti i [Regi decreti-legge 30 ottobre 1943, n. 2-B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e [29 maggio 1944, n.141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visti i [Regi decreti-legge 30 ottobre 1943, n. 2-B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e [29 maggio 1944, n.141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Vista, la deliberazione del Consiglio dei Ministri;
 
@@ -43,7 +43,7 @@ Il [comma 4 dell'art. 191 del testo unico delle leggi di pubblica sicurezza](htt
 
 Salvo che il fatto costituisca un reato piu' grave, e' punito con l'arresto da sei mesi a due anni e con l'ammenda da lire mille a diecimila colui che, indipendentemente all'esercizio abusivo di un locale di meretricio, faccia opera di adescamento per agevolare la prostituzione. 
  
- Se alcuno determina a compiere tale opera di adescamento una persona non imputabile, si osserva l'[articolo 111 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_111).
+ Se alcuno determina a compiere tale opera di adescamento una persona non imputabile, si osserva l'[articolo 111 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 3.
 

@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduta la [legge 27 giugno 1912, n. 678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;678), che da' disposizioni per gli esami e nelle scuole elementari, popolari e medie; 
+ Veduta la [legge 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md), che da' disposizioni per gli esami e nelle scuole elementari, popolari e medie; 
  
  Veduto il [regolamento 22 giugno 1913, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1216), per gli esami nelle scuole elementari e popolari; 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  b) di maturita'; 
  
- c) di licenza, a norma dell'[art. 10 della legge 8 luglio 1904, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;407#art_10), nei Comuni ove dalle autorita' scolastiche locali ne sia riconosciuta l'utilita', alle quali sessioni d'esami, che saranno regolate dalle stesse norme stabilite per le sessioni ordinarie, saranno ammessi esclusiva ente i militari in attivita' di servizio di quelli in congedo. 
+ c) di licenza, a norma dell'[art. 10 della legge 8 luglio 1904, n. 407](Portante%20provvedimenti%20per%20la%20scuola%20e%20pei%20maestri%20elementari.%20004U0407.md), nei Comuni ove dalle autorita' scolastiche locali ne sia riconosciuta l'utilita', alle quali sessioni d'esami, che saranno regolate dalle stesse norme stabilite per le sessioni ordinarie, saranno ammessi esclusiva ente i militari in attivita' di servizio di quelli in congedo. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

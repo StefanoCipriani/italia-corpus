@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 22 settembre 1947, n. 1105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-22;1105), recante modificazioni all'ordinamento dell'Istituto Poligrafico dello Stato;
 
@@ -27,11 +27,11 @@ L'ultimo comma dell'[art. 2 del decreto legislativo 22 settembre 1947, n. 1105](
 ## Art. 2.
 
 L'[art. 6 del decreto legislativo 22 settembre 1947, n. 1105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-09-22;1105#art_6), e' sostituito dal seguente:
- "E' confermata l'assegnazione in uso all'Istituto Poligrafico dello Stato dei beni immobili indicati nell'[art. 2, secondo comma, della legge 6 dicembre 1928, n. 2744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;2744#art_2-com2).
+ "E' confermata l'assegnazione in uso all'Istituto Poligrafico dello Stato dei beni immobili indicati nell'[art. 2, secondo comma, della legge 6 dicembre 1928, n. 2744](Costituzione%20dellIstituto%20Poligrafico%20dello%20Stato.%20028U2744.md).
  "Gli impianti e gli altri beni mobili costituenti il patrimonio originario dell'Istituto a norma del predetto art. 2, primo comma, si intendono conferiti dallo Stato come fondo di dotazione dell'Istituto medesimo.
- "Di tale fondo fa altresi' parte il valore delle attivita' conferite all'Istituto Poligrafico dello Stato ai sensi dell'[art. 2 del regio decreto-legge 9 luglio 1936, n. 1380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-07-09;1380#art_2).
- "Sul valore del patrimonio costituito e sulla somma di cui al penultimo comma dell'[art. 2 del regio decreto-legge 9 luglio 1936, n. 1380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-07-09;1380#art_2), e' dovuto al Tesoro dello Stato l'interesse annuo del 4% da versare in apposito capitolo del bilancio dell'entrata.
- "In corrispettivo dell'uso degli immobili assegnati all'Istituto Poligrafico dello Stato a norma dell'[art. 2, comma 2°, della legge 6 dicembre 1928, n. 2744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;2744#art_2-com2), l'Istituto stesso e' tenuto a corrispondere al Demanio dello Stato un canone annuo pari al 4% del loro valore.
+ "Di tale fondo fa altresi' parte il valore delle attivita' conferite all'Istituto Poligrafico dello Stato ai sensi dell'[art. 2 del regio decreto-legge 9 luglio 1936, n. 1380](Passaggio%20allIstituto%20Poligrafico%20dello%20Stato%20dellesercizio%20della%20Industria%20Cellulosa%20dItalia%20con%20stabilimento%20in%20Foggia.%20036U1380.md).
+ "Sul valore del patrimonio costituito e sulla somma di cui al penultimo comma dell'[art. 2 del regio decreto-legge 9 luglio 1936, n. 1380](Passaggio%20allIstituto%20Poligrafico%20dello%20Stato%20dellesercizio%20della%20Industria%20Cellulosa%20dItalia%20con%20stabilimento%20in%20Foggia.%20036U1380.md), e' dovuto al Tesoro dello Stato l'interesse annuo del 4% da versare in apposito capitolo del bilancio dell'entrata.
+ "In corrispettivo dell'uso degli immobili assegnati all'Istituto Poligrafico dello Stato a norma dell'[art. 2, comma 2°, della legge 6 dicembre 1928, n. 2744](Costituzione%20dellIstituto%20Poligrafico%20dello%20Stato.%20028U2744.md), l'Istituto stesso e' tenuto a corrispondere al Demanio dello Stato un canone annuo pari al 4% del loro valore.
  "Il valore del patrimonio costituito e degli immobili assegnati in uso verra' stabilito entro tre mesi dall'entrata in vigore del presente decreto con le modalita' che saranno fissate con decreto da emanarsi dal Ministro per il tesoro di concerto con il Ministro per le finanze.
  "La valutazione di cui al precedente comma dovra' essere aggiornata all'inizio di ogni quinquennio con le stesse modalita' di cui al comma precedente".
 

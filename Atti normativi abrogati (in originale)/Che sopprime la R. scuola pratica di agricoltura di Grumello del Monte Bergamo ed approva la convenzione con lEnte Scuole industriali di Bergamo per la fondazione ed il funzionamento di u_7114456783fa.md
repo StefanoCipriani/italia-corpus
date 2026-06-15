@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 10 luglio 1887, n. 4788](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-07-10;4788) (serie 3ª), che riordina la Scuola agraria di Grumello del Monte in Scuola pratica di agricoltura per la provincia di Bergamo;
+Visto il [R. decreto 10 luglio 1887, n. 4788](Che%20riordina%20la%20scuola%20agraria%20di%20Grumello%20del%20Monte.%20087U4788.md) (serie 3ª), che riordina la Scuola agraria di Grumello del Monte in Scuola pratica di agricoltura per la provincia di Bergamo;
 
 Considerato che la scuola stessa non risponde piu' ai bisogni dell'agricoltura locale;
 
@@ -28,7 +28,7 @@ Su proposta del Nostro ministro segretario di Stato per l'agricoltura, di concer
 
 ## Art. 1.
 
-La R. scuola pratica di agricoltura in Grumello del Monte, riordinata con [R. decreto del 10 luglio 1887, n. 4788](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-07-10;4788) (serie 3ª) e' soppressa col 1° luglio 1919.
+La R. scuola pratica di agricoltura in Grumello del Monte, riordinata con [R. decreto del 10 luglio 1887, n. 4788](Che%20riordina%20la%20scuola%20agraria%20di%20Grumello%20del%20Monte.%20087U4788.md) (serie 3ª) e' soppressa col 1° luglio 1919.
 
 ## Art. 2.
 

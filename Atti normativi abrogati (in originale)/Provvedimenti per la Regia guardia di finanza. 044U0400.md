@@ -18,17 +18,17 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-14;1281), e successive modificazioni;
 
-Visto il [R. decreto 10 settembre 1923, n. 2115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-10;2115);
+Visto il [R. decreto 10 settembre 1923, n. 2115](Trattamento%20di%20rafferma%20per%20la%20R.%20guardia%20di%20finanza.%20023U2115.md);
 
-Visto il [R. decreto-legge 13 febbraio 1927, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;282), convertito nella [legge 15 dicembre 1927, n. 2329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-15;2329);
+Visto il [R. decreto-legge 13 febbraio 1927, n. 282](Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U0282.md), convertito nella [legge 15 dicembre 1927, n. 2329](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20282%20riguardante%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U2329.md);
 
-Visto il [R. decreto-legge 5 luglio 1934, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1187), convertito nella [legge 4 aprile 1935, n. 568](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;568);
+Visto il [R. decreto-legge 5 luglio 1934, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1187), convertito nella [legge 4 aprile 1935, n. 568](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decretolegge%205%20luglio%201934%20n.%201187%20che%20reca%20provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20035U0568.md);
 
-Vista la [legge 20 marzo 1940, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-03-20;234);
+Vista la [legge 20 marzo 1940, n. 234](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Aumento%20degli%20organici%20reclutamento%20degli%20ufficiali%20di%20complemento%20avanzamento%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20e%20delega%20al%20Governo%20per%20la%20pubblicazione%20del%20testo%20unico%20dei%20prov_e6d9692fbd55.md);
 
-Vista la [legge 26 marzo 1942, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-03-26;307);
+Vista la [legge 26 marzo 1942, n. 307](Aumento%20di%20contributo%20vestiario%20per%20i%20militari%20della%20Regia%20guardia%20di%20finanza%20e%20concessione%20di%20un%20contributo%20straordinario%20al%20fondo%20massa%20del%20Corpo.%20042U0307.md);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -44,7 +44,7 @@ Per far fronte alle esigenze del servizio d'istituto e di ordine pubblico nei te
  
  4000 finanzieri in servizio effettivo. 
  
- Alla cessazione dell'attuale stato di guerra sara' provveduto al riassorbimento del personale eventualmente in soprannumero rispetto agli organici stabiliti dalla [legge 20 marzo 1940, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-03-20;234), con le vacanze esistenti a quella data e con quelle che si verificheranno successivamente.
+ Alla cessazione dell'attuale stato di guerra sara' provveduto al riassorbimento del personale eventualmente in soprannumero rispetto agli organici stabiliti dalla [legge 20 marzo 1940, n. 234](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Aumento%20degli%20organici%20reclutamento%20degli%20ufficiali%20di%20complemento%20avanzamento%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20e%20delega%20al%20Governo%20per%20la%20pubblicazione%20del%20testo%20unico%20dei%20prov_e6d9692fbd55.md), con le vacanze esistenti a quella data e con quelle che si verificheranno successivamente.
 
 ## Art. 2.
 
@@ -70,7 +70,7 @@ Ai sottufficiali e militari di truppa della Regia guardia di finanza e' corrispo
  
  La spesa per la somministrazione del vestiario ai sottufficiali e ai militari di truppa verra' effettuata con prelevamenti dal Fondo massa della Regia guardia di finanza. 
  
- Restano pertanto abrogati l'[art. 3 del R. decreto-legge 13 febbraio 1927, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;282#art_3), convertito nella [legge 15 dicembre 1927, n. 2329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-15;2329), e la [legge 26 marzo 1942, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-03-26;307). 
+ Restano pertanto abrogati l'[art. 3 del R. decreto-legge 13 febbraio 1927, n. 282](Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U0282.md), convertito nella [legge 15 dicembre 1927, n. 2329](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20282%20riguardante%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U2329.md), e la [legge 26 marzo 1942, n. 307](Aumento%20di%20contributo%20vestiario%20per%20i%20militari%20della%20Regia%20guardia%20di%20finanza%20e%20concessione%20di%20un%20contributo%20straordinario%20al%20fondo%20massa%20del%20Corpo.%20042U0307.md). 
  
  Con decreto del Ministro per il tesoro sara' annualmente determinata la somma che lo Stato deve rimborsare al Fondo massa della Regia guardia di finanza per la fornitura ai militari del Corpo degli oggetti di vestiario e di corredo in conformita' a quanto disposto col presente articolo.
 
@@ -98,9 +98,9 @@ Salvo il diritto di percepire il trattamento piu' favorevole l'indennita' di cui
  
  a) soprassoldo di operazioni intero o ridotto e razione di viveri giornaliera; 
  
- b) premio speciale a favore del personale che non beneficia di alcun trattamento economico di guerra di cui alla [legge 24 marzo 1942, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-03-24;399); 
+ b) premio speciale a favore del personale che non beneficia di alcun trattamento economico di guerra di cui alla [legge 24 marzo 1942, n. 399](Istituzione%20per%20la%20durata%20della%20guerra%20di%20un%20premio%20speciale%20a%20favore%20del%20personale%20militare%20delle%20Forze%20armate%20dello%20Stato%20che%20non%20beneficia%20di%20alcun%20trattamento%20economico%20di%20guerra.%20042U0399.md); 
  
- c) indennita' di fuori residenza di cui all'[art. 49 del R. decreto-legge 19 maggio 1941, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-19;583#art_49); 
+ c) indennita' di fuori residenza di cui all'[art. 49 del R. decreto-legge 19 maggio 1941, n. 583](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md); 
  
  d) premi di operosita' e rendimento anche se concessi a titolo di remunerazione speciale; 
  
@@ -148,7 +148,7 @@ I sottufficiali della Regia guardia di finanza richiamati o trattenuti alle armi
 
 ## Art. 13.
 
-Sono abrogate le disposizioni di cui alla lettera c) dell'art. 2 e quelle di cui all'[art. 3 del R. decreto-legge 5 luglio 1934, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1187#art_3), convertito nella [legge 4 aprile 1935, n. 568](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;568).
+Sono abrogate le disposizioni di cui alla lettera c) dell'art. 2 e quelle di cui all'[art. 3 del R. decreto-legge 5 luglio 1934, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1187#art_3), convertito nella [legge 4 aprile 1935, n. 568](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decretolegge%205%20luglio%201934%20n.%201187%20che%20reca%20provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20035U0568.md).
 
 ## Art. 14.
 

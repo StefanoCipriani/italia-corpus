@@ -20,7 +20,7 @@ Il contributo a titolo di solidarieta' nazionale, di cui all'articolo 38 dello s
 
 ## Art. 2.
 
-La somma per spese sostenute dallo Stato per conto della Regione, ai sensi dell'[articolo 3 del decreto legislativo 12 aprile 1948, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;507#art_3), dovuta a titolo di rimborso dalla Regione, viene determinata, in via definitiva, per lo stesso quinquennio 1972-1976, nell'importo di lire 40 miliardi.
+La somma per spese sostenute dallo Stato per conto della Regione, ai sensi dell'[articolo 3 del decreto legislativo 12 aprile 1948, n. 507](../Decreti%20Legislativi/Disciplina%20provvisoria%20dei%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20la%20Regione%20siciliana.md), dovuta a titolo di rimborso dalla Regione, viene determinata, in via definitiva, per lo stesso quinquennio 1972-1976, nell'importo di lire 40 miliardi.
 
 ## Art. 3.
 

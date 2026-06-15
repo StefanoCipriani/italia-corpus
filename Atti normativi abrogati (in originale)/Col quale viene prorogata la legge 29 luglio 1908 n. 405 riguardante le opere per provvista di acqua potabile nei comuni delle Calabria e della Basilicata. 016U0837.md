@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduti gli articoli 19 e 41 della legge 9 luglio 1008. n. 445, che dichiarano applicabile il beneficio dell'assunzione a totale carico dello Stato della meta' della quota di ammortamento e degli interessi dei mutui che i comuni della Calabria e della Basilicata contraggono per le opere di provvista d'acqua potabile, quando le opere stesse siano iniziate e compiute entro il decennio dalla pubblicazione della [legge 25 giugno 1906, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255), per la Calabria e della [legge 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445), per la Basilicata;
+Veduti gli articoli 19 e 41 della legge 9 luglio 1008. n. 445, che dichiarano applicabile il beneficio dell'assunzione a totale carico dello Stato della meta' della quota di ammortamento e degli interessi dei mutui che i comuni della Calabria e della Basilicata contraggono per le opere di provvista d'acqua potabile, quando le opere stesse siano iniziate e compiute entro il decennio dalla pubblicazione della [legge 25 giugno 1906, n. 255](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), per la Calabria e della [legge 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445), per la Basilicata;
 
 Ritenuto che difficolta' d'ordine generale, non imputabili ai Comuni, hanno spesso impedito ed impediscono di iniziare e compiere i lavori entro i termini come sopra assegnati;
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 11 marzo 1923, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;563);
+Veduto il [R. decreto 11 marzo 1923, n. 563](Che%20istituisce%20assegni%20da%20concedersi%20ad%20italiani%20ed%20a%20stranieri%20per%20seguire%20corsi%20o%20compiere%20studi%20presso%20Universita%20Istituti%20superiori%20e%20scuole%20di%20belle%20arti%20rispettivamente%20dellestero%20e_0cdd7629ee87.md);
 
 Veduto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440);
 

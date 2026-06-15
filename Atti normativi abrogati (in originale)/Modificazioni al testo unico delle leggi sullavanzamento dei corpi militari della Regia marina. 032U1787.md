@@ -40,7 +40,7 @@ L'art. 65 del testo unico citato negli articoli precedenti e modificato con l'[a
  
  «Nel caso di cessazione dalla predetta carica l'ammiraglio di squadra conserva, anche agli effetti della pensione, il solo assegno in godimento alla data di cessazione. 
  
- «Il limite di eta' degli ammiragli di armata rimane stabilito in anni 65, come e' disposto dall'[art. 36 della legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), modificato dall'[art. 1 del R. decreto-legge 8 novembre 1928, n. 2482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-08;2482#art_1). 
+ «Il limite di eta' degli ammiragli di armata rimane stabilito in anni 65, come e' disposto dall'[art. 36 della legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), modificato dall'[art. 1 del R. decreto-legge 8 novembre 1928, n. 2482](Modificazioni%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullo%20stato%20ed%20avanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20028U2482.md). 
  
  «Per gli ammiragli di squadra che ricoprono la carica di designato di armata il limite di eta' e' quello stabilito per gli ammiragli di squadra».
 

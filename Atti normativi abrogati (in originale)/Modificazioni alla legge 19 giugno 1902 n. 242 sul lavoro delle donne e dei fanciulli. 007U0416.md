@@ -84,7 +84,7 @@ Il primo capoverso dell'art. 12 e' cosi modificato:
 
 Il Governo del Re e' autorizzato a raccogliere in un testo unico le disposizioni della presente legge e della [legge 19 giugno 1902, n. 242](Disposizioni%20circa%20il%20lavoro%20delle%20donne%20e%20dei%20fanciulli%20negli%20opifici%20industriali%20laboratori%20ecc.%20002U0242.md). 
  
- Entro sei mesi le norme per l'attuazione della presente legge saranno stabilite e verranno introdotte nel regolamento pubblicato con [R. decreto 29 gennaio 1903, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-01-29;41), in modo da formarne un testo unico da approvarsi con Reale decreto, sentito il parere del Consiglio di Stato, del Consiglio superiore di sanita', del Consiglio dell'industria e del commercio, e del Consiglio del lavoro.
+ Entro sei mesi le norme per l'attuazione della presente legge saranno stabilite e verranno introdotte nel regolamento pubblicato con [R. decreto 29 gennaio 1903, n. 41](Approvazione%20del%20Regolamento%20per%20lesecuzione%20della%20legge%2019%20giugno%20n.%20242%20sul%20lavoro%20delle%20donne%20e%20dei%20fanciulli.%20003U0041.md), in modo da formarne un testo unico da approvarsi con Reale decreto, sentito il parere del Consiglio di Stato, del Consiglio superiore di sanita', del Consiglio dell'industria e del commercio, e del Consiglio del lavoro.
 
 ## Art. 10.
 

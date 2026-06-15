@@ -12,7 +12,7 @@ vigente: true
 
 Le disposizioni del Nostro decreto 14 settembre 1918, n. 1314, relative alla concessione di una indennita' mensile per caro-viveri, contenute negli articoli 1 (primo e quarto comma, modificato come all'[art. 5 del decreto Luogotenenziale 5 gennaio 1919, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-01-05;18#art_5)), 2, 11 e 17, sono estese: 
  
- a) agli ufficiali (compresi gli aspiranti) ed al personale civile di ruolo previsto dal [R. decreto 22 gennaio 1914, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-22;147), agli ufficiali dei Regi corpi di truppe coloniali dell'Eritrea e della Somalia in servizio in Libia, agli ufficiali con assegni coloniali, di cui alla [lettera A) dell'art. 9 del decreto Luogotenenziale 22 dicembre 1918, n. 2100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-12-22;2100#art_9-leta), ed a quelli addetti alle bande irregolari (fisse e mobili) della Tripolitania e della Cirenaica; 
+ a) agli ufficiali (compresi gli aspiranti) ed al personale civile di ruolo previsto dal [R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), agli ufficiali dei Regi corpi di truppe coloniali dell'Eritrea e della Somalia in servizio in Libia, agli ufficiali con assegni coloniali, di cui alla [lettera A) dell'art. 9 del decreto Luogotenenziale 22 dicembre 1918, n. 2100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-12-22;2100#art_9-leta), ed a quelli addetti alle bande irregolari (fisse e mobili) della Tripolitania e della Cirenaica; 
  
  b) agli ufficiali che hanno, in Libia, funzioni civili o politiche, previste dal [decreto Luogotenenziale 2 agosto 1917, n. 1356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-02;1356); 
  
@@ -23,7 +23,7 @@ Le disposizioni del Nostro decreto 14 settembre 1918, n. 1314, relative alla con
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 6 novembre 1919, n. 2244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-06;2244), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 6 novembre 1919, n. 2244](Che%20modifica%20il%20decreto%20Luogotenenziale%2015%20giugno%201919%20n.%201130%20relativo%20alla%20concessione%20della%20indennita%20caro-viveri%20ad%20alcune%20categorie%20di%20militari%20in%20Libia.%20019U2244.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 
@@ -32,7 +32,7 @@ Agli ufficiali della R. guardia di finanza dislocati in Cirenaica aventi trattam
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 6 novembre 1919, n. 2244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-06;2244), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 6 novembre 1919, n. 2244](Che%20modifica%20il%20decreto%20Luogotenenziale%2015%20giugno%201919%20n.%201130%20relativo%20alla%20concessione%20della%20indennita%20caro-viveri%20ad%20alcune%20categorie%20di%20militari%20in%20Libia.%20019U2244.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
@@ -41,7 +41,7 @@ Ai sottufficiali ed ai militari di truppa dei carabinieri Reali della Tripolitan
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 6 novembre 1919, n. 2244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-06;2244), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 6 novembre 1919, n. 2244](Che%20modifica%20il%20decreto%20Luogotenenziale%2015%20giugno%201919%20n.%201130%20relativo%20alla%20concessione%20della%20indennita%20caro-viveri%20ad%20alcune%20categorie%20di%20militari%20in%20Libia.%20019U2244.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in leggo il [R. decreto 22 agosto 1912, n. 986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-08-22;986), che anticipa l'ordine della leva di mare sui nati nel 1892. 
+ E' convertito in leggo il [R. decreto 22 agosto 1912, n. 986](Che%20anticipa%20la%20chiamata%20alle%20armi%20dei%20nati%20nel%201892%20ascritti%20alla%20leva%20di%20mare.%20012U0986.md), che anticipa l'ordine della leva di mare sui nati nel 1892. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come leggo dello Stato. 
  

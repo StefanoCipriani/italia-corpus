@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 aprile 1927, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-14;573), contenente modificazioni all'ordinamento della Corte di cassazione del Regno. 
+ E' convertito in legge il [R. decreto-legge 14 aprile 1927, n. 573](Modificazioni%20allordinamento%20della%20Corte%20di%20cassazione%20del%20Regno.%20027U0573.md), contenente modificazioni all'ordinamento della Corte di cassazione del Regno. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

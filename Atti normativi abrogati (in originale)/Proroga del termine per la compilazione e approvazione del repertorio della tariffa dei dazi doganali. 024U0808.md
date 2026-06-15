@@ -14,7 +14,7 @@ PER GRAZIA DI DIO II PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 5 del R. decreto-legge 11 luglio 1923, n. 1545](Modificazioni%20al%20Regio%20decreto-legge%209%20giugno%201921%20n.%20806%20riguardante%20la%20tariffa%20dei%20dazi%20doganali%20e%20il%20trattamento%20doganale%20di%20alcune%20merci%20originarie%20e%20provenienti%20da%20paesi%20ammessi%20a%20go_45505ecf06d5.md) e il [R. decreto 30 dicembre 1923, n. 3094](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3094);
+Visto l'[art. 5 del R. decreto-legge 11 luglio 1923, n. 1545](Modificazioni%20al%20Regio%20decreto-legge%209%20giugno%201921%20n.%20806%20riguardante%20la%20tariffa%20dei%20dazi%20doganali%20e%20il%20trattamento%20doganale%20di%20alcune%20merci%20originarie%20e%20provenienti%20da%20paesi%20ammessi%20a%20go_45505ecf06d5.md) e il [R. decreto 30 dicembre 1923, n. 3094](Proroga%20del%20termine%20per%20la%20compilazione%20e%20approvazione%20del%20repertorio%20della%20tariffa%20dei%20dazi%20doganali.%20023U3094.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Il termine stabilito dal [R. decreto 30 dicembre 1923, numero 3094](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3094), per la compilazione e l'approvazione del repertorio per l'applicazione della tariffa dei dazi doganali, e' prorogato al 31 luglio 1924.
+Il termine stabilito dal [R. decreto 30 dicembre 1923, numero 3094](Proroga%20del%20termine%20per%20la%20compilazione%20e%20approvazione%20del%20repertorio%20della%20tariffa%20dei%20dazi%20doganali.%20023U3094.md), per la compilazione e l'approvazione del repertorio per l'applicazione della tariffa dei dazi doganali, e' prorogato al 31 luglio 1924.
 
 ## Art. 2.
 

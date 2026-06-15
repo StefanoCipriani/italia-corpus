@@ -28,7 +28,7 @@ Entro il 31 marzo 1996, l'AIMA pubblica appositi bollettini di aggiornamento deg
 
 2.
 
-L'efficacia dell'[articolo 2-bis del decreto-legge 23 dicembre 1994, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-23;727#art_2bis), convertito, con modificazioni, dalla [legge 24 febbraio 1995, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-02-24;46), e' sospesa sino al 31 marzo 1997.
+L'efficacia dell'[articolo 2-bis del decreto-legge 23 dicembre 1994, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-23;727#art_2bis), convertito, con modificazioni, dalla [legge 24 febbraio 1995, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201994%20n.%20727%20recante%20norme%20per%20lavvio%20degli%20interventi%20programmati%20in%20agricoltura%20e%20per%20il%20rientro%20della%20produzione%20lat_8cb4802dedbb.md), e' sospesa sino al 31 marzo 1997.
 
 3.
 
@@ -42,7 +42,7 @@ Ai fini della trattenuta e del versamento del prelievo supplementare, eventualme
 
 1.
 
-Dopo il [comma 5 dell'articolo 5 della legge 26 novembre 1992, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468#art_5-com5), e' inserito il seguente:
+Dopo il [comma 5 dell'articolo 5 della legge 26 novembre 1992, n. 468](Misure%20urgenti%20nel%20settore%20lattiero-caseario.md), e' inserito il seguente:
  "5-bis. A partire dagli adempimenti concernenti il periodo 1995-1996, nella compensazione di cui al comma 5 sono adottati i seguenti criteri, che si applicano anche alla compensazione concernente i produttori non associati ed alla compensazione nazionale, nell'ordine:
  a) in favore dei produttori titolari di quota A e di quota B nei confronti dei quali e' stata disposta la riduzione della quota B, nei limiti del quantitativo ridotto;
  b) in favore dei produttori titolari esclusivamente della quota A che hanno superato la propria quota, nei limiti del 5 per cento della quota medesima;
@@ -51,7 +51,7 @@ Dopo il [comma 5 dell'articolo 5 della legge 26 novembre 1992, n. 468](https://w
 
 2.
 
-Dopo il [comma 12 dell'articolo 5 della legge 26 novembre 1992, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468#art_5-com12), e' inserito il seguente:
+Dopo il [comma 12 dell'articolo 5 della legge 26 novembre 1992, n. 468](Misure%20urgenti%20nel%20settore%20lattiero-caseario.md), e' inserito il seguente:
  "12-bis. Al fine di consentire, ove dovuta, la restituzione ai produttori delle somme trattenute dagli acquirenti, l'AIMA effettua la compensazione nazionale di cui al comma 12, entro il 31 agosto di ciascun anno, sulla base delle dichiarazioni di cui al comma 1, che gli acquirenti sono tenuti a trasmettere, in conformita' al regolamento (CEE) n. 536/1993 della Commissione del 9 marzo 1993, entro il 15 maggio di ciascun anno.".
 
 ## Art. 3.

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sullo stanziamento di cui all'[art. 4 del R. decreto-legge 29 luglio 1925, n. 1313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-29;1313#art_4), possono ordinarsi anche spese per la sperimentazione volta all'utilizzazione agricola dei terreni di bonifica ed alla trasformazione colturale nelle circoscrizioni territoriali del Mezzogiorno e delle Isole. 
+ Sullo stanziamento di cui all'[art. 4 del R. decreto-legge 29 luglio 1925, n. 1313](Provvidenze%20per%20la%20propaganda%20la%20dimostrazione%20e%20la%20sperimentazione%20agraria%20e%20lorganizzazione%20locale%20per%20lattuazione%20dei%20provvedimenti%20intesi%20a%20promuovere%20laumento%20della%20produzione%20granaria.%20025U1313.md), possono ordinarsi anche spese per la sperimentazione volta all'utilizzazione agricola dei terreni di bonifica ed alla trasformazione colturale nelle circoscrizioni territoriali del Mezzogiorno e delle Isole. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

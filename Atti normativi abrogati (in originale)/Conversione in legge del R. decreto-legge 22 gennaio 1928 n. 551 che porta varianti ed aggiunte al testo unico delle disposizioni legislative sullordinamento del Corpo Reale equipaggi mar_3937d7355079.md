@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 gennaio 1928, n. 551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-22;551), che porta varianti ed aggiunte al testo unico delle disposizioni legislative sull'ordinamento del Corpo Reale equipaggi marittimi e lo stato giuridico dei sottufficiali della Regia marina. 
+ E' convertito in legge il [R. decreto-legge 22 gennaio 1928, n. 551](Varianti%20ed%20aggiunte%20al%20testo%20unico%20delle%20disposizioni%20legislative%20sullordinamento%20del%20C.R.E.M.%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20028U0551.md), che porta varianti ed aggiunte al testo unico delle disposizioni legislative sull'ordinamento del Corpo Reale equipaggi marittimi e lo stato giuridico dei sottufficiali della Regia marina. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

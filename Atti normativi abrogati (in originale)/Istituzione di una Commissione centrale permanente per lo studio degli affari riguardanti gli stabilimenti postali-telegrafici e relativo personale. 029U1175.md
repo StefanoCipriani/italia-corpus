@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), riguardante l'ordinamento dell'Amministrazione postale e telegrafica;
+Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), riguardante l'ordinamento dell'Amministrazione postale e telegrafica;
 
 Visto il [R. decreto-legge 29 aprile 1925, n. 988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-29;988), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), riflettente l'ordinamento delle ricevitorie postali telegrafiche e del relativo personale, e successive modificazioni;
 
@@ -24,7 +24,7 @@ Visto il regolamento approvato col [R. decreto 3 gennaio 1926, n. 357](Approvazi
 
 Vista la [legge 11 dicembre 1927, n. 2309](Conversione%20in%20legge%20con%20modificazioni%20del.%20R.%20decreto-legge%2023%20dicembre%201926%20n.%202314%20contenente%20modificazioni%20ai%20Regi%20decreti%2029%20aprile%201925%20n.%20988%20e%2016%20maggio%201926%20n.%20897%20riguardanti%20ri_8e7b375ee3df.md), per quanto si riferisce agli uffici di lª classe;
 
-Visto il [R. decreto-legge 5 marzo 1925, n. 325](Istituzione%20e%20concessione%20degli%20uffici%20secondari%20postali%20telegrafici%20e%20telefonici.%20025U0325.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), riflettente gli uffici secondari postali-telegrafici;
+Visto il [R. decreto-legge 5 marzo 1925, n. 325](Istituzione%20e%20concessione%20degli%20uffici%20secondari%20postali%20telegrafici%20e%20telefonici.%20025U0325.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), riflettente gli uffici secondari postali-telegrafici;
 
 Visto il [R. decreto n. 763 del 29 marzo 1923](Concernente%20la%20istituzione%20di%20speciali%20stabilimenti%20denominati%20Agenzie%20incaricati%20di%20eseguire%20determinati%20servizi%20della%20posta%20dei%20telegrafi%20e%20dei%20telefoni.%20023U0763.md), concernente le agenzie postali e telegrafiche;
 

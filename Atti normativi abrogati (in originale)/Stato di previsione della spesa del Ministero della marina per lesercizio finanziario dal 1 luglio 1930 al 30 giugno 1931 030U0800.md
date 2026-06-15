@@ -14,7 +14,7 @@ Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie
 
 ## Art. 2.
 
-Le assegnazioni stabilite per gli esercizi finanziari 1930-31 e 1931-32, dal [R. decreto-legge 3 ottobre 1929, n. 1830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-03;1830), per il capitolo di parte ordinaria relativo a «Materiali per lavori di nuove costruzioni e di trasformazioni di navi, ecc.» e per il capitolo di parte straordinaria relativo al «Fondo complementare per le nuove costruzioni navali», vengono mantenute nelle rispettive somme di lire 417.000.000 e di lire 183.000.000 anche per ciascuno degli esercizi finanziari 1932-1933 e 1933-34.
+Le assegnazioni stabilite per gli esercizi finanziari 1930-31 e 1931-32, dal [R. decreto-legge 3 ottobre 1929, n. 1830](Aumento%20negli%20stanziamenti%20del%20bilancio%20di%20previsione%20del%20Ministero%20della%20marina%20per%20gli%20esercizi%20finanziari%201930-31%20e%201931-32%20per%20lespletamento%20del%20programma%20navale%20in%20corso%20di%20attuazione.%20029U1830.md), per il capitolo di parte ordinaria relativo a «Materiali per lavori di nuove costruzioni e di trasformazioni di navi, ecc.» e per il capitolo di parte straordinaria relativo al «Fondo complementare per le nuove costruzioni navali», vengono mantenute nelle rispettive somme di lire 417.000.000 e di lire 183.000.000 anche per ciascuno degli esercizi finanziari 1932-1933 e 1933-34.
 
 ## Art. 3.
 
@@ -29,7 +29,7 @@ E' autorizzata la spesa di L. 77.000.000 per lavori portuali interessanti il mig
 
 ## Art. 5.
 
-Le disposizioni dell'art. 20 del testo unico concernente l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato col [R. decreto 2 febbraio 1928, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263), sono estese, in relazione al disposto del successivo art. 44, ai capitoli riguardanti le spese del materiale e della mano d'opera dei Regi arsenali militari marittimi: i relativi prelevamenti non potranno eccedere, durante l'esercizio 1930-31, la somma di L.
+Le disposizioni dell'art. 20 del testo unico concernente l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato col [R. decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono estese, in relazione al disposto del successivo art. 44, ai capitoli riguardanti le spese del materiale e della mano d'opera dei Regi arsenali militari marittimi: i relativi prelevamenti non potranno eccedere, durante l'esercizio 1930-31, la somma di L.
 4.000.000. 
  
  I capitoli, a favore dei quali, nell'esercizio medesimo, potranno operarsi prelevamenti dal fondo a disposizione di cui ai succitati articoli, sono quelli descritti nell'annessa tabella A.

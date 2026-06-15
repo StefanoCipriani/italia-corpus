@@ -18,7 +18,7 @@ Sulla proposta del Ministro per il tesoro;
 
 Decreta:
 
-Il [decreto del Presidente della Repubblica 8 marzo 1965, n. 669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-03-08;669), recante norme sulla decorrenza dell'anno finanziario degli enti pubblici sottoposti al controllo previsto dalla [legge 21 marzo 1958, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259), e' sostituito dal seguente:
+Il [decreto del Presidente della Repubblica 8 marzo 1965, n. 669](../DPR/Norme%20sulla%20decorrenza%20dellanno%20finanziario%20degli%20enti%20pubblici%20sottoposti%20al%20controllo%20previsto%20dalla%20legge%2021%20marzo%201958%20n.%20259.md), recante norme sulla decorrenza dell'anno finanziario degli enti pubblici sottoposti al controllo previsto dalla [legge 21 marzo 1958, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259), e' sostituito dal seguente:
 
 " Visto l'[art. 6 della legge 10 marzo 1964, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-03-10;62#art_6), il quale prescrive la emanazione di decreti del Presidente della Repubblica per il coordinamento delle disposizioni di detta legge con le disposizioni e le norme vigenti in materia di bilanci degli enti pubblici di cui alla [legge 21 marzo 1958, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259), in modo da far coincidere con l'anno solare i termini di riferimento dei rispettivi bilanci e da adottare un conforme sistema di classificazione delle entrate e delle spese;
 

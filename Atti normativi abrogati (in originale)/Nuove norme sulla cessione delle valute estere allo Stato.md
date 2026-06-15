@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 8 dicembre 1934, n. 1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-08;1942), concernente la cessione delle divise e la dichiarazione del possesso dei titoli emessi all'estero;
+Visto il [R. decreto-legge 8 dicembre 1934, n. 1942](Provvedimenti%20concernenti%20la%20cessione%20delle%20divise%20e%20la%20dichiarazione%20del%20possesso%20di%20titoli%20emessi%20allestero.%20034U1942.md), concernente la cessione delle divise e la dichiarazione del possesso dei titoli emessi all'estero;
 
 Visto il decreto Ministeriale 8 dicembre 1934, pubblicato nella Gazzetta Ufficiale dell'8 dicembre 1934, n. 288, relativo all'obbligatorieta' della cessione dei mezzi di pagamento derivanti da esportazione ed alle norme per il commercio di ogni mezzo che possa servire a pagamenti all'estero;
 
@@ -48,7 +48,7 @@ Nulla e' innovato nei riguardi delle esportazioni e delle importazioni per le qu
 
 ## Art. 3.
 
-Senza pregiudizio delle pene stabilite da altre norme legislativo, per le violazioni delle disposizioni del presente decreto si applicano le norme del [R. decreto-legge 5 dicembre 1938, n. 1928](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-12-05;1928), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), fermo in ogni caso quanto e' disposto dalla [legge 28 luglio 1939, n. 1097](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-28;1097), modificata dal [decreto legislativo Luogotenenziale 31 luglio 1945, n. 460](Modificazioni%20alla%20legge%2028%20luglio%201939%20n.%201097%20recante%20disposizioni%20penali%20in%20materia%20di%20scambi%20di%20valute%20e%20di%20commercio%20delloro.%20045U0460.md).
+Senza pregiudizio delle pene stabilite da altre norme legislativo, per le violazioni delle disposizioni del presente decreto si applicano le norme del [R. decreto-legge 5 dicembre 1938, n. 1928](Norme%20per%20la%20repressione%20delle%20violazioni%20delle%20leggi%20valutarie.%20038U1928.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), fermo in ogni caso quanto e' disposto dalla [legge 28 luglio 1939, n. 1097](Disposizioni%20penali%20in%20materia%20di%20scambi%20di%20valute%20di%20commercio%20delloro.%20039U1097.md), modificata dal [decreto legislativo Luogotenenziale 31 luglio 1945, n. 460](Modificazioni%20alla%20legge%2028%20luglio%201939%20n.%201097%20recante%20disposizioni%20penali%20in%20materia%20di%20scambi%20di%20valute%20e%20di%20commercio%20delloro.%20045U0460.md).
 
 ## Art. 4.
 

@@ -19,11 +19,11 @@ E' vietato qualsiasi atto di alienazione delle monete d'oro e d'argento, eccezio
 
 ## Art. 3.
 
-Nel caso di violazione del divieto di cui ai precedenti articoli o delle condizioni e modalita' stabilite dal Ministro per il tesoro, si applicano le disposizioni dell'[art. 2 del R. decreto-legge 3 settembre 1941, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-09-03;882#art_2).
+Nel caso di violazione del divieto di cui ai precedenti articoli o delle condizioni e modalita' stabilite dal Ministro per il tesoro, si applicano le disposizioni dell'[art. 2 del R. decreto-legge 3 settembre 1941, n. 882](Divieto%20dellalienazione%20e%20dellesportazione%20del%20platino%20oro%20argento%20perle%20e%20pietre%20preziose.%20041U0882.md).
 
 ## Art. 4.
 
-Salvo quanto disposto nel presente decreto e ferme restando le disposizioni concernenti la disciplina del commercio dell'oro contemplate dal [R. decreto-legge 14 novembre 1935, n. 1935](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-11-14;1935), il [R. decreto-legge 3 settembre 1941, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-09-03;882) e il [R. decreto 17 ottobre 1941, n. 1330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1330), sono abrogati.
+Salvo quanto disposto nel presente decreto e ferme restando le disposizioni concernenti la disciplina del commercio dell'oro contemplate dal [R. decreto-legge 14 novembre 1935, n. 1935](Disciplina%20del%20commercio%20delloro.%20035U1935.md), il [R. decreto-legge 3 settembre 1941, n. 882](Divieto%20dellalienazione%20e%20dellesportazione%20del%20platino%20oro%20argento%20perle%20e%20pietre%20preziose.%20041U0882.md) e il [R. decreto 17 ottobre 1941, n. 1330](Norme%20integrative%20del%20R.%20decreto-legge%203%20settembre%201941-XIX%20n.%20882%20sul%20divieto%20dellalienazione%20ed%20esportazione%20del%20platino%20oro%20argento%20perle%20e%20pietre%20preziose.%20041U1330.md), sono abrogati.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

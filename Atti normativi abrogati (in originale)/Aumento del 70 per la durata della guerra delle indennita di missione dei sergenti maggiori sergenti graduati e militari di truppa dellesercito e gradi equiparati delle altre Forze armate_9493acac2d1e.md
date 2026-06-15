@@ -16,13 +16,13 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 25 marzo 1943, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-03-25;259);
+Vista la [legge 25 marzo 1943, n. 259](Indennita%20di%20missione%20ai%20sergenti%20maggiori%20sergenti%20graduati%20e%20militari%20di%20truppa.%20043U0259.md);
 
-Visto il [R. decreto-legge 9 maggio 1944, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-09;131);
+Visto il [R. decreto-legge 9 maggio 1944, n. 131](Aumento%20del%20trattamento%20di%20missione%20al%20personale%20statale%20nellinterno%20del%20Regno.%20044U0131.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Per la durata dell'attuale stato di guerra, alle indennita' di missione per l'interno del Regno di cui all'[art. 1 della legge 25 marzo 1943, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-03-25;259#art_1), stabilite a favore dei sergenti maggiori, sergenti, graduati e militari di truppa dell'esercito e gradi corrispondenza delle altre Forze Armate dello Stato, e' portato un aumento del 70 per cento, con decorrenza dal 1° aprile 1944.
+Per la durata dell'attuale stato di guerra, alle indennita' di missione per l'interno del Regno di cui all'[art. 1 della legge 25 marzo 1943, n. 259](Indennita%20di%20missione%20ai%20sergenti%20maggiori%20sergenti%20graduati%20e%20militari%20di%20truppa.%20043U0259.md), stabilite a favore dei sergenti maggiori, sergenti, graduati e militari di truppa dell'esercito e gradi corrispondenza delle altre Forze Armate dello Stato, e' portato un aumento del 70 per cento, con decorrenza dal 1° aprile 1944.
 
 ## Art. 2.
 

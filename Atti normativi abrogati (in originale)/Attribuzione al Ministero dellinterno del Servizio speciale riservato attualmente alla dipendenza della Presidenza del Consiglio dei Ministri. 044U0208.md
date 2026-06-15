@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il «Servizio speciale riservato» istituito presso la Presidenza del Consiglio dei Ministri con il [R. decreto-legge 10 gennaio 1929, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-10;27), e' attribuito al Ministero dell'interno. 
+Il «Servizio speciale riservato» istituito presso la Presidenza del Consiglio dei Ministri con il [R. decreto-legge 10 gennaio 1929, n. 27](Soppressione%20del%20Servizio%20stenografico%20ed%20istituzione%20di%20un%20Servizio%20speciale%20riservato%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri.%20029U0027.md), e' attribuito al Ministero dell'interno. 
  
  Il Ministro per il tesoro e' autorizzato ad apportare le necessarie variazioni di bilancio.
 

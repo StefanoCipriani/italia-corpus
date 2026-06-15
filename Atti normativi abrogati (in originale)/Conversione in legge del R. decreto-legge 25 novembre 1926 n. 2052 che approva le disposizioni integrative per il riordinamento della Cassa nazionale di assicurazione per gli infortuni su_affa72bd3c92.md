@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 novembre 1926, n. 2052](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-25;2052), che approva le disposizioni integrative per il riordinamento della Cassa nazionale di assicurazione per gli infortuni sul lavoro, sopprimendo l'ultima parte del 2º capoverso dell'art. 1: «e sara' applicabile a tutto il personale in servizio presso la Cassa nazionale al 1º giugno 1926». 
+ E' convertito in legge il [R. decreto-legge 25 novembre 1926, n. 2052](Disposizioni%20integrative%20per%20il%20riordinamento%20della%20Cassa%20nazionale%20dassicurazione%20per%20gli%20infortuni%20sul%20lavoro.%20026U2052.md), che approva le disposizioni integrative per il riordinamento della Cassa nazionale di assicurazione per gli infortuni sul lavoro, sopprimendo l'ultima parte del 2º capoverso dell'art. 1: «e sara' applicabile a tutto il personale in servizio presso la Cassa nazionale al 1º giugno 1926». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farlo osservare come legge dello Stato. 
  

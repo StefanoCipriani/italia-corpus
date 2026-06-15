@@ -14,7 +14,7 @@ Visto l'[art. 18 della legge 22 dicembre 1953, n. 955](https://www.normattiva.it
 
 Vista la [legge 3 dicembre 1957, n. 1198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-12-03;1198), che reca modificazioni alla [legge 22 dicembre 1953, n. 955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-12-22;955);
 
-Ritenuto che in conseguenza delle cennate modificazioni si rende necessario emanare nuove norme regolamentari in sostituzione di quelle di cui al [decreto del Presidente della Repubblica 22 marzo 1954, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-03-22;172);
+Ritenuto che in conseguenza delle cennate modificazioni si rende necessario emanare nuove norme regolamentari in sostituzione di quelle di cui al [decreto del Presidente della Repubblica 22 marzo 1954, n. 172](../DPR/Approvazione%20delle%20norme%20di%20esecuzione%20del%20titolo%20I%20della%20legge%2022%20dicembre%201953%20n.%20955%20sullassicurazione%20dei%20crediti%20allesportazione%20soggetti%20a%20rischi%20speciali.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -98,7 +98,7 @@ Nelle convenzioni da stipularsi in base al primo comma dell'art. 8 della legge v
 
 ## Art. 13.
 
-E' abrogato il [decreto del Presidente della Repubblica del 22 marzo 1954, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-03-22;172).
+E' abrogato il [decreto del Presidente della Repubblica del 22 marzo 1954, n. 172](../DPR/Approvazione%20delle%20norme%20di%20esecuzione%20del%20titolo%20I%20della%20legge%2022%20dicembre%201953%20n.%20955%20sullassicurazione%20dei%20crediti%20allesportazione%20soggetti%20a%20rischi%20speciali.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

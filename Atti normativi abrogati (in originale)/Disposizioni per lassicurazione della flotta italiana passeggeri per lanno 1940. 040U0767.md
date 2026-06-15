@@ -14,7 +14,7 @@ Per l'anno 1940, l'assicurazione contro i rischi ordinari delle unita' costituen
 
 ## Art. 2.
 
-Gli enti di assicurazione italiani, autorizzati ad esercitare nel Regno, nel ramo trasporti, ai sensi del [R. decreto-legge 29 aprile 1923, n. 966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-04-29;966), convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e quelli di cui al successivo articolo, sono obbligati a denunciare al Ministero delle corporazioni le quote di rischi ordinari da loro rispettivamente assunte in assicurazione o in riassicurazione o cedute in riassicurazione.
+Gli enti di assicurazione italiani, autorizzati ad esercitare nel Regno, nel ramo trasporti, ai sensi del [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e quelli di cui al successivo articolo, sono obbligati a denunciare al Ministero delle corporazioni le quote di rischi ordinari da loro rispettivamente assunte in assicurazione o in riassicurazione o cedute in riassicurazione.
 
 ## Art. 3.
 

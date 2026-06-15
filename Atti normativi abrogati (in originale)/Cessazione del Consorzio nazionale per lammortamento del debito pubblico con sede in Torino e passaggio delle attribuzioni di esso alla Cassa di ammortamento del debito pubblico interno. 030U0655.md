@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Il Consorzio nazionale di Torino per l'ammortamento del debito pubblico riconosciuto dalla [legge 6 maggio 1866, numero 2892](Che%20autorizza%20il%20Governo%20del%20Re%20a%20concedere%20lesenzione%20dalle%20tasse%20ed%20imposte%20allAssociazione%20denominata%20Consorzio%20Nazionale.%20066U2892.md), e dal R. decreto 14 giugno 1866, e coordinato con la Cassa autonoma di ammortamento col [R. decreto 15 dicembre 1927, n. 2437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-15;2437), cessa di esistere col 31 dicembre 1929.
+Il Consorzio nazionale di Torino per l'ammortamento del debito pubblico riconosciuto dalla [legge 6 maggio 1866, numero 2892](Che%20autorizza%20il%20Governo%20del%20Re%20a%20concedere%20lesenzione%20dalle%20tasse%20ed%20imposte%20allAssociazione%20denominata%20Consorzio%20Nazionale.%20066U2892.md), e dal R. decreto 14 giugno 1866, e coordinato con la Cassa autonoma di ammortamento col [R. decreto 15 dicembre 1927, n. 2437](Coordinamento%20della%20Cassa%20di%20ammortamento%20del%20Debito%20pubblico%20della%20Stato%20con%20il%20Consorzio%20nazionale%20per%20lammortamento%20del%20Debito%20pubblico.%20027U2437.md), cessa di esistere col 31 dicembre 1929.
 
 ## Art. 2.
 
-Tutte le attribuzioni gia' conferite al Consorzio nazionale di Torino con l'[art. 1 del R. decreto 15 dicembre 1927, numero 2437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-15;2437#art_1), vengono demandate alla Cassa autonoma di ammortamento del debito pubblico interno a partire dal 1° gennaio 1930.
+Tutte le attribuzioni gia' conferite al Consorzio nazionale di Torino con l'[art. 1 del R. decreto 15 dicembre 1927, numero 2437](Coordinamento%20della%20Cassa%20di%20ammortamento%20del%20Debito%20pubblico%20della%20Stato%20con%20il%20Consorzio%20nazionale%20per%20lammortamento%20del%20Debito%20pubblico.%20027U2437.md), vengono demandate alla Cassa autonoma di ammortamento del debito pubblico interno a partire dal 1° gennaio 1930.
 
 ## Art. 3.
 

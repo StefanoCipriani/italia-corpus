@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 settembre 1930, n. 1458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-09-26;1458), che modifica quello del 19 maggio 1927, n. 868, recante norme per la disciplina della vendita delle carni fresche e congelate. 
+ E' convertito in legge il [R. decreto-legge 26 settembre 1930, n. 1458](Modificazioni%20al%20R.%20decreto-legge%2019%20maggio%201927%20n.%20868%20recante%20norme%20per%20la%20disciplina%20della%20vendita%20delle%20carni%20fresche%20e%20congelate.%20030U1458.md), che modifica quello del 19 maggio 1927, n. 868, recante norme per la disciplina della vendita delle carni fresche e congelate. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

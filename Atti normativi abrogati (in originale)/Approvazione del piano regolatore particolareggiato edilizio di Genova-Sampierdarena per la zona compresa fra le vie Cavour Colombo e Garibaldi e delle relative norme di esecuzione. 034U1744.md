@@ -64,7 +64,7 @@ Per la procedura abbreviata si seguiranno le seguenti norme:
 
 ## Art. 5.
 
-Il comune di Genova e' autorizzato ad imporre ai proprietari dei beni confinanti e contigui, che siano avvantaggiati dall'attuazione del piano regolatore approvato con la presente legge, i contributi stabiliti dall'[art. 77 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e con le modalita' di applicazione e di esazione stabilite dalla legge stessa, ed agli altri beni comunque avvantaggiati i contributi di miglioria di cui agli articoli 236 e seguenti del testo unico della legge sulla finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175).
+Il comune di Genova e' autorizzato ad imporre ai proprietari dei beni confinanti e contigui, che siano avvantaggiati dall'attuazione del piano regolatore approvato con la presente legge, i contributi stabiliti dall'[art. 77 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e con le modalita' di applicazione e di esazione stabilite dalla legge stessa, ed agli altri beni comunque avvantaggiati i contributi di miglioria di cui agli articoli 236 e seguenti del testo unico della legge sulla finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md).
 
 ## Art. 6.
 

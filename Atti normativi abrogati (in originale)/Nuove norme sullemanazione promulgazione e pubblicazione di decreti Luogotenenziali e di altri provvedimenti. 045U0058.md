@@ -16,15 +16,15 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle disposizioni legislative riguardanti la promulgazione e pubblicazione delle leggi e dei Regi decreti, approvato con [R. decreto 24 settembre 1931, n. 1256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-24;1256);
+Visto il testo unico delle disposizioni legislative riguardanti la promulgazione e pubblicazione delle leggi e dei Regi decreti, approvato con [R. decreto 24 settembre 1931, n. 1256](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20promulgazione%20e%20pubblicazione%20delle%20leggi%20e%20dei%20Regi%20decreti.%20031U1256.md);
 
 Visto il [R. decreto 7 giugno 1923, n.1252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-07;1252), contenente norme per la compilazione e la pubblicazione della Gazzetta Ufficiale del Regno;
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), concernente la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e degli altri provvedimenti;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), concernente la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e degli altri provvedimenti;
 
-Visto il [R. decreto 30 ottobre 1943, n. 3/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-10-30;3), relativo alla pubblicazione di una serie speciale della Gazzetta Ufficiale del Regno;
+Visto il [R. decreto 30 ottobre 1943, n. 3/B](Pubblicazione%20di%20una%20serie%20speciale%20della%20Gazzetta%20Ufficiale%20del%20Regno%20043U0003.md), relativo alla pubblicazione di una serie speciale della Gazzetta Ufficiale del Regno;
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141), sull'istituzione presso la sede del Governo di una sezione speciale della Corte dei conti;
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md), sull'istituzione presso la sede del Governo di una sezione speciale della Corte dei conti;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -34,7 +34,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Le disposizioni contenute nel [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), cessano d'avere efficacia. 
+Le disposizioni contenute nel [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), cessano d'avere efficacia. 
  
 Rimane tuttavia ferma, fino alla data che sara' stabilita dal Presidente del Consiglio dei Ministri, con decreto da pubblicarsi nella Gazzetta Ufficiale del Regno, la sospensione temporanea delle norme che richiedono, per l'emanazione dei decreti Luogotenenziali o di altri provvedimenti, il parere del Consiglio di Stato o di altri organi consultivi o tecnici.
 
@@ -50,7 +50,7 @@ La promulgazione dei decreti Luogotenenziali, da inserirsi nella Raccolta uffici
 
 ## Art. 4.
 
-Il [R. decreto 30 ottobre 1943, n. 3/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-10-30;3), cessa di avere efficacia a partire dal 1° gennaio
+Il [R. decreto 30 ottobre 1943, n. 3/B](Pubblicazione%20di%20una%20serie%20speciale%20della%20Gazzetta%20Ufficiale%20del%20Regno%20043U0003.md), cessa di avere efficacia a partire dal 1° gennaio
 
 1945.
 

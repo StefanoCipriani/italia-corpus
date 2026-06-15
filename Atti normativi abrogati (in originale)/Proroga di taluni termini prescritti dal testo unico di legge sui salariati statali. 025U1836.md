@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il testo unico di legge sui salariati dello Stato approvato con [R. decreto 24 dicembre 1924, n. 2114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-24;2114); 
+ Visto il testo unico di legge sui salariati dello Stato approvato con [R. decreto 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md); 
  
  Visto il [R. decreto-legge 10 maggio 1925, n. 600](Proroga%20di%20alcuni%20termini%20stabiliti%20dal%20testo%20unico%20di%20legge%20sui%20salariati%20dello%20Stato%20approvato%20con%20R.%20decreto%2024%20dicembre%201924%20n.%202114.%20025U0600.md); 
  
@@ -26,11 +26,11 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- La Amministrazioni che entro i termini stabiliti dagli articoli 88 e 90 del testo unico di legge approvato col [R. decreto 24 dicembre 1924, n. 2114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-24;2114), modificati dall'[art. 1 del R. decreto 10 maggio 1925, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-10;600#art_1), non abbiano effettuato il licenziamento degli operai permanenti e degli incaricati stabili risultati in eccedenza in seguito all'inquadramento, ovvero non abbiano disposto la emanazione del regolamento speciale per i salariati da esse dipendenti, potranno a cio' provvedere entro il 1° dicembre 1925.
+ La Amministrazioni che entro i termini stabiliti dagli articoli 88 e 90 del testo unico di legge approvato col [R. decreto 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md), modificati dall'[art. 1 del R. decreto 10 maggio 1925, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-10;600#art_1), non abbiano effettuato il licenziamento degli operai permanenti e degli incaricati stabili risultati in eccedenza in seguito all'inquadramento, ovvero non abbiano disposto la emanazione del regolamento speciale per i salariati da esse dipendenti, potranno a cio' provvedere entro il 1° dicembre 1925.
 
 ## Art. 2.
 
-L'ultimo comma dell'art. 64 del testo unico di legge approvato con [R. decreto 24 dicembre 1924, n. 2114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-24;2114), e' cosi modificato: 
+L'ultimo comma dell'art. 64 del testo unico di legge approvato con [R. decreto 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md), e' cosi modificato: 
  
  «Non sono comprese fra le assenze di cui alle precedenti lettere b), c) e d) quelle dei salariati allontanati dagli stabilimenti per provvedimenti collettivi di cautela sanitaria causati da epidemie, nonche' quelle prescritte durante il periodo di puerperio, dal testo unico di legge sul lavoro delle donne e dei fanciulli, e quelle imposte alle operaie gestanti nell'ultimo periodo della gravidanza». 
  

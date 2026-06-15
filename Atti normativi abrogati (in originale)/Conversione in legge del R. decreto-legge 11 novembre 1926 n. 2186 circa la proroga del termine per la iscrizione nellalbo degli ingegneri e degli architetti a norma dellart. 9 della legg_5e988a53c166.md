@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 novembre 1926, n. 2186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-11;2186), riguardante la proroga del termine per 1a iscrizione nell'albo degli ingegneri e degli architetti a norma dell'[art. 9 della legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395#art_9). 
+ E' convertito in legge il [R. decreto-legge 11 novembre 1926, n. 2186](Proroga%20del%20termine%20per%20la%20iscrizione%20nellalbo%20degli%20ingegneri%20e%20degli%20architetti%20a%20norma%20dellart.%209%20della%20legge%2024%20giugno%201923%20n.%201395.%20026U2186.md), riguardante la proroga del termine per 1a iscrizione nell'albo degli ingegneri e degli architetti a norma dell'[art. 9 della legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395#art_9). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

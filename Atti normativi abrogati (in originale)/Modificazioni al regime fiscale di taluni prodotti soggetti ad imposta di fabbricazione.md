@@ -12,29 +12,29 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visti i decreti Ministeriali in data 8 luglio 1924, che approvano i testi unici di leggi per le imposte di fabbricazione sugli spiriti, sulla birra, nonche' il testo unico per l'imposta di consumo sul gas e sull'energia elettrica e le successive modificazioni;
 
-Visto il [regio decreto 21 ottobre 1923, n. 2335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2335), riguardante nuovi provvedimenti per le imposte di fabbricazione;
+Visto il [regio decreto 21 ottobre 1923, n. 2335](Nuovi%20provvedimenti%20per%20le%20imposte%20di%20fabbricazione.%20023U2335.md), riguardante nuovi provvedimenti per le imposte di fabbricazione;
 
-Visto l'allegato B al [regio decreto-legge 16 gennaio 1986, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1986-01-16;54), convertito nella [legge 4 giugno 1936 n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-04;1334), che istituisce una imposta di fabbricazione sulle fibre tessili artificiali e le successive modificazioni;
+Visto l'allegato B al [regio decreto-legge 16 gennaio 1986, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1986-01-16;54), convertito nella [legge 4 giugno 1936 n. 1334](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2016%20gennaio%201936-XIV%20n.%2054%20portante%20modificazioni%20alla%20tariffa%20generale%20dei%20dazi%20doganali%20listituzione%20di%20una%20imposta%20di%20fabbric_c44448437006.md), che istituisce una imposta di fabbricazione sulle fibre tessili artificiali e le successive modificazioni;
 
 Visto il regio decreto-legge 1°° marzo 1937, n. 226, che modifica il regime fiscale dell'alcool impiegato nella preparazione del marsala, dei liquori, del cognac e di filtri prodotti alcoolici;
 
-Visto il [regio decreto-legge 16 giugno 1938, n. 954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;954), riguardante il regime fiscale degli organi di illuminazione elettrica, convertito nella [legge 19 febbraio 1939 n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-02-19;214), e successive modificazioni;
+Visto il [regio decreto-legge 16 giugno 1938, n. 954](Modificazione%20del%20regime%20fiscale%20degli%20organi%20di%20illuminazione%20elettrica.%20038U0954.md), riguardante il regime fiscale degli organi di illuminazione elettrica, convertito nella [legge 19 febbraio 1939 n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-02-19;214), e successive modificazioni;
 
-Visto il [regio decreto-legge 28 febbraio 1939, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-28;334), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), riguardante il regime fiscale dei prodotti petroliferi e le successive modificazioni;
+Visto il [regio decreto-legge 28 febbraio 1939, n. 334](Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20minerali%20e%20sui%20prodotti%20della%20loro%20lavorazione%20in%20sostituzione%20della%20preesistente%20tassa%20di%20vendita.%20039U0334.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), riguardante il regime fiscale dei prodotti petroliferi e le successive modificazioni;
 
-Visto il [regio decreto-legge 1° giugno 1944, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-06-01;179), concernente la istituzione di un nuovo tipo di contrassegno di Stato per recipienti contenenti liquori;
+Visto il [regio decreto-legge 1° giugno 1944, n. 179](Istituzione%20di%20un%20nuovo%20tipo%20di%20contrassegno%20di%20stato%20per%20i%20recipienti%20contenenti%20liquori.%20044U0179.md), concernente la istituzione di un nuovo tipo di contrassegno di Stato per recipienti contenenti liquori;
 
-Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;237), riguardante nuove disposizioni per i contrassegni di stato per i liquori;
+Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 237](../Decreti%20legislativi%20luogotenenziali/Nuove%20disposizioni%20per%20i%20contrassegni%20di%20Stato%20per%20i%20liquori.%20045U0237.md), riguardante nuove disposizioni per i contrassegni di stato per i liquori;
 
-Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;223), allegati A, D, F, G, H, I, che modificano il regime fiscale degli spiriti, della birra, degli oli di semi, degli organi di illuminazione elettrica, del gas, dell'energia elettrica e dei prodotti petroliferi;
+Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), allegati A, D, F, G, H, I, che modificano il regime fiscale degli spiriti, della birra, degli oli di semi, degli organi di illuminazione elettrica, del gas, dell'energia elettrica e dei prodotti petroliferi;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 5 agosto 1946, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-08-05;43), riguardante modificazioni al regime fiscale dello zucchero e degli altri prodotti zuccherini;
 
-Vista la tariffa per l'applicazione dei dazi doganali, approvata col [regio decreto-legge 9 giugno 1921, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-06-09;806), convertito nella [legge 17 aprile 1925, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;478) e successive modifiche ed aggiunte, comprese quelle di cui al decreto del Capo del Governo 9 aprile 1937, pubblicato nella Gazzetta Ufficiale del 19 detto, numero 91;
+Vista la tariffa per l'applicazione dei dazi doganali, approvata col [regio decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;478) e successive modifiche ed aggiunte, comprese quelle di cui al decreto del Capo del Governo 9 aprile 1937, pubblicato nella Gazzetta Ufficiale del 19 detto, numero 91;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -42,25 +42,25 @@ Sulla proposta del Ministro per le finanze; HA SANZIONATO E PROMULGA:
 
 ### Art. 1. — Misura dell'imposta.
 
-La imposta interna di fabbricazione sugli alcool e la corrispondente sovraimposta di confine, delle quali all'art. 1 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;223), sono elevate a lire 20 mila per ettanidro.
+La imposta interna di fabbricazione sugli alcool e la corrispondente sovraimposta di confine, delle quali all'art. 1 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), sono elevate a lire 20 mila per ettanidro.
 
 ### Art. 2. — Abbuoni.
 
-L'abbuono concesso con l'art. 2 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;223), agli spiriti classificati di seconda categoria e' elevato, per ogni ettanidro accertato agli effetti del tributo, a L. 1600 se provenienti da vino e a L. 1000 Se provenienti: da vinaccia, da cascami della vinificazione e da frutta. Detto abbuono sara' rispettivamente di L. 2000 e di L. 1300 se lo spirito e' stato prodotto in fabbriche munite di misuratore meccanico saggiatore gestite dalle societa' cooperative di cui all'art. 8 del tetto unico delle leggi sugli spiriti approvato con decreto Ministeriale 8 luglio 1924.
+L'abbuono concesso con l'art. 2 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), agli spiriti classificati di seconda categoria e' elevato, per ogni ettanidro accertato agli effetti del tributo, a L. 1600 se provenienti da vino e a L. 1000 Se provenienti: da vinaccia, da cascami della vinificazione e da frutta. Detto abbuono sara' rispettivamente di L. 2000 e di L. 1300 se lo spirito e' stato prodotto in fabbriche munite di misuratore meccanico saggiatore gestite dalle societa' cooperative di cui all'art. 8 del tetto unico delle leggi sugli spiriti approvato con decreto Ministeriale 8 luglio 1924.
  Allo spirito di 1° categoria ottenuto, dalla lavorazione del sorgo e accordato un abbuono di imposta di L. 2000 per ogni ettanidro.
 
 ### Art. 3.
 
 Diritto erariale sugli spiriti di 1ª categoria svincolati.
 
- L'ultimo comma dell'art. 4 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;223), e' modificato come segue:
+ L'ultimo comma dell'art. 4 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), e' modificato come segue:
  "Il Ministro per le finanze ha facolta' di accordare l'impiego di spiriti di 1ª categoria negli usi riservati agli spiriti di 2ª categoria, quando le condizioni del mercato lo richiedano o quando ne sia fatta richiesta per la fabbricazione di profumerie e di medicinali.
  "Gli spiriti di la categoria quando vengano impiegati negli usi riservati a quelli di 2ª categoria a norma del precedente comma, sono sottoposti ai pagamento di un diritto erariale che viene stabilito entro il 30 aprile ed il 31 ottobre di ciascun anno con decreto legislativo su proposta del Ministro per le finanze, di concerto col Ministro per l'agricoltura e per le foreste e con quello per l'industria e commercio.
  "Per il periodo intercedente tra l'entrata in vigore del presente decreto ed il 30 aprile 1947 tale diritto erariale e' stabilito in L. 6000 per ettolitro anidro".
 
 ### Art. 4. — Spiriti denaturati e per usi industriali.
 
-L'art. 5 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;223), e' sostituito come segue:
+L'art. 5 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), e' sostituito come segue:
  "La imposta di cui all'art. 1 e' stabilita nelle misure ridotte appresso indicate per gli spiriti e per i loro residui che siano a norma delle vigenti disposizioni sottoposti a denaturazione o comunque destinati ad essere impiegati in lavorazioni ammesse all'uso degli spiriti denaturati:
 
  1) spiriti di 1ª categoria, per ogni ettolitro anidro. . .L. 2000 2) spiriti di 2ª categoria, per ogni ettolitro anidro. . .L. 1000 
@@ -68,7 +68,7 @@ L'art. 5 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945,
 
 ### Art. 5. — Spirito impiegato nella industria dell'aceto.
 
-L'art. 6 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;223), e' sostituito come segue;
+L'art. 6 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), e' sostituito come segue;
  "Lo spirito impiegato nell'industria dell'aceto e' ammesso al pagamento dell'imposta di fabbricazione nelle misure seguenti:
  a) se di 1ª categoria, per ogni ettolitro anidro . . . . .L. 6000 b) se di 2ª categoria proveniente dal vino, per ogni
  ettolitro anidro. . . . . . . . . . . . . . . . . . . .L. 4400 c) se di 2ª categoria proveniente da altre materie
@@ -79,7 +79,7 @@ L'art. 6 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945,
 
 La nuova misura d'imposta di cui all'art. 1, con gli abbuoni eventualmente spettanti e con il diritto erariale eventualmente dovuto ai sensi dell'art. 3, si applica anche per lo spirito contenuto nei prodotti fabbricati con spirito in cauzione esistenti alla data di entrata in vigore del presente decreto nei magazzini fiduciari o alla data stessa viaggianti.
  Agli spiriti e ai prodotti acoolici, compresi il vermuth, il marsala, i vini liquorosi e i liquori tonici aperitivi a base di vino, gia' liberi dal tributo da chiunque detenuti in quantitativi superiori ai 100 litri idrati si applica l'aumento d'imposta di L. 10.000 per ogni ettolitro anidro. All'uopo i detentori dovranno farne denuncia in idrato ed anidro, entro 20 giorni dalla data, di entrata in vigore del presente decreto, alla competente sezione dell'ufficio tecnico delle imposte di fabbricazione o al piu' vicino ufficio doganale o brigata della guardia di finanza.
- Agli effetti dell'applicazione del 2° comma dell'articolo 17 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223 e del 2° comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;223#art_com2) del presente articolo, per il vermuth, il marsala e i vini liquorosi e i liquori tonici aperitivi a base di vino, l'aumento di imposta sara' liquidato in ragione di gradi 2 per ettolitro idrato.
+ Agli effetti dell'applicazione del 2° comma dell'articolo 17 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223 e del 2° comma](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md) del presente articolo, per il vermuth, il marsala e i vini liquorosi e i liquori tonici aperitivi a base di vino, l'aumento di imposta sara' liquidato in ragione di gradi 2 per ettolitro idrato.
 
 ### Art. 7. — Denuncia giacenza spiriti denaturati e spiriti
  destinati all'industria dell'aceto.
@@ -91,7 +91,7 @@ L'aumento d'imposta di cui agli articoli 4 e 5 si applica:
 
 ### Art. 8. — Contrassegno di Stato - Riduzione di prezzo.
 
-Il prezzo di ogni contrassegno di Stato, da applicare ai recipienti contenenti liquori, gia' fissato in L. 5 dal [regio decreto-legge 13 giugno 1944, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-06-13;179) e dal [decreto legislativo luogotenenziale 26 aprile 1945, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;237), e' ridotto a L. 2 per il taglio fino ad un quarto di litro.
+Il prezzo di ogni contrassegno di Stato, da applicare ai recipienti contenenti liquori, gia' fissato in L. 5 dal [regio decreto-legge 13 giugno 1944, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-06-13;179) e dal [decreto legislativo luogotenenziale 26 aprile 1945, n. 237](../Decreti%20legislativi%20luogotenenziali/Nuove%20disposizioni%20per%20i%20contrassegni%20di%20Stato%20per%20i%20liquori.%20045U0237.md), e' ridotto a L. 2 per il taglio fino ad un quarto di litro.
  Il prezzo di cui sopra verra', applicato per i contrassegni di detto taglio che verranno ceduti dagli uffici ai fabbricanti successivamente alla entrata in vigore del presente decreto.
 
 ### Art. 9. — Misure dell'imposta
@@ -105,7 +105,7 @@ L'aumento della imposta di cui al precedente art. 9 e' dovuto anche per la birra
 
 ### Art. 11. — Trasporto oli di semi.
 
-L'art. 3 dell'allegato F al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;223), e' sostituito dal seguente:
+L'art. 3 dell'allegato F al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), e' sostituito dal seguente:
  "Il trasporto degli oli di semi, comprese le paste di raffinazione assoggettate a tributo, in quantita' superiore ai 25 kg. o ai kg. 100 rispettivamente soggetto in tutto il territorio dello Stato a bolletta di legittimazione, che deve fra l'altro riportare la indicazione dell'uso industriale o alimentare a cui il prodotto e' destinato.
  "Sulle bollette di legittimazione rilasciate per il trasporto degli oli di semi destinati agli usi alimentari devono essere indicati gli estremi del certificato rilasciato dalla competente sezione provinciale della alimentazione (Sepral), che ne autorizza la estrazione.
  "Il deposito fuori fabbrica o raffineria degli oli e delle paste di raffinazione di cui al primo comma del presente articolo in quantita' superiore al quintale, per gli oli, ed ai 5 quintali per le paste, e' soggetto alla vigilanza finanziaria e alla tenuta di apposito registro di carico e scarico. In tal caso il deposito deve essere denunciato alla competente sezione dell'ufficio tecnico delle imposte di fabbricazione".
@@ -128,7 +128,7 @@ In conformita' delle disposizioni che vengono aggiunte in nota alle rispettive v
 
 ### Art. 14. — Misura dell'imposta.
 
-L'[art. 1 del regio decreto-legge 16 giugno 1938, numero 954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;954#art_1), convertito nella [legge 19 febbraio 1939, numero 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-02-19;214), sostituito con l'art. 1 dell'allegato G al [decreto legislativo luogotenenziale 26 aprile 1945, numero 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;223), e' sostituito dal seguente:
+L'[art. 1 del regio decreto-legge 16 giugno 1938, numero 954](Modificazione%20del%20regime%20fiscale%20degli%20organi%20di%20illuminazione%20elettrica.%20038U0954.md), convertito nella [legge 19 febbraio 1939, numero 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-02-19;214), sostituito con l'art. 1 dell'allegato G al [decreto legislativo luogotenenziale 26 aprile 1945, numero 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), e' sostituito dal seguente:
  "L'imposta di fabbricazione sugli organi di illuminazione elettrica e la corrispondente sovrimposta di confine sui prodotti medesimi importati dall'estero, sono stabilite nella misura per ciascuno di essi appresso indicata:
  a) lampade per illuminazione elettrica, ad incandescenza aventi filamenti di carbone o metallico assorbente una potenza:
 
@@ -152,14 +152,14 @@ sono tassate con l'aliquota pari a 4/3 di quella che competerebbe al filamento c
 
 ### Art. 15. — Diritti di licenza officine elettriche
 
-L'art. 4 comma primo punto 4) dell'allegato H al [decreto legislativo luogotenenziale 26 aprile 1945, numero 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;223), e' integrato col seguente capoverso:
+L'art. 4 comma primo punto 4) dell'allegato H al [decreto legislativo luogotenenziale 26 aprile 1945, numero 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), e' integrato col seguente capoverso:
  E' ridotto:
  a) a L. 200, per le officine elettriche a scopo commerciale o cabine o punti di presa di acquirenti di energia elettrica a scopo commerciale, allorquando abbiano una potenza non superiore a 20 Kw;
  b) a L. 500 per quelle che abbiano una potenza installata superiore a 20 ma non a 100 Kw".
 
 ### Art. 16. — Misura dell'imposta.
 
-Le aliquote d'imposta di fabbricazione e le corrispondenti sovrimposte di confine previste dall'art. 1 dell'allegato I al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;223), per i seguenti prodotti petroliferi, sono modificate come appresso:
+Le aliquote d'imposta di fabbricazione e le corrispondenti sovrimposte di confine previste dall'art. 1 dell'allegato I al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), per i seguenti prodotti petroliferi, sono modificate come appresso:
 
  Oli greggi, di petrolio naturali:
 
@@ -214,7 +214,7 @@ Le nuove misure di imposta, stabilite con il precedente articolo, si applicano a
 
 ### Art. 18. — Agevolazioni.
 
-L'art. 3 dell'allegato I al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;223), e' sostituito dal seguente:
+L'art. 3 dell'allegato I al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), e' sostituito dal seguente:
  "Le agevolazioni fiscali accordate ai prodotti petroliferi, sono quelle riportate nelle tabelle A e B allegate al presente decreto e del quale formano parte integrante".
 
 ### Art. 19. — Trattamento doganale dei prodotti contenenti oli di petrolio.
@@ -223,19 +223,19 @@ I prodotti contenenti oli di petrolio ed oli provenienti dalla lavorazione di ca
 
 ### Art. 20. — Cauzioni.
 
-L'[art. 6 del regio decreto 21 ottobre 1923, n. 2335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2335#art_6), e' sostituito dal seguente:
+L'[art. 6 del regio decreto 21 ottobre 1923, n. 2335](Nuovi%20provvedimenti%20per%20le%20imposte%20di%20fabbricazione.%20023U2335.md), e' sostituito dal seguente:
  "Le cauzioni dovute per il trasporto e il deposito di generi gravati di imposta di fabbricazione saranno calcolate in ragione del 10% della imposta che grava sulla massima quantita' di merce che si intende immettere in deposito, ovvero' della quantita' effettivamente trasportata, in modo pero' da non superare la misura di L. 400 per quintale od ettolitro di prodotto liquido e di L. 200 per quintale di prodotto solido.
- Resta fermo quanto dispongono: per gli spiriti l'art. 11, ultimo comma, l'art. 13, ultimo comma e l'art. 15, primo comma, del testo unico 8 luglio 1924; per lo spirito e lo zucchero l'[art. 3 del regio decretolegge 1° marzo 1937, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-03-01;226#art_3); per lo spirito di vino l'art. 12, ultimo comma del [regio decreto-legge 1° marzo 1937, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-03-01;226); per gli oli di semi l'[art. 8 del regio decreto-legge 5 ottobre 1933, n. 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-05;1314#art_8); per gli oli minerali l'[art. 7, primo comma del regio decreto-legge 28 febbraio 1939, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-28;334#art_7-com1); per gli organi di illuminazione elettrica l'[art. 9 del regio decreto-legge 16 giugno 1938, n. 954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;954#art_9)".
+ Resta fermo quanto dispongono: per gli spiriti l'art. 11, ultimo comma, l'art. 13, ultimo comma e l'art. 15, primo comma, del testo unico 8 luglio 1924; per lo spirito e lo zucchero l'[art. 3 del regio decretolegge 1° marzo 1937, n. 226](Modificazioni%20al%20regime%20fiscale%20dellalcool%20impiegato%20nella%20preparazione%20del%20marsala%20del%20vermut%20dei%20liquori%20del%20cognac%20e%20di%20altri%20prodotti%20alcoolici.%20037U0226.md); per lo spirito di vino l'art. 12, ultimo comma del [regio decreto-legge 1° marzo 1937, n. 226](Modificazioni%20al%20regime%20fiscale%20dellalcool%20impiegato%20nella%20preparazione%20del%20marsala%20del%20vermut%20dei%20liquori%20del%20cognac%20e%20di%20altri%20prodotti%20alcoolici.%20037U0226.md); per gli oli di semi l'[art. 8 del regio decreto-legge 5 ottobre 1933, n. 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-05;1314#art_8); per gli oli minerali l'[art. 7, primo comma del regio decreto-legge 28 febbraio 1939, n. 334](Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20minerali%20e%20sui%20prodotti%20della%20loro%20lavorazione%20in%20sostituzione%20della%20preesistente%20tassa%20di%20vendita.%20039U0334.md); per gli organi di illuminazione elettrica l'[art. 9 del regio decreto-legge 16 giugno 1938, n. 954](Modificazione%20del%20regime%20fiscale%20degli%20organi%20di%20illuminazione%20elettrica.%20038U0954.md)".
 
 ### Art. 21. — Spese di vigilanza a carico dei privati.
 
 Sono a carico delle ditte le spese di vigilanza: sui depositi vincolati alla finanza fuori di fabbrica, sulle operazioni relative alla esportazione all'estero di prodotti soggetti ad imposta di fabbricazione con diritto all'abbuono o alla restituzione dell'imposta, sulle operazioni di denaturazione, sui trasporti, sull'impiego e sulle rilavorazioni di prodotti ancora gravati da imposta, quando le rilavorazioni stesse non siano prescritte da leggi, sulle lavorazioni in cui vengono impiegati prodotti gia' liberi da imposta quando le lavorazioni stesse sono, a norma delle vigenti disposizioni, soggette a vigilanza finanziaria e, in generale, su quelle operazioni per le quali l'intervento dell'Amministrazione e' richiesto dalle ditte stesse nel loro interesse o per la concessione di una agevolezza fiscale.
- Per gli oli minerali resta fermo il disposto del [secondo comma dell'art. 7 del regio decreto-legge 28 febbraio 1939, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-28;334#art_7-com2).
- Oltre il caso previsto dal primo comma dell'art. 74 del regolamento approvato con [regio decreto 29 settembre 1895, n. 624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-29;624), sono a carico delle ditte esercenti officine elettriche, le spese per la taratura sul luogo e agli effetti fiscali dei complessi di misura, sempre quando la taratura sia fatta a richiesta della ditta interessata o quando, in seguito a taratura di controllo, si siano riscontrati errori superiori a quelli stabiliti dai [regi decreti in data 11 luglio 1941, nn. 1104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-11;1104) e [1105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-11;1105).
+ Per gli oli minerali resta fermo il disposto del [secondo comma dell'art. 7 del regio decreto-legge 28 febbraio 1939, n. 334](Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20minerali%20e%20sui%20prodotti%20della%20loro%20lavorazione%20in%20sostituzione%20della%20preesistente%20tassa%20di%20vendita.%20039U0334.md).
+ Oltre il caso previsto dal primo comma dell'art. 74 del regolamento approvato con [regio decreto 29 settembre 1895, n. 624](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20che%20stabilisce%20una%20tassa%20sul%20consumo%20del%20gas-luce%20e%20dellenergia%20elettrica%20a%20scopo%20dilluminazione%20e%20riscaldamento%20095U0624.md), sono a carico delle ditte esercenti officine elettriche, le spese per la taratura sul luogo e agli effetti fiscali dei complessi di misura, sempre quando la taratura sia fatta a richiesta della ditta interessata o quando, in seguito a taratura di controllo, si siano riscontrati errori superiori a quelli stabiliti dai [regi decreti in data 11 luglio 1941, nn. 1104](Norme%20per%20la%20costruzione%20laccettazione%20ed%20il%20collaudo%20dei%20contatori%20elettrici.%20041U1104.md) e [1105](Norme%20per%20la%20costruzione%20laccettazione%20ed%20il%20collaudo%20dei%20trasformatori%20elettrici%20di%20misura.%20041U1105.md).
 
 ### Art. 22. — Abrogazione di articolo.
 
-L'art. 7 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;223), e' abrogato.
+L'art. 7 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), e' abrogato.
 
 ### Art. 23. — Testi unici.
 

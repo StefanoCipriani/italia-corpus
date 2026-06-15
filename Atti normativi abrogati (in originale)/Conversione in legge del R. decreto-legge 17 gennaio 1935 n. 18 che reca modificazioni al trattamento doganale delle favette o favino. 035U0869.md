@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 gennaio 1935, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-17;18), che reca modificazioni al trattamento doganale delle favette o favino. 
+ E' convertito in legge il [R. decreto-legge 17 gennaio 1935, n. 18](Modificazione%20del%20trattamento%20doganale%20delle%20favette%20o%20favino.%20035U0018.md), che reca modificazioni al trattamento doganale delle favette o favino. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

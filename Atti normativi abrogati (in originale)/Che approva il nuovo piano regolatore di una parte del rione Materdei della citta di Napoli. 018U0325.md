@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A tutti gli effetti della [legge 11 luglio 1913, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921), e' approvato il piano regolatore 6 dicembre 1916 della parte del rione Materdei della citta' di Napoli, compresa tra le vie Fontanelle, Calata Marrucella, vico Trone alla Salute e due vie di comunicazione con via Salute e la piazzetta Materdei, il quale piano sara', d'ordine Nostro, munito della firma del ministro proponente.
+A tutti gli effetti della [legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md), e' approvato il piano regolatore 6 dicembre 1916 della parte del rione Materdei della citta' di Napoli, compresa tra le vie Fontanelle, Calata Marrucella, vico Trone alla Salute e due vie di comunicazione con via Salute e la piazzetta Materdei, il quale piano sara', d'ordine Nostro, munito della firma del ministro proponente.
 
 ## Art. 2.
 

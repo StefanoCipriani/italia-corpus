@@ -56,7 +56,7 @@ Il [secondo comma dell'articolo 41 della legge 6 giugno 1974, n. 258](https://ww
 
 2.
 
-Le licenze e le autorizzazioni di cui al comma 1 sono soggette, per ciascun veicolo compreso nell'unita' di trasporto, alle tasse di cui al n. 110 della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641).
+Le licenze e le autorizzazioni di cui al comma 1 sono soggette, per ciascun veicolo compreso nell'unita' di trasporto, alle tasse di cui al n. 110 della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md).
 
 3.
 

@@ -398,7 +398,7 @@ Per il colonnello farmacista il limite di eta' e' di anni 60.
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-31;537), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-06-25;1262), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 37.
 
@@ -651,16 +651,16 @@ Il grado si perde per una delle cause seguenti:
  
  1° alla degradazione, destituzione o dimissione, come pena o effetto penale per un reato preveduto nella legge penale militare; 
  
- 2° ad una pena restrittiva della liberta' personale per piu' di tre anni, eccettuato il caso previsto dagli [articoli 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_239) e [242 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_242) comune; 
+ 2° ad una pena restrittiva della liberta' personale per piu' di tre anni, eccettuato il caso previsto dagli [articoli 239](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [242 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune; 
  
- 3° per delitti preveduti negli [articoli 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_168), [335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_335), [345](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_345), [346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_346), [402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_402), [403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_403), [404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_404), [415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_415) e [418 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_418) comune e negli articoli dall'856 all'861 del Codice di commercio; 
+ 3° per delitti preveduti negli [articoli 168](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [335](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [345](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [346](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [402](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [403](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [404](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [415](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [418 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune e negli articoli dall'856 all'861 del Codice di commercio; 
  
  4° ad una pena restrittiva della liberta' personale di qualunque durata, quando siavi congiunta, come pena o effetto penale, la interdizione perpetua o temporanea dai pubblici uffici, ovvero siavi aggiunta per sanzione di legge o per disposizione del giudice la sottoposizione del condannato alla vigilanza speciale dell'autorita' di pubblica sicurezza. 
  
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-31;537), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-06-25;1262), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 72.
 
@@ -846,12 +846,12 @@ Il tenente dei carabinieri Reali, proveniente dagli ufficiali di complemento di 
 
 ### Art. 96.
 
-L'aspettativa per riduzione di quadri senza richiamo in servizio e' regolata dal [R. decreto-legge n. 1600 del 4 settembre 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1600) per gli ufficiali del Regio esercito e dal [R. decreto-legge n. 1938 del 15 ottobre 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;1938) per gli ufficiali della Regia marina. 
+L'aspettativa per riduzione di quadri senza richiamo in servizio e' regolata dal [R. decreto-legge n. 1600 del 4 settembre 1925](Collocamento%20in%20aspettativa%20per%20riduzione%20di%20quadri%20degli%20ufficiali%20del%20Regio%20esercito%20in%20posizione%20ausiliaria%20speciale.%20025U1600.md) per gli ufficiali del Regio esercito e dal [R. decreto-legge n. 1938 del 15 ottobre 1925](Abolizione%20della%20posizione%20ausiliaria%20speciale%20per%20gli%20ufficiali%20della%20Regia%20marina.%20025U1938.md) per gli ufficiali della Regia marina. 
  
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-31;537), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-06-25;1262), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 97.
 
@@ -871,12 +871,12 @@ Gli ufficiali generali che, alla data di entrata in vigore della presente legge,
  
  I relativi posti di organico saranno, a tutti gli effetti, considerati vacanti soltanto dalla data della effettiva cessazione dal servizio degli ufficiali predetti. 
  
- Agli effetti del diritto a pensione della vedova dell'ufficiale che cessi dal servizio permanente per l'applicazione dei limiti di eta' ridotti dalla presente legge, il termine di due anni di cui agli [articoli 13 del R. decreto 18 novembre 1920, n. 1626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-18;1626#art_13), e 3 del [R. decreto 29 novembre 1925, n. 2399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-11-29;2399), va riferito alla data in cui l'ufficiale avrebbe raggiunto i limiti di eta' stabiliti dalle precedenti disposizioni, purche' il matrimonio sia stato celebrato prima della cessazione dal servizio permanente. 
+ Agli effetti del diritto a pensione della vedova dell'ufficiale che cessi dal servizio permanente per l'applicazione dei limiti di eta' ridotti dalla presente legge, il termine di due anni di cui agli [articoli 13 del R. decreto 18 novembre 1920, n. 1626](Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md), e 3 del [R. decreto 29 novembre 1925, n. 2399](Obblighi%20di%20servizio%20trattamento%20economico%20e%20di%20stato%20e%20avanzamento%20degli%20ufficiali%20trasferiti%20dalla%20posizione%20ausiliaria%20speciale%20in%20aspettativa%20per%20riduzione%20di%20quadri%20a%20norma%20del%20R.%20de_488896a9469b.md), va riferito alla data in cui l'ufficiale avrebbe raggiunto i limiti di eta' stabiliti dalle precedenti disposizioni, purche' il matrimonio sia stato celebrato prima della cessazione dal servizio permanente. 
  
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-31;537), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-06-25;1262), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 100.
 

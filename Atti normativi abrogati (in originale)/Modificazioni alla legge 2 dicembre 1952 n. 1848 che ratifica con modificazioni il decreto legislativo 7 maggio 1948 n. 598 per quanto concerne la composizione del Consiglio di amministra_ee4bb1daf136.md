@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [secondo comma dell'art. 2 del decreto legislativo 7 maggio 1948, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;598#art_2-com2), quale risulta dalla legge di ratifica 2 dicembre 1952, n. 1848, e' sostituito dai seguenti:
+Il [secondo comma dell'art. 2 del decreto legislativo 7 maggio 1948, n. 598](../Decreti%20Legislativi/Composizione%20e%20competenza%20del%20Consiglio%20damministrazione%20e%20attribuzioni%20del%20direttore%20generale%20delle%20Ferrovie%20dello%20Stato.md), quale risulta dalla legge di ratifica 2 dicembre 1952, n. 1848, e' sostituito dai seguenti:
  "I consiglieri indicati dalla lettera g) sono designati da tutto il personale dipendente dall'Azienda autonoma delle ferrovie dello Stato, mediante elezione con il sistema proporzionale. Di ogni lista non possono essere eletti piu' di due candidati: il terzo posto e' attribuito a quella, tra le liste minoritarie, che abbia ottenuto il maggior numero di voti.
  Le norme per l'elezione saranno stabilite dal Ministro per i trasporti sentite le organizzazioni sindacali maggiormente rappresentative a carattere nazionale, non di categoria".
 

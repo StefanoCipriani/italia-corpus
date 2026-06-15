@@ -14,7 +14,7 @@ Visto il [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-re
 
 Visto l'[art 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Minist
 
 ## Articolo unico.
 
-La Sezione distaccata di Corte di appello, istituita temporaneamente in Lucera con [regio decreto-legge 20 gennaio 1944, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-20;27), e soppressa con [decreto legislativo luogotenenziale 26 ottobre 1945, n. 782](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-26;782), cessa definitivamente di funzionare col 30 aprile 1947.
+La Sezione distaccata di Corte di appello, istituita temporaneamente in Lucera con [regio decreto-legge 20 gennaio 1944, n. 27](Temporanea%20istituzione%20in%20Lucera%20di%20una%20Sezione%20distaccata%20di%20Corte%20dAppello.%20044U0027.md), e soppressa con [decreto legislativo luogotenenziale 26 ottobre 1945, n. 782](../Decreti%20legislativi%20luogotenenziali/Soppressione%20della%20Sezione%20di%20Corte%20dappello%20di%20Lucera.%20045U0782.md), cessa definitivamente di funzionare col 30 aprile 1947.
  Gli affari civili e penali ancora pendenti alla data predetta, sono di ufficio e nello stato in cui si trovano - devoluti alla cognizione della Corte di appello di Bari.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

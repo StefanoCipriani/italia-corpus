@@ -30,7 +30,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-L'articolo 110, ultimo comma, e l'articolo 111, ultimo comma, del [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) sono abrogati. Sono altresi' abrogati, a partire dal centoventesimo giorno successivo alla data di entrata in vigore del presente decreto, gli articoli 108, 109, 110, commi primo, secondo, terzo e quarto, 111, commi primo, secondo e terzo, 112, 116, comma primo, n. 2), 1171, comma primo, n. 1), 1172 e 1279 del [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), nonche' gli articoli contenuti nel libro I, titolo III, capo IV, del regolamento per l'esecuzione del [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328), per le parti afferenti la navigazione marittima.
+L'articolo 110, ultimo comma, e l'articolo 111, ultimo comma, del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono abrogati. Sono altresi' abrogati, a partire dal centoventesimo giorno successivo alla data di entrata in vigore del presente decreto, gli articoli 108, 109, 110, commi primo, secondo, terzo e quarto, 111, commi primo, secondo e terzo, 112, 116, comma primo, n. 2), 1171, comma primo, n. 1), 1172 e 1279 del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), nonche' gli articoli contenuti nel libro I, titolo III, capo IV, del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), per le parti afferenti la navigazione marittima.
 
 2.
 
@@ -106,7 +106,7 @@ Nell'assunzione di nuovo personale le imprese, a parita' di caratteristiche tecn
 
 1.
 
-Per la trasformazione in societa' delle compagnie e dei gruppi portuali, ivi compresi i gruppi ormeggiatori e barcaioli, si applica il disposto dell'articolo 122 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917).
+Per la trasformazione in societa' delle compagnie e dei gruppi portuali, ivi compresi i gruppi ormeggiatori e barcaioli, si applica il disposto dell'articolo 122 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 2.
 
@@ -116,7 +116,7 @@ Le operazioni suddette sono soggette ad imposta sostitutiva di quelle di registr
 
 1.
 
-Il beneficio di cui all'[articolo 1, comma 1, del decreto-legge 7 settembre 1992, n. 370](Differimento%20di%20termini%20urgenti%20previsti%20da%20disposizioni%20legislative%20in%20materia%20di%20lavoro.md), convertito, con modificazioni, dalla [legge 5 novembre 1992, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-05;428), e' differito al 31 dicembre 1993, nel limite di ulteriori 1.000 unita'.
+Il beneficio di cui all'[articolo 1, comma 1, del decreto-legge 7 settembre 1992, n. 370](Differimento%20di%20termini%20urgenti%20previsti%20da%20disposizioni%20legislative%20in%20materia%20di%20lavoro.md), convertito, con modificazioni, dalla [legge 5 novembre 1992, n. 428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%207%20settembre%201992%20n.%20370%20recante%20differimento%20di%20termini%20urgenti%20previsti%20da%20disposizioni%20legislative%20in%20materia%20di%20lavoro.md), e' differito al 31 dicembre 1993, nel limite di ulteriori 1.000 unita'.
 
 2.
 
@@ -124,7 +124,7 @@ Detto beneficio, qualora non utilizzato pienamente negli anni 1992 e 1993 puo' e
 
 3.
 
-Ai lavoratori, soci o dipendenti operanti in porto ai sensi degli articoli 1 e 2, alla scadenza del beneficio di cui ai commi 1 e 2, si applicano le disposizioni di cui all'[articolo 3, comma 6, del decreto-legge 22 gennaio 1990, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6#art_3-com6), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58), e successive modificazioni ed integrazioni.
+Ai lavoratori, soci o dipendenti operanti in porto ai sensi degli articoli 1 e 2, alla scadenza del beneficio di cui ai commi 1 e 2, si applicano le disposizioni di cui all'[articolo 3, comma 6, del decreto-legge 22 gennaio 1990, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6#art_3-com6), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20gennaio%201990%20n.%206%20recante%20soppressione%20del%20Fondo%20gestione%20istituti%20contrattuali%20lavoratori%20portuali%20e%20interventi%20in%20favore%20dei%20_86b6906dc81d.md), e successive modificazioni ed integrazioni.
 
 4.
 

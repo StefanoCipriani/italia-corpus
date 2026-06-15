@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [decreto Luogotenenziale 27 febbraio 1919, n. 402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-27;402), col quale si sospende temporaneamente l'applicazione di alcuni articoli del regolamento approvato con [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326), e si unificano i bilanci degli Archivi notarili, dettandosi inoltre nuove disposizioni al riguardo;
 
-Visto il [R. decreto 30 settembre 1920, n. 1389](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-09-30;1389);
+Visto il [R. decreto 30 settembre 1920, n. 1389](Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md);
 
 Ritenuto che, in attesa di un riordinamento dei servizi degli archivi notarili, sia indispensabile, oltre che opportuno e conveniente, continuare nel sistema dipendente dalle norme contenute nel detto decreto n. 402, del 1919, almeno pel termine stabilito dal R. decreto n. 1389, sopra indicato;
 

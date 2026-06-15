@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 luglio 1934, numero 1340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-27;1340), riguardante le pensioni del personale militare della Regia aeronautica, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 27 luglio 1934, numero 1340](Trattamento%20di%20pensione%20al%20personale%20militare%20della%20Regia%20aeronautica.%20034U1340.md), riguardante le pensioni del personale militare della Regia aeronautica, con le seguenti modificazioni: 
  
  All'articolo 7 e' aggiunto il seguente penultimo comma: 
  

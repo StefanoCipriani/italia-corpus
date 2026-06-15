@@ -27,7 +27,7 @@ E' autorizzata l'assegnazione di lire cinquecentotrentamila (L.
 
 ## Art. 3.
 
-Per tutti gli atti riguardanti la spesa di cui all'art. 2, e' data facolta' al Governo del Re di derogare dalle norme vigenti in materia di contabilita' e di opere pubbliche, nonche' delta [legge 26 luglio 1888, n. 5594](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-26;5594) (serie 3a). 
+Per tutti gli atti riguardanti la spesa di cui all'art. 2, e' data facolta' al Governo del Re di derogare dalle norme vigenti in materia di contabilita' e di opere pubbliche, nonche' delta [legge 26 luglio 1888, n. 5594](Che%20stabilisce%20le%20norme%20per%20larredamento%20dei%20palazzi%20demaniali%20allestero%20sedi%20di%20missioni%20di%20S.%20M.%20il%20Re%20dItalia.%20088U5594.md) (serie 3a). 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

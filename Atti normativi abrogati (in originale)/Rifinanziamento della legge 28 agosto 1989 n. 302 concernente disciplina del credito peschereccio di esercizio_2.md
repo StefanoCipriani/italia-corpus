@@ -28,7 +28,7 @@ Per l'attuazione della [legge 28 agosto 1989, n. 302](https://www.normattiva.it/
 
 2.
 
-All'onere di cui al comma 1 si provvede mediante utilizzo per lire 9.000 milioni, delle disponibilita' del Fondo centrale per il credito peschereccio di cui all'[articolo 10, comma primo, della legge 17 febbraio 1982, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41#art_10-com1), che all'uopo vengono versate all'entrata del bilancio dello Stato per essere assegnate ad apposito capitolo dello stato di previsione dell'Amministrazione competente.
+All'onere di cui al comma 1 si provvede mediante utilizzo per lire 9.000 milioni, delle disponibilita' del Fondo centrale per il credito peschereccio di cui all'[articolo 10, comma primo, della legge 17 febbraio 1982, n. 41](Piano%20per%20la%20razionalizzazione%20e%20lo%20sviluppo%20della%20pesca%20marittima.md), che all'uopo vengono versate all'entrata del bilancio dello Stato per essere assegnate ad apposito capitolo dello stato di previsione dell'Amministrazione competente.
 
 3.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 agosto 1930, n. 1374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-08-22;1374), concernente la nomina ad ufficiale in servizio permanente effettivo degli allievi delle accademie e delle scuole militari. 
+ E' convertito in legge il [R. decreto-legge 22 agosto 1930, n. 1374](Nomina%20ad%20ufficiale%20in%20servizio%20permanente%20effettivo%20degli%20allievi%20delle%20Accademie%20e%20delle%20Scuole%20militari.%20030U1374.md), concernente la nomina ad ufficiale in servizio permanente effettivo degli allievi delle accademie e delle scuole militari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

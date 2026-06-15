@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-11;14), portante agevolezze doganali per l'importazione di alcune materie prime occorrenti alla fabbricazione di prodotti sintetici. 
+ E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 14](Agevolezze%20doganali%20per%20limportazione%20di%20alcune%20materie%20prime%20occorrenti%20alla%20fabbricazione%20di%20prodotti%20sintetici.%20034U0014.md), portante agevolezze doganali per l'importazione di alcune materie prime occorrenti alla fabbricazione di prodotti sintetici. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

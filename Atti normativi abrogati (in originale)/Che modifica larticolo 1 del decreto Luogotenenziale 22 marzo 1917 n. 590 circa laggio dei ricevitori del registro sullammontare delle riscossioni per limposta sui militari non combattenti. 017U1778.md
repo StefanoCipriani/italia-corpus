@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- In forza dei poteri conferiti al Governo del Re dalla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In forza dei poteri conferiti al Governo del Re dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Veduto il [decreto Luogotenenziale del 22 marzo 1917, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-03-22;590); 
  
@@ -46,7 +46,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Per ogni maggiore somma, L. 0,05 per ogni cento lire. 
  
- Tale aggio non sara' computato agli effetti degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;744#art_1) e [2 della legge 24 dicembre 1908, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;744#art_2), e dell'[art. 2 del R. decreto 22 giugno 1913, n. 845](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;845#art_2). 
+ Tale aggio non sara' computato agli effetti degli [articoli 1](Che%20approva%20le%20tabelle%20per%20il%20riordinamento%20del%20ruolo%20organico%20dei%20ricevitori%20aiuto-ricevitori%20e%20bollatori%20degli%20uffici%20del%20registro.%20008U0744.md) e [2 della legge 24 dicembre 1908, n. 744](Che%20approva%20le%20tabelle%20per%20il%20riordinamento%20del%20ruolo%20organico%20dei%20ricevitori%20aiuto-ricevitori%20e%20bollatori%20degli%20uffici%20del%20registro.%20008U0744.md), e dell'[art. 2 del R. decreto 22 giugno 1913, n. 845](Col%20quale%20viene%20modificato%20lart.%208%20del%20regolamento%20approvato%20con%20R.%20decreto%2018%20marzo%201909%20n.%20158%20riguardante%20laggio%20da%20corrispondersi%20ai%20rivevitori%20demaniali.%20013U0845.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

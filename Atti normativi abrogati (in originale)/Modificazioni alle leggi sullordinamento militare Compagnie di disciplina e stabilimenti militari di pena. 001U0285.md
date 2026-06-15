@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al testo unico delle leggi sull'ordinamento del R. Esercito e dei servizi dipendenti dall'Amministrazione della Guerra, approvato con [R. decreto 14 luglio 1898, n. 525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;525), sono arrecate le seguenti modificazioni: 
+Al testo unico delle leggi sull'ordinamento del R. Esercito e dei servizi dipendenti dall'Amministrazione della Guerra, approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), sono arrecate le seguenti modificazioni: 
  
  1. Art. 21, sostituire il seguente: 
  

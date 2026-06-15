@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto il Nostro decreto 9 novembre 1913, n. 1475, con cui venne approvata e resa esecutoria la convenzione stipulata il 18 ottobre 1913 con la « Societa' Veneta per costruzione ed esercizio di ferrovie secondarie italiane » per la concessione della costruzione e dell'esercizio della ferrovia a scartamento ordinario ed a trazione a vapore da Faenza a Russi, con diramazione da Granarolo a Lugo; 
  
- Visto il Nostro decreto 16 dicembre 1923, n. 3058, convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), con cui e' stato autorizzato il Governo a sciogliere la predetta convenzione e a corrispondere alla Societa' concessionaria, per i lavori seguiti e per i materiali approvvigionati, una annualita' cinquantennale da determinare in base al costo effettivo delle opere e provviste; 
+ Visto il Nostro decreto 16 dicembre 1923, n. 3058, convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), con cui e' stato autorizzato il Governo a sciogliere la predetta convenzione e a corrispondere alla Societa' concessionaria, per i lavori seguiti e per i materiali approvvigionati, una annualita' cinquantennale da determinare in base al costo effettivo delle opere e provviste; 
  
  Vista la [legge 24 maggio 1925, n. 727](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lesercizio%20finanziario%20dal%201%20luglio%201925%20al%2030%20giugno%201926.%20025U0727.md), ed il Nostro decreto settembre 1925, n. 1589; 
  

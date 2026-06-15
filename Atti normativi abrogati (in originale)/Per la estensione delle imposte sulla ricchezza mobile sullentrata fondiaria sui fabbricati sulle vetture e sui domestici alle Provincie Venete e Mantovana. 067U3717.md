@@ -14,11 +14,11 @@ Sono estese alle Provincie Venete e Mantovana con effetto dal 1° gennaio 1867 i
  
  a) L'imposta sui redditi di ricchezza mobile e la tassa sull'entrata fondiaria, secondo la [Legge del 14 luglio 1864, n. 1830](Cui%20e%20stabilita%20unimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20064U1830.md), e secondo il Decreto del 28 giugno 1866, n. 3023; 
  
- b) La [Legge del 26 gennaio 1865, n. 2136](Per%20lunificazione%20dellimposta%20sui%20fabbricati.%20065U2136.md), per l'unificazione dell'imposta dei fabbricati, e quella dell'11 marzo 1865, n° 2276, che determina l'aliquota della imposta stessa, ed il [Regio Decreto 28 giugno 1866, n. 3022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-06-28;3022), che stabili' un'imposta sulle vetture e sui domestici.
+ b) La [Legge del 26 gennaio 1865, n. 2136](Per%20lunificazione%20dellimposta%20sui%20fabbricati.%20065U2136.md), per l'unificazione dell'imposta dei fabbricati, e quella dell'11 marzo 1865, n° 2276, che determina l'aliquota della imposta stessa, ed il [Regio Decreto 28 giugno 1866, n. 3022](Che%20stabilisce%20la%20tariffa%20delle%20tasse%20sulle%20vetture%20pubbliche%20e%20private.%20066U3022.md), che stabili' un'imposta sulle vetture e sui domestici.
 
 ## Art. 2.
 
-Saranno pure applicate con effetto dal 1° gennaio 1867 nelle Provincie Venete ed in quella di Mantova le disposizioni del [Regio Decreto 28 giugno 1866, n. 3023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-06-28;3023), relative alla facolta' data alle Provincie ed ai Comuni di sovrimporre alle imposte dirette, ed ai Comuni di stabilire la tassa sul valore locativo.
+Saranno pure applicate con effetto dal 1° gennaio 1867 nelle Provincie Venete ed in quella di Mantova le disposizioni del [Regio Decreto 28 giugno 1866, n. 3023](Per%20limposta%20fondiaria%20sui%20terreni%20sui%20fabbricati%20e%20sui%20redditi%20della%20ricchezza%20mobile.%20066U3023.md), relative alla facolta' data alle Provincie ed ai Comuni di sovrimporre alle imposte dirette, ed ai Comuni di stabilire la tassa sul valore locativo.
 
 ## Art. 3.
 

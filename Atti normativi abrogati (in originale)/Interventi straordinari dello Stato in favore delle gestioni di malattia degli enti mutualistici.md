@@ -53,11 +53,11 @@ A)|Istituti di credito                                      |1.864.153
 ---------------------------------------------------------------------
 |Fondo nazionale per l'assistenza ospedaliera (articolo 14|
 |del [decreto-legge 8 luglio 1974, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-08;264), convertito, con |
-B)|modificazioni, nella [legge 17 agosto 1974, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-17;386))       |1.317.421
+B)|modificazioni, nella [legge 17 agosto 1974, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20luglio%201974%20n.%20264%20recante%20norme%20per%20lestinzione%20dei%20debiti%20degli%20enti%20mutualistici%20nei%20confronti%20degli%20enti%20ospedalieri%20il%20fina_ef5b4372aa6d.md))       |1.317.421
 ---------------------------------------------------------------------
 |Conto speciale di cui agli articoli 4 e 5 del            |
 |[decreto-legge 8 luglio 1974, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-08;264), convertito, con     |
-C)|modificazioni, nella [legge 17 agosto 1974, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-17;386)        |   83.160
+C)|modificazioni, nella [legge 17 agosto 1974, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20luglio%201974%20n.%20264%20recante%20norme%20per%20lestinzione%20dei%20debiti%20degli%20enti%20mutualistici%20nei%20confronti%20degli%20enti%20ospedalieri%20il%20fina_ef5b4372aa6d.md)        |   83.160
 ---------------------------------------------------------------------
 D)|GES.CA.L.                                                |   94.500
 
@@ -87,7 +87,7 @@ Gli enti di cui al primo comma estingueranno le proprie esposizioni debitorie ve
 
 ## Art. 5.
 
-La somma di lire 1.317.421 milioni di cui alla lettera B) del precedente articolo 3 e' assegnata alle gestioni di assistenza sanitaria dei seguenti enti per consentire agli stessi di estinguere, nel limite degli importi a ciascuno di essi attribuiti, le esposizioni debitorie verso il Fondo nazionale per l'assistenza ospedaliera di cui all'[articolo 14 del decreto-legge 8 luglio 1974, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-08;264#art_14), convertito, con modificazioni, nella [legge 17 agosto 1974, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-17;386):
+La somma di lire 1.317.421 milioni di cui alla lettera B) del precedente articolo 3 e' assegnata alle gestioni di assistenza sanitaria dei seguenti enti per consentire agli stessi di estinguere, nel limite degli importi a ciascuno di essi attribuiti, le esposizioni debitorie verso il Fondo nazionale per l'assistenza ospedaliera di cui all'[articolo 14 del decreto-legge 8 luglio 1974, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-08;264#art_14), convertito, con modificazioni, nella [legge 17 agosto 1974, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20luglio%201974%20n.%20264%20recante%20norme%20per%20lestinzione%20dei%20debiti%20degli%20enti%20mutualistici%20nei%20confronti%20degli%20enti%20ospedalieri%20il%20fina_ef5b4372aa6d.md):
 
 Istituto nazionale per l'assicurazione contro le malattie
                                 1.260.054
@@ -104,7 +104,7 @@ Gli importi di cui al precedente comma saranno fatti affluire, in nome e per con
 
 ## Art. 6.
 
-La somma di lire 83.160 milioni di cui alla lettera C) del precedente articolo 3 e' assegnata alla gestione di assistenza sanitaria dei seguenti enti per consentire agli stessi di estinguere, nel limite degli importi a ciascuno di essi attribuiti, le esposizioni debitorie verso il conto speciale di cui agli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-08;264#art_4) e [5 del decreto-legge 8 luglio 1974, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-08;264#art_5), convertito, con modificazioni, nella [legge 17 agosto 1974, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-17;386):
+La somma di lire 83.160 milioni di cui alla lettera C) del precedente articolo 3 e' assegnata alla gestione di assistenza sanitaria dei seguenti enti per consentire agli stessi di estinguere, nel limite degli importi a ciascuno di essi attribuiti, le esposizioni debitorie verso il conto speciale di cui agli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-08;264#art_4) e [5 del decreto-legge 8 luglio 1974, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-08;264#art_5), convertito, con modificazioni, nella [legge 17 agosto 1974, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20luglio%201974%20n.%20264%20recante%20norme%20per%20lestinzione%20dei%20debiti%20degli%20enti%20mutualistici%20nei%20confronti%20degli%20enti%20ospedalieri%20il%20fina_ef5b4372aa6d.md):
 
 Istituto nazionale per l'assicurazione contro le malattie
                                 75.000

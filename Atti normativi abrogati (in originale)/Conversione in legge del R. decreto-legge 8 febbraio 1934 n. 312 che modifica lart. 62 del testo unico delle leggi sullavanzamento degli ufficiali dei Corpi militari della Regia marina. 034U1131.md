@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 febbraio 1934, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-02-08;312), che modifica l'art. 62 del testo unico delle leggi sull'avanzamento degli ufficiali dei Corpi militari della Regia Marina. 
+ E' convertito in legge il [R. decreto-legge 8 febbraio 1934, n. 312](Modifica%20dellart.%2062%20del%20testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20034U0312.md), che modifica l'art. 62 del testo unico delle leggi sull'avanzamento degli ufficiali dei Corpi militari della Regia Marina. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia, inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

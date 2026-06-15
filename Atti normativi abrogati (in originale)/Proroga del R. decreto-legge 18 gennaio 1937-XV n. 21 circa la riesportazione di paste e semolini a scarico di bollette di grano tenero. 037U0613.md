@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee, approvato col [R. decreto-legge 18 dicembre 1913, n. 1153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-12-18;1153), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), ed il relativo regolamento approvato col [R. decreto 11 aprile 1922, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-11;547);
+Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee, approvato col [R. decreto-legge 18 dicembre 1913, n. 1153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-12-18;1153), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), ed il relativo regolamento approvato col [R. decreto 11 aprile 1922, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-11;547);
 
 Visto il [R. decreto-legge 3 luglio 1930, n. 1025](Ammissione%20di%20nuove%20merci%20al%20beneficio%20della%20temporanea%20importazione.%20030U1025.md), convertito nella [legge 8 gennaio 1931, n. 37](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20luglio%201930%20n.%201025%20che%20ammette%20nuove%20merci%20al%20beneficio%20della%20temporanea%20importazione.%20031U0037.md);
 

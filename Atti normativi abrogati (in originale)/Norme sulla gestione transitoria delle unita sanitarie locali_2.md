@@ -24,11 +24,11 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-I comitati di gestione delle unita' sanitarie locali, nonche' gli organi collegiali di cui alla [legge 15 gennaio 1986, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-15;4), restano in carica per l'esercizio delle rispettive funzioni previste dalla legge vigente fino alla costituzione degli organi di cui ai commi 3 e 7.
+I comitati di gestione delle unita' sanitarie locali, nonche' gli organi collegiali di cui alla [legge 15 gennaio 1986, n. 4](Disposizioni%20transitorie%20nellattesa%20della%20riforma%20istituzionale%20delle%20unita%20sanitarie%20locali.md), restano in carica per l'esercizio delle rispettive funzioni previste dalla legge vigente fino alla costituzione degli organi di cui ai commi 3 e 7.
 
 2.
 
-I provvedimenti di cui all'articolo unico, [comma 1, lettera a), della legge 15 gennaio 1986, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-15;4#art_com1-leta), i piani di attuazione del piano sanitario regionale e la localizzazione di nuovi presidi e servizi autorizzati sono adottati dal commissario e trasmessi al comitato di garanti di cui al comma 3, che esprime le proprie osservazioni obbligatoriamente entro quindici giorni dalla trasmissione. Alla scadenza del suddetto termine sono comunque sottoposti all'approvazione delle giunte delle regioni e delle province autonome di Trento e di Bolzano, nonche' al controllo di legittimita' del comitato regionale di controllo.
+I provvedimenti di cui all'articolo unico, [comma 1, lettera a), della legge 15 gennaio 1986, n. 4](Disposizioni%20transitorie%20nellattesa%20della%20riforma%20istituzionale%20delle%20unita%20sanitarie%20locali.md), i piani di attuazione del piano sanitario regionale e la localizzazione di nuovi presidi e servizi autorizzati sono adottati dal commissario e trasmessi al comitato di garanti di cui al comma 3, che esprime le proprie osservazioni obbligatoriamente entro quindici giorni dalla trasmissione. Alla scadenza del suddetto termine sono comunque sottoposti all'approvazione delle giunte delle regioni e delle province autonome di Trento e di Bolzano, nonche' al controllo di legittimita' del comitato regionale di controllo.
 
 3.
 
@@ -67,7 +67,7 @@ Gli atti del commissario sono inviati, entro dieci giorni dall'adozione, per con
 
 Non possono essere nominati membri del comitato di garanti o commissari delle unita' sanitarie locali e delle unita' socio-sanitarie locali:
                         a)
-                            coloro che hanno riportato condanna, anche non definitiva, a pena detentiva non inferiore ad un anno per delitto non colposo ovvero a pena detentiva non inferiore a sei mesi per delitto non colposo commesso nella qualita' di pubblico ufficiale o con abuso dei poteri o violazione dei doveri inerenti ad una pubblica funzione, salvo quanto disposto dal [secondo comma dell'articolo 166 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_166-com2);
+                            coloro che hanno riportato condanna, anche non definitiva, a pena detentiva non inferiore ad un anno per delitto non colposo ovvero a pena detentiva non inferiore a sei mesi per delitto non colposo commesso nella qualita' di pubblico ufficiale o con abuso dei poteri o violazione dei doveri inerenti ad una pubblica funzione, salvo quanto disposto dal [secondo comma dell'articolo 166 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                         b)
                             coloro che sono sottoposti a procedimento penale per delitto per il quale e' previsto l'arresto obbligatorio in flagranza;
                         c)

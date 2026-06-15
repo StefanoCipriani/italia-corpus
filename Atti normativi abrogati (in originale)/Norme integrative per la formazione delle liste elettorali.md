@@ -10,21 +10,21 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 28 settembre 1944, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-28;247);
+Visto il [decreto legislativo luogotenenziale 28 settembre 1944, n. 247](../Decreti%20legislativi%20luogotenenziali/Compilazione%20delle%20liste%20elettorali.%20044U0247.md);
 
 Visto il decreto del Ministro per l'interno in data 24 ottobre 1944;
 
-Visto il [decreto legislativo luogotenenziale 1° febbraio 1945, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;23);
+Visto il [decreto legislativo luogotenenziale 1° febbraio 1945, n. 23](../Decreti%20legislativi%20luogotenenziali/Estensione%20alle%20donne%20del%20diritto%20di%20voto.%20045U0023.md);
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1945, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;201);
+Visto il [decreto legislativo luogotenenziale 12 aprile 1945, n. 201](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20integrative%20per%20la%20formazione%20delle%20liste%20elettorali.%20045U0201.md);
 
-Visto il [decreto legislativo luogotenenziale 22 aprile 1945, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-22;214);
+Visto il [decreto legislativo luogotenenziale 22 aprile 1945, n. 214](../Decreti%20legislativi%20luogotenenziali/Ripartizione%20dei%20Comuni%20in%20sezioni%20elettorali%20e%20formazione%20delle%20liste%20di%20sezione.%20045U0214.md);
 
-Visto il [decreto legislativo luogotenenziale 18 febbraio 1946, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-18;32);
+Visto il [decreto legislativo luogotenenziale 18 febbraio 1946, n. 32](../Decreti%20legislativi%20luogotenenziali/Procedura%20per%20la%20cancellazione%20dalle%20liste%20elettorali%20di%20coloro%20che%20per%20aver%20ricoperto%20cariche%20fasciste%20o%20per%20altri%20motivi%20dindegnita%20non%20abbiano%20diritto%20di%20voto%20e%20per%20lo%20variazioni%20alle%20_1dc924915f4d.md);
 
-Visto il [decreto legislativo luogotenenziale 10 marzo 1946, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-10;74);
+Visto il [decreto legislativo luogotenenziale 10 marzo 1946, n. 74](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lelezione%20dei%20deputati%20allAssemblea%20Costituente.md);
 
-Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151) ed il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151) ed il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -36,16 +36,16 @@ L'iscrizione nelle liste elettorali e' estesa ai cittadini che, successivamente 
 
 ## Art. 2.
 
-Salvo i casi di incapacita' previsti dall'[art. 5 del decreto legislativo luogotenenziale 10 marzo 1946, numero 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-10;74#art_5), e quelli di esclusione dal diritto di voto stabiliti dall'art. 6 dello stesso decreto, sono iscritti di ufficio nelle liste elettorali coloro che, nonostante il possesso dei requisiti di elettore, ne siano stati omessi per qualsiasi motivo. 
+Salvo i casi di incapacita' previsti dall'[art. 5 del decreto legislativo luogotenenziale 10 marzo 1946, numero 74](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lelezione%20dei%20deputati%20allAssemblea%20Costituente.md), e quelli di esclusione dal diritto di voto stabiliti dall'art. 6 dello stesso decreto, sono iscritti di ufficio nelle liste elettorali coloro che, nonostante il possesso dei requisiti di elettore, ne siano stati omessi per qualsiasi motivo. 
  Sono pure iscritti di ufficio nelle liste elettorali gli elettori che alla data del 31 dicembre 1946 abbiano ottenuta l'iscrizione nel registro di popolazione del Comune dove hanno trasferito la loro residenza e che siano stati cancellati dalle liste del Comune di provenienza.
 
 ## Art. 3.
 
-I cittadini che si trovino nelle condizioni di cui agli articoli precedenti sono iscritti in liste suppletive da compilarsi distintamente per uomini e donne, tenendo presenti le disposizioni del decreto dell Ministro per l'interno in da a 24 ottobre 1944, del decreto legislativo luogotenenziale [12 aprile 1945, n. 201, e del decreto legislativo luogotenenziale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;201) [22 aprile 1945, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-22;214).
+I cittadini che si trovino nelle condizioni di cui agli articoli precedenti sono iscritti in liste suppletive da compilarsi distintamente per uomini e donne, tenendo presenti le disposizioni del decreto dell Ministro per l'interno in da a 24 ottobre 1944, del decreto legislativo luogotenenziale [12 aprile 1945, n. 201, e del decreto legislativo luogotenenziale](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20integrative%20per%20la%20formazione%20delle%20liste%20elettorali.%20045U0201.md) [22 aprile 1945, n. 214](../Decreti%20legislativi%20luogotenenziali/Ripartizione%20dei%20Comuni%20in%20sezioni%20elettorali%20e%20formazione%20delle%20liste%20di%20sezione.%20045U0214.md).
 
 ## Art. 4.
 
-Oltre che nei casi previsti dall'art. 16 del decreto del Ministro per l'interno in data 24 ottobre 1944, dall'[art. 2 del decreto legislativo luogotenenziale 12 aprile 1945, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;201#art_2), e dell'[art. 1 del decreto legislativo luogotenenziale 18 febbraio 1946, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-18;32#art_1), sono cancellati, d'ufficio, dalle liste elettorali coloro che, alla data di entrata in vigore del presente decreto, non risultino iscritti nel registro di popolazione del Comune, salvo che si siano avvalsi o si avvalgano, entro il 15 gennaio 1947, della facolta' prevista dall'[art. 1 del decreto legislativo luogotenenziale 12 aprile 1945, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;201#art_1).
+Oltre che nei casi previsti dall'art. 16 del decreto del Ministro per l'interno in data 24 ottobre 1944, dall'[art. 2 del decreto legislativo luogotenenziale 12 aprile 1945, n. 201](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20integrative%20per%20la%20formazione%20delle%20liste%20elettorali.%20045U0201.md), e dell'[art. 1 del decreto legislativo luogotenenziale 18 febbraio 1946, n. 32](../Decreti%20legislativi%20luogotenenziali/Procedura%20per%20la%20cancellazione%20dalle%20liste%20elettorali%20di%20coloro%20che%20per%20aver%20ricoperto%20cariche%20fasciste%20o%20per%20altri%20motivi%20dindegnita%20non%20abbiano%20diritto%20di%20voto%20e%20per%20lo%20variazioni%20alle%20_1dc924915f4d.md), sono cancellati, d'ufficio, dalle liste elettorali coloro che, alla data di entrata in vigore del presente decreto, non risultino iscritti nel registro di popolazione del Comune, salvo che si siano avvalsi o si avvalgano, entro il 15 gennaio 1947, della facolta' prevista dall'[art. 1 del decreto legislativo luogotenenziale 12 aprile 1945, n. 201](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20integrative%20per%20la%20formazione%20delle%20liste%20elettorali.%20045U0201.md).
 
 ## Art. 5.
 

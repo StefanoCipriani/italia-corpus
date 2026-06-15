@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 settembre 1926, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-20;1643), recante abolizione di talune tasse sugli affari, tra cui alcune speciali istituite durante il periodo bellico e post-bellico, nonche' sgravi e riduzioni in materie di imposte dirette, e nuove norme per una piu' equa applicazione, in determinati casi, delle imposte medesime. 
+ E' convertito in legge il [R. decreto-legge 20 settembre 1926, n. 1643](Abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bellico%20nonche%20sgravi%20e%20riduzioni%20in%20materia%20di%20imposte%20dirette%20e%20nuove%20norme%20p_7c52aec11706.md), recante abolizione di talune tasse sugli affari, tra cui alcune speciali istituite durante il periodo bellico e post-bellico, nonche' sgravi e riduzioni in materie di imposte dirette, e nuove norme per una piu' equa applicazione, in determinati casi, delle imposte medesime. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -18,7 +18,7 @@ E' approvato il bilancio dell'Azienda di Stato per le foreste demaniali, per l'e
 
 ## Art. 3.
 
-L'assegnazione straordinaria, per incoraggiare pubblicazioni ai fini della propaganda tecnica e segnatamente frumentaria, disposta dall'[art. 2 del R. decreto-legge 3 gennaio 1926, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-03;30#art_2), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898) e dal [R. decreto 12 agosto 1927, n. 1719](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-12;1719), e' aumentata di L. 60.000.
+L'assegnazione straordinaria, per incoraggiare pubblicazioni ai fini della propaganda tecnica e segnatamente frumentaria, disposta dall'[art. 2 del R. decreto-legge 3 gennaio 1926, n. 30](Integrazione%20delle%20provvidenze%20per%20la%20propaganda%20granaria.%20026U0030.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md) e dal [R. decreto 12 agosto 1927, n. 1719](Integrazione%20delle%20disposizioni%20dellart.%202%20del%20R.%20decreto-legge%203%20gennaio%201926%20n.%2030%20relativo%20ad%20incoraggiamenti%20per%20pubblicazioni%20di%20propaganda%20agraria%20e%20specialmente%20granaria.%20027U1719.md), e' aumentata di L. 60.000.
 
 ## Art. 4.
 

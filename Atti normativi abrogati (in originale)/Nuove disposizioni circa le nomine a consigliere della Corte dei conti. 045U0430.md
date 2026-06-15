@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [R. decreto-legge 14 marzo 1938, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-14;165), convertito nella [legge 7 giugno 1938, n. 816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-06-07;816), modificato dall'[art. 2 del R. decreto 11 dicembre 1941, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-12-11;1404#art_2), e' abrogato.
+Il [R. decreto-legge 14 marzo 1938, n. 165](Modificazioni%20alle%20norme%20per%20la%20nomina%20a%20consigliere%20della%20Corte%20dei%20conti.%20038U0165.md), convertito nella [legge 7 giugno 1938, n. 816](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20marzo%201938-XVI%20n.%20165%20che%20apporta%20modificazioni%20alle%20norme%20per%20la%20nomina%20a%20consigliere%20della%20Corte%20dei%20conti.%20038U0816.md), modificato dall'[art. 2 del R. decreto 11 dicembre 1941, n. 1404](Norme%20per%20lapplicazione%20del%20R.%20decreto-legge%2028%20giugno%201941-XIX%20n.%20856%20concernente%20il%20riassetto%20del%20servizi%20della%20Corte%20dei%20conti.%20041U1404.md), e' abrogato.
 
 ## Art. 2.
 

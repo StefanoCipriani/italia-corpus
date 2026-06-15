@@ -40,7 +40,7 @@ Il ricorso dev'essere presentato alla cancelleria della Corte di Cassazione, che
 ----------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [D.L. 22 dicembre 2008, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), convertito con modificazioni dalla [L. 18 febbraio 2009, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [D.L. 22 dicembre 2008, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), convertito con modificazioni dalla [L. 18 febbraio 2009, n. 9](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%202008%20n.%20200%20recante%20misure%20urgenti%20in%20materia%20di%20semplificazione%20normativa.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 

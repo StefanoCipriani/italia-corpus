@@ -22,7 +22,7 @@ Visti gli accordi intervenuti con il Governo Militare Alleato;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), riguardante l'Assemblea per la nuova, costituzione dello Stato, il giuramento dei Membri del Governo a la facolta' del Governo di emanare norme giuridiche;
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), concernente la sospensione delle norme relative alla emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), concernente la sospensione delle norme relative alla emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
 
 Visto il [R. decreto-legge 29 maggio 1941, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-29;141), per la istituzione presso la sede del Governo di una Sezione speciale di controllo della Corte dei conti;
 

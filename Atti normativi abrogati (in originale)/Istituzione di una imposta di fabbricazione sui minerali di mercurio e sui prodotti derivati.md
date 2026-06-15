@@ -91,7 +91,7 @@ Il credito dello Stato per i diritti derivanti dall'applicazione del presente de
 Chiunque sottrae, con qualunque mezzo, i prodotti contemplati nell'art. 1 del presente decreto all'accertamento o al pagamento della imposta, e' punito indipendentemente dal pagamento del tributo dovuto con l'irrogazione di una multa non inferiore al doppio ne' superiore al decuplo dei diritti frodati o che avrebbero potuto essere frodati.
  In ogni caso la multa non potra' risultare inferiore alle duecentomila lire.
  I prodotti oggetto della frode ed i mezzi adoperati per perpetrarla sono confiscati. Per la confisca si applica l'art. 116 delle disposizioni della legge doganale 25 settembre 1940, n. 1424.
- La multa e' applicata senza pregiudizio delle altre pene sancito dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ La multa e' applicata senza pregiudizio delle altre pene sancito dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Il tentativo e' punito con la stessa pena stabilita per il reato consumato.
 
 ## Art. 13.
@@ -107,12 +107,12 @@ L'esercente che omette di presentare o presenta oltre il termine stabilito la de
 
 ## Art. 15.
 
-Le disposizioni del terz'ultimo ed ultimo comma dello art. 12 e quelle degli articoli 13 e 14 sono adottate in deroga agli [articoli 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_24), [26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_26), [56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_56), [240 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+Le disposizioni del terz'ultimo ed ultimo comma dello art. 12 e quelle degli articoli 13 e 14 sono adottate in deroga agli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [26](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [56](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Per la cognizione dei reati previsti dal presente decreto e per le relative norme di procedura si osservano le disposizioni della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4).
 
 ## Art. 16.
 
-La ripartizione delle multe e delle ammende e' effettuata secondo le norme della legge doganale 25 settembre 1940, n. 1424, e del relativo regolamento approvato con [regio decreto 13 febbraio 1896, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-13;65), e successivo modificazioni.
+La ripartizione delle multe e delle ammende e' effettuata secondo le norme della legge doganale 25 settembre 1940, n. 1424, e del relativo regolamento approvato con [regio decreto 13 febbraio 1896, n. 65](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20doganali.%20096U0065.md), e successivo modificazioni.
 
 ## Art. 17.
 

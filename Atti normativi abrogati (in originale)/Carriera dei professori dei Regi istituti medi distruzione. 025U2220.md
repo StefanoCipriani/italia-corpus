@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' CELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato e le sue successive modificazioni;
+Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato e le sue successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 
@@ -22,9 +22,9 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-I ruoli organici dei professori delle scuole medie, di cui alla tabella n. 36 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sono sostituiti da quelli di cui alla tabella A, annessa al presente decreto, vista, d'ordine Nostro, dai Ministri proponenti. 
+I ruoli organici dei professori delle scuole medie, di cui alla tabella n. 36 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono sostituiti da quelli di cui alla tabella A, annessa al presente decreto, vista, d'ordine Nostro, dai Ministri proponenti. 
  
- Resta modificata in conformita' la tabella di classificazione per gradi dei professori medesimi, stabilita con l'allegato I al predetto [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395).
+ Resta modificata in conformita' la tabella di classificazione per gradi dei professori medesimi, stabilita con l'allegato I al predetto [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 2.
 

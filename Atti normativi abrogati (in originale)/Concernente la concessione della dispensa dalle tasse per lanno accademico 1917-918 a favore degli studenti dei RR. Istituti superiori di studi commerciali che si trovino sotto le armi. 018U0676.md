@@ -14,7 +14,7 @@ Agli studenti dei RR. Istituti superiori di studi commerciali di Bari, Genova, R
  
  La domanda per ottenere tale dispensa deve essere presentata ai direttori dei predetti Istituti non oltre il 31 luglio 1918. 
  
- Per l'accertamento della disagiata condizione della famiglia si seguiranno le disposizioni dell'art. 101 del regolamento approvato col [R. decreto 1° agosto 1913, n. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-01;1223). 
+ Per l'accertamento della disagiata condizione della famiglia si seguiranno le disposizioni dell'art. 101 del regolamento approvato col [R. decreto 1° agosto 1913, n. 1223](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sugli%20Istituti%20di%20studi%20commerciali%20in%20esecuzione%20della%20legge%2020%20marzo%201913%20n.%20268.%20013U1223.md). 
  
  Sulla domanda di dispensa delibera il Consiglio di amministrazione dell'Istituto, il quale ha facolta' di compiere le indagini di cui nel primo comma dell'articolo 102 di detto regolamento.
 

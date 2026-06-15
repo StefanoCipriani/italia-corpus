@@ -64,7 +64,7 @@ Le quote di contributo a carico degli Enti locali saranno liquidate allo scadere
 
 ## Art. 7.
 
-La spesa relativa ai lavori contemplati nel presente decreto gravera' sulle speciali assegnazioni di cui alla tabella annessa al [R. decreto 19 marzo 1925, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-19;266), nella seguente misura: 
+La spesa relativa ai lavori contemplati nel presente decreto gravera' sulle speciali assegnazioni di cui alla tabella annessa al [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), nella seguente misura: 
  
  a) per L. 31,700,000 (corrispondenti all'importo presunto dei lavori per il completamento e la sistemazione della rete ferrarese e relativo accesso al Po a Pontelagoscuro; pel tronco allacciante il Po di Gnocca, al Po di Goro; pel completamento del porto fluviale di Cremona e sistemazione degli scali minori) sulla dotazione per opere nuove e di ristabilimento delle vie navigabili dell'Italia Settentrionale, escluse le Provincie Venete e di Mantova; 
  
@@ -72,7 +72,7 @@ La spesa relativa ai lavori contemplati nel presente decreto gravera' sulle spec
 
 ## Art. 8.
 
-Nella tabella allegata al [R. decreto 19 marzo 1925, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-19;266), sono apportate le seguenti variazioni: 
+Nella tabella allegata al [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), sono apportate le seguenti variazioni: 
  
  a) In diminuzione: 
  

@@ -31,11 +31,11 @@ Le pellicole indicate all'art. 1 debbono essere edite in data non anteriore al 1
 
 1926.
 
-La data di edizione di esse e' determinata dal rilascio del visto di censura prescritto dal [R. decreto 24 settembre 1923, n. 3287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;3287).
+La data di edizione di esse e' determinata dal rilascio del visto di censura prescritto dal [R. decreto 24 settembre 1923, n. 3287](Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md).
 
 ## Art. 4.
 
-Salvo l'osservanza degli articoli 20 e 21 del regolamento annesso al [R. decreto 24 settembre 1923, n. 3287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;3287), chiunque intenda produrre una pellicola nazionale deve, all'inizio della lavorazione, denunciare alla locale autorita' di pubblica sicurezza le generalita' e la nazionalita' dei direttori, degli autori e degli operatori che la eseguiscono. L'autorita' di pubblica sicurezza, fatti gli accertamenti che ritenesse opportuni per assicurare il concorso delle condizioni di cui all'art. 2, apporra', a lavorazione ultimata, il proprio visto sulla denuncia. 
+Salvo l'osservanza degli articoli 20 e 21 del regolamento annesso al [R. decreto 24 settembre 1923, n. 3287](Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md), chiunque intenda produrre una pellicola nazionale deve, all'inizio della lavorazione, denunciare alla locale autorita' di pubblica sicurezza le generalita' e la nazionalita' dei direttori, degli autori e degli operatori che la eseguiscono. L'autorita' di pubblica sicurezza, fatti gli accertamenti che ritenesse opportuni per assicurare il concorso delle condizioni di cui all'art. 2, apporra', a lavorazione ultimata, il proprio visto sulla denuncia. 
  
  Detta denuncia sara' restituita all'interessato, per essere presentata alla Commissione indicata nell'articolo seguente. 
  
@@ -43,7 +43,7 @@ Salvo l'osservanza degli articoli 20 e 21 del regolamento annesso al [R. decreto
 
 ## Art. 5.
 
-La Commissione prevista dagli articoli 9 e 12 del regolamento approvato con [R. decreto 24 settembre 1923, n. 3287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;3287), modificato dal [R. decreto 18 settembre 1924, n. 1682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-18;1682), giudichera' inappellabilmente se le pellicole nazionali presentino sufficienti requisiti di dignita' artistica e di buona esecuzione tecnica, ai fini dell'applicazione dell'art. 1 del presente decreto. 
+La Commissione prevista dagli articoli 9 e 12 del regolamento approvato con [R. decreto 24 settembre 1923, n. 3287](Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md), modificato dal [R. decreto 18 settembre 1924, n. 1682](Modificazioni%20al%20nuovo%20regolamento%20per%20la%20vigilanza%20sulle%20pellicole%20cinematografiche%20approvato%20con%20R.%20decreto%2024%20settembre%201923%20n.%203287.%20024U1682.md), giudichera' inappellabilmente se le pellicole nazionali presentino sufficienti requisiti di dignita' artistica e di buona esecuzione tecnica, ai fini dell'applicazione dell'art. 1 del presente decreto. 
  
  La Commissione stessa potra' negare il nulla osta per la proiezione in pubblico delle pellicole, anche se prodotte all'estero, che non presentino sufficienti requisiti di dignita' artistica cosi' nella trama del soggetto, come nella esecuzione tecnica.
 
@@ -53,7 +53,7 @@ Alla Commissione indicata all'articolo precedente, sono aggiunti due membri che 
 
 ## Art. 7.
 
-La Commissione d'appello di cui all'art. 12 del regolamento annesso al [R. decreto 24 settembre 1923, n. 3287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;3287), sara' cosi' composta: 
+La Commissione d'appello di cui all'art. 12 del regolamento annesso al [R. decreto 24 settembre 1923, n. 3287](Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md), sara' cosi' composta: 
  
  a) di due capi di divisione addetti alla Direzione generale della pubblica sicurezza, uno dei quali presidente; 
  
@@ -67,7 +67,7 @@ La Commissione d'appello di cui all'art. 12 del regolamento annesso al [R. decre
 
 ## Art. 8.
 
-La vigilanza per l'applicazione delle disposizioni di cui agli articoli 1 e 2 e' demandata ai prefetti i quali, in caso di inosservanza, hanno facolta' di decretare la temporanea chiusura delle sale di proiezione. Nei casi di recidiva, potranno altresi' revocare la licenza, ai sensi dell'art. 28 del regolamento approvato con [R. decreto 24 settembre 1923, n. 3287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;3287).
+La vigilanza per l'applicazione delle disposizioni di cui agli articoli 1 e 2 e' demandata ai prefetti i quali, in caso di inosservanza, hanno facolta' di decretare la temporanea chiusura delle sale di proiezione. Nei casi di recidiva, potranno altresi' revocare la licenza, ai sensi dell'art. 28 del regolamento approvato con [R. decreto 24 settembre 1923, n. 3287](Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md).
 
 ## Art. 9.
 

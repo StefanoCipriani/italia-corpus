@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti gli [articoli 66 della legge 25 marzo 1926, n. 453](Ordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U0453.md), sull'ordinamento delle professioni di avvocato e di procuratore, 7 del [R. decreto 6 maggio 1926, n. 747](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-06;747), e 95 del [R. decreto 26 agosto 1926, n. 1683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-26;1683); 
+ Visti gli [articoli 66 della legge 25 marzo 1926, n. 453](Ordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U0453.md), sull'ordinamento delle professioni di avvocato e di procuratore, 7 del [R. decreto 6 maggio 1926, n. 747](Norme%20per%20il%20coordinamento%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro%20con%20la%20legge%2025%20marzo%201926%20n.%20453%20sulla%20professione%20di%20avvocato%20e_67bfec9b61c9.md), e 95 del [R. decreto 26 agosto 1926, n. 1683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-26;1683); 
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  

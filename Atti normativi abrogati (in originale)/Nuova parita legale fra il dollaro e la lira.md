@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto-legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto-legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946 n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
-Visto il [decreto-legislativo luogotenenziale 4 gennaio 1946, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-04;2);
+Visto il [decreto-legislativo luogotenenziale 4 gennaio 1946, n. 2](../Decreti%20legislativi%20luogotenenziali/Costituzione%20di%20un%20Fondo%20per%20ladeguamento%20ai%20prezzi.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -31,7 +31,7 @@ La parita' legale fra il dollaro e la lira e' stabilita come segue:
 
 ## Art. 2.
 
-Il [decreto legislativo luogotenenziale 4 gennaio 1946 n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-04;2), e' abrogato.
+Il [decreto legislativo luogotenenziale 4 gennaio 1946 n. 2](../Decreti%20legislativi%20luogotenenziali/Costituzione%20di%20un%20Fondo%20per%20ladeguamento%20ai%20prezzi.md), e' abrogato.
  Sono altresi' abrogate tutte le disposizioni contrastanti col presente decreto.
 
 ## Art. 3.

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 settembre 1926, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-07;1590), che autorizza il Ministero delle finanze a corrispondere alla provincia di Vicenza il contributo straordinario di L. 900,000 per la riattivazione della ferrovia Schio-Rocchette-Arsiero. 
+ E' convertito in legge il [R. decreto-legge 7 settembre 1926, n. 1590](Autorizzazione%20al%20Ministero%20delle%20finanze%20a%20corrispondere%20alla%20provincia%20di%20Vicenza%20il%20contributo%20straordinario%20di%20L.%20900000%20per%20la%20riattivazione%20della%20ferrovia%20Schio-Rocchette-Arsiero.%20026U1590.md), che autorizza il Ministero delle finanze a corrispondere alla provincia di Vicenza il contributo straordinario di L. 900,000 per la riattivazione della ferrovia Schio-Rocchette-Arsiero. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

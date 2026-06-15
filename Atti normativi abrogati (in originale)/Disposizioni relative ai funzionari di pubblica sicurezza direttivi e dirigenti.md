@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Le disposizioni di cui all'ultimo comma dell'[articolo 3 della legge 24 maggio 1970, n. 336](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-24;336#art_3), e al penultimo comma dell'[articolo 67 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748#art_67), non si applicano, con effetto dalla data di entrata in vigore delle disposizioni medesime, ai funzionari di pubblica sicurezza.
+Le disposizioni di cui all'ultimo comma dell'[articolo 3 della legge 24 maggio 1970, n. 336](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-24;336#art_3), e al penultimo comma dell'[articolo 67 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), non si applicano, con effetto dalla data di entrata in vigore delle disposizioni medesime, ai funzionari di pubblica sicurezza.
 
 ## Art. 2.
 

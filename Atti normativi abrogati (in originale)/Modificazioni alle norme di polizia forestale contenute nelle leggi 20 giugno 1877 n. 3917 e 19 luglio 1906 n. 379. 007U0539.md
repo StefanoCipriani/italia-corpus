@@ -25,7 +25,7 @@ L'[art. 1 della legge 19 luglio 1906, n. 379](Conciliazione%20delle%20contravven
  «Le contravvenzioni alla legge forestale del 20 giugno 1877, n. 3917, ed ogni altra in materia forestale per le quali sia stabilita la pena pecuniaria non eccedente nel massimo le L. 300, potranno essere conciliate davanti al sindaco del luogo dove furono commesse entro 30 giorni dalla notificazione del verbale al contravventore.
 Per tale conciliazione, il contravventore dovra' pagare una somma corrispondente per la prima volta al minimo della pena; per la seconda volta al doppio del minimo e per la terza volta al triplo, non mai pero' in misura eccedente il massimo nei casi dell'art. 20 e la meta' del massimo negli altri casi. Se si tratti di contravvenzioni a pena fissa dovra' sempre pagare la meta' della somma. 
  
- «Chi nel periodo di due anni abbia commesso tre infrazioni forestali, per le quali sia intervenuta condanna o conciliazione a norma della presente legge od oblazione a' sensi dell'[art. 101 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_101) non sara' ammesso a conciliazione per altri reati forestali accertati nel biennio successivo. Agli effetti delle disposizioni precedenti sara' sempre considerata come prima contravvenzione quella commessa oltre i due anni successivi all'ultima condanna, conciliazione od oblazione. 
+ «Chi nel periodo di due anni abbia commesso tre infrazioni forestali, per le quali sia intervenuta condanna o conciliazione a norma della presente legge od oblazione a' sensi dell'[art. 101 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) non sara' ammesso a conciliazione per altri reati forestali accertati nel biennio successivo. Agli effetti delle disposizioni precedenti sara' sempre considerata come prima contravvenzione quella commessa oltre i due anni successivi all'ultima condanna, conciliazione od oblazione. 
  
  «Nelle provincie napoletane e siciliane, qualora i demani di un Comune si estendano o siano posti in Comuni limitrofi, e' competente a conciliare il sindaco del Comune cui i demani stessi appartengono.  
  «La conciliazione, quando non siavi conflitto d'interessi, potra' aver luogo anche per i danni».
@@ -44,7 +44,7 @@ Il Ministero di agricoltura, industria e commercio dovra', colle norme da stabil
 
 ## Art. 5.
 
-E' data facolta' al Governo del Re di riunire in testo unico la [legge 19 luglio 1906, n. 379](Conciliazione%20delle%20contravvenzioni%20in%20materia%20forestale.%20006U0379.md), colla presente, coordinandole col [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) vigente, e di emanare le norme regolamentari all'uopo occorrenti non oltre il 31 dicembre 1907. 
+E' data facolta' al Governo del Re di riunire in testo unico la [legge 19 luglio 1906, n. 379](Conciliazione%20delle%20contravvenzioni%20in%20materia%20forestale.%20006U0379.md), colla presente, coordinandole col [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) vigente, e di emanare le norme regolamentari all'uopo occorrenti non oltre il 31 dicembre 1907. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

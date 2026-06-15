@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 11 della legge 10 marzo 1969, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-03-10;96#art_11), concernente l'istituzione di un controllo qualitativo sulle esportazioni di pomodori pelati e concentrati di pomodoro ed estensione di determinate norme ai medesimi prodotti destinati al mercato interno;
+Visto l'[art. 11 della legge 10 marzo 1969, n. 96](Istituzione%20di%20un%20controllo%20qualitativo%20sulle%20esportazioni%20di%20pomodori%20pelati%20e%20concentrati%20di%20pomodoro%20ed%20estensione%20di%20determinate%20norme%20ai%20medesimi%20prodotti%20destinati%20al%20mercato%20interno.md), concernente l'istituzione di un controllo qualitativo sulle esportazioni di pomodori pelati e concentrati di pomodoro ed estensione di determinate norme ai medesimi prodotti destinati al mercato interno;
 
 Udito il Consiglio di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il commercio con l'estero, di concerto con i Min
 
 ## Art. 1.
 
-Ai fini della [legge 10 marzo 1969, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-03-10;96), la denominazione: 
+Ai fini della [legge 10 marzo 1969, n. 96](Istituzione%20di%20un%20controllo%20qualitativo%20sulle%20esportazioni%20di%20pomodori%20pelati%20e%20concentrati%20di%20pomodoro%20ed%20estensione%20di%20determinate%20norme%20ai%20medesimi%20prodotti%20destinati%20al%20mercato%20interno.md), la denominazione: 
  a) "Pomodori pelati" e' riservata ai pomodori di tipo lungo privati della buccia con le eventuali aggiunte previste dal successivo art. 2; 
  b) "semi-concentrato di pomodoro" e' riservata al succo di pomodoro sottoposto a processo di concentrazione ed il cui residuo secco, al netto di sale aggiunto, non sia inferiore al 12%; 
  c) "concentrato di pomodoro", e' riservata al succo di pomodoro sottoposto a processo di concentrazione ed il cui residuo secco, al netto di sale aggiunto, non sia inferiore al 18%; 
@@ -105,7 +105,7 @@ Sui contenitori dei prodotti di cui all'art. 1 del presente decreto, destinati a
 
 ## Art. 5.
 
-Le fatture e i documenti valutari relativi all'esportazione dei prodotti di cui all'art. 1 debbono recare il nome o la ragione sociale e la sede del produttore esportatore e tutte le indicazioni atte a individuare la partita di conserva a cui si riferisce il documento stesso. Gli estremi del certificato di idoneita' all'esportazione, di cui al [comma secondo dell'art. 7 della legge 10 marzo 1969, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-03-10;96#art_7-com2), devono essere riportati a cura dell'istituto di credito emittente sul benestare bancario nel caso in cui tale documento sia richiesto.
+Le fatture e i documenti valutari relativi all'esportazione dei prodotti di cui all'art. 1 debbono recare il nome o la ragione sociale e la sede del produttore esportatore e tutte le indicazioni atte a individuare la partita di conserva a cui si riferisce il documento stesso. Gli estremi del certificato di idoneita' all'esportazione, di cui al [comma secondo dell'art. 7 della legge 10 marzo 1969, n. 96](Istituzione%20di%20un%20controllo%20qualitativo%20sulle%20esportazioni%20di%20pomodori%20pelati%20e%20concentrati%20di%20pomodoro%20ed%20estensione%20di%20determinate%20norme%20ai%20medesimi%20prodotti%20destinati%20al%20mercato%20interno.md), devono essere riportati a cura dell'istituto di credito emittente sul benestare bancario nel caso in cui tale documento sia richiesto.
  Qualora trattasi di partite per le quali non e' richiesto il benestare bancario all'esportazione, gli estremi del certificato di idoneita' devono essere riportati, a cura dell'Istituto nazionale per le conserve alimentari, sulla relativa fattura.
  E' vietato apporre sui contenitori e gli imballaggi in genere, nonche' usare sui cataloghi, prospetti, documenti, avvisi pubblicitari, fatture, etichette e su qualsiasi mezzo di pubblicita', sotto qualsiasi forma od in qualsiasi lingua, indicazioni, segni, raffigurazioni e aggettivazioni, anche se accompagnati da termini rettificativi come "tipo", "gusto", "uso", suscettibili di indurre in errore il consumatore circa la natura, la composizione, il valore nutritivo, la qualita', le caratteristiche, il contenuto, l'impiego o l'origine dei prodotti di cui trattasi.
  E' parimenti vietato il riferimento, in qualsiasi modo effettuato, a proprieta' terapeutiche e dietetiche od intese a far risaltare, anche indirettamente, la presenza di vitamine.

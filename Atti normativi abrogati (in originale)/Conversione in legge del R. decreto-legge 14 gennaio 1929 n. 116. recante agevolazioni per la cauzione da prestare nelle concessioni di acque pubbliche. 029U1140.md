@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 14 gennaio 1929, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-14;116), che proroga il termine di cui all'[art. 3 del R. decreto 17 settembre 1925, n. 1852](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-17;1852#art_3), circa le cauzioni per le concessioni di derivazione di acque pubbliche. 
+ E' convertito in legge il [R. decreto legge 14 gennaio 1929, n. 116](Proroga%20del%20termine%20di%20cui%20allart.%203%20del%20R.%20decreto-legge%2017%20settembre%201925%20n.%201852%20circa%20la%20cauzione%20per%20le%20concessioni%20di%20derivazioni%20ed%20utilizzazioni%20di%20acqua%20pubblica.%20029U0116.md), che proroga il termine di cui all'[art. 3 del R. decreto 17 settembre 1925, n. 1852](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-17;1852#art_3), circa le cauzioni per le concessioni di derivazione di acque pubbliche. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

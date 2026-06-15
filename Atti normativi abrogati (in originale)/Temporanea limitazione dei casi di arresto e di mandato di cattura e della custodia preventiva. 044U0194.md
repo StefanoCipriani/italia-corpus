@@ -20,9 +20,9 @@ Visti gli [articoli 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presiden
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -48,7 +48,7 @@ Gli ufficiali e gli agenti di polizia giudiziaria e della forza pubblica hanno f
  
  Se si tratta di un delitto punibile a querela della persona offesa per il quale e' stabilita la predetta pena, l'arresto in flagranza puo' essere eseguito qualora l'offeso dal reato dichiari all'ufficiale od agente della polizia giudiziaria o della forza pubblica presente nel luogo di voler proporre querela. 
  
- Gli ufficiali e gli agenti della polizia giudiziaria e della forza pubblica hanno altresi' facolta' di arrestare chi e' colto in flagranza delle contravvenzioni concernenti le armi o le materie esplodenti, prevedute dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) o da altre leggi, o delle contravvenzioni prevedute dagli [articoli 670](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_670), [671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_671), [683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_683), [707](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_707) e [708 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_708) e chi e' stato dichiarato contravventore abituale o professionale, quando ha commesso una contravvenzione della stessa indole di quelle per le quali riporto' la dichiarazione di abitualita' o di professionalita'.
+ Gli ufficiali e gli agenti della polizia giudiziaria e della forza pubblica hanno altresi' facolta' di arrestare chi e' colto in flagranza delle contravvenzioni concernenti le armi o le materie esplodenti, prevedute dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da altre leggi, o delle contravvenzioni prevedute dagli [articoli 670](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [671](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [683](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [707](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [708 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e chi e' stato dichiarato contravventore abituale o professionale, quando ha commesso una contravvenzione della stessa indole di quelle per le quali riporto' la dichiarazione di abitualita' o di professionalita'.
 
 ## Art. 4.
 
@@ -60,7 +60,7 @@ Deve essere emesso il mandato di cattura contro l'imputato:
  
  3) di ogni altro delitto per il quale la legge stabilisce la pena di morte o dell'ergastolo. 
  
- Deve essere parimenti emesso il mandato di cattura contro l'imputato di delitto non colposo per il quale la legge stabilisce la pena della reclusione non inferiore nel massimo a cinque anni, quando l'imputato e' stato dichiarato delinquente abituale, professionale o per tendenza o si trova nelle condizioni richieste dall'[art. 102 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_102) per la dichiarazione di abitualita' nel delitto, ovvero e' assegnato ad una colonia agricola o ad una casa di lavoro o sottoposto a liberta' vigilata.
+ Deve essere parimenti emesso il mandato di cattura contro l'imputato di delitto non colposo per il quale la legge stabilisce la pena della reclusione non inferiore nel massimo a cinque anni, quando l'imputato e' stato dichiarato delinquente abituale, professionale o per tendenza o si trova nelle condizioni richieste dall'[art. 102 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la dichiarazione di abitualita' nel delitto, ovvero e' assegnato ad una colonia agricola o ad una casa di lavoro o sottoposto a liberta' vigilata.
 
 ## Art. 5.
 

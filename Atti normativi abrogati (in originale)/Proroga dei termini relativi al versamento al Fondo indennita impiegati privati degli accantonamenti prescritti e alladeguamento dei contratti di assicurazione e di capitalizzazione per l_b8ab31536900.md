@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 8 gennaio 1942, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-01-08;5), convertito, con modifiche, nella [legge 2 ottobre 1942, n. 1251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-02;1251), concernente la costituzione del Fondo per le indennita' dovute dai datori di lavoro ai propri impiegati in caso di risoluzione del rapporto di impiego;
+Visto il [R. decreto-legge 8 gennaio 1942, n. 5](Costituzione%20di%20una%20gestione%20speciale%20degli%20accantonamenti%20dei%20fondi%20per%20le%20indennita%20dovute%20dai%20datori%20di%20lavoro%20ai%20propri%20impiegati%20in%20caso%20di%20risoluzione%20del%20rapporto%20dimpiego.%20042U0005.md), convertito, con modifiche, nella [legge 2 ottobre 1942, n. 1251](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%208%20gennaio%201942-XX%20n.%205%20concernente%20la%20costituzione%20di%20una%20gestione%20speciale%20degli%20accantonamenti%20dei%20fondi%20per%20le%20indennita%20dov_c069697e75fb.md), concernente la costituzione del Fondo per le indennita' dovute dai datori di lavoro ai propri impiegati in caso di risoluzione del rapporto di impiego;
 
 Visto il [decreto legislativo Luogotenenziale 1° agosto 1945, n. 708](Norme%20per%20lapplicazione%20del%20R.%20decreto-legge%208%20gennaio%201942%20n.%205%20relativo%20al%20Fondo%20per%20lindennita%20agli%20impiegati.%20045U0708.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-Per l'anno 1946 e' prorogato ai 31 agosto il termine previsto dall'[art. 8 del R. decreto-legge 8 gennaio 1942, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-01-08;5#art_8), convertito, con modifiche, nella [legge 2 ottobre 1942, n. 1251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-02;1251), per il versamento al Fondo indennita' impiegati da parte dei datori di lavoro degli accantonamenti prescritti dal decreto stesso.
+Per l'anno 1946 e' prorogato ai 31 agosto il termine previsto dall'[art. 8 del R. decreto-legge 8 gennaio 1942, n. 5](Costituzione%20di%20una%20gestione%20speciale%20degli%20accantonamenti%20dei%20fondi%20per%20le%20indennita%20dovute%20dai%20datori%20di%20lavoro%20ai%20propri%20impiegati%20in%20caso%20di%20risoluzione%20del%20rapporto%20dimpiego.%20042U0005.md), convertito, con modifiche, nella [legge 2 ottobre 1942, n. 1251](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%208%20gennaio%201942-XX%20n.%205%20concernente%20la%20costituzione%20di%20una%20gestione%20speciale%20degli%20accantonamenti%20dei%20fondi%20per%20le%20indennita%20dov_c069697e75fb.md), per il versamento al Fondo indennita' impiegati da parte dei datori di lavoro degli accantonamenti prescritti dal decreto stesso.
 
 ## Art. 2.
 

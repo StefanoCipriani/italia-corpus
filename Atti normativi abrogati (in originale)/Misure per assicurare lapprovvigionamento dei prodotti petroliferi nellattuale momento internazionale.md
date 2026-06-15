@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli articoli 77, comma secondo, e 81, ultimo comma, della Costituzione;
 
-Vista la tariffa dei dazi doganali d'importazione, approvata con il [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-26;723), e successive aggiunte e modificazioni;
+Vista la tariffa dei dazi doganali d'importazione, approvata con il [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](../DPR/Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md), e successive aggiunte e modificazioni;
 
-Visto il [decreto-legge 23 ottobre 1964, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-23;989), convertito, con modificazioni, nella [legge 18 dicembre 1964, n. 1350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-18;1350);
+Visto il [decreto-legge 23 ottobre 1964, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-23;989), convertito, con modificazioni, nella [legge 18 dicembre 1964, n. 1350](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201964%20n.%20989%20adottato%20ai%20sensi%20dellart.%2077%20comma%20secondo%20della%20Costituzione%20recante%20modificazioni%20alla%20disciplina%20fiscal_a6b872ec0ddb.md);
 
-Visto il [decreto-legge 9 novembre 1966, n. 913](Modificazioni%20al%20regime%20fiscale%20delle%20benzine%20speciali%20diverse%20dallacqua%20ragia%20minerale%20della%20benzina%20e%20del%20petrolio%20diverso%20da%20quello%20lampante%20nonche%20dei%20gas%20di%20petrolio%20liquefatti%20per%20autotrazione.md), convertito nella [legge 23 dicembre 1966, n. 1140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-23;1140);
+Visto il [decreto-legge 9 novembre 1966, n. 913](Modificazioni%20al%20regime%20fiscale%20delle%20benzine%20speciali%20diverse%20dallacqua%20ragia%20minerale%20della%20benzina%20e%20del%20petrolio%20diverso%20da%20quello%20lampante%20nonche%20dei%20gas%20di%20petrolio%20liquefatti%20per%20autotrazione.md), convertito nella [legge 23 dicembre 1966, n. 1140](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%209%20novembre%201966%20n.%20913%20recante%20modificazioni%20al%20regime%20fiscale%20delle%20benzine%20speciali%20diverse%20dallacqua%20ragia%20minerale%20della%20benzina%20e%20del%20petrolio%20_73efa68c9dce.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di adottare speciali provvedimenti per assicurare l'approvvigionamento dei prodotti petroliferi nell'attuale situazione del mercato internazionale;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per l'industria, il commercio e l'artigianato, di co
 
 ## Art. 1.
 
-Per le importazioni, effettuate dal 1 luglio al 31 dicembre 1967, di oli minerali greggi naturali di petrolio aventi le caratteristiche indicate nella tabella C), lettera A), punto 1), allegata al [decreto-legge 23 ottobre 1964, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-23;989), convertito, con modificazioni, nella [legge 18 dicembre 1964, n. 1350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-18;1350), puo' essere concesso un contributo sui maggiori costi sostenuti a causa della particolare situazione degli approvvigionamenti petroliferi.
+Per le importazioni, effettuate dal 1 luglio al 31 dicembre 1967, di oli minerali greggi naturali di petrolio aventi le caratteristiche indicate nella tabella C), lettera A), punto 1), allegata al [decreto-legge 23 ottobre 1964, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-23;989), convertito, con modificazioni, nella [legge 18 dicembre 1964, n. 1350](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201964%20n.%20989%20adottato%20ai%20sensi%20dellart.%2077%20comma%20secondo%20della%20Costituzione%20recante%20modificazioni%20alla%20disciplina%20fiscal_a6b872ec0ddb.md), puo' essere concesso un contributo sui maggiori costi sostenuti a causa della particolare situazione degli approvvigionamenti petroliferi.
 
 ## Art. 2.
 
@@ -104,12 +104,12 @@ Al fine di provvedere all'onere indicato nell'articolo precedente, il Ministro p
 
 ## Art. 13.
 
-Ai certificati di credito, di cui al precedente articolo, ai loro interessi e agli atti comunque ad essi relativi sono estese le esenzioni fiscali ed agevolazioni tributarie contenute negli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-19;2356#art_3) e [8 della legge 19 dicembre 1952, n. 2356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-19;2356#art_8).
+Ai certificati di credito, di cui al precedente articolo, ai loro interessi e agli atti comunque ad essi relativi sono estese le esenzioni fiscali ed agevolazioni tributarie contenute negli [articoli 3](Emissione%20di%20buoni%20del%20Tesoro%20novennali%205%20per%20cento%201962.md) e [8 della legge 19 dicembre 1952, n. 2356](Emissione%20di%20buoni%20del%20Tesoro%20novennali%205%20per%20cento%201962.md).
  I certificati medesimi e le relative cedole sono equiparati a tutti gli effetti ai titoli di debito pubblico e loro rendite, e godono delle garanzie, privilegi e benefici ad essi concessi e possono essere sottoscritti, anche in deroga ai rispettivi ordinamenti, dagli enti di qualsiasi natura esercenti il credito, l'assicurazione e la previdenza, nonche' dalla Cassa depositi e prestiti.
 
 ## Art. 14.
 
-Per far fronte all'onere relativo al rimborso dei certificati di credito e per il pagamento degli interessi relativi all'anno finanziario 1969, e' prorogato al 31 dicembre 1969 il termine previsto dall'[art. 4 del decreto-legge 9 novembre 1966, n. 913](Modificazioni%20al%20regime%20fiscale%20delle%20benzine%20speciali%20diverse%20dallacqua%20ragia%20minerale%20della%20benzina%20e%20del%20petrolio%20diverso%20da%20quello%20lampante%20nonche%20dei%20gas%20di%20petrolio%20liquefatti%20per%20autotrazione.md), convertito nella [legge 23 dicembre 1966, n. 1140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-23;1140).
+Per far fronte all'onere relativo al rimborso dei certificati di credito e per il pagamento degli interessi relativi all'anno finanziario 1969, e' prorogato al 31 dicembre 1969 il termine previsto dall'[art. 4 del decreto-legge 9 novembre 1966, n. 913](Modificazioni%20al%20regime%20fiscale%20delle%20benzine%20speciali%20diverse%20dallacqua%20ragia%20minerale%20della%20benzina%20e%20del%20petrolio%20diverso%20da%20quello%20lampante%20nonche%20dei%20gas%20di%20petrolio%20liquefatti%20per%20autotrazione.md), convertito nella [legge 23 dicembre 1966, n. 1140](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%209%20novembre%201966%20n.%20913%20recante%20modificazioni%20al%20regime%20fiscale%20delle%20benzine%20speciali%20diverse%20dallacqua%20ragia%20minerale%20della%20benzina%20e%20del%20petrolio%20_73efa68c9dce.md).
  Le maggiori entrate derivanti dall'applicazione del precedente comma sono riservate esclusivamente allo erario dello Stato.
 
 ## Art. 15.

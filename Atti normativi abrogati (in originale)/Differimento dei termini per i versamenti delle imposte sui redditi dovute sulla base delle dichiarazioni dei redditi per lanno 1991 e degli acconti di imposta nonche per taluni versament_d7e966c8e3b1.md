@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per il differimento dei termini per i versamenti delle imposte sui redditi dovute sulla base delle dichiarazioni dei redditi per l'anno 1991 e degli acconti di imposta, nonche' per taluni versamenti per la definizione agevolata dei rapporti tributari previsti dalla [legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413);
+Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per il differimento dei termini per i versamenti delle imposte sui redditi dovute sulla base delle dichiarazioni dei redditi per l'anno 1991 e degli acconti di imposta, nonche' per taluni versamenti per la definizione agevolata dei rapporti tributari previsti dalla [legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 giugno 1992;
 

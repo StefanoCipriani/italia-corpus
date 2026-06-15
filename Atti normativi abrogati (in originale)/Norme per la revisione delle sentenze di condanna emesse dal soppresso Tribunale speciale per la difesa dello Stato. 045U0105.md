@@ -24,7 +24,7 @@ Sulla proposta, del Ministro per la guerra, d'intesa con i Ministri per la grazi
 
 ## Art. 1.
 
-Le sentenze di condanna emesse dal soppresso Tribunale speciale per la difesa dello Stato in applicazione all'[art. 2 del R. decreto-legge 9 dicembre 1941, n. 1386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-12-09;1386#art_2), sono soggette a speciale revisione nei casi previsti dall'[art. 2 del decreto legislativo Luogotenenziale 5 ottobre 1944, n. 316](Norme%20per%20la%20speciale%20revisione%20delle%20sentenze%20di%20condanna%20emesse%20dal%20Tribunale%20speciale%20per%20la%20difesa%20dello%20Stato%20soppresso%20con%20il%20R.%20decreto-legge%2029%20luglio%201943%20n.%20668.%20044U0316.md).
+Le sentenze di condanna emesse dal soppresso Tribunale speciale per la difesa dello Stato in applicazione all'[art. 2 del R. decreto-legge 9 dicembre 1941, n. 1386](Funzionamento%20del%20Tribunale%20speciale%20per%20la%20difesa%20dello%20Stato%20e%20proroga%20del%20relativo%20termine.%20041U1386.md), sono soggette a speciale revisione nei casi previsti dall'[art. 2 del decreto legislativo Luogotenenziale 5 ottobre 1944, n. 316](Norme%20per%20la%20speciale%20revisione%20delle%20sentenze%20di%20condanna%20emesse%20dal%20Tribunale%20speciale%20per%20la%20difesa%20dello%20Stato%20soppresso%20con%20il%20R.%20decreto-legge%2029%20luglio%201943%20n.%20668.%20044U0316.md).
 
 ## Art. 2.
 

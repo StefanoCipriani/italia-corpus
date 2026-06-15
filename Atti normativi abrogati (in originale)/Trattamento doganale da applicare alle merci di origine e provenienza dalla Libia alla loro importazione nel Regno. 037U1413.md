@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la tariffa generale dei dazi doganali approvata col R. decreto-legge 9 gingno 1921, n. 806, convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni;
+Vista la tariffa generale dei dazi doganali approvata col R. decreto-legge 9 gingno 1921, n. 806, convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni;
 
 Visto il [R. decreto-legge 30 novembre 1933, n. 1717](Tariffa%20speciale%20dei%20dazi%20doganali%20da%20applicare%20nel%20Regno%20alle%20merci%20di%20origine%20dalle%20Colonie%20italiane.%20033U1717.md), convertito nella legge 198 del 25 gennaio 1934, che ha approvato la tariffa speciale dei dazi doganali da applicare nel Regno alle merci di origine delle Colonie italiane;
 

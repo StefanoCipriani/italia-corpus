@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1965, n. 963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-14;963), e successive modificazioni, concernente disciplina della pesca marittima;
+Vista la [legge 14 luglio 1965, n. 963](Disciplina%20della%20pesca%20marittima.md), e successive modificazioni, concernente disciplina della pesca marittima;
 
-Vista la [legge 17 febbraio 1982, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41), e successive modificazioni, recante piano per la razionalizzazione e lo sviluppo della pesca marittima;
+Vista la [legge 17 febbraio 1982, n. 41](Piano%20per%20la%20razionalizzazione%20e%20lo%20sviluppo%20della%20pesca%20marittima.md), e successive modificazioni, recante piano per la razionalizzazione e lo sviluppo della pesca marittima;
 
 Vista la delibera CIPE 25 maggio 2000, pubblicata nella Gazzetta Ufficiale n. 172 del 25 luglio 2000, recante approvazione del sesto piano triennale della pesca marittima e dell'acquacoltura 2000-2002;
 

@@ -10,11 +10,11 @@ vigente: true
 
 IL MINISTRO DEL TESORO
 
-Visto l'[articolo 19 della legge 7 aprile 1881, numero 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-04-07;133#art_19) (serie 3ª);
+Visto l'[articolo 19 della legge 7 aprile 1881, numero 133](Che%20provvede%20per%20labolizione%20del%20corso%20forzoso%20081U0133.md) (serie 3ª);
 
-Visto l'[articolo 8 della legge 30 aprile 1874, numero 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1874-04-30;1920#art_8) (serie 2ª);
+Visto l'[articolo 8 della legge 30 aprile 1874, numero 1920](Sulla%20circolazione%20cartacea%20durante%20il%20corso%20forzoso.%20074U1920.md) (serie 2ª);
 
-Visto il regolamento approvato con [regio decreto 17 settembre 1876, n. 3375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-09-17;3375) (serie 2ª) che riguarda le modalita' e le forme dei biglietti che gli istituti di emissione sono autorizzati ad emettere per proprio conto;
+Visto il regolamento approvato con [regio decreto 17 settembre 1876, n. 3375](Che%20approva%20il%20regolamento%20riguardante%20le%20modalita%20e%20le%20forme%20dei%20biglietti%20che%20gli%20istituti%20di%20emissione%20sono%20autorizzati%20ad%20emettere%20per%20proprio%20conto.%20076U3375.md) (serie 2ª) che riguarda le modalita' e le forme dei biglietti che gli istituti di emissione sono autorizzati ad emettere per proprio conto;
 
 Visto il [decreto ministeriale 29 gennaio 1877, n. 3680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1877-01-29;3680) (serie 2ª), che stabili' la ripartizione nei diversi tagli consentiti dalla legge, dei biglietti al portatore ed a vista che il Banco di Napoli, nei limiti della sua circolazione permessa, puo' emettere in sostituzione delle fedi intestate al cassiere, e ne furono approvati e resi di pubblica ragione i segni ed i distintivi caratteristici;
 

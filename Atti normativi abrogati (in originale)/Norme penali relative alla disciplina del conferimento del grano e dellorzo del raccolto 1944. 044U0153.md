@@ -22,9 +22,9 @@ Visto il [R. decreto-legge 22 aprile 1943 n. 245](https://www.normattiva.it/uri-
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -64,7 +64,7 @@ Chiunque goda a qualsiasi titolo il reddito di uno o piu' fondi rustici e sia co
 
 ## Art. 8.
 
-L'affittuario, il mezzadro, il colono di uno o piu' fondi rustici condannato in base all'art. 1 del presente decreto decade per tutti i fondi da lui condotti dal diritto alla continuazione del contratto, nonche' dal diritto alla proroga stabilita dal [R. decreto-legge 3 giugno 1944, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-06-03;146). 
+L'affittuario, il mezzadro, il colono di uno o piu' fondi rustici condannato in base all'art. 1 del presente decreto decade per tutti i fondi da lui condotti dal diritto alla continuazione del contratto, nonche' dal diritto alla proroga stabilita dal [R. decreto-legge 3 giugno 1944, n. 146](Proroga%20dei%20contratti%20agrari%20con%20scadenza%20entro%20il%2031%20dicembre%201944.%20044U0146.md). 
  
  Nel caso di piu' affittuari, mezzadri o coloni associati tra loro per la coltivazione di un fondo, la condanna di uno di essi determina la decadenza di cui al primo comma anche per tutti gli altri, quando il condannato abbia agito altresi' in loro rappresentanza.
 

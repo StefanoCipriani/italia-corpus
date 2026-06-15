@@ -20,7 +20,7 @@ Gli studenti profughi che nell'anno accademico 1914-915 vennero iscritti nelle U
 
 ## Art. 3.
 
-L'esonero dalle tasse non potra' essere concesso agli studenti i quali, inscritti gia' per anni precedenti, non abbiano ottemperato alle norme dell'art. 107 del regolamento generale universitario approvato con [Regio decreto 9 agosto 1910, n. 796](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;796), salvo il caso che trattisi di studenti in servizio militare. 
+L'esonero dalle tasse non potra' essere concesso agli studenti i quali, inscritti gia' per anni precedenti, non abbiano ottemperato alle norme dell'art. 107 del regolamento generale universitario approvato con [Regio decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), salvo il caso che trattisi di studenti in servizio militare. 
  
  La dispensa potra' invece essere concessa se i giovani siano stati respinti in qualche prova di esame, e questa disposizione deve intendersi estesa anche ai precedenti anni accademici 1914-915, 1915-916, 1916-917 e 1917-918. 
  

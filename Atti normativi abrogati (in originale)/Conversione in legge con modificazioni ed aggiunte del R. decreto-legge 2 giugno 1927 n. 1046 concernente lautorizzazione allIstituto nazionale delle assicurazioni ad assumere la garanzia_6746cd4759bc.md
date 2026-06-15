@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 giugno 1927, n. 1046](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-02;1046), concernente l'autorizzazione all'Istituto nazionale delle assicurazioni ad assumere la garanzia dei crediti all'esportazione soggetti a rischi speciali, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 2 giugno 1927, n. 1046](Autorizzazione%20allIstituto%20nazionale%20delle%20assicurazioni%20ad%20assumere%20la%20garanzia%20dei%20crediti%20allesportazione%20soggetti%20a%20rischi%20speciali.%20027U1046.md), concernente l'autorizzazione all'Istituto nazionale delle assicurazioni ad assumere la garanzia dei crediti all'esportazione soggetti a rischi speciali, con le seguenti modificazioni: 
  
  All'art. 11, 1° comma, dopo le parole: «dei sinistri presiede» aggiungere: «sotto il controllo del Ministro per le finanze». 
  

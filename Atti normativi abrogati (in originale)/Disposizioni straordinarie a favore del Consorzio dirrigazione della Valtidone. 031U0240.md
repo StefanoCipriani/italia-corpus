@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 13 agosto 1926, n. 1907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-13;1907), contenente nuove disposizioni per i consorzi e le opere di irrigazione nell'Italia settentrionale e centrale;
+Visto il [R. decreto 13 agosto 1926, n. 1907](Disposizioni%20per%20i%20consorzi%20e%20le%20opere%20di%20irrigazione%20nellItalia%20settentrionale%20e%20centrale.%20026U1907.md), contenente nuove disposizioni per i consorzi e le opere di irrigazione nell'Italia settentrionale e centrale;
 
 Visto il [R. decreto-legge 29 luglio 1927, n. 1509](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md), convertito in [legge 5 luglio 1928, n. 1760](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md), concernente l'ordinamento del credito agrario nel Regno;
 
@@ -56,7 +56,7 @@ A partire dall'anno 1932 il Consorzio di irrigazione della Valtidone impostera' 
 
 Per corrispondere l'annualita' di contributo di cui al precedente art. 3 e' autorizzata l'assegnazione annua straordinaria di L. 1.900.000, da inscrivere ad apposito capitolo dello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste dall'esercizio 1931-932 all'esercizio 1960-961. 
  
- In dipendenza dell'assegnazione di cui sopra e per il trentennio che avra' termine con l'esercizio finanziario 1960-961, gli stanziamenti di bilancio disposti dall'[art. 4 del R. decreto 30 dicembre 1923, n. 3139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3139#art_4), sono ridotti di L. 500.000.
+ In dipendenza dell'assegnazione di cui sopra e per il trentennio che avra' termine con l'esercizio finanziario 1960-961, gli stanziamenti di bilancio disposti dall'[art. 4 del R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), sono ridotti di L. 500.000.
 
 ## Art. 6.
 

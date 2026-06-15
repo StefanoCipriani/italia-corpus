@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -37,7 +37,7 @@ E' data facolta' al Ministro per i trasporti di concerto con il Ministro per il 
 
 ## Art. 4.
 
-L'esecuzione delle opere e' dichiarata urgente ed indifferibile agli effetti degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_71), modificata dalla [legge 18 dicembre 1879, n. 5188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-18;5188).
+L'esecuzione delle opere e' dichiarata urgente ed indifferibile agli effetti degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), modificata dalla [legge 18 dicembre 1879, n. 5188](Che%20approva%20alcune%20modificazioni%20alla%20legge%20sulle%20espropriazioni%20per%20pubblica%20utilita%20del%2025%20giugno%201865%20n.%202359.%20079U5188.md).
  Per le espropriazioni si applicano le norme degli articoli 57 e seguenti del testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, approvato con [regio decreto 9 maggio 1942 n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-09;1447).
  I concessionari sono esonerati dal pagamento di canoni e compensi per l'occupazione di aree pubbliche di pertinenza dello stato, dei comuni e di altri Enti pubblici.
 

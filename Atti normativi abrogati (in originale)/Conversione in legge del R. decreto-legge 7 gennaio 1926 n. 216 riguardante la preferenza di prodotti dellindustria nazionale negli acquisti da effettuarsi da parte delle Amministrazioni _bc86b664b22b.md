@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 gennaio 1926, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-07;216), concernente la preferenza ai prodotti dell'industria nazionale negli acquisti da effettuarsi da parte delle Amministrazioni dello Stato, degli Enti autarchici, o sottoposti alla tutela o vigilanza dello Stato, introducendo nel decreto stesso le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 7 gennaio 1926, n. 216](Preferenza%20ai%20prodotti%20delle%20industrie%20nazionali%20negli%20acquisti%20da%20effettuarsi%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20degli%20Enti%20autarchici%20o%20sottoposti%20alla%20tutela%20o%20vigilanza%20dello%20_eb0e7735bab7.md), concernente la preferenza ai prodotti dell'industria nazionale negli acquisti da effettuarsi da parte delle Amministrazioni dello Stato, degli Enti autarchici, o sottoposti alla tutela o vigilanza dello Stato, introducendo nel decreto stesso le seguenti modificazioni: 
  
  All'art. 1, primo comma, dopo le parole: « Enti predetti », aggiungere: « alle societa', ditte, istituti o Enti comunque sovvenzionati o sussidiati dallo Stato »; nell'ultimo comma dopo le parole: « prodotto finito presenti », aggiungere « almeno », e dopo le parole: « aumento di valore », togliere le parole: « di almeno il 60 » e sostituirle con le parole: « dal 20 al 40 ». 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1716](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-30;1716), riguardante proroga del termine di applicazione di benefici fiscali ai danneggiati dalle ripercussioni del terremoto del Vulture. 
+ E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1716](Proroga%20del%20termine%20di%20applicazione%20di%20benefici%20fiscali%20ai%20danneggiati%20dalle%20ripercussioni%20del%20terremoto%20del%20Vulture.%20033U1716.md), riguardante proroga del termine di applicazione di benefici fiscali ai danneggiati dalle ripercussioni del terremoto del Vulture. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

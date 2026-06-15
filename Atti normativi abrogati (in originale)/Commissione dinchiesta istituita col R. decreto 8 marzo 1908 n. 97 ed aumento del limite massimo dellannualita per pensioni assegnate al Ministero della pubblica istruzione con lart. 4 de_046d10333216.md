@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alla Commissione d'inchiesta istituita col [R. decreto 8 marzo 1908, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-03-08;97), sono conferiti, per l'adempimento del suo mandato, i poteri dell'autorita' giudiziaria in materia civile per quanto riguarda la escussione dei testimoni.
+Alla Commissione d'inchiesta istituita col [R. decreto 8 marzo 1908, n. 97](che%20istituisce%20una%20Commissione%20dinchiesta%20per%20esaminare%20le%20condizioni%20dei%20servizi%20dipendenti%20dal%20Ministero%20della%20pubblica%20istruzione%20008U0097.md), sono conferiti, per l'adempimento del suo mandato, i poteri dell'autorita' giudiziaria in materia civile per quanto riguarda la escussione dei testimoni.
 
 ## Art. 2.
 

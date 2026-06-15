@@ -26,7 +26,7 @@ Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Agli impiegati di ruolo dell'Amministrazione dello Stato che, nei casi dalla legge consentiti, passano al servizio delle ferrovie dello Stato, sono applicabili le disposizioni stabilite dall'[art. 7 della legge 12 luglio 1906, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-12;332#art_7) per impiegati di ruolo provenienti dall'Amministrazione centrale dei lavori pubblici e dal R. ispettorato generale delle strade ferrate.
+Agli impiegati di ruolo dell'Amministrazione dello Stato che, nei casi dalla legge consentiti, passano al servizio delle ferrovie dello Stato, sono applicabili le disposizioni stabilite dall'[art. 7 della legge 12 luglio 1906, n. 332](Provvedimenti%20per%20lesercizio%20delle%20ferrovie%20dello%20Stato.%20006U0332.md) per impiegati di ruolo provenienti dall'Amministrazione centrale dei lavori pubblici e dal R. ispettorato generale delle strade ferrate.
 
 ## Art. 2.
 

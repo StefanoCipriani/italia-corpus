@@ -36,9 +36,9 @@ I magistrati nominati a norma del precedente articolo procuratore militare o con
 
 ## Art. 4.
 
-I procuratori militari della Repubblica o consiglieri relatori aggiunti del tribunale supremo militare che siano stati dichiarati idonei alle funzioni della qualifica superiore ai sensi dell'[articolo 32 del regio decreto 30 dicembre 1923, n. 2903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2903#art_32), qualora non abbiano ottenuto la nomina a tale qualifica per difetto di vacanza, sono nominati in soprannumero con decorrenza dal compimento del numero degli anni di servizio prescritto per il passaggio alla qualifica superiore dei magistrati di corte d'appello. 
+I procuratori militari della Repubblica o consiglieri relatori aggiunti del tribunale supremo militare che siano stati dichiarati idonei alle funzioni della qualifica superiore ai sensi dell'[articolo 32 del regio decreto 30 dicembre 1923, n. 2903](Norme%20di%20attuazione%20del%20R.%20decreto%2019%20ottobre%201923%20n.%202316%20e%20nuove%20disposizioni%20sullordinamento%20giudiziario%20militare.%20023U2903.md), qualora non abbiano ottenuto la nomina a tale qualifica per difetto di vacanza, sono nominati in soprannumero con decorrenza dal compimento del numero degli anni di servizio prescritto per il passaggio alla qualifica superiore dei magistrati di corte d'appello. 
  Ai fini dell'anzianita' prevista dal precedente comma e' valutato anche il servizio eventualmente prestato come magistrato ordinario o della Corte dei conti, qualora la valutazione di tale servizio non abbia avuto luogo per la nomina a procuratore militare della Repubblica o consigliere relatore aggiunto del tribunale supremo militare. 
- Si osservano le modalita' di cui all'[articolo 11 del regio decreto 19 ottobre 1923, n. 2316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-19;2316#art_11).
+ Si osservano le modalita' di cui all'[articolo 11 del regio decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md).
 
 ## Art. 5.
 
@@ -57,7 +57,7 @@ All'onere derivante dall'attuazione della presente legge, valutato in lire 14 mi
 
 ## Art. 8.
 
-Sono abrogati, nella parte che si riferisce ai magistrati, gli articoli 14, secondo comma, 15, 16 e 17 del [regio decreto-legge 26 gennaio 1931, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-26;122), convertito nella [legge 18 giugno 1931, n. 919, e l'articolo 2, secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-18;919#art_2-com2) e [terzo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-18;919#art_2-com3), della [legge 9 ottobre 1967, n. 
+Sono abrogati, nella parte che si riferisce ai magistrati, gli articoli 14, secondo comma, 15, 16 e 17 del [regio decreto-legge 26 gennaio 1931, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-26;122), convertito nella [legge 18 giugno 1931, n. 919, e l'articolo 2, secondo](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20gennaio%201931%20n.%20122%20concernente%20il%20nuovo%20ordinamento%20della%20giustizia%20militare.%20031U0919.md) e [terzo comma](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20gennaio%201931%20n.%20122%20concernente%20il%20nuovo%20ordinamento%20della%20giustizia%20militare.%20031U0919.md), della [legge 9 ottobre 1967, n. 
 943](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-10-09;943). 
  E' altresi' abrogata ogni altra disposizione contraria o incompatibile con la presente legge.
 

@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 giugno 1926, n. 1144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-06-17;1144), relativo al reclutamento degli ufficiali in servizio permanente nel Regio esercito. 
+ E' convertito in legge il [R. decreto-legge 17 giugno 1926, n. 1144](Reclutamento%20degli%20ufficiali%20in%20servizio%20permanente%20nel%20Regio%20esercito.%20026U1144.md), relativo al reclutamento degli ufficiali in servizio permanente nel Regio esercito. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [decreto Luogotenenziale 12 aprile 1917, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-04-12;571), che modifica l'[art. 26 della legge 6 marzo 1898, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;59#art_26); 
+ Visto il [decreto Luogotenenziale 12 aprile 1917, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-04-12;571), che modifica l'[art. 26 della legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md); 
  
  Sentito il Consiglio dei ministri; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Le disposizioni contenute nell'[art. 26 della legge 6 marzo 1898, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;59#art_26), e nel [decreto Luogotenenziale 12 aprile 1917, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-04-12;571), debbono intendersi applicabili anche ai sottufficiali del corpo R. equipaggi aventi grado di capo di lª classe. 
+ Le disposizioni contenute nell'[art. 26 della legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md), e nel [decreto Luogotenenziale 12 aprile 1917, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-04-12;571), debbono intendersi applicabili anche ai sottufficiali del corpo R. equipaggi aventi grado di capo di lª classe. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

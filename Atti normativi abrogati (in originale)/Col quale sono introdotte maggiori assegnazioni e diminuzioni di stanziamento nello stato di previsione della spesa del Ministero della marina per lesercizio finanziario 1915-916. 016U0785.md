@@ -24,7 +24,7 @@ Ritenuta la necessita' di aumentare gli stanziamenti di taluni capitoli dello st
 
 Considerato che a dette maggiori spese si rende possibile far fronte con diminuzioni sulle assegnazioni di alcuni altri capitoli del medesimo stato di previsione;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Udito il Consiglio dei ministri;
 

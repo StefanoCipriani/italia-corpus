@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319);
+Vista la [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md);
 
-Vista la [legge 24 dicembre 1979, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-12-24;650);
+Vista la [legge 24 dicembre 1979, n. 650](Integrazioni%20e%20modifiche%20delle%20leggi%2016%20aprile%201973%20n.%20171%20e%2010%20maggio%201976%20n.%20319%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md);
 
 Visto il [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md);
 
-Visto il [decreto-legge 29 dicembre 1983, n. 747](Disciplina%20della%20proroga%20dei%20termini%20di%20vigenza%20delle%20leggi%20e%20proroga%20di%20taluni%20termini%20in%20scadenza%20al%2031%20dicembre%201983.md), convertito, con modificazioni, nella [legge 27 febbraio 1984, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-02-27;18);
+Visto il [decreto-legge 29 dicembre 1983, n. 747](Disciplina%20della%20proroga%20dei%20termini%20di%20vigenza%20delle%20leggi%20e%20proroga%20di%20taluni%20termini%20in%20scadenza%20al%2031%20dicembre%201983.md), convertito, con modificazioni, nella [legge 27 febbraio 1984, n. 18](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%201983%20n.%20747%20concernente%20disciplina%20della%20proroga%20dei%20termini%20di%20vigenza%20delle%20leggi%20e%20proroga%20di%20taluni%20termini%20in%20sca_ce247a22eed6.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di dettare disposizioni per accelerare gli adempimenti previsti per la tutela delle acque dall'inquinamento e per assicurare l'esatta osservanza nei termini a tal fine stabiliti;
 
@@ -30,7 +30,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-Il Comitato interministeriale di cui all'[articolo 3 della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_3), e successive modificazioni ed integrazioni, nel quadro delle funzioni contemplate dall'[articolo 2, lettera a), della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_2-leta), vigila sulla esecuzione degli adempimenti e sull'osservanza dei termini stabiliti dall'[articolo 6, commi 10](Disciplina%20della%20proroga%20dei%20termini%20di%20vigenza%20delle%20leggi%20e%20proroga%20di%20taluni%20termini%20in%20scadenza%20al%2031%20dicembre%201983.md), [10-bis](Disciplina%20della%20proroga%20dei%20termini%20di%20vigenza%20delle%20leggi%20e%20proroga%20di%20taluni%20termini%20in%20scadenza%20al%2031%20dicembre%201983.md) e [10-ter, del decreto-legge 29 dicembre 1983, n. 747](Disciplina%20della%20proroga%20dei%20termini%20di%20vigenza%20delle%20leggi%20e%20proroga%20di%20taluni%20termini%20in%20scadenza%20al%2031%20dicembre%201983.md), nel testo di cui alla legge di conversione 27 febbraio 1984, n. 18.
+Il Comitato interministeriale di cui all'[articolo 3 della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni ed integrazioni, nel quadro delle funzioni contemplate dall'[articolo 2, lettera a), della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), vigila sulla esecuzione degli adempimenti e sull'osservanza dei termini stabiliti dall'[articolo 6, commi 10](Disciplina%20della%20proroga%20dei%20termini%20di%20vigenza%20delle%20leggi%20e%20proroga%20di%20taluni%20termini%20in%20scadenza%20al%2031%20dicembre%201983.md), [10-bis](Disciplina%20della%20proroga%20dei%20termini%20di%20vigenza%20delle%20leggi%20e%20proroga%20di%20taluni%20termini%20in%20scadenza%20al%2031%20dicembre%201983.md) e [10-ter, del decreto-legge 29 dicembre 1983, n. 747](Disciplina%20della%20proroga%20dei%20termini%20di%20vigenza%20delle%20leggi%20e%20proroga%20di%20taluni%20termini%20in%20scadenza%20al%2031%20dicembre%201983.md), nel testo di cui alla legge di conversione 27 febbraio 1984, n. 18.
 
 ## Art. 2.
 
@@ -57,7 +57,7 @@ Per le situazioni che richiedano urgenti interventi, individuate in relazione al
 
 ## Art. 4.
 
-Per l'esercizio delle funzioni di cui ai precedenti articoli, il Comitato interministeriale puo' disporre accertamenti ispettivi conferendone l'incarico ai componenti dei collegi o degli istituti di cui all'articolo 3, ultimo comma, della [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319).
+Per l'esercizio delle funzioni di cui ai precedenti articoli, il Comitato interministeriale puo' disporre accertamenti ispettivi conferendone l'incarico ai componenti dei collegi o degli istituti di cui all'articolo 3, ultimo comma, della [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md).
 
 ## Art. 5.
 

@@ -22,7 +22,7 @@ Per i capitoli indicati nell'elenco n. 2 annesso alla presente legge e' data fac
 
 ## Art. 4.
 
-Sono autorizzate per l'esercizio finanziario 1935-36 le seguenti assegnazioni straordinarie, ivi comprese le integrazioni dipendenti dal [R. decreto-legge 5 luglio 1934, n. 1229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1229): 
+Sono autorizzate per l'esercizio finanziario 1935-36 le seguenti assegnazioni straordinarie, ivi comprese le integrazioni dipendenti dal [R. decreto-legge 5 luglio 1934, n. 1229](Autorizzazione%20di%20spese%20straordinarie%20per%20laeronautica.%20034U1229.md): 
  
  lire 52.500.000 per acquisti, espropriazioni e nuove costruzioni, comprese quelle riguardanti i campi di fortuna, nell'interesse del demanio aeronautico; 
  

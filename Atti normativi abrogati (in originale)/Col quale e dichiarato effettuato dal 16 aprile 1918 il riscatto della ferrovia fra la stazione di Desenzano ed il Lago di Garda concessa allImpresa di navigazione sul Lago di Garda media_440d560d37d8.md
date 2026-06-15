@@ -24,7 +24,7 @@ Visto l'art. 25 del capitolato annesso alla convenzione 20 aprile 1903, approvat
 
 Ritenuto che, col 16 aprile 1918, la Societa' anonima «Impresa di navigazione sul Lago di Garda» ha cessato l'esercizio del servizio di navigazione sul detto Lago;
 
-Vista la [legge 4 gennaio 1917, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-01-04;65);
+Vista la [legge 4 gennaio 1917, n. 65](Che%20converte%20in%20legge%20il%20R.%20decreto%2031%20gennaio%201909%20n.%20106%20col%20quale%20fu%20approvata%20la%20convenzione%20per%20lesercizio%20da%20parte%20dello%20Stato%20della%20ferrovia%20a%20vapore%20tra%20la%20stazione%20di%20Desenzano%20e_cd0b3d21beb6.md);
 
 Visto il testo unico di leggi approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
 
@@ -40,7 +40,7 @@ In relazione all'atto notificato addi' 16 aprile 1918 e' dichiarato effettuato d
 
 Al Governo del Re e' data ogni opportuna facolta' per l'effettuazione del riscatto di cui all'art. 1 
  
- L'indennita' di riscatto verra' determinata a norma dell'art. 31 della convenzione 17 dicembre 1892 approvata con [legge 5 marzo 1893, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-03-05;125), e su di essa spettera' alla Societa' ex-concessionaria soltanto l'interesse legale del 5 0_0 a datare dalla decorrenza del riscatto sino al giorno dell'ammissione a pagamento del relativo mandato salvo quanto stabilisce il successivo art. 5.
+ L'indennita' di riscatto verra' determinata a norma dell'art. 31 della convenzione 17 dicembre 1892 approvata con [legge 5 marzo 1893, n. 125](Che%20approva%20la%20convenzione%20per%20la%20concessione%20del%20servizio%20di%20navigazione%20con%20piroscafi%20sul%20Lago%20di%20Garda.%20093U0125.md), e su di essa spettera' alla Societa' ex-concessionaria soltanto l'interesse legale del 5 0_0 a datare dalla decorrenza del riscatto sino al giorno dell'ammissione a pagamento del relativo mandato salvo quanto stabilisce il successivo art. 5.
 
 ## Art. 3.
 

@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il regolamento per i servizi degli arsenali, delle basi navali e degli altri stabilimenti di lavoro della Marina militare e per l'amministrazione e la contabilita' dei lavori e dei materiali, approvato con [regio decreto 23 novembre 1939, n. 1898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-11-23;1898), e successive modificazioni;
 
-Vista la [legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100), e successive modificazioni;
+Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), e successive modificazioni;
 
 Udito il parere del Consiglio superiore di marina;
 

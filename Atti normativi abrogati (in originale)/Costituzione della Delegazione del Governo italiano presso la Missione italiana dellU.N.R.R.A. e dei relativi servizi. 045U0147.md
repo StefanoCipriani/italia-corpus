@@ -48,7 +48,7 @@ La Delegazione di cui al precedente articolo, per l'adempimento di compiti ad es
 
 ## Art. 3.
 
-All'organizzazione degli uffici di cui al precedente articolo si provvede con personale comandato da altre Amministrazioni, e con personale, non di ruolo, da assumere a tenore del [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), convertito in legge, con la [legge 7 giugno 1937, n. 1108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-07;1108), e successive modificazioni, nei limiti numerici e di categoria da concordare dalla Presidenza del Consiglio dei Ministri con il Ministero del tesoro. 
+All'organizzazione degli uffici di cui al precedente articolo si provvede con personale comandato da altre Amministrazioni, e con personale, non di ruolo, da assumere a tenore del [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), convertito in legge, con la [legge 7 giugno 1937, n. 1108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%204%20febbraio%201937-XV%20n.%20100%20contenente%20disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U1108.md), e successive modificazioni, nei limiti numerici e di categoria da concordare dalla Presidenza del Consiglio dei Ministri con il Ministero del tesoro. 
  
  Per il personale invece adibito presso l'Amministrazione dell'U.N.R.R.A. varranno le norme da questa fissate.
 

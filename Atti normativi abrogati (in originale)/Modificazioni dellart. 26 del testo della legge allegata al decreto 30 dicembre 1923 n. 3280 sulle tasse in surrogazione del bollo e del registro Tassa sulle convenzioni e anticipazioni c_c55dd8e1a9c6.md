@@ -12,13 +12,13 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'art. 26, primo comma, del testo della legge allegata al decreto 30 dicembre 1923, n. 3280;
 
-Visto il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), Sulla difesa del risparmio e sulla disciplina della funzione creditizia, modificato con le [leggi 7 marzo 1938, n. 141, 7 aprile 1938, n. 636, 10 giugno 1940, n. 933 e 3 dicembre 1942, n. 1752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-12-03;1752);
+Visto il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), Sulla difesa del risparmio e sulla disciplina della funzione creditizia, modificato con le [leggi 7 marzo 1938, n. 141, 7 aprile 1938, n. 636, 10 giugno 1940, n. 933 e 3 dicembre 1942, n. 1752](Modificazione%20dellart.%2012%20della%20legge%207%20marzo%201938-XVI%20n.%20141%20che%20ha%20convertito%20in%20legge%20con%20modificazioni%20il%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20dife_383c722bbb98.md);
 
-Visto il [decreto legislativo luogotenenziale 14 settembre 1944, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-14;226), concernente la soppressione dell'Ispettorato per la difesa del risparmio e per l'esercizio del credito ed il passaggio delle sue attribuzioni e facolta' al Ministero dei tesoro;
+Visto il [decreto legislativo luogotenenziale 14 settembre 1944, n. 226](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dellIspettorato%20per%20la%20difesa%20del%20risparmio%20e%20per%20lesercizio%20del%20credito%20e%20passaggio%20delle%20sue%20attribuzioni%20e%20facolta%20al%20Ministero%20del%20tesoro.%20044U0226.md), concernente la soppressione dell'Ispettorato per la difesa del risparmio e per l'esercizio del credito ed il passaggio delle sue attribuzioni e facolta' al Ministero dei tesoro;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

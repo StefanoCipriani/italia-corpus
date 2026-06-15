@@ -16,9 +16,9 @@ Visto il [decreto luogotenenziale 17 novembre 1945, num. 719](https://www.normat
 
 Visto il [decreto Presidenziale 22 giugno 1946, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1946-06-22;4);
 
-Visti gli [articoli 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_151), [198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_198), [189, del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_189) 274, 488 e 613 del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visti gli [articoli 151](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [198](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [189, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 274, 488 e 613 del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
-Visto il [regio decreto 5 settembre 1938, n. 1493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-05;1493), convertito nella [legge 16 gennaio 1939, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-16;68);
+Visto il [regio decreto 5 settembre 1938, n. 1493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-05;1493), convertito nella [legge 16 gennaio 1939, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%205%20settembre%201938-XVI%20n.%201493%20riguardante%20la%20inclusione%20delle%20spese%20di%20mantenimento%20dei%20condannati%20negli%20stabilimenti%20di%20pena%20tra%20le%20spese%20di%20g_5d9c296712dd.md);
 
 Visto il [decreto legislativo 23 novembre 1944, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-11-23;405);
 

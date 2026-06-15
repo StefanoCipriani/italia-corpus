@@ -24,11 +24,11 @@ EMANA il seguente decreto:
 
 1.
 
-E' autorizzata la spesa di lire 320 miliardi a titolo di contributo speciale alla regione Calabria, ai sensi dell'[articolo 12 della legge 16 maggio 1970, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281#art_12), sulle spese dalla medesima sostenute nel 1986 per il proseguimento delle attivita' previste dalla [legge 12 ottobre 1984, n. 664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-12;664).
+E' autorizzata la spesa di lire 320 miliardi a titolo di contributo speciale alla regione Calabria, ai sensi dell'[articolo 12 della legge 16 maggio 1970, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281#art_12), sulle spese dalla medesima sostenute nel 1986 per il proseguimento delle attivita' previste dalla [legge 12 ottobre 1984, n. 664](Misure%20straordinarie%20per%20la%20continuazione%20di%20iniziative%20in%20corso%20nel%20territorio%20della%20regione%20Calabria.md).
 
 2.
 
-L'erogazione della somma di cui al comma 1 e' subordinata alla presentazione al Ministero del tesoro, Ragioneria generale dello Stato, della dichiarazione del presidente della giunta regionale prevista dall'[articolo 1, comma 2, del decreto-legge 3 febbraio 1986, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-02-03;15#art_1-com2), convertito, con modificazioni, dalla [legge 2 aprile 1986, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-04-02;87).
+L'erogazione della somma di cui al comma 1 e' subordinata alla presentazione al Ministero del tesoro, Ragioneria generale dello Stato, della dichiarazione del presidente della giunta regionale prevista dall'[articolo 1, comma 2, del decreto-legge 3 febbraio 1986, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-02-03;15#art_1-com2), convertito, con modificazioni, dalla [legge 2 aprile 1986, n. 87](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20febbraio%201986%20n.%2015%20recante%20misure%20urgenti%20per%20lintervento%20idrogeologico%20e%20forestale%20nel%20territorio%20della%20regione%20Calabria.md).
 
 ## Art. 2.
 
@@ -48,17 +48,17 @@ Per la realizzazione di nuove strutture a favore dell'Universita' degli studi di
 
 3.
 
-Le predette somme sono utilizzate dalle citate Universita' secondo le modalita' stabilite dalla [legge 6 marzo 1976, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-03-06;50).
+Le predette somme sono utilizzate dalle citate Universita' secondo le modalita' stabilite dalla [legge 6 marzo 1976, n. 50](Piano%20pluriennale%20di%20finanziamento%20delledilizia%20universitaria.md).
 
 ## Art. 4.
 
 1.
 
-Per far fronte ai primi urgenti interventi di adeguamento antisismico sugli edifici pubblici nella regione Calabria, e per la formulazione di un programma operativo di adeguamento antisismico degli edifici e delle infrastrutture site nelle zone ad alto rischio sismico nella stessa regione, e' autorizzata la spesa di lire 70 miliardi che affluisce sul Fondo per la protezione civile, istituito con l'[articolo 2 del decreto-legge 10 luglio 1982, n. 428](Misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnimento%20degli%20incendi.md), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;547), e successive integrazioni.
+Per far fronte ai primi urgenti interventi di adeguamento antisismico sugli edifici pubblici nella regione Calabria, e per la formulazione di un programma operativo di adeguamento antisismico degli edifici e delle infrastrutture site nelle zone ad alto rischio sismico nella stessa regione, e' autorizzata la spesa di lire 70 miliardi che affluisce sul Fondo per la protezione civile, istituito con l'[articolo 2 del decreto-legge 10 luglio 1982, n. 428](Misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnimento%20degli%20incendi.md), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20428%20recante%20misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnim_04ba3d019ac1.md), e successive integrazioni.
 
 2.
 
-Il Ministro per il coordinamento della protezione civile, con i poteri di cui al [secondo comma dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1982, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-23;938), provvede, con proprie ordinanze, all'attuazione delle disposizioni di cui al comma 1.
+Il Ministro per il coordinamento della protezione civile, con i poteri di cui al [secondo comma dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1982, n. 938](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20novembre%201982%20n.%20829%20concernente%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20da%20calamita%20naturali%20o%20eventi%20eccezionali.md), provvede, con proprie ordinanze, all'attuazione delle disposizioni di cui al comma 1.
 
 ## Art. 5.
 

@@ -168,7 +168,7 @@ Sono soggetti alla approvazione del Ministero dell'economia nazionale il bilanci
 
 Gli impiegati degli uffici provinciali dell'economia sono - ad ogni effetto di legge - funzionari di Stato alla dipendenza dell'Economia nazionale. 
  
- A tali effetti, alle tabelle del Ministero dell'economia nazionale annesse al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sono aggiunti i ruoli provinciali degli uffici dell'economia, che saranno determinati e ripartiti nei singoli gradi gerarchici con Regio decreto promosso dal Ministro per l'economia nazionale di concerto con il Ministro per le finanze. 
+ A tali effetti, alle tabelle del Ministero dell'economia nazionale annesse al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono aggiunti i ruoli provinciali degli uffici dell'economia, che saranno determinati e ripartiti nei singoli gradi gerarchici con Regio decreto promosso dal Ministro per l'economia nazionale di concerto con il Ministro per le finanze. 
  
  Con decreto del Ministro per l'economia nazionale, di concerto col Ministro per le finanze, le spese per il personale degli uffici anzidetti sono di anno in anno ripartite tra i bilanci dei Consigli provinciali dell'economia. Le quote cosi stabilite sono versate in Tesoreria con imputazione al bilancio dell'entrata. 
  

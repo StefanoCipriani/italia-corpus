@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 maggio 1926, n. 886](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-06;886), concernente provvedimenti per la citta' di Palermo per la esecuzione di opere pubbliche straordinarie. 
+ E' convertito in legge il [R. decreto-legge 6 maggio 1926, n. 886](Provvedimenti%20per%20la%20citta%20di%20Palermo%20per%20la%20esecuzione%20di%20opere%20pubbliche%20straordinarie.%20026U0886.md), concernente provvedimenti per la citta' di Palermo per la esecuzione di opere pubbliche straordinarie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

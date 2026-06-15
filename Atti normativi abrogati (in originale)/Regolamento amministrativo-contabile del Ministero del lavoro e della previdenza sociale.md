@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e il relativo regolamento, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 19 marzo 1955, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-03-19;520), sulla riorganizzazione centrale e periferica del Ministero del lavoro e della previdenza sociale; Vista la [legge 22 luglio 1961, n. 628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-22;628), recante modifiche all'ordinamento del Ministero del lavoro e della previdenza sociale;
+Visto il [decreto del Presidente della Repubblica 19 marzo 1955, n. 520](../DPR/Riorganizzazione%20centrale%20e%20periferica%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.md), sulla riorganizzazione centrale e periferica del Ministero del lavoro e della previdenza sociale; Vista la [legge 22 luglio 1961, n. 628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-22;628), recante modifiche all'ordinamento del Ministero del lavoro e della previdenza sociale;
 
 Udito il parere del Consiglio di Stato;
 
@@ -170,7 +170,7 @@ XVII ) spese per il reclutamento, l'avviamento e la
  n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-25;244);
 XVIII) spese per accertamenti sanitari di cui al
  testo unico approvato con [decreto del Presidente della
- Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3) e alla [legge 15 febbraio
+ Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e alla [legge 15 febbraio
  1958, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-15;46).
 
 ## Art. 24.

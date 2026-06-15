@@ -14,11 +14,11 @@ TITOLO I.
 
 ### Art. 1.
 
-A decorrere dall'anno 1945 e fino al secondo anno successivo a quello in cui sara' dichiarata la cessazione dello stato di guerra, l'imposta di ricchezza mobile e' applicata sui redditi di categoria A coll'aliquota del 30 per cento e sui redditi di categoria B coll'aliquota del 26 per cento comprensiva per le ditte individuali e per le societa' non azionarie dell'imposta speciale sui redditi dei capitali investiti in attivita' industriali e commerciali, istituita a carico delle imprese stesse dall'[art. 12 del R. decreto-legge 12 aprile 1943, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-12;205#art_12). 
+A decorrere dall'anno 1945 e fino al secondo anno successivo a quello in cui sara' dichiarata la cessazione dello stato di guerra, l'imposta di ricchezza mobile e' applicata sui redditi di categoria A coll'aliquota del 30 per cento e sui redditi di categoria B coll'aliquota del 26 per cento comprensiva per le ditte individuali e per le societa' non azionarie dell'imposta speciale sui redditi dei capitali investiti in attivita' industriali e commerciali, istituita a carico delle imprese stesse dall'[art. 12 del R. decreto-legge 12 aprile 1943, n. 205](Provvedimenti%20in%20materia%20di%20imposte%20dirette.%20043U0205.md). 
  
  Ai fini dell'applicazione dell'aliquota stabilita dal comma precedente, dai redditi netti di categoria B non superiori a L. 10.000 si detrae il 25 per cento; dai redditi superiori si detrae la somma fissa di L. 2500. 
  
- L'imposta speciale istituita dall'[art. 12 del R. decreto-legge 12 aprile 1943, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-12;205#art_12), e' dovuta, a decorrere dal 1945 dalle imprese industriali e commerciali in qualunque forma costituite, i cui redditi di categoria B sono esenti dalla normale imposta di ricchezza mobile in forza di speciali disposizioni legislative o soggetti ad un tributo sostitutivo. 
+ L'imposta speciale istituita dall'[art. 12 del R. decreto-legge 12 aprile 1943, n. 205](Provvedimenti%20in%20materia%20di%20imposte%20dirette.%20043U0205.md), e' dovuta, a decorrere dal 1945 dalle imprese industriali e commerciali in qualunque forma costituite, i cui redditi di categoria B sono esenti dalla normale imposta di ricchezza mobile in forza di speciali disposizioni legislative o soggetti ad un tributo sostitutivo. 
  
  I redditi di categoria C/1 sono esenti dalla imposta di ricchezza mobile fino all'ammontare di L. 6000 ragguagliato ad anno; l'ammontare eccedente e' soggetto all'imposta di ricchezza mobile con l'aliquota del 16 per cento.
 
@@ -66,7 +66,7 @@ Le indennita' di anzianita' corrisposte una volta tanto per la cessazione del ra
 
 ### Art. 8.
 
-E' abrogata la [legge 25 giugno 1940, n. 870](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-25;870), istitutiva di un contributo straordinario del 2 per cento sui salari a favore delle famiglie dei richiamati.
+E' abrogata la [legge 25 giugno 1940, n. 870](Istituzione%20di%20un%20contributo%20straordinario%20del%202%20per%20cento%20sui%20salari%20a%20favore%20delle%20famiglie%20dei%20richiamati.%20040U0870.md), istitutiva di un contributo straordinario del 2 per cento sui salari a favore delle famiglie dei richiamati.
 
 ### Art. 9.
 
@@ -114,19 +114,19 @@ Ai fini dell'applicazione dell'imposta complementare progressiva i redditi delle
 
 I frutti delle azioni distribuiti agli azionisti concorrono a formare il reddito complessivo ai fini dell'imposta complementare. 
  
- I frutti delle azioni sono soggetti all'imposta sui frutti dei titoli al portatore istituita dal [R. decreto-legge 7 settembre 1935, n. 1627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-07;1627), convertito nella [legge 13 gennaio 1936, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-13;76), nella misura e con le modalita' stabilite nel detto decreto. 
+ I frutti delle azioni sono soggetti all'imposta sui frutti dei titoli al portatore istituita dal [R. decreto-legge 7 settembre 1935, n. 1627](Istituzione%20di%20una%20imposta%20del%2010%20per%20cento%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20societa%20istituti%20ed%20enti%20diversi%20dallo%20Stato.%20035U1627.md), convertito nella [legge 13 gennaio 1936, n. 76](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%207%20settembre%201935-XIII%20n.%201627%20concernente%20listituzione%20di%20una%20imposta%20del%2010%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20socie_c6b003ff42a4.md), nella misura e con le modalita' stabilite nel detto decreto. 
  
  Sono abrogati: 
  
- l'[art. 1 del R. decreto-legge 27 dicembre 1940, numero 1713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-12-27;1713#art_1), convertito nella [legge 18 aprile 1941, n. 278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-18;278), modificato dall'[art. 5 del R. decreto-legge 12 aprile 1943, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-12;205#art_5); 
+ l'[art. 1 del R. decreto-legge 27 dicembre 1940, numero 1713](Modificazioni%20alla%20imposta%20del%2010%20per%20cento%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20societa%20istituti%20ed%20enti%20diversi%20dallo%20Stato.%20040U1713.md), convertito nella [legge 18 aprile 1941, n. 278](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20Regio%20decreto-legge%2027%20dicembre%201940-XIX%20n.%201713%20portante%20modificazioni%20alla%20imposta%20del%2010%20per%20cento%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20_38cc8906188a.md), modificato dall'[art. 5 del R. decreto-legge 12 aprile 1943, n. 205](Provvedimenti%20in%20materia%20di%20imposte%20dirette.%20043U0205.md); 
  
- gli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-10-25;1148#art_11) e [14 del R. decreto-legge 25 ottobre 1941, n. 1148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-10-25;1148#art_14), convertito nella [legge 9 febbraio 1942, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-09;96). 
+ gli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-10-25;1148#art_11) e [14 del R. decreto-legge 25 ottobre 1941, n. 1148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-10-25;1148#art_14), convertito nella [legge 9 febbraio 1942, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2025%20ottobre%201941-XIX%20n.%201148%20concernente%20la%20nominativita%20obbligatoria%20dei%20titoli%20azionari.%20042U0096.md). 
  
  L'ammontare degli utili che possono essere distribuiti a norma delle disposizioni vigenti relative alla limitazione dei dividendi e' ridotto del 10 per cento dell'ammontare stesso.
 
 ### Art. 16.
 
-La somma di cui e' ammessa la detrazione dal reddito complessivo per ciascun componente la famiglia non potra' eccedere per ogni persona a carico L. 6.000 o L. 12.000 nel caso previsto dall'[art. 14 del R. decreto-legge 21 agosto 1937, n. 1542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-08-21;1542#art_14), convertito nella [legge 3 gennaio 1939, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-03;1). 
+La somma di cui e' ammessa la detrazione dal reddito complessivo per ciascun componente la famiglia non potra' eccedere per ogni persona a carico L. 6.000 o L. 12.000 nel caso previsto dall'[art. 14 del R. decreto-legge 21 agosto 1937, n. 1542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-08-21;1542#art_14), convertito nella [legge 3 gennaio 1939, n. 1](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decretolegge%2021%20agosto%201937-XV%20n.%201542%20riguardante%20provvedimenti%20per%20lincremento%20demografico%20della%20Nazione.%20039U0001.md). 
  
  All'effetto delle detrazioni gli affiliati sono parificati ai figli adottivi.
 
@@ -146,13 +146,13 @@ Sui redditi di categoria C/2 dei lavoratori ai quali compete una retribuzione ch
 
 L'imposta complementare progressiva e' applicata sul reddito imponibile secondo la tabella allegata al presente decreto, firmata, d'ordini Nostro dal Ministro per le finanze. 
  
- L'imposta come sopra stabilita' assorbe l'addizionale di guerra istituita dalla [legge 25 giugno 1940, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-25;800).
+ L'imposta come sopra stabilita' assorbe l'addizionale di guerra istituita dalla [legge 25 giugno 1940, n. 800](Istituzione%20di%20unaddizionale%20di%20guerra%20alla%20imposta%20complementare%20progressiva%20sul%20reddito.%20040U0800.md).
 
 ### Art. 20.
 
-E' abolita l'imposta sui celibi istituita dal [R. decreto-legge 19 dicembre 1926, n. 2132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-19;2132), convertito nella [legge 22 dicembre 1927, n. 2492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-22;2492). 
+E' abolita l'imposta sui celibi istituita dal [R. decreto-legge 19 dicembre 1926, n. 2132](Imposta%20personale%20progressiva%20sui%20celibi.%20026U2132.md), convertito nella [legge 22 dicembre 1927, n. 2492](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20dicembre%201926%20n.%202132%20istitutivo%20dellimposta%20personale%20progressiva%20sui%20celibi.%20027U2492.md). 
  
- La quota integrativa prevista dal [secondo comma dell'art. 2 del R. decreto-legge 13 febbraio 1927, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;124#art_2-com2), e successive modificazioni, continua ad essere dovuta come addizionale all'imposta complementare con le aliquote della tabella approvata col [R. decreto 19 febbraio 1925, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-19;177). 
+ La quota integrativa prevista dal [secondo comma dell'art. 2 del R. decreto-legge 13 febbraio 1927, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;124#art_2-com2), e successive modificazioni, continua ad essere dovuta come addizionale all'imposta complementare con le aliquote della tabella approvata col [R. decreto 19 febbraio 1925, n. 177](Aliquote%20dellimposta%20complementare%20sul%20reddito.%20025U0177.md). 
  
  L'addizionale e' liquidata sul reddito proprio del celibe accertato all'imposta complementare in applicazione degli articoli 14 e seguenti.
 
@@ -208,7 +208,7 @@ Nel caso che per fatto di guerra sia venuto a mancare un terzo almeno del prodot
 
 ### Art. 27.
 
-In revisione prevista dall'[art. 13 del R. decreto-legge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-04;589#art_13), convertito nella [legge 29 giugno 1939, n. 976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-29;976), puo' essere effettuata prima del termine fissato nell'articolo stesso quando e' resa necessaria da variazioni dipendenti da fatto di guerra e puo' essere richiesta anche dal capo dell'Amministrazione comunale.
+In revisione prevista dall'[art. 13 del R. decreto-legge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-04;589#art_13), convertito nella [legge 29 giugno 1939, n. 976](../DL%20e%20leggi%20di%20conversione/Conversione%20In%20legge%20con%20modificazioni%20del%20R.%20decreto%20legge%204%20aprile%201939%20-%20XVII%20n.%20589%20concernente%20la%20revisione%20generale%20degli%20estimi%20dei%20terreni.%20039U0976.md), puo' essere effettuata prima del termine fissato nell'articolo stesso quando e' resa necessaria da variazioni dipendenti da fatto di guerra e puo' essere richiesta anche dal capo dell'Amministrazione comunale.
 
 ### Art. 28.
 
@@ -231,7 +231,7 @@ TITOLO V.
 
 ### Art. 30.
 
-Le esenzioni tributarie concesse alle famiglie numerose con la [legge 14 giugno 1928, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-06-14;1312), e successive modificazioni, sono limitate a coloro i quali hanno realmente a carico sette o piu' figli. 
+Le esenzioni tributarie concesse alle famiglie numerose con la [legge 14 giugno 1928, n. 1312](Concessione%20di%20esenzioni%20tributarie%20alle%20famiglie%20numerose.%20028U1312.md), e successive modificazioni, sono limitate a coloro i quali hanno realmente a carico sette o piu' figli. 
  
  L'esenzione continua a competere nella misura della meta' quando il numero dei figli che si trovano nelle condizioni sopraindicate si riduce a non meno di cinque; cessa quando tale numero si riduce a meno di cinque. 
  
@@ -241,15 +241,15 @@ Le esenzioni tributarie concesse alle famiglie numerose con la [legge 14 giugno 
 
 ### Art. 31.
 
-L'esenzione dai tributi previsti nei [numeri 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-06-14;1312#art_1-num1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-06-14;1312#art_1-num2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-06-14;1312#art_1-num3) e [4 dell'art. 1 lett. c) della legge 14 giugno 1928, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-06-14;1312#art_1-letc-num4), compete soltanto a coloro il cui reddito complessivo non eccede le L. 100.000.
+L'esenzione dai tributi previsti nei [numeri 1](Concessione%20di%20esenzioni%20tributarie%20alle%20famiglie%20numerose.%20028U1312.md), [2](Concessione%20di%20esenzioni%20tributarie%20alle%20famiglie%20numerose.%20028U1312.md), [3](Concessione%20di%20esenzioni%20tributarie%20alle%20famiglie%20numerose.%20028U1312.md) e [4 dell'art. 1 lett. c) della legge 14 giugno 1928, n. 1312](Concessione%20di%20esenzioni%20tributarie%20alle%20famiglie%20numerose.%20028U1312.md), compete soltanto a coloro il cui reddito complessivo non eccede le L. 100.000.
 
 ### Art. 32.
 
-L'esenzione dell'imposta ordinaria sul patrimonio stabilita dall'[art. 1 della legge 20 marzo 1940, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-03-20;224#art_1), e' limitata alla quota del patrimonio fino al valore imponibile di L. 500.000.
+L'esenzione dell'imposta ordinaria sul patrimonio stabilita dall'[art. 1 della legge 20 marzo 1940, n. 224](Esenzioni%20tributarie%20a%20favore%20delle%20famiglie%20numerose.%20040U0224.md), e' limitata alla quota del patrimonio fino al valore imponibile di L. 500.000.
 
 ### Art. 33.
 
-Le esenzioni dalle imposte di registro e ipotecarie previste negli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-29;877#art_6) e [7 della legge 29 giugno 1940, n. 877](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-29;877#art_7), sono abrogate.
+Le esenzioni dalle imposte di registro e ipotecarie previste negli [articoli 6](Agevolazioni%20varie%20a%20tutela%20del%20patrimonio%20delle%20famiglie%20numerose%20con%20particolare%20riguardo%20a%20quelle%20rurali.%20040U0877.md) e [7 della legge 29 giugno 1940, n. 877](Agevolazioni%20varie%20a%20tutela%20del%20patrimonio%20delle%20famiglie%20numerose%20con%20particolare%20riguardo%20a%20quelle%20rurali.%20040U0877.md), sono abrogate.
 
 ### Art. 34.
 

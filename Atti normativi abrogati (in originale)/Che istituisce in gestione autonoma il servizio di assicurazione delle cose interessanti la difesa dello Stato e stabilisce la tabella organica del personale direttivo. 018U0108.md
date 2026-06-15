@@ -18,7 +18,7 @@ Il personale direttivo preposto al detto servizio e' stabilito per la durata del
  
  Alle mansioni di carattere esecutivo sara' provveduto con personale comandato di altre Amministrazioni e, occorrendo, con cittadini esperti, nominati per la durata della guerra, i quali assumeranno i doveri e le responsabilita' dei pubblici funzionari e saranno considerati tali ad ogni effetto di legge. 
  
- Le nomine eventuali delle persone estranee all'Amministrazione, nei limiti dei bisogni del servizio, saranno fatte con le norme della [legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182), concernente l'assunzione in servizio d'impiegati avventizi.
+ Le nomine eventuali delle persone estranee all'Amministrazione, nei limiti dei bisogni del servizio, saranno fatte con le norme della [legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md), concernente l'assunzione in servizio d'impiegati avventizi.
 
 ## Art. 3.
 

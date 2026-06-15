@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 marzo 1929, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-21;590), recante modifiche alla costituzione del Consiglio superiore di sanita'. 
+ E' convertito in legge il [R. decreto-legge 21 marzo 1929, n. 590](Modifiche%20alla%20costituzione%20del%20Consiglio%20superiore%20di%20sanita.%20029U0590.md), recante modifiche alla costituzione del Consiglio superiore di sanita'. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

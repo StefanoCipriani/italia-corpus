@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 febbraio 1934, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-02-15;455), contenente norme sulla disciplina del controllo delle merci destinate all'estero. 
+ E' convertito in legge il [R. decreto-legge 15 febbraio 1934, n. 455](Norme%20sulla%20disciplina%20del%20controllo%20delle%20merci%20destinate%20allestero.%20034U0455.md), contenente norme sulla disciplina del controllo delle merci destinate all'estero. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

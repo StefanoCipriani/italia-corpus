@@ -32,7 +32,7 @@ Il termine pel riassorbimento in organico delle eccedenze che, a quella data, ri
 
 ## Art. 4.
 
-Fermo restando il numero di 39,000 uomini bilanciato, come forza organica del corpo R. equipaggi nello stato di previsione della spesa per l'esercizio finanziario 1916-917, ed il disposto del Nostro decreto 18 maggio 1916, n. 650, la percentuale di sott'ufficiali stabilita con l'[art. 4 della legge 22 giugno 1913, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;710#art_4), durante il periodo della guerra e per sei mesi dalla conclusione della pace, e' portata, dal 15,4% al 16,3%.
+Fermo restando il numero di 39,000 uomini bilanciato, come forza organica del corpo R. equipaggi nello stato di previsione della spesa per l'esercizio finanziario 1916-917, ed il disposto del Nostro decreto 18 maggio 1916, n. 650, la percentuale di sott'ufficiali stabilita con l'[art. 4 della legge 22 giugno 1913, n. 710](Che%20reca%20provvedimenti%20per%20i%20militari%20del%20corpo%20R.%20equipaggi.%20013U0710.md), durante il periodo della guerra e per sei mesi dalla conclusione della pace, e' portata, dal 15,4% al 16,3%.
 
 ## Art. 5.
 

@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Vista la [legge 2 giugno 1927, n. 862](Ordinamento%20della%20carriera%20diplomatico-consolare.%20027U0862.md);
 
-Visto il [R. decreto 14 agosto 1931, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-08-14;1354);
+Visto il [R. decreto 14 agosto 1931, n. 1354](Approvazione%20di%20nuovi%20ruoli%20organici%20del%20Ministero%20degli%20affari%20esteri.%20031U1354.md);
 
 Ritenuta la necessita' urgente ed assoluta di provvedere;
 

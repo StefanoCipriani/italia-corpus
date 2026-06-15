@@ -17,7 +17,7 @@ UMBERTO DI SAVOIA
  In virtu' dell'autorita' a Noi delegata;
  Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), riguardante la facolta' del Governo di emanare norme giuridiche;
  Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md), recante nuove norme per l'emanazione, promulgazione e pubblicazione di decreti Luogotenenziali e di altri provvedimenti;
- Visto il [R. Decreto-legge 2 dicembre 1935, n. 2085](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-02;2085), convertito nella [legge 6 aprile 1936, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;899), che istituisce il monopolio statale delle banane;
+ Visto il [R. Decreto-legge 2 dicembre 1935, n. 2085](Istituzione%20del%20Monopolio%20statale%20delle%20banane.%20035U2085.md), convertito nella [legge 6 aprile 1936, n. 899](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%202%20dicembre%201935-XIV%20n.%202085%20riguardante%20listituzione%20del%20Monopolio%20statale%20delle%20banane.%20036U0899.md), che istituisce il monopolio statale delle banane;
  Considerato che occorre provvedere all'approvazione del bilancio, per l'esercizio 1945-46, della Regia Azienda Monopolio Banane;
  Udito il parere della Consulta Nazionale;
  Vista la deliberazione del Consiglio dei Ministri;

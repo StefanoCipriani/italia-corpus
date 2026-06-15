@@ -34,7 +34,7 @@ La gestione unica degli atti affini raggruppati sara' condotta da un Consiglio d
 
 AGGIORNAMENTO (1)
 
-L'Errata-Corrige in G.U. 13/08/1897, n. 188 aveva precedentemente disposto che "Nella pubblicazione seguita nel n. 185 di questa Gazzetta Ufficiale (10 agosto corrente) della [legge 2 agosto 1897 n. 348, all'art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-08-02;348#art_4) della stessa, fu per errore tipografico stampato: «La questione» invece di: «La gestione degli atti, ecc.»". 
+L'Errata-Corrige in G.U. 13/08/1897, n. 188 aveva precedentemente disposto che "Nella pubblicazione seguita nel n. 185 di questa Gazzetta Ufficiale (10 agosto corrente) della [legge 2 agosto 1897 n. 348, all'art. 4](Sul%20raggruppamento%20degli%20Istituti%20di%20beneficenza%20della%20citta%20di%20Napoli.%20097U0348.md) della stessa, fu per errore tipografico stampato: «La questione» invece di: «La gestione degli atti, ecc.»". 
 ------------ 
 Nota redazionale 
  Il testo del presente articolo e' gia' integrato con le correzioni apportate dagli errata-corrige pubblicati in G.U. 13/08/1897, n. 188 e in G.U. 16/08/1897, n. 190 durante il periodo di "vacatio legis". 

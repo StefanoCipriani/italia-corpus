@@ -34,7 +34,7 @@ I capi di famiglia, i capi dei corpi e i proprietari o direttori di istituti, co
 
 Coloro che ricusassero di fornire le notizie domandate nelle schede, o che alterassero scientemente la verita', incorreranno in un'ammenda non minore di lire cinque ed estensibile a cinquanta. 
  
- Le contravvenzioni alle disposizioni dell'articolo precedente sono di azione pubblica, e si applicheranno ad esse i procedimenti indicati agli articoli 201, 202 e 203 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 maggio 1898, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-05-04;164).
+ Le contravvenzioni alle disposizioni dell'articolo precedente sono di azione pubblica, e si applicheranno ad esse i procedimenti indicati agli articoli 201, 202 e 203 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 maggio 1898, n. 164](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md).
 
 ## Art. 6.
 

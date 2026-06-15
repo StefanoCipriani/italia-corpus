@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Ai soli effetti del riparto e della distribuzione della sovrimposta provinciale, per i distretti di Uffici delle imposte o per i Comuni nei quali venga attivato isolatamente il catasto nuovo in applicazione dell'[art. 4 del R. decreto 14 giugno 1923, n. 1276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1276#art_4), dovra' prendersi a base l'imposta erariale calcolata sugli estimi del vecchio catasto. 
+ Ai soli effetti del riparto e della distribuzione della sovrimposta provinciale, per i distretti di Uffici delle imposte o per i Comuni nei quali venga attivato isolatamente il catasto nuovo in applicazione dell'[art. 4 del R. decreto 14 giugno 1923, n. 1276](Concernente%20la%20costituzione%20delle%20Commissioni%20censuarie%20la%20revisione%20generale%20degli%20estimi%20e%20lattivazione%20del%20nuovo%20catasto.%20023U1276.md), dovra' prendersi a base l'imposta erariale calcolata sugli estimi del vecchio catasto. 
  Soltanto quando il nuovo catasto sara' attivato agli effetti tributari in tutti i Comuni della rispettiva Provincia, la sovrimposta provinciale sara' ripartita in base all'imposta erariale risultante dall'applicazione della nuova rendita censuaria. 
  Fra i singoli possessori del Comune, pero', la sovrimposta provinciale si ripartira' sulla base della nuova rendita inscritta sui ruoli dell'anno al quale la sovrimposta si riferisce. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 

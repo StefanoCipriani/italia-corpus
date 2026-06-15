@@ -40,7 +40,7 @@ Il comandante del corpo italiano in Albania avra' il comando di tutte le forze d
 
 ## Art. 3.
 
-Il comandante suddetto, nel predetto territorio ha le attribuzioni e le facolta' determinate per lo stato di guerra dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito, e dalle leggi e regolamenti del R. esercito.
+Il comandante suddetto, nel predetto territorio ha le attribuzioni e le facolta' determinate per lo stato di guerra dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e dalle leggi e regolamenti del R. esercito.
 
 ## Art. 4.
 

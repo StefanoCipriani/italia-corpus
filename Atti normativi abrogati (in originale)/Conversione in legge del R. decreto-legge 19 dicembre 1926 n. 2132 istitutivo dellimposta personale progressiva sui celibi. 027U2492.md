@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 dicembre 1926, n. 2132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-19;2132), con il quale viene istituita un'imposta personale progressiva sui celibi. 
+ E' convertito in legge il [R. decreto-legge 19 dicembre 1926, n. 2132](Imposta%20personale%20progressiva%20sui%20celibi.%20026U2132.md), con il quale viene istituita un'imposta personale progressiva sui celibi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

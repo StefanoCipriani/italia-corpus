@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 settembre 1927, n. 1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-09-04;1981), che detta norme per l'accettazione degli agglomeranti idraulici e l'esecuzione delle opere in conglomerato cementizio semplice ed armato, con le modificazioni apportate dalla presente legge. 
+ E' convertito in legge il [R. decreto-legge 4 settembre 1927, n. 1981](Nuove%20norme%20per%20laccettazione%20degli%20agglomeranti%20idraulici%20e%20lesecuzione%20delle%20opere%20in%20conglomerato%20cementizio%20semplice%20ed%20armato.%20027U1981.md), che detta norme per l'accettazione degli agglomeranti idraulici e l'esecuzione delle opere in conglomerato cementizio semplice ed armato, con le modificazioni apportate dalla presente legge. 
  
  In base all'[art. 3, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), e' data facolta' al Governo del Re di emanare, entro un quinquennio dalla data della presente legge, per Regio decreto, sentito il Consiglio superiore dei lavori pubblici, le norme integrative e modificative, che occorrono per regolare la materia degli agglomeranti idraulici e delle opere in conglomerato cementizio. 
  

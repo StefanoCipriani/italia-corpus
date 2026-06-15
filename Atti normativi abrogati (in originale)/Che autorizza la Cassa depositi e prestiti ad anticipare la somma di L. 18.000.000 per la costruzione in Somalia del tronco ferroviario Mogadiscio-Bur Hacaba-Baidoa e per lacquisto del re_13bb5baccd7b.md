@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 5 aprile 1908, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-04-05;161), per l'ordinamento della Somalia italiana, modificata con la [legge 6 luglio 1911, n. 764](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;764);
+Vista la [legge 5 aprile 1908, n. 161](Per%20lordinamento%20della%20Somalia%20italiana.%20008U0161.md), per l'ordinamento della Somalia italiana, modificata con la [legge 6 luglio 1911, n. 764](Che%20modifica%20la%20legge%205%20aprile%201908%20n.%20161%20sullordinamento%20della%20Somalia%20italiana.%20011U0764.md);
 
 Udito il Consiglio dei ministri;
 

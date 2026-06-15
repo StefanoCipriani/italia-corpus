@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Sono convertiti in legge i [Regi decreti 12 giugno 1912, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-12;545), e [6 febbraio 1913, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-02-06;71), riguardanti il trattamento degli spiriti di cui all'art. 43, 1° comma, del testo unico di [leggi 16 settembre 1909, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-09-16;704).
+Sono convertiti in legge i [Regi decreti 12 giugno 1912, n. 545](Che%20detta%20nuove%20norme%20per%20lapplicazione%20dellart.%2043%201%20comma%20del%20testo%20unico%20di%20leggi%20sugli%20spiriti.%20012U0545.md), e [6 febbraio 1913, n. 71](Riguardante%20lautorizzazione%20di%20estrarre%20gli%20spiriti%20dai%20magazzini%20per%20la%20preparazione%20del%20cognac.%20013U0071.md), riguardanti il trattamento degli spiriti di cui all'art. 43, 1° comma, del testo unico di [leggi 16 settembre 1909, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-09-16;704).
 
 ## Art. 2.
 
-E' convertito in legge il [R. decreto 31 dicembre 1913, n. 1392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-12-31;1392), che apporta modificazioni al regime fiscale degli spiriti.
+E' convertito in legge il [R. decreto 31 dicembre 1913, n. 1392](Che%20apporta%20modificazioni%20al%20regime%20fiscale%20degli%20spiriti.%20013U1392.md), che apporta modificazioni al regime fiscale degli spiriti.
 
 ## Art. 3.
 
@@ -22,7 +22,7 @@ La cauzione pei magazzini di spirito gravati di tassa deve essere prestata in nu
 
 ## Art. 4.
 
-Al testo unico delle leggi sugli spiriti, approvato con [R. decreto 16 settembre 1909, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-09-16;704), e' aggiunto, all'art. 28, il seguente: 
+Al testo unico delle leggi sugli spiriti, approvato con [R. decreto 16 settembre 1909, n. 704](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sugli%20spiriti.%20009U0704.md), e' aggiunto, all'art. 28, il seguente: 
  
  Art. 28.-bis. - La sottrazione dello spirito al pagamento della tassa, mediante simulata adulterazione, o con qualsiasi altro atto fraudolento, inteso a far figurare come sottoposto all'adulterazione spirito che, in fatto, non sia stato adulterato, e' punita con le pene stabilite dall'art. 23, ragguagliando la multa alla quantita' di spirito sottratta o che siasi tentato sottrarre al pagamento della tassa. 
  

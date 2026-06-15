@@ -10,23 +10,23 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con regio decreto 24 agosto, n. 4021 e successive modificazioni e il relativo regolamento approvato con [regio decreto 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-11;560);
+Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con regio decreto 24 agosto, n. 4021 e successive modificazioni e il relativo regolamento approvato con [regio decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
 
 Visto il [regio decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608);
 
-Visto il [regio decreto 8 luglio 1937, n. 1516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-08;1516);
+Visto il [regio decreto 8 luglio 1937, n. 1516](Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md);
 
-Visto il [regio decreto-legge 12 ottobre 1939, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;152) convertito nella [legge 8 febbraio 1940, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-02-08;100), e successive modificazioni;
+Visto il [regio decreto-legge 12 ottobre 1939, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;152) convertito nella [legge 8 febbraio 1940, n. 100](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20ottobre%201939-XVII%20n.%201529%20concernente%20listituzione%20di%20una%20imposta%20Ordinarie%20sul%20patrimonio.%20040U0100.md), e successive modificazioni;
 
-Visto il [regio decreto 3 giugno 1943, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-06-03;598) e successive modificazioni;
+Visto il [regio decreto 3 giugno 1943, n. 598](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md) e successive modificazioni;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 2 marzo 1947, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-02;143);
 
-Vista la [legge 1 settembre 1947, n. 828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1947-09-01;828);
+Vista la [legge 1 settembre 1947, n. 828](Convalida%20con%20modificazioni%20ed%20aggiunte%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2029%20marzo%201947%20n.%20143%20concernente%20listituzione%20di%20una%20imposta%20straordinaria%20progressiva%20sul%20patrimonio.md);
 
 Viso l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -52,12 +52,12 @@ Sono soggetti all'imposta straordinaria progressiva le persone fisiche.
 ### Art. 3.
 
 Ai fini dell'imposta straordinaria progressiva, si considerano nel patrimonio del marito i beni acquistati dalla moglie, a titolo oneroso, dopo il 28 marzo 1937.
- Agli stessi fini, si considerano nel patrimonio del marito le azioni intestate al nome della moglie in occasione della nominativita' obbligatoria dei titoli azionari, disposta dal [regio decreto-legge 25 ottobre 1941, n. 1148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-10-25;1148), convertito nella [legge 9 febbraio 1942, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-09;96).
+ Agli stessi fini, si considerano nel patrimonio del marito le azioni intestate al nome della moglie in occasione della nominativita' obbligatoria dei titoli azionari, disposta dal [regio decreto-legge 25 ottobre 1941, n. 1148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-10-25;1148), convertito nella [legge 9 febbraio 1942, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2025%20ottobre%201941-XIX%20n.%201148%20concernente%20la%20nominativita%20obbligatoria%20dei%20titoli%20azionari.%20042U0096.md).
  E' fatta eccezione per i beni per i quali sia dimostrato che l'acquisto rappresenta trasformazione di ben i posseduti dalla moglie anteriormente a detta data, o acquisiti successivamente a titolo gratuito, ovvero investimento di redditi propri, conseguiti durante il matrimonio, o di capitali provenienti da accensione di debiti.
  Ai medesimi fini, si considerano nel patrimonio degli ascendenti i beni da essi ceduti ai discendenti dopo il 28 marzo 1937, quando la cessione dipenda:
  a) da trasferimenti a titolo gratuito, esclusi quelli effettuati per costituzione di dote o per costituzione di patrimonio ecclesiastico o per fare altra assegnazione ai discendenti per causa di seguito matrimonio;
  b) da trasferimenti a titolo oneroso, salvo non sia dimostrato che l'acquisto rappresenta trasformazione di beni posseduti dall'acquirente anteriormente alla data predetta o acquisiti successivamente a titolo gratuito, ovvero investimento di redditi propri o di capitali provenienti da accensioni di debiti.
- Ai medesimi fini, si considerano nel patrimonio del padre le azioni intestate al nome dei figli in occasione della nominativita' obbligatoria dei titoli azionari disposta dal [regio decreto-legge 25 ottobre 1941, n. 1148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-10-25;1148), convertito nella [legge 9 febbraio 1942, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-09;96), salvo non sia dimostrato che le azioni erano state acquistate dal figlio - a titolo gratuito o a titolo oneroso - prima della conversione.
+ Ai medesimi fini, si considerano nel patrimonio del padre le azioni intestate al nome dei figli in occasione della nominativita' obbligatoria dei titoli azionari disposta dal [regio decreto-legge 25 ottobre 1941, n. 1148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-10-25;1148), convertito nella [legge 9 febbraio 1942, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2025%20ottobre%201941-XIX%20n.%201148%20concernente%20la%20nominativita%20obbligatoria%20dei%20titoli%20azionari.%20042U0096.md), salvo non sia dimostrato che le azioni erano state acquistate dal figlio - a titolo gratuito o a titolo oneroso - prima della conversione.
  Quando si fa luogo al cumulo previsto nel presente articolo, il contribuente ha il diritto di rivalersi, verso gli intestatari dei beni cumulati, della quota proporzionale d'imposta afferente i beni medesimi.
 
 ### Art. 4.
@@ -103,12 +103,12 @@ Sono enti dall'imposta straordinaria gli agenti diplomatici di cittadinanza stra
 ### Art. 8.
 
 Sono esenti dall'imposta straordinaria sul patrimonio i seguenti cespiti:
- 1) i capitali corrispondenti a contributi che, per legge o per contratto, siano stati versati a Casse di previdenza o di soccorso istituite contro i rischi di malattia, infortuni, vecchiaia ed invalidita', a Casse di previdenza o Casse di pensioni per gli impiegati privati, od a Casse di pensioni per vedove od orfani, contemplate alle [lettere c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-04-29;966#art_2-letc) ed [f) dell'art. 2 del regio decreto-legge 29 aprile 1923, n. 966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-04-29;966#art_2-letf);
+ 1) i capitali corrispondenti a contributi che, per legge o per contratto, siano stati versati a Casse di previdenza o di soccorso istituite contro i rischi di malattia, infortuni, vecchiaia ed invalidita', a Casse di previdenza o Casse di pensioni per gli impiegati privati, od a Casse di pensioni per vedove od orfani, contemplate alle [lettere c)](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md) ed [f) dell'art. 2 del regio decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md);
  2) i capitali corrispondenti a rendite vitalizie ad altre rendite di carattere temporaneo;
  3) il prezzo di riscatto delle somme assicurate sulla vita, fatta eccezione per i contratti di assicurazione a premio unico, stipulati dopo il 10 giugno 1940;
  4) le chiese ed ogni altro edificio destinato al culto, col mobilio, gli arredi sacri, i reliquari e qualunque altro oggetto servente al culto medesimo;
  5) i titoli del Prestito della Ricostruzione, autorizzato con [decreto legislativo del Capo provvisorio dello Stato 26 ottobre 1946, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-26;22), che non siano stati convertiti in titoli 5 per cento;
- 6) le cose mobili, che presentano interesse artistico, storico, archeologico o etnografico, quando facciano parte di collezioni o serie notificate ai sensi dell'[art. 5 della legge 1° giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089#art_5), oppure siano soggette a pubblico uso o godimento;
+ 6) le cose mobili, che presentano interesse artistico, storico, archeologico o etnografico, quando facciano parte di collezioni o serie notificate ai sensi dell'[art. 5 della legge 1° giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), oppure siano soggette a pubblico uso o godimento;
  7) le rendite dei benefici ecclesiastici maggiori minori.
 
 ## Valutazione
@@ -117,7 +117,7 @@ CAPO IV.
 
 ### Art. 9.
 
-I terreni si valutano in base ai valori medi del periodo 1 luglio 1946-31 marzo 1947, mediante applicazione al reddito imponibile dominicale, risultante dalla revisione disposta con il [regio decreto-legge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-04;589), convertito nella [legge 29 giugno 1939, n. 976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-29;976), di coefficienti stabiliti dalla Commissione censuaria centrale.
+I terreni si valutano in base ai valori medi del periodo 1 luglio 1946-31 marzo 1947, mediante applicazione al reddito imponibile dominicale, risultante dalla revisione disposta con il [regio decreto-legge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-04;589), convertito nella [legge 29 giugno 1939, n. 976](../DL%20e%20leggi%20di%20conversione/Conversione%20In%20legge%20con%20modificazioni%20del%20R.%20decreto%20legge%204%20aprile%201939%20-%20XVII%20n.%20589%20concernente%20la%20revisione%20generale%20degli%20estimi%20dei%20terreni.%20039U0976.md), di coefficienti stabiliti dalla Commissione censuaria centrale.
  Le scorte dei terreni agrari, anche se dati in affitto, si valutano in base ai valori medi del periodo 1 luglio 1946-31 marzo 1947, mediante applicazione ai redditi imponibili agrari iscritti in catasto, depurati della parte corrispondente al lavoro direttivo, di coefficienti stabiliti dalla Commissione suddetta.
  Quando le scorte sono di spettanza del proprietario e del colono, la quota di reddito agrario da attribuirsi al colono e' determinata dall'Ufficio distrettuale delle imposte, salvo, ricorso alle Commissioni amministrative.
  I fabbricati si valutano in base ai valori medi del periodo 1ª luglio 1946-31 marzo 1947, mediante applicazione alla loro consistenza di coefficienti determinati dalla commissione censuaria centrale.
@@ -221,7 +221,7 @@ Per i debiti contratti dopo il 10 giugno 1940 o che non abbiano data certa, la d
 
 Quando la esistenza di un debito di qualsiasi natura, denunziato dal debitore agli effetti della detrazione dai proprio patrimonio, e' negata dal creditore, il rapporto giuridico e considerato inesistente, a tutti gli effetti, fra le parti.
  Per i crediti derivanti da rapporti con imprese commerciali e sempre che si tratti di atti inerenti all'esercizio dell'impresa, la esistenza del debito puo' venire provata in base alle scritture contabili dell'impresa creditrice regolarmente tenute.
- Quando si tratti di rapporti con aziende di credito indicate alle lettere da), b), c) e d) dell'[articolo 5 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_5), convertito nella [legge 7 marzo 1938, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-07;141), ed al [regio decreto-legge 17 luglio 1937, n. 1400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-17;1400), convertito nella [legge 7 aprile 1938, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-04-07;636), la esistenza del debito puo' essere provata in base agli estratti dei saldi conti, attestati conformi alle scritturazioni da uno dei dirigenti dell'azienda di credito.
+ Quando si tratti di rapporti con aziende di credito indicate alle lettere da), b), c) e d) dell'[articolo 5 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_5), convertito nella [legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md), ed al [regio decreto-legge 17 luglio 1937, n. 1400](Disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20037U1400.md), convertito nella [legge 7 aprile 1938, n. 636](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2017%20luglio%201937-XV%20n.%201400%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0636.md), la esistenza del debito puo' essere provata in base agli estratti dei saldi conti, attestati conformi alle scritturazioni da uno dei dirigenti dell'azienda di credito.
 
 ### Art. 25.
 
@@ -350,8 +350,8 @@ Per quanto riguarda i cespiti, la dichiarazione deve indicare:
 
 ### Art. 36.
 
-Ai fini della liquidazione provvisoria, i cespiti assoggettati all'imposta ordinaria sul patrimonio per l'anno 1947 possono essere dichiarati per un valore non inferiore a quello iscritto nei ruoli dell'imposta medesima, anche se l'iscrizione e' stata operata al nome di altre persone in conformita' a quanto disposto negli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;1529#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;1529#art_4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;1529#art_5) e [14 del R. decreto-legge 12 ottobre 1939, n. 1529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;1529#art_14), convertito nella [legge 8 febbraio 1940, n. 100, e negli articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-02-08;100#art_3), e 4 del presente decreto.
- I terreni non assoggettati ad imposta ordinaria sul patrimonio per l'anno 1947 possono essere dichiarati per il valore non inferiore a quello ottenuto dalla capitalizzazione al 100 per 5 del reddito risultante dalla revisione disposta con [R. decreto-legge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-04;589), convertito nella [legge 29 giugno 1939, n. 976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-29;976) moltiplicato per 10.
+Ai fini della liquidazione provvisoria, i cespiti assoggettati all'imposta ordinaria sul patrimonio per l'anno 1947 possono essere dichiarati per un valore non inferiore a quello iscritto nei ruoli dell'imposta medesima, anche se l'iscrizione e' stata operata al nome di altre persone in conformita' a quanto disposto negli [articoli 3](Istituzione%20di%20una%20imposta%20ordinaria%20sul%20patrimonio.%20039U1529.md), [4](Istituzione%20di%20una%20imposta%20ordinaria%20sul%20patrimonio.%20039U1529.md), [5](Istituzione%20di%20una%20imposta%20ordinaria%20sul%20patrimonio.%20039U1529.md) e [14 del R. decreto-legge 12 ottobre 1939, n. 1529](Istituzione%20di%20una%20imposta%20ordinaria%20sul%20patrimonio.%20039U1529.md), convertito nella [legge 8 febbraio 1940, n. 100, e negli articoli 3](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20ottobre%201939-XVII%20n.%201529%20concernente%20listituzione%20di%20una%20imposta%20Ordinarie%20sul%20patrimonio.%20040U0100.md), e 4 del presente decreto.
+ I terreni non assoggettati ad imposta ordinaria sul patrimonio per l'anno 1947 possono essere dichiarati per il valore non inferiore a quello ottenuto dalla capitalizzazione al 100 per 5 del reddito risultante dalla revisione disposta con [R. decreto-legge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-04;589), convertito nella [legge 29 giugno 1939, n. 976](../DL%20e%20leggi%20di%20conversione/Conversione%20In%20legge%20con%20modificazioni%20del%20R.%20decreto%20legge%204%20aprile%201939%20-%20XVII%20n.%20589%20concernente%20la%20revisione%20generale%20degli%20estimi%20dei%20terreni.%20039U0976.md) moltiplicato per 10.
  I fabbricati non assoggettati ad imposta ordinaria sul patrimonio per l'anno 1947 possono essere dichiarati per un valore non inferiore a quello risultante della capitalizzazione il 10 per 5 dei reddito catastale moltiplicato per 5. Se il fabbricato e' esente dall'ordinaria, imposta sui fabbricati e manca, comunque un reddito accertato ai fini delle imposte erariali, questo ragguagliato al fitto, reale o presunto, dell'immobile, diminuito di un terzo.
 
 ### Art. 37.
@@ -415,7 +415,7 @@ I notai e tutti coloro che, non esercitando l'industria del credito, abbiano, a 
 
 Le Commissioni giudicanti hanno tutte le facolta' conferite dall'articolo 46 ai funzionari delle imposte.
  Le Commissioni di prima istanza hanno, inoltre, la facolta' di eseguire d'ufficio accertamenti non proposti dagli Uffici distrettuali e di elevare le cifre di patrimonio fissate dagli Uffici, o concordate tra i contribuenti e l'Ufficio, anche se gia' inscritte a ruolo.
- Sono applicabili, ai fini del presente decreto, le disposizioni contenute negli [articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-27;436#art_15) e [21 del regio decreto legislativo 27 maggio 1946, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-27;436#art_21).
+ Sono applicabili, ai fini del presente decreto, le disposizioni contenute negli [articoli 15](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md) e [21 del regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md).
  La facolta' concessa dal comma precedente alle Commissioni cessa col 31 dicembre dell'anno successivo a quello in cui si verifica la prescrizione dell'azione della finanza, a norma dell'articolo 63 del presente decreto.
 
 ## Riscossione.
@@ -437,7 +437,7 @@ I contribuenti possono chiedere al competente ufficio distrettuale delle imposte
 L'imposta straordinaria progressiva sui patrimoni il cui ammontare raggiunga il minimo imponibile viene iscritta a ruolo, in via provvisoria, salvo conguaglio, in base alla dichiarazione presentata dal contribuente, ed e' messa in riscossione a partire dalla rata del febbraio 1948.
  L'imposta iscritta a titolo provvisorio o definitivo in ruoli, la cui riscossione si inizia dopo la rata del febbraio 1948, viene ripartita in quote uguali nelle rate residue.
  L'imposta iscritta in ruoli, la, cui riscossione s'inizia dopo la scadenza dei due periodi fissati dall'articolo 50, a seconda della composizione del patrimonio imponibile, e' pagata in sei rate bimestrali con l'interesse corrispondente di cui all'articolo 50.
- Per la riscossione dell'imposta progressiva compete all'esattore l'aggio contrattuale, esclusa, l'addizionale prevista dagli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-18;424#art_5) e [8 del decreto legislativo luogotenenziale 18 giugno 1945, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-18;424#art_8).
+ Per la riscossione dell'imposta progressiva compete all'esattore l'aggio contrattuale, esclusa, l'addizionale prevista dagli [articoli 5](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposte%20dirette.%20045U0424.md) e [8 del decreto legislativo luogotenenziale 18 giugno 1945, n. 424](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposte%20dirette.%20045U0424.md).
 
 ### Art. 52.
 
@@ -522,7 +522,7 @@ L'azione della Finanza, per la rettifica delle dichiarazioni presentate dai cont
 
 ### Art. 64.
 
-I funzionari dell'Amministrazione delle imposte, i componenti dei Collegi giudicanti e tutti coloro che, secondo le rispettive attribuzioni, intervengono nello accertamento, nella applicazione e nella riscossione dell'imposta, sono tenuti al segreto d'ufficio e sono passibili delle pene comminate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per la violazione del segreto stesso.
+I funzionari dell'Amministrazione delle imposte, i componenti dei Collegi giudicanti e tutti coloro che, secondo le rispettive attribuzioni, intervengono nello accertamento, nella applicazione e nella riscossione dell'imposta, sono tenuti al segreto d'ufficio e sono passibili delle pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la violazione del segreto stesso.
  Per quanto non e' previsto nel presente capo si applicano le disposizioni di cui al [regio decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608).
 
 ## Cespiti danneggiati dalla guerra.
@@ -536,7 +536,7 @@ I cespiti che hanno subito danni in dipendenza di eventi bellici, ove della dimi
 
 ### Art. 66.
 
-La quota in conto mobilio, arredamento e gioielli, prevista nell'articolo 26, sara' congruamente diminuita quando risulti che tali cespiti sono ridotti a un valore inferiore, in seguito a danni dipendenti da eventi bellici, regolarmente denunciati ai sensi della [legge 26 ottobre 1940, n. 1543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-26;1543).
+La quota in conto mobilio, arredamento e gioielli, prevista nell'articolo 26, sara' congruamente diminuita quando risulti che tali cespiti sono ridotti a un valore inferiore, in seguito a danni dipendenti da eventi bellici, regolarmente denunciati ai sensi della [legge 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md).
 
 ### Art. 67.
 
@@ -618,11 +618,11 @@ L'Amministrazione finanziaria ha la facolta' di iscrivere a ruolo l'imposta stra
 
 ### Art. 79.
 
-Per la riscossione compete all'esattore l'aggio contrattuale, esclusa l'addizionale prevista negli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-18;424#art_5) e [8 del decreto legislativo luogotenenziale 18 giugno 1945, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-18;424#art_8).
+Per la riscossione compete all'esattore l'aggio contrattuale, esclusa l'addizionale prevista negli [articoli 5](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposte%20dirette.%20045U0424.md) e [8 del decreto legislativo luogotenenziale 18 giugno 1945, n. 424](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposte%20dirette.%20045U0424.md).
 
 ### Art. 80.
 
-Il credito dello Stato per l'intero ammontare del tributo ha privilegio speciale su tutti gli immobili facenti parte del patrimonio del contribuente alla data di pubblicazione della [legge 1° settembre 1947, n. 828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1947-09-01;828), salvi i diritti dei terzi, costituiti anteriormente alla data stessa.
+Il credito dello Stato per l'intero ammontare del tributo ha privilegio speciale su tutti gli immobili facenti parte del patrimonio del contribuente alla data di pubblicazione della [legge 1° settembre 1947, n. 828](Convalida%20con%20modificazioni%20ed%20aggiunte%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2029%20marzo%201947%20n.%20143%20concernente%20listituzione%20di%20una%20imposta%20straordinaria%20progressiva%20sul%20patrimonio.md), salvi i diritti dei terzi, costituiti anteriormente alla data stessa.
  Si applicano per l'imposta straordinaria prevista nel presente titolo le disposizioni contenute nel secondo, terzo e quarto comma dell'articolo 62.
 
 ### Art. 81.
@@ -657,11 +657,11 @@ Gli Uffici distrettuali delle imposte dirette procedono alla liquidazione dell'i
 ### Art. 85.
 
 Qualora, alla data di entrata in vigore del [decreto legislativo del Capo provvisorio dello Stato 20 marzo 1947, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-20;143), non esista un valore definitivamente accertato per il 1947 ai fini dell'imposta ordinaria sul patrimonio, l'imposta e' provvisoriamente liquidata sul valore iscritto a ruolo per l'anno 1947, salvo conguaglio.
- Nei riguardi delle societa' ed enti assoggettabili alla imposta ordinaria sul patrimonio con le norme di cui all'[art. 21 e seguenti del regio decreto-legge 12 ottobre 1939, n. 1529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;1529#art_21), convertito nella [legge 8 febbraio 1940, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-02-08;100), l'imposta e' liquidata sul valore provvisoriamente iscritto a ruolo per l'anno 1947, salvo conguaglio.
+ Nei riguardi delle societa' ed enti assoggettabili alla imposta ordinaria sul patrimonio con le norme di cui all'[art. 21 e seguenti del regio decreto-legge 12 ottobre 1939, n. 1529](Istituzione%20di%20una%20imposta%20ordinaria%20sul%20patrimonio.%20039U1529.md), convertito nella [legge 8 febbraio 1940, n. 100](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20ottobre%201939-XVII%20n.%201529%20concernente%20listituzione%20di%20una%20imposta%20Ordinarie%20sul%20patrimonio.%20040U0100.md), l'imposta e' liquidata sul valore provvisoriamente iscritto a ruolo per l'anno 1947, salvo conguaglio.
 
 ### Art. 86.
 
-Gli enti di qualsiasi specie e le societa' commerciali tenuti al pagamento dell'imposta prevista nell'art. 83 sulle obbligazioni e sugli altri titoli di credito da essi emessi eseguono la ritenuta di detta imposta al momento della scadenza di ciascuna rata di interesse nel periodo dal 1° luglio 1947 al 31 dicembre 1943 e la versano in Tesoreria con le modalita' previste nell'[art. 36 del regio decreto-legge 12 ottobre 1939, n. 1529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;1529#art_36), convertito nella [legge 8 febbraio 1940, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-02-08;100).
+Gli enti di qualsiasi specie e le societa' commerciali tenuti al pagamento dell'imposta prevista nell'art. 83 sulle obbligazioni e sugli altri titoli di credito da essi emessi eseguono la ritenuta di detta imposta al momento della scadenza di ciascuna rata di interesse nel periodo dal 1° luglio 1947 al 31 dicembre 1943 e la versano in Tesoreria con le modalita' previste nell'[art. 36 del regio decreto-legge 12 ottobre 1939, n. 1529](Istituzione%20di%20una%20imposta%20ordinaria%20sul%20patrimonio.%20039U1529.md), convertito nella [legge 8 febbraio 1940, n. 100](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20ottobre%201939-XVII%20n.%201529%20concernente%20listituzione%20di%20una%20imposta%20Ordinarie%20sul%20patrimonio.%20040U0100.md).
 
 ### Art. 87.
 
@@ -669,7 +669,7 @@ L'imposta straordinaria proporzionale iscritta a ruolo e riscossa, non oltre il 
  Per tutte le partite il cui imponibile sia inferiore a lire 750.000, fermo restando il pagamento delle rate di giugno ed agosto 1947, il residuo debito d'imposta e' riscosso in ventidue rate bimestrali uguali fino all'aprile 1951.
  Per le opere pie, gli istituti ed enti di beneficenza ed assistenza legalmente costituiti e riconosciuti, gli istituti d'istruzione, i corpi scientifici, le accademie e societa' storiche letterarie e scientifiche, aventi scopi esclusivamente culturali, gli enti il cui fine e' equiparato, all'articolo 29, lettera h.), del Concordato, ai fini di beneficenza o di istruzione e gli assimilabili di altri culti, le partecipanze ed universita' agraria, il pagamento della imposta e' rateato in anni dieci.
  I relativi ruoli di riscossione non sono soggetti a pubblicazione.
- Per la riscossione compete all'esattore l'aggio contrattuale, esclusa l'addizionale prevista dagli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-18;424#art_5) e [8 del decreto legislativo luogotenenziale 18 giugno 1945, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-18;424#art_8).
+ Per la riscossione compete all'esattore l'aggio contrattuale, esclusa l'addizionale prevista dagli [articoli 5](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposte%20dirette.%20045U0424.md) e [8 del decreto legislativo luogotenenziale 18 giugno 1945, n. 424](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposte%20dirette.%20045U0424.md).
  Il contribuente ha facolta' di chiedere, entro il 15 settembre 1947, il riscatto, con l'abbuono del dieci per cento, dell'imposta dovuta ai sensi dell'articolo 83. Per tutte le partite, il cui imponibile sia inferiore a lire 750.000, l'abbuono, in caso di riscatto, e' del venti per cento.
  Il versamento del prezzo del riscatto deve effettuarsi in Tesoreria entro il 30 settembre 1947.
  In tutti i casi di versamento diretto in Tesoreria non compete alcun aggio all'esattore e al ricevitore provinciale.
@@ -677,7 +677,7 @@ L'imposta straordinaria proporzionale iscritta a ruolo e riscossa, non oltre il 
 
 ### Art. 88.
 
-Per quanto non e' previsto nel presente Titolo, si applicano le disposizioni del [regio decreto-legge 12 ottobre 1939, n. 1529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;1529), convertito nella [legge 8 febbraio 1940, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-02-08;100), e successive modificazioni.
+Per quanto non e' previsto nel presente Titolo, si applicano le disposizioni del [regio decreto-legge 12 ottobre 1939, n. 1529](Istituzione%20di%20una%20imposta%20ordinaria%20sul%20patrimonio.%20039U1529.md), convertito nella [legge 8 febbraio 1940, n. 100](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20ottobre%201939-XVII%20n.%201529%20concernente%20listituzione%20di%20una%20imposta%20Ordinarie%20sul%20patrimonio.%20040U0100.md), e successive modificazioni.
 
 ### Art. 89.
 
@@ -685,7 +685,7 @@ Le cartelle fondiarie e le obbligazioni emesse dopo il 13 aprile 1947 ed in gene
 
 ### Art. 90.
 
-L'imposta ordinaria sul patrimonio, istituita con il [regio decreto-legge 12 ottobre 1939, n. 1529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;1529), convertito nella [legge 8 febbraio 1940, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-02-08;100), e' soppressa con decorrenza dal 1° gennaio 1948.
+L'imposta ordinaria sul patrimonio, istituita con il [regio decreto-legge 12 ottobre 1939, n. 1529](Istituzione%20di%20una%20imposta%20ordinaria%20sul%20patrimonio.%20039U1529.md), convertito nella [legge 8 febbraio 1940, n. 100](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20ottobre%201939-XVII%20n.%201529%20concernente%20listituzione%20di%20una%20imposta%20Ordinarie%20sul%20patrimonio.%20040U0100.md), e' soppressa con decorrenza dal 1° gennaio 1948.
 
 ## Disposizioni finali
 
@@ -697,7 +697,7 @@ Il Ministro per le finanze e' autorizzato a presentare un provvedimento per la r
 
 ### Art. 92.
 
-Il Ministro per le finanze e' autorizzato a dettare norme per accertare che i contribuenti, di cui ad presente decreto, abbiano versato le quote dovute al fondo di solidarieta' nazionale in base al [decreto legislativo luogotenenziale 8 marzo 1945, n. 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-08;72).
+Il Ministro per le finanze e' autorizzato a dettare norme per accertare che i contribuenti, di cui ad presente decreto, abbiano versato le quote dovute al fondo di solidarieta' nazionale in base al [decreto legislativo luogotenenziale 8 marzo 1945, n. 72](../Decreti%20legislativi%20luogotenenziali/Fondo%20di%20solidarieta%20nazionale.%20045U0072.md).
  A tale fine si intendono riaperti i termini ed il pagamento sara' esente da sopratassa e da multa.
 
 ### Art. 93.

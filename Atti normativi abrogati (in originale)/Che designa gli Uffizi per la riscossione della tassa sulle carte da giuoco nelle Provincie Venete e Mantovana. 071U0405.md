@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Vista la [legge 5 giugno 1871, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1871-06-05;256) (Serie 2ª), che estende alle provincie venete e mantovana la [legge 21 settembre 1862, n. 965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-09-21;965), e relativo regolamento per la tassa di bollo sulle carte da giuoco;
+Vista la [legge 5 giugno 1871, n. 256](Che%20estende%20alle%20Provincie%20Venete%20e%20Mantovana%20le%20Leggi%20concernenti%20le%20tasse%20di%20mano-morta%20e%20sulle%20carte%20da%20giuoco.%20071U0256.md) (Serie 2ª), che estende alle provincie venete e mantovana la [legge 21 settembre 1862, n. 965](Sul%20bollo%20delle%20carte%20da%20giuoco.%20062U0965.md), e relativo regolamento per la tassa di bollo sulle carte da giuoco;
 
 Visto l'articolo 1 del regolamento per l'esecuzione della legge medesima con cui e' fatta facolta' al Ministro delle Finanze di stabilire con suo decreto gli uffici incaricati dell'apposizione del bollo sulle carte da giuoco;
 

@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto n. 1825 del 16 novembre 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-16;1825);
+Visto il [R. decreto n. 1825 del 16 novembre 1921](Che%20reca%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20021U1825.md);
 
-Visto il [R. decreto n. 426 dell'11 febbraio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-11;426);
+Visto il [R. decreto n. 426 dell'11 febbraio 1923](Riguardante%20la%20dotazione%20speciale%20di%20appositi%20francobolli%20per%20laffrancatura%20ordinaria%20della%20corrispondenza%20ufficiale%20concessa%20ad%20Enti%20Corpi%20od%20Istituti%20non%20statali.%20023U0426.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,9 +24,9 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comuincazioni, di 
 
 ## Art. 1.
 
-La concessione ad Enti non statali dell'esenzione per la affrancatura del carteggio ufficiale spedito in via ordinaria, di cui all'[art. 2 del R. decreto n. 426 dell'11 febbraio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-11;426#art_2) sara' estesa, negli stessi modi e limiti, alle corrispondenze ufficiali raccomandate spedite dagli Enti, Corpi ed Istituti le cui spese non sono a totale carico dell'Erario ed ai quali per l'opera benefica che svolgono nel campo patriottico, scientifico, culturale od umanitario, si giudichera', con atto di Governo, opportuno di concedere l'esenzione anche per le predette corrispondenze raccomandate. 
+La concessione ad Enti non statali dell'esenzione per la affrancatura del carteggio ufficiale spedito in via ordinaria, di cui all'[art. 2 del R. decreto n. 426 dell'11 febbraio 1923](Riguardante%20la%20dotazione%20speciale%20di%20appositi%20francobolli%20per%20laffrancatura%20ordinaria%20della%20corrispondenza%20ufficiale%20concessa%20ad%20Enti%20Corpi%20od%20Istituti%20non%20statali.%20023U0426.md) sara' estesa, negli stessi modi e limiti, alle corrispondenze ufficiali raccomandate spedite dagli Enti, Corpi ed Istituti le cui spese non sono a totale carico dell'Erario ed ai quali per l'opera benefica che svolgono nel campo patriottico, scientifico, culturale od umanitario, si giudichera', con atto di Governo, opportuno di concedere l'esenzione anche per le predette corrispondenze raccomandate. 
  
- La concessione sara' regolata con le norme indicate agli articoli 3, 4 e 5 del predetto [R. decreto n. 426 dell'11 febbraio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-11;426), in quanto applicabili.
+ La concessione sara' regolata con le norme indicate agli articoli 3, 4 e 5 del predetto [R. decreto n. 426 dell'11 febbraio 1923](Riguardante%20la%20dotazione%20speciale%20di%20appositi%20francobolli%20per%20laffrancatura%20ordinaria%20della%20corrispondenza%20ufficiale%20concessa%20ad%20Enti%20Corpi%20od%20Istituti%20non%20statali.%20023U0426.md), in quanto applicabili.
 
 ## Art. 2.
 

@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 aprile 1941, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-04-11;367), riguardante la denunzia e la Raccolta dei banchi di stagno degli esercizi pubblici. 
+ E' convertito in legge il [R. decreto-legge 11 aprile 1941, n. 367](Denunzia%20o%20raccolta%20dei%20banchi%20di%20stagno%20degli%20esercizi%20pubblici.%20041U0367.md), riguardante la denunzia e la Raccolta dei banchi di stagno degli esercizi pubblici. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

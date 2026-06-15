@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 18 luglio 1930, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-18;1163), riguardante la devoluzione a favore dell'istituendo Ente autonomo del Politeama Fiorentino del diritto erariale e del diritto demaniale dovuti a norma delle vigenti disposizioni sugli spettacoli che avranno luogo nel detto teatro. 
+ E' convertito in legge il [R. decreto legge 18 luglio 1930, n. 1163](Devoluzione%20a%20favore%20dellEnte%20autonomo%20del%20Politeama%20Fiorentino%20del%20diritto%20erariale%20e%20del%20diritto%20demaniale.%20030U1163.md), riguardante la devoluzione a favore dell'istituendo Ente autonomo del Politeama Fiorentino del diritto erariale e del diritto demaniale dovuti a norma delle vigenti disposizioni sugli spettacoli che avranno luogo nel detto teatro. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

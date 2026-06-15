@@ -23,7 +23,7 @@ VITTORIO EMANUELE
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 giugno 1931, n. 908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-18;908), concernente gli impianti radiotelefonici ad onde guidate per uso privato. 
+ E' convertito in legge il [R. decreto-legge 18 giugno 1931, n. 908](Impianti%20radiotelefonici%20ad%20onde%20guidate%20per%20uso%20privato.%20031U0908.md), concernente gli impianti radiotelefonici ad onde guidate per uso privato. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Dato a Roma, addi' 21 dicembre 1931 - Anno X 
  

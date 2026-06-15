@@ -26,13 +26,13 @@ L'orario unico per tutte le Borse del Regno dura dalle ore 10 ¾ alle 11 ¼ e da
 
 ## Art. 4.
 
-Per tutta la durata della guerra il deposito cauzionale per gli agenti di cambio e per le persone ammesse temporaneamente a negoziare alle grida fissato dal [R. decreto 28 dicembre 1913, n. 1434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-12-28;1434), e' ridotto alla seguente misura: 
+Per tutta la durata della guerra il deposito cauzionale per gli agenti di cambio e per le persone ammesse temporaneamente a negoziare alle grida fissato dal [R. decreto 28 dicembre 1913, n. 1434](Col%20quale%20viene%20stabilita%20la%20cauzione%20degli%20agenti%20di%20cambio%20nelle%20Borse%20013U1434.md), e' ridotto alla seguente misura: 
  
  Borse di Genova, Milano, Napoli, Roma e Torino, L. 30 000; 
  
  Borsa di Firenze, L. 10.000. 
  
- In tutte le altre Borse il deposito cauzionale continuera' ad essere provvisoriamente quello vigente prima della promulgazione del richiamato [R. decreto 28 dicembre 1913, n. 1434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-12-28;1434), senza potere, pero', in nessun caso, scendere al di sotto dello L. 5000.
+ In tutte le altre Borse il deposito cauzionale continuera' ad essere provvisoriamente quello vigente prima della promulgazione del richiamato [R. decreto 28 dicembre 1913, n. 1434](Col%20quale%20viene%20stabilita%20la%20cauzione%20degli%20agenti%20di%20cambio%20nelle%20Borse%20013U1434.md), senza potere, pero', in nessun caso, scendere al di sotto dello L. 5000.
 
 ## Art. 5.
 
@@ -86,7 +86,7 @@ Sulla base delle medie delle Borse di Genova, Milano, Napoli, Roma e Torino il m
 
 ## Art. 12.
 
-A decorrere dalla data della riapertura delle Borse cesseranno di funzionare le Commissioni istituite in esecuzione del [R. decreto 30 agosto 1914, n. 919, e dell'art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-30;919#art_5) del [R. decreto 24 novembre 1914, n. 1283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-24;1283), per l'accertamento del corso dei cambi e dei titoli. 
+A decorrere dalla data della riapertura delle Borse cesseranno di funzionare le Commissioni istituite in esecuzione del [R. decreto 30 agosto 1914, n. 919, e dell'art. 5](Concernente%20le%20norme%20per%20stabilire%20il%20corso%20medio%20ufficiale%20dei%20cambi.%20014U0919.md) del [R. decreto 24 novembre 1914, n. 1283](Da%20convertirsi%20in%20legge%20relativo%20alla%20proroga%20delle%20obbligazioni%20a%20termine%20ed%20al%20corso%20medio%20della%20rendita.%20014U1283.md), per l'accertamento del corso dei cambi e dei titoli. 
  
  Dalla medesima data sono abrogati i decreti richiamati dalla prima parte dell'art. 8 del presente decreto. 
  

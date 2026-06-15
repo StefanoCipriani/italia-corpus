@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 marzo 1930, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-20;185), recante modificazioni al trattamento doganale del te' e mate. 
+ E' convertito in legge il [R. decreto-legge 20 marzo 1930, n. 185](Modificazioni%20del%20dazio%20doganale%20sul%20te%20e%20mate.%20030U0185.md), recante modificazioni al trattamento doganale del te' e mate. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

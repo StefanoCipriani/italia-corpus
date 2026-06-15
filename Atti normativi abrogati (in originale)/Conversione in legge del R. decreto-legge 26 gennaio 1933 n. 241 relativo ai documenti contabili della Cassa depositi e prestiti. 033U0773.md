@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 gennaio 1933, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-26;241), relativo ai documenti contabili della Cassa depositi e prestiti. 
+ E' convertito in legge il [R. decreto-legge 26 gennaio 1933, n. 241](Documenti%20contabili%20della%20Cassa%20depositi%20e%20prestiti.%20033U0241.md), relativo ai documenti contabili della Cassa depositi e prestiti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato, 
  

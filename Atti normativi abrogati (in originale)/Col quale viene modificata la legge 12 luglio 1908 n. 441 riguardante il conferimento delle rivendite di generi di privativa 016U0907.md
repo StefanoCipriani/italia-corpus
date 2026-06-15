@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 12 luglio 1908, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-12;441);
+Vista la [legge 12 luglio 1908, n. 441](Concernente%20le%20modificazioni%20alla%20legge%2022%20luglio%201906%20n.%20534%20sulle%20rivendite%20di%20generi%20di%20privativa%20dello%20Stato.%20008U0441.md);
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per le finanze; Abbiamo decretat
 
 ## Art. 1.
 
-Gli articoli 7, 1° comma, 8 e [9, 1°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-12;441#art_9-com1) e [2° comma, della legge 12 luglio 1908, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-12;441#art_9-com2), sono modificati come segue: 
+Gli articoli 7, 1° comma, 8 e [9, 1°](Concernente%20le%20modificazioni%20alla%20legge%2022%20luglio%201906%20n.%20534%20sulle%20rivendite%20di%20generi%20di%20privativa%20dello%20Stato.%20008U0441.md) e [2° comma, della legge 12 luglio 1908, n. 441](Concernente%20le%20modificazioni%20alla%20legge%2022%20luglio%201906%20n.%20534%20sulle%20rivendite%20di%20generi%20di%20privativa%20dello%20Stato.%20008U0441.md), sono modificati come segue: 
  
  Art. 7. - (1° comma). Ogni rivendita il cui reddito non abbia superato L. 500, e' conferita dall'Intendenza di finanza, sentita la Giunta municipale, a persona domiciliata e residente nel Comune da almeno un anno, compiuto anteriormente alla vacanza o alla istituzione e che ne abbia fatta regolare istanza in seguito a speciale concorso. 
  
@@ -71,7 +71,7 @@ Sui concorsi pel conferimento delle rivendite, di cui all'articolo precedente, g
 
 ## Art. 4.
 
-Alle Concessioni contemplate nel presente decreto sono applicabili, in quanto in esso non sia diversamente disposto, tutte le disposizioni della [legge 12 luglio 1908, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-12;441). 
+Alle Concessioni contemplate nel presente decreto sono applicabili, in quanto in esso non sia diversamente disposto, tutte le disposizioni della [legge 12 luglio 1908, n. 441](Concernente%20le%20modificazioni%20alla%20legge%2022%20luglio%201906%20n.%20534%20sulle%20rivendite%20di%20generi%20di%20privativa%20dello%20Stato.%20008U0441.md). 
  
  Rimangono ferme le disposizioni transitorie contenute negli articoli 34 e 35 della legge anzidetta.
 

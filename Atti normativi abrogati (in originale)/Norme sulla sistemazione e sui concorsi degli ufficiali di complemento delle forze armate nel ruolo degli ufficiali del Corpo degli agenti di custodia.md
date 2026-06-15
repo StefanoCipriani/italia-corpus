@@ -16,8 +16,8 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-I posti di sottotenente e tenente del ruolo degli ufficiali del Corpo degli agenti di custodia, istituito con l'[articolo 21 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;508#art_21), per provvedere alla istruzione militare ed alla disciplina degli agenti di custodia, sono resi cumulativi in un unico organico.
- La tabella B annessa al [decreto legislativo luogotenenziale 21 agosto 1945, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;508), e' sostituita dalla tabella allegata alla presente legge.
+I posti di sottotenente e tenente del ruolo degli ufficiali del Corpo degli agenti di custodia, istituito con l'[articolo 21 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20del%20Corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20045U0508.md), per provvedere alla istruzione militare ed alla disciplina degli agenti di custodia, sono resi cumulativi in un unico organico.
+ La tabella B annessa al [decreto legislativo luogotenenziale 21 agosto 1945, n. 508](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20del%20Corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20045U0508.md), e' sostituita dalla tabella allegata alla presente legge.
 
 ## Art. 2.
 
@@ -32,7 +32,7 @@ L'esame speciale di cui al precedente articolo consiste in un colloquio, avente 
  1) nozioni di diritto e procedura penale con particolare riguardo alle disposizioni relative alla polizia giudiziaria, alla custodia
  preventiva ed alla esecuzione delle pene e delle misure di sicurezza; 2) regolamento per gli istituti di prevenzione e di pena;
  3) regolamento per il Corpo degli agenti di custodia;
- 4) regolamento di disciplina militare con riferimento alle ipotesi di reato previste dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare di pace.
+ 4) regolamento di disciplina militare con riferimento alle ipotesi di reato previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
 
 ## Art. 4.
 
@@ -75,12 +75,12 @@ Ai concorrenti nominati sottotenenti o tenenti in servizio permanente effettivo 
 
 ## Art. 10.
 
-Per gli ufficiali del Corpo degli agenti di custodia cui sia stato conferito il grado di sottotenente o tenente in applicazione della presente legge, il periodo di permanenza in tali gradi previsto dall'[articolo 26 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;508#art_26), e' ridotto, ai fini della promozione al grado immediatamente superiore, ad un anno.
+Per gli ufficiali del Corpo degli agenti di custodia cui sia stato conferito il grado di sottotenente o tenente in applicazione della presente legge, il periodo di permanenza in tali gradi previsto dall'[articolo 26 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20del%20Corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20045U0508.md), e' ridotto, ai fini della promozione al grado immediatamente superiore, ad un anno.
  Tale beneficio opera una volta soltanto.
 
 ## Art. 11.
 
-Ai concorsi ordinari per conseguire la nomina a sottotenente nel ruolo degli ufficiali del Corpo degli agenti di custodia possono, a modifica delle disposizioni di cui al [primo comma dell'articolo 28 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;508#art_28-com1), partecipare gli ufficiali di complemento delle forze armate che siano in possesso del diploma di scuola media superiore.
+Ai concorsi ordinari per conseguire la nomina a sottotenente nel ruolo degli ufficiali del Corpo degli agenti di custodia possono, a modifica delle disposizioni di cui al [primo comma dell'articolo 28 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20del%20Corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20045U0508.md), partecipare gli ufficiali di complemento delle forze armate che siano in possesso del diploma di scuola media superiore.
 
 ## Art. 12.
 

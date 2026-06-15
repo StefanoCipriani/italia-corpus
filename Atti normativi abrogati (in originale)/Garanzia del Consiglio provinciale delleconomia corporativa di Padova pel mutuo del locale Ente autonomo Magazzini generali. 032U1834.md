@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Il Consiglio provinciale dell'economia corporativa di Padova e' autorizzato a rilasciare delegazioni sulle imposte e sui tributi consigliali a garanzia della fidejussione concessa, fino alla concorrenza di lire 3 milioni e mezzo, sul mutuo che sara' contratto dall'Ente autonomo Magazzini generali di Padova con Istituti speciali di credito agrario. 
  
- Tali delegazioni avranno gli stessi privilegi e garanzie stabiliti dall'[art. 16 della legge 11 dicembre 1910, n. 885](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;885#art_16), e dal [R. decreto-legge 23 ottobre 1927, n. 2047](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2047), per le delegazioni sulla sovraimposta fondiaria a favore delle Casse di risparmio ordinarie per mutui concessi a Comuni e Provincie. 
+ Tali delegazioni avranno gli stessi privilegi e garanzie stabiliti dall'[art. 16 della legge 11 dicembre 1910, n. 885](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;885#art_16), e dal [R. decreto-legge 23 ottobre 1927, n. 2047](Semplificazioni%20nel%20rilascio%20delle%20delegazioni%20da%20parte%20degli%20enti%20mutuatari%20dellAmministrazione%20della%20Cassa%20depositi%20e%20prestiti%20e%20degli%20Istituti%20di%20previdenza.%20027U2047.md), per le delegazioni sulla sovraimposta fondiaria a favore delle Casse di risparmio ordinarie per mutui concessi a Comuni e Provincie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

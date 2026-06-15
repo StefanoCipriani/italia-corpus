@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Sentiti la Commissione centrale del dazio consumo ed il Consiglio di Stato; 
  
- Visto l'articolo 32 del testo unico di leggi sui dazi interni di consumo, approvato con [R. decreto 7 maggio 1908, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-07;248); 
+ Visto l'articolo 32 del testo unico di leggi sui dazi interni di consumo, approvato con [R. decreto 7 maggio 1908, n. 248](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sui%20dazi%20interni%20di%20consumo.%20008U0248.md); 
  
  Decreta: 
  

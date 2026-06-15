@@ -63,7 +63,7 @@ Dopo l'[articolo 286 del codice di procedura penale](https://www.normattiva.it/u
 
 1.
 
-Nel [primo comma dell'articolo 146 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_146-com1) e' aggiunto il seguente numero: 
+Nel [primo comma dell'articolo 146 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto il seguente numero: 
  "3) se deve aver luogo nei confronti di persona affetta da infezione da HIV nei casi di incompatibilita' con lo stato di detenzione stabiliti con decreto emanato dai Ministri della sanita' e di grazia e giustizia.".
 
 ## Art. 5.
@@ -74,13 +74,13 @@ I detenuti e gli internati affetti da infezione da HIV per i quali la competente
 
 2.
 
-Per la attivazione di posti letto negli ospedali di cui al comma 1, si provvede con finanziamenti di cui all'[articolo 20 della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_20).
+Per la attivazione di posti letto negli ospedali di cui al comma 1, si provvede con finanziamenti di cui all'[articolo 20 della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md).
 
 ## Art. 6.
 
 1.
 
-Dopo il comma 1 dell'articolo 89 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309), sono aggiunti, in fine, i seguenti: 
+Dopo il comma 1 dell'articolo 89 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), sono aggiunti, in fine, i seguenti: 
  " 2. Se una persona tossicodipendente o alcooldipendente, che e' in custodia cautelare in carcere, intende sottoporsi ad un programma di recupero presso una struttura autorizzata residenziale, la misura cautelare e' revocata sempre che non ricorrano esigenze cautelari di eccezionale rilevanza. 
  3. La revoca e' concessa su istanza dell'interessato. All'istanza e' allegata certificazione, rilasciata da un servizio pubblico per le tossicodipendenze o da un medico addetto all'istituto penitenziario, attestante lo stato di tossicodipendenza o di alcooldipendenza, nonche' la dichiarazione di disponibilita' all'accoglimentorilasciata dalla struttura. 
  4. Il giudice dispone il ripristino della custodia cautelare in carcere quando accerta che la persona non ha collaborato alla definizione del programma o ne ha rifiutato o interrotto l'esecuzione ovvero mantiene un comportamento incompatibile con la corretta esecuzione. 

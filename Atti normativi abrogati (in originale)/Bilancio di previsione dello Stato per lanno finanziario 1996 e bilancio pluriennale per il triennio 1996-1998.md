@@ -27,7 +27,7 @@ Sono autorizzati l'accertamento e la riscossione, secondo le leggi in vigore, de
 
 E altresi' autorizzata l'emanazione dei provvedimenti necessari per rendere esecutivi i ruoli delle imposte dirette pertinenti il medesimo anno.
  AVVERTENZA:
- In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 30 gennaio 1996 si procedera' alla ripubblicazione del testo della presente legge corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-14;217).
+ In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 30 gennaio 1996 si procedera' alla ripubblicazione del testo della presente legge corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ## Art. 2.
 
@@ -53,7 +53,7 @@ Le somme dovute dagli istituti di credito ai sensi dell'[articolo 33 della legge
 
 5.
 
-Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, in termini di competenza, di cassa e in conto residui, le variazioni compensative di bilancio occorrenti per l'attuazione dell'articolo 127 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309).
+Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, in termini di competenza, di cassa e in conto residui, le variazioni compensative di bilancio occorrenti per l'attuazione dell'articolo 127 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
 
 6.
 
@@ -77,7 +77,7 @@ Il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, alla ria
 
 11.
 
-Ai fini dell'applicazione dell'[articolo 9, comma 14, del decreto-legge 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557#art_9-com14), convertito, con modificazioni, dalla [legge 26 febbraio 1994, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-26;133), le somme relative ad una quota pari ad un terzo dei maggiori introiti dell'imposta comunale sugli immobili dovuta per l'anno 1994, versate al capitolo 3748 dello stato di previsione dell'entrata, sono assegnate, con decreti del Ministro del tesoro, al capitolo 1167 dello stato di previsione della Presidenza del Consiglio dei ministri.
+Ai fini dell'applicazione dell'[articolo 9, comma 14, del decreto-legge 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557#art_9-com14), convertito, con modificazioni, dalla [legge 26 febbraio 1994, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20557%20recante%20ulteriori%20interventi%20correttivi%20di%20finanza%20pubblica%20per%20lanno%201994.md), le somme relative ad una quota pari ad un terzo dei maggiori introiti dell'imposta comunale sugli immobili dovuta per l'anno 1994, versate al capitolo 3748 dello stato di previsione dell'entrata, sono assegnate, con decreti del Ministro del tesoro, al capitolo 1167 dello stato di previsione della Presidenza del Consiglio dei ministri.
 
 ## Art. 3.
 
@@ -94,7 +94,7 @@ Il Ministro del tesoro e' autorizzato a ripartire, con propri decreti, fra gli s
 
 3.
 
-Il Ministro del tesoro, sentiti i Ministri dei trasporti e della navigazione e della difesa, e' autorizzato a provvedere, con propri decreti, al trasferimento ad appositi capitoli, anche di nuova istituzione, dello stato di previsione del Ministero della difesa, per l'anno finanziario 1996, dello stanziamento iscritto, per competenza e cassa, al capitolo 4641 dello stato di previsione del Ministero del tesoro, in relazione all'effettivo fabbisogno dipendente dal trasferimento dal predetto Ministero della difesa all'Azienda autonoma di assistenza al volo per il traffico aereo generale, delle funzioni previste dagli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-03-24;145#art_3) e [4 del decreto del Presidente della Repubblica 24 marzo 1981, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-03-24;145#art_4).
+Il Ministro del tesoro, sentiti i Ministri dei trasporti e della navigazione e della difesa, e' autorizzato a provvedere, con propri decreti, al trasferimento ad appositi capitoli, anche di nuova istituzione, dello stato di previsione del Ministero della difesa, per l'anno finanziario 1996, dello stanziamento iscritto, per competenza e cassa, al capitolo 4641 dello stato di previsione del Ministero del tesoro, in relazione all'effettivo fabbisogno dipendente dal trasferimento dal predetto Ministero della difesa all'Azienda autonoma di assistenza al volo per il traffico aereo generale, delle funzioni previste dagli [articoli 3](../DPR/Ordinamento%20dellAzienda%20autonoma%20di%20assistenza%20al%20volo%20per%20il%20traffico%20aereo%20generale.md) e [4 del decreto del Presidente della Repubblica 24 marzo 1981, n. 145](../DPR/Ordinamento%20dellAzienda%20autonoma%20di%20assistenza%20al%20volo%20per%20il%20traffico%20aereo%20generale.md).
 
 4.
 
@@ -146,7 +146,7 @@ Gli importi di compensazione monetaria accertati nei mesi di novembre e dicembre
 
 16.
 
-Ai fini dell'attuazione delle disposizioni di cui al [decreto legislativo 3 aprile 1993, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-04-03;96), il Ministro del tesoro su proposta del Ministro del bilancio e della programmazione economica e' autorizzato ad effettuare, con propri decreti, le variazioni di bilancio in termini di residui, di competenza e di cassa, per la ripartizione tra le Amministrazioni competenti del fondo iscritto al capitolo 9012 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1996.
+Ai fini dell'attuazione delle disposizioni di cui al [decreto legislativo 3 aprile 1993, n. 96](../Decreti%20Legislativi/Trasferimento%20delle%20competenze%20dei%20soppressi%20Dipartimento%20per%20gli%20interventi%20straordinari%20nel%20Mezzogiorno%20e%20Agenzia%20per%20la%20promozione%20dello%20sviluppo%20del%20Mezzogiorno%20a%20norma%20dellart.%203%20del_01145d8ccfec.md), il Ministro del tesoro su proposta del Ministro del bilancio e della programmazione economica e' autorizzato ad effettuare, con propri decreti, le variazioni di bilancio in termini di residui, di competenza e di cassa, per la ripartizione tra le Amministrazioni competenti del fondo iscritto al capitolo 9012 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1996.
 
 17.
 
@@ -174,7 +174,7 @@ Il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, alla ria
 
 23.
 
-Ai fini della compensazione sui fondi erogati per la mobilita' sanitaria in attuazione dell'[articolo 12, comma 3, lettera b), del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_12-com3-letb), e successive modificazioni, il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, alla riassegnazione al capitolo 5941 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1996 delle somme versate all'entrata dalle regioni e dalle province autonome di Trento e di Bolzano.
+Ai fini della compensazione sui fondi erogati per la mobilita' sanitaria in attuazione dell'[articolo 12, comma 3, lettera b), del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, alla riassegnazione al capitolo 5941 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1996 delle somme versate all'entrata dalle regioni e dalle province autonome di Trento e di Bolzano.
 
 ## Art. 4.
 
@@ -203,7 +203,7 @@ Il Ministro del tesoro e' autorizzato a trasferire con propri decreti, in termin
 
 6.
 
-Per l'anno 1996 l'Amministrazione dei monopoli di Stato e' autorizzata ad accertare e riscuotere le entrate e a provvedere allo smaltimento dei generi dei monopoli medesimi secondo le tariffe vigenti, nonche' a impegnare e pagare le spese, ai termini del [regio decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258), convertito dalla [legge 6 dicembre 1928, n. 3474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;3474), in conformita' degli stati di previsione annessi a quello del Ministero delle finanze (Appendice n. 1).
+Per l'anno 1996 l'Amministrazione dei monopoli di Stato e' autorizzata ad accertare e riscuotere le entrate e a provvedere allo smaltimento dei generi dei monopoli medesimi secondo le tariffe vigenti, nonche' a impegnare e pagare le spese, ai termini del [regio decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258), convertito dalla [legge 6 dicembre 1928, n. 3474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201927%20n.%202258%20relativo%20allautonomia%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20028U3474.md), in conformita' degli stati di previsione annessi a quello del Ministero delle finanze (Appendice n. 1).
 
 ## Art. 5.
 
@@ -221,7 +221,7 @@ Il Ministro del tesoro e' autorizzato ad effettuare, su proposta del Ministro de
 
 3.
 
-Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio ai fini della integrazione della quota variabile del fondo per il finanziamento dei programmi regionali di sviluppo, di cui all'[articolo 9 della legge 16 maggio 1970 n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281#art_9), mediante l'utilizzazione degli stanziamenti annuali previsti dalle vigenti leggi di settore all'uopo individuate con le modalita' di cui all'[articolo 3, comma 2, della legge 14 giugno 1990, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-14;158#art_3-com2).
+Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio ai fini della integrazione della quota variabile del fondo per il finanziamento dei programmi regionali di sviluppo, di cui all'[articolo 9 della legge 16 maggio 1970 n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281#art_9), mediante l'utilizzazione degli stanziamenti annuali previsti dalle vigenti leggi di settore all'uopo individuate con le modalita' di cui all'[articolo 3, comma 2, della legge 14 giugno 1990, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20delega%20in%20materia%20di%20autonomia%20impositiva%20delle%20regioni%20e%20altre%20disposizioni%20concernenti%20i%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20le%20regioni.md).
 
 4.
 
@@ -289,7 +289,7 @@ Il pagamento delle spese relative alle supplenze brevi e alle supplenze annuali 
 
 3.
 
-Il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, alla riassegnazione ad apposito capitolo dello stato di previsione del Ministero della pubblica istruzione, per l'anno finanziario 1996, delle somme versate al capitolo 3548 dell'entrata del bilancio dello Stato dai gestori delle scuole secondarie non statali, in relazione alle disposizioni di cui all'articolo 358, comma 2, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-16;297).
+Il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, alla riassegnazione ad apposito capitolo dello stato di previsione del Ministero della pubblica istruzione, per l'anno finanziario 1996, delle somme versate al capitolo 3548 dell'entrata del bilancio dello Stato dai gestori delle scuole secondarie non statali, in relazione alle disposizioni di cui all'articolo 358, comma 2, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
 
 4.
 
@@ -345,7 +345,7 @@ Sono autorizzati l'impegno e il pagamento delle spese del Ministero dei trasport
 
 2.
 
-Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, su proposta del Ministro dei trasporti e della navigazione, le variazioni di competenza e di cassa nello stato di previsione dell'entrata ed in quello del Ministero dei trasporti e della navigazione occorrenti per gli adempimenti previsti dalla [legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298), e successive modificazioni, per gli adempimenti di cui al regolamento (CEE) n. 1787/84 del Consiglio, del 19 giugno 1984, relativo al Fondo europeo di sviluppo regionale nonche' per gli adempimenti di cui all'[articolo 10 del decreto del Presidente della Repubblica 28 settembre 1994, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-09-28;634#art_10), concernente regolamento per l'ammissione all'utenza del servizio di informatica del centro elaborazione dati della Direzione generale della motorizzazione civile e dei trasporti in concessione.
+Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, su proposta del Ministro dei trasporti e della navigazione, le variazioni di competenza e di cassa nello stato di previsione dell'entrata ed in quello del Ministero dei trasporti e della navigazione occorrenti per gli adempimenti previsti dalla [legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298), e successive modificazioni, per gli adempimenti di cui al regolamento (CEE) n. 1787/84 del Consiglio, del 19 giugno 1984, relativo al Fondo europeo di sviluppo regionale nonche' per gli adempimenti di cui all'[articolo 10 del decreto del Presidente della Repubblica 28 settembre 1994, n. 634](../DPR/Regolamento%20per%20lammissione%20allutenza%20del%20servizio%20di%20informatica%20del%20centro%20di%20elaborazione%20dati%20della%20Direzione%20generale%20della%20motorizzazione%20civile%20e%20dei%20trasporti%20in%20concessione.md), concernente regolamento per l'ammissione all'utenza del servizio di informatica del centro elaborazione dati della Direzione generale della motorizzazione civile e dei trasporti in concessione.
 
 3.
 
@@ -373,11 +373,11 @@ A norma dell'[articolo 5 della legge 24 dicembre 1986, n. 958](Norme%20sul%20ser
 
 8.
 
-Per il Corpo delle capitanerie di porto, i capitoli a favore dei quali possono effettuarsi i prelevamenti dal fondo a disposizione di cui agli articoli 20 e 44 del testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [regio decreto 2 febbraio 1928, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263), sono per l'anno finanziario 1996 quelli descritti nell'elenco annesso allo stato di previsione del Ministero dei trasporti e della navigazione.
+Per il Corpo delle capitanerie di porto, i capitoli a favore dei quali possono effettuarsi i prelevamenti dal fondo a disposizione di cui agli articoli 20 e 44 del testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [regio decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono per l'anno finanziario 1996 quelli descritti nell'elenco annesso allo stato di previsione del Ministero dei trasporti e della navigazione.
 
 9.
 
-Ai sensi dell'articolo 2 del regolamento per i servizi di cassa e contabilita' delle capitanerie di porto, approvato con [regio decreto 6 febbraio 1933, n. 391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-06;391), i fondi di qualsiasi provenienza possono essere versati in conto corrente postale dai funzionari delegati.
+Ai sensi dell'articolo 2 del regolamento per i servizi di cassa e contabilita' delle capitanerie di porto, approvato con [regio decreto 6 febbraio 1933, n. 391](Approvazione%20del%20regolamento%20per%20i%20servizi%20di%20cassa%20e%20contabilita%20delle%20Capitanerie%20di%20porto.%20033U0391.md), i fondi di qualsiasi provenienza possono essere versati in conto corrente postale dai funzionari delegati.
 
 10.
 
@@ -485,7 +485,7 @@ Alle spese per infrastrutture multinazionali della NATO, sostenute a carico degl
 
 12.
 
-I capitoli a favore dei quali possono effettuarsi i prelevamenti dal fondo a disposizione di cui agli articoli 20 e 44 del testo unico approvato con [regio decreto 2 febbraio 1928, n. 263, ed all'articolo 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263#art_7) della [legge 22 dicembre 1932, n. 1958](Norme%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20032U1958.md), sono, per l'anno finanziario 1996, quelli descritti negli elenchi nn. 1 e 2, annessi allo stato di previsione del Ministero della difesa.
+I capitoli a favore dei quali possono effettuarsi i prelevamenti dal fondo a disposizione di cui agli articoli 20 e 44 del testo unico approvato con [regio decreto 2 febbraio 1928, n. 263, ed all'articolo 7](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md) della [legge 22 dicembre 1932, n. 1958](Norme%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20032U1958.md), sono, per l'anno finanziario 1996, quelli descritti negli elenchi nn. 1 e 2, annessi allo stato di previsione del Ministero della difesa.
 
 13.
 
@@ -508,11 +508,11 @@ Sono autorizzati l'impegno e il pagamento delle spese del Ministero delle risors
 2.
 
 E approvato, in termini di competenza e di cassa, il bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali, per l'anno finanziario 1996, annesso allo stato di previsione del Ministero delle risorse agricole, alimentari e forestali, ai termini dell'[articolo 10 della legge 5 gennaio 1933, n. 30](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U0030.md) (Appendice n. 1).
-Ai fini della gestione predetta restano confermate le norme dello statuto-regolamento approvato con [regio decreto 5 ottobre 1933, n. 1577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-05;1577).
+Ai fini della gestione predetta restano confermate le norme dello statuto-regolamento approvato con [regio decreto 5 ottobre 1933, n. 1577](Approvazione%20dello%20statuto-regolamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U1577.md).
 
 3.
 
-Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, nell'anno finanziario 1996, le eventuali variazioni, in termini di competenza e di cassa, al bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali comunque connesse con l'attuazione delle norme di cui all'[articolo 11 della legge 16 maggio 1970, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281#art_11), e successive modificazioni, nonche' con l'attuazione del [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616), emanato ai sensi dell'[articolo 1 della legge 22 luglio 1975, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-22;382#art_1).
+Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, nell'anno finanziario 1996, le eventuali variazioni, in termini di competenza e di cassa, al bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali comunque connesse con l'attuazione delle norme di cui all'[articolo 11 della legge 16 maggio 1970, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281#art_11), e successive modificazioni, nonche' con l'attuazione del [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), emanato ai sensi dell'[articolo 1 della legge 22 luglio 1975, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-22;382#art_1).
 
 4.
 
@@ -599,15 +599,15 @@ Il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, alla ria
 
 4.
 
-Il Ministro del tesoro, su proposta del Ministro della sanita', e' autorizzato a ripartire, con propri decreti, tra gli appositi capitoli, anche di nuova istituzione, dello stato di previsione del Ministero della sanita', per l'anno finanziario 1996, lo stanziamento iscritto per competenza e cassa ai capitoli 1297 e 7002 dello stato di previsione del Ministero della sanita', in relazione alle disposizioni di cui all'[articolo 12, comma 2, del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_12-com2).
+Il Ministro del tesoro, su proposta del Ministro della sanita', e' autorizzato a ripartire, con propri decreti, tra gli appositi capitoli, anche di nuova istituzione, dello stato di previsione del Ministero della sanita', per l'anno finanziario 1996, lo stanziamento iscritto per competenza e cassa ai capitoli 1297 e 7002 dello stato di previsione del Ministero della sanita', in relazione alle disposizioni di cui all'[articolo 12, comma 2, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 5.
 
-Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le variazioni di bilancio in termini di residui, di competenza e di cassa, in relazione al [decreto legislativo 30 giugno 1993, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;266), sul riordinamento del Ministero della sanita', a norma dell'[articolo 1, comma 1, lettera h), della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_1-com1-leth).
+Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le variazioni di bilancio in termini di residui, di competenza e di cassa, in relazione al [decreto legislativo 30 giugno 1993, n. 266](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sul riordinamento del Ministero della sanita', a norma dell'[articolo 1, comma 1, lettera h), della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md).
 
 6.
 
-Il Ministro del tesoro e' autorizzato a riassegnare per l'anno finanziario 1996, con propri decreti, le entrate di cui all'[articolo 5, comma 12, della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_5-com12), ai competenti capitoli dello stato di previsione del Ministero della sanita', per le attivita' di controllo, di programmazione, di informazione e di educazione sanitaria del Ministero stesso, nonche' dell'Istituto superiore di sanita' e dell'Istituto superiore per la prevenzione e la sicurezza del lavoro.
+Il Ministro del tesoro e' autorizzato a riassegnare per l'anno finanziario 1996, con propri decreti, le entrate di cui all'[articolo 5, comma 12, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), ai competenti capitoli dello stato di previsione del Ministero della sanita', per le attivita' di controllo, di programmazione, di informazione e di educazione sanitaria del Ministero stesso, nonche' dell'Istituto superiore di sanita' e dell'Istituto superiore per la prevenzione e la sicurezza del lavoro.
 
 ## Art. 19.
 
@@ -648,7 +648,7 @@ Il Ministro dell'universita' e della ricerca scientifica e tecnologica cura che 
 
 4.
 
-Ai fini dell'attuazione delle disposizioni sulla ricerca applicata di cui all'[articolo 3 del decreto-legge 31 gennaio 1995, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-01-31;26#art_3), convertito, con modificazioni, dalla [legge 29 marzo 1995, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-29;95), il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le eventuali variazioni di bilancio.
+Ai fini dell'attuazione delle disposizioni sulla ricerca applicata di cui all'[articolo 3 del decreto-legge 31 gennaio 1995, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-01-31;26#art_3), convertito, con modificazioni, dalla [legge 29 marzo 1995, n. 95](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%201995%20n.%2026%20recante%20disposizioni%20urgenti%20per%20la%20ripresa%20delle%20attivita%20imprenditoriali.md), il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le eventuali variazioni di bilancio.
 
 ## Art. 22.
 
@@ -692,7 +692,7 @@ La composizione delle razioni viveri in natura per gli allievi del Corpo della G
 
 6.
 
-Il Ministro del tesoro e' autorizzato a trasferire, con propri decreti, in termini di residui, di competenza e di cassa, dal capitolo 7081 dello stato di previsione del Ministero del bilancio e della programmazione economica per l'anno finanziario 1996 ai capitoli dei Ministeri interessati, le quote da attribuire alle regioni a statuto speciale ai sensi dell'ultimo comma dell'[articolo 126 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_126).
+Il Ministro del tesoro e' autorizzato a trasferire, con propri decreti, in termini di residui, di competenza e di cassa, dal capitolo 7081 dello stato di previsione del Ministero del bilancio e della programmazione economica per l'anno finanziario 1996 ai capitoli dei Ministeri interessati, le quote da attribuire alle regioni a statuto speciale ai sensi dell'ultimo comma dell'[articolo 126 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md).
 
 7.
 
@@ -708,11 +708,11 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 10.
 
-Il Ministro del tesoro ha facolta' di integrare, con propri decreti, le dotazioni di cassa dei capitoli di spesa relative all'attuazione dell'[articolo 51 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_51), e successive modificazioni e integrazioni, nonche' dell'[articolo 23 della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_23), limitatamente ai maggiori residui risultanti alla chiusura dell'esercizio 1995, rispetto a quelli presuntivamente iscritti nel bilancio 1996.
+Il Ministro del tesoro ha facolta' di integrare, con propri decreti, le dotazioni di cassa dei capitoli di spesa relative all'attuazione dell'[articolo 51 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_51), e successive modificazioni e integrazioni, nonche' dell'[articolo 23 della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), limitatamente ai maggiori residui risultanti alla chiusura dell'esercizio 1995, rispetto a quelli presuntivamente iscritti nel bilancio 1996.
 
 11.
 
-Per gli acquisti di arredi, strumenti e attrezzature tecniche, di materiali e prodotti elettrici e telefonici, di materiali vari di cancelleria, di uniformi al personale, di automezzi di servizio, di prodotti informatici nonche' per la fornitura di servizi occorrenti per il funzionamento degli uffici dell'Amministrazione centrale e periferica - compresi i servizi e le forniture considerati dal [regio decreto 18 gennaio 1923, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-18;94), e relative norme di applicazione - fatta eccezione per il Ministero delle finanze, per le aziende autonome, per i corpi militari o militarizzati, comprese le Forze di polizia e il Corpo nazionale dei vigili del fuoco, per gli organi centrali e gli istituti centrali e periferici del Ministero per i beni culturali e ambientali, per il Servizio conservazione della natura del Ministero dell'ambiente, per gli uffici all'estero del Ministero degli affari esteri, per gli uffici provinciali gia' autorizzati da specifica norma legislativa nonche', nei casi di urgenza, per la Presidenza del Consiglio dei ministri nei limiti di spesa previsti dal regolamento approvato con [decreto del Presidente della Repubblica 5 giugno 1985, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-06-05;359), il Ministro del tesoro e' autorizzato a trasferire, con propri decreti, in termini di competenza e di cassa - dai capitoli, anche di conto capitale, concernenti spese per acquisti, forniture e servizi, degli stati di previsione delle Amministrazioni interessate, allo stato di previsione del Ministero del tesoro, rubrica 3 " Provveditorato generale dello Stato " - le somme occorrenti per l'esecuzione dei programmi di acquisto comunicati dalle Amministrazioni medesime al Provveditorato generale dello Stato entro il mese di marzo, in relazione alle effettive necessita'.
+Per gli acquisti di arredi, strumenti e attrezzature tecniche, di materiali e prodotti elettrici e telefonici, di materiali vari di cancelleria, di uniformi al personale, di automezzi di servizio, di prodotti informatici nonche' per la fornitura di servizi occorrenti per il funzionamento degli uffici dell'Amministrazione centrale e periferica - compresi i servizi e le forniture considerati dal [regio decreto 18 gennaio 1923, n. 94](Che%20istituisce%20presso%20il%20Ministero%20delle%20finanze%20un%20Provveditorato%20generale%20dello%20Stato.%20023U0094.md), e relative norme di applicazione - fatta eccezione per il Ministero delle finanze, per le aziende autonome, per i corpi militari o militarizzati, comprese le Forze di polizia e il Corpo nazionale dei vigili del fuoco, per gli organi centrali e gli istituti centrali e periferici del Ministero per i beni culturali e ambientali, per il Servizio conservazione della natura del Ministero dell'ambiente, per gli uffici all'estero del Ministero degli affari esteri, per gli uffici provinciali gia' autorizzati da specifica norma legislativa nonche', nei casi di urgenza, per la Presidenza del Consiglio dei ministri nei limiti di spesa previsti dal regolamento approvato con [decreto del Presidente della Repubblica 5 giugno 1985, n. 359](../DPR/Regolamento%20per%20i%20lavori%20le%20provviste%20e%20i%20servizi%20da%20eseguirsi%20in%20economia%20da%20parte%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri.md), il Ministro del tesoro e' autorizzato a trasferire, con propri decreti, in termini di competenza e di cassa - dai capitoli, anche di conto capitale, concernenti spese per acquisti, forniture e servizi, degli stati di previsione delle Amministrazioni interessate, allo stato di previsione del Ministero del tesoro, rubrica 3 " Provveditorato generale dello Stato " - le somme occorrenti per l'esecuzione dei programmi di acquisto comunicati dalle Amministrazioni medesime al Provveditorato generale dello Stato entro il mese di marzo, in relazione alle effettive necessita'.
 
 12.
 
@@ -736,7 +736,7 @@ Il Ministro del tesoro e' autorizzato ad apportare con propri decreti, in termin
 
 17.
 
-Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le variazioni di bilancio connesse con l'attuazione dei contratti collettivi nazionali di lavoro, stipulati ai sensi dell'[articolo 45 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, nonche' degli accordi sindacali e dei provvedimenti di concertazione, stipulati ai sensi dell'[articolo 2 del decreto legislativo 12 maggio 1995, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;195#art_2), per quanto concerne il trattamento economico fondamentale ed accessorio del personale interessato.
+Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le variazioni di bilancio connesse con l'attuazione dei contratti collettivi nazionali di lavoro, stipulati ai sensi dell'[articolo 45 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, nonche' degli accordi sindacali e dei provvedimenti di concertazione, stipulati ai sensi dell'[articolo 2 del decreto legislativo 12 maggio 1995, n. 195](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%202%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20procedure%20per%20disciplinare%20i%20contenuti%20del%20rapporto%20di%20impiego%20del%20personale%20delle%20Forze%20di%20polizia%20e%20delle%20Forze%20armate.md), per quanto concerne il trattamento economico fondamentale ed accessorio del personale interessato.
 
 18.
 

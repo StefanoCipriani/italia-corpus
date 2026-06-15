@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 1983](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-27;1983): 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 1983](Omissione%20nei%20certificati%20del%20casellario%20giudiziale%20delle%20condanne%20per%20reati%20commessi%20per%20fine%20nazionale.%20027U1983.md): 
  
  «Omissione nei certificati del casellario giudiziale delle condanne per reati commessi per fine nazionale». 
  

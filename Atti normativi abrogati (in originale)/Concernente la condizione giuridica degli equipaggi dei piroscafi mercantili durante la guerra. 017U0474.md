@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Visti i Nostri decreti 17 febbraio 1916, n. 204, e 6 agosto 1916, n. 1043, concernenti la condizione giuridica degli equipaggi delle navi requisite;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro della marina, di concerto con quelli del tesoro, del
 
 ## Art. 1.
 
-Agli individui componenti lo stato maggiore e l'equipaggio di qualsiasi piroscafo mercantile di nazionalita' italiana, qualunque sia il servizio che il piroscafo presta e qualunque sia la posizione rispetto agli obblighi di leva dei predetti individui, sara', durante la guerra, sempre applicabile il disposto dall'[art. 598 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_598) militare marittimo.
+Agli individui componenti lo stato maggiore e l'equipaggio di qualsiasi piroscafo mercantile di nazionalita' italiana, qualunque sia il servizio che il piroscafo presta e qualunque sia la posizione rispetto agli obblighi di leva dei predetti individui, sara', durante la guerra, sempre applicabile il disposto dall'[art. 598 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
 
 ## Art. 2.
 
@@ -60,11 +60,11 @@ Ai componenti l'equipaggio che otterranno lo sbarco nei casi previsti dal preced
 
 ## Art. 5.
 
-Qualunque individuo della gente di mare che contravverra' alle disposizioni di cui al precedente art. 2 incorrera' nelle sanzioni penali stabilite per i disertori dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo (art. 160 e seguenti).
+Qualunque individuo della gente di mare che contravverra' alle disposizioni di cui al precedente art. 2 incorrera' nelle sanzioni penali stabilite per i disertori dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo (art. 160 e seguenti).
 
 ## Art. 6.
 
-Durante la guerra, il disposto dell'art. 607 del predetto [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo sara' sempre applicabile anche per la perdita delle navi mercantili nazionali. 
+Durante la guerra, il disposto dell'art. 607 del predetto [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo sara' sempre applicabile anche per la perdita delle navi mercantili nazionali. 
  
  II presente decreto avra' vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale. 
  

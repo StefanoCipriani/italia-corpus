@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I sottufficiali del R. esercito e della R. marina che, dopo l'inizio dell'attuale guerra, abbiano lasciato trascorrere il tempo utile per valersi della facolta' loro consentita dall'articolo 21 del testo unico delle leggi sullo stato dei sottufficiali, approvato con [R. decreto 17 novembre 1912, num. 1329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-11-17;1329), sono ammessi, sempre quando posseggano i voluti requisiti, a presentare domanda d'impiego civile entro il termine di 6 mesi a decorrere dalla data del presente decreto.
+I sottufficiali del R. esercito e della R. marina che, dopo l'inizio dell'attuale guerra, abbiano lasciato trascorrere il tempo utile per valersi della facolta' loro consentita dall'articolo 21 del testo unico delle leggi sullo stato dei sottufficiali, approvato con [R. decreto 17 novembre 1912, num. 1329](Col%20quale%20viene%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20dellesercito.%20012U1329.md), sono ammessi, sempre quando posseggano i voluti requisiti, a presentare domanda d'impiego civile entro il termine di 6 mesi a decorrere dalla data del presente decreto.
 
 ## Art. 2.
 

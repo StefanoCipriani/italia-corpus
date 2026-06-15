@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;46), concernente la disciplina del pagamento delle indennita' di requisizione degli autoveicoli requisiti dalle Autorita' Alleate;
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 46](../Decreti%20legislativi%20luogotenenziali/Disciplina%20del%20pagamento%20delle%20indegnita%20di%20requisizione%20degli%20autoveicoli%20requisiti%20dalle%20Autorita%20Alleate.%20045U0046.md), concernente la disciplina del pagamento delle indennita' di requisizione degli autoveicoli requisiti dalle Autorita' Alleate;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4) ;
 
@@ -28,12 +28,12 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Le disposizioni del [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;46), per la disciplina del pagamento delle indennita' di requisizione degli autoveicoli requisiti dalle Autorita' Alleate e da queste consegnati agli Ispettorati compartimentali della motorizzazione civile, si applicano anche alle requisizioni effettuate dalle Autorita' anzidette:
+Le disposizioni del [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 46](../Decreti%20legislativi%20luogotenenziali/Disciplina%20del%20pagamento%20delle%20indegnita%20di%20requisizione%20degli%20autoveicoli%20requisiti%20dalle%20Autorita%20Alleate.%20045U0046.md), per la disciplina del pagamento delle indennita' di requisizione degli autoveicoli requisiti dalle Autorita' Alleate e da queste consegnati agli Ispettorati compartimentali della motorizzazione civile, si applicano anche alle requisizioni effettuate dalle Autorita' anzidette:
  a) di autoveicoli che non possono essere consegnati agli Ispettorati compartimentali perche' restituiti direttamente ai proprietari;
  b) di autoveicoli non piu' disponibili, per avvenuta demolizione, per distruzione o per altro motivo;
  c) di copertoni, di camere d'aria, di pezzi di ricambio, e in genere di ogni accessorio di autoveicoli.
- Gli autoveicoli di cui alla lettera b) ed i materiali di cui alla lettera c) si intenderanno requisiti definitivamente a norma del testo unico approvato con [R. decreto 31 gennaio 1926, n. 452](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-31;452).
- Agli effetti dell'applicazione delle disposizioni di cui al [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 46, e al primo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;46#art_com1) del presente articolo, sono compresi fra gli autoveicoli anche i rimorchi di autoveicoli.
+ Gli autoveicoli di cui alla lettera b) ed i materiali di cui alla lettera c) si intenderanno requisiti definitivamente a norma del testo unico approvato con [R. decreto 31 gennaio 1926, n. 452](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina.%20026U0452.md).
+ Agli effetti dell'applicazione delle disposizioni di cui al [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 46, e al primo comma](../Decreti%20legislativi%20luogotenenziali/Disciplina%20del%20pagamento%20delle%20indegnita%20di%20requisizione%20degli%20autoveicoli%20requisiti%20dalle%20Autorita%20Alleate.%20045U0046.md) del presente articolo, sono compresi fra gli autoveicoli anche i rimorchi di autoveicoli.
 
 ## Art. 2.
 
@@ -41,7 +41,7 @@ La liquidazione della indennita' per il deterioramento degli autoveicoli di cui 
 
 ## Art. 3.
 
-Gli autoveicoli ed i rimorchi di autoveicoli requisiti dalle Autorita' Alleate che, alla data, da stabilirsi di comune accordo tra il Governo Italiano e le Autorita' Alleate, non risulteranno consegnati agli Ispettorati compartimentali della motorizzazione civile in applicazione dello disposizioni del decreto legislative Luogotenenziale 1° febbraio 1945, n. 46, e del presente decreto, si intenderanno requisiti definitivamente, e le indennita' dovute ai proprietari saranno liquidate ai sensi e con la modalita' previste dagli articoli 2 e 3 del predetto [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;46).
+Gli autoveicoli ed i rimorchi di autoveicoli requisiti dalle Autorita' Alleate che, alla data, da stabilirsi di comune accordo tra il Governo Italiano e le Autorita' Alleate, non risulteranno consegnati agli Ispettorati compartimentali della motorizzazione civile in applicazione dello disposizioni del decreto legislative Luogotenenziale 1° febbraio 1945, n. 46, e del presente decreto, si intenderanno requisiti definitivamente, e le indennita' dovute ai proprietari saranno liquidate ai sensi e con la modalita' previste dagli articoli 2 e 3 del predetto [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 46](../Decreti%20legislativi%20luogotenenziali/Disciplina%20del%20pagamento%20delle%20indegnita%20di%20requisizione%20degli%20autoveicoli%20requisiti%20dalle%20Autorita%20Alleate.%20045U0046.md).
 
 ## Art. 4.
 

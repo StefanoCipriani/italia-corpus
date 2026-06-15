@@ -93,7 +93,7 @@ Il consiglio di amministrazione dell'ente adotta il regolamento di amministrazio
 
 4.
 
-L'ente e' incluso nella tabella A, allegata alla [legge 29 ottobre 1984, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720). Le previsioni e i consuntivi in termini di cassa sono trasmessi al Ministero del tesoro ai sensi degli [articoli 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_25) e [30 della legge 5 agosto 1978, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_30), e successive modificazioni ed integrazioni.
+L'ente e' incluso nella tabella A, allegata alla [legge 29 ottobre 1984, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720). Le previsioni e i consuntivi in termini di cassa sono trasmessi al Ministero del tesoro ai sensi degli [articoli 25](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md) e [30 della legge 5 agosto 1978, n. 468](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), e successive modificazioni ed integrazioni.
 
 ### Art. 5. — Controllo della Corte dei conti
 
@@ -156,7 +156,7 @@ postelegrafonici le competenze connesse alla liquidazione definitiva ed alla ges
 
 10.
 
-Resta ferma la competenza attribuita alle direzioni provinciali del tesoro ai sensi del [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-12-29;1092), e del [decreto del Presidente della Repubblica 19 aprile 1986, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-19;138), per il pagamento dei trattamenti di quiescenza indicati ai commi 5 e 9 e per la concessione dei relativi trattamenti di reversibilita'.
+Resta ferma la competenza attribuita alle direzioni provinciali del tesoro ai sensi del [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), e del [decreto del Presidente della Repubblica 19 aprile 1986, n. 138](../DPR/Parziale%20attuazione%20della%20delega%20di%20cui%20alle%20lettere%20a%20b%20e%20d%20del%20secondo%20comma%20dellart.%201%20della%20legge%207%20agosto%201985%20n.%20428%20in%20materia%20di%20semplificazione%20delle%20procedure%20relative%20al%20pagame_d2a1a8c6c5c1.md), per il pagamento dei trattamenti di quiescenza indicati ai commi 5 e 9 e per la concessione dei relativi trattamenti di reversibilita'.
 
 11.
 
@@ -164,7 +164,7 @@ Entro un anno dalla data di entrata in vigore della legge di conversione del pre
 
 12.
 
-L'assunzione di personale nella provincia autonoma di Bolzano continua ad essere disciplinata dal [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-07-26;752), e successive integrazioni e modificazioni.
+L'assunzione di personale nella provincia autonoma di Bolzano continua ad essere disciplinata dal [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), e successive integrazioni e modificazioni.
 
 ### Art. 7. — Patrimonio
 
@@ -211,11 +211,11 @@ Alle obbligazioni e titoli similari, che sono emessi dall'ente, si applica il tr
 2.
 
 La disposizione di cui all'[articolo 5 della legge 1 dicembre 
-1981, n. 692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-12-01;692#art_5), si applica all'ente "Poste Italiane".
+1981, n. 692](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20ottobre%201981%20n.%20546%20recante%20disposizioni%20in%20materia%20di%20imposte%20di%20bollo%20e%20sugli%20atti%20e%20formalita%20relativi%20ai%20trasferimenti%20degli_639277c7692f.md), si applica all'ente "Poste Italiane".
 
 3.
 
-L'ente "Poste Italiane" e' esente dall'imposta sul patrimonio netto delle imprese di cui al [decreto-legge 30 settembre 1992, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-30;394), convertito, con modificazioni, dalla [legge 26 novembre 1992, n. 461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;461).
+L'ente "Poste Italiane" e' esente dall'imposta sul patrimonio netto delle imprese di cui al [decreto-legge 30 settembre 1992, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-30;394), convertito, con modificazioni, dalla [legge 26 novembre 1992, n. 461](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201992%20n.%20394%20recante%20disposizioni%20concernenti%20listituzione%20di%20unimposta%20sul%20patrimonio%20netto%20delle%20imprese.md).
 
 4.
 

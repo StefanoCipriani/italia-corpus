@@ -26,11 +26,11 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Ai fini di una piu' corretta predisposizione progettuale delle iniziative, nonche' della verifica dell'attuazione dei progetti finanziati ai sensi del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309), di seguito denominato testo unico, e' istituito presso la Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, un nucleo operativo composto da tredici esperti, di cui otto in rappresentanza, rispettivamente, delle Amministrazioni del tesoro, dell'interno, di grazia e giustizia, della difesa, della pubblica istruzione, della sanita', del lavoro e della previdenza sociale e dell'universita' e della ricerca scientifica e tecnologica, scelti prioritariamente tra il personale con qualifica dirigenziale, da quattro esperti particolarmente competenti nel settore della prevenzione e delle verifiche di efficienza e di efficacia e da un rappresentante delle associazioni delle famiglie. I membri del nucleo operativo sono rinnovati ogni anno per un terzo a decorrere dallo scadere del secondo anno. Non si puo' far parte del nucleo operativo per piu' di cinque anni. Il nucleo operativo riferisce periodicamente sull'attivita' svolta al Ministro per la famiglia e la solidarieta' sociale.
+Ai fini di una piu' corretta predisposizione progettuale delle iniziative, nonche' della verifica dell'attuazione dei progetti finanziati ai sensi del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), di seguito denominato testo unico, e' istituito presso la Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, un nucleo operativo composto da tredici esperti, di cui otto in rappresentanza, rispettivamente, delle Amministrazioni del tesoro, dell'interno, di grazia e giustizia, della difesa, della pubblica istruzione, della sanita', del lavoro e della previdenza sociale e dell'universita' e della ricerca scientifica e tecnologica, scelti prioritariamente tra il personale con qualifica dirigenziale, da quattro esperti particolarmente competenti nel settore della prevenzione e delle verifiche di efficienza e di efficacia e da un rappresentante delle associazioni delle famiglie. I membri del nucleo operativo sono rinnovati ogni anno per un terzo a decorrere dallo scadere del secondo anno. Non si puo' far parte del nucleo operativo per piu' di cinque anni. Il nucleo operativo riferisce periodicamente sull'attivita' svolta al Ministro per la famiglia e la solidarieta' sociale.
 
 2.
 
-I componenti del nucleo operativo in rappresentanza delle amministrazioni dello Stato sono nominati con decreto del Presidente del Consiglio dei Ministri, su proposta dei Ministri interessati, e sono collocati fuori ruolo ai sensi e per gli effetti degli articoli 58 e 59 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3). 
+I componenti del nucleo operativo in rappresentanza delle amministrazioni dello Stato sono nominati con decreto del Presidente del Consiglio dei Ministri, su proposta dei Ministri interessati, e sono collocati fuori ruolo ai sensi e per gli effetti degli articoli 58 e 59 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md). 
 I rimanenti componenti del nucleo operativo sono nominati con decreto del Presidente del Consiglio dei Ministri ai sensi dell'[articolo 31 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_31), ovvero collocati fuori ruolo se appartenenti all'Amministrazione dello Stato.
 
 3.
@@ -46,7 +46,7 @@ L'onere per il funzionamento del nucleo operativo di cui al comma 1 e' valutato 
 1.
 
 Ai fini del coordinamento della attivita' di prevenzione, recupero e reinserimento sociale dei tossicodipendenti, nonche' delle attivita' finalizzate alla erogazione dei contributi di cui agli articoli 127, 131, 132 e 134 del testo unico, e' istituito presso la Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, il "Fondo nazionale di intervento per la lotta alla droga".
-A tal fine gli stanziamenti iscritti al capitolo 4283 dello stato di previsione del Ministero dell'interno, come indicati alla tabella C allegata alla [legge 23 dicembre 1992, n. 500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;500), sono trasferiti, per gli anni medesimi, nello stato di previsione della Presidenza del Consiglio dei Ministri. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+A tal fine gli stanziamenti iscritti al capitolo 4283 dello stato di previsione del Ministero dell'interno, come indicati alla tabella C allegata alla [legge 23 dicembre 1992, n. 500](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201993.md), sono trasferiti, per gli anni medesimi, nello stato di previsione della Presidenza del Consiglio dei Ministri. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 2.
 
@@ -108,7 +108,7 @@ E' abrogata ogni altra disposizione in contrasto con il presente articolo.
 
 1.
 
-All'articolo 1 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309), sono apportate le seguenti modificazioni:
+All'articolo 1 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), sono apportate le seguenti modificazioni:
                         a)
                             l'alinea del comma 8 e' sostituito dal seguente: 
  "L'Osservatorio, sulla base delle direttive e dei criteri diramati dal Comitato, anche in base alle metodiche poste in essere dall'ISTAT, acquisisce periodicamente e sistematicamente dati:";
@@ -123,7 +123,7 @@ All'articolo 1 del testo unico sulle tossicodipendenze, approvato con [decreto d
 
 1.
 
-All'articolo 129 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309), e' aggiunto, in fine, il seguente comma: 
+All'articolo 129 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' aggiunto, in fine, il seguente comma: 
  "3-bis. Gli enti che intendono avere in uso gli immobili di cui al comma 1 ne fanno domanda alla Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, che provvede a trasmettere la domanda al Ministero delle finanze - Dipartimento del territorio - Direzione centrale del demanio, entro sessanta giorni, corredandola con il proprio parere. Il Ministro delle finanze provvede sull'istanza entro centottanta giorni dalla data di ricezione.
 Trascorso inutilmente tale termine, il Ministro per la famiglia e la solidarieta' sociale puo' chiedere che la questione sia iscritta all'ordine del giorno del Consiglio dei Ministri.".
 
@@ -147,13 +147,13 @@ Nei concorsi pubblici per il primo conferimento dei posti istituiti negli organi
 
 5.
 
-Non si applica ai concorsi pubblici di cui al comma 4 la disposizione prevista dall'[articolo 8, comma 1, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com1).
+Non si applica ai concorsi pubblici di cui al comma 4 la disposizione prevista dall'[articolo 8, comma 1, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md).
 
 ## Art. 6.
 
 1.
 
-Le somme rese disponibili per effetto della revoca del contributo di cui all'[articolo 11, comma 5, del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_11-com5), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono versate dalle regioni interessate ad apposito capitolo dello stato di previsione dell'entrata del bilancio statale per essere riassegnate, con decreto del Ministro del tesoro, ad apposito capitolo dello stato di previsione della Presidenza del Consiglio dei Ministri.
+Le somme rese disponibili per effetto della revoca del contributo di cui all'[articolo 11, comma 5, del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_11-com5), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), sono versate dalle regioni interessate ad apposito capitolo dello stato di previsione dell'entrata del bilancio statale per essere riassegnate, con decreto del Ministro del tesoro, ad apposito capitolo dello stato di previsione della Presidenza del Consiglio dei Ministri.
 
 ## Art. 7.
 

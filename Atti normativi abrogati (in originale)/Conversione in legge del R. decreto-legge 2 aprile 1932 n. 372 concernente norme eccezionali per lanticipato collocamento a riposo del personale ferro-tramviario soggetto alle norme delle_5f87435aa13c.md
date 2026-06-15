@@ -25,7 +25,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 aprile 1932, numero 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-04-02;372), concernente norme eccezionali per l'anticipato collocamento a riposo del personale addetto ai pubblici servizi di trasporto soggetto alle norme dell'equo trattamento. 
+ E' convertito in legge il [R. decreto-legge 2 aprile 1932, numero 372](Norme%20eccezionali%20per%20lanticipato%20collocamento%20a%20riposo%20del%20personale%20delle%20ferrovie%20tramvie%20e%20linee%20di%20navigazione%20interna%20in%20regime%20di%20concessione.%20032U0372.md), concernente norme eccezionali per l'anticipato collocamento a riposo del personale addetto ai pubblici servizi di trasporto soggetto alle norme dell'equo trattamento. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

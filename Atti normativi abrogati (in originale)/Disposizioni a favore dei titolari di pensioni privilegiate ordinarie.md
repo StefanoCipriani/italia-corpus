@@ -20,7 +20,7 @@ Ai fini della concessione del trattamento privilegiato di pensione ai dipendenti
 
 ## Art. 2.
 
-Gli assegni di superinvalidita' concessi con l'[art. 1 del decreto legislativo 26 gennaio 1948, n. 74](Disposizioni%20a%20favore%20dei%20grandi%20invalidi%20titolari%20di%20pensioni%20privilegiate%20ordinarie.md), ed aumentati con l'[art. 1 del decreto legislativo 9 marzo 1948, n. 258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-09;258#art_1), sono elevati complessivamente alle seguenti misure:
+Gli assegni di superinvalidita' concessi con l'[art. 1 del decreto legislativo 26 gennaio 1948, n. 74](Disposizioni%20a%20favore%20dei%20grandi%20invalidi%20titolari%20di%20pensioni%20privilegiate%20ordinarie.md), ed aumentati con l'[art. 1 del decreto legislativo 9 marzo 1948, n. 258](../Decreti%20Legislativi/Nuove%20provvidenze%20economiche%20a%20favore%20dei%20grandi%20invalidi%20titolari%20di%20pensioni%20privilegiate%20ordinarie.md), sono elevati complessivamente alle seguenti misure:
  Lettera A.................................... annue L. 456.000
  " A-bis................................ " " 396.000
  " B.................................... " " 291.400
@@ -32,7 +32,7 @@ Gli assegni di superinvalidita' concessi con l'[art. 1 del decreto legislativo 2
 
 ## Art. 3.
 
-L'indennita' speciale per l'accompagnatore concessa con l'[art. 3 del decreto legislativo 26 gennaio 1948, n. 74](Disposizioni%20a%20favore%20dei%20grandi%20invalidi%20titolari%20di%20pensioni%20privilegiate%20ordinarie.md), elevata con l'[art. 2 del decreto legislativo 9 marzo 1948, n. 258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-09;258#art_2), e' aumentata alle seguenti misure mensili:
+L'indennita' speciale per l'accompagnatore concessa con l'[art. 3 del decreto legislativo 26 gennaio 1948, n. 74](Disposizioni%20a%20favore%20dei%20grandi%20invalidi%20titolari%20di%20pensioni%20privilegiate%20ordinarie.md), elevata con l'[art. 2 del decreto legislativo 9 marzo 1948, n. 258](../Decreti%20Legislativi/Nuove%20provvidenze%20economiche%20a%20favore%20dei%20grandi%20invalidi%20titolari%20di%20pensioni%20privilegiate%20ordinarie.md), e' aumentata alle seguenti misure mensili:
  1) per i superinvalidi residenti in Comuni aventi una popolazione non inferiore a 100.000 abitanti:
  Lettera A.................................... L. 26.000 " A-bis................................ " 24.000
  " B, punti 1, 2 (comma secondo) 3 e 4.. " 20.000

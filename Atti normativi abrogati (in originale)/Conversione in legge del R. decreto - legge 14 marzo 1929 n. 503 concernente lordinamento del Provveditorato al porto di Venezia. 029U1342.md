@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 marzo 1929, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-14;503), concernente l'ordinamento del «Provveditorato al porto di Venezia». 
+ E' convertito in legge il [R. decreto-legge 14 marzo 1929, n. 503](Ordinamento%20del%20Provveditorato%20al%20porto%20di%20Venezia.%20029U0503.md), concernente l'ordinamento del «Provveditorato al porto di Venezia». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

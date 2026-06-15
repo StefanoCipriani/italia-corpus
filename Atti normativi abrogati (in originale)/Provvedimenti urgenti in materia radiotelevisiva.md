@@ -16,7 +16,7 @@ Ritenuta la straordinaria necessita' ed urgenza di evitare l'interruzione della 
 
 Considerato che per le emittenti televisive locali sono in corso di istruttoria numerosi ricorsi in opposizione avverso il decreto di approvazione degli elenchi degli aventi titolo al rilascio della concessione;
 
-Considerato, altresi', che per le emittenti televisive nazionali, che intendano trasmettere in codice, e' in corso il complesso procedimento per l'emanazione di un apposito regolamento, previsto dal [decreto-legge 19 ottobre 1992, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-10-19;407), convertito, con modificazioni, dalla [legge 17 dicembre 1992, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-17;482);
+Considerato, altresi', che per le emittenti televisive nazionali, che intendano trasmettere in codice, e' in corso il complesso procedimento per l'emanazione di un apposito regolamento, previsto dal [decreto-legge 19 ottobre 1992, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-10-19;407), convertito, con modificazioni, dalla [legge 17 dicembre 1992, n. 482](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20ottobre%201992%20n.%20407%20recante%20proroga%20dei%20termini%20in%20materia%20di%20impianti%20di%20radiodiffusione.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 febbraio 1993;
 

@@ -16,8 +16,8 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-La carriera del personale di ragioneria del Provveditorati agli studi e' compresa tra le carriere speciali previste dal titolo V del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3).
- La tabella A dell'allegato VI del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;362), e' sostituita, dalla data di entrata in vigore della presente legge, dalla tabella seguente.
+La carriera del personale di ragioneria del Provveditorati agli studi e' compresa tra le carriere speciali previste dal titolo V del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ La tabella A dell'allegato VI del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 362](../DPR/Revisione%20dei%20ruoli%20organici%20dei%20dipendenti%20di%20alcune%20Amministrazioni%20statali.md), e' sostituita, dalla data di entrata in vigore della presente legge, dalla tabella seguente.
 
  RUOLO ORGANICO DELLA CARRIERA SPECIALE DEL PERSONALE DI RAGIONERIA
  DEI PROVVEDITORATI AGLI STUDI

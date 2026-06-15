@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), concernente tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali;
+Vista la [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), concernente tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali;
 
-Vista la [legge 31 dicembre 1996, n. 676](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;676), recante delega al Governo in materia di tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali;
+Vista la [legge 31 dicembre 1996, n. 676](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), recante delega al Governo in materia di tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali;
 
 Visto il [decreto legislativo 9 maggio 1997, n. 123](Disposizioni%20correttive%20ed%20integrative%20della%20legge%2031%20dicembre%201996%20n.%20675%20in%20materia%20di%20tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md);
 
@@ -30,7 +30,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Nell'[articolo 7 della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_7), sono aggiunti, in fine, i seguenti commi:
+Nell'[articolo 7 della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), sono aggiunti, in fine, i seguenti commi:
 "5-bis. La notificazione in forma semplificata puo' non contenere taluno degli elementi di cui al comma 4, lettere b), c), e) e g), individuati dal Garante ai sensi del regolamento di cui all'articolo 33, comma 3, quando il trattamento e' effettuato:
 a) da soggetti pubblici, esclusi gli enti pubblici economici, sulla base di espressa disposizione di legge ai sensi degli articoli 22, comma 3, e 24, ovvero del provvedimento di cui al medesimo articolo 24;
 b) nell'esercizio della professione di giornalista e per l'esclusivo perseguimento delle relative finalita', ovvero dai soggetti indicati nel comma 4 -bis dell'articolo 25, nel rispetto del codice di deontologia di cui al medesimo articolo;
@@ -58,7 +58,7 @@ c) nei casi residui, dal Garante con le autorizzazioni rilasciate con le modalit
 5-quinquies. Il titolare che si avvale dell'esonero di cui al comma 5-ter deve fornire gli elementi di cui al comma 4 a chiunque ne faccia richiesta.".
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, suil'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, suil'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota al titolo:
  - Il testo dell'[art. 1, comma 1, lettera f), della legge n. 676/1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996;676#art_1-com1-letf) (per il titolo si veda nelle premesse al presente decreto) e' il seguente:
  "1. Il Governo della Repubblica e' delegato ad emanare entro diciotto mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi recanti disposizioni integrative della legislazione in materia di tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali, con l'osservanza dei seguenti principi e criteri direttivi:
@@ -68,7 +68,7 @@ Avvertenza:
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
- - Il [D.Lgs. n. 123/1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;123) reca: "Disposizioni correttive ed integrative della [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), in materia di tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali".
+ - Il [D.Lgs. n. 123/1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;123) reca: "Disposizioni correttive ed integrative della [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), in materia di tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali".
  Nota all'art. 1:
  - Il testo dell'[art. 7 della legge n. 675/1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996;675#art_7), come modificato dal presente articolo, e' il seguente:
  "Art. 7 (Notificazione). - 1. Il titolare che intenda procedere ad un trattamento di dati personali soggetto al campo di applicazione della presente legge e' tenuto a darne notificazione al Garante.
@@ -115,7 +115,7 @@ Avvertenza:
 
 1.
 
-L'[articolo 41, comma 2, della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_41-com2), e' sostituito dal seguente:
+L'[articolo 41, comma 2, della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), e' sostituito dal seguente:
 "2. Per i trattamenti di dati personali iniziati prima del 1 gennaio 1998, le notificazioni prescritte dagli articoli 7 e 28 sono effettuate dal 1 gennaio 1998 al 31 marzo 1998 ovvero, per i trattamenti di cui all'articolo 5 riguardanti dati diversi da quelli di cui agli articoli 22 e 24, nonche' per quelli di cui all'articolo 4, comma 1, lettere c), d) ed e), dal 1 aprile 1998 al 30 giugno 1998.".
 
 Nota all'art. 2:

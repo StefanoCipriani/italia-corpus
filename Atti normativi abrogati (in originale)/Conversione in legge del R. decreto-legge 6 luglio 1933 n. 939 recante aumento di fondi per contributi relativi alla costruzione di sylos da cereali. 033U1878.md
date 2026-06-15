@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 luglio 1933, n. 939](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-07-06;939), recante aumento di fondi per contributi relativi alla costruzione di sylos da cereali. 
+ E' convertito in legge il [R. decreto-legge 6 luglio 1933, n. 939](Aumento%20di%20fondi%20per%20contributi%20relativi%20alla%20costruzione%20di%20sylos%20da%20cereali.%20033U0939.md), recante aumento di fondi per contributi relativi alla costruzione di sylos da cereali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

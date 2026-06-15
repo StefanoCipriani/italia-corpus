@@ -14,7 +14,7 @@ per grazia di Dio e per Volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'art. 125 (3° comma) del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto del 24 dicembre 1911, n. 1497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-24;1497);
+Visto l'art. 125 (3° comma) del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto del 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
 
 Visti i Nostri decreti del 28 maggio 1914, n. 472 e del 20 ottobre 1914, n. 1119;
 

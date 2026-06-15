@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti la [legge 24 maggio 1925, n. 725](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20degli%20affari%20esteri%20per%20lesercizio%20finanziario%20dal%201%20luglio%201925%20al%2030%20giugno%201926.%20025U0725.md), e il [R. decreto 7 settembre 1925, n. 1639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-07;1639); 
+ Visti la [legge 24 maggio 1925, n. 725](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20degli%20affari%20esteri%20per%20lesercizio%20finanziario%20dal%201%20luglio%201925%20al%2030%20giugno%201926.%20025U0725.md), e il [R. decreto 7 settembre 1925, n. 1639](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellaeronautica%20per%20lesercizio%20finanziario%20dal%201%20luglio%201925%20al%2030%20giugno%201926.%20025U1639.md); 
  
  Sentito il Consiglio dei Ministri; 
  

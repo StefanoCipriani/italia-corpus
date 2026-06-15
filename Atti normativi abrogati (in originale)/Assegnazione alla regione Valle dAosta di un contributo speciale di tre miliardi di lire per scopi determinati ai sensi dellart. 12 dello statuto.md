@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-E' assegnato alla regione Valle d'Aosta, per gli anni 1966 e 1967, un contributo speciale di 3 miliardi di lire ai sensi dell'articolo 12 dello statuto, approvato con [legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4), per la esecuzione di opere stradali, di edifici scolastici, di lavori di restauro e sistemazione di aree archeologiche e di opere igieniche.
+E' assegnato alla regione Valle d'Aosta, per gli anni 1966 e 1967, un contributo speciale di 3 miliardi di lire ai sensi dell'articolo 12 dello statuto, approvato con [legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), per la esecuzione di opere stradali, di edifici scolastici, di lavori di restauro e sistemazione di aree archeologiche e di opere igieniche.
 
 ## Art. 2.
 

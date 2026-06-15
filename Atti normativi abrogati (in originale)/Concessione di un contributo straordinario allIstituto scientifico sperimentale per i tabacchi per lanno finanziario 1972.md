@@ -18,7 +18,7 @@ Visto il [decreto-legge 30 novembre 1970, n. 870](https://www.normattiva.it/uri-
 
 Considerato che per effetto di detta disposizione e' venuta a cessare la principale fonte di finanziamento dell'istituto costituita dai contributi a carico delle concessioni speciali prevista dall'art. 3 dello statuto approvato con [decreto legislativo luogotenenziale 26 marzo 1946, n. 297](Istituzione%20dellIstituto%20scientifico%20sperimentale%20per%20i%20tabacchi.md);
 
-Vista la [legge 3 febbraio 1971, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-03;30), con la quale e' stato concesso all'Istituto scientifico sperimentale per i tabacchi un contributo straordinario per l'anno finanziario 1971;
+Vista la [legge 3 febbraio 1971, n. 30](Provvedimenti%20urgenti%20a%20favore%20dellistituto%20scientifico%20sperimentale%20per%20i%20tabacchi.md), con la quale e' stato concesso all'Istituto scientifico sperimentale per i tabacchi un contributo straordinario per l'anno finanziario 1971;
 
 Ritenuta la straordinaria necessita' ed urgenza di assicurare all'istituto anche per l'anno finanziario 1972 i mezzi finanziari occorrenti per il suo funzionamento fino a quando non si sara' provveduto legislativamente alla sua ristrutturazione;
 

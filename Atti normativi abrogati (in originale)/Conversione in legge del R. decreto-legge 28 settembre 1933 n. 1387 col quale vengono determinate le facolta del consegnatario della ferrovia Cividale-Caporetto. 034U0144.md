@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [R. decreto-legge 28 settembre 1933, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-28;1387), col quale vengono determinate le facolta' del consegnatario della ferrovia Cividale-Caporetto. 
+ E convertito in legge il [R. decreto-legge 28 settembre 1933, n. 1387](Determinazione%20delle%20facolta%20del%20consegnatario%20della%20ferrovia%20Cividale-Caporetto.%20033U1387.md), col quale vengono determinate le facolta' del consegnatario della ferrovia Cividale-Caporetto. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

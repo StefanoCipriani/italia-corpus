@@ -42,7 +42,7 @@ Il Ministro per l'agricoltura e per le foreste provvedera', con proprio decreto,
 
 ## Art. 6.
 
-Per l'ammasso granario per contingente disposto con la presente legge sono richiamate in vigore le disposizioni contenute negli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-10;397#art_11), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-10;397#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-10;397#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-10;397#art_14) e [15 del regio decreto-legge 10 maggio 1943, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-10;397#art_15).
+Per l'ammasso granario per contingente disposto con la presente legge sono richiamate in vigore le disposizioni contenute negli [articoli 11](Disciplina%20totalitaria%20della%20raccolta%20e%20destinazione%20dei%20cereali%20e%20delle%20fave.%20043U0397.md), [12](Disciplina%20totalitaria%20della%20raccolta%20e%20destinazione%20dei%20cereali%20e%20delle%20fave.%20043U0397.md), [13](Disciplina%20totalitaria%20della%20raccolta%20e%20destinazione%20dei%20cereali%20e%20delle%20fave.%20043U0397.md), [14](Disciplina%20totalitaria%20della%20raccolta%20e%20destinazione%20dei%20cereali%20e%20delle%20fave.%20043U0397.md) e [15 del regio decreto-legge 10 maggio 1943, n. 397](Disciplina%20totalitaria%20della%20raccolta%20e%20destinazione%20dei%20cereali%20e%20delle%20fave.%20043U0397.md).
 
 ## Art. 7.
 

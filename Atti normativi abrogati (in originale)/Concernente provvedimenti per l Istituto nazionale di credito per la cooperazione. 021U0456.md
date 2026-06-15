@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Le anticipazioni concesse all'Istituto nazionale di credito per la cooperazione con [Regi decreti 24 luglio 1919, n. 1459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-24;1459), [7 novembre 1920, n. 1599, e Regio decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-07;1599) [3 giugno 1920, n. 859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-03;859), restano conferite all' Istituto stesso a titolo di capitale. 
+ Le anticipazioni concesse all'Istituto nazionale di credito per la cooperazione con [Regi decreti 24 luglio 1919, n. 1459](Che%20stabilisce%20norme%20per%20la%20somministrazione%20di%20crediti%20da%20parte%20del%20tesoro%20dello%20Stato%20alle%20cooperative%20per%20enti%20ed%20istituti%20di%20consumo%20per%20acquisto%20conservazione%20e%20distribuzione%20dei%20gen_16674d77d820.md), [7 novembre 1920, n. 1599, e Regio decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-07;1599) [3 giugno 1920, n. 859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-03;859), restano conferite all' Istituto stesso a titolo di capitale. 
  
  I detti fondi saranno aumentati fino a raggiungere la somma di L. 200 milioni, mediante versamenti da farsi dallo Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 gennaio 1934, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-08;5), che reca provvedimenti per le comunicazioni marittime con l'Africa Meridionale. 
+ E' convertito in legge il [R. decreto-legge 8 gennaio 1934, n. 5](Comunicazioni%20marittime%20con%20lAfrica%20Meridionale.%20034U0005.md), che reca provvedimenti per le comunicazioni marittime con l'Africa Meridionale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

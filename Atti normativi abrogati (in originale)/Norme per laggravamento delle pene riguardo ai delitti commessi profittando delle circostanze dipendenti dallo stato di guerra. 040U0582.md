@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Quando la circostanza aggravante preveduta nell'[articolo 61, n. 5 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_61-num5) ricorra in dipendenza dello stato di guerra: 
+Quando la circostanza aggravante preveduta nell'[articolo 61, n. 5 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ricorra in dipendenza dello stato di guerra: 
  
  a) per i delitti di violenza carnale (articolo 519), di omicidio (articolo 575), di rapina (articolo 628), di estorsione (articolo 629) e di sequestro di persona a scopo di rapina o di estorsione (articolo 630) e per tutti i delitti punibili con la pena dell'ergastolo si applica la pena di morte; 
  

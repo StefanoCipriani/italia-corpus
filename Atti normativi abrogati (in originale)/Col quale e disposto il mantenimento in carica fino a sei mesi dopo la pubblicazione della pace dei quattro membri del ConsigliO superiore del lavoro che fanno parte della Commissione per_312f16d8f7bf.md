@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto l'[art. 2 della legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835#art_2); 
+ Visto l'[art. 2 della legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md); 
  
  Visto il decreto Ministeriale 1° dicembre 1912, registrato alla Corte dei conti il 31 dicembre 1912, reg. 351, fog. 57, n. 3019, con il quale fu provveduto alla costituzione della Commissione consultiva permanente per l'applicazione delle norme riguardanti l'equo trattamento del personale addetto ai pubblici servizi di trasporto a trazione meccanica e furono nominati fra gli altri, a termini di legge per un quinquennio, i quattro membri designati dal Consiglio superiore del lavoro; 
  

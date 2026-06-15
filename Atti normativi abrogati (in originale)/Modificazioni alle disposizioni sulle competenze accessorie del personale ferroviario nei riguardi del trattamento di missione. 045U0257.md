@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'art. 5 delle disposizioni sulle competenze accessorie del personale ferroviario, approvate col [R. decreto-legge 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-07;405), e' sostituito dal seguente: 
+L'art. 5 delle disposizioni sulle competenze accessorie del personale ferroviario, approvate col [R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), e' sostituito dal seguente: 
  
  «Quando la missione si svolga in una stessa localita', l'indennita' di trasferta e' ridotta di un terzo dopo i primi 60 giorni e della meta' dopo i 90 giorni, e cessa dopo i 180 giorni. 
  

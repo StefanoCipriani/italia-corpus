@@ -34,7 +34,7 @@ Possono sostenere gli esami di maturita' gli alunni di scuola statale, pareggiat
 ## Art. 3. — Altre condizioni di ammissione
 
 Alle operazioni di scrutinio nelle scuole legalmente riconosciute sopraintende, con funzioni di vigilanza e di controllo, il commissario governativo previsto dalle norme vigenti.
- Per l'ammissione all'esame i candidati non provenienti da scuola statale, pareggiata o legalmente riconosciuta devono sostenere nell'istituto statale o pareggiato presso il quale hanno presentato domanda d'esame, salvo il disposto di cui all'[art. 32 della legge 19 gennaio 1942, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;86#art_32), prove sostitutive dello scrutinio di cui al precedente art. 2, aventi la finalita' di valutare il loro grado di preparazione nelle singole materie di studio dell'ultima classe. Per i candidati non forniti di idoneita' all'ultima classe, le prove vertono anche sui programmi delle classi precedenti dalle quali i candidati stessi non abbiano conseguito la promozione.
+ Per l'ammissione all'esame i candidati non provenienti da scuola statale, pareggiata o legalmente riconosciuta devono sostenere nell'istituto statale o pareggiato presso il quale hanno presentato domanda d'esame, salvo il disposto di cui all'[art. 32 della legge 19 gennaio 1942, n. 86](Disposizioni%20concernenti%20le%20scuole%20non%20Regie%20e%20gli%20esami%20di%20Stato%20di%20maturita%20e%20di%20abilitazione.%20042U0086.md), prove sostitutive dello scrutinio di cui al precedente art. 2, aventi la finalita' di valutare il loro grado di preparazione nelle singole materie di studio dell'ultima classe. Per i candidati non forniti di idoneita' all'ultima classe, le prove vertono anche sui programmi delle classi precedenti dalle quali i candidati stessi non abbiano conseguito la promozione.
  L'ammissione e' deliberata dalla commissione esaminatrice con la stessa maggioranza di cui al terzo comma del precedente art. 2.
  Gli alunni provenienti da scuola statale, pareggiata o legalmente riconosciuta, appartenenti al penultimo anno d; corso, per essere ammessi all'esame di maturita', quando siano in possesso dei requisiti prescritti dalla legislazione vigente, debbono sostenere, nella scuola di appartenenza, le prove delle materie di studio dell'ultima classe.
 
@@ -50,7 +50,7 @@ L'esame di maturita' ha come fine la valutazione globale della personalita' del 
  La prima prova scritta consiste nello svolgimento di un tema scelto dal candidato fra tre che gli vengono proposti e che tende ad accertare le sue capacita' espressive e critiche.
  La seconda prova scritta, che per l'istituto tecnico puo' anche essere grafica o scritto-grafica, verte su una delle materie di cui alla allegata tabella A.
  Restano ferme le disposizioni che prevedono esami con una sola prova scritta.
- Salvo quanto previsto dall'[art. 86 del regio decreto 4 maggio 1925, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;653#art_86), i temi relativi alle prove scritte sono inviati dal Ministero.
+ Salvo quanto previsto dall'[art. 86 del regio decreto 4 maggio 1925, n. 653](Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md), i temi relativi alle prove scritte sono inviati dal Ministero.
  La correzione degli elaborati viene effettuata collegialmente.
 
 ## Art. 6. — Colloquio
@@ -97,7 +97,7 @@ Al presidente e ai membri delle commissioni per gli esami di maturita' viene cor
 
 ## Art. 10. — Esami di licenza della scuola media
 
-L'esame di licenza della scuola media, previsto dagli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859#art_5) e [6 della legge 31 dicembre 1962, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859#art_6), si sostiene in unica sessione con possibilita' di prove suppletive nei casi previsti dall'[art. 84 del regio decreto 4 maggio 1925, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;653#art_84).
+L'esame di licenza della scuola media, previsto dagli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859#art_5) e [6 della legge 31 dicembre 1962, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859#art_6), si sostiene in unica sessione con possibilita' di prove suppletive nei casi previsti dall'[art. 84 del regio decreto 4 maggio 1925, n. 653](Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md).
  L'esame di licenza si conclude, in caso di esito positivo, con l'attribuzione del giudizio di "ottimo", "buono", "discreto", "sufficiente" e in caso di esito negativo con la dichiarazione "non licenziato".
 
 ## Art. 11. — Copertura finanziaria

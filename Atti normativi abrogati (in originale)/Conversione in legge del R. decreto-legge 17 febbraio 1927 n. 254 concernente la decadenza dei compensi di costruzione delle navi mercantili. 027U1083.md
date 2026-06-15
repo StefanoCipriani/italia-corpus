@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 febbraio 1927, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;254), concernente la decadenza dei compensi di costruzione delle navi mercantili. 
+ E' convertito in legge il [R. decreto-legge 17 febbraio 1927, n. 254](Decadenza%20dei%20compensi%20di%20costruzione%20delle%20navi%20mercantili.%20027U0254.md), concernente la decadenza dei compensi di costruzione delle navi mercantili. 
  
  Ordiniamo che la presente, munita del sigillo dello stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

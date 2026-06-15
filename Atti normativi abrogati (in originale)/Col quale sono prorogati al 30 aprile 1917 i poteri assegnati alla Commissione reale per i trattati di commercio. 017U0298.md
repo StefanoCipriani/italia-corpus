@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- In forza dei poteri conferiti al Governo del Re colla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In forza dei poteri conferiti al Governo del Re colla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [R. decreto 23 gennaio 1913, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-23;42), che istituisce una Commissione reale per lo studio del regime doganale e dei trattati di commercio; 
+ Visto il [R. decreto 23 gennaio 1913, n. 42](Col%20quale%20viene%20istituita%20una%20Commissione%20con%20lincarico%20di%20esaminare%20e%20rivedere%20il%20vigente%20regime%20doganale%20e%20di%20stabilire%20i%20criteri%20e%20le%20direttive%20per%20la%20stipulazione%20dei%20nuovi%20trattati%20d_f7532b8d96d6.md), che istituisce una Commissione reale per lo studio del regime doganale e dei trattati di commercio; 
  
  Visto l'art. 7 del detto R. decreto, il quale stabilisce che la Commissione stessa debba presentare le sue conclusioni entro il 31 dicembre 1914; 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Il termine fissato dall'[art. 7 del R. decreto 23 gennaio 1913, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-23;42#art_7), prorogato con il [R. decreto 29 novembre 1914, n. 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-29;1416), e con il [decreto Luogotenenziale 29 dicembre 1915, n. 1938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-29;1938), alla Commissione reale per lo studio del regime doganale e dei trattati di commercio per la presentazione delle sue conclusioni e' prorogato al 30 aprile 1917. 
+ Il termine fissato dall'[art. 7 del R. decreto 23 gennaio 1913, n. 42](Col%20quale%20viene%20istituita%20una%20Commissione%20con%20lincarico%20di%20esaminare%20e%20rivedere%20il%20vigente%20regime%20doganale%20e%20di%20stabilire%20i%20criteri%20e%20le%20direttive%20per%20la%20stipulazione%20dei%20nuovi%20trattati%20d_f7532b8d96d6.md), prorogato con il [R. decreto 29 novembre 1914, n. 1416](Col%20quale%20e%20prorogato%20al%2031%20dicembre%201915%20il%20termine%20fissato%20alla%20Commissione%20Reale%20per%20lo%20studio%20del%20regime%20doganale%20e%20dei%20trattati%20di%20commercio.%20014U1416.md), e con il [decreto Luogotenenziale 29 dicembre 1915, n. 1938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-29;1938), alla Commissione reale per lo studio del regime doganale e dei trattati di commercio per la presentazione delle sue conclusioni e' prorogato al 30 aprile 1917. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

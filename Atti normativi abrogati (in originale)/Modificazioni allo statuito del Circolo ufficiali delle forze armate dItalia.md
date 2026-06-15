@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 18 ottobre 1934; n. 2111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-18;2111), concernente l'erezione in ente morale del Circolo ufficiali delle forze armate d'Italia;
+Visto il [regio decreto 18 ottobre 1934; n. 2111](Erezione%20in%20ente%20morale%20del%20Circolo%20ufficiali%20delle%20Forze%20armate%20dItalia%20e%20approvazione%20del%20relativo%20statuto.%20034U2111.md), concernente l'erezione in ente morale del Circolo ufficiali delle forze armate d'Italia;
 
 Visto il [decreto luogotenenziale 2 novembre 1945, n. 900](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-02;900), concernente l'approvazione del nuovo Statuto del Circolo ufficiali delle forze armate d'Italia;
 

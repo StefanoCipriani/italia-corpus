@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  Articolo unico. 
  
  
- E' convertito in legge il [R. decreto-legge 18 gennaio 1932, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-01-18;34), col quale e' aumentato il fondo stanziato al capitolo 80-ter del bilancio del Ministero dell'agricoltura e delle foreste. 
+ E' convertito in legge il [R. decreto-legge 18 gennaio 1932, n. 34](Variazioni%20allo%20stato%20di%20previsione%20della%20spesa%20per%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20per%20lesercizio%201931-1932.%20032U0034.md), col quale e' aumentato il fondo stanziato al capitolo 80-ter del bilancio del Ministero dell'agricoltura e delle foreste. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

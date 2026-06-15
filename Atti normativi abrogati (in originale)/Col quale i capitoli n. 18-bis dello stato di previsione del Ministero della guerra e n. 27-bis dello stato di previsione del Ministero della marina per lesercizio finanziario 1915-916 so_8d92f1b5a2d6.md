@@ -20,15 +20,15 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Vista la [legge 23 giugno 1912, n. 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-23;667), che istituisce pensioni privilegiate di guerra per gli ufficiali e militari di truppa del R. esercito e della R. marina;
+Vista la [legge 23 giugno 1912, n. 667](Che%20istituisce%20pensioni%20privilegiate%20di%20guerra%20per%20gli%20ufficiali%20e%20militari%20di%20truppa%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0667.md), che istituisce pensioni privilegiate di guerra per gli ufficiali e militari di truppa del R. esercito e della R. marina;
 
 Visto il R. decreto 2 luglio 1914 concernente l'equiparazione ai gradi dei militari del R. esercito e della R. marina del personale appartenente ai corpi e servizi marittimi;
 
 Ritenuta la necessita' di assegnare ai capitoli numeri 18-bis e 27-bis inscritti per memoria rispettivamente negli stati di previsione dei Ministeri della guerra e della marina, la complessiva somma di L. 1,450,000 per provvedere al pagamento delle pensioni predette liquidate nell'esercizio finanziario 1915-916;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Udito il Consiglio dei ministri;
 

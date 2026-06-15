@@ -72,13 +72,13 @@ Il Ministro dei lavori pubblici redige una relazione annuale, da inviare al Parl
 
 10.
 
-Ferme le disposizioni della [legge 24 dicembre 1976, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-12-24;898), il termine di cui all'articolo 17 di detta legge e' ridotto a trenta giorni ai soli fini previsti dal presente decreto.
+Ferme le disposizioni della [legge 24 dicembre 1976, n. 898](Nuova%20regolamentazione%20delle%20servitu%20militari.md), il termine di cui all'articolo 17 di detta legge e' ridotto a trenta giorni ai soli fini previsti dal presente decreto.
 
 ## Art. 2.
 
 1.
 
-Sono di competenza delle regioni a statuto ordinario e speciale e delle province autonome di Trento e di Bolzano le attribuzioni di cui al [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-11-01;1363), per gli sbarramenti che non superano i 10 metri di altezza e che determinano un invaso inferiore a 100.000 mc, ad eccezione degli sbarramenti al servizio di grandi derivazioni di acque di competenza statale.
+Sono di competenza delle regioni a statuto ordinario e speciale e delle province autonome di Trento e di Bolzano le attribuzioni di cui al [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), per gli sbarramenti che non superano i 10 metri di altezza e che determinano un invaso inferiore a 100.000 mc, ad eccezione degli sbarramenti al servizio di grandi derivazioni di acque di competenza statale.
 
 2.
 
@@ -161,7 +161,7 @@ Ai predetti servizi sono preposti dirigenti superiori tecnici, che fanno parte d
 
 13.
 
-A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto, il personale assunto, successivamente al 30 aprile 1979, ai sensi dell'[articolo 5 della legge 24 dicembre 1969, n. 1013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-24;1013#art_5), e degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-20;1186#art_5) e [6 del decreto del Presidente della Repubblica 20 settembre 1973, n. 1186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-20;1186#art_6), nonche' della [legge 29 novembre 1984, n. 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-11-29;798), e' inquadrato nel personale non di ruolo e successivamente inquadrato in ruolo con le modalita' di cui all'[articolo 31 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_31).
+A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto, il personale assunto, successivamente al 30 aprile 1979, ai sensi dell'[articolo 5 della legge 24 dicembre 1969, n. 1013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-24;1013#art_5), e degli [articoli 5](../DPR/Adeguamento%20dellorganico%20del%20magistrato%20alle%20acque%20di%20Venezia%20e%20delle%20soprintendenze%20alle%20antichita%20e%20belle%20arti%20delle%20province%20venete.md) e [6 del decreto del Presidente della Repubblica 20 settembre 1973, n. 1186](../DPR/Adeguamento%20dellorganico%20del%20magistrato%20alle%20acque%20di%20Venezia%20e%20delle%20soprintendenze%20alle%20antichita%20e%20belle%20arti%20delle%20province%20venete.md), nonche' della [legge 29 novembre 1984, n. 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-11-29;798), e' inquadrato nel personale non di ruolo e successivamente inquadrato in ruolo con le modalita' di cui all'[articolo 31 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_31).
 
 14.
 

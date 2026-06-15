@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 27 settembre 1914, n.1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-27;1090), che stabilisce le norme per il collocamento fuori ruolo di funzionari delle Amministrazioni centrali e dipendenti della guerra e della marina, inviati nelle colonie od in luoghi militarmente occupati dall'Italia. 
+ E' convertito in legge il [R. decreto 27 settembre 1914, n.1090](Da%20convertirsi%20in%20legge%20relativo%20al%20collocamento%20fuori%20ruolo%20dei%20funzionari%20delle%20Amministrazioni%20centrali%20e%20dipendenti%20della%20guerra%20e%20della%20Regia%20marina%20inviati%20nelle%20colonie%20o%20in%20luoghi_1a5ff9157625.md), che stabilisce le norme per il collocamento fuori ruolo di funzionari delle Amministrazioni centrali e dipendenti della guerra e della marina, inviati nelle colonie od in luoghi militarmente occupati dall'Italia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

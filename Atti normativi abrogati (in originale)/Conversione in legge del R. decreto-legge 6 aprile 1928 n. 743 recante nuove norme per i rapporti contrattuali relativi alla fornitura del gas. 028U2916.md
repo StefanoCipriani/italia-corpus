@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 aprile 1928, n. 743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-04-06;743), recante nuove norme per i rapporti contrattuali relativi alla fornitura del gas. 
+ E' convertito in legge il [R. decreto-legge 6 aprile 1928, n. 743](Nuove%20norme%20per%20i%20rapporti%20contrattuali%20relativi%20alla%20fornitura%20del%20gas.%20028U0743.md), recante nuove norme per i rapporti contrattuali relativi alla fornitura del gas. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

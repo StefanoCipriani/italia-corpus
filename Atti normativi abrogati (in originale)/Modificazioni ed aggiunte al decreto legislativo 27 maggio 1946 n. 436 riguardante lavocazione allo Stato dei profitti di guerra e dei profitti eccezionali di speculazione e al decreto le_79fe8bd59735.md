@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 10 agosto 1944, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;199);
+Visto il [decreto legislativo luogotenenziale 10 agosto 1944, n. 199](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20concernenti%20limposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20044U0199.md);
 
-Visto il [decreto legislativo luogotenenziale 29 dicembre 1944, n. 393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-29;393);
+Visto il [decreto legislativo luogotenenziale 29 dicembre 1944, n. 393](../Decreti%20legislativi%20luogotenenziali/Proroga%20dei%20termini%20di%20prescrizione%20e%20decadenza%20previsti%20dalle%20leggi%20tributarie.%20044U0393.md);
 
-Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;49);
+Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 49](../Decreti%20legislativi%20luogotenenziali/Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md);
 
-Visto il [regio decreto legislativo 27 maggio 1946, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-27;436);
+Visto il [regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -28,12 +28,12 @@ Sulla proposta del Ministro per le finanze, di concerto con il Ministro per il t
 
 ## Art. 1.
 
-Per ottenere, ai sensi dell'[art. 1, quinto comma, del regio decreto legislativo 27 maggio 1946, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-27;436#art_1-com5), la detrazione dal reddito dell'esercizio delle perdite per danni di guerra, i contribuenti devono dichiarare al competente ufficio distrettuale delle imposte dirette, entro il termine di tre mesi dall'entrata in vigore del presente decreto, le perdite relative agli anni 1939-1944.
+Per ottenere, ai sensi dell'[art. 1, quinto comma, del regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), la detrazione dal reddito dell'esercizio delle perdite per danni di guerra, i contribuenti devono dichiarare al competente ufficio distrettuale delle imposte dirette, entro il termine di tre mesi dall'entrata in vigore del presente decreto, le perdite relative agli anni 1939-1944.
  Per le perdite relative all'anno 1945, la dichiarazione deve essere presentata entro il termine stesso, o nel termine stabilito, per la dichiarazione ai fini dell'imposta straordinaria sui profitti di guerra, quando il medesimo venga a scadere dopo il terzo mese dall'entrata in vigore del presente decreto.
 
 ## Art. 2.
 
-All'[art. 6 del regio decreto legislativo 27 maggio 1946, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-27;436#art_6), e' aggiunto il seguente comma:
+All'[art. 6 del regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), e' aggiunto il seguente comma:
  "Agli effetti degli ammortamenti le indennita' stesse vengono detratte dal costo dei beni ricostruiti".
 
 ## Art. 3.

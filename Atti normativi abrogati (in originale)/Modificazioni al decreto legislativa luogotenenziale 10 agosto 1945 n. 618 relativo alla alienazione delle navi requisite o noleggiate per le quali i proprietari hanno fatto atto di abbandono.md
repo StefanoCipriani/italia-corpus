@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -29,12 +29,12 @@ L'[art. 1 del decreto legislativo luogotenenziale 10 agosto 1945, n. 618](Aliena
 ## Art. 2.
 
 L'[art. 3 del decreto legislativo luogotenenziale 10 agosto 1943, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1943-08-10;618#art_3), e' sostituito dal seguente:
- "Per il riacquisto della proprieta' delle navi di cui ai precedenti articoli, gli interessati debbono corrispondere allo Stato una somma uguale al 15% della indennita' di perdita ad essi spettante ai termini della [legge 13 luglio 1939, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-13;1154), sulla requisizione del naviglio mercantile e successive modifiche o del contratto di noleggio e rimborsare le spese di ricupero e di riparazione eventualmente sostenute dall'Amministrazione statale.
+ "Per il riacquisto della proprieta' delle navi di cui ai precedenti articoli, gli interessati debbono corrispondere allo Stato una somma uguale al 15% della indennita' di perdita ad essi spettante ai termini della [legge 13 luglio 1939, n. 1154](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md), sulla requisizione del naviglio mercantile e successive modifiche o del contratto di noleggio e rimborsare le spese di ricupero e di riparazione eventualmente sostenute dall'Amministrazione statale.
  La disposizione di cui al precedente comma non trova applicazione nel caso in cui, al momento dell'entrata in vigore del presente decreto, siasi gia' addivenuto alla restituzione del relitto a norma del [decreto legislativo luogotenenziale 10 agosto 1945, n. 618](Alienazione%20delle%20navi%20requisite%20o%20noleggiate%20per%20le%20quali%20i%20proprietari%20hanno%20fatto%20atto%20di%20abbandono.%20045U0618.md)".
 
 ## Art. 3.
 
-In nessun caso gli interessati, per effetto della combinata applicazione delle norme contenute nella [legge 13 luglio 1939, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-13;1154), del [decreto legislativo luogotenenziale 19 ottobre 1945, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-19;686), e del presente decreto, possono percepire dallo Stato un indennizzo superiore al costo di ricostruzione delle navi.
+In nessun caso gli interessati, per effetto della combinata applicazione delle norme contenute nella [legge 13 luglio 1939, n. 1154](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md), del [decreto legislativo luogotenenziale 19 ottobre 1945, n. 686](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20il%20recupero%20e%20la%20rimessa%20in%20efficienza%20di%20navi%20mercantili%20sinistrate.%20045U0686.md), e del presente decreto, possono percepire dallo Stato un indennizzo superiore al costo di ricostruzione delle navi.
 
 ## Art. 4.
 

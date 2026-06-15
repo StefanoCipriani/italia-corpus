@@ -24,8 +24,8 @@ EMANA il seguente decreto:
 
 1.
 
-Ai sensi dell'[articolo 122 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_122), alle universita' non statali sottoelencate e' assegnato, per l'anno finanziario 1988, il contributo a fianco di ciascuna indicato, determinato sulla base dei maggiori oneri dalle medesime sopportati per gli ulteriori inquadramenti del personale docente nelle nuove qualifiche previste dal citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 
-382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382): 
+Ai sensi dell'[articolo 122 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), alle universita' non statali sottoelencate e' assegnato, per l'anno finanziario 1988, il contributo a fianco di ciascuna indicato, determinato sulla base dei maggiori oneri dalle medesime sopportati per gli ulteriori inquadramenti del personale docente nelle nuove qualifiche previste dal citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 
+382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md): 
  
  
 

@@ -32,7 +32,7 @@ Pel mantenimento delle opere idrauliche indicate nell'articolo 1 della presente 
 
 ## Articolo 5.
 
-A. decorrere dalla pubblicazione della presente legge, il tratto superiore dell'arginatura sinistra del Po detto dei Ronchi e dei Brondelli, per la lunghezza di metri 1950, compreso nello elenco annesso al [Regio decreto 29 marzo 1868, n. 4324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1868-03-29;4324); cessa di far parte delle opere idrauliche di 2ª categoria. 
+A. decorrere dalla pubblicazione della presente legge, il tratto superiore dell'arginatura sinistra del Po detto dei Ronchi e dei Brondelli, per la lunghezza di metri 1950, compreso nello elenco annesso al [Regio decreto 29 marzo 1868, n. 4324](Col%20quale%20vengono%20aggiunte%20altre%20opere%20idrauliche%20di%20seconda%20categoria%20allElenco%20di%20classificazione%20delle%20acque%20del%20Regno%20e%20delle%20opere%20relative.%20068U4324.md); cessa di far parte delle opere idrauliche di 2ª categoria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

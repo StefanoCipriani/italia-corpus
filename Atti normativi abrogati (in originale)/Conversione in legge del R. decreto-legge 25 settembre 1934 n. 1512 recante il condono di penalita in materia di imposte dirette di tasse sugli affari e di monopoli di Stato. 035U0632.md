@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 settembre 1934, n. 1512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-25;1512), recante il condono di penalita' in materia di imposte dirette, di tasse sugli affari e di monopoli di Stato. 
+ E' convertito in legge il [R. decreto-legge 25 settembre 1934, n. 1512](Condono%20di%20penalita%20in%20materia%20di%20imposte%20dirette%20di%20tasse%20sugli%20affari%20e%20di%20monopoli.%20034U1512.md), recante il condono di penalita' in materia di imposte dirette, di tasse sugli affari e di monopoli di Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

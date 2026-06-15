@@ -24,30 +24,30 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Nel [comma 2, lettera a), dell'articolo 1 del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_1-com2-leta), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172), dopo le parole: "a non opporre un rifiuto a richieste di natura estorsiva" sono inserite le seguenti: "avanzate anche successivamente ai fatti delittuosi".
+Nel [comma 2, lettera a), dell'articolo 1 del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_1-com2-leta), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md), dopo le parole: "a non opporre un rifiuto a richieste di natura estorsiva" sono inserite le seguenti: "avanzate anche successivamente ai fatti delittuosi".
 
 ## Art. 2. — Estensione dei casi di elargizione
 
 1.
 
-Nel [comma 1 dell'articolo 1 del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_1-com1), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172), e' aggiunto, in fine, il seguente periodo: "L'elargizione e' corrisposta altresi' in favore di coloro che, pur in assenza delle richieste di cui al comma 2, lettera a), subiscono il danno in conseguenza dell'attivita' svolta nell'ambito di una associazione od organizzazione avente per proprio scopo quello di prestare assistenza e solidarieta' a soggetti danneggiati da attivita' estorsive.".
+Nel [comma 1 dell'articolo 1 del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_1-com1), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md), e' aggiunto, in fine, il seguente periodo: "L'elargizione e' corrisposta altresi' in favore di coloro che, pur in assenza delle richieste di cui al comma 2, lettera a), subiscono il danno in conseguenza dell'attivita' svolta nell'ambito di una associazione od organizzazione avente per proprio scopo quello di prestare assistenza e solidarieta' a soggetti danneggiati da attivita' estorsive.".
 
 ## Art. 3. — Modalita' e termini della domanda
 
 1.
 
-Nel [comma 2 dell'articolo 3 del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_3-com2), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172), e' aggiunto il seguente periodo: "La domanda puo' essere altresi' presentata, per il tramite del legale rappresentante e con il consenso dell'interessato, da associazioni od organizzazioni iscritte in apposito elenco tenuto a cura del prefetto ed aventi tra i propri scopi quello di prestare assistenza e solidarieta' a soggetti danneggiati da attivita' estorsive.".
+Nel [comma 2 dell'articolo 3 del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_3-com2), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md), e' aggiunto il seguente periodo: "La domanda puo' essere altresi' presentata, per il tramite del legale rappresentante e con il consenso dell'interessato, da associazioni od organizzazioni iscritte in apposito elenco tenuto a cura del prefetto ed aventi tra i propri scopi quello di prestare assistenza e solidarieta' a soggetti danneggiati da attivita' estorsive.".
 
 2.
 
-Con decreto del Ministro dell'interno, da emanarsi entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, di concerto con il Ministro di grazia e giustizia, sono determinate le condizioni e i requisiti per l'iscrizione nell'elenco di cui al [comma 2 dell'articolo 3 del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_3-com2), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172), come modificato dal comma 1, e sono disciplinate le modalita' per la relativa tenuta. 
+Con decreto del Ministro dell'interno, da emanarsi entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, di concerto con il Ministro di grazia e giustizia, sono determinate le condizioni e i requisiti per l'iscrizione nell'elenco di cui al [comma 2 dell'articolo 3 del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_3-com2), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md), come modificato dal comma 1, e sono disciplinate le modalita' per la relativa tenuta. 
  In deroga a quanto stabilito dall'[articolo 17, comma 4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4), per l'emanazione del decreto di cui al presente comma non e' richiesto il previo parere del Consiglio di Stato.
 
 ## Art. 4. — Concessione dell'elargizione
 
 1.
 
-All'[articolo 4 del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_4), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172), sono apportate le seguenti modificazioni:
+All'[articolo 4 del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_4), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 3 e' sostituito dal seguente: 
  " 3. In caso di copertura assicurativa, se l'importo del danno supera la somma liquidata o che puo' essere liquidata dalla societa' assicuratrice, l'elargizione e' concessa per la sola quota eccedente.";
@@ -61,13 +61,13 @@ All'[articolo 4 del decreto-legge 31 dicembre 1991, n. 419](https://www.normatti
 
 1.
 
-Nell'[articolo 5, comma 5, del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_5-com5), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172), dopo le parole: "Consiglio nazionale dell'economia e del lavoro" sono inserite le seguenti: ", nonche' con le associazioni od organizzazioni indicate nell'articolo 3, comma 2,".
+Nell'[articolo 5, comma 5, del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_5-com5), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md), dopo le parole: "Consiglio nazionale dell'economia e del lavoro" sono inserite le seguenti: ", nonche' con le associazioni od organizzazioni indicate nell'articolo 3, comma 2,".
 
 ## Art. 6. — Attivita' istruttoria
 
 1.
 
-Dopo l'[articolo 5 del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_5), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172), e' inserito il seguente articolo: 
+Dopo l'[articolo 5 del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_5), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md), e' inserito il seguente articolo: 
  "Art. 5-bis (Accertamento dei requisiti e delle condizioni dell'elargizione). - 1. Agli effetti di quanto previsto nel comma 4- bis dell'articolo 4, il comitato di cui all'articolo 5, commi 2 e 3, acquisisce entro trenta giorni dal rivevimento della domanda, a mezzo del prefetto della provincia nel cui territorio si e' verificato l'evento denunciato, un rapporto iniziale in ordine ai presupposti e alle condizioni dell'elargizione. 
  2. Qualora risulti indispensabile per l'accertamento dei presupposti e delle condizioni dell'elargizione il prefetto e il comitato di cui all'articolo 5, commi 2 e 3, possono ottenere dall'autorita' giudiziaria competente copie di atti e informazioni scritte sul loro contenuto inerenti il fatto delittuoso che ha causato il danno. L'autorita' giudiziaria provvede senza ritardo e puo' rigettare la richiesta con decreto motivato. Le copie e le informazioni acquisite ai sensi del presente articolo sono coperte dal segreto d'ufficio e sono custodite e trasmesse in forme idonee ad assicurare la massima riservatezza.".
 
@@ -75,7 +75,7 @@ Dopo l'[articolo 5 del decreto-legge 31 dicembre 1991, n. 419](https://www.norma
 
 1.
 
-Le domande di cui all'[articolo 3 del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_3), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172), il cui termine di presentazione sia spirato alla data di entrata in vigore del presente decreto possono essere presentate, a pena di decadenza, entro il termine di novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto.
+Le domande di cui all'[articolo 3 del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_3), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md), il cui termine di presentazione sia spirato alla data di entrata in vigore del presente decreto possono essere presentate, a pena di decadenza, entro il termine di novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto.
 
 ## Art. 8. — Entrata in vigore
 

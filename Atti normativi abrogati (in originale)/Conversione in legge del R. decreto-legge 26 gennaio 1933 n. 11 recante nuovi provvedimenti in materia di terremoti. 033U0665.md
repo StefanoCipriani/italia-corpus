@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 gennaio 1933, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-26;11), recante nuovi provvedimenti in materia di terremoti, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 26 gennaio 1933, n. 11](Nuovi%20provvedimenti%20in%20materia%20di%20terremoti.%20033U0011.md), recante nuovi provvedimenti in materia di terremoti, con le seguenti modificazioni: 
  
  All'ultimo comma dell'art. 4, sono aggiunte le parole: « a meno che non si tratti del condominio fra coeredi ». 
  

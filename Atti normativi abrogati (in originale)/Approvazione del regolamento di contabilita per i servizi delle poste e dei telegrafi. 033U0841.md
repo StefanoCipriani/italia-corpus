@@ -50,7 +50,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto 20 ottobre 1924, n. 1796](Approvazione%20del%20regolamento%20per%20le%20gestioni%20affidate%20ai%20consegnatari-cassieri%20delle%20Amministrazioni%20centrali.%20024U1796.md), che approva il regolamento per le gestioni affidate ai consegnatari cassieri delle Amministrazioni centrali, e successive modificazioni; 
  
- Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), sul nuovo ordinamento della Amministrazione postale e telegrafica, e successive modificazioni; 
+ Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), sul nuovo ordinamento della Amministrazione postale e telegrafica, e successive modificazioni; 
  
  Visto il [R decreto-legge 29 aprile 1925, n. 988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-29;988), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), sull'ordinamento delle ricevitorie postali e telegrafiche e del relativo personale, e successive modificazioni; 
  

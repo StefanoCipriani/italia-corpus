@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 agosto 1930 n. 1162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-08-08;1162), contenente agevolazioni fiscali per le cambiali emesse a copertura di esportazioni con accettazioni bancarie autorizzate, con l'aggiunta dei seguenti articoli: 
+ E' convertito in legge il [R. decreto-legge 8 agosto 1930 n. 1162](Cambiali%20a%20copertura%20di%20esportazioni%20con%20accettazioni%20bancarie%20autorizzate.%20030U1162.md), contenente agevolazioni fiscali per le cambiali emesse a copertura di esportazioni con accettazioni bancarie autorizzate, con l'aggiunta dei seguenti articoli: 
  
  Art. 4-bis. - Le banche autorizzate ai sensi dell'art. possono subordinare l'accettazione al rilascio di tratte su l'acquirente della merce esportata, emesse o girate a favore delle banche stesse. 
  

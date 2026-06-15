@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sono convertiti in legge i [Regi decreti-legge 6 febbraio 1927, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-06;68), che istituisce la carica di capo di Stato Maggiore generale e ne determina le attribuzioni, e 6 febbraio 1927, numero 69, che determina le attribuzioni del capo di Stato Maggiore dell'esercito, del comandante in 2ª del Corpo di Stato Maggiore, dei generali comandanti designati d'armata e del Consiglio dell'esercito e reca alcune particolari disposizioni riguardanti lo stato e l'avanzamento degli ufficiali del Regio esercito. 
+ Sono convertiti in legge i [Regi decreti-legge 6 febbraio 1927, n. 68](Istituzione%20della%20carica%20di%20Capo%20di%20Stato%20Maggiore%20Generale%20e%20relative%20attribuzioni.%20027U0068.md), che istituisce la carica di capo di Stato Maggiore generale e ne determina le attribuzioni, e 6 febbraio 1927, numero 69, che determina le attribuzioni del capo di Stato Maggiore dell'esercito, del comandante in 2ª del Corpo di Stato Maggiore, dei generali comandanti designati d'armata e del Consiglio dell'esercito e reca alcune particolari disposizioni riguardanti lo stato e l'avanzamento degli ufficiali del Regio esercito. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

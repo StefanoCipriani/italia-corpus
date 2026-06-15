@@ -28,7 +28,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Al fine di realizzare le strutture necessarie per le aumentate esigenze dei servizi giudiziario e penitenziario, nel settore penale e nel settore civile, e al fine di proseguire gli interventi previsti dal [decreto-legge 31 luglio 1987, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-07-31;320), convertito, con modificazioni, dalla [legge 3 ottobre 1987, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-03;401), e' autorizzata l'ulteriore spesa complessiva di lire 252.000 milioni, da ripartire secondo le disposizioni del presente decreto.
+Al fine di realizzare le strutture necessarie per le aumentate esigenze dei servizi giudiziario e penitenziario, nel settore penale e nel settore civile, e al fine di proseguire gli interventi previsti dal [decreto-legge 31 luglio 1987, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-07-31;320), convertito, con modificazioni, dalla [legge 3 ottobre 1987, n. 401](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20luglio%201987%20n.%20320%20recante%20interventi%20in%20materia%20di%20riforma%20del%20processo%20penale.md), e' autorizzata l'ulteriore spesa complessiva di lire 252.000 milioni, da ripartire secondo le disposizioni del presente decreto.
 
 ## Art. 2.
 
@@ -38,13 +38,13 @@ Per il sistema informativo e di elaborazione dati, per la conservazione e docume
 
 2.
 
-Per attuare le disposizioni di cui all'[articolo 15 del decreto legislativo 28 luglio 1989, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;273#art_15), e per effettuare una analisi organizzativa del lavoro giudiziario penale ai fini del relativo monitoraggio, il Ministero di grazia e giustizia e' autorizzato ad avvalersi anche di figure professionali esterne all'amministrazione da assumere a contratto. A tal fine e' autorizzata la spesa di lire 200 milioni per l'anno 1991, di lire 1.000 milioni per l'anno 1992 e di lire 1.000 milioni per l'anno 1993.
+Per attuare le disposizioni di cui all'[articolo 15 del decreto legislativo 28 luglio 1989, n. 273](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre%201988%20n.%20449%20recante%20norme%20per%20ladeguamento%20dellordinamento%20giudiziario%20al%20nuovo_65e6f1b0944a.md), e per effettuare una analisi organizzativa del lavoro giudiziario penale ai fini del relativo monitoraggio, il Ministero di grazia e giustizia e' autorizzato ad avvalersi anche di figure professionali esterne all'amministrazione da assumere a contratto. A tal fine e' autorizzata la spesa di lire 200 milioni per l'anno 1991, di lire 1.000 milioni per l'anno 1992 e di lire 1.000 milioni per l'anno 1993.
 
 ## Art. 3.
 
 1.
 
-Per ristrutturazioni, ampliamenti e restauro degli edifici e loro pertinenze, di proprieta' dello Stato, destinati ad uffici giudiziari e penitenziari o all'amministrazione centrale, per acquisti ed eventuali ristrutturazioni, per ampliamenti e restauri di altri edifici con identica destinazione, nonche' per contributi ai comuni e per oneri necessari concernenti la gestione e la manutenzione di tali immobili, e' autorizzata, per l'anno 1991, la spesa di lire 35.000 milioni, con le modalita' di cui all'[articolo 2 del decreto-legge 26 marzo 1990, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-03-26;64#art_2), convertito, con modificazioni, dalla [legge 25 maggio 1990, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-25;124).
+Per ristrutturazioni, ampliamenti e restauro degli edifici e loro pertinenze, di proprieta' dello Stato, destinati ad uffici giudiziari e penitenziari o all'amministrazione centrale, per acquisti ed eventuali ristrutturazioni, per ampliamenti e restauri di altri edifici con identica destinazione, nonche' per contributi ai comuni e per oneri necessari concernenti la gestione e la manutenzione di tali immobili, e' autorizzata, per l'anno 1991, la spesa di lire 35.000 milioni, con le modalita' di cui all'[articolo 2 del decreto-legge 26 marzo 1990, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-03-26;64#art_2), convertito, con modificazioni, dalla [legge 25 maggio 1990, n. 124](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20marzo%201990%20n.%2064%20recante%20interventi%20urgenti%20in%20materia%20di%20riforma%20del%20processo%20penale.md).
 
 ## Art. 4.
 
@@ -62,7 +62,7 @@ Per l'organizzazione e gestione di corsi di formazione, di aggiornamento e di sp
 
 1.
 
-Ai contratti stipulati dal Ministero di grazia e giustizia si applicano le disposizioni contenute nell'[articolo 7, comma 1, del decreto-legge 31 luglio 1987, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-07-31;320#art_7-com1), convertito, con modificazioni, dalla [legge 3 ottobre 1987, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-03;401).
+Ai contratti stipulati dal Ministero di grazia e giustizia si applicano le disposizioni contenute nell'[articolo 7, comma 1, del decreto-legge 31 luglio 1987, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-07-31;320#art_7-com1), convertito, con modificazioni, dalla [legge 3 ottobre 1987, n. 401](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20luglio%201987%20n.%20320%20recante%20interventi%20in%20materia%20di%20riforma%20del%20processo%20penale.md).
 
 ## Art. 7.
 
@@ -88,8 +88,8 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le oppor
 
 1.
 
-Restano fermi gli stanziamenti, le relative destinazioni e quant'altro previsto dal [decreto-legge 31 luglio 1987, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-07-31;320), convertito, con modificazioni, dalla [legge 3 ottobre 1987, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-03;401), nonche' gli stanziamenti, le relative destinazioni e quant'altro previsto dal [decreto-legge 26 marzo 1990, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-03-26;64), convertito, con 
-modificazioni, dalla [legge 25 maggio 1990, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-25;124).
+Restano fermi gli stanziamenti, le relative destinazioni e quant'altro previsto dal [decreto-legge 31 luglio 1987, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-07-31;320), convertito, con modificazioni, dalla [legge 3 ottobre 1987, n. 401](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20luglio%201987%20n.%20320%20recante%20interventi%20in%20materia%20di%20riforma%20del%20processo%20penale.md), nonche' gli stanziamenti, le relative destinazioni e quant'altro previsto dal [decreto-legge 26 marzo 1990, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-03-26;64), convertito, con 
+modificazioni, dalla [legge 25 maggio 1990, n. 124](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20marzo%201990%20n.%2064%20recante%20interventi%20urgenti%20in%20materia%20di%20riforma%20del%20processo%20penale.md).
 
 ## Art. 10.
 

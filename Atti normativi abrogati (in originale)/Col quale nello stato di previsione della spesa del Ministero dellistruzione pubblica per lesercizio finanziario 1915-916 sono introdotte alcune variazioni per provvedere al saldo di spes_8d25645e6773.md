@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Riconosciuta la necessita' di inscrivere nello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio 1915-916 le somme occorrenti per il saldo di talune spese residue afferenti gli anni finanziari 1914-915 e retro;
 
-Vista la [legge 13 aprile 1916, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-13;403);
+Vista la [legge 13 aprile 1916, n. 403](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellistruzione%20pubblica%20per%20lesercizio%20finanziario%201915-916%20016U0403.md);
 
 Udito il Consiglio dei ministri;
 

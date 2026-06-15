@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- - E' convertito in legge il R. decreto-legge 27 giugno 1935-XIII, n. 1461, che modifica le disposizioni contenute nell'[art. 1 del R. decreto-legge 21 dicembre 1933, n. 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-21;1992#art_1), relative al titolo di studio occorrente per l'ammissione alla carriera direttiva coloniale, con la seguente modificazione: 
+ - E' convertito in legge il R. decreto-legge 27 giugno 1935-XIII, n. 1461, che modifica le disposizioni contenute nell'[art. 1 del R. decreto-legge 21 dicembre 1933, n. 1992](Modifiche%20al%20R.%20decreto-legge%2026%20febbraio%201928%20n.%20355%20sullordinamento%20del%20personale%20coloniale.%20033U1992.md), relative al titolo di studio occorrente per l'ammissione alla carriera direttiva coloniale, con la seguente modificazione: 
  
  All'art. 1 e' aggiunto il seguente comma: 
  

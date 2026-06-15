@@ -25,7 +25,7 @@ VITTORIO EMANUELE III
  Articolo unico. 
  
  
- E' convertito in legge il [R. decreto-legge 19 maggio 1930, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-05-19;744), recante norme per la inscrizione nelle matricole della gente di mare. 
+ E' convertito in legge il [R. decreto-legge 19 maggio 1930, n. 744](Norme%20per%20la%20inscrizione%20nelle%20matricole%20della%20gente%20di%20mare.%20030U0744.md), recante norme per la inscrizione nelle matricole della gente di mare. 
  
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 

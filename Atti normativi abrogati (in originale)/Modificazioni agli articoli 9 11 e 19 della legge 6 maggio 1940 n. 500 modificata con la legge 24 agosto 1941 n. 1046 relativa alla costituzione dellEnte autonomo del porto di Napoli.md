@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 6 maggio 1940, n. 500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-06;500), relativa alla costituzione dell'Ente autonomo del porto di Napoli, modificata con la [legge 24 agosto 1941, n. 1046](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-08-24;1046);
+Vista la [legge 6 maggio 1940, n. 500](Costituzione%20dellEnte%20autonomo%20del%20porto%20di%20Napoli.%20040U0500.md), relativa alla costituzione dell'Ente autonomo del porto di Napoli, modificata con la [legge 24 agosto 1941, n. 1046](Modificazioni%20alla%20legge%206%20maggio%201940-XVIII%20n.%20500%20sulla%20costituzione%20dellEnte%20autonomo%20del%20porto%20di%20Napoli.%20041U1046.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la marina mercantile, di concerto con i Ministri
 
 ## Articolo unico.
 
-Gli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-06;500#art_9),[11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-06;500#art_11) e [19 della legge 6 maggio 1940, numero 500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-06;500#art_19), modificata con la [legge 24 agosto 1941, n. 1046](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-08-24;1046), sono sostituti dai seguenti:
+Gli [articoli 9](Costituzione%20dellEnte%20autonomo%20del%20porto%20di%20Napoli.%20040U0500.md),[11](Costituzione%20dellEnte%20autonomo%20del%20porto%20di%20Napoli.%20040U0500.md) e [19 della legge 6 maggio 1940, numero 500](Costituzione%20dellEnte%20autonomo%20del%20porto%20di%20Napoli.%20040U0500.md), modificata con la [legge 24 agosto 1941, n. 1046](Modificazioni%20alla%20legge%206%20maggio%201940-XVIII%20n.%20500%20sulla%20costituzione%20dellEnte%20autonomo%20del%20porto%20di%20Napoli.%20041U1046.md), sono sostituti dai seguenti:
  Art. - "Il Consiglio di amministrazione e' composto dei seguenti membri:
  1) il presidente dell'Ente;
  2 Il direttore marittimo di Napoli, vice-presidente;

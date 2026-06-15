@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A cominciare dalla prima rinnovazione successiva al presente decreto, concorreranno, con i rappresentanti degli ordini dei sanitari, di cui all'[art. 7 della legge 10 luglio 1910, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-10;455#art_7), a comporre: 
+A cominciare dalla prima rinnovazione successiva al presente decreto, concorreranno, con i rappresentanti degli ordini dei sanitari, di cui all'[art. 7 della legge 10 luglio 1910, n. 455](Norme%20per%20gli%20ordini%20dei%20sanitari.%20010U0455.md), a comporre: 
  
  a) il Consiglio superiore di sanita': 
  
@@ -50,7 +50,7 @@ A cominciare dalla prima rinnovazione successiva al presente decreto, concorrera
  
  b) i Consigli provinciali di sanita': 
  
- i membri che ne fanno parte di diritto a termini dell'[art. 8 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_8) approvato con [R. decreto 1° agosto 1907, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-01;636); 
+ i membri che ne fanno parte di diritto a termini dell'[art. 8 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_8) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); 
  
  due dottori in medicina e chirurgia; 
  
@@ -72,11 +72,11 @@ A cominciare dalla prima rinnovazione successiva al presente decreto, concorrera
  
  Nulla e' innovato circa i modi di nomina e la durata in carica dei componenti elettivi dei consessi stessi, come circa il numero, i modi di nomina e la durata in carica dei componenti: 
  
- la Commissione centrale consultiva per il risanamento della citta' di Napoli di cui all'art. 7 del regolamento approvato con [R. decreto 12 marzo 1885, numero 3003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-03-12;3003), modificato con [R. decreto 29 maggio 1913, n. 828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-05-29;828); 
+ la Commissione centrale consultiva per il risanamento della citta' di Napoli di cui all'art. 7 del regolamento approvato con [R. decreto 12 marzo 1885, numero 3003](Che%20approva%20lannessovi%20Regolamento%20per%20la%20esecuzione%20della%20legge%20sulle%20opere%20da%20eseguirsi%20per%20il%20risanamento%20della%20citta%20di%20Napoli.%20085U3003.md), modificato con [R. decreto 29 maggio 1913, n. 828](Col%20quale%20viene%20modificalo%20lart.%207%20del%20regolamento%20approvato%20con%20R.%20decreto%2012%20marzo%201885%20n.%203003%20concernente%20il%20risanamento%20della%20citta%20di%20Napoli.%20013U0828.md); 
  
- le Commissioni permanenti per le farmacie di cui all'[art. 3 della legge 22 maggio 1913, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-22;468#art_3). 
+ le Commissioni permanenti per le farmacie di cui all'[art. 3 della legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md). 
  
- La Commissione centrale permanente per le ricompense ai benemeriti della salute pubblica di cui al [Regio decreto 5 marzo 1914, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-03-05;184) resta, a decorrere dal 1° gennaio 1916, composta: 
+ La Commissione centrale permanente per le ricompense ai benemeriti della salute pubblica di cui al [Regio decreto 5 marzo 1914, n. 184](Riguardante%20il%20conferimento%20di%20ricompense%20ai%20benemeriti%20della%20salute%20pubblica.%20014U0184.md) resta, a decorrere dal 1° gennaio 1916, composta: 
  
  del direttore generale della sanita' pubblica, presidente; 
  
@@ -112,7 +112,7 @@ Il Consiglio superiore di sanita';
  
  a) su tutti i regolamenti da emanarsi dal ministro, riguardanti la igiene e la sanita' pubblica; 
  
- b) sui regolamenti speciali occorrenti per la esecuzione del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [R. decreto 1° agosto 1907, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-01;636); del testo unico delle leggi sul lavoro delle donne e dei fanciulli approvato con [R. decreto 10 novembre 1907, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-11-10;818); della legge per combattere l'alcoolismo 19 giugno 1911, n. 636; 
+ b) sui regolamenti speciali occorrenti per la esecuzione del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); del testo unico delle leggi sul lavoro delle donne e dei fanciulli approvato con [R. decreto 10 novembre 1907, n. 818](Che%20approva%20lunito%20testo%20unico%20di%20legge%20sul%20lavoro%20delle%20donne%20e%20dei%20fanciulli.%20007U0818.md); della legge per combattere l'alcoolismo 19 giugno 1911, n. 636; 
  
  e) sull'elenco dei colori nocivi; 
  
@@ -120,7 +120,7 @@ Il Consiglio superiore di sanita';
  
  e) sulla determinazione dei lavori pericolosi troppo faticosi o insalubri a termini delle disposizioni sul lavoro delle donne e dei fanciulli e sulle indicazioni delle condizioni di carattere generale sull'igiene dei locali di lavoro e di riposo delle donne e dei fanciulli; 
  
- f) sui grandi lavori di utilita' pubblica per cio' che riguarda l'igiene, sulle domande per le opere di bonifica di prima categoria; sulle opere di cui all'[articolo 9 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_9), e su quelle che interessano piu' provincie; 
+ f) sui grandi lavori di utilita' pubblica per cio' che riguarda l'igiene, sulle domande per le opere di bonifica di prima categoria; sulle opere di cui all'[articolo 9 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e su quelle che interessano piu' provincie; 
  
  g) sulle domande di attestati di privativa industriale per invenzioni e scoperte concernenti bevande e commestibili di qualsiasi natura; 
  
@@ -197,7 +197,7 @@ Il Consiglio provinciale di sanita':
  
  h) sui regolamenti per il funzionamento amministrativo dei laboratori comunali e consorziali di vigilanza igienica; 
  
- i) su le norme e gli orari per l'esercizio delle farmacie; sulla pianta organica di queste; sui regolamenti delle farmacie municipalizzate; sulle autorizzazioni all'apertura e all'esercizio di farmacie a termini del [2°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-22;468#art_12-com2) e [4° comma dell'art. 12 della legge 22 maggio 1913, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-22;468#art_12-com4); sulle dichiarazioni di decadenza dall'autorizzazione all'apertura e all'esercizio di farmacie; 
+ i) su le norme e gli orari per l'esercizio delle farmacie; sulla pianta organica di queste; sui regolamenti delle farmacie municipalizzate; sulle autorizzazioni all'apertura e all'esercizio di farmacie a termini del [2°](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md) e [4° comma dell'art. 12 della legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md); sulle dichiarazioni di decadenza dall'autorizzazione all'apertura e all'esercizio di farmacie; 
  
  l) sulla dichiarazione di applicabilita' della legge sulla pellagra; sui relativi regolamenti locali; sulla costituzione dei consorzi intercomunali previsti dalla legge stessa; 
  
@@ -239,7 +239,7 @@ I provvedimenti che a norma delle disposizioni anteriori al presente decreto dev
  
  Sono deferite: 
  
- al ministro dell'interno, l'approvazione dei regolamenti speciali dei manicomi; e quella dei generi medicinali e dei medicamenti composti a termine dell'articolo 15 della tariffa doganale approvata con [R. decreto 28 luglio 1910, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-28;577); 
+ al ministro dell'interno, l'approvazione dei regolamenti speciali dei manicomi; e quella dei generi medicinali e dei medicamenti composti a termine dell'articolo 15 della tariffa doganale approvata con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md); 
  
  al prefetto, la determinazione del minimo di abitabilita' delle abitazioni rurali; l'adozione dei provvedimenti d'ufficio per la riabitabilita' di case rurali nei limiti e nelle forme dell'[art. 71 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_71) 1° agosto 1907, n. 636; e le attribuzioni conferite al Consiglio provinciale di sanita' dalle disposizioni sulla Cassa pensioni dei sanitari.
 
@@ -261,7 +261,7 @@ A decorrere dal 1° gennaio 1916, verra' corrisposta:
 
 ## Art. 9.
 
-Sono abrogate le disposizioni contrarie al presente decreto cosi' di leggi come di regolamenti generali e speciali, eccezione fatta per quelle del [decreto-legge Luogotenenziale 1° agosto 1915, n. 1188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1915-08-01;1188) e del [decreto Luogotenenziale 22 agosto 1915, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-22;1311).
+Sono abrogate le disposizioni contrarie al presente decreto cosi' di leggi come di regolamenti generali e speciali, eccezione fatta per quelle del [decreto-legge Luogotenenziale 1° agosto 1915, n. 1188](Recante%20provvedimenti%20per%20sollecitare%20lesecuzione%20di%20opere%20igieniche%20015U1188.md) e del [decreto Luogotenenziale 22 agosto 1915, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-22;1311).
 
 ## Art. 10.
 

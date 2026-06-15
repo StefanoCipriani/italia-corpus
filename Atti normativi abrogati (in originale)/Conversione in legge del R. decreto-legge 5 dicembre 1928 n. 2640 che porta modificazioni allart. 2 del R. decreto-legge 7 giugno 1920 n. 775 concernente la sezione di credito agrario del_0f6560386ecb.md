@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 dicembre 1928, n. 2640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-05;2640), che porta modificazioni all'[art. 2 del R. decreto-legge 7 giugno 1920, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-07;775#art_2), concernente la sezione di credito agrario del Banco di Sicilia. 
+ E' convertito in legge il [R. decreto-legge 5 dicembre 1928, n. 2640](Modificazione%20dellart.%202%20del%20R.%20decreto-legge%207%20giugno%201920%20n.%20775%20sulla%20costituzione%20del%20patrimonio%20della%20Sezione%20di%20credito%20agrario%20del%20Banco%20di%20Sicilia.%20028U2640.md), che porta modificazioni all'[art. 2 del R. decreto-legge 7 giugno 1920, n. 775](Che%20estende%20e%20disciplina%20le%20funzioni%20della%20sezione%20di%20credito%20agrario%20del%20Banco%20di%20Sicilia.%20020U0775.md), concernente la sezione di credito agrario del Banco di Sicilia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

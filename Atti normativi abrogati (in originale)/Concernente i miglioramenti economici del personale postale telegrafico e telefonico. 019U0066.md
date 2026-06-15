@@ -14,7 +14,7 @@ E' concesso un aumento annuo di L.600 sugli stipendi del personale di ruolo dell
  
  I termini di tempo fissati dalle disposizioni in vigore per la maturazione degli aumenti periodici non saranno considerati come interrotti dall'aumento degli stipendi sopra detto. 
  
- I limiti di stipendio stabiliti dalle vigenti disposizioni per il diritto all'aumento sessennale per lo assorbimento dell'assegno stabilito dalla [legge 25 giugno 1911, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;575), e per la concessione della indennita' di residenza in Roma rimangono elevati in ragione dell'aumento indicato nel primo comma del presente articolo.
+ I limiti di stipendio stabiliti dalle vigenti disposizioni per il diritto all'aumento sessennale per lo assorbimento dell'assegno stabilito dalla [legge 25 giugno 1911, n. 575](Per%20i%20provvedimenti%20relativi%20agli%20anziani%20ed%20allelevazione%20dei%20minimi%20di%20stipendio%20del%20personale%20dipendente%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20011U0575.md), e per la concessione della indennita' di residenza in Roma rimangono elevati in ragione dell'aumento indicato nel primo comma del presente articolo.
 
 ## Art. 2.
 
@@ -22,7 +22,7 @@ Le indennita' per servizio notturno stabilite all'[art. 1 dei decreti Luogotenen
 
 ## Art. 3.
 
-L'indennita' per servizio ordinario prestato dal personale adibito agli Uffici postali presso le stazioni ferroviarie e gli scali marittimi, prevista dall'[art. 97 del R. decreto 14 ottobre 1906, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-10-14;546#art_97), e' raddoppiata.
+L'indennita' per servizio ordinario prestato dal personale adibito agli Uffici postali presso le stazioni ferroviarie e gli scali marittimi, prevista dall'[art. 97 del R. decreto 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), e' raddoppiata.
 
 ## Art. 4.
 

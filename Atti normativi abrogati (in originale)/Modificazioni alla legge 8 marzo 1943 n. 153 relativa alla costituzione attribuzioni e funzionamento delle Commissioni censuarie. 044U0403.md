@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alla [legge 8 marzo 1943, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-03-08;153), sono apportate le seguenti modifiche:
+Alla [legge 8 marzo 1943, n. 153](Costituzione%20attribuzione%20e%20funzionamento%20delle%20Commissioni%20censuarie.%20043U0153.md), sono apportate le seguenti modifiche:
 
 1.
 
@@ -161,7 +161,7 @@ Essa e' presieduta dallo stesso Ministro ovvero dal vice-presidente da lui presc
 
 Le attuali Commissioni censuarie, comunali, provinciali e centrali, sono sciolte dalla data di entrata in vigore del presente decreto. 
  
- Alla loro ricostituzione sara' provveduto con le norme sancite dalla [legge 8 marzo 1943, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-03-08;153), modificata come da precedente art.
+ Alla loro ricostituzione sara' provveduto con le norme sancite dalla [legge 8 marzo 1943, n. 153](Costituzione%20attribuzione%20e%20funzionamento%20delle%20Commissioni%20censuarie.%20043U0153.md), modificata come da precedente art.
 1. 
  
  Le commissioni censuarie ricostituite ai sensi del comma precedente rimarranno in funzione sino a tutto i 31 dicembre 1948.

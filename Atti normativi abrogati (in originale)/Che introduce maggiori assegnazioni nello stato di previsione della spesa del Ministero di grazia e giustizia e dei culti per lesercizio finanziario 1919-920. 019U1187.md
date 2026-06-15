@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 26 giugno 1919, n. 1005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1919-06-26;1005); 
+ Vista la [legge 26 giugno 1919, n. 1005](Che%20autorizza%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20della%20entrata%20e%20della%20spesa%20dellanno%20finanziario%201919-920%20fino%20al%2031%20luglio%201919.%20019U1005.md); 
  
  Sentito il Consiglio dei ministri; 
  

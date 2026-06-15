@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 11 marzo 1926, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-11;397), e successive modificazioni;
+Vista la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), e successive modificazioni;
 
-Vista la [legge 8 luglio 1926, n. 1178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178), e successive modificazioni;
+Vista la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), e successive modificazioni;
 
 Visto il [decreto-legge luogotenenziale 2 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-02;151);
 
@@ -25,7 +25,7 @@ Sulla proposta del Ministro per la marina militare, di concerto con il Ministro 
 ## Art. 1.
 
 Il Ministro per la marina militare ha facolta' di indire concorsi straordinari per titoli per la nomina a tenente in servizio permanente effettivo nel Corpo sanitario (medici), ed a sottotenente in servizio permanente effettivo nei corpi di Commissariato e delle Capitanerie di porto. 
- Detti concorsi sono riservati agli ufficiali subalterni di complemento dei corpi Sanitario (medici), di Commissariato e delle Capitanerie di porto, i quali, oltre a possedere il diploma di laurea richiesto, rispettivamente, dagli [articoli 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178#art_38), [40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178#art_40) e [41 della legge 8 luglio 1926, n. 1178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178#art_41), e successive modificazioni, abbiano i seguenti requisiti: 
+ Detti concorsi sono riservati agli ufficiali subalterni di complemento dei corpi Sanitario (medici), di Commissariato e delle Capitanerie di porto, i quali, oltre a possedere il diploma di laurea richiesto, rispettivamente, dagli [articoli 38](Ordinamento%20della%20Regia%20marina.%20026U1178.md), [40](Ordinamento%20della%20Regia%20marina.%20026U1178.md) e [41 della legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), e successive modificazioni, abbiano i seguenti requisiti: 
  a) aver prestato almeno un anno di servizio continuativo, cumulativamente da aspirante e da ufficiale di complemento; 
  b) avere un'eta' non inferiore ai 25 anni, ne superiore ai 32.
 
@@ -46,7 +46,7 @@ Le graduatorie di merito saranno stabilite dalle Commissioni giudicatrici, che s
 
 ## Art. 5.
 
-I vincitori dei concorsi straordinari previsti dal presente decreto, sono nominati sottotenenti o tenenti in servizio permanente effettivo con anzianita' assoluta non anteriore al decreto di nomina e con l'anzianita' relativa determinata dalla graduatoria di merito prevista dall'art. 4. Essi non seguono il corso e il tirocinio stabiliti dagli [articoli 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178#art_38), [40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178#art_40) e [41 della legge 8 luglio 1926, n. 1178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178#art_41), e successive modificazioni.
+I vincitori dei concorsi straordinari previsti dal presente decreto, sono nominati sottotenenti o tenenti in servizio permanente effettivo con anzianita' assoluta non anteriore al decreto di nomina e con l'anzianita' relativa determinata dalla graduatoria di merito prevista dall'art. 4. Essi non seguono il corso e il tirocinio stabiliti dagli [articoli 38](Ordinamento%20della%20Regia%20marina.%20026U1178.md), [40](Ordinamento%20della%20Regia%20marina.%20026U1178.md) e [41 della legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), e successive modificazioni.
 
 ## Art. 6.
 

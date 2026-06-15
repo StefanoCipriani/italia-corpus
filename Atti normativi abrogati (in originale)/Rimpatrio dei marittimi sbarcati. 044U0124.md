@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 363 e seguenti del Codice della Navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_363);
+Visti gli [articoli 363 e seguenti del Codice della Navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visto il [R. decreto-legge 27 dicembre 1925, n. 2544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-12-27;2544);
 
@@ -32,7 +32,7 @@ Su proposta del Ministro della Marina d'intesa con i Ministri di Grazia e Giusti
 
 ## Art. 1.
 
-Agli effetti, di cui agli [articoli 363 e seguenti del Codice della Navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_363), quando il porto di arruolamento non possa essere raggiunto perche' in zona occupata dal nemico o perche' le comunicazioni ordinarie non siano ancora ristabilite, l'obbligo per l'armatore di corrispondere al marittimo sbarcato le spese per l'alloggio ed il mantenimento nonche' le altre previste dall'[art. 364 del Codice della Navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_364), e' limitato alla corresponsione per soli 15 giorni di una indennita' pari alla retribuzione determinata ai sensi dell'[art. 361 del Codice della Navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_361).
+Agli effetti, di cui agli [articoli 363 e seguenti del Codice della Navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), quando il porto di arruolamento non possa essere raggiunto perche' in zona occupata dal nemico o perche' le comunicazioni ordinarie non siano ancora ristabilite, l'obbligo per l'armatore di corrispondere al marittimo sbarcato le spese per l'alloggio ed il mantenimento nonche' le altre previste dall'[art. 364 del Codice della Navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' limitato alla corresponsione per soli 15 giorni di una indennita' pari alla retribuzione determinata ai sensi dell'[art. 361 del Codice della Navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738); 
+ Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Lo stanziamento del cap. n. 35: «Inchieste di cui agli articoli 79 e seguenti del regolamento approvato col [R. decreto 13 marzo 1904, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-03-13;141), per la esecuzione della legge ecc. sugli infortuni degli operai sul lavoro» dello stato di previsione della spesa del Ministero per l'industria, il commercio ed il lavoro per l'esercizio finanziario 1916 917 e' aumentato di lire undicimila (L. 11,000): 
+ Lo stanziamento del cap. n. 35: «Inchieste di cui agli articoli 79 e seguenti del regolamento approvato col [R. decreto 13 marzo 1904, n. 141](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20sugli%20infortuni%20degli%20operai%20sul%20lavoro.%20004U0141.md), per la esecuzione della legge ecc. sugli infortuni degli operai sul lavoro» dello stato di previsione della spesa del Ministero per l'industria, il commercio ed il lavoro per l'esercizio finanziario 1916 917 e' aumentato di lire undicimila (L. 11,000): 
  
  Del presente decreto verra' chiesta la conversione in legge con apposito articolo da inserirsi nei disegni di legge per l'approvazione del rendiconto generale consuntivo per l'esercizio finanziario 1916 917. 
  

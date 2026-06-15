@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 giugno 1933, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-29;830), che concede la garanzia dello Stato italiano pel servizio degli interessi e dell'ammortamento della quota di 30 milioni di scellini oro, che sara' emessa in Italia, del prestito internazionale all'Austria previsto dal Protocollo di Ginevra del 15 luglio 1932. 
+ E' convertito in legge il [R. decreto-legge 29 giugno 1933, n. 830](Garanzia%20dello%20Stato%20Italiano%20per%20il%20servizio%20degli%20interessi%20e%20dellammortamento%20della%20quota%20del%20nuovo%20prestito%20internazionale%20allAustria.%20033U0830.md), che concede la garanzia dello Stato italiano pel servizio degli interessi e dell'ammortamento della quota di 30 milioni di scellini oro, che sara' emessa in Italia, del prestito internazionale all'Austria previsto dal Protocollo di Ginevra del 15 luglio 1932. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

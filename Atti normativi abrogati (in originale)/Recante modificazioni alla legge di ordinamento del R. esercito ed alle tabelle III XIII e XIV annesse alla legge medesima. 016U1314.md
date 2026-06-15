@@ -20,17 +20,17 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Vista la legge di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, testo unico approvato con [R. decreto 14 luglio 1898, n. 525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;525), e successive modificazioni;
+Vista la legge di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, testo unico approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
 
-Vista la [legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254), sull'avanzamento nel R. esercito e successive modificazioni;
+Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito e successive modificazioni;
 
-Visto il regolamento per l'esecuzione della predetta legge, approvato con [R. decreto 21 luglio 1907, n. 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-21;626) e successive modificazioni;
+Visto il regolamento per l'esecuzione della predetta legge, approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md) e successive modificazioni;
 
 Visti i decreti Luogotenenziali 13 giugno 1915 e 8 giugno 1916 autorizzanti il temporaneo collocamento fuori quadro di ufficiali dei carabinieri reali in soprannumero alla tabella XV annessa al testo unico delle leggi di ordinamento del R. esercito;
 
-Vista la legge sugli stipendi ed assegni fissi per il R. esercito, testo unico approvato con [R. decreto 14 luglio 1898, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;380), e successive modificazioni;
+Vista la legge sugli stipendi ed assegni fissi per il R. esercito, testo unico approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e successive modificazioni;
 
 Ritenuta la necessita' di assicurare all'arma dei carabinieri reali un ordinamento meglio rispondente alle esigenze dei molteplici servizi di istituto;
 

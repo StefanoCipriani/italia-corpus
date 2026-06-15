@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Articolo unico.
 
-Al secondo comma dell'art. 8 della citata convenzione 27 settembre 1924, approvata con [R. decreto-legge 28 dicembre 1924, n. 2323](Approvazione%20della%20convenzione%2027%20settembre%201924%20fra%20la%20Provincia%20il%20Comune%20la%20Cassa%20di%20risparmio%20di%20Bologna%20lon.%20sen.%20marchese%20Giuseppe%20Tanari%20ed%20il%20Ministero%20delleconomia%20nazionale%20per%20_9489b904204f.md), convertito in legge con la [legge 24 dicembre 1925, n. 2301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2301), e' sostituito il seguente: 
+Al secondo comma dell'art. 8 della citata convenzione 27 settembre 1924, approvata con [R. decreto-legge 28 dicembre 1924, n. 2323](Approvazione%20della%20convenzione%2027%20settembre%201924%20fra%20la%20Provincia%20il%20Comune%20la%20Cassa%20di%20risparmio%20di%20Bologna%20lon.%20sen.%20marchese%20Giuseppe%20Tanari%20ed%20il%20Ministero%20delleconomia%20nazionale%20per%20_9489b904204f.md), convertito in legge con la [legge 24 dicembre 1925, n. 2301](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U2301.md), e' sostituito il seguente: 
  
  «Per provvedere al pagamento degli interessi annuali del prestito di L. 620,000 al saggio del 6.25 per cento e della quota di ammortamento in 35 anni, a partire dall'esercizio 1929-30 sara' aumentato di L. 42,690.44 lo stanziamento del capitolo che nell'esercizio 1929-30 corrispondera' al capitolo 113-bis dello stato di previsione della spesa per l'esercizio corrente del Ministero della pubblica istruzione». 
  

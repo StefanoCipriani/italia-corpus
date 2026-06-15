@@ -12,11 +12,11 @@ vigente: true
 
 IL MINISTRO DEL TESORO 
  
- Veduta la [legge 7 aprile 1881, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-04-07;133) (Serie 3ª) sui provvedimenti per l'abolizione del corso forzoso; 
+ Veduta la [legge 7 aprile 1881, n. 133](Che%20provvede%20per%20labolizione%20del%20corso%20forzoso%20081U0133.md) (Serie 3ª) sui provvedimenti per l'abolizione del corso forzoso; 
  
  Veduto il regolamento per la esecuzione della legge predetta, approvato con [R. decreto 16 giugno 1881, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-06-16;133) (Serie 3ª); 
  
- Veduto il [R. decreto 11 marzo 1883, n. 1231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-03-11;1231) (Serie 3ª) col quale furono pubblicati i distintivi ed i segni caratteristici dei biglietti di Stato da lire 10; 
+ Veduto il [R. decreto 11 marzo 1883, n. 1231](Che%20stabilisce%20i%20distintivi%20dei%20biglietti%20di%20nuova%20forma%20da%20lire%2010.%20083U1231.md) (Serie 3ª) col quale furono pubblicati i distintivi ed i segni caratteristici dei biglietti di Stato da lire 10; 
  
  Veduto l'altro R. decreto 5 febbraio corrente 1888, n. 5204 (Serie 3ª) che modifico' i distintivi ed i segni caratteristici del biglietto predetto; 
  

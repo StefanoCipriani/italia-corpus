@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'art. 8 dello Statuto;
 
-Visto l'[art. 5 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_5);
+Visto l'[art. 5 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Vista la [legge 9 luglio 1940, n. 924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;924);
+Vista la [legge 9 luglio 1940, n. 924](Norme%20relative%20alla%20sospensione%20dei%20procedimenti%20penali%20e%20alla%20esecuzione%20delle%20pene.%20040U0924.md);
 
-Visto il [regio decreto 5 aprile 1943, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-04-05;354);
+Visto il [regio decreto 5 aprile 1943, n. 354](Norme%20Integrative%20della%20legge%209%20luglio%201940-XVIII%20n.%20924%20concernente%20la%20sospensione%20dei%20procedimenti%20penali%20e%20la%20esecuzione%20delle%20pene.%20043U0354.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -28,24 +28,24 @@ Ministri per le finanze ed il tesoro e per la difesa; Decreta:
 
 ## Art. 1.
 
-E' concessa amnistia per i reati punibili con pena pecuniaria o con pena restrittiva della liberta' personale non superiore nel massimo ad anni dieci, anche se congiunta con pena pecuniaria, nei casi in cui i procedimenti sono tuttora sospesi in applicazione degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;924#art_2), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;924#art_5) e [11 della legge 9 luglio 1940, n. 924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;924#art_11), e concernono imputati che abbiano prestato servizio nelle Forze armate, nei reparti delle Forze alleate o dei partigiani per la guerra di liberazione oppure siano stati internati in campi nemici di concentramento. L'amnistia e' concessa anche nei casi in cui la sospensione ha avuto luogo senza che il giudice abbia emesso la relativa ordinanza. 
+E' concessa amnistia per i reati punibili con pena pecuniaria o con pena restrittiva della liberta' personale non superiore nel massimo ad anni dieci, anche se congiunta con pena pecuniaria, nei casi in cui i procedimenti sono tuttora sospesi in applicazione degli [articoli 2](Norme%20relative%20alla%20sospensione%20dei%20procedimenti%20penali%20e%20alla%20esecuzione%20delle%20pene.%20040U0924.md), [5](Norme%20relative%20alla%20sospensione%20dei%20procedimenti%20penali%20e%20alla%20esecuzione%20delle%20pene.%20040U0924.md) e [11 della legge 9 luglio 1940, n. 924](Norme%20relative%20alla%20sospensione%20dei%20procedimenti%20penali%20e%20alla%20esecuzione%20delle%20pene.%20040U0924.md), e concernono imputati che abbiano prestato servizio nelle Forze armate, nei reparti delle Forze alleate o dei partigiani per la guerra di liberazione oppure siano stati internati in campi nemici di concentramento. L'amnistia e' concessa anche nei casi in cui la sospensione ha avuto luogo senza che il giudice abbia emesso la relativa ordinanza. 
  L'amnistia e' estesa a coloro che nel medesimo procedimento tuttora sospeso siano imputati di concorso, nei reati di cui al primo comma o di reati connessi ai sensi dell'[art. 45 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_45).
 
 ## Art. 2.
 
-E' concessa amnistia per i reati per i quali e' intervenuta condanna nei casi in cui il condannato e' stato ammesso alla liberazione condizionale ai sensi dell'[art. 7 della legge 9 luglio 1940, n. 924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;924#art_7). Il beneficio non si applica a coloro nei confronti dei quali la liberazione condizionale e' stata revocata per avere commesso un delitto.
+E' concessa amnistia per i reati per i quali e' intervenuta condanna nei casi in cui il condannato e' stato ammesso alla liberazione condizionale ai sensi dell'[art. 7 della legge 9 luglio 1940, n. 924](Norme%20relative%20alla%20sospensione%20dei%20procedimenti%20penali%20e%20alla%20esecuzione%20delle%20pene.%20040U0924.md). Il beneficio non si applica a coloro nei confronti dei quali la liberazione condizionale e' stata revocata per avere commesso un delitto.
 
 ## Art. 3.
 
-E' concessa amnistia per i reati per i quali e intervenuta condanna e la esecuzione della pena e' stata differita a norma degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;924#art_9) e [10 della legge 9 luglio 1940, n. 924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;924#art_10).
+E' concessa amnistia per i reati per i quali e intervenuta condanna e la esecuzione della pena e' stata differita a norma degli [articoli 9](Norme%20relative%20alla%20sospensione%20dei%20procedimenti%20penali%20e%20alla%20esecuzione%20delle%20pene.%20040U0924.md) e [10 della legge 9 luglio 1940, n. 924](Norme%20relative%20alla%20sospensione%20dei%20procedimenti%20penali%20e%20alla%20esecuzione%20delle%20pene.%20040U0924.md).
 
 ## Art. 4.
 
-Le misure di sicurezza sospese o differite a norma degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;924#art_8) e [9 della legge 9 luglio 1940, n. 924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;924#art_9), sono revocate senza riesame sulla pericolosita'.
+Le misure di sicurezza sospese o differite a norma degli [articoli 8](Norme%20relative%20alla%20sospensione%20dei%20procedimenti%20penali%20e%20alla%20esecuzione%20delle%20pene.%20040U0924.md) e [9 della legge 9 luglio 1940, n. 924](Norme%20relative%20alla%20sospensione%20dei%20procedimenti%20penali%20e%20alla%20esecuzione%20delle%20pene.%20040U0924.md), sono revocate senza riesame sulla pericolosita'.
 
 ## Art. 5.
 
-Sono condonate le pene pecuniarie o detentive la cui esecuzione e' stata differita o sospesa, per considerazioni di indole familiare ai sensi dell'[art. 6 della legge 9 luglio 1940, n. 924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;924#art_6) e dell'[art. 3 del regio decreto 5 aprile 1943, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-04-05;354#art_3).
+Sono condonate le pene pecuniarie o detentive la cui esecuzione e' stata differita o sospesa, per considerazioni di indole familiare ai sensi dell'[art. 6 della legge 9 luglio 1940, n. 924](Norme%20relative%20alla%20sospensione%20dei%20procedimenti%20penali%20e%20alla%20esecuzione%20delle%20pene.%20040U0924.md) e dell'[art. 3 del regio decreto 5 aprile 1943, n. 354](Norme%20Integrative%20della%20legge%209%20luglio%201940-XVIII%20n.%20924%20concernente%20la%20sospensione%20dei%20procedimenti%20penali%20e%20la%20esecuzione%20delle%20pene.%20043U0354.md).
 
 ## Art. 6.
 
@@ -53,7 +53,7 @@ Sono esclusi dai benefici indicati negli articoli 1, 3, 4 e 5 coloro che hanno r
 
 ## Art. 7.
 
-Per i recidivi nei casi preveduti dai capoversi dell'[art. 99 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_99) e per i delinquenti abituali o professionali o per tendenza resta esclusa, a norma dell'ultimo capoverso dell'[art. 151 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_151), l'applicazione dei benefici indicati negli articoli 1, 3, 4 e 5 del presente decreto.
+Per i recidivi nei casi preveduti dai capoversi dell'[art. 99 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e per i delinquenti abituali o professionali o per tendenza resta esclusa, a norma dell'ultimo capoverso dell'[art. 151 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), l'applicazione dei benefici indicati negli articoli 1, 3, 4 e 5 del presente decreto.
 
 ## Art. 8.
 

@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'art. 18 della legge 19 gennaio 1939-XVII, n. 129;
 
-Visto il testo unico di leggi per l'imposta sui redditi di ricchezza mobile approvato con [R. decreto 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021), e successive modificazioni;
+Visto il testo unico di leggi per l'imposta sui redditi di ricchezza mobile approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e successive modificazioni;
 
 Visto il R. decreto-legge 16 ottobre 1924-II, n. 1618, convertito nella legge 21 marzo 1926-IV, n. 597;
 
@@ -64,7 +64,7 @@ Agli effetti dell'accertamento dell'imposta di ricchezza mobile, nonche' di ogni
 
 ### Art. 4.
 
-La disposizione contenuta nel secondo comma dell'art. 13 della legge 8 giugno 1936-XIV, 1231, importa tassazione distinta per ciascuna azienda, sulla base dei rispettivi bilanci, non solamente per le diverse aziende gestite in economia o in forma autonoma, anche se non dotate di separata personalita' giuridica, dalle provincie, dai comuni e dagli enti morali di ogni genere tenuti alla compilazione dei bilanci di cui al primo comma dell'articolo suddetto, ma anche per le diverse aziende gestite dagli enti gia' soggetti a tassazione in categoria B in base a bilancio secondo la norma dell'articolo 25 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021).
+La disposizione contenuta nel secondo comma dell'art. 13 della legge 8 giugno 1936-XIV, 1231, importa tassazione distinta per ciascuna azienda, sulla base dei rispettivi bilanci, non solamente per le diverse aziende gestite in economia o in forma autonoma, anche se non dotate di separata personalita' giuridica, dalle provincie, dai comuni e dagli enti morali di ogni genere tenuti alla compilazione dei bilanci di cui al primo comma dell'articolo suddetto, ma anche per le diverse aziende gestite dagli enti gia' soggetti a tassazione in categoria B in base a bilancio secondo la norma dell'articolo 25 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md).
 
 ### Art. 5.
 

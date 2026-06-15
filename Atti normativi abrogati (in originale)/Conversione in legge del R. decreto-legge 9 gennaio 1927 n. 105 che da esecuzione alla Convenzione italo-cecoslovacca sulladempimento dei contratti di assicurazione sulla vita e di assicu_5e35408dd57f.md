@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 gennaio 1927, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-09;105), che da' esecuzione alla Convenzione firmata a Praga il 4 maggio 1926 fra il Regno d'Italia e la Repubblica cecoslovacca sull'adempimento dei contratti di assicurazione sulla vita e di assicurazioni di rendite, stipulati tra imprese di assicurazione italiane e contraenti cecoslovacchi, e tra imprese di assicurazione cecoslovacche e contraenti italiani, nonche' al Protocollo finale annesso a quella Convenzione. 
+ E' convertito in legge il [R. decreto-legge 9 gennaio 1927, n. 105](Esecuzione%20della%20Convenzione%20firmata%20a%20Praga%20il%204%20maggio%201926%20tra%20il%20Regno%20dItalia%20e%20la%20Repubblica%20cecoslovacca%20riguardo%20alladempimento%20dei%20contratti%20di%20assicurazione%20sulla%20vita%20e%20di%20assi_c4843197911f.md), che da' esecuzione alla Convenzione firmata a Praga il 4 maggio 1926 fra il Regno d'Italia e la Repubblica cecoslovacca sull'adempimento dei contratti di assicurazione sulla vita e di assicurazioni di rendite, stipulati tra imprese di assicurazione italiane e contraenti cecoslovacchi, e tra imprese di assicurazione cecoslovacche e contraenti italiani, nonche' al Protocollo finale annesso a quella Convenzione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

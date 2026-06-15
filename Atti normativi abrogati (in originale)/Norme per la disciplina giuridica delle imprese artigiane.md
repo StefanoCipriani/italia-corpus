@@ -58,7 +58,7 @@ In caso di morte del titolare dell'impresa artigiana, l'impresa stessa rimane is
 
 ### Art. 7.
 
-Per la vendita degli oggetti di produzione propria, sempre che avvenga nel luogo di produzione, le imprese artigiane sono esonerate dall'obbligo di munirsi della licenza di commercio rilasciata dai Comuni a norma del [regio decreto-legge 16 dicembre 1926, n. 2174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2174), convertito nella [legge 18 dicembre 1927, n. 2501](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20dicembre%201926%20n.%202174%20che%20emana%20norme%20per%20la%20disciplina%20del%20commercio%20di%20vendita%20al%20pubblico.%20027U2501.md).
+Per la vendita degli oggetti di produzione propria, sempre che avvenga nel luogo di produzione, le imprese artigiane sono esonerate dall'obbligo di munirsi della licenza di commercio rilasciata dai Comuni a norma del [regio decreto-legge 16 dicembre 1926, n. 2174](Disciplina%20del%20commercio%20di%20vendita%20al%20pubblico.%20026U2174.md), convertito nella [legge 18 dicembre 1927, n. 2501](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20dicembre%201926%20n.%202174%20che%20emana%20norme%20per%20la%20disciplina%20del%20commercio%20di%20vendita%20al%20pubblico.%20027U2501.md).
 
 ### Art. 8.
 
@@ -71,7 +71,7 @@ Presso ogni Camera di commercio, industria ed agricoltura e' istituito l'albo de
  La iscrizione nell'albo spetta di diritto all'artigiano che sia titolare di impresa avente i requisiti prescritti dagli articoli precedenti.
  La deliberazione della Commissione provinciale per l'artigianato, da adottarsi previo accertamento che l'impresa possieda tutti i requisiti predetti, deve essere motivata nel caso che la domanda non venga accolta.
  Della decisione viene data diretta, comunicazione al richiedente, entro sessanta giorni dalla data di presentazione della domanda, a cura della Camera di commercio, industria ed agricoltura. La mancata comunicazione vale accoglimento della domanda. La iscrizione nell'albo e' comprovata da apposito attestato rilasciato dalla Camera di commercio, industria ed agricoltura al nome del titolare dell'impresa.
- L'iscrizione predetta sostituisce l'iscrizione nel registro delle ditte di cui all'[art. 47 del regio decreto 20 settembre 1934, n. 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;2011#art_47).
+ L'iscrizione predetta sostituisce l'iscrizione nel registro delle ditte di cui all'[art. 47 del regio decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
  Ogni triennio, entro il 30 giugno, a cura della Commissione provinciale per l'artigianato, si provvede alla revisione d'ufficio delle imprese iscritte nell'albo.
  L'iscrizione nell'albo e' condizione per la concessione delle agevolazioni disposte a favore delle imprese artigiane.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 dicembre 1932, n. 1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-12-20;1976), che vieta la fabbricazione e il commercio di gomme piene per Autoveicoli e rimorchi di autoveicoli. 
+ E' convertito in legge il [R. decreto-legge 20 dicembre 1932, n. 1976](Disposizioni%20sulla%20fabbricazione%20di%20gomme%20piene%20e%20di%20gomme%20semipneumatiche%20per%20autoveicoli%20e%20rimorchi%20di%20autoveicoli.%20032U1976.md), che vieta la fabbricazione e il commercio di gomme piene per Autoveicoli e rimorchi di autoveicoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

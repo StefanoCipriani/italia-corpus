@@ -32,7 +32,7 @@ Il saggio di interesse da corrispondersi sul conto corrente e' previsto nella mi
 
 ## Art. 5.
 
-Alla fine del quindicesimo anno, la Cassa depositi e prestiti, valendosi dei fondi degli Istituti di previdenza, di cui al [R. decreto-legge 13 giugno 1926, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-06-13;1064), rilevera' il residuo debito capitale verso il Monte dei Paschi mediante un prestito da concedersi al comune di Siena al saggio del 6.50 per cento e da garantirsi nelle forme prescritte per i mutui della Cassa depositi e prestiti. 
+Alla fine del quindicesimo anno, la Cassa depositi e prestiti, valendosi dei fondi degli Istituti di previdenza, di cui al [R. decreto-legge 13 giugno 1926, n. 1064](Impiego%20di%20fondi%20appartenenti%20agli%20Istituti%20di%20previdenza%20amministrati%20dalla%20Cassa%20depositi%20e%20prestiti%20in%20mutui%20agli%20Enti%20locali%20a%20condizioni%20speciali%20e%20con%20gestione%20separata.%20026U1064.md), rilevera' il residuo debito capitale verso il Monte dei Paschi mediante un prestito da concedersi al comune di Siena al saggio del 6.50 per cento e da garantirsi nelle forme prescritte per i mutui della Cassa depositi e prestiti. 
  
  Salvo quanto e' prescritto dalla presente legge, nulla e' innovato nei riguardi di tale mutuo alle disposizioni che regolano i prestiti degli Istituti di previdenza amministrati dalla Cassa suddetta.
 
@@ -62,7 +62,7 @@ Per la regolarizzazione dei rapporti nascenti dalla presente legge tra la Cassa 
 
 ## Art. 11.
 
-Al mutuo di cui alla presente legge sono applicabili, in quanto compatibili, le disposizioni di cui alla [legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), prorogata con [R. decreto 30 dicembre 1923, n. 3132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3132), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473). 
+Al mutuo di cui alla presente legge sono applicabili, in quanto compatibili, le disposizioni di cui alla [legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), prorogata con [R. decreto 30 dicembre 1923, n. 3132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3132), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

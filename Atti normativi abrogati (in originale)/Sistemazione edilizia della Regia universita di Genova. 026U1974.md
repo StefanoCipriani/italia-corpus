@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Sui fondi degli istituti di previdenza, ai sensi del [R. decreto 13 giugno 1926, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-13;1064), e' autorizzato in favore del comune di Genova, per la sistemazione edilizia degli istituti di quella Regia universita', un mutuo di L. 13,000,000 da concedersi all'interesse del 6.50 per cento all'anno, di cui il 2 per cento a carico dello Stato, con ammortamento non superiore a 35 annualita', da garantirsi nei modi previsti dagli articoli 75 e seguenti del testo unico delle leggi sulla Cassa depositi e prestiti approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), e da somministrarsi per tre milioni entro l'esercizio 1926.27 e per due milioni in ciascuno degli esercizi dal 1927-28 al 1931-32. 
+Sui fondi degli istituti di previdenza, ai sensi del [R. decreto 13 giugno 1926, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-13;1064), e' autorizzato in favore del comune di Genova, per la sistemazione edilizia degli istituti di quella Regia universita', un mutuo di L. 13,000,000 da concedersi all'interesse del 6.50 per cento all'anno, di cui il 2 per cento a carico dello Stato, con ammortamento non superiore a 35 annualita', da garantirsi nei modi previsti dagli articoli 75 e seguenti del testo unico delle leggi sulla Cassa depositi e prestiti approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), e da somministrarsi per tre milioni entro l'esercizio 1926.27 e per due milioni in ciascuno degli esercizi dal 1927-28 al 1931-32. 
  
  Nulla e' modificato, all'infuori di quanto e' disposto nel presente articolo, alle norme che regolano i mutui della Cassa depositi e prestiti.
 
@@ -58,7 +58,7 @@ La somma di L. 3,486,000, residuo del fondo autorizzato con la [legge 27 giugno 
 
 Ultimati i lavori si procedera' al loro collaudo da una Commissione composta dell'ispettore superiore compartimentale del Genio civile, di un ingegnere delegato dal Comune e di un terzo tecnico scelto d'accordo dai due precedenti. 
  
- I nuovi edifici che saranno costruiti con i fondi di cui agli articoli 1 e 4 del presente decreto saranno di proprieta' dello Stato e del comune di Genova proporzionalmente ai rispettivi contributi nella spesa di costruzione e saranno concessi in uso perpetuo alla Regia universita' di Genova a norma dell'[art. 67 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_67).
+ I nuovi edifici che saranno costruiti con i fondi di cui agli articoli 1 e 4 del presente decreto saranno di proprieta' dello Stato e del comune di Genova proporzionalmente ai rispettivi contributi nella spesa di costruzione e saranno concessi in uso perpetuo alla Regia universita' di Genova a norma dell'[art. 67 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
 
 ## Art. 6.
 

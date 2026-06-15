@@ -331,7 +331,7 @@ Non sono elettori ne' eleggibili:
  
  Tale incapacita' cessa un anno dopo compiuto il termine degli effetti dell'ammonizione e della sorveglianza; 
  
- f) i condannati per reati d'associazione di malfattori, di furto, di ricettazione dolosa di oggetti furtivi, truffa, appropriazione indebita, abusi di fiducia e frodi d'ogni altra specie e sotto qualunque titolo del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), per qualunque specie di falso, falsa testimonianza o calunnia, per eccitamento all'odio fra le varie classi sociali, nonche' per reati contro il buon costume, salvi i casi di riabilitazione a termini di legge; 
+ f) i condannati per reati d'associazione di malfattori, di furto, di ricettazione dolosa di oggetti furtivi, truffa, appropriazione indebita, abusi di fiducia e frodi d'ogni altra specie e sotto qualunque titolo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per qualunque specie di falso, falsa testimonianza o calunnia, per eccitamento all'odio fra le varie classi sociali, nonche' per reati contro il buon costume, salvi i casi di riabilitazione a termini di legge; 
  
  g) coloro che sono ricoverati negli ospizi di carita', e coloro che sono abitualmente a carico degli Istituti di pubblica beneficenza e delle Congregazioni di carita'; 
  
@@ -838,7 +838,7 @@ Qualunque elettore puo' promuovere l'azione penale, costituendosi parte civile, 
  
  Ordinata un'inchiesta dal Consiglio comunale o dalla Giunta provinciale amministrativa, chi ne e' incaricato ha diritto di far citare testimoni. 
  
- Ai testimoni delle inchieste ordinate come sopra, sono applicabili le disposizioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) sulla falsa testimonianza, sulla occultazione della verita' e sul rifiuto di deporre in materia civile; salvo le maggiori pene secondo il Codice stesso, cadendo la falsa testimonianza e l'occultazione della verita' od il rifiuto su materia punibile. 
+ Ai testimoni delle inchieste ordinate come sopra, sono applicabili le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla falsa testimonianza, sulla occultazione della verita' e sul rifiuto di deporre in materia civile; salvo le maggiori pene secondo il Codice stesso, cadendo la falsa testimonianza e l'occultazione della verita' od il rifiuto su materia punibile. 
  
  Ai pubblici ufficiali imputati di taluno dei reati contemplati nella presente legge non sono applicabili le disposizioni dell'art.
 8.
@@ -851,9 +851,9 @@ Nei reati elettorali, ove la presente legge non abbia specificatamente contempla
  
  Ove la detta condanna colpisca il candidato, la privazione del diritto elettorale e di eleggibilita' sara' pronunziata per un tempo non minore di due ne' maggiore di cinque anni. 
  
- Ai reati elettorali si applicano le disposizioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) intorno al tentativo, alla complicita', alla recidiva, al concorso di piu' reati, ed alle circostanze attenuanti. 
+ Ai reati elettorali si applicano le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) intorno al tentativo, alla complicita', alla recidiva, al concorso di piu' reati, ed alle circostanze attenuanti. 
  
- Resta sempre salva l'applicazione delle maggiori pene stabilite nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per reati piu' gravi non puniti dalla presente legge.
+ Resta sempre salva l'applicazione delle maggiori pene stabilite nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per reati piu' gravi non puniti dalla presente legge.
 
 ### Art. 102.
 
@@ -1337,7 +1337,7 @@ I mandati di pagamento sono sottoscritti dal sindaco, da un assessore e dal segr
 
 ### Art. 155.
 
-Chiunque dall'esattore in fuori s'ingerira' senza legale autorizzazione nel maneggio dei denari di un comune rimarra' per questo solo fatto contabile sottoposto alla giurisdizione amministrativa senza pregiudizio delle pene portate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) contro coloro che senza titolo s'ingeriscono in pubbliche funzioni.
+Chiunque dall'esattore in fuori s'ingerira' senza legale autorizzazione nel maneggio dei denari di un comune rimarra' per questo solo fatto contabile sottoposto alla giurisdizione amministrativa senza pregiudizio delle pene portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) contro coloro che senza titolo s'ingeriscono in pubbliche funzioni.
 
 ### Art. 156.
 
@@ -1493,7 +1493,7 @@ CAPO VIII.
 
 ### Art. 175.
 
-Saranno soggetti alle pene di polizia sancite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) i contravventori ai regolamenti vigenti, o che venissero formati in esecuzione delle leggi per l'esazione delle imposte speciali dei comuni, per regolare il godimento dei beni comunali, per l'ornato e la polizia locale, ed agli ordini e provvedimenti a cio' relativi dati dai prefetti, dai sottoprefetti e dai sindaci.
+Saranno soggetti alle pene di polizia sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) i contravventori ai regolamenti vigenti, o che venissero formati in esecuzione delle leggi per l'esazione delle imposte speciali dei comuni, per regolare il godimento dei beni comunali, per l'ornato e la polizia locale, ed agli ordini e provvedimenti a cio' relativi dati dai prefetti, dai sottoprefetti e dai sindaci.
 
 ### Art. 176.
 

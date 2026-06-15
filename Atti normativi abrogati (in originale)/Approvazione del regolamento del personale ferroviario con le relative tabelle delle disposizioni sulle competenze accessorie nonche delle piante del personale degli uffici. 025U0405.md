@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata dal [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728);
+Vista la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
 
 Visto il [decreto Luogotenenziale 13 agosto 1917, n. 1393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-13;1393), e successive modificazioni ed aggiunte;
 
 Visto l'[art. 6 della legge 7 aprile 1921, n. 368](Che%20stabilisce%20i%20nuovi%20quadri%20di%20classificazione%20degli%20stipendi%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20apporta%20altresi%20modificazioni%20alla%20legge%20organica%20delle%20ferrovie%20medesime.%20021U0368.md);
 
-Visto il [R. decreto 6 dicembre 1923, n. 2651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-06;2651);
+Visto il [R. decreto 6 dicembre 1923, n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md);
 
-Visto il [R. decreto 31 dicembre 1923, n. 3082](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3082);
+Visto il [R. decreto 31 dicembre 1923, n. 3082](Trattamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato%20provvisorio%20ed%20aggiunto%20sanitario%20e%20di%20quello%20del%20traghetto%20di%20Venezia.%20023U3082.md);
 
 Visto il [R. decreto 19 giugno 1924, n. 1083](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1083);
 
@@ -40,9 +40,9 @@ Sono approvati l'annesso regolamento del personale delle Ferrovie dello Stato e 
  
  b) del regolamento del personale provvisorio e del personale aggiunto, approvato col decreto Luogotenenziale di cui al comma precedente; 
  
- c) dei quadri di classificazione, piante organiche, disposizioni sulle competenze accessorie ed altre norme, approvate col [R. decreto 6 dicembre 1923, n. 2651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-06;2651); 
+ c) dei quadri di classificazione, piante organiche, disposizioni sulle competenze accessorie ed altre norme, approvate col [R. decreto 6 dicembre 1923, n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md); 
  
- d) del [R. decreto 31 dicembre 1923, n. 3082](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3082), relativo al trattamento del personale provvisorio ed aggiunto e di quello addetto al traghetto di Venezia; 
+ d) del [R. decreto 31 dicembre 1923, n. 3082](Trattamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato%20provvisorio%20ed%20aggiunto%20sanitario%20e%20di%20quello%20del%20traghetto%20di%20Venezia.%20023U3082.md), relativo al trattamento del personale provvisorio ed aggiunto e di quello addetto al traghetto di Venezia; 
  
  e) del [R. decreto 19 giugno 1924, n. 1083](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1083), circa l'attribuzione di assegni al personale delle Ferrovie dello Stato dei gradi 8° a 14°.
 
@@ -58,7 +58,7 @@ Il personale femminile che sia in servizio di ruolo al 1° aprile 1925 viene con
 
 ## Art. 4.
 
-L'assegnazione delle qualifiche risultanti dai nuovi quadri di classificazione, annessi al regolamento del personale di cui all'art. 1, in sostituzione di quelle possedute dal personale in base al [R. decreto 6 dicembre 1923, n. 2651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-06;2651), e' fatto secondo quanto risulta dal quadro allegato 4), visto, d'ordine Nostro, dai Ministri per le comunicazioni e per le finanze, tenuto conto delle disposizioni contenute negli articoli seguenti.
+L'assegnazione delle qualifiche risultanti dai nuovi quadri di classificazione, annessi al regolamento del personale di cui all'art. 1, in sostituzione di quelle possedute dal personale in base al [R. decreto 6 dicembre 1923, n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md), e' fatto secondo quanto risulta dal quadro allegato 4), visto, d'ordine Nostro, dai Ministri per le comunicazioni e per le finanze, tenuto conto delle disposizioni contenute negli articoli seguenti.
 
 ## Art. 5.
 
@@ -143,7 +143,7 @@ Le promozioni dall'uno all'altro dei gradi seguenti, pei quali e' stabilito un n
 
 ## Art. 16.
 
-I Cassieri principali, i Cassieri ed i Segretari capi che ne disimpegnino le funzioni, sono esonerati dall'obbligo della cauzione prevista dall'[art. 37 della legge 7 luglio 1907, numero 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dal [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728).
+I Cassieri principali, i Cassieri ed i Segretari capi che ne disimpegnino le funzioni, sono esonerati dall'obbligo della cauzione prevista dall'[art. 37 della legge 7 luglio 1907, numero 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md).
 
 ## Art. 17.
 
@@ -157,7 +157,7 @@ I quadri di classificazione degli stipendi ed i supplementi di servizio attivo, 
 
 ## Art. 19.
 
-Restano in vigore per il personale delle Ferrovie dello Stato le disposizioni concernenti le indennita' corrisposte a titolo di caro viveri, vigenti alla data di applicazione del presente decreto, ad eccezione del [R. decreto 2 dicembre 1923, n. 2713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2713), il quale viene soppresso con effetto dal 1° aprile 1924. 
+Restano in vigore per il personale delle Ferrovie dello Stato le disposizioni concernenti le indennita' corrisposte a titolo di caro viveri, vigenti alla data di applicazione del presente decreto, ad eccezione del [R. decreto 2 dicembre 1923, n. 2713](Riduzione%20della%20indennita%20di%20caro-viveri%20ad%20alcune%20categorie%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20023U2713.md), il quale viene soppresso con effetto dal 1° aprile 1924. 
  
  Quando pero' ne sia riconosciuta la possibilita' in seguito a miglioramento della situazione economica, potra' essere disposta con R. decreto, la riduzione delle indennita' medesime.
 

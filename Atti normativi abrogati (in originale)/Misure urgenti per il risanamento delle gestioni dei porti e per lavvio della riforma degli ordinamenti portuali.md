@@ -28,7 +28,7 @@ Al fine di consentire l'integrazione dei porti con le altre modalita' di traspor
 
 2.
 
-L'appartenenza di ciascun porto al proprio sistema deriva dalla sua collocazione geografica rispetto all'ambito circoscrizionale dei vari sistemi portuali. Gli ambiti circoscrizionali dei sistemi portuali sono definiti, entro centottanta giorni dalla data di entrata in vigore del presente decreto, su, proposta del Ministro della marina mercantile, dal Comitato dei Ministri di cui all'[articolo 34, comma 3, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_34-com3). Le relative determinazioni sono adottate con decreto del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri.
+L'appartenenza di ciascun porto al proprio sistema deriva dalla sua collocazione geografica rispetto all'ambito circoscrizionale dei vari sistemi portuali. Gli ambiti circoscrizionali dei sistemi portuali sono definiti, entro centottanta giorni dalla data di entrata in vigore del presente decreto, su, proposta del Ministro della marina mercantile, dal Comitato dei Ministri di cui all'[articolo 34, comma 3, della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md). Le relative determinazioni sono adottate con decreto del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri.
 
 3.
 
@@ -36,11 +36,11 @@ Con apposita legge sono determinati nuovi criteri per la classificazione dei por
 
 4.
 
-Per avviare a realizzazione le indicazioni del Piano generale dei trasporti in materia di riorganizzazione dei porti, con decreto del Ministro della marina mercantile di concerto con i Ministri dei lavori pubblici e dei trasporti, sentito il Comitato dei Ministri di cui all'[articolo 2 della legge 15 giugno 1984, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-15;245#art_2), prorogato fino alla istituzione del CIPET ai sensi del [comma 3 dell'articolo 34 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_34-com3), e' istituito per ciascun sistema portuale un comitato con il compito di studiare e proporre le linee programmatiche per l'organizzazione e lo sviluppo delle infrastrutture dei singoli sistemi. I comitati sono composti da un numero massimo di diciotto membri, nominati fra esponenti degli scali marittimi di interesse nazionale insistenti sul litorale compreso nel sistema, delle regioni, ancorche' prive di litorali interessati al sistema, degli enti e delle categorie di settore.
+Per avviare a realizzazione le indicazioni del Piano generale dei trasporti in materia di riorganizzazione dei porti, con decreto del Ministro della marina mercantile di concerto con i Ministri dei lavori pubblici e dei trasporti, sentito il Comitato dei Ministri di cui all'[articolo 2 della legge 15 giugno 1984, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-15;245#art_2), prorogato fino alla istituzione del CIPET ai sensi del [comma 3 dell'articolo 34 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e' istituito per ciascun sistema portuale un comitato con il compito di studiare e proporre le linee programmatiche per l'organizzazione e lo sviluppo delle infrastrutture dei singoli sistemi. I comitati sono composti da un numero massimo di diciotto membri, nominati fra esponenti degli scali marittimi di interesse nazionale insistenti sul litorale compreso nel sistema, delle regioni, ancorche' prive di litorali interessati al sistema, degli enti e delle categorie di settore.
 
 5.
 
-La composizione della segreteria tecnica prevista dal [comma 3 dell'articolo 34 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_34-com3), che svolge il coordinamento di comitati di cui al comma 4, ai fini dell'attuazione dei compiti connessi all'applicazione del presente articolo e' integrata da cinque rappresentanti nominati dal Ministro della marina mercantile. Nel caso in cui tali, rappresentanti siano funzionari dell'Amministrazione dello Stato, gli stessi sono collocati in posizione di fuori ruolo.
+La composizione della segreteria tecnica prevista dal [comma 3 dell'articolo 34 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), che svolge il coordinamento di comitati di cui al comma 4, ai fini dell'attuazione dei compiti connessi all'applicazione del presente articolo e' integrata da cinque rappresentanti nominati dal Ministro della marina mercantile. Nel caso in cui tali, rappresentanti siano funzionari dell'Amministrazione dello Stato, gli stessi sono collocati in posizione di fuori ruolo.
 
 ## Art. 2.
 
@@ -83,7 +83,7 @@ A tal fine il Ministro del tesoro e' autorizzato ad emettere titoli di Stato, le
 1.
 
 Le rate di ammortamento relative agli anni 1987 e 1988 riguardanti i mutui gia' contratti al 31 dicembre 1985 dagli enti portuali di Genova, Venezia, Trieste e Savona sono rimborsate dallo Stato agli stessi enti portuali sulla base delle quietanze dei pagamenti a tal fine effettuati.
- Detti rimborsi sono al netto dei contributi statali attribuiti ai medesimi enti portuali ai sensi dell'[articolo 3, comma 6, del decreto-legge 6 aprile 1983, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-04-06;103#art_3-com6), convertito, con modificazioni, dalla [legge 23 maggio 1983, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-23;230), e successive modificazioni ed integrazioni.
+ Detti rimborsi sono al netto dei contributi statali attribuiti ai medesimi enti portuali ai sensi dell'[articolo 3, comma 6, del decreto-legge 6 aprile 1983, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-04-06;103#art_3-com6), convertito, con modificazioni, dalla [legge 23 maggio 1983, n. 230](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20aprile%201983%20n.%20103%20recante%20misure%20urgenti%20per%20fronteggiare%20la%20situazione%20dei%20porti.md), e successive modificazioni ed integrazioni.
 
 2.
 
@@ -195,7 +195,7 @@ L'accoglimento della domanda comporta la risoluzione del rapporto di lavoro e da
 
 4.
 
-Nei confronti del personale iscritto alla CPDEL l'aumento di cui al comma 3 va computato anche sui trattamenti provvisori di cui all'[articolo 30 del decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55#art_30), convertito, con modificazioni, dalla [legge 26 aprile 1983, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-26;131). Ai fini del trattamento medesimo non si applicano l'[articolo 10 del decreto-legge 29 gennaio 1983, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-01-29;17#art_10), convertito, con modificazioni, dalla [legge 25 marzo 1983, n. 79, e l'articolo 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-25;79#art_10) del [decreto-legge 28 febbraio 1986, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-02-28;49), convertito, con modificazioni, dalla [legge 18 aprile 1986, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-04-18;120).
+Nei confronti del personale iscritto alla CPDEL l'aumento di cui al comma 3 va computato anche sui trattamenti provvisori di cui all'[articolo 30 del decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55#art_30), convertito, con modificazioni, dalla [legge 26 aprile 1983, n. 131](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201983%20n.%2055%20recante%20provvedimenti%20urgenti%20per%20il%20settore%20della%20finanza%20locale%20per%20lanno%201983.md). Ai fini del trattamento medesimo non si applicano l'[articolo 10 del decreto-legge 29 gennaio 1983, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-01-29;17#art_10), convertito, con modificazioni, dalla [legge 25 marzo 1983, n. 79, e l'articolo 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20gennaio%201983%20n.%2017%20recante%20misure%20per%20il%20contenimento%20del%20costo%20del%20lavoro%20e%20per%20favorire%20loccupazione.md) del [decreto-legge 28 febbraio 1986, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-02-28;49), convertito, con modificazioni, dalla [legge 18 aprile 1986, n. 120](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201986%20n.%2049%20concernente%20disposizioni%20urgenti%20in%20materia%20di%20pubblico%20impiego.md).
 
 5.
 
@@ -203,7 +203,7 @@ La pensione di cui al presente articolo e' incompatibile con le prestazioni a ca
 
 6.
 
-I titolari delle pensioni liquidate ai sensi del presente articolo non possono essere assunti in un impiego di qualsiasi natura o avere incarichi alle dipendenze dello Stato, degli enti pubblici anche economici, delle compagnie e dei gruppi portuali; di societa' a partecipazione pubblica, di enti che usufruiscono del contributo ordinario dello Stato e siano sottoposti al controllo della Corte dei conti a norma dell'[articolo 100 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_100) e delle societa' e consorzi cui gli enti partecipino ai sensi dell'articolo 3, comma (16.4), del [decreto-legge 6 aprile 1983, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-04-06;103), convertito, con modificazioni, dalla [legge 23 maggio 1983, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-23;230).
+I titolari delle pensioni liquidate ai sensi del presente articolo non possono essere assunti in un impiego di qualsiasi natura o avere incarichi alle dipendenze dello Stato, degli enti pubblici anche economici, delle compagnie e dei gruppi portuali; di societa' a partecipazione pubblica, di enti che usufruiscono del contributo ordinario dello Stato e siano sottoposti al controllo della Corte dei conti a norma dell'[articolo 100 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_100) e delle societa' e consorzi cui gli enti partecipino ai sensi dell'articolo 3, comma (16.4), del [decreto-legge 6 aprile 1983, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-04-06;103), convertito, con modificazioni, dalla [legge 23 maggio 1983, n. 230](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20aprile%201983%20n.%20103%20recante%20misure%20urgenti%20per%20fronteggiare%20la%20situazione%20dei%20porti.md).
 
 7.
 
@@ -217,7 +217,7 @@ L'aumento dell'anzianita' contributiva di cui al presente articolo non e' cumula
 
 1.
 
-Per far fronte ai maggiori oneri accertati in sede di concessione delle agevolazioni per l'incentivazione dell'esodo dei lavoratori indicati all'[articolo 2 del decreto-legge 6 aprile 1983, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-04-06;103#art_2), convertito, con modificazioni, dalla [legge 23 maggio 1983, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-23;230), e successive modificazioni e integrazioni, l'autorizzazione di spesa di lire 70.500 milioni prevista al comma 6 del medesimo articolo 2 e' elevata di lire 41.000 milioni da iscrivere nello stato di previsione del Ministero della marina mercantile per l'anno 1987.
+Per far fronte ai maggiori oneri accertati in sede di concessione delle agevolazioni per l'incentivazione dell'esodo dei lavoratori indicati all'[articolo 2 del decreto-legge 6 aprile 1983, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-04-06;103#art_2), convertito, con modificazioni, dalla [legge 23 maggio 1983, n. 230](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20aprile%201983%20n.%20103%20recante%20misure%20urgenti%20per%20fronteggiare%20la%20situazione%20dei%20porti.md), e successive modificazioni e integrazioni, l'autorizzazione di spesa di lire 70.500 milioni prevista al comma 6 del medesimo articolo 2 e' elevata di lire 41.000 milioni da iscrivere nello stato di previsione del Ministero della marina mercantile per l'anno 1987.
 
 ## Art. 11.
 
@@ -237,11 +237,11 @@ Per il pagamento del contributo di cui al comma 2 sono autorizzati limiti di imp
 
 1.
 
-Dalla data di entrata in vigore del presente decreto e fino al 31 dicembre 1988, per i dipendenti degli enti, delle aziende, delle compagnie e dei gruppi portuali di cui all'articolo 7 non trova applicazione l'[articolo 6 del decreto-legge 22 dicembre 1981, n. 791](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;791#art_6), convertito, con modificazioni, dalla [legge 26 febbraio 1982, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-26;54).
+Dalla data di entrata in vigore del presente decreto e fino al 31 dicembre 1988, per i dipendenti degli enti, delle aziende, delle compagnie e dei gruppi portuali di cui all'articolo 7 non trova applicazione l'[articolo 6 del decreto-legge 22 dicembre 1981, n. 791](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;791#art_6), convertito, con modificazioni, dalla [legge 26 febbraio 1982, n. 54](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%201981%20n.%20791%20recante%20disposizioni%20in%20materia%20previdenziale.md).
 
 2.
 
-E' abrogato il [comma 11 dell'articolo 3 del decreto-legge 6 aprile 1983, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-04-06;103#art_3-com11), convertito, con modificazioni, dalla [legge 23 maggio 1983, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-23;230).
+E' abrogato il [comma 11 dell'articolo 3 del decreto-legge 6 aprile 1983, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-04-06;103#art_3-com11), convertito, con modificazioni, dalla [legge 23 maggio 1983, n. 230](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20aprile%201983%20n.%20103%20recante%20misure%20urgenti%20per%20fronteggiare%20la%20situazione%20dei%20porti.md).
 
 ## Art. 13.
 
@@ -281,7 +281,7 @@ Al fine di favorire il conseguimento di una maggiore efficienza del sistema port
 
 2.
 
-Qualora nel termine indicato nel comma 1 non venga emanato il relativo decreto, l'autorita' preposta alla disciplina del lavoro portuale, in deroga fra le procedure previste dal [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) e relativo regolamento, entro i successivi trenta giorni deve operare una riduzione delle tariffe compensative delle maestranze portuali mediante una riduzione della composizione numerica delle squadre, a parita' di resa, in relazione alla riduzione delle dotazioni organiche definite secondo l'articolo 7.
+Qualora nel termine indicato nel comma 1 non venga emanato il relativo decreto, l'autorita' preposta alla disciplina del lavoro portuale, in deroga fra le procedure previste dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e relativo regolamento, entro i successivi trenta giorni deve operare una riduzione delle tariffe compensative delle maestranze portuali mediante una riduzione della composizione numerica delle squadre, a parita' di resa, in relazione alla riduzione delle dotazioni organiche definite secondo l'articolo 7.
 
 3.
 
@@ -339,7 +339,7 @@ Fino alla data di cui al comma 3 e comunque per un periodo non superiore a due m
 
 5.
 
-Sono abrogati gli articoli 1, ultimo comma, 2, 3 e 4 della [legge 12 agosto 1957, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-08-12;797).
+Sono abrogati gli articoli 1, ultimo comma, 2, 3 e 4 della [legge 12 agosto 1957, n. 797](Modifiche%20del%20regio%20decreto-legge%2014%20marzo%201929%20n.%20503%20convertito%20con%20legge%208%20luglio%201929%20n.%201342%20e%20successive%20modificazioni%20concernente%20lordinamento%20del%20Provveditorato%20al%20porto%20di%20Venezia.md).
 
 ## Art. 18.
 

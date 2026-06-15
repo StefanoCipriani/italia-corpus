@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Nella programmazione annuale dei flussi secondo l'[articolo 2, comma 3, del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_2-com3), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono indicate le possibilita' di impiego per lavoratori stagionali extracomunitari, in considerazione delle disponibilita' accertate tramite i competenti uffici provinciali del lavoro e della massima occupazione e delle previsioni annuali di fabbisogno di manodopera formulate dalle commissioni regionali per l'impiego, in collaborazione con i datori di lavoro e le organizzazioni sindacali per i settori nei quali l'andamento del lavoro sia prevalentemente stagionale.
+Nella programmazione annuale dei flussi secondo l'[articolo 2, comma 3, del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_2-com3), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), sono indicate le possibilita' di impiego per lavoratori stagionali extracomunitari, in considerazione delle disponibilita' accertate tramite i competenti uffici provinciali del lavoro e della massima occupazione e delle previsioni annuali di fabbisogno di manodopera formulate dalle commissioni regionali per l'impiego, in collaborazione con i datori di lavoro e le organizzazioni sindacali per i settori nei quali l'andamento del lavoro sia prevalentemente stagionale.
 
 2.
 
@@ -34,7 +34,7 @@ Hanno accesso a tali possibilita' i cittadini extracomunitari provenienti dai Pa
 
 1.
 
-Il lavoratore stagionale extracomunitario, in possesso del permesso di soggiorno temporaneo per lavori a carattere stagionale previsto dall'[articolo 4, comma 4, del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_4-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), e del relativo visto d'ingresso, puo' soggiornare nel territorio nazionale per tutto il periodo di occupazione e, comunque, per non piu' di sei mesi per anno, al termine del quale egli e' tenuto a lasciare il territorio dello Stato.
+Il lavoratore stagionale extracomunitario, in possesso del permesso di soggiorno temporaneo per lavori a carattere stagionale previsto dall'[articolo 4, comma 4, del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_4-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), e del relativo visto d'ingresso, puo' soggiornare nel territorio nazionale per tutto il periodo di occupazione e, comunque, per non piu' di sei mesi per anno, al termine del quale egli e' tenuto a lasciare il territorio dello Stato.
 
 2.
 
@@ -42,7 +42,7 @@ Il lavoratore stagionale extracomunitario, ove sia documentalmente accertato il 
 
 3.
 
-Il lavoratore stagionale extracomunitario che abbia soggiornato in Italia per due volte consecutive con un permesso di soggiorno temporaneo per lavori a carattere stagionale, in presenza di una documentata offerta di lavoro a tempo indeterminato, puo' ottenere, previa autorizzazione degli uffici provinciali del lavoro e tenuto conto dell'[articolo 2, comma 3, del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_2-com3), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), un permesso di soggiorno della durata di un anno, rinnovabile.
+Il lavoratore stagionale extracomunitario che abbia soggiornato in Italia per due volte consecutive con un permesso di soggiorno temporaneo per lavori a carattere stagionale, in presenza di una documentata offerta di lavoro a tempo indeterminato, puo' ottenere, previa autorizzazione degli uffici provinciali del lavoro e tenuto conto dell'[articolo 2, comma 3, del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_2-com3), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), un permesso di soggiorno della durata di un anno, rinnovabile.
 
 ## Art. 3. — Obblighi del datore di lavoro
 
@@ -73,7 +73,7 @@ I contributi dovuti per l'assicurazione per l'invalidita', la vecchiaia ed i sup
 
 1.
 
-Il lavoratore extracomunitario che non osserva il disposto di cui all'articolo 2, comma 1, e' espulso dal territorio dello Stato secondo le modalita' previste dall'[articolo 7 del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_7), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39).
+Il lavoratore extracomunitario che non osserva il disposto di cui all'articolo 2, comma 1, e' espulso dal territorio dello Stato secondo le modalita' previste dall'[articolo 7 del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_7), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md).
 
 2.
 

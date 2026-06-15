@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I provvedimenti riguardanti le rassegne di rimando speciali o ordinarie, previsti dagli articoli 179, 189 e 196 del regolamento per l'esecuzione della leva marittima, approvato con [R. decreto 9 ottobre 1886, n. 4157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-10-09;4157) (serie 3ª), saranno adottati, senza bisogno di particolare autorizzazione o di delega da parte del Ministero, dai comandanti in capo di dipartimento marittimo, previo parere del locale direttore di sanita'.
+I provvedimenti riguardanti le rassegne di rimando speciali o ordinarie, previsti dagli articoli 179, 189 e 196 del regolamento per l'esecuzione della leva marittima, approvato con [R. decreto 9 ottobre 1886, n. 4157](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20Leva%20marittima.%20086U4157.md) (serie 3ª), saranno adottati, senza bisogno di particolare autorizzazione o di delega da parte del Ministero, dai comandanti in capo di dipartimento marittimo, previo parere del locale direttore di sanita'.
 
 ## Art. 2.
 

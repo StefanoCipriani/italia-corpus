@@ -24,7 +24,7 @@ E M A N A Il seguente decreto-legge:
 
 1.
 
-Al [comma 4 dell'articolo 14 della legge 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412#art_14-com4), sono apportate le seguenti modificazioni, con effetto dal 1' ottobre 1992:
+Al [comma 4 dell'articolo 14 della legge 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md), sono apportate le seguenti modificazioni, con effetto dal 1' ottobre 1992:
                         a)
                             dopo le parole: "alle camere di commercio, industria, artigianato e agricoltura" sono inserite le seguenti: ", nonche' alle cancellerie dei tribunali,";
                         b)
@@ -40,7 +40,7 @@ Le iscrizioni effettuate presso gli sportelli polifunzionali di cui al predetto 
 
 3.
 
-Lo sportello polifunzionale e' coadiuvato da un collegamento telematico tra gli archivi automatizzati dei vari enti, opportunamente integrati attraverso una base comune, che consente l'accesso alle informazioni necessarie a ciascun ente per perfezionare l'atto di iscrizione. Le modalita' tecniche per la realizzazione e la gestione di tale archivio sono definite con il decreto di cui al [comma 4 dell'articolo 14 della legge 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412#art_14-com4).
+Lo sportello polifunzionale e' coadiuvato da un collegamento telematico tra gli archivi automatizzati dei vari enti, opportunamente integrati attraverso una base comune, che consente l'accesso alle informazioni necessarie a ciascun ente per perfezionare l'atto di iscrizione. Le modalita' tecniche per la realizzazione e la gestione di tale archivio sono definite con il decreto di cui al [comma 4 dell'articolo 14 della legge 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md).
 
 ## Art. 2. — Scambio dati attraverso il codice fiscale e acquisizione degli indirizzi
 
@@ -50,7 +50,7 @@ I rapporti tra pubbliche amministrazioni e quelli intercorrenti tra queste e alt
 
 2.
 
-Le disposizioni dell'[articolo 8 del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_8), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359), sono estese a tutte le aziende, istituti, enti e societa' che stipulano contratti di somministrazione e di fornitura di servizi. L'acquisizione del codice fiscale alle anagrafi automatizzate dei vari enti deve essere completata entro il 30 giugno 1993.
+Le disposizioni dell'[articolo 8 del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_8), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20luglio%201992%20n.%20333%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica.md), sono estese a tutte le aziende, istituti, enti e societa' che stipulano contratti di somministrazione e di fornitura di servizi. L'acquisizione del codice fiscale alle anagrafi automatizzate dei vari enti deve essere completata entro il 30 giugno 1993.
 
 3.
 

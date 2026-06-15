@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), che approva il testo unico delle leggi generali e speciali riguardanti la Cassa dei depositi e prestiti e le gestioni annesse;
+Visto il [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), che approva il testo unico delle leggi generali e speciali riguardanti la Cassa dei depositi e prestiti e le gestioni annesse;
 
 Visto il [R. decreto-legge 16 dicembre 1926, n. 2174](Disciplina%20del%20commercio%20di%20vendita%20al%20pubblico.%20026U2174.md), che disciplina il commercio di vendita al pubblico;
 
@@ -50,7 +50,7 @@ Le disposizioni contenute negli articoli precedenti sono estese ai depositi cauz
 
 ## Art. 5.
 
-I diritti di bollo, stabiliti dall'art. 49, lettere a e b della tariffa (allegato A) annessa al testo di legge approvato con [R. decreto 30 dicembre 1923, n. 3268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3268), per le operazioni di tramutamento, di cui agli articoli 1, 3 e 4 del presente decreto, saranno assunti a carico dello Stato.
+I diritti di bollo, stabiliti dall'art. 49, lettere a e b della tariffa (allegato A) annessa al testo di legge approvato con [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), per le operazioni di tramutamento, di cui agli articoli 1, 3 e 4 del presente decreto, saranno assunti a carico dello Stato.
 
 ## Art. 6.
 
@@ -78,7 +78,7 @@ La Cassa dei depositi e prestiti e' autorizzata a riscuotere, per le spese relat
 
 ## Art. 9.
 
-L'art. 17 libro II parte I titolo II del testo unico di leggi sull'amministrazione della Cassa depositi e prestiti e degli Istituti di previdenza, approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), e' modificato come appresso: 
+L'art. 17 libro II parte I titolo II del testo unico di leggi sull'amministrazione della Cassa depositi e prestiti e degli Istituti di previdenza, approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), e' modificato come appresso: 
  
  « La tassa di custodia sugli effetti pubblici depositati e' fissata dall'anno corrente in poi nel modo seguente: 
  

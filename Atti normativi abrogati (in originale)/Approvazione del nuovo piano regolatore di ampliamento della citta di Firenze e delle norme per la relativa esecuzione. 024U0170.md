@@ -136,7 +136,7 @@ L'aumento di valore agli effetti di che all'art. 5 lettera a) s'intende rapprese
 
 ## Art. 10.
 
-Per i mutui che il comune di Firenze dovesse contrarre per la esecuzione del piano regolatore di ampliamento, non saranno applicabili le limitazioni previste dall'art. 191 del vigente testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148).
+Per i mutui che il comune di Firenze dovesse contrarre per la esecuzione del piano regolatore di ampliamento, non saranno applicabili le limitazioni previste dall'art. 191 del vigente testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
 
 ## Art. 11.
 

@@ -14,4 +14,4 @@ N.
 
 1829.
 
-Decreto Luogotenenziale 1° luglio 1917, col quale, sulla proposta del ministro dell'istruzione pubblica, il contributo, che il comune di San Gemignano (Siena) deve versare allo Stato a norma dell'[art. 17 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_17), gia' approvato in L. 11.748,15, e' elevato a L. 12.740,15, a datare dal 1° maggio 1914.
+Decreto Luogotenenziale 1° luglio 1917, col quale, sulla proposta del ministro dell'istruzione pubblica, il contributo, che il comune di San Gemignano (Siena) deve versare allo Stato a norma dell'[art. 17 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), gia' approvato in L. 11.748,15, e' elevato a L. 12.740,15, a datare dal 1° maggio 1914.

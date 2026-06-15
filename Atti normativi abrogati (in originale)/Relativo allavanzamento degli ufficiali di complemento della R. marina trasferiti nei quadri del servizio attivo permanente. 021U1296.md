@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 9 febbraio 1919, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-02-09;261), ed i Regi decreti legge 25 gennaio 1920, 112, e 18 aprile 1920, n. 537, per il trasferimento di ufficiali del Corpo di commissariato militare marittimo dal ruolo di complemento in quello del servizio attivo permanente;
 
-Visto il [R. decreto 10 agosto 1919, n. 1457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-10;1457), per il trasferimento degli ufficiali del Corpo del genio navale dal ruolo di complemento in quello del servizio attivo permanente;
+Visto il [R. decreto 10 agosto 1919, n. 1457](Che%20autorizza%20il%20trasferimento%20dei%20capitani%20e%20tenenti%20di%20complemento%20del%20genio%20navale%20nel%20ruolo%20degli%20ufficiali%20in%20servizio%20effettivo.%20019U1457.md), per il trasferimento degli ufficiali del Corpo del genio navale dal ruolo di complemento in quello del servizio attivo permanente;
 
 Visto il [Regio decreto-legge 14 novembre 1919, numero 2267](Che%20autorizza%20il%20trasferimento%20nel%20ruolo%20del%20servizio%20attivo%20permanente%20di%20ufficiali%20medici%20di%20complemento%20in%20seguito%20a%20concorso%20per%20titoli.%20019U2267.md) per il trasferimento di ufficiali del Corpo sanitario dal ruolo di complemento in quello del servizio attivo permanente;
 

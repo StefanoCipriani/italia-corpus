@@ -52,9 +52,9 @@ Gravano sugli stanziamenti autorizzati con l'art. 1 anche le spese per il funzio
 
 ## Art. 7.
 
-Le indennita' per le espropriazioni eventualmente occorrenti sono determinate dall'Ufficio tecnico erariale competente, nei modi previsti dagli [articoli 39 e seguenti della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_39).
+Le indennita' per le espropriazioni eventualmente occorrenti sono determinate dall'Ufficio tecnico erariale competente, nei modi previsti dagli [articoli 39 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
  L'Ufficio tecnico erariale comunica al prefetto ed alla Amministrazione espropriante l'indennita' fissata.
- La stima effettuata dall'Ufficio tecnico erariale sostituisce a tutti gli effetti la perizia giudiziale prevista dall'[art. 32 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_32).
+ La stima effettuata dall'Ufficio tecnico erariale sostituisce a tutti gli effetti la perizia giudiziale prevista dall'[art. 32 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
 
 ## Art. 8.
 

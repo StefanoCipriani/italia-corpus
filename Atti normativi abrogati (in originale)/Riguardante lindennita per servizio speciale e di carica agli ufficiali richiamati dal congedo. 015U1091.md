@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'indennita' per servizio speciale stabilita dal n. 11 della [legge 6 luglio 1908, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-06;362), spetta, in misura eguale a quella stabilita per gli ufficiali del corpo sanitario, e sempre che non percepiscano razioni foraggio: 
+L'indennita' per servizio speciale stabilita dal n. 11 della [legge 6 luglio 1908, n. 362](Concernente%20le%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20R.%20esercito%20al%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20R.%20esercito%20e%20dei%20servizi%20dipendenti_649e63eb1093.md), spetta, in misura eguale a quella stabilita per gli ufficiali del corpo sanitario, e sempre che non percepiscano razioni foraggio: 
  
  a) in tempo di pace, agli ufficiali di cavalleria, di artiglieria o del genio richiamati dalla posizione ausiliaria per prestare servizi propri dell'arma rispettiva o pei quali si richiedano le cognizioni speciali tecniche delle armi a cavallo; 
  
@@ -26,7 +26,7 @@ Agli ufficiali dell'arma dei carabinieri reali richiamati dal congedo spetta l'i
 
 L'indennita' di carica spetta agli ufficiali richiamati dal congedo: 
  
- a) nella misura stabilita dalla tabella I annessa al [R. decreto 23 maggio 1915, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;677), quando hanno diritto agli assegni di guerra o ricoprono cariche previste nella formazione di guerra o nelle lettere a) ad h) della tabella IV annessa al testo unico delle leggi sugli stipendi ed assegni fissi pel R. esercito o nel § 63 del relativo regolamento; 
+ a) nella misura stabilita dalla tabella I annessa al [R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), quando hanno diritto agli assegni di guerra o ricoprono cariche previste nella formazione di guerra o nelle lettere a) ad h) della tabella IV annessa al testo unico delle leggi sugli stipendi ed assegni fissi pel R. esercito o nel § 63 del relativo regolamento; 
  
  b) nella misura stabilita dalla detta tabella IV, quando non hanno diritto agli assegni di guerra e ricoprono cariche previste nelle lettere a) ad h) della tabella stessa o nel § 63 del su citato regolamento. 
  

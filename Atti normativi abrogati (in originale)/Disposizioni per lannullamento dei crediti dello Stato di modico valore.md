@@ -25,7 +25,7 @@ b) i crediti dello Stato d'importo non superiore a lire 500 per sorte capitale, 
 
 ## Art. 4.
 
-La presente legge non si applica alle pene pecuniarie della multa e dell'ammenda, previste dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e da leggi speciali, ed ai debiti di imposte per i quali rimangono ferme le relative norme di riscossione.
+La presente legge non si applica alle pene pecuniarie della multa e dell'ammenda, previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e da leggi speciali, ed ai debiti di imposte per i quali rimangono ferme le relative norme di riscossione.
 
 ## Art. 5. — null
 

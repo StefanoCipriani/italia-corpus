@@ -24,13 +24,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'art. 38 del testo unico sull'Amministrazione e su la contabilita' generale dello Stato approvato con [R. decreto 17 febbraio 1884 n. 20164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;20164); 
  
- Visto l'art. 51 del regolamento approvato con [Regio decreto 16 maggio 1912, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;556), per la gestione amministrativa e contabile del Fondo per l'emigrazione; 
+ Visto l'art. 51 del regolamento approvato con [Regio decreto 16 maggio 1912, n. 556](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20del%20Fondo%20per%20lemigrazione.%20012U0556.md), per la gestione amministrativa e contabile del Fondo per l'emigrazione; 
  
  Ritenuta le necessita' di aumentare gli stanziamenti di alcuni capitoli dello stato di previsione della spesa del Fondo per l'emigrazione per l'esercizio 1917-918; 
  
  Ritenuto che il Fondo di riserva per le spese impreviste stanziato nel bilancio del Fondo per l'emigrazione per il corrente esercizio finanziario presenta una disponibilita' di L. 77,700; 
  
- Vista la [legge 3 gennaio 1918, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-01-03;4), che proroga lo esercizio provvisorio degli stati di previsione dell'entrata e della spesa del Fondo per l'emigrazione per l'esercizio finanziario 1917-918 sino a che gli stati stessi non sieno approvati per legge; 
+ Vista la [legge 3 gennaio 1918, n. 4](Che%20proroga%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20del%20fondo%20dellemigrazione%20per%20lesercizio%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20siano%20app_d21241b81663.md), che proroga lo esercizio provvisorio degli stati di previsione dell'entrata e della spesa del Fondo per l'emigrazione per l'esercizio finanziario 1917-918 sino a che gli stati stessi non sieno approvati per legge; 
  
  Sentita la Commissone parlamentare di vigilanza sul Fondo per l'emigrazione; 
  

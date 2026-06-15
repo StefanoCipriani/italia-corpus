@@ -16,8 +16,8 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'Istituto nazionale di Credito per il Lavoro italiano all'Estero (I.C.L.E.) di cui al [regio decreto-legge 15 dicembre 1923, n. 3148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-15;3148), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive integrazioni e modificazioni, e' autorizzato a concedere finanziamenti e ad eseguire tutte le operazioni previste dalla presente legge per favorire lo sviluppo della emigrazione italiana all'estero.
- Avvalendosi dei mezzi di cui ai successivi articoli i finanziamenti previsti dal precedente comma saranno concessi in conformita' delle norme di cui al cennato [regio decreto-legge 15 dicembre 1923, n. 3148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-15;3148), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive integrazioni e modificazioni.
+L'Istituto nazionale di Credito per il Lavoro italiano all'Estero (I.C.L.E.) di cui al [regio decreto-legge 15 dicembre 1923, n. 3148](Costituzione%20di%20un%20Istituto%20nazionale%20di%20credito%20per%20il%20lavoro%20italiano%20allestero.%20023U3148.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive integrazioni e modificazioni, e' autorizzato a concedere finanziamenti e ad eseguire tutte le operazioni previste dalla presente legge per favorire lo sviluppo della emigrazione italiana all'estero.
+ Avvalendosi dei mezzi di cui ai successivi articoli i finanziamenti previsti dal precedente comma saranno concessi in conformita' delle norme di cui al cennato [regio decreto-legge 15 dicembre 1923, n. 3148](Costituzione%20di%20un%20Istituto%20nazionale%20di%20credito%20per%20il%20lavoro%20italiano%20allestero.%20023U3148.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive integrazioni e modificazioni.
 
 ## Art. 2.
 
@@ -52,7 +52,7 @@ Al 31 dicembre 1975 i crediti ed in genere ogni attivita' di compendio della sep
 
 ## Art. 8.
 
-Alle operazioni di finanziamento effettuate ai sensi della presente legge sono estese le esenzioni ed agevolazioni fiscali previste dall'[art. 9 del regio decreto-legge 15 dicembre 1923, n. 3148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-15;3148#art_9).
+Alle operazioni di finanziamento effettuate ai sensi della presente legge sono estese le esenzioni ed agevolazioni fiscali previste dall'[art. 9 del regio decreto-legge 15 dicembre 1923, n. 3148](Costituzione%20di%20un%20Istituto%20nazionale%20di%20credito%20per%20il%20lavoro%20italiano%20allestero.%20023U3148.md).
  Le disposizioni di cui al precedente comma non riflettono l'imposta generale sull'entrata.
 
 ## Art. 9.

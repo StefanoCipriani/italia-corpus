@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DEL TESORO
 
-Visto l'allegato I, approvato con l'[articolo 11 della legge 22 luglio 1894, n. 339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339#art_11), che autorizza la emissione di 200 milioni in biglietti di Stato contro immobilizzazione di altrettanta somma in specie d'oro messe a disposizione del Tesoro dagli Istituti d'emissione;
+Visto l'allegato I, approvato con l'[articolo 11 della legge 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md), che autorizza la emissione di 200 milioni in biglietti di Stato contro immobilizzazione di altrettanta somma in specie d'oro messe a disposizione del Tesoro dagli Istituti d'emissione;
 
 Sentita la Commissione permanente per la vigilanza sulla circolazione e sugli Istituti d'emissione; Determina:
 

@@ -16,11 +16,11 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visti il [R. decreto-legge 11 ottobre 1934, n. 1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-11;1948), convertito in [legge 4 aprile 1935, n. 911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;911), con il quale sono state approvate le Condizioni e tariffe per il trasporto dello persone sulle Ferrovie dello Stato e stabilite le norme per l'approvazione delle modificazioni di prezzi e condizioni delle tariffe e successive modificazioni al decreto stesso;
+Visti il [R. decreto-legge 11 ottobre 1934, n. 1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-11;1948), convertito in [legge 4 aprile 1935, n. 911](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20ottobre%201934%20n.%201948%20concernente%20lapprovazione%20di%20nuove%20Condizioni%20e%20tariffe%20per%20il%20trasporto%20delle%20persone%20sulle%20ferrovie%20dello%20Stato.%20035U0911.md), con il quale sono state approvate le Condizioni e tariffe per il trasporto dello persone sulle Ferrovie dello Stato e stabilite le norme per l'approvazione delle modificazioni di prezzi e condizioni delle tariffe e successive modificazioni al decreto stesso;
 
 Visto l'[art. 8, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto-legge 9 ottobre 1919, n. 2159](Che%20stabilisce%20laumento%20delle%20tariffe%20ferroviarie.%20019U2159.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge 9 ottobre 1919, n. 2159](Che%20stabilisce%20laumento%20delle%20tariffe%20ferroviarie.%20019U2159.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto il [R. decreto-legge 27 marzo 1910, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1910-03-27;211);
 

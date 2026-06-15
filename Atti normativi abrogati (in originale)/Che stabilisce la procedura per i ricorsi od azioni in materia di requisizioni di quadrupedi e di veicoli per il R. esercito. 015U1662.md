@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-In forza dei poteri straordinari conferiti al Governo del Re dalla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In forza dei poteri straordinari conferiti al Governo del Re dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Vista la [legge 22 giugno 1913, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;693) sulle requisizioni di quadrupedi e veicoli per il R. esercito;
+Vista la [legge 22 giugno 1913, n. 693](Concernente%20la%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20R.%20esercito.%20013U0693.md) sulle requisizioni di quadrupedi e veicoli per il R. esercito;
 
 Sulla proposta del ministro segretario di Stato per gli affari della guerra, di concerto coi ministri degli interni, di agricoltura, industria e commercio, e di grazia e giustizia e dei culti;
 
@@ -30,7 +30,7 @@ Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Qualsiasi ricorso od azione in materia di requisizioni di quadrupedi e veicoli di ogni specie per il R. esercito, che si eseguissero, durante il periodo della guerra, in base alla [legge 22 giugno 1913, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;693), non sara' ricevibile quando sia trascorso il termine di giorni novanta da quello in cui la requisizione avvenne. 
+Qualsiasi ricorso od azione in materia di requisizioni di quadrupedi e veicoli di ogni specie per il R. esercito, che si eseguissero, durante il periodo della guerra, in base alla [legge 22 giugno 1913, n. 693](Concernente%20la%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20R.%20esercito.%20013U0693.md), non sara' ricevibile quando sia trascorso il termine di giorni novanta da quello in cui la requisizione avvenne. 
  
  Per i ricorsi od azioni che si intendesse di far valere tuttora in merito alle requisizioni eseguite anteriormente alla data del presente decreto e' stabilito il termine di giorni quaranta decorrenti dalla data medesima.
 

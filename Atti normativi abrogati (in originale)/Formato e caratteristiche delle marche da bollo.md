@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 dicembre 1923, n. 3268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3268), che approva il testo della legge del bollo, e successive modificazioni;
+Visto il [regio decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo della legge del bollo, e successive modificazioni;
 
-Visto il [regio decreto-legge 11 maggio 1942, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-05-11;501), convertito, con modificazioni, nella 26 novembre 1942, n. 1428;
+Visto il [regio decreto-legge 11 maggio 1942, n. 501](Provvedimenti%20in%20materia%20di%20tasse%20di%20bollo.%20042U0501.md), convertito, con modificazioni, nella 26 novembre 1942, n. 1428;
 
 Visto il [decreto legislativo luogotenenziale 1° marzo 1945, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;80);
 

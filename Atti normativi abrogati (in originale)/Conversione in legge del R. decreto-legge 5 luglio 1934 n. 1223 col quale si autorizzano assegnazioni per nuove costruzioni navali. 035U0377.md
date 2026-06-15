@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1223), concernente autorizzazione di spese straordinarie per nuove costruzioni navali. 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1223](Autorizzazione%20di%20spese%20straordinarie%20per%20nuove%20costruzioni%20navali.%20034U1223.md), concernente autorizzazione di spese straordinarie per nuove costruzioni navali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

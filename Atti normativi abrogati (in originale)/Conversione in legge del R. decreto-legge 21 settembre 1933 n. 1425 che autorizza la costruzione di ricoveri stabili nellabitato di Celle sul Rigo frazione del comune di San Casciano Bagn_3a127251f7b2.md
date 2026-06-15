@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 settembre 1933, n. 1425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-21;1425), che autorizza la costruzione di ricoveri stabili nell'abitato di Celle sul Rigo, frazione del comune di San Casciano Bagni, in provincia di Siena. 
+ E' convertito in legge il [R. decreto-legge 21 settembre 1933, n. 1425](Costruzione%20di%20ricoveri%20stabili%20nellabitato%20di%20Celle%20sul%20Rigo%20in%20comune%20di%20San%20Casciano%20Bagni.%20033U1425.md), che autorizza la costruzione di ricoveri stabili nell'abitato di Celle sul Rigo, frazione del comune di San Casciano Bagni, in provincia di Siena. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

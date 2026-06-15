@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 14 ottobre 1926, n. 1835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;1835), concernente l'ordinamento del Consiglio superiore delle miniere, modificato con [regio decreto-legge 6 gennaio 1936, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-01-06;94), e con [regio decreto-legge 21 novembre 1938, n. 1864](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-21;1864);
+Visto il [regio decreto 14 ottobre 1926, n. 1835](Ordinamento%20del%20Consiglio%20superiore%20delle%20miniere.%20026U1835.md), concernente l'ordinamento del Consiglio superiore delle miniere, modificato con [regio decreto-legge 6 gennaio 1936, n. 94](Ordinamento%20del%20Consiglio%20superiore%20delle%20miniere.%20036U0094.md), e con [regio decreto-legge 21 novembre 1938, n. 1864](Modificazioni%20alla%20composizione%20del%20Consiglio%20superiore%20delle%20miniere.%20038U1864.md);
 
-Vista la [legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100);
+Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Vista la [legge 4 settembre 1940, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-04;1547);
+Vista la [legge 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Udito il parere del Consiglio di Stato;
 

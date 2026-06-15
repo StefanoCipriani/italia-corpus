@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 luglio 1931, n. 982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-29;982), portante modificazioni al regime doganale dei derivati dell'azoto. 
+ E' convertito in legge il [R. decreto-legge 29 luglio 1931, n. 982](Modificazione%20del%20regime%20doganale%20dei%20derivati%20dellazoto.%20031U0982.md), portante modificazioni al regime doganale dei derivati dell'azoto. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 10 gennaio 1932 - Anno X 
  

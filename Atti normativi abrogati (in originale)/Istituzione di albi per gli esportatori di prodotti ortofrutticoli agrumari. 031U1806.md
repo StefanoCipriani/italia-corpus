@@ -18,7 +18,7 @@ Presso ciascun Consiglio provinciale della economia e' istituito un «Albo per g
 
 La domanda di iscrizione dovra' essere corredata dai seguenti documenti: 
  a) certificato di iscrizione nel registro delle ditte presso il Consiglio provinciale dell'economia, per coloro pei quali tale iscrizione sia obbligatoria; 
- b) licenza di commercio di cui al [R. decreto-legge 16 dicembre 1926, n. 2174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2174), per coloro pei quali tale licenza sia obbligatoria; 
+ b) licenza di commercio di cui al [R. decreto-legge 16 dicembre 1926, n. 2174](Disciplina%20del%20commercio%20di%20vendita%20al%20pubblico.%20026U2174.md), per coloro pei quali tale licenza sia obbligatoria; 
  c) certificato generale del casellario giudiziale - di data non anteriore ai tre mesi dalla data della domanda di iscrizione - del capo della ditta o del presidente della societa' cooperativa o del rappresentante dell'ente raggruppante produttori esportatori; 
  d) certificato del Consiglio provinciale dell'economia, per coloro che siano gia' commercianti, dal quale risulti che il richiedente non e' incorso in dichiarazione di fallimento; 
  e) certificato dell'Istituto nazionale per l'esportazione per coloro che siano autorizzati all'uso del marchio ai sensi della [legge 23 giugno 1927, n. 1272](Provvedimento%20relativo%20alla%20istituzione%20di%20un%20marchio%20nazionale%20per%20i%20prodotti%20ortifrutticoli%20diretti%20allestero.%20027U1272.md); 
@@ -71,7 +71,7 @@ I produttori che esportano solo occasionalmente i prodotti delle proprie aziende
 Presso ogni Consiglio provinciale dell'economia e' istituita una Commissione composta di quattro rappresentanti nominati dal Consiglio stesso - di cui due su designazione delle organizzazioni sindacali del commercio e due su designazione delle organizzazioni sindacali dell'agricoltura - e da un magistrato, di grado non inferiore a giudice di tribunale, il quale avra' le funzioni di presidente della Commissione. 
  I componenti della Commissione durano in carica due anni e possono essere riconfermati. 
  La Commissione giudichera' sulle domande di iscrizione e di reiscrizione all'Albo, ai sensi degli articoli 1, 2, 3, 4 ed 11 della presente legge. 
- Non potra' mai essere consentita la iscrizione nell'Albo degli esportatori di chi, nel decennio precedente alla domanda di iscrizione, sia stato condannato per bancarotta fraudolenta o per alcuno dei reati previsti nei titoli 3, 6 e 10 del libro secondo del [Codice penale e nell'art. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_319) del Codice stesso. Il condannato per bancarotta semplice non potra' essere iscritto se non sono trascorsi almeno tre anni dalla condanna.
+ Non potra' mai essere consentita la iscrizione nell'Albo degli esportatori di chi, nel decennio precedente alla domanda di iscrizione, sia stato condannato per bancarotta fraudolenta o per alcuno dei reati previsti nei titoli 3, 6 e 10 del libro secondo del [Codice penale e nell'art. 319](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Codice stesso. Il condannato per bancarotta semplice non potra' essere iscritto se non sono trascorsi almeno tre anni dalla condanna.
 
 ## Art. 9.
 

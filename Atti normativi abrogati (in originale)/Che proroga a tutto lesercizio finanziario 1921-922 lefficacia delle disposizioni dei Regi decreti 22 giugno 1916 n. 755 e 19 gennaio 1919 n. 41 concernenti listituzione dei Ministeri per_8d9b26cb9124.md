@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- L'efficacia delle disposizioni del [Regi decreti 22 giugno 1916, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1916-06-22;755) e [19 gennaio 1919, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-01-19;41), concernenti l'istituzione dei Ministeri per l'industria, il commercio e il lavoro - diviso nei due Ministeri per l'industria e il commercio e per il lavoro e la previdenza sociale col [R. decreto 3 giugno 1920, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-03;700) - e per le terre liberate dal nemico, e' prorogata a tutto l'esercizio finanziario 1921-922. 
+ L'efficacia delle disposizioni del [Regi decreti 22 giugno 1916, n. 755](Concernente%20listituzione%20del%20Ministero%20dellindustria%20del%20commercio%20e%20del%20lavoro.%20016U0755.md) e [19 gennaio 1919, n. 41](Col%20quale%20per%20la%20durata%20della%20guerra%20e%20fino%20ad%20un%20anno%20dopo%20la%20pubblicazione%20della%20pace%20e%20istituito%20il%20Ministero%20per%20le%20terre%20liberate%20dal%20nemico.%20019U0041.md), concernenti l'istituzione dei Ministeri per l'industria, il commercio e il lavoro - diviso nei due Ministeri per l'industria e il commercio e per il lavoro e la previdenza sociale col [R. decreto 3 giugno 1920, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-03;700) - e per le terre liberate dal nemico, e' prorogata a tutto l'esercizio finanziario 1921-922. 
  
  Questo decreto sara' presentato al Parlamento per essere convertito in legge ed entrera' in vigore nel giorno stesso della sua pubblicazione nella Gazzetta ufficiale del Regno. 
  

@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 6 luglio 1911, n. 763, 22 giugno 1913, n. 765, e 1° aprile 1915, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;448);
+Viste le [leggi 6 luglio 1911, n. 763, 22 giugno 1913, n. 765, e 1° aprile 1915, n. 448](Che%20reca%20provvedimenti%20per%20la%20sistemazione%20economica-finanziaria%20delleritrea.%20015U0448.md);
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per le colonie, di concerto con 
 
 ## Art. 1.
 
-In aggiunta ai fondi assegnati con le [leggi del 6 luglio 1911, n. 763, del 22 giugno 1913, n. 765, del 1° aprile 1915, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;448), la Cassa dei depositi e prestiti e' autorizzata ad anticipare al tesoro dello Sato, a rate, in conformita' dell'unita tabella A, la somma di lire 24.000.000 per completare la costruzione e la dotazione di materiale di trazione e rotabile occorrente pei tronchi di ferrovia Asmara-Cheren, Cheren-Agordat, Agordat- Setit. 
+In aggiunta ai fondi assegnati con le [leggi del 6 luglio 1911, n. 763, del 22 giugno 1913, n. 765, del 1° aprile 1915, n. 448](Che%20reca%20provvedimenti%20per%20la%20sistemazione%20economica-finanziaria%20delleritrea.%20015U0448.md), la Cassa dei depositi e prestiti e' autorizzata ad anticipare al tesoro dello Sato, a rate, in conformita' dell'unita tabella A, la somma di lire 24.000.000 per completare la costruzione e la dotazione di materiale di trazione e rotabile occorrente pei tronchi di ferrovia Asmara-Cheren, Cheren-Agordat, Agordat- Setit. 
  
  La Cassa dei depositi e prestiti e' altresi' autorizzata ad anticipare al tesoro dello Stato, a rate, in conformita' dell'unita tabella B, la somma di lire 2.000.000 occorrente per la sistemazione della ferrovia Asmara-Massaua.
 

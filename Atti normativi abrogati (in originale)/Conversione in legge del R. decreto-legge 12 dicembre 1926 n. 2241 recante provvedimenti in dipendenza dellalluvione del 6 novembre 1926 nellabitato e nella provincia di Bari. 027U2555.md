@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-12;2241), recante provvedimenti in dipendenza dell'alluvione del 6 novembre 1926 nell'abitato e nella provincia di Bari. 
+ E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2241](Provvedimenti%20in%20dipendenza%20dellalluvione%20del%206%20novembre%201926%20nellabitato%20e%20nella%20provincia%20di%20Bari.%20026U2241.md), recante provvedimenti in dipendenza dell'alluvione del 6 novembre 1926 nell'abitato e nella provincia di Bari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

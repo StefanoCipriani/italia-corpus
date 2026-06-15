@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [R. decreto 11 maggio 1893 n. 253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-05-11;253), con cui fu stabilito che fossero fatti a spesa dello Stato i funerali del compianto comm.
+Il [R. decreto 11 maggio 1893 n. 253](Che%20dispone%20siano%20fatti%20a%20carico%20dello%20Stato%20i%20funerali%20del%20comm.%20Federico%20Seismit-Doda.%20093U0253.md), con cui fu stabilito che fossero fatti a spesa dello Stato i funerali del compianto comm.
 Federico Seismit-Doda, gia' deputato al Parlamento e gia' Ministro delle Finanze, e' convertito in legge.
 
 ## Art. 2.

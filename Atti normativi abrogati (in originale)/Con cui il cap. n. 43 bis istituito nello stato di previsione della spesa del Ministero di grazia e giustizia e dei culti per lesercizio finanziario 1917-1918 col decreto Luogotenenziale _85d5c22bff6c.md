@@ -20,11 +20,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D' ITALIA 
  
- In virtu' dell'autorita' a Noi delegata, e dei poteri straordinari conferiti al Governo con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata, e dei poteri straordinari conferiti al Governo con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Visto il [decreto Luogotenenziale 23 agosto 1917, n. 1495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-23;1495); 
  
- Vista la [legge 28 ottobre 1917, n. 1751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-10-28;1751); 
+ Vista la [legge 28 ottobre 1917, n. 1751](Relativa%20alla%20proroga%20dellesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lanno%201917-918%20fino%20a%20quando%20non%20sieno%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicemb_ad80283e5b0f.md); 
  
  Udito il Consiglio dei ministri; 
  

@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a noi delegata; 
  
- Veduto il [R. decreto 3 agosto 1908, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-08-03;577), e l'altro [R. decreto 7 marzo 1909, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-03-07;505); 
+ Veduto il [R. decreto 3 agosto 1908, n. 577](Che%20estende%20alla%20provincia%20dAquila%20e%20a%20parte%20di%20quella%20di%20Perugia%20sulla%20sinistra%20del%20Tevere%20la%20sopraintendenza%20sugli%20scavi%20e%20musei%20di%20Roma%20008U0577.md), e l'altro [R. decreto 7 marzo 1909, n. 505](Che%20ripartisce%20i%20servizi%20archeologici%20dellAbbruzzo%20aquilano%20e%20quelli%20di%20Roma%20e%20del%20Lazio.%20009U0505.md); 
  
  Riconosciuta la necessita' di addivenire dell'unificazione dei servizi archeologici delle provincie di Roma e Aquila, del Lazio antico, dell'Umbria alla sinistra del Tevere e dell'Etruria suburbicaria; 
  

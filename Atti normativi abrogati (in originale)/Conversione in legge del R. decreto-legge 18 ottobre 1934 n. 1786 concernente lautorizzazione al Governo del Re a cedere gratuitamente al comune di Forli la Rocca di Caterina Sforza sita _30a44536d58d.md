@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 ottobre 1934, n. 1786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-18;1786), pubblicato nella Gazzetta Ufficiale del 13 novembre 1934, n. 266. concernente l'autorizzazione al Governo del Re a cedere gratuitamente al Comune di Forli' la Rocca di Caterina Sforza sita in detta citta'. 
+ E' convertito in legge il [R. decreto-legge 18 ottobre 1934, n. 1786](Autorizzazione%20al%20Governo%20del%20Re%20a%20cedere%20gratuitamente%20al%20comune%20di%20Forli%20la%20Rocca%20di%20Caterina%20Sforza%20sita%20in%20detta%20citta.%20034U1786.md), pubblicato nella Gazzetta Ufficiale del 13 novembre 1934, n. 266. concernente l'autorizzazione al Governo del Re a cedere gratuitamente al Comune di Forli' la Rocca di Caterina Sforza sita in detta citta'. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

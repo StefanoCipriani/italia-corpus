@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 luglio 1934, n. 1256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-12;1256), contenente disposizioni per la liquidazione del disciolto Consorzio obbligatorio per l'industria zolfifera siciliana in Palermo, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 12 luglio 1934, n. 1256](Disposizioni%20per%20la%20liquidazione%20del%20disciolto%20Consorzio%20obbligatorio%20per%20lindustria%20zolfifera%20siciliana%20in%20Palermo.%20034U1256.md), contenente disposizioni per la liquidazione del disciolto Consorzio obbligatorio per l'industria zolfifera siciliana in Palermo, con la seguente modificazione: 
  
  All'art. 1, alle parole: «di concerto con il Ministro per le finanze e con il Ministro per la grazia e giustizia », sono sostituite le seguenti: « di concerto con il Ministro per le finanze, con il Ministro per l'agricoltura e le foreste e con il Ministro per la grazia e giustizia ». 
  

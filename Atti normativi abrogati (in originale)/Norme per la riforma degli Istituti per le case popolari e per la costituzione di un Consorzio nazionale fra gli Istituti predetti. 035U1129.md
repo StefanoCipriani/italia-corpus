@@ -20,7 +20,7 @@ Con decreto Reale potra' essere costituito in ciascun capoluogo di provincia un 
 
 Nei capoluoghi di provincia ove gia' esistono Enti o Istituti autonomi per le case popolari, questi, con decreto del Ministro per i lavori pubblici, saranno riconosciuti come Istituti autonomi provinciali. 
  
- Del pari il Ministro per i lavori pubblici, con suo decreto, potra' riconoscere come sezioni locali degli Istituti provinciali, gli Enti od Istituti autonomi per case popolari che gia' esistano in altri comuni della rispettiva circoscrizione, salvo che essi non abbiano sufficienti attivita' per far fronte ai loro debiti, nel qual caso saranno invece messi in liquidazione coatta ai sensi dell'[art. 10 del R. decreto-legge 29 dicembre 1927, n. 2655](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-29;2655#art_10). 
+ Del pari il Ministro per i lavori pubblici, con suo decreto, potra' riconoscere come sezioni locali degli Istituti provinciali, gli Enti od Istituti autonomi per case popolari che gia' esistano in altri comuni della rispettiva circoscrizione, salvo che essi non abbiano sufficienti attivita' per far fronte ai loro debiti, nel qual caso saranno invece messi in liquidazione coatta ai sensi dell'[art. 10 del R. decreto-legge 29 dicembre 1927, n. 2655](Disposizioni%20sugli%20istituti%20per%20case%20popolari.%20027U2655.md). 
  
  Col decreto di riconoscimento degli Istituti provinciali sara' provveduto altresi' all'approvazione del nuovo statuto organico, il quale, salvo gli emendamenti o le aggiunte che si rendessero necessari in rapporto alle particolari esigenze locali e condizioni di ciascun Istituto, dovra' riportare le norme fondamentali di uno statuto-tipo da emanarsi con decreto Reale su proposta del Ministro per i lavori pubblici.
 
@@ -68,7 +68,7 @@ Con decreto Reale, da emanarsi su proposta del Ministro per i lavori pubblici, d
  
  Con lo stesso decreto Reale di costituzione del predette Consorzio sara' provveduto al suo ordinamento ed alla determinazione delle sue funzioni e dei rapporti di esso sia con lo Stato sia con i singoli Enti consorziati. 
  
- Dalla data di costituzione del Consorzio medesimo cessera' di esistere la Commissione di cui all'[art. 11 del R. decreto-legge 10 marzo 1926, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-10;386#art_11).
+ Dalla data di costituzione del Consorzio medesimo cessera' di esistere la Commissione di cui all'[art. 11 del R. decreto-legge 10 marzo 1926, n. 386](Provvedimenti%20per%20la%20costruzione%20di%20case%20popolari.%20026U0386.md).
 
 ## Art. 9.
 

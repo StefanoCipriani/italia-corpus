@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vedute le tabelle delle circoscrizioni elettorali, annesse al testo unico sopracitato; 
  
- Visto il [R. decreto 29 maggio 1913, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-05-29;898), col quale gli elettori politici del comune di Lei, nel collegio di Ozieri, vennero aggregati alla sezione elettorale di Silanus; 
+ Visto il [R. decreto 29 maggio 1913, n. 898](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20Comuni%20della%20provincia%20di%20Sassari.%20013U0898.md), col quale gli elettori politici del comune di Lei, nel collegio di Ozieri, vennero aggregati alla sezione elettorale di Silanus; 
  
  Vista la deliberazione 12 gennaio 1919 della Commissione elettorale del comune di Lei, che approvando la nuova lista per l'anno 1919 chiede la costituzione di quel Comune in sezione autonoma; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' revocato il citato [R. decreto 29 maggio 1913, numero 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-05-29;898), in quanto esso disponeva che gli elettori del comune di Lei fossero aggregati alla sezione elettorale di Silanus. 
+ E' revocato il citato [R. decreto 29 maggio 1913, numero 898](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20Comuni%20della%20provincia%20di%20Sassari.%20013U0898.md), in quanto esso disponeva che gli elettori del comune di Lei fossero aggregati alla sezione elettorale di Silanus. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

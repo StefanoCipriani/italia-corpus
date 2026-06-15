@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 febbraio 1926, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-07;183), concernente l'estensione al personale delle societa' esercenti servizi automobilistici delle agevolazioni, gia' concesse al personale delle aziende esercenti pubblici servizi di trasporto. 
+ E' convertito in legge il [R. decreto-legge 7 febbraio 1926, n. 183](Tassazione%20delle%20mercedi%20degli%20operai%20delle%20societa%20esercenti%20servizi%20pubblici%20automobilistici.%20026U0183.md), concernente l'estensione al personale delle societa' esercenti servizi automobilistici delle agevolazioni, gia' concesse al personale delle aziende esercenti pubblici servizi di trasporto. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

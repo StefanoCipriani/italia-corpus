@@ -28,11 +28,11 @@ I medicinali appartenenti alle classi
                         a)
                             e
                         b)
-                            dell'[articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com10), devono essere in commercio in confezioni in grado di assicurare l'ottimale soddisfacimento delle esigenze terapeutiche, evitando la dispersione di risorse, in conformita' dei criteri riportati nell'allegato al presente decreto.
+                            dell'[articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), devono essere in commercio in confezioni in grado di assicurare l'ottimale soddisfacimento delle esigenze terapeutiche, evitando la dispersione di risorse, in conformita' dei criteri riportati nell'allegato al presente decreto.
 
 2.
 
-Entro il 15 dicembre 1995 le imprese titolari di autorizzazione all'immissione in commercio di medicinali collocati nelle classi di cui alle lettere a), anche con limitazione all'uso ospedaliero, e b) dell'[articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com10), devono presentare domanda diretta a ottenere modifiche delle confezioni autorizzate o nuove confezioni conformi ai criteri dell'allegato di cui al comma 1. Entro lo stesso termine, le imprese interessate devono inviare al Ministero della sanita', per ogni medicinale che risulta in commercio in una confezione gia' conforme ai predetti criteri, sintetica comunicazione dimostrativa di tale conformita'. I prezzi delle nuove confezioni debbono essere proporzionalmente allineati a quelli delle confezioni da sostituire.
+Entro il 15 dicembre 1995 le imprese titolari di autorizzazione all'immissione in commercio di medicinali collocati nelle classi di cui alle lettere a), anche con limitazione all'uso ospedaliero, e b) dell'[articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), devono presentare domanda diretta a ottenere modifiche delle confezioni autorizzate o nuove confezioni conformi ai criteri dell'allegato di cui al comma 1. Entro lo stesso termine, le imprese interessate devono inviare al Ministero della sanita', per ogni medicinale che risulta in commercio in una confezione gia' conforme ai predetti criteri, sintetica comunicazione dimostrativa di tale conformita'. I prezzi delle nuove confezioni debbono essere proporzionalmente allineati a quelli delle confezioni da sostituire.
 
 3.
 
@@ -60,11 +60,11 @@ In caso di farmaci innovativi per i quali non sia disponibile il prezzo medio eu
 
 1.
 
-I limiti di spesa previsti dall'[articolo 7, commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_7-com4) e [5, della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_7-com5), sono riferiti a ciascuna regione in proporzione alla popolazione residente.
+I limiti di spesa previsti dall'[articolo 7, commi 4](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md) e [5, della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), sono riferiti a ciascuna regione in proporzione alla popolazione residente.
 
 2.
 
-L'onere a carico del Servizio sanitario nazionale per l'assistenza farmaceutica previsto dall'[articolo 7, comma 4, della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_7-com4), e' rideterminato in lire 9.700 miliardi.
+L'onere a carico del Servizio sanitario nazionale per l'assistenza farmaceutica previsto dall'[articolo 7, comma 4, della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), e' rideterminato in lire 9.700 miliardi.
 
 3.
 

@@ -14,7 +14,7 @@ Le confraternite, confraterie, congreghe, congregazioni romane o qualunque altro
  
  La domanda al Governo del Re dovra' essere presentata entro un mese dalla pubblicazione della presente legge. 
  
- Il Governo del Re provvedera' in sede amministrativa, e contro il suo provvedimento sara' ammesso ricorso straordinario al Re, udito il Consiglio di Stato, a termini dell'articolo 12, n. 4, della legge coordinata in testo unico con [Regio decreto 2 giugno 1889, n. 6166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-06-02;6166), serie 3ª. 
+ Il Governo del Re provvedera' in sede amministrativa, e contro il suo provvedimento sara' ammesso ricorso straordinario al Re, udito il Consiglio di Stato, a termini dell'articolo 12, n. 4, della legge coordinata in testo unico con [Regio decreto 2 giugno 1889, n. 6166](Che%20approva%20il%20testo%20unico%20sul%20Consiglio%20di%20Stato.%20089U6166.md), serie 3ª. 
  
  Contro tale decisione non e' ammesso alcun reclamo neppure davanti l'autorita' giudiziaria. 
  

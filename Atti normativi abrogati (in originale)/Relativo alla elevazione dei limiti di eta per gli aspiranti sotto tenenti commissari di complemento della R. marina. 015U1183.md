@@ -20,9 +20,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri straordinari concessi al Governo del Re colla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri straordinari concessi al Governo del Re colla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto l'[art. 23 della legge 29 giugno 1913, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;797#art_23), riguardante il reclutamento degli ufficiali di complemento del Corpo di commissariato militare marittimo ; 
+ Visto l'[art. 23 della legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), riguardante il reclutamento degli ufficiali di complemento del Corpo di commissariato militare marittimo ; 
  
  Considerata l'opportunita', durante le attuali contingenze, di derogare piu' ampiamente alle condizioni stabilite dalla legge per tale reclutamento ; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Fino al 31 dicembre 1915, si potra' procedere al reclutamento degli ufficiali di complemento del Corpo di commissariato militare marittimo in base alle norme che saranno a tal uopo emanate dal ministro della marina con facolta' di derogare, oltre che alla prescrizione degli esami, anche alla condizione di eta' stabilita dall'[art. 23 della legge 29 giugno 1913, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;797#art_23). 
+ Fino al 31 dicembre 1915, si potra' procedere al reclutamento degli ufficiali di complemento del Corpo di commissariato militare marittimo in base alle norme che saranno a tal uopo emanate dal ministro della marina con facolta' di derogare, oltre che alla prescrizione degli esami, anche alla condizione di eta' stabilita dall'[art. 23 della legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

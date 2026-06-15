@@ -14,7 +14,7 @@ Il Regolamento per la Borsa di commercio in Foggia, deliberato dalla Camera di c
  
  A. L'articolo 32 sara' riformato come infra: 
  
- «Gli Agenti di cambio e i Sensali di commercio, che nel corso di 24 ore non denunzieranno i nomi dei contraenti all'Agente Sindaco, saranno esclusi dalla Borsa per un termine non minore di tre, e non maggiore di dodici mesi, secondo la gravita' dei casi a giudizio della Camera, la quale potra' anche promuoverne la sospensione o la destituzione; e quanto sovra senza pregiudizio delle maggiori pene, che fossero comminate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).» 
+ «Gli Agenti di cambio e i Sensali di commercio, che nel corso di 24 ore non denunzieranno i nomi dei contraenti all'Agente Sindaco, saranno esclusi dalla Borsa per un termine non minore di tre, e non maggiore di dodici mesi, secondo la gravita' dei casi a giudizio della Camera, la quale potra' anche promuoverne la sospensione o la destituzione; e quanto sovra senza pregiudizio delle maggiori pene, che fossero comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).» 
  
  B. All'articolo 36 alle parole: «dal Re» si sostituira': «a norma delle Leggi.» 
  

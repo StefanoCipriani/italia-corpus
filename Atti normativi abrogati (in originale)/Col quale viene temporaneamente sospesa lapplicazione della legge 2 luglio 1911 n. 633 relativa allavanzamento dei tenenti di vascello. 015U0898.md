@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' temporaneamente sospesa l'applicazione della [legge 2 luglio 1911, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-02;633), relativa all'avanzamento dei tenenti di vascello, eccezione fatta per le disposizioni contenute nell'art. 7.
+E' temporaneamente sospesa l'applicazione della [legge 2 luglio 1911, n. 633](Che%20apporta%20le%20disposizioni%20transitorie%20relative%20allavanzamento%20dei%20tenenti%20di%20vascello.%20011U0633.md), relativa all'avanzamento dei tenenti di vascello, eccezione fatta per le disposizioni contenute nell'art. 7.
 
 ## Art. 2.
 

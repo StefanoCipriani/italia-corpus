@@ -21,7 +21,7 @@ Le tabelle organiche del personale direttivo, di concetto, esecutivo, ed ausilia
 
 ## Art. 2.
 
-Nell'applicazione della presente legge, relativamente agli aumenti dei posti di organico da essa previsti, in deroga alle disposizioni di cui agli articoli 164, 176 e 185 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), le promozioni alle qualifiche di direttore di biblioteca di seconda e terza classe, di primo aiuto-bibliotecario, di primo ragioniere e di primo aiutante, e alle qualifiche equiparate, sono conferite per merito comparativo agli impiegati che abbiano maturato l'anzianita' di servizio richiesta per la partecipazione agli esami previsti dai citati articoli.
+Nell'applicazione della presente legge, relativamente agli aumenti dei posti di organico da essa previsti, in deroga alle disposizioni di cui agli articoli 164, 176 e 185 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), le promozioni alle qualifiche di direttore di biblioteca di seconda e terza classe, di primo aiuto-bibliotecario, di primo ragioniere e di primo aiutante, e alle qualifiche equiparate, sono conferite per merito comparativo agli impiegati che abbiano maturato l'anzianita' di servizio richiesta per la partecipazione agli esami previsti dai citati articoli.
 
 ## Art. 3.
 

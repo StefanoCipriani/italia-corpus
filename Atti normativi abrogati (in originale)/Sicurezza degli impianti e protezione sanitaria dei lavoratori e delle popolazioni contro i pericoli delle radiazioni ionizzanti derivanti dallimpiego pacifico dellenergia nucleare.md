@@ -250,7 +250,7 @@ Il direttore della miniera deve provvedere affinche' l'esperto qualificato istit
 ### Art. 20. — Visita medica preventiva
 
 Nessun prestatore di lavoro puo' essere adibito alle lavorazioni di cui all'art. 13 se non consegua la relativa idoneita' fisica che deve essere accertata mediante apposita visita medica eseguita dai medici autorizzati di cui al Capo VIII della presente legge.
- Contro il risultato della visita medica di cui al comma precedente e' ammesso ricorso all'ingegnere capo, che provvede sentiti i sanitari di cui all'[art. 4 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-09;128#art_4).
+ Contro il risultato della visita medica di cui al comma precedente e' ammesso ricorso all'ingegnere capo, che provvede sentiti i sanitari di cui all'[art. 4 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md).
  Il provvedimento dell'ingegnere capo ha carattere definitivo.
  La visita medica di cui al primo comma deve comprendere una anamnesi completa dalla quale devono risultare le eventuali irradiazioni precedenti, ed un esame clinico generale completato da adeguate indagini specialistiche e di laboratorio per valutare lo stato degli organi che possono essere maggiormente danneggiati dalle radiazioni.
  Il medico che esamina il soggetto deve conoscere la destinazione lavorativa iniziale del prestatore di lavoro e qualsiasi mutamento di essa, nonche' le irradiazioni connesse a tale destinazione. Egli deve anche attenersi nell'esprimere il suo giudizio, alla classificazione di idoneita' di cui all'art. 77 della presente legge.
@@ -770,7 +770,7 @@ CAPO IX
 ### Art. 88. — Protezione sanitaria della popolazione
 
 La tutela sanitaria della popolazione ai fini della protezione contro i pericoli derivanti dalle radiazioni ionizzanti spetta al Ministero della sanita' che, a mezzo dei suoi organi, esercita la vigilanza anche mediante ispezioni, su tutte le sorgenti di radiazioni ionizzanti al fine di prevenire eventuali irradiazioni e contaminazioni della popolazione, contaminazioni dell'aria atmosferica, delle acque superficiali e potabili delle acque di rifiuto, delle acque in genere, del suolo, delle sostanze alimentari e delle bevande.
- Per l'esercizio della vigilanza nelle aziende industriali e commerciali si applica l'[art. 68 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_68).
+ Per l'esercizio della vigilanza nelle aziende industriali e commerciali si applica l'[art. 68 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md).
 
 ### Art. 89. — Commissione provinciale
 

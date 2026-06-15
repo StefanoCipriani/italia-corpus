@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 2 della legge 16 dicembre 1912, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-16;1312#art_2);
+Visto l'[art. 2 della legge 16 dicembre 1912, n. 1312](Colla%20quale%20viene%20data%20esecuzione%20al%20trattato%20di%20pace%20fra%20lItalia%20e%20la%20Turchia%20e%20sono%20adottati%20provvedimenti%20per%20la%20Libia%20012U1312.md);
 
 Visto l'art. 1° del [decreto Luogotenenziale 18 maggio 1916, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-18;627), da convertirsi in legge;
 
-Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738);
+Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md);
 
 Udito il Consiglio dei ministri;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto con q
 
 ## Articolo unico.
 
-A carico del conto corrente istituito coll'[art. 2 della legge 16 dicembre 1912, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-16;1312#art_2), il ministro delle colonie versera' in tesoreria, con imputazione ad uno speciale capitolo da istituirsi nello stato di previsione dell'entrata con decreto del ministro del tesoro, la somma di lire quattromilioni (L. 4.000.000) a compenso di spese gia' impegnate sul conto medesimo e che furono invece eseguite con stanziamenti di bilancio. 
+A carico del conto corrente istituito coll'[art. 2 della legge 16 dicembre 1912, n. 1312](Colla%20quale%20viene%20data%20esecuzione%20al%20trattato%20di%20pace%20fra%20lItalia%20e%20la%20Turchia%20e%20sono%20adottati%20provvedimenti%20per%20la%20Libia%20012U1312.md), il ministro delle colonie versera' in tesoreria, con imputazione ad uno speciale capitolo da istituirsi nello stato di previsione dell'entrata con decreto del ministro del tesoro, la somma di lire quattromilioni (L. 4.000.000) a compenso di spese gia' impegnate sul conto medesimo e che furono invece eseguite con stanziamenti di bilancio. 
  
  Questo decreto sara' presentato al Parlamento per la conversione in legge. 
  

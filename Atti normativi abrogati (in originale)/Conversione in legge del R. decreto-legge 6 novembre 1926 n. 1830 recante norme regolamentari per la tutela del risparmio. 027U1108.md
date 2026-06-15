@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 novembre 1926, n. 1830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-06;1830), recante norme regolamentari per la tutela del risparmio. 
+ E' convertito in legge il [R. decreto-legge 6 novembre 1926, n. 1830](Norme%20regolamentari%20per%20la%20tutela%20del%20risparmio.%20026U1830.md), recante norme regolamentari per la tutela del risparmio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

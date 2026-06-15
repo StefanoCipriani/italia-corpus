@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-28;2073#art_2), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-28;2073#art_4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-28;2073#art_5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-28;2073#art_6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-28;2073#art_7), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-28;2073#art_8), [9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-28;2073#art_9), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-28;2073#art_10), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-28;2073#art_12), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-28;2073#art_15) e [16 del R. decreto-legge 28 ottobre 1927, n. 2073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-28;2073#art_16), convertito nella [legge 14 giugno 1928, n. 1488](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20ottobre%201927%20n.%202073%20concernente%20il%20nuovo%20ordinamento%20della%20Milizia%20portuaria.%20028U1488.md), sono abrogati e sostituiti dai seguenti: 
+Gli [articoli 2](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.md), [4](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.md), [5](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.md), [6](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.md), [7](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.md), [8](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.md), [9](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.md), [10](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.md), [12](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.md), [15](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.md) e [16 del R. decreto-legge 28 ottobre 1927, n. 2073](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.md), convertito nella [legge 14 giugno 1928, n. 1488](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20ottobre%201927%20n.%202073%20concernente%20il%20nuovo%20ordinamento%20della%20Milizia%20portuaria.%20028U1488.md), sono abrogati e sostituiti dai seguenti: 
  
  Art. 2. - E' istituita la Milizia portuaria, specialita' della Milizia volontaria per la sicurezza nazionale, che svolge la propria attivita' nell'ambito di alcuni porti principali ed in quei tratti del litorale del Regno, dove se ne dimostri la necessita', per i servizi di cui all'art. 10. 
  
- Art. 4. - Al personale della Milizia portuale spetta il trattamento di previdenza stabilito dalla convenzione 12 luglio 1928, stipulata con l'istituto nazionale delle assicurazioni e resa esecutiva con [R. decreto 24 dicembre 1928, n. 3408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-24;3408). 
+ Art. 4. - Al personale della Milizia portuale spetta il trattamento di previdenza stabilito dalla convenzione 12 luglio 1928, stipulata con l'istituto nazionale delle assicurazioni e resa esecutiva con [R. decreto 24 dicembre 1928, n. 3408](Approvazione%20della%20Convenzione%20fra%20lIstituto%20nazionale%20delle%20assicurazioni%20ed%20il%20Comando%20della%20Milizia%20portuaria%20per%20assicurare%20il%20trattamento%20di%20previdenza%20al%20personale%20della%20Milizia%20stessa.%20028U3408.md). 
  
  Art. 5. - La Milizia portuaria dipende disciplinarmente dal Comando generale della Milizia volontaria per la sicurezza nazionale. Per l'impiego tecnico dipende dal Ministero delle comunicazioni o dalle competenti autorita' militari o di pubblica sicurezza, rispettivamente, secondo i criteri di massima fissati dai commi a) e b) dell'art. 10. 
  
@@ -87,7 +87,7 @@ Gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decr
 
 Agli ufficiali della Milizia portuaria sono dovuti gli assegni e le competenze speciali, ordinarie ed eventuali, degli ufficiali della Milizia forestale, nella stessa misura e con le stesse modalita' di concessione per questi stabilite, ad eccezione dell'indennita' cavalli. 
  
- Agli ufficiali della Milizia portuaria si applicano le disposizioni contenute nel [R. decreto 3 agosto 1928, n. 1886](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;1886), riguardanti le indennita' di alloggio agli ufficiali dell'Arma dei Reali carabinieri.
+ Agli ufficiali della Milizia portuaria si applicano le disposizioni contenute nel [R. decreto 3 agosto 1928, n. 1886](Revisione%20della%20indennita%20di%20alloggio%20agli%20ufficiali%20dellArma%20dei%20carabinieri%20Reali.%20028U1886.md), riguardanti le indennita' di alloggio agli ufficiali dell'Arma dei Reali carabinieri.
 
 ## Art. 3.
 
@@ -103,7 +103,7 @@ Al personale cui e' affidato speciale incarico di radiotelegrafista, conducente 
 
 ## Art. 5.
 
-Per le indennita' di viaggio, di missione e di trasferimento per i sottufficiali, militi scelti, militi ed allievi militi, si applicano le disposizioni degli [articoli 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-13;1465#art_199) e [202 del Regio decreto 13 agosto 1926, n. 1465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-13;1465#art_202), intendendosi corrispondenti ai gradi di brigadiere e vice-brigadiere quelli di caposquadra e di vice-caposquadra.
+Per le indennita' di viaggio, di missione e di trasferimento per i sottufficiali, militi scelti, militi ed allievi militi, si applicano le disposizioni degli [articoli 199](Approvazione%20del%20regolamento%20della%20Milizia%20nazionale%20forestale.%20026U1465.md) e [202 del Regio decreto 13 agosto 1926, n. 1465](Approvazione%20del%20regolamento%20della%20Milizia%20nazionale%20forestale.%20026U1465.md), intendendosi corrispondenti ai gradi di brigadiere e vice-brigadiere quelli di caposquadra e di vice-caposquadra.
 
 ## Art. 6.
 
@@ -156,7 +156,7 @@ Il tempo trascorso in servizio nella Milizia portuaria anteriormente alla data d
 
 ### Art. 13.
 
-Gli ufficiali confermati ai sensi del precedente articolo 10, provenienti dagli ufficiali del Regio esercito in servizio permanente effettivo e dagli impiegati di ruolo dello Stato, conservano il trattamento di quiescenza al quale avevano precedentemente diritto, restando esclusi da quello di previdenza, speciale per la Milizia portuaria, stabilito dall'[articolo 4 del R. decreto-legge 28 ottobre 1927, n. 2073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-28;2073#art_4), modificato con l'art. 1 della presente legge.
+Gli ufficiali confermati ai sensi del precedente articolo 10, provenienti dagli ufficiali del Regio esercito in servizio permanente effettivo e dagli impiegati di ruolo dello Stato, conservano il trattamento di quiescenza al quale avevano precedentemente diritto, restando esclusi da quello di previdenza, speciale per la Milizia portuaria, stabilito dall'[articolo 4 del R. decreto-legge 28 ottobre 1927, n. 2073](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.md), modificato con l'art. 1 della presente legge.
 
 ### Art. 14.
 

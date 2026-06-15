@@ -65,7 +65,7 @@ Il contributo e' pagato a mezzo di versamenti mensili posticipati da effettuarsi
 
 Il datore di lavoro e' responsabile del versamento del contributo.
 In caso di ritardo nel versamento oltre il 15° giorno di ciascuna scadenza mensile, il datore di lavoro e' tenuto a versare, unitamente al contributo dovuto, una eguale somma a titolo di penale, e gli interessi di mora nella misura del tasso ufficiale di sconti maggiorato di due punti. Qualora il ritardo perduri oltre il 90° giorno, il datore di lavoro e' soggetto altresi' all'ammenda di L. 20.000.
- In tale caso il contravventore, agli effetti dell'[art. 162 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_162), e' ammesso a pagare all'istituto assicuratore una somma corrispondente alla quarta parte dell'ammenda comminata, o, qualora il datore di lavoro sia recidivo, alla meta'.
+ In tale caso il contravventore, agli effetti dell'[art. 162 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' ammesso a pagare all'istituto assicuratore una somma corrispondente alla quarta parte dell'ammenda comminata, o, qualora il datore di lavoro sia recidivo, alla meta'.
 
 ## Art. 11.
 

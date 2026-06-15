@@ -36,7 +36,7 @@ Il Ministero dell'industria, del commercio e del lavoro ha obbligo di contribuir
  
  Il Ministero e gli enti locali contribuiscono nella stessa misura stabilita nel comma secondo alle spese di arredamento e di completamento delle scuole, delle officine e dei laboratori, qualora non vi si provveda a mente dell'art. 12 del presente decreto. 
  
- Per la istituzione di Regie scuole industriali nei Comuni, non contemplate nei precedenti capoversi, valgono le norme stabilite dall'[art. 2 della legge 30 giugno 1907, n. 414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-30;414#art_2).
+ Per la istituzione di Regie scuole industriali nei Comuni, non contemplate nei precedenti capoversi, valgono le norme stabilite dall'[art. 2 della legge 30 giugno 1907, n. 414](Provvedimenti%20per%20linsegnamento%20industriale%20e%20commerciale.%20007U0414.md).
 
 ## Art. 2.
 
@@ -48,7 +48,7 @@ Nei limiti dei rispettivi bilanci e con un contributo del Ministero dell'industr
 
 Non oltre il 30 giugno 1919 il ministro dell'interno, d'accordo con quello dell'industria, provvedera' ad accertare quali istituzioni pubbliche di beneficenza hanno obbligo, per le rispettive tavole di fondazione, di concorrere alla istruzione delle classi operaie. 
  
- In base agli accertamenti fatti e con le norme delle [leggi 30 giugno 1907, n. 414, e 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854), si provvedera' alla istituzione di speciali scuole o corsi industriali in relazione alle finalita' delle singole istituzioni di beneficenza ed ai nuovi bisogni della istruzione tecnica delle maestranze. 
+ In base agli accertamenti fatti e con le norme delle [leggi 30 giugno 1907, n. 414, e 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), si provvedera' alla istituzione di speciali scuole o corsi industriali in relazione alle finalita' delle singole istituzioni di beneficenza ed ai nuovi bisogni della istruzione tecnica delle maestranze. 
  
  Il concorso del Ministero potra' elevarsi non oltre il terzo delle spese occorrenti. Nella stessa misura sara' disposto per le istituzioni pubbliche di beneficenza, che gia' provvedono alla istruzione professionale, con regolari corsi di insegnamento o scuole speciali, che, a giudizio del Ministero, siano riconosciuti corrispondenti ai bisogni delle maestranze e delle industrie locali. 
  
@@ -130,11 +130,11 @@ Il personale di officina e di laboratorio delle Regie scuole industriali di qual
  
  Dopo cinque rinnovazioni del contratto e sei anni di effettiva prestazione d'opera nelle officine e nei laboratori della scuola, il personale ricevera' un premio pari ad un semestre del salario percepito nell'ultimo anno. Per ulteriori rinnovazioni di contratto di lavoro occorre che l'interessato dimostri di essere stato, dopo il sessennio trascorso nella scuola, occupato per almeno un anno in uno stabilimento industriale di notoria importanza. 
  
- Per il personale stabile di officina e di laboratorio nominato prima della data del presente decreto, restano in vigore le disposizioni della [legge 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854).
+ Per il personale stabile di officina e di laboratorio nominato prima della data del presente decreto, restano in vigore le disposizioni della [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md).
 
 ## Art. 12.
 
-Per provvedere all'acquisto delle aree, alla costruzione od acquisto, all'adattamento ed al restauro, e, ove occorra, all'arredamento degli edifici scolastici e delle officine per le Regie scuole industriali e per le Regie stazioni sperimentali, la Cassa dei depositi e prestiti, per un quinquennio dalla promulgazione del regolamento per la esecuzione del presente decreto, e nei limiti di lire 5.000.000 all'anno, e' autorizzata a concedere mutui agli enti interessati alla istituzione e al mantenimento delle dette scuole, ovvero alle scuole stesse quando siano state istituite prima della [legge 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854), e nessuno degli enti contribuenti abbia obbligo di fornire i locali. 
+Per provvedere all'acquisto delle aree, alla costruzione od acquisto, all'adattamento ed al restauro, e, ove occorra, all'arredamento degli edifici scolastici e delle officine per le Regie scuole industriali e per le Regie stazioni sperimentali, la Cassa dei depositi e prestiti, per un quinquennio dalla promulgazione del regolamento per la esecuzione del presente decreto, e nei limiti di lire 5.000.000 all'anno, e' autorizzata a concedere mutui agli enti interessati alla istituzione e al mantenimento delle dette scuole, ovvero alle scuole stesse quando siano state istituite prima della [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), e nessuno degli enti contribuenti abbia obbligo di fornire i locali. 
  
  La somma non impegnata in ciascun anno si cumula con quella degli anni successivi. 
  
@@ -146,7 +146,7 @@ Per provvedere all'acquisto delle aree, alla costruzione od acquisto, all'adatta
  
  Fara' carico ai bilanci dell'ente contraente la sola quota per l'ammortamento del mutuo. Il servizio degli interessi delle somme mutuate sara' assunto per intiero dallo Stato e fara' carico al bilancio del Ministero dell'industria. I versamenti delle somme a carico dello Stato a titolo di interessi saranno fatti in quote annue costanti direttamente e irrevocabilmente alla Cassa dei depositi e prestiti. 
  
- Le disposizioni del precedente capoverso potranno essere applicate anche ai mutui concessi dalla Cassa dei depositi e prestiti prima della data del presente decreto, in base all'[art. 10 della legge 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854#art_10). 
+ Le disposizioni del precedente capoverso potranno essere applicate anche ai mutui concessi dalla Cassa dei depositi e prestiti prima della data del presente decreto, in base all'[art. 10 della legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md). 
  
  I mutui sono concessi su richiesta del ministro dell'industria e con decreto Reale, su proposta del ministro del tesoro.
 
@@ -154,7 +154,7 @@ Per provvedere all'acquisto delle aree, alla costruzione od acquisto, all'adatta
 
 I progetti per la costruzione o l'acquisto, l'adattamento o il restauro degli edifici sono approvati dal ministro dell'industria su conforme parere del Consiglio per l'istruzione industriale, sentito l'Ufficio del genio civile per quanto riguarda la costruzione edilizia. 
  
- L'approvazione del progetto equivale a dichiarazione di pubblica utilita' agli effetti della [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359). Alle espropriazioni occorrenti si applicheranno le norme degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_12) e [13 della legge 15 gennaio 1885, n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_13), per il risanamento della citta' di Napoli. 
+ L'approvazione del progetto equivale a dichiarazione di pubblica utilita' agli effetti della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). Alle espropriazioni occorrenti si applicheranno le norme degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_12) e [13 della legge 15 gennaio 1885, n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_13), per il risanamento della citta' di Napoli. 
  
  Tutti gli atti e contratti relativi all' acquisto delle aree e alla costruzione, all'adattamento e al restauro degli edifici saranno registrati con il diritto fisso di una lira. 
  
@@ -192,7 +192,7 @@ Nei limiti degli stanziamenti disposti dal presente decreto, la istituzione di R
 
 ## Art. 17.
 
-I termini stabiliti dagli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854#art_12) e [13 della legge 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854#art_13), e prorogati con il [R. decreto 3 gennaio 1915, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-03;4), e con [decreti Luogotenenziali 29 dicembre 1915, n. 1049](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-29;1049), [28 dicembre 1916, n. 1882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-28;1882), per la classificazione ed il riordinamento delle scuole industriali e commerciali sono prorogati fino al 30 giugno 1920.
+I termini stabiliti dagli [articoli 12](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md) e [13 della legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), e prorogati con il [R. decreto 3 gennaio 1915, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-03;4), e con [decreti Luogotenenziali 29 dicembre 1915, n. 1049](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-29;1049), [28 dicembre 1916, n. 1882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-28;1882), per la classificazione ed il riordinamento delle scuole industriali e commerciali sono prorogati fino al 30 giugno 1920.
 
 ## Art. 18.
 

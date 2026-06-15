@@ -30,7 +30,7 @@ Sulla proposta del DUCE del Fascismo, Capo del Governo, e del Ministro per la gr
 
 L'art. 1 della legge 16 giugno 1940-XVIII, n. 582, e' sostituito dal seguente: 
  
- «Quando la circostanza aggravante preveduta dall'[art. 61, n. 5, del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_61-num5) ricorra in dipendenza dello stato di guerra: 
+ «Quando la circostanza aggravante preveduta dall'[art. 61, n. 5, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ricorra in dipendenza dello stato di guerra: 
  
 a) per i delitti di devastazione e saccheggio (art. 419), di violenza carnale (art. 519), di omicidio (art. 575), di rapina (art. 628), di estorsione (art. 629) e di sequestro di persona a scopo di rapina o di estorsione (art. 630) e per tutti i delitti punibili con la pena dell'ergastolo si applica la pena di morte. 
  La stessa pena si applica per il delitto di furto se commesso su cose rimaste incustodite in dipendenza di incursioni nemiche o comunque di allarme per cause di guerra; 

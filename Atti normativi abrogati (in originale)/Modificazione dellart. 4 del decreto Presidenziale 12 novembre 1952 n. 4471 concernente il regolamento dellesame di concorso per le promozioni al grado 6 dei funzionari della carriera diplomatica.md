@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 13 della legge 13 febbraio 1952, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-13;106#art_13);
+Visto l'[art. 13 della legge 13 febbraio 1952, n. 106](Riforma%20della%20carriera%20diplomatica.md);
 
 Visto il [decreto Presidenziale 12 novembre 1952, numero 4471](Regolamento%20dellesame%20di%20concorso%20per%20le%20promozioni%20dal%20grado%207%20al%206%20dei%20funzionari%20della%20carriera%20diplomatica.md);
 

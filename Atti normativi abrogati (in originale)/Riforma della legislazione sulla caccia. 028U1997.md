@@ -134,7 +134,7 @@ All'atto del rilascio della licenza di caccia o di uccellagione e del versamento
  
  5° per ogni tabella indicante il divieto di caccia nelle bandite e nelle riserve o l'appostamento L. 0.10. 
  
- Similmente, per ogni L. 100 o frazione di L. 100 di imposta ettariale per le riserve, verra' imputato ai riservisti un maggiore onere di L. 10, da riscuotersi nei modi indicati dall'art. 14 del regolamento per l'esecuzione della legge sulla caccia, approvato con [R. decreto 24 settembre 1923, n. 2448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2448). 
+ Similmente, per ogni L. 100 o frazione di L. 100 di imposta ettariale per le riserve, verra' imputato ai riservisti un maggiore onere di L. 10, da riscuotersi nei modi indicati dall'art. 14 del regolamento per l'esecuzione della legge sulla caccia, approvato con [R. decreto 24 settembre 1923, n. 2448](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20giugno%201923%20n.%201420%20recante%20provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U2448.md). 
  
  Il provento della sopratassa e del maggiore onere a carico dei riservisti di cui al precedente comma e' devoluto alle Commissioni provinciali venatorie. A tale effetto verranno istituiti, con decreto del Ministro per le finanze, due appositi capitoli: l'uno nello stato di previsione dell'entrata, e l'altro nello stato di previsione della spesa del Ministero dell'economia nazionale; lo stanziamento di quest'ultimo capitolo sara' variato con decreto dello stesso Ministro per le finanze in relazione all'importo della entrata, sotto deduzione di un ventesimo per spese di riscossione. 
  
@@ -160,7 +160,7 @@ E' data facolta' al Governo del Re di provvedere, sentita la Commissione central
  
  Con lo stesso testo unico saranno pure dettate le disposizioni occorrenti per la estensione della legislazione sulla caccia alle nuove Provincie, con gli opportuni adattamenti resi necessari dalle peculiari condizioni di quei territori, e dalle loro esigenze faunistiche. 
  
- Il Governo del Re e' autorizzato altresi' ad emanare, su parere della stessa Commissione centrale venatoria, il nuovo regolamento in applicazione del testo unico ed in sostituzione del regolamento vigente, approvato con [R. decreto 24 settembre 1923, n. 2448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2448). 
+ Il Governo del Re e' autorizzato altresi' ad emanare, su parere della stessa Commissione centrale venatoria, il nuovo regolamento in applicazione del testo unico ed in sostituzione del regolamento vigente, approvato con [R. decreto 24 settembre 1923, n. 2448](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20giugno%201923%20n.%201420%20recante%20provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U2448.md). 
  
  Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

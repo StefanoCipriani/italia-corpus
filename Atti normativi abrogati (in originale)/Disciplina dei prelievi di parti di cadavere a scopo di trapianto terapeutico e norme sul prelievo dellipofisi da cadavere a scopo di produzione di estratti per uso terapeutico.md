@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 E' consentito il prelievo di parti di cadavere a scopo di trapianto terapeutico.
- Il prelievo puo' essere effettuato anche in deroga alle disposizioni vigenti concernenti il periodo di osservazione previsto dagli articoli 7, 8 e 9 del regolamento di polizia mortuaria approvato con [regio decreto 21 dicembre 1942, n. 1880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-12-21;1880), previo accertamento della morte nei casi e con le modalita' di cui agli articoli seguenti.
+ Il prelievo puo' essere effettuato anche in deroga alle disposizioni vigenti concernenti il periodo di osservazione previsto dagli articoli 7, 8 e 9 del regolamento di polizia mortuaria approvato con [regio decreto 21 dicembre 1942, n. 1880](Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md), previo accertamento della morte nei casi e con le modalita' di cui agli articoli seguenti.
  Salvo quanto disposto nel successivo articolo 2 e' vietato il prelievo dal cadavere dello encefalo e delle ghiandole della sfera genitale e della procreazione.
 
 ## Art. 2.
@@ -84,7 +84,7 @@ Le operazioni di trapianto devono essere effettuate esclusivamente presso gli en
 
 ## Art. 11.
 
-Fino all'entrata in vigore della riforma sanitaria, l'assistenza pre e post ospedaliera dei soggetti sottoposti a trapianto non assistibili dagli enti o casse indicate nell'[articolo 12 del decreto-legge 8 luglio 1974, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-08;264#art_12), convertito nella [legge 17 agosto 1974, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-17;386), e' regolata dalle norme indicate nell'articolo 13 dello stesso decreto.
+Fino all'entrata in vigore della riforma sanitaria, l'assistenza pre e post ospedaliera dei soggetti sottoposti a trapianto non assistibili dagli enti o casse indicate nell'[articolo 12 del decreto-legge 8 luglio 1974, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-08;264#art_12), convertito nella [legge 17 agosto 1974, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20luglio%201974%20n.%20264%20recante%20norme%20per%20lestinzione%20dei%20debiti%20degli%20enti%20mutualistici%20nei%20confronti%20degli%20enti%20ospedalieri%20il%20fina_ef5b4372aa6d.md), e' regolata dalle norme indicate nell'articolo 13 dello stesso decreto.
 
 ## Art. 12.
 

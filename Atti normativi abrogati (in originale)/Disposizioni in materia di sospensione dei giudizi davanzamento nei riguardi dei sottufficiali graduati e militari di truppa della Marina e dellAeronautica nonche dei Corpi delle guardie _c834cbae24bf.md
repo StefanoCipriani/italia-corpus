@@ -22,7 +22,7 @@ L'articolo 59 del testo unico delle disposizioni legislative riguardanti l'ordin
 
 ## Art. 2.
 
-Il secondo e il terzo comma dell'articolo 51 del testo delle norme sul reclutamento, avanzamento e stato dei sottufficiali e militari di truppa dell'Aeronautica, approvato con [regio decreto-legge 3 febbraio 1938, numero 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744), sono sostituiti dai seguenti:
+Il secondo e il terzo comma dell'articolo 51 del testo delle norme sul reclutamento, avanzamento e stato dei sottufficiali e militari di truppa dell'Aeronautica, approvato con [regio decreto-legge 3 febbraio 1938, numero 744](Norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20stato%20dei%20sottufficiali%20della%20Regia%20aeronautica.%20038U0744.md), sono sostituiti dai seguenti:
  "I sottufficiali in aspettativa, sospesi dall'impiego, dal servizio o dalle attribuzioni del grado, i militari di truppa sospesi dal grado, i sottufficiali, i graduati e i militari di truppa, imputati in un procedimento penale per delitto non colposo o sottoposti a procedimento disciplinare non possono essere valutati per l'avanzamento e, se gia' valutati, conseguire la promozione.
  Nel caso di esito favorevole del procedimento i sottufficiali e militari, se gia' valutati o, nel caso che debbano ancora essere sottoposti a valutazione, se dichiarati idonei debbono essere promossi, anche in soprannumero, con la sede di anzianita' e la data di promozione che sarebbero loro spettate qualora la promozione non fosse stata per essi sospesa".
 
@@ -38,7 +38,7 @@ Il [primo comma dell'articolo 53 della legge 26 luglio 1961, n. 709](https://www
 
 ## Art. 5.
 
-L'[articolo 8 del decreto del Presidente della Repubblica 26 agosto 1959, n. 1088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-08-26;1088#art_8), e' sostituito dal seguente:
+L'[articolo 8 del decreto del Presidente della Repubblica 26 agosto 1959, n. 1088](../DPR/Approvazione%20del%20regolamento%20per%20lavanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md), e' sostituito dal seguente:
  "I sottufficiali in aspettativa, sospesi dall'impiego, dal servizio o dalle attribuzioni del grado, i militari di truppa sospesi dal grado, i sottufficiali, i graduati e i militari di truppa imputati di procedimento penale per delitto non colposo o sottoposti a procedimento disciplinare non possono essere valutati per l'avanzamento e, se gia' valutati, conseguire la promozione.
  Nel caso di esito favorevole del procedimento i sottufficiali e militari, se gia' valutati o, nel caso che debbano ancora essere sottoposti a valutazione, se dichiarati idonei debbono essere promossi, anche in soprannumero, con la sede di anzianita' e la data di promozione che sarebbero loro spettate qualora la promozione non fosse stata per essi sospesa".
 

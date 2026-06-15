@@ -18,7 +18,7 @@ Il Ministero per l'assistenza militare e le pensioni di guerra provvede:
  
  c) alla preparazione istruttoria, alla liquidazione e al pagamento delle pensioni di guerra e degli acconti; 
  
- d) all'applicazione della [legge 18 luglio 1917, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-18;1143), per la protezione e l'assistenza degli orfani di guerra e di quella 25 marzo 1917, n. 481, che istituisce l'Opera nazionale per la protezione e l'assistenza degli invalidi della guerra. 
+ d) all'applicazione della [legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md), per la protezione e l'assistenza degli orfani di guerra e di quella 25 marzo 1917, n. 481, che istituisce l'Opera nazionale per la protezione e l'assistenza degli invalidi della guerra. 
  
  e) all'erogazione delle somme offerte a favore delle famiglie bisognose dei militari morti e dei feriti di guerra.
 

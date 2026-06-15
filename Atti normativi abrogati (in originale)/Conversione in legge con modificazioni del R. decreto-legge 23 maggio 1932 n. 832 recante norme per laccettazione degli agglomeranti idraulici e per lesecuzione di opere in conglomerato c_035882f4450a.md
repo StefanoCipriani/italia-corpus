@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 maggio 1932, n. 832](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-05-23;832), recante norme per l'accettazione degli agglomeranti idraulici e per l'esecuzione di opere in conglomerato cementizio, con le seguenti modificazioni alle «prescrizioni» annesse al decreto: 
+ E' convertito in legge il [R. decreto-legge 23 maggio 1932, n. 832](Norme%20per%20laccettazione%20degli%20agglomeranti%20idraulici%20e%20per%20la%20esecuzione%20delle%20opere%20in%20conglomerato%20cementizio.%20032U0832.md), recante norme per l'accettazione degli agglomeranti idraulici e per l'esecuzione di opere in conglomerato cementizio, con le seguenti modificazioni alle «prescrizioni» annesse al decreto: 
  
  Nella parte I - I. Definizioni. Alla parola: «Definizioni» e' sostituita la parola: «Classificazioni». 
  

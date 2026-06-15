@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 I fondi rustici, compresi in successioni apertesi dall'entrata in vigore della presente legge, non sono soggetti ad accertamento di valore, qualora il valore dichiarato non risulti inferiore al valore di essi fondi calcolato in base alle tabelle compilate dalla Commissione censuaria centrale per l'applicazione dell'imposta progressiva straordinaria sul patrimonio aggiornate secondo il coefficiente che sara' determinato ogni anno dalla Commissione censuaria centrale ed approvato con decreto del Ministro per le finanze.
  Per i territori nei quali successivamente alla data di riferimento per l'applicazione dell'imposta straordinaria progressiva sul patrimonio, sia subentrato ai vecchi catasti vigenti il nuovo catasto terreni, la Commissione censuaria centrale provvedera' direttamente alla determinazione dei nuovi coefficienti da adottare agli effetti della presente legge per la valutazione dei terreni in base ai redditi dominicali risultanti dagli atti del nuovo catasto.
- Restano terme le disposizioni degli [articoli 15 e seguenti dei regio decreto-legge 7 agosto 1936, n. 1639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-08-07;1639#art_15) per quanto riguarda la valutazione dei boschi e delle aree fabbricabili.
+ Restano terme le disposizioni degli [articoli 15 e seguenti dei regio decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md) per quanto riguarda la valutazione dei boschi e delle aree fabbricabili.
 
 ## Art. 2.
 

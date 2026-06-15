@@ -26,7 +26,7 @@ Il Governo del Re e' autorizzato a pubblicare:
  
  7.° La legge per alcune modificazioni all'organico giudiziario del Regno, che costituisce l'allegato D. 
  
- 8.° La legge di modificazioni al [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) circa la competenza in materia penale dei Giudici di Mandamento e dei Tribunali di Circondario, che costituisce l'allegato E. 
+ 8.° La legge di modificazioni al [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) circa la competenza in materia penale dei Giudici di Mandamento e dei Tribunali di Circondario, che costituisce l'allegato E. 
  
  9.° La legge circa l'espropriazione per causa di pubblica utilita', che costituisce l'allegato F. 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 27 maggio 1923, n. 1177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-27;1177);
+Visto il [R. decreto 27 maggio 1923, n. 1177](Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 ## Articolo unico.
 
-Entro tre mesi dalla pubblicazione del presente decreto, le Amministrazioni delle Provincie, dei Comuni e delle istituzioni pubbliche di beneficenza potranno rivedere le norme relative al trattamento di riposo del personale contemplate nella ultima parte dell'[art. 1, lettera b) del R. decreto 27 maggio 1923, n. 1177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-27;1177#art_1-letb), al fine di richiamarle in vigore in tutto od in parte, esclusivamente a favore del personale regolarmente nominato a posti d'organico non oltre l'entrata in vigore del citato [R. decreto 27 maggio 1923, n. 1177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-27;1177). 
+Entro tre mesi dalla pubblicazione del presente decreto, le Amministrazioni delle Provincie, dei Comuni e delle istituzioni pubbliche di beneficenza potranno rivedere le norme relative al trattamento di riposo del personale contemplate nella ultima parte dell'[art. 1, lettera b) del R. decreto 27 maggio 1923, n. 1177](Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md), al fine di richiamarle in vigore in tutto od in parte, esclusivamente a favore del personale regolarmente nominato a posti d'organico non oltre l'entrata in vigore del citato [R. decreto 27 maggio 1923, n. 1177](Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md). 
  
  Tali deliberazioni sono soggette alla approvazione della Giunta provinciale amministrativa, la cui decisione sara' pubblicata per otto giorni rispettivamente all'albo del Comune o della Provincia, a seconda che trattasi di Amministrazioni comunali e di istituzioni pubbliche di beneficenza, ovvero dell'Amministrazione provinciale, e potra', essere impugnata in via gerarchica anche da qualunque contribuente. 
  

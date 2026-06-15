@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 10 agosto 1890, n. 7087](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-10;7087) (serie 3ª), e 2 ottobre 1919, n. 1908;
+Visti i [Regi decreti 10 agosto 1890, n. 7087](Che%20determina%20i%20diritti%20da%20riscuotersi%20nei%20regi%20uffici%20diplomatici%20e%20consolari%20allestero%20secondo%20lannessa%20tabella.%20090U7087.md) (serie 3ª), e 2 ottobre 1919, n. 1908;
 
 Udito il Consiglio dei ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-L'aumento fissato in ragione del 50% dall'[art.1 del Regio decreto 2 ottobre 1919, n. 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1908#art_1), sui diritti compresi nelle sezioni I, II, III e IV della tariffa consolare annessa al [R. decreto 10 agosto 1890, n. 7087](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-10;7087) (serie 3ª) e' elevato al 100%, restando inalterati i diritti proporzionali nella misura attualmente stabilita. 
+L'aumento fissato in ragione del 50% dall'[art.1 del Regio decreto 2 ottobre 1919, n. 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1908#art_1), sui diritti compresi nelle sezioni I, II, III e IV della tariffa consolare annessa al [R. decreto 10 agosto 1890, n. 7087](Che%20determina%20i%20diritti%20da%20riscuotersi%20nei%20regi%20uffici%20diplomatici%20e%20consolari%20allestero%20secondo%20lannessa%20tabella.%20090U7087.md) (serie 3ª) e' elevato al 100%, restando inalterati i diritti proporzionali nella misura attualmente stabilita. 
  
  Il presente decreto andra' in vigore dal 1° aprile 1925 e sara' presentato al Parlamento per essere convertito in legge. 
  

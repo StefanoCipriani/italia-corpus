@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 dicembre 1930, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-23;1738), recante disposizioni per il mantenimento fino al 31 marzo 1931 dell'attuale composizione del Consiglio superiore dei lavori pubblici. 
+ E' convertito in legge il [R. decreto-legge 23 dicembre 1930, n. 1738](Conferma%20in%20carica%20fino%20al%2031%20marzo%201931%20degli%20attuali%20componenti%20il%20Consiglio%20superiore%20dei%20lavori%20pubblici.%20030U1738.md), recante disposizioni per il mantenimento fino al 31 marzo 1931 dell'attuale composizione del Consiglio superiore dei lavori pubblici. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 26 marzo 1931 Anno IX 
  

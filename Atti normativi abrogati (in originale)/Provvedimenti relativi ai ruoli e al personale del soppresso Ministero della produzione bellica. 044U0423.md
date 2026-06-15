@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I ruoli organici del personale civile del soppresso Ministero della produzione bellica, di cui alle tabelle B, C, D, E annesse al [R. decreto 12 gennaio 1942, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-12;213), e il relativo personale sono trasferiti al Ministero dell'industria, commercio e lavoro.
+I ruoli organici del personale civile del soppresso Ministero della produzione bellica, di cui alle tabelle B, C, D, E annesse al [R. decreto 12 gennaio 1942, n. 213](Ordinamento%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra.%20042U0213.md), e il relativo personale sono trasferiti al Ministero dell'industria, commercio e lavoro.
 
 ## Art. 2.
 
@@ -18,7 +18,7 @@ Il personale avventizio del soppresso Ministero della produzione bellica che anc
 
 ## Art. 3.
 
-Il Ministro per il tesoro provvedera' per le occorrenti variazioni allo stato di previsione della spesa del ministero dell'industria, commercio e lavoro, in dipendenza delle disposizioni contenute nel presente decreto, ai sensi dell'[art. 7 del R. decreto-legge 27 gennaio 1944, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;24#art_7).
+Il Ministro per il tesoro provvedera' per le occorrenti variazioni allo stato di previsione della spesa del ministero dell'industria, commercio e lavoro, in dipendenza delle disposizioni contenute nel presente decreto, ai sensi dell'[art. 7 del R. decreto-legge 27 gennaio 1944, n. 24](Abolizione%20del%20Ministero%20della%20produzione%20bellica%20e%20ripartizione%20delle%20attribuzioni%20gia%20ad%20esso%20spettanti%20agli%20altri%20Ministeri.%20044U0024.md).
 
 ## Art. 4.
 

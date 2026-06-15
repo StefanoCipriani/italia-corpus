@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 21 luglio 1911, n. 781](Che%20approva%20i%20provvedimenti%20per%20regolare%20i%20conti%20consuntivi%20degli%20economati%20generali%20dei%20benefici%20vacanti.%20011U0781.md);
 
-Visti i [Regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [18 novembre 1923, n. 2441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2441);
+Visti i [Regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [18 novembre 1923, n. 2441](Modificazioni%20alla%20legge%20sulla%20Corte%20dei%20conti.%20023U2441.md);
 
 Sentito il Consiglio dei Ministri;
 

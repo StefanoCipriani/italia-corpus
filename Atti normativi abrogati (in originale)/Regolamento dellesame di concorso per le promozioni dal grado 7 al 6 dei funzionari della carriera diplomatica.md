@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 13 della legge 13 febbraio 1952, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-13;106#art_13);
+Visto l'[art. 13 della legge 13 febbraio 1952, n. 106](Riforma%20della%20carriera%20diplomatica.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -31,7 +31,7 @@ I concorsi di cui all'articolo precedente hanno luogo ogni biennio, salva la fac
 
 ## Art. 3.
 
-Il bando di concorso e' pubblicato nella Gazzetta Ufficiale della Repubblica. Ne viene data inoltre comunicazione diretta a tutti i funzionari di grado 7° che si trovino nelle condizioni che la [legge 13 febbraio 1952, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-13;106), prevede per la partecipazione al concorso stesso.
+Il bando di concorso e' pubblicato nella Gazzetta Ufficiale della Repubblica. Ne viene data inoltre comunicazione diretta a tutti i funzionari di grado 7° che si trovino nelle condizioni che la [legge 13 febbraio 1952, n. 106](Riforma%20della%20carriera%20diplomatica.md), prevede per la partecipazione al concorso stesso.
  Coloro che intendano parteciparvi devono, entro dieci giorni dalla data in cui hanno ricevuto la comunicazione ufficiale del concorso, farne domanda al Ministero.
  Per i funzionari in servizio presso sedi diplomatiche o consolari all'estero tale domanda deve essere inoltrata per il tramite del capo della Rappresentanza, diplomatica da cui dipendono.
  Per i funzionari in servizio presso l'Amministrazione centrale, o distaccati presso organismi internazionali, le domande devono essere presentate direttamente dagli interessati al Ministero.

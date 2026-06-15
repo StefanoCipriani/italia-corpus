@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;3#art_3) e [4 del R. decreto 7 gennaio 1923, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;3#art_4), e il [R. decreto 4 febbraio 1923, n. 406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-04;406);
+Visti gli [articoli 3](Che%20apporta%20modificazioni%20alle%20vigenti%20disposizioni%20legislative%20sul%20reclutamento%20del%20R.%20esercito.%20023U0003.md) e [4 del R. decreto 7 gennaio 1923, n. 3](Che%20apporta%20modificazioni%20alle%20vigenti%20disposizioni%20legislative%20sul%20reclutamento%20del%20R.%20esercito.%20023U0003.md), e il [R. decreto 4 febbraio 1923, n. 406](Riguardante%20la%20ferma%20di%20leva%20e%20la%20riduzione%20di%20ferma%20del%20Corpo%20Reale%20equipaggi.%20023U0406.md);
 
 Vista la [legge 24 dicembre 1925, n. 2275](Pensioni%20alle%20famiglie%20dei%20caduti%20per%20la%20causa%20nazionale%20dal%2023%20luglio%201919%20al%201%20novembre%201922%20ed%20ai%20mutilati%20per%20la%20stessa%20causa%20nello%20stesso%20periodo%20nonche%20ai%20militi%20della%20M.V.S.N.%20muti_27dd77e61ec3.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo Primo Ministro Segretario di Stato e Ministr
 
 ## Art. 1.
 
-Agli effetti dell'ammissione a ferma ridotta di cui ai [Regi decreti 7 gennaio 1923, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;3), e [4 febbraio 1923, n. 406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-04;406), sono equiparati ai deceduti o mutilati per causa di servizio militare i deceduti o mutilati nelle circostanze indicate nell'[articolo 1 della legge 24 dicembre 1925, n. 2275](Pensioni%20alle%20famiglie%20dei%20caduti%20per%20la%20causa%20nazionale%20dal%2023%20luglio%201919%20al%201%20novembre%201922%20ed%20ai%20mutilati%20per%20la%20stessa%20causa%20nello%20stesso%20periodo%20nonche%20ai%20militi%20della%20M.V.S.N.%20muti_27dd77e61ec3.md).
+Agli effetti dell'ammissione a ferma ridotta di cui ai [Regi decreti 7 gennaio 1923, n. 3](Che%20apporta%20modificazioni%20alle%20vigenti%20disposizioni%20legislative%20sul%20reclutamento%20del%20R.%20esercito.%20023U0003.md), e [4 febbraio 1923, n. 406](Riguardante%20la%20ferma%20di%20leva%20e%20la%20riduzione%20di%20ferma%20del%20Corpo%20Reale%20equipaggi.%20023U0406.md), sono equiparati ai deceduti o mutilati per causa di servizio militare i deceduti o mutilati nelle circostanze indicate nell'[articolo 1 della legge 24 dicembre 1925, n. 2275](Pensioni%20alle%20famiglie%20dei%20caduti%20per%20la%20causa%20nazionale%20dal%2023%20luglio%201919%20al%201%20novembre%201922%20ed%20ai%20mutilati%20per%20la%20stessa%20causa%20nello%20stesso%20periodo%20nonche%20ai%20militi%20della%20M.V.S.N.%20muti_27dd77e61ec3.md).
 
 ## Art. 2.
 

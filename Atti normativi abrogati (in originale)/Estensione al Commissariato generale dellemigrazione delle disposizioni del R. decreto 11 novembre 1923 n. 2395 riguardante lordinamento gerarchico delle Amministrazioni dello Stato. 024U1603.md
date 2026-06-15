@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visti gli articoli 1 e 66 del testo unico della legge sulla emigrazione, approvato con [R. decreto 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-13;2205);
 
-Visto il [R. decreto 10 giugno 1923, n. 1315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-10;1315);
+Visto il [R. decreto 10 giugno 1923, n. 1315](Disposizioni%20riguardanti%20il%20ruolo%20organico%20del%20personale%20del%20Commissariato%20dellEmigrazione.%20023U1315.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto l'[art. 2 del R. decreto 30 dicembre 1923, n. 3091 ed il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3091#art_2) Reale 24 febbraio 1924, Registrato alla Corte dei conti il 29 detto mese, al reg. 1 F. E., fog. 136;
+Visto l'[art. 2 del R. decreto 30 dicembre 1923, n. 3091 ed il decreto](Disposizioni%20per%20i%20funzionari%20del%20Commissariato%20generale%20dellemigrazione.%20023U3091.md) Reale 24 febbraio 1924, Registrato alla Corte dei conti il 29 detto mese, al reg. 1 F. E., fog. 136;
 
 Udito il Consiglio dei Ministri;
 
@@ -44,7 +44,7 @@ Per la prima attuazione del ruolo organico conforme alle tabelle annesse i gradi
 
 ## Art. 4.
 
-Con decreti Reali su proposta del Ministro per gli affari esteri d'accordo con quello per le finanze, le disposizioni del [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e successive variazioni verranno estese, in quanto applicabili, al personale del Commissariato generale dell'emigrazione colle varianti richieste dai particolari ordinamenti del Commissariato stesso.
+Con decreti Reali su proposta del Ministro per gli affari esteri d'accordo con quello per le finanze, le disposizioni del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive variazioni verranno estese, in quanto applicabili, al personale del Commissariato generale dell'emigrazione colle varianti richieste dai particolari ordinamenti del Commissariato stesso.
 
 ## Art. 5.
 

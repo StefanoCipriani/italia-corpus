@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 luglio 1931, n. 1001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-21;1001), concernente l'assegnazione straordinaria di 30 milioni, per la durata di anni 15, a decorrere dall'esercizio finanziario 1933-34, a titolo di concorso dello Stato nella spesa per l'attuazione del piano regolatore di Roma. 
+ E' convertito in legge il [R. decreto-legge 21 luglio 1931, n. 1001](Assegnazione%20straordinaria%20di%20L.%2030.000.000%20per%20la%20durata%20di%20anni%2015%20a%20decorrere%20dallesercizio%201933-34%20a%20titolo%20di%20concorso%20dello%20Stato%20nella%20spesa%20per%20lattuazione%20del%20piano%20regolatore%20di_bb7c675ee4cc.md), concernente l'assegnazione straordinaria di 30 milioni, per la durata di anni 15, a decorrere dall'esercizio finanziario 1933-34, a titolo di concorso dello Stato nella spesa per l'attuazione del piano regolatore di Roma. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 31 marzo 1932 - Anno X 
  

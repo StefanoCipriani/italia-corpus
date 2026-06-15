@@ -314,13 +314,13 @@ L'art. 118 e' modificato come segue:
  
  Gli stessi compiti spettano alla direzione generale del Reale Automobile Club d'Italia per quanto concerne le attribuzioni affidale agli uffici del pubblico registro automobilistico dal testo unico e dal presente regolamento. 
  
- Nei riguardi dei detti funzionari ed agenti a carico dei quali venissero accertate inesattezze, irregolarita' od omissioni nel disimpegno delle funzioni loro attribuite, i prefetti, i capi delle amministrazioni comunali, la direzione generale del Reale Automobile Club d'Italia, secondo la rispettiva competenza, provocheranno i provvedimenti disciplinari del caso ed applicheranno le sanzioni eventualmente di loro competenza, senza pregiudizio delle penalita' contemplate dall'[art. 178 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_178)».
+ Nei riguardi dei detti funzionari ed agenti a carico dei quali venissero accertate inesattezze, irregolarita' od omissioni nel disimpegno delle funzioni loro attribuite, i prefetti, i capi delle amministrazioni comunali, la direzione generale del Reale Automobile Club d'Italia, secondo la rispettiva competenza, provocheranno i provvedimenti disciplinari del caso ed applicheranno le sanzioni eventualmente di loro competenza, senza pregiudizio delle penalita' contemplate dall'[art. 178 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)».
 
 ## Art. 37.
 
 Il 1° comma dell'art. 119 e' modificato come segue: 
  
- «Quando per le inadempienze alle disposizioni del testo unico e del presente regolamento vengano accertate delle responsabilita' a carico dei capi delle amministrazioni comunali o di coloro che ne fanno le veci e dei capi del servizio del pubblico registro automobilistico, sempre che siano legalmente rivestiti della qualita' di pubblico ufficiale, essi sono passibili di denunzia all'autorita' giudiziaria agli effetti dell'[art. 178 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_178)»
+ «Quando per le inadempienze alle disposizioni del testo unico e del presente regolamento vengano accertate delle responsabilita' a carico dei capi delle amministrazioni comunali o di coloro che ne fanno le veci e dei capi del servizio del pubblico registro automobilistico, sempre che siano legalmente rivestiti della qualita' di pubblico ufficiale, essi sono passibili di denunzia all'autorita' giudiziaria agli effetti dell'[art. 178 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)»
 
 ## Art. 38.
 

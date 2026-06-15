@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Per lo sfruttamento dei terreni petroliferi albanesi, e' assegnato, all'apposita gestione, istituita col [R. decreto-legge 8 luglio 1925, n. 1301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-08;1301), e in aggiunta alle somme fissate col decreto medesimo, un ulteriore fondo di venti milioni. 
+ Per lo sfruttamento dei terreni petroliferi albanesi, e' assegnato, all'apposita gestione, istituita col [R. decreto-legge 8 luglio 1925, n. 1301](Istituzione%20della%20gestione%20per%20lo%20sfruttamento%20di%20terreni%20petroliferi%20albanesi.%20025U1301.md), e in aggiunta alle somme fissate col decreto medesimo, un ulteriore fondo di venti milioni. 
  
  Tale somma sara' prelevata dagli avanzi di bilancio dell'Amministrazione delle ferrovie dello Stato, negli esercizi finanziari dal 1927-28 al 1930-31, in ragione di cinque milioni per ciascun esercizio, restando di ugual importo ridotta la somma da versare al bilancio dello Stato. 
  

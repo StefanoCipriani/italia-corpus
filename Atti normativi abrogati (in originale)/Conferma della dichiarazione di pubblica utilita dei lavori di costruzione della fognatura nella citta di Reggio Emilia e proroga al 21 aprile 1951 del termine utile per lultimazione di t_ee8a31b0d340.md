@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il regio decreto 25 agosto 1938, n. 2274, pubblicato nella Gazzetta Ufficiale n. 95 del 20 aprile 1939, con cui vennero estese al comune di Reggio Emilia le disposizioni dell'[art. 8 della legge 12 luglio 1896, numero 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-12;303#art_8), riguardanti la fognatura della citta' di Torino, fu dichiarata la pubblica utilita' dei lavori di costruzione della fognatura nella detta citta' di Reggio Emilia, dell'importo di L. 12.500.000 e fu assegnato il termine di anni due dalla data) della pubblicazione del decreto stesso nella Gazzetta Ufficiale per il compimento dei lavori e delle occorrenti espropriazioni;
+Visto il regio decreto 25 agosto 1938, n. 2274, pubblicato nella Gazzetta Ufficiale n. 95 del 20 aprile 1939, con cui vennero estese al comune di Reggio Emilia le disposizioni dell'[art. 8 della legge 12 luglio 1896, numero 303](Colla%20quale%20vengono%20dichiarate%20di%20pubblica%20utilita%20le%20opere%20di%20fognatura%20da%20eseguirsi%20dal%20Comune%20di%20Torino.%20096U0303.md), riguardanti la fognatura della citta' di Torino, fu dichiarata la pubblica utilita' dei lavori di costruzione della fognatura nella detta citta' di Reggio Emilia, dell'importo di L. 12.500.000 e fu assegnato il termine di anni due dalla data) della pubblicazione del decreto stesso nella Gazzetta Ufficiale per il compimento dei lavori e delle occorrenti espropriazioni;
 
 Visto il regio decreto 16 febbraio 1942, n. 255, pubblicato nella Gazzetta Ufficiale n. 77 del 3 aprile 1942, con cui tu prorogato al 21 aprile 1946 il termine suddetto;
 
@@ -26,7 +26,7 @@ Sulla proposta dei Ministri segretari di Stato per i lavori pubblici e per l'int
 
 ## Articolo unico.
 
-Fermo restando quant'altro stabilito dal [regio decreto 25 agosto 1938, n. 2274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-08-25;2274), e' confermata la dichiarazione di pubblica utilita' dei lavori di costruzione della fognatura nella citta' di Reggio Emilia ed e' prorogato al 21 aprile 1951 il termine utile per l'ultimazione di tali opere e delle relative espropriazioni.
+Fermo restando quant'altro stabilito dal [regio decreto 25 agosto 1938, n. 2274](Estensione%20al%20comune%20di%20Reggio%20Emilia%20delle%20disposizioni%20dellart.%208%20della%20legge%2012%20luglio%201896%20n.%20303%20riguardante%20la%20fognatura%20della%20citta%20di%20Torino.%20038U2274.md), e' confermata la dichiarazione di pubblica utilita' dei lavori di costruzione della fognatura nella citta' di Reggio Emilia ed e' prorogato al 21 aprile 1951 il termine utile per l'ultimazione di tali opere e delle relative espropriazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Possono essere ammessi ai concorsi per posti di segretario comunale, ai sensi dell'[art. 6 del R. decreto-legge 17 agosto 1928, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-17;1953#art_6), convalidato con la [legge 13 dicembre 1928, n. 2944](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20concernente%20la%20riforma%20dello%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20028U2944.md), i segretari comunali delle Podesterie di Rodi e di Coo, nelle isole dell'Egeo, che siano provvisti del titolo di abilitazione alle funzioni di segretario comunale. 
+Possono essere ammessi ai concorsi per posti di segretario comunale, ai sensi dell'[art. 6 del R. decreto-legge 17 agosto 1928, n. 1953](Stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20028U1953.md), convalidato con la [legge 13 dicembre 1928, n. 2944](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20concernente%20la%20riforma%20dello%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20028U2944.md), i segretari comunali delle Podesterie di Rodi e di Coo, nelle isole dell'Egeo, che siano provvisti del titolo di abilitazione alle funzioni di segretario comunale. 
  
  Agli effetti della partecipazione ai concorsi, il segretario della Podesteria di Rodi e' considerato come appartenente al grado 3° della gerarchia, e quello della Podesteria di Coo al grado 4°. 
  

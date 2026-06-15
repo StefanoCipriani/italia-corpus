@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la legge 22 maggio 1915, n, 671; 
  
- Vista la [legge 27 giugno 1907, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-27;404), e segnatamente l'art. 2 che fissa la composizione del Consiglio superiore di marina; 
+ Vista la [legge 27 giugno 1907, n. 404](Istituzione%20di%20un%20Consiglio%20superiore%20di%20marina%20di%20un%20Comitato%20degli%20ammiragli%20e%20di%20un%20Comitato%20per%20lesame%20di%20progetti%20di%20navi.%20007U0404.md), e segnatamente l'art. 2 che fissa la composizione del Consiglio superiore di marina; 
  
  Udito il Consiglio dei ministri; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- L'ultimo alinea dell'[art. 2 della legge 27 giugno 1907, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-27;404#art_2), che fissa la composizione del Consiglio superiore di marina, e' sostituito dal seguente: 
+ L'ultimo alinea dell'[art. 2 della legge 27 giugno 1907, n. 404](Istituzione%20di%20un%20Consiglio%20superiore%20di%20marina%20di%20un%20Comitato%20degli%20ammiragli%20e%20di%20un%20Comitato%20per%20lesame%20di%20progetti%20di%20navi.%20007U0404.md), che fissa la composizione del Consiglio superiore di marina, e' sostituito dal seguente: 
  
  «Un contrammiraglio o capitano di vascello, membro ordinario e segretario». 
  

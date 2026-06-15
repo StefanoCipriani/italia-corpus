@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il Ministro per il tesoro e' autorizzato ad utilizzare dal conto speciale (Fondo lire 1948-49) previsto dall'Accordo di cooperazione economica approvato con [legge 4 agosto 1948, n. 1108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-08-04;1108), la somma di lire 14,2 miliardi da destinare a finanziamenti per l'esecuzione di opere facenti parte del programma di ripristino e di potenziamento degli impianti siderurgici.
+Il Ministro per il tesoro e' autorizzato ad utilizzare dal conto speciale (Fondo lire 1948-49) previsto dall'Accordo di cooperazione economica approvato con [legge 4 agosto 1948, n. 1108](../Leggi%20di%20ratifica/Ratifica%20ed%20esecutorieta%20dellAccordo%20di%20cooperazione%20economica%20tra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20concluso%20a%20Roma%20il%2028%20giugno%201948.md), la somma di lire 14,2 miliardi da destinare a finanziamenti per l'esecuzione di opere facenti parte del programma di ripristino e di potenziamento degli impianti siderurgici.
 
 ## Art. 2.
 
@@ -29,7 +29,7 @@ I finanziamenti di cui all'art. 1 sono autorizzati con decreto del Ministro per 
 
 ## Art. 4.
 
-Ai finanziamenti ed alle operazioni ad essi connesse, previsti dalla presente legge, sono estese, in quanto applicabili, le disposizioni di cui agli articoli 6, 7, 9 (comma primo e secondo) ed 11 del [decreto legislativo luogotenenziale 1 novembre 1944, n. 367](Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md), modificato dal [decreto legislativo 1 ottobre 1947, n. 1075, ed all'art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-10-01;1075#art_5) del [decreto legislativo luogotenenziale 8 maggio 1946, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;449).
+Ai finanziamenti ed alle operazioni ad essi connesse, previsti dalla presente legge, sono estese, in quanto applicabili, le disposizioni di cui agli articoli 6, 7, 9 (comma primo e secondo) ed 11 del [decreto legislativo luogotenenziale 1 novembre 1944, n. 367](Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md), modificato dal [decreto legislativo 1 ottobre 1947, n. 1075, ed all'art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-10-01;1075#art_5) del [decreto legislativo luogotenenziale 8 maggio 1946, n. 449](../Decreti%20legislativi%20luogotenenziali/Finanziamenti%20per%20il%20ripristino%20e%20la%20riconversione%20di%20imprese%20industriali%20di%20interesse%20generale%20o%20di%20particolare%20utilita%20economica%20e%20sociale.md).
 
 ## Art. 5.
 
@@ -37,7 +37,7 @@ Il Ministro per il tesoro e' autorizzato ad approvare, con proprio decreto da em
 
 ## Art. 6.
 
-Ai finanziamenti previsti dalla presente legge, ed a tutti gli atti e contratti relativi alle operazioni connesse con i finanziamenti stessi, sono estese le disposizioni dell'[art. 6 del decreto legislativo luogotenenziale 8 maggio 1946, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;449#art_6).
+Ai finanziamenti previsti dalla presente legge, ed a tutti gli atti e contratti relativi alle operazioni connesse con i finanziamenti stessi, sono estese le disposizioni dell'[art. 6 del decreto legislativo luogotenenziale 8 maggio 1946, n. 449](../Decreti%20legislativi%20luogotenenziali/Finanziamenti%20per%20il%20ripristino%20e%20la%20riconversione%20di%20imprese%20industriali%20di%20interesse%20generale%20o%20di%20particolare%20utilita%20economica%20e%20sociale.md).
 
 ## Art. 7.
 

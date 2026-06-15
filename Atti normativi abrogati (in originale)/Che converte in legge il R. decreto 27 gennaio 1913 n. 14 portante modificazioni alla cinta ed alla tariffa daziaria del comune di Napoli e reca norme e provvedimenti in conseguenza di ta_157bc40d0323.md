@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto 27 gennaio 1913, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-27;14), allegato A, concernente la cinta e la tariffa daziaria del comune di Napoli, con le modificazioni risultanti dall'allegato B, le quali ultime avranno effetto dal giorno in cui entrera' in vigore la presente legge.
+E' convertito in legge il [R. decreto 27 gennaio 1913, n. 14](Che%20reca%20provvedimenti%20sul%20dazio%20consumo%20della%20citta%20di%20Napoli%20013U0014.md), allegato A, concernente la cinta e la tariffa daziaria del comune di Napoli, con le modificazioni risultanti dall'allegato B, le quali ultime avranno effetto dal giorno in cui entrera' in vigore la presente legge.
 
 ## Art. 2.
 
 Alla parte di territorio del comune di Soccavo compresa nella cinta daziaria di Napoli, a termini del succitato decreto, saranno applicabili agli effetti del dazio di consumo le disposizioni degli [articoli 10 della legge 
  
- 6 luglio 1905, n. 323, 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-06;35#art_10) del testo unico approvato col [R. decreto 7 maggio 1908, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-07;248), e 276 del regolamento, approvato col [R. decreto 17 giugno 1909, numero 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-06-17;455). 
+ 6 luglio 1905, n. 323, 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-06;35#art_10) del testo unico approvato col [R. decreto 7 maggio 1908, n. 248](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sui%20dazi%20interni%20di%20consumo.%20008U0248.md), e 276 del regolamento, approvato col [R. decreto 17 giugno 1909, numero 455](Che%20approva%20il%20nuovo%20regolamento%20generale%20per%20la%20riscossione%20dei%20dazi%20interni%20di%20consumo.%20009U0455.md). 
  
  E' data facolta' al Ministero delle finanze di introdurre per decreti Reali da comunicarsi al Parlamento, quelle modificazioni di tracciati della nuova cinta daziaria che, nell'interesse del servizio, si rendano necessarie nella prima attuazione della presente legge.
 

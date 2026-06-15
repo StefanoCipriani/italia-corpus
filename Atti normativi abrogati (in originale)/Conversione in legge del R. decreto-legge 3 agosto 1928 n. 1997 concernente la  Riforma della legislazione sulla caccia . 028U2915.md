@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-03;1997), concernente la «Riforma della legislazione sulla caccia». 
+ E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1997](Riforma%20della%20legislazione%20sulla%20caccia.%20028U1997.md), concernente la «Riforma della legislazione sulla caccia». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

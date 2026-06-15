@@ -20,9 +20,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e della [leggi 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e della [leggi 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il regolamento sull'avanzamento dei corpi militari della R. marina, approvato con [R. decreto 4 settembre 1898, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-09-04;444), e successive modificazioni; 
+ Visto il regolamento sull'avanzamento dei corpi militari della R. marina, approvato con [R. decreto 4 settembre 1898, n. 444](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md), e successive modificazioni; 
  
  Sentito il Consiglio dei ministri; 
  

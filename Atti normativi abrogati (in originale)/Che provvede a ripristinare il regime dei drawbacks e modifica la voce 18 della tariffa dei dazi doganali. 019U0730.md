@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visti l'art. 2 dell'allegato D e l'art. 2 dell'allegato F al Nostro decreto 15 settembre 1915, n. 1373, nonche' i Nostri decreti 3 febbraio 1918, n. 181, e 30 giugno 1918, n. 881, circa il diritto alla restituzione e all'abbuono di dazi di confine, di tasse e soprattasse di fabbricazione per le merci in esportazione dallo Stato;
 
-Visti la [legge 17 luglio 1910, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;547), portante modificazioni all'imposta sulla fabbricazione dello zucchero indigeno e il testo unito della tariffa dei dazi doganali approvato con [R. decreto 28 luglio 1910, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-28;577);
+Visti la [legge 17 luglio 1910, n. 547](Provvedimento%20riguardante%20modificazioni%20alla%20imposta%20sulla%20fabbricazione%20dello%20zucchero%20indigeno.%20010U0547.md), portante modificazioni all'imposta sulla fabbricazione dello zucchero indigeno e il testo unito della tariffa dei dazi doganali approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md);
 
 Sulla proposta del ministro segretario di Stato per le finanze, di concerto con quelli per il tesoro, per l'industria, il commercio e il lavoro, e per gli approvvigionamenti e consumi;
 
@@ -38,7 +38,7 @@ Gli abbuoni per lo spirito in natura e gli abbuoni e le restituzioni per i prodo
 
 ## Art. 3.
 
-Il n. 18 della tariffa dei dazi doganali (testo unico approvato con [R. decreto 28 luglio 1910, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-28;577)) e' modificato come risulta dalla seguente tabella.
+Il n. 18 della tariffa dei dazi doganali (testo unico approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md)) e' modificato come risulta dalla seguente tabella.
 
 Numero e lettera della tariffa
                                 Denominazione delle merci

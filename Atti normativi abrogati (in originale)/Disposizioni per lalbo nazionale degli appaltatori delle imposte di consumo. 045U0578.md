@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [R. decreto-legge 6 aprile 1944, n. 123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-04-06;123), concernente disposizioni provvisorie per le ammissioni all'albo degli appaltatori delle imposte di consumo, e' abrogato.
+Il [R. decreto-legge 6 aprile 1944, n. 123](Disposizioni%20provvisorie%20per%20le%20ammissioni%20allAlbo%20degli%20Appaltatori%20delle%20Imposte%20di%20Consumo.%20044U0123.md), concernente disposizioni provvisorie per le ammissioni all'albo degli appaltatori delle imposte di consumo, e' abrogato.
 
 ## Art. 2.
 

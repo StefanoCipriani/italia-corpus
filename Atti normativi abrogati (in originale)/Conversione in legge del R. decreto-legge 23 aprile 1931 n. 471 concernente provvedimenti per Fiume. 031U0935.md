@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 aprile 1931, n. 471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-23;471), concernente la sistemazione dei rapporti di debito e credito fra la Cassa di risparmio di Fiume ed il Tesoro dello Stato. 
+ E' convertito in legge il [R. decreto-legge 23 aprile 1931, n. 471](Sistemazione%20dei%20rapporti%20di%20debito%20e%20credito%20fra%20la%20Cassa%20di%20risparmio%20di%20Fiume%20e%20il%20Tesoro%20dello%20Stato.%20031U0471.md), concernente la sistemazione dei rapporti di debito e credito fra la Cassa di risparmio di Fiume ed il Tesoro dello Stato. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 18 giugno 1931 - Anno IX 
  

@@ -26,7 +26,7 @@ La elezione dei deputati ha luogo:
 
 ## Art. 3.
 
-La facolta' di proporre candidati spetta anzitutto alle Confederazioni nazionali di sindacati legalmente riconosciute, a termini dell'[art. 41 del R. decreto 1° luglio 1926, n. 1130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1130#art_41). 
+La facolta' di proporre candidati spetta anzitutto alle Confederazioni nazionali di sindacati legalmente riconosciute, a termini dell'[art. 41 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md). 
  
  Gli enti predetti propongono un numero complessivo di candidati pari al doppio dei deputati da eleggere. 
  

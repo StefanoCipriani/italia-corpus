@@ -12,10 +12,10 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Veduto lo statuto del libero Istituto superiore di scienze sociali di Trento, approvato con [decreto del Presidente della Repubblica 4 luglio 1967, n. 1099](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-07-04;1099); 
+ Veduto lo statuto del libero Istituto superiore di scienze sociali di Trento, approvato con [decreto del Presidente della Repubblica 4 luglio 1967, n. 1099](../DPR/Approvazione%20dello%20statuto%20del%20libero%20Istituto%20superiore%20di%20scienze%20sociali%20di%20Trento.md); 
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
- Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73); 
- Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni; 
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md); 
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni; 
  Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta; 
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; 
  Sentito il parere del Consiglio superiore della pubblica istruzione; 

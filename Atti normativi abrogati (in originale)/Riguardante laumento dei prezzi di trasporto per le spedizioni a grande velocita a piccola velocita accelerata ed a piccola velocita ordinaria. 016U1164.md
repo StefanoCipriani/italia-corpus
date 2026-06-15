@@ -14,7 +14,7 @@ Fino a nuova disposizione, l'Amministrazione delle ferrovie dello Stato e' autor
 
 ## Art. 2.
 
-In attesa che abbia effetto la revisione delle tariffe, di cui l'[art. 38 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_38), modificata dalla [legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372), l'amministrazione delle ferrovie dello Stato e' altresi' autorizzata: 
+In attesa che abbia effetto la revisione delle tariffe, di cui l'[art. 38 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata dalla [legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md), l'amministrazione delle ferrovie dello Stato e' altresi' autorizzata: 
  
  a) a sospendere l'applicazione delle seguenti tariffe: 
  
@@ -32,7 +32,7 @@ In attesa che abbia effetto la revisione delle tariffe, di cui l'[art. 38 della 
 
 ## Art. 3.
 
-A parziale deroga dell'art. 14 comma c) della [legge 13 aprile 1911, n. 310 e dell'art. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-13;310#art_13) comma a) della [legge 23 luglio 1914, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742), l'Amministrazione delle ferrovie dello Stato, sentito il proprio Consiglio di amministrazione, e' autorizzata ad istituire in caso di concorrenza ed in via di esperimento, biglietti di corsa semplice e di andata e ritorno a prezzi specialmente ridotti senza pero' discendere al disotto dei prezzi concorrenti.
+A parziale deroga dell'art. 14 comma c) della [legge 13 aprile 1911, n. 310 e dell'art. 13](Che%20approva%20le%20modificazioni%20allordinamento%20delle%20ferrovie%20dello%20Stato%20ed%20il%20miglioramento%20economico%20del%20personale.%20011U0310.md) comma a) della [legge 23 luglio 1914, n. 742](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md), l'Amministrazione delle ferrovie dello Stato, sentito il proprio Consiglio di amministrazione, e' autorizzata ad istituire in caso di concorrenza ed in via di esperimento, biglietti di corsa semplice e di andata e ritorno a prezzi specialmente ridotti senza pero' discendere al disotto dei prezzi concorrenti.
 
 ## Art. 4.
 

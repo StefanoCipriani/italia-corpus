@@ -12,13 +12,13 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il decreto 31 ottobre 1946 del Ministro per l'agricoltura e per le foreste, d'intesa con l'Alto Commissario per l'alimentazione, per la disciplina dell'ammasso dell'olio d'oliva nella campagna 1946-47, pubblicato nella Gazzetta Ufficiale n. 252 del 6 novembre 1946;
 
-Vista la [legge 2 dicembre 1940, n. 1792](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-02;1792);
+Vista la [legge 2 dicembre 1940, n. 1792](Modificazioni%20alle%20disposizioni%20dellammasso%20dellolio%20di%20oliva%20e%20di%20sanse.%20040U1792.md);
 
 Visto il [regio decreto-legge 22 aprile 1943, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-22;245), e successive modificazioni;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -26,8 +26,8 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste, di intesa con i 
 
 ## Art. 1.
 
-Le disposizioni penali previste nel [decreto legislativo luogotenenziale 4 luglio 1944, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-07-04;153), per le infrazioni alla disciplina del conferimento del grano e dell'orzo ai granai del popolo e del [decreto legislativo del Capo provvisorio dello Stato 2 agosto 1946, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-08-02;68), relativo alla disciplina del conferimento dei cereali di produzione 1946, si applicano anche per le infrazioni agli obblighi di consegna dell'olio di oliva stabiliti dal decreto 31 ottobre 1946 del Ministro per l'agricoltura e per le foreste, relativo alla disciplina dell'ammasso dell'olio d'oliva nella campagna 1946-47.
- La perdita del diritto alle trattenute, prevista dall'[art. 5 del decreto legislativo luogotenenziale 4 luglio 1944, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-07-04;153#art_5), va riferita a quanto disposto dall'art. 20 lettere a), b) e c) e dall'art. 21 del decreto 31 ottobre 1946 del Ministro per l'agricoltura e per le foreste.
+Le disposizioni penali previste nel [decreto legislativo luogotenenziale 4 luglio 1944, n. 153](../Decreti%20legislativi%20luogotenenziali/Norme%20penali%20relative%20alla%20disciplina%20del%20conferimento%20del%20grano%20e%20dellorzo%20del%20raccolto%201944.%20044U0153.md), per le infrazioni alla disciplina del conferimento del grano e dell'orzo ai granai del popolo e del [decreto legislativo del Capo provvisorio dello Stato 2 agosto 1946, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-08-02;68), relativo alla disciplina del conferimento dei cereali di produzione 1946, si applicano anche per le infrazioni agli obblighi di consegna dell'olio di oliva stabiliti dal decreto 31 ottobre 1946 del Ministro per l'agricoltura e per le foreste, relativo alla disciplina dell'ammasso dell'olio d'oliva nella campagna 1946-47.
+ La perdita del diritto alle trattenute, prevista dall'[art. 5 del decreto legislativo luogotenenziale 4 luglio 1944, n. 153](../Decreti%20legislativi%20luogotenenziali/Norme%20penali%20relative%20alla%20disciplina%20del%20conferimento%20del%20grano%20e%20dellorzo%20del%20raccolto%201944.%20044U0153.md), va riferita a quanto disposto dall'art. 20 lettere a), b) e c) e dall'art. 21 del decreto 31 ottobre 1946 del Ministro per l'agricoltura e per le foreste.
 
 ## Art. 2.
 

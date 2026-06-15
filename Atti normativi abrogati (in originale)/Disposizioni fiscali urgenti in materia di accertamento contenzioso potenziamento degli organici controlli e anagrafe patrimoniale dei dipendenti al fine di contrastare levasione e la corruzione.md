@@ -30,7 +30,7 @@ Ai fini delle imposte sui redditi e sul valore aggiunto, la rettifica delle dich
 
 2.
 
-La definizione e' esclusa nelle ipotesi che costituiscono reato fiscale ai sensi del [decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;516), e successive modificazioni.
+La definizione e' esclusa nelle ipotesi che costituiscono reato fiscale ai sensi del [decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md), e successive modificazioni.
 
 3.
 
@@ -130,7 +130,7 @@ Al fine di verificare la scrupolosa osservanza da parte degli appartenenti all'a
                             c)
                                 esegue indagini patrimoniali sui soggetti di cui al presente comma;
                             d)
-                                richiede alle amministrazioni pubbliche, all'amministrazione postale, agli enti creditizi, alle societa' di intermediazione mobiliare, agli agenti di cambio, alle societa' autorizzate al collocamento a domicilio di valori mobiliari, alle societa' di gestione di fondi comuni di investimento mobiliare, alle societa' fiduciarie, alle imprese ed enti assicurativi ed alla societa' Monte Titoli S.p.a. di cui alla [legge 19 giugno 1986, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-19;289), copia della documentazione inerente i rapporti intrattenuti con i soggetti di cui al presente comma, nonche' ogni altra notizia o informazione utile ai fini dello svolgimento delle indagini di cui alla lettera c);
+                                richiede alle amministrazioni pubbliche, all'amministrazione postale, agli enti creditizi, alle societa' di intermediazione mobiliare, agli agenti di cambio, alle societa' autorizzate al collocamento a domicilio di valori mobiliari, alle societa' di gestione di fondi comuni di investimento mobiliare, alle societa' fiduciarie, alle imprese ed enti assicurativi ed alla societa' Monte Titoli S.p.a. di cui alla [legge 19 giugno 1986, n. 289](Disposizioni%20relative%20allamministrazione%20accentrata%20di%20valori%20mobiliari%20attraverso%20la%20Monte%20Titoli%20S.p.a.md), copia della documentazione inerente i rapporti intrattenuti con i soggetti di cui al presente comma, nonche' ogni altra notizia o informazione utile ai fini dello svolgimento delle indagini di cui alla lettera c);
                             e)
                                 richiede informazioni o documenti all'autorita' giudiziaria, salvo il rispetto delle norme che disciplinano il segreto delle indagini;
                             f)
@@ -196,7 +196,7 @@ I soggetti di cui al comma 1, con dichiarazione scritta, comunicano al SIS i dat
 
 3.
 
-Con il decreto di cui all'articolo 9 sono stabilite le modalita' di attuazione delle disposizioni di cui al comma 2, la cui mancata osservanza costituisce grave contrasto con i doveri di fedelta' dell'impiegato ai sensi dell'articolo 84, comma 1, lettera b), del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3).
+Con il decreto di cui all'articolo 9 sono stabilite le modalita' di attuazione delle disposizioni di cui al comma 2, la cui mancata osservanza costituisce grave contrasto con i doveri di fedelta' dell'impiegato ai sensi dell'articolo 84, comma 1, lettera b), del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 4.
 
@@ -220,7 +220,7 @@ Con decreto del Ministro delle finanze, da emanare ai sensi dell'[articolo 17, c
 
 1.
 
-Alla [legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146), sono apportate le seguenti modificazioni:
+Alla [legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md), sono apportate le seguenti modificazioni:
                             a)
                                 nell'articolo 9, comma primo, la lettera a) e' sostituita dalla seguente: " a) controlla, su ordine del Ministro delle finanze, l'attivita' di verifica e accertamento di uffici espressamente individuati di volta in volta nella richiesta stessa, avvalendosi anche dei direttori regionali territorialmente competenti o dei comandanti di zona della guardia di finanza; controlla, altresi', su ordine del Ministro delle finanze, le verifiche eseguite dalla guardia di finanza;". Nello stesso comma, lettera b), le parole: "del controllo" sono sostituite dalle seguenti: "dei controlli";
                             b)
@@ -236,13 +236,13 @@ Il limite quinquennale di cui al comma 1, lettera b), si applica anche agli ispe
 
 4.
 
-La suddivisione nelle categorie di provenienza di cui all'[articolo 10 della legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146#art_10), e' determinata con decreto del Ministro delle finanze.
+La suddivisione nelle categorie di provenienza di cui all'[articolo 10 della legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md), e' determinata con decreto del Ministro delle finanze.
 
 ### Art. 11. — Concorsi speciali
 
 1.
 
-I concorsi di cui all'[articolo 15, comma 3, del decreto-legge 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557#art_15-com3), convertito, con modificazioni, dalla [legge 26 febbraio 1994, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-26;133), per l'assunzione del personale da destinare al potenziamento dell'attivita' di controllo, si articolano in una prova di preselezione consistente in una serie di test psico-attitudinali, in una prova scritta, anche a carattere teorico-pratico, ed in un colloquio in materie attinenti al profilo professionale da ricoprire.
+I concorsi di cui all'[articolo 15, comma 3, del decreto-legge 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557#art_15-com3), convertito, con modificazioni, dalla [legge 26 febbraio 1994, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20557%20recante%20ulteriori%20interventi%20correttivi%20di%20finanza%20pubblica%20per%20lanno%201994.md), per l'assunzione del personale da destinare al potenziamento dell'attivita' di controllo, si articolano in una prova di preselezione consistente in una serie di test psico-attitudinali, in una prova scritta, anche a carattere teorico-pratico, ed in un colloquio in materie attinenti al profilo professionale da ricoprire.
 
 2.
 
@@ -258,7 +258,7 @@ Al concorso per il profilo professionale di funzionario tributario dell'ottava q
 
 Il [comma 1 dell'articolo 10 della legge 29 ottobre 1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358#art_10-com1), e' sostituito dai seguenti: 
  " 1. Il personale appartenente alle qualifiche dirigenziali del Ministero delle finanze, escluso quello del Dipartimento delle dogane e delle imposte indirette, e' inquadrato, secondo le modalita' stabilite dall'articolo 12, in un ruolo amministrativo e in un ruolo tecnico, aventi dotazioni organiche il cui numero complessivo non puo' superare le duemilaquattrocentoquindici unita', di cui cinque per il livello di funzione B, trentasei per il livello di funzione C, seicentoquattro per il livello di funzione D e millesettecentosettanta per il livello di funzione E. 
- 1-bis. Nella tabella A allegata al [decreto legislativo 26 aprile 1990, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-04-26;105), e' aggiunto un posto di funzione di consigliere ministeriale nella qualifica di dirigente generale di livello C.".
+ 1-bis. Nella tabella A allegata al [decreto legislativo 26 aprile 1990, n. 105](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Organizzazione%20centrale%20e%20periferica%20dellAmministrazione%20delle%20dogane%20e%20delle%20imposte%20indirette%20e%20ordinamento%20del%20relativo%20personale%20in%20attuazione%20della%20legge%2010%20ottobre%201989%20n.%20349.md), e' aggiunto un posto di funzione di consigliere ministeriale nella qualifica di dirigente generale di livello C.".
 
 2.
 

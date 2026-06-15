@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2047](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2047), concernente semplificazioni nel rilascio delle delegazioni da parte degli enti mutuatari dell'Amministrazione della Cassa depositi e prestiti e degli Istituti di previdenza. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2047](Semplificazioni%20nel%20rilascio%20delle%20delegazioni%20da%20parte%20degli%20enti%20mutuatari%20dellAmministrazione%20della%20Cassa%20depositi%20e%20prestiti%20e%20degli%20Istituti%20di%20previdenza.%20027U2047.md), concernente semplificazioni nel rilascio delle delegazioni da parte degli enti mutuatari dell'Amministrazione della Cassa depositi e prestiti e degli Istituti di previdenza. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

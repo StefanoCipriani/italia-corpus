@@ -10,19 +10,19 @@ vigente: true
 
 ## Art. 1.
 
-I termini di cui agli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-08-07;1732#art_13) e [14 del R. decreto-legge 7 agosto 1925, n. 1732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-08-07;1732#art_14), convertito in legge con la [legge 9 gennaio 1927, n. 58](Conversione%20in%20legge%20del%20R.%20decreto%207%20agosto%201925%20n.%201732%20col%20quale%20vennero%20pubblicate%20le%20norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20027U0058.md), sono prorogati al 30 giugno 1929. 
+I termini di cui agli [articoli 13](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md) e [14 del R. decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md), convertito in legge con la [legge 9 gennaio 1927, n. 58](Conversione%20in%20legge%20del%20R.%20decreto%207%20agosto%201925%20n.%201732%20col%20quale%20vennero%20pubblicate%20le%20norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20027U0058.md), sono prorogati al 30 giugno 1929. 
  
  La suindicata proroga non e', pero', applicabile alla produzione ed al commercio delle specialita' medicinali che vantino proprieta' ed effetti contrari, in qualsiasi modo, alla morale ed al buon costume e di quelle alle quali siano attribuite virtu' terapeutiche di sicuro effetto contro il cancro, il lupus e la tisi polmonare. 
  
  Art. 2. 
  
- Le domande per continuare a produrre specialita' medicinali agli effetti dell'[art. 13 del R. decreto-legge 7 agosto 1925, n. 1732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-08-07;1732#art_13), quelle per continuare il commercio delle specialita' medicinali agli effetti dell'art. 14 dello stesso Regio decreto-legge e quelle per ottenere l'autorizzazione a continuare a fabbricare per vendere i prodotti indicati nell'art. 12 del Regio decreto-legge medesimo, debbono essere presentate al Ministero dell'interno entro il 31 dicembre 1928. 
+ Le domande per continuare a produrre specialita' medicinali agli effetti dell'[art. 13 del R. decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md), quelle per continuare il commercio delle specialita' medicinali agli effetti dell'art. 14 dello stesso Regio decreto-legge e quelle per ottenere l'autorizzazione a continuare a fabbricare per vendere i prodotti indicati nell'art. 12 del Regio decreto-legge medesimo, debbono essere presentate al Ministero dell'interno entro il 31 dicembre 1928. 
  
- Per la registrazione di specialita' medicinali e per l'autorizzazione a fabbricare per vendere i prodotti di cui all'[articolo 12 del R. decreto-legge 7 agosto 1925, n. 1732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-08-07;1732#art_12), chieste dopo la scadenza del suindicato termine, sara' indistintamente applicata la tassa di cui al n. 3 della tabella A, annessa al [R. decreto-legge 7 agosto 1925, n. 1732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-08-07;1732). 
+ Per la registrazione di specialita' medicinali e per l'autorizzazione a fabbricare per vendere i prodotti di cui all'[articolo 12 del R. decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md), chieste dopo la scadenza del suindicato termine, sara' indistintamente applicata la tassa di cui al n. 3 della tabella A, annessa al [R. decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md). 
  
  Art. 3. 
  
- Per la vendita al pubblico delle specialita' medicinali con indicazione di uso per i bambini, contenenti una o piu' sostanze tossiche aventi azione stupefacente in proporzioni non superiori a quelle indicate nella tabella A, annessa al [regolamento 9 novembre 1923, n. 2534](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1923-11-09;2534), sono applicabili le disposizioni del [2°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_61-com2) e [3° comma dell'art. 61 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_61-com3), approvato con [R. decreto 1° agosto 1907, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-01;636). 
+ Per la vendita al pubblico delle specialita' medicinali con indicazione di uso per i bambini, contenenti una o piu' sostanze tossiche aventi azione stupefacente in proporzioni non superiori a quelle indicate nella tabella A, annessa al [regolamento 9 novembre 1923, n. 2534](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1923-11-09;2534), sono applicabili le disposizioni del [2°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_61-com2) e [3° comma dell'art. 61 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_61-com3), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md). 
  
  E' data, inoltre, facolta' al Ministro per l'interno, sentita la Commissione centrale consultiva per le specialita' medicinali, di stabilire a quali altri prodotti debba essere applicata, per quanto concerne la vendita al pubblico, la disposizione del presente articolo. 
  
@@ -32,7 +32,7 @@ I termini di cui agli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:n
  
  Art. 5. 
  
- Ai numeri 3°, 4°, 5°, 6° della tabella A annessa al [R. decreto-legge 7 agosto 1925, n. 1732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-08-07;1732), sono sostituiti i seguenti: 
+ Ai numeri 3°, 4°, 5°, 6° della tabella A annessa al [R. decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md), sono sostituiti i seguenti: 
  
  3° tassa per registrazione sanitaria di specialita' 
  medicinali estere o nazionali, per ogni specialita', 

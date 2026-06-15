@@ -78,7 +78,7 @@ Le imprese sono inscritte negli elenchi in ordine alfabetico e con l'indicazione
  
  Per mantenere in vigore la iscrizione negli elenchi, i richiedenti devono, entro il 31 dicembre di ogni anno, presentare al Ministero delle comunicazioni la quietanza dello eseguito pagamento della tassa per l'anno solare successivo. 
  
- Ove nel termine suddetto non sia presentata tale quietanza e comunque permanga la iscrizione nell'albo senza il pagamento della tassa, s'incorre nelle sanzioni previste dall'art. 9 della legge tributaria sulle concessioni governative 30 dicembre 1923, n. 3279, modificato con il [R. decreto 26 marzo 1936, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-03-26;1418), e la cancellazione viene operata di ufficio.
+ Ove nel termine suddetto non sia presentata tale quietanza e comunque permanga la iscrizione nell'albo senza il pagamento della tassa, s'incorre nelle sanzioni previste dall'art. 9 della legge tributaria sulle concessioni governative 30 dicembre 1923, n. 3279, modificato con il [R. decreto 26 marzo 1936, n. 1418](Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md), e la cancellazione viene operata di ufficio.
 
 ## Art. 3.
 

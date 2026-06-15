@@ -24,7 +24,7 @@ Ritenuta la necessita' di inscrivere nello stato di previsione del Ministero del
 
 Considerato che e' d'uopo rettificare la denominazione del capitolo n. 270-decies istituito nello stato di previsione della spesa del Ministero della istruzione pubblica per l'esercizio finanziario 1915-916 in applicazione del Nostro decreto 30 aprile 1916 n. 519, dovendo, il rimborso di lire 127.602,96 col decreto medesimo autorizzato a favore degli ospedali civili di Genova por spese occorse per il mantenimento delle R. Universita', riferirsi al fondo dal 1° gennaio 1913 al 31 luglio 1914, anziche' a quello dal 1° novembre 1913 al 31 ottobre 1914 come venne ivi indicato;
 
-Vista la [legge 9 luglio 1916, n. 814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-07-09;814);
+Vista la [legge 9 luglio 1916, n. 814](Che%20proroga%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lanno%20finanziario%201916-917%20fino%20quando%20non%20siano%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%20_cbe86bff6c88.md);
 
 Udito il Consiglio dei ministri;
 

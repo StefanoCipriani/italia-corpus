@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), sull'ordinamento della Regia marina;
 
-Visto il testo unico delle disposizioni legislative riguardanti l'ordinamento del Corpo Reale Equipaggi Marittimi e lo stato giuridico dei sottufficiali della Regia Marina approvato con [R. decreto 21 agosto 1924, n. 1525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-21;1525), e sue successive modificazioni;
+Visto il testo unico delle disposizioni legislative riguardanti l'ordinamento del Corpo Reale Equipaggi Marittimi e lo stato giuridico dei sottufficiali della Regia Marina approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e sue successive modificazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926; n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), che da' facolta' al potere esecutivo di emanare norme giuridiche;
 
@@ -34,7 +34,7 @@ La categoria degli assistenti del Genio navale del corpo Reali equipaggi maritti
 
 ## Art. 2.
 
-Al testo unico delle disposizioni legislative riguardanti l'ordinamento del corpo Reale equipaggi marittimi e lo stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto 21 agosto 1924, n. 1525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-21;1525), e sue successive modificazioni, sono apportate le varianti stabilite negli articoli seguenti.
+Al testo unico delle disposizioni legislative riguardanti l'ordinamento del corpo Reale equipaggi marittimi e lo stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e sue successive modificazioni, sono apportate le varianti stabilite negli articoli seguenti.
 
 ## Art. 3.
 

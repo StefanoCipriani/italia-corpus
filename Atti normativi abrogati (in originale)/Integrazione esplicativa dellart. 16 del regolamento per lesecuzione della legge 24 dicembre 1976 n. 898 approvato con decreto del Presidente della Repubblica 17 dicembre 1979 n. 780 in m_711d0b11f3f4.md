@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 24 dicembre 1976, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-12-24;898), concernente la nuova regolamentazione delle servitu' militari;
+Vista la [legge 24 dicembre 1976, n. 898](Nuova%20regolamentazione%20delle%20servitu%20militari.md), concernente la nuova regolamentazione delle servitu' militari;
 
-Visto l'art. 16, comma primo, del regolamento per l'esecuzione della [legge 24 dicembre 1976, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-12-24;898), approvato con [decreto del Presidente della Repubblica 17 dicembre 1979, n. 780](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20dicembre%201976%20n.%20898%20concernente%20la%20nuova%20regolamentazione%20delle%20servitu%20militari.md);
+Visto l'art. 16, comma primo, del regolamento per l'esecuzione della [legge 24 dicembre 1976, n. 898](Nuova%20regolamentazione%20delle%20servitu%20militari.md), approvato con [decreto del Presidente della Repubblica 17 dicembre 1979, n. 780](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20dicembre%201976%20n.%20898%20concernente%20la%20nuova%20regolamentazione%20delle%20servitu%20militari.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -26,11 +26,11 @@ EMANA il seguente decreto:
 
 ## Articolo unico
 
-Il primo comma dell'art. 16 del regolamento per l'esecuzione della [legge 24 dicembre 1976, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-12-24;898), approvato con [decreto del Presidente della Repubblica 17 dicembre 1979, n. 780](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20dicembre%201976%20n.%20898%20concernente%20la%20nuova%20regolamentazione%20delle%20servitu%20militari.md), e' sostituito dal seguente: 
+Il primo comma dell'art. 16 del regolamento per l'esecuzione della [legge 24 dicembre 1976, n. 898](Nuova%20regolamentazione%20delle%20servitu%20militari.md), approvato con [decreto del Presidente della Repubblica 17 dicembre 1979, n. 780](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20dicembre%201976%20n.%20898%20concernente%20la%20nuova%20regolamentazione%20delle%20servitu%20militari.md), e' sostituito dal seguente: 
  "I provvedimenti di cui al primo comma dell'art. 15 della legge, necessari per la tutela della pubblica incolumita' nel corso delle esercitazioni militari e dei corpi civili dello Stato militarmente addestrati, sono adottati dal comandante territoriale con propria ordinanza".
 
 - Rispetto alla precedente formulazione del primo comma dell'art. 16 del regolamento sono state aggiunte le parole "e dei corpi civili dello Stato militarmente addestrati".
- - Il testo del [primo comma dell'art. 15 della legge 24 dicembre 1976, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-12-24;898#art_15-com1), e' il seguente:
+ - Il testo del [primo comma dell'art. 15 della legge 24 dicembre 1976, n. 898](Nuova%20regolamentazione%20delle%20servitu%20militari.md), e' il seguente:
  "Per il tempo strettamente necessario allo svolgimento di esercitazioni, il comandante territoriale puo' disporre, per motivi di pubblica incolumita', lo sgombero e l'occupazione di immobili ed il divieto di accedervi, lo sgombero di specchi d'acqua e imporre limitazioni alla circolazione stradale".
  "Per il tempo strettamente necessario allo svolgimento di esercitazioni, il comandante territoriale puo' disporre, per motivi di pubblica incolumita', lo sgombero e l'occupazione di immobili ed il divieto di accedervi, lo sgombero di specchi d'acqua e imporre limitazioni alla circolazione stradale".
 

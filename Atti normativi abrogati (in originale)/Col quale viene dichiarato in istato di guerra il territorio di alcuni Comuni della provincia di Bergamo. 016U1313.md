@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[art. 242 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_242) per l'esercito, approvato con R. decreto 28 novembre 1869; 
+ Visto l'[art. 242 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, approvato con R. decreto 28 novembre 1869; 
  
  Sentito il Consiglio dei ministri; 
  

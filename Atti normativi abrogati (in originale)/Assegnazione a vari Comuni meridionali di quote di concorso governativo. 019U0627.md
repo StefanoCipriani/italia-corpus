@@ -14,4 +14,4 @@ N.
 
 627.
 
-Decreto Luogotenenziale 10 aprile 1919, col quale, sulla proposta del ministro delle finanze, vengono assegnate a vari Comuni meridionali le quote di concorso governativo per gli anni dal 1907 al 1918, per l'integrazione provvisoria delle deficienze di bilancio, causate dalla applicazione delle disposizioni sui tributi locali, contenute nelle [leggi 31 marzo 1904, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;140); 25 giugno e 15 luglio 1906, nn. 255 e 383.
+Decreto Luogotenenziale 10 aprile 1919, col quale, sulla proposta del ministro delle finanze, vengono assegnate a vari Comuni meridionali le quote di concorso governativo per gli anni dal 1907 al 1918, per l'integrazione provvisoria delle deficienze di bilancio, causate dalla applicazione delle disposizioni sui tributi locali, contenute nelle [leggi 31 marzo 1904, n. 140](Che%20emana%20provvedimenti%20a%20favore%20della%20provincia%20di%20Basilicata.%20004U0140.md); 25 giugno e 15 luglio 1906, nn. 255 e 383.

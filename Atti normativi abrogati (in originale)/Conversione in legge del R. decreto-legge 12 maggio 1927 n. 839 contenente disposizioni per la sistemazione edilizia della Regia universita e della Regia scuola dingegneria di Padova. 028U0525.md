@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 maggio 1927, n. 839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-12;839), contenente disposizioni per la sistemazione edilizia della Regia universita' e della Regia scuola d'ingegneria di Padova. 
+ E' convertito in legge il [R. decreto-legge 12 maggio 1927, n. 839](Disposizioni%20per%20la%20sistemazione%20edilizia%20della%20Regia%20universita%20e%20della%20Regia%20scuola%20dingegneria%20di%20Padova.%20027U0839.md), contenente disposizioni per la sistemazione edilizia della Regia universita' e della Regia scuola d'ingegneria di Padova. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

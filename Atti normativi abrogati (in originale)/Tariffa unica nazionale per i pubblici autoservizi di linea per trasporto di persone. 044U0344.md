@@ -18,15 +18,15 @@ In virtu' della autorita' a Noi delegata;
 
 Visto i1 testo unico delle disposizioni di legge delle ferrovie concesse all'industria privata, tramvie ed automobili approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e successive modificazioni;
 
-Visto la [legge 28 settembre 1939, n. 1822](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-09-28;1822);
+Visto la [legge 28 settembre 1939, n. 1822](Disciplina%20degli%20autoservizi%20di%20linea%20autolinee%20per%20viaggiatori%20bagagli%20e%20pacchi%20agricoli%20in%20regime%20di%20concessione%20allindustria%20privata.%20039U1822.md);
 
-Visto il [R. decreto-legge 12 marzo 1941, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-03-12;142);
+Visto il [R. decreto-legge 12 marzo 1941, n. 142](Proroga%20per%20tutta%20la%20durata%20dellattuale%20stato%20di%20guerra%20del%20blocco%20dei%20prezzi%20delle%20merci%20e%20dei%20servizi%20delle%20costruzioni%20edilizie%20degli%20impianti%20industriali%20e%20degli%20affitti.%20041U0142.md);
 
-Visto il [R. decreto-legge 16 dicembre 1943, n. 27/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-16;27);
+Visto il [R. decreto-legge 16 dicembre 1943, n. 27/B](Aumenti%20delle%20tariffe%20per%20i%20trasporti%20di%20persone%20e%20di%20cose%20nelle%20ferrovie%20dello%20Stato%20e%20negli%20altri%20servizi%20pubblici%20di%20trasporto.%20043U0027.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e successive modificazioni;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e successive modificazioni;
 
 Vista, la deliberazione del Consiglio dei Ministri;
 
@@ -38,7 +38,7 @@ Fino a sei mesi dopo la cessazione dello stato di guerra le tariffe degli autose
 
 ## Art. 2.
 
-I concessionari' dei servizi di cui all'art. 1 sono autorizzati a maggiorare, a titolo di rivalsa, i prezzi dei trasporti della imposta sulla entrata prevista nell'[articolo 8, lettera l), del R. decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-01-09;2#art_8-letl), convertito nella [legge 19 giugno 1940, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-19;762).
+I concessionari' dei servizi di cui all'art. 1 sono autorizzati a maggiorare, a titolo di rivalsa, i prezzi dei trasporti della imposta sulla entrata prevista nell'[articolo 8, lettera l), del R. decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md).
 
 ## Art. 3.
 

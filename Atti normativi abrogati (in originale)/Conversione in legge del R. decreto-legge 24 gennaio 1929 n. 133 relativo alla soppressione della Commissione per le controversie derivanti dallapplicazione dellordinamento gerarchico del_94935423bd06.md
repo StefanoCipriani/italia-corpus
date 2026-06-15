@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 gennaio 1929, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-24;133), relativo alla soppressione della Commissione per le controversie derivanti dall'applicazione dell'ordinamento gerarchico delle Amministrazioni dello Stato. 
+ E' convertito in legge il [R. decreto-legge 24 gennaio 1929, n. 133](Soppressione%20della%20Commissione%20per%20la%20decisione%20delle%20controversie%20derivanti%20dallapplicazione%20dellordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20029U0133.md), relativo alla soppressione della Commissione per le controversie derivanti dall'applicazione dell'ordinamento gerarchico delle Amministrazioni dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserti nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

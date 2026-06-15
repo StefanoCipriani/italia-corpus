@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 agosto 1933, n. 1212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-08-18;1212), che approva una convenzione modificativa di quelle vigenti con la Societa', « La Meridionale » di Palermo, per l'esercizio delle linee di navigazione costituenti il gruppo E ( Isole Egadi, Pelagie, Ustica e Pantelleria). 
+ E' convertito in legge il [R. decreto-legge 18 agosto 1933, n. 1212](Approvazione%20della%20convenzione%20modificativa%20di%20quelle%207%20novembre%201925%20e%207%20agosto%201930%20per%20lesercizio%20delle%20linee%20di%20navigazione%20costituenti%20il%20Gruppo%20E%20Isole%20Egadi%20Pelagie%20Ustica%20e%20Pantel_609cfa91c485.md), che approva una convenzione modificativa di quelle vigenti con la Societa', « La Meridionale » di Palermo, per l'esercizio delle linee di navigazione costituenti il gruppo E ( Isole Egadi, Pelagie, Ustica e Pantelleria). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

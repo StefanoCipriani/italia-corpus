@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 L'esercizio per conto dello Stato della ferrovia metropolitana di Roma (linea Termini-EUR) da effettuarsi dalla Societa' tranvie e ferrovie elettriche di Roma (STEFER) ai sensi della [legge 15 maggio 1954, n. 272](Concessione%20di%20esercizio%20della%20ferrovia%20metropolitana%20di%20Roma%20alla%20Societa%20tramvie%20e%20ferrovie%20elettriche%20di%20Roma%20S.T.E.F.E.R.md), per un periodo di tre anni dalla data di attivazione della ferrovia, e' prorogato di dieci anni.
- In pendenza della stipula dell'atto di proroga dell'esercizio provvisorio, che sara' approvato con decreto dei Ministri per i trasporti e per l'aviazione civile e per il tesoro, sentito il Consiglio di Stato e registrato col pagamento dell'imposta fissa, potranno essere accordati alla STEFER sussidi integrativi di esercizio ai sensi dell'[articolo 27 del regio decreto-legge 29 luglio 1938, n. 1121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-07-29;1121#art_27), salvo conguaglio.
+ In pendenza della stipula dell'atto di proroga dell'esercizio provvisorio, che sara' approvato con decreto dei Ministri per i trasporti e per l'aviazione civile e per il tesoro, sentito il Consiglio di Stato e registrato col pagamento dell'imposta fissa, potranno essere accordati alla STEFER sussidi integrativi di esercizio ai sensi dell'[articolo 27 del regio decreto-legge 29 luglio 1938, n. 1121](Unificazione%20del%20regime%20tributario%20per%20lautomobilismo%20industriale.%20038U1121.md), salvo conguaglio.
  A tal fine e' autorizzata la spesa di lire 1.800 milioni
 
 ## Art. 2.

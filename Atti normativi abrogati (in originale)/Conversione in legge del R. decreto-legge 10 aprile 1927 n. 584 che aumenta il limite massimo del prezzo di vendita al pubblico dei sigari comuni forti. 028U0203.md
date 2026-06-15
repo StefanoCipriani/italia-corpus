@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 aprile 1927, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-10;584), che aumenta il limite massimo del prezzo di vendita al pubblico dei sigari comuni forti. 
+ E' convertito in legge il [R. decreto-legge 10 aprile 1927, n. 584](Aumento%20del%20limite%20massimo%20del%20prezzo%20di%20vendita%20al%20pubblico%20dei%20sigari%20comuni%20forti.%20027U0584.md), che aumenta il limite massimo del prezzo di vendita al pubblico dei sigari comuni forti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

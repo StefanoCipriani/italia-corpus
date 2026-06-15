@@ -151,7 +151,7 @@ Il datore di lavoro deve procedere al licenziamento del dipendente nei confronti
 
 ### Art. 19.
 
-Al dipendente licenziato per risoluzione del rapporto, ai sensi dell'art. 16 del presente decreto, e' corrisposta l'indennita' prevista dai [commi terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-13;1825#art_10-com3) e [quarto dell'articolo 10 del R. decreto-legge 13 novembre 1924, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-13;1825#art_10-com4), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562), nonche' ogni altra indennita' prevista nei contratti di impiego. 
+Al dipendente licenziato per risoluzione del rapporto, ai sensi dell'art. 16 del presente decreto, e' corrisposta l'indennita' prevista dai [commi terzo](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md) e [quarto dell'articolo 10 del R. decreto-legge 13 novembre 1924, n. 1825](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), nonche' ogni altra indennita' prevista nei contratti di impiego. 
  
  Nel caso di rapporto a tempo determinato e' dovuta, a titolo di indennita', la minore somma tra l'importo delle retribuzioni, fino alla scadenza contrattuale del rapporto e l'ammontare della indennita' che sarebbe dovuta ove il contratto fosse a tempo indeterminato. 
  

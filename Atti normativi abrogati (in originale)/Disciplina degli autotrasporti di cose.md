@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 17 agosto 1944, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-17;188);
+Visto il [decreto legislativo luogotenenziale 17 agosto 1944, n. 188](../Decreti%20legislativi%20luogotenenziali/Istituzione%20dellEnte%20Nazionale%20Autotrasporti%20di%20Cose%20E.N.A.C..%20044U0188.md);
 
-Visto il [decreto legislativo luogotenenziale 13 ottobre 1944, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-13;324);
+Visto il [decreto legislativo luogotenenziale 13 ottobre 1944, n. 324](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20del%20decreto%20legislativo%20Luogotenenziale%2017%20agosto%201944%20n.%20188%20concernente%20la%20istituzione%20dellEnte%20nazionale%20autotrasporti%20di%20cose.%20044U0324.md);
 
 Visto il [decreto legislativo luogotenenziale 23 agosto 1945, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-23;537);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto l'[art. 4 del decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1#art_4);
 
@@ -88,7 +88,7 @@ In caso di liquidazione dell'E.A.M. il patrimonio residuo alla fine della liquid
 
 ## Art. 11.
 
-Sono abrogati il [decreto legislativo luogotenenziale 17 agosto 1944, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-17;188), relativo alla istituzione dell'Ente Nazionale Autotrasporti di Cose (E.N.A.C.), lo statuto ad Esso allegato, il [decreto legislativo luogotenenziale 13 ottobre 1944, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-13;324), con tenente norme integrative al decreto istitutivo; il [decreto legislativo luogotenenziale 23 agosto 1945, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-23;537), nonche' il decreto Ministeriale 8 maggio 1945, relativo alle condizioni generali per il trasporto di cose con automezzi ed il decreto interministeriale 30 gennaio 1945, relativo alla "tariffa unica per i trasporti di cose su strada con automezzi".
+Sono abrogati il [decreto legislativo luogotenenziale 17 agosto 1944, n. 188](../Decreti%20legislativi%20luogotenenziali/Istituzione%20dellEnte%20Nazionale%20Autotrasporti%20di%20Cose%20E.N.A.C..%20044U0188.md), relativo alla istituzione dell'Ente Nazionale Autotrasporti di Cose (E.N.A.C.), lo statuto ad Esso allegato, il [decreto legislativo luogotenenziale 13 ottobre 1944, n. 324](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20del%20decreto%20legislativo%20Luogotenenziale%2017%20agosto%201944%20n.%20188%20concernente%20la%20istituzione%20dellEnte%20nazionale%20autotrasporti%20di%20cose.%20044U0324.md), con tenente norme integrative al decreto istitutivo; il [decreto legislativo luogotenenziale 23 agosto 1945, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-23;537), nonche' il decreto Ministeriale 8 maggio 1945, relativo alle condizioni generali per il trasporto di cose con automezzi ed il decreto interministeriale 30 gennaio 1945, relativo alla "tariffa unica per i trasporti di cose su strada con automezzi".
  Il presente decreto entrera' in vigore nel giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare come legge dello Stato,

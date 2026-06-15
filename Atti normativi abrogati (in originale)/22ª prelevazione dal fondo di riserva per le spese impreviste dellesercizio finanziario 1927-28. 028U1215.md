@@ -35,7 +35,7 @@ Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 263 dello
  apportarsi al [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), ecc. . . . . . . . . . » 40,000  
  Cap. n. 70 - Spese pei servizi delle Commissioni 
  incaricate degli studi legislativi per la riforma 
- del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), ecc. . . . . . . . . . . . . . . » 120,000  
+ del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ecc. . . . . . . . . . . . . . . » 120,000  
  Cap. n. 72 - Spese per i servizi della Commissione 
  incaricata di studiare le modificazioni 
  alle norme, ecc. . . . . . . . . . . . . . . . . . » 5,000  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-La [legge 23 dicembre 1940, n. 2042, e l'art. 1, lettera u](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-23;2042#art_1-letu), del [R. decreto-legge 9 settembre 1937, n. 1769](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-09-09;1769), convertito nella [legge 13 febbraio 1938, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-02-13;20), sono abrogati. 
+La [legge 23 dicembre 1940, n. 2042, e l'art. 1, lettera u](Divieto%20delluso%20di%20parole%20straniere%20nelle%20intestazioni%20delle%20ditte%20e%20nelle%20varie%20forme%20pubblicitarie.%20040U2042.md), del [R. decreto-legge 9 settembre 1937, n. 1769](Modificazioni%20al%20testo%20unico%2014%20settembre%201931-IX%20n.%201175%20per%20la%20finanza%20locale%20e%20al%20R.%20decreto%2014%20giugno%201928-VI%20n.%201393%20concernente%20le%20pubbliche%20affissioni%20e%20la%20pubblicita%20affine.%20037U1769.md), convertito nella [legge 13 febbraio 1938, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-02-13;20), sono abrogati. 
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 

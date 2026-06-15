@@ -58,7 +58,7 @@ In case di inadempienza da parte del Consiglio sindacale degli obblighi di cui a
 
 A decorrere dal 1° giugno 1925, cessa la facolta' di negoziare alle grida, data alle persone fisiche e morali di cui nel [R. decreto 23 giugno 1923, n. 1428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-23;1428). 
  
- Le Associazioni patrimoniali costituite in base al [R. decreto 28 giugno 1914, n. 779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-06-28;779), sono soppresse con effetto dal 1° giugno 1925, e col regolamento saranno stabilite le norme per la liquidazione.
+ Le Associazioni patrimoniali costituite in base al [R. decreto 28 giugno 1914, n. 779](Portante%20norme%20sulle%20Associazioni%20fra%20agenti%20di%20cambio%20nelle%20Borse%20di%20Genova%20Milano%20Roma%20e%20Torino%20014U0779.md), sono soppresse con effetto dal 1° giugno 1925, e col regolamento saranno stabilite le norme per la liquidazione.
 
 ## Art. 7.
 

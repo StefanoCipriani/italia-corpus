@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Viste le [leggi 11 marzo 1953, n. 150 e 18 giugno 1954, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-06-18;343), concernenti delega legislativa al Governo per l'attribuzione di funzioni statali di interesse esclusivamente locale alle Province, ai Comuni e ad altri Enti locali per l'attuazione del decentramento amministrativo;
+Viste le [leggi 11 marzo 1953, n. 150 e 18 giugno 1954, n. 343](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20del%20termine%20previsto%20dagli%20articoli%201%20e%208%20della%20legge%2011%20marzo%201953%20n.%20150%20per%20la%20delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20di%20interesse%20esclusivamente%20l_8fb8bdc361e6.md), concernenti delega legislativa al Governo per l'attribuzione di funzioni statali di interesse esclusivamente locale alle Province, ai Comuni e ad altri Enti locali per l'attuazione del decentramento amministrativo;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Udito il parere della Commissione consultiva istituita con l'[art. 2 della legge 11 marzo 1953, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;150#art_2);
+Udito il parere della Commissione consultiva istituita con l'[art. 2 della legge 11 marzo 1953, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,25 +22,25 @@ Sulla proposta del Presidente del Consiglio dei Ministri e Ministro per l'intern
 
 ## Art. 1.
 
-I contratti di cui ai commi primo e secondo dell'art. 24 del testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con il [regio decreto 2 febbraio 1928, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263), sono approvati dalle autorita' ivi indicate, intendendosi sostituito a quelle indicate dalla lettera d) il comandante militare territoriale. 
+I contratti di cui ai commi primo e secondo dell'art. 24 del testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con il [regio decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono approvati dalle autorita' ivi indicate, intendendosi sostituito a quelle indicate dalla lettera d) il comandante militare territoriale. 
  Per la Marina e l'Aeronautica i contratti relativi al mantenimento e alla vestizione de sottufficiali e dei militari di truppa e al casermaggio sono approvati rispettivamente dal comandante in capo di dipartimento militare marittimo o dal comandante marittimo autonomo dell'Alto Adriatico e dal comandante di zona aerea territoriale o di aeronautica, quando si tratti di contratti che riguardano enti dislocati nella propria circoscrizione territoriale e per i quali non sia necessario sentire il parere del Consiglio di Stato. 
  Per i contratti dell'Aeronautica, relativi al mantenimento e alla vestizione dei sottufficiali e dei militari di truppa e al casermaggio, stipulati in conformita' di capitolati d'oneri approvati, previo parere del Consiglio di Stato, con decreto Ministeriale, registrato alla Corte dei conti, non e' richiesto, sui relativi progetti, il parere del Consiglio di Stato, qualunque ne sia l'importo, anche se i contratti stessi siano stipulati a trattativa privata.
 
 ## Art. 2.
 
-Fermo il disposto dell'art. 30 del testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con il [regio decreto 2 febbraio 1928, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263), e' demandata ai comandanti in capo di dipartimento militare marittimo e al comandante militare marittimo autonomo dell'Alto Adriatico, ai comandanti di zona aerea territoriale e di aeronautica, previo parere dell'Avvocatura dello Stato competente, l'approvazione degli atti di transazione diretti a prevenire od a troncare contestazioni giudiziarie in dipendenza di contratti da essi approvati, quando cio' che l'Amministrazione da' o abbandona sia determinato o determinabile in somma non eccedente le lire un milione duecentomila. Se la questione implichi una decisione di massima, dovra' esserne riferito al Ministero della difesa per le sue determinazioni.
+Fermo il disposto dell'art. 30 del testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con il [regio decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), e' demandata ai comandanti in capo di dipartimento militare marittimo e al comandante militare marittimo autonomo dell'Alto Adriatico, ai comandanti di zona aerea territoriale e di aeronautica, previo parere dell'Avvocatura dello Stato competente, l'approvazione degli atti di transazione diretti a prevenire od a troncare contestazioni giudiziarie in dipendenza di contratti da essi approvati, quando cio' che l'Amministrazione da' o abbandona sia determinato o determinabile in somma non eccedente le lire un milione duecentomila. Se la questione implichi una decisione di massima, dovra' esserne riferito al Ministero della difesa per le sue determinazioni.
  Per le transazioni per somme superiori alle lire un milione duecentomila, nonche' per quelle di minore importo quando l'Amministrazione non si uniformi al parere dell'Avvocatura dello Stato, provvede il Ministero della difesa ai sensi dell'[art. 14 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_14).
 
 ## Art. 3.
 
-Gli atti di transazioni che riguardino risarcimento di danni a persone o cose prodotti dalla circolazione di automezzi militari, quando il loro importo non superi lire tre milioni, sono approvati dai comandanti militari territoriali, dai comandanti in capo di dipartimento marittimo e dal comandante marittimo autonomo dell'Alto Adriatico, dai comandanti di zona aerea territoriale e di aeronautica, sentito il parere dell'Avvocatura dello Stato competente; cio' anche in deroga al disposto dell'art. 30 del testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con il [regio decreto 2 febbraio 1928, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263).
+Gli atti di transazioni che riguardino risarcimento di danni a persone o cose prodotti dalla circolazione di automezzi militari, quando il loro importo non superi lire tre milioni, sono approvati dai comandanti militari territoriali, dai comandanti in capo di dipartimento marittimo e dal comandante marittimo autonomo dell'Alto Adriatico, dai comandanti di zona aerea territoriale e di aeronautica, sentito il parere dell'Avvocatura dello Stato competente; cio' anche in deroga al disposto dell'art. 30 del testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con il [regio decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md).
  Per le transazioni per somme superiori a lire tre milioni deve essere sentito il parere del Consiglio di Stato. Per dette transazioni nonche' per quelle di minore importo quando l'Amministrazione non si uniformi al parere dell'Avvocatura dello Stato provvede il Ministero della difesa, ai sensi dell'[art. 14 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_14).
 
 ## Art. 4.
 
 Art 4.
 
- Fermo il disposto dell'art. 31 del testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con il [regio decreto 2 febbraio 1928, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263), spetta ai comandanti in capo di dipartimento militare marittimo e al comandante militare marittimo autonomo dell'Alto Adriatico, ai comandanti di zona aerea territoriale e di aeronautica, per i contratti da essi approvati, riconoscere, sempre che cio' non implichi una questione di massima, se siano in tutto o in parte inapplicabili le clausole penali stabilite a carico dei fornitori o appaltatori quando la somma in controversia o che l'Amministrazione abbandoni non superi le lire trecentomila.
+ Fermo il disposto dell'art. 31 del testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con il [regio decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), spetta ai comandanti in capo di dipartimento militare marittimo e al comandante militare marittimo autonomo dell'Alto Adriatico, ai comandanti di zona aerea territoriale e di aeronautica, per i contratti da essi approvati, riconoscere, sempre che cio' non implichi una questione di massima, se siano in tutto o in parte inapplicabili le clausole penali stabilite a carico dei fornitori o appaltatori quando la somma in controversia o che l'Amministrazione abbandoni non superi le lire trecentomila.
  Per somme maggiori provvede il Ministero della difesa, ai sensi dell'[art. 15 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_15).
 
 ## Art. 5.
@@ -54,15 +54,15 @@ Sono approvati dai comandanti territoriali dell'Esercito, della Marina e dell'Ae
 
 ## Art. 7.
 
-Le somministrazioni di acqua, di gas e di energia elettrica, interessanti i servizi dell'Esercito, della Marina e dell'Aeronautica, sono effettuate in ogni caso ad economia. Ad esse si applicano le disposizioni contenute nel regolamento per i servizi ad economia dell'Aeronautica, approvato con il [regio decreto 6 aprile 1933, n. 805](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-04-06;805).
+Le somministrazioni di acqua, di gas e di energia elettrica, interessanti i servizi dell'Esercito, della Marina e dell'Aeronautica, sono effettuate in ogni caso ad economia. Ad esse si applicano le disposizioni contenute nel regolamento per i servizi ad economia dell'Aeronautica, approvato con il [regio decreto 6 aprile 1933, n. 805](Approvazione%20del%20regolamento%20per%20i%20servizi%20ad%20economia%20della%20Regia%20aeronautica.%20033U0805.md).
 
 ## Art. 8.
 
-La facolta' di concedere aperture di credito per le spese di cui alla lettera d) dell'art. 11 del testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con il [regio decreto 2 febbraio 1928, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263), quale risulta modificata dal successivo art. 11, puo' essere esercitata anche nei riguardi dei funzionari delegati della Marina e della Aeronautica.
+La facolta' di concedere aperture di credito per le spese di cui alla lettera d) dell'art. 11 del testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con il [regio decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), quale risulta modificata dal successivo art. 11, puo' essere esercitata anche nei riguardi dei funzionari delegati della Marina e della Aeronautica.
 
 ## Art. 9.
 
-Il limite di lire centomila di cui al quarto comma dell'art. 32 del regolamento per i lavori del genio militare, approvato con il [regio decreto 17 marzo 1932, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-03-17;366); gia' elevato a lire sei milioni per effetto della [legge 10 dicembre 1953, n. 936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-12-10;936), e' ulteriormente elevato a lire dodici milioni.
+Il limite di lire centomila di cui al quarto comma dell'art. 32 del regolamento per i lavori del genio militare, approvato con il [regio decreto 17 marzo 1932, n. 366](Approvazione%20delle%20condizioni%20generali%20per%20lappalto%20dei%20lavori%20del%20genio%20militare.%20032U0366.md); gia' elevato a lire sei milioni per effetto della [legge 10 dicembre 1953, n. 936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-12-10;936), e' ulteriormente elevato a lire dodici milioni.
 
 ## Art. 10.
 
@@ -71,12 +71,12 @@ I contratti relativi alla riparazione e manutenzione delle bardature, finimenti 
 
 ## Art. 11.
 
-Nell'art. 11 del testo unico delle disposizioni legislative, concernenti l'amministrazione e la contabilita', dei corpi, istituti e stabilimenti militari, approvato con il [regio decreto 2 febbraio 1928, n. 263, la lettera l)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263#art_letl) e' sostituita dalla seguente:
+Nell'art. 11 del testo unico delle disposizioni legislative, concernenti l'amministrazione e la contabilita', dei corpi, istituti e stabilimenti militari, approvato con il [regio decreto 2 febbraio 1928, n. 263, la lettera l)](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md) e' sostituita dalla seguente:
  "per spese di liti e di arbitramenti per risarcimento di danni, per occupazione e fitto di immobili, quando il relativo importo non superi le lire trecentomila".
 
 ## Art. 12.
 
-Al regolamento per l'amministrazione e contabilita' dei corpi, istituti e stabilimenti militari, approvato con il [regio decreto 10 febbraio 1927, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-02-10;443), sono apportate le seguenti modifiche: 
+Al regolamento per l'amministrazione e contabilita' dei corpi, istituti e stabilimenti militari, approvato con il [regio decreto 10 febbraio 1927, n. 443](Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20027U0443.md), sono apportate le seguenti modifiche: 
  1) Nell'art. 23, l'ultimo comma e' sostituito dal seguente: 
  "Gli addebiti sono fatti dal comandante del corpo quando non superino le lire seicentomila, dal comandante militare territoriale quando superino le lire seicentomila ma non i cinque milioni, dal Ministero negli altri casi". 
  2) Nell'art. 27, il secondo e terzo comma sono sostituiti dai seguenti: 
@@ -140,7 +140,7 @@ Al regolamento per l'amministrazione e contabilita' dei corpi, istituti e stabil
 
 ## Art. 13.
 
-Al regolamento sul servizio del materiale di artiglieria e automobilistico, approvato con il [regio decreto 16 agosto 1926, n. 1628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1628), sono apportate le seguenti modificazioni:
+Al regolamento sul servizio del materiale di artiglieria e automobilistico, approvato con il [regio decreto 16 agosto 1926, n. 1628](Nuovo%20regolamento%20per%20il%20servizio%20del%20materiale%20di%20artiglieria%20ed%20automobilistico%20del%20Regio%20esercito.%20026U1628.md), sono apportate le seguenti modificazioni:
  1) Nell'art. 76 il terzo comma e' sostituito dal seguente:
  "Per i materiali che non sono presi in carico l'addebito e' fatto normalmente al prezzo di acquisto od altrimenti a quello che possa essere loro attribuito. Gli addebiti sono fatti dal Ministero quando superano nel loro ammontare lire cinque milioni; al di sotto di tale limite vengono fatti dai comandi militari territoriali".
  2) Nell'art. 81, il primo ed il terzo comma sono sostituiti dai seguenti:
@@ -156,7 +156,7 @@ Al regolamento sul servizio del materiale di artiglieria e automobilistico, appr
 
 ## Art. 14.
 
-Al regolamento per l'amministrazione e la contabilita' degli enti aeronautici, approvato con il [regio decreto 22 marzo 1934, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-22;882), sono apportate le seguenti modifiche:
+Al regolamento per l'amministrazione e la contabilita' degli enti aeronautici, approvato con il [regio decreto 22 marzo 1934, n. 882](Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20034U0882.md), sono apportate le seguenti modifiche:
  1) Nell'art. 3, la lettera e) e' sostituita dalla seguente:
  "Alla concessione, previo parere dell'ufficiale sanitario, di razioni supplementari di pane. Delle concessioni e' data periodica notizia al comando di zona aerea territoriale".
  2) L'art. 4 e' sostituito dal seguente:
@@ -188,7 +188,7 @@ Al regolamento per l'amministrazione e la contabilita' degli enti aeronautici, a
 
 ## Art. 15.
 
-Alla [legge 20 dicembre 1932, n. 1849](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-12-20;1849), sono apportate le seguenti modifiche:
+Alla [legge 20 dicembre 1932, n. 1849](Riforma%20del%20testo%20unico%20delle%20leggi%20sulle%20servitu%20militari.%20032U1849.md), sono apportate le seguenti modifiche:
  1) Nell'art. 4, il primo, secondo e terzo comma sono sostituiti dai seguenti:
  "Per ogni opera o stabilimento od anche per gruppo di opere o stabilimenti analoghi, le servitu' e le zone a cui esse si estendono sono fissate con decreto del Ministro per la difesa, corredato dalle mappe catastali, sulle quali sono indicate con una o piu' tinte le zone stesse. Il decreto e' emanato previo parere di apposita commissione tecnica.
  Dove ancora manchino le mappe catastali provvedera' l'Amministrazione militare interessata mediante tipo planimetrico contenente le linee naturali e quelle divisorie di proprieta' necessarie per la completa rappresentazione delle zone e mediante allegato al tipo contenenti i dati sussidiari.
@@ -209,7 +209,7 @@ Al regolamento approvato con [regio decreto 4 maggio 1936, n. 1388](https://www.
 
 ## Art. 17.
 
-Al [Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), approvato con [regio decreto 30 marzo 1942, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), sono apportate le seguenti modifiche:
+Al [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), sono apportate le seguenti modifiche:
  1) Nell'art. 714, l'ultimo comma e' sostituito dal seguente:
  "L'ordine e' dato con decreto del Ministro per la difesa".
  2) All'art. 715 e' aggiunto il seguente comma:
@@ -219,7 +219,7 @@ Al [Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 ## Art. 18.
 
-Alla parte prima del regolamento per l'esecuzione del testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con il [regio decreto 6 giugno 1940, n. 1481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-06;1481), sono apportate le seguenti modifiche:
+Alla parte prima del regolamento per l'esecuzione del testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con il [regio decreto 6 giugno 1940, n. 1481](Parte%20prima%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20040U1481.md), sono apportate le seguenti modifiche:
  1) Nell'art. 84, il primo comma e' sostituito dal seguente:
  "I giovani stranieri iscritti sulle liste di leva possono chiedere di esserne cancellati, inoltrando all'ufficio di leva apposita domanda corredata della copia autentica dell'atto di nascita del padre e di un certificato della competente autorita' governativa, diplomatica o consolare (non dell'autorita' municipale) dello Stato al quale dichiarano di appartenere, comprovante che il padre (e se questi e' ignoto, la madre) e', per origine, cittadino dello Stato medesimo".
  2) L'art. 85 e' sostituito dal seguente:

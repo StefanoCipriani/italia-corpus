@@ -70,7 +70,7 @@ Tanto il regolamento generale, quanto i regolamenti speciali, possono essere mod
 
 ## Art. 5.
 
-Le contravvenzioni alle disposizioni contenute nei regolamenti saranno punite con ammende da indicarsi in ciascuno di essi. Le ammende non potranno eccedere la misura di L. 50 per ciascuna delle persone impiegate nel lavoro ed alle quali si riferisce la contravvenzione o le L. 2000 se la penalita' non sia comminata in relazione al numero delle persone predetto, salvo le maggiori pene comminate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per i casi da esso preveduti. In caso di recidiva l'ammenda sara' aumentata di un terzo ed il magistrato puo' inoltre ordinare la cessazione del lavoro fino a che non siasi ottemperato alle disposizioni regolamentari.
+Le contravvenzioni alle disposizioni contenute nei regolamenti saranno punite con ammende da indicarsi in ciascuno di essi. Le ammende non potranno eccedere la misura di L. 50 per ciascuna delle persone impiegate nel lavoro ed alle quali si riferisce la contravvenzione o le L. 2000 se la penalita' non sia comminata in relazione al numero delle persone predetto, salvo le maggiori pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i casi da esso preveduti. In caso di recidiva l'ammenda sara' aumentata di un terzo ed il magistrato puo' inoltre ordinare la cessazione del lavoro fino a che non siasi ottemperato alle disposizioni regolamentari.
 
 ## Art. 6.
 
@@ -78,7 +78,7 @@ La vigilanza per la esecuzione dei regolamenti sull'igiene del lavoro e' affidat
  
  Oltre i funzionari dipendenti dallo Stato, possono essere incaricati delle ispezioni anche gli Appartenenti al personale tecnico dell'associazione degli industriali per prevenire gli infortuni del lavoro. 
  
- Gli incaricati del servizio di ispezione hanno tutte le facolta' ed i doveri attribuiti dalla [legge 22 dicembre 1912, n. 1361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-22;1361), agli ispettori dell'industria e del lavoro.
+ Gli incaricati del servizio di ispezione hanno tutte le facolta' ed i doveri attribuiti dalla [legge 22 dicembre 1912, n. 1361](Che%20istituisce%20un%20corpo%20di%20ispettori%20dellindustria%20e%20del%20lavoro.%20012U1361.md), agli ispettori dell'industria e del lavoro.
 
 ## Art. 7.
 

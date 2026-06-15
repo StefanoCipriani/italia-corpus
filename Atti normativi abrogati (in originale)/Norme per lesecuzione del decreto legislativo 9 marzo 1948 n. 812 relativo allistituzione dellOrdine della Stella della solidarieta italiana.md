@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num1);
+Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto l'[art. 3 del decreto legislativo 9 marzo 1948, n. 812](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-09;812#art_3);
+Visto l'[art. 3 del decreto legislativo 9 marzo 1948, n. 812](../Decreti%20Legislativi/Nuove%20norme%20relative%20allOrdine%20della%20Stella%20dItalia.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -37,7 +37,7 @@ Le proposte per il conferimento della "Stella della solidarieta' italiana" a fav
 
 ## Art. 3.
 
-Il Consiglio da' il proprio parere in base alle benemerenze indicate dai rappresentante italiano all'estero, anche sulla classe della "Stella della solidarieta' italiana" da conferirsi ai candidati segnalati tenendo conto delle disponibilita' delle diverse classi per l'anno in corso stabilite dal Presidente della Repubblica ai sensi dell'[art. 4 del decreto legislativo 9 marzo 1948, n. 812](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-09;812#art_4).
+Il Consiglio da' il proprio parere in base alle benemerenze indicate dai rappresentante italiano all'estero, anche sulla classe della "Stella della solidarieta' italiana" da conferirsi ai candidati segnalati tenendo conto delle disponibilita' delle diverse classi per l'anno in corso stabilite dal Presidente della Repubblica ai sensi dell'[art. 4 del decreto legislativo 9 marzo 1948, n. 812](../Decreti%20Legislativi/Nuove%20norme%20relative%20allOrdine%20della%20Stella%20dItalia.md).
 
 ## Art. 4.
 

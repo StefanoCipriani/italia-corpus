@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto l'[art. 13 della legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141#art_13);
+Veduto l'[art. 13 della legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md);
 
 Veduto il Nostro decreto con cui fu vietato ogni pubblico concorso per il conferimento di uffici alle dipendenze degli enti locali;
 
@@ -68,11 +68,11 @@ I candidati dichiarati vincitori per le cattedre a cui, soli, aspirano, avranno 
  
  I candidati i quali risultino soltanto idonei, se la cattedra non spetta ad altri in applicazione delle disposizioni precedenti, conserveranno l'incarico per l'anno scolastico 1919-920, ma la cattedra da loro occupata dovra' considerarsi vacante, ed essere, a suo tempo, messa a concorso. 
  
- Le donne non potranno essere nominate se non per la disciplina, l'ordine ed il grado di Istituti per i quali possono essere ammesse a concorrere ai termini dell'art. 3 del regolamento approvato con [R. decreto 1° aprile 1915, n. 562 e dell'art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-01;562#art_8) del [decreto Luogotenenziale 25 aprile 1919, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-25;615).
+ Le donne non potranno essere nominate se non per la disciplina, l'ordine ed il grado di Istituti per i quali possono essere ammesse a concorrere ai termini dell'art. 3 del regolamento approvato con [R. decreto 1° aprile 1915, n. 562 e dell'art. 8](Col%20quale%20e%20approvato%20il%20regolamento%20per%20i%20concorsi%20e%20per%20le%20nomine%20a%20cattedre%20di%20ruolo%20nelle%20scuole%20medie%20e%20normali.%20015U0562.md) del [decreto Luogotenenziale 25 aprile 1919, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-25;615).
 
 ## Art. 7.
 
-Gli insegnanti che si trovano nelle condizioni previste dal 1° comma dell'art. 3 del presente decreto e sono stati dichiarati vincitori in concorsi a cattedra della stessa materia in scuole governative dello stesso ordine e grado, banditi dopo la [legge 8 aprile 1906, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142), possono essere nominati alla cattedra a cui aspirano con tutti gli effetti di cui al 2° comma dell'art. 6, senza l'obbligo di prendere parte al concorso indetto a norma del presente decreto.
+Gli insegnanti che si trovano nelle condizioni previste dal 1° comma dell'art. 3 del presente decreto e sono stati dichiarati vincitori in concorsi a cattedra della stessa materia in scuole governative dello stesso ordine e grado, banditi dopo la [legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md), possono essere nominati alla cattedra a cui aspirano con tutti gli effetti di cui al 2° comma dell'art. 6, senza l'obbligo di prendere parte al concorso indetto a norma del presente decreto.
 
 ## Art. 8.
 

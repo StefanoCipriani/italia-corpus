@@ -62,7 +62,7 @@ L'iscrizione nel casellario giudiziale delle sentenze e dei provvedimenti e' fat
  
  La scheda e' formata: 
  
- 1° nella materia penale, regolata dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) o da leggi speciali: 
+ 1° nella materia penale, regolata dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da leggi speciali: 
  
  a) per le sentenze di' condanna, divenute irrevocabili per i decreti di condanna, divenuti esecutivi; 
  

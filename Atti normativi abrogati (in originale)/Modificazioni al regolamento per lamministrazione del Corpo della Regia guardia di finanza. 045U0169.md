@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli articoli 36, comma primo, 59, 65, commi primo secondo e terzo, 74 comma quarto, 92, 93, 104, 124, 146, comma primo, e 152, comma quinto, del regolamento di amministrazione per la Regia guardia di finanza, approvato con [R. decreto 5 aprile 1943, n. 532](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-04-05;532), sono sostituiti come segue: 
+Gli articoli 36, comma primo, 59, 65, commi primo secondo e terzo, 74 comma quarto, 92, 93, 104, 124, 146, comma primo, e 152, comma quinto, del regolamento di amministrazione per la Regia guardia di finanza, approvato con [R. decreto 5 aprile 1943, n. 532](Approvazione%20del%20regolamento%20di%20amministrazione%20per%20la%20Regia%20guardia%20di%20finanza.%20043U0532.md), sono sostituiti come segue: 
  
  Art. 36, comma primo. - Nella cassa corrente non devono esistere fondi per un importo superiore alle L. 30.000, salvo che occorra somma maggiore per i pagamenti da eseguirsi in giornata. 
  

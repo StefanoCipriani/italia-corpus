@@ -14,7 +14,7 @@ Finche' duri il presente stato di guerra, potra' essere vietata, con decreti del
 
 ## Art. 2.
 
-Speciali permessi, in derogazione a questi divieti, potranno essere accordati, volta per volta e su domanda degli interessati, dal ministro delle finanze, sentito l'avviso del Comitato consultivo creato col [R. decreto 24 novembre 1914, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-24;1303).
+Speciali permessi, in derogazione a questi divieti, potranno essere accordati, volta per volta e su domanda degli interessati, dal ministro delle finanze, sentito l'avviso del Comitato consultivo creato col [R. decreto 24 novembre 1914, n. 1303](Col%20quale%20viene%20istituito%20un%20Comitato%20consultivo%20per%20lapplicazione%20delle%20disposizioni%20relative%20ai%20divieti%20di%20esportazione%20e%20di%20transito.%20014U1303.md).
 
 ## Art. 3.
 

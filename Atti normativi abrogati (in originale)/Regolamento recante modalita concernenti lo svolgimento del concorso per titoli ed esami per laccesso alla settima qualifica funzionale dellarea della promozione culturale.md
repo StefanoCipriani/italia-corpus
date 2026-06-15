@@ -14,9 +14,9 @@ DI CONCERTO CON
 
 IL MINISTRO PER LA FUNZIONE PUBBLICA
 
-Visto il testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3);
+Visto il testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
 
-Visto il [decreto del Presidente della Repubblica n. 686 del 3 maggio 1957](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686);
+Visto il [decreto del Presidente della Repubblica n. 686 del 3 maggio 1957](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
 
 Vista la [legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312);
 
@@ -50,13 +50,13 @@ Per l'ammissione al concorso per il reclutamento del personale della settima qua
 
 2.
 
-Si applicano le disposizioni dei [commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_2-com2) e [7 dell'art. 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_2-com7).
+Si applicano le disposizioni dei [commi 2](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [7 dell'art. 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 AVVERTENZA:
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
-- Il [D.P.R. 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), approva il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato.
-- Il [D.P.R. 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686), contiene le norme di esecuzione del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato.
+- Il [D.P.R. 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), approva il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato.
+- Il [D.P.R. 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), contiene le norme di esecuzione del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato.
 - La [legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312), reca il nuovo assetto retributivo-funzionale del personale civile e militare dello Stato.
 - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
  Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
@@ -109,19 +109,19 @@ Nella domanda gli aspiranti al concorso devono dichiarare:
                         m)
                             se intendono sostenere la prova facoltativa orale di didattica dell'italiano come lingua seconda di cui al successivo art. 7, comma 1;
                         n)
-                            di essere a conoscenza delle norme che regolano il servizio all'estero di cui al [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), e di essere pronti a trasferirsi in qualsiasi sede all'estero ove l'Amministrazione li destini a prestare servizio.
+                            di essere a conoscenza delle norme che regolano il servizio all'estero di cui al [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e di essere pronti a trasferirsi in qualsiasi sede all'estero ove l'Amministrazione li destini a prestare servizio.
 
 3.
 
-La firma in calce alla domanda deve essere autenticata da una delle autorita' indicate dall'[art. 20 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_20). Qualora l'aspirante si trovi all'estero, la firma deve essere autenticata dall'autorita' diplomatica o consolare italiana. Per il dipendente statale e' sufficiente il visto del capo dell'ufficio presso il quale presta servizio.
+La firma in calce alla domanda deve essere autenticata da una delle autorita' indicate dall'[art. 20 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md). Qualora l'aspirante si trovi all'estero, la firma deve essere autenticata dall'autorita' diplomatica o consolare italiana. Per il dipendente statale e' sufficiente il visto del capo dell'ufficio presso il quale presta servizio.
 
 4.
 
 Alla domanda l'aspirante deve allegare la documentazione relativa ai titoli di cui alla precedente lettera h), nonche' un certificato medico da cui risulti che egli e' di sana e robusta costituzione fisica, con l'esplicita specificazione che e' in grado di affrontare qualsiasi clima, che non ha imperfezioni fisiche che siano d'impedimento o di pregiudizio all'esercizio delle funzioni proprie della qualifica funzionale. La mancanza di tale specificazione comportera' l'esclusione dal concorso. Il certificato deve essere rilasciato da un medico militare o dal medico dell'unita' sanitaria locale del comune di residenza ovvero, se l'aspirante e' residente all'estero, da un medico di fiducia dell'autorita' diplomatica o consolare italiana, cui spetta di autenticarlo ed eventualmente tradurlo. L'amministrazione si riserva di accertare il requisito dell'idoneita' fisica in qualsiasi momento anche nei riguardi dei vincitori del concorso stesso.
 
 Note all'[art. 2:
- - Il D.P.R. 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_2), contiene l'ordinamento dell'Amministrazione degli affari esteri.
- - L'[art. 20 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_20) (Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme), cosi' recita: "Art. 20 (Autenticazione di sottoscrizioni). - La sottoscrizione di istanze da produrre agli organi della pubblica amministrazione puo' essere autenticata, ove l'autenticazione sia prescritta, dal funzionario competente a ricevere la documentazione, o da un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco.
+ - Il D.P.R. 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), contiene l'ordinamento dell'Amministrazione degli affari esteri.
+ - L'[art. 20 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) (Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme), cosi' recita: "Art. 20 (Autenticazione di sottoscrizioni). - La sottoscrizione di istanze da produrre agli organi della pubblica amministrazione puo' essere autenticata, ove l'autenticazione sia prescritta, dal funzionario competente a ricevere la documentazione, o da un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco.
  L'autenticazione deve essere redatta di seguito alla sottoscrizione e consiste nell'attestazione, da parte del pubblico ufficiale, che la sottoscrizione e' stata apposta in sua presenza, previo accertamento dell'identita' della persona che sottoscrive.
  Il pubblico ufficiale che autentica deve indicare le modalita' di identificazione, la data e il luogo dell'autenticazione, il proprio nome e cognome, la qualifica rivestita, nonche' apporre la propria firma per esteso e il timbro dell'ufficio.
  Per l'autenticazione delle firme apposte sui margini dei fogli intermedi e' sufficiente che il pubblico ufficiale aggiunga la propria firma".
@@ -242,7 +242,7 @@ Il Ministro degli affari esteri, riconosciuta la regolarita' del procedimento de
 
 1.
 
-Ad integrazione della specifica disciplina dettata dagli articoli precedenti, si applicano le disposizioni del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686), e successive modificazioni.
+Ad integrazione della specifica disciplina dettata dagli articoli precedenti, si applicano le disposizioni del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), e successive modificazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 dicembre 1927, n. 2796](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-29;2796), che aumenta l'assegnazione annua concessa alla nave scuola marinaretti «Scilla». 
+ E' convertito in legge il [R. decreto-legge 29 dicembre 1927, n. 2796](Aumento%20dellassegnazione%20annua%20concessa%20alla%20Nave%20scuola%20marinaretti%20Scilla.%20027U2796.md), che aumenta l'assegnazione annua concessa alla nave scuola marinaretti «Scilla». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

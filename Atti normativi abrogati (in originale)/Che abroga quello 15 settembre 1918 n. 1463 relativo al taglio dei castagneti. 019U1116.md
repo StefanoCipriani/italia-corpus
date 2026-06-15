@@ -12,7 +12,7 @@ vigente: true
 
 Il [decreto Luogotenenziale 15 settembre 1918, n. 1463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-15;1463), e' abrogato. 
  
- Nel taglio dei castagneti dovranno osservarsi le norme stabilite dalla [legge 2 giugno 1910, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277), e dal [regolamento 19 febbraio 1911, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-02-19;188). 
+ Nel taglio dei castagneti dovranno osservarsi le norme stabilite dalla [legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md), e dal [regolamento 19 febbraio 1911, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-02-19;188). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

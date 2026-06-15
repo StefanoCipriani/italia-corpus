@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 2 aprile 1940, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-04-02;287), relativa all'istituzione dell'Ente Zolfi Italiani;
+Vista la [legge 2 aprile 1940, n. 287](Istituzione%20dellEnte%20Zolfi%20Italiani%20E.Z.I..%20040U0287.md), relativa all'istituzione dell'Ente Zolfi Italiani;
 
 Vista la disposizione 15 settembre 1943 del Governo Militare Alleato con la quale viene data autonomia alla divisione Sicilia dell'Ente Zolfi Italiani, con la denominazione Ente Zolfi Siciliani;
 
@@ -24,7 +24,7 @@ Visto il [R. decreto 11 febbraio 1944, n. 31](https://www.normattiva.it/uri-res/
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), riguardante l'assemblea per la nuova costituzione dello Stato, il giuramento dei membri del Governo e la facolta' del Governo di emanare norme giuridiche;
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2),, modificato con [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141), che sospende l'applicazione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e degli altri provvedimenti;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md),, modificato con [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md), che sospende l'applicazione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e degli altri provvedimenti;
 
 Vista la deliberazione del Consiglio dei Ministri;
 

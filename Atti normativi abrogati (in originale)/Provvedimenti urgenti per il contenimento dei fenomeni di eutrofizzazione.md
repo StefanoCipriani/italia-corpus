@@ -68,7 +68,7 @@ La detenzione e l'immissione in commercio dei detergenti sintetici per bucato co
 
 ## Art. 3.
 
-Alla vigilanza sull'applicazione delle disposizioni del presente decreto si provvede nei modi indicati dall'[articolo 2-bis del decreto-legge 30 dicembre 1981, n. 801](Provvedimenti%20urgenti%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento_2.md), convertito, con modificazioni, nella [legge 5 marzo 1982, n. 62, e dall'articolo 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-05;62#art_6) della [legge 26 aprile 1983, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-26;136).
+Alla vigilanza sull'applicazione delle disposizioni del presente decreto si provvede nei modi indicati dall'[articolo 2-bis del decreto-legge 30 dicembre 1981, n. 801](Provvedimenti%20urgenti%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento_2.md), convertito, con modificazioni, nella [legge 5 marzo 1982, n. 62, e dall'articolo 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201981%20n.%20801%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md) della [legge 26 aprile 1983, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-26;136).
 
 ## Art. 4.
 

@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto legge 1° aprile 1935, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-01;327), convertito nella [legge 6 giugno 1935, n. 1142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-06;1142), che istituisce l'ispettorato del teatro alla dipendenza del Sottosegretariato di Stato per la stampa e la propaganda;
+Visto il [R. decreto legge 1° aprile 1935, n. 327](Istituzione%20di%20un%20Ispettorato%20del%20teatro%20alla%20dipendenza%20del%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20la%20propaganda.%20035U0327.md), convertito nella [legge 6 giugno 1935, n. 1142](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20aprile%201935-XIII%20n.%20327%20concernente%20la%20istituzione%20di%20un%20Ispettorato%20del%20Teatro%20alla%20dipendenza%20del%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20_59efb41b30bc.md), che istituisce l'ispettorato del teatro alla dipendenza del Sottosegretariato di Stato per la stampa e la propaganda;
 
 Visti i [decreti Luogotenenziali 3 luglio 1944, n. 163](Soppressione%20del%20Ministeroper%20la%20cultura%20popolare%20e%20istituzione%20di%20un%20Sottosegretariato%20per%20la%20stampa%20e%20le%20informazioni.%20044U0163.md), [12 dicembre 1944, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-12;407) e [5 luglio 1945, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-05;416), riguardanti il Sottosegretariato per la stampa, lo spettacolo e il turismo;
 

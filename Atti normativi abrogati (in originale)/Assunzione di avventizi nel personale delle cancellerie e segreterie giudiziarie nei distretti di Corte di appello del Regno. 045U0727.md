@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 8 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;745);
+Visto il [R. decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md);
 
-Visto il [R. decreto-legge 14 novembre 1926, n. 1935](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1935);
+Visto il [R. decreto-legge 14 novembre 1926, n. 1935](Modificazioni%20al%20R.%20decreto-legge%208%20maggio%201924%20n.%20745%20e%20al%20R.%20decreto-legge%206%20novembre%201924%20n.%201762%20riguardanti%20il%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20026U1935.md);
 
-Visto il [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), e successive disposizioni;
+Visto il [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), e successive disposizioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -58,7 +58,7 @@ Per conseguire la nomina ad avventizio occorre:
  
  3) essere di moralita' e condotta sotto ogni riguardo incensurabile e di sana costituzione fisica ; 
  
- 4) aver conseguito la licenza delle scuole medie di secondo grado, ai sensi dell'[art. 10 del R. decreto-legge 5 novembre 1931, n. 1444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-05;1444#art_10), per gli aspiranti avventizi di seconda categoria (gruppo B); la licenza delle scuole medie di primo grado per gli aspiranti avventizi di terza categoria, ai sensi del [R. decreto-legge 14 novembre 1926, n. 1935](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1935) (gruppo C).
+ 4) aver conseguito la licenza delle scuole medie di secondo grado, ai sensi dell'[art. 10 del R. decreto-legge 5 novembre 1931, n. 1444](Modificazioni%20alla%20circoscrizione%20giudiziaria%20del%20Regno%20e%20ad%20alcune%20norme%20dellordinamento%20giudiziario.%20031U1444.md), per gli aspiranti avventizi di seconda categoria (gruppo B); la licenza delle scuole medie di primo grado per gli aspiranti avventizi di terza categoria, ai sensi del [R. decreto-legge 14 novembre 1926, n. 1935](Modificazioni%20al%20R.%20decreto-legge%208%20maggio%201924%20n.%20745%20e%20al%20R.%20decreto-legge%206%20novembre%201924%20n.%201762%20riguardanti%20il%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20026U1935.md) (gruppo C).
 
 ## Art. 5.
 
@@ -74,11 +74,11 @@ Gli avventizi presteranno la loro opera secondo le disposizioni del capo dell'uf
 
 ## Art. 7.
 
-L'obbligo della residenza, quello di osservare l'orario di ufficio, le incompatibilita' e tutti gli altri doveri prescritti pel personale delle cancellerie e segreterie giudiziarie dal regolamento generale giudiziario, dall'ordinamento approvato con [R. decreto-legge 8 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;745), e dalle altre leggi, sono estesi agli avventizi assunti in base alle presenti disposizioni.
+L'obbligo della residenza, quello di osservare l'orario di ufficio, le incompatibilita' e tutti gli altri doveri prescritti pel personale delle cancellerie e segreterie giudiziarie dal regolamento generale giudiziario, dall'ordinamento approvato con [R. decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), e dalle altre leggi, sono estesi agli avventizi assunti in base alle presenti disposizioni.
 
 ## Art. 8.
 
-Agli avventizi e' attribuito il trattamento economico previsto dal [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), e successive disposizioni, per la rispettiva categoria di assegnazione.
+Agli avventizi e' attribuito il trattamento economico previsto dal [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), e successive disposizioni, per la rispettiva categoria di assegnazione.
 
 ## Art. 9.
 
@@ -88,7 +88,7 @@ Al momento del licenziamento sara' corrisposta a ciascun avventizio una indennit
 
 ## Art. 10.
 
-Gli avventizi di gruppo B e C, assunti a norma del presente decreto, che abbiano prestato lodevole servizio per non meno di un anno e che risulteranno vincitori dei concorsi per la nomina a volontario e volontario aiutante di cancelleria e segreteria giudiziarie, banditi successivamente all'entrata in vigore del presente decreto, saranno esentati dal periodo di prova previsto dall'[art. 43 del R. decreto-legge 8 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;745#art_43), e dall'ultimo comma dell'[art. 5 del R. decreto-legge 14 novembre 1926, n. 1935](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1935#art_5), previo parere favorevole della Commissione di vigilanza presso la Corte di Appello. 
+Gli avventizi di gruppo B e C, assunti a norma del presente decreto, che abbiano prestato lodevole servizio per non meno di un anno e che risulteranno vincitori dei concorsi per la nomina a volontario e volontario aiutante di cancelleria e segreteria giudiziarie, banditi successivamente all'entrata in vigore del presente decreto, saranno esentati dal periodo di prova previsto dall'[art. 43 del R. decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), e dall'ultimo comma dell'[art. 5 del R. decreto-legge 14 novembre 1926, n. 1935](Modificazioni%20al%20R.%20decreto-legge%208%20maggio%201924%20n.%20745%20e%20al%20R.%20decreto-legge%206%20novembre%201924%20n.%201762%20riguardanti%20il%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20026U1935.md), previo parere favorevole della Commissione di vigilanza presso la Corte di Appello. 
  
  Il servizio utile per l'esenzione dal periodo di prova per la nomina in ruolo sara' computato dalla data della immissione in possesso a quella della pubblicazione nel bollettino ufficiale della graduatoria dei vincitori dei concorsi a posti di volontario e volontario aiutante di cancelleria e segreteria giudiziarie.
 

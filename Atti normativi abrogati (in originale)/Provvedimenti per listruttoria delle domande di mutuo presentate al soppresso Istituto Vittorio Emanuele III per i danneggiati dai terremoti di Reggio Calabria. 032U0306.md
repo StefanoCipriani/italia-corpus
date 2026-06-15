@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 13 luglio 1910, n. 466](Provvedimenti%20a%20favore%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2028%20dicembre%201908.%20010U0466.md), che istituisce un Ente autonomo col titolo «Istituto Vittorio Emanuele III per i danneggiati dai terremoti di Reggio Calabria»;
 
-Visto il [R. decreto 18 settembre 1910, n. 842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-09-18;842), che approva il regolamento per il funzionamento dell'Istituto predetto, e le successive modificazioni;
+Visto il [R. decreto 18 settembre 1910, n. 842](Che%20approva%20lannesso%20regolamento%20contenente%20le%20norme%20per%20il%20funzionamento%20dellIstituto%20Vittorio%20Emanuele%20III%20pei%20danneggiati%20dai%20terremoti%20di%20Reggio%20Calabria.%20010U0842.md), che approva il regolamento per il funzionamento dell'Istituto predetto, e le successive modificazioni;
 
 Visto il [decreto Luogotenenziale 19 agosto 1917, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-19;1399), che approva il testo unico delle disposizioni di legge emanate in conseguenza del terremoto del 28 dicembre 1908, e le successive disposizioni modificative ed integrative;
 

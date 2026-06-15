@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 19 giugno 1913, n. 632](Recante%20provvedimenti%20per%20combattere%20lalcoolismo.%20013U0632.md), recante provvedimenti per combattere l'alcoolismo, nonche' il relativo regolamento approvato con [R. decreto 22 ottobre 1914, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-10-22;1238);
+Vista la [legge 19 giugno 1913, n. 632](Recante%20provvedimenti%20per%20combattere%20lalcoolismo.%20013U0632.md), recante provvedimenti per combattere l'alcoolismo, nonche' il relativo regolamento approvato con [R. decreto 22 ottobre 1914, n. 1238](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2019%20giugno%201913%20n.%20632%20recante%20provvedimenti%20per%20combattere%20lalcoolismo.%20014U1238.md);
 
-Visto il [testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) approvato con [R. decreto 30 giugno 1889, n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-06-30;6144), nonche' il relativo regolamento, approvato con [R. decreto 8 novembre 1889, n. 6517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-11-08;6517);
+Visto il [testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) approvato con [R. decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md), nonche' il relativo regolamento, approvato con [R. decreto 8 novembre 1889, n. 6517](Che%20approva%20lunito%20regolamento%20per%20lesecuzione%20della%20legge%2030%20giugno%20sulla%20pubblica%20sicurezza.%20089U6517.md);
 
 Ritenuta l'urgenza;
 

@@ -17,12 +17,12 @@ Sono esenti da qualsiasi tassa graduale e proporzionale di registro ed ipotecari
 
 ## Art. 2.
 
-La Societa' anonima di elettricita' Ponale e' autorizzata, qualunque sia il suo capitale, a subentrare, con la fidejussione della Societa' generale italiana Edison di elettricita' e della Societa' adriatica di elettricita', all'Ente autonomo forze idrauliche Adige-Garda nel prestito obbligazionario di L. 105.000.000 garantito dallo Stato ai sensi del [R. decreto-legge 30 dicembre 1929, n. 2275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-12-30;2275). 
+La Societa' anonima di elettricita' Ponale e' autorizzata, qualunque sia il suo capitale, a subentrare, con la fidejussione della Societa' generale italiana Edison di elettricita' e della Societa' adriatica di elettricita', all'Ente autonomo forze idrauliche Adige-Garda nel prestito obbligazionario di L. 105.000.000 garantito dallo Stato ai sensi del [R. decreto-legge 30 dicembre 1929, n. 2275](Autorizzazione%20di%20un%20mutuo%20a%20favore%20dellEnte%20autonomo%20Adige-Garda%20con%20sussidiaria%20garanzia%20statale.%20029U2275.md). 
  Il rimborso delle somme versate dallo Stato sino al 31 marzo 1932 per interessi sul prestito obbligazionario predetto sara' dalla Societa' anonima di elettricita' Ponale effettuato, senza interessi, in cinque annualita' eguali scadenti il 1° aprile di ciascuno degli anni dal 1932 al 1936, restando a pieno carico della Societa' stessa le successive semestralita' del prestito obbligazionario medesimo a cominciare da quella dovuta il 1° aprile 1932.
 
 ## Art. 3.
 
-Per la liquidazione del personale del Consorzio industriale fra le citta' di Rovereto e Riva e dell'Ente autonomo forze idrauliche Adige-Garda, sono applicabili le disposizioni dell'[art. 3 del R. decreto-legge 13 novembre 1931, n. 1434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-13;1434#art_3). 
+Per la liquidazione del personale del Consorzio industriale fra le citta' di Rovereto e Riva e dell'Ente autonomo forze idrauliche Adige-Garda, sono applicabili le disposizioni dell'[art. 3 del R. decreto-legge 13 novembre 1931, n. 1434](Provvedimenti%20per%20la%20concentrazione%20di%20aziende%20sociali.%20031U1434.md). 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 23 maggio 1932 - Anno X 
  

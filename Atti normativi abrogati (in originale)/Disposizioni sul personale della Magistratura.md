@@ -22,9 +22,9 @@ Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20
 
 Visto l'Ordinamento giudiziario approvato con [Regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
 
-Visto l'[art. 6 della legge 31 ottobre 1942 n. 1352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-31;1352#art_6);
+Visto l'[art. 6 della legge 31 ottobre 1942 n. 1352](Disposizioni%20relative%20al%20personale%20della%20Magistratura%20e%20delle%20Cancellerie%20e%20Segreterie%20giudiziarie.%20042U1352.md);
 
-Vista la [legge 28 gennaio 1943, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-28;33);
+Vista la [legge 28 gennaio 1943, n. 33](Sospensione%20dei%20collocamenti%20a%20riposo%20dufficio%20del%20personale%20giudiziario.%20043U0033.md);
 
 Visto il [decreto legislativo Luogotenenziale 9 luglio 1944, n. 320](Disposizioni%20del%20richiamo%20in%20servizio%20di%20magistrati%20dellordine%20giudiziario%20pensionati%20di%20qualunque%20grado%20per%20temporanee%20inderogabili%20esigenze.%20044U0320.md);
 
@@ -79,8 +79,8 @@ Fino al 31 dicembre 1947 e' data facolta' al Ministro per la grazia e giustizia 
 ## Art. 8.
 
 E' prorogata fino al 31 dicembre 1947 la applicabilita' delle seguenti disposizioni:
- [art. 6 della legge 31 ottobre 1942, n. 1352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-31;1352#art_6), con disposizioni sul personale della magistratura;
- [legge 28 gennaio 1943, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-28;33), sulla sospensione del collocamento a riposo del personale giudiziario, escluso il capoverso dell'[art. 1; decreto legislativo Luogotenenziale 9 luglio 1944, n. 320](Disposizioni%20del%20richiamo%20in%20servizio%20di%20magistrati%20dellordine%20giudiziario%20pensionati%20di%20qualunque%20grado%20per%20temporanee%20inderogabili%20esigenze.%20044U0320.md), sul richiamo in servizio dei magistrati;
+ [art. 6 della legge 31 ottobre 1942, n. 1352](Disposizioni%20relative%20al%20personale%20della%20Magistratura%20e%20delle%20Cancellerie%20e%20Segreterie%20giudiziarie.%20042U1352.md), con disposizioni sul personale della magistratura;
+ [legge 28 gennaio 1943, n. 33](Sospensione%20dei%20collocamenti%20a%20riposo%20dufficio%20del%20personale%20giudiziario.%20043U0033.md), sulla sospensione del collocamento a riposo del personale giudiziario, escluso il capoverso dell'[art. 1; decreto legislativo Luogotenenziale 9 luglio 1944, n. 320](Disposizioni%20del%20richiamo%20in%20servizio%20di%20magistrati%20dellordine%20giudiziario%20pensionati%20di%20qualunque%20grado%20per%20temporanee%20inderogabili%20esigenze.%20044U0320.md), sul richiamo in servizio dei magistrati;
  [articoli 1](Disposizioni%20relative%20al%20personale%20giudiziario%20durante%20lo%20stato%20di%20guerra.%20044U0438.md), [2](Disposizioni%20relative%20al%20personale%20giudiziario%20durante%20lo%20stato%20di%20guerra.%20044U0438.md), [3](Disposizioni%20relative%20al%20personale%20giudiziario%20durante%20lo%20stato%20di%20guerra.%20044U0438.md), [6](Disposizioni%20relative%20al%20personale%20giudiziario%20durante%20lo%20stato%20di%20guerra.%20044U0438.md), [8](Disposizioni%20relative%20al%20personale%20giudiziario%20durante%20lo%20stato%20di%20guerra.%20044U0438.md) e [10 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 438](Disposizioni%20relative%20al%20personale%20giudiziario%20durante%20lo%20stato%20di%20guerra.%20044U0438.md), con disposizioni temporanee relative al personale giudiziario;
  [decreto legislativo Luogotenenziale 3 maggio 1945, n. 232](Disposizioni%20temporanee%20circa%20le%20applicazioni%20e%20supplenze%20di%20magistrati%20con%20funzioni%20del%20grado%20superiore%20e%20circa%20il%20concorso%20per%20uditore.%20045U0232.md), circa le applicazioni e supplenze con funzioni del grado superiore e circa il concorso per uditore.
  Le disposizioni del [decreto legislativo Luogotenenziale 26 luglio 1944, n. 210](Norme%20sulla%20promozione%20ad%20aggiunto%20giudiziario%20degli%20attuali%20uditori%20giudiziari.%20044U0210.md), sulla promozione ad aggiunto senza esami con riserva di anzianita', sono applicabili anche dopo la cessazione dello stato di guerra, per quegli uditori che, alla data di tale cessazione, abbiano compiuto il biennio della nomina, previsto dall'art. 1 del suddetto decreto legislativo Luogotenenziale.

@@ -18,7 +18,7 @@ Al predetto ufficio sono assegnati, oltre al pretore, un cancelliere, due aggiun
  
  A tal uopo sono soppressi i seguenti posti: 
  
- Un posto di aggiunto di cancelleria nella 1ª e nella 2ª pretura di Bari, un posto di ufficiale giudiziario nella 2ª pretura di Bari, ed un posto di ufficiale giudiziario nella pretura di Mesagne, ed e' aumentato di uno il numero dei cancellieri di pretura di 2ª categoria fissato dalla tabella annessa alla [legge 27 dicembre 1914, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-27;1404), e di uno quello degli uscieri giudiziari di 4ª classe fissato dalla tabella approvata con [R. decreto 3 settembre 1911, n. 1283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-09-03;1283).
+ Un posto di aggiunto di cancelleria nella 1ª e nella 2ª pretura di Bari, un posto di ufficiale giudiziario nella 2ª pretura di Bari, ed un posto di ufficiale giudiziario nella pretura di Mesagne, ed e' aumentato di uno il numero dei cancellieri di pretura di 2ª categoria fissato dalla tabella annessa alla [legge 27 dicembre 1914, n. 1404](Contenente%20disposizioni%20circa%20il%20personale%20della%20magistratura%20e%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20014U1404.md), e di uno quello degli uscieri giudiziari di 4ª classe fissato dalla tabella approvata con [R. decreto 3 settembre 1911, n. 1283](Riguardante%20il%20personale%20degli%20uscieri%20giudiziari.%20011U1283.md).
 
 ## Art. 3.
 

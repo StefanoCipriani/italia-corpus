@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-19;816), contenente nuove disposizioni per gli estagli delle miniere di zolfo della Sicilia, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 816](Nuove%20disposizioni%20per%20gli%20estagli%20delle%20miniere%20di%20zolfo%20della%20Sicilia.%20034U0816.md), contenente nuove disposizioni per gli estagli delle miniere di zolfo della Sicilia, con la seguente modificazione: 
  
  All'art. 1, 1° capoverso, e' sostituito il seguente: 
  

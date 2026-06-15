@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 dicembre 1926, n. 2268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-23;2268), concernente la radiazione di marittimi dalle matricole o dai registri della gente di mare. 
+ E' convertito in legge il [R. decreto-legge 23 dicembre 1926, n. 2268](Radiazione%20di%20marittimi%20dalle%20matricole%20o%20dai%20registri%20della%20gente%20di%20mare.%20026U2268.md), concernente la radiazione di marittimi dalle matricole o dai registri della gente di mare. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

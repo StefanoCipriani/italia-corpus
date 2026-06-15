@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 novembre 1933, n. 1580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1580), concernente la soppressione dell'Istituto autonomo degli stabilimenti balneari di Grado e l'attribuzione dei relativi servizi, attivita' e passivita', alla locale Azienda autonoma della stazione di cura. 
+ E' convertito in legge il [R. decreto-legge 2 novembre 1933, n. 1580](Soppressione%20dellIstituto%20autonomo%20degli%20stabilimenti%20balneari%20di%20Grado%20ed%20attribuzione%20dei%20relativi%20servizi%20attivita%20e%20passivita%20alla%20locale%20Azienda%20autonoma%20della%20stazione%20di%20cura.%20033U1580.md), concernente la soppressione dell'Istituto autonomo degli stabilimenti balneari di Grado e l'attribuzione dei relativi servizi, attivita' e passivita', alla locale Azienda autonoma della stazione di cura. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

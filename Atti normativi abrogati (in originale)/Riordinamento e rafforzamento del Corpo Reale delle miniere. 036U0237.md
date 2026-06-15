@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 17 febbraio 1927, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-02-17;346), che riordina il Servizio geologico;
+Visto il [R. decreto 17 febbraio 1927, n. 346](Riordinamento%20del%20servizio%20geologico%20dello%20Stato.%20027U0346.md), che riordina il Servizio geologico;
 
 Visto il [R. decreto-legge 16 febbraio 1931, n. 134](Approvazione%20dei%20ruoli%20organici%20di%20alcuni%20personali%20appartenenti%20al%20Ministero%20delle%20corporazioni.%20031U0134.md), che approva i ruoli organici di alcuni personali appartenenti al Ministero delle corporazioni;
 

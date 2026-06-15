@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 Il Ministro per la pubblica istruzione e' autorizzato ad assumere, con decorrenza 1 ottobre 1950, salvo le retrodatazioni previste, nei posti di ruolo transitorio ordinario delle scuole medie, gli insegnanti di lingua straniera, laureati, ovvero diplomati a conclusione di un corso di studi a carattere universitario, appartenenti alle seguenti categorie:
- a) vedove di guerra di cui al [regio decreto 24 agosto 1942, n. 1091](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-08-24;1091), e successive modificazioni;
+ a) vedove di guerra di cui al [regio decreto 24 agosto 1942, n. 1091](Sistemazione%20delle%20vedove%20di%20guerra%20nei%20ruoli%20degli%20insegnanti%20delle%20Regie%20scuole%20degli%20ordini%20elementare%20medio%20superiore%20femminile%20e%20artistico.%20042U1091.md), e successive modificazioni;
  b) gli inclusi nelle graduatorie dei vincitori di concorso per cattedre di lingue straniere nelle scuole tecniche, riservati, in forza del [decreto legislativo del Capo provvisorio dello Stato 21 aprile 1947, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-21;373), a perseguitati politici e razziali, a quanti furono costretti ad espatriare, o furono, anche di fatto, impediti di prendere parte ai concorsi da un provvedimento governativo di cui ai numeri da 1 a 5 dell'art. 17 del citato [decreto legislativo 21 aprile 1947, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-04-21;373).
 
 ## Art. 2.

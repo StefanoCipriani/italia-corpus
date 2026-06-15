@@ -62,7 +62,7 @@ Nei casi di restituzione del contributo, in conseguenza della revoca, le imprese
 
 8.
 
-Si applicano le disposizioni di cui all'[articolo 1, settimo comma, della legge 19 dicembre 1983, n. 696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-19;696#art_1-com7), e di cui all'[articolo 3, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-04-09;62#art_3-com1) e [2, del decreto-legge 9 aprile 1984, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-04-09;62#art_3-com2), convertito, con modificazioni, dalla [legge 8 giugno 1984, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-08;212).
+Si applicano le disposizioni di cui all'[articolo 1, settimo comma, della legge 19 dicembre 1983, n. 696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-19;696#art_1-com7), e di cui all'[articolo 3, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-04-09;62#art_3-com1) e [2, del decreto-legge 9 aprile 1984, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-04-09;62#art_3-com2), convertito, con modificazioni, dalla [legge 8 giugno 1984, n. 212](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20aprile%201984%20n.%2062%20concernente%20norme%20urgenti%20in%20materia%20di%20amministrazione%20straordinaria%20delle%20grandi%20imprese%20in%20crisi%20e%20di%20agevo_33fc3b1a10ac.md).
 
 ## Art. 2.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il servizio dei vaglia consolari, istituito col [R. decreto dell'11 marzo 1867, n. 3631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-03-11;3631) e riorganizzato con decreto Reale del 10 febbraio 1876, n. 2958 (serie 2ª), e' soppresso con effetto immediato. 
+Il servizio dei vaglia consolari, istituito col [R. decreto dell'11 marzo 1867, n. 3631](Col%20quale%20si%20autorizzano%20i%20Consolati%20Italiani%20allEstero%20a%20trarre%20Vaglia%20sugli%20Uffizi%20postali%20del%20Regno.%20067U3631.md) e riorganizzato con decreto Reale del 10 febbraio 1876, n. 2958 (serie 2ª), e' soppresso con effetto immediato. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 marzo 1937, n. 466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-03-23;466), concernente la concessione di contributi per incoraggiare la coltivazione del cotone in provincia di Foggia. 
+ E' convertito in legge il [R. decreto-legge 23 marzo 1937, n. 466](Concessione%20di%20contributi%20per%20incoraggiare%20la%20coltivazione%20del%20cotone%20in%20provincia%20di%20Foggia.%20037U0466.md), concernente la concessione di contributi per incoraggiare la coltivazione del cotone in provincia di Foggia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

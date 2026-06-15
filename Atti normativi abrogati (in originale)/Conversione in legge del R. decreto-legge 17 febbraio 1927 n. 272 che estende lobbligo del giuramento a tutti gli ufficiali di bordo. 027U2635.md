@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 febbraio 1927, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;272), che estende l'obbligo del giuramento a tutti gli ufficiali di bordo. 
+ E' convertito in legge il [R. decreto-legge 17 febbraio 1927, n. 272](Estensione%20dellobbligo%20del%20giuramento%20a%20tutti%20gli%20ufficiali%20di%20bordo.%20027U0272.md), che estende l'obbligo del giuramento a tutti gli ufficiali di bordo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

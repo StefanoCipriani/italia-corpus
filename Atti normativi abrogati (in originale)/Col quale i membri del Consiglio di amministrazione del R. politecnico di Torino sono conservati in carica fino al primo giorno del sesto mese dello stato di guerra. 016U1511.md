@@ -22,12 +22,12 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduta la [legge 8 luglio 1906, n. 321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-08;321), che istituisce il R.
+ Veduta la [legge 8 luglio 1906, n. 321](Fondazione%20di%20un%20Politecnico%20nella%20citta%20di%20Torino.%20006U0321.md), che istituisce il R.
 Politecnico di Torino; 
  
- Veduto il regolamento per la esecuzione della legge medesima, approvato con [R. decreto 5 gennaio 1908, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-01-05;98); 
+ Veduto il regolamento per la esecuzione della legge medesima, approvato con [R. decreto 5 gennaio 1908, n. 98](Che%20approva%20lannesso%20regolamento%20del%20R.%20Politecnico%20di%20Torino.%20008U0098.md); 
  
- Veduta la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Veduta la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Udito il Consiglio dei ministri; 
  

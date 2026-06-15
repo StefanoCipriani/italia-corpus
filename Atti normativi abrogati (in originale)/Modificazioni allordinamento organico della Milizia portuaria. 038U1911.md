@@ -20,7 +20,7 @@ Vista la [legge 8 luglio 1929, n. 1337](Ordinamento%20della%20Milizia%20portuari
 
 Visto il [R. decreto-legge 24 marzo 1932, n. 392](Provvedimenti%20per%20la%20Milizia%20portuaria.%20032U0392.md), convertita in [legge 20 dicembre 1932, n. 1994](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2024%20marzo%201932%20n.%20392%20concernente%20provvedimenti%20per%20la%20Milizia%20portuaria.%20032U1994.md);
 
-Visto il regolamento per la Milizia portuaria approvata con [R. decreto 1° dicembre 1934, n. 2132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-01;2132);
+Visto il regolamento per la Milizia portuaria approvata con [R. decreto 1° dicembre 1934, n. 2132](Regolamento%20per%20lapplicazione%20della%20legge%208%20luglio%201929%20n.%201337%20sullordinamento%20della%20Milizia%20portuaria.%20034U2132.md);
 
 Visto il [decreto-legge 16 giugno 1938, n. 1191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1938-06-16;1191);
 

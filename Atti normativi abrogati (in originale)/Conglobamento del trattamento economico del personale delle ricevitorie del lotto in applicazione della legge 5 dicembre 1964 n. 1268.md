@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 5 dicembre 1964, n. 1268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-05;1268), concernente delega al Governo per il conglobamento del trattamento economico del personale statale in attivita' di servizio ed in quiescenza;
+Vista la [legge 5 dicembre 1964, n. 1268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conglobamento%20del%20trattamento%20economico%20del%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20e%20norme%20per%20la%20integrazione%20della%2013%20mensilita%20per%20gli%20anni%201964%20e%201965.md), concernente delega al Governo per il conglobamento del trattamento economico del personale statale in attivita' di servizio ed in quiescenza;
 
 Sentito il Consiglio dei Ministri;
 
@@ -43,7 +43,7 @@ Con effetto dal 1 gennaio 1965 il primo comma dell'art. 191 del regolamento sul 
 
 ## Art. 3.
 
-L'[art. 3 della legge 4 febbraio 1958, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-04;39#art_3), e' sostituito dal seguente:
+L'[art. 3 della legge 4 febbraio 1958, n. 39](Conglobamento%20totale%20del%20trattamento%20economico%20del%20personale%20delle%20ricevitorie%20del%20lotto.md), e' sostituito dal seguente:
  "A decorrere dal 1 gennaio 1965:
  la tredicesima mensilita' lorda spettante ai gestori e' pari ad un dodicesimo dell'importo dell'aggio lordo liquidato ai sensi degli articoli 89 e 91 della legge sul lotto, quali risultano modificati dall'art. 1 del presente decreto;
  l'ammontare di essa non puo' superare lire 102.550;
@@ -78,7 +78,7 @@ Con effetto dal 1 marzo 1966 il primo comma dello art. 191 del regolamento sul l
 
 ## Art. 7.
 
-L'[art. 3 della legge 4 febbraio 1958, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-04;39#art_3), quale risulta modificato dall'art. 3 del presente decreto, e sostituito dal seguente "A decorrere dal 1 marzo 1966:
+L'[art. 3 della legge 4 febbraio 1958, n. 39](Conglobamento%20totale%20del%20trattamento%20economico%20del%20personale%20delle%20ricevitorie%20del%20lotto.md), quale risulta modificato dall'art. 3 del presente decreto, e sostituito dal seguente "A decorrere dal 1 marzo 1966:
  la tredicesima mensilita' lorda spettante ai gestori e' pari ad un dodicesimo dell'importo dell'aggio lordo liquidato ai sensi degli articoli 89 e 91 della legge sul lotto, quali risultano modificati dall'art. 5 del presente decreto;
  l'ammontare di essa non puo' superare lire 121.480 l'importo della tredicesima mensilita' lorda spettante agli aiuto ricevitori, e' pari ad una mensilita' lorda della retribuzione stabilita dall'art. 191 del regolamento sul lotto, quale risulta modificato dall'art. 6 del presente decreto".
 

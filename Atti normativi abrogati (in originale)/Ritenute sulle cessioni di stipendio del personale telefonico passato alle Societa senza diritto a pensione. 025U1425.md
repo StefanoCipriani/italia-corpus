@@ -24,9 +24,9 @@ Visto il [R. decreto-legge 30 maggio 1920, n. 1934](Che%20autorizza%20il%20Minis
 
 Vista la [legge 28 dicembre 1922, n. 1682](Sulla%20cedibilita%20degli%20stipendi%20e%20delle%20mercedi%20degli%20impiegati%20e%20salariati%20dipendenti%20dallo%20Stato.%20022U1682.md);
 
-Visto il [R. decreto 8 febbraio 1923, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;311);
+Visto il [R. decreto 8 febbraio 1923, n. 311](Col%20quale%20vengono%20apportate%20modificazioni%20alle%20norme%20vigenti%20per%20la%20cessione%20degli%20stipendi%20e%20delle%20mercedi%20da%20parte%20di%20impiegati%20ufficiali%20ed%20operai%20dipendenti%20dallo%20Stato%20e%20dalla%20Real%20Casa.%20023U0311.md);
 
-Visto il [R. decreto 14 giugno 1923, n. 1347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1347);
+Visto il [R. decreto 14 giugno 1923, n. 1347](Modificazioni%20alle%20norme%20vigenti%20per%20la%20cessione%20degli%20stipendi%20e%20delle%20mercedi%20da%20parte%20di%20impiegati%20ufficiali%20ed%20operai%20dipendenti%20dallo%20Stato%20e%20dalla%20Real%20Casa.%20023U1347.md);
 
 Visto il [R. decreto-legge 28 dicembre 1924, n. 2133](Modificazione%20al%20R.%20decreto%208%20febbraio%201923%20n.%20311%20riguardante%20il%20credito%20agli%20impiegati%20e%20salariati%20dello%20Stato.%20024U2133.md);
 

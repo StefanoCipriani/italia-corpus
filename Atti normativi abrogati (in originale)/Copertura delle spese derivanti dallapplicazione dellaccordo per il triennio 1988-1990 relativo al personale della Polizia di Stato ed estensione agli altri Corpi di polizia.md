@@ -36,7 +36,7 @@ E' autorizzata la spesa di lire 1.683 miliardi per l'anno finanziario 1990 e di 
 
 1.
 
-L'indennita' prevista dall'[articolo 2, commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-03-20;34#art_2-com1), [terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-03-20;34#art_2-com3), [quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-03-20;34#art_2-com4) e [quattordicesimo, della legge 20 marzo 1984, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-03-20;34#art_2-com14), modificato dall'[articolo 2, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387#art_2-com1) e [2, del decreto-legge 21 settembre 1987, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387#art_2-com2), convertito, con modificazioni, dalla [legge 20 novembre 1987, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-20;472), e' incrementata, rispetto alle misure vigenti al 30 giugno 1988:
+L'indennita' prevista dall'[articolo 2, commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-03-20;34#art_2-com1), [terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-03-20;34#art_2-com3), [quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-03-20;34#art_2-com4) e [quattordicesimo, della legge 20 marzo 1984, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-03-20;34#art_2-com14), modificato dall'[articolo 2, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387#art_2-com1) e [2, del decreto-legge 21 settembre 1987, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387#art_2-com2), convertito, con modificazioni, dalla [legge 20 novembre 1987, n. 472](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20settembre%201987%20n.%20387%20recante%20copertura%20finanziaria%20del%20decreto%20del%20Presidente%20della%20Repubblica%2010%20aprile%201987%20n.%20150%20di%20attuaz_cce295965b55.md), e' incrementata, rispetto alle misure vigenti al 30 giugno 1988:
                         a)
                             del cinque per cento a decorrere dal 1' luglio 1989;
                         b)
@@ -50,7 +50,7 @@ Gli incrementi di cui al comma 1, previsti per il personale della Polizia di Sta
 
 3.
 
-A decorrere dal 1' maggio 1990, l'autonoma maggiorazione di stipendio prevista dall'articolo 2, comma 17 e successivi, del [decreto-legge 21 settembre 1987, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387), convertito, con modificazioni, dalla [legge 20 novembre 1987, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-20;472), e' soppressa.
+A decorrere dal 1' maggio 1990, l'autonoma maggiorazione di stipendio prevista dall'articolo 2, comma 17 e successivi, del [decreto-legge 21 settembre 1987, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387), convertito, con modificazioni, dalla [legge 20 novembre 1987, n. 472](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20settembre%201987%20n.%20387%20recante%20copertura%20finanziaria%20del%20decreto%20del%20Presidente%20della%20Repubblica%2010%20aprile%201987%20n.%20150%20di%20attuaz_cce295965b55.md), e' soppressa.
 
 4.
 
@@ -68,7 +68,7 @@ Gli incrementi della misura del supplemento giornaliero dell'indennita' mensile 
 
 1.
 
-Effettuato il trasferimento nei ruoli tecnici del personale appartenente ad altre Amministrazioni dello Stato di cui all'[articolo 49 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337#art_49), i posti disponibili nella dotazione organica di ciascuna qualifica dei ruoli dei dirigenti tecnici, dei direttori tecnici, dei periti, dei revisori, dei collaboratori e degli operatori tecnici sono riservati, nel limite del cinque per cento, all'inquadramento del personale della polizia di Stato che espleta funzioni di polizia, che alla data di entrata in vigore del presente decreto svolge attivita' tecnico-scientifiche o tecniche in uno dei settori tecnici individuati nell'[articolo 1 del decreto del Presidente della Repubblica n. 337 del 1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;337#art_1).
+Effettuato il trasferimento nei ruoli tecnici del personale appartenente ad altre Amministrazioni dello Stato di cui all'[articolo 49 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), i posti disponibili nella dotazione organica di ciascuna qualifica dei ruoli dei dirigenti tecnici, dei direttori tecnici, dei periti, dei revisori, dei collaboratori e degli operatori tecnici sono riservati, nel limite del cinque per cento, all'inquadramento del personale della polizia di Stato che espleta funzioni di polizia, che alla data di entrata in vigore del presente decreto svolge attivita' tecnico-scientifiche o tecniche in uno dei settori tecnici individuati nell'[articolo 1 del decreto del Presidente della Repubblica n. 337 del 1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;337#art_1).
 
 2.
 
@@ -76,7 +76,7 @@ La riserva di posti di cui al comma 1 non opera nei confronti del personale che 
 
 3.
 
-L'inquadramento al corrispondente ruolo e qualifica tecnica avverra' previo superamento di una prova pratica, le cui modalita' di svolgimento, nonche' la composizione e la nomina delle commissioni esaminatrici, sono disciplinate dal [decreto del Presidente della Repubblica 6 ottobre 1987, n. 490](Approvazione%20del%20regolamento%20concernente%20la%20composizione%20e%20la%20nomina%20delle%20commissioni%20esaminatrici%20e%20le%20modalita%20di%20svolgimento%20delle%20prove%20pratiche%20per%20linquadramento%20nei%20ruoli%20di%20cui%20a_fe9543b862e5.md), emanato ai sensi dell'[articolo 50, secondo comma, del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337#art_50-com2).
+L'inquadramento al corrispondente ruolo e qualifica tecnica avverra' previo superamento di una prova pratica, le cui modalita' di svolgimento, nonche' la composizione e la nomina delle commissioni esaminatrici, sono disciplinate dal [decreto del Presidente della Repubblica 6 ottobre 1987, n. 490](Approvazione%20del%20regolamento%20concernente%20la%20composizione%20e%20la%20nomina%20delle%20commissioni%20esaminatrici%20e%20le%20modalita%20di%20svolgimento%20delle%20prove%20pratiche%20per%20linquadramento%20nei%20ruoli%20di%20cui%20a_fe9543b862e5.md), emanato ai sensi dell'[articolo 50, secondo comma, del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md).
 
 4.
 
@@ -86,7 +86,7 @@ L'anzianita' di servizio nei ruoli tecnici di cui al comma 1 decorre dalla data 
 
 1.
 
-Tutti i posti resisi eventualmente disponibili nei ruoli dei direttori tecnici, selettori di centro psicotecnico-settore arruolamento e dei revisori infermieri biologi, dopo l'applicazione dell'articolo 3, sono riservati a coloro che, alla data di entrata in vigore del presente decreto, svolgono, rispettivamente, incarichi di psicologo o perito selettore ai sensi dell'[articolo 3 della legge 19 aprile 1985, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-04-19;150#art_3), e dell'articolo 6 della legge 1' aprile 1981, n. 121, e incarichi ai sensi dell'[articolo 5, comma 8, del decreto-legge 21 settembre 1987, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387#art_5-com8), convertito, con modificazioni, dalla [legge 20 novembre 1987, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-20;472), prescindendo dal limite di eta' e dal possesso del titolo di studio specifico richiesto per l'accesso alle qualifiche iniziali degli stessi ruoli.
+Tutti i posti resisi eventualmente disponibili nei ruoli dei direttori tecnici, selettori di centro psicotecnico-settore arruolamento e dei revisori infermieri biologi, dopo l'applicazione dell'articolo 3, sono riservati a coloro che, alla data di entrata in vigore del presente decreto, svolgono, rispettivamente, incarichi di psicologo o perito selettore ai sensi dell'[articolo 3 della legge 19 aprile 1985, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-04-19;150#art_3), e dell'articolo 6 della legge 1' aprile 1981, n. 121, e incarichi ai sensi dell'[articolo 5, comma 8, del decreto-legge 21 settembre 1987, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387#art_5-com8), convertito, con modificazioni, dalla [legge 20 novembre 1987, n. 472](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20settembre%201987%20n.%20387%20recante%20copertura%20finanziaria%20del%20decreto%20del%20Presidente%20della%20Repubblica%2010%20aprile%201987%20n.%20150%20di%20attuaz_cce295965b55.md), prescindendo dal limite di eta' e dal possesso del titolo di studio specifico richiesto per l'accesso alle qualifiche iniziali degli stessi ruoli.
 
 2.
 
@@ -94,7 +94,7 @@ Il termine per la presentazione delle domande, i posti disponibili, le modalita'
 
 3.
 
-Le modalita' di svolgimento delle prove pratiche, la composizione e la nomina della commissione esaminatrice sono disciplinate dal [decreto del Presidente della Repubblica 6 ottobre 1987, n. 490](Approvazione%20del%20regolamento%20concernente%20la%20composizione%20e%20la%20nomina%20delle%20commissioni%20esaminatrici%20e%20le%20modalita%20di%20svolgimento%20delle%20prove%20pratiche%20per%20linquadramento%20nei%20ruoli%20di%20cui%20a_fe9543b862e5.md), emanato ai sensi dell'[articolo 50, secondo comma, del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337#art_50-com2).
+Le modalita' di svolgimento delle prove pratiche, la composizione e la nomina della commissione esaminatrice sono disciplinate dal [decreto del Presidente della Repubblica 6 ottobre 1987, n. 490](Approvazione%20del%20regolamento%20concernente%20la%20composizione%20e%20la%20nomina%20delle%20commissioni%20esaminatrici%20e%20le%20modalita%20di%20svolgimento%20delle%20prove%20pratiche%20per%20linquadramento%20nei%20ruoli%20di%20cui%20a_fe9543b862e5.md), emanato ai sensi dell'[articolo 50, secondo comma, del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md).
 
 4.
 
@@ -114,13 +114,13 @@ L'inquadramento di cui al comma 1 ha luogo, nei limiti delle disponibilita' di o
 
 1.
 
-All'[articolo 5, comma 8, del decreto-legge 21 settembre 1987, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387#art_5-com8), convertito, con modificazioni, dalla [legge 20 novembre 1987, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-20;472), le parole: "cinquanta" e "trenta" sono sostituite, rispettivamente, dalle parole: "settanta" e "dieci".
+All'[articolo 5, comma 8, del decreto-legge 21 settembre 1987, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387#art_5-com8), convertito, con modificazioni, dalla [legge 20 novembre 1987, n. 472](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20settembre%201987%20n.%20387%20recante%20copertura%20finanziaria%20del%20decreto%20del%20Presidente%20della%20Repubblica%2010%20aprile%201987%20n.%20150%20di%20attuaz_cce295965b55.md), le parole: "cinquanta" e "trenta" sono sostituite, rispettivamente, dalle parole: "settanta" e "dieci".
 
 ## Art. 7. — Qualifica di ufficiale ed agente di polizia giudiziaria
 
 1.
 
-L'[articolo 42, comma secondo, del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337#art_42-com2), e' sostituito dal seguente: 
+L'[articolo 42, comma secondo, del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), e' sostituito dal seguente: 
  "Agli operatori tecnici, operatori tecnici scelti e collaboratori tecnici e' attribuita la qualifica di agente di polizia giudiziaria limitatamente alle funzioni esercitate. Ai collaboratori tecnici capo e agli appartenenti ai ruoli dei revisori tecnici, periti tecnici, direttori tecnici, nonche' ai primi dirigenti del ruolo dei dirigenti tecnici, e' attribuita la qualifica di ufficiali di polizia giudiziaria limitatamente alle funzioni esercitate".
 
 2.
@@ -131,13 +131,13 @@ Oltre quanto disposto dall'articolo 61 della legge 1' aprile 1981, n. 121, per i
 
 1.
 
-Il [comma 1 dell'articolo 13 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;335#art_13-com1), cosi' come modificato dall'articolo 19, comma 3, della legge 1' febbraio 1989, n. 53, e' sostituito dai seguenti: 
+Il [comma 1 dell'articolo 13 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), cosi' come modificato dall'articolo 19, comma 3, della legge 1' febbraio 1989, n. 53, e' sostituito dai seguenti: 
  " 1. Sono ammessi, a domanda, al corso di cui all'articolo 9 gli assistenti capo con almeno una anno di anzianita' nella qualifica. Il corso puo' essere ripetuto una sola volta. 
  1-bis. L'ammissione, nel limite dei posti fissati, di regola annualmente, con decreto del Ministro dell'interno, avviene secondo l'ordine di ruolo".
 
 2.
 
-All'[articolo 1, primo comma, della legge 28 marzo 1968, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;397#art_1-com1), e successive modificazioni, sono apportate le seguenti modifiche:
+All'[articolo 1, primo comma, della legge 28 marzo 1968, n. 397](Norme%20sul%20reclutamento%20dei%20sottufficiali%20dellArma%20dei%20carabinieri.md), e successive modificazioni, sono apportate le seguenti modifiche:
                         a)
                             al numero 1) le parole: "per sette decimi" sono sostituite dalle seguenti: 'per la meta'';
                         b)
@@ -166,13 +166,13 @@ Al personale delle Forze di polizia che sia sottoposto a procedimenti per fatti 
 
 1.
 
-All'[articolo 6, comma 5, della legge 24 dicembre 1986, n. 958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-24;958#art_6-com5), sono soppresse le parole: "ed al [terzo comma dell'articolo 1 della legge 8 luglio 1980, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-08;343#art_1-com3)".
+All'[articolo 6, comma 5, della legge 24 dicembre 1986, n. 958](Norme%20sul%20servizio%20militare%20di%20leva%20e%20sulla%20ferma%20di%20leva%20prolungata.md), sono soppresse le parole: "ed al [terzo comma dell'articolo 1 della legge 8 luglio 1980, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-08;343#art_1-com3)".
 
 ## Art. 12. — Rapporti informativi
 
 1.
 
-L'[articolo 66 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;335#art_66), e' sostituito dal seguente: 
+L'[articolo 66 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e' sostituito dal seguente: 
  "Art. 66 (Organi competenti alla compilazione del rapporto informativo per il personale in servizio presso uffici e reparti periferici dipendenti dal Dipartimento della pubblica sicurezza). 1.
 Il rapporto informativo, per il personale di cui al presente decreto legislativo, in servizio presso gli uffici e reparti indicati ai numeri 3), 6), 7), 8) e 9) del primo comma dell'articolo 31 della legge 1' aprile 1981, n. 121, e' compilato: 
  a) per il primo dirigente, dal dirigente superiore o dirigente generale dal quale direttamente dipende oppure, nella ipotesi che non dipenda da un dirigente con tali qualifiche, dal direttore della direzione o ufficio centrale del Dipartimento della pubblica sicurezza da cui dipende l'ufficio di appartenenza; il rapporto informativo viene vistato dal capo della Polizia che, per il tramite della direzione centrale del personale, lo trasmette, con le proprie osservazioni, al consiglio di amministrazione per il giudizio complessivo; 
@@ -185,14 +185,14 @@ Il rapporto informativo, per il personale di cui al presente decreto legislativo
 
 1.
 
-All'[articolo 65 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;335#art_65), e' aggiunto, in fine, il seguente comma: 
+All'[articolo 65 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e' aggiunto, in fine, il seguente comma: 
  "Alla compilazione del rapporto informativo per il personale in servizio presso le sezioni di polizia giudiziaria costituite nelle procure della Repubblica presso i tribunali per i minorenni, i tribunali ordinari e le preture sono competenti gli organi previsti dal precedente comma, fermo restando quanto stabilito dall'[articolo 10, comma 2, del decreto del Presidente della Repubblica 28 luglio 1989, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1989-07-28;271#art_10-com2)".
 
 ## Art. 14. — Tutela delle lavoratrici madri
 
 1.
 
-Il lavoro prestato nella Polizia di Stato e' da considerarsi pericoloso e faticoso agli effetti di quanto previsto dagli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-30;1204#art_3) e [5 della legge 30 dicembre 1971, n. 1204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-30;1204#art_5). Le incombenze sanitarie previste dalla [legge 30 dicembre 1971, n. 1204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-30;1204), per il personale della Polizia di Stato sono devolute al servizio sanitario dell'Amministrazione della pubblica sicurezza, in conformita' al combinato disposto dell'[articolo 6, primo comma, lettera z), della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_6-com1-letz), e dell'[articolo 3 del decreto del Presidente della Repubblica 24 aprile 1982, n. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;338#art_3).
+Il lavoro prestato nella Polizia di Stato e' da considerarsi pericoloso e faticoso agli effetti di quanto previsto dagli [articoli 3](Tutela%20delle%20lavoratrici%20madri.md) e [5 della legge 30 dicembre 1971, n. 1204](Tutela%20delle%20lavoratrici%20madri.md). Le incombenze sanitarie previste dalla [legge 30 dicembre 1971, n. 1204](Tutela%20delle%20lavoratrici%20madri.md), per il personale della Polizia di Stato sono devolute al servizio sanitario dell'Amministrazione della pubblica sicurezza, in conformita' al combinato disposto dell'[articolo 6, primo comma, lettera z), della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_6-com1-letz), e dell'[articolo 3 del decreto del Presidente della Repubblica 24 aprile 1982, n. 338](../DPR/Ordinamento%20dei%20ruoli%20professionali%20dei%20sanitari%20della%20Polizia%20di%20Stato.md).
 
 ## Art. 15. — Copertura finanziaria
 

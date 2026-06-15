@@ -132,7 +132,7 @@ Per le peno di terzo, quarto, quinto e sesto grado la sezione, prima di dare il 
 
 Quando la gravita' dei fatti lo richieda, la sospensione puo' essere ordinata dal ministro a tempo indeterminato, dandone contemporaneo avviso alla sezione per l'istruzione media per gli opportuni provvedimenti. 
  
- La sospensione ha luogo di diritto nei casi contemplati dal [R. decreto 25 ottobre 1866, n. 3343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-10-25;3343).
+ La sospensione ha luogo di diritto nei casi contemplati dal [R. decreto 25 ottobre 1866, n. 3343](Col%20quale%20sono%20estese%20a%20tutti%20gli%20Impiegati%20e%20Funzionari%20civili%20dello%20Stato%20le%20disposizioni%20contenute%20negli%20articoli%20208%20209%20e%20210%20della%20Legge%206%20dicembre%201865%20n%202626%20riguardanti%20gli%20Impie_d92ff367b78b.md).
 
 ## Art. 13.
 

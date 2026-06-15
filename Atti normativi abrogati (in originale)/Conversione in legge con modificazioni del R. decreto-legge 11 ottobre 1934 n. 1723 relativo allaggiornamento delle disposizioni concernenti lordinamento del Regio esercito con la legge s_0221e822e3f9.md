@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 ottobre 1934, n. 1723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-11;1723), relativo all'aggiornamento delle disposizioni concernenti l'ordinamento del Regio esercito con la legge sull'avanzamento 7 giugno 1934, n. 899, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 11 ottobre 1934, n. 1723](Aggiornamento%20delle%20disposizioni%20concernenti%20lordinamento%20del%20Regio%20esercito.%20034U1723.md), relativo all'aggiornamento delle disposizioni concernenti l'ordinamento del Regio esercito con la legge sull'avanzamento 7 giugno 1934, n. 899, con la seguente modificazione: 
  
  All'articolo 15, lettera b) dopo le parole: «12 Reggimenti di cavalleria», sono soppresse le parole: «di cui uno di carri veloci». 
  

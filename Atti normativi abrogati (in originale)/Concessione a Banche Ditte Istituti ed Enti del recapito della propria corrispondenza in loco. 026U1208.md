@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il nuovo testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-24;501), ed il relativo regolamento approvato col [R. decreto 10 febbraio 1901, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-10;120);
+Visto il nuovo testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), ed il relativo regolamento approvato col [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
 
 Vista la [legge 11 maggio 1913, n. 503](Che%20da%20facolta%20allAmministrazione%20postale%20di%20concedere%20a%20privati%20lautorizzazione%20a%20recapitare%20per%20espresso%20corrispondenze%20epistolari%20entro%20i%20confini%20del%20comune%20di%20loro%20provenienza.%20013U0503.md);
 
-Visto il regolamento approvato con [R. decreto 21 ottobre 1923, n. 2668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2668);
+Visto il regolamento approvato con [R. decreto 21 ottobre 1923, n. 2668](Regolamento%20per%20la%20concessione%20a%20privati%20della%20autorizzazione%20di%20accettare%20trasportare%20e%20di%20distribuire%20corrispondenze%20epistolari%20col%20mezzo%20di%20espresso%20nel%20territorio%20del%20Comune%20di%20proven_d232b73cf73d.md);
 
-Visto il [R. decreto-legge del 19 febbraio 1925, n. 196](Modificazioni%20alle%20vigenti%20tariffe%20postali%20e%20telegrafiche.%20025U0196.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge del 19 febbraio 1925, n. 196](Modificazioni%20alle%20vigenti%20tariffe%20postali%20e%20telegrafiche.%20025U0196.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto l'[art. 3, n. 2, della legge n. 100 del 31 gennaio 1926](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -38,7 +38,7 @@ L'Amministrazione delle poste e dei telegrafi e' autorizzata a dare in concessio
 
 ## Art. 2.
 
-Tale concessione e' accordata con decreto del Ministro per le comunicazioni, verso il corrispettivo unitario, stabilito dall'[art. 3 del R. decreto-legge n. 196 del 19 febbraio 1925](Modificazioni%20alle%20vigenti%20tariffe%20postali%20e%20telegrafiche.%20025U0196.md), determinato e liquidato con le norme degli articoli 14, 15, 16 e 17 del regolamento approvato col [R. decreto 21 ottobre 1923, n. 2668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2668).
+Tale concessione e' accordata con decreto del Ministro per le comunicazioni, verso il corrispettivo unitario, stabilito dall'[art. 3 del R. decreto-legge n. 196 del 19 febbraio 1925](Modificazioni%20alle%20vigenti%20tariffe%20postali%20e%20telegrafiche.%20025U0196.md), determinato e liquidato con le norme degli articoli 14, 15, 16 e 17 del regolamento approvato col [R. decreto 21 ottobre 1923, n. 2668](Regolamento%20per%20la%20concessione%20a%20privati%20della%20autorizzazione%20di%20accettare%20trasportare%20e%20di%20distribuire%20corrispondenze%20epistolari%20col%20mezzo%20di%20espresso%20nel%20territorio%20del%20Comune%20di%20proven_d232b73cf73d.md).
 
 ## Art. 3.
 
@@ -46,7 +46,7 @@ L'ammontare della cauzione degli Enti concessionari e le modalita' da seguire ne
 
 ## Art. 4.
 
-Le concessioni fatte in base al presente decreto-legge sono indipendenti dalle autorizzazioni concesse nei modi e nei limiti stabiliti dall'[art. 8 del R. decreto n. 2668 del 21 ottobre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2668#art_8) . 
+Le concessioni fatte in base al presente decreto-legge sono indipendenti dalle autorizzazioni concesse nei modi e nei limiti stabiliti dall'[art. 8 del R. decreto n. 2668 del 21 ottobre 1923](Regolamento%20per%20la%20concessione%20a%20privati%20della%20autorizzazione%20di%20accettare%20trasportare%20e%20di%20distribuire%20corrispondenze%20epistolari%20col%20mezzo%20di%20espresso%20nel%20territorio%20del%20Comune%20di%20proven_d232b73cf73d.md) . 
  
  Il presente decreto, che avra' effetto dalla data della sua pubblicazione nella Gazzetta Ufficiale, sara' presentato al Parlamento per la conversione in legge. 
  

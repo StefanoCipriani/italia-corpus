@@ -57,7 +57,7 @@ Le procedure disciplinate dagli articoli 2 e 3 si applicano altresi', su richies
 
 1.
 
-Il Presidente del Consiglio dei Ministri, o per sua delega l'organo competente, convoca entro dieci giorni dalla data di entrata in vigore del presente decreto una conferenza dei servizi cui partecipano tutti i rappresentanti delle amministrazioni dello Stato e degli enti, legittimati ad intervenire nel procedimento amministrativo, tenuti ad adottare atti di intesa, nonche' a rilasciare pareri, autorizzazioni, approvazioni e nulla-osta previsti dalle leggi statali e regionali. La conferenza dei servizi opera nell'ambito del potere di coordinamento territoriale spettante al Ministero dei lavori pubblici e nel rispetto delle procedure di cui all'[articolo 81 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_81), e successive modificazioni.
+Il Presidente del Consiglio dei Ministri, o per sua delega l'organo competente, convoca entro dieci giorni dalla data di entrata in vigore del presente decreto una conferenza dei servizi cui partecipano tutti i rappresentanti delle amministrazioni dello Stato e degli enti, legittimati ad intervenire nel procedimento amministrativo, tenuti ad adottare atti di intesa, nonche' a rilasciare pareri, autorizzazioni, approvazioni e nulla-osta previsti dalle leggi statali e regionali. La conferenza dei servizi opera nell'ambito del potere di coordinamento territoriale spettante al Ministero dei lavori pubblici e nel rispetto delle procedure di cui all'[articolo 81 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), e successive modificazioni.
 
 2.
 
@@ -70,7 +70,7 @@ La conferenza verifica altresi' il rispetto delle normative concernenti l'aboliz
 
 4.
 
-Nel caso in cui l'unanimita' per la decisione non venga raggiunta, si applica il disposto di cui al [comma 2-bis dell'articolo 14 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14-com2bis), introdotto dall'[articolo 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2).
+Nel caso in cui l'unanimita' per la decisione non venga raggiunta, si applica il disposto di cui al [comma 2-bis dell'articolo 14 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14-com2bis), introdotto dall'[articolo 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md).
 
 5.
 
@@ -329,7 +329,7 @@ La conferenza emette le proprie definitive determinazioni entro trenta giorni da
 
 9.
 
-Le opere approvate dal comitato di coordinamento sono dichiarate di preminente interesse nazionale, di pubblica utilita' e vengono realizzate secondo un piano di avanzamento coordinato. Si applicano gli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;367#art_8) e [9 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;367#art_9). L'inosservanza dei termini previsti nei progetti comporta l'intervento sostitutivo del prefetto.
+Le opere approvate dal comitato di coordinamento sono dichiarate di preminente interesse nazionale, di pubblica utilita' e vengono realizzate secondo un piano di avanzamento coordinato. Si applicano gli [articoli 8](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md) e [9 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md). L'inosservanza dei termini previsti nei progetti comporta l'intervento sostitutivo del prefetto.
 
 10.
 

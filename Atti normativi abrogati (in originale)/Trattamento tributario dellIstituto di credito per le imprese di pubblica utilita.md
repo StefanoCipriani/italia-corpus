@@ -11,7 +11,7 @@ vigente: true
 ## Art. 1.
 
 Le obbligazioni che saranno emesse dall'Istituto di credito per le imprese di pubblica, utilita', a decorrere dalla data di entrata in vigore del presente decreto, sono esenti da qualsiasi tassa, imposta o tributo, presente o futuro, spettanti sia all'Erario dello Stato, sia, agli Enti locali.
- Nulla e' innovato al regime d'abbonamento previsto nell'[art. 6 del R. decreto-legge 20 maggio 1924, n. 731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-20;731#art_6), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473).
+ Nulla e' innovato al regime d'abbonamento previsto nell'[art. 6 del R. decreto-legge 20 maggio 1924, n. 731](Costituzione%20di%20un%20Ente%20denominato%20Istituto%20di%20credito%20per%20le%20imprese%20di%20pubblica%20utilita.%20024U0731.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md).
 
 ## Art. 2.
 

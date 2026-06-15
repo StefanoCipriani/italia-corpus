@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del Regio esercito e della Regia marina, ed il regolamento per la sua esecuzione approvato con [R. decreto 18 luglio 1912, n. 867](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-07-18;867), e le loro successive modificazioni;
+Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del Regio esercito e della Regia marina, ed il regolamento per la sua esecuzione approvato con [R. decreto 18 luglio 1912, n. 867](Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md), e le loro successive modificazioni;
 
-Visto il [R. decreto 7 gennaio 1923, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;12), relativo all'ordinamento del Regio esercito, e successive modificazioni;
+Visto il [R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), relativo all'ordinamento del Regio esercito, e successive modificazioni;
 
 Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
 
-Visti i [Regi decreti 21 novembre 1923, n. 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-21;2480), e [30 dicembre 1923, n. 2835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2835), sulle pensioni normali del personale dell'Amministrazione dello Stato, e successive modificazioni;
+Visti i [Regi decreti 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e [30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), sulle pensioni normali del personale dell'Amministrazione dello Stato, e successive modificazioni;
 
 Visto il [R. decreto 4 settembre 1925, n. 1600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1600), relativo al collocamento in aspettativa per riduzione di quadri degli ufficiali del Regio esercito in posizione ausiliaria speciale;
 

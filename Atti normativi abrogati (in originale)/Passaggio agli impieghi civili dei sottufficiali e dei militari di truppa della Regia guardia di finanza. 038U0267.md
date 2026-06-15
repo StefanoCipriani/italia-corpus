@@ -18,13 +18,13 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto legislativo 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1923-06-14;1281), e successive modificazioni, sull'ordinamento del Corpo della Regia guardia di finanza;
 
-Visto il [R. decreto 8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;843), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), riguardante l'ordinamento gerarchico delle Amministrazioni dello Stato;
+Visto il [R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), riguardante l'ordinamento gerarchico delle Amministrazioni dello Stato;
 
-Visto il [R. decreto 23 marzo 1933, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-23;185), che approva il regolamento per il personale degli unici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari;
+Visto il [R. decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), che approva il regolamento per il personale degli unici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari;
 
-Visto il [R. decreto-legge 5 luglio 1934, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1187), convertito in [legge 4 aprile 1935, n. 568](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;568), recante provvedimenti per la Regia guardia di finanza;
+Visto il [R. decreto-legge 5 luglio 1934, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1187), convertito in [legge 4 aprile 1935, n. 568](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decretolegge%205%20luglio%201934%20n.%201187%20che%20reca%20provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20035U0568.md), recante provvedimenti per la Regia guardia di finanza;
 
-Visto il [R. decreto 27 ottobre 1937, n. 2065](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-10-27;2065), che modifica l'art. 238 del regolamento per il personale degli uffici finanziari;
+Visto il [R. decreto 27 ottobre 1937, n. 2065](Modificazione%20allart.%20238%20del%20regolamento%20per%20il%20personale%20degli%20Uffici%20finanziari.%20037U2065.md), che modifica l'art. 238 del regolamento per il personale degli uffici finanziari;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -54,7 +54,7 @@ I posti di commesso nell'Amministrazione delle dogane sono conferiti agli appunt
 
 ## Art. 3.
 
-L'[art. 23 del R. decreto 8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;843#art_23), convertito in [legge 17 aprile 1925, n. 473, e l'art. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473#art_16) del [R. decreto-legge 5 luglio 1934, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1187), convertito in [legge 4 aprile 1935, n. 568](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;568), sono abrogati.
+L'[art. 23 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito in [legge 17 aprile 1925, n. 473, e l'art. 16](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md) del [R. decreto-legge 5 luglio 1934, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1187), convertito in [legge 4 aprile 1935, n. 568](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decretolegge%205%20luglio%201934%20n.%201187%20che%20reca%20provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20035U0568.md), sono abrogati.
 
 ## Art. 4.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 gennaio 1928, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-22;265), riguardante il quantitativo di zucchero proveniente dalle Colonie italiane da importarsi nel Regno a trattamento di favore. 
+ E' convertito in legge il [R. decreto-legge 22 gennaio 1928, n. 265](Quantitativo%20di%20zucchero%20proveniente%20dalle%20Colonie%20italiane%20da%20importarsi%20nel%20Regno%20a%20trattamento%20di%20favore.%20028U0265.md), riguardante il quantitativo di zucchero proveniente dalle Colonie italiane da importarsi nel Regno a trattamento di favore. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

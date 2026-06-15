@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 maggio 1926, n. 743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-06;743), contenente norme per la esecuzione degli sfratti, modificando il 4° e 5° comma dell'art. 1, come segue: 
+ E' convertito in legge il [R. decreto-legge 6 maggio 1926, n. 743](Norme%20per%20la%20esecuzione%20degli%20sfratti.%20026U0743.md), contenente norme per la esecuzione degli sfratti, modificando il 4° e 5° comma dell'art. 1, come segue: 
  
  «E' in facolta' del pretore di determinare, con suo criterio discrezionale e incensurabile, l'ordine di preferenza da seguirsi negli sfratti, dando l'assoluta precedenza a quelli determinati da ragioni di morosita', di moralita' o da gravi inadempimenti contrattuali del conduttore e valutando per gli altri le particolari situazioni di fatto. 
  

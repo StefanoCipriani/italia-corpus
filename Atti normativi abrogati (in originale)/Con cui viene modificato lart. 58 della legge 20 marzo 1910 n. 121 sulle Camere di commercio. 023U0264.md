@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 10 marzo 1910, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-10;121), sull'ordinamento delle Camere di commercio e industria del Regno;
 
-Visto il regolamento approvato con [R. D. 19 febbraio 1911, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-19;245), per l'attuazione della legge medesima;
+Visto il regolamento approvato con [R. D. 19 febbraio 1911, n. 245](Che%20approva%20lannesso%20regolamento%20per%20lattuazione%20della%20legge%20sullordinamento%20delle%20Camere%20di%20commercio%20e%20industria.%20011U0245.md), per l'attuazione della legge medesima;
 
 Visto l'[art. 2 del decreto luogotenenziale 15 maggio 1919, n. 892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-15;892#art_2);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'Industria e il Comm
 
 Ai contravventori delle norme stabilite dall'[art. 58 della legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md), si applicheranno le penalita' sancite dal successivo art. 63 salve le disposizioni seguenti: 
  
- I contravventori, prima di essere deferiti all'autorita' giudiziaria, saranno invitati dal Presidente della Camera a fare, entro il termine di dieci giorni dalla data dell'invito, l'oblazione strasgiudiziale analogamente a quanto dispone l'art. 228 della legge comunale e provinciale testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148). 
+ I contravventori, prima di essere deferiti all'autorita' giudiziaria, saranno invitati dal Presidente della Camera a fare, entro il termine di dieci giorni dalla data dell'invito, l'oblazione strasgiudiziale analogamente a quanto dispone l'art. 228 della legge comunale e provinciale testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md). 
  
  L'oblazione non sara' accettata se il contravventore non avra' dimostrato di avere soddisfatto all'obbligo della denunzia. 
  

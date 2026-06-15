@@ -78,13 +78,13 @@ A partire dal 1° gennaio successivo all'approvazione del collaudo finale delle 
 
 Le stime di cui agli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-08;1256#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-08;1256#art_4) e [5 del decreto Luogotenenziale 8 agosto 1918, n.1256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-08;1256#art_5), sono redatte sulla base di perizie precedenti o di recenti contratti di compravendita o di affitto riguardanti i fondi compresi nel perimetro od altri fondi ritenuti in condizioni analoghe, ovvero, per quanto riguarda i terreni, mediante stime campionarie da applicarsi a tutti quelli in consimili condizioni fisiche o di fertilita'. In mancanza di dati attendibili, si fa ricorso a criteri generali desunti dai prezzi correnti e dal reddito piu' comune delle varie specie di immobili. Nella determinazione della plusvalenza conseguita per effetto della bonifica non si tien conto del valore dei miglioramenti compiuti dai proprietari od affittuari successivamente alla prima stima e comunque delle variazioni nel valore dei fondi dipendenti da cause estranee alla bonifica. 
  
- Le prime stime tengono luogo della determinazione del valore iniziale delle terre da bonificare richiesta dall'[art. 33 della legge 13 luglio 1911, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;774#art_33).
+ Le prime stime tengono luogo della determinazione del valore iniziale delle terre da bonificare richiesta dall'[art. 33 della legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md).
 
 ## Art. 10.
 
 Le opere da eseguire per la bonifica agraria, ai sensi dell'[art. 5 del decreto Luogotenenziale 8 agosto 1918, n. 1256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-08;1256#art_5), sono determinate da apposito commissario nominato a norma dell'[art. 7 del decreto Luogotenenziale 2 settembre 1917, n. 1597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-09-02;1597#art_7). 
  
- La proposta di bonificamento agrario presentata dal commissario tien luogo di quella prescritta dall'[art. 33 della legge 13 luglio 1911, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;774#art_33), e viene pubblicata secondo le modalita' e i termini che sono stabiliti dal Ministero dei lavori pubblici, il quale anticipa la spesa delle pubblicazioni. 
+ La proposta di bonificamento agrario presentata dal commissario tien luogo di quella prescritta dall'[art. 33 della legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md), e viene pubblicata secondo le modalita' e i termini che sono stabiliti dal Ministero dei lavori pubblici, il quale anticipa la spesa delle pubblicazioni. 
  
  Sui reclami e controproposte presentate in tempo utile dagli interessati decide definitivamente il Ministero di agricoltura.
 
@@ -128,7 +128,7 @@ Alle concessioni di opere idrauliche o idraulico-forestali di cui all'[art. 3 de
 
 ## Art. 17.
 
-La somma da pagarsi annualmente per contributo dello Stato nella spesa delle bonifiche date in concessione ai sensi dell'[art. 2 della legge 20 giugno 1912, n. 712](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-20;712#art_2) e dell'[art. 1 del decreto Luogotenenziale 8 agosto 1918, n. 1256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-08;1256#art_1) sara' stanziata in unico capitolo della parte straordinaria dello stato di previsione della spesa del Ministero dei lavori pubblici, nella misura che, secondo il bisogno, verra' determinata, in sede di bilancio, per ciascun esercizio finanziario.
+La somma da pagarsi annualmente per contributo dello Stato nella spesa delle bonifiche date in concessione ai sensi dell'[art. 2 della legge 20 giugno 1912, n. 712](Che%20approva%20provvedimenti%20per%20agevolare%20lesecuzione%20di%20opere%20di%20bonifica%20di%20prima%20categoria.%20012U0712.md) e dell'[art. 1 del decreto Luogotenenziale 8 agosto 1918, n. 1256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-08;1256#art_1) sara' stanziata in unico capitolo della parte straordinaria dello stato di previsione della spesa del Ministero dei lavori pubblici, nella misura che, secondo il bisogno, verra' determinata, in sede di bilancio, per ciascun esercizio finanziario.
 
 ## Art. 18.
 

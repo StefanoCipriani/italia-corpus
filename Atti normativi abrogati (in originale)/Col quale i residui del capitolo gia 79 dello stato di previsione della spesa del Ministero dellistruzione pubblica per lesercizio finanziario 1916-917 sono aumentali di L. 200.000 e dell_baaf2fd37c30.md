@@ -24,9 +24,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'[art. 4 del decreto Luogotenenziale 5 novembre 1916, n. 1521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-05;1521#art_4); 
  
- Visto l'[art. 90 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_90); 
+ Visto l'[art. 90 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md); 
  
- Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738); 
+ Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- I residui del capitolo gia' 79: «Borse di studio ad alunni ed alunne delle scuole normali, stabilite dalla [legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487). Borse di studio ai maestri elementari, ecc.» dello stato di previsione della spesa del Ministero dell'istruzione pubblica per l'esercizio finanziario 1916-917 sono aumentati di lire duecentomila (L. 200.000), e della stessa somma sono diminuiti i residui del capitolo n. 308-bis: «Fondo di riserva per le spese relative ai servizi dell'istruzione elementare e popolare» dello stato di previsione medesimo per l'esercizio predetto. 
+ I residui del capitolo gia' 79: «Borse di studio ad alunni ed alunne delle scuole normali, stabilite dalla [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md). Borse di studio ai maestri elementari, ecc.» dello stato di previsione della spesa del Ministero dell'istruzione pubblica per l'esercizio finanziario 1916-917 sono aumentati di lire duecentomila (L. 200.000), e della stessa somma sono diminuiti i residui del capitolo n. 308-bis: «Fondo di riserva per le spese relative ai servizi dell'istruzione elementare e popolare» dello stato di previsione medesimo per l'esercizio predetto. 
  
  Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
  

@@ -20,7 +20,7 @@ Sulla proposta del presidente del Consiglio dei ministri, ministro dell'interno,
 
 ## Articolo unico.
 
-Il termine stabilito nell'[art. 8 del R. decreto 27 settembre 1914, n. 1050](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-27;1050#art_8), e' prorogato fino al 30 giugno
+Il termine stabilito nell'[art. 8 del R. decreto 27 settembre 1914, n. 1050](Da%20convertirsi%20in%20legge%20concernente%20provvedimenti%20per%20sollecitare%20lesecuzione%20di%20opere%20igieniche%20a%20sollievo%20della%20disoccupazione.%20014U1050.md), e' prorogato fino al 30 giugno
 
 1915.
 

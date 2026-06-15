@@ -18,13 +18,13 @@ L'anticipazione di cui al precedente articolo verra' corrisposta per una meta' i
 
 ## Art. 3.
 
-Il Consorzio impostera' nella parte passiva del suo bilancio, a decorrere dall'esercizio nel quale avra' inizio la riscossione dei ruoli di contribuenza o dei canoni per la vendita dell'energia elettrica, prodotta con l'impianto, la quota di rimborso, senza interessi, dell'anticipazione, di cui all'art. 1, nonche' dell'altra di L. 1.000.000, fruttifera dell'interesse del 5 per cento annuo a decorrere dal 1° gennaio 1924, accordata al Consorzio medesimo in virtu' del [R. decreto-legge 19 ottobre 1919, n. 2214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-19;2214). 
+Il Consorzio impostera' nella parte passiva del suo bilancio, a decorrere dall'esercizio nel quale avra' inizio la riscossione dei ruoli di contribuenza o dei canoni per la vendita dell'energia elettrica, prodotta con l'impianto, la quota di rimborso, senza interessi, dell'anticipazione, di cui all'art. 1, nonche' dell'altra di L. 1.000.000, fruttifera dell'interesse del 5 per cento annuo a decorrere dal 1° gennaio 1924, accordata al Consorzio medesimo in virtu' del [R. decreto-legge 19 ottobre 1919, n. 2214](Che%20detta%20norme%20circa%20lassicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20019U2214.md). 
  
  La misura di tali quote di rimborso sara' determinata a giudizio insindacabile dei Ministri per i lavori pubblici e per l'agricoltura e le foreste, di concerto con quello per le finanze, in relazione alle condizioni finanziarie del Consorzio, debitamente accertate. 
  
  Di mano in mano che saranno estinti i mutui contratti o da contrarsi dal Consorzio per l'esecuzione delle opere, la detta quota di rimborso sara' accresciuta dell'importo equivalente alle quote di ammortamento, comprensive di capitale e di interessi, dei mutui estinti, sino all'integrale rimborso dell'anticipazione suddetta. 
  
- Nessun utile potra' essere frattanto attribuito ai componenti il predetto Consorzio, fermo restando, dopo avvenuto il totale rimborso delle anticipazioni suddette, quanto dispone l'art. 1 del disciplinare 22 agosto 1925, repertorio n. 643, in applicazione dell'[art. 52 del R. decreto-legge 9 ottobre 1919, n. 2161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-09;2161#art_52).
+ Nessun utile potra' essere frattanto attribuito ai componenti il predetto Consorzio, fermo restando, dopo avvenuto il totale rimborso delle anticipazioni suddette, quanto dispone l'art. 1 del disciplinare 22 agosto 1925, repertorio n. 643, in applicazione dell'[art. 52 del R. decreto-legge 9 ottobre 1919, n. 2161](Che%20reca%20disposizioni%20sulle%20derivazioni%20ed%20utilizzazioni%20dacque%20pubbliche%20stabilendo%20altresi%20le%20norme%20di%20giurisdizione%20e%20di%20procedura%20del%20contenzioso%20sulle%20acque%20pubbliche.%20019U2161.md).
 
 ## Art. 4.
 

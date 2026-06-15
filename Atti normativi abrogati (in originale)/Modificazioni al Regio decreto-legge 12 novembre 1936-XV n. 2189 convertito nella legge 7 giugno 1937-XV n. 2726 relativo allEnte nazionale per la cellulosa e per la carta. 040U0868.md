@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [n. 2 dell'art. 1 del R. decreto-legge 12 novembre 1936, n. 2189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-11-12;2189#art_1-num2), convertito nella legge 7 giugno 1937-XV, n. 2726, e' cosa modificato: 
+Il [n. 2 dell'art. 1 del R. decreto-legge 12 novembre 1936, n. 2189](Modificazioni%20alla%20legge%2013%20giugno%201935-XIII%20n.%201453%20relativa%20alla%20costituzione%20dellEnte%20Nazionale%20per%20la%20cellulosa%20e%20per%20la%20carta%20alla%20determinazione%20dei%20suoi%20compiti%20e%20dei%20mezzi%20occorre_ad91db9f0655.md), convertito nella legge 7 giugno 1937-XV, n. 2726, e' cosa modificato: 
  
  «All'art. 3 e' sostituito il seguente: 
  

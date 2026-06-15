@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Visto il Nostro decreto 23 febbraio 1933, n. 158, con il quale venne riconosciuta la cessione dell'esercizio dell'intera ferrovia alla Societa' delle Strade Ferrate Pugliesi che successivamente ha modificata la propria ragione sociale in Societa' Strade Ferrate Sarde; 
  
- Udita la Commissione per la revisione dei piani finanziari di ferrovie e tramvie istituita con l'[art. 7 del decreto Luogotenenziale 23 febbraio 1919, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-23;303#art_7), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473); 
+ Udita la Commissione per la revisione dei piani finanziari di ferrovie e tramvie istituita con l'[art. 7 del decreto Luogotenenziale 23 febbraio 1919, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-23;303#art_7), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md); 
  
  Udito il parere del Consiglio superiore dei lavori pubblici e del Consiglio di Stato; 
  

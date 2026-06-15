@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 ottobre 1928, n. 2478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-10-18;2478), contenente disposizioni relative alla riscossione della tassa a favore delle Opere universitarie, di cui all'[art. 58 del R. decreto-legge 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-30;2102#art_58), circa l'ordinamento dell'istruzione superiore. 
+ E' convertito in legge il [R. decreto-legge 18 ottobre 1928, n. 2478](Disposizioni%20relative%20alla%20riscossione%20della%20tassa%20a%20favore%20delle%20Opere%20universitarie.%20028U2478.md), contenente disposizioni relative alla riscossione della tassa a favore delle Opere universitarie, di cui all'[art. 58 del R. decreto-legge 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-30;2102#art_58), circa l'ordinamento dell'istruzione superiore. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

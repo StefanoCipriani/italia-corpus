@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 ottobre 1933, n. 1597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-26;1597), che ha dato esecuzione all'Accordo internazionale firmato a Parigi il 29 novembre 1924 per la creazione in quella Capitale di un Ufficio internazionale del vino. 
+ E' convertito in legge il [R. decreto-legge 26 ottobre 1933, n. 1597](Ratifica%20dellAccordo%20di%20Parigi%20del%2029%20novembre%201924%20per%20la%20istituzione%20in%20Parigi%20di%20un%20Ufficio%20internazionale%20del%20vino.%20033U1597.md), che ha dato esecuzione all'Accordo internazionale firmato a Parigi il 29 novembre 1924 per la creazione in quella Capitale di un Ufficio internazionale del vino. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

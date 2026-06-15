@@ -20,11 +20,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [R. decreto 22 febbraio 1863, n. 1174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1863-02-22;1174), che stabilisce le attribuzioni dei comandanti di dipartimenti militari marittimi e le sue successive modificazioni; 
+ Visto il [R. decreto 22 febbraio 1863, n. 1174](Contenente%20lordinamento%20del%20servizio%20della%20Marina%20militare%20dello%20Stato.%20063U1174.md), che stabilisce le attribuzioni dei comandanti di dipartimenti militari marittimi e le sue successive modificazioni; 
  
- Visto il [R. decreto 30 agosto 1914, n. 945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-30;945), che stabilisce la costituzione delle forze navali dello Stato, e le sue successive modificazioni; 
+ Visto il [R. decreto 30 agosto 1914, n. 945](Concernente%20la%20costituzione%20delle%20forze%20navali%20dello%20Stato.%20014U0945.md), che stabilisce la costituzione delle forze navali dello Stato, e le sue successive modificazioni; 
  
  Sentito il Consiglio superiore di marina; 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Alla tabella n. XIV degli ufficiali del Corpo veterinario militare del testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, approvato con [R. decreto 14 luglio 1898, n. 525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;525), modificato con [leggi 7 luglio 1901, n. 285, 21 luglio 1902, n. 303, 2 giugno 1904, n. 216, e 3 luglio 1904, n. 300](Modificazioni%20alla%20legge%20dordinamento%20del%20R.%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20della%20guerra%20e%20al%20testo%20unico%20della%20legge%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20R.%20esercito.%20004U0300.md), sono apportate le seguenti modificazioni: 
+ Alla tabella n. XIV degli ufficiali del Corpo veterinario militare del testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), modificato con [leggi 7 luglio 1901, n. 285, 21 luglio 1902, n. 303, 2 giugno 1904, n. 216, e 3 luglio 1904, n. 300](Modificazioni%20alla%20legge%20dordinamento%20del%20R.%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20della%20guerra%20e%20al%20testo%20unico%20della%20legge%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20R.%20esercito.%20004U0300.md), sono apportate le seguenti modificazioni: 
  
  a «2 tenenti colonnelli veterinari» sostituire: «4 tenenti colonnelli veterinari»; 
  

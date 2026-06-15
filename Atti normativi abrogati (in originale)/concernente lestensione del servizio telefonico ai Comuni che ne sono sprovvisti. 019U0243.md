@@ -40,7 +40,7 @@ Sono ammesse alla domanda di mutuo di cui agli articoli precedenti, le Provincie
 
 ## Art. 4.
 
-I mutui sono estinti dalle Provincie mutuatarie in un periodo di tempo non eccedente i 35 anni. In caso di assoluta necessita', giustificata dalle condizioni economiche dell'ente mutuatario, si consentira' l'ammortamento in 50 anni, con le garanzie di cui agli articoli 75 e seguenti del testo unico di leggi approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453) (libro II parte 1ª).
+I mutui sono estinti dalle Provincie mutuatarie in un periodo di tempo non eccedente i 35 anni. In caso di assoluta necessita', giustificata dalle condizioni economiche dell'ente mutuatario, si consentira' l'ammortamento in 50 anni, con le garanzie di cui agli articoli 75 e seguenti del testo unico di leggi approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md) (libro II parte 1ª).
 
 ## Art. 5.
 
@@ -71,7 +71,7 @@ Le Provincie e i Comuni potranno deliberare le spese indicate nella presente leg
 
 ## Art. 10.
 
-Restano in vigore le disposizioni della [legge 9 luglio 1908, n.420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;420), in quanto non siano modificate dai [decreti Luogotenenziali 7 ottobre 1917, n. 1658](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-10-07;1658), e [14 luglio 1918, n. 984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-07-14;984), ed in quanto non siano contrarie alle disposizioni della presente legge.
+Restano in vigore le disposizioni della [legge 9 luglio 1908, n.420](Modificazioni%20al%20testo%20unico%20delle%20leggi%20sul%20servizio%20telefonico%20ed%20aggiunte%20alle%20leggi%2024%20marzo%201907%20n.%20111%20e%2015%20luglio%201907%20n.%20506.%20008U0420.md), in quanto non siano modificate dai [decreti Luogotenenziali 7 ottobre 1917, n. 1658](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-10-07;1658), e [14 luglio 1918, n. 984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-07-14;984), ed in quanto non siano contrarie alle disposizioni della presente legge.
 
 ## Art. 11.
 

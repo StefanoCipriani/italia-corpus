@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258), relativo alla costituzione dell'Amministrazione autonoma dei monopoli di Stato;
 
-Visto il [R. decreto 29 dicembre 1927, n. 2452](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-29;2452), che determina la facolta' dell'Amministrazione stessa e le attribuzioni del Consiglio di amministrazione e del direttore generale dei Monopoli;
+Visto il [R. decreto 29 dicembre 1927, n. 2452](Determinazione%20delle%20facolta%20dellAmministrazione%20autonoma%20dei%20monopoli%20di%20Stato%20e%20delle%20attribuzioni%20del%20Consiglio%20di%20amministrazione%20e%20del%20direttore%20generale%20dellAmministrazione%20stessa.%20027U2452.md), che determina la facolta' dell'Amministrazione stessa e le attribuzioni del Consiglio di amministrazione e del direttore generale dei Monopoli;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

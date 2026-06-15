@@ -116,13 +116,13 @@ Quando se ne mostri la necessita' per il regolare e completo sfruttamento della 
  
  a) quali norme sieno da osservarsi a garanzia dei terzi, determinando anche se l'esercente debba prestare cauzione, quando occorra inoltrarsi con scavi, pozzi o gallerie sotto cave, fabbriche, luoghi abitati, corsi d'acqua e sotto lavori di miniere concesse ad altri; 
  
- b) quali disposizioni della [legge 30 marzo 1893, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-03-30;184), e con quali modifiche, debbano essere osservate per la polizia delle miniere di combustibili fossili, di olii minerali e gas idrocarburati.
+ b) quali disposizioni della [legge 30 marzo 1893, n. 184](Sulla%20polizia%20delle%20miniere%20cave%20e%20torbiere.%20093U0184.md), e con quali modifiche, debbano essere osservate per la polizia delle miniere di combustibili fossili, di olii minerali e gas idrocarburati.
 
 ## Art. 12.
 
 Il Comitato ha facolta' con propri decreti: 
  
- a) di dichiarare di pubblica utilita', ad ogni effetto della [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), le opere occorrenti per il regolare o completo sfruttamento delle miniere e per il deposito e trasporto dei prodotti; 
+ a) di dichiarare di pubblica utilita', ad ogni effetto della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), le opere occorrenti per il regolare o completo sfruttamento delle miniere e per il deposito e trasporto dei prodotti; 
  
  b) di ordinare ai sensi dell'art. 71 della legge stessa, l'occupazione d'urgenza dei beni immobili occorrenti per l'esecuzione delle opere di cui al precedente articolo; 
  
@@ -131,7 +131,7 @@ Il Comitato ha facolta' con propri decreti:
 -------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [D.L. Luogotenenziale 25 gennaio 1917, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-01-25;93), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [D.L. Luogotenenziale 25 gennaio 1917, n. 93](Che%20modifica%20lart.%2012%20lett.%20b%20del%20decreto-legge%20Luogotenenziale%207%20gennaio%201917%20n.%2035.%20017U0093.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 13.
 
@@ -186,7 +186,7 @@ Alle spese in dipendenza del presente decreto il Comitato provvede coi fondi sta
 
 ## Art. 21.
 
-Alle leggi ed ai regolamenti relativi alle cave e miniere sono sostituiti, nei riguardi dei combustibili fossili, degli olii minerali e dei gas idrocarburati, le disposizioni del presento decreto, fermo restando quanto e' stabilito nella [legge 19 marzo 1911, n. 250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-19;250), per i premi a coloro che fanno ricerche di petrolio.
+Alle leggi ed ai regolamenti relativi alle cave e miniere sono sostituiti, nei riguardi dei combustibili fossili, degli olii minerali e dei gas idrocarburati, le disposizioni del presento decreto, fermo restando quanto e' stabilito nella [legge 19 marzo 1911, n. 250](Provvedimenti%20a%20favore%20dellindustria%20del%20petrolio.%20011U0250.md), per i premi a coloro che fanno ricerche di petrolio.
 
 ## Art. 22.
 

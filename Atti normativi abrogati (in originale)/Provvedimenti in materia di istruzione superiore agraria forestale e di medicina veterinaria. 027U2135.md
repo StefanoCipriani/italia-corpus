@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172);
+Visto il [R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md);
 
 Ritenuta la urgente ed assoluta necessita' di emanare nuove norme per l'istruzione superiore agraria, e di medicina veterinaria;
 
@@ -26,9 +26,9 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ### Art. 1.
 
-L'[art. 1 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_1), e' sostituito dal seguente: 
+L'[art. 1 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
- « L'istruzione superiore agraria e quella superiore di medicina veterinaria sono impartite, ai fini ed agli effetti del presente decreto, nei Regi istituti superiori agrari e di medicina veterinaria, indicati nel [R. decreto 31 ottobre 1923, n. 2492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2492), nei [Regi decreti 23 ottobre 1924, n. 1850](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;1850), [6 novembre 1924, n. 1851, e nel R. decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-06;1851) [29 ottobre 1925, n. 1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-29;1965). 
+ « L'istruzione superiore agraria e quella superiore di medicina veterinaria sono impartite, ai fini ed agli effetti del presente decreto, nei Regi istituti superiori agrari e di medicina veterinaria, indicati nel [R. decreto 31 ottobre 1923, n. 2492](Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md), nei [Regi decreti 23 ottobre 1924, n. 1850](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;1850), [6 novembre 1924, n. 1851, e nel R. decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-06;1851) [29 ottobre 1925, n. 1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-29;1965). 
  
  « I Regi istituti superiori agrari hanno per fine di promuovere il progresso delle scienze agrarie e di impartire la cultura scientifica necessaria per l'esercizio degli uffici e delle professioni agrarie e forestali. 
  
@@ -42,7 +42,7 @@ L'[art. 1 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/ur
 
 ### Art. 2.
 
-L'[art. 5 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_5), e' sostituito dal seguente: 
+L'[art. 5 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
  « Le lauree conferite dagli Istituti superiori agrari e di medicina veterinaria hanno esclusivamente valore di qualifiche accademiche. 
  
@@ -56,7 +56,7 @@ L'[art. 5 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/ur
 
 ### Art. 3.
 
-L'[art. 9 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_9), e' sostituito dal seguente: 
+L'[art. 9 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
  « Il Consiglio di amministrazione e' composto: 
  
@@ -78,7 +78,7 @@ L'[art. 9 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/ur
 
 ### Art. 4.
 
-Ferme restando le disposizioni del [R. decreto 16 agosto 1926, n. 1387, l'art. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1387#art_12) del [R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172), e' sostituito dal seguente: 
+Ferme restando le disposizioni del [R. decreto 16 agosto 1926, n. 1387, l'art. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1387#art_12) del [R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
  « Ai posti di ruolo vacanti presso ciascun Istituto si provvede o con nuove nomine o col trasferimento di professori di grado universitario. 
  
@@ -90,7 +90,7 @@ Ferme restando le disposizioni del [R. decreto 16 agosto 1926, n. 1387, l'art. 1
 
 ### Art. 5.
 
-L'[art. 14 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_14), e' sostituito dal seguente: 
+L'[art. 14 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
  « Il concorso di cui al precedente art. 12 e' giudicato da una Commissione composta di cinque membri effettivi e due supplenti, nominati secondo le norme che verranno stabilite dal regolamento per l'applicazione del presente decreto. 
  
@@ -98,7 +98,7 @@ L'[art. 14 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/u
 
 ### Art. 6.
 
-L'[art. 15 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_15), e' sostituito dal seguente: 
+L'[art. 15 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
  « I professori di ruolo, prima di assumere l'ufficio, debbono, sotto pena di decadenza, prestare giuramento dinanzi al direttore dell'Istituto. 
  
@@ -108,7 +108,7 @@ L'[art. 15 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/u
 
 ### Art. 7.
 
-L'[art. 16 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_16), e' sostituito dal seguente: 
+L'[art. 16 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
  « I professori di ruolo sono di unico grado. Essi sono nominati per la durata di tre anni solari durante i quali possono essere dispensati dall'ufficio su motivata proposta dell'Istituto. 
  
@@ -123,7 +123,7 @@ Il conferimento della stabilita' ha effetto il giorno successivo a quello in cui
 
 ### Art. 8.
 
-L'[art. 17 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_17), e' sostituito dal seguente: 
+L'[art. 17 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
  « I professori di ruolo possono, col loro consenso, essere trasferiti ad una cattedra della stessa materia in altro Istituto superiore considerato dal presente decreto. 
  
@@ -135,17 +135,17 @@ L'[art. 17 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/u
  
  « In tutti i casi in cui il trasferimento e' proposto per coprire una cattedra vacante deve essere sentito il parere della 1ª sezione del Consiglio superiore per l'istruzione agraria, industriale e commerciale, a norma dell'art. 12. 
  
- « Il trasferimento di professori dei Regi istituti superiori agrari e del Regio istituto superiore agrario e forestale di Firenze alle Regie stazioni di prova agraria e speciali, ai sensi dell'[art. 11 del R. decreto 31 ottobre 1923, n. 2492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2492#art_11), avverra' su proposta del Comitato amministrativo della Stazione di prova agraria e speciale competente, approvata col voto della maggioranza assoluta dei suoi componenti, e sentito il parere della lª sezione del Consiglio superiore per l'istruzione agraria, industriale e commerciale. 
+ « Il trasferimento di professori dei Regi istituti superiori agrari e del Regio istituto superiore agrario e forestale di Firenze alle Regie stazioni di prova agraria e speciali, ai sensi dell'[art. 11 del R. decreto 31 ottobre 1923, n. 2492](Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md), avverra' su proposta del Comitato amministrativo della Stazione di prova agraria e speciale competente, approvata col voto della maggioranza assoluta dei suoi componenti, e sentito il parere della lª sezione del Consiglio superiore per l'istruzione agraria, industriale e commerciale. 
  
- « Il trasferimento di direttori di ruolo di Stazione di prova agraria e speciale ad un Regio istituto superiore agrario od al Regio istituto superiore agrario e forestale di Firenze, ai sensi dell'[art. 11 del R. decreto 31 ottobre 1923, n. 2492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2492#art_11), avra' luogo su proposta del Consiglio accademico dell'Istituto competente e sentito il parere della 1ª sezione del Consiglio superiore per l'istruzione agraria, industriale e commerciale. 
+ « Il trasferimento di direttori di ruolo di Stazione di prova agraria e speciale ad un Regio istituto superiore agrario od al Regio istituto superiore agrario e forestale di Firenze, ai sensi dell'[art. 11 del R. decreto 31 ottobre 1923, n. 2492](Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md), avra' luogo su proposta del Consiglio accademico dell'Istituto competente e sentito il parere della 1ª sezione del Consiglio superiore per l'istruzione agraria, industriale e commerciale. 
  
  « Ai professori e ai direttori non e' dovuta alcuna indennita' di trasferimento ».
 
 ### Art. 9.
 
-L'[art. 21 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_21), e' sostituito dal seguente: 
+L'[art. 21 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
- « Per cio' che concerne i doveri dei professori di ruolo e le punizioni disciplinari che possono loro essere inflitte si applicano le disposizioni degli articoli 23 a 31 incluso e dell'[art. 34 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_34). 
+ « Per cio' che concerne i doveri dei professori di ruolo e le punizioni disciplinari che possono loro essere inflitte si applicano le disposizioni degli articoli 23 a 31 incluso e dell'[art. 34 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
  « Ai professori stessi sono applicabili in quanto non contrastino col precedente comma, le disposizioni di cui agli articoli 46, 47, comma 1°, 49, 63, ad eccezione del comma 1°, 8° e 10°, e 66 del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato. 
  
@@ -159,9 +159,9 @@ L'[art. 21 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/u
 
 ### Art. 10.
 
-L'[art. 24 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_24), e' sostituito dal seguente: 
+L'[art. 24 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
- « L'insegnamento a titolo privato e' disciplinato dalle disposizioni del Capo V del [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102), escluso il 2° comma dell'art. 40 del decreto stesso, dall'[art. 12 del R. decreto 25 settembre 1924, n. 1585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1585#art_12), e dell'[art. 14 del R. decreto-legge 27 ottobre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-27;1923#art_14). 
+ « L'insegnamento a titolo privato e' disciplinato dalle disposizioni del Capo V del [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), escluso il 2° comma dell'art. 40 del decreto stesso, dall'[art. 12 del R. decreto 25 settembre 1924, n. 1585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1585#art_12), e dell'[art. 14 del R. decreto-legge 27 ottobre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-27;1923#art_14). 
  
  « Ai liberi docenti puo' essere revocata dal Ministero l'abilitazione all'insegnamento quando, per manifestazioni compiute nell'esercizio del loro ufficio, o anche indipendentemente da esso, non diano piena garanzia di un fedele adempimento dei propri doveri, ovvero si pongano in condizioni di incompatibilita' con le generali direttive politiche del Governo. 
  
@@ -169,7 +169,7 @@ L'[art. 24 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/u
 
 ### Art. 11.
 
-L'[art. 27 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_27), e' sostituito dal seguente: 
+L'[art. 27 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
  « Gli esami sono di profitto e di laurea. Quelli di profitto vengono sostenuti per materia. 
  
@@ -187,7 +187,7 @@ L'[art. 27 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/u
 
 ### Art. 12.
 
-L'[art. 32 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_32), e' sostituito dal seguente: 
+L'[art. 32 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
  « L'annessa tabella A determina le tasse e le sopratasse da pagarsi dagli studenti. 
  
@@ -204,7 +204,7 @@ L'[art. 32 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/u
 
 ### Art. 13.
 
-L'[art. 43 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_43), e' sostituito dal seguente: 
+L'[art. 43 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
  « I tecnici, i bidelli, i custodi sono nominati con decreto ministeriale, su proposta del direttore dell'Istituto, d'intesa col professore alla cui dipendenza immediata debbono andare, sentito il parere del Consiglio di amministrazione. 
  
@@ -214,7 +214,7 @@ L'[art. 43 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/u
 
 ### Art. 14.
 
-L'[art. 44 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_44), e' sostituito dal seguente: 
+L'[art. 44 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
  « Oltre le rendite del proprio patrimonio sono a disposizione di ogni Istituto superiore il contributo annuo a carico del bilancio dello Stato pel mantenimento dell'Istituto e delle aziende annesse; i contributi di enti o di privati; il provento delle tasse di esercizio della privata docenza ; delle tasse e sopratasse scolastiche e di contributi di qualsiasi natura corrisposti dagli studenti; dei diritti di segreteria; delle prestazioni ed opere che, sotto qualsiasi titolo, gli Istituti scientifici possono eseguire. 
  
@@ -224,7 +224,7 @@ L'[art. 44 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/u
  
  « Con lo stesso decreto sara' provveduto al riparto della somma totale dei contributi fra i vari Istituti superiori. 
  
- « I contributi che le Provincie, i Comuni e le Camere di commercio si obbligano di versare ai Regi istituti superiori agrari e di medicina veterinaria, a termine dell'[art. 9 del R. decreto 31 ottobre 1923, n. 2492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2492#art_9), dell'[art. 56 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_56), e dell'[art. 3 del R. decreto 29 ottobre 1925, n. 1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-29;1965#art_3), debbono, quando l'Istituto superiore interessato ne faccia richiesta al prefetto, essere garantiti mediante delegazione sulle sovraimposte, o, in mancanza, su altri cespiti dati in riscossione al ricevitore provinciale o all'esattore delle imposte dirette, con l'obbligo del non riscosso per riscosso. 
+ « I contributi che le Provincie, i Comuni e le Camere di commercio si obbligano di versare ai Regi istituti superiori agrari e di medicina veterinaria, a termine dell'[art. 9 del R. decreto 31 ottobre 1923, n. 2492](Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md), dell'[art. 56 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e dell'[art. 3 del R. decreto 29 ottobre 1925, n. 1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-29;1965#art_3), debbono, quando l'Istituto superiore interessato ne faccia richiesta al prefetto, essere garantiti mediante delegazione sulle sovraimposte, o, in mancanza, su altri cespiti dati in riscossione al ricevitore provinciale o all'esattore delle imposte dirette, con l'obbligo del non riscosso per riscosso. 
  
  « La delegazione deve essere rilasciata per il periodo uguale alla rimanente durata della convenzione di mantenimento dell'Istituto superiore interessato. 
  
@@ -232,7 +232,7 @@ L'[art. 44 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/u
 
 ### Art. 15.
 
-L'[art. 46 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_46), e' sostituito dal seguente: 
+L'[art. 46 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
  « L'anno finanziario coincide con l'anno accademico. 
  
@@ -250,7 +250,7 @@ L'[art. 46 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/u
 
 ### Art. 16.
 
-L'[art. 47 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_47), e' sostituito dal seguente: 
+L'[art. 47 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dal seguente: 
  
  « Il bilancio preventivo non e' soggetto ad approvazione da parte del Ministero dell'economia nazionale, al quale pero' sara' inviato, per conoscenza, un mese prima dell'inizio dell'esercizio finanziario. 
  
@@ -262,7 +262,7 @@ L'[art. 47 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/u
 
 ### Art. 17.
 
-In aggiunta ai posti di professore degli Istituti superiori agrari e di medicina veterinaria, di cui alle tabelle nn. 86 e 87 dell'allegato II del [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e' consentito istituire altri posti con decreto Reale, da emanarsi su proposta del Ministro per l'economia nazionale di concerto col Ministro per le finanze, e sempre che i relativi mezzi siano forniti da enti o da privati mediante regolari convenzioni tra questi e gli Istituti superiori anzidetti da approvarsi con lo stesso decreto Reale. I professori titolari dei posti cosi' istituiti hanno trattamento economico e giuridico identico a quello degli altri professori titolari degli Istituti stessi di cui alle citate tabelle nn. 86 e 87 dell'allegato II del decreto sopra indicato. 
+In aggiunta ai posti di professore degli Istituti superiori agrari e di medicina veterinaria, di cui alle tabelle nn. 86 e 87 dell'allegato II del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' consentito istituire altri posti con decreto Reale, da emanarsi su proposta del Ministro per l'economia nazionale di concerto col Ministro per le finanze, e sempre che i relativi mezzi siano forniti da enti o da privati mediante regolari convenzioni tra questi e gli Istituti superiori anzidetti da approvarsi con lo stesso decreto Reale. I professori titolari dei posti cosi' istituiti hanno trattamento economico e giuridico identico a quello degli altri professori titolari degli Istituti stessi di cui alle citate tabelle nn. 86 e 87 dell'allegato II del decreto sopra indicato. 
  
  Gli stipendi e gli altri eventuali assegni o indennita' saranno direttamente corrisposti dallo Stato. 
  
@@ -282,23 +282,23 @@ Ai professori e ad ogni altra persona che presti servizio presso i Regi istituti
 
 ### Art. 19.
 
-La tassa annuale di iscrizione presso i Regi istituti superiori agrari e di medicina veterinaria, di cui alla tabella A annessa al [R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172), e' aumentata di L. 50 a decorrere dall'anno accademico 1926-1927.
+La tassa annuale di iscrizione presso i Regi istituti superiori agrari e di medicina veterinaria, di cui alla tabella A annessa al [R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' aumentata di L. 50 a decorrere dall'anno accademico 1926-1927.
 
 ### Art. 20.
 
-Al Regio istituto superiore di medicina veterinaria di Perugia si applicano le norme contenute nel [R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172), e quelle del presente decreto, salvo il disposto dei seguenti articoli.
+Al Regio istituto superiore di medicina veterinaria di Perugia si applicano le norme contenute nel [R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e quelle del presente decreto, salvo il disposto dei seguenti articoli.
 
 ### Art. 21.
 
 I professori del Regio istituto superiore di medicina veterinaria di Perugia sono professori di Stato. 
  
- La loro condizione giuridica e' uguale a quella dei professori dei Regi istituti superiori agrari e di medicina veterinaria contemplati dal [R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172). 
+ La loro condizione giuridica e' uguale a quella dei professori dei Regi istituti superiori agrari e di medicina veterinaria contemplati dal [R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md). 
  
  Nulla e' innovato al [1° comma dell'art. 5 del R. decreto-legge 29 ottobre 1925, n. 1965](Passaggio%20dellUniversita%20di%20Perugia%20tra%20le%20Universita%20Regie%20di%20cui%20alla%20tabella%20B%20annessa%20al%20R.%20decreto%2030%20settembre%201923%20n.%202102.%20025U1965.md), per gli attuali professori del Regio istituto suddetto.
 
 ### Art. 22.
 
-Lo stipendio e gli aumenti periodici di esso per i professori di ruolo del Regio istituto superiore di medicina veterinaria di Perugia, non possono essere inferiori a quelli stabiliti dalla tabella E annessa al [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102). 
+Lo stipendio e gli aumenti periodici di esso per i professori di ruolo del Regio istituto superiore di medicina veterinaria di Perugia, non possono essere inferiori a quelli stabiliti dalla tabella E annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
  Ai professori medesimi deve essere inoltre corrisposta l'indennita' accademica nella misura stabilita dalla citata tabella. 
  
@@ -322,15 +322,15 @@ Con effetto dal 16 ottobre 1925, alla quota del contributo annuo spettante, a ca
 
 ### Art. 25.
 
-Ai posti vacanti presso il Regio istituto superiore di medicina veterinaria di Perugia possono essere trasferiti, osservando le norme dell'[art. 17 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_17), modificato dall'art. 8 del presente decreto, anche professori dei Regi istituti superiori agrari e di medicina veterinaria di cui al citato [R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172). 
+Ai posti vacanti presso il Regio istituto superiore di medicina veterinaria di Perugia possono essere trasferiti, osservando le norme dell'[art. 17 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), modificato dall'art. 8 del presente decreto, anche professori dei Regi istituti superiori agrari e di medicina veterinaria di cui al citato [R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md). 
  
- Ai professori del predetto Istituto, ove siano trasferiti in Istituti di cui al ripetuto [R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172), vengono attribuiti, in base alle disposizioni del [Regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e successive modificazioni, grado e stipendio corrispondente agli anni di servizio prestati in qualita' di professori universitari di ruolo. 
+ Ai professori del predetto Istituto, ove siano trasferiti in Istituti di cui al ripetuto [R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), vengono attribuiti, in base alle disposizioni del [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, grado e stipendio corrispondente agli anni di servizio prestati in qualita' di professori universitari di ruolo. 
  
- La disposizione di cui al precedente comma si applica anche ai professori delle universita' od istituti liberi che siano trasferiti agli Istituti superiori di cui al [R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172).
+ La disposizione di cui al precedente comma si applica anche ai professori delle universita' od istituti liberi che siano trasferiti agli Istituti superiori di cui al [R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md).
 
 ### Art. 26.
 
-All'Istituto superiore di medicina veterinaria (1° biennio) di Camerino si applicano le disposizioni del Titolo IV del [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102), e successive aggiunte e modificazioni, intendendosi sostituito, per la vigilanza, il Ministero dell'economia nazionale a quello della pubblica istruzione.
+All'Istituto superiore di medicina veterinaria (1° biennio) di Camerino si applicano le disposizioni del Titolo IV del [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e successive aggiunte e modificazioni, intendendosi sostituito, per la vigilanza, il Ministero dell'economia nazionale a quello della pubblica istruzione.
 
 ### Art. 27.
 
@@ -338,13 +338,13 @@ I direttori ed i professori sono autorizzati a fare uso nelle cerimonie ufficial
 
 ### Art. 28.
 
-Fino all'integrale attuazione del provvedimento di cui all'[art. 4 del R. decreto 30 ottobre 1923, n. 2492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-30;2492#art_4), e, in ogni caso, non oltre il 31 dicembre 1927, rimane in vigore, per tutti gli Istituti superiori agrari e di medicina veterinaria, la disposizione di cui all'[art. 66 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_66). 
+Fino all'integrale attuazione del provvedimento di cui all'[art. 4 del R. decreto 30 ottobre 1923, n. 2492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-30;2492#art_4), e, in ogni caso, non oltre il 31 dicembre 1927, rimane in vigore, per tutti gli Istituti superiori agrari e di medicina veterinaria, la disposizione di cui all'[art. 66 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md). 
  
  Nella prima attuazione del presente decreto, e fino al 30 novembre 1927, il Ministro per l'economia nazionale ha facolta' di conferire una cattedra di una determinata materia presso il Regio istituto superiore di medicina veterinaria di Perugia, al secondo graduato di un concorso per la materia stessa, i cui atti siano stati approvati da non oltre un biennio.
 
 ### Art. 29.
 
-Il termine per l'approvazione degli statuti degli Istituti superiori agrari e di medicina veterinaria, di cui al [2° comma dell'art. 62 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_62-com2), e' prorogato al 31 marzo 1928.
+Il termine per l'approvazione degli statuti degli Istituti superiori agrari e di medicina veterinaria, di cui al [2° comma dell'art. 62 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' prorogato al 31 marzo 1928.
 
 ### Art. 30.
 

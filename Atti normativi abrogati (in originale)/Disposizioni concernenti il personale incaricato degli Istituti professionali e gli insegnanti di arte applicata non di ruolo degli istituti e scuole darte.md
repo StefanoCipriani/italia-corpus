@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Gli incarichi d'insegnamento negli Istituti professionali istituiti ai sensi dell'[articolo 9 del regio decreto - legge 21 settembre 1938, n. 2038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038#art_9), sono conferiti secondo l'ordine di apposite graduatorie formate dal preside e approvate dal Consiglio di amministrazione.
+Gli incarichi d'insegnamento negli Istituti professionali istituiti ai sensi dell'[articolo 9 del regio decreto - legge 21 settembre 1938, n. 2038](Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), sono conferiti secondo l'ordine di apposite graduatorie formate dal preside e approvate dal Consiglio di amministrazione.
  A tal fine, con deliberazione motivata, da adottarsi entro il mese di aprile di ogni anno, il Consiglio di amministrazione determina, in rapporto alle specifiche esigenze dei singoli insegnamenti, i titoli e i requisiti riconosciuti idonei ad attestare il possesso da parte degli aspiranti della necessaria capacita' culturale, didattica e professionale e stabilisce, altresi', i criteri in base ai quali saranno formate le graduatorie.
  La deliberazione contenente l'indicazione degli insegnamenti impartiti nell'istituto e gli altri elementi di cui al precedente comma e' pubblicata nell'albo dello istituto stesso.
  Nelle graduatorie di cui al primo comma, coloro i quali sono in possesso di titolo di abilitazione, che il Consiglio di amministrazione riconosca corrispondente o affine all'insegnamento richiesto, sono collocati in posizione di precedenza assoluta.

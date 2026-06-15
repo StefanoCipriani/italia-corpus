@@ -19,13 +19,13 @@ Gli stabilimenti per la concia dello pelli bovine e gli stabilimenti per la fabb
 
 ## Art. 2.
 
-I prezzi dei cuoiami destinati a calzaturifici che hanno impegni con l'Amministrazione militare non potranno essere superiori ai massimi che saranno stabiliti periodicamente dalla Commissione per gli approvigionamenti di calzature per l'esercito, istituita con [R. decreto 25 aprile 1915, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-25;565). 
+I prezzi dei cuoiami destinati a calzaturifici che hanno impegni con l'Amministrazione militare non potranno essere superiori ai massimi che saranno stabiliti periodicamente dalla Commissione per gli approvigionamenti di calzature per l'esercito, istituita con [R. decreto 25 aprile 1915, n. 565](Che%20istituisce%20presso%20il%20Ministero%20della%20guerra%20una%20commissione%20per%20predisporre%20e%20disciplinare%20gli%20approvvigionamenti%20delle%20calzature%20per%20lesercito%20mobilitato.%20015U0565.md). 
  
- Per le materie concianti, i prezzi potranno, occorrendo, essere stabiliti dall'Amministrazione salvo reclamo al Collegio arbitrale, di cui all'[art. 10 del Regio decreto 26 giugno 1915, n. 993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-06-26;993#art_10).
+ Per le materie concianti, i prezzi potranno, occorrendo, essere stabiliti dall'Amministrazione salvo reclamo al Collegio arbitrale, di cui all'[art. 10 del Regio decreto 26 giugno 1915, n. 993](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md).
 
 ## Art. 3.
 
-La disposizione dell'art. 8 del suddetto [R. decreto 26 giugno 1915 n. 993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-06-26;993), e' estesa al personale addetto agli stabilimenti contemplati nell'art. 1 del presente decreto.
+La disposizione dell'art. 8 del suddetto [R. decreto 26 giugno 1915 n. 993](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md), e' estesa al personale addetto agli stabilimenti contemplati nell'art. 1 del presente decreto.
 
 ## Art. 4.
 

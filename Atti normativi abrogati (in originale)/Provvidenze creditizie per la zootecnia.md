@@ -41,7 +41,7 @@ I rischi delle operazioni sono a carico degli Istituti.
 
 Gli acquisti e le opere finanziati coi prestiti di cui al precedente art. 1 non potranno fruire di alcun contributo, sussidio o concorso dello Stato o delle Regioni.
  La concessione dei predetti prestiti da parte degli Istituti e' subordinata all'accertamento, da eseguirsi a cura del Ministero dell'agricoltura e delle foreste, che, per gli acquisti e opere ai quali i prestiti stessi si riferiscono, i beneficiari non abbiano percepito alcun contributo, sussidio o concorso a carico dello Stato o delle Regioni.
- Per la parte non in contrasto con la presente legge saranno applicabili le norme previste dal [regio decreto-legge 29 luglio 1927, n. 1509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509), convertito nella [legge 5 luglio 1928, n. 1760](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md), e successive modificazioni.
+ Per la parte non in contrasto con la presente legge saranno applicabili le norme previste dal [regio decreto-legge 29 luglio 1927, n. 1509](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md), convertito nella [legge 5 luglio 1928, n. 1760](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md), e successive modificazioni.
 
 ## Art. 5.
 

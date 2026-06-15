@@ -21,7 +21,7 @@ All'[articolo 18 della legge 30 dicembre 1959, n. 1236](Trattamento%20giuridico%
 
 ## Art. 2.
 
-Le disposizioni contenute nel [decreto del Presidente della Repubblica 5 giugno 1965, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-05;758), sono estese, in quanto applicabili, agli assuntori iscritti al Fondo di previdenza che siano stati o che saranno assunti nei ruoli organici dell'Azienda autonoma delle ferrovie dello Stato.
+Le disposizioni contenute nel [decreto del Presidente della Repubblica 5 giugno 1965, n. 758](../DPR/Nuove%20norme%20sul%20cumulo%20di%20pensioni%20e%20stipendi%20a%20carico%20dello%20Stato%20e%20di%20Enti%20pubblici%20in%20applicazione%20della%20legge%205%20dicembre%201964%20n.%201268.md), sono estese, in quanto applicabili, agli assuntori iscritti al Fondo di previdenza che siano stati o che saranno assunti nei ruoli organici dell'Azienda autonoma delle ferrovie dello Stato.
 
 ## Art. 3.
 

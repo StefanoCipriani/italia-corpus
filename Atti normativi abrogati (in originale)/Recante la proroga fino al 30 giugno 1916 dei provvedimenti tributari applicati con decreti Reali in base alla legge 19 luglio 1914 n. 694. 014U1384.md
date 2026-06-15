@@ -46,7 +46,7 @@ VITTORIO EMANUELE III
  
  11. Decreto Reale 22 novembre 1914, n. 1289, portante il riordinamento del diritto di statistica. 
  
- I ruoli speciali che saranno pubblicati nel gennaio 1915 per la riscossione dell'addizionale applicata pel primo semestre dell'anno 1915 alle tre imposte dirette (terreni, fabbricati e ricchezza mobile) in forza del [R. decreto 15 ottobre 1914, n. 1128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-10-15;1128), valgono anche come titolo esecutivo per la riscossione della tassa addizionale da applicarsi pel secondo semestre dell'anno stesso sulle imposte predette comprese nei ruoli in parola. 
+ I ruoli speciali che saranno pubblicati nel gennaio 1915 per la riscossione dell'addizionale applicata pel primo semestre dell'anno 1915 alle tre imposte dirette (terreni, fabbricati e ricchezza mobile) in forza del [R. decreto 15 ottobre 1914, n. 1128](Recante%20aumento%20dal%20due%20al%20cinque%20per%20cento%20delladdizionale%20alle%20imposte%20dirette%20con%20alcune%20esenzioni%20devoluzione%20allo%20Stato%20della%20addizionale%20stessa%20e%20stanziamento%20di%20L.%209.100.000%20per%20il_39f29c30a573.md), valgono anche come titolo esecutivo per la riscossione della tassa addizionale da applicarsi pel secondo semestre dell'anno stesso sulle imposte predette comprese nei ruoli in parola. 
  
  Ordiniamo che la presente munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti, del regno d'Italia mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

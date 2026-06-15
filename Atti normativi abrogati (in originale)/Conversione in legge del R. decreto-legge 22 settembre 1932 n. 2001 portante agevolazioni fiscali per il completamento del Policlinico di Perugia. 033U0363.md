@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 settembre 1932, n. 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-22;2001), portante agevolazioni fiscali per il completamento del Policlinico di Perugia. 
+ E' convertito in legge il [R. decreto-legge 22 settembre 1932, n. 2001](Agevolazione%20fiscali%20per%20il%20completamento%20del%20Policlinico%20di%20Perugia.%20032U2001.md), portante agevolazioni fiscali per il completamento del Policlinico di Perugia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

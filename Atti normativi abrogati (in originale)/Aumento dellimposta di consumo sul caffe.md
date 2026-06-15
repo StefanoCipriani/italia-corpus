@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto l'art. 1 dell'allegato A al [decreto Luogotenenziale 13 maggio 1917, n. 736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-13;736), che istitui' l'imposta di consumo sul caffe';
 
-Visto il [R. decreto-legge 8 ottobre 1931, n. 1250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-08;1250), convertito nella [legge 18 gennaio 1932 n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-01-18;84), successivamente modificato riguardante l'unificazione dell'imposta di consumo predetta;
+Visto il [R. decreto-legge 8 ottobre 1931, n. 1250](Modificazione%20dei%20dazi%20generali%20sul%20caffe%20in%20grani%20e%20sul%20caffe%20tostato%20e%20unificazione%20della%20imposta%20di%20consumo.%20031U1250.md), convertito nella [legge 18 gennaio 1932 n. 84](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20ottobre%201931%20n.%201250%20che%20modifica%20i%20dazi%20generali%20sul%20caffe%20in%20grani%20e%20sul%20caffe%20tostato%20e%20unifica%20limposta%20di%20consumo.%20032U0084.md), successivamente modificato riguardante l'unificazione dell'imposta di consumo predetta;
 
 Visto l'art. 2 dell'allegato E al [decreto legislativo Luogotenenziale 26 aprile 1945, n. 223](Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md);
 

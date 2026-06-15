@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 dicembre 1932, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-12-22;1842), concernente la sistemazione di rapporti tra lo Stato italiano e la Societa' di navigazione fiumana «Levante». 
+ E' convertito in legge il [R. decreto-legge 22 dicembre 1932, n. 1842](Sistemazione%20di%20rapporti%20tra%20lo%20Stato%20italiano%20e%20la%20Societa%20di%20navigazione%20fiumana%20Levante.%20032U1842.md), concernente la sistemazione di rapporti tra lo Stato italiano e la Societa' di navigazione fiumana «Levante». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osserarla e di farla osservare come legge dello Stato. 
  

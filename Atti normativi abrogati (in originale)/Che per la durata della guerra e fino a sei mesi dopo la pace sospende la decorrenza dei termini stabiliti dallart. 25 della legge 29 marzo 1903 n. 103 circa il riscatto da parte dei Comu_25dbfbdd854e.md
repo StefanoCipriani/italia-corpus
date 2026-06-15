@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La decorrenza dei termini stabiliti dall'[art. 25 della legge 29 marzo 1903, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-03-29;103#art_25), per il riscatto, da parte dei Comuni, dei servizi affidati all'industria privata e' sospesa per tutta la durata della guerra e sino a sei mesi dopo la pubblicazione del trattato di pace.
+La decorrenza dei termini stabiliti dall'[art. 25 della legge 29 marzo 1903, n. 103](Sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20003U0103.md), per il riscatto, da parte dei Comuni, dei servizi affidati all'industria privata e' sospesa per tutta la durata della guerra e sino a sei mesi dopo la pubblicazione del trattato di pace.
 
 ## Art. 2.
 

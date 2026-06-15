@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto il [decreto legislativo Luogotenenziale 28 settembre 1944, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-28;359), relativo alla ricostituzione del l'Accademia nazionale dei Lincei;
+Veduto il [decreto legislativo Luogotenenziale 28 settembre 1944, n. 359](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20dellAccademia%20nazionale%20dei%20Lincei.%20044U0359.md), relativo alla ricostituzione del l'Accademia nazionale dei Lincei;
 
 Veduto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

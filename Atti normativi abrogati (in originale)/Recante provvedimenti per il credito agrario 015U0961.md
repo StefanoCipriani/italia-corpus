@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le disposizioni del [R. decreto 11 ottobre 1914, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-10-11;1089), riguardante provvedimenti straordinari per il credito agrario avranno vigore fino al 31 dicembre 1916, con le modificazioni e aggiunte contenute negli articoli seguenti.
+Le disposizioni del [R. decreto 11 ottobre 1914, n. 1089](Riguardante%20provvedimenti%20straordinari%20per%20il%20credito%20agrario.%20014U1089.md), riguardante provvedimenti straordinari per il credito agrario avranno vigore fino al 31 dicembre 1916, con le modificazioni e aggiunte contenute negli articoli seguenti.
 
 ## Art. 2.
 
@@ -20,7 +20,7 @@ Il privilegio di cui all'art. 1958. n. 5, del [Codice civile](https://www.normat
 
 ## Art. 3.
 
-Indipendentemente dalle disposizioni delle [leggi 7 luglio 1901, n. 334, e del 29 marzo 1906, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-03-29;100), gli Istituti di emissione possono riscontare il portafoglio degli Istituti di credito agrario creati con le leggi speciali, degli Istituti autorizzati col [R. decreto 10 ottobre 1914, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-10-10;1089), nonche' delle Unioni o Federazioni di Societa' agrarie legalmente costituite, secondo le norme che saranno stabilite con decreto dei ministri del tesoro e di agricoltura, industria e commercio. 
+Indipendentemente dalle disposizioni delle [leggi 7 luglio 1901, n. 334, e del 29 marzo 1906, n. 100](Che%20istituisce%20presso%20il%20Banco%20di%20Sicilia%20una%20sezione%20per%20lesercizio%20del%20credito%20agrario.%20006U0100.md), gli Istituti di emissione possono riscontare il portafoglio degli Istituti di credito agrario creati con le leggi speciali, degli Istituti autorizzati col [R. decreto 10 ottobre 1914, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-10-10;1089), nonche' delle Unioni o Federazioni di Societa' agrarie legalmente costituite, secondo le norme che saranno stabilite con decreto dei ministri del tesoro e di agricoltura, industria e commercio. 
  
  Il saggio per tale risconto sara' inferiore dell'uno per cento al saggio ufficiale dello sconto. 
  
@@ -38,7 +38,7 @@ A tutto il 1916 il ministro di agricoltura, industria e commercio ha facolta' di
 
 L'Istituto di credito agrario per la Liguria in Porto Maurizio e' autorizzalo fino a tutto il 1916 a concedere prestiti diretti della durata non maggiore di tre anni e per un ammontare non superiore a L. 3000 a proprietari di terreni in Liguria por provvedere i fondi di acqua potabile e di irrigazione e per trasformare le colture. 
  
- In questi prestiti puo' essere investita una somma complessiva non eccedente il quinto delle disponibilita' dell'Istituto e sono applicabili ad essi le disposizioni dell'[art. 11 del R. decreto 11 ottobre 1914, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-10-11;1089#art_11).
+ In questi prestiti puo' essere investita una somma complessiva non eccedente il quinto delle disponibilita' dell'Istituto e sono applicabili ad essi le disposizioni dell'[art. 11 del R. decreto 11 ottobre 1914, n. 1089](Riguardante%20provvedimenti%20straordinari%20per%20il%20credito%20agrario.%20014U1089.md).
 
 ## Art. 6.
 

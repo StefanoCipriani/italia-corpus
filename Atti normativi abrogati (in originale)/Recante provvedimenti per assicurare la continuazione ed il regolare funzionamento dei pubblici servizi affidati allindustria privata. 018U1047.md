@@ -28,7 +28,7 @@ I Comuni possono chiedere ai concessionari di pubblici servizi, le cui concessio
 
 ## Art. 2.
 
-L'intenzione del Comune di valersi della facolta' di cui al primo comma del precedente articolo, dovra' risultare da apposita deliberazione del Consiglio comune da adottarsi nella forma prescritta dal n. 1 dell'art. 190 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148), e dal [decreto Luogotenenziale 4 gennaio 1917, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-04;89), non piu' tardi del 31 agosto per le concessioni scadenti nel corrente anno e del 31 gennaio 1919 per tutte le altre. 
+L'intenzione del Comune di valersi della facolta' di cui al primo comma del precedente articolo, dovra' risultare da apposita deliberazione del Consiglio comune da adottarsi nella forma prescritta dal n. 1 dell'art. 190 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e dal [decreto Luogotenenziale 4 gennaio 1917, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-04;89), non piu' tardi del 31 agosto per le concessioni scadenti nel corrente anno e del 31 gennaio 1919 per tutte le altre. 
  
  Entro tre giorni dalla data di detta deliberazione, il sindaco deve comunicare la richiesta al concessionario per mezzo di messo comunale che ne certifica l'eseguita consegna. 
  
@@ -48,7 +48,7 @@ Qualora il servizio non proceda regolarmente per causa imputabile al concessiona
 
 ## Art. 4.
 
-Nel caso che il Comune intenda assumere direttamente l'esercizio delle aziende rilevate, dovra' osservare le disposizioni della [legge 29 marzo 1903, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-03-29;103), sulla assunzione diretta dei pubblici servizi e del regolamento approvato col [R. decreto 10 marzo 1904, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-03-10;108). 
+Nel caso che il Comune intenda assumere direttamente l'esercizio delle aziende rilevate, dovra' osservare le disposizioni della [legge 29 marzo 1903, n. 103](Sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20003U0103.md), sulla assunzione diretta dei pubblici servizi e del regolamento approvato col [R. decreto 10 marzo 1904, n. 108](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2029%20marzo%201903%20sulla%20assunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20004U0108.md). 
  
  E' data pero' facolta' al Governo del Re di rinviare a sei mesi dopo la conclusione della pace la votazione per referendum senza che rimanga sospesa la prosecuzione dell'ulteriore procedura.
 

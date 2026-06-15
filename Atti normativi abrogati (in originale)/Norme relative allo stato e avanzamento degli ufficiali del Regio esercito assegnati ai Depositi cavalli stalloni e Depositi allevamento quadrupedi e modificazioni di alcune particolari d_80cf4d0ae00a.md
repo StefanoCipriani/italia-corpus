@@ -20,7 +20,7 @@ Vista la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%2
 
 Vista la [legge 11 marzo 1926, n. 398](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20026U0398.md), sull'avanzamento degli ufficiali del Regio esercito;
 
-Visto l'[art. 17 del R. decreto 6 settembre 1923, n. 2125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-06;2125#art_17), sulla costituzione ed ordinamento degli uffici e dei servizi del Ministero dell'economia nazionale;
+Visto l'[art. 17 del R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), sulla costituzione ed ordinamento degli uffici e dei servizi del Ministero dell'economia nazionale;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

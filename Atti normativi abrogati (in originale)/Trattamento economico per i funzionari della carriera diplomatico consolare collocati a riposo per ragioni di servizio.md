@@ -12,13 +12,13 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70) e successive modificazioni;
 
-Visto il [regio decreto 11 aprile 1926, n. 857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-11;857);
+Visto il [regio decreto 11 aprile 1926, n. 857](Estensione%20a%20tutti%20i%20gradi%20della%20carriera%20diplomatico-consolare%20della%20facolta%20del%20collocamento%20a%20riposo%20per%20ragioni%20di%20servizio.%20026U0857.md);
 
-Visto il [regio decreto 25 giugno 1926, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-25;1214);
+Visto il [regio decreto 25 giugno 1926, n. 1214](Estensione%20agli%20ambasciatori%20inviati%20straordinari%20e%20ministri%20plenipotenziari%20consiglieri%20di%20legazione%20e%20consoli%20generali%20collocati%20a%20riposo%20per%20ragioni%20di%20servizio%20delle%20disposizioni%20di%20c_795505b6b7c1.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

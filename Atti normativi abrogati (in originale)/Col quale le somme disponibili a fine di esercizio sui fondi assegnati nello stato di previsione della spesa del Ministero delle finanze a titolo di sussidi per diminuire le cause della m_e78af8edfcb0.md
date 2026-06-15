@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 1-sub 5 della [legge 19 maggio 1904, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-05-19;209); 
+ Visto l'art. 1-sub 5 della [legge 19 maggio 1904, n. 209](Che%20modifica%20alcuni%20articoli%20di%20quella%20in%20data%2023%20dicembre%201900%20n.%20505%20per%20la%20vendita%20del%20chinino%20per%20conto%20dello%20Stato.%20004U0209.md); 
  
  Visto l'[art. 13 del decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625#art_13), convertito nella legge 21 dicembre successivo, n. 1774; 
  

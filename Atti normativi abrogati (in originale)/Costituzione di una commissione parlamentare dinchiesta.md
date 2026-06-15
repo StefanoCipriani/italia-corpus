@@ -42,7 +42,7 @@ Se la commissione d'inchiesta non ritiene fondata la dichiarazione prevista dal 
 ## Art. 6.
 
 I membri della commissione d'inchiesta, i funzionari addetti al suo ufficio di segreteria e ogni altra persona che collabori con la commissione stessa o che compia o concorra a compiere atti di inchiesta o ne abbia conoscenza per ragioni di ufficio o servizio, sono obbligati al segreto per tutto cio' che riguarda gli atti medesimi ed i documenti acquisiti al procedimento d'inchiesta.
- Salvo che il fatto costituisca un delitto piu' grave, la violazione del segreto e' punita a norma dell'[articolo 326 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_326).
+ Salvo che il fatto costituisca un delitto piu' grave, la violazione del segreto e' punita a norma dell'[articolo 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Le stesse pene si applicano a chiunque pubblichi, in tutto o in parte, anche per riassunto o a guisa di informazione, atti o documenti del procedimento d'inchiesta, salvo che per il fatto siano previste pene piu' gravi.
 
 ## Art. 7.

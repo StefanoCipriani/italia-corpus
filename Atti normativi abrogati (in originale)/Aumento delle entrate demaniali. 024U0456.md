@@ -46,7 +46,7 @@ Entro il 30 giugno 1924, e con effetto dal 1° luglio successivo, il Ministero d
 
 ## Art. 2.
 
-Il canone per le concessioni di demanio pubblico marittimo ad uso di cantieri navali, stabilito dall'art. 755 del regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166), per l'esecuzione del Codice della marina mercantile, e dall'[art. 44 della legge 23 luglio 1896, n. 318](Riflettente%20la%20concessione%20di%20compensi%20di%20costruzione%20e%20premi%20di%20navigazione%20ai%20piroscafi%20ed%20ai%20velieri%20nazionali%20096U0318.md), e' elevato a centesimi 20 per metro quadrato e per anno. Il canone in questa misura si applica solo ai cantieri in quanto destinati alla costruzione degli scafi, restando in facolta' dell'Amministrazione di estenderlo, a seconda delle circostanze, a quelle parti di cantiere destinate ad industrie e lavorazioni sussidiarie, ovvero di imporre un maggior canone in conformita' del comma seguente. 
+Il canone per le concessioni di demanio pubblico marittimo ad uso di cantieri navali, stabilito dall'art. 755 del regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md), per l'esecuzione del Codice della marina mercantile, e dall'[art. 44 della legge 23 luglio 1896, n. 318](Riflettente%20la%20concessione%20di%20compensi%20di%20costruzione%20e%20premi%20di%20navigazione%20ai%20piroscafi%20ed%20ai%20velieri%20nazionali%20096U0318.md), e' elevato a centesimi 20 per metro quadrato e per anno. Il canone in questa misura si applica solo ai cantieri in quanto destinati alla costruzione degli scafi, restando in facolta' dell'Amministrazione di estenderlo, a seconda delle circostanze, a quelle parti di cantiere destinate ad industrie e lavorazioni sussidiarie, ovvero di imporre un maggior canone in conformita' del comma seguente. 
  
  Il limite minimo normale del canone per le concessioni ad uso diverso da cantiere navale, stabilito nell'art. 779 del precitato regolamento, e' elevato a centesimi 40 per metro quadrato e per anno.
 
@@ -68,7 +68,7 @@ Per le dispense d'acqua dai canali demaniali dello Stato, le disposizioni del pr
 
 Per ogni specie di concessione riguardante beni dello Stato, comprese quelle accordate come provvedimenti di polizia, in caso di disaccordo fra i vari uffici interessati riguardo alla misura del canone da imporsi, la decisione spetta al Ministero delle finanze. 
  
- Per le concessioni di demanio pubblico marittimo l'articolo 769 del regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166), per l'esecuzione del Codice della marina mercantile, resta modificato nel senso che le risoluzioni del Commissariato della marina mercantile, quando si riferiscono al canone, debbono essere prese d'accordo col Ministero delle finanze.
+ Per le concessioni di demanio pubblico marittimo l'articolo 769 del regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md), per l'esecuzione del Codice della marina mercantile, resta modificato nel senso che le risoluzioni del Commissariato della marina mercantile, quando si riferiscono al canone, debbono essere prese d'accordo col Ministero delle finanze.
 
 ## Art. 6.
 

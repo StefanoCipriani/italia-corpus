@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 marzo 1923, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-28;645);
+Visto il [R. decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md);
 
 Visto il decreto Commissariale 24 agosto 1924, relativo alla costituzione del Corpo equipaggi della Regia aeronautica, e successive modificazioni;
 

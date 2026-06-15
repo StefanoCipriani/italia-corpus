@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 30 novembre 1939, n. 1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-30;1976), recante agevolazioni fiscali per l'affrancazione di colonie perpetue nei comuni di Lanuvio e Genzano di Roma, prorogata con la [legge 15 aprile 1942, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-04-15;516);
+Vista la [legge 30 novembre 1939, n. 1976](Agevolazioni%20fiscali%20per%20laffrancazione%20di%20colonie%20perpetue%20nei%20comuni%20di%20Lanuvio%20e%20di%20Genzano%20di%20Roma.%20039U1976.md), recante agevolazioni fiscali per l'affrancazione di colonie perpetue nei comuni di Lanuvio e Genzano di Roma, prorogata con la [legge 15 aprile 1942, n. 516](Proroga%20delle%20agevolazioni%20tributarie%20accordate%20con%20la%20legge%2030%20novembre%201939-XVIII%20n.%201976%20per%20laffrancazione%20di%20colonie%20perpetue%20nei%20comuni%20di%20Lanuvio%20e%20di%20Genzano%20di%20Roma.%20042U0516.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944 n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per l'agricoltura e le foreste, di concerto con il M
 
 ## Articolo unico.
 
-Le agevolazioni tributarie stabilite dalla [legge 30 novembre 1939, n. 1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-30;1976), si applicano anche ai contratti ed agli atti intervenuti per l'affrancazione delle colonie perpetue nei comuni di Lanuvio e Genzano di Roma dopo la scadenza dei termini fissati dalla [legge 15 aprile 1942, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-04-15;516), o che saranno posti in essere fino ad un anno dopo l'entrata in vigore del presente decreto.
+Le agevolazioni tributarie stabilite dalla [legge 30 novembre 1939, n. 1976](Agevolazioni%20fiscali%20per%20laffrancazione%20di%20colonie%20perpetue%20nei%20comuni%20di%20Lanuvio%20e%20di%20Genzano%20di%20Roma.%20039U1976.md), si applicano anche ai contratti ed agli atti intervenuti per l'affrancazione delle colonie perpetue nei comuni di Lanuvio e Genzano di Roma dopo la scadenza dei termini fissati dalla [legge 15 aprile 1942, n. 516](Proroga%20delle%20agevolazioni%20tributarie%20accordate%20con%20la%20legge%2030%20novembre%201939-XVIII%20n.%201976%20per%20laffrancazione%20di%20colonie%20perpetue%20nei%20comuni%20di%20Lanuvio%20e%20di%20Genzano%20di%20Roma.%20042U0516.md), o che saranno posti in essere fino ad un anno dopo l'entrata in vigore del presente decreto.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

@@ -72,7 +72,7 @@ Per gli effetti di cui all'art. 2, lettera c), il ministro per l'industria, il c
 
 ## Art. 10.
 
-Restano di competenza dei collegi di probiviri, istituiti a norma della [legge 15 giugno 1893, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-15;295), dove questi regolarmente funzionino, tutte le controversie di carattere individuale previste da quella legge. Resta pure salva e immutata la competenza delle magistrature speciali create per taluni rami di industria da leggi, regolamenti o decreti e quella delle Commissioni di conciliazione, arbitrato e simili previste da concordati di tariffa o da contratti collettivi di lavoro.
+Restano di competenza dei collegi di probiviri, istituiti a norma della [legge 15 giugno 1893, n. 295](Sulla%20istituzione%20dei%20Collegi%20di%20probi-viri.%20093U0295.md), dove questi regolarmente funzionino, tutte le controversie di carattere individuale previste da quella legge. Resta pure salva e immutata la competenza delle magistrature speciali create per taluni rami di industria da leggi, regolamenti o decreti e quella delle Commissioni di conciliazione, arbitrato e simili previste da concordati di tariffa o da contratti collettivi di lavoro.
 
 ## Art. 11.
 

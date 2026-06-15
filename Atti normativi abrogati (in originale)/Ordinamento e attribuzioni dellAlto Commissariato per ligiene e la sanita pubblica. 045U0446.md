@@ -92,7 +92,7 @@ I ruoli organici del personale dell'Amministrazione della sanita' pubblica e del
 
 Presso l'Alto Commissariato puo' essere comandato personale delle Amministrazioni dello Stato e degli enti locali, ed il relativo onere finanziario, per il periodo del comando, sara' a carico dell'Alto Commissariato. 
  
- L'Alto Commissariato puo', inoltre, assumere personale avventizio ai sensi del [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), e successive modificazioni. 
+ L'Alto Commissariato puo', inoltre, assumere personale avventizio ai sensi del [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), e successive modificazioni. 
  
  I limiti numerici del personale che puo' essere comandato o assunto ai sensi dei comma precedenti saranno stabiliti distintamente per categorie, dal Presidente del Consiglio dei Ministri, di concerto con il Ministro per il tesoro.
 

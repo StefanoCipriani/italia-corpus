@@ -22,7 +22,7 @@ VITTORIO EMANUELE II
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 settembre 1926, n. 1909](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-30;1909), recante provvedimenti relativi alle opere di ampliamento e completamento del nuovo porto di Venezia a Marghera. 
+ E' convertito in legge il [R. decreto-legge 30 settembre 1926, n. 1909](Provvedimenti%20relativi%20alle%20opere%20di%20ampliamento%20e%20completamento%20del%20nuovo%20porto%20di%20Venezia%20a%20Marghera.%20026U1909.md), recante provvedimenti relativi alle opere di ampliamento e completamento del nuovo porto di Venezia a Marghera. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

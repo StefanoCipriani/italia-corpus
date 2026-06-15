@@ -20,9 +20,9 @@ Visto il [decreto legislativo Luogotenenziale 1° novembre 1944, n. 367](Provvid
 
 Visto il [decreto legislativo Luogotenenziale 15 novembre 1944, n. 397](Concessione%20di%20anticipazioni%20alle%20imprese%20elettriche.%20044U0397.md), sulla concessione di anticipazioni alle imprese elettriche;
 
-Visto il [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;416), recante provvedimenti regionali per la Sicilia;
+Visto il [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md), recante provvedimenti regionali per la Sicilia;
 
-Visto il [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;417), recante provvedimenti regionali per la Sardegna;
+Visto il [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md), recante provvedimenti regionali per la Sardegna;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -43,7 +43,7 @@ Per la zona compresa nella provincia di Napoli e' riservata la quota di un milia
 
 ## Art. 3.
 
-Restano ferme nell'importo di 500 milioni ciascuna le quote, riservate, sulla somma di due miliardi autorizzata col [decreto legislativo 1° novembre 1944, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-11-01;367), alle imprese industriali della Sicilia e della Sardegna, ai sensi dell'[art. 27 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;416#art_27), e dell'[art. 30 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;417#art_30). 
+Restano ferme nell'importo di 500 milioni ciascuna le quote, riservate, sulla somma di due miliardi autorizzata col [decreto legislativo 1° novembre 1944, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-11-01;367), alle imprese industriali della Sicilia e della Sardegna, ai sensi dell'[art. 27 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md), e dell'[art. 30 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md). 
  
  Nulla e' innovato alle disposizioni del [decreto legislativo Luogotenenziale 15 novembre 1944, n. 397](Concessione%20di%20anticipazioni%20alle%20imprese%20elettriche.%20044U0397.md), concernente la concessione di anticipazioni ad imprese elettriche.
 

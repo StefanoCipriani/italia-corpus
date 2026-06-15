@@ -20,13 +20,13 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908 n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;693);
+Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908 n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
 
-Visto il relativo regolamento generale, approvato con [R. decreto 24 novembre 1908, n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-24;756), ed i regolamenti speciali di tutte le amministrazioni dello Stato;
+Visto il relativo regolamento generale, approvato con [R. decreto 24 novembre 1908, n. 756](Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md), ed i regolamenti speciali di tutte le amministrazioni dello Stato;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
-Vista la [legge 30 giugno 1907, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-30;384), portante il riordinamento della carriera d'ordine delle amministrazioni centrali;
+Vista la [legge 30 giugno 1907, n. 384](Riordinamento%20della%20carriera%20dordine%20nelle%20Amministrazioni%20centrali.%20007U0384.md), portante il riordinamento della carriera d'ordine delle amministrazioni centrali;
 
 Visto il [decreto Luogotenenziale 3 dicembre 1916, n. 1659](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-03;1659), contenente norme per le promozioni, durante la guerra, ai gradi di primo segretario e di primo ragioniere ed ai gradi corrispondenti;
 
@@ -66,9 +66,9 @@ Per tutto quanto non viene regolato col presente decreto, saranno osservate le n
 
 ## Art. 8.
 
-Per i funzionari che all' atto della costituzione del ruolo di ragioneria dell'Amministrazione centrale della marina, creato con [legge 27 giugno 1909, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-27;374), vi furono trasferiti in base agli articoli 3 e 5 della legge stessa, le promozioni da effettuarsi colle norme del [decreto Luogotenenziale del 3 dicembre 1916, n. 1659](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-03;1659), saranno conferite seguendo l'ordine di ruolo e prescindendo dagli anni di servizio stabiliti dalla legge sullo stato degli impiegati civili. 
+Per i funzionari che all' atto della costituzione del ruolo di ragioneria dell'Amministrazione centrale della marina, creato con [legge 27 giugno 1909, n. 374](Riforma%20per%20lordinamento%20amministrativo%20e%20contabile%20della%20R.%20marina.%20009U0374.md), vi furono trasferiti in base agli articoli 3 e 5 della legge stessa, le promozioni da effettuarsi colle norme del [decreto Luogotenenziale del 3 dicembre 1916, n. 1659](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-03;1659), saranno conferite seguendo l'ordine di ruolo e prescindendo dagli anni di servizio stabiliti dalla legge sullo stato degli impiegati civili. 
  
- Per i funzionari dell'Amministrazione centrale e provinciale dell'istruzione pubblica, le promozioni ai gradi di primo segretario, di primo ragioniere e al grado di primo ispettore scolastico, da effettuarsi con le norme del citato [decreto Luogotenenziale 3 dicembre 1916, n. 1659](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-03;1659), potranno essere conferite ai funzionari stessi che abbiano l'anzianita' di servizio di cui all'ultima comma dell'[articolo 63 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_63). 
+ Per i funzionari dell'Amministrazione centrale e provinciale dell'istruzione pubblica, le promozioni ai gradi di primo segretario, di primo ragioniere e al grado di primo ispettore scolastico, da effettuarsi con le norme del citato [decreto Luogotenenziale 3 dicembre 1916, n. 1659](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-03;1659), potranno essere conferite ai funzionari stessi che abbiano l'anzianita' di servizio di cui all'ultima comma dell'[articolo 63 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md). 
  
  Tanto per i funzionari del Ministero della marina e del Ministero dell'istruzione contemplati dal presente articolo, quanto per quelli del Ministero delle colonie, considerati dall'[art. 5 del decreto Luogotenenziale 3 dicembre 1916, n. 1659](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-03;1659#art_5), la decorrenza del godimento dei maggiori stipendi in conseguenza delle promozioni ai gradi di primo segretario, primo ragioniere e gradi corrispondenti, non potra' in nessun caso essere retroattiva ed inoltre il godimento di tali maggiori stipendi sara' soggetto al ritardo di sei mesi prescritto dall'art. 1° [lettera c) del decreto-legge 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-11-18;1625#art_letc).
 

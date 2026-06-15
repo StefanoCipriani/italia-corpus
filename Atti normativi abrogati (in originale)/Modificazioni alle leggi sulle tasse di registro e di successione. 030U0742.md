@@ -132,7 +132,7 @@ TITOLO III.
 
 ### Art. 12.
 
-E' abrogato a tutti gli effetti l'articolo unico del [R. decreto-legge 10 aprile 1927, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-10;502). 
+E' abrogato a tutti gli effetti l'articolo unico del [R. decreto-legge 10 aprile 1927, n. 502](Abolizione%20della%20sopratassa%20di%20insufficiente%20dichiarazione%20di%20valore%20nei%20contratti%20e%20nelle%20denunzie%20agli%20effetti%20delle%20tasse%20di%20trasferimento.%20027U0502.md). 
  
  Le penalita' camminate dal capoverso dell'art. 40 della legge di registro 30 dicembre 1923, n. 3269, e dal capoverso dell'art. 43 della legge tributaria sulle successioni 30 dicembre 1923, n. 3270, vengono ripristinate. 
  
@@ -146,7 +146,7 @@ TITOLO IV.
 
 ### Art. 13.
 
-La concessione di che all'[art. 14 del R. decreto-legge 12 agosto 1927, n. 1463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1463#art_14), convertito nella [legge 17 maggio 1928, n. 1122](Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20agosto%201927%20n.%201463%20col%20quale%20si%20dispongono%20sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20028U1122.md), dei pagamenti della tassa principale di registro nei trasferimenti immobiliari a titolo oneroso, per meta' alla registrazione dell'atto in termine, e per l'altra meta' entro sei mesi da tale registrazione, e' limitata per gli atti che verranno presentati alla formalita' della registrazione a datare dalla entrata in vigore delle disposizioni del presente articolo, alle tasse che superano l'importo di L. 500.
+La concessione di che all'[art. 14 del R. decreto-legge 12 agosto 1927, n. 1463](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md), convertito nella [legge 17 maggio 1928, n. 1122](Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20agosto%201927%20n.%201463%20col%20quale%20si%20dispongono%20sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20028U1122.md), dei pagamenti della tassa principale di registro nei trasferimenti immobiliari a titolo oneroso, per meta' alla registrazione dell'atto in termine, e per l'altra meta' entro sei mesi da tale registrazione, e' limitata per gli atti che verranno presentati alla formalita' della registrazione a datare dalla entrata in vigore delle disposizioni del presente articolo, alle tasse che superano l'importo di L. 500.
 
 ## Disposizioni generali.
 

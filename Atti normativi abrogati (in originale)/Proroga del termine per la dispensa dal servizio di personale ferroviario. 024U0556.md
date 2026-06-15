@@ -14,17 +14,17 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 gennaio 1923, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;143);
+Visto il [R. decreto 28 gennaio 1923, n. 143](Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md);
 
-Visto il [R. decreto 28 gennaio 1923, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;153);
+Visto il [R. decreto 28 gennaio 1923, n. 153](Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md);
 
-Visto il [R. decreto 1° febbraio 1923, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-01;200);
+Visto il [R. decreto 1° febbraio 1923, n. 200](Recante%20disposizioni%20complementari%20sulle%20attribuzioni%20del%20commissario%20straordinario%20per%20le%20ferrovie%20dello%20Stato.%20023U0200.md);
 
-Visto il [R. decreto 10 agosto 1923, n. 1824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-10;1824);
+Visto il [R. decreto 10 agosto 1923, n. 1824](Proroga%20fino%20al%2031%20dicembre%201923%20delle%20disposizioni%20del%20Regio%20decreto%2028%20gennaio%201923%20n.%20153%20che%20autorizza%20la%20revisione%20delle%20assunzioni%20delle%20sistemazioni%20e%20dei%20passaggi%20del%20personale%20di_078a58bb07fa.md);
 
-Visto il [R. decreto 7 dicembre 1923, n. 2590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-07;2590);
+Visto il [R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md);
 
-Visto il [R. decreto 31 dicembre 1923, n. 3135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3135);
+Visto il [R. decreto 31 dicembre 1923, n. 3135](Trattamento%20di%20esonero%20ad%20agenti%20delle%20Ferrovie%20dello%20Stato.%20023U3135.md);
 
 Visto il [R. decreto-legge 27 gennaio 1924, n. 172](Proroga%20delle%20disposizioni%20contenute%20nel%20R.%20decreto%2028%20gennaio%201923%20n.%20143%20circa%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20024U0172.md);
 
@@ -38,7 +38,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici di 
 
 ## Articolo unico.
 
-Il termine del 30 aprile 1924 fissato nei [Regi decreti-legge 27 gennaio 1924, n. 172](Proroga%20delle%20disposizioni%20contenute%20nel%20R.%20decreto%2028%20gennaio%201923%20n.%20143%20circa%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20024U0172.md) e [n. 173](Proroga%20dei%20provvedimenti%20contemplati%20nei%20Regi%20decreti%2028%20gennaio%201923%20n.%20153%20e%2010%20agosto%201923%20n.%201824%20circa%20la%20dispensa%20dal%20servizio%20del%20personale%20ferroviario.%20024U0173.md) come decorrenza della proroga delle disposizioni sulla dispensa del personale delle Ferrovie dello Stato, di cui i [Regi decreti 28 gennaio 1923, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;143); [28 gennaio 1923, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;153); [10 agosto 1923, n. 1824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-10;1824), e sul conseguente trattamento di pensione e di indennita', viene portato al 30 giugno 1924, sotto l'osservanza di tutte le disposizioni recate dai citati [Regi decreti-legge 27 gennaio 1924, nn. 172](Proroga%20delle%20disposizioni%20contenute%20nel%20R.%20decreto%2028%20gennaio%201923%20n.%20143%20circa%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20024U0172.md) e [173](Proroga%20dei%20provvedimenti%20contemplati%20nei%20Regi%20decreti%2028%20gennaio%201923%20n.%20153%20e%2010%20agosto%201923%20n.%201824%20circa%20la%20dispensa%20dal%20servizio%20del%20personale%20ferroviario.%20024U0173.md). 
+Il termine del 30 aprile 1924 fissato nei [Regi decreti-legge 27 gennaio 1924, n. 172](Proroga%20delle%20disposizioni%20contenute%20nel%20R.%20decreto%2028%20gennaio%201923%20n.%20143%20circa%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20024U0172.md) e [n. 173](Proroga%20dei%20provvedimenti%20contemplati%20nei%20Regi%20decreti%2028%20gennaio%201923%20n.%20153%20e%2010%20agosto%201923%20n.%201824%20circa%20la%20dispensa%20dal%20servizio%20del%20personale%20ferroviario.%20024U0173.md) come decorrenza della proroga delle disposizioni sulla dispensa del personale delle Ferrovie dello Stato, di cui i [Regi decreti 28 gennaio 1923, n. 143](Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md); [28 gennaio 1923, n. 153](Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md); [10 agosto 1923, n. 1824](Proroga%20fino%20al%2031%20dicembre%201923%20delle%20disposizioni%20del%20Regio%20decreto%2028%20gennaio%201923%20n.%20153%20che%20autorizza%20la%20revisione%20delle%20assunzioni%20delle%20sistemazioni%20e%20dei%20passaggi%20del%20personale%20di_078a58bb07fa.md), e sul conseguente trattamento di pensione e di indennita', viene portato al 30 giugno 1924, sotto l'osservanza di tutte le disposizioni recate dai citati [Regi decreti-legge 27 gennaio 1924, nn. 172](Proroga%20delle%20disposizioni%20contenute%20nel%20R.%20decreto%2028%20gennaio%201923%20n.%20143%20circa%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20024U0172.md) e [173](Proroga%20dei%20provvedimenti%20contemplati%20nei%20Regi%20decreti%2028%20gennaio%201923%20n.%20153%20e%2010%20agosto%201923%20n.%201824%20circa%20la%20dispensa%20dal%20servizio%20del%20personale%20ferroviario.%20024U0173.md). 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

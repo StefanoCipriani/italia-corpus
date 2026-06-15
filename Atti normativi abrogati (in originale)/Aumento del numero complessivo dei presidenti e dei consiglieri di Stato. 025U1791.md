@@ -28,7 +28,7 @@ E' elevato a 10 il numero complessivo dei presidenti e dei consiglieri di Stato,
  
  In relazione al disposto del precedente comma e' aumentato di 7 il numero dei consiglieri di Stato pei quali puo' provvedersi nelle forme dell'[art. 6 della legge 30 giugno 1908, n. 304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;304#art_6), restando abrogata la disposizione concernente il riassorbimento con le successive vacanze, di cui al [secondo comma dell'art. 4 del R. decreto 23 ottobre 1924, n. 1672](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;1672#art_4-com2). 
  
- Il posto di presidente di Sezione, transitoriamente istituito in soprannumero col citato [art. 4 del R. decreto 23 ottobre 1924, n. 1672](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;1672#art_4), e' aggiunto in via definitiva alla tabella n. 41 dell'allegato II al [R. decreto 11 novembre 1923, numero 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), relativa al personale della magistratura del Consiglio di Stato.
+ Il posto di presidente di Sezione, transitoriamente istituito in soprannumero col citato [art. 4 del R. decreto 23 ottobre 1924, n. 1672](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;1672#art_4), e' aggiunto in via definitiva alla tabella n. 41 dell'allegato II al [R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), relativa al personale della magistratura del Consiglio di Stato.
 
 ## Art. 2.
 

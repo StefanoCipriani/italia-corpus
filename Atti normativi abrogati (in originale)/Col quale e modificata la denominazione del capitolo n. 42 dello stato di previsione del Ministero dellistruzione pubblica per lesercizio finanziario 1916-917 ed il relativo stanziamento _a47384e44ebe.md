@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La denominazione del capitolo n. 42 dello stato di previsione del Ministero della pubblica istruzione per l'esercizio finanziario 1916-917 e' modificata come segue: «Concorsi e rimborsi dello Stato nella spesa che l'Amministrazione scolastica ed i Comuni sostengono per gli stipendi dei maestri elementari, ivi comprese le retribuzioni ai maestri chiamati a sostituire quelli richiamati o trattenuti alle armi ([leggi 11 aprile 1886, n. 3798; 8 luglio 1904, n. 407; 15 luglio 1906, n. 383; 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487) e [R. decreto 13 maggio 1915, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-13;620))» ed il relativo stanziamento e' aumentato della somma di lire duecentomila (L. 200,000).
+La denominazione del capitolo n. 42 dello stato di previsione del Ministero della pubblica istruzione per l'esercizio finanziario 1916-917 e' modificata come segue: «Concorsi e rimborsi dello Stato nella spesa che l'Amministrazione scolastica ed i Comuni sostengono per gli stipendi dei maestri elementari, ivi comprese le retribuzioni ai maestri chiamati a sostituire quelli richiamati o trattenuti alle armi ([leggi 11 aprile 1886, n. 3798; 8 luglio 1904, n. 407; 15 luglio 1906, n. 383; 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md) e [R. decreto 13 maggio 1915, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-13;620))» ed il relativo stanziamento e' aumentato della somma di lire duecentomila (L. 200,000).
 
 ## Art. 2.
 

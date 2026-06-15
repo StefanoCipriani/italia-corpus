@@ -22,7 +22,7 @@ PROMULGA la seguente legge:
 
 L'Amministrazione finanziaria puo' dare in concessione o locazione, per la durata di non oltre diciannove anni, beni immobili demaniali o patrimoniali dello Stato, non suscettibili anche temporaneamente di utilizzazione per usi governativi:
                         a)
-                            a istituzioni culturali indicate nella tabella emanata con il [decreto del Presidente della Repubblica 6 novembre 1984, n. 834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-11-06;834);
+                            a istituzioni culturali indicate nella tabella emanata con il [decreto del Presidente della Repubblica 6 novembre 1984, n. 834](../DPR/Tabella%20delle%20istituzioni%20culturali%20ammesse%20al%20contributo%20ordinario%20annuale%20dello%20Stato%20per%20il%20triennio%201984-86.md);
                         b)
                             a enti pubblici, indicati con decreto del Ministro delle finanze, da emanarsi sentito il Ministro per i beni culturali e ambientali, che fruiscono di contributi ordinari previsti dalle vigenti disposizioni e che perseguono esclusivamente fini di rilevante interesse culturale;
                         c)

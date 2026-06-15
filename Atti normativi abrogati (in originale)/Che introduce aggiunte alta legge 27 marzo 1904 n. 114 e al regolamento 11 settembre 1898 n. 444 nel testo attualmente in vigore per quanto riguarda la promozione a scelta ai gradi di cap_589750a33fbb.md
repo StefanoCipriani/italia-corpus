@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'[art. 9 della legge 27 marzo 1904, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-27;114#art_9), e' fatta in fine, la seguente aggiunta: 
+All'[art. 9 della legge 27 marzo 1904, n. 114](Che%20apporta%20modificazioni%20alla%20legge%206%20marzo%201898%20n.%2059%20relativa%20allavanzamento%20nei%20corpi%20militari%20della%20R.%20marina.%20004U0114.md), e' fatta in fine, la seguente aggiunta: 
  
  «Nel caso previsto dal precedente capoverso, l'ufficiale dichiarato promovibile a scelta potra' essere assegnato a qualsivoglia dei posti riservati alla scelta indipendentemente dall'ordine progressivo dei posti»
 

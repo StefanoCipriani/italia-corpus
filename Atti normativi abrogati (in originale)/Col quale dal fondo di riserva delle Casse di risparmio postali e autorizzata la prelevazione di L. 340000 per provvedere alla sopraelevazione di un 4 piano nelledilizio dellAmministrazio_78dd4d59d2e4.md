@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 9 luglio 1905, n. 386, e 2 febbraio 1911, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-02-02;76), con le quali venne autorizzata la costruzione della sede centrale dell'Amministrazione delle Casse postali di risparmio;
+Viste le [leggi 9 luglio 1905, n. 386, e 2 febbraio 1911, n. 76](Maggiore%20assegnazione%20di%20L.%202400000%20per%20la%20costruzione%20delledificio%20per%20le%20Casse%20postali%20di%20risparmio%20in%20Roma.%20011U0076.md), con le quali venne autorizzata la costruzione della sede centrale dell'Amministrazione delle Casse postali di risparmio;
 
 Riconosciuta la opportunita' di unificare nella sede medesima il servizio dei vaglia postali con quello predetto, attesa la comune loro dipendenza da una stessa Direzione generale del Ministero delle poste e dei telegrafi;
 
@@ -35,7 +35,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 ## Art. 1.
 
 E' approvato il prelevamento di lire trecentoquarantamila (L.
-340.000) dal fondo di riserva delle Casse di risparmio postali in aggiunta a quelli autorizzati con le [leggi 9 luglio 1905, n. 386 e 2 febbraio 1911, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-02-02;76), per provvedere alla sopraelevazione di un quarto piano nell'edilizio gia' costruito come sede dell' Amministrazione centrale delle Casse di risparmio medesime.
+340.000) dal fondo di riserva delle Casse di risparmio postali in aggiunta a quelli autorizzati con le [leggi 9 luglio 1905, n. 386 e 2 febbraio 1911, n. 76](Maggiore%20assegnazione%20di%20L.%202400000%20per%20la%20costruzione%20delledificio%20per%20le%20Casse%20postali%20di%20risparmio%20in%20Roma.%20011U0076.md), per provvedere alla sopraelevazione di un quarto piano nell'edilizio gia' costruito come sede dell' Amministrazione centrale delle Casse di risparmio medesime.
 
 ## Art. 2.
 
@@ -49,7 +49,7 @@ Il valore d'inventario del palazzo, sede dell'Amministrazione centrale delle Cas
 
 ## Art. 4.
 
-Il secondo comma dell'art. 1 della citata [legge 2 febbraio 1911, n. 76, e gli articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-02-02;76#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-02-02;76#art_4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-02-02;76#art_5) e [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-02-02;76#art_6) della legge medesima sono confermati. 
+Il secondo comma dell'art. 1 della citata [legge 2 febbraio 1911, n. 76, e gli articoli 3](Maggiore%20assegnazione%20di%20L.%202400000%20per%20la%20costruzione%20delledificio%20per%20le%20Casse%20postali%20di%20risparmio%20in%20Roma.%20011U0076.md), [4](Maggiore%20assegnazione%20di%20L.%202400000%20per%20la%20costruzione%20delledificio%20per%20le%20Casse%20postali%20di%20risparmio%20in%20Roma.%20011U0076.md), [5](Maggiore%20assegnazione%20di%20L.%202400000%20per%20la%20costruzione%20delledificio%20per%20le%20Casse%20postali%20di%20risparmio%20in%20Roma.%20011U0076.md) e [6](Maggiore%20assegnazione%20di%20L.%202400000%20per%20la%20costruzione%20delledificio%20per%20le%20Casse%20postali%20di%20risparmio%20in%20Roma.%20011U0076.md) della legge medesima sono confermati. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

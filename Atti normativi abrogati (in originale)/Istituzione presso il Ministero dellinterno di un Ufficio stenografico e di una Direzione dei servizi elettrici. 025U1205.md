@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive estensioni e modificazioni;
+Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive estensioni e modificazioni;
 
 Sentito il Consiglio dei Ministri;
 
@@ -48,7 +48,7 @@ Per la prima attuazione del presente decreto i posti dei ruoli del personale Ste
 
 ## Art. 4.
 
-Per la retribuzione delle prestazioni straordinarie rese dalle 22 della sera alle 6 della mattina, dal personale addetto all'Ufficio stenografico e da quello di cui all'art. 2, si applicano i compensi nelle misure stabilite dal [R. decreto 17 febbraio 1924, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-17;182), aumentate della meta'. Le ore di lavoro straordinario possono superare le settantacinque mensili, ma non le cento.
+Per la retribuzione delle prestazioni straordinarie rese dalle 22 della sera alle 6 della mattina, dal personale addetto all'Ufficio stenografico e da quello di cui all'art. 2, si applicano i compensi nelle misure stabilite dal [R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), aumentate della meta'. Le ore di lavoro straordinario possono superare le settantacinque mensili, ma non le cento.
 
 ## Art. 5.
 

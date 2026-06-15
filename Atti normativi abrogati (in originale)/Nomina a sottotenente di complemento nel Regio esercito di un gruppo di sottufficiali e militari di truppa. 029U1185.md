@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 18 del R. decreto-legge 20 gennaio 1927, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-20;119#art_18), e' applicabile anche alle seguenti categorie di militari di truppa e sottufficiali i quali pero' non possono essere nominati che sottotenenti di complemento nell'arma di fanteria: 
+L'[art. 18 del R. decreto-legge 20 gennaio 1927, n. 119](Norme%20relative%20allo%20stato%20e%20avanzamento%20degli%20ufficiali%20del%20Regio%20esercito%20assegnati%20ai%20Depositi%20cavalli%20stalloni%20e%20Depositi%20allevamento%20quadrupedi%20e%20modificazioni%20di%20alcune%20particolari%20d_80cf4d0ae00a.md), e' applicabile anche alle seguenti categorie di militari di truppa e sottufficiali i quali pero' non possono essere nominati che sottotenenti di complemento nell'arma di fanteria: 
  
  a) sottufficiali dei carabinieri Reali che non abbiano i requisiti speciali per essere nominati sottotenenti di complemento nell'arma di provenienza; 
  
@@ -26,7 +26,7 @@ L'[art. 18 del R. decreto-legge 20 gennaio 1927, n. 119](https://www.normattiva.
 
 ## Art. 2.
 
-Le disposizioni relative alla nomina a sottotenente di complemento di cui al [R. decreto-legge 26 luglio 1927, n. 1743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-26;1743), sono applicabili anche alle seguenti categorie di militari di truppa e sottufficiali, i quali pero' non possono essere nominati che sottotenenti di complemento nell'arma di fanteria: 
+Le disposizioni relative alla nomina a sottotenente di complemento di cui al [R. decreto-legge 26 luglio 1927, n. 1743](Modificazioni%20ed%20aggiunte%20alle%20leggi%20concernenti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20del%20Regio%20esercito%20e%20lo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della_41d4b83b74a4.md), sono applicabili anche alle seguenti categorie di militari di truppa e sottufficiali, i quali pero' non possono essere nominati che sottotenenti di complemento nell'arma di fanteria: 
  
  a) sottufficiali dei carabinieri Reali che non abbiano i requisiti speciali per essere nominati sottotenenti di complemento nell'arma di provenienza; 
  
@@ -42,7 +42,7 @@ Le disposizioni relative alla nomina a sottotenente di complemento di cui al [R.
 
 ## Art. 3.
 
-Il limite massimo di eta' e' portato a 40 anni per i militari di cui al [n. 2 dell'art. 2 del R. decreto-legge n. 1743 del 26 luglio 1927](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-26;1743#art_2-num2).
+Il limite massimo di eta' e' portato a 40 anni per i militari di cui al [n. 2 dell'art. 2 del R. decreto-legge n. 1743 del 26 luglio 1927](Modificazioni%20ed%20aggiunte%20alle%20leggi%20concernenti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20del%20Regio%20esercito%20e%20lo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della_41d4b83b74a4.md).
 
 ## Art. 4.
 

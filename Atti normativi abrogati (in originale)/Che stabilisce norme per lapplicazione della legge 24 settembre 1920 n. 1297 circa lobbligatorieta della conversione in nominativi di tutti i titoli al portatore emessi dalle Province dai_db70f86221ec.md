@@ -60,7 +60,7 @@ Nella emissione di titoli nominativi da parte di Societa' per azioni, sia in occ
 
 ### Art. 6. — null
 
-L'inosservanza di tale disposizione e' punita da una multa variabile da L. 1000 a L. 5000, salvo il risarcimento dei danni o le sanzioni previste dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+L'inosservanza di tale disposizione e' punita da una multa variabile da L. 1000 a L. 5000, salvo il risarcimento dei danni o le sanzioni previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 7.
 

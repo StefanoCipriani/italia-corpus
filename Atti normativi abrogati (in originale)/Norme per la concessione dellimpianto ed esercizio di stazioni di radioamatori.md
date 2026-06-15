@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 7 della legge 14 marzo 1952, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-03-14;196#art_7);
+Visto l'[art. 7 della legge 14 marzo 1952, n. 196](Modificazioni%20degli%20articoli%20178%20269%20e%20270%20del%20Codice%20postale%20e%20delle%20telecomunicazioni%20approvato%20con%20regio%20decreto%2027%20febbraio%201936%20n.%20645.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro Segretario di Stato per le poste e le telecomunicazi
 
 ## Art. 1.
 
-Puo' essere concesso l'impianto e l'esercizio di stazioni di radioamatori in conformita' delle norme contenute nel regolamento generale delle radiocomunicazioni in vigore, approvato e reso esecutivo in Italia con [decreto del Presidente della Repubblica 27 dicembre 1948, n. 1694](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-12-27;1694).
+Puo' essere concesso l'impianto e l'esercizio di stazioni di radioamatori in conformita' delle norme contenute nel regolamento generale delle radiocomunicazioni in vigore, approvato e reso esecutivo in Italia con [decreto del Presidente della Repubblica 27 dicembre 1948, n. 1694](../DPR/Approvazione%20degli%20Atti%20delle%20Conferenze%20internazionali%20delle%20telecomunicazioni%20e%20delle%20radiocomunicazioni%20stipulati%20ad%20Atlantic%20City%20il%202%20ottobre%201947.md).
 
 ## Art. 2.
 

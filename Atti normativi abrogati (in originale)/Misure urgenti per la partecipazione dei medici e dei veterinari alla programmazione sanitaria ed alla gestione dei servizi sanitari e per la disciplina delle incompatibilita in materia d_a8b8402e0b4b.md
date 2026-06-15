@@ -32,19 +32,19 @@ E' istituito, in ciascuna regione, l'albo speciale dei medici e dei veterinari a
 
 2.
 
-L'albo speciale comprende, altresi', i medici dipendenti dagli istituti di ricovero e cura a carattere scientifico di cui all'[articolo 42 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_42), dall'ospedale "Galliera" di Genova, dagli ospedali dell'Ordine mauriziano di Torino, dagli ospedali che abbiano ottenuto l'equiparazione prevista dall'[articolo 129 del decreto del Presidente della Repubblica 27 marzo 1969, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-03-27;130#art_129), i veterinari dipendenti dagli istituti zooprofilattici sperimentali, nonche' i medici dipendenti dagli enti previdenziali ed i medici ed i veterinari dipendenti dal Ministero della sanita', dalle regioni e dalle province autonome di Trento e di Bolzano.
+L'albo speciale comprende, altresi', i medici dipendenti dagli istituti di ricovero e cura a carattere scientifico di cui all'[articolo 42 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_42), dall'ospedale "Galliera" di Genova, dagli ospedali dell'Ordine mauriziano di Torino, dagli ospedali che abbiano ottenuto l'equiparazione prevista dall'[articolo 129 del decreto del Presidente della Repubblica 27 marzo 1969, n. 130](../DPR/Stato%20giuridico%20dei%20dipendenti%20degli%20enti%20ospedalieri.md), i veterinari dipendenti dagli istituti zooprofilattici sperimentali, nonche' i medici dipendenti dagli enti previdenziali ed i medici ed i veterinari dipendenti dal Ministero della sanita', dalle regioni e dalle province autonome di Trento e di Bolzano.
 
 3.
 
-Per i laureati in medicina e chirurgia ed in medicina veterinaria, con rapporto di lavoro dipendente dal Servizio sanitario nazionale, e' istituito, nell'ambito dei ruoli nominativi regionali di cui all'[articolo 1 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761#art_1), il ruolo medico. E' conseguentemente modificato l'allegato 1 al [decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761), con la collocazione dei profili professionali "medici" e "veterinari" e delle relative posizioni funzionali, comprese nelle tabelle A e C del ruolo sanitario e in due tabelle A e B del ruolo medico.
+Per i laureati in medicina e chirurgia ed in medicina veterinaria, con rapporto di lavoro dipendente dal Servizio sanitario nazionale, e' istituito, nell'ambito dei ruoli nominativi regionali di cui all'[articolo 1 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), il ruolo medico. E' conseguentemente modificato l'allegato 1 al [decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), con la collocazione dei profili professionali "medici" e "veterinari" e delle relative posizioni funzionali, comprese nelle tabelle A e C del ruolo sanitario e in due tabelle A e B del ruolo medico.
 
 4.
 
-Sono altresi' modificate di conseguenza le piante organiche dei presidi, servizi e uffici delle unita' sanitarie locali di cui all'[articolo 6 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761#art_6), ed i ruoli nominativi di cui all'articolo 7 del medesimo decreto.
+Sono altresi' modificate di conseguenza le piante organiche dei presidi, servizi e uffici delle unita' sanitarie locali di cui all'[articolo 6 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), ed i ruoli nominativi di cui all'articolo 7 del medesimo decreto.
 
 5.
 
-I provvedimenti di inquadramento ed ogni altro provvedimento amministrativo riferiti alle qualifiche professionali "medici" e "veterinari" e alle relative posizioni funzionali, di cui all'allegato I del [decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761), devono intendersi con riferimento al ruolo medico di cui al comma 3.
+I provvedimenti di inquadramento ed ogni altro provvedimento amministrativo riferiti alle qualifiche professionali "medici" e "veterinari" e alle relative posizioni funzionali, di cui all'allegato I del [decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), devono intendersi con riferimento al ruolo medico di cui al comma 3.
 
 6.
 
@@ -96,7 +96,7 @@ I componenti medici e veterinari della commissione di cui al presente articolo r
 
 1.
 
-I componenti della commissione per i problemi del personale dell'unita' sanitaria locale, prevista dall'[articolo 60 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761#art_60), sono aumentati a trenta, di cui meta' nominati dalla unita' sanitaria locale e meta' eletti dal personale, sulla base di liste concorrenti, col sistema proporzionale.
+I componenti della commissione per i problemi del personale dell'unita' sanitaria locale, prevista dall'[articolo 60 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), sono aumentati a trenta, di cui meta' nominati dalla unita' sanitaria locale e meta' eletti dal personale, sulla base di liste concorrenti, col sistema proporzionale.
 
 2.
 
@@ -104,8 +104,8 @@ Di questi ultimi, sette sono eletti separatamente da tutto il personale apparten
 
 3.
 
-L'ultimo comma dell'[articolo 60 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761#art_60), e' sostituito dal seguente:
- "L'accordo di comparto di cui al [decreto del Presidente della Repubblica 5 marzo 1986, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-05;68), disciplina le modalita' di funzionamento della commissione nonche' le funzioni di segreteria della stessa".
+L'ultimo comma dell'[articolo 60 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), e' sostituito dal seguente:
+ "L'accordo di comparto di cui al [decreto del Presidente della Repubblica 5 marzo 1986, n. 68](../DPR/Determinazione%20e%20composizione%20dei%20comparti%20di%20contrattazione%20collettiva%20di%20cui%20allart.%205%20della%20legge-quadro%20sul%20pubblico%20impiego%2029%20marzo%201983%20n.%2093.md), disciplina le modalita' di funzionamento della commissione nonche' le funzioni di segreteria della stessa".
 
 ### Art. 5.
 
@@ -151,7 +151,7 @@ I membri eletti durano in carica tre anni e non sono immediatamente rieleggibili
 
 7.
 
-All'[articolo 8 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761#art_8), e' aggiunto il seguente comma:
+All'[articolo 8 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), e' aggiunto il seguente comma:
  "I coordinatori sanitari ed amministrativi partecipano con voto consultivo alle sedute del comitato di gestione".
 
 ### Art. 6.
@@ -173,7 +173,7 @@ La delibera di cui al comma 2 stabilisce, nei limiti consentiti dalle esigenze d
 
 1.
 
-All'[articolo 61 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761#art_61), sono aggiunti i seguenti commi: 
+All'[articolo 61 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), sono aggiunti i seguenti commi: 
  "Quando il dipendente appartiene al ruolo medico, la commissione e' cosi' composta: 
  a) dal presidente dell'unita' sanitaria locale, il cui voto prevale in caso di parita' di voti, e da due componenti del comitato di gestione; 
  b) da tre rappresentanti designati dalle organizzazioni sindacali dei medici chirurghi e dei veterinari maggiormente rappresentative sul piano regionale; 
@@ -213,7 +213,7 @@ In caso di mancata designazione comune, anche a maggioranza, delle organizzazion
 
 3.
 
-La rappresentativita' delle organizzazioni sindacali e' individuata dal Ministero del lavoro e della previdenza sociale, su richiesta del Ministro della sanita', sulla base dei criteri indicati nell'[articolo 3 della legge 5 gennaio 1957, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-01-05;33#art_3), e successive modifiche.
+La rappresentativita' delle organizzazioni sindacali e' individuata dal Ministero del lavoro e della previdenza sociale, su richiesta del Ministro della sanita', sulla base dei criteri indicati nell'[articolo 3 della legge 5 gennaio 1957, n. 33](Ordinamento%20e%20attribuzioni%20del%20Consiglio%20nazionale%20delleconomia%20e%20del%20lavoro.md), e successive modifiche.
 
 ### Art. 11.
 
@@ -233,7 +233,7 @@ Capo II
 
 1.
 
-L'accesso ai rapporti convenzionali di cui all'[articolo 48 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_48), non e' consentito al personale con rapporto di lavoro dipendente, pubblico o privato. Il divieto si applica anche ai titolari di rapporti convenzionali che comportino un impegno settimanale per un numero di ore pari o superiore all'orario vigente, ai sensi dell'[articolo 32, primo comma, del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761#art_32-com1), e degli accordi nazionali ivi richiamati, per il personale dipendente dal Servizio sanitario nazionale.
+L'accesso ai rapporti convenzionali di cui all'[articolo 48 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_48), non e' consentito al personale con rapporto di lavoro dipendente, pubblico o privato. Il divieto si applica anche ai titolari di rapporti convenzionali che comportino un impegno settimanale per un numero di ore pari o superiore all'orario vigente, ai sensi dell'[articolo 32, primo comma, del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), e degli accordi nazionali ivi richiamati, per il personale dipendente dal Servizio sanitario nazionale.
 
 2.
 

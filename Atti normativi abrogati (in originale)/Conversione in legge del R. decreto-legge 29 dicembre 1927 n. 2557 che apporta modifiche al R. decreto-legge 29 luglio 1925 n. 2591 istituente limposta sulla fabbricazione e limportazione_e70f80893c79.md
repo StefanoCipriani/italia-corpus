@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 dicembre 1927, n. 2557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-29;2557), che apporta modifiche al [R. decreto-legge 29 luglio 1925, n. 2591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-29;2591), istituente l'imposta sulla fabbricazione e l'importazione delle cartine e tubetti per sigarette. 
+ E' convertito in legge il [R. decreto-legge 29 dicembre 1927, n. 2557](Modifiche%20al%20R.%20decreto-legge%2029%20luglio%201925%20n.%202591%20istituente%20limposta%20sulla%20fabbricazione%20e%20limportazione%20delle%20cartine%20e%20tubetti%20per%20sigarette.%20027U2557.md), che apporta modifiche al [R. decreto-legge 29 luglio 1925, n. 2591](Imposta%20sulla%20fabbricazione%20e%20limportazione%20di%20cartine%20e%20tubetti%20per%20sigarette.%20025U2591.md), istituente l'imposta sulla fabbricazione e l'importazione delle cartine e tubetti per sigarette. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

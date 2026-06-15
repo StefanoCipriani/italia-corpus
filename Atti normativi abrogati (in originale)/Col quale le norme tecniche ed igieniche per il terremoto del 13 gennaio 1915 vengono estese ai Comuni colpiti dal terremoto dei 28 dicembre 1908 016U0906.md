@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi emanate in conseguenza del terremoto del 28 dicembre 1908, approvato con [R. decreto 12 ottobre 1913, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-12;1261);
+Visto il testo unico delle leggi emanate in conseguenza del terremoto del 28 dicembre 1908, approvato con [R. decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md);
 
 Visto l'[art. 16 del R. decreto 18 aprile 1915, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-18;572#art_16);
 
@@ -66,7 +66,7 @@ Ferme restando le disposizioni degli articoli 183 e 184 del testo unico di [legg
 
 ## Art. 3.
 
-Per le opere gia' compiute, per quelle in corso di esecuzione nel giorno della pubblicazione del presente decreto, e per quelle i cui progetti, alla data anzidetta, siano gia' stati approvati o gia' sottoposti dal Consorzio o dall'Istituto mutuante al riscontro del genio civile, ai sensi e per gli effetti dell'[art. 12 del R. decreto 17 settembre 1910, n. 715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-09-17;715#art_12), resta ferma l'osservanza delle norme contenute negli articoli 185 a 237 del testo unico di legge approvato col [R. decreto 12 ottobre 1913, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-12;1261).
+Per le opere gia' compiute, per quelle in corso di esecuzione nel giorno della pubblicazione del presente decreto, e per quelle i cui progetti, alla data anzidetta, siano gia' stati approvati o gia' sottoposti dal Consorzio o dall'Istituto mutuante al riscontro del genio civile, ai sensi e per gli effetti dell'[art. 12 del R. decreto 17 settembre 1910, n. 715](Che%20approva%20un%20nuovo%20regolamento%20per%20la%20esecuzione%20delle%20leggi%2013%20e%2021%20luglio%201910%20nn.%20466%20e%20579%20a%20favore%20dei%20danneggiati%20dal%20terremoto%20del%2028%20dicembre%201908.%20010U0715.md), resta ferma l'osservanza delle norme contenute negli articoli 185 a 237 del testo unico di legge approvato col [R. decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md).
 
 ## Art. 4.
 

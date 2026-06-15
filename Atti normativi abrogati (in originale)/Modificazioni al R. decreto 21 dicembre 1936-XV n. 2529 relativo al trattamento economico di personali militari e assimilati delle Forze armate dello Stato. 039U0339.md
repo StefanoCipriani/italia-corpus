@@ -14,7 +14,7 @@ N.
 
 339.
 
-R. decreto-legge 16 febbraio 1939-XVII, emanato su proposta del DUCE, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra, per la marina e per l'aeronautica, recante modificazioni al [R. decreto 21 dicembre 1936, n. 2529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-12-21;2529), relativo al trattamento economico di personali militari e assimilati delle Forze armate dello Stato. 
+R. decreto-legge 16 febbraio 1939-XVII, emanato su proposta del DUCE, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra, per la marina e per l'aeronautica, recante modificazioni al [R. decreto 21 dicembre 1936, n. 2529](Trattamento%20economico%20di%20personali%20militari%20e%20assimilati%20delle%20Forze%20armate%20dello%20Stato.%20036U2529.md), relativo al trattamento economico di personali militari e assimilati delle Forze armate dello Stato. 
  
  Visto, il Guardasigilli: Solmi 
  

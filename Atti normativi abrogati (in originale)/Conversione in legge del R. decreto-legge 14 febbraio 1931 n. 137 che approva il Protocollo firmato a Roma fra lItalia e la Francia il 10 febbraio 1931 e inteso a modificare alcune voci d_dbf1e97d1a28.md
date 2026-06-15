@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 febbraio 1931, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-02-14;137), che ha dato esecuzione al Protocollo firmato a Roma fra l'Italia e la Francia il 10 febbraio 1931 e inteso a modificare alcune voci dei precedenti Accordi commerciali italo-francesi del 13 novembre 1922 e del 7 marzo 1928. 
+ E' convertito in legge il [R. decreto-legge 14 febbraio 1931, n. 137](Approvazione%20del%20Protocollo%20firmato%20a%20Roma%20fra%20lItalia%20e%20la%20Francia%20il%2010%20febbraio%201931%20inteso%20a%20modificare%20alcune%20voci%20dei%20precedenti%20accordi%20commerciali%20italo-francesi%20del%2013%20novembre%201_26b6fe1d6b73.md), che ha dato esecuzione al Protocollo firmato a Roma fra l'Italia e la Francia il 10 febbraio 1931 e inteso a modificare alcune voci dei precedenti Accordi commerciali italo-francesi del 13 novembre 1922 e del 7 marzo 1928. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

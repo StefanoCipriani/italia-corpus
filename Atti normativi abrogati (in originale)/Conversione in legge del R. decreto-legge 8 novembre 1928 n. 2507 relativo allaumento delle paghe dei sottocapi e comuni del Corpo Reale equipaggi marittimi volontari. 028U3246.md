@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge in data 8 novembre 1928, n. 2507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-08;2507), relativo all'aumento delle paghe dei sottocapi e comuni del Corpo Reale equipaggi marittimi volontari. 
+ E' convertito in legge il [R. decreto-legge in data 8 novembre 1928, n. 2507](Paghe%20dei%20sottocapi%20e%20comuni%20volontari%20del%20Corpo%20Reale%20equipaggi%20marittimi.%20028U2507.md), relativo all'aumento delle paghe dei sottocapi e comuni del Corpo Reale equipaggi marittimi volontari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

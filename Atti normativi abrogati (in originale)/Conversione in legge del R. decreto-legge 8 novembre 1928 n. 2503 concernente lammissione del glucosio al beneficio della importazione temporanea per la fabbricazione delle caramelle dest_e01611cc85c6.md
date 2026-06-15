@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 novembre 1928, n. 2503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-08;2503), concernente l'ammissione del glucosio al beneficio dell'importazione temporanea per la fabbricazione delle caramelle destinate alla esportazione. 
+ E' convertito in legge il [R. decreto-legge 8 novembre 1928, n. 2503](Concessione%20della%20temporanea%20importazione%20per%20il%20glucosio%20da%20impiegare%20nella%20fabbricazione%20delle%20caramelle.%20028U2503.md), concernente l'ammissione del glucosio al beneficio dell'importazione temporanea per la fabbricazione delle caramelle destinate alla esportazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

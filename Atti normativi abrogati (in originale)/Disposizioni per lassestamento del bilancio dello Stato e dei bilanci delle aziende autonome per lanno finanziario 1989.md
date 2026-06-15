@@ -58,7 +58,7 @@ All'[articolo 3 della legge 24 dicembre 1988, n. 542](https://www.normattiva.it/
 1.
 
 All'[articolo 5 della legge 24 dicembre 1988, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-24;542#art_5), e' aggiunto il seguente comma: 
- "4-bis. Il Ministro del tesoro, di concerto con il Ministro del bilancio e della programmazione economica, e' autorizzato a trasferire, con propri decreti, alle amministrazioni statali interessate, secondo la procedura di cui all'[articolo 4 della legge 14 maggio 1981, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219#art_4), le disponibilita' in conto residui e cassa esistenti sul capitolo n. 7500 dello stato di previsione del Ministero del bilancio e della programmazione economica".
+ "4-bis. Il Ministro del tesoro, di concerto con il Ministro del bilancio e della programmazione economica, e' autorizzato a trasferire, con propri decreti, alle amministrazioni statali interessate, secondo la procedura di cui all'[articolo 4 della legge 14 maggio 1981, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md), le disponibilita' in conto residui e cassa esistenti sul capitolo n. 7500 dello stato di previsione del Ministero del bilancio e della programmazione economica".
 
 ## Art. 5.
 

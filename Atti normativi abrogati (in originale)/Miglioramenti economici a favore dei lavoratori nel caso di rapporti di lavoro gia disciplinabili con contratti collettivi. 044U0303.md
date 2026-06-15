@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A decorrere dal 16 agosto 1944, i datori di lavoro devono corrispondere ai propri dipendenti, nel caso di rapporti di lavoro gia' disciplinabili con contratto collettivo ai sensi della [legge 3 aprile 1926, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-04-03;563), e successive modifiche e integrazioni, una indennita' di carovita per ogni giornata di lavoro, nella misura: 
+A decorrere dal 16 agosto 1944, i datori di lavoro devono corrispondere ai propri dipendenti, nel caso di rapporti di lavoro gia' disciplinabili con contratto collettivo ai sensi della [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e successive modifiche e integrazioni, una indennita' di carovita per ogni giornata di lavoro, nella misura: 
  
  1) di lire trenta per gli uomini e per le donne capo-famiglia se la retribuzione mensile, al lordo di ogni ritenuta, non e' superiore a lire tremilaseicento; 
  
@@ -26,7 +26,7 @@ A decorrere dal 16 agosto 1944, i datori di lavoro devono corrispondere ai propr
  
  L'indennita' predetta e' aumentata di lire cinque per i lavoratori che svolgono la loro attivita' nei comuni di Roma, Napoli e Palermo e in quegli altri comuni che saranno indicati con decreto del Ministro per l'industria, il commercio e il lavoro, sulla base dei rispettivi indici del costo della vita. 
  
- Per i lavoratori che rivestono la qualifica di impiegato ai sensi del [R. decreto-legge 13 novembre 1924, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-13;1825), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562), l'indennita' di carovita e' dovuta nella misura mensile pari a trenta volte quella giornaliera prevista, per i singoli casi, nei commi precedenti.
+ Per i lavoratori che rivestono la qualifica di impiegato ai sensi del [R. decreto-legge 13 novembre 1924, n. 1825](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), l'indennita' di carovita e' dovuta nella misura mensile pari a trenta volte quella giornaliera prevista, per i singoli casi, nei commi precedenti.
 
 ## Art. 2.
 

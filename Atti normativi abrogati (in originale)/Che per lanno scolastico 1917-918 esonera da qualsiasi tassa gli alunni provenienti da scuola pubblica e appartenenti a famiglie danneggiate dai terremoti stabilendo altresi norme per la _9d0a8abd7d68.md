@@ -20,9 +20,9 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto il regolamento generale per le tasse nelle scuole medie e normali approvato con [R. decreto 15 ottobre 1914, n. 1234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-10-15;1234);
+Veduto il regolamento generale per le tasse nelle scuole medie e normali approvato con [R. decreto 15 ottobre 1914, n. 1234](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20per%20le%20tasse%20nelle%20scuole%20medie%20e%20normali.%20014U1234.md);
 
-Veduto il [R. decreto 21 settembre 1911, n. 1194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-09-21;1194), che modifica alcuni articoli del regolamento generale universitario
+Veduto il [R. decreto 21 settembre 1911, n. 1194](Col%20quale%20vengono%20modificati%20alcuni%20articoli%20del%20regolamento%20generale%20universitario%20approvato%20con%20R.%20decreto%209%20agosto%201910%20n.%20796%20011U1194.md), che modifica alcuni articoli del regolamento generale universitario
 
 Veduti gli articoli 499 e seguenti del testo unico approvato con [decreto Luogotenenziale 12 ottobre 1918, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-12;1261);
 

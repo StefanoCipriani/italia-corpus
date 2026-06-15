@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3270), che approva il testo della legge tributaria sulle successioni;
+Visto il [R. decreto 30 dicembre 1923, n. 3270](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20successioni.%20023U3270.md), che approva il testo della legge tributaria sulle successioni;
 
 Vista la [legge 26 febbraio 1942, n. 175](Nuove%20agevolazioni%20tributarie%20per%20le%20successioni%20dei%20militari%20caduti%20in%20guerra%20ed%20estensione%20delle%20stesse%20al%20caduti%20nelle%20guerre%20dAfrica%20e%20di%20Spagna.%20042U0175.md), concernente agevolazioni tributarie per le successioni dei militari caduti in guerra;
 

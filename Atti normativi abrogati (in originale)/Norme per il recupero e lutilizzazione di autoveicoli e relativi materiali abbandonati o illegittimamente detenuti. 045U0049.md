@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 5 aprile 1944, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-04-05;105);
+Visto il [R. decreto-legge 5 aprile 1944, n. 105](Censimento%20degli%20autoveicoli%20nelle%20province%20liberate.%20044U0105.md);
 
 Visto il [decreto legislativo Luogotenenziale 10 agosto 1944, n. 223](Norme%20integrative%20dei%20Regi%20decreti-legge%2010%20febbraio%201942%20n.%2075%2010%20marzo%201944%20n.%2083%20e%205%20aprile%201944%20n.%20105%20relativi%20alla%20denuncia%20obbligatoria%20di%20tutti%20gli%20autoveicoli%20immatricolati%20anter_20837070d079.md);
 
@@ -24,7 +24,7 @@ Visto il [testo unico 31 gennaio 1926, n. 452](https://www.normattiva.it/uri-res
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e successive modificazioni;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e successive modificazioni;
 
 Vista la deliberazione del Consiglio dei Ministri;
 

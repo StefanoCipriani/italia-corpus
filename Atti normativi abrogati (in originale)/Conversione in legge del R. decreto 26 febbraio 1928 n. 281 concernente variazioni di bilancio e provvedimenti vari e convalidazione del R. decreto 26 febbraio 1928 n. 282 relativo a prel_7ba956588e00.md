@@ -14,7 +14,7 @@ E' convertito in legge il [R. decreto 26 febbraio 1928, numero 281](https://www.
 
 ## Art. 2.
 
-E' convalidato il [R. decreto 26 febbraio 1928, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;282), che autorizza il 16° prelevamento dal fondo di riserva per le spese impreviste inscritto nel bilancio del Ministero delle finanze per l'esercizio 1927-28. 
+E' convalidato il [R. decreto 26 febbraio 1928, n. 282](16ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201927-28.%20028U0282.md), che autorizza il 16° prelevamento dal fondo di riserva per le spese impreviste inscritto nel bilancio del Ministero delle finanze per l'esercizio 1927-28. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

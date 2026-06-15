@@ -22,7 +22,7 @@ Visto il [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/
 
 Vista la [legge 11 gennaio 1943, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-11;138), concernente l'assistenza di malattia ai lavoratori;
 
-Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e [29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e [29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4):
 
@@ -38,7 +38,7 @@ Ai lavoratori che prestano la loro opera alle dipendenze delle Forze Alleate ope
 
 ## Art. 2.
 
-Agli effetti del diritto e della misura delle prestazioni delle assicurazioni obbligatorie per la invalidita' e la vecchiaia, per la disoccupazione, per la tubercolosi e per la nuzialita' e la natalita' si computa come versato il contributo massimo previsto dalle tabelle annesse al R. decreto-legge 14 aprile 1939. n. 636, modificato con il [R. decreto-legge 18 marzo 1943, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-03-18;126).
+Agli effetti del diritto e della misura delle prestazioni delle assicurazioni obbligatorie per la invalidita' e la vecchiaia, per la disoccupazione, per la tubercolosi e per la nuzialita' e la natalita' si computa come versato il contributo massimo previsto dalle tabelle annesse al R. decreto-legge 14 aprile 1939. n. 636, modificato con il [R. decreto-legge 18 marzo 1943, n. 126](Aumento%20delle%20pensioni%20e%20dei%20contributi%20dellassicurazione%20invalidita%20e%20vecchiaia%20043U0126.md).
 
 ## Art. 3.
 

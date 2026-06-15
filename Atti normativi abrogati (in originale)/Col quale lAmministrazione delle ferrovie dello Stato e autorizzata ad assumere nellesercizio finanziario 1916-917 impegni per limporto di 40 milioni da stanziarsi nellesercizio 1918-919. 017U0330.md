@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto con q
 
 ## Art. 1.
 
-Per ulteriori spese straordinarie, l'Amministrazione delle ferrovie dello Stato e' autorizzata ad assumere, nell'esercizio finanziario 1916-917, impegni per l'importo di lire quaranta milioni (L. 40.000.000), da stanziarsi nell'esercizio 1918-919, entro il limite annuo di cui alla [legge 24 dicembre 1908, n. 731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;731).
+Per ulteriori spese straordinarie, l'Amministrazione delle ferrovie dello Stato e' autorizzata ad assumere, nell'esercizio finanziario 1916-917, impegni per l'importo di lire quaranta milioni (L. 40.000.000), da stanziarsi nell'esercizio 1918-919, entro il limite annuo di cui alla [legge 24 dicembre 1908, n. 731](Provvedimenti%20per%20le%20spese%20ferroviarie%20viarie%20e%20per%20debiti%20redimibili.%20008U0731.md).
 
 ## Art. 2.
 

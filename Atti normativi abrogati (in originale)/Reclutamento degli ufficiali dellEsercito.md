@@ -409,7 +409,7 @@ In deroga a quanto disposto alla lettera c) dell'articolo 7, il requisito del po
 
 Per quanto non contemplato dalla presente legge, per il reclutamento degli ufficiali del ruolo speciale unico delle armi di fanteria, cavalleria, artiglieria e genio si applicano le disposizioni di cui alla [legge 16 novembre 1962, n. 1622](Riordinamento%20dei%20ruoli%20degli%20ufficiali%20in%20servizio%20permanente%20effettivo%20dellEsercito.md), sul riordinamento dei ruoli degli ufficiali dell'Esercito.
  Fino a quando non saranno emanate le norme previste dal secondo comma dell'articolo 2 della presente legge, per l'espletamento dei concorsi e lo svolgimento dei corsi ai osservano le modalita' prescritte dalle disposizioni in vigore.
- Sono abrogati il testo unico sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-14;596), e successive modificazioni, e tutte le disposizioni in contrasto con quelle contenute nella presente legge o, comunque, con essa incompatibili.
+ Sono abrogati il testo unico sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni, e tutte le disposizioni in contrasto con quelle contenute nella presente legge o, comunque, con essa incompatibili.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

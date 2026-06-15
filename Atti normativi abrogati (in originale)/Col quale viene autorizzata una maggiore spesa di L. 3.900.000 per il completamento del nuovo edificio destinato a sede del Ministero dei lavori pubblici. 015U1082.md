@@ -26,11 +26,11 @@ Sulla proposta del ministro segretario di Stato pei lavori pubblici, di concerto
 
 ## Art. 1.
 
-E' autorizzata la spesa di lire 3.400.000, in aggiunta a quella disposta con le [leggi 11 luglio 1907, n. 502; 30 giugno 1909, n. 407, e 13 aprile 1911, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-13;311), per il completamento del nuovo edificio destinato a sede del Ministero dei lavori pubblici.
+E' autorizzata la spesa di lire 3.400.000, in aggiunta a quella disposta con le [leggi 11 luglio 1907, n. 502; 30 giugno 1909, n. 407, e 13 aprile 1911, n. 311](Per%20la%20conversione%20in%20legge%20del%20R.%20decreto%2018%20settembre%201910%20n.%20684%20per%20le%20Puglie%20e%20per%20autorizzazione%20di%20spese%20e%20provvedimenti%20urgenti%20per%20lavori%20pubblici.%20011U0311.md), per il completamento del nuovo edificio destinato a sede del Ministero dei lavori pubblici.
 
 ## Art. 2.
 
-La spesa di cui all'articolo precedente sara' inscritta nello stato di previsione della spesa del Ministero dei lavori pubblici, oltre i limiti di stanziamento previsti nella tabella A annessa alla [legge 4 aprile 1912, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-04-04;297), e modificazioni successive, in ragione di lire 400.000 nell'esercizio finanziario 1917-918 e di lire 1.000.000 in ciascuno degli esercizi finanziari dal 1918-919 al 1920-1921. 
+La spesa di cui all'articolo precedente sara' inscritta nello stato di previsione della spesa del Ministero dei lavori pubblici, oltre i limiti di stanziamento previsti nella tabella A annessa alla [legge 4 aprile 1912, n. 297](Che%20approva%20laumento%20della%20spesa%20straordinaria%20consolidata%20del%20Ministero%20dei%20lavori%20pubblici%20per%20gli%20esercizi%20finanziari%20dal%201912-913%20al%201920-921.%20012U0297.md), e modificazioni successive, in ragione di lire 400.000 nell'esercizio finanziario 1917-918 e di lire 1.000.000 in ciascuno degli esercizi finanziari dal 1918-919 al 1920-1921. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

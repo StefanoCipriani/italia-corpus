@@ -12,7 +12,7 @@ vigente: true
 
 Agli impiegati civili di ruolo delle Amministrazioni governative residenti nei Comuni appresso indicati e' concessa, nel periodo dal 1° luglio 1912-al 30 giugno 1913, una indennita' di disagiata residenza nella misura che segue: 
  
- a) nei comuni di Messina, Reggio Calabria e Palmi un quarto della indennita' di missione stabilita dal [R. decreto 14 settembre 1862, n. 840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1862-09-14;840), ed in ogni caso una somma mensile non maggiore di L. 80 ne' minore di L. 24; 
+ a) nei comuni di Messina, Reggio Calabria e Palmi un quarto della indennita' di missione stabilita dal [R. decreto 14 settembre 1862, n. 840](Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md), ed in ogni caso una somma mensile non maggiore di L. 80 ne' minore di L. 24; 
  
  b) nei Comuni che, per verifiche gia' eseguite alla data della presente legge, risultino avere avuto una percentuale di case distrutte o rese inabitabili non inferiore all'ottanta per cento, L. 24 mensili.
 

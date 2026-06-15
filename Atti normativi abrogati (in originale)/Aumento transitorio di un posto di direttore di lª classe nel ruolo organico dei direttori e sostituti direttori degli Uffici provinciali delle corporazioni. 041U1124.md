@@ -38,7 +38,7 @@ Nel ruolo organico dei Direttori e Sostituti direttori degli Uffici provinciali 
 
 ## Art. 2.
 
-La spesa occorrente per la variante di organico, di cui al precedente articolo 1, e' interamente a carico dei bilanci dei Consigli provinciali delle corporazioni ed e' anticipata dal Tesoro dello Stato ai sensi degli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-09-03;1900#art_3) e [9 del R. decreto-legge 3 settembre 1930, n. 1900](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-09-03;1900#art_9), convertito in legge, con modificazioni, con la [legge 3 giugno 1937, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-03;1000).
+La spesa occorrente per la variante di organico, di cui al precedente articolo 1, e' interamente a carico dei bilanci dei Consigli provinciali delle corporazioni ed e' anticipata dal Tesoro dello Stato ai sensi degli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-09-03;1900#art_3) e [9 del R. decreto-legge 3 settembre 1930, n. 1900](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-09-03;1900#art_9), convertito in legge, con modificazioni, con la [legge 3 giugno 1937, n. 1000](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%203%20settembre%201936-XIV%20n.%201900%20portante%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sui%20Consigli%20e%20sugli%20Uffici%20provinciali%20dellecon_cff189f4f1ad.md).
 
 ## Art. 3.
 

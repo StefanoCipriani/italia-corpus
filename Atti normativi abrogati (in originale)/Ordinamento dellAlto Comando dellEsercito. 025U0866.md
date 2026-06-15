@@ -158,7 +158,7 @@ L'ordinamento dello Stato Maggiore del Regio esercito e' stabilito con decreto R
 
 ### Art. 19.
 
-E' abolito il [R. decreto 11 gennaio 1923, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-11;20), ed ogni disposizione contraria a quelle contenute nella presente legge. 
+E' abolito il [R. decreto 11 gennaio 1923, n. 20](Che%20reca%20disposizioni%20relative%20allalto%20Comando%20e%20al%20Consiglio%20dellesercito.%20023U0020.md), ed ogni disposizione contraria a quelle contenute nella presente legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

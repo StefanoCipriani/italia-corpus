@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 1 della legge 23 giugno 1927, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1110#art_1);
 
-Visto l'[art. 1 dei regio decreto-legge 7 settembre 1938, n. 1696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-07;1696#art_1), convertito in [legge 5 gennaio 1939, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-05;8);
+Visto l'[art. 1 dei regio decreto-legge 7 settembre 1938, n. 1696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-07;1696#art_1), convertito in [legge 5 gennaio 1939, n. 8](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decretolegge%207%20settembre%201938-XVI%20n.%201696%20col%20quale%20sono%20state%20emanate%20norme%20per%20limpianto%20e%20lesercizio%20delle%20slittovie%20sciovie%20ed%20altri%20mezzi%20di%20trasporto%20ter_8f93758db3af.md);
 
 Visto il [regio decreto 17 gennaio 1926, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-17;177), registrato alla Corte dei conti il 10 febbraio 1926, registro n. 2, foglio n. 764, con il quale e' stata istituita la Commissione per le funicolari aree e terrestri;
 

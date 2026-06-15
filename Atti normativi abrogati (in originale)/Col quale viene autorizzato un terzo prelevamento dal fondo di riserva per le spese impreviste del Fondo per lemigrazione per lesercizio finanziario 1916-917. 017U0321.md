@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 51 del regolamento approvato con [R. decreto 16 maggio 1912, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;556), per la gestione amministrativa e contabile del Fondo per l'emigrazione. 
+ Visto l'art. 51 del regolamento approvato con [R. decreto 16 maggio 1912, n. 556](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20del%20Fondo%20per%20lemigrazione.%20012U0556.md), per la gestione amministrativa e contabile del Fondo per l'emigrazione. 
  
  Visto il decreto del ministro degli affari esteri in data 22 dicembre 1916, registrato alla Corte dei conti il 28 detto mese ed anno che ha esteso al personale del Commissariato dell'emigrazione il godimento della indennita' temporanea di cui al Nostro decreto del 29 ottobre 1916, n. 1499; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il [decreto Luogotenenziale in data 7 gennaio 1917, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-07;62), che autorizza il secondo prelevamento dal fondo predetto; 
  
- Vista la [legge 4 gennaio 1917 n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-01-04;12) che proroga l'esercizio provvisorio del bilancio del Fondo per l'emigrazione per l'esercizio finanziario 1916-917 a tutto il mese di giugno 1917; 
+ Vista la [legge 4 gennaio 1917 n. 12](Che%20proroga%20lesercizio%20provvisorio%20del%20bilancio%20del%20fondo%20per%20lemigrazione%20per%20lesercizio%20finanziario%201916-1917%20a%20tutto%20il%20mese%20di%20giugno%201917.%20017U0012.md) che proroga l'esercizio provvisorio del bilancio del Fondo per l'emigrazione per l'esercizio finanziario 1916-917 a tutto il mese di giugno 1917; 
  
  Sentito il Consiglio dei ministri; 
  

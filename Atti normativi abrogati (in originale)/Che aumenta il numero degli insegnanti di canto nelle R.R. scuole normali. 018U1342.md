@@ -24,7 +24,7 @@ Veduto il [decreto Luogotenenziale 14 maggio 1916, n. 634](https://www.normattiv
 
 Veduta la decisione pronunciata il 23 ottobre 1916, dalla quarta sezione del Consiglio di Stato, sul ricorso di Della Cella Romilda contro il Ministero della istruzione pubblica, e pubblicata nei modi di legge alla udienza del 17 novembre 1916;
 
-Veduto che, in forza della detta decisione, alla predetta Della Cella Romilda, viene riconosciuto il diritto alla nomina in ruolo come straordinaria di canto nelle scuole normali, in applicazione dell'[art. 47 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_47);
+Veduto che, in forza della detta decisione, alla predetta Della Cella Romilda, viene riconosciuto il diritto alla nomina in ruolo come straordinaria di canto nelle scuole normali, in applicazione dell'[art. 47 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md);
 
 Veduto che, oltre alla predetta Della Cella Romilda, anche altri sei insegnanti di canto si trovavano, all'atto dell'applicazione della legge citata, nelle condizioni volute dall'articolo suddetto per ottenere la nomina di straordinario nelle scuole normali; e che la decisione della IV sezione del Consiglio di Stato deve anche a costoro essere applicata;
 

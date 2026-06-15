@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il testo del [primo comma e della lettera a) dell'art. 3 del R. decreto-legge 15 maggio 1924, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-15;991#art_3-com1-leta), convertito nella [legge 20 luglio 1925, n. 1455](Conversione%20in%20legge%20del%20R.%20decreto%2015%20maggio%201924%20n.%20991%20concernente%20il%20riordinamento%20dellIstituto%20agricolo%20coloniale%20italiano%20di%20Firenze.%20025U1455.md), e' sostituito dal seguente: 
+Il testo del [primo comma e della lettera a) dell'art. 3 del R. decreto-legge 15 maggio 1924, n. 991](Riordinamento%20dellIstituto%20agricolo%20coloniale%20italiano%20di%20Firenze.%20024U0991.md), convertito nella [legge 20 luglio 1925, n. 1455](Conversione%20in%20legge%20del%20R.%20decreto%2015%20maggio%201924%20n.%20991%20concernente%20il%20riordinamento%20dellIstituto%20agricolo%20coloniale%20italiano%20di%20Firenze.%20025U1455.md), e' sostituito dal seguente: 
  
  «Al mantenimento dell'Istituto contribuiscono: 
  

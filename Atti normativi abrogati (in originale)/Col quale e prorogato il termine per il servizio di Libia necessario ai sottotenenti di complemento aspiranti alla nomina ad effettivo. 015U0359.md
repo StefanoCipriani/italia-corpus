@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 15 novembre 1914, n. 1253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-15;1253), relativo alla nomina ad ufficiale effettivo dei sottotenenti di complemento e dei marescialli;
+Visto il [R. decreto 15 novembre 1914, n. 1253](Da%20convertirsi%20in%20legge%20portante%20nuove%20forme%20di%20reclutamento%20di%20sottotenenti%20in%20servizio%20attivo%20permanente.%20014U1253.md), relativo alla nomina ad ufficiale effettivo dei sottotenenti di complemento e dei marescialli;
 
-Considerata la necessita' di aumentare, nelle attuali contingenze internazionali, il reclutamento dei sottotenenti effettivi e l'opportunita' di non escludere dalla nomina a tale grado quei sottotenenti di complemento che pur avendo i requisiti generali all'uopo richiesti sono stati inviati in Libia o nell'Egeo posteriormente al citato [R. decreto 15 novembre 1914, n. 1253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-15;1253);
+Considerata la necessita' di aumentare, nelle attuali contingenze internazionali, il reclutamento dei sottotenenti effettivi e l'opportunita' di non escludere dalla nomina a tale grado quei sottotenenti di complemento che pur avendo i requisiti generali all'uopo richiesti sono stati inviati in Libia o nell'Egeo posteriormente al citato [R. decreto 15 novembre 1914, n. 1253](Da%20convertirsi%20in%20legge%20portante%20nuove%20forme%20di%20reclutamento%20di%20sottotenenti%20in%20servizio%20attivo%20permanente.%20014U1253.md);
 
 Previa deliberazione del Consiglio dei ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro ministro, segretario di stato per gli affari della gue
 
 ## Articolo unico.
 
-Il termine stabilito dall'[art. 3 lettera b) del R. decreto 15 novembre 1914, n. 1253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-15;1253#art_3-letb), per il servizio in Libia o nell'Egeo degli ufficiali di complemento agli effetti della nomina a sottotenente in servizio attivo permanente e' prorogato, fino alla data di pubblicazione del presente decreto che sara' presentato al Parlamento per essere convertito in legge. 
+Il termine stabilito dall'[art. 3 lettera b) del R. decreto 15 novembre 1914, n. 1253](Da%20convertirsi%20in%20legge%20portante%20nuove%20forme%20di%20reclutamento%20di%20sottotenenti%20in%20servizio%20attivo%20permanente.%20014U1253.md), per il servizio in Libia o nell'Egeo degli ufficiali di complemento agli effetti della nomina a sottotenente in servizio attivo permanente e' prorogato, fino alla data di pubblicazione del presente decreto che sara' presentato al Parlamento per essere convertito in legge. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

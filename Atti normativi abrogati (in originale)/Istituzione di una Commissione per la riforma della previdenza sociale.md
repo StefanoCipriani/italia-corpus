@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 15 marzo 1944, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-03-15;120);
+Visto il [regio decreto 15 marzo 1944, n. 120](Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20della%20Previdenza%20Sociale.%20044U0120.md);
 
 Visto il [decreto luogotenenziale 1° ottobre 1944, numero 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-01;230);
 
-Visto l'[art. 1 primo comma, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-com1-num3);
+Visto l'[art. 1 primo comma, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -52,7 +52,7 @@ Entro quattro mesi dalla costituzione, la Commissione presentera' al Ministero d
 
 ## Art. 5.
 
-Il [regio decreto 15 marzo 1944, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-03-15;120), e il [decreto luogotenenziale 1 ottobre 1944, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-01;330), sono abrogati.
+Il [regio decreto 15 marzo 1944, n. 120](Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20della%20Previdenza%20Sociale.%20044U0120.md), e il [decreto luogotenenziale 1 ottobre 1944, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-01;330), sono abrogati.
 
 ## Art. 6.
 

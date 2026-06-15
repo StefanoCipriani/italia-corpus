@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto l'[art. 66 del testo unico delle leggi sul debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_66), approvato con [R. decreto 17 luglio 1910, n. 536](Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), col quale per alcune obbligazioni di debiti redimibili, fra cui quelle della ferrovia di Cuneo, sono autorizzati i tramutamenti al nome;
+Veduto l'[art. 66 del testo unico delle leggi sul debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con [R. decreto 17 luglio 1910, n. 536](Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), col quale per alcune obbligazioni di debiti redimibili, fra cui quelle della ferrovia di Cuneo, sono autorizzati i tramutamenti al nome;
 
 Veduto l'art. 144 del regolamento generale sul debito pubblico, approvato con [R. decreto 19 febbraio 1911, n. 298](Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md), col quale e' autorizzato il rilascio dei certificati nominativi per una o per piu' delle dette obbligazioni, sino al massimo di quaranta;
 

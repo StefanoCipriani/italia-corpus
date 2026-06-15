@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 3 della legge 12 luglio 1991, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;202#art_3), recante delega al Governo per l'istituzione a carico dei concessionari e locatari di beni pubblici di una imposta del cinque per cento sul canone annuale di concessione di tutti i beni del demanio pubblico e del patrimonio inalienabile dello Stato, delle aziende autonome statali, delle regioni, delle province e dei comuni;
+Visto l'[art. 3 della legge 12 luglio 1991, n. 202](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20151%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20pubblica.md), recante delega al Governo per l'istituzione a carico dei concessionari e locatari di beni pubblici di una imposta del cinque per cento sul canone annuale di concessione di tutti i beni del demanio pubblico e del patrimonio inalienabile dello Stato, delle aziende autonome statali, delle regioni, delle province e dei comuni;
 
-Visto l'[art. 9, commi 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_9-com6) e [7, della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_9-com7);
+Visto l'[art. 9, commi 6](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md) e [7, della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 febbraio 1992;
 
@@ -57,7 +57,7 @@ L'imposta di cui all'art. 1 e' dovuta a decorrere dal 1 gennaio 1995 nei seguent
                         b)
                             per le concessioni e locazioni dei beni di proprieta' dello 
  Stato i cui canoni sono stati rivalutati dal 1 gennaio 1990 per 
-effetto dei [commi 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_12-com5) e [6 dell'art. 12 del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_12-com6), convertito nella [legge 26 giugno 1990, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165), e dei relativi decreti interministeriali di attuazione emanati in data 20 luglio 1990 e 18 ottobre 1990 pubblicati, rispettivamente, nella Gazzetta Ufficiale della Repubblica italiana del 10 ottobre 1990 e del 6 febbraio 1991;
+effetto dei [commi 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_12-com5) e [6 dell'art. 12 del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_12-com6), convertito nella [legge 26 giugno 1990, n. 165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20aprile%201990%20n.%2090%20recante%20disposizioni%20in%20materia%20di%20determinazione%20del%20reddito%20ai%20fini%20delle%20imposte%20sui%20redditi%20di%20rimborsi%20d_30659e7e2a97.md), e dei relativi decreti interministeriali di attuazione emanati in data 20 luglio 1990 e 18 ottobre 1990 pubblicati, rispettivamente, nella Gazzetta Ufficiale della Repubblica italiana del 10 ottobre 1990 e del 6 febbraio 1991;
                         c)
                             qualora la misura del canone sia stata rinegoziata o modificata successivamente alla predetta data del 31 dicembre 1989.
 
@@ -65,7 +65,7 @@ effetto dei [commi 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decre
 
 1.
 
-All'art. 10, comma 1, lettera a), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), e successive modificazioni, in fine sono aggiunte le seguenti parole "nonche' l'imposta del cinque per cento sull'ammontare del canone annuale e dell'indennizzo di occupazione dovuto per l'utilizzazione di tutti i beni del demanio pubblico e del patrimonio inalienabile dello Stato, delle aziende autonome statali, delle regioni, delle province e dei comuni;".
+All'art. 10, comma 1, lettera a), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, in fine sono aggiunte le seguenti parole "nonche' l'imposta del cinque per cento sull'ammontare del canone annuale e dell'indennizzo di occupazione dovuto per l'utilizzazione di tutti i beni del demanio pubblico e del patrimonio inalienabile dello Stato, delle aziende autonome statali, delle regioni, delle province e dei comuni;".
 
 ## Art. 5.
 
@@ -83,7 +83,7 @@ Sempre per l'anno 1993, nei casi di utilizzazione senza titolo di beni venuta a 
 
 4.
 
-In caso di inosservanza, totale o parziale, dell'obbligo di versamento dell'imposta nei termini stabiliti, l'ufficio del registro procede alla liquidazione dell'imposta dovuta e applica gli interessi di mora nella misura prevista dall'[art. 1 della legge 26 gennaio 1961, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-01-26;29#art_1), e successive modificazioni, nonche' la sopratassa prevista dall'[art. 70 del decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131#art_70). Avverso il suddetto avviso di liquidazione e' ammesso il ricorso alle competenti commissioni tributarie ai sensi del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md).
+In caso di inosservanza, totale o parziale, dell'obbligo di versamento dell'imposta nei termini stabiliti, l'ufficio del registro procede alla liquidazione dell'imposta dovuta e applica gli interessi di mora nella misura prevista dall'[art. 1 della legge 26 gennaio 1961, n. 29](Norme%20per%20la%20disciplina%20della%20riscossione%20dei%20carichi%20in%20materia%20di%20tasse%20e%20di%20imposte%20indirette%20sugli%20affari.md), e successive modificazioni, nonche' la sopratassa prevista dall'[art. 70 del decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md). Avverso il suddetto avviso di liquidazione e' ammesso il ricorso alle competenti commissioni tributarie ai sensi del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md).
 
 ## Art. 6.
 

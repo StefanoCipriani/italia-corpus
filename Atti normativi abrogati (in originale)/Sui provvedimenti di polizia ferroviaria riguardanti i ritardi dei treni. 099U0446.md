@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I ritardi dei treni ferroviari, pei quali il Regolamento approvato con decreto Reale del 31 ottobre 1873, n. 1687 (serie 2ª), stabilisce pene pecuniarie, costituiscono contravvenzioni nei sensi del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+I ritardi dei treni ferroviari, pei quali il Regolamento approvato con decreto Reale del 31 ottobre 1873, n. 1687 (serie 2ª), stabilisce pene pecuniarie, costituiscono contravvenzioni nei sensi del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 

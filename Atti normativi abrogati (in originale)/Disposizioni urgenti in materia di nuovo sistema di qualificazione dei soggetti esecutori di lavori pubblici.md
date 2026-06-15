@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 8 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_8), e successive modificazioni;
+Visto l'[articolo 8 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni;
 
 Ritenuta la straordinaria necessita' ed urgenza di dettare disposizioni in materia di qualificazione dei soggetti esecutori di lavori pubblici, al fine di consentire alle imprese la partecipazione alle relative gare di appalto in attesa dell'entrata in vigore del regolamento del nuovo sistema di qualificazione previsto dal citato articolo 8;
 
@@ -26,7 +26,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-A decorrere dal 1o gennaio 2000 e fino alla data di entrata in vigore del regolamento previsto dall'[articolo 8 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_8), e successive modificazioni, la partecipazione alle procedure di aggiudicazione e di affidamento dei lavori pubblici, i cui bandi sono pubblicati a partire dal 1o gennaio 2000, e' disciplinata dal presente decreto.
+A decorrere dal 1o gennaio 2000 e fino alla data di entrata in vigore del regolamento previsto dall'[articolo 8 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, la partecipazione alle procedure di aggiudicazione e di affidamento dei lavori pubblici, i cui bandi sono pubblicati a partire dal 1o gennaio 2000, e' disciplinata dal presente decreto.
 
 ## Art. 2. — Categorie di opere generali e specializzate e strutture,
  impianti e opere speciali
@@ -37,7 +37,7 @@ I bandi di gara e la qualificazione delle imprese relativamente alle opere e i l
 
 2.
 
-Ai sensi e per gli effetti dell'[articolo 13, comma 7, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_13-com7), e successive modificazioni, si considerano strutture, impianti e opere speciali, le seguenti opere specializzate se di importo superiore a quelli indicati all'articolo 3, comma 2, lettera c):
+Ai sensi e per gli effetti dell'[articolo 13, comma 7, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, si considerano strutture, impianti e opere speciali, le seguenti opere specializzate se di importo superiore a quelli indicati all'articolo 3, comma 2, lettera c):
                         a)
                             il restauro, la manutenzione di superfici decorate di beni architettonici, il restauro di beni mobili, di interesse storico, artistico ed archeologico;
                         b)
@@ -82,7 +82,7 @@ La stazione appaltante indica nel bando di gara:
                         b)
                             la categoria generale o specializzata considerata prevalente e la relativa classifica determinate sulla base delle categorie e classifiche previste dalle norme sull'Albo nazionale dei costruttori;
                         c)
-                            le parti appartenenti alle categorie generali o specializzate, diverse dalla categoria prevalente, di cui si compone l'opera o il lavoro con i relativi importi e categorie che, fatto salvo quanto previsto dall'[articolo 13, comma 7, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_13-com7), e successive modificazioni, sono tutte, a scelta del concorrente, subappaltabili o affidabili a cottimo, e comunque scorporabili.
+                            le parti appartenenti alle categorie generali o specializzate, diverse dalla categoria prevalente, di cui si compone l'opera o il lavoro con i relativi importi e categorie che, fatto salvo quanto previsto dall'[articolo 13, comma 7, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, sono tutte, a scelta del concorrente, subappaltabili o affidabili a cottimo, e comunque scorporabili.
 
 3.
 
@@ -97,7 +97,7 @@ Le imprese aggiudicatarie, in possesso della qualificazione nella categoria di o
 
 2.
 
-Dette lavorazioni relative a opere generali, e a strutture, impianti ed opere speciali di cui all'articolo 2, comma 2, non indicate nel bando di gara come categoria prevalente, non possono essere eseguite direttamente dalle imprese qualificate per la sola categoria prevalente, se prive delle relative adeguate qualificazioni; esse, fatto salvo quanto previsto dall'[articolo 13, comma 7, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_13-com7), e successive modificazioni, sono comunque subappaltabili ad imprese in possesso delle relative qualificazioni. Le medesime lavorazioni sono altresi' scorporabili e sono indicate nei bandi di gara ai fini della costituzione di associazioni temporanee di tipo verticale.
+Dette lavorazioni relative a opere generali, e a strutture, impianti ed opere speciali di cui all'articolo 2, comma 2, non indicate nel bando di gara come categoria prevalente, non possono essere eseguite direttamente dalle imprese qualificate per la sola categoria prevalente, se prive delle relative adeguate qualificazioni; esse, fatto salvo quanto previsto dall'[articolo 13, comma 7, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, sono comunque subappaltabili ad imprese in possesso delle relative qualificazioni. Le medesime lavorazioni sono altresi' scorporabili e sono indicate nei bandi di gara ai fini della costituzione di associazioni temporanee di tipo verticale.
 
 ## Art. 5. — Requisiti di ordine generale
 
@@ -148,7 +148,7 @@ L'attrezzatura tecnica per la quale e' terminato il piano di ammortamento contri
 
 2.
 
-Alla determinazione delle percentuali di cui al comma 1, lettere c) e d) concorre, in proporzione alle quote di competenza dell'impresa, anche il costo per il personale dipendente dei consorzi di cui all'[articolo 10, comma 1, lettere e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-lete) ed [e-bis), della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-letebis), e successive modificazioni, nonche' delle societa' fra imprese riunite di cui l'impresa fa parte.
+Alla determinazione delle percentuali di cui al comma 1, lettere c) e d) concorre, in proporzione alle quote di competenza dell'impresa, anche il costo per il personale dipendente dei consorzi di cui all'[articolo 10, comma 1, lettere e)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) ed [e-bis), della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, nonche' delle societa' fra imprese riunite di cui l'impresa fa parte.
 
 3.
 
@@ -178,7 +178,7 @@ L'attrezzatura tecnica per la quale e' terminato il piano di ammortamento contri
 
 2.
 
-Alla determinazione delle percentuali di cui al comma 1, lettere d) ed e) concorre, in proporzione alle quote di competenza dell'impresa, anche il costo per il personale dipendente dei consorzi di cui all'[articolo 10, comma 1, lettere e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-lete) ed [e-bis), della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-letebis), e successive modificazioni, nonche' delle societa' fra imprese riunite di cui l'impresa fa parte.
+Alla determinazione delle percentuali di cui al comma 1, lettere d) ed e) concorre, in proporzione alle quote di competenza dell'impresa, anche il costo per il personale dipendente dei consorzi di cui all'[articolo 10, comma 1, lettere e)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) ed [e-bis), della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, nonche' delle societa' fra imprese riunite di cui l'impresa fa parte.
 
 3.
 
@@ -196,7 +196,7 @@ L'impresa singola puo' partecipare alla gara qualora sia in possesso dei requisi
 
 2.
 
-Per le associazioni temporanee di imprese e per i consorzi di cui all'[articolo 10, comma 1, lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-letd), [e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-lete) ed [e-bis), della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-letebis), e successive modificazioni, di tipo orizzontale, i requisiti economico-finanziari e tecnico-organizzativi richiesti nel bando di gara per le imprese singole devono essere posseduti dalla mandataria o da una impresa consorziata nelle misure minime del 40%; la restante percentuale e' posseduta cumulativamente dalle mandanti o dalle altre imprese consorziate ciascuna nella misura minima del 10% di quanto richiesto all'intero raggruppamento.
+Per le associazioni temporanee di imprese e per i consorzi di cui all'[articolo 10, comma 1, lettere d)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), [e)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) ed [e-bis), della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, di tipo orizzontale, i requisiti economico-finanziari e tecnico-organizzativi richiesti nel bando di gara per le imprese singole devono essere posseduti dalla mandataria o da una impresa consorziata nelle misure minime del 40%; la restante percentuale e' posseduta cumulativamente dalle mandanti o dalle altre imprese consorziate ciascuna nella misura minima del 10% di quanto richiesto all'intero raggruppamento.
 L'impresa mandataria in ogni caso possiede i requisiti in misura maggioritaria.
 
 3.
@@ -205,7 +205,7 @@ Per le associazioni temporanee di imprese e per i consorzi di cui all'articolo 1
 
 4.
 
-Qualora il concorrente sia una associazione temporanea o un consorzio o un GEIE di cui all'[articolo 10, comma 1, lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-letd), [e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-lete) ed [e-bis), della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-letebis), e successive modificazioni, ogni singolo lavoro cui si riferisce il requisito previsto all'articolo 8, comma 1, lettera c), deve essere stato integralmente eseguito da una qualsiasi delle imprese associate o consorziate.
+Qualora il concorrente sia una associazione temporanea o un consorzio o un GEIE di cui all'[articolo 10, comma 1, lettere d)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), [e)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) ed [e-bis), della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, ogni singolo lavoro cui si riferisce il requisito previsto all'articolo 8, comma 1, lettera c), deve essere stato integralmente eseguito da una qualsiasi delle imprese associate o consorziate.
 
 ## Art. 10. — Documentazione
 
@@ -215,7 +215,7 @@ La cifra di affari in lavori relativa all'attivita' diretta e' comprovata: da pa
 
 2.
 
-La cifra di affari in lavori relativa alla attivita' indiretta, in proporzione alle quote di partecipazione dell'impresa concorrente, e' comprovata con la produzione dei bilanci, riclassificati in conformita' alle direttive europee, e della relativa nota di deposito, dei consorzi di cui all'[articolo 10, comma 1, lettere e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-lete) ed [e-bis), della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-letebis), e successive modificazioni, e delle societa' fra imprese riunite dei quali l'impresa stessa fa parte, nel caso in cui questi abbiano fatturato direttamente alla stazione appaltante e non abbiano ricevuto fatture per lavori eseguiti da parte di soggetti consorziati.
+La cifra di affari in lavori relativa alla attivita' indiretta, in proporzione alle quote di partecipazione dell'impresa concorrente, e' comprovata con la produzione dei bilanci, riclassificati in conformita' alle direttive europee, e della relativa nota di deposito, dei consorzi di cui all'[articolo 10, comma 1, lettere e)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) ed [e-bis), della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, e delle societa' fra imprese riunite dei quali l'impresa stessa fa parte, nel caso in cui questi abbiano fatturato direttamente alla stazione appaltante e non abbiano ricevuto fatture per lavori eseguiti da parte di soggetti consorziati.
 
 3.
 
@@ -239,7 +239,7 @@ I lavori eseguiti in regime di subappalto sono riferiti alle categorie del cessa
 
 8.
 
-Fermo restando l'[articolo 8, comma 11-bis, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_8-com11bis), e successive modificazioni, le imprese stabilite in altri Stati aderenti all'Unione europea non sono tenute al possesso del certificato di iscrizione all'Albo nazionale costruttori.
+Fermo restando l'[articolo 8, comma 11-bis, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, le imprese stabilite in altri Stati aderenti all'Unione europea non sono tenute al possesso del certificato di iscrizione all'Albo nazionale costruttori.
 
 ## Art. 11. — Disposizioni finali
 
@@ -249,17 +249,17 @@ Il certificato di iscrizione all'Albo nazionale costruttori puo' essere utilizza
 
 2.
 
-Fino alla data di entrata in vigore del regolamento di cui all'[articolo 8 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_8), e successive modificazioni, le imprese non iscritte all'Albo nazionale costruttori possono partecipare alle gare per l'affidamento di appalti di lavori pubblici di importo pari o inferiore a un miliardo di lire dimostrando il possesso dei requisiti previsti dall'articolo 7, comma 1, lettere a) e b), nell'ammontare almeno doppio di quello ivi richiesto, fermo il possesso degli altri requisiti.
+Fino alla data di entrata in vigore del regolamento di cui all'[articolo 8 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, le imprese non iscritte all'Albo nazionale costruttori possono partecipare alle gare per l'affidamento di appalti di lavori pubblici di importo pari o inferiore a un miliardo di lire dimostrando il possesso dei requisiti previsti dall'articolo 7, comma 1, lettere a) e b), nell'ammontare almeno doppio di quello ivi richiesto, fermo il possesso degli altri requisiti.
 
 3.
 
-In applicazione dell'[articolo 8, commi 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_8-com10) e [11, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_8-com11), e successive modificazioni, sono inefficaci le delibere assunte dagli organi deliberanti dell'Albo nazionale costruttori per le quali non sia intervenuta entro il 31 dicembre 1999 l'effettiva iscrizione all'Albo stesso.
+In applicazione dell'[articolo 8, commi 10](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e [11, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, sono inefficaci le delibere assunte dagli organi deliberanti dell'Albo nazionale costruttori per le quali non sia intervenuta entro il 31 dicembre 1999 l'effettiva iscrizione all'Albo stesso.
 
 ## Art. 12. — Modifiche alla legge 11 febbraio 1994, n. 109
 
 1.
 
-All'[articolo 2, comma 2, lettera c), della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_2-com2-letc), e successive modificazioni, le parole "ed edifici industriali" sono soppresse.
+All'[articolo 2, comma 2, lettera c), della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, le parole "ed edifici industriali" sono soppresse.
 
 ## Art. 13. — Entrata in vigore
 

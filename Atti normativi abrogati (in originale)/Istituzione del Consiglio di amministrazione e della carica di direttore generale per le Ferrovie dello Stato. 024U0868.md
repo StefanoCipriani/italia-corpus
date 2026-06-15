@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 30 aprile 1924, n. 596](Istituzione%20del%20Ministero%20delle%20comunicazioni.%20024U0596.md);
 
-Vista la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata dal [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728);
+Vista la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -51,11 +51,11 @@ Il Consiglio d'amministrazione e' presieduto dal Ministro per le comunicazioni, 
 -------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata i Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 luglio 1924, n. 1244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-07-19;1244), convertito senza modificazioni dalla [L. 3 aprile 1926, n. 693](Conversione%20in%20legge%20del%20R.%20decreto%2019%20luglio%201924%20n.%201244%20relativo%20alle%20modificazioni%20al%20R.%20decreto%20legge%2022%20maggio%201924%20n.%20868%20concernente%20la%20istituzione%20del%20Consiglio%20di%20amministrazion_7aa0cb0dc09b.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 luglio 1924, n. 1244](Modificazione%20al%20R.%20decreto-legge%2022%20maggio%201924%20n.%20868%20concernente%20listituzione%20del%20Consiglio%20di%20amministrazione%20e%20della%20carica%20di%20direttore%20generale%20per%20le%20ferrovie%20dello%20Stato.%20024U1244.md), convertito senza modificazioni dalla [L. 3 aprile 1926, n. 693](Conversione%20in%20legge%20del%20R.%20decreto%2019%20luglio%201924%20n.%201244%20relativo%20alle%20modificazioni%20al%20R.%20decreto%20legge%2022%20maggio%201924%20n.%20868%20concernente%20la%20istituzione%20del%20Consiglio%20di%20amministrazion_7aa0cb0dc09b.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
-Il direttore generale di cui al precedente articolo 1 e' classificato nel grado terzo dell'ordinamento gerarchico delle Amministrazioni dello Stato approvato con [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395). 
+Il direttore generale di cui al precedente articolo 1 e' classificato nel grado terzo dell'ordinamento gerarchico delle Amministrazioni dello Stato approvato con [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  E' in facolta' del Ministro per le comunicazioni di proporre la nomina per decreto Reale di non piu' di due vicedirettori generali o direttori aggiunti i quali coadiuveranno il direttore generale e lo sostituiranno in caso di assenza o di impedimento; essi saranno classificati pure al grado terzo dell'ordinamento gerarchico suddetto. 
  
@@ -69,7 +69,7 @@ Il Consiglio di amministrazione dovra' riunirsi, normalmente, due volte la setti
 
 ## Art. 5.
 
-E' incompatibile con la carica di membro del Consiglio di amministrazione delle ferrovie dello Stato soltanto quella di amministratore o consulente di altre imprese di trasporto o di societa' o ditte, che abbiano convenzioni con le Ferrovie dello Stato per trasporti, somministrazioni o lavori. Rimane pertanto abrogato il disposto dell'[art. 75 del R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728#art_75). 
+E' incompatibile con la carica di membro del Consiglio di amministrazione delle ferrovie dello Stato soltanto quella di amministratore o consulente di altre imprese di trasporto o di societa' o ditte, che abbiano convenzioni con le Ferrovie dello Stato per trasporti, somministrazioni o lavori. Rimane pertanto abrogato il disposto dell'[art. 75 del R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md). 
  
  L'ufficio di direttore generale e' incompatibile con quello di deputato al Parlamento e con qualunque altra carica elettiva.
 
@@ -89,20 +89,20 @@ Il Consiglio di amministrazione per le ferrovie dello Stato dovra' essere sentit
  
  6° Istituzione di liti attive e transazioni, quando il valore dell'oggetto controverso o transatto superi L. 75,000; 
  
- 7° Convenzioni per concessioni di binari di raccordo fatta eccezione per quelle di cui al comma h) del [R. decreto 8 febbraio 1923, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;598); convenzioni per scambi e nolo di materiale mobile, per uso di stazioni comuni e per servizi cumulativi e di corrispondenza con altre ferrovie ed imprese chi trasporti terrestri, marittimi, fluviali, lacuali ed aerei, nonche' convenzioni per abbuoni sulle tariffe vincolate a speciali condizioni; 
+ 7° Convenzioni per concessioni di binari di raccordo fatta eccezione per quelle di cui al comma h) del [R. decreto 8 febbraio 1923, n. 598](Che%20determina%20le%20attribuzioni%20e%20facolta%20dei%20capi%20compartimento%20e%20dei%20comitati%20di%20esercizio%20delle%20ferrovie%20dello%20Stato.%20023U0598.md); convenzioni per scambi e nolo di materiale mobile, per uso di stazioni comuni e per servizi cumulativi e di corrispondenza con altre ferrovie ed imprese chi trasporti terrestri, marittimi, fluviali, lacuali ed aerei, nonche' convenzioni per abbuoni sulle tariffe vincolate a speciali condizioni; 
  
  8° Convenzioni per servitu' temporanea, vendite e permute di relitti di terreno e altri immobili facenti parte del patrimonio ferroviario, previo il nulla osta dell'Amministrazione demaniale, quando il valore della parte da cedersi superi le L. 40,000; 
  
  9° Proposte di piante organiche e di norme riguardanti il personale; 
  
- 10° Promozioni al grado 1° delle tabelle di classificazione di cui al [R. decreto 6 dicembre 1923, n. 2651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-06;2651) e provvedimenti riguardanti i funzionari di grado superiore al 2° delle precitate tabelle di classificazione; 
+ 10° Promozioni al grado 1° delle tabelle di classificazione di cui al [R. decreto 6 dicembre 1923, n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md) e provvedimenti riguardanti i funzionari di grado superiore al 2° delle precitate tabelle di classificazione; 
  
  11° Ricorsi del personale nei limiti e con le norme stabilite dalla legge e dal regolamento; 
  
  12° Gratificazioni e sussidi al personale quando, secondo il regolamento, eccedono i limiti di competenza del direttore generale;  
  13° Norme relative ad anticipazioni di stipendio o paga al personale; 
  
- 14° Trattamento del trasporto di cui al [R. decreto 10 settembre 1923, n. 2641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-10;2641). Oltre che nei suindicati casi il Ministro dovra' sentire il parere del Consiglio d'amministrazione sugli altri affari gia' deferiti al Consiglio dalle [leggi 7 luglio 1907, n. 429; 9 luglio 1908, n. 118; 25 giugno 1909, numero 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md), modificate dal [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728), e successive, nonche' dalla [legge 19 giugno 1923, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-19;641). 
+ 14° Trattamento del trasporto di cui al [R. decreto 10 settembre 1923, n. 2641](Modificazioni%20alle%20disposizioni%20vigenti%20in%20materia%20di%20tariffe%20ferroviarie.%20023U2641.md). Oltre che nei suindicati casi il Ministro dovra' sentire il parere del Consiglio d'amministrazione sugli altri affari gia' deferiti al Consiglio dalle [leggi 7 luglio 1907, n. 429; 9 luglio 1908, n. 118; 25 giugno 1909, numero 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md), modificate dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), e successive, nonche' dalla [legge 19 giugno 1923, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-19;641). 
  
  A richiesta del Ministro, il Consiglio dara' il parere su ogni altro argomento che interessi il buon andamento della Amministrazione e del servizio ferroviario.
 
@@ -116,7 +116,7 @@ Il direttore generale, presenta al Ministro per le comunicazioni, entro il mese 
 
 ## Art. 9.
 
-L'[art. 10 del R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728#art_10), che determina i poteri e le facolta' del direttore generale, fermo restando quanto e' disposto per le [lettere d)](Che%20stabilisce%20i%20nuovi%20quadri%20di%20classificazione%20degli%20stipendi%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20apporta%20altresi%20modificazioni%20alla%20legge%20organica%20delle%20ferrovie%20medesime.%20021U0368.md) ed [h) dalla legge 7 aprile 1921, n. 368](Che%20stabilisce%20i%20nuovi%20quadri%20di%20classificazione%20degli%20stipendi%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20apporta%20altresi%20modificazioni%20alla%20legge%20organica%20delle%20ferrovie%20medesime.%20021U0368.md), e' modificato nei punti seguenti: 
+L'[art. 10 del R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), che determina i poteri e le facolta' del direttore generale, fermo restando quanto e' disposto per le [lettere d)](Che%20stabilisce%20i%20nuovi%20quadri%20di%20classificazione%20degli%20stipendi%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20apporta%20altresi%20modificazioni%20alla%20legge%20organica%20delle%20ferrovie%20medesime.%20021U0368.md) ed [h) dalla legge 7 aprile 1921, n. 368](Che%20stabilisce%20i%20nuovi%20quadri%20di%20classificazione%20degli%20stipendi%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20apporta%20altresi%20modificazioni%20alla%20legge%20organica%20delle%20ferrovie%20medesime.%20021U0368.md), e' modificato nei punti seguenti: 
  
  comma b) abrogato; 
  
@@ -124,17 +124,17 @@ L'[art. 10 del R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-
  
  comma f) di approvare i contratti ad asta pubblica e licitazione privata d'importo fino a L. 200,000 e quelli a trattativa privata di importo fino a L. 50,000 ed eccedenti le competenze dei capi compartimento. 
  
- Le attribuzioni ed i poteri relativi alla gestione dei mutui a favore delle Cooperative edilizie ferroviarie, devoluti al Commissario straordinario col [R. decreto 18 marzo 1923, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-18;641), sono restituiti al direttore generale. 
+ Le attribuzioni ed i poteri relativi alla gestione dei mutui a favore delle Cooperative edilizie ferroviarie, devoluti al Commissario straordinario col [R. decreto 18 marzo 1923, n. 641](Che%20demanda%20al%20commissario%20straordinario%20per%20le%20Ferrovie%20dello%20Stato%20le%20attribuzioni%20del%20direttore%20generale%20riferentisi%20alla%20gestione%20dei%20mutui%20a%20favore%20delle%20Cooperative%20edilizie%20ferrovi_f6cc7985d554.md), sono restituiti al direttore generale. 
  
- Nei casi nei quali la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata dal [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728), prescrive la delibera o il parere conforme o favorevole del Consiglio di amministrazione, e' richiesto solamente il parere.
+ Nei casi nei quali la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), prescrive la delibera o il parere conforme o favorevole del Consiglio di amministrazione, e' richiesto solamente il parere.
 
 ## Art. 10.
 
-Fatta eccezione per quanto riguarda il servizio delle nuove costruzioni ferroviarie di cui all'[art. 4 del R. decreto-legge 30 aprile 1924, n. 596](Istituzione%20del%20Ministero%20delle%20comunicazioni.%20024U0596.md), sono devoluti, ad ogni effetto, al Ministro per le comunicazioni tutti gli altri poteri e facolta' riflettenti l'Amministrazione ferroviaria che per la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata con [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728) e con successive disposizioni, erano di spettanza del Ministro per lavori pubblici.
+Fatta eccezione per quanto riguarda il servizio delle nuove costruzioni ferroviarie di cui all'[art. 4 del R. decreto-legge 30 aprile 1924, n. 596](Istituzione%20del%20Ministero%20delle%20comunicazioni.%20024U0596.md), sono devoluti, ad ogni effetto, al Ministro per le comunicazioni tutti gli altri poteri e facolta' riflettenti l'Amministrazione ferroviaria che per la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata con [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md) e con successive disposizioni, erano di spettanza del Ministro per lavori pubblici.
 
 ## Art. 11.
 
-Ai fini della dichiarazione di pubblica utilita' e dell'urgenza e della indifferibilita' dei lavori occorrenti sulle Ferrovie esercitate dallo Stato e di cui all'[art. 76 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata dall'[art. 1 del R. decreto 24 settembre 1923, n. 2119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2119#art_1), il voto favorevole del Consiglio d'amministrazione sui relativi progetti di lavori, equivale all'approvazione dei progetti stessi.
+Ai fini della dichiarazione di pubblica utilita' e dell'urgenza e della indifferibilita' dei lavori occorrenti sulle Ferrovie esercitate dallo Stato e di cui all'[art. 76 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata dall'[art. 1 del R. decreto 24 settembre 1923, n. 2119](Semplificazioni%20nel%20procedimento%20espropriativo%20per%20le%20opere%20interessanti%20le%20ferrovie%20dello%20Stato.%20023U2119.md), il voto favorevole del Consiglio d'amministrazione sui relativi progetti di lavori, equivale all'approvazione dei progetti stessi.
 
 ## Art. 12.
 

@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  Noi abbiamo sanzionato e promulghiamo quanto segue: 
  Articolo unico. 
  
- Il diritto fisso di raccomandazione dei giornali e stampe periodiche ammessi al trattamento previsto dagli articoli 26 e 27 del testo unico delle leggi postali approvato con [R. decreto 24 dicembre 1899, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-24;501), e successive modificazioni, e delle stampe propagandistiche non periodiche cui e' applicabile il trattamento del R. decreto-legge 4 ottobre 1934-XII, n. 1746, e' stabilito in L.
+ Il diritto fisso di raccomandazione dei giornali e stampe periodiche ammessi al trattamento previsto dagli articoli 26 e 27 del testo unico delle leggi postali approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), e successive modificazioni, e delle stampe propagandistiche non periodiche cui e' applicabile il trattamento del R. decreto-legge 4 ottobre 1934-XII, n. 1746, e' stabilito in L.
 0,30. 
  L'indennizzo da corrispondersi in caso di smarrimento o perdita totale del contenuto, non cagionati da forza maggiore, per le raccomandate considerate al comma precedente, e' fissato in L. 7,50. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 

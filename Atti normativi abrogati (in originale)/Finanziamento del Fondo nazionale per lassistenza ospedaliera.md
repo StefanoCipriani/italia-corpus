@@ -16,11 +16,11 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il fabbisogno finanziario del Fondo nazionale per l'assistenza ospedaliera di cui all'[articolo 14 del decreto-legge 8 luglio 1974, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-08;264#art_14), convertito, con modificazioni, nella [legge 17 agosto 1974, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-17;386), e' stabilito, conformemente alle indicazioni contenute nella delibera 5 maggio 1976 del CIPE, in lire 3.300 miliardi per l'anno 1975 e in lire 3.750 miliardi per l'anno 1976.
+Il fabbisogno finanziario del Fondo nazionale per l'assistenza ospedaliera di cui all'[articolo 14 del decreto-legge 8 luglio 1974, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-08;264#art_14), convertito, con modificazioni, nella [legge 17 agosto 1974, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20luglio%201974%20n.%20264%20recante%20norme%20per%20lestinzione%20dei%20debiti%20degli%20enti%20mutualistici%20nei%20confronti%20degli%20enti%20ospedalieri%20il%20fina_ef5b4372aa6d.md), e' stabilito, conformemente alle indicazioni contenute nella delibera 5 maggio 1976 del CIPE, in lire 3.300 miliardi per l'anno 1975 e in lire 3.750 miliardi per l'anno 1976.
 
 ## Art. 2.
 
-Ad integrazione dell'apporto previsto al secondo comma, punto 6), dell'[articolo 14 della legge 17 agosto 1974, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-17;386#art_14), e' autorizzata la concessione a carico dello Stato di un contributo di 1.650 miliardi di lire a favore del Fondo nazionale per l'assistenza ospedaliera, corrispondente alla differenza fra gli importi indicati nel precedente articolo 1 e le somme affluite per gli anni 1975 e 1976 al Fondo stesso.
+Ad integrazione dell'apporto previsto al secondo comma, punto 6), dell'[articolo 14 della legge 17 agosto 1974, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20luglio%201974%20n.%20264%20recante%20norme%20per%20lestinzione%20dei%20debiti%20degli%20enti%20mutualistici%20nei%20confronti%20degli%20enti%20ospedalieri%20il%20fina_ef5b4372aa6d.md), e' autorizzata la concessione a carico dello Stato di un contributo di 1.650 miliardi di lire a favore del Fondo nazionale per l'assistenza ospedaliera, corrispondente alla differenza fra gli importi indicati nel precedente articolo 1 e le somme affluite per gli anni 1975 e 1976 al Fondo stesso.
 
 ## Art. 3.
 

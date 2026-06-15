@@ -10,25 +10,25 @@ vigente: true
 
 ## Art. 1.
 
-Le disposizioni del [R. decreto-legge 14 novembre 1929, numero 2088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-14;2088), sono applicabili per la riparazione di danni in dipendenza di alluvioni, frane e mareggiate dell'autunno-inverno 1929-1930 in Basilicata, in Calabria, in Sardegna, in Sicilia e nelle provincie di Ascoli Piceno e di Macerata. 
+Le disposizioni del [R. decreto-legge 14 novembre 1929, numero 2088](Provvedimenti%20per%20i%20danni%20verificatisi%20nelle%20provincie%20di%20Potenza%20Matera%20Salerno%20Cagliari%20Bari%20e%20Avellino%20in%20seguito%20alle%20alluvioni%20dellestate-autunno%201929.%20029U2088.md), sono applicabili per la riparazione di danni in dipendenza di alluvioni, frane e mareggiate dell'autunno-inverno 1929-1930 in Basilicata, in Calabria, in Sardegna, in Sicilia e nelle provincie di Ascoli Piceno e di Macerata. 
  
- All'uopo e' autorizzata la complessiva spesa di L. 40.000.000 in aggiunta a quella di cui all'art. 1 del citato [R. decreto-legge 14 novembre 1929, n. 2088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-14;2088). 
+ All'uopo e' autorizzata la complessiva spesa di L. 40.000.000 in aggiunta a quella di cui all'art. 1 del citato [R. decreto-legge 14 novembre 1929, n. 2088](Provvedimenti%20per%20i%20danni%20verificatisi%20nelle%20provincie%20di%20Potenza%20Matera%20Salerno%20Cagliari%20Bari%20e%20Avellino%20in%20seguito%20alle%20alluvioni%20dellestate-autunno%201929.%20029U2088.md). 
  
  La maggiore spesa di L. 40.000.000 sara' iscritta nella parte straordinaria degli stati di previsione della spesa del Ministero dei lavori pubblici per L. 8.000.000 nell'esercizio 1029-1930, per L. 10.000.000 nell'esercizio 1930-31 e per lire 11.000.000 in ciascuno degli esercizi 1931-32 e 1932-33.
 
 ## Art. 2.
 
-Le domande per concessione di sussidi da parte di enti locali per le opere di cui alle [lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-14;2088#art_1-letd) ed [e) dell'art. 1 del R. decreto-legge 14 novembre 1929, n. 2088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-14;2088#art_1-lete), devono essere presentate, con le perizie dei lavori da eseguire, al Ministero dei lavori pubblici o ai Provveditorati alle opere pubbliche, entro il 30 giugno 1930.
+Le domande per concessione di sussidi da parte di enti locali per le opere di cui alle [lettere d)](Provvedimenti%20per%20i%20danni%20verificatisi%20nelle%20provincie%20di%20Potenza%20Matera%20Salerno%20Cagliari%20Bari%20e%20Avellino%20in%20seguito%20alle%20alluvioni%20dellestate-autunno%201929.%20029U2088.md) ed [e) dell'art. 1 del R. decreto-legge 14 novembre 1929, n. 2088](Provvedimenti%20per%20i%20danni%20verificatisi%20nelle%20provincie%20di%20Potenza%20Matera%20Salerno%20Cagliari%20Bari%20e%20Avellino%20in%20seguito%20alle%20alluvioni%20dellestate-autunno%201929.%20029U2088.md), devono essere presentate, con le perizie dei lavori da eseguire, al Ministero dei lavori pubblici o ai Provveditorati alle opere pubbliche, entro il 30 giugno 1930.
 
 ## Art. 3.
 
-Le domande per la concessione di sussidi a norma dell'[articolo 1, lettera f), del R. decreto-legge 14 novembre 1929, n. 2088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-14;2088#art_1-letf), per la riparazione o la ricostruzione di case di abitazione di proprieta' privata, site in centri abitati e danneggiate o distrutte dalle alluvioni o da frane, di cui all'art. 1 della presente legge, devono essere presentate al Ministero dei lavori pubblici o ai Provveditorati alle opere pubbliche, entro il 30 giugno 1930. 
+Le domande per la concessione di sussidi a norma dell'[articolo 1, lettera f), del R. decreto-legge 14 novembre 1929, n. 2088](Provvedimenti%20per%20i%20danni%20verificatisi%20nelle%20provincie%20di%20Potenza%20Matera%20Salerno%20Cagliari%20Bari%20e%20Avellino%20in%20seguito%20alle%20alluvioni%20dellestate-autunno%201929.%20029U2088.md), per la riparazione o la ricostruzione di case di abitazione di proprieta' privata, site in centri abitati e danneggiate o distrutte dalle alluvioni o da frane, di cui all'art. 1 della presente legge, devono essere presentate al Ministero dei lavori pubblici o ai Provveditorati alle opere pubbliche, entro il 30 giugno 1930. 
  
  Agli effetti dell'aumento del sussidio, nei limiti di cui all'art. 5 del citato R. decreto-legge 14 novembre 1929, i lavori di riparazione delle case private devono essere ultimati entro quattro mesi dalla comunicazione della perizia dei lavori da eseguire ed i lavori di ricostruzione devono essere ultimati entro dieci mesi dalla comunicazione della perizia.
 
 ## Art. 4.
 
-Al [2° comma dell'art. 7 del R. decreto-legge 14 novembre 1929, n. 2088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-14;2088#art_7-com2), e' sostituito il seguente: 
+Al [2° comma dell'art. 7 del R. decreto-legge 14 novembre 1929, n. 2088](Provvedimenti%20per%20i%20danni%20verificatisi%20nelle%20provincie%20di%20Potenza%20Matera%20Salerno%20Cagliari%20Bari%20e%20Avellino%20in%20seguito%20alle%20alluvioni%20dellestate-autunno%201929.%20029U2088.md), e' sostituito il seguente: 
  
  «Tutti gli atti e contratti che possano occorrere fino al 31 dicembre 1931, per l'esecuzione delle opere di cui al presente decreto, sono esenti da ogni tassa di bollo, di registro, sulle concessioni governative. L'esonero si estende anche agli eventuali diritti catastali ed alle tasse ipotecarie, fatta eccezione degli emolumenti ai conservatori delle ipoteche».
 

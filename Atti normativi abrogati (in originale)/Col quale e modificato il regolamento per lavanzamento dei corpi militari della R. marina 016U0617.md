@@ -20,9 +20,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re colla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re colla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visti la [legge 6 marzo 1898, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;59), sull'avanzamento dei corpi militari della R. marina ed il regolamento per la sua esecuzione in data 4 settembre stesso anno, n. 444, nonche' le successive leggi e decreti che l'una e l'altro modificarono; 
+ Visti la [legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md), sull'avanzamento dei corpi militari della R. marina ed il regolamento per la sua esecuzione in data 4 settembre stesso anno, n. 444, nonche' le successive leggi e decreti che l'una e l'altro modificarono; 
  
  Udito il Consiglio dei ministri; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- L'art. 108-A del vigente regolamento per l'avanzamento dei corpi militari della R. marina, nella dizione approvata coi [Regi decreti 29 giugno 1913, n. 880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-29;880), e [5 marzo 1914, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-03-05;207), e' sostituito dal seguente: 
+ L'art. 108-A del vigente regolamento per l'avanzamento dei corpi militari della R. marina, nella dizione approvata coi [Regi decreti 29 giugno 1913, n. 880](Col%20quale%20vengono%20approvate%20le%20modificazioni%20ed%20aggiunte%20al%20regolamento%20approvato%20col%20R.%20decreto%204%20settembre%201898%20n.%20444%20riguardante%20lavanzamento%20nei%20corpi%20militari%20della%20R.%20marina.%20013U0880.md), e [5 marzo 1914, n. 207](Col%20quale%20vengono%20approvate%20alcune%20varianti%20al%20regolamento%20sullavanzamento%20dei%20corpi%20della%20R.%20marina.%20014U0207.md), e' sostituito dal seguente: 
  
  « La Commissione suprema di avanzamento si compone degli ufficiali aventi il grado di ammiraglio, di tutti i vice ammiragli aventi carica a bordo e dei vice ammiragli che ricoprono le cariche di presidente del Consiglio superiore di marina, di capo di stato maggiore della marina e di comandante in capo di dipartimento marittimo. 
  

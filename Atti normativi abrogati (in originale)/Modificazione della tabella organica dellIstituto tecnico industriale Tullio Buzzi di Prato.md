@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
- Visto il [regio decreto 22 luglio 1939, n. 1530](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-22;1530), con il quale viene dal 16 ottobre 1937 approvata la tabella organica dell'Istituto tecnico industriale "Tullio Buzzi" di Prato;
+ Visto il [regio decreto 22 luglio 1939, n. 1530](Modificazioni%20allo%20statuto%20ed%20alla%20tabella%20organica%20del%20Regio%20istituto%20tecnico%20industriale%20di%20Prato.%20039U1530.md), con il quale viene dal 16 ottobre 1937 approvata la tabella organica dell'Istituto tecnico industriale "Tullio Buzzi" di Prato;
  Visto il [decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107);
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

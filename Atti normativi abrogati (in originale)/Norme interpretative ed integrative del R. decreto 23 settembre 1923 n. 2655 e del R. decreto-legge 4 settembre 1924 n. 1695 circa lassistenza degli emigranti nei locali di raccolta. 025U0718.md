@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'art. 69, comma 9°, del testo unico della legge sull'emigrazione, approvato con [R. decreto 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-13;2205);
 
-Visto il [R. decreto 23 settembre 1923, n. 2655](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-23;2655), concernente la costruzione di ricoveri e di asili per emigranti;
+Visto il [R. decreto 23 settembre 1923, n. 2655](Costruzione%20di%20ricoveri%20ed%20asili%20per%20emigranti.%20023U2655.md), concernente la costruzione di ricoveri e di asili per emigranti;
 
 Visto il [R. decreto-legge 4 settembre 1924, n. 1695](Autorizzazione%20al%20Commissariato%20generale%20dellemigrazione%20ad%20acquistare%20gli%20edifici%20e%20le%20aree%20occorrenti%20per%20la%20costruzione%20di%20ricoveri%20ed%20asili%20per%20emigranti%20nei%20porti%20dimbarco%20e%20nelle%20st_6b9471c76a56.md), col quale si concede al Commissariato generale dell'emigrazione l'autorizzazione di acquistare gli edifici e le aree occorrenti per la costruzione di ricoveri e di asili per emigranti nei porti d'imbarco e nelle stazioni di transito;
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di
 
 ## Art. 1.
 
-La facolta' concessa al Commissariato generale dell'emigrazione di ordinare la requisizione temporanea di aree e locali di qualsiasi natura per adibirli a ricoveri di emigranti, di cui all'[art. 2 del R. decreto 23 settembre 1923, n. 2655](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-23;2655#art_2), e alle norme relative, potra' essere esercitata anche in ordine a requisizione da effettuarsi nei paesi di transito o posti di confine.
+La facolta' concessa al Commissariato generale dell'emigrazione di ordinare la requisizione temporanea di aree e locali di qualsiasi natura per adibirli a ricoveri di emigranti, di cui all'[art. 2 del R. decreto 23 settembre 1923, n. 2655](Costruzione%20di%20ricoveri%20ed%20asili%20per%20emigranti.%20023U2655.md), e alle norme relative, potra' essere esercitata anche in ordine a requisizione da effettuarsi nei paesi di transito o posti di confine.
 
 ## Art. 2.
 

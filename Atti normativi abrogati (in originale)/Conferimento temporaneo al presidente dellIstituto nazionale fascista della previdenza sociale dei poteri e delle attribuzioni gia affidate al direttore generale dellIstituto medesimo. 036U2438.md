@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto l'[art. 20 del R. decreto-legge 4 ottobre 1935, numero 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_20), convertito nella [legge 6 aprile 1936, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155);
+Veduto l'[art. 20 del R. decreto-legge 4 ottobre 1935, numero 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_20), convertito nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md);
 
 Ritenuta la necessita' urgente ed assoluta di affidare, temporaneamente, al presidente dell'Istituto nazionale fascista della previdenza sociale, i poteri del direttore generale per rendere piu' facile l'adeguamento della struttura dell'Istituto alle sue accresciute funzioni amministrative e politico-sociali;
 

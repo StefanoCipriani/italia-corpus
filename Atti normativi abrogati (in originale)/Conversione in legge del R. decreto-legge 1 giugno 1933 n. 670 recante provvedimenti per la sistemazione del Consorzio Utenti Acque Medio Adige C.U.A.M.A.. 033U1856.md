@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° giugno 1933, n. 670](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-01;670), recante provvedimenti per la sistemazione del Consorzio Utenti Acque Medio Adige (C.U.A.M.A.). 
+ E' convertito in legge il [R. decreto-legge 1° giugno 1933, n. 670](Provvedimenti%20per%20la%20sistemazione%20del%20Consorzio%20Utenti%20Acque%20Medio%20Adige%20C.U.A.M.A..%20033U0670.md), recante provvedimenti per la sistemazione del Consorzio Utenti Acque Medio Adige (C.U.A.M.A.). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e' di farla osservare come legge dello Stato. 
  

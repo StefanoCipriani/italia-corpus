@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 13 della legge 7 luglio 1905, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-07;350#art_13), col quale vennero dallo Stato abbuonate al Credito fondiario (in liquidazione) del Banco di Napoli l'imposta di ricchezza mobile e la tassa di circolazione dovute sulle cartelle fondiarie 3,50 0_0 netto emesse dal detto Istituto;
+Visto l'[art. 13 della legge 7 luglio 1905, n. 350](Provvedimenti%20a%20favore%20dei%20mutuatari%20del%20Credito%20fondiario%20in%20liquidazione%20del%20Banco%20di%20Napoli%20e%20sistemazione%20dei%20rapporti%20del%20Credito%20fondiario%20col%20Banco%20di%20Napoli.%20005U0350.md), col quale vennero dallo Stato abbuonate al Credito fondiario (in liquidazione) del Banco di Napoli l'imposta di ricchezza mobile e la tassa di circolazione dovute sulle cartelle fondiarie 3,50 0_0 netto emesse dal detto Istituto;
 
 Vista la deliberazione 27 marzo 1918; con la quale il Consiglio generale del Banco stabilisce di rinunciare al detto abbuono, a partire dal 1° gennaio 1918;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto col m
 
 ## Art. 1.
 
-L'abbuono dell'imposta di ricchezza mobile e della tassa di circolazione dovute sulle cartelle del Credito fondiario (in liquidazione) del Banco di Napoli, concesso con l'[art. 13 della legge 7 luglio 1905, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-07;350#art_13), cessera' a partire dal 1° gennaio 1918.
+L'abbuono dell'imposta di ricchezza mobile e della tassa di circolazione dovute sulle cartelle del Credito fondiario (in liquidazione) del Banco di Napoli, concesso con l'[art. 13 della legge 7 luglio 1905, n. 350](Provvedimenti%20a%20favore%20dei%20mutuatari%20del%20Credito%20fondiario%20in%20liquidazione%20del%20Banco%20di%20Napoli%20e%20sistemazione%20dei%20rapporti%20del%20Credito%20fondiario%20col%20Banco%20di%20Napoli.%20005U0350.md), cessera' a partire dal 1° gennaio 1918.
 
 ## Art. 2.
 

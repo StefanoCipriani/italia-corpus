@@ -92,7 +92,7 @@ Al comune di Acqui sono estese le disposizioni dell'[articolo 4 della legge 2 lu
 
 Tutti gli atti e provvedimenti inerenti alla assunzione dei beni, alla sistemazione del compendio termale ed al collocamento dell'esercizio, sono considerati, agli effetti tributari, compiuti nell'interesse dello Stato. 
  
- Alle convenzioni previste dalla presente legge, ed alle loro eventuali modificazioni sono applicabili le disposizioni del [secondo comma dell'art. 3 del R. decreto-legge 5 luglio 1934, n. 1180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1180#art_3-com2), convertito nella [legge 1° aprile 1935, n. 539, e dell'art. 10](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20luglio%201934%20n.%201180%20concernente%20la%20sistemazione%20del%20compendio%20termale%20di%20Roncegno.%20035U0539.md) allegato B, del [R. decreto-legge 15 novembre 1937, n. 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-11-15;1924).
+ Alle convenzioni previste dalla presente legge, ed alle loro eventuali modificazioni sono applicabili le disposizioni del [secondo comma dell'art. 3 del R. decreto-legge 5 luglio 1934, n. 1180](Sistemazione%20del%20compendio%20termale%20di%20Roncegno.%20034U1180.md), convertito nella [legge 1° aprile 1935, n. 539, e dell'art. 10](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20luglio%201934%20n.%201180%20concernente%20la%20sistemazione%20del%20compendio%20termale%20di%20Roncegno.%20035U0539.md) allegato B, del [R. decreto-legge 15 novembre 1937, n. 1924](Provvedimenti%20vari%20in%20materia%20di%20tasse%20ed%20imposte%20indirette%20sugli%20affari.%20037U1924.md).
 
 ## Art. 16.
 

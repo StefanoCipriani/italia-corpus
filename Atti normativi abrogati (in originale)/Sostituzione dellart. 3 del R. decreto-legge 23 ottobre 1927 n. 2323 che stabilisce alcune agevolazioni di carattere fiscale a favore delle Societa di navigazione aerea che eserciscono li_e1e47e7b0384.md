@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'[art. 3 del R. decreto-legge 23 ottobre 1927, n. 2323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2323#art_3), e' sostituito dal seguente: 
+ L'[art. 3 del R. decreto-legge 23 ottobre 1927, n. 2323](Agevolazioni%20fiscali%20alle%20societa%20assuntrici%20di%20linee%20aeree%20commerciali.%20027U2323.md), e' sostituito dal seguente: 
  
  «E' altresi' concessa a favore delle Societa' suindicate: a) la riduzione al quarto della misura normale della tassa di negoziazione tanto sulle azioni quanto sulle obbligazioni; b) la esenzione dalle tasse di bollo, scambio, assicurazioni e dai diritti di segreteria, per le convenzioni relative all'esercizio delle linee aeree e per tutti gli atti inerenti e conseguenti ad esso, compresi i contratti di appalto, di fornitura e di assicurazione, nonche' gli atti comprovanti i successivi aumenti di capitale. 
  

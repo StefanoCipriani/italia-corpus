@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 luglio 1928, n. 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-07-27;1959), che determina la decorrenza della pensione straordinaria concessa alla vedova di Francesco Rismondo. 
+ E' convertito in legge il [R. decreto-legge 27 luglio 1928, n. 1959](Determinazione%20della%20decorrenza%20della%20pensione%20straordinaria%20concessa%20alla%20vedova%20di%20Francesco%20Rismondo.%20028U1959.md), che determina la decorrenza della pensione straordinaria concessa alla vedova di Francesco Rismondo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

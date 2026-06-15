@@ -18,13 +18,13 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-In virtu' dell'autorita' a Noi delegata e dei poteri al Governo conferiti della [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In virtu' dell'autorita' a Noi delegata e dei poteri al Governo conferiti della [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e viste le modificazioni successive;
 
-Vista la [legge 30 giugno 1908, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;335), sulla pignorabilita' e sequestrabilita' degli stipendi e delle pensioni e sulla cessione degli stipendi dei funzionari delle Amministrazioni pubbliche;
+Vista la [legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md), sulla pignorabilita' e sequestrabilita' degli stipendi e delle pensioni e sulla cessione degli stipendi dei funzionari delle Amministrazioni pubbliche;
 
-Visto il regolamento approvato con [R. decreto 24 settembre 1908, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-09-24;574), per la esecuzione della legge suddetta;
+Visto il regolamento approvato con [R. decreto 24 settembre 1908, n. 574](Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20sulla%20pignorabilita%20e%20sulla%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20sulla%20cessione%20degli%20stipendi%20dei%20funzionari%20d_90469592ae47.md), per la esecuzione della legge suddetta;
 
 Udito il Consiglio dei ministri;
 
@@ -34,11 +34,11 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto coi m
 
 Ai genitori indigenti del militare morto a causa della guerra, o dichiarato irreperibile, o deceduto in istato di prigionia presso il nemico, spetta, a titolo di alimenti, una quota della pensione liquidata alla vedova, o dell'indennita', che le sia assegnata in caso di passaggio a nuove nozze, anche se manchino, o vengano a morire i figli nati dall'unione di essa col militare ed i loro discendenti. 
  
- Tale quota non puo' eccedere il limite stabilito dall'[art. 2, n. 1, della legge 30 giugno 1908, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;335#art_2-num1), e, fino alla concorrenza della quota stessa, sono ammessi il pignoramento ed il sequestro a favore degli aventi diritto.
+ Tale quota non puo' eccedere il limite stabilito dall'[art. 2, n. 1, della legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md), e, fino alla concorrenza della quota stessa, sono ammessi il pignoramento ed il sequestro a favore degli aventi diritto.
 
 ## Art. 2.
 
-Nei casi previsti dal precedente articolo, le azioni degli interessati sono di competenza del pretore, qualunque sia il valore della causa: e devono osservarsi, in quanto siano applicabili, le altre disposizioni della citata, legge del 30 giugno 1908, e del regolamento approvato, per l'esecuzione della medesima, col [R. decreto 24 settembre 1908, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-09-24;574). 
+Nei casi previsti dal precedente articolo, le azioni degli interessati sono di competenza del pretore, qualunque sia il valore della causa: e devono osservarsi, in quanto siano applicabili, le altre disposizioni della citata, legge del 30 giugno 1908, e del regolamento approvato, per l'esecuzione della medesima, col [R. decreto 24 settembre 1908, n. 574](Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20sulla%20pignorabilita%20e%20sulla%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20sulla%20cessione%20degli%20stipendi%20dei%20funzionari%20d_90469592ae47.md). 
  
  Nulla e' innovato alle norme vigenti sulla liquidazione delle pensioni o indennita' anzidette.
 

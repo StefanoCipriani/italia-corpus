@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Riconosciuta la urgente necessita' di rimuovere gli inconvenienti verificatisi, specialmente durante lo stato di guerra, nel servizio degli Economati negli uffici delle antichita' e belle arti;
 
-Vista la [legge 27 giugno 1907, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-27;386);
+Vista la [legge 27 giugno 1907, n. 386](Riguardante%20il%20Consiglio%20superiore%20gli%20uffici%20e%20il%20personale%20delle%20antichita%20e%20belle%20arti.%20007U0386.md);
 
 Udito il Consiglio dei ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per la pubblica istruzione di co
 
 ## Art. 1.
 
-Durante lo stato di guerra e fino a quando non siasi altrimenti provveduto, l'[art. 20 della legge 27 giugno 1907, n.386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-27;386#art_20) e' sostituito dal seguente articolo: 
+Durante lo stato di guerra e fino a quando non siasi altrimenti provveduto, l'[art. 20 della legge 27 giugno 1907, n.386](Riguardante%20il%20Consiglio%20superiore%20gli%20uffici%20e%20il%20personale%20delle%20antichita%20e%20belle%20arti.%20007U0386.md) e' sostituito dal seguente articolo: 
  
  «L'ufficio di economo sara' affidato con decreto del ministro della Istruzione pubblica ad uno degli impiegati addetti all'Istituto, escluso il direttore o chi ne faccia le veci, purche' ne abbia le necessarie attitudini e presti la dovuta cauzione. Egli terra' la cassa dell'Ufficio e avra' in consegna, sotto la propria responsabilita', gli arredi dell'Istituto. 
  

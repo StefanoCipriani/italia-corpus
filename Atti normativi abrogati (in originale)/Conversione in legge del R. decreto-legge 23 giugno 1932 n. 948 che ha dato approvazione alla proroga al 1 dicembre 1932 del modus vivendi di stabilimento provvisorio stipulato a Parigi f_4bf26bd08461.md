@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1932, n. 948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-06-23;948) che ha dato approvazione alla proroga al 1° dicembre 1932 del modus vivendi di stabilimento provvisorio, stipulato a Parigi tra l'Italia e la Francia, il 3 dicembre 1927, proroga conclusa con scambio di note che ha avuto luogo a Parigi il 20 maggio 1932. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1932, n. 948](Proroga%20al%201%20dicembre%201932%20del%20modus%20vivendi%20italo%20-%20francese%20del%201927.%20032U0948.md) che ha dato approvazione alla proroga al 1° dicembre 1932 del modus vivendi di stabilimento provvisorio, stipulato a Parigi tra l'Italia e la Francia, il 3 dicembre 1927, proroga conclusa con scambio di note che ha avuto luogo a Parigi il 20 maggio 1932. 
  
  Ordiniamo che la presente munita del sigillo dello Stato sia inserta nella raccolta ufficiale e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

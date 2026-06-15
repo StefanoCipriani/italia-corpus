@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 14 gennaio 1923, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-14;31), col quale venne istituita la Milizia volontaria per la sicurezza nazionale;
+Visto il [R. decreto 14 gennaio 1923, n. 31](Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), col quale venne istituita la Milizia volontaria per la sicurezza nazionale;
 
 Visto il [R. decreto 8 marzo 1923, n. 832](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-08;832), col quale sono state stabilite le norme per la costituzione, la formazione, il funzionamento e le chiamate della Milizia volontaria per la sicurezza nazionale;
 

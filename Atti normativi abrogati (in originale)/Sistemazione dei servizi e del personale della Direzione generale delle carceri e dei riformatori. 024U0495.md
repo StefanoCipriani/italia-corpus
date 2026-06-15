@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli articoli 5 e 8, ultimo comma del [R. decreto 2 dicembre 1923, n. 2572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2572);
+Visti gli articoli 5 e 8, ultimo comma del [R. decreto 2 dicembre 1923, n. 2572](Ordinamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20della%20giustizia%20e%20degli%20affari%20di%20culto.%20023U2572.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), annotazione (A) alla tabella n. 16, gruppo C, dell'allegato D, e annotazione (B) alla tabella n. 16 dell'allegato IV;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), annotazione (A) alla tabella n. 16, gruppo C, dell'allegato D, e annotazione (B) alla tabella n. 16 dell'allegato IV;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
@@ -68,7 +68,7 @@ Il numero dei posti nel ruolo del personale subalterno per il servizio della Dir
 
 ## Art. 4.
 
-Con decreto del Nostro Ministro proponente possono essere temporaneamente, e fino all'attuazione della riforma degli ordinamenti carcerari, destinati alla Direzione generale delle carceri e dei riformatori pei servizi speciali e senza aumento dei posti di ruolo stabiliti con il [R. decreto 11 novembre 1923, n.2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), funzionari ed agenti dell'Amministrazione carceraria in numero rispettivamente non superiore a 30 ed a 50, i quali continueranno, a tutti gli effetti, a far parte dei ruoli a cui appartengono. 
+Con decreto del Nostro Ministro proponente possono essere temporaneamente, e fino all'attuazione della riforma degli ordinamenti carcerari, destinati alla Direzione generale delle carceri e dei riformatori pei servizi speciali e senza aumento dei posti di ruolo stabiliti con il [R. decreto 11 novembre 1923, n.2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), funzionari ed agenti dell'Amministrazione carceraria in numero rispettivamente non superiore a 30 ed a 50, i quali continueranno, a tutti gli effetti, a far parte dei ruoli a cui appartengono. 
  
  I magistrati attualmente addetti alla suindicata Direzione generale possono, a tutti gli effetti, essere inclusi nel ruolo dei magistrati trattenuti al Ministero. Le disposizioni relative sono date con decreto Reale.
 

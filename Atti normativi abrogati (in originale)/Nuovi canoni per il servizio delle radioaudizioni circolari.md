@@ -16,29 +16,29 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562);
+Visto il [R. decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il [R. decreto-legge 17 novembre 1927, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-17;2207), convertito nella [legge 17 maggio 1928, n. 1350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-05-17;1350);
+Visto il [R. decreto-legge 17 novembre 1927, n. 2207](Nuove%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20delle%20radioaudizioni%20circolari.%20027U2207.md), convertito nella [legge 17 maggio 1928, n. 1350](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20novembre%201927%20n.%202207%20che%20reca%20le%20nuove%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20delle%20radioaudizioni%20circolari.%20028U1350.md);
 
 Visto il [R. decreto 3 agosto 1928, n. 2295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;2295);
 
-Visto il [R. decreto-legge 17 aprile 1931 n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-17;589), convertito nella [legge 21 dicembre 1931, n. 1823](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-12-21;1823);
+Visto il [R. decreto-legge 17 aprile 1931 n. 589](Disposizioni%20aggiuntive%20alle%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20della%20radiodiffusione.%20031U0589.md), convertito nella [legge 21 dicembre 1931, n. 1823](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%2017%20aprile%201931%20n.%20589%20recante%20disposizioni%20aggiuntive%20alle%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20della%20radio-diffusione.%20031U1823.md);
 
-Visto il [R. decreto-legge 3 marzo 1932, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-03-03;246), convertito nella [legge 23 maggio 1932, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-05-23;650);
+Visto il [R. decreto-legge 3 marzo 1932, n. 246](Provvedimenti%20riguardanti%20il%20servizio%20delle%20radiodiffusioni.%20032U0246.md), convertito nella [legge 23 maggio 1932, n. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20marzo%201932%20n.%20246%20portante%20provvedimenti%20riguardanti%20il%20servizio%20delle%20radiodiffusioni.%20032U0650.md);
 
-Visto il [R. decreto-legge 20 luglio 1934, n. 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1203), convertito nella [legge 28 marzo 1935, n. 857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-03-28;857);
+Visto il [R. decreto-legge 20 luglio 1934, n. 1203](Provvedimenti%20per%20lo%20sviluppo%20delle%20radiodiffusioni.%20034U1203.md), convertito nella [legge 28 marzo 1935, n. 857](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201203%20portante%20provvedimenti%20per%20lo%20sviluppo%20delle%20radiodiffusione.%20035U0857.md);
 
-Visto il [R. decreto-legge 9 maggio 1935, n. 714](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-09;714), convertito nella [legge 23 dicembre 1935, n. 2259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-23;2259);
+Visto il [R. decreto-legge 9 maggio 1935, n. 714](Variazioni%20in%20ordine%20alla%20applicazione%20della%20tassa%20radiofonica%20sulle%20valvole%20termojoniche.%20035U0714.md), convertito nella [legge 23 dicembre 1935, n. 2259](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%209%20maggio%201935-XIII%20n.%20714%20recante%20variazioni%20in%20ordine%20alla%20applicazione%20della%20tassa%20radiofonica%20sulle%20valvole%20termoioniche.%20035U2259.md);
 
-Visto il [R. decreto-legge 9 settembre 1937, n. 2041](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-09-09;2041), convertito nella [legge 31 marzo 1938, n. 706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-31;706);
+Visto il [R. decreto-legge 9 settembre 1937, n. 2041](Agevolazioni%20in%20materia%20di%20tasse%20radiofoniche%20a%20favore%20di%20organizzazioni%20del%20Regime%20e%20provvedimenti%20per%20lo%20sviluppo%20delle%20radioaudizioni%20circolari.%20037U2041.md), convertito nella [legge 31 marzo 1938, n. 706](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%209%20settembre%201937-XV%20n.%202041%20recante%20agevolazioni%20in%20materia%20di%20tasse%20radiofoniche%20a%20favore%20di%20organizzazioni%20del%20Regime%20e%20provvedimenti%20per%20lo_6a5344e44234.md);
 
 Visto il [R. decreto-legge 21 febbraio 1938, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-21;246), convertito nella [legge 4 giugno 1935, n 880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-04;880);
 
-Vista la [legge 26 marzo 1942, n. 406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-03-26;406);
+Vista la [legge 26 marzo 1942, n. 406](Agevolazioni%20in%20materia%20di%20abbonamenti%20alle%20radioaudizioni%20per%20impianti%20radiofonici%20centralizzati%20in%20quartieri%20e%20villaggi%20popolari.%20042U0406.md);
 
 Visto il [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 
-Visto il [decreto legislativo Luogotenenziale 21 dicembre 1944, n. 458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-21;458);
+Visto il [decreto legislativo Luogotenenziale 21 dicembre 1944, n. 458](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.%20044U0458.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -66,7 +66,7 @@ Per il primo pagamento da parte dei nuovi abbonati, l'utente che inizia l'abbona
 Nella misura del canone di abbonamento ordinario stabilita nei precedenti articoli, sono comprese:
  1) la tassa di versamento in conto corrente postale;
  2) la tassa di affrancatura per recapito a domicilio del libretto personale di iscrizione alle radioaudizioni;
- 3) l'imposta generale sull'entrata nella misura stabilita dal [decreto legislativo Luogotenenziale 19 ottobre 1944, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;348).
+ 3) l'imposta generale sull'entrata nella misura stabilita dal [decreto legislativo Luogotenenziale 19 ottobre 1944, n. 348](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposta%20generale%20sullentrata%20e%20di%20addizionale%20straordinaria%20di%20guerra.%20044U0348.md).
  In sede di ripartizione delle somme riscosse a titolo di canone di abbonamento alle radioaudizioni, l'amministrazione finanziaria provvedera' a versare in tesoreria in sull'apposito capitolo, l'imposta generale sull'entrata compresa nelle somme suddette.
  Pertanto, dall'entrata in vigore del presente decreto, le tasse e l'imposta, sopra menzionata non dovranno piu' essere separatamente corrisposte dallo utente.
 
@@ -83,7 +83,7 @@ Salva restando la disposizione dell' ultimo comma dell'[art. 10 del R. Decreto-l
 
 ## Art. 6.
 
-Il contributo fisso di abbonamento dovuto dagli stabilimenti balneari, kursaal, locali di ritrovo e di trattenimento, circoli, clubs e associazioni, e dagli stabilimenti termali e idroterapici di cui all'[art. 15 del R. decreto-legge 17 novembre 1927, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-17;2207#art_15), e all'[art. 5 del decreto legislativo Luogotenenziale 21 dicembre 1944, n. 458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-21;458#art_5), e' fissato nelle seguenti misure:
+Il contributo fisso di abbonamento dovuto dagli stabilimenti balneari, kursaal, locali di ritrovo e di trattenimento, circoli, clubs e associazioni, e dagli stabilimenti termali e idroterapici di cui all'[art. 15 del R. decreto-legge 17 novembre 1927, n. 2207](Nuove%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20delle%20radioaudizioni%20circolari.%20027U2207.md), e all'[art. 5 del decreto legislativo Luogotenenziale 21 dicembre 1944, n. 458](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.%20044U0458.md), e' fissato nelle seguenti misure:
 
 a) per gli stabilimenti termali e idroterapici
  (per ogni stabilimento)..................................L. 1.000 b) per gli stabilimenti balneari, marittimi, fluviali
@@ -101,7 +101,7 @@ a) per gli stabilimenti termali e idroterapici
  da 20.001 abitanti a 100.000............................ " 750
  da 109.001 in su........................................ " 1.500
 
- Rimane invariato il contributo fisso stabilito per i comuni dall'[art. 5 del decreto legislativo Luogotenenziale 21 dicembre 1944, n. 458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-21;458#art_5).
+ Rimane invariato il contributo fisso stabilito per i comuni dall'[art. 5 del decreto legislativo Luogotenenziale 21 dicembre 1944, n. 458](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.%20044U0458.md).
 
 ## Art. 7.
 
@@ -139,7 +139,7 @@ Gli utenti che non intendono sottostare al pagamento del canone di abbonamento n
 ## Art. 13.
 
 Le penalita' di cui agli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-21;246#art_19) e [20 del R. decretolegge 21 febbraio 1938, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-21;246#art_20), non si applicano ai detentori di apparecchi che non abbiano ancora contratto l'abbonamento e agli abbonati che non abbiano ancora pagato il canone, a condizione che provvedano a tali adempimenti entro il 31 marzo 1946.
- Le pene pecuniarie stabilite dall'[art. 21 del R. decreto-legge 23 ottobre 1925, n. 1947](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1947#art_21), e dall'[art. 2 del R. decreto-legge 9 maggio 1935, n. 714](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-09;714#art_2), non si applicano ai detentori di materiali radioelettrici che non abbiano corrisposto le tasse di fabbricazione, a condizione che essi provvedano entro il 31 marzo 1946 al pagamento delle tasse medesime nella misura prevista dall'art. 10 del presente decreto.
+ Le pene pecuniarie stabilite dall'[art. 21 del R. decreto-legge 23 ottobre 1925, n. 1947](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1947#art_21), e dall'[art. 2 del R. decreto-legge 9 maggio 1935, n. 714](Variazioni%20in%20ordine%20alla%20applicazione%20della%20tassa%20radiofonica%20sulle%20valvole%20termojoniche.%20035U0714.md), non si applicano ai detentori di materiali radioelettrici che non abbiano corrisposto le tasse di fabbricazione, a condizione che essi provvedano entro il 31 marzo 1946 al pagamento delle tasse medesime nella misura prevista dall'art. 10 del presente decreto.
 
 ## Art. 14.
 

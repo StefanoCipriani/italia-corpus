@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visti il [R. decreto 22 gennaio 1905, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-22;25), ed il Nostro decreto 31 dicembre 1915, n. 1944 riguardanti la istituzione e la ricostituzione del Consiglio tecnico per l'amministrazione dei sali; 
+ Visti il [R. decreto 22 gennaio 1905, n. 25](Che%20istituisce%20presso%20il%20Ministero%20delle%20finanze%20un%20Consiglio%20tecnico%20per%20lamministrazione%20dei%20sali.%20005U0025.md), ed il Nostro decreto 31 dicembre 1915, n. 1944 riguardanti la istituzione e la ricostituzione del Consiglio tecnico per l'amministrazione dei sali; 
  
  Sulla proposta del ministro segretario di Stato per le finanze; 
  

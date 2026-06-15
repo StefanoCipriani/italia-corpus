@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Fermo quanto previsto dalle disposizioni vigenti, i prefetti delle province siciliane, nell'ambito di operazioni di sicurezza e controllo del territorio e di prevenzione di delitti di criminalita' organizzata, sono autorizzati ad avvalersi di contingenti di personale militare delle Forze armate, posti a loro disposizione dalle competenti autorita' militari ai sensi dell'[articolo 13 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_13), e dell'articolo 19 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), e successive modificazioni, nonche' delle norme di esecuzione vigenti.
+Fermo quanto previsto dalle disposizioni vigenti, i prefetti delle province siciliane, nell'ambito di operazioni di sicurezza e controllo del territorio e di prevenzione di delitti di criminalita' organizzata, sono autorizzati ad avvalersi di contingenti di personale militare delle Forze armate, posti a loro disposizione dalle competenti autorita' militari ai sensi dell'[articolo 13 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_13), e dell'articolo 19 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni, nonche' delle norme di esecuzione vigenti.
 
 2.
 
@@ -66,7 +66,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 1.
 
-I militari in ferma di leva prolungata di cui all'[articolo 5 della legge 24 dicembre 1986, n. 958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-24;958#art_5), possono essere trattenuti, a domanda, per ulteriori due anni in aggiunta alla ferma triennale di cui al comma 1 dello stesso articolo 5, nel limite massimo annuale fissato con decreto del Ministro della difesa, di concerto con il Ministro del tesoro.
+I militari in ferma di leva prolungata di cui all'[articolo 5 della legge 24 dicembre 1986, n. 958](Norme%20sul%20servizio%20militare%20di%20leva%20e%20sulla%20ferma%20di%20leva%20prolungata.md), possono essere trattenuti, a domanda, per ulteriori due anni in aggiunta alla ferma triennale di cui al comma 1 dello stesso articolo 5, nel limite massimo annuale fissato con decreto del Ministro della difesa, di concerto con il Ministro del tesoro.
 
 ## Art. 5.
 

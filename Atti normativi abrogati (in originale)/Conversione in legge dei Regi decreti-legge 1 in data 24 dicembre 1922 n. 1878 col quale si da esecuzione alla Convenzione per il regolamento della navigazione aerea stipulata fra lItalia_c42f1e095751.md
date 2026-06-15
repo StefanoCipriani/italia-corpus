@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto-legge in data 24 dicembre 1922, n. 1878](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-12-24;1878), col quale si da' piena ed intera esecuzione alla Convenzione per il regolamento della navigazione aerea, conclusa a Parigi il 13 ottobre 1919 fra l'Italia ed altri Stati, nonche' al relativo Protocollo addizionale, firmato nella stessa citta' il 1° maggio 1920, Convenzione e Protocollo le cui ratifiche sono state depositate rispettivamente il 1° marzo ed il 10 aprile 1923.
+E' convertito in legge il [R. decreto-legge in data 24 dicembre 1922, n. 1878](Che%20da%20piena%20ed%20intera%20esecuzione%20alla%20convenzione%20nonche%20al%20relativo%20protocollo%20addizionale%20per%20il%20regolamento%20della%20navigazione%20aerea%20firmato%20a%20Parigi%20fra%20lItalia%20ed%20altri%20Stati.%20022U1878.md), col quale si da' piena ed intera esecuzione alla Convenzione per il regolamento della navigazione aerea, conclusa a Parigi il 13 ottobre 1919 fra l'Italia ed altri Stati, nonche' al relativo Protocollo addizionale, firmato nella stessa citta' il 1° maggio 1920, Convenzione e Protocollo le cui ratifiche sono state depositate rispettivamente il 1° marzo ed il 10 aprile 1923.
 
 ## Art. 2.
 

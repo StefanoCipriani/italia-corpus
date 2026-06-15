@@ -75,11 +75,11 @@ I benefici di cui agli articoli 1 e 3 spettano ai soggetti aventi diritto per ef
 
 1.
 
-Agli invalidi di cui all'articolo 3, al coniuge superstite ed ai figli dei soggetti di cui all'articolo 1, se in possesso della cittadinanza italiana, si applicano le disposizioni della [legge 2 aprile 1968, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482), e successive modificazioni.
+Agli invalidi di cui all'articolo 3, al coniuge superstite ed ai figli dei soggetti di cui all'articolo 1, se in possesso della cittadinanza italiana, si applicano le disposizioni della [legge 2 aprile 1968, n. 482](Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md), e successive modificazioni.
 
 2.
 
-Ai cittadini italiani infortunati a seguito di incidenti verificatisi nel corso o in conseguenza di attivita' operative ed addestrative svolte dalle Forze armate nell'adempimento di compiti assegnati, si applicano le disposizioni della [legge 2 aprile 1968, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482), e successive modificazioni, nei casi di una riconosciuta riduzione delle capacita' lavorative superiore all'11 per cento.
+Ai cittadini italiani infortunati a seguito di incidenti verificatisi nel corso o in conseguenza di attivita' operative ed addestrative svolte dalle Forze armate nell'adempimento di compiti assegnati, si applicano le disposizioni della [legge 2 aprile 1968, n. 482](Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md), e successive modificazioni, nei casi di una riconosciuta riduzione delle capacita' lavorative superiore all'11 per cento.
 
 ## Art. 7.
 

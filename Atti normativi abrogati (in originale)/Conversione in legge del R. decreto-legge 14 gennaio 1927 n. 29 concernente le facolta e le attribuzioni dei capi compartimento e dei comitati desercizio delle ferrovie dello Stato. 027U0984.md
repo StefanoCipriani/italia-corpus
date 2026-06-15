@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 gennaio 1927, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-14;29), concernente le facolta' e le attribuzioni dei capi compartimento e dei comitati d'esercizio delle ferrovie dello Stato. 
+ E' convertito in legge il [R. decreto-legge 14 gennaio 1927, n. 29](Facolta%20ed%20attribuzioni%20dei%20capi%20compartimento%20e%20dei%20Comitati%20di%20esercizio%20delle%20Ferrovie%20dello%20Stato.%20027U0029.md), concernente le facolta' e le attribuzioni dei capi compartimento e dei comitati d'esercizio delle ferrovie dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -156,17 +156,17 @@ La fabbricazione clandestina dei prodotti, contemplati nell'art. 1 del presente 
  
  Con la stessa pena e' punita la fabbricazione dei prodotti, accennati nel precedente comma, se essa viene eseguita in condizioni diverse da quelle specificate nella dichiarazione di lavoro. 
  
- Gli apparecchi, i prodotti e le materie prime cadono in confisca, anche se la cosa appartiene a persona estranea al reato, in deroga al disposto dell'[art. 240 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+ Gli apparecchi, i prodotti e le materie prime cadono in confisca, anche se la cosa appartiene a persona estranea al reato, in deroga al disposto dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 17.
 
 Chiunque sottragga o tenti sottrarre con qualunque mezzo i prodotti all'accertamento dell'imposta e' punito con la multa non minore del doppio ne' maggiore del decuplo dell'imposta frodata o che pote' essere frodata. 
  
- I prodotti sottratti o che si tentava di sottrarre ed i mezzi adoperati per commettere la frode cadono in confisca, anche se appartenenti a persone estranee al reato, in deroga all'[art. 240 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+ I prodotti sottratti o che si tentava di sottrarre ed i mezzi adoperati per commettere la frode cadono in confisca, anche se appartenenti a persone estranee al reato, in deroga all'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 18.
 
-Le pene stabilite dai due precedenti articoli sono applicate senza pregiudizio di quelle sancite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) nel caso di manomissione od alterazioni in qualsiasi modo dei congegni, bolli e sigilli, apposti dall'Amministrazione.
+Le pene stabilite dai due precedenti articoli sono applicate senza pregiudizio di quelle sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nel caso di manomissione od alterazioni in qualsiasi modo dei congegni, bolli e sigilli, apposti dall'Amministrazione.
 
 ## Art. 19.
 
@@ -192,7 +192,7 @@ I prodotti, il macchinario e tutto il materiale mobile esistenti nelle fabbriche
 
 Le pene della multa e dell'ammenda, non eseguite per insolvenza del condannato, si convertono rispettivamente nella reclusione e nell'arresto per non oltre sei mesi o per non oltre un anno se si tratta di recidivi. 
  
- La norma del comma precedente e' stabilita in deroga a quanto dispone l'[art. 136 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_136), osservato peraltro, in ordine al ragguaglio, l'art. 135 dello stesso Codice.
+ La norma del comma precedente e' stabilita in deroga a quanto dispone l'[art. 136 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), osservato peraltro, in ordine al ragguaglio, l'art. 135 dello stesso Codice.
 
 ## Art. 24.
 

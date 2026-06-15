@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 settembre 1933, n. 1439](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-21;1439), che ha dato esecuzione nel Regno al Protocollo addizionale al Trattato di commercio e di navigazione fra l'Italia e la Romania del 25 febbraio 1930, Protocollo firmato in Roma il 26 agosto 1933. 
+ E' convertito in legge il [R. decreto-legge 21 settembre 1933, n. 1439](Approvazione%20del%20Protocollo%20addizionale%20al%20Trattato%20di%20commercio%20e%20di%20navigazione%20fra%20lItalia%20e%20la%20Romania%20del%2025%20febbraio%201930%20Protocollo%20firmato%20in%20Roma%20il%2026%20agosto%201933.%20033U1439.md), che ha dato esecuzione nel Regno al Protocollo addizionale al Trattato di commercio e di navigazione fra l'Italia e la Romania del 25 febbraio 1930, Protocollo firmato in Roma il 26 agosto 1933. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

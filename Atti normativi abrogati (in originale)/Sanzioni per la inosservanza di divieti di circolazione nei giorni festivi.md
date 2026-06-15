@@ -23,7 +23,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 Chiunque non osserva i provvedimenti che dispongono i divieti di circolazione nei giorni festivi dei veicoli a motore, delle imbarcazioni e natanti da diporto a motore, degli aeromobili da turismo o privati e' soggetto alla sanzione amministrativa da L. 100.000 a L. 1.000.000.
  La sanzione amministrativa di cui al precedente comma e' applicata dal prefetto.
  Per i provvedimenti emanati su disposizioni dei Ministeri dei trasporti e della aviazione civile e della marina mercantile, anche in conformita' delle direttive del Governo, ai prefetti sono sostituiti gli organi periferici degli stessi Ministeri.
- Si osservano le disposizioni degli [articoli da 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-05-03;317#art_9) [a 13 della legge 3 maggio 1967, n. 317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-05-03;317#art_13).
+ Si osservano le disposizioni degli [articoli da 9](Modificazioni%20al%20sistema%20sanzionatorio%20delle%20norme%20in%20tema%20di%20circolazione%20stradale%20e%20delle%20norme%20dei%20regolamenti%20locali.md) [a 13 della legge 3 maggio 1967, n. 317](Modificazioni%20al%20sistema%20sanzionatorio%20delle%20norme%20in%20tema%20di%20circolazione%20stradale%20e%20delle%20norme%20dei%20regolamenti%20locali.md).
 
 ## Art. 2.
 

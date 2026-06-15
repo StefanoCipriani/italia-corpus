@@ -44,7 +44,7 @@ L'art. 7 e' modificato come segue:
 
 L'art. 10 e' modificato come segue: 
  
- «Con l'attuazione del presente ordinamento, cessa la facolta' del Governatore di istituire tribunali speciali. In periodo di operazioni militari e nelle zone di operazioni stesse il Governatore puo', con suo decreto, disporre che determinati reati commessi da militari siano giudicati secondo le leggi penali militari stabilite per il tempo di guerra, convocando anche, ove occorra, tribunali straordinari ai sensi degli [articoli 559 e seguenti del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_559) militare». 
+ «Con l'attuazione del presente ordinamento, cessa la facolta' del Governatore di istituire tribunali speciali. In periodo di operazioni militari e nelle zone di operazioni stesse il Governatore puo', con suo decreto, disporre che determinati reati commessi da militari siano giudicati secondo le leggi penali militari stabilite per il tempo di guerra, convocando anche, ove occorra, tribunali straordinari ai sensi degli [articoli 559 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare». 
  
  Il presente decreto entra in vigore il giorno della sua pubblicazione. 
  

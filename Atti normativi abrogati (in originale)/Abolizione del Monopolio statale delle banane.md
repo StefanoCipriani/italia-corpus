@@ -24,7 +24,7 @@ Il monopolio del trasporto marittimo delle banane, del commercio delle stesse e 
 
 ## Art. 2.
 
-L'Azienda monopolio banane - A.M.B. - e' soppressa con decorrenza dalla data di entrata in vigore della presente legge ed i servizi ad essa affidati con il [regio decreto-legge 2 dicembre 1935, n. 2085](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-02;2085), convertito nella [legge 6 aprile 1936, n. 899](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%202%20dicembre%201935-XIV%20n.%202085%20riguardante%20listituzione%20del%20Monopolio%20statale%20delle%20banane.%20036U0899.md), e successive modificazioni, sono esercitati, da tale data e fino a quella della soppressione del regime di monopolio e comunque non oltre il 31 dicembre 1964, dall'Amministrazione autonoma dei monopoli di Stato.
+L'Azienda monopolio banane - A.M.B. - e' soppressa con decorrenza dalla data di entrata in vigore della presente legge ed i servizi ad essa affidati con il [regio decreto-legge 2 dicembre 1935, n. 2085](Istituzione%20del%20Monopolio%20statale%20delle%20banane.%20035U2085.md), convertito nella [legge 6 aprile 1936, n. 899](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%202%20dicembre%201935-XIV%20n.%202085%20riguardante%20listituzione%20del%20Monopolio%20statale%20delle%20banane.%20036U0899.md), e successive modificazioni, sono esercitati, da tale data e fino a quella della soppressione del regime di monopolio e comunque non oltre il 31 dicembre 1964, dall'Amministrazione autonoma dei monopoli di Stato.
  Alla gestione di tali servizi sono estese, in quanto applicabili, le disposizioni di legge e di regolamento in vigore per l'anzidetta Amministrazione.
 
 ## Art. 3.

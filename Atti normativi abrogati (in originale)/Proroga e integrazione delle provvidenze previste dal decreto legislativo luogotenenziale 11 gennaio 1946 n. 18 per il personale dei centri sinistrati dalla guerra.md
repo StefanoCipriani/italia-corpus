@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18);
+Visto il [decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md);
 
 Visto l'[art. 3 del regio decreto legislativo 29 maggio 1946, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-29;488#art_3);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,11 +24,11 @@ Sulla proposta del Ministro per le finanze e il tesoro; HA SANZIONATO E PROMULGA
 
 ## Art. 1.
 
-I termini stabiliti per le provvidenze di cui agli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18#art_2), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18#art_4) e [5 del decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18#art_5), sono prorogati al 30 giugno 1948.
+I termini stabiliti per le provvidenze di cui agli [articoli 2](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), [4](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md) e [5 del decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), sono prorogati al 30 giugno 1948.
 
 ## Art. 2.
 
-Le misure dell'indennita' giornaliera di cui all'[articolo 2 del decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18#art_2), sono modificate nel modo seguente:
+Le misure dell'indennita' giornaliera di cui all'[articolo 2 del decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), sono modificate nel modo seguente:
 
 personale dei gradi non inferiori al sesto
 
@@ -98,23 +98,23 @@ organizzati militarmente................" 15
 
 ## Art. 3.
 
-L'indennita' di prima sistemazione e l'indennita' giornaliera di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18#art_1) e [2 del decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18#art_2), con le modifiche stabilite dal presente decreto sono dovute, ferme restando le condizioni previste dagli articoli medesimi:
+L'indennita' di prima sistemazione e l'indennita' giornaliera di cui agli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md) e [2 del decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), con le modifiche stabilite dal presente decreto sono dovute, ferme restando le condizioni previste dagli articoli medesimi:
  a) al personale che prestando servizio nei centri di cui all'art. 3 del citato decreto n. 18, abbia la dimora a distanza di non oltre 5 chilometri dal perimetro dei centri stessi;
  b) al personale che pure non prestando servizio nei centri medesimi sia stato autorizzato a dimorarvi per comprovata impossibilita' di trovare l'abitazione nella sede di servizio, purche' quest'ultima sia distante non oltre 5 chilometri dal perimetro del centro di dimora.
 
 ## Art. 4.
 
-L'indennita' giornaliera di cui all'[art. 2 del decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18#art_2), nelle misure modificate come all'art. 2 del presente decreto, e' aumentata del 50% per i centri nei quali, alla data del 1° gennaio 1947, risultino inabitabili esclusivamente per le distruzioni avvenute durante le operazioni belliche, almeno il 70% dei fabbricati di abitazione.
+L'indennita' giornaliera di cui all'[art. 2 del decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), nelle misure modificate come all'art. 2 del presente decreto, e' aumentata del 50% per i centri nei quali, alla data del 1° gennaio 1947, risultino inabitabili esclusivamente per le distruzioni avvenute durante le operazioni belliche, almeno il 70% dei fabbricati di abitazione.
  L'aumento di cui al precedente comma non spetta al personale domiciliato o dimorante da data anteriore all'11 giugno 1940 nei centri ivi indicati.
 
 ## Art. 5.
 
-Il personale di cui all'[art. 4 del decreto legislativo luogotenenziale 11 gennaio 1946, n 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18#art_4), e' ammesso ad optare per il trattamento piu' favorevole fra il rimborso delle spese di trasporto in tale articolo previsto e l'indennita' giornaliera di cui all'art. 2 del decreto medesimo nelle misure ivi stabilite, o, dal 1° agosto 1946, nelle misure indicate al precedente art. 2.
- Dal beneficio di cui all'[art. 4 del decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18#art_4) - e conseguentemente dall'opzione di cui al precedente comma - e' escluso il personale che risulti autorizzato a risiedere in localita' diversa dai centri sinistrati da data anteriore all'11 giugno 1940.
+Il personale di cui all'[art. 4 del decreto legislativo luogotenenziale 11 gennaio 1946, n 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), e' ammesso ad optare per il trattamento piu' favorevole fra il rimborso delle spese di trasporto in tale articolo previsto e l'indennita' giornaliera di cui all'art. 2 del decreto medesimo nelle misure ivi stabilite, o, dal 1° agosto 1946, nelle misure indicate al precedente art. 2.
+ Dal beneficio di cui all'[art. 4 del decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md) - e conseguentemente dall'opzione di cui al precedente comma - e' escluso il personale che risulti autorizzato a risiedere in localita' diversa dai centri sinistrati da data anteriore all'11 giugno 1940.
 
 ## Art. 6.
 
-Le provvidenze di cui agli articoli 1, 2, e 4 del [decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18), con le modifiche stabilite dal presente decreto si applicano al personale con sede di servizio nei centri con popolazione non superiore ai 3000 abitanti nei quali risultino inabitabili, alla data, del 1° gennaio 1947, esclusivamente per le distruzioni avvenute durante le operazioni belliche, almeno il 25% dei fabbricati di abitazione.
+Le provvidenze di cui agli articoli 1, 2, e 4 del [decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), con le modifiche stabilite dal presente decreto si applicano al personale con sede di servizio nei centri con popolazione non superiore ai 3000 abitanti nei quali risultino inabitabili, alla data, del 1° gennaio 1947, esclusivamente per le distruzioni avvenute durante le operazioni belliche, almeno il 25% dei fabbricati di abitazione.
 
 ## Art. 7.
 
@@ -124,18 +124,18 @@ L'[art. 6 del decreto legislativo luogotenenziale 11 gennaio 1946, n. 1](https:/
 
 ## Art. 8.
 
-L'indennita' di cui all'[art. 1 del decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18#art_1), spetta al personale che abbia riassunto o riassuma servizio oppure sia stato o venga destinato assumendovi servizio per la prima volta nei centri di cui all'art. 3 del decreto medesimo ed all'art. 6 del presente decreto nei periodi sotto indicati:
+L'indennita' di cui all'[art. 1 del decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), spetta al personale che abbia riassunto o riassuma servizio oppure sia stato o venga destinato assumendovi servizio per la prima volta nei centri di cui all'art. 3 del decreto medesimo ed all'art. 6 del presente decreto nei periodi sotto indicati:
  a) dal 16 luglio 1943 al 30 giugno 1948 se trattasi di centri della Sicilia;
  b) dall'8 settembre 1943 al 30 giugno 1948 se trattasi di centri siti in altra parte del territorio nazionale.
  Restano ferme le altre condizioni stabilite dal citato art. 1.
 
 ## Art. 9.
 
-L'onere inerente alla concessione delle provvidenze di cui al [decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18), e al presente decreto, al personale di ruolo e non di ruolo di qualsiasi categoria dipendente direttamente dalle universita' e dagli istituiti d'istruzione superiore, e' posto a carico del bilancio dello Stato.
+L'onere inerente alla concessione delle provvidenze di cui al [decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), e al presente decreto, al personale di ruolo e non di ruolo di qualsiasi categoria dipendente direttamente dalle universita' e dagli istituiti d'istruzione superiore, e' posto a carico del bilancio dello Stato.
 
 ## Art. 10.
 
-Per l'applicazione al personale in servizio nei centri sinistrati delle provvidenze di cui al [decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-11;18) e del presente decreto, i certificati del Genio civile relativi agli accertamenti previsti dall'art. 3 del decreto 18 medesimo e dagli articoli 4 e 6 del presente decreto debbono pervenire, sotto pena di decadenza, al Ministero delle finanze e del tesoro non oltre il 90° giorno dalla data di entrata in vigore del presente decreto.
+Per l'applicazione al personale in servizio nei centri sinistrati delle provvidenze di cui al [decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md) e del presente decreto, i certificati del Genio civile relativi agli accertamenti previsti dall'art. 3 del decreto 18 medesimo e dagli articoli 4 e 6 del presente decreto debbono pervenire, sotto pena di decadenza, al Ministero delle finanze e del tesoro non oltre il 90° giorno dalla data di entrata in vigore del presente decreto.
 
 ## Art. 11.
 

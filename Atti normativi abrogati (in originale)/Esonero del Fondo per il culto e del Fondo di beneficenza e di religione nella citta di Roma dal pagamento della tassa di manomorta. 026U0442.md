@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il Fondo per il culto ed il Fondo di beneficenza e di religione nella citta' di Roma, non essendo compresi fra gli Enti contemplati dall'articolo primo della [legge 13 settembre 1874, n. 2078](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1874-09-13;2078), divenuto ora articolo 1 del testo di legge approvato col [R. decreto 30 dicembre 1923, n. 3271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3271), devono considerarsi esenti dal pagamento della tassa di manomorta sulle rendite dei beni mobili ed immobili, da essi posseduti e amministrati.
+Il Fondo per il culto ed il Fondo di beneficenza e di religione nella citta' di Roma, non essendo compresi fra gli Enti contemplati dall'articolo primo della [legge 13 settembre 1874, n. 2078](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1874-09-13;2078), divenuto ora articolo 1 del testo di legge approvato col [R. decreto 30 dicembre 1923, n. 3271](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulla%20manomorta.%20023U3271.md), devono considerarsi esenti dal pagamento della tassa di manomorta sulle rendite dei beni mobili ed immobili, da essi posseduti e amministrati.
 
 ## Art. 2.
 

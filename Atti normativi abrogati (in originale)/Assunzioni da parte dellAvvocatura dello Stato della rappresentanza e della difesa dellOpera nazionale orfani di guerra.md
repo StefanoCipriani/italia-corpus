@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'art. 43 del testo unico delle leggi e delle forme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e dell'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), modificato dall'[art. 1 della legge 16 novembre 1939, n. 1889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1889#art_1);
 
-Vista la [legge 26 luglio 1929, n. 1397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-07-26;1397), istitutiva dell'Opera nazionale orfani di guerra;
+Vista la [legge 26 luglio 1929, n. 1397](Istituzione%20dellOpera%20nazionale%20per%20gli%20orfani%20di%20guerra%20con%20sede%20in%20Roma.%20029U1397.md), istitutiva dell'Opera nazionale orfani di guerra;
 
 Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro per la grazia e giustizia ed il Ministro per il tesoro; Decreta:
 

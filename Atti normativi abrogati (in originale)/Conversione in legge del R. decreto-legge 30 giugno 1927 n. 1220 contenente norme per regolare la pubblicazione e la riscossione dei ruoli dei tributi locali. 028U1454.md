@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 giugno 1927, n. 1220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-30;1220), contenente norme per regolare la pubblicazione e la riscossione dei ruoli dei tributi locali. 
+ E' convertito in legge il [R. decreto-legge 30 giugno 1927, n. 1220](Norme%20per%20regolare%20la%20pubblicazione%20e%20la%20riscossione%20dei%20ruoli%20dei%20tributi%20locali.%20027U1220.md), contenente norme per regolare la pubblicazione e la riscossione dei ruoli dei tributi locali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

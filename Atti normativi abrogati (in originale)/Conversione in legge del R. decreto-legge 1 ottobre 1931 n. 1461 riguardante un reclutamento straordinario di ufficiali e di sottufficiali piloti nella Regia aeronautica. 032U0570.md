@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° ottobre 1931, n. 1461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-01;1461), che da facolta' al Ministro per l'aeronautica di indire un reclutamento straordinario di ufficiali inferiori e di sottufficiali nella Regia aeronautica. 
+ E' convertito in legge il [R. decreto-legge 1° ottobre 1931, n. 1461](Reclutamento%20straordinario%20di%20ufficiali%20e%20sottufficiali%20piloti%20della%20Regia%20aeronautica.%20031U1461.md), che da facolta' al Ministro per l'aeronautica di indire un reclutamento straordinario di ufficiali inferiori e di sottufficiali nella Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,9 +16,9 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), e successive modificazioni;
+Visto il testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni;
 
-Visto il [R. decreto-legge 4 ottobre 1934, n. 1682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-04;1682), concernente l'istituzione della provincia di Littoria, convertito con modificazioni nella [legge 18 aprile 1935, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-18;574);
+Visto il [R. decreto-legge 4 ottobre 1934, n. 1682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-04;1682), concernente l'istituzione della provincia di Littoria, convertito con modificazioni nella [legge 18 aprile 1935, n. 574](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201934%20n.%201682%20concernente%20listituzione%20della%20provincia%20di%20Littoria.%20035U0574.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Al testo unico per la finanze locale approvato con [R. decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), sono apportate le seguenti modificazioni: 
+Al testo unico per la finanze locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono apportate le seguenti modificazioni: 
  
  a) Il n. 5 dell'art. 29 e' sostituito dal seguente: 
  
@@ -90,13 +90,13 @@ Al testo unico per la finanze locale approvato con [R. decreto 14 settembre 1931
  
  «Salvo quanto e' disposto nel capo III del titolo III e salvo i casi in cui sia stabilita una pena piu' grave, le violazioni delle norme del presente testo unico riguardanti l'applicazione dei tributi e quelle dei relativi regolamenti sono punite, oltre che con le sanzioni civili comminate nei singoli casi, con l'ammenda da lire venti a lire cinquecento. 
  
- «Per l'accertamento e la definizione amministrativa delle contravvenzioni si osservano, in quanto applicabili, le norme degli articoli 106 a 110 e 155 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383). 
+ «Per l'accertamento e la definizione amministrativa delle contravvenzioni si osservano, in quanto applicabili, le norme degli articoli 106 a 110 e 155 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md). 
  
  «La misura dell'oblazione entro i limiti di cui sopra e' determinata discrezionalmente dal podesta' o dal preside a seconda della rispettiva competenza».
 
 ## Art. 2.
 
-Le disposizioni contenute nel [R. decreto-legge 4 ottobre 1934, n. 1682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-04;1682), concernente la istituzione della provincia di Littoria, convertito con modificazioni nella [legge 18 aprile 1935, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-18;574), sono prorogate per il biennio 1939-1940.
+Le disposizioni contenute nel [R. decreto-legge 4 ottobre 1934, n. 1682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-04;1682), concernente la istituzione della provincia di Littoria, convertito con modificazioni nella [legge 18 aprile 1935, n. 574](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201934%20n.%201682%20concernente%20listituzione%20della%20provincia%20di%20Littoria.%20035U0574.md), sono prorogate per il biennio 1939-1940.
 
 ## Art. 3.
 

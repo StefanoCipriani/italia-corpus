@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-11;65), contenente proroga dei privilegi fiscali di riscossione agli esattori delle imposte dirette del quinquennio 1923-1927. 
+ E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 65](Proroga%20dei%20privilegi%20fiscali%20di%20riscossione%20agli%20esattori%20delle%20imposte%20dirette%20del%20quinquennio%201923-1927.%20034U0065.md), contenente proroga dei privilegi fiscali di riscossione agli esattori delle imposte dirette del quinquennio 1923-1927. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla di farla osservare come legge dello Stato. 
  

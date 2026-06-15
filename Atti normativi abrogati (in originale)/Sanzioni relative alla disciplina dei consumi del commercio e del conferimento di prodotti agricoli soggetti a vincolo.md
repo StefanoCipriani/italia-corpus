@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 22 aprile 1943, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-22;245), contenente norme penali relative alla disciplina dei consumi, modificato con il [decreto legislativo luogotenenziale 28 dicembre 1944, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;442);
+Visto il [regio decreto-legge 22 aprile 1943, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-22;245), contenente norme penali relative alla disciplina dei consumi, modificato con il [decreto legislativo luogotenenziale 28 dicembre 1944, n. 442](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20R.%20decreto-legge%2022%20aprile%201943%20n.%20245%20contenente%20norme%20penali%20relative%20alla%20disciplina%20dei%20consumi.%20044U0442.md);
 
-Visto il [decreto legislativo luogotenenziale 14 marzo 1945, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-14;111), sulla disciplina dell commercio;
+Visto il [decreto legislativo luogotenenziale 14 marzo 1945, n. 111](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20sulla%20disciplina%20del%20commercio.%20045U0111.md), sulla disciplina dell commercio;
 
-Visti il [decreto legislativo luogotenenziale 4 luglio 1944, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-07-04;153), il [decreto legislativo luogotenenziale 8 giugno 1945, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-08;354) e il [decreto legislativo luogotenenziale 27 ottobre 1945, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-27;774), contenenti norme penali relative alla disciplina del conferimento del grano e dell'orzo nonche' dell'olio;
+Visti il [decreto legislativo luogotenenziale 4 luglio 1944, n. 153](../Decreti%20legislativi%20luogotenenziali/Norme%20penali%20relative%20alla%20disciplina%20del%20conferimento%20del%20grano%20e%20dellorzo%20del%20raccolto%201944.%20044U0153.md), il [decreto legislativo luogotenenziale 8 giugno 1945, n. 354](../Decreti%20legislativi%20luogotenenziali/Norme%20penali%20relative%20alla%20disciplina%20del%20conferimento%20del%20grano%20e%20dellorzo.%20045U0354.md) e il [decreto legislativo luogotenenziale 27 ottobre 1945, n. 774](../Decreti%20legislativi%20luogotenenziali/Norme%20penali%20relative%20alla%20disciplina%20dellammasso%20per%20lolio%20di%20oliva%20nella%20compagna%201945-46.%20045U0774.md), contenenti norme penali relative alla disciplina del conferimento del grano e dell'orzo nonche' dell'olio;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -35,7 +35,7 @@ Indipendentemente dall'azione penale, quando sia intervenuta denuncia all'autori
 
 ## Art. 3.
 
-Le disposizioni contenute nell'[art. 4 del decreto legislativo luogotenenziale 4 luglio 1944, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-07-04;153#art_4), concernenti l'obbligatorieta' del mandato di cattura e il divieto di concessione della liberta' provvisoria, non si applicano qualora il quantitativo dei cereali sottratto all'ammasso sia esiguo e tale da escludere nell'agente un fine diverso da quello di provvedere alle esigenze dell'alimentazione familiare.
+Le disposizioni contenute nell'[art. 4 del decreto legislativo luogotenenziale 4 luglio 1944, n. 153](../Decreti%20legislativi%20luogotenenziali/Norme%20penali%20relative%20alla%20disciplina%20del%20conferimento%20del%20grano%20e%20dellorzo%20del%20raccolto%201944.%20044U0153.md), concernenti l'obbligatorieta' del mandato di cattura e il divieto di concessione della liberta' provvisoria, non si applicano qualora il quantitativo dei cereali sottratto all'ammasso sia esiguo e tale da escludere nell'agente un fine diverso da quello di provvedere alle esigenze dell'alimentazione familiare.
  I recidivi per reati della stessa indole non beneficiano della disposizione di cui al precedente comma.
 
 ## Art. 4.

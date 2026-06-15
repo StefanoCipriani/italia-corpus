@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 luglio 1933, n. 1078](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-07-29;1078), concernente l'autorizzazione all'Amministrazione postale-telegrafica a cedere in affitto gli alloggi del proprio personale, che risultassero in eccedenza, al personale di altre Amministrazioni od anche a privati. 
+ E' convertito in legge il [R. decreto-legge 29 luglio 1933, n. 1078](Autorizzazione%20allAmministrazione%20postale-telegrafica%20a%20cedere%20in%20affitto%20gli%20alloggi%20del%20proprio%20personale%20che%20risultassero%20in%20eccedenza%20al%20personale%20di%20altre%20Amministrazioni%20od%20anche%20a%20_6cd8b55b0cf9.md), concernente l'autorizzazione all'Amministrazione postale-telegrafica a cedere in affitto gli alloggi del proprio personale, che risultassero in eccedenza, al personale di altre Amministrazioni od anche a privati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

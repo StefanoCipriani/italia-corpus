@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 gennaio 1925, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-01-08;65), concernente la pubblicita' dei prezzi delle camere di albergo. 
+ E' convertito in legge il [R. decreto-legge 8 gennaio 1925, n. 65](Pubblicita%20dei%20prezzi%20delle%20camere%20di%20albergo.%20025U0065.md), concernente la pubblicita' dei prezzi delle camere di albergo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

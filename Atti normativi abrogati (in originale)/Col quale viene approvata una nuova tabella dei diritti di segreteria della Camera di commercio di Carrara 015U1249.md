@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il R. decreto 31 gennaio 1864, n. MLXXVII, che approva la tariffa dei diritti di segreteria spettanti alla Camera di commercio ed arti di Carrara;
 
-Visti la [legge 20 marzo 1910, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-20;121), sull'ordinamento delle Camere di commercio e industria e il regolamento approvato con il [R. decreto 19 febbraio 1911, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-19;245), per l'attuazione della legge medesima;
+Visti la [legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md), sull'ordinamento delle Camere di commercio e industria e il regolamento approvato con il [R. decreto 19 febbraio 1911, n. 245](Che%20approva%20lannesso%20regolamento%20per%20lattuazione%20della%20legge%20sullordinamento%20delle%20Camere%20di%20commercio%20e%20industria.%20011U0245.md), per l'attuazione della legge medesima;
 
 Viste le deliberazioni della Camera di commercio e industria di Carrara in data 20 marzo e 22 dicembre 1914, nonche' 26 aprile 1915;
 

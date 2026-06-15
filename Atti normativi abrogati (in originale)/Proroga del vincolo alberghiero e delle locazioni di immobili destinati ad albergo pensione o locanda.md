@@ -20,8 +20,8 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Presid
 
 ## Art. 1.
 
-La proroga dei contratti di locazione degli immobili adibiti ad uso di albergo, pensione o locanda, di cui all'[art. 2 della legge 29 maggio 1951, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-29;358#art_2), e' protratta fino al 30 aprile 1956.
- Alla stessa data e' prorogato il vincolo alberghiero di cui alla [legge 5 aprile 1952, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-05;234).
+La proroga dei contratti di locazione degli immobili adibiti ad uso di albergo, pensione o locanda, di cui all'[art. 2 della legge 29 maggio 1951, n. 358](Disciplina%20delle%20locazioni%20di%20immobili%20adibiti%20ad%20uso%20di%20albergo%20pensione%20o%20locanda.md), e' protratta fino al 30 aprile 1956.
+ Alla stessa data e' prorogato il vincolo alberghiero di cui alla [legge 5 aprile 1952, n. 234](Proroga%20delle%20disposizioni%20relative%20al%20vincolo%20alberghiero.md).
 
 ## Art. 2.
 

@@ -104,9 +104,9 @@ Le opere contemplate nel progetto e nella perizia 31 maggio 1917, sono dichiarat
  
  L'Ente potra' immettersi nel possesso dei beni occorrenti, in seguito alla compilazione, in contraddittorio con gli interessati o in mancanza con l'intervento di due testimoni, dello stato di consistenza dei fondi da occupare, che sara' approvato dal ministro dei lavori pubblici, il quale determinera' pure la somma che, in via provvisoria, dovra' depositarsi per la indennita' di espropriazione per gli altri eventuali risarcimenti che ai terzi possano competere. 
  
- Il verbale di consistenza di cui sopra equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_32). 
+ Il verbale di consistenza di cui sopra equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
  
- Ogni eventuale variazione o rettifica delle espropriazioni sara' approvata con lo stesso procedimento. Si applicheranno per tutto il resto le disposizioni della [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359).
+ Ogni eventuale variazione o rettifica delle espropriazioni sara' approvata con lo stesso procedimento. Si applicheranno per tutto il resto le disposizioni della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
 
 ## Art. 8.
 
@@ -116,7 +116,7 @@ Tutti i redditi di qualunque natura, di pertinenza, dell'ente nonche' gli intere
  
  L'Ente potra' delegare un suo funzionario a stendere e ricevere gli atti e contratti di cui sopra, a rilasciarne copia e ad autenticarne le firme, od esso a tal uopo avra' le facolta' spettanti ai notai in base alla [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), sull'ordinamento del notariato. 
  
- I relativi diritti da liquidarsi secondo la tabella annessa alla detta legge saranno ripartiti nella misura stabilita dall'art. 169 del testo unico della legge comunale e provinciale, approvata con [R. decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148).
+ I relativi diritti da liquidarsi secondo la tabella annessa alla detta legge saranno ripartiti nella misura stabilita dall'art. 169 del testo unico della legge comunale e provinciale, approvata con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
 
 ## Art. 9.
 

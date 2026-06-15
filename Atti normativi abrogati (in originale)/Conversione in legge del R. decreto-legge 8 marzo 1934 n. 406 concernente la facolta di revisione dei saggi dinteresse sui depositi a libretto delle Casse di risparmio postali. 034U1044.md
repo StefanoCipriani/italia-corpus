@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-08;406), concernente la facolta' di revisione dei saggi di interesse sui depositi a libretto delle Casse di risparmio postali. 
+ E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 406](Facolta%20di%20revisione%20dei%20saggi%20di%20interesse%20sui%20depositi%20a%20libretto%20delle%20Casse%20di%20risparmio%20postali.%20034U0406.md), concernente la facolta' di revisione dei saggi di interesse sui depositi a libretto delle Casse di risparmio postali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

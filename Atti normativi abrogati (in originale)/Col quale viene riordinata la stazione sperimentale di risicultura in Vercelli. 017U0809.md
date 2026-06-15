@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La stazione sperimentale di risicoltura di Vercelli, eretta in ente morale con [R. decreto del 22 gennaio 1911, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-01-22;73), sara' mantenuta col concorso dello Stato e degli enti locali, giusta quanto e' disposto dall'art. 3 del presente decreto, ed avra' per iscopo: 
+La stazione sperimentale di risicoltura di Vercelli, eretta in ente morale con [R. decreto del 22 gennaio 1911, n. 73](Che%20approva%20lannesso%20statuto%20della%20stazione%20sperimentale%20di%20risicoltura%20di%20Vercelli.%20011U0073.md), sara' mantenuta col concorso dello Stato e degli enti locali, giusta quanto e' disposto dall'art. 3 del presente decreto, ed avra' per iscopo: 
  
  a) di effettuare, promuovere e dirigere prove sperimentali e dimostrative inteso al miglioramento tecnico della coltura del riso, per raggiungere un maggior rendimento cosi' per quantita' come per qualita', e al miglioramento pure delle colture irrigue avvicendate con essa ; 
  

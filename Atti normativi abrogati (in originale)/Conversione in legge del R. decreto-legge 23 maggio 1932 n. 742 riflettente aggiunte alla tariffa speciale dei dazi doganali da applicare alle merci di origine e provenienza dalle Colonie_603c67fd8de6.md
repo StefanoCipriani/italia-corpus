@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 maggio 1932, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-05-23;742), riflettente aggiunte alla tariffa speciale dei dazi doganali da applicare alle merci di origine e provenienza dalle Colonie italiane. 
+ E' convertito in legge il [R. decreto-legge 23 maggio 1932, n. 742](Aggiunte%20alla%20tariffa%20speciale%20dei%20dazi%20doganali%20da%20applicare%20alle%20merci%20di%20origine%20e%20provenienza%20dalle%20Colonie%20italiane.%20032U0742.md), riflettente aggiunte alla tariffa speciale dei dazi doganali da applicare alle merci di origine e provenienza dalle Colonie italiane. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

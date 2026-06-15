@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 dicembre 1926, n. 2266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-19;2266), concernente l'importazione, la fabbricazione e la vendita di poppatoi, capezzoli artificiali, succhietti, tetterelle e simili. 
+ E' convertito in legge il [R. decreto-legge 19 dicembre 1926, n. 2266](Divieto%20dimportazione%20fabbricazione%20e%20vendita%20di%20poppatoi%20capezzoli%20artificiali%20tiralatte%20succhietti%20e%20simili.%20026U2266.md), concernente l'importazione, la fabbricazione e la vendita di poppatoi, capezzoli artificiali, succhietti, tetterelle e simili. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), recante norme sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
-Visto l'art. I del [decreto legislativo luogotenenziale 26 marzo 1946, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-26;172);
+Visto l'art. I del [decreto legislativo luogotenenziale 26 marzo 1946, n. 172](../Decreti%20legislativi%20luogotenenziali/Abrogazione%20del%20R.%20decreto-legge%2021%20giugno%201940%20n.%20856%20e%20temporaneo%20aumento%20dei%20limiti%20di%20Spesa%20previsti%20dalla%20legge%20e%20dal%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20e%20dallart.%2018%20de_b480d758d3e6.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 23 agosto 1946, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-08-23;155), con il quale e' stato elevato a lire 10.000.000 il limite previsto dall'art. 56 del citato [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), per il pagamento delle retribuzioni al personale non di ruolo delle Amministrazioni dello Stato e degli aggi ai distributori secondari dei valori di bollo;
 

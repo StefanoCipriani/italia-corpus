@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il regolamento sulla fabbricazione dei pesi e delle misure e degli strumenti per pesare e per misurare approvato con [R. decreto 12 giugno 1902, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226); 
  
- Visto il [R. decreto 14 maggio 1908, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-14;207), con cui vennero ammesse a verificazione speciali stadere automatiche annesse agli elevatori elettrici; 
+ Visto il [R. decreto 14 maggio 1908, n. 207](Ammissione%20alla%20verifica%20prima%20e%20periodica%20di%20stadere%20automatiche%20annesse%20ad%20elevatori%20008U0207.md), con cui vennero ammesse a verificazione speciali stadere automatiche annesse agli elevatori elettrici; 
  
  Vista la domanda presentata dal Ministero delle finanze (Direzione generale delle privative) con lettera in data 8 giugno 1916, n. 8087; 
  

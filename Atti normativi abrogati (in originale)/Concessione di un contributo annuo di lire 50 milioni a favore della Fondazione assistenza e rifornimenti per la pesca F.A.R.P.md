@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-E' autorizzata la concessione, a decorrere dall'esercizio 1954-55, di un contributo di lire 50.000.000 annui, a favore della "Fondazione assistenza e rifornimenti per la pesca", per provvedere alle attivita' previste dall'art. 2 dello statuto, approvato con [decreto del Presidente della Repubblica 27 novembre 1951, n. 1757](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-11-27;1757).
+E' autorizzata la concessione, a decorrere dall'esercizio 1954-55, di un contributo di lire 50.000.000 annui, a favore della "Fondazione assistenza e rifornimenti per la pesca", per provvedere alle attivita' previste dall'art. 2 dello statuto, approvato con [decreto del Presidente della Repubblica 27 novembre 1951, n. 1757](../DPR/Nuovo%20statuto%20della%20Fondazione%20assistenza%20e%20rifornimenti%20per%20la%20pesca.md).
  La spesa relativa alla concessione del contributo di cui al precedente comma, sara' iscritta nello stato di previsione della spesa del Ministero della marina mercantile.
 
 ## Art. 2.

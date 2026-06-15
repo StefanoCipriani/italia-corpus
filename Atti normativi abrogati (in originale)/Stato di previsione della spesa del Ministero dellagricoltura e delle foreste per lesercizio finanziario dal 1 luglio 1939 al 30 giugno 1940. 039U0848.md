@@ -20,7 +20,7 @@ E' approvato il bilancio dell'Azienda di Stato per le foreste demaniali, per l'e
 
 L'assegnazione straordinaria autorizzata dall'[art. 3 della legge 2 maggio 1938, n. 602](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste%20per%20lesercizio%20finanziario%20dal%2013%20luglio%201938%20al%2030%20giugno%201939.%20038U0602.md), e precedenti disposizioni, per la sistemazione idraulico-forestale dei bacini montani, e' aumentata di L. 1.040.000. 
  
- L'assegnazione stabilita, per l'esercizio 1939.40, dall'[art. 2 del R. decreto-legge 29 ottobre 1936, n. 2123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-29;2123#art_2), per le opere di bonifica di competenza statale a pagamento differito, e' ridotta di L.
+ L'assegnazione stabilita, per l'esercizio 1939.40, dall'[art. 2 del R. decreto-legge 29 ottobre 1936, n. 2123](Modificazioni%20ai%20piani%20finanziari%20poliennali%20per%20la%20bonifica%20integrale%20di%20cui%20al%20R.%20decreto-legge%2030%20giugno%201934%20n.%201431%20e%20successivi.%20036U2123.md), per le opere di bonifica di competenza statale a pagamento differito, e' ridotta di L.
 1.040.000. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 

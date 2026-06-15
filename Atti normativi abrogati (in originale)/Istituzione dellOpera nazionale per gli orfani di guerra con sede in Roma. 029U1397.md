@@ -26,7 +26,7 @@ Le istituzioni erette in enti morali o giuridicamente riconosciute in base al [d
  
  L'Opera nazionale e' equiparata alle Amministrazioni dello Stato per quanto riguarda ogni altra disposizione in materia fiscale e puo' valersi delle prestazioni del Provveditorato generale dello Stato e di altri uffici statali. 
  
- Si applicano ad essa le disposizioni relative alle Amministrazioni predette sulla consulenza, rappresentanza e difesa da parte della Regia avvocatura erariale, comprese quelle degli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2828#art_19) e [25 del R. decreto 30 dicembre 1923, numero 2828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2828#art_25). 
+ Si applicano ad essa le disposizioni relative alle Amministrazioni predette sulla consulenza, rappresentanza e difesa da parte della Regia avvocatura erariale, comprese quelle degli [articoli 19](Disposizioni%20concernenti%20gli%20uffici%20e%20il%20personale%20della%20Regia%20avvocatura%20erariale%20e%20la%20difesa%20legale%20delle%20Ferrovie%20dello%20Stato.%20023U2828.md) e [25 del R. decreto 30 dicembre 1923, numero 2828](Disposizioni%20concernenti%20gli%20uffici%20e%20il%20personale%20della%20Regia%20avvocatura%20erariale%20e%20la%20difesa%20legale%20delle%20Ferrovie%20dello%20Stato.%20023U2828.md). 
  
  Gli organi dell'Opera sono ammessi al godimento della franchigia postale, telegrafica e telefonica, secondo le norme e con le limitazioni stabilite per gli uffici statali.
 
@@ -76,7 +76,7 @@ L'assistenza e' estesa:
  
  quando la paternita' o maternita' dipenda da matrimonio dichiarato nullo, ovvero risulti da esplicita dichiarazione scritta dei genitori o indirettamente da sentenza civile o penale. 
  
- L'accertamento della paternita' o maternita' sara' fatto dal giudice delle tutele, in via riservata, al solo effetto della presente legge e degli [articoli 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_30) e [65, quarto comma, del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_65-com4). 
+ L'accertamento della paternita' o maternita' sara' fatto dal giudice delle tutele, in via riservata, al solo effetto della presente legge e degli [articoli 30](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [65, quarto comma, del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
  
  L'assistenza e' dovuta anche nei casi previsti dall'[articolo 180 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_180), quando pero' si verifichi una delle ipotesi indicate dall'art. 93 del Codice stesso ed il figlio riceveva gli alimenti dal genitore perito in dipendenza della guerra; 
  
@@ -106,7 +106,7 @@ Il Comitato provinciale, il segretario generale della Colonia, o il Regio consol
  
  L'ufficiale dello stato civile od il Regio console, che, entro un mese dalla ricevuta della richiesta, non provvedono all'annotazione, incorrono nella pena pecuniaria comminata dall'[art. 404 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_404). 
  
- L'orfano, nel cui atto di nascita sia disposta l'annotazione marginale indicata nei commi precedenti ed il cui genitore sia morto in combattimento o per malattia contratta in zona di guerra, e' autorizzato a fregiarsi del distintivo d'onore istituito col [R. decreto 24 marzo 1921, n. 447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-03-24;447).
+ L'orfano, nel cui atto di nascita sia disposta l'annotazione marginale indicata nei commi precedenti ed il cui genitore sia morto in combattimento o per malattia contratta in zona di guerra, e' autorizzato a fregiarsi del distintivo d'onore istituito col [R. decreto 24 marzo 1921, n. 447](Che%20istituisce%20un%20distintivo%20donore%20per%20gli%20orfani%20dei%20caduti%20in%20guerra.%20021U0447.md).
 
 ### Art. 11.
 
@@ -379,7 +379,7 @@ I governatori delle Colonie ed i capi delle rappresentanze diplomatiche all'este
 
 Il primo presidente della Corte d'appello, al principio di ogni anno giudiziario, destina, in ciascun tribunale del distretto che abbia sede nel capoluogo della Provincia o che abbia giurisdizione sul medesimo, un giudice incaricato delle funzioni di giudice delle tutele degli orfani di guerra. 
  
- Al giudice delle tutele spetta, rispetto ad essi, la competenza attribuita al presidente del tribunale dal [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) nel libro I, titolo VIII: della patria potesta', titolo IX: della minore eta', della tutela, e dagli [articoli 181 e seguenti del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_181) approvato con [R. decreto 6 novembre 1926, n. 1848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-06;1848). 
+ Al giudice delle tutele spetta, rispetto ad essi, la competenza attribuita al presidente del tribunale dal [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) nel libro I, titolo VIII: della patria potesta', titolo IX: della minore eta', della tutela, e dagli [articoli 181 e seguenti del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_181) approvato con [R. decreto 6 novembre 1926, n. 1848](Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md). 
  
  Il giudice delle tutele promuove, inoltre, la inscrizione nell'elenco degli orfani della guerra dei figli naturali non riconosciuti, di cui abbia accertato la paternita' o maternita' ai sensi dell'art. 7. 
  
@@ -387,7 +387,7 @@ Il primo presidente della Corte d'appello, al principio di ogni anno giudiziario
 
 ### Art. 34.
 
-Nei casi di abuso della patria potesta' o della tutela legale da parte di chi l'esercita, sia violandone o trascurandone i doveri o male amministrando le sostanze dell'orfano o non provvedendo in corrispondenza ai mezzi di cui puo' disporre all'educazione di esso, il giudice delle tutele, a richiesta del Comitato provinciale, puo' provvedere per la nomina di un tutore alla persona dell'orfano stesso o di un curatore ai beni di lui, a termini degli [articoli 233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_233) e [184 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_184). Puo' altresi' stabilire la quota spettante all'orfano sulla pensione nella maggiore misura consentita dall'[art. 33 del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_33), ed ordinare che essa sia riscossa ed erogata dal Comitato provinciale o dall'ente presso cui sia stato collocato l'orfano. 
+Nei casi di abuso della patria potesta' o della tutela legale da parte di chi l'esercita, sia violandone o trascurandone i doveri o male amministrando le sostanze dell'orfano o non provvedendo in corrispondenza ai mezzi di cui puo' disporre all'educazione di esso, il giudice delle tutele, a richiesta del Comitato provinciale, puo' provvedere per la nomina di un tutore alla persona dell'orfano stesso o di un curatore ai beni di lui, a termini degli [articoli 233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_233) e [184 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_184). Puo' altresi' stabilire la quota spettante all'orfano sulla pensione nella maggiore misura consentita dall'[art. 33 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), ed ordinare che essa sia riscossa ed erogata dal Comitato provinciale o dall'ente presso cui sia stato collocato l'orfano. 
  
  Resta impregiudicato ogni altro diritto che possa spettare all'orfano ai sensi dell'[art. 138 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_138).
 
@@ -443,7 +443,7 @@ Il Comitato provinciale ha facolta' di proporre al consiglio di famiglia o di tu
 
 ### Art. 42.
 
-La vedova con prole, che passa a seconde nozze ed a cui spetta il capitale a suo favore disposto con l'[art. 25 del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_25), e che prima del matrimonio, a termine dell'[art. 237 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_237), deve far convocare il consiglio di famiglia, da' pure avviso al Comitato provinciale del matrimonio stesso. 
+La vedova con prole, che passa a seconde nozze ed a cui spetta il capitale a suo favore disposto con l'[art. 25 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e che prima del matrimonio, a termine dell'[art. 237 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_237), deve far convocare il consiglio di famiglia, da' pure avviso al Comitato provinciale del matrimonio stesso. 
  
  Il consiglio di famiglia, oltre a quanto e' disposto in detto articolo, delibera anche se la pensione debba essere riscossa dalla madre e puo' affidarne la esazione ed erogazione al Comitato provinciale o all'ente o alla persona incaricata dell'educazione del minorenne. 
  
@@ -455,7 +455,7 @@ La vedova con prole, che passa a seconde nozze ed a cui spetta il capitale a suo
 
 ### Art. 43.
 
-Quando la persona, che esercita la patria potesta' o la tutela sopra gli orfani di guerra sia condannata alla pena dell'ergastolo o ad una pena della reclusione maggiore dei tre anni, ovvero per furto, frode, falso, peculato o per uno dei reati contemplati nel libro II, titolo VIII, capo I, III, VII; titolo IX, capo V e VI, per una delle contravvenzioni contemplate nel libro III, titolo I, capo VII, titolo III, capo II e III del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), il pubblico ministero dove comunicare al Comitato provinciale copia della sentenza di condanna. 
+Quando la persona, che esercita la patria potesta' o la tutela sopra gli orfani di guerra sia condannata alla pena dell'ergastolo o ad una pena della reclusione maggiore dei tre anni, ovvero per furto, frode, falso, peculato o per uno dei reati contemplati nel libro II, titolo VIII, capo I, III, VII; titolo IX, capo V e VI, per una delle contravvenzioni contemplate nel libro III, titolo I, capo VII, titolo III, capo II e III del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il pubblico ministero dove comunicare al Comitato provinciale copia della sentenza di condanna. 
  
  Il Comitato provinciale provochera' i provvedimenti necessari per assicurare l'assistenza dell'orfano.
 
@@ -465,7 +465,7 @@ Il Comitato provinciale ed il giudice delle tutele invigilano affinche' siano ri
  
  Tutti gli atti relativi alla tutela degli orfani di guerra, e quelli giudiziali e stragiudiziali che i Comitati provinciali, i giudici delle tutele e le istituzioni giuridicamente riconosciute debbano compiere nell'interesse degli orfani di guerra, sono scritti in carta libera ed esenti da qualsiasi tassa. 
  
- Per tutti i giudizi relativi alla suddetta tutela compete di diritto alla difesa dell'orfano il gratuito patrocinio. Il giudice delle tutele destina il difensore ufficioso ai sensi delle disposizioni contenute nel testo unico delle leggi sul gratuito patrocinio approvato con [R. decreto 30 dicembre 1923, n. 3282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3282). 
+ Per tutti i giudizi relativi alla suddetta tutela compete di diritto alla difesa dell'orfano il gratuito patrocinio. Il giudice delle tutele destina il difensore ufficioso ai sensi delle disposizioni contenute nel testo unico delle leggi sul gratuito patrocinio approvato con [R. decreto 30 dicembre 1923, n. 3282](Approvazione%20del%20testo%20di%20legge%20sul%20gratuito%20patrocinio.%20023U3282.md). 
  
  Su proposta degli interessati o d'ufficio, il giudice nomina un avvocato procuratore che assista l'orfano negli affari di volontaria giurisdizione.
 
@@ -591,7 +591,7 @@ Nelle assunzioni di impieghi nelle Amministrazioni dello Stato e di enti pubblic
 
 ### Art. 56.
 
-La quota di posti vacanti nei ruoli del personale civile delle Amministrazioni dello Stato, riservata agli ex combattenti ai sensi dell'[art. 20 del R. decreto 8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;843#art_20), e degli articoli 7, commi quarto e quinto, e 13 del [R. decreto-legge 3 gennaio 1926, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-03;48), sara' conferita di volta in volta agli orfani di guerra riconosciuti idonei nei relativi concorsi in quanto non ne risulti possibile l'assegnazione agli ex combattenti.
+La quota di posti vacanti nei ruoli del personale civile delle Amministrazioni dello Stato, riservata agli ex combattenti ai sensi dell'[art. 20 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), e degli articoli 7, commi quarto e quinto, e 13 del [R. decreto-legge 3 gennaio 1926, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-03;48), sara' conferita di volta in volta agli orfani di guerra riconosciuti idonei nei relativi concorsi in quanto non ne risulti possibile l'assegnazione agli ex combattenti.
 
 ### Art. 57.
 
@@ -649,7 +649,7 @@ Il Capo del Governo, sentito il Comitato nazionale dell'opera, puo' assegnare me
 
 L'ordinamento dei servizi di assistenza degli orfani di guerra e gli organi istituiti con la [legge 18 luglio 1917, numero 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md), sono soppressi. 
  
- I beni ed i fondi amministrati dall'ufficio istituito presso la Presidenza del Consiglio dei Ministri ai sensi dall'[art. 3 del R. decreto 19 aprile 1923, n. 850](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;850#art_3), dai Comitati provinciali istituiti con la legge suindicata, dai segretari generali delle Colonie e dai Regi consoli, sono devoluti all'Opera nazionale costituita con la presente legge.
+ I beni ed i fondi amministrati dall'ufficio istituito presso la Presidenza del Consiglio dei Ministri ai sensi dall'[art. 3 del R. decreto 19 aprile 1923, n. 850](Concernente%20la%20sistemazione%20dei%20servizi%20di%20vigilanza%20protezione%20ed%20assistenza%20dei%20reduci%20validi%20ed%20invalidi%20della%20guerra%20nazionale%20e%20delle%20famiglie%20dei%20caduti.%20023U0850.md), dai Comitati provinciali istituiti con la legge suindicata, dai segretari generali delle Colonie e dai Regi consoli, sono devoluti all'Opera nazionale costituita con la presente legge.
 
 ### Art. 66.
 
@@ -686,7 +686,7 @@ Entro tre mesi dalla pubblicazione della presente legge, sara' provveduto, a cur
 
 E' derogato a qualsiasi norma statutaria di enti pubblici che sia incompatibile con l'applicazione della presente legge, la quale entrera' in vigore tre mesi dopo della sua pubblicazione. 
  
- Alla data anzidetta, cessano di avere effetto la [legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md), modificata col [R. decreto 7 giugno 1923, n. 1222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-07;1222), i regolamenti esecutivi approvati con i [decreti Luogotenenziali 30 giugno 1918, n. 1003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-30;1003), e 1044 modificato col [decreto Luogotenenziale 23 febbraio 1919, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-23;413), ed ogni altra disposizione di legge e di regolamento contraria o incompatibile con quelle della presente legge. 
+ Alla data anzidetta, cessano di avere effetto la [legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md), modificata col [R. decreto 7 giugno 1923, n. 1222](Che%20apporta%20modificazioni%20alla%20legge%2018%20luglio%201917%20n.%201143%20concernente%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20023U1222.md), i regolamenti esecutivi approvati con i [decreti Luogotenenziali 30 giugno 1918, n. 1003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-30;1003), e 1044 modificato col [decreto Luogotenenziale 23 febbraio 1919, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-23;413), ed ogni altra disposizione di legge e di regolamento contraria o incompatibile con quelle della presente legge. 
  
  Sono mantenute le franchigie ferroviarie e le esenzioni dalle tasse scolastiche previste dalle norme vigenti a favore degli orfani della guerra nazionale 1915-18. 
  

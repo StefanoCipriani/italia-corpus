@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 2 ottobre 1919, n. 1802](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1802), convertito in legge con la legge 21 marzo 1926-IV, n. 597, riguardante il riordinamento dell'Arma dei carabinieri Reali;
+Visto il [R. decreto 2 ottobre 1919, n. 1802](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), convertito in legge con la legge 21 marzo 1926-IV, n. 597, riguardante il riordinamento dell'Arma dei carabinieri Reali;
 
 Visto il [R. decreto-legge 1° febbraio 1920, n. 128](Che%20reca%20provvedimenti%20per%20larma%20dei%20carabinieri%20Reali.%20020U0128.md), convertito in legge con la legge 17 aprile 1925-III, n. 473, riguardante l'arruolamento nell'Arma dei carabinieri reali.
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Articolo unico.
 
-Il premio di arruolamento di L. 300 previsto per i carabinieri Reali ausiliari senza obblighi di ferme speciali, dal [quinto comma dell'art. 6 del R. decreto 2 ottobre 1919, n. 1802](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1802#art_6-com5), e' soppresso. 
+Il premio di arruolamento di L. 300 previsto per i carabinieri Reali ausiliari senza obblighi di ferme speciali, dal [quinto comma dell'art. 6 del R. decreto 2 ottobre 1919, n. 1802](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), e' soppresso. 
  
  Il premio di arruolamento da corrispondersi ai carabinieri Reali ausiliari, con vincolo di ventiquattro mesi, previsto dall'[art. 2 del R. decreto-legge 1° febbraio 1920, n. 128](Che%20reca%20provvedimenti%20per%20larma%20dei%20carabinieri%20Reali.%20020U0128.md), e' stabilito in L. 500. 
  

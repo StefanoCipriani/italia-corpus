@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 12 aprile 1944, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-04-12;109);
+Visto il [R. decreto-legge 12 aprile 1944, n. 109](Costituzione%20in%20deroga%20agli%20articoli%2011%20e%2068%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202960%20e%20per%20la%20durata%20dellattuale%20stato%20di%20guerra%20di%20una%20Commissione%20unica%20per%20ciascun%20Dicastero%20per%20gli%20aff_c360c0596801.md);
 
 Visto il [decreto legislativo Luogotenenziale 10 agosto 1944, n. 190](Modifiche%20ai%20Regi%20decreti-legge%206%20gennaio%201944%20n.%209%20e%2012%20aprile%201944%20n.%20101%20sulla%20riammissione%20in%20servizio%20del%20personale%20gia%20licenziato%20per%20motivi%20politici.%20044U0190.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Articolo unico.
 
-A decorrere dal 1° marzo 1945 cessa l'efficacia del [R. decreto-legge 12 aprile 1944, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-04-12;109), e delle successive estensioni.
+A decorrere dal 1° marzo 1945 cessa l'efficacia del [R. decreto-legge 12 aprile 1944, n. 109](Costituzione%20in%20deroga%20agli%20articoli%2011%20e%2068%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202960%20e%20per%20la%20durata%20dellattuale%20stato%20di%20guerra%20di%20una%20Commissione%20unica%20per%20ciascun%20Dicastero%20per%20gli%20aff_c360c0596801.md), e delle successive estensioni.
 Con la stessa decorrenza sono ripristinati gli organi, le cui attribuzioni erano state sospese con il citato decreto-legge. 
  
  Ordiniamo, a chiunque spetti, di osservare il presente decreto e di farlo osservare come legge dello Stato 

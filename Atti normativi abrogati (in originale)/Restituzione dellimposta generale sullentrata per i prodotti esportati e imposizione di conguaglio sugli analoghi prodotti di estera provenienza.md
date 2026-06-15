@@ -14,11 +14,11 @@ Vista la [legge 31 luglio 1954, n. 570](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visti i [decreti del Presidente della Repubblica 22 luglio 1960, n. 794](Disposizioni%20in%20materia%20di%20restituzione%20dellI.G.E.%20per%20i%20prodotti%20esportati%20e%20di%20imposizione%20di%20conguaglio%20sugli%20analoghi%20prodotti%20di%20estera%20provenienza.md), [23 agosto 1960, n. 905](Disposizioni%20in%20materia%20di%20restituzione%20dellimposta%20generale%20sullentrata%20per%20i%20prodotti%20esportati%20e%20di%20imposizione%20di%20conguaglio%20sugli%20analoghi%20prodotti%20di%20estera%20provenienza.md) e [31 agosto 1960, n. 909](Disposizioni%20in%20materia%20di%20restituzione%20dellimposta%20generale%20sullentrata%20per%20i%20prodotti%20esportati%20e%20di%20imposizione%20di%20conguaglio%20sugli%20analoghi%20prodotti%20di%20estera%20provenienza_2.md), con i quali vennero approvate nuove tabelle dei prodotti, rispettivamente, ammessi alla restituzione dell'imposta generale sull'entrata all'esportazione e soggetti al pagamento dell'imposta di conguaglio all'importazione;
 
-Ritenuta l'opportunita' di avvalersi della delega prevista dalla [legge 25 gennaio 1962, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-01-25;3) al fine di apportare ritocchi alle aliquota di restituzione e di conguaglio superiori al 5%;
+Ritenuta l'opportunita' di avvalersi della delega prevista dalla [legge 25 gennaio 1962, n. 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20provvedimenti%20in%20materia%20di%20restituzione%20dellimposta%20generale%20sullentrata%20allesportazione%20e%20dellimposta%20di%20conguaglio%20allimportazione.md) al fine di apportare ritocchi alle aliquota di restituzione e di conguaglio superiori al 5%;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Sentita la Commissione parlamentare di cui all'[art. 8 della legge 24 dicembre 1949, n. 993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-12-24;993#art_8), e successive modificazioni;
+Sentita la Commissione parlamentare di cui all'[art. 8 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 

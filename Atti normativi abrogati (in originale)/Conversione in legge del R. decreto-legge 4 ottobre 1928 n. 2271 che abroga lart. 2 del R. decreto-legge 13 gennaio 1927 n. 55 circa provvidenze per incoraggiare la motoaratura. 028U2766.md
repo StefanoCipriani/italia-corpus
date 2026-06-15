@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 ottobre 1928, n. 2271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-10-04;2271), che abroga l'[art. 2 del R. decreto-legge 13 gennaio 1927, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-13;55#art_2), circa provvidenze per incoraggiare la motoaratura. 
+ E' convertito in legge il [R. decreto-legge 4 ottobre 1928, n. 2271](Abrogazione%20dellart.%202%20del%20R.%20decreto%20legge%2013%20gennaio%201927%20n.%2055%20circa%20provvidenze%20per%20incoraggiare%20la%20motoaratura.%20028U2271.md), che abroga l'[art. 2 del R. decreto-legge 13 gennaio 1927, n. 55](Estensione%20ad%20altri%20enti%20delle%20disposizioni%20dellart%204%20del%20Regio%20decreto%20-%20legge%2029%20luglio%201925%20n.%201315%20contenente%20provvidenze%20per%20incoraggiare%20i%20dissodamenti%20la%20motoaratura%20e%20la%20elettroco_089770a19dd1.md), circa provvidenze per incoraggiare la motoaratura. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

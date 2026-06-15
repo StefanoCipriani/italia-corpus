@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge in data 14 marzo 1924, n. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-03-14;342), col quale e' data esecuzione ai seguenti due atti internazionali stipulati in Roma il 7 febbraio 1924 fra l'Italia e l'Unione delle Repubbliche soviettiste socialiste: 
+ E' convertito in legge il [R. decreto-legge in data 14 marzo 1924, n. 342](Esecuzione%20del%20Trattato%20di%20commercio%20e%20di%20navigazione%20e%20della%20Convenzione%20doganale%20con%20lUnione%20delle%20Repubbliche%20Soviettiste%20Socialiste.%20024U0342.md), col quale e' data esecuzione ai seguenti due atti internazionali stipulati in Roma il 7 febbraio 1924 fra l'Italia e l'Unione delle Repubbliche soviettiste socialiste: 
  
  1° Trattato di commercio e di navigazione, con l'annesso protocollo finale; 
  

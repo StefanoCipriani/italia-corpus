@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-03;973), concernente l'approvazione della convenzione 22 novembre 1929, stipulata col comune di Torino, riguardante la sistemazione dei rapporti per la costruzione dell'ex Officina carte-valori e la cessione di parte di area al Comune medesimo. 
+ E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 973](Approvazione%20della%20convenzione%2022%20novembre%201929%20-%20VIII%20stipulata%20col%20comune%20di%20Torino%20riguardante%20la%20sistemazione%20dei%20rapporti%20per%20la%20costruzione%20dellex%20Officina%20carte%20valori%20e%20la%20cession_353e7a5fe8fe.md), concernente l'approvazione della convenzione 22 novembre 1929, stipulata col comune di Torino, riguardante la sistemazione dei rapporti per la costruzione dell'ex Officina carte-valori e la cessione di parte di area al Comune medesimo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

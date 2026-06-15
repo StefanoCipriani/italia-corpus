@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il decreto commissariale 27 giugno 1924;
 
 Visto il decreto commissariale 3 agosto 1925;
 
-Visto il [R. decreto 18 marzo 1929, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-18;394);
+Visto il [R. decreto 18 marzo 1929, n. 394](Modifiche%20alle%20attuali%20indennita%20di%20marcia%20e%20di%20tramutamento%20per%20i%20personali%20militari%20del%20Regio%20esercito.%20029U0394.md);
 
 Visto il [R. decreto 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-20;1491);
 

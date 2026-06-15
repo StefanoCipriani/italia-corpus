@@ -22,9 +22,9 @@ E' continuata al Ministro delle Finanze la facolta' di emettere Buoni del Tesoro
 
 ## Art. 3.
 
-Il Governo del Re e' autorizzato a dare esecuzione alle disposizioni contenute nel [Regio Decreto del 3 novembre 1867, n. 4029](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-11-03;4029), con cui furono estesi dal 1° gennaio 1868 alle Provincie della Venezia e di Mantova il Decreto Reale e le Leggi qui appresso indicate: 
+Il Governo del Re e' autorizzato a dare esecuzione alle disposizioni contenute nel [Regio Decreto del 3 novembre 1867, n. 4029](Col%20quale%20saranno%20pubblicati%20nelle%20Provincie%20della%20Venezia%20ed%20in%20quella%20di%20Mantova%20un%20Decreto%20ed%20alcune%20Leggi%20per%20lunificazione%20dei%20servizi%20amministrativi.%20067U4029.md), con cui furono estesi dal 1° gennaio 1868 alle Provincie della Venezia e di Mantova il Decreto Reale e le Leggi qui appresso indicate: 
  
- [Regio Decreto 3 novembre 1861, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1861-11-03;302), sulla contabilita' generale dello Stato; 
+ [Regio Decreto 3 novembre 1861, n. 302](Sulla%20Contabilita%20generale%20dello%20Stato.%20061U0302.md), sulla contabilita' generale dello Stato; 
  
  [Legge 14 agosto 1862, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-08-14;800), sulla istituzione della Corte dei conti del Regno d'Italia; 
  

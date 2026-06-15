@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 30 marzo 1944, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-30;94);
+Visto il [regio decreto-legge 30 marzo 1944, n. 94](Facilitazioni%20per%20la%20celebrazione%20dei%20matrimoni%20civili%20e%20per%20la%20trascrizione%20dei%20matrimoni%20religiosi.%20044U0094.md);
 
 Visto il [decreto legislativo 5 maggio 1946, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-05;578);
 
@@ -22,7 +22,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-Le disposizioni del [regio decreto-legge 30 marzo 1944 n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-30;94), e del [decreto legislativo 5 maggio 1946, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-05;578), concernenti facilitazioni per la celebrazione dei matrimoni civili e per la trascrizione dei matrimoni religiosi, sono applicabili fino al 31 dicembre 1948, nei riguardi degli stranieri, sempre che rincorrano le circostanze previste negli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-05;578#art_1) e [2 del decreto legislativo 5 maggio 1946, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-05;578#art_2).
+Le disposizioni del [regio decreto-legge 30 marzo 1944 n. 94](Facilitazioni%20per%20la%20celebrazione%20dei%20matrimoni%20civili%20e%20per%20la%20trascrizione%20dei%20matrimoni%20religiosi.%20044U0094.md), e del [decreto legislativo 5 maggio 1946, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-05;578), concernenti facilitazioni per la celebrazione dei matrimoni civili e per la trascrizione dei matrimoni religiosi, sono applicabili fino al 31 dicembre 1948, nei riguardi degli stranieri, sempre che rincorrano le circostanze previste negli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-05;578#art_1) e [2 del decreto legislativo 5 maggio 1946, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-05;578#art_2).
 
 ## Art. 2.
 

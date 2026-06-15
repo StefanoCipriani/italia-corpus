@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [decreto-legge 11 ottobre 1965, n. 1119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-10-11;1119), convertito nella [legge 6 dicembre 1965, n. 1310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-12-06;1310), concernente la proroga della sospensione dei termini a favore dei danneggiati dalla catastrofe del Vajont del 9 ottobre 1963, fino al 9 ottobre 1966;
+Visto il [decreto-legge 11 ottobre 1965, n. 1119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-10-11;1119), convertito nella [legge 6 dicembre 1965, n. 1310](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2011%20ottobre%201965%20n.%201119%20concernente%20la%20proroga%20della%20sospensione%20dei%20termini%20a%20favore%20di%20danneggiati%20dalla%20catastrofe%20del%20Vajont%20del%209%20ottobre%201963.md), concernente la proroga della sospensione dei termini a favore dei danneggiati dalla catastrofe del Vajont del 9 ottobre 1963, fino al 9 ottobre 1966;
 
 Ritenuta la necessita' e l'urgenza di sospendere il corso di esecuzioni forzate conseguenti alla scadenza della proroga di cui sopra a carico di debitori residenti o domiciliati nei comuni di Longarone, Castellavazzo, Erto e Casso, anche in considerazione delle nuove calamita' ivi abbattutesi nel novembre 1966;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la grazia e giustizia; Decreta:
 
 ## Art. 1.
 
-Sino al 31 dicembre 1967 non possono essere iniziati procedimenti ordinari o speciali di esecuzione forzata nei confronti di debitori residenti o domiciliati nei comuni di Longarone, Castellavazzo, Erto e Casso, in conseguenza del mancato adempimento di obbligazioni gia' contemplate nelle sospensioni di termini di cui, da ultimo, al [decreto-legge 11 ottobre 1965, n. 1119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-10-11;1119), convertito nella [legge 6 dicembre 1965, n. 1310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-12-06;1310).
+Sino al 31 dicembre 1967 non possono essere iniziati procedimenti ordinari o speciali di esecuzione forzata nei confronti di debitori residenti o domiciliati nei comuni di Longarone, Castellavazzo, Erto e Casso, in conseguenza del mancato adempimento di obbligazioni gia' contemplate nelle sospensioni di termini di cui, da ultimo, al [decreto-legge 11 ottobre 1965, n. 1119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-10-11;1119), convertito nella [legge 6 dicembre 1965, n. 1310](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2011%20ottobre%201965%20n.%201119%20concernente%20la%20proroga%20della%20sospensione%20dei%20termini%20a%20favore%20di%20danneggiati%20dalla%20catastrofe%20del%20Vajont%20del%209%20ottobre%201963.md).
  I procedimenti indicati nel comma precedente, se gia' iniziati, sono sospesi di diritto sino alla data del 31 dicembre 1967.
 
 ## Art. 2.

@@ -60,7 +60,7 @@ I supplenti sono esentati dal corso d'istruzione. Tanto essi, quanto gli agenti 
 
 ## Art. 4.
 
-L'indennita' annua di L. 1,000 assegnata a volontari dell'Amministrazione postale telegrafica, in forza ed alle condizioni dell'art. 118 del regolamento approvato col [R. decreto 26 gennaio 1902, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-01-26;19), sara' corrisposta a cominciare dal 1° di agosto 1905 a tutti i volontari allora in servizio in detta qualita' e fino alla loro nomina a vice segretario di 3ª classe.
+L'indennita' annua di L. 1,000 assegnata a volontari dell'Amministrazione postale telegrafica, in forza ed alle condizioni dell'art. 118 del regolamento approvato col [R. decreto 26 gennaio 1902, n. 19](Che%20approva%20il%20Regolamento%20organico%20per%20lAmministrazione%20delle%20Poste%20e%20dei%20Telegrafi.%20002U0019.md), sara' corrisposta a cominciare dal 1° di agosto 1905 a tutti i volontari allora in servizio in detta qualita' e fino alla loro nomina a vice segretario di 3ª classe.
 
 ## Art. 5.
 

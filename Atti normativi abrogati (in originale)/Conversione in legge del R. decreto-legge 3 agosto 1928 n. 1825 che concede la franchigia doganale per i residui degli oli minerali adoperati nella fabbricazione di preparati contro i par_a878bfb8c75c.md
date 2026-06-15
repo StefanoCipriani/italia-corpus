@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-03;1825), che concede la franchigia doganale per i residui degli oli minerali adoperati nella fabbricazione di preparati contro i parassiti delle piante da frutta. 
+ E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1825](Concessione%20della%20franchigia%20doganale%20per%20i%20residui%20di%20oli%20minerali%20impiegati%20nella%20fabbricazione%20degli%20antiparassitari%20delle%20piante%20da%20frutta.%20028U1825.md), che concede la franchigia doganale per i residui degli oli minerali adoperati nella fabbricazione di preparati contro i parassiti delle piante da frutta. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

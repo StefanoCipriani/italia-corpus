@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto il [R. decreto 28 gennaio 1923, n. 153](Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md);
 
-Visto il [R. decreto-legge 8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;843), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge 8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;843), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visti gli [articoli 9](Sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nell%20Amministrazione%20postale%20telegrafica.%20024U2028.md) e [12 del R. decreto-legge 23 ottobre 1924, n. 2028](Sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nell%20Amministrazione%20postale%20telegrafica.%20024U2028.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visti gli [articoli 9](Sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nell%20Amministrazione%20postale%20telegrafica.%20024U2028.md) e [12 del R. decreto-legge 23 ottobre 1924, n. 2028](Sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nell%20Amministrazione%20postale%20telegrafica.%20024U2028.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Udito il parere del Consiglio di amministrazione per le poste ed i telegrafi;
 

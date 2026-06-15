@@ -16,7 +16,7 @@ Considerato che lo stesso art. 14 della legge sopracitata dispone che l'aliquota
 
 Preso atto che, con decreto ministeriale 20 febbraio 1974, le retribuzioni medie mensili imponibili ai fini contributivi, di cui alla tabella allegata alla [legge 22 febbraio 1973, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-02-22;27), sono state ulteriormente aumentate, con effetto dal 1 gennaio 1974, nella misura del 9,8 per cento;
 
-Tenuto conto, altresi', del [decreto del Presidente della Repubblica 8 giugno 1973, n. 1072](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-06-08;1072), registrato alla Corte dei conti, addi' 16 aprile 1974, atti di Governo, registro n. 2, foglio n. 80;
+Tenuto conto, altresi', del [decreto del Presidente della Repubblica 8 giugno 1973, n. 1072](../DPR/Riduzione%20dellonere%20contributivo%20per%20lanno%201973%20in%20favore%20della%20pesca%20marittima.md), registrato alla Corte dei conti, addi' 16 aprile 1974, atti di Governo, registro n. 2, foglio n. 80;
 
 Sentito il parere del comitato amministratore della Cassa nazionale per la previdenza marinara, emesso in data 21 dicembre 1973, secondo il quale l'utilizzazione del contributo statale di lire 2.000 milioni sopra indicato rende possibile la riduzione, per l'anno 1974, dell'onere contributivo degli armatori e dei marittimi dei pescherecci operanti nel Mediterraneo nella misura complessiva pari al 12,90 per cento delle retribuzioni imponibili;
 

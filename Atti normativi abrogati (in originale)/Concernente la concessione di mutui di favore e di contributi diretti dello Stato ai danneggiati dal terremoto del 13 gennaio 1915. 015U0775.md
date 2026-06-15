@@ -146,7 +146,7 @@ Una copia della domanda di mutuo e' depositata nella segreteria del Comune e nel
 
 Coloro che vogliono giovarsi del mutuo di favore devono dimostrare a tenore del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) il possesso legittimo del fabbricato distrutto o danneggiato o dell'area sulla quale deve sorgere il nuovo edificio. 
  
- Tale dimostrazione si puo' anche fare, per i circondari di Avezzano e di Sora, con l'esibizione del decreto di attribuzione del possesso di cui agli [articoli 443 e seguenti del testo unico 12 ottobre 1913, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-10-12;1261#art_443), richiamati con l'[art. 2 del R. decreto 14 gennaio 1915, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-14;13#art_2) e, per gli altri paesi danneggiati, secondo le norme contenute negli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-06-19;1417#art_1) e [2 della legge 19 giugno 1888, n. 1417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-06-19;1417#art_2).
+ Tale dimostrazione si puo' anche fare, per i circondari di Avezzano e di Sora, con l'esibizione del decreto di attribuzione del possesso di cui agli [articoli 443 e seguenti del testo unico 12 ottobre 1913, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-10-12;1261#art_443), richiamati con l'[art. 2 del R. decreto 14 gennaio 1915, n. 13](Col%20quale%20viene%20nominato%20il%20R.%20commissario%20e%20sono%20dati%20provvedimenti%20per%20i%20comuni%20dei%20circondari%20di%20Avezzano%20e%20di%20Sora%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0013.md) e, per gli altri paesi danneggiati, secondo le norme contenute negli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-06-19;1417#art_1) e [2 della legge 19 giugno 1888, n. 1417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-06-19;1417#art_2).
 
 ### Art. 15.
 
@@ -224,7 +224,7 @@ Il mutuatario potra' restituire la parte a suo carico in un termine minore di tr
 
 ### Art. 24.
 
-Per il procedimento di esecuzione sono applicabili alle operazioni dell'Istituto mutuante le disposizioni del titolo VIII del testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-16;646). 
+Per il procedimento di esecuzione sono applicabili alle operazioni dell'Istituto mutuante le disposizioni del titolo VIII del testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md). 
  
  Qualora l'Istituto mutuante intenda valersi della procedura e dei privilegi fiscali stabiliti per la riscossione delle imposte dirette, si osserveranno le seguenti norme. 
  

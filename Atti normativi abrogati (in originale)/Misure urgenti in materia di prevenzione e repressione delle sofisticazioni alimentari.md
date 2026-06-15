@@ -24,12 +24,12 @@ EMANA il seguente decreto:
 
 1.
 
-Dopo l'[articolo 445 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_445) e' inserito il seguente: 
+Dopo l'[articolo 445 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente: 
  "Art. 446. (Confisca obbligatoria). - In caso di condanna per taluno dei delitti preveduti negli articoli 439, 440, 441 e 442, se dal fatto e' derivata la morte o la lesione grave o gravissima di una persona, la confisca delle cose indicate nel primo comma dell'articolo 240 e' obbligatoria".
 
 2.
 
-Dopo il [primo comma dell'articolo 448 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_448-com1) e' inserito il seguente: 
+Dopo il [primo comma dell'articolo 448 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente: 
  "La condanna per taluno dei delitti preveduti negli articoli 439, 440, 441 e 442 importa l'interdizione dalla professione, arte, industria, commercio o mestiere per anni cinque, nonche' l'interdizione dagli uffici direttivi delle persone giuridiche e delle imprese per una durata non inferiore ad anni cinque".
 
 ## Art. 2.
@@ -104,7 +104,7 @@ Per una compiuta e articolata conoscenza dell'andamento del fenomeno delle frodi
 
 2.
 
-Con atto di indirizzo e coordinamento, da emanare ai sensi dell'[articolo 5 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_5), entro novanta giorni dalla data di entrata in vigore del presente decreto, sono fissate le modalita' per la trasmissione periodica dei dati indicati al comma 1 da parte delle regioni e delle unita' sanitarie locali. Il trattamento e la gestione dei dati sono fissati ai sensi dell'[articolo 27, comma 2, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_27-com2).
+Con atto di indirizzo e coordinamento, da emanare ai sensi dell'[articolo 5 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_5), entro novanta giorni dalla data di entrata in vigore del presente decreto, sono fissate le modalita' per la trasmissione periodica dei dati indicati al comma 1 da parte delle regioni e delle unita' sanitarie locali. Il trattamento e la gestione dei dati sono fissati ai sensi dell'[articolo 27, comma 2, della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md).
 
 3.
 
@@ -150,15 +150,15 @@ L'onere derivante dall'attuazione del presente articolo e' valutato in lire 17.5
 
 1.
 
-Per la copertura dei posti disponibili nelle qualifiche iniziali delle carriere di cui all'allegata tabella A, compresi quelli portati in aumento dal presente decreto, il Ministero dell'agricoltura e delle foreste puo' indire concorsi speciali, anche in deroga all'[articolo 27 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_27), ed agli articoli 2, quarto comma, e 3 del [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077).
+Per la copertura dei posti disponibili nelle qualifiche iniziali delle carriere di cui all'allegata tabella A, compresi quelli portati in aumento dal presente decreto, il Ministero dell'agricoltura e delle foreste puo' indire concorsi speciali, anche in deroga all'[articolo 27 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), ed agli articoli 2, quarto comma, e 3 del [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](../DPR/Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 2.
 
-L'esame di concorso per l'accesso alla carriera direttiva si svolge secondo le modalita' previste dell'[articolo 5, secondo comma, della legge 4 agosto 1975, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-08-04;397#art_5-com2).
+L'esame di concorso per l'accesso alla carriera direttiva si svolge secondo le modalita' previste dell'[articolo 5, secondo comma, della legge 4 agosto 1975, n. 397](Norme%20per%20il%20potenziamento%20dei%20servizi%20dellAmministrazione%20finanziaria.md).
 
 3.
 
-Lo svolgimento dei concorsi per le carriere di concetto ed esecutiva e' regolato in base alle disposizioni contenute nell'[articolo 6 della legge 4 agosto 1975, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-08-04;397#art_6), intendendosi sostituito il riferimento al "Ministro per le finanze" con quello al "Ministro dell'agricoltura e delle foreste".
+Lo svolgimento dei concorsi per le carriere di concetto ed esecutiva e' regolato in base alle disposizioni contenute nell'[articolo 6 della legge 4 agosto 1975, n. 397](Norme%20per%20il%20potenziamento%20dei%20servizi%20dellAmministrazione%20finanziaria.md), intendendosi sostituito il riferimento al "Ministro per le finanze" con quello al "Ministro dell'agricoltura e delle foreste".
 
 4.
 
@@ -168,7 +168,7 @@ Le disposizioni di cui al presente articolo si applicano anche ai concorsi da ba
 
 1.
 
-L'Agenzia per i controlli e le azioni comunitarie nel quadro del regime d'aiuto alla produzione dell'olio di oliva (Age-Control S.p.a.), di cui all'[articolo 18, nono comma, della legge 22 dicembre 1984, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887#art_18-com9), assolve, sotto l'alta direzione e la vigilanza del Ministro dell'agricoltura e delle foreste, oltre ai compiti stabiliti dal regolamento CEE n. 2262/84 del Consiglio, i compiti di controllo contro le frodi in danno della Comunita' economica europea sul vino e sull'alcole da distillazione conferiti all'AIMA in base alla normativa comunitaria.
+L'Agenzia per i controlli e le azioni comunitarie nel quadro del regime d'aiuto alla produzione dell'olio di oliva (Age-Control S.p.a.), di cui all'[articolo 18, nono comma, della legge 22 dicembre 1984, n. 887](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201985.md), assolve, sotto l'alta direzione e la vigilanza del Ministro dell'agricoltura e delle foreste, oltre ai compiti stabiliti dal regolamento CEE n. 2262/84 del Consiglio, i compiti di controllo contro le frodi in danno della Comunita' economica europea sul vino e sull'alcole da distillazione conferiti all'AIMA in base alla normativa comunitaria.
 
 2.
 
@@ -176,7 +176,7 @@ Con decreto del Presidente della Repubblica, su proposta del Ministro dell'agric
 
 3.
 
-Nell'esercizio delle funzioni di accertamento e controllo loro attribuite, per i fini previsti dalla normativa comunitaria e dal presente decreto, i funzionari ed impiegati dell'Agenzia sono pubblici ufficiali; ad essi spettano gli stessi poteri di accesso, di ispezione e di verifica previsti per i dipendenti dell'Amministrazione finanziaria dall'[articolo 52 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_52), da esercitare nei modi e nei limiti fissati dallo stesso articolo.
+Nell'esercizio delle funzioni di accertamento e controllo loro attribuite, per i fini previsti dalla normativa comunitaria e dal presente decreto, i funzionari ed impiegati dell'Agenzia sono pubblici ufficiali; ad essi spettano gli stessi poteri di accesso, di ispezione e di verifica previsti per i dipendenti dell'Amministrazione finanziaria dall'[articolo 52 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), da esercitare nei modi e nei limiti fissati dallo stesso articolo.
 
 4.
 
@@ -241,7 +241,7 @@ I laboratori forniscono altresi' ogni notizia in ordine a situazioni di particol
 
 6.
 
-Per le esigenze di potenziamento della dotazione strumentale prevista dal presente articolo e' autorizzata, per l'anno 1986, la spesa di lire 30 miliardi, all'uopo destinando quota parte dell'autorizzazione di spesa, per il medesimo anno 1986, di cui all'[articolo 27, comma 1, lettera b), della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_27-com1-letb).
+Per le esigenze di potenziamento della dotazione strumentale prevista dal presente articolo e' autorizzata, per l'anno 1986, la spesa di lire 30 miliardi, all'uopo destinando quota parte dell'autorizzazione di spesa, per il medesimo anno 1986, di cui all'[articolo 27, comma 1, lettera b), della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md).
 
 ## Art. 13.
 
@@ -249,15 +249,15 @@ Per le esigenze di potenziamento della dotazione strumentale prevista dal presen
 
 Ai fini di quanto previsto dall'articolo 12 le regioni e le province autonome di Trento e di Bolzano, anche a stralcio dei propri piani regionali o provinciali, provvedono altresi':
                         a)
-                            all'adeguamento dell'organico del personale necessario alla funzionalita' dei laboratori di cui all'articolo 12, anche in deroga ai divieti di cui all'[articolo 6 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_6), utilizzando in via prioritaria il personale di cui all'[articolo 10, commi 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-10-23;595#art_10-com7) e [8, della legge 23 ottobre 1985, n. 595](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-10-23;595#art_10-com8);
+                            all'adeguamento dell'organico del personale necessario alla funzionalita' dei laboratori di cui all'articolo 12, anche in deroga ai divieti di cui all'[articolo 6 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), utilizzando in via prioritaria il personale di cui all'[articolo 10, commi 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-10-23;595#art_10-com7) e [8, della legge 23 ottobre 1985, n. 595](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-10-23;595#art_10-com8);
                         b)
                             alla ricognizione della consistenza degli organici del personale preposto alla vigilanza e al controllo di cui all'[articolo 14, terzo comma, lettera o), della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_14-com3-leto), e all'eventuale adeguamento degli stessi in relazione ai parametri di cui all'articolo 12, comma 1, del presente decreto;
                         c)
-                            all'aggiornamento professionale, in via prioritaria, del personale di cui alle lettere a) e b), secondo le indicazioni di cui agli [articoli 45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761#art_45) e [46 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761#art_46).
+                            all'aggiornamento professionale, in via prioritaria, del personale di cui alle lettere a) e b), secondo le indicazioni di cui agli [articoli 45](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md) e [46 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md).
 
 2.
 
-All'onere derivante dall'applicazione del presente articolo, valutato in lire 20 miliardi per l'anno 1986 e in lire 40 miliardi per ciascuno degli anni 1987 e 1988, si provvede all'uopo destinando quota parte delle autorizzazioni di spesa, per gli anni medesimi, di cui all'[articolo 27, comma 1, lettera a), della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_27-com1-leta).
+All'onere derivante dall'applicazione del presente articolo, valutato in lire 20 miliardi per l'anno 1986 e in lire 40 miliardi per ciascuno degli anni 1987 e 1988, si provvede all'uopo destinando quota parte delle autorizzazioni di spesa, per gli anni medesimi, di cui all'[articolo 27, comma 1, lettera a), della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md).
 
 3.
 
@@ -267,7 +267,7 @@ I fondi indicati al comma 6 dell'articolo 12 ed al comma 2 del presente articolo
 
 1.
 
-A valere sull'aumento di organico dell'Arma dei carabinieri autorizzato dalla [legge 24 luglio 1985, n. 410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-07-24;410), il contingente dei nuclei antisofisticazione operanti alle dipendenze funzionali del Ministero della sanita' e' determinato in 800 unita'. Per l'anno 1986 il contingente e' determinato in 400 unita'.
+A valere sull'aumento di organico dell'Arma dei carabinieri autorizzato dalla [legge 24 luglio 1985, n. 410](Incremento%20degli%20organici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellArma%20dei%20carabinieri.md), il contingente dei nuclei antisofisticazione operanti alle dipendenze funzionali del Ministero della sanita' e' determinato in 800 unita'. Per l'anno 1986 il contingente e' determinato in 400 unita'.
 
 2.
 

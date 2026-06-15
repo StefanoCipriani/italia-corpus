@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la gerarchia dei sottufficiali quale e' stabilita dall'art. 1° del testo unico delle leggi sullo stato dei sottufficiali, approvato con [R. decreto n. 1329 in data 17 novembre 1912](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-11-17;1329) ;
+Vista la gerarchia dei sottufficiali quale e' stabilita dall'art. 1° del testo unico delle leggi sullo stato dei sottufficiali, approvato con [R. decreto n. 1329 in data 17 novembre 1912](Col%20quale%20viene%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20dellesercito.%20012U1329.md) ;
 
 Considerato che, per ragioni d'indole organica e disciplinare, non conviene avere sotto le armi sottufficiali con gradi non compresi nella vigente gerarchia ;
 

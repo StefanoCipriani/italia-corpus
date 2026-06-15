@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 dicembre 1928, n. 2626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-05;2626), col quale vengono aumentate le quote di restituzione della imposta sul sale contenuto nei prodotti di caseificio e di salumeria che si esportano all'estero. 
+ E' convertito in legge il [R. decreto-legge 5 dicembre 1928, n. 2626](Determinazione%20delle%20quote%20di%20restituzione%20dellimposta%20sul%20sale%20per%20i%20prodotti%20salati%20che%20si%20esportano%20allestero.%20028U2626.md), col quale vengono aumentate le quote di restituzione della imposta sul sale contenuto nei prodotti di caseificio e di salumeria che si esportano all'estero. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

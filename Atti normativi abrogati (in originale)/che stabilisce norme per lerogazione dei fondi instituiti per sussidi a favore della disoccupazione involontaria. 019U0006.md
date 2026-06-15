@@ -392,7 +392,7 @@ Il ministro per l'industria, il commercio o il lavoro potra' concedere sussidi d
 
 ## Art. 39.
 
-L'operaio che abbia fatto dichiarazioni false nella domanda di sussidio di disoccupazione, senza le quali il sussidio non sarebbe stato concesso, o che abbia continuato a percepire il sussidio anche dopo la cessazione dello stato di disoccupazione, e' punito con una ammenda dal doppio al decuplo dei sussidi o delle parti di sussidio indebitamente percepiti, salvo le eventuali maggiori pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). Esso inoltre sara' escluso dall'ulteriore riscossione del sussidio o di quella parte del sussidio per cui si e' verificata la indebita riscossione. 
+L'operaio che abbia fatto dichiarazioni false nella domanda di sussidio di disoccupazione, senza le quali il sussidio non sarebbe stato concesso, o che abbia continuato a percepire il sussidio anche dopo la cessazione dello stato di disoccupazione, e' punito con una ammenda dal doppio al decuplo dei sussidi o delle parti di sussidio indebitamente percepiti, salvo le eventuali maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Esso inoltre sara' escluso dall'ulteriore riscossione del sussidio o di quella parte del sussidio per cui si e' verificata la indebita riscossione. 
  
  Le stesse sanzioni si applicano a chi abbia, per uno stesso periodo di disoccupazione, riscosso o tentato di riscuotere piu' di un sussidio. 
  

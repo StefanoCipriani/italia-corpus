@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 1° della [legge 19 luglio 1906, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-19;390), col quale si autorizzava il Governo del Re a rimborsare ai Comuni indicati nella tabella A, allegata alla legge stessa, l'intera spesa sostenuta e regolarmente accertata per i lavori di sgombro e riattamento delle strade interne ed esterne nonche' per la ricostruzione dei fabbricati di proprieta' dei Comuni stessi danneggiati dall'eruzione del Vesuvio nell'aprile 1906; 
+ Visto l'art. 1° della [legge 19 luglio 1906, n. 390](Provvedimenti%20a%20favore%20dei%20danneggiati%20dalla%20eruzione%20del%20Vesuvio%20dellaprile%201906.%20006U0390.md), col quale si autorizzava il Governo del Re a rimborsare ai Comuni indicati nella tabella A, allegata alla legge stessa, l'intera spesa sostenuta e regolarmente accertata per i lavori di sgombro e riattamento delle strade interne ed esterne nonche' per la ricostruzione dei fabbricati di proprieta' dei Comuni stessi danneggiati dall'eruzione del Vesuvio nell'aprile 1906; 
  
  Vista la [legge 22 giugno 1913, n. 661](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;661), con la quale fu distaccata dal comune di Ottaiano, compreso nella succitata tabella A, la frazione Terzigno e costituita in Comune autonomo; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Il comune di Terzigno e' incluso nella tabella A, allegata alla [legge 19 luglio 1906, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-19;390), a tutti gli effetti della legge stessa. 
+ Il comune di Terzigno e' incluso nella tabella A, allegata alla [legge 19 luglio 1906, n. 390](Provvedimenti%20a%20favore%20dei%20danneggiati%20dalla%20eruzione%20del%20Vesuvio%20dellaprile%201906.%20006U0390.md), a tutti gli effetti della legge stessa. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge ed andra' in vigore dalla data della sua pubblicazione nella Gazzetta ufficiale del Regno. 
  

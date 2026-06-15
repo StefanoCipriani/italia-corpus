@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'un per cento della quota spettante all'Ente Italiano Audizioni Radiofoniche (E.I.A.R.) sul provento dei canoni di abbonamento alle radioaudizioni circolari pagati dai privati utenti, di cui all'articolo 14 del decreto 30 dicembre 1934-XIII, del Ministro per le finanze e del Ministro per le comunicazioni, emesso in base all'[art. 2 del R. decreto-legge 20 luglio 1934, n. 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1203#art_2), e pubblicato nella Gazzetta Ufficiale del 31 gennaio 1935, n. 26, sara' devoluto alla Reale Accademia di Santa Cecilia, quale contributo per l'orchestra stabile. 
+L'un per cento della quota spettante all'Ente Italiano Audizioni Radiofoniche (E.I.A.R.) sul provento dei canoni di abbonamento alle radioaudizioni circolari pagati dai privati utenti, di cui all'articolo 14 del decreto 30 dicembre 1934-XIII, del Ministro per le finanze e del Ministro per le comunicazioni, emesso in base all'[art. 2 del R. decreto-legge 20 luglio 1934, n. 1203](Provvedimenti%20per%20lo%20sviluppo%20delle%20radiodiffusioni.%20034U1203.md), e pubblicato nella Gazzetta Ufficiale del 31 gennaio 1935, n. 26, sara' devoluto alla Reale Accademia di Santa Cecilia, quale contributo per l'orchestra stabile. 
  
  La quota peraltro devoluta alla Reale Accademia di Santa Cecilia, non dovra', in ogni caso, superare la somma di L. 500.000 per ogni esercizio finanziario; la eventuale differenza in piu' restera' di spettanza dell'E.I.A.R. 
  

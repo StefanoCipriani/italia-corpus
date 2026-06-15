@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico sui telefoni 3 maggio 1903, n. 196, e la [legge 1° luglio 1906, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-01;302);
+Visto il testo unico sui telefoni 3 maggio 1903, n. 196, e la [legge 1° luglio 1906, n. 302](Modificazioni%20ad%20alcuni%20articoli%20del%20testo%20unico%20delle%20leggi%20telefoniche.%20006U0302.md);
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per le poste ed i telegrafi, di 
 
 ## Art. 1.
 
-Gli articoli 12 e 13 del testo unico di legge sui telefoni 3 maggio 1903, n. 196, e l'art. 15 dello stesso testo, modificato con la [legge 1° luglio 1906, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-01;302), sono abrogati.
+Gli articoli 12 e 13 del testo unico di legge sui telefoni 3 maggio 1903, n. 196, e l'art. 15 dello stesso testo, modificato con la [legge 1° luglio 1906, n. 302](Modificazioni%20ad%20alcuni%20articoli%20del%20testo%20unico%20delle%20leggi%20telefoniche.%20006U0302.md), sono abrogati.
 
 ## Art. 2.
 

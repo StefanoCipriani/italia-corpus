@@ -28,7 +28,7 @@ Resta salvo per i predetti docenti il diritto di ritornare all'insegnamento, se 
 
 ## Art. 4.
 
-Nei casi previsti dalla presente legge e dall'[art. 17 del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;238#art_17), la riammissione all'insegnamento dei professori universitari di ruolo, prosciolti nel giudizio di epurazione, avviene in soprannumero rispetto ai posti di organico assegnati alle Facolta' interessate e sempre entro il limite fissato nell'art. 2.
+Nei casi previsti dalla presente legge e dall'[art. 17 del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md), la riammissione all'insegnamento dei professori universitari di ruolo, prosciolti nel giudizio di epurazione, avviene in soprannumero rispetto ai posti di organico assegnati alle Facolta' interessate e sempre entro il limite fissato nell'art. 2.
 
 ## Art. 5.
 

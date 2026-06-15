@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il numero degli ufficiali, tra capitani e tenenti del servizio permanente, da reclutarsi straordinariamente per il Corpo di commissariato militare - ufficiali commissari - in base alla facolta' concessa al Ministro per la guerra con l'[articolo 9 del R. decreto-legge 16 maggio 1926, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;855#art_9), e' elevato da 30 a 37. 
+ Il numero degli ufficiali, tra capitani e tenenti del servizio permanente, da reclutarsi straordinariamente per il Corpo di commissariato militare - ufficiali commissari - in base alla facolta' concessa al Ministro per la guerra con l'[articolo 9 del R. decreto-legge 16 maggio 1926, n. 855](Composizione%20e%20organico%20dellarma%20dei%20carabinieri%20Reali%20norme%20per%20laccertamento%20dellidoneita%20al%20trasferimento%20dei%20subalterni%20al%20servizio%20dellarma%20reclutamento%20straordinario%20di%20ufficiali%20ne_9d563d74ca88.md), e' elevato da 30 a 37. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

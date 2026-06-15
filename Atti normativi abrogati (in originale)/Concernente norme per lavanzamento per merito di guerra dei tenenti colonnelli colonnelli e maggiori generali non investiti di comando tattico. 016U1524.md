@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Per la durata della guerra, ai tenenti colonnelli, colonnelli e maggiori generali delle armi combattenti, non investiti di comando tattico effettivo corrispondente al grado superiore, che siano proposti per lo avanzamento straordinario per merito di guerra stabilito dall'[art. 14 della legge 8 giugno 1913, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_14), anziche' la promozione al grado superiore prevista dall'[art. 22 della legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254#art_22), sara' conferito soltanto l'incarico del grado superiore. 
+Per la durata della guerra, ai tenenti colonnelli, colonnelli e maggiori generali delle armi combattenti, non investiti di comando tattico effettivo corrispondente al grado superiore, che siano proposti per lo avanzamento straordinario per merito di guerra stabilito dall'[art. 14 della legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), anziche' la promozione al grado superiore prevista dall'[art. 22 della legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sara' conferito soltanto l'incarico del grado superiore. 
  
  L'ufficiale al quale si applica tale disposizione prendera', nel proprio ruolo, il posto immediatamente successivo a quello del meno anziano degli ufficiali di pari grado, che si trovi gia' incaricato delle funzioni del grado superiore. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1529), che modifica l'[art. 68 del R. decreto 13 marzo 1927, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-13;431#art_68), concernente i coefficienti di maggiorazione del valore dei fabbricati colpiti dai terremoti del 1908 e del 1915. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1529](Modificazione%20dellart.%2068%20del%20R.%20decreto-legge%2013%20marzo%201927%20n.%20431%20concernente%20i%20coefficienti%20di%20maggiorazione%20del%20valore%20dei%20fabbricati%20colpiti%20dai%20terremoti%20del%201908%20e%20del%201915.%20027U1529.md), che modifica l'[art. 68 del R. decreto 13 marzo 1927, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-13;431#art_68), concernente i coefficienti di maggiorazione del valore dei fabbricati colpiti dai terremoti del 1908 e del 1915. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

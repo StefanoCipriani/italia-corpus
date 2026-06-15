@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 maggio 1927, n. 923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-19;923), contenente norme relative alle espropriazioni per pubblica utilita' da eseguirsi nel territorio dell'Ispettorato della Maremma Toscana. 
+ E' convertito in legge il [R. decreto-legge 19 maggio 1927, n. 923](Norme%20sulle%20espropriazioni%20per%20pubblica%20utilita%20occorrenti%20per%20le%20opere%20che%20si%20eseguono%20dallIspettorato%20per%20la%20Maremma%20Toscana.%20027U0923.md), contenente norme relative alle espropriazioni per pubblica utilita' da eseguirsi nel territorio dell'Ispettorato della Maremma Toscana. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

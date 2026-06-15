@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Veduto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-16;646);
+Veduto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
 Veduto il testo unico delle leggi sull'ordinamento delle Casse di risparmio e dei Monti di pegni di prima categoria, approvato con R. decreto 25 aprile 1929-VII, n. 967, nonche' il regolamento per la sua esecuzione, approvato con R. decreto 5 febbraio 1931-IX, n. 225;
 
@@ -36,7 +36,7 @@ Sulla proposta del Duce, Primo ministro Segretario di Stato, di concerto col Min
 
 L'Istituto di credito fondiario del Friuli Orientale, con sede in Gorizia, e' incorporato nella Cassa di risparmio di Gorizia, di cui costituira' una speciale sezione con patrimonio proprio e gestione distinta. 
  
- Detta sezione e' autorizzata a continuare l'esercizio del credito fondiario nel territorio nel quale operava l'Istituto di credito fondiario del Friuli Orientale e sara' regolata dalle norme del testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-16;646). 
+ Detta sezione e' autorizzata a continuare l'esercizio del credito fondiario nel territorio nel quale operava l'Istituto di credito fondiario del Friuli Orientale e sara' regolata dalle norme del testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md). 
  
  Essa, curera', altresi', il regolare andamento delle operazioni in essere alla data dell'incorporazione, la quale non pregiudica, in modo alcuno, i diritti e i doveri, sia dei mutuatari che dei portatori di cartelle.
 
@@ -50,7 +50,7 @@ Alla sezione di credito fondiario della Cassa di risparmio di Gorizia e' attribu
 
 Alla data che sara' indicata con decreto del Ministro per le finanze, la Cassa di risparmio di Gorizia versera' in unica soluzione la somma che, giusta liquidazione da farsi col decreto medesimo, risultera' ancora dovuta a tale data, per capitale ed interessi, da parte dell'istituto di credito fondiario del Friuli Orientale per il debito verso il Tesoro dello Stato dipendente dalla decisione del Ministero delle finanze del 15 settembre 1931. 
  
- La Cassa di risparmio di Gorizia depositera', inoltre, presso l'Istituto di emissione, nel termine e per l'importo che saranno stabiliti con lo stesso decreto di cui al comma precedente, titoli di Rendita italiana 5% con vincolo a favore del Tesoro dello Stato, a garanzia del pagamento, in valuta di riscatto, delle partite non ricuperabili sulle anticipazioni in conto risarcimenti dei danni di guerra eseguite dall'Istituto di credito fondiario predetto, ai sensi del [R. decreto 24 settembre 1923, n. 2113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2113).
+ La Cassa di risparmio di Gorizia depositera', inoltre, presso l'Istituto di emissione, nel termine e per l'importo che saranno stabiliti con lo stesso decreto di cui al comma precedente, titoli di Rendita italiana 5% con vincolo a favore del Tesoro dello Stato, a garanzia del pagamento, in valuta di riscatto, delle partite non ricuperabili sulle anticipazioni in conto risarcimenti dei danni di guerra eseguite dall'Istituto di credito fondiario predetto, ai sensi del [R. decreto 24 settembre 1923, n. 2113](Disposizioni%20sulle%20operazioni%20di%20anticipazione%20sui%20risarcimenti%20dei%20danni%20di%20guerra%20nei%20territori%20annessi.%20023U2113.md).
 
 ## Art. 4.
 

@@ -58,13 +58,13 @@ Sono considerati soci dell'Opera Nazionale coloro che con elargizioni o con peri
 
 L'Opera Nazionale provvede, sia direttamente, sia per mezzo dei suoi organi provinciali e comunali, con le modalita' stabilite nel regolamento, alla protezione e all'assistenza dalle gestanti e delle madri bisognose o abbandonate; dei bambini lattanti e divezzi sino al quinto anno, appartenenti a famiglie bisognose, dei fanciulli fisicamente o psichicamente anormali, e dei minori materialmente o moralmente abbandonati, traviati o delinquenti, sino all'eta' di anni diciotto compiuti. Con le provvidenze dirette a questi scopi l'Opera Nazionale integra le opere gia' esistenti di protezione della maternita' e della infanzia e ne favorisce le iniziative. 
  
- Favorisce inoltre la diffusione delle norme e dei metodi scientifici d'igiene prenatale e infantile nelle famiglie e negli istituti, anche mediante l'istituzione di ambulatori per la sorveglianza e la cura delle donne gestanti specialmente in riguardo alla sifilide; di scuole teorico-pratiche di puericoltura e corsi popolari d'igiene materna e infantile; organizza, d'accordo con le Amministrazioni delle Provincie, con i Consorzi provinciali antitubercolari, istituiti dalla [legge 24 luglio 1919, n. 1382](Relativa%20alla%20conversione%20del%20decreto-legge%20Luogotenenziale%2026%20luglio%201917%20n.1231%20autorizzante%20la%20Cassa%20dei%20depositi%20e%20prestiti%20a%20concedere%20ai%20Comuni%20e%20alle%20Provincie%20mutui%20senza%20interess_2c750fd6cc05.md), con le altre istituzioni menzionate nei [Regi decreti 30 dicembre 1923, nn. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839) e [2889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2889), nonche' con gli ufficiali sanitari dei singoli Comuni e con le autorita' scolastiche, l'opera di profilassi antitubercolare dell'infanzia e la lotta contro le altre malattie infantili; invigila l'applicazione delle disposizioni legislative e regolamentari in vigore per la protezione della maternita' e dell'infanzia; promuove per il miglioramento fisico e morale dei fanciulli e degli adolescenti, quando ne ravvisi l'opportunita', la riforma di tali disposizioni.
+ Favorisce inoltre la diffusione delle norme e dei metodi scientifici d'igiene prenatale e infantile nelle famiglie e negli istituti, anche mediante l'istituzione di ambulatori per la sorveglianza e la cura delle donne gestanti specialmente in riguardo alla sifilide; di scuole teorico-pratiche di puericoltura e corsi popolari d'igiene materna e infantile; organizza, d'accordo con le Amministrazioni delle Provincie, con i Consorzi provinciali antitubercolari, istituiti dalla [legge 24 luglio 1919, n. 1382](Relativa%20alla%20conversione%20del%20decreto-legge%20Luogotenenziale%2026%20luglio%201917%20n.1231%20autorizzante%20la%20Cassa%20dei%20depositi%20e%20prestiti%20a%20concedere%20ai%20Comuni%20e%20alle%20Provincie%20mutui%20senza%20interess_2c750fd6cc05.md), con le altre istituzioni menzionate nei [Regi decreti 30 dicembre 1923, nn. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md) e [2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), nonche' con gli ufficiali sanitari dei singoli Comuni e con le autorita' scolastiche, l'opera di profilassi antitubercolare dell'infanzia e la lotta contro le altre malattie infantili; invigila l'applicazione delle disposizioni legislative e regolamentari in vigore per la protezione della maternita' e dell'infanzia; promuove per il miglioramento fisico e morale dei fanciulli e degli adolescenti, quando ne ravvisi l'opportunita', la riforma di tali disposizioni.
 
 ## Art. 5.
 
 L'Opera Nazionale e' investita di un potere di vigilanza e di controllo, su tutte le istituzioni pubbliche e private per l'assistenza e protezione della maternita' e dell'infanzia, e nello esercizio di tale potere, ha la facolta' di provocare dalle competenti autorita' governative i provvedimenti d'ufficio eventualmente necessari, e di promuovere, in particolar modo la sospensione e lo scioglimento delle Amministrazioni delle istituzioni pubbliche e la chiusura degli istituti pubblici e privati. 
  
- Restano ferme le disposizioni della [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), e del [R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841), relative alla tutela e alla vigilanza governativa sulle istituzioni pubbliche di assistenza e beneficenza.
+ Restano ferme le disposizioni della [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), e del [R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), relative alla tutela e alla vigilanza governativa sulle istituzioni pubbliche di assistenza e beneficenza.
 
 ## Art. 6.
 
@@ -84,14 +84,14 @@ L'Opera Nazionale provvede al conseguimento dei propri scopi:
  
  1° con un contributo di L. 8,000,000 corrisposto annualmente dal Ministero dell'interno sul fondo stanziato nel bilancio dello stesso Ministero per sovvenzionare le istituzioni pubbliche di assistenza e beneficenza aventi fini di ricovero e legalmente riconosciute; 
  
- 2° coi fondi stanziati per l'assistenza dei fanciulli poveri, nei bilanci delle istituzioni destinate all'erogazione di sussidi di carattere indeterminato, in forza dell'[art. 20 del R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841#art_20); 
+ 2° coi fondi stanziati per l'assistenza dei fanciulli poveri, nei bilanci delle istituzioni destinate all'erogazione di sussidi di carattere indeterminato, in forza dell'[art. 20 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md); 
  
- 3° con la percentuale degli utili di gestione dei Monti di pieta' di prima categoria, riservata in base all'[art. 3 del R. decreto 14 giugno 1923, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1396#art_3), a favore delle istituzioni di beneficenza e assistenza sociale; 
+ 3° con la percentuale degli utili di gestione dei Monti di pieta' di prima categoria, riservata in base all'[art. 3 del R. decreto 14 giugno 1923, n. 1396](Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), a favore delle istituzioni di beneficenza e assistenza sociale; 
  
  4° con quella percentuale di utili netti che potra' essere annualmente destinata a suo favore dai seguenti istituti di credito:
 Banco di Napoli, Banco di Sicilia, Banco di S. Spirito di Roma, Monte dei Paschi di Siena, Istituto delle Opere pie di S. Paolo di Torino, Cassa di risparmio delle Provincie lombarde; 
  
- 5° col quarto della tassa comunale di soggiorno devoluto dal 1° gennaio 1925, a favore degli istituti di beneficenza locali, in virtu' del [R. decreto-legge 4 gennaio 1925, n.2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-01-04;2); 
+ 5° col quarto della tassa comunale di soggiorno devoluto dal 1° gennaio 1925, a favore degli istituti di beneficenza locali, in virtu' del [R. decreto-legge 4 gennaio 1925, n.2](Imposta%20complementare%20sul%20reddito.%20025U0002.md); 
  
  6° con le contribuzioni dei soci; 
  
@@ -139,7 +139,7 @@ In ogni Comune l'attuazione dei compiti dell'Opera Nazionale e' affidata a patro
  
  5° denunziano i fatti, pervenuti a loro notizia, i quali possano costituire contravvenzione alla legge sul lavoro dei fanciulli e alle altre disposizioni emanate a tutela di questi; 
  
- 6° assumono tutte quelle altre iniziative che possano rendersi necessarie per la protezione e l'assistenza della maternita' e dell'infanzia nei singoli Comuni, e promuovono, quando occorra, dai Sottoprefetti, i provvedimenti di cui all'[articolo 27 del R. decreto 30 dicembre 1923 n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841#art_27). 
+ 6° assumono tutte quelle altre iniziative che possano rendersi necessarie per la protezione e l'assistenza della maternita' e dell'infanzia nei singoli Comuni, e promuovono, quando occorra, dai Sottoprefetti, i provvedimenti di cui all'[articolo 27 del R. decreto 30 dicembre 1923 n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md). 
  
  Nell'esercizio delle funzioni di protezione dell'infanzia i patroni possono richiedere, ove occorra, il diretto intervento degli ufficiali ed agenti di polizia giudiziaria, e degli ispettori dell'industria e del lavoro, i quali devono prestare la necessaria assistenza.
 
@@ -171,11 +171,11 @@ Le istituzioni pubbliche e private attualmente esistenti per la protezione e l'a
 
 ## Art. 15.
 
-Gli ospedali, asili di maternita' e altri congeneri istituti hanno l'obbligo di provvedere, nei limiti dei posti disponibili, all'assistenza delle gestanti che abbiano compiuto l'ottavo mese di gravidanza, delle partorienti e delle puerpere fino a quattro settimane dopo il parto, ancorche' si tratti di donne che, secondo le norme statutarie, non abbiano titolo al ricovero gratuito nell'istituto; salvo in questo caso il diritto al rimborso delle spese di assistenza a norma dell'[art. 34 del R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841#art_34), e salvo il disposto del secondo comma dell'art. 14 della presente legge.
+Gli ospedali, asili di maternita' e altri congeneri istituti hanno l'obbligo di provvedere, nei limiti dei posti disponibili, all'assistenza delle gestanti che abbiano compiuto l'ottavo mese di gravidanza, delle partorienti e delle puerpere fino a quattro settimane dopo il parto, ancorche' si tratti di donne che, secondo le norme statutarie, non abbiano titolo al ricovero gratuito nell'istituto; salvo in questo caso il diritto al rimborso delle spese di assistenza a norma dell'[art. 34 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e salvo il disposto del secondo comma dell'art. 14 della presente legge.
 
 ## Art. 16.
 
-Le norme degli articoli 6 e 10 del testo unico della legge sul lavoro delle donne e dei fanciulli approvato con [R. decreto 10 novembre 1907, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-11-10;818), e del relativo regolamento concernenti il periodo di riposo per le puerpere e i riposi per l'allattamento, sono applicabili anche alle donne impiegate in stabilimenti dello Stato o di altri Enti pubblici, in quanto ad esse non provvedano disposizioni ugualmente favorevoli di particolari leggi e regolamenti.
+Le norme degli articoli 6 e 10 del testo unico della legge sul lavoro delle donne e dei fanciulli approvato con [R. decreto 10 novembre 1907, n. 818](Che%20approva%20lunito%20testo%20unico%20di%20legge%20sul%20lavoro%20delle%20donne%20e%20dei%20fanciulli.%20007U0818.md), e del relativo regolamento concernenti il periodo di riposo per le puerpere e i riposi per l'allattamento, sono applicabili anche alle donne impiegate in stabilimenti dello Stato o di altri Enti pubblici, in quanto ad esse non provvedano disposizioni ugualmente favorevoli di particolari leggi e regolamenti.
 
 ## Art. 17.
 
@@ -183,7 +183,7 @@ Quando le autorita' di pubblica sicurezza o le istituzioni di beneficenza e assi
  
  Lo Stesso obbligo incombe a qualunque cittadino che trovi abbandonato in luogo pubblico un fanciullo minore a quattordici anni o venga a conoscenza che un fanciullo trovasi in istato di abbandono materiale o morale. 
  
- Ai cittadini trasgressori e' applicabile la pena prevista nell'[art. 389, primo comma, del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_389-com1).
+ Ai cittadini trasgressori e' applicabile la pena prevista nell'[art. 389, primo comma, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 18.
 
@@ -197,11 +197,11 @@ Agli effetti della vigilanza di cui al n. 1 dell'art. 10 della presente legge, a
 
 Quando un fanciullo sia allevato in locali insalubri o pericolosi, oppure da persone che, per negligenza, immoralita', ignoranza o cattiva condotta o per altri motivi, siano incapaci di provvedere alla sua educazione e istruzione, i patroni, con l'assistenza delle autorita' di pubblica sicurezza, debbono ritirarlo e collocarlo in luogo sicuro, sino a che si possa provvedere alla sua restituzione ai genitori, o al tutore, oppure al suo ricovero in idoneo istituto. 
  
- Uguale provvedimento debbono adottare i patroni, quando le nutrici, gli allevatori e gli amministratori e direttori degli istituti pubblici e privati si oppongano, senza giustificati motivi, alle loro visite o a quelle degli ispettori di cui all'articolo 9 della presente legge, salvo l'applicazione, a carico delle nutrici e degli allevatori, amministratori o direttori delle pene previste nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) nei casi di abuso dei mezzi di correzione o di maltrattamenti verso i fanciulli allevati o ricoverati e nei casi di violenze o minacce verso i patroni o ispettori, i quali vanno considerati a tutti gli effetti come pubblici ufficiali.
+ Uguale provvedimento debbono adottare i patroni, quando le nutrici, gli allevatori e gli amministratori e direttori degli istituti pubblici e privati si oppongano, senza giustificati motivi, alle loro visite o a quelle degli ispettori di cui all'articolo 9 della presente legge, salvo l'applicazione, a carico delle nutrici e degli allevatori, amministratori o direttori delle pene previste nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nei casi di abuso dei mezzi di correzione o di maltrattamenti verso i fanciulli allevati o ricoverati e nei casi di violenze o minacce verso i patroni o ispettori, i quali vanno considerati a tutti gli effetti come pubblici ufficiali.
 
 ## Art. 20.
 
-Il procuratore del Re deve trasmettere al Comitato di patronato del luogo di residenza del minorenne, per gli opportuni provvedimenti di assistenza, copia delle sentenze che riguardo ad uno o ad entrambi i genitori, importino privazione del diritto di patria potesta', della tutela legale e della qualita' di tutore, in base agli articoli 20 (n. 5), 33, 349 e 392 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), 233 del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), 113 e 116 della [legge 30 giugno 1889, n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-30;6144) sulla pubblica sicurezza, 1 e 2 della [legge 21 dicembre 1873, n. 1733](Sul%20divieto%20dellimpiego%20di%20fanciulli%20in%20professioni%20girovaghe.%20073U1733.md) sul divieto dell'impiego dei fanciulli in professioni girovaghe.
+Il procuratore del Re deve trasmettere al Comitato di patronato del luogo di residenza del minorenne, per gli opportuni provvedimenti di assistenza, copia delle sentenze che riguardo ad uno o ad entrambi i genitori, importino privazione del diritto di patria potesta', della tutela legale e della qualita' di tutore, in base agli articoli 20 (n. 5), 33, 349 e 392 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), 233 del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), 113 e 116 della [legge 30 giugno 1889, n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-30;6144) sulla pubblica sicurezza, 1 e 2 della [legge 21 dicembre 1873, n. 1733](Sul%20divieto%20dellimpiego%20di%20fanciulli%20in%20professioni%20girovaghe.%20073U1733.md) sul divieto dell'impiego dei fanciulli in professioni girovaghe.
 
 ## Art. 21.
 
@@ -219,7 +219,7 @@ E' vietato l'impiego dei fanciulli dell'uno e dell'altro sesso, minori di quindi
 
 La Commissione a cui spetta di autorizzare gli spettacoli cinematografici decidera' a quali di essi possano assistere i fanciulli e adolescenti dell'uno e dell'altro sesso. Qualora li escluda, la Direzione dello spettacolo dovra' pubblicarne l'avviso sul manifesto dello spettacolo e curare rigorosamente l'esecuzione dell'ordine. 
  
- I concessionari o direttori delle sale cinematografiche, i quali contravvengano a tali disposizioni, incorrono nell'ammenda da L. 200 a 500; e nel caso di recidiva l'autorita' locale di pubblica sicurezza sospendera' o revochera' la licenza di cui agli [articoli 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-30;6144#art_37) e [39 della legge 30 giugno 1889, n.6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-30;6144#art_39), salvo le sanzioni previste nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ I concessionari o direttori delle sale cinematografiche, i quali contravvengano a tali disposizioni, incorrono nell'ammenda da L. 200 a 500; e nel caso di recidiva l'autorita' locale di pubblica sicurezza sospendera' o revochera' la licenza di cui agli [articoli 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-30;6144#art_37) e [39 della legge 30 giugno 1889, n.6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-30;6144#art_39), salvo le sanzioni previste nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 23.
 
@@ -231,7 +231,7 @@ Sono vietati nelle scuole, nei convitti e in tutti gli istituti di educazione e 
  
  E' in facolta' dei Prefetti di vietare, per ragioni di moralita' o di ordine pubblico, l'impiego nei detti esercizi di donne anche maggiori di anni diciotto. 
  
- I contravventori alle disposizioni del presente articolo sono puniti a norma dell'[art. 489 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_489), salvo, per i pubblici esercenti, la revoca della licenza a norma dei primi due capoversi dell'[art. 10 della legge 19 giugno 1913, n. 632](Recante%20provvedimenti%20per%20combattere%20lalcoolismo.%20013U0632.md) contro l'alcoolismo.
+ I contravventori alle disposizioni del presente articolo sono puniti a norma dell'[art. 489 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo, per i pubblici esercenti, la revoca della licenza a norma dei primi due capoversi dell'[art. 10 della legge 19 giugno 1913, n. 632](Recante%20provvedimenti%20per%20combattere%20lalcoolismo.%20013U0632.md) contro l'alcoolismo.
 
 ## Art. 24.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli ufficiali generali ed ai colonnelli della Regia aeronautica collocati in aspettativa per riduzione di quadri, in applicazione dell'[art. 1 del R. decreto-legge 26 settembre 1926, numero 1650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-26;1650#art_1), verra' corrisposta, a titolo di assegno personale, la differenza tra il trattamento economico loro spettante in detta posizione, e quello che sarebbe loro spettato se fossero stati collocati in ausiliaria, qualora quest'ultimo risultasse piu' favorevole. 
+Agli ufficiali generali ed ai colonnelli della Regia aeronautica collocati in aspettativa per riduzione di quadri, in applicazione dell'[art. 1 del R. decreto-legge 26 settembre 1926, numero 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), verra' corrisposta, a titolo di assegno personale, la differenza tra il trattamento economico loro spettante in detta posizione, e quello che sarebbe loro spettato se fossero stati collocati in ausiliaria, qualora quest'ultimo risultasse piu' favorevole. 
  
  Tale assegno personale non avra' alcuna influenza sul successivo trattamento di quiescenza che sara' regolato dalle vigenti disposizioni.
 

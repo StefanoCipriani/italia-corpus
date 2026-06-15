@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 28 marzo 1912, n. 232, 29 dicembre 1912, n. 1357, e 16aprile 1914, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-04-16;275), concernenti spese per la spedizione militare nella Tripolitania e nella Cirenaica;
+Viste le [leggi 28 marzo 1912, n. 232, 29 dicembre 1912, n. 1357, e 16aprile 1914, n. 275](Che%20approva%20spese%20determinate%20dalloccupazione%20della%20Tripolitania%20e%20della%20Cirenaica%20e%20dalloccupazione%20temporanea%20delle%20isole%20dellEgeo.%20014U0275.md), concernenti spese per la spedizione militare nella Tripolitania e nella Cirenaica;
 
-Ritenuto che le indicate leggi riguardano, fra altro, spese per l'importo di L. 769.000.000 anticipate in conto corrente dal tesoro ai sensi dell'[art. 16 della legge 17 luglio 1910, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;511#art_16), e per L. 147.227.559,53 prelevate dalla cassa;
+Ritenuto che le indicate leggi riguardano, fra altro, spese per l'importo di L. 769.000.000 anticipate in conto corrente dal tesoro ai sensi dell'[art. 16 della legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md), e per L. 147.227.559,53 prelevate dalla cassa;
 
 Considerato che a tutto l'esercizio 1915-916 per effetto delle disposizioni contenute nelle ripetute leggi, vennero stanziate in bilancio per restituirle al tesoro L. 280.876.138,16, per modo che a cominciare dall'esercizio 1916-917 restavano da inscrivere L. 635.351.421,37;
 
@@ -30,7 +30,7 @@ Visto il [decreto Luogotenenziale 25 novembre 1915, n. 1673](https://www.normatt
 
 Ritenuta l'opportunita' di porre a carico dell'esercizio 1916-917 l'intera somma residuale ora indicata allo scopo di dare sistemazione, nei riguardi contabili, alle spese in parola, le quali non importano movimento di fondi perche' gia' consunte, concorrendo altresi' ad eliminare dal conto del tesoro partite di credito la cui regolarizzazione, agli effetti delle vigenti disposizioni, si sarebbe protratta all'esercizio 1927-928;
 
-Viste le [leggi 14 giugno 1916, n. 738 e 9 luglio 1916, n. 814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-07-09;814);
+Viste le [leggi 14 giugno 1916, n. 738 e 9 luglio 1916, n. 814](Che%20proroga%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lanno%20finanziario%201916-917%20fino%20quando%20non%20siano%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%20_cbe86bff6c88.md);
 
 Udito il Consiglio dei ministri;
 

@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 8 della legge 13 luglio 1910, n.467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;467#art_8), con il quale fu autorizzata la spesa di L. 200.000 per provvedere a bisogni ed opere urgenti nei Comuni colpiti dal terremoto del 25 agosto 1909, nelle provincie di Siena e Grosseto;
+Visto l'[art. 8 della legge 13 luglio 1910, n.467](Provvedimenti%20e%20disposizioni%20in%20seguito%20al%20terremoto%20del%207%20giugno%201910%20ed%20a%20quello%20del%2025%20agosto%201909.%20010U0467.md), con il quale fu autorizzata la spesa di L. 200.000 per provvedere a bisogni ed opere urgenti nei Comuni colpiti dal terremoto del 25 agosto 1909, nelle provincie di Siena e Grosseto;
 
-Visti gli articoli 1 della legge succitata 13 luglio 1910, n. 467; 2 ([lett. h) della legge 13 aprile 1911, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-13;311#art_leth); 1 ([lett. e) del R. decreto 21 dicembre 1911, n. 1471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-21;1471#art_lete), e [articolo 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-04-04;297#art_4) ([lett. v) della legge 4 aprile 1912, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-04-04;297#art_letv), con i quali fu complessivamente autorizzata la spesa di L. 4.200.000 per provvedere a bisogni ed opere urgenti nei Comuni colpiti dal terremoto del 7 giugno 1910 nelle provincie di Avellino, Potenza e Salerno;
+Visti gli articoli 1 della legge succitata 13 luglio 1910, n. 467; 2 ([lett. h) della legge 13 aprile 1911, n. 311](Per%20la%20conversione%20in%20legge%20del%20R.%20decreto%2018%20settembre%201910%20n.%20684%20per%20le%20Puglie%20e%20per%20autorizzazione%20di%20spese%20e%20provvedimenti%20urgenti%20per%20lavori%20pubblici.%20011U0311.md); 1 ([lett. e) del R. decreto 21 dicembre 1911, n. 1471](Portante%20iscrizione%20di%20spese%20nella%20parte%20straordinaria%20del%20bilancio%20del%20ministero%20dei%20lavori%20pubblici%20ed%20altri%20provvedimenti%20relativi%20a%20disastri%20verificatisi%20in%20alcune%20provincie%20del%20Regno.%20011U1471.md), e [articolo 4](Che%20approva%20laumento%20della%20spesa%20straordinaria%20consolidata%20del%20Ministero%20dei%20lavori%20pubblici%20per%20gli%20esercizi%20finanziari%20dal%201912-913%20al%201920-921.%20012U0297.md) ([lett. v) della legge 4 aprile 1912, n. 297](Che%20approva%20laumento%20della%20spesa%20straordinaria%20consolidata%20del%20Ministero%20dei%20lavori%20pubblici%20per%20gli%20esercizi%20finanziari%20dal%201912-913%20al%201920-921.%20012U0297.md), con i quali fu complessivamente autorizzata la spesa di L. 4.200.000 per provvedere a bisogni ed opere urgenti nei Comuni colpiti dal terremoto del 7 giugno 1910 nelle provincie di Avellino, Potenza e Salerno;
 
-Visto l'[art. 1 della legge 19 luglio 1914, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;761#art_1), col quale fu autorizzata la spesa di L. 1.500.000 per provvedere a bisogni ed opere urgenti nelle localita' colpite dal terremoto dell'8 maggio 1914 in provincia di Catania;
+Visto l'[art. 1 della legge 19 luglio 1914, n. 761](Concernente%20provvedimenti%20a%20favore%20dei%20danneggiati%20dal%20terremoto%20dell8%20maggio%201914%20nella%20provincia%20di%20Catania%20e%20modificazioni%20alla%20legge%2012%20luglio%201912%20n.%20712.%20014U0761.md), col quale fu autorizzata la spesa di L. 1.500.000 per provvedere a bisogni ed opere urgenti nelle localita' colpite dal terremoto dell'8 maggio 1914 in provincia di Catania;
 
 Ritenuta la necessita' di aumentare della somma di L. 200.000 l'autorizzazione di spesa di L. 1.500.000 di cui al precedente paragrafo;
 
@@ -36,12 +36,12 @@ Sulla proposta del ministro dei lavori pubblici, di concerto col presidente del 
 
 ## Art. 1.
 
-In aggiunta al fondo di L. 1.500.000 concesso con l'[art. 1 della legge 19 luglio 1914, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;761#art_1), e' autorizzata la maggiore spesa di L.
+In aggiunta al fondo di L. 1.500.000 concesso con l'[art. 1 della legge 19 luglio 1914, n. 761](Concernente%20provvedimenti%20a%20favore%20dei%20danneggiati%20dal%20terremoto%20dell8%20maggio%201914%20nella%20provincia%20di%20Catania%20e%20modificazioni%20alla%20legge%2012%20luglio%201912%20n.%20712.%20014U0761.md), e' autorizzata la maggiore spesa di L.
 200.000. 
  
- L'autorizzazione di spesa di L. 200.000 di cui all'[art. 8 della legge 13 luglio 1910, n. 467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;467#art_8), resta ridotta a L. 100.000. 
+ L'autorizzazione di spesa di L. 200.000 di cui all'[art. 8 della legge 13 luglio 1910, n. 467](Provvedimenti%20e%20disposizioni%20in%20seguito%20al%20terremoto%20del%207%20giugno%201910%20ed%20a%20quello%20del%2025%20agosto%201909.%20010U0467.md), resta ridotta a L. 100.000. 
  
- E parimenti resta ridotta a L. 4.100.000 la autorizzazione di spesa di L. 4.200.000 concessa dagli articoli 1° della [legge 13 luglio 1910, n. 467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;467); 2, [lettera h) della legge 13 aprile 1911, n. 311, 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-13;1#art_leth)° [lettera e), del R. decreto 21 dicembre 1911, n. 1471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-21;1471#art_lete), e [art. 4, lettera v), della legge 4 aprile 1912, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-04-04;297#art_4-letv).
+ E parimenti resta ridotta a L. 4.100.000 la autorizzazione di spesa di L. 4.200.000 concessa dagli articoli 1° della [legge 13 luglio 1910, n. 467](Provvedimenti%20e%20disposizioni%20in%20seguito%20al%20terremoto%20del%207%20giugno%201910%20ed%20a%20quello%20del%2025%20agosto%201909.%20010U0467.md); 2, [lettera h) della legge 13 aprile 1911, n. 311, 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-13;1#art_leth)° [lettera e), del R. decreto 21 dicembre 1911, n. 1471](Portante%20iscrizione%20di%20spese%20nella%20parte%20straordinaria%20del%20bilancio%20del%20ministero%20dei%20lavori%20pubblici%20ed%20altri%20provvedimenti%20relativi%20a%20disastri%20verificatisi%20in%20alcune%20provincie%20del%20Regno.%20011U1471.md), e [art. 4, lettera v), della legge 4 aprile 1912, n. 297](Che%20approva%20laumento%20della%20spesa%20straordinaria%20consolidata%20del%20Ministero%20dei%20lavori%20pubblici%20per%20gli%20esercizi%20finanziari%20dal%201912-913%20al%201920-921.%20012U0297.md).
 
 ## Art. 2.
 
@@ -60,15 +60,15 @@ In relazione all'aumento e alle diminuzioni apportate alle autorizzazioni di spe
  aventi scopo di beneficenza e di edifici di uso 
  pubblico danneggiati dal terremoto nei Comuni 
  stessi (art. 1° della [legge 13 luglio 1910, n. 
- 467; art. 2, lettera A)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;467#art_2-leta), della [legge 13 aprile 
- 1911, n. 311 ; art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-13;311#art_1)° [lettera e), del R. 
- decreto 21 dicembre 1911, n. 1471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-21;1471#art_lete); e [art. 4, 
- lettera v), della legge 4 aprile 1912, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-04-04;297#art_4-letv)) . . . - 100.000,-- 
+ 467; art. 2, lettera A)](Provvedimenti%20e%20disposizioni%20in%20seguito%20al%20terremoto%20del%207%20giugno%201910%20ed%20a%20quello%20del%2025%20agosto%201909.%20010U0467.md), della [legge 13 aprile 
+ 1911, n. 311 ; art. 1](Per%20la%20conversione%20in%20legge%20del%20R.%20decreto%2018%20settembre%201910%20n.%20684%20per%20le%20Puglie%20e%20per%20autorizzazione%20di%20spese%20e%20provvedimenti%20urgenti%20per%20lavori%20pubblici.%20011U0311.md)° [lettera e), del R. 
+ decreto 21 dicembre 1911, n. 1471](Portante%20iscrizione%20di%20spese%20nella%20parte%20straordinaria%20del%20bilancio%20del%20ministero%20dei%20lavori%20pubblici%20ed%20altri%20provvedimenti%20relativi%20a%20disastri%20verificatisi%20in%20alcune%20provincie%20del%20Regno.%20011U1471.md); e [art. 4, 
+ lettera v), della legge 4 aprile 1912, n. 297](Che%20approva%20laumento%20della%20spesa%20straordinaria%20consolidata%20del%20Ministero%20dei%20lavori%20pubblici%20per%20gli%20esercizi%20finanziari%20dal%201912-913%20al%201920-921.%20012U0297.md)) . . . - 100.000,-- 
  » » 322. Spese per provvedere a bisogni e 
  ad opere urgenti nei Comuni colpiti dal 
  terremoto del 25 agosto 1909, nelle provincie di 
  Siena e Grosseto ([art. 8 della legge 13 luglio 
- 1910, n. 467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;467#art_8)) . . . . . . . . . . . . . . . . . . . - 100.000,-- 
+ 1910, n. 467](Provvedimenti%20e%20disposizioni%20in%20seguito%20al%20terremoto%20del%207%20giugno%201910%20ed%20a%20quello%20del%2025%20agosto%201909.%20010U0467.md)) . . . . . . . . . . . . . . . . . . . - 100.000,-- 
  » » 326. Provvedimenti diretti ad alleviare 
  i danni arrecati dal terremoto dell'8 maggio 
  1914 in provincia di Catania (art. 1° della 

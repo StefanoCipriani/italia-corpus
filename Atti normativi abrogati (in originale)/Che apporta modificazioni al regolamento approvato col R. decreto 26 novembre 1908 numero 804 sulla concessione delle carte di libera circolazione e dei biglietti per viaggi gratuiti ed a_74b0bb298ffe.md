@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-I sotto indicati articoli del regolamento per la concessione delle carte di libera circolazione e dei biglietti per viaggi gratuiti ed a prezzo ridotto, approvato con [R. decreto n. 804 del 26 novembre 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-26;804), sono modificati come segue: 
+I sotto indicati articoli del regolamento per la concessione delle carte di libera circolazione e dei biglietti per viaggi gratuiti ed a prezzo ridotto, approvato con [R. decreto n. 804 del 26 novembre 1908](Che%20approva%20il%20regolamento%20per%20la%20concessione%20delle%20carte%20di%20libera%20circolazione%20e%20dei%20biglietti%20di%20viaggi%20gratuiti%20ed%20a%20prezzo%20ridotto.%20008U0804.md), sono modificati come segue: 
  
  «Art. 21. - Per ottenere le concessioni di viaggio il giornalista regolarmente inscritto nell'elenco di cui all'art. 18 deve farne annualmente domanda alla Direzione generale delle ferrovie dello Stato corredando la domanda stessa della propria fotografia da lui firmata sul davanti. 
  

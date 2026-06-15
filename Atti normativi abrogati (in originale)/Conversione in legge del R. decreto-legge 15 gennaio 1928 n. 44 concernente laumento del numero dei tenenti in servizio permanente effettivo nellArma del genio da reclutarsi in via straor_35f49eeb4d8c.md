@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 gennaio 1928, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-15;44), concernente l'aumento del numero dei tenenti in servizio permanente effettivo nell'Arma del genio da reclutarsi in via straordinaria. 
+ E' convertito in legge il [R. decreto-legge 15 gennaio 1928, n. 44](Aumento%20del%20numero%20dei%20tenenti%20in%20servizio%20permanente%20effettivo%20nellArma%20del%20genio%20da%20reclutarsi%20in%20via%20straordinaria.%20028U0044.md), concernente l'aumento del numero dei tenenti in servizio permanente effettivo nell'Arma del genio da reclutarsi in via straordinaria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

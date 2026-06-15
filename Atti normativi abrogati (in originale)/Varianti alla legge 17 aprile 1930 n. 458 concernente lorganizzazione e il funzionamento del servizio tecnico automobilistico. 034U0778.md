@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 17 aprile 1930, n. 458](Istituzione%20del%20Servizio%20tecnico%20automobilistico%20e%20sua%20organizzazione%20e%20funzionamento.%20030U0458.md), circa la istituzione del servizio tecnico automobilistico, la sua organizzazione e il suo funzionamento;
 
-Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-21;629), e successive modificazioni;
+Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), e successive modificazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 

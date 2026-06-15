@@ -18,11 +18,11 @@ UMBERTO DI SAVOIA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduto il [R. decreto-legge 16 giugno 1927, n. 1231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-16;1231), col quale venne fondato l'Istituto nazionale di assistenza magistrale intitolato al nome di Rosa Maltoni Mussolini; 
+ Veduto il [R. decreto-legge 16 giugno 1927, n. 1231](Fondazione%20in%20Roma%20dellIstituto%20nazionale%20di%20assistenza%20magistrale%20%20Rosa%20Maltoni%20Mussolini%20.%20027U1231.md), col quale venne fondato l'Istituto nazionale di assistenza magistrale intitolato al nome di Rosa Maltoni Mussolini; 
  
- Veduta la [legge 4 settembre 1940, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-04;1547); 
+ Veduta la [legge 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md); 
  
- Visto l'[art. 2 del R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2#art_2). 
+ Visto l'[art. 2 del R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md). 
  
  Visto l'[art. 5 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_5); 
  

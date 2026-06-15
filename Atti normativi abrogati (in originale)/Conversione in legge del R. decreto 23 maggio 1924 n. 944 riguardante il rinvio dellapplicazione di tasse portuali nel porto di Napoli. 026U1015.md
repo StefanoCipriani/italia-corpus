@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 23 maggio 1924, n. 944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;944), che proroga l'applicazione dell'[art. 4 del R. decreto-legge 20 gennaio 1924, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-01-20;239#art_4), concernente provvedimenti per lavori di costruzione, ampliamento ed arredamento del porto di Napoli. 
+ E' convertito in legge il [R. decreto 23 maggio 1924, n. 944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;944), che proroga l'applicazione dell'[art. 4 del R. decreto-legge 20 gennaio 1924, n. 239](Provvedimenti%20per%20lavori%20di%20costruzione%20ampliamento%20e%20arredamento%20del%20porto%20di%20Napoli.%20024U0239.md), concernente provvedimenti per lavori di costruzione, ampliamento ed arredamento del porto di Napoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

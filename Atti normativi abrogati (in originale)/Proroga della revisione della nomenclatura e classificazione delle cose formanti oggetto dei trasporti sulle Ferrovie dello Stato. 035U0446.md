@@ -20,11 +20,11 @@ VITTORIO EMANUELE III
  
  Visto l'art. 12 delle norme approvate col [decreto Luogotenenziale 12 settembre 1915, n. 1888](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-09-12;1888); 
  
- Visto il [R. decreto 12 novembre 1921, n. 1585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-12;1585), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473); 
+ Visto il [R. decreto 12 novembre 1921, n. 1585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-12;1585), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md); 
  
  Visto il [R. decreto-legge 13 gennaio 1927, n. 39](Differimento%20della%20revisione%20della%20nomenclatura%20e%20classificazione%20delle%20cose%20formanti%20oggetto%20dei%20trasporti%20sulle%20Ferrovie%20dello%20Stato%20di%20cui%20allart.%2040%20della%20legge%207%20luglio%201907%20n.%20429.%20027U0039.md), convertito nella [legge 29 dicembre 1927, n. 2631](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201927%20n.%2039%20concernente%20il%20differimento%20della%20revisione%20della%20nomenclatura%20e%20classificazione%20delle%20cose%20formanti%20oggetto%20dei%20trasporti%20_1f22184e8200.md); 
  
- Visto il [R. decreto 30 dicembre 1929, n. 2484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-30;2484); 
+ Visto il [R. decreto 30 dicembre 1929, n. 2484](Proroga%20della%20revisione%20della%20nomenclatura%20e%20classificazione%20delle%20cose%20trasportate%20per%20ferrovia.%20029U2484.md); 
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  

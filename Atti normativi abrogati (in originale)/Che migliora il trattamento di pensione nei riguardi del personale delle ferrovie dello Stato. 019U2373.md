@@ -74,7 +74,7 @@ Agli effetti della liquidazione della pensione agli agenti esonerati in base all
  
  Rimangono pero' ferme le disposizioni dell'art. 2 per quanto riguarda il periodo di servizio utile pel conseguimento della pensione, nonche' quella dell'ultimo comma dell'articolo precedente per quanto riguarda la valutazione del servizio utile pel conseguimento della pensione ivi prevista. 
  
- Al personale destinato stabilmente in Tripolitania e in Cirenaica e' estesa la disposizione dell'[art. 11 del R. decreto 5 giugno 1913, n. 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-05;798#art_11).
+ Al personale destinato stabilmente in Tripolitania e in Cirenaica e' estesa la disposizione dell'[art. 11 del R. decreto 5 giugno 1913, n. 798](Col%20quale%20vengono%20disciplinate%20le%20norme%20per%20la%20scelta%20degli%20impiegati%20civili%20di%20ruolo%20da%20destinarsi%20in%20Tripolitania%20e%20nella%20Cirenaica%20e%20per%20il%20correlativo%20trattamento%20economico.%20013U0798.md).
 
 ## Art. 5.
 

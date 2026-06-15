@@ -25,7 +25,7 @@ recante nuova autorizzazione di spesa pei lavori dipendenti dai Patti Lateranens
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 970](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-03;970), recante nuova autorizzazione di spesa per i lavori dipendenti dai Patti Lateranensi. 
+ E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 970](Nuova%20autorizzazione%20di%20spesa%20pei%20lavori%20dipendenti%20dai%20Patti%20Lateranensi.%20030U0970.md), recante nuova autorizzazione di spesa per i lavori dipendenti dai Patti Lateranensi. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 22 dicembre 1930 - Anno IX 
  

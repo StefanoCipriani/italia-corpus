@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 maggio 1934, n. 1150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-05-03;1150), che approva il piano regolatore edilizio e di ampliamento della parte vecchia della citta' di Taranto, e il regolamento tecnico per la sua attuazione. 
+ E' convertito in legge il [R. decreto-legge 3 maggio 1934, n. 1150](Approvazione%20del%20piano%20generale%20di%20massima%20regolatore%20edilizio%20e%20di%20ampliamento%20della%20citta%20vecchia%20di%20Taranto%20e%20delle%20relative%20norme%20di%20attuazione.%20034U1150.md), che approva il piano regolatore edilizio e di ampliamento della parte vecchia della citta' di Taranto, e il regolamento tecnico per la sua attuazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

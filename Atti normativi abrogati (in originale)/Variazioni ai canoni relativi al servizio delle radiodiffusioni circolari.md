@@ -10,41 +10,41 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [regio decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562);
+Visto il [regio decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il [regio decreto-legge 17 novembre 1927, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-17;2207), convertito nella [legge 17 marzo 1928, n. 1350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-17;1350);
+Visto il [regio decreto-legge 17 novembre 1927, n. 2207](Nuove%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20delle%20radioaudizioni%20circolari.%20027U2207.md), convertito nella [legge 17 marzo 1928, n. 1350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-17;1350);
 
 Visto il [regio decreto 3 agosto 1928, n. 2295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;2295);
 
-Visto il [regio decreto-legge 17 aprile 1931, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-17;589), convertito nella [legge 21 dicembre 1931, n. 1823](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-12-21;1823);
+Visto il [regio decreto-legge 17 aprile 1931, n. 589](Disposizioni%20aggiuntive%20alle%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20della%20radiodiffusione.%20031U0589.md), convertito nella [legge 21 dicembre 1931, n. 1823](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%2017%20aprile%201931%20n.%20589%20recante%20disposizioni%20aggiuntive%20alle%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20della%20radio-diffusione.%20031U1823.md);
 
-Visto il [regio decreto-legge 3 marzo 1932, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-03-03;246), convertito nella [legge 23 maggio 1932, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-05-23;650);
+Visto il [regio decreto-legge 3 marzo 1932, n. 246](Provvedimenti%20riguardanti%20il%20servizio%20delle%20radiodiffusioni.%20032U0246.md), convertito nella [legge 23 maggio 1932, n. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20marzo%201932%20n.%20246%20portante%20provvedimenti%20riguardanti%20il%20servizio%20delle%20radiodiffusioni.%20032U0650.md);
 
-Visto il [regio decreto-legge 20 luglio 1934, n. 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1203), convertito nella [legge 28 marzo 1935, n. 857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-03-28;857);
+Visto il [regio decreto-legge 20 luglio 1934, n. 1203](Provvedimenti%20per%20lo%20sviluppo%20delle%20radiodiffusioni.%20034U1203.md), convertito nella [legge 28 marzo 1935, n. 857](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201203%20portante%20provvedimenti%20per%20lo%20sviluppo%20delle%20radiodiffusione.%20035U0857.md);
 
-Visto il [regio decreto-legge 9 maggio 1935, n. 714](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-09;714), convertito nella [legge 23 dicembre 1935, n. 2259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-23;2259);
+Visto il [regio decreto-legge 9 maggio 1935, n. 714](Variazioni%20in%20ordine%20alla%20applicazione%20della%20tassa%20radiofonica%20sulle%20valvole%20termojoniche.%20035U0714.md), convertito nella [legge 23 dicembre 1935, n. 2259](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%209%20maggio%201935-XIII%20n.%20714%20recante%20variazioni%20in%20ordine%20alla%20applicazione%20della%20tassa%20radiofonica%20sulle%20valvole%20termoioniche.%20035U2259.md);
 
-Visto il [regio decreto-legge 9 settembre 1937, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-09-09;241), convertito nella [legge 31 marzo 1938, n. 706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-31;706);
+Visto il [regio decreto-legge 9 settembre 1937, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-09-09;241), convertito nella [legge 31 marzo 1938, n. 706](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%209%20settembre%201937-XV%20n.%202041%20recante%20agevolazioni%20in%20materia%20di%20tasse%20radiofoniche%20a%20favore%20di%20organizzazioni%20del%20Regime%20e%20provvedimenti%20per%20lo_6a5344e44234.md);
 
-Visto il [regio decreto-legge 21 febbraio 1938, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-21;246), convertito nella [legge 4 giugno 1938, n. 880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-06-04;880);
+Visto il [regio decreto-legge 21 febbraio 1938, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-21;246), convertito nella [legge 4 giugno 1938, n. 880](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20febbraio%201938-XVI%20n.%20246%20recante%20Disciplina%20degli%20abbonamenti%20alle%20radioaudizioni.%20038U0880.md);
 
 Visto il [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 
-Vista la [legge 26 marzo 1942, n. 406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-03-26;406);
+Vista la [legge 26 marzo 1942, n. 406](Agevolazioni%20in%20materia%20di%20abbonamenti%20alle%20radioaudizioni%20per%20impianti%20radiofonici%20centralizzati%20in%20quartieri%20e%20villaggi%20popolari.%20042U0406.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 19 ottobre 1944, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;347);
+Visto il [decreto legislativo luogotenenziale 19 ottobre 1944, n. 347](../Decreti%20legislativi%20luogotenenziali/Istituzione%20del%20Comitato%20interministeriale%20e%20dei%20Comitati%20provinciali%20per%20il%20coordinamento%20e%20la%20disciplina%20dei%20prezzi.%20044U0347.md);
 
-Visto il [decreto legislativo luogotenenziale 21 dicembre 1944, n. 458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-21;458);
+Visto il [decreto legislativo luogotenenziale 21 dicembre 1944, n. 458](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.%20044U0458.md);
 
-Visto il [decreto legislativo luogotenenziale 1° dicembre 1945, n. 834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-12-01;834);
+Visto il [decreto legislativo luogotenenziale 1° dicembre 1945, n. 834](../Decreti%20legislativi%20luogotenenziali/Nuovi%20canoni%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.md);
 
-Visto il [decreto legislativo luogotenenziale 2 aprile 1946, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-02;399);
+Visto il [decreto legislativo luogotenenziale 2 aprile 1946, n. 399](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20relative%20alla%20costruzione%20riparazione%20e%20vendita%20dei%20materiali%20radioelettrici%20e%20alla%20emissione%20delle%20relative%20licenze.md);
 
-Visto il [decreto legislativo luogotenenziale 5 maggio 1946, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-05;382);
+Visto il [decreto legislativo luogotenenziale 5 maggio 1946, n. 382](../Decreti%20legislativi%20luogotenenziali/Abrogazione%20di%20norme%20limitative%20dei%20servizi%20di%20telecomunicazione.md);
 
 Visto il decreto legislative del [Capo provvisorio dello Stato 23 agosto 1946, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato::1946-08-23;211);
 
@@ -61,7 +61,7 @@ Sulla proposta del Ministro Segretario di Stato per le poste e le telecomunicazi
 Il canone annuo di abbonamento ordinario alle radioaudizioni per uso privato familiare e' elevato da L. 420 a L. 1000.
  Nella medesima proporzione, l'Ente concessionario del servizio delle radioaudizioni e autorizzato a maggiorare i canoni degli abbonamenti speciali, compreso il canone per gli impianti centralizzati.
  Le tariffe dei contributi fissi obbligatori ad esclusione di quelli a carico dei Comuni delle licenze per apparecchi radioriceventi in prova, delle licenze di temporanea importazione e quelle delle spese di suggellamento e dissuggellamento degli apparecchi radioriceventi sono maggiorate del 100%.
- Gli aumenti e le maggiorazioni di cui sopra, ad esclusione dei contributi fissi obbligatori, hanno carattere di sopraprezzo e sono regolati dalle norme di cui all'[art. 4 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;347#art_4).
+ Gli aumenti e le maggiorazioni di cui sopra, ad esclusione dei contributi fissi obbligatori, hanno carattere di sopraprezzo e sono regolati dalle norme di cui all'[art. 4 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 347](../Decreti%20legislativi%20luogotenenziali/Istituzione%20del%20Comitato%20interministeriale%20e%20dei%20Comitati%20provinciali%20per%20il%20coordinamento%20e%20la%20disciplina%20dei%20prezzi.%20044U0347.md).
 
 ## Art. 2.
 

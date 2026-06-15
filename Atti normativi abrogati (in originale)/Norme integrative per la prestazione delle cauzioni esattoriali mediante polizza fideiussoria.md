@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico di leggi sulla riscossione delle imposte dirette, approvato con [regio decreto 17 ottobre 1922, n. 1401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-17;1401), e le successive modificazioni;
+Visto il testo unico di leggi sulla riscossione delle imposte dirette, approvato con [regio decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e le successive modificazioni;
 
-Visto il [regio decreto-legge 16 febbraio 1931, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-02-16;210);
+Visto il [regio decreto-legge 16 febbraio 1931, n. 210](Disposizioni%20per%20il%20conferimento%20delle%20esattorie%20delle%20imposte%20dirette%20agli%20effetti%20del%20decennio%201933-1942.%20031U0210.md);
 
-Visto il [regio decreto-legge 7 agosto 1931, n. 1113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-08-07;1113);
+Visto il [regio decreto-legge 7 agosto 1931, n. 1113](Norme%20riguardanti%20le%20cauzioni%20per%20appalti%20esattoriali%20di%20imposte%20dirette%20prestate%20con%20polizze%20fideiussorie%20dellIstituto%20nazionale%20delle%20assicurazioni.%20031U1113.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le finanze, di concerto col Ministro per il teso
 
 ## Art. 1.
 
-Il limite del cinquanta per cento stabilito dall'art. del [regio decreto-legge 16 febbraio 1931, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-02-16;210), convertito nella [legge 18 maggio 1931, n. 802](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-05-18;802), per la prestazione mediante polizze fideiussorie delle cauzioni per appalti esattoriali e' elevato al settantacinque per cento.
+Il limite del cinquanta per cento stabilito dall'art. del [regio decreto-legge 16 febbraio 1931, n. 210](Disposizioni%20per%20il%20conferimento%20delle%20esattorie%20delle%20imposte%20dirette%20agli%20effetti%20del%20decennio%201933-1942.%20031U0210.md), convertito nella [legge 18 maggio 1931, n. 802](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20Regi%20decreti-legge%206%20novembre%201930%20n.%201465%20e%2016%20febbraio%201931%20n.%20210%20contenenti%20modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%2017%20o_3919d9eb2f18.md), per la prestazione mediante polizze fideiussorie delle cauzioni per appalti esattoriali e' elevato al settantacinque per cento.
 
 ## Art. 2.
 

@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), e successive modificazioni ed integrazioni;
+Vista la [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), e successive modificazioni ed integrazioni;
 
-Vista la [legge 31 dicembre 1996, n. 676](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;676), recante delega al Governo in materia di tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali;
+Vista la [legge 31 dicembre 1996, n. 676](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), recante delega al Governo in materia di tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali;
 
 Vista la [legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249), di istituzione dell'Autorita' per le garanzie nelle comunicazioni e recante norme sui sistemi delle telecomunicazioni e radiotelevisivo;
 
@@ -46,7 +46,7 @@ Capo I
 
 1.
 
-Ai fini del presente capo, si applicano le definizioni elencate nell'[articolo 1 della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_1), di seguito denominata legge. Ai medesimi fini, si intende per:
+Ai fini del presente capo, si applicano le definizioni elencate nell'[articolo 1 della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), di seguito denominata legge. Ai medesimi fini, si intende per:
                             a)
                                 "abbonato": qualunque persona fisica, persona giuridica, ente o associazione che sia parte di un contratto con un fornitore di servizi di telecomunicazioni accessibili al pubblico, per la fornitura dei medesimi servizi;
                             b)
@@ -57,7 +57,7 @@ Ai fini del presente capo, si applicano le definizioni elencate nell'[articolo 1
                                 "servizio di telecomunicazioni": un servizio la cui fornitura consiste, in tutto o in parte, nella trasmissione e nell'instradamento di segnali su reti di telecomunicazioni, ivi compreso qualunque servizio interattivo anche se relativo a prodotti audiovisivi, esclusa la diffusione circolare dei programmi radiofonici e televisivi.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  Note alle premesse:
  - Gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) cosi' recitano:
@@ -74,7 +74,7 @@ Avvertenza:
  Presiede il Consiglio superiore della magistratura.
  Puo' concedere grazia e commutare le pene.
  Conferisce le onorificenze della Repubblica".
- - La [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), reca: "Tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali".
+ - La [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), reca: "Tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali".
  - La [direttiva 97/66/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;66) e' pubblicata in G.U.C.E. L 24 del 30 gennaio 1998.
  - La [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), riguarda la disciplina dell'attivita' di Governo e l'ordinamento della Presidenza del Consiglio dei Ministri. L'art. 14 cosi' recita:
  "Art. 14 (Decreti legislativi). - 1. I decreti legislativi adottati dal Governo ai sensi dell'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) sono emanati dal Presidente della Repubblica con la denominazione di "decreto legislativo" e con l'indicazione, nel preambolo, della legge di delegazione, della deliberazione del Consiglio dei Ministri e degli altri adempimenti del procedimento prescritti dalla legge di delegazione.
@@ -82,7 +82,7 @@ Avvertenza:
  3. Se la delega legislativa si riferisce ad una pluralita' di oggetti distinti suscettibili di separata disciplina, il Governo puo' esercitarla mediante piu' atti successivi per uno o piu' degli oggetti predetti. In relazione al termine finale stabilito dalla legge di delegazione, il Governo informa periodicamente le Camere sui criteri che segue nell'organizzazione dell'esercizio della delega.
  4. In ogni caso, qualora il termine previsto per l'esercizio della delega ecceda i due anni, il Governo e' tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere e' espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette, con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni".
  Note all'art. 1:
- - Per quanto concerne la [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), si veda in note alle premesse. L'art. 1 cosi' recita:
+ - Per quanto concerne la [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), si veda in note alle premesse. L'art. 1 cosi' recita:
  "Art. 1 (Finalita' e definizioni). - 1. La presente legge garantisce che il trattamento dei dati personali si svolga nel rispetto dei diritti, delle liberta' fondamentali, nonche' della dignita' delle persone fisiche, con particolare riferimento alla riservatezza e all'identita' personale; garantisce altresi' i diritti delle persone giuridiche e di ogni altro ente o associazione.
  2. Ai fini della presente legge si intende:
  a) per ''banca di dati'', qualsiasi complesso di dati personali, ripartito in una o piu' unita' dislocate in uno o piu' siti, organizzato secondo una pluralita' di criteri determinati tali da facilitarne il trattamento;
@@ -112,7 +112,7 @@ Quando la sicurezza del servizio o dei dati personali richiede anche l'adozione 
 Il fornitore di un servizio di telecomunicazioni accessibile al pubblico ha l'obbligo di informare gli abbonati quando sussiste un particolare rischio di violazione della sicurezza della rete, indicando i possibili rimedi e i relativi costi. Analoga informativa e' resa all'Autorita' per le garanzie nelle comunicazioni e al Garante.
 
 Note all'art. 2:
- - Per quanto concerne la [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), si veda in note alle premesse. L'art. 15, comma 1, cosi' recita:
+ - Per quanto concerne la [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), si veda in note alle premesse. L'art. 15, comma 1, cosi' recita:
  "Art. 15 (Sicurezza dei dati). - 1. I dati personali oggetto di trattamento devono essere custoditi e controllati, anche in relazione alle conoscenze acquisite in base al progresso tecnico, alla natura dei dati e alle specifiche caratteristiche del trattamento, in modo da ridurre al minimo, mediante l'adozione di idonee e preventive misure di sicurezza, i rischi di distruzione o perdita, anche accidentale, dei dati stessi, di accesso non autorizzato o di trattamento non consentito o non conforme alle finalita' della raccolta".
  - Il [D.P.R. 19 settembre 1997, n. 318](Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md), reca: "Regolamento per l'attuazione di direttive comunitarie nel settore delle telecomunicazioni".
  L'art. 18 cosi' recita:
@@ -272,7 +272,7 @@ L'uso di un sistema automatizzato di chiamata senza intervento di un operatore o
 Le chiamate per le finalita' di cui al comma 1, effettuate con mezzi diversi da quelli ivi indicati, sono consentite ai sensi degli articoli 11 e 12 della legge.
 
 Note all'art. 10:
- - Per quanto concerne la [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), si veda in note alle premesse. Gli articoli 11 e 12 cosi' recitano:
+ - Per quanto concerne la [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), si veda in note alle premesse. Gli articoli 11 e 12 cosi' recitano:
  "Art. 11 (Consenso). - 1. Il trattamento di dati personali da parte di privati o di enti pubblici economici e' ammesso solo con il consenso espresso dell'interessato.
  2. Il consenso puo' riguardare l'intero trattamento ovvero una o piu' operazioni dello stesso.
  3. Il consenso e' validamente prestato solo se e' espresso liberamente, in forma specifica e documentata per iscritto, e se sono state rese all'interessato le informazioni di cui all'art. 10".
@@ -284,7 +284,7 @@ Note all'art. 10:
  e) e' effettuato nell'esercizio della professione di giornalista e per l'esclusivo perseguimento delle relative finalita', nel rispetto del codice di deontologia di cui all'art. 25;
  f) riguarda dati relativi allo svolgimento di attivita' economiche raccolti anche ai fini indicati nell'art. 13, comma 1, lettera e), nel rispetto della vigente normativa in materia di segreto aziendale e industriale;
  g) e' necessario per la salvaguardia della vita o dell'incolumita' fisica dell'interessato o di un terzo, nel caso in cui l'interessato non puo' prestare il proprio consenso per impossibilita' fisica, per incapacita' di agire o per incapacita' di intendere o di volere;
- h) e' necessario ai fini dello svolgimento delle investigazioni di cui all'art. 38 delIe norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvate con [decreto legislativo 28 luglio 1989, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;271) e successive modificazioni, o, comunque, per far valere o difendere un diritto in sede giudiziaria, sempre che i dati siano trattati esclusivamente per tali finalita' e per il periodo strettamente necessario al loro perseguimento".
+ h) e' necessario ai fini dello svolgimento delle investigazioni di cui all'art. 38 delIe norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvate con [decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) e successive modificazioni, o, comunque, per far valere o difendere un diritto in sede giudiziaria, sempre che i dati siano trattati esclusivamente per tali finalita' e per il periodo strettamente necessario al loro perseguimento".
 
 ### Art. 11. — Sanzioni
 
@@ -293,7 +293,7 @@ Note all'art. 10:
 Per la violazione delle disposizioni di cui agli articoli 4, 9 e 10 restano ferme le sanzioni di cui all'articolo 35 della legge.
 
 Nota all'art. 11:
- - Per quanto concerne la [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), si veda in note alle premesse. L'art. 35 cosi' recita:
+ - Per quanto concerne la [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), si veda in note alle premesse. L'art. 35 cosi' recita:
  "Art. 35 (Trattamento illecito di dati personali). - 1.
  Salvo che il fatto costituisca piu' grave reato, chiunque, al fine di trarne per se' o per altri profitto o di recare ad altri un danno, procede al trattamento di dati personali in violazione di quanto disposto dagli articoli 11, 20 e 27, e' punito con la reclusione sino a due anni o, se il fatto consiste nella comunicazione o diffusione, con la reclusione da tre mesi a due anni.
  2. Salvo che il fatto costituisca piu' grave reato, chiunque, al fine di trarne per se' o per altri profitto o di recare ad altri un danno, comunica o diffonde dati personali in violazione di quanto disposto dagli articoli 21, 22, 23 e 24, ovvero del divieto di cui all'art. 28, comma 3, e' punito con la reclusione da tre mesi a due anni.
@@ -307,20 +307,20 @@ Capo II
 
 1.
 
-Nell'[articolo 12, comma 1, lettera e), della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_12-com1-lete), le parole: ", nel rispetto del" sono sostituite dalle seguenti: ". In tale caso, si applica il".
+Nell'[articolo 12, comma 1, lettera e), della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), le parole: ", nel rispetto del" sono sostituite dalle seguenti: ". In tale caso, si applica il".
 
 2.
 
-Nell'[articolo 20, comma 1, lettera d), della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_20-com1-letd), le parole: ", nei limiti del" sono sostituite dalle seguenti: ". Restano fermi il limiti del" e le parole: "e nel rispetto del" sono sostituite dalle seguenti: ". Si applica inoltre il".
+Nell'[articolo 20, comma 1, lettera d), della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), le parole: ", nei limiti del" sono sostituite dalle seguenti: ". Restano fermi il limiti del" e le parole: "e nel rispetto del" sono sostituite dalle seguenti: ". Si applica inoltre il".
 
 3.
 
-Il [comma 1 dell'articolo 25 della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_25-com1), e' sostituito dal seguente:
+Il [comma 1 dell'articolo 25 della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), e' sostituito dal seguente:
 "1. Le disposizioni relative al consenso dell'interessato e all'autorizzazione del Garante, nonche' il limite previsto dall'articolo 24, non si applicano quando il trattamento dei dati di cui agli articoli 22 e 24 e' effettuato nell'esercizio della professione di giornalista e per l'esclusivo perseguimento delle relative finalita'. Il giornalista rispetta i limiti del diritto di cronaca, in particolare quello dell'essenzialita' dell'informazione riguardo a fatti di interesse pubblico, ferma restando la possibilita' di trattare i dati relativi a circostanze o fatti resi noti direttamente dall'interessato o attraverso i suoi comportamenti in pubblico.".
 
 4.
 
-Il [comma 2 dell'articolo 25 della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_25-com2), e' cosi' modificato:
+Il [comma 2 dell'articolo 25 della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), e' cosi' modificato:
                             a)
                                 alla fine del primo periodo, sono aggiunte, prima del punto, le seguenti parole: ", in particolare per quanto riguarda quelli idonei a rivelare lo stato di salute e la vita sessuale.";
                             b)
@@ -329,7 +329,7 @@ Il [comma 2 dell'articolo 25 della legge 31 dicembre 1996, n. 675](https://www.n
                                 dopo il secondo periodo, e' inserito il seguente: "Il codice e' pubblicato nella Gazzetta Ufficiale a cura del Garante e diviene efficace quindici giorni dopo la sua pubblicazione.".
 
 Note all'art. 12:
- - Per quanto concerna la [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), si veda in note alle premesse. Si riportano qui' di seguito l'art. 12, comma 1, lettera e), l'art. 20, comma 1, lettera d) e l'art. 25, comma 2, della suddetta legge come modificati dal presente decreto:
+ - Per quanto concerna la [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), si veda in note alle premesse. Si riportano qui' di seguito l'art. 12, comma 1, lettera e), l'art. 20, comma 1, lettera d) e l'art. 25, comma 2, della suddetta legge come modificati dal presente decreto:
  "Art. 12 (Casi di esclusione del consenso). - 1. Il consenso non e' richiesto quando il trattamento:
  a) (omissis);
  b) (omissis);
@@ -355,7 +355,7 @@ Capo III
 
 1.
 
-Per quanto non previsto dal presente decreto, si applica la [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), e successive modificazioni ed integrazioni.
+Per quanto non previsto dal presente decreto, si applica la [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), e successive modificazioni ed integrazioni.
 
 2.
 

@@ -16,7 +16,7 @@ E' approvato e dichiarato di pubblica utilita' il piano regolatore e di ampliame
 
 ## Art. 2.
 
-Per l'espropriazione delle aree destinate a vie od a piazze e delle zone latistanti alle sedi stradali da occuparsi ai sensi dell'[art. 34 del R. decreto 8 febbraio 1923, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;422#art_34), il Comune procedera' nei riguardi dei vari proprietari, a norma delle disposizioni generali della legge sulle espropriazioni per causa di pubblica utilita' 25 giugno 1865, n. 2359, e delle disposizioni speciali contenute nella presente legge.
+Per l'espropriazione delle aree destinate a vie od a piazze e delle zone latistanti alle sedi stradali da occuparsi ai sensi dell'[art. 34 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), il Comune procedera' nei riguardi dei vari proprietari, a norma delle disposizioni generali della legge sulle espropriazioni per causa di pubblica utilita' 25 giugno 1865, n. 2359, e delle disposizioni speciali contenute nella presente legge.
 
 ## Art. 3.
 
@@ -68,7 +68,7 @@ I terreni compresi nel piano generale sono divisi in due zone:
 
 ## Art. 13.
 
-Per gli immobili compresi entro la prima zona suindicata, il contributo di cui agli [articoli 77](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), [78](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md) ed [81 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), verra' sostituito dal contributo di miglioria che il Comune avra' facolta' di istituire ed applicare in base al [R. decreto 18 novembre 1923, n. 2538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2538), sulle finanze locali, previa omologazione del Ministero delle finanze. 
+Per gli immobili compresi entro la prima zona suindicata, il contributo di cui agli [articoli 77](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), [78](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md) ed [81 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), verra' sostituito dal contributo di miglioria che il Comune avra' facolta' di istituire ed applicare in base al [R. decreto 18 novembre 1923, n. 2538](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), sulle finanze locali, previa omologazione del Ministero delle finanze. 
  
  I proprietari d'immobili sui quali, oltre alle vie o piazze, siano nel piano regolatore progettati i portici, dovranno, oltre al contributo suindicato, cedere al pubblico transito senza indennita' le zone destinate ai suddetti portici.
 
@@ -80,7 +80,7 @@ Nei riguardi dei terreni compresi nella seconda zona suindicata, il contributo, 
 
 ## Art. 15.
 
-Nell'esecuzione del piano regolatore di ampliamento, il comune di Cremona potra' valersi delle facolta' di cui all'[articolo 34 del R. decreto 8 febbraio 1923, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;422#art_34), relativamente alle zone laterali segnate nel piano su detto. In tale caso, ed inoltre qualora agli effetti del contributo di cui al precedente articolo 14 talune aree risultassero di difficile edificabilita', il Comune, a richiesta degli interessati, avra' l'obbligo di procedere all'espropriazione delle aree stesse in conformita' alla precitata [legge del 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
+Nell'esecuzione del piano regolatore di ampliamento, il comune di Cremona potra' valersi delle facolta' di cui all'[articolo 34 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), relativamente alle zone laterali segnate nel piano su detto. In tale caso, ed inoltre qualora agli effetti del contributo di cui al precedente articolo 14 talune aree risultassero di difficile edificabilita', il Comune, a richiesta degli interessati, avra' l'obbligo di procedere all'espropriazione delle aree stesse in conformita' alla precitata [legge del 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
 
 ## Art. 16.
 

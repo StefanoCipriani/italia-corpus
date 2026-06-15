@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-23;1946), che reca norme per le navi nazionali che navigano sui fiumi dell'Estremo Oriente aperti al traffico internazionale. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1946](Disposizioni%20per%20le%20navi%20nazionali%20che%20navigano%20sui%20fiumi%20dellEstremo%20Oriente.%20030U1946.md), che reca norme per le navi nazionali che navigano sui fiumi dell'Estremo Oriente aperti al traffico internazionale. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 29 luglio 1931 - Anno IX 
  

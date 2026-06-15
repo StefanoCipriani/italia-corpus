@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Veduta la tabella delle circoscrizioni dei Collegi elettorali, annessa al testo unico sopracitato; 
  
- Visto il [R. decreto 13 luglio 1913, n. 896](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-13;896), col quale gli elettori del comune di Frerola vennero aggregati a quelli di Costa di Serina, per costituire la sezione avente sede nel detto comune di Costa di Serina; 
+ Visto il [R. decreto 13 luglio 1913, n. 896](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Bergamo.%20013U0896.md), col quale gli elettori del comune di Frerola vennero aggregati a quelli di Costa di Serina, per costituire la sezione avente sede nel detto comune di Costa di Serina; 
  
  Veduta la deliberazione adottata dalla Commissione elettorale del comune di Frerola, che approva la lista per l'anno 1915 nel numero di 105 elettori, e chiede che questi vengano separati dagli elettori del comune di Costa di Serina per essere costituiti in sezione autonoma. 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' revocato il citato [R. decreto 13 luglio 1913, numero 896](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-13;896), in quanto esso disponeva che gli elettori del comune di Frerola, nel collegio elettorale politico di Zogno, venissero aggregati a quelli del comune di Costa di Serina. 
+ E' revocato il citato [R. decreto 13 luglio 1913, numero 896](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Bergamo.%20013U0896.md), in quanto esso disponeva che gli elettori del comune di Frerola, nel collegio elettorale politico di Zogno, venissero aggregati a quelli del comune di Costa di Serina. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto luogotenenziale 23 febbraio 1946, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-23;223), sul riordinamento dei servizi del Ministero dell'industria, e del commercio;
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -119,7 +119,7 @@ Nella prima attuazione del presente decreto i rappresentanti delle categorie pro
 
 ## Art. 18.
 
-Se si rendessero necessarie modifiche alle disposizioni del presente decreto, che concernano le funzioni e l'ordinamento del Consiglio, potra' provvedersi ai sensi dell'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3), salvo che tali modifiche importino un aumento di stanziamento nel bilancio del Ministero dell'industria e del commercio.
+Se si rendessero necessarie modifiche alle disposizioni del presente decreto, che concernano le funzioni e l'ordinamento del Consiglio, potra' provvedersi ai sensi dell'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), salvo che tali modifiche importino un aumento di stanziamento nel bilancio del Ministero dell'industria e del commercio.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

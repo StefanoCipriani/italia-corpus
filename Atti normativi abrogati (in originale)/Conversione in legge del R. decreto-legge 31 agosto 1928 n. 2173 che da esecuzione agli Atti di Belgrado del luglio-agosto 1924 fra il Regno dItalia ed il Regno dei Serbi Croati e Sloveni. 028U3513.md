@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 agosto 1928, n. 2173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-31;2173), che da' piena ed intera esecuzione ai seguenti Atti stipulati in Belgrado fra il Regno d'Italia ed il Regno dei Serbi, Croati e Sloveni, nella data per ciascuno di essi indicata: 
+ E' convertito in legge il [R. decreto-legge 31 agosto 1928, n. 2173](Esecuzione%20degli%20Atti%20di%20Belgrado%20fra%20il%20Regno%20dItalia%20ed%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20028U2173.md), che da' piena ed intera esecuzione ai seguenti Atti stipulati in Belgrado fra il Regno d'Italia ed il Regno dei Serbi, Croati e Sloveni, nella data per ciascuno di essi indicata: 
  
  1° Trattato di commercio e di navigazione con Protocollo, Protocollo finale e scambio di Note, firmati il 14 luglio 1924; 
  

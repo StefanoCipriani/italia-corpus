@@ -20,11 +20,11 @@ Visto il [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N
 
 Visto il [R. decreto-legge 2 agosto 1929, n. 2150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-08-02;2150), concernente le concessioni di ferrovie ed altri mezzi di trasporto, nonche' il riassetto tecnico ed amministrativo delle linee in esercizio;
 
-Vista la [legge 28 settembre 1939, n. 1822](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-09-28;1822), concernente la disciplina degli autoservizi di linea per viaggiatori, bagagli e pacchi agricoli in regime di concessione alla industria privata;
+Vista la [legge 28 settembre 1939, n. 1822](Disciplina%20degli%20autoservizi%20di%20linea%20autolinee%20per%20viaggiatori%20bagagli%20e%20pacchi%20agricoli%20in%20regime%20di%20concessione%20allindustria%20privata.%20039U1822.md), concernente la disciplina degli autoservizi di linea per viaggiatori, bagagli e pacchi agricoli in regime di concessione alla industria privata;
 
 Visto l'[articolo 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e successive modificazioni ;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e successive modificazioni ;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -36,7 +36,7 @@ Tutti i concessionari dei pubblici servizi di trasporto, che, per effetto degli 
 
 ## Art. 2.
 
-I concessionari di cui all'articolo che precede per rimettere e mantenere in efficienza i servizi, ai termini degli [articoli 106 e seguenti del R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447#art_106), qualora ne facciano domanda, possono essere ammessi al beneficio di concorsi a carico dello Stato, nei limiti e con le modalita' disposte col presente decreto, senza pregiudizio del risarcimento di cui alla [legge 26 ottobre 1940, n. 1543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-26;1543), nei casi ivi previsti.
+I concessionari di cui all'articolo che precede per rimettere e mantenere in efficienza i servizi, ai termini degli [articoli 106 e seguenti del R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447#art_106), qualora ne facciano domanda, possono essere ammessi al beneficio di concorsi a carico dello Stato, nei limiti e con le modalita' disposte col presente decreto, senza pregiudizio del risarcimento di cui alla [legge 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md), nei casi ivi previsti.
 
 ## Art. 3.
 
@@ -116,7 +116,7 @@ I concorsi dello Stato non potranno superare :
 
 ## Art. 9.
 
-Ad integrazione dei concorsi previsti negli articoli precedenti, quando si tratti di linee ferroviarie di preminente interesse pubblico e sia accertato che i concessionari non abbiano assolutamente modo di provvedere, a giudizio della Commissione, potra' dal Ministro per il tesoro, d'intesa con quello per le comunicazioni, essere autorizzata la garanzia dello Stato, col concorso nel pagamento degli interessi, per anticipazioni bancarie a sensi del [R. decreto-legge 13 dicembre 1943, n. 26/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-13;26).
+Ad integrazione dei concorsi previsti negli articoli precedenti, quando si tratti di linee ferroviarie di preminente interesse pubblico e sia accertato che i concessionari non abbiano assolutamente modo di provvedere, a giudizio della Commissione, potra' dal Ministro per il tesoro, d'intesa con quello per le comunicazioni, essere autorizzata la garanzia dello Stato, col concorso nel pagamento degli interessi, per anticipazioni bancarie a sensi del [R. decreto-legge 13 dicembre 1943, n. 26/B](Autorizzazione%20al%20Ministro%20delle%20Finanze%20di%20concedere%20la%20garanzia%20dello%20Stato%20su%20anticipazioni%20bancarie%20a%20favore%20di%20Imprese%20industriali%20interessanti%20il%20riassetto%20della%20vita%20civile%20e%20la%20ri_58d43414fc11.md).
 
 ## Art. 10.
 
@@ -126,7 +126,7 @@ Le spese eventualmente gia' sostenute dai concessionari per lavori di riattazion
 
 La corresponsione dei concorsi e' autorizzata con decreto del Ministro per le comunicazioni, d'intesa col Ministro per il tesoro. 
  
- Il decreto sara', comunicato all'Amministrazione finanziaria agli effetti dell'[art. 23 della legge 26 ottobre 1940, n. 1543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-26;1543#art_23).
+ Il decreto sara', comunicato all'Amministrazione finanziaria agli effetti dell'[art. 23 della legge 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md).
 
 ## Art. 12.
 
@@ -156,7 +156,7 @@ L'ammontare degli altri concorsi, di cui all'art. 8, sara' rimborsato allo Stato
 
 ## Art. 16.
 
-La Commissione istituita con l'[art. 7 del decreto-legge Luogotenenziale 23 febbraio 1919, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1919-02-23;303#art_7), e' soppressa e le sue attribuzioni, comprese quelle di cui all'[art. 5 del R. decreto-legge 26 agosto 1937, n. 1668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-08-26;1668#art_5), sono demandate alla Commissione istituita con gli articoli 4, 5 e 6 del presente decreto, che si pronunziera' anche su ogni altro provvedimento di carattere finanziario tariffario a favore del concessionario.
+La Commissione istituita con l'[art. 7 del decreto-legge Luogotenenziale 23 febbraio 1919, n. 303](Che%20dispone%20laumento%20dei%20limiti%20di%20sovvenzione%20chilometrica%20governativa%20a%20ferrovie%20e%20tramvie%20extraurbane.%20019U0303.md), e' soppressa e le sue attribuzioni, comprese quelle di cui all'[art. 5 del R. decreto-legge 26 agosto 1937, n. 1668](Provvedimenti%20per%20le%20ferrovie%20concesse%20ed%20altri%20pubblici%20servizi%20di%20trasporto%20esercitati%20dallindustria%20privata.%20037U1668.md), sono demandate alla Commissione istituita con gli articoli 4, 5 e 6 del presente decreto, che si pronunziera' anche su ogni altro provvedimento di carattere finanziario tariffario a favore del concessionario.
 
 ## Art. 17.
 

@@ -11,7 +11,7 @@ vigente: true
 ## Art. 1.
 
 La navigazione compiuta dal 2 settembre 1939-XVII alla data che sara' stabilita con decreto del Ministro per le comunicazioni nelle zone di mare indicate nell'art. 4 e' calcolata doppia a tutti gli effetti delle leggi sulla Cassa nazionale fascista per la previdenza marinara. 
- A tal fine dovra' essere versato alla Cassa un contributo supplementare pari a quello indicato nell'[art. 16 del R. decreto-legge 26 ottobre 1919, n. 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-26;1996#art_16), convertito in legge con la legge 17 aprile 1925-111, n. 473. Tale contributo supplementare, da computarsi per i periodi di permanenza delle navi nelle zone su indicate, sara' a totale carico dell'armatore.
+ A tal fine dovra' essere versato alla Cassa un contributo supplementare pari a quello indicato nell'[art. 16 del R. decreto-legge 26 ottobre 1919, n. 1996](Che%20erige%20in%20ente%20morale%20la%20Cassa%20degli%20invalidi%20della%20marina%20mercantile%20costituita%20ai%20termini%20dellart.%201%20della%20legge%2022%20giugno%201913%20n.%20767%20stabilendone%20gli%20scopi%20e%20lordinamento.%20019U1996.md), convertito in legge con la legge 17 aprile 1925-111, n. 473. Tale contributo supplementare, da computarsi per i periodi di permanenza delle navi nelle zone su indicate, sara' a totale carico dell'armatore.
 
 ## Art. 2.
 

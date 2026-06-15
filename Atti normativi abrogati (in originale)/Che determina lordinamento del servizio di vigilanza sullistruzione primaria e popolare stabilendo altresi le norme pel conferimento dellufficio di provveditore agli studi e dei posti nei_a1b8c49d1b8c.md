@@ -38,11 +38,11 @@ I posti di ispettore provinciale si conferiscono per merito, a scelta, agli ispe
  
  Egli fa parte dell'Ufficio scolastico e, alla dipendenza del R. provveditore agli studi, vigila sulla concreta applicazione dei criteri didattici e amministrativi, stabiliti dal Consiglio scolastico in conformita' delle istruzioni ministeriali. 
  
- Sono aboliti il [n. 4 dell'art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_2-num4) e il [n. 3 dell'art. 8 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_8-num3).
+ Sono aboliti il [n. 4 dell'art. 2](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md) e il [n. 3 dell'art. 8 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md).
 
 ## Art. 3.
 
-I posti di primo ispettore sono conferiti a norma dell'art. 5 del testo unico approvato con [R. decreto 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;693).
+I posti di primo ispettore sono conferiti a norma dell'art. 5 del testo unico approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md).
 
 ## Art. 4.
 
@@ -58,7 +58,7 @@ La loro formazione sara' stabilita con disposizione regolamentare.
 
 ## Art. 6.
 
-I primi ispettori e gli ispettori che non siano preposti ad una circoscrizione scolastica, saranno assegnati agli uffici scolastici provinciali o all'Amministrazione centrale a norma del [R. decreto 12 marzo 1914, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-03-12;415).
+I primi ispettori e gli ispettori che non siano preposti ad una circoscrizione scolastica, saranno assegnati agli uffici scolastici provinciali o all'Amministrazione centrale a norma del [R. decreto 12 marzo 1914, n. 415](Col%20quale%20viene%20modificato%20lart.%201%20del%20regolamento%20approvato%20con%20R.%20decreto%201%20febbraio%201912%20n.%20180%20riguardante%20la%20nomina%20la%20carriera%20e%20le%20attribuzioni%20degli%20ispettori%20e%20dei%20vice%20ispettori_9b5b13ca07c7.md).
 
 ## Art. 7.
 
@@ -130,7 +130,7 @@ In deroga all'art. 4 del presente decreto l'elenco di cui all'articolo precedent
 
 I vice ispettori che non saranno ne' collocati a riposo ne' nominati ispettori, saranno inscritti di ufficio nel ruolo dei direttori didattici effettivi conservando il rispettivo ordine d'anzianita'. 
  
- Per occupare i successivi posti nel ruolo dei direttori didattici effettivi e prima che siano indetti i concorsi a norma dell'art. 7 del presente decreto, sara' indetto un concorso per titoli tra i direttori didattici con insegnamento di cui all'[art. 82, comma 3°, della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_82-com3). 
+ Per occupare i successivi posti nel ruolo dei direttori didattici effettivi e prima che siano indetti i concorsi a norma dell'art. 7 del presente decreto, sara' indetto un concorso per titoli tra i direttori didattici con insegnamento di cui all'[art. 82, comma 3°, della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md). 
  
  I posti rimanenti saranno conferiti mediante successivi concorsi a distanza di un anno almeno tra l'uno e l'altro, e comprendenti ciascuno un numero di posti non superiore a 500.
 
@@ -142,7 +142,7 @@ Fino a che il ruolo dei direttori didattici effettivi non sia completo, le direz
 
 ### Art. 17.
 
-Gli attuali vice ispettori, di cui all'[art. 82, comma 2°, della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_82-com2), conserveranno, a titolo di assegno personale, l'eventuale differenza tra il loro stipendio attuale e lo stipendio della classe d'ispettori o di direttori, alla quale vengano iscritti.
+Gli attuali vice ispettori, di cui all'[art. 82, comma 2°, della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), conserveranno, a titolo di assegno personale, l'eventuale differenza tra il loro stipendio attuale e lo stipendio della classe d'ispettori o di direttori, alla quale vengano iscritti.
 
 ### Art. 18.
 

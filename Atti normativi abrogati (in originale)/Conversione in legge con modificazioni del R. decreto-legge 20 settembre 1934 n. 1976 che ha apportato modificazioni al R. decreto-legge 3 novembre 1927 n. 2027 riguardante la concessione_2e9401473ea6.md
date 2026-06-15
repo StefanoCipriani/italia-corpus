@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 settembre 1934, n. 1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-20;1976), che ha apportato modificazioni al [R. decreto-legge 3 novembre 1927, n. 2027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-03;2027), riguardante la concessione di esercizio dei diritti di pesca al comune di Taranto, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 20 settembre 1934, n. 1976](Modificazioni%20al%20R.%20decreto-legge%203%20novembre%201927%20n.%202027%20riguardante%20la%20concessione%20di%20esercizio%20dei%20diritti%20di%20pesca%20al%20comune%20di%20Taranto.%20034U1976.md), che ha apportato modificazioni al [R. decreto-legge 3 novembre 1927, n. 2027](Concessione%20dei%20diritti%20di%20pesca%20spettanti%20al%20Demanio%20dello%20Stato%20nelle%20zone%20del%20Mar%20Piccolo%20di%20Taranto%20destinate%20alla%20molluschicultura.%20027U2027.md), riguardante la concessione di esercizio dei diritti di pesca al comune di Taranto, con le seguenti modificazioni: 
  
  Dopo l'art. 5 e' inserito il seguente: 
  

@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo Unico. 
  
- E' convertito in legge il [R. decreto-legge 25 febbraio 1932, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-02-25;211), che stabilisce il regime doganale per il caffe' originario e proveniente da Paesi ammessi al trattamento della nazione piu' favorita. 
+ E' convertito in legge il [R. decreto-legge 25 febbraio 1932, n. 211](Trattamento%20doganale%20del%20caffe%20crudo%20originario%20e%20proveniente%20da%20Paesi%20ammessi%20al%20trattamento%20della%20nazione%20piu%20favorita.%20032U0211.md), che stabilisce il regime doganale per il caffe' originario e proveniente da Paesi ammessi al trattamento della nazione piu' favorita. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 6 giugno 1932 - Anno X 
  

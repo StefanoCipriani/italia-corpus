@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le disposizioni di cui agli [articoli 2](Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia_2.md), [4 e seguenti del decreto legislativo Luogotenenziale 8 febbraio 1946, numero 50](Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia_2.md), modificato con [R. decreto 20 maggio 1946, numero 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1946-05-20;371), hanno effetto dal 1° maggio al 31 luglio 1946.
+Le disposizioni di cui agli [articoli 2](Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia_2.md), [4 e seguenti del decreto legislativo Luogotenenziale 8 febbraio 1946, numero 50](Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia_2.md), modificato con [R. decreto 20 maggio 1946, numero 371](Determinazione%20del%20contributo%20dovuto%20alla%20Cassa%20per%20lintegrazione%20dei%20guadagni%20degli%20operai%20dellindustria.md), hanno effetto dal 1° maggio al 31 luglio 1946.
 
 ## Art. 2.
 

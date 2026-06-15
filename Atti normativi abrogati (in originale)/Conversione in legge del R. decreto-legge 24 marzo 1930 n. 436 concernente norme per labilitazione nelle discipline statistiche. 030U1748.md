@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 marzo 1930, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-24;436), concernente norme per l'abilitazione nelle discipline statistiche, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 24 marzo 1930, n. 436](Norme%20per%20labilitazione%20nelle%20discipline%20statistiche.%20030U0436.md), concernente norme per l'abilitazione nelle discipline statistiche, con la seguente modificazione: 
  
  All'art. 5 e' sostituito il seguente: 
  

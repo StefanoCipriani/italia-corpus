@@ -38,7 +38,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 2.
 
-- Ferme restando le disposizioni dell'art. 8 del R. decreto 12 dicembre 1926-V, n. 2062, e dell'art. 5 del decreto 13 marzo 1927-V, n. 313, il Tribunale speciale, su richiesta del Pubblico Ministero, o per iniziativa del presidente quando sia intervenuta la sentenza di rinvio o la richiesta di citazione a giudizio, puo' rimettere gli atti al giudice competente, secondo le norme ordinarie, ove ne ravvisi la convenienza e si verifichi taluna delle circostanze indicate nell'[art. 311 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_311). 
+- Ferme restando le disposizioni dell'art. 8 del R. decreto 12 dicembre 1926-V, n. 2062, e dell'art. 5 del decreto 13 marzo 1927-V, n. 313, il Tribunale speciale, su richiesta del Pubblico Ministero, o per iniziativa del presidente quando sia intervenuta la sentenza di rinvio o la richiesta di citazione a giudizio, puo' rimettere gli atti al giudice competente, secondo le norme ordinarie, ove ne ravvisi la convenienza e si verifichi taluna delle circostanze indicate nell'[art. 311 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  La decisione e' presa dal Tribunale speciale con sentenza in Camera di consiglio.
 

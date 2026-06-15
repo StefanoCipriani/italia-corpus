@@ -13,8 +13,8 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Viste le disposizioni per l'attuazione del Codice civile e transitorie, approvate con [regio decreto 30 marzo 1942, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;318);
- Visto il [decreto legislativo luogotenenziale 4 gennaio 1945, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-04;11);
- Visti gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3) e [6 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_6);
+ Visto il [decreto legislativo luogotenenziale 4 gennaio 1945, n. 11](../Decreti%20legislativi%20luogotenenziali/Proroga%20dei%20termini%20assegnati%20dalle%20disposizioni%20di%20attuazione%20del%20Codice%20civile%20nei%20riguardi%20di%20societa%20e%20di%20consorzi.%20045U0011.md);
+ Visti gli [articoli 3](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md) e [6 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
  Vista la deliberazione del Consiglio dei Ministri;
  Sulla, proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia, di concerto con i Ministri per le finanze e il tesoro, e per l'industria e il commercio;
 

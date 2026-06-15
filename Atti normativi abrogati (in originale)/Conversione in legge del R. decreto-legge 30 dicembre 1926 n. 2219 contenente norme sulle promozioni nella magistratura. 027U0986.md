@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 dicembre 1926, n. 2219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-30;2219), contenente norme sulle promozioni nella magistratura. 
+ E' convertito in legge il [R. decreto-legge 30 dicembre 1926, n. 2219](Norme%20sulle%20promozioni%20nella%20Magistratura.%20026U2219.md), contenente norme sulle promozioni nella magistratura. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -26,7 +26,7 @@ Considerato che i detti fondi possono attingersi ad altri capitoli del medesimo 
 
 Visto l'art. 12 del Nostro decreto 18 novembre 1915, n. 1625;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Udito il Consiglio dei ministri;
 
@@ -38,7 +38,7 @@ Ai seguenti capitoli dello stato di previsione della spesa del Ministero di agri
  
  Cap: n. 7. Compensi per lavori o servizi straordinari di qualsiasi natura, ecc., L. 20.000. 
  
- Cap. n. 232. Spese per la distruzione delle cavallette [legge 12 giugno 1910, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-12;298), e [legge 11 giugno 1911, n. 529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-11;529)), L. 100.000. 
+ Cap. n. 232. Spese per la distruzione delle cavallette [legge 12 giugno 1910, n. 298](Concernente%20i%20provvedimenti%20a%20favore%20delle%20Provincie%20invase%20dalle%20cavallette.%20010U0298.md), e [legge 11 giugno 1911, n. 529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-11;529)), L. 100.000. 
  
  Cap. n. 246. Spese di qualsiasi natura per il funzionamento e per i lavori relativi alla Commissione Reale avente l'incarico di esaminare e rivedere il vigente regime doganale e di stabilire i criteri e le direttive per la stipulazione dei nuovi trattati di commercio, L.
 104,500.

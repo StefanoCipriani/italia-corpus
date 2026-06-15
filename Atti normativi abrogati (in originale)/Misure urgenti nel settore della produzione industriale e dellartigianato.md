@@ -31,7 +31,7 @@ Fino a quando non si sara' provveduto alla riforma della vigilanza sulle assicur
 
 ## Art. 3.
 
-In attesa della legge-quadro per l'artigianato e fino a quando le regioni non avranno disciplinato con proprie leggi la materia, il periodo di durata in carica delle commissioni regionali e provinciali per l'artigianato previsto dalla [legge 25 luglio 1956, n. 860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-25;860), gia' prorogato sino al 30 giugno 1981 con [legge 23 luglio 1980, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-23;366), e' ulteriormente prorogato fino al 30 giugno 1982.
+In attesa della legge-quadro per l'artigianato e fino a quando le regioni non avranno disciplinato con proprie leggi la materia, il periodo di durata in carica delle commissioni regionali e provinciali per l'artigianato previsto dalla [legge 25 luglio 1956, n. 860](Norme%20per%20la%20disciplina%20giuridica%20delle%20imprese%20artigiane.md), gia' prorogato sino al 30 giugno 1981 con [legge 23 luglio 1980, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-23;366), e' ulteriormente prorogato fino al 30 giugno 1982.
 
 ## Art. 4.
 

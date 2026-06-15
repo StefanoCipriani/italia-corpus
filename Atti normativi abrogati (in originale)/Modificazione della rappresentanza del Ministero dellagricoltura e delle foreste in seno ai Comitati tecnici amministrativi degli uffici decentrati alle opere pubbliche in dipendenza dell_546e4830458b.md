@@ -22,7 +22,7 @@ Visti gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legg
 
 Vista la [legge 13 giugno 1935, n. 1220](Istituzione%20degli%20Ispettorati%20provinciali%20dellagricoltura.%20035U1220.md), che istituisce gli Ispettorati provinciali dell'agricoltura;
 
-Visto il [R. decreto 22 febbraio 1937, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-02-22;327), recante norme per la revisione dei ruoli organici del Ministero dell'agricoltura e delle foreste e per l'inquadramento del personale delle soppresse Cattedre ambulanti di agricoltura;
+Visto il [R. decreto 22 febbraio 1937, n. 327](Norme%20per%20la%20revisione%20dei%20ruoli%20organici%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste%20e%20per%20linquadramento%20del%20personale%20delle%20soppresse%20Cattedre%20ambulanti%20di%20agricoltura.%20037U0327.md), recante norme per la revisione dei ruoli organici del Ministero dell'agricoltura e delle foreste e per l'inquadramento del personale delle soppresse Cattedre ambulanti di agricoltura;
 
 Visto il [R. decreto-legge 2 settembre 1937, n. 1632](Norme%20relative%20allultimazione%20delle%20opere%20pubbliche%20in%20alcune%20provincie%20della%20Campania.%20037U1632.md), recante norme relative all'ultimazione delle opere pubbliche in alcune provincie della Campania;
 

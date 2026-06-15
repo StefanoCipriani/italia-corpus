@@ -45,11 +45,11 @@ E' proibito a qualsiasi suddito italiano il prendere commissione dalle Parti bel
 
 ## Art. 5.
 
-A seconda dell'[art. 35 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_35) mercantile marittimo, e' proibito a qualunque suddito del Regno d'Italia di arruolarsi o prendere servizio sulle navi da guerra, o su quelle armate in corsa, di uno degli Stati belligera
+A seconda dell'[art. 35 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) mercantile marittimo, e' proibito a qualunque suddito del Regno d'Italia di arruolarsi o prendere servizio sulle navi da guerra, o su quelle armate in corsa, di uno degli Stati belligera
 
 ## Art. 6.
 
-Quei sudditi che contravvenissero alle prescrizioni dei precedenti articoli 4.° e 5.° o che commettessero qualunque fatto verso una delle Potenze belligeranti, contrario ai doveri della neutralita' mantenuta dal Governo Italiano verso le Parti suddette, non potranno pretendere protezione contro gli atti o misure qualunque sieno che i belligeranti riputassero esercitare sovra i medesimi, senza pregiudizio delle pene che per gli effetti dell'articolo 5.° del presente Decreto sono loro comminate dal disposto dell'[art. 80 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_80) per la Marina mercantile in data 13 gennaio 1827.
+Quei sudditi che contravvenissero alle prescrizioni dei precedenti articoli 4.° e 5.° o che commettessero qualunque fatto verso una delle Potenze belligeranti, contrario ai doveri della neutralita' mantenuta dal Governo Italiano verso le Parti suddette, non potranno pretendere protezione contro gli atti o misure qualunque sieno che i belligeranti riputassero esercitare sovra i medesimi, senza pregiudizio delle pene che per gli effetti dell'articolo 5.° del presente Decreto sono loro comminate dal disposto dell'[art. 80 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la Marina mercantile in data 13 gennaio 1827.
 
 ## Art. 7.
 

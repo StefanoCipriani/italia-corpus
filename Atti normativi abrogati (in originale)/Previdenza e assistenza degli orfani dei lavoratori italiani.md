@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-L'Ente per l'assistenza agli orfani dei lavoratori morti per infortunio sul lavoro, istituito con [legge 27 giugno 1941, n. 987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-06-27;987), assume, in relazione ai piu' ampi compiti demandatigli dal presente decreto, la denominazione di Ente nazionale per l'assistenza agli orfani dei lavoratori italiani ed e' disciplinato dal presente decreto che, a tutti gli effetti, sostituisce la legge predetta, la quale, pertanto, e' abrogata.
+L'Ente per l'assistenza agli orfani dei lavoratori morti per infortunio sul lavoro, istituito con [legge 27 giugno 1941, n. 987](Istituzione%20dellEnte%20per%20lassistenza%20degli%20orfani%20dei%20lavoratori%20morti%20per%20infortunio%20sul%20lavoro.%20041U0987.md), assume, in relazione ai piu' ampi compiti demandatigli dal presente decreto, la denominazione di Ente nazionale per l'assistenza agli orfani dei lavoratori italiani ed e' disciplinato dal presente decreto che, a tutti gli effetti, sostituisce la legge predetta, la quale, pertanto, e' abrogata.
  Esso e' ente di diritto pubblico; ha sede centrale in Roma ed uffici nelle localita' che saranno stabilite dai Consiglio di amministrazione dell'Ente.
  L'Ente e' posto sotto la vigilanza del Ministero del lavoro e della previdenza sociale.
  Le funzioni di organi periferici sono di regola demandate all'Ente alle sedi locali dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro e dell'Istituto nazionale della previdenza sociale, secondo accordi stipulati fra l'Ente e gli Istituti medesimi i quali debbono prestare la piu' ampia collaborazione.
@@ -190,7 +190,7 @@ I fondi disponibili dell'Ente possono essere impiegati:
 
 ## Art. 22.
 
-Gli immobili costruiti o acquistati dall'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro ai fini dell'esercizio dell'assistenza agli orfani, sono trasferiti in proprieta' dell'Ente fino alla concorrenza della somma di lire 30 milioni prelevati all'uopo dal fondo di riserva dell'istituto ai termini dell'[art. 5 della legge 27 giugno 1941, n. 987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-06-27;987#art_5); tali immobili sono valutati in base al costo di costruzione e di acquisto.
+Gli immobili costruiti o acquistati dall'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro ai fini dell'esercizio dell'assistenza agli orfani, sono trasferiti in proprieta' dell'Ente fino alla concorrenza della somma di lire 30 milioni prelevati all'uopo dal fondo di riserva dell'istituto ai termini dell'[art. 5 della legge 27 giugno 1941, n. 987](Istituzione%20dellEnte%20per%20lassistenza%20degli%20orfani%20dei%20lavoratori%20morti%20per%20infortunio%20sul%20lavoro.%20041U0987.md); tali immobili sono valutati in base al costo di costruzione e di acquisto.
  Per l'eccedenza oltre la predetta somma, gli immobili predetti rimangono di proprieta' dell'Istituto medesimo, pure continuando ad esserne devoluto l'uso a favore dell'Ente, il quale, fin quando non sia in grado di procederne all'acquisto, anche a mezzo di mutui, come previsto dall'ultimo comma dell'art. 6, corrispondera' all'Istituto un canone di affitto nella misura che sara' stabilita con l'approvazione del Ministero del lavoro e della previdenza sociale.
  Qualora la somma investita non abbia raggiunto lo stanziamento iniziale di lire 30 milioni, l'eventuale eccedenza sara' versata dall'Istituto infortuni all'Ente.
  Il personale in servizio presso l'Ente per l'assistenza, degli orfani dei lavoratori morti per infortunio sul lavoro alla data di entrata in vigore del presente decreto, potra' essere mantenuto in servizio dietro giudizio di una Commissione all'uopo costituita dal Ministro per il lavoro e la previdenza sociale, e subordinatamente all'accettazione delle condizioni da questa stabilite.

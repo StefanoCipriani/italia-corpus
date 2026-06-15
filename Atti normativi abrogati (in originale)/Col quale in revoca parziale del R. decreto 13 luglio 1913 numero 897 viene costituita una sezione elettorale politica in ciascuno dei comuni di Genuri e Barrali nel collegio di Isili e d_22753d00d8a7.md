@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Il citato [R. decreto 13 luglio 1913, n. 897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-13;897), e' revocato nella parte con cui disponeva che gli elettori dei comuni di Gentili e Barrali nel collegio di Isili venissero aggregati rispettivamente a quelli della sezione elettorale di Baressa e Senorbi, e nella parte disponente che gli elettori di Massama e Donigala del collegio di Oristano, venissero rispettivamente aggregati alle sezioni 1ª e 3ª del comune di Oristano. 
+ Il citato [R. decreto 13 luglio 1913, n. 897](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Cagliari.%20013U0897.md), e' revocato nella parte con cui disponeva che gli elettori dei comuni di Gentili e Barrali nel collegio di Isili venissero aggregati rispettivamente a quelli della sezione elettorale di Baressa e Senorbi, e nella parte disponente che gli elettori di Massama e Donigala del collegio di Oristano, venissero rispettivamente aggregati alle sezioni 1ª e 3ª del comune di Oristano. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare; 
  

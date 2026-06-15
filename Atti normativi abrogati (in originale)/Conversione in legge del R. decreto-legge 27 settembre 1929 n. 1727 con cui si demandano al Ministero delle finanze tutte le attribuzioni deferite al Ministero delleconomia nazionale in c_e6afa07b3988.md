@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 settembre 1929, n. 1727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-09-27;1727), con cui si demandano al Ministero delle finanze tutte le attribuzioni deferite al Ministero dell'economia nazionale in confronto alla Banca del Lavoro. 
+ E' convertito in legge il [R. decreto-legge 27 settembre 1929, n. 1727](Conferimento%20al%20Ministero%20delle%20finanze%20di%20tutte%20le%20attribuzioni%20gia%20deferite%20al%20Ministero%20delleconomia%20nazionale%20in%20confronto%20della%20Banca%20del%20lavoro.%20029U1727.md), con cui si demandano al Ministero delle finanze tutte le attribuzioni deferite al Ministero dell'economia nazionale in confronto alla Banca del Lavoro. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

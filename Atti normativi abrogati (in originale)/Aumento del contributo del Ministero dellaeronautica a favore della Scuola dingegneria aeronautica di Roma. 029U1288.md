@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'annuo contributo di L. 150,000, corrisposto dal Ministero dell'aeronautica alla Regia scuola d'ingegneria aeronautica di Roma, di cui all'[art. 6 del R. decreto-legge 20 agosto 1926, n. 1760](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-20;1760#art_6), e' elevato a L. 200,000, a decorrere dall'esercizio finanziario 1928-1929. 
+L'annuo contributo di L. 150,000, corrisposto dal Ministero dell'aeronautica alla Regia scuola d'ingegneria aeronautica di Roma, di cui all'[art. 6 del R. decreto-legge 20 agosto 1926, n. 1760](Istituzione%20della%20Scuola%20dingegneria%20aeronautica%20presso%20la%20Regia%20scuola%20dingegneria%20di%20Roma.%20026U1760.md), e' elevato a L. 200,000, a decorrere dall'esercizio finanziario 1928-1929. 
  
  Esso e' devoluto completamente ed esclusivamente a favore della Regia scuola d'ingegneria aeronautica.
 

@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-02-17;2016), sull'amministrazione e sulla contabilita' generale dello Stato, ed il relativo regolamento approvato con [R. decreto 4 maggio 1885, n. 3074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-05-04;3074);
+Vista la [legge 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-02-17;2016), sull'amministrazione e sulla contabilita' generale dello Stato, ed il relativo regolamento approvato con [R. decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md);
 
 Ritenuta la necessita' e l'urgenza, per gravi ragioni di interesse pubblico, di concedere in affitto, a trattativa privata al Comizio agrario di Milano, il podere demaniale denominato «Recinto della Certosa di Pavia» per impiantarvi una stazione sperimentale contro l'afta epizootica;
 

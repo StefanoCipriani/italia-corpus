@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduti i [Regi decreti-legge 5 agosto 1927, n. 1414](Istituzione%20della%20Cassa%20per%20lammortamento%20del%20debito%20pubblico%20interno%20dello%20Stato.%20027U1414.md), e [24 gennaio 1929, n. 112](Passaggio%20alla%20Cassa%20di%20ammortamento%20del%20fondo%20costituito%20presso%20la%20Cassa%20depositi%20e%20prestiti%20ai%20sensi%20della%20legge%2012%20giugno%201902%20n.%20166.%20029U0112.md), concernenti la Cassa di ammortamento del debito pubblico interno dello Stato, convertiti, rispettivamente, nelle [leggi 21 giugno 1928, n. 1781, e 27 giugno 1929, n. 1126](Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20gennaio%201929%20n.%20112%20riguardante%20il%20passaggio%20alla%20Cassa%20di%20ammortamento%20del%20debito%20pubblico%20interno%20del%20fondo%20costituito%20presso%20la%20Cassa%20depos_05303bcb7188.md);
 
-Veduto il [R. decreto 28 aprile 1930, n. 423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-04-28;423), con cui sono stabilite nuove tariffe di vendita di tabacchi lavorati;
+Veduto il [R. decreto 28 aprile 1930, n. 423](Aumenti%20al%20prezzo%20di%20vendita%20dei%20tabacchi%20lavorati%20nazionali.%20030U0423.md), con cui sono stabilite nuove tariffe di vendita di tabacchi lavorati;
 
 Ritenuta la opportunita' di riordinare gli organi direttivi della Cassa anzidetta, in modo da assicurarne maggiormente l'autonomia e da renderne piu' spedito il funzionamento;
 
@@ -85,7 +85,7 @@ L'ammontare degli interessi dei titoli ritirati dalla Cassa di ammortamento verr
 
 ## Art. 6.
 
-A partire dal 1° maggio 1930 il maggior provento derivante dall'applicazione dei nuovi prezzi di vendita dei tabacchi lavorati, stabiliti con il [R. decreto 28 aprile 1930, n. 423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-04-28;423), e con decreto Ministeriale di pari data, e' destinato alla Cassa di ammortamento del debito pubblico, fino alla concorrenza di 500.000.000 annui. 
+A partire dal 1° maggio 1930 il maggior provento derivante dall'applicazione dei nuovi prezzi di vendita dei tabacchi lavorati, stabiliti con il [R. decreto 28 aprile 1930, n. 423](Aumenti%20al%20prezzo%20di%20vendita%20dei%20tabacchi%20lavorati%20nazionali.%20030U0423.md), e con decreto Ministeriale di pari data, e' destinato alla Cassa di ammortamento del debito pubblico, fino alla concorrenza di 500.000.000 annui. 
  
  A tal uopo il direttore generale del Tesoro provvedera' a versare, non oltre la fine di ciascun mese, ad un conto corrente fruttifero presso la Banca d'Italia, da aprirsi a favore della Cassa di ammortamento, una somma pari al 12 per cento dei versamenti eseguiti nel mese precedente come provento della vendita nel Regno dei tabacchi lavorati nazionali ed esteri, esclusi i prodotti secondari, il provento della cui vendita continuera' ad affluire direttamente al bilancio dei Monopoli di Stato. 
  

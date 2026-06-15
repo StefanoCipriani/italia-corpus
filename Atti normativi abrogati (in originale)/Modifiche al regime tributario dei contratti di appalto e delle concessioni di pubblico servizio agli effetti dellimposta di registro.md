@@ -20,14 +20,14 @@ L'imposta proporzionale sugli atti contemplati allo articolo 52 della tariffa al
 
 ## Art. 2.
 
-L'imposta proporzionale di registro sugli atti di concessione di pubblici servizi, stabilita nella misura dello 0,75 per cento dall'[articolo 1 del regio decreto-legge 15 novembre 1937, n. 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-11-15;1924#art_1), allegato B, e' elevata al 2 per cento.
+L'imposta proporzionale di registro sugli atti di concessione di pubblici servizi, stabilita nella misura dello 0,75 per cento dall'[articolo 1 del regio decreto-legge 15 novembre 1937, n. 1924](Provvedimenti%20vari%20in%20materia%20di%20tasse%20ed%20imposte%20indirette%20sugli%20affari.%20037U1924.md), allegato B, e' elevata al 2 per cento.
 
 ## Art. 3.
 
 I prezzi o corrispettivi dichiarati per i contratti di cui al precedente articolo 1 sono soggetti ad accertamento di congruita' di valore di conformita' delle norme vigenti.
  Entro venti giorni dall'avvenuta ultimazione dell'appalto, le parti contraenti sono obbligate in solido a presentare all'Ufficio del registro, ove e' stato registrato il contratto, apposita, denunzia.
  Il termine utile per la notificazione dell'avviso di accertamento del valore dell'appalto decorre dal giorno in cui le parti hanno presentato la denunzia dell'avvenuta esecuzione del contratto.
- Per la determinazione del valore di cui sopra sono applicabili le norme previste dal [regio decreto-legge 7 agosto 1936, n. 1639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-08-07;1639), per i trasferimenti delle aziende industriali e commerciali; per la determinazione del valore dei materiali impiegati negli appalti aventi per oggetto costruzioni edilizie si applica la norma di cui al [primo comma dell'articolo 39 del regio decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175#art_39-com1).
+ Per la determinazione del valore di cui sopra sono applicabili le norme previste dal [regio decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), per i trasferimenti delle aziende industriali e commerciali; per la determinazione del valore dei materiali impiegati negli appalti aventi per oggetto costruzioni edilizie si applica la norma di cui al [primo comma dell'articolo 39 del regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md).
  Ai fini dell'accertamento di cui al primo comma nel caso di appalti di costruzioni che implichino la incorporazione di materiali, il valore del materiale incorporato concorre alla determinazione del valore imponibile dell'appalto.
 
 ## Art. 4.

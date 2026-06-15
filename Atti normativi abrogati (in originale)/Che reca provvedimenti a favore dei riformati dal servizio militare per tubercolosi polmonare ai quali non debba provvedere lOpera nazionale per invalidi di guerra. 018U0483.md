@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per la durata della guerra e per tre anni successivi alla pubblicazione della pace, lo Stato concorrera' nei modi indicati negli articoli seguenti, alle spese di assistenza negli appositi Istituti di cura dei riformati dal servizio militare per tubercolosi polmonare, ai quali non debba provvedere l'opera nazionale per gli invalidi della guerra a termini della [legge 25 marzo 1917, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-03-25;481), e che per le loro condizioni economiche non possano sostenere in tutto o in parte la spesa di spedalita'.
+Per la durata della guerra e per tre anni successivi alla pubblicazione della pace, lo Stato concorrera' nei modi indicati negli articoli seguenti, alle spese di assistenza negli appositi Istituti di cura dei riformati dal servizio militare per tubercolosi polmonare, ai quali non debba provvedere l'opera nazionale per gli invalidi della guerra a termini della [legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), e che per le loro condizioni economiche non possano sostenere in tutto o in parte la spesa di spedalita'.
 
 ## Art. 2.
 

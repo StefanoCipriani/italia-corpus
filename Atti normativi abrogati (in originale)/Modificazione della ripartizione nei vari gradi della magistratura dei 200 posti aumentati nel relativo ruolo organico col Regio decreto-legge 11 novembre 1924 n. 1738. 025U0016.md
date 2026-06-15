@@ -57,7 +57,7 @@ Nella tabella annessa al Nostro decreto 30 novembre 1924, n. 1963, relativa alla
 
 ## Art. 3.
 
-Nel provvedere ai posti di consigliere, che col presente decreto vengono aumentati nella pianta organica della Corte di cassazione del Regno ed in quella della Corte di appello di Roma, e' data facolta' di prescindere dalle norme dettate con gli articoli 145 e 146 del testo unico sull'ordinamento giudiziario approvato con [R. decreto 30 dicembre 1923, numero 2786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2786), ed il passaggio dalle funzioni requirenti alle giudicanti puo' essere disposto senza il parere del Consiglio superiore della magistratura.
+Nel provvedere ai posti di consigliere, che col presente decreto vengono aumentati nella pianta organica della Corte di cassazione del Regno ed in quella della Corte di appello di Roma, e' data facolta' di prescindere dalle norme dettate con gli articoli 145 e 146 del testo unico sull'ordinamento giudiziario approvato con [R. decreto 30 dicembre 1923, numero 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), ed il passaggio dalle funzioni requirenti alle giudicanti puo' essere disposto senza il parere del Consiglio superiore della magistratura.
 
 ## Art. 4.
 

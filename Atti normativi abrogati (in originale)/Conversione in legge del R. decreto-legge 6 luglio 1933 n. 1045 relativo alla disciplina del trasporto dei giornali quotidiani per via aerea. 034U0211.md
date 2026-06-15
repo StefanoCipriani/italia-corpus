@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 luglio 1933, n. 1045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-07-06;1045), riguardante la disciplina del trasporto dei giornali quotidiani per via aerea. 
+ E' convertito in legge il [R. decreto-legge 6 luglio 1933, n. 1045](Disciplina%20del%20trasporto%20dei%20giornali%20quotidiani%20per%20via%20aerea.%20033U1045.md), riguardante la disciplina del trasporto dei giornali quotidiani per via aerea. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

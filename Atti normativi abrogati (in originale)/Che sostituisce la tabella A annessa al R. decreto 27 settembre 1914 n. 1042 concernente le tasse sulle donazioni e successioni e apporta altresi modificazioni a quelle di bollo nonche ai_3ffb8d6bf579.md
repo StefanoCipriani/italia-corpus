@@ -26,7 +26,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Alla tabella A, annessa al [R. decreto 27 settembre 1914, n. 1042](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-27;1042), e' sostituita la tabella A annessa al presente decreto. 
+Alla tabella A, annessa al [R. decreto 27 settembre 1914, n. 1042](Col%20quale%20e%20modificata%20la%20legge%2023%20gennaio%201902%20n.%2025%20allegato%20C%20relativa%20alle%20tasse%20di%20donazione%20e%20successione%20nonche%20la%20tabella%20A%20annessa%20alla%20detta%20legge.%20014U1042.md), e' sostituita la tabella A annessa al presente decreto. 
  
  La nuova tabella e' applicabile a tutti i trasferimenti a titolo gratuito per atto tra vivi o per causa di morte che avverranno dalla pubblicazione del presente decreto.
 
@@ -94,7 +94,7 @@ Agli effetti della tassa di registro i frutti della eredita' non fanno parte del
 
 ## Art. 10.
 
-La riduzione a meta' della tassa di registro sulle compravendite di fabbricati nuovi o radicalmente riattati, di cui all'[art. 11 della legge 23 aprile 1911, n. 509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-23;509#art_11), deve intendersi applicabile ai soli fabbricati ad uso di abitazione, ivi comprese le botteghe a pian terreno che siano vendute insieme a tutto il fabbricato, ed al medesimo acquirente. 
+La riduzione a meta' della tassa di registro sulle compravendite di fabbricati nuovi o radicalmente riattati, di cui all'[art. 11 della legge 23 aprile 1911, n. 509](Che%20apporta%20le%20modificazioni%20di%20alcune%20disposizioni%20delle%20leggi%20relative%20alle%20tasse%20di%20registro%20di%20bollo%20e%20per%20le%20concessioni%20governative%20011U0509.md), deve intendersi applicabile ai soli fabbricati ad uso di abitazione, ivi comprese le botteghe a pian terreno che siano vendute insieme a tutto il fabbricato, ed al medesimo acquirente. 
  
  La riduzione e' concessa alle vendite stipulate entro quattro anni dal giorno in cui i fabbricati sono stati dichiarati abitabili, o sono stati effettivamente abitati.
 
@@ -188,7 +188,7 @@ Il diritto fisso pel cambio dei bollettini-pacchi, eventualmente sciupati o comu
 
 ## Art. 25.
 
-Il limite massimo delle dimensioni dei pacchi di cui al 2° e 3° capoverso dell'art. 213 del regolamento approvato con [R. decreto 10 febbraio 1901, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-10;120), e' modificato come segue: 
+Il limite massimo delle dimensioni dei pacchi di cui al 2° e 3° capoverso dell'art. 213 del regolamento approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), e' modificato come segue: 
  
  Per i pacchi «non ingombranti» centimetri 50, tanto in lunghezza che larghezza ed altezza (volume massimo 125 decimetri cubi). 
  

@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 gennaio 1931, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-08;86), concernente proroga di termini per l'erogazione e per l'inizio dell'ammortamento di mutui concessi al Comune e alla Congregazione di carita' di Ragusa. 
+ E' convertito in legge il [R. decreto-legge 8 gennaio 1931, n. 86](Proroga%20di%20termini%20per%20lerogazione%20e%20per%20linizio%20di%20ammortamento%20di%20mutui%20concessi%20al%20Comune%20ed%20alla%20Congregazione%20di%20carita%20di%20Ragusa.%20031U0086.md), concernente proroga di termini per l'erogazione e per l'inizio dell'ammortamento di mutui concessi al Comune e alla Congregazione di carita' di Ragusa. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farle osservare come legge dello Stato. 
  

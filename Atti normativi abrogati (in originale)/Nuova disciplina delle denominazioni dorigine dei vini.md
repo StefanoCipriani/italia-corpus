@@ -41,7 +41,7 @@ Le "bevande di fantasia a base di vino", le "bevande di
 
 Avvertenza:
  
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art.10, comma 3 del testo unico delle disposizioni sulla promulgazione delle leggi,sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana,approvato con [decreto del Presidente della Repubblica 28 dicembre 1985,n.1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficienza degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art.10, comma 3 del testo unico delle disposizioni sulla promulgazione delle leggi,sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana,approvato con [decreto del Presidente della Repubblica 28 dicembre 1985,n.1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficienza degli atti legislativi qui trascritti.
 
 ### Art. 2. — (Utilizzazione delle denominazioni di origine e delle indicazioni geografiche tipiche)
 
@@ -439,7 +439,7 @@ I conduttori di vigneti devono denunciare ai competenti uffici regionali, ai fin
 
 2.
 
-Il catasto dei vigneti di cui al comma 1 e' parte integrante dell'anagrafe vitivinicola regionale istituita ai sensi dell'[articolo 7 del decreto-legge 18 giugno 1986, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-06-18;282#art_7), convertito, con modificazioni, della [legge 7 agosto 1986, n. 462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-07;462).
+Il catasto dei vigneti di cui al comma 1 e' parte integrante dell'anagrafe vitivinicola regionale istituita ai sensi dell'[articolo 7 del decreto-legge 18 giugno 1986, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-06-18;282#art_7), convertito, con modificazioni, della [legge 7 agosto 1986, n. 462](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20giugno%201986%20n.%20282%20recante%20misure%20urgenti%20in%20materia%20di%20prevenzione%20e%20repressione%20delle%20sofisticazioni%20alimentari.md).
 
 3.
 
@@ -639,7 +639,7 @@ Le spese annuali per il funzionamento del Comitato e per l'adempimento dei suoi 
 
 12.
 
-Per il funzionamento del Comitato si osservano, in quanto applicabili, le norme del [decreto del Presidente della Repubblica 22 novembre 1965, n. 1675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-11-22;1675).
+Per il funzionamento del Comitato si osservano, in quanto applicabili, le norme del [decreto del Presidente della Repubblica 22 novembre 1965, n. 1675](../DPR/Norme%20sullorganizzazione%20e%20sul%20funzionamento%20del%20Comitato%20nazionale%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20vini.md).
 
 ### Art. 18. — (Sezione amministrativa e segreteria del Comitato nazionale)
 
@@ -649,7 +649,7 @@ La sezione amministrativa del Comitato nazionale di cui all'ar- ticolo 17 e' ret
 
 2.
 
-Con decreto del Ministero dell'agricoltura e delle foreste e' adottato, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) il regolamento per la composizione, l'organizzazione ed il funzionamento della segreteria del Comitato,tenuto conto di quanto stabilito dal [decreto del Presidente della Repubblica 22 novembre 1965, n. 1675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-11-22;1675).
+Con decreto del Ministero dell'agricoltura e delle foreste e' adottato, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) il regolamento per la composizione, l'organizzazione ed il funzionamento della segreteria del Comitato,tenuto conto di quanto stabilito dal [decreto del Presidente della Repubblica 22 novembre 1965, n. 1675](../DPR/Norme%20sullorganizzazione%20e%20sul%20funzionamento%20del%20Comitato%20nazionale%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20vini.md).
 
 Nota all'art. 18:
  
@@ -974,7 +974,7 @@ Capo XI
 
 1.
 
-Fino alla data di entrata in vigore delle disposizioni contenute nei regolamenti e nei decreti ministeriali previsti dalla presente legge si osservono, in quanto applicabili, le disposizioni di cui ai [decreti del Presidente della Repubblica 12 luglio 1963, n. 930](Norme%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20mosti%20e%20dei%20vini.md), e [24 maggio 1967, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-05-24;506).
+Fino alla data di entrata in vigore delle disposizioni contenute nei regolamenti e nei decreti ministeriali previsti dalla presente legge si osservono, in quanto applicabili, le disposizioni di cui ai [decreti del Presidente della Repubblica 12 luglio 1963, n. 930](Norme%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20mosti%20e%20dei%20vini.md), e [24 maggio 1967, n. 506](../DPR/Norme%20relative%20allAlbo%20dei%20vigneti%20e%20alla%20denuncia%20delle%20uve%20destinate%20alla%20produzione%20dei%20vini%20a%20denominazione%20di%20origine%20controllata%20o%20controllata%20e%20garantita.md).
 
 2.
 

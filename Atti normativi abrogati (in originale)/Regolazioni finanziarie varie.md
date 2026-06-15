@@ -20,7 +20,7 @@ L'importo dovuto alla Regione siciliana a saldo del contributo a titolo di solid
 
 ## Art. 2.
 
-L'importo dovuto agli importatori di olii minerali greggi naturali o di residui della lavorazione, ai sensi del [decreto-legge 22 novembre 1956, n. 1267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1956-11-22;1267), convertito, con modificazioni, in [legge 27 dicembre 1956, n. 1415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1415), a saldo del rimborso del maggior onere derivante alla importazione dei prodotti petroliferi dalla particolare situazione del mercato internazionale, resta determinato in lire 1.536.000.000.
+L'importo dovuto agli importatori di olii minerali greggi naturali o di residui della lavorazione, ai sensi del [decreto-legge 22 novembre 1956, n. 1267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1956-11-22;1267), convertito, con modificazioni, in [legge 27 dicembre 1956, n. 1415](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20novembre%201956%20n.%201267%20concernente%20misure%20per%20assicurare%20lapprovvigionamento%20di%20prodotti%20petroliferi%20nellattuale%20momento%20internazionale.md), a saldo del rimborso del maggior onere derivante alla importazione dei prodotti petroliferi dalla particolare situazione del mercato internazionale, resta determinato in lire 1.536.000.000.
 
 ## Art. 3.
 

@@ -18,7 +18,7 @@ L'incarico affidato all'Azienda Generale Italiana Petroli, con sede in Roma, con
 
 ## Art. 2.
 
-In dipendenza di quanto e' stabilito nel precedente articolo la somma stanziata nel capitolo 61 del bilancio di previsione del Ministero delle corporazioni per l'esercizio 1939-40, concernente spese per l'applicazione dell'[art. 3 del R. decreto-legge 19 novembre 1921, n. 1605](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-11-19;1605#art_3), e' elevata da L.12.700.000 a L. 15.700.000.
+In dipendenza di quanto e' stabilito nel precedente articolo la somma stanziata nel capitolo 61 del bilancio di previsione del Ministero delle corporazioni per l'esercizio 1939-40, concernente spese per l'applicazione dell'[art. 3 del R. decreto-legge 19 novembre 1921, n. 1605](Concernente%20disposizioni%20in%20materia%20di%20combustibili%20liquidi%20021U1605.md), e' elevata da L.12.700.000 a L. 15.700.000.
 
 ## Art. 3.
 

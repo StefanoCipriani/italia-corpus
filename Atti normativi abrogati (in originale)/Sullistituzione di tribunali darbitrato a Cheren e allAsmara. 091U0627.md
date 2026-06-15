@@ -91,7 +91,7 @@ Le forme di procedura, in quanto riguarda la polizia delle udienze, saranno anal
 
 Ove dal dibattimento risulti un reato che esorbiti dalle facolta' concesse col presente decreto al tribunale, il presidente deferisce i colpevoli al tribunale di Massaua, secondo il decreto 3 aprile 1890 n. 20. 
  
- Se il reato e' contemplato dall'[art. 559 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_559) militare, il comandante del presidio, valendosi delle facolta' che gli accorda l'art. 541, convoca un tribunale straordinario.
+ Se il reato e' contemplato dall'[art. 559 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, il comandante del presidio, valendosi delle facolta' che gli accorda l'art. 541, convoca un tribunale straordinario.
 
 ## Art. 9.
 

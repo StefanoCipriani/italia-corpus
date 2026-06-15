@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 1.
 
-Il termine di cui all'ultimo comma dell'[articolo 84 della legge 14 maggio 1981, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219#art_84), relativo ai compiti ed ai poteri conferiti, con le disposizioni del titolo VIII della medesima legge, al sindaco di Napoli ed al presidente della giunta regionale della Campania, in qualita' di commissari straordinari di Governo, da ultimo prorogato dal [comma 1 dell'articolo 2 del decreto-legge 30 dicembre 1985, n. 791](Provvedimenti%20urgenti%20in%20materia%20di%20opere%20e%20servizi%20pubblici%20nonche%20di%20calamita%20naturali.md), convertito, con modificazioni, dalla [legge 28 febbraio 1986, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;46), e' ulteriormente prorogato al 31 ottobre 1986.
+Il termine di cui all'ultimo comma dell'[articolo 84 della legge 14 maggio 1981, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md), relativo ai compiti ed ai poteri conferiti, con le disposizioni del titolo VIII della medesima legge, al sindaco di Napoli ed al presidente della giunta regionale della Campania, in qualita' di commissari straordinari di Governo, da ultimo prorogato dal [comma 1 dell'articolo 2 del decreto-legge 30 dicembre 1985, n. 791](Provvedimenti%20urgenti%20in%20materia%20di%20opere%20e%20servizi%20pubblici%20nonche%20di%20calamita%20naturali.md), convertito, con modificazioni, dalla [legge 28 febbraio 1986, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201985%20n.%20791%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20opere%20e%20servizi%20pubblici%20nonche%20di%20calamita%20naturali.md), e' ulteriormente prorogato al 31 ottobre 1986.
 
 ## Art. 2.
 
@@ -48,7 +48,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 1.
 
-I fondi iscritti nello stato di previsione del Ministero dei lavori pubblici ai sensi dell'[articolo 1 della legge 8 luglio 1980, n. 326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-08;326#art_1), non impegnati sino alla data del 31 dicembre 1985, sono conservati nel conto dei residui passivi oltre il termine di cui all'[articolo 36 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36), e successive modificazioni, ed in ogni caso non oltre il 31 dicembre 1986.
+I fondi iscritti nello stato di previsione del Ministero dei lavori pubblici ai sensi dell'[articolo 1 della legge 8 luglio 1980, n. 326](Autorizzazione%20di%20spesa%20per%20la%20concessione%20di%20un%20contributo%20per%20il%20completamento%20del%20bacino%20di%20carenaggio%20del%20porto%20di%20Livorno.md), non impegnati sino alla data del 31 dicembre 1985, sono conservati nel conto dei residui passivi oltre il termine di cui all'[articolo 36 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36), e successive modificazioni, ed in ogni caso non oltre il 31 dicembre 1986.
 
 ## Art. 4.
 

@@ -18,7 +18,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 20 novembre 1930, n. 1579](Provvedimenti%20per%20la%20citta%20di%20Napoli%20e%20per%20i%20Comuni%20delle%20provincie%20di%20Napoli%20e%20di%20Salerno%20in%20dipendenza%20del%20terremoto%20del%2023%20luglio%201930.%20030U1579.md);;
 
-Visto il [R. decreto 9 marzo 1931, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-03-09;301);
+Visto il [R. decreto 9 marzo 1931, n. 301](Norme%20per%20la%20concessione%20dei%20mutui%20previsti%20dal%20R.%20decreto-legge%2020%20novembre%201930%20n.%201579%20a%20favore%20dei%20proprietari%20dei%20fabbricati%20danneggiati%20o%20distrutti%20dal%20terremoto%20del%20Vulture.%20031U0301.md);
 
 Visto il [R. decreto-legge 27 ottobre 1932, n. 1497](Proroga%20del%20termine%20per%20la%20concessione%20di%20benefici%20fiscali%20ai%20proprietari%20di%20fabbricati%20danneggiati%20per%20effetto%20delle%20ripercussioni%20del%20movimento%20tellurico%20del%2023%20luglio%201930.%20032U1497.md);
 

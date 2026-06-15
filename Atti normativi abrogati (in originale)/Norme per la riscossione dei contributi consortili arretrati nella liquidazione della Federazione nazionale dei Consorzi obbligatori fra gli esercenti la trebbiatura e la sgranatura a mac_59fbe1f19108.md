@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 23 aprile 1942, n. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-04-23;433), che disciplina l'esercizio della trebbiatura e sgranatura a macchina dei cereali e delle leguminose;
+Visto il [R. decreto-legge 23 aprile 1942, n. 433](Disciplina%20dellesercizio%20della%20trebbiatura%20e%20della%20sgranatura%20a%20macchina%20dei%20cereali%20e%20delle%20leguminose.%20042U0433.md), che disciplina l'esercizio della trebbiatura e sgranatura a macchina dei cereali e delle leguminose;
 
 Visto Il [decreto legislativo Luogotenenziale 3 luglio 1944, n. 152](Disciplina%20per%20lesercizio%20e%20lincoraggiamento%20della%20trebbiatura%20e%20sgranatura%20a%20macchina%20o%20con%20altri%20mezzi%20e%20sistemi%20dei%20cereali%20e%20delle%20leguminose.%20044U0152.md), concernente la disciplina per l'esercizio e l'incoraggiamento della trebbiatura e sgranatura a macchina o con altri mezzi e sistemi, di cereali e delle leguminose;
 

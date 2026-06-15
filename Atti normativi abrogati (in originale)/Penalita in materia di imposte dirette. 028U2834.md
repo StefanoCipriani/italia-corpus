@@ -51,7 +51,7 @@ Il debito per imposte dirette e' considerato come commerciale, agli effetti dell
 
 Le penalita' di carattere civile che saranno applicate in dipendenza della presente legge non sono condonabili che con provvedimento legislativo. 
  
- Le multe e le ammende che sarAnno inflitte in dipendenza della presente legge sono, in caso di mancato pagamento, commutabili rispettivamente nella detenzione e nell'arresto ai sensi degli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_19) e [24 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_24). 
+ Le multe e le ammende che sarAnno inflitte in dipendenza della presente legge sono, in caso di mancato pagamento, commutabili rispettivamente nella detenzione e nell'arresto ai sensi degli [articoli 19](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [24 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Quando tra l'Ufficio delle imposte ed il contribuente si addivenga a concordato prima che sia stata pronunciata alcuna decisione dalle Commissioni amministrative, la sovrimposta per omessa denuncia e' ridotta alla meta', quella per infedele denuncia e' annullata e le altre pene pecuniarie di carattere civile e penale che saranno applicate in dipendenza della presente legge sono ridotte ad un quarto.
 

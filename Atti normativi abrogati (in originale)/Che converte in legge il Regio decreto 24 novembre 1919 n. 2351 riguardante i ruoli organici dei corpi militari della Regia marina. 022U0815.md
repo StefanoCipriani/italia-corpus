@@ -70,7 +70,7 @@ Gli ufficiali pei quali sono cessati i motivi di collocamento fuori quadro rient
  
  Gli ufficiali fuori grado sono promossi quando ad essi spetta, secondo il posto che occupano nel quadro di avanzamento: essi passano fuori quadro nel ruolo del nuovo grado. Le vacanze che si formano nel ruolo degli ufficiali cosi' promossi non sono coperte. 
  
- Nulla e' variato al disposto dei [Regi decreti-legge in data 10 agosto 1919, n. 1468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1468) e [1475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1475). 
+ Nulla e' variato al disposto dei [Regi decreti-legge in data 10 agosto 1919, n. 1468](Che%20da%20facolta%20al%20ministro%20della%20marina%20con%20deliberazione%20insindacabile%20di%20riammettere%20in%20servizio%20effettivo%20permanente%20gli%20ufficiali%20superiori%20della%20riserva%20navale%20di%20tutti%20i%20corpi%20della_f5bf57862e25.md) e [1475](Che%20da%20facolta%20al%20ministro%20della%20marina%20di%20trasferire%20nei%20ruoli%20del%20servizio%20attivo%20permanente%20ufficiali%20inferiori%20e%20subalterni%20di%20vascello%20di%20complemento%20e%20della%20riserva%20navale%20stabilend_f077ea9f848b.md). 
  Art. 4. 
  
  
@@ -102,7 +102,7 @@ Gli ufficiali pei quali sono cessati i motivi di collocamento fuori quadro rient
  
  Per l'applicazione di queste disposizioni le frazioni di unita' saranno considerate come unita' intiere in piu'. 
  
- E' abrogato il [R. decreto-legge n. 1421, in data 17 luglio 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-07-17;1421), concernente la materia oggetto di questo articolo. 
+ E' abrogato il [R. decreto-legge n. 1421, in data 17 luglio 1919](Che%20regola%20lavanzamento%20in%20relazione%20alle%20vacanze%20nei%20ruoli%20fuori%20quadro%20degli%20ufficiali%20di%20tutti%20i%20corpi%20della%20R.%20marina%20e%20nel%20ruolo%20in%20quadro%20dei%20sotto%20ammiragli%20e%20brigadieri%20generali.%20019U1421.md), concernente la materia oggetto di questo articolo. 
  Art. 6. 
  
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 aprile 1934, n. 757](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-12;757), che istituisce un'imposta di fabbricazione sulla margarina e sugli altri succedanei del burro. 
+ E' convertito in legge il [R. decreto-legge 12 aprile 1934, n. 757](Imposta%20di%20fabbricazione%20sulla%20margarina%20e%20sugli%20altri%20succedanei%20del%20burro.%20034U0757.md), che istituisce un'imposta di fabbricazione sulla margarina e sugli altri succedanei del burro. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [regio decreto-legge 25 agosto 1938, n. 1442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-08-25;1442), recante provvedimenti per l'olivicoltura;
+Visto il [regio decreto-legge 25 agosto 1938, n. 1442](Provvedimenti%20per%20lolivicoltura.%20038U1442.md), recante provvedimenti per l'olivicoltura;
 
-Ritenuta, la necessita' di apportare modificazioni alla procedura per il pagamento dei contributi previsti all'art. 4, n. 2, del citato [regio decreto-legge 25 agosto 1938, n. 1442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-08-25;1442);
+Ritenuta, la necessita' di apportare modificazioni alla procedura per il pagamento dei contributi previsti all'art. 4, n. 2, del citato [regio decreto-legge 25 agosto 1938, n. 1442](Provvedimenti%20per%20lolivicoltura.%20038U1442.md);
 
 Vista la deliberazione dei Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per l'agricoltura e le foreste, di concerto con il M
 
 ## Articolo unico.
 
-I contributi previsti all'[art. 4, n. 2, del regio decreto-legge 25 agosto 1938, n. 1442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-08-25;1442#art_4-num2), per la piantagione di olivi e per l'innesto di olivastri possono essere corrisposti per intero dopo l'avvenuto collaudo, da eseguirsi dagli Ispettorati provinciali dell'agricoltura a norma del penultimo comma del successivo art. 6, prescindendo da ogni ulteriore accertamento sul risultato delle piantagioni e degli innesti eseguiti.
+I contributi previsti all'[art. 4, n. 2, del regio decreto-legge 25 agosto 1938, n. 1442](Provvedimenti%20per%20lolivicoltura.%20038U1442.md), per la piantagione di olivi e per l'innesto di olivastri possono essere corrisposti per intero dopo l'avvenuto collaudo, da eseguirsi dagli Ispettorati provinciali dell'agricoltura a norma del penultimo comma del successivo art. 6, prescindendo da ogni ulteriore accertamento sul risultato delle piantagioni e degli innesti eseguiti.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto 5 dicembre 1928, n. 2638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-05;2638), concernente variazioni di bilanci di Amministrazioni diverse, per l'esercizio finanziario 1928-29.
+E' convertito in legge il [R. decreto 5 dicembre 1928, n. 2638](Variazioni%20di%20stanziamenti%20negli%20stati%20di%20previsione%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20in%20bilanci%20speciali%20per%20lesercizio%20finanziario%201928-29.%20028U2638.md), concernente variazioni di bilanci di Amministrazioni diverse, per l'esercizio finanziario 1928-29.
 
 ## Art. 2.
 

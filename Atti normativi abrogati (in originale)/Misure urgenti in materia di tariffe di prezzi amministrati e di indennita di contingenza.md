@@ -28,7 +28,7 @@ Per il 1984 la media annua ponderata degli incrementi delle tariffe e dei prezzi
 
 1.
 
-Con effetto dal primo giorno del mese successivo a quello di pubblicazione della legge di conversione del presente decreto, la tabella allegata al [decreto-legge 29 gennaio 1983, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-01-29;17), convertito, con modificazioni, nella [legge 25 marzo 1983, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-25;79), e' sostituita da quella allegata al presente decreto.
+Con effetto dal primo giorno del mese successivo a quello di pubblicazione della legge di conversione del presente decreto, la tabella allegata al [decreto-legge 29 gennaio 1983, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-01-29;17), convertito, con modificazioni, nella [legge 25 marzo 1983, n. 79](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20gennaio%201983%20n.%2017%20recante%20misure%20per%20il%20contenimento%20del%20costo%20del%20lavoro%20e%20per%20favorire%20loccupazione.md), e' sostituita da quella allegata al presente decreto.
 
 2.
 
@@ -36,11 +36,11 @@ Dal reddito familiare indicato nella tabella di cui al precedente comma 1 sono e
 
 ## Art. 3.
 
-Per l'anno 1984, i punti di variazione della misura della indennita' di contingenza e di indennita' analoghe, per i lavoratori privati, e della indennita' integrativa speciale di cui all'[articolo 3 del decreto-legge 29 gennaio 1983, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-01-29;17#art_3), convertito, con modificazioni, nella [legge 25 marzo 1983, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-25;79), per i dipendenti pubblici, non possono essere determinati in piu' di due dal 1 febbraio, in piu' di due dal 1 maggio, in piu' di due dal 1 agosto ed in piu' di tre dal 1 novembre 1984.
+Per l'anno 1984, i punti di variazione della misura della indennita' di contingenza e di indennita' analoghe, per i lavoratori privati, e della indennita' integrativa speciale di cui all'[articolo 3 del decreto-legge 29 gennaio 1983, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-01-29;17#art_3), convertito, con modificazioni, nella [legge 25 marzo 1983, n. 79](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20gennaio%201983%20n.%2017%20recante%20misure%20per%20il%20contenimento%20del%20costo%20del%20lavoro%20e%20per%20favorire%20loccupazione.md), per i dipendenti pubblici, non possono essere determinati in piu' di due dal 1 febbraio, in piu' di due dal 1 maggio, in piu' di due dal 1 agosto ed in piu' di tre dal 1 novembre 1984.
 
 ## Art. 4.
 
-Il termine di cui all'[articolo 32, primo comma, della legge 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730#art_32-com1), per la revisione generale del prontuario terapeutico del Servizio sanitario nazionale e' differito al 15 aprile 1984.
+Il termine di cui all'[articolo 32, primo comma, della legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md), per la revisione generale del prontuario terapeutico del Servizio sanitario nazionale e' differito al 15 aprile 1984.
 
 ## Art. 5.
 

@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il testo dell'[articolo 157 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_157), sull'ordinamento dell'Amministrazione degli affari esteri, e' sostituito dal seguente: 
+Il testo dell'[articolo 157 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), sull'ordinamento dell'Amministrazione degli affari esteri, e' sostituito dal seguente: 
  "La retribuzione annua base, che comprende ogni forma di compenso ordinario o straordinario con la esclusione degli aumenti per carico di famiglia, e' fissata dal contratto tenuto conto delle retribuzioni locali o delle retribuzioni corrisposte nella stessa sede da rappresentanze diplomatiche e uffici consolari di altri Paesi. La retribuzione stessa varia in relazione alle mansioni di impiego indicate nell'articolo 152, ultimo comma, e non puo' superare il 95 per cento del controvalore in valuta locale dell'indennita' di servizio all'estero che, nella stessa sede, percepisce l'impiegato di ruolo assegnato rispettivamente al posto di cancelliere, archivista, commesso. 
  Il contratto prevede gli aumenti per carico di famiglia, per anzianita' di servizio, per eta' o per altro eventuale titolo secondo quanto stabilito dalla legge locale. 
  La retribuzione annua base e' suscettibile di revisione in relazione alle mutazioni dei termini di riferimento di cui al primo comma e nei limiti di cui al comma stesso; in tal caso si procede anche alla riliquidazione degli aumenti attribuiti ai sensi del comma precedente. 
@@ -29,7 +29,7 @@ Il testo dell'[articolo 157 del decreto del Presidente della Repubblica 5 gennai
 
 ## Art. 2.
 
-All'[articolo 162 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_162), sono apportate le seguenti modificazioni:
+All'[articolo 162 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), sono apportate le seguenti modificazioni:
  al terzo comma, ultimo periodo, l'espressione "sesto comma" e' sostituita con la espressione "quinto comma";
  al quinto comma sono soppresse le parole "e al quinto".
 
@@ -40,7 +40,7 @@ Il personale a contratto di cittadinanza italiana, assunto anteriormente al 31 d
 ## Art. 4.
 
 L'immissione nei ruoli delle carriere suindicate avra' luogo in soprannumero non riassorbibile con la revisione dei ruoli organici di cui al successivo articolo 16.
- In corrispondenza col collocamento in soprannumero del personale a contratto nei ruoli delle carriere suindicate, sono rese indisponibili, fino alla cessazione dal servizio per qualsiasi causa del personale medesimo, altrettante unita' nel contingente complessivo del personale a contratto stabilito nell'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_152).
+ In corrispondenza col collocamento in soprannumero del personale a contratto nei ruoli delle carriere suindicate, sono rese indisponibili, fino alla cessazione dal servizio per qualsiasi causa del personale medesimo, altrettante unita' nel contingente complessivo del personale a contratto stabilito nell'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
 
 ## Art. 5.
 
@@ -49,7 +49,7 @@ Sono ammessi ai concorsi per titoli i contrattisti che, trovandosi nello condizi
  b) siano forniti del titolo di studio richiesto per l'accesso alla carriera o, in mancanza, abbiano superato una prova di cultura sugli argomenti e con le modalita' che saranno stabiliti nel bando di concorso;
  c) abbiano compiuto al momento della partecipazione al concorso un'anzianita' di effettivo servizio alle dipendenze dell'Amministrazione degli affari esteri non inferiore a sei anni, nell'esercizio delle mansioni indicate nella precedente lettera a);
  d) abbiano riportato nell'ultimo triennio un giudizio complessivo non inferiore a distinto;
- e) non abbiano compiuto il 65° anno di eta', sempre che, alla data in cui verrebbero a compiere l'eta' suddetta, si trovino ad avere una anzianita' di servizio utile ai fini della pensione di almeno anni quindici. Ai fini dell'anzianita' suddetta si tiene conto del servizio, di cui all'ultimo comma dell'[articolo 167 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_167), e di ogni altro servizio riscattabile.
+ e) non abbiano compiuto il 65° anno di eta', sempre che, alla data in cui verrebbero a compiere l'eta' suddetta, si trovino ad avere una anzianita' di servizio utile ai fini della pensione di almeno anni quindici. Ai fini dell'anzianita' suddetta si tiene conto del servizio, di cui all'ultimo comma dell'[articolo 167 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e di ogni altro servizio riscattabile.
 
 ## Art. 6.
 
@@ -64,7 +64,7 @@ Il personale ammesso ai concorsi ai sensi dei precedenti articoli sara' valutato
 
 I concorsi per titoli per l'immissione del personale di cui all'articolo 3 nelle qualifiche iniziali dei ruoli delle carriere indicate nel citato articolo sono indetti al 30 settembre di ogni anno per la durata di sei anni a partire dal 1970.
  I vincitori dei concorsi sono inquadrati in ruolo in soprannumero secondo l'ordine di graduatoria con decorrenza dal 1 gennaio dell'anno successivo a quello del bando di concorso.
- I vincitori dei concorsi di cui ai precedenti articoli e dei concorsi di cui all'[articolo 167 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_167), sono esentati dal prestare servizio al Ministero durante il periodo di prova e dal seguire i corsi previsti dal primo comma dell'articolo 121 e dal primo comma dell'articolo 126 del decreto medesimo.
+ I vincitori dei concorsi di cui ai precedenti articoli e dei concorsi di cui all'[articolo 167 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), sono esentati dal prestare servizio al Ministero durante il periodo di prova e dal seguire i corsi previsti dal primo comma dell'articolo 121 e dal primo comma dell'articolo 126 del decreto medesimo.
 
 ## Art. 9.
 
@@ -74,25 +74,25 @@ Gli scrutini di avanzamento devono svolgersi in concomitanza con quelli del pers
 
 ## Art. 10.
 
-Nel primo quinquennio dall'entrata in vigore della presente legge, nel contingente del personale a contratto stabilito dall'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_152), deve essere riservata all'assunzione di personale a contratto regolato dalla legge locale a sensi del terzo comma dell'articolo 154 del succitato decreto presidenziale un'aliquota non inferiore a 250 unita'. Detta aliquota e' elevata a non meno di 350 unita' a partire dal compimento di un quinquennio dall'entrata in vigore della presente legge.
+Nel primo quinquennio dall'entrata in vigore della presente legge, nel contingente del personale a contratto stabilito dall'[articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), deve essere riservata all'assunzione di personale a contratto regolato dalla legge locale a sensi del terzo comma dell'articolo 154 del succitato decreto presidenziale un'aliquota non inferiore a 250 unita'. Detta aliquota e' elevata a non meno di 350 unita' a partire dal compimento di un quinquennio dall'entrata in vigore della presente legge.
  Ai fini della determinazione dei limiti numerici entro i quali possono effettuarsi nuove assunzioni di contrattisti dopo l'entrata in vigore della presente legge, deve computarsi a sensi del precedente articolo 4 anche il personale contrattista immesso in ruolo in soprannumero in applicazione della presente legge.
 
 ## Art. 11.
 
-Entro i limiti numerici indicati nel precedente articolo le nuove assunzioni di personale a contratto di cittadinanza italiana saranno regolate dalle disposizioni della Parte II, Titolo VI, del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), modificate e integrate dai successivi articoli 12, 13 e 14.
+Entro i limiti numerici indicati nel precedente articolo le nuove assunzioni di personale a contratto di cittadinanza italiana saranno regolate dalle disposizioni della Parte II, Titolo VI, del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), modificate e integrate dai successivi articoli 12, 13 e 14.
 
 ## Art. 12.
 
-Il [secondo comma dell'articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_152-com2), e' sostituito dal seguente:
+Il [secondo comma dell'articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e' sostituito dal seguente:
  "Le assunzioni di personale a contratto di cittadinanza straniera sono effettuate direttamente dagli uffici locali previa autorizzazione del Ministero. Le assunzioni di personale a contratto di cittadinanza italiana sono consentite solo per Paesi, che presentino particolari difficolta' linguistiche o ambientali, situati in aree geografiche da determinare all'inizio di ogni anno con decreto del Ministro per gli affari esteri di concerto con quello per il tesoro. Per tale personale di cittadinanza italiana si richiede una permanenza di almeno due anni in Paesi dell'area geografica cui appartiene la sede di destinazione".
 
 ## Art. 13.
 
-Il [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_155-com2) e [terzo comma dell'articolo 155 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_155-com3), sono sostituiti dai seguenti:
+Il [secondo](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e [terzo comma dell'articolo 155 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), sono sostituiti dai seguenti:
  "Il decreto di cui al precedente articolo 152, secondo comma, sara' pubblicato nella Gazzetta Ufficiale e dovra' contenere anche l'indicazione delle mansioni contrattuali per le quali e' prevedibile l'assunzione di personale a contratto nelle varie sedi in esso indicate, delle conoscenze linguistiche e degli altri requisiti richiesti per l'assunzione, nonche' l'invito a chi vi abbia interesse a presentare domanda al Ministero per l'iscrizione nell'albo degli aspiranti contrattisti.
  Presso il Ministero degli affari esteri e' costituita, con decreto del Ministro, una commissione che provvede alla tenuta dell'albo degli aspiranti contrattisti; alla valutazione dei requisiti e dell'idoneita' degli stessi, da accertare, se del caso, anche mediante prove d'esame; alla graduazione di piu' domande concorrenti per la medesima sede. Ai fini di tale graduazione costituisce titolo di preferenza, nel possesso dei requisiti prescritti, il numero di anni di residenza nell'area geografica in cui deve attuarsi l'assunzione.
  Sulla base del giudizio della commissione il Ministero autorizza gli uffici interessati a stipulare il contratto. I contratti di assunzione di personale di cittadinanza italiana o straniera sono approvati con decreto del Ministro.
- Il viaggio compiuto da cittadini italiani per raggiungere la sede all'estero, nella quale sono assunti come contrattisti, e' considerato di servizio agli effetti dello [articolo 159 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_159)".
+ Il viaggio compiuto da cittadini italiani per raggiungere la sede all'estero, nella quale sono assunti come contrattisti, e' considerato di servizio agli effetti dello [articolo 159 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md)".
 
 ## Art. 14.
 
@@ -100,7 +100,7 @@ Non sono consentite assunzioni di contrattisti di cittadinanza italiana, success
 
 ## Art. 15.
 
-Al [secondo comma dell'articolo 167 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_167-com2), e' aggiunto il seguente periodo:
+Al [secondo comma dell'articolo 167 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e' aggiunto il seguente periodo:
  "Tale aliquota puo' essere variata in aumento o in diminuzione in corrispondenza al numero dei contrattisti che, al 1 gennaio dell'anno nel quale viene bandito il concorso, abbiano maturato l'anzianita' prevista dal comma successivo".
 
 ## Art. 16.

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 16 novembre 1925, n. 2254](Modificazioni%20alle%20leggi%2015%20dicembre%201861%20n.%20369%20e%2013%20gennaio%201918%20n.%2017%20circa%20le%20pensioni%20ai%20decorati%20dellOrdine%20militare%20di%20Savoia.%20025U2254.md), convertito in legge con la [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898);
+Visto il [R. decreto-legge 16 novembre 1925, n. 2254](Modificazioni%20alle%20leggi%2015%20dicembre%201861%20n.%20369%20e%2013%20gennaio%201918%20n.%2017%20circa%20le%20pensioni%20ai%20decorati%20dellOrdine%20militare%20di%20Savoia.%20025U2254.md), convertito in legge con la [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
 Visto l'art. 362 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 

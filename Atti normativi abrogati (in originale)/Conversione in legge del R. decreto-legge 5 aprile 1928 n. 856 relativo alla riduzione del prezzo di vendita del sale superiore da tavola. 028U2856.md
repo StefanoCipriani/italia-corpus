@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 aprile 1928, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-04-05;856), che riduce il prezzo di vendita del sale superiore da tavola. 
+ E' convertito in legge il [R. decreto-legge 5 aprile 1928, n. 856](Riduzione%20del%20prezzo%20di%20vendita%20del%20sale%20superiore%20da%20tavola.%20028U0856.md), che riduce il prezzo di vendita del sale superiore da tavola. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia insorta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

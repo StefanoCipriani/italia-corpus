@@ -84,7 +84,7 @@ La facolta' di revisione dei redditi inscritti per l'imposta complementare progr
 
 ### Art. 11.
 
-L'imposta complementare dovuta sui redditi di categoria D, qualunque sia il loro ammontare, e' fissata nella misura di centesimi 50 per cento, e si applica ai redditi al netto della ritenuta per pensione e per opera di previdenza, salva per il contribuente la facolta' di chiedere che la liquidazione dell'imposta sia eseguita con le norme del [R. decreto 30 dicembre 1923, n. 3062](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3062). 
+L'imposta complementare dovuta sui redditi di categoria D, qualunque sia il loro ammontare, e' fissata nella misura di centesimi 50 per cento, e si applica ai redditi al netto della ritenuta per pensione e per opera di previdenza, salva per il contribuente la facolta' di chiedere che la liquidazione dell'imposta sia eseguita con le norme del [R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md). 
  
  Sono soggetti all'imposta complementare, nella misura stabilita dal comma precedente, tanto gli stipendi, i salari, pensioni ed altri assegni di carattere continuativo, quanto gli assegni, compensi e simili corrisposti per incarichi e lavori straordinari ed occasionali, che siano soggetti all'imposta di ricchezza mobile, sempreche' i percipienti di questi ultimi assegni siano gia' colpiti dall'imposta complementare per gli assegni di carattere continuativo. 
  

@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Nello stato di previsione della spesa del Ministero dell'economia nazionale per l'esercizio finanziario 1923-924 sono apportate le seguenti variazioni: 
  
- Cap. n. 5 (modificata la denominazione del capitolo): Premi di operosita' e di rendimento agli impiegati ed agenti ed al personale di altre amministrazioni ([art. 63 del R. decreto 30 settembre 1922, n. 1290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-09-30;1290#art_63)). 
+ Cap. n. 5 (modificata la denominazione del capitolo): Premi di operosita' e di rendimento agli impiegati ed agenti ed al personale di altre amministrazioni ([art. 63 del R. decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md)). 
  
  Cap. n. 23: Contributo alla Cassa nazionale di previdenza, ecc. - L. 38,970. 
  

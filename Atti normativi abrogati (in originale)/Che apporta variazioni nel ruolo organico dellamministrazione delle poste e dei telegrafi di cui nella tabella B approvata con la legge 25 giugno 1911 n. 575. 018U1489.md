@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la tabella allegata al Nostro decreto 2 gennaio 1918, n. 44; 
  
- Visti il [R. decreto 9 luglio 1914, n. 1074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-07-09;1074) ed i Nostri decreti 27 febbraio 1916, n. 290 e 25 ottobre 1917, numero 1882, portanti, fra altro, aumento e soppressione di posti di ufficiali postali e telegrafici nei ruoli organici dell'Amministrazione delle poste e dei telegrafi, di cui nella tabella B approvata con la [legge 25 giugno 1911, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;575); 
+ Visti il [R. decreto 9 luglio 1914, n. 1074](Riguardanti%20un%20aumento%20nei%20ruoli%20organici%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20014U1074.md) ed i Nostri decreti 27 febbraio 1916, n. 290 e 25 ottobre 1917, numero 1882, portanti, fra altro, aumento e soppressione di posti di ufficiali postali e telegrafici nei ruoli organici dell'Amministrazione delle poste e dei telegrafi, di cui nella tabella B approvata con la [legge 25 giugno 1911, n. 575](Per%20i%20provvedimenti%20relativi%20agli%20anziani%20ed%20allelevazione%20dei%20minimi%20di%20stipendio%20del%20personale%20dipendente%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20011U0575.md); 
  
  Ritenuta la necessita' presso l'Amministrazione centrale delle colonie dell'opera di un nuovo ufficiale postale e telegrafico e di sostituire uno di quelli gia' in servizio presso la stessa Amministrazione; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- A decorrere dal 1° luglio 1918, nel ruolo organico dell'Amministrazione delle poste e dei telegrafi, di cui nella tabella B approvata con la [legge 25 giugno 1911, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;575), e' soppresso un posto di ufficiale postale e telegrafico con lo stipendio annuo di L. 1800 e sono aumentati invece due posti di ufficiale postale e telegrafico con lo stipendio annuo di L. 2100 ciascuno. 
+ A decorrere dal 1° luglio 1918, nel ruolo organico dell'Amministrazione delle poste e dei telegrafi, di cui nella tabella B approvata con la [legge 25 giugno 1911, n. 575](Per%20i%20provvedimenti%20relativi%20agli%20anziani%20ed%20allelevazione%20dei%20minimi%20di%20stipendio%20del%20personale%20dipendente%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20011U0575.md), e' soppresso un posto di ufficiale postale e telegrafico con lo stipendio annuo di L. 1800 e sono aumentati invece due posti di ufficiale postale e telegrafico con lo stipendio annuo di L. 2100 ciascuno. 
  
  L'onere della relativa spesa per stipendi ed eventuali assegni fissi, fara' carico al Ministero delle colonie. 
  

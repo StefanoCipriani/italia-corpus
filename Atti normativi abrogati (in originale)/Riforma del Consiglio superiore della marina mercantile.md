@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 8 novembre 1928, n. 2641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-11-08;2641), sulla riforma della costituzione del Consiglio superiore della marina mercantile, e successive modificazioni;
+Visto il [regio decreto 8 novembre 1928, n. 2641](Riforma%20della%20costituzione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20028U2641.md), sulla riforma della costituzione del Consiglio superiore della marina mercantile, e successive modificazioni;
 
 Visto il [decreto del Capo provvisorio dello Stato 13 luglio 1946, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-07-13;26), sulla istituzione del Ministero della marina mercantile;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 31 marzo 1947, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-31;396), sulle attribuzioni del Ministero della marina mercantile;
 
-Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1);
+Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -127,7 +127,7 @@ CAPO IV.
 
 ### Art. 13.
 
-E' abrogato il [regio decreto 8 novembre 1928, n. 2641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-11-08;2641), ed ogni altra disposizione contraria al presente decreto.
+E' abrogato il [regio decreto 8 novembre 1928, n. 2641](Riforma%20della%20costituzione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20028U2641.md), ed ogni altra disposizione contraria al presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

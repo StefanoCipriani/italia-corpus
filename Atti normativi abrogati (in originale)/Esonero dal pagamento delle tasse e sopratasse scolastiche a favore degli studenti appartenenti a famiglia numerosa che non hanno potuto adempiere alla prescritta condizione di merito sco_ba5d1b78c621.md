@@ -30,7 +30,7 @@ Sulla proposta Ministro per la pubblica istruzione, di concerto coi Ministri per
 
 ## Articolo unico.
 
-Per l'anno accademico 1943-44, il beneficio dell'esonero dal pagamento delle tasse scolastiche di cui all'[art. 1 della legge 24 febbraio 1941, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-02-24;208#art_1), e' esteso agli studenti universitari di disagiata condizione economica, appartenenti a famiglia numerosa, i quali comprovino di non aver potuto, in tutto o in parte, completare gli esami del piano di studi consigliato dalle autorita' accademiche per l'anno 1942-43 per aver dato il loro contributo alla causa della liberta'. 
+Per l'anno accademico 1943-44, il beneficio dell'esonero dal pagamento delle tasse scolastiche di cui all'[art. 1 della legge 24 febbraio 1941, n. 208](Concessione%20di%20benefici%20tributari%20agli%20studenti%20universitari%20appartenenti%20a%20famiglia%20numerosa%20richiamati%20alle%20armi%20in%20dipendenza%20delle%20attuali%20contingenze%20di%20guerra.%20041U0208.md), e' esteso agli studenti universitari di disagiata condizione economica, appartenenti a famiglia numerosa, i quali comprovino di non aver potuto, in tutto o in parte, completare gli esami del piano di studi consigliato dalle autorita' accademiche per l'anno 1942-43 per aver dato il loro contributo alla causa della liberta'. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  

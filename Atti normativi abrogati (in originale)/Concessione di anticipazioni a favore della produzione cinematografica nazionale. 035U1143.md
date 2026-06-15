@@ -68,7 +68,7 @@ La concessione delle anticipazioni e' subordinata all'accertamento della idoneit
 
 Qualora dopo la concessione dell'anticipazione, il produttore si rendesse inadempiente agli obblighi ad esso imposti in dipendenza della presente legge o non offrisse piu' le garanzie necessarie o rinunziasse all'ulteriore attivita' produttiva, il Sottosegretario di Stato per la stampa e la propaganda puo' stabilire con propria determinazione che tutti i proventi del noleggio o della cessione della pellicola siano destinati alla immediata estinzione dell'anticipazione. 
  
- Possono essere riservati allo stesso fine, anche all'atto della concessione dell'anticipazione, i benefici derivanti dall'applicazione del [R. decreto-legge 5 ottobre 1933, n. 1414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-05;1414).
+ Possono essere riservati allo stesso fine, anche all'atto della concessione dell'anticipazione, i benefici derivanti dall'applicazione del [R. decreto-legge 5 ottobre 1933, n. 1414](Provvidenze%20varie%20a%20favore%20dellindustria%20cinematografica%20nazionale.%20033U1414.md).
 
 ## Art. 8.
 

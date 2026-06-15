@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927 n. 2323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2323), concernente agevolazioni fiscali alle Societa' assuntrici di linee aeree commerciali. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927 n. 2323](Agevolazioni%20fiscali%20alle%20societa%20assuntrici%20di%20linee%20aeree%20commerciali.%20027U2323.md), concernente agevolazioni fiscali alle Societa' assuntrici di linee aeree commerciali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

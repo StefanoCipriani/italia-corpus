@@ -26,7 +26,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Ogni qual volta il Governo esercita il diritto di cui all'[art. 6 della legge 20 giugno 1909, n. 364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-20;364#art_6), non sono applicabili le disposizioni degli articoli 9 e 10 della legge, [testo unico, 20 maggio 1897, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1897-05-20;217), quale sia la forma data alla trasmissione di proprieta' sulla quale lo Stato esercita il diritto anzidetto.
+Ogni qual volta il Governo esercita il diritto di cui all'[art. 6 della legge 20 giugno 1909, n. 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md), non sono applicabili le disposizioni degli articoli 9 e 10 della legge, [testo unico, 20 maggio 1897, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1897-05-20;217), quale sia la forma data alla trasmissione di proprieta' sulla quale lo Stato esercita il diritto anzidetto.
 
 ## Art. 2.
 

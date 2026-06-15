@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Chiunque in qualsiasi modo esporta o tenta di esportare in paese nemico merci, di cui l'esportazione fu permessa a favore di paese neutrale ovvero devia o tenta di deviare verso paese nemico merce destinata originariamente a un porto italiano o delle colonie, e' punito a norma dell'[art. 1 della legge 21 marzo 1915, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-03-21;273#art_1). Si applicano anche le altre disposizioni stabilite dal titolo 1° di detta legge.
+Chiunque in qualsiasi modo esporta o tenta di esportare in paese nemico merci, di cui l'esportazione fu permessa a favore di paese neutrale ovvero devia o tenta di deviare verso paese nemico merce destinata originariamente a un porto italiano o delle colonie, e' punito a norma dell'[art. 1 della legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md). Si applicano anche le altre disposizioni stabilite dal titolo 1° di detta legge.
 
 ## Art. 2.
 
-Il cittadino, che commette in territorio estero i delitti di cui all'articolo precedente e all'[articolo 1 della legge 21 marzo 1915, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-03-21;273#art_1), e' punito secondo la legge medesima.
+Il cittadino, che commette in territorio estero i delitti di cui all'articolo precedente e all'[articolo 1 della legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md), e' punito secondo la legge medesima.
 
 ## Art. 3.
 

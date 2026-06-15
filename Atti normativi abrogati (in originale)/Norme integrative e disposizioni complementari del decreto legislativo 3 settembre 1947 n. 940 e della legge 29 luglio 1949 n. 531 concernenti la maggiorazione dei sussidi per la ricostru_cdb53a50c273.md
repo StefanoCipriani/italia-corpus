@@ -29,12 +29,12 @@ Gli interessati per ottenere i benefici previsti dall'art. 1 della presente legg
 
 ## Art. 3.
 
-Il sussidio dello Stato e' corrisposto nella stessa misura di cui al precedente art. 1 tanto ai detentori di diritti a mutuo originari, quanto ai detentori di diritti a mutuo a titolo oneroso ed a tale fine non si applicano le disposizioni di cui all'[art. 5 del regio decreto-legge 26 gennaio 1933, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-26;11#art_5) e dell'[art. 4 della legge 4 aprile 1935, n. 454](Attribuzione%20al%20Ministero%20dei%20lavori%20pubblici%20dei%20servizi%20dipendenti%20dai%20terremoti%20del%2028%20dicembre%201908%20e%20successivi%20fino%20al%201920.%20035U0454.md).
+Il sussidio dello Stato e' corrisposto nella stessa misura di cui al precedente art. 1 tanto ai detentori di diritti a mutuo originari, quanto ai detentori di diritti a mutuo a titolo oneroso ed a tale fine non si applicano le disposizioni di cui all'[art. 5 del regio decreto-legge 26 gennaio 1933, n. 11](Nuovi%20provvedimenti%20in%20materia%20di%20terremoti.%20033U0011.md) e dell'[art. 4 della legge 4 aprile 1935, n. 454](Attribuzione%20al%20Ministero%20dei%20lavori%20pubblici%20dei%20servizi%20dipendenti%20dai%20terremoti%20del%2028%20dicembre%201908%20e%20successivi%20fino%20al%201920.%20035U0454.md).
  Per i diritti a mutuo a titolo oneroso il sussidio sara' determinato in rapporto al valore del cespite sinistrato, a norma dell'[art. 2 della legge 4 aprile 1935, n. 454](Attribuzione%20al%20Ministero%20dei%20lavori%20pubblici%20dei%20servizi%20dipendenti%20dai%20terremoti%20del%2028%20dicembre%201908%20e%20successivi%20fino%20al%201920.%20035U0454.md), ed all'importo della spesa prevista dal nuovo progetto da presentarsi a norma dell'art. 2 della presente legge.
 
 ## Art. 4.
 
-Per i sussidi dello Stato, derivanti da fabbricati danneggiati da utilizzarsi in lavori di nuova costruzione, sono abrogate le disposizioni previste dall'[art. 11 del regio decreto-legge 26 febbraio 1928, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-26;457#art_11) e dell'[art. 2 del regio decreto-legge 17 marzo 1938, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-17;578#art_2).
+Per i sussidi dello Stato, derivanti da fabbricati danneggiati da utilizzarsi in lavori di nuova costruzione, sono abrogate le disposizioni previste dall'[art. 11 del regio decreto-legge 26 febbraio 1928, n. 457](Provvedimenti%20in%20materia%20di%20terremoti.%20028U0457.md) e dell'[art. 2 del regio decreto-legge 17 marzo 1938, n. 578](Norme%20per%20accelerare%20la%20trattazione%20delle%20pratiche%20per%20concessione%20di%20sussidi%20ai%20danneggiati%20da%20terremoti.%20038U0578.md).
 
 ## Art. 5.
 

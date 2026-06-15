@@ -12,15 +12,15 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il decreto legislativa luogotenenziale 8 febbraio 1946, n. 49, concernente la cessazione dello stato di guerra ed il passaggio dalla legislazione di guerra a quella di pace;
 
-Vista la [legge 25 gennaio 1940, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-01-25;4), sul riordinamento dei ruoli del personale dell'Amministrazione finanziaria;
+Vista la [legge 25 gennaio 1940, n. 4](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20finanziaria.%20040U0004.md), sul riordinamento dei ruoli del personale dell'Amministrazione finanziaria;
 
 Visto il [regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27), che detta provvidenze a favore dei richiamati alle anni nelle promozioni del personale statale;
 
-Visto il [regio decreto 20 novembre 1942, n. 1565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-11-20;1565), sul passaggio di ruolo e promozioni di taluni personali dell'Amministrazione finanziaria;
+Visto il [regio decreto 20 novembre 1942, n. 1565](Passaggio%20di%20ruolo%20e%20promozioni%20di%20taluni%20personali%20dellAmministrazione%20finanziaria.%20042U1565.md), sul passaggio di ruolo e promozioni di taluni personali dell'Amministrazione finanziaria;
 
-Visto il [decreto legislativo luogotenenziale 8 maggio 1946, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;354), sulla proroga e revoca di taluni provvedimenti in dipendenza della cessazione dello stato di guerra;
+Visto il [decreto legislativo luogotenenziale 8 maggio 1946, n. 354](../Decreti%20legislativi%20luogotenenziali/Proroga%20e%20revoca%20di%20taluni%20provvedimenti%20in%20dipendenza%20della%20cessazione%20dello%20stato%20di%20guerra.md), sulla proroga e revoca di taluni provvedimenti in dipendenza della cessazione dello stato di guerra;
 
-Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1);
+Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per le finanze, di concerto con quello per il tesoro
 
 ## Art. 1.
 
-I posti di grado ottavo attualmente disponibili o che si renderanno tali fino al 31 dicembre 1947 nei ruoli di gruppo A delle Amministrazioni provinciali delle imposte dirette, delle tasse ed imposte indirette sugli affari e delle dogane sono conferiti nei modi previsti dall'[art. 1 del regio decreto 20 novembre 1942, n. 1565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-11-20;1565#art_1).
+I posti di grado ottavo attualmente disponibili o che si renderanno tali fino al 31 dicembre 1947 nei ruoli di gruppo A delle Amministrazioni provinciali delle imposte dirette, delle tasse ed imposte indirette sugli affari e delle dogane sono conferiti nei modi previsti dall'[art. 1 del regio decreto 20 novembre 1942, n. 1565](Passaggio%20di%20ruolo%20e%20promozioni%20di%20taluni%20personali%20dellAmministrazione%20finanziaria.%20042U1565.md).
 
 ## Art. 2.
 

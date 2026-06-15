@@ -16,7 +16,7 @@ I maestri compresi nelle graduatorie di cui al comma precedente sono ammessi sen
 
 ## Art. 2.
 
-Agli insegnanti, tuttora in attesa di nomina, compresi nelle graduatorie dei concorsi speciali, per provvisori e supplenti, banditi per effetto dell'[art. 2 del R. decreto-legge 8 luglio 1937, n. 1322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-08;1322#art_2), e' attribuita fino ad esaurimento delle graduatorie stesse, la totalita' dei posti annualmente disponibili, o, qualora siano ancora in vigore graduatorie di altri concorsi, la meta' dei posti disponibili, intendendosi l'altra meta' riservata ai vincitori dei concorsi ordinari. 
+Agli insegnanti, tuttora in attesa di nomina, compresi nelle graduatorie dei concorsi speciali, per provvisori e supplenti, banditi per effetto dell'[art. 2 del R. decreto-legge 8 luglio 1937, n. 1322](Sistemazione%20in%20ruolo%20di%20taluni%20gruppi%20di%20personale%20insegnante%20assunto%20in%20servizio%20a%20titolo%20provvisorio.%20037U1322.md), e' attribuita fino ad esaurimento delle graduatorie stesse, la totalita' dei posti annualmente disponibili, o, qualora siano ancora in vigore graduatorie di altri concorsi, la meta' dei posti disponibili, intendendosi l'altra meta' riservata ai vincitori dei concorsi ordinari. 
  
 Il presente decreto entra in vigore dal giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Articolo unico.
 
-Sono estese alla Libia le modificazioni apportate con [legge 4 giugno 1931, n. 998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-04;998), al [R. decreto-legge 11 dicembre 1930, n. 1882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-11;1882), contenente norme dirette a rendere piu' efficace la vigilanza governativa sulle Societa' cooperative. 
+Sono estese alla Libia le modificazioni apportate con [legge 4 giugno 1931, n. 998](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20dicembre%201930%20n.%201882%20contenente%20norme%20dirette%20a%20rendere%20piu%20efficiente%20la%20vigilanza%20governativa%20sulle%20societa%20cooperative.%20031U0998.md), al [R. decreto-legge 11 dicembre 1930, n. 1882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-11;1882), contenente norme dirette a rendere piu' efficace la vigilanza governativa sulle Societa' cooperative. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

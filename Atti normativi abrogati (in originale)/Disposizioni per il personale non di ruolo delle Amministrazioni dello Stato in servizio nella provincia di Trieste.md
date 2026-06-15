@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944 n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -49,7 +49,7 @@ I dipendenti iscritti nel quadro speciale, quando cessino dal rapporto di impieg
 
 ## Art. 7.
 
-Le disposizioni del presente decreto si applicano al personale che sia stato assunto ai sensi del [regio decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), nonche' al personale non di ruolo delle scuole e degli istituti d'istruzione di ogni ordine e grado.
+Le disposizioni del presente decreto si applicano al personale che sia stato assunto ai sensi del [regio decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), nonche' al personale non di ruolo delle scuole e degli istituti d'istruzione di ogni ordine e grado.
  Per il personale insegnante non di ruolo, gli aumenti quadriennali di cui all'art. 3 sono calcolati in base al servizio scolastico complessivo, anche non continuativo, e, sulla retribuzione che essi percepiscono per l'insegnamento attualmente tenuto. La cessazione dal servizio per le cause previste dal primo comma dell'art. 4 e' disposta, per lo stesso personale insegnante non di ruolo, in conformita' delle norme in vigore per le corrispondenti categorie di personale insegnante di ruolo.
 
 ## Art. 8.

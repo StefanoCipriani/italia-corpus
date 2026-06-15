@@ -26,7 +26,7 @@ Nel presente decreto con il termine "legge" e' indicata la [legge 14 dicembre 19
 
 ## Art. 2.
 
-Il Ministero della sanita' provvede all'organizzazione relativa ai servizi per la vaccinazione obbligatoria contro la tubercolosi, a mezzo dei propri organi centrali e periferici e tramite i competenti organi sanitari delle regioni a statuto ordinario, ai sensi dell'[art. 13, comma secondo, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-01-14;4#art_13-com2-num1) e [comma quarto del decreto del Presidente della Repubblica 14 gennaio 1972, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-01-14;4#art_13-com4).
+Il Ministero della sanita' provvede all'organizzazione relativa ai servizi per la vaccinazione obbligatoria contro la tubercolosi, a mezzo dei propri organi centrali e periferici e tramite i competenti organi sanitari delle regioni a statuto ordinario, ai sensi dell'[art. 13, comma secondo, n. 1](../DPR/Trasferimento%20alle%20Regioni%20a%20statuto%20ordinario%20delle%20funzioni%20amministrative%20statali%20in%20materia%20di%20assistenza%20sanitaria%20ed%20ospedaliera%20e%20dei%20relativi%20personali%20ed%20uffici.md) e [comma quarto del decreto del Presidente della Repubblica 14 gennaio 1972, n. 4](../DPR/Trasferimento%20alle%20Regioni%20a%20statuto%20ordinario%20delle%20funzioni%20amministrative%20statali%20in%20materia%20di%20assistenza%20sanitaria%20ed%20ospedaliera%20e%20dei%20relativi%20personali%20ed%20uffici.md).
  Per l'attuazione delle vaccinazioni i predetti organi si avvalgono dei consorzi provinciali antitubercolari e di altre idonee istituzioni sanitarie locali.
 
 ## Art. 3.

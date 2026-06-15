@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 marzo 1927, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-17;383), concernente provvedimenti per la revisione generale delle circoscrizioni comunali. 
+ E' convertito in legge il [R. decreto-legge 17 marzo 1927, n. 383](Facolta%20al%20Governo%20del%20Re%20di%20provvedere%20ad%20una%20revisione%20generale%20delle%20circoscrizioni%20comunali.%20027U0383.md), concernente provvedimenti per la revisione generale delle circoscrizioni comunali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

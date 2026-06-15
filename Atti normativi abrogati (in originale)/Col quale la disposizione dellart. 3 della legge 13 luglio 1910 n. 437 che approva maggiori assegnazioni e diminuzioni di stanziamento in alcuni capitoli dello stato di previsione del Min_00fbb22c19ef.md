@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 13 luglio 1910, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;437);
+Vista la [legge 13 luglio 1910, n. 437](Maggiori%20e%20nuove%20assegnazioni%20e%20diminuzioni%20di%20stanziamento%20in%20alcuni%20capitoli%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellistruzione%20pubblica%20per%20lesercizio%20finanziario%201909-10.%20010U0437.md);
 
 Visto l'art. 13 del Nostro decreto 18 novembre 1915, n. 1625, convertito nella legge 21 dicembre stesso anno, n. 1774;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro di concerto con qu
 
 ## Articolo unico.
 
-La disposizione dell'[art. 3 della legge 13 luglio 1910, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;437#art_3), continuera' ad applicarsi per i pagamenti a carico del capitolo n. 42: «Concorsi e rimborsi dello Stato nella spesa che i Comuni sostengono per gli stipendi dei maestri elementari, ecc.» dello stato di previsione del Ministero dell'istruzione per l'esercizio finanziario 1916-1917 e di quello corrispondente dell'esercizio 1917-918. 
+La disposizione dell'[art. 3 della legge 13 luglio 1910, n. 437](Maggiori%20e%20nuove%20assegnazioni%20e%20diminuzioni%20di%20stanziamento%20in%20alcuni%20capitoli%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellistruzione%20pubblica%20per%20lesercizio%20finanziario%201909-10.%20010U0437.md), continuera' ad applicarsi per i pagamenti a carico del capitolo n. 42: «Concorsi e rimborsi dello Stato nella spesa che i Comuni sostengono per gli stipendi dei maestri elementari, ecc.» dello stato di previsione del Ministero dell'istruzione per l'esercizio finanziario 1916-1917 e di quello corrispondente dell'esercizio 1917-918. 
  
  Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
  

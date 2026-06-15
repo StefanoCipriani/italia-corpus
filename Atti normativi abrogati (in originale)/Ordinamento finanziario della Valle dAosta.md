@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'ordinamento finanziario della Regione Valle di Aosta previsto dagli articoli 12, 13 e 50, terzo comma, dello Statuto speciale adottato con [legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4), e' disciplinato dalla presente legge.
+L'ordinamento finanziario della Regione Valle di Aosta previsto dagli articoli 12, 13 e 50, terzo comma, dello Statuto speciale adottato con [legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), e' disciplinato dalla presente legge.
 
 ## Art. 2.
 
@@ -98,7 +98,7 @@ Il versamento alla Regione per gli anni 1951, 1952, 1953 e 1954 delle quote di t
 
 ### Art. 14.
 
-Il recupero della spesa di lire un miliardo da sostenersi dallo Stato per conto della Valle d'Aosta ai sensi dell'[art. 5 della legge 1 agosto 1954, n. 846](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-08-01;846#art_5) per l'esecuzione della Convenzione sul traforo del Monte Bianco, sara' effettuato in dieci rate annuali dell'ammontare degli effettivi versamenti da parte dello Stato, a partire dall'esercizio successivo a quello dei versamenti medesimi.
+Il recupero della spesa di lire un miliardo da sostenersi dallo Stato per conto della Valle d'Aosta ai sensi dell'[art. 5 della legge 1 agosto 1954, n. 846](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20tra%20lItalia%20e%20la%20Francia%20per%20il%20traforo%20del%20Monte%20Bianco%20conclusa%20a%20Parigi%20il%2014%20marzo%201953.md) per l'esecuzione della Convenzione sul traforo del Monte Bianco, sara' effettuato in dieci rate annuali dell'ammontare degli effettivi versamenti da parte dello Stato, a partire dall'esercizio successivo a quello dei versamenti medesimi.
 
 ### Art. 15.
 

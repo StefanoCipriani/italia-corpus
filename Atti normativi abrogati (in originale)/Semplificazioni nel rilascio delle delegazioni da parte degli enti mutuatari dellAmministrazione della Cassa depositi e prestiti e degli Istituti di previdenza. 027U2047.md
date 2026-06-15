@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Viste le disposizioni del testo unico di leggi approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), in tema di delegazioni a garanzia di prestiti della Cassa depositi e prestiti e della Sezione di credito comunale e provinciale;
+Viste le disposizioni del testo unico di leggi approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), in tema di delegazioni a garanzia di prestiti della Cassa depositi e prestiti e della Sezione di credito comunale e provinciale;
 
 Visto il [R. decreto-legge 13 giugno 1926, n. 1064](Impiego%20di%20fondi%20appartenenti%20agli%20Istituti%20di%20previdenza%20amministrati%20dalla%20Cassa%20depositi%20e%20prestiti%20in%20mutui%20agli%20Enti%20locali%20a%20condizioni%20speciali%20e%20con%20gestione%20separata.%20026U1064.md), concernente l'impiego di fondi, appartenenti agli Istituti di previdenza, amministrati dalla Cassa depositi e prestiti, in mutui agli enti locali, a condizioni speciali e con gestione separata;
 
@@ -32,7 +32,7 @@ Per la garanzia da prestarsi in dipendenza di mutui della Cassa depositi e prest
 
 ## Art. 2.
 
-L'atto di delega di cui all'art. 1 e' soggetto alla tassa di bollo stabilita dall'art. 33 della tariffa allegato A al [R. decreto 30 dicembre 1923, n. 3268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3268), modificato dall'[art. 23 del R. decreto-legge 12 agosto 1927, n. 1463](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md), nella misura corrispondente al cumulo di quelle applicabili sull'ammontare delle singole annualita' di ammortamento.
+L'atto di delega di cui all'art. 1 e' soggetto alla tassa di bollo stabilita dall'art. 33 della tariffa allegato A al [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), modificato dall'[art. 23 del R. decreto-legge 12 agosto 1927, n. 1463](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md), nella misura corrispondente al cumulo di quelle applicabili sull'ammontare delle singole annualita' di ammortamento.
 
 ## Art. 3.
 

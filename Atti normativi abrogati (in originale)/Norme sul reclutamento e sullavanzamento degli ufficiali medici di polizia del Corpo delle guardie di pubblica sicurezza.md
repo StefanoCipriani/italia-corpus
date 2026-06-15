@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 della legge 26 giugno 1962, n. 885](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-26;885#art_4), con la quale e' stato istituito il ruolo sanitario degli ufficiali medici di polizia del Corpo delle guardie di pubblica sicurezza;
+Visto l'[art. 4 della legge 26 giugno 1962, n. 885](Istituzione%20del%20ruolo%20sanitario%20degli%20ufficiali%20medici%20di%20polizia%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.md), con la quale e' stato istituito il ruolo sanitario degli ufficiali medici di polizia del Corpo delle guardie di pubblica sicurezza;
 
-Viste le [leggi 13 dicembre 1966, n. 1111, e 7 febbraio 1968, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-07;75), con le quali sono state dettate norme concernenti gli ufficiali medici di polizia in servizio permanente del Corpo delle guardie di pubblica sicurezza;
+Viste le [leggi 13 dicembre 1966, n. 1111, e 7 febbraio 1968, n. 75](Riordinamento%20del%20ruolo%20sanitario%20degli%20ufficiali%20medici%20di%20polizia%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.md), con le quali sono state dettate norme concernenti gli ufficiali medici di polizia in servizio permanente del Corpo delle guardie di pubblica sicurezza;
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -24,9 +24,9 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Dec
 
 ### Art. 1. — Adempimenti della commissione
 
-La commissione giudicatrice, prevista dall'[art. 4, terzo comma, della legge 26 giugno 1962, n. 885](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-26;885#art_4-com3), prima delle prove di esame, procede alla valutazione dei titoli di ciascun candidato attribuendo un punteggio complessivo non superiore a cinque decimi sulla base dei criteri di massima preventivamente determinati.
+La commissione giudicatrice, prevista dall'[art. 4, terzo comma, della legge 26 giugno 1962, n. 885](Istituzione%20del%20ruolo%20sanitario%20degli%20ufficiali%20medici%20di%20polizia%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.md), prima delle prove di esame, procede alla valutazione dei titoli di ciascun candidato attribuendo un punteggio complessivo non superiore a cinque decimi sulla base dei criteri di massima preventivamente determinati.
  I titoli valutabili, oltre quelli di ammissione al concorso, sono i seguenti: incarichi e servizi prestati presso amministrazioni pubbliche, specializzazioni, libere docenze, corsi di perfezionamento e di aggiornamento professionali, pubblicazioni, vincita o idoneita' in precedenti concorsi sanitari presso enti pubblici.
- I titoli accademici e il diploma di abilitazione devono essere esibiti in originale o copia autentica in conformita' all'[art. 14 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_14).
+ I titoli accademici e il diploma di abilitazione devono essere esibiti in originale o copia autentica in conformita' all'[art. 14 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
  Gli altri documenti devono essere rilasciati dalle competenti autorita' amministrative e prodotti su carta da bollo.
  Per le pubblicazioni che i candidati intendono esibire debbono essere stati adempiuti gli obblighi prescritti dalla [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633); non e' ammessa la presentazione in bozze di stampa o dattiloscritti o manoscritti di lavori.
 
@@ -49,11 +49,11 @@ Sono ammessi alla prova orale i candidati che hanno riportato una media di almen
 
 ### Art. 4. — Norme di collegamento
 
-Per quanto non esplicitamente previsto dai precedenti articoli valgono le disposizioni contenute nelle [leggi 26 giugno 1962, n. 885; 13 dicembre 1966, n. 1111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-13;1111), e nei [decreti del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3) e [3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686).
+Per quanto non esplicitamente previsto dai precedenti articoli valgono le disposizioni contenute nelle [leggi 26 giugno 1962, n. 885; 13 dicembre 1966, n. 1111](Norme%20concernenti%20gli%20ufficiali%20medici%20in%20servizio%20permanente%20dellEsercito%20della%20Marina%20dellAeronautica%20e%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.md), e nei [decreti del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md).
 
 ### Art. 5. — Struttura del corso applicativo
 
-Il corso applicativo di cui all'[art. 1 della legge 13 dicembre 1966, n. 1111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-13;1111#art_1), si articola in due fasi, ciascuna della durata di mesi tre, l'una teorica, presso l'Accademia del Corpo delle guardie di pubblica sicurezza, l'altra, a carattere pratico, presso i reparti del Corpo delle guardie di pubblica sicurezza e un ospedale militare.
+Il corso applicativo di cui all'[art. 1 della legge 13 dicembre 1966, n. 1111](Norme%20concernenti%20gli%20ufficiali%20medici%20in%20servizio%20permanente%20dellEsercito%20della%20Marina%20dellAeronautica%20e%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.md), si articola in due fasi, ciascuna della durata di mesi tre, l'una teorica, presso l'Accademia del Corpo delle guardie di pubblica sicurezza, l'altra, a carattere pratico, presso i reparti del Corpo delle guardie di pubblica sicurezza e un ospedale militare.
 
 ### Art. 6. — Materie di insegnamento
 

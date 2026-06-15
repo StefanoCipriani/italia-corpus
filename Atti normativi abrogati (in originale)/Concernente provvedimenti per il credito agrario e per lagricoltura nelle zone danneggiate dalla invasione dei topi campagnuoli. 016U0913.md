@@ -30,7 +30,7 @@ Le somministrazioni di cui all'articolo precedente possono essere concesse;
 
 ## Art. 3.
 
-Per le somministrazioni, di cui agli articoli precedenti, lo Stato anticipera', con l'interesse dell'1 per cento, alle Casse provinciali di credito agrario delle singole provincie e per esse alla Cassa di risparmio del Banco di Napoli, ove ricorra l'applicazione dell'[art. 1 della legge 2 febbraio 1911, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-02-02;70#art_1), i mezzi occorrenti fino ad un importo di L. 10,000,000, sul fondo di cui ai decreti Reali 18 agosto 1914, n. 827 e 23 maggio 1915, n. 711. 
+Per le somministrazioni, di cui agli articoli precedenti, lo Stato anticipera', con l'interesse dell'1 per cento, alle Casse provinciali di credito agrario delle singole provincie e per esse alla Cassa di risparmio del Banco di Napoli, ove ricorra l'applicazione dell'[art. 1 della legge 2 febbraio 1911, n. 70](Concernente%20i%20provvedimenti%20per%20la%20gestione%20delle%20Casse%20provinciali%20di%20credilo%20agrario%20da%20parte%20della%20Cassa%20di%20risparmio%20del%20Banco%20di%20Napoli%20e%20della%20sezione%20di%20credito%20agrario%20del%20Banco%20d_5f47b0da1630.md), i mezzi occorrenti fino ad un importo di L. 10,000,000, sul fondo di cui ai decreti Reali 18 agosto 1914, n. 827 e 23 maggio 1915, n. 711. 
  
  I fondi cosi' anticipati dovranno essere restituiti allo Stato, dalle rispettive Casse provinciali, col raccolto del 1917. 
  
@@ -80,13 +80,13 @@ Nei casi di mancato raccolto nel 1916, accertati come all'art. 1, il debitore ha
 
 ## Art. 9.
 
-Nei casi di menomazione, distrazione, deterioramento degli oggetti sottoposti a privilegio legale o convenzionale, ovvero di distrazione, in tutto o in parte, del prestito in denaro o in natura dalla destinazione per la quale venne concesso, si applica la disposizione dell'[art. 29 della legge 29 marzo 1906, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-03-29;100#art_29).
+Nei casi di menomazione, distrazione, deterioramento degli oggetti sottoposti a privilegio legale o convenzionale, ovvero di distrazione, in tutto o in parte, del prestito in denaro o in natura dalla destinazione per la quale venne concesso, si applica la disposizione dell'[art. 29 della legge 29 marzo 1906, n. 100](Che%20istituisce%20presso%20il%20Banco%20di%20Sicilia%20una%20sezione%20per%20lesercizio%20del%20credito%20agrario.%20006U0100.md).
 
 ## Art. 10.
 
-E' prorogata fino al 31 dicembre 1917, la validita' delle disposizioni del [R. decreto 11 ottobre 1914, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-10-11;1089), e dei [decreti Luogotenenziali 17 giugno 1915, n. 961](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-17;961) e [26 settembre 1915, n. 1433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-09-26;1433), in quanto non sia diversamente stabilito nel presente decreto. 
+E' prorogata fino al 31 dicembre 1917, la validita' delle disposizioni del [R. decreto 11 ottobre 1914, n. 1089](Riguardante%20provvedimenti%20straordinari%20per%20il%20credito%20agrario.%20014U1089.md), e dei [decreti Luogotenenziali 17 giugno 1915, n. 961](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-17;961) e [26 settembre 1915, n. 1433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-09-26;1433), in quanto non sia diversamente stabilito nel presente decreto. 
  
- Sono ridotte alla meta' le tasse inerenti agli atti giudiziari, compresi i protesti cambiari, dipendenti dalle operazioni di credito agrario compiute fino al 31 dicembre 1917, a forma delle [leggi 7 luglio 1901, n. 334 e 2 febbraio 1911, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-02-02;70), e delle altre leggi regionali in materia di credito agrario.
+ Sono ridotte alla meta' le tasse inerenti agli atti giudiziari, compresi i protesti cambiari, dipendenti dalle operazioni di credito agrario compiute fino al 31 dicembre 1917, a forma delle [leggi 7 luglio 1901, n. 334 e 2 febbraio 1911, n. 70](Concernente%20i%20provvedimenti%20per%20la%20gestione%20delle%20Casse%20provinciali%20di%20credilo%20agrario%20da%20parte%20della%20Cassa%20di%20risparmio%20del%20Banco%20di%20Napoli%20e%20della%20sezione%20di%20credito%20agrario%20del%20Banco%20d_5f47b0da1630.md), e delle altre leggi regionali in materia di credito agrario.
 
 ## Art. 11.
 
@@ -112,7 +112,7 @@ L'ufficio di arbitro, di cui all'articolo precedente, e' gratuito.
 
 ## Art. 14.
 
-Al procedimento avanti la Commissione arbitrale, nonche' per quanto riguarda gli uffici di cancelliere e usciere della Commissione stessa, si applicano le disposizioni della [legge 15 giugno 1893, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-15;295), e del [regolamento 26 aprile 1894, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1894-04-26;179), sui Collegi dei probiviri. 
+Al procedimento avanti la Commissione arbitrale, nonche' per quanto riguarda gli uffici di cancelliere e usciere della Commissione stessa, si applicano le disposizioni della [legge 15 giugno 1893, n. 295](Sulla%20istituzione%20dei%20Collegi%20di%20probi-viri.%20093U0295.md), e del [regolamento 26 aprile 1894, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1894-04-26;179), sui Collegi dei probiviri. 
  
  Cosi' pure per tutto cio' che non e' preveduto nel presente decreto si osserveranno le norme stabilite per questi collegi, in quanto siano applicabili. 
  
@@ -132,7 +132,7 @@ Ai fini del presente decreto e di quello 28 giugno 1916, n. 795, il Ministero di
 
 ## Art. 16.
 
-Al fine di completare, in relazione agli studi eseguiti dalla Commissione Reale per le irrigazioni, istituita con la [legge 17 luglio 1910, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;482), i progetti per la irrigazione in Puglia, in Basilicata e nel Molise, sara' iscritta, con decreto del ministro del tesoro, la somma di L. 100 mila in apposito capitolo della parte straordinaria dello stato di previsione della spesa del Ministero di agricoltura per l'esercizio 1916-917, per spese di qualunque genere derivanti dalla redazione dei progetti suddetti, comprese quelle eventualmente occorrenti a compensare l'opera di tecnici privati, e con l'avvertenza che la somma che restasse disponibile al 30 giugno 1917 dovra' rimanere impegnata per successive erogazioni. 
+Al fine di completare, in relazione agli studi eseguiti dalla Commissione Reale per le irrigazioni, istituita con la [legge 17 luglio 1910, n. 482](Studio%20di%20provvedimenti%20per%20promuovere%20lirrigazione.%20010U0482.md), i progetti per la irrigazione in Puglia, in Basilicata e nel Molise, sara' iscritta, con decreto del ministro del tesoro, la somma di L. 100 mila in apposito capitolo della parte straordinaria dello stato di previsione della spesa del Ministero di agricoltura per l'esercizio 1916-917, per spese di qualunque genere derivanti dalla redazione dei progetti suddetti, comprese quelle eventualmente occorrenti a compensare l'opera di tecnici privati, e con l'avvertenza che la somma che restasse disponibile al 30 giugno 1917 dovra' rimanere impegnata per successive erogazioni. 
  
  Di altrettanta somma e' diminuito lo stanziamento del capitolo 85 dello stato di previsione suddetto per l'esercizio 1916-917.
 

@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto Luogotenenziale 31 maggio 1917, n. 1144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;1144);
 
-Visto il nostro decreto 23 agosto 1917, n. 1474, col quale venne approvato e pubblicato il testo unico delle [leggi 6 giugno 1901, n. 355; 7 luglio 1907, n.490, 24 maggio 1874, n. 1934, 30 maggio 1875, n. 2517, 29 marzo 1877, n. 3767, 3 aprile 1879, n. 4810, 14 luglio 1881, n. 301, 29 aprile 1883, n. 1295, 12 febbraio 1888, n. 5252 e 26 giugno 1913, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;786);
+Visto il nostro decreto 23 agosto 1917, n. 1474, col quale venne approvato e pubblicato il testo unico delle [leggi 6 giugno 1901, n. 355; 7 luglio 1907, n.490, 24 maggio 1874, n. 1934, 30 maggio 1875, n. 2517, 29 marzo 1877, n. 3767, 3 aprile 1879, n. 4810, 14 luglio 1881, n. 301, 29 aprile 1883, n. 1295, 12 febbraio 1888, n. 5252 e 26 giugno 1913, n. 786](Che%20approva%20modificazioni%20al%20testo%20unico%20delle%20leggi%206%20giugno%201901%20n.%20355%20e%207%20luglio%201907%20n.%20490%20approvato%20con%20R.%20decreto%2017%20maggio%201908%20n.%20343%20sui%20consorzi%20di%20difesa%20della%20viticoltura%20ed_cb081f4e8931.md);
 
 Udito il Consiglio dei ministri;
 

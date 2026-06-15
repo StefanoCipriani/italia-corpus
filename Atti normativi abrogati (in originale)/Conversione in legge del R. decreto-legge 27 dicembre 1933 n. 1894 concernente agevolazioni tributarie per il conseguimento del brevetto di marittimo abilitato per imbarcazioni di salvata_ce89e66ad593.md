@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 27 dicembre 1933, n. 1894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-27;1894), concernente agevolazioni tributarie per il conseguimento del brevetto di marittimo abilitato per imbarcazioni di salvataggio. 
+ E' convertito in legge il [R. decreto legge 27 dicembre 1933, n. 1894](Agevolazioni%20tributarie%20per%20il%20conseguimento%20del%20brevetto%20di%20marittimo%20abilitato%20per%20imbarcazioni%20di%20salvataggio.%20033U1894.md), concernente agevolazioni tributarie per il conseguimento del brevetto di marittimo abilitato per imbarcazioni di salvataggio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1924, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;2009), contenente provvedimenti in dipendenza dei danni prodotti dal nubifragio del 13 agosto 1924 nelle provincie di Como e di Novara. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1924, n. 2009](Provvedimenti%20in%20dipendenza%20dei%20danni%20prodotti%20dal%20nubifragio%20del%2013%20agosto%201924%20nelle%20provincie%20di%20Como%20e%20di%20Novara.%20024U2009.md), contenente provvedimenti in dipendenza dei danni prodotti dal nubifragio del 13 agosto 1924 nelle provincie di Como e di Novara. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,9 +10,9 @@ vigente: true
 
 ## Art. 1.
 
-Il personale daziario delle quattro cessate amministrazioni statali di Roma, Napoli, Palermo e Venezia, che era iscritto all'Opera di previdenza prima dell'andata in vigore del [R. decreto 13 gennaio 1924, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-01-13;187), rimane iscritto all'Opera stessa, ma e' soggetto al contributo dell'1.40 per cento sul solo stipendio a partire dalla data in cui ha avuto luogo il rispettivo passaggio dalla dipendenza dello Stato a quella del Governatorato di Roma, o delle altre tre sopramenzionate amministrazioni comunali. 
+Il personale daziario delle quattro cessate amministrazioni statali di Roma, Napoli, Palermo e Venezia, che era iscritto all'Opera di previdenza prima dell'andata in vigore del [R. decreto 13 gennaio 1924, n. 187](Passaggio%20ai%20comuni%20di%20Roma%20Napoli%20Palermo%20e%20Venezia%20delle%20rispettive%20gestioni%20daziarie%20governative.%20024U0187.md), rimane iscritto all'Opera stessa, ma e' soggetto al contributo dell'1.40 per cento sul solo stipendio a partire dalla data in cui ha avuto luogo il rispettivo passaggio dalla dipendenza dello Stato a quella del Governatorato di Roma, o delle altre tre sopramenzionate amministrazioni comunali. 
  
- Rimane fermo per il periodo precedente a tale passaggio il calcolo dei contributi eseguito in base all'art. 8 del testo unico approvato con [R. decreto 4 giugno 1925, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-04;1036).
+ Rimane fermo per il periodo precedente a tale passaggio il calcolo dei contributi eseguito in base all'art. 8 del testo unico approvato con [R. decreto 4 giugno 1925, n. 1036](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md).
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ Gli assegni vitalizi a carico dell'Opera di previdenza si liquidano in base all'
 
 ## Art. 6.
 
-L'[art. 3 del R. decreto 3 gennaio 1926, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;34#art_3) (convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898)) e' modificato nel modo seguente: 
+L'[art. 3 del R. decreto 3 gennaio 1926, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;34#art_3) (convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md)) e' modificato nel modo seguente: 
  
  «L'Opera di previdenza e' autorizzata a concorrere, mediante pagamento diretto a favore della clinica ospitaliera, nella spesa che, per onorari a chirurghi e per rette di degenza, devono sostenere i funzionari civili o militari in servizio attivo per subire una grave operazione chirurgica presso una clinica ospitaliera del Regno. 
  
@@ -74,7 +74,7 @@ Il Consiglio di amministrazione della Cassa depositi e prestiti e degli Istituti
 
 ## Art. 9.
 
-Ai funzionari aventi diritto alla normale pensione vitalizia, che siano collocati a riposo con decorrenza dal 1° gennaio 1928 in poi, e' concesso l'aumento di un decimo sull'indennita' di buonuscita liquidata in base all'[art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;34#art_5) ([comma 1°) del R. decreto 3 gennaio 1926, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;34#art_com1) (convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898)) se il servizio ritenuto valido agli effetti dell'indennita' stessa supera gli anni trenta; se e' superiore agli anni trentacinque l'aumento e' di 2 decimi; e se sorpassa gli anni 39 e mesi 6 l'aumento e' di 3 decimi. 
+Ai funzionari aventi diritto alla normale pensione vitalizia, che siano collocati a riposo con decorrenza dal 1° gennaio 1928 in poi, e' concesso l'aumento di un decimo sull'indennita' di buonuscita liquidata in base all'[art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;34#art_5) ([comma 1°) del R. decreto 3 gennaio 1926, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;34#art_com1) (convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md)) se il servizio ritenuto valido agli effetti dell'indennita' stessa supera gli anni trenta; se e' superiore agli anni trentacinque l'aumento e' di 2 decimi; e se sorpassa gli anni 39 e mesi 6 l'aumento e' di 3 decimi. 
  
  Durante il periodo di aspettativa per malattia, o per riduzione di quadri, e' dovuto all'Opera di previdenza il contributo sull'assegno, o su quella parte di stipendio, che si corrisponde al funzionario civile o militare. Agli effetti della liquidazione dell'indennita' di buonuscita, tale periodo, se verificatosi dopo l'iscrizione del funzionario all'Opera di previdenza, viene computato per meta'. 
  
@@ -104,7 +104,7 @@ Gli assegni vitalizi sui fondi della Cassa sovvenzioni sono Concessi mediante co
 
 ## Art. 11.
 
-Sono abrogati gli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-04;1036#art_5), [17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-04;1036#art_17), [36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-04;1036#art_36) e [37 del R. decreto 4 giugno 1925, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-04;1036#art_37). 
+Sono abrogati gli [articoli 5](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md), [17](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md), [36](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md) e [37 del R. decreto 4 giugno 1925, n. 1036](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md). 
  
  Le disposizioni della presente legge, per le quali non sia indicata apposita decorrenza, entrano in vigore il primo giorno del mese successivo alla loro pubblicazione nella Gazzetta Ufficiale del Regno.
 

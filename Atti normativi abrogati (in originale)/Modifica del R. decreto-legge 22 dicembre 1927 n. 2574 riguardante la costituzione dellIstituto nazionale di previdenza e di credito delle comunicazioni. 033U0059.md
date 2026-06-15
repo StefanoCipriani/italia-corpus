@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 22 dicembre 1927, n. 2574](Costituzione%20dellIstitut
 
 Visto il [R. decreto 28 marzo 1929, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;519);
 
-Visto il [R. decreto 25 novembre 1929, n. 2098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-25;2098);
+Visto il [R. decreto 25 novembre 1929, n. 2098](Approvazione%20del%20regolamento%20per%20la%20previdenza%20e%20le%20assicurazioni%20dellIstituto%20nazionale%20di%20previdenza%20e%20credito%20delle%20comunicazioni.%20029U2098.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la tariffa dei dazi doganali, approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni;
+Vista la tariffa dei dazi doganali, approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni;
 
-Visto il [R. decreto-legge 4 maggio 1924, n. 748](Modificazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202553%20riguardante%20il%20regime%20doganale%20degli%20oli%20minerali%20e%20dei%20residui%20della%20distillazione%20degli%20oli%20minerali.%20024U0748.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge 4 maggio 1924, n. 748](Modificazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202553%20riguardante%20il%20regime%20doganale%20degli%20oli%20minerali%20e%20dei%20residui%20della%20distillazione%20degli%20oli%20minerali.%20024U0748.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -42,7 +42,7 @@ Sul benzolo (voce ex-649 della tariffa dei dazi doganali), nazionale o provenien
 
 ## Art. 2.
 
-Chiunque intende esercitare l'industria della fabbricazione o rettificazione del benzolo, oltre all'osservanza delle disposizioni, di cui agli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_4) e [10 del R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_10), convertito nella [legge 8 febbraio 1934, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-08;367), e 12 del [R. decreto 20 luglio 1934, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1303), e' tenuto a farne denunzia all'Ufficio tecnico di finanza della circoscrizione almeno 20 giorni prima di iniziare la lavorazione. 
+Chiunque intende esercitare l'industria della fabbricazione o rettificazione del benzolo, oltre all'osservanza delle disposizioni, di cui agli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_4) e [10 del R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_10), convertito nella [legge 8 febbraio 1934, n. 367](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%202%20novembre%201933%20n.%201741%20concernente%20la%20disciplina%20dellimportazione%20lavorazione%20deposito%20e%20distribuzione%20degli%20olii%20minerali%20e%20dei%20carburanti.%20034U0367.md), e 12 del [R. decreto 20 luglio 1934, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1303), e' tenuto a farne denunzia all'Ufficio tecnico di finanza della circoscrizione almeno 20 giorni prima di iniziare la lavorazione. 
  
  La denunzia deve essere redatta in doppio esemplare e deve indicare: 
  
@@ -58,7 +58,7 @@ Chiunque intende esercitare l'industria della fabbricazione o rettificazione del
 
 ## Art. 3.
 
-La tassa di vendita sul benzolo, fino a quando non verra' diversamente disposto, con apposito regolamento, e' accertata e riscossa con le norme, in quanto applicabili, stabilite dal regolamento approvato col [R. decreto 19 aprile 1896, n. 123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-04-19;123). 
+La tassa di vendita sul benzolo, fino a quando non verra' diversamente disposto, con apposito regolamento, e' accertata e riscossa con le norme, in quanto applicabili, stabilite dal regolamento approvato col [R. decreto 19 aprile 1896, n. 123](Che%20approva%20il%20Regolamento%20per%20lapplicazione%20della%20legge%208%20agosto%201896%20n.%20486%20allegato%20C%20riguardante%20la%20tassa%20sulla%20raffinazione%20degli%20olii%20minerali.%20096U0123.md). 
  
  La tassa di vendita sul benzolo importato dall'estero e' riscossa dalla dogana all'atto stesso della riscossione del dazio doganale. 
  
@@ -72,7 +72,7 @@ Chiunque sottragga o tenti sottrarre, con qualunque mezzo, il benzolo all'accert
 
 ## Art. 5.
 
-Le pene stabilite dal precedente articolo sono applicate senza pregiudizio di quelle sancite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) nel caso di manomissione od alterazione dei congegni, bolli e sigilli, apposti dalla Amministrazione.
+Le pene stabilite dal precedente articolo sono applicate senza pregiudizio di quelle sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nel caso di manomissione od alterazione dei congegni, bolli e sigilli, apposti dalla Amministrazione.
 
 ## Art. 6.
 

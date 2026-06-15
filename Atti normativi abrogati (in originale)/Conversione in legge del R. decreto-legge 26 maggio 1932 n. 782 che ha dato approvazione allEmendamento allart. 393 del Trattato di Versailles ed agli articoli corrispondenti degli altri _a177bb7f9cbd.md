@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 maggio 1932, n. 782](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-05-26;782), che ha dato approvazione all'Emendamento all'articolo 393 del Trattato di Versailles e agli articoli corrispondenti degli altri Trattati di pace, adottato dalla Conferenza internazionale del lavoro nella sua quarta sessione (Ginevra 18 ottobre 3 novembre 1922). 
+ E' convertito in legge il [R. decreto-legge 26 maggio 1932, n. 782](Ratifica%20dellemendamento%20allart.%20393%20del%20Trattato%20di%20Versaglia%20e%20agli%20articoli%20corrispondenti%20degli%20altri%20Trattati%20di%20pace%20risultato%20dalla%20Conferenza%20internazionale%20del%20lavoro%20del%201922.%20032U0782.md), che ha dato approvazione all'Emendamento all'articolo 393 del Trattato di Versailles e agli articoli corrispondenti degli altri Trattati di pace, adottato dalla Conferenza internazionale del lavoro nella sua quarta sessione (Ginevra 18 ottobre 3 novembre 1922). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

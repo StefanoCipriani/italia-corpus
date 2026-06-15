@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Viste le tariffe e condizioni valevoli per i trasporti sulle linee ferroviarie esercitate dallo Stato;
 
-Visto l'[art. 39 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata col [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728), e il [R. decreto 31 dicembre 1922, n. 1681](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-31;1681);
+Visto l'[art. 39 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata col [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), e il [R. decreto 31 dicembre 1922, n. 1681](Che%20scioglie%20il%20Consiglio%20damministrazione%20delle%20Ferrovie%20dello%20Stato.%20022U1681.md);
 
-Visti i [Regi decreti-legge 29 ottobre 1920, n. 1523](Recante%20aumenti%20nelle%20tariffe%20ferroviarie.%20020U1523.md) e [21 agosto 1921, n. 1270, e il R. decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-08-21;1270) [23 febbraio 1911, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-23;246);
+Visti i [Regi decreti-legge 29 ottobre 1920, n. 1523](Recante%20aumenti%20nelle%20tariffe%20ferroviarie.%20020U1523.md) e [21 agosto 1921, n. 1270, e il R. decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-08-21;1270) [23 febbraio 1911, n. 246](Per%20lapplicazione%20delle%20tariffe%20ferroviarie%20sui%20tronchi%20delle%20linee%20complementari%20della%20Sicilia.%20011U0246.md);
 
 Udito il Commissario straordinario per l'Amministrazione delle ferrovie dello Stato;
 
@@ -105,7 +105,7 @@ Nelle condizioni e tariffe per i trasporti delle cose sulle ferrovie dello Stato
 
 ## Art. 11.
 
-Le norme di cui agli [art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-23;246#art_1) e [2 del R. decreto 23 febbraio 1911, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-23;246#art_2), sono sostituite dalle seguenti: 
+Le norme di cui agli [art. 1](Per%20lapplicazione%20delle%20tariffe%20ferroviarie%20sui%20tronchi%20delle%20linee%20complementari%20della%20Sicilia.%20011U0246.md) e [2 del R. decreto 23 febbraio 1911, n. 246](Per%20lapplicazione%20delle%20tariffe%20ferroviarie%20sui%20tronchi%20delle%20linee%20complementari%20della%20Sicilia.%20011U0246.md), sono sostituite dalle seguenti: 
  
  Sui tronchi delle linee complementari a sezione ridotta della Sicilia esercitate dell'Amministrazione delle ferrovie dello Stato si applicano, per i trasporti delle persone e delle cose, le condizioni e le tariffe in vigore sulle linee dello Stato con la riduzione del venticinque per cento, estensibile alle tasse minime per spedizione, ma non alle tasse accessorie. 
  

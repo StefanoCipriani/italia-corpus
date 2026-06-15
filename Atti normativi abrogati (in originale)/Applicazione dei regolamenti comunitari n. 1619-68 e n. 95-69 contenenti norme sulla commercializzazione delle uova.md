@@ -46,7 +46,7 @@ Le fascette e i dispositivi di etichettatura, previsti dall'articolo 17 del rego
 
 ## Art. 5.
 
-Sempre che il fatto non sia previsto come reato dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) o da altre leggi, si applica la sanzione amministrativa del pagamento di una somma:
+Sempre che il fatto non sia previsto come reato dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da altre leggi, si applica la sanzione amministrativa del pagamento di una somma:
  1) da lire 300.000 a lire 800.000 a carico di chiunque effettui la classificazione di uova in categorie di qualita' e di peso senza l'autorizzazione di cui al precedente articolo 2, primo comma;
  2) da lire 100.000 a lire 500.000 nei confronti dei titolari dei centri d'imballaggio che classifichino le uova in violazione delle norme di cui agli articoli 6, punto 1), 7, punto 1), 8 e 10 del regolamento C.E.E. n. 1619/68;
  3) da lire 50.000 a lire 200.000 nei confronti:

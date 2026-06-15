@@ -18,11 +18,11 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico delle leggi per l'imposta di fabbricazione sugli spiriti, approvato con decreto Ministeriale 8 luglio 1924, e successive modificazioni;
 
-Visto il [R. decreto-legge 2 febbraio 1933, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-02-02;23), che stabilisce nuove misure per ostacolare lo smercio dell'alcool di contrabbando, convertito nella [legge 3 aprile 1933, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-04-03;353);
+Visto il [R. decreto-legge 2 febbraio 1933, n. 23](Nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U0023.md), che stabilisce nuove misure per ostacolare lo smercio dell'alcool di contrabbando, convertito nella [legge 3 aprile 1933, n. 353](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U0353.md);
 
-Visto il [R. decreto 27 novembre 1933, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-11-27;1604), che detta le norme per l'applicazione del citato decreto-legge, e successive modificazioni;
+Visto il [R. decreto 27 novembre 1933, n. 1604](Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md), che detta le norme per l'applicazione del citato decreto-legge, e successive modificazioni;
 
-Visto il [R. decreto-legge 1° giugno 1944, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-06-01;179), concernente l'istituzione di un nuovo tipo di contrassegno di Stato per i recipienti contenenti liquori;
+Visto il [R. decreto-legge 1° giugno 1944, n. 179](Istituzione%20di%20un%20nuovo%20tipo%20di%20contrassegno%20di%20stato%20per%20i%20recipienti%20contenenti%20liquori.%20044U0179.md), concernente l'istituzione di un nuovo tipo di contrassegno di Stato per i recipienti contenenti liquori;
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md), recante nuove norme sull'emanazione, promulgazione e pubblicazione di decreti Luogotenenziali e di altri provvedimenti;
 
@@ -34,9 +34,9 @@ Sulla proposta del Ministro per le finanze; Abbiamo sanzionato e promulghiamo qu
 
 ## Art. 1.
 
-E' data facolta' all'Amministrazione finanziaria di adottare, per la identificazione dei recipienti contenenti liquori, agli effetti dell'[art. 3 del R. decreto-legge 2 febbraio 1933, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-02-02;23#art_3), una speciale fascetta, costituita, come da fac-simile allegato, da una striscia di carta filigranata delle dimensioni di mm. 150 x 25, recante impressi a stampa: lo stemma dello Stato e la dicitura «Imposta fabbricazione spiriti - Contrassegno di Stato per liquori», l'indicazione del quantitativo idrato di prodotto per il quale ogni fascetta e' valida, nonche' una lettera o combinazione di lettere dell'alfabeto che ne contrassegna la serie, un numero che ne indica la sottoserie ed un altro che identifica la singola fascetta entro la rispettiva sottoserie. 
+E' data facolta' all'Amministrazione finanziaria di adottare, per la identificazione dei recipienti contenenti liquori, agli effetti dell'[art. 3 del R. decreto-legge 2 febbraio 1933, n. 23](Nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U0023.md), una speciale fascetta, costituita, come da fac-simile allegato, da una striscia di carta filigranata delle dimensioni di mm. 150 x 25, recante impressi a stampa: lo stemma dello Stato e la dicitura «Imposta fabbricazione spiriti - Contrassegno di Stato per liquori», l'indicazione del quantitativo idrato di prodotto per il quale ogni fascetta e' valida, nonche' una lettera o combinazione di lettere dell'alfabeto che ne contrassegna la serie, un numero che ne indica la sottoserie ed un altro che identifica la singola fascetta entro la rispettiva sottoserie. 
  
- L'impiego, nei modi prescritti dal presente decreto, della sopraindicata fascetta, esonera le ditte produttrici o importatrici di liquori dall'uso del contrassegno metallico di cui al [R. decreto-legge 1° giugno 1944, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-06-01;179).
+ L'impiego, nei modi prescritti dal presente decreto, della sopraindicata fascetta, esonera le ditte produttrici o importatrici di liquori dall'uso del contrassegno metallico di cui al [R. decreto-legge 1° giugno 1944, n. 179](Istituzione%20di%20un%20nuovo%20tipo%20di%20contrassegno%20di%20stato%20per%20i%20recipienti%20contenenti%20liquori.%20044U0179.md).
 
 ## Art. 2.
 
@@ -69,13 +69,13 @@ Ove l'adesivo venga fornito dall'Amministrazione, sara' da essa stabilito il pre
 
 ## Art. 5.
 
-Per il deposito, l'applicazione e il movimento delle fascette si osserveranno le disposizioni di cui agli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-11-27;1604#art_7) e [8 del R. decreto 27 novembre 1933, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-11-27;1604#art_8). 
+Per il deposito, l'applicazione e il movimento delle fascette si osserveranno le disposizioni di cui agli [articoli 7](Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md) e [8 del R. decreto 27 novembre 1933, n. 1604](Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md). 
  
  E' fatto altresi' obbligo ai fabbricanti di tenere uno speciale registro di carico e scarico dei liquori imbottigliati: dalla parte del carico saranno annotati, per ordine di data, i liquori imbottigliati distintamente per tipo e taglio, e dalla parte dello scarico i liquori esitati pure per ordine di data e distintamente per tipo e taglio con l'indicazione del nominativo delle ditte acquirenti. L'indicazione del nominativo dell'acquirente potra' essere omesso per i liquori venduti al minuto, che in ogni caso debbono essere scaricati sul registro giornalmente.
 
 ## Art. 6.
 
-I recipienti contenenti liquori trovati nei depositi, negli esercizi di vendita o in circolazione, muniti di fascetta contraffatta oppure con fascetta attaccata con adesivi diversi da quello approvato o fornito dall'Amministrazione finanziaria saranno considerati di contrabbando. Nel di piu' si applicano le disposizioni di cui al [R. decreto 27 novembre 1933, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-11-27;1604).
+I recipienti contenenti liquori trovati nei depositi, negli esercizi di vendita o in circolazione, muniti di fascetta contraffatta oppure con fascetta attaccata con adesivi diversi da quello approvato o fornito dall'Amministrazione finanziaria saranno considerati di contrabbando. Nel di piu' si applicano le disposizioni di cui al [R. decreto 27 novembre 1933, n. 1604](Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md).
 
 ## Art. 7.
 

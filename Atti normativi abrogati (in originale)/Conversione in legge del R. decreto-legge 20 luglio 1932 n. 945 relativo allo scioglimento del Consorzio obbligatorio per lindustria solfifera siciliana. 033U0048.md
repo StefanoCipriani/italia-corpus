@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 luglio 1932, n. 945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-07-20;945), relativo allo scioglimento del Consorzio obbligatorio per l'industria solfifera siciliana. 
+ E' convertito in legge il [R. decreto-legge 20 luglio 1932, n. 945](Scioglimento%20del%20Consorzio%20obbligatorio%20per%20lindustria%20solfifera%20siciliana.%20032U0945.md), relativo allo scioglimento del Consorzio obbligatorio per l'industria solfifera siciliana. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

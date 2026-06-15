@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1621](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1621), contenente provvedimenti per lo sviluppo industriale del comune di Bolzano. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1621](Provvedimenti%20per%20lo%20sviluppo%20industriale%20del%20comune%20di%20Bolzano.%20034U1621.md), contenente provvedimenti per lo sviluppo industriale del comune di Bolzano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

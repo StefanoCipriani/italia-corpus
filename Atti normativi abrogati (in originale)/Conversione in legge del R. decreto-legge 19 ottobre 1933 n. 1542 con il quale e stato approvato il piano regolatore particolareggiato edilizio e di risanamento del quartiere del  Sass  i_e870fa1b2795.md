@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1542), con il quale e' stato approvato il piano regolatore particolareggiato edilizio e di risanamento del quartiere del « Sass » in Trento. 
+ E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1542](Approvazione%20del%20piano%20regolatore%20particolareggiato%20edilizio%20e%20di%20risanamento%20del%20quartiere%20del%20Sass%20in%20Trento.%20033U1542.md), con il quale e' stato approvato il piano regolatore particolareggiato edilizio e di risanamento del quartiere del « Sass » in Trento. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

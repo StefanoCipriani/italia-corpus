@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-I ricorsi tempestivamente presentati ai sensi dell'[articolo 2, comma 1- bis, del decreto-legge 23 gennaio 1993, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-23;16#art_2-com1bis), convertito, con modificazioni, dalla [legge 24 marzo 1993, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75), non decisi per mancata costituzione delle commissioni censuarie provinciali alla data di entrata in vigore del presente decreto si intendono accolti.
+I ricorsi tempestivamente presentati ai sensi dell'[articolo 2, comma 1- bis, del decreto-legge 23 gennaio 1993, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-23;16#art_2-com1bis), convertito, con modificazioni, dalla [legge 24 marzo 1993, n. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md), non decisi per mancata costituzione delle commissioni censuarie provinciali alla data di entrata in vigore del presente decreto si intendono accolti.
 Nel termine di trenta giorni a decorrere dalla predetta data, e' ammessa, da parte del dipartimento del territorio del Ministero delle finanze, la presentazione di ricorsi presso la commissione censuaria centrale la quale decide con le modalita' di cui al comma 1- ter del suindicato articolo 2.
 
 ## Art. 2.

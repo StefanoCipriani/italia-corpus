@@ -181,7 +181,7 @@ precedenti ............. » 55.026.666,56
 
 ### Art. 9.
 
-Alla competenza dell'articolo aggiunto n. 130 del bilancio della Cirenaica per l'esercizio finanziario 1932-33 con la dizione « Fondo di riserva da destinarsi, negli esercizi successivi, a fronteggiare straordinarie necessita' di bilancio derivanti dal minor gettito delle entrate, dalla gestione dei residui e da altre cause eccezionali, nonche' alle spese straordinarie di carattere patrimoniale o ad altre di pubblica utilita', alle quali non si possa far fronte con le entrate proprie della Colonia» ([art. 2 del Regio decreto-legge 25 marzo 1929, n. 531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-25;531#art_2)) e' inscritta 
+Alla competenza dell'articolo aggiunto n. 130 del bilancio della Cirenaica per l'esercizio finanziario 1932-33 con la dizione « Fondo di riserva da destinarsi, negli esercizi successivi, a fronteggiare straordinarie necessita' di bilancio derivanti dal minor gettito delle entrate, dalla gestione dei residui e da altre cause eccezionali, nonche' alle spese straordinarie di carattere patrimoniale o ad altre di pubblica utilita', alle quali non si possa far fronte con le entrate proprie della Colonia» ([art. 2 del Regio decreto-legge 25 marzo 1929, n. 531](Contributo%20dello%20Stato%20diretto%20a%20consolidare%20per%20gli%20esercizi%20finanziari%20dal%201929-30%20al%201932-33%20i%20bilanci%20della%20Tripolitania%20Cirenaica%20Eritrea%20e%20Somalia.%20029U0531.md)) e' inscritta 
  
  
 

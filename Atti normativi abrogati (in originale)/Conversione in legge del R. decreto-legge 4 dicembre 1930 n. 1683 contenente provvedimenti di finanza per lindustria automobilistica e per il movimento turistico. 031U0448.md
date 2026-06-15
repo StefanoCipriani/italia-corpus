@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 dicembre 1930, n. 1683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-04;1683), contenente provvedimenti di finanza per l'industria automobilistica ed il movimento turistico. 
+ E' convertito in legge il [R. decreto-legge 4 dicembre 1930, n. 1683](Provvedimenti%20per%20agevolare%20lindustria%20automobilistica%20ed%20il%20movimento%20turistico.%20030U1683.md), contenente provvedimenti di finanza per l'industria automobilistica ed il movimento turistico. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -84,9 +84,9 @@ E' nominata con decreto del ministro dei lavori pubblici, che dettera' le norme 
 
 ## Art. 8.
 
-Il limite d'impegno per le sovvenzioni per le costruzioni ferroviarie di cui all'[art. 4 della legge 30 aprile 1899, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1899-04-30;168#art_4), agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-06-16;540#art_1) e [4 della legge 16 giugno 1903, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-06-16;540#art_4), e all'[art. 5 della legge 12 luglio 1908, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-12;444#art_5), e' fissato in L. 2,000,000 per ciascuno degli esercizi finanziari 1919-920 e 1920-921. 
+Il limite d'impegno per le sovvenzioni per le costruzioni ferroviarie di cui all'[art. 4 della legge 30 aprile 1899, n. 168](Concernente%20disposizioni%20sulle%20sovvenzioni%20chilometriche%20alle%20ferrovie%20da%20concedersi%20allindustria%20privata.%20099U0168.md), agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-06-16;540#art_1) e [4 della legge 16 giugno 1903, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-06-16;540#art_4), e all'[art. 5 della legge 12 luglio 1908, n. 444](Concernente%20la%20concessione%20e%20costruzione%20di%20ferrovie%20008U0444.md), e' fissato in L. 2,000,000 per ciascuno degli esercizi finanziari 1919-920 e 1920-921. 
  
- Resta all'infuori del limite sopra detto l'ammontare delle sovvenzioni da corrispondere a norma dell'[art. 2 della legge 21 luglio 1911, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-21;848#art_2), per la concessione di nuove ferrovie in Sicilia.
+ Resta all'infuori del limite sopra detto l'ammontare delle sovvenzioni da corrispondere a norma dell'[art. 2 della legge 21 luglio 1911, n. 848](Concernente%20laumento%20delle%20sovvenzioni%20chilometriche%20per%20le%20ferrovie%20da%20concedere%20allindustria%20privata.%20011U0848.md), per la concessione di nuove ferrovie in Sicilia.
 
 ## Art. 9.
 

@@ -22,7 +22,7 @@ Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-re
 
 Visto il testo unico delle leggi degli ufficiali ed agenti di pubblica sicurezza 31 agosto 1907, n. 690, ed il relativo [regolamento 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-08-20;666);
 
-Visto il [R. decreto 17 novembre 1932, n. 1595](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-11-17;1595);
+Visto il [R. decreto 17 novembre 1932, n. 1595](Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md);
 
 Vista la [legge 26 gennaio 1942, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39);
 
@@ -70,9 +70,9 @@ risulti che l'aspirante alla data del 16 settembre 1944 trovavasi nella situazio
  Tuttavia i candidati che hanno riportato l'idoneita' non potranno conseguire la nomina se la loro incondizionata idoneita' fisica ai servizi di pubblica sicurezza non venga riconosciuta da una commissione di tre medici in servizio nel Corpo delle guardie di pubblica sicurezza;
  7) copia su carta da bollo da L. 16 dello stato di servizio militare o del foglio matricolare o foglio di congedo illimitato o certificato su carta da bollo da L. 8 di esito di leva, debitamente vidimato, o di iscrizione nelle liste di leva, con la legalizzazione prescritta.
  I candidati ex combattenti presenteranno, oltre alla detta copia dello stato di servizio, o del foglio matricolare, annotata delle benemerenze di guerra, anche la prescritta dichiarazione integrativa dei servizi resi in zona di operazione.
- Gli invalidi di guerra dovranno presentare, inoltre, il certificato modello 69, rilasciato dal Ministero delle finanze (Direzione generale delle pensioni di guerra) ovvero una dichiarazione rilasciata dalla competente rappresentanza provinciale degli invalidi di guerra in cui siano anche indicati i documenti in base ai quali e' stata riconosciuta la loro qualita' di invalido, ai fini della iscrizione nei ruoli provinciali di cui all'[art. 3 della legge 21 agosto 1921, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-21;1312#art_3).
+ Gli invalidi di guerra dovranno presentare, inoltre, il certificato modello 69, rilasciato dal Ministero delle finanze (Direzione generale delle pensioni di guerra) ovvero una dichiarazione rilasciata dalla competente rappresentanza provinciale degli invalidi di guerra in cui siano anche indicati i documenti in base ai quali e' stata riconosciuta la loro qualita' di invalido, ai fini della iscrizione nei ruoli provinciali di cui all'[art. 3 della legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md).
  Gli orfani di guerra ed i figli degli invalidi di guerra dovranno dimostrare la loro qualita' mediante certificato rilasciato dalla competente autorita';
- 8) i partigiani dovranno produrre il documento comprovante il possesso di tale qualifica, rilasciato ai sensi del [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;518).
+ 8) i partigiani dovranno produrre il documento comprovante il possesso di tale qualifica, rilasciato ai sensi del [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md).
  Qualora il documento non sia stato ancora rilasciato dalla commissione prevista dal citato decreto legislativo Luogotenenziale, gli aspiranti allegheranno tutti gli atti idonei a comprovare le accennate qualifiche;
  9) stato di famiglia su carta da bollo da L. 8 da rilasciarsi dal sindaco del comune dove il candidato ha il suo domicilio. Questo documento dovra' essere prodotto dai coniugati con o senza prole e dai vedovi con prole;
  10) diploma di cui al precedente art. 200 copia autentica del diploma stesso debitamente legalizzato e certificato rilasciato dalla competente universita' attestante la votazione conseguita nelle singole materie;
@@ -107,7 +107,7 @@ La graduatoria dei vincitori sara' compilata in base a criteri obiettivi di valu
 ## Art. 9.
 
 La graduatoria dei vincitori del concorso, da pubblicarsi nel Bollettino ufficiale del Ministero dell'interno, sara' fissata secondo l'ordine dei punti riportati da ciascun candidato.
- In casi di parita' di merito saranno osservate le disposizioni del [R. decreto legge 5 luglio 1934, n. 1176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1176), e successive modificazioni in materia.
+ In casi di parita' di merito saranno osservate le disposizioni del [R. decreto legge 5 luglio 1934, n. 1176](Graduatoria%20dei%20titoli%20di%20preferenza%20per%20le%20ammissioni%20ai%20pubblici%20impieghi.%20034U1176.md), e successive modificazioni in materia.
  Tuttavia fino alla concorrenza della meta' dei posti, questi debbono essere riservati ai combattenti, ai reduci, ai partigiani e a tutti coloro che ne hanno titolo ai sensi delle vigenti disposizioni.
 
 ## Art. 10.

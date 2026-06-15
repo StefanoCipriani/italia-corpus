@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 8 luglio 1937, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-08;1376);
+Visto il [regio decreto-legge 8 luglio 1937, n. 1376](Costituzione%20dellEnte%20morale%20Ente%20Cooperativo%20Italiano%20Lavorazione%20Vinacce%20E.C.I.L.V.%20con%20sede%20in%20Modena.%20037U1376.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-L'Ente cooperativo industria lavorazione vinacce, con sede in Modena, costituito con [regio decreto-legge 8 luglio 1937, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-08;1376), e' restituito, nei termini e con le modalita' degli articoli seguenti, alla originaria forma di societa' cooperativa a responsabilita' illimitata per quote, con le finalita' e la denominazione risultanti dall'atto costitutivo 21 giugno 1928 e successive modifiche.
+L'Ente cooperativo industria lavorazione vinacce, con sede in Modena, costituito con [regio decreto-legge 8 luglio 1937, n. 1376](Costituzione%20dellEnte%20morale%20Ente%20Cooperativo%20Italiano%20Lavorazione%20Vinacce%20E.C.I.L.V.%20con%20sede%20in%20Modena.%20037U1376.md), e' restituito, nei termini e con le modalita' degli articoli seguenti, alla originaria forma di societa' cooperativa a responsabilita' illimitata per quote, con le finalita' e la denominazione risultanti dall'atto costitutivo 21 giugno 1928 e successive modifiche.
 
 ## Art. 2.
 
@@ -44,7 +44,7 @@ Espletate le formalita' per la legalizzazione della nomina, degli amministratori
 
 ## Art. 5.
 
-A decorrere dal giorno dell'effettuata consegna del patrimonio dell'ente alla societa' cooperativa, cessano di aver vigore le disposizioni contenute nel [regio decreto-legge 8 luglio 1937, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-08;1376), nonche' quelle statutarie approvate con decreto Ministeriale 30 agosto 1937.
+A decorrere dal giorno dell'effettuata consegna del patrimonio dell'ente alla societa' cooperativa, cessano di aver vigore le disposizioni contenute nel [regio decreto-legge 8 luglio 1937, n. 1376](Costituzione%20dellEnte%20morale%20Ente%20Cooperativo%20Italiano%20Lavorazione%20Vinacce%20E.C.I.L.V.%20con%20sede%20in%20Modena.%20037U1376.md), nonche' quelle statutarie approvate con decreto Ministeriale 30 agosto 1937.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

@@ -30,7 +30,7 @@ Il premio di navigazione di cui al [R. decreto-legge 21 dicembre 1931, n. 1573](
 
 ## Art. 2.
 
-Il premio e' concesso per le navi mercantili nazionali abilitate esclusivamente al trasporto di merci, giusta l'art. 7 del regolamento per la sicurezza delle navi mercantili e della vita umana in mare, approvato con [R. decreto 23 maggio 1932, n. 719](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-23;719). 
+Il premio e' concesso per le navi mercantili nazionali abilitate esclusivamente al trasporto di merci, giusta l'art. 7 del regolamento per la sicurezza delle navi mercantili e della vita umana in mare, approvato con [R. decreto 23 maggio 1932, n. 719](Approvazione%20del%20regolamento%20per%20la%20sicurezza%20delle%20navi%20mercantili%20e%20della%20vita%20umana%20in%20mare.%20032U0719.md). 
  
  Agli effetti del presente decreto non sono considerati passeggeri, oltre gli individui menzionati al n. 4 del succitato art. 7, anche quelle persone che l'armatore avesse dovuto imbarcare per invito di autorita' governative del Regno o delle Colonie, ovvero delle Regie rappresentanze all'estero od anche di autorita' estere, sempre che il trasporto, a giudizio insindacabile del Ministro per le comunicazioni, risulti effettuato senza lucro per l'armatore.
 

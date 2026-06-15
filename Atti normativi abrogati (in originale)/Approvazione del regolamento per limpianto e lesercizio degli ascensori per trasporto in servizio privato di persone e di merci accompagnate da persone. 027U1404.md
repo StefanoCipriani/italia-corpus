@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto-legge 26 novembre 1925, n. 2341](Autorizzazione%20ad%20emanare%20norme%20per%20limpianto%20e%20lesercizio%20degli%20ascensori.%20025U2341.md), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898); 
+ Visto il [R. decreto-legge 26 novembre 1925, n. 2341](Autorizzazione%20ad%20emanare%20norme%20per%20limpianto%20e%20lesercizio%20degli%20ascensori.%20025U2341.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md); 
  
  Visti gli [articoli 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_59) e [225 del testo unico delle leggi sulla pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_225), approvato con Nostro decreto 6 novembre 1926, n. 1848; 
  

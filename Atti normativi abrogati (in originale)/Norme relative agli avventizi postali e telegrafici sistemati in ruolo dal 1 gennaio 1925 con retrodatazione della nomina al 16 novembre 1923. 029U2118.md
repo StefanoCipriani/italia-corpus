@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Visto l'[art. 134 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
  
- Visto il [R. decreto-legge 23 ottobre 1924, n. 2028](Sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nell%20Amministrazione%20postale%20telegrafica.%20024U2028.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597); 
+ Visto il [R. decreto-legge 23 ottobre 1924, n. 2028](Sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nell%20Amministrazione%20postale%20telegrafica.%20024U2028.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md); 
  
  Considerata l'opportunita' di determinare espressamente che le sistemazioni di avventizi avvenute ai sensi dell'[art. 134 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), posteriormente all'applicazione del [R. decreto-legge 23 ottobre 1924, n. 2028](Sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nell%20Amministrazione%20postale%20telegrafica.%20024U2028.md), non valgono ad ammettere agli esami ed agli scrutini previsti dallo stesso [R. decreto-legge 23 ottobre 1924, n. 2028](Sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nell%20Amministrazione%20postale%20telegrafica.%20024U2028.md), per i passaggi di categorie; 
  

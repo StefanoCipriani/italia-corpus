@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 dicembre 1927, n. 2618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-29;2618), concernente l'ammissione di nuove merci al beneficio della importazione temporanea. 
+ E' convertito in legge il [R. decreto-legge 29 dicembre 1927, n. 2618](Ammissione%20di%20nuove%20merci%20al%20beneficio%20della%20importazione%20temporanea.%20027U2618.md), concernente l'ammissione di nuove merci al beneficio della importazione temporanea. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

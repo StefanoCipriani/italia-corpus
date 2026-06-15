@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [testo unico 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1938-04-28;1165), sull'edilizia popolare ed economica;
 
-Vista la [legge 5 dicembre 1941, n. 1540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-05;1540), recante modificazioni al citato testo unico 28 aprile 1938, u. 1165;
+Vista la [legge 5 dicembre 1941, n. 1540](Modificazioni%20degli%20articoli%2027%20106%20297%20369%20373%20e%20376%20del%20testo%20unico%20sulledilizia%20popolare%20ed%20economica%2028%20aprile%201938-XVI%20n.%201165.%20041U1540.md), recante modificazioni al citato testo unico 28 aprile 1938, u. 1165;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1941, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1941-06-25;151);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per i lavori pubblici, di concerto con i Ministri pe
 
 ## Art. 1.
 
-L'[art. 376 del testo unico 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1938-04-28;1165#art_376), sull'edilizia popolare ed economica modificato dall'[articolo 6 della legge 5 dicembre 1941, n. 1540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-05;1540#art_6), e' sostituito dal seguente: 
+L'[art. 376 del testo unico 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1938-04-28;1165#art_376), sull'edilizia popolare ed economica modificato dall'[articolo 6 della legge 5 dicembre 1941, n. 1540](Modificazioni%20degli%20articoli%2027%20106%20297%20369%20373%20e%20376%20del%20testo%20unico%20sulledilizia%20popolare%20ed%20economica%2028%20aprile%201938-XVI%20n.%201165.%20041U1540.md), e' sostituito dal seguente: 
  
  « Possono essere assegnati in affitto alloggi nelle case dell'Istituto, salvo la particolare destinazione di quelli previsti dall'art. 343 (comma 2°) e dall'art. 364 (ultimo comma): 
  
@@ -53,7 +53,7 @@ L'[art. 376 del testo unico 28 aprile 1938, n. 1165](https://www.normattiva.it/u
 
 ## Art. 2.
 
-Sono abrogati gli [articoli 27 del R. decreto-legge 21 agosto 1937, n. 1542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-08-21;1542#art_27), e 3, della [legge 1° febbraio 1940, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-02-01;78). 
+Sono abrogati gli [articoli 27 del R. decreto-legge 21 agosto 1937, n. 1542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-08-21;1542#art_27), e 3, della [legge 1° febbraio 1940, n. 78](Autorizzazione%20allIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato%20a%20contrarre%20mutui%20per%20100%20milioni%20ed%20altri%20provvedimenti.%20040U0078.md). 
  
  A parziale modifica di quanto stabilito negli articoli 312, 334 e 378 del testo unico approvato con [R. decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), nella concessione degli alloggi dell'Istituto nazionale per le case degli impiegati dello Stato, delle casse economiche dell'Amministrazione delle ferrovie dello Stato e di quelle dell'Amministrazione delle poste e dei telegrafi deve darsi di regola la preferenza agli impiegati forniti di minore stipendio e che abbiano famiglia piu' numerosa, salvi i casi speciali segnalati dalle Amministrazioni dello Stato per esigenze di servizio. 
  
@@ -61,7 +61,7 @@ Sono abrogati gli [articoli 27 del R. decreto-legge 21 agosto 1937, n. 1542](htt
 
 ## Art. 3.
 
-Il presidente dell'Istituto nazionale per le case degli impiegati dello Stato, entro sei mesi dall'entrata in vigore del presente decreto, ordinera' la revoca delle assegnazioni degli alloggi effettuata in contravvenzione al disposto dell'[art. 376 del testo unico 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1938-04-28;1165#art_376), sull'edilizia popolare ed economica, nonche' alle norme dello statuto del cessato Istituto romano cooperativo approvato con [R. decreto 20 maggio 1928, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-20;1284). 
+Il presidente dell'Istituto nazionale per le case degli impiegati dello Stato, entro sei mesi dall'entrata in vigore del presente decreto, ordinera' la revoca delle assegnazioni degli alloggi effettuata in contravvenzione al disposto dell'[art. 376 del testo unico 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1938-04-28;1165#art_376), sull'edilizia popolare ed economica, nonche' alle norme dello statuto del cessato Istituto romano cooperativo approvato con [R. decreto 20 maggio 1928, n. 1284](Cambiamento%20di%20denominazione%20dellIstituto%20cooperativo%20per%20le%20case%20degli%20impiegati%20dello%20Stato%20in%20Roma%20in%20Istituto%20romano%20cooperativo%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20028U1284.md). 
  
  Analogamente i presidenti degli Istituti autonomi per le case popolari provvederanno nello stesso termine di sei mesi a revocare le assegnazioni degli alloggi, rispettivamente in gestione, che risultino fatte a persone le quali all'atto dell'assegnazione non si trovavano nelle condizioni prescritte dall'art. 31 del citato [testo unico 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1938-04-28;1165), e dai regolamenti degli Istituti medesimi.
 

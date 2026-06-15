@@ -23,11 +23,11 @@ I funzionari o impiegati dello Stato richiamati alle armi, che siano invece prov
 ## Art. 3.
 
 Ai funzionari od impiegati indicati nell'art. 2 sono dovute tutte le indennita' fisse ed eventuali stabilite per gli ufficiali e sottufficiali dello stesso grado, arma ed anzianita' in servizio attivo permanente, quando si trovino nelle condizioni prescritte dalle norme che regolano tali indennita', salvo quanto e' disposto dall'articolo 11 per le indennita' di servizio speciale e di carica.
-Sono inoltre dovute - quando si trovino nelle condizioni volute - le indennita' giornaliere stabilite pel R. esercito dal [R. decreto 3 gennaio 1915, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-03;2), prorogato fino al 31 dicembre 1915 colla [legge 1° aprile 1915, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;425), e dai RR. decreti 15 aprile 1915, n. 471, e 22 aprile 1915, n. 500, e per la R. marina dal Greto 26 novembre 1914, n. 1311.
+Sono inoltre dovute - quando si trovino nelle condizioni volute - le indennita' giornaliere stabilite pel R. esercito dal [R. decreto 3 gennaio 1915, n. 2](Da%20convertirsi%20in%20legge%20col%20quale%20e%20concessa%20una%20indennita%20giornaliera%20ad%20alcune%20categorie%20di%20ufficiali%20richiamati%20dal%20congedo.%20015U0002.md), prorogato fino al 31 dicembre 1915 colla [legge 1° aprile 1915, n. 425](Che%20converte%20in%20legge%20il%20R.%20decreto%2024%20gennaio%201915%20n.%2042%20che%20autorizza%20le%20Amministrazioni%20della%20guerra%20e%20della%20marina%20a%20derogare%20temporaneamente%20a%20norme%20della%20legge%20di%20contabilita%20genera_68084f6e66e9.md), e dai RR. decreti 15 aprile 1915, n. 471, e 22 aprile 1915, n. 500, e per la R. marina dal Greto 26 novembre 1914, n. 1311.
 
 ## Art. 4.
 
-Trattamento analogo a quello previsto negli articoli precedenti per i funzionari od impiegati dello Stato richiamati alle armi, sara' fatto al personale di ruolo delle ferrovie dello Stato, ai capi cantonieri e cantonieri addetti alla manutenzione delle strade nazionali, e agli insegnanti delle scuole primarie, la cui amministrazione e' affidata al Consiglio scolastico provinciale ai sensi della [legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487).
+Trattamento analogo a quello previsto negli articoli precedenti per i funzionari od impiegati dello Stato richiamati alle armi, sara' fatto al personale di ruolo delle ferrovie dello Stato, ai capi cantonieri e cantonieri addetti alla manutenzione delle strade nazionali, e agli insegnanti delle scuole primarie, la cui amministrazione e' affidata al Consiglio scolastico provinciale ai sensi della [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md).
 
 ## Art. 5.
 
@@ -47,7 +47,7 @@ I pensionati militari richiamati in servizio e che non rivestano il grado di uff
 
 ## Art. 8.
 
-Le disposizioni del precedente articolo non si applicano ai pensionati che si arruolino volontariamente, pei quali resta fermo quanto prescrive, pel cumulo di pensione e stipendio, la [legge 19 luglio 1862, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-07-19;722). Nulla pero' e' innovato a quanto e' disposto col [R. decreto 9 maggio 1915, n. 658](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-09;658), circa l'arruolamento volontario dei sottufficiali a riposo del corpo R. equipaggi.
+Le disposizioni del precedente articolo non si applicano ai pensionati che si arruolino volontariamente, pei quali resta fermo quanto prescrive, pel cumulo di pensione e stipendio, la [legge 19 luglio 1862, n. 722](Che%20vieta%20il%20cumulo%20degli%20impieghi%20retribuiti%20delle%20pensioni%20ed%20altri%20assegnamenti%20a%20carico%20dello%20Stato%20o%20di%20pubbliche%20Amministrazioni.%20062U0722.md). Nulla pero' e' innovato a quanto e' disposto col [R. decreto 9 maggio 1915, n. 658](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-09;658), circa l'arruolamento volontario dei sottufficiali a riposo del corpo R. equipaggi.
 
 ## Art. 9.
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il limite di spesa di cui all'ultimo comma dell'[articolo 3 del decreto del Presidente della Repubblica 5 giugno 1965, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-05;749#art_3), e' aumentato, per quanto riguarda la Amministrazione autonoma dei monopoli di Stato, di lire 42.000.000.
+Il limite di spesa di cui all'ultimo comma dell'[articolo 3 del decreto del Presidente della Repubblica 5 giugno 1965, n. 749](../DPR/Conglobamento%20dellassegno%20mensile%20e%20competenze%20analoghe%20negli%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20statale%20in%20applicazione%20dellart.%203%20della%20legge%205%20dicembre%201964%20n.%201268.md), e' aumentato, per quanto riguarda la Amministrazione autonoma dei monopoli di Stato, di lire 42.000.000.
 
 ## Art. 2.
 

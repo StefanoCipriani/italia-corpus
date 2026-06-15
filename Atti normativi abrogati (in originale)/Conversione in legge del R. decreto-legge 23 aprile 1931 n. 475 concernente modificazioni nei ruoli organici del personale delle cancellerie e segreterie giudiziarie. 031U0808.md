@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 aprile 1931, n. 475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-23;475), concernente modificazioni nei ruoli organici del personale delle cancellerie e segreterie giudiziarie. 
+ E' convertito in legge il [R. decreto-legge 23 aprile 1931, n. 475](Modificazioni%20nei%20ruoli%20organici%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20031U0475.md), concernente modificazioni nei ruoli organici del personale delle cancellerie e segreterie giudiziarie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

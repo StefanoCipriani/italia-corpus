@@ -24,9 +24,9 @@ Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [R. decreto 31 dicembre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2523);
 
-Visto il [R. decreto 31 dicembre 1923, n. 3123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3123);
+Visto il [R. decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md);
 
-Visto il [R. decreto 21 maggio 1924, n. 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-21;1200);
+Visto il [R. decreto 21 maggio 1924, n. 1200](Passaggio%20di%20scuole%20per%20industrie%20artistiche%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20della%20pubblica%20istruzione.%20024U1200.md);
 
 Visto il [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 

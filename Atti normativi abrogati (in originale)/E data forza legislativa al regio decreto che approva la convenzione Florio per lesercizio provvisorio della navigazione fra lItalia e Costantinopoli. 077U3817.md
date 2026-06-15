@@ -22,7 +22,7 @@ VITTORIO EMANUELE II
  
  Articolo unico. 
  
- E' data forza di legge al [Regio decreto del 12 novembre 1876, n. 3490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-11-12;3490) (Serie 2ª), col quale fu approvata la Convenzione stipulata il di' 11 detto tra i Ministri dei Lavori Pubblici e delle Finanze col comm. Ignazio Florio per l'esercizio provvisorio della navigazione tra l'Italia e Costantinopoli. 
+ E' data forza di legge al [Regio decreto del 12 novembre 1876, n. 3490](Che%20approva%20la%20convenzione%20stipulata%20col%20commendatore%20Ignazio%20Florio%20per%20lesecuzione%20provvisoria%20di%20alcuni%20servizi%20postali%20marittimi%20gia%20tenuti%20dalla%20Trinacria.%20076U3490.md) (Serie 2ª), col quale fu approvata la Convenzione stipulata il di' 11 detto tra i Ministri dei Lavori Pubblici e delle Finanze col comm. Ignazio Florio per l'esercizio provvisorio della navigazione tra l'Italia e Costantinopoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 aprile 1927, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-14;618), contenente norme per l'ordinamento ed il funzionamento dei Consigli di disciplina per gli ufficiali della Regia guardia di finanza. 
+ E' convertito in legge il [R. decreto-legge 14 aprile 1927, n. 618](Norme%20per%20lordinamento%20ed%20il%20funzionamento%20dei%20Consigli%20di%20disciplina%20per%20gli%20ufficiali%20della%20Regia%20guardia%20di%20finanza.%20027U0618.md), contenente norme per l'ordinamento ed il funzionamento dei Consigli di disciplina per gli ufficiali della Regia guardia di finanza. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

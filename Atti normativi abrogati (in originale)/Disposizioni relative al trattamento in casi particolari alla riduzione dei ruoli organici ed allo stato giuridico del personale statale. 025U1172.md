@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395) sull'ordinamento gerarchico delle Amministrazioni dello Stato e successive estensioni e modificazioni;
+Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) sull'ordinamento gerarchico delle Amministrazioni dello Stato e successive estensioni e modificazioni;
 
 Veduto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
@@ -28,11 +28,11 @@ Il personale estraneo all'Amministrazione dello Stato, assunto all'impiego in gr
  
  Durante tale periodo spetta soltanto un assegno mensile da determinarsi da ciascuna Amministrazione, in misura non eccedente il dodicesimo dello stipendio iniziale del grado al quale il personale viene assunto, escluso il supplemento di servizio attivo. 
  
- Sono applicabili, al personale di cui al presente articolo, le disposizioni dei [commi quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_17-com4), [quinto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_17-com5) e [sesto dell'art. 17 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_17-com6).
+ Sono applicabili, al personale di cui al presente articolo, le disposizioni dei [commi quarto](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [quinto](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [sesto dell'art. 17 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 2.
 
-Il termine utile per la revisione delle indennita' al personale dell'Amministrazione dello Stato, aventi carattere di rimborso di spese, di cui al [terzo comma dell'art. 189 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_189-com3), e' prorogato al 31 dicembre 1925. 
+Il termine utile per la revisione delle indennita' al personale dell'Amministrazione dello Stato, aventi carattere di rimborso di spese, di cui al [terzo comma dell'art. 189 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' prorogato al 31 dicembre 1925. 
  
  Le indennita' che entro tale termine, non saranno confermate o diversamente regolate mediante decreti dei singoli Ministri, di concerto col Ministro per le finanze, s'intendono abolite, con effetto dal 1° aprile 1924. 
  
@@ -40,27 +40,27 @@ Il termine utile per la revisione delle indennita' al personale dell'Amministraz
 
 ## Art. 3.
 
-Alla Commissione di cui all'[art. 208 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_208), sull'ordinamento gerarchico delle Amministrazioni dello Stato, compete il giudizio su tutte le controversie che riguardino attribuzione di gradi, promozioni, assegnazioni di stipendi e valutazioni, di anzianita' alla prima attuazione delle disposizioni del decreto stesso e relative modificazioni, comprese quelle del presente decreto, nonche' sulle controversie relative a provvedimenti successivi, che si riferiscano ad assegnazioni di stipendi e' valutazioni di anzianita'. 
+Alla Commissione di cui all'[art. 208 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, compete il giudizio su tutte le controversie che riguardino attribuzione di gradi, promozioni, assegnazioni di stipendi e valutazioni, di anzianita' alla prima attuazione delle disposizioni del decreto stesso e relative modificazioni, comprese quelle del presente decreto, nonche' sulle controversie relative a provvedimenti successivi, che si riferiscano ad assegnazioni di stipendi e' valutazioni di anzianita'. 
  
  Rimane ferma la competenza della Commissione di cui sopra anche quando ricorra nei provvedimenti impugnati, insieme coll'applicazione delle disposizioni anzidette, quella di norme contenute nel [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), o di altre, generali o speciali, relative ai personali dipendenti dall'Amministrazione dello Stato. 
  
- E' devoluta alla Commissione predetta, restando abrogata ogni disposizione contraria, anche la risoluzione delle controversie derivanti dall'estensione dell'ordinamento gerarchico al personale di ruolo delle nuove Provincie proveniente dai cessati regimi, fermo il disposto dell'[art. 25 del R. decreto 18 febbraio 1923, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-18;440#art_25), per quanto riguarda i ricorsi relativi alla prima applicazione del [R. decreto 30 ottobre 1924, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-30;1842). 
+ E' devoluta alla Commissione predetta, restando abrogata ogni disposizione contraria, anche la risoluzione delle controversie derivanti dall'estensione dell'ordinamento gerarchico al personale di ruolo delle nuove Provincie proveniente dai cessati regimi, fermo il disposto dell'[art. 25 del R. decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), per quanto riguarda i ricorsi relativi alla prima applicazione del [R. decreto 30 ottobre 1924, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-30;1842). 
  
  I ricorsi alla Commissione debbono essere notificati, entro il termine utile per la loro presentazione, a tutti coloro che abbiano nel provvedimento impugnato un interesse diretto. 
  
- Per ciascuno dei quattro membri effettivi della Commissione verra', nel modo indicato all'art. 208 del citato [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e nelle rispettive categorie, nominato un membro supplente. 
+ Per ciascuno dei quattro membri effettivi della Commissione verra', nel modo indicato all'art. 208 del citato [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e nelle rispettive categorie, nominato un membro supplente. 
  
  Possono anche essere designati rappresentanti supplenti delle Amministrazioni interessate per l'intervento alle adunanze della Commissione, ai sensi del secondo comma dell'articolo predetto, da scegliersi tra i funzionari e gli ufficiali di grado non inferiore al settimo.
 
 ## Art. 4.
 
-A decorrere dall'esercizio finanziario 1927-28 sara' provveduto alla riduzione dei posti nei ruoli del personale risultanti dagli allegati II e IV al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e successive modificazioni, fatta eccezione per i ruoli dei personali indicati all'art. 14 del citato [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), in relazione all'ulteriore riordinamento dei servizi, alla riorganizzazione tecnica degli uffici, all'adozione di piu' spediti metodi di lavoro e alla cessazione delle gestioni straordinarie e di stralcio dipendenti dalla guerra. 
+A decorrere dall'esercizio finanziario 1927-28 sara' provveduto alla riduzione dei posti nei ruoli del personale risultanti dagli allegati II e IV al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, fatta eccezione per i ruoli dei personali indicati all'art. 14 del citato [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), in relazione all'ulteriore riordinamento dei servizi, alla riorganizzazione tecnica degli uffici, all'adozione di piu' spediti metodi di lavoro e alla cessazione delle gestioni straordinarie e di stralcio dipendenti dalla guerra. 
  
  La riduzione sara' effettuata, gradualmente in ogni esercizio, in modo da raggiungere, entro un quinquennio, a partire dall'anno finanziario sopra indicato, la diminuzione globale del dieci per cento. 
  
- L'[art. 211 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_211) e' abrogato. 
+ L'[art. 211 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e' abrogato. 
  
- Rimane ferma la disposizione del [primo comma dell'articolo 117 del R. decreto 30 dicembre 1923, n. 3084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3084#art_117-com1), nei riguardi dei ruoli ai quali si applica il presente articolo.
+ Rimane ferma la disposizione del [primo comma dell'articolo 117 del R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), nei riguardi dei ruoli ai quali si applica il presente articolo.
 
 ## Art. 5.
 

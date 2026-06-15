@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-In forza dei poteri conferiti al Governo del Re dalla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In forza dei poteri conferiti al Governo del Re dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Vista la [legge 17 luglio 1910, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491), concernente provvedimenti per estendere il bonificamento e la colonizzazione dell'Agro romano;
+Vista la [legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md), concernente provvedimenti per estendere il bonificamento e la colonizzazione dell'Agro romano;
 
 Udito il Consiglio dei ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-In ciascuna delle localita' denominate «San Cesareo, Colle Di Fuori e Mezzaselva», situate rispettivamente nei territori dei comuni di Zagarolo, Rocca Priora e Palestrina, e' istituita una borgata rurale, ai sensi e con le norme della [legge 17 luglio 1910, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491), sull'estensione della colonizzazione e bonificamento dell'Agro romano, e del relativo [regolamento 22 gennaio 1911, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-01-22;248).
+In ciascuna delle localita' denominate «San Cesareo, Colle Di Fuori e Mezzaselva», situate rispettivamente nei territori dei comuni di Zagarolo, Rocca Priora e Palestrina, e' istituita una borgata rurale, ai sensi e con le norme della [legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md), sull'estensione della colonizzazione e bonificamento dell'Agro romano, e del relativo [regolamento 22 gennaio 1911, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-01-22;248).
 
 ## Art. 2.
 
@@ -44,9 +44,9 @@ Le borgate di cui all'art. 1 e le opere accessorie dovranno essere compiute in u
 
 ## Art. 4.
 
-I mutui di favore di cui all'art. 5 della citata [legge 17 luglio 1910, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491), comprende anche il prezzo del terreno e di tutte le altre opere indispensabili ad assicurare alle borgate acqua potabile, sufficienti comunicazioni stradali, e ad assicurare i pubblici servizi. 
+I mutui di favore di cui all'art. 5 della citata [legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md), comprende anche il prezzo del terreno e di tutte le altre opere indispensabili ad assicurare alle borgate acqua potabile, sufficienti comunicazioni stradali, e ad assicurare i pubblici servizi. 
  
- Per la concessione dei mutui, il Ministero di agricoltura e' autorizzato a valersi delle disponibilita' tuttora esistenti sui fondi concessi con la citata [legge 17 luglio 1910, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491).
+ Per la concessione dei mutui, il Ministero di agricoltura e' autorizzato a valersi delle disponibilita' tuttora esistenti sui fondi concessi con la citata [legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md).
 
 ## Art. 5.
 

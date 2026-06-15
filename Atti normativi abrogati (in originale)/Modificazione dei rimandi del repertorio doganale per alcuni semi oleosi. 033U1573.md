@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 27 novembre 1924, n. 2146](Approvazione%20del%20repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20024U2146.md), convertito in legge con la [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597); che approva il repertorio per l'applicazione della tariffa generale dei dazi doganali, e successive modificazioni;
+Visto il [R. decreto-legge 27 novembre 1924, n. 2146](Approvazione%20del%20repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20024U2146.md), convertito in legge con la [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md); che approva il repertorio per l'applicazione della tariffa generale dei dazi doganali, e successive modificazioni;
 
 Visto il [R. decreto-legge 27 novembre 1933, n. 1572](Modificazioni%20al%20regime%20doganale%20dei%20semi%20oleosi.%20033U1572.md), che modifica il regime doganale dei semi oleosi;
 

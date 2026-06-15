@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 aprile 1932, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-04-14;379), che ha dato approvazione all'Accordo italo-turco relativo alla delimitazione delle acque territoriali tra l'isola di Castelrosso e le coste dell'Anatolia, concluso ad Ankara il 4 gennaio 1932. 
+ E' convertito in legge il [R. decreto-legge 14 aprile 1932, n. 379](Esecuzione%20dellAccordo%20italo-turco%20relativo%20alla%20delimitazione%20delle%20acque%20territoriali%20tra%20lIsola%20di%20Castelrosso%20e%20le%20Coste%20dAnatolia%20concluso%20ad%20Ankara%20il%204%20gennaio%201932.%20032U0379.md), che ha dato approvazione all'Accordo italo-turco relativo alla delimitazione delle acque territoriali tra l'isola di Castelrosso e le coste dell'Anatolia, concluso ad Ankara il 4 gennaio 1932. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 3 giugno 1932 - Anno X 
  

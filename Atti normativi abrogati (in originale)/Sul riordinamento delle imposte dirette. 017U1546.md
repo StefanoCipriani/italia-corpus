@@ -24,7 +24,7 @@ A decorrere dal 1° gennaio 1918 e fino al termine dell'anno nel quale sara' con
  
  Tali aliquote sono comprensive dei decimi di guerra di cui alle [leggi 21 gennaio 1897, n. 23 e 16 dicembre 1914, n. 1351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1351), nonche' dei centesimi addizionali di cui al [decreto legislativo 15 ottobre 1914, n. 1128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1914-10-15;1128). 
  
- In deroga a quanto e' stabilito dal presente articolo, i terreni appartenenti a corpi morali soggetti alla tassa di manomorta continueranno a pagare l'imposta sulla base della aliquota dell'8% aumentata di due decimi e di cinque centesimi addizionali, salvo il disposto del secondo comma dell'art. 1 del decreto 15 ottobre 1914, n. 1128, e del [secondo comma del n. 1 della legge 16 dicembre 1914, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1354#art_com2-num1).
+ In deroga a quanto e' stabilito dal presente articolo, i terreni appartenenti a corpi morali soggetti alla tassa di manomorta continueranno a pagare l'imposta sulla base della aliquota dell'8% aumentata di due decimi e di cinque centesimi addizionali, salvo il disposto del secondo comma dell'art. 1 del decreto 15 ottobre 1914, n. 1128, e del [secondo comma del n. 1 della legge 16 dicembre 1914, n. 1354](Per%20la%20proroga%20dellesercizio%20provvisorio%20dei%20bilanci%20e%20provvedimenti%20finanziari.%20014U1354.md).
 
 ## Art. 2.
 
@@ -34,9 +34,9 @@ Nei compartimenti ove vigono tuttora i vecchi catasti, i contingenti fissati per
  
  Le disposizioni dell'[art. 1, primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383#art_1-com1) e [secondo comma, della legge 15 luglio 1906, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383#art_1-com2), non si applicano agli aumenti dell'imposta sui fondi rustici portati dal [decreto legislativo 15 ottobre 1914, n. 1128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1914-10-15;1128), dalla [legge 10 dicembre 1914, n. 1354, dall'art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-10;1354#art_2) dell'allegato F al decreto 9 novembre 1916, n. 1525, e dal presente decreto. 
  
- Per i Comuni della Provincia di Basilicata indicati nell'[art. 66 della legge 31 marzo 1904, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;140#art_66), le agevolazioni tributarie e la quota d'imposta spettante alla Cassa provinciale di Credito agrario giusta l'articolo medesimo saranno commisurate sulla imposta dell'anno 1914. 
+ Per i Comuni della Provincia di Basilicata indicati nell'[art. 66 della legge 31 marzo 1904, n. 140](Che%20emana%20provvedimenti%20a%20favore%20della%20provincia%20di%20Basilicata.%20004U0140.md), le agevolazioni tributarie e la quota d'imposta spettante alla Cassa provinciale di Credito agrario giusta l'articolo medesimo saranno commisurate sulla imposta dell'anno 1914. 
  
- Del pari il rimborso dell'imposta sui fondi rustici dovuto annualmente al Consorzio obbligatorio per l'industria solfifera siciliana a termini dell'[art. 17 della legge 15 luglio 1906, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;333#art_17), sara' liquidato con l'aliquota d'imposta erariale principale applicata nell'anno 1914.
+ Del pari il rimborso dell'imposta sui fondi rustici dovuto annualmente al Consorzio obbligatorio per l'industria solfifera siciliana a termini dell'[art. 17 della legge 15 luglio 1906, n. 333](Istituzione%20di%20un%20Consorzio%20e%20altri%20provvedimenti%20per%20lindustria%20solfifera%20siciliana.%20006U0333.md), sara' liquidato con l'aliquota d'imposta erariale principale applicata nell'anno 1914.
 
 ## Art. 3.
 
@@ -50,11 +50,11 @@ A decorrere dal 1° gennaio 1918 e fino al termine dell'anno nel quale sara' sta
  
  22% per tutte le altre quote d'imposta. 
  
- Tali aliquote sono comprensive dei decimi di guerra portati dalle [leggi 28 maggio 1867, n. 3719, 26 luglio 1868, n. 4513, 16 dicembre 1914, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1354), e dei centesimi addizionali di cui al [decreto legislativo 15 ottobre 1914, n. 1128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1914-10-15;1128).
+ Tali aliquote sono comprensive dei decimi di guerra portati dalle [leggi 28 maggio 1867, n. 3719, 26 luglio 1868, n. 4513, 16 dicembre 1914, n. 1354](Per%20la%20proroga%20dellesercizio%20provvisorio%20dei%20bilanci%20e%20provvedimenti%20finanziari.%20014U1354.md), e dei centesimi addizionali di cui al [decreto legislativo 15 ottobre 1914, n. 1128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1914-10-15;1128).
 
 ## Art. 4.
 
-In deroga di quanto e' stabilito dal precedente articolo i fabbricati appartenenti ad istituzioni pubbliche di beneficenza, e quelli non produttivi di reddito locatizio appartenenti a Comuni ed a Provincie, continueranno a pagare l'imposta sulla base della aliquota del 12,50% aumentata di quattro decimi e di cinque centesimi addizionali, salvo il disposto dal secondo comma dell'art. 1 del decreto 15 ottobre 1914, n. 1128, e del [secondo comma del n. 1 della legge 16 dicembre 1914, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1354#art_com2-num1).
+In deroga di quanto e' stabilito dal precedente articolo i fabbricati appartenenti ad istituzioni pubbliche di beneficenza, e quelli non produttivi di reddito locatizio appartenenti a Comuni ed a Provincie, continueranno a pagare l'imposta sulla base della aliquota del 12,50% aumentata di quattro decimi e di cinque centesimi addizionali, salvo il disposto dal secondo comma dell'art. 1 del decreto 15 ottobre 1914, n. 1128, e del [secondo comma del n. 1 della legge 16 dicembre 1914, n. 1354](Per%20la%20proroga%20dellesercizio%20provvisorio%20dei%20bilanci%20e%20provvedimenti%20finanziari.%20014U1354.md).
 
 ## Art. 5.
 
@@ -84,7 +84,7 @@ A decorrere dal 1° gennaio 1918 e fino al termine dell'anno nel quale sara' con
  
  8,65% per i redditi di categoria D superiori a L. 2000. 
  
- Le aliquote determinate nel presente articolo sono comprensive dei centesimi addizionali di cui al decreto 15 ottobre 1914, n. 1128, e del decimo di cui alla [legge 16 dicembre 1914, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1354).
+ Le aliquote determinate nel presente articolo sono comprensive dei centesimi addizionali di cui al decreto 15 ottobre 1914, n. 1128, e del decimo di cui alla [legge 16 dicembre 1914, n. 1354](Per%20la%20proroga%20dellesercizio%20provvisorio%20dei%20bilanci%20e%20provvedimenti%20finanziari.%20014U1354.md).
 
 ## Art. 7.
 
@@ -92,7 +92,7 @@ Sono esenti da imposta in categoria B i redditi netti fino a L 533,33, in catego
 
 800.
 
-Le detrazioni portate dalla [legge 22 luglio 1894, numero 339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339), verranno fatte sui redditi netti, e cioe' nelle seguenti misure: 
+Le detrazioni portate dalla [legge 22 luglio 1894, numero 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md), verranno fatte sui redditi netti, e cioe' nelle seguenti misure: 
  
  in categoria B: 
  

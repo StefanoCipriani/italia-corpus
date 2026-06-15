@@ -10,29 +10,29 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 9 maggio 1940, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;370), sull'avanzamento degli ufficiali dell'Esercito, e successive modificazioni;
+Vista la [legge 9 maggio 1940, n. 370](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0370.md), sull'avanzamento degli ufficiali dell'Esercito, e successive modificazioni;
 
-Visto il testo unico delle leggi sullo stato dei sottufficiali dell'Esercito, approvato con [regio decreto 15 settembre 1932, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-15;1514), e successive modificazioni;
+Visto il testo unico delle leggi sullo stato dei sottufficiali dell'Esercito, approvato con [regio decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e successive modificazioni;
 
-Visto il testo unico delle disposizioni legislative riguardanti l'avanzamento degli ufficiali dei Corpi militari della marina, approvato con il [regio decreto 1° agosto 1936, n. 1493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-08-01;1493), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative riguardanti l'avanzamento degli ufficiali dei Corpi militari della marina, approvato con il [regio decreto 1° agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni;
 
-Visto il testo unico delle disposizioni riguardanti gli ufficiali di complemento della Marina, approvato con [regio decreto 16 maggio 1932, n. 819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-16;819), e successive modificazioni;
+Visto il testo unico delle disposizioni riguardanti gli ufficiali di complemento della Marina, approvato con [regio decreto 16 maggio 1932, n. 819](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), e successive modificazioni;
 
-Visto il testo unico alle disposizioni legislative riguardanti l'ordinamento del Corpo equipaggi militari marittimi e lo stato giuridico dei sottufficiali della Marina, approvato con [regio decreto 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914), e successive modificazioni;
+Visto il testo unico alle disposizioni legislative riguardanti l'ordinamento del Corpo equipaggi militari marittimi e lo stato giuridico dei sottufficiali della Marina, approvato con [regio decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
 
-Visto il [decreto legislativo luogotenenziale 3 agosto 1945, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-03;663), sull'istituzione a favore del personale del Corpo equipaggi militari marittimi dell'avanzamento per merito di guerra e del trasferimento nei ruoli del personale di carriera e del personale volontario per merito di guerra;
+Visto il [decreto legislativo luogotenenziale 3 agosto 1945, n. 663](../Decreti%20legislativi%20luogotenenziali/Istituzione%20a%20favore%20del%20personale%20del%20C.R.E.M.%20dellavanzamento%20per%20merito%20di%20guerra%20e%20del%20trasferimento%20nei%20ruoli%20del%20personale%20di%20carriera%20o%20da%20personale%20volontario%20per%20merito%20di%20guerra.%20045U0663.md), sull'istituzione a favore del personale del Corpo equipaggi militari marittimi dell'avanzamento per merito di guerra e del trasferimento nei ruoli del personale di carriera e del personale volontario per merito di guerra;
 
-Visto il [regio decreto-legge 28 gennaio 1935, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-28;314), riguardante il reclutamento e l'avanzamento degli ufficiali dell'Aeronautica militare e successive modificazioni;
+Visto il [regio decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), riguardante il reclutamento e l'avanzamento degli ufficiali dell'Aeronautica militare e successive modificazioni;
 
-Visto il [regio decreto-legge 3 febbraio 1938, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744), riguardante il reclutamento e l'avanzamento dei sottufficiali e militari di truppa dell'Aeronautica militare, e successive modificazioni;
+Visto il [regio decreto-legge 3 febbraio 1938, n. 744](Norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20stato%20dei%20sottufficiali%20della%20Regia%20aeronautica.%20038U0744.md), riguardante il reclutamento e l'avanzamento dei sottufficiali e militari di truppa dell'Aeronautica militare, e successive modificazioni;
 
-Vista la [legge 9 ottobre 1942, n. 1356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-09;1356);
+Vista la [legge 9 ottobre 1942, n. 1356](Promozione%20ed%20avanzamento%20per%20merito%20di%20guerra%20dei%20sottufficiali%20e%20militari%20di%20truppa%20della%20Regia%20aeronautica.%20042U1356.md);
 
-Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;49), sulla cessazione dello stato di guerra;
+Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 49](../Decreti%20legislativi%20luogotenenziali/Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md), sulla cessazione dello stato di guerra;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

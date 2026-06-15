@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [decreto Luogotenenziale n. 1788, del 14 ottobre 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-10-14;1788), che istitui' presso il Ministero delle poste e dei telegrafi una Commissione per l'esame delle controversie relative a richieste di compensi o di indennizzi in dipendenza della gestione di appalti o di forniture all'Amministrazione delle poste, telegrafi e dei telefoni per le perdite derivanti dallo stato di guerra.
 
-Veduto il [Regio decreto 30 settembre 1920, n. 1389](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-09-30;1389).
+Veduto il [Regio decreto 30 settembre 1920, n. 1389](Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md).
 
 che stabilisce le norme per il passaggio dallo stato di guerra allo stato di pace;
 

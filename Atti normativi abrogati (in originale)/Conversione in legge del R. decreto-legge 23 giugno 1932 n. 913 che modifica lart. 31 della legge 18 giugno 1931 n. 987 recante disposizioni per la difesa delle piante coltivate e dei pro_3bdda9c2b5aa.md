@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1932, n. 913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-06-23;913), che modifica l'[art. 31 della legge 18 giugno 1931, n. 987](Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20031U0987.md), recante disposizioni per la difesa delle piante coltivate e dei prodotti agrari dalle cause nemiche e sui relativi servizi. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1932, n. 913](Modificazione%20dellart.%2031%20della%20legge%2018%20giugno%201931%20n.%20987%20recante%20disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20032U0913.md), che modifica l'[art. 31 della legge 18 giugno 1931, n. 987](Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20031U0987.md), recante disposizioni per la difesa delle piante coltivate e dei prodotti agrari dalle cause nemiche e sui relativi servizi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla, osservare come legge dello Stato. 
  

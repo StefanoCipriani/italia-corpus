@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102), e successive modificazioni;
+Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e successive modificazioni;
 
 Veduto il [R. decreto-legge 5 febbraio 1928, n. 186](Disposizioni%20per%20lavviamento%20della%20Facolta%20fascista%20di%20scienze%20politiche%20presso%20la%20Regia%20universita%20di%20Perugia.%20028U0186.md), convertito in legge con la [legge 14 giugno 1928, n. 1465](Conversione%20in%20legge%20del%20R.%20decreto%205%20febbraio%201928%20n.%20186%20contenente%20disposizioni%20per%20lavviamento%20della%20Facolta%20fascista%20di%20scienze%20politiche%20presso%20la%20Regia%20universita%20di%20Perugia.%20028U1465.md);
 

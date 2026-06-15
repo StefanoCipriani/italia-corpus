@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLA SANITA'
 
-Vista la [legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67), ed in particolare l'art. 19, comma 14, che limita la deducibilita' ai fini della determinazione del reddito di impresa delle spese sostenute dalle aziende produttrici di farmaci per promuovere, organizzare congressi, convegni e viaggi ad essi collegati, limitatamente a quelli di rilevante interesse scientifico e con esclusione di scopi pubblicitari secondo i criteri stabiliti con proprio decreto dal Ministro della sanita';
+Vista la [legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), ed in particolare l'art. 19, comma 14, che limita la deducibilita' ai fini della determinazione del reddito di impresa delle spese sostenute dalle aziende produttrici di farmaci per promuovere, organizzare congressi, convegni e viaggi ad essi collegati, limitatamente a quelli di rilevante interesse scientifico e con esclusione di scopi pubblicitari secondo i criteri stabiliti con proprio decreto dal Ministro della sanita';
 
 Ritenuta la necessita' di fissare i criteri per determinare la rilevanza dell'interesse scientifico delle iniziative promozionali dell'industria farmaceutica;
 
@@ -26,12 +26,12 @@ D'intesa con il Ministro delle finanze; Decreta:
 
 1.
 
-Le aziende produttrici di farmaci operanti in Italia che intendono portare in deduzione le spese indicate all'[art. 19, comma 14, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_19-com14), devono inoltrare al Ministero della sanita' - Gabinetto del Ministro, la seguente documentazione almeno centosessanta giorni prima della data fissata per la manifestazione: 
+Le aziende produttrici di farmaci operanti in Italia che intendono portare in deduzione le spese indicate all'[art. 19, comma 14, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), devono inoltrare al Ministero della sanita' - Gabinetto del Ministro, la seguente documentazione almeno centosessanta giorni prima della data fissata per la manifestazione: 
  1) nome, ragione sociale, codice fiscale e sede dell'azienda che organizza direttamente o finanzia in tutto o in parte il convegno o congresso scientifico. Nel caso di piu' aziende associate allo scopo vanno indicati i dati per ogni azienda; 
  2) sede e data della manifestazione; 
  3) destinatari dell'iniziativa; 
  4) oggetto della tematica del convegno con particolare riferimento alla connessione tra la stessa e i farmaci prodotti dall'azienda; 
- 5) attestazione del legale rappresentante che l'azienda produce i farmaci di cui all'[art. 19, comma 4, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_19-com4-leta) e [b), della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_19-com4-letb); 
+ 5) attestazione del legale rappresentante che l'azienda produce i farmaci di cui all'[art. 19, comma 4, lettere a)](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md) e [b), della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md); 
  6) qualificazione professionale, scientifica o universitaria dei relatori; 
  7) preventivo di spesa per manifestazione e previsione della copertura dei costi, dedotta la quota a carico dei partecipanti; 
  8) gli elementi per valutare il particolare valore scientifico dell'iniziativa; 
@@ -40,7 +40,7 @@ Le aziende produttrici di farmaci operanti in Italia che intendono portare in de
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, commi 2 e 3, del testo unico approvato 
  con [decreto del Presidente della Repubblica 28 dicembre 
- 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle 
+ 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge modificate o alle quali e' operato il 
  rinvio. Restano invariati il valore e l'efficacia degli 
  atti legislativi qui trascritti.
@@ -85,7 +85,7 @@ Nota all'art. 3:
 
 1.
 
-Entro sessanta giorni dal ricevimento della documentazione il Ministero comunica all'azienda richiedente la sussistenza dei requisiti affinche' possa essere riconosciuto il rilevante interesse scientifico di cui all'[art. 19, comma 14, legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_19-com14).
+Entro sessanta giorni dal ricevimento della documentazione il Ministero comunica all'azienda richiedente la sussistenza dei requisiti affinche' possa essere riconosciuto il rilevante interesse scientifico di cui all'[art. 19, comma 14, legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md).
 
 ## Art. 5.
 

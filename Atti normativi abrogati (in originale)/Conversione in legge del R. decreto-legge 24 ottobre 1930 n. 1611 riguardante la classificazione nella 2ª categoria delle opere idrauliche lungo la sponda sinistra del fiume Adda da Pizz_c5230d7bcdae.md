@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 ottobre 1930, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-24;1611), riguardante la classificazione nella 2ª categoria delle opere idrauliche lungo la sponda sinistra del fiume Adda, da Pizzighettone a Crotta d'Adda, nel territorio delle provincie di Cremona e di Milano. 
+ E' convertito in legge il [R. decreto-legge 24 ottobre 1930, n. 1611](Classificazione%20in%202ª%20categoria%20delle%20opere%20idrauliche%20di%20sistemazione%20dellargine%20sinistro%20dellAdda%20da%20Pizzighettone%20a%20Crotta%20dAdda.%20030U1611.md), riguardante la classificazione nella 2ª categoria delle opere idrauliche lungo la sponda sinistra del fiume Adda, da Pizzighettone a Crotta d'Adda, nel territorio delle provincie di Cremona e di Milano. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 26 marzo 1931 - Anno IX 
  

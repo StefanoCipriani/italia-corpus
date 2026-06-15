@@ -18,7 +18,7 @@ Visto l'[art. 4 del R. decreto-legge n. 632 del 3 aprile 1926](Trasporto%20degli
 
 Visto l'[art. 1 del R. decreto 11 aprile 1929, n. 842](Tariffa%20per%20posta%20aerea.%20029U0842.md);
 
-Visto l'[art. 7 del R. decreto-legge n. 520 del 23 aprile 1925](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto l'[art. 7 del R. decreto-legge n. 520 del 23 aprile 1925](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Viste le disposizioni concernenti il trasporto della posta lettere per via aerea, annesse alla Convenzione postale universale di Londra, mandata in vigore nel Regno col [R. decreto 13 gennaio 1930, n. 971](Approvazione%20degli%20Accordi%20postali%20tra%20lItalia%20ed%20altri%20Stati%20firmati%20a%20Londra%20il%2028%20giugno%201929.%20030U0971.md);
 

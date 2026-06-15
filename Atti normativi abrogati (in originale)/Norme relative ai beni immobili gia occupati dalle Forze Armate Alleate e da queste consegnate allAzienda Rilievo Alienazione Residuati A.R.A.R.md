@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
-Visto l'[art. 7 del decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-29;683#art_7);
+Visto l'[art. 7 del decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](../Decreti%20legislativi%20luogotenenziali/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per i trasporti, di concerto con i Ministri per la g
 
 ## Art. 1.
 
-Coloro che intendono far valere diritti sui beni pervenuti in possesso dell'A.R.A.R. ai sensi dell'[art. 1 del decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-29;683#art_1) e dell'[art. 16 del decreto luogotenenziale 23 novembre 1945, n. 793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-23;793#art_16), sono tenuti a presentarne denuncia, a pena di decadenza, entro 180 giorni dalla data di entrata in vigore del presente decreto.
+Coloro che intendono far valere diritti sui beni pervenuti in possesso dell'A.R.A.R. ai sensi dell'[art. 1 del decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](../Decreti%20legislativi%20luogotenenziali/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md) e dell'[art. 16 del decreto luogotenenziale 23 novembre 1945, n. 793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-23;793#art_16), sono tenuti a presentarne denuncia, a pena di decadenza, entro 180 giorni dalla data di entrata in vigore del presente decreto.
  La denuncia deve contenere tutte le indicazioni necessarie per la identificazione del bene, nonche' l'esposizione dei fatti e delle ragioni sui cui si fondano le pretese del denunciante.
  La denuncia deve essere depositata nel termine sopraindicato alla sede centrale dell'Azienda, la quale ne rilascia ricevuta. Puo' essere anche inviata alla sede stessa mediante lettera raccomandata con avviso di ricevimento entro il termine anzidetto.
  L'avviso di ricevimento sostituisce ad ogni effetto la ricevuta dell'Azienda.

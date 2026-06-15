@@ -28,7 +28,7 @@ Al comune di Ripabottoni (Campobasso) e' data facolta' di applicare dal 1891 al 
 
 ## Art. 4.
 
-Il comune di Spezia (Genova) e' autorizzato a stanziare nei propri bilanci dal 1892 al 1910 una sovrimposta di lire 91,731 (compresa la tangente gia' autorizzata col [regio decreto del 29 settembre 1888 n. 5728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-09-29;5728)) con una eccedenza sul limite medio di lire 40,231,38, per far fronte all'ammoramento di due mutui con la Cassa depositi e prestiti, l'uno di lire 1,000,000, contratto del 1885, l'altro di lire 319,786 82 da assumersi al 5 per cento e per anni 25 per estinguere passivita' onerose.
+Il comune di Spezia (Genova) e' autorizzato a stanziare nei propri bilanci dal 1892 al 1910 una sovrimposta di lire 91,731 (compresa la tangente gia' autorizzata col [regio decreto del 29 settembre 1888 n. 5728](Che%20autorizza%20varii%20comuni%20ad%20eccedere%20con%20la%20sovrimposta%20ai%20tributi%20diretti%20il%20limite%20medio%20per%20pagamento%20dannualita%20dammortamento%20a%20favore%20della%20Cassa%20dei%20depositi%20e%20prestiti.%20088U5728.md)) con una eccedenza sul limite medio di lire 40,231,38, per far fronte all'ammoramento di due mutui con la Cassa depositi e prestiti, l'uno di lire 1,000,000, contratto del 1885, l'altro di lire 319,786 82 da assumersi al 5 per cento e per anni 25 per estinguere passivita' onerose.
 
 ## Art. 5.
 

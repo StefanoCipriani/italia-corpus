@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 aprile 1931, numero 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-09;741), col quale il Ministro per l'educazione nazionale viene autorizzato a conferire uno dei posti di grado 9° del gruppo A, nel ruolo del personale scientifico-tecnico dei musei, dei monumenti, delle gallerie e degli scavi di antichita', a persona che abbia singolare capacita' e rinomanza nelle discipline archeologiche. 
+ E' convertito in legge il [R. decreto-legge 9 aprile 1931, numero 741](Reclutamento%20di%20un%20funzionario%20di%20gruppo%20A%20nel%20ruolo%20del%20personale%20dei%20musei%20dei%20monumenti%20delle%20gallerie%20e%20degli%20scavi%20di%20antichita.%20031U0741.md), col quale il Ministro per l'educazione nazionale viene autorizzato a conferire uno dei posti di grado 9° del gruppo A, nel ruolo del personale scientifico-tecnico dei musei, dei monumenti, delle gallerie e degli scavi di antichita', a persona che abbia singolare capacita' e rinomanza nelle discipline archeologiche. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 28 dicembre 1931 - Anno X 
  

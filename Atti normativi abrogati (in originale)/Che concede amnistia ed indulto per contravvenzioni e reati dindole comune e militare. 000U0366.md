@@ -28,9 +28,9 @@ E' concessa amnistia e cessano tutti gli effetti penali delle precedenti condann
  
  b) delitti contro la liberta' del lavoro; 
  
- c) delitti di duello preveduti negli [articoli 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_237), [238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_238), [239 n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_239-num3), [241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_239-num241) e [244 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_239-num244); 
+ c) delitti di duello preveduti negli [articoli 237](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [238](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [239 n. 3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [241](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [244 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- d) delitti commessi per imprudenza o negligenza o per imperizia nell'arte o professione o per inosservanza di Regolamenti, ordini o discipline, purche' non ne siano derivate la morte o lesioni personali prevedute nel [n. 2 dell'articolo 372 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_372-num2); 
+ d) delitti commessi per imprudenza o negligenza o per imperizia nell'arte o professione o per inosservanza di Regolamenti, ordini o discipline, purche' non ne siano derivate la morte o lesioni personali prevedute nel [n. 2 dell'articolo 372 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  e) furti di legna commessi nei boschi, quando il valore della cosa rubata non ecceda le lire 20; 
  
@@ -40,7 +40,7 @@ E' concessa amnistia e cessano tutti gli effetti penali delle precedenti condann
 
 E' altresi' concessa amnistia e cessano tutti gli effetti penali delle precedenti condanne per le seguenti contravvenzioni commesse fino alla data del presente decreto: 
  
- a) contravvenzioni prevedute nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e nel [testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [R. decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md), (serie 3ª), fatta eccezione, per gli ammoniti, delle contravvenzioni, di cui negli [articoli 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_464) e [465 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_465) e 110 della legge di pubblica sicurezza; 
+ a) contravvenzioni prevedute nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nel [testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [R. decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md), (serie 3ª), fatta eccezione, per gli ammoniti, delle contravvenzioni, di cui negli [articoli 464](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [465 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e 110 della legge di pubblica sicurezza; 
  
  b) contravvenzioni alle leggi ed ai Regolamenti sullo stato civile; 
  
@@ -70,7 +70,7 @@ E' altresi' concessa amnistia e cessano tutti gli effetti penali delle precedent
 
 Le pene inflitte o da infliggersi per tutti gli altri reati commessi fino alla data del presente decreto e non compresi nell'amnistia, di cui nei precedenti articoli, sono condonate, se inferiori od eguali a sei mesi o a lire 1800, e ridotte di sei mesi o di 1800 lire, se superiori, osservate, in caso di concorso di pene pecuniarie e restrittive della liberta' personale, le norme dell'articolo 1. 
  
- Il condono o la riduzione non ha luogo quando si tratti di omicidio volontario, consumato o tentato, ovvero di lesioni personali che hanno prodotto la morte o qualcuna delle conseguenze prevedute nel n. 2° dell'[articolo 372 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_372), eccetto che tali delitti siano stati commessi in istato di parziale infermita' di mente, o per eccesso della difesa, o per grave provocazione, ovvero per causa di onore, ai sensi degli articoli 47, 50, 51 capoverso, 369, 376 capoverso, e 377 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ Il condono o la riduzione non ha luogo quando si tratti di omicidio volontario, consumato o tentato, ovvero di lesioni personali che hanno prodotto la morte o qualcuna delle conseguenze prevedute nel n. 2° dell'[articolo 372 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), eccetto che tali delitti siano stati commessi in istato di parziale infermita' di mente, o per eccesso della difesa, o per grave provocazione, ovvero per causa di onore, ai sensi degli articoli 47, 50, 51 capoverso, 369, 376 capoverso, e 377 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 4.
 
@@ -84,11 +84,11 @@ Le pene inflitte in contraddittorio od in contumacia con sentenze dei tribunali 
 
 ## Art. 6.
 
-Nel caso di concorso di reati e di pene, l'amnistia si applica distintamente a ciascun reato: l'indulto si applica una sola volta dopo cumulate le pene secondo le norme stabilite negli [articoli 67 e seguenti del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_67).
+Nel caso di concorso di reati e di pene, l'amnistia si applica distintamente a ciascun reato: l'indulto si applica una sola volta dopo cumulate le pene secondo le norme stabilite negli [articoli 67 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 7.
 
-L'indulto, di cui negli articoli 3, 4 e 5 del presente decreto, si ha come non concesso, per i delitti, se nel termine di cinque anni da oggi il condannato commetta un nuovo delitto, pel quale riporti una condanna alla reclusione superiore a sei mesi. In questo caso la pena che sarebbe stata condonata si computa insieme con quella incorsa pel nuovo reato, giusta le norme dell'[articolo 76 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_76).
+L'indulto, di cui negli articoli 3, 4 e 5 del presente decreto, si ha come non concesso, per i delitti, se nel termine di cinque anni da oggi il condannato commetta un nuovo delitto, pel quale riporti una condanna alla reclusione superiore a sei mesi. In questo caso la pena che sarebbe stata condonata si computa insieme con quella incorsa pel nuovo reato, giusta le norme dell'[articolo 76 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 8.
 

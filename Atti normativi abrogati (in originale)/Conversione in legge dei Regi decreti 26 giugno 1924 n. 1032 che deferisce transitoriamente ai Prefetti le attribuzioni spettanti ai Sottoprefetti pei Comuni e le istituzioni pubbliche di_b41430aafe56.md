@@ -25,15 +25,15 @@ VITTORIO EMANUELE III
  
  Sono convertiti in legge: 
  
- il [R. decreto-legge 26 giugno 1924, n. 1032](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-06-26;1032) che deferisce transitoriamente ai Prefetti le attribuzioni spettanti ai Sottoprefetti per i Comuni e le istituzioni pubbliche di assistenza e beneficenza del primo circondario; 
+ il [R. decreto-legge 26 giugno 1924, n. 1032](Deferimento%20ai%20Prefetti%20delle%20attribuzioni%20spettanti%20al%20Sottoprefetti%20pei%20Comuni%20e%20per%20le%20Istituzioni%20pubbliche%20di%20beneficenza%20del%20primo%20circondario.%20024U1032.md) che deferisce transitoriamente ai Prefetti le attribuzioni spettanti ai Sottoprefetti per i Comuni e le istituzioni pubbliche di assistenza e beneficenza del primo circondario; 
  
- il [R. decreto-legge 15 agosto 1924, n. 1327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-08-15;1327), riguardante nomine, a titolo di prova dei vincitori del concorso al grado di vice segretario dell'Amministrazione dell'interno in deroga alle norme vigenti.
+ il [R. decreto-legge 15 agosto 1924, n. 1327](Nomine%20a%20titolo%20di%20prova%20dei%20vincitori%20del%20concorso%20al%20grado%20di%20vice-segretario%20nellAmministrazione%20dellinterno.%20024U1327.md), riguardante nomine, a titolo di prova dei vincitori del concorso al grado di vice segretario dell'Amministrazione dell'interno in deroga alle norme vigenti.
 
 ## Art. 2.
 
 Sostituire: 
  
- Gli articoli 7, 11 e 14 del testo unico delle leggi sulla Giunta provinciale amministrativa, in sede giurisdizionale, approvato col [R. decreto 26 giugno 1924, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1058), sono modificati come segue: 
+ Gli articoli 7, 11 e 14 del testo unico delle leggi sulla Giunta provinciale amministrativa, in sede giurisdizionale, approvato col [R. decreto 26 giugno 1924, n. 1058](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Giunta%20provinciale%20amministrativa%20in%20sede%20giurisdizionale.%20024U1058.md), sono modificati come segue: 
  
  Art. 7., 2° comma, sostituire: 
  

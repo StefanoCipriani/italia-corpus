@@ -50,7 +50,7 @@ Il Ministero delle finanze, avvalendosi del servizio ispettivo per la finanza lo
 
 1.
 
-Le controversie relative agli atti di accertamento notificati entro il 31 dicembre 1988, instaurate ai sensi dell'[articolo 20 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;638#art_20), e dell'[articolo 24 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 639](Imposta%20comunale%20sulle%20pubblicita%20e%20diritti%20sulle%20pubbliche%20affissioni.md), pendenti presso l'intendente di finanza od il Ministro delle finanze alla data di entrata in vigore del presente decreto, sono definite, a seguito di apposita istanza prodotta dal contribuente entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sulla base del 90 per cento del tributo ancora controverso con abbandono delle sanzioni e degli interessi.
+Le controversie relative agli atti di accertamento notificati entro il 31 dicembre 1988, instaurate ai sensi dell'[articolo 20 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 638](../DPR/Disposizioni%20per%20lattribuzione%20di%20somme%20agli%20enti%20indicati%20nellart.%2014%20della%20legge%209%20ottobre%201971%20n.%20825%20in%20sostituzione%20di%20tributi%20contributi%20e%20compartecipazioni%20e%20norme%20per%20la%20delegabil_3fbd056216dc.md), e dell'[articolo 24 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 639](Imposta%20comunale%20sulle%20pubblicita%20e%20diritti%20sulle%20pubbliche%20affissioni.md), pendenti presso l'intendente di finanza od il Ministro delle finanze alla data di entrata in vigore del presente decreto, sono definite, a seguito di apposita istanza prodotta dal contribuente entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sulla base del 90 per cento del tributo ancora controverso con abbandono delle sanzioni e degli interessi.
 
 2.
 
@@ -58,17 +58,17 @@ L'istanza deve essere presentata o spedita a mezzo raccomandata postale all'auto
 
 3.
 
-Per le controversie riguardanti le soppresse imposte di consumo di cui all'articolo 90 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), pendenti presso le competenti autorita' amministrative alla data di entrata in vigore del presente decreto, il contribuente deve chiedere la trattazione del proprio ricorso con istanza da presentare o spedire a mezzo raccomandata postale entro centottanta giorni dalla data suddetta all'autorita' competente a decidere, indicando la residenza o domicilio. In difetto di tale istanza il ricorso stesso e' definito per rinuncia, di cui e' data comunicazione all'autorita' che ha emesso l'atto impugnato ed alle parti interessate. Nell'istanza il contribuente puo' chiedere di avvalersi della disposizione di cui al comma 1.
+Per le controversie riguardanti le soppresse imposte di consumo di cui all'articolo 90 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), pendenti presso le competenti autorita' amministrative alla data di entrata in vigore del presente decreto, il contribuente deve chiedere la trattazione del proprio ricorso con istanza da presentare o spedire a mezzo raccomandata postale entro centottanta giorni dalla data suddetta all'autorita' competente a decidere, indicando la residenza o domicilio. In difetto di tale istanza il ricorso stesso e' definito per rinuncia, di cui e' data comunicazione all'autorita' che ha emesso l'atto impugnato ed alle parti interessate. Nell'istanza il contribuente puo' chiedere di avvalersi della disposizione di cui al comma 1.
 
 ## Art. 3.
 
 1.
 
-Nel comma 5 dell'articolo 76 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), modificato dall'[articolo 1, comma 1, lettera l-bis), del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_1-com1-letlbis), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165), le parole "che - direttamente o indirettamente - controllano l'impresa o ne sono controllate" sono sostituite dalle seguenti: "che, direttamente o indirettamente, controllano l'impresa, ne sono controllate o sono controllate dalla stessa societa' che controlla l'impresa.".
+Nel comma 5 dell'articolo 76 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), modificato dall'[articolo 1, comma 1, lettera l-bis), del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_1-com1-letlbis), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20aprile%201990%20n.%2090%20recante%20disposizioni%20in%20materia%20di%20determinazione%20del%20reddito%20ai%20fini%20delle%20imposte%20sui%20redditi%20di%20rimborsi%20d_30659e7e2a97.md), le parole "che - direttamente o indirettamente - controllano l'impresa o ne sono controllate" sono sostituite dalle seguenti: "che, direttamente o indirettamente, controllano l'impresa, ne sono controllate o sono controllate dalla stessa societa' che controlla l'impresa.".
 
 2.
 
-Le disposizioni di cui alla [lettera a), comma 7, dell'articolo 26 del decreto-legge 2 marzo 1989, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;69#art_26-com7-leta), convertito, con modificazioni, dalla [legge 27 aprile 1989, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-27;154), si applicano altresi' ai beni ammortizzabili acquistati anteriormente al 2 marzo 1989 relativamente alle plusvalenze realizzate dal periodo di imposta in corso alla data di entrata in vigore del presente decreto.
+Le disposizioni di cui alla [lettera a), comma 7, dell'articolo 26 del decreto-legge 2 marzo 1989, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;69#art_26-com7-leta), convertito, con modificazioni, dalla [legge 27 aprile 1989, n. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2069%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20persone%20fisiche%20e%20versamento%20di%20acconto%20de_946bfc2c101b.md), si applicano altresi' ai beni ammortizzabili acquistati anteriormente al 2 marzo 1989 relativamente alle plusvalenze realizzate dal periodo di imposta in corso alla data di entrata in vigore del presente decreto.
 
 3.
 
@@ -76,7 +76,7 @@ A decorrere dal 1' gennaio 1990 il [secondo comma dell'articolo 7 del decreto de
 
 4.
 
-Gli avvisi di accertamento parziale di cui all'[articolo 41- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_41bis), possono essere notificati dall'ufficio delle imposte mediante invio di raccomandata con avviso di ricevimento; la notifica si da' per avvenuta alla data indicata nell'avviso di ricevimento sottoscritto dal destinatario ovvero da persona di famiglia o addetto alla casa.
+Gli avvisi di accertamento parziale di cui all'[articolo 41- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), possono essere notificati dall'ufficio delle imposte mediante invio di raccomandata con avviso di ricevimento; la notifica si da' per avvenuta alla data indicata nell'avviso di ricevimento sottoscritto dal destinatario ovvero da persona di famiglia o addetto alla casa.
 
 5.
 
@@ -108,7 +108,7 @@ Per l'anno 1990, l'imposta annuale e' dovuta nella misura risultante dalla somma
 
 1.
 
-Sulle derivazioni di acqua per usi industriali di cui alla [lettera d) del primo comma dell'articolo 10 del decreto-legge 2 ottobre 1981, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-10-02;546#art_10-com1-letd), convertito, con modificazioni, dalla legge 1' dicembre 1981, n. 692, si applica, oltre quelli vigenti in favore degli enti locali, un sopracanone in favore dello Stato in ragione di lire 20 milioni per ogni modulo. Il sopracanone e' ridotto a lire 10 milioni per ogni modulo se con obbligo di restituire le colature o residui di acqua, con le medesime caratteristiche qualitative. Al sopracanone non si applica il disposto dell'[articolo 12, comma 5, del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_12-com5), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165).
+Sulle derivazioni di acqua per usi industriali di cui alla [lettera d) del primo comma dell'articolo 10 del decreto-legge 2 ottobre 1981, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-10-02;546#art_10-com1-letd), convertito, con modificazioni, dalla legge 1' dicembre 1981, n. 692, si applica, oltre quelli vigenti in favore degli enti locali, un sopracanone in favore dello Stato in ragione di lire 20 milioni per ogni modulo. Il sopracanone e' ridotto a lire 10 milioni per ogni modulo se con obbligo di restituire le colature o residui di acqua, con le medesime caratteristiche qualitative. Al sopracanone non si applica il disposto dell'[articolo 12, comma 5, del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_12-com5), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20aprile%201990%20n.%2090%20recante%20disposizioni%20in%20materia%20di%20determinazione%20del%20reddito%20ai%20fini%20delle%20imposte%20sui%20redditi%20di%20rimborsi%20d_30659e7e2a97.md).
 
 2.
 
@@ -122,7 +122,7 @@ I soggetti che eseguono il condizionamento delle acque minerali da immettere in 
 
 1.
 
-L'imposta di consumo sul gas metano usato come combustibile per impieghi diversi da quelli delle imprese industriali ed artigiane e' aumentata a lire 196 al metro cubo. Nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218), l'imposta e' dovuta nella misura di lire 102 al metro cubo.
+L'imposta di consumo sul gas metano usato come combustibile per impieghi diversi da quelli delle imprese industriali ed artigiane e' aumentata a lire 196 al metro cubo. Nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), l'imposta e' dovuta nella misura di lire 102 al metro cubo.
 
 2.
 
@@ -166,7 +166,7 @@ Sono aumentate le aliquote dell'imposta di fabbricazione e della corrispondente 
 
 2.
 
-Gli aumenti stabiliti nel comma 1, alle lettere a), g) ed m), si applicano anche ai prodotti estratti dalle raffinerie, dai depositi doganali e da quelli ad essi assimilati od importati con il pagamento dell'imposta o della sovrimposta di confine nella precedente misura e che, alla data di entrata in vigore del presente decreto, sono posseduti in quantita' superiore a tremila chilogrammi dagli esercenti depositi di oli minerali per uso commerciale ed in quantita' superiore a 40 ettolitri dagli esercenti stazioni di servizio ed impianti di distribuzione stradale di carburanti. Si applicano le disposizioni dell'[articolo 9 della legge 11 maggio 1981, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-11;213#art_9), e del successivo articolo 10, sostituito con l'[articolo 2 della legge 26 dicembre 1981, n. 777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-12-26;777#art_2).
+Gli aumenti stabiliti nel comma 1, alle lettere a), g) ed m), si applicano anche ai prodotti estratti dalle raffinerie, dai depositi doganali e da quelli ad essi assimilati od importati con il pagamento dell'imposta o della sovrimposta di confine nella precedente misura e che, alla data di entrata in vigore del presente decreto, sono posseduti in quantita' superiore a tremila chilogrammi dagli esercenti depositi di oli minerali per uso commerciale ed in quantita' superiore a 40 ettolitri dagli esercenti stazioni di servizio ed impianti di distribuzione stradale di carburanti. Si applicano le disposizioni dell'[articolo 9 della legge 11 maggio 1981, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-11;213#art_9), e del successivo articolo 10, sostituito con l'[articolo 2 della legge 26 dicembre 1981, n. 777](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20ottobre%201981%20n.%20609%20recante%20modificazioni%20al%20regime%20fiscale%20di%20alcuni%20prodotti%20petroliferi%20e%20conferimento%20al%20fondo%20di%20dotazione%20dellENEL.%20Modific_b3295d27b1a7.md).
 
 ## Art. 8.
 
@@ -183,15 +183,15 @@ aliquota per ettolitro pari al 30 per cento dell'aliquota prevista per gli oli d
 
 2.
 
-Sono soppresse la lettera B), punto 3, la lettera C), punto 1, e la lettera E), punto 4, della tabella A, allegata al [decreto-legge 23 ottobre 1964, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-23;989), convertito, con modificazioni, dalla [legge 18 dicembre 1964, n. 1350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-18;1350), e successive modificazioni.
+Sono soppresse la lettera B), punto 3, la lettera C), punto 1, e la lettera E), punto 4, della tabella A, allegata al [decreto-legge 23 ottobre 1964, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-23;989), convertito, con modificazioni, dalla [legge 18 dicembre 1964, n. 1350](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201964%20n.%20989%20adottato%20ai%20sensi%20dellart.%2077%20comma%20secondo%20della%20Costituzione%20recante%20modificazioni%20alla%20disciplina%20fiscal_a6b872ec0ddb.md), e successive modificazioni.
 
 3.
 
-All'[articolo 1 del decreto-legge 23 ottobre 1964, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-23;989#art_1), convertito, con modificazioni, dalla [legge 18 dicembre 1964, n. 1350, nel primo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-18;1350#art_com1), e' aggiunto, dopo il numero 10), il seguente: "11) Bitume di petrolio: aliquota per cento kg lire 6.000.".
+All'[articolo 1 del decreto-legge 23 ottobre 1964, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-23;989#art_1), convertito, con modificazioni, dalla [legge 18 dicembre 1964, n. 1350, nel primo comma](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201964%20n.%20989%20adottato%20ai%20sensi%20dellart.%2077%20comma%20secondo%20della%20Costituzione%20recante%20modificazioni%20alla%20disciplina%20fiscal_a6b872ec0ddb.md), e' aggiunto, dopo il numero 10), il seguente: "11) Bitume di petrolio: aliquota per cento kg lire 6.000.".
 
 4.
 
-I titolari dei depositi di bitumi per uso commerciale sono assoggettati alle disposizioni del [decreto-legge 5 maggio 1957, n. 271](Disposizioni%20per%20la%20prevenzione%20e%20la%20repressione%20delle%20frodi%20nel%20settore%20degli%20oli%20minerali.md), convertito, con modificazioni, dalla [legge 2 luglio 1957, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-02;474), per quanto concerne l'obbligo della denuncia del deposito ed il rilascio della licenza fiscale di esercizio e sono obbligati alla tenuta del registro di carico e scarico previsto dall'[articolo 4 
+I titolari dei depositi di bitumi per uso commerciale sono assoggettati alle disposizioni del [decreto-legge 5 maggio 1957, n. 271](Disposizioni%20per%20la%20prevenzione%20e%20la%20repressione%20delle%20frodi%20nel%20settore%20degli%20oli%20minerali.md), convertito, con modificazioni, dalla [legge 2 luglio 1957, n. 474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20maggio%201957%20n.%20271%20concernente%20disposizioni%20per%20la%20prevenzione%20e%20la%20repressione%20delle%20frodi%20nel%20settore%20degli%20oli%20minerali.md), per quanto concerne l'obbligo della denuncia del deposito ed il rilascio della licenza fiscale di esercizio e sono obbligati alla tenuta del registro di carico e scarico previsto dall'[articolo 4 
 della legge 15 dicembre 1971, n. 1161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-15;1161#art_4).
 
 5.
@@ -312,7 +312,7 @@ Le aliquote ridotte previste dalla lettera B), punto 2), per la benzina consumat
 
 7.
 
-Alla tabella C) allegata al [decreto-legge 23 ottobre 1964, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-23;989), convertito, con modificazioni, dalla [legge 18 dicembre 1964, n. 1350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-18;1350), sono apportate le seguenti modificazioni:
+Alla tabella C) allegata al [decreto-legge 23 ottobre 1964, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-23;989), convertito, con modificazioni, dalla [legge 18 dicembre 1964, n. 1350](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201964%20n.%20989%20adottato%20ai%20sensi%20dellart.%2077%20comma%20secondo%20della%20Costituzione%20recante%20modificazioni%20alla%20disciplina%20fiscal_a6b872ec0ddb.md), sono apportate le seguenti modificazioni:
                         a)
                             alla lettera D), punto III, lettera a), le parole "53 centistokes (7 gradi Engler)" sono sostituite dalle seguenti: "91 centistokes (12 gradi Engler)";
                         b)
@@ -320,13 +320,13 @@ Alla tabella C) allegata al [decreto-legge 23 ottobre 1964, n. 989](https://www.
 
 8.
 
-Il [secondo comma dell'articolo 12 della legge 31 dicembre 1962, n. 1852](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1852#art_12-com2), e' sostituito dal seguente: "Sui prodotti ottenuti e' dovuta l'imposta di fabbricazione ragguagliata al 50 per cento dell'aliquota fissata per ciascuna specie dei prodotti stessi.".
+Il [secondo comma dell'articolo 12 della legge 31 dicembre 1962, n. 1852](Modificazioni%20al%20regime%20fiscale%20dei%20prodotti%20petroliferi_2.md), e' sostituito dal seguente: "Sui prodotti ottenuti e' dovuta l'imposta di fabbricazione ragguagliata al 50 per cento dell'aliquota fissata per ciascuna specie dei prodotti stessi.".
 
 ## Art. 9.
 
 1.
 
-In aggiunta al limite di spesa previsto dall'[articolo 13 del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_13), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165), e' prevista la spesa di lire 122 miliardi per l'anno 1990, di lire 275 miliardi per l'anno 1991 e di lire 275 miliardi per l'anno 1992.
+In aggiunta al limite di spesa previsto dall'[articolo 13 del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_13), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20aprile%201990%20n.%2090%20recante%20disposizioni%20in%20materia%20di%20determinazione%20del%20reddito%20ai%20fini%20delle%20imposte%20sui%20redditi%20di%20rimborsi%20d_30659e7e2a97.md), e' prevista la spesa di lire 122 miliardi per l'anno 1990, di lire 275 miliardi per l'anno 1991 e di lire 275 miliardi per l'anno 1992.
 
 2.
 
@@ -344,7 +344,7 @@ L'imposta di fabbricazione e la corrispondente sovrimposta di confine sullo spir
 
 2.
 
-L'aliquota ridotta dell'imposta di fabbricazione e della corrispondente sovrimposta di confine prevista fino al 31 dicembre 1992 dall'[articolo 8, comma 20, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_8-com20), e' aumentata, fino alla predetta data, da lire 442.000 a lire 618.800 per ettanidro, alla temperatura di 20 'C.
+L'aliquota ridotta dell'imposta di fabbricazione e della corrispondente sovrimposta di confine prevista fino al 31 dicembre 1992 dall'[articolo 8, comma 20, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), e' aumentata, fino alla predetta data, da lire 442.000 a lire 618.800 per ettanidro, alla temperatura di 20 'C.
 
 3.
 
@@ -366,7 +366,7 @@ Agli alcoli nazionali o d'importazione, tal quali o contenuti nei seguenti prodo
 
 5.
 
-Per l'applicazione delle disposizioni contenute nel comma 4, valgono le norme dell'[articolo 9 della legge 11 maggio 1981, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-11;213#art_9), e del successivo articolo 10, sostituito dall'[articolo 2 della legge 26 dicembre 1981, n. 777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-12-26;777#art_2), ad eccezione del termine di effettuazione del versamento della differenza di imposta sulle giacenze dichiarate che viene fissato nel quindicesimo giorno successivo alla data di entrata in vigore della legge di conversione del presente decreto.
+Per l'applicazione delle disposizioni contenute nel comma 4, valgono le norme dell'[articolo 9 della legge 11 maggio 1981, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-11;213#art_9), e del successivo articolo 10, sostituito dall'[articolo 2 della legge 26 dicembre 1981, n. 777](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20ottobre%201981%20n.%20609%20recante%20modificazioni%20al%20regime%20fiscale%20di%20alcuni%20prodotti%20petroliferi%20e%20conferimento%20al%20fondo%20di%20dotazione%20dellENEL.%20Modific_b3295d27b1a7.md), ad eccezione del termine di effettuazione del versamento della differenza di imposta sulle giacenze dichiarate che viene fissato nel quindicesimo giorno successivo alla data di entrata in vigore della legge di conversione del presente decreto.
 
 6.
 
@@ -374,7 +374,7 @@ La restituzione dell'imposta di fabbricazione prevista dalle vigenti disposizion
 
 7.
 
-Le agevolazioni fiscali previste dall'[articolo 29 del decreto-legge 6 ottobre 1948, n. 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-10-06;1200#art_29), convertito, con modificazioni, dalla [legge 3 dicembre 1948, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-03;1388), e successive modificazioni, ed estese ai vini liquorosi ed ai vini aromatizzati con l'[articolo 4bis del decreto-legge 15 maggio 1984, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-05-15;232#art_4bis), convertito, con modificazioni, dalla [legge 28 luglio 1984, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-28;408), sono ridotte al 35 per cento.
+Le agevolazioni fiscali previste dall'[articolo 29 del decreto-legge 6 ottobre 1948, n. 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-10-06;1200#art_29), convertito, con modificazioni, dalla [legge 3 dicembre 1948, n. 1388](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%206%20ottobre%201948%20n.%201200%20concernente%20modificazioni%20al%20regime%20fiscale%20degli%20alcoli%20e%20del%20benzolo.md), e successive modificazioni, ed estese ai vini liquorosi ed ai vini aromatizzati con l'[articolo 4bis del decreto-legge 15 maggio 1984, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-05-15;232#art_4bis), convertito, con modificazioni, dalla [legge 28 luglio 1984, n. 408](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20giugno%201984%20n.%20232%20concernente%20modificazioni%20al%20regime%20fiscale%20per%20gli%20alcoli%20e%20per%20alcune%20bevande%20alcoliche%20in%20attuazione%20dell_65efd0b66024.md), sono ridotte al 35 per cento.
 
 ## Art. 11.
 
@@ -394,11 +394,11 @@ Alla copertura dell'onere derivante dal presente articolo, pari a lire 150 milia
 
 1.
 
-L'ammontare del fondo di cui all'[articolo 2, comma 9, della legge 27 dicembre 1989, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;407#art_2-com9), e' ulteriormente integrato di lire 1.534 miliardi per l'anno 1990 e di lire 4.017 miliardi per l'anno 1991. Detto ammontare e' comprensivo delle disponibilita' necessarie per l'adeguamento dei trattamenti, di attivita' e di quiescenza, delle categorie di personale cui si applica l'[articolo 1, comma 2, del decreto-legge 27 dicembre 1989, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-27;413#art_1-com2), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;37), in conseguenza degli incrementi retributivi riconosciuti al personale soggetto alla contrattazione prevista dalla [legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93).
+L'ammontare del fondo di cui all'[articolo 2, comma 9, della legge 27 dicembre 1989, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201990.md), e' ulteriormente integrato di lire 1.534 miliardi per l'anno 1990 e di lire 4.017 miliardi per l'anno 1991. Detto ammontare e' comprensivo delle disponibilita' necessarie per l'adeguamento dei trattamenti, di attivita' e di quiescenza, delle categorie di personale cui si applica l'[articolo 1, comma 2, del decreto-legge 27 dicembre 1989, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-27;413#art_1-com2), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 37](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20dicembre%201989%20n.%20413%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trattamento%20economico%20dei%20dirigenti%20dello%20Stato%20e%20delle%20categor_63c326e103ad.md), in conseguenza degli incrementi retributivi riconosciuti al personale soggetto alla contrattazione prevista dalla [legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93).
 
 2.
 
-Alla copertura del relativo onere si provvede, anche in deroga a quanto previsto dall'[articolo 2, comma 1, della legge 27 dicembre 1989, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;407#art_2-com1), con quota parte delle maggiori entrate previste dal presente decreto.
+Alla copertura del relativo onere si provvede, anche in deroga a quanto previsto dall'[articolo 2, comma 1, della legge 27 dicembre 1989, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201990.md), con quota parte delle maggiori entrate previste dal presente decreto.
 
 ## Art. 13.
 

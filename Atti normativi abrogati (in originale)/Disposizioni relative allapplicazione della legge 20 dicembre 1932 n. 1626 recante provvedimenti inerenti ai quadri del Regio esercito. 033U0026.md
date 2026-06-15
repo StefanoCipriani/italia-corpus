@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Vista la [legge 20 dicembre 1932, n. 1626](Provvedimenti%20inerenti%20ai%20quadri%20del%20Regio%20esercito.%20032U1626.md), recante provvedimenti inerenti ai quadri del Regio esercito;
 
-Visto il [R. decreto 5 gennaio 1933, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-05;1), concernente le prove per l'avanzamento anticipato dei capitani e dei tenenti, del Regio esercito;
+Visto il [R. decreto 5 gennaio 1933, n. 1](Prove%20per%20lavanzamento%20anticipato%20degli%20ufficiali%20inferiori%20anziani%20del%20Regio%20esercito%20che%20hanno%20partecipato%20alla%20guerra.%20033U0001.md), concernente le prove per l'avanzamento anticipato dei capitani e dei tenenti, del Regio esercito;
 
 Ritenuta la necessita' urgente ed assoluta di regolare le norme relative all'avanzamento anticipato dei capitani anziani delle armi di fanteria, cavalleria, artiglieria e genio, che gia' hanno superato gli esperimenti per l'avanzamento prescritti dalla [legge 11 marzo 1926, n. 398](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20026U0398.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la guerra, di concert
 
 ## Articolo unico.
 
-Per la prima applicazione della [legge 20 dicembre 1932, n. 1626](Provvedimenti%20inerenti%20ai%20quadri%20del%20Regio%20esercito.%20032U1626.md), i capitani delle armi di fanteria, cavalleria, artiglieria e genio, che, trovandosi nelle condizioni previste dal capo I della legge stessa, siano ammessi - con le norme fissate dal [R. decreto n. 1 del 5 gennaio 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-05;1) - alle prove per l'avanzamento anticipato per esami, saranno dispensati dal sostenere le prove stesse se gia' superarono gli esperimenti prescritti dalla [legge 11 marzo 1926, n. 398](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20026U0398.md), e riportarono un punto non inferiore ai 14/20. 
+Per la prima applicazione della [legge 20 dicembre 1932, n. 1626](Provvedimenti%20inerenti%20ai%20quadri%20del%20Regio%20esercito.%20032U1626.md), i capitani delle armi di fanteria, cavalleria, artiglieria e genio, che, trovandosi nelle condizioni previste dal capo I della legge stessa, siano ammessi - con le norme fissate dal [R. decreto n. 1 del 5 gennaio 1933](Prove%20per%20lavanzamento%20anticipato%20degli%20ufficiali%20inferiori%20anziani%20del%20Regio%20esercito%20che%20hanno%20partecipato%20alla%20guerra.%20033U0001.md) - alle prove per l'avanzamento anticipato per esami, saranno dispensati dal sostenere le prove stesse se gia' superarono gli esperimenti prescritti dalla [legge 11 marzo 1926, n. 398](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20026U0398.md), e riportarono un punto non inferiore ai 14/20. 
  
  Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale e sara' presentato al Parlamento per la conversione in legge. 
  

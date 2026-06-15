@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 25 giugno 1925, n. 1000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-25;1000);
+Visto il [R. decreto 25 giugno 1925, n. 1000](Approvazione%20dei%20bilanci%20dellAzienda%20autonoma%20delle%20poste%20e%20dei%20telegrafi%20e%20di%20quella%20dei%20telefoni%20per%20lesercizio%201925-26%20e%20delle%20conseguenti%20variazioni%20nello%20stato%20di%20previsione%20dellentr_00293d7bc4b5.md);
 
 Sentito il Consiglio dei Ministri;
 

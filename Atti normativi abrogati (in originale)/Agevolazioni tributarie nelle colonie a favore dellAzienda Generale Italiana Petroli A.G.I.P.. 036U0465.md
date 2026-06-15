@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 3 dicembre 1934, n. 2012](Ordinamento%20organico%20pe
 
 Vista la [legge 6 luglio 1933, n. 999](Ordinamento%20organico%20per%20lEritrea%20e%20la%20Somalia.%20033U0999.md), sull'ordinamento organico per l'Amministrazione dell'Eritrea e della Somalia, modificata con [legge 25 gennaio 1934, n. 146](Modificazione%20alla%20legge%20organica%20dellEritrea%20e%20della%20Somalia.%20034U0146.md);
 
-Visto il [decreto-legge 25 marzo 1923, n. 880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-03-25;880), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), con il quale si conferiscono al Governatore della Tripolitania, speciali poteri in materia finanziaria;
+Visto il [decreto-legge 25 marzo 1923, n. 880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-03-25;880), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), con il quale si conferiscono al Governatore della Tripolitania, speciali poteri in materia finanziaria;
 
 Visto il decreto del Governatore della Tripolitania 26 maggio 1923, n. 501, con il quale, in forza delle facolta' ad esso conferite col sopracitato decreto-legge, si istituisce, in quella colonia, l'imposta sul reddito;
 

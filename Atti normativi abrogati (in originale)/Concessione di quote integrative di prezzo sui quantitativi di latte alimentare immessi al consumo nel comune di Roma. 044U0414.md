@@ -18,9 +18,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e successive modificazioni;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e successive modificazioni;
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Vsta la deliberazione del Consiglio dei Ministri;
 
@@ -50,7 +50,7 @@ Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, alle 
 
 ## Art. 3.
 
-E' abrogato il [R. decreto-legge 16 novembre 1941, n. 1339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-11-16;1339), convertito in [legge 12 febbraio 1942, n. 170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-12;170).
+E' abrogato il [R. decreto-legge 16 novembre 1941, n. 1339](Pagamento%20a%20carico%20del%20bilancio%20dello%20Stato%20di%20una%20quota%20di%20integrazione%20a%20favore%20dei%20produttori%20delle%20provincie%20dl%20Roma%20Littoria%20Frosinone%20e%20Viterbo%20per%20ogni%20litro%20di%20latte%20alimentare%20im_3ae21d47de8d.md), convertito in [legge 12 febbraio 1942, n. 170](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20novembre%201941-XX%20n.%201339%20concernente%20il%20pagamento%20a%20carico%20del%20bilancio%20dello%20Stato%20di%20una%20quota%20di%20integrazione%20a%20favore%20dei%20produttori%20delle_09a0c973cb68.md).
 
 ## Art. 4.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A deroga parziale delle norme portate dall' art. 4 del regolamento speciale per il personale di 1ª e 2ª categoria dell'Amministrazione delle poste e dei telegrafi, approvato con [R. decreto 16 maggio 1909, numero 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-05-16;341), i supplenti postali telegrafici, assunti in missione in alcuni uffici di 1ª classe delle provincie di Messina e di Reggio Calabria dopo il disastro del 28 dicembre 1908, ed in dipendenza delle condizioni create ai servizi dal disastro medesimo, sono nominati ufficiali d'ordine a L. 1500 alle condizioni seguenti: 
+A deroga parziale delle norme portate dall' art. 4 del regolamento speciale per il personale di 1ª e 2ª categoria dell'Amministrazione delle poste e dei telegrafi, approvato con [R. decreto 16 maggio 1909, numero 341](Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md), i supplenti postali telegrafici, assunti in missione in alcuni uffici di 1ª classe delle provincie di Messina e di Reggio Calabria dopo il disastro del 28 dicembre 1908, ed in dipendenza delle condizioni create ai servizi dal disastro medesimo, sono nominati ufficiali d'ordine a L. 1500 alle condizioni seguenti: 
  
  a) trovarsi essi ancora in servizio nei suddetti uffici di 1ª classe alla data della promulgazione della presente legge, ed avervi prestata l'opera propria per un periodo non inferiore a 180 giorni, dopo il 28 dicembre 1908. Sono considerati in servizio coloro la cui assenza attuale o le eventuali interruzioni sieno dovuti ad obbligo di leva; 
  

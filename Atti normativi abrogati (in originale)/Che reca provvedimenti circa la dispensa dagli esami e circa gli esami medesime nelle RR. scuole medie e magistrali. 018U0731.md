@@ -20,9 +20,9 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 27 giugno 1912, n. 678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;678);
+Vista la [legge 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md);
 
-Visto il regolamento approvato con [R. decreto 22 giugno 1913 n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1217);
+Visto il regolamento approvato con [R. decreto 22 giugno 1913 n. 1217](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md);
 
 Vieti i Nostri decreti 7 gennaio 1917, n. 36, e 24 maggio 1917 n. 969;
 
@@ -32,13 +32,13 @@ Sulla proposta del ministro segretario di stato per la istruzione pubblica; Abbi
 
 ## Art. 1.
 
-In deroga al disposto dell'[art. 2 della legge 27 giugno 1912, n. 678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;678#art_2), e dell'[art 4 del regolamento 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217#art_4), e' confermata per il corrente anno scolastico 1917-918 la concessione della dispensa dagli esami, cosi' di promozione come di licenza, a favore degli alunni di scuole medie e normali e di corsi magistrali, per le materie nelle quali essi conseguiranno classificazioni non inferiori a sei decimi, in profitto e a sette in condotta. 
+In deroga al disposto dell'[art. 2 della legge 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md), e dell'[art 4 del regolamento 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217#art_4), e' confermata per il corrente anno scolastico 1917-918 la concessione della dispensa dagli esami, cosi' di promozione come di licenza, a favore degli alunni di scuole medie e normali e di corsi magistrali, per le materie nelle quali essi conseguiranno classificazioni non inferiori a sei decimi, in profitto e a sette in condotta. 
  
  Saranno parimenti dispensati dall'esame pratico in sede di scrutinio finale, con intervento degli insegnanti delle classi di tirocinio, gli alunni dell'ultima classe di scuola normale o di corso magistrale, che avranno conseguito in attitudine didattica la classificazione di almeno sei decimi, desunta a norma dell'art. 95 del regolamento sopra citato.
 
 ## Art. 2.
 
-In deroga al disposto degli articoli 20 e 21 del regolamento predetto e dell'[art. 6 della legge 14 giugno 1907, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-14;324#art_6), gli alunni e candidati, militari o soggetti a servizio militare potranno presentarsi, a qualsiasi esame senza obbliga di intervallo o di continuita', sempre che nel caso di esami di 2° grado, e salva l'eccezione prevista dall'ultimo comma del citato art. 21, siano forniti di diploma di licenza dalla corrispondente scuola di 1° grado.
+In deroga al disposto degli articoli 20 e 21 del regolamento predetto e dell'[art. 6 della legge 14 giugno 1907, n. 324](Concernente%20disposizione%20per%20gli%20esami%20nelle%20Scuole%20medie%20ed%20elementari%20007U0324.md), gli alunni e candidati, militari o soggetti a servizio militare potranno presentarsi, a qualsiasi esame senza obbliga di intervallo o di continuita', sempre che nel caso di esami di 2° grado, e salva l'eccezione prevista dall'ultimo comma del citato art. 21, siano forniti di diploma di licenza dalla corrispondente scuola di 1° grado.
 
 ## Art. 3.
 

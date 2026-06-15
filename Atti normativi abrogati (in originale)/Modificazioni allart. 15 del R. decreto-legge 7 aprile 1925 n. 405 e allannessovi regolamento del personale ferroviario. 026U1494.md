@@ -36,9 +36,9 @@ L'art. 15 del R. decreto-legge 7 aprile 1925. n. 405, e' sostituito dal seguente
  
  c) per il periodo precedente il 1° marzo 1924, sono considerati come trascorsi nei gradi 10° e 11° gli anni nei quali gli agenti rivestirono rispettivamente la qualifica di applicato o di aiutante applicato, od altra qualifica assimilata; 
  
- d) il disposto dell'[art. 7 del R. decreto 21 ottobre 1923, n. 2580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2580#art_7), viene esteso anche al periodo di servizio militare relativo agli obblighi di leva, prestato durante la guerra 1915-1918; 
+ d) il disposto dell'[art. 7 del R. decreto 21 ottobre 1923, n. 2580](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), viene esteso anche al periodo di servizio militare relativo agli obblighi di leva, prestato durante la guerra 1915-1918; 
  
- e) per gli agenti, comunque sistemati a ruolo con qualifiche che normalmente venivano conferite per pubblico concorso, ai quali per effetto del servizio militare, anche di leva, prestato dopo l'assunzione in servizio come avventizi, e durante la guerra 1915-1918, siano applicabili le disposizioni del [R. decreto 21 ottobre 1923, n. 2580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2580), la nomina a ruolo deve intendersi avvenuta dal giorno di compimento di un anno di servizio continuativo, tenendo conto nel computo anche del servizio prestato alle armi, e in ogni caso mai posteriormente alla decorrenza gia' assegnata alla sistemazione; 
+ e) per gli agenti, comunque sistemati a ruolo con qualifiche che normalmente venivano conferite per pubblico concorso, ai quali per effetto del servizio militare, anche di leva, prestato dopo l'assunzione in servizio come avventizi, e durante la guerra 1915-1918, siano applicabili le disposizioni del [R. decreto 21 ottobre 1923, n. 2580](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), la nomina a ruolo deve intendersi avvenuta dal giorno di compimento di un anno di servizio continuativo, tenendo conto nel computo anche del servizio prestato alle armi, e in ogni caso mai posteriormente alla decorrenza gia' assegnata alla sistemazione; 
  
  f) per gli agenti di cui all'[art. 5 del decreto Luogotenenziale 17 giugno 1919, n. 1129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-17;1129#art_5), che abbiano fatta o meno domanda di iscrizione al ruolo del personale ausiliario, il tempo trascorso dalla data di nomina ad ufficiale viene considerato come trascorso nel grado 10°».
 
@@ -116,7 +116,7 @@ Gli articoli 28, 44, 45, 53, 103, 113, 118 e 119 del regolamento del personale a
  
  «Per le mancanze di cui ai precedenti comma commesse da agenti dei primi due gradi, provvede il Ministro, su proposta del direttore generale. 
  
- «Art. 113. - Per il personale femminile stabile ed in prova, in servizio alla data di applicazione del presente regolamento, e' annullato l'[art. 7 del R. decreto 6 dicembre 1923, n. 2651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-06;2651#art_7), e quindi il tempo trascorso dal 1° marzo 1924 alla data suindicata riprende il suo valore ai soli effetti di anzianita' e di carriera. 
+ «Art. 113. - Per il personale femminile stabile ed in prova, in servizio alla data di applicazione del presente regolamento, e' annullato l'[art. 7 del R. decreto 6 dicembre 1923, n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md), e quindi il tempo trascorso dal 1° marzo 1924 alla data suindicata riprende il suo valore ai soli effetti di anzianita' e di carriera. 
  
  «Le guardabarriere avventizie, che siano state assunte per posti di pianta non oltre il 15 novembre 1921, vengono mantenute in servizio in qualita' di avventizie ordinarie fino ad eliminazione». 
  

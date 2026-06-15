@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il Tribunale delle prede, istituito con il [R. decreto 1° aprile 1941, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-04-01;220), cessera' di funzionare il 30 novembre
+Il Tribunale delle prede, istituito con il [R. decreto 1° aprile 1941, n. 220](Istituzione%20e%20composizione%20del%20Tribunale%20delle%20prede.%20041U0220.md), cessera' di funzionare il 30 novembre
 
 1945.
 

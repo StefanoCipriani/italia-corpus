@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Fino a quando non sara' provveduto al riordinamento dei servizi antincendi, la spesa di gestione dei servizi suddetti a carico dei Comuni ai sensi del [decreto legislativo 21 aprile 1948, n. 630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-21;630), e' determinata annualmente con decreto del Presidente della Repubblica, su proposta del Ministro per l'interno, di concerto con i Ministri per le finanze e per il tesoro. 
+Fino a quando non sara' provveduto al riordinamento dei servizi antincendi, la spesa di gestione dei servizi suddetti a carico dei Comuni ai sensi del [decreto legislativo 21 aprile 1948, n. 630](../Decreti%20Legislativi/Rivalutazione%20delle%20entrate%20della%20Cassa%20sovvenzioni%20antincendi.md), e' determinata annualmente con decreto del Presidente della Repubblica, su proposta del Ministro per l'interno, di concerto con i Ministri per le finanze e per il tesoro. 
  Con il medesimo decreto e' stabilita la quota di tale spesa per ogni Corpo dei vigili del fuoco determinata in rapporto al personale in forza, sia in servizio continuativo che in servizio discontinuo.
 
 ## Art. 2.
@@ -39,7 +39,7 @@ I Comuni che non sono sedi di Corpo o di Distaccamento sono tenuti a versare un 
  Agli effetti della precedente legge si considerano Comuni montani quelli il cui territorio si trova totalmente sopra i 600 metri, o nei quali esiste un dislivello di almeno 600 metri tra il punto piu' alto ed il piu' basso del territorio comunale, quando: 
  a) non siano sede di Corpo e di Distaccamento; 
  b) abbiano popolazione inferiore a 3000 abitanti; 
- c) il reddito imponibile medio per ettaro censito, risultante dalla somma del reddito dominicale e del reddito agrario determinati a norma del [regio decreto-legge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-04;589), convertito nella [legge 29 giugno 1939, n. 976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-29;976), non sia maggiore di lire 200. 
+ c) il reddito imponibile medio per ettaro censito, risultante dalla somma del reddito dominicale e del reddito agrario determinati a norma del [regio decreto-legge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-04;589), convertito nella [legge 29 giugno 1939, n. 976](../DL%20e%20leggi%20di%20conversione/Conversione%20In%20legge%20con%20modificazioni%20del%20R.%20decreto%20legge%204%20aprile%201939%20-%20XVII%20n.%20589%20concernente%20la%20revisione%20generale%20degli%20estimi%20dei%20terreni.%20039U0976.md), non sia maggiore di lire 200. 
  Nei Comuni non montani con popolazione inferiore a 5000 abitanti le frazioni non allacciate con strada rotabile non si computano ai fini della fissazione del contributo.
 
 ## Art. 5.

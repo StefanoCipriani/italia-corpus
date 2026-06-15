@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 16 luglio 1914 n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;665);
+Vista la [legge 16 luglio 1914 n. 665](Riguardante%20provvedimenti%20a%20favore%20della%20Sardegna.%20014U0665.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per la agricoltura, industria e 
 
 ## Art. 1.
 
-E' prorogato fino al 30 giugno 1918 il termine stabilito nell'[art. 27 della legge 16 luglio 1914, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;665#art_27). 
+E' prorogato fino al 30 giugno 1918 il termine stabilito nell'[art. 27 della legge 16 luglio 1914, n. 665](Riguardante%20provvedimenti%20a%20favore%20della%20Sardegna.%20014U0665.md). 
  
  Le spese per la ricerca e la elevazione meccanica di acque ad uso potabile faranno carico al capitolo 197 dello stato di previsione della spesa del Ministero dell'interno per l'esercizio 1914-915 e ai corrispondenti capitoli per gli esercizi successivi. Le somme non impegnate in un esercizio saranno riportate in aumento dello stanziamento dell'esercizio successivo. 
  
@@ -36,7 +36,7 @@ E' prorogato fino al 30 giugno 1918 il termine stabilito nell'[art. 27 della leg
 
 ## Art. 2.
 
-Il [primo comma dell'art. 17 della legge 16 luglio 1914, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;665#art_17-com1), e' applicabile alle spese per missioni, compensi e altre di qualsiasi specie occorrenti per la istruttoria delle domande e per la concessione e somministrazione dei mutui di favore, prescritti dagli articoli 8, 9 e 10 della legge medesima o al concorso dello Stato nella spesa per la perforazione dei pozzi intrapresa da parte di privati nel termine indicato dall'art. 25 della legge stessa.
+Il [primo comma dell'art. 17 della legge 16 luglio 1914, n. 665](Riguardante%20provvedimenti%20a%20favore%20della%20Sardegna.%20014U0665.md), e' applicabile alle spese per missioni, compensi e altre di qualsiasi specie occorrenti per la istruttoria delle domande e per la concessione e somministrazione dei mutui di favore, prescritti dagli articoli 8, 9 e 10 della legge medesima o al concorso dello Stato nella spesa per la perforazione dei pozzi intrapresa da parte di privati nel termine indicato dall'art. 25 della legge stessa.
 
 ## Art. 3.
 

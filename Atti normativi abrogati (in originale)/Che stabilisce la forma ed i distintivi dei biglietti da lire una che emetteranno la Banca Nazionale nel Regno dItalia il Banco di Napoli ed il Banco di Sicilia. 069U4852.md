@@ -12,7 +12,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE 
  
- Veduta la [Legge 3 settembre 1868, n. 4579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1868-09-03;4579); 
+ Veduta la [Legge 3 settembre 1868, n. 4579](Che%20prescrive%20il%20termine%20alla%20Banca%20Nazionale%20di%20far%20rientrare%20i%20suoi%20biglietti%20al%20portatore%20nel%20limite%20di%20750%20milioni.%20068U4579.md); 
  
  Veduto il Regio Decreto del di' 8 novembre 1868, n. 4687; 
  
@@ -34,7 +34,7 @@ Tutti questi tondi sono circondati da una fascia, ornata di stelle chiare su fon
  
  E' stampato sopra carta rossa, che portera' in filigrana la parola Una in lettere maiuscole matte, chiarite tutte intorno da un lucido filetto per ottenerne maggior risalto. 
  
- Il lato superiore del biglietto avra' un ornato composto da otto anelli traversati da una bacchetta; nella circonferenza degli anelli verra' scritto Banco di Napoli; nel centro la cifra 1; nel mezzo poi della bacchetta si vedra' pure scritta sopra una lista nera Una lira; il lato inferiore avra' un ornato simile al superiore, ma nel mezzo vi sara' una lista, su cui verra' scritta la data della [Legge 3 settembre 1868, n. 4579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1868-09-03;4579). I lati verticali avranno una lista nera, su cui sara' scritto Una lira, fiancheggiata da piccoli anelli, in cui si vedra' la cifra 1. 
+ Il lato superiore del biglietto avra' un ornato composto da otto anelli traversati da una bacchetta; nella circonferenza degli anelli verra' scritto Banco di Napoli; nel centro la cifra 1; nel mezzo poi della bacchetta si vedra' pure scritta sopra una lista nera Una lira; il lato inferiore avra' un ornato simile al superiore, ma nel mezzo vi sara' una lista, su cui verra' scritta la data della [Legge 3 settembre 1868, n. 4579](Che%20prescrive%20il%20termine%20alla%20Banca%20Nazionale%20di%20far%20rientrare%20i%20suoi%20biglietti%20al%20portatore%20nel%20limite%20di%20750%20milioni.%20068U4579.md). I lati verticali avranno una lista nera, su cui sara' scritto Una lira, fiancheggiata da piccoli anelli, in cui si vedra' la cifra 1. 
  
  Ai quattro angoli del biglietto vi saranno quattro rosoni, su cui si vedra' la cifra 1 su fondo nero e la stessa cifra piu' piccola ripetuta in otto piccoli anelli. 
  
@@ -63,7 +63,7 @@ Tutti questi tondi sono circondati da una fascia, ornata di stelle chiare su fon
  I due angoli superiori sono occupati da due rosette di forma circolare, dal fondo dei quali, lavorati a sagre', spicca in bianco colle ombre nere la cifra 1. 
  
  Il lato superiore e il lato sinistro sono chiusi da una cornice nera, che porta replicate in bianco le parole Una lira: la cornice che e' base al biglietto, porta la data della Legge cosi' espressa:
-[Legge del 3 settembre 1868, n. 4579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1868-09-03;4579). L'angolo inferiore sinistro e' chiuso da un rabesco in forma di giglio. 
+[Legge del 3 settembre 1868, n. 4579](Che%20prescrive%20il%20termine%20alla%20Banca%20Nazionale%20di%20far%20rientrare%20i%20suoi%20biglietti%20al%20portatore%20nel%20limite%20di%20750%20milioni.%20068U4579.md). L'angolo inferiore sinistro e' chiuso da un rabesco in forma di giglio. 
  
  Nel sommo del biglietto leggonsi in caratteri marcati con ombre chiare le parole: Banco di Sicilia; nel mezzo del biglietto evvi una fascia che alle due estremita' termina con due ornatini, nella quale sono le parole Una lira in caratteri marcati bianchi con ombre nere; in fondo di linee orizzontali marcate sotto questa fascia, cioe' nel luogo ove sono le firme del Revisore e del Cassiere, e' un parallelogramma coi lati piu' brevi di forma irregolare, la di cui cornicetta in nero racchiude un fondo azzurro composto di caratteri piccolissimi, che replica le parole Una lira. In azzurro pure sono: la fascia che e' tra lo spazio delle firme e tra la fascia centrale sopra descritta; il disegno che racchiude il luogo del numero progressivo del biglietto, che e' ad angoli acuti irregolari; e i due spazietti superiori di forma triangolare. 
  

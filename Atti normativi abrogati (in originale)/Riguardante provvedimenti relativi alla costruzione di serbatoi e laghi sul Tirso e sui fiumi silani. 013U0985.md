@@ -30,7 +30,7 @@ Il Governo potra' accordare ai concessionari le agevolazioni:
  
  2° di cui agli articoli 89 e 90 della legge precitata; 
  
- 3° di cui al 2° comma della lettera b dell'art. 146 del testo unico approvato con [R. decreto 20 maggio 1897, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-05-20;217), per gli atti tutti relativi alla concessione, costruzione ed esercizio dei serbatoi e laghi ed opere connesse. 
+ 3° di cui al 2° comma della lettera b dell'art. 146 del testo unico approvato con [R. decreto 20 maggio 1897, n. 217](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20tasse%20di%20registro.%20097U0217.md), per gli atti tutti relativi alla concessione, costruzione ed esercizio dei serbatoi e laghi ed opere connesse. 
  
  Le agevolazioni di cui al n. 2 del presente articolo decorreranno dalla data di ultimazione dei vari gruppi di opere accertata dai competenti uffici tecnici governativi nei termini che saranno stabiliti nei disciplinari delle concessioni.
 
@@ -50,7 +50,7 @@ Ove ne ricorra la opportunita', il Governo e' autorizzato ad affidare ai concess
 
 ## Art. 5.
 
-Ai concessionari potra' essere accordato il diritto di cui all'art. 49 del testo unico di legge approvato con [R. decreto 10 novembre 1907, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-11-10;844). 
+Ai concessionari potra' essere accordato il diritto di cui all'art. 49 del testo unico di legge approvato con [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md). 
  
  Il compenso per l'espropriazione verra' pero' regolato dall'[art. 41 della legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md), ed il reddito netto effettivo sara' calcolato sulla media del quinquennio precedente alla pubblicazione della presente legge. 
  

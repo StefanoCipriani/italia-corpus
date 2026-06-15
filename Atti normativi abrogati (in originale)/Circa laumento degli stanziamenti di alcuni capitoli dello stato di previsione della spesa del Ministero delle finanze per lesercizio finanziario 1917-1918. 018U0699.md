@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 19 novembre 1914, n. 1421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-19;1421), che da' facolta' al Governo di adottare i provvedimenti necessari per la formazione dei testi unici e dei regolamenti generali per le tasse sugli affari; 
+ Visto il [R. decreto 19 novembre 1914, n. 1421](Col%20quale%20e%20data%20facolta%20al%20Governo%20di%20provvedere%20alla%20riunione%20ed%20al%20coordinamento%20in%20separati%20testi%20unici%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20tasse%20sugli%20affari.%20014U1421.md), che da' facolta' al Governo di adottare i provvedimenti necessari per la formazione dei testi unici e dei regolamenti generali per le tasse sugli affari; 
  
  Visto il Nostro decreto 10 gennaio 1918; 
  
- Vista la [legge 31 dicembre 1917, n. 2045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-12-31;2045); 
+ Vista la [legge 31 dicembre 1917, n. 2045](Che%20proroga%20il%20termine%20indicato%20della%20legge%2028%20ottobre%201917%20n.%201751%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20sian_80dd5cff68ce.md); 
  
  Udito il Consiglio dei ministri; 
  

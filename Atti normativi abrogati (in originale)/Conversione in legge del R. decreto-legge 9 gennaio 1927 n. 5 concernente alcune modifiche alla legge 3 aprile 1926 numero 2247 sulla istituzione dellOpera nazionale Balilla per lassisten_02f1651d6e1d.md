@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 gennaio 1927, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-09;5), concernente modifiche alla [legge 3 aprile 1926, n. 2247](Istituzione%20dellOpera%20nazionale%20Balilla%20per%20lassistenza%20e%20leducazione%20fisica%20e%20morale%20della%20gioventu.%20026U2247.md), sulla istituzione dell'Opera nazionale «Balilla» per l'assistenza e l'educazione fisica e morale della gioventu', aggiungendo in fine dell'art. 2 le seguenti parole: «ne' le associazioni ginniche e sportive affiliate a federazioni nazionali, appartenenti al Comitato olimpico nazionale italiano». 
+ E' convertito in legge il [R. decreto-legge 9 gennaio 1927, n. 5](Modificazioni%20alla%20legge%203%20aprile%201926%20n.%202247%20concernente%20la%20istituzione%20dellOpera%20nazionale%20Balilla%20per%20lassistenza%20e%20leducazione%20fisica%20e%20morale%20della%20gioventu.%20027U0005.md), concernente modifiche alla [legge 3 aprile 1926, n. 2247](Istituzione%20dellOpera%20nazionale%20Balilla%20per%20lassistenza%20e%20leducazione%20fisica%20e%20morale%20della%20gioventu.%20026U2247.md), sulla istituzione dell'Opera nazionale «Balilla» per l'assistenza e l'educazione fisica e morale della gioventu', aggiungendo in fine dell'art. 2 le seguenti parole: «ne' le associazioni ginniche e sportive affiliate a federazioni nazionali, appartenenti al Comitato olimpico nazionale italiano». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 18 marzo 1944, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-18;91), che istituisce l'Alto Commissariato civile per la Sicilia;
+Visto il [R. decreto-legge 18 marzo 1944, n. 91](Istituzione%20di%20un%20Alto%20Commissariato%20Civile%20per%20la%20Sicilia.%20044U0091.md), che istituisce l'Alto Commissariato civile per la Sicilia;
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), riguardante la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), riguardante la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
 
 Visto il R. decreto-leggo 29 maggio 1944, n. 141, che istituisce presso la sede del Governo una Sezione speciale di controllo della Corte dei conti;
 
@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio' dei Ministri, Primo Ministro Segret
 
 ## Art. 1.
 
-L'[art. 7 del R. decreto-legge 18 marzo 1944, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-18;91#art_7), e' sostituito dal seguente: 
+L'[art. 7 del R. decreto-legge 18 marzo 1944, n. 91](Istituzione%20di%20un%20Alto%20Commissariato%20Civile%20per%20la%20Sicilia.%20044U0091.md), e' sostituito dal seguente: 
  
  «L'Alto Commissario e' assistito da una Giunta consultiva composta di sei membri, nominati con decreto del Presidente del Consiglio dei Ministri, sentito il Consiglio dei Ministri. 
  

@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 gennaio 1932, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-01-14;275), concernente norme integrative per le assicurazioni obbligatorie per l'invalidita' e la vecchiaia, per la disoccupazione involontaria e contro la tubercolosi. 
+ E' convertito in legge il [R. decreto-legge 14 gennaio 1932, n. 275](Norme%20integrative%20per%20le%20assicurazioni%20obbligatorie%20per%20linvalidita%20e%20la%20vecchiaia%20per%20la%20disoccupazione%20involontaria%20e%20contro%20la%20tubercolosi.%20032U0275.md), concernente norme integrative per le assicurazioni obbligatorie per l'invalidita' e la vecchiaia, per la disoccupazione involontaria e contro la tubercolosi. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 16 giugno 1932 - Anno X 
  

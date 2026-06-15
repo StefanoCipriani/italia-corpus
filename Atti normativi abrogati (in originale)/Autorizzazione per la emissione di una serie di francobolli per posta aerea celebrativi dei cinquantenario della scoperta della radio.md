@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato col [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 
-Visto l'art. 239 del regolamento dei servizi postali (titolo preliminare e parte prima), approvato col [regio decreto 18 aprile 1940, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-18;689);
+Visto l'art. 239 del regolamento dei servizi postali (titolo preliminare e parte prima), approvato col [regio decreto 18 aprile 1940, n. 689](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 

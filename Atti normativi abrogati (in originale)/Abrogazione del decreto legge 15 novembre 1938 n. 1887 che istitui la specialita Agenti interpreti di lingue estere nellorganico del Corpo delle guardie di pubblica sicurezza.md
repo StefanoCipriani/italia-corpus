@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La specialita' "Agenti interpreti di lingue estere", istituita nell'organico del Corpo delle guardie di pubblica sicurezza con [regio decreto-legge 15 novembre 1938, n. 1887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-15;1887), e' soppressa.
+La specialita' "Agenti interpreti di lingue estere", istituita nell'organico del Corpo delle guardie di pubblica sicurezza con [regio decreto-legge 15 novembre 1938, n. 1887](Istituzione%20della%20specialita%20Agenti%20interpreti%20di%20lingue%20estere%20nellorganico%20del%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20038U1887.md), e' soppressa.
  Le disposizioni del decreto-legge suindicato sono abrogate.
 
 ## Art. 2.

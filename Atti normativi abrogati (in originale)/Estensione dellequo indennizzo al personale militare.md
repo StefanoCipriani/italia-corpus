@@ -26,7 +26,7 @@ L'equo indennizzo spettante ai militari e' liquidato con decreto ministeriale in
 
 ## Art. 3.
 
-Per la concessione dell'equo indennizzo si applicano le norme previste per gli impiegati civili dello Stato dagli [articoli da 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686#art_50) [a 60 del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686#art_60), ad eccezione delle disposizioni concernenti l'invio degli atti al consiglio di amministrazione.
+Per la concessione dell'equo indennizzo si applicano le norme previste per gli impiegati civili dello Stato dagli [articoli da 50](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md) [a 60 del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), ad eccezione delle disposizioni concernenti l'invio degli atti al consiglio di amministrazione.
 
 ## Art. 4.
 

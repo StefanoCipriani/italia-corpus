@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1605](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1605), concernente la sistemazione del Consorzio delle scuole professionali per la maestranza marittima, con la seguente motivazione: 
+ E convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1605](Sistemazione%20del%20Consorzio%20per%20le%20Scuole%20professionali%20per%20le%20maestranze%20marittime.%20033U1605.md), concernente la sistemazione del Consorzio delle scuole professionali per la maestranza marittima, con la seguente motivazione: 
  
  L'art. 4 e' sostituito dal seguente: 
  

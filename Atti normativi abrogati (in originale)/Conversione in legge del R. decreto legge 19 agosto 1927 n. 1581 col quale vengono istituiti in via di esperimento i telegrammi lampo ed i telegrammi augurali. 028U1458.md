@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 agosto 1927, n. 1581](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-19;1581), col quale vengono istituite, in via di esperimento, le categorie dei «telegrammi lampo» e dei «telegrammi augurali». 
+ E' convertito in legge il [R. decreto-legge 19 agosto 1927, n. 1581](Istituzione%20dei%20telegrammi%20lampo%20ed%20innovazioni%20alle%20tariffe%20telegrafiche%20interne.%20027U1581.md), col quale vengono istituite, in via di esperimento, le categorie dei «telegrammi lampo» e dei «telegrammi augurali». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 7 marzo 1940, n. 339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-03-07;339), e successive modificazioni;
+Visto il [R. decreto 7 marzo 1940, n. 339](Norme%20concernenti%20lammissione%20ai%20corsi%20allievi%20sottufficiali%20presso%20la%20Scuola%20centrale%20dei%20carabinieri%20Reali.%20040U0339.md), e successive modificazioni;
 
-Visto il [decreto legislativo Luogotenenziale 21 Agosto 1945, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;518);
+Visto il [decreto legislativo Luogotenenziale 21 Agosto 1945, n. 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -162,7 +162,7 @@ Agli effetti del primo comma del precedente art. 15, per combattente della guerr
 
 ## Art. 17.
 
-Qualora alla data del concorso non siano state ancora definitivamente riconosciute, a norma del [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;518),le qualifiche di partigiano combattente e di patriota di cui alla lettera a) del precedente art. 16, saranno ammessi i candidati muniti di certificati provvisori rilasciati a tale scopo dalle commissioni competenti.
+Qualora alla data del concorso non siano state ancora definitivamente riconosciute, a norma del [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md),le qualifiche di partigiano combattente e di patriota di cui alla lettera a) del precedente art. 16, saranno ammessi i candidati muniti di certificati provvisori rilasciati a tale scopo dalle commissioni competenti.
  Sara' in facolta' del comandante della Scuola di dimettere dai corsi gli allievi che non abbiano conseguito il certificato definitivo.
 
 ## Art. 18.

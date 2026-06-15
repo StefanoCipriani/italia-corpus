@@ -12,15 +12,15 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'[art. 2111 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2111);
 
-Visto il [regio decreto-legge 1° aprile 1935, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-01;343) e successive modificazioni, concernenti il trattamento del personale statale e degli enti pubblici richiamati alle armi per mobilitazione;
+Visto il [regio decreto-legge 1° aprile 1935, n. 343](Trattamento%20al%20personale%20statale%20e%20degli%20enti%20pubblici%20richiamato%20alle%20armi%20per%20mobilitazione.%20035U0343.md) e successive modificazioni, concernenti il trattamento del personale statale e degli enti pubblici richiamati alle armi per mobilitazione;
 
 Vista la [legge 10 giugno 1940, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-10;653) e successive modificazioni, concernenti il trattamento degli impiegati privati richiamati alle armi;
 
-Visto il [decreto legislativo luogotenenziale 5 maggio 1946, n. 418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-05;418), concernente la conservazione del posto agli impiegati delle classi 1924, 1925, 1926, chiamati alle armi;
+Visto il [decreto legislativo luogotenenziale 5 maggio 1946, n. 418](../Decreti%20legislativi%20luogotenenziali/Conservazione%20del%20posto%20agli%20impiegati%20delle%20classi%201924%201925%20e%201926%20chiamati%20alle%20armi.md), concernente la conservazione del posto agli impiegati delle classi 1924, 1925, 1926, chiamati alle armi;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista, la deliberazione del Consiglio dei Ministri;
 
@@ -51,7 +51,7 @@ La vigilanza per l'applicazione del presente decreto e' affidata all'Ispettorato
 
 ## Art. 6.
 
-Il [decreto legislativo luogotenenziale 5 maggio 1946, n. 418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-05;418), e' abrogato.
+Il [decreto legislativo luogotenenziale 5 maggio 1946, n. 418](../Decreti%20legislativi%20luogotenenziali/Conservazione%20del%20posto%20agli%20impiegati%20delle%20classi%201924%201925%20e%201926%20chiamati%20alle%20armi.md), e' abrogato.
 
 ## Art. 7.
 

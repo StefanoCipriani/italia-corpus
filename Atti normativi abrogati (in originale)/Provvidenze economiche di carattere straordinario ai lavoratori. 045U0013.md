@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), riguardante l'assemblea per la nuova costituzione dello Stato, il giuramento dei membri del Governo della facolta' del Governo di emanare norme giuridiche;
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), modificato con il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141), concernente norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), modificato con il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md), concernente norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
 
 Visto l'accordo concluso il 22 dicembre 1944 fra alcune associazioni di prestatori d'opera e di datori di lavoro di fatto attualmente esistenti relativo a provvidenze economiche di carattere straordinario ai lavoratori;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per l'industria, commercio e lavoro, di concerto con
 
 ## Art. 1.
 
-I datori di lavoro devono corrispondere ai propri dipendenti, aventi qualifica impiegatizia ai sensi del [R. decreto-legge 13 novembre 1924, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-13;1825), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562), oltre la 13a mensilita', nella misura dovuta in base a norme, convenzioni ed infine, una gratifica straordinaria per l'anno 1944, pari all'ammontare mensile dell'indennita' di carovita e di presenza, e, quando sia prevista o in fatto corrisposta, anche della indennita' di mensa.
+I datori di lavoro devono corrispondere ai propri dipendenti, aventi qualifica impiegatizia ai sensi del [R. decreto-legge 13 novembre 1924, n. 1825](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), oltre la 13a mensilita', nella misura dovuta in base a norme, convenzioni ed infine, una gratifica straordinaria per l'anno 1944, pari all'ammontare mensile dell'indennita' di carovita e di presenza, e, quando sia prevista o in fatto corrisposta, anche della indennita' di mensa.
 
 ## Art. 2.
 
@@ -50,7 +50,7 @@ I datori di lavoro dell'agricoltura devono corrispondere per l'anno 1944:
 
 ## Art. 5.
 
-La misura e le modalita' per la corresponsione della gratifica straordinaria per l'anno 1944 al personale navigante della marina mercantile libera, sia da carico che da passeggeri, tanto a propulsione meccanica che a vela, e della pesca meccanica, saranno stabilite con decreto Luogotenenziale su proposta del Ministro per l'industria, il commercio ed il lavoro, ai sensi dell'[articolo 1, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3). 
+La misura e le modalita' per la corresponsione della gratifica straordinaria per l'anno 1944 al personale navigante della marina mercantile libera, sia da carico che da passeggeri, tanto a propulsione meccanica che a vela, e della pesca meccanica, saranno stabilite con decreto Luogotenenziale su proposta del Ministro per l'industria, il commercio ed il lavoro, ai sensi dell'[articolo 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md). 
  
  Per il personale navigante delle societa' di navigazione esercenti servizi di preminente interesse nazionale che per il personale si e' navigante sia amministrativo delle societa' sovvenzionate esercenti servizi locali sara' provveduto, ai fini di cui al comma precedente, a termini delle speciali leggi che regolano gli enti predetti. 
  

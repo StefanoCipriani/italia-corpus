@@ -10,17 +10,17 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077);
+Visto il [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](../DPR/Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md);
 
-Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), e successive modificazioni;
 
 Vista la [legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312);
 
-Visto il [decreto-legge 6 giugno 1981, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-06-06;283), convertito, con modificazioni, nella [legge 6 agosto 1981, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-06;432);
+Visto il [decreto-legge 6 giugno 1981, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-06-06;283), convertito, con modificazioni, nella [legge 6 agosto 1981, n. 432](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20giugno%201981%20n.%20283%20concernente%20copertura%20finanziaria%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20di%20attuazione%20degli%20accordi%20con_2423a780c289.md);
 
-Visti gli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-06-09;310#art_9) e [14 del decreto del Presidente della Repubblica 9 giugno 1981, n. 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-06-09;310#art_14);
+Visti gli [articoli 9](../DPR/Corresponsione%20di%20miglioramenti%20economici%20al%20personale%20statale.md) e [14 del decreto del Presidente della Repubblica 9 giugno 1981, n. 310](../DPR/Corresponsione%20di%20miglioramenti%20economici%20al%20personale%20statale.md);
 
 Visto il decreto del Presidente del Consiglio dei Ministri 7 febbraio 1981, registrato alla Corte dei conti il 6 agosto 1981, registro 7 Presidenza foglio n. 106, recante norme per la disciplina dell'inquadramento nei ruoli speciali delle amministrazioni dello Stato e le tabelle di equiparazione tra le qualifiche dell'ordinamento statale e le posizioni giuridiche rivestite dal personale negli ordinamenti di provenienza;
 
@@ -28,12 +28,12 @@ Sulla proposta del Ministro delle finanze di concerto con il Ministro del tesoro
 
 ## Art. 1.
 
-In attesa che si provveda alla rideterminazione, per ogni qualifica, delle dotazioni organiche delle singole amministrazioni statali, in attuazione del disposto degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_5) e [133 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_133), e' istituito presso il Ministero delle finanze, con decorrenza 1 gennaio 1981, il ruolo speciale previsto dall'[articolo 24-quinquies del decreto-legge 30 dicembre 1979, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663#art_24quinquies), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33).
+In attesa che si provveda alla rideterminazione, per ogni qualifica, delle dotazioni organiche delle singole amministrazioni statali, in attuazione del disposto degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_5) e [133 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_133), e' istituito presso il Ministero delle finanze, con decorrenza 1 gennaio 1981, il ruolo speciale previsto dall'[articolo 24-quinquies del decreto-legge 30 dicembre 1979, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663#art_24quinquies), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201979%20n.%20663%20concernente%20provvedimenti%20per%20il%20finanziamento%20del%20Servizio%20sanitario%20nazionale%20per%20la%20previdenza%20per%20il%20c_9d4821b80b65.md).
 
 ## Art. 2.
 
 La dotazione organica del ruolo speciale di cui al precedente articolo e' fissata nella tabella allegata al presente decreto.
- Nel ruolo speciale e' inquadrato il personale di cui al [terzo comma dell'art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663#art_24quinquies-com3), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33), come integrato dall'[art. 21 della legge 20 marzo 1980, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-20;75#art_21), assegnato agli uffici centrali e periferici del Ministero.
+ Nel ruolo speciale e' inquadrato il personale di cui al [terzo comma dell'art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663#art_24quinquies-com3), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201979%20n.%20663%20concernente%20provvedimenti%20per%20il%20finanziamento%20del%20Servizio%20sanitario%20nazionale%20per%20la%20previdenza%20per%20il%20c_9d4821b80b65.md), come integrato dall'[art. 21 della legge 20 marzo 1980, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-20;75#art_21), assegnato agli uffici centrali e periferici del Ministero.
 
 ## Art. 3.
 

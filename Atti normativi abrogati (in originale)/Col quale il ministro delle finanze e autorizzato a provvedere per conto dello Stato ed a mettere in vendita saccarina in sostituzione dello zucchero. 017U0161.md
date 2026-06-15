@@ -56,7 +56,7 @@ Per gli acquisti cosi' all'interno che all'estero della saccarina e suoi sali, d
 
 ## Art. 9.
 
-Salvo quanto sara' disposto in esecuzione del presente decreto, rimangono in vigore le disposizioni della [legge 15 maggio 1890, n. 6858](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-05-15;6858) (serie 3ª). 
+Salvo quanto sara' disposto in esecuzione del presente decreto, rimangono in vigore le disposizioni della [legge 15 maggio 1890, n. 6858](Che%20converte%20il%20R.%20decreto%2029%20settembre%201889%20n.%206407%20Serie%203ª%20riguardante%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinati.%20090U6858.md) (serie 3ª). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

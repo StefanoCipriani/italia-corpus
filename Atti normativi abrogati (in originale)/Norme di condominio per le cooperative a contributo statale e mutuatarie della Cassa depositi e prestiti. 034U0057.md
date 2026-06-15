@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 30 novembre 1919, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-30;23)l8, che approva il [testo unico delle leggi sull'edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380) popolare ed economica e le successive disposizioni in materia;
+Visto il [R. decreto-legge 30 novembre 1919, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-30;23)l8, che approva il [testo unico delle leggi sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica e le successive disposizioni in materia;
 
 Considerata l'assoluta urgenza e necessita' che siano emanate norme dirette a disciplinare il condominio nelle cooperative edilizie a contributo statale e mutuo della Cassa depositi e prestiti;
 
@@ -304,13 +304,13 @@ Per quanto riguarda la disciplina per il miglior uso delle parti comuni del cond
 
 La Cassa depositi e prestiti, in caso di inadempimento da parte dei condomini, potra' assicurarsi la riscossione delle quote mensili e degli interessi di mora per le quote scadute mediante prelevamento sugli assegni e sulle pensioni nei riguardi dei condomini stessi che siano stipendiati o pensionati. 
  
- Per tutti gli altri, e per gli stessi impiegati o pensionati, nell'ipotesi di insufficienza dei loro assegni o pensioni, la Cassa, in caso di mancato pagamento, procedera' a termini dell'[art. 15 del decreto-legge 7 ottobre 1923, n. 2412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-10-07;2412#art_15), convertito nella [legge 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985), salvo in ogni caso il disposto dell'art. 37. 
+ Per tutti gli altri, e per gli stessi impiegati o pensionati, nell'ipotesi di insufficienza dei loro assegni o pensioni, la Cassa, in caso di mancato pagamento, procedera' a termini dell'[art. 15 del decreto-legge 7 ottobre 1923, n. 2412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-10-07;2412#art_15), convertito nella [legge 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), salvo in ogni caso il disposto dell'art. 37. 
  
  Il Consiglio di amministrazione della cooperativa potra' provocare l'intervento della Cassa depositi e prestiti perche' con le stesse norme sia assicurato il pagamento delle quote mensili di manutenzione ordinaria e straordinaria e delle altre dovute dai condomini in virtu' delle presenti « Norme » nonche' dei relativi interessi di mora.
 
 ### Art. 36.
 
-Contro il condomino di alloggio cooperativo che si renda moroso per due volte della quota di ammortamento e degli accessori, la Cassa depositi e prestiti e' autorizzata a eseguire la trattenuta sullo stipendio e sulla pensione con effetto continuativo per le rate scadute e da scadere a norma dell'[art. 65, secondo comma, del R. decreto 12 marzo 1908, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-03-12;151#art_65-com2). 
+Contro il condomino di alloggio cooperativo che si renda moroso per due volte della quota di ammortamento e degli accessori, la Cassa depositi e prestiti e' autorizzata a eseguire la trattenuta sullo stipendio e sulla pensione con effetto continuativo per le rate scadute e da scadere a norma dell'[art. 65, secondo comma, del R. decreto 12 marzo 1908, n. 151](Che%20approva%20il%20regolamento%20di%20esecuzione%20alla%20legge%2011%20luglio%201907%20n.%20502%20portante%20provvedimenti%20per%20la%20citta%20di%20Roma.%20008U0151.md). 
  
  Qualora l'assegnatario non sia provvisto di stipendio o di pensione, la Cassa depositi puo' eseguire la trattenuta sulla cauzione costituita a garanzia del pagamento delle quote obbligando l'assegnatario alla reintegrazione di detta cauzione.
 

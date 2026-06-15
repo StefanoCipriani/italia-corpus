@@ -18,7 +18,7 @@ Visti gli [articoli 4 della legge 26 settembre 1920, n. 1322, 3](https://www.nor
 
 Visto il [R. decreto-legge 17 ottobre 1922, n. 1353](Concernente%20la%20sistemazione%20politica%20ed%20amministrativa%20delle%20nuove%20Provincie.%20022U1353.md);
 
-Visto il [R. decreto 18 gennaio 1925, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-18;403);
+Visto il [R. decreto 18 gennaio 1925, n. 403](Sistemazione%20della%20gente%20di%20mare%20della%20Venezia%20Giulia.%20025U0403.md);
 
 Ritenuta la urgente e assoluta necessita' di adottare nuove norme per la sistemazione dei macchinisti navali delle nuove Provincie:
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro per le comunicazioni di concerto col Ministro
 
 ## Art. 1.
 
-Il termine fissato nell'[art. 6 del R. decreto 18 gennaio 1925, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-18;403#art_6), e' esteso per gli esami a macchinisti di seconda classe fino al 31 ottobre 1934 e per gli esami a macchinisti di prima classe al 31 ottobre 1937. 
+Il termine fissato nell'[art. 6 del R. decreto 18 gennaio 1925, n. 403](Sistemazione%20della%20gente%20di%20mare%20della%20Venezia%20Giulia.%20025U0403.md), e' esteso per gli esami a macchinisti di seconda classe fino al 31 ottobre 1934 e per gli esami a macchinisti di prima classe al 31 ottobre 1937. 
  Saranno tenute in ogni anno presso le Direzioni marittime di Trieste e di Fiume due sessioni di esami nei mesi di maggio e di settembre. 
  E' in facolta' del Ministro per le comunicazioni di autorizzare, ove occorra, anche sessioni straordinarie di esami.
 
@@ -45,7 +45,7 @@ La validita' del certificato provvisorio rilasciato ai macchinisti di 3ª classe
 
 ## Art. 4.
 
-Restano immutate le altre disposizioni de [R. decreto 18 gennaio 1925, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-18;403).
+Restano immutate le altre disposizioni de [R. decreto 18 gennaio 1925, n. 403](Sistemazione%20della%20gente%20di%20mare%20della%20Venezia%20Giulia.%20025U0403.md).
 
 ## Art. 5.
 

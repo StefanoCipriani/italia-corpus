@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Nella parte II dell'allegato 8 alle «Tariffe e condizioni pei trasporti sulle ferrovie dello Stato», di cui alla [legge 27 aprile 1885, n. 3048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-04-27;3048) (serie 3ª), allegato E, e successive varianti, sono apportate le modificazioni seguenti: 
+Nella parte II dell'allegato 8 alle «Tariffe e condizioni pei trasporti sulle ferrovie dello Stato», di cui alla [legge 27 aprile 1885, n. 3048](Concernente%20lesercizio%20delle%20reti%20Mediterranea%20Adriatica%20e%20Sicula%20e%20costruzione%20delle%20strade%20ferrate%20complementari.%20085U3048.md) (serie 3ª), allegato E, e successive varianti, sono apportate le modificazioni seguenti: 
  
  a) il secondo capoverso dell'art. 3 del capo I e' cosi modificato: 
  

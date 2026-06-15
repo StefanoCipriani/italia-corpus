@@ -10,15 +10,15 @@ vigente: true
 
 ## Art. 1.
 
-Quando gli ufficiali ammiragli specialisti direzionali abbiano raggiunto il numero di due consentito dalla tabella approvata con [R. decreto 10 dicembre 1908, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-12-10;742), e modificata con il [R. decreto 13 agosto 1909, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-13;639), e ad un capitano di vascello specialista direzionale possa spettare, a termini delle disposizioni in vigore, l'avanzamento al grado superiore, si potra' far luogo a tale promozione conferendo ad uno dei contrammiragli specialisti direzionali la carica di contrammiraglio vice direttore generale di artiglieria ed armamenti presso il Ministero della marina, prevista dal Nostro decreto 25 luglio 1915, n. 1184.
+Quando gli ufficiali ammiragli specialisti direzionali abbiano raggiunto il numero di due consentito dalla tabella approvata con [R. decreto 10 dicembre 1908, n. 742](Che%20stabilisce%20i%20posti%20di%20specialisti%20direzionali%20tra%20gli%20ufficiali%20del%20corpo%20dello%20stato%20maggiore%20generale.%20008U0742.md), e modificata con il [R. decreto 13 agosto 1909, n. 639](Che%20modifica%20la%20tabella%20dei%20posti%20che%20possono%20essere%20occupati%20dagli%20ufficiali%20del%20corpo%20dello%20stato%20maggiore%20della%20R.%20marina%20specialisti%20direzionali.%20009U0639.md), e ad un capitano di vascello specialista direzionale possa spettare, a termini delle disposizioni in vigore, l'avanzamento al grado superiore, si potra' far luogo a tale promozione conferendo ad uno dei contrammiragli specialisti direzionali la carica di contrammiraglio vice direttore generale di artiglieria ed armamenti presso il Ministero della marina, prevista dal Nostro decreto 25 luglio 1915, n. 1184.
 
 ## Art. 2.
 
-Nel caso contemplato dal precedente articolo il ruolo organico dei contrammiragli s'intendera' aumentato di un posto, restando in corrispondenza diminuito di uno il numero organico dei capitani di vascello e contemporaneamente la tabella, approvata dall'[art. 2 del Regio decreto 10 dicembre 1908, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-12-10;742#art_2), e' diminuita di un posto di capitano di vascello specialista direzionale capo divisione della Direzione generale di artiglieria ed armamenti.
+Nel caso contemplato dal precedente articolo il ruolo organico dei contrammiragli s'intendera' aumentato di un posto, restando in corrispondenza diminuito di uno il numero organico dei capitani di vascello e contemporaneamente la tabella, approvata dall'[art. 2 del Regio decreto 10 dicembre 1908, n. 742](Che%20stabilisce%20i%20posti%20di%20specialisti%20direzionali%20tra%20gli%20ufficiali%20del%20corpo%20dello%20stato%20maggiore%20generale.%20008U0742.md), e' diminuita di un posto di capitano di vascello specialista direzionale capo divisione della Direzione generale di artiglieria ed armamenti.
 
 ## Art. 3.
 
-La tabella dei posti che, a termini del [R. decreto 10 dicembre 1908, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-12-10;742), possono essere occupati da ufficiali specialisti direzionali, e' alimentata di due capitani di fregata e di due capitani di corvetta, come segue: 
+La tabella dei posti che, a termini del [R. decreto 10 dicembre 1908, n. 742](Che%20stabilisce%20i%20posti%20di%20specialisti%20direzionali%20tra%20gli%20ufficiali%20del%20corpo%20dello%20stato%20maggiore%20generale.%20008U0742.md), possono essere occupati da ufficiali specialisti direzionali, e' alimentata di due capitani di fregata e di due capitani di corvetta, come segue: 
  
 
  / 1 capo dell'ufficio studi presso la
@@ -38,7 +38,7 @@ La tabella dei posti che, a termini del [R. decreto 10 dicembre 1908, n. 742](ht
  \ marina presso stabilimenti privati.
 
  
- Per la prima attuazione di questo articolo valgono le norme degli articoli 146 e 147 del regolamento approvato con [R. decreto 4 settembre 1898, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-09-04;444).
+ Per la prima attuazione di questo articolo valgono le norme degli articoli 146 e 147 del regolamento approvato con [R. decreto 4 settembre 1898, n. 444](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md).
 
 ## Art. 4.
 

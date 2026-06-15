@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni legislative sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-07;2007), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e successive modificazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-La Scuola di comando, di cui all'art. 42 del testo unico delle disposizioni legislative sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-07;2007), e successive modificazioni, e' sospesa. 
+La Scuola di comando, di cui all'art. 42 del testo unico delle disposizioni legislative sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e successive modificazioni, e' sospesa. 
  
  I tenenti di vascello possono essere scrutinati e promossi indipendentemente dall'aver frequentato la predetta Scuola. Lo scrutinio continua ad aver luogo per corso d'uscita dalla Regia Accademia navale, ma col criterio della scelta comparativa. Per esso non occorrono schede individuali.
 

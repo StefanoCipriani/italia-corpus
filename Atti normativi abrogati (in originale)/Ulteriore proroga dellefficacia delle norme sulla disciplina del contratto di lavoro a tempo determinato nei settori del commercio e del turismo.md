@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Le norme di cui al [decreto-legge 3 dicembre 1977, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-12-03;876), convertito, con modificazioni, nella [legge 3 febbraio 1978, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-02-03;18), concernenti la disciplina del contratto di lavoro a tempo determinato nei settori del commercio e del turismo e prorogate con la [legge 24 novembre 1978, n. 737](Proroga%20dellefficacia%20delle%20norme%20sulla%20disciplina%20del%20contratto%20di%20lavoro%20a%20tempo%20determinato%20nei%20settori%20del%20commercio%20e%20del%20turismo.md), sono ulteriormente prorogate fino alla entrata in vigore di una nuova disciplina legislativa in materia di collocamento.
+Le norme di cui al [decreto-legge 3 dicembre 1977, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-12-03;876), convertito, con modificazioni, nella [legge 3 febbraio 1978, n. 18](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20dicembre%201977%20n.%20876%20concernente%20la%20disciplina%20del%20contratto%20di%20lavoro%20a%20tempo%20determinato%20nei%20settori%20del%20commercio%20e%20del%20turismo.md), concernenti la disciplina del contratto di lavoro a tempo determinato nei settori del commercio e del turismo e prorogate con la [legge 24 novembre 1978, n. 737](Proroga%20dellefficacia%20delle%20norme%20sulla%20disciplina%20del%20contratto%20di%20lavoro%20a%20tempo%20determinato%20nei%20settori%20del%20commercio%20e%20del%20turismo.md), sono ulteriormente prorogate fino alla entrata in vigore di una nuova disciplina legislativa in materia di collocamento.
 
 ## Art. 2.
 

@@ -18,9 +18,9 @@ IMPERATORE D'ETIOPIA
 
 Vista la [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e le norme di attuazione 1° luglio 1926, n. 1130;
 
-Vista la legge 5 giugno 1850, n. 1037, e il relativo regolamento approvato con [R. decreto 26 giugno 1864, n. 1817](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1864-06-26;1817);
+Vista la legge 5 giugno 1850, n. 1037, e il relativo regolamento approvato con [R. decreto 26 giugno 1864, n. 1817](Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
 
-Vista la [legge 21 giugno 1896, n. 218](Riflettente%20laccettazione%20da%20parte%20delle%20Provincie%20Comuni%20e%20Istituzioni%20pubbliche%20di%20lasciti%20o%20donazioni%20di%20qualsiasi%20natura%20o%20valore.%20096U0218.md), e il relativo regolamento approvato con [R. decreto 26 luglio 1896, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-07-26;361);
+Vista la [legge 21 giugno 1896, n. 218](Riflettente%20laccettazione%20da%20parte%20delle%20Provincie%20Comuni%20e%20Istituzioni%20pubbliche%20di%20lasciti%20o%20donazioni%20di%20qualsiasi%20natura%20o%20valore.%20096U0218.md), e il relativo regolamento approvato con [R. decreto 26 luglio 1896, n. 361](Che%20conferisce%20ai%20Prefetti%20la%20competenza%20ad%20autorizzare%20le%20Provincie%20i%20Comuni%20e%20le%20istituzioni%20pubbliche%20di%20beneficenza%20ad%20accettare%20lasciti%20e%20donazioni%20e%20ad%20acquistare%20stabili.%20096U0361.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

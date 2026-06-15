@@ -32,7 +32,7 @@ Gli utili dell'esercizio provvisorio per conto dello Stato saranno versati al Te
 
 ## Art. 4.
 
-Le modalita' e le condizioni per la cessione in uso al concessionario del materiale rotabile approvvigionato dallo Stato a mente dell'[art. 4 del regio decreto-legge 3 giugno 1938, n. 828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-03;828#art_4), convertito nella [legge 5 gennaio 1939, n. 24](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20giugno%201938-XVI%20n.%20828%20per%20la%20costruzione%20e%20per%20lesercizio%20della%20ferrovia%20per%20lEsposizione%20universale%20ed%20internazionale%20di%20Roma.%20039U0024.md), saranno regolate con gli atti di concessione di cui al precedente art. 2.
+Le modalita' e le condizioni per la cessione in uso al concessionario del materiale rotabile approvvigionato dallo Stato a mente dell'[art. 4 del regio decreto-legge 3 giugno 1938, n. 828](Costruzione%20ed%20esercizio%20della%20ferrovia%20per%20lEsposizione%20universale%20ed%20internazionale%20di%20Roma.%20038U0828.md), convertito nella [legge 5 gennaio 1939, n. 24](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20giugno%201938-XVI%20n.%20828%20per%20la%20costruzione%20e%20per%20lesercizio%20della%20ferrovia%20per%20lEsposizione%20universale%20ed%20internazionale%20di%20Roma.%20039U0024.md), saranno regolate con gli atti di concessione di cui al precedente art. 2.
 
 ## Art. 5.
 

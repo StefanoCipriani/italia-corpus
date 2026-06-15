@@ -23,7 +23,7 @@ Qualita' delle merci
 
 ## Art. 2.
 
-Alle merci ammesse alla temporanea importazione come speciali agevolezze per il traffico internazionale, previste dall'[art. 19 del R. decreto-legge 18 dicembre 1913, n. 1453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-12-18;1453#art_19), convertito nella legge 17 aprile 1925-III, n. 473, sono aggiunti gli involucri di maglie di fibra artificiale (recipienti) contenenti matassine (dette comunemente «focaccette») di fibre artificiali temporaneamente importate per essere ritorte e tinte, da riesportare pieni di dette matassine od anche vuoti.
+Alle merci ammesse alla temporanea importazione come speciali agevolezze per il traffico internazionale, previste dall'[art. 19 del R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella legge 17 aprile 1925-III, n. 473, sono aggiunti gli involucri di maglie di fibra artificiale (recipienti) contenenti matassine (dette comunemente «focaccette») di fibre artificiali temporaneamente importate per essere ritorte e tinte, da riesportare pieni di dette matassine od anche vuoti.
 
 ## Art. 3.
 

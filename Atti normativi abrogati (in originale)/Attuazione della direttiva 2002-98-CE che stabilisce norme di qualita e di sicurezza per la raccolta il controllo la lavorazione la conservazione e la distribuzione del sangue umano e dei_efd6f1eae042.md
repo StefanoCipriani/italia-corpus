@@ -16,13 +16,13 @@ Vista la [legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive
 
 Vista la [direttiva 2002/98/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;98), che stabilisce norme di qualita' e di sicurezza per la raccolta, il controllo, la lavorazione, la conservazione e la distribuzione del sangue umano e dei suoi componenti e che modifica la [direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83);
 
-Vista la [legge 31 ottobre 2003, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-10-31;306), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 2003);
+Vista la [legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202003.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 2003);
 
 Visti i [decreti legislativi 24 febbraio 1997, n. 46, e 8 settembre 2000, n. 332](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2098-79-CE%20relativa%20ai%20dispositivi%20medico-diagnostici%20in%20vitro.md);
 
 Vista la [legge 4 maggio 1990, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-04;107), recante disciplina per le attivita' trasfusionali relative al sangue umano ed ai suoi componenti, e per la produzione di plasmaderivati;
 
-Visto il [decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502), concernente riordino della disciplina in materia sanitaria a norma dell'[articolo 1 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_1), e successive modificazioni;
+Visto il [decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), concernente riordino della disciplina in materia sanitaria a norma dell'[articolo 1 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), e successive modificazioni;
 
 Visto il [decreto del Ministro della sanita' 17 luglio 1997, n. 308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1997-07-17;308), concernente regolamento recante norme per la disciplina dei compiti di coordinamento a livello nazionale delle attivita' dei centri di coordinamento e compensazione in materia di sangue ed emoderivati;
 

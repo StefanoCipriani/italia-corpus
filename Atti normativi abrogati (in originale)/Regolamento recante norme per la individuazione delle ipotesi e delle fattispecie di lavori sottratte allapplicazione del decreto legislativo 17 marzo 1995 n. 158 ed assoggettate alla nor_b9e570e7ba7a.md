@@ -36,7 +36,7 @@ Il presente decreto disciplina, ai sensi dell'[articolo 8, comma 6, del decreto 
 
 2.
 
-Ai lavori individuati sulla base del criterio di cui alla prima parte del comma precedente ed a quelli indicati al successivo articolo 2 si applicano le disposizioni di cui alla [legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109), e successive modificazioni ed integrazioni, nonche' delle altre leggi anche regionali, dei regolamenti e delle normative tecniche in materia di lavori pubblici.
+Ai lavori individuati sulla base del criterio di cui alla prima parte del comma precedente ed a quelli indicati al successivo articolo 2 si applicano le disposizioni di cui alla [legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni ed integrazioni, nonche' delle altre leggi anche regionali, dei regolamenti e delle normative tecniche in materia di lavori pubblici.
 
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto ai
@@ -79,7 +79,7 @@ Avvertenza:
  Note all'art. 1: 
  - Per il testo dell'art. 8, comma 6, del citato [D.Lgs. 17 marzo 1995, n. 158](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2090-531-CEE%20e%2093-38-CEE%20relative%20alle%20procedure%20di%20appalti%20nei%20settori%20esclusi.md), si veda nelle note alle premesse. 
  - Per il testo degli articoli da 3 a 6 del citato [D.Lgs. 17 marzo 1995, n. 158](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2090-531-CEE%20e%2093-38-CEE%20relative%20alle%20procedure%20di%20appalti%20nei%20settori%20esclusi.md), si veda nelle note alle premesse. 
- - La [legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109), reca: "Legge quadro in materia di lavori pubblici".
+ - La [legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), reca: "Legge quadro in materia di lavori pubblici".
 
 ## Art. 2. — Lavori il cui contenuto specialistico e tecnico non e' direttamente  condizionato dalle specificita' tecniche proprie dei settori di cui agli articoli da 3 a 6 del decreto legislativo 17 marzo 1995, n. 158, 
  e come tali esclusi dall'applicazione delle disposizioni in esso 

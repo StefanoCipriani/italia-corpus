@@ -18,9 +18,9 @@ Vista la [legge 7 aprile 1921, n. 610](Che%20converte%20in%20legge%20il%20R.%20d
 
 Visto lo statuto annesso alla legge stessa;
 
-Visto il [R. decreto 18 gennaio 1923, n. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-18;171);
+Visto il [R. decreto 18 gennaio 1923, n. 171](Che%20modifica%20lo%20statuto%20dellEnte%20nazionale%20per%20le%20industrie%20turistiche.%20023U0171.md);
 
-Visto il [R. decreto 6 settembre 1923, n. 2125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-06;2125), concernente la costituzione e l'ordinamento degli uffici e dei servizi del Ministero dell'economia nazionale;
+Visto il [R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), concernente la costituzione e l'ordinamento degli uffici e dei servizi del Ministero dell'economia nazionale;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale;
 
@@ -28,11 +28,11 @@ Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Lo statuto dell'Ente nazionale per le industrie turistiche annesso alla [legge 7 aprile 1921, n. 610](Che%20converte%20in%20legge%20il%20R.%20decreto%2012%20ottobre%201919%20n.%202099%20relativa%20alla%20istituzione%20dellEnte%20nazionale%20per%20lincremento%20delle%20industrie%20turistiche.%20021U0610.md), modificato con [R. decreto 18 gennaio 1923, n. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-18;171), e' modificato come appresso: 
+Lo statuto dell'Ente nazionale per le industrie turistiche annesso alla [legge 7 aprile 1921, n. 610](Che%20converte%20in%20legge%20il%20R.%20decreto%2012%20ottobre%201919%20n.%202099%20relativa%20alla%20istituzione%20dellEnte%20nazionale%20per%20lincremento%20delle%20industrie%20turistiche.%20021U0610.md), modificato con [R. decreto 18 gennaio 1923, n. 171](Che%20modifica%20lo%20statuto%20dellEnte%20nazionale%20per%20le%20industrie%20turistiche.%20023U0171.md), e' modificato come appresso: 
  
  Le parole Ministro o Ministero dell'industria e commercio s'intendono sostituite in ogni parte del detto statuto rispettivamente con le parole Ministro e Ministero dell'economia nazionale. 
  
- La disposizione dell'[art. 4 del R. decreto 18 gennaio 1923, n. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-18;171#art_4), e' abrogata. I consiglieri che in applicazione della disposizione predetta facciano tuttora parte del Consiglio di amministrazione dell'Ente cessano dalle loro funzioni. 
+ La disposizione dell'[art. 4 del R. decreto 18 gennaio 1923, n. 171](Che%20modifica%20lo%20statuto%20dellEnte%20nazionale%20per%20le%20industrie%20turistiche.%20023U0171.md), e' abrogata. I consiglieri che in applicazione della disposizione predetta facciano tuttora parte del Consiglio di amministrazione dell'Ente cessano dalle loro funzioni. 
  
  Il presente decreto entra in vigore alla data della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge. 
  

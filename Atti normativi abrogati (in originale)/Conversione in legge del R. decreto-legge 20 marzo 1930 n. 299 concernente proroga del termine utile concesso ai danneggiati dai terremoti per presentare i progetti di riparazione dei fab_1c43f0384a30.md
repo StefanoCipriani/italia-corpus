@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 marzo 1930, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-20;299), che concede proroga al termine utile per presentare i progetti di riparazione dei fabbricati danneggiati dal terremoto. 
+ E' convertito in legge il [R. decreto-legge 20 marzo 1930, n. 299](Proroga%20del%20termine%20utile%20concesso%20ai%20danneggiati%20dal%20terremoti%20per%20presentare%20i%20progetti%20di%20riparazione%20dei%20fabbricati.%20030U0299.md), che concede proroga al termine utile per presentare i progetti di riparazione dei fabbricati danneggiati dal terremoto. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1808), riflettente il quantitativo delle banane di origine dalle Colonie italiane che possono essere importate nel Regno in esenzione da dazio doganale. 
+ E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1808](Quantitativo%20delle%20banane%20di%20origine%20dalle%20Colonie%20italiane%20che%20possono%20essere%20importate%20nel%20Regno%20in%20esenzione%20da%20dazio%20doganale.%20027U1808.md), riflettente il quantitativo delle banane di origine dalle Colonie italiane che possono essere importate nel Regno in esenzione da dazio doganale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

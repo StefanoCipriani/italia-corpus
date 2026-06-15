@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'art. 73 della legge sul lotto 5 giugno 1939, n. 973, modificato dall'[art. 3 del decreto legislativo Presidenziale 27 giugno 1946, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;122#art_3), dall'[art. 1 del decreto legislativo del Capo provvisorio dello Stato 10 dicembre 1947, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-10;1741#art_1), e dall'[art. 1 del decreto legislativo 7 maggio 1948, n. 717](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;717#art_1), e' sostituito dal seguente:
+L'art. 73 della legge sul lotto 5 giugno 1939, n. 973, modificato dall'[art. 3 del decreto legislativo Presidenziale 27 giugno 1946, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;122#art_3), dall'[art. 1 del decreto legislativo del Capo provvisorio dello Stato 10 dicembre 1947, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-10;1741#art_1), e dall'[art. 1 del decreto legislativo 7 maggio 1948, n. 717](../Decreti%20Legislativi/Modificazioni%20alle%20leggi%20sul%20lotto%20pubblico%20e%20miglioramenti%20economici%20al%20personale%20del%20lotto.md), e' sostituito dal seguente:
  "L'organico del personale addetto a prestare servizio nelle ricevitorie del lotto in qualita' di aiuto ricevitore e' fissato nel numero massimo complessivo di 2800 unita'.
  Gli aiuto ricevitori vengono assegnati alle ricevitorie, tenuto conto dell'importanza di esse, in relazione al numero delle giuocate ed all'importo degli incassi".
 

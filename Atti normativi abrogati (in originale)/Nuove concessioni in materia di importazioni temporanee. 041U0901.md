@@ -32,7 +32,7 @@ c) gomma lacca naturale per essere sbianchita.
 
 ## Art. 3.
 
-La concessione prevista dal [R. decreto-legge 4 aprile 1935, n. 495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-04;495), convertito nella legge 13 giugno 1935-XIII, n. 1221, per la temporanea importazione dei cilindri di rame per la stampa usati per essere levigati e reincisi, e' estesa, alle stesse norme e condizioni, ai cilindri di acciaio o di altri metalli e leghe diverse, destinati alla stessa lavorazione.
+La concessione prevista dal [R. decreto-legge 4 aprile 1935, n. 495](Nuove%20concessioni%20di%20temporanee%20importazioni.%20035U0495.md), convertito nella legge 13 giugno 1935-XIII, n. 1221, per la temporanea importazione dei cilindri di rame per la stampa usati per essere levigati e reincisi, e' estesa, alle stesse norme e condizioni, ai cilindri di acciaio o di altri metalli e leghe diverse, destinati alla stessa lavorazione.
 
 ## Art. 4.
 

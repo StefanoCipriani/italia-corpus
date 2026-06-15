@@ -28,7 +28,7 @@ All'[articolo 87 del testo unico, 21 febbraio 1895, numero 70](https://www.norma
 
 Le disposizioni contenute nella presente legge sono applicabili a tutti gli ufficiali in essa contemplati che siano stati ricollocati in congedo dopo il 24 maggio 1915, nonche' alle loro famiglie. 
  
- Agli ufficiali predetti ed alle loro famiglie, sono estese li disposizioni dal [R. decreto 18 novembre 1920, numero 1626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-18;1626) con effetto da una data non anteriore al 1° ottobre 1919. 
+ Agli ufficiali predetti ed alle loro famiglie, sono estese li disposizioni dal [R. decreto 18 novembre 1920, numero 1626](Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md) con effetto da una data non anteriore al 1° ottobre 1919. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

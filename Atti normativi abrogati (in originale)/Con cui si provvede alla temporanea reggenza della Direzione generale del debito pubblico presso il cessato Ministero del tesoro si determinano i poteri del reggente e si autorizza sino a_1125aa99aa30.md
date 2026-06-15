@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  Visto il Nostro decreto in data odierna col quale il gr. uff.
 Giuseppe Garbazzi, direttore generale del debito pubblico, e' collocato a riposo a decorrere dal 29 gennaio 1923; 
  
- Considerato che l'Amministrazione del debito pubblico, ai termini delle proprie norme regolatrici, ha funzionamento autonomo affidato alla responsabilita' del direttore generale, come risulta dall'[art. 52 del testo unico delle leggi sul debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_52), approvato con Nostro decreto 17 luglio 1910, n. 536, e dagli articoli 1 e [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir::decreto:1910-07-17;536#art_2) del relativo regolamento approvato con nostro decreto 19 febbraio 1911, n. 298; 
+ Considerato che l'Amministrazione del debito pubblico, ai termini delle proprie norme regolatrici, ha funzionamento autonomo affidato alla responsabilita' del direttore generale, come risulta dall'[art. 52 del testo unico delle leggi sul debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con Nostro decreto 17 luglio 1910, n. 536, e dagli articoli 1 e [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir::decreto:1910-07-17;536#art_2) del relativo regolamento approvato con nostro decreto 19 febbraio 1911, n. 298; 
  
  Ritenuto pertanto che e' necessario affidare la reggenza temporanea ad un funzionario responsabile; 
  

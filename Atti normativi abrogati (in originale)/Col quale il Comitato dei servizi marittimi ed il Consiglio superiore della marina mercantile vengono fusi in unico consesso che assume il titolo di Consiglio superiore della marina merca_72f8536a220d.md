@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il Comitato dei servizi marittimi istituito presso il Ministero della marina dall'[art. 9 della legge 30 giugno 1912, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-30;685#art_9), ed il Consiglio superiore della marina mercantile istituito e composto con le norme del testo unico approvato con decreto Ministeriale del 6 luglio 1913, sono fusi in un unico Consesso che assume il nome di Consiglio superiore della marina mercantile.
+Il Comitato dei servizi marittimi istituito presso il Ministero della marina dall'[art. 9 della legge 30 giugno 1912, n. 685](Che%20porta%20disposizioni%20sui%20servizi%20marittimi%20sovvenzionati.%20012U0685.md), ed il Consiglio superiore della marina mercantile istituito e composto con le norme del testo unico approvato con decreto Ministeriale del 6 luglio 1913, sono fusi in un unico Consesso che assume il nome di Consiglio superiore della marina mercantile.
 
 ## Art. 2.
 
@@ -18,7 +18,7 @@ Le questioni che, a termine delle disposizioni vigenti in materia, dovevano o po
 
 ## Art. 3.
 
-Al Comitato permanente del Consiglio superiore della marina mercantile, di cui all'[art. 4 del R. decreto 23 febbraio 1913, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-02-23;165#art_4), e' aggiunto l'ispettore generale dei servizi marittimi.
+Al Comitato permanente del Consiglio superiore della marina mercantile, di cui all'[art. 4 del R. decreto 23 febbraio 1913, n. 165](Col%20quale%20viene%20modificata%20la%20composizione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20013U0165.md), e' aggiunto l'ispettore generale dei servizi marittimi.
 
 ## Art. 4.
 

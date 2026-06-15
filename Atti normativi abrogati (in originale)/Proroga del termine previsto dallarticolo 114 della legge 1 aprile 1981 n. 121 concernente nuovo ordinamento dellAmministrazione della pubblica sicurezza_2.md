@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 1.
 
-Il termine di cui all'[articolo 114 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_114), concernente nuovo ordinamento dell'Amministrazione della pubblica sicurezza, prorogato da ultimo dall'[articolo 1 del decreto-legge 18 aprile 1986, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-04-18;118#art_1), convertito, con modificazioni, dalla [legge 17 giugno 1986, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-17;284), e' ulteriormente prorogato di un anno.
+Il termine di cui all'[articolo 114 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_114), concernente nuovo ordinamento dell'Amministrazione della pubblica sicurezza, prorogato da ultimo dall'[articolo 1 del decreto-legge 18 aprile 1986, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-04-18;118#art_1), convertito, con modificazioni, dalla [legge 17 giugno 1986, n. 284](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20aprile%201986%20n.%20118%20recante%20proroga%20del%20divieto%20di%20iscrizione%20ai%20partiti%20politici%20per%20gli%20appartenenti%20alle%20forze%20di%20polizia.md), e' ulteriormente prorogato di un anno.
 
 ## Art. 2.
 

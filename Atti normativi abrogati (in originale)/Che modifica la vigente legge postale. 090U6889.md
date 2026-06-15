@@ -94,7 +94,7 @@ Le frazioni di cinque centesimi, che risultino dalla tassazione delle corrispond
 
 ## Art. 17.
 
-Le disposizioni degli articoli 268 a 272 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) si applicano anche, ove si tratti di francobolli postali di Stati esteri, compresi nell'Unione universale delle poste.
+Le disposizioni degli articoli 268 a 272 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche, ove si tratti di francobolli postali di Stati esteri, compresi nell'Unione universale delle poste.
 
 ## Art. 18.
 

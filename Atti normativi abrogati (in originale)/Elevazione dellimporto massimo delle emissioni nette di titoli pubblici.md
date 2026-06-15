@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 2, comma 9, della legge 5 agosto 1978, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_2-com9);
+Visto l'[articolo 2, comma 9, della legge 5 agosto 1978, n. 468](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md);
 
-Visto l'[articolo 3, comma 4, della legge 28 dicembre 1995, n. 551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;551#art_3-com4), concernente il bilancio di previsione dello Stato per l'anno 1996 e bilancio pluriennale per il triennio 1996-1998;
+Visto l'[articolo 3, comma 4, della legge 28 dicembre 1995, n. 551](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%201996%20e%20bilancio%20pluriennale%20per%20il%20triennio%201996-1998.md), concernente il bilancio di previsione dello Stato per l'anno 1996 e bilancio pluriennale per il triennio 1996-1998;
 
 Visto l'[articolo 2 della legge 8 agosto 1996, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;419#art_2), recante disposizioni per l'assestamento del bilancio dello Stato e delle aziende autonome per l'anno finanziario 1996;
 
@@ -30,7 +30,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il [comma 4 dell'articolo 3 della legge 28 dicembre 1995, n. 551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;551#art_3-com4), e' sostituito dal seguente: " 4. L'importo massimo di emissione di titoli pubblici, in Italia e all'estero, al netto di quelli da rimborsare e quelli per regolazioni debitorie, e' stabilito in lire 130.000 miliardi".
+Il [comma 4 dell'articolo 3 della legge 28 dicembre 1995, n. 551](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%201996%20e%20bilancio%20pluriennale%20per%20il%20triennio%201996-1998.md), e' sostituito dal seguente: " 4. L'importo massimo di emissione di titoli pubblici, in Italia e all'estero, al netto di quelli da rimborsare e quelli per regolazioni debitorie, e' stabilito in lire 130.000 miliardi".
 
 ## Art. 2.
 

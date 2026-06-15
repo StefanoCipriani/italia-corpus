@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
-Visto il [regio decreto 9 dicembre 1926, n. 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-12-09;2480);
+Visto il [regio decreto 9 dicembre 1926, n. 2480](Regolamento%20per%20i%20concorsi%20a%20cattedre%20nei%20Regi%20istituti%20medi%20distruzione%20e%20per%20le%20abilitazioni%20allesercizio%20professionale%20dellinsegnamento%20medio.%20026U2480.md);
 
 Visto il regio decreto 27 gennaio 1833, n. 153;
 
-Visto il [regio decreto 5 luglio 1934, n. 1185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-05;1185);
+Visto il [regio decreto 5 luglio 1934, n. 1185](Regolamento%20per%20i%20concorsi%20a%20cattedre%20nelle%20Regie%20scuole%20e%20nei%20Regi%20istituti%20distruzione%20media%20tecnica.%20034U1185.md);
 
 Visto il [regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27);
 
@@ -24,7 +24,7 @@ Visto il [decreto legislativo luogotenenziale 26 marzo 1948, n. 141](https://www
 
 Visto il decreto-legge luogotenenziale 25 giugno 18414, n. 1511;
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio del Ministri;
 
@@ -83,7 +83,7 @@ Le disposizioni di cui ai precedenti articoli si applicano anche al primo concor
 
 ## Art. 10.
 
-I posti di vice segretario economo, di assistente, di tecnico agrario, di censore di disciplina, di capofficina, di istruttore pratico e di maestra di laboratorio negli istituti e scuole di istruzione tecnica, accantonati ai sensi del [regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27), saranno conferiti, per meta' mediante concorso per titoli, al quale potranno essere ammessi a partecipare coloro che abbiano superato le prove di esame di in precedente analogo concorso, secondo le disposizioni contenute nei [regi decreti 27 gennaio 1933, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-27;153), e [16 ottobre 1934, n. 1840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;1840), e per l'altra meta' mediante concorso per esami.
+I posti di vice segretario economo, di assistente, di tecnico agrario, di censore di disciplina, di capofficina, di istruttore pratico e di maestra di laboratorio negli istituti e scuole di istruzione tecnica, accantonati ai sensi del [regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27), saranno conferiti, per meta' mediante concorso per titoli, al quale potranno essere ammessi a partecipare coloro che abbiano superato le prove di esame di in precedente analogo concorso, secondo le disposizioni contenute nei [regi decreti 27 gennaio 1933, n. 153](Approvazione%20del%20regolamento%20per%20i%20concorsi%20ai%20posti%20di%20direttore%20insegnante%20ed%20istruttore%20pratico%20nelle%20Regie%20scuole%20e%20nei%20Regi%20corsi%20secondari%20di%20avviamento%20professionale.%20033U0153.md), e [16 ottobre 1934, n. 1840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;1840), e per l'altra meta' mediante concorso per esami.
  Le stesse norme si applicano al primo concorso ordinario per i detti posti che sara' bandito nel termine di cui al precedente art. 9.
 
 ## Art. 11.
@@ -93,22 +93,22 @@ Qualora i posti da conferire mediante i concorsi per titoli di cui agli articoli
 
 ## Art. 12.
 
-I posti di segretario negli istituti di istruzione media, classica, scientifica e magistrale, di applicato negli istituti e scuole di istruzione tecnica, di prefetto di disciplina negli istituti e scuole tecniche agrarie, di sottocapofficina e di sottomaestra di laboratorio negli istituti e scuole di istruzione tecnica, disponibili alla data di entrata in vigore del presente decreto, saranno conferiti, in deroga alle disposizioni dei [regi decreti 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-27;2367) e [16 ottobre 1934, n. 1840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;1840), per mezzo di concorsi per titoli.
+I posti di segretario negli istituti di istruzione media, classica, scientifica e magistrale, di applicato negli istituti e scuole di istruzione tecnica, di prefetto di disciplina negli istituti e scuole tecniche agrarie, di sottocapofficina e di sottomaestra di laboratorio negli istituti e scuole di istruzione tecnica, disponibili alla data di entrata in vigore del presente decreto, saranno conferiti, in deroga alle disposizioni dei [regi decreti 27 novembre 1924, n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md) e [16 ottobre 1934, n. 1840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;1840), per mezzo di concorsi per titoli.
 
 ## Art. 13.
 
-L'[art. 2 della legge 31 maggio 1943, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-05-31;570#art_2), e' modificato nel senso che al concorso a posti di direttore didattico possono partecipare:
+L'[art. 2 della legge 31 maggio 1943, n. 570](Collocamento%20dei%20direttori%20didattici%20nel%20grado%209%20gruppo%20B%20sistemazione%20dei%20maestri%20elementari%20incaricati%20della%20direzione%20didattica%20delle%20scuole%20rurali%20e%20passaggio%20alla%20diretta%20amministraz_932ef8d3b66a.md), e' modificato nel senso che al concorso a posti di direttore didattico possono partecipare:
  a) i maestri di ruolo che si trovino da almeno tre anni nel grado di ordinario e che siano provvisti del diploma di abilitazione alla vigilanza scolastica, ovvero della laurea in pedagogia o in materie letterarie rilasciata dalla Facolta' di magistero;
  b) i maestri che, essendo sforniti di uno dei titoli indicati nella precedente lettera a), abbiano prestato non meno di dodici anni di servizio di ruolo.
 
 ## Art. 14.
 
-E' abrogata la disposizione dell'[art. 9 della legge 1° giugno 1942, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-06-01;675#art_9), concernente la distinzione delle sedi principali e secondarie.
+E' abrogata la disposizione dell'[art. 9 della legge 1° giugno 1942, n. 675](Inquadramento%20degli%20insegnanti%20dellordine%20elementare%20nel%20gruppo%20B%20dellordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20042U0675.md), concernente la distinzione delle sedi principali e secondarie.
  L'[art. 122, lettera c) del testo unico 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1928-02-05;577#art_122-letc), e' modificato nel senso che sono ammessi ai concorsi per posti di maestro elementare, anche se eccedono il prescritto limite massimo di eta', oltre alle categorie indicate nella lettera c) dell'articolo citato, e salvo l'osservanza delle altre disposizioni emanate in materia, coloro che abbiano prestato servizio di provvisorio o supplente nelle scuole elementari statali, o, comunque, servizio di straordinario, avventizio o simile, nelle Amministrazioni dello Stato, quando la durata del servizio stesso, riscattabile agli effetti della pensione, non sia inferiore alla eccedenza della loro eta' rispetto al limite predetto.
 
 ## Art. 15.
 
-In relazione al numero dei candidati ai concorsi a cattedre negli istituti di istruzione media ed a posti di insegnante elementare, possono essere costituite Commissioni giudicatrici con un numero di componenti superiore a quello stabilito dal [regio decreto 26 maggio 1942, n. 739, e dall'art. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-26;739#art_271) del regolamento generale, approvato con [regio decreto 26 aprile 1928, n. 1207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1207), modificato dal [regio decreto 26 aprile 1931, n. 945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-04-26;945), e dal [regio decreto 11 agosto 1933, n. 1206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-11;1206).
+In relazione al numero dei candidati ai concorsi a cattedre negli istituti di istruzione media ed a posti di insegnante elementare, possono essere costituite Commissioni giudicatrici con un numero di componenti superiore a quello stabilito dal [regio decreto 26 maggio 1942, n. 739, e dall'art. 271](Modificazione%20del%20numero%20dei%20membri%20delle%20Commissioni%20giudicatrici%20dei%20concorsi-esami%20di%20Stato%20per%20linsegnamento%20negli%20Istituti%20dellordine%20medio%20e%20degli%20ordini%20superiori%20tecnico%20e%20classico.%20042U0739.md) del regolamento generale, approvato con [regio decreto 26 aprile 1928, n. 1207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1207), modificato dal [regio decreto 26 aprile 1931, n. 945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-04-26;945), e dal [regio decreto 11 agosto 1933, n. 1206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-11;1206).
  Dette Commissioni potranno suddividersi in sotto commissioni che, per quanto riguarda gli istituti e scuole di istruzione media, attenderanno allo svolgimento delle operazioni dei concorsi in sedi da stabilire.
 
 ## Art. 16.

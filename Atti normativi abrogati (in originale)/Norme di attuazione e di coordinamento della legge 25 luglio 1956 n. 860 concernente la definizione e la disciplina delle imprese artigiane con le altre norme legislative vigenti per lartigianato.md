@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 25 luglio 1956, n. 860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-25;860), contenente norme per la definizione e la disciplina delle imprese artigiane;
+Vista la [legge 25 luglio 1956, n. 860](Norme%20per%20la%20disciplina%20giuridica%20delle%20imprese%20artigiane.md), contenente norme per la definizione e la disciplina delle imprese artigiane;
 
 Udito il parere della Commissione parlamentare costituita a norma dell'art. 5 della predetta legge n. 860;
 
@@ -26,7 +26,7 @@ CAPO I
 
 ### Art. 1.
 
-La concessione delle agevolazioni previste anche da norme precedenti a favore delle imprese artigiane, comunque individuate, e' disposta, ai termini dell'art. 9, ultimo comma, della [legge 25 luglio 1956, n. 860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-25;860), a decorrere dal 18 novembre 1957, unicamente nei, riguardi di quelle imprese che risultino iscritte nell'albo di cui allo stesso art. 9.
+La concessione delle agevolazioni previste anche da norme precedenti a favore delle imprese artigiane, comunque individuate, e' disposta, ai termini dell'art. 9, ultimo comma, della [legge 25 luglio 1956, n. 860](Norme%20per%20la%20disciplina%20giuridica%20delle%20imprese%20artigiane.md), a decorrere dal 18 novembre 1957, unicamente nei, riguardi di quelle imprese che risultino iscritte nell'albo di cui allo stesso art. 9.
  Rimangono invariati, a norma, dell'art. 20 della stessa legge n. 860, i criteri di applicazione delle provvidenze in materia tributaria e di assegni familiari.
  Fino alla data del 18 novembre 1957, restano in vigore le attuali disposizioni per il riconoscimento della qualifica artigiana ai fini delle agevolazioni disposte a favore delle imprese artigiane.
  Le provvidenze gia' concesse o che siano concesse entro tale data a favore delle imprese riconosciute artigiane in base alle disposizioni precedenti alla stessa legge n. 860, non potranno essere revocate e durano fino alla loro normale scadenza.
@@ -47,7 +47,7 @@ Sono considerati artistici, tradizionali e dell'abbigliamento su misura, ai fini
 
 Ogni impresa che, avendo i requisiti previsti dagli articoli 1, 2, 3, 4 e 6 della legge n. 860, presenti domanda alla Commissione provinciale per l'artigianato del luogo in cui l'attivita' artigiana e' esercitata, ha diritto al riconoscimento della qualifica artigiana e alla conseguente iscrizione nell'albo provinciale.
  A tal fine, il titolare dell'impresa dovra' allegare alla domanda ogni documento che egli ritenga utile alla esatta individuazione della propria attivita' professionale e la Commissione provinciale potra' svolgere tutti gli accertamenti, anche diretti, che giudichi opportuni circa il possesso, da parte dell'impresa richiedente, dei requisiti prescritti dalla legge per il riconoscimento della qualifica artigiana.
- La domanda d'iscrizione nell'albo sostituisce l'obbligo della denuncia previsto dall'[art. 47 del regio decreto 20 settembre 1934, n. 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;2011#art_47), per la iscrizione nel registro delle ditte, ed e' esente da bollo, ai sensi dell'[art. 81 del regio decreto 4 gennaio 1925, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-04;29#art_81).
+ La domanda d'iscrizione nell'albo sostituisce l'obbligo della denuncia previsto dall'[art. 47 del regio decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), per la iscrizione nel registro delle ditte, ed e' esente da bollo, ai sensi dell'[art. 81 del regio decreto 4 gennaio 1925, n. 29](Approvazione%20del%20regolamento%20generale%20per%20lattuazione%20del%20R.%20decreto-legge%208%20maggio%201924%20n.%20750%20sullordinamento%20delle%20Camere%20di%20commercio%20e%20industria%20del%20Regno.%20025U0029.md).
 La domanda deve essere o presentata direttamente alla segreteria
 della Commissione provinciale, o inoltrata alla medesima, sia mediante raccomandata con ricevuta di ritorno, sia per il tramite del Comune di residenza del richiedente. La segreteria della Commissione o il segretario comunale devono rilasciare ricevuta della presentazione della domanda.
 
@@ -135,7 +135,7 @@ Ai sensi dell'art. 17, comma terzo, della legge n. 860, sono istituite, in seno 
 
 ### Art. 17.
 
-Ai componenti il Comitato centrale dell'artigianato e delle sue Sezioni, ad eccezione di quelli indicati dalle lettere b) e c) del primo comma dell'art. 18 della legge n. 860, ai consultori ed ai tecnici previsti dal secondo e terzo comma dello stesso articolo 18, al segretario ed ai vice segretari spetta un gettone di presenza nella misura fissata dal [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;5).
+Ai componenti il Comitato centrale dell'artigianato e delle sue Sezioni, ad eccezione di quelli indicati dalle lettere b) e c) del primo comma dell'art. 18 della legge n. 860, ai consultori ed ai tecnici previsti dal secondo e terzo comma dello stesso articolo 18, al segretario ed ai vice segretari spetta un gettone di presenza nella misura fissata dal [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](../DPR/Compensi%20ai%20componenti%20delle%20Commissioni%20Consigli%20Comitati%20o%20Collegi%20operanti%20nelle%20Amministrazioni%20statali%20anche%20con%20ordinamento%20autonomo%20e%20delle%20Commissioni%20giudicatrici%20dei%20concorsi%20di_6b5a1d3e573d.md).
  I componenti del Comitato che non facciano parte dell'Amministrazione dello Stato e che abbiano diritto al gettone di presenza, agli effetti delle indennita' di viaggio e di soggiorno sono equiparati ai funzionari statali con qualifica di direttore di divisione, per l'intervento alle adunanze del Comitato e delle Sezioni, nonche' per le missioni loro conferite in relazione ad esigenze strettamente inerenti ai fini istituzionali del Comitato stesso.
 
 ### Art. 18.
@@ -156,7 +156,7 @@ Entro il giorno 8 novembre 1956 sara' nominata in ciascuna Provincia, con decret
 
 ### Art. 20.
 
-La Commissione prevista dall'art. 21, secondo comma, lettera c) della legge n. 860, e' nominata dal prefetto, entro il 23 dicembre 1956, con le modalita' di cui all'[art. 9, comma secondo, del decreto legislativo luogotenenziale 21 settembre 1944, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-21;315#art_9-com2).
+La Commissione prevista dall'art. 21, secondo comma, lettera c) della legge n. 860, e' nominata dal prefetto, entro il 23 dicembre 1956, con le modalita' di cui all'[art. 9, comma secondo, del decreto legislativo luogotenenziale 21 settembre 1944, n. 315](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dei%20Consigli%20e%20degli%20Uffici%20provinciali%20delleconomia%20e%20istituzione%20delle%20Camere%20di%20commercio%20industria%20e%20agricoltura%20nonche%20degli%20Uffici%20provinciali%20del%20commercio%20e%20dellindus_d702b8b2a697.md).
  Essa assiste, con funzioni consultive, il commissario nelle operazioni per la compilazione delle liste e nelle altre operazioni elettorali ed e' composta di undici titolari di imprese artigiane, scelti in rappresentanza dei mestieri piu' importanti esercitati nella Provincia.
  Qualora il commissario ritenga di non uniformarsi al parere espresso dalla Commissione, il provvedimento emesso deve essere motivato.
 

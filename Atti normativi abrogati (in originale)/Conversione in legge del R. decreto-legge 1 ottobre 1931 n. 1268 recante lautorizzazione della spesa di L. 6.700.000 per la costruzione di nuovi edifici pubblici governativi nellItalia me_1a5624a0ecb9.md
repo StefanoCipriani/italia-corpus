@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° ottobre 1931, n. 1268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-01;1268), recante l'autorizzazione della spesa di L. 6.700.000 per la costruzione di nuovi edifici pubblici governativi nell'Italia meridionale ed insulare. 
+ E' convertito in legge il [R. decreto-legge 1° ottobre 1931, n. 1268](Autorizzazione%20di%20spesa%20per%20lesecuzione%20di%20edifici%20pubblici%20governativi%20nellItalia%20meridionale%20ed%20insulare.%20031U1268.md), recante l'autorizzazione della spesa di L. 6.700.000 per la costruzione di nuovi edifici pubblici governativi nell'Italia meridionale ed insulare. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

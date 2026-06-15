@@ -62,7 +62,7 @@ E' autorizzata la spesa di lire 2.500.000, da inscrivere nello stato di previsio
 
 ## Art. 8.
 
-Il Ministro per le finanze e' autorizzato ad applicare con proprio decreto e con le modalita' che riterra' necessarie le disposizioni del [Regio decreto-legge 12 febbraio 1925, n. 213](Condono%20di%20mutui%20concessi%20al%20comune%20di%20Venezia%20ai%20termini%20dei%20decreti%20Luogotenenziali%2025%20giugno%201915%20n.%20988%20e%2018%20maggio%201916%20n.%20743.%20025U0213.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), alle anticipazioni alla Provincia ed al comune di Vicenza, concesse in base ai [decreti Luogotenenziali 27 giugno 1915, n. 988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;988), [18 maggio 1916, n. 743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-18;743), e successive modifiche, e non ancora recuperate.
+Il Ministro per le finanze e' autorizzato ad applicare con proprio decreto e con le modalita' che riterra' necessarie le disposizioni del [Regio decreto-legge 12 febbraio 1925, n. 213](Condono%20di%20mutui%20concessi%20al%20comune%20di%20Venezia%20ai%20termini%20dei%20decreti%20Luogotenenziali%2025%20giugno%201915%20n.%20988%20e%2018%20maggio%201916%20n.%20743.%20025U0213.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), alle anticipazioni alla Provincia ed al comune di Vicenza, concesse in base ai [decreti Luogotenenziali 27 giugno 1915, n. 988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;988), [18 maggio 1916, n. 743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-18;743), e successive modifiche, e non ancora recuperate.
 
 ## Art. 9.
 
@@ -98,13 +98,13 @@ La retribuzione oraria del servizio straordinario prestato negli uffici esecutiv
 
 ## Art. 15.
 
-Le disposizioni contenute nel [R. decreto 21 gennaio 1935, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-01-21;13), riguardante l'istituzione di un posto di commesso capo nel ruolo del personale subalterno dell'Amministrazione centrale di ciascun Ministero, con le modifiche di cui all'[art. 9 del R. decreto-legge 4 marzo 1937, n. 304](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20finanziaria.%20037U0304.md), si applicano anche al ruolo del personale subalterno della Presidenza del Consiglio dei Ministri. 
+Le disposizioni contenute nel [R. decreto 21 gennaio 1935, n. 13](Istituzione%20di%20posti%20di%20commesso%20capo%20e%20di%20capo%20agente%20tecnico%20nel%20ruolo%20del%20personale%20subalterno%20dellAmministrazione%20centrale%20di%20Ciascun%20Ministero.%20035U0013.md), riguardante l'istituzione di un posto di commesso capo nel ruolo del personale subalterno dell'Amministrazione centrale di ciascun Ministero, con le modifiche di cui all'[art. 9 del R. decreto-legge 4 marzo 1937, n. 304](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20finanziaria.%20037U0304.md), si applicano anche al ruolo del personale subalterno della Presidenza del Consiglio dei Ministri. 
  
  Questo articolo ha vigore dal primo giorno del mese successivo a quello della pubblicazione del presente decreto nella Gazzetta Ufficiale del Regno.
 
 ## Art. 16.
 
-Il [2° comma dell'art. 2 del R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258#art_2-com2), convertito nella [legge 6 dicembre 1928, n. 3474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;3474), e' cosi' modificato con effetto dal 1° luglio 1938-XVI: 
+Il [2° comma dell'art. 2 del R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258#art_2-com2), convertito nella [legge 6 dicembre 1928, n. 3474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201927%20n.%202258%20relativo%20allautonomia%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20028U3474.md), e' cosi' modificato con effetto dal 1° luglio 1938-XVI: 
  
  «In caso di assenza del Ministro, il Consiglio di amministrazione e' presieduto dal Sottosegretario di Stato per le finanze. In casi eccezionali puo' il Ministro, di volta in volta, delegare altro consigliere a presiedere le singole adunanze».
 

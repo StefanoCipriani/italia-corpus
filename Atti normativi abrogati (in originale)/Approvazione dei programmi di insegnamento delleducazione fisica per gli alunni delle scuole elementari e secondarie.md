@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 10 aprile 1936, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-04-10;634);
+Visto il [regio decreto-legge 10 aprile 1936, n. 634](Modalita%20per%20la%20determinazione%20delle%20materie%20dinsegnamento%20delle%20esercitazioni%20pratiche%20dei%20programmi%20e%20degli%20orari%20per%20le%20scuole%20elementari%20e%20medie.%20036U0634.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 

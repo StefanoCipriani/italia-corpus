@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-23;1415), contenente disposizioni per la proroga di taluni prestiti agrari di esercizio. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1415](Proroga%20di%20taluni%20prestiti%20agrari%20di%20esercizio.%20030U1415.md), contenente disposizioni per la proroga di taluni prestiti agrari di esercizio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

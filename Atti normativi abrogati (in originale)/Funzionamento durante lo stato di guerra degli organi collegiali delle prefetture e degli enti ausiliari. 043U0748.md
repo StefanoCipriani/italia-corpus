@@ -30,7 +30,7 @@ Qualora il Consiglio di prefettura in sede consultiva non possa essere convocato
 
 ## Art. 2.
 
-Le deliberazioni del Consiglio di prefettura in sede di giurisdizione contabile sono valide anche con l'intervento di tre dei componenti prescritti dall'art. 23 del testo unico della legge comunale e provinciale approvato con [R. decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383). 
+Le deliberazioni del Consiglio di prefettura in sede di giurisdizione contabile sono valide anche con l'intervento di tre dei componenti prescritti dall'art. 23 del testo unico della legge comunale e provinciale approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md). 
  
  Occorrendo possono essere chiamati a partecipare alla seduta, con voto deliberativo, funzionari di ragioneria della Prefettura e della Intendenza di finanza diversi da quelli indicati nel capoverso dell'articolo medesimo.
 
@@ -74,7 +74,7 @@ Nei verbali delle deliberazioni adottate in virtu' degli articoli 5 a 9 deve far
 
 ## Art. 11.
 
-Le disposizioni del presente decreto non importano limitazione della facolta', conferita ai prefetti dal terzultimo comma dell'art. 19 del testo unico della legge comunale e provinciale, approvato con [Regio decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383).
+Le disposizioni del presente decreto non importano limitazione della facolta', conferita ai prefetti dal terzultimo comma dell'art. 19 del testo unico della legge comunale e provinciale, approvato con [Regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
 
 ## Art. 12.
 

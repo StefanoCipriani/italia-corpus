@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' della autorita' a Noi delegata;
 
-Viste le [leggi 31 marzo 1904, n. 140, 9 luglio 1908, n. 445, 4 aprile 1912, n. 297, e il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-04-04;297) Reale 22 settembre 1914, n. 1026;
+Viste le [leggi 31 marzo 1904, n. 140, 9 luglio 1908, n. 445, 4 aprile 1912, n. 297, e il decreto](Che%20approva%20laumento%20della%20spesa%20straordinaria%20consolidata%20del%20Ministero%20dei%20lavori%20pubblici%20per%20gli%20esercizi%20finanziari%20dal%201912-913%20al%201920-921.%20012U0297.md) Reale 22 settembre 1914, n. 1026;
 
 Ritenuto necessario ed urgente di provvedere affinche' anche nelle presenti circostanze, non abbia a subire ritardi la esecuzione di opere pubbliche a sollievo della disoccupazione operaia, che in qualche regione d'Italia ancora sussiste;
 

@@ -25,7 +25,7 @@ Per consentire l'ultimazione delle opere indicate nel successivo art. 3 e' dichi
 
 ## Art. 2.
 
-L'A.N.A.S. succede in tutti i rapporti attivi e passivi in corso, costituiti dalla concessionaria, ivi compresi quelli relativi alle obbligazioni ed ai mutui di cui all'[art. 3 della legge 24 luglio 1961, n. 729](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-24;729#art_3), e successive integrazioni e modificazioni, ed esclusi quelli concernenti il personale dipendente e quelli derivanti da responsabilita' civile per violazione di norme penali.
+L'A.N.A.S. succede in tutti i rapporti attivi e passivi in corso, costituiti dalla concessionaria, ivi compresi quelli relativi alle obbligazioni ed ai mutui di cui all'[art. 3 della legge 24 luglio 1961, n. 729](Piano%20di%20nuove%20costruzioni%20stradali%20ed%20autostradali.md), e successive integrazioni e modificazioni, ed esclusi quelli concernenti il personale dipendente e quelli derivanti da responsabilita' civile per violazione di norme penali.
 
 ## Art. 3.
 
@@ -40,7 +40,7 @@ Il direttore generale dell'A.N.A.S. provvede agli adempimenti necessari per la d
  Per la gestione amministrativa e finanziaria dei lavori e per la definizione dei rapporti di cui all'art. 2, il direttore generale dell'A.N.A.S. esercita, secondo le direttive del consiglio di amministrazione dell'A.N.A.S., tutti i poteri gia' spettanti alla concessionaria, secondo le relative procedure.
  Puo' compiere anche gli atti di straordinaria amministrazione, previa autorizzazione dello stesso consiglio.
  Per l'esecuzione dei lavori di cui all'art. 3, il direttore generale dell'A.N.A.S. puo' avvalersi del personale a tale compito designato dall'A.N.A.S.
- Per la definizione dei rapporti di cui all'art. 2, egli puo' avvalersi anche dell'opera di liberi professionisti, incaricati ai sensi dell'[art. 152 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077#art_152), nonche' di personale di ruolo di altre amministrazioni dello Stato, comandato a termini dell'art. 34 dello stesso decreto.
+ Per la definizione dei rapporti di cui all'art. 2, egli puo' avvalersi anche dell'opera di liberi professionisti, incaricati ai sensi dell'[art. 152 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](../DPR/Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), nonche' di personale di ruolo di altre amministrazioni dello Stato, comandato a termini dell'art. 34 dello stesso decreto.
 
 ## Art. 5.
 
@@ -77,7 +77,7 @@ Per i mutui contratti o per le obbligazioni emesse all'estero dagli enti di cui 
 
 ## Art. 11.
 
-L'[art. 22 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;601#art_22), concernente i fondi di garanzia, si applica anche al Fondo centrale di garanzia per le autostrade e per le ferrovie metropolitane, di cui all'[art. 6 della legge 28 marzo 1968, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;382#art_6), e successive modificazioni ed integrazioni.
+L'[art. 22 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](../DPR/Disciplina%20delle%20agevolazioni%20tributarie.md), concernente i fondi di garanzia, si applica anche al Fondo centrale di garanzia per le autostrade e per le ferrovie metropolitane, di cui all'[art. 6 della legge 28 marzo 1968, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;382#art_6), e successive modificazioni ed integrazioni.
 
 ## Art. 12.
 

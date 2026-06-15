@@ -96,7 +96,7 @@ L'incarico di collaudare i lavori degli enti costruttori di case popolari ed eco
  
  Art. 13. 
  
- Al fondo dei residui, iscritto al capitolo' n. 826-bis (aggiunto) dello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1926-27, e' apportata la diminuzione di 5 milioni di lire, ed eguale somma verra' iscritta in altro capitolo del bilancio medesimo, ai termini dei [Regi decreti 5 giugno 1926, n. 990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-05;990), e [3 dicembre 1926, n. 2029](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-12-03;2029), per essere erogata a favore degli enti ed istituti, e con le norme tutte previste nel [R. decreto-legge 10 marzo 1926, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-10;386), per case popolari da costruirsi nella citta' di Bolzano. 
+ Al fondo dei residui, iscritto al capitolo' n. 826-bis (aggiunto) dello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1926-27, e' apportata la diminuzione di 5 milioni di lire, ed eguale somma verra' iscritta in altro capitolo del bilancio medesimo, ai termini dei [Regi decreti 5 giugno 1926, n. 990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-05;990), e [3 dicembre 1926, n. 2029](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-12-03;2029), per essere erogata a favore degli enti ed istituti, e con le norme tutte previste nel [R. decreto-legge 10 marzo 1926, n. 386](Provvedimenti%20per%20la%20costruzione%20di%20case%20popolari.%20026U0386.md), per case popolari da costruirsi nella citta' di Bolzano. 
  
  Art. 14. 
  
@@ -184,7 +184,7 @@ L'incarico di collaudare i lavori degli enti costruttori di case popolari ed eco
  
  Art. 24. 
  
- L'[art. 18 del R. decreto-legge 7 ottobre 1923, n. 2412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-10-07;2412#art_18), convertito nella [legge 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985), dev'essere inteso nel senso che gli affittuari non acquistano di diritto, per effetto della concessione dell'affitto, la qualita' di socio. 
+ L'[art. 18 del R. decreto-legge 7 ottobre 1923, n. 2412](Compiti%20della%20Commissione%20di%20vigilanza%20sulla%20edilizia%20popolare%20provvedimenti%20per%20la%20esecutorieta%20delle%20sue%20decisioni%20e%20altre%20norme%20in%20materia%20di%20abitazioni.%20023U2412.md), convertito nella [legge 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), dev'essere inteso nel senso che gli affittuari non acquistano di diritto, per effetto della concessione dell'affitto, la qualita' di socio. 
  
  Art. 25. 
  

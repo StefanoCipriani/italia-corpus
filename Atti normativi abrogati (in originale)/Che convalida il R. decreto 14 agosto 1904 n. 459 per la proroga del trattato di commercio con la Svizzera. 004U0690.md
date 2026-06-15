@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [Regio decreto del 14 agosto 1904, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-08-14;459), col quale furono prorogati fino al 31 dicembre 1904 gli effetti del trattato di commercio conchiuso fra l'Italia e la Svizzera il 19 aprile 1892. 
+ E' convertito in legge il [Regio decreto del 14 agosto 1904, n. 459](Che%20proroga%20al%2031%20dicembre%201904%20gli%20effetti%20del%20trattato%20di%20commercio%20conchiuso%20tra%20lItalia%20e%20la%20Svizzera%20il%2019%20aprile%201902.%20004U0459.md), col quale furono prorogati fino al 31 dicembre 1904 gli effetti del trattato di commercio conchiuso fra l'Italia e la Svizzera il 19 aprile 1892. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -36,7 +36,7 @@ Il servizio precedentemente prestato dagli uditori di tribunale come vice-pretor
 
 ## Art. 4.
 
-A favore dei primi pretori provenienti dai consiglieri di appello in funzioni di dirigenti le preture unificate, i quali abbiano fatto o facciano ritorno in corte d'appello ai termini dell'[art. 10 del R. decreto 12 maggio 1930, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-12;663#art_10), e' calcolata tutta l'anzianita' di grado di cui essi sono in possesso.
+A favore dei primi pretori provenienti dai consiglieri di appello in funzioni di dirigenti le preture unificate, i quali abbiano fatto o facciano ritorno in corte d'appello ai termini dell'[art. 10 del R. decreto 12 maggio 1930, n. 663](Norme%20per%20lattuazione%20delta%20legge%2017%20aprile%201930%20n.%20421%20sul%20reclutamento%20e%20sulla%20carriera%20dei%20magistrati.%20030U0663.md), e' calcolata tutta l'anzianita' di grado di cui essi sono in possesso.
 
 ## Art. 5.
 

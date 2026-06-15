@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autoritita' a Noi delegata;
 
-Visto il [R. decreto-legge 14 gennaio 1943, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-14;22), che ha concesso, per la durata della guerra, una indennita' straordinaria giornaliera per i servizi di pubblica sicurezza, e successive modificazioni;
+Visto il [R. decreto-legge 14 gennaio 1943, n. 22](Concessione%20durante%20la%20guerra%20di%20una%20indennita%20straordinaria%20giornaliera%20per%20i%20servizi%20di%20pubblica%20sicurezza.%20043U0022.md), che ha concesso, per la durata della guerra, una indennita' straordinaria giornaliera per i servizi di pubblica sicurezza, e successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la guerra, d'intesa con i Ministri per l'interno
 
 ## Articolo unico.
 
-Le norme del [R. decreto-legge 14 gennaio 1943, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-14;22), e successive modificazioni, continuano ad avere vigore fino a sei mesi dalla data della cessazione dello stato di guerra.
+Le norme del [R. decreto-legge 14 gennaio 1943, n. 22](Concessione%20durante%20la%20guerra%20di%20una%20indennita%20straordinaria%20giornaliera%20per%20i%20servizi%20di%20pubblica%20sicurezza.%20043U0022.md), e successive modificazioni, continuano ad avere vigore fino a sei mesi dalla data della cessazione dello stato di guerra.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia incerto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

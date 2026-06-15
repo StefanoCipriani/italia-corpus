@@ -90,7 +90,7 @@ Capo II
 
 1.
 
-Il [comma 1-ter dell'articolo 2 del decreto-legge 1 settembre 1992, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-01;369#art_2-com1ter), convertito, con modificazioni, dalla [legge 30 ottobre 1992, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-30;422), e' sostituito dal seguente:
+Il [comma 1-ter dell'articolo 2 del decreto-legge 1 settembre 1992, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-01;369#art_2-com1ter), convertito, con modificazioni, dalla [legge 30 ottobre 1992, n. 422](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20settembre%201992%20n.%20369%20recante%20interventi%20urgenti%20per%20la%20ristrutturazione%20di%20istituti%20penitenziari%20di%20particolare%20sicurezza%20e%20per_91616d4aec06.md), e' sostituito dal seguente:
  "1-ter. L'utilizzazione, per finalita' di detenzione, degli istituti penitenziari di Pianosa e dell'Asinara, ristrutturati in esecuzione del presente decreto, ha carattere provvisorio e cessa, anche gradualmente per la realizzazione del Parco nazionale dell'Asinara, non oltre la data del 30 giugno 1998.".
 
 ### Art. 7.

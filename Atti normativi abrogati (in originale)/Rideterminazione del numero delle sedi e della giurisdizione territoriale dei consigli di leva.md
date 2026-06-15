@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Visto il [decreto del Presidente della Repubblica 14 febbraio 1964, n. 237](Leva%20e%20reclutamento%20obbligatorio%20nellEsercito%20nella%20Marina%20e%20nellAeronautica.md); 
- Visto l'[art. 41 della legge 31 maggio 1975, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-05-31;191#art_41); 
+ Visto l'[art. 41 della legge 31 maggio 1975, n. 191](Nuove%20norme%20per%20il%20servizio%20di%20leva.md); 
  Considerata la necessita' di procedere alla sperimentazione di un nuovo ordinamento dell'organizzazione periferica della leva nell'intento di semplificare le procedure e le strutture in atto esistenti; 
  Sulla proposta del Ministro della difesa; 
  
@@ -23,7 +23,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Pertanto il numero, le sedi e il territorio di giurisdizione dei consigli di leva sono quelli rideterminati nella tabella allegata al presente decreto che sostituisce quella in allegato A al [decreto del Presidente della Repubblica 14 febbraio 1964, n. 237](Leva%20e%20reclutamento%20obbligatorio%20nellEsercito%20nella%20Marina%20e%20nellAeronautica.md).
 
 AVVERTENZA: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
  - Il [D.P.R. n. 237/1964](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1964;237) contiene norme legislative sulla leva ed il reclutamento obbligatorio nell'Esercito, nella Marina e nell'Aeronautica. 
  - Il testo dell'[art. 41 della legge n. 191/1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;191#art_41) (Nuove norme per il servizio di leva) e' il seguente: 

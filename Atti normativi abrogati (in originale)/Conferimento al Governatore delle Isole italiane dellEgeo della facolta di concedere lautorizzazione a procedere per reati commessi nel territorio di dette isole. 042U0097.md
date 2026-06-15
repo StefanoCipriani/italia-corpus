@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Per tutta la durata della guerra e fino a sei mesi dopo la cessazione dello stato di guerra, la facolta' di concedere l'autorizzazione a procedere in ordine ai reati preveduti nell'[art. 313, comma 1°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_313-com1) e [2° del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_313-com2) e nell'[art. 16 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_16) e commessi nel territorio delle Isole italiane dell'Egeo, e' esercitata dal Governatore delle isole anzidette. 
+ Per tutta la durata della guerra e fino a sei mesi dopo la cessazione dello stato di guerra, la facolta' di concedere l'autorizzazione a procedere in ordine ai reati preveduti nell'[art. 313, comma 1°](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [2° del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nell'[art. 16 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_16) e commessi nel territorio delle Isole italiane dell'Egeo, e' esercitata dal Governatore delle isole anzidette. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando, a chiunque spetti di osservarla e di farla osservare come legge delle Stato. 
  

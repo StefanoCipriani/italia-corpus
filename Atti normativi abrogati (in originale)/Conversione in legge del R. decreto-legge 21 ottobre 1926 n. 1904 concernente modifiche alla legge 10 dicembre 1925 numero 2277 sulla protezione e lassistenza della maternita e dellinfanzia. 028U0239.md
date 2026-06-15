@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 ottobre 1926, n. 1904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-21;1904), concernente modifiche alla [legge 10 dicembre 1925, n. 2277](Protezione%20e%20assistenza%20della%20maternita%20e%20dellinfanzia.%20025U2277.md), sulla protezione e l'assistenza della maternita' e dell'infanzia. 
+ E' convertito in legge il [R. decreto-legge 21 ottobre 1926, n. 1904](Modifiche%20alla%20legge%2010%20dicembre%201925%20n.%202277%20sulla%20protezione%20e%20lassistenza%20della%20maternita%20e%20dellinfanzia.%20026U1904.md), concernente modifiche alla [legge 10 dicembre 1925, n. 2277](Protezione%20e%20assistenza%20della%20maternita%20e%20dellinfanzia.%20025U2277.md), sulla protezione e l'assistenza della maternita' e dell'infanzia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, Mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

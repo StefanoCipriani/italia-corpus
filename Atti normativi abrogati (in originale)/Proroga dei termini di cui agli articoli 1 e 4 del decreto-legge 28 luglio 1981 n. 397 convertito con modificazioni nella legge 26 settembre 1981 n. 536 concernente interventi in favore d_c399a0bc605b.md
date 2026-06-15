@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto-legge 28 luglio 1981, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-07-28;397), convertito, con modificazioni, nella [legge 26 settembre 1981, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-09-26;536), recante interventi in favore di alcune zone della Sicilia occidentale colpite da eventi sismici;
+Visto il [decreto-legge 28 luglio 1981, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-07-28;397), convertito, con modificazioni, nella [legge 26 settembre 1981, n. 536](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20luglio%201981%20n.%20397%20concernente%20interventi%20in%20favore%20di%20alcune%20zone%20della%20Sicilia%20occidentale%20colpite%20da%20eventi%20sismici.md), recante interventi in favore di alcune zone della Sicilia occidentale colpite da eventi sismici;
 
 Ritenuta la urgente necessita' di prorogare i termini previsti negli articoli 1 e 4 del citato decreto-legge al fine di eliminare ogni remora all'applicazione delle norme nell'ambito dell'attivita' di ricostruzione;
 
@@ -24,11 +24,11 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-Il termine di novanta giorni previsto dal [secondo comma dell'art. 1 del decreto-legge 28 luglio 1981, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-07-28;397#art_1-com2), convertito, con modificazioni, nella [legge 26 settembre 1981, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-09-26;536), e' riaperto e prorogato fino al 31 marzo 1982.
+Il termine di novanta giorni previsto dal [secondo comma dell'art. 1 del decreto-legge 28 luglio 1981, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-07-28;397#art_1-com2), convertito, con modificazioni, nella [legge 26 settembre 1981, n. 536](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20luglio%201981%20n.%20397%20concernente%20interventi%20in%20favore%20di%20alcune%20zone%20della%20Sicilia%20occidentale%20colpite%20da%20eventi%20sismici.md), e' riaperto e prorogato fino al 31 marzo 1982.
 
 ## Art. 2.
 
-Il termine di centocinquanta giorni previsto dal [primo comma dell'art. 4 del decreto-legge 28 luglio 1981, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-07-28;397#art_4-com1), convertito, con modificazioni, nella [legge 26 settembre 1981, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-09-26;536), e' riaperto e prorogato fino al 31 marzo 1982.
+Il termine di centocinquanta giorni previsto dal [primo comma dell'art. 4 del decreto-legge 28 luglio 1981, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-07-28;397#art_4-com1), convertito, con modificazioni, nella [legge 26 settembre 1981, n. 536](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20luglio%201981%20n.%20397%20concernente%20interventi%20in%20favore%20di%20alcune%20zone%20della%20Sicilia%20occidentale%20colpite%20da%20eventi%20sismici.md), e' riaperto e prorogato fino al 31 marzo 1982.
 
 ## Art. 3.
 

@@ -48,7 +48,7 @@ L'annessa convenzione e quelle altre che intervenissero successivamente in dipen
 
 Il comune di Bergamo e' esonerato dal pagamento di imposte e tasse dipendenti dalla stipulazione ed esecuzione della ripetuta convenzione, compresa l'imposta di ricchezza mobile sui rimborsi. 
  
- Gli interessi dei mutui contratti dal Comune per i fini di cui alla annessa convenzione usufruiranno dell'esenzione dalla imposta di ricchezza mobile disposta dall'[art. 16 della legge 11 dicembre 1910, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;855#art_16).
+ Gli interessi dei mutui contratti dal Comune per i fini di cui alla annessa convenzione usufruiranno dell'esenzione dalla imposta di ricchezza mobile disposta dall'[art. 16 della legge 11 dicembre 1910, n. 855](Concernente%20disposizioni%20varie%20per%20la%20Cassa%20dei%20depositi%20e%20prestiti%20e%20le%20gestioni%20annesse.%20010U0855.md).
 
 ## Art. 6.
 

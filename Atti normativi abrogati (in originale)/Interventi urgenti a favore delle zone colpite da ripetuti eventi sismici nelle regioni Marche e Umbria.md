@@ -44,11 +44,11 @@ A valere sulle risorse finanziarie di cui al comma 1, l'importo di lire 25 milia
 
 3.
 
-I soggetti residenti nelle regioni Marche e Umbria, le cui abitazioni sono state oggetto di ordinanza sindacale di sgombero per inagibilita' totale o parziale, sono esonerati fino al 31 dicembre 1997 dal pagamento delle quote di partecipazione alla spesa del Servizio sanitario nazionale. Il relativo onere, valutato in lire 5 miliardi, e' posto a carico delle risorse finanziarie di cui al comma 1. Il Dipartimento della protezione civile provvede a trasferire alle regioni interessate le quote di rispettiva competenza. I presupposti dell'esonero possono essere attestati con autocertificazione ai sensi della [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), e successive modificazioni.
+I soggetti residenti nelle regioni Marche e Umbria, le cui abitazioni sono state oggetto di ordinanza sindacale di sgombero per inagibilita' totale o parziale, sono esonerati fino al 31 dicembre 1997 dal pagamento delle quote di partecipazione alla spesa del Servizio sanitario nazionale. Il relativo onere, valutato in lire 5 miliardi, e' posto a carico delle risorse finanziarie di cui al comma 1. Il Dipartimento della protezione civile provvede a trasferire alle regioni interessate le quote di rispettiva competenza. I presupposti dell'esonero possono essere attestati con autocertificazione ai sensi della [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), e successive modificazioni.
 
 4.
 
-All'onere derivante dall'attuazione del presente articolo si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 5, comma 9, del decreto - legge 19 dicembre 1992, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-19;487#art_5-com9), convertito, con modificazioni, dalla [legge 17 febbraio 1993, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33).
+All'onere derivante dall'attuazione del presente articolo si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 5, comma 9, del decreto - legge 19 dicembre 1992, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-19;487#art_5-com9), convertito, con modificazioni, dalla [legge 17 febbraio 1993, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201992%20n.%20487%20recante%20soppressione%20dellEnte%20partecipazioni%20e%20finanziamento%20industria%20manifatturiera%20-%20EFIM.md).
 
 5.
 
@@ -98,7 +98,7 @@ I fondi disponibili sul capitolo 5571 dello stato di previsione del Ministero de
 
 2.
 
-Alle regioni Marche ed Umbria e' riservata una quota non inferiore al 5 per cento delle risorse di cui all'[articolo 1, comma 1, del decreto - legge 25 marzo 1997, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-25;67#art_1-com1), convertito, con modificazioni, dalla [legge 23 maggio 1997, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-23;135), destinate al finanziamento dei piani di edilizia scolastica. Tale quota e' aggiuntiva rispetto a quella spettante alle due regioni sulla base dei criteri adottati in attuazione della [legge 11 gennaio 1996, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-11;23), ed e' ripartita tra le regioni stesse sulla base dei medesimi criteri.
+Alle regioni Marche ed Umbria e' riservata una quota non inferiore al 5 per cento delle risorse di cui all'[articolo 1, comma 1, del decreto - legge 25 marzo 1997, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-25;67#art_1-com1), convertito, con modificazioni, dalla [legge 23 maggio 1997, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20marzo%201997%20n.%2067%20recante%20disposizioni%20urgenti%20per%20favorire%20loccupazione.md), destinate al finanziamento dei piani di edilizia scolastica. Tale quota e' aggiuntiva rispetto a quella spettante alle due regioni sulla base dei criteri adottati in attuazione della [legge 11 gennaio 1996, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-11;23), ed e' ripartita tra le regioni stesse sulla base dei medesimi criteri.
 
 3.
 

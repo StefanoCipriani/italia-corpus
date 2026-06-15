@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A decorrere dal 1° luglio 1935, il numero dei giudici e sostituti procuratori del Re, addetti al Ministero di grazia e giustizia, fissato nella tabella B, annessa al [R. decreto-legge 28 settembre 1933, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-28;1281), e' diminuito di tre, ed i relativi posti sono portati in aumento del numero complessivo dei giudici e sostituti procuratori del Re, risultante dalle attuali piante organiche.
+A decorrere dal 1° luglio 1935, il numero dei giudici e sostituti procuratori del Re, addetti al Ministero di grazia e giustizia, fissato nella tabella B, annessa al [R. decreto-legge 28 settembre 1933, n. 1281](Sistemazione%20dei%20servizi%20di%20culto%20alle%20dipendenze%20del%20Ministero%20dellinterno%20e%20modificazione%20dei%20ruoli%20organici%20dellAmministrazione%20civile%20dellinterno%20e%20di%20quelli%20dellAmministrazione%20della_3542186dd818.md), e' diminuito di tre, ed i relativi posti sono portati in aumento del numero complessivo dei giudici e sostituti procuratori del Re, risultante dalle attuali piante organiche.
 
 ## Art. 2.
 
@@ -36,7 +36,7 @@ A decorrere dal 1° luglio 1935 il Tribunale di Taranto e' distaccato dalla Cort
 
 Con Regi decreti, su proposta del Ministro di grazia e giustizia, saranno emanate le norme occorrenti per l'attuazione della presente legge, anche per quanto riguarda la data in cui andranno in vigore le modificazioni stabilite dall'art. 4, e sara' provveduto alla istituzione presso gli uffici giudiziari dei posti di giudice o sostituto procuratore del Re indicati nell'art. 1. 
  
- Nulla e' innovato al disposto degli articoli 26, capoverso 2°, della [legge 5 giugno 1933, n. 557](Norme%20per%20le%20promozioni%20nella%20magistratura.%20033U0557.md), e 17 del [R. decreto-legge 28 settembre 1933, n. 1282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-28;1282), convertito nella [legge 28 dicembre 1933, n. 1849](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20settembre%201933%20n.%201282%20contenente%20modificazioni%20alla%20circoscrizione%20giudiziaria%20e%20alle%20piante%20organiche%20del%20personale%20degli%20uffici%20giudiziari%20_d19e13d40012.md). 
+ Nulla e' innovato al disposto degli articoli 26, capoverso 2°, della [legge 5 giugno 1933, n. 557](Norme%20per%20le%20promozioni%20nella%20magistratura.%20033U0557.md), e 17 del [R. decreto-legge 28 settembre 1933, n. 1282](Modificazioni%20alla%20circoscrizione%20giudiziaria%20e%20alle%20piante%20organiche%20del%20personale%20degli%20uffici%20giudiziari%20del%20Regno.%20033U1282.md), convertito nella [legge 28 dicembre 1933, n. 1849](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20settembre%201933%20n.%201282%20contenente%20modificazioni%20alla%20circoscrizione%20giudiziaria%20e%20alle%20piante%20organiche%20del%20personale%20degli%20uffici%20giudiziari%20_d19e13d40012.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

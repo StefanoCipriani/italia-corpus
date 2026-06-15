@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77);
 
-Visto il [decreto-legge 31 ottobre 1979, n. 535](Proroga%20dei%20termini%20previsti%20dal%20decreto-legge%2023%20dicembre%201978%20n.%20817%20convertito%20con%20modificazioni%20nella%20legge%2019%20febbraio%201979%20n.%2054%20recante%20norme%20transitorie%20per%20il%20personale%20precario%20_eb462c3bc9d7.md), concernente proroga dei termini previsti dal [decreto-legge 23 dicembre 1978, n. 817](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-12-23;817), convertito con modificazioni nella [legge 19 febbraio 1979, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-19;54), recante norme transitorie per il personale precario delle Universita';
+Visto il [decreto-legge 31 ottobre 1979, n. 535](Proroga%20dei%20termini%20previsti%20dal%20decreto-legge%2023%20dicembre%201978%20n.%20817%20convertito%20con%20modificazioni%20nella%20legge%2019%20febbraio%201979%20n.%2054%20recante%20norme%20transitorie%20per%20il%20personale%20precario%20_eb462c3bc9d7.md), concernente proroga dei termini previsti dal [decreto-legge 23 dicembre 1978, n. 817](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-12-23;817), convertito con modificazioni nella [legge 19 febbraio 1979, n. 54](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201978%20n.%20817%20recante%20norme%20transitorie%20per%20il%20personale%20precario%20delle%20Universita.md), recante norme transitorie per il personale precario delle Universita';
 
 Considerato che i contratti stipulati dalle Universita', gli assegni di formazione didattica e scientifica, le borse di studio nonche' gli incarichi e le supplenze su posti di assistente ordinario con il 31 dicembre 1979 non verranno ad essere sorretti da una efficace norma di proroga;
 
@@ -28,7 +28,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-Il termine del 31 ottobre 1979, di cui al primo, terzo e sesto comma dell'articolo unico del [decreto-legge 23 dicembre 1978, n. 817](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-12-23;817), convertito con modificazioni nella [legge 19 febbraio 1979, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-19;54), e' prorogato fino al 29 febbraio 1980.
+Il termine del 31 ottobre 1979, di cui al primo, terzo e sesto comma dell'articolo unico del [decreto-legge 23 dicembre 1978, n. 817](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-12-23;817), convertito con modificazioni nella [legge 19 febbraio 1979, n. 54](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201978%20n.%20817%20recante%20norme%20transitorie%20per%20il%20personale%20precario%20delle%20Universita.md), e' prorogato fino al 29 febbraio 1980.
 
 ## Art. 2.
 

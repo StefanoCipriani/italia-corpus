@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320), sul trattamento di missione e di trasferimento a favore del personale statale;
+Visto il [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md), sul trattamento di missione e di trasferimento a favore del personale statale;
 
-Visto il decreto del Presidente del Consiglio dei Ministri 28 giugno 1945, contenente norme di applicazione del [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320);
+Visto il decreto del Presidente del Consiglio dei Ministri 28 giugno 1945, contenente norme di applicazione del [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -30,7 +30,7 @@ Sulle proposta del Ministro per la marina, di concerto con i Ministri per il tes
 
 ## Articolo unico.
 
-Il trattamento di cui all' [art. 8 del decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320#art_8), e' concesso, con decorrenza dal 1° gennaio 1945, al personale civile della Regia Accademia navale di Livorno e dell'Istituto idrografico della Regia marina in Genova, tenuto a prestare servizio fuori della rispettiva sede normale di Livorno e di Genova.
+Il trattamento di cui all' [art. 8 del decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md), e' concesso, con decorrenza dal 1° gennaio 1945, al personale civile della Regia Accademia navale di Livorno e dell'Istituto idrografico della Regia marina in Genova, tenuto a prestare servizio fuori della rispettiva sede normale di Livorno e di Genova.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

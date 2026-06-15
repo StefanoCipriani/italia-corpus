@@ -18,7 +18,7 @@ Visto il testo unico delle disposizioni per le ferrovie concesse alla industria 
 
 Visto il [regolamento 9 luglio 1909, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-07-09;710);
 
-Visto il [R. decreto 7 maggio 1922, n. 705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-05-07;705);
+Visto il [R. decreto 7 maggio 1922, n. 705](Che%20reca%20modificazioni%20al%20regolamento%2029%20luglio%201909%20n.%20710%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie.%20022U0705.md);
 
 Udito il Consiglio dei Ministri:
 

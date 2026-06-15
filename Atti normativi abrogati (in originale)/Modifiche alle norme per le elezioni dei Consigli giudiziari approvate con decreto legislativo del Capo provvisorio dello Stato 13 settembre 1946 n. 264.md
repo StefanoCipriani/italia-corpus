@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 2 della legge 12 ottobre 1966, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-12;825#art_2), con il quale il Governo e' stato delegato ad emanare norme per provvedere alle modifiche necessarie del [decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-13;264);
+Visto l'[art. 2 della legge 12 ottobre 1966, n. 825](Norme%20sulla%20costituzione%20dei%20Consigli%20giudiziari.md), con il quale il Governo e' stato delegato ad emanare norme per provvedere alle modifiche necessarie del [decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-13;264);
 
 Sentito il Consiglio dei Ministri;
 
@@ -21,7 +21,7 @@ Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e la
 ## Art. 1.
 
 Il [primo comma dell'art. 1 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-13;264#art_1-com1), e' sostituito dal seguente:
- "Ogni biennio, nella prima domenica del mese di aprile, i magistrati di carriera addetti agli uffici compresi nella circoscrizione di ciascun distretto procedono alle elezioni dei componenti del Consiglio giudiziario, previste dall'[art. 1 della legge 12 ottobre 1966, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-12;825#art_1)".
+ "Ogni biennio, nella prima domenica del mese di aprile, i magistrati di carriera addetti agli uffici compresi nella circoscrizione di ciascun distretto procedono alle elezioni dei componenti del Consiglio giudiziario, previste dall'[art. 1 della legge 12 ottobre 1966, n. 825](Norme%20sulla%20costituzione%20dei%20Consigli%20giudiziari.md)".
 
 ## Art. 2.
 
@@ -70,12 +70,12 @@ L'[art. 8 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 
 ## Art. 7.
 
 Il [primo comma dell'art. 12 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946 n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-13;264#art_12-com1), e' sostituito dal seguente:
- "Se i membri cessati dalla carica durante il biennio non possono essere sostituiti nel modo indicato nel [terzo comma dell'art. 1 della legge 12 ottobre 1966, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-12;825#art_1-com3), si procede ad elezioni suppletive".
+ "Se i membri cessati dalla carica durante il biennio non possono essere sostituiti nel modo indicato nel [terzo comma dell'art. 1 della legge 12 ottobre 1966, n. 825](Norme%20sulla%20costituzione%20dei%20Consigli%20giudiziari.md), si procede ad elezioni suppletive".
 
 ## Art. 8.
 
 L'[art. 17 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-13;264#art_17), e' sostituito dal seguente:
- "L'[art. 1, comma terzo, della legge 12 ottobre 1966, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-12;825#art_1-com3), si applica anche quando occorra sostituire i membri dei Consigli giudiziari che siano trasferiti fuori del distretto".
+ "L'[art. 1, comma terzo, della legge 12 ottobre 1966, n. 825](Norme%20sulla%20costituzione%20dei%20Consigli%20giudiziari.md), si applica anche quando occorra sostituire i membri dei Consigli giudiziari che siano trasferiti fuori del distretto".
 
 ## Art. 9.
 

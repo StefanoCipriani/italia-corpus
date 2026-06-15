@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 9 giugno 1907, n. 364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-06-09;364), che approva l'ordinamento degli assegni del corpo R. equipaggi, ed i successivi decreti che lo modificano; 
+ Visto il [R. decreto 9 giugno 1907, n. 364](Che%20approva%20lannesso%20ordinamento%20degli%20assegni%20del%20corpo%20Reale%20equipaggi.%20007U0364.md), che approva l'ordinamento degli assegni del corpo R. equipaggi, ed i successivi decreti che lo modificano; 
  
  Udito il Consiglio superiore di marina; 
  

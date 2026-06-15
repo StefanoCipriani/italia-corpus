@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 14 del decreto-legge Luogotenenziale 6 settembre 1917, n. 1451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-09-06;1451#art_14), viene modificato come appresso:
+L'[art. 14 del decreto-legge Luogotenenziale 6 settembre 1917, n. 1451](Col%20quale%20e%20istituito%20alle%20dipendenze%20del%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20il%20servizio%20dei%20conti%20correnti%20e%20degli%20assegni%20postali.%20017U1451.md), viene modificato come appresso:
  "I fondi disponibili sono versati in conto corrente fruttifero alla Cassa depositi e prestiti ai tasso corrispondente al frutto medio annuale, lordo di qualunque spesa, che la Cassa riceve dalla massa dei capitali da essa amministrati, dedotta quindici centesimi".
  "Qualora il tasso dell'apposito conto corrente della Cassa presso il Tesoro, al quale i detti fondi devono essere versati, discenda al disotto del tasso medio percentuale annuo che la Cassa ricava dai capitali da essa amministrati, la Cassa stessa corrispondera' all'Amministrazione postale il tasso del conto corrente col Tesoro, diminuito di quindici centesimi" .
 

@@ -26,7 +26,7 @@ E' approvata l'eccedenza d'impegno di L. 165,702.24 verificatasi sull'assegnazio
 
 ## Art. 2.
 
-E' approvata l'eccedenza d'impegno di L. 231.037.56 verificatasi sull'assegnazione del capitolo n. 33 «Inchieste di cui agli articoli 70 e seguenti del regolamento approvato col [R. decreto 13 marzo 1904, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-03-13;141), sugli infortuni degli operai sul lavoro e 73 e seguenti del regolamento 21 novembre 1889, sugli infortuni agricoli», dello stato di previsione della spesa del Ministero del lavoro e la previdenza sociale per l'esercizio 1922-23. 
+E' approvata l'eccedenza d'impegno di L. 231.037.56 verificatasi sull'assegnazione del capitolo n. 33 «Inchieste di cui agli articoli 70 e seguenti del regolamento approvato col [R. decreto 13 marzo 1904, n. 141](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20sugli%20infortuni%20degli%20operai%20sul%20lavoro.%20004U0141.md), sugli infortuni degli operai sul lavoro e 73 e seguenti del regolamento 21 novembre 1889, sugli infortuni agricoli», dello stato di previsione della spesa del Ministero del lavoro e la previdenza sociale per l'esercizio 1922-23. 
  
  Questo decreto entrera' in vigore il giorno stesso della sua pubblicazione e sara' presentato al Parlamento per la conversione in legge. 
  

@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e successive modificazioni;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e successive modificazioni;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -63,7 +63,7 @@ La inosservanza degli obblighi dello statuto e la contravvenzione alle norme del
 
 ## Art. 7.
 
-Per le contravvenzioni al disposto del presente decreto si procedera' a termini degli [articoli 122 e seguenti del R. decreto 8 dicembre 1933, n. 1740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-08;1740#art_122), per quanto applicabili.
+Per le contravvenzioni al disposto del presente decreto si procedera' a termini degli [articoli 122 e seguenti del R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), per quanto applicabili.
 
 ## Art. 8.
 

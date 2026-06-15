@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 4 marzo 1943, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-03-04;118), concernente il pagamento delle pensioni in attesa del duplicato del certificato di iscrizione;
+Visto il [R. decreto-legge 4 marzo 1943, n. 118](Facilitazioni%20per%20la%20continuazione%20del%20pagamento%20degli%20assegni%20a%20favore%20dei%20pensionati%20che%20rimangono%20privi%20del%20certificato%20discrizione%20per%20causa%20dipendente%20dalla%20guerra.%20043U0118.md), concernente il pagamento delle pensioni in attesa del duplicato del certificato di iscrizione;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4); .
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro pel tesoro; Abbiamo sanzionato e promulghiamo quanto
 
 ## Art. 1.
 
-Il termine di un anno fissato dall'[art. 2 del R. decreto-legge 4 marzo 1943, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-03-04;118#art_2), per la validita' dell'attestazione da emettersi dall'Ufficio provinciale del Tesoro in caso di richiesta del duplicato del certificato di iscrizione per pensione distrutto o smarrito per cause derivanti dalla guerra, e' prorogato fino a sei mesi dopo la cessazione dello stato di guerra.
+Il termine di un anno fissato dall'[art. 2 del R. decreto-legge 4 marzo 1943, n. 118](Facilitazioni%20per%20la%20continuazione%20del%20pagamento%20degli%20assegni%20a%20favore%20dei%20pensionati%20che%20rimangono%20privi%20del%20certificato%20discrizione%20per%20causa%20dipendente%20dalla%20guerra.%20043U0118.md), per la validita' dell'attestazione da emettersi dall'Ufficio provinciale del Tesoro in caso di richiesta del duplicato del certificato di iscrizione per pensione distrutto o smarrito per cause derivanti dalla guerra, e' prorogato fino a sei mesi dopo la cessazione dello stato di guerra.
 
 ## Art. 2.
 

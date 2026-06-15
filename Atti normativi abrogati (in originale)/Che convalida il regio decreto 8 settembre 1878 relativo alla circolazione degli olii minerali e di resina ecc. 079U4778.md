@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convalidato il [R. decreto dell'8 settembre 1878, numero 4501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1878-09-08;4501) (Serie 2ª), col quale furono estese agli olii minerali e di resina rettificati le disposizioni riguardanti la circolazione ed i depositi, nelle zone di vigilanza, del caffe', dello zucchero, del pepe e pimento, della cannella, della cassia lignea e dei chiodi di garofano.
+E' convalidato il [R. decreto dell'8 settembre 1878, numero 4501](Col%20quale%20gli%20olii%20minerali%20sono%20assoggettati%20a%20vigilanza%20entro%20la%20zona%20doganale.%20078U4501.md) (Serie 2ª), col quale furono estese agli olii minerali e di resina rettificati le disposizioni riguardanti la circolazione ed i depositi, nelle zone di vigilanza, del caffe', dello zucchero, del pepe e pimento, della cannella, della cassia lignea e dei chiodi di garofano.
 
 ## Art. 2.
 

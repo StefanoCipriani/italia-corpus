@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 5 settembre 1938, n. 1561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;1561), istitutivo del Fondo di previdenza a favore del personale addetto ai servizi delle imposte di fabbricazione, convertito nella [legge 19 gennaio 1939, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-19;260);
+Visto il [regio decreto-legge 5 settembre 1938, n. 1561](Istituzione%20di%20un%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20servizi%20delle%20imposte%20di%20fabbricazione.%20038U1561.md), istitutivo del Fondo di previdenza a favore del personale addetto ai servizi delle imposte di fabbricazione, convertito nella [legge 19 gennaio 1939, n. 260](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20settembre%201938-XVI%20n.%201561%20che%20istituisce%20un%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20servizi%20delle%20imposte%20di%20fabbricazione.%20039U0260.md);
 
-Visto il regolamento per l'amministrazione e la erogazione del Fondo di previdenza anzidetto, approvato col [regio decreto 28 novembre 1940, n. 1768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-11-28;1768);
+Visto il regolamento per l'amministrazione e la erogazione del Fondo di previdenza anzidetto, approvato col [regio decreto 28 novembre 1940, n. 1768](Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20servizi%20delle%20imposte%20di%20fabbricazione.%20040U1768.md);
 
-Vista la [legge 26 gennaio 1942, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;37), relativa alla iscrizione del personale dei laboratori chimici delle dogane e delle imposte indirette al Fondo predetto;
+Vista la [legge 26 gennaio 1942, n. 37](Iscrizione%20del%20personale%20dei%20laboratori%20chimici%20delle%20dogane%20e%20delle%20imposte%20indirette%20al%20Fondo%20di%20previdenza%20istituito%20a%20favore%20del%20personale%20dei%20ruoli%20provinciali%20addetto%20ai%20servizi%20del_a6f12eb70170.md), relativa alla iscrizione del personale dei laboratori chimici delle dogane e delle imposte indirette al Fondo predetto;
 
-Visto l'[art. 1, n. 3 della legge 31 gennaio 1926, numero 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art. 1, n. 3 della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Ritenuta la necessita' di modificare le disposizioni contenute nel detto regolamento, riguardanti la composizione ed il funzionamento del Consiglio di amministrazione del Fondo;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze, di concerto con il Ministro per il l
 
 ## Articolo unico.
 
-Gli articoli 6, 7 e 18 del regolamento per l'amministrazione e la erogazione del Fondo di previdenza a favore del personale addetto ai servizi delle imposte di fabbricazione, approvato col [regio decreto 28 novembre 1940, n. 1768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-11-28;1768), sono sostituiti dai seguenti:
+Gli articoli 6, 7 e 18 del regolamento per l'amministrazione e la erogazione del Fondo di previdenza a favore del personale addetto ai servizi delle imposte di fabbricazione, approvato col [regio decreto 28 novembre 1940, n. 1768](Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20servizi%20delle%20imposte%20di%20fabbricazione.%20040U1768.md), sono sostituiti dai seguenti:
  Art. 6. - Il Fondo di previdenza e' amministrato da un Consiglio nominato con decreto del Ministro per le finanze ed e' costituito come segue:
  presidente: il direttore generale delle Dogane e delle imposte indirette;
  membri:

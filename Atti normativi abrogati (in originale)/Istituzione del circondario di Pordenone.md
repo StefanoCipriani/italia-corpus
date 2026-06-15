@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'art. 66 dello Statuto speciale della Regione Friuli-Venezia Giulia emanato con la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1);
+Visto l'art. 66 dello Statuto speciale della Regione Friuli-Venezia Giulia emanato con la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md);
 
 Sentita la Commissione paritetica di cui all'art. 65 dello Statuto speciale predetto;
 
@@ -66,7 +66,7 @@ Agli organi collegiali circondariali istituiti ai sensi dell'art. 2 si applicano
 
 Presso gli uffici statali circondariali di Pordenone sono istituite Commissioni di sorveglianza sui rispettivi archivi.
  Le Commissioni sono composte dal dirigente l'ufficio circondariale o da un suo delegato, da un impiegato addetto al medesimo ufficio che disimpegna anche le funzioni di segretario e dal direttore dell'archivio circondariale di Stato di Pordenone o da un impiegato di detto archivio da lui delegato.
- Alle Commissioni di sorveglianza, di cui al presente articolo, si applica ogni altra disposizione contenuta nell'[art. 25 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_25).
+ Alle Commissioni di sorveglianza, di cui al presente articolo, si applica ogni altra disposizione contenuta nell'[art. 25 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md).
 
 ## Norme particolari riguardanti le Amministrazioni dell'interno e della grazia e giustizia
 

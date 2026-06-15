@@ -22,7 +22,7 @@ Ritenuto che l'esercizio, da parte di detti Comuni, del diritto derivante dalla 
 
 Considerata la inderogabile necessita' di avvisare ad una definitiva sistemazione di tale assistenza nel territorio suaccennato, sulla base di un razionale decentramento dell'assistenza medesima, tenuto conto degli accertamenti e degli studi gia' compiuti e dei concorsi all'uopo deliberati dal comune di Milano e dalla Cassa di risparmio delle provincie lombarde;
 
-Vista la [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), modificata dal [R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841);
+Vista la [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), modificata dal [R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md);
 
 Sentito il Consiglio dei Ministri;
 

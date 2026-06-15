@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Per consentire la prosecuzione degli interventi di cui al [decreto-legge 7 novembre 1994, n. 621](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-07;621), convertito dalla [legge 17 dicembre 1994, n. 737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-17;737), e' autorizzata l'ulteriore spesa di lire 174 miliardi per l'anno 1995.
+Per consentire la prosecuzione degli interventi di cui al [decreto-legge 7 novembre 1994, n. 621](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-07;621), convertito dalla [legge 17 dicembre 1994, n. 737](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%207%20novembre%201994%20n.%20621%20recante%20attuazione%20di%20regolamenti%20comunitari%20relativi%20alla%20riforma%20della%20politica%20agricola%20comune.md), e' autorizzata l'ulteriore spesa di lire 174 miliardi per l'anno 1995.
 
 2.
 

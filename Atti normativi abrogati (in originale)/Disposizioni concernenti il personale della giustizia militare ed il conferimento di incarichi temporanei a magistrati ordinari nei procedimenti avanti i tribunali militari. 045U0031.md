@@ -16,15 +16,15 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 28 novembre 1935, n. 2397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-11-28;2397), istitutivo del Corpo ufficiali in congedo della giustizia militare, convertito nella [legge 6 aprile 1936, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;818), e successive modificazioni;
+Visto il [R. decreto-legge 28 novembre 1935, n. 2397](Istituzione%20di%20un%20corpo%20di%20ufficiali%20in%20congedo%20della%20giustizia%20militare.%20035U2397.md), istitutivo del Corpo ufficiali in congedo della giustizia militare, convertito nella [legge 6 aprile 1936, n. 818](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20novembre%201935-XIV%20n.%202397%20concernente%20listituzione%20di%20un%20Corpo%20di%20ufficiali%20in%20congedo%20della%20giustizia%20militare.%20036U0818.md), e successive modificazioni;
 
-Visto il [R. decreto 8 luglio 1937, n. 1826](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-08;1826), che approva il regolamento per la esecuzione del predetto [R. decreto-legge 28 novembre 1935, n. 2397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-11-28;2397);
+Visto il [R. decreto 8 luglio 1937, n. 1826](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20R.%20decreto-legge%2028%20novembre%201935-XIV%20n.%202397%20istitutivo%20del%20Corpo%20degli%20ufficiali%20in%20congedo%20della%20giustizia%20militare.%20037U1826.md), che approva il regolamento per la esecuzione del predetto [R. decreto-legge 28 novembre 1935, n. 2397](Istituzione%20di%20un%20corpo%20di%20ufficiali%20in%20congedo%20della%20giustizia%20militare.%20035U2397.md);
 
 Visto l'ordinamento giudiziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

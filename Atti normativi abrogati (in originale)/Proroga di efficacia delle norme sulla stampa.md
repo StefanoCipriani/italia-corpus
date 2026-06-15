@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 14 gennaio 1944, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-14;13), che detta norme sulla disciplina della stampa;
+Visto il [R. decreto-legge 14 gennaio 1944, n. 13](Disciplina%20della%20stampa%20durante%20lattuale%20stato%20di%20guerra.%20044U0013.md), che detta norme sulla disciplina della stampa;
 
-Visto il [decreto legislativo Luogotenenziale 8 febbraio 1946, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;49), riguardante la cessazione dello stato di guerra ed il passaggio dallo stato di guerra a quello di pace;
+Visto il [decreto legislativo Luogotenenziale 8 febbraio 1946, n. 49](../Decreti%20legislativi%20luogotenenziali/Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md), riguardante la cessazione dello stato di guerra ed il passaggio dallo stato di guerra a quello di pace;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,7 +30,7 @@ sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Le disposizioni del [R. decreto-legge 14 gennaio 1944, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-14;13), che detta norme sulla disciplina della stampa durante lo stato di guerra continuano ad avere effetto fino al 31 luglio 1946.
+Le disposizioni del [R. decreto-legge 14 gennaio 1944, n. 13](Disciplina%20della%20stampa%20durante%20lattuale%20stato%20di%20guerra.%20044U0013.md), che detta norme sulla disciplina della stampa durante lo stato di guerra continuano ad avere effetto fino al 31 luglio 1946.
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 marzo 1933, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-23;227), concernente elevazione dei limiti di eta' per l'ammissione agli impieghi. 
+ E' convertito in legge il [R. decreto-legge 23 marzo 1933, n. 227](Elevazione%20dei%20limiti%20deta%20per%20lammissione%20agli%20impieghi.%20033U0227.md), concernente elevazione dei limiti di eta' per l'ammissione agli impieghi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

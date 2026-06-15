@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 Al personale civile di ruolo e non di ruolo, compresi i dirigenti, del Ministero della difesa, e' attribuita una indennita' di incentivazione in rapporto al rendimento, misurato sulla base di indicatori di produttivita' da definire con decreto del ministro della difesa, d'intesa con le organizzazioni sindacali maggiormente rappresentative in sede nazionale.
- Tale indennita' assorbe le particolari forme di compenso per lavoro straordinario stabilite dall'[articolo 2 del decreto del Presidente della Repubblica 22 luglio 1977, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-22;422#art_2).
+ Tale indennita' assorbe le particolari forme di compenso per lavoro straordinario stabilite dall'[articolo 2 del decreto del Presidente della Repubblica 22 luglio 1977, n. 422](../DPR/Nuova%20disciplina%20dei%20compensi%20per%20lavoro%20straordinario%20ai%20dipendenti%20dello%20Stato.md).
 
 ## Art. 2.
 

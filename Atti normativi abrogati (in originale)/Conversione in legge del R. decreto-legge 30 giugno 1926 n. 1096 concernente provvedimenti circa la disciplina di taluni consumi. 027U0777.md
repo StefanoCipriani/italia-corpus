@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 giugno 1926, n. 1096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-06-30;1096), concernente provvedimenti circa la disciplina di taluni consumi. 
+ E' convertito in legge il [R. decreto-legge 30 giugno 1926, n. 1096](Provvedimenti%20circa%20la%20disciplina%20di%20taluni%20consumi.%20026U1096.md), concernente provvedimenti circa la disciplina di taluni consumi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

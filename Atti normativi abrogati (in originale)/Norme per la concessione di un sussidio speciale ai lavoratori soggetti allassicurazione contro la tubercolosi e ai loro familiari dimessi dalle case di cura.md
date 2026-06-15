@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-Ai lavoratori soggetti all'assicurazione per tubercolosi e ai loro familiari ricoverati in case di cura a norma dell'[art. 15 del regio decreto-legge 14 aprile 1939, numero 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-14;636#art_15), convertito, con modificazioni, nella [legge 6 luglio 1939, n. 1272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-06;1272), dimessi successivamente al 30 settembre 1946 per guarigione clinica, per stabilizzazione o per prosecuzione della cura ambulatorialmente, e' dovuto, a carico del Fondo di integrazione delle assicurazioni sociali, un sussidio a titolo di assistenza post sanatoriale di L. 200 giornaliere.
+Ai lavoratori soggetti all'assicurazione per tubercolosi e ai loro familiari ricoverati in case di cura a norma dell'[art. 15 del regio decreto-legge 14 aprile 1939, numero 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-14;636#art_15), convertito, con modificazioni, nella [legge 6 luglio 1939, n. 1272](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20aprile%201939-XVII%20n.%20636%20sulle%20assicurazioni%20obbligatorie%20per%20linvalidita%20e%20la%20vecchiaia%20per%20la%20tubercolosi%20e%20per%20la%20disoccup_59ee77548f3d.md), dimessi successivamente al 30 settembre 1946 per guarigione clinica, per stabilizzazione o per prosecuzione della cura ambulatorialmente, e' dovuto, a carico del Fondo di integrazione delle assicurazioni sociali, un sussidio a titolo di assistenza post sanatoriale di L. 200 giornaliere.
  Tale sussidio non spetta quando l'infermo dimesso e' ricoverato in convalescenziario o colonia post-sanatoriale.
 
 ## Art. 2.
@@ -35,7 +35,7 @@ La corresponsione del sussidio di assistenza post-sanatoriale cessa comunque dal
 ## Art. 4.
 
 Il sussidio per l'assistenza post-sanatoriale e' di regola corrisposto a settimane anticipate agli aventi diritto ed in caso di minori, alle persone che esercitano su di essi la patria potesta', e, in mancanza, a coloro cui e' affidata la tutela e la cura di essi.
- Il sussidio sostituisce, per il periodo della sua corresponsione, l'indennita' temporanea per tubercolosi, nonche' l'assegno integrativo e l'assegno previsti dal [decreto legislativo luogotenenziale 9 novembre 1945, n. 776](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-09;776). La concessione di esso non pregiudica tuttavia il diritto dell'indennita' di disoccupazione.
+ Il sussidio sostituisce, per il periodo della sua corresponsione, l'indennita' temporanea per tubercolosi, nonche' l'assegno integrativo e l'assegno previsti dal [decreto legislativo luogotenenziale 9 novembre 1945, n. 776](../Decreti%20legislativi%20luogotenenziali/Corresponsione%20degli%20assegni%20integrativi%20e%20aumento%20del%20contributo%20dellassicurazione%20obbligatoria%20per%20la%20tubercolosi.%20045U0776.md). La concessione di esso non pregiudica tuttavia il diritto dell'indennita' di disoccupazione.
 
 ## Art. 5.
 

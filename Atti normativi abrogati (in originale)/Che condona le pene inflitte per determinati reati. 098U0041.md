@@ -26,7 +26,7 @@ E' dichiarata estinta l'azione penale e sono condonate le pene inflitte:
  
  a) pei reati preveduti nelle leggi sulla stampa; 
  
- b) pei delitti contro la sicurezza dello Stato preveduti negli articoli 104 a 127 e 135 del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), purche' non siano accompagnati o connessi a delitti contro la persona, la proprieta' e le leggi militari e purche' la pena restrittiva della liberta' personale, stabilita dalla legge o applicata dal giudice, non superi cinque anni; 
+ b) pei delitti contro la sicurezza dello Stato preveduti negli articoli 104 a 127 e 135 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), purche' non siano accompagnati o connessi a delitti contro la persona, la proprieta' e le leggi militari e purche' la pena restrittiva della liberta' personale, stabilita dalla legge o applicata dal giudice, non superi cinque anni; 
  
  c) pei delitti di duello preveduti negli articoli 237, 238 e 239 numeri 2 e 3 del codice stesso; 
  
@@ -34,7 +34,7 @@ E' dichiarata estinta l'azione penale e sono condonate le pene inflitte:
  
  e) per le contravvenzioni prevedute negli articoli 4 e 5 della legge 30 giugno 1889 sulla requisizione dei quadrupedi, purche', entro il 30 giugno prossimo venturo, i contravventori facciano le dichiarazioni prescritte negli articoli medesimi; 
  
- f) per le contravvenzioni prevedute nel [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), negli altri codici e leggi e nei regolamenti, purche' la pena stabilita dalla legge o applicata dal giudice non superi tre mesi di arresto, ovvero novecento lire di ammenda, e, nel caso che queste due specie di pena siano comminate ed applicate congiuntamente, purche', ragguagliando l'ammenda all'arresto, esse non superino insieme la durata di tre mesi. 
+ f) per le contravvenzioni prevedute nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), negli altri codici e leggi e nei regolamenti, purche' la pena stabilita dalla legge o applicata dal giudice non superi tre mesi di arresto, ovvero novecento lire di ammenda, e, nel caso che queste due specie di pena siano comminate ed applicate congiuntamente, purche', ragguagliando l'ammenda all'arresto, esse non superino insieme la durata di tre mesi. 
  
  Le disposizioni del presente articolo non si applicano ai reati preveduti nelle leggi finanziarie per i quali e' provveduto con decreto separato, ne' a quelli preveduti nelle leggi militari e nelle leggi sulle privative industriali, sui marchi e segni distintivi di fabbrica e di commercio e sui diritti spettanti agli autori di opere dell'ingegno.
 

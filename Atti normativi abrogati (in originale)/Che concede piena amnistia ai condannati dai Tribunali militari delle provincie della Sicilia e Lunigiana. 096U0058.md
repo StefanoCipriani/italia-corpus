@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'articolo 8 dello Statuto e l'[articolo 86 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_86);
+Visto l'articolo 8 dello Statuto e l'[articolo 86 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
 Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti e dei Nostri Ministri dell'Interno e della Guerra;
 

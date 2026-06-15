@@ -172,7 +172,7 @@ Per gli atti di competenza delle Scuole di ostetricia sono dovuti i diritti di s
 
 ### Art. 17.
 
-Chiunque, anche se munita di titolo professionale, esercita la professione di levatrice senza essere iscritta nel relativo albo, e' punita con le pene stabilite nell'[art. 348 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_348). 
+Chiunque, anche se munita di titolo professionale, esercita la professione di levatrice senza essere iscritta nel relativo albo, e' punita con le pene stabilite nell'[art. 348 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Restano forme le disposizioni del R. decreto-legge 5 marzo 1935-XIII, n. 184, e del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con, R. decreto 27 luglio 1934-XII, n. 1265, in quanto si riferiscono alla disciplina giuridica della professione di levatrice.
 

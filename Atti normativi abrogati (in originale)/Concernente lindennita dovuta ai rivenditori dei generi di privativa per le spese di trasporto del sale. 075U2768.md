@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto l'[art. 4 della legge 21 aprile 1862, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-04-21;563#art_4);
+Visto l'[art. 4 della legge 21 aprile 1862, n. 563](Colla%20quale%20e%20approvata%20la%20Tariffa%20dei%20prezzi%20di%20privativa%20dei%20Sali%20e%20dei%20Tabacchi.%20062U0563.md);
 
 Visti i decreti Ministeriali 11 novembre 1862 e 8 marzo 1872, Determina:
 

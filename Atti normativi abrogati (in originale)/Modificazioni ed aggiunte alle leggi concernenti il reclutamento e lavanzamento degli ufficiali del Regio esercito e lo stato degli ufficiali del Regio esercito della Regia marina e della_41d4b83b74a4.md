@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D' ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 2997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2997), che abolisce la categoria degli ufficiali di milizia territoriale ed apporta modificazioni alle norme concernenti il reclutamento, gli obblighi di servizio e l'avanzamento degli ufficiali di complemento;
+Visto il [R. decreto 30 dicembre 1923, n. 2997](Abolizione%20della%20categoria%20degli%20ufficiali%20di%20milizia%20territoriale%20e%20nuove%20norme%20relative%20al%20reclutamento%20agli%20obblighi%20di%20servizio%20e%20allavanzamento%20degli%20ufficiali%20di%20complemento.%20023U2997.md), che abolisce la categoria degli ufficiali di milizia territoriale ed apporta modificazioni alle norme concernenti il reclutamento, gli obblighi di servizio e l'avanzamento degli ufficiali di complemento;
 
 Vista la [legge 11 marzo 1926, n. 396](Ordinamento%20del%20Regio%20esercito.%20026U0396.md), sull'ordinamento del Regio esercito, e successive modificazioni;
 

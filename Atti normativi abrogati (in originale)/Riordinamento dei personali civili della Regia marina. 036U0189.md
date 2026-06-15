@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento
 
 gerarchico delle Amministrazioni dello Stato, e successive
 
@@ -24,7 +24,7 @@ Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-re
 
 giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
-Visto il [R. decreto 18 giugno 1931, n. 978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;978), contenente i ruoli
+Visto il [R. decreto 18 giugno 1931, n. 978](Ruoli%20organici%20dei%20personali%20civili%20della%20Regia%20marina.%20031U0978.md), contenente i ruoli
 
 organici dei personali civili della Regia marina, e successive
 
@@ -46,7 +46,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-L'organico della carriera amministrativa (gruppo A) dell'Amministrazione centrale della Regia marina, di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-23;200#art_1) e [2 del R. decreto 23 febbraio 1933, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-23;200#art_2), e' sostituito dal seguente: 
+L'organico della carriera amministrativa (gruppo A) dell'Amministrazione centrale della Regia marina, di cui agli [articoli 1](Istituzione%20del%20posto%20di%20direttore%20bibliotecario%20capo%20della%20Regia%20marina.%20033U0200.md) e [2 del R. decreto 23 febbraio 1933, n. 200](Istituzione%20del%20posto%20di%20direttore%20bibliotecario%20capo%20della%20Regia%20marina.%20033U0200.md), e' sostituito dal seguente: 
  
 
  AMMINISTRAZIONE CENTRALE
@@ -85,11 +85,11 @@ L'organico della carriera amministrativa (gruppo A) dell'Amministrazione central
 
  7° Direttore bibliotecario capo (1) 1
 
- (1) Temporaneamente di grado 6°, in base all'[art. 5 del Regio decreto 23 febbraio 1933, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-23;200#art_5).
+ (1) Temporaneamente di grado 6°, in base all'[art. 5 del Regio decreto 23 febbraio 1933, n. 200](Istituzione%20del%20posto%20di%20direttore%20bibliotecario%20capo%20della%20Regia%20marina.%20033U0200.md).
 
 ## Art. 2.
 
-L'organico del personale di ragioneria degli arsenali militari marittimi (gruppo B), di cui all'[art. 1 del R. decreto 18 giugno 1931, n. 978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;978#art_1), e' sostituito dal seguente: 
+L'organico del personale di ragioneria degli arsenali militari marittimi (gruppo B), di cui all'[art. 1 del R. decreto 18 giugno 1931, n. 978](Ruoli%20organici%20dei%20personali%20civili%20della%20Regia%20marina.%20031U0978.md), e' sostituito dal seguente: 
  
  
 
@@ -119,7 +119,7 @@ L'organico del personale di ragioneria degli arsenali militari marittimi (gruppo
 
  
  
- Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al [Regio decreto 20 giugno 1935, n. 1241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-06-20;1241).
+ Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al [Regio decreto 20 giugno 1935, n. 1241](Passaggio%20nei%20ruoli%20ordinari%20del%20personale%20proveniente%20dalla%20cessata%20Amministrazione%20austro-ungarica%20e%20da%20quella%20fiumana%20inscritto%20negli%20appositi%20elenchi%20separati.%20035U1241.md).
 
 ## Art. 3.
 
@@ -151,7 +151,7 @@ E' istituito il ruolo unico dei «Contabili della Regia marina» (gruppo B), col
 
 ## Art. 4.
 
-I ruoli della carriera d'ordine dell'Amministrazione centrale, dei Regi arsenali militari marittimi e dei Magazzini militari marittimi (gruppo C), di cui all'[art. 1 del R. decreto 18 giugno 1931, n. 978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;978#art_1), sono soppressi e sostituiti dal ruolo unico del «Personale d'ordine dell'Amministrazione militare marittima» col seguente organico: 
+I ruoli della carriera d'ordine dell'Amministrazione centrale, dei Regi arsenali militari marittimi e dei Magazzini militari marittimi (gruppo C), di cui all'[art. 1 del R. decreto 18 giugno 1931, n. 978](Ruoli%20organici%20dei%20personali%20civili%20della%20Regia%20marina.%20031U0978.md), sono soppressi e sostituiti dal ruolo unico del «Personale d'ordine dell'Amministrazione militare marittima» col seguente organico: 
  
  
 
@@ -173,7 +173,7 @@ I ruoli della carriera d'ordine dell'Amministrazione centrale, dei Regi arsenali
  Totale n. 485
  
  
- Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al [Regio decreto 20 giugno 1935, n. 1241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-06-20;1241). 
+ Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al [Regio decreto 20 giugno 1935, n. 1241](Passaggio%20nei%20ruoli%20ordinari%20del%20personale%20proveniente%20dalla%20cessata%20Amministrazione%20austro-ungarica%20e%20da%20quella%20fiumana%20inscritto%20negli%20appositi%20elenchi%20separati.%20035U1241.md). 
  
  Con Regio decreto saranno stabilite le tabelle numeriche e di reparto di cui all'[art. 101 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_101).
 
@@ -187,7 +187,7 @@ Per l'ammissione ai pubblici concorsi per posti di «Contabili della Regia marin
 
 ## Art. 7.
 
-Il ruolo transitorio del personale dei gestori di magazzino e di cassa di cui all'[art. 1 del R. decreto 18 giugno 1931, n. 978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;978#art_1), e' soppresso. Gli attuali gestori di magazzino e di cassa sono trasferiti nel ruolo dei «Contabili della Regia marina» con le norme del seguente art. 8.
+Il ruolo transitorio del personale dei gestori di magazzino e di cassa di cui all'[art. 1 del R. decreto 18 giugno 1931, n. 978](Ruoli%20organici%20dei%20personali%20civili%20della%20Regia%20marina.%20031U0978.md), e' soppresso. Gli attuali gestori di magazzino e di cassa sono trasferiti nel ruolo dei «Contabili della Regia marina» con le norme del seguente art. 8.
 
 ### Art. 8.
 
@@ -195,7 +195,7 @@ Sono trasferiti d'ufficio, nel ruolo dei «Contabili della Regia marina», per l
 
 ### Art. 9.
 
-Sono inscritti, a domanda e previo concorso per esame, nel ruolo dei «Contabili della Regia marina», per la sua prima costituzione, gli impiegati civili di ruolo della Regia marina, di gruppo C - esclusi coloro che siano entrati a far parte di detto gruppo in base al [R. decreto 18 dicembre 1930, n. 1733](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-18;1733) - che siano muniti del titolo di studio previsto dal precedente art. 6. 
+Sono inscritti, a domanda e previo concorso per esame, nel ruolo dei «Contabili della Regia marina», per la sua prima costituzione, gli impiegati civili di ruolo della Regia marina, di gruppo C - esclusi coloro che siano entrati a far parte di detto gruppo in base al [R. decreto 18 dicembre 1930, n. 1733](Norme%20transitorie%20per%20i%20passaggi%20a%20categoria%20superiore%20e%20la%20sistemazione%20in%20ruolo%20del%20personale%20in%20servizio%20delle%20Amministrazioni%20statali.%20030U1733.md) - che siano muniti del titolo di studio previsto dal precedente art. 6. 
  
  L'accoglimento delle domande di cui al precedente comma e' subordinato al giudizio del Consiglio di amministrazione. 
  

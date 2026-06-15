@@ -14,13 +14,13 @@ Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/u
 
 Vista la tariffa, per l'applicazione dei dazi doganali, approvata
 
-con il [decreto del Presidente della Repubblica 7 luglio 1950, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-07-07;442);
+con il [decreto del Presidente della Repubblica 7 luglio 1950, n. 442](../DPR/Approvazione%20della%20nuova%20tariffa%20doganale%20dei%20dazi%20di%20importazione.md);
 
 Visto il [decreto-legge 28 febbraio 1939, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1939-02-28;334), convertito nella
 
-[legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), istitutivo di un'imposta di fabbricazione sugli oli minerali e sui prodotti- della -loro lavorazione in sostituzione della preesistente tassa di vendita, e successive modificazioni;
+[legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), istitutivo di un'imposta di fabbricazione sugli oli minerali e sui prodotti- della -loro lavorazione in sostituzione della preesistente tassa di vendita, e successive modificazioni;
 
-Visto il [decreto-legge 3 dicembre 1953, n. 878](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1953-12-03;878), convertito nella [legge 31 gennaio 1954, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-01-31;2), recante modificazioni del trattamento fiscale degli oli minerali Ritenuta la straordinaria necessita' e l'urgenza di modificare le aliquote dell'imposta di fabbricazione sugli oli minerali lubrificanti;
+Visto il [decreto-legge 3 dicembre 1953, n. 878](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1953-12-03;878), convertito nella [legge 31 gennaio 1954, n. 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20dicembre%201953%20n.%20878%20concernente%20modificazioni%20al%20regime%20fiscale%20degli%20oli%20minerali.md), recante modificazioni del trattamento fiscale degli oli minerali Ritenuta la straordinaria necessita' e l'urgenza di modificare le aliquote dell'imposta di fabbricazione sugli oli minerali lubrificanti;
 
 Sentito il Consiglio dei Ministri;
 

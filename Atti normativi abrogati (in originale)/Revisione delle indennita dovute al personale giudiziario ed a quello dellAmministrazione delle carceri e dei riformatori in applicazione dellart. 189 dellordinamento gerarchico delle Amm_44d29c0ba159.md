@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 189 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_189);
+Visto l'[art. 189 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,16 +24,16 @@ Abbiamo decretato e decretiamo: Indennita' dovute al personale giudiziario.
 
 ## Art. 1.
 
-L'indennita' di L. 1000 annue, stabilita nell'[art. 166 del R. decreto 30 dicembre 1923, n. 2786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2786#art_166), e' corrisposta a tutti i consiglieri e presidenti di sezione di Corte di appello incaricati delle funzioni di presidente di assise. L'ammontare attuale della spesa occorrente a tale scopo e' elevato a lire 54,000 annue. 
+L'indennita' di L. 1000 annue, stabilita nell'[art. 166 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), e' corrisposta a tutti i consiglieri e presidenti di sezione di Corte di appello incaricati delle funzioni di presidente di assise. L'ammontare attuale della spesa occorrente a tale scopo e' elevato a lire 54,000 annue. 
  
- L'indennita' per spese di rappresentanza assegnata al procuratore generale della Corte di cassazione dall'[art. 185 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_185), sara' corrisposta al detto magistrato nella stessa misura indicata nella lettera a) dell'art. 186 del decreto medesimo. 
+ L'indennita' per spese di rappresentanza assegnata al procuratore generale della Corte di cassazione dall'[art. 185 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sara' corrisposta al detto magistrato nella stessa misura indicata nella lettera a) dell'art. 186 del decreto medesimo. 
  
- Le indennita' di trasferta nell'ambito di piccole distanze per i magistrati e per i funzionari delle cancellerie e segreterie giudiziarie sono regolate dal [R. decreto 3 maggio 1923, n. 1043](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1043).
-Quando la trasferta e' eseguita a distanza maggiore di 10 chilometri dall'abitato, ai magistrati e ai funzionari suddetti spetta la ordinaria indennita' giornaliera di soggiorno a' sensi dell'[art. 181 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_181), salva la riduzione stabilita nell'[art. 3 del decreto Luogotenenziale 14 settembre 1918, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1311#art_3), se il ritorno avvenga nella stessa giornata. 
+ Le indennita' di trasferta nell'ambito di piccole distanze per i magistrati e per i funzionari delle cancellerie e segreterie giudiziarie sono regolate dal [R. decreto 3 maggio 1923, n. 1043](Che%20stabilisce%20le%20competenze%20dovute%20ai%20testimoni%20periti%20giurati%20e%20ufficiali%20giudiziari%20e%20le%20indennita%20spettanti%20ai%20magistrati%20e%20cancellieri%20per%20le%20trasferte.%20023U1043.md).
+Quando la trasferta e' eseguita a distanza maggiore di 10 chilometri dall'abitato, ai magistrati e ai funzionari suddetti spetta la ordinaria indennita' giornaliera di soggiorno a' sensi dell'[art. 181 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), salva la riduzione stabilita nell'[art. 3 del decreto Luogotenenziale 14 settembre 1918, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1311#art_3), se il ritorno avvenga nella stessa giornata. 
  
  I magistrati che si recano in trasferta e i funzionari di cancelleria e segreteria giudiziaria che li accompagnano, hanno facolta' di viaggiare in prima classe sulle ferrovie, sui piroscafi, sulle linee di automobili e sugli altri veicoli a trazione meccanica destinati in modo periodico e regolare al servizio pubblico, qualunque sia il proprio grado. Essi avranno diritto per tali viaggi al rimborso del prezzo del biglietto che sia stato effettivamente sborsato, in conformita' alla documentazione da farsi secondo le norme vigenti, con l'aumento di due decimi; e per i viaggi per via ordinaria, a L. 1 per chilometro. 
  
- Nulla e' innovato alle altre indennita' stabilite per il personale giudiziario nei [Regi decreti 11 novembre 1923, numero 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395) e [30 dicembre 1923, n. 2786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2786), ne' a quelle concesse dall'[art. 4 del R. decreto-legge 7 gennaio 1923, n. 8](Contenente%20disposizioni%20circa%20le%20locazioni%20di%20immobili%20urbani%20e%20i%20commissari%20del%20Governo%20per%20le%20abitazioni.%20023U0008.md), ai magistrati, che presiedono le Commissioni arbitrali per le locazioni di immobili urbani e ai cancellieri che vi sono addetti.
+ Nulla e' innovato alle altre indennita' stabilite per il personale giudiziario nei [Regi decreti 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), ne' a quelle concesse dall'[art. 4 del R. decreto-legge 7 gennaio 1923, n. 8](Contenente%20disposizioni%20circa%20le%20locazioni%20di%20immobili%20urbani%20e%20i%20commissari%20del%20Governo%20per%20le%20abitazioni.%20023U0008.md), ai magistrati, che presiedono le Commissioni arbitrali per le locazioni di immobili urbani e ai cancellieri che vi sono addetti.
 
 ## Art. 2.
 
@@ -41,13 +41,13 @@ Sono conservate nella misura anteriore le indennita' (medaglie di presenza) corr
 
 ## Art. 3.
 
-Sono soppresse le indennita' stabilite nell'[art. 8 del R. decreto 26 marzo 1911, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-03-26;435#art_8), ai componenti la Commissione per la conservazione e l'amministrazione del palazzo di giustizia in Roma, salvo l'applicazione dell'[art. 63 del R. decreto 8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;843#art_63). 
+Sono soppresse le indennita' stabilite nell'[art. 8 del R. decreto 26 marzo 1911, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-03-26;435#art_8), ai componenti la Commissione per la conservazione e l'amministrazione del palazzo di giustizia in Roma, salvo l'applicazione dell'[art. 63 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md). 
  
  Indennita' al personale dell'Amministrazione delle carceri e dei riformatori.
 
 ## Art. 4.
 
-Sono conservate nella misura indicata nella tabella stabilita con l'[art. 2 del R. decreto 27 febbraio 1921, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-02-27;453#art_2), le indennita' di alloggio ai direttori superiori e ai direttori, nonche' agli altri funzionari dell'Amministrazione delle carceri e dei riformatori incaricati delle funzioni di direttore che non godono dell'alloggio in natura e siano effettivamente preposti alla direzione di stabilimenti carcerari, di riformatori e di manicomi giudiziari. 
+Sono conservate nella misura indicata nella tabella stabilita con l'[art. 2 del R. decreto 27 febbraio 1921, n. 453](Che%20modifica%20il%20regolamento%2015%20luglio%201909%20n.541%20circa%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20delle%20carceri%20e%20dei%20riformatori.%20021U0453.md), le indennita' di alloggio ai direttori superiori e ai direttori, nonche' agli altri funzionari dell'Amministrazione delle carceri e dei riformatori incaricati delle funzioni di direttore che non godono dell'alloggio in natura e siano effettivamente preposti alla direzione di stabilimenti carcerari, di riformatori e di manicomi giudiziari. 
  
  Alle variazioni che si credesse necessario di apportare alla suindicata tabella, per soppressione od istituzione di direzioni autonome, sara' provveduto con decreto del Ministro per la giustizia e gli affari di culto di concerto col Ministro per le finanze. 
  
@@ -55,15 +55,15 @@ Sono conservate nella misura indicata nella tabella stabilita con l'[art. 2 del 
 
 ## Art. 5.
 
-Sono conservate nella misura indicata dalla tabella approvata dal [R. decreto 3 luglio 1921, n. 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-03;1744), le indennita' di residenza disagiata prevista dall'art. 68 del regolamento approvato con [R. decreto 15 luglio 1909, n. 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-07-15;541), per la carriera degli impiegati dell'Amministrazione delle carceri e dei riformatori.
+Sono conservate nella misura indicata dalla tabella approvata dal [R. decreto 3 luglio 1921, n. 1744](Che%20sostituisce%20la%20tabella%20D%20annessa%20al%20regolamento%2015%20luglio%201909%20n.%20541%20circa%20la%20concessione%20di%20indennita%20di%20disagiata%20residenza%20al%20personale%20carcerario%20addetto%20a%20determinate%20case%20penali.%20021U1744.md), le indennita' di residenza disagiata prevista dall'art. 68 del regolamento approvato con [R. decreto 15 luglio 1909, n. 541](Che%20approva%20il%20regolamento%20per%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20per%20il%20personale%20ad%20essa%20aggregato.%20009U0541.md), per la carriera degli impiegati dell'Amministrazione delle carceri e dei riformatori.
 
 ## Art. 6.
 
-L'indennita' assegnata al personale tecnico alienistico dei manicomi giudiziari coll'annotazione apposta alla tabella organica annessa al [R. decreto 25 marzo 1923, n. 867](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;867), e' ridotta, dal 1° aprile 1924, da L. 2500 a L. 1000 annue.
+L'indennita' assegnata al personale tecnico alienistico dei manicomi giudiziari coll'annotazione apposta alla tabella organica annessa al [R. decreto 25 marzo 1923, n. 867](Che%20provvede%20per%20la%20sistemazione%20del%20personale%20alienistico%20dei%20manicomi%20giudiziari.%20023U0867.md), e' ridotta, dal 1° aprile 1924, da L. 2500 a L. 1000 annue.
 
 ## Art. 7.
 
-Agli impiegati di ruolo dell'Amministrazione delle carceri in servizio nelle colonie penali agricole e' corrisposta nelle missioni per le quali il ritorno in sede abbia luogo nella stessa giornata, la indennita' giornaliera di soggiorno stabilita dall'[art. 181 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_181), ridotta ad un sesto nei casi di percorrenza di oltre cinque chilometri. 
+Agli impiegati di ruolo dell'Amministrazione delle carceri in servizio nelle colonie penali agricole e' corrisposta nelle missioni per le quali il ritorno in sede abbia luogo nella stessa giornata, la indennita' giornaliera di soggiorno stabilita dall'[art. 181 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), ridotta ad un sesto nei casi di percorrenza di oltre cinque chilometri. 
  
  Non spetta alcuna indennita' nei casi di percorrenza fino a chilometri tre. 
  
@@ -75,11 +75,11 @@ Agli impiegati di ruolo dell'Amministrazione delle carceri in servizio nelle col
 
 Agli agenti di custodia degli stabilimenti carcerari continueranno ad essere corrisposte: 
  
- a) le indennita' di alloggio nella misura ed alle condizioni stabilite dall'[art. 9 della legge 5 dicembre 1920, n. 1708](Che%20emana%20provvedimenti%20a%20favore%20del%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20020U1708.md) e nell'art. 83 del regolamento approvato con [R. decreto 23 dicembre 1920, n. 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-23;1921); 
+ a) le indennita' di alloggio nella misura ed alle condizioni stabilite dall'[art. 9 della legge 5 dicembre 1920, n. 1708](Che%20emana%20provvedimenti%20a%20favore%20del%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20020U1708.md) e nell'art. 83 del regolamento approvato con [R. decreto 23 dicembre 1920, n. 1921](Che%20approva%20il%20regolamento%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20020U1921.md); 
  
  b) la indennita' di vestiario di cui all'[art. 8 della legge 5 dicembre 1920, n. 1708](Che%20emana%20provvedimenti%20a%20favore%20del%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20020U1708.md); 
  
- c) la indennita' cavallo di cui all'art. 180 del regolamento approvato col [R. decreto 23 dicembre 1920, n. 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-23;1921); 
+ c) la indennita' cavallo di cui all'art. 180 del regolamento approvato col [R. decreto 23 dicembre 1920, n. 1921](Che%20approva%20il%20regolamento%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20020U1921.md); 
  
  d) la indennita' di disagiata residenza stabilita col [decreto Ministeriale 26 giugno 1908, n. 40659](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1908-06-26;40659); 
  
@@ -87,7 +87,7 @@ Agli agenti di custodia degli stabilimenti carcerari continueranno ad essere cor
  
  f) i premi di rafferma stabiliti con l'[art. 5 della legge 5 dicembre 1920, n. 1708](Che%20emana%20provvedimenti%20a%20favore%20del%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20020U1708.md); 
  
- g) i premi annessi al 2° e 4° distintivo di merito giusta l'art. 97 del regolamento approvato col [R. decreto 23 dicembre 1920, n. 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-23;1921); 
+ g) i premi annessi al 2° e 4° distintivo di merito giusta l'art. 97 del regolamento approvato col [R. decreto 23 dicembre 1920, n. 1921](Che%20approva%20il%20regolamento%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20020U1921.md); 
  
  h) gli aumenti di paga per rafferma, previsti dall'[art. 3 della legge 5 dicembre 1920, n. 1708](Che%20emana%20provvedimenti%20a%20favore%20del%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20020U1708.md), limitatamente alle guardie ed alle guardie scelte.
 

@@ -332,9 +332,9 @@ Il decreto che istituisce l'imposta, di cui alla lettera c) dell'art. 18, determ
  
  Ogni anno il Ministro per l'economia nazionale, in sede di approvazione del bilancio preventivo, stabilisce con decreto la misura della detta imposta che ciascun Consiglio provinciale dell'economia e' autorizzato ad esigere per l'anno successivo. 
  
- L'imposta anzidetta grava sul reddito o sulla parte di reddito prodotto nella circoscrizione del Consiglio. Essa si applica sui redditi netti iscritti nei ruoli dell'imposta di ricchezza mobile di categoria B e C provenienti da attivita' commerciali ed industriali e sui redditi delle aziende agrarie iscritti nei ruoli dell'imposta di ricchezza mobile in categoria B, con esclusione di quelli contemplati nel [R. decreto 4 gennaio 1923, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;16). Le modalita' per la ripartizione del reddito saranno stabilite nel regolamento. 
+ L'imposta anzidetta grava sul reddito o sulla parte di reddito prodotto nella circoscrizione del Consiglio. Essa si applica sui redditi netti iscritti nei ruoli dell'imposta di ricchezza mobile di categoria B e C provenienti da attivita' commerciali ed industriali e sui redditi delle aziende agrarie iscritti nei ruoli dell'imposta di ricchezza mobile in categoria B, con esclusione di quelli contemplati nel [R. decreto 4 gennaio 1923, n. 16](Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md). Le modalita' per la ripartizione del reddito saranno stabilite nel regolamento. 
  
- Quando trattasi di azienda i cui redditi, in virtu' di leggi speciali, siano esenti dall'imposta di ricchezza mobile, la valutazione del reddito agli effetti della imposta consigliare sara' quella stessa fatta dai Comuni ai sensi dell'[art. 5 del R. decreto 18 novembre 1923, n. 2538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2538#art_5). Qualora i Comuni interessati ritardassero nel fare la valutazione, i Consigli potranno provvedere direttamente. 
+ Quando trattasi di azienda i cui redditi, in virtu' di leggi speciali, siano esenti dall'imposta di ricchezza mobile, la valutazione del reddito agli effetti della imposta consigliare sara' quella stessa fatta dai Comuni ai sensi dell'[art. 5 del R. decreto 18 novembre 1923, n. 2538](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md). Qualora i Comuni interessati ritardassero nel fare la valutazione, i Consigli potranno provvedere direttamente. 
  
  I Consigli provinciali dell'economia hanno facolta' di colpire di imposta anche quei redditi di natura commerciale, industriale ed agraria, che non siano iscritti nei ruoli dell'imposta di ricchezza mobile, ma che abbiano dato luogo a tassazione da parte dei Comuni con la tassa di patente di cui all'art. 6 del citato Regio decreto.
 In tal caso l'ammontare dell'imposta per ciascuno dei redditi non potra' essere superiore all'ammontare dell'imposta corrispondente al reddito minimo tassabile col sistema dell'aliquota proporzionale. 
@@ -427,7 +427,7 @@ Capo V.
 
 Chiunque, sia individualmente, sia in societa' con altri, eserciti industria o commercio od agricoltura, e' tenuto a farne denuncia ai Consigli dell'economia delle Province, nelle quali egli abbia esercizi commerciali, industriali od agricoli, con le norme che saranno fissate dal regolamento. 
  
- Sono esonerati da tale obbligo gli esercenti attivita' agricole che siano colpiti soltanto dall'imposta sui redditi agrari, di cui al [R. decreto 4 gennaio 1923, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;16). 
+ Sono esonerati da tale obbligo gli esercenti attivita' agricole che siano colpiti soltanto dall'imposta sui redditi agrari, di cui al [R. decreto 4 gennaio 1923, n. 16](Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md). 
  
  Per le societa' legalmente costituite l'obbligo della denuncia spetta agli amministratori e, sino all'omologazione dell'atto costitutivo, a chi ha espresso mandato per le pratiche relative all'omologazione stessa. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 maggio 1933, n. 591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-05-18;591), contenente provvedimenti temporanei circa il diritto di recesso dei soci in caso di aumento di capitale delle societa' anonime. 
+ E' convertito in legge il [R. decreto-legge 18 maggio 1933, n. 591](Provvedimenti%20temporanei%20circa%20il%20diritto%20di%20recesso%20dei%20soci%20in%20caso%20di%20aumento%20di%20capitale%20delle%20societa%20anonime.%20033U0591.md), contenente provvedimenti temporanei circa il diritto di recesso dei soci in caso di aumento di capitale delle societa' anonime. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

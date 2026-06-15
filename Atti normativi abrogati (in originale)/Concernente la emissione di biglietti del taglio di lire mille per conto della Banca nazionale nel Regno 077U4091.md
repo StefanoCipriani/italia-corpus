@@ -14,9 +14,9 @@ IL MINISTRO DELLE FINANZE
  
  Visto l'articolo 20 degli statuti della Banca Nazionale nel Regno, approvati col Regio decreto 1° ottobre 1859, numero 3622, 
  
- Visto l'[articolo 8 della legge 30 aprile 1874, num. 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1874-04-30;1920#art_8) (Serie 2ª); 
+ Visto l'[articolo 8 della legge 30 aprile 1874, num. 1920](Sulla%20circolazione%20cartacea%20durante%20il%20corso%20forzoso.%20074U1920.md) (Serie 2ª); 
  
- Visto il regolamento approvato con [Regio decreto 17 settembre 1876, n. 3375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-09-17;3375) (Serie 2ª), 
+ Visto il regolamento approvato con [Regio decreto 17 settembre 1876, n. 3375](Che%20approva%20il%20regolamento%20riguardante%20le%20modalita%20e%20le%20forme%20dei%20biglietti%20che%20gli%20istituti%20di%20emissione%20sono%20autorizzati%20ad%20emettere%20per%20proprio%20conto.%20076U3375.md) (Serie 2ª), 
  
  Di concerto col Ministro di Agricoltura, Industria e Commercio, 
  

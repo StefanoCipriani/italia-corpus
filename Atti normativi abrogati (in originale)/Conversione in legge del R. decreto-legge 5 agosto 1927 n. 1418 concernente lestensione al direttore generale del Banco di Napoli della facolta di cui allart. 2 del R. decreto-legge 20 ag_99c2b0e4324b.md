@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 agosto 1927, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-05;1418), concernente l'estensione al direttore generale del Banco di Napoli della facolta' di cui all'[art. 2 del R. decreto-legge 20 agosto 1926, n. 1478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-20;1478#art_2). 
+ E' convertito in legge il [R. decreto-legge 5 agosto 1927, n. 1418](Estensione%20al%20direttore%20generale%20del%20Banco%20di%20Napoli%20dei%20poteri%20di%20cui%20allart.%202%20del%20R.%20decreto-legge%2020%20agosto%201926%20n.%201478.%20027U1418.md), concernente l'estensione al direttore generale del Banco di Napoli della facolta' di cui all'[art. 2 del R. decreto-legge 20 agosto 1926, n. 1478](Provvedimenti%20per%20la%20gestione%20del%20Banco%20di%20Napoli.%20026U1478.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

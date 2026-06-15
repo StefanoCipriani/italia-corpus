@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 settembre 1926, n. 1622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-03;1622), che reca norme speciali da applicare nei territori di confine delle nuove Provincie per il rilascio delle licenze di abbonamento alle radioaudizioni circolari. 
+ E' convertito in legge il [R. decreto-legge 3 settembre 1926, n. 1622](Norme%20speciali%20da%20applicare%20nei%20territori%20di%20confine%20delle%20nuove%20Provincie%20per%20il%20rilascio%20delle%20licenze%20di%20abbonamento%20alle%20radioaudizioni%20circolari.%20026U1622.md), che reca norme speciali da applicare nei territori di confine delle nuove Provincie per il rilascio delle licenze di abbonamento alle radioaudizioni circolari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

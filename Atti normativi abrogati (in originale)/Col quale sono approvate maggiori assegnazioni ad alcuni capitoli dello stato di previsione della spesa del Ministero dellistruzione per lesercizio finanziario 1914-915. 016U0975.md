@@ -32,7 +32,7 @@ E' approvata la maggiore assegnazione di L. 1.030,35 al capitolo n. 321 «Saldo 
 
 ## Art. 2.
 
-E' approvata la maggiore assegnazione di L. 2.868,74 al capitolo n. 322 «Indennita' ai funzionari civili che prestano servizio nei Comuni compresi nell'allegato di cui all'art. 1° della [legge 12 gennaio 1909, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-01-12;12), e saldo di spese relative riguardanti gli anni finanziari anteriori all'esercizio corrente» per provvedere al saldo delle spese residue verificatesi nel conto consuntivo della spesa del Ministero della istruzione pubblica per l'esercizio finanziario 1914-915.
+E' approvata la maggiore assegnazione di L. 2.868,74 al capitolo n. 322 «Indennita' ai funzionari civili che prestano servizio nei Comuni compresi nell'allegato di cui all'art. 1° della [legge 12 gennaio 1909, n. 12](Concernente%20provvedimenti%20a%20sollievo%20dei%20danneggiali%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0012.md), e saldo di spese relative riguardanti gli anni finanziari anteriori all'esercizio corrente» per provvedere al saldo delle spese residue verificatesi nel conto consuntivo della spesa del Ministero della istruzione pubblica per l'esercizio finanziario 1914-915.
 
 ## Art. 3.
 

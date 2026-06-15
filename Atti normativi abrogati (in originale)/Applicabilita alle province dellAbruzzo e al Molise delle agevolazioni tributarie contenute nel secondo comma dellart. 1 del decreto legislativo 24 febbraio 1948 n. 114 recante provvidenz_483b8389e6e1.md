@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La riduzione a un decimo della normale imposta di registro e l'applicazione dell'imposta fissa ipotecaria, previste nel [secondo comma dell'art. 1 del decreto legislativo 24 febbraio 1948, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-24;114#art_1-com2), per gli atti di compravendita e di concessione in enfiteusi di fondi rustici, relativamente a terreni situati nell'Italia meridionale, nella Sicilia e nella Sardegna, si intendono applicabili, con effetto dal giorno della entrata in vigore del detto decreto legislativo, alle province dell'Abruzzo e al Molise.
+La riduzione a un decimo della normale imposta di registro e l'applicazione dell'imposta fissa ipotecaria, previste nel [secondo comma dell'art. 1 del decreto legislativo 24 febbraio 1948, n. 114](../Decreti%20Legislativi/Provvidenze%20a%20favore%20della%20piccola%20proprieta%20contadina.md), per gli atti di compravendita e di concessione in enfiteusi di fondi rustici, relativamente a terreni situati nell'Italia meridionale, nella Sicilia e nella Sardegna, si intendono applicabili, con effetto dal giorno della entrata in vigore del detto decreto legislativo, alle province dell'Abruzzo e al Molise.
 
 ## Art. 2.
 

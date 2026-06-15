@@ -14,11 +14,11 @@ Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri
 
 Visto il [regio decreto-legge 24 giugno 1913, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-06-24;545), col quale vennero concesse facilitazioni per l' ordinazione del pagamento delle pensioni;
 
-Visto il [regio decreto-legge 27 giugno 1943, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-06-27;544), col quale vennero concesse facilitazioni per l'ordinazione del pagamento degli stipendi;
+Visto il [regio decreto-legge 27 giugno 1943, n. 544](Pagamento%20degli%20stipendi%20a%20favore%20degli%20impiegati%20trasferiti%20da%20od%20in%20localita%20sottoposte%20ad%20affesa%20nemica.%20043U0544.md), col quale vennero concesse facilitazioni per l'ordinazione del pagamento degli stipendi;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98).
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md).
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per il tesoro, di concerto col M
 
 ## Art. 1.
 
-L'Ufficio provinciale del Tesoro di Messina - in relazione agli eventi verificatisi nella citta' il giorno 22 marzo 1946 - e' autorizzato a sostituire i ruoli conti correnti riferentisi ad assegni di pensioni e di stipendi, che siano andati distratti, con altrettanti ruoli conti correnti provvisori, osservando, in quanto applicabili, le disposizioni dei [regi decreti-legge 21 giugno 1943, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-06-21;545) e [27 giugno 1943, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-06-27;544), nonche' quelle dei successivi articoli 2 a 5.
+L'Ufficio provinciale del Tesoro di Messina - in relazione agli eventi verificatisi nella citta' il giorno 22 marzo 1946 - e' autorizzato a sostituire i ruoli conti correnti riferentisi ad assegni di pensioni e di stipendi, che siano andati distratti, con altrettanti ruoli conti correnti provvisori, osservando, in quanto applicabili, le disposizioni dei [regi decreti-legge 21 giugno 1943, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-06-21;545) e [27 giugno 1943, n. 544](Pagamento%20degli%20stipendi%20a%20favore%20degli%20impiegati%20trasferiti%20da%20od%20in%20localita%20sottoposte%20ad%20affesa%20nemica.%20043U0544.md), nonche' quelle dei successivi articoli 2 a 5.
 
 ## Art. 2.
 

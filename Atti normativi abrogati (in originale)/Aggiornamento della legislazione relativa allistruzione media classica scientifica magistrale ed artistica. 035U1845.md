@@ -38,7 +38,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 Sono abrogate tutte le norme del vigente ordinamento dell'istruzione media classica, scientifica, magistrale, artistica, tecnica e di avviamento professionale, per effetto delle quali l'accesso a determinati esami e' subordinato al fatto che i candidati abbiano raggiunto una determinata eta' o che sia decorso un determinato intervallo di tempo dal conseguimento di un precedente titolo di studio. 
  
- Sono abrogati l'art. 29 del R. decreto 6 maggio 1923-I, n. 1054, gli articoli dall'1 al 9 del R. decreto 30 aprile 1924-XII, n. 965, l'ultimo comma dell'art. 3 della legge 15 giugno 1931-IX, n. 889, nonche' il [R. decreto 19 agosto 1932, n. 1081](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-08-19;1081), e il R. decreto 5 luglio 1934-XII, n. 1210.
+ Sono abrogati l'art. 29 del R. decreto 6 maggio 1923-I, n. 1054, gli articoli dall'1 al 9 del R. decreto 30 aprile 1924-XII, n. 965, l'ultimo comma dell'art. 3 della legge 15 giugno 1931-IX, n. 889, nonche' il [R. decreto 19 agosto 1932, n. 1081](Costituzione%20di%20Giunte%20regionali%20per%20listruzione%20media%20tecnica.%20032U1081.md), e il R. decreto 5 luglio 1934-XII, n. 1210.
 
 ## Art. 2.
 

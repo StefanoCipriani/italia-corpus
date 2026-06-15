@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La ritenuta straordinaria mensile, stabilita dall'[art. 6 del R. decreto-legge 2 settembre 1919, n. 1598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-09-02;1598#art_6), e modificata dall'[art. 1 del R. decreto-legge 30 dicembre 1923, n. 2775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;2775#art_1), sugli stipendi dei magistrati e', dal 1° luglio 1929, fino a nuova disposizione, fissata nella seguente misura: 
+La ritenuta straordinaria mensile, stabilita dall'[art. 6 del R. decreto-legge 2 settembre 1919, n. 1598](Che%20approva%20la%20costituzione%20di%20un%20Istituto%20nazionale%20di%20previdenza%20e%20mutualita%20fra%20i%20magistrati%20italiani%20con%20sede%20in%20Roma.%20019U1598.md), e modificata dall'[art. 1 del R. decreto-legge 30 dicembre 1923, n. 2775](Aumento%20della%20ritenuta%20straordinaria%20mensile%20sugli%20stipendi%20del%20magistrati%20a%20favore%20dellIstituto%20nazionale%20di%20previdenza%20e%20mutualita%20fra%20i%20magistrati%20italiani.%20023U2775.md), sugli stipendi dei magistrati e', dal 1° luglio 1929, fino a nuova disposizione, fissata nella seguente misura: 
  
  lire due per i giudici aggiunti; 
  

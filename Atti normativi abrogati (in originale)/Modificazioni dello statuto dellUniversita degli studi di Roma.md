@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319) e modificato con [regio decreto 13 ottobre 1927, n. 2819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2819) e successivi;
+Visto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](Approvazione%20dello%20statuto%20della%20Regia%20Universita%20di%20Roma.%20026U2319.md) e modificato con [regio decreto 13 ottobre 1927, n. 2819](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Roma.%20027U2819.md) e successivi;
 
 Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Visto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
 
-Visto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Visto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
 
 Viste le proposte relative a modifiche dello statuto dell'Ateneo anzidetto;
 

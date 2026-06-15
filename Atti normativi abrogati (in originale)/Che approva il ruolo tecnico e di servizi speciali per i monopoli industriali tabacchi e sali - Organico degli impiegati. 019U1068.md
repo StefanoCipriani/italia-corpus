@@ -26,7 +26,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-E' approvata, con effetto dal 1° aprile 1919, in sostituzione delle tabelle G ed H della [legge 5 giugno 1913, n. 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-05;541), l'annessa tabella con le disposizioni in essa inserite, relative agli impiegati del ruolo tecnico e di servizi speciali per i monopoli industriali (tabacchi e sali).
+E' approvata, con effetto dal 1° aprile 1919, in sostituzione delle tabelle G ed H della [legge 5 giugno 1913, n. 541](Che%20approva%20modificazioni%20ai%20ruoli%20organici%20del%20personale%20dellAmministrazione%20esterna%20delle%20gabelle%20degli%20uffici%20tecnici%20di%20finanza%20del%20personale%20tecnico%20ed%20amministrativo%20degli%20stabilime_df0a6fc0f2f8.md), l'annessa tabella con le disposizioni in essa inserite, relative agli impiegati del ruolo tecnico e di servizi speciali per i monopoli industriali (tabacchi e sali).
 
 ## Art. 2.
 

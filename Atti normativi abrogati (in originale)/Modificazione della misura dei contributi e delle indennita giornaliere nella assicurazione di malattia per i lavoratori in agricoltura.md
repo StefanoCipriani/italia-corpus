@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'[art. 3, n. 1, della legge 31 gennaio 1926, numero 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_3-num1);
+Visto l'[art. 3, n. 1, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [decreto legislativo luogotenenziale 9 aprile 1946, n. 212, articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-09;212#art_1) e [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-09;212#art_2), concernente modificazioni delle disposizioni sulla assicurazione di malattia per i lavoratori in agricoltura;
+Visto il [decreto legislativo luogotenenziale 9 aprile 1946, n. 212, articoli 1](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20delle%20vigenti%20disposizioni%20sulla%20assicurazione%20di%20malattia%20per%20i%20lavoratori%20in%20agricoltura.md) e [2](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20delle%20vigenti%20disposizioni%20sulla%20assicurazione%20di%20malattia%20per%20i%20lavoratori%20in%20agricoltura.md), concernente modificazioni delle disposizioni sulla assicurazione di malattia per i lavoratori in agricoltura;
 
 Sentiti l'Istituto nazionale di assicurazione di malattia e le organizzazioni nazionali sindacali interessate;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-Con effetto dal 1° luglio 1947, le tabelle A e B annesse al [decreto legislativo luogotenenziale 9 aprile 1946, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-09;212), sono sostituite rispettivamente dalle tabelle A e B allegate al presente decreto e vistate, d'ordine del Capo provvisorio dello Stato, dal Ministro per il lavoro e la previdenza sociale e dal Ministro per il tesoro.
+Con effetto dal 1° luglio 1947, le tabelle A e B annesse al [decreto legislativo luogotenenziale 9 aprile 1946, n. 212](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20delle%20vigenti%20disposizioni%20sulla%20assicurazione%20di%20malattia%20per%20i%20lavoratori%20in%20agricoltura.md), sono sostituite rispettivamente dalle tabelle A e B allegate al presente decreto e vistate, d'ordine del Capo provvisorio dello Stato, dal Ministro per il lavoro e la previdenza sociale e dal Ministro per il tesoro.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

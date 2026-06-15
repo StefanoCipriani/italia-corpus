@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di prorogare il termine dell'entrata in vigore del nuovo sistema di partecipazione al costo delle prestazioni sanitarie in relazione alla situazione economica del nucleo familiare, di cui al [decreto legislativo 29 aprile 1998, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-29;124), al fine di consentirne una migliore definizione delle modalita' attuative;
+Ritenuta la straordinaria necessita' ed urgenza di prorogare il termine dell'entrata in vigore del nuovo sistema di partecipazione al costo delle prestazioni sanitarie in relazione alla situazione economica del nucleo familiare, di cui al [decreto legislativo 29 aprile 1998, n. 124](../Decreti%20Legislativi/Ridefinizione%20del%20sistema%20di%20partecipazione%20al%20costo%20delle%20prestazioni%20sanitarie%20e%20del%20regime%20delle%20esenzioni%20a%20norma%20dellarticolo%2059%20comma%2050%20della%20legge%2027%20dicembre%201997%20n.%20449.md), al fine di consentirne una migliore definizione delle modalita' attuative;
 
 Sulla proposta del Presidente del Consiglio dei Ministri, e del Ministro della sanita', di concerto con i Ministri del tesoro, del
 
@@ -22,11 +22,11 @@ bilancio e della programmazione economica e per gli affari regionali; Emana il s
 
 1.
 
-Nel [comma 1 dell'articolo 3 del decreto legislativo 29 aprile 1998, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-29;124#art_3-com1), le parole: "e comunque a partire dal 1° gennaio 2000" sono sostituite dalle seguenti: "cui si provvede entro il 31 dicembre 2000".
+Nel [comma 1 dell'articolo 3 del decreto legislativo 29 aprile 1998, n. 124](../Decreti%20Legislativi/Ridefinizione%20del%20sistema%20di%20partecipazione%20al%20costo%20delle%20prestazioni%20sanitarie%20e%20del%20regime%20delle%20esenzioni%20a%20norma%20dellarticolo%2059%20comma%2050%20della%20legge%2027%20dicembre%201997%20n.%20449.md), le parole: "e comunque a partire dal 1° gennaio 2000" sono sostituite dalle seguenti: "cui si provvede entro il 31 dicembre 2000".
 
 2.
 
-Nel [comma 9 dell'articolo 4 del decreto legislativo 29 aprile 1998, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-29;124#art_4-com9), le parole: "e comunque non oltre il 31 dicembre 1999" sono sostituite dalle seguenti: "cui si provvede entro il 31 dicembre 2000".
+Nel [comma 9 dell'articolo 4 del decreto legislativo 29 aprile 1998, n. 124](../Decreti%20Legislativi/Ridefinizione%20del%20sistema%20di%20partecipazione%20al%20costo%20delle%20prestazioni%20sanitarie%20e%20del%20regime%20delle%20esenzioni%20a%20norma%20dellarticolo%2059%20comma%2050%20della%20legge%2027%20dicembre%201997%20n.%20449.md), le parole: "e comunque non oltre il 31 dicembre 1999" sono sostituite dalle seguenti: "cui si provvede entro il 31 dicembre 2000".
 
 ## Art. 2.
 

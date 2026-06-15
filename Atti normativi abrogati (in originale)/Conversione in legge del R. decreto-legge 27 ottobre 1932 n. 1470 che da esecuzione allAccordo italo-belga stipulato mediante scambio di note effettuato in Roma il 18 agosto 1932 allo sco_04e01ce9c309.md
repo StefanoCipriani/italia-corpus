@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 ottobre 1932, n. 1470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-10-27;1470), che ha dato esecuzione all'Accordo italo-belga, stipulato mediante scambio di note in Roma il 18 agosto 1932, per regolare il regime dei certificati di origine e delle fatture commerciali che accompagnano le merci destinate dall'uno all'altro Paese. 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1932, n. 1470](Esecuzione%20dellAccordo%20italo-belga%20concernente%20i%20certificati%20di%20origine%20e%20le%20fatture%20commerciali%20fra%20i%20due%20Paesi.%20032U1470.md), che ha dato esecuzione all'Accordo italo-belga, stipulato mediante scambio di note in Roma il 18 agosto 1932, per regolare il regime dei certificati di origine e delle fatture commerciali che accompagnano le merci destinate dall'uno all'altro Paese. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato 
  

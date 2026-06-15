@@ -30,7 +30,7 @@ La pubblicazione, sotto qualsiasi forma, la vendita e la distribuzione degli ele
 
 ## Art. 2.
 
-La pubblicazione sotto qualsiasi forma, la vendita e la distribuzione dell'elenco generale degli abbonati al telefono, a norma dell'art. 50 del regolamento per l'esecuzione del testo unico di legge sui telefoni approvato con [R. decreto 21 maggio 1903, n. 253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-05-21;253), o di guide telefoniche generali, o di estratti, supplementi, notiziari o bollettini sono riservate esclusivamente al Ministero delle comunicazioni che vi provvedera' direttamente, oppure per concessione ad uno degli istituti di previdenza sottoposti alla sua vigilanza e tutela. 
+La pubblicazione sotto qualsiasi forma, la vendita e la distribuzione dell'elenco generale degli abbonati al telefono, a norma dell'art. 50 del regolamento per l'esecuzione del testo unico di legge sui telefoni approvato con [R. decreto 21 maggio 1903, n. 253](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20di%20legge%20sui%20telefoni%20del%203%20maggio%201903%20n.%20196.%20003U0253.md), o di guide telefoniche generali, o di estratti, supplementi, notiziari o bollettini sono riservate esclusivamente al Ministero delle comunicazioni che vi provvedera' direttamente, oppure per concessione ad uno degli istituti di previdenza sottoposti alla sua vigilanza e tutela. 
  
  Le societa' esercenti di servizi telefonici restano in ogni caso obbligate a somministrare i dati e le notizie necessarie nei modi e termini stabiliti dal Ministero.
 

@@ -16,15 +16,15 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 40 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_40), contenente l'ordinamento dell'esercizio delle ferrovie dello Stato, e successive modificazioni;
+Visto l'[art. 40 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), contenente l'ordinamento dell'esercizio delle ferrovie dello Stato, e successive modificazioni;
 
 Visto il [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), che approva il testo unico delle disposizioni di legge sulle ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, e successive modificazioni;
 
-Visto il [R. decreto-legge 11 ottobre 1934, n. 1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-11;1948), convertito nella [legge 4 aprile 1935, n. 911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;911), e successive modificazioni, con il quale sono state approvate le condizioni e le tariffe pel trasporto delle persone sulle ferrovie dello Stato;
+Visto il [R. decreto-legge 11 ottobre 1934, n. 1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-11;1948), convertito nella [legge 4 aprile 1935, n. 911](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20ottobre%201934%20n.%201948%20concernente%20lapprovazione%20di%20nuove%20Condizioni%20e%20tariffe%20per%20il%20trasporto%20delle%20persone%20sulle%20ferrovie%20dello%20Stato.%20035U0911.md), e successive modificazioni, con il quale sono state approvate le condizioni e le tariffe pel trasporto delle persone sulle ferrovie dello Stato;
 
-Visto il [R. decreto-legge 25 gennaio 1940, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-01-25;9), convertito nella [legge 13 maggio 1940, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-13;674), con il quale sono state approvate le condizioni e le tariffe per il trasporto delle cose sulle ferrovie dello Stato;
+Visto il [R. decreto-legge 25 gennaio 1940, n. 9](Nuove%20condizioni%20e%20tariffe%20per%20il%20trasporto%20delle%20cose%20sulle%20ferrovie%20dello%20Stato.%20040U0009.md), convertito nella [legge 13 maggio 1940, n. 674](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2025%20gennaio%201940-XVIII%20n.%209%20concernente%20la%20semplificazione%20e%20ladeguamento%20delle%20tariffe%20per%20il%20trasporto%20delle%20merci%20sulle%20ferrovie%20dello%20Stato.%20040U0674.md), con il quale sono state approvate le condizioni e le tariffe per il trasporto delle cose sulle ferrovie dello Stato;
 
-Visto il [R. decreto-legge 16 dicembre 1943, n. 27/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-16;27), contenente aumenti delle tariffe per i trasporti di persone e di cose sulle ferrovie dello Stato e negli altri servizi pubblici di trasporto, e il decreto del Ministro per le comunicazioni 31 ottobre 1944, emanato in applicazione di tale Regio decreto-legge;
+Visto il [R. decreto-legge 16 dicembre 1943, n. 27/B](Aumenti%20delle%20tariffe%20per%20i%20trasporti%20di%20persone%20e%20di%20cose%20nelle%20ferrovie%20dello%20Stato%20e%20negli%20altri%20servizi%20pubblici%20di%20trasporto.%20043U0027.md), contenente aumenti delle tariffe per i trasporti di persone e di cose sulle ferrovie dello Stato e negli altri servizi pubblici di trasporto, e il decreto del Ministro per le comunicazioni 31 ottobre 1944, emanato in applicazione di tale Regio decreto-legge;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -36,7 +36,7 @@ Sulla proposta del Ministro Segretario di Stato per i trasporti, d'intesa con i 
 
 ## Art. 1.
 
-I [decreti del Ministro per le comunicazioni 31 gennaio 1942, n. 2326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:1942-01-31;2326), e [26 febbraio 1942, n. 2654](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:1942-02-26;2654), concernenti riduzioni temporanee sui prezzi di trasporto per ferrovia a favore di derrate alimentari, vini, mosti e uve pigiate con mosto, sono abrogati ed ai prezzi di risulta sono applicabili le norme di cui al decreto del Ministro per le comunicazioni 31 ottobre 1944, emanato in applicazione del [R. decreto-legge 16 dicembre 1943, n. 27/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-16;27).
+I [decreti del Ministro per le comunicazioni 31 gennaio 1942, n. 2326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:1942-01-31;2326), e [26 febbraio 1942, n. 2654](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:1942-02-26;2654), concernenti riduzioni temporanee sui prezzi di trasporto per ferrovia a favore di derrate alimentari, vini, mosti e uve pigiate con mosto, sono abrogati ed ai prezzi di risulta sono applicabili le norme di cui al decreto del Ministro per le comunicazioni 31 ottobre 1944, emanato in applicazione del [R. decreto-legge 16 dicembre 1943, n. 27/B](Aumenti%20delle%20tariffe%20per%20i%20trasporti%20di%20persone%20e%20di%20cose%20nelle%20ferrovie%20dello%20Stato%20e%20negli%20altri%20servizi%20pubblici%20di%20trasporto.%20043U0027.md).
 
 ## Art. 2.
 
@@ -84,7 +84,7 @@ Per i maggiori proventi derivanti dall'applicazione degli aumenti di cui all'art
 
 ## Art. 6.
 
-Il termine per la revisione, che a termini dell'[art. 40 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_40), deve effettuarsi della nomenclatura e classificazione delle cose, facente parte delle condizioni e tariffe per i trasporti delle cose sulle ferrovie dello Stato, e' prorogato fino ad un anno dopo la cessazione dello stato di guerra.
+Il termine per la revisione, che a termini dell'[art. 40 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), deve effettuarsi della nomenclatura e classificazione delle cose, facente parte delle condizioni e tariffe per i trasporti delle cose sulle ferrovie dello Stato, e' prorogato fino ad un anno dopo la cessazione dello stato di guerra.
 
 ## Art. 7.
 

@@ -18,13 +18,13 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sull'Ordinamento giudiziario;
 
-Visto il [R. decreto-legge 8 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;745), sull'Ordinamento del personale delle cancellerie e segreterie giudiziarie;
+Visto il [R. decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), sull'Ordinamento del personale delle cancellerie e segreterie giudiziarie;
 
-Visto il [R. decreto-legge 5 novembre 1931, n. 1444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-05;1444), recante modifiche alle circoscrizioni giudiziarie e ad alcune norme dell'Ordinamento giudiziario;
+Visto il [R. decreto-legge 5 novembre 1931, n. 1444](Modificazioni%20alla%20circoscrizione%20giudiziaria%20del%20Regno%20e%20ad%20alcune%20norme%20dellordinamento%20giudiziario.%20031U1444.md), recante modifiche alle circoscrizioni giudiziarie e ad alcune norme dell'Ordinamento giudiziario;
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), riguardante la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), riguardante la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

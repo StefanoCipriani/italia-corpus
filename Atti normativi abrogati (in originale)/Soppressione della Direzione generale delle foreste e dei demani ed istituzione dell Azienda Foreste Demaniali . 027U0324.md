@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 6 settembre 1923, n. 2125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-06;2125), e successive modificazioni relative all'ordinamento del Ministero dell'economia nazionale ed alla istituzione della Direzione generale delle foreste e dei demani;
+Visto il [R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), e successive modificazioni relative all'ordinamento del Ministero dell'economia nazionale ed alla istituzione della Direzione generale delle foreste e dei demani;
 
 Visto il [R. decreto 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267), per il riordinamento e la riforma della legislazione in materia di boschi e di terreni montani;
 

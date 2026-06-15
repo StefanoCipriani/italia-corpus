@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 marzo 1943, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-03-04;118), che contiene facilitazioni per continuazione del pagamento degli assegni a favore dei pensionati che rimangono privi del certificato di iscrizione per causa dipendente dalla guerra. 
+ E' convertito in legge il [R. decreto-legge 4 marzo 1943, n. 118](Facilitazioni%20per%20la%20continuazione%20del%20pagamento%20degli%20assegni%20a%20favore%20dei%20pensionati%20che%20rimangono%20privi%20del%20certificato%20discrizione%20per%20causa%20dipendente%20dalla%20guerra.%20043U0118.md), che contiene facilitazioni per continuazione del pagamento degli assegni a favore dei pensionati che rimangono privi del certificato di iscrizione per causa dipendente dalla guerra. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge delle Stato. 
  

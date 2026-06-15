@@ -22,19 +22,19 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 20 della legge 19 luglio 1907, n. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-19;515#art_20); 
+ Visto l'[art. 20 della legge 19 luglio 1907, n. 515](Riforma%20dellordinamento%20organico%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20007U0515.md); 
  
- Visto l'art. 3 delle disposizioni transitorie del [R. decreto 5 aprile 1908, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-04-05;140); 
+ Visto l'art. 3 delle disposizioni transitorie del [R. decreto 5 aprile 1908, n. 140](Che%20sostituisce%20taluni%20articoli%20del%20regolamento%20organico%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20008U0140.md); 
  
  Visto l'odierno R. decreto col quale si provvede al passaggio alla prima categoria del personale postale-telegrafico dei capi d'ufficio Pisani Michele e Moscato Francesco a decorrere dal 1° luglio 1915, in applicazione del predetto art. 26; 
  
- Ritenuto doversi modificare, in conformita' di quanto dispone l'articolo stesso, il quadro I della tabella organica A ed il quadro III della tabella organica annesso rispettivamente alle [leggi 25 giugno 1911, numero 575 e 20 marzo 1913, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;267); 
+ Ritenuto doversi modificare, in conformita' di quanto dispone l'articolo stesso, il quadro I della tabella organica A ed il quadro III della tabella organica annesso rispettivamente alle [leggi 25 giugno 1911, numero 575 e 20 marzo 1913, n. 267](Riguardante%20il%20personale%20degli%20operatori%20e%20telegrafisti%20013U0267.md); 
  
  Sulla proposta del ministro segretario di Stato per le poste e per i telegrafi; 
  
  Abbiamo decretato e decretiamo: 
  
- Sono apportate, con effetto dal 1° luglio 1915, le seguenti variazioni alle tabelle organiche A e B del personale postale-telegrafico, annesse rispettivamente alle [leggi 25 giugno 1911, n. 575 e 20 marzo 1913, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;267); 
+ Sono apportate, con effetto dal 1° luglio 1915, le seguenti variazioni alle tabelle organiche A e B del personale postale-telegrafico, annesse rispettivamente alle [leggi 25 giugno 1911, n. 575 e 20 marzo 1913, n. 267](Riguardante%20il%20personale%20degli%20operatori%20e%20telegrafisti%20013U0267.md); 
  
  Tabella A - Quadro I. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 aprile 1934, n. 794](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-30;794), col quale viene semplificato l'ordinamento dei giudizi in materia di danni di guerra, con la seguente modificazione; 
+ E' convertito in legge il [R. decreto-legge 30 aprile 1934, n. 794](Semplificazione%20dellordinamento%20dei%20giudizi%20in%20materia%20di%20danni%20di%20guerra.%20034U0794.md), col quale viene semplificato l'ordinamento dei giudizi in materia di danni di guerra, con la seguente modificazione; 
  
  All'art. 2, alle parole «e di tre tecnici» sono sostituite le altre «e di due tecnici». 
  

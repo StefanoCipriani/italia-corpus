@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  Articolo unico. 
  
  Sono convertiti in legge i [Regi decreti-legge: 
- 6 novembre 1930, n. 1653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-06;1653), riflettente l'autorizzazione al Ministro per le finanze a facilitare nuovi finanziamenti alla Societa' «Migiurtinia»; 
+ 6 novembre 1930, n. 1653](Autorizzazione%20al%20Ministro%20per%20le%20finanze%20a%20facilitare%20nuovi%20finanziamenti%20alla%20Societa%20Migiurtinia.%20030U1653.md), riflettente l'autorizzazione al Ministro per le finanze a facilitare nuovi finanziamenti alla Societa' «Migiurtinia»; 
  16 febbraio 1931, n. 192, riflettente l'autorizzazione al Ministro per le finanze a garantire e facilitare nuovi finanziamenti alla Societa' «Migiurtinia». 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 30 maggio 1932 - Anno X 

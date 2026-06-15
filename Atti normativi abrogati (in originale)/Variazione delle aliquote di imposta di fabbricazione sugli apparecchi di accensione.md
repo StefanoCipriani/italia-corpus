@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [decreto-legge 20 aprile 1971, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1971-04-20;163), convertito, con modificazioni, nella [legge 18 giugno 1971, numero 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-18;376);
+Visto il [decreto-legge 20 aprile 1971, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1971-04-20;163), convertito, con modificazioni, nella [legge 18 giugno 1971, numero 376](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20aprile%201971%20n.%20163%20concernente%20il%20regime%20fiscale%20degli%20apparecchi%20di%20accensione.md);
 
-Visto il [decreto del Presidente della Repubblica 1 ottobre 1971, n. 1198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-10-01;1198);
+Visto il [decreto del Presidente della Repubblica 1 ottobre 1971, n. 1198](../DPR/Regime%20fiscale%20degli%20accendigas%20per%20uso%20domestico.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di modificare le attuali aliquote di imposta di fabbricazione previste per gli apparecchi di accensione;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Art. 1.
 
-Le aliquote di imposta di fabbricazione per gli apparecchi di accensione di cui all'[art. 1 del decreto-legge 20 aprile 1971, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1971-04-20;163#art_1) e del [decreto del Presidente della Repubblica 1 ottobre 1971, n. 1198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-10-01;1198), citati nelle premesse, sono variate come segue: 
+Le aliquote di imposta di fabbricazione per gli apparecchi di accensione di cui all'[art. 1 del decreto-legge 20 aprile 1971, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1971-04-20;163#art_1) e del [decreto del Presidente della Repubblica 1 ottobre 1971, n. 1198](../DPR/Regime%20fiscale%20degli%20accendigas%20per%20uso%20domestico.md), citati nelle premesse, sono variate come segue: 
  
 
  a) per ogni accendisigari per

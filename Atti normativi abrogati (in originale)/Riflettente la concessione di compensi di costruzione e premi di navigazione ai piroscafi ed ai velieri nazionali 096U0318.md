@@ -74,7 +74,7 @@ Durante il decennio nel quale sono accordati i compensi di costruzione di cui ne
  
  Per ottenere la restituzione dei dazi di cui nei precedenti due paragrafi, gli interessati dovranno produrre le prove di aver pagato su tutti i materiali di provenienza estera, impiegati nell'eseguire detti lavori, i dazi fissati dalla tariffa doganale, e per i materiali nazionali le fatture od i certificati degli stabilimenti che li hanno forniti. 
  
- Le [leggi 31 luglio 1879 n. 5014](Che%20accorda%20lesenzione%20daziaria%20ai%20materiali%20occorrenti%20alla%20costruzione%20di%20galleggianti.%20079U5014.md) (Serie 3ª) e 30 giugno 1889 n. 6230 (Serie 3ª) e il [Regio decreto 22 marzo 1888 n. 5372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-03-22;5372) (Serie 3ª) sono abrogati.
+ Le [leggi 31 luglio 1879 n. 5014](Che%20accorda%20lesenzione%20daziaria%20ai%20materiali%20occorrenti%20alla%20costruzione%20di%20galleggianti.%20079U5014.md) (Serie 3ª) e 30 giugno 1889 n. 6230 (Serie 3ª) e il [Regio decreto 22 marzo 1888 n. 5372](Accorda%20maggiori%20compensi%20alla%20costruzione%20degli%20scafi%20delle%20macchine%20delle%20caldaie%20ecc.%20delle%20navi%20mercantili%20fabbricate%20nei%20cantieri%20nazionali.%20088U5372.md) (Serie 3ª) sono abrogati.
 
 ### Art. 10.
 
@@ -398,7 +398,7 @@ Il canone per ottenere le concessioni di terreni arenili a uso di cantieri naval
 
 ### Art. 45.
 
-Alle differenze provenienti da errore di calcolo, nella riscossione, o da erronea applicazione delle tasse, indicate nel capo IV di questa legge, e' applicata la prescrizione stabilita dall'[articolo 7 del R. decreto 17 novembre 1887 n. 5084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-11-17;5084#art_7) (Serie 3ª), con cui furono approvati il repertorio e le disposizioni speciali per l'applicazione della tariffa generale doganale.
+Alle differenze provenienti da errore di calcolo, nella riscossione, o da erronea applicazione delle tasse, indicate nel capo IV di questa legge, e' applicata la prescrizione stabilita dall'[articolo 7 del R. decreto 17 novembre 1887 n. 5084](Che%20approva%20il%20repertorio%20e%20le%20disposizioni%20speciali%20per%20lapplicazione%20della%20Tariffa%20generale%20dei%20dazi%20doganali.%20087U5084.md) (Serie 3ª), con cui furono approvati il repertorio e le disposizioni speciali per l'applicazione della tariffa generale doganale.
 
 ## Contributo alle casse degli invalidi della marina mercantile
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'Istituto commerciale italiano per i prodotti delle piccole industrie e l'Istituto nazionale di credito per le piccole industrie e l'artigianato, previsti dal [R. decreto-legge 13 agosto 1926, n.1490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1490), sono soppressi.
+L'Istituto commerciale italiano per i prodotti delle piccole industrie e l'Istituto nazionale di credito per le piccole industrie e l'artigianato, previsti dal [R. decreto-legge 13 agosto 1926, n.1490](Stanziamento%20di%20fondi%20per%20lorganizzazione%20tecnica%20produttiva%20commerciale%20e%20creditizia%20delle%20piccole%20industrie.%20026U1490.md), sono soppressi.
 
 ## Art. 2.
 
@@ -18,7 +18,7 @@ Le funzioni gia' affidate agli Istituti indicati nell'art. 1 sono assunte ed ese
  
  Tali sezioni, aventi personalita' giuridica e sede in Roma, saranno amministrate dall'Ente predetto, con patrimoni e regolamenti propri e gestioni separate. 
  
- Restano immutati i compiti e le finalita' assegnati all'Ente nazionale per le piccole industrie dall'[art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2334#art_1) e dall'[art. 3 del R. decreto-legge 16 dicembre 1926, n. 2334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2334#art_3).
+ Restano immutati i compiti e le finalita' assegnati all'Ente nazionale per le piccole industrie dall'[art. 1](Provvedimenti%20per%20lo%20sviluppo%20tecnico%20ed%20economico%20delle%20piccole%20industrie.%20026U2334.md) e dall'[art. 3 del R. decreto-legge 16 dicembre 1926, n. 2334](Provvedimenti%20per%20lo%20sviluppo%20tecnico%20ed%20economico%20delle%20piccole%20industrie.%20026U2334.md).
 
 ## Art. 3.
 
@@ -58,7 +58,7 @@ Il controllo della gestione finanziaria dell'Ente e di quella delle due sezioni 
 
 A partire dal 1° gennaio 1928 i Comitati provinciali ed i Comitati regionali per le piccole industrie sono soppressi. 
  
- Le funzioni previste dalle prime quattro lettere dell'art. 6 dello statuto dell'Ente nazionale per le piccole industrie, approvato con [R. decreto 21 aprile 1927, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-21;699), sono demandate ai Consigli provinciali dell'economia. Per le altre funzioni, gia' affidate ai Comitati provinciali, provvedera' direttamente l'Ente suddetto.
+ Le funzioni previste dalle prime quattro lettere dell'art. 6 dello statuto dell'Ente nazionale per le piccole industrie, approvato con [R. decreto 21 aprile 1927, n. 699](Approvazione%20del%20nuovo%20statuto%20dellEnte%20nazionale%20per%20le%20piccole%20industrie.%20027U0699.md), sono demandate ai Consigli provinciali dell'economia. Per le altre funzioni, gia' affidate ai Comitati provinciali, provvedera' direttamente l'Ente suddetto.
 
 ## Art. 7.
 
@@ -68,11 +68,11 @@ Con decreto del Ministro per l'economia nazionale possono essere costituiti nei 
 
 ## Art. 8.
 
-I fondi indicati nell'art. 6, comma a), del [R. decreto-legge 16 dicembre 1926, n. 2334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2334), sono devoluti allo svolgimento dell'azione locale dell'Ente nazionale per le piccole industrie previsto dall'art. 6 del presente decreto. Nulla e' innovato al disposto dell'[art. 1 del R. decreto-legge 13 agosto 1926, numero 1490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1490#art_1).
+I fondi indicati nell'art. 6, comma a), del [R. decreto-legge 16 dicembre 1926, n. 2334](Provvedimenti%20per%20lo%20sviluppo%20tecnico%20ed%20economico%20delle%20piccole%20industrie.%20026U2334.md), sono devoluti allo svolgimento dell'azione locale dell'Ente nazionale per le piccole industrie previsto dall'art. 6 del presente decreto. Nulla e' innovato al disposto dell'[art. 1 del R. decreto-legge 13 agosto 1926, numero 1490](Stanziamento%20di%20fondi%20per%20lorganizzazione%20tecnica%20produttiva%20commerciale%20e%20creditizia%20delle%20piccole%20industrie.%20026U1490.md).
 
 ## Art. 9.
 
-Le assegnazioni indicate negli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1490#art_2) e [3 del R. decreto-legge 13 agosto 1926, n. 1490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1490#art_3), restano devolute rispettivamente alle sezioni commerciali e di credito dell'Ente nazionale per le piccole industrie.
+Le assegnazioni indicate negli [articoli 2](Stanziamento%20di%20fondi%20per%20lorganizzazione%20tecnica%20produttiva%20commerciale%20e%20creditizia%20delle%20piccole%20industrie.%20026U1490.md) e [3 del R. decreto-legge 13 agosto 1926, n. 1490](Stanziamento%20di%20fondi%20per%20lorganizzazione%20tecnica%20produttiva%20commerciale%20e%20creditizia%20delle%20piccole%20industrie.%20026U1490.md), restano devolute rispettivamente alle sezioni commerciali e di credito dell'Ente nazionale per le piccole industrie.
 
 ## Art. 10.
 
@@ -102,9 +102,9 @@ La pianta organica ed il trattamento giuridico ed economico del personale assunt
 
 ## Art. 14.
 
-Le disposizioni contenute nel [R. decreto-legge 14 marzo 1927, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-14;372), hanno piena efficacia nei riguardi delle sezioni di credito e commerciale dell'Ente nazionale per le piccole industrie. 
+Le disposizioni contenute nel [R. decreto-legge 14 marzo 1927, n. 372](Disposizioni%20a%20favore%20dellIstituto%20commerciale%20italiano%20per%20lesportazione%20dei%20prodotti%20delle%20piccole%20industrie%20e%20dellartigianato%20nonche%20dellIstituto%20nazionale%20di%20credito%20per%20le%20piccole%20in_1255fd7bbf5c.md), hanno piena efficacia nei riguardi delle sezioni di credito e commerciale dell'Ente nazionale per le piccole industrie. 
  
- Sono altresi' estese all'Ente nazionale per le piccole industrie, sezione credito, le norme di cui al [R. decreto-legge 7 agosto 1925, n. 1516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-08-07;1516).
+ Sono altresi' estese all'Ente nazionale per le piccole industrie, sezione credito, le norme di cui al [R. decreto-legge 7 agosto 1925, n. 1516](Provvedimenti%20per%20facilitare%20le%20concessioni%20di%20credito%20da%20parte%20dellIstituto%20per%20il%20lavoro%20per%20le%20piccole%20industrie%20con%20sede%20in%20Venezia.%20025U1516.md).
 
 ## Art. 15.
 
@@ -112,7 +112,7 @@ Con decreto del Ministro per l'economia nazionale, di concerto col Ministro per 
 
 ## Art. 16.
 
-Sono abrogate le disposizioni dei [Regi decreti-legge 13 agosto 1926, n. 1490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1490), e [16 dicembre 1926, n. 2334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2334), in quanto siano incompatibili con quelle della presente legge. 
+Sono abrogate le disposizioni dei [Regi decreti-legge 13 agosto 1926, n. 1490](Stanziamento%20di%20fondi%20per%20lorganizzazione%20tecnica%20produttiva%20commerciale%20e%20creditizia%20delle%20piccole%20industrie.%20026U1490.md), e [16 dicembre 1926, n. 2334](Provvedimenti%20per%20lo%20sviluppo%20tecnico%20ed%20economico%20delle%20piccole%20industrie.%20026U2334.md), in quanto siano incompatibili con quelle della presente legge. 
  
  Il Governo del Re e' autorizzato a riunire e coordinare in testo unico le disposizioni legislative in materia e quelle della presente legge. 
  

@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 10 febbraio 1926, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-10;206), convertito nella [legge 25 giugno 1926, n. 1135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-06-25;1135);
+Visto il [regio decreto-legge 10 febbraio 1926, n. 206](Provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20e%20dei%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20delle%20altre%20forze%20armate%20dello%20Stato.%20026U0206.md), convertito nella [legge 25 giugno 1926, n. 1135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201926%20n.%20206%20recante%20provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20e%20dei%20sottufficiali%20del%20Regio%20esercito%20cella%20Regia%20marina%20della%20_b59362d25dd3.md);
 
-Vista la [legge 11 marzo 1926, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-11;397), e successive modificazioni;
+Vista la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), e successive modificazioni;
 
 Visto il [regio decreto 8 settembre 1932, n. 1406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-08;1406);
 
-Visto il [regio decreto-legge 28 gennaio 1935, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-28;314);
+Visto il [regio decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md);
 
 Vista la [legge 4 aprile 1935, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;403);
 
-Vista la [legge 9 maggio 1940, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;369) e successive modificazioni;
+Vista la [legge 9 maggio 1940, n. 369](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0369.md) e successive modificazioni;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -39,12 +39,12 @@ Agli ufficiali dell'Aeronautica militare che siano dal servizio permanente effet
  generali di squadra aerea designati d'armata..........L. 18.000 generali di squadra aerea e gradi corrispondenti......L. 16.000 generali di divisione aerea e gradi corrispondenti.....L. 14000 generali di brigata aerea e gradi corrispondenti......L. 12.000 colonnelli............................................L. 9.000 tenenti colonnelli....................................L. 7.000 maggiori..............................................L. 6.000 capitani..............................................L. 5.000 subalterni............................................L. 4.000 
  Qualora, allo scadere del suddetto periodo di otto anni, gli ufficiali non abbiano compiuto l'eta' di 65 anni, l'indennita' e' corrisposta sino al raggiungimento dell'eta' predetta.
  In ogni caso, l'indennita' e' corrisposta in relazione al grado rivestito dall'ufficiale all'atto del suo collocamento in ausiliaria.
- Agli ufficiali di cui sopra non e' corrisposta l'indennita' prevista dall'[art. 4 del regio decreto-legge 10 febbraio 1926, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-10;206#art_4), convertito nella [legge 25 giugno 1926, n. 1135, dall'art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-06-25;1135#art_7) del [regio decreto 8 settembre 1932, n. 1406, e dall'art. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-08;1406#art_9) della [legge 4 aprile 1935, n. 493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;493).
- A detti ufficiali si applica il disposto dell'[art. 10 del decreto legislativo luogotenenziale 30 gennaio 1945, numero 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-30;41#art_10).
+ Agli ufficiali di cui sopra non e' corrisposta l'indennita' prevista dall'[art. 4 del regio decreto-legge 10 febbraio 1926, n. 206](Provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20e%20dei%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20delle%20altre%20forze%20armate%20dello%20Stato.%20026U0206.md), convertito nella [legge 25 giugno 1926, n. 1135, dall'art. 7](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201926%20n.%20206%20recante%20provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20e%20dei%20sottufficiali%20del%20Regio%20esercito%20cella%20Regia%20marina%20della%20_b59362d25dd3.md) del [regio decreto 8 settembre 1932, n. 1406, e dall'art. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-08;1406#art_9) della [legge 4 aprile 1935, n. 493](Istituzione%20in%20via%20provvisoria%20della%20posizione%20di%20congedo%20speciale%20per%20gli%20ufficiali%20della%20Regia%20aeronautica.%20035U0493.md).
+ A detti ufficiali si applica il disposto dell'[art. 10 del decreto legislativo luogotenenziale 30 gennaio 1945, numero 41](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md).
 
 ## Art. 2.
 
-L'indennita' di cui all'art. 1 compete, inoltre, agli ufficiali che siano dai servizio permanente effettivo direttamente collocati a riposo, in riforma, o in congedo assoluto, per eta', o per ferite, lesioni od infermita' dipendenti da cause di servizio. Qualora si tratti di mutilati od invalidi di guerra, la concessione del trattamento e' subordinata alla condizione che gli ufficiali rinuncino alla pensione od all'assegno rinnovabile di guerra, ovvero all'assegno integratore, di cui all'[art. 19 del regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_19), e successive modificazioni.
+L'indennita' di cui all'art. 1 compete, inoltre, agli ufficiali che siano dai servizio permanente effettivo direttamente collocati a riposo, in riforma, o in congedo assoluto, per eta', o per ferite, lesioni od infermita' dipendenti da cause di servizio. Qualora si tratti di mutilati od invalidi di guerra, la concessione del trattamento e' subordinata alla condizione che gli ufficiali rinuncino alla pensione od all'assegno rinnovabile di guerra, ovvero all'assegno integratore, di cui all'[art. 19 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni.
 
 ## Art. 3.
 
@@ -57,7 +57,7 @@ Agli ufficiali collocati in ausiliaria "a domanda", o dal congedo provvisorio, s
 
 ## Art. 5.
 
-Gli ufficiali che, alla data di entrata in vigore del presente decreto, siano in congedo speciale ai sensi della [legge 4 aprile 1935, n. 493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;493), o gli ufficiali che, successivamente alla predetta data, saranno collocati nella posizione anzidetta, possono avanzare domanda per il trasferimento nell'ausiliaria. La domanda dovra' essere presentata entro tre mesi dalla data di entrata in vigore del presente decreto o da quella della cessazione dal servizio permanente effettivo.
+Gli ufficiali che, alla data di entrata in vigore del presente decreto, siano in congedo speciale ai sensi della [legge 4 aprile 1935, n. 493](Istituzione%20in%20via%20provvisoria%20della%20posizione%20di%20congedo%20speciale%20per%20gli%20ufficiali%20della%20Regia%20aeronautica.%20035U0493.md), o gli ufficiali che, successivamente alla predetta data, saranno collocati nella posizione anzidetta, possono avanzare domanda per il trasferimento nell'ausiliaria. La domanda dovra' essere presentata entro tre mesi dalla data di entrata in vigore del presente decreto o da quella della cessazione dal servizio permanente effettivo.
 
 ## Art. 6.
 
@@ -72,7 +72,7 @@ Agli ufficiali indicati nell'art. 5 che non presenteranno la domanda per il traf
 
 ## Art. 8.
 
-Le disposizioni di cui all'art. 1 si applicano agli ufficiali che, alla data di entrata in vigore del presente decreto, siano in ausiliaria e che in tale posizione siano stati collocati per eta', o in seguito a esclusione dall'avanzamento, o per compiuto periodo di permanenza nella posizione di congedo speciale di cui alla [legge 4 aprile 1935, n 493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;493), Gli ufficiali anzidetti possono pero', entro tre mesi dalla data di entrata in vigore del presente decreto, optare per il trattamento stabilito dalle disposizioni attualmente in vigore.
+Le disposizioni di cui all'art. 1 si applicano agli ufficiali che, alla data di entrata in vigore del presente decreto, siano in ausiliaria e che in tale posizione siano stati collocati per eta', o in seguito a esclusione dall'avanzamento, o per compiuto periodo di permanenza nella posizione di congedo speciale di cui alla [legge 4 aprile 1935, n 493](Istituzione%20in%20via%20provvisoria%20della%20posizione%20di%20congedo%20speciale%20per%20gli%20ufficiali%20della%20Regia%20aeronautica.%20035U0493.md), Gli ufficiali anzidetti possono pero', entro tre mesi dalla data di entrata in vigore del presente decreto, optare per il trattamento stabilito dalle disposizioni attualmente in vigore.
  In ogni caso la concessione dell'indennita' speciale prevista dal su citato art. 1 non comporta pagamento di arretrati.
  Agli ufficiali che siano in ausiliaria e che in tale posizione siano stati collocati per motivi diversi da quelli previsti dal primo comma, continueranno ad applicarsi le disposizioni attualmente in vigore.
 

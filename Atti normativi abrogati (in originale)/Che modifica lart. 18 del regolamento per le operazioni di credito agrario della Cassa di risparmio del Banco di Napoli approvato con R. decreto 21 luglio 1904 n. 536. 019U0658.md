@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 21 luglio 1904, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-21;536), che approva il nuovo regolamento per le operazioni di credito agrario della Cassa di risparmio del Banco di Napoli, in esecuzione della leggo 7 luglio 1901, n. 334; 
+ Visto il [R. decreto 21 luglio 1904, n. 536](Approva%20e%20contiene%20il%20regolamento%20per%20lapplicazione%20della%20legge%20sui%20provvedimenti%20relativi%20ad%20alcune%20operazioni%20di%20credito%20agrario.%20004U0536.md), che approva il nuovo regolamento per le operazioni di credito agrario della Cassa di risparmio del Banco di Napoli, in esecuzione della leggo 7 luglio 1901, n. 334; 
  
  Veduta la proposta della Direzione generale del Banco di Napoli per introdurre alcune modificazioni nel citato regolamento, allo scopo di elevare il limite massimo dei prestiti occorrenti per dotare i fondi di bestiame grosso e di macchine; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- Al comma terzo dell'art. 18 del regolamento per le operazioni di credito agrario della Cassa di risparmio del Banco di Napoli, approvato con [R. decreto 21 luglio 1904, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-21;536), e' sostituito il seguente: 
+ Al comma terzo dell'art. 18 del regolamento per le operazioni di credito agrario della Cassa di risparmio del Banco di Napoli, approvato con [R. decreto 21 luglio 1904, n. 536](Approva%20e%20contiene%20il%20regolamento%20per%20lapplicazione%20della%20legge%20sui%20provvedimenti%20relativi%20ad%20alcune%20operazioni%20di%20credito%20agrario.%20004U0536.md), e' sostituito il seguente: 
  
  «Per i prestiti occorrenti per dotare i fondi di bestiame grosso o di macchine agrarie il limite massimo della somma non potra' superare le lire 5.000 e la durata non potra' essere maggiore di anni tre». 
  

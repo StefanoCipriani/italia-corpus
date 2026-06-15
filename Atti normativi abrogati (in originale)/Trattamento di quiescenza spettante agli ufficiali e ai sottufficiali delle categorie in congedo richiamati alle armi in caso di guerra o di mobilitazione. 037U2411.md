@@ -132,7 +132,7 @@ Ai sottufficiali provvisti di pensione, che durante il richiamo presso reparti m
 
 Per i sottufficiali e militari di truppa in congedo delle Forze armate, anche se provvisti di pensione, il servizio prestato presso reparti mobilitati della Milizia volontaria per la sicurezza nazionale in tempo di guerra dichiarata o di mobilitazione, anche parziale, e' equiparato, agli effetti di pensione, a servizio militare effettivo. 
  
- All'atto della cessazione dal servizio pensionabile essi hanno diritto di liquidare o di liquidare nuovamente un trattamento di quiescenza con le norme dei militari del Regio esercito contenute negli articoli 9 del Regio decreto 21 novembre 1923-II, n. 2480, e [10, secondo comma, del Regio decreto 18 novembre 1920, n. 1626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-18;1626#art_10-com2), e in base ai gradi rivestiti nelle Forze armate di provenienza. 
+ All'atto della cessazione dal servizio pensionabile essi hanno diritto di liquidare o di liquidare nuovamente un trattamento di quiescenza con le norme dei militari del Regio esercito contenute negli articoli 9 del Regio decreto 21 novembre 1923-II, n. 2480, e [10, secondo comma, del Regio decreto 18 novembre 1920, n. 1626](Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md), e in base ai gradi rivestiti nelle Forze armate di provenienza. 
  
  Per i sottufficiali si considerano pensionabili gli stipendi e le paghe che sarebbero spettate se il servizio stesso fosse stato reso nei ruoli originari. 
  

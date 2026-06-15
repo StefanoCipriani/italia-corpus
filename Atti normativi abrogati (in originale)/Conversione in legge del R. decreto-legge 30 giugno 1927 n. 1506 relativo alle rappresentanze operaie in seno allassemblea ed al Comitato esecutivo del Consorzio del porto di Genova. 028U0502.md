@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 giugno 1927, n. 1506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-30;1506), relativo alle rappresentanze operaie in seno all'assemblea ed al Comitato esecutivo del Consorzio del porto di Genova. 
+ E' convertito in legge il [R. decreto-legge 30 giugno 1927, n. 1506](Rappresentanze%20operaie%20in%20seno%20allassemblea%20e%20al%20Comitato%20esecutivo%20del%20Consorzio%20autonomo%20del%20porto%20di%20Genova.%20027U1506.md), relativo alle rappresentanze operaie in seno all'assemblea ed al Comitato esecutivo del Consorzio del porto di Genova. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

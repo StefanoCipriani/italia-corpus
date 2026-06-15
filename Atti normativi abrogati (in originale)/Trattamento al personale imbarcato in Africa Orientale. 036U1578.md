@@ -24,7 +24,7 @@ Visto il decreto 26 luglio 1935, n. 1603, che aumenta l'indennita' coloniale al 
 
 Visto il [R. decreto-legge 31 ottobre 1935, n. 2201](Trattamento%20economico%20del%20personale%20mobilitato%20delle%20Forze%20armate%20dello%20Stato%20dislocato%20nelle%20Colonie%20dellAfrica%20Orientale%20durante%20il%20periodo%20delle%20operazioni%20nelle%20dette%20Colonie.%20035U2201.md), riguardante il trattamento economico al personale mobilitato delle Forze armate dello Stato, dislocato nelle Colonie dell'Africa Orientale, durante il periodo delle operazioni nelle dette Colonie;
 
-Visto il [R. decreto 6 gennaio 1936, n. 174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-01-06;174), che stabilisce il trattamento economico dei sottocapi e comuni della Regia marina in servizio a terra nell'Africa Orientale;
+Visto il [R. decreto 6 gennaio 1936, n. 174](Trattamento%20economico%20ai%20sottocapi%20e%20comuni%20della%20R.%20Marina%20in%20servizio%20a%20terra%20in%20Eritrea%20ed%20in%20Somalia.%20036U0174.md), che stabilisce il trattamento economico dei sottocapi e comuni della Regia marina in servizio a terra nell'Africa Orientale;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

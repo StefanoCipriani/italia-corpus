@@ -14,7 +14,7 @@ A datare dal 1° febbraio 1918 e' instituito in Ancona, per la durata della guer
 
 ## Art. 2.
 
-All'anzidetto Ufficio sono altresi' devoluti tutti gli incarichi di vigilanza e collaudo di materiali impiegati nelle costruzioni della marina mercantile, per effetto del regolamento approvato con R. decreto 12 gennaio 1913 per l'applicazione della [legge 13 luglio 1911, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;745).
+All'anzidetto Ufficio sono altresi' devoluti tutti gli incarichi di vigilanza e collaudo di materiali impiegati nelle costruzioni della marina mercantile, per effetto del regolamento approvato con R. decreto 12 gennaio 1913 per l'applicazione della [legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md).
 
 ## Art. 3.
 

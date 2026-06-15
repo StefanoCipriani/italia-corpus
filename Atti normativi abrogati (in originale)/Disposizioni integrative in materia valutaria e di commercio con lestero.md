@@ -24,7 +24,7 @@ I pagamenti anticipati delle merci da importare sono subordinati alle prestazion
 ## Art. 2.
 
 Il versamento della cauzione va effettuato presso la banca incaricata del pagamento anticipato all'estero ovvero della consegna dei documenti.
- La fidejussione va prestata, in favore dell'Ufficio italiano dei cambi, da una delle aziende di credito designate dal Ministro per il commercio con l'estero, sentito il Ministro per il tesoro, tra quelle indicate dall'[art. 5 della legge 7 marzo 1938, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-07;141#art_5).
+ La fidejussione va prestata, in favore dell'Ufficio italiano dei cambi, da una delle aziende di credito designate dal Ministro per il commercio con l'estero, sentito il Ministro per il tesoro, tra quelle indicate dall'[art. 5 della legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md).
 
 ## Art. 3.
 
@@ -45,7 +45,7 @@ Quando la mancata importazione, totale o parziale, sia stata determinata da caus
 
 ## Art. 6.
 
-Indipendentemente dall'incameramento della cauzione, rimangono ferme le sanzioni previste per le infrazioni alle disposizioni valutarie del [regio decreto-legge 5 dicembre 1938, n. 1928](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-12-05;1928), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), e successive modificazioni.
+Indipendentemente dall'incameramento della cauzione, rimangono ferme le sanzioni previste per le infrazioni alle disposizioni valutarie del [regio decreto-legge 5 dicembre 1938, n. 1928](Norme%20per%20la%20repressione%20delle%20violazioni%20delle%20leggi%20valutarie.%20038U1928.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), e successive modificazioni.
  L'inosservanza delle disposizioni emanate dal Ministero del commercio con l'estero per l'esecuzione delle norme in materia valutaria e' soggetta alle sanzioni di cui al comma precedente.
 
 ## Art. 7.

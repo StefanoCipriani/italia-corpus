@@ -25,7 +25,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  In virtu' dell'autorita' a Noi delegata; 
  
  
- Veduta la [legge 18 luglio 1917, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-18;1143), per la protezione e l'assistenza degli orfani di guerra; 
+ Veduta la [legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md), per la protezione e l'assistenza degli orfani di guerra; 
  
  
  Udito il parere del Comitato nazionale, istituito dalla legge predetta; 
@@ -43,7 +43,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  Abbiamo decretato e decretiamo: 
  
  
- E' approvato l'annesso regolamento per la esecuzione della [legge 18 luglio 1917, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-18;1143), per la protezione e l'assistenza degli orfani di guerra. 
+ E' approvato l'annesso regolamento per la esecuzione della [legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md), per la protezione e l'assistenza degli orfani di guerra. 
  
  
  Detto regolamento sara' vidimato e sottoscritto, d'ordine Nostro, dal ministro proponente. 

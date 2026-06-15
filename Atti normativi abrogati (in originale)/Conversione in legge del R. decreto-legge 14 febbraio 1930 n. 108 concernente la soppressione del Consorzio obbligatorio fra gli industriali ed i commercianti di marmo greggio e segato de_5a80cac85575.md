@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 febbraio 1930, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-14;108), concernente la soppressione del Consorzio obbligatorio fra gli industriali ed i commercianti di marmo greggio e segato dei comuni di Carrara e di Fivizzano. 
+ E' convertito in legge il [R. decreto-legge 14 febbraio 1930, n. 108](Soppressione%20del%20Consorzio%20obbligatorio%20fra%20gli%20industriali%20ed%20i%20commercianti%20di%20marmo%20greggio%20e%20segato%20dei%20comuni%20di%20Carrara%20e%20di%20Fivizzano.%20030U0108.md), concernente la soppressione del Consorzio obbligatorio fra gli industriali ed i commercianti di marmo greggio e segato dei comuni di Carrara e di Fivizzano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-08;445), contenente autorizzazione della spesa di L. 187.000.000 per il completamento dell'Acquedotto pugliese. 
+ E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 445](Autorizzazione%20della%20spesa%20di%20L.%20187.000.000%20per%20il%20completamento%20dellAcquedotto%20pugliese.%20034U0445.md), contenente autorizzazione della spesa di L. 187.000.000 per il completamento dell'Acquedotto pugliese. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

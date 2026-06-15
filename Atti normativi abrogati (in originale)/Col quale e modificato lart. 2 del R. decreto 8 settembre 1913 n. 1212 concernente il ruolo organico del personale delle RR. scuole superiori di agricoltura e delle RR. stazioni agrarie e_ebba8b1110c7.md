@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vedute le [leggi 6 giugno 1885, n. 3141, e 19 luglio 1909, n. 527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;527); 
+ Vedute le [leggi 6 giugno 1885, n. 3141, e 19 luglio 1909, n. 527](Provvedimenti%20per%20le%20scuole%20superiori%20di%20agricoltura%20di%20Milano%20Portici%20e%20Perugia%20e%20per%20le%20stazioni%20agrarie%20e%20speciali.%20009U0527.md); 
  
- Veduta la [legge 11 luglio 1904, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;372); 
+ Veduta la [legge 11 luglio 1904, n. 372](Disposizioni%20relative%20ai%20ruoli%20organici.%20004U0372.md); 
  
- Veduto il [R. decreto 8 settembre 1913, n. 1212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-09-08;1212); 
+ Veduto il [R. decreto 8 settembre 1913, n. 1212](Concernente%20lorganico%20del%20personale%20tecnico%20e%20di%20servizio%20delle%20RR.%20scuole%20superiori%20di%20agricoltura%20e%20RR.%20stazioni%20agrarie.%20013U1212.md); 
  
  Sentito il Consiglio dei ministri; 
  

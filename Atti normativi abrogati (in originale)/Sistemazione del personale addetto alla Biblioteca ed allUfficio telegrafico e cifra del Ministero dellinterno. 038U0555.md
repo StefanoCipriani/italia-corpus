@@ -16,11 +16,11 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Veduto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e le sue successive integrazioni e modificazioni;
+Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e le sue successive integrazioni e modificazioni;
 
-Veduto il [R. decreto 24 settembre 1931, n. 1234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-24;1234), con cui Seno stati approvati i ruoli organici della pubblica sicurezza;
+Veduto il [R. decreto 24 settembre 1931, n. 1234](Approvazione%20dei%20nuovi%20ruoli%20organici%20della%20pubblica%20sicurezza.%20031U1234.md), con cui Seno stati approvati i ruoli organici della pubblica sicurezza;
 
-Veduto il [R. decreto 6 gennaio 1936, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-01-06;37), concernente il ruolo organico telegrafico e cifra del Ministero dell'interno;
+Veduto il [R. decreto 6 gennaio 1936, n. 37](Modificazioni%20al%20ruolo%20organico%20dellUfficio%20telegrafico%20e%20cifra%20del%20Ministero%20dellinterno.%20036U0037.md), concernente il ruolo organico telegrafico e cifra del Ministero dell'interno;
 
 Veduto il [R. decreto-legge 27 giugno 1937, n. 1058](Riordinamento%20dei%20ruoli%20organici%20dellAmministrazione%20civile%20dellinterno.%20037U1058.md), convertito nella [legge 30 dicembre 1937, n. 2615](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20giugno%201937-XV%20n.%201058%20concernente%20il%20riordinamento%20dei%20ruoli%20organici%20dellAmministrazione%20civile%20dellinterno.%20037U2615.md), con cui sono stati approvati i ruoli organici del personale dell'Amministrazione civile dell'interno, e le successive sue modificazioni;
 
@@ -38,7 +38,7 @@ Nel ruolo organico del personale di gruppo C dell'Amministrazione civile dell'in
 
 ## Art. 2.
 
-Il numero dei posti di archivista capo dell'Amministrazione civile dell'interno, di cui alla tabella annessa al [R. decreto-legge 27 giugno 1937, n. 1058](Riordinamento%20dei%20ruoli%20organici%20dellAmministrazione%20civile%20dellinterno.%20037U1058.md), e' ridotto da 81 a 80, e quello dei posti di impiegato di Polizia di 1a classe, di cui alla tabella annessa al [R. decreto 24 settembre 1931, n. 1234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-24;1234), e' ridotto da 82 a 81.
+Il numero dei posti di archivista capo dell'Amministrazione civile dell'interno, di cui alla tabella annessa al [R. decreto-legge 27 giugno 1937, n. 1058](Riordinamento%20dei%20ruoli%20organici%20dellAmministrazione%20civile%20dellinterno.%20037U1058.md), e' ridotto da 81 a 80, e quello dei posti di impiegato di Polizia di 1a classe, di cui alla tabella annessa al [R. decreto 24 settembre 1931, n. 1234](Approvazione%20dei%20nuovi%20ruoli%20organici%20della%20pubblica%20sicurezza.%20031U1234.md), e' ridotto da 82 a 81.
 
 ## Art. 3.
 
@@ -46,7 +46,7 @@ La nomina ai posti istituiti con l'art. 1 e' conferita, a scelta del Ministro, f
 
 ## Art. 4.
 
-L'[art. 2 del R. decreto 6 gennaio 1936, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-01-06;37#art_2), e' sostituito e dal seguente: 
+L'[art. 2 del R. decreto 6 gennaio 1936, n. 37](Modificazioni%20al%20ruolo%20organico%20dellUfficio%20telegrafico%20e%20cifra%20del%20Ministero%20dellinterno.%20036U0037.md), e' sostituito e dal seguente: 
  
  «Il titolare del posto di direttore dell'Ufficio telegrafico e cifra del Ministero dell'interno e' nominato, a scelta del Ministro, fra gli impiegati del grado 9° del gruppo C del Ministero stesso, forniti di anzianita' di grado non inferiore a tre anni. 
  

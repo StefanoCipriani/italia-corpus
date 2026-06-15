@@ -36,7 +36,7 @@ Il [primo comma dell'art. 29 della legge 2 giugno 1910, numero 277](Riguardante%
  
  I premi come pure i semi e le piantine saranno concessi solo nel caso che trattasi di terreni soggetti od assoggettabili al vincolo forestale a norma delle leggi vigenti. 
  
- Se pero' la formazione e ricostituzione di boschi siano state iniziate anteriormente all'entrata in vigore del presente decreto, detti premi saranno concessi anche se i terreni non si trovino nelle condizioni di cui al precedente comma, sempre quando i rispettivi proprietari abbiano osservate le norme di cui all'articolo 132 e seguenti del regolamento, approvato con [R. decreto 19 febbraio 1911, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-19;188).
+ Se pero' la formazione e ricostituzione di boschi siano state iniziate anteriormente all'entrata in vigore del presente decreto, detti premi saranno concessi anche se i terreni non si trovino nelle condizioni di cui al precedente comma, sempre quando i rispettivi proprietari abbiano osservate le norme di cui all'articolo 132 e seguenti del regolamento, approvato con [R. decreto 19 febbraio 1911, n. 188](Che%20approva%20lannesso%20regolamento%20generale%20dei%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicultura.%20011U0188.md).
 
 ## Art. 2.
 
@@ -44,7 +44,7 @@ Per la durata di un triennio dalla data del presente decreto il Ministero dell'e
 
 ## Art. 3.
 
-I proprietari che, soli o riuniti in consorzio compiono i lavori di rimboschimento dei terreni compresi negli elenchi di cui agli articoli 7 e 8 del testo unico delle disposizioni di legge per la sistemazione dei bacini montani approvato con [R. decreto 21 marzo 1912, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-21;442), hanno diritto al rimborso dell'importo integrale dei lavori determinato dal relativo progetto, debitamente approvato, compreso il costo dei semi e delle piantine ove questi non siano stati forniti dall'Amministrazione forestale. 
+I proprietari che, soli o riuniti in consorzio compiono i lavori di rimboschimento dei terreni compresi negli elenchi di cui agli articoli 7 e 8 del testo unico delle disposizioni di legge per la sistemazione dei bacini montani approvato con [R. decreto 21 marzo 1912, n. 442](Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani.%20012U0442.md), hanno diritto al rimborso dell'importo integrale dei lavori determinato dal relativo progetto, debitamente approvato, compreso il costo dei semi e delle piantine ove questi non siano stati forniti dall'Amministrazione forestale. 
  
  Alle spese relative sara' provveduto con fondi stanziati in bilancio per l'applicazione del detto testo unico.
 

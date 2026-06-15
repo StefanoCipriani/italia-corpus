@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 38 del testo unico di legge sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato approvato col [R. decreto 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016); 
+ Visto l'art. 38 del testo unico di legge sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato approvato col [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md); 
  
- Vista la [legge 22 giugno 1874, n. 1962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1874-06-22;1962), sulla contabilita' dell'Amministrazione del fondo per il culto; 
+ Vista la [legge 22 giugno 1874, n. 1962](Riguardante%20le%20norme%20circa%20la%20contabilita%20del%20Fondo%20per%20il%20culto.%20074U1962.md), sulla contabilita' dell'Amministrazione del fondo per il culto; 
  
  Visto il Nostro decreto in data 23 novembre 1916, n. 1634, che fra altro ha ridotto a lire 14.200 il fondo di riserva per le spese impreviste sul bilancio del fondo per il culto per il corrente esercizio finanziario; 
  

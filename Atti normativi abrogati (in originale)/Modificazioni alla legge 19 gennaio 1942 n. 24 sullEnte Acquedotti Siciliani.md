@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -22,9 +22,9 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-L'Ente Acquedotti Siciliani provvede al finanziamento delle opere di cui alle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;24#art_1-leta), [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;24#art_1-letb), [c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;24#art_1-letc) e [d) dell'art. 1 della legge 19 gennaio 1942, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;24#art_1-letd):
+L'Ente Acquedotti Siciliani provvede al finanziamento delle opere di cui alle [lettere a)](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md), [b)](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md), [c)](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md) e [d) dell'art. 1 della legge 19 gennaio 1942, n. 24](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md):
  a) con le somme che saranno assegnate a favore dell'Ente;
- b) col ricavo dei mutui di favore da contrarre a termini dell'art. 4 della stessa [legge 19 gennaio 1942, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;24), modificato come ai successivi articoli 3 e 5.
+ b) col ricavo dei mutui di favore da contrarre a termini dell'art. 4 della stessa [legge 19 gennaio 1942, n. 24](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md), modificato come ai successivi articoli 3 e 5.
  Alla spesa complessiva delle opere si fa fronte, fino alla concorrenza del 50%, con le assegnazioni di cui alla lettera a), e per il residuo 50%, a mezzo dei mutui di favore, di cui alla lettera b).
 
 ## Art. 2.
@@ -34,18 +34,18 @@ Per gli scopi di cui al precedente articolo e' assegnata all'Ente Acquedotti Sic
 
 ## Art. 3.
 
-L'ammontare complessivo dei mutui che l'Ente Acquedotti Siciliani e' autorizzato a contrarre ai sensi dell'[art. 4 della legge 19 gennaio 1942, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;24#art_4), e' elevato da L. 300.000.000 a L. 3.000.000.000.
+L'ammontare complessivo dei mutui che l'Ente Acquedotti Siciliani e' autorizzato a contrarre ai sensi dell'[art. 4 della legge 19 gennaio 1942, n. 24](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md), e' elevato da L. 300.000.000 a L. 3.000.000.000.
  Tali mutui sono ammessi al beneficio del contributo nel pagamento degli interessi previsto dalle disposizioni vigenti per le opere igieniche.
 
 ## Art. 4.
 
 Per le spese di manutenzione ordinaria, di esercizio e di ammortamento dei mutui, e per le spese generali dell'Ente, si provvede con il gettito dei canoni di utenza e con il rimborso, da parte dei Comuni, delle quote, di loro spettanza, delle spese di manutenzione e di esercizio degli acquedotti promiscui, ove i Comuni non trasferiscano la gestione delle corrispondenti utenze.
- Ai fini di tale rimborso e' applicabile, a favore dell'Ente, la procedura di cui all'art. 104 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383).
+ Ai fini di tale rimborso e' applicabile, a favore dell'Ente, la procedura di cui all'art. 104 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
 
 ## Art. 5.
 
-L'ammortamento dei mutui che l'Ente e' autorizzato a contrarre a norma del precedente art. 3 e per la parte alla quale non possa provvedersi con le entrate di cui all'art. 4 del presente decreto, e' garantito per capitale ed interessi dallo Stato, con le modalita' stabilite dal [regio decreto 23 febbraio 1942, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-02-23;369).
- L'ultimo comma dell'[art. 4 della legge 19 gennaio 1942, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;24#art_4), e' abrogato.
+L'ammortamento dei mutui che l'Ente e' autorizzato a contrarre a norma del precedente art. 3 e per la parte alla quale non possa provvedersi con le entrate di cui all'art. 4 del presente decreto, e' garantito per capitale ed interessi dallo Stato, con le modalita' stabilite dal [regio decreto 23 febbraio 1942, n. 369](Norme%20per%20la%20esecuzione%20della%20legge%2019%20gennaio%201942-XX%20n.%2024%20riguardante%20la%20istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0369.md).
+ L'ultimo comma dell'[art. 4 della legge 19 gennaio 1942, n. 24](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md), e' abrogato.
 
 ## Art. 6.
 

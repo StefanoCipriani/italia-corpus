@@ -12,7 +12,7 @@ vigente: true
 
 Nei casi di promozione postuma di ufficiali del Regio esercito e della Regia marina alle cui famiglie spetti la pensione privilegiata di guerra, gli assegni relativi al nuovo grado debbono, ai soli effetti della liquidazione della pensione anzidetta, essere considerati come decorrenti dalla data a cui e' fatta risalire l'anzianita' del grado. 
  
- La presente disposizione ha effetto retroattivo, non oltre pero' il 29 settembre 1911, data in cui ha effetto la [legge 23 giugno 1912, n. 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-23;667).
+ La presente disposizione ha effetto retroattivo, non oltre pero' il 29 settembre 1911, data in cui ha effetto la [legge 23 giugno 1912, n. 667](Che%20istituisce%20pensioni%20privilegiate%20di%20guerra%20per%20gli%20ufficiali%20e%20militari%20di%20truppa%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0667.md).
 
 ## Art. 2.
 

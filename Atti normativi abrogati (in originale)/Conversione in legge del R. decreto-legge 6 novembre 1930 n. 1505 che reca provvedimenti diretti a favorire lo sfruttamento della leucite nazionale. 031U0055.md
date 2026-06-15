@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 novembre 1930, n. 1505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-06;1505), che reca provvedimenti diretti a favorire lo sfruttamento della leucite nazionale. 
+ E' convertito in legge il [R. decreto-legge 6 novembre 1930, n. 1505](Provvedimenti%20diretti%20a%20favorire%20lo%20sfruttamento%20della%20leucite%20nazionale.%20030U1505.md), che reca provvedimenti diretti a favorire lo sfruttamento della leucite nazionale. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 8 gennaio 1931 - Anno IX 
  

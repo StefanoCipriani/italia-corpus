@@ -84,7 +84,7 @@ Restano in vigore le dilazioni gia' stipulate per il pagamento di tasse, soprata
 
 Sono esenti dal pagamento delle pene pecuniarie: 
  
- 1° coloro che anteriormente alla data del presente decreto siano incorsi in violazioni degli articoli 111, esclusa la lettera e), 112, 113 e 114 del regolamento per la coltivazione del tabacco, approvato con [R. decreto 12 ottobre 1924, numero 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), modificato con [R. decreto 24 novembre 1932, n.1571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-11-24;1571); 
+ 1° coloro che anteriormente alla data del presente decreto siano incorsi in violazioni degli articoli 111, esclusa la lettera e), 112, 113 e 114 del regolamento per la coltivazione del tabacco, approvato con [R. decreto 12 ottobre 1924, numero 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), modificato con [R. decreto 24 novembre 1932, n.1571](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20032U1571.md); 
  
  2° i magazzinieri ed i rivenditori di generi di monopolio che siano incorsi in violazioni delle norme sull'ordinamento dei servizi.
 

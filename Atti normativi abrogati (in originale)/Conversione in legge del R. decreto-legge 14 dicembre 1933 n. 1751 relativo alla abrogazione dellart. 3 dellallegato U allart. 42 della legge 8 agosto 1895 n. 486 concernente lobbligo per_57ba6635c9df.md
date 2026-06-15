@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 dicembre 1933, n. 1751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-14;1751), concernente l'abrogazione dell'articolo 3 dell'allegato U all'[art. 42 della legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486#art_42). 
+ E' convertito in legge il [R. decreto-legge 14 dicembre 1933, n. 1751](Abrogazione%20dellart.%203%20dellallegato%20U%20allart.%2042%20della%20legge%208%20agosto%201895%20n.%20486%20concernente%20lobbligo%20per%20la%20Corte%20dei%20conti%20di%20accertare%20in%20sede%20di%20registrazione%20dei%20decreti%20se%20i%20colloc_fda537e9f554.md), concernente l'abrogazione dell'articolo 3 dell'allegato U all'[art. 42 della legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486#art_42). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -23,7 +23,7 @@ L'Azienda di Stato per i servizi telefonici e' autorizzata a provvedere all'impi
 
 ## Art. 2.
 
-L'obbligo imposto ai Comuni, ai sensi dell'[art. 28 del regio decreto 19 luglio 1941, n. 1198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-19;1198#art_28), di provvedere a mantenere un locale convenientemente arredato per la istituzione di servizi telegrafici, sussiste incondizionatamente anche per gli impianti di cui al precedente articolo.
+L'obbligo imposto ai Comuni, ai sensi dell'[art. 28 del regio decreto 19 luglio 1941, n. 1198](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), di provvedere a mantenere un locale convenientemente arredato per la istituzione di servizi telegrafici, sussiste incondizionatamente anche per gli impianti di cui al precedente articolo.
 
 ## Art. 3.
 
@@ -37,7 +37,7 @@ Gli impianti di cui al precedente articolo saranno ceduti, man mano che saranno 
 
 ## Art. 5.
 
-Sino a tutto l'esercizio 1955-56, la quota di concorso nella spesa relativa agli impianti di uffici telegrafici e fonotelegrafrici, attualmente posta a carico dei Comuni richiedenti nella misura del 70 per cento, ai sensi dell'[art. 25 del regio decreto 19 luglio 1941, n. 1198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-19;1198#art_25), e' ridotto al 30%.
+Sino a tutto l'esercizio 1955-56, la quota di concorso nella spesa relativa agli impianti di uffici telegrafici e fonotelegrafrici, attualmente posta a carico dei Comuni richiedenti nella misura del 70 per cento, ai sensi dell'[art. 25 del regio decreto 19 luglio 1941, n. 1198](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), e' ridotto al 30%.
 
 ## Art. 6.
 

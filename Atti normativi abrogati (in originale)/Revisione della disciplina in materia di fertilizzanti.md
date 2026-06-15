@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004, ed in particolare l'articolo 13;
+Vista la [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004, ed in particolare l'articolo 13;
 
 Visto il regolamento (CE) n. 2003/2003 del Parlamento europeo e del Consiglio, del 13 ottobre 2003, relativo ai concimi;
 
@@ -34,15 +34,15 @@ Il presente decreto si applica ai:
 
 Avvertenza:
 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
  Note alle premesse:
 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - L'[art. 13 della legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62#art_13), pubblicata nella Gazzetta Ufficiale 27 aprile 2005, n. 96, S.O., cosi' recita:
- "Art. 13 (Delega al Governo per la revisione della disciplina in materia di fertilizzanti). - 1. Il Governo e' delegato ad adottare, entro il termine di dodici mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi di riordino e revisione della disciplina in materia di fertilizzanti, di cui alla [legge 19 ottobre 1984, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748), in conformita' ai seguenti principi e criteri direttivi:
+ - L'[art. 13 della legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), pubblicata nella Gazzetta Ufficiale 27 aprile 2005, n. 96, S.O., cosi' recita:
+ "Art. 13 (Delega al Governo per la revisione della disciplina in materia di fertilizzanti). - 1. Il Governo e' delegato ad adottare, entro il termine di dodici mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi di riordino e revisione della disciplina in materia di fertilizzanti, di cui alla [legge 19 ottobre 1984, n. 748](Nuove%20norme%20per%20la%20disciplina%20dei%20fertilizzanti.md), in conformita' ai seguenti principi e criteri direttivi:
  a) adeguamento e ammodernamento delle definizioni di "concime" e delle sue molteplici specificazioni, di "fabbricante" e di "immissione sul mercato", ai sensi dell'art. 2 del regolamento (CE) n. 2003/2003 del 13 ottobre 2003 del Parlamento europeo e del Consiglio;
  b) utilizzo della forma delle indicazioni obbligatorie come stabilita dall'art. 6 del citato regolamento (CE) n. 2003/2003 per i concimi immessi sul mercato con l'indicazione "concimi CE";
  c) individuazione delle misure ufficiali di controllo per valutare la conformita' dei concimi, ai sensi dell'art. 29, paragrafo 1, del regolamento (CE) n. 2003/2003;
@@ -197,7 +197,7 @@ Il Ministero delle politiche agricole e forestali trasmette al Ministero delle a
 Note all'art. 6:
  - Per il regolamento (CE) n. 2003/2003, vedi note alle premesse.
  - Si riporta il testo dell'[art. 44 della legge 20 febbraio 2006, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82#art_44), recante: "Disposizioni di attuazione della normativa comunitaria concernente l'Organizzazione comune di mercato (OCM) del vino.
- "Art. 44 (Commissione consultiva per l'aggiornamento dei metodi ufficiali di analisi). - 1. Premesso il Ministero delle politiche agricole e forestali e' istituita la commissione consultiva per l'aggiornamento dei metodi ufficiali di analisi relativi ai prodotti disciplinati dal [regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033), convertito dalla [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562), e successive modificazioni, per gli aspetti per i quali non esistono metodi di analisi comunitari ufficiali o metodi riconosciuti dall'Organizzazione internazionale della vigna e del vino (OIV), in relazione all'art. 46, paragrafo 3, terzo comma, lettera c), del citato regolamento (CE) n. 1493/1999.
+ "Art. 44 (Commissione consultiva per l'aggiornamento dei metodi ufficiali di analisi). - 1. Premesso il Ministero delle politiche agricole e forestali e' istituita la commissione consultiva per l'aggiornamento dei metodi ufficiali di analisi relativi ai prodotti disciplinati dal [regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033), convertito dalla [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e successive modificazioni, per gli aspetti per i quali non esistono metodi di analisi comunitari ufficiali o metodi riconosciuti dall'Organizzazione internazionale della vigna e del vino (OIV), in relazione all'art. 46, paragrafo 3, terzo comma, lettera c), del citato regolamento (CE) n. 1493/1999.
  2. La commissione di cui al comma 1, i cui componenti sono nominati con decreto del Ministero delle politiche agricole forestali, e' composta da rappresentanti dei Ministeri delle politiche agricole e forestali, dell'economia e delle finanze, della salute e delle attivita' produttive, nonche' eventualmente di enti o istituiti specializzati nei particolari settori.
  3. In relazione alle esigenze derivanti dallo svolgimento dei lavori, il Ministro delle politiche agricole e forestali puo', con proprio decreto, articolare la commissione di cui al comma 1 in piu' sottocommissioni, determinandone la composizione.
  4. Le mansioni di segreteria delle commissione di cui al comma 1 e delle sottocommissioni di cui al comma 3 sono esercitate da funzionari del Ministero delle politiche agricole e forestali.".
@@ -420,10 +420,10 @@ Note all'[art. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituz
 
 1.
 
-E' abrogata la [legge 19 ottobre 1984, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748).
+E' abrogata la [legge 19 ottobre 1984, n. 748](Nuove%20norme%20per%20la%20disciplina%20dei%20fertilizzanti.md).
 
 Note all'[art. 17:
- - La legge 19 ottobre 1984, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748#art_17), pubblicata nella Gazzetta Ufficiale del 6 novembre 1984, n. 305, S.O., abrogata dal presente decreto, recava: "Nuove norme per la disciplina dei fertilizzanti".
+ - La legge 19 ottobre 1984, n. 748](Nuove%20norme%20per%20la%20disciplina%20dei%20fertilizzanti.md), pubblicata nella Gazzetta Ufficiale del 6 novembre 1984, n. 305, S.O., abrogata dal presente decreto, recava: "Nuove norme per la disciplina dei fertilizzanti".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

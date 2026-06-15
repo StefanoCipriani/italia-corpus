@@ -34,7 +34,7 @@ Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia; Abbia
 
 ## Art. 1.
 
-Le disposizioni del [R. decreto-legge 30 marzo 1944, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-30;94), concernenti le facilitazioni per la celebrazione dei matrimoni civili e per la trascrizione dei matrimoni religiosi, sono applicabili fino al 15 aprile 1947, sempre che, nonostante la cessazione dello stato di guerra, permanga la impossibilita' degli adempimenti o della presentazione dei ducumenti menzionati nelle disposizioni stesse.
+Le disposizioni del [R. decreto-legge 30 marzo 1944, n. 94](Facilitazioni%20per%20la%20celebrazione%20dei%20matrimoni%20civili%20e%20per%20la%20trascrizione%20dei%20matrimoni%20religiosi.%20044U0094.md), concernenti le facilitazioni per la celebrazione dei matrimoni civili e per la trascrizione dei matrimoni religiosi, sono applicabili fino al 15 aprile 1947, sempre che, nonostante la cessazione dello stato di guerra, permanga la impossibilita' degli adempimenti o della presentazione dei ducumenti menzionati nelle disposizioni stesse.
 
 ## Art. 2.
 

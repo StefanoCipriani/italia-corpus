@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-08;550), con il quale sono stati dichiarati di pubblica utilita' i lavori di costruzione della «Casa Littoria» in Roma. 
+ E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 550](Dichiarazione%20di%20pubblica%20utilita%20dei%20lavori%20di%20costruzione%20della%20Casa%20Littoria%20in%20Roma.%20034U0550.md), con il quale sono stati dichiarati di pubblica utilita' i lavori di costruzione della «Casa Littoria» in Roma. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

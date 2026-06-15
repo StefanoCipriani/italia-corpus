@@ -25,15 +25,15 @@ EMANA il seguente decreto:
 
 1.
 
-La dotazione organica dei direttori di istituti di prevenzione e pena, prevista dal [decreto-legge 14 aprile 1978, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-04-14;111), convertito, con modificazioni, dalla [legge 10 giugno 1978, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;271), e successive modificazioni, e' incrementata di numero 108 unita'.
+La dotazione organica dei direttori di istituti di prevenzione e pena, prevista dal [decreto-legge 14 aprile 1978, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-04-14;111), convertito, con modificazioni, dalla [legge 10 giugno 1978, n. 271](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20aprile%201978%20n.%20111%20concernente%20provvedimenti%20urgenti%20per%20lamministrazione%20della%20giustizia.md), e successive modificazioni, e' incrementata di numero 108 unita'.
 
 2.
 
-La dotazione organica dei direttori di servizio sociale, prevista dalla tabella annessa alla [legge 16 luglio 1962, n. 1085](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-07-16;1085), sostituita dalla tabella B allegata alla [legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354), e' incrementata di numero 20 unita'.
+La dotazione organica dei direttori di servizio sociale, prevista dalla tabella annessa alla [legge 16 luglio 1962, n. 1085](Ordinamento%20degli%20uffici%20di%20servizio%20sociale%20e%20istituzione%20dei%20ruoli%20del%20personale%20del%20predetto%20servizio.md), sostituita dalla tabella B allegata alla [legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354), e' incrementata di numero 20 unita'.
 
 3.
 
-Le dotazioni organiche degli educatori per adulti e degli assistenti sociali per adulti degli istituti di prevenzione e pena, previste dal [decreto-legge 14 aprile 1978, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-04-14;111), convertito, con modificazioni, dalla [legge 10 giugno 1978, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;271), e successive modificazioni, sono incrementate, rispettivamente, di numero 155 unita' e di numero 210 unita'.
+Le dotazioni organiche degli educatori per adulti e degli assistenti sociali per adulti degli istituti di prevenzione e pena, previste dal [decreto-legge 14 aprile 1978, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-04-14;111), convertito, con modificazioni, dalla [legge 10 giugno 1978, n. 271](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20aprile%201978%20n.%20111%20concernente%20provvedimenti%20urgenti%20per%20lamministrazione%20della%20giustizia.md), e successive modificazioni, sono incrementate, rispettivamente, di numero 155 unita' e di numero 210 unita'.
 
 ## Art. 2. — Revisione degli organici del personale militare degli istituti di prevenzione e pena
 
@@ -53,7 +53,7 @@ La disposizione di cui al comma 2 trova effetto, previa riammissione in servizio
 
 4.
 
-Il termine di cui all'[articolo 1 del decreto-legge 13 maggio 1985, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-05-13;176#art_1), convertito dalla [legge 15 giugno 1985, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-06-15;287), e' prorogato di un anno.
+Il termine di cui all'[articolo 1 del decreto-legge 13 maggio 1985, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-05-13;176#art_1), convertito dalla [legge 15 giugno 1985, n. 287](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2013%20maggio%201985%20n.%20176%20recante%20misure%20urgenti%20in%20materia%20di%20limite%20di%20eta%20per%20il%20collocamento%20in%20congedo%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20d_ed01cb298084.md), e' prorogato di un anno.
 
 ## Art. 3. — Provvidenze per il personale civile e per il personale militare degli istituti di prevenzione e pena
 
@@ -69,7 +69,7 @@ Con effetto dal 1 gennaio 1987 e' soppressa la gratifica prevista dall'[articolo
 
 2.
 
-A decorrere dalla medesima data di cui al comma 1, per ogni ora di servizio prestato oltre il limite di cui al [secondo comma dell'articolo 7 del decreto del Presidente della Repubblica 27 marzo 1984, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-03-27;69#art_7-com2), al personale del Corpo degli agenti di custodia compete la retribuzione per lavoro straordinario nelle misure orarie stabilite per il personale della Polizia di Stato.
+A decorrere dalla medesima data di cui al comma 1, per ogni ora di servizio prestato oltre il limite di cui al [secondo comma dell'articolo 7 del decreto del Presidente della Repubblica 27 marzo 1984, n. 69](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2015%20dicembre%201983%20concernente%20il%20personale%20dei%20ruoli%20della%20Polizia%20di%20Stato%20con%20esclusione%20dei%20dirigenti.md), al personale del Corpo degli agenti di custodia compete la retribuzione per lavoro straordinario nelle misure orarie stabilite per il personale della Polizia di Stato.
 
 3.
 

@@ -38,7 +38,7 @@ L'inosservanza delle sopraindicate disposizioni e' punita colla multa di L. 100 
  
  In ogni caso ha luogo la confisca della merce. 
  
- L'applicazione delle pene anzidette non pregiudica quella delle pene maggiori nelle quali i contravventori fossero eventualmente incorsi por effetto delle disposizioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e delle leggi speciali.
+ L'applicazione delle pene anzidette non pregiudica quella delle pene maggiori nelle quali i contravventori fossero eventualmente incorsi por effetto delle disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali.
 
 ## Art. 7.
 

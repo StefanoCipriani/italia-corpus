@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto-legge 2 ottobre 1919, n. 2074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-02;2074), convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473); 
+ Veduto il [R. decreto-legge 2 ottobre 1919, n. 2074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-02;2074), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md); 
  
  Veduti i [Regi decreti 5 dicembre 1920, n. 1952](Trasferimento%20di%20sede%20di%20sopraintendenza%20bibliografica.%20020U1952.md); [7 febbraio 1924, n. 233](Trasferimento%20della%20sede%20della%20Soprintendenza%20bibliografica%20per%20le%20provincie%20degli%20Abruzzi%20e%20del%20Molise%20dalla%20Biblioteca%20Casanatense%20alla%20Biblioteca%20universitaria%20Alessandrina%20di%20Roma.%20024U0233.md); [4 febbraio 1932, n. 260](Modifiche%20allelenco%20delle%20Regie%20soprintendenze%20bibliografiche%20annesso%20al%20R.%20decreto-legge%202%20ottobre%201919%20n.%202074.%20032U0260.md); 
  

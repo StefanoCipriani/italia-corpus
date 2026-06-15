@@ -30,7 +30,7 @@ Il Ministero delle poste e dei telegrafi e il Commissariato della marina mercant
 
 ## Art. 3.
 
-Sono abrogati gli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;479#art_4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;479#art_5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;479#art_6) e [9 della legge 7 luglio 1907, n. 479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;479#art_9), e il [R. decreto 31 dicembre 1922, n. 1681](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-31;1681). 
+Sono abrogati gli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;479#art_4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;479#art_5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;479#art_6) e [9 della legge 7 luglio 1907, n. 479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;479#art_9), e il [R. decreto 31 dicembre 1922, n. 1681](Che%20scioglie%20il%20Consiglio%20damministrazione%20delle%20Ferrovie%20dello%20Stato.%20022U1681.md). 
  
  Il Commissario straordinario per l'amministrazione delle Ferrovie dello Stato cessa dalle sue funzioni.
 

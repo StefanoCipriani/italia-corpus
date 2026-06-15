@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Vista la legge 1° aprile corrente anno, n. 424, relativa alla conversione in legge dei RR. decreti 4 agosto 1914, n. 770, e 22 ottobre 1914, n. 1182, concernenti deroghe alle disposizioni sulla contabilita' generale dello Stato; 
  
- Vista la [legge 17 luglio 1910, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;511); 
+ Vista la [legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- Il limite di somma entro il quale per l'[art. 31 della legge 17 luglio 1910, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;511#art_31), e' data facolta' alle Amministrazioni dello Stato di riconoscere se siano, in tutto o in parte, inapplicabili le clausole penali a carico di fornitori o appaltatori, senza il preventivo parere del Consiglio di Stato, e' elevato a L. 3000 per quanto riguarda i contratti stipulati dalle Amministrazioni della guerra e della marina in base alle facolta' eccezionali di cui alle [leggi 1° aprile 1915, nn. 424 e 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;425) ed al [decreto-legge 2 maggio 1915, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-05-02;571). 
+ Il limite di somma entro il quale per l'[art. 31 della legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md), e' data facolta' alle Amministrazioni dello Stato di riconoscere se siano, in tutto o in parte, inapplicabili le clausole penali a carico di fornitori o appaltatori, senza il preventivo parere del Consiglio di Stato, e' elevato a L. 3000 per quanto riguarda i contratti stipulati dalle Amministrazioni della guerra e della marina in base alle facolta' eccezionali di cui alle [leggi 1° aprile 1915, nn. 424 e 425](Che%20converte%20in%20legge%20il%20R.%20decreto%2024%20gennaio%201915%20n.%2042%20che%20autorizza%20le%20Amministrazioni%20della%20guerra%20e%20della%20marina%20a%20derogare%20temporaneamente%20a%20norme%20della%20legge%20di%20contabilita%20genera_68084f6e66e9.md) ed al [decreto-legge 2 maggio 1915, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-05-02;571). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

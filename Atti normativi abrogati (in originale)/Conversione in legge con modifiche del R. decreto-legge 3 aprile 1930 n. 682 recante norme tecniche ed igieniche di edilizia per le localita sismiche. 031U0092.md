@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 aprile 1930, n. 682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-04-03;682), che approva le nuove norme tecniche ed igieniche di edilizia per le localita' sismiche, con le modificazioni seguenti: 
+ E' convertito in legge il [R. decreto-legge 3 aprile 1930, n. 682](Nuove%20norme%20tecniche%20ed%20igieniche%20di%20edilizia%20per%20le%20localita%20sismiche.%20030U0682.md), che approva le nuove norme tecniche ed igieniche di edilizia per le localita' sismiche, con le modificazioni seguenti: 
  
  All'art. 7, delle norme per le localita' della prima categoria il terzo comma e' sostituito dal seguente: 
  

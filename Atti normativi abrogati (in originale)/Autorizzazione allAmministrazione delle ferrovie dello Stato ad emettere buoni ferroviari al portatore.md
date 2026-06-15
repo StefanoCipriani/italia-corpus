@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Viste le Condizioni e tariffe per i trasporti delle persone sulle Ferrovie dello Stato, approvate col [regio decreto-legge 11 ottobre 1934, n. 1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-11;1948), convertito nella [legge 4 aprile 1935, n. 911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;911), modificate con [regio decreto-legge 22 dicembre 1938, n. 1927](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-12-22;1927), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), e successive modificazioni;
+Viste le Condizioni e tariffe per i trasporti delle persone sulle Ferrovie dello Stato, approvate col [regio decreto-legge 11 ottobre 1934, n. 1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-11;1948), convertito nella [legge 4 aprile 1935, n. 911](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20ottobre%201934%20n.%201948%20concernente%20lapprovazione%20di%20nuove%20Condizioni%20e%20tariffe%20per%20il%20trasporto%20delle%20persone%20sulle%20ferrovie%20dello%20Stato.%20035U0911.md), modificate con [regio decreto-legge 22 dicembre 1938, n. 1927](Modificazioni%20alle%20tariffe%20viaggiatori%20sulle%20Ferrovie%20dello%20Stato.%20038U1927.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), e successive modificazioni;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 

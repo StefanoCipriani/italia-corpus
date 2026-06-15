@@ -36,7 +36,7 @@ Il Consorzio di credito per le opere pubbliche e' autorizzato a costituire una p
  
  In corrispondenza dei finanziamenti effettuati, la Sezione e' autorizzata ad emettere proprie obbligazioni, che potranno essere costituite in serie speciali. 
  
- La Sezione potra' altresi' emettere obbligazioni in moneta estera, previa l'autorizzazione governativa da concedersi dal Ministro per le finanze ai sensi del [R. decreto 5 gennaio 1928, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-05;1), sentito anche il Sottosegretario di Stato per gli scambi e le valute. 
+ La Sezione potra' altresi' emettere obbligazioni in moneta estera, previa l'autorizzazione governativa da concedersi dal Ministro per le finanze ai sensi del [R. decreto 5 gennaio 1928, n. 1](Norme%20per%20la%20disciplina%20della%20contrattazione%20di%20operazioni%20di%20mutuo%20allestero.%20028U0001.md), sentito anche il Sottosegretario di Stato per gli scambi e le valute. 
  
  Le obbligazioni della Sezione godranno degli stessi privilegi di quelle emesse dal Consorzio di credito per le opere pubbliche, alle quali sono parificate ad ogni effetto.
 

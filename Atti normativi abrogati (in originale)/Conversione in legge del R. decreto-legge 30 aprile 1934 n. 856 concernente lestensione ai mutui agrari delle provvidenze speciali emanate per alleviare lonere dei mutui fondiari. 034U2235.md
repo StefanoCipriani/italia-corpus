@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 aprile 1934, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-30;856), concernente l'estensione ai mutui agrari delle provvidenze speciali emanate per alleviare l'onere dei mutui fondiari. 
+ E' convertito in legge il [R. decreto-legge 30 aprile 1934, n. 856](Estensione%20ai%20mutui%20agrari%20delle%20provvidenze%20speciali%20emanate%20per%20alleviare%20lonere%20dei%20mutui%20fondiari.%20034U0856.md), concernente l'estensione ai mutui agrari delle provvidenze speciali emanate per alleviare l'onere dei mutui fondiari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -58,7 +58,7 @@ Per gli ufficiali del Regio esercito, della Regia marina e della Regia aeronauti
 
 ## Art. 5.
 
-Agli effetti dell'[art. 2 del R. decreto-legge 4 settembre 1925, n. 1599](Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U1599.md), contenente disposizioni per gli ufficiali esonerati di autorita' dal comando mobilitato durante la guerra, continueranno ad essere applicati agli ufficiali suddetti collocati in posizione ausiliaria ordinaria i limiti di eta' stabiliti dal [R. decreto 7 gennaio 1923, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;12).
+Agli effetti dell'[art. 2 del R. decreto-legge 4 settembre 1925, n. 1599](Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U1599.md), contenente disposizioni per gli ufficiali esonerati di autorita' dal comando mobilitato durante la guerra, continueranno ad essere applicati agli ufficiali suddetti collocati in posizione ausiliaria ordinaria i limiti di eta' stabiliti dal [R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md).
 
 ## Art. 6.
 

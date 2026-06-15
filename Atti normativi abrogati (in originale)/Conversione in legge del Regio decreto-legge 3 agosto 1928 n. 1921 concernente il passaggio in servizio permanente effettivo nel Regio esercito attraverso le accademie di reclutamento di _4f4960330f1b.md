@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-03;1921), concernente il passaggio in servizio permanente effettivo nel Regio esercito, attraverso le accademie di reclutamento, di ufficiali subalterni di complemento in servizio nelle Colonie. 
+ E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1921](Passaggio%20in%20servizio%20permanente%20effettivo%20nel%20Regio%20esercito%20attraverso%20le%20accademie%20di%20reclutamento%20di%20ufficiali%20subalterni%20di%20complemento%20in%20servizio%20nelle%20Colonie.%20028U1921.md), concernente il passaggio in servizio permanente effettivo nel Regio esercito, attraverso le accademie di reclutamento, di ufficiali subalterni di complemento in servizio nelle Colonie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

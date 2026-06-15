@@ -50,7 +50,7 @@ Le funzioni di segretario sono svolte da un funzionario designato dal presidente
 
 5.
 
-Si applica l'[articolo 67, comma 2, del decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331#art_67-com2), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427).
+Si applica l'[articolo 67, comma 2, del decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331#art_67-com2), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md).
 
 6.
 
@@ -147,7 +147,7 @@ Nel caso di omesso pagamento del contributo il direttore generale della direzion
 
 5.
 
-In caso di perdurante omesso versamento dell'obbligo contributivo, decorsi sei mesi dalla sospensione di cui al comma 4, e' disposta la cancellazione dal registro dei revisori contabili con decreto del Ministro di grazia e giustizia, da emanarsi nelle forme di cui all'[articolo 7, comma 3, del decreto del Presidente della Repubblica 20 novembre 1992, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-11-20;474#art_7-com3).
+In caso di perdurante omesso versamento dell'obbligo contributivo, decorsi sei mesi dalla sospensione di cui al comma 4, e' disposta la cancellazione dal registro dei revisori contabili con decreto del Ministro di grazia e giustizia, da emanarsi nelle forme di cui all'[articolo 7, comma 3, del decreto del Presidente della Repubblica 20 novembre 1992, n. 474](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20iscrizione%20nel%20registro%20dei%20revisori%20contabili%20in%20attuazione%20degli%20articoli%2011%20e%2012%20del%20decreto%20legislativo%2027%20gennaio%201992%20n.%2088.md).
 
 6.
 
@@ -155,7 +155,7 @@ Non sono ripetibili, se non richieste in data antecedente alla data di entrata i
 
 7.
 
-E' abrogato l'[articolo 18 del regio decreto 10 febbraio 1937, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-02-10;228#art_18), ed il [regio decreto 19 giugno 1940, n. 894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-19;894).
+E' abrogato l'[articolo 18 del regio decreto 10 febbraio 1937, n. 228](Norme%20per%20lattuazione%20del%20Regio%20decreto-legge%2024%20luglio%201936-XIV%20n.%201548%20sui%20sindaci%20delle%20Societa%20commerciali%20revisori%20dei%20conti.%20037U0228.md), ed il [regio decreto 19 giugno 1940, n. 894](Determinazione%20del%20contributo%20annuo%20a%20carico%20dei%20revisori%20ufficiali%20dei%20conti.%20040U0894.md).
 
 ## Art. 9. — Entrata in vigore
 

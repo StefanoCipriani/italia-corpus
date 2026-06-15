@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 maggio 1927, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-06;650), contenente disposizioni relative alla vendita degli immobili urbani e agli sfratti dalle case di abitazione. 
+ E' convertito in legge il [R. decreto-legge 6 maggio 1927, n. 650](Disposizioni%20relative%20alla%20vendita%20degli%20immobili%20urbani%20e%20agli%20sfratti%20dalle%20case%20di%20abitazione.%20027U0650.md), contenente disposizioni relative alla vendita degli immobili urbani e agli sfratti dalle case di abitazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

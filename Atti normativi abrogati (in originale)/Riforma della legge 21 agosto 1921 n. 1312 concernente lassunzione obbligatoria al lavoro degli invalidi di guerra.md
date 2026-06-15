@@ -28,7 +28,7 @@ Le disposizioni per il collocamento degli invalidi di guerra contenute nella pre
  a) agli invalidi che abbiano perduto ogni capacita' lavorativa;
  b) agli invalidi che, per la natura ed il grado della loro invalidita', possono riuscire di pregiudizio alla salute ed incolumita' dei compagni di lavoro od alla sicurezza degli impianti;
  c) agli invalidi ascritti alla 9ª e 10ª categoria delle pensioni di guerra, di cui al [decreto-legge 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1917-05-20;876), ad eccezione di quelli contemplati dalle voci 4 e 10 della categoria 9ª e 3 a 6 della categoria 10ª;
- d) agli invalidi per lesioni di cui alla tabella B annessa al [regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491), ad eccezione di quelli contemplati dalle voci 4 e 6 a 11 della tabella stessa.
+ d) agli invalidi per lesioni di cui alla tabella B annessa al [regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), ad eccezione di quelli contemplati dalle voci 4 e 6 a 11 della tabella stessa.
 
 ## Art. 4.
 
@@ -177,7 +177,7 @@ La presente legge non implica nessuna modificazione del trattamento di pensione 
 ## Art. 22.
 
 I datori di lavoro, i quali essendo obbligati ai sensi dei precedenti articoli ad assumere invalidi, non provvedano a cio' direttamente o non ne facciano richiesta il tempo debito alla competente rappresentanza provinciale dell'Opera invalidi, sono puniti con un'ammenda la L. 1500 a L. 3000 per ogni giorno lavorativo e per ogni posto dalla presente legge riservato agli invalidi e non coperto.
- Chiunque, non avendone diritto, ottenga o tenti di ottenere con mezzi fraudolenti occupazione quale invalido di guerra, ai sensi della presente legge, e' punito con la reclusione fino a sei mesi, indipendentemente dalle maggiori sanzioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ Chiunque, non avendone diritto, ottenga o tenti di ottenere con mezzi fraudolenti occupazione quale invalido di guerra, ai sensi della presente legge, e' punito con la reclusione fino a sei mesi, indipendentemente dalle maggiori sanzioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 23.
 
@@ -201,7 +201,7 @@ Sono abrogate le disposizioni contrarie a quelle della presente legge e che risu
 
 ## Art. 27.
 
-Con decreto del Presidente della Repubblica, su proposta del Ministro per il lavoro e la previdenza sociale di concerto con i Ministri interessati, sentito il Consiglio di Stato, saranno apportate le opportune modifiche al [regio decreto 29 gennaio 1922, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-29;92), che approva il regolamento per l'applicazione della [legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md).
+Con decreto del Presidente della Repubblica, su proposta del Ministro per il lavoro e la previdenza sociale di concerto con i Ministri interessati, sentito il Consiglio di Stato, saranno apportate le opportune modifiche al [regio decreto 29 gennaio 1922, n. 92](Che%20approva%20il%20regolamento%20per%20lapplicazione%20della%20legge%2021%20agosto%201921%20n.%201312%20concernente%20lassunzione%20obbligatoria%20al%20lavoro%20degli%20invalidi%20di%20guerra.%20022U0092.md), che approva il regolamento per l'applicazione della [legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

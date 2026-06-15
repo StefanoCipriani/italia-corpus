@@ -20,19 +20,19 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Vista la [legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254), sull'avanzamento nel R. esercito, e il regolamento per la sua esecuzione approvato con [R. decreto 21 luglio 1907, n. 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-21;626), e le loro successive modificazioni;
+Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito, e il regolamento per la sua esecuzione approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), e le loro successive modificazioni;
 
-Viste le [leggi 8 giugno 1913, n. 601, e 21 marzo 1915, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-03-21;301), portanti modificazioni ed aggiunte alla legge sull'avanzamento nel R. esercito;
+Viste le [leggi 8 giugno 1913, n. 601, e 21 marzo 1915, n. 301](Che%20porta%20aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20nel%20R.%20esercito%20015U0301.md), portanti modificazioni ed aggiunte alla legge sull'avanzamento nel R. esercito;
 
-Vista la [legge 18 luglio 1912, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-18;806), sullo stato degli ufficiali del R. esercito e della R. marina, e il regolamento per la sua esecuzione approvato con [R. decreto 18 luglio 1912, n. 867](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-07-18;867), e le loro successive modificazioni;
+Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina, e il regolamento per la sua esecuzione approvato con [R. decreto 18 luglio 1912, n. 867](Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md), e le loro successive modificazioni;
 
-Visto il testo unico sugli stipendi e assegni fissi per il R. esercito, approvato con [R. decreto 14 luglio 1898, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;380), e successive modificazioni;
+Visto il testo unico sugli stipendi e assegni fissi per il R. esercito, approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e successive modificazioni;
 
 Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
 
-Visto il [R. decreto 16 giugno 1907, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-06-16;545), che da' piena ed intera esecuzione alla convenzione internazionale per il miglioramento della sorte dei malati e dei feriti in guerra;
+Visto il [R. decreto 16 giugno 1907, n. 545](Che%20da%20piena%20ed%20intera%20esecuzione%20alla%20Convenzione%20internazionale%20pel%20miglioramento%20della%20sorte%20dei%20malati%20e%20feriti%20in%20guerra%20conchiusa%20tra%20lItalia%20e%20diversi%20Stati.%20007U0545.md), che da' piena ed intera esecuzione alla convenzione internazionale per il miglioramento della sorte dei malati e dei feriti in guerra;
 
 Udito il Consiglio dei ministri;
 
@@ -76,7 +76,7 @@ L'avanzamento degli ufficiali medici rimane sospeso dal momento in cui essi cado
 
 ## Art. 6.
 
-Agli effetti del presente decreto sono abrogati, per quanto riguarda gli ufficiali: l'[art. 60 della legge 2 luglio 1896, n 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254#art_60), sull'avanzamento degli ufficiali del R. esercito ed i paragrafi 229 e 230 del regolamento per l'esecuzione della predetta legge, approvato con [R. decreto 21 luglio 1907, n. 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-21;626).
+Agli effetti del presente decreto sono abrogati, per quanto riguarda gli ufficiali: l'[art. 60 della legge 2 luglio 1896, n 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento degli ufficiali del R. esercito ed i paragrafi 229 e 230 del regolamento per l'esecuzione della predetta legge, approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md).
 
 ## Art. 7.
 

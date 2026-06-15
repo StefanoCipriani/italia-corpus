@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 agosto 1930, n. 1400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-08-22;1400), contenente norme speciali per la garanzia dei crediti per l'esportazione nell'Unione delle Repubbliche Soviettiste Socialiste. 
+ E' convertito in legge il [R. decreto-legge 22 agosto 1930, n. 1400](Norme%20speciali%20per%20la%20garanzia%20dei%20crediti%20per%20lesportazione%20nellUnione%20delle%20Repubbliche%20Soviettiste%20Socialiste.%20030U1400.md), contenente norme speciali per la garanzia dei crediti per l'esportazione nell'Unione delle Repubbliche Soviettiste Socialiste. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia. mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 8 gennaio 1931 - Anno IX 
  

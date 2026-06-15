@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 11 settembre 1919, n. 1821](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-11;1821), col quale venne istituita una Commissione con l'incarico di accertare i danni subiti da funzionari dipendenti dal Ministero degli affari esteri in conseguenza della guerra ed a causa del servizio;
+Visto il [R. decreto 11 settembre 1919, n. 1821](Che%20istituisce%20una%20Commissione%20per%20laccertamento%20dei%20danni%20subiti%20in%20dipendenza%20della%20guerra%20ed%20a%20causa%20del%20servizio%20da%20funzionari%20dipendenti%20dal%20Ministero%20degli%20affari%20esteri%20e%20per%20la%20de_3f3665356c9d.md), col quale venne istituita una Commissione con l'incarico di accertare i danni subiti da funzionari dipendenti dal Ministero degli affari esteri in conseguenza della guerra ed a causa del servizio;
 
 Ritenuto che, per circostanze di fatto, quella Commissione non completo' i propri lavori e che rimane tuttora da deliberare in merito ad alcune denuncie di danni da parte di detti funzionari;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari esteri, di
 
 ## Art. 1.
 
-La Commissione istituita con [R. decreto 11 settembre 1919, n. 1821](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-11;1821), e' composta come segue: 
+La Commissione istituita con [R. decreto 11 settembre 1919, n. 1821](Che%20istituisce%20una%20Commissione%20per%20laccertamento%20dei%20danni%20subiti%20in%20dipendenza%20della%20guerra%20ed%20a%20causa%20del%20servizio%20da%20funzionari%20dipendenti%20dal%20Ministero%20degli%20affari%20esteri%20e%20per%20la%20de_3f3665356c9d.md), e' composta come segue: 
  
  Aldrovandi Marescotti Luigi, conte di Viano, Regio ambasciatore a riposo, presidente; 
  

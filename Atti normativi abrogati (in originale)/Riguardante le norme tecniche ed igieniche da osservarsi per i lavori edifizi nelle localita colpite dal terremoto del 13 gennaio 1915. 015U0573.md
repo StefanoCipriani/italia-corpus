@@ -60,7 +60,7 @@ Nei Comuni sottoindicati, colpiti dal terremoto del 13 gennaio 1915, sono obblig
 
 ## Art. 2.
 
-Spetta al Comitato speciale del Consiglio superiore dei lavori pubblici, di cui agli articoli 173 e seguenti del testo unico delle leggi emanate in conseguenza del terremoto del 28 dicembre 1908, approvato con [R. decreto 12 ottobre 1913, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-12;1261), di dar parere, in seguito a richiesta del ministro dei lavori pubblici, su tutte le questioni di edilizia sismica e su quelle relative alla interpretazione ed all'uniforme osservanza delle norme indicate nel precedente articolo. 
+Spetta al Comitato speciale del Consiglio superiore dei lavori pubblici, di cui agli articoli 173 e seguenti del testo unico delle leggi emanate in conseguenza del terremoto del 28 dicembre 1908, approvato con [R. decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md), di dar parere, in seguito a richiesta del ministro dei lavori pubblici, su tutte le questioni di edilizia sismica e su quelle relative alla interpretazione ed all'uniforme osservanza delle norme indicate nel precedente articolo. 
  
  Lo stesso Comitato puo' essere incaricato dal ministro dei lavori pubblici di fare direttamente studi e formulare proposte per la risoluzione dei problemi attinenti alla tecnica costruttiva nei Comuni colpiti dal terremoto del 13 gennaio 1915.
 

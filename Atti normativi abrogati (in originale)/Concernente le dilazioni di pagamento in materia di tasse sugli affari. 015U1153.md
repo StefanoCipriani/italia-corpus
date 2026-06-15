@@ -39,7 +39,7 @@ Verificandosi quest'ultimo caso, il contribuente s'intendera' decaduto dal benef
  
  Fermo il privilegio stabilito a favore dello Stato dall'[art. 1958, n. 1 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1958-num1), qualora il debitore possegga beni immobili, viene esteso a questi, per rutta la durata della dilazione, e fino alla completa estinzione del debito di tassa, di eventuale soprattassa degli interessi, il privilegio stabilito dal successivo art. 1962, secondo comma. 
  
- Per le dilazioni che saranno concesse a partire dalla data del presente decreto, per le tasse di successione ricadenti su valori immobiliari, ai sensi dell'[art. 9 della legge 23 gennaio 1902, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-01-23;25#art_9), allegato C, e per ogni altra dilazione che sara' consentita, a partire dalla stessa data, dall'Amministrazione delle tasse sugli affari secondo le norme vigenti, il saggio annuo d'interesse, da corrispondersi dai debitori, resta stabilito nella ragione del 4,50 per cento scalare.
+ Per le dilazioni che saranno concesse a partire dalla data del presente decreto, per le tasse di successione ricadenti su valori immobiliari, ai sensi dell'[art. 9 della legge 23 gennaio 1902, n. 25](Concernente%20sgravio%20di%20consumi%20ed%20altri%20provvedimenti%20finanziari%20002U0025.md), allegato C, e per ogni altra dilazione che sara' consentita, a partire dalla stessa data, dall'Amministrazione delle tasse sugli affari secondo le norme vigenti, il saggio annuo d'interesse, da corrispondersi dai debitori, resta stabilito nella ragione del 4,50 per cento scalare.
 
 ## Art. 2.
 

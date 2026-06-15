@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 maggio 1926, n. 870](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-06;870), concernente provvedimenti relativi agli atti di alcuni istituti parastatali e di altri enti. 
+ E' convertito in legge il [R. decreto-legge 6 maggio 1926, n. 870](Provvedimenti%20relativi%20agli%20atti%20di%20alcuni%20istituti%20parastatali%20e%20di%20altri%20Enti.%20026U0870.md), concernente provvedimenti relativi agli atti di alcuni istituti parastatali e di altri enti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

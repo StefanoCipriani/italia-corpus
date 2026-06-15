@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 maggio 1926, n. 873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-25;873), concernente mutui a talune industrie interessanti la difesa nazionale. 
+ E' convertito in legge il [R. decreto-legge 25 maggio 1926, n. 873](Mutui%20a%20talune%20industrie%20interessanti%20la%20difesa%20nazionale.%20026U0873.md), concernente mutui a talune industrie interessanti la difesa nazionale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

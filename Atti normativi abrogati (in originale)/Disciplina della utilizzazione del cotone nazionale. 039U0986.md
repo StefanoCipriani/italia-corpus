@@ -50,7 +50,7 @@ Al ricevimento del cotone, la Sezione corrispondera' immediatamente ai conferent
 
 Al solo scopo di ottenere i finanziamenti occorrenti per concedere detti anticipi, la Sezione puo' dare in garanzia il cotone ammassato unicamente agli Istituti autorizzati all'esercizio del credito agrario, alle Casse di risparmio ed ai Monti di pegni di categoria. 
  
- Le operazioni di finanziamento sopra indicate sono assistito da privilegio sul cotone ammassato e sul ricavo della vendita della fibra e del seme ottenuti dalla sgranatura di esso, di, grado immediatamente successivo a quello previsto, per i prestiti agrari di conduzione, dal [R. decreto-legge 29 luglio 1927, n. 1509, art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509#art_8), comma I, e successive modificazioni.
+ Le operazioni di finanziamento sopra indicate sono assistito da privilegio sul cotone ammassato e sul ricavo della vendita della fibra e del seme ottenuti dalla sgranatura di esso, di, grado immediatamente successivo a quello previsto, per i prestiti agrari di conduzione, dal [R. decreto-legge 29 luglio 1927, n. 1509, art. 8](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md), comma I, e successive modificazioni.
 
 ## Art. 9.
 

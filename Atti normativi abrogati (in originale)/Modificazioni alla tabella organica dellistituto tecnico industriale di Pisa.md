@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
- Vista la tabella organica dell'istituto tecnico industriale di Pisa annessa al [regio decreto 24 agosto 1933, n. 2189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-24;2189), pubblicato nel supplemento alla Gazzetta Ufficiale n. 46 del 26 febbraio 1934;
+ Vista la tabella organica dell'istituto tecnico industriale di Pisa annessa al [regio decreto 24 agosto 1933, n. 2189](Trasformazione%20del%20Regio%20istituto%20industriale%20di%20Pisa%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2189.md), pubblicato nel supplemento alla Gazzetta Ufficiale n. 46 del 26 febbraio 1934;
  Visto il [decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107);
  Considerata la necessita' di:
  sopprimere un posto di capofficina falegname ebanista, di ruolo nella scuola tecnica annessa al suddetto Istituto trasformare in posto di incaricato la cattedra di ruolo di elementi di elettrotecnica - elettrotecnica ed impianti elettrici - apparecchi elettrici, misure elettriche ed esercitazioni - disegno di schemi - tecnologia delle costruzioni elettromeccaniche, prevista nella tabella organica della scuola tecnica di cui sopra;
@@ -23,7 +23,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
  Decreta:
 
- Con decorrenza dal 1 ottobre 1948, la tabella organica dell'istituto tecnico industriale di Pisa, annessa al [regio decreto 24 agosto 1933, n. 2189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-24;2189), pubblicato nel supplemento alla Gazzetta, Ufficiale n. 46 del 24 febbraio 1934, e' modificata secondo la tabella allegata al presente decreto, vista e firmata dal Ministro proponente.
+ Con decorrenza dal 1 ottobre 1948, la tabella organica dell'istituto tecnico industriale di Pisa, annessa al [regio decreto 24 agosto 1933, n. 2189](Trasformazione%20del%20Regio%20istituto%20industriale%20di%20Pisa%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2189.md), pubblicato nel supplemento alla Gazzetta, Ufficiale n. 46 del 24 febbraio 1934, e' modificata secondo la tabella allegata al presente decreto, vista e firmata dal Ministro proponente.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

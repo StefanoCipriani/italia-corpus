@@ -24,7 +24,7 @@ L'[art. 1 della legge 22 marzo 1908, n. 105](Concernente%20abolizione%20del%20la
 
 L'[art. 7 della legge 22 marzo 1908, n. 105](Concernente%20abolizione%20del%20lavoro%20notturno%20nellindustria%20della%20panificazione%20e%20delle%20pasticcierie.%20008U0105.md), e' sostituito dal seguente:
  "L'esercente che contravviene alla legge e al regolamento e' punito con l'ammenda da lire mille a ottomila per ciascuna delle persone occupate nel lavoro, alle quali si riferisce la contravvenzione.
- "In caso di recidiva, oltre l'aggravamento della pena preveduto dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), si puo' applicare la sospensione dall'esercizio della industria fino ad un mese.
+ "In caso di recidiva, oltre l'aggravamento della pena preveduto dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si puo' applicare la sospensione dall'esercizio della industria fino ad un mese.
  "Durante la sospensione, l'esercente e' obbligato a corrispondere ai dipendenti la retribuzione normale rapportata a quella corrisposta nell'ultimo periodo di paga".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

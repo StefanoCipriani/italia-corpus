@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il Codice e il relativo Regolamento per la Marina Mercantile;
 
-Visto il [R. decreto 22 marzo 1923, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-22;830);
+Visto il [R. decreto 22 marzo 1923, n. 830](Che%20aumenta%20la%20misura%20dei%20diritti%20marittimi%20stabiliti%20dalla%20legge%2023%20luglio%201896%20n.%20318.%20023U0830.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -32,7 +32,7 @@ All'art. 303, del Regolamento per la esecuzione del Codice per la Marina Mercant
 
 Il Commissario per i servizi della Marina Mercantile e' autorizzato ad emanare le norme per l'applicazione del presente decreto alle navi che gia' portano nomi identici o somiglianti. 
  
- Poi rinnovo degli atti di nazionalita' reso necessario dalla applicazione delle norme predette sara' dagli interessati dovuto soltanto il diritto fisso di cui alla [lettera a) dell'art. 4 del R. decreto 22 marzo 1923, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-22;830#art_4-leta).
+ Poi rinnovo degli atti di nazionalita' reso necessario dalla applicazione delle norme predette sara' dagli interessati dovuto soltanto il diritto fisso di cui alla [lettera a) dell'art. 4 del R. decreto 22 marzo 1923, n. 830](Che%20aumenta%20la%20misura%20dei%20diritti%20marittimi%20stabiliti%20dalla%20legge%2023%20luglio%201896%20n.%20318.%20023U0830.md).
 
 ## Art. 3.
 

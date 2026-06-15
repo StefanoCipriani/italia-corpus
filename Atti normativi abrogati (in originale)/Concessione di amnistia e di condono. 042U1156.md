@@ -35,10 +35,10 @@ Fuori dei casi preveduti dall'articolo precedente, sono condonate le pene detent
 ## Art. 3.
 
 L'amnistia ed il condono di cui ai precedenti articoli non si applicano: 
- 1°) ai delitti dolosi contro la personalita' dello Stato preveduti dal titolo primo, libro secondo, del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398),; 
+ 1°) ai delitti dolosi contro la personalita' dello Stato preveduti dal titolo primo, libro secondo, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md),; 
  2°) ai reati preveduti dalla legge 8 luglio 1941-XIX, n. 645, dalle leggi precedenti da questa sostituite, dal R. decreto-legge 11 giugno 1942-XX, n. 584, e dall'articolo 37-bis della legge 1° novembre 1940-XIX, n. 1782; 
  3°) ai delitti nei quali ricorre la circostanza aggravante speciale preveduta dalla legge 16 giugno 1940, XVIII, n. 582 
- 4°) ai delitti preveduti dal titolo decimo, libro secondo del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), e al delitto preveduto dall'articolo 578 dello stesso codice; 
+ 4°) ai delitti preveduti dal titolo decimo, libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e al delitto preveduto dall'articolo 578 dello stesso codice; 
  5°) ai reati esclusivamente militari; ai reati preveduti dalla legge penale militare che corrispondono a quelli indicati nei numeri precedenti ai delitti preveduti dalle leggi sul reclutamento; 
  6°) ai reati preveduti dalle leggi finanziarie.
 

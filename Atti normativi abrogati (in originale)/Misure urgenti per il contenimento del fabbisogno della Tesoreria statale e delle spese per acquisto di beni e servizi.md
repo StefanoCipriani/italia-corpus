@@ -24,7 +24,7 @@ E M A N A il seguente decreto:
 
 1.
 
-I tesorieri delle regioni e delle unita' sanitarie locali sono autorizzati a concedere, anche in deroga alle loro norme statutarie, anticipazioni straordinarie di cassa entro il limite dell'importo della spesa sanitaria relativa agli anni 1985 e 1986, finanziabile con operazioni di mutuo con la Cassa depositi e prestiti ai sensi dell'[articolo 3, comma 1, del decreto-legge 19 settembre 1987, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-19;382#art_3-com1), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 456](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;456), al netto delle somme gia' erogate dalla Cassa depositi e prestiti alla data di entrata in vigore del presente decreto.
+I tesorieri delle regioni e delle unita' sanitarie locali sono autorizzati a concedere, anche in deroga alle loro norme statutarie, anticipazioni straordinarie di cassa entro il limite dell'importo della spesa sanitaria relativa agli anni 1985 e 1986, finanziabile con operazioni di mutuo con la Cassa depositi e prestiti ai sensi dell'[articolo 3, comma 1, del decreto-legge 19 settembre 1987, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-19;382#art_3-com1), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 456](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201987%20n.%20382%20recante%20misure%20necessarie%20per%20il%20ripiano%20dei%20bilanci%20delle%20unita%20sanitarie%20locali%20e%20di%20altri%20enti%20che%20ero_4f114a2e7c12.md), al netto delle somme gia' erogate dalla Cassa depositi e prestiti alla data di entrata in vigore del presente decreto.
 
 2.
 
@@ -36,7 +36,7 @@ Le anticipazioni sono versate a cura dei tesorieri, in unica soluzione, sul cont
 
 4.
 
-Il Ministro del tesoro concede le autorizzazioni di cui al comma 2 sulla base delle domande di mutuo prodotte dalle regioni ai sensi dell'articolo 3, commi 2 e 6, del decreto-legge di cui al [comma 1 e dell'articolo 2 del decreto-legge 30 novembre 1988, n. 514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-11-30;514#art_2-com1), convertito, con modificazioni, dalla [legge 27 gennaio 1989, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-01-27;23).
+Il Ministro del tesoro concede le autorizzazioni di cui al comma 2 sulla base delle domande di mutuo prodotte dalle regioni ai sensi dell'articolo 3, commi 2 e 6, del decreto-legge di cui al [comma 1 e dell'articolo 2 del decreto-legge 30 novembre 1988, n. 514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-11-30;514#art_2-com1), convertito, con modificazioni, dalla [legge 27 gennaio 1989, n. 23](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20novembre%201988%20n.%20514%20recante%20misure%20urgenti%20in%20materia%20sanitaria%20nonche%20per%20il%20ripiano%20dei%20disavanzi%20di%20bilancio%20delle%20unita%20sa_e5427fb1c376.md).
 
 5.
 
@@ -54,7 +54,7 @@ Le anticipazioni sono attivate per l'importo autorizzato dal Ministero del tesor
 
 3.
 
-Le regioni, ai fini di quanto previsto dal comma 2, integrano la documentazione trasmessa al Ministero del tesoro in applicazione del [decreto-legge 9 dicembre 1986, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-12-09;833), convertito, con modificazioni, dalla [legge 6 febbraio 1987, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-06;18), con l'elenco dei tesorieri di cui al comma 1.
+Le regioni, ai fini di quanto previsto dal comma 2, integrano la documentazione trasmessa al Ministero del tesoro in applicazione del [decreto-legge 9 dicembre 1986, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-12-09;833), convertito, con modificazioni, dalla [legge 6 febbraio 1987, n. 18](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20dicembre%201986%20n.%20833%20recante%20misure%20urgenti%20per%20il%20settore%20dei%20trasporti%20locali.md), con l'elenco dei tesorieri di cui al comma 1.
 
 4.
 
@@ -86,7 +86,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 1.
 
-Gli importi non utilizzati alla data di entrata in vigore del presente decreto relativi a mutui gia' in ammortamento, concessi dagli istituti di credito speciale o dalle sezioni opere pubbliche delle aziende di credito agli enti tenuti all'osservanza delle disposizioni contenute nella [legge 29 ottobre 1984, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720), e nel'[articolo 35 della legge 30 marzo 1981, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119#art_35), e successive modificazioni, devono essere versati nei conti correnti infruttiferi presso la Tesoreria centrale o nelle contabilita' speciali infruttifere presso le sezioni provinciali della Tesoreria dello Stato intestate agli enti stessi.
+Gli importi non utilizzati alla data di entrata in vigore del presente decreto relativi a mutui gia' in ammortamento, concessi dagli istituti di credito speciale o dalle sezioni opere pubbliche delle aziende di credito agli enti tenuti all'osservanza delle disposizioni contenute nella [legge 29 ottobre 1984, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720), e nel'[articolo 35 della legge 30 marzo 1981, n. 119](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201981.md), e successive modificazioni, devono essere versati nei conti correnti infruttiferi presso la Tesoreria centrale o nelle contabilita' speciali infruttifere presso le sezioni provinciali della Tesoreria dello Stato intestate agli enti stessi.
 
 2.
 
@@ -94,7 +94,7 @@ Il versamento deve essere effettuato direttamente dagli istituti di credito spec
 
 3.
 
-Gli importi comunque messi a disposizione successivamente alla data di entrata in vigore del presente decreto, a valere sui muti concessi, debbono essere versati entro tre giorni lavorativi nei conti correnti e nelle contabilita' speciali indicati al comma 1, da cui potranno essere prelevati dal tesoriere dell'ente in relazione alle effettive necessita' e con le modalita' previste dalla [legge 29 ottobre 1984, n. 720, e dall'articolo 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720#art_35) della [legge 30 marzo 1981, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119), e dai relativi decreti di attuazione.
+Gli importi comunque messi a disposizione successivamente alla data di entrata in vigore del presente decreto, a valere sui muti concessi, debbono essere versati entro tre giorni lavorativi nei conti correnti e nelle contabilita' speciali indicati al comma 1, da cui potranno essere prelevati dal tesoriere dell'ente in relazione alle effettive necessita' e con le modalita' previste dalla [legge 29 ottobre 1984, n. 720, e dall'articolo 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720#art_35) della [legge 30 marzo 1981, n. 119](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201981.md), e dai relativi decreti di attuazione.
 
 4.
 
@@ -108,7 +108,7 @@ Le spese per acquisto di beni e servizi iscritte negli stati di previsione della
 
 2.
 
-Le spese riservate e le spese di rappresentanza iscritte negli stati di previsione per l'anno finanziario 1989 delle amministrazioni centrali dello Stato non possono essere integrate, nell'anno predetto, con prelevamento dal fondo di cui all'[articolo 9 della legge 5 agosto 1978, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_9).
+Le spese riservate e le spese di rappresentanza iscritte negli stati di previsione per l'anno finanziario 1989 delle amministrazioni centrali dello Stato non possono essere integrate, nell'anno predetto, con prelevamento dal fondo di cui all'[articolo 9 della legge 5 agosto 1978, n. 468](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md).
 
 3.
 

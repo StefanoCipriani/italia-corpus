@@ -42,7 +42,7 @@ Le deliberazioni della Commissione che riguardino questioni di massima, per esse
 
 ## Art. 5.
 
-Nel concorso delle circostanze previste dagli articoli 1 e 2 del decreto Ministeriale 6 luglio 1923, riportati negli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-16;2845#art_8) e [12 del R. decreto 16 dicembre 1923, n. 2845, il Ministro per le finanze](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-16;2845#art_12) potra', a suo giudizio insindacabile, elevare la percentuale prevista dall'[art. 1 comma secondo del R. decreto 11 gennaio 1925, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-11;50#art_1-com2).
+Nel concorso delle circostanze previste dagli articoli 1 e 2 del decreto Ministeriale 6 luglio 1923, riportati negli [articoli 8](Pagamento%20dei%20danni%20di%20guerra%20mediante%20titoli%20obbligazioni%20delle%20Venezie.%20023U2845.md) e [12 del R. decreto 16 dicembre 1923, n. 2845, il Ministro per le finanze](Pagamento%20dei%20danni%20di%20guerra%20mediante%20titoli%20obbligazioni%20delle%20Venezie.%20023U2845.md) potra', a suo giudizio insindacabile, elevare la percentuale prevista dall'[art. 1 comma secondo del R. decreto 11 gennaio 1925, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-11;50#art_1-com2).
 
 ## Art. 6.
 

@@ -22,7 +22,7 @@ Il termine del 31 dicembre 1975 indicato negli articoli 1 e 3 della legge delega
 ## Art. 2.
 
 Entro lo stesso termine del 31 dicembre 1978, e con la procedura di cui al secondo comma del precedente articolo, il Governo e' inoltre autorizzato ad emanare, mediante uno o piu' decreti aventi valore di legge, norme integrative e correttive di quelle contenute nel testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
- Tali norme dovranno rispondere ai principi e criteri direttivi di cui all'[articolo 2 della legge 23 gennaio 1968, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-23;29#art_2), nonche' alle esigenze di coordinamento di detto testo unico con le successive leggi dello Stato.
+ Tali norme dovranno rispondere ai principi e criteri direttivi di cui all'[articolo 2 della legge 23 gennaio 1968, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concessione%20di%20delega%20legislativa%20per%20la%20modifica%20e%20laggiornamento%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), nonche' alle esigenze di coordinamento di detto testo unico con le successive leggi dello Stato.
 
 ## Art. 3.
 

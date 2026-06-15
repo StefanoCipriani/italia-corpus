@@ -41,7 +41,7 @@ Ai fini della restituzione del dazio e degli altri diritti doganali di cui all'a
 
 ## Art. 7.
 
-Per la risoluzione delle controversie tra le dogane e gli esportatori si applica il procedimento previsto dal testo unico delle leggi approvato con [regio decreto 9 aprile 1911, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-04-09;330), e successive modificazioni.
+Per la risoluzione delle controversie tra le dogane e gli esportatori si applica il procedimento previsto dal testo unico delle leggi approvato con [regio decreto 9 aprile 1911, n. 330](Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20risoluzione%20delle%20controversie%20doganali.%20011U0330.md), e successive modificazioni.
 
 ## Art. 8.
 

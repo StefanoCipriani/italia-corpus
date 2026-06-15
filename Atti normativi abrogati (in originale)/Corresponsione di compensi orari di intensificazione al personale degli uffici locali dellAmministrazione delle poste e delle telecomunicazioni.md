@@ -26,7 +26,7 @@ Ai direttori o reggenti di Ufficio locale dell'Amministrazione delle poste e del
 
 ## Art. 2.
 
-In conseguenza delle provvidenze previste nel precedente articolo, a partire dall'anno finanziario 1968, il limite della spesa annua relativa alle prestazioni straordinarie del personale dell'Amministrazione delle poste e delle telecomunicazioni, di cui all'ultimo comma dell'[articolo 3 del decreto del Presidente della Repubblica 5 giugno 1965, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-05;749#art_3), e' ridotto ulteriormente di lire 3.300 milioni.
+In conseguenza delle provvidenze previste nel precedente articolo, a partire dall'anno finanziario 1968, il limite della spesa annua relativa alle prestazioni straordinarie del personale dell'Amministrazione delle poste e delle telecomunicazioni, di cui all'ultimo comma dell'[articolo 3 del decreto del Presidente della Repubblica 5 giugno 1965, n. 749](../DPR/Conglobamento%20dellassegno%20mensile%20e%20competenze%20analoghe%20negli%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20statale%20in%20applicazione%20dellart.%203%20della%20legge%205%20dicembre%201964%20n.%201268.md), e' ridotto ulteriormente di lire 3.300 milioni.
 
 ## Art. 3.
 

@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Nel [secondo comma dell'art. 3 del R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841#art_3-com2), alle parole: «entrata patrimoniale», sostituire le parole: «entrata ordinaria»
+Nel [secondo comma dell'art. 3 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), alle parole: «entrata patrimoniale», sostituire le parole: «entrata ordinaria»
 
 ## Art. 2.
 
-L'[art. 5 del R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841#art_5), e' modificato e completato come segue: 
+L'[art. 5 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e' modificato e completato come segue: 
  
  Agli articoli 5 e 6 della legge e' sostituito il seguente: 
  
@@ -38,19 +38,19 @@ L'ultimo capoverso dell'[art. 11 della legge 17 luglio 1890, n. 6972](https://ww
 
 ## Art. 4.
 
-Tra il secondo e il [terzo comma dell'art. 18 del R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841#art_18-com3), e' inserito il seguente: 
+Tra il secondo e il [terzo comma dell'art. 18 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e' inserito il seguente: 
  
  «A parita' di merito sono preferiti, tra i vincitori del concorso, quei concorrenti che gia' prestino servizio presso l'ospedale come assistenti o aiuti e che abbiano conseguito la nomina a tali posti in seguito a concorso anche se abbiano superato i limiti di eta' prescritti dal bando».
 
 ## Art. 5.
 
-Il [terzo comma dell'art. 24 del R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841#art_24-com3), e' cosi' modificato: 
+Il [terzo comma dell'art. 24 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e' cosi' modificato: 
  
  «Quando l'Amministrazione di un'istituzione, malgrado le ingiunzioni della autorita' superiore, non compia un atto reso obbligatorio da leggi o regolamenti o non spedisca i mandati, il Sottoprefetto provvede di ufficio anche per mezzo di un delegato speciale».
 
 ## Art. 6.
 
-L'[art. 28 del R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841#art_28), e' abrogato. 
+L'[art. 28 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e' abrogato. 
  
  Agli [articoli 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_56) e [57 della legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_57), e' sostituito il seguente: 
  
@@ -62,7 +62,7 @@ L'[art. 28 del R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/u
 
 ## Art. 7.
 
-L'art. 29 del citato [R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841), e' modificato come segue: 
+L'art. 29 del citato [R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e' modificato come segue: 
  
  All'[art. 58 della legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_58), e' sostituito il seguente: 
  
@@ -90,7 +90,7 @@ Al [quarto comma dell'art. 61 a) della legge 17 luglio 1890 n. 6972](https://www
 
 ## Art. 9.
 
-Al secondo e al [terzo comma dell'art. 31 del R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841#art_31-com3), sono sostituiti i seguenti: 
+Al secondo e al [terzo comma dell'art. 31 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), sono sostituiti i seguenti: 
  
  «Le riforme degli statuti organici e delle Amministrazioni, le fusioni e le mutazioni del fine delle istituzioni pubbliche di assistenza e beneficenza possono essere proposte: 
  
@@ -114,7 +114,7 @@ Nel penultimo comma dell'art. 32 del citato R. decreto, dopo le parole: «e le m
 
 ## Art. 11.
 
-Ai primi tre comma del [R. decreto 30 dicembre 1923, numero 3048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3048), sono sostituiti i seguenti: 
+Ai primi tre comma del [R. decreto 30 dicembre 1923, numero 3048](Devoluzione%20di%20beni%20di%20pertinenza%20di%20Opere%20pie%20lasciti%20e%20legati%20di%20culto%20a%20favore%20di%20Enti%20di%20culto.%20023U3048.md), sono sostituiti i seguenti: 
  
  «Entro due anni dalla pubblicazione della presente legge i prefetti dovranno procedere, uditi gli ordinari diocesani, alla visione degli scopi delle opere di culto, dei lasciti e legati di culto di cui all'[art. 91, n. 3, della legge 17 luglio 1890, numero 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_91-num3), che facciano carico ad istituzioni pubbliche di beneficenza, per accertare se, tenuto conto delle attuali condizioni del culto, nei singoli Comuni, tali opere pie, lasciti e legati, corrispondano ai bisogni delle popolazioni locali. 
  
@@ -132,7 +132,7 @@ All'inizio di tale sessione scadra' dalla carica un membro di nomina governativa
 
 ## Art. 13.
 
-Le disposizioni della presente legge saranno coordinate in testo unico con quelle delle [leggi 17 luglio 1890, n. 6972, e 18 luglio 1904, n. 390](Riflettente%20la%20istituzione%20di%20Commissioni%20provinciali%20di%20un%20Consiglio%20superiore%20e%20di%20un%20servizio%20dispezione%20della%20pubblica%20assistenza%20e%20beneficenza%20004U0390.md), con le norme dei [Regi decreti 30 dicembre 1923, nn. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841) e [3048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3048), e con tutte le altre disposizioni legislative vigenti in materia.
+Le disposizioni della presente legge saranno coordinate in testo unico con quelle delle [leggi 17 luglio 1890, n. 6972, e 18 luglio 1904, n. 390](Riflettente%20la%20istituzione%20di%20Commissioni%20provinciali%20di%20un%20Consiglio%20superiore%20e%20di%20un%20servizio%20dispezione%20della%20pubblica%20assistenza%20e%20beneficenza%20004U0390.md), con le norme dei [Regi decreti 30 dicembre 1923, nn. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md) e [3048](Devoluzione%20di%20beni%20di%20pertinenza%20di%20Opere%20pie%20lasciti%20e%20legati%20di%20culto%20a%20favore%20di%20Enti%20di%20culto.%20023U3048.md), e con tutte le altre disposizioni legislative vigenti in materia.
 
 ## Art. 14.
 

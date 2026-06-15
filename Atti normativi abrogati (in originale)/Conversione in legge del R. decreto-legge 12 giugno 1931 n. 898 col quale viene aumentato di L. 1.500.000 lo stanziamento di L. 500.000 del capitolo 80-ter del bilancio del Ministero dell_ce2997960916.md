@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 giugno 1931, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-12;898), col quale viene aumentato di L. 1.500.000 lo stanziamento di L. 500.000 del capitolo 80-ter del bilancio del Ministero dell'agricoltura e delle foreste. 
+ E' convertito in legge il [R. decreto-legge 12 giugno 1931, n. 898](Aumento%20della%20somma%20di%20L.%201.500.000%20del%20fondo%20stanziato%20al%20cap.%2080-ter%20del%20bilancio%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20031U0898.md), col quale viene aumentato di L. 1.500.000 lo stanziamento di L. 500.000 del capitolo 80-ter del bilancio del Ministero dell'agricoltura e delle foreste. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 17 dicembre 1931 - Anno X 
  

@@ -134,7 +134,7 @@ La presente legge non implica nessuna modificazione del trattamento di pensione 
 
 I datori di lavoro, i quali, essendo obbligati ai sensi dei precedenti articoli ad assumere invalidi, non provvedano a cio' direttamente o non ne facciano richiesta in tempo debito ai competenti organi del collocamento, sono puniti con una ammenda di L. 10 per ogni giorno lavorativo e per ogni posto dalla presente legge riservato agli invalidi e non coperto. 
  
- Chiunque, non avendone diritto, ottenga o tenti di ottenere, con mezzi fraudolenti, occupazione quale invalido di guerra, ai sensi della presente legge, e' punito con la detenzione fino a sei mesi indipendentemente dalle maggiori sanzioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ Chiunque, non avendone diritto, ottenga o tenti di ottenere, con mezzi fraudolenti, occupazione quale invalido di guerra, ai sensi della presente legge, e' punito con la detenzione fino a sei mesi indipendentemente dalle maggiori sanzioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 19.
 

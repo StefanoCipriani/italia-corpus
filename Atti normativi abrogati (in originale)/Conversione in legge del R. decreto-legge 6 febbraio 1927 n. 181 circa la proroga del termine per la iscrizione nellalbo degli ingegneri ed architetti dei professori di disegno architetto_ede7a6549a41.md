@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 febbraio 1927, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-06;181), circa la proroga del termine per la iscrizione nell'albo degli ingegneri ed architetti dei professori di disegno architettonico. 
+ E' convertito in legge il [R. decreto-legge 6 febbraio 1927, n. 181](Proroga%20di%20termine%20per%20la%20iscrizione%20nellalbo%20degli%20ingegneri%20ed%20architetti%20dei%20professori%20di%20disegno%20architettonico.%20027U0181.md), circa la proroga del termine per la iscrizione nell'albo degli ingegneri ed architetti dei professori di disegno architettonico. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

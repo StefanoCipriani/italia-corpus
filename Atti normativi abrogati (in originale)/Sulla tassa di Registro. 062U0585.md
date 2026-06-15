@@ -167,7 +167,7 @@ Il valore del godimento, dell'usufrutto e della proprieta' dei beni mobili per l
  
  Il creditore o suoi aventi causa non possono rifiutarsi a consegnare i titoli al debitore o permettergli che a sue spese, senza che sieno esportati, ne sia fatta copia autentica e ad ammettere la dichiarazione sulla sussistenza di tutto o di parte del debito che deve essere dedotto dall' asse ereditario sotto pena dei danni. 
  
- Nel caso d'infedelta' nella dichiarazione, i soscrittori della medesima saranno tenuti solidariamente al pagamento d'una pena pecuniaria eguale al triplo della tassa che colla dichiarazione infedele si tento' di defraudare, senza pregiudizio degli effetti del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) nei casi da esso previsti. 
+ Nel caso d'infedelta' nella dichiarazione, i soscrittori della medesima saranno tenuti solidariamente al pagamento d'una pena pecuniaria eguale al triplo della tassa che colla dichiarazione infedele si tento' di defraudare, senza pregiudizio degli effetti del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nei casi da esso previsti. 
  
  Saranno pure dedotti dall'asse ereditario i debiti commerciali, quando l'esistenza dei medesimi sia giustificata colla produzione dei libri di commercio tenuti nelle forme stabilite dalle leggi commerciali. 
  

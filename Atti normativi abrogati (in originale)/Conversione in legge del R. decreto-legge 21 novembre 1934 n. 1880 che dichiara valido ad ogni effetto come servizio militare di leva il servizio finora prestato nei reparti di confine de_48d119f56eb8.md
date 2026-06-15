@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 novembre 1934, n. 1880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-11-21;1880), che dichiara valido, ad ogni effetto, come servizio militare di leva, il servizio finora prestato nei reparti di confine della M.V.S.N. 
+ E' convertito in legge il [R. decreto-legge 21 novembre 1934, n. 1880](Validita%20ad%20ogni%20effetto%20come%20servizio%20militare%20di%20leva%20del%20servizio%20finora%20prestato%20nei%20reparti%20di%20confine%20della%20M.V.S.N.%20034U1880.md), che dichiara valido, ad ogni effetto, come servizio militare di leva, il servizio finora prestato nei reparti di confine della M.V.S.N. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

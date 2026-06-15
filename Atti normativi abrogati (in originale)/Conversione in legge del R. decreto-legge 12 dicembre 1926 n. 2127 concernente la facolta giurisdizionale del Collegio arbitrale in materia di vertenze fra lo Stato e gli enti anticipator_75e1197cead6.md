@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-12;2127), concernente la facolta' giurisdizionale del Collegio arbitrale in materia di vertenze fra lo Stato e gli enti anticipatori per i danni di guerra. 
+ E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2127](Facolta%20giurisdizionale%20del%20Collegio%20arbitrale%20in%20materia%20di%20vertenze%20fra%20lo%20Stato%20e%20gli%20enti%20anticipatori%20per%20i%20danni%20di%20guerra.%20026U2127.md), concernente la facolta' giurisdizionale del Collegio arbitrale in materia di vertenze fra lo Stato e gli enti anticipatori per i danni di guerra. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 dicembre 1924, n. 2285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-12-28;2285), recante modificazioni alla legge istitutiva del Consorzio autonomo del porto di Genova, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 28 dicembre 1924, n. 2285](Modificazioni%20alla%20legge%20istitutiva%20del%20Consorzio%20autonomo%20del%20porto%20di%20Genova.%20024U2285.md), recante modificazioni alla legge istitutiva del Consorzio autonomo del porto di Genova, con le seguenti modificazioni: 
  
  Al numero XIV dell'art. 1 aggiungere in fine: 
  

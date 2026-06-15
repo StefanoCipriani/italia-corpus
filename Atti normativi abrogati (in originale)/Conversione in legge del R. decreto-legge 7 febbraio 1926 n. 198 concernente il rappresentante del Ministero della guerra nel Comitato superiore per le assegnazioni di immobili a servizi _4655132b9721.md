@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 febbraio 1926, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-07;198), concernente il rappresentante del Ministero della guerra nel Comitato superiore per le assegnazioni di immobili a servizi governativi. 
+ E' convertito in legge il [R. decreto-legge 7 febbraio 1926, n. 198](Rappresentante%20del%20Ministero%20della%20guerra%20nel%20Comitato%20superiore%20per%20le%20assegnazioni%20di%20immobili%20a%20servizi%20governativi.%20026U0198.md), concernente il rappresentante del Ministero della guerra nel Comitato superiore per le assegnazioni di immobili a servizi governativi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

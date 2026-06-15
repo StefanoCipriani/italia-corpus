@@ -143,7 +143,7 @@ L'Amministrazione della guerra ha facolta' di corrispondere, sui fondi destinati
  
  E' abrogato il [R. decreto-legge 4 settembre 1925, n. 1590](Corresponsione%20di%20speciali%20premi%20agli%20ufficiali%20dei%20servizi%20tecnici.%20025U1590.md), sulla corresponsione di speciali premi agli ufficiali dei servizi tecnici. 
  
- Dai premi di cui sopra dovra' dedursi l'ammontare delle indennita' conservate, a norma del [secondo comma dell'art. 178 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_178-com2), agli ufficiali in servizio all'entrata in vigore del detto decreto o ammessi in base a concorsi indetti prima della data del decreto medesimo.
+ Dai premi di cui sopra dovra' dedursi l'ammontare delle indennita' conservate, a norma del [secondo comma dell'art. 178 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), agli ufficiali in servizio all'entrata in vigore del detto decreto o ammessi in base a concorsi indetti prima della data del decreto medesimo.
 
 ### Art. 11.
 

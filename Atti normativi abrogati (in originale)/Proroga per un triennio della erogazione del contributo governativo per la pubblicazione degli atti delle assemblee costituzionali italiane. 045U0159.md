@@ -18,15 +18,15 @@ In virtu' dell'autorita' a Noi delegata;
 
 Veduto l'[art. 4 del decreto-legge Luogotenenziali 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Veduto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Veduto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Veduto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Veduto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
-Veduta la [legge 4 luglio 1941, n. 731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-07-04;731), con la quale veniva concessa alla Reale Accademia d'Italia una proroga per tre anni, a decorrere dall'esercizio finanziario 1941-42, dello speciale assegno annuo di L. 30.000 per la pubblicazione degli atti delle assemblee costituzionali italiane del medio-evo e dell'eta' anteriore al Risorgimento italiano e delle carte finanziarie della Repubblica Veneta;
+Veduta la [legge 4 luglio 1941, n. 731](Proroga%20del%20contributo%20dello%20Stato%20per%20la%20pubblicazione%20degli%20Atti%20delle%20Assemblee%20costituzionali%20italiane%20dal%20Medioevo%20al%201831%20e%20delle%20Carte%20finanziarie%20della%20Repubblica%20Veneta.%20041U0731.md), con la quale veniva concessa alla Reale Accademia d'Italia una proroga per tre anni, a decorrere dall'esercizio finanziario 1941-42, dello speciale assegno annuo di L. 30.000 per la pubblicazione degli atti delle assemblee costituzionali italiane del medio-evo e dell'eta' anteriore al Risorgimento italiano e delle carte finanziarie della Repubblica Veneta;
 
-Veduto il [decreto legislativo Luogotenenziale 28 settembre 1944, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-28;359), con il quale viene ricostituita l'Accademia nazionale dei Lincei;
+Veduto il [decreto legislativo Luogotenenziale 28 settembre 1944, n. 359](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20dellAccademia%20nazionale%20dei%20Lincei.%20044U0359.md), con il quale viene ricostituita l'Accademia nazionale dei Lincei;
 
-Veduto il [decreto legislativo Luogotenenziale 28 settembre 1944, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-28;363), con il quale la Reale Accademia d'Italia e' stata soppressa;
+Veduto il [decreto legislativo Luogotenenziale 28 settembre 1944, n. 363](../Decreti%20legislativi%20luogotenenziali/Soppressione%20della%20Reale%20Accademia%20dItalia.%20044U0363.md), con il quale la Reale Accademia d'Italia e' stata soppressa;
 
 Considerata la necessita' di prorogare per altri tre anni, a decorrere dall'esercizio finanziario 1944-45 il suddetto contributo e di assegnarlo all'Accademia nazionale dei Lincei che assume tutte le attivita' e le funzioni che facevano capo all'Accademia d'Italia;
 
@@ -36,7 +36,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello p
 
 ## Articolo unico.
 
-A decorrere dall'esercizio finanziario 1944-45, e' prorogato per un triennio a favore dell'Accademia nazionale dei Lincei, ricostituita con il [decreto legislativo Luogotenenziale 28 settembre 1944, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-28;359), lo speciale assegno annuo di L. 30.000 di cui godeva la Reale Accademia d'Italia per la pubblicazione degli atti delle assemblee costituzionali italiane del medio-evo e dell'eta' anteriore al Risorgimento italiano e delle carte finanziarie della Repubblica Veneta. 
+A decorrere dall'esercizio finanziario 1944-45, e' prorogato per un triennio a favore dell'Accademia nazionale dei Lincei, ricostituita con il [decreto legislativo Luogotenenziale 28 settembre 1944, n. 359](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20dellAccademia%20nazionale%20dei%20Lincei.%20044U0359.md), lo speciale assegno annuo di L. 30.000 di cui godeva la Reale Accademia d'Italia per la pubblicazione degli atti delle assemblee costituzionali italiane del medio-evo e dell'eta' anteriore al Risorgimento italiano e delle carte finanziarie della Repubblica Veneta. 
  
  La somma sara' stanziata in apposito capitolo, della parte straordinaria della spesa del Ministero della pubblica istruzione per gli esercizi finanziari 1944-45, 1945-46, 1946-47. 
  

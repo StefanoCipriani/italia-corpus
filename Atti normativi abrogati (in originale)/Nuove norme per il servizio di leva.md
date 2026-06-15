@@ -38,8 +38,8 @@ La chiamata alle armi ha luogo, per ordine del Ministro per la difesa, nell'anno
 ## Art. 4.
 
 Sono soggetti alla leva per l'arruolamento nel Corpo equipaggi militari marittimi (CEMM) della Marina militare i giovani in possesso dei seguenti requisiti:
- 1-a) siano stati o siano iscritti tra il personale marittimo e della navigazione interna in base al [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327);
- 1-b) abbiano svolto o svolgano attivita' lavorativa nell'ambito del demanio marittimo quali titolari o dipendenti di imprese concessionarie di beni demaniali marittimi o di servizi portuali o di operazioni portuali o, comunque, soggetti alla vigilanza dei comandanti di porto - ai sensi dell'[articolo 68 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_68) - nell'esplicazione delle loro attivita';
+ 1-a) siano stati o siano iscritti tra il personale marittimo e della navigazione interna in base al [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+ 1-b) abbiano svolto o svolgano attivita' lavorativa nell'ambito del demanio marittimo quali titolari o dipendenti di imprese concessionarie di beni demaniali marittimi o di servizi portuali o di operazioni portuali o, comunque, soggetti alla vigilanza dei comandanti di porto - ai sensi dell'[articolo 68 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) - nell'esplicazione delle loro attivita';
  1-c) siano stati o siano iscritti a societa' o enti di sport nautici o di pesca subacquea;
  2) abbiano appartenuto o appartengano a personale di qualsiasi categoria in servizio negli arsenali, nei cantieri e negli stabilimenti di lavoro e negli uffici di qualsiasi genere della Marina militare;
  3) siano stati o siano dipendenti da ditte che provvedono:

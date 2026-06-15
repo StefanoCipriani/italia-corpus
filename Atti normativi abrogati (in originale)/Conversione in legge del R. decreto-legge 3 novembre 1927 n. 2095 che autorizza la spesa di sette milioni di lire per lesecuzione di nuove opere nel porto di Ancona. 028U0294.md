@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-03;2095), che autorizza la spesa di sette milioni di lire per l'esecuzione di nuove opere nel porto di Ancona. 
+ E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2095](Autorizzazione%20della%20spesa%20di%20L.%207000000%20per%20lesecuzione%20di%20nuove%20opere%20nel%20porto%20di%20Ancona.%20027U2095.md), che autorizza la spesa di sette milioni di lire per l'esecuzione di nuove opere nel porto di Ancona. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

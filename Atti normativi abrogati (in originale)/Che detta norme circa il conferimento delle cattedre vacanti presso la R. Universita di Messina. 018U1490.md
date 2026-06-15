@@ -20,13 +20,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo del Re colla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo del Re colla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Veduti il testo unico delle leggi sull'istruzione superiore e il regolamento generale universitario, approvati con RR. decreti 9 agosto 1910, nn. 795 e 796; 
  
  Considerato che le Facolta' della R. Universita' di Messina non si trovano in condizione di funzionare regolarmente, data la vacanza della maggior parte delle cattedre cui per lo stato di guerra non si puo' provvedere in modo normale; 
  
- Ritenuta, pertanto, l'opportunita' di adottare nei riguardi degli insegnamenti delle dette Facolta' un provvedimento analogo a quello gia' adottato con [R. decreto 28 marzo 1915, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-28;487), limitatamente agli insegnamenti delle Facolta' di scienze e di medicina e della scuola di farmacia presso l'Universita' medesima; 
+ Ritenuta, pertanto, l'opportunita' di adottare nei riguardi degli insegnamenti delle dette Facolta' un provvedimento analogo a quello gia' adottato con [R. decreto 28 marzo 1915, n. 487](Col%20quale%20la%20R.%20Universita%20di%20Messina%20viene%20posta%20in%20grado%20di%20provvedere%20ai%20vari%20insegnamenti%20delle%20facolta%20di%20scienze%20fisiche%20e%20matematiche%20naturali%20e%20di%20medicina%20e%20chirurgia%20e%20della%20scu_68d4ef41415d.md), limitatamente agli insegnamenti delle Facolta' di scienze e di medicina e della scuola di farmacia presso l'Universita' medesima; 
  
  Veduto il [decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625); 
  

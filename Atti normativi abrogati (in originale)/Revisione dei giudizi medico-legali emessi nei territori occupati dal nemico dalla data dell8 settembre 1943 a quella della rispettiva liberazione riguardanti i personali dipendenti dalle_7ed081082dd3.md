@@ -16,23 +16,23 @@ LUOGOTENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 24 febbraio 1938, n. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-02-24;329);
+Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md);
 
-Vista la [legge 9 maggio 1940, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;369), sullo stato degli ufficiali del Regio esercito;
+Vista la [legge 9 maggio 1940, n. 369](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0369.md), sullo stato degli ufficiali del Regio esercito;
 
-Vista la [legge 11 marzo 1926, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-11;416), sulle procedure medico legali da seguirsi negli accertamenti circa la dipendenza o meno da causa di servizio, delle ferite, lesioni ed infermita' dei personali dipendenti dalle Amministrazioni militari e dalle altre Amministrazioni dello Stato;
+Vista la [legge 11 marzo 1926, n. 416](Nuove%20disposizioni%20sulle%20procedure%20da%20seguirsi%20negli%20accertamenti%20medico-legali%20delle%20ferite%20lesioni%20ed%20infermita%20dei%20personali%20dipendenti%20dalle%20Amministrazioni%20militari%20e%20da%20altre%20Ammini_859b71684ddf.md), sulle procedure medico legali da seguirsi negli accertamenti circa la dipendenza o meno da causa di servizio, delle ferite, lesioni ed infermita' dei personali dipendenti dalle Amministrazioni militari e dalle altre Amministrazioni dello Stato;
 
 Visto il [R. decreto 27 giugno 1933, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-27;703), sulla liquidazione delle pensioni presso l'Amministrazione dello Stato e per il relativo controllo della Corte dei conti;
 
 Visto il [R. decreto 28 giugno 1933, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-28;704), sulle norme per il funzionamento presso l'Amministrazione dello Stato dei servizi inerenti alla liquidazione delle pensioni;
 
-Visto il testo unico delle disposizioni legislative sulla leva marittima, approvato con [R. decreto 28 luglio 1932, n. 1365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-07-28;1365);
+Visto il testo unico delle disposizioni legislative sulla leva marittima, approvato con [R. decreto 28 luglio 1932, n. 1365](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20leva%20marittima.%20032U1365.md);
 
 Visto il testo unico delle disposizioni legislative sullo stato degli ufficiali della Regia marina e della Regia aeronautica, approvato con [R. decreto 11 marzo 1926, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-03-11;397);
 
-Visto il testo unico sull'ordinamento del Corpo Reali Equipaggi Marittimi, approvato con [R. decreto 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914);
+Visto il testo unico sull'ordinamento del Corpo Reali Equipaggi Marittimi, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md);
 
-Visto il [R. decreto-legge 3 febbraio 1938, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744), sullo stato dei sottufficiali della Regia aeronautica;
+Visto il [R. decreto-legge 3 febbraio 1938, n. 744](Norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20stato%20dei%20sottufficiali%20della%20Regia%20aeronautica.%20038U0744.md), sullo stato dei sottufficiali della Regia aeronautica;
 
 Visto il [R. decreto-legge 9 febbraio 1939, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-09;273);
 
@@ -59,7 +59,7 @@ Sono sottoposti a revisione i giudizi medico-legali emessi, nei territori occupa
 
 ## Art. 2.
 
-Le revisioni di cui al precedente articolo saranno iniziate dall'ufficio dalle Commissioni mediche ospedaliere del Regio esercito e dai corrispondenti organi sanitari della Regia marina e della Regia aeronautica mediante nuovi accertamenti sanitari e seguendo per i giudizi di prima e seconda istanza la procedura stabilita dalla [legge 11 marzo 1926, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-11;416), e dal relativo regolamento approvato con decreto 15 aprile 1928, n. 1024. 
+Le revisioni di cui al precedente articolo saranno iniziate dall'ufficio dalle Commissioni mediche ospedaliere del Regio esercito e dai corrispondenti organi sanitari della Regia marina e della Regia aeronautica mediante nuovi accertamenti sanitari e seguendo per i giudizi di prima e seconda istanza la procedura stabilita dalla [legge 11 marzo 1926, n. 416](Nuove%20disposizioni%20sulle%20procedure%20da%20seguirsi%20negli%20accertamenti%20medico-legali%20delle%20ferite%20lesioni%20ed%20infermita%20dei%20personali%20dipendenti%20dalle%20Amministrazioni%20militari%20e%20da%20altre%20Ammini_859b71684ddf.md), e dal relativo regolamento approvato con decreto 15 aprile 1928, n. 1024. 
  
  Le Commissioni mediche ospedaliere del Regio esercito ed i corrispondenti organi sanitari della Regia marina e della Regia aeronautica si avvarranno a tale scopo dei verbali e delle documentazioni annessevi, in loro possesso, redatti a suo tempo dalle Commissioni mediche che comunque abbiano funzionato sotto il controllo nemico dopo l'8 settembre 1943, richiedendo, se del caso, il rinnovo di un supplemento dell'istruttoria. 
  

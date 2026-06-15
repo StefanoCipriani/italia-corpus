@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' autorizzata la spesa di L. 55.000.000 per i lavori di completamento del porto di Bengasi in aggiunta a quella di L. 33.000.000 autorizzata con [R. decreto-legge 7 giugno 1928, n. 1280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-07;1280). 
+E' autorizzata la spesa di L. 55.000.000 per i lavori di completamento del porto di Bengasi in aggiunta a quella di L. 33.000.000 autorizzata con [R. decreto-legge 7 giugno 1928, n. 1280](Contrattazione%20di%20un%20mutuo%20di%20lire%20100%20milioni%20col%20Consorzio%20di%20credito%20per%20le%20opere%20pubbliche%20per%20lavori%20da%20eseguire%20in%20Tripolitania%20ed%20in%20Cirenaica.%20028U1280.md). 
  
  A tale maggiore spesa sara' provveduto con le normali dotazioni del bilancio della Cirenaica.
 

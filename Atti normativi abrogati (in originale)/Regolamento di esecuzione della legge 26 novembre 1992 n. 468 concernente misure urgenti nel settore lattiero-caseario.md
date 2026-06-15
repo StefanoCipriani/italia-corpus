@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 26 novembre 1992, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468), concernente misure urgenti nel settore lattiero-caseario, che regola l'applicazione della normativa comunitaria sul prelievo supplementare sul latte bovino, ed in particolare l'art. 14 che prevede l'emanazione del relativo regolamento di esecuzione;
+Vista la [legge 26 novembre 1992, n. 468](Misure%20urgenti%20nel%20settore%20lattiero-caseario.md), concernente misure urgenti nel settore lattiero-caseario, che regola l'applicazione della normativa comunitaria sul prelievo supplementare sul latte bovino, ed in particolare l'art. 14 che prevede l'emanazione del relativo regolamento di esecuzione;
 
 Visto il regolamento CEE del Consiglio n. 3950/92 del 28 dicembre 1992, concernente il prelievo supplementare nel settore del latte e dei prodotti lattiero-caseari;
 
@@ -40,7 +40,7 @@ Nel presente regolamento ogni menzione o riferimento alle regioni si intendono r
 
 2.
 
-Nell'ambito dell'applicazione della [legge 26 novembre 1992, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468), la parola "periodo", conformemente alla normativa comunitaria vigente in materia, contraddistingue l'arco temporale intercorrente fra il 1 aprile di ciascun anno ed il 31 marzo dell'anno successivo.
+Nell'ambito dell'applicazione della [legge 26 novembre 1992, n. 468](Misure%20urgenti%20nel%20settore%20lattiero-caseario.md), la parola "periodo", conformemente alla normativa comunitaria vigente in materia, contraddistingue l'arco temporale intercorrente fra il 1 aprile di ciascun anno ed il 31 marzo dell'anno successivo.
 
 3.
 
@@ -51,7 +51,7 @@ Nell'ambito dell'applicazione della predetta legge, ogni riferimento agli acquir
 Per il primo periodo di applicazione del regime (1 aprile 1993-31 marzo 1994), ai fini del presente regolamento, le quote attribuite a ciascun produttore sono quelle assegnate dall'AIMA per mezzo del bollettino n. 3 del 31 luglio 1993 e successivi, come determinate ai sensi dell'[art. 2, comma 2, della legge n. 468/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;468#art_2-com2), ed a seguito dei controlli da essa esperiti sulla effettivita' della produzione nelle campagne 1988-89 e 1991-92. Con successivo regolamento sono determinati i criteri di assegnazione delle quote per i periodi successivi.
 
 AVVERTENZA:
- Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-14;217).
+ Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ## Art. 2. — Perdita della quota
 
@@ -791,7 +791,7 @@ Tale sistema deve perseguire i seguenti obiettivi:
                         b)
                             permettere, ove del caso, la corretta effettuazione della compensazione nazionale prevista dall'art. 2 del regolamento CEE n. 3950/1992;
                         c)
-                            realizzare un organico collegamento con l'anagrafe della produzione lattiero-casearia prevista dall'[art. 6- bis del decreto-legge 21 dicembre 1990, n. 391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-12-21;391#art_6bis), convertito, con modificazioni, dalla [legge 18 febbraio 1991, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-02-18;48).
+                            realizzare un organico collegamento con l'anagrafe della produzione lattiero-casearia prevista dall'[art. 6- bis del decreto-legge 21 dicembre 1990, n. 391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-12-21;391#art_6bis), convertito, con modificazioni, dalla [legge 18 febbraio 1991, n. 48](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20dicembre%201990%20n.%20391%20recante%20trasferimento%20allAIMA%20della%20gestione%20delle%20risorse%20proprie%20della%20CEE%20e%20degli%20aiuti%20nazionali%20nel%20s_ad9a8eec11a4.md).
 
 3.
 

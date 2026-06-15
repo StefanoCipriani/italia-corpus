@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 19 novembre 1936, n. 2122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-19;2122), col quale viene riconosciuto giuridicamente l'Ente nazionale delle casse rurali, agrarie ed enti ausiliari e se ne approva il relativo statuto;
+Visto il [regio decreto 19 novembre 1936, n. 2122](Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellEnte%20nazionale%20delle%20Casse%20rurali%20agrarie%20ed%20enti%20ausiliari.%20036U2122.md), col quale viene riconosciuto giuridicamente l'Ente nazionale delle casse rurali, agrarie ed enti ausiliari e se ne approva il relativo statuto;
 
-Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-02;340), concernente la nomina di commissari straordinari ad Enti parasindacali;
+Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 340](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20circa%20la%20nomina%20di%20commissari%20straordinari%20a%20Enti%20parasindacali%20e%20sostituzione%20in%20Commissioni%20od%20organi%20dei%20membri%20di%20nomina%20o%20designazione%20sindacale.%20044U0340.md), concernente la nomina di commissari straordinari ad Enti parasindacali;
 
 Visto il decreto 5 febbraio 1945 del Ministro per l'industria, il commercio ed il lavoro, con cui viene nominato un commissario straordinario per l'amministrazione dell'Ente predetto, con i poteri del presidente del Consiglio e della Giunta esecutiva.
 

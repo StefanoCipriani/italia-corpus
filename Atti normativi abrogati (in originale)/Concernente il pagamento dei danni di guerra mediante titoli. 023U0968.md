@@ -58,9 +58,9 @@ L'obbligo del reimpiego, di cui all'art. 11 del testo unico approvato con [decre
 
 ## Art. 6.
 
-Nulla e' innovato circa il pagamento delle indennita' liquidate dal Comitato centrate in Venezia istituito con [R decreto 4 gennaio 1923, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;7), ne' di quelle da soddisfarsi mediante consegna di titoli del Prestito nazionale giusta il [R. D. 25 gennaio 1920, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-25;89). 
+Nulla e' innovato circa il pagamento delle indennita' liquidate dal Comitato centrate in Venezia istituito con [R decreto 4 gennaio 1923, n. 7](Che%20istituisce%20presso%20la%20Corte%20di%20appello%20di%20Venezia%20un%20Comitato%20centrale%20per%20la%20liquidazione%20e%20limmediato%20pagamento%20sotto%20determinate%20condizioni%20di%20indennita%20per%20danni%20di%20guerra.%20023U0007.md), ne' di quelle da soddisfarsi mediante consegna di titoli del Prestito nazionale giusta il [R. D. 25 gennaio 1920, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-25;89). 
  
- Con decreto del Ministro delle finanze potra' essere variata la percentuale massima di cui all'[art. 3, comma secondo del R. D. 4 gennaio 1923, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;7#art_3-com2). 
+ Con decreto del Ministro delle finanze potra' essere variata la percentuale massima di cui all'[art. 3, comma secondo del R. D. 4 gennaio 1923, n. 7](Che%20istituisce%20presso%20la%20Corte%20di%20appello%20di%20Venezia%20un%20Comitato%20centrale%20per%20la%20liquidazione%20e%20limmediato%20pagamento%20sotto%20determinate%20condizioni%20di%20indennita%20per%20danni%20di%20guerra.%20023U0007.md). 
  
  Il pagamento delle indennita' inferiori a L. 500 e delle frazioni di indennita' inferiori a L. 100 potra' essere fatto in contanti.
 

@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D' ITALIA
 
-Vista la [legge 18 luglio 1912 n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina e relativo regolamento approvato con [R. decreto 18 luglio 1912, numero 867](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-07-18;867);
+Vista la [legge 18 luglio 1912 n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina e relativo regolamento approvato con [R. decreto 18 luglio 1912, numero 867](Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md);
 
 Visto il regolamento di disciplina militare per il Regio esercito, approvato con R.D. in data 25 luglio 1907, e relative modificazioni;
 
@@ -22,7 +22,7 @@ Vista la [legge 6 luglio 1922, n. 1288](Che%20converte%20in%20legge%20il%20R.%20
 
 Visto [R. D. legge, 20 aprile 1920, n. 451](Che%20abrogando%20il%20R.%20decreto-legge%2021%20novembre%201919%20n.%202143%20detta%20nuove%20norme%20per%20lordinamento%20provvisorio%20del%20R.%20esercito.%20020U0451.md), relativo all'ordinamento provvisorio del R. esercito;
 
-Visti il [D. L. 3 gennaio 1918, n. 2 (art. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1918-01-03;2#art_33)), il D. L. [legge 11 aprile 1918, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-04-11;457), e il [R. D. 21 febbraio 1919, n. 160 (art. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-02-21;160#art_6)). sul personale della giustizia militare;
+Visti il [D. L. 3 gennaio 1918, n. 2 (art. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1918-01-03;2#art_33)), il D. L. [legge 11 aprile 1918, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-04-11;457), e il [R. D. 21 febbraio 1919, n. 160 (art. 6](Contenente%20provvedimenti%20sullapplicazione%20della%20condanna%20condizionale%20da%20parte%20dei%20tribunali%20militari%20territoriali%20sulla%20liberta%20provvisoria%20e%20sul%20passaggio%20dallo%20stato%20di%20guerra%20a%20quello_52a2b6ea3010.md)). sul personale della giustizia militare;
 
 Vista la [legge 7 aprile 1921, n. 367](Relativa%20al%20riordinamento%20del%20personale%20dei%20farmacisti%20militari.%20021U0367.md), sul personale dei farmacisti militari:
 

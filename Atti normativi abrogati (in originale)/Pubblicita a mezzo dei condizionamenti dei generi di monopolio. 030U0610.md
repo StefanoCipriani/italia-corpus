@@ -26,7 +26,7 @@ Le norme per la esecuzione della presente legge saranno stabilite con decreto de
 
 ## Art. 4.
 
-Sono abrogati il [R. decreto-legge 13 febbraio 1927, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;184), convertito nella [legge 22 dicembre 1927, n. 2412](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20184%20che%20autorizza%20la%20devoluzione%20a%20favore%20della%20Federazione%20nazionale%20veterani%20garibaldini%20dei%20proventi%20della%20pubblicita%20sull_d07fa1595714.md), ed ogni altra disposizione contraria alla presente legge. 
+Sono abrogati il [R. decreto-legge 13 febbraio 1927, n. 184](Devoluzione%20alla%20Federazione%20nazionale%20veterani%20garibaldini%20dei%20proventi%20della%20pubblicita%20sulle%20scatole%20di%20fiammiferi%20e%20sulle%20bustine%20da%20sigarette%20di%20ordinario%20consumo.%20027U0184.md), convertito nella [legge 22 dicembre 1927, n. 2412](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20184%20che%20autorizza%20la%20devoluzione%20a%20favore%20della%20Federazione%20nazionale%20veterani%20garibaldini%20dei%20proventi%20della%20pubblicita%20sull_d07fa1595714.md), ed ogni altra disposizione contraria alla presente legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla o di farla osservare come legge dello Stato. 
  

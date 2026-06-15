@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 settembre 1932, n. 1250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-22;1250), recante modificazioni al [R. decreto-legge 25 febbraio 1932, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-02-25;182), concernente agevolazioni fiscali per lo zucchero impiegato nella fabbricazione del latte condensato. 
+ E' convertito in legge il [R. decreto-legge 22 settembre 1932, n. 1250](Modificazioni%20al%20R.%20decreto-legge%2025%20febbraio%201932%20n.%20182%20concernente%20agevolazioni%20fiscali%20per%20lo%20zucchero%20impiegato%20nella%20fabbricazione%20del%20latte%20condensato.%20032U1250.md), recante modificazioni al [R. decreto-legge 25 febbraio 1932, n. 182](Agevolazioni%20fiscali%20per%20lo%20zucchero%20impiegato%20nella%20fabbricazione%20del%20latte%20condensato.%20032U0182.md), concernente agevolazioni fiscali per lo zucchero impiegato nella fabbricazione del latte condensato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, di con
 
 ## Art. 1.
 
-Nel ruolo organico del personale tecnico del R. corpo delle foreste, stabilito col [R. decreto 7 giugno 1920, n. 922](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-07;922), e' soppresso il posto d'ispettore generale ed e' aumentato di uno il numero dei posti di ispettore superiore.
+Nel ruolo organico del personale tecnico del R. corpo delle foreste, stabilito col [R. decreto 7 giugno 1920, n. 922](Che%20estende%20i%20ruoli%20aperti%20al%20personale%20tecnico%20del%20Reale%20corpo%20delle%20foreste.%20020U0922.md), e' soppresso il posto d'ispettore generale ed e' aumentato di uno il numero dei posti di ispettore superiore.
 
 ## Art. 2.
 

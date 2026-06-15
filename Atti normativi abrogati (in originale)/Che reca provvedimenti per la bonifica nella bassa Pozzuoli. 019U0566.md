@@ -26,13 +26,13 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici, di concer
 
 ## Art. 1.
 
-Il Governo del Re e' autorizzato a provvedere, nella bassa Pozzuoli, anche al bonificamento della zona del rione Torre, inclusavi l'area del tempio di Serapide, delimitata dal largo Vittorio Emanuele, ora Cesare Battisti, dalla strada nuova tempio di Serapide, dalla via Serapide dall'intersezione della strada provinciale Miliscola compreso il tratto di questa e le aree fabbricate laterali, e dal mare, come e' indicato con linea rossa tratteggiata nell'annessa planimetria 23 novembre 1918 a firma dell'ingegnere capo dell'ufficio del genio civile di Napoli, vista, d'ordine Nostro, dal ministro proponente, applicando le stesse disposizioni degli articoli 16 a 19 della [legge 13 aprile 1911 n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-13;311). 
+Il Governo del Re e' autorizzato a provvedere, nella bassa Pozzuoli, anche al bonificamento della zona del rione Torre, inclusavi l'area del tempio di Serapide, delimitata dal largo Vittorio Emanuele, ora Cesare Battisti, dalla strada nuova tempio di Serapide, dalla via Serapide dall'intersezione della strada provinciale Miliscola compreso il tratto di questa e le aree fabbricate laterali, e dal mare, come e' indicato con linea rossa tratteggiata nell'annessa planimetria 23 novembre 1918 a firma dell'ingegnere capo dell'ufficio del genio civile di Napoli, vista, d'ordine Nostro, dal ministro proponente, applicando le stesse disposizioni degli articoli 16 a 19 della [legge 13 aprile 1911 n. 311](Per%20la%20conversione%20in%20legge%20del%20R.%20decreto%2018%20settembre%201910%20n.%20684%20per%20le%20Puglie%20e%20per%20autorizzazione%20di%20spese%20e%20provvedimenti%20urgenti%20per%20lavori%20pubblici.%20011U0311.md). 
  
  L'approvazione dei progetti delle opere ha valore di dichiarazione di pubblica utilita'.
 
 ## Art. 2.
 
-Per l'esecuzione del bonificamento come al precedente articolo, e per completare quello in corso nella zona indicata nell'art. 16 della citata [legge 13 aprile 1911, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-13;311) e' autorizzato in aumento al fondo concesso con l'art. 15, lettera f), di detta legge, un'ulteriore assegnazione di L. 2,500,000 da stanziare: 
+Per l'esecuzione del bonificamento come al precedente articolo, e per completare quello in corso nella zona indicata nell'art. 16 della citata [legge 13 aprile 1911, n. 311](Per%20la%20conversione%20in%20legge%20del%20R.%20decreto%2018%20settembre%201910%20n.%20684%20per%20le%20Puglie%20e%20per%20autorizzazione%20di%20spese%20e%20provvedimenti%20urgenti%20per%20lavori%20pubblici.%20011U0311.md) e' autorizzato in aumento al fondo concesso con l'art. 15, lettera f), di detta legge, un'ulteriore assegnazione di L. 2,500,000 da stanziare: 
  
  per L. 500,000 nell'esercizio 1918-919 
  

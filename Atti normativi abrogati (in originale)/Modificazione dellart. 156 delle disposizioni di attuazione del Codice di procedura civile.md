@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il primo comma dell'art. 156 delle disposizioni di attuazione del [Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), approvate con [regio decreto 18 dicembre 1941, n. 1368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-12-18;1368), e' cosi' modificato:
+Il primo comma dell'art. 156 delle disposizioni di attuazione del [Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), approvate con [regio decreto 18 dicembre 1941, n. 1368](../Codici/Disposizioni%20per%20lattuazione%20del%20Codice%20di%20procedura%20civile%20e%20disposizioni%20transitorie.%20041U1368.md), e' cosi' modificato:
  "Il sequestrante che ha ottenuto la sentenza di condanna esecutiva prevista nell'art. 686 del Codice deve depositarne copia nella Cancelleria del giudice competente per l'esecuzione nel termine perentorio di sessanta giorni dalla comunicazione e deve quindi procedere alle notificazioni previste nell'art. 498 del Codice.
 Insieme con la sentenza di condanna deve essere depositata la copia della sentenza di convalida del sequestro".
 

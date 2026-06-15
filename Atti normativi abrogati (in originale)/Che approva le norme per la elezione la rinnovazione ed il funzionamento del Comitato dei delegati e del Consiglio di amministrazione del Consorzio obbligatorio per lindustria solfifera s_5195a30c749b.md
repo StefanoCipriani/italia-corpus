@@ -14,7 +14,7 @@ Sono approvate le unite norme per la elezione, la rinnovazione e il funzionament
 
 ## Art. 2.
 
-Le norme approvate col [R. decreto 5 luglio 1910, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-05;383), e le disposizioni del [R. decreto 31 agosto 1910, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-31;662), sono abrogate. 
+Le norme approvate col [R. decreto 5 luglio 1910, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-05;383), e le disposizioni del [R. decreto 31 agosto 1910, n. 662](Che%20fissa%20le%20attribuzioni%20del%20Direttore%20generale%20e%20della%20Commissione%20del%20Consorzio%20obbligatorio%20per%20lindustria%20solfifera%20siciliana%20010U0662.md), sono abrogate. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

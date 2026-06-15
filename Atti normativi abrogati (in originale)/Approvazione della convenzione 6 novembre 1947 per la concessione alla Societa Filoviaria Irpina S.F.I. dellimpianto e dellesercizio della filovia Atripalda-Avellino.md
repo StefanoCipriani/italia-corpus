@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447) e successive modificazioni;
 
-Visto il [regio decreto-legge 14 luglio 1937, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-14;1728), convertito nella legge 23 dicembre detto anno, n. 2562, recante nuove disposizioni, per agevolare la concessione di filovie;
+Visto il [regio decreto-legge 14 luglio 1937, n. 1728](Nuove%20disposizioni%20per%20agevolare%20la%20concessione%20di%20filovie.%20037U1728.md), convertito nella legge 23 dicembre detto anno, n. 2562, recante nuove disposizioni, per agevolare la concessione di filovie;
 
 Udito il Consiglio superiore dei lavori pubblici;
 

@@ -18,7 +18,7 @@ E' approvato il bilancio dell'Azienda del demanio forestale, per l'esercizio fin
 
 ## Art. 3.
 
-E' sospesa, per l'esercizio 1927-28, l'assegnazione di lire 15,000,000, prevista dal [R. decreto 30 dicembre 1923, n. 3139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3139), e successive modificazioni, per contributo dello Stato negli interessi dei mutui per miglioramenti agrari, fondiario-agrari e per trasformazione fondiaria.
+E' sospesa, per l'esercizio 1927-28, l'assegnazione di lire 15,000,000, prevista dal [R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), e successive modificazioni, per contributo dello Stato negli interessi dei mutui per miglioramenti agrari, fondiario-agrari e per trasformazione fondiaria.
 
 ## Art. 4.
 

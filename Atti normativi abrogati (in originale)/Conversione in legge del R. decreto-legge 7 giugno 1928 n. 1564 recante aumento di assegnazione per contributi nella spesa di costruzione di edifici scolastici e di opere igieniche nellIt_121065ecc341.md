@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 giugno 1928, n. 1564](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-07;1564). recante aumento di assegnazione per contributi nella spesa di costruzione di edifici scolastici e di opere igieniche nell'Italia meridionale ed insulare. 
+ E' convertito in legge il [R. decreto-legge 7 giugno 1928, n. 1564](Aumenti%20di%20assegnazioni%20per%20contributi%20per%20acquedotti%20opere%20igieniche%20ed%20edifici%20scolastici%20nellItalia%20meridionale%20ed%20insulare%20esclusa%20la%20Sardegna.%20028U1564.md). recante aumento di assegnazione per contributi nella spesa di costruzione di edifici scolastici e di opere igieniche nell'Italia meridionale ed insulare. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

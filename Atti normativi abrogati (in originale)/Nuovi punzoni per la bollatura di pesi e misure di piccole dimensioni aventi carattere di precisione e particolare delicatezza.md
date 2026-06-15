@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il regolamento sul servizio metrico, approvato con [regio decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242);
 
-Visto il [decreto del Presidente della Repubblica 8 maggio 1948, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-05-08;734), che approva la tabella delle impronte dei bolli per il servizio metrico;
+Visto il [decreto del Presidente della Repubblica 8 maggio 1948, n. 734](../DPR/Approvazione%20della%20tabella%20dei%20bolli%20per%20il%20servizio%20metrico.md), che approva la tabella delle impronte dei bolli per il servizio metrico;
 
 Sentito il conforme parere del Comitato centrale metrico;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per l'industria e il commercio; Decreta:
 
 ## Articolo unico.
 
-In aggiunta alle impronte dei bolli da apporre sui pesi, sulle misure e sugli strumenti per pesare e per misurare sottoposti alla verificazione prima, di cui alla tabella annessa al [decreto Presidenziale 8 maggio 1948, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-05-08;734), sopracitato, sono istituite le due nuove impronte riprodotte nella tabella annessa al presente decreto, vistata dal Ministro proponente.
+In aggiunta alle impronte dei bolli da apporre sui pesi, sulle misure e sugli strumenti per pesare e per misurare sottoposti alla verificazione prima, di cui alla tabella annessa al [decreto Presidenziale 8 maggio 1948, n. 734](../DPR/Approvazione%20della%20tabella%20dei%20bolli%20per%20il%20servizio%20metrico.md), sopracitato, sono istituite le due nuove impronte riprodotte nella tabella annessa al presente decreto, vistata dal Ministro proponente.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

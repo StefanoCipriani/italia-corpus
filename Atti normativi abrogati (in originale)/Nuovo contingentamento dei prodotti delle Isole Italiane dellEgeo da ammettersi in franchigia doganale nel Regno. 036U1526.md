@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la tariffa dei dazi doganali; approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni;
+Vista la tariffa dei dazi doganali; approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni;
 
 Visto il n. [decreto-legge 11 gennaio 1934, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1934-01-11;140), convertito nella [legge 14 giugno 1934, n. 1251](Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20gennaio%201934%20n.%20140%20relativo%20alle%20merci%20originarie%20delle%20Isole%20italiane%20dellEgeo%20da%20ammettere%20nel%20Regno%20in%20esenzione%20doganale%20in%20determinati%20c_f578e4761460.md);
 

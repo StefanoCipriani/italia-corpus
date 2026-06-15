@@ -22,17 +22,17 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 90 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_90), che istituisce nello stato di previsione della spesa del Ministero dell'istruzione pubblica a partire dall'esercizio 1910-911 un fondo di riserva per provvedere a sopravvenuti bisogni dei servizi dell'istruzione elementare e popolare; 
+ Visto l'[art. 90 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), che istituisce nello stato di previsione della spesa del Ministero dell'istruzione pubblica a partire dall'esercizio 1910-911 un fondo di riserva per provvedere a sopravvenuti bisogni dei servizi dell'istruzione elementare e popolare; 
  
- Visto l'[art. 6 della legge 20 marzo 1913, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;206#art_6), il quale stabilisce che, a far tempo dal 1911-912, la quota del fondo di riserva non impiegata in un esercizio debba rimanere impegnata ed inscritta nel conto dei residui degli esercizi successivi e che alle maggiori spese le quali danno luogo a prelevamenti debba provvedersi mediante storni dal medesimo fondo di riserva in conto residui anche quando riguardino la competenza dell'esercizio in corso; 
+ Visto l'[art. 6 della legge 20 marzo 1913, n. 206](Riguardante%20lassunzione%20di%20personale%20avventizio%20per%20gli%20uffici%20scolastici%20provinciali%20ed%20altri%20provvedimenti%20per%20applicare%20la%20legge%204%20giugno%201911%20n.%20487%20013U0206.md), il quale stabilisce che, a far tempo dal 1911-912, la quota del fondo di riserva non impiegata in un esercizio debba rimanere impegnata ed inscritta nel conto dei residui degli esercizi successivi e che alle maggiori spese le quali danno luogo a prelevamenti debba provvedersi mediante storni dal medesimo fondo di riserva in conto residui anche quando riguardino la competenza dell'esercizio in corso; 
  
  Considerato che al 30 giugno 1915 i residui del fondo di riserva inscritto al Capitolo n. 255 del conto consuntivo dei Ministero della istruzione pubblica per l'esercizio finanziario 1914-915 ammontavano a L. 12.713.731,54 e che, a seguito di prelevamenti disposti con precedenti decreti Ministeriali, offrono attualmente una disponibilita' di L. 12.474.225,46; 
  
- Tenuto presente che e' d'uopo provvedere al pagamento delle retribuzioni spettanti a tutto il 30 giugno 1916 al personale avventizio da confermare presso gli uffici scolastici provinciali secondo le norme stabilite dalla [legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182), nonche' di quelle dovute al personale stesso richiamato alle armi nella misura, queste ultime, stabilita dall'[art. 2 del R. decreto 13 maggio 1915, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-13;620#art_2); 
+ Tenuto presente che e' d'uopo provvedere al pagamento delle retribuzioni spettanti a tutto il 30 giugno 1916 al personale avventizio da confermare presso gli uffici scolastici provinciali secondo le norme stabilite dalla [legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md), nonche' di quelle dovute al personale stesso richiamato alle armi nella misura, queste ultime, stabilita dall'[art. 2 del R. decreto 13 maggio 1915, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-13;620#art_2); 
  
  Considerato che la somma occorrente in complessive L. 191.090 si ritiene di dover attingere dall'indicato fondo di riserva, come venne gia' operato pel periodo dal 1° luglio al 31 dicembre 1915 con Nostro decreto in data 17 giugno 1915; 
  
- Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774); 
+ Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md); 
  
  Udito il Consiglio dei ministri; 
  

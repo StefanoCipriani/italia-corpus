@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[articolo 319 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_319) militare marittimo, approvato dalla [Legge 28 novembre 1869, n. 5366](Che%20approva%20e%20manda%20pubblicarsi%20il%20Codice%20penale%20militare%20marittimo.%20069U5366.md);
+Visto l'[articolo 319 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, approvato dalla [Legge 28 novembre 1869, n. 5366](Che%20approva%20e%20manda%20pubblicarsi%20il%20Codice%20penale%20militare%20marittimo.%20069U5366.md);
 
 Visto il Regio Decreto di pari data, col quale si dichiara che il Codice suddetto avra' vigore dal 15 febbraio 1870;
 

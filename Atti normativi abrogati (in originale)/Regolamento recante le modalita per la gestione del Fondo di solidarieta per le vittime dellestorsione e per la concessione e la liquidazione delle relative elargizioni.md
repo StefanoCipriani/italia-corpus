@@ -18,13 +18,13 @@ I MINISTRI DEL TESORO, DELLE FINANZE, DELL'INTERNO E DI GRAZIA E GIUSTIZIA
 
 Visto il testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), e le successive disposizioni modificative ed integrative;
 
-Vista la [legge 10 giugno 1978, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;295), recante nuove norme per l'esercizio delle assicurazioni private contro i danni e le succes- sive disposizioni modificative ed integrative;
+Vista la [legge 10 giugno 1978, n. 295](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md), recante nuove norme per l'esercizio delle assicurazioni private contro i danni e le succes- sive disposizioni modificative ed integrative;
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), recante nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi;
 
 Vista la [legge 20 ottobre 1990, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-20;302), recante norme a favore delle vittime del terrorismo e della criminalita' organizzata;
 
-Visto il [decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419), convertito in [legge 18 febbraio 1992, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172), recante l'istituzione del Fondo di sostegno per le vittime di richieste estorsive;
+Visto il [decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419), convertito in [legge 18 febbraio 1992, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md), recante l'istituzione del Fondo di sostegno per le vittime di richieste estorsive;
 
 Visto, in particolare, l'art. 5, comma 4, del predetto [decreto- legge n. 419/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991;419), con il quale e' stabilito che con decreto del Ministro dell'industria, del commercio e dell'artigianato, di concerto con i Ministri del tesoro, delle finanze, dell'interno e di grazia e giustizia, sono disciplinate le modalita' per la gestione del sopraindicato Fondo e per la concessione e la liquidazione delle relative elargizioni;
 
@@ -38,7 +38,7 @@ A D O T T A il seguente regolamento concernente la disciplina delle modalita' pe
 
 1.
 
-Il comitato previsto dall'[art. 5, comma 2, del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_5-com2), convertito, con modificazioni, nella [legge 18 febbraio 1992, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172), di seguito denominata "legge", e' presieduto dal presidente o, in sua vece, dal direttore generale dell'Istituto nazionale delle assicurazioni.
+Il comitato previsto dall'[art. 5, comma 2, del decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419#art_5-com2), convertito, con modificazioni, nella [legge 18 febbraio 1992, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md), di seguito denominata "legge", e' presieduto dal presidente o, in sua vece, dal direttore generale dell'Istituto nazionale delle assicurazioni.
 
 2.
 
@@ -126,7 +126,7 @@ Per ogni riunione del comitato spetta ai membri ed ai segretari un gettone di pr
 
 3.
 
-Gli atti ed i documenti relativi al procedimento di elargizione sono coperti dal segreto di ufficio e di essi o del loro contenuto e' vietata la pubblicazione; quando si tratta di atti o documenti di un procedimento penale si applicano le disposizioni previste dall'[art. 684 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_684) e dall'[art. 115 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_115).
+Gli atti ed i documenti relativi al procedimento di elargizione sono coperti dal segreto di ufficio e di essi o del loro contenuto e' vietata la pubblicazione; quando si tratta di atti o documenti di un procedimento penale si applicano le disposizioni previste dall'[art. 684 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dall'[art. 115 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_115).
 
 ## Art. 6. — R e v o c a
 

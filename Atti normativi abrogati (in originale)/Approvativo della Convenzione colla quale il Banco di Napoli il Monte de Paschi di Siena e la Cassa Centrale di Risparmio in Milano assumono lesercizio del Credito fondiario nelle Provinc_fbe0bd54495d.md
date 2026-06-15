@@ -144,7 +144,7 @@ Il privilegio stabilito dall'[art. 1961 del Codice Civile](https://www.normattiv
 
 ## Art. 18.
 
-Le disposizioni del [Codice Penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) intorno ai reati di alterazione, frode, falsita' o falsificazione dei titoli del Debito Pubblico italiano, sono estese anche alle cartelle fondiarie.
+Le disposizioni del [Codice Penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) intorno ai reati di alterazione, frode, falsita' o falsificazione dei titoli del Debito Pubblico italiano, sono estese anche alle cartelle fondiarie.
 
 ## Art. 19.
 

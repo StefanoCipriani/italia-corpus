@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 45 della legge 18 dicembre 1910, n. 867](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-18;867#art_45); 
+ Visto l'[art. 45 della legge 18 dicembre 1910, n. 867](Riordinamento%20delle%20scuole%20italiane%20allestero%20010U0867.md); 
  
- Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738); 
+ Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Alla competenza del capitolo aggiunto n. 67 «Assegnazione straordinaria per provvedere al saldo delle spese occorrenti per l'attuazione della [legge 18 dicembre 1910, n. 867](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-18;867), sul riordinamento delle scuole italiane all'estero ecc.» dello stato di previsione della spesa del Ministero degli affari esteri per l'esercizio finanziario 1916-917 e' assegnata la somma di lire centosessantanovemilanoventosettantatre e centesimi quarantanove (L. 169.973,49). 
+ Alla competenza del capitolo aggiunto n. 67 «Assegnazione straordinaria per provvedere al saldo delle spese occorrenti per l'attuazione della [legge 18 dicembre 1910, n. 867](Riordinamento%20delle%20scuole%20italiane%20allestero%20010U0867.md), sul riordinamento delle scuole italiane all'estero ecc.» dello stato di previsione della spesa del Ministero degli affari esteri per l'esercizio finanziario 1916-917 e' assegnata la somma di lire centosessantanovemilanoventosettantatre e centesimi quarantanove (L. 169.973,49). 
  
  Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
  

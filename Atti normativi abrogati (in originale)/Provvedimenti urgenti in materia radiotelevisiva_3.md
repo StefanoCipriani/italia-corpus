@@ -16,7 +16,7 @@ Ritenuta la straordinaria necessita' ed urgenza di evitare l'interruzione della 
 
 Considerato che per le emittenti televisive locali sono in corso di istruttoria numerosi ricorsi in opposizione avverso il decreto di approvazione degli elenchi degli aventi titolo al rilascio della concessione;
 
-Considerato, altresi', che per le emittenti televisive nazionali, che intendano trasmettere in codice, e' in corso il complesso procedimento per l'emanazione di un apposito regolamento, previsto dal [decreto-legge 19 ottobre 1992, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-10-19;407), convertito, con modificazioni, dalla [legge 17 dicembre 1992, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-17;482);
+Considerato, altresi', che per le emittenti televisive nazionali, che intendano trasmettere in codice, e' in corso il complesso procedimento per l'emanazione di un apposito regolamento, previsto dal [decreto-legge 19 ottobre 1992, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-10-19;407), convertito, con modificazioni, dalla [legge 17 dicembre 1992, n. 482](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20ottobre%201992%20n.%20407%20recante%20proroga%20dei%20termini%20in%20materia%20di%20impianti%20di%20radiodiffusione.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 giugno 1993;
 
@@ -116,11 +116,11 @@ Il [comma 3 dell'articolo 23 della legge 6 agosto 1990, n. 223](https://www.norm
 
 1.
 
-All'[articolo 8, comma 9, della legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223#art_8-com9), cosi' come modificato dall'[articolo 3 del decreto-legge 19 ottobre 1992, n. 408](Disposizioni%20urgenti%20in%20materia%20di%20pubblicita%20radiotelevisiva.md), convertito, con modificazioni, dalla [legge 17 dicembre 1992, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-17;483), sono aggiunte, in fine, le seguenti parole: "il limite di affollamento orario di cui al presente comma non si applica alle forme di pubblicita' diverse dagli 'spot'.".
+All'[articolo 8, comma 9, della legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223#art_8-com9), cosi' come modificato dall'[articolo 3 del decreto-legge 19 ottobre 1992, n. 408](Disposizioni%20urgenti%20in%20materia%20di%20pubblicita%20radiotelevisiva.md), convertito, con modificazioni, dalla [legge 17 dicembre 1992, n. 483](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20ottobre%201992%20n.%20408%20recante%20disposizioni%20urgenti%20in%20materia%20di%20pubblicita%20radiotelevisiva.md), sono aggiunte, in fine, le seguenti parole: "il limite di affollamento orario di cui al presente comma non si applica alle forme di pubblicita' diverse dagli 'spot'.".
 
 2.
 
-Il [comma 9- ter dell'articolo 8 della legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223#art_8-com9ter), aggiunto dall'[articolo 3 del decreto-legge 19 ottobre 1992, n. 408](Disposizioni%20urgenti%20in%20materia%20di%20pubblicita%20radiotelevisiva.md), convertito, con modificazioni, dalla [legge 17 dicembre 1992, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-17;483), e' sostituito dal seguente: 
+Il [comma 9- ter dell'articolo 8 della legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223#art_8-com9ter), aggiunto dall'[articolo 3 del decreto-legge 19 ottobre 1992, n. 408](Disposizioni%20urgenti%20in%20materia%20di%20pubblicita%20radiotelevisiva.md), convertito, con modificazioni, dalla [legge 17 dicembre 1992, n. 483](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20ottobre%201992%20n.%20408%20recante%20disposizioni%20urgenti%20in%20materia%20di%20pubblicita%20radiotelevisiva.md), e' sostituito dal seguente: 
  "9-ter. Per quanto riguarda i concessionari per la radiodiffusione televisiva in ambito locale, il tempo massimo di trasmissione quotidiana dedicato alla pubblicita', qualora siano comprese le offerte di cui al comma 9- bis, e' portato al 35 per cento, ferme restando le disposizioni di cui al comma 9 del presente articolo.".
 
 ## Art. 8.

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 marzo 1934, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-05;374), che ha dato esecuzione all'Accordo commerciale (con Protocollo finale) fra l'Italia ed i Paesi Bassi, firmato in Roma il 1° marzo 1934. 
+ E' convertito in legge il [R. decreto-legge 5 marzo 1934, n. 374](Approvazione%20dellAccordo%20commerciale%20italo-olandese%20del%201%20marzo%201934.%20034U0374.md), che ha dato esecuzione all'Accordo commerciale (con Protocollo finale) fra l'Italia ed i Paesi Bassi, firmato in Roma il 1° marzo 1934. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

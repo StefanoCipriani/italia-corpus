@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 19 luglio 1924, n. 1244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-19;1244), relativo alle modificazioni al [R. decreto-legge 22 maggio 1924, n. 868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-22;868), concernente la istituzione del Consiglio d'amministrazione e della carica di direttore generale per le Ferrovie dello Stato. 
+ E' convertito in legge il [R. decreto 19 luglio 1924, n. 1244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-19;1244), relativo alle modificazioni al [R. decreto-legge 22 maggio 1924, n. 868](Istituzione%20del%20Consiglio%20di%20amministrazione%20e%20della%20carica%20di%20direttore%20generale%20per%20le%20Ferrovie%20dello%20Stato.%20024U0868.md), concernente la istituzione del Consiglio d'amministrazione e della carica di direttore generale per le Ferrovie dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -24,9 +24,9 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il R. decreto-legge 15 febbraio 1937-XV, n. 211, concernente la esenzione dalla tassa di bollo degli atti di querela per i delitti preveduti dal titolo IX, capo I, del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), commessi in danno di persone povere, con l'aggiunta nel titolo dopo le parole «capo I» delle altre «e dall'art. 530» e con la seguente modificazione: 
+ E' convertito in legge il R. decreto-legge 15 febbraio 1937-XV, n. 211, concernente la esenzione dalla tassa di bollo degli atti di querela per i delitti preveduti dal titolo IX, capo I, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), commessi in danno di persone povere, con l'aggiunta nel titolo dopo le parole «capo I» delle altre «e dall'art. 530» e con la seguente modificazione: 
  
- Il comma 1° dell'articolo unico e' sostituito dal seguente: «Sono esenti dalla tassa di bollo gli atti di querela per i delitti preveduti dal titolo IX, capo I, e dall'[art. 530 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_530), commessi in danno di persone povere». 
+ Il comma 1° dell'articolo unico e' sostituito dal seguente: «Sono esenti dalla tassa di bollo gli atti di querela per i delitti preveduti dal titolo IX, capo I, e dall'[art. 530 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), commessi in danno di persone povere». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

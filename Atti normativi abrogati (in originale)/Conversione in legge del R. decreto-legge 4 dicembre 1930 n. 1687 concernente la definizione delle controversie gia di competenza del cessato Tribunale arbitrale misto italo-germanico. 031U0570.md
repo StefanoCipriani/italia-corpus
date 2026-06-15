@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 4 dicembre 1930, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-04;1687), concernente la definizione delle controversie gia' di competenza del cessato Tribunale arbitrale misto italo-germanico. 
+ E' convertito in legge il [R. decreto legge 4 dicembre 1930, n. 1687](Definizione%20delle%20controversie%20gia%20di%20competenza%20del%20cessato%20Tribunale%20arbitrale%20misto%20italo-germanico.%20030U1687.md), concernente la definizione delle controversie gia' di competenza del cessato Tribunale arbitrale misto italo-germanico. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 9 aprile 1931 - Anno IX 
  

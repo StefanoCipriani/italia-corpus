@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  All'art. 4 e' aggiunto il seguente comma: 
  
- «Le disposizioni del presente decreto-legge si applicano anche alle societa' che abbiano chiuso il loro esercizio sociale data anteriore all'entrata in vigore del decreto-legge stesso, qualora peraltro esse siano state soggette per l'esercizio precedente alle disposizioni del [R. decreto-legge 5 settembre 1935, n. 1613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-05;1613)». 
+ «Le disposizioni del presente decreto-legge si applicano anche alle societa' che abbiano chiuso il loro esercizio sociale data anteriore all'entrata in vigore del decreto-legge stesso, qualora peraltro esse siano state soggette per l'esercizio precedente alle disposizioni del [R. decreto-legge 5 settembre 1935, n. 1613](Limitazione%20temporanea%20della%20distribuzione%20degli%20utili%20delle%20societa%20commerciali.%20035U1613.md)». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

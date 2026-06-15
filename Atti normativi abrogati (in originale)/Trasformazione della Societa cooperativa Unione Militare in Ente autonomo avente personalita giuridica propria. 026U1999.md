@@ -30,7 +30,7 @@ La Societa' cooperativa «Unione Militare» con sede in Roma e' trasformata in E
  
  Detto Ente e' sottoposto alla vigilanza del Ministro della guerra, il quale la esercita di concerto col Ministro per la economia nazionale. 
  
- Al nuovo Ente si applica l'[art. 3 del R. decreto 1° luglio 1926, n. 1130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1130#art_3).
+ Al nuovo Ente si applica l'[art. 3 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md).
 
 ## Art. 2.
 
@@ -45,7 +45,7 @@ Cessano di avere effetto l'atto costitutivo e lo statuto della societa' anonima 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-10;284), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20ente%20autonomo%20avente%20personalita%20giuridica_4fbad34ef18c.md), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 
@@ -78,7 +78,7 @@ La responsabilita' degli inscritti per la gestione dell'Ente e' limitata alle so
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-10;284), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20ente%20autonomo%20avente%20personalita%20giuridica_4fbad34ef18c.md), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 8.
 
@@ -93,7 +93,7 @@ A carico degli utili netti di ogni bilancio sara' corrisposta agli inscritti una
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-10;284), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20ente%20autonomo%20avente%20personalita%20giuridica_4fbad34ef18c.md), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 9.
 
@@ -110,7 +110,7 @@ L' «Unione Militare» puo' essere messa in liquidazione con decreto reale su pr
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-10;284), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20ente%20autonomo%20avente%20personalita%20giuridica_4fbad34ef18c.md), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 11.
 
@@ -143,7 +143,7 @@ Il presidente ed il vice-presidente devono essere scelti fra gli ufficiali gener
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-10;284), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20ente%20autonomo%20avente%20personalita%20giuridica_4fbad34ef18c.md), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 14.
 
@@ -164,7 +164,7 @@ I Ministri della guerra, dell'economia nazionale e delle finanze nominano ciascu
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-10;284), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20ente%20autonomo%20avente%20personalita%20giuridica_4fbad34ef18c.md), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 15.
 
@@ -177,7 +177,7 @@ Gli attuali soci della detta cooperativa appartenenti alle categorie di cui all'
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-10;284), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20ente%20autonomo%20avente%20personalita%20giuridica_4fbad34ef18c.md), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 17.
 
@@ -224,4 +224,4 @@ L'esercizio della cessante Societa' cooperativa si chiude col 31 gennaio 1927 e 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-10;284), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 febbraio 1927, n. 284](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20ente%20autonomo%20avente%20personalita%20giuridica_4fbad34ef18c.md), convertito senza modificazioni dalla [L. 15 dicembre 1927, n. 2408](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20284%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20R.%20decreto-legge%2027%20ottobre%201926%20n.%201999%20riguardante%20la%20trasformazione%20della%20Soc_3990b6b74b26.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

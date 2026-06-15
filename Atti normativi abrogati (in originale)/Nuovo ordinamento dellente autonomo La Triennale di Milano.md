@@ -20,7 +20,7 @@ PROMULGA la seguente legge:
 
 1.
 
-L'esposizione nazionale e internazionale di arti decorative e industriali moderne e dell'architettura moderna, eretta in ente autonomo con il [regio decreto-legge 25 giugno 1931, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-25;949), convertito dalla [legge 21 dicembre 1931, n. 1780](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2025%20giugno%201931%20n.%20949%20concernente%20la%20istituzione%20di%20un%20Ente%20autonomo%20denominato%20Esposizione%20triennale%20internazionale%20delle%20arti%20decorative%20ed%20ind_e2cd7322a6ab.md), e successive modificazioni, assume la denominazione di «ente autonomo La Triennale di Milano».
+L'esposizione nazionale e internazionale di arti decorative e industriali moderne e dell'architettura moderna, eretta in ente autonomo con il [regio decreto-legge 25 giugno 1931, n. 949](Istituzione%20di%20un%20Ente%20autonomo%20denominato%20Esposizione%20triennale%20internazionale%20delle%20arti%20decorative%20ed%20industriali%20moderne%20e%20dellarchitettura%20moderna%20in%20Milano.%20031U0949.md), convertito dalla [legge 21 dicembre 1931, n. 1780](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2025%20giugno%201931%20n.%20949%20concernente%20la%20istituzione%20di%20un%20Ente%20autonomo%20denominato%20Esposizione%20triennale%20internazionale%20delle%20arti%20decorative%20ed%20ind_e2cd7322a6ab.md), e successive modificazioni, assume la denominazione di «ente autonomo La Triennale di Milano».
 
 2.
 
@@ -39,7 +39,7 @@ Almeno ogni tre anni l'ente organizza una esposizione a carattere internazionale
 Nello svolgimento della propria attivita' di documentazione e di studio, l'ente puo' valersi della collaborazione di altre istituzioni culturali italiane e straniere.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota all'[art. 1:
  - Il R.D.L. n. 949/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931;949#art_1) reca: "Istituzione di un ente autonomo denominato 'Esposizione triennale internazionale delle arti decorative ed industriali moderne e dell'architettura moderna' di Milano".

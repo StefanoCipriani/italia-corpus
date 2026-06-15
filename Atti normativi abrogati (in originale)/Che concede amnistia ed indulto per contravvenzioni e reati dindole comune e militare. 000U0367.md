@@ -88,11 +88,11 @@ E' pure concessa amnistia e cessano tutti gli effetti penali delle precedenti co
 
 Per tutti i reati commessi fino alla data del presente decreto e previsti dalle leggi doganali, da quelle sugli spiriti, sulle polveri piriche, sulle tasse di fabbricazione, sulle privative e sul lotto, le pene restrittive della liberta' personale, inflitte o da infliggersi, sono diminuite di sei mesi. 
  
- Tale condono si ha come non concesso se, nel termine di cinque anni dalla data del presente decreto, il condannato commetta uno dei reati previsti nella prima parte del presente articolo. In questo caso la pena che sarebbe stata condonata si computa insieme con quella incorsa pel nuovo reato, giusta le norme dell'[articolo 76 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_76).
+ Tale condono si ha come non concesso se, nel termine di cinque anni dalla data del presente decreto, il condannato commetta uno dei reati previsti nella prima parte del presente articolo. In questo caso la pena che sarebbe stata condonata si computa insieme con quella incorsa pel nuovo reato, giusta le norme dell'[articolo 76 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 7.
 
-Nel caso di concorso di reati e di pene, l'amnistia si applica distintamente a ciascun reato: l'indulto si applica una sola volta dopo cumulate le pene secondo le norme stabilite negli [articoli 67 e seguenti del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_67). 
+Nel caso di concorso di reati e di pene, l'amnistia si applica distintamente a ciascun reato: l'indulto si applica una sola volta dopo cumulate le pene secondo le norme stabilite negli [articoli 67 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

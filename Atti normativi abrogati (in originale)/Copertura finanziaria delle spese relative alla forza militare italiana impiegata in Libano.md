@@ -20,13 +20,13 @@ Per gli oneri relativi alla missione di pace della forza militare italiana in Li
 
 ## Art. 2.
 
-Il trattamento economico di cui al [decreto-legge 27 settembre 1982, n. 686](Norme%20in%20materia%20di%20trattamento%20economico%20del%20personale%20facente%20parte%20della%20forza%20militare%20italiana%20impiegata%20in%20Libano.md), convertito in legge dalla [legge 8 novembre 1982, n. 820](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-08;820), a richiesta del personale interessato puo' essere corrisposto come segue:
+Il trattamento economico di cui al [decreto-legge 27 settembre 1982, n. 686](Norme%20in%20materia%20di%20trattamento%20economico%20del%20personale%20facente%20parte%20della%20forza%20militare%20italiana%20impiegata%20in%20Libano.md), convertito in legge dalla [legge 8 novembre 1982, n. 820](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2027%20settembre%201982%20n.%20686%20concernente%20norme%20in%20materia%20di%20trattamento%20economico%20del%20personale%20facente%20parte%20della%20forza%20militare%20italiana%20impiegata%20in%20Libano.md), a richiesta del personale interessato puo' essere corrisposto come segue:
  il 30 per canto a titolo di anticipazione in valuta estera;
  il restante 70 per cento in valuta nazionale all'atto del rientro in Patria dei militari o mensilmente direttamente a persone fisiche o giuridiche all'uopo delegate da ogni singolo interessato.
 
 ## Art. 3.
 
-All'onere di lire 153 miliardi derivante dall'applicazione della presente legge nell'anno 1983, si provvede mediante corrispondente prelevamento dall'apposita contabilita' di tesoreria denominata "Fondo compensativo delle oscillazioni nella quotazione dei prezzi dei prodotti petroliferi", istituita con il [decreto-legge 26 gennaio 1983, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-01-26;13), convertito in legge dalla [legge 3 marzo 1983, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-03;64).
+All'onere di lire 153 miliardi derivante dall'applicazione della presente legge nell'anno 1983, si provvede mediante corrispondente prelevamento dall'apposita contabilita' di tesoreria denominata "Fondo compensativo delle oscillazioni nella quotazione dei prezzi dei prodotti petroliferi", istituita con il [decreto-legge 26 gennaio 1983, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-01-26;13), convertito in legge dalla [legge 3 marzo 1983, n. 64](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2026%20gennaio%201983%20n.%2013%20concernente%20modificazioni%20al%20regime%20fiscale%20di%20alcuni%20prodotti%20petroliferi.md).
  Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 ## Art. 4.

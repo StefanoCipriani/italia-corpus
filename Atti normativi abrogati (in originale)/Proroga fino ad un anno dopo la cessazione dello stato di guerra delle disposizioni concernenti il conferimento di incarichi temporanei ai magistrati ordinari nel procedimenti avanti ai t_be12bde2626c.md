@@ -12,9 +12,9 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022);
 
-Visto il [decreto legislativo luogotenenziale 18 gennaio 1945, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-18;31);
+Visto il [decreto legislativo luogotenenziale 18 gennaio 1945, n. 31](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20personale%20della%20giustizia%20militare%20ed%20il%20conferimento%20di%20incarichi%20temporanei%20a%20magistrati%20ordinari%20nei%20procedimenti%20avanti%20i%20tribunali%20militari.%20045U0031.md);
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944 n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4) Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944 n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4) Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la guerra, d'intesa coi Ministri per la grazia e
 
 ## Art. 1.
 
-L'efficacia delle disposizioni contenute negli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-18;31#art_4), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-18;31#art_6) e [7 del decreto legislativo luogotenenziale 18 gennaio 1945, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-18;31#art_7), e' prorogata fino a un anno dalla cessazione dello stato di guerra.
+L'efficacia delle disposizioni contenute negli [articoli 4](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20personale%20della%20giustizia%20militare%20ed%20il%20conferimento%20di%20incarichi%20temporanei%20a%20magistrati%20ordinari%20nei%20procedimenti%20avanti%20i%20tribunali%20militari.%20045U0031.md), [6](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20personale%20della%20giustizia%20militare%20ed%20il%20conferimento%20di%20incarichi%20temporanei%20a%20magistrati%20ordinari%20nei%20procedimenti%20avanti%20i%20tribunali%20militari.%20045U0031.md) e [7 del decreto legislativo luogotenenziale 18 gennaio 1945, n. 31](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20personale%20della%20giustizia%20militare%20ed%20il%20conferimento%20di%20incarichi%20temporanei%20a%20magistrati%20ordinari%20nei%20procedimenti%20avanti%20i%20tribunali%20militari.%20045U0031.md), e' prorogata fino a un anno dalla cessazione dello stato di guerra.
 
 ## Art. 2.
 

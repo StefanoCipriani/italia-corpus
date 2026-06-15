@@ -22,7 +22,7 @@ Visto il [R. decreto 25 settembre 1924, n. 1460](https://www.normattiva.it/uri-r
 
 Visto il [R. decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito in [legge il 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e successive modificazioni;
 
-Visto il [R. decreto-legge 3 gennaio 1926, n. 36](Variazioni%20ed%20aggiunte%20ai%20Regi%20decreti-legge%2025%20settembre%201924%20n.%201460%20e%2014%20giugno%201925%20n.%20884%20riflettenti%20il%20personale%20ed%20i%20servizi%20telefonici.%20026U0036.md), convertito in [legge il 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898);
+Visto il [R. decreto-legge 3 gennaio 1926, n. 36](Variazioni%20ed%20aggiunte%20ai%20Regi%20decreti-legge%2025%20settembre%201924%20n.%201460%20e%2014%20giugno%201925%20n.%20884%20riflettenti%20il%20personale%20ed%20i%20servizi%20telefonici.%20026U0036.md), convertito in [legge il 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
 Visto il [R. decreto 3 gennaio 1926, n. 88](Trattamento%20economico%20del%20personale%20dellAzienda%20per%20i%20servizi%20telefonici.%20026U0088.md);
 

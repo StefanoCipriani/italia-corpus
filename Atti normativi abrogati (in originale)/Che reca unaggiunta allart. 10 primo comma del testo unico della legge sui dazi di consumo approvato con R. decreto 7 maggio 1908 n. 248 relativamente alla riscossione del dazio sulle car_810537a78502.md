@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico della legge sul dazio consumo, approvato con [R. decreto 7 maggio 1908, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-07;248);
+Visto il testo unico della legge sul dazio consumo, approvato con [R. decreto 7 maggio 1908, n. 248](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sui%20dazi%20interni%20di%20consumo.%20008U0248.md);
 
 Sulla proposta del ministro segretario di Stato per le finanze di concerto con quello per l'interno;
 
@@ -28,7 +28,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-All'art. 10, comma 1° del testo unico della legge sui dazi di consumo, approvato col [R. decreto 7 maggio 1908, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-07;248), e' aggiunto il seguente paragrafo: 
+All'art. 10, comma 1° del testo unico della legge sui dazi di consumo, approvato col [R. decreto 7 maggio 1908, n. 248](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sui%20dazi%20interni%20di%20consumo.%20008U0248.md), e' aggiunto il seguente paragrafo: 
  
  «Per le carni provenienti dall'estero il dazio si riscuote alla introduzione nei luoghi di vendita o alla distribuzione di esse tra piu' persone, e per qualsiasi quantita', comunque o da chiunque la distribuzione sia fatta».
 

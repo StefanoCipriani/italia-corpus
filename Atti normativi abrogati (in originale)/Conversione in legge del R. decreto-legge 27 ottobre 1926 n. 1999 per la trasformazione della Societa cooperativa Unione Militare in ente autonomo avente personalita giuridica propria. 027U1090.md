@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 ottobre 1926, n. 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-27;1999), per la trasformazione della Societa' cooperativa «Unione Militare» in ente autonomo avente personalita' giuridica propria. 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1926, n. 1999](Trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20026U1999.md), per la trasformazione della Societa' cooperativa «Unione Militare» in ente autonomo avente personalita' giuridica propria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

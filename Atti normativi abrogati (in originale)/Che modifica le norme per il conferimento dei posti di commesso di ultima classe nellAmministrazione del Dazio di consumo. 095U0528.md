@@ -32,7 +32,7 @@ All'art. 6 del Nostro Decreto del 23 ottobre 1890 n. 7246 (serie 3ª) suindicato
  
  2. che siano di costituzione fisica robusta, senza difetti o deformita'; 
  
- 3. che non abbiano riportata condanna e non siano imputati di delitti o contravvenzioni designate dal vigente [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398); 
+ 3. che non abbiano riportata condanna e non siano imputati di delitti o contravvenzioni designate dal vigente [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  4. che provino con documenti originali o legalizzati di avere ottenuto la licenza dal ginnasio o dalla scuola tecnica governativa. 
  

@@ -36,7 +36,7 @@ Nei territori annessi al Regno in virtu' delle [leggi 28 settembre 1920, n. 1322
 
 ## Art. 2.
 
-Fino a che non entreranno in vigore nelle nuove Provincie, in forza del [R. decreto 23 giugno 1921, n. 887](che%20estende%20nelle%20nuove%20Provincie%20annesse%20al%20Regno%20in%20virtu%20delle%20leggi%2026%20settembre%201920%20n.%201322%20e%2019%20dicembre%201920%20n.%201176%20il%20Codice%20penale%20quello%20di%20procedura%20penale%20ed%20altre%20determina_71ecfb76fe84.md), il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e le altre leggi penali italiane, agli effetti delle sanzioni comminate nel § 155 del C. P. austriaco ed in ogni altro relativo alle lesioni personali, gli strumenti di cui nell'articolo precedente sono parificati a quelli dei quali e' cenno nel paragrafo stesso.
+Fino a che non entreranno in vigore nelle nuove Provincie, in forza del [R. decreto 23 giugno 1921, n. 887](che%20estende%20nelle%20nuove%20Provincie%20annesse%20al%20Regno%20in%20virtu%20delle%20leggi%2026%20settembre%201920%20n.%201322%20e%2019%20dicembre%201920%20n.%201176%20il%20Codice%20penale%20quello%20di%20procedura%20penale%20ed%20altre%20determina_71ecfb76fe84.md), il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e le altre leggi penali italiane, agli effetti delle sanzioni comminate nel § 155 del C. P. austriaco ed in ogni altro relativo alle lesioni personali, gli strumenti di cui nell'articolo precedente sono parificati a quelli dei quali e' cenno nel paragrafo stesso.
 
 ## Art. 3.
 

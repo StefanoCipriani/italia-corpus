@@ -21,7 +21,7 @@ E' autorizzata la spesa di lire 14 miliardi e 500 milioni per provvedere agli on
 ## Art. 2.
 
 La somma di cui al precedente articolo e' stanziata nello stato di previsione della spesa del Ministero della agricoltura e delle foreste ed e' erogata nei limiti e con le modalita' di cui all'[articolo 26 della legge 12 maggio 1950, n. 230](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ed all'[articolo 5 della legge 21 marzo 1953, n. 224](Pagamenti%20dellindennita%20per%20i%20terreni%20espropriati%20e%20altre%20disposizioni%20finanziarie%20per%20lapplicazione%20delle%20leggi%2012%20maggio%201950%20n.%20230%20e%2021%20ottobre%201950%20n.%20841.md).
- Entro il limite del 5 per cento della somma di cui all'articolo 1 della presente legge, il Ministero della agricoltura e delle foreste e' autorizzato a provvedere, direttamente o per concessione, a studi, rilevazioni e ricerche, anche sperimentali, ai fini dell'attuazione dei compiti previsti dal [decreto del Presidente della Repubblica 23 giugno 1962, n. 948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-06-23;948).
+ Entro il limite del 5 per cento della somma di cui all'articolo 1 della presente legge, il Ministero della agricoltura e delle foreste e' autorizzato a provvedere, direttamente o per concessione, a studi, rilevazioni e ricerche, anche sperimentali, ai fini dell'attuazione dei compiti previsti dal [decreto del Presidente della Repubblica 23 giugno 1962, n. 948](../DPR/Norme%20sugli%20Enti%20di%20sviluppo%20in%20attuazione%20della%20delega%20prevista%20dallart.%2032%20della%20legge%202%20giugno%201961%20n.%20454.md).
 
 ## Art. 3.
 

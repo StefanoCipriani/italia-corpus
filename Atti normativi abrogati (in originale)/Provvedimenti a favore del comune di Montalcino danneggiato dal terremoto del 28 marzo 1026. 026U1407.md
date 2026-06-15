@@ -30,7 +30,7 @@ Il Governo del Re e' autorizzato a provvedere, a sua cura e spesa, entro il limi
 
 ## Art. 2.
 
-Alla spesa di L. 30,000 per il restauro degli edifici pubblici si fara' fronte con i fondi inscritti nello stato di previsione della spesa del Ministero dei lavori pubblici per «opere dipendenti da terremoti nell'Italia centrale» in applicazione del [R. decreto 19 marzo 1925, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-19;266), che approva il reparto della somma di L. 15 miliardi di cui al [R. decreto 11 novembre 1924, n. 1932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-11;1932). 
+Alla spesa di L. 30,000 per il restauro degli edifici pubblici si fara' fronte con i fondi inscritti nello stato di previsione della spesa del Ministero dei lavori pubblici per «opere dipendenti da terremoti nell'Italia centrale» in applicazione del [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), che approva il reparto della somma di L. 15 miliardi di cui al [R. decreto 11 novembre 1924, n. 1932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-11;1932). 
  
  La spesa di L. 70,000 per i sussidi alle famiglie danneggiate sara' imputata al cap. 37 dello stato di previsione del Ministero dell'interno, per l'esercizio finanziario 1926-27, il cui stanziamento sara' all'uopo aumentato di L. 70,000.
 

@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 giugno 1913, n. 767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;767), che approva l'ordinamento della Cassa invalidi della marina mercantile;
+Vista la [legge 22 giugno 1913, n. 767](Che%20approva%20il%20riordinamento%20della%20Cassa%20invalidi%20della%20marina%20mercantile%20e%20del%20Fondo%20invalidi%20per%20la%20veneta%20marina%20mercantile.%20013U0767.md), che approva l'ordinamento della Cassa invalidi della marina mercantile;
 
 Udito il Consiglio dei ministri;
 
@@ -28,13 +28,13 @@ Sulla proposta del ministro della marina, di concerto con quello del tesoro e de
 
 ## Art. 1.
 
-Gli inscritti fra la gente di mare di prima categoria appartenenti ai compartimenti marittimi di Venezia e di Chioggia, debbono corrispondere alla Cassa invalidi della marina mercantile, per i periodi di navigazione compiuti su navi addette alla pesca, inscritte negli stessi compartimenti, e munite di carte di bordo, il contributo stabilito dall'[art. 28 della legge 22 giugno 1913, n. 767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;767#art_28), per il primo decennio dal 1°gennaio 1914, e i contributi stabiliti dagli articoli 28 e 59 della legge medesima dopo decorso il primo decennio dal 1° gennaio 1914. 
+Gli inscritti fra la gente di mare di prima categoria appartenenti ai compartimenti marittimi di Venezia e di Chioggia, debbono corrispondere alla Cassa invalidi della marina mercantile, per i periodi di navigazione compiuti su navi addette alla pesca, inscritte negli stessi compartimenti, e munite di carte di bordo, il contributo stabilito dall'[art. 28 della legge 22 giugno 1913, n. 767](Che%20approva%20il%20riordinamento%20della%20Cassa%20invalidi%20della%20marina%20mercantile%20e%20del%20Fondo%20invalidi%20per%20la%20veneta%20marina%20mercantile.%20013U0767.md), per il primo decennio dal 1°gennaio 1914, e i contributi stabiliti dagli articoli 28 e 59 della legge medesima dopo decorso il primo decennio dal 1° gennaio 1914. 
  
  Eguali disposizioni sono stabilite per la parte di contributo a carico dei proprietari ed armatori riguardo agli inscritti indicati nel precedente comma.
 
 ## Art. 2.
 
-All'[art. 57 della legge 22 giugno 1913, n. 767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;767#art_57), e' sostituito il seguente: 
+All'[art. 57 della legge 22 giugno 1913, n. 767](Che%20approva%20il%20riordinamento%20della%20Cassa%20invalidi%20della%20marina%20mercantile%20e%20del%20Fondo%20invalidi%20per%20la%20veneta%20marina%20mercantile.%20013U0767.md), e' sostituito il seguente: 
  
  «Art. 57. - Gli inscritti tra la gente di mare di prima categoria appartenente ai compartimenti marittimi di Venezia e di Chioggia, acquisteranno il diritto alla pensione nella misura stabilita nella tabella I, purche' abbiano compiuto almeno 20 anni di navigazione dal 1° gennaio 1914 e si trovino nelle condizioni previste dall'art. 35. 
  
@@ -46,7 +46,7 @@ All'[art. 57 della legge 22 giugno 1913, n. 767](https://www.normattiva.it/uri-r
 
 ## Art. 3.
 
-All'[art. 43 della legge 22 giugno 1913, n. 767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;767#art_43), e' sostituito il seguente: 
+All'[art. 43 della legge 22 giugno 1913, n. 767](Che%20approva%20il%20riordinamento%20della%20Cassa%20invalidi%20della%20marina%20mercantile%20e%20del%20Fondo%20invalidi%20per%20la%20veneta%20marina%20mercantile.%20013U0767.md), e' sostituito il seguente: 
  
  «Art. 43. - La vedova dell'inscritto morto dopo aver compiuto almeno venti anni di navigazione ha diritto ad una pensione eguale alla meta' di quella che l'inscritto godeva od avrebbe potuto godere al momento della morte, od alla meta' della pensione minima che l'inscritto avrebbe potuto conseguire appena raggiunte le prescritte condizioni di eta' e di navigazione per il diritto a pensione. 
  
@@ -54,7 +54,7 @@ All'[art. 43 della legge 22 giugno 1913, n. 767](https://www.normattiva.it/uri-r
 
 ## Art. 4.
 
-Il sussidio per una volta tanto, al quale, in base agli [articoli 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;767#art_44) e [47 della legge 22 giugno 1913, n. 767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;767#art_47) hanno diritto le vedove e gli orfani minorenni degli inscritti morti dopo aver compiuto almeno dieci anni di navigazione effettiva senza aver tramandato diritto a pensione, potra' essere rinnovato dal Comitato centrale della Cassa invalidi per altri due anni.
+Il sussidio per una volta tanto, al quale, in base agli [articoli 44](Che%20approva%20il%20riordinamento%20della%20Cassa%20invalidi%20della%20marina%20mercantile%20e%20del%20Fondo%20invalidi%20per%20la%20veneta%20marina%20mercantile.%20013U0767.md) e [47 della legge 22 giugno 1913, n. 767](Che%20approva%20il%20riordinamento%20della%20Cassa%20invalidi%20della%20marina%20mercantile%20e%20del%20Fondo%20invalidi%20per%20la%20veneta%20marina%20mercantile.%20013U0767.md) hanno diritto le vedove e gli orfani minorenni degli inscritti morti dopo aver compiuto almeno dieci anni di navigazione effettiva senza aver tramandato diritto a pensione, potra' essere rinnovato dal Comitato centrale della Cassa invalidi per altri due anni.
 
 ## Art. 5.
 

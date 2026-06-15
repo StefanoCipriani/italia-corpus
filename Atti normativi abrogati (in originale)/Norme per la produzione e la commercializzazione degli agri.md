@@ -56,7 +56,7 @@ Salvo il disposto dell'[articolo 2 della legge 30 aprile 1962, n. 283](https://w
 
 ## Art. 5.
 
-Il trasporto degli agri e' soggetto ad un apposito documento di accompagnamento, sul quale devono essere riportate le indicazioni previste per i documenti di accompagnamento dei beni viaggianti, di cui al [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-06;627), e successive modificazioni ed integrazioni.
+Il trasporto degli agri e' soggetto ad un apposito documento di accompagnamento, sul quale devono essere riportate le indicazioni previste per i documenti di accompagnamento dei beni viaggianti, di cui al [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](../DPR/Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md), e successive modificazioni ed integrazioni.
  Il documento di accompagnamento di cui al precedente comma non e' obbligatorio per la circolazione di qualsiasi quantitativo di agro contenuto in recipienti aventi un volume nominale non superiore a 5 litri, confezionati e sigillati a norma dell'articolo 3.
  Negli stabilimenti di produzione e di imbottigliamento degli agri deve tenersi un registro aggiornato di carico e scarico, con fogli progressivamente numerati, sul quale devono essere annotati, di volta in volta:
  a) la data dell'operazione;

@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il numero degli operai permanenti dell'Amministrazione della guerra, di cui alla tabella I, lettera b), annessa al [R. decreto 24 luglio 1931, n. 1232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-24;1232), quale risulta modificato dal [R. decreto 5 settembre 1938, n. 1557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-05;1557), e' cosi' fissato: 
+Il numero degli operai permanenti dell'Amministrazione della guerra, di cui alla tabella I, lettera b), annessa al [R. decreto 24 luglio 1931, n. 1232](Revisione%20dei%20ruoli%20organici%20del%20personale%20salariato.%20031U1232.md), quale risulta modificato dal [R. decreto 5 settembre 1938, n. 1557](Modificazione%20dellorganico%20degli%20operai%20permanenti%20dellAmministrazione%20della%20guerra.%20038U1557.md), e' cosi' fissato: 
  
  operai dei vari servizi, 1° gruppo, n. 220; 
  

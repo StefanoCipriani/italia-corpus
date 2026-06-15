@@ -98,7 +98,7 @@ I progetti formativi di cui al precedente comma 2 devono essere predisposti in c
 
 4.
 
-Per i lavoratori assunti ai sensi dei commi precedenti la quota di contribuzione a carico del datore di lavoro e' fissata nella misura prevista dalla [legge 19 gennaio 1955, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-01-19;25), e successive modificazioni.
+Per i lavoratori assunti ai sensi dei commi precedenti la quota di contribuzione a carico del datore di lavoro e' fissata nella misura prevista dalla [legge 19 gennaio 1955, n. 25](Disciplina%20dellapprendistato.md), e successive modificazioni.
 
 5.
 
@@ -167,7 +167,7 @@ Il Ministro del lavoro e della previdenza sociale, sentito il parere della commi
 
 6.
 
-Le commissioni regionali per l'impiego svolgono, nel proprio ambito territoriale, oltre ai compiti previsti dalla legislazione vigente, anche quelli attribuiti dal [decreto-legge 3 febbraio 1970, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-02-03;7), convertito, con modificazioni, nella [legge 11 marzo 1970, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-03-11;83), alle commissioni regionali per la manodopera agricola le quali sono soppresse al momento della costituzione della commissione di cui al primo comma.
+Le commissioni regionali per l'impiego svolgono, nel proprio ambito territoriale, oltre ai compiti previsti dalla legislazione vigente, anche quelli attribuiti dal [decreto-legge 3 febbraio 1970, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-02-03;7), convertito, con modificazioni, nella [legge 11 marzo 1970, n. 83](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20febbraio%201970%20n.%207%20recante%20norme%20in%20materia%20di%20collocamento%20e%20accertamento%20dei%20lavoratori%20agricoli.md), alle commissioni regionali per la manodopera agricola le quali sono soppresse al momento della costituzione della commissione di cui al primo comma.
 
 7.
 
@@ -199,7 +199,7 @@ Salvo diversa previsione dei contratti collettivi di cui al precedente comma, es
 
 5.
 
-La retribuzione minima oraria da assumere quale base di calcolo dei contributi previdenziali dovuti per i lavoratori a tempo parziale e' pari ad un sesto del minimale giornaliero di cui all'[articolo 7 del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_7), convertito, con modificazioni, nella [legge 11 novembre 1983, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638).
+La retribuzione minima oraria da assumere quale base di calcolo dei contributi previdenziali dovuti per i lavoratori a tempo parziale e' pari ad un sesto del minimale giornaliero di cui all'[articolo 7 del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_7), convertito, con modificazioni, nella [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md).
 
 6.
 
@@ -208,11 +208,11 @@ In caso contrario spettano tanti assegni giornalieri quante sono le giornate di 
 
 7.
 
-Qualora non si possa individuare l'attivita' principale per gli effetti dell'articolo 20 del testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-05-30;797), e successive modificazioni ed integrazioni, gli assegni familiari sono corrisposti direttamente dall'Istituto nazionale della previdenza sociale.
+Qualora non si possa individuare l'attivita' principale per gli effetti dell'articolo 20 del testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni ed integrazioni, gli assegni familiari sono corrisposti direttamente dall'Istituto nazionale della previdenza sociale.
 
 8.
 
-Il secondo comma dell'articolo 26 del testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-05-30;797), e' sostituito dal seguente:
+Il secondo comma dell'articolo 26 del testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e' sostituito dal seguente:
  "Il contributo non e' dovuto per i lavoratori cui non spettano gli assegni a norma dell'articolo 2".
 
 9.
@@ -230,7 +230,7 @@ Nel caso di trasformazione del rapporto di lavoro a tempo pieno in rapporto di l
 
 12.
 
-Ai fini della qualificazione dell'azienda, dell'accesso a benefici di carattere finanziario e creditizio previsti dalle leggi nonche' dalla [legge 2 aprile 1968, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482), i lavoratori a tempo parziale sono computati nel numero complessivo dei dipendenti, in proporzione all'orario svolto riferito alle ore lavorative ordinarie effettuate nell'azienda con arrotondamento all'unita' della frazione di orario superiore alla meta' di quello normale.
+Ai fini della qualificazione dell'azienda, dell'accesso a benefici di carattere finanziario e creditizio previsti dalle leggi nonche' dalla [legge 2 aprile 1968, n. 482](Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md), i lavoratori a tempo parziale sono computati nel numero complessivo dei dipendenti, in proporzione all'orario svolto riferito alle ore lavorative ordinarie effettuate nell'azienda con arrotondamento all'unita' della frazione di orario superiore alla meta' di quello normale.
 
 13.
 
@@ -246,7 +246,7 @@ Le disposizioni di cui al presente articolo non trovano applicazione nei confron
 
 16.
 
-A decorrere dal periodo di paga in corso alla data del 1 gennaio 1984 per i lavoratori occupati nei settori indicati nel successivo comma in attivita' ad orario ridotto, non superiore alle quattro ore giornaliere, i quali non abbiano stipulato il contratto di lavoro a norma dei commi precedenti, il limite minimo di retribuzione giornaliera indicato al [primo comma dell'articolo 7 del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_7-com1), convertito, in legge, con modificazioni, dalle [legge 11 novembre 1983, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638), e' fissato nella misura del 4 per cento dell'importo del trattamento minimo mensile di pensione a carico del Fondo pensioni lavoratori dipendenti in vigore al 1 gennaio di ciascun anno.
+A decorrere dal periodo di paga in corso alla data del 1 gennaio 1984 per i lavoratori occupati nei settori indicati nel successivo comma in attivita' ad orario ridotto, non superiore alle quattro ore giornaliere, i quali non abbiano stipulato il contratto di lavoro a norma dei commi precedenti, il limite minimo di retribuzione giornaliera indicato al [primo comma dell'articolo 7 del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_7-com1), convertito, in legge, con modificazioni, dalle [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md), e' fissato nella misura del 4 per cento dell'importo del trattamento minimo mensile di pensione a carico del Fondo pensioni lavoratori dipendenti in vigore al 1 gennaio di ciascun anno.
 
 17.
 
@@ -276,7 +276,7 @@ Con la medesima decorrenza di cui al comma 16, per le categorie di lavoratori pe
 
 20.
 
-In attesa del riordino generale della materia nel settore dell'istruzione prescolare, nei casi di assicurazioni sociali obbligatorie a norma della [legge 3 maggio 1956, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-05-03;392), non trova applicazione nel settore stesso la disposizione contenuta nell'articolo 7, primo comma, ultimo periodo, del [decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463), convertito, con modificazioni, nella [legge 11 novembre 1983, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638). La disposizione del presente comma ha effetto dal periodo di paga in corso alla data del 1 gennaio 1984.
+In attesa del riordino generale della materia nel settore dell'istruzione prescolare, nei casi di assicurazioni sociali obbligatorie a norma della [legge 3 maggio 1956, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-05-03;392), non trova applicazione nel settore stesso la disposizione contenuta nell'articolo 7, primo comma, ultimo periodo, del [decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463), convertito, con modificazioni, nella [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md). La disposizione del presente comma ha effetto dal periodo di paga in corso alla data del 1 gennaio 1984.
 
 ## Art. 6.
 

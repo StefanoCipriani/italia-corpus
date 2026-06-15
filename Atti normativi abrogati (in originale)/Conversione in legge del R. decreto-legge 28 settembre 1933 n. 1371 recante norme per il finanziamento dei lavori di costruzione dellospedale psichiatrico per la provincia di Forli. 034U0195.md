@@ -22,7 +22,7 @@ VITTORIO EMANUELE II1
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1933, n. 1371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-28;1371), recante norme per il finanziamento dei lavori di costruzione dell'ospedale psichiatrico per la provincia di Forli. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1933, n. 1371](Norme%20per%20il%20finanziamento%20dei%20lavori%20di%20costruzione%20dellOspedale%20psichiatrico%20della%20provincia%20di%20Forli.%20033U1371.md), recante norme per il finanziamento dei lavori di costruzione dell'ospedale psichiatrico per la provincia di Forli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

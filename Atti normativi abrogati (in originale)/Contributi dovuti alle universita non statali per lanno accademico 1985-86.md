@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 21 febbraio 1980, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Vista la [legge 21 febbraio 1980, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20della%20docenza%20universitaria%20e%20relativa%20fascia%20di%20formazione%20e%20per%20la%20sperimentazione%20organizzativa%20e%20didattica.md);
 
-Visto l'[articolo 122 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_122);
+Visto l'[articolo 122 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md);
 
 Visto l'[articolo 4 della legge 14 agosto 1982, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;590#art_4);
 
@@ -30,7 +30,7 @@ EMANA il seguente decreto:
 
 1.
 
-Ai sensi dell'[articolo 122 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_122), e dell'[art. 4 della legge 14 agosto 1982, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;590#art_4), alle universita' non statali sottoelencate e' assegnato, per l'anno accademico 1985-86, il contributo a fianco di ciascuna indicato, determinato sulla base dei maggiori oneri dalle medesime sopportati per gli ulteriori inquadramenti del personale docente nelle nuove qualifiche previste dal citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382):
+Ai sensi dell'[articolo 122 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), e dell'[art. 4 della legge 14 agosto 1982, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;590#art_4), alle universita' non statali sottoelencate e' assegnato, per l'anno accademico 1985-86, il contributo a fianco di ciascuna indicato, determinato sulla base dei maggiori oneri dalle medesime sopportati per gli ulteriori inquadramenti del personale docente nelle nuove qualifiche previste dal citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md):
 
 
  Libera Universita' commerciale

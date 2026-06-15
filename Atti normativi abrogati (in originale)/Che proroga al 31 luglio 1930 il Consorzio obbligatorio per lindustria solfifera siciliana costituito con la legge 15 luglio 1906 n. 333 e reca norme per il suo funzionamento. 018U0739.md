@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per l'industria, il commercio e 
 
 ## Art. 1.
 
-Il Consorzio obbligatorio per l'industria solfifera siciliana, costituito con la [legge 15 luglio 1906, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;333), e' prorogato fino al 31 luglio 1930.
+Il Consorzio obbligatorio per l'industria solfifera siciliana, costituito con la [legge 15 luglio 1906, n. 333](Istituzione%20di%20un%20Consorzio%20e%20altri%20provvedimenti%20per%20lindustria%20solfifera%20siciliana.%20006U0333.md), e' prorogato fino al 31 luglio 1930.
 
 ## Art. 2.
 
@@ -82,7 +82,7 @@ Il Consorzio e' amministrato da un Consiglio composto di 10 membri scelti fra i 
 
 ## Art. 5.
 
-Salvo il caso di revocazione previsto dall'[art. 12 della legge 30 giugno 1910, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-30;361#art_12), l'ufficio di direttori generale del Consorzio ha carattere di stabilita', per la durata del Consorzio. 
+Salvo il caso di revocazione previsto dall'[art. 12 della legge 30 giugno 1910, n. 361](Concernente%20provvedimenti%20per%20lindustria%20solfifera%20siciliana.%20010U0361.md), l'ufficio di direttori generale del Consorzio ha carattere di stabilita', per la durata del Consorzio. 
  
  Quando la scelta del direttore generale cada su di un funzionario dell'Amministrazione dello Stato in attivita' di servizio, questi cessa temporaneamente dal servizio nell'Amministrazione cui appartiene, e puo' essere surrogato nel ruolo, ma conserva il proprio grado il proprio titolo per ogni effetto, salvo per quanto riguarda lo stipendio. 
  
@@ -110,7 +110,7 @@ Le attivita' nette del Consorzio esistenti alla chiusura dell'esercizio 1917-918
 
 Alla costituzione e all'esercizio di magazzini generali degli zolfi grezzi e lavorati in Sicilia provvede la Banca di credito minerario per la Sicilia. 
  
- I magazzini generali saranno costituiti a norma della [legge 17 dicembre 1882, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-12-17;1154), e della [legge 26 dicembre 1895, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-12-26;720), in quanto siano applicabili. 
+ I magazzini generali saranno costituiti a norma della [legge 17 dicembre 1882, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-12-17;1154), e della [legge 26 dicembre 1895, n. 720](Che%20stabilisce%20le%20norme%20per%20listituzione%20dei%20magazzini%20generali%20degli%20zolfi%20nei%20porti%20di%20Sicilia.%20095U0720.md), in quanto siano applicabili. 
  
  La Banca ha l'obbligo di anticipare, senza interessi, le spese di trasporto degli zolfi siciliani dalle stazioni ferroviarie di spedizione ai luoghi di deposito, da rimborsarsi all'uscita delle singole quantita' di zolfo. 
  
@@ -136,7 +136,7 @@ Dal l° agosto 1918, in sostituzione dell'imposta fondiaria, di quella sul reddi
  
  Le proposte motivate di questo delegato sono portate a conoscenza del Consorzio, che avra' facolta' d'esporre le sue deduzioni, nel termine prefissogli. Dopo di che i ministri competenti determineranno la tassa d'abbonamento con R. decreto, non suscettibile di gravame, ne' in via giudiziaria, ne' in via amministrativa. 
  
- Salvo i provvedimenti di cui all'[art. 42 della legge 1° marzo 1886, n. 3682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-03-01;3682#art_42) (serie 3ª), la savraimposta provinciale e comunale delle zolfare siciliane rimane consolidata nella somma complessiva riscossa per l'anno 1905. La sovrimposta comunale e provinciale sui fabbricati e' consolidata nella somma complessiva riscossa per l'anno 1917. 
+ Salvo i provvedimenti di cui all'[art. 42 della legge 1° marzo 1886, n. 3682](Riordinamento%20dellimposta%20fondiaria.%20086U3682.md) (serie 3ª), la savraimposta provinciale e comunale delle zolfare siciliane rimane consolidata nella somma complessiva riscossa per l'anno 1905. La sovrimposta comunale e provinciale sui fabbricati e' consolidata nella somma complessiva riscossa per l'anno 1917. 
  
  L'intendente di finanza, in proporzione della produzione di ogni singola miniera e del reddito attribuibile ai fabbricati nell'anno precedente, fara' annualmente il riparto della detta somma alle varie miniere in esercizio e ai fabbricati esistenti nel territorio della Provincia o del Comune a cui la sovraimposta spetta. 
  
@@ -156,13 +156,13 @@ Salva l'applicazione dell'art. 10 del presente decreto sono esenti da ogni tassa
 
 Il Consorzio, a partire dall'esercizio consortile 1913-919, versera' per gli scopi di previdenza sottoindicati, alla fine di ciascun trimestre, un contributo nella misura di lire otto per ogni tonnellata di zolfo venduto e consegnato: detta misura potra' essere modificata in relazione alle condizioni dell'industria zolfifera con R. decreto promosso dal ministro per l'industria, il commercio e il lavoro, ma in ogni caso non potra' essere inferiore a lire cinque por ogni tonnellata di zolfo venduto e consegnato. 
  
- I sette ottavi dei contributi di cui nel comma precedente saranno versati alla Cassa nazionale di previdenza per l'invalidita' e per la vecchiaia degli operai al fondo amministrato dalla Cassa medesima, ed istituito con l'[art. 19 della legge 30 giugno 1910, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-30;361#art_19), per la concessione di assegni vitalizi di invalidita' e di vecchiaia agli operai addetti alle miniere di zolfo della Sicilia. 
+ I sette ottavi dei contributi di cui nel comma precedente saranno versati alla Cassa nazionale di previdenza per l'invalidita' e per la vecchiaia degli operai al fondo amministrato dalla Cassa medesima, ed istituito con l'[art. 19 della legge 30 giugno 1910, n. 361](Concernente%20provvedimenti%20per%20lindustria%20solfifera%20siciliana.%20010U0361.md), per la concessione di assegni vitalizi di invalidita' e di vecchiaia agli operai addetti alle miniere di zolfo della Sicilia. 
  
  Col detto fondo si provvedera', oltre che per gli assegni di invalidita' e di vecchiaia, a sussidiare gli operai stessi nei casi di inabilita' temporanea al lavoro a causa di malattia professionale. 
  
  Al fondo predetto, e per gli scopi pei quali e' costituito sara' anche versata, entro il 31 dicembre 1918, la somma di L. 600.000 da prelevarsi dal fondo per la disoccupazione degli operai delle miniere di zolfo gestito dal Consorzio. 
  
- Entro un anno dall'entrata in vigore del presente decreto il Ministero per l'industria, il commercio e il lavoro, sentito il Consiglio di amministrazione del Consorzio zolfifero, provvedera' a sistemare su basi tecniche il servizio per gli assegni di invalidita' e vecchiaia, con regolamento in sostituzione di quello approvato con i [Regi decreti 4 febbraio 1912, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-02-04;183) e [9 febbraio 1913, n 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-02-09;125). 
+ Entro un anno dall'entrata in vigore del presente decreto il Ministero per l'industria, il commercio e il lavoro, sentito il Consiglio di amministrazione del Consorzio zolfifero, provvedera' a sistemare su basi tecniche il servizio per gli assegni di invalidita' e vecchiaia, con regolamento in sostituzione di quello approvato con i [Regi decreti 4 febbraio 1912, n. 183](Col%20quale%20vengono%20approvate%20le%20annesse%20norme%20per%20lamministrazione%20e%20lerogazione%20del%20fondo%20dinvalidita%20e%20vecchiaia%20di%20cui%20allart.%2019%20della%20legge%2030%20giugno%201910%20n.%20361%20sul%20consorzio%20obbliga_50c879bb4bce.md) e [9 febbraio 1913, n 125](Col%20quale%20vengono%20apportate%20modificazioni%20al%20regolamento%20approvato%20col%20R.%20decreto%204%20febbraio%201912%20n.%20183%20per%20lamministrazione%20e%20lerogazione%20del%20fondo%20di%20invalidita%20e%20di%20vecchiaia%20in%20favor_5f1ab0000722.md). 
  
  Il regolamento predetto, che sara' approvato con R. decreto, sentito il Consiglio della previdenza e delle assicurazioni sociali, stabilira' anche le norme par l'erogazione dei sussidi di malattia instituiti col presente decreto. 
  
@@ -178,7 +178,7 @@ Il fondo per l'eventuale disoccupazione degli operai, dedotte le lire 600,000 di
 
 ## Art. 15.
 
-In ogni centro minerario di speciale importanza sara' allestito, a norma della [legge 30 marzo 1893, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-03-30;184), sulla polizia delle miniere e torbiere, un posto di salvataggio allo scopo di prevenire le catastrofi o di alleviarne le conseguenze. 
+In ogni centro minerario di speciale importanza sara' allestito, a norma della [legge 30 marzo 1893, n. 184](Sulla%20polizia%20delle%20miniere%20cave%20e%20torbiere.%20093U0184.md), sulla polizia delle miniere e torbiere, un posto di salvataggio allo scopo di prevenire le catastrofi o di alleviarne le conseguenze. 
  
  I posti di salvataggio dovranno essere allestiti, il piu' tardi, entro sei mesi dalla conclusione della pace, secondo le norme che verranno stabilite con R. decreto, promosso dal ministro per l'agricoltura, di concerto con quello per l'industria, il commercio e il lavoro. 
  
@@ -206,7 +206,7 @@ I consorziati debbono fornire nelle miniere, gratuitamente e in quantita', suffi
 
 ## Art. 17.
 
-Ferme restando le disposizioni vigenti concernenti la Banca autonoma di credito minerario per la Sicilia, con decreto Reale promosso dal ministro per l'industria, il commercio e il lavoro, di concerto coi ministri del tesoro e di grazia e giustizia, la stessa Banca sara' autorizzata a fare: prestiti agli esercenti di miniere di zolfo per provvedere alle spese ordinarie d'esercizio; mutui ai proprietari o agli esercenti di miniere di zolfo per acquieto di macchine e per l'esecuzione in genere di opere destinate ad aumentare la produzione e il trasporto dello zolfo, a migliorare la condizione della coltivazione delle zolfare e ad accrescere la sicurezza, e la salubrita' della lavorazione; mutui ai Consorzi obbligatori o volontari di proprietari o possessori di zolfare, contemplati nell'[art. 2 della legge 2 luglio 1896, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;302#art_2), per la esecuzione delle opere in comune. 
+Ferme restando le disposizioni vigenti concernenti la Banca autonoma di credito minerario per la Sicilia, con decreto Reale promosso dal ministro per l'industria, il commercio e il lavoro, di concerto coi ministri del tesoro e di grazia e giustizia, la stessa Banca sara' autorizzata a fare: prestiti agli esercenti di miniere di zolfo per provvedere alle spese ordinarie d'esercizio; mutui ai proprietari o agli esercenti di miniere di zolfo per acquieto di macchine e per l'esecuzione in genere di opere destinate ad aumentare la produzione e il trasporto dello zolfo, a migliorare la condizione della coltivazione delle zolfare e ad accrescere la sicurezza, e la salubrita' della lavorazione; mutui ai Consorzi obbligatori o volontari di proprietari o possessori di zolfare, contemplati nell'[art. 2 della legge 2 luglio 1896, n. 302](Riflettente%20le%20norme%20da%20seguirsi%20per%20la%20dichiarazione%20di%20pubblica%20utilita%20di%20opere%20riconosciute%20necessarie%20alla%20coltivazione%20di%20miniere%20cave%20e%20torbiere.%20096U0302.md), per la esecuzione delle opere in comune. 
  
  Collo stesso decreto saranno stabilite le condizioni a cui le dette operazioni possono essere fatte, non che le garanzie a favore della Banca, compresa la costituzione di un privilegio speciale sul minerale di zolfo gia' estratto e sullo zolfo fuso non ancora depositato nei magazzini del Consorzio, e saranno pure stabiliti il grado e la efficacia di tale privilegio, le penalita' in cui incorrono i debitori che distraggono lo zolfo o gli oggetti su cui il privilegio e' costituito, le esenzioni fiscali e l'applicazione dei privilegi consentiti agli Istituti di credito fondiario per le esecuzioni coattive. 
  

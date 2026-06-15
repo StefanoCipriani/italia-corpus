@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 dicembre 1925, n. 2276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-12-24;2276), che da' esecuzione all'Accordo fra l'Italia e l'Austria, firmato in Roma il 13 dicembre 1924, per la regolazione amichevole di risarcimenti pendenti presso il Tribunale arbitrale misto italo-austriaco. 
+ E' convertito in legge il [R. decreto-legge 24 dicembre 1925, n. 2276](Esecuzione%20dellAccordo%20fra%20lItalia%20e%20lAustria%20firmato%20in%20Roma%20il%2013%20dicembre%201924%20per%20la%20regolazione%20amichevole%20di%20risarcimenti%20pendenti%20presso%20il%20Tribunale%20arbitrale%20misto%20italo-austriaco.%20025U2276.md), che da' esecuzione all'Accordo fra l'Italia e l'Austria, firmato in Roma il 13 dicembre 1924, per la regolazione amichevole di risarcimenti pendenti presso il Tribunale arbitrale misto italo-austriaco. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

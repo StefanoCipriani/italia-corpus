@@ -103,7 +103,7 @@ coadiutoriali;
 
 ### Art. 10.
 
-La concessione dei benefici previsti dall'articolo precedente esclude l'applicazione delle disposizioni contenute nel [regio decreto-legge 13 maggio 1915, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1915-05-13;775) e nella [legge 1 aprile 1915, n. 476](Che%20converte%20in%20legge%2017%20decreti%20Reali%20recanti%20provvedimenti%20a%20favore%20dei%20paesi%20danneggiati%20dal%20terremoto%20del%2013%20gennaio%201915%20e%20porta%20modificazioni%20ai%20decreti%20stessi%20con%20laggiunta%20di%20altr_f19f0a26f386.md) e nel testo unico approvato con [regio decreto 19 agosto 1917, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1917-08-19;1399).
+La concessione dei benefici previsti dall'articolo precedente esclude l'applicazione delle disposizioni contenute nel [regio decreto-legge 13 maggio 1915, n. 775](Concernente%20la%20concessione%20di%20mutui%20di%20favore%20e%20di%20contributi%20diretti%20dello%20Stato%20ai%20danneggiati%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0775.md) e nella [legge 1 aprile 1915, n. 476](Che%20converte%20in%20legge%2017%20decreti%20Reali%20recanti%20provvedimenti%20a%20favore%20dei%20paesi%20danneggiati%20dal%20terremoto%20del%2013%20gennaio%201915%20e%20porta%20modificazioni%20ai%20decreti%20stessi%20con%20laggiunta%20di%20altr_f19f0a26f386.md) e nel testo unico approvato con [regio decreto 19 agosto 1917, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1917-08-19;1399).
 
 ### Art. 11.
 

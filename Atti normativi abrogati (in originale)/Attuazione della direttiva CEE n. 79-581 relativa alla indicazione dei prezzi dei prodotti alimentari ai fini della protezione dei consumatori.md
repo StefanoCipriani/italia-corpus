@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Vista la [direttiva n. 79/581 del 19 giugno 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;581), emanata dal Consiglio delle Comunita' europee, concernente l'indicazione dei prezzi dei prodotti alimentari ai fini della protezione dei consumatori;
 
-Considerato che in data 8 giugno 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 8 giugno 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -30,7 +30,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-I prodotti alimentari esposti per la vendita al consumatore ai sensi dell'[art. 38 della legge 11 giugno 1971, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426#art_38), sulla disciplina del commercio, e delle relative norme di esecuzione, debbono recare, oltre alla indicazione del prezzo di vendita, e con le stesse modalita' per esso previste, l'indicazione del prezzo per unita' di misura.
+I prodotti alimentari esposti per la vendita al consumatore ai sensi dell'[art. 38 della legge 11 giugno 1971, n. 426](Disciplina%20del%20commercio.md), sulla disciplina del commercio, e delle relative norme di esecuzione, debbono recare, oltre alla indicazione del prezzo di vendita, e con le stesse modalita' per esso previste, l'indicazione del prezzo per unita' di misura.
  E' obbligatoria l'indicazione del prezzo riferito all'unita' di misura, in conformita' alle disposizioni di cui all'art. 3 del presente decreto, anche nella pubblicita' scritta e nei cataloghi che recano l'indicazione del prezzo di vendita dei prodotti alimentari, fatte salve le esenzioni previste dal successivo art. 4.
  Nei casi in cui sia obbligatoria, in base alle disposizioni vigenti, l'indicazione del prezzo di vendita per i prodotti alimentari offerti al consumatore su fondi agricoli, deve essere anche indicato, con le stesse modalita', il prezzo per unita' di misura.
  Il presente decreto non si applica ai prodotti alimentari somministrati al pubblico o in locali non aperti al pubblico, ne' a quelli offerti esclusivamente a commercianti, utilizzatori professionali o in grande.
@@ -66,8 +66,8 @@ Sono esenti dall'obbligo della indicazione del prezzo per unita' di misura:
 
 ## Art. 5.
 
-Chiunque non indica il prezzo per unita' di misura dei prodotti alimentari o non lo indica secondo le modalita' prescritte e' soggetto alla sanzione di cui all'[art. 39 della legge 11 giugno 1971, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426#art_39), sulla disciplina del commercio, che verra' irrogata con la procedura prevista per tale sanzione.
- Chiunque non indica in modo chiaro e ben visibile il prezzo per unita' di misura dei prodotti alimentari e' soggetto alla sanzione di cui all'art. 56 del decreto ministeriale 14 gennaio 1972, recante il regolamento di esecuzione della [legge 11 giugno 1971, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426), modificato dall'art. 39 del decreto ministeriale 28 aprile 1976, che verra' irrogata con la procedura prevista per tale sanzione.
+Chiunque non indica il prezzo per unita' di misura dei prodotti alimentari o non lo indica secondo le modalita' prescritte e' soggetto alla sanzione di cui all'[art. 39 della legge 11 giugno 1971, n. 426](Disciplina%20del%20commercio.md), sulla disciplina del commercio, che verra' irrogata con la procedura prevista per tale sanzione.
+ Chiunque non indica in modo chiaro e ben visibile il prezzo per unita' di misura dei prodotti alimentari e' soggetto alla sanzione di cui all'art. 56 del decreto ministeriale 14 gennaio 1972, recante il regolamento di esecuzione della [legge 11 giugno 1971, n. 426](Disciplina%20del%20commercio.md), modificato dall'art. 39 del decreto ministeriale 28 aprile 1976, che verra' irrogata con la procedura prevista per tale sanzione.
  Chiunque non indica il prezzo per unita' di misura dei prodotti alimentari offerti su fondi agricoli, o non la indica in modo chiaro e ben visibile, quando cio' sia obbligatorio ai sensi dell'art. 1, terzo comma, del presente decreto, e' soggetto alle sanzioni gia' previste per la mancata indicazione del prezzo di vendita, che verranno irrogate con la procedura per esse prevista.
 
 ## Art. 6.

@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 gennaio 1931, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-06;175), portante modificazioni alla composizione del Consiglio generale dell'Istituto nazionale per l'esportazione. 
+ E' convertito in legge il [R. decreto-legge 6 gennaio 1931, n. 175](Modificazioni%20alla%20composizione%20del%20Consiglio%20generale%20del%20lIstituto%20nazionale%20per%20lesportazione.%20031U0175.md), portante modificazioni alla composizione del Consiglio generale dell'Istituto nazionale per l'esportazione. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 4 giugno 1931 - Anno IX 
  

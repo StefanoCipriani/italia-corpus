@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 13 luglio 1910, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;442), e le sue successive modificazioni;
+Vista la [legge 13 luglio 1910, n. 442](Istituzione%20del%20R.%20Comitato%20talassografico%20italiano.%20010U0442.md), e le sue successive modificazioni;
 
 Ritenuta la necessita' di porre il Comitato talassografico in condizioni di provvedere provvisoriamente al funzionamento degli Istituti che nei territori occupati hanno per scopo lo studio fisichimico del mare in rapporto alla industria della navigazione e della pesca;
 

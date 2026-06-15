@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3062](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3062), che istituisce l'imposta complementare progressiva sul reddito;
+Visto il [R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), che istituisce l'imposta complementare progressiva sul reddito;
 
 Visto il [R. decreto-legge 30 gennaio 1933, n. 18](Provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0018.md);
 
@@ -38,11 +38,11 @@ I possessori di redditi mobiliari dipendenti da stipendi, pensioni ed altri asse
 
 ## Art. 2.
 
-In deroga alle disposizioni contenute nell'[art. 16, secondo comma, del R. decreto 30 dicembre 1923, n. 3062](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3062#art_16-com2), le variazioni permanenti in diminuzione dei redditi di cui al precedente articolo, hanno efficacia, per l'applicazione della imposta complementare, dal 1° gennaio dell'anno successivo a quello in cui esse si verificano. 
+In deroga alle disposizioni contenute nell'[art. 16, secondo comma, del R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), le variazioni permanenti in diminuzione dei redditi di cui al precedente articolo, hanno efficacia, per l'applicazione della imposta complementare, dal 1° gennaio dell'anno successivo a quello in cui esse si verificano. 
  
  Le domande degli interessati debbono essere presentate entro lo stesso termine del 31 gennaio di ciascun anno, stabilito per le denuncie dei datori di lavoro dall'[art. 3 del R. decreto-legge 30 gennaio 1933, n. 18](Provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0018.md). 
  
- La cessazione del rapporto di impiego da' diritto al rimborso proporzionale della imposta complementare, con decorrenza dal giorno dell'avvenimento, indipendentemente dalla riduzione alla meta' del reddito complessivo stabilita dall'art. 19 del citato [R. decreto 30 dicembre 1923, n. 3062](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3062).
+ La cessazione del rapporto di impiego da' diritto al rimborso proporzionale della imposta complementare, con decorrenza dal giorno dell'avvenimento, indipendentemente dalla riduzione alla meta' del reddito complessivo stabilita dall'art. 19 del citato [R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md).
 
 ## Art. 3.
 

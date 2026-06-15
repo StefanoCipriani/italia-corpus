@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il [R. decreto-legge 16 agosto 1922, n. 1244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-08-16;1244), e' convertito in legge, sostituendo all'art. 1 il testo seguente: 
+ Il [R. decreto-legge 16 agosto 1922, n. 1244](Che%20approva%20il%20modus%20vivendi%20commerciale%20concluso%20il%2015%20aprile%201922%20fra%20il%20Governo%20italiano%20e%20quello%20spagnolo.%20022U1244.md), e' convertito in legge, sostituendo all'art. 1 il testo seguente: 
  
  «Piena ed intera esecuzione, con decorrenza dal 20 aprile 1922, e' data all'accordo commerciale provvisorio, concluso fra il Governo d'Italia e quello di Spagna, secondo l'annesso testo risultante dalle note diplomatiche, scambiate a Madrid il 15 aprile 1922, che formano parte integrante della presente legge». 
  

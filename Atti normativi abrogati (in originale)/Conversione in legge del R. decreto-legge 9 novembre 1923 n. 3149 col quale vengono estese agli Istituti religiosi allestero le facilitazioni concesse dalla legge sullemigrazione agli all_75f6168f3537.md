@@ -25,7 +25,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge in data 9 novembre 1923, n. 3149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-11-09;3149), col quale vengono estese agli Istituti religiosi all'estero le facilitazioni concesse dalla vigente legge sull'emigrazione agli allievi missionari. 
+ E' convertito in legge il [R. decreto-legge in data 9 novembre 1923, n. 3149](Estensione%20agli%20istituti%20religiosi%20allestero%20delle%20facilitazioni%20concesse%20dalla%20legge%20sulla%20emigrazione%20agli%20allievi%20missionari.%20023U3149.md), col quale vengono estese agli Istituti religiosi all'estero le facilitazioni concesse dalla vigente legge sull'emigrazione agli allievi missionari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

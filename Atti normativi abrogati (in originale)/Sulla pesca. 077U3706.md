@@ -138,7 +138,7 @@ Per tutte le infrazioni alla presente legge, prima che sia pronunciata sentenza 
 
 ### Art. 23.
 
-Salve le disposizioni contenute nella presente legge, saranno applicabili alle infrazioni le norme generali del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), quelle del [Codice di procedura penale e l'art. 414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_414) del Codice della marina mercantile. 
+Salve le disposizioni contenute nella presente legge, saranno applicabili alle infrazioni le norme generali del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quelle del [Codice di procedura penale e l'art. 414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_414) del Codice della marina mercantile. 
  
  Nel caso pero' in cui debba farsi luogo alla commutazione delle multe per non effettuato pagamento, la pena del carcere non potra' eccedere i trenta giorni.
 

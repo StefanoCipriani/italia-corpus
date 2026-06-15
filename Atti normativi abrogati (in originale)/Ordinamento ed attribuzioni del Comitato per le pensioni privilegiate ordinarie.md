@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 96 del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214);
 
-Visti i [regi decreti 27 giugno 1933, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-27;703), [28 giugno 1933, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-28;704), [1 aprile 1935, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-01;459), [16 giugno 1939, n. 982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-16;982) ed il proprio decreto 30 giugno 1952, n. 865;
+Visti i [regi decreti 27 giugno 1933, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-27;703), [28 giugno 1933, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-28;704), [1 aprile 1935, n. 459](Modifiche%20allordinamento%20del%20Comitato%20per%20le%20pensioni%20privilegiate%20ordinarie.%20035U0459.md), [16 giugno 1939, n. 982](Modificazione%20delle%20attribuzioni%20del%20Comitato%20per%20le%20pensioni%20privilegiate%20ordinarie.%20039U0982.md) ed il proprio decreto 30 giugno 1952, n. 865;
 
 Udita la Corte dei conti;
 
@@ -34,7 +34,7 @@ L'[art. 4 del regio decreto 27 giugno 1933, n. 703](https://www.normattiva.it/ur
 
 ## Art. 2.
 
-L'[art. 29 del regio decreto 28 giugno 1933, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-28;704#art_29), modificato dall'[art. 2 del regio decreto 1 aprile 1935, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-01;459#art_2), e' sostituito dal seguente:
+L'[art. 29 del regio decreto 28 giugno 1933, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-28;704#art_29), modificato dall'[art. 2 del regio decreto 1 aprile 1935, n. 459](Modifiche%20allordinamento%20del%20Comitato%20per%20le%20pensioni%20privilegiate%20ordinarie.%20035U0459.md), e' sostituito dal seguente:
  "Le funzioni di segretario del Comitato per le pensioni privilegiate ordinarie sono esercitate da un referendario della Corte dei conti coadiuvato da due segretari aggiunti scelti tra i magistrati della Corte stessa o tra i funzionari di gruppo A dell'Amministrazione dello Stato di grado non inferiore al settimo".
 
 ## Art. 3.

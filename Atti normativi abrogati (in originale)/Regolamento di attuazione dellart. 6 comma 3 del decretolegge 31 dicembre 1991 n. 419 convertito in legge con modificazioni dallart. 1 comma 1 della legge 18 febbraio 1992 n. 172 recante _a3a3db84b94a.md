@@ -16,7 +16,7 @@ DI CONCERTO CON
 
 IL MINISTRO DEL TESORO
 
-Visto il [decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419), convertito in [legge 18 febbraio 1992, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172), recante l'istituzione del Fondo di sostegno per le vittime di richieste estorsive;
+Visto il [decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419), convertito in [legge 18 febbraio 1992, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md), recante l'istituzione del Fondo di sostegno per le vittime di richieste estorsive;
 
 Visto, in particolare, l'art. 6, comma 3, del predetto [decreto- legge n. 419/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991;419), con il quale e' stabilito che, con decreto del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro del tesoro, sono emanate le norme regolamentari necessarie per l'attuazione di quanto disposto al comma 1, lettera a), dello stesso articolo in materia di contributo per l'alimentazione del predetto Fondo, determinato sui premi assicurativi raccolti nel territorio dello Stato, nei rami incendio, responsabilita' civile diversi, auto e rischi diversi e furto, relativi ai contratti stipulati a decorrere dalla data di entrata in vigore del medesimo decreto-legge;
 
@@ -24,7 +24,7 @@ Visto il testo unico delle leggi sull'esercizio delle assicurazioni private, app
 
 Vista la [legge 29 ottobre 1961, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-10-29;1216), recante nuove disposizioni tributarie in materie di assicurazioni private e di contratti vitalizi, e le successive modificazioni ed integrazioni;
 
-Vista la [legge 10 giugno 1978, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;295), recante nuove norme per l'esercizio delle assicurazioni private contro i danni, e le succes- sive disposizioni modificative ed integrative;
+Vista la [legge 10 giugno 1978, n. 295](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md), recante nuove norme per l'esercizio delle assicurazioni private contro i danni, e le succes- sive disposizioni modificative ed integrative;
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -45,7 +45,7 @@ Le aliquote delle imposte sulle assicurazioni di cui alla [legge 29 ottobre 1961
 Le aliquote, nella misura indicata al comma 1, si applicano sui premi pagati per i contratti di assicurazione stipulati o rinnovati a decorrere dal 2 gennaio 1992.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota al titolo:
  - Il [comma 3 dell'art. 6 del D.L. n. 419/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991;419#art_6-com3), prevede che: "Con decreto del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro del tesoro, sono emanate, entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, le norme regolamentari necessarie per l'attuazione di quanto disposto al comma 1, lettera a)".
  Il comma 1, lettera a), del medesimo art. 3 (soprarichiamato) stabilisce che il Fondo di sostegno per le vittime di richieste estorsive sia alimentato da un contributo sui premi assicurativi, raccolti nel territorio dello Stato nei rami incendio, responsabilita' civile diversi, auto rischi diversi e furto, relativi ai contratti stipulati a decorrere dalla data di entrata in vigore del decreto.

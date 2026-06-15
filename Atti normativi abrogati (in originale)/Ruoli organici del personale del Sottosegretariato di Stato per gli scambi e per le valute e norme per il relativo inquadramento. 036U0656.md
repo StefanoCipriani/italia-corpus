@@ -20,7 +20,7 @@ Visto il R. decreto 29 dicembre 1935-XIV, n. 2186, che istituisce il Sottosegret
 
 Visto il R. decreto 27 gennaio 1936-XIV, n. 71, che determina la costituzione delle direzioni generali presso il Sottosegretariato di Stato medesimo;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive variazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive variazioni;
 
 Visto il [R. decreto-legge 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato, e successive modificazioni;
 
@@ -40,7 +40,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Oltre ai servizi ed al personale indicati nell'[art. 3 del R. decreto 29 dicembre 1935, n. 2186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-12-29;2186#art_3), sono trasferiti al Sottosegretariato di Stato per gli scambi e per le valute, gli Uffici geografici d'informazioni, l'Ufficio dogane, l'Ufficio speciale dei permessi o nulla osta d'esportazione dell'Istituto nazionale fascista per il commercio estero ed il Servizio sovraintendenza dell'Istituto nazionale per i cambi con l'estero. 
+Oltre ai servizi ed al personale indicati nell'[art. 3 del R. decreto 29 dicembre 1935, n. 2186](Istituzione%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20scambi%20e%20per%20le%20valute.%20035U2186.md), sono trasferiti al Sottosegretariato di Stato per gli scambi e per le valute, gli Uffici geografici d'informazioni, l'Ufficio dogane, l'Ufficio speciale dei permessi o nulla osta d'esportazione dell'Istituto nazionale fascista per il commercio estero ed il Servizio sovraintendenza dell'Istituto nazionale per i cambi con l'estero. 
  
  Al Sottosegretariato di Stato medesimo viene trasferito il personale addetto ai servizi di cui al precedente comma nei limiti che saranno stabiliti dal Consiglio di amministrazione del Sottosegretariato di Stato stesso e senza comunque eccedere la disponibilita' dei posti previsti per i singoli gradi nei ruoli organici, salvo pero' il disposto dell'[art. 108 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_108).
 
@@ -50,7 +50,7 @@ I ruoli organici del personale del Sottosegretariato di Stato per gli scambi e p
 
 ## Art. 3.
 
-L'inquadramento nel ruolo previsto nella tabella A annessa al presente decreto del personale indicato all'[art. 3 del R. decreto 29 dicembre 1935, n. 2186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-12-29;2186#art_3), ed al precedente art. 1 sara' effettuato secondo le norme previste negli articoli seguenti e senza comunque eccedere la disponibilita' dei posti previsti per i singoli gradi nei ruoli organici, salvo pero' il disposto dell'[art. 108 del Regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_108).
+L'inquadramento nel ruolo previsto nella tabella A annessa al presente decreto del personale indicato all'[art. 3 del R. decreto 29 dicembre 1935, n. 2186](Istituzione%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20scambi%20e%20per%20le%20valute.%20035U2186.md), ed al precedente art. 1 sara' effettuato secondo le norme previste negli articoli seguenti e senza comunque eccedere la disponibilita' dei posti previsti per i singoli gradi nei ruoli organici, salvo pero' il disposto dell'[art. 108 del Regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_108).
 
 ## Art. 4.
 
@@ -62,7 +62,7 @@ Per il personale di ruolo delle Amministrazioni dello Stato, civili e militari, 
 
 ## Art. 5.
 
-Per il personale in servizio presso il Sottosegretariato di Stato per gli scambi e per le valute, proveniente da Enti di diritto pubblico, di cui all'[art. 3 del R. decreto 29 dicembre 1935, n. 2186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-12-29;2186#art_3) e per quello di cui all'art. 1 del presente decreto, l'inquadramento sara' effettuato su conforme parere di apposita Commissione presieduta dal Sottosegretario di Stato, composta dai Direttori generali del Sottosegretariato di Stato, ed assistita da un segretario scelto ai sensi dell'ultimo comma dell'art. 18 del presente decreto. 
+Per il personale in servizio presso il Sottosegretariato di Stato per gli scambi e per le valute, proveniente da Enti di diritto pubblico, di cui all'[art. 3 del R. decreto 29 dicembre 1935, n. 2186](Istituzione%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20scambi%20e%20per%20le%20valute.%20035U2186.md) e per quello di cui all'art. 1 del presente decreto, l'inquadramento sara' effettuato su conforme parere di apposita Commissione presieduta dal Sottosegretario di Stato, composta dai Direttori generali del Sottosegretariato di Stato, ed assistita da un segretario scelto ai sensi dell'ultimo comma dell'art. 18 del presente decreto. 
  
  L'inquadramento del personale di cui al precedente comma nei ruoli di gruppo A e B, e' subordinato al possesso dei requisiti seguenti: 
  
@@ -144,7 +144,7 @@ Ai fini esclusivi dell'applicazione dei precedenti articoli, riguardanti l'inqua
 
 ## Art. 16.
 
-Nel primo inquadramento i funzionari dello Stato di cui all'[art. 3 del R. decreto 29 dicembre 1935, n. 2186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-12-29;2186#art_3), appartenenti al gruppo C, al quale siano pervenuti senza fruire delle agevolazioni di cui al decreto 18 dicembre 1930, n. 1733, potranno, a giudizio del Consiglio di amministrazione, essere inquadrati al grado iniziale nel gruppo immediatamente superiore se siano in possesso del titolo di studio relativo al gruppo B e se abbiano disimpegnate, per non meno di 2 anni, le funzioni proprie di questo ultimo gruppo.
+Nel primo inquadramento i funzionari dello Stato di cui all'[art. 3 del R. decreto 29 dicembre 1935, n. 2186](Istituzione%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20scambi%20e%20per%20le%20valute.%20035U2186.md), appartenenti al gruppo C, al quale siano pervenuti senza fruire delle agevolazioni di cui al decreto 18 dicembre 1930, n. 1733, potranno, a giudizio del Consiglio di amministrazione, essere inquadrati al grado iniziale nel gruppo immediatamente superiore se siano in possesso del titolo di studio relativo al gruppo B e se abbiano disimpegnate, per non meno di 2 anni, le funzioni proprie di questo ultimo gruppo.
 
 ## Art. 17.
 
@@ -160,11 +160,11 @@ Ai sensi dell'ultimo comma dell'[art. 11 del R. decreto 30 dicembre 1923, n. 296
  
  Per il personale subalterno il Consiglio di amministrazione e' composto in conformita' dell'art. 112 del decreto 30 dicembre 1923, n. 2960. 
  
- Fino alla emanazione dei decreti di inquadramento di cui ai precedenti articoli le funzioni di segretario dei Consigli di amministrazione di cui al precedenti commi saranno disimpegniate da un funzionario di ruolo scelto fra quelli trasferiti ai sensi dell'[art. 3 del R. decreto 29 dicembre 1935, n. 2186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-12-29;2186#art_3).
+ Fino alla emanazione dei decreti di inquadramento di cui ai precedenti articoli le funzioni di segretario dei Consigli di amministrazione di cui al precedenti commi saranno disimpegniate da un funzionario di ruolo scelto fra quelli trasferiti ai sensi dell'[art. 3 del R. decreto 29 dicembre 1935, n. 2186](Istituzione%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20scambi%20e%20per%20le%20valute.%20035U2186.md).
 
 ## Art. 19.
 
-I provvedimenti pel trasferimento dei singoli impiegati appartenenti all'Amministrazione dello Stato, di cui all'[art. 3 del R. decreto 29 dicembre 1935, n. 2186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-12-29;2186#art_3), alle dipendenze del Sottosegretariato di Stato per gli scambi e per le valute sono disposti mediante decreti del Capo del Governo, Primo Ministro Segretario di Stato, di concerto con i Ministri competenti. 
+I provvedimenti pel trasferimento dei singoli impiegati appartenenti all'Amministrazione dello Stato, di cui all'[art. 3 del R. decreto 29 dicembre 1935, n. 2186](Istituzione%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20scambi%20e%20per%20le%20valute.%20035U2186.md), alle dipendenze del Sottosegretariato di Stato per gli scambi e per le valute sono disposti mediante decreti del Capo del Governo, Primo Ministro Segretario di Stato, di concerto con i Ministri competenti. 
  
  Fino all'emanazione di tali decreti, il personale suddetto continuera' a percepire gli stipendi e gli altri assegni a carico delle Amministrazioni dei cui ruoli fa parte.
 

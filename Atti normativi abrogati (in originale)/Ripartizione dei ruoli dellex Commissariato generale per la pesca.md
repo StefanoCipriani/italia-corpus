@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-In applicazione del [decreto legislativo 31 marzo 1947, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-03-31;396), i seguenti ruoli organici dell'ex Commissariato generale per la pesca, istituiti con [regio decreto 9 dicembre 1941, n. 1644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-12-09;1644), sono assegnati al Ministero dell'agricoltura e delle foreste:
+In applicazione del [decreto legislativo 31 marzo 1947, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-03-31;396), i seguenti ruoli organici dell'ex Commissariato generale per la pesca, istituiti con [regio decreto 9 dicembre 1941, n. 1644](Approvazione%20dei%20ruoli%20organici%20del%20Commissariato%20generale%20per%20la%20pesca.%20041U1644.md), sono assegnati al Ministero dell'agricoltura e delle foreste:
  1) ruolo tecnico scientifico (gruppo A);
  2) ruolo dei servizi speciali (gruppo B);
  3) ruolo dei servizi sussidiari (gruppo C);
@@ -24,13 +24,13 @@ In applicazione del [decreto legislativo 31 marzo 1947, n. 396](https://www.norm
 
 ## Art. 2.
 
-I seguenti ruoli organici dell'ex Commissariato generale per la pesca, di cui al [regio decreto 9 dicembre 1941, n. 1644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-12-09;1644), sono ripartiti, in attuazione dell'[art. 7, comma secondo, del decreto legislativo 7 maggio 1948, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;615#art_7-com2), fra il Ministero dell'agricoltura e delle foreste e quello della Marina mercantile, secondo la tabella annessa al presente decreto:
+I seguenti ruoli organici dell'ex Commissariato generale per la pesca, di cui al [regio decreto 9 dicembre 1941, n. 1644](Approvazione%20dei%20ruoli%20organici%20del%20Commissariato%20generale%20per%20la%20pesca.%20041U1644.md), sono ripartiti, in attuazione dell'[art. 7, comma secondo, del decreto legislativo 7 maggio 1948, n. 615](../Decreti%20Legislativi/Organizzazione%20dei%20servizi%20e%20istituzione%20dei%20ruoli%20organici%20del%20Ministero%20della%20marina%20mercantile.md), fra il Ministero dell'agricoltura e delle foreste e quello della Marina mercantile, secondo la tabella annessa al presente decreto:
  1) ruolo direttivo-amministrativo (gruppo A);
  2) ruolo ispettivo (gruppo B);
  3) ruolo d'ordine (gruppo C);
  4) ruolo del personale subalterno.
  A decorrere dalla data della presente legge, i ruoli direttivo-amministrativo, ispettivo, d'ordine e del personale subalterno, per la parte attribuita al Ministero dell'agricoltura e delle foreste, sono assorbiti, rispettivamente, nei ruoli di cui alle tabelle I, IV, V e VI, annesse al [decreto legislativo 5 maggio 1948, n. 502](Revisione%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.md).
- Con la stessa decorrenza, i ruoli direttivo amministrativo, d'ordine e del personale subalterno, sono assorbiti, per la parte attribuita al Ministero della marina mercantile, rispettivamente nei ruoli di cui alla tabella annessa alla [legge 17 febbraio 1951, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-02-17;83), e di cui alla tabella A (gruppo C: ruolo d'ordine e personale subalterno) annessa al [decreto legislativo 7 maggio 1948, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;615).
+ Con la stessa decorrenza, i ruoli direttivo amministrativo, d'ordine e del personale subalterno, sono assorbiti, per la parte attribuita al Ministero della marina mercantile, rispettivamente nei ruoli di cui alla tabella annessa alla [legge 17 febbraio 1951, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-02-17;83), e di cui alla tabella A (gruppo C: ruolo d'ordine e personale subalterno) annessa al [decreto legislativo 7 maggio 1948, n. 615](../Decreti%20Legislativi/Organizzazione%20dei%20servizi%20e%20istituzione%20dei%20ruoli%20organici%20del%20Ministero%20della%20marina%20mercantile.md).
 
 ## Art. 3.
 

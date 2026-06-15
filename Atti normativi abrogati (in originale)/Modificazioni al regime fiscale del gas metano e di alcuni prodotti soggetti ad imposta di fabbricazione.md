@@ -96,7 +96,7 @@ Sulle somme non versate tempestivamente si applica l'indennita' di mora del 6 pe
 
 12.
 
-Sulle somme non versate tempestivamente si applica, inoltre, l'interesse nella misura stabilita dall'[articolo 13 del decreto-legge 30 settembre 1982, n. 688](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-09-30;688#art_13), convertito, con modificazioni, dalla [legge 27 novembre 1982, n. 873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-27;873).
+Sulle somme non versate tempestivamente si applica, inoltre, l'interesse nella misura stabilita dall'[articolo 13 del decreto-legge 30 settembre 1982, n. 688](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-09-30;688#art_13), convertito, con modificazioni, dalla [legge 27 novembre 1982, n. 873](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201982%20n.%20688%20recante%20misure%20urgenti%20in%20materia%20di%20entrate%20fiscali.md).
 
 13.
 
@@ -114,7 +114,7 @@ L'imposta di fabbricazione e la corrispondente sovrimposta di confine sullo spir
 
 2.
 
-L'aliquota ridotta dell'imposta di fabbricazione e della corrispondente sovrimposta di confine prevista fino al 31 dicembre 1988 dall'[articolo 3, comma 1- bis, del decreto-legge 15 giugno 1984, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-06-15;232#art_3-com1bis), convertito, con modificazioni, dalla [legge 28 luglio 1984, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-28;408), e' aumentata, fino alla predetta data, da lire 340 mila a lire 442 mila per ettanidro, alla temperatura di 20 gradi centigradi.
+L'aliquota ridotta dell'imposta di fabbricazione e della corrispondente sovrimposta di confine prevista fino al 31 dicembre 1988 dall'[articolo 3, comma 1- bis, del decreto-legge 15 giugno 1984, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-06-15;232#art_3-com1bis), convertito, con modificazioni, dalla [legge 28 luglio 1984, n. 408](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20giugno%201984%20n.%20232%20concernente%20modificazioni%20al%20regime%20fiscale%20per%20gli%20alcoli%20e%20per%20alcune%20bevande%20alcoliche%20in%20attuazione%20dell_65efd0b66024.md), e' aumentata, fino alla predetta data, da lire 340 mila a lire 442 mila per ettanidro, alla temperatura di 20 gradi centigradi.
 
 3.
 

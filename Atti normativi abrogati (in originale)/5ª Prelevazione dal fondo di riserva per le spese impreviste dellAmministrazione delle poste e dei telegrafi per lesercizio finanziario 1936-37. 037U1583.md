@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Vista la legge 4 maggio 1936-XIV, n. 844, che approva gli stati di previsione dell'Azienda autonoma delle poste e dei telegrafi per l'esercizio finanziario 1936-37;
 
-Visto l'[art. 21 del R. decreto 23 aprile 1925, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;520#art_21), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto l'[art. 21 del R. decreto 23 aprile 1925, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;520#art_21), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto che il fondo di riserva per le spese impreviste dell'Amministrazione delle poste e dei telegrafi presenta una disponibilita' di L. 9.280.755 depositate in conto corrente speciale presso la Tesoreria centrale del Regno;
 

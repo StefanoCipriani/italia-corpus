@@ -12,7 +12,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Vista la [legge 24 giugno 1929, n. 1138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-24;1138);
+ Vista la [legge 24 giugno 1929, n. 1138](Modificazioni%20alla%20legge%2017%20maggio%201928%20n.%201094%20Istitutiva%20dellAzienda%20autonoma%20statale%20della%20strada.%20029U1138.md);
  Ritenuta l'opportunita' di classificare nella rete delle strade statali in prolungamento della strada statale n. 106 "Ionica" la strada bivio Favella Taranto;
  Visto il voto 9 settembre 1940, n. 3150, del Consiglio di amministrazione dell'Azienda autonoma statale della strada;
  Visti i voti 15 aprile 1940, n. 862, e 28 luglio 1941, n. 1618, del Consiglio superiore dei lavori pubblici;

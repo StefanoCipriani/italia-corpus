@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alle Commissioni comunali istituite col [R. decreto-legge 13 maggio 1923, n. 1159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-13;1159), e' assegnato, per completare il lavoro loro affidato, il termine di un anno dall'entrata in vigore della presente legge.
+Alle Commissioni comunali istituite col [R. decreto-legge 13 maggio 1923, n. 1159](Concernente%20la%20ricostruzione%20dei%20registri%20di%20nascita%20di%20matrimonio%20e%20di%20morte%20e%20la%20formazione%20degli%20atti%20omessi%20o%20i%20regolarmente%20formati%20a%20causa%20della%20guerra%20nei%20Comuni%20della%20Venezia.%20023U1159.md), e' assegnato, per completare il lavoro loro affidato, il termine di un anno dall'entrata in vigore della presente legge.
 
 ## Art. 2.
 

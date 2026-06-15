@@ -66,7 +66,7 @@ Gli ufficiali e agenti di polizia giudiziaria addetti al servizio di controllo a
 
 Gli addetti al servizio di censura e di controllo sono tenuti all'osservanza del segreto sulla corrispondenza e sulle comunicazioni delle quali vengono a conoscenza per ragioni del loro ufficio. 
  
- In caso di trasgressione, si applicano le disposizioni dell'[art. 326 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_326).
+ In caso di trasgressione, si applicano le disposizioni dell'[art. 326 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 8.
 

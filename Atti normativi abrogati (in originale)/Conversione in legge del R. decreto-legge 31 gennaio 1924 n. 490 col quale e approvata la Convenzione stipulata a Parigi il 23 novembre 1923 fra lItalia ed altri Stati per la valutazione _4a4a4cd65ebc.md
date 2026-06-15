@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 gennaio 1924, n. 490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-01-31;490), col quale e approvata la Convenzione stipulata in Parigi il 23 novembre 1923, fra l'Italia, la Francia, il Giappone, la Gran Bretagna e la Romenia per la valutazione e la riparazione dei danni subiti in Turchia dai rispettivi cittadini, adibendo a tale scopo le somme divenute disponibili in base al trattato di pace con la Turchia, firmato a Losanna il 24 luglio 1923. 
+ E' convertito in legge il [R. decreto-legge 31 gennaio 1924, n. 490](Approvazione%20della%20Convenzione%20stipulata%20in%20Parigi%20il%2023%20novembre%201923%20fra%20lItalia%20ed%20altri%20Stati%20per%20la%20valutazione%20e%20la%20riparazione%20dei%20danni%20subiti%20in%20Turchia%20da%20sudditi%20degli%20Stati%20st_e60f2fe3cb85.md), col quale e approvata la Convenzione stipulata in Parigi il 23 novembre 1923, fra l'Italia, la Francia, il Giappone, la Gran Bretagna e la Romenia per la valutazione e la riparazione dei danni subiti in Turchia dai rispettivi cittadini, adibendo a tale scopo le somme divenute disponibili in base al trattato di pace con la Turchia, firmato a Losanna il 24 luglio 1923. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

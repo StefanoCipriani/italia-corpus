@@ -44,7 +44,7 @@ Come misura transitoria e per questa volta soltanto, e' fatta deroga alle preced
 
 ## Art. 3.
 
-Alla spesa sara' provveduto con i fondi assegnati al cap. 53 «Spese per l'applicazione delle [leggi 6 giugno 1901, n. 355, 7 luglio 1907, n. 490 e 26 giugno 1913, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;786), relative ai consorzi di difesa contro la «phylloxera vastatrix» dello stato di previsione della spesa del Ministero per l'agricoltura per l'esercizio 1918-919, ed ai corrispondenti capitoli dei futuri esercizi. 
+Alla spesa sara' provveduto con i fondi assegnati al cap. 53 «Spese per l'applicazione delle [leggi 6 giugno 1901, n. 355, 7 luglio 1907, n. 490 e 26 giugno 1913, n. 786](Che%20approva%20modificazioni%20al%20testo%20unico%20delle%20leggi%206%20giugno%201901%20n.%20355%20e%207%20luglio%201907%20n.%20490%20approvato%20con%20R.%20decreto%2017%20maggio%201908%20n.%20343%20sui%20consorzi%20di%20difesa%20della%20viticoltura%20ed_cb081f4e8931.md), relative ai consorzi di difesa contro la «phylloxera vastatrix» dello stato di previsione della spesa del Ministero per l'agricoltura per l'esercizio 1918-919, ed ai corrispondenti capitoli dei futuri esercizi. 
  
  Questo decreto sara' presentato al Parlamento per essere convertito in legge e andra' in vigore dal 1° luglio 1918. 
  

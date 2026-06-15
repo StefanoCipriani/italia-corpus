@@ -14,7 +14,7 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per fronteggiare il rischio degli incendi boschivi, con particolare riferimento alla tutela ambientale delle aree protette;
 
-Visto l'[articolo 5, comma 9, del decreto-legge 3 maggio 1991, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-03;142#art_5-com9), convertito, con modificazioni, dalla [legge 3 luglio 1991, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-03;195);
+Visto l'[articolo 5, comma 9, del decreto-legge 3 maggio 1991, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-03;142#art_5-com9), convertito, con modificazioni, dalla [legge 3 luglio 1991, n. 195](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201991%20n.%20142%20recante%20provvedimenti%20in%20favore%20delle%20popolazioni%20delle%20province%20di%20Siracusa%20Catania%20e%20Ragusa%20colpite%20dal%20ter_da77d06fcad8.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 agosto 1993;
 
@@ -26,7 +26,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Allo scopo di far fronte alla straordinaria necessita' determinata dal ripetersi, sul territorio nazionale, di incendi boschivi di vasta estensione e gravita' e' destinata la somma di lire 30 miliardi autorizzata dall'[articolo 5, comma 9, del decreto-legge 3 maggio 1991, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-03;142#art_5-com9), convertito, con modificazioni, dalla [legge 3 luglio 1991, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-03;195).
+Allo scopo di far fronte alla straordinaria necessita' determinata dal ripetersi, sul territorio nazionale, di incendi boschivi di vasta estensione e gravita' e' destinata la somma di lire 30 miliardi autorizzata dall'[articolo 5, comma 9, del decreto-legge 3 maggio 1991, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-03;142#art_5-com9), convertito, con modificazioni, dalla [legge 3 luglio 1991, n. 195](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201991%20n.%20142%20recante%20provvedimenti%20in%20favore%20delle%20popolazioni%20delle%20province%20di%20Siracusa%20Catania%20e%20Ragusa%20colpite%20dal%20ter_da77d06fcad8.md).
 
 2.
 

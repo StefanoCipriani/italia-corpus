@@ -2635,7 +2635,7 @@ In tale computo le frazioni di tempo inferiori ad un mese si trascurano.
  
  Art. 296.-b). 
  
- Oltre che nei casi previsti dagli articoli precedenti, l'impiegato condannato per qualunque delitto o contravvenzione ad una qualsiasi delle pene indicate nell'[art. 11 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_11), ovvero prosciolto o assolto con le formule ricordate nell'ultimo comma dell'art. 296, puo' dal Consiglio di amministrazione essere sottoposto a procedimento disciplinare. 
+ Oltre che nei casi previsti dagli articoli precedenti, l'impiegato condannato per qualunque delitto o contravvenzione ad una qualsiasi delle pene indicate nell'[art. 11 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero prosciolto o assolto con le formule ricordate nell'ultimo comma dell'art. 296, puo' dal Consiglio di amministrazione essere sottoposto a procedimento disciplinare. 
  
  Art. 296.-c). 
  

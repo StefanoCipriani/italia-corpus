@@ -16,7 +16,7 @@ Vista la risoluzione del Consiglio di sicurezza dell'Organizzazione delle Nazion
 
 Vista la risoluzione delle Nazioni Unite n. 1088 del 12 dicembre 1996, che auspica l'incremento del numero dei componenti della citata Forza e ne ribadisce finalita' e compiti;
 
-Visto il [decreto-legge 31 gennaio 1997, n. 12](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_3.md), convertito, con modificazioni, dalla [legge 25 marzo 1997, n. 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-25;72), recante, tra l'altro proroga della partecipazione italiana alla missione in Bosnia-Erzegovina;
+Visto il [decreto-legge 31 gennaio 1997, n. 12](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_3.md), convertito, con modificazioni, dalla [legge 25 marzo 1997, n. 72](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%201997%20n.%2012%20recante%20partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron.%20Proroga%20della%20partecipazione%20it_4d11556c690c.md), recante, tra l'altro proroga della partecipazione italiana alla missione in Bosnia-Erzegovina;
 
 Vista la risoluzione delle Nazioni Unite n. 1103 del 31 marzo 1997, che autorizza l'incremento del numero dei componenti della predetta Forza;
 
@@ -44,15 +44,15 @@ Ai fini indicati nell'articolo 1, e' inviato a Breko, con effetto dal 23 maggio 
 
 1.
 
-Al personale del contingente italiano di cui all'articolo 2, in materia di trattamento economico, si applicano le disposizioni dell'[articolo 2, comma 3, del decreto-legge 1 luglio 1996, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346#art_2-com3), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428).
+Al personale del contingente italiano di cui all'articolo 2, in materia di trattamento economico, si applicano le disposizioni dell'[articolo 2, comma 3, del decreto-legge 1 luglio 1996, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346#art_2-com3), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201996%20n.%20346%20concernente%20partecipazione%20italiana%20alla%20missione%20di%20pace%20in%20Bosnia.md).
 
 2.
 
-Al personale militare, non inquadrato nel contingente di cui al comma 1, impiegato a qualsiasi titolo nei territori della Bosnia-Erzegovina per operazioni comunque connesse all'attivita' della IPTF, e' attribuito il trattamento previsto dall'[articolo 2, comma 2, del decreto-legge 1 luglio 1996, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346#art_2-com2), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428).
+Al personale militare, non inquadrato nel contingente di cui al comma 1, impiegato a qualsiasi titolo nei territori della Bosnia-Erzegovina per operazioni comunque connesse all'attivita' della IPTF, e' attribuito il trattamento previsto dall'[articolo 2, comma 2, del decreto-legge 1 luglio 1996, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346#art_2-com2), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201996%20n.%20346%20concernente%20partecipazione%20italiana%20alla%20missione%20di%20pace%20in%20Bosnia.md).
 
 3.
 
-Al personale militare di cui al comma 1 e 2 si applicano, altresi', le disposizioni previste dagli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346#art_5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346#art_6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346#art_7) e [8 del decreto-legge 1 luglio 1996, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346#art_8), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428).
+Al personale militare di cui al comma 1 e 2 si applicano, altresi', le disposizioni previste dagli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346#art_5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346#art_6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346#art_7) e [8 del decreto-legge 1 luglio 1996, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-07-01;346#art_8), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201996%20n.%20346%20concernente%20partecipazione%20italiana%20alla%20missione%20di%20pace%20in%20Bosnia.md).
 
 4.
 

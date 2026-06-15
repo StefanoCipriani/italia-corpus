@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto-legge 18 novembre 1929, n. 2247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-18;2247), recante modificazioni al [R. decreto-legge 2 dicembre 1928, n. 3179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-02;3179), per quanto riguarda la circolazione degli autoveicoli.
+E' convertito in legge il [R. decreto-legge 18 novembre 1929, n. 2247](Modificazioni%20al%20R.%20decreto-legge%202%20dicembre%201928%20n.%203179%20per%20quanto%20riguarda%20la%20circolazione%20degli%20autoveicoli.%20029U2247.md), recante modificazioni al [R. decreto-legge 2 dicembre 1928, n. 3179](Norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20028U3179.md), per quanto riguarda la circolazione degli autoveicoli.
 
 ## Art. 2.
 
-E' convertito in legge il [R. decreto-legge 26 aprile 1930, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-04-26;494), recante norme per la circolazione degli autoveicoli aventi i cerchioni delle ruote rivestiti di gomme piene. 
+E' convertito in legge il [R. decreto-legge 26 aprile 1930, n. 494](Norme%20per%20la%20circolazione%20degli%20autoveicoli%20aventi%20i%20cerchioni%20delle%20ruote%20rivestiti%20di%20gomme%20piene.%20030U0494.md), recante norme per la circolazione degli autoveicoli aventi i cerchioni delle ruote rivestiti di gomme piene. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

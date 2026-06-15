@@ -84,7 +84,7 @@ TITOLO II
 
 ### Art. 11.
 
-Il [quarto comma dell'art. 3 della legge 24 luglio 1961, n. 729](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-24;729#art_3-com4), quale risulta modificato dall'[art. 1 della legge 4 novembre 1963, n. 1464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-11-04;1464#art_1), e' sostituito dal seguente:
+Il [quarto comma dell'art. 3 della legge 24 luglio 1961, n. 729](Piano%20di%20nuove%20costruzioni%20stradali%20ed%20autostradali.md), quale risulta modificato dall'[art. 1 della legge 4 novembre 1963, n. 1464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-11-04;1464#art_1), e' sostituito dal seguente:
  "Qualora l'ente concessionario sia un Consorzio o una Societa' per azioni a prevalente capitale pubblico di cui facciano parte legioni, Province e Comuni, tali enti possono garantire il pagamento del capitale e degli interessi relativi ai mutui contratti ed alle obbligazioni emesse dal Consorzio o dalla Societa'. Gli impegni assunti dagli Enti locali predetti per effetto della garanzia, prestata per finanziamenti od emissioni obbligazionarie possono godere della garanzia sussidiaria dello Stato fino all'intero importo del costo complessivo delle opere risultante dal piano finanziario di cui al precedente art. 2, dedotto il contributo statale. In pendenza del perfezionamento della procedura per l'assunzione dei predetti impegni, puo' essere accordata, con le modalita' previste dal penultimo comma del presente articolo, la garanzia dello Stato, la quale diventa sussidiaria col perfezionamento della procedura medesima".
 
 ## Semplificazione e acceleramento delle procedure per l'approvazione e la gestione dei lavori pubblici
@@ -96,7 +96,7 @@ TITOLO III
 I provveditori alle opere pubbliche ed il presidente del Magistrato per il Po esercitano le attribuzioni loro conferite dal [decreto del Presidente della Repubblica 30 giugno 1955, n. 1534](Decentramento%20dei%20servizi%20del%20Ministero%20dei%20lavori%20pubblici.md), dalla [legge 12 luglio 1956, n. 735](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-12;735), e dalle altre norme generali o speciali, in materia di approvazione di progetti e di contratti ed in materia di concessione e di esecuzione di opere di qualsiasi natura, di competenza dell'Amministrazione dei lavori pubblici, senza alcun limite di valore e senza l'obbligo del preventivo concerto con altre Amministrazioni, nei casi in cui sia richiesto dalle norme in vigore. 
  Quando si tratti di opere eccedenti la circoscrizione di un Provveditorato, il Ministro per i lavori pubblici designa, con proprio decreto, il provveditore cui e' demandata l'approvazione dei progetti e dei contratti e la gestione dei lavori. 
  Sui progetti e sui contratti riguardanti le opere previste dai commi precedenti di importo eccedente i 100 milioni e' richiesto il parere del solo Comitato tecnico amministrativo. 
- Le disposizioni del presente articolo si applicano anche all'approvazione dei progetti e dei contratti per le opere di edilizia scolastica e per le opere igieniche e sanitarie di cui alla [legge 10 agosto 1964, n. 717](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-08-10;717).
+ Le disposizioni del presente articolo si applicano anche all'approvazione dei progetti e dei contratti per le opere di edilizia scolastica e per le opere igieniche e sanitarie di cui alla [legge 10 agosto 1964, n. 717](Modifiche%20alla%20legge%2030%20luglio%201959%20n.%20595%20concernente%20norme%20sullapprovazione%20di%20progetti%20per%20la%20costruzione%20di%20opere%20igieniche.md).
 
 ### Art. 13.
 
@@ -136,7 +136,7 @@ Per l'appalto delle opere di competenza dei Provveditorati alle opere pubbliche,
 
 ### Art. 18.
 
-I limiti di importo stabiliti dall'art. 19, primo e secondo comma, del regio decreto 8 febbraio, 1923, n. 422, modificato dalla [legge 23 febbraio 1952, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-23;133), sono elevati da due a dieci milioni di lire.
+I limiti di importo stabiliti dall'art. 19, primo e secondo comma, del regio decreto 8 febbraio, 1923, n. 422, modificato dalla [legge 23 febbraio 1952, n. 133](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2025%20luglio%201947%20n.%201095%20concernente%20modificazioni%20al%20regio%20decreto%208%20febbraio%201923%20n.%20422%20recante%20norme%20per%20la%20esecuzione%20di%20opere%20pubbliche.md), sono elevati da due a dieci milioni di lire.
 
 ### Art. 19.
 
@@ -182,7 +182,7 @@ TITOLO IV
 
 ### Art. 26.
 
-Per attuare gli interventi diretti al risanamento, al miglioramento ed all'incremento del patrimonio zootecnico di cui all'[art. 1 della legge 23 maggio 1964, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-23;404#art_1), e' autorizzata l'ulteriore spesa di lire 2.500.000.000, da iscriversi nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste per l'esercizio finanziario 1965.
+Per attuare gli interventi diretti al risanamento, al miglioramento ed all'incremento del patrimonio zootecnico di cui all'[art. 1 della legge 23 maggio 1964, n. 404](Provvidenze%20straordinarie%20in%20favore%20della%20zootecnia%20della%20olivicoltura%20e%20della%20bieticoltura.md), e' autorizzata l'ulteriore spesa di lire 2.500.000.000, da iscriversi nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste per l'esercizio finanziario 1965.
 
 ### Art. 27.
 
@@ -190,12 +190,12 @@ E' autorizzata la spesa di lire 2.000.000.000 per il risanamento del patrimonio 
 
 ### Art. 28.
 
-E' autorizzata, per l'esercizio finanziario 1965, la spesa di lire 4 miliardi per incrementare il "fondo di rotazione" istituito dalla [legge 8 agosto 1957, n. 777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-08-08;777), recante provvidenze creditizie per la zootecnia.
+E' autorizzata, per l'esercizio finanziario 1965, la spesa di lire 4 miliardi per incrementare il "fondo di rotazione" istituito dalla [legge 8 agosto 1957, n. 777](Provvidenze%20creditizie%20per%20la%20zootecnia.md), recante provvidenze creditizie per la zootecnia.
  Ai prestiti concessi con le disponibilita' di cui al presente articolo si applica, il disposto del [sesto comma dell'art. 16 della legge 2 giugno 1961, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-02;454#art_16-com6).
 
 ### Art. 29.
 
-L'autorizzazione di spesa di lire 4 miliardi per l'ampliamento, l'ammodernamento, la costruzione, la lavorazione, la trasformazione e la diretta vendita al consumo dei prodotti zootecnici e relativi sottoprodotti, di cui all'[art. 5 della legge 23 maggio 1964, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-23;404#art_5), e' aumentata a lire 6 miliardi.
+L'autorizzazione di spesa di lire 4 miliardi per l'ampliamento, l'ammodernamento, la costruzione, la lavorazione, la trasformazione e la diretta vendita al consumo dei prodotti zootecnici e relativi sottoprodotti, di cui all'[art. 5 della legge 23 maggio 1964, n. 404](Provvidenze%20straordinarie%20in%20favore%20della%20zootecnia%20della%20olivicoltura%20e%20della%20bieticoltura.md), e' aumentata a lire 6 miliardi.
 
 ### Art. 30.
 
@@ -207,18 +207,18 @@ E' autorizzata la spesa di lire 4 miliardi per la prosecuzione del programma str
 
 ### Art. 32.
 
-E' autorizzata la spesa di lire 2.500.000.000 per la esecuzione, nel territorio del Delta Padano, a totale carico dello Stato, dei lavori piu' urgenti di sistemazione degli argini a mare nonche' per il ripristino di opere pubbliche di bonifica previste dal titolo II della [legge 25 luglio 1957, n. 595](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-25;595).
+E' autorizzata la spesa di lire 2.500.000.000 per la esecuzione, nel territorio del Delta Padano, a totale carico dello Stato, dei lavori piu' urgenti di sistemazione degli argini a mare nonche' per il ripristino di opere pubbliche di bonifica previste dal titolo II della [legge 25 luglio 1957, n. 595](Esecuzione%20di%20opere%20pubbliche%20di%20bonifica%20e%20provvidenze%20a%20favore%20delle%20aziende%20agricole%20del%20Delta%20Padano%20della%20Lombardia%20del%20Piemonte%20e%20della%20Valle%20dAosta%20danneggiate%20da%20eccezionali%20calam_9ca273e51bc3.md).
 
 ### Art. 33.
 
 E' autorizzata la spesa di lire 18 miliardi per l'attuazione di opere pubbliche di bonifica previste dal [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215) e successive modificazioni ed integrazioni, nonche' per gli scopi di cui all'[articolo 26 della legge 2 giugno 1961, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-02;454#art_26).
- La somma di cui al precedente comma e' utilizzata, in misura non inferiore ad un terzo, per l'esecuzione delle opere irrigue previste dagli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-10;1087#art_1) e [2 della legge 10 novembre 1954, n. 1087](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-10;1087#art_2).
+ La somma di cui al precedente comma e' utilizzata, in misura non inferiore ad un terzo, per l'esecuzione delle opere irrigue previste dagli [articoli 1](Attuazione%20di%20un%20programma%20straordinario%20di%20opere%20irrigue%20e%20di%20colonizzazione.md) e [2 della legge 10 novembre 1954, n. 1087](Attuazione%20di%20un%20programma%20straordinario%20di%20opere%20irrigue%20e%20di%20colonizzazione.md).
  Con decreto del Ministro per l'agricoltura, e per la foreste saranno determinate le somma da destinare rispettivamente agli scopi di cui ai precitati articoli.
  Per l'esecuzione delle opere finanziate con i fondi di cui al primo comma si applicano le disposizioni degli [articoli 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-02;454#art_24) e [26 della legge 2 giugno 1961, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-02;454#art_26), in tutti i territori classificati comprensori di bonifica.
 
 ### Art. 34.
 
-E' autorizzata la spesa di lire 8 miliardi per la esecuzione da parte degli Enti e Sezioni di riforma fondiaria di opere pubbliche di bonifica, di miglioramento fondiario, di opere di interesse collettivo, nei territori e con le modalita' di cui alle [leggi 12 maggio 1950, n. 230 e 21 ottobre 1950, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841), e successive modificazioni ed integrazioni.
+E' autorizzata la spesa di lire 8 miliardi per la esecuzione da parte degli Enti e Sezioni di riforma fondiaria di opere pubbliche di bonifica, di miglioramento fondiario, di opere di interesse collettivo, nei territori e con le modalita' di cui alle [leggi 12 maggio 1950, n. 230 e 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e successive modificazioni ed integrazioni.
 
 ### Art. 35.
 
@@ -251,8 +251,8 @@ TITOLO VI
 
 ### Art. 39.
 
-Gli Istituti regionali per il finanziamento alle medie e piccole industrie, di cui alle [leggi 22 giugno 1950 n. 445, 13 marzo 1953, n. 208 e 31 luglio 1957, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-31;742), l'istituto per lo sviluppo economico dell'Italia meridionale (I.S.V.E.I.M.E.R.), l'Istituto regionale per il finanziamento alle medie e piccole industrie in Sicilia (I.R.F.I.S.) ed il Credito industriale sardo (C.I.S.). di cui alla [legge 11 aprile 1953, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;298), nonche' le Sezioni di credito industriale del Banco di Napoli e del Banco di Sicilia, istituite ai sensi del [decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-14;1598), convertito in [legge 29 dicembre 1948, n. 1482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-29;1482), possono compiere, sino al 31 dicembre 1966, anche in deroga ai loro statuti, nei confronti delle imprese - industriali e commerciali - operanti nelle rispettive zone di competenza territoriale ed indipendentemente dalle dimensioni delle imprese stesse, operazioni di finanziamento a medio termine, anche sotto forma di sconto degli effetti, derivanti dalle vendite di macchinari a piccole e medie imprese industriali.
- Il trattamento tributario e' quello di cui alla, [legge 27 luglio 1962, n. 1228, ed all'art. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-07-27;1228#art_6) della [legge 22 giugno 1950, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-22;445).
+Gli Istituti regionali per il finanziamento alle medie e piccole industrie, di cui alle [leggi 22 giugno 1950 n. 445, 13 marzo 1953, n. 208 e 31 luglio 1957, n. 742](Costituzione%20di%20un%20Istituto%20di%20credito%20per%20il%20finanziamento%20a%20medio%20termine%20alle%20medie%20e%20piccole%20industrie%20situate%20nel%20territorio%20della%20provincia%20di%20Udine.md), l'istituto per lo sviluppo economico dell'Italia meridionale (I.S.V.E.I.M.E.R.), l'Istituto regionale per il finanziamento alle medie e piccole industrie in Sicilia (I.R.F.I.S.) ed il Credito industriale sardo (C.I.S.). di cui alla [legge 11 aprile 1953, n. 298](Sviluppo%20dellattivita%20creditizia%20nel%20campo%20industriale%20nellItalia%20meridionale%20ed%20insulare.md), nonche' le Sezioni di credito industriale del Banco di Napoli e del Banco di Sicilia, istituite ai sensi del [decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-14;1598), convertito in [legge 29 dicembre 1948, n. 1482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-29;1482), possono compiere, sino al 31 dicembre 1966, anche in deroga ai loro statuti, nei confronti delle imprese - industriali e commerciali - operanti nelle rispettive zone di competenza territoriale ed indipendentemente dalle dimensioni delle imprese stesse, operazioni di finanziamento a medio termine, anche sotto forma di sconto degli effetti, derivanti dalle vendite di macchinari a piccole e medie imprese industriali.
+ Il trattamento tributario e' quello di cui alla, [legge 27 luglio 1962, n. 1228, ed all'art. 6](Trattamento%20tributario%20degli%20Istituti%20di%20credito%20a%20medio%20e%20lungo%20termine.md) della [legge 22 giugno 1950, n. 445](Costituzione%20di%20Istituti%20regionali%20per%20il%20finanziamento%20alle%20medie%20e%20piccole%20industrie.md).
 
 ### Art. 40.
 
@@ -281,7 +281,7 @@ I fabbricati di nuova costruzione destinati ad uso di abitazione non di lusso, a
 
 ### Art. 44.
 
-Fino al 31 dicembre 1966, l'imposta per i trasferimenti a titolo oneroso e per i conferimenti in societa' di fabbricati e di aree destinati alla costruzione edilizia, situati nel territorio nazionale, stabilita dagli articoli 1 e 81, lettera c), e da quelli che vi fanno richiamo, della tariffa, allegato A, al [regio decreto 30 dicembre 1923, n. 3269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3269) e successive modificazioni, e' dovuta nella misura di lire quattro per ogni cento lire.
+Fino al 31 dicembre 1966, l'imposta per i trasferimenti a titolo oneroso e per i conferimenti in societa' di fabbricati e di aree destinati alla costruzione edilizia, situati nel territorio nazionale, stabilita dagli articoli 1 e 81, lettera c), e da quelli che vi fanno richiamo, della tariffa, allegato A, al [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) e successive modificazioni, e' dovuta nella misura di lire quattro per ogni cento lire.
  I trasferimenti dei beni indicati nel primo comma, che avvengano nel termine ivi fissato ed entro tre anni da altro trasferimento a titolo oneroso, sul quale sia stata pagata l'imposta normale, sono soggetti alla stessa imposta di cui al comma precedente ridotta di un quarto, fino a concorrenza del valore precedentemente tassato.
  Sui trasferimenti successivi alla data del 31 dicembre 1966, che avvengano entro tre anni da altro trasferimento degli stessi beni indicati nel primo comma, la riduzione del quarto si applica con riferimento alla aliquota normale del 7,50 per cento.
  Per i trasferimenti immobiliari di cui all'[art. 17 della, legge 2 luglio 1949, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-07-02;408#art_17), l'imposta di registro e' dovuta in ragione di lire 1,50 per cento.
@@ -289,11 +289,11 @@ Fino al 31 dicembre 1966, l'imposta per i trasferimenti a titolo oneroso e per i
 
 ### Art. 45.
 
-La riduzione a quattro quinti della misura normale dell'imposta comunale di consumo sui materiali da costruzione, prevista dall'[art. 5, primo comma, lettera d), della legge 2 febbraio 1960, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-02-02;35#art_5-com1-letd), e' estesa ai fabbricati di nuova costruzione destinati ad uso di abitazione non di lusso ultimati entro il 31 dicembre 1966.
+La riduzione a quattro quinti della misura normale dell'imposta comunale di consumo sui materiali da costruzione, prevista dall'[art. 5, primo comma, lettera d), della legge 2 febbraio 1960, n. 35](Agevolazioni%20tributarie%20in%20materia%20di%20edilizia.md), e' estesa ai fabbricati di nuova costruzione destinati ad uso di abitazione non di lusso ultimati entro il 31 dicembre 1966.
 
 ### Art. 46.
 
-Ai lavoratori che cesseranno dal lavoro entro il 1 luglio 1965 e aventi diritto all'indennita' giornaliera di disoccupazione, competono, per la durata in cui e' corrisposta, detta indennita', e in luogo delle maggiorazioni di cui all'[art. 1 della legge 20 ottobre 1960, numero 1237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-20;1237#art_1), gli assegni familiari di cui al testo unico approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-05-30;797), e successive modificazioni.
+Ai lavoratori che cesseranno dal lavoro entro il 1 luglio 1965 e aventi diritto all'indennita' giornaliera di disoccupazione, competono, per la durata in cui e' corrisposta, detta indennita', e in luogo delle maggiorazioni di cui all'[art. 1 della legge 20 ottobre 1960, numero 1237](Disposizioni%20in%20materia%20di%20prestazioni%20per%20la%20disoccupazione%20involontaria.md), gli assegni familiari di cui al testo unico approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni.
  Detti assegni sono corrisposti a carico della Cassa unica per gli assegni familiari, osservando, in quanto applicabile, la disposizione di cui al terzo comma dell'art. 14 del testo unico delle norme sugli assegni familiari soprarichiamato.
  La disposizione di cui al primo comma si applica anche a coloro che, essendo cessati dal lavoro anteriormente alla data di entrata in vigore del presente decreto, siano in continuita' di disoccupazione.
 In tal caso gli assegni familiari sono corrisposti per il periodo residuo di godimento dell'indennita' di disoccupazione.
@@ -301,7 +301,7 @@ In tal caso gli assegni familiari sono corrisposti per il periodo residuo di god
 
 ### Art. 47.
 
-Le disposizioni di cui al presente decreto non si applicano ai lavoratori dipendenti dalle aziende industriali dell'edilizia e affini di cui al [decreto-legge 23 dicembre 1964, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-12-23;1354), convertito nella [legge 19 febbraio 1965, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-02-19;31).
+Le disposizioni di cui al presente decreto non si applicano ai lavoratori dipendenti dalle aziende industriali dell'edilizia e affini di cui al [decreto-legge 23 dicembre 1964, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-12-23;1354), convertito nella [legge 19 febbraio 1965, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201964%20n.%201354%20contenente%20disposizioni%20straordinarie%20in%20favore%20degli%20operai%20disoccupati%20dellindustria%20edile%20e%20di%20quelle%20affini.md).
 
 ## Norme finali
 
@@ -309,12 +309,12 @@ TITOLO IX
 
 ### Art. 48.
 
-Le disponibilita' del Fondo costituito con l'[art. 7 del decreto-legge 23 gennaio 1958, n. 8](Facolta%20di%20rinnovo%20dei%20buoni%20del%20Tesoro%20novennali%205%20con%20scadenza%201%20aprile%201959%20e%20costituzione%20di%20un%20Fondo%20destinato%20al%20graduale%20acquisto%20sul%20mercato%20di%20buoni%20del%20Tesoro%20novennali.md), convertito nella [legge 23 febbraio 1958, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-23;84), sono utilizzate anche per effettuare versamenti al bilancio dello Stato in relazione ai contributi straordinari di cui al precedente art. 38, nonche' per l'aumento del fondo di dotazione dell'Istituto centrale per il credito a medio termine (Mediocredito Centrale) di cui al precedente art. 41.
+Le disponibilita' del Fondo costituito con l'[art. 7 del decreto-legge 23 gennaio 1958, n. 8](Facolta%20di%20rinnovo%20dei%20buoni%20del%20Tesoro%20novennali%205%20con%20scadenza%201%20aprile%201959%20e%20costituzione%20di%20un%20Fondo%20destinato%20al%20graduale%20acquisto%20sul%20mercato%20di%20buoni%20del%20Tesoro%20novennali.md), convertito nella [legge 23 febbraio 1958, n. 84](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2023%20gennaio%201958%20n.%208%20concernente%20la%20facolta%20di%20rinnovo%20dei%20buoni%20del%20Tesoro%20novennali%205%20per%20cento%20con%20scadenza%20al%201%20aprile%201959%20e%20costituzione%20di%20un_237e0a9666c0.md), sono utilizzate anche per effettuare versamenti al bilancio dello Stato in relazione ai contributi straordinari di cui al precedente art. 38, nonche' per l'aumento del fondo di dotazione dell'Istituto centrale per il credito a medio termine (Mediocredito Centrale) di cui al precedente art. 41.
  Le somme cosi' versate allo stato di previsione della entrata sono, correlativamente, iscritte nello stato di previsione della spesa del Ministero del lavoro e della previdenza sociale.
 
 ### Art. 49.
 
-E' conferito al Fondo costituito con l'[art. 7 del decreto-legge 23 gennaio 1958, n. 8](Facolta%20di%20rinnovo%20dei%20buoni%20del%20Tesoro%20novennali%205%20con%20scadenza%201%20aprile%201959%20e%20costituzione%20di%20un%20Fondo%20destinato%20al%20graduale%20acquisto%20sul%20mercato%20di%20buoni%20del%20Tesoro%20novennali.md), convertito nella [legge 23 febbraio 1958, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-23;84), il ricavo della emissione di Buoni del Tesoro poliennali dell'importo complessivo di lire 140 miliardi che il Ministro per il tesoro e' autorizzato ad emettere, anche in piu' riprese negli anni 1965 e 1966, a scadenza non superiore a nove anni, con l'osservanza delle norme di cui alla [legge 27 dicembre 1953, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-12-27;941).
+E' conferito al Fondo costituito con l'[art. 7 del decreto-legge 23 gennaio 1958, n. 8](Facolta%20di%20rinnovo%20dei%20buoni%20del%20Tesoro%20novennali%205%20con%20scadenza%201%20aprile%201959%20e%20costituzione%20di%20un%20Fondo%20destinato%20al%20graduale%20acquisto%20sul%20mercato%20di%20buoni%20del%20Tesoro%20novennali.md), convertito nella [legge 23 febbraio 1958, n. 84](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2023%20gennaio%201958%20n.%208%20concernente%20la%20facolta%20di%20rinnovo%20dei%20buoni%20del%20Tesoro%20novennali%205%20per%20cento%20con%20scadenza%20al%201%20aprile%201959%20e%20costituzione%20di%20un_237e0a9666c0.md), il ricavo della emissione di Buoni del Tesoro poliennali dell'importo complessivo di lire 140 miliardi che il Ministro per il tesoro e' autorizzato ad emettere, anche in piu' riprese negli anni 1965 e 1966, a scadenza non superiore a nove anni, con l'osservanza delle norme di cui alla [legge 27 dicembre 1953, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-12-27;941).
 
 ### Art. 50.
 

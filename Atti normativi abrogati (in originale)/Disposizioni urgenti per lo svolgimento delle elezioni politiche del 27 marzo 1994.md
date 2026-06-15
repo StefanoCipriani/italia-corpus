@@ -14,7 +14,7 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto il proprio decreto 16 gennaio 1994, n. 28, con il quale sono stati convocati per domenica 27 marzo 1994 i comizi per la elezione della Camera dei deputati e del Senato della Repubblica;
 
-Visto l'articolo 64 del testo unico delle leggi per l'elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-30;361), in base al quale le operazioni di votazione hanno luogo nella sola giornata di domenica;
+Visto l'articolo 64 del testo unico delle leggi per l'elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), in base al quale le operazioni di votazione hanno luogo nella sola giornata di domenica;
 
 Considerato che l'anzidetta data del 27 marzo 1994 coincide con la festivita' religiosa ebraica del Pesach (Pasqua);
 
@@ -30,7 +30,7 @@ E MA N A il seguente decreto-legge:
 
 1.
 
-Le operazioni di voto relative alle elezioni della Camera dei deputati e del Senato della Repubblica previste per domenica 27 marzo 1994 proseguono nella giornata di lunedi' 28 marzo, con inizio dalle ore 8 e sino alle ore 22 dello stesso giorno. Per lo svolgimento delle operazioni elettorali si applicano le disposizioni contenute nel titolo IV del testo unico delle leggi per la elezione della Cam- era dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-30;361).
+Le operazioni di voto relative alle elezioni della Camera dei deputati e del Senato della Repubblica previste per domenica 27 marzo 1994 proseguono nella giornata di lunedi' 28 marzo, con inizio dalle ore 8 e sino alle ore 22 dello stesso giorno. Per lo svolgimento delle operazioni elettorali si applicano le disposizioni contenute nel titolo IV del testo unico delle leggi per la elezione della Cam- era dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md).
 
 2.
 

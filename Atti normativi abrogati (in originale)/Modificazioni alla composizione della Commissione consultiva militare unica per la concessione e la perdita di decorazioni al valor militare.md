@@ -20,17 +20,17 @@ Visti gli articoli 5 e 78 dello Statuto del Regno;
 
 Visto l'art. 11 del R. decreto 4 novembre 1932, 1423, che disciplina la concessione delle medaglie e della croce di guerra al valor militare;
 
-E' salva l'applicazione del [R. decreto-legge 17 luglio 1937, n. 1400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-17;1400) e successive modificazioni, riflettenti la difesa del risparmio e la disciplina del credito;
+E' salva l'applicazione del [R. decreto-legge 17 luglio 1937, n. 1400](Disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20037U1400.md) e successive modificazioni, riflettenti la difesa del risparmio e la disciplina del credito;
 
-Visto l'[art. 7 della legge 24 marzo 1932, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-03-24;453#art_7), che disciplina la perdita delle decorazioni al valor militare e delle distinzioni onorifiche di guerra;
+Visto l'[art. 7 della legge 24 marzo 1932, n. 453](Disposizioni%20per%20disciplinare%20la%20perdita%20delle%20medaglie%20e%20della%20croce%20di%20guerra%20al%20valor%20militare%20e%20delle%20distinzioni%20onorifiche%20di%20guerra.%20032U0453.md), che disciplina la perdita delle decorazioni al valor militare e delle distinzioni onorifiche di guerra;
 
-Visto il [R. decreto 30 marzo 1933, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-30;422), concernente la organizzazione della funzione consultiva in materia di concessione e perdita delle decorazioni al valor militare, e successive modificazioni;
+Visto il [R. decreto 30 marzo 1933, n. 422](Organizzazione%20della%20funzione%20consultiva%20in%20materia%20di%20concessione%20e%20di%20perdita%20delle%20decorazioni%20al%20valor%20militare.%20033U0422.md), concernente la organizzazione della funzione consultiva in materia di concessione e perdita delle decorazioni al valor militare, e successive modificazioni;
 
 Visto il [R. decreto 17 ottobre 1941, n. 1410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1410), che estende al tempo di pace la concessione della croce al valor militare;
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Visto l'[art. 2 del R. decreto 3 gennaio 1944, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-01-03;15#art_2);
+Visto l'[art. 2 del R. decreto 3 gennaio 1944, n. 15](Modifiche%20alla%20costituzione%20della%20Commissione%20militare%20unica%20per%20la%20concessione%20e%20la%20perdita%20di%20decorazioni%20al%20valor%20militare.%20044U0015.md);
 
 Sentito il Consiglio dei Ministri;
 

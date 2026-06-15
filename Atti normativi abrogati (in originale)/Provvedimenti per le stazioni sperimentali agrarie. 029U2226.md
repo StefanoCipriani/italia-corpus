@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 30 dicembre 1923, n. 3203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3203), e [31 dicembre 1925, n. 2594](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-12-31;2594);
+Visti i [Regi decreti 30 dicembre 1923, n. 3203](Provvedimenti%20per%20le%20stazioni%20e%20gli%20istituti%20sperimentali%20agrari%20e%20per%20la%20creazione%20di%20un%20istituto%20di%20economia%20e%20statistica%20agraria.%20023U3203.md), e [31 dicembre 1925, n. 2594](Norme%20relative%20allo%20stato%20giuridico%20del%20personale%20e%20al%20funzionamento%20delle%20Regie%20stazioni%20di%20prova%20agrarie%20e%20speciali.%20025U2594.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -44,7 +44,7 @@ Dopo l'entrata in vigore del presente decreto non potranno, per il periodo di di
 
 ### Art. 3.
 
-Gli scopi e l'indirizzo di ciascuna stazione sperimentale agraria saranno precisati nei rispettivi statuti da proporsi dai Comitati amministrativi e da approvarsi con decreto Reale, promosso dal Ministro per l'agricoltura e le foreste, di concerto col Ministro per le finanze, sentito il Comitato per la sperimentazione agraria, di cui ai [Regi decreti 11 ottobre 1928, n. 2450](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-11;2450), e [18 novembre 1929, n. 2119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-18;2119), entro sei mesi dalla data di pubblicazione del decreto di cui all'art. 33, sulla base di statuti-tipo predisposti dal Ministero dell'agricoltura e delle foreste di concerto con quello delle finanze. 
+Gli scopi e l'indirizzo di ciascuna stazione sperimentale agraria saranno precisati nei rispettivi statuti da proporsi dai Comitati amministrativi e da approvarsi con decreto Reale, promosso dal Ministro per l'agricoltura e le foreste, di concerto col Ministro per le finanze, sentito il Comitato per la sperimentazione agraria, di cui ai [Regi decreti 11 ottobre 1928, n. 2450](Istituzione%20del%20Comitato%20per%20la%20sperimentazione%20agraria.%20028U2450.md), e [18 novembre 1929, n. 2119](Modifiche%20alla%20composizione%20del%20Comitato%20per%20la%20sperimentazione%20agraria.%20029U2119.md), entro sei mesi dalla data di pubblicazione del decreto di cui all'art. 33, sulla base di statuti-tipo predisposti dal Ministero dell'agricoltura e delle foreste di concerto con quello delle finanze. 
  
  Le disposizioni degli statuti sostituiranno quelle dei decreti istitutivi e dei regolamenti delle singole stazioni.
 
@@ -153,13 +153,13 @@ Esso e' personale di ruolo dell'Amministrazione dello Stato.
 
 ### Art. 16.
 
-La nomina dei direttori delle Regie stazioni sperimentali agrarie ha luogo per pubblico concorso ovvero per trasferimento, con le norme di cui al sesto ed all'ultimo comma dell'[art. 17 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_17), modificato dall'[art. 8 del R. decreto-legge 27 ottobre 1927, numero 2135](Provvedimenti%20in%20materia%20di%20istruzione%20superiore%20agraria%20forestale%20e%20di%20medicina%20veterinaria.%20027U2135.md), intendendosi sostituito, al parere della prima sezione del Consiglio superiore per l'istruzione agraria, industriale e commerciale, il parere del Comitato per la sperimentazione agraria. 
+La nomina dei direttori delle Regie stazioni sperimentali agrarie ha luogo per pubblico concorso ovvero per trasferimento, con le norme di cui al sesto ed all'ultimo comma dell'[art. 17 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), modificato dall'[art. 8 del R. decreto-legge 27 ottobre 1927, numero 2135](Provvedimenti%20in%20materia%20di%20istruzione%20superiore%20agraria%20forestale%20e%20di%20medicina%20veterinaria.%20027U2135.md), intendendosi sostituito, al parere della prima sezione del Consiglio superiore per l'istruzione agraria, industriale e commerciale, il parere del Comitato per la sperimentazione agraria. 
  
  Sul modo di provvedere al posto vacante di direttore decide il Ministro, su proposta del Comitato amministrativo e sentito il Comitato per la sperimentazione agraria. 
  
  Durante la vacanza del posto di direttore sara' provveduto mediante incaricato, il cui compenso sara' a carico del bilancio dello Stato e sara' pari alla differenza fra il trattamento goduto e quello iniziale inerente al grado immediatamente superiore. 
  
- Sono applicabili, per la nomina a direttore di stazione, le disposizioni di cui all'[art. 13 del R. decreto 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-30;2172#art_13), e all'ultimo comma dell'art. 16 dello stesso decreto, modificato dall'[art. 7 del R. decreto 27 ottobre 1927, n. 2135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-27;2135#art_7), intendendosi sostituito, al Consiglio accademico dell'Istituto e al parere della prima sezione del Consiglio superiore per l'istruzione agraria, industriale e commerciale, il parere favorevole, espresso ad unanimita' di voti, del Comitato per la sperimentazione agraria. 
+ Sono applicabili, per la nomina a direttore di stazione, le disposizioni di cui all'[art. 13 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e all'ultimo comma dell'art. 16 dello stesso decreto, modificato dall'[art. 7 del R. decreto 27 ottobre 1927, n. 2135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-27;2135#art_7), intendendosi sostituito, al Consiglio accademico dell'Istituto e al parere della prima sezione del Consiglio superiore per l'istruzione agraria, industriale e commerciale, il parere favorevole, espresso ad unanimita' di voti, del Comitato per la sperimentazione agraria. 
  
  Sia nei concorsi per posti di direttore, che in quelli per posti di vice direttore e di sperimentatore, il Ministro ha facolta' di negare l'ammissione con proprio decreto non motivato ed insindacabile.
 
@@ -263,9 +263,9 @@ I tecnici e i bidelli delle Regie stazioni sperimentali agrarie sono nominati co
  
  Durante il periodo di prova, qualora il direttore della stazione intenda far cessare dall'ufficio il tecnico od il bidello, deve farne proposta motivata al Ministero e darne comunicazione all'interessato due mesi prima della scadenza dell'anno di prova in corso. 
  
- Gli stipendi ed i supplementi di servizio attivo dei tecnici e bidelli restano quelli stabiliti dalla tabella 9 dell'allegato V al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e successive aggiunte e varianti, per il corrispondente personale delle Regie stazioni di prova agrarie e speciali. 
+ Gli stipendi ed i supplementi di servizio attivo dei tecnici e bidelli restano quelli stabiliti dalla tabella 9 dell'allegato V al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive aggiunte e varianti, per il corrispondente personale delle Regie stazioni di prova agrarie e speciali. 
  
- Per la nomina dei tecnici e dei bidelli si applicano le disposizioni dell'[art. 17 del R. decreto 11 novembre 1923, numero 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_17).
+ Per la nomina dei tecnici e dei bidelli si applicano le disposizioni dell'[art. 17 del R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ### Art. 31.
 
@@ -375,7 +375,7 @@ CAPO V.
 
 ### Art. 44.
 
-I direttori delle attuali Regie stazioni di prova agrarie e speciali, denominate, a norma dell'art. 1 del presente decreto, Regie stazioni sperimentali agrarie, mantengono la loro posizione di inquadramento e lo sviluppo di carriera stabilito dalla disposizione del [primo comma dell'art. 153 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_153-com1). 
+I direttori delle attuali Regie stazioni di prova agrarie e speciali, denominate, a norma dell'art. 1 del presente decreto, Regie stazioni sperimentali agrarie, mantengono la loro posizione di inquadramento e lo sviluppo di carriera stabilito dalla disposizione del [primo comma dell'art. 153 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  I vice-direttori hanno lo sviluppo di carriera previsto nella tabella B annessa al presente decreto. Essi conseguono la promozione al grado ottavo dopo otto anni di effettivo servizio come stabili nel grado nono e la promozione al grado settimo dopo otto anni di effettivo servizio nel grado ottavo. 
  
@@ -397,11 +397,11 @@ Gli assistenti delle attuali Regie stazioni di prova agrarie e speciali vengono 
 
 ### Art. 47.
 
-L'attuale personale di segreteria delle Regie stazioni di prova agrarie e speciali e' trasferito, nella rispettiva posizione di grado e di anzianita', nel ruolo del personale di segreteria delle Regie stazioni sperimentali agrarie di cui alla tabella B annessa al presente decreto, che sostituisce quella n. 87 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395).
+L'attuale personale di segreteria delle Regie stazioni di prova agrarie e speciali e' trasferito, nella rispettiva posizione di grado e di anzianita', nel ruolo del personale di segreteria delle Regie stazioni sperimentali agrarie di cui alla tabella B annessa al presente decreto, che sostituisce quella n. 87 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ### Art. 48.
 
-Gli attuali tecnici e bidelli delle Regie stazioni di prova agrarie e speciali sono trasferiti, con le rispettive qualifiche e posizioni di anzianita', nel ruolo del personale tecnico e di custodia delle Regie stazioni sperimentali agrarie, di cui alla tabella B annessa al presente decreto, che sostituisce quella n. 45 dell'allegato IV al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395).
+Gli attuali tecnici e bidelli delle Regie stazioni di prova agrarie e speciali sono trasferiti, con le rispettive qualifiche e posizioni di anzianita', nel ruolo del personale tecnico e di custodia delle Regie stazioni sperimentali agrarie, di cui alla tabella B annessa al presente decreto, che sostituisce quella n. 45 dell'allegato IV al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ### Art. 49.
 

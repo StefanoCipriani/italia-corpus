@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 luglio 1930, n. 1091](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-28;1091), che da' esecuzione ai seguenti Atti internazionali stipulati a Roma tra l'Italia e la Romania il 25 febbraio 1930: 
+ E' convertito in legge il [R. decreto-legge 28 luglio 1930, n. 1091](Approvazione%20del%20Trattato%20di%20commercio%20e%20di%20navigazione%20italo-romeno%20del%2025%20febbraio%201930%20nonche%20degli%20Atti%20aggiuntivi%20stipulati%20alla%20stessa%20data.%20030U1091.md), che da' esecuzione ai seguenti Atti internazionali stipulati a Roma tra l'Italia e la Romania il 25 febbraio 1930: 
  
  1° Trattato di commercio e navigazione con Protocollo finale; 
  

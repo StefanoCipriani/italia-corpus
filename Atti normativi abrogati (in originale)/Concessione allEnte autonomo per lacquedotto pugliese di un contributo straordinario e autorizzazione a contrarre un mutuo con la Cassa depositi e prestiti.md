@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -25,7 +25,7 @@ E' concesso un contributo straordinario di lire trenta milioni a favore dell'Ent
 ## Art. 2.
 
 La Cassa Depositi e prestiti e' autorizzata a concedere un mutuo di lire centoventi milioni all'Ente autonomo per l'acquedotto pugliese affinche' questo possa provvedere alle maggiori spese di carattere obbligatorio sopravvenute a carico del proprio bilancio.
- La concessione del mutuo e' effettuata con le condizioni e con le modalita' previste dal [decreto legislativo luogotenenziale 14 settembre 1945, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-14;620).
+ La concessione del mutuo e' effettuata con le condizioni e con le modalita' previste dal [decreto legislativo luogotenenziale 14 settembre 1945, n. 620](../Decreti%20legislativi%20luogotenenziali/Concessione%20da%20parte%20della%20Cassa%20depositi%20e%20prestiti%20di%20una%20mutuo%20di%20L.%2085.000.000%20allEnte%20autonomo%20dellacquedotto%20pugliese.%20045U0620.md).
 
 ## Art. 3.
 

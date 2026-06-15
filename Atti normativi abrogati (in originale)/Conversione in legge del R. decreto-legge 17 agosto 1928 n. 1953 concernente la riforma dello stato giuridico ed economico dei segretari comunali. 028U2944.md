@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 agosto 1928, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-17;1953), concernente la riforma dello stato giuridico ed economico dei segretari comunali. 
+ E' convertito in legge il [R. decreto-legge 17 agosto 1928, n. 1953](Stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20028U1953.md), concernente la riforma dello stato giuridico ed economico dei segretari comunali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

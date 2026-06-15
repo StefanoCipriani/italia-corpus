@@ -84,11 +84,11 @@ Fermo l'obbligo della trascrizione dei decreti di determinazione dei perimetri e
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 28 novembre 1929, n. 2310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-28;2310), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 28 novembre 1929, n. 2310](Obbligatorieta%20della%20trascrizione%20dei%20contratti%20e%20delle%20deliberazioni%20con%20le%20quali%20i%20consorzi%20estendono%20la%20loro%20attivita%20di%20bonificamento%20agrario%20fuori%20dei%20confini%20del%20proprio%20territorio.%20029U2310.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 9.
 
-Quando esista il consorzio di proprietari, il Ministero dell'economia nazionale puo' affidare ad esso le funzioni di delegato tecnico, previste dagli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;1766#art_14) e [15 della legge 16 giugno 1927, n. 1766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;1766#art_15), per l'esecuzione delle opere dirette alla razionale costituzione di unita' fondiarie nei terreni soggetti ad uso civico.
+Quando esista il consorzio di proprietari, il Ministero dell'economia nazionale puo' affidare ad esso le funzioni di delegato tecnico, previste dagli [articoli 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20maggio%201924%20n.%20751%20riguardante%20il%20riordinamento%20degli%20usi%20civici%20nel%20Regno%20del%20R.%20decreto%2028%20agosto%201924%20n.%201484%20che%20modifica%20lart.%2026%20del%20R.%20decret_728733510b66.md) e [15 della legge 16 giugno 1927, n. 1766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20maggio%201924%20n.%20751%20riguardante%20il%20riordinamento%20degli%20usi%20civici%20nel%20Regno%20del%20R.%20decreto%2028%20agosto%201924%20n.%201484%20che%20modifica%20lart.%2026%20del%20R.%20decret_728733510b66.md), per l'esecuzione delle opere dirette alla razionale costituzione di unita' fondiarie nei terreni soggetti ad uso civico.
 
 ## Art. 10.
 

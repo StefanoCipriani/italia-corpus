@@ -148,7 +148,7 @@ La commissione nazionale e le commissioni provinciali per l'albo degli agenti di
 
 ## Art. 17.
 
-All'atto della presentazione della domanda d'iscrizione all'albo il richiedente e' tenuto a provare il versamento della tassa di concessione governativa di L. 50.000, prevista al n. 117, lettera b), della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641). Il versamento deve essere effettuato all'ufficio del registro di Roma e la relativa attestazione di versamento deve essere inviata al Ministero dell'industria, del commercio e dell'artigianato.
+All'atto della presentazione della domanda d'iscrizione all'albo il richiedente e' tenuto a provare il versamento della tassa di concessione governativa di L. 50.000, prevista al n. 117, lettera b), della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md). Il versamento deve essere effettuato all'ufficio del registro di Roma e la relativa attestazione di versamento deve essere inviata al Ministero dell'industria, del commercio e dell'artigianato.
  Gli iscritti all'albo sono inoltre tenuti al pagamento della tassa annua di L. 50.000, da versarsi in modo ordinario entro il 31 gennaio dell'anno cui si riferisce l'iscrizione.
  Le entrate che deriveranno dall'applicazione del presente articolo sono riservate esclusivamente all'erario dello Stato.
 

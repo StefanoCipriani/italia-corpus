@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 settembre 1933, n. 1308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-21;1308), contenente disposizioni per l'adozione di un unico modello di pagella scolastica negli Istituti d'istruzione media. 
+ E' convertito in legge il [R. decreto-legge 21 settembre 1933, n. 1308](Disposizioni%20per%20ladozione%20di%20un%20unico%20modello%20di%20pagella%20scolastica%20negli%20Istituti%20distruzione%20media.%20033U1308.md), contenente disposizioni per l'adozione di un unico modello di pagella scolastica negli Istituti d'istruzione media. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

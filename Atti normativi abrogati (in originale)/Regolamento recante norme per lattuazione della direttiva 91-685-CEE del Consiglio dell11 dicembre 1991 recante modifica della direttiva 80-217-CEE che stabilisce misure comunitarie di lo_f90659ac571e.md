@@ -14,9 +14,9 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 17, comma 1, lettera a), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-leta);
 
-Vista la [legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86);
+Vista la [legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md);
 
-Visto l'[art. 4 della legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146#art_4);
+Visto l'[art. 4 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md);
 
 Vista la [direttiva 91/685/CEE, del Consiglio dell'11 dicembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;685), recante modifica della [direttiva 80/217/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;217) che stabilisce misure comunitarie di lotta contro la peste suina classica;
 
@@ -24,7 +24,7 @@ Tenuto conto della decisione 93/384/CEE, del Consiglio del 14 giugno 1993, recan
 
 Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni;
 
-Visto il regolamento di polizia veterinaria, adottato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320), e successive modificazioni;
+Visto il regolamento di polizia veterinaria, adottato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e successive modificazioni;
 
 Vista la [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), e successive modificazioni;
 
@@ -99,14 +99,14 @@ Tutti i provvedimenti adottati in materia di lotta contro la peste suina classic
  3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente dei Consiglio dei Ministri prima della loro emanazione.
  4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di e 'regolamento', sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".
- - La [legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86), concerne le norme generali sulla partecipazione dell'Italia al processo normativo comunitario e sulle procedure di esecuzione degli obblighi comunitari.
- - La [legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146), concerne le disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee, legge comunitaria 1993. L'art. 4 della suddetta legge cosi' recita:
- "Art. 4 (Attuazione di direttiva comunitaria in via regolamentare). - 1. Il Governo e' autorizzato ad attuare in via regolamentare, a norma degli articoli 3, comma 1, lettera c), e 4 della [legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86), le direttive comprese nell'elenco di cui all'allegato C, applicando anche il disposto dell'art. 5, comma 1 della medesima [legge n. 86 del 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;86).
- 2. Gli schemi di regolamento per l'attuazione delle direttive comprese nell'elenco di cui all'allegato D sono sottoposti al parere delle competenti Commissioni parlamentari ai sensi dell'[art. 4, comma 4, della legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86#art_4-com4), come sostituito dall'art. 3 della presente legge".
+ - La [legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), concerne le norme generali sulla partecipazione dell'Italia al processo normativo comunitario e sulle procedure di esecuzione degli obblighi comunitari.
+ - La [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), concerne le disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee, legge comunitaria 1993. L'art. 4 della suddetta legge cosi' recita:
+ "Art. 4 (Attuazione di direttiva comunitaria in via regolamentare). - 1. Il Governo e' autorizzato ad attuare in via regolamentare, a norma degli articoli 3, comma 1, lettera c), e 4 della [legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), le direttive comprese nell'elenco di cui all'allegato C, applicando anche il disposto dell'art. 5, comma 1 della medesima [legge n. 86 del 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;86).
+ 2. Gli schemi di regolamento per l'attuazione delle direttive comprese nell'elenco di cui all'allegato D sono sottoposti al parere delle competenti Commissioni parlamentari ai sensi dell'[art. 4, comma 4, della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), come sostituito dall'art. 3 della presente legge".
  - La [direttiva 92/119/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;119) e' pubblicata nella G.U.C.E.
  n. L. 62 del 15 marzo 1993.
  - Il [R.D. 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), riguarda l'approvazione del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265).
- - Il [D.P.R. 8 febbraio 1954 n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320), riguarda il regolamento di polizia veterinaria.
+ - Il [D.P.R. 8 febbraio 1954 n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), riguarda il regolamento di polizia veterinaria.
  - La [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), riguarda l'istituzione del servizio sanitario nazionale.
 
 Nota all'art. 1:

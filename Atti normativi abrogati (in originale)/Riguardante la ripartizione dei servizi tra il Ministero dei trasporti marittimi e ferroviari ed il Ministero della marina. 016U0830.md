@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli uffici del Ministero della marina che a tenore del [R. decreto 22 giugno 1916, n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1916-06-22;756), vengono trasferiti al Ministero dei trasporti marittimi e ferroviari sono i seguenti: 
+Gli uffici del Ministero della marina che a tenore del [R. decreto 22 giugno 1916, n. 756](Concernente%20listituzione%20del%20Ministero%20dei%20trasporti%20marittimi%20e%20ferroviari.%20016U0756.md), vengono trasferiti al Ministero dei trasporti marittimi e ferroviari sono i seguenti: 
  
  1° direzione generale della marina mercantile; 
  

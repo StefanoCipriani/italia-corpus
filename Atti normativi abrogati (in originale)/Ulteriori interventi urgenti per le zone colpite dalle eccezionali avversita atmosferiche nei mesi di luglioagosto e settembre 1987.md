@@ -42,7 +42,7 @@ La ripartizione dovra' essere disposta per finanziare il compimento delle opere 
 
 4.
 
-La somma indicata nel comma 1 non puo' essere utilizzata per il finanziamento degli interventi urgenti di sistemazione idraulica previsti dall'[articolo 7 del decreto-legge 19 settembre 1987, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-19;384#art_7), convertito, con modificazioni, dalla [legge 19 novembre 1987, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-19;470).
+La somma indicata nel comma 1 non puo' essere utilizzata per il finanziamento degli interventi urgenti di sistemazione idraulica previsti dall'[articolo 7 del decreto-legge 19 settembre 1987, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-19;384#art_7), convertito, con modificazioni, dalla [legge 19 novembre 1987, n. 470](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201987%20n.%20384%20recante%20disposizioni%20urgenti%20in%20favore%20dei%20comuni%20della%20Valtellina%20della%20Val%20Formazza%20della%20Val%20Brembana%20_535b0b725588.md).
 
 ## Art. 3.
 
@@ -54,7 +54,7 @@ Al fine di assicurare il completamento degli interventi nella regione Piemonte, 
 
 1.
 
-Al fine di assicurare l'effettuazione di ulteriori interventi di recupero e riparazione di opere pubbliche di interesse locale, danneggiate a seguito delle eccezionali avversita' atmosferiche dei mesi di luglio, agosto e settembre 1987 verificatesi nei comuni individuati ai sensi dell'[articolo 1 del decreto-legge 19 settembre 1987, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-19;384#art_1), convertito, con modificazioni, dalla [legge 19 novembre 1987, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-19;470), con esclusione di quelli destinatari dei finanziamenti previsti dagli articoli 1, 2 e 3, e' autorizzata l'ulteriore spesa di lire 20 miliardi per l'anno 1988 a carico del fondo per la protezione civile. A tal fine il fondo medesimo e' integrato per l'anno 1988 di lire 20 miliardi.
+Al fine di assicurare l'effettuazione di ulteriori interventi di recupero e riparazione di opere pubbliche di interesse locale, danneggiate a seguito delle eccezionali avversita' atmosferiche dei mesi di luglio, agosto e settembre 1987 verificatesi nei comuni individuati ai sensi dell'[articolo 1 del decreto-legge 19 settembre 1987, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-19;384#art_1), convertito, con modificazioni, dalla [legge 19 novembre 1987, n. 470](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201987%20n.%20384%20recante%20disposizioni%20urgenti%20in%20favore%20dei%20comuni%20della%20Valtellina%20della%20Val%20Formazza%20della%20Val%20Brembana%20_535b0b725588.md), con esclusione di quelli destinatari dei finanziamenti previsti dagli articoli 1, 2 e 3, e' autorizzata l'ulteriore spesa di lire 20 miliardi per l'anno 1988 a carico del fondo per la protezione civile. A tal fine il fondo medesimo e' integrato per l'anno 1988 di lire 20 miliardi.
 
 2.
 
@@ -92,7 +92,7 @@ Le modalita' e le condizioni per l'erogazione della somma di cui al comma 1, son
 
 1.
 
-Il fondo per la protezione civile di cui al [secondo comma dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1982, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-23;938), e' integrato per l'anno 1988 della somma di lire 140 miliardi per gli interventi di emergenza o connessi alle emergenze disposti dal Ministro per il coordinamento della protezione civile.
+Il fondo per la protezione civile di cui al [secondo comma dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1982, n. 938](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20novembre%201982%20n.%20829%20concernente%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20da%20calamita%20naturali%20o%20eventi%20eccezionali.md), e' integrato per l'anno 1988 della somma di lire 140 miliardi per gli interventi di emergenza o connessi alle emergenze disposti dal Ministro per il coordinamento della protezione civile.
 
 ## Art. 8.
 

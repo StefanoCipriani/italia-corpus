@@ -27,7 +27,7 @@ Per il funzionamento dei suoi servizi del tempo di pace l'Associazione suddetta 
 
 ## Art. 4.
 
-Gli iscritti nei ruoli dei personali dell'Associazione di cui ai precedenti articoli 2 e 3 - compresi i Cavalieri dell'Ordine - chiamati in servizio sono militari e come tali sottoposti alle norme del regolamento di disciplina e del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regio esercito.
+Gli iscritti nei ruoli dei personali dell'Associazione di cui ai precedenti articoli 2 e 3 - compresi i Cavalieri dell'Ordine - chiamati in servizio sono militari e come tali sottoposti alle norme del regolamento di disciplina e del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regio esercito.
 Le chiamate in servizio sono effettuate dall'Associazione mediante precetti. 
  
  Ai mancanti alle chiamate cosi' disposte sono applicate le disposizioni penali sancite per i militari del Regio esercito.

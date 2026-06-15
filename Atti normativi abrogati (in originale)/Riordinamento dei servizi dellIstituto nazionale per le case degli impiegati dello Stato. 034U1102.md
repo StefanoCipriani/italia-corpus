@@ -40,7 +40,7 @@ L'esecutorieta' dei provvedimenti di cui alle lettere a) e b) del precedente art
 
 ## Art. 3.
 
-Sono devolute alle riserve, costituite ai sensi dell'[art. 14 del R. decreto 20 novembre 1924, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-20;1945#art_14), le economie realizzate dall'Istituto nei decorsi esercizi e quelle che successivamente potranno essere realizzate sulle spese generali inerenti alla costruzione dei fabbricati e all'amministrazione di quelli in reddito.
+Sono devolute alle riserve, costituite ai sensi dell'[art. 14 del R. decreto 20 novembre 1924, n. 1945](Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), le economie realizzate dall'Istituto nei decorsi esercizi e quelle che successivamente potranno essere realizzate sulle spese generali inerenti alla costruzione dei fabbricati e all'amministrazione di quelli in reddito.
 
 ## Art. 4.
 

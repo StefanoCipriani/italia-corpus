@@ -30,7 +30,7 @@ Sono trasferite alle regioni a statuto ordinario, di seguito de- nominate "regio
 
 2.
 
-Al fine della predisposizione del programma promozionale triennale di cui all'[articolo 7 della legge 11 ottobre 1990, n. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-11;292#art_7), l'Ente nazionale italiano per il turismo (ENIT) acquisisce il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. Il parere deve essere reso entro trenta giorni dal ricevimento della richiesta.
+Al fine della predisposizione del programma promozionale triennale di cui all'[articolo 7 della legge 11 ottobre 1990, n. 292](Ordinamento%20dellEnte%20nazionale%20italiano%20per%20il%20turismo.md), l'Ente nazionale italiano per il turismo (ENIT) acquisisce il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. Il parere deve essere reso entro trenta giorni dal ricevimento della richiesta.
 
 3.
 
@@ -78,7 +78,7 @@ In materia di turismo e spettacolo sono attribuite alla Presidenza del Consiglio
 
 2.
 
-La Presidenza del Consiglio dei Ministri esercita altresi' le competenze relative agli interventi di cui al [decreto-legge 4 novembre 1988, n. 465](Misure%20urgenti%20e%20straordinarie%20per%20la%20realizzazione%20di%20strutture%20turistiche%20ricettive%20e%20tecnologiche.md), convertito, con modificazioni, dalla [legge 30 dicembre 1988, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-30;556), nonche' quelle statali gia' esercitate dal soppresso Ministero del turismo e dello spettacolo in materia di sport, ivi compresa la vigilanza sul CONI.
+La Presidenza del Consiglio dei Ministri esercita altresi' le competenze relative agli interventi di cui al [decreto-legge 4 novembre 1988, n. 465](Misure%20urgenti%20e%20straordinarie%20per%20la%20realizzazione%20di%20strutture%20turistiche%20ricettive%20e%20tecnologiche.md), convertito, con modificazioni, dalla [legge 30 dicembre 1988, n. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20novembre%201988%20n.%20465%20recante%20misure%20urgenti%20e%20straordinarie%20per%20la%20realizzazione%20di%20strutture%20turistiche%20ricettive%20e%20tecnologiche.md), nonche' quelle statali gia' esercitate dal soppresso Ministero del turismo e dello spettacolo in materia di sport, ivi compresa la vigilanza sul CONI.
 
 3.
 
@@ -117,7 +117,7 @@ I regolamenti di cui al comma 2 si conformano ai seguenti criteri e principi:
 
 1.
 
-Il fondo istituito dall'[articolo 2, comma quarto della legge 10 maggio 1983, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-10;182#art_2-com4), ed incrementato ai sensi della [legge 13 luglio 1984, n. 311, e dell'articolo 13, comma secondo, lettera d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-13;311#art_13-com2-letd), della [legge 30 aprile 1985, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-04-30;163), e' utilizzato per la corresponsione di contributi sugli interessi relativi a finanziamenti concessi dalla Banca nazionale del lavoro - Sezione di credito cinematografico e teatrale societa' per azioni, o da altre banche, enti o societa' finanziarie legalmente costituite e a favore delle attivita' musicali e delle attivita' teatrali di prosa.
+Il fondo istituito dall'[articolo 2, comma quarto della legge 10 maggio 1983, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-10;182#art_2-com4), ed incrementato ai sensi della [legge 13 luglio 1984, n. 311, e dell'articolo 13, comma secondo, lettera d)](Interventi%20integrativi%20in%20favore%20dello%20spettacolo%20nellesercizio%20finanziario%201984.md), della [legge 30 aprile 1985, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-04-30;163), e' utilizzato per la corresponsione di contributi sugli interessi relativi a finanziamenti concessi dalla Banca nazionale del lavoro - Sezione di credito cinematografico e teatrale societa' per azioni, o da altre banche, enti o societa' finanziarie legalmente costituite e a favore delle attivita' musicali e delle attivita' teatrali di prosa.
 
 ## Art. 5. — Trasferimento di personale e risorse alla Presidenza del Consiglio dei Ministri
 
@@ -127,7 +127,7 @@ Il personale dipendente del soppresso Ministero del turismo e dello spettacolo, 
 
 2.
 
-Il personale del soppresso Ministero del turismo e dello spettacolo che, alla data di entrata in vigore del presente decreto presta servizio presso altre amministrazioni in posizione di comando puo' richiedere di essere inquadrato nei ruoli dell'amministrazione ove presta servizio, con il consenso di quest'ultima, nei termini e con le modalita' di cui all'articolo 199 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3).
+Il personale del soppresso Ministero del turismo e dello spettacolo che, alla data di entrata in vigore del presente decreto presta servizio presso altre amministrazioni in posizione di comando puo' richiedere di essere inquadrato nei ruoli dell'amministrazione ove presta servizio, con il consenso di quest'ultima, nei termini e con le modalita' di cui all'articolo 199 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 3.
 
@@ -135,7 +135,7 @@ Con il decreto di cui al comma 1 si provvede a fissare i criteri per la riassegn
 
 4.
 
-Con decreto del Ministro del tesoro, si provvede, a decorrere dalla data di pubblicazione dei decreti di cui all'articolo 3, comma 1, alla riutilizzazione del personale dipendente dalla Ragioneria generale dello Stato, ivi compreso quello con qualifiche dirigenziali, in servizio presso la Ragioneria centrale del soppresso Ministero alla data di abrogazione della [legge 31 luglio 1959, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-31;617), istitutiva del Ministero del turismo e dello spettacolo.
+Con decreto del Ministro del tesoro, si provvede, a decorrere dalla data di pubblicazione dei decreti di cui all'articolo 3, comma 1, alla riutilizzazione del personale dipendente dalla Ragioneria generale dello Stato, ivi compreso quello con qualifiche dirigenziali, in servizio presso la Ragioneria centrale del soppresso Ministero alla data di abrogazione della [legge 31 luglio 1959, n. 617](Istituzione%20del%20Ministero%20del%20turismo%20e%20dello%20spettacolo.md), istitutiva del Ministero del turismo e dello spettacolo.
 
 ## Art. 6. — Successione nei rapporti del soppresso Ministero del turismo e dello spettacolo e norma transitoria
 

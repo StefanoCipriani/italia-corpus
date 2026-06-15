@@ -10,21 +10,21 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 18 aprile 1939, n. 624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-18;624) sull'istituzione del Sottosegretariato di Stato per gli affari albanesi;
+Visto il [regio decreto 18 aprile 1939, n. 624](Istituzione%20presso%20il%20Ministero%20degli%20affari%20esteri%20del%20Sotto-segretariato%20di%20Stato%20per%20gli%20affari%20albanesi.%20039U0624.md) sull'istituzione del Sottosegretariato di Stato per gli affari albanesi;
 
 Visto il [decreto-legge 9 novembre 1939, n. 1752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1939-11-09;1752), sui lavori e servizi pubblici in Albania;
 
-Visto il [regio decreto 3 agosto 1941, n. 1048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-03;1048), sulla soppressione del Sottosegretariato per gli affari albanesi;
+Visto il [regio decreto 3 agosto 1941, n. 1048](Soppressione%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20affari%20albanesi.%20041U1048.md), sulla soppressione del Sottosegretariato per gli affari albanesi;
 
-Vista la [legge 18 ottobre 1942, n. 1351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1351), con la quale si e' istituito l'Ufficio stralcio per la gestione di opere e di spese gia' di competenza del cessato Sottosegretariato per gli affari albanesi;
+Vista la [legge 18 ottobre 1942, n. 1351](Istituzione%20di%20un%20Ufficio%20stralcio%20per%20la%20gestione%20di%20opere%20e%20di%20spese%20gia%20di%20competenza%20del%20cessato%20Sottosegretariato%20per%20gli%20affari%20albanesi.%20042U1351.md), con la quale si e' istituito l'Ufficio stralcio per la gestione di opere e di spese gia' di competenza del cessato Sottosegretariato per gli affari albanesi;
 
 Vista la [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248);
 
-Vista la [legge 28 novembre 1940, n. 1772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-11-28;1772);
+Vista la [legge 28 novembre 1940, n. 1772](Sospensione%20durante%20lo%20stato%20di%20guerra%20di%20opere%20pubbliche%20appaltate.%20040U1772.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -32,7 +32,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-L'Ufficio stralcio per la gestione di opere e di spese gia' di competenza del cessato Sottosegretariato per gli affari albanesi, istituito presso il Ministero degli affari esteri con [legge 18 ottobre 1942, n. 1351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1351), e' soppresso.
+L'Ufficio stralcio per la gestione di opere e di spese gia' di competenza del cessato Sottosegretariato per gli affari albanesi, istituito presso il Ministero degli affari esteri con [legge 18 ottobre 1942, n. 1351](Istituzione%20di%20un%20Ufficio%20stralcio%20per%20la%20gestione%20di%20opere%20e%20di%20spese%20gia%20di%20competenza%20del%20cessato%20Sottosegretariato%20per%20gli%20affari%20albanesi.%20042U1351.md), e' soppresso.
 
 ## Art. 2.
 
@@ -60,7 +60,7 @@ La liquidazione dei crediti per forniture, prestazioni e lavori pubblici in Alba
 
 I contratti per forniture, prestazioni e lavori in Albania sono dichiarati risoluti all'ultima data di esecuzione che risulti da documentazione ufficiale in possesso dell'Amministrazione, salvo alla controparte di documentarne la continuazione dopo tale data.
  In nessun caso tuttavia i contratti per forniture, prestazioni e lavori in Albania possono essere dichiarati risoluti dopo l'8 settembre 1943.
- In dipendenza della risoluzione dei contratti, l'Amministrazione e' tenuta a corrispondere soltanto l'importo delle forniture, prestazioni e lavori eseguiti fino alla data della risoluzione, con esclusione del compenso di cui all'[art. 345 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_345), e degli altri compensi previsti dalla [legge 28 novembre 1940, n. 1772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-11-28;1772).
+ In dipendenza della risoluzione dei contratti, l'Amministrazione e' tenuta a corrispondere soltanto l'importo delle forniture, prestazioni e lavori eseguiti fino alla data della risoluzione, con esclusione del compenso di cui all'[art. 345 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_345), e degli altri compensi previsti dalla [legge 28 novembre 1940, n. 1772](Sospensione%20durante%20lo%20stato%20di%20guerra%20di%20opere%20pubbliche%20appaltate.%20040U1772.md).
 
 ## Art. 6.
 

@@ -12,7 +12,7 @@ vigente: true
 
 I Comuni proprietari di teatri, nei quali esistano palchi, loggie, barcaccie e simili di proprieta' privata o comunque in uso di privati, sono autorizzati ad applicare ai palchisti; in favore delle imprese, un contributo per ogni spettacolo, sia che detti palchi, loggie, barcaccie e simili vengano o no occupati dal proprietario o utente, ovvero siano noleggiati o restino vuoti. 
  
- Il contributo e' commisurato al settantacinque per cento dei prezzi fissati dall'impresa pei palchi destinati alla vendita, a norma del [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3276#art_13-com2) e [terzo comma dell'art. 13 del R. decreto 30 dicembre 1923, n. 3276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3276#art_13-com3); ed e' soggetto al diritto erariale, ai sensi degli articoli 1 e 12 di detto decreto. 
+ Il contributo e' commisurato al settantacinque per cento dei prezzi fissati dall'impresa pei palchi destinati alla vendita, a norma del [secondo](Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md) e [terzo comma dell'art. 13 del R. decreto 30 dicembre 1923, n. 3276](Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md); ed e' soggetto al diritto erariale, ai sensi degli articoli 1 e 12 di detto decreto. 
  
  I palchisti possono esimersi dal pagamento dell'anzidetto contributo mediante cessione dell'uso del palco, loggia, barcaccia e simili all'impresa per la durata del corso degli spettacoli.
 

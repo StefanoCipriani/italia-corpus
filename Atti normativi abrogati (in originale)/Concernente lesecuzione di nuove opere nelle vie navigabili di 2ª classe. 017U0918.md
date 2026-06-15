@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [testo unico 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-07-11;959), ed il regolamento approvato col [R. decreto 17 novembre 1913, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-11-17;1514);
+Visto il [testo unico 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-07-11;959), ed il regolamento approvato col [R. decreto 17 novembre 1913, n. 1514](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20opere%20concernenti%20la%20navigazione%20interna%20qualificate%20nuove%20ai%20sensi%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20_30558051ccd2.md);
 
 Sulla proposta del ministro segretario di Stato pei lavori pubblici, di concerto con quelli della guerra, di agricoltura, d'industria, commercio e lavoro, dei trasporti ferroviari e marittimi e del tesoro;
 
@@ -28,7 +28,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-E' autorizzata la spesa di L. 1.700.000 in aggiunta a quella autorizzata con la [legge 19 luglio 1914, numero 769](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;769), per l'esecuzione delle opere nuove nelle vie navigabili di seconda classe di cui alla annessa tabella vistata, d'ordine Nostro, dal ministro proponente.
+E' autorizzata la spesa di L. 1.700.000 in aggiunta a quella autorizzata con la [legge 19 luglio 1914, numero 769](Che%20modifica%20laltra%20del%204%20aprile%201912%20n.%20297%20concernente%20la%20spesa%20straordinaria%20consolidata%20del%20Ministero%20dei%20lavori%20pubblici%20014U0769.md), per l'esecuzione delle opere nuove nelle vie navigabili di seconda classe di cui alla annessa tabella vistata, d'ordine Nostro, dal ministro proponente.
 
 ## Art. 2.
 
@@ -36,7 +36,7 @@ La predetta somma sara' inscritta, quanto a lire 400.000 nello stato di previsio
 
 ## Art. 3.
 
-Sono estese alle opere di cui all'annessa tabella le disposizioni della [legge 7 aprile 1917, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-04-07;599), in quanto siano applicabili.
+Sono estese alle opere di cui all'annessa tabella le disposizioni della [legge 7 aprile 1917, n. 599](Recante%20provvedimenti%20per%20la%20linea%20di%20seconda%20classe%20Milano-Venezia%20e%20per%20la%20navigazione%20interna.%20017U0599.md), in quanto siano applicabili.
 
 ## Art. 4.
 

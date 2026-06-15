@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Viste le tariffe e condizioni valevoli per i trasporti effettuati sulle linee ferroviarie esercitati dallo Stato;
 
-Visti gli articoli 39 e 82 ultimo capoverso della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md) modificata con [R. decreto 28 giugno 1912, n 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728);
+Visti gli articoli 39 e 82 ultimo capoverso della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md) modificata con [R. decreto 28 giugno 1912, n 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
 
 Visto il [decreto Luogotenenziale 11 gennaio 1917, num. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-11;53);
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici, di concer
 
 ## Art. 1.
 
-L'Amministrazione delle ferrovie dello Stato e' autorizzata a ripristinare il rilascio dei biglietti a tariffa ridotta in base alle concessioni speciali I, XIII, XIV, XV (I, VII, V e VIII dell'allegato alla [legge 29 dicembre 1901, n. 562](Concessioni%20speciali%20per%20determinati%20trasporti%20sulle%20strade%20ferrate.%20001U0562.md)) e XX ([R. decreto 9 maggio 1912, n.470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;470)) stato sospeso con [decreto Luogotenenziale 11 gennaio 1917, n. 53, art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-11;53#art_1), comma e).
+L'Amministrazione delle ferrovie dello Stato e' autorizzata a ripristinare il rilascio dei biglietti a tariffa ridotta in base alle concessioni speciali I, XIII, XIV, XV (I, VII, V e VIII dell'allegato alla [legge 29 dicembre 1901, n. 562](Concessioni%20speciali%20per%20determinati%20trasporti%20sulle%20strade%20ferrate.%20001U0562.md)) e XX ([R. decreto 9 maggio 1912, n.470](Col%20quale%20viene%20approvata%20una%20concessione%20speciale%20e%20relativa%20tariffa%20per%20gli%20operai%20e%20braccianti%20che%20si%20recano%20temporaneamente%20a%20lavorare%20allestero%20012U0470.md)) stato sospeso con [decreto Luogotenenziale 11 gennaio 1917, n. 53, art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-11;53#art_1), comma e).
 
 ## Art. 2.
 

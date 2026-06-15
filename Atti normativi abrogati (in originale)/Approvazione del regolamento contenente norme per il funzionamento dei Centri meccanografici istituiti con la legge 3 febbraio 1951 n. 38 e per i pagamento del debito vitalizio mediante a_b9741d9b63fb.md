@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 9 della legge 3 febbraio 1951, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-02-03;38#art_9);
+ Visto l'[art. 9 della legge 3 febbraio 1951, n. 38](Emissione%20meccanografica%20dei%20titoli%20di%20spesa%20afferenti%20le%20pensioni%20ed%20il%20pagamento%20del%20debito%20vitalizio%20dello%20Stato%20a%20mezzo%20di%20assegni%20di%20conto%20corrente%20postale%20di%20serie%20speciale.md);
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
  Uditi i pareri della Corte dei conti e del Consiglio di Stato;
  Sentito il Consiglio dei Ministri;

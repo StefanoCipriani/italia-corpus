@@ -106,11 +106,11 @@ Sono del pari prorogate sino alla detta data le disposizioni degli [articoli 6](
 
 ## Art. 12.
 
-Fino al 31 dicembre 1922 i mutui contratti dai Comuni con titoli cambiari giusta il terzo comma dello art. 191 della legge comunale e provinciale, testo unico, approvato con [R. decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148), potranno essere autorizzati fino al limite di un quinto della rendita ordinaria del Comune valutata nei modi indicati dal citato articolo di legge.
+Fino al 31 dicembre 1922 i mutui contratti dai Comuni con titoli cambiari giusta il terzo comma dello art. 191 della legge comunale e provinciale, testo unico, approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), potranno essere autorizzati fino al limite di un quinto della rendita ordinaria del Comune valutata nei modi indicati dal citato articolo di legge.
 
 ## Art. 13.
 
-Il ricorso alla V sezione del Consiglio di Stato, di cui al comma 8 dell'art. 310 della legge comunale e provinciale (testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148)) e' ammesso anche ad esercizio finanziario iniziato. 
+Il ricorso alla V sezione del Consiglio di Stato, di cui al comma 8 dell'art. 310 della legge comunale e provinciale (testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md)) e' ammesso anche ad esercizio finanziario iniziato. 
  
  La competenza della V sezione si estende anche al merito, a tutti gli effetti di legge.
 

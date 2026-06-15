@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto con q
 
 Fino a tutto l'esercizio successivo a quello in cui avra' termine la guerra, i pagamenti a carico dei capitoli dello stato di previsione della spesa del Ministero della guerra saranno imputati dapprima sul fondo dei residui, fino al suo totale esaurimento, indi sullo stanziamento di competenza, sia che si riferiscano, a spese dell'esercizio in cui essi vengono disposti, sia che riguardino spose riferentisi agli esercizi precedenti. 
  
- La stessa disposizione e' applicata, durante il detto periodo, ai capitoli di spesa dello stato di previsione del Ministero della marina indicati nell'[art. 2 della legge 15 luglio 1906, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;346#art_2), e nell'[art. 8 del decreto Luogotenenziale 27 giugno 1915, n. 990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;990#art_8), da convertirsi in legge.
+ La stessa disposizione e' applicata, durante il detto periodo, ai capitoli di spesa dello stato di previsione del Ministero della marina indicati nell'[art. 2 della legge 15 luglio 1906, n. 346](Acquisto%20diretto%20di%20carboni%20per%20la%20R.%20marina.%20006U0346.md), e nell'[art. 8 del decreto Luogotenenziale 27 giugno 1915, n. 990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;990#art_8), da convertirsi in legge.
 
 ## Art. 2.
 

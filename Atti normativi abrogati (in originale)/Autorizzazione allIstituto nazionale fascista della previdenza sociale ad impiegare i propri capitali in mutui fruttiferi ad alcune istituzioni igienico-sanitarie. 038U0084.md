@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto l'[art. 35, n. 11, del R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_35-num11), concernente il perfezionamento e coordinamento legislativo della previdenza sociale, convertito nella [legge 6 aprile 1936, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155);
+Visto l'[art. 35, n. 11, del R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_35-num11), concernente il perfezionamento e coordinamento legislativo della previdenza sociale, convertito nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md);
 
 Ritenuta la opportunita' di autorizzare l'Istituto nazionale fascista della previdenza sociale ad impiegare i propri capitali disponibili in mutui fruttiferi ad alcune istituzioni igienico-sanitarie che abbiano scopo di prevenzione, di cura o di assistenza, anche con la garanzia solidale prestata da Comuni o da Provincie con rilascio di delegazioni sulle sovrimposte fondiarie o sulle imposte di consumo;
 

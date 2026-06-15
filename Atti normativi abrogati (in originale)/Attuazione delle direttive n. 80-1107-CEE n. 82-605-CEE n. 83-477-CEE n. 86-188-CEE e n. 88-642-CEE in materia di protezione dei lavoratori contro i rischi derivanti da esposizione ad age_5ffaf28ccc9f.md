@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 7 della legge 30 luglio 1990, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;212#art_7), recante delega al Governo per l'attuazione delle [direttive 80/1107/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;1107), [82/605/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1982;605), [83/477/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;477), [86/188/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1986;188) e [88/642/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;642), in materia di protezione dei lavoratori contro i rischi derivanti da esposizione ad agenti chimici, fisici e biologici durante il lavoro;
+Visto l'[art. 7 della legge 30 luglio 1990, n. 212](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lattuazione%20di%20direttive%20delle%20Comunita%20europee%20in%20materia%20di%20sanita%20e%20di%20protezione%20dei%20lavoratori.md), recante delega al Governo per l'attuazione delle [direttive 80/1107/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;1107), [82/605/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1982;605), [83/477/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;477), [86/188/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1986;188) e [88/642/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;642), in materia di protezione dei lavoratori contro i rischi derivanti da esposizione ad agenti chimici, fisici e biologici durante il lavoro;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 giugno 1991;
 
@@ -40,7 +40,7 @@ Le disposizioni di cui ai capi II, III e IV non escludono l'applicabilita' delle
 
 3.
 
-Le disposizioni di cui ai commi 1 e 2 si applicano alle attivita' alle quali sono addetti i lavoratori subordinati o ad essi equiparati ai sensi dell'[art. 3 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_3).
+Le disposizioni di cui ai commi 1 e 2 si applicano alle attivita' alle quali sono addetti i lavoratori subordinati o ad essi equiparati ai sensi dell'[art. 3 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md).
 
 4.
 
@@ -606,7 +606,7 @@ I lavoratori ovvero i loro rappresentanti sono consultati prima dell'effettuazio
 
 1.
 
-Fermo restando quanto previsto all'[art. 48 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_48), ove applicabile, il datore di lavoro, che esercita attivita' nelle quali l'esposizione dei lavoratori alla polvere di amianto risulta uguale o superiore ai valori indicati ai commi 3 o 5 dell'art. 24, notifica all'organo di vigilanza le risultanze della valutazione di cui allo stesso articolo, unitamente alle seguenti informazioni:
+Fermo restando quanto previsto all'[art. 48 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), ove applicabile, il datore di lavoro, che esercita attivita' nelle quali l'esposizione dei lavoratori alla polvere di amianto risulta uguale o superiore ai valori indicati ai commi 3 o 5 dell'art. 24, notifica all'organo di vigilanza le risultanze della valutazione di cui allo stesso articolo, unitamente alle seguenti informazioni:
                             a)
                                 attivita' svolte e procedimenti applicati;
                             b)
@@ -705,7 +705,7 @@ Nel caso di attivita' che comportano le condizioni di esposizione di cui all'art
 
 1.
 
-Fermo restando quanto previsto in tema di prevenzione sanitaria dell'asbestosi dal [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-30;1124), integrato dal decreto ministeriale 21 gennaio 1987, pubblicato nella Gazzetta Ufficiale n. 35 dell'11 febbraio 1987, il datore di lavoro, in conformita' al parere del medico competente, adotta, se necessario, misure preventive e protettive per singoli lavoratori, sulla base delle risultanze degli esami clinici effettuati. Tali misure possono comprendere l'allontanamento anche temporaneo del lavoratore interessato da qualsiasi esposizione all'amianto.
+Fermo restando quanto previsto in tema di prevenzione sanitaria dell'asbestosi dal [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), integrato dal decreto ministeriale 21 gennaio 1987, pubblicato nella Gazzetta Ufficiale n. 35 dell'11 febbraio 1987, il datore di lavoro, in conformita' al parere del medico competente, adotta, se necessario, misure preventive e protettive per singoli lavoratori, sulla base delle risultanze degli esami clinici effettuati. Tali misure possono comprendere l'allontanamento anche temporaneo del lavoratore interessato da qualsiasi esposizione all'amianto.
 
 2.
 
@@ -1301,7 +1301,7 @@ L'esposizione dei lavoratori alle radiazioni ionizzanti resta disciplinata dalle
 
 2.
 
-Per quanto non espressamente o diversamente disciplinato, per gli agenti di cui ai capi II, III o IV, si applicano le norme vigenti ed in particolare quelle contenute nel [decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303).
+Per quanto non espressamente o diversamente disciplinato, per gli agenti di cui ai capi II, III o IV, si applicano le norme vigenti ed in particolare quelle contenute nel [decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md).
 
 3.
 
@@ -1323,11 +1323,11 @@ L'adozione delle disposizioni di cui al comma 3 avviene previa consultazione del
 
 Sono abrogate tutte le norme incompatibili con quelle contenute nel presente decreto. In particolare:
                             a)
-                                limitatamente all'esposizione al piombo, non si applicano gli articoli 4, 5, 18, terzo comma, 19 e 20 del [decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303). E' soppressa, inoltre, la voce "piombo" nella tabella allegata al suddetto decreto;
+                                limitatamente all'esposizione al piombo, non si applicano gli articoli 4, 5, 18, terzo comma, 19 e 20 del [decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md). E' soppressa, inoltre, la voce "piombo" nella tabella allegata al suddetto decreto;
                             b)
-                                limitatamente all'esposizione alla polvere proveniente dall'amianto o dai materiali contenenti amianto, non si applicano gli articoli 4, 5, 18, terzo comma, 19 e 21 del [decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303). Esse abrogano, inoltre, il decreto del 16 ottobre 1986, pubblicato nella Gazzetta Ufficiale n. 278 del 29 novembre 1986: "Integrazione delle norme del [decreto del Presidente della Repubblica 9 aprile 1959, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-09;128), in materia di controllo dell'aria ambiente nelle attivita' estrattive dell'amianto";
+                                limitatamente all'esposizione alla polvere proveniente dall'amianto o dai materiali contenenti amianto, non si applicano gli articoli 4, 5, 18, terzo comma, 19 e 21 del [decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md). Esse abrogano, inoltre, il decreto del 16 ottobre 1986, pubblicato nella Gazzetta Ufficiale n. 278 del 29 novembre 1986: "Integrazione delle norme del [decreto del Presidente della Repubblica 9 aprile 1959, n. 128](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), in materia di controllo dell'aria ambiente nelle attivita' estrattive dell'amianto";
                             c)
-                                limitatamente all'esposizione al rumore, non si applicano gli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_4) e [5 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_5); limitatamente al danno uditivo non si applica l'art. 24 dello stesso decreto; la voce rumori nella tabella allegata al suddetto decreto e' soppressa.
+                                limitatamente all'esposizione al rumore, non si applicano gli [articoli 4](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md) e [5 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md); limitatamente al danno uditivo non si applica l'art. 24 dello stesso decreto; la voce rumori nella tabella allegata al suddetto decreto e' soppressa.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

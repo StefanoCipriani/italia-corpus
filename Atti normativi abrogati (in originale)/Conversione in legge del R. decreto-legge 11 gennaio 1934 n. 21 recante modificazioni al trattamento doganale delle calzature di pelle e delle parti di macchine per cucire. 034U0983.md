@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-11;21), recante modificazioni al trattamento doganale delle calzature di pelle e delle parti di macchine per cucire. 
+ E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 21](Trattamento%20doganale%20delle%20calzature%20di%20pelle%20e%20delle%20parti%20di%20macchine%20per%20cucire.%20034U0021.md), recante modificazioni al trattamento doganale delle calzature di pelle e delle parti di macchine per cucire. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

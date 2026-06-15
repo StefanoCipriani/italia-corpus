@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 marzo 1934, n. 673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-29;673), che autorizza a bandire un concorso nazionale per lo studio di un progetto di nave da carico. 
+ E' convertito in legge il [R. decreto-legge 29 marzo 1934, n. 673](Autorizzazione%20a%20bandire%20un%20concorso%20nazionale%20per%20lo%20studio%20di%20un%20progetto%20di%20navi%20da%20carico.%20034U0673.md), che autorizza a bandire un concorso nazionale per lo studio di un progetto di nave da carico. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regio d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

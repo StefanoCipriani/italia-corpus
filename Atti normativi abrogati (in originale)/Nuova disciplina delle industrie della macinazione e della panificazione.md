@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'impianto, la riattivazione, il trasferimento e la trasformazione dei molini e dei panifici non sono piu' soggetti alle limitazioni d'ordine economico previsto dai [regi decreti-legge 5 settembre 1938, n. 1890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;1890), convertito nella [legge 2 giugno 1939, n. 739, e 21 luglio 1938, numero 1609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-07-21;1609), convertito nella [legge 9 gennaio 1939, n. 143](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20luglio%201938-XVI%20n.%201609%20contenente%20norme%20per%20la%20disciplina%20della%20industria%20della%20panificazione.%20039U0143.md).
+L'impianto, la riattivazione, il trasferimento e la trasformazione dei molini e dei panifici non sono piu' soggetti alle limitazioni d'ordine economico previsto dai [regi decreti-legge 5 settembre 1938, n. 1890](Disciplina%20dellindustria%20della%20macinazione%20dei%20cereali.%20038U1890.md), convertito nella [legge 2 giugno 1939, n. 739, e 21 luglio 1938, numero 1609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-07-21;1609), convertito nella [legge 9 gennaio 1939, n. 143](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20luglio%201938-XVI%20n.%201609%20contenente%20norme%20per%20la%20disciplina%20della%20industria%20della%20panificazione.%20039U0143.md).
  Le altre disposizioni degli stessi decreti sono sostituite da quelle degli articoli seguenti.
 
 ## Art. 2.

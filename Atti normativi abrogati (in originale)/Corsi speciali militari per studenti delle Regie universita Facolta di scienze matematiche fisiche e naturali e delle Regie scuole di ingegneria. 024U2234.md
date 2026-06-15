@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 7 giugno 1923, n. 1432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-07;1432), che istituisce la Commissione suprema di difesa;
+Visto il [R. decreto 7 giugno 1923, n. 1432](Modifiche%20al%20R.%20decreto%2027%20gennaio%201923%20n.%2021%20col%20quale%20si%20istituisce%20la%20Commissione%20Suprema%20mista%20di%20difesa.%20023U1432.md), che istituisce la Commissione suprema di difesa;
 
 Visto il [R. decreto-legge 9 dicembre 1923, n. 3133](Autorizzazione%20di%20spesa%20per%20il%20funzionamento%20della%20Commissione%20suprema%20di%20difesa.%20023U3133.md), con cui si autorizza la spesa per il funzionamento della Commissione anzidetta;
 

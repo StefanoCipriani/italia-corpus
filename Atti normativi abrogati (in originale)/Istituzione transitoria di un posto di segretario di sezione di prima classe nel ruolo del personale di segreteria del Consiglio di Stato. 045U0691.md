@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 24 marzo 1932, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-03-24;270), concernente il riordinamento dei servizi del Consiglio di Stato;
+Vista la [legge 24 marzo 1932, n. 270](Riordinamento%20dei%20servizi%20di%20segreteria%20del%20Consiglio%20di%20Stato.%20032U0270.md), concernente il riordinamento dei servizi del Consiglio di Stato;
 
-Visto il [R. decreto-legge 26 febbraio 1939, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-26;332), concernente il personale di segreteria e subalterno del Consiglio di Stato;
+Visto il [R. decreto-legge 26 febbraio 1939, n. 332](Disposizioni%20concernenti%20il%20personale%20di%20segreteria%20e%20subalterno%20del%20Consiglio%20di%20Stato.%20039U0332.md), concernente il personale di segreteria e subalterno del Consiglio di Stato;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'Esercito in data 28 novembre 1869;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito in data 28 novembre 1869;
 
 Visto il Decreto in data del 9 corrente mese, con cui le Provincie Romane sono annesse ai Nostri Stati;
 
@@ -22,7 +22,7 @@ Sulla proposizione del Nostro Ministro Segretario di Stato per gli Affari della 
 
 ## Art. 1.
 
-E' instituito nella Citta' di Roma un Tribunale militare permanente, in conformita' delle prescrizioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'Esercito, e la sua giurisdizione si estendera' a tutta la Divisione militare territoriale di Roma.
+E' instituito nella Citta' di Roma un Tribunale militare permanente, in conformita' delle prescrizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito, e la sua giurisdizione si estendera' a tutta la Divisione militare territoriale di Roma.
 
 ## Art. 2.
 

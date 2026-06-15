@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e le successive disposizioni modificative ed integrative;
+Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e le successive disposizioni modificative ed integrative;
 
-Visto il regolamento per l'esecuzione del predetto decreto-legge, approvato con [R. decreto 4 gennaio 1925, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-04;63), modificato con [R. decreto 4 marzo 1926, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-03-04;519);
+Visto il regolamento per l'esecuzione del predetto decreto-legge, approvato con [R. decreto 4 gennaio 1925, n. 63](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md), modificato con [R. decreto 4 marzo 1926, n. 519](Modificazione%20al%20regolamento%20approvato%20con%20R.%20decreto%204%20gennaio%201925%20n.%2063%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20026U0519.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -33,7 +33,7 @@ I premi di assicurazione sulla vita dovuti all'Istituto nazionale delle assicura
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-05-13;1691), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](Modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20sulla%20vita%20da%20parte%20dei%20militari%20in%20Africa%20Orientale%20Italiana%20mediante%20delega_2d9b5fb8860b.md), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ I contratti di assicurazione, per i quali il pagamento dei premi avvenga a norma
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-05-13;1691), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](Modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20sulla%20vita%20da%20parte%20dei%20militari%20in%20Africa%20Orientale%20Italiana%20mediante%20delega_2d9b5fb8860b.md), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
@@ -53,7 +53,7 @@ Gli assicurati che intendano valersi della facolta' di cui all'art. 1 debbono ri
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-05-13;1691), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](Modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20sulla%20vita%20da%20parte%20dei%20militari%20in%20Africa%20Orientale%20Italiana%20mediante%20delega_2d9b5fb8860b.md), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 
@@ -66,7 +66,7 @@ Le deleghe di cui al precedente articolo, debbono essere rilasciate al nome dell
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-05-13;1691), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](Modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20sulla%20vita%20da%20parte%20dei%20militari%20in%20Africa%20Orientale%20Italiana%20mediante%20delega_2d9b5fb8860b.md), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 5.
 
@@ -75,7 +75,7 @@ Le Amministrazioni di cui all'art. 4 sono tenute verso gli Enti assicuratori, pr
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-05-13;1691), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](Modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20sulla%20vita%20da%20parte%20dei%20militari%20in%20Africa%20Orientale%20Italiana%20mediante%20delega_2d9b5fb8860b.md), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 6.
 
@@ -84,7 +84,7 @@ Le Amministrazioni delegate daranno corso alle deleghe rilasciate dal personale 
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-05-13;1691), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](Modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20sulla%20vita%20da%20parte%20dei%20militari%20in%20Africa%20Orientale%20Italiana%20mediante%20delega_2d9b5fb8860b.md), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 7.
 
@@ -107,7 +107,7 @@ La delega deve essere firmata dall'assicurato e deve contenere:
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-05-13;1691), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](Modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20sulla%20vita%20da%20parte%20dei%20militari%20in%20Africa%20Orientale%20Italiana%20mediante%20delega_2d9b5fb8860b.md), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 8.
 
@@ -120,7 +120,7 @@ Anche il pagamento dei premi, soprapremio ed accessori arretrati, ferme restando
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-05-13;1691), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](Modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20sulla%20vita%20da%20parte%20dei%20militari%20in%20Africa%20Orientale%20Italiana%20mediante%20delega_2d9b5fb8860b.md), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 9.
 
@@ -133,7 +133,7 @@ L'assicurazione in vigore conserva la sua efficacia anche quando, per un qualsia
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-05-13;1691), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](Modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20sulla%20vita%20da%20parte%20dei%20militari%20in%20Africa%20Orientale%20Italiana%20mediante%20delega_2d9b5fb8860b.md), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 10.
 
@@ -142,7 +142,7 @@ L'Amministrazione delegata comunichera' all'Ente assicuratore ogni evento per ef
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-05-13;1691), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](Modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20sulla%20vita%20da%20parte%20dei%20militari%20in%20Africa%20Orientale%20Italiana%20mediante%20delega_2d9b5fb8860b.md), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 11.
 
@@ -151,7 +151,7 @@ Le disposizioni del presente decreto possono essere applicate, mediante convenzi
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-05-13;1691), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](Modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20sulla%20vita%20da%20parte%20dei%20militari%20in%20Africa%20Orientale%20Italiana%20mediante%20delega_2d9b5fb8860b.md), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 12.
 
@@ -160,7 +160,7 @@ Le disposizioni del presente decreto, per quanto si riferisce alle deleghe sugli
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-05-13;1691), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](Modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20sulla%20vita%20da%20parte%20dei%20militari%20in%20Africa%20Orientale%20Italiana%20mediante%20delega_2d9b5fb8860b.md), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 13.
 
@@ -187,4 +187,4 @@ Il presente decreto-legge ha vigore nel Regno e nelle Colonie.
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-05-13;1691), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 13 maggio 1937, n. 1691](Modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20sulla%20vita%20da%20parte%20dei%20militari%20in%20Africa%20Orientale%20Italiana%20mediante%20delega_2d9b5fb8860b.md), convertito senza modificazioni dalla [L. 13 gennaio 1938, n. 148](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201937-XV%20n.%201691%20recante%20modificazioni%20al%20R.%20decreto-legge%2026%20marzo%201936-XIV%20n.%20708%20concernente%20il%20pagamento%20dei%20premi%20di%20assicurazione%20_ad08a0d6592f.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

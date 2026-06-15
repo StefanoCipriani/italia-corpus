@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 2830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2830);
+Visto il [R. decreto 30 dicembre 1923, n. 2830](Disposizioni%20semplificative%20per%20la%20regolazione%20delle%20contabilita%20delle%20Amministrazioni%20militari%20per%20gli%20esercizi%20dal%201914-15%20al%201920-21%20e%20di%20quelle%20di%20altre%20gestioni%20dipendenti%20dalla%20guerra.%20023U2830.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Le disposizioni del [R. decreto 30 dicembre 1923, n. 2830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2830), sono estese, in quanto applicabili, alle gestioni civili e militari, in contanti e a materia, comprese quelle fuori bilancio, condotte nella colonia della Somalia Italiana, fino a tutto il 30 giugno 1924, fermo l'obbligo della ragioneria coloniale di esercitare, su tali gestioni, i riscontri di sua competenza e salve ed impregiudicate le responsabilita' emerse o che potessero emergere per fatti inerenti alle gestioni stesse.
+Le disposizioni del [R. decreto 30 dicembre 1923, n. 2830](Disposizioni%20semplificative%20per%20la%20regolazione%20delle%20contabilita%20delle%20Amministrazioni%20militari%20per%20gli%20esercizi%20dal%201914-15%20al%201920-21%20e%20di%20quelle%20di%20altre%20gestioni%20dipendenti%20dalla%20guerra.%20023U2830.md), sono estese, in quanto applicabili, alle gestioni civili e militari, in contanti e a materia, comprese quelle fuori bilancio, condotte nella colonia della Somalia Italiana, fino a tutto il 30 giugno 1924, fermo l'obbligo della ragioneria coloniale di esercitare, su tali gestioni, i riscontri di sua competenza e salve ed impregiudicate le responsabilita' emerse o che potessero emergere per fatti inerenti alle gestioni stesse.
 
 ## Art. 2.
 

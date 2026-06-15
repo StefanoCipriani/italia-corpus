@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 ottobre 1932, n. 1485](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-10-20;1485), relativo al termine per le sessioni di esame pel conseguimento del grado di macchinista navale di 1ª e 2ª classe. 
+ E' convertito in legge il [R. decreto-legge 20 ottobre 1932, n. 1485](Termine%20per%20le%20sessioni%20di%20esame%20pel%20conseguimento%20del%20grado%20di%20macchinista%20navale%20di%201ª%20e%202ª%20classe.%20032U1485.md), relativo al termine per le sessioni di esame pel conseguimento del grado di macchinista navale di 1ª e 2ª classe. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

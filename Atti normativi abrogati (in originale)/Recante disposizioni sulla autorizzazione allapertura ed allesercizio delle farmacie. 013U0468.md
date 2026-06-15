@@ -114,7 +114,7 @@ La decadenza dalla autorizzazione ad aprire ed esercitare una farmacia si verifi
  
  g) per condanna penale, passata in giudicato, per effetto della quale l'autorizzato sia stato punito con la sospensione dall'esercizio professionale per un tempo maggiore di un mese; 
  
- h) per la definitiva cancellazione dall'albo dell'ordine provinciale dei farmacisti pronunciata a norma dell'art. 5, lettere a e b, del regolamento approvato con [R. decreto 12 agosto 1911, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-08-12;1022); 
+ h) per la definitiva cancellazione dall'albo dell'ordine provinciale dei farmacisti pronunciata a norma dell'art. 5, lettere a e b, del regolamento approvato con [R. decreto 12 agosto 1911, n. 1022](Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%2010%20luglio%201910%20n.%20455.%20011U1022.md); 
  
  i) per la perdita della cittadinanza italiana. 
  

@@ -14,11 +14,11 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[articolo 16 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_16), che consente limitazioni della liberta' di circolazione per ragioni sanitarie;
 
-Visto il [decreto-legge 25 marzo 2020, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-03-25;19), convertito, con modificazioni, dalla [legge 22 maggio 2020, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-05-22;35), recante «Misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19»;
+Visto il [decreto-legge 25 marzo 2020, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-03-25;19), convertito, con modificazioni, dalla [legge 22 maggio 2020, n. 35](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20marzo%202020%20n.%2019%20recante%20misure%20urgenti%20per%20fronteggiare%20lemergenza%20epidemiologica%20da%20COVID-19.%2020G00057.md), recante «Misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19»;
 
-Visto il [decreto-legge 16 maggio 2020, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-16;33), convertito, con modificazioni, dalla [legge 14 luglio 2020, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-14;74), recante «Ulteriori misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19»;
+Visto il [decreto-legge 16 maggio 2020, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-16;33), convertito, con modificazioni, dalla [legge 14 luglio 2020, n. 74](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%202020%20n.%2033%20recante%20ulteriori%20misure%20urgenti%20per%20fronteggiare%20lemergenza%20epidemiologica%20da%20COVID-19.%2020G00092.md), recante «Ulteriori misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19»;
 
-Visto il [decreto-legge 18 dicembre 2020, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-12-18;172), convertito, con modificazioni, dalla [legge 29 gennaio 2021, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-01-29;6), recante «Ulteriori disposizioni urgenti per fronteggiare i rischi sanitari connessi alla diffusione del virus COVID-19»;
+Visto il [decreto-legge 18 dicembre 2020, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-12-18;172), convertito, con modificazioni, dalla [legge 29 gennaio 2021, n. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%202020%20n.%20172%20recante%20ulteriori%20disposizioni%20urgenti%20per%20fronteggiare%20i%20rischi%20sanitari%20connessi%20alla%20diffusione%20del%20vir_7b38dcc3f3a9.md), recante «Ulteriori disposizioni urgenti per fronteggiare i rischi sanitari connessi alla diffusione del virus COVID-19»;
 
 Visto il [decreto-legge 14 gennaio 2021, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-01-14;2), recante «Ulteriori disposizioni urgenti in materia di contenimento e prevenzione dell'emergenza epidemiologica da COVID-19 e di svolgimento delle elezioni per l'anno 2021»;
 
@@ -40,7 +40,7 @@ Emana il seguente decreto-legge:
 
 ## Art. 1. — Denominazione del territorio nazionale in zone
 
-1 All'[articolo 1 del decreto-legge 16 maggio 2020, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-16;33#art_1), convertito, con modificazioni, dalla [legge 14 luglio 2020, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-14;74), dopo il comma 16-sexies e' aggiunto il seguente: 
+1 All'[articolo 1 del decreto-legge 16 maggio 2020, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-16;33#art_1), convertito, con modificazioni, dalla [legge 14 luglio 2020, n. 74](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%202020%20n.%2033%20recante%20ulteriori%20misure%20urgenti%20per%20fronteggiare%20lemergenza%20epidemiologica%20da%20COVID-19.%2020G00092.md), dopo il comma 16-sexies e' aggiunto il seguente: 
  «16-septies. Sono denominate: 
  a) "Zona bianca", le Regioni, di cui al comma 16-sexies, nei cui territori l'incidenza settimanale di contagi e' inferiore a 50 casi ogni 100.000 abitanti per tre settimane consecutive e che si collocano in uno scenario di tipo 1, con un livello di rischio basso; 
  b) "Zona arancione", le Regioni, di cui ai commi 16-quater e 16-quinquies, nei cui territori l'incidenza settimanale dei contagi e' superiore a 50 casi ogni 100.000 abitanti e che si collocano in uno scenario di tipo 2, con livello di rischio almeno moderato, nonche' quelle che, in presenza di una analoga incidenza settimanale dei contagi, si collocano in uno scenario di tipo 1 con livello di rischio alto; 
@@ -69,7 +69,7 @@ Dalla data di entrata in vigore del presente decreto, il [comma 4 dell'articolo 
 
 1.
 
-La violazione delle disposizioni di cui all'articolo 2 e' sanzionata ai sensi dell'[articolo 4 del decreto-legge 25 marzo 2020, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-03-25;19#art_4), convertito, con modificazioni, dalla [legge 22 maggio 2020, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-05-22;35).
+La violazione delle disposizioni di cui all'articolo 2 e' sanzionata ai sensi dell'[articolo 4 del decreto-legge 25 marzo 2020, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-03-25;19#art_4), convertito, con modificazioni, dalla [legge 22 maggio 2020, n. 35](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20marzo%202020%20n.%2019%20recante%20misure%20urgenti%20per%20fronteggiare%20lemergenza%20epidemiologica%20da%20COVID-19.%2020G00057.md).
 
 ## Art. 4. — Entrata in vigore
 

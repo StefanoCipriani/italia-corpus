@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 14 settembre 1945, n. 709](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-14;709);
+Visto il [decreto legislativo luogotenenziale 14 settembre 1945, n. 709](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20i%20mutui%20fondiari%20ed%20edilizi%20garantiti%20sopra%20immobili%20danneggiati%20dalla%20guerra.%20045U0709.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -24,12 +24,12 @@ Sulla proposta del Ministro per il tesoro, di concerto con i Ministri per la gra
 
 ## Art. 1.
 
-Il [primo comma dell'art. 1 del decreto legislativo luogotenenziale 14 settembre 1945, n. 709](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-14;709#art_1-com1), e' sostituito dal seguente:
+Il [primo comma dell'art. 1 del decreto legislativo luogotenenziale 14 settembre 1945, n. 709](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20i%20mutui%20fondiari%20ed%20edilizi%20garantiti%20sopra%20immobili%20danneggiati%20dalla%20guerra.%20045U0709.md), e' sostituito dal seguente:
  "Le ipoteche a garanzia dei mutui concessi dagli Istituti di credito fondiario sopra immobili che per fatti di guerra siano stati distrutti o danneggiati in modo da aver subito la diminuzione di almeno un quarto del reddito, garantiscono, con la stessa efficacia del grado ad esse spettante in aggiunta all'importo della iscrizione, tutte le semestralita' in scadenza dalla data della dichiarazione di guerra sino al 15 aprile 1948, ed i relativi interessi di mora".
 
 ## Art. 2.
 
-Le disposizioni del [decreto legislativo luogotenenziale 14 settembre 1945, n. 709](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-14;709), modificate a' termini dell'articolo precedente, sono estese alle Casse di risparmio e agli Istituti di credito di diritto pubblico.
+Le disposizioni del [decreto legislativo luogotenenziale 14 settembre 1945, n. 709](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20i%20mutui%20fondiari%20ed%20edilizi%20garantiti%20sopra%20immobili%20danneggiati%20dalla%20guerra.%20045U0709.md), modificate a' termini dell'articolo precedente, sono estese alle Casse di risparmio e agli Istituti di credito di diritto pubblico.
 
 ## Art. 3.
 

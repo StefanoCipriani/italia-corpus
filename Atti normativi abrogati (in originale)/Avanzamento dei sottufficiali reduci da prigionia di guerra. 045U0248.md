@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata:
 
-Visto il testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-15;1514), e successive modificazioni;
+Visto il testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e successive modificazioni;
 
-Visto il [R. decreto-legge 5 settembre 1938, n. 1519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;1519), e successive modificazioni;
+Visto il [R. decreto-legge 5 settembre 1938, n. 1519](Modificazioni%20alle%20disposizioni%20vigenti%20sullo%20stato%20e%20lavanzamento%20dei%20sottufficiali%20del%20Regio%20esercito%20ed%20aumento%20dei%20relativi%20organici.%20038U1519.md), e successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per la guerra, d'intesa col Ministro per il tesoro; 
 
 ## Art. 1.
 
-Gli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;1519#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;1519#art_13) e [14 del R. decreto-legge 5 settembre 1938, n. 1519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;1519#art_14), sono sostituiti dai seguenti: 
+Gli [articoli 12](Modificazioni%20alle%20disposizioni%20vigenti%20sullo%20stato%20e%20lavanzamento%20dei%20sottufficiali%20del%20Regio%20esercito%20ed%20aumento%20dei%20relativi%20organici.%20038U1519.md), [13](Modificazioni%20alle%20disposizioni%20vigenti%20sullo%20stato%20e%20lavanzamento%20dei%20sottufficiali%20del%20Regio%20esercito%20ed%20aumento%20dei%20relativi%20organici.%20038U1519.md) e [14 del R. decreto-legge 5 settembre 1938, n. 1519](Modificazioni%20alle%20disposizioni%20vigenti%20sullo%20stato%20e%20lavanzamento%20dei%20sottufficiali%20del%20Regio%20esercito%20ed%20aumento%20dei%20relativi%20organici.%20038U1519.md), sono sostituiti dai seguenti: 
  
  Art. 12. - « Il sottufficiale prigioniero di guerra non puo' durante la prigionia conseguire l'avanzamento, pero' la prigionia non interrompe il computo dell'anzianita'». 
  

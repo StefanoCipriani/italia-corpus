@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Ritenuta la necessita' di aumentare gli stanziamenti di taluni capitoli dello stato di previsione del Ministero degli affari esteri, per l'esercizio finanziario 1915-916, e considerato che a tali aumenti si rende possibile far fronte, in parte, con diminuzioni sulle assegnazioni di alcuni altri capitoli del medesimo stato di previsione; 
  
- Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774); 
+ Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md); 
  
  Udito il Consiglio dei ministri; 
  

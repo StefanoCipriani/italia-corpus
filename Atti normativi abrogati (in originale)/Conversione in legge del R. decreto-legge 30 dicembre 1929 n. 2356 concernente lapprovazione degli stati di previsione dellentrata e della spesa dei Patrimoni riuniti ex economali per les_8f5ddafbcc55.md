@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 dicembre 1929, n. 2356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-12-30;2356), che approva gli stati di previsione dell'entrata e della spesa dei Patrimoni riuniti ex economali, per l'esercizio finanziario dal 1° luglio 1929 al 30 giugno 1930, in dipendenza della [legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848). 
+ E' convertito in legge il [R. decreto-legge 30 dicembre 1929, n. 2356](Approvazione%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20dei%20Patrimoni%20riuniti%20ex%20economali%20per%20lesercizio%20finanziario%20dal%201%20luglio%201929%20al%2030%20giugno%201930%20in%20dipendenza%20della%20legg_f2d1665aa3fc.md), che approva gli stati di previsione dell'entrata e della spesa dei Patrimoni riuniti ex economali, per l'esercizio finanziario dal 1° luglio 1929 al 30 giugno 1930, in dipendenza della [legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

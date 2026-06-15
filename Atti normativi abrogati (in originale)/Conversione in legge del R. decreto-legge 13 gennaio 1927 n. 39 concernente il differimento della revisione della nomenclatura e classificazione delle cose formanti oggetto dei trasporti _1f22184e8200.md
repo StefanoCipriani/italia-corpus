@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 gennaio 1927, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-13;39), concernente il differimento della revisione della nomenclatura e classificazione delle cose formanti oggetto dei trasporti sulle Ferrovie dello Stato, di cui all'[art. 40 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md). 
+ E' convertito in legge il [R. decreto-legge 13 gennaio 1927, n. 39](Differimento%20della%20revisione%20della%20nomenclatura%20e%20classificazione%20delle%20cose%20formanti%20oggetto%20dei%20trasporti%20sulle%20Ferrovie%20dello%20Stato%20di%20cui%20allart.%2040%20della%20legge%207%20luglio%201907%20n.%20429.%20027U0039.md), concernente il differimento della revisione della nomenclatura e classificazione delle cose formanti oggetto dei trasporti sulle Ferrovie dello Stato, di cui all'[art. 40 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 giugno 1931, n. 896](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-12;896), col quale e' stato disposto il prolungamento del periodo di restituzione dei prestiti cerealicoli ratizzati nelle Provincie pugliesi e lucane. 
+ E' convertito in legge il [R. decreto-legge 12 giugno 1931, n. 896](Prolungamento%20del%20periodo%20di%20restituzione%20dei%20prestiti%20cerealicoli%20ratizzati%20nelle%20Provincie%20pugliesi%20e%20lucane.%20031U0896.md), col quale e' stato disposto il prolungamento del periodo di restituzione dei prestiti cerealicoli ratizzati nelle Provincie pugliesi e lucane. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 21 dicembre 1931 - Anno X 
  

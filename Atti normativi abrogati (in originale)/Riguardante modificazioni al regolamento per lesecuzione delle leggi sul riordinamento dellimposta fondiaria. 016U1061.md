@@ -10,13 +10,13 @@ vigente: true
 
 ## Articolo unico.
 
-Agli articoli 152, 154, 161, 162, 164, 173, 186, 191, 193, 195 e 199 del regolamento per la esecuzione delle leggi sul riordinamento dell'imposta fondiaria, approvato con [R. decreto n. 65 del 26 gennaio 1905](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-26;65), sono sostituiti i seguenti: 
+Agli articoli 152, 154, 161, 162, 164, 173, 186, 191, 193, 195 e 199 del regolamento per la esecuzione delle leggi sul riordinamento dell'imposta fondiaria, approvato con [R. decreto n. 65 del 26 gennaio 1905](Che%20approva%20e%20contiene%20il%20regolamento%20per%20lesecuzione%20delle%20leggi%20sul%20riordinamento%20dellimposta%20fondiaria.%20005U0065.md), sono sostituiti i seguenti: 
  
  Art. 152. - Per i terreni soggetti a servitu' militari, si tien conto con proporzionali detrazioni dal reddito imponibile dei danni continui o periodici che da codeste servitu' possono risultare. 
  
  Art. 154. - Per quei terreni, che dopo la formazione del catasto venissero sottoposti a nuove o maggiori servitu' militari, e per quelli che venissero esonerati da dette servitu' o dal vincolo forestale si provvede con speciali disposizioni legislative. 
  
- Per quei terreni che dopo la formazione del catasto venissero assoggettati a vincolo forestale si provvede a norma dell'[art. 37 della legge 2 giugno 1910, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277#art_37). 
+ Per quei terreni che dopo la formazione del catasto venissero assoggettati a vincolo forestale si provvede a norma dell'[art. 37 della legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md). 
  
  Art. 161. - La detta pubblicazione si eseguisce nella sede del Comune amministrativo, sotto la sorveglianza dei periti catastali e della Commissione censuaria comunale, e colla assistenza immediata del segretario della medesima. 
  

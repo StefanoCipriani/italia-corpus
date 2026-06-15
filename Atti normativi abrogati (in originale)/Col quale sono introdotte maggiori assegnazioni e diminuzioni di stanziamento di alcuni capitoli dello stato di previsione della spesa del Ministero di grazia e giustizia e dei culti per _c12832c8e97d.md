@@ -24,7 +24,7 @@ Ritenuta la necessita' di inscrivere nello stato di previsione della spesa del M
 
 Considerato che alla maggiore somma all'uopo occorrente in L. 55.000 si rende possibile far fronte su altri capitoli dello stesso bilancio, che offrono disponibilita';
 
-Vista la [legge 9 luglio 1916, n. 814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-07-09;814);
+Vista la [legge 9 luglio 1916, n. 814](Che%20proroga%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lanno%20finanziario%201916-917%20fino%20quando%20non%20siano%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%20_cbe86bff6c88.md);
 
 Udito il Consiglio dei ministri;
 

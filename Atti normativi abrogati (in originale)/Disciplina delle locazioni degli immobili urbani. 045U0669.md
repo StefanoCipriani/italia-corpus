@@ -36,15 +36,15 @@ Le pigioni dovute per locazioni di immobili adibiti ad uso diverso da quello di 
 
 ### Art. 3.
 
-Alle pigioni dovute per locazioni di immobili adibiti ad uso di abitazione, che l'inquilino abbia sublocato in virtu' del contratto o del [R. decreto-legge 25 gennaio 1943, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-25;162), puo' essere apportato, oltre gli aumenti previsti dall'art. 1 e con decorrenza dal primo del mese successivo alla data di pubblicazione del presente decreto, un aumento supplementare dal venti al cento per cento. 
+Alle pigioni dovute per locazioni di immobili adibiti ad uso di abitazione, che l'inquilino abbia sublocato in virtu' del contratto o del [R. decreto-legge 25 gennaio 1943, n. 162](Disposizioni%20circa%20la%20sospensione%20delle%20clausole%20di%20divieto%20di%20subaffitto%20contenute%20nei%20contratti%20di%20locazione%20di%20appartamenti%20per%20uso%20di%20abitazione%20e%20disposizioni%20in%20materia%20di%20riduzione_113f74152edd.md), puo' essere apportato, oltre gli aumenti previsti dall'art. 1 e con decorrenza dal primo del mese successivo alla data di pubblicazione del presente decreto, un aumento supplementare dal venti al cento per cento. 
  
  L'aumento supplementare puo' essere ridotto fino al dieci per cento, qualora si tratti di sublocazione parziale di locali non ammobiliati, sempreche' sia escluso il fine di speculazione. La stessa riduzione si applica anche nel caso di sublocazione parziale di locali ammobiliati, nelle localita' dove e' praticata la requisizione parziale degli alloggi, sempreche' sia escluso il fine di speculazione. 
  
  La misura dell'aumento supplementare e' dal trenta al centocinquanta per cento: 
  1) se l'inquilino pratica abitualmente la sublocazione a giornate; 
- 2) se la sublocazione e' praticata in deroga di patti contrattuali, in virtu' del [R. decreto-legge 25 gennaio 1943, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-25;162), e si estende a piu' della meta' dei locali utili che costituiscono l'immobile. 
+ 2) se la sublocazione e' praticata in deroga di patti contrattuali, in virtu' del [R. decreto-legge 25 gennaio 1943, n. 162](Disposizioni%20circa%20la%20sospensione%20delle%20clausole%20di%20divieto%20di%20subaffitto%20contenute%20nei%20contratti%20di%20locazione%20di%20appartamenti%20per%20uso%20di%20abitazione%20e%20disposizioni%20in%20materia%20di%20riduzione_113f74152edd.md), e si estende a piu' della meta' dei locali utili che costituiscono l'immobile. 
  
- L'aumento supplementare non e' dovuto se l'immobile e' stato locato per la prima volta dopo l'8 settembre 1943, salvo che nel contratto sia stabilito il divieto di sublocazione e l'inquilino si avvalga della facolta' accordatagli dal [R. decreto-legge 25 gennaio 1943, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-25;162). 
+ L'aumento supplementare non e' dovuto se l'immobile e' stato locato per la prima volta dopo l'8 settembre 1943, salvo che nel contratto sia stabilito il divieto di sublocazione e l'inquilino si avvalga della facolta' accordatagli dal [R. decreto-legge 25 gennaio 1943, n. 162](Disposizioni%20circa%20la%20sospensione%20delle%20clausole%20di%20divieto%20di%20subaffitto%20contenute%20nei%20contratti%20di%20locazione%20di%20appartamenti%20per%20uso%20di%20abitazione%20e%20disposizioni%20in%20materia%20di%20riduzione_113f74152edd.md). 
  
  L'aumento supplementare e' computato dopo che siano stati praticati gli aumenti previsti dall'art. 1. Esso non e' piu' dovuto dal giorno in cui l'inquilino da' comunicazione al locatore dell'avvenuta cessazione della sublocazione. 
  
@@ -70,9 +70,9 @@ Gli aumenti stabiliti dai precedenti articoli sono computati previa eliminazione
 
 ### Art. 7.
 
-Qualora sia in corso istanza di revisione della pigione ai sensi dell'[art. 1 del R. decreto-legge 24 marzo 1942, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-03-24;200#art_1), ovvero sia in corso o venga proposta istanza di riduzione della pigione ai sensi dell'[art. 6 del R. decreto-legge 25 gennaio 1943, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-25;162#art_6), gli aumenti stabiliti dai precedenti articoli sono computati sull'ammontare che risulta dopo operata la revisione o la riduzione. 
+Qualora sia in corso istanza di revisione della pigione ai sensi dell'[art. 1 del R. decreto-legge 24 marzo 1942, n. 200](Norme%20relative%20agli%20affitti%20degli%20immobili%20urbani.%20042U0200.md), ovvero sia in corso o venga proposta istanza di riduzione della pigione ai sensi dell'[art. 6 del R. decreto-legge 25 gennaio 1943, n. 162](Disposizioni%20circa%20la%20sospensione%20delle%20clausole%20di%20divieto%20di%20subaffitto%20contenute%20nei%20contratti%20di%20locazione%20di%20appartamenti%20per%20uso%20di%20abitazione%20e%20disposizioni%20in%20materia%20di%20riduzione_113f74152edd.md), gli aumenti stabiliti dai precedenti articoli sono computati sull'ammontare che risulta dopo operata la revisione o la riduzione. 
  
- La disposizione del comma precedente si applica anche quando e' in corso o viene proposta istanza di aumento della pigione per trasformazioni o migliorie apportate all'immobile prima della data del presente decreto o per contributi di miglioria imposti prima della data medesima, a norma del quinto e del [sesto comma dell'art. 13 del R. decreto-legge 16 giugno 1938, numero 1887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;1887#art_13-com6), e del quinto e del [sesto comma dell'art. 2 del R. decreto-legge 12 marzo 1941, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-03-12;142#art_2-com6).
+ La disposizione del comma precedente si applica anche quando e' in corso o viene proposta istanza di aumento della pigione per trasformazioni o migliorie apportate all'immobile prima della data del presente decreto o per contributi di miglioria imposti prima della data medesima, a norma del quinto e del [sesto comma dell'art. 13 del R. decreto-legge 16 giugno 1938, numero 1887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;1887#art_13-com6), e del quinto e del [sesto comma dell'art. 2 del R. decreto-legge 12 marzo 1941, n. 142](Proroga%20per%20tutta%20la%20durata%20dellattuale%20stato%20di%20guerra%20del%20blocco%20dei%20prezzi%20delle%20merci%20e%20dei%20servizi%20delle%20costruzioni%20edilizie%20degli%20impianti%20industriali%20e%20degli%20affitti.%20041U0142.md).
 
 ### Art. 8.
 
@@ -94,7 +94,7 @@ La disposizione dell'articolo precedente non si applica quando, successivamente 
  
  L'aumento decorre dalla data in cui sono state ultimate le opere di riparazione e di riattamento, se la relativa richiesta e' fatta entro sessanta giorni dalla data predetta; in caso diverso, decorre dal mese successivo al ricevimento della richiesta medesima. 
  
- Restano salve le disposizioni dell'[art. 13 del R. decreto-legge 16 giugno 1938, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;1387#art_13), e dell'[art. 2 del R. decreto-legge 12 marzo 1941, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-03-12;142#art_2), relative all'aumento di pigione a seguito dell'imposizione del contributo di miglioria, sostituita alla competenza del pretore quella delle commissioni arbitrali previste dall'art. 21 del presente decreto.
+ Restano salve le disposizioni dell'[art. 13 del R. decreto-legge 16 giugno 1938, n. 1387](Norme%20per%20la%20disciplina%20dei%20prezzi%20delle%20merci%20dei%20servizi%20e%20degli%20affitti.%20038U1387.md), e dell'[art. 2 del R. decreto-legge 12 marzo 1941, n. 142](Proroga%20per%20tutta%20la%20durata%20dellattuale%20stato%20di%20guerra%20del%20blocco%20dei%20prezzi%20delle%20merci%20e%20dei%20servizi%20delle%20costruzioni%20edilizie%20degli%20impianti%20industriali%20e%20degli%20affitti.%20041U0142.md), relative all'aumento di pigione a seguito dell'imposizione del contributo di miglioria, sostituita alla competenza del pretore quella delle commissioni arbitrali previste dall'art. 21 del presente decreto.
 
 ### Art. 11.
 
@@ -120,9 +120,9 @@ Capo II
 
 ### Art. 13.
 
-L'inquilino non e' piu' tenuto a corrispondere al locatore il terzo del corrispettivo convenuto con il subinquilino, a norma dell'[art. 3 del R. decreto-legge 25 gennaio 1943, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-25;162#art_3), a partire dal giorno in cui e' tenuto all'aumento supplementare previsto dall'art. 3 del presente decreto. 
+L'inquilino non e' piu' tenuto a corrispondere al locatore il terzo del corrispettivo convenuto con il subinquilino, a norma dell'[art. 3 del R. decreto-legge 25 gennaio 1943, n. 162](Disposizioni%20circa%20la%20sospensione%20delle%20clausole%20di%20divieto%20di%20subaffitto%20contenute%20nei%20contratti%20di%20locazione%20di%20appartamenti%20per%20uso%20di%20abitazione%20e%20disposizioni%20in%20materia%20di%20riduzione_113f74152edd.md), a partire dal giorno in cui e' tenuto all'aumento supplementare previsto dall'art. 3 del presente decreto. 
  
- L'inquilino che si vale della facolta' di sublocare l'immobile locato, sia che la sublocazione sia consentita dal contratto, sia che essa avvenga a norma del [R. decreto-legge 25 gennaio 1943, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-25;162), deve darne comunicazione al locatore non oltre il decimo giorno dalla conclusione della sublocazione, indicando il numero dei componenti la famiglia del subinquilino, la durata del contratto e il numero dei locali utili sublocati. 
+ L'inquilino che si vale della facolta' di sublocare l'immobile locato, sia che la sublocazione sia consentita dal contratto, sia che essa avvenga a norma del [R. decreto-legge 25 gennaio 1943, n. 162](Disposizioni%20circa%20la%20sospensione%20delle%20clausole%20di%20divieto%20di%20subaffitto%20contenute%20nei%20contratti%20di%20locazione%20di%20appartamenti%20per%20uso%20di%20abitazione%20e%20disposizioni%20in%20materia%20di%20riduzione_113f74152edd.md), deve darne comunicazione al locatore non oltre il decimo giorno dalla conclusione della sublocazione, indicando il numero dei componenti la famiglia del subinquilino, la durata del contratto e il numero dei locali utili sublocati. 
  
  Se l'inquilino pratica la sublocazione a giornate, la comunicazione deve essere fatta non oltre il decimo giorno dall'inizio delle sublocazioni e, successivamente, ogni semestre. 
  
@@ -147,9 +147,9 @@ In ogni caso di sublocazione il locatore ha diritto di chiedere la risoluzione d
  
  Si presume che l'inquilino abbia sublocato l'intero immobile quando non vi dimora abitualmente. 
  
- E' prorogata sino al 31 dicembre 1946, la disposizione dell'[art. 1 del R. decreto-legge 25 gennaio 1943, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-25;162#art_1), che sospende l'efficacia delle clausole di divieto di subaffitto contenute nei contratti di locazione di appartamenti per uso di abitazione. 
+ E' prorogata sino al 31 dicembre 1946, la disposizione dell'[art. 1 del R. decreto-legge 25 gennaio 1943, n. 162](Disposizioni%20circa%20la%20sospensione%20delle%20clausole%20di%20divieto%20di%20subaffitto%20contenute%20nei%20contratti%20di%20locazione%20di%20appartamenti%20per%20uso%20di%20abitazione%20e%20disposizioni%20in%20materia%20di%20riduzione_113f74152edd.md), che sospende l'efficacia delle clausole di divieto di subaffitto contenute nei contratti di locazione di appartamenti per uso di abitazione. 
  
- E' abolito il divieto, stabilito dall'art. 2 del citato [R. decreto-legge 25 gennaio 1943, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-25;162), di immettere piu' di due persone per ogni vano abitabile.
+ E' abolito il divieto, stabilito dall'art. 2 del citato [R. decreto-legge 25 gennaio 1943, n. 162](Disposizioni%20circa%20la%20sospensione%20delle%20clausole%20di%20divieto%20di%20subaffitto%20contenute%20nei%20contratti%20di%20locazione%20di%20appartamenti%20per%20uso%20di%20abitazione%20e%20disposizioni%20in%20materia%20di%20riduzione_113f74152edd.md), di immettere piu' di due persone per ogni vano abitabile.
 
 ### Art. 16.
 
@@ -181,7 +181,7 @@ Su richiesta del conduttore possono essere rivedute le pigioni dovute per locazi
  
  Le disposizioni dei comma precedenti si applicano anche nel caso di sublocazione di immobili adibiti ad uso diverso da quello di abitazione. 
  
- E' abrogato il [R. decreto-legge 24 marzo 1942, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-03-24;200).
+ E' abrogato il [R. decreto-legge 24 marzo 1942, n. 200](Norme%20relative%20agli%20affitti%20degli%20immobili%20urbani.%20042U0200.md).
 
 ### Art. 18.
 
@@ -215,11 +215,11 @@ In ogni capoluogo di mandamento sara' costituita, con decreto del presidente del
 
 Alle commissioni previste dall'articolo precedente sono devolute: 
  1) le controversie relative agli aumenti di pigione stabiliti dal presente decreto; 
- 2) le controversie relative alla revisione delle pigioni, a norma del [R. decreto-legge 24 marzo 1942, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-03-24;200), tuttora pendenti dinanzi alle autorita' indicate nell'art. 1 del Regio decreto-legge predetto; 
+ 2) le controversie relative alla revisione delle pigioni, a norma del [R. decreto-legge 24 marzo 1942, n. 200](Norme%20relative%20agli%20affitti%20degli%20immobili%20urbani.%20042U0200.md), tuttora pendenti dinanzi alle autorita' indicate nell'art. 1 del Regio decreto-legge predetto; 
  3) le controversie relative alla revisione dei canoni di sublocazione, a norma del [R. decreto-legge 20 agosto 1942, n. 1189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-08-20;1189), tuttora pendenti innanzi alle autorita' previste nell'art. 1 del Regio decreto-legge predetto; 
- 4) le controversie, anche se pendenti, relative alla riduzione delle pigioni dovute per immobili che siano stati danneggiati da eventi bellici, a norma dell'[art. 6 del R. decreto-legge 25 gennaio 1943, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-25;162#art_6); 
- 5) le controversie, anche se pendenti, relative all'aumento delle pigioni a norma del [quinto comma dell'art. 13 del R. decreto-legge 16 giugno 1938, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;1387#art_13-com5), e del [quinto comma dell'art. 2 del R. decreto-legge 12 marzo 1941, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-03-12;142#art_2-com5); 
- 6) le controversie, anche se pendenti, relative all'aumento delle pigioni a norma del [sesto comma dell'art. 13 del R. decreto-legge 16 giugno 1938, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;1387#art_13-com6), e del [sesto comma dell'art. 2 del Regio decreto-legge 12 marzo 1941, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-03-12;142#art_2-com6); 
+ 4) le controversie, anche se pendenti, relative alla riduzione delle pigioni dovute per immobili che siano stati danneggiati da eventi bellici, a norma dell'[art. 6 del R. decreto-legge 25 gennaio 1943, n. 162](Disposizioni%20circa%20la%20sospensione%20delle%20clausole%20di%20divieto%20di%20subaffitto%20contenute%20nei%20contratti%20di%20locazione%20di%20appartamenti%20per%20uso%20di%20abitazione%20e%20disposizioni%20in%20materia%20di%20riduzione_113f74152edd.md); 
+ 5) le controversie, anche se pendenti, relative all'aumento delle pigioni a norma del [quinto comma dell'art. 13 del R. decreto-legge 16 giugno 1938, n. 1387](Norme%20per%20la%20disciplina%20dei%20prezzi%20delle%20merci%20dei%20servizi%20e%20degli%20affitti.%20038U1387.md), e del [quinto comma dell'art. 2 del R. decreto-legge 12 marzo 1941, n. 142](Proroga%20per%20tutta%20la%20durata%20dellattuale%20stato%20di%20guerra%20del%20blocco%20dei%20prezzi%20delle%20merci%20e%20dei%20servizi%20delle%20costruzioni%20edilizie%20degli%20impianti%20industriali%20e%20degli%20affitti.%20041U0142.md); 
+ 6) le controversie, anche se pendenti, relative all'aumento delle pigioni a norma del [sesto comma dell'art. 13 del R. decreto-legge 16 giugno 1938, n. 1387](Norme%20per%20la%20disciplina%20dei%20prezzi%20delle%20merci%20dei%20servizi%20e%20degli%20affitti.%20038U1387.md), e del [sesto comma dell'art. 2 del Regio decreto-legge 12 marzo 1941, n. 142](Proroga%20per%20tutta%20la%20durata%20dellattuale%20stato%20di%20guerra%20del%20blocco%20dei%20prezzi%20delle%20merci%20e%20dei%20servizi%20delle%20costruzioni%20edilizie%20degli%20impianti%20industriali%20e%20degli%20affitti.%20041U0142.md); 
  7) le controversie relative alla revisione delle pigioni pattuite dopo l'8 settembre 1943, a norma dell'articolo 17 del presente decreto; 
  8) le controversie relative all'applicazione degli articoli 9, 10, 11, 12, 16, 19, primo, secondo e terzo comma, 36 e 37 del presente decreto.
 

@@ -18,7 +18,7 @@ Visto il R. decreto, h. 1067, dell'8 febbraio 1923, e successive modificazioni;
 
 Visto il [R. decreto-legge n. 655, del 1° maggio 1924](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%201067%20e%2027%20settembre%201923%20n.%202351%20relativi%20alle%20comunicazioni%20senza%20filo.%20024U0655.md), convertito nella [legge 17 aprile 1924, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1924-04-17;473);
 
-Visto il [R. decreto n. 1226, del 10 luglio 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-10;1226);
+Visto il [R. decreto n. 1226, del 10 luglio 1924](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20Regio%20decreto%208%20febbraio%201923%20n.%201067%20e%20successive%20modificazioni%20riflettenti%20le%20comunicazioni%20senza%20filo.%20024U1226.md);
 
 Visto il decreto n. 2191, del 14 dicembre 1924;
 
@@ -26,9 +26,9 @@ Visto il [R. decreto-legge n. 520, del 23 aprile 1925](Nuovo%20ordinamento%20del
 
 Visto il [R. decreto-legge n. 1917, del 23 ottobre 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il [R. decreto n. 1559, del 13 agosto 1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-13;1559);
+Visto il [R. decreto n. 1559, del 13 agosto 1926](Modificazioni%20ed%20aggiunte%20al%20regolamento%20sulle%20comunicazioni%20senza%20filo%20approvato%20con%20R.%20decreto%2010%20luglio%201924%20n.%201226.%20026U1559.md);
 
-Visto il [R. decreto n. 1560, del 20 agosto 1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-20;1560);
+Visto il [R. decreto n. 1560, del 20 agosto 1926](Approvazione%20dellatto%20aggiuntivo%20alla%20Convenzione%20stipulata%20tra%20il%20Ministero%20delle%20comunicazioni%20e%20la%20Societa%20anonima%20Unione%20Radiofonica%20Italiana%20U.%20R.%20I.%20approvata%20con%20R.%20decreto%2014%20dice_61a21fbb4e61.md);
 
 Considerato il carattere di pubblica utilita' del servizio di radioaudizione circolare in quanto esso risponde a scopi d'ordine educativo, artistico e culturale che interessano la generalita' dei cittadini;
 

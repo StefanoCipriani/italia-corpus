@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -27,7 +27,7 @@ Il mutuo, da ammortizzarsi in venti anni, sara' contratto alle condizioni e nei 
 
 ## Art. 3.
 
-L'operazione di mutuo, di cui al precedente art. 1, e tutti gli atti ad essa inerenti e conseguenti, sono esenti da ogni imposta o tassa presente e futura, compresa la quota di abbonamento di cui all'[art. 8 del regio decreto-legge 2 settembre 1919, n. 1627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-09-02;1627#art_8), convertito nella [legge 14 aprile 1921, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-04-14;488).
+L'operazione di mutuo, di cui al precedente art. 1, e tutti gli atti ad essa inerenti e conseguenti, sono esenti da ogni imposta o tassa presente e futura, compresa la quota di abbonamento di cui all'[art. 8 del regio decreto-legge 2 settembre 1919, n. 1627](Che%20istituisce%20con%20sede%20in%20Roma%20un%20ente%20denominato%20Consorzio%20di%20credito%20per%20opere%20pubbliche%20determinandone%20lordinamento.%20019U1627.md), convertito nella [legge 14 aprile 1921, n. 488](Che%20converte%20in%20legge%20il%20Regio%20decreto%202%20settembre%201919%20n.%201627%20relativo%20alla%20costituzione%20di%20un%20nuovo%20Ente%20denominato%20Consorzio%20di%20credito%20per%20le%20opere%20pubbliche.%20021U0488.md).
 
 ## Art. 4.
 

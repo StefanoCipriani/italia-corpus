@@ -62,7 +62,7 @@ In ogni Provincia essi sono riuniti, mediante fusione obbligatoria dichiarata co
  
  Art. 3. - I Consorzi agrari previsti dall'art. 1 e la Federazione prevista dall'art. 2, assumono rispettivamente i diritti e le obbligazioni degli attuali Consorzi agrari cooperativi, degli Enti dei quali e' stata disposta la fusione e dell'attuale Federazione italiana dei Consorzi agrari. 
  
- Detto trapasso di diritti ed obbligazioni e' soggetto a tassa fissa di registro ed ipotecaria di L. 20, ferma restando la corresponsione degli emolumenti ipotecari di cui alla tabella b), annessa al [R. decreto 30 dicembre 1923, n. 3272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3272). 
+ Detto trapasso di diritti ed obbligazioni e' soggetto a tassa fissa di registro ed ipotecaria di L. 20, ferma restando la corresponsione degli emolumenti ipotecari di cui alla tabella b), annessa al [R. decreto 30 dicembre 1923, n. 3272](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ipotecarie.%20023U3272.md). 
  
  Art. 4. - Sino alla formazione degli statuti previsti dall'art. 1 e dall'art. 2 della presente legge, i Consorzi agrari cooperativi, gli Enti dei quali e' stata disposta la fusione e l'attuale Federazione italiana dei Consorzi agrari continueranno a funzionare anche nei rapporti con i terzi, secondo le norme che attualmente li regolano. 
  

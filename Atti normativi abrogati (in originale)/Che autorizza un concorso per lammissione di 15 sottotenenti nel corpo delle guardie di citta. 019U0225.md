@@ -20,7 +20,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e delle facolta' conferite con [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e delle facolta' conferite con [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Visto il precedente Nostro decreto 14 ottobre 1917, n. 1732, col quale e' stato consentito al ministro dell'interno di derogare, durante il periodo della guerra, alle disposizioni di cui all'art. 1, lettere a) e b) dell'altro Nostro decreto 18 novembre 1915, n. 1625, convertito nella legge 20 dicembre stesso anno, limitatamente al concorso ed alla nomina dei sottotenenti delle guardie di citta'; 
  

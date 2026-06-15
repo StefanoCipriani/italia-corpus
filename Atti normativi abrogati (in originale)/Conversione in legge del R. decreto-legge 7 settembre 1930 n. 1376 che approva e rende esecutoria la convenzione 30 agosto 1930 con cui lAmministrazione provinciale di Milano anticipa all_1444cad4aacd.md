@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 settembre 1930, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-09-07;1376), che approva la convenzione 30 agosto 1930 con l'Amministrazione provinciale di Milano per l'esecuzione dei lavori necessari alla sistemazione integrale della pianura della Bassa Lodigiana. 
+ E' convertito in legge il [R. decreto-legge 7 settembre 1930, n. 1376](Approvazione%20della%20convenzione%20con%20lAmministrazione%20provinciale%20di%20Milano%20per%20lesecuzione%20dei%20lavori%20necessari%20alla%20sistemazione%20integrale%20della%20pianura%20della%20Bassa%20Lodigiana.%20030U1376.md), che approva la convenzione 30 agosto 1930 con l'Amministrazione provinciale di Milano per l'esecuzione dei lavori necessari alla sistemazione integrale della pianura della Bassa Lodigiana. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

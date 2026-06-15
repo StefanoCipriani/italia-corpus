@@ -14,7 +14,7 @@ Visti gli [articoli 35 e seguenti del regio decreto 29 agosto 1941, n. 1449](htt
 
 Vista la tabella organica dell'Istituto di istruzione professionale per i ciechi "Paolo Colosimo" di Napoli annessa al citato [regio decreto 29 agosto 1941, n. 1449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-29;1449);
 
-Visto l'[art. 28 del regio decreto 1° luglio 1933, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-07-01;786#art_28), sul passaggio allo Stato delle scuole dei Comuni autonomi;
+Visto l'[art. 28 del regio decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), sul passaggio allo Stato delle scuole dei Comuni autonomi;
 
 Visto il [regio decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), che approva il testo unico sull'istruzione elementare e successive modificazioni;
 

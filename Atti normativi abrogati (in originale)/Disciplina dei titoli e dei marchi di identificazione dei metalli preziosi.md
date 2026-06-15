@@ -222,8 +222,8 @@ prime od oggetti di metallo prezioso il cui titolo risulti inferiore a quello le
 
 ### Art. 27.
 
-Salvo i casi di particolare tenuita', alla condanna penale per ciascuno dei reati previsti dal precedente articolo consegue la pubblicazione della sentenza a norma dell'[articolo 36 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_36).
- In caso di recidiva, ferme restando le disposizioni di cui agli [articoli 99 e seguenti del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_99), alla condanna consegue la sospensione dall'esercizio della attivita' di produzione o di commercio di materie prime od oggetti di metalli preziosi per un periodo da un minimo di 15 giorni ad un massimo di 6 mesi.
+Salvo i casi di particolare tenuita', alla condanna penale per ciascuno dei reati previsti dal precedente articolo consegue la pubblicazione della sentenza a norma dell'[articolo 36 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ In caso di recidiva, ferme restando le disposizioni di cui agli [articoli 99 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), alla condanna consegue la sospensione dall'esercizio della attivita' di produzione o di commercio di materie prime od oggetti di metalli preziosi per un periodo da un minimo di 15 giorni ad un massimo di 6 mesi.
 
 ## DISPOSIZIONI FINALI E TRANSITORIE
 

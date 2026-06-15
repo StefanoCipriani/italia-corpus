@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 31 luglio 1956, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-31;917), sui servizi tecnici di artiglieria e della motorizzazione;
+Vista la [legge 31 luglio 1956, n. 917](Servizi%20tecnici%20di%20artiglieria%20e%20della%20motorizzazione.md), sui servizi tecnici di artiglieria e della motorizzazione;
 
 Visto il [decreto del Presidente della Repubblica 12 novembre 1958, n. 1211](Disposizioni%20per%20lespletamento%20dei%20concorsi%20e%20per%20lo%20svolgimento%20dei%20corsi%20e%20degli%20esami%20previsti%20dalla%20legge%2031%20luglio%201956%20n.%20917%20art.%206%20sui%20Servizi%20tecnici%20di%20artiglieria%20e%20della%20motorizzazione.md), recante disposizioni per l'espletamento dei concorsi e per
 

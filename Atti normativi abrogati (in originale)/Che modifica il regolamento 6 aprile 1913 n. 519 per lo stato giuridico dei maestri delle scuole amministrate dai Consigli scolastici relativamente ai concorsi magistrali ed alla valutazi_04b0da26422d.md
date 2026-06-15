@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 2, 4, 8, 10, 12, 13, 14, 15, 16, 17, 20, 21, 22, 24, 25, 26, 27, 29, 34, 38, 39, 51, 52, 56, 71, 72, 74 e 87 del regolamento approvato con [R. decreto 6 aprile 1913, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-04-06;549), sono sostituiti gli articoli seguenti: 
+Agli articoli 2, 4, 8, 10, 12, 13, 14, 15, 16, 17, 20, 21, 22, 24, 25, 26, 27, 29, 34, 38, 39, 51, 52, 56, 71, 72, 74 e 87 del regolamento approvato con [R. decreto 6 aprile 1913, n. 549](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20concernente%20lo%20stato%20giuridico%20dei%20maestri%20delle%20scuole%20elementari%20amministrate%20dai%20Consigli%20scolastici%20013U0549.md), sono sostituiti gli articoli seguenti: 
  
  Art. 2. - Il concorso e' bandito dal Consiglio scolastico, una sola volta all'anno, per posti di ultima classe di scuole rurali e di obbligatorie non classificate, tenendo distinti i posti delle classi maschili da quelli delle classi femminili e da quelli delle classi miste. 
  
@@ -28,7 +28,7 @@ Agli articoli 2, 4, 8, 10, 12, 13, 14, 15, 16, 17, 20, 21, 22, 24, 25, 26, 27, 2
  
  In ogni caso il termine predetto e' prorogato al 31 luglio per tutti i concorrenti per la presentazione del certificato di servizio dell'anno in corso: e, per i soli concorrenti che conseguano il diploma di abilitazione all'insegnamento elementare, di cui all'articolo del [regolamento 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217), nella sessione estiva di esami dell'anno in cui il concorso fu bandito, per la presentazione del diploma stesso. 
  
- Qualora il diploma non possa essere rilasciato entro il 31 luglio, puo' essere sostituito da un certificato provvisorio, da redigersi a norma dell'art. 52 del predetto regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1217). 
+ Qualora il diploma non possa essere rilasciato entro il 31 luglio, puo' essere sostituito da un certificato provvisorio, da redigersi a norma dell'art. 52 del predetto regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md). 
  
  Art. 10. - I documenti, che i concorrenti devono presentare a corredo della domanda in carta bollata, sono i seguenti: 
  
@@ -209,7 +209,7 @@ Per effetto di questo, la Commissione puo' diminuire fino al massimo di un punto
  
  La relazione della Commissione giudicatrice deve portare una succinta motivazione del giudizio da essa dato su ciascuna pubblicazione. 
  
- Art. 27. - Nei concorsi a posti d'insegnante nelle Provincie, che comprendono Comuni nei quali, a termini dell'[art.89 delle legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_89), e' obbligatorio l'insegnamento della lingua francese, le Commissioni giudicatrici debbono formare due graduatorie di cui una speciale per i Comuni anzidetti. Nella formazione di queste graduatorie le Commissioni stesse, otre a valutare secondo le norme prescritte i titoli indicati nella tabella annessa al presente regolamento, assegnano un voto, fino al massimo di 10, a quei candidati che abbiano presentato al concorso titoli atti a provare la loro conoscenza, teorica o pratica della lingua francese e la loro capacita', nell'insegnamento di essa. 
+ Art. 27. - Nei concorsi a posti d'insegnante nelle Provincie, che comprendono Comuni nei quali, a termini dell'[art.89 delle legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), e' obbligatorio l'insegnamento della lingua francese, le Commissioni giudicatrici debbono formare due graduatorie di cui una speciale per i Comuni anzidetti. Nella formazione di queste graduatorie le Commissioni stesse, otre a valutare secondo le norme prescritte i titoli indicati nella tabella annessa al presente regolamento, assegnano un voto, fino al massimo di 10, a quei candidati che abbiano presentato al concorso titoli atti a provare la loro conoscenza, teorica o pratica della lingua francese e la loro capacita', nell'insegnamento di essa. 
  
  Art. 27.-bis. - Ad ogni candidato che sia insignito di ricompense di guerra saranno assegnati nella valutazione dei titoli per i concorsi i seguenti punti: l punto per la croce al merito di guerre, 2 punti per la medaglia di bronzo, 4 punti per la medaglia d'argento e 10 punti per la medaglia d'oro al valore militare. 
  
@@ -219,7 +219,7 @@ Per effetto di questo, la Commissione puo' diminuire fino al massimo di un punto
  
  Delle graduatorie e dell'elenco dei posti e' data comunicazione a tutti i Comuni della Provincia, che abbiano sedi vacanti, a tutti i Comuni cui appartengono i concorrenti e a tutti gli uffici provinciali scolastici del Regno. 
  
- Fino a che il Consiglio scolastico non abbia proceduto alle nomine, i Comuni, con deliberazione di Giunta e gli eleggibili possono far presenti al R. provveditore i loro desideri e le loro indicazioni circa l' assegnazione delle sedi, per gli effetti dell'[art. 47 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_47). 
+ Fino a che il Consiglio scolastico non abbia proceduto alle nomine, i Comuni, con deliberazione di Giunta e gli eleggibili possono far presenti al R. provveditore i loro desideri e le loro indicazioni circa l' assegnazione delle sedi, per gli effetti dell'[art. 47 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md). 
  
  Art. 34. - Il Consiglio scolastico assegna a ciascuno dei maestri eletti, nell'ordine di classificazione, la sede cui egli abbia chiesto di essere destinato a norma del precedente art. 29. Se alla sede sia gia', stato destinato altro insegnante, si assegna al richiedente quella da lui domandata in linea subordinata rispettando l'ordine di preferenza. 
  
@@ -227,7 +227,7 @@ Per effetto di questo, la Commissione puo' diminuire fino al massimo di un punto
  
  L'assegnazione dei maestri alle varie classi in ciascuna sede viene fatta dal R. ispettore scolastico della circoscrizione, il quale, di regola, ove alle scuole maschili siano addette anche maestre, assegnera' a queste, a preferenza, le prime e le seconde classi elementari. 
  
- Nell'assegnazione dei maestri a classi speciali (di deficienti, di sordo-muti, di ciechi, di tracomatosi o simili) o a corsi speciali, quali sono quelli indicati nell'art. 10, Cenni 3° e 4° della [legge 8 luglio 1904, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;407), devono essere preferiti quelli che siano forniti nell' abilitazione all'insegnamento in essi impartito. 
+ Nell'assegnazione dei maestri a classi speciali (di deficienti, di sordo-muti, di ciechi, di tracomatosi o simili) o a corsi speciali, quali sono quelli indicati nell'art. 10, Cenni 3° e 4° della [legge 8 luglio 1904, n. 407](Portante%20provvedimenti%20per%20la%20scuola%20e%20pei%20maestri%20elementari.%20004U0407.md), devono essere preferiti quelli che siano forniti nell' abilitazione all'insegnamento in essi impartito. 
  
  Art. 38. - I posti che non si possono coprire in via definitiva in base a concorso, sono conferiti dalla Deputazione scolastica con nomina provvisoria fra coloro che ne abbiano fatta domanda e seguendo l'ordine delle rispettive graduatorie, a seconda che si tratti di posti del ruolo maschile o del ruolo femminile, ove quelle graduatorie non siano esaurite. 
  
@@ -251,7 +251,7 @@ Per effetto di questo, la Commissione puo' diminuire fino al massimo di un punto
  
  Art. 56. - Un esemplare delle liste dei promovibili per anzianita' e un esemplare delle graduatorie dei promovibili per concorso devono essere depositati, in conformita' dell'art, 29 del presente regolamento, per un periodo di 15 giorni nella segreteria dell'ufficio scolastico pesche gli interessati possano prenderne visione. 
  
- Art. 71. - Alle supplenze si provvede o con l'assunzione temporanea dei vincitori del concorso che non abbiano ottenuto la nomina, definitiva o provvisoria, o con l'applicazione dell'[art. 6 della legge 8 luglio 1904, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;407#art_6), o con l'assunzione di persone abilitate all'insegnamento elementare, che ne abbiano fatto domanda. 
+ Art. 71. - Alle supplenze si provvede o con l'assunzione temporanea dei vincitori del concorso che non abbiano ottenuto la nomina, definitiva o provvisoria, o con l'applicazione dell'[art. 6 della legge 8 luglio 1904, n. 407](Portante%20provvedimenti%20per%20la%20scuola%20e%20pei%20maestri%20elementari.%20004U0407.md), o con l'assunzione di persone abilitate all'insegnamento elementare, che ne abbiano fatto domanda. 
  
  Verificatasi l'assenza, il vice ispettore provvede immediatamente in conformita' dell' art. 6 della legge sopracitata, affidando di preferenza la classe, il cui maestro e' assente, al maestro di quella immediatamente superiore al quale e' corrisposta la retribuzione galla misura stabilita dall'articolo stesso. 
  

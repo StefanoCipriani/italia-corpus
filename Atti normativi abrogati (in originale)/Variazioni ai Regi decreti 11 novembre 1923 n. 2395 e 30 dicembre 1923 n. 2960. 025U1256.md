@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato o successive estensioni e modificazioni;
+Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato o successive estensioni e modificazioni;
 
 Veduto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per le f
 
 Il personale salariato che ottenga il passaggio ad impiego nei ruoli dei personali appartenenti ai gruppi A, B e C o in quelli del personale subalterno, conserva a titolo di assegno personale, non utile a pensione da riassorbirsi nei successivi aumenti, l'eventuale eccedenza della retribuzione mensile o della paga giornaliera di cui sia provvisto all'atto del passaggio, valutata ad anno, in ragione rispettivamente di dodici mensualita' o di trecento giornate, ed aumentata delle eventuali indennita' temporanee mensili, sull'importo complessivo dello stipendio, del supplemento di servizio attivo e delle indennita' temporanee mensili inerenti al nuovo posto. 
  
- Nei casi di cui al precedente comma, durante il periodo di prova compete, a titolo di assegno personale, l'eventuale eccedenza del trattamento di salariato, goduto all'atto del passaggio, sull'assegno mensile spettante ai sensi del [secondo comma dell'art. 17 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_17-com2).
+ Nei casi di cui al precedente comma, durante il periodo di prova compete, a titolo di assegno personale, l'eventuale eccedenza del trattamento di salariato, goduto all'atto del passaggio, sull'assegno mensile spettante ai sensi del [secondo comma dell'art. 17 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 2.
 
@@ -36,7 +36,7 @@ Agli effetti della determinazione del periodo prescritto per le promozioni al gr
 
 Il limite di cui all'[art. 99 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_99), e' elevato a L. 15,000. 
  
- Il limite di cui al [secondo comma dell'art. 32 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_32-com2), e' elevato a L. 10,000.
+ Il limite di cui al [secondo comma dell'art. 32 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' elevato a L. 10,000.
 
 ## Art. 4.
 
@@ -48,7 +48,7 @@ Le norme di cui ai precedenti articoli 1 e 4 si applicano, con effetto dalla dat
 
 ## Art. 6.
 
-L'[art. 200 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_200), modificato con l'[art. 54 del R. decreto 8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;843#art_54), e' sostituito dal seguente: 
+L'[art. 200 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificato con l'[art. 54 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), e' sostituito dal seguente: 
  
  «I posti che dopo l'applicazione delle disposizioni in vigore comprese quelle del presente decreto, concernenti passaggi di ruolo e sistemazione di personale in ruolo, si renderanno vacanti nel grado iniziale dei ruoli del personale civile, saranno conferiti al personale straordinario, avventizio, diurnista, giornaliero, cottimista o altro personale non di ruolo comunque denominato, in servizio almeno dal 1° dicembre 1923 nella rispettiva Amministrazione, prescindendo dai limiti di eta': 
  

@@ -12,17 +12,17 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), che delega il Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), che delega il Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Vista la [direttiva del Consiglio n. 68/193/CEE del 9 aprile 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1968;193), che fissa le norme sulla produzione e sul commercio dei materiali di moltiplicazione vegetativa della vite nei Paesi della Comunita';
 
-Visto il [decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-24;1164), che ha recepito nella legislazione nazionale la predetta direttiva;
+Visto il [decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](../DPR/Norme%20sulla%20produzione%20e%20sul%20commercio%20dei%20materiali%20di%20moltiplicazione%20vegetativa%20della%20vite.md), che ha recepito nella legislazione nazionale la predetta direttiva;
 
 Considerato che la citata [direttiva n. 68/193/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1968;193) ha in seguito subito modifiche apportate dalla stessa Comunita' con la [direttiva del Consiglio n. 71/140/CEE del 22 marzo 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1971;140), con la [direttiva del Consiglio n. 74/648/CEE del 9 dicembre 1974](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1974;648), con la [direttiva del Consiglio n. 74/649/CEE del 9 dicembre 1974](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1974;649), con la [direttiva della commissione n. 77/629/CEE del 28 settembre 1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;629), con la [direttiva del Consiglio n. 78/55/CEE del 19 dicembre 1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;55) e con la [direttiva del Consiglio n. 78/692/CEE del 25 luglio 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;692);
 
-Considerato che le sopracitate sei direttive (CEE) hanno apportato modifiche alla direttiva di base n. 68/193/CEE e che quindi occorre modificare il [decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-24;1164);
+Considerato che le sopracitate sei direttive (CEE) hanno apportato modifiche alla direttiva di base n. 68/193/CEE e che quindi occorre modificare il [decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](../DPR/Norme%20sulla%20produzione%20e%20sul%20commercio%20dei%20materiali%20di%20moltiplicazione%20vegetativa%20della%20vite.md);
 
-Considerato che in data 25 febbraio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 25 febbraio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -36,7 +36,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-L'[art. 1 del decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-24;1164#art_1), e' sostituito dal seguente: 
+L'[art. 1 del decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](../DPR/Norme%20sulla%20produzione%20e%20sul%20commercio%20dei%20materiali%20di%20moltiplicazione%20vegetativa%20della%20vite.md), e' sostituito dal seguente: 
  "In applicazione della [direttiva n. 68/193/CEE del Consiglio, del 9 aprile 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1968;193), e delle successive modifiche apportate con: 
  
  la [direttiva n. 71/140/CEE del Consiglio, del 22 maggio 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1971;140), 
@@ -71,18 +71,18 @@ L'[art. 1 del decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164]
 
 ## Art. 2.
 
-L'[art. 4 del decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-24;1164#art_4), e' sostituito dal seguente: 
- "Le ditte autorizzate, ai sensi dell'[art. 1 della legge 18 giugno 1931, n. 987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-18;987#art_1), a produrre e commerciare materiali di moltiplicazione sono tenute, allorche' intendano richiedere il controllo e la certificazione di cui ai successivi articoli 12 e 13, a denunciare, nei modi e nei termini che saranno stabiliti con decreto del Ministro dell'agricoltura e delle foreste, da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana, le colture istituite per la produzione di detti materiali, la consistenza dei materiali ottenuti e la provenienza di quelli di cui abbiano comunque acquisito la disponibilita', nonche' le relative variazioni".
+L'[art. 4 del decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](../DPR/Norme%20sulla%20produzione%20e%20sul%20commercio%20dei%20materiali%20di%20moltiplicazione%20vegetativa%20della%20vite.md), e' sostituito dal seguente: 
+ "Le ditte autorizzate, ai sensi dell'[art. 1 della legge 18 giugno 1931, n. 987](Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20031U0987.md), a produrre e commerciare materiali di moltiplicazione sono tenute, allorche' intendano richiedere il controllo e la certificazione di cui ai successivi articoli 12 e 13, a denunciare, nei modi e nei termini che saranno stabiliti con decreto del Ministro dell'agricoltura e delle foreste, da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana, le colture istituite per la produzione di detti materiali, la consistenza dei materiali ottenuti e la provenienza di quelli di cui abbiano comunque acquisito la disponibilita', nonche' le relative variazioni".
 
 ## Art. 3.
 
-Il [primo comma dell'art. 7 del decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-24;1164#art_7-com1), e' sostituito dai seguenti: 
+Il [primo comma dell'art. 7 del decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](../DPR/Norme%20sulla%20produzione%20e%20sul%20commercio%20dei%20materiali%20di%20moltiplicazione%20vegetativa%20della%20vite.md), e' sostituito dai seguenti: 
  "Non possono essere venduti, posti in vendita o immessi altrimenti in commercio materiali di moltiplicazione se non in lotti sufficientemente omogenei, confezionati in imballaggi o mazzi chiusi in modo che ciascun mazzo o imballaggio non si possa aprire senza deteriorare il sistema di chiusura, il contrassegno e la integrita' della etichetta assicurata allo stesso sistema di chiusura. 
  E' possibile procedere a una o piu' nuove chiusure soltanto sotto controllo ufficiale".
 
 ## Art. 4.
 
-Il [primo comma dell'art. 9 del decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-24;1164#art_9-com1), e' sostituito dal seguente: 
+Il [primo comma dell'art. 9 del decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](../DPR/Norme%20sulla%20produzione%20e%20sul%20commercio%20dei%20materiali%20di%20moltiplicazione%20vegetativa%20della%20vite.md), e' sostituito dal seguente: 
  "L'immissione in commercio dei materiali di moltiplicazione provenienti dai Paesi membri della Comunita' economica europea o da Paesi terzi e' consentita alla condizione che vengano fornite al servizio di controllo, con apposito documento rilasciato dal servizio di controllo dello Stato esportatore, le seguenti indicazioni: 
  a) specie (designazione botanica); 
  b) varieta' e, se del caso, il clone: per le barbatelle innestate tali indicazioni si applicano sia ai portinnesti che alle talee innestate; 
@@ -99,7 +99,7 @@ Il [primo comma dell'art. 9 del decreto del Presidente della Repubblica 24 dicem
 
 ## Art. 5.
 
-L'allegato I, parte I, "Condizioni generali", al [decreto del Presidente della Repubblica 24 dicembre 1969, numero 1164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-24;1164), viene modificato come segue: 
+L'allegato I, parte I, "Condizioni generali", al [decreto del Presidente della Repubblica 24 dicembre 1969, numero 1164](../DPR/Norme%20sulla%20produzione%20e%20sul%20commercio%20dei%20materiali%20di%20moltiplicazione%20vegetativa%20della%20vite.md), viene modificato come segue: 
  n. 3): le parole "organismi nocivi, in particolare da virus,", sono sostituite dalle parole: "organismi nocivi o loro vettori, in particolare nematodi, che trasportano le malattie da virus"; 
  n. 5): viene sostituito dal testo seguente: 
  "Nelle colture destinate alla produzione dei materiali di moltiplicazione di base, le malattie da "virus" nocivi, in particolare il raccorciamento degli internodi e l'accartocciamento, devono essere eliminate. 
@@ -112,7 +112,7 @@ L'allegato I, parte I, "Condizioni generali", al [decreto del Presidente della R
 
 ## Art. 6.
 
-All'allegato II, parte III, "Calibrazione", n. 1), al [decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-24;1164), il testo della lettera B) e' sostituito dal seguente: 
+All'allegato II, parte III, "Calibrazione", n. 1), al [decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](../DPR/Norme%20sulla%20produzione%20e%20sul%20commercio%20dei%20materiali%20di%20moltiplicazione%20vegetativa%20della%20vite.md), il testo della lettera B) e' sostituito dal seguente: 
  "B) Lunghezza: 
  a) talee di portinnesto: lunghezza minima, cm 40 dalla base del nodo inferiore, tenuto conto del meritallo superiore; 
  b) talee da vivaio: lunghezza minima, cm 55 dalla base del nodo inferiore, tenuto conto del meritallo superiore; 
@@ -122,7 +122,7 @@ All'allegato II, parte III, "Calibrazione", n. 1), al [decreto del Presidente de
 
 ## Art. 7.
 
-All'allegato III, "Condizionamento", al [decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-24;1164), il testo del n. 3) e' sostituito dal seguente: 
+All'allegato III, "Condizionamento", al [decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](../DPR/Norme%20sulla%20produzione%20e%20sul%20commercio%20dei%20materiali%20di%20moltiplicazione%20vegetativa%20della%20vite.md), il testo del n. 3) e' sostituito dal seguente: 
  
 Natura. . . . . . . . . . . . . . . . . . . . . . . . . . . Quantita' "3) Nesti: 
 allorche' vi sono 5 gemme utilizzabili. . . . . . . . . . . 100 o 200 allorche' vi e' una gemma utilizzabile. . . . 500 o un suo multiplo". 
@@ -134,7 +134,7 @@ allorche' vi sono 5 gemme utilizzabili. . . . . . . . . . . 100 o 200 allorche' 
 
 ## Art. 8.
 
-L'allegato IV, "Etichetta", al [decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-24;1164), e' modificato come segue: 
+L'allegato IV, "Etichetta", al [decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164](../DPR/Norme%20sulla%20produzione%20e%20sul%20commercio%20dei%20materiali%20di%20moltiplicazione%20vegetativa%20della%20vite.md), e' modificato come segue: 
  1) alla parte A), lettera a), il n. 2) e' sostituito dal seguente: 
  "2) Nome, cognome ed indirizzo della persona responsabile della chiusura e suo numero di identificazione". 
  2) Dopo la parte A), e' inserita la seguente parte: 

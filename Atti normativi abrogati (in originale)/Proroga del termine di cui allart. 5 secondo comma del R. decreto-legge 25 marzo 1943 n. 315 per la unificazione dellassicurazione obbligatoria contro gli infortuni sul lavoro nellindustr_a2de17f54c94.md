@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il termine previsto dal [secondo comma dell'art. 5 del R. decreto-legge 25 marzo 1943, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-03-25;315#art_5-com2), e' prorogato fino a sei mesi dalla data del 1° giugno 1946 entro la quale il Ministro per il lavoro e la previdenza sociale, d'intesa col Ministro per il tesoro, dovra' provvedere ed emanare le norme relative all'inquadramento del personale delle soppresse Casse mutue infortuni agricoli e della loro Federazione.
+Il termine previsto dal [secondo comma dell'art. 5 del R. decreto-legge 25 marzo 1943, n. 315](Unificazione%20dellassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20nellindustria%20e%20nellagricoltura.%20043U0315.md), e' prorogato fino a sei mesi dalla data del 1° giugno 1946 entro la quale il Ministro per il lavoro e la previdenza sociale, d'intesa col Ministro per il tesoro, dovra' provvedere ed emanare le norme relative all'inquadramento del personale delle soppresse Casse mutue infortuni agricoli e della loro Federazione.
 
 ## Art. 2.
 

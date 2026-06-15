@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [decreto-legge 5 novembre 1973, n. 658](Interventi%20a%20favore%20delle%20popolazioni%20dei%20comuni%20interessati%20dalla%20infezione%20colerica%20dellagosto%20e%20settembre%201973.md), convertito, con modificazioni, nella [legge 27 dicembre 1973, n. 868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-27;868);
+Visto il [decreto-legge 5 novembre 1973, n. 658](Interventi%20a%20favore%20delle%20popolazioni%20dei%20comuni%20interessati%20dalla%20infezione%20colerica%20dellagosto%20e%20settembre%201973.md), convertito, con modificazioni, nella [legge 27 dicembre 1973, n. 868](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20novembre%201973%20n.%20658%20recante%20interventi%20a%20favore%20delle%20popolazioni%20dei%20comuni%20interessati%20dalla%20infezione%20colerica%20dellagosto%20e%20_5b27b1b3f3a7.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di ulteriori interventi straordinari a favore delle popolazioni dei comuni della Campania interessate alla crisi economica conseguente alla infezione colerica dell'agosto e settembre 1973;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale di concerto co
 
 ## Art. 1.
 
-Nei comuni della regione Campania possono essere istituiti corsi di formazione professionale per lo svolgimento di programmi di attivita' addestrative di carattere straordinario, promossi ai sensi dell'[art. 8 del decreto-legge 5 novembre 1973, n. 658](Interventi%20a%20favore%20delle%20popolazioni%20dei%20comuni%20interessati%20dalla%20infezione%20colerica%20dellagosto%20e%20settembre%201973.md), convertito, con modificazioni, nella [legge 27 dicembre 1973, n. 868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-27;868).
+Nei comuni della regione Campania possono essere istituiti corsi di formazione professionale per lo svolgimento di programmi di attivita' addestrative di carattere straordinario, promossi ai sensi dell'[art. 8 del decreto-legge 5 novembre 1973, n. 658](Interventi%20a%20favore%20delle%20popolazioni%20dei%20comuni%20interessati%20dalla%20infezione%20colerica%20dellagosto%20e%20settembre%201973.md), convertito, con modificazioni, nella [legge 27 dicembre 1973, n. 868](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20novembre%201973%20n.%20658%20recante%20interventi%20a%20favore%20delle%20popolazioni%20dei%20comuni%20interessati%20dalla%20infezione%20colerica%20dellagosto%20e%20_5b27b1b3f3a7.md).
  Al finanziamento occorrente per gli adempimenti di cui al precedente comma, lo Stato concorre con un contributo straordinario di lire 3.000 milioni, che e' assegnato al fondo per l'addestramento professionale dei lavoratori ad incremento della quota statale. Detta somma sara' iscritta sul cap. 5030 dello stato di previsione della spesa del Ministero del lavoro e della previdenza sociale per l'anno 1975.
  Agli allievi che frequentano i corsi di formazione professionale di cui al presente articolo e' corrisposta una indennita' giornaliera di frequenza nella misura di lire 3.000.
  Detti corsi sono orientati a consentire agli inoccupati l'inserimento nei settori terziario, dell'edilizia e dell'industria manifatturiera.

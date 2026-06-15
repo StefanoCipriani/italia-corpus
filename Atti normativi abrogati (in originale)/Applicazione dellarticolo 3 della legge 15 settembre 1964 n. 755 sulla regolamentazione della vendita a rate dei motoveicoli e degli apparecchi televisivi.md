@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 3 della legge 15 settembre 1964, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-09-15;755#art_3), sulla regolamentazione delle vendite a rate;
+Visto l'[art. 3 della legge 15 settembre 1964, n. 755](Regolamentazione%20della%20vendita%20a%20rate.md), sulla regolamentazione delle vendite a rate;
 
 Visto l'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76);
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per l'industria ed il commercio, di concerto con i M
 
 ## Art. 1.
 
-Dalla disciplina prevista dalla [legge 15 settembre 1964, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-09-15;755), sono esclusi gli apparecchi televisivi.
+Dalla disciplina prevista dalla [legge 15 settembre 1964, n. 755](Regolamentazione%20della%20vendita%20a%20rate.md), sono esclusi gli apparecchi televisivi.
 
 ## Art. 2.
 

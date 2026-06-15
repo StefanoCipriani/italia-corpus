@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per la durata della guerra il prefetto, a richiesta del Comune interessato e sul conforme parere del Consiglio provinciale di sanita', potra' autorizzare che sia ridotto di non oltre un anno il periodo di tempo stabilito per un decennio nell'art. 78 del regolamento di polizia mortuaria approvato col [R. decreto 25 luglio 1892, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-07-25;448). 
+Per la durata della guerra il prefetto, a richiesta del Comune interessato e sul conforme parere del Consiglio provinciale di sanita', potra' autorizzare che sia ridotto di non oltre un anno il periodo di tempo stabilito per un decennio nell'art. 78 del regolamento di polizia mortuaria approvato col [R. decreto 25 luglio 1892, n. 448](Che%20approva%20il%20regolamento%20di%20polizia%20mortuaria.%20092U0448.md). 
  
  Con avviso, da pubblicarsi, sara' assegnato il termine non inferiore ad un trimestre per la presentazione delle domande di cui all'articolo 80 del regolamento medesimo.
 

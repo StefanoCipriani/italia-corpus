@@ -56,7 +56,7 @@ Gli 835 posti di ufficiale di 6ª classe sono conferiti:
  
  in un primo periodo: 
  
- a) a 226 alunni attualmente in servizio, vincitori del concorso 12 luglio 1905, con decorrenza 1° gennaio 1907; ed a 75 ricevitori ed aiutanti, appena proclamato l'esito del concorso preveduto dall'art. 146 del regolamento (lettera b), approvato con [R. decreto 14 ottobre 1906, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-10-14;546); 
+ a) a 226 alunni attualmente in servizio, vincitori del concorso 12 luglio 1905, con decorrenza 1° gennaio 1907; ed a 75 ricevitori ed aiutanti, appena proclamato l'esito del concorso preveduto dall'art. 146 del regolamento (lettera b), approvato con [R. decreto 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md); 
  
  in un secondo periodo: 
  
@@ -64,7 +64,7 @@ Gli 835 posti di ufficiale di 6ª classe sono conferiti:
 
 ## Art. 9.
 
-Gli altri posti d'ufficiale, ancora liberi dopo le assegnazioni di cui all'articolo precedente, saranno coperti in conformita' di quanto prescrive l'art. 146 del regolamento approvato con [R. decreto 14 ottobre 1906, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-10-14;546).
+Gli altri posti d'ufficiale, ancora liberi dopo le assegnazioni di cui all'articolo precedente, saranno coperti in conformita' di quanto prescrive l'art. 146 del regolamento approvato con [R. decreto 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md).
 
 ## Art. 10.
 
@@ -76,7 +76,7 @@ L'esame di concorso tra ricevitori ed aiutanti, per l'insieme delle quote loro a
 
 I ricevitori ed aiutanti, nominati ufficiali insieme agli alunni assunti mentre era in vigore il regolamento 26 gennaio 1902, saranno classificati in ragione di uno dopo ogni gruppo di tre alunni. 
  
- Quelli, invece, che entrino nel secondo periodo, insieme cioe' agli alunni assunti in forza degli articoli 4 e 5 della presente legge, saranno inscritti nel ruolo degli ufficiali nell'ordine stabilito dall'art. 146 del regolamento approvato con [R. decreto 14 ottobre 1906 n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-10-14;546).
+ Quelli, invece, che entrino nel secondo periodo, insieme cioe' agli alunni assunti in forza degli articoli 4 e 5 della presente legge, saranno inscritti nel ruolo degli ufficiali nell'ordine stabilito dall'art. 146 del regolamento approvato con [R. decreto 14 ottobre 1906 n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md).
 
 ## Art. 12.
 
@@ -94,7 +94,7 @@ I 440 nuovi posti di aiutante sono conferiti come appresso:
 
 ## Art. 13.
 
-I posti di aiutante, che rimarranno vacanti oltre quelli assegnati agli aventi diritto per l'articolo precedente, saranno coperti secondo le norme dell'art. 149 del regolamento approvato con [R. decreto 14 ottobre 1906, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-10-14;546).
+I posti di aiutante, che rimarranno vacanti oltre quelli assegnati agli aventi diritto per l'articolo precedente, saranno coperti secondo le norme dell'art. 149 del regolamento approvato con [R. decreto 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md).
 
 ## Art. 14.
 

@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 1° novembre 1943, n. 4/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-11-01;4), riguardante il passaggio, durante lo stato di guerra, della Marina mercantile e del rispettivo Sottosegretariato dal Ministero delle comunicazioni a quello della marina;
+Visto il [R. decreto-legge 1° novembre 1943, n. 4/B](Passaggio%20durante%20lo%20stato%20di%20guerra%20della%20Marina%20mercantile%20e%20del%20rispettivo%20Sottosegretariato%20dal%20Ministero%20delle%20comunicazioni%20a%20quello%20della%20Marina.%20043U0004.md), riguardante il passaggio, durante lo stato di guerra, della Marina mercantile e del rispettivo Sottosegretariato dal Ministero delle comunicazioni a quello della marina;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
 Visto, il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Visto il [decreto legislativo Luogotenenziale 8 febbraio 1946, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;49), relativo alla cessazione dello stato di guerra ed al passaggio della legislazione di guerra a quella di pace;
+Visto il [decreto legislativo Luogotenenziale 8 febbraio 1946, n. 49](../Decreti%20legislativi%20luogotenenziali/Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md), relativo alla cessazione dello stato di guerra ed al passaggio della legislazione di guerra a quella di pace;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-L'efficacia del [R. decreto-legge 1° novembre 1943, n. 4/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-11-01;4), e' prorogata sino a quattro mesi dopo la cessazione dello stato di guerra.
+L'efficacia del [R. decreto-legge 1° novembre 1943, n. 4/B](Passaggio%20durante%20lo%20stato%20di%20guerra%20della%20Marina%20mercantile%20e%20del%20rispettivo%20Sottosegretariato%20dal%20Ministero%20delle%20comunicazioni%20a%20quello%20della%20Marina.%20043U0004.md), e' prorogata sino a quattro mesi dopo la cessazione dello stato di guerra.
 
 ## Art. 2.
 

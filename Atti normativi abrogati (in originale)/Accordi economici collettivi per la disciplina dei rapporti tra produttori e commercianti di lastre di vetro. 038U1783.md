@@ -16,11 +16,11 @@ IL CAPO DEL GOVERNO
  
  Visti gli accordi economici collettivi: del 27 luglio 1937-XV, che disciplina i rapporti tra i produttori ed i commercianti di lastre di vetro lucido fino a mm. 3,9 di spessore; del 14 gennaio 1938-XVI, integrativo di quello del 27 luglio 1937-XV, del 14 gennaio 1938-XVI, che disciplina i rapporti tra i produttori e commercianti di vetri greggi in lastre; del 14 gennaio 1938-XVI che disciplina i rapporti tra i produttori ed i commercianti di lastre di vetro di forte spessore; accordi stipulati in Roma, il primo tra la Confederazione fascista degli industriali e la Confederazione fascista dei commercianti, e gli altri tre tra la Federazione nazionale fascista degli industriali del vetro e la Federazione nazionale fascista dei commercianti del vetro e della ceramica; 
  
- Visto il parere favorevole espresso dalla Corporazione del vetro e della ceramica nella seduta del 14 marzo 1938-XVI, al sensi dell'[art. 5 della legge 5 febbraio 1934, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;163#art_5); 
+ Visto il parere favorevole espresso dalla Corporazione del vetro e della ceramica nella seduta del 14 marzo 1938-XVI, al sensi dell'[art. 5 della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md); 
  
  Vista la deliberazione del Comitato corporativo centrale in data 5 luglio 1938-XVI, con cui si approvano i suddetti accordi, ai sensi del R. decreto-legge 18 aprile 1935-XIII, n. 441; 
  
- Visto l'[art. 11 della legge 5 febbraio 1934, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;163#art_11); 
+ Visto l'[art. 11 della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md); 
  
  Decreta: 
  

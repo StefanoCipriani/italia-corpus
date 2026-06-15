@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 10 giugno 1937, n. 1266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-10;1266), recante provvedimenti per la viticoltura e la produzione vinicola;
+Vista la [legge 10 giugno 1937, n. 1266](Provvedimenti%20per%20la%20viticoltura%20e%20la%20produzione%20vinicola.%20037U1266.md), recante provvedimenti per la viticoltura e la produzione vinicola;
 
-Visto il [R. decreto 12 dicembre 1938, n. 2273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-12;2273), relativo all'approvazione dello statuto regolamento del Consorzio nazionale fra i distillatori di spiriti di seconda categoria;
+Visto il [R. decreto 12 dicembre 1938, n. 2273](Approvazione%20dello%20statuto-regolamento%20del%20Consorzio%20fra%20i%20distillatori%20di%20spiriti%20di%20seconda%20categoria.%20038U2273.md), relativo all'approvazione dello statuto regolamento del Consorzio nazionale fra i distillatori di spiriti di seconda categoria;
 
-visto il [R. decreto-legge 13 agosto 1940, n. 1419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-08-13;1419), recante modificazioni alla predetta legge, convertito, con modificazioni, nella [legge 13 marzo 1941, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-03-13;383);
+visto il [R. decreto-legge 13 agosto 1940, n. 1419](Modificazioni%20alla%20legge%2010%20giugno%201937-XV%20n.%201266%20recante%20provvedimenti%20per%20la%20viticoltura%20e%20la%20produzione%20vinicola.%20040U1419.md), recante modificazioni alla predetta legge, convertito, con modificazioni, nella [legge 13 marzo 1941, n. 383](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013-agosto%201940-XVIII%20n.%201419%20che%20porta%20modificazioni%20alla%20legge%2010%20giugno%201937-XV%20n.%201266%20recante%20provvedimenti%20per%20la%20viticolt_829a2e1919c2.md);
 
-Visto il [R. decreto-legge 10 ottobre 1941, n. 1179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-10-10;1179), recante disposizioni temporanee per la provvista del vino da destinare alla distillazione;
+Visto il [R. decreto-legge 10 ottobre 1941, n. 1179](Disposizioni%20temporanee%20per%20la%20provvista%20del%20vino%20da%20destinare%20alla%20distillazione.%20041U1179.md), recante disposizioni temporanee per la provvista del vino da destinare alla distillazione;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -38,7 +38,7 @@ CAPO I
 
 ### Art. 1.
 
-L'Ente nazionale per la distillazione delle materie vinose, costituito a norma dell'[art. 11 della legge 10 giugno 1937, n. 1266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-10;1266#art_11), e' posto in liquidazione.
+L'Ente nazionale per la distillazione delle materie vinose, costituito a norma dell'[art. 11 della legge 10 giugno 1937, n. 1266](Provvedimenti%20per%20la%20viticoltura%20e%20la%20produzione%20vinicola.%20037U1266.md), e' posto in liquidazione.
 
 ### Art. 2.
 
@@ -238,7 +238,7 @@ CAPO II
 
 ### Art. 34.
 
-Il Consorzio nazionale fra i distillatori di spiriti di seconda categoria, costituito con l'[art. 20 della legge 10 giugno 1937, n. 1266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-10;1266#art_20), e' sciolto. 
+Il Consorzio nazionale fra i distillatori di spiriti di seconda categoria, costituito con l'[art. 20 della legge 10 giugno 1937, n. 1266](Provvedimenti%20per%20la%20viticoltura%20e%20la%20produzione%20vinicola.%20037U1266.md), e' sciolto. 
  
  Alla liquidazione del suo patrimonio si provvede a mezzo di un commissario liquidatore nominato con decreto del Ministro per l'industria, il commercio ed il lavoro, da pubblicarsi nella Gazzetta Ufficiale del Regno.
 
@@ -302,11 +302,11 @@ CAPO III
 
 ### Art. 46.
 
-Le disposizioni contenute nella [legge 10 giugno 1937, n. 1266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-10;1266), e successive modificazioni ed integrazioni di cui al [R. decreto-legge 13 agosto 1940, n. 1419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-08-13;1419), ed alla [legge 13 marzo 1941, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-03-13;383), per la parte concernente l'obbligatorieta' della destinazione di materie vinose alla distillazione, sono abrogate.
+Le disposizioni contenute nella [legge 10 giugno 1937, n. 1266](Provvedimenti%20per%20la%20viticoltura%20e%20la%20produzione%20vinicola.%20037U1266.md), e successive modificazioni ed integrazioni di cui al [R. decreto-legge 13 agosto 1940, n. 1419](Modificazioni%20alla%20legge%2010%20giugno%201937-XV%20n.%201266%20recante%20provvedimenti%20per%20la%20viticoltura%20e%20la%20produzione%20vinicola.%20040U1419.md), ed alla [legge 13 marzo 1941, n. 383](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013-agosto%201940-XVIII%20n.%201419%20che%20porta%20modificazioni%20alla%20legge%2010%20giugno%201937-XV%20n.%201266%20recante%20provvedimenti%20per%20la%20viticolt_829a2e1919c2.md), per la parte concernente l'obbligatorieta' della destinazione di materie vinose alla distillazione, sono abrogate.
 
 ### Art. 47.
 
-Le disposizioni del [R. decreto-legge 10 ottobre 1941, n. 1179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-10-10;1179), convertito nella [legge 12 febbraio 1942, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-12;283), rimaste in vigore successivamente alla entrata in applicazione del [decreto legislativo Luogotenenziale 8 marzo 1945, n. 62](Provvedimenti%20in%20materia%20di%20finanza%20locale.%20045U0062.md), sono abrogate.
+Le disposizioni del [R. decreto-legge 10 ottobre 1941, n. 1179](Disposizioni%20temporanee%20per%20la%20provvista%20del%20vino%20da%20destinare%20alla%20distillazione.%20041U1179.md), convertito nella [legge 12 febbraio 1942, n. 283](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2010%20ottobre%201941-XIX%20n.%201179%20recante%20disposizioni%20temporanee%20per%20la%20provvista%20del%20vino%20da%20destinare%20alla%20distillazione.%20042U0283.md), rimaste in vigore successivamente alla entrata in applicazione del [decreto legislativo Luogotenenziale 8 marzo 1945, n. 62](Provvedimenti%20in%20materia%20di%20finanza%20locale.%20045U0062.md), sono abrogate.
 
 ### Art. 48.
 

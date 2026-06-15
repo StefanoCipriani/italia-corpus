@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1343), concernente la modificazione del saggio d'interesse sulle somme versate in conto corrente postale. 
+ E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1343](Modificazione%20del%20saggio%20dinteresse%20sulle%20somme%20versate%20in%20conto%20corrente%20postale.%20033U1343.md), concernente la modificazione del saggio d'interesse sulle somme versate in conto corrente postale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

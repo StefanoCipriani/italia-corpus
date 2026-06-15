@@ -99,11 +99,11 @@ I regimi assicurativi di cui all'articolo 1, si applicano con le particolarita' 
                         b)
                             per l'assicurazione contro le malattie, le prestazioni sanitarie spettano ai lavoratori assicurati ed ai familiari a carico, ancorche' residenti o dimoranti in Italia, secondo le norme della [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), e dei relativi decreti delegati, e successive modificazioni ed integrazioni. Per l'ottenimento delle prestazioni economiche di malattia, il lavoratore e' tenuto, entro cinque giorni dal relativo rilascio, a trasmettere al datore di lavoro il certificato medico attestante l'inizio e la durata presunta della malattia, nonche' ad inviare il certificato di diagnosi alla locale rappresentanza diplomatica o consolare che, dopo verifica da parte di un medico di fiducia, ne cura l'inoltro all'istituto nazionale della previdenza sociale (INPS);
                         c)
-                            per l'assicurazione di maternita', l'indennita' economica di maternita' e' dovuta per i periodi previsti dagli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-30;1204#art_4) e [5 della legge 30 dicembre 1971, n. 1204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-30;1204#art_5), dietro presentazione al datore di lavoro e all'INPS dei certificati attestanti, rispettivamente, la data presunta e quella effettiva del parto, verificati da un medico di fiducia della locale rappresentanza diplomatica o consolare.
+                            per l'assicurazione di maternita', l'indennita' economica di maternita' e' dovuta per i periodi previsti dagli [articoli 4](Tutela%20delle%20lavoratrici%20madri.md) e [5 della legge 30 dicembre 1971, n. 1204](Tutela%20delle%20lavoratrici%20madri.md), dietro presentazione al datore di lavoro e all'INPS dei certificati attestanti, rispettivamente, la data presunta e quella effettiva del parto, verificati da un medico di fiducia della locale rappresentanza diplomatica o consolare.
 
 2.
 
-Le prestazioni economiche relative alle assicurazioni di cui all'articolo 1, comma 1, lettere a), b), d), e) ed f), sono liquidate sulla base della retribuzione convenzionale imponibile di cui all'articolo 4; per il trattamento speciale di disoccupazione si applica il limite fissato ai sensi dell'[articolo 3 della legge 29 febbraio 1980, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33#art_3).
+Le prestazioni economiche relative alle assicurazioni di cui all'articolo 1, comma 1, lettere a), b), d), e) ed f), sono liquidate sulla base della retribuzione convenzionale imponibile di cui all'articolo 4; per il trattamento speciale di disoccupazione si applica il limite fissato ai sensi dell'[articolo 3 della legge 29 febbraio 1980, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201979%20n.%20663%20concernente%20provvedimenti%20per%20il%20finanziamento%20del%20Servizio%20sanitario%20nazionale%20per%20la%20previdenza%20per%20il%20c_9d4821b80b65.md).
 
 3.
 
@@ -115,7 +115,7 @@ I datori di lavoro sono tenuti ad anticipare gli oneri per l'assistenza sanitari
 
 5.
 
-I datori di lavoro possono richiedere il rimborso delle somme anticipate per l'assistenza sanitaria di cui al comma 4 con le procedure di cui al [decreto del Presidente della Repubblica 31 luglio 1980, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;618).
+I datori di lavoro possono richiedere il rimborso delle somme anticipate per l'assistenza sanitaria di cui al comma 4 con le procedure di cui al [decreto del Presidente della Repubblica 31 luglio 1980, n. 618](../DPR/Assistenza%20sanitaria%20ai%20cittadini%20italiani%20allestero%20art.%2037%20primo%20comma%20lettere%20a%20e%20b%20della%20legge%20n.%20833%20del%201978.md).
 
 6.
 
@@ -152,7 +152,7 @@ L'aliquota complessiva a carico del datore di lavoro e' ridotta di dieci punti, 
 
 3.
 
-Per tutto quanto non disposto dal presente decreto in materia di infortuni sul lavoro e malattie professionali trovano applicazione le norme contenute nel testo unico approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-30;1124), e successive modifiche ed integrazioni.
+Per tutto quanto non disposto dal presente decreto in materia di infortuni sul lavoro e malattie professionali trovano applicazione le norme contenute nel testo unico approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), e successive modifiche ed integrazioni.
 
 4.
 

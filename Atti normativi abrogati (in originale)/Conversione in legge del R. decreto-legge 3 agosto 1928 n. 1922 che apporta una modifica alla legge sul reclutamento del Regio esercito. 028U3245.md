@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1922](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-03;1922), che apporta una modifica alla legge sul reclutamento del Regio esercito. 
+ E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1922](Modifica%20alla%20legge%20sul%20reclutamento%20del%20Regio%20esercito.%20028U1922.md), che apporta una modifica alla legge sul reclutamento del Regio esercito. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

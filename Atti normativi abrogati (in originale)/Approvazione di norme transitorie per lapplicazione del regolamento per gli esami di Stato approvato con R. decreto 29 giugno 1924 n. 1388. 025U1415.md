@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA DELL NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102);
+Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md);
 
-Veduto il [R. decreto 31 dicembre 1923, n. 2909](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909);
+Veduto il [R. decreto 31 dicembre 1923, n. 2909](Disposizioni%20concernenti%20gli%20esami%20di%20Stato.%20023U2909.md);
 
 Veduto il [R. decreto-legge 25 settembre 1924, n. 1585](Disposizioni%20concernenti%20listruzione%20superiore.%20024U1585.md);
 
-Veduto il [R. decreto 29 giugno 1924, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1388);
+Veduto il [R. decreto 29 giugno 1924, n. 1388](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20Stato%20di%20abilitazione%20allesercizio%20delle%20professioni%20di%20medico-chirurgo%20odontoiatra%20chimico%20farmacista%20ingegnere%20ed%20architetto.%20024U1388.md);
 
 Udito il Consiglio superiore della pubblica istruzione;
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Nella sessione dell'anno 1925 sono sedi degli esami di Stato tutte le universita' e gli istituti superiori di cui alle tabelle A e B del [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102). 
+Nella sessione dell'anno 1925 sono sedi degli esami di Stato tutte le universita' e gli istituti superiori di cui alle tabelle A e B del [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
  I candidati possono sostenere gli esami in qualunque sede, salvo il disposto del seguente articolo per gli esami di abilitazione all'esercizio della professione di architetto. 
  
@@ -42,27 +42,27 @@ Nella sessione dell'anno 1925 sono sedi degli esami di Stato tutte le universita
 
 Nella sessione dell'anno 1925 gli esami di Stato si svolgono in conformita' delle seguenti disposizioni: 
  
- 1° gli esami di abilitazione all'esercizio della professione di medico-chirurgo consistono in una prova orale pratica di medicina e in una prova orale pratica di chirurgia, con le norme stabilite dagli [articoli 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1388#art_40) e [41 del R. decreto 29 giugno 1924, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1388#art_41), senza l'obbligo, per la prova di medicina, dell'esecuzione delle ricerche di laboratorio. 
+ 1° gli esami di abilitazione all'esercizio della professione di medico-chirurgo consistono in una prova orale pratica di medicina e in una prova orale pratica di chirurgia, con le norme stabilite dagli [articoli 40](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20Stato%20di%20abilitazione%20allesercizio%20delle%20professioni%20di%20medico-chirurgo%20odontoiatra%20chimico%20farmacista%20ingegnere%20ed%20architetto.%20024U1388.md) e [41 del R. decreto 29 giugno 1924, n. 1388](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20Stato%20di%20abilitazione%20allesercizio%20delle%20professioni%20di%20medico-chirurgo%20odontoiatra%20chimico%20farmacista%20ingegnere%20ed%20architetto.%20024U1388.md), senza l'obbligo, per la prova di medicina, dell'esecuzione delle ricerche di laboratorio. 
  
  Le Commissioni esaminatrici sono composte di sei membri, dei quali quattro professori di ruolo, un libero docente ed una persona estranea all'insegnamento universitario. Le Commissioni si suddividono in due Sottocommissioni; 
  
- 2° gli esami di abilitazione all'esercizio della professione di chimico consistono nella prova pratica di cui all'[articolo 49 del R. decreto 29 giugno 1924, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1388#art_49), e in una prova orale, della durata di non meno di trenta minuti, nella quale si svolge una discussione intorno agli argomenti della prova pratica. 
+ 2° gli esami di abilitazione all'esercizio della professione di chimico consistono nella prova pratica di cui all'[articolo 49 del R. decreto 29 giugno 1924, n. 1388](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20Stato%20di%20abilitazione%20allesercizio%20delle%20professioni%20di%20medico-chirurgo%20odontoiatra%20chimico%20farmacista%20ingegnere%20ed%20architetto.%20024U1388.md), e in una prova orale, della durata di non meno di trenta minuti, nella quale si svolge una discussione intorno agli argomenti della prova pratica. 
  
  Le Commissioni esaminatrici sono composte di cinque membri, dei quali tre professori di ruolo, un libero docente e una persona estranea, all'insegnamento universitario; 
  
- 3° gli esami di abilitazione all'esercizio della professione di farmacista consistono nella prova di cui all'[art. 52 del R. decreto 29 giugno 1924, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1388#art_52), e in una prova orale di non meno di trenta minuti riguardante l'illustrazione del contenuto della farmacopea. 
+ 3° gli esami di abilitazione all'esercizio della professione di farmacista consistono nella prova di cui all'[art. 52 del R. decreto 29 giugno 1924, n. 1388](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20Stato%20di%20abilitazione%20allesercizio%20delle%20professioni%20di%20medico-chirurgo%20odontoiatra%20chimico%20farmacista%20ingegnere%20ed%20architetto.%20024U1388.md), e in una prova orale di non meno di trenta minuti riguardante l'illustrazione del contenuto della farmacopea. 
  
  Le Commissioni esaminatrici sono composte di cinque membri, dei quali tre professori di ruolo, un libero docente e una persona estranea all'insegnamento universitario; 
  
- 4° gli esami di abilitazione all'esercizio della professione di ingegnere consistono nella prova di cui alla [lettera b) dell'art. 55 del R. decreto 29 giugno 1924, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1388#art_55-letb), sopra temi che sono scelti da ciascuna Commissione, e nella prova orale di cui all'art. 60 dello stesso decreto. 
+ 4° gli esami di abilitazione all'esercizio della professione di ingegnere consistono nella prova di cui alla [lettera b) dell'art. 55 del R. decreto 29 giugno 1924, n. 1388](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20Stato%20di%20abilitazione%20allesercizio%20delle%20professioni%20di%20medico-chirurgo%20odontoiatra%20chimico%20farmacista%20ingegnere%20ed%20architetto.%20024U1388.md), sopra temi che sono scelti da ciascuna Commissione, e nella prova orale di cui all'art. 60 dello stesso decreto. 
  
- I laureati in fisica sono tenuti a sostenere tutte le prove di cui agli [articoli 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1388#art_55), [60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1388#art_60) e [61 del R. decreto 29 giugno 1924, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1388#art_61). 
+ I laureati in fisica sono tenuti a sostenere tutte le prove di cui agli [articoli 55](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20Stato%20di%20abilitazione%20allesercizio%20delle%20professioni%20di%20medico-chirurgo%20odontoiatra%20chimico%20farmacista%20ingegnere%20ed%20architetto.%20024U1388.md), [60](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20Stato%20di%20abilitazione%20allesercizio%20delle%20professioni%20di%20medico-chirurgo%20odontoiatra%20chimico%20farmacista%20ingegnere%20ed%20architetto.%20024U1388.md) e [61 del R. decreto 29 giugno 1924, n. 1388](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20Stato%20di%20abilitazione%20allesercizio%20delle%20professioni%20di%20medico-chirurgo%20odontoiatra%20chimico%20farmacista%20ingegnere%20ed%20architetto.%20024U1388.md). 
  
  I temi scritti e grafici sono scelti dalle singole Commissioni. 
  
  Le Commissioni esaminatrici sono composte di dieci membri dei quali: sei professori di ruolo, due liberi docenti e due estranei all'insegnamento universitario; 
  
- 5° gli esami di abilitazione all'esercizio della professione di architetto consistono nelle prove di cui agli [articoli 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1388#art_63), [64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1388#art_64) e [65 del R. decreto 29 giugno 1924, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1388#art_65). 
+ 5° gli esami di abilitazione all'esercizio della professione di architetto consistono nelle prove di cui agli [articoli 63](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20Stato%20di%20abilitazione%20allesercizio%20delle%20professioni%20di%20medico-chirurgo%20odontoiatra%20chimico%20farmacista%20ingegnere%20ed%20architetto.%20024U1388.md), [64](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20Stato%20di%20abilitazione%20allesercizio%20delle%20professioni%20di%20medico-chirurgo%20odontoiatra%20chimico%20farmacista%20ingegnere%20ed%20architetto.%20024U1388.md) e [65 del R. decreto 29 giugno 1924, n. 1388](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20Stato%20di%20abilitazione%20allesercizio%20delle%20professioni%20di%20medico-chirurgo%20odontoiatra%20chimico%20farmacista%20ingegnere%20ed%20architetto.%20024U1388.md). 
  
  Le prove estemporanee grafiche vertono su temi scelti dalla Commissione. 
  

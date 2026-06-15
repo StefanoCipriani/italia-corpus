@@ -14,17 +14,17 @@ Visto il [regio decreto 30 novembre 1930, n. 1629](https://www.normattiva.it/uri
 
 Visti i [regi decreti 20 febbraio 1939, nn. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-02-20;323) e [326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-02-20;326);
 
-Viste le [leggi 21 giugno 1940, n. 642 e 17 febbraio 1941, n. 61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-02-17;61);
+Viste le [leggi 21 giugno 1940, n. 642 e 17 febbraio 1941, n. 61](Aumento%20temporaneo%20dellorganico%20del%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza%20e%20di%20quello%20dei%20funzionari%20di%20pubblica%20sicurezza.%20041U0061.md);
 
-Visti i [regi decreti-legge 26 marzo 1942, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-03-26;334) e [10 maggio 1943, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-10;371);
+Visti i [regi decreti-legge 26 marzo 1942, n. 334](Nuovo%20aumento%20temporaneo%20delle%20guardie%20scelte%20e%20dello%20guardie%20del%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20042U0334.md) e [10 maggio 1943, n. 371](Aumento%20temporaneo%20dellorganico%20del%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20043U0371.md);
 
-Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-02;365);
+Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 365](../Decreti%20legislativi%20luogotenenziali/Istituzione%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.%20044U0365.md);
 
-Visto il [decreto legislativo luogotenenziale 21 agosto 1945, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;601);
+Visto il [decreto legislativo luogotenenziale 21 agosto 1945, n. 601](../Decreti%20legislativi%20luogotenenziali/Reclutamento%20straordinario%20in%20soprannumero%20di%20sottufficiali%20e%20guardie%20di%20pubblica%20sicurezza%20riservato%20ai%20combattenti%20della%20guerra%20di%20liberazione.%20045U0601.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri; - Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno, di concerto coi Ministri per la guerra e per il tesoro; HA SANZIONATO E PROMULGA:
 
@@ -33,8 +33,8 @@ Vista la deliberazione del Consiglio dei Ministri; - Sulla proposta del Presiden
 L'organico del Corpo delle guardie di pubblica sicurezza viene stabilito nella misura di 40.000 unita' cosi' suddivise:
  marescialli di 1° classe................................... 1.500 marescialli di 2° e 3° classe.............................. 2.540 brigadieri................................................. 2.347 vicebrigadieri............................................. 2.850 guardie scelte............................................. 4.776 guardie e allievi......................................... 25.087 
  ............................................................ 40.000 
- Con l'entrata in vigore del presente decreto cessano di avere efficacia le norme contenute nelle [leggi 21 giugno 1940, n. 642, 17 febbraio 1941, n. 61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-02-17;61) e nei [regi decreti-legge 26 marzo 1942, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-03-26;334), e [10 maggio 1943, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-10;371).
- A decorrere dal 6° anno dall'entrata in vigore del presente decreto, il quinto delle vacanze che si verificheranno nell'organico predetto, sara' destinato alla soppressione di un corrispondente numero di posti, iniziando dai gradi meno elevati, fino al completo riassorbimento delle eccedenze di cui al soprannumero autorizzato con [decreto legislativo luogotenenziale 21 agosto 1945, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;601), nel limite massimo di 400 brigadieri, 600 vicebrigadieri, 1000 guardie scelte e 4000 guardie.
+ Con l'entrata in vigore del presente decreto cessano di avere efficacia le norme contenute nelle [leggi 21 giugno 1940, n. 642, 17 febbraio 1941, n. 61](Aumento%20temporaneo%20dellorganico%20del%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza%20e%20di%20quello%20dei%20funzionari%20di%20pubblica%20sicurezza.%20041U0061.md) e nei [regi decreti-legge 26 marzo 1942, n. 334](Nuovo%20aumento%20temporaneo%20delle%20guardie%20scelte%20e%20dello%20guardie%20del%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20042U0334.md), e [10 maggio 1943, n. 371](Aumento%20temporaneo%20dellorganico%20del%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20043U0371.md).
+ A decorrere dal 6° anno dall'entrata in vigore del presente decreto, il quinto delle vacanze che si verificheranno nell'organico predetto, sara' destinato alla soppressione di un corrispondente numero di posti, iniziando dai gradi meno elevati, fino al completo riassorbimento delle eccedenze di cui al soprannumero autorizzato con [decreto legislativo luogotenenziale 21 agosto 1945, n. 601](../Decreti%20legislativi%20luogotenenziali/Reclutamento%20straordinario%20in%20soprannumero%20di%20sottufficiali%20e%20guardie%20di%20pubblica%20sicurezza%20riservato%20ai%20combattenti%20della%20guerra%20di%20liberazione.%20045U0601.md), nel limite massimo di 400 brigadieri, 600 vicebrigadieri, 1000 guardie scelte e 4000 guardie.
 
 ## Art. 2.
 

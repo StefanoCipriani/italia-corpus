@@ -39,7 +39,7 @@ Al personale di cui al precedente art. 1 si applicano le disposizioni sullo stat
 
 ## Art. 6.
 
-A decorrere dalla data di entrata in vigore del [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;5), la disposizione dell'art. 1 dello stesso decreto si applica anche nei concorsi per titoli e negli scrutini a turno di anzianita' per le promozioni a magistrato di Corte di appello e a magistrati di Corte di cassazione.
+A decorrere dalla data di entrata in vigore del [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](../DPR/Compensi%20ai%20componenti%20delle%20Commissioni%20Consigli%20Comitati%20o%20Collegi%20operanti%20nelle%20Amministrazioni%20statali%20anche%20con%20ordinamento%20autonomo%20e%20delle%20Commissioni%20giudicatrici%20dei%20concorsi%20di_6b5a1d3e573d.md), la disposizione dell'art. 1 dello stesso decreto si applica anche nei concorsi per titoli e negli scrutini a turno di anzianita' per le promozioni a magistrato di Corte di appello e a magistrati di Corte di cassazione.
 
 ## Art. 7.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 gennaio 1927, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-09;34), che da' esecuzione ai seguenti atti internazionali, relativi al Trattato di commercio e navigazione italo-germanico concluso in Roma il 31 ottobre 1925: 
+ E' convertito in legge il [R. decreto-legge 9 gennaio 1927, n. 34](Esecuzione%20di%20atti%20internazionali%20relativi%20al%20Trattato%20di%20commercio%20e%20di%20navigazione%20italo-germanico%20concluso%20in%20Roma%20il%2031%20ottobre%201925.%20027U0034.md), che da' esecuzione ai seguenti atti internazionali, relativi al Trattato di commercio e navigazione italo-germanico concluso in Roma il 31 ottobre 1925: 
  
  1° Protocollo firmato in Roma il 9 dicembre 1926 fra l'Italia e la Germania relativo ad errori di redazione constatati nel Trattato di cui sopra; 
  

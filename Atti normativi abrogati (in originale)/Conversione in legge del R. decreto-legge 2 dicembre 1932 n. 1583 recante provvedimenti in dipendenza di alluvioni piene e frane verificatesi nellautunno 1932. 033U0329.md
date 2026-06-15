@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 dicembre 1932, n. 1583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-12-02;1583), recante provvedimenti in dipendenza di alluvioni, piene e frane verificatesi nell'autunno 1932. 
+ E' convertito in legge il [R. decreto-legge 2 dicembre 1932, n. 1583](Provvedimenti%20in%20dipendenza%20di%20alluvioni%20piene%20e%20frane%20verificatesi%20nel%20settembre%20e%20novembre%201932.%20032U1583.md), recante provvedimenti in dipendenza di alluvioni, piene e frane verificatesi nell'autunno 1932. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

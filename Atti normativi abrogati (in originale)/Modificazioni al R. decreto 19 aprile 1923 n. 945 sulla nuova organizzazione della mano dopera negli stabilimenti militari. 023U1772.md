@@ -29,7 +29,7 @@ Per necessita' di carattere militare, in deroga all'[articolo 10 del R. decreto 
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di abrogazione da parte del [Regio Decreto 30 dicembre 1923, n. 2994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2994) e del [Regio Decreto 24 dicembre 1924, n. 2114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-24;2114), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di abrogazione da parte del [Regio Decreto 30 dicembre 1923, n. 2994](Disposizioni%20relative%20allo%20stato%20giuridico%20ed%20al%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.%20023U2994.md) e del [Regio Decreto 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 

@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [Regio decreto 3 giugno 1943, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-06-03;598), che approva il testo unico delle leggi in materia d'imposta straordinaria sui profitti di guerra;
+Visto il [Regio decreto 3 giugno 1943, n. 598](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), che approva il testo unico delle leggi in materia d'imposta straordinaria sui profitti di guerra;
 
-Visto il [decreto legislativo luogotenenziale 10 agosto 1944, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;199);
+Visto il [decreto legislativo luogotenenziale 10 agosto 1944, n. 199](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20concernenti%20limposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20044U0199.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

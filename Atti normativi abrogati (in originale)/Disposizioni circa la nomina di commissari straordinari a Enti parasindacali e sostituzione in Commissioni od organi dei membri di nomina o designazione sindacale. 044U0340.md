@@ -12,9 +12,9 @@ vigente: true
 
 Il Ministro per l'industria, il commercio e il lavoro ha facolta' di sciogliere gli organi deliberativi: 
  
- 1) degli enti che si propongono scopi di previdenza o di assistenza a favore di determinate categorie di datori di lavoro e di lavoratori ovvero, in generale, le finalita' previste nell'Art. 4, ultimo comma, della [legge 3 aprile 1926, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-04-03;563); 
+ 1) degli enti che si propongono scopi di previdenza o di assistenza a favore di determinate categorie di datori di lavoro e di lavoratori ovvero, in generale, le finalita' previste nell'Art. 4, ultimo comma, della [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md); 
  
- 2) delle associazioni costituite allo scopo di favorire lo sviluppo delle relazioni economiche, i cui organi direttivi debbono essere formati in tutto o in parte da rappresentanti delle associazioni sindacali riconosciute ai sensi della predetta [legge 3 aprile 1926, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-04-03;563). 
+ 2) delle associazioni costituite allo scopo di favorire lo sviluppo delle relazioni economiche, i cui organi direttivi debbono essere formati in tutto o in parte da rappresentanti delle associazioni sindacali riconosciute ai sensi della predetta [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md). 
  
  La facolta' prevista nel comma precedente puo' essere esercitata quand'anche trattasi di associazioni o di fondazioni non ancora riconosciute.
 
@@ -29,7 +29,7 @@ Tuttavia i sindaci in carica possono essere in tutto o in parte sostituiti dai M
 
 ## Art. 3.
 
-Il Ministro per l'industria, il commercio e il lavoro ha facolta' di sostituire nelle commissioni o negli organi di enti od organizzazioni, i membri che vi partecipano a motivo delle funzioni esercitate nelle associazioni sindacali riconosciute ai sensi della [legge 3 aprile 1926, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-04-03;563) ovvero che siano stati nominati o designati dalle associazioni stesse. 
+Il Ministro per l'industria, il commercio e il lavoro ha facolta' di sostituire nelle commissioni o negli organi di enti od organizzazioni, i membri che vi partecipano a motivo delle funzioni esercitate nelle associazioni sindacali riconosciute ai sensi della [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md) ovvero che siano stati nominati o designati dalle associazioni stesse. 
  
  Se trattasi di commissioni o di organi di enti a carattere provinciale o comunale, la sostituzione e' fatta dal prefetto. 
  

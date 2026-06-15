@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 aprile 1927, n. 698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-21;698), che porta agevolazioni per la emissione di obbligazioni da parte delle Societa' per azioni. 
+ E' convertito in legge il [R. decreto-legge 21 aprile 1927, n. 698](Agevolazioni%20per%20lemissione%20di%20obbligazioni%20da%20parte%20delle%20societa%20per%20azioni.%20027U0698.md), che porta agevolazioni per la emissione di obbligazioni da parte delle Societa' per azioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

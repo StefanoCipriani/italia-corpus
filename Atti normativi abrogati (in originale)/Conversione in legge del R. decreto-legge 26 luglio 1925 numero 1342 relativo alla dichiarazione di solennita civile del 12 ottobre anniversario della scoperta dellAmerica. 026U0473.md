@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 luglio 1925, n. 1342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-26;1342), relativo alla dichiarazione di solennita' civile del 12 ottobre, anniversario della scoperta dell'America. 
+ E' convertito in legge il [R. decreto-legge 26 luglio 1925, n. 1342](Dichiarazione%20di%20solennita%20civile%20del%20giorno%2012%20ottobre%20anniversario%20della%20scoperta%20dellAmerica.%20025U1342.md), relativo alla dichiarazione di solennita' civile del 12 ottobre, anniversario della scoperta dell'America. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

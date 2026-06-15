@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 marzo 1930, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-24;522), che abolisce, per gli impiegati privati di Fiume, il limite di retribuzione annua agli effetti dell'assicurazione obbligatoria di malattia. 
+ E' convertito in legge il [R. decreto-legge 24 marzo 1930, n. 522](Abolizione%20per%20gli%20impiegati%20privati%20di%20Fiume%20del%20limite%20di%20retribuzione%20annua%20agli%20effetti%20dellassicurazione%20obbligatoria%20di%20malattia.%20030U0522.md), che abolisce, per gli impiegati privati di Fiume, il limite di retribuzione annua agli effetti dell'assicurazione obbligatoria di malattia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

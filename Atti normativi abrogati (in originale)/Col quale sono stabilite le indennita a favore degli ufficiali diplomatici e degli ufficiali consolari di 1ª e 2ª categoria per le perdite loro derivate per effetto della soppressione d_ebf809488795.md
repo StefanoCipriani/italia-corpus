@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 13 giugno 1910, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-13;306), che approva le convenzioni provvisorie e definitive per i servizi postali e commerciali marittimi ed altri provvedimenti a favore delle industrie marittime; 
+ Vista la [legge 13 giugno 1910, n. 306](Per%20le%20convenzioni%20provvisorie%20e%20definitive%20pei%20servizi%20postali%20e%20commerciali%20marittimi%20ed%20altri%20provvedimenti%20a%20favore%20delle%20industrie%20marittime.%20010U0306.md), che approva le convenzioni provvisorie e definitive per i servizi postali e commerciali marittimi ed altri provvedimenti a favore delle industrie marittime; 
  
  Udito il Consiglio dei ministri; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Gl'indennizzi a favore degli ufficiali diplomatici e degli ufficiali consolari di lª e 2ª categoria per le perdite loro derivanti per effetto della soppressione dei diritti marittimi contemplati all'[art. 7 della legge 13 giugno 1910, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-13;306#art_7), saranno, a decorrere dal 1° luglio 1917 stabiliti come appresso: 
+ Gl'indennizzi a favore degli ufficiali diplomatici e degli ufficiali consolari di lª e 2ª categoria per le perdite loro derivanti per effetto della soppressione dei diritti marittimi contemplati all'[art. 7 della legge 13 giugno 1910, n. 306](Per%20le%20convenzioni%20provvisorie%20e%20definitive%20pei%20servizi%20postali%20e%20commerciali%20marittimi%20ed%20altri%20provvedimenti%20a%20favore%20delle%20industrie%20marittime.%20010U0306.md), saranno, a decorrere dal 1° luglio 1917 stabiliti come appresso: 
  
  a) per gli ufficiali diplomatici e per quelli consolari di 1ª categoria mediante quote fisse da determinarsi con decreto del ministro degli affari esteri, di concerto col ministro del tesoro, nei limiti del fondo attualmente stanziato in bilancio per tale scopo; dette quote saranno portate in aumento agli assegni di rappresentanza; 
  

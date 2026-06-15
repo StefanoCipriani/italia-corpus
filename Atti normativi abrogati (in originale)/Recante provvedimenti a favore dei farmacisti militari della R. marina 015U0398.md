@@ -20,7 +20,7 @@ Niuno puo' prestare ulteriore servizio nel personale dei farmacisti militari del
 
 ## Art. 3.
 
-Uno speciale regolamento stabilira' le norme per la applicazione della presente legge e per l'ordinamento e l'avanzamento del personale dei farmacisti militari della R. marina, in applicazione delle disposizioni generali sancito dal testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;693).
+Uno speciale regolamento stabilira' le norme per la applicazione della presente legge e per l'ordinamento e l'avanzamento del personale dei farmacisti militari della R. marina, in applicazione delle disposizioni generali sancito dal testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md).
 
 ## Art. 4.
 

@@ -60,7 +60,7 @@ Qualora il comune di Roma non provveda al pagamento della somma dovuta ai termin
  
  Il Prefetto accerta l'esistenza del titolo che stabilisce la obbligatorieta' della spesa, provvede, ove occorra, alle necessarie allocazioni d'ufficio nel bilancio comunale ed emette l'ordine di pagamento. 
  
- Agli ordini di pagamento si applicano le disposizioni contenute nel [3° comma dell'art. 37 del R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841#art_37-com3).
+ Agli ordini di pagamento si applicano le disposizioni contenute nel [3° comma dell'art. 37 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md).
 
 ## Art. 5.
 

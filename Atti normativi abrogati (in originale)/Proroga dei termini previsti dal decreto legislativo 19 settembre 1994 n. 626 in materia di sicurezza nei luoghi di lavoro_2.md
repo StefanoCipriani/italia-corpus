@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-In attesa dell'emanazione, ai sensi dell'[articolo 1, comma 5, della legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146#art_1-com5), del decreto legislativo correttivo ed integrativo del [decreto legislativo 19 settembre 1994, n. 626](Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%20e%2090-679-CEE%20riguardanti%20il%20miglioramento%20della%20sicurezza%20e%20della%20salute%20dei%20lavora_f68a06b7f59f.md), i termini previsti dal citato [decreto legislativo n. 626 del 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;626), non ancora decorsi alla data del 25 novembre 1995, sono differiti fino e non oltre il 19 marzo 1996.
+In attesa dell'emanazione, ai sensi dell'[articolo 1, comma 5, della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), del decreto legislativo correttivo ed integrativo del [decreto legislativo 19 settembre 1994, n. 626](Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%20e%2090-679-CEE%20riguardanti%20il%20miglioramento%20della%20sicurezza%20e%20della%20salute%20dei%20lavora_f68a06b7f59f.md), i termini previsti dal citato [decreto legislativo n. 626 del 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;626), non ancora decorsi alla data del 25 novembre 1995, sono differiti fino e non oltre il 19 marzo 1996.
 
 ## Art. 2. — Entrata in vigore
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 3 aprile 1926, n. 556](Costituzione%20di%20una%20Azienda%20Generale%20Italiana%20Petroli%20A.G.I.P.%20per%20lo%20svolgimento%20di%20ogni%20attivita%20relativa%20alla%20industria%20e%20al%20commercio%20dei%20prodotti%20petroliferi.%20026U0556.md), convertito nella [legge 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), concernente la costituzione dell'Azienda Generale Italiana Petroli (A.G.I.P.) per lo svolgimento di ogni attivita' relativa all'industria ed al commercio dei prodotti petroliferi;
 
-Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), concernente l'esercizio delle assicurazioni private;
+Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), concernente l'esercizio delle assicurazioni private;
 
 Visto il [R. decreto 1° marzo 1934, n. 766](Approvazione%20del%20nuovo%20statuto%20dellIstituto%20nazionale%20fascista%20della%20previdenza%20sociale.%20034U0766.md), con il quale e' stato approvato lo statuto dell'Istituto nazionale fascista della previdenza sociale;
 

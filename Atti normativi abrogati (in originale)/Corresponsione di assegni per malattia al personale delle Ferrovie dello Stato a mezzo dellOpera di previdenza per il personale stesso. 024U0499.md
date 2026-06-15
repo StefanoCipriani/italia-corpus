@@ -20,17 +20,17 @@ Visto il [decreto-legge Luogotenenziale 1° agosto 1918, numero 1197](Che%20modi
 
 Vista la [legge 7 aprile 1921, n. 370](Che%20modifica%20quella%2019%20giugno%201913%20n%20641%20sullopera%20di%20previdenza%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato.%20021U0370.md);
 
-Visto il [R. decreto 31 dicembre 1923, n. 3157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3157);
+Visto il [R. decreto 31 dicembre 1923, n. 3157](Modificazione%20di%20alcune%20disposizioni%20della%20legge%20sullOpera%20di%20previdenza%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20023U3157.md);
 
 Visto il regolamento del personale delle Ferrovie dello Stato approvato col [decreto Luogotenenziale 13 agosto 1917, n. 1393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-13;1393);
 
 Vista la [legge 7 aprile 1921, n. 368](Che%20stabilisce%20i%20nuovi%20quadri%20di%20classificazione%20degli%20stipendi%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20apporta%20altresi%20modificazioni%20alla%20legge%20organica%20delle%20ferrovie%20medesime.%20021U0368.md);
 
-Visto il [R. decreto 8 febbraio 1923, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;319);
+Visto il [R. decreto 8 febbraio 1923, n. 319](Recante%20disposizioni%20per%20assenze%20causate%20da%20malattie%20infortuni%20e%20pei%20congedi%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20023U0319.md);
 
-Visto il [R. decreto 6 dicembre 1923, n. 2651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-06;2651);
+Visto il [R. decreto 6 dicembre 1923, n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md);
 
-Visto il [R. decreto 31 dicembre 1923, n. 3082](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3082);
+Visto il [R. decreto 31 dicembre 1923, n. 3082](Trattamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato%20provvisorio%20ed%20aggiunto%20sanitario%20e%20di%20quello%20del%20traghetto%20di%20Venezia.%20023U3082.md);
 
 Udito il Commissario straordinario per le ferrovie dello Stato;
 
@@ -48,7 +48,7 @@ Nei casi di assenza per malattia accertata dai sanitari dell'Amministrazione la 
  
  Detto assegno sara' valutato come segue: 
  
- a) per gli agenti considerati nella tabella dell'art. 59 delle disposizioni sulle competenze accessorie allegato al [R. decreto 6 dicembre 1923, n. 2651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-06;2651), e nella tabella dell'art. 4 del decreto 31 dicembre 1923, n. 3082, l'assegno sara' pari al premio d'interessamento, nella misura stabilita nelle colonne A, di entrambi i prospetti per le singole qualifiche degli agenti; 
+ a) per gli agenti considerati nella tabella dell'art. 59 delle disposizioni sulle competenze accessorie allegato al [R. decreto 6 dicembre 1923, n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md), e nella tabella dell'art. 4 del decreto 31 dicembre 1923, n. 3082, l'assegno sara' pari al premio d'interessamento, nella misura stabilita nelle colonne A, di entrambi i prospetti per le singole qualifiche degli agenti; 
  
  b) per le qualifiche considerate nelle suddette tabelle, ma per le quali non siano previsti premi secondo la colonna A, l'assegno di malattia, limitatamente a quegli agenti che singolarmente percepiscano il premio d'interessamento nella misura della colonna B o superiore, sara' corrisposto nella misura stabilita dalla colonna B per la rispettiva qualifica; 
  
@@ -90,7 +90,7 @@ Nei casi di assenza per malattia accertata dai sanitari dell'Amministrazione la 
 
 L'assegno di malattia sara' corrisposto per tutte le giornate di assenza successive alla quindicesima e cioe' anche per quelle in cui l'agente, se fosse in servizio, non percepirebbe il premio d'interessamento e le competenze accessorie. 
  
- Esso sara' corrisposto integralmente anche quando, superati i limiti di assenza, di cui al [R. decreto 8 febbraio 1923, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;319), lo stipendio o la paga siano mantenuti in misura ridotta. 
+ Esso sara' corrisposto integralmente anche quando, superati i limiti di assenza, di cui al [R. decreto 8 febbraio 1923, n. 319](Recante%20disposizioni%20per%20assenze%20causate%20da%20malattie%20infortuni%20e%20pei%20congedi%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20023U0319.md), lo stipendio o la paga siano mantenuti in misura ridotta. 
  
  Quando la malattia sopraggiunga mentre l'agente sta scontando un periodo di riduzione o di sospensione del premio di interessamento, l'assegno di malattia sara' computato come se la riduzione o sospensione del premio non avessero luogo. Il periodo di riduzione o sospensione del permio si considerera' interrotto per la durata dell'assenza per malattia, per essere ripreso e completato al termine di questa.
 
@@ -128,7 +128,7 @@ La gestione delle entrate e delle spese relative allo speciale servizio consider
 
 ## Art. 10.
 
-In relazione alle variazioni che, prima colla [legge 7 aprile 1921, n. 368](Che%20stabilisce%20i%20nuovi%20quadri%20di%20classificazione%20degli%20stipendi%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20apporta%20altresi%20modificazioni%20alla%20legge%20organica%20delle%20ferrovie%20medesime.%20021U0368.md). e poi col [R. decreto 6 dicembre 1923 n. 2651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-06;2651), vennero introdotte nei gradi delle diverse qualifiche del personale resta stabilito che per i casi di cessazione dal servizio dal 1° marzo 1924 in poi i sussidi agli orfani e gli assegni alimentari a congiunti, di cui all'[art. 2 della legge 19 giugno 1913, n. 641](Riguardante%20lOpera%20di%20previdenza%20ed%20altri%20provvedimenti%20a%20favore%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20013U0641.md), modificato col [decreto-legge Luogotenenziale 1° agosto 1918, n. 1197](Che%20modifica%20alcuni%20articoli%20della%20legge%2019%20giugno%201913%20n.%20641%20sullopera%20di%20previdenza%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato.%20018U1197.md), colla [legge 7 aprile 1921, n. 370 e col decreto 31 dicembre 1923, n. 3157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-31;3157), saranno corrisposti nell'una e nell'altra delle misure fissate nell'articolo medesimo, secondoche', la qualifica dell'agente rientri nei primi undici gradi oppure nei gradi inferiori delle tabelle annesse al [R. decreto 6 dicembre 1923, n. 2651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-06;2651).
+In relazione alle variazioni che, prima colla [legge 7 aprile 1921, n. 368](Che%20stabilisce%20i%20nuovi%20quadri%20di%20classificazione%20degli%20stipendi%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20apporta%20altresi%20modificazioni%20alla%20legge%20organica%20delle%20ferrovie%20medesime.%20021U0368.md). e poi col [R. decreto 6 dicembre 1923 n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md), vennero introdotte nei gradi delle diverse qualifiche del personale resta stabilito che per i casi di cessazione dal servizio dal 1° marzo 1924 in poi i sussidi agli orfani e gli assegni alimentari a congiunti, di cui all'[art. 2 della legge 19 giugno 1913, n. 641](Riguardante%20lOpera%20di%20previdenza%20ed%20altri%20provvedimenti%20a%20favore%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20013U0641.md), modificato col [decreto-legge Luogotenenziale 1° agosto 1918, n. 1197](Che%20modifica%20alcuni%20articoli%20della%20legge%2019%20giugno%201913%20n.%20641%20sullopera%20di%20previdenza%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato.%20018U1197.md), colla [legge 7 aprile 1921, n. 370 e col decreto 31 dicembre 1923, n. 3157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-31;3157), saranno corrisposti nell'una e nell'altra delle misure fissate nell'articolo medesimo, secondoche', la qualifica dell'agente rientri nei primi undici gradi oppure nei gradi inferiori delle tabelle annesse al [R. decreto 6 dicembre 1923, n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md).
 
 ## Art. 11.
 

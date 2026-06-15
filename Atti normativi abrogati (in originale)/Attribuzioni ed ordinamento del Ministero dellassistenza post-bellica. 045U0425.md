@@ -57,7 +57,7 @@ Gli uffici del Ministero dell'assistenza post-bellica sono costituiti nel modo s
 
 ## Art. 6.
 
-Ai servizi del Ministero dell'assistenza post-bellica si provvede con personale di altre Amministrazioni dello Stato e con personale di Enti pubblici da distaccarsi, quale comandato, presso il Ministero predetto e con personale non di ruolo da assumersi a norma del [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100). 
+Ai servizi del Ministero dell'assistenza post-bellica si provvede con personale di altre Amministrazioni dello Stato e con personale di Enti pubblici da distaccarsi, quale comandato, presso il Ministero predetto e con personale non di ruolo da assumersi a norma del [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md). 
  
  Al personale non di ruolo, assunto per elevate funzioni di carattere direttivo od ispettivo, puo' essere assegnato il trattamento economico vigente per i funzionari di gruppo A della gerarchia statale dal grado quinto al grado ottavo. 
  

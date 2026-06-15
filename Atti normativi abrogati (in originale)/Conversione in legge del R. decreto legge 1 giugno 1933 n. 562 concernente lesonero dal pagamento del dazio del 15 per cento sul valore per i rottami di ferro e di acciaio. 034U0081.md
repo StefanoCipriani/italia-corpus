@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° giugno 1933, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-01;562), concernente l'esonero dal dazio del 15 per cento sul valore per i rottami di ferro e di acciaio. 
+ E' convertito in legge il [R. decreto-legge 1° giugno 1933, n. 562](Esenzione%20dal%20dazio%20sul%20valore%20per%20taluni%20rottami%20di%20ferro%20e%20di%20acciaio.%20033U0562.md), concernente l'esonero dal dazio del 15 per cento sul valore per i rottami di ferro e di acciaio. 
  
  Ordiniamo che la presente, munita de! sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

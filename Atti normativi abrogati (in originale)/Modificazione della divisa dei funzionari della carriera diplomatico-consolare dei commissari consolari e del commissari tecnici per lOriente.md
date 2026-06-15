@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 7 giugno 1866, n. 2996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-06-07;2996);
+Visto il [regio decreto 7 giugno 1866, n. 2996](Approvativo%20del%20Regolamento%20per%20lesecuzione%20della%20Legge%20sullordinamento%20del%20servizio%20consolare.%20066U2996.md);
 
-Visto il [regio decreto 29 novembre 1870, n. 6090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-11-29;6090);
+Visto il [regio decreto 29 novembre 1870, n. 6090](Concernente%20le%20Legazioni%20allestero%20ed%20il%20personale%20alle%20medesime%20addetto.%20070U6090.md);
 
-Visto il [regio decreto 8 marzo 1928, n. 1038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-08;1038);
+Visto il [regio decreto 8 marzo 1928, n. 1038](Divisa%20dei%20funzionari%20delle%20carriere%20diplomatico-consolare%20commissari%20consolari%20ed%20interpreti.%20028U1038.md);
 
-Visto il [regio decreto 5 settembre 1940, n. 1497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-05;1497);
+Visto il [regio decreto 5 settembre 1940, n. 1497](Istituzione%20del%20ruolo%20dei%20commissari%20tecnici%20per%20lOriente.%20040U1497.md);
 
 Sulla proposta del Ministro Segretario di Stato per gli affari esteri; Decreta:
 
@@ -29,7 +29,7 @@ La divisa dei funzionari della carriera diplomatico - consolare, dei commissari 
  d) i nodi di Savoia sulla banda, dei pantaloni sono soppressi;
  e) il modello dei bottoni, per tutti i ruoli, e' sostituito da quello di cui all'allegato B;
  f) i nodi di Savoia sulla patta dell'abito per il ruolo diplomatico-consolare sono sostituiti da una bacchetta di ricamo, come dal modello allegato C;
- g) la guida di ricamo a nodi sabaudi dell'abito per il ruolo diplomatico-consolare, per i gradi 7° e superiori (di cui all'[art. 10 del regio decreto 8 marzo 1928, n. 1038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-08;1038#art_10)) e' sostituita da una bacchetta di ricamo, come dal modello allegato C. Il secondo ricamo, sui paramani, di cui al medesimo art. 10 del citato regio decreto, e' sostituito da un ricamo come dal modello allegato D;
+ g) la guida di ricamo a nodi sabaudi dell'abito per il ruolo diplomatico-consolare, per i gradi 7° e superiori (di cui all'[art. 10 del regio decreto 8 marzo 1928, n. 1038](Divisa%20dei%20funzionari%20delle%20carriere%20diplomatico-consolare%20commissari%20consolari%20ed%20interpreti.%20028U1038.md)) e' sostituita da una bacchetta di ricamo, come dal modello allegato C. Il secondo ricamo, sui paramani, di cui al medesimo art. 10 del citato regio decreto, e' sostituito da un ricamo come dal modello allegato D;
  h) la guida di doppi nodi sabaudi sui paramani dell'abito per il ruolo diplomatico-consolare, per i gradi 4°, 3° e 2° (di cui agli articoli 13, 14 e 15 del citato regio decreto) e' sostituita da una bacchetta ornamentata identica a quella prevista come distintivo di grado per i gradi anzidetti;
  i) le lettere F.E.R.T. e i nodi sabaudi, sui paramani dell'abito per il ruolo diplomatico-consolare (di cui all'art. 15 del citato regio decreto) sono sostituiti da una bacchetta ornamentata identica a quella di cui alla lettera precedente;
  l) il fregio del berretto per la divisa tropicale e' sostituito da quello di cui al modello allegato E.

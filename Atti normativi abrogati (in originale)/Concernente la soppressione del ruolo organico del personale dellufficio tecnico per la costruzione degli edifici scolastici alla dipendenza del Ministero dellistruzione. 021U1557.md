@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduta la tabella C, annessa alla [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md);
 
-Veduto il [R. decreto 13 maggio 1920, n. 1129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-13;1129);
+Veduto il [R. decreto 13 maggio 1920, n. 1129](Applicazione%20dei%20ruoli%20aperti%20al%20personale%20tecnico%20e%20provinciale%20dellistruzione%20primaria%20e%20popolare.%20020U1129.md);
 
 Veduto il [decreto-legge 11 marzo 1920, n. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1920-03-11;292);
 

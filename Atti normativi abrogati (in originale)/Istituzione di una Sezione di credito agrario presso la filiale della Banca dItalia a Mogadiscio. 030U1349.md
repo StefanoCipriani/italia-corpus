@@ -63,7 +63,7 @@ A garanzia delle operazioni contemplate nel presente decreto, sono estesi a favo
 
 ## Art. 7.
 
-Quando il debitore deteriora o distrae oggetti sottoposti al privilegio di cui al precedente articolo, oppure impiega in tutto o in parte la somma ricevuta a prestito per scopi diversi da quelli per i quali fu concessa, e' punito con le pene comminate dall'[art. 203 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_203). 
+Quando il debitore deteriora o distrae oggetti sottoposti al privilegio di cui al precedente articolo, oppure impiega in tutto o in parte la somma ricevuta a prestito per scopi diversi da quelli per i quali fu concessa, e' punito con le pene comminate dall'[art. 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  Nei casi predetti, e allorche' il debitore abbandoni la coltivazione del fondo, in qualunque modo, per dolo o per colpa diminuisca notevolmente la garanzia all'Istituto creditore, questo puo' chiedere la risoluzione del contratto, ai termini dell'[art. 1165 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1165).
 
 ## Art. 8.

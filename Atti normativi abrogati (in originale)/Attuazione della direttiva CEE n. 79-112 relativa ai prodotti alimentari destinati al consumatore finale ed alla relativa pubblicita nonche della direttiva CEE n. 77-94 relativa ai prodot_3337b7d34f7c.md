@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Viste le [direttive n. 79/112 del 18 dicembre 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;112) e [n. 77/94 del 21 dicembre 1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;77), emanate dal Consiglio delle Comunita' europee, concernenti l'etichettatura e la presentazione dei prodotti alimentari destinati al consumatore finale, nonche' la relativa pubblicita', ed i prodotti alimentari destinati ad una alimentazione particolare;
 
-Considerato che in data 25 febbraio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 25 febbraio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -87,7 +87,7 @@ Gli ingredienti devono essere designati con il loro nome specifico; tuttavia:
  a) gli ingredienti che appartengono ad una delle categorie elencate nell'allegato 1 del presente decreto e che rientrano nella composizione di un altro prodotto alimentare, possono essere designati con il solo nome di tale categoria; nei casi in cui il prodotto alimentare sia costituito unicamente da una miscela di oli ottenuti da semi diversi deve essere indicato l'elenco degli ingredienti solo se ciascuno di essi sia impiegato in quantita' non inferiore al 20%;
  b) agli ingredienti che appartengono ad una delle categorie elencate nell'allegato 2 del presente decreto si applicano le disposizioni contenute nei decreti ministeriali emanati ai sensi degli articoli 5, lettere f) e g), 10 e 22 della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283).
  Si provvede con decreti ministeriali all'aggiornamento dell'elenco di cui agli allegati 1 e 2 del presente decreto.
- Per l'indicazione degli aromi contenuti nei prodotti alimentari valgono le norme stabilite ai sensi degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_5) e [22 della legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_22), e del regolamento di esecuzione adottato con [decreto del Presidente della Repubblica 26 marzo 1980, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-03-26;327).
+ Per l'indicazione degli aromi contenuti nei prodotti alimentari valgono le norme stabilite ai sensi degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_5) e [22 della legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_22), e del regolamento di esecuzione adottato con [decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md).
  Un ingrediente composto puo' figurare nell'elenco degli ingredienti sotto la propria denominazione prevista da norme specifiche o consacrata dall'uso, in funzione del suo peso globale, purche' sia immediatamente seguito dall'enumerazione dei propri componenti.
  La enumerazione di cui al precedente comma non e' obbligatoria:
  a) se l'ingrediente composto rappresenta meno del 25% del prodotto finito;
@@ -193,7 +193,7 @@ I prodotti alimentari preconfezionati, posti in vendita attraverso i distributor
 
 ## Art. 15.
 
-Le disposizioni di cui al presente decreto si applicano anche ai prodotti destinati ad una alimentazione particolare disciplinati dalla [legge 29 marzo 1951, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-03-29;327).
+Le disposizioni di cui al presente decreto si applicano anche ai prodotti destinati ad una alimentazione particolare disciplinati dalla [legge 29 marzo 1951, n. 327](Disciplina%20della%20produzione%20e%20vendita%20di%20alimenti%20per%20la%20prima%20infanzia%20e%20di%20prodotti%20dietetici.md).
  Tali prodotti, tuttavia, oltre alle indicazioni previste dall'art. 3 del presente decreto, devono continuare a riportare le indicazioni di cui ai punti 3), 4), 6) e 7) dell'[art. 9 del decreto del Presidente della Repubblica 30 maggio 1953, n. 578](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2029%20marzo%201951%20n.%20327%20che%20disciplina%20la%20produzione%20e%20il%20commercio%20degli%20alimenti%20per%20la%20prima%20Infanzia%20e%20prodotti%20dietetici.md), nonche' l'indicazione in kilocalorie (kcal) ed in kilo Joules (kJ) del valore energetico per 100 grammi o 100 millilitri di prodotto.
  Tale indicazione puo' essere sostituita dalla dizione:
  "valore energetico inferiore a 50 kJ(12 kcal) per 100 g" ovvero dalla dizione "valore energetico inferiore a 50 kJ(12 kcal) per 100 ml", quando il prodotto contenga dei valori energetici inferiori a 50 kJ (12 kcal).
@@ -203,7 +203,7 @@ Le disposizioni di cui al presente decreto si applicano anche ai prodotti destin
 ## Art. 16.
 
 Salvo che il fatto costituisca reato, chiunque confezioni, detenga per vendere o venda prodotti alimentari non conformi alle norme stabilite dal presente decreto e' punito con la sanzione amministrativa da lire 1.000.000 a L. 5.000.000.
- Ai contravventori alle disposizioni di etichettatura dei prodotti disciplinati dalla [legge 29 marzo 1951, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-03-29;327), continua ad applicarsi la sanzione penale prevista dal secondo comma dell'art. 5 della stessa legge.
+ Ai contravventori alle disposizioni di etichettatura dei prodotti disciplinati dalla [legge 29 marzo 1951, n. 327](Disciplina%20della%20produzione%20e%20vendita%20di%20alimenti%20per%20la%20prima%20infanzia%20e%20di%20prodotti%20dietetici.md), continua ad applicarsi la sanzione penale prevista dal secondo comma dell'art. 5 della stessa legge.
 
 ## Art. 17.
 
@@ -217,7 +217,7 @@ Sono abrogate tutte le disposizioni in materia di etichettatura diverse da quell
  c) cacao e cioccolato;
  d) estratti di caffe' e cicoria;
  e) vini;
- f) gli zuccheri di cui alla [legge 31 marzo 1980, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-31;139);
+ f) gli zuccheri di cui alla [legge 31 marzo 1980, n. 139](Recepimento%20della%20direttiva%20adottata%20dal%20Consiglio%20della%20Comunita%20economica%20europea%20riguardante%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20concernenti%20determinati%20tipi%20di%20zucch_6f7de1cb98ea.md);
  g) miele;
  h) succhi di frutta e prodotti simili;
  i) confetture, marmellate e gelatine di frutta e crema di marroni;
@@ -230,7 +230,7 @@ Sono abrogate tutte le disposizioni in materia di etichettatura diverse da quell
 
 ## Art. 19.
 
-E' consentita per un anno dalla data di entrata in vigore del presente decreto l'etichettatura dei prodotti alimentari in conformita' alla [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), o al relativo regolamento approvato con [decreto del Presidente della Repubblica 26 marzo 1980, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-03-26;327), o alle norme concernenti i singoli prodotti alimentari.
+E' consentita per un anno dalla data di entrata in vigore del presente decreto l'etichettatura dei prodotti alimentari in conformita' alla [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), o al relativo regolamento approvato con [decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md), o alle norme concernenti i singoli prodotti alimentari.
  I prodotti etichettati ai sensi del primo comma possono essere posti in vendita sino al 31 dicembre 1983, ovvero sino al 31 dicembre 1985 per i prodotti a lunga conservazione.
 
 ## Art. 20.

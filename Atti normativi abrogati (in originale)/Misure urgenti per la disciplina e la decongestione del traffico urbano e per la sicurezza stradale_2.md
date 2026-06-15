@@ -32,7 +32,7 @@ Nelle zone delimitate ai sensi dell'articolo 2, le sanzioni, quali risultanti da
 
 3.
 
-Il [comma quarto dell'articolo 11 della legge 14 febbraio 1974, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-02-14;62#art_11-com4), e' abrogato.
+Il [comma quarto dell'articolo 11 della legge 14 febbraio 1974, n. 62](Sostituzione%20degli%20articoli%2079%2080%2086%20124%20127%20e%20modifiche%20agli%20articoli%2081%2087%2088%20138%20e%20141%20del%20testo%20unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale%20approvato%20con%20decreto%20de_c6728f6b4c4d.md), e' abrogato.
 
 4.
 
@@ -96,7 +96,7 @@ Nelle zone di cui all'articolo 2 l'inosservanza dei divieti di sosta comporta la
 
 3.
 
-Nelle aree disciplinate dalla [legge 7 aprile 1976, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-07;125), l'autorita' cui compete il potere di ordinanza puo' disporre l'istituzione dei dispositivi atti al controllo della sosta di cui al comma 2 dell'articolo 3, tenuto presente il disposto dell'ottavo comma dell'articolo 4 del testo unico delle norme sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), e successive modificazioni, come integrato dal comma 3 dell'articolo 3 del presente decreto.
+Nelle aree disciplinate dalla [legge 7 aprile 1976, n. 125](Disciplina%20della%20circolazione%20stradale%20nelle%20aree%20aeroportuali.md), l'autorita' cui compete il potere di ordinanza puo' disporre l'istituzione dei dispositivi atti al controllo della sosta di cui al comma 2 dell'articolo 3, tenuto presente il disposto dell'ottavo comma dell'articolo 4 del testo unico delle norme sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), e successive modificazioni, come integrato dal comma 3 dell'articolo 3 del presente decreto.
 
 4.
 
@@ -104,7 +104,7 @@ Nelle aree aeroportuali e' sempre ammessa la rimozione forzata dei veicoli in so
 
 5.
 
-Alla [legge 7 aprile 1976, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-07;125), come modificata dalla [legge 26 luglio 1984, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-26;415), e' aggiunto il seguente articolo:
+Alla [legge 7 aprile 1976, n. 125](Disciplina%20della%20circolazione%20stradale%20nelle%20aree%20aeroportuali.md), come modificata dalla [legge 26 luglio 1984, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-26;415), e' aggiunto il seguente articolo:
  "Art. 3-bis. - 1. La rimozione, il trasporto e la custodia dei veicoli sono svolti dalla societa' o ente di gestione aeroportuale per gli aeroporti affidati in concessione e a cura della circoscrizione aeroportuale competente per gli aeroporti gestiti dallo Stato. Il veicolo rimosso e' trasportato in aree all'uopo destinate e sara' restituito al legittimo proprietario previo pagamento delle relative sanzioni e di quanto dovuto a titolo di trasporto e custodia.
  2. Le spese per il trasporto e custodia saranno determinate dalla direzione circoscrizionale dell'aeroporto in relazione ai relativi costi ed alle tariffe applicate nel comune o nei comuni nel cui ambito territoriale l'aeroporto ricade.
  3. Qualora il veicolo non venga ritirato dal legittimo proprietario entro centottanta giorni dalla data di notifica dall'avvenuta rimozione, la direzione di circoscrizione aeroportuale o i predetti enti o societa' di gestione sono autorizzati a procedere alla vendita, per asta pubblica, del veicolo".

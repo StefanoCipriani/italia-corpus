@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Veduto lo statuto dell'Universita' cattolica del "Sacro Onore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), modificato con [regio decreto 17 ottobre 1941, n. 1282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1282);
+Veduto lo statuto dell'Universita' cattolica del "Sacro Onore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](Approvazione%20del%20nuovo%20statuto%20della%20Universita%20cattolica%20del%20Sacro%20Cuore%20di%20Milano.%20039U1163.md), modificato con [regio decreto 17 ottobre 1941, n. 1282](Modificazioni%20allo%20statuto%20dellUniversita%20cattolica%20del%20Sacro%20Cuore%20la%20Milano.%20041U1282.md);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Vedute le proposte relative allo statuto dell' Universita' anzidetta;
 
@@ -222,10 +222,10 @@ Registrato alla Corte dei Conti, addi' 14 novembre 1947 Atti del Governo, regist
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Veduto lo statuto dell'Universita' cattolica del "Sacro Onore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), modificato con [regio decreto 17 ottobre 1941, n. 1282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1282);
+ Veduto lo statuto dell'Universita' cattolica del "Sacro Onore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](Approvazione%20del%20nuovo%20statuto%20della%20Universita%20cattolica%20del%20Sacro%20Cuore%20di%20Milano.%20039U1163.md), modificato con [regio decreto 17 ottobre 1941, n. 1282](Modificazioni%20allo%20statuto%20dellUniversita%20cattolica%20del%20Sacro%20Cuore%20la%20Milano.%20041U1282.md);
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
  Veduto il [regio decreto legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
- Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
  Vedute le proposte relative allo statuto dell' Universita' anzidetta;
  Sentito il parere del Consiglio superiore della pubblica istruzione;
  Sulla proposta del Ministro per la pubblica istruzione, di concerto col Ministro per il tesoro;

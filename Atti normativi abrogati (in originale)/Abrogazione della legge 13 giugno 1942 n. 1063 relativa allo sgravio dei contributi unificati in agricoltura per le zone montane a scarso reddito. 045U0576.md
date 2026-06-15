@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La [legge 13 giugno 1942, n. 1063](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-06-13;1063), concernente l'esonero e la riduzione dei contributi unificati a favore dei datori di lavoro e dei lavoratori agricoli per i terreni che si trovano in montagna o in altre zone elevate a scarso reddito, e' abrogata a decorrere dal 1° luglio 1945.
+La [legge 13 giugno 1942, n. 1063](Esonero%20o%20riduzione%20dei%20contributi%20unificati%20in%20agricoltura%20a%20favore%20dei%20datori%20di%20lavoro%20e%20dei%20lavoratori%20per%20i%20terreni%20ubicati%20in%20montagna%20o%20in%20altre%20zone%20elevate%20a%20scarso%20reddito.%20042U1063.md), concernente l'esonero e la riduzione dei contributi unificati a favore dei datori di lavoro e dei lavoratori agricoli per i terreni che si trovano in montagna o in altre zone elevate a scarso reddito, e' abrogata a decorrere dal 1° luglio 1945.
 
 ## Art. 2.
 

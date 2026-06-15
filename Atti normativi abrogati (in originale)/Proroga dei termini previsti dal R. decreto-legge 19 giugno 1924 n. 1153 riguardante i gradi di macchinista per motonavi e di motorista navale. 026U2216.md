@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il Codice per la marina mercantile del Regno ed il relativo regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166);
+Visto il Codice per la marina mercantile del Regno ed il relativo regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md);
 
 Considerata la necessita' urgente di prorogare al 1° gennaio 1928 il termine di decorrenza dell'obbligatorieta' dei gradi di macchinista per motonavi e di motorista navale fissato al 1° gennaio 1927 dal [decreto-legge 19 giugno 1921, n. 1153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1921-06-19;1153), convertito nella [legge 10 dicembre 1925, n. 2302](Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20giugno%201924%20n.%201153%20col%20quale%20vengono%20istituite%20le%20scuole%20ed%20i%20gradi%20per%20motoristi%20navali.%20025U2302.md), in modo da poter avere disponibile pel nuovo termine un personale fornito dei gradi suddetti numericamente sufficiente per la effettiva osservanza della obbligatorieta' suaccennata;
 

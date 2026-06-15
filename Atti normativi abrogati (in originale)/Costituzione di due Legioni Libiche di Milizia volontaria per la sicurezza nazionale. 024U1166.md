@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA'DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto n. 31, in data 14 gennaio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-14;31), che istituisce la Milizia volontaria per la sicurezza nazionale;
+Visto il [R. decreto n. 31, in data 14 gennaio 1923](Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), che istituisce la Milizia volontaria per la sicurezza nazionale;
 
 Visto il [R. decreto 8 marzo 1923, n. 831](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-08;831) che approva il regolamento di disciplina per la M. V. S. N;
 
@@ -28,17 +28,17 @@ Visto il [R. decreto 13 dicembre 1923, n. 3111](https://www.normattiva.it/uri-re
 
 Visto il [R. decreto 13 dicembre 1923, n. 3110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-13;3110), relativo ai capi squadra e ai vice capi squadra della M. V. S. N. dislocati nelle Colonie;
 
-Visto il [R. decreto 22 gennaio 1914, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-22;147), che regola l'ordinamento militare in Tripolitania e Cirenaica, e successive disposizioni;
+Visto il [R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), che regola l'ordinamento militare in Tripolitania e Cirenaica, e successive disposizioni;
 
 Visto il [R. decreto n. 1784, in data 16 novembre 1922](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-11-16;1784) e quello n. 1160, in data 22 aprile 1923, sulle pensioni privilegiate di guerra nella Tripolitania e nella Cirenaica, e quelli numero 1769 e n. 996 in data, rispettivamente, 16 novembre 1922 e 22 aprile 1923, riguardanti il conferimento delle medaglie col motto «Libia», i distintivi di onore per feriti e mutilati e le croci di guerra in Libia;
 
-Visti i [Regi decreti 31 ottobre 1923, nn. 2504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2504) e [2505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2505), sul nuovo trattamento economico coloniale;
+Visti i [Regi decreti 31 ottobre 1923, nn. 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md) e [2505](Trattamento%20degli%20ufficiali%20del%20Regio%20esercito%20che%20prestano%20in%20colonia%20servizio%20di%20carattere%20militare.%20023U2505.md), sul nuovo trattamento economico coloniale;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato e le successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato e le successive modificazioni;
 
-Visti i [Regi decreti 18 marzo 1923, n. 621](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-18;621), e [3 febbraio 1924, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-03;190), riguardanti le promozioni per merito di guerra in Libia;
+Visti i [Regi decreti 18 marzo 1923, n. 621](Relativo%20alla%20estensione%20delle%20norme%20di%20avanzamento%20per%20le%20promozioni%20per%20merito%20di%20guerra%20alle%20truppe%20operanti%20nelle%20colonie.%20023U0621.md), e [3 febbraio 1924, n. 190](Estensione%20del%20R.%20decreto%2018%20marzo%201923%20n.%20621%20ai%20personali%20militari%20che%20parteciparono%20alle%20operazioni%20in%20Cirenaica%20dal%201%20marzo%20al%205%20settembre%201923.%20024U0190.md), riguardanti le promozioni per merito di guerra in Libia;
 
-Visto il [R. decreto 3 febbraio 1924, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-03;189), riguardante la concessione della medaglia e della croce di guerra al valore sul campo in Libia;
+Visto il [R. decreto 3 febbraio 1924, n. 189](Autorizzazione%20ai%20governatori%20della%20Tripolitania%20e%20della%20Cirenaica%20di%20concedere%20sul%20campo%20medaglie%20dargento%20e%20di%20bronzo%20e%20croci%20di%20guerra%20al%20valor%20militare.%20024U0189.md), riguardante la concessione della medaglia e della croce di guerra al valore sul campo in Libia;
 
 Visto il [R. decreto 27 aprile 1924, n. 812](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-27;812), riguardante l'impiego delle Legioni regionali di M. V. S. N. in Libia;
 
@@ -64,7 +64,7 @@ Il numero delle coorti in ciascuna Legione puo' essere variabile, ma la forza di
 
 Per tutto quanto si riferisce alla disciplina e al servizio, le Legioni Libiche sono alla esclusiva dipendenza del comando del Regio corpo di truppe coloniali e del Governatore della rispettiva Colonia, come le altre unita' del Regio corpo. 
  
- Al personale dei predetti reparti (ufficiali e truppa) in materia disciplinare e penale si estendono, col presente decreto, le disposizioni del Regolamento di disciplina, del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), nonche' le altre disposizioni regolamentari del Regio esercito. 
+ Al personale dei predetti reparti (ufficiali e truppa) in materia disciplinare e penale si estendono, col presente decreto, le disposizioni del Regolamento di disciplina, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nonche' le altre disposizioni regolamentari del Regio esercito. 
  
  I rapporti tra Legioni Libiche e comando generale della M. V. S. N. si svolgono per il tramite gerarchico delle autorita' coloniali predette e del Ministero delle colonie, e viceversa.
 

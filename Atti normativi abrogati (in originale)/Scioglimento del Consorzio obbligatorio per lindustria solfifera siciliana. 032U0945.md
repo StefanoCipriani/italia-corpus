@@ -45,7 +45,7 @@ La liquidazione delle attivita' e delle passivita' del Consorzio esistenti alla 
 
 ## Art. 4.
 
-Col 1° agosto 1932 la gestione dei magazzini del Consorzio obbligatorio per l'industria solfifera siciliana sara' assunta dal Consorzio per i magazzini generali della Sicilia, istituito con [R. decreto 19 aprile 1925, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-19;522). 
+Col 1° agosto 1932 la gestione dei magazzini del Consorzio obbligatorio per l'industria solfifera siciliana sara' assunta dal Consorzio per i magazzini generali della Sicilia, istituito con [R. decreto 19 aprile 1925, n. 522](Costituzione%20del%20Consorzio%20per%20i%20magazzini%20generali%20della%20Sicilia%20in%20Palermo.%20025U0522.md). 
  Le condizioni e le modalita' di questo passaggio, compreso il trattamento del personale che potra' rimanere adibito ai magazzini predetti, formera' oggetto di apposita convenzione fra il Consorzio per i magazzini generali della Sicilia ed il Consorzio obbligatorio per l'industria solfifera siciliana. 
  Detta convenzione dovra' essere sottoposta all'approvazione del Ministero delle corporazioni, di concerto con quello delle finanze. 
  Le spese per la custodia e l'assicurazione contro gli incendi, nonche' quelle per la consegna ai compratori degli zolfi costituenti lo stock esistente al 31 luglio 1932 nei magazzini predetti, saranno anticipate dal Consorzio per i magazzini generali della Sicilia e ad esso rimborsate trimestralmente dal Consorzio in liquidazione.

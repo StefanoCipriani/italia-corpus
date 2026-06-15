@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico 
  
- E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-11;13), concernente nuove concessioni in materia di importazioni temporanee. 
+ E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 13](Nuove%20concessioni%20di%20temporanea%20importazione.%20034U0013.md), concernente nuove concessioni in materia di importazioni temporanee. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

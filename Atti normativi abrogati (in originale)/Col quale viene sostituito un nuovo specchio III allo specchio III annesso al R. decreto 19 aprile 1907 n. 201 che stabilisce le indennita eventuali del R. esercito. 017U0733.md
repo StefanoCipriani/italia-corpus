@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Allo specchio III annesso al [R. decreto 19 aprile 1907, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-04-19;201), che stabilisce le indennita' eventuali del R. esercito, e successive modificazioni, e' sostituito quello annesso al presente decreto, firmato, d'ordine Nostro, dal ministro della guerra.
+Allo specchio III annesso al [R. decreto 19 aprile 1907, n. 201](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), che stabilisce le indennita' eventuali del R. esercito, e successive modificazioni, e' sostituito quello annesso al presente decreto, firmato, d'ordine Nostro, dal ministro della guerra.
 
 ## Art. 2.
 
-Per l'applicazione del presente decreto valgono le disposizioni del regolamento annesso al [R. decreto 19 aprile 1907, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-04-19;201), che stabilisce le indennita' eventuali dei R. esercito, e successive modificazioni, e quelle delle norme approvate coi RR. decreti 4 aprile 1912, n. 647, e 30 giugno 1912, n. 807, secondo i numeri corrispondenti segnati nell'ultima colonna dello specchio III.
+Per l'applicazione del presente decreto valgono le disposizioni del regolamento annesso al [R. decreto 19 aprile 1907, n. 201](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), che stabilisce le indennita' eventuali dei R. esercito, e successive modificazioni, e quelle delle norme approvate coi RR. decreti 4 aprile 1912, n. 647, e 30 giugno 1912, n. 807, secondo i numeri corrispondenti segnati nell'ultima colonna dello specchio III.
 
 ## Art. 3.
 

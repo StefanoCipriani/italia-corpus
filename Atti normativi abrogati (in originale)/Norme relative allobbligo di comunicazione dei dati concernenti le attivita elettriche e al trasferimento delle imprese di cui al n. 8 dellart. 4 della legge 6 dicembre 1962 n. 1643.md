@@ -33,7 +33,7 @@ Le imprese aventi per oggetto l'esercizio delle attivita' di cui all'[art. 1 del
 ## Art. 3.
 
 Il trasferimento delle imprese di cui all'[art. 4, n. 8, della legge 6 dicembre 1962, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643#art_4-num8), che abbiano prodotto oppure prodotto e distribuito per due anni consecutivi piu' di quindici milioni di chilowattore di energia elettrica per ciascun anno, e' disposto con decreto del Ministro per l'industria e per il commercio.
- Al trasferimento di cui al comma precedente si applicano, in quanto compatibili, tutte le norme in materia contenute nella [legge 6 dicembre 1962, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643), e nei [decreti del Presidente della Repubblica 4 febbraio 1963, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-02-04;36), e [25 febbraio 1963, n. 138](Norme%20relative%20agli%20indennizzi%20da%20corrispondere%20alle%20imprese%20assoggettate%20a%20trasferimento%20allEnel.md).
+ Al trasferimento di cui al comma precedente si applicano, in quanto compatibili, tutte le norme in materia contenute nella [legge 6 dicembre 1962, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643), e nei [decreti del Presidente della Repubblica 4 febbraio 1963, n. 36](../DPR/Norme%20relative%20ai%20trasferimenti%20allEnel%20delle%20imprese%20esercenti%20le%20industrie%20elettriche.md), e [25 febbraio 1963, n. 138](Norme%20relative%20agli%20indennizzi%20da%20corrispondere%20alle%20imprese%20assoggettate%20a%20trasferimento%20allEnel.md).
 
 ## Art. 4.
 

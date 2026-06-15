@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  All'articolo 1 del decreto e' aggiunto il seguente comma: 
  
- «Non possono tuttavia usufruire della disposizione del comma precedente coloro che, avendo gia' presentato regolare domanda, non hanno ottenuto giudizio favorevole dalla Commissione indicata nell'art. 1 del citato [Regio decreto-legge 28 febbraio 1929, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-02-28;331)». 
+ «Non possono tuttavia usufruire della disposizione del comma precedente coloro che, avendo gia' presentato regolare domanda, non hanno ottenuto giudizio favorevole dalla Commissione indicata nell'art. 1 del citato [Regio decreto-legge 28 febbraio 1929, n. 331](Norme%20per%20il%20riconoscimento%20dei%20diplomi%20dingegnere%20conseguiti%20allestero.%20029U0331.md)». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

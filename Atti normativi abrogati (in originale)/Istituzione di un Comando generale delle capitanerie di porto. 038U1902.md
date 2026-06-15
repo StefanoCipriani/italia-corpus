@@ -16,13 +16,13 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico da Codice per la marina mercantile, approvato con [R. decreto 24 ottobre 1877, n. 4146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-10-24;4146) (serie 2ª), e successive modificazioni;
+Visto il testo unico da Codice per la marina mercantile, approvato con [R. decreto 24 ottobre 1877, n. 4146](Che%20approva%20il%20testo%20unico%20del%20Codice%20della%20marina%20mercantile.%20077U4146.md) (serie 2ª), e successive modificazioni;
 
 Visto il regolamento per la esecuzione del predetto testo unico approvato con R. decreto 20 novembre 1879;
 
 Visto il R. decreto 27 marzo 1924-II, n. 518, concernente l'ordinamento organico del Commissariato per i servizi della marina mercantile;
 
-Visto il R. decreto-legge 30 aprile 1924-II, n. 596, convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), riguardante la istituzione del Ministero delle comunicazioni;
+Visto il R. decreto-legge 30 aprile 1924-II, n. 596, convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), riguardante la istituzione del Ministero delle comunicazioni;
 
 Visto il [R. decreto-legge 1° maggio 1924, n. 873](Mantenimento%20in%20funzione%20di%20tutti%20gli%20organi%20e%20gli%20uffici%20dei%20soppressi%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20e%20Commissariato%20per%20la%20marina%20mercantile.%20024U0873.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), col quale sono stati mantenuti in funzione tutti gli organi e gli uffici dei soppressi Ministero delle poste e dei telegrafi e Commissariato per la marina mercantile;
 

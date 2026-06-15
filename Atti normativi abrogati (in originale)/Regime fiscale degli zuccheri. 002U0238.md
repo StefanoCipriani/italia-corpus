@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La nota alla voce 14-a della tariffa dei dazi doganali (testo unico approvato col [R. decreto 24 novembre 1895, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-11-24;679)), e' sostituita con la seguente: 
+La nota alla voce 14-a della tariffa dei dazi doganali (testo unico approvato col [R. decreto 24 novembre 1895, n. 679](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20preliminari%20alla%20tariffa%20e%20quello%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20095U0679.md)), e' sostituita con la seguente: 
  
  «Appartengono alla prima classe gli zuccheri con rendimento in raffinato superiore a 94 per cento. 
  
@@ -60,7 +60,7 @@ La restituzione dei diritti accordata dall'[articolo 5 della legge dell'8 agosto
 
 ## Art. 9.
 
-Chiunque, con falsa dichiarazione od altrimenti, senza l'osservanza delle norme prescritte dall'[articolo 1 del R. decreto 29 settembre 1889, n. 6407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-09-29;6407#art_1) (serie 3ª), convalidato con la [legge 15 maggio 1890, n. 6858](Che%20converte%20il%20R.%20decreto%2029%20settembre%201889%20n.%206407%20Serie%203ª%20riguardante%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinati.%20090U6858.md) (serie 3ª), importi o tenti importare dall'estero, ovvero nell'interno dello Stato fabbrichi o detenga o metta in vendita illegalmente o abusivamente saccarina (benzoato solfinico), punito con una multa fissa di lire 300 e con una multa proporzionale da lire 50 a lira 100 per ogni ettogramma o frazione di ettogramma del detto prodotto. 
+Chiunque, con falsa dichiarazione od altrimenti, senza l'osservanza delle norme prescritte dall'[articolo 1 del R. decreto 29 settembre 1889, n. 6407](Che%20vieta%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinosi.%20089U6407.md) (serie 3ª), convalidato con la [legge 15 maggio 1890, n. 6858](Che%20converte%20il%20R.%20decreto%2029%20settembre%201889%20n.%206407%20Serie%203ª%20riguardante%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinati.%20090U6858.md) (serie 3ª), importi o tenti importare dall'estero, ovvero nell'interno dello Stato fabbrichi o detenga o metta in vendita illegalmente o abusivamente saccarina (benzoato solfinico), punito con una multa fissa di lire 300 e con una multa proporzionale da lire 50 a lira 100 per ogni ettogramma o frazione di ettogramma del detto prodotto. 
  
  Chiunque importi o tenti d'importare dall'estero, con falsa dichiarazione od altrimenti, ovvero fabbrichi o detenga o metta in vendita illegalmente o abusivamente prodotti contenenti saccarina, e' punito con multa fissa da lire 300 a lire 1000, e con multa proporzionale da lire 50 a lire 100 per ogni ettogramma o frazione di ettogramma di saccarina contenuta nei detti prodotti. 
  

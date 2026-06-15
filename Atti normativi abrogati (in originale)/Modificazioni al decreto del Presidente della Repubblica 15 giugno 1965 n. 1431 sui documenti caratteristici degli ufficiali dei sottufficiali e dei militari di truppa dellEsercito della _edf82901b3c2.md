@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 5 novembre 1962, n. 1695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-11-05;1695), riguardante i documenti caratteristici degli ufficiali, dei sottufficiali e dei militari di truppa dell'Esercito, della Marina, dell'Aeronautica e del Corpo della guardia di finanza;
+Vista la [legge 5 novembre 1962, n. 1695](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20dellAeronautica%20e%20della%20Guardia%20di%20finanza.md), riguardante i documenti caratteristici degli ufficiali, dei sottufficiali e dei militari di truppa dell'Esercito, della Marina, dell'Aeronautica e del Corpo della guardia di finanza;
 
 Visto il [decreto del Presidente della Repubblica 15 giugno 1965, n. 1431](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20della%20Aeronautica.md), sui documenti caratteristici degli ufficiali, dei sottufficiali e dei militari di truppa dello Esercito, della Marina e dell'Aeronautica;
 

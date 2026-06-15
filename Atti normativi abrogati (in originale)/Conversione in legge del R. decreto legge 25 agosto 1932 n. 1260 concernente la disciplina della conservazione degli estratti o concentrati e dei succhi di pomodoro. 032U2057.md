@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 agosto 1932, n. 1260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-08-25;1260), concernente la disciplina della conservazione degli estratti o concentrati e dei succhi di pomodoro. 
+ E' convertito in legge il [R. decreto-legge 25 agosto 1932, n. 1260](Disciplina%20della%20conservazione%20degli%20estratti%20o%20concentrati%20e%20dei%20succhi%20di%20pomodoro.%20032U1260.md), concernente la disciplina della conservazione degli estratti o concentrati e dei succhi di pomodoro. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

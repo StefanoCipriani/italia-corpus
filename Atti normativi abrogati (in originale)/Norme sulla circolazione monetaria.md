@@ -34,7 +34,7 @@ In via transitoria, fino a quando la circolazione dei valori da lire 100 e da li
 
 ## Art. 4.
 
-L'importo, al netto delle spese di fabbricazione, dei biglietti di Stato o delle monete da lire 100 e da lire 50 emessi, a norma degli articoli precedenti, in sostituzione dei biglietti della Banca d'Italia di pari taglio, in circolazione alla data di entrata in vigore della presente legge, sara' versato alla Banca medesima in diminuzione del debito del Tesoro per anticipazioni temporanee di cui al [decreto legislativo 21 gennaio 1948, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-21;7).
+L'importo, al netto delle spese di fabbricazione, dei biglietti di Stato o delle monete da lire 100 e da lire 50 emessi, a norma degli articoli precedenti, in sostituzione dei biglietti della Banca d'Italia di pari taglio, in circolazione alla data di entrata in vigore della presente legge, sara' versato alla Banca medesima in diminuzione del debito del Tesoro per anticipazioni temporanee di cui al [decreto legislativo 21 gennaio 1948, n. 7](../Decreti%20Legislativi/Determinazione%20dellimporto%20delle%20anticipazioni%20temporanee%20della%20Banca%20dItalia%20al%20Tesoro%20dello%20Stato.md).
 
 ## Art. 5.
 

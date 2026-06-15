@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-27;2150), riguardante il personale non insegnante del Regio istituto nautico di Cagliari, sostituendo nell'art. 3 alle parole «fermi restando tutti gli altri obblighi, gravami e norme», le parole «fermi restando tutti gli altri obblighi, gravanti a norma». 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2150](Personale%20non%20insegnante%20del%20Regio%20istituto%20nautico%20di%20Cagliari.%20027U2150.md), riguardante il personale non insegnante del Regio istituto nautico di Cagliari, sostituendo nell'art. 3 alle parole «fermi restando tutti gli altri obblighi, gravami e norme», le parole «fermi restando tutti gli altri obblighi, gravanti a norma». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

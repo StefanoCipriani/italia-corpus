@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 22 dicembre 1932, n. 1754](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-12-22;1754);
+Vista la [legge 22 dicembre 1932, n. 1754](Norme%20per%20lordinamento%20del%20personale%20dei%20cantonieri%20delle%20strade%20statali.%20032U1754.md);
 
 Visto il [decreto legislativo Presidenziale 27 giugno 1946, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;38), concernente l'istituzione dell'Azienda Nazionale Autonoma delle Strade statali (A.N.A.S.);
 
@@ -18,7 +18,7 @@ Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
-Vista la [legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100);
+Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 

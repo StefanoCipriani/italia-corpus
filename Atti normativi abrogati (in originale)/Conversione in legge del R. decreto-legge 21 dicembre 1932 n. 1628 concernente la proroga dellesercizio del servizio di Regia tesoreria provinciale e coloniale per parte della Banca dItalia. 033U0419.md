@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 dicembre 1932, n. 1628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-12-21;1628), che proroga al 31 dicembre 1934 l'esercizio del servizio di Regia tesoreria provinciale e coloniale per parte della Banca d'Italia. 
+ E' convertito in legge il [R. decreto-legge 21 dicembre 1932, n. 1628](Proroga%20dellesercizio%20del%20servizio%20di%20Regia%20tesoreria%20provinciale%20e%20coloniale%20per%20parte%20della%20Banca%20dItalia.%20032U1628.md), che proroga al 31 dicembre 1934 l'esercizio del servizio di Regia tesoreria provinciale e coloniale per parte della Banca d'Italia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

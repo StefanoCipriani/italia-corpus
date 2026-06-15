@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), relativa al riordinamento dell'istruzione media tecnica;
 
-Vista la [legge 8 luglio 1956, n. 782](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-08;782), relativa alla trasformazione delle scuole di magistero professionale per la donna e delle annesse scuole professionali femminili in istituti tecnici femminili;
+Vista la [legge 8 luglio 1956, n. 782](Trasformazione%20delle%20scuole%20di%20magistero%20professionale%20per%20la%20donna%20e%20delle%20annesse%20scuole%20professionali%20femminili%20in%20istituti%20tecnici%20femminili.md), relativa alla trasformazione delle scuole di magistero professionale per la donna e delle annesse scuole professionali femminili in istituti tecnici femminili;
 
 Ritenuta l'opportunita' di prevedere l'istituzione, presso gli istituti tecnici femminili, degli indirizzi specializzati per econome-dietiste e per dirigenti di comunita';
 

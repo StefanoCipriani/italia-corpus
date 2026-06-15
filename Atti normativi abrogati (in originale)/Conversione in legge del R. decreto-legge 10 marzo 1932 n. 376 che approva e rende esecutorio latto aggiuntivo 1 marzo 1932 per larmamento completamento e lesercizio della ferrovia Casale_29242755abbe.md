@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 marzo 1932, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-03-10;376), che approva e rende esecutorio l'atto aggiuntivo stipulato il 1° marzo 1932 per l'armamento, completamento e l'esercizio della ferrovia Casalecchio-Vignola ed autorizza la relativa corrispondente spesa. 
+ E' convertito in legge il [R. decreto-legge 10 marzo 1932, n. 376](Approvazione%20dellatto%20aggiuntivo%201%20marzo%201932%20per%20larmamento%20completamento%20ed%20esercizio%20della%20ferrovia%20Casalecchio.%20Vignola%20ed%20autorizzazione%20della%20corrispondente%20spesa.%20032U0376.md), che approva e rende esecutorio l'atto aggiuntivo stipulato il 1° marzo 1932 per l'armamento, completamento e l'esercizio della ferrovia Casalecchio-Vignola ed autorizza la relativa corrispondente spesa. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 6 giugno 1932 - Anno X 
  

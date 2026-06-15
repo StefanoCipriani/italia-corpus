@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -26,7 +26,7 @@ I tesorieri delle Province e dei Comuni devono rendere il conto nel termine di t
  Qualora il conto non sia presentato entro detto termine, il Prefetto ne dispone la compilazione d'ufficio a spese del tesoriere, al quale applica, inoltre, una sanzione consistente nel pagamento di una somma da L. 5000 a L. 50.000, il cui ammontare viene devoluto a favore delle Casse di previdenza per le pensioni agli impiegati ed ai salariati degli enti locali.
  Le Amministrazioni delle province e dei comuni sottopongono il conto all'esame di tre revisori, che lo effettuano entro il termine di un mese, e devono discutere e deliberare il conto stesso entro due mesi dal giorno in cui e' stato presentato dal tesoriere.
  Decorso infruttuosamente detto termine, l'esame e la deliberazione del conto sono deferiti al Prefetto, che vi provvede a mezzo di commissario.
- Per la nomina del revisori si osservano le disposizioni del testo unico della legge comunale e provinciale, approvato con [regio decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148).
+ Per la nomina del revisori si osservano le disposizioni del testo unico della legge comunale e provinciale, approvato con [regio decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
  La deliberazione dell'Amministrazione o del commissario sul conto, e' notificata al tesoriere, in quanto porti variazioni nel carico o nel discarico, ed agli amministratori che siano stati designati responsabili, per mezzo del messo comunale o provinciale, con invito a prendere cognizione, entro trenta giorni, nella segreteria dell'ente del conto e di tutti i documenti che vi si riferiscono.
  Il capo dell'Amministrazione, con avviso affisso per otto giorni all'albo pretorio del Comune o della Provincia, da pubblicarsi, per le Amministrazioni provinciali, nel Foglio degli annunzi legali della provincia, informa il pubblico dell'avvenuta deliberazione sul conto e del deposito di esso nell'ufficio di segreteria dell'ente.
 
@@ -60,7 +60,7 @@ I conti, fino all'esercizio 1945 incluso, delle Province e dei Comuni, deliberat
 
 ## Art. 6.
 
-L'articolo unico della [legge 9 aprile 1931, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-04-09;387), e' abrogato e sostituito dal seguente:
+L'articolo unico della [legge 9 aprile 1931, n. 387](Norme%20per%20la%20sistemazione%20dei%20conti%20consuntivi%20dei%20Comuni%20delle%20Provincie%20e%20delle%20istituzioni%20di%20beneficenza%20distrutti%20da%20incendi%20o%20da%20altri%20eventi%20fortuiti.%20031U0387.md), e' abrogato e sostituito dal seguente:
  "Per i conti consuntivi dei Comuni e delle Province i quali, dopo essere stati resi dal tesoriere delle rispettive amministrazioni, siano andati distrutti, insieme con i relativi documenti in conseguenza di incendio, di operazioni belliche o di altri eventi fortuiti, si applicano gli articoli 31, 32, 33, 34 e 35 del testo unico approvato con [decreto luogotenenziale 19 agosto 1917, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-19;1399)".
 
 ## Art. 7.
@@ -78,7 +78,7 @@ Fino a quando le Amministrazioni provinciali non saranno ricostituite in base ad
 
 ## Art. 10.
 
-Sono abrogati l'[art. 1 del regio decreto-legge 20 febbraio 1927, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-20;257#art_1), gli [articoli 308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_308), [309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_309), [310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_310) e [311 del testo unico 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_311), e ogni altra disposizione contraria al presente decreto o con esso incompatibile.
+Sono abrogati l'[art. 1 del regio decreto-legge 20 febbraio 1927, n. 257](Norme%20per%20lestensione%20alle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza%20delle%20disposizioni%20vigenti%20circa%20la%20revisione%20ed%20approvazione%20dei%20conti%20dei%20Comuni%20e%20delle%20Provincie%20e%20per%20la%20_1e3e0ddffc4f.md), gli [articoli 308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_308), [309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_309), [310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_310) e [311 del testo unico 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_311), e ogni altra disposizione contraria al presente decreto o con esso incompatibile.
  Le disposizioni del presente decreto hanno efficacia fino ad 31 dicembre 1950.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 luglio 1927, n. 1305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-07;1305), relativo ad un reclutamento straordinario di trenta tenenti in servizio permanente nell'Arma del genio. 
+ E' convertito in legge il [R. decreto-legge 7 luglio 1927, n. 1305](Reclutamento%20straordinario%20di%20trenta%20tenenti%20in%20servizio%20permanente%20nellArma%20del%20genio.%20027U1305.md), relativo ad un reclutamento straordinario di trenta tenenti in servizio permanente nell'Arma del genio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

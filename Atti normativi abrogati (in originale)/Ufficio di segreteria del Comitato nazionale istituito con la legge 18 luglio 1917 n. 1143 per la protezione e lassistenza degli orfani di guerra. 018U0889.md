@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Per provvedere al servizio di segreteria del Comitato nazionale, istituto dalla [legge 18 luglio 1917, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-18;1143), per la protezione ed assistenza degli orfani della guerra, sono aggiunti al ruolo organico dell'Amministrazione centrale dell'interno, fino a sei mesi dopo la pubblicazione della pace, un posto di capo sezione di prima classe e tre posti di primo segretario. Decorso questo termine, i detti posti saranno considerati in soprannumero e riassorbiti dalle vacanze che posteriormente si verificheranno. 
+Per provvedere al servizio di segreteria del Comitato nazionale, istituto dalla [legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md), per la protezione ed assistenza degli orfani della guerra, sono aggiunti al ruolo organico dell'Amministrazione centrale dell'interno, fino a sei mesi dopo la pubblicazione della pace, un posto di capo sezione di prima classe e tre posti di primo segretario. Decorso questo termine, i detti posti saranno considerati in soprannumero e riassorbiti dalle vacanze che posteriormente si verificheranno. 
  
  Le nomine a tali posti, fra il personale di prima categoria dell'Amministrazione dell'interno, sono riservate, per la prima volta, alla libera scelta del ministro, anche in deroga alle norme vigenti. 
  

@@ -81,7 +81,7 @@ Coloro che non ottemperino alle disposizioni di cui al terzo e quarto comma dell
  
  Con la stessa pena sono puniti coloro che occultino con qualsiasi mezzo, alterino con lavorazioni e trasformazioni non autorizzate, o distraggano dalla destinazione indicata nell'art. 1, i prodotti di cui al primo e terzo comma dell'articolo stesso. 
  
- La merce di cui al comma precedente e' soggetta a confisca ai termini dell'[art. 240 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+ La merce di cui al comma precedente e' soggetta a confisca ai termini dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 7.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 ottobre 1929, n. 2057](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-17;2057), concernente le disposizioni relative al trasferimento di sottufficiali delle legioni libiche della Milizia volontaria per la sicurezza nazionale nei corpi e reparti del Regio esercito. 
+ E' convertito in legge il [R. decreto-legge 17 ottobre 1929, n. 2057](Disposizioni%20relative%20al%20trasferimento%20di%20sottufficiali%20delle%20legioni%20libiche%20della%20M.V.S.N.%20nei%20corpi%20e%20reparti%20del%20Regio%20esercito.%20029U2057.md), concernente le disposizioni relative al trasferimento di sottufficiali delle legioni libiche della Milizia volontaria per la sicurezza nazionale nei corpi e reparti del Regio esercito. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

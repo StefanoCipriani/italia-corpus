@@ -82,7 +82,7 @@ In relazione alle necessita' di servizio e alle disponibilita' dei posti in orga
 
 ## Art. 9.
 
-Ferme restando le disposizioni concernenti i corsi di osservazione aerea di cui al [R. decreto-legge 6 settembre 1928, n. 2624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-09-06;2624), sono abrogate tutte le altre disposizioni relative ai corsi di pilotaggio di cui al Regio decreto-legge medesimo e successive modificazioni, in contrasto con quelle contenute nella presente legge. Il secondo comma dell'art. 13 del suddetto [R. decreto-legge 6 settembre 1928, n. 2624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-09-06;2624), e' abrogato. 
+Ferme restando le disposizioni concernenti i corsi di osservazione aerea di cui al [R. decreto-legge 6 settembre 1928, n. 2624](Norme%20concernenti%20i%20corsi%20speciali%20di%20pilotaggio%20aereo%20e%20di%20osservazione%20aerea.%20028U2624.md), sono abrogate tutte le altre disposizioni relative ai corsi di pilotaggio di cui al Regio decreto-legge medesimo e successive modificazioni, in contrasto con quelle contenute nella presente legge. Il secondo comma dell'art. 13 del suddetto [R. decreto-legge 6 settembre 1928, n. 2624](Norme%20concernenti%20i%20corsi%20speciali%20di%20pilotaggio%20aereo%20e%20di%20osservazione%20aerea.%20028U2624.md), e' abrogato. 
  
  L'art. 8 della presente legge entra in vigore dal 1° settembre 1931. 
  

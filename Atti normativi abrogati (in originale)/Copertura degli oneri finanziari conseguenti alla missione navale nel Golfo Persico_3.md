@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 1.
 
-Le disposizioni di cui all'[articolo 1, commi 1](Copertura%20degli%20oneri%20finanziari%20conseguenti%20alla%20missione%20navale%20nel%20Golfo%20Persico_2.md) e [2, del decreto-legge 22 gennaio 1988, n. 13](Copertura%20degli%20oneri%20finanziari%20conseguenti%20alla%20missione%20navale%20nel%20Golfo%20Persico_2.md), convertito dalla [legge 11 marzo 1988, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;74), sono prorogate fino al 31 dicembre 1988.
+Le disposizioni di cui all'[articolo 1, commi 1](Copertura%20degli%20oneri%20finanziari%20conseguenti%20alla%20missione%20navale%20nel%20Golfo%20Persico_2.md) e [2, del decreto-legge 22 gennaio 1988, n. 13](Copertura%20degli%20oneri%20finanziari%20conseguenti%20alla%20missione%20navale%20nel%20Golfo%20Persico_2.md), convertito dalla [legge 11 marzo 1988, n. 74](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2022%20gennaio%201988%20n.%2013%20recante%20copertura%20degli%20oneri%20finanziari%20conseguenti%20alla%20missione%20navale%20nel%20Golfo%20Persico.md), sono prorogate fino al 31 dicembre 1988.
 
 ## Art. 2.
 

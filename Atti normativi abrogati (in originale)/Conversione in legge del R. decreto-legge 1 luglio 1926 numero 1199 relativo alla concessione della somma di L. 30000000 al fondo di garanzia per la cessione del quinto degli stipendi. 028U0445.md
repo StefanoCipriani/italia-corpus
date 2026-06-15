@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° luglio 1926, n. 1199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-01;1199), relativo alla concessione della somma di L. 30,000,000 al fondo di garanzia per la cessione del quinto degli stipendi. 
+ E' convertito in legge il [R. decreto-legge 1° luglio 1926, n. 1199](Concessione%20della%20somma%20di%20L.%2030000000%20a%20favore%20del%20fondo%20di%20garanzia%20per%20la%20cessione%20del%20quinto%20degli%20stipendi.%20026U1199.md), relativo alla concessione della somma di L. 30,000,000 al fondo di garanzia per la cessione del quinto degli stipendi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

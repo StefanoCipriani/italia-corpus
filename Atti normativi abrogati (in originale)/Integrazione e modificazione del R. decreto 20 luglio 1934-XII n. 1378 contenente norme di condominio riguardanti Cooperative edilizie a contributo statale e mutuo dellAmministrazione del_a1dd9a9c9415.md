@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 20 luglio 1934, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1378), che disciplina il condominio delle Cooperative edilizie a contributo statale e mutuo dell'Amministrazione delle ferrovie dello Stato;
+Visto il [R. decreto 20 luglio 1934, n. 1378](Norme%20di%20condominio%20delle%20cooperative%20a%20contributo%20statale%20mutuatarie%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20034U1378.md), che disciplina il condominio delle Cooperative edilizie a contributo statale e mutuo dell'Amministrazione delle ferrovie dello Stato;
 
 Ritenuta l'opportunita' di integrare e modificare il predetto decreto per autorizzare le Cooperative a stabilire sanzioni pecuniarie per infrazioni alle norme riguardanti il miglior uso della parti comuni degli edifici e per gli atti che turbano la tranquillita' dei condomini, nonche' a modificare le norme concernenti la giurisdizione speciale deferita per il periodo di dieci anni alla Commissione di vigilanza per le controversie insorgenti in materia di condominio, abolendosi inoltre la competenza dei Collegi arbitrali per il tempo posteriore al detto periodo di dieci anni;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-All'[art. 34 del R. decreto 20 luglio 1934, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1378#art_34), e' aggiunto il seguente comma: 
+All'[art. 34 del R. decreto 20 luglio 1934, n. 1378](Norme%20di%20condominio%20delle%20cooperative%20a%20contributo%20statale%20mutuatarie%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20034U1378.md), e' aggiunto il seguente comma: 
  
  «Nel detto regolamento possono stabilirsi per le infrazioni alle norme circa l'uso delle cose comuni e gli atti che turbano la tranquillita' dei condomini, sanzioni pecuniarie non superiori a lire cinquanta, salvo il reclamo di cui all'art. 38 senza pregiudizio del risarcimento del danno e del rimborso delle spese a cui la violazione abbia dato luogo. 
  
@@ -38,7 +38,7 @@ All'[art. 34 del R. decreto 20 luglio 1934, n. 1378](https://www.normattiva.it/u
 
 ## Art. 2.
 
-All'[art. 38 del R. decreto 20 luglio 1934, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1378#art_38), viene sostituito il seguente: 
+All'[art. 38 del R. decreto 20 luglio 1934, n. 1378](Norme%20di%20condominio%20delle%20cooperative%20a%20contributo%20statale%20mutuatarie%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20034U1378.md), viene sostituito il seguente: 
  
  «Per il Periodo di dieci anni, a decorrere dal 1° aprile 3936-XIV, su tutte le controversie insorgenti in materia, di condominio, decide la Commissione di vigilanza su istanza da prodursi, sotto pena di decadenza, nel termine di un anno dal giorno in cui si e' verificato il fatto ovvero e' intervenuto il provvedimento che ha dato origine alla controversia. 
  

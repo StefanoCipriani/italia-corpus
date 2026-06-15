@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 4 del R. decreto-legge 28 aprile 1927, n. 628](Soppressione%20del%20Commissariato%20generale%20per%20lemigrazione%20ed%20istituzione%20presso%20il%20Ministero%20degli%20affari%20esteri%20di%20una%20Direzione%20generale%20degli%20italiani%20allestero.%20027U0628.md), il testo unico approvato con [R. decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205), convertito in legge con la [legge 17 aprile 1925, n. 473, e l'art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473#art_2) del [R. decreto 14 marzo 1909, n. 130](Che%20modifica%20il%20titolo%20IV%20del%20regolamento%20sulla%20emigrazione.%20009U0130.md);
+Visto l'[art. 4 del R. decreto-legge 28 aprile 1927, n. 628](Soppressione%20del%20Commissariato%20generale%20per%20lemigrazione%20ed%20istituzione%20presso%20il%20Ministero%20degli%20affari%20esteri%20di%20una%20Direzione%20generale%20degli%20italiani%20allestero.%20027U0628.md), il testo unico approvato con [R. decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205), convertito in legge con la [legge 17 aprile 1925, n. 473, e l'art. 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md) del [R. decreto 14 marzo 1909, n. 130](Che%20modifica%20il%20titolo%20IV%20del%20regolamento%20sulla%20emigrazione.%20009U0130.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Il Nostro Ministro Segretario di Stato per gli affari esteri e' autorizzato a de
 
 ## Art. 2.
 
-Gli adempimenti di cui all'art. 20 del testo unico sull'emigrazione approvato con [R. decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205), convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sono limitati ai piroscafi che non siano provvisti ne' di patente di vettore ne' della licenza per un singolo viaggio in partenza da un porto del Regno. 
+Gli adempimenti di cui all'art. 20 del testo unico sull'emigrazione approvato con [R. decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), sono limitati ai piroscafi che non siano provvisti ne' di patente di vettore ne' della licenza per un singolo viaggio in partenza da un porto del Regno. 
  
  E' abrogato il capoverso ultimo dell'[art. 19 del R. decreto 14 marzo 1909, n. 130](Che%20modifica%20il%20titolo%20IV%20del%20regolamento%20sulla%20emigrazione.%20009U0130.md). 
  

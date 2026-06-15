@@ -71,7 +71,7 @@ Sull'esito della verifica di cui al comma 1 il Ministro dell'universitae della r
 
 1.
 
-Ferme le disposizioni previste dalla [legge 30 maggio 1988, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-30;186), a decorrere dal 1 gennaio 1995, il contributo italiano per la partecipazione ai programmi dell'Agenzia spaziale europea (ESA), gia' compreso nel contributo dello Stato a favore dell'ASI, determinato dalla legge finanziaria ai sensi dell'[articolo 11, comma 3, lettera d), della legge 5 agosto 1978, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_11-com3-letd), come sostituito dall'[articolo 5 della legge 23 agosto 1988, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;362#art_5), e' iscritto su un apposito capitolo dello stato di previsione del Ministero dell'universita' e della ricerca scientifica e tecnologica.
+Ferme le disposizioni previste dalla [legge 30 maggio 1988, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-30;186), a decorrere dal 1 gennaio 1995, il contributo italiano per la partecipazione ai programmi dell'Agenzia spaziale europea (ESA), gia' compreso nel contributo dello Stato a favore dell'ASI, determinato dalla legge finanziaria ai sensi dell'[articolo 11, comma 3, lettera d), della legge 5 agosto 1978, n. 468](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), come sostituito dall'[articolo 5 della legge 23 agosto 1988, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;362#art_5), e' iscritto su un apposito capitolo dello stato di previsione del Ministero dell'universita' e della ricerca scientifica e tecnologica.
 
 2.
 

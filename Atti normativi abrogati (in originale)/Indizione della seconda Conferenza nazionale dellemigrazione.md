@@ -27,7 +27,7 @@ E' indetta la seconda Conferenza nazionale dell'emigrazione che dovra' svolgersi
 La Conferenza e' organizzata congiuntamente dal Ministero degli affari esteri e dal Consiglio nazionale dell'economia e del lavoro.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Scopo della Conferenza
 
@@ -184,7 +184,7 @@ Il segretariato della Conferenza nazionale dell'emigrazione e' istituito presso 
 
 2.
 
-Il segretariato e' diretto dal segretario generale, collocato nella posizione di fuori ruolo per la durata dell'incarico anche in eccedenza alle quote stabilite dal [decreto del Presidente della Repubblica 30 aprile 1958, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-04-30;571), o da altre disposizioni legislative o regolamentari, ed assistito da un vice segretario generale. Esso e' costituito da dipendenti del Consiglio nazionale dell'economia e del lavoro, delle amministrazioni dello Stato di cui alla lettera d) del comma 1 dell'articolo 3, comandati, nei limiti di un contingente globale non superiore a dodici unita'.
+Il segretariato e' diretto dal segretario generale, collocato nella posizione di fuori ruolo per la durata dell'incarico anche in eccedenza alle quote stabilite dal [decreto del Presidente della Repubblica 30 aprile 1958, n. 571](../DPR/Norme%20di%20esecuzione%20dellart.%2058%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), o da altre disposizioni legislative o regolamentari, ed assistito da un vice segretario generale. Esso e' costituito da dipendenti del Consiglio nazionale dell'economia e del lavoro, delle amministrazioni dello Stato di cui alla lettera d) del comma 1 dell'articolo 3, comandati, nei limiti di un contingente globale non superiore a dodici unita'.
 
 3.
 

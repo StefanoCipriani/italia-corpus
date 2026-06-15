@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- E' autorizzata l'assegnazione straordinaria di L. 300,000 per maggior numero di assegni da conferirsi, a norma del [R. decreto 11 marzo 1923, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;563), ad italiani ed a stranieri per seguire corsi o compiere studi presso universita', istituti superiori e scuole di belle arti, rispettivamente dell'estero e del Regno. 
+ E' autorizzata l'assegnazione straordinaria di L. 300,000 per maggior numero di assegni da conferirsi, a norma del [R. decreto 11 marzo 1923, n. 563](Che%20istituisce%20assegni%20da%20concedersi%20ad%20italiani%20ed%20a%20stranieri%20per%20seguire%20corsi%20o%20compiere%20studi%20presso%20Universita%20Istituti%20superiori%20e%20scuole%20di%20belle%20arti%20rispettivamente%20dellestero%20e_0cdd7629ee87.md), ad italiani ed a stranieri per seguire corsi o compiere studi presso universita', istituti superiori e scuole di belle arti, rispettivamente dell'estero e del Regno. 
  
  L'anzidetta somma viene inscritta al capitolo n. 80: «Fondazioni scolastiche a vantaggio di studi universitari. Posti gratuiti, ecc.» dello stato di previsione della spesa del Ministero dell'istruzione pubblica, per l'esercizio finanziario 1924-25. 
  

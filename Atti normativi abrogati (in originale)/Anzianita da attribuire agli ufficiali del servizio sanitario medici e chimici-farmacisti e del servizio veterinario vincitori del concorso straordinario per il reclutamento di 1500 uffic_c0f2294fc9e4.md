@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-14;596), e successive modificazioni;
+Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni;
 
-Vista la [legge 6 giugno 1940, n. 630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-06;630), recante norme per il reclutamento straordinario di 1500 subalterni in servizio permanente effettivo nel Regio esercito;
+Vista la [legge 6 giugno 1940, n. 630](Reclutamento%20straordinario%20di%201500%20subalterni%20in%20servizio%20permanente%20effettivo%20nel%20Regio%20esercito.%20040U0630.md), recante norme per il reclutamento straordinario di 1500 subalterni in servizio permanente effettivo nel Regio esercito;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per la guerra, d'intesa col Ministro per il tesoro; 
 
 ## Art. 1.
 
-Alla [legge 6 giugno 1940, n. 630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-06;630), concernente il reclutamento straordinario di 1500 subalterni in servizio permanente effettivo nel Regio esercito, sono apportate le modificazioni seguenti: 
+Alla [legge 6 giugno 1940, n. 630](Reclutamento%20straordinario%20di%201500%20subalterni%20in%20servizio%20permanente%20effettivo%20nel%20Regio%20esercito.%20040U0630.md), concernente il reclutamento straordinario di 1500 subalterni in servizio permanente effettivo nel Regio esercito, sono apportate le modificazioni seguenti: 
  
  Il comma secondo dell'art. 5 e' abrogato. 
  
@@ -52,7 +52,7 @@ Alla [legge 6 giugno 1940, n. 630](https://www.normattiva.it/uri-res/N2Ls?urn:ni
  
  per i vincitori del concorso compresi negli altri due terzi della graduatoria, considerando definitivo l'ordine di precedenza conseguito nella graduatoria del concorso stesso». 
  
- «Art. 8. - I vincitori del concorso di cui alla presente legge sono tenuti a frequentare da subalterno un corso tecnico professionale con le modalita' che saranno fissate dal Ministro per la guerra, ma non frequentano i corsi di applicazione o di perfezionamento di cui agli articoli 7 e 12 del testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-14;596), e successive modificazioni. 
+ «Art. 8. - I vincitori del concorso di cui alla presente legge sono tenuti a frequentare da subalterno un corso tecnico professionale con le modalita' che saranno fissate dal Ministro per la guerra, ma non frequentano i corsi di applicazione o di perfezionamento di cui agli articoli 7 e 12 del testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni. 
  
  Il corso tecnico professionale, previsto dal comma precedente da attuarsi nei limiti dei normali stanziamenti di bilancio, puo', per particolari esigenze a giudizio del Ministro per la guerra, non aver luogo».
 

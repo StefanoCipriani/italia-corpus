@@ -14,15 +14,15 @@ I provveditori agli studi hanno facolta' di ordinare che si anticipino la cessaz
 
 ### Art. 2.
 
-Nella prima sessione dell'anno scolastico 1914-915 agli esami di promozione e a quelli di licenza di cui al [5° paragrafo dell'art. 10 della legge 8 luglio 1904, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;407#art_10-par5), nelle scuole elementari e popolari predette e' sostituito, a favore degli alunni delle scuole stesse, per tutti gli effetti previsti dalle leggi e dai regolamenti in vigore, lo scrutinio da farsi a norma degli articoli seguenti. 
+Nella prima sessione dell'anno scolastico 1914-915 agli esami di promozione e a quelli di licenza di cui al [5° paragrafo dell'art. 10 della legge 8 luglio 1904, n. 407](Portante%20provvedimenti%20per%20la%20scuola%20e%20pei%20maestri%20elementari.%20004U0407.md), nelle scuole elementari e popolari predette e' sostituito, a favore degli alunni delle scuole stesse, per tutti gli effetti previsti dalle leggi e dai regolamenti in vigore, lo scrutinio da farsi a norma degli articoli seguenti. 
  
  Il ministro della pubblica istruzione ha facolta' di prescrivere le norme per la seconda sessione dello stesso anno scolastico.
 
 ### Art. 3.
 
-I maestri delle singole classi compiono lo scrutinio finale a norma dell'art. 7 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1216), considerando come compiuto il bimestre in corso all'atto dello scrutinio, con facolta' di elevare, per ciascuna materia e per la condotta, fino alla unita' superiore la frazione di punto, quando la media annuale superi i cinque punti. 
+I maestri delle singole classi compiono lo scrutinio finale a norma dell'art. 7 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1216](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20elementari%20e%20popolari.%20013U1216.md), considerando come compiuto il bimestre in corso all'atto dello scrutinio, con facolta' di elevare, per ciascuna materia e per la condotta, fino alla unita' superiore la frazione di punto, quando la media annuale superi i cinque punti. 
  
- Ottengono la promozione o la licenza di cui al [5° paragrafo dell'art. 10 della legge 8 luglio 1904, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;407#art_10-par5), gli alunni che raggiungono la media annuale di almeno sei decimi nella condotta o in ciascuna delle materie per le quali dall'art. 47 del regolamento predetto sia prescritta prova di esame. 
+ Ottengono la promozione o la licenza di cui al [5° paragrafo dell'art. 10 della legge 8 luglio 1904, n. 407](Portante%20provvedimenti%20per%20la%20scuola%20e%20pei%20maestri%20elementari.%20004U0407.md), gli alunni che raggiungono la media annuale di almeno sei decimi nella condotta o in ciascuna delle materie per le quali dall'art. 47 del regolamento predetto sia prescritta prova di esame. 
  
  Ottengono la dispensa dagli esami per le singole ma tenie nelle quali raggiungano la media annuale di almeno sei punti gli alunni che riportino anche la media annuale di almeno sei punti in condotta. 
  
@@ -36,23 +36,23 @@ Entro il termine stabilito dal R. provveditore agli studi i maestri inviano al R
  
  Nei soli casi in cui il R. ispettore riconosca, per uno o per piu' alunni, non regolari gli atti dello scrutinio compiuto dal maestro, ordina che lo scrutinio stesso sia rettificato dal maestro, d'accordo, ove sia possibile, con l'insegnante della classe immediatamente superiore, o con altro insegnante di scuole maschili o femminili o miste dall'ispettore designato, o, infine, col vice ispettore scolastico. 
  
- Dall'invio dello specchietto delle medie bimestrali e annuali sono dispensati i maestri delle scuole di cui all'art. 44 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1216); ma alle scuole stesse sono estese tutte le altre disposizioni del presente decreto.
+ Dall'invio dello specchietto delle medie bimestrali e annuali sono dispensati i maestri delle scuole di cui all'art. 44 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1216](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20elementari%20e%20popolari.%20013U1216.md); ma alle scuole stesse sono estese tutte le altre disposizioni del presente decreto.
 
 ### Art. 5.
 
-Le attribuzioni conferite col presente decreto al R. ispettore scolastico sono estese ai direttori didattici senza insegnamento nei Comuni ove esista la direzione didattica, e ai capi degli Istituti di cui al 3° paragrafo dell'art. 10 del regolamento approvato con [R. decreto 19 aprile 1906, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-04-19;350), per le scuole che rispettivamente ne dipendono.
+Le attribuzioni conferite col presente decreto al R. ispettore scolastico sono estese ai direttori didattici senza insegnamento nei Comuni ove esista la direzione didattica, e ai capi degli Istituti di cui al 3° paragrafo dell'art. 10 del regolamento approvato con [R. decreto 19 aprile 1906, n. 350](Che%20approva%20lannesso%20regolamento%20per%20la%20ispezione%20degli%20istituti%20pubblici%20e%20privati%20distruzione%20elementare.%20006U0350.md), per le scuole che rispettivamente ne dipendono.
 
 ### Art. 6.
 
-Per la concessione del diploma di maturita' e per la concessione del diploma di licenza da valere agli effetti di cui al [6° paragrafo dell'art. 10 della legge 8 luglio 1904, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;407#art_10-par6), le Commissioni costituite a norma dell'art. 39 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1216), procedono allo scrutinio, da compiersi, per quel che concerne i punti minimi necessari per l'approvazione, a norma dell'art. 3 del presente decreto. 
+Per la concessione del diploma di maturita' e per la concessione del diploma di licenza da valere agli effetti di cui al [6° paragrafo dell'art. 10 della legge 8 luglio 1904, n. 407](Portante%20provvedimenti%20per%20la%20scuola%20e%20pei%20maestri%20elementari.%20004U0407.md), le Commissioni costituite a norma dell'art. 39 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1216](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20elementari%20e%20popolari.%20013U1216.md), procedono allo scrutinio, da compiersi, per quel che concerne i punti minimi necessari per l'approvazione, a norma dell'art. 3 del presente decreto. 
  
- Lo scrutinio ha luogo soltanto per gli alunni che presentino la domanda e i documenti prescritti dall'articolo 37 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1216), modificato dall'[art. 24 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_24), per quanto concerne la tassa da pagarsi per gli esami di maturita', ed e' sostituito, per tutti gli effetti delle leggi e dei regolamenti in vigore, agli esami di maturita' o di licenza. 
+ Lo scrutinio ha luogo soltanto per gli alunni che presentino la domanda e i documenti prescritti dall'articolo 37 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1216](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20elementari%20e%20popolari.%20013U1216.md), modificato dall'[art. 24 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), per quanto concerne la tassa da pagarsi per gli esami di maturita', ed e' sostituito, per tutti gli effetti delle leggi e dei regolamenti in vigore, agli esami di maturita' o di licenza. 
  
- Alle Commissioni per i diplomi di maturita' e agli insegnanti di scuole medie scelti dal provveditore agli studi a far parte della Commissione di licenza spettano le propine, le indennita' e le diarie a norma dell'art. 46 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1216).
+ Alle Commissioni per i diplomi di maturita' e agli insegnanti di scuole medie scelti dal provveditore agli studi a far parte della Commissione di licenza spettano le propine, le indennita' e le diarie a norma dell'art. 46 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1216](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20elementari%20e%20popolari.%20013U1216.md).
 
 ### Art. 7.
 
-Fermo il disposto degli articoli 79, 80, 81 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1216), dal pagamento della tassa di L. 20 per gli esami di maturita' dovuta a norma dell'[art. 24 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_24), e dal pagamento di L. 5 o di L. 25 dovuto rispettivamente pei [paragrafi 5° e 6° dell'art. 10 della legge 8 luglio 1904, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;407#art_10-com6-par5), sono anche dispensati gli alunni che risultino approvati in seguito allo scrutinio e che, mediante attestazione del sindaco, provino di appartenere a famiglia in condizioni economiche ristrette e di vivere a carico di persona che si trovi in servizio militare. 
+Fermo il disposto degli articoli 79, 80, 81 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1216](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20elementari%20e%20popolari.%20013U1216.md), dal pagamento della tassa di L. 20 per gli esami di maturita' dovuta a norma dell'[art. 24 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), e dal pagamento di L. 5 o di L. 25 dovuto rispettivamente pei [paragrafi 5° e 6° dell'art. 10 della legge 8 luglio 1904, n. 407](Portante%20provvedimenti%20per%20la%20scuola%20e%20pei%20maestri%20elementari.%20004U0407.md), sono anche dispensati gli alunni che risultino approvati in seguito allo scrutinio e che, mediante attestazione del sindaco, provino di appartenere a famiglia in condizioni economiche ristrette e di vivere a carico di persona che si trovi in servizio militare. 
  
  Dal pagamento delle tasse predette sono anche esentati, sino a tutto l'anno scolastico 1915-916, gli alunni appartenenti a famiglie le quali per i danni sofferti dal terremoto del 13 gennaio 1915 siano ridotte in condizioni da non potere piu' sopperire a tutte le spese per la istruzione e la educazione dei propri figli.
 
@@ -68,11 +68,11 @@ Il provveditore agli studi, tenuto conto delle domande dei candidati provenienti
 
 ### Art. 9.
 
-E' sospeso per l'anno scolastico 1914-915 l'obbligo di cui all'[art. 70 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_70).
+E' sospeso per l'anno scolastico 1914-915 l'obbligo di cui all'[art. 70 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md).
 
 ### Art. 10.
 
-Gli atti degli scrutini, gli attestati e i diplomi rilasciati nella prima sessione dell'anno scolastico 1914-915 in conformita' delle disposizioni degli articoli precedenti, contengono l'indicazione di richiamo al presente decreto e quelli di cui ai paragrafi secondo e terzo dell'art. 82 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1216); portano il visto delle autorita' competenti, a norma dell'articolo stesso. 
+Gli atti degli scrutini, gli attestati e i diplomi rilasciati nella prima sessione dell'anno scolastico 1914-915 in conformita' delle disposizioni degli articoli precedenti, contengono l'indicazione di richiamo al presente decreto e quelli di cui ai paragrafi secondo e terzo dell'art. 82 del regolamento approvato con [R. decreto 22 giugno 1913, n. 1216](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20elementari%20e%20popolari.%20013U1216.md); portano il visto delle autorita' competenti, a norma dell'articolo stesso. 
  
  L'attestato di promozione dalla 3a alla 4a classe elementare sostituisce, per ogni effetto di legge, il certificato di compimento del corso elementare inferiore. 
  
@@ -94,9 +94,9 @@ Per tutta la durata della guerra le adunanze della Deputazione scolastica sono v
 
 ### Art. 14.
 
-Per provvedere temporaneamente ai servizi affidati agl'impiegati sotto le armi nel R. esercito o nella R. marina, e' autorizzata l'assunzione di personale straordinario a norma e per gli effetti della [legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182), pei bisogni imprescindibili del servizio della Direzione generale per l'istruzione primaria e popolare e degli uffici scolastici provinciali. 
+Per provvedere temporaneamente ai servizi affidati agl'impiegati sotto le armi nel R. esercito o nella R. marina, e' autorizzata l'assunzione di personale straordinario a norma e per gli effetti della [legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md), pei bisogni imprescindibili del servizio della Direzione generale per l'istruzione primaria e popolare e degli uffici scolastici provinciali. 
  
- Alla spesa necessaria si provvedera' con prelevamenti dal fondo di riserva per l'istruzione primaria e popolare istituito dall'[art. 90 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_90).
+ Alla spesa necessaria si provvedera' con prelevamenti dal fondo di riserva per l'istruzione primaria e popolare istituito dall'[art. 90 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md).
 
 ### Art. 15.
 

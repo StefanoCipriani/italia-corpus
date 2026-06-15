@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1535](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1535), che modifica il regime doganale del corozo e dei semi di palma dum e regolamenta la loro importazione. 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1535](Modificazione%20al%20regime%20doganale%20del%20corozo%20e%20dei%20semi%20di%20palma-dum%20e%20regolamentazione%20della%20loro%20importazione.%20034U1535.md), che modifica il regime doganale del corozo e dei semi di palma dum e regolamenta la loro importazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

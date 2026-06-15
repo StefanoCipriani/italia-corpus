@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-A modifica di quanto disposto dall'art. 12 del regolamento per l'esecuzione del testo unico delle leggi sul reclutamento dell'Esercito, approvato con [regio decreto 6 giugno 1940, n. 1481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-06;1481), al medico civile chiamato come perito dinanzi ai Consigli ed alle Commissioni mobili di leva spetta per ogni giornata di seduta la indennita' di L. 2000.
+A modifica di quanto disposto dall'art. 12 del regolamento per l'esecuzione del testo unico delle leggi sul reclutamento dell'Esercito, approvato con [regio decreto 6 giugno 1940, n. 1481](Parte%20prima%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20040U1481.md), al medico civile chiamato come perito dinanzi ai Consigli ed alle Commissioni mobili di leva spetta per ogni giornata di seduta la indennita' di L. 2000.
  Qualora, per assistere alle sedute, il medico civile debba recarsi in un Comune che non sia quello della sua ordinaria residenza, l'indennita' di cui al primo comma e' elevata a lire 3000, oltre al rimborso delle spese personali di trasporto in seconda classe sulle ferrovie e sui piroscafi e a quello dell'effettivo costo del biglietto sugli altri veicoli a trazione meccanica, destinati in modo periodico e regolare al pubblico servizio.
 
 ## Art. 2.

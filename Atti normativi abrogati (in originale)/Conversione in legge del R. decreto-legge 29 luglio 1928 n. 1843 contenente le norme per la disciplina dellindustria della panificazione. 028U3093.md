@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 luglio 1928, n. 1843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-07-29;1843), contenente le norme per la disciplina dell'industria della panificazione. 
+ E' convertito in legge il [R. decreto-legge 29 luglio 1928, n. 1843](Disciplina%20dellindustria%20della%20panificazione.%20028U1843.md), contenente le norme per la disciplina dell'industria della panificazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

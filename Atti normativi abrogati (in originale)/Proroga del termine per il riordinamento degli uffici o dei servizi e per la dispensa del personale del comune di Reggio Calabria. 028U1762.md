@@ -22,9 +22,9 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il termine assegnato al comune di Reggio Calabria per l'esercizio delle facolta' eccezionali di cui al [R. decreto-legge 16 dicembre 1926, n. 2123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2123), relativamente al riordinamento degli uffici e dei servizi e alla dispensa del personale, e' prorogato fino al 31 luglio 1928. 
+ Il termine assegnato al comune di Reggio Calabria per l'esercizio delle facolta' eccezionali di cui al [R. decreto-legge 16 dicembre 1926, n. 2123](Conferimento%20allAmministrazione%20comunale%20di%20Milano%20dei%20poteri%20per%20addivenire%20a%20modificazioni%20nellordinamento%20degli%20uffici%20e%20nel%20funzionamento%20dei%20servizi.%20026U2123.md), relativamente al riordinamento degli uffici e dei servizi e alla dispensa del personale, e' prorogato fino al 31 luglio 1928. 
  
- L'efficacia di detta proroga si estende anche ai provvedimenti adottati nel periodo dalla scadenza del termine di cui al decreto Ministeriale 25 luglio 1927, emesso in applicazione del [R. decreto-legge 17 febbraio 1927, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;223), alla data di entrata in vigore della presente legge. 
+ L'efficacia di detta proroga si estende anche ai provvedimenti adottati nel periodo dalla scadenza del termine di cui al decreto Ministeriale 25 luglio 1927, emesso in applicazione del [R. decreto-legge 17 febbraio 1927, n. 223](Norme%20per%20il%20riordinamento%20degli%20uffici%20e%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20dipendente%20dagli%20enti%20locali.%20027U0223.md), alla data di entrata in vigore della presente legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -24,7 +24,7 @@ E' conceduta amnistia:
  
  1° per qualsiasi reato commesso col mezzo della stampa prima del 22 luglio 1919; 
  
- 2° per i reati colposi preveduti negli [articoli 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_371) e [375 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_375), e per ogni reato colposo preveduto da disposizioni di decreti Reali o Luogotenenziali, o di bandi di autorita' militare; 
+ 2° per i reati colposi preveduti negli [articoli 371](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [375 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e per ogni reato colposo preveduto da disposizioni di decreti Reali o Luogotenenziali, o di bandi di autorita' militare; 
  
  3° per i reati rispetto ai quali l'esercizio dell'azione penale e' tuttora sospeso per effetto delle disposizioni del [decreto Luogotenenziale 10 giugno 1915, n. 811](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-10;811), se la sospensione e' derivata dal servizio militare prestato dall'imputato, o da alcuno degli imputati, purche' si tratti di reati punibili con pena restrittiva della liberta' personale non superiore nel massimo a dieci anni o con pena pecuniaria di qualsiasi misura, sola o accompagnata alla detta pena; 
  
@@ -34,25 +34,25 @@ E' conceduta amnistia:
  
  b) a chi abbia conseguito due medaglie al valore, ovvero due promozioni per merito di guerra, o una medaglia al valore e una promozione per merito di guerra, posteriormente alla data del reato;  
  5° per i reati punibili con pena restrittiva della liberta' personale non superiore nel minimo a cinque anni, o con pena pecuniaria di qualsiasi misura, sola o congiunta alla detta pena se l'imputato abbia conseguito una medaglia al valore ovvero una promozione per merito di guerra, posteriormente alla data del reato;  
- 6° per i reati contemplati negli articoli 115, 118 a 130, e, in relazione a questi, nell'[art. 134 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_134) e per quelli contemplati negli articoli 135, 139, 140, 141 dello stesso Codice; 
+ 6° per i reati contemplati negli articoli 115, 118 a 130, e, in relazione a questi, nell'[art. 134 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e per quelli contemplati negli articoli 135, 139, 140, 141 dello stesso Codice; 
  
- 7° per i reati commessi in occasione di moti popolari, pubbliche dimostrazioni e tumulti, determinati da cause politiche od economiche, esclusi l'omicidio e i reati contemplali negli articoli 372 nn. 1 e 2, 373, 408 e 409 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ 7° per i reati commessi in occasione di moti popolari, pubbliche dimostrazioni e tumulti, determinati da cause politiche od economiche, esclusi l'omicidio e i reati contemplali negli articoli 372 nn. 1 e 2, 373, 408 e 409 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- 8° per i reati contro la liberta' del lavoro (art. 165 a 167 [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398)), commessi prima del 22 luglio 1919; 
+ 8° per i reati contro la liberta' del lavoro (art. 165 a 167 [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)), commessi prima del 22 luglio 1919; 
  
- 9° per i reati di indebito abbandono del proprio ufficio ([articolo 181 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_181)); 
+ 9° per i reati di indebito abbandono del proprio ufficio ([articolo 181 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)); 
  
- 10° per i delitti di violenza e resistenza all'autorita' (art. 187 a 190 [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398)) e di oltraggio contro persone rivestite di pubblica autorita' (art. 194 a 196 [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398)); 
+ 10° per i delitti di violenza e resistenza all'autorita' (art. 187 a 190 [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)) e di oltraggio contro persone rivestite di pubblica autorita' (art. 194 a 196 [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)); 
  
- 11° per i delitti di istigazione a delinquere e, in relazione ad essi, per quello contemplato nell'[art. 251 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_251) purche' l'imputato non abbia subito alcuna precedente condanna per questa specie di reati e purche' si tratti di reati commessi prima del 22 luglio 1919; 
+ 11° per i delitti di istigazione a delinquere e, in relazione ad essi, per quello contemplato nell'[art. 251 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) purche' l'imputato non abbia subito alcuna precedente condanna per questa specie di reati e purche' si tratti di reati commessi prima del 22 luglio 1919; 
  
  12° per i reati preveduti nel [R. decreto 23 maggio 1915, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;674), contenente provvedimenti straordinari di sicurezza pubblica; 
  
- 13° per i delitti contemplati negli [articoli 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_381) e [382 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_382); 
+ 13° per i delitti contemplati negli [articoli 381](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [382 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  14° per i reati contro la proprieta', non inclusi nei numeri precedenti, pei quali l'azione penale non puo' essere esercitata senza querela; 
  
- 15° per le contravvenzioni prevedute negli articoli 434 a 446, 453 a 459, 475, 476, 482, 493, 494 del [Codice penale, negli articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_1), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_7) e [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_8) della legge di pubblica sicurezza 30 giugno 1889, n. 6144, serie 3ª, e per quelle prevedute nei bandi dei comandi militari a carico di non militari; 
+ 15° per le contravvenzioni prevedute negli articoli 434 a 446, 453 a 459, 475, 476, 482, 493, 494 del [Codice penale, negli articoli 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [7](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [8](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) della legge di pubblica sicurezza 30 giugno 1889, n. 6144, serie 3ª, e per quelle prevedute nei bandi dei comandi militari a carico di non militari; 
  
  16° per qualsiasi delitto non contemplato nei numeri precedenti, punibile con sola pena pecuniaria non superiore a conto lire o con pena restrittiva della liberta' personale non superiore ad un mese, sola o congiunta alla pena pecuniaria nella detta misura. Sono escluse da questo beneficio le violazioni dei RR. decreti 13 e 24 luglio 1919, nn. 1146 e 1296 e 3 agosto 1919, n 1360. 
  
@@ -66,9 +66,9 @@ E' conceduta, a favore di chi non abbia subito alcuna precedente condanna per de
 
 ## Art. 3.
 
-L'amnistia e l'indulto disposti nei due articoli precedenti si applicano alle azioni penali e alle condanne in conformita' degli [articoli 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_86) e [87 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_87). 
+L'amnistia e l'indulto disposti nei due articoli precedenti si applicano alle azioni penali e alle condanne in conformita' degli [articoli 86](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [87 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Nel caso di concorso di reati e di pene, l'amnistia si applica distintamente a ciascun reato, l'indulto si applica una volta sola, cumulate le pene secondo le norme degli [articoli 77 e seguenti del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_77). Concorrendo la pena pecuniaria con quella restrittiva della liberta' personale l'indulto si applica ad entrambe.
+ Nel caso di concorso di reati e di pene, l'amnistia si applica distintamente a ciascun reato, l'indulto si applica una volta sola, cumulate le pene secondo le norme degli [articoli 77 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Concorrendo la pena pecuniaria con quella restrittiva della liberta' personale l'indulto si applica ad entrambe.
 
 ## Art. 4.
 

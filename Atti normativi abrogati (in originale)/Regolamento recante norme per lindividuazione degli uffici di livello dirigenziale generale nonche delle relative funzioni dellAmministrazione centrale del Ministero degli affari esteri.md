@@ -12,21 +12,21 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), recante ordinamento del Ministero degli affari esteri e successive modifiche ed integrazioni;
+Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), recante ordinamento del Ministero degli affari esteri e successive modifiche ed integrazioni;
 
 Vista la [legge 26 febbraio 1987, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49), concernente la nuova disciplina della cooperazione dell'Italia con i Paesi in via di sviluppo;
 
-Visto l'[articolo 17, comma 4-bis, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4bis), aggiunto dall'[articolo 13 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_13);
+Visto l'[articolo 17, comma 4-bis, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4bis), aggiunto dall'[articolo 13 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modifiche ed integrazioni;
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modifiche ed integrazioni;
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59);
+Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Vista la [legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127);
 
-Visto il [decreto legislativo 31 marzo 1998, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;80);
+Visto il [decreto legislativo 31 marzo 1998, n. 80](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuove%20disposizioni%20in%20materia%20di%20organizzazione%20e%20di%20rapporti%20di%20lavoro%20nelle%20amministrazioni%20pubbliche%20di%20giurisdizione%20nelle%20controversie%20di%20lavoro%20e%20di%20giurisdizione%20amministrativa%20ema_9cf1dd317dff.md);
 
-Considerato che, a norma del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), gli ambasciatori ed i Ministri plenipotenziari sono chiamati a prestare servizio, secondo criteri di rotazione, sia presso l'amministrazione centrale del Ministero degli affari esteri. sia all'estero con funzioni di Capo di rappresentanza diplomatica, Ministro o Ministro consigliere di rappresentanza diplomatica, Capo di consolato generale di prima classe;
+Considerato che, a norma del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), gli ambasciatori ed i Ministri plenipotenziari sono chiamati a prestare servizio, secondo criteri di rotazione, sia presso l'amministrazione centrale del Ministero degli affari esteri. sia all'estero con funzioni di Capo di rappresentanza diplomatica, Ministro o Ministro consigliere di rappresentanza diplomatica, Capo di consolato generale di prima classe;
 
 Sentite le organizzazioni sindacali maggiormente rappresentative;
 
@@ -50,19 +50,19 @@ Il presente regolamento disciplina l'organizzazione e le funzioni degli uffici d
 
 AVVERTENZA:
 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3 del testo unico delle disposizioni sulla promulgazione delle leggi e sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3 del testo unico delle disposizioni sulla promulgazione delle leggi e sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  Note alle premesse:
 
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), conferisce al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge ed i regolamenti.
 
- - Il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), concerne l'ordinamento dell'Amministrazione del Ministero degli affari esteri.
+ - Il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), concerne l'ordinamento dell'Amministrazione del Ministero degli affari esteri.
 
  - La [legge 26 febbraio 1987, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49), stabilisce la nuova disciplina della cooperazione dell'Italia con i Paesi in via di sviluppo.
 
- - Il [comma 4-bis dell'art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4bis), sulla disciplina della Presidenza del Consiglio dei Ministri, e' stato introdotto dall'[art. 13 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_13), concernente la delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali per la riforma della pubblica amministrazione e per la semplificazione amministrativa, attribuisce al Governo il potere di emanare regolamenti di organizzazione e riordino degli uffici dei Ministeri.
+ - Il [comma 4-bis dell'art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4bis), sulla disciplina della Presidenza del Consiglio dei Ministri, e' stato introdotto dall'[art. 13 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), concernente la delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali per la riforma della pubblica amministrazione e per la semplificazione amministrativa, attribuisce al Governo il potere di emanare regolamenti di organizzazione e riordino degli uffici dei Ministeri.
 
- - L'[art. 6 del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_6), stabiliva l'individuazione di uffici e piante organiche all'interno delle amministrazioni pubbliche, e' stato pero' sostituito dal citato [comma 4-bis dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com4bis).
+ - L'[art. 6 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), stabiliva l'individuazione di uffici e piante organiche all'interno delle amministrazioni pubbliche, e' stato pero' sostituito dal citato [comma 4-bis dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com4bis).
 
  - La [legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127), riguarda le misure per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo.
 
@@ -70,7 +70,7 @@ AVVERTENZA:
 
 1.
 
-Il gabinetto del Ministro e' disciplinato dall'[articolo 4 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_4). Nel suo ambito operano:
+Il gabinetto del Ministro e' disciplinato dall'[articolo 4 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md). Nel suo ambito operano:
                         a)
                             l'ufficio legislativo, che attende ai seguenti compiti: elaborazione di provvedimenti legislativi e regolamentari interessanti il Ministero degli affari esteri; incombenze relative alla procedura per la loro approvazione ed emanazione; esame dei provvedimenti sottoposti al Consiglio dei Ministri e preparazione della documentazione relativa; esame dei provvedimenti di iniziativa parlamentare e di quelli legislativi e regolamentari predisposti da altre amministrazioni;
                         b)
@@ -150,7 +150,7 @@ L'Amministrazione centrale e' articolata nelle seguenti strutture di livello dir
 
 2.
 
-Le articolazioni interne degli uffici dirigenziali generali sono disciplinate con decreto ministeriale ai sensi del [comma 4-bis, lettera e) dell'articolo 17, della legge 29 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-29;400#art_17-com4bis-lete), aggiunto dall'[articolo 13 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_13).
+Le articolazioni interne degli uffici dirigenziali generali sono disciplinate con decreto ministeriale ai sensi del [comma 4-bis, lettera e) dell'articolo 17, della legge 29 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-29;400#art_17-com4bis-lete), aggiunto dall'[articolo 13 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 ## Art. 5. — Consiglio per gli affari internazionali
 
@@ -320,7 +320,7 @@ Le funzioni del servizio stampa e informazione continuano ad essere regolate dal
 
 2.
 
-Le funzioni del servizio del contenzioso diplomatico e dei trattati sono quelle previste dall'[articolo 14 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_14), ad eccezione di quelle indicate nel comma 1, lettere g), h), i) ed l), del predetto articolo.
+Le funzioni del servizio del contenzioso diplomatico e dei trattati sono quelle previste dall'[articolo 14 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), ad eccezione di quelle indicate nel comma 1, lettere g), h), i) ed l), del predetto articolo.
 
 3.
 
@@ -370,7 +370,7 @@ Esso inoltre cura la preparazione del personale di altre amministrazioni dello S
 
 1.
 
-Ferme restando le rimanenti norme sul conferimento di funzioni contenute nell'[articolo 16 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_16), la carica di segretario generale e' in ogni caso conferita ad un ambasciatore; alla direzione generale per gli affari amministrativi, di bilancio e il patrimonio, e' preposto un dirigente generale amministrativo; al servizio storico, archivi e documentazione e' preposto un funzionario della carriera diplomatica di grado non inferiore a Ministro plenipotenziario ovvero, per esigenze di servizio, temporaneamente un consigliere di ambasciata. Al servizio per l'informatica, le comunicazioni e la cifra e' preposto un dirigente generale con specifica professionalita' tecnica, ovvero, per esigenze di servizio, temporaneamente un funzionario di livello dirigenziale.
+Ferme restando le rimanenti norme sul conferimento di funzioni contenute nell'[articolo 16 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), la carica di segretario generale e' in ogni caso conferita ad un ambasciatore; alla direzione generale per gli affari amministrativi, di bilancio e il patrimonio, e' preposto un dirigente generale amministrativo; al servizio storico, archivi e documentazione e' preposto un funzionario della carriera diplomatica di grado non inferiore a Ministro plenipotenziario ovvero, per esigenze di servizio, temporaneamente un consigliere di ambasciata. Al servizio per l'informatica, le comunicazioni e la cifra e' preposto un dirigente generale con specifica professionalita' tecnica, ovvero, per esigenze di servizio, temporaneamente un funzionario di livello dirigenziale.
 
 2.
 
@@ -397,7 +397,7 @@ Le attribuzioni programmatiche e di gestione affidate alla direzione generale pe
 
 1.
 
-Con effetto dalla data di entrata in vigore del presente regolamento sono o restano abrogati i seguenti articoli del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18: articolo 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_3) (organizzazione centrale); articolo 5 (segretario generale); articolo 7 (direzione generale del personale e dell'amministrazione); articolo 8 (direzione generale per gli affari politici); articolo 9 (direzione generale per gli affari economici); articolo 10 (direzione generale per l'emigrazione e gli affari sociali); articolo 11 (direzione generale per le relazioni culturali); articolo 14, comma 1, lettere g), h, i) ed l), (servizio del contenzioso diplomatico, dei trattati e degli affari legislativi); articolo 15 (servizio storico e documentazione); articolo 17, commi 1, 2, 3 e 5 (organizzazione delle direzioni generali e dei servizi); articolo 19, commi 2 e 3 (coordinamento); articolo 20 (attivita' di ricerca, studio e programmazione); articolo 21, commi 1 e 2 (archivio storico-diplomatico); articolo 24 (organizzazione e funzionamento di particolari servizi); articolo 25 (decreto organizzativo del Ministero); articolo 60 (impegni delle spese); articolo 61 (servizi amministrativi); articolo 87, commi 2 e 3 (istituto diplomatico - istituzione e fini).
+Con effetto dalla data di entrata in vigore del presente regolamento sono o restano abrogati i seguenti articoli del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18: articolo 3](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) (organizzazione centrale); articolo 5 (segretario generale); articolo 7 (direzione generale del personale e dell'amministrazione); articolo 8 (direzione generale per gli affari politici); articolo 9 (direzione generale per gli affari economici); articolo 10 (direzione generale per l'emigrazione e gli affari sociali); articolo 11 (direzione generale per le relazioni culturali); articolo 14, comma 1, lettere g), h, i) ed l), (servizio del contenzioso diplomatico, dei trattati e degli affari legislativi); articolo 15 (servizio storico e documentazione); articolo 17, commi 1, 2, 3 e 5 (organizzazione delle direzioni generali e dei servizi); articolo 19, commi 2 e 3 (coordinamento); articolo 20 (attivita' di ricerca, studio e programmazione); articolo 21, commi 1 e 2 (archivio storico-diplomatico); articolo 24 (organizzazione e funzionamento di particolari servizi); articolo 25 (decreto organizzativo del Ministero); articolo 60 (impegni delle spese); articolo 61 (servizi amministrativi); articolo 87, commi 2 e 3 (istituto diplomatico - istituzione e fini).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

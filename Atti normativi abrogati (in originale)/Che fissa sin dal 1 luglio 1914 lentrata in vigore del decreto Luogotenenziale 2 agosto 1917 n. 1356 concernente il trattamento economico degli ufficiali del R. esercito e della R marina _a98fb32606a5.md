@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a noi delegata; 
  
- Vista la [legge 6 luglio 1912, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;749); 
+ Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md); 
  
  Visti i RR. decreti: 5 novembre 1911, n. 1247, convertito nella [legge 25 febbraio 1912, n. 83; 20 novembre 1912, n. 1205; 9 gennaio 1913, n. 39, e 22 gennaio 1914, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-01-22;147); 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Le disposizioni del Nostro decreto 2 agosto 1917, n. 1356, hanno vigore dal 1° luglio 1914. 
  
- Agli ufficiali che a tale data trovavansi gia' addetti ai servizi civili o politici nella Tripolitania o nella Cirenaica non e' dovuta la indennita' di equipaggiamento di cui alla [lettera B dell'art. 12 del R. decreto 22 gennaio 1914, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-22;147#art_12-letb). 
+ Agli ufficiali che a tale data trovavansi gia' addetti ai servizi civili o politici nella Tripolitania o nella Cirenaica non e' dovuta la indennita' di equipaggiamento di cui alla [lettera B dell'art. 12 del R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md). 
  
  Resta, pero', fermo in essi il diritto ad ottenere la differenza tra la indennita' stabilita per il grado che avevano al 30 giugno 1914 e quella maggiore alla quale avrebbero diritto nel caso di successiva promozione. 
  

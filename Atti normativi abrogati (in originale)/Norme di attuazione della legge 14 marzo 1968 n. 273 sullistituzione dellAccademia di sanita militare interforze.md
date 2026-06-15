@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273), sull'istituzione dell'Accademia di sanita' militare interforze;
+Vista la [legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md), sull'istituzione dell'Accademia di sanita' militare interforze;
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -72,13 +72,13 @@ La commissione esaminatrice del concorso di ammissione e' composta:
 
 ### Art. 7.
 
-Agli esami di concorso sono ammessi i candidati in possesso dell'idoneita' fisica e delle qualita' psico-attitudinali stabilite e accertate dalle singole forze armate e dei requisiti indicati negli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_2) e [15 della legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_15).
+Agli esami di concorso sono ammessi i candidati in possesso dell'idoneita' fisica e delle qualita' psico-attitudinali stabilite e accertate dalle singole forze armate e dei requisiti indicati negli [articoli 2](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md) e [15 della legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md).
  Gli esami di concorso per l'ammissione al primo anno consistono in: una prova scritta di cultura generale vertente su nozioni delle
 discipline letterarie, storiche e geografiche impartite negli istituti di istruzione secondaria di secondo grado;
  una prova orale vertente sui programmi di carattere scientifico previsti per il liceo classico;
  una prova facoltativa orale di lingua inglese o francese o tedesca.
  Sono ammessi alla prova orale i candidati che abbiano superato la prova scritta riportando una votazione non inferiore ai 18/30.
- Gli esami di concorso per i candidati di cui all'[art. 15 della legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_15), consistono in:
+ Gli esami di concorso per i candidati di cui all'[art. 15 della legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md), consistono in:
  una prova orale sulle materie obbligatorie previste dal piano di studi universitari per il primo anno o per il primo biennio della facolta' di medicina e chirurgia rispettivamente per i candidati all'ammissione al secondo o al terzo anno dei corsi;
  una prova facoltativa orale di lingua inglese o francese o tedesca.
  Sono dichiarati idonei i candidati che in ciascuna prova di esame (scritta od orale), esclusa la' prova facoltativa di lingue estere, abbiano riportato una votazione non inferiore ai 18/30.
@@ -86,7 +86,7 @@ discipline letterarie, storiche e geografiche impartite negli istituti di istruz
 
 ### Art. 8.
 
-La valutazione dei titoli per i candidati di cui all'[articolo 15 della legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_15), viene effettuata in base ai voti riportati negli esami sostenuti nel primo anno o nel primo biennio della facolta' di medicina e chirurgia.
+La valutazione dei titoli per i candidati di cui all'[articolo 15 della legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md), viene effettuata in base ai voti riportati negli esami sostenuti nel primo anno o nel primo biennio della facolta' di medicina e chirurgia.
 
 ### Art. 9.
 
@@ -95,7 +95,7 @@ La graduatoria di merito dei concorrenti al primo anno dei corsi dell'Accademia 
  del punteggio riportato nella prova orale;
  del punteggio risultante dalla somma dei voti riportati negli esami sostenuti nel primo anno e nel primo biennio della facolta' di medicina e chirurgia.
  A questa media si aggiunge un trentesimo per la prova di lingua estera sostenuta dal candidato se la votazione e' compresa tra i 18/30 ed i 21/30, due trentesimi qualora detta votazione sia superiore ai 21/30.
- A parita' di merito hanno la preferenza i concorrenti appartenenti alle categorie di cui all'[art. 3 della legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_3).
+ A parita' di merito hanno la preferenza i concorrenti appartenenti alle categorie di cui all'[art. 3 della legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md).
 
 ### Art. 10.
 
@@ -110,7 +110,7 @@ Gli allievi e gli aspiranti ufficiali del servizio sanitario dell'Esercito (ruol
 ### Art. 12.
 
 All'insegnamento delle materie indicate nella tabella annessa al presente decreto si provvede con gli ufficiali dell'Accademia.
- L'insegnamento e' coordinato dal comando dell'Accademia secondo programmi stabiliti con decreto del Ministro per la difesa, ai sensi dell'[art. 4 della legge 14 marzo 1968 n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_4).
+ L'insegnamento e' coordinato dal comando dell'Accademia secondo programmi stabiliti con decreto del Ministro per la difesa, ai sensi dell'[art. 4 della legge 14 marzo 1968 n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md).
 
 ### Art. 13.
 
@@ -124,17 +124,17 @@ Il profitto, negli studi universitari degli allievi e degli aspiranti ufficiali,
  punteggio risultante dalla media dei voti riportati nelle materie di insegnamento militare;
  voto di attitudine militare.
  Il coefficiente da attribuire ai singoli elementi di valutazione e' stabilito nel regolamento interno.
- La nomina a tenente, di cui all'[art. 14 della legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_14), e' disposta nell'ordine della classifica finale.
+ La nomina a tenente, di cui all'[art. 14 della legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md), e' disposta nell'ordine della classifica finale.
 
 ### Art. 14.
 
-Il provvedimento di proscioglimento dalla ferma degli allievi ed il loro rinvio dai corsi dell'Accademia ai sensi dell'[art. 9, della legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_9), e' adottato dal Ministro per la difesa su proposta del comandante dell'Accademia, dopo che siano stati espediti i necessari accertamenti, secondo quanto e' stabilito dal regolamento interno dell'Accademia stessa.
+Il provvedimento di proscioglimento dalla ferma degli allievi ed il loro rinvio dai corsi dell'Accademia ai sensi dell'[art. 9, della legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md), e' adottato dal Ministro per la difesa su proposta del comandante dell'Accademia, dopo che siano stati espediti i necessari accertamenti, secondo quanto e' stabilito dal regolamento interno dell'Accademia stessa.
  Le proposte di allontanamento dall'Accademia degli allievi e degli aspiranti ufficiali, di cui agli articoli 10 e 11 della legge suddetta, sono formulate dal comandante dell'Accademia, sentito il parere di apposita commissione composta secondo le norme previste dal regolamento interno dell'Accademia.
- All'accademista prosciolto o allontanato si applicano le norme contenute negli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_9), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_10) e [11 della legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_11); la continuazione degli obblighi di leva ha luogo nell'ambito della forza armata di appartenenza.
+ All'accademista prosciolto o allontanato si applicano le norme contenute negli [articoli 9](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md), [10](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md) e [11 della legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md); la continuazione degli obblighi di leva ha luogo nell'ambito della forza armata di appartenenza.
 
 ### Art. 15.
 
-L'importo dell'assegno giornaliero spettante agli allievi e dell'assegno fisso spettante agli aspiranti ufficiali, nonche' di una quota, pari a detti assegni, del trattamento economico eventualmente dovuto a coloro che provengono dai sottufficiali sono accantonati per i fini di cui all'[art. 6, quinto comma, della legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_6-com5), ed accreditati su un conto personale intestato a ciascun allievo o aspirante.
+L'importo dell'assegno giornaliero spettante agli allievi e dell'assegno fisso spettante agli aspiranti ufficiali, nonche' di una quota, pari a detti assegni, del trattamento economico eventualmente dovuto a coloro che provengono dai sottufficiali sono accantonati per i fini di cui all'[art. 6, quinto comma, della legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md), ed accreditati su un conto personale intestato a ciascun allievo o aspirante.
  Sullo stesso conto personale sono addebitate mensilmente la quota di spese generali, nella misura da stabilirsi annualmente con decreto del Ministro per la difesa, di concerto con il Ministro per il tesoro, le spese di carattere straordinario, nonche', per gli
  aspiranti ufficiali, quelle concernenti il mantenimento degli stessi.
 Le spese di cui al precedente comma sono versate mensilmente in
@@ -146,8 +146,8 @@ tesoreria, con imputazione al capitolo relativo alle entrate eventuali e diverse
 ### Art. 16.
 
 L'assegno spettante agli allievi ed agli aspiranti ufficiali dell'Accademia di sanita' militare interforze e' dovuto solo durante il periodo di svolgimento dei corsi dell'Accademia, rimanendo escluso in caso di ripetizione del corso. In questa ultima ipotesi, tutte le spese che non siano dalla legge previste a carico dello Stato vengono imputate sul conto personale dell'allievo o aspirante ufficiale. 
- Quando si verifichi l'anticipata dimissione dai corsi o l'interruzione definitiva degli stessi, l'eventuale eccedenza passiva dei singoli conti personali viene rimborsata all'Accademia di sanita' militare interforze, per il successivo versamento in tesoreria, a cura degli interessati o di chi su di essi esercita la patria potesta', fermo restando quanto previsto a loro carico nei casi di rimborso di cui agli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_10) e [11 della legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_11). 
- In caso di proscioglimento dalla ferma, a norma dell'[art. 9 della legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_9), non e' dovuto alcun rimborso delle spese sostenute dall'Accademia ai sensi dell'art. 7 della legge stessa. I libri di testo universitari o quelli militari acquistati a spese dello Stato e gli effetti di vestiario forniti in uso sono trattenuti presso l'Accademia. 
+ Quando si verifichi l'anticipata dimissione dai corsi o l'interruzione definitiva degli stessi, l'eventuale eccedenza passiva dei singoli conti personali viene rimborsata all'Accademia di sanita' militare interforze, per il successivo versamento in tesoreria, a cura degli interessati o di chi su di essi esercita la patria potesta', fermo restando quanto previsto a loro carico nei casi di rimborso di cui agli [articoli 10](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md) e [11 della legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md). 
+ In caso di proscioglimento dalla ferma, a norma dell'[art. 9 della legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md), non e' dovuto alcun rimborso delle spese sostenute dall'Accademia ai sensi dell'art. 7 della legge stessa. I libri di testo universitari o quelli militari acquistati a spese dello Stato e gli effetti di vestiario forniti in uso sono trattenuti presso l'Accademia. 
  Nei casi previsti dal secondo e terzo comma del presente articolo, l'eventuale eccedenza attiva risultante dai conti personali, di cui al precedente art. 15, e' versata, a cura dell'Accademia, entro quindici giorni dalle dimissioni o dall'interruzione dei corsi, alle entrate eventuali e diverse del bilancio dello Stato. 
  Sono parimenti versate alle entrate dello Stato le somme rimborsate dagli interessati, di cui al secondo comma, entro quindici giorni dalla loro riscossione.
 
@@ -157,7 +157,7 @@ L'assistenza sanitaria agli allievi ed aspiranti ufficiali dell'Accademia viene 
 
 ### Art. 18.
 
-Per quanto non espressamente previsto nella [legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273), e nel presente decreto, per l'espletamento dei concorsi di ammissione all'Accademia, si applicano, in quanto compatibili, le disposizioni di cui al capo II del titolo I del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), ed al capo I del titolo I del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686).
+Per quanto non espressamente previsto nella [legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md), e nel presente decreto, per l'espletamento dei concorsi di ammissione all'Accademia, si applicano, in quanto compatibili, le disposizioni di cui al capo II del titolo I del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), ed al capo I del titolo I del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md).
 
 ## Disposizioni transitorie
 
@@ -165,7 +165,7 @@ CAPO III
 
 ### Art. 19.
 
-Fino a quando l'Accademia non sara' in grado di assolvere i compiti che le sono stati affidati dalla [legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273), i corsi per la formazione degli ufficiali in servizio permanente di cui al precedente art. 2 si effettuano:
+Fino a quando l'Accademia non sara' in grado di assolvere i compiti che le sono stati affidati dalla [legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md), i corsi per la formazione degli ufficiali in servizio permanente di cui al precedente art. 2 si effettuano:
  per il servizio sanitario dell'Esercito, presso la Scuola di sanita' militare di Firenze;
  per il Corpo sanitario della Marina, presso l'Accademia navale di Livorno;
  per il Corpo sanitario dell'Aeronautica, presso la Scuola di applicazione aeronautica militare di Firenze;
@@ -179,7 +179,7 @@ Fino a quando l'Accademia non sara' in grado di assolvere i compiti che le sono 
 
 ### Art. 20.
 
-Fino a quando l'Accademia non sara' in grado di assolvere i compiti che le sono stati affidati dalla [legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273), i fondi di bilancio ad essa assegnati sugli appositi capitoli di spesa del Ministero della difesa sono ripartiti annualmente tra gli istituti di cui al precedente art. 19, in base al numero degli iscritti ai rispettivi corsi. Gli istituti gestiscono i fondi attraverso i propri organi amministrativi e provvedono altresi' all'accantonamento ed all'amministrazione degli assegni spettanti ai frequentatori, secondo le norme di cui all'[art. 6 della legge 14 marzo 1968, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;273#art_6), richiamate negli articoli 15 e 16 del presente decreto.
+Fino a quando l'Accademia non sara' in grado di assolvere i compiti che le sono stati affidati dalla [legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md), i fondi di bilancio ad essa assegnati sugli appositi capitoli di spesa del Ministero della difesa sono ripartiti annualmente tra gli istituti di cui al precedente art. 19, in base al numero degli iscritti ai rispettivi corsi. Gli istituti gestiscono i fondi attraverso i propri organi amministrativi e provvedono altresi' all'accantonamento ed all'amministrazione degli assegni spettanti ai frequentatori, secondo le norme di cui all'[art. 6 della legge 14 marzo 1968, n. 273](Istituzione%20dellAccademia%20di%20sanita%20militare%20interforze.md), richiamate negli articoli 15 e 16 del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

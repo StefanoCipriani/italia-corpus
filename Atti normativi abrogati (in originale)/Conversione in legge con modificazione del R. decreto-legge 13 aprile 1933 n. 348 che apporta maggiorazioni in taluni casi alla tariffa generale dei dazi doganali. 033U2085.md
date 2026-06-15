@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 aprile 1933, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-04-13;348), che apporta, in taluni casi, maggiorazioni alla tariffa generale dei dazi doganali, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 13 aprile 1933, n. 348](Maggiorazione%20in%20taluni%20casi%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20033U0348.md), che apporta, in taluni casi, maggiorazioni alla tariffa generale dei dazi doganali, con la seguente modificazione: 
  
  Al comma 2° dell'art. 1 sostituire le parole: « Le merci originarie e provenienti da paesi » con le seguenti: « Le merci originarie o provenienti da paesi ». 
  

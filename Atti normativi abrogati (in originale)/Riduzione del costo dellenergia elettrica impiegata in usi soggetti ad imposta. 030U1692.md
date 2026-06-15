@@ -37,7 +37,7 @@ L'onere derivante ai fabbricanti di energia elettrica per la quota d'imposta, pe
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 gennaio 1933, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-19;33), convertito senza modificazioni dalla [L. 20 aprile 1933, n. 430](Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20gennaio%201933%20n.%2033%20concernente%20modificazioni%20al%20R.%20decreto-legge%2026%20dicembre%201930%20n.%201692%20riguardante%20la%20riduzione%20del%20costo%20dellenergia%20elett_dfe8294a78ca.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 gennaio 1933, n. 33](Modificazioni%20al%20R.%20decreto-legge%2026%20dicembre%201930%20n.%201692%20concernente%20la%20riduzione%20del%20costo%20dellenergia%20elettrica%20impiegata%20in%20usi%20soggetti%20ad%20imposta.%20033U0033.md), convertito senza modificazioni dalla [L. 20 aprile 1933, n. 430](Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20gennaio%201933%20n.%2033%20concernente%20modificazioni%20al%20R.%20decreto-legge%2026%20dicembre%201930%20n.%201692%20riguardante%20la%20riduzione%20del%20costo%20dellenergia%20elett_dfe8294a78ca.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
@@ -45,7 +45,7 @@ Gli elementi per il riparto di cui all'articolo precedente sono forniti a cura d
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 gennaio 1933, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-19;33), convertito senza modificazioni dalla [L. 20 aprile 1933, n. 430](Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20gennaio%201933%20n.%2033%20concernente%20modificazioni%20al%20R.%20decreto-legge%2026%20dicembre%201930%20n.%201692%20riguardante%20la%20riduzione%20del%20costo%20dellenergia%20elett_dfe8294a78ca.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 gennaio 1933, n. 33](Modificazioni%20al%20R.%20decreto-legge%2026%20dicembre%201930%20n.%201692%20concernente%20la%20riduzione%20del%20costo%20dellenergia%20elettrica%20impiegata%20in%20usi%20soggetti%20ad%20imposta.%20033U0033.md), convertito senza modificazioni dalla [L. 20 aprile 1933, n. 430](Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20gennaio%201933%20n.%2033%20concernente%20modificazioni%20al%20R.%20decreto-legge%2026%20dicembre%201930%20n.%201692%20riguardante%20la%20riduzione%20del%20costo%20dellenergia%20elett_dfe8294a78ca.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 

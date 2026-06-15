@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 maggio 1927, n. 802](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-12;802), concernente il periodo di ammortamento dei mutui da concedersi sui fondi degli Istituti di previdenza, amministrati dalla Cassa depositi e prestiti. 
+ E' convertito in legge il [R. decreto-legge 12 maggio 1927, n. 802](Periodo%20di%20ammortamento%20dei%20mutui%20da%20concedersi%20sui%20fondi%20degli%20Istituti%20di%20previdenza%20amministrati%20dalla%20Cassa%20depositi%20e%20prestiti.%20027U0802.md), concernente il periodo di ammortamento dei mutui da concedersi sui fondi degli Istituti di previdenza, amministrati dalla Cassa depositi e prestiti. 
  
  Ordiniamo che 1a presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

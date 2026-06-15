@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 10 maggio 1928, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-10;1418), con il quale viene costituito l'Istituto nazionale di economia agraria;
+Visto il [R. decreto 10 maggio 1928, n. 1418](Modificazioni%20ai%20Regi%20decreti%209%20ottobre%201924%20n.%201765%20e%2016%20settembre%201927%20n.%201943%20riguardanti%20lIstituto%20di%20economia%20agraria.%20028U1418.md), con il quale viene costituito l'Istituto nazionale di economia agraria;
 
 Visto l'art. 4 del decreto-legge Luogotenenziale 25 giugno 1944;
 

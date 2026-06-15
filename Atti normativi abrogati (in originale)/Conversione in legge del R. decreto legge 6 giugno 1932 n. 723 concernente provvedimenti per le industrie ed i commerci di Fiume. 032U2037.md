@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 giugno 1932, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-06-06;723), concernente provvedimenti per le industrie e i commerci di Fiume, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 6 giugno 1932, n. 723](Modificazioni%20al%20R.%20decreto-legge%203%20novembre%201927%20n.%202139%20relativo%20a%20provvedimenti%20per%20le%20industrie%20ed%20i%20commerci%20della%20citta%20di%20Fiume.%20032U0723.md), concernente provvedimenti per le industrie e i commerci di Fiume, con la seguente modificazione: 
  
  All'art. 2 del decreto, alle parole: « interesse del 6 per cento » sono sostituite le altre: « interesse del 5 per cento ». 
  

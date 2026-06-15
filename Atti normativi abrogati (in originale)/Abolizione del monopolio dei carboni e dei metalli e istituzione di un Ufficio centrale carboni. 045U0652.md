@@ -44,7 +44,7 @@ Le funzioni dell'Ufficio centrale carboni avranno termine un anno dopo la cessaz
 
 ## Art. 6.
 
-Il monopolio per l'acquisto all'estero del carbone fossile, dei suoi agglomerati, del carbone coke, del rame, dello stagno, del nichelio e dei relativi rottami, istituito con il [R. decreto-legge 28 luglio 1935, n. 1375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-07-28;1375), convertito nella [legge 9 gennaio 1936, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;212), e' soppresso. 
+Il monopolio per l'acquisto all'estero del carbone fossile, dei suoi agglomerati, del carbone coke, del rame, dello stagno, del nichelio e dei relativi rottami, istituito con il [R. decreto-legge 28 luglio 1935, n. 1375](Istituzione%20del%20monopolio%20di%20acquisto%20allestero%20del%20carbone%20del%20rame%20dello%20stagno%20del%20nichelio%20e%20dei%20relativi%20rottami.%20035U1375.md), convertito nella [legge 9 gennaio 1936, n. 212](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20luglio%201935-XIII%20n.%201375%20che%20istituisce%20il%20monopolio%20per%20gli%20acquisti%20allestero%20del%20carbone%20del%20rame%20dello%20stagno%20del%20nichelio%20e%20dei%20relativi%20_1119ef5b9bf3.md), e' soppresso. 
  
  Il Ministero dei trasporti, Servizio approvvigionamenti delle Ferrovie dello Stato, provvede di intesa col Ministero del tesoro alla liquidazione delle gestioni passate del monopolio sia per quanto riflette i carboni, sia per i metalli e denuncia al Ministero dell'industria e commercio le consistenze di materiali e di valute estere, per le successive destinazioni.
 

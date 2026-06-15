@@ -27,7 +27,7 @@ Per gli adempimenti previsti dalla presente legge, di competenza del Ministero d
 
 ### Art. 2.
 
-In deroga alla procedura prevista dall'[articolo 2 del regio decreto-legge 22 novembre 1937, n. 2105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-11-22;2105#art_2), i decreti di cui all'articolo precedente stabiliscono per il Comune la categoria sismica di appartenenza a tutti gli effetti di legge.
+In deroga alla procedura prevista dall'[articolo 2 del regio decreto-legge 22 novembre 1937, n. 2105](Norme%20tecniche%20di%20edilizia%20con%20speciali%20prescrizioni%20per%20le%20localita%20colpite%20dai%20terremoti.%20037U2105.md), i decreti di cui all'articolo precedente stabiliscono per il Comune la categoria sismica di appartenenza a tutti gli effetti di legge.
 
 ## CONCESSIONE DI CONTRIBUTI
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 gennaio 1933, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-23;7), concernente l'aumento della tassa di vendita per i residui della distillazione degli oli minerali destinati alla combustione. 
+ E' convertito in legge il [R. decreto-legge 23 gennaio 1933, n. 7](Modificazioni%20alla%20tassa%20di%20vendita%20sui%20residui%20della%20distillazione%20degli%20oli%20minerali%20destinati%20alla%20combustione.%20033U0007.md), concernente l'aumento della tassa di vendita per i residui della distillazione degli oli minerali destinati alla combustione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla o di farla osservare come legge dello Stato. 
  

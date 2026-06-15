@@ -22,11 +22,11 @@ In virtu' dell'autorita' a Noi delegata;
 
 Ritenuta l'urgenza di introdurre nello stato di previsione della entrata e in quello della spesa dell'Amministrazione delle ferrovie dello Stato per l'esercizio finanziario 1915-916 le variazioni di cui all'unita tabella;
 
-Riconosciuta la possibilita', tenute presenti le somme, disponibili in conto dei residui, di eliminare nel bilancio predetto, a deroga del disposto dall'art. 20 comma b) della [legge 7 luglio 19u7, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-07-07;429) modificato dall'articolo t della [legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372), lo stanziamento pel rinnovamento e rifacimento in acciaio della parte metallica dell'armamento;
+Riconosciuta la possibilita', tenute presenti le somme, disponibili in conto dei residui, di eliminare nel bilancio predetto, a deroga del disposto dall'art. 20 comma b) della [legge 7 luglio 19u7, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-07-07;429) modificato dall'articolo t della [legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md), lo stanziamento pel rinnovamento e rifacimento in acciaio della parte metallica dell'armamento;
 
 Ritenuta la necessita' di somministrare all'Amministrazione suindicata la somma di L. 35.000.000 per sopperire al disavanzo di bilancio e di emanare conseguentemente, dal bilancio dell'entrata dello Stato, l'avanzo della gestione previsto in L. 25 milioni;
 
-Viste le [leggi 21 dicembre1915; n. 1774 e 16 aprile 1916, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-16;420);
+Viste le [leggi 21 dicembre1915; n. 1774 e 16 aprile 1916, n. 420](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20e%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20per%20lesercizio%20finanziario%201915-916.%20016U0420.md);
 
 Udito il Consiglio dei ministri;
 
@@ -38,7 +38,7 @@ Nel bilancio delle ferrovie dello Stato per l'esercizio 1915-916 sono introdotte
 
 ## Art. 2.
 
-A deroga del disposto dell'art. 20 comma b) della [legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372#art_1), nel bilancio dell'Amministrazione ferroviaria per l'esercizio finanziario 1915-916 e' eliminato lo stanziamento pel rinnovamento e rifacimento in acciaio della parte metallica dell'armamento in ragione di L. 240 per ogni chilometro di strada esercitata e di L. 0,80 per cento dei prodotti del traffico.
+A deroga del disposto dell'art. 20 comma b) della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md), nel bilancio dell'Amministrazione ferroviaria per l'esercizio finanziario 1915-916 e' eliminato lo stanziamento pel rinnovamento e rifacimento in acciaio della parte metallica dell'armamento in ragione di L. 240 per ogni chilometro di strada esercitata e di L. 0,80 per cento dei prodotti del traffico.
 
 ## Art. 3.
 
@@ -48,7 +48,7 @@ Il tesoro dello Stato e' autorizzato a somministrare all'Amministrazione ferrovi
 
 ## Art. 4.
 
-Lo stanziamento di L. 25 milioni assegnato al capitolo n. 15 «Prodotto netto dell'esercizio diretto delle ferrovie non concesse ad imprese private ([art. 6 della legge 22 aprile 1905, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-04-22;137#art_6))» dello stato di previsione dell'entrata per l'esercizio finanziario 1915-916 e' soppresso ed il capitolo medesimo rimane inscritto «per memoria». 
+Lo stanziamento di L. 25 milioni assegnato al capitolo n. 15 «Prodotto netto dell'esercizio diretto delle ferrovie non concesse ad imprese private ([art. 6 della legge 22 aprile 1905, n. 137](Che%20approva%20i%20provvedimenti%20per%20lesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20005U0137.md))» dello stato di previsione dell'entrata per l'esercizio finanziario 1915-916 e' soppresso ed il capitolo medesimo rimane inscritto «per memoria». 
  
  Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
  

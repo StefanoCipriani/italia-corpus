@@ -12,15 +12,15 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [regio decreto-legge 3 febbraio 1938, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744);
+Visto il [regio decreto-legge 3 febbraio 1938, n. 744](Norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20stato%20dei%20sottufficiali%20della%20Regia%20aeronautica.%20038U0744.md);
 
-Visto il [regio decreto-legge 23 marzo 1944, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-23;103), che stabilisce le paghe ordinarie dei militari di truppa dell'Esercito, della Marina e dell' Aeronautica, e successive modificazioni;
+Visto il [regio decreto-legge 23 marzo 1944, n. 103](Paghe%20ordinarie%20dei%20Militari%20di%20truppa%20del%20R.%20Esercito%20della%20R.%20Marina%20e%20della%20R.%20Aeronautica.%20044U0103.md), che stabilisce le paghe ordinarie dei militari di truppa dell'Esercito, della Marina e dell' Aeronautica, e successive modificazioni;
 
-Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;650);
+Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 650](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20paghe%20dei%20graduati%20e%20militari%20di%20truppa%20delle%20Forze%20armate.%20045U0650.md);
 
-Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-07;574);
+Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 574](../Decreti%20legislativi%20luogotenenziali/Aumento%20temporaneo%20della%20indennita%20militare%20per%20gli%20ufficiali%20e%20sottufficiali%20in%20servizio%20permanente%20effettivo%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20_fd707601dbac.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -44,12 +44,12 @@ Le paghe ordinarie giornaliere dei graduati e militari di truppa della Aeronauti
  del 7° anno di servizio.............................. L. 80 e) dopo 7 anni di servizio e fino ai compimento
  dell'11° anno di servizio............................ L. 100 f) dopo 11 anni di servizio............................. L. 110 
  A decorrere dalla stessa data sono soppressi:
- l'indennita' di L. 120 nette, istituita con il [decreto legislativo luogotenenziale 7 settembre 1945, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-07;574);
- l'integrazione temporanea e l'aumento dell'integrazione stessa, di cui al [decreto legislativo luogotenenziale 31 agosto 1945, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;650).
+ l'indennita' di L. 120 nette, istituita con il [decreto legislativo luogotenenziale 7 settembre 1945, n. 574](../Decreti%20legislativi%20luogotenenziali/Aumento%20temporaneo%20della%20indennita%20militare%20per%20gli%20ufficiali%20e%20sottufficiali%20in%20servizio%20permanente%20effettivo%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20_fd707601dbac.md);
+ l'integrazione temporanea e l'aumento dell'integrazione stessa, di cui al [decreto legislativo luogotenenziale 31 agosto 1945, n. 650](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20paghe%20dei%20graduati%20e%20militari%20di%20truppa%20delle%20Forze%20armate.%20045U0650.md).
 
 ## Art. 2.
 
-L'[art. 91 del regio decreto-legge 3 febbraio 1938, numero 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744#art_91), e' sostituito dal seguente con effetto dal 1° ottobre 1945:
+L'[art. 91 del regio decreto-legge 3 febbraio 1938, numero 744](Norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20stato%20dei%20sottufficiali%20della%20Regia%20aeronautica.%20038U0744.md), e' sostituito dal seguente con effetto dal 1° ottobre 1945:
  "Lo stipendio, la paga giornaliera, gli altri assegni fissi, le indennita' e i soprassoldi per i sottufficiali e per i militari di truppa dell'Aeronautica, sono quelli stabiliti dalle leggi in vigore.
  Ai graduati e militari di truppa vincolati a ferma speciale o rafferma che siano ammogliati o vedovi coni prole conviventi ed a carico, minore od inabile al lavoro, e' concessa una indennita' speciale di L. 750 mensili oltre una indennita' supplementare di L. 300 pure mensili per la moglie e per ogni tiglio convivente e a carico, minore o inabile al lavoro.
  L'indennita' speciale di cui sopra e' ridotta a L. 300, per i militari provvisti di alloggio in natura, ferme restando le indennita' supplementari".

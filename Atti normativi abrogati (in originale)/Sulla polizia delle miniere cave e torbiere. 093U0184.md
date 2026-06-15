@@ -104,7 +104,7 @@ Le prescrizioni emanate dal Prefetto nell'interesse della sicurezza e salubrita'
 
 ## Art. 17.
 
-Gli esercenti, i direttori ed i sorveglianti, in caso di inosservanza delle prescrizioni emanate dal Prefetto, saranno puniti con una ammenda o multa da lire cinquanta a lire mille, la quale potra' essere raddoppiata in caso di recidiva, senza pregiudizio della pena comminata dall'[art. 434 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_434). 
+Gli esercenti, i direttori ed i sorveglianti, in caso di inosservanza delle prescrizioni emanate dal Prefetto, saranno puniti con una ammenda o multa da lire cinquanta a lire mille, la quale potra' essere raddoppiata in caso di recidiva, senza pregiudizio della pena comminata dall'[art. 434 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Ogni altra infrazione alle disposizioni della presente legge, da chiunque sia commessa, e' punibile con le suddette multe ed ammende.
 

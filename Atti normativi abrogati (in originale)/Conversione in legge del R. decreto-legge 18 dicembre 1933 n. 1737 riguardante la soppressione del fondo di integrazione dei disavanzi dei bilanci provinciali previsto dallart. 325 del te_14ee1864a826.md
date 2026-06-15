@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 dicembre 1933, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-18;1737), riguardante la soppressione del fondo di integrazione dei disavanzi dei bilanci provinciali, previsto dall'articolo 325 del testo unico sulla finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), e modificazioni delle disposizioni del testo unico medesimo regolatrici delle sovrimposte provinciali con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 18 dicembre 1933, n. 1737](Soppressione%20del%20fondo%20di%20integrazione%20dei%20disavanzi%20dei%20bilanci%20provinciali%20previsto%20dallart.%20325%20del%20testo%20unico%20sulla%20finanza%20locale%20approvato%20con%20R.%20decreto%2014%20settembre%201931%20n.%201175%20_3756c335bc53.md), riguardante la soppressione del fondo di integrazione dei disavanzi dei bilanci provinciali, previsto dall'articolo 325 del testo unico sulla finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e modificazioni delle disposizioni del testo unico medesimo regolatrici delle sovrimposte provinciali con la seguente modificazione: 
  
  All'art. 1 del decreto e' aggiunto il seguente comma: 
  

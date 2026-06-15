@@ -22,15 +22,15 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' delle facolta' a Noi delegate; 
  
- Visto l'articolo 28 del testo unico della legge sulla Amministrazione e sulla contabilita' generale dello Stato approvato con [R. decreto 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016); 
+ Visto l'articolo 28 del testo unico della legge sulla Amministrazione e sulla contabilita' generale dello Stato approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md); 
  
- Visto l'art. 51 del regolamento approvato con [R. decreto 16 maggio 1912, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;556), per la gestione amministrativa e contabile del Fondo per l'emigrazione; 
+ Visto l'art. 51 del regolamento approvato con [R. decreto 16 maggio 1912, n. 556](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20del%20Fondo%20per%20lemigrazione.%20012U0556.md), per la gestione amministrativa e contabile del Fondo per l'emigrazione; 
  
  Ritenuta la necessita' di aumentare gli stanziamenti dei capitoli 13, 24, 37, 47 e 53 dello stato di previsione della spesa del Fondo per l'emigrazione per l'esercizio finanziario 1914-915 per la complessiva somma di L. 33,500; 
  
  Ritenuto che il fondo di riserva per le spese impreviste stanziato sul bilancio del fondo per l'emigrazione per il detto esercizio finanziario presenta una disponibilita' di L. 60.000; 
  
- Vista la [legge 24 dicembre 1914, n. 1403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-24;1403), che proroga l'esercizio provvisorio del bilancio del Fondo per l'emigrazione per l'esercizio finanziario 1914-915 a tutto il mese di giugno 1915; 
+ Vista la [legge 24 dicembre 1914, n. 1403](Che%20proroga%20a%20tutto%20il%2030%20giugno%201915%20lesercizio%20provvisorio%20del%20bilancio%20dellentrata%20e%20della%20spesa%20del%20Fondo%20per%20lemigrazione%20per%20lesercizio%20finanziario%201914-915.%20014U1403.md), che proroga l'esercizio provvisorio del bilancio del Fondo per l'emigrazione per l'esercizio finanziario 1914-915 a tutto il mese di giugno 1915; 
  
  Sentita la Commissione parlamentare di vigilanza sul Fondo per l'emigrazione; 
  

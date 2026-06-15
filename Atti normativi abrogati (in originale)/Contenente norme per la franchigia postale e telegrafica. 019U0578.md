@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-In forza dei poteri conferiti al Governo del Re, con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In forza dei poteri conferiti al Governo del Re, con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visto il [R. decreto 24 dicembre 1899, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-24;501), che approva il nuovo testo unico delle leggi postali;
+Visto il [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), che approva il nuovo testo unico delle leggi postali;
 
-Visto il [R. decreto 20 giugno 1909, n. 637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-06-20;637), che stabilisce le norme speciali per il servizio telegrafico interno;
+Visto il [R. decreto 20 giugno 1909, n. 637](Che%20estende%20alla%20corrispondenza%20telegrafica%20nellinterno%20del%20Regno%20le%20regole%20di%20servizio%20contenute%20nel%20regolamento%20telegrafico%20internazionale%20riveduto%20e%20firmato%20a%20Lisbona%20approvato%20col%20R.%20_8c946e70b533.md), che stabilisce le norme speciali per il servizio telegrafico interno;
 
 Visto il [decreto Luogotenenziale 14 luglio 1918, numero 986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-07-14;986), che aumenta le tariffe postali e telegrafiche;
 
@@ -36,7 +36,7 @@ Sulla proposta del ministro segretario di Stato per le poste e per i telegrafi, 
 
 Sono considerati telegrammi di Stato e godono della franchigia di tutte le tasse interne i telegrammi spediti da S. M. il Re e dalle persone della Reale Famiglia e quelli spediti, d'ordine loro, dagli Alti Dignitari appositamente designati; nonche' quelli spediti e firmati dal presidente del Senato, dal presidente della Camera dei deputati, dai ministri e Sotto Segretari di Stato e, d'ordine dei medesimi, dai rispettivi capi di Gabinetto e segretari particolari; e infine quelli spediti e firmati dal capo della divisione di stato maggiore presso il Ministero della guerra, e dai governatori della Tripolitania e della Cirenaica. 
  
- Nulla e' innovato alle disposizioni dell'[art. 12 della legge 13 maggio 1871, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1871-05-13;214#art_12), sulle prerogative del Sommo Pontefice e della Santa Sede. 
+ Nulla e' innovato alle disposizioni dell'[art. 12 della legge 13 maggio 1871, n. 214](Sulle%20prerogative%20del%20Sommo%20Pontefice%20e%20della%20Santa%20Sede%20e%20sulle%20relazioni%20dello%20Stato%20con%20la%20Chiesa.%20071U0214.md), sulle prerogative del Sommo Pontefice e della Santa Sede. 
  
  Le tasse da accreditarsi alle Amministrazioni telegrafiche estere per i telegrammi spediti all'estero saranno pagate nei modi indicati dal Ministero delle poste e dei telegrafi.
 

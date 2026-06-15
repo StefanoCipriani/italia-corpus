@@ -28,7 +28,7 @@ Titolo I
 
 1.
 
-Per l'anno 1988, fermo restando quanto disposto dall'[articolo 29, comma 6, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_29-com6), e' elevata al 20,66 per cento la quota indicata alla [lettera a) dell'articolo 8, comma primo, della legge 16 maggio 1970, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281#art_8-com1-leta).
+Per l'anno 1988, fermo restando quanto disposto dall'[articolo 29, comma 6, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), e' elevata al 20,66 per cento la quota indicata alla [lettera a) dell'articolo 8, comma primo, della legge 16 maggio 1970, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281#art_8-com1-leta).
 
 ### Art. 2.
 
@@ -44,7 +44,7 @@ Titolo II
 
 1.
 
-L'integrazione, prevista dall'[art. 29 della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_29), dei trasferimenti statali disposti dal [decreto-legge 31 agosto 1987, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;359), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440), e' cosi' ripartita:
+L'integrazione, prevista dall'[art. 29 della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), dei trasferimenti statali disposti dal [decreto-legge 31 agosto 1987, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;359), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 440](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20359%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md), e' cosi' ripartita:
                             a)
                                 lire 36,6 miliardi in aumento della quota di lire 229 miliardi del fondo perequativo per le province per il 1988, di cui all'articolo 5, comma 1, lettera a), dello stesso decreto-legge;
                             b)
@@ -68,13 +68,13 @@ Per l'anno 1988, la deliberazione del bilancio annuale di previsione dei comuni,
 
 2.
 
-Per l'anno 1988, l'esercizio provvisorio del bilancio dei comuni, delle province, dei loro consorzi e delle comunita' montane e' autorizzato con deliberazione dei rispettivi consigli, per il tempo necessario all'espletamento di tutti gli adempimenti previsti dall'[articolo 1-quater del decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55#art_1quater), convertito, con modificazioni, dalla [legge 26 aprile 1983, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-26;131).
+Per l'anno 1988, l'esercizio provvisorio del bilancio dei comuni, delle province, dei loro consorzi e delle comunita' montane e' autorizzato con deliberazione dei rispettivi consigli, per il tempo necessario all'espletamento di tutti gli adempimenti previsti dall'[articolo 1-quater del decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55#art_1quater), convertito, con modificazioni, dalla [legge 26 aprile 1983, n. 131](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201983%20n.%2055%20recante%20provvedimenti%20urgenti%20per%20il%20settore%20della%20finanza%20locale%20per%20lanno%201983.md).
 
 ### Art. 5.
 
 1.
 
-Il rilascio di fidejussione, a favore di altri soggetti, a garanzia di operazioni di indebitamento e' equiparata, per gli effetti di cui al [quarto comma dell'articolo 1 del decreto-legge 29 dicembre 1977, n. 946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-12-29;946#art_1-com4), convertito, con modificazioni, dalla [legge 27 febbraio 1978, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-02-27;43), al rilascio delle delegazioni di pagamento ai sensi dell'[articolo 3 della legge 21 dicembre 1978, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-21;843#art_3).
+Il rilascio di fidejussione, a favore di altri soggetti, a garanzia di operazioni di indebitamento e' equiparata, per gli effetti di cui al [quarto comma dell'articolo 1 del decreto-legge 29 dicembre 1977, n. 946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-12-29;946#art_1-com4), convertito, con modificazioni, dalla [legge 27 febbraio 1978, n. 43](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%201977%20n.%20946%20concernente%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md), al rilascio delle delegazioni di pagamento ai sensi dell'[articolo 3 della legge 21 dicembre 1978, n. 843](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria.md).
 
 ## DISPOSIZIONI FISCALI
 
@@ -84,7 +84,7 @@ Titolo III
 
 1.
 
-A decorrere dalla data di entrata in vigore del presente decreto, le norme di cui ai commi (4), (5), (6), (7), (8), (8.1) e (8.2) dell'[articolo 24 del decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55#art_24), convertito, con modificazioni, dalla [legge 26 aprile 1983, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-26;131), e successive modificazioni ed integrazioni, sono sostituite dalle disposizioni di cui al presente articolo.
+A decorrere dalla data di entrata in vigore del presente decreto, le norme di cui ai commi (4), (5), (6), (7), (8), (8.1) e (8.2) dell'[articolo 24 del decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55#art_24), convertito, con modificazioni, dalla [legge 26 aprile 1983, n. 131](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201983%20n.%2055%20recante%20provvedimenti%20urgenti%20per%20il%20settore%20della%20finanza%20locale%20per%20lanno%201983.md), e successive modificazioni ed integrazioni, sono sostituite dalle disposizioni di cui al presente articolo.
 
 2.
 
@@ -122,7 +122,7 @@ Il limite stabilito dall'articolo 17 del decreto-legge 1 luglio 1986, n. 318, 
 
 2.
 
-La tariffa del canone o diritto per i servizi relativi alla raccolta, l'allontanamento, la depurazione e lo scarico delle acque di rifiuto provenienti da insediamenti civili, di cui all'[articolo 17 della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_17), e successive modificazioni ed integrazioni, deliberata dagli enti gestori del servizio e vigente alla data di entrata in vigore del presente decreto, e' aumentata di lire 70 per la parte relativa al servizio di fognatura.
+La tariffa del canone o diritto per i servizi relativi alla raccolta, l'allontanamento, la depurazione e lo scarico delle acque di rifiuto provenienti da insediamenti civili, di cui all'[articolo 17 della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni ed integrazioni, deliberata dagli enti gestori del servizio e vigente alla data di entrata in vigore del presente decreto, e' aumentata di lire 70 per la parte relativa al servizio di fognatura.
 
 3.
 
@@ -130,7 +130,7 @@ Gli enti gestori del servizio di fognatura applicano l'aumento previsto dai comm
 
 4.
 
-In deroga all'[articolo 17, comma 1, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_17-com1), e ai fini dell'applicazione dell'[articolo 19 del decreto-legge 31 agosto 1987, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;359#art_19), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440), le tariffe degli acquedotti comunque gestiti dagli enti locali possono essere aumentate nell'anno 1988 fino ad assicurare la copertura del 100 per cento di tutti i costi di gestione.
+In deroga all'[articolo 17, comma 1, della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e ai fini dell'applicazione dell'[articolo 19 del decreto-legge 31 agosto 1987, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;359#art_19), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 440](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20359%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md), le tariffe degli acquedotti comunque gestiti dagli enti locali possono essere aumentate nell'anno 1988 fino ad assicurare la copertura del 100 per cento di tutti i costi di gestione.
 
 ### Art. 8.
 

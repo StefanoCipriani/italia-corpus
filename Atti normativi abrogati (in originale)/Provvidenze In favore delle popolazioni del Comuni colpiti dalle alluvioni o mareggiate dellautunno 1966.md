@@ -56,7 +56,7 @@ Per l'imposta sui redditi di ricchezza mobile dei soggetti non tassabili in base
 
 ### Art. 7.
 
-La riscossione delle imposte e sovrimposte sospese a norma del precedente art. 4, che risultino dovute dai contribuenti, avviene in un numero di rate non superiore a diciotto a decorrere dalla rata di febbraio 1968, senza la corresponsione della maggiorazione prevista dalla [legge 25 ottobre 1960, n. 1316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-25;1316).
+La riscossione delle imposte e sovrimposte sospese a norma del precedente art. 4, che risultino dovute dai contribuenti, avviene in un numero di rate non superiore a diciotto a decorrere dalla rata di febbraio 1968, senza la corresponsione della maggiorazione prevista dalla [legge 25 ottobre 1960, n. 1316](Disciplina%20della%20riscossione%20dei%20carichi%20arretrati%20di%20imposte%20dirette.md).
 
 Provvedimenti a favore dei lavoratori
 
@@ -79,7 +79,7 @@ Agli operai dipendenti dalle aziende industriali situate nei Comuni contemplati 
 
 ### Art. 10.
 
-Nei confronti degli operai dipendenti dalle aziende industriali dell'edilizia e affini, il trattamento previsto dall'art. 9 e' applicato nei limiti di tempo stabiliti dal [primo comma dell'articolo 1 del decreto-legge 23 dicembre 1964, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-12-23;1354#art_1-com1), convertito con modificazioni nella [legge 19 febbraio 1965, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-02-19;31), facendo salva la misura percentuale dell'integrazione prevista dall'[articolo 1 della legge 18 dicembre 1964, n. 1359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-18;1359#art_1).
+Nei confronti degli operai dipendenti dalle aziende industriali dell'edilizia e affini, il trattamento previsto dall'art. 9 e' applicato nei limiti di tempo stabiliti dal [primo comma dell'articolo 1 del decreto-legge 23 dicembre 1964, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-12-23;1354#art_1-com1), convertito con modificazioni nella [legge 19 febbraio 1965, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201964%20n.%201354%20contenente%20disposizioni%20straordinarie%20in%20favore%20degli%20operai%20disoccupati%20dellindustria%20edile%20e%20di%20quelle%20affini.md), facendo salva la misura percentuale dell'integrazione prevista dall'[articolo 1 della legge 18 dicembre 1964, n. 1359](Disposizioni%20in%20favore%20degli%20operai%20dipendenti%20dalle%20aziende%20industriali%20delledilizia%20ed%20affini%20in%20materia%20di%20integrazione%20guadagni.md).
 
 ### Art. 11.
 
@@ -146,8 +146,8 @@ E' concessa una sovvenzione straordinaria di lire 5 miliardi all'Amministrazione
 
 ### Art. 19.
 
-E' autorizzata la spesa di milioni 17.800 per provvedere alle necessita' urgenti ai sensi del [regio decreto-legge 9 dicembre 1926, n. 2389](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-09;2389), convertito nella [legge 15 marzo 1928, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-15;833) e del [decreto legislativo 12 aprile 1948, n. 1010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;1010).
- Ai lavori da eseguirsi ai sensi del precedente comma provvedono, secondo la rispettiva competenza, il Presidente del Magistrato alle acque, il Presidente del Magistrato per il Po ed i Provveditorati regionali alle Opere pubbliche in base alle norme del citato [decreto legislativo 12 aprile 1948, n. 1010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;1010), ed entro i limiti delle somme che saranno ad essi assegnate dal Ministro per i lavori pubblici, ai sensi della [legge 23 febbraio 1952, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-23;100).
+E' autorizzata la spesa di milioni 17.800 per provvedere alle necessita' urgenti ai sensi del [regio decreto-legge 9 dicembre 1926, n. 2389](Disposizioni%20per%20i%20servizi%20di%20pronto%20soccorso%20in%20caso%20di%20disastri%20tellurici%20o%20di%20altra%20natura.%20026U2389.md), convertito nella [legge 15 marzo 1928, n. 833](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20aggiunte%20e%20modifiche%20del%20R.%20decreto-legge%209%20dicembre%201926%20n.%202389%20recante%20disposizioni%20per%20i%20servizi%20di%20pronto%20soccorso%20in%20caso%20dl%20disastri%20tellurici%20o%20di%20altra%20n_6ce65c347856.md) e del [decreto legislativo 12 aprile 1948, n. 1010](../Decreti%20Legislativi/Autorizzazione%20al%20Ministero%20dei%20lavori%20pubblici%20a%20provvedere%20a%20sua%20cura%20e%20spese%20ai%20lavori%20di%20carattere%20urgente%20ed%20inderogabile%20dipendenti%20da%20necessita%20di%20pubblico%20interesse%20determinate%20da_849e4a6b6d55.md).
+ Ai lavori da eseguirsi ai sensi del precedente comma provvedono, secondo la rispettiva competenza, il Presidente del Magistrato alle acque, il Presidente del Magistrato per il Po ed i Provveditorati regionali alle Opere pubbliche in base alle norme del citato [decreto legislativo 12 aprile 1948, n. 1010](../Decreti%20Legislativi/Autorizzazione%20al%20Ministero%20dei%20lavori%20pubblici%20a%20provvedere%20a%20sua%20cura%20e%20spese%20ai%20lavori%20di%20carattere%20urgente%20ed%20inderogabile%20dipendenti%20da%20necessita%20di%20pubblico%20interesse%20determinate%20da_849e4a6b6d55.md), ed entro i limiti delle somme che saranno ad essi assegnate dal Ministro per i lavori pubblici, ai sensi della [legge 23 febbraio 1952, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-23;100).
 
 ### Art. 20.
 

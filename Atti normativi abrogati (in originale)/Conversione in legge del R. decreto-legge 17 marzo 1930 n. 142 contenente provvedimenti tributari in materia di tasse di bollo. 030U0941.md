@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 marzo 1930, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-17;142), contenente provvedimenti tributari in materia di tasse di bollo. 
+ E' convertito in legge il [R. decreto-legge 17 marzo 1930, n. 142](Provvedimenti%20tributari%20in%20materia%20di%20tasse%20di%20bollo.%20030U0142.md), contenente provvedimenti tributari in materia di tasse di bollo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto 12 luglio 1934, n. 2312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;2312), che approva il testo unico delle disposizioni legislative sull'ordinamento della Cassa di previdenza per le pensioni degli ufficiali giudiziari;
 
-Visto il [R. decreto-legge 3 marzo 1938, n. 680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-03;680), convertito nella [legge 9 gennaio 1939, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-09;41), che approva l'ordinamento della Cassa di previdenza per le pensioni agli impiegati degli Enti locali;
+Visto il [R. decreto-legge 3 marzo 1938, n. 680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-03;680), convertito nella [legge 9 gennaio 1939, n. 41](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%203%20marzo%201938-XVI%20n.%20680%20che%20approva%20lordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20agli%20impiegati%20degli%20Enti%20locali.%20039U0041.md), che approva l'ordinamento della Cassa di previdenza per le pensioni agli impiegati degli Enti locali;
 
 Vista la [legge 6 luglio 1939, n. 1035](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-06;1035), che approva l'ordinamento della Cassa di previdenza per le pensioni dei sanitari;
 
@@ -61,7 +61,7 @@ Nei casi di pensioni di riversibilita' a carico degli Istituti di previdenza rip
 
 ## Art. 5.
 
-L'assegno di contingenza dovuto a' termini del precedente art. 1 non puo' essere assorbito da supplementi, da integrazioni o da assegni di caro-viveri concessi o da concedersi da altri Enti e di esso non si tiene conto ai fini della determinazione della integrazione temporanea di cui al [R. Decreto-legge 13 marzo 1944, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-13;85) e al [decreto legislativo Luogotenenziale 23 settembre 1944, n. 237](Estensione%20del%20R.%20decreto-legge%2013%20marzo%201944%20n.%2085%20recante%20miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni%20ai%20territori%20restituiti%20allAmministrazione%20italiana%20e%20modifiche%20del%20d_3d221046d9e9.md).
+L'assegno di contingenza dovuto a' termini del precedente art. 1 non puo' essere assorbito da supplementi, da integrazioni o da assegni di caro-viveri concessi o da concedersi da altri Enti e di esso non si tiene conto ai fini della determinazione della integrazione temporanea di cui al [R. Decreto-legge 13 marzo 1944, n. 85](Miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni.%20044U0085.md) e al [decreto legislativo Luogotenenziale 23 settembre 1944, n. 237](Estensione%20del%20R.%20decreto-legge%2013%20marzo%201944%20n.%2085%20recante%20miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni%20ai%20territori%20restituiti%20allAmministrazione%20italiana%20e%20modifiche%20del%20d_3d221046d9e9.md).
 
 ## Art. 6.
 
@@ -80,7 +80,7 @@ Cassa di previdenza per le pensioni agli impiegati
 ## Art. 8.
 
 A copertura degli oneri derivanti dal benefici concessi con il [R.
-Decreto-legge 13 marzo 1944, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-13;85), con il [decreto legislativo Luogotenenziale 23 settembre 1944, n. 237](Estensione%20del%20R.%20decreto-legge%2013%20marzo%201944%20n.%2085%20recante%20miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni%20ai%20territori%20restituiti%20allAmministrazione%20italiana%20e%20modifiche%20del%20d_3d221046d9e9.md) e con il presente decreto, a decorrere dal l° gennaio 1945, al contributo ordinario o straordinario dell'Ente stabilito dalle norme vigenti sugli Istituti di previdenza amministrati dalla Direzione generale della Cassa depositi e prestiti e degli Istituti di previdenza viene temporaneamente aggiunto un contributo annuale straordinario nella misura seguente:
+Decreto-legge 13 marzo 1944, n. 85](Miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni.%20044U0085.md), con il [decreto legislativo Luogotenenziale 23 settembre 1944, n. 237](Estensione%20del%20R.%20decreto-legge%2013%20marzo%201944%20n.%2085%20recante%20miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni%20ai%20territori%20restituiti%20allAmministrazione%20italiana%20e%20modifiche%20del%20d_3d221046d9e9.md) e con il presente decreto, a decorrere dal l° gennaio 1945, al contributo ordinario o straordinario dell'Ente stabilito dalle norme vigenti sugli Istituti di previdenza amministrati dalla Direzione generale della Cassa depositi e prestiti e degli Istituti di previdenza viene temporaneamente aggiunto un contributo annuale straordinario nella misura seguente:
  a) 2 per cento per il Monte pensioni per gli insegnanti elementari e per le Casse di previdenza per le pensioni agli impiegati ed ai salariati degli Enti locali;
  b) lire 1600 per la Cassa di previdenza per le pensioni dei sanitari;
  c) lire 1800 per la Cassa di previdenza per le pensioni degli ufficiali giudiziari.

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto del 30 dicembre 1923, n. 2986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2986), riguardante il reclutamento degli ufficiali del Regio esercito in servizio permanente;
+Visto il [R. decreto del 30 dicembre 1923, n. 2986](Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md), riguardante il reclutamento degli ufficiali del Regio esercito in servizio permanente;
 
 Viste le [leggi 11 marzo 1926, nn. 396, 397 e 398](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20026U0398.md) riguardanti l'ordinamento del Regio esercito, lo stato degli ufficiali del Regio esercito, della Regia marina e della Regia aeronautica e l'avanzamento degli ufficiali del Regio esercito;
 
@@ -107,7 +107,7 @@ Gli allievi dei collegi militari che a decorrere dal 1° ottobre 1927 cessino di
 
 ## Art. 10.
 
-Le disposizioni del [R. decreto 30 dicembre 1923, n. 2986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2986), riguardante il reclutamento degli ufficiali in servizio permamente, continuano ad aver vigore per gli allievi che attualmente frequentano i corsi presso le accademie militari e per quelli che vi saranno ammessi nell'anno scolastico 1926-1927. 
+Le disposizioni del [R. decreto 30 dicembre 1923, n. 2986](Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md), riguardante il reclutamento degli ufficiali in servizio permamente, continuano ad aver vigore per gli allievi che attualmente frequentano i corsi presso le accademie militari e per quelli che vi saranno ammessi nell'anno scolastico 1926-1927. 
  
  Pero' i sottotenenti allievi dei corsi, che saranno iniziati nell'anno scolastico 1926-1927, i quali dovessero ripetere un anno, non potranno continuare gli studi se non rinunziando ai gradi conseguiti e assumendo ad ogni effetto la qualita' di semplici allievi col trattamento per essi stabilito. 
  

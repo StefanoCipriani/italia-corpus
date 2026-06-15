@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- All'ultimo comma dell'art. 29 delle norme tecniche ed igieniche di edilizia per le localita' sismiche di prima e seconda categoria, approvate col [R. decreto-legge 3 aprile 1930, n. 682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-04-03;682), convertito nella [legge 6 gennaio 1931, n. 92](Conversione%20in%20legge%20con%20modifiche%20del%20R.%20decreto-legge%203%20aprile%201930%20n.%20682%20recante%20norme%20tecniche%20ed%20igieniche%20di%20edilizia%20per%20le%20localita%20sismiche.%20031U0092.md), sono sostituiti i seguenti: 
+ All'ultimo comma dell'art. 29 delle norme tecniche ed igieniche di edilizia per le localita' sismiche di prima e seconda categoria, approvate col [R. decreto-legge 3 aprile 1930, n. 682](Nuove%20norme%20tecniche%20ed%20igieniche%20di%20edilizia%20per%20le%20localita%20sismiche.%20030U0682.md), convertito nella [legge 6 gennaio 1931, n. 92](Conversione%20in%20legge%20con%20modifiche%20del%20R.%20decreto-legge%203%20aprile%201930%20n.%20682%20recante%20norme%20tecniche%20ed%20igieniche%20di%20edilizia%20per%20le%20localita%20sismiche.%20031U0092.md), sono sostituiti i seguenti: 
  
  I sostegni per condutture elettriche aeree non devono essere fissati agli edifici, ma essere da questi indipendenti. 
  

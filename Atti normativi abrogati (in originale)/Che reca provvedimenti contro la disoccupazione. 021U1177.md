@@ -68,7 +68,7 @@ A garanzia del pagamento del capitale e degli interessi dovuti e' costituito un 
 
 ### Art. 8.
 
-Qualora gli Enti debitori si rendano inadempienti agli obblighi assunti verso gli Istituti mutuanti e questi per i propri ordinamenti non siano in grado di altrimenti rivalersi verso l'Ente debitore, il ministro dei lavori pubblici dichiarera', agli effetti del [Regio decreto-legge 9 ottobre 1919, n. 2161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-09;2161), la decadenza della concessione per l'impianto a cui favore e' stato contratto il mutuo, ed occorrendo dichiarera' decaduta anche la concessione relativa agli impianti gia' esistenti dati in garanzia. 
+Qualora gli Enti debitori si rendano inadempienti agli obblighi assunti verso gli Istituti mutuanti e questi per i propri ordinamenti non siano in grado di altrimenti rivalersi verso l'Ente debitore, il ministro dei lavori pubblici dichiarera', agli effetti del [Regio decreto-legge 9 ottobre 1919, n. 2161](Che%20reca%20disposizioni%20sulle%20derivazioni%20ed%20utilizzazioni%20dacque%20pubbliche%20stabilendo%20altresi%20le%20norme%20di%20giurisdizione%20e%20di%20procedura%20del%20contenzioso%20sulle%20acque%20pubbliche.%20019U2161.md), la decadenza della concessione per l'impianto a cui favore e' stato contratto il mutuo, ed occorrendo dichiarera' decaduta anche la concessione relativa agli impianti gia' esistenti dati in garanzia. 
  
  Dichiarata la decadenza il Ministeri dei lavori pubblici subentrera' nelle ragio ni dell'istituto sovventore ed assicurera' a questo la continuita' ed il regolare pagamento delle annualita' ancora dovute.
 
@@ -146,7 +146,7 @@ Con decreti Reali promossi dal ministro dei lavori pubblici di concerto con quel
 
 ### Art. 16.
 
-I sussidi a Comuni e consorzi di cui all'art. 321 della legge 20 marzo 1865 allegato f) ed al [R. decreto 16 giugno 1904, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-06-16;445), per le costruzioni di strade esterne agli abitati che verranno iniziate entro il 31 dicembre 1921 e delle quali e' prevista la ultimazione per i1 31 dicembre 1922, e per la sistemazione di strade esterne ed interne, potranno raggiungere la misura del 40 per cento; tale misura non sara' conservata pei lavori fatti dopo la detta epoca. 
+I sussidi a Comuni e consorzi di cui all'art. 321 della legge 20 marzo 1865 allegato f) ed al [R. decreto 16 giugno 1904, n. 445](Norme%20che%20stabiliscono%20i%20sussidi%20da%20concedersi%20ai%20comuni%20e%20ai%20consorzi%20per%20la%20esecuzione%20delle%20opere%20pubbliche.%20004U0445.md), per le costruzioni di strade esterne agli abitati che verranno iniziate entro il 31 dicembre 1921 e delle quali e' prevista la ultimazione per i1 31 dicembre 1922, e per la sistemazione di strade esterne ed interne, potranno raggiungere la misura del 40 per cento; tale misura non sara' conservata pei lavori fatti dopo la detta epoca. 
  
  I sussidi concessi in virtu' del [R. decreto 13 aprile 1919, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-04-13;570), potranno essere corrisposti in misura non superiore al 40 per cento anche pei lavori eseguiti fino al 31 dicembre 1922. 
  
@@ -222,7 +222,7 @@ TITOLO III.
 
 ### Art. 25.
 
-La somma di 30 milioni prevista dagli [articoli 29 del testo unico 10 novembre 1905, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-11-10;647#art_29), e 20 del [R. decreto-legge 28 novembre 1919, n. 2405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-28;2405), per la somministrazione di mutui di favore da concedersi per l'esecuzione di opere di bonificamento agrario, e' portata a lire 50 milioni per l'esercizio 1921-922 e per ciascuno dei tre esercizi successivi. 
+La somma di 30 milioni prevista dagli [articoli 29 del testo unico 10 novembre 1905, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-11-10;647#art_29), e 20 del [R. decreto-legge 28 novembre 1919, n. 2405](Che%20istituisce%20presso%20la%20Presidenza%20del%20Consiglio%20un%20Comitato%20speciale%20per%20predisporre%20limmediata%20esecuzione%20di%20lavori%20pubblici%20e%20di%20colonizzazione%20interna%20a%20fine%20di%20combattere%20la%20disoccu_017bf46f0087.md), per la somministrazione di mutui di favore da concedersi per l'esecuzione di opere di bonificamento agrario, e' portata a lire 50 milioni per l'esercizio 1921-922 e per ciascuno dei tre esercizi successivi. 
  
  Nel bilancio del Ministero di agricoltura saranno stanziate, annualmente, le somme occorrenti per il servizio per gli interessi sui detti mutui. 
  

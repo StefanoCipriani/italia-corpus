@@ -407,7 +407,7 @@ Salvo quanto e' disposto negli articoli 30 e 32, il funzionario sia magistrato c
 
 ### Art. 34.
 
-Le disposizioni degli [articoli 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_346), [347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_347) e [348 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_348) per l'Esercito e 393, 394 e 395 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo, sono estese a tutti i magistrati militari ed ai funzionari delle cancellerie giudiziarie militari.
+Le disposizioni degli [articoli 346](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [347](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [348 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito e 393, 394 e 395 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, sono estese a tutti i magistrati militari ed ai funzionari delle cancellerie giudiziarie militari.
 
 ### Art. 35.
 

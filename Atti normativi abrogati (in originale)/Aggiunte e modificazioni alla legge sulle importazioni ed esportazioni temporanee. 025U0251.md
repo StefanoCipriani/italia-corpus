@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee approvato con [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md) con le successive aggiunte e modificazioni ed il regolamento relativo approvato con R. decreto 6 aprile 1922. n. 547.
 
-Sentito il Comitato istituito col [R. decreto 14 giugno 1923 n.1313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1313) modificato con [R. decreto-legge 4 settembre 1924, n 1408](Nomina%20di%20un%20altro%20membro%20nel%20Comitato%20delle%20importazioni%20ed%20esportazioni%20temporanee.%20024U1408.md):
+Sentito il Comitato istituito col [R. decreto 14 giugno 1923 n.1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md) modificato con [R. decreto-legge 4 settembre 1924, n 1408](Nomina%20di%20un%20altro%20membro%20nel%20Comitato%20delle%20importazioni%20ed%20esportazioni%20temporanee.%20024U1408.md):
 
 Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto con quello per l'economia nazionale;
 
@@ -54,7 +54,7 @@ E' prolungato a 2 anni il termine per la riesportazione del riso lavorato ottenu
 
 ## Art. 4.
 
-E' revocata la concessione di importazione temporanea delle lastre di vetro per la fabbricazione di lastre fotografiche, di cui al [R. decreto 16 dicembre 1922, n. 1627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-16;1627).
+E' revocata la concessione di importazione temporanea delle lastre di vetro per la fabbricazione di lastre fotografiche, di cui al [R. decreto 16 dicembre 1922, n. 1627](Che%20apporta%20aggiunte%20al%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto-legge%2018%20dicembre%201913%20numero%201453.%20022U1627.md).
 
 ## Art. 5.
 

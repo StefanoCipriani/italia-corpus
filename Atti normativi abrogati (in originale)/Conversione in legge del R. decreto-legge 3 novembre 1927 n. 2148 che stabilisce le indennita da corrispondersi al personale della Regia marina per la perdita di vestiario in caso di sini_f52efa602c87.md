@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-03;2148), che stabilisce le indennita' da corrispondersi al personale della Regia marina per la perdita di vestiario in caso di sinistri marittimi. 
+ E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2148](Indennita%20da%20corrispondersi%20al%20personale%20della%20Regia%20marina%20per%20la%20perdita%20di%20vestiario%20in%20caso%20di%20sinistri%20marittimi.%20027U2148.md), che stabilisce le indennita' da corrispondersi al personale della Regia marina per la perdita di vestiario in caso di sinistri marittimi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

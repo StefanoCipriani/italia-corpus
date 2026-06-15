@@ -16,7 +16,7 @@ Ferme restando le disposizioni che regolano il normale reclutamento dei sottoten
 
 I sottotenenti di complemento per il servizio di aviazione militare (pilotaggio) nominati a tale grado, in applicazione del precedente articolo, debbono tutti indistintamente prestare un servizio della durata di sei mesi, eccezione fatta per coloro che hanno obblighi superiori al predetto periodo e che dovranno completare alle armi la loro ferma. 
  
- Tutti indistintamente hanno inoltre gli obblighi di servizio di cui agli articoli 3, lettere c), d), e) e 6 della [legge 25 gennaio 1888, n. 5177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-01-25;5177). 
+ Tutti indistintamente hanno inoltre gli obblighi di servizio di cui agli articoli 3, lettere c), d), e) e 6 della [legge 25 gennaio 1888, n. 5177](Sugli%20obblighi%20di%20servizio%20degli%20ufficiali%20in%20congedo.%20088U5177.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

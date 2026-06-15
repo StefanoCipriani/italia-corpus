@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 dicembre 1928, n. 2743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-06;2743), concernente la circoscrizione territoriale degli uffici giudiziari di Fiume e il personale giudiziario delle Provincie annesse. 
+ E' convertito in legge il [R. decreto-legge 6 dicembre 1928, n. 2743](Concernente%20la%20circoscrizione%20territoriale%20degli%20uffici%20giudiziari%20di%20Fiume%20ed%20il%20personale%20giudiziario%20delle%20Provincie%20annesse.%20028U2743.md), concernente la circoscrizione territoriale degli uffici giudiziari di Fiume e il personale giudiziario delle Provincie annesse. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserti nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

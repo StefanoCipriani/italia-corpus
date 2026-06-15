@@ -40,7 +40,7 @@ Gli enti locali possono provvedere alla copertura della residua quota del 30 per
 
 1.
 
-Le somme di cui all'articolo 1 nonche' quelle che gli enti locali proprietari o soci hanno versato o versano per il ripiano delle perdite di esercizio dell'azienda o del consorzio di pubblico trasporto come pure quelle provenienti dal fondo nazionale per il ripiano dei disavanzi di esercizio di cui all'[articolo 9 della legge 10 aprile 1981, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-10;151#art_9), non sono da considerarsi componenti positive del reddito e quindi non sono comprese tra i ricavi previsti dall'[articolo 53 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_53).
+Le somme di cui all'articolo 1 nonche' quelle che gli enti locali proprietari o soci hanno versato o versano per il ripiano delle perdite di esercizio dell'azienda o del consorzio di pubblico trasporto come pure quelle provenienti dal fondo nazionale per il ripiano dei disavanzi di esercizio di cui all'[articolo 9 della legge 10 aprile 1981, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-10;151#art_9), non sono da considerarsi componenti positive del reddito e quindi non sono comprese tra i ricavi previsti dall'[articolo 53 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md).
 
 2.
 
@@ -50,8 +50,8 @@ La disposizione di cui al comma 1 ha valore di interpretazione autentica.
 
 1.
 
-L'[ottavo comma dell'articolo 3 della legge 22 dicembre 1984, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887#art_3-com8), e' sostituito dal seguente: 
- "Gli oneri per l'ammortamento dei mutui di cui all'[articolo 16 del decreto-legge 7 maggio 1980, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-05-07;153#art_16), convertito, con modificazioni, dalla [legge 7 luglio 1980, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-07;299), che gravano sui bilanci delle aziende di trasporto, devono essere considerati, da parte della legislazione regionale, nella determinazione del costo di esercizio ai fini di stabilire la quota del fondo nazionale dei trasporti ripartita dalla regione e spettante all'azienda".
+L'[ottavo comma dell'articolo 3 della legge 22 dicembre 1984, n. 887](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201985.md), e' sostituito dal seguente: 
+ "Gli oneri per l'ammortamento dei mutui di cui all'[articolo 16 del decreto-legge 7 maggio 1980, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-05-07;153#art_16), convertito, con modificazioni, dalla [legge 7 luglio 1980, n. 299](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20maggio%201980%20n.%20153%20concernente%20norme%20per%20lattivita%20gestionale%20e%20finanziaria%20degli%20enti%20locali%20per%20lanno%201980.md), che gravano sui bilanci delle aziende di trasporto, devono essere considerati, da parte della legislazione regionale, nella determinazione del costo di esercizio ai fini di stabilire la quota del fondo nazionale dei trasporti ripartita dalla regione e spettante all'azienda".
 
 ## Art. 5.
 

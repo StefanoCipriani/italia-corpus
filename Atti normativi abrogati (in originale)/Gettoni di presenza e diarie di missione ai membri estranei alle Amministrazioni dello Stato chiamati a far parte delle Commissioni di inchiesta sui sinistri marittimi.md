@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 8 maggio 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;843);
+Visto il [R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md);
 
-Visto il [R. decreto-legge 17 settembre 1925, n. 1819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-17;1819), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562);
+Visto il [R. decreto-legge 17 settembre 1925, n. 1819](Costituzione%20delle%20Commissioni%20inquirenti%20per%20i%20sinistri%20e%20naufragi%20marittimi.%20025U1819.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
 Visto il [decreto legislativo Luogotenenziale 5 aprile 1945, n. 167](Compensi%20ai%20componenti%20delle%20commissioni%20consigli%20comitati%20e%20collegi%20comunque%20denominati.%20045U0167.md);
 
@@ -36,7 +36,7 @@ Sulla proposta del Ministro Segretario di Stato per la marina, di concerto con i
 
 Ai membri estranei all'Amministrazione dello Stato che siano chiamati a far parte delle Commissioni di inchiesta formale sui sinistri marittimi 6 corrisposto un gettone giornaliero di presenza di L. 100 a decorrere dal 1ª luglio 1944 e di L. 250 a decorrere dal 1° luglio 1945.
  A coloro che fossero chiamati fuori della loro residenza compete, in aggiunta al trattamento di cui ai precedente comma, la diaria giornaliera di L. 75 oltre il rimborso delle spese di viaggio in prima classe.
- Sulle predette misure non sono applicabili le riduzioni previste dai [Regi decreti-legge 20 novembre 1930, numero 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491) e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561), convertiti, rispettivamente, nelle [leggi 6 gennaio 1931, n. 18 e 14 giugno 1934, n. 1038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-14;1038).
+ Sulle predette misure non sono applicabili le riduzioni previste dai [Regi decreti-legge 20 novembre 1930, numero 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491) e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561), convertiti, rispettivamente, nelle [leggi 6 gennaio 1931, n. 18 e 14 giugno 1934, n. 1038](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20aprile%201934%20n.%20561%20recante%20riduzione%20degli%20stipendi%20ed%20altre%20competenze%20del%20personale%20dipendente%20dallo%20Stato%20e%20dagli%20Enti%20locali%20e%20parastatali.%20034U1038.md).
 
 ## Art. 2.
 

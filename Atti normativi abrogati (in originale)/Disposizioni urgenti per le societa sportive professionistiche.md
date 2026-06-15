@@ -34,7 +34,7 @@ L'[articolo 6 della legge 23 marzo 1981, n. 91](https://www.normattiva.it/uri-re
 1.
 
 Il [quarto comma dell'articolo 15 della legge 23 marzo 1981, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91#art_15-com4), e' sostituito dal seguente:
- "Le somme versate a titolo di premio di addestramento e formazione tecnica, ai sensi dell'articolo 6, sono equiparate alle operazioni esenti dall'imposta sul valore aggiunto ai sensi dell'[articolo 10 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_10).".
+ "Le somme versate a titolo di premio di addestramento e formazione tecnica, ai sensi dell'articolo 6, sono equiparate alle operazioni esenti dall'imposta sul valore aggiunto ai sensi dell'[articolo 10 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md).".
 
 ## Art. 3.
 

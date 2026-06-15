@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-24;1244), col quale viene aumentato il fondo stanziato al capitolo 80-ter del bilancio del Ministero dell'agricoltura e delle foreste per contributo dello Stato in favore degli agricoltori particolarmente benemeriti. 
+ E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1244](Aumento%20del%20fondo%20stanziato%20al%20capitolo%2080-ter%20del%20bilancio%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste%20per%20contributo%20dello%20Stato%20in%20favore%20di%20agricoltori%20particolarmente%20benemeriti.%20031U1244.md), col quale viene aumentato il fondo stanziato al capitolo 80-ter del bilancio del Ministero dell'agricoltura e delle foreste per contributo dello Stato in favore degli agricoltori particolarmente benemeriti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

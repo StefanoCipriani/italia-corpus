@@ -32,8 +32,8 @@ E' autorizzata la spesa di lire 3,000,000 in aumento a quella consentita con Nos
 
 Nella consistenza dei residui risultanti al 30 giugno 1917 per la spesa del Ministero dei lavori pubblici e trasportati ai sotto indicati capitoli dell'esercizio finanziario 1917-918, sono apportate le seguenti variazioni: 
  
- Capitolo 264. - Riparazione, ricostruzione o nuova costruzione degli edifici pubblici dello Stato in Messina, Reggio Calabria e negli altri luoghi danneggiati dal terremoto del 28 dicembre 1908 ([art. 51 della legge 13 luglio 1910, n. 466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;466#art_51), [3° comma, art. 2, lett.
-a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-28;842#art_2-com3-leta) e [art. 3 della legge 28 luglio 1911, n. 842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-28;842#art_3)) - L. 3,000,000. 
+ Capitolo 264. - Riparazione, ricostruzione o nuova costruzione degli edifici pubblici dello Stato in Messina, Reggio Calabria e negli altri luoghi danneggiati dal terremoto del 28 dicembre 1908 ([art. 51 della legge 13 luglio 1910, n. 466](Provvedimenti%20a%20favore%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2028%20dicembre%201908.%20010U0466.md), [3° comma, art. 2, lett.
+a)](Che%20autorizza%20maggiori%20fondi%20per%20la%20costruzione%20di%20edifici%20pubblici%20governativi%20nei%20comuni%20colpiti%20dal%20terremoto%20e%20provvedimenti%20vari%20a%20favore%20dei%20comuni%20stessi.%20011U0842.md) e [art. 3 della legge 28 luglio 1911, n. 842](Che%20autorizza%20maggiori%20fondi%20per%20la%20costruzione%20di%20edifici%20pubblici%20governativi%20nei%20comuni%20colpiti%20dal%20terremoto%20e%20provvedimenti%20vari%20a%20favore%20dei%20comuni%20stessi.%20011U0842.md)) - L. 3,000,000. 
  
  Capitolo 268-bis. - Spese per provvedere ai bisogni ed opere urgenti nelle localita' colpite dal terremoto del 26 aprile 1917 nelle provincie di Arezzo e Perugia + L. 3.000.000.
 

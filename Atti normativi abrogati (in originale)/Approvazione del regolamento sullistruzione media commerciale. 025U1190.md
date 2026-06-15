@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 15 maggio 1924, n. 749](Ordinamento%20dellistruzione%20media%20commerciale.%20024U0749.md), convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sull'ordinamento dell'istruzione media commerciale;
+Visto il [R. decreto-legge 15 maggio 1924, n. 749](Ordinamento%20dellistruzione%20media%20commerciale.%20024U0749.md), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), sull'ordinamento dell'istruzione media commerciale;
 
 Sentito il Consiglio superiore per l'istruzione agraria, industriale e commerciale.
 

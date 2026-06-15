@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge in data 2 maggio 1931, n.509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-05-02;509), che ha dato esecuzione ai seguenti Accordi commerciali stipulati in Roma fra l'Italia e la Francia in data 16 marzo 1931: 
+ E' convertito in legge il [R. decreto-legge in data 2 maggio 1931, n.509](Approvazione%20di%20Accordi%20commerciali%20stipulati%20in%20Roma%20fra%20lItalia%20e%20la%20Francia.%20031U0509.md), che ha dato esecuzione ai seguenti Accordi commerciali stipulati in Roma fra l'Italia e la Francia in data 16 marzo 1931: 
  1° Protocollo addizionale all'Accordo italo-francese del 7 marzo 1928, per contingentamento dei vini italiani da importare in Francia a dazio ridotto; 
  2° Dichiarazione intesa a regolare gli scambi delle specialita' medicinali; 
  3° Scambio di note relativo all'Accordo italo-francese del 29 maggio 1926, per i rottami di ferro. 

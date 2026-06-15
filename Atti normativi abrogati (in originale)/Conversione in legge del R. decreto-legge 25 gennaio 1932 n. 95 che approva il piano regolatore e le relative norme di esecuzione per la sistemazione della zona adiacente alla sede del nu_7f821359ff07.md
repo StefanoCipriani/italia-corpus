@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 gennaio 1932, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-01-25;95), che approva il piano regolatore e le relative norme di esecuzione per la sistemazione della zona adiacente alla sede del nuovo palazzo degli uffici giudiziari di Milano. 
+ E' convertito in legge il [R. decreto-legge 25 gennaio 1932, n. 95](Approvazione%20del%20piano%20regolatore%20e%20delle%20relative%20norme%20di%20esecuzione%20per%20la%20sistemazione%20della%20zona%20della%20citta%20di%20Milano%20adiacente%20al%20costruendo%20palazzo%20di%20giustizia.%20032U0095.md), che approva il piano regolatore e le relative norme di esecuzione per la sistemazione della zona adiacente alla sede del nuovo palazzo degli uffici giudiziari di Milano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

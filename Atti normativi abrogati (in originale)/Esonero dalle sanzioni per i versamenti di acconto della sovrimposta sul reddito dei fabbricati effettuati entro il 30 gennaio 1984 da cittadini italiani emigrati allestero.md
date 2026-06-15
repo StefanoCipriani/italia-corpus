@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55), convertito, con modificazioni, nella [legge 26 aprile 1983, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-26;131);
+Visto il [decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55), convertito, con modificazioni, nella [legge 26 aprile 1983, n. 131](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201983%20n.%2055%20recante%20provvedimenti%20urgenti%20per%20il%20settore%20della%20finanza%20locale%20per%20lanno%201983.md);
 
 Ritenuta la necessita' e l'urgenza di emanare disposizioni che consentano di non applicare sanzioni per i versamenti di acconto della sovrimposta sul reddito dei fabbricati effettuati successivamente alla scadenza del termine del 30 novembre 1983, ma comunque entro il 30 gennaio 1984, da cittadini italiani emigrati all'estero;
 
@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-La soprattassa e gli interessi di cui all'[articolo 23 del decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55#art_23), convertito, con modificazioni, nella [legge 26 aprile 1983, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-26;131), non si applicano per i versamenti di acconto della sovrimposta comunale sul reddito dei fabbricati eseguiti successivamente alla scadenza del termine del 30 novembre 1983 ma entro il 30 gennaio 1984 da cittadini italiani emigrati che non sono rimasti iscritti nelle anagrafi della popolazione residente.
+La soprattassa e gli interessi di cui all'[articolo 23 del decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55#art_23), convertito, con modificazioni, nella [legge 26 aprile 1983, n. 131](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201983%20n.%2055%20recante%20provvedimenti%20urgenti%20per%20il%20settore%20della%20finanza%20locale%20per%20lanno%201983.md), non si applicano per i versamenti di acconto della sovrimposta comunale sul reddito dei fabbricati eseguiti successivamente alla scadenza del termine del 30 novembre 1983 ma entro il 30 gennaio 1984 da cittadini italiani emigrati che non sono rimasti iscritti nelle anagrafi della popolazione residente.
 
 ## Art. 2.
 

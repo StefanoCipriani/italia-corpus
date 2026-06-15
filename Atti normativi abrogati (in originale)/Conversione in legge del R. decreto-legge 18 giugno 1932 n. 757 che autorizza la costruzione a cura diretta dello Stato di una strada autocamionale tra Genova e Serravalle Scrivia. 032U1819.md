@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 giugno 1932, n. 757](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-06-18;757), col quale e' stata autorizzata la costruzione, a cura diretta dello Stato, di una strada autocamionale tra Genova e Serravalle Scrivia. 
+ E' convertito in legge il [R. decreto-legge 18 giugno 1932, n. 757](Autorizzazione%20per%20la%20costruzione%20a%20cura%20diretta%20dello%20Stato%20di%20una%20strada%20autocamionale%20tra%20Genova%20e%20Serravalle%20Scrivia.%20032U0757.md), col quale e' stata autorizzata la costruzione, a cura diretta dello Stato, di una strada autocamionale tra Genova e Serravalle Scrivia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

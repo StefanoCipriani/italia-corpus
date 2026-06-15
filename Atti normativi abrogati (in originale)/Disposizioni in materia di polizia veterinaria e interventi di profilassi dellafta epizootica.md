@@ -18,7 +18,7 @@ Visti gli articoli 6, lettera b), e 32 della [legge 23 dicembre 1978, n. 833](ht
 
 Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
 
-Visto il regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320);
+Visto il regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md);
 
 Visto il decreto ministeriale 26 novembre 1969 che detta norme per la profilassi dell'afta epizootica da virus esotici, pubblicato nella Gazzetta Ufficiale n. 314 del 13 dicembre 1969;
 

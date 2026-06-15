@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 agosto 1928, n. 2075](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-24;2075), che disciplina l'intercalamento di pagine pubblicitarie nel testo delle riviste e degli altri periodici pubblicati a fascicoli e spediti per mezzo della posta. 
+ E' convertito in legge il [R. decreto-legge 24 agosto 1928, n. 2075](Disciplina%20dellintercalamento%20di%20pagine%20pubblicitarie%20nel%20testo%20delle%20riviste%20e%20degli%20altri%20periodici%20pubblicati%20a%20fascicoli%20spediti%20a%20mezzo%20della%20posta.%20028U2075.md), che disciplina l'intercalamento di pagine pubblicitarie nel testo delle riviste e degli altri periodici pubblicati a fascicoli e spediti per mezzo della posta. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

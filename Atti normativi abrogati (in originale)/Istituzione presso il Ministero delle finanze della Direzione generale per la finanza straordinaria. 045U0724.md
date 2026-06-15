@@ -22,9 +22,9 @@ Visto il [R. decreto-legge 3 giugno 1943, n. 598](https://www.normattiva.it/uri-
 
 Visto il [decreto legislativo Luogotenenziale 10 agosto 1944, n. 199](Modificazioni%20alle%20norme%20concernenti%20limposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20044U0199.md), contenente modificazioni alle norme concernenti l'imposta straordinaria sui maggiori utili relativi allo stato di guerra;
 
-Visto il [decreto Luogotenenziale 28 ottobre 1944, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-28;356), col quale sono state stabilite nuove tabelle organiche per il personale dipendente dai Ministeri delle finanze e del tesoro;
+Visto il [decreto Luogotenenziale 28 ottobre 1944, n. 356](../Decreti%20legislativi%20luogotenenziali/Nuove%20tabelle%20organiche%20del%20personale%20dipendente%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.%20044U0356.md), col quale sono state stabilite nuove tabelle organiche per il personale dipendente dai Ministeri delle finanze e del tesoro;
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -40,13 +40,13 @@ E' temporaneamente istituita presso il Ministero delle finanze la Direzione gene
  
  Sono ad essa assegnati i servizi dell'avocazione dei profitti di regime e di confisca dei beni, quelli relativi alla imposizione straordinaria sui profitti di guerra, nonche' quelli inerenti ad ogni altro tributo straordinario in materia di imposizione diretta. 
  
- Alle relative esigenze si provvede con personale del Ministero, con personale appartenente ai ruoli di altre Amministrazioni statali, nella posizione di comando, nelle forme stabilite dal R. decreto 30 dicembre 1923, 2960, e successive modificazioni, e con personale non di ruolo da assumere a norma del [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), e del [decreto legislativo Luogotenenziale 4 agosto 1945, n. 453](Assunzione%20obbligatoria%20dei%20reduci%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20imprese%20private.%20045U0453.md), fino al numero massimo che sara' fissato con decreto del Ministro per le finanze, di concerto col Ministro per il tesoro. 
+ Alle relative esigenze si provvede con personale del Ministero, con personale appartenente ai ruoli di altre Amministrazioni statali, nella posizione di comando, nelle forme stabilite dal R. decreto 30 dicembre 1923, 2960, e successive modificazioni, e con personale non di ruolo da assumere a norma del [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), e del [decreto legislativo Luogotenenziale 4 agosto 1945, n. 453](Assunzione%20obbligatoria%20dei%20reduci%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20imprese%20private.%20045U0453.md), fino al numero massimo che sara' fissato con decreto del Ministro per le finanze, di concerto col Ministro per il tesoro. 
  
  Il personale comandato e quello non di ruolo potra' essere assegnato anche alle Intendenze di finanza ed agli Uffici distrettuali delle imposte dirette.
 
 ## Art. 2.
 
-Il numero dei posti di cui alla tabella A annessa al [decreto Luogotenenziale 28 ottobre 1944, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-28;356), riguardante il ruolo per la carriera amministrativa dell'Amministrazione centrale delle finanze e' aumentata come segue: 
+Il numero dei posti di cui alla tabella A annessa al [decreto Luogotenenziale 28 ottobre 1944, n. 356](../Decreti%20legislativi%20luogotenenziali/Nuove%20tabelle%20organiche%20del%20personale%20dipendente%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.%20044U0356.md), riguardante il ruolo per la carriera amministrativa dell'Amministrazione centrale delle finanze e' aumentata come segue: 
  
  direttore generale (grado 4° del gruppo A) 1 posto; 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 novembre 1929, n. 2052](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-14;2052), recante modifiche alla convenzione 15 settembre 1923, per l'esecuzione delle opere di ampliamento del porto di Bari. 
+ E' convertito in legge il [R. decreto-legge 14 novembre 1929, n. 2052](Autorizzazione%20al%20Governo%20del%20Re%20a%20modificare%20la%20convenzione%2015%20settembre%201923%20relativa%20alle%20opere%20di%20ampliamento%20e%20di%20sistemazione%20del%20porto%20di%20Bari.%20029U2052.md), recante modifiche alla convenzione 15 settembre 1923, per l'esecuzione delle opere di ampliamento del porto di Bari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

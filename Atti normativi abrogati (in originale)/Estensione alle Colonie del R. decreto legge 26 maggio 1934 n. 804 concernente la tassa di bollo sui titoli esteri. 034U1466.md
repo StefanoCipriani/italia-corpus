@@ -42,7 +42,7 @@ Spetta ai Governatori di ciascuna Colonia l'applicazione delle penalita' di cui 
 
 ## Art. 5.
 
-Sono abrogate le disposizioni contenute nel [R. decreto 18 gennaio 1923, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-18;150), per le tasse sugli affari per la Tripolitania e la Cirenaica, contrarie a quelle emanate col presente decreto. 
+Sono abrogate le disposizioni contenute nel [R. decreto 18 gennaio 1923, n. 150](Che%20approva%20le%20norme%20e%20la%20tariffa%20relative%20alla%20tassa%20sugli%20affari%20per%20la%20Tripolitania%20e%20la%20Cirenaica.%20023U0150.md), per le tasse sugli affari per la Tripolitania e la Cirenaica, contrarie a quelle emanate col presente decreto. 
  
  Il Ministro per le colonie e' autorizzato ad emanare norme per la esecuzione del presente decreto. 
  

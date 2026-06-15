@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-A decorrere dal 1 gennaio 1962, le partite iscritte nei registri catastali per un reddito imponibile dominicale, risultante dalla revisione disposta con il [regio decreto-legge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-04;589); convertito, con modificazioni, nella [legge 29 giugno 1939, n. 976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-29;976), non superiore a lire 50, sono escluse dalle imposte sui redditi dominicale ed agrario nonche' da sovrimposte ed addizionali e da qualsiasi altro tributo o contributo applicabile sulla base delle risultanze catastali.
+A decorrere dal 1 gennaio 1962, le partite iscritte nei registri catastali per un reddito imponibile dominicale, risultante dalla revisione disposta con il [regio decreto-legge 4 aprile 1939, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-04;589); convertito, con modificazioni, nella [legge 29 giugno 1939, n. 976](../DL%20e%20leggi%20di%20conversione/Conversione%20In%20legge%20con%20modificazioni%20del%20R.%20decreto%20legge%204%20aprile%201939%20-%20XVII%20n.%20589%20concernente%20la%20revisione%20generale%20degli%20estimi%20dei%20terreni.%20039U0976.md), non superiore a lire 50, sono escluse dalle imposte sui redditi dominicale ed agrario nonche' da sovrimposte ed addizionali e da qualsiasi altro tributo o contributo applicabile sulla base delle risultanze catastali.
 
 ## Art. 2.
 

@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 marzo 1932, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-03-14;460), che affida l'organizzazione e la direzione dei corsi di cultura e di lingua per stranieri all'Istituto interuniversitario italiano. 
+ E' convertito in legge il [R. decreto-legge 14 marzo 1932, n. 460](Affidamento%20dellorganizzazione%20e%20direzione%20dei%20corsi%20di%20cultura%20e%20di%20lingua%20per%20stranieri%20allIstituto%20interuniversitario%20italiano.%20032U0460.md), che affida l'organizzazione e la direzione dei corsi di cultura e di lingua per stranieri all'Istituto interuniversitario italiano. 
  Ordiniamo che la presente munita del sigillo dello Sato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 24 novembre 1932 - Anno XI. 
  

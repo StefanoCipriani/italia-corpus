@@ -20,15 +20,15 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 90 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_90), che istituisce nello stato di previsione della spesa del Ministero dell'istruzione pubblica, a partire dall'esercizio 1910-911, un fondo di riserva per provvedere a sopravvenuti bisogni dei servizi dell'istruzione elementare e popolare;
+Visto l'[art. 90 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), che istituisce nello stato di previsione della spesa del Ministero dell'istruzione pubblica, a partire dall'esercizio 1910-911, un fondo di riserva per provvedere a sopravvenuti bisogni dei servizi dell'istruzione elementare e popolare;
 
-Visto l'[art. 6 della legge 20 marzo 1913, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;206#art_6), il quale stabilisce che, a far tempo dal 1911-912, la quota del fondo di riserva non impiegata in un esercizio debba rimanere impegnata ed inscritta nel conto dei residui degli esercizi successivi e che alle maggiori spese le quali danno luogo a prelevamenti debba provvedersi mediante storni dal medesimo fondo di riserva in conto residui anche quando riguardino la competenza dell'esercizio in corso;
+Visto l'[art. 6 della legge 20 marzo 1913, n. 206](Riguardante%20lassunzione%20di%20personale%20avventizio%20per%20gli%20uffici%20scolastici%20provinciali%20ed%20altri%20provvedimenti%20per%20applicare%20la%20legge%204%20giugno%201911%20n.%20487%20013U0206.md), il quale stabilisce che, a far tempo dal 1911-912, la quota del fondo di riserva non impiegata in un esercizio debba rimanere impegnata ed inscritta nel conto dei residui degli esercizi successivi e che alle maggiori spese le quali danno luogo a prelevamenti debba provvedersi mediante storni dal medesimo fondo di riserva in conto residui anche quando riguardino la competenza dell'esercizio in corso;
 
 Considerato che al 30 giugno 1914, i residui del fondo di riserva inscritto al capitolo n. 249 del conto consuntivo del Ministero dell'istruzione pubblica per l'esercizio finanziario 1913-914 ammontavano a lire 10.019.143,30 e che a seguito di prelevamenti e reintegrazioni disposti con precedenti decreti Ministeriali offrono attualmente una disponibilita', di L. 8.714.631,65;
 
 Ritenuta la necessita' di prelevare dal detto fondo la somma di L. 25.000 per provvedere alle spese di funzionamento della Commissione centrale per l'esame dei libri di testo di cui al regolamento approvato con [decreto Luogotenenziale 17 giugno 1915, n. 897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-17;897);
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Udito il Consiglio dei ministri;
 

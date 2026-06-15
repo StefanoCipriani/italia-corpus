@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1180), concernente la sistemazione del compendio termale di Roncegno, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1180](Sistemazione%20del%20compendio%20termale%20di%20Roncegno.%20034U1180.md), concernente la sistemazione del compendio termale di Roncegno, con le seguenti modificazioni: 
  
  Ai numeri 1, 2 e 3 dell'art. 2, sono sostituiti i seguenti: 
  

@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduta la [legge 11 dicembre 1910, n. 855 (art. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;855#art_16));
+Veduta la [legge 11 dicembre 1910, n. 855 (art. 16](Concernente%20disposizioni%20varie%20per%20la%20Cassa%20dei%20depositi%20e%20prestiti%20e%20le%20gestioni%20annesse.%20010U0855.md));
 
-Veduta la [legge 2 febbraio 1911, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-02-02;70);
+Veduta la [legge 2 febbraio 1911, n. 70](Concernente%20i%20provvedimenti%20per%20la%20gestione%20delle%20Casse%20provinciali%20di%20credilo%20agrario%20da%20parte%20della%20Cassa%20di%20risparmio%20del%20Banco%20di%20Napoli%20e%20della%20sezione%20di%20credito%20agrario%20del%20Banco%20d_5f47b0da1630.md);
 
-Veduto il [R. decreto 11 ottobre 1914, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-10-11;1089);
+Veduto il [R. decreto 11 ottobre 1914, n. 1089](Riguardante%20provvedimenti%20straordinari%20per%20il%20credito%20agrario.%20014U1089.md);
 
 Veduto il [decreto Luogotenenziale 27 agosto 1916, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-27;1187);
 
@@ -36,7 +36,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto col m
 
 ## Art. 1.
 
-All'[art. 7 della legge 2 febbraio 1911, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-02-02;70#art_7), e' sostituito il seguente: 
+All'[art. 7 della legge 2 febbraio 1911, n. 70](Concernente%20i%20provvedimenti%20per%20la%20gestione%20delle%20Casse%20provinciali%20di%20credilo%20agrario%20da%20parte%20della%20Cassa%20di%20risparmio%20del%20Banco%20di%20Napoli%20e%20della%20sezione%20di%20credito%20agrario%20del%20Banco%20d_5f47b0da1630.md), e' sostituito il seguente: 
  
  «Il Banco di Sicilia potra' impiegare i fondi di cui all'art. 3 della presente legge in operazioni di credito agrario per mezzo degli Istituti indicati nel regolamento. 
  
@@ -46,13 +46,13 @@ All'[art. 7 della legge 2 febbraio 1911, n. 70](https://www.normattiva.it/uri-re
  
  a) per non oltre due decimi in un conto corrente fruttifero col Banco; 
  
- b) in titoli emessi o garantiti dallo Stato, in cartelle di credito fondiario e nei titoli consentiti da altre leggi, e, nella misura non superiore a un decimo dei depositi, in anticipazioni su certificati di depositi di derivati agrumari, ed infine, nella misura di non oltre due decimi dei depositi, in mutui ai comuni e alle provincie della Sicilia, da concedersi per i fini e colle garanzie ed i privilegi indicati nell'[art. 16 della legge 11 dicembre 1910, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;855#art_16), ed a condizione che l'impiego in titoli di Stato non sia inferiore ai cinque decimi dei depositi. 
+ b) in titoli emessi o garantiti dallo Stato, in cartelle di credito fondiario e nei titoli consentiti da altre leggi, e, nella misura non superiore a un decimo dei depositi, in anticipazioni su certificati di depositi di derivati agrumari, ed infine, nella misura di non oltre due decimi dei depositi, in mutui ai comuni e alle provincie della Sicilia, da concedersi per i fini e colle garanzie ed i privilegi indicati nell'[art. 16 della legge 11 dicembre 1910, n. 855](Concernente%20disposizioni%20varie%20per%20la%20Cassa%20dei%20depositi%20e%20prestiti%20e%20le%20gestioni%20annesse.%20010U0855.md), ed a condizione che l'impiego in titoli di Stato non sia inferiore ai cinque decimi dei depositi. 
  
- Le somme depositate in conto corrente col Banco non sono comprese nel limite massimo di 25 milioni di cui alla [legge 15 luglio 1909, n. 492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-15;492)».
+ Le somme depositate in conto corrente col Banco non sono comprese nel limite massimo di 25 milioni di cui alla [legge 15 luglio 1909, n. 492](Autorizzazione%20riguardante%20i%20depositi%20in%20conto%20corrente%20fruttifero%20presso%20gli%20istituti%20demissione.%20009U0492.md)».
 
 ## Art. 2.
 
-La facolta' data alla Cassa di risparmio del Banco di Sicilia dall'art. 6 del decreto Luogotenenziale 21 dicembre 1916, n, 1856, di far mutui ai Comuni durante lo stato di guerra, anche per provvedere ai bisogni dell'organizzazione civile, con le garanzie e i privilegi stabiliti nell'[art. 16 della legge 11 dicembre 1910, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;855#art_16), e' limitata all'impiego di non oltre due decimi dei depositi della Cassa stessa, stabiliti nell'articolo precedente, ed e' subordinata alle condizioni del limite minimo degli impieghi in titoli, prescritto dallo stesso articolo.
+La facolta' data alla Cassa di risparmio del Banco di Sicilia dall'art. 6 del decreto Luogotenenziale 21 dicembre 1916, n, 1856, di far mutui ai Comuni durante lo stato di guerra, anche per provvedere ai bisogni dell'organizzazione civile, con le garanzie e i privilegi stabiliti nell'[art. 16 della legge 11 dicembre 1910, n. 855](Concernente%20disposizioni%20varie%20per%20la%20Cassa%20dei%20depositi%20e%20prestiti%20e%20le%20gestioni%20annesse.%20010U0855.md), e' limitata all'impiego di non oltre due decimi dei depositi della Cassa stessa, stabiliti nell'articolo precedente, ed e' subordinata alle condizioni del limite minimo degli impieghi in titoli, prescritto dallo stesso articolo.
 
 ## Art. 3.
 

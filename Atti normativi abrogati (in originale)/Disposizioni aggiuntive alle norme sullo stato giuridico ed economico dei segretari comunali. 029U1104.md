@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'ultimo capoverso dell'[art. 3 del R. decreto-legge 17 agosto 1928, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-17;1953#art_3), convalidato con la [legge 13 dicembre 1928, n. 2944](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20concernente%20la%20riforma%20dello%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20028U2944.md), e' cosi' modificato: 
+L'ultimo capoverso dell'[art. 3 del R. decreto-legge 17 agosto 1928, n. 1953](Stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20028U1953.md), convalidato con la [legge 13 dicembre 1928, n. 2944](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20concernente%20la%20riforma%20dello%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20028U2944.md), e' cosi' modificato: 
  
  Per la prima assegnazione e classificazione dei segretari comunali e per la formazione dei relativi ruoli si ha riguardo alla popolazione legale dei Comuni accertata al sesto censimento generale della popolazione, al 1 dicembre 1921. 
  
@@ -20,7 +20,7 @@ L'ultimo capoverso dell'[art. 3 del R. decreto-legge 17 agosto 1928, n. 1953](ht
 
 ## Art. 2.
 
-Al consorzio costituito fra piu' Comuni pel servizio di segreteria, e' assegnato un segretario di grado immediatamente superiore a quello che gli spetterebbe in base alla popolazione complessiva dei Comuni consorziati, secondo la tabella A annessa al [R. decreto-legge 17 agosto 1928, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-17;1953), convertito nella [legge 13 dicembre 1928, n. 2944](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20concernente%20la%20riforma%20dello%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20028U2944.md), nel caso in cui la popolazione suaccennata non superi il massimo previsto dalla tabella predetta per il grado che spetterebbe al segretario nel maggiore dei Comuni consorziati. 
+Al consorzio costituito fra piu' Comuni pel servizio di segreteria, e' assegnato un segretario di grado immediatamente superiore a quello che gli spetterebbe in base alla popolazione complessiva dei Comuni consorziati, secondo la tabella A annessa al [R. decreto-legge 17 agosto 1928, n. 1953](Stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20028U1953.md), convertito nella [legge 13 dicembre 1928, n. 2944](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20concernente%20la%20riforma%20dello%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20028U2944.md), nel caso in cui la popolazione suaccennata non superi il massimo previsto dalla tabella predetta per il grado che spetterebbe al segretario nel maggiore dei Comuni consorziati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

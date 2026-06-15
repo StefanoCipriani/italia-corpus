@@ -38,7 +38,7 @@ Nella citta' di Fiume e nel relativo territorio, annessi al Regno col [R. decret
  
  la [legge 21 aprile 1921, n. 546](Che%20modifica%20quella%2010%20luglio%201910%20n.%20455%20relativa%20agli%20ordini%20dei%20medici%20chirurghi%20veterinari%20e%20farmacisti.%20021U0546.md), concernente la modifica dell'[art. 5 della legge 10 luglio 1910, n. 455](Norme%20per%20gli%20ordini%20dei%20sanitari.%20010U0455.md), sugli Ordini dei sanitari; 
  
- il [R. decreto 25 marzo 1923, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;882), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), contenente modifica all'[art. 2 della legge 10 luglio 1910, n. 455](Norme%20per%20gli%20ordini%20dei%20sanitari.%20010U0455.md), sugli Ordini dei sanitari; 
+ il [R. decreto 25 marzo 1923, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;882), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), contenente modifica all'[art. 2 della legge 10 luglio 1910, n. 455](Norme%20per%20gli%20ordini%20dei%20sanitari.%20010U0455.md), sugli Ordini dei sanitari; 
  
  gli articoli 49, 50, 51, 52 e 53 del titolo II «Esercizio delle professioni sanitarie ed affini» del [R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), sulla riforma degli ordinamenti sanitari.
 

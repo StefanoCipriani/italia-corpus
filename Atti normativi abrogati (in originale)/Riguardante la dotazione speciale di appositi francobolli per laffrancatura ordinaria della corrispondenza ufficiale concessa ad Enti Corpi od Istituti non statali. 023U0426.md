@@ -48,7 +48,7 @@ E' fatto divieto agli Enti, Corpi od Istituti di cui all'art. 3 di alienare, ced
  
  Centro il provvedimento di revoca non e' ammessa alcuna impugnazione di merito. E' ammesso soltanto il ricorso alla 4ª sezione del Consiglio di Stato per incompetenza od eccesso di potere. 
  
- Gli impiegati ed agenti che presso i suddetti Enti, Corpi od Istituti hanno la custodia di francobolli e che ne abbiano fatto uso indebito saranno puniti per il semplice fatto dell'uso indebito con l'ammenda da lire 100 a L. 1000, salvo le maggiori sanzioni stabilite dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) qualora il fatto costituisca a termini del codice stesso altro reato.
+ Gli impiegati ed agenti che presso i suddetti Enti, Corpi od Istituti hanno la custodia di francobolli e che ne abbiano fatto uso indebito saranno puniti per il semplice fatto dell'uso indebito con l'ammenda da lire 100 a L. 1000, salvo le maggiori sanzioni stabilite dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) qualora il fatto costituisca a termini del codice stesso altro reato.
 
 ## Art. 5.
 

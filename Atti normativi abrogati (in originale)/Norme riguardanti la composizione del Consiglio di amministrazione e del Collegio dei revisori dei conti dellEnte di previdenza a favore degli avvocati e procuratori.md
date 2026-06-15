@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visti la [legge 11 dicembre 1939, n. 1938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-12-11;1938), sull'Ente di previdenza a favore degli avvocati e procuratori ed il [regio decreto 25 giugno 1940, n. 954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-25;954), contenente norme di attuazione e di integrazione di tale legge;
+Visti la [legge 11 dicembre 1939, n. 1938](Riforma%20dellEnte%20di%20previdenza%20a%20favore%20degli%20avvocati%20procuratori.%20039U1938.md), sull'Ente di previdenza a favore degli avvocati e procuratori ed il [regio decreto 25 giugno 1940, n. 954](Norme%20di%20attuazione%20e%20dintegrazione%20della%20legge%2011%20dicembre%201939-XVIII%20n.%201938%20riguardante%20lEnte%20di%20previdenza%20a%20favore%20degli%20avvocati%20e%20dei%20procuratori.%20040U0954.md), contenente norme di attuazione e di integrazione di tale legge;
 
 Visto l'art. 4, del decreto-legge luogotenenziale 25 giugno 1944,
 
-n. 151 e il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98); Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
+n. 151 e il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md); Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -44,7 +44,7 @@ Il Collegio dei revisori dei conti e' nominato con decreto del Ministro per la g
 
 ## Art. 5.
 
-Le disposizioni della [legge 11 dicembre 1939, n. 1938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-12-11;1938) e del [regio decreto 25 giugno 1940, n. 954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-25;954), che disciplinano le attribuzioni ed il funzionamento degli organi dell'Ente continuano ad applicarsi in quanto compatibili con le norme di questo decreto.
+Le disposizioni della [legge 11 dicembre 1939, n. 1938](Riforma%20dellEnte%20di%20previdenza%20a%20favore%20degli%20avvocati%20procuratori.%20039U1938.md) e del [regio decreto 25 giugno 1940, n. 954](Norme%20di%20attuazione%20e%20dintegrazione%20della%20legge%2011%20dicembre%201939-XVIII%20n.%201938%20riguardante%20lEnte%20di%20previdenza%20a%20favore%20degli%20avvocati%20e%20dei%20procuratori.%20040U0954.md), che disciplinano le attribuzioni ed il funzionamento degli organi dell'Ente continuano ad applicarsi in quanto compatibili con le norme di questo decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della. Repubblica italiana. E' Fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

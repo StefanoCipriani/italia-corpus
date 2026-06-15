@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Vista la [legge 6 luglio 1911, n. 648](Che%20reca%20le%20disposizioni%20per%20alcuni%20personali%20civili%20dipendenti%20dallAmministrazione%20della%20R.%20marina.%20011U0648.md), circa l'istituzione delle categorie di ragioneria, di gestione e d'ordine dei Regi arsenali militari marittimi; 
  
- Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), riguardante l'ordinamento gerarchico delle Amministrazioni dello Stato e successive modificazioni; 
+ Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), riguardante l'ordinamento gerarchico delle Amministrazioni dello Stato e successive modificazioni; 
  
  Considerata la necessita' di determinare il grado gerarchico dei funzionari militari e civili che possono prendere parte ai concorsi per gestori di magazzino e di cassa; 
  

@@ -41,7 +41,7 @@ Dopo l'ultimo comma dell'[articolo 39-quater del decreto-legge 16 marzo 1973, n.
 
 ## Art. 6.
 
-Le somme dovute dall'amministrazione finanziaria al comune di Tuscania, in applicazione del [primo comma dell'articolo 14 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_14-com1), e successive modificazioni ed integrazioni, sono calcolate, anziche' relativamente alle entrate riscosse da quel comune nell'anno 1972, sulle entrate realizzate nel 1975 relativamente ai ruoli posti in riscossione in questo anno concernenti le imposte arretrate non accertate e non riscosse per il medesimo anno 1972.
+Le somme dovute dall'amministrazione finanziaria al comune di Tuscania, in applicazione del [primo comma dell'articolo 14 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), e successive modificazioni ed integrazioni, sono calcolate, anziche' relativamente alle entrate riscosse da quel comune nell'anno 1972, sulle entrate realizzate nel 1975 relativamente ai ruoli posti in riscossione in questo anno concernenti le imposte arretrate non accertate e non riscosse per il medesimo anno 1972.
 
 ## Art. 7.
 

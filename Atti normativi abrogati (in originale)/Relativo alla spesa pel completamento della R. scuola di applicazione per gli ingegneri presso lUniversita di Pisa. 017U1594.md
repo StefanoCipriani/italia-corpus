@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduta la [legge 22 giugno 1913, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;856), con la quale fu approvata la convenzione del 21 maggio 1913 stipulata in Roma fra i ministri della istruzione pubblica e del tesoro, il Comune, la Provincia, la Cassa di risparmio e il Consorzio universitario di Pisa riferibile all'istituzione della scuola di applicazione per gli ingegneri presso l'Universita' di Pisa;
+Veduta la [legge 22 giugno 1913, n. 856](Che%20approva%20sei%20convenzioni%20per%20il%20mantenimento%20la%20costruzione%20lassetto%20edilizio%20listituzione%20e%20la%20sistemazione%20di%20locali%20degli%20Istituti%20distruzione%20superiore%20di%20Milano%20Padova%20Firenze%20Pis_4e647048561f.md), con la quale fu approvata la convenzione del 21 maggio 1913 stipulata in Roma fra i ministri della istruzione pubblica e del tesoro, il Comune, la Provincia, la Cassa di risparmio e il Consorzio universitario di Pisa riferibile all'istituzione della scuola di applicazione per gli ingegneri presso l'Universita' di Pisa;
 
 Considerato che a causa del sopravvenuto stato di guerra e delle disposizioni legislative che ne furono conseguenza, non si e' potuto provvedere al completamento della scuola anzidetta nel triennio 1913-916, come era stato previsto nella citata convenzione;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per la istruzione pubblica, di c
 
 ## Art. 1.
 
-Sono prorogate per gli esercizi finanziari 1916-917 e 1917-918 le disposizioni degli articoli 8 e 9 della convenzione 21 maggio 1913 approvata con la [legge 22 giugno 1913, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;856), in virtu' delle quali furono devolute al fondo delle spese di impianto e di sistemazione edilizia della Scuola di applicazione per gli ingegneri in Pisa le somme non erogate o non impegnate pel mantenimento ordinario della Scuola medesima negli esercizi 1913-914, 1914-915 e 1915-916.
+Sono prorogate per gli esercizi finanziari 1916-917 e 1917-918 le disposizioni degli articoli 8 e 9 della convenzione 21 maggio 1913 approvata con la [legge 22 giugno 1913, n. 856](Che%20approva%20sei%20convenzioni%20per%20il%20mantenimento%20la%20costruzione%20lassetto%20edilizio%20listituzione%20e%20la%20sistemazione%20di%20locali%20degli%20Istituti%20distruzione%20superiore%20di%20Milano%20Padova%20Firenze%20Pis_4e647048561f.md), in virtu' delle quali furono devolute al fondo delle spese di impianto e di sistemazione edilizia della Scuola di applicazione per gli ingegneri in Pisa le somme non erogate o non impegnate pel mantenimento ordinario della Scuola medesima negli esercizi 1913-914, 1914-915 e 1915-916.
 
 ## Art. 2.
 

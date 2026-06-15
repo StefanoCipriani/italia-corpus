@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici, di concer
 
 ## Art. 1.
 
-Sono prorogati al 31 dicembre 1918 il termine indicato nell'art. 121 del testo unico approvato con [R. decreto 12 ottobre 1913, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-12;1261), per quanto riguarda le espropriazioni relative al piano regolatore di Messina, e al 31 dicembre 1920 quello indicato nell'art. 155 dello stesso testo unico.
+Sono prorogati al 31 dicembre 1918 il termine indicato nell'art. 121 del testo unico approvato con [R. decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md), per quanto riguarda le espropriazioni relative al piano regolatore di Messina, e al 31 dicembre 1920 quello indicato nell'art. 155 dello stesso testo unico.
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ E' prorogato fino ad un anno dopo la conclusione della pace il termine indicato 
 
 ## Art. 3.
 
-Agli articoli del suddetto testo unico, 124 (modificato dall'[art. 2 del R. decreto 18 aprile 1915, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-18;572#art_2)), 125 (primo comma), 163, 164, 251, 259 (comma secondo), 271 274 e 318, (modificato dall'[art 11 del R. decreto 18 giugno 1914, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-06-18;700#art_11)) sono sostituiti i seguenti: 
+Agli articoli del suddetto testo unico, 124 (modificato dall'[art. 2 del R. decreto 18 aprile 1915, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-18;572#art_2)), 125 (primo comma), 163, 164, 251, 259 (comma secondo), 271 274 e 318, (modificato dall'[art 11 del R. decreto 18 giugno 1914, n. 700](Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md)) sono sostituiti i seguenti: 
  
  Art. 124. - Gli isolati del piano regolatore di Messina sono divisi in comparti, che costituiscono unita' fabbricabili. 
  
@@ -52,7 +52,7 @@ Agli articoli del suddetto testo unico, 124 (modificato dall'[art. 2 del R. decr
  
  Agli isolati che costituiscono unita' fabbricabili si applicano senz'altro le disposizioni degli articoli 126 e seguenti. 
  
- Art. 125. (primo comma). - Il piano di divisione in comparti, e il disciplinare sono stabiliti per ciascuno isolato dalla Giunta municipale, e pubblicati a norma dell'[art. 17 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_17), per un termine di 15 entro il quale i proprietari e gli altri aventi diritto possono presentare le loro osservazioni ed opposizioni al prefetto che decide, sentita una Commissione composta del delegato del Ministero dei lavori pubblici, di un consigliere di Prefettura e di un giudice del tribunale. 
+ Art. 125. (primo comma). - Il piano di divisione in comparti, e il disciplinare sono stabiliti per ciascuno isolato dalla Giunta municipale, e pubblicati a norma dell'[art. 17 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), per un termine di 15 entro il quale i proprietari e gli altri aventi diritto possono presentare le loro osservazioni ed opposizioni al prefetto che decide, sentita una Commissione composta del delegato del Ministero dei lavori pubblici, di un consigliere di Prefettura e di un giudice del tribunale. 
  
  Contro le decisioni del prefetto non e' ammesso gravame amministrativo o giudiziario, e le eventuali modifiche sono introdotte direttamente nel piano del delegato del Ministero dei lavori pubblici. 
  
@@ -106,7 +106,7 @@ All'art. 316, modificato con l'[art. 4 del R. decreto 18 aprile 1915, n. 572](ht
 
 ## Art. 6.
 
-Il divieto di ricostruzioni nel comune di Sant'Eufemia d'Aspromonte, di cui all'elenco facente parte dell'[art. 3 del R. decreto 15 luglio 1909, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-07-15;542#art_3), convalidato con la [legge 21 luglio 1910, n. 579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-21;579), e corrispondente alla tabella n. 6 allegata al T. U. approvato col [R. decreto 12 ottobre 1913, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-12;1261), non si applica alle zone della sede attuale che sieno riconosciute edificabili, per ricongiungere la localita' Pozza Grande del rione Petto; senza discontinuita' col vecchio abitato.
+Il divieto di ricostruzioni nel comune di Sant'Eufemia d'Aspromonte, di cui all'elenco facente parte dell'[art. 3 del R. decreto 15 luglio 1909, n. 542](Che%20estende%20a%20tutti%20i%20comuni%20della%20Calabria%20e%20dei%20circondari%20di%20Messina%20e%20Castroreale%20le%20norme%20tecniche%20e%20igieniche%20approvate%20col%20R.%20decreto%2018%20aprile%201909%20n.%20193%20e%20fissa%20le%20aree%20per%20le%20n_f66456bf498a.md), convalidato con la [legge 21 luglio 1910, n. 579](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20decreti%20Reali%20sul%20terremoto%20del%2028%20dicembre%201908.%20010U0579.md), e corrispondente alla tabella n. 6 allegata al T. U. approvato col [R. decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md), non si applica alle zone della sede attuale che sieno riconosciute edificabili, per ricongiungere la localita' Pozza Grande del rione Petto; senza discontinuita' col vecchio abitato.
 
 ## Art. 7.
 

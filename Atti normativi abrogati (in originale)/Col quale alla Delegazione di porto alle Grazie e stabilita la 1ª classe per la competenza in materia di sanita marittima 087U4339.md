@@ -12,9 +12,9 @@ vigente: true
 
 Il Ministro della Marina 
  
- Veduti l'art 4 del regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166) (Serio 2ª), e la tabella n. 2 annessa al regolamento medesimo; 
+ Veduti l'art 4 del regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md) (Serio 2ª), e la tabella n. 2 annessa al regolamento medesimo; 
  
- Veduto il [R. decreto 6 gennaio 1887, n. 4274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-01-06;4274) (Serie 3ª), con cui venne istituita una Delegazione di porto alle Grazie, nella provincia di Genova, compartimento marittimo di Spezia; 
+ Veduto il [R. decreto 6 gennaio 1887, n. 4274](Che%20istituisce%20una%20delegazione%20di%20porto%20alle%20Grazie%20provincia%20di%20Genova%20compartimento%20marittimo%20di%20Spezia%20087U4274.md) (Serie 3ª), con cui venne istituita una Delegazione di porto alle Grazie, nella provincia di Genova, compartimento marittimo di Spezia; 
  
  Presi gli opportuni concerti col Ministro dell'Interno, 
  

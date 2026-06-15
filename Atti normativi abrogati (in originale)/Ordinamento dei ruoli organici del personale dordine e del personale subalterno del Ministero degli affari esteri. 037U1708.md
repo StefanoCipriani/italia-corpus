@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il Nostro [decreto-legge 26 giugno 1924, n. 1603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-06-26;1603), convertito in Legge con la [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il Nostro [decreto-legge 26 giugno 1924, n. 1603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-06-26;1603), convertito in Legge con la [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto l'art. 4 del Nostro [decreto-legge 28 aprile 1927, n. 628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1927-04-28;628), convertito in legge con la [legge 3 gennaio 1928, n. 1783](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-01-03;1783), relativo alla Soppressione del Commissariato generale dell'emigrazione;
 

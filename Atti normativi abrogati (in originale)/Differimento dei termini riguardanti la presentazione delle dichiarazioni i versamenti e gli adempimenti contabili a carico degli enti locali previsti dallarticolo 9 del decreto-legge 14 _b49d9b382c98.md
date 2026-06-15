@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di disporre il differimento dei termini riguardanti la presentazione delle dichiarazioni, i versamenti e gli adempimenti contabili a carico degli enti locali, previsti dall'[articolo 9 del decreto-legge 14 marzo 1988, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-14;70#art_9), convertito, con modificazioni, dalla [legge 13 maggio 1988, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154);
+Ritenuta la straordinaria necessita' ed urgenza di disporre il differimento dei termini riguardanti la presentazione delle dichiarazioni, i versamenti e gli adempimenti contabili a carico degli enti locali, previsti dall'[articolo 9 del decreto-legge 14 marzo 1988, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-14;70#art_9), convertito, con modificazioni, dalla [legge 13 maggio 1988, n. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 ottobre 1988;
 
@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 1.
 
-Il termine del 31 ottobre 1988 previsto dall'[articolo 9 del decreto-legge 14 marzo 1988, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-14;70#art_9), convertito, con modificazioni, dalla [legge 13 maggio 1988, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154), e' ulteriormente differito al 20 dicembre 1988.
+Il termine del 31 ottobre 1988 previsto dall'[articolo 9 del decreto-legge 14 marzo 1988, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-14;70#art_9), convertito, con modificazioni, dalla [legge 13 maggio 1988, n. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md), e' ulteriormente differito al 20 dicembre 1988.
 
 ## Art. 2.
 

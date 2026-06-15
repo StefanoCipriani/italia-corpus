@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Alle tabelle dimostrative delle esenzioni dalle tasse postali accordate con [R. decreto del 4 aprile 1909, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-04-04;195), al carteggio ufficiale delle autorita' e degli uffici governativi devesi fare la seguente aggiunta: 
+Alle tabelle dimostrative delle esenzioni dalle tasse postali accordate con [R. decreto del 4 aprile 1909, n. 195](Che%20approva%20le%20tabelle%20dimostrative%20delle%20esenzioni%20dalle%20tasse%20postali%20accordate%20al%20carteggio%20delle%20autorita%20e%20degli%20uffici%20governativi.%20009U0195.md), al carteggio ufficiale delle autorita' e degli uffici governativi devesi fare la seguente aggiunta: 
  
  Parte di provvedimento in formato grafico
  

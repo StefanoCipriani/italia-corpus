@@ -34,7 +34,7 @@ L'ammontare delle rate d'acconto stabilite nei capitolati speciali d'appalto pot
 
 ## Art. 2.
 
-Il limite entro il quale per l'[art. 30 della legge 17 luglio 1910, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;511#art_30), e' data facolta' alle Amministrazioni, di prevenire o troncare liti, qualunque sia l'oggetto della controversia e per l'art. 31 della stessa legge di riconoscere se siano, in tutto o in parte, inapplicabili le clausole penali a carico di fornitori od appaltatori senza il preventivo parere del Consiglio di Stato, e' elevato rispettivamente a L. 8000 e L. 2000.
+Il limite entro il quale per l'[art. 30 della legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md), e' data facolta' alle Amministrazioni, di prevenire o troncare liti, qualunque sia l'oggetto della controversia e per l'art. 31 della stessa legge di riconoscere se siano, in tutto o in parte, inapplicabili le clausole penali a carico di fornitori od appaltatori senza il preventivo parere del Consiglio di Stato, e' elevato rispettivamente a L. 8000 e L. 2000.
 
 ## Art. 3.
 

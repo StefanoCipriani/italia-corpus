@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° febbraio 1922, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-02-01;162), che da' esecuzione all'Accordo concluso a Portorose coi Governi dell'Austria, Ungheria, Romania, del Regno dei Serbi-Croati-Sloveni e della Cecoslovacchia, allo scopo di facilitare le relazioni postali. 
+ E' convertito in legge il [R. decreto-legge 1° febbraio 1922, n. 162](Che%20autorizza%20il%20ministro%20delle%20poste%20e%20dei%20telegrafi%20a%20dare%20esecuzione%20allaccordo%20conclusa%20a%20Portorose%20coi%20governi%20dellAustria%20Ungheria%20Romania%20Serbo-Croato-Sloveni%20e%20della%20Cecoslovacchi_efae1464af27.md), che da' esecuzione all'Accordo concluso a Portorose coi Governi dell'Austria, Ungheria, Romania, del Regno dei Serbi-Croati-Sloveni e della Cecoslovacchia, allo scopo di facilitare le relazioni postali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -18,7 +18,7 @@ Visto i [decreti Luogotenenziali 1° aprile 1917, n. 495](https://www.normattiva
 
 Veduta la [legge 17 febbraio 1921, n. 141](Che%20reca%20provvedimenti%20per%20la%20sostituzione%20dei%20buoni%20di%20cassa%20da%20lire%20una%20e%20due%20con%20pezzi%20di%20nichelio%20puro%20del%20valore%20nominale%20di%20lire%20una%20e%20due.%20021U0141.md), che ha autorizzata la sostituzione dei buoni cartacei con pezzi di nichelio puro del valore nominale di lire una e due;
 
-Visto il [R. decreto 10 settembre 1923, n. 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-10;1989), in base al quale i buoni cartacei da una e due lire non presentati al cambio sono rimasti rispettivamente prescritti col 31 dicembre 1923 e col 31 dicembre 1924;
+Visto il [R. decreto 10 settembre 1923, n. 1989](Cessazione%20del%20corso%20legale%20e%20prescrizione%20dei%20buoni%20cartacei%20da%20lire%20una%20e%20due.%20023U1989.md), in base al quale i buoni cartacei da una e due lire non presentati al cambio sono rimasti rispettivamente prescritti col 31 dicembre 1923 e col 31 dicembre 1924;
 
 Considerato che la sostituzione dei buoni di carta con pezzi di nichelio e' integralmente avvenuta e che pertanto questi ultimi debbono essere dedotti dal conto della tesoreria ed inscritti nel conto patrimoniale dello Stato analogamente a tutte le altre monete di appunto, le quali non hanno alcuna contropartita di riserva;
 

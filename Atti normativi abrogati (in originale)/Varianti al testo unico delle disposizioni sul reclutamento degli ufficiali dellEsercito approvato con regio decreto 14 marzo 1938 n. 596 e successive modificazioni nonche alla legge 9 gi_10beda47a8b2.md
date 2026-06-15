@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Al testo unico delle leggi sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-14;596), e successive modificazioni, sono apportate le seguenti ulteriori modificazioni:
+Al testo unico delle leggi sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni, sono apportate le seguenti ulteriori modificazioni:
 
  l'articolo 4 e' sostituito dal seguente:
  "I sottufficiali di cui all'articolo 2, ammessi all'Accademia militare, sono cancellati dai ruoli per assumere la qualita' di allievi.
@@ -34,7 +34,7 @@ Al testo unico delle leggi sul reclutamento degli ufficiali dell'Esercito, appro
 ## Art. 2.
 
 L'[articolo 2 della legge 9 giugno 1950, n. 449](Norme%20sullammissione%20allAccademia%20militare%20e%20varianti%20al%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20dellEsercito.md), e' sostituito dal seguente:
- "Per coprire i posti rimasti vacanti in sede di concorsi per l'ammissione all'Accademia militare, effettuati ai sensi degli articoli 2 e 13 del testo unico delle disposizioni sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-14;596), e successive modificazioni, il Ministro per la difesa e' autorizzato ad ammettere direttamente al secondo anno di detta Accademia mediante concorso per esami i tenenti e i sottotenenti di complemento delle varie armi e del servizio automobilistico, che siano in possesso del titolo di studio valido per l'ammissione all'Accademia stessa e che al 1 ottobre dell'anno in cui e' bandito il concorso non abbiano superato il venticinquesimo anno di eta'.
+ "Per coprire i posti rimasti vacanti in sede di concorsi per l'ammissione all'Accademia militare, effettuati ai sensi degli articoli 2 e 13 del testo unico delle disposizioni sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni, il Ministro per la difesa e' autorizzato ad ammettere direttamente al secondo anno di detta Accademia mediante concorso per esami i tenenti e i sottotenenti di complemento delle varie armi e del servizio automobilistico, che siano in possesso del titolo di studio valido per l'ammissione all'Accademia stessa e che al 1 ottobre dell'anno in cui e' bandito il concorso non abbiano superato il venticinquesimo anno di eta'.
  I tenenti e i sottotenenti di complemento vincitori del concorso dovranno rinunciare al grado rivestito per assumere, ad ogni effetto, la qualifica di allievi.
  Tuttavia, per coloro che non conseguono la nomina a sottotenente in servizio permanente effettivo, la rinuncia al grado si considera come non avvenuta".
 

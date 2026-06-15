@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Premesso che si e' riconosciuto non necessario mantenere in funzione la Commissione consultiva istituita presso il [Ministero del tesoro con R. decreto 18 gennaio 1912, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-01-18;56), per disciplinare il servizio degli approvvigionamenti delle Amministrazioni dello Stato; 
+ Premesso che si e' riconosciuto non necessario mantenere in funzione la Commissione consultiva istituita presso il [Ministero del tesoro con R. decreto 18 gennaio 1912, n. 56](Col%20quale%20viene%20istituita%20presso%20il%20ministero%20del%20tesoro%20una%20commissione%20consultiva%20allo%20scopo%20di%20predisporre%20piani%20coordinati%20degli%20approvvigionamenti%20che%20occorrono%20alle%20amministrazioni%20_7cb0477140d3.md), per disciplinare il servizio degli approvvigionamenti delle Amministrazioni dello Stato; 
  
  Udito il Consiglio dei ministri; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- La Commissione consultiva istituita presso il [Ministero del tesoro con R. decreto 18 gennaio 1912, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-01-18;56), allo scopo di predisporre piani coordinati degli approvvigionamenti che occorrono alle Amministrazioni dello Stato e si possono affidare all'industria nazionale, e' soppressa. 
+ La Commissione consultiva istituita presso il [Ministero del tesoro con R. decreto 18 gennaio 1912, n. 56](Col%20quale%20viene%20istituita%20presso%20il%20ministero%20del%20tesoro%20una%20commissione%20consultiva%20allo%20scopo%20di%20predisporre%20piani%20coordinati%20degli%20approvvigionamenti%20che%20occorrono%20alle%20amministrazioni%20_7cb0477140d3.md), allo scopo di predisporre piani coordinati degli approvvigionamenti che occorrono alle Amministrazioni dello Stato e si possono affidare all'industria nazionale, e' soppressa. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

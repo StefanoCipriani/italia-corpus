@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 febbraio 1930, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-22;184), con il quale sono stati dichiarati di pubblica utilita' i lavori per la copertura della Fossa interna di Milano, ed assegnato il termine di anni cinque da quella data per l'esecuzione dell'opera. 
+ E' convertito in legge il [R. decreto-legge 22 febbraio 1930, n. 184](Dichiarazione%20di%20pubblica%20utilita%20dei%20lavori%20per%20la%20copertura%20della%20fossa%20interna%20nella%20citta%20di%20Milano.%20030U0184.md), con il quale sono stati dichiarati di pubblica utilita' i lavori per la copertura della Fossa interna di Milano, ed assegnato il termine di anni cinque da quella data per l'esecuzione dell'opera. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

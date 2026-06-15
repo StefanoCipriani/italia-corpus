@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 giugno 1927, n. 963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-16;963), concernente la proroga del termine indicato nel primo capoverso dell'[art. 13 del R. decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331#art_13), che istitui' l'Associazione nazionale per il controllo della combustione. 
+ E' convertito in legge il [R. decreto-legge 16 giugno 1927, n. 963](Modificazione%20del%20primo%20capoverso%20dellart.%2013%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20sul%20controllo%20della%20combustione.%20027U0963.md), concernente la proroga del termine indicato nel primo capoverso dell'[art. 13 del R. decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331#art_13), che istitui' l'Associazione nazionale per il controllo della combustione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

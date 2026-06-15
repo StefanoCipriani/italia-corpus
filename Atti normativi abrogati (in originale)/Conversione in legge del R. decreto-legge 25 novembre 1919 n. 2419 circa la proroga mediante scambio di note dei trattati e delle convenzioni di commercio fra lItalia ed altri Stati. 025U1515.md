@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge del 25 novembre 1919, n. 2419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-25;2419), col quale veniva data esecuzione nel Regno agli accordi stipulati e da stipularsi, mediante scambio di note, relativi alla proroga e successiva scadenza dei trattati e delle convenzioni di commercio fra l'Italia ed altri Stati. 
+ E' convertito in legge il [R. decreto-legge del 25 novembre 1919, n. 2419](Che%20autorizza%20la%20esecuzione%20degli%20accordi%20relativi%20alla%20proroga%20dei%20trattati%20e%20convenzioni%20commerciali%20con%20il%20Brasile%20la%20Francia%20il%20Giappone%20la%20Grecia%20la%20Romania%20la%20Serbia%20la%20Spagna%20e%20la%20_dc6a37c061dd.md), col quale veniva data esecuzione nel Regno agli accordi stipulati e da stipularsi, mediante scambio di note, relativi alla proroga e successiva scadenza dei trattati e delle convenzioni di commercio fra l'Italia ed altri Stati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

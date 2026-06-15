@@ -28,7 +28,7 @@ E' conceduta amnistia:
  
  2° per i delitti contro la sicurezza dello Stato e di istigazione o provocazione a commetterli, purche' non siano accompagnati o connessi a delitti contro le persone o contro le proprieta' perseguibili d'ufficio, e purche' non importino pena restrittiva della liberta' personale superiore ai cinque anni; 
  
- 3° per i delitti di duello preveduti negli [articoli 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_237), [238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_238), [239 n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_239-num3), [241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_239-num241) e [244 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_239-num244).
+ 3° per i delitti di duello preveduti negli [articoli 237](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [238](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [239 n. 3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [241](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [244 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 
@@ -40,7 +40,7 @@ E' pure conceduta amnistia per tutti i reati che importino pena temporanea restr
 
 Le disposizioni del presente decreto non si applicano: 
  
- a) a coloro che abbiano riportata una precedente condanna per delitto entro i termini stabiliti nell'[art. 80 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_80); 
+ a) a coloro che abbiano riportata una precedente condanna per delitto entro i termini stabiliti nell'[art. 80 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  b) agli ammoniti ai termini della legge di pubblica sicurezza quali oziosi, vagabondi o diffamati; 
  
@@ -48,7 +48,7 @@ Le disposizioni del presente decreto non si applicano:
 
 ## Art. 4.
 
-Il condono totale o parziale della pena, di cui nell'articolo 2 del presente decreto, si ha come non conceduto se nel termine di tre anni dal giorno in cui il condono venne applicato il condannato commetta un nuovo delitto. In questo caso la pena che sarebbe stata condonata si computa insieme a quella incorsa per il nuovo reato, giusta le norme dell'[art. 76 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_76).
+Il condono totale o parziale della pena, di cui nell'articolo 2 del presente decreto, si ha come non conceduto se nel termine di tre anni dal giorno in cui il condono venne applicato il condannato commetta un nuovo delitto. In questo caso la pena che sarebbe stata condonata si computa insieme a quella incorsa per il nuovo reato, giusta le norme dell'[art. 76 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 

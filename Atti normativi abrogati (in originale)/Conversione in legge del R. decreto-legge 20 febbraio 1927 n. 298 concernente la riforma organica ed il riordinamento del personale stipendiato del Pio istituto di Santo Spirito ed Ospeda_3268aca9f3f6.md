@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 febbraio 1927, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-20;298), concernente la riforma organica ed il riordinamento del personale stipendiato del Pio istituto di Santo Spirito ed Ospedali riuniti di Roma. 
+ E' convertito in legge il [R. decreto-legge 20 febbraio 1927, n. 298](Riforma%20organica%20e%20riordinamento%20del%20personale%20stipendiato%20del%20Pio%20istituto%20di%20Santo%20Spirito%20ed%20Ospedali%20riuniti%20di%20Roma.%20027U0298.md), concernente la riforma organica ed il riordinamento del personale stipendiato del Pio istituto di Santo Spirito ed Ospedali riuniti di Roma. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

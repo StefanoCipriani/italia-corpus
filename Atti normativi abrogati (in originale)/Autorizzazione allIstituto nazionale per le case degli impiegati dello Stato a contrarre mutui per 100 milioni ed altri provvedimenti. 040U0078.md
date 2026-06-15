@@ -36,7 +36,7 @@ I pensionati dello Stato che abbiano ottenuto l'assegnazione della casa durante 
 
 ## Art. 6.
 
-Lo speciale accantonamento per riserva e garanzia delle annualita' passive di estinzione dei mutui gia' contratti dall'Istituto romano cooperativo impiegati statali assorbito dall'Istituto nazionale per le case degli impiegati dello Stato, per effetto del [R. decreto-legge 21 settembre 1933, n. 1211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-21;1211), da effettuarsi da quest'ultimo Istituto cessera' con il raggiungimento della somma di L. 3.000.000.
+Lo speciale accantonamento per riserva e garanzia delle annualita' passive di estinzione dei mutui gia' contratti dall'Istituto romano cooperativo impiegati statali assorbito dall'Istituto nazionale per le case degli impiegati dello Stato, per effetto del [R. decreto-legge 21 settembre 1933, n. 1211](Fusione%20dellIstituto%20romano%20cooperativo%20per%20gli%20impiegati%20dello%20Stato%20nellIstituto%20nazionale%20delle%20case%20per%20gli%20impiegati%20dello%20Stato.%20033U1211.md), da effettuarsi da quest'ultimo Istituto cessera' con il raggiungimento della somma di L. 3.000.000.
 
 ## Art. 7.
 

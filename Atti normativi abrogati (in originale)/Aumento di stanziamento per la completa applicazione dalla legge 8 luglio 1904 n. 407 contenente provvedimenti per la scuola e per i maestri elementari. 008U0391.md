@@ -187,7 +187,7 @@ Le quietanze o ricevute per stipendi rilasciate da ciascun insegnante o direttor
 
 ## Art. 15.
 
-La riscossione dell'ammontare delle giornate di stipendio e' fatta colle norme e le condizioni di cui ai capoversi 5° e 6° dell'art. 10 del testo unico delle leggi sul Monte pensioni, approvato con [R. decreto 2 luglio 1903, n. 430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-07-02;430), estensibili per questa parte anche ai Comuni aventi regolamento speciale per le pensioni. Pero' le relative multe e gli interessi di mora vanno a beneficio dell'ammontare della giornata di stipendio.
+La riscossione dell'ammontare delle giornate di stipendio e' fatta colle norme e le condizioni di cui ai capoversi 5° e 6° dell'art. 10 del testo unico delle leggi sul Monte pensioni, approvato con [R. decreto 2 luglio 1903, n. 430](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sul%20Monte%20pensioni%20per%20gli%20insegnanti%20nelle%20scuole%20pubbliche%20elementari%20negli%20asili%20dinfanzia%20e%20nei%20RR.%20Educatori%20femminili%20a%20patrimonio%20sorvegliato.%20003U0430.md), estensibili per questa parte anche ai Comuni aventi regolamento speciale per le pensioni. Pero' le relative multe e gli interessi di mora vanno a beneficio dell'ammontare della giornata di stipendio.
 
 ## Art. 16.
 

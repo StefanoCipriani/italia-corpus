@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti i [Regi decreti-legge 27 gennaio 1944, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;21), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;16) marzo 194 n. 90, e 18 marzo 1944, n. 91;
+Visti i [Regi decreti-legge 27 gennaio 1944, n. 21](Istituzione%20dellAlto%20Commissariato%20della%20Sardegna.%20044U0021.md), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;16) marzo 194 n. 90, e 18 marzo 1944, n. 91;
 
-Visti i [decreti legislativi Luogotenenziali 28 dicembre 1944, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;416); e [28 dicembre 1944, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;417);
+Visti i [decreti legislativi Luogotenenziali 28 dicembre 1944, n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md); e [28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md);
 
 Visto il [decreto legislativo Luogotenenziale 10 febbraio 1945 n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-10;50);
 

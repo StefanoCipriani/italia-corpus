@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 giugno 1931, n. 939](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-25;939), contenente varianti ed aggiunte alla [legge 17 marzo 1930, n. 337](Varianti%20alla%20legge%2011%20marzo%201926%20n.%20397%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica%20nella%20parte%20riguardante%20i%20Consigli%20di%20disciplina.%20030U0337.md), riguardante i Consigli di disciplina, con la seguente aggiunta: 
+ E' convertito in legge il [R. decreto-legge 25 giugno 1931, n. 939](Varianti%20ed%20aggiunte%20alla%20legge%2017%20marzo%201930%20n.%20337%20riguardante%20i%20Consigli%20di%20disciplina.%20031U0939.md), contenente varianti ed aggiunte alla [legge 17 marzo 1930, n. 337](Varianti%20alla%20legge%2011%20marzo%201926%20n.%20397%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica%20nella%20parte%20riguardante%20i%20Consigli%20di%20disciplina.%20030U0337.md), riguardante i Consigli di disciplina, con la seguente aggiunta: 
  «Art. 3-bis. - E' data facolta' al Ministro per la guerra, di concerto con i Ministri per la marina e per l'aeronautica, di emanare le norme esecutive occorrenti». 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 17 dicembre 1931 - Anno X 

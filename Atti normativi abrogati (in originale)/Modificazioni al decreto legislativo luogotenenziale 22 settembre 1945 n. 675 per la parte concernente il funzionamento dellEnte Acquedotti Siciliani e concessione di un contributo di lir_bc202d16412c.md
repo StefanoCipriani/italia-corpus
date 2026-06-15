@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [Legge 19 gennaio 1942, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;24), concernente l'istituzione dell'Ente Acquedotti Siciliani, Visto il decreto reale 23 febbraio 1942, n. 369, concernente le norme per l'esecuzione della citata [legge 19 gennaio 1942, n 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;24);
+Vista la [Legge 19 gennaio 1942, n. 24](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md), concernente l'istituzione dell'Ente Acquedotti Siciliani, Visto il decreto reale 23 febbraio 1942, n. 369, concernente le norme per l'esecuzione della citata [legge 19 gennaio 1942, n 24](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md);
 
-Visto il [decreto legislativo luogotenenziale 22 settembre 1945, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-22;675), concernente l'esecuzione di opere pubbliche straordinarie nella Sicilia;
+Visto il [decreto legislativo luogotenenziale 22 settembre 1945, n. 675](../Decreti%20legislativi%20luogotenenziali/Esecuzione%20di%20opere%20pubbliche%20straordinarie%20nella%20Sicilia.%20045U0675.md), concernente l'esecuzione di opere pubbliche straordinarie nella Sicilia;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista, la deliberazione del Consiglio dei Ministri;
 
@@ -24,12 +24,12 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 ## Art. 1.
 
-L'[art. 6 del decreto legislativo luogotenenziale 22 settembre 1945, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-22;675#art_6), e' sostituito dal seguente:
- "Per gli scopi di cui all'[art. 1 della legge 19 gennaio 1942, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;24#art_1), istitutiva dell'Ente Acquedotti Siciliani, e' autorizzata la spesa di lire cinquecentomilioni da inscriversi nello stato di previsione della spesa del Ministero dei lavori pubblici a cominciare dal 1945-46, in ragione di lire centomilioni per l'esercizio 1945-46; lire centocinquantamilioni per l'esercizio 1945-47 lire centocinquantamilioni per l'esercizio 1947-48 e lire centomilioni per l'esercizio 1948-49".
+L'[art. 6 del decreto legislativo luogotenenziale 22 settembre 1945, n. 675](../Decreti%20legislativi%20luogotenenziali/Esecuzione%20di%20opere%20pubbliche%20straordinarie%20nella%20Sicilia.%20045U0675.md), e' sostituito dal seguente:
+ "Per gli scopi di cui all'[art. 1 della legge 19 gennaio 1942, n. 24](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md), istitutiva dell'Ente Acquedotti Siciliani, e' autorizzata la spesa di lire cinquecentomilioni da inscriversi nello stato di previsione della spesa del Ministero dei lavori pubblici a cominciare dal 1945-46, in ragione di lire centomilioni per l'esercizio 1945-46; lire centocinquantamilioni per l'esercizio 1945-47 lire centocinquantamilioni per l'esercizio 1947-48 e lire centomilioni per l'esercizio 1948-49".
 
 ## Art. 2.
 
-Per il finanziamento delle opere di completamento dell'acquedotto di Montescuro Ovest, da eseguirsi dall'Ente Acquedotti Siciliani, e' concesso un contributo dello Stato, nella spesa prevista di lire novecentomilioni, in misura non eccedente la somma di lire quattrocentomilioni e l'Ente e' autorizzato a contrarre un mutuo di lire cinquecentomilioni con le norme di cui alla [legge 19 gennaio 1942, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;24).
+Per il finanziamento delle opere di completamento dell'acquedotto di Montescuro Ovest, da eseguirsi dall'Ente Acquedotti Siciliani, e' concesso un contributo dello Stato, nella spesa prevista di lire novecentomilioni, in misura non eccedente la somma di lire quattrocentomilioni e l'Ente e' autorizzato a contrarre un mutuo di lire cinquecentomilioni con le norme di cui alla [legge 19 gennaio 1942, n. 24](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md).
 
 ## Art. 3.
 

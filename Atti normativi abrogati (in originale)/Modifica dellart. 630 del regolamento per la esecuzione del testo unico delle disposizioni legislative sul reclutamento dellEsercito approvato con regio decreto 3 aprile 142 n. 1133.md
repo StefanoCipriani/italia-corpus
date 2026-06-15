@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-02-24;329);
+Visto il testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md);
 
-Visto il regolamento al testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 3 aprile 1942, n. 1133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-03;1133);
+Visto il regolamento al testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 3 aprile 1942, n. 1133](Parte%20seconda%20del%20regolamento%20per%20lesecuzione%20del%20Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20042U1133.md);
 
 Udito il parere del Consiglio superiore delle forze armate;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per la pu
 
 ## Articolo unico
 
-La lettera c) dell'articolo 630 del regolamento per la esecuzione del testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 3 aprile 1942, n. 1133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-03;1133), e' sostituita dalla seguente:
+La lettera c) dell'articolo 630 del regolamento per la esecuzione del testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 3 aprile 1942, n. 1133](Parte%20seconda%20del%20regolamento%20per%20lesecuzione%20del%20Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20042U1133.md), e' sostituita dalla seguente:
  "c) dei corsi per tecnici superiori presso Istituti tecnici industriali statali".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

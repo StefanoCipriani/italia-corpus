@@ -92,11 +92,11 @@ Nelle altre provincie del Regno i fallimenti dichiarati prima dell'attuazione de
 
 ## Art. 12.
 
-Le disposizioni penali, cui il nuovo codice di commercio si riferisce, sono quelle del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del 20 novembre
+Le disposizioni penali, cui il nuovo codice di commercio si riferisce, sono quelle del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 20 novembre
 
 1859.
 
-Nelle provincie toscane s'intendono surrogate alle dette disposizioni penali, in quanto non provvede il presente articolo, le disposizioni del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) toscano in conformita' della tabella annessa al presente Decreto e firmata d'ordine Nostro dal Ministro Guardasigilli. 
+Nelle provincie toscane s'intendono surrogate alle dette disposizioni penali, in quanto non provvede il presente articolo, le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano in conformita' della tabella annessa al presente Decreto e firmata d'ordine Nostro dal Ministro Guardasigilli. 
  
  La pena della sospensione sara' sempre applicata anche in Toscana, come pena accessoria, ai pubblici mediatori i quali abusando del loro uffizio commettono delitti di competenza dei tribunali correzionali o dei pretori. 
  

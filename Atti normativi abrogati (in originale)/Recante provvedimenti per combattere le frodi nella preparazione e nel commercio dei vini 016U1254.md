@@ -30,11 +30,11 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-Agli effetti dell'art. 1° della [legge 11 luglio 1904, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;388), sono considerati non genuini i vini venduti con speciale denominazione di tipi o qualita' notori, ad un prezzo sensibilmente inferiore al relativo prezzo corrente, tenuto conto delle spese di porto e del dazio.
+Agli effetti dell'art. 1° della [legge 11 luglio 1904, n. 388](Disposizioni%20per%20combattere%20le%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20vini.%20004U0388.md), sono considerati non genuini i vini venduti con speciale denominazione di tipi o qualita' notori, ad un prezzo sensibilmente inferiore al relativo prezzo corrente, tenuto conto delle spese di porto e del dazio.
 
 ## Art. 2.
 
-Le multe, fissa e proporzionale, stabilite all'[art. 2 comma 1°, della legge 11 luglio 1904, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;388#art_2-com1), sono portate rispettivamente da L. 100 a L. 300 e da L. 5 a L.
+Le multe, fissa e proporzionale, stabilite all'[art. 2 comma 1°, della legge 11 luglio 1904, n. 388](Disposizioni%20per%20combattere%20le%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20vini.%20004U0388.md), sono portate rispettivamente da L. 100 a L. 300 e da L. 5 a L.
 
 20.
 
@@ -42,25 +42,25 @@ Se la vendita del vino adulterato o sofisticato e' annunziata mediante insegne o
 
 ## Art. 3.
 
-Chiunque pone in vendita o mette altrimenti in commercio o somministra come compenso ai propri dipendenti vini non genuini e', per questo solo fatto, punito, ove si riconosca non concorrere gli estremi per la applicazione dell'[art. 2 della legge 11 luglio 1904, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;388#art_2), modificata dal presente decreto, con ammenda fissa e proporzionale, in misura da un terzo alla meta' di quella ivi stabilita. 
+Chiunque pone in vendita o mette altrimenti in commercio o somministra come compenso ai propri dipendenti vini non genuini e', per questo solo fatto, punito, ove si riconosca non concorrere gli estremi per la applicazione dell'[art. 2 della legge 11 luglio 1904, n. 388](Disposizioni%20per%20combattere%20le%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20vini.%20004U0388.md), modificata dal presente decreto, con ammenda fissa e proporzionale, in misura da un terzo alla meta' di quella ivi stabilita. 
  
  In questo caso, come in quelli di cui all'articolo precedente, il vino non genuino sara' confiscato o denaturato.
 
 ## Art. 4.
 
-Il [comma 1° dell'art. 4 della legge 11 luglio 1904, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;388#art_4-com1), e' cosi' modificato: 
+Il [comma 1° dell'art. 4 della legge 11 luglio 1904, n. 388](Disposizioni%20per%20combattere%20le%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20vini.%20004U0388.md), e' cosi' modificato: 
  
  «Chiunque annunzia, a voce o mediante pubblicazioni scritte o a stampa di qualsiasi genere, la vendita di sostanze indicate nell'articolo precedente, od esibisce, in qualunque modo, formule od altre indicazioni per la preparazione di vini non genuini, e' punito con la multa da L. 50 a L. 500.
 
 ## Art. 5.
 
-Al [comma 1° dell'art. 6 della legge 11 luglio 1904, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;388#art_6-com1), e' sostituito il seguente: 
+Al [comma 1° dell'art. 6 della legge 11 luglio 1904, n. 388](Disposizioni%20per%20combattere%20le%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20vini.%20004U0388.md), e' sostituito il seguente: 
  
  «Chiunque commercia o fa spaccio di vini o di liquidi, di cui all'articolo precedente, e' tenuto, ovunque la merce si trovi, a fornire, dietro pagamento al prezzo corrente di vendita, campioni ad ogni richiesta di speciali agenti incaricati dal Ministero di agricoltura, dalla autorita' sanitaria o finanziaria, dei carabinieri Reali, delle guardie di citta', degli agenti del dazio consumo, delle guardie forestali, degli agenti comunali, degli agenti giurati delle Societa' di cui all'art. 7 e nelle provincie, dove esistono, dagli ispettori pellagrologici».
 
 ## Art. 6.
 
-Le associazioni e gli enti, di cui all'[art. 7 della legge 11 luglio 1904, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;388#art_7), che saranno compresi in appositi elenchi approvati con decreti del ministro di agricoltura, potranno costituirsi parte civile nei procedimenti a carico dei contravventori alla [legge 11 luglio 1904, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;388), e al presente decreto. 
+Le associazioni e gli enti, di cui all'[art. 7 della legge 11 luglio 1904, n. 388](Disposizioni%20per%20combattere%20le%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20vini.%20004U0388.md), che saranno compresi in appositi elenchi approvati con decreti del ministro di agricoltura, potranno costituirsi parte civile nei procedimenti a carico dei contravventori alla [legge 11 luglio 1904, n. 388](Disposizioni%20per%20combattere%20le%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20vini.%20004U0388.md), e al presente decreto. 
  
  Il ministro di agricoltura puo', con decreto motivato, variare gli elenchi medesimi.
 
@@ -78,7 +78,7 @@ Per le spese relative ai provvedimenti intesi a combattere le frodi nella prepar
 
 ## Art. 9.
 
-Con decreto dei ministri dell'agricoltura e delle finanze, sara' provveduto al coordinamento delle disposizioni del presente decreto con quelle della [legge 11 luglio 1904, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;388), del relativo regolamento e del [decreto Luogotenenziale 31 agosto 1916, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-31;1090), ed alle norme per la loro applicazione.
+Con decreto dei ministri dell'agricoltura e delle finanze, sara' provveduto al coordinamento delle disposizioni del presente decreto con quelle della [legge 11 luglio 1904, n. 388](Disposizioni%20per%20combattere%20le%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20vini.%20004U0388.md), del relativo regolamento e del [decreto Luogotenenziale 31 agosto 1916, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-31;1090), ed alle norme per la loro applicazione.
 
 ## Art. 10.
 

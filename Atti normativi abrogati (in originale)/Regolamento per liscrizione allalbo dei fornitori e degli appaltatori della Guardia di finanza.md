@@ -39,7 +39,7 @@ Per le imprese edili l'iscrizione all'albo nazionale dei costruttori e' valida a
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, comma 3, del testo unico approvato con 
  [decreto del Presidente della Repubblica 28 dicembre 1985, 
- n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle 
+ n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge alle quali e' operato il rinvio. 
  Restano invariati il valore e l'efficacia degli atti 
  legislativi qui trascritti.
@@ -153,7 +153,7 @@ Le imprese appartenenti agli altri Paesi della CEE nonche' a Paesi terzi, sottos
 
 Nota all'[art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_3):
  - L'[art. 28 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_28), approvato con [R.D. n. 773/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;773), e' cosi' formulato:
- "Art. 28. - Oltre i casi preveduti dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), sono proibite la raccolta e la detenzione, senza licenza del ministro per l'interno, di armi da guerra e di armi ad esse analoghe, nazionali o straniere, o di parti di esse, di munizioni, di uniformi militari o di altri oggetti destinati all'armamento e all'equipaggiamento di forze armate nazionali o straniere.
+ "Art. 28. - Oltre i casi preveduti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono proibite la raccolta e la detenzione, senza licenza del ministro per l'interno, di armi da guerra e di armi ad esse analoghe, nazionali o straniere, o di parti di esse, di munizioni, di uniformi militari o di altri oggetti destinati all'armamento e all'equipaggiamento di forze armate nazionali o straniere.
  La licenza e', altresi', necessaria per la fabbricazione, l'importazione e l'esportazione delle armi predette o di parti di esse, di munizioni, di uniformi militari o di altri oggetti destinati all'armamento o all'equipaggiamento di forze armate.
  Per il trasporto delle armi stesse nell'interno dello Stato e' necessario darne avviso al prefetto.
  Il contravventore e' punito, qualora il fatto non costituisca un piu' grave reato, con l'arresto da un mese a tre anni e con l'ammenda da lire duecentomila a ottocentomila"

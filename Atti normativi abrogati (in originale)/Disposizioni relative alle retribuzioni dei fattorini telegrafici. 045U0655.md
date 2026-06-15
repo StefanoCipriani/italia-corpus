@@ -10,9 +10,9 @@ vigente: true
 
 ## Art. 1.
 
-Il compenso di cui al [R. decreto 24 ottobre 1910, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-10-24;774), modificato con i [Regi decreti 20 agosto 1921, n. 1204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-08-20;1204), e [22 novembre 1944, n. 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-11-22;434), e' elevato da L. 50 a L. 200 mensili. 
+Il compenso di cui al [R. decreto 24 ottobre 1910, n. 774](Che%20fissa%20la%20retribuzione%20da%20accordarsi%20ai%20fattorini%20telegrafi%20pel%20recapito%20dei%20telegrammi.%20010U0774.md), modificato con i [Regi decreti 20 agosto 1921, n. 1204](Che%20modifica%20larticolo%202%20del%20R.%20decreto%2024%20ottobre%201910%20n.%20774%20relativo%20al%20compenso%20da%20accordarsi%20ai%20fattorini%20telegrafici%20pel%20recapito%20dei%20telegrammi.%20021U1204.md), e [22 novembre 1944, n. 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-11-22;434), e' elevato da L. 50 a L. 200 mensili. 
  
- Al compenso di cui al comma precedente non si applicano le riduzioni previste nei [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561), convertiti, rispettivamente, nelle [leggi 6 gennaio 1931, n. 18, e 14 giugno 1934, n. 1038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-14;1038).
+ Al compenso di cui al comma precedente non si applicano le riduzioni previste nei [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561), convertiti, rispettivamente, nelle [leggi 6 gennaio 1931, n. 18, e 14 giugno 1934, n. 1038](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20aprile%201934%20n.%20561%20recante%20riduzione%20degli%20stipendi%20ed%20altre%20competenze%20del%20personale%20dipendente%20dallo%20Stato%20e%20dagli%20Enti%20locali%20e%20parastatali.%20034U1038.md).
 
 ## Art. 2.
 

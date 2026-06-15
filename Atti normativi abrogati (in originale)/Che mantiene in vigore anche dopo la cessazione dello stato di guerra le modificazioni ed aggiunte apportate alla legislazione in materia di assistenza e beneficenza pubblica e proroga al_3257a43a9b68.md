@@ -26,7 +26,7 @@ Sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri,
 
 ## Art. 1.
 
-I seguenti provvedimenti emanati in virtu' dei poteri straordinari concessi con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), avranno vigore e saranno applicati anche dopo la cessazione dello stato di guerra: 
+I seguenti provvedimenti emanati in virtu' dei poteri straordinari concessi con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), avranno vigore e saranno applicati anche dopo la cessazione dello stato di guerra: 
  
  a) [articolo 5 del decreto Luogotenenziale 27 maggio 1915, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-05-27;744#art_5): 
  

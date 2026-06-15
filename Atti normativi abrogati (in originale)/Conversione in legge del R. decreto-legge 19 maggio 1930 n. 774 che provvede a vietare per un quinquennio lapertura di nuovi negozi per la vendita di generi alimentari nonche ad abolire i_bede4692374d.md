@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 maggio 1930, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-05-19;774), che provvede a vietare, per la durata di un quinquennio, l'apertura di nuovi negozi per la vendita di generi alimentari, nonche' ad abolire i calmieri. 
+ E' convertito in legge il [R. decreto-legge 19 maggio 1930, n. 774](Divieto%20per%20la%20durata%20di%20un%20quinquennio%20dellapertura%20di%20nuovi%20negozi%20per%20la%20vendita%20di%20generi%20alimentari%20ed%20abolizione%20dei%20calmieri.%20030U0774.md), che provvede a vietare, per la durata di un quinquennio, l'apertura di nuovi negozi per la vendita di generi alimentari, nonche' ad abolire i calmieri. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

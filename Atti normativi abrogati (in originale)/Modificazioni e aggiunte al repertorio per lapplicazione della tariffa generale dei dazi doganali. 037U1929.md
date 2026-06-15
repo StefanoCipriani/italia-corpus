@@ -16,9 +16,9 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la tariffa generale dei dazi doganali, approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito in legge con [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni;
+Vista la tariffa generale dei dazi doganali, approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito in legge con [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni;
 
-Visto il repertorio per l'applicazione della tariffa suddetta, approvato con [R. decreto-legge 27 novembre 1924, n. 2146](Approvazione%20del%20repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20024U2146.md), convertito in legge con [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e successive modificazioni;
+Visto il repertorio per l'applicazione della tariffa suddetta, approvato con [R. decreto-legge 27 novembre 1924, n. 2146](Approvazione%20del%20repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20024U2146.md), convertito in legge con [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e successive modificazioni;
 
 Ritenuta la necessita' urgente ed assoluta di coordinare il repertorio doganale con le modificazioni introdotte nella tariffa generale dei dazi doganali successivamente all'emanazione del [R. decreto-legge 16 aprile 1936, n. 816](Modificazioni%20ed%20aggiunte%20al%20repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20036U0816.md), e di apportare al repertorio stesso ulteriori modificazioni di carattere tecnico, occorrenti per la retta applicazione della tariffa medesima;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per le finanze; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-E' approvata l'annessa tabella, firmata, d'ordine Nostro, dal Ministro per le finanze, recante modificazioni ed aggiunte al repertorio per l'applicazione della tariffa generale dei dazi doganali, approvata con [R. decreto-legge 27 novembre 1926, n. 2146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-27;2146), convertito in legge con [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597).
+E' approvata l'annessa tabella, firmata, d'ordine Nostro, dal Ministro per le finanze, recante modificazioni ed aggiunte al repertorio per l'applicazione della tariffa generale dei dazi doganali, approvata con [R. decreto-legge 27 novembre 1926, n. 2146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-27;2146), convertito in legge con [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md).
 
 ## Art. 2.
 

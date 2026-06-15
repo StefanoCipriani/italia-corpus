@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 7 luglio 1901, n. 325, 31 marzo 1904, n. 140, e 1° luglio 1906, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-01;306);
+Viste le [leggi 7 luglio 1901, n. 325, 31 marzo 1904, n. 140, e 1° luglio 1906, n. 306](Proroga%20della%20facolta%20concessa%20al%20Governo%20del%20Re%20per%20la%20revisione%20della%20classificazione%20delle%20strade%20nazionali.%20006U0306.md);
 
 Sulla proposta del ministro segretario di Stato per i lavori pubblici, di concerto col presidente del Consiglio dei ministri, ministro segretario di Stato per l'interno, e col ministro segretario di Stato per il tesoro;
 
@@ -28,7 +28,7 @@ Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-I residui disponibili della somma di L. 65,000 concessa al comune di Acerenza coll'[art. 4 della legge e 7 luglio 1901, n. 325](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-07-07;325#art_4), modificato dall'ultimo capoverso dell'art. 58 della logge 31 marzo 1904, n. 140, e adibiti, dall'[art. 3 della legge 1° luglio 1906, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-01;306#art_3), a provvista di acqua potabile nel Comune stesso, saranno invece devoluti al pagamento delle somme delle quali il Comune risulti debitore in dipendenza dei lavori di consolidamento dell'abitato, e relative provviste di materiale, eseguiti per le frane del 14 maggio 1901.
+I residui disponibili della somma di L. 65,000 concessa al comune di Acerenza coll'[art. 4 della legge e 7 luglio 1901, n. 325](Provvedimenti%20a%20favore%20dei%20Comuni%20di%20Acerenza%20Potenza%20e%20Calliano%20Salerno%20danneggiati%20dalle%20frane.%20001U0325.md), modificato dall'ultimo capoverso dell'art. 58 della logge 31 marzo 1904, n. 140, e adibiti, dall'[art. 3 della legge 1° luglio 1906, n. 306](Proroga%20della%20facolta%20concessa%20al%20Governo%20del%20Re%20per%20la%20revisione%20della%20classificazione%20delle%20strade%20nazionali.%20006U0306.md), a provvista di acqua potabile nel Comune stesso, saranno invece devoluti al pagamento delle somme delle quali il Comune risulti debitore in dipendenza dei lavori di consolidamento dell'abitato, e relative provviste di materiale, eseguiti per le frane del 14 maggio 1901.
 
 ## Art. 2.
 

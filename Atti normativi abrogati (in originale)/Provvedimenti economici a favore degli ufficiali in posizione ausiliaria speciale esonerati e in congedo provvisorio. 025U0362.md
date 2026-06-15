@@ -39,7 +39,7 @@ Gli ufficiali che, in dipendenza di giudizi emessi da autorita' mobilitate per s
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 4 settembre 1925, n. 1599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1599), convertito senza modificazioni dalla [L. 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 4 settembre 1925, n. 1599](Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U1599.md), convertito senza modificazioni dalla [L. 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
@@ -50,7 +50,7 @@ La pensione provvisoria degli ufficiali collocati in posizione ausiliaria specia
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 4 settembre 1925, n. 1599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1599), convertito senza modificazioni dalla [L. 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 4 settembre 1925, n. 1599](Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U1599.md), convertito senza modificazioni dalla [L. 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 
@@ -64,7 +64,7 @@ Le vedove e gli orfani degli ufficiali che, se non fossero deceduti, avrebbero p
 
 ## Art. 6.
 
-Agli ufficiali in congedo provvisorio e' concesso, dalla data d'attuazione del presente decreto, l'aumento d'indennita' militare assegnato per la famiglia ai sensi dell'ultimo comma dell'[art. 171 del Regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_171), restando in conseguenza abrogata, dalla data predetta, la disposizione del quarto comma dell'art. 174 del Regio decreto suindicato. 
+Agli ufficiali in congedo provvisorio e' concesso, dalla data d'attuazione del presente decreto, l'aumento d'indennita' militare assegnato per la famiglia ai sensi dell'ultimo comma dell'[art. 171 del Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), restando in conseguenza abrogata, dalla data predetta, la disposizione del quarto comma dell'art. 174 del Regio decreto suindicato. 
  
  Questo decreto andra' in vigore dal 1° aprile 1925 e sara' presentato al Parlamento per la conversione in legge. 
  

@@ -33,7 +33,7 @@ Il contributo dello Stato a favore dell'Istituto nazionale di fisica nucleare (I
                             per l'anno 1993 L. 440.000.000.000.
 
 AVVERTENZA:
- Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.
+ Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.
  Nota all'art. 1, comma 1.
  Il testo dell'[art. 27 della legge n. 1240/1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971;1240#art_27) (Norme relative alla ristrutturazione del Comitato nazionale per l'energia nucleare (CNEN), e' il seguente:
  "Art. 27. - I provvedimenti legislativi relativi al finanziamento dei programmi pluriennali dell'INFN, approvati dal CIPE ai sensi dell'articolo precedente della presente legge, saranno proposti su iniziativa del Ministero della pubblica istruzione di concerto con quello del tesoro.

@@ -24,7 +24,7 @@ All'Amministrazione provinciale ed ai Comuni della provincia di Zara, e' corrisp
 
 ## Art. 2.
 
-Il pagamento delle somme di cui all'articolo precedente e' disposto dal Ministero dell'interno, sentita la Commissione istituita col [R. decreto 24 maggio 1924, n. 997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-24;997).
+Il pagamento delle somme di cui all'articolo precedente e' disposto dal Ministero dell'interno, sentita la Commissione istituita col [R. decreto 24 maggio 1924, n. 997](Istituzione%20presso%20il%20Ministero%20delle%20finanze%20di%20una%20Commissione%20centrale%20per%20i%20dazi%20interni%20di%20consumo.%20024U0997.md).
 
 ## Art. 3.
 
@@ -32,7 +32,7 @@ I bilanci degli Enti di cui all'art. 1 sono sottoposti, sino a tutto l'anno 1929
  
  Il Ministero dell'interno, nel provvedere su tali bilanci, potra': 
  
- a) fare d'ufficio le allocazioni necessarie, cosi' per le entrate come per le spese obbligatorie, a norma dell'art. 219 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148); 
+ a) fare d'ufficio le allocazioni necessarie, cosi' per le entrate come per le spese obbligatorie, a norma dell'art. 219 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md); 
  
  b) ridurre le spese obbligatorie per proporzionarle alle effettive esigenze dei servizi; 
  

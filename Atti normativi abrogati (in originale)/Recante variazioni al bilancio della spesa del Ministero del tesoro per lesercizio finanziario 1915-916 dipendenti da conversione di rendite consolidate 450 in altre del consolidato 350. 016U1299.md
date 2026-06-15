@@ -22,13 +22,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 1 della legge 21 dicembre 1903, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483#art_1), col quale fu autorizzata la conversione della rendita consolidata 4.50% netto in altra del consolidato 3.50% 
+ Visto l'[art. 1 della legge 21 dicembre 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md), col quale fu autorizzata la conversione della rendita consolidata 4.50% netto in altra del consolidato 3.50% 
  
  netto; 
  
  Visto l'art. 2 della legge stessa, col quale furono dichiarate esenti dalla conversione suddetta le rendite 4,50%, possedute dalle pubbliche istituzioni di beneficenza, in quanto non vengano successivamente, per effetto di qualsiasi operazione, trasferite ad altri intestatari, ovvero tramutate al portatore; 
  
- Visto il regolamento approvato col [R. decreto 21 dicembre 1903, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-12-21;486), per l'esecuzione della legge suddetta; 
+ Visto il regolamento approvato col [R. decreto 21 dicembre 1903, n. 486](Che%20disciplina%20la%20conversione%20del%20consolidato%20450%20in%20consolidato%20350%20per%20cento.%20003U0486.md), per l'esecuzione della legge suddetta; 
  
  Visto il [decreto Luogotenenziale 3 febbraio 1916, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-02-03;177), relativo a variazioni del bilancio della spesa del Ministero del tesoro per l'esercizio 1915-916, dipendenti da conversioni di rendite del consolidato 4,50% netto, in altro del consolidato 3,50% netto, eseguite nel secondo semestre dell'anno 1915; 
  
@@ -44,7 +44,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  con decorrenza dalla stessa data; 
  
- Ritenuto che trattandosi di operazioni gia' definitivamente compiute in virtu' della citata [legge 21 dicembre 1903, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483), devesi ora provvedere soltanto per le variazioni dei due capitoli dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1915-916, relativi ai debiti consolidati anzidetti; 
+ Ritenuto che trattandosi di operazioni gia' definitivamente compiute in virtu' della citata [legge 21 dicembre 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md), devesi ora provvedere soltanto per le variazioni dei due capitoli dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1915-916, relativi ai debiti consolidati anzidetti; 
  
  Visto l'art. 14, del regolamento sopra ricordato; 
  
@@ -58,7 +58,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  in diminuzione. - Trimestre d'interessi dal 1° aprile al 30 giugno 1916 sulla rendita annua di L. 180 annullata per conversione del consolidato 3,50% (1906) con decorrenza dal 1° aprile 1916, L. 45; 
  
- al capitolo n. 4 «Rendita consolidata 3,50% netto creata in virtu' delle [leggi 12 giugno 1902, n. 166, e 21 dicembre 1903, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483)»; 
+ al capitolo n. 4 «Rendita consolidata 3,50% netto creata in virtu' delle [leggi 12 giugno 1902, n. 166, e 21 dicembre 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md)»; 
  
  in aumento. - Trimestre d'interessi dal 1° aprile al 30 giugno 1916, sulla rendita annua di L. 140 inscritta per conversione di rendita 4,50% netto, con decorrenza dal 1° aprile 1916, L. 35. 
  

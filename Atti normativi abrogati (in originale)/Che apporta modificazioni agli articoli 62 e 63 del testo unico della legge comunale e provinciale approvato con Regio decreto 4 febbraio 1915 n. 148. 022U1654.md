@@ -14,7 +14,7 @@ per grazia di Dio e por volonta' della Nazione
 
 RE D'ITALIA
 
-Visti gli [articoli 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148#art_62) e [63 del Regio decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148#art_63), che approva il testo unico della legge comunale o provinciale;
+Visti gli [articoli 62](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md) e [63 del Regio decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), che approva il testo unico della legge comunale o provinciale;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Stilla proposta del Nostre ministero segretario di stato per gli affari dell'int
 
 ## Art. 1.
 
-L'[art. 62, comma 3°, del R. decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148#art_62-com3), che approva il testo unico della legge comunale e provinciale, e' sostituito, dal seguente: 
+L'[art. 62, comma 3°, del R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), che approva il testo unico della legge comunale e provinciale, e' sostituito, dal seguente: 
  
  In caso di necessita', riconosciuta dal primo presidente della Corte, potranno anche destinarsi all'Ufficio di presidente o di vice presidente i vice pretori, i conciliatori e i funzionario delle cancellerie e segretari giudiziarie del distretto».
 

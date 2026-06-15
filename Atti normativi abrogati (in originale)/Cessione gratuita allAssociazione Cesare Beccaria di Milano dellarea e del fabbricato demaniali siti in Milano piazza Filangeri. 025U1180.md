@@ -20,7 +20,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Il Governo del Re e' autorizzato a cedere gratuitamente alla Associazione «Cesare Beccaria» di Milano, eretta in Ente morale con [R. decreto 5 aprile 1925, n. 548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-05;548), l'area e il demolendo fabbricato ex magazzino sali e tabacchi siti in Milano, piazza Filangeri, con l'obbligo alla predetta Associazione di costruirvi una Casa di ricovero nella quale dovra' accogliere i minorenni traviati.
+Il Governo del Re e' autorizzato a cedere gratuitamente alla Associazione «Cesare Beccaria» di Milano, eretta in Ente morale con [R. decreto 5 aprile 1925, n. 548](Erezione%20in%20Ente%20morale%20dellAssociazione%20nazionale%20Cesare%20Beccaria%20in%20Milano.%20025U0548.md), l'area e il demolendo fabbricato ex magazzino sali e tabacchi siti in Milano, piazza Filangeri, con l'obbligo alla predetta Associazione di costruirvi una Casa di ricovero nella quale dovra' accogliere i minorenni traviati.
 
 ## Art. 2.
 

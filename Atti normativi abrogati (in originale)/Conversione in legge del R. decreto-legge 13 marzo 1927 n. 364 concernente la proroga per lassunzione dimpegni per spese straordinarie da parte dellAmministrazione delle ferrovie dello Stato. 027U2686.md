@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 marzo 1927, n. 364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-13;364), concernente la proroga per l'assunzione d'impegni per spese straordinarie da parte dell'Amministrazione delle ferrovie dello Stato. 
+ E' convertito in legge il [R. decreto-legge 13 marzo 1927, n. 364](Proroga%20del%20termine%20per%20lassunzione%20di%20impegni%20per%20spese%20straordinarie%20da%20parte%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20027U0364.md), concernente la proroga per l'assunzione d'impegni per spese straordinarie da parte dell'Amministrazione delle ferrovie dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

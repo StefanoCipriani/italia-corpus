@@ -22,7 +22,7 @@ In virtu' dell'autorita' a noi delegata;
 
 Vista la [legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734);
 
-Vista la [legge 27 agosto 1914, n. 1029](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-08-27;1029);
+Vista la [legge 27 agosto 1914, n. 1029](Che%20proroga%20il%20termine%20stabilito%20dalla%20legge%206%20luglio%201912%20n.%20734%20per%20la%20soppressione%20dei%20convitti%20annessi%20ai%20R.%20Conservatori%20di%20musica%20di%20Palermo%20e%20di%20Parma.%20014U1029.md);
 
 Visto il [decreto Luogotenenziale 31 maggio 1917, numero 968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;968);
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per la istruzione pubblica, di c
 
 ## Articolo unico.
 
-Il termine di un biennio fissato dall'[articolo 30, comma 3°, della legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734#art_30-com3), per la cessazione delle spese a carico dello Stato per il personale dei convitti annessi ai RR. conservatori di musica di Palermo e Parma, termine prorogato di un biennio dalla [legge 27 agosto 1914, n. 1029](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-08-27;1029) di un altro anno dal [decreto Luogotenenziale 31 maggio 1917, n. 968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;968), e' prorogato sino al termine dell'esercizio finanziario entro il quale sara' conclusa la pace. 
+Il termine di un biennio fissato dall'[articolo 30, comma 3°, della legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734#art_30-com3), per la cessazione delle spese a carico dello Stato per il personale dei convitti annessi ai RR. conservatori di musica di Palermo e Parma, termine prorogato di un biennio dalla [legge 27 agosto 1914, n. 1029](Che%20proroga%20il%20termine%20stabilito%20dalla%20legge%206%20luglio%201912%20n.%20734%20per%20la%20soppressione%20dei%20convitti%20annessi%20ai%20R.%20Conservatori%20di%20musica%20di%20Palermo%20e%20di%20Parma.%20014U1029.md) di un altro anno dal [decreto Luogotenenziale 31 maggio 1917, n. 968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;968), e' prorogato sino al termine dell'esercizio finanziario entro il quale sara' conclusa la pace. 
  
  In conseguenza di cio', restano parimenti prorogate tutte le disposizioni della stessa legge, compresavi la tabella transitoria ad essa allegata, emanata in applicazione della cessazione suddetta. 
  

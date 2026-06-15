@@ -118,7 +118,7 @@ Sui reclami contro le disposizioni degli organi incaricati della commisurazione 
 
 ## Art. 6.
 
-Contravvenzioni al presente decreto ed alle disposizioni di esecuzione emanate a sensi dell'art. 11, sempre che non cadano sotto la sanzione del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), saranno punite dall'autorita' politica con multa da 10 a 1000 lire. 
+Contravvenzioni al presente decreto ed alle disposizioni di esecuzione emanate a sensi dell'art. 11, sempre che non cadano sotto la sanzione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), saranno punite dall'autorita' politica con multa da 10 a 1000 lire. 
  
  Senza riguardo a tale limite, nel caso di consumato o tentato defraudo della tassa, la multa sara' commisurata col doppio fino all'ottuplo dell'importo esposto al defraudo. 
  

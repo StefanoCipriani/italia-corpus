@@ -18,7 +18,7 @@ Vista la legge tributaria sulle successioni 30 dicembre 1923 n. 3270;
 
 Vista la legge del registro 30 dicembre 1923, n. 3269;
 
-Vista la [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Vista la [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -50,7 +50,7 @@ L'[art. 10 della legge 30 dicembre 1923, n. 3270](https://www.normattiva.it/uri-
  
  g) tra affini; 
  
- h) tra estranei, compresi gli enti morali e le persone fisiche che non sono contemplate dagli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;3270#art_11) e [12 della legge 30 dicembre 1923, n. 3270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;3270#art_12), e dal [decreto-legge 9 aprile 1925, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-04-09;380), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597); 
+ h) tra estranei, compresi gli enti morali e le persone fisiche che non sono contemplate dagli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;3270#art_11) e [12 della legge 30 dicembre 1923, n. 3270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;3270#art_12), e dal [decreto-legge 9 aprile 1925, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-04-09;380), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md); 
  
  sono dovute le tasse di successione da liquidarsi in base alla tabella allegato A. 
  

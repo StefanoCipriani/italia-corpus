@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 25 marzo 1923, n. 913](https://www.normattiva.it/uri-
 
 Visto il [R. decreto-legge 11 novembre 1924, n. 1932](Stanziamento%20della%20somma%20di%20L.%2015%20miliardi%20dallesercizio%201924-25%20allesercizio%201935-36%20per%20opere%20pubbliche%20straordinarie.%20024U1932.md);
 
-Visto il [R. decreto 19 marzo 1925, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-19;266);
+Visto il [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md);
 
 Visto il decreto 26 luglio 1920, n. 8970-23 A, emesso dal Presidente del Consiglio dei Ministri;
 

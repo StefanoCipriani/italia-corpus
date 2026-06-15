@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 3 febbraio 1936, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-02-03;296),
+Visto il [regio decreto-legge 3 febbraio 1936, n. 296](Coordinamento%20delle%20attribuzioni%20e%20dei%20servizi%20dellIstituto%20nazionale%20fascista%20per%20gli%20scambi%20con%20lestero%20-%20che%20assume%20la%20denominazione%20di%20Istituto%20nazionale%20fascista%20per%20il%20commercio%20est_a2237e09fc52.md),
 
-convertito nella [legge 14 aprile 1936, n. 929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-14;929), concernente
+convertito nella [legge 14 aprile 1936, n. 929](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20febbraio%201936-XIV%20n.%20296%20riguardante%20il%20coordinamento%20delle%20attribuzioni%20e%20dei%20servizi%20dellIstituto%20nazionale%20fascista%20per%20gli%20scambi%20con%20leste_15f8dbfe3522.md), concernente
 
 l'ordinamento dell'istituto nazionale per il commercio estero;
 
@@ -22,7 +22,7 @@ Visto l'[art. 5 del decreto luogotenenziale 16 gennaio 1946, n. 12](https://www.
 
 Visto il [decreto legislativo luogotenenziale 10 agosto 1944, n. 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;180), concernente il riordinamento dell'istituto nazionale per il commercio estero;
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3), modificata dalla [legge 4 settembre 1940, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-04;1547), concernente la facolta' dal potere esecutivo di emanare norme giuridiche;
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), modificata dalla [legge 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md), concernente la facolta' dal potere esecutivo di emanare norme giuridiche;
 
 Udito il parere del Consiglio di Stato;
 

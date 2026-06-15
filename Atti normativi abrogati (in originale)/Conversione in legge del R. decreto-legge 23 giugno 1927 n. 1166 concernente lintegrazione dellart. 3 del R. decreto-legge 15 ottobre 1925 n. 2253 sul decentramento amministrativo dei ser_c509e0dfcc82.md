@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1166), col quale viene integrato l'[art. 3 del Regio decreto - legge 15 ottobre 1925, n. 2253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2253#art_3), sul decentramento amministrativo dei servizi dell'Amministrazione della guerra. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1166](Integrazione%20dellart.%203%20del%20R.%20decreto-legge%2015%20ottobre%201925%20n.%202253%20sul%20decentramento%20amministrativo%20dei%20servizi%20dellAmministrazione%20della%20guerra.%20027U1166.md), col quale viene integrato l'[art. 3 del Regio decreto - legge 15 ottobre 1925, n. 2253](Decentramento%20amministrativo%20dei%20servizi%20dellAmministrazione%20della%20guerra.%20025U2253.md), sul decentramento amministrativo dei servizi dell'Amministrazione della guerra. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

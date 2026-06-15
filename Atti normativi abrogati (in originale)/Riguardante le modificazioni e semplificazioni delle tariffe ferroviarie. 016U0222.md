@@ -18,7 +18,7 @@ L'Amministrazione delle ferrovie dello Stato e' autorizzata:
  
  c) ad introdurre un aumento medio del dieci per cento, col massimo del quindici per cento, nei prezzi dei biglietti di abbonamento ordinari, locali e speciali, le cui norme e condizioni di uso saranno modificate come risulta dall'allegato B al presente decreto. L'aumento medio sara' computato sulla base del movimento avutosi nel 1914; 
  
- d) a procedere ad una ulteriore unificazione e semplificazione delle tariffe locali, economiche e vicinali di cui l'art. 14, comma e), della [legge 13 aprile 1911, n. 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-13;310), e di quelle speciali interne viaggiatori, in modo che ne derivi un aumento medio non superiore all'otto pel cento sulla base del movimento avutosi nel 1912; 
+ d) a procedere ad una ulteriore unificazione e semplificazione delle tariffe locali, economiche e vicinali di cui l'art. 14, comma e), della [legge 13 aprile 1911, n. 310](Che%20approva%20le%20modificazioni%20allordinamento%20delle%20ferrovie%20dello%20Stato%20ed%20il%20miglioramento%20economico%20del%20personale.%20011U0310.md), e di quelle speciali interne viaggiatori, in modo che ne derivi un aumento medio non superiore all'otto pel cento sulla base del movimento avutosi nel 1912; 
  
  e) ad apportare nelle tariffe e condizioni pel trasporto delle merci, del feretri, dei veicoli e del bestiame le modificazioni e le aggiunte risultanti dagli allegati C, D, E, al presente decreto; 
  
@@ -32,15 +32,15 @@ L'Amministrazione delle ferrovie dello Stato e' autorizzata:
 
 ## Art. 2.
 
-Il penultimo capoverso dell'[art. 50 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_50), modificato col [Regio decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728), e' sostituito dal seguente: 
+Il penultimo capoverso dell'[art. 50 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato col [Regio decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), e' sostituito dal seguente: 
  
  «E' in facolta' dell'Amministrazione delle ferrovie dello Stato di escludere dalla composizione dei treni viaggiatori delle linee secondarie e dai treni accelerati, omnibus, misti e locali delle linee principali le vetture di 1ª o quelle di 2ª classe. I treni misti possono avere anche la sola 3ª classe».
 
 ## Art. 3.
 
-Con l'inclusione nelle basi di tariffa dell'aumento del sei per mille di cui all'[art. 5 della legge 19 giugno 1913, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-19;641#art_5), disposta con l'art. 2 del Nostro decreto del 28 ottobre 1915, n. 1602, resta soppresso l'ultimo comma del suddetto art. 5. 
+Con l'inclusione nelle basi di tariffa dell'aumento del sei per mille di cui all'[art. 5 della legge 19 giugno 1913, n. 641](Riguardante%20lOpera%20di%20previdenza%20ed%20altri%20provvedimenti%20a%20favore%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20013U0641.md), disposta con l'art. 2 del Nostro decreto del 28 ottobre 1915, n. 1602, resta soppresso l'ultimo comma del suddetto art. 5. 
  
- E cosi' pure, con la inclusione nei prezzi della piccola velocita' della soprattassa di stazione di cui il comma g), [art. 13, della legge 23 luglio 1914, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742#art_13), resta annullato il minimo di L. 0,05 per ogni spedizione indicato nel comma stesso.
+ E cosi' pure, con la inclusione nei prezzi della piccola velocita' della soprattassa di stazione di cui il comma g), [art. 13, della legge 23 luglio 1914, n. 742](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md), resta annullato il minimo di L. 0,05 per ogni spedizione indicato nel comma stesso.
 
 ## Art. 4.
 

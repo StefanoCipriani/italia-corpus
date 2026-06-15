@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Con efficacia dal 1° gennaio 1931, l'accertamento della rendita imponibile dei beni immobili costituenti le dotazioni dei benefici parrocchiali e coadiutorali per l'applicazione della tassa di manomorta verra' eseguito con le norme di cui all'[art. 7 del R. decreto 30 dicembre 1923, n. 3062](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3062#art_7). Restano fermi gli accertamenti stabiliti pel quinquennio in corso. 
+ Con efficacia dal 1° gennaio 1931, l'accertamento della rendita imponibile dei beni immobili costituenti le dotazioni dei benefici parrocchiali e coadiutorali per l'applicazione della tassa di manomorta verra' eseguito con le norme di cui all'[art. 7 del R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md). Restano fermi gli accertamenti stabiliti pel quinquennio in corso. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

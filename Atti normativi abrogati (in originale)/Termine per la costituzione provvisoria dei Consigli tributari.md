@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 8 marzo 1945, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-08;77);
+Visto il [decreto legislativo luogotenenziale 8 marzo 1945, n. 77](../Decreti%20legislativi%20luogotenenziali/Istituzione%20dei%20Consigli%20e%20dei%20Comitati%20tributari.%20045U0077.md);
 
-Visti il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), e il [decreto legislativo luogotenenziale 16 marzo 1946,n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visti il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), e il [decreto legislativo luogotenenziale 16 marzo 1946,n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per le finanze, di concerto con quello per l'interno
 
 ## Art. 1.
 
-L'[art. 31 del decreto legislativo luogotenenziale 8 marzo 1945, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-08;77#art_31) e' sostituito dal seguente:
+L'[art. 31 del decreto legislativo luogotenenziale 8 marzo 1945, n. 77](../Decreti%20legislativi%20luogotenenziali/Istituzione%20dei%20Consigli%20e%20dei%20Comitati%20tributari.%20045U0077.md) e' sostituito dal seguente:
  "Fino a quando non siano istituiti i Consigli tributari di nomina elettiva, e' facolta' del Ministro per le finanze di costituirli, sentiti i Consigli comunali e le organizzazioni sindacali".
 
 ## Art. 2.

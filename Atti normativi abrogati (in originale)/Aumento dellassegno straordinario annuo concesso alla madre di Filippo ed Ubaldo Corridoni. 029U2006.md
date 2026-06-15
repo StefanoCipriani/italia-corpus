@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto-legge 15 luglio 1923, n. 1774](Assegno%20straordinario%20vitalizio%20alla%20madre%20di%20Filippo%20e%20Ubaldo%20Corridoni.%20023U1774.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), con cui venne concesso alla signora Paccazocchi Enrica, madre di Filippo e Ubaldo Corridoni, soldati morti per ferite riportate in combattimento, un assegno straordinario annuo a vita di L. 4000; 
+ Visto il [R. decreto-legge 15 luglio 1923, n. 1774](Assegno%20straordinario%20vitalizio%20alla%20madre%20di%20Filippo%20e%20Ubaldo%20Corridoni.%20023U1774.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), con cui venne concesso alla signora Paccazocchi Enrica, madre di Filippo e Ubaldo Corridoni, soldati morti per ferite riportate in combattimento, un assegno straordinario annuo a vita di L. 4000; 
  
  Ritenuta la necessita' urgente ed assoluta di elevare la misura dell'assegno predetto; 
  
@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- L'assegno straordinario annuo a vita concesso a Paccazocchi Enrica fu Andrea in Corridoni con il [R. decreto-legge 15 luglio 1923, n. 1774](Assegno%20straordinario%20vitalizio%20alla%20madre%20di%20Filippo%20e%20Ubaldo%20Corridoni.%20023U1774.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' elevato a L. 6000 a decorrere dal 1° novembre 1929-VIII. All'assegno predetto e' applicabile l'aumento di cui all'[art. 23 del R. decreto-legge 31 marzo 1925, n. 486](Provvedimenti%20economici%20a%20favore%20dei%20vecchi%20pensionati.%20025U0486.md). 
+ L'assegno straordinario annuo a vita concesso a Paccazocchi Enrica fu Andrea in Corridoni con il [R. decreto-legge 15 luglio 1923, n. 1774](Assegno%20straordinario%20vitalizio%20alla%20madre%20di%20Filippo%20e%20Ubaldo%20Corridoni.%20023U1774.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' elevato a L. 6000 a decorrere dal 1° novembre 1929-VIII. All'assegno predetto e' applicabile l'aumento di cui all'[art. 23 del R. decreto-legge 31 marzo 1925, n. 486](Provvedimenti%20economici%20a%20favore%20dei%20vecchi%20pensionati.%20025U0486.md). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il Capo del Governo ed i Ministri proponenti sono autorizzati alla presentazione del relativo disegno di legge. 
  

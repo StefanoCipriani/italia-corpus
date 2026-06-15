@@ -60,7 +60,7 @@ Le assicurazioni elencate nel comma 1 dell'articolo 1 si applicano con le partic
                         b)
                             assicurazione contro le malattie. La prestazione sanitaria spetta ai lavoratori assicurati e ai familiari a carico ancorche' residenti o dimoranti in Italia, secondo le norme della [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), e dei relativi decreti delegati e successive modifiche ed integrazioni;
                         c)
-                            assicurazione di maternita'. L'indennita' economica di maternita' e' dovuta secondo la legislazione nazionale per i periodi previsti dall'[articolo 4 della legge 30 dicembre 1971, n. 1204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-30;1204#art_4), dietro presentazione al datore di lavoro e all'Istituto nazionale della previdenza sociale (INPS) del certificato di gravidanza rilasciato e convalidato da un medico di fiducia della locale rappresentanza diplomatica o consolare.
+                            assicurazione di maternita'. L'indennita' economica di maternita' e' dovuta secondo la legislazione nazionale per i periodi previsti dall'[articolo 4 della legge 30 dicembre 1971, n. 1204](Tutela%20delle%20lavoratrici%20madri.md), dietro presentazione al datore di lavoro e all'Istituto nazionale della previdenza sociale (INPS) del certificato di gravidanza rilasciato e convalidato da un medico di fiducia della locale rappresentanza diplomatica o consolare.
 
 2.
 
@@ -76,7 +76,7 @@ I datori di lavoro sono tenuti ad anticipare gli oneri per l'assistenza sanitari
 
 5.
 
-I datori di lavoro possono richiedere il rimborso delle somme anticipate per l'assistenza sanitaria di cui al comma 4 con le procedure di cui al [decreto del Presidente della Repubblica 31 luglio 1980, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;618).
+I datori di lavoro possono richiedere il rimborso delle somme anticipate per l'assistenza sanitaria di cui al comma 4 con le procedure di cui al [decreto del Presidente della Repubblica 31 luglio 1980, n. 618](../DPR/Assistenza%20sanitaria%20ai%20cittadini%20italiani%20allestero%20art.%2037%20primo%20comma%20lettere%20a%20e%20b%20della%20legge%20n.%20833%20del%201978.md).
 
 6.
 
@@ -113,7 +113,7 @@ L'aliquota complessiva a carico del datore di lavoro e' ridotta di 10 punti e l'
 
 3.
 
-Per tutto quanto non disposto dal presente decreto trovano applicazione le norme contenute nel testo unico approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-30;1124), e successive integrazioni e modifiche.
+Per tutto quanto non disposto dal presente decreto trovano applicazione le norme contenute nel testo unico approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), e successive integrazioni e modifiche.
 
 ## Art. 4.
 

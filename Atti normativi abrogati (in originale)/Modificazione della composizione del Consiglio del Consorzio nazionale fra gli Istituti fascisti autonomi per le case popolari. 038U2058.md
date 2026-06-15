@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Vista la [legge 6 giugno 1935, n. 1129](Norme%20per%20la%20riforma%20degli%20Istituti%20per%20le%20case%20popolari%20e%20per%20la%20costituzione%20di%20un%20Consorzio%20nazionale%20fra%20gli%20Istituti%20predetti.%20035U1129.md);
 
-Visto il [R. decreto 2 luglio 1936, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-07-02;1413), relativo alla costituzione, con sede in Roma, del Consorzio nazionale fra gli Istituti fascisti autonomi per le case popolari;
+Visto il [R. decreto 2 luglio 1936, n. 1413](Costituzione%20con%20sede%20in%20Roma%20del%20Consorzio%20nazionale%20fra%20gli%20Istituti%20fascisti%20autonomi%20per%20le%20case%20popolari.%20036U1413.md), relativo alla costituzione, con sede in Roma, del Consorzio nazionale fra gli Istituti fascisti autonomi per le case popolari;
 
 Visto il [R. decreto-legge 15 febbraio 1937, n. 317](Modificazione%20allart.%204%20del%20R.%20decreto%202%20luglio%201936%20n.%201413%20relativo%20alla%20costituzione%20del%20Consorzio%20nazionale%20fra%20gli%20Istituti%20fascisti%20autonomi%20per%20le%20case%20popolari%20con%20sede%20in%20Roma.%20037U0317.md), convertito nella [legge 10 giugno 1937, n. 1548](Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20febbraio%201937-XV%20n.%20317%20riguardante%20modificazione%20allart.%204%20del%20R.%20decreto%202%20luglio%201936-XIV%20n.%201413%20relativo%20alla%20costituzione%20del%20Consorzio%20_128e09666f2e.md);
 

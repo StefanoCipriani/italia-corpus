@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto-legge 2 aprile 1925, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-02;383), relativo alla costituzione di un Corpo di agenti di pubblica sicurezza.
+E' convertito in legge il [R. decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md), relativo alla costituzione di un Corpo di agenti di pubblica sicurezza.
 
 ## Art. 2.
 
-All'[art. 8 del R. decreto-legge 2 aprile 1925, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-02;383#art_8), e' aggiunto il seguente comma: 
+All'[art. 8 del R. decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md), e' aggiunto il seguente comma: 
  
  «Per l'arruolamento degli agenti che siano operai tecnici nelle varie specialita' necessarie ai servizi di pubblica sicurezza il Ministero dell'interno e' autorizzato a prescindere dai requisiti suddetti». 
  

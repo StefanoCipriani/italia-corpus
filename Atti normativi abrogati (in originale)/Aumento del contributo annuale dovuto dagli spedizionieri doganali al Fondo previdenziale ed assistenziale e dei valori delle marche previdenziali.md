@@ -18,7 +18,7 @@ Visto l'art. 15 della citata legge n. 1612, nel testo modificato dall'articolo u
 
 Visto il decreto ministeriale 10 marzo 1964, che stabilisce le norme di applicazione della [legge 22 dicembre 1960, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-22;1612), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 102 del 24 aprile 1964, modificato con il decreto ministeriale 30 ottobre 1973, pubblicato nella Gazzetta Ufficiale n. 303 del 24 novembre 1973;
 
-Visto il [decreto del Presidente della Repubblica 4 agosto 1978, n. 529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-08-04;529), con il quale sono stati, da ultimo, stabiliti gli importi delle marche previdenziali e del contributo annuale dovuti dagli spedizionieri doganali;
+Visto il [decreto del Presidente della Repubblica 4 agosto 1978, n. 529](../DPR/Modificazioni%20alle%20norme%20di%20applicazione%20della%20legge%2022%20dicembre%201960%20n.%201612%20-%20Aumenti%20del%20contributo%20annuale%20e%20delle%20marche%20previdenziali%20dovute%20dagli%20spedizionieri%20doganali.md), con il quale sono stati, da ultimo, stabiliti gli importi delle marche previdenziali e del contributo annuale dovuti dagli spedizionieri doganali;
 
 Vista la richiesta del 23 marzo 1984, n. 2134, formulata dal Fondo previdenziale e assistenziale degli spedizionieri doganali in attuazione della delibera del 17 marzo 1984 del proprio consiglio di amministrazione;
 

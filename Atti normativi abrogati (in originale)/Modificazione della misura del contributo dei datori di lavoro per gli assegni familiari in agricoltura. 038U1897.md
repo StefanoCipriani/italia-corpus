@@ -20,7 +20,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Visto il [R. decreto-legge 17 giugno 1937, n. 1048](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md), contenente disposizioni per il perfezionamento e la generalizzazione degli assegni familiari ai prestatori d'opera;
 
-Visto il [R. decreto 21 luglio 1937, n. 1239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-21;1239), contenente le norme integrative per la sua attuazione;
+Visto il [R. decreto 21 luglio 1937, n. 1239](Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md), contenente le norme integrative per la sua attuazione;
 
 Visto il [R. decreto-legge 17 maggio 1938, n. 872](Modalita%20per%20la%20riscossione%20dei%20contributi%20e%20la%20erogazione%20degli%20assegni%20familiari%20in%20agricoltura.%20038U0872.md), riflettente sistemi e modalita' speciali per la riscossione dei contributi e la erogazione degli assegni familiari in agricoltura;
 

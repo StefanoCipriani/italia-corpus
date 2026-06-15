@@ -12,15 +12,15 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il decreto Ministeriale 5 luglio 1928 sull'ordinamento culturale e periferico dell'Amministrazione dei monopoli di Stato;
 
-Visto il [regio decreto 9 maggio 1935, n. 1580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-05-09;1580), recante modifiche al detto ordinamento Visto il decreto Ministeriale 21 ottobre 1925 sullo stato giuridico e sul trattamento economico dei salariati dell'Amministrazione dei monopoli di Stato;
+Visto il [regio decreto 9 maggio 1935, n. 1580](Modificazioni%20al%20vigente%20ordinamento%20per%20il%20personale%20ed%20i%20servizi%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20035U1580.md), recante modifiche al detto ordinamento Visto il decreto Ministeriale 21 ottobre 1925 sullo stato giuridico e sul trattamento economico dei salariati dell'Amministrazione dei monopoli di Stato;
 
 Ritenuta la necessita' di apportare alcune modifiche ed aggiunte alle disposizioni in essi decreti contenute;
 
-Visto l'[art. 2 del decreto legislativo luogotenenziale 18 febbraio 1946, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-18;113#art_2);
+Visto l'[art. 2 del decreto legislativo luogotenenziale 18 febbraio 1946, n. 113](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20lAmministrazione%20dei%20monopoli%20di%20Stato.md);
 
-Visto l'[art 1, n. 3, della legge 31 gennaio 1926, numero 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art 1, n. 3, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Udito il parere del Consiglio di amministrazione dei monopoli di Stato;
 

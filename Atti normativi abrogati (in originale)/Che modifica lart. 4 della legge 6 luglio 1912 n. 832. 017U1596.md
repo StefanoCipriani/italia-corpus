@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-Il diritto fisso di lire due, stabilito dall'[art. 4 della legge 6 luglio 1912, n. 832](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;832#art_4), per ogni capo bovino portato alla macellazione, che non abbia nessun dente incisivo di adulto, e' aumentato di lire due. 
+Il diritto fisso di lire due, stabilito dall'[art. 4 della legge 6 luglio 1912, n. 832](Concernente%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U0832.md), per ogni capo bovino portato alla macellazione, che non abbia nessun dente incisivo di adulto, e' aumentato di lire due. 
  
  Il maggior provento derivante da tale aumento e' devoluto interamente allo Stato. 
  

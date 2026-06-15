@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;149);
+Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 149](../Decreti%20legislativi%20luogotenenziali/Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -18,11 +18,11 @@ Visto il decreto legislativo luogotenenziale 16 marzo 1946, n. 98 Vista la delib
 
 ## Art. 1.
 
-Nei modi previsti dall'[art. 3 del decreto legislativo luogotenenziale 4 gennaio 1945, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-04;2#art_3), possono essere nominati dei membri supplenti della Commissione centrale di appello per le sanzioni contro i fascisti politicamente pericolosi, istituita con l'[art. 2 del decreto legislativo luogotenenziale 26 aprile 1945, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;149#art_2).
+Nei modi previsti dall'[art. 3 del decreto legislativo luogotenenziale 4 gennaio 1945, n. 2](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20dei%20decreti%20legislativi%20Luogotenenziali%2027%20luglio%201944%20n.%20159%2011%20ottobre%201944%20n.%20257%20e%2023%20ottobre%201944%20n.%20285%20sulle%20sanzioni%20contro%20il%20fascismo%20e%20sul%20collocamento%20a%20ripo_d3a7219ee7a2.md), possono essere nominati dei membri supplenti della Commissione centrale di appello per le sanzioni contro i fascisti politicamente pericolosi, istituita con l'[art. 2 del decreto legislativo luogotenenziale 26 aprile 1945, n. 149](../Decreti%20legislativi%20luogotenenziali/Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md).
 
 ## Art. 2.
 
-Qualora il numero dei procedimenti lo richieda, possono essere istituite nelle forme prescritte dal citato [art. 2 del decreto legislativo luogotenenziale 26 aprile 1945, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;149#art_2), sottocommissioni, aventi la stessa composizione e gli stessi poteri della Commissione, con relativi uffici di segreteria.
+Qualora il numero dei procedimenti lo richieda, possono essere istituite nelle forme prescritte dal citato [art. 2 del decreto legislativo luogotenenziale 26 aprile 1945, n. 149](../Decreti%20legislativi%20luogotenenziali/Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md), sottocommissioni, aventi la stessa composizione e gli stessi poteri della Commissione, con relativi uffici di segreteria.
 
 ## Art. 3.
 

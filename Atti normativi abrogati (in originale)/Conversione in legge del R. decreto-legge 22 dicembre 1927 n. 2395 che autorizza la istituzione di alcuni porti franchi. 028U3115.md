@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 dicembre 1927, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-22;2395), che autorizza la istituzione di alcuni porti franchi. 
+ E' convertito in legge il [R. decreto-legge 22 dicembre 1927, n. 2395](Istituzione%20dei%20porti%20franchi.%20027U2395.md), che autorizza la istituzione di alcuni porti franchi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

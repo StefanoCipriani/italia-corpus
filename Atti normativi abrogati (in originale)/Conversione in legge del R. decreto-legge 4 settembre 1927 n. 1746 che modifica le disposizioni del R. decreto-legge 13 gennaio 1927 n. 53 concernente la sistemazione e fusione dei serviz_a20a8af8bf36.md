@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 settembre 1927, n. 1746](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-09-04;1746), che modifica le disposizioni contenute nel [R. decreto-legge 13 gennaio 1927, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-13;53), concernente la sistemazione e fusione dei servizi del comune di Genova unificato. 
+ E' convertito in legge il [R. decreto-legge 4 settembre 1927, n. 1746](Modificazioni%20alle%20disposizioni%20contenute%20nel%20R.%20decreto-legge%2013%20gennaio%201927%20n.%2053%20concernente%20la%20sistemazione%20e%20fusione%20dei%20servizi%20del%20comune%20di%20Genova%20unificato.%20027U1746.md), che modifica le disposizioni contenute nel [R. decreto-legge 13 gennaio 1927, n. 53](Provvedimenti%20per%20la%20sistemazione%20e%20fusione%20dei%20servizi%20nel%20comune%20unificato%20di%20Genova.%20027U0053.md), concernente la sistemazione e fusione dei servizi del comune di Genova unificato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

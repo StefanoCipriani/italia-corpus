@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'indennita' speciale di cui all'[art. 32, della legge 31 luglio 1954, n. 599](Stato%20dei%20sottufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), compete, con le modalita' e con la decorrenza indicate nell'art. 84 della stessa legge, anche ai sottufficiali dei carabinieri cessati dal servizio per riduzione degli organici, ai sensi del [regio decreto - legge 26 luglio 1929, n. 1430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-07-26;1430), o per effetto della soppressione del ruolo territoriale dell'Arma, disposta con il [regio decreto-legge 3 gennaio 1944, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-03;6).
+L'indennita' speciale di cui all'[art. 32, della legge 31 luglio 1954, n. 599](Stato%20dei%20sottufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), compete, con le modalita' e con la decorrenza indicate nell'art. 84 della stessa legge, anche ai sottufficiali dei carabinieri cessati dal servizio per riduzione degli organici, ai sensi del [regio decreto - legge 26 luglio 1929, n. 1430](Modificazioni%20allordinamento%20e%20allorganico%20dellArma%20dei%20carabinieri%20Reali.%20029U1430.md), o per effetto della soppressione del ruolo territoriale dell'Arma, disposta con il [regio decreto-legge 3 gennaio 1944, n. 6](Organico%20e%20trattamento%20economico%20dei%20sottufficiali%20e%20militari%20di%20truppa%20dellArma%20dei%20C.C.R.R.%20044U0006.md).
 
 ## Art. 2.
 

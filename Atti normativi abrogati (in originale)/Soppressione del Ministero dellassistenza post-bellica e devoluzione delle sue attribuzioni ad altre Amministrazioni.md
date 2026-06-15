@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto luogotenenziale 21 giugno 1945, numero 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-21;380), relativo alla istituzione del Ministero dell'assistenza post-bellica;
+Visto il [decreto luogotenenziale 21 giugno 1945, numero 380](../Decreti%20legislativi%20luogotenenziali/Istituzione%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0380.md), relativo alla istituzione del Ministero dell'assistenza post-bellica;
 
-Visto il [decreto legislativo luogotenenziale 31 luglio 1945, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-31;425), concernente le attribuzioni e l'ordinamento di detto Ministero, e viste le sue successive modificazioni ed integrazioni;
+Visto il [decreto legislativo luogotenenziale 31 luglio 1945, n. 425](../Decreti%20legislativi%20luogotenenziali/Attribuzioni%20ed%20ordinamento%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0425.md), concernente le attribuzioni e l'ordinamento di detto Ministero, e viste le sue successive modificazioni ed integrazioni;
 
-Visto il [decreto legislativo luogotenenziale 21 agosto 1945, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;518), concernente il riconoscimento delle qualifiche dei partigiani e l'esame delle proposte di ricompensa.
+Visto il [decreto legislativo luogotenenziale 21 agosto 1945, n. 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md), concernente il riconoscimento delle qualifiche dei partigiani e l'esame delle proposte di ricompensa.
 
 Visto il [decreto legislativo 26 aprile 1946, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-04-26;240),recante provvidenze a favore dei reduci;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -30,50 +30,50 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 Il Ministero dell'assistenza post-bellica e' soppresso. 
  Le sue attribuzioni sono ripartite in conformita' degli articoli seguenti. 
- Sono parimenti soppresse la ragioneria centrale istituita presso il suddetto Ministero dall'[art. 8 del decreto legislativo luogotenenziale 31 luglio 1945, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-31;425#art_8), e la delegazione della Corte dei conti prevista dal [decreto legislativo luogotenenziale 12 ottobre 1945, n. 701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-12;701).
+ Sono parimenti soppresse la ragioneria centrale istituita presso il suddetto Ministero dall'[art. 8 del decreto legislativo luogotenenziale 31 luglio 1945, n. 425](../Decreti%20legislativi%20luogotenenziali/Attribuzioni%20ed%20ordinamento%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0425.md), e la delegazione della Corte dei conti prevista dal [decreto legislativo luogotenenziale 12 ottobre 1945, n. 701](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20una%20delegazione%20della%20Corte%20dei%20conti%20presso%20il%20Ministero%20dellassistenza%20post-bellica.%20045U0701.md).
 
 ## Art. 2.
 
-I poteri spettanti, a norma delle leggi, dei regolamenti e degli statuti, all'Amministrazione dello Stato nei confronti di enti, fondazioni e associazioni a carattere nazionale, costituiti per le categorie di cui all'[articolo 1 del decreto legislativo luogotenenziale 31 luglio 1945, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-31;425#art_1), e all'[art. 1, primo comma, del decreto legislativo luogotenenziale 28 settembre 1945, numero 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-28;646#art_1-com1), sono esercitati dalla Presidenza del Consiglio dei Ministri. 
+I poteri spettanti, a norma delle leggi, dei regolamenti e degli statuti, all'Amministrazione dello Stato nei confronti di enti, fondazioni e associazioni a carattere nazionale, costituiti per le categorie di cui all'[articolo 1 del decreto legislativo luogotenenziale 31 luglio 1945, n. 425](../Decreti%20legislativi%20luogotenenziali/Attribuzioni%20ed%20ordinamento%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0425.md), e all'[art. 1, primo comma, del decreto legislativo luogotenenziale 28 settembre 1945, numero 646](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20circa%20le%20attribuzioni%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0646.md), sono esercitati dalla Presidenza del Consiglio dei Ministri. 
  I poteri previsti nel comma precedente sono trasferiti, nei confronti dell'Opera nazionale combattenti, al Ministero dell'agricoltura e delle foreste.
 
 ## Art. 3.
 
 Le attribuzioni gia' spettanti al Ministero dell'assistenza post-bellica, per quanto concerne l'assistenza delle categorie richiamate nell'art. 2, sono devolute al Ministero dell'interno. 
- Ferme restando le attribuzioni del Ministero del lavoro e della previdenza sociale, e' devoluta al Ministero dell'interno l'assistenza dei connazionali rimpatriati dall'estero, prevista dall'[art. 2 del decreto legislativo luogotenenziale 28 settembre 1945, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-28;646#art_2).
+ Ferme restando le attribuzioni del Ministero del lavoro e della previdenza sociale, e' devoluta al Ministero dell'interno l'assistenza dei connazionali rimpatriati dall'estero, prevista dall'[art. 2 del decreto legislativo luogotenenziale 28 settembre 1945, n. 646](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20circa%20le%20attribuzioni%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0646.md).
 
 ## Art. 4.
 
 Sono devolute al Ministero del Lavoro e della previdenza sociale la attribuzioni gia' spettanti al Ministero dall'assistenza post-bellica, per quanto concerne: 
  1) il collocamento degli appartenenti alle categorie richiamate nell'[art. 2, la costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_2) di cooperative tra reduci e la vigilanza sulle medesime nonche' le lavorazioni a carattere assistenziale; 
- 2) la istruzione e la rieducazione professionale, ai sensi dell'[art. 15, lettera a), del decreto legislativo luogotenenziale 26 aprile 1946, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-26;240#art_15-leta), nonche' i corsi gia' promossi a cura del Ministero dell'assistenza post-bellica, ivi compresi quelli per assistenti sociali e per cooperatori; 
- 3) l'assegnazione di residuati di guerra ai reduci ed il credito alla cooperazione ed all'artigianato, secondo le disposizioni degli [articoli 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-26;240#art_17) e [18 del decreto legislativo luogotenenziale 26 aprile 1946, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-26;240#art_18).
+ 2) la istruzione e la rieducazione professionale, ai sensi dell'[art. 15, lettera a), del decreto legislativo luogotenenziale 26 aprile 1946, n. 240](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20a%20favore%20dei%20reduci.md), nonche' i corsi gia' promossi a cura del Ministero dell'assistenza post-bellica, ivi compresi quelli per assistenti sociali e per cooperatori; 
+ 3) l'assegnazione di residuati di guerra ai reduci ed il credito alla cooperazione ed all'artigianato, secondo le disposizioni degli [articoli 17](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20a%20favore%20dei%20reduci.md) e [18 del decreto legislativo luogotenenziale 26 aprile 1946, n. 240](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20a%20favore%20dei%20reduci.md).
 
 ## Art. 5.
 
-Le attribuzioni gia' spettanti all'Alto Commissariato per i prigionieri di guerra e trasferite al Ministero dell'assistenza post-bellica ai sensi dell'[art. 9 del decreto legislativo luogotenenziale 31 luglio 1945, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-31;425#art_9), sono demandate al Ministero della difesa. 
+Le attribuzioni gia' spettanti all'Alto Commissariato per i prigionieri di guerra e trasferite al Ministero dell'assistenza post-bellica ai sensi dell'[art. 9 del decreto legislativo luogotenenziale 31 luglio 1945, n. 425](../Decreti%20legislativi%20luogotenenziali/Attribuzioni%20ed%20ordinamento%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0425.md), sono demandate al Ministero della difesa. 
  Spettano altresi' al Ministero della difesa le attribuzioni relative ai Cimiteri di guerra.
 
 ## Art. 6.
 
-Le attribuzioni spettanti al Ministero dell'assistenza post-bellica ai sensi del capo I (costruzione e assegnazione di alloggi ai reduci sinistrati senza tetto e in condizione di indigenza) e dall'art. 19 (ricostruzione delle case distrutte o danneggiate per atti di rappresaglia contro la lotta di liberazione) del [decreto legislativo luogotenenziale 26 aprile 1946, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-26;240), sono devolute al Ministero dei lavori pubblici.
+Le attribuzioni spettanti al Ministero dell'assistenza post-bellica ai sensi del capo I (costruzione e assegnazione di alloggi ai reduci sinistrati senza tetto e in condizione di indigenza) e dall'art. 19 (ricostruzione delle case distrutte o danneggiate per atti di rappresaglia contro la lotta di liberazione) del [decreto legislativo luogotenenziale 26 aprile 1946, n. 240](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20a%20favore%20dei%20reduci.md), sono devolute al Ministero dei lavori pubblici.
 
 ## Art. 7.
 
-Le attribuzioni assegnate al Ministero dell'assistenza post-bellica dal capo II (riparazione e ricostruzione di cassette agricole danneggiate o distrutte dalla guerra) e dal capo III (concessione di terreni) del [decreto legislativo luogotenenziale 26 aprile 1946, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-26;240), sono devolute al Ministero dell'agricoltura e delle foreste.
+Le attribuzioni assegnate al Ministero dell'assistenza post-bellica dal capo II (riparazione e ricostruzione di cassette agricole danneggiate o distrutte dalla guerra) e dal capo III (concessione di terreni) del [decreto legislativo luogotenenziale 26 aprile 1946, n. 240](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20a%20favore%20dei%20reduci.md), sono devolute al Ministero dell'agricoltura e delle foreste.
 
 ## Art. 8.
 
-Salvo quanto disposto dall'art. 4, sono devolute al Ministero della pubblica istruzione le attribuzioni gia' esercitate dal Ministero dell'assistenza post-bellica, ai sensi dell'[art. 15 del decreto legislativo luogotenenziale 26 aprile 1946, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-26;240#art_15), per quanto concerne la istruzione degli appartenenti alle categorie richiamate nell'articolo 2 del presente decreto (convitti, corsi, istituzioni scolastiche, borse di studio ed in genere ogni forma di assistenza nel campo degli studi).
+Salvo quanto disposto dall'art. 4, sono devolute al Ministero della pubblica istruzione le attribuzioni gia' esercitate dal Ministero dell'assistenza post-bellica, ai sensi dell'[art. 15 del decreto legislativo luogotenenziale 26 aprile 1946, n. 240](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20a%20favore%20dei%20reduci.md), per quanto concerne la istruzione degli appartenenti alle categorie richiamate nell'articolo 2 del presente decreto (convitti, corsi, istituzioni scolastiche, borse di studio ed in genere ogni forma di assistenza nel campo degli studi).
 
 ## Art. 9.
 
 Gli uffici provinciali del Ministero dell'assistenza post-bellica previsti dal decreto Ministeriale 15 maggio 1946, pubblicato nella Gazzetta Ufficiale n. 127, del 3 giugno 1946, nonche' le sezioni staccate di cui all'articolo 5 dello stesso decreto passano alle dipendenze del Ministero dell'interno. 
- I poteri attribuiti al Ministro per l'assistenza post-bellica ai sensi del primo e dell'ultimo comma dell'[art. 2 del decreto legislativo luogotenenziale 31 luglio 1945, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-31;425#art_2), e del [secondo comma dell'art. 2 del decreto legislativo luogotenenziale 28 settembre 1945, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-28;646#art_2-com2), sono demandati al Ministro per l'interno.
+ I poteri attribuiti al Ministro per l'assistenza post-bellica ai sensi del primo e dell'ultimo comma dell'[art. 2 del decreto legislativo luogotenenziale 31 luglio 1945, n. 425](../Decreti%20legislativi%20luogotenenziali/Attribuzioni%20ed%20ordinamento%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0425.md), e del [secondo comma dell'art. 2 del decreto legislativo luogotenenziale 28 settembre 1945, n. 646](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20circa%20le%20attribuzioni%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0646.md), sono demandati al Ministro per l'interno.
 
 ## Art. 10.
 
-Sono devoluti alla Presidenza del Consiglio dei Ministri le attribuzioni gia' spettanti al Ministero dell'assistenza post-bellica circa il funzionamento delle Commissioni istituite ai sensi del [decreto legislativo luogotenenziale 21 agosto 1945, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;518), concernente il riconoscimento delle qualifiche dei partigiani e l'esame delle proposte di ricompensa, nonche' i servizi relativi alle Commissioni predette. 
+Sono devoluti alla Presidenza del Consiglio dei Ministri le attribuzioni gia' spettanti al Ministero dell'assistenza post-bellica circa il funzionamento delle Commissioni istituite ai sensi del [decreto legislativo luogotenenziale 21 agosto 1945, n. 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md), concernente il riconoscimento delle qualifiche dei partigiani e l'esame delle proposte di ricompensa, nonche' i servizi relativi alle Commissioni predette. 
  La Presidenza del Consiglio dei Ministri ha altresi' il compito di promuovere l'azione dei Ministeri nelle materie gia' di competenza del Ministero dell'assistenza post-bellica, i compiti di cui ai precedenti comma sono assolti dalla Presidenza del Consiglio dei Ministri a mezzo di un Sottosegretario di Stato. 
  Il Sottosegretario predetto e' assistito da un Comitato di coordinamento, da lui presieduto e composto dei rappresentanti della Presidenza del Consiglio dei Ministri, dei Ministeri dell'interno, delle finanze e del tesoro, della difesa, della pubblica istruzione, dei lavori pubblici, dell'agricoltura e delle foreste e del lavoro e della previdenza sociale, nonche' dei rappresentanti delle associazioni ed istituzioni a carattere nazionale costituite per le categorie richiamate nell'art. 2. 
  Il Comitato ha funzioni consultive ed e' nominato con decreto del Presidente del Consiglio dei Ministri.

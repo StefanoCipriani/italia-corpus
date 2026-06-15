@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 17 ottobre 1922, n. 1401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-17;1401), che approva il testo unico delle leggi per la riscossione delle imposte dirette;
+Visto il [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), che approva il testo unico delle leggi per la riscossione delle imposte dirette;
 
 Vista la [legge 30 dicembre 1923, n. 3273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;3273), per l'applicazione della tassa sugli scambi;
 

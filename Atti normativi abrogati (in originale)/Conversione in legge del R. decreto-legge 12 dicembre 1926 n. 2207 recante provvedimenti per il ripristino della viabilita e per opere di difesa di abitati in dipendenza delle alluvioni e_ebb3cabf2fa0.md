@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-12;2207), recante provvedimenti per il ripristino della viabilita' e per opere di difesa di abitati, in dipendenza dello alluvioni e frane dell'autunno 1925 nelle provincie di Catanzaro, Cosenza e Reggio Calabria. 
+ E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2207](Provvedimenti%20per%20il%20ripristino%20della%20viabilita%20e%20la%20difesa%20di%20abitati%20in%20dipendenza%20delle%20alluvioni%20e%20frane%20dellautunno%201925%20nelle%20provincie%20di%20Catanzaro%20Cosenza%20e%20Reggio%20Calabria.%20026U2207.md), recante provvedimenti per il ripristino della viabilita' e per opere di difesa di abitati, in dipendenza dello alluvioni e frane dell'autunno 1925 nelle provincie di Catanzaro, Cosenza e Reggio Calabria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

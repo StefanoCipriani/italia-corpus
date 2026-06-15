@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 giugno 1934, n. 1282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-06-30;1282), recante provvedimenti a favore dei produttori di seme bachi da seta. 
+ E' convertito in legge il [R. decreto-legge 30 giugno 1934, n. 1282](Provvedimenti%20a%20favore%20dei%20produttori%20di%20seme%20di%20bachi%20da%20seta.%20034U1282.md), recante provvedimenti a favore dei produttori di seme bachi da seta. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e del decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

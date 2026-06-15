@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 maggio 1926, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;865), che reca provvedimenti a favore dell'industria delle costruzioni navali. 
+ E' convertito in legge il [R. decreto-legge 16 maggio 1926, n. 865](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20026U0865.md), che reca provvedimenti a favore dell'industria delle costruzioni navali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

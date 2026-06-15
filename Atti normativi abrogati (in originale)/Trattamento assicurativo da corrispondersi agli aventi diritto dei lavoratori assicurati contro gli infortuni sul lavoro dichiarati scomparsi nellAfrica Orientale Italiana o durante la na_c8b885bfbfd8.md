@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'art. 3, n. 2, della legge 31 gennaio 1926-IV, n. 100;
 
-Visti il [R. decreto 23 ottobre 1922, n. 1573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-23;1573), ed il R. decreto 27 giugno 1935-XIII, n. 1472, relativi all'assicurazione contro gli infortuni sul lavoro rispettivamente in Eritrea ed in Somalia;
+Visti il [R. decreto 23 ottobre 1922, n. 1573](Che%20approva%20le%20norme%20relative%20agli%20infortuni%20sul%20lavoro%20nella%20Colonia%20Eritrea.%20022U1573.md), ed il R. decreto 27 giugno 1935-XIII, n. 1472, relativi all'assicurazione contro gli infortuni sul lavoro rispettivamente in Eritrea ed in Somalia;
 
 Visto il R. decreto-legge 1° giugno 1936-XIV, n. 1019, sull'ordinamento e l'amministrazione dell'Africa Orientale Italiana, convertito nella legge 11 gennaio 1937-XV, n. 285;
 

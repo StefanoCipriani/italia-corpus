@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduta l'istanza 22 luglio 1916 del sindaco di Napoli diretta ad ottenere l'approvazione del piano di allargamento della via Salvator Rosa, dalla piazza omonima a via Conte della Cerra, agli effetti dell'[art. 2 della legge 11 luglio 1913, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921#art_2); 
+ Veduta l'istanza 22 luglio 1916 del sindaco di Napoli diretta ad ottenere l'approvazione del piano di allargamento della via Salvator Rosa, dalla piazza omonima a via Conte della Cerra, agli effetti dell'[art. 2 della legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md); 
  
  Veduto il progetto delle opere all'uopo necessarie, il piano particolareggiato di esecuzione e i relativi elenchi parcellari compilati tutti dall'Ispettorato municipale per le opere di risanamento di Napoli, a firma dell'ing. Pietro Rulli, approvati dal Consiglio comunale nella seduta del (cifra illeggibile) giugno 1916 e bollati il 13 luglio successivo; 
  
@@ -36,13 +36,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  1° che l'opposizione della signora Brayda, essendo stata riconosciuta fondata dallo stesso Municipio, di essa si terra' conto, quando si procedera' agli ulteriori atti di espropriazione; 
  
- 2° che invece non puo' accogliersi l'altra opposizione perche' la necessita' dell'opera progettata risulta evidente dalla stessa planimetria; il secondo tratto della via Salvator Rosa e' infatti in parecchi punti piu' stretto del primo; perche' l'apertura di una nuova via sarebbe senza dubbio assai piu' dispendiosa; perche' l'[art. 1 della legge 11 luglio 1913, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921#art_1), conferma espressamente la facolta' di applicare la [legge 25 gennaio 1885, n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-25;2892), in casi di ampliamento della citta'; perche' infine dei rilievi circa l'indicazione e la descrizione degli immobili si dovra' tener conto quando si procedera' alle offerte di prezzo, il quale - in difetto di fitti accertati - va fissato, come prescrive la citata legge dell'85, sull'imponibile netto agli effetti delle imposte sui terreni e fabbricati; 
+ 2° che invece non puo' accogliersi l'altra opposizione perche' la necessita' dell'opera progettata risulta evidente dalla stessa planimetria; il secondo tratto della via Salvator Rosa e' infatti in parecchi punti piu' stretto del primo; perche' l'apertura di una nuova via sarebbe senza dubbio assai piu' dispendiosa; perche' l'[art. 1 della legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md), conferma espressamente la facolta' di applicare la [legge 25 gennaio 1885, n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-25;2892), in casi di ampliamento della citta'; perche' infine dei rilievi circa l'indicazione e la descrizione degli immobili si dovra' tener conto quando si procedera' alle offerte di prezzo, il quale - in difetto di fitti accertati - va fissato, come prescrive la citata legge dell'85, sull'imponibile netto agli effetti delle imposte sui terreni e fabbricati; 
  
  Veduta la deliberazione 27 agosto 1915 con cui il Consiglio comunale stabili' di far gravare la spesa per le opere in parola, preventivata in lire 1.240.400 (un milione duecentoquaranta mila quattrocento lire) sul bilancio comunale, ripartendola in due esercizi; 
  
  Udito il parere del Consiglio superiore dei lavori pubblici e del Consiglio di Stato; 
  
- Veduto l'[art. 2 della legge 11 luglio 1913, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921#art_2); 
+ Veduto l'[art. 2 della legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md); 
  
  Sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri; 
  

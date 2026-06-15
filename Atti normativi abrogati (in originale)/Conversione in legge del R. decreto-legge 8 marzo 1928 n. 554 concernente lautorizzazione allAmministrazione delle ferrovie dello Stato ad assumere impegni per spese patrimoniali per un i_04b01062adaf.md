@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 marzo 1928, n. 554](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-03-08;554), contenente l'autorizzazione all'Amministrazione delle ferrovie dello Stato ad assumere impegni per spese patrimoniali per un importo di 630,000,000 di lire. 
+ E' convertito in legge il [R. decreto-legge 8 marzo 1928, n. 554](Autorizzazione%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20ad%20assumere%20impegni%20per%20spese%20patrimoniali%20per%20limporto%20di%20seicentotrenta%20milioni%20di%20lire.%20028U0554.md), contenente l'autorizzazione all'Amministrazione delle ferrovie dello Stato ad assumere impegni per spese patrimoniali per un importo di 630,000,000 di lire. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

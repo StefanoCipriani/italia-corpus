@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I termini fissati dall'[articolo 38 del Regio Decreto 30 novembre 1865, n. 2606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-11-30;2606#art_38), sono prorogati a tutto dicembre
+I termini fissati dall'[articolo 38 del Regio Decreto 30 novembre 1865, n. 2606](contenente%20disposizioni%20transitorie%20per%20lattuazione%20del%20Codice%20civile%20del%20Regno%20dItalia.%20065U2606.md), sono prorogati a tutto dicembre
 
 1868.
 

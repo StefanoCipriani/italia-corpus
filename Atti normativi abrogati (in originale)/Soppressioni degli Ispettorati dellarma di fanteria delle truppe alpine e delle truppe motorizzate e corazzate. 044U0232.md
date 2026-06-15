@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita', a Noi delegata;
 
-Vista la [legge 9 maggio 1940, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;368), sull'ordinamento del Regio esercito, modificata dalla [legge 22 gennaio 1942, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-22;104):
+Vista la [legge 9 maggio 1940, n. 368](Ordinamento%20del%20Regio%20esercito.%20040U0368.md), sull'ordinamento del Regio esercito, modificata dalla [legge 22 gennaio 1942, n. 104](Aggiornamenti%20alla%20legge%209%20maggio%201940-XVIII%20n.%20368%20sullordinamento%20del%20Regio%20esercito.%20042U0104.md):
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per la guerra, d'intesa con il Ministro per il tesor
 
 ## Art. 1.
 
-Nell'ordinamento del Regio esercito, quale risulta dalla [legge 9 maggio 1940, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;368), e successive modificazioni, sono soppressi l'Ispettorato dell'arma di fanteria, l'Ispettorato delle truppe alpine e l'Ispettorato delle truppe motorizzate e corazzate.
+Nell'ordinamento del Regio esercito, quale risulta dalla [legge 9 maggio 1940, n. 368](Ordinamento%20del%20Regio%20esercito.%20040U0368.md), e successive modificazioni, sono soppressi l'Ispettorato dell'arma di fanteria, l'Ispettorato delle truppe alpine e l'Ispettorato delle truppe motorizzate e corazzate.
 
 ## Art. 2.
 

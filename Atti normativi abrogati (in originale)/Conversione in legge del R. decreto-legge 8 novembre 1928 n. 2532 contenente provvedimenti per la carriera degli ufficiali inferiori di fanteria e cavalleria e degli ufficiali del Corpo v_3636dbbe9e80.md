@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 novembre 1928, n. 2532](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-08;2532), contenente provvedimenti per la carriera degli ufficiali inferiori di fanteria e cavalleria e degli ufficiali del Corpo veterinario militare. 
+ E' convertito in legge il [R. decreto-legge 8 novembre 1928, n. 2532](Provvedimenti%20per%20la%20carriera%20degli%20ufficiali%20inferiori%20di%20fanteria%20e%20cavalleria%20e%20degli%20ufficiali%20del%20Corpo%20veterinario%20militare.%20028U2532.md), contenente provvedimenti per la carriera degli ufficiali inferiori di fanteria e cavalleria e degli ufficiali del Corpo veterinario militare. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

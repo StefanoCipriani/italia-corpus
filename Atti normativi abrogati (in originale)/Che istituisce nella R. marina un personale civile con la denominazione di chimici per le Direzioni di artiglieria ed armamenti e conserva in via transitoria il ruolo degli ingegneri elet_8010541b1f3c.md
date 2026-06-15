@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 5 luglio 1908, n. 366](Miglioramenti%20economici%20per%20il%20personale%20civile%20tecnico%20della%20R.%20marina.%20008U0366.md);
 
-Visto il [R. decreto 14 maggio 1908, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-14;232);
+Visto il [R. decreto 14 maggio 1908, n. 232](Che%20approva%20lannesso%20riordinamento%20dellIstituto%20idrografico%20della%20R.%20marina.%20008U0232.md);
 
 Udito il Consiglio dei ministri;
 

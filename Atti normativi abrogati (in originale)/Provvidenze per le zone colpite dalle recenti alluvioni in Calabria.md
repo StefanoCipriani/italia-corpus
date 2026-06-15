@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ### Art. 1.
 
 Il Ministero dei lavori pubblici e' autorizzato a provvedere, in dipendenza delle alluvioni verificatesi nello autunno 1953 in Calabria:
- a) agli interventi di pronto soccorso, ai sensi del [decreto legislativo 12 aprile 1948, n. 1010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;1010);
+ a) agli interventi di pronto soccorso, ai sensi del [decreto legislativo 12 aprile 1948, n. 1010](../Decreti%20Legislativi/Autorizzazione%20al%20Ministero%20dei%20lavori%20pubblici%20a%20provvedere%20a%20sua%20cura%20e%20spese%20ai%20lavori%20di%20carattere%20urgente%20ed%20inderogabile%20dipendenti%20da%20necessita%20di%20pubblico%20interesse%20determinate%20da_849e4a6b6d55.md);
  b) al ripristino delle opere pubbliche danneggiate di conto dello Stato;
  c) al ripristino delle opere idrauliche di seconda categoria; al ripristino delle opere idrauliche di terza categoria non ancora consegnate ai consorzi ai sensi dell'[art. 44 del testo unico 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-07-25;523#art_44), modificato dalla [legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md), e dal [regio decreto 28 febbraio 1935, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-02-28;248);
  d) alle opere di ripristino degli acquedotti, fognature ed altre opere igieniche, di scuole materne ed elementari, di case comunali, di chiese parrocchiali e relative case canoniche, di strade vicinali, comunali e provinciali;
@@ -58,12 +58,12 @@ Gli atti ed i contratti relativi alle opere previste nei precedenti articoli son
 
 ### Art. 7.
 
-Per gli adempimenti previsti nei precedenti articoli e' autorizzata una prima spesa di lire 17 miliardi, comprese in essa le somme gia' erogate dal Provveditorato alle opere pubbliche della Calabria per gli interventi di pronto soccorso ai sensi del [decreto legislativo 12 aprile 1948, n. 1010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;1010). Detta spesa sara' stanziata nello stato di previsione del Ministero dei lavori pubblici per l'ammontare di lire 6 miliardi nell'esercizio finanziario 1953-54, e per l'ammontare di lire 11 miliardi nell'esercizio finanziario 1954-55. Le somme eventualmente non impegnate in uno dei detti esercizi saranno utilizzate in quelli successivi.
+Per gli adempimenti previsti nei precedenti articoli e' autorizzata una prima spesa di lire 17 miliardi, comprese in essa le somme gia' erogate dal Provveditorato alle opere pubbliche della Calabria per gli interventi di pronto soccorso ai sensi del [decreto legislativo 12 aprile 1948, n. 1010](../Decreti%20Legislativi/Autorizzazione%20al%20Ministero%20dei%20lavori%20pubblici%20a%20provvedere%20a%20sua%20cura%20e%20spese%20ai%20lavori%20di%20carattere%20urgente%20ed%20inderogabile%20dipendenti%20da%20necessita%20di%20pubblico%20interesse%20determinate%20da_849e4a6b6d55.md). Detta spesa sara' stanziata nello stato di previsione del Ministero dei lavori pubblici per l'ammontare di lire 6 miliardi nell'esercizio finanziario 1953-54, e per l'ammontare di lire 11 miliardi nell'esercizio finanziario 1954-55. Le somme eventualmente non impegnate in uno dei detti esercizi saranno utilizzate in quelli successivi.
  Con decreto del Ministro per il tesoro saranno stabilite le somme da destinare agli oneri di carattere generale dipendenti dalla esecuzione delle opere autorizzate dai precedenti articoli.
 
 ### Art. 8.
 
-Le disposizioni contenute nell'[art. 6 del regio decreto - legge 7 luglio 1925, n. 1173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-07;1173#art_6), convertito in legge con la [legge 8 maggio 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-08;562), sono applicabili per la durata di due anni dalla data di entrata in vigore della presente legge.
+Le disposizioni contenute nell'[art. 6 del regio decreto - legge 7 luglio 1925, n. 1173](Istituzione%20dei%20Provveditorati%20alle%20opere%20pubbliche%20pel%20Mezzogiorno%20e%20le%20Isole.%20025U1173.md), convertito in legge con la [legge 8 maggio 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-08;562), sono applicabili per la durata di due anni dalla data di entrata in vigore della presente legge.
 
 ### Art. 9.
 
@@ -149,7 +149,7 @@ Il Ministro per le finanze e' autorizzato a sospendere, con proprio decreto, da 
 
 ### Art. 25.
 
-Alle Amministrazioni delle province e dei comuni, nei quali sia disposta la sospensione del pagamento dei tributi, ai sensi dell'articolo precedente, possono essere concessi, fino al 31 dicembre 1955, contributi integrativi da parte dello Stato, qualora, nonostante la applicazione degli articoli 332 e 336 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), non possano conseguire il pareggio economico dei propri bilanci.
+Alle Amministrazioni delle province e dei comuni, nei quali sia disposta la sospensione del pagamento dei tributi, ai sensi dell'articolo precedente, possono essere concessi, fino al 31 dicembre 1955, contributi integrativi da parte dello Stato, qualora, nonostante la applicazione degli articoli 332 e 336 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), non possano conseguire il pareggio economico dei propri bilanci.
  I relativi provvedimenti sono adottati, su proposta della Commissione centrale per la finanza locale, in sede di approvazione o di eventuale revisione dei bilanci per l'anno 1953 e di approvazione dei bilanci per gli anni 1954 e 1955 degli enti interessati, con decreto del Ministro per l'interno, di concerto con quelli per le finanze e per il tesoro.
 
 ### Art. 26.

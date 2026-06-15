@@ -10,19 +10,19 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 31 dicembre 1928, n. 3458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-31;3458), che approva il testo unico delle disposizioni concernenti gli stipendi e assegni fissi dell'Esercito;
+Visto il [regio decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), che approva il testo unico delle disposizioni concernenti gli stipendi e assegni fissi dell'Esercito;
 
-Visto il [regio decreto-legge 23 marzo 1944, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-23;103), che stabilisce le paglie ordinarie dei militari di truppa dell'Esercito;
+Visto il [regio decreto-legge 23 marzo 1944, n. 103](Paghe%20ordinarie%20dei%20Militari%20di%20truppa%20del%20R.%20Esercito%20della%20R.%20Marina%20e%20della%20R.%20Aeronautica.%20044U0103.md), che stabilisce le paglie ordinarie dei militari di truppa dell'Esercito;
 
-Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;650);
+Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 650](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20paghe%20dei%20graduati%20e%20militari%20di%20truppa%20delle%20Forze%20armate.%20045U0650.md);
 
-Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-07;574);
+Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 574](../Decreti%20legislativi%20luogotenenziali/Aumento%20temporaneo%20della%20indennita%20militare%20per%20gli%20ufficiali%20e%20sottufficiali%20in%20servizio%20permanente%20effettivo%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20_fd707601dbac.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
 Visto l'[art. 4 del decreto legislativo Presidenziale 10 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-10;1#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -44,13 +44,13 @@ Le paghe ordinarie giornaliere dei graduati e militari di truppa dell'Esercito s
  f) dopo undici anni di servizio, lire 110.
 
  A decorrere dalla stessa data sono soppressi:
- l'integrazione temporanea e l'aumento dell'integrazione stessa di cui al [decreto legislativo luogotenenziale 31 agosto 1945, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;650);
- l'indennita' di lire 120 nette istituita con il [decreto legislativo luogotenenziale 7 settembre 1945, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-07;574);
+ l'integrazione temporanea e l'aumento dell'integrazione stessa di cui al [decreto legislativo luogotenenziale 31 agosto 1945, n. 650](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20paghe%20dei%20graduati%20e%20militari%20di%20truppa%20delle%20Forze%20armate.%20045U0650.md);
+ l'indennita' di lire 120 nette istituita con il [decreto legislativo luogotenenziale 7 settembre 1945, n. 574](../Decreti%20legislativi%20luogotenenziali/Aumento%20temporaneo%20della%20indennita%20militare%20per%20gli%20ufficiali%20e%20sottufficiali%20in%20servizio%20permanente%20effettivo%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20_fd707601dbac.md);
  tutti i soprassoldi speciali connessi con la paga.
 
 ## Art. 2.
 
-A decorrere del 1° ottobre 1945, l'[art. 91 del regio decreto 31 dicembre 1928, n. 3458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-31;3458#art_91), e' sostituito dal seguente:
+A decorrere del 1° ottobre 1945, l'[art. 91 del regio decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), e' sostituito dal seguente:
  "Ai caporali e soldati vincolati con rafferma o ferma speciale, che siano ammogliati o vedovi con prole, convivente ed a carico, minore od inabile al lavoro, e' concessa una indennita' speciale di lire 750 mensili, oltre una indennita' supplementare di lire 300 pure mensili per la moglie e per ogni figlio convivente ed a carico, minore o inabile al lavoro.
  L'indennita' di cui sopra e' ridotta a lire 300 per i militari provvisti di alloggio in natura, ferme restando le indennita' supplementari".
 

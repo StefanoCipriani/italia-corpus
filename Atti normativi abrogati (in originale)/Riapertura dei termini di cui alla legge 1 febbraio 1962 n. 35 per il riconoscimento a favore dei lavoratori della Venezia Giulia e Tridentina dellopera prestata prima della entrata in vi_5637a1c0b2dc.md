@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Le disposizioni di cui alla [legge 1 febbraio 1962, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-02-01;35), concernenti il riconoscimento a favore dei lavoratori della Venezia Giulia e Tridentina dell'opera prestata prima dell'entrata in vigore del [regio decreto-legge 29 novembre 1925, n. 2146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-29;2146), ai fini dell'assicurazione obbligatoria invalidita', vecchiaia e superstiti e dei fondi speciali sostitutivi, sono richiamate in vigore per un anno dal giorno successivo a quello della pubblicazione della presente legge nella Gazzetta Ufficiale della Repubblica.
+Le disposizioni di cui alla [legge 1 febbraio 1962, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-02-01;35), concernenti il riconoscimento a favore dei lavoratori della Venezia Giulia e Tridentina dell'opera prestata prima dell'entrata in vigore del [regio decreto-legge 29 novembre 1925, n. 2146](Estensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazione%20sociale.%20025U2146.md), ai fini dell'assicurazione obbligatoria invalidita', vecchiaia e superstiti e dei fondi speciali sostitutivi, sono richiamate in vigore per un anno dal giorno successivo a quello della pubblicazione della presente legge nella Gazzetta Ufficiale della Repubblica.
 
  La presente legge, munita del sigillo dallo Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[articolo 24 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_24), modificato dall' [articolo 1 della legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372#art_1); 
+ Visto l'[articolo 24 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dall' [articolo 1 della legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md); 
  
- Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738); 
+ Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md); 
  
  Visto che il fondo di riserva istituito per le spese impreviste dell'Amministrazione delle ferrovie dello Stato, depositato in conto corrente presso la tesoreria centrale del Regno, presentava al 30 giugno u. s., una disponibilita' di lire 51,794,623 22; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Dal fondo di riserva per le spese impreviste, depositato in conto corrente presso la tesoreria centrale del Regno, a termini dell'[art. 24 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_24), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372#art_1), e' autorizzata la prelevazione di lire ventuno milioni settecentonovantaquattromilaseicentoventitre e centesimi ventidue (L. 21.794.623,22) da versarsi all'Amministrazione delle ferrovie dello Stato con imputazione al capitolo 22 dello stato di previsione dell'entrata dell'Amministrazione medesima per l'esercizio finanziario 1916-917 e da portarsi in aumento ai seguenti capitoli di spesa: 
+ Dal fondo di riserva per le spese impreviste, depositato in conto corrente presso la tesoreria centrale del Regno, a termini dell'[art. 24 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md), e' autorizzata la prelevazione di lire ventuno milioni settecentonovantaquattromilaseicentoventitre e centesimi ventidue (L. 21.794.623,22) da versarsi all'Amministrazione delle ferrovie dello Stato con imputazione al capitolo 22 dello stato di previsione dell'entrata dell'Amministrazione medesima per l'esercizio finanziario 1916-917 e da portarsi in aumento ai seguenti capitoli di spesa: 
  
  Cap. n. 2. Direzione generale - Forniture, spese 
  ed acquisti . . . . . . . . . . . . . . . . 71,340 98  
@@ -57,7 +57,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  » 32. Consiglio generale, Commissioni compar- 
  timentali del traffico e Commissioni di- 
  verse, ([art. 61 della legge 7 luglio 1907, 
- n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_61)). . . . . . . . . . . . . . . . . . 10,193 99  
+ n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md)). . . . . . . . . . . . . . . . . . 10,193 99  
  » 34. Imposte e tasse . . . . . . . . . . . . 1,508,679 49  
  » 35. Contributo al fondo pensioni o sussidi. 690,635 37  
  » 35-bis. Contributo al fondo Opera di previ- 
@@ -67,7 +67,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  al personale . . . . . . . . . . . . . . . 154,232 89  
  » 39. Oblazioni e sussidi al personale . . . 317,696 63  
  » 40. Spese per il servizio sanitario ([art. 8 
- della legge 9 luglio 1908, n. 418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;418#art_8)) . . . . 359,073 01  
+ della legge 9 luglio 1908, n. 418](Provvedimenti%20per%20le%20pensioni%20e%20per%20il%20trattamento%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20008U0418.md)) . . . . 359,073 01  
  » 46. Contributo nelle spese delle stazioni 
  e dei tronchi di uso comune colle altre 
  Amministrazioni: . . . . . . . . . . . . . 107,833 34  

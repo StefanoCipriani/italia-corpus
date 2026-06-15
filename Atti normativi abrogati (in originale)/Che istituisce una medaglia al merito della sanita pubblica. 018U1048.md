@@ -22,7 +22,7 @@ La medaglia del diametro di mm. 30 portera' da una parte l'effige di Sua Maesta'
 
 ## Art. 3.
 
-La medaglia di cui ai precedenti articoli, sara' conferita da Sua Maesta' il Re sulla proposta del ministro dell'interno, sentita la Commissione istituita con il [R. decreto 5 marzo 1914, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-03-05;184). 
+La medaglia di cui ai precedenti articoli, sara' conferita da Sua Maesta' il Re sulla proposta del ministro dell'interno, sentita la Commissione istituita con il [R. decreto 5 marzo 1914, n. 184](Riguardante%20il%20conferimento%20di%20ricompense%20ai%20benemeriti%20della%20salute%20pubblica.%20014U0184.md). 
  
  Il decreto di conferimento sara' pubblicato per sunto nella Gazzetta ufficiale del Regno.
 

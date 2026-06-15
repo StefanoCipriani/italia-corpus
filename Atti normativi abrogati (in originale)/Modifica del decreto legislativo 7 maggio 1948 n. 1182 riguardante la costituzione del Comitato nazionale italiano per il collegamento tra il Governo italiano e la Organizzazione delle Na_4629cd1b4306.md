@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il [terzo comma dell'art. 6 del decreto legislativo 7 maggio 1948, n. 1182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1182#art_6-com3), e' sostituito dal seguente:
+Il [terzo comma dell'art. 6 del decreto legislativo 7 maggio 1948, n. 1182](../Decreti%20Legislativi/Costituzione%20del%20Comitato%20nazionale%20italiano%20per%20il%20collegamento%20tra%20il%20Governo%20italiano%20e%20la%20Organizzazione%20delle%20Nazioni%20Unite%20per%20lalimentazione%20e%20lagricoltura.md), e' sostituito dal seguente:
  "Il Collegio amministrativo predispone il regolamento per il funzionamento e la gestione del Segretariato, stabilendo anche la consistenza numerica, le modalita' di assunzione, le norme sullo stato giuridico ed il trattamento economico, di previdenza e di quiescenza del personale assunto direttamente dal Comitato.
  Il regolamento e' sottoposto all'esame del Comitato che lo rimette all'approvazione del Ministero dell'agricoltura e delle foreste, il quale vi provvede di concerto con quello del tesoro".
 

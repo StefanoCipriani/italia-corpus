@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 luglio 1926, n. 1411](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1411), concernente sovvenzioni per l'utilizzazione dei combustibili nazionali ed assegnazione per studi ed esperienze sulla utilizzazione dei combustibili nazionali ed esteri. 
+ E' convertito in legge il [R. decreto-legge 9 luglio 1926, n. 1411](Sovvenzioni%20per%20lutilizzazione%20dei%20combustibili%20nazionali%20ed%20assegnazione%20per%20studi%20ed%20esperienze%20sulla%20utilizzazione%20dei%20combustibili%20nazionali%20ed%20esteri.%20026U1411.md), concernente sovvenzioni per l'utilizzazione dei combustibili nazionali ed assegnazione per studi ed esperienze sulla utilizzazione dei combustibili nazionali ed esteri. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

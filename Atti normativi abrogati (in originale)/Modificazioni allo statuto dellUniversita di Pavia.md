@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), modificato con i [regi decreti 13 ottobre 1927, n. 2229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), [30 ottobre 1930, n. 1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1931), [22 ottobre 1931, n. 1463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;1463), [27 ottobre 1932, n. 2079](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2079), [27 dicembre 1934, n. 2435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-27;2435), [1 ottobre 1936, n. 2472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2472), [20 aprile 1939, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1068);
+Visto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Pavia.%20026U2130.md), modificato con i [regi decreti 13 ottobre 1927, n. 2229](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Pavia.%20027U2229.md), [30 ottobre 1930, n. 1931](Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Pavia.%20030U1931.md), [22 ottobre 1931, n. 1463](Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Pavia.%20031U1463.md), [27 ottobre 1932, n. 2079](Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Pavia.%20032U2079.md), [27 dicembre 1934, n. 2435](Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Pavia.%20034U2435.md), [1 ottobre 1936, n. 2472](Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Pavia.%20036U2472.md), [20 aprile 1939, n. 1068](Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Pavia.%20039U1068.md);
 
 Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Visto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
 
-Visto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Visto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Visto il [regio decreto-legge 27 gennaio 1944, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);
 

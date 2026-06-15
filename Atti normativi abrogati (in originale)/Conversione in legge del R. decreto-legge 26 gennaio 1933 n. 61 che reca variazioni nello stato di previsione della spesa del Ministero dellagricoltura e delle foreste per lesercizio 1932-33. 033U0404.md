@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 gennaio 1933, n. 61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-26;61), che reca variazioni nello stato di previsione della spesa, del Ministero dell'agricoltura e delle foreste per l'esercizio 1932-33. 
+ E' convertito in legge il [R. decreto-legge 26 gennaio 1933, n. 61](Variazioni%20allo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste%20per%20lesercizio%201932-33.%20033U0061.md), che reca variazioni nello stato di previsione della spesa, del Ministero dell'agricoltura e delle foreste per l'esercizio 1932-33. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

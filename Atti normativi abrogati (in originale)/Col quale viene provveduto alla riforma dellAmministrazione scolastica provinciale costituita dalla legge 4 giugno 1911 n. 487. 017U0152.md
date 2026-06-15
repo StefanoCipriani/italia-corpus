@@ -20,17 +20,17 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Riconosciuta la necessita' di semplificare l'ordinamento dell'Amministrazione scolastica provinciale costituita dalla [legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487), riducendo il numero dei membri dei Consigli e delle Deputazioni scolastiche e deferendo a queste ultime e ai Regi provveditori agli studi talune attribuzioni rispettivamente di competenza dei Consigli e delle Deputazioni;
+Riconosciuta la necessita' di semplificare l'ordinamento dell'Amministrazione scolastica provinciale costituita dalla [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), riducendo il numero dei membri dei Consigli e delle Deputazioni scolastiche e deferendo a queste ultime e ai Regi provveditori agli studi talune attribuzioni rispettivamente di competenza dei Consigli e delle Deputazioni;
 
 Udito il Consiglio dei ministri;
 
-Vedute le disposizioni degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_3), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_8), [9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_9) e [10 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_10); 5, 6 e 7 della [legge 8 luglio 1904, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;407); 2 del [regolamento 19 aprile 1906, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1906-04-19;350); 77, 93, 123, 315, 316, 322 e 336 del [regolamento 6 febbraio 1908, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-02-06;150); 7 e 13 del [regolamento 1° febbraio 1912, n. 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1912-02-01;180); 38, 44, 70 e 117 del [regolamento 6 aprile 1913, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-04-06;549); 117 del [regolamento 6 aprile 1913, n. 552](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-04-06;552) e [15 del regolamento 22 giugno 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;15), [n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1216);
+Vedute le disposizioni degli [articoli 2](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), [3](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), [8](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), [9](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md) e [10 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md); 5, 6 e 7 della [legge 8 luglio 1904, n. 407](Portante%20provvedimenti%20per%20la%20scuola%20e%20pei%20maestri%20elementari.%20004U0407.md); 2 del [regolamento 19 aprile 1906, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1906-04-19;350); 77, 93, 123, 315, 316, 322 e 336 del [regolamento 6 febbraio 1908, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-02-06;150); 7 e 13 del [regolamento 1° febbraio 1912, n. 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1912-02-01;180); 38, 44, 70 e 117 del [regolamento 6 aprile 1913, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-04-06;549); 117 del [regolamento 6 aprile 1913, n. 552](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-04-06;552) e [15 del regolamento 22 giugno 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;15), [n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1216);
 
 Sulla proposta del ministro segretario di Stato per la istruzione pubblica; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-All'art. 2, 1° e [2° comma, della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_com2), e' sostituito il seguente: 
+All'art. 2, 1° e [2° comma, della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), e' sostituito il seguente: 
  
  «Il Consiglio scolastico e' composto di 11 membri: 
  
@@ -54,13 +54,13 @@ All'art. 2, 1° e [2° comma, della legge 4 giugno 1911, n. 487](https://www.nor
 
 ## Art. 2.
 
-L'[articolo 3, comma 5°, della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_3-com5), e' modificato come segue: 
+L'[articolo 3, comma 5°, della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), e' modificato come segue: 
  
  «Per la validita' dell'adunanza di prima convocazione occorre la presenza di almeno sette consiglieri; per la validita' della adunanza di seconda convecazione basta la presenza di cinque consiglieri».
 
 ## Art. 3.
 
-L'[articolo 8, commi 1°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_8-com1), [2°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_8-com2), [3°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_8-com3) e [5° della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_8-com5), e' modificato come segue: 
+L'[articolo 8, commi 1°](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), [2°](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), [3°](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md) e [5° della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), e' modificato come segue: 
  
  «La Deputazione scolastica e' composta di cinque membri del Consiglio scolastico: 
  
@@ -82,7 +82,7 @@ L'[articolo 8, commi 1°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:l
 
 Spetta alla Deputazione scolastica: 
  
- di deliberare sui riordinamenti di scuole previsti dagli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;33#art_5) e [6 della legge 8 luglio 1904, nn. 407 e 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;33#art_6) e seguenti della [legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487); 
+ di deliberare sui riordinamenti di scuole previsti dagli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;33#art_5) e [6 della legge 8 luglio 1904, nn. 407 e 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;33#art_6) e seguenti della [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md); 
  
  sulle proposte della Giunta municipale ai sensi dell'[art. 93 del regolamento 6 febbraio 1908, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-02-06;150#art_93), circa la data di apertura e chiusura delle scuole; 
  
@@ -98,7 +98,7 @@ Spetta alla Deputazione scolastica:
 
 ## Art. 5.
 
-Il [comma 2° dell'art. 10 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_10-com2) e' modificato come segue: 
+Il [comma 2° dell'art. 10 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md) e' modificato come segue: 
  
  «Alle adunanze del Consiglio di disciplina interviene, con diritto di voto, anche l'altro insegnante elementare, membro del Consiglio scolastico, che non fa parte della Deputazione, quando sia sottoposto a giudizio disciplinare un insegnante elementare; o il direttore didattico, qualora non faccia parte della Deputazione, quando sia sottoposto a giudizio disciplinare un direttore didattico».
 
@@ -112,7 +112,7 @@ Spetta al R. Provveditore agli studi:
 
 ## Art. 7.
 
-Entro un mese dalla pubblicazione del presente decreto nella Gazzetta ufficiale del Regno i Consigli scolastici provvederanno al sorteggio di quello tra i membri indicati ai [nn. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_2-num8) e [9 dell'art. 2, comma 1° della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_2-com1-num9), e di quelli fra i membri, di cui al n. 10 dell'articolo stesso che devono cessare di far parte del Consiglio. Successivamente i Consigli provvederanno alla elezione di quelli fra i componenti indicati ai nn. 3 e 5 dell'art. 3 del presente decreto che devono far parte della Deputazione. 
+Entro un mese dalla pubblicazione del presente decreto nella Gazzetta ufficiale del Regno i Consigli scolastici provvederanno al sorteggio di quello tra i membri indicati ai [nn. 8](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md) e [9 dell'art. 2, comma 1° della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), e di quelli fra i membri, di cui al n. 10 dell'articolo stesso che devono cessare di far parte del Consiglio. Successivamente i Consigli provvederanno alla elezione di quelli fra i componenti indicati ai nn. 3 e 5 dell'art. 3 del presente decreto che devono far parte della Deputazione. 
  
  Decorso il termine suindicato senza che il Consiglio abbia proceduto al sorteggio, questo sara' fatto dalla Deputazione scolastica. 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto n. 31 in data 14 gennaio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-14;31) che istituisce la Milizia volontaria per la sicurezza nazionale;
+Visto il [R. decreto n. 31 in data 14 gennaio 1923](Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md) che istituisce la Milizia volontaria per la sicurezza nazionale;
 
 Visto il [R. decreto 8 marzo 1923, n. 831](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-08;831) che approva il regolamento di disciplina per la Milizia volontaria per la sicurezza nazionale;
 
@@ -28,7 +28,7 @@ Visto il [R. decreto 13 dicembre 1923, n. 3110](https://www.normattiva.it/uri-re
 
 Visto il [R. decreto 13 dicembre 1923, n. 3110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-13;3110) relativo ai capi squadra e ai vice capi squadra della Milizia volontaria per la sicurezza nazionale dislocati nelle Colonie;
 
-Visto il [R. decreto 22 gennaio 1914, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-22;147) che regola l'ordinamento militare in Tripolitania e Cirenaica, e successive disposizioni;
+Visto il [R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md) che regola l'ordinamento militare in Tripolitania e Cirenaica, e successive disposizioni;
 
 Visto la [legge 24 maggio 1903, n. 205 e il decreto 22 settembre 1905](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-09-22;205) che regolano l'ordinamento amministrativo dell'Eritrea e successive disposizioni;
 
@@ -36,9 +36,9 @@ Visto la [legge 5 aprile 1908, n. 161 e il decreto 4 luglio 1910, n. 562](https:
 
 Visto il [R. decreto n. 1784 in data 16 novembre 1922](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-11-16;1784) e quello n. 1160 in data 22 aprile 1923 sulle pensioni privilegiate di guerra nella Tripolitania e nella Cirenaica;
 
-Visti i [Regi decreti 31 ottobre 1923, nn. 2504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2504) e [2505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2505) sul nuovo trattamento economico coloniale;
+Visti i [Regi decreti 31 ottobre 1923, nn. 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md) e [2505](Trattamento%20degli%20ufficiali%20del%20Regio%20esercito%20che%20prestano%20in%20colonia%20servizio%20di%20carattere%20militare.%20023U2505.md) sul nuovo trattamento economico coloniale;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395) sull'ordinamento gerarchico delle Amministrazioni dello Stato e le successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) sull'ordinamento gerarchico delle Amministrazioni dello Stato e le successive modificazioni;
 
 Sentito il Consiglio dei ministri;
 
@@ -128,7 +128,7 @@ Le spese di prima vestizione della Milizia sono a carico dei fendi stanziati nel
 
 ## Art. 10.
 
-Dall'imbarco per la Colonia di destinazione, fino allo sbarco per il rimpatrio, i volontari della Milizia sono soggetti, oltre che al [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per il Regio esercito, anche al regolamento di disciplina per il Rego esercito. 
+Dall'imbarco per la Colonia di destinazione, fino allo sbarco per il rimpatrio, i volontari della Milizia sono soggetti, oltre che al [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per il Regio esercito, anche al regolamento di disciplina per il Rego esercito. 
  
  Durante il suddetto periodo di tempo, esiste obbligo di reciproca subordinazione, ad ogni effetto discipinare e penale, secondo le norme all'uopo emanate dal Governo coloniale, fra appartenenti alla Milizia ed appartenenti al Regio esercito, alla Regia marina, alla Regia guardia di finanza, alla Regia aeronautica. 
  

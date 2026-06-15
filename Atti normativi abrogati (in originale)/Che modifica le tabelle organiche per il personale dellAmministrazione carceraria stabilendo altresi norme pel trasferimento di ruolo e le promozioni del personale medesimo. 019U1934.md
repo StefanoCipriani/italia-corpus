@@ -20,7 +20,7 @@ Visto il regolamento generale per l'esecuzione del [testo unico delle leggi per 
 
 Vista la [legge 30 giugno 1908, n. 304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;304) portante provvedimenti per il miglioramento economico degli impiegati civili delle amministrazioni centrali e delle amministrazioni dipendenti.
 
-Visto il [R. decreto 15 luglio 1909, n. 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-07-15;541), che approva il regolamento speciale per la carriera degli impiegati l'Amministrazione degli stabilimenti carcerari e dei Riformatori governativi e pel personale ad essa aggregato;
+Visto il [R. decreto 15 luglio 1909, n. 541](Che%20approva%20il%20regolamento%20per%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20per%20il%20personale%20ad%20essa%20aggregato.%20009U0541.md), che approva il regolamento speciale per la carriera degli impiegati l'Amministrazione degli stabilimenti carcerari e dei Riformatori governativi e pel personale ad essa aggregato;
 
 Vista la [legge 11 giugno 1914, n. 503](Riguardante%20i%20provvedimenti%20per%20il%20personale%20di%20educazione%20e%20di%20sorveglianza%20nei%20riformatori%20per%20il%20personale%20di%20ragioneria%20nellAmministrazione%20delle%20carceri%20e%20dei%20riformatori%20per%20il%20pers_91e5463a8f0b.md), relativa al personale di ragioneria nell'Amministrazione delle carceri e dei Riformatori;
 

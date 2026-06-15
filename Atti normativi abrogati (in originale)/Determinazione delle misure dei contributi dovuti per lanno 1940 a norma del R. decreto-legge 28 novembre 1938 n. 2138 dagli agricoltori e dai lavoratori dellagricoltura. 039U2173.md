@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'[art. 8, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il 3° comma dell'articolo unico del [R. decreto-legge 28 novembre 1938, n. 2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
+Visto il 3° comma dell'articolo unico del [R. decreto-legge 28 novembre 1938, n. 2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
 Ritenuta la necessita' di determinare per l'anno 1940 le misure dei contributi previsti dal predetto Regio decreto-legge a carico degli agricoltori e dei lavoratori dell'agricoltura ragguagliando le aliquote vigenti, in quote per giornata di lavoro;
 

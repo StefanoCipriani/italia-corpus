@@ -16,13 +16,13 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee, approvato con [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni ed aggiunte, nonche' il relativo regolamento approvato con [R. decreto 6 aprile 1922, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-06;547), successivamente modificato;
+Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee, approvato con [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni ed aggiunte, nonche' il relativo regolamento approvato con [R. decreto 6 aprile 1922, n. 547](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), successivamente modificato;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Ritenuta la necessita' urgente ed assoluta di nuovi provvedimenti in materia di temporanee importazioni ed esportazioni;
 
-Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1313#art_1), successivamente modificato;
+Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), successivamente modificato;
 
 Sentito il Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Alle merci ammesse alla temporanea importazione per essere lavorate, giusta la tabella 1a , annessa al [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sono aggiunte le seguenti: 
+Alle merci ammesse alla temporanea importazione per essere lavorate, giusta la tabella 1a , annessa al [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), sono aggiunte le seguenti: 
  
  Parte di provvedimento in formato grafico
 
@@ -80,7 +80,7 @@ La temporanea importazione di ottone in lastre, verghe, nastri o fili: per la fa
  
  La temporanea importazione del lino greggio, istituita col [R. decreto-legge 10 maggio 1938, n. 626](Nuove%20concessioni%20di%20temporanee%20importazioni%20ed%20esportazioni.%20038U0626.md), per la fabbricazione di manufatti, viene estesa al lino pettinato. 
  
- E' altresi' estesa ai fili di bronzo e di ottone, destinati alla fabbricazione delle tele continue per cartiere, la temporanea importazione dei fili di rame, prevista dal [R. decreto-legge 3 gennaio 1926, n. 43](Ammissione%20di%20nuove%20merci%20al%20beneficio%20della%20temporanea%20importazione.%20026U0043.md), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898), per la fabbricazione delle tele e delle reti metalliche. 
+ E' altresi' estesa ai fili di bronzo e di ottone, destinati alla fabbricazione delle tele continue per cartiere, la temporanea importazione dei fili di rame, prevista dal [R. decreto-legge 3 gennaio 1926, n. 43](Ammissione%20di%20nuove%20merci%20al%20beneficio%20della%20temporanea%20importazione.%20026U0043.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md), per la fabbricazione delle tele e delle reti metalliche. 
  
  La temporanea importazione delle scatole pieghevoli di cartone, prevista dal [R. decreto-legge 21 settembre 1933, n. 1223](Nuove%20concessioni%20di%20temporanee%20importazioni%20ed%20esportazioni.%20033U1223.md), convertito nella [legge 11 gennaio 1934, n. 74](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20settembre%201933%20n.%201223%20concernente%20nuove%20concessioni%20in%20materia%20di%20importazioni%20ed%20esportazioni%20temporanee.%20034U0074.md), per l'imballaggio delle conserve alimentari o dei formaggi, e' estesa all'imballaggio delle ceramiche. 
  

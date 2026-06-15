@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 22 giugno 1905, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-06-22;449);
+Visto il [R. decreto 22 giugno 1905, n. 449](Indennita%20di%20carica%20agli%20ufficiali%20graduati%20funzionari%20ed%20altri%20agenti%20che%20prestano%20servizio%20a%20Roma.%20005U0449.md);
 
-Visto il [R. decreto 29 novembre 1906, n. 658](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-11-29;658);
+Visto il [R. decreto 29 novembre 1906, n. 658](Estensione%20del%20beneficio%20dellindennita%20di%20carica%20anche%20a%20quegli%20ufficiali%20delle%20guardie%20di%20citta%20che%20usufruiscono%20dellalloggio%20gratuito.%20006U0658.md);
 
 Visto il testo unico del regolamento del corpo delle guardie di citta' 27 giugno 1907, n. 367;
 
@@ -28,7 +28,7 @@ Visto il [decreto Luogotenenziale 6 ottobre 1918, numero 1593](https://www.norma
 
 Visto il [decreto Luogotenenziale 6 aprile 1919, numero 492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-06;492);
 
-Visto il [R. decreto 26 giugno 1910, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-06-26;454);
+Visto il [R. decreto 26 giugno 1910, n. 454](Che%20stabilisce%20le%20indennita%20di%20carica%20per%20taluni%20funzionari%20della%20pubblica%20sicurezza%20destinati%20alla%20capitale.%20010U0454.md);
 
 Visti i RR. decreti 2 ottobre 1919, nn. 1790 e 1802;
 
@@ -42,7 +42,7 @@ Agli ufficiali e militari del corpo della R. guardia per la pubblica sicurezza, 
 
 ## Art. 2.
 
-L'indennita' di alloggio, di cui all' ultimo capoverso dell'[art. 12 del R. decreto 2 ottobre 1919, n. 1790](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1790#art_12), da mensile e' commutata in giornaliera, nella misura di L. 3 nei capoluoghi con 250,000 abitanti o piu', e di L. 2,35 nelle altre sedi. 
+L'indennita' di alloggio, di cui all' ultimo capoverso dell'[art. 12 del R. decreto 2 ottobre 1919, n. 1790](Che%20sopprime%20lattuale%20corpo%20delle%20guardie%20di%20citta%20ed%20in%20sua%20vece%20istituisce%20il%20corpo%20della%20R.%20guardia%20per%20la%20pubblica%20sicurezza.%20019U1790.md), da mensile e' commutata in giornaliera, nella misura di L. 3 nei capoluoghi con 250,000 abitanti o piu', e di L. 2,35 nelle altre sedi. 
  
  Parimenti e' commutata l'indennita' di caro-viveri prevista dal [decreto Luogotenenziale 6 ottobre 1918, n. 1593](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-06;1593), finche' sara' mantenuta, nella misura di L. 2 al giorno.
 
@@ -72,7 +72,7 @@ La medaglia al merito di servizio, istituita dall'[art. 3 della legge 8 luglio 1
 
 ## Art. 8.
 
-A parziale modificazione del comma b) dell'[art. 6 del R. decreto 2 ottobre 1919, n. 1790](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1790#art_6), i tenenti dalla R. guardia, salvo il terzo dei posti assennati ai sottotenenti provenienti dal corpo, saranno nominati per passaggio di tenenti del R. esercito in S. A. P. o per concorso, con le norme da stabilirsi con decreto del ministro dell'interno.
+A parziale modificazione del comma b) dell'[art. 6 del R. decreto 2 ottobre 1919, n. 1790](Che%20sopprime%20lattuale%20corpo%20delle%20guardie%20di%20citta%20ed%20in%20sua%20vece%20istituisce%20il%20corpo%20della%20R.%20guardia%20per%20la%20pubblica%20sicurezza.%20019U1790.md), i tenenti dalla R. guardia, salvo il terzo dei posti assennati ai sottotenenti provenienti dal corpo, saranno nominati per passaggio di tenenti del R. esercito in S. A. P. o per concorso, con le norme da stabilirsi con decreto del ministro dell'interno.
 
 ## Art. 9.
 

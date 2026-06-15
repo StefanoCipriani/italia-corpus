@@ -110,7 +110,7 @@ Chiunque inizi, eseguisca o compia in frode operazioni per la fabbricazione dei 
 
 ## Art. 14.
 
-Chiunque contraffaccia od alteri i contrassegni, chiunque ne faccia uso o detenga pacchetti, involucri o recipienti muniti di contrassegni contraffatti o alterati, e' punito con le pene stabilite dal capo II titolo VI libro II del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+Chiunque contraffaccia od alteri i contrassegni, chiunque ne faccia uso o detenga pacchetti, involucri o recipienti muniti di contrassegni contraffatti o alterati, e' punito con le pene stabilite dal capo II titolo VI libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Chiunque, senza alterarli, faccia uso di contrassegni, che gia' servirono per la chiusura di altri pacchetti, oppure immetta in involucri o recipienti gia' vuotati altre quantita' di surrogati, e' punito con la multa fissa di L. 50 per ogni contrassegno, involucro, o recipiente di cui abbia fatto uso.
 

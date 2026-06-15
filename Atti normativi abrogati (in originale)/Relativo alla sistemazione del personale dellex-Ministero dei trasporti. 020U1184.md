@@ -30,11 +30,11 @@ Entro un anno dalla pubblicazione del presente decreto, l'esercizio della naviga
 
 ## Art. 2.
 
-La Direzione per l'esercizio della navigazione di Stato sara' costituita in relazione al quantitativo che per ciascun grado o qualifica sara' fissato per R. decreto su proposta del ministro dell'industria e commercio di concerto con quelli dei lavori pubblici e del tesoro dal personale che vi era addetto all'atto del passaggio al soppresso Ministero dei trasporti avvenuto in forza del [R. decreto 2 settembre 1919, n. 1587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-02;1587), e da quello rimanente che ora iscritto nel soppresso ruolo del Ministero stesso istituito con l'[art. 1 del R. decreto 4 gennaio 1920, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-04;27#art_1), e che vi sara' assegnato da apposita Commissione nominata dal ministro dell'industria e commercio, di concerto con quello dei lavori pubblici. Nell'assegnazione sara' data la precedenza a coloro che conseguirono promozioni nel detto ruolo soppresso. 
+La Direzione per l'esercizio della navigazione di Stato sara' costituita in relazione al quantitativo che per ciascun grado o qualifica sara' fissato per R. decreto su proposta del ministro dell'industria e commercio di concerto con quelli dei lavori pubblici e del tesoro dal personale che vi era addetto all'atto del passaggio al soppresso Ministero dei trasporti avvenuto in forza del [R. decreto 2 settembre 1919, n. 1587](Che%20provvede%20al%20riordinamento%20del%20Ministero%20per%20i%20trasporti%20marittimi%20e%20ferroviari.%20019U1587.md), e da quello rimanente che ora iscritto nel soppresso ruolo del Ministero stesso istituito con l'[art. 1 del R. decreto 4 gennaio 1920, n. 27](Che%20approva%20la%20tabella%20organica%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20distaccato%20presso%20il%20Ministro%20dei%20trasporti.%20020U0027.md), e che vi sara' assegnato da apposita Commissione nominata dal ministro dell'industria e commercio, di concerto con quello dei lavori pubblici. Nell'assegnazione sara' data la precedenza a coloro che conseguirono promozioni nel detto ruolo soppresso. 
  
  Il personale assegnato alla Direzione dell'esercizio di navigazione di Stato, entro 15 giorni dalla pubblicazione del decreto di cui al 1° comma del presente articolo, potra' optare per il trattamento stabilito dai seguenti articoli 3, 4 e 5. 
  
- Fino a che l'esercizio della navigazione di Stato non sara' restituito all'Amministrazione autonoma delle ferrovie dello Stato, il personale addetto all'esercizio stesso continuera' a prestare servizio passo il Ministero dell'industria e commercio, giusta l'[art. 2 del decreto-legge 21 marzo 1920, n. 304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1920-03-21;304#art_2), col trattamento e con le norme di cui al [comma 1° dell'art. 3 del R. decreto 2 settembre 1919, n. 1587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-02;1587#art_3-com1). 
+ Fino a che l'esercizio della navigazione di Stato non sara' restituito all'Amministrazione autonoma delle ferrovie dello Stato, il personale addetto all'esercizio stesso continuera' a prestare servizio passo il Ministero dell'industria e commercio, giusta l'[art. 2 del decreto-legge 21 marzo 1920, n. 304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1920-03-21;304#art_2), col trattamento e con le norme di cui al [comma 1° dell'art. 3 del R. decreto 2 settembre 1919, n. 1587](Che%20provvede%20al%20riordinamento%20del%20Ministero%20per%20i%20trasporti%20marittimi%20e%20ferroviari.%20019U1587.md). 
  
  Rientrando nell'Amministrazione delle ferrovie dello Stato, il personale della Direzione dell'esercizio navigazione di Stato formera' un ruolo separato ai sensi ed agli effetti dell'art. 1 del regolamento del personale delle ferrovie dello Stato, approvato con [decreto Luogotenenziale 13 agosto 1917, n. 1393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-13;1393). Per detto ruolo si applicheranno le norme del regolamento ferroviario vigenti per i ruoli del personale amministrativo, ausiliario, subalterno, tecnico ed operaio, a seconda della qualifica degli agenti interessati. 
  
@@ -62,7 +62,7 @@ I maggiori stipendi che eventualmente siano stati corrisposti al personale di cu
 
 ## Art. 7.
 
-E' abrogato il [R. decreto 19 febbraio 1920, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-19;154).
+E' abrogato il [R. decreto 19 febbraio 1920, n. 154](Concernente%20il%20ruolo%20organico%20del%20personale%20della%20Direzione%20generale%20per%20la%20elettrificazione%20delle%20ferrovie.%20020U0154.md).
 
 ## Art. 8.
 
@@ -74,7 +74,7 @@ Il personale avventizio riconosciuto meritevole di assunzione in pianta stabile 
 
 I posti di ruolo vacanti nella carriera di ragioneria saranno conferiti agli avventizi provvisti del relativo titolo di studio, giudicati idonei in base all'art. 1 del R. decreto 1° febbraio n. 91. 
  
- a) avventizi ritenuti idonei ai posti di segretario nella carriera amministrativa in base al [R. decreto 19 febbraio 1920, numero 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-19;154); 
+ a) avventizi ritenuti idonei ai posti di segretario nella carriera amministrativa in base al [R. decreto 19 febbraio 1920, numero 154](Concernente%20il%20ruolo%20organico%20del%20personale%20della%20Direzione%20generale%20per%20la%20elettrificazione%20delle%20ferrovie.%20020U0154.md); 
  
  b) avventizi ritenuti idonei ai posti di ragioniere in base alla medesima disposizione.
 
@@ -82,11 +82,11 @@ I posti di ruolo vacanti nella carriera di ragioneria saranno conferiti agli avv
 
 Gli altri avventizi saranno collocati col grado di applicato nel ruolo di terza categoria e la parte che non trova posto in esso in un ruolo speciale di scrivani nell'ordine seguente, serbando per ciascuna delle categorie sotto elencate la graduatoria stabilita dalla Commissione menzionata nell'art. 8. 
  
- c) avventizi provvisti dell'occorrente titolo di studio ritenuti idonei per la carriera d'ordine in base alla prima parte dell'art. 1° del [R. decreto 1° febbraio 1920, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;94); 
+ c) avventizi provvisti dell'occorrente titolo di studio ritenuti idonei per la carriera d'ordine in base alla prima parte dell'art. 1° del [R. decreto 1° febbraio 1920, n. 94](Concernente%20la%20sistemazione%20del%20personale%20avventizio%20presso%20il%20Ministero%20dei%20trasporti%20marittimi%20e%20ferroviari.%20020U0094.md); 
  
  d) avventizi ritenuti idonei per la stessa carriera in base all'ultima parte di detto articolo; 
  
- e) avventizi ritenuti idonei par la carriera d'ordine in base all'[art. 3 del R. decreto 19 febbraio 1920, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-19;154#art_3); 
+ e) avventizi ritenuti idonei par la carriera d'ordine in base all'[art. 3 del R. decreto 19 febbraio 1920, n. 154](Concernente%20il%20ruolo%20organico%20del%20personale%20della%20Direzione%20generale%20per%20la%20elettrificazione%20delle%20ferrovie.%20020U0154.md); 
  
  f) avventizi ritenuti idonei al posto di aiutante (grado 10) nel ruolo organico del personale della Direzione generale per la elettrificazione delle ferrovie, soppressa col [R. decreto-legge 21 marzo 1920, n. 304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-03-21;304).
 

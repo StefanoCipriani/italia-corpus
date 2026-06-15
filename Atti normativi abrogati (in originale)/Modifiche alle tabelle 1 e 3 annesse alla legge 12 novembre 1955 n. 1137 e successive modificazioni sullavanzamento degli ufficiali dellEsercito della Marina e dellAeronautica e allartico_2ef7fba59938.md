@@ -89,7 +89,7 @@ Nota all'art. 4:
 
 1.
 
-Le disposizioni del precedente articolo 2 e quelle dei precedenti articoli 3 e 4 hanno effetto rispettivamente dalle date in cui ha applicazione per l'Esercito e per l'Aeronautica il regolamento per l'amministrazione e la contabilita' degli organismi dell'Esercito, della Marina e dell'Aeronautica, approvato con [decreto del Presidente della Repubblica 5 giugno 1976, n. 1076](Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20degli%20organismi%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), come modificato dal [decreto del Presidente della Repubblica 23 dicembre 1977, n. 1005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-12-23;1005).
+Le disposizioni del precedente articolo 2 e quelle dei precedenti articoli 3 e 4 hanno effetto rispettivamente dalle date in cui ha applicazione per l'Esercito e per l'Aeronautica il regolamento per l'amministrazione e la contabilita' degli organismi dell'Esercito, della Marina e dell'Aeronautica, approvato con [decreto del Presidente della Repubblica 5 giugno 1976, n. 1076](Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20degli%20organismi%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), come modificato dal [decreto del Presidente della Repubblica 23 dicembre 1977, n. 1005](../DPR/Modificazione%20al%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20degli%20organismi%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%205%20giug_6cbe632b84bf.md).
 
 2.
 
@@ -104,7 +104,7 @@ Nota all'art. 5:
 
 1.
 
-L'[articolo 23 del regio decreto-legge 22 febbraio 1937, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-22;220#art_23), convertito in legge dalla [legge 25 giugno 1937, n. 1501](Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), e' sostituito dal seguente:
+L'[articolo 23 del regio decreto-legge 22 febbraio 1937, n. 220](Ordinamento%20della%20Regia%20aeronautica.%20037U0220.md), convertito in legge dalla [legge 25 giugno 1937, n. 1501](Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), e' sostituito dal seguente:
  "Il Corpo di commissariato aeronautico:
  esercita funzioni direttive, ispettive, logistiche, tecniche, amministrative e contabili per i servizi del contante, del vettovagliamento, del vestiario ed equipaggiamento, del casermaggio nonche' degli altri materiali ordinari;
  svolge attivita' di studio, ricerca e sviluppo tecnico nei settori di specifico interesse ed assolve funzioni in materia giuridica, economica e finanziaria;

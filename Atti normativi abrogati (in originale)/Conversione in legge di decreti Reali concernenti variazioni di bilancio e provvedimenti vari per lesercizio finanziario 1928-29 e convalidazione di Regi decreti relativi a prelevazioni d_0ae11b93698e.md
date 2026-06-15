@@ -14,7 +14,7 @@ Sono convertiti in legge i [Regi decreti 11 ottobre 1928, n. 2227](https://www.n
 
 ## Art. 2.
 
-Sono convalidati i [Regi decreti 20 luglio 1928, n. 2247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-07-20;2247), [4 ottobre 1928, n. 2243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-04;2243), e [4 ottobre 1928, n. 2245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-04;2245), concernenti prelevazioni dal fondo di riserva per le spese impreviste inscritto nel bilancio del Ministero delle finanze per l'esercizio finanziario 1928-29. 
+Sono convalidati i [Regi decreti 20 luglio 1928, n. 2247](3a%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201928-29.%20028U2247.md), [4 ottobre 1928, n. 2243](5a%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201928-29.%20028U2243.md), e [4 ottobre 1928, n. 2245](6a%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201928-29.%20028U2245.md), concernenti prelevazioni dal fondo di riserva per le spese impreviste inscritto nel bilancio del Ministero delle finanze per l'esercizio finanziario 1928-29. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

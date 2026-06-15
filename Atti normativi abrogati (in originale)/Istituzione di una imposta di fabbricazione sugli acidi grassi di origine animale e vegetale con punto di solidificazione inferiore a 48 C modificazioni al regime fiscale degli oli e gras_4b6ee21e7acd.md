@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [decreto-legge 20 novembre 1953, n. 843](Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20e%20grassi%20animali%20liquidi%20destinati%20allalimentazione.md), convertito nella [legge 27 dicembre 1953, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-12-27;949);
+Visto il [decreto-legge 20 novembre 1953, n. 843](Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20e%20grassi%20animali%20liquidi%20destinati%20allalimentazione.md), convertito nella [legge 27 dicembre 1953, n. 949](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20novembre%201953%20n.%20843%20concernente%20listituzione%20di%20una%20imposta%20di%20fabbricazione%20sugli%20oli%20e%20grassi%20animali%20liquidi.md);
 
 Visto il [decreto-legge 26 novembre 1954, n. 1080](Istituzione%20di%20una%20imposta%20di%20fabbricazione%20sugli%20oli%20vegetali%20liquidi%20con%20punto%20di%20solidificazione%20non%20superiore%20a%2012%20C%20ottenuti%20dalla%20lavorazione%20di%20oli%20e%20grassi%20vegetali%20concreti.md), convertito nella [legge 30 dicembre 1954, n. 1219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-30;1219);
 
@@ -36,8 +36,8 @@ Per gli acidi grassi e oleine, qualunque sia la loro acidita', provenienti da ol
 ## Art. 3.
 
 Sono stabilite in lire 25.000 per quintale:
- a) l'imposta di fabbricazione sugli oli e grassi animali con punto di solidificazione non superiore a 30° C e la corrispondente sovrimposta di confine sugli stessi prodotti importati dall'estero, di cui al [decreto-legge 20 novembre 1953, n. 843](Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20e%20grassi%20animali%20liquidi%20destinati%20allalimentazione.md), convertito nella [legge 27 dicembre 1953, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-12-27;949);
- b) l'imposta di fabbricazione sugli oli vegetali liquidi con punto di solidificazione non superiore a 12° C comunque ottenuti dalla lavorazione di oli e grassi vegetali concreti e la corrispondente sovrimposta di confine sugli stessi prodotti importati dall'estero, di cui al [decreto-legge 26 dicembre 1954, n. 1080](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1954-12-26;1080), convertito nella [legge 20 dicembre 1954, n. 1219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1219);
+ a) l'imposta di fabbricazione sugli oli e grassi animali con punto di solidificazione non superiore a 30° C e la corrispondente sovrimposta di confine sugli stessi prodotti importati dall'estero, di cui al [decreto-legge 20 novembre 1953, n. 843](Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20e%20grassi%20animali%20liquidi%20destinati%20allalimentazione.md), convertito nella [legge 27 dicembre 1953, n. 949](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20novembre%201953%20n.%20843%20concernente%20listituzione%20di%20una%20imposta%20di%20fabbricazione%20sugli%20oli%20e%20grassi%20animali%20liquidi.md);
+ b) l'imposta di fabbricazione sugli oli vegetali liquidi con punto di solidificazione non superiore a 12° C comunque ottenuti dalla lavorazione di oli e grassi vegetali concreti e la corrispondente sovrimposta di confine sugli stessi prodotti importati dall'estero, di cui al [decreto-legge 26 dicembre 1954, n. 1080](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1954-12-26;1080), convertito nella [legge 20 dicembre 1954, n. 1219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2026%20novembre%201954%20n.%201080%20concernente%20listituzione%20di%20una%20imposta%20di%20fabbricazione%20sugli%20oli%20vegetali%20liquidi%20con%20punto%20di%20solidificazione%20non%20superi_dc31beb760b9.md);
 
 ## Art. 4.
 
@@ -45,7 +45,7 @@ Sono esenti dall'imposta di fabbricazione o dalla corrispondente sovrimposta di 
 
 ## Art. 5.
 
-L'[art 4 del decreto-legge 20 novembre 1953, n. 843](Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20e%20grassi%20animali%20liquidi%20destinati%20allalimentazione.md), convertito nella [legge 27 dicembre 1953, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-12-27;949), e' sostituito dal seguente:
+L'[art 4 del decreto-legge 20 novembre 1953, n. 843](Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20e%20grassi%20animali%20liquidi%20destinati%20allalimentazione.md), convertito nella [legge 27 dicembre 1953, n. 949](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20novembre%201953%20n.%20843%20concernente%20listituzione%20di%20una%20imposta%20di%20fabbricazione%20sugli%20oli%20e%20grassi%20animali%20liquidi.md), e' sostituito dal seguente:
 
  Sono esenti dall'imposta di fabbricazione o dalla corrispondente sovrimposta di confine i prodotti di cui all'[art. 1 del decreto-legge 20 novembre 1953, n. 843](Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20e%20grassi%20animali%20liquidi%20destinati%20allalimentazione.md), destinati all'idrogenazione, ad usi farmaceutici, alla preparazione di cosmetici ed alla preparazione della margarina.
  Sono altresi' esenti, previa denaturazione, i prodotti stessi destinati ai seguenti usi industriali:
@@ -151,7 +151,7 @@ Negli stabilimenti nei quali si producono, si raffinano o comunque si lavorano o
 ## Art. 18.
 
 Le ditte che producono gli acidi grassi di cui al precedente art. 1 debbono prestare una cauzione ragguagliata al 10% della imposta corrispondente alla quantita' massima di prodotti che intendono tenere in deposito.
- La cauzione sara' prestata nel termine che sara' fissato dall'Amministrazione finanziaria ed anche nei modi indicati dall'[art. 36 del decreto-legge 6 ottobre 1948, n. 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-10-06;1200#art_36), convertito nella [legge 3 dicembre 1948, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-03;1388).
+ La cauzione sara' prestata nel termine che sara' fissato dall'Amministrazione finanziaria ed anche nei modi indicati dall'[art. 36 del decreto-legge 6 ottobre 1948, n. 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-10-06;1200#art_36), convertito nella [legge 3 dicembre 1948, n. 1388](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%206%20ottobre%201948%20n.%201200%20concernente%20modificazioni%20al%20regime%20fiscale%20degli%20alcoli%20e%20del%20benzolo.md).
  Chiunque ometta di prestare, nel termine di cui sopra, la cauzione prevista dal primo comma del presente articolo e' tenuto al pagamento di una pena pecuniaria dal doppio al quintuplo dell'imposta sulla quale si sarebbe dovuta ragguagliare la cauzione.
 
 ## Art. 19.
@@ -185,7 +185,7 @@ sopra destinati, in qualsiasi quantita', al deposito di cui al comma seguente.
 Le violazioni alle disposizioni del presente decreto sono accertate mediante processo verbale.
  L'accertamento delle violazioni, oltre che agli ufficiali ed agenti indicati nel titolo II, capo II, della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), spetta, nei limiti delle attribuzioni stabilite dalla predetta legge, anche:
  a) ai funzionari dell'Amministrazione finanziaria muniti della speciale tessera;
- b) agli ufficiali ed agenti di cui agli [articoli 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_41) e [46 del regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_46), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562), contenente norme per la repressione delle frodi sulla preparazione e sul commercio di sostanze di uso agrario e di prodotti agrari.
+ b) agli ufficiali ed agenti di cui agli [articoli 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_41) e [46 del regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_46), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), contenente norme per la repressione delle frodi sulla preparazione e sul commercio di sostanze di uso agrario e di prodotti agrari.
  I processi verbali di accertamento di reali sono dagli ufficiali, funzionari e agenti scopritori trasmessi alla intendenza di finanza competente, per l'ulteriore corso.
  La disposizione dell'[art. 33, primo comma, della legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_33-com1), si applica anche alle violazioni del presente decreto, costituenti reato.
 
@@ -217,7 +217,7 @@ Il credito dello Stato per le imposte e per i diritti previsti dal presente decr
 Chiunque fabbrica clandestinamente gli oli ed i grassi animali con punto di solidificazione superiore a 30° C nonche' i prodotti indicati all'art. 1 del presente decreto, e' punito, oltre che con la multa non minore del doppio ne' maggiore del decuplo della imposta corrispondente ai prodotti gia' ottenuti e ottenibili dalle materie rinvenute in fabbrica o nei locali annessi od attigui, con la reclusione fino a due anni.
  La multa non puo' essere in nessun caso inferiore ad un milione di lire.
  E' considerata fabbrica clandestina anche la sola esistenza nei locali di fabbrica o in locali annessi od attigui di apparecchi e meccanismi di produzione, di materie prime, ovvero di prodotti semilavorati o finiti, prima della prescritta denunzia.
- Gli apparecchi ed i macchinari, i prodotti e le materie prime, oggetto della violazione di cui al primo comma del presente articolo, sono soggetti a confisca, a termini della legge doganale 25 settembre 1940, n. 1424, ed in deroga alle disposizioni dell'[art. 240 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+ Gli apparecchi ed i macchinari, i prodotti e le materie prime, oggetto della violazione di cui al primo comma del presente articolo, sono soggetti a confisca, a termini della legge doganale 25 settembre 1940, n. 1424, ed in deroga alle disposizioni dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 29.
 
@@ -225,7 +225,7 @@ Chiunque sottrae o tenta di sottrarre, con qualunque mezzo, i prodotti contempla
  Chiunque sottrae o tenta di sottrarre, con qualunque mezzo, gli oli e i grassi animali con punto di solidificazione superiore a 30° C agli obblighi previsti dal presente decreto, e' punito con la multa non minore del doppio ne' maggiore del decuplo dell'imposta corrispondente agli oli e grassi animali con punto di solidificazione non superiore a 30 ° C ottenibili dalle materie prime rinvenute in fabbrica, o nei locali annessi ed attigui.
  La multa non puo' essere, in nessun caso, inferiore a lire 500.000.
  I prodotti sottratti o che si tentasse di sottrarre e le cose
-adoperate per commettere la frode sono soggetti a confisca, a termini della legge doganale 25 settembre 1940, n. 1424, in deroga alle disposizioni dell'[art. 240 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+adoperate per commettere la frode sono soggetti a confisca, a termini della legge doganale 25 settembre 1940, n. 1424, in deroga alle disposizioni dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 30.
 
@@ -241,7 +241,7 @@ Chiunque ponga in circolazione i prodotti contemplati dal precedente art. 21 sen
 
 ## Art. 32.
 
-Chiunque manometta od altera in qualsiasi modo i congegni, i bolli ed i sigilli posti dall'Amministrazione, e' punito a termini dell'[art. 349 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_349).
+Chiunque manometta od altera in qualsiasi modo i congegni, i bolli ed i sigilli posti dall'Amministrazione, e' punito a termini dell'[art. 349 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 33.
 
@@ -250,7 +250,7 @@ Per la violazione delle norme del presente decreto, per la quale dal decreto ste
 
 ## Art. 34.
 
-Le pene della multa e dell'ammenda non eseguite per insolvenza del condannato si convertono, rispettivamente, nella reclusione o nell'arresto per non oltre sei mesi e, se si tratta di recidivi, per non oltre un anno, in deroga all'[art. 136 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_136).
+Le pene della multa e dell'ammenda non eseguite per insolvenza del condannato si convertono, rispettivamente, nella reclusione o nell'arresto per non oltre sei mesi e, se si tratta di recidivi, per non oltre un anno, in deroga all'[art. 136 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 35.
 
@@ -262,7 +262,7 @@ La ripartizione delle multe e delle ammende e' effettuata secondo le norme della
 
 ## Art. 37.
 
-Le disposizioni di cui agli articoli 29, 31, 33, 39, 40, 41 e 48 del presente decreto per quanto concerne la misura delle pene della multa e dell'ammenda, sono adottate in deroga agli [articoli 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_24) e [26 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_26) e delle loro successive modificazioni.
+Le disposizioni di cui agli articoli 29, 31, 33, 39, 40, 41 e 48 del presente decreto per quanto concerne la misura delle pene della multa e dell'ammenda, sono adottate in deroga agli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle loro successive modificazioni.
 
 ## Art. 38.
 

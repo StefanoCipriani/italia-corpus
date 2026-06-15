@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 aprile 1934, n. 779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-16;779), riguardante l'aumento dell'aliquota degli appuntati dei carabinieri Reali che possono essere autorizzati a contrarre matrimonio. 
+ E' convertito in legge il [R. decreto-legge 16 aprile 1934, n. 779](Aumento%20dellaliquota%20degli%20appuntati%20dei%20carabinieri%20Reali%20che%20possono%20essere%20autorizzati%20a%20contrarre%20matrimonio.%20034U0779.md), riguardante l'aumento dell'aliquota degli appuntati dei carabinieri Reali che possono essere autorizzati a contrarre matrimonio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

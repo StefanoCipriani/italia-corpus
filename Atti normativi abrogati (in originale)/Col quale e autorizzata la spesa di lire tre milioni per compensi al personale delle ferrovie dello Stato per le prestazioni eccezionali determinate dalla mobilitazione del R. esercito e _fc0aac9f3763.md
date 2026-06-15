@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), sul conferimento di poteri straordinari al Governo in caso di guerra e durante la guerra medesima; 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), sul conferimento di poteri straordinari al Governo in caso di guerra e durante la guerra medesima; 
  
  Ritenuta l'opportunita' di destinare la somma di lire 3 milioni per corrispondere compensi al personale dipendente dall'Amministrazione delle ferrovie dello Stato per le prestazioni eccezionali per i trasporti occorsi nelle operazioni di mobilitazione dell'esercito e di guerra, trasporti che hanno fruttato un considerevole introito; 
  

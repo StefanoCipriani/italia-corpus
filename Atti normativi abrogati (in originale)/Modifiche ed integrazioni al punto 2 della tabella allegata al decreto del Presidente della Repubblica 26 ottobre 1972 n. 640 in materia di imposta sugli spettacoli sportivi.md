@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico
 
-Per le manifestazioni sportive organizzate e svolte sotto il controllo del CONI e degli enti di propaganda e di promozione sportiva, l'imposta sugli spettacoli, di cui al punto 2 della tabella allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;640), e' dovuta nelle seguenti misure, se negli impianti sportivi, o nelle aree ove si svolgano spettacoli sportivi, almeno il 40 per cento dei posti e' destinato a biglietti fino a L. 2.000 nette: 
+Per le manifestazioni sportive organizzate e svolte sotto il controllo del CONI e degli enti di propaganda e di promozione sportiva, l'imposta sugli spettacoli, di cui al punto 2 della tabella allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](../DPR/Imposta%20sugli%20spettacoli.md), e' dovuta nelle seguenti misure, se negli impianti sportivi, o nelle aree ove si svolgano spettacoli sportivi, almeno il 40 per cento dei posti e' destinato a biglietti fino a L. 2.000 nette: 
  corrispettivi fino a L. 2.000 nette, il 4 per cento; 
  corrispettivi da L. 2.001 nette fino a L. 10.000 nette, il 15 per cento; 
  corrispettivi da L. 10.001 nette fino a L. 15.000 nette, il 25 per cento; 

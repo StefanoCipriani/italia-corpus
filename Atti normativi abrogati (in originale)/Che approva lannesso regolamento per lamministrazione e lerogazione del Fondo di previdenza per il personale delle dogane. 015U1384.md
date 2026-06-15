@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge n. 812, del 12 luglio 1912](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-12;812); 
+ Vista la [legge n. 812, del 12 luglio 1912](Che%20istituisce%20un%20fondo%20di%20previdenza%20a%20favore%20del%20personale%20delle%20dogane.%20012U0812.md); 
  
  Uditi il Consiglio della previdenza e delle assicurazioni sociali e il Consiglio di Stato; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Sono approvati l'unito regolamento per l'amministrazione e l'erogazione del fondo di previdenza, istituito, a favore del personale delle dogane, con la [legge n. 812, del 12 luglio 1912](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-12;812), e la tabella che del regolamento medesimo e' parte integrante, l'uno e l'altra visti, d'ordine Nostro, dal ministro proponente. 
+ Sono approvati l'unito regolamento per l'amministrazione e l'erogazione del fondo di previdenza, istituito, a favore del personale delle dogane, con la [legge n. 812, del 12 luglio 1912](Che%20istituisce%20un%20fondo%20di%20previdenza%20a%20favore%20del%20personale%20delle%20dogane.%20012U0812.md), e la tabella che del regolamento medesimo e' parte integrante, l'uno e l'altra visti, d'ordine Nostro, dal ministro proponente. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

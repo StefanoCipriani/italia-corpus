@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le annotazioni, di cui all'art. 25 del regolamento approvato col [R. decreto 8 giugno 1913, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-08;700), possono apportarsi anche sui buoni al nome di privati.
+Le annotazioni, di cui all'art. 25 del regolamento approvato col [R. decreto 8 giugno 1913, n. 700](Che%20approva%20il%20regolamento%20concernente%20il%20servizio%20dei%20buoni%20del%20tesoro%20quinquennali%20nominativi.%20013U0700.md), possono apportarsi anche sui buoni al nome di privati.
 
 ## Art. 2.
 

@@ -14,11 +14,11 @@ Visto l'[art. 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Vista la [legge 22 luglio 1977, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-07-22;426), recante provvedimenti straordinari a sostegno delle attivita' musicali per gli anni 1977 e 1978;
 
-Vista la [legge 4 novembre 1965, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213), sull'ordinamento dei provvedimenti a favore della cinematografia;
+Vista la [legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), sull'ordinamento dei provvedimenti a favore della cinematografia;
 
 Ritenuta la straordinaria necessita' e l'urgenza di disporre, anche per l'anno 1979, le provvidenze di cui alla citata [legge n. 426/1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977;426) a favore del settore musicale, al fine di consentire la prosecuzione delle attivita' rimaste prive, sin dall'inizio del predetto esercizio, dell'indispensabile sostegno finanziario dello Stato;
 
-Ritenuta altresi' la straordinaria necessita' e l'urgenza di chiarire il significato degli articoli 4 e 19 della citata [legge 4 novembre 1965, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213), riguardanti i presupposti e le condizioni per il rilascio della dichiarazione di nazionalita' dei film, al fine di consentire la ripresa delle attivita' di produzione cinematografica compromesse da insorte incertezze interpretative;
+Ritenuta altresi' la straordinaria necessita' e l'urgenza di chiarire il significato degli articoli 4 e 19 della citata [legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), riguardanti i presupposti e le condizioni per il rilascio della dichiarazione di nazionalita' dei film, al fine di consentire la ripresa delle attivita' di produzione cinematografica compromesse da insorte incertezze interpretative;
 
 Sentito il Consiglio dei Ministri;
 
@@ -31,12 +31,12 @@ I provvedimenti straordinari a sostegno delle attivita' musicali previsti per l'
 
 ## Art. 2.
 
-Ai fini del riconoscimento della nazionalita' ai sensi degli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213#art_4) e [19 della legge 4 novembre 1965, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213#art_19), per "versione originale italiana" di cui al secondo comma dello stesso art. 4 si intende, sin dalla data di entrata in vigore della predetta legge, l'edizione definitiva in lingua italiana costituita dalla copia campione del film presentata al Ministero del turismo e dello spettacolo.
+Ai fini del riconoscimento della nazionalita' ai sensi degli [articoli 4](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md) e [19 della legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), per "versione originale italiana" di cui al secondo comma dello stesso art. 4 si intende, sin dalla data di entrata in vigore della predetta legge, l'edizione definitiva in lingua italiana costituita dalla copia campione del film presentata al Ministero del turismo e dello spettacolo.
  Per "ripresa sonora diretta" di cui al penultimo comma del citato art. 4, si intende, sin dalla data di entrata in vigore della predetta legge, la simultaneita' della registrazione sonora alla ripresa visiva, senza rilevanza della lingua impiegata e della rispondenza alla registrazione definitiva.
 
 ## Art. 3.
 
-Entro un mese dalla data di entrata in vigore del presente decreto, il Ministro del turismo e dello spettacolo istituira' con proprio decreto una commissione avente il compito di proporre modifiche agli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213#art_4) e [19 della legge 4 novembre 1965, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-04;1213#art_19), al fine di realizzare la migliore tutela degli interessi professionali degli interpreti italiani.
+Entro un mese dalla data di entrata in vigore del presente decreto, il Ministro del turismo e dello spettacolo istituira' con proprio decreto una commissione avente il compito di proporre modifiche agli [articoli 4](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md) e [19 della legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), al fine di realizzare la migliore tutela degli interessi professionali degli interpreti italiani.
  La commissione - che dovra' ultimare i suoi lavori entro due mesi dalla data di costituzione - e' composta da rappresentanti delle Amministrazioni del turismo e dello spettacolo, del lavoro e della previdenza sociale e di grazia e giustizia, nonche' da rappresentanti dell'industria cinematografica, degli attori, degli autori, dei critici cinematografici e delle organizzazioni sindacali dei lavoratori dello spettacolo.
  La commissione sara' integrata con esperti nominati dal Ministro del turismo e dello spettacolo in numero non superiore a cinque.
 

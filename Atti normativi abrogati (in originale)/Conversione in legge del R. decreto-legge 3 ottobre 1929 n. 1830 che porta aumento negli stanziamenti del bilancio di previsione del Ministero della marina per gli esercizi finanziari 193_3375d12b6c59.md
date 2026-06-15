@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-03;1830), portante aumento negli stanziamenti del bilancio di previsione del Ministero della marina, per gli esercizi finanziari 1930-31 e 1931-32, per l'espletamento del programma navale in corso di attuazione. 
+ E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1830](Aumento%20negli%20stanziamenti%20del%20bilancio%20di%20previsione%20del%20Ministero%20della%20marina%20per%20gli%20esercizi%20finanziari%201930-31%20e%201931-32%20per%20lespletamento%20del%20programma%20navale%20in%20corso%20di%20attuazione.%20029U1830.md), portante aumento negli stanziamenti del bilancio di previsione del Ministero della marina, per gli esercizi finanziari 1930-31 e 1931-32, per l'espletamento del programma navale in corso di attuazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

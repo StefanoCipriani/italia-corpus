@@ -14,7 +14,7 @@ E' autorizzata l'attuazione di un piano di intensificazione delle iniziative dir
  
  Il piano di cui sopra viene formulato ed aggiornato dal Ministero dell'agricoltura e delle foreste d'intesa col Ministero dell'interno, sentito il settore della zootecnia della Federazione nazionale dei consorzi provinciali tra i produttori dell'agricoltura, ed attuato, sotto la guida ed il controllo dell'Amministrazione dell'agricoltura, per quanto concerne le attivita' tecniche ed economiche del piano stesso, nelle forme d'intervento previste dalle [leggi 6 luglio 1912, n. 832, e 29 giugno 1929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-29;832)-VII, n. 1366, e del Ministero dell'interno per le attivita' zooprofilattiche di cui al [testo unico sulle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) 27 luglio 1934-XII, n. 1265. 
  
- Nella concessione di premi, sussidi e contributi e negli analoghi interventi previsti dalla presente legge e non compresi fra quelli di cui al successivo art. 14, concernenti gli incoraggiamenti alla produzione foraggera, saranno osservate, in quanto applicabili, le norme contenute nel [R. decreto 19 febbraio 1922, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-02-19;331), che approva il regolamento per l'esecuzione della citata [legge 6 luglio 1912, n. 832](Concernente%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U0832.md).
+ Nella concessione di premi, sussidi e contributi e negli analoghi interventi previsti dalla presente legge e non compresi fra quelli di cui al successivo art. 14, concernenti gli incoraggiamenti alla produzione foraggera, saranno osservate, in quanto applicabili, le norme contenute nel [R. decreto 19 febbraio 1922, n. 331](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%206%20luglio%201912%20n.%20832%20recante%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20022U0331.md), che approva il regolamento per l'esecuzione della citata [legge 6 luglio 1912, n. 832](Concernente%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U0832.md).
 
 ## Art. 2.
 
@@ -153,7 +153,7 @@ Per provvedere alle spese di cui alla presente legge, il diritto fisso di macell
  
  Il maggior provento, detratto un decimo a favore del Comune, sara' versato in Tesoreria con imputazione al bilancio dell'entrata. 
  
- Per le modalita' di riscossione e di versamento della maggiore quota del diritto fisso di cui sopra restano ferme le disposizioni del regolamento approvato con [R. decreto 19 dicembre 1912, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-12-19;1395).
+ Per le modalita' di riscossione e di versamento della maggiore quota del diritto fisso di cui sopra restano ferme le disposizioni del regolamento approvato con [R. decreto 19 dicembre 1912, n. 1395](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%206%20luglio%201912%20n.%20832%20riguardante%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U1395.md).
 
 ## Art. 17.
 

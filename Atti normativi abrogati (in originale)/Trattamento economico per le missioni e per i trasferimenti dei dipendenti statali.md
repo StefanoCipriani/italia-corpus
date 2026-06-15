@@ -12,19 +12,19 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto luogotenenziale 14 settembre 1918, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1311);
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);
+Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [regio decreto-legge 19 agosto 1938, n. 1518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-08-19;1518);
+Visto il [regio decreto-legge 19 agosto 1938, n. 1518](Modificazioni%20alle%20norme%20che%20regolano%20il%20trattamento%20economico%20del%20dipendenti%20dallo%20Stato%20in%20occasione%20di%20missioni%20e%20trasferimenti.%20038U1518.md);
 
-Visto il [regio decreto-legge 27 febbraio 1942, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-02-27;76);
+Visto il [regio decreto-legge 27 febbraio 1942, n. 76](Trattamento%20di%20missione%20al%20personale%20statale%20nellinterno%20del%20Regno.%20042U0076.md);
 
-Visto il [regio decreto-legge 9 maggio 1944, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-09;131);
+Visto il [regio decreto-legge 9 maggio 1944, n. 131](Aumento%20del%20trattamento%20di%20missione%20al%20personale%20statale%20nellinterno%20del%20Regno.%20044U0131.md);
 
 Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-02;386);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320);
+Visto il [decreto legislativo luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md);
 
 Visto il decreto legislativo luogotenenziale 16 marmo 1946, n. 98;
 
@@ -76,7 +76,7 @@ e diurnisti dell'Amministrazione
 PP.TT. nonche' commessi del quadro 
 speciale allegato II al 
 [regio decreto 19 luglio 1941, 
- n. 943](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-19;943) del-........... 370 180 550 
+ n. 943](Modificazioni%20allordinamento%20degli%20uffici%20e%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20041U0943.md) del-........... 370 180 550 
 l'Azienda di Stato per i 
 servizi telefonici, ed agenti 
 diurnisti 
@@ -188,18 +188,18 @@ Per i trasferimenti di sede, per ogni periodo di 24 ore di viaggio, sono corrisp
 
 ## Art. 12.
 
-Nei trasferimenti, qualora il trasporto del mobilio, delle masserizie e del bagaglio si effettui con mezzi diversi dalle ferrovie, il quantitativo deve essere accertato nel luogo di partenza e di arrivo a cura dell'Amministrazione e dovra' essere riempito uno scontrino conforme al mod. B allegato al decreto Presidenziale 20 giugno 1945, emanato per l'applicazione del [decreto legislativo luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320). Da tale scontrino sara' pero' eliminata la parte concernente la dichiarazione di congruita' del prezzo. 
+Nei trasferimenti, qualora il trasporto del mobilio, delle masserizie e del bagaglio si effettui con mezzi diversi dalle ferrovie, il quantitativo deve essere accertato nel luogo di partenza e di arrivo a cura dell'Amministrazione e dovra' essere riempito uno scontrino conforme al mod. B allegato al decreto Presidenziale 20 giugno 1945, emanato per l'applicazione del [decreto legislativo luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md). Da tale scontrino sara' pero' eliminata la parte concernente la dichiarazione di congruita' del prezzo. 
  Inoltre dovra' essere prodotta la bolletta rilasciata da una pesa pubblica, riconosciuta del luogo di arrivo.
 
 ## Art. 13.
 
-L'[art. 2 del decreto legislativo luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320#art_2) - concernente l'indennita' di prima sistemazione per i trasferimenti - rimane in vigore ed il 30 comma dell'articolo stesso e' sostituito dal seguente: 
+L'[art. 2 del decreto legislativo luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md) - concernente l'indennita' di prima sistemazione per i trasferimenti - rimane in vigore ed il 30 comma dell'articolo stesso e' sostituito dal seguente: 
  "L'indennita' medesima e' ridotta ad un terzo - da computarsi rispettivamente sull'indennita' in misura intera o ridotta alla meta', secondo quanto e' previsto dai precedenti commi per il personale che nella sede ove e' stato trasferito fruisca di alloggio gratuito o, se trattasi di personale ferroviario, delle agevolazioni di cui alla tabella allegata all'art. 33 delle disposizioni sulle competenze accessorie". 
  Ai sottufficiali e militari di truppa dell'Esercito, della Marina, dell'Aeronautica e dei Corpi organizzati militarmente per i quali vige l'obbligo della convivenza in caserma, non spetta l'indennita' di prima sistemazione in caso di trasferimento. In nessun caso potranno essere corrisposte le otto giornate di diaria previste dal [regio decreto 18 maggio 1929, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-05-18;394).
 
 ## Art. 14.
 
-L'indennita' di prima sistemazione di cui all'[art. 2 del decreto legislativo luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320#art_2), non e' dovuta al personale che nella nuova sede di servizio abbia comunque fruito di un primo periodo di trattamento di missione. 
+L'indennita' di prima sistemazione di cui all'[art. 2 del decreto legislativo luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md), non e' dovuta al personale che nella nuova sede di servizio abbia comunque fruito di un primo periodo di trattamento di missione. 
  Agli ufficiali di complemento o comunque in una posizione che non possa essere considerata di servizio permanente effettivo, l'indennita' di prima sistemazione compete quando siano trasferiti di sede di servizio ma non per la prima assegnazione di sede in seguito a richiamo o nuova nomina e in ogni caso va loro corrisposta nella misura prevista per il personale senza persone di famiglia conviventi e a carico. 
  La norma di cui al precedente comma si applica ai richiamati con gradi di maresciallo, sergente maggiore e sergente dell'Esercito e gradi corrispondenti della Marina e dell'Aeronautica e dei Corpi organizzati militarmente. 
  Ai caporali maggiori, caporali e soldati dell'Esercito e gradi corrispondenti della Marina e dell'Aeronautica che non siano raffermati o vincolati a ferma speciale, non spetta in alcun caso l'indennita' di prima sistemazione in caso di trasferimento.
@@ -231,7 +231,7 @@ Salvo quanto previsto dal successivo art. 20 le indennita' stabilite dall'art. 1
 ## Art. 20.
 
 L'indennita' di Gabinetto di cui all'[art. 6 del decreto legislativo 14 settembre 1946, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-09-14;112#art_6), rimane cosi' stabilita: 
- a) per il periodo dai 1° al 30 giugno 1946, nella misura pari alla meta' del compenso globale previsto dal [3° comma dell'art. 1 del decreto legislativo luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320#art_1-com3); 
+ a) per il periodo dai 1° al 30 giugno 1946, nella misura pari alla meta' del compenso globale previsto dal [3° comma dell'art. 1 del decreto legislativo luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md); 
  b) per il periodo dai 1° luglio al 31 ottobre 1946, nella misura pari alla meta' della diaria di missione - escluso il supplemento di pernottazione - di cui all'art. 1; oppure nella misura di cui alla precedente lettera a) se piu' favorevole. 
  Con effetto dal 1° novembre 1946, per l'indennita' di Gabinetto e' fissata la misura base pari alla meta' della diaria di missione - escluso il supplemento di pernottazione - prevista dall'art. 1 per i gradi 12° e 13°. 
  L'indennita' stessa e' corrisposta nella misura base di qui sopra agli addetti aventi grado 13° o corrispondente del personale delle Ferrovie dello Stato. 
@@ -257,12 +257,12 @@ Salvo quanto previsto dall'art. 22 per i militari di truppa, qualora il personal
 
 ## Art. 24.
 
-L'indennita' integrativa di cui all'[art. 6 del decreto legislativo luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320#art_6), puo' essere concessa in relazione a richieste che gli interessati debbono presentare alle rispettive Amministrazioni entro il 28 febbraio 1947, sotto pena di decadenza. 
+L'indennita' integrativa di cui all'[art. 6 del decreto legislativo luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md), puo' essere concessa in relazione a richieste che gli interessati debbono presentare alle rispettive Amministrazioni entro il 28 febbraio 1947, sotto pena di decadenza. 
  Per la concessione dell'indennita' integrativa suddetta non occorre il concerto col Ministro per il tesoro. I relativi decreti sono sottoposti al riscontro preventivo della Corte dei conti.
 
 ## Art. 25.
 
-Per i trasferimenti del personale dalle sedi della Venezia Giulia in sedi site in territorio restituito all'Amministrazione italiana, in luogo delle disposizioni del presente decreto, si continuano ad applicare, se piu' favorevoli, le disposizioni di cui al [decreto legislativo luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320).
+Per i trasferimenti del personale dalle sedi della Venezia Giulia in sedi site in territorio restituito all'Amministrazione italiana, in luogo delle disposizioni del presente decreto, si continuano ad applicare, se piu' favorevoli, le disposizioni di cui al [decreto legislativo luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md).
 
 ## Art. 26.
 

@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  « Art. 4. 
  
- « L'entrata in vigore del [R. decreto-legge 15 luglio 1926 n. 1345](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-15;1345), modificato dal [R. decreto-legge 13 febbraio 1927, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;285), anziche' dal 1° luglio 1926, viene stabilita dal 26 gennaio 1923. 
+ « L'entrata in vigore del [R. decreto-legge 15 luglio 1926 n. 1345](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-15;1345), modificato dal [R. decreto-legge 13 febbraio 1927, n. 285](Varianti%20al%20R.%20decreto-legge%2015%20luglio%201926%20n.%201345%20relativo%20alla%20istituzione%20di%20un%20indennizzo%20privilegiato%20aeronautico.%20027U0285.md), anziche' dal 1° luglio 1926, viene stabilita dal 26 gennaio 1923. 
  
  « Per le inabilita' permanenti e pei decessi di cui agli articoli 1 e 2 del predetto [R. decreto-legge 15 luglio 1926, n. 1345](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-15;1345), i quali siansi verificati nel periodo dalla data dell'armistizio a tutto il 25 gennaio 1923, sara' corrisposto dal Ministero dell'aeronautica un indennizzo pari a quello stabilito a seconda dei gradi, dalla tabella allegata al decreto medesimo, senza alcun aumento in relazione alla durata del servizio di volo prestato ». 
  

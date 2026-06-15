@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 6 luglio 1912, n. 832](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;832); 
+ Vista la [legge 6 luglio 1912, n. 832](Concernente%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U0832.md); 
  
  Visto l'art. 1 del Nostro decreto in data 27 agosto 1916, n. 1055, nonche' la tabella allegata al decreto medesimo; 
  
- Vista la [legge 9 luglio 1916, n. 814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-07-09;814); 
+ Vista la [legge 9 luglio 1916, n. 814](Che%20proroga%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lanno%20finanziario%201916-917%20fino%20quando%20non%20siano%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%20_cbe86bff6c88.md); 
  
  Sulla proposta del ministro segretario di Stato per il tesoro, di concerto con quello per l'agricoltura; 
  

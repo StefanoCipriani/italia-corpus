@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 6 dicembre 1943, n. 18/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;18);
+Visto il [R. decreto-legge 6 dicembre 1943, n. 18/B](Miglioramenti%20economici%20di%20carattere%20temporaneo%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20degli%20enti%20ausiliari%20dello%20Stato%20e%20di%20diritto%20pubblico.%20043U0018.md);
 
 Visto il [decreto legislativo Luogotenenziale 5 ottobre 1944, n. 249](Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Nelle provincie non ancora liberate alla data di entrata in vigore del presente decreto ed in quelle gia' liberate nelle quali il [R. decreto-legge 6 dicembre 1943, n. 18/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;18), concernente la integrazione temporanea del trattamento economico dei pubblici dipendenti, non sia stato esteso con disposizioni del Governo Militare Alleato, detto Regio decreto-legge avra' effetto dal giorno che sara' stabilito con tali disposizioni. In mancanza di questo, esso avra' effetto, in ciascuna provincia, dal primo giorno del mese in cui il relativo capoluogo torni all'amministrazione del Governo italiano.
+Nelle provincie non ancora liberate alla data di entrata in vigore del presente decreto ed in quelle gia' liberate nelle quali il [R. decreto-legge 6 dicembre 1943, n. 18/B](Miglioramenti%20economici%20di%20carattere%20temporaneo%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20degli%20enti%20ausiliari%20dello%20Stato%20e%20di%20diritto%20pubblico.%20043U0018.md), concernente la integrazione temporanea del trattamento economico dei pubblici dipendenti, non sia stato esteso con disposizioni del Governo Militare Alleato, detto Regio decreto-legge avra' effetto dal giorno che sara' stabilito con tali disposizioni. In mancanza di questo, esso avra' effetto, in ciascuna provincia, dal primo giorno del mese in cui il relativo capoluogo torni all'amministrazione del Governo italiano.
 
 ## Art. 2.
 

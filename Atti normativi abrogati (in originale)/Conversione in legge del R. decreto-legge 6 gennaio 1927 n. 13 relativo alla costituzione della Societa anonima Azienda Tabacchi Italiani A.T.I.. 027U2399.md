@@ -25,7 +25,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 gennaio 1927, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-06;13), relativo alla costituzione della Societa' anonima «Azienda Tabacchi Italiani» (A.T.I.). 
+ E' convertito in legge il [R. decreto-legge 6 gennaio 1927, n. 13](Costituzione%20della%20Societa%20anonima%20Azienda%20Tabacchi%20italiani%20A.T.I..%20027U0013.md), relativo alla costituzione della Societa' anonima «Azienda Tabacchi Italiani» (A.T.I.). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

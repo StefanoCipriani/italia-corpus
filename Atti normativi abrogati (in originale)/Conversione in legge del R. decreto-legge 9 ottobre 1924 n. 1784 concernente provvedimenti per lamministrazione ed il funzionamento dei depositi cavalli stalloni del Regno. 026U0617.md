@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il [R. decreto-legge 9 ottobre 1924, n. 1784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-09;1784), concernente provvedimenti per l'amministrazione ed il funzionamento dei depositi cavalli stalloni del Regno, e' convertito in legge. 
+ Il [R. decreto-legge 9 ottobre 1924, n. 1784](Provvedimenti%20per%20lamministrazione%20ed%20il%20funzionamento%20dei%20Depositi%20cavalli%20stalloni%20del%20Regno.%20024U1784.md), concernente provvedimenti per l'amministrazione ed il funzionamento dei depositi cavalli stalloni del Regno, e' convertito in legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

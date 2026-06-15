@@ -14,7 +14,7 @@ Visto il [decreto legislativo 14 settembre 1947, n. 877](https://www.normattiva.
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151).
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -25,7 +25,7 @@ Sulla proposta del Ministro Segretario di Stato per i trasporti, di concerto coi
 ## Art. 1.
 
 Il Ministro per i trasporti e' autorizzato a far luogo, d'intesa col Ministro per il tesoro, alla concessione delle opere di ripristino dei tronchi Marina di San Vito-Crocetta-Archi, Marina di Ortona-Crocetta e diramazione Archi-Atessa della ferrovia Sangritana con la sostituzione dello scartamento ridotto con quello normale.
- Il corrispettivo di concessione, in capitale non differito, per le opere di ripristino ed in sostituzione dello scartamento al netto del concorso dello Stato gia' accordato in applicazione del [decreto legislativo luogotenenziale 15 ottobre 1944, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-15;346), e le condizioni ed obblighi di concessione saranno determinati dal Ministro per i trasporti, di intesa col Ministro per il tesoro, su conforme parere del Consiglio superiore dei lavori pubblici.
+ Il corrispettivo di concessione, in capitale non differito, per le opere di ripristino ed in sostituzione dello scartamento al netto del concorso dello Stato gia' accordato in applicazione del [decreto legislativo luogotenenziale 15 ottobre 1944, n. 346](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20eccezionali%20per%20la%20riattivazione%20dei%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata.%20044U0346.md), e le condizioni ed obblighi di concessione saranno determinati dal Ministro per i trasporti, di intesa col Ministro per il tesoro, su conforme parere del Consiglio superiore dei lavori pubblici.
  La convenzione con la Societa' concessionaria sara' approvata e resa esecutoria, sentito il parere del Consiglio di Stato, dai Ministri predetti nonche' dal Ministro per le finanze ove comporti esoneri ed agevolazioni tributarie.
 
 ## Art. 2.

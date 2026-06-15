@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1165), relativo alla cessione gratuita di materiali residuati dalla guerra alla Societa' Agricola Italo-Somala. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1165](Cessione%20gratuita%20di%20materiali%20residuati%20dalla%20guerra%20alla%20Societa%20agricola%20italo-somala.%20027U1165.md), relativo alla cessione gratuita di materiali residuati dalla guerra alla Societa' Agricola Italo-Somala. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

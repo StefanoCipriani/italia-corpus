@@ -12,7 +12,7 @@ IL MINISTRO DEL TESORO, DEL BILANCIO
 
 E DELLA PROGRAMMAZIONE ECONOMICA
 
-Visto il [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58), e, in particolare, l'articolo 66, il quale prevede anche che il Ministro del tesoro, del bilancio e della programmazione economica, sentita la Banca d'Italia e la Consob, disciplina e autorizza i mercati all'ingrosso dei titoli di Stato e ne approva i regolamenti, anche in deroga alle disposizioni del capo I, del titolo I, della parte III dello stesso decreto legislativo;
+Visto il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e, in particolare, l'articolo 66, il quale prevede anche che il Ministro del tesoro, del bilancio e della programmazione economica, sentita la Banca d'Italia e la Consob, disciplina e autorizza i mercati all'ingrosso dei titoli di Stato e ne approva i regolamenti, anche in deroga alle disposizioni del capo I, del titolo I, della parte III dello stesso decreto legislativo;
 
 Visti inoltre gli articoli 62, 63, 69, 70, 71, 72, 75, 76, 77, 80, 90, 190 e 195 del citato decreto legislativo;
 
@@ -41,7 +41,7 @@ L'organizzazione e la gestione dei mercati all'ingrosso dei titoli di Stato ital
                         d)
                             gli obblighi degli operatori principali, che devono formulare in via continuativa offerte di acquisto e di vendita di titoli, differenziati per caratteristiche, mantenere condizioni competitive di prezzo e svolgere scambi significativi;
                         e)
-                            i titoli e i contratti ammessi, nonche' i criteri per la determinazione dei quantitativi minimi negoziabili, che non potranno essere comunque inferiori a quelli determinati ai sensi dell'[articolo 61, comma 10, del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com10);
+                            i titoli e i contratti ammessi, nonche' i criteri per la determinazione dei quantitativi minimi negoziabili, che non potranno essere comunque inferiori a quelli determinati ai sensi dell'[articolo 61, comma 10, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
                         f)
                             le condizioni e le modalita' per la sospensione e l'esclusione dei soggetti e dei titoli ammessi alle negoziazioni;
                         g)
@@ -53,18 +53,18 @@ I regolamenti di cui al precedente comma e le eventuali successive modificazioni
 
 3.
 
-Per la pubblicita' dei regolamenti vengono osservate le disposizioni emanate dalla Consob ai sensi dell'[articolo 62, comma 3, del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_62-com3).
+Per la pubblicita' dei regolamenti vengono osservate le disposizioni emanate dalla Consob ai sensi dell'[articolo 62, comma 3, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
  Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 Note alle premesse:
- - Il testo dell'[art. 66 del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_66), e' il seguente:
+ - Il testo dell'[art. 66 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' il seguente:
  "Art. 66 (Mercati all'ingrosso di titoli di Stato).
  - 1. Il Ministro del tesoro, del bilancio e della programmazione economica, anche in deroga alle disposizioni del presente capo, sentite la Banca d'Italia e la Consob, disciplina e autorizza i mercati all'ingrosso di titoli di Stato e ne approva i regolamenti.
  2. La Banca d'Italia e' ammessa alle negoziazioni sui mercati all'ingrosso di titoli di Stato. Il Ministero del tesoro, del bilancio e della programmazione economica e' ammesso alle negoziazioni sui mercati all'ingrosso di titoli di Stato e vi partecipa comunicando preventivamente alla Banca d'Italia i tempi e le modalita' degli interventi.
  Per motivate ragioni di tutela della stabilita' della moneta, la Banca d'Italia entro ventiquattro ore dalla comunicazione puo' chiedere il differimento degli interventi o diverse modalita' di attuazione. Le disposizioni emanate ai sensi del comma 1 possono prevedere l'ammissione alle negoziazioni anche di soggetti diversi dagli intermediari autorizzati all'attivita' di negoziazione".
- - Il testo degli articoli 62, 63, 69, 70, 71, 72, 75, 76, 77, 80, 90, 190 e 195 del sopracitato [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58), e' il seguente:
+ - Il testo degli articoli 62, 63, 69, 70, 71, 72, 75, 76, 77, 80, 90, 190 e 195 del sopracitato [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' il seguente:
  "Art. 62 (Regolamento del mercato). - 1.
  L'organizzazione e la gestione del mercato sono disciplinate da un regolamento deliberato all'assemblea ordinaria della societa' di gestione, il regolamento puo' attribuire al consiglio di amministrazione il potere di dettare disposizioni di attuazione.
  2. Il regolamento determina in ogni caso:
@@ -104,7 +104,7 @@ Note alle premesse:
  "Art. 77 (Vigilanza sui sistemi di compensazione, di liquidzione e di garanzia). - 1. La vigilanza sui sistemi indicati negli articoli 68, 69, comma 2, e 70, sui soggetti che li gestiscono e sulla societa' indicata nell'art. 69, comma 1, e' esercitata dalla Banca d'Italia e dalla Consob. A tal fine la Banca d'Italia e la Consob possono richiedere ai gestori dei sistemi, alla societa' e agli operatori dati e notizie in ordine alla compensazione e liquidazione delle operazioni ed effettuare ispezioni.
  2. In caso di necessita' e urgenza, la Banca d'Italia, adotta i provvedimenti idonei a consentire la tempestiva chiusura della liquidazione, anche sostituendosi ai gestori dei sistemi e dei servizi indicati negli articoli 69 e 70".
  "Art. 80 (Attivita' di gestione accentrata di strumenti finanziari). - 1. L'attivita' di gestione accentrata di strumenti finanziari ha carattere di impresa ed e' esercitata nella forma di societa' per azioni, anche senza fine di lucro.
- 2. Le societa' di getione accentrata hanno per oggetto esclusivo la prestazione del servizio di gestione accentrata di strumenti finanziari, ivi compresi quelli dematerializzati in attuazione di quanto disposto dall'[art. 10 della legge 17 dicembre 1997, n. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-17;433#art_10). Esse possono svolgere attivita' connesse e strumentali.
+ 2. Le societa' di getione accentrata hanno per oggetto esclusivo la prestazione del servizio di gestione accentrata di strumenti finanziari, ivi compresi quelli dematerializzati in attuazione di quanto disposto dall'[art. 10 della legge 17 dicembre 1997, n. 433](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lintroduzione%20dellEURO.md). Esse possono svolgere attivita' connesse e strumentali.
  3. La Consob, d'intesa con la Banca d'Italia, determina con regolamento il capitale minimo della societa' e le attivita' connesse e strumentali.
  4. Il Ministro del tesoro, del bilancio e della programmazione economica, sentite la Banca d'Italia e la Consob, determina con regolamento i requisiti di onorabilita' e professionalita' dei soggetti che svolgono funzioni di amministrazione, direzione e controllo nella societa'. Si applica l'art. 13, commi 2 e 3.
  5. Il regolamento previsto dal comma 4 stabilisce le cause che comportano la sospensione temporanea dalla carica e la sua durata. Si applica l'art. 13, commi 2 e 3.
@@ -137,7 +137,7 @@ Note alle premesse:
  "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.
  4. I regolamenti di cui al comma 1, ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".
  Note all'art. 1:
- - Il testo dell'[art. 61 del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61), e' il seguente:
+ - Il testo dell'[art. 61 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' il seguente:
  "Art. 61 (Mercati regolamentati di strumenti finanziari). - 1. L'attivita' di organizzazione e gestione di mercati regolamentati di strumenti finanziari ha carattere di impresa ed e' esercitata da societa' per azioni, anche senza scopo di lucro (societa' di gestione).
  2. La Consob determina con regolamento:
  a) il capitale minimo delle societa' di gestione;
@@ -150,7 +150,7 @@ Note alle premesse:
  8. In caso di inosservanza del divieto previsto dal comma 7 si applica l'art. 14, comma 5. L'impugnazione puo' essere proposta anche dalla Consob entro il termine previsto dall'art. 14, comma 6.
  9. Alle societa' di gestione si applicano le disposizioni della parte IV, titolo III, capo II, sezione VI, ad eccezione degli articoli 157, 158 e 165.
  10. Il Ministro del tesoro, del bilancio e della programmazione economica, sentite la Banca d'Italia e la Consob, individua le caratteristiche delle negoziazioni all'ingrosso di strumenti finanziari ai fini dell'applicazione delle disposizioni del presente decreto".
- - Per il testo dell'[art. 62, comma 3, del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_62-com3), si veda nelle note alle premesse.
+ - Per il testo dell'[art. 62, comma 3, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), si veda nelle note alle premesse.
 
 ## Art. 2. — Autorizzazione dei mercati all'ingrosso di titoli di Stato
 
@@ -158,7 +158,7 @@ Note alle premesse:
 
 Entro il termine di sessanta giorni dalla data di ricezione dell'istanza della societa' di gestione, il Ministro del tesoro, del bilancio e della programmazione economica, sentite la Banca d'Italia e la Consob che si pronunciano entro trenta giorni dalla richiesta, autorizza l'esercizio dei mercati quando:
                         a)
-                            la societa' di gestione dimostra di possedere i requisiti previsti dall'[articolo 61, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com4) e [5 del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com5);
+                            la societa' di gestione dimostra di possedere i requisiti previsti dall'[articolo 61, commi 2](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), [3](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), [4](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e [5 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
                         b)
                             il regolamento e' stato approvato ai sensi dell'articolo 1, comma 2, del presente decreto.
 
@@ -168,23 +168,23 @@ Ove il Ministero del tesoro, del bilancio e della programmazione economica richi
 
 3.
 
-Il difetto dei requisiti di onorabilita' e professionalita' dei soggetti che svolgono funzioni di amministrazione, direzione e controllo di cui all'[articolo 61, comma 3, del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com3), determina la decadenza dalla carica. Essa e' dichiarata dal consiglio di amministrazione entro trenta giorni dalla nomina o dalla conoscenza del difetto sopravvenuto. In caso d'inerzia, la decadenza e' pronunciata dalla Banca d'Italia.
+Il difetto dei requisiti di onorabilita' e professionalita' dei soggetti che svolgono funzioni di amministrazione, direzione e controllo di cui all'[articolo 61, comma 3, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), determina la decadenza dalla carica. Essa e' dichiarata dal consiglio di amministrazione entro trenta giorni dalla nomina o dalla conoscenza del difetto sopravvenuto. In caso d'inerzia, la decadenza e' pronunciata dalla Banca d'Italia.
 
 4.
 
-Le comunicazioni di cui all'[articolo 61, comma 6, del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com6), sono effettuate anche al Ministero del tesoro, del bilancio e della programmazione economica e alla Banca d'Italia. Si applica l'[articolo 61, comma 7, del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com7); in caso di inosservanza si applica l'articolo 14, comma 5, del decreto legislativo medesimo.
+Le comunicazioni di cui all'[articolo 61, comma 6, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono effettuate anche al Ministero del tesoro, del bilancio e della programmazione economica e alla Banca d'Italia. Si applica l'[articolo 61, comma 7, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md); in caso di inosservanza si applica l'articolo 14, comma 5, del decreto legislativo medesimo.
 L'impugnazione puo' essere proposta anche dalla Banca d'Italia entro il termine previsto dall'articolo 14, comma 6.
 
 5.
 
-La Consob iscrive i mercati autorizzati nell'elenco di cui all'[articolo 63, comma 2, del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_63-com2), curando l'adempimento delle disposizioni comunitarie in materia.
+La Consob iscrive i mercati autorizzati nell'elenco di cui all'[articolo 63, comma 2, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), curando l'adempimento delle disposizioni comunitarie in materia.
 
 Note all'art. 2:
- - Per il testo dell'[art. 61, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com6) e [7, del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com7), si veda nelle note all'art. 1.
- - Il testo dell'[art. 14, comma 5, del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_14-com5), e' il seguente:
+ - Per il testo dell'[art. 61, commi 2](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), [3](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), [4](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), [5](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), [6](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e [7, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), si veda nelle note all'art. 1.
+ - Il testo dell'[art. 14, comma 5, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' il seguente:
  "5. In caso di inosservanza del comma 4, la deliberazione assembleare e' impugnabile a norma dell'[art. 2377 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2377) se, senza il voto di coloro che avrebbero dovuto astenersi, non si sarebbe raggiunta la necessaria maggioranza. Le azioni per le quali non puo' essere esercitato il diritto di voto sono computate a fini della regolare costituzione dell'assemblea.
  6. L'impugnazione puo' essere proposta anche dalla Banca d'Italia o dalla Consob entro sei mesi dalla data della deliberazione ovvero, se questa e' soggetta a iscrizione nel registro delle imprese, entro sei mesi dall'iscrizione".
- - Per il testo dell'[art. 63, comma 2, del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_63-com2), si veda nelle note alle premesse.
+ - Per il testo dell'[art. 63, comma 2, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), si veda nelle note alle premesse.
 
 ## Art. 3. — Specialisti in titoli di Stato
 
@@ -252,14 +252,14 @@ La societa' di gestione:
                         d)
                             comunica al Ministero del tesoro, del bilancio e della programmazione economica, alla Banca d'Italia e alla Consob le violazioni del regolamento del mercato, segnalando le iniziative assunte;
                         e)
-                            provvede alla gestione e alla diffusione delle informazioni e dei documenti indicati nei regolamenti previsti dall'[articolo 65 del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_65).
+                            provvede alla gestione e alla diffusione delle informazioni e dei documenti indicati nei regolamenti previsti dall'[articolo 65 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
 
 2.
 
 La societa' di gestione, provvede agli altri compiti ad essa eventualmente affidati dalla Consob.
 
 Nota all'art. 4:
- - Il testo dell'[art. 65 del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_65), e' il seguente:
+ - Il testo dell'[art. 65 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' il seguente:
  "Art. 65 (Registrazione delle operazioni su strumenti finanziari presso la societa' di gestione). - 1. La Consob stabilisce con regolamento:
  a) le modalita' di registrazione di tutte le operazioni compiute su strumenti finanziari;
  b) i termini e le modalita' con cui i soggetti che prestano servizi di investimento aventi ad oggetto strumenti finanziari ammessi alla negoziazione su un mercato regolamentato devono comunicare le operazioni eseguite fuori da tale mercato".
@@ -304,18 +304,18 @@ Le societa' di gestione sono soggette alla vigilanza della Banca d'Italia che a 
 
 2.
 
-Il Ministro del tesoro, del bilancio e della programmazione economica, sentite la Banca d'Italia e la Consob, verifica che le modificazioni statutarie delle societa' di gestione non contrastino con i requisiti previsti dall'[articolo 61 del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61). Non si puo' dare corso al procedimento per l'iscrizione nel registro delle imprese se non consti tale verifica.
+Il Ministro del tesoro, del bilancio e della programmazione economica, sentite la Banca d'Italia e la Consob, verifica che le modificazioni statutarie delle societa' di gestione non contrastino con i requisiti previsti dall'[articolo 61 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md). Non si puo' dare corso al procedimento per l'iscrizione nel registro delle imprese se non consti tale verifica.
 
 3.
 
-La Banca d'Italia vigila affinche' la regolamentazione del mercato sia idonea ad assicurare l'effettivo conseguimento delle finalita' indicate nell'articolo 1, comma 2, del presente decreto e che sia conforme a quanto stabilito dal regolamento emanato dalla Consob ai sensi dell'[articolo 61, comma 2, del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61-com2).
+La Banca d'Italia vigila affinche' la regolamentazione del mercato sia idonea ad assicurare l'effettivo conseguimento delle finalita' indicate nell'articolo 1, comma 2, del presente decreto e che sia conforme a quanto stabilito dal regolamento emanato dalla Consob ai sensi dell'[articolo 61, comma 2, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
 
 4.
 
 Il Ministero del tesoro, del bilancio e della programmazione economica, su proposta della Banca d'Italia sentita la Consob, puo' richiedere alla societa' di gestione modifiche della regolamentazione del mercato stesso idonee a eliminare le disfunzioni riscontrate nell'attivita' di vigilanza di cui al precedente comma 3.
 
 Nota all'art. 7:
- - Per il testo dell'[art. 61 del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_61), si veda nelle note all'art. 1.
+ - Per il testo dell'[art. 61 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), si veda nelle note all'art. 1.
 
 ## Art. 8. — Compensazione e liquidazione
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il [decreto legislativo 26 novembre 1947, n. 1510](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-26;1510), e' ratificato, a norma dell'[art. 6 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_6), con la seguente modificazione:
+Il [decreto legislativo 26 novembre 1947, n. 1510](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-26;1510), e' ratificato, a norma dell'[art. 6 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md), con la seguente modificazione:
 
  Art. 12. - Sono aggiunti i seguenti commi 2-bis e 2-ter:
  "Al personale proveniente dai ruoli del servizio permanente effettivo della disciolta Milizia nazionale della strada, di cui alla lettera b) degli articoli 5 e 6, l'anzianita' di grado, posseduta da ciascuno nei ruoli di provenienza, e' computabile ai fini dell'avanzamento.

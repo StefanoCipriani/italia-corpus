@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 22 febbraio 1863, n. 1174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1863-02-22;1174), e sue successive modificazioni, sull'ordinamento della R. marina;
+Visto il [R. decreto 22 febbraio 1863, n. 1174](Contenente%20lordinamento%20del%20servizio%20della%20Marina%20militare%20dello%20Stato.%20063U1174.md), e sue successive modificazioni, sull'ordinamento della R. marina;
 
-Visto il [R. decreto 15 luglio 1906, n. 402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-07-15;402), e successive modificazioni, sul riordinamento del Ministero della marina;
+Visto il [R. decreto 15 luglio 1906, n. 402](Soppressione%20dellufficio%20di%20revisione%20presso%20lamministrazione%20centrale%20della%20marina.%20006U0402.md), e successive modificazioni, sul riordinamento del Ministero della marina;
 
 Vista la [legge 27 giugno 1907, n. 404](Istituzione%20di%20un%20Consiglio%20superiore%20di%20marina%20di%20un%20Comitato%20degli%20ammiragli%20e%20di%20un%20Comitato%20per%20lesame%20di%20progetti%20di%20navi.%20007U0404.md), e sue modificazioni, riguardante il Consiglio superiore di marina, il Comitato degli ammiragli e il Comitato per d'esame dei progetti di navi;
 
@@ -24,7 +24,7 @@ Vista la [legge 4 marzo 1898, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visti i relativi regolamenti;
 
-Visto il [R. decreto 20 giugno 1895, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-06-20;431), e successive modificazioni, che approva il regolamento per il servizio delle direzioni dei lavori e per la contabilita' del materiale nei RR. arsenali e cantieri marittimi;
+Visto il [R. decreto 20 giugno 1895, n. 431](Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20direzioni%20dei%20lavori%20e%20per%20la%20contabilita%20del%20materiale%20nei%20regi%20arsenali%20e%20cantieri%20marittimi.%20095U0431.md), e successive modificazioni, che approva il regolamento per il servizio delle direzioni dei lavori e per la contabilita' del materiale nei RR. arsenali e cantieri marittimi;
 
 Considerata la convenienza di conseguire, durante il graduale passaggio dei servizi della R. marina all'assetto di pace, non solo ogni possibile razionale economia e massimo rendimento delle spese, ma anche ogni possibile semplificazione amministrativa e contabile e relativo decentramento dei vari servizi, meglio precisando le singole responsabilita', nonche' un funzionamento per quanto possibile prossimo al tipo industriale degli stabilimenti privati di lavoro;
 

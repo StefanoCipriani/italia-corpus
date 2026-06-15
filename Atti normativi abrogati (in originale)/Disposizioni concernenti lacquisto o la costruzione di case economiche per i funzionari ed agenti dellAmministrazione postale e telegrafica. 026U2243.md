@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e successive modificazioni, relativo al nuovo ordinamento dell'Amministrazione postale telegrafica;
+Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e successive modificazioni, relativo al nuovo ordinamento dell'Amministrazione postale telegrafica;
 
 Visto il [R. decreto-legge 30 novembre 1919, n. 2318](Che%20riunisce%20in%20testo%20unico%20le%20leggi%20per%20le%20case%20popolari%20e%20per%20lindustria%20edilizia.%20019U2318.md), convertito nella [legge 7 febbraio 1926, n. 253](Conversione%20in%20legge%20del%20R.%20decreto%2030%20novembre%201919%20n.%202318%20e%20di%20altri%20successivi%20recanti%20provvedimenti%20per%20le%20case%20popolari%20ed%20economiche.%20026U0253.md), per le case popolari ed economiche e per l'industria edilizia, e le successive disposizioni in materia;
 

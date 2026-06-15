@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 marzo 1930, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-12;124), che reca modificazioni alla tassa di consumo sul caffe' ed alla imposta di fabbricazione sui surrogati del caffe'. 
+ E' convertito in legge il [R. decreto-legge 12 marzo 1930, n. 124](Modificazioni%20alla%20tassa%20di%20consumo%20sul%20caffe%20ed%20alla%20imposta%20di%20fabbricazione%20sui%20surrogati%20del%20caffe.%20030U0124.md), che reca modificazioni alla tassa di consumo sul caffe' ed alla imposta di fabbricazione sui surrogati del caffe'. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

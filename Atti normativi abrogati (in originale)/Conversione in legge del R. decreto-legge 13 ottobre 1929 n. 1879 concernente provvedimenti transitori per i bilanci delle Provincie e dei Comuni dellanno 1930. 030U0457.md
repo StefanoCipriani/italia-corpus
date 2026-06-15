@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 ottobre 1929, n. 1879](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-13;1879), riguardante provvedimenti transitori per i bilanci delle Provincie e dei Comuni dell'anno 1930. 
+ E' convertito in legge il [R. decreto-legge 13 ottobre 1929, n. 1879](Provvedimenti%20transitori%20per%20i%20bilanci%20delle%20Provincie%20e%20dei%20Comuni%20dellanno%201930.%20029U1879.md), riguardante provvedimenti transitori per i bilanci delle Provincie e dei Comuni dell'anno 1930. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

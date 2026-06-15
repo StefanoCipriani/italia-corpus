@@ -20,7 +20,7 @@ Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20d
 
 Veduta la [legge 18 giugno 1931, n. 987](Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20031U0987.md);
 
-Veduto il .regolamento per l'applicazione della suindicata Legge, approvato con [R. decreto 12 ottobre 1933, n. 1700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-12;1700);
+Veduto il .regolamento per l'applicazione della suindicata Legge, approvato con [R. decreto 12 ottobre 1933, n. 1700](Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2018%20giugno%201931%20n.%20987%20recante%20disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20_5e6e30170b22.md);
 
 Veduto il [R. decreto-legge 12 novembre 1930, n. 2217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-12;2217), convertito in legge con la legge 3 giugno 1937-XV, n. 1228, recante norme per la tutela della denominazione di zafferano;
 

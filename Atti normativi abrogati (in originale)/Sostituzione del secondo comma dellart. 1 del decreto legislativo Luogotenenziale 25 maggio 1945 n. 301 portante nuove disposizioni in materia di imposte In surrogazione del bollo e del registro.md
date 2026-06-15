@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 15 dicembre 1938, n. 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-12-15;1975), recante modificazioni al regime dell'imposta di negoziazione sui titoli delle societa', convertito in [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
+Visto il [R. decreto-legge 15 dicembre 1938, n. 1975](Modificazioni%20al%20vigente%20regime%20dellimposta%20di%20negoziazione%20sui%20titoli%20delle%20societa.%20038U1975.md), recante modificazioni al regime dell'imposta di negoziazione sui titoli delle societa', convertito in [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
 Visto il [decreto legislativo Luogotenenziale 25 maggio 1945, n. 301](Disposizioni%20in%20materia%20di%20Imposte%20in%20surrogazione%20del%20bollo%20e%20registro.%20045U0301.md), portante nuove disposizioni in materia di imposte in surrogazione del bollo e del registro;
 

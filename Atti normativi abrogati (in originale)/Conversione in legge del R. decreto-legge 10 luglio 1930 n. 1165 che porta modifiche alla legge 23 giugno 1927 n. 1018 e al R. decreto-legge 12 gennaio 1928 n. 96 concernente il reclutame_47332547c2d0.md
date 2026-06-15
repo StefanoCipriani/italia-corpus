@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 luglio 1930, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-10;1165), che porta modifiche alla [legge 23 giugno 1927, numero 1018](Reclutamento%20ed%20avanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20027U1018.md), e al [R. decreto-legge 12 gennaio 1928, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-12;96), concernente il reclutamento e l'avanzamento degli ufficiali della Regia aeronautica. 
+ E' convertito in legge il [R. decreto-legge 10 luglio 1930, n. 1165](Modifiche%20alla%20legge%2023%20giugno%201927%20n.%201018%20e%20al%20Regio%20decreto-legge%2012%20gennaio%201928%20n.%2096%20relativi%20al%20reclutamento%20e%20allavanzamento%20degli%20ufficiali%20e%20dei%20sottufficiali%20della%20Regia%20aerona_2f28eb8c61c7.md), che porta modifiche alla [legge 23 giugno 1927, numero 1018](Reclutamento%20ed%20avanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20027U1018.md), e al [R. decreto-legge 12 gennaio 1928, n. 96](Modificazioni%20alle%20vigenti%20disposizioni%20sul%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20028U0096.md), concernente il reclutamento e l'avanzamento degli ufficiali della Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

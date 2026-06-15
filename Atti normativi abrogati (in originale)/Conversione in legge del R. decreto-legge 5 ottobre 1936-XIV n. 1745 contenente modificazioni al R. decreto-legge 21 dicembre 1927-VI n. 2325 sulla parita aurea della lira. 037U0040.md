@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 ottobre 1936, n 1745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-05;1745), contenente modificazioni al R. decreto-legge 21 dicembre 1927-VI, n. 2325, sulla parita' aurea della lira. 
+ E' convertito in legge il [R. decreto-legge 5 ottobre 1936, n 1745](Modificazioni%20al%20R.%20decreto-legge%2021%20dicembre%201927-VI%20n.%202325.%20036U1745.md), contenente modificazioni al R. decreto-legge 21 dicembre 1927-VI, n. 2325, sulla parita' aurea della lira. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

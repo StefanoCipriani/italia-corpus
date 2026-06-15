@@ -23,7 +23,7 @@ sopra descritte, salvo le limitazioni stabilite nella presente legge.
 Lo stesso trattamento economico di cui al comma precedente spetta
 al personale che, nel periodo di permanenza nei territori suddetti, abbia prestato regolare servizio alle dipendenze delle locali autorita' occupanti ed amministratrici; ma ogni altra competenza ad esso spettante inerente alla presenza effettiva in servizio si intende sostituita e compensata dagli assegni di servizio al personale stesso corrisposti dalle predette autorita'.
  Il medesimo trattamento di cui al secondo comma del presente articolo spetta altresi' al personale comunque destinato a prestare servizio in Libia, in Eritrea e nell'ex Somalia italiana posteriormente alla data di cessazione del funzionamento dei relativi Governi coloniali.
- La posizione giuridica del personale civile e militare appartenente ad Amministrazioni diverse da quella del soppresso Ministero dell'Africa italiana, gia' in servizio o successivamente destinato in Libia o in Eritrea, e' regolata a termini dell'ultimo comma dell'[art. 16 del regio decreto-legge 14 dicembre 1936, n. 2374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-12-14;2374#art_16).
+ La posizione giuridica del personale civile e militare appartenente ad Amministrazioni diverse da quella del soppresso Ministero dell'Africa italiana, gia' in servizio o successivamente destinato in Libia o in Eritrea, e' regolata a termini dell'ultimo comma dell'[art. 16 del regio decreto-legge 14 dicembre 1936, n. 2374](Costituzione%20dei%20ruoli%20tecnici%20coloniali.%20036U2374.md).
 
 ## Art. 2.
 
@@ -48,13 +48,13 @@ Al personale appartenente agli Enti dipendenti dai cessati Governi dell'Africa o
 ## Art. 5.
 
 Al personale a contratto a tempo indeterminato ed a quello di cui al precedente art. 4 compete, a carico dell'Amministrazione presso, la quale l'impiegato ha riassunto servizio dopo il rimpatrio, il rimborso delle spese di viaggio di rimpatrio per se' e per le persone di famiglia.
- Al personale di cui al comma precedente compete inoltre il rimborso delle spese di trasporto in Italia di quindici quintali complessivi di mobili e masserizie con le modalita' di cui all'[art. 7 del regio decreto 31 ottobre 1923, n. 2504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2504#art_7), e successive modificazioni.
+ Al personale di cui al comma precedente compete inoltre il rimborso delle spese di trasporto in Italia di quindici quintali complessivi di mobili e masserizie con le modalita' di cui all'[art. 7 del regio decreto 31 ottobre 1923, n. 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), e successive modificazioni.
  Il trattamento del presente articolo e' corrisposto al personale che ha effettuato o effettuera' il trasferimento entro il termine massimo di 180 giorni dopo l'entrata in vigore della presente legge.
  Lo stesso termine e' stabilito per il personale dei ruoli civili e militari delle altre Amministrazioni dello Stato gia' in servizio nei territori ex coloniali.
 
 ## Art. 6.
 
-Il personale per il quale i provvedimenti di comando in applicazione dell'[art. 2 della legge 16 settembre 1940, n. 1450](Trattamento%20del%20personale%20dipendente%20dallAmministrazione%20dellAfrica%20Italiana%20trattenuto%20nel%20Regno%20a%20causa%20dello%20stato%20di%20guerra.%20040U1450.md), modificato dal [decreto legislativo 8 maggio 1948, n. 839, e dell'art. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-08;839#art_12) della [legge 29 aprile 1953, n. 430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-29;430), non risultino formalmente adottati dal soppresso Ministero dell'Africa italiana o dal cessato Ufficio per gli affari del soppresso Ministero dell'Africa italiana, sara' sistemato dalle Amministrazioni di assegnazione, in base alla situazione di fatto.
+Il personale per il quale i provvedimenti di comando in applicazione dell'[art. 2 della legge 16 settembre 1940, n. 1450](Trattamento%20del%20personale%20dipendente%20dallAmministrazione%20dellAfrica%20Italiana%20trattenuto%20nel%20Regno%20a%20causa%20dello%20stato%20di%20guerra.%20040U1450.md), modificato dal [decreto legislativo 8 maggio 1948, n. 839, e dell'art. 12](../Decreti%20Legislativi/Norme%20integrative%20della%20legge%2016%20settembre%201940%20n.%201450%20riguardante%20il%20trattamento%20del%20personale%20dipendente%20dallAmministrazione%20dellAfrica%20italiana%20trattenuto%20nel%20territorio%20metropolitano_e757e6730884.md) della [legge 29 aprile 1953, n. 430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-29;430), non risultino formalmente adottati dal soppresso Ministero dell'Africa italiana o dal cessato Ufficio per gli affari del soppresso Ministero dell'Africa italiana, sara' sistemato dalle Amministrazioni di assegnazione, in base alla situazione di fatto.
 
 ## Art. 7.
 

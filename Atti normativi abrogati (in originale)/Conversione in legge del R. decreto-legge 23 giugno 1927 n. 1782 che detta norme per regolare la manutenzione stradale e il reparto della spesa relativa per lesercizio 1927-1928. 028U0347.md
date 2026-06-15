@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1782](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1782), che detta norme per regolare la manutenzione stradale e relativi contributi per l'esercizio 1927-1928. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1782](Norme%20per%20regolare%20la%20manutenzione%20stradale%20e%20relativi%20contributi%20per%20lesercizio%201927-28.%20027U1782.md), che detta norme per regolare la manutenzione stradale e relativi contributi per l'esercizio 1927-1928. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

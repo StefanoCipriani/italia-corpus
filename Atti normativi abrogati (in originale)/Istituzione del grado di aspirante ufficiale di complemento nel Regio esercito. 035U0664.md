@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), recante l'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), recante l'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
 Visto il [R. decreto-legge 11 ottobre 1934, n. 1723](Aggiornamento%20delle%20disposizioni%20concernenti%20lordinamento%20del%20Regio%20esercito.%20034U1723.md), che provvede all'aggiornamento delle disposizioni concernenti l'ordinamento del Regio esercito, convertito in legge con la [legge 17 dicembre 1934, n. 2110](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2011%20ottobre%201934%20n.%201723%20relativo%20allaggiornamento%20delle%20disposizioni%20concernenti%20lordinamento%20del%20Regio%20esercito%20con%20la%20legge%20s_0221e822e3f9.md);
 
 Vista la [legge 7 giugno 1934, n. 899](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20034U0899.md), sull'avanzamento degli ufficiali del Regio esercito, e successive modificazioni;
 
-Visto il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi per il Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-31;3458), e successive modificazioni;
+Visto il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi per il Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), e successive modificazioni;
 
 Ritenuta la necessita' urgente ed assoluta di istituire, per i provenienti dai corsi allievi ufficiali di complemento, il grado di «aspirante ufficiale di complemento»;
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-E' istituito nel Regio esercito per i provenienti dai corsi allievi ufficiali di complemento il grado di «aspirante ufficiale di complemento», che rientra nel grado 11° dell'ordinamento gerarchico stabilito dal [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), ed agli effetti disciplinari e' grado di ufficiale immediatamente inferiore a quello di sottotenente.
+E' istituito nel Regio esercito per i provenienti dai corsi allievi ufficiali di complemento il grado di «aspirante ufficiale di complemento», che rientra nel grado 11° dell'ordinamento gerarchico stabilito dal [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), ed agli effetti disciplinari e' grado di ufficiale immediatamente inferiore a quello di sottotenente.
 
 ## Art. 2.
 

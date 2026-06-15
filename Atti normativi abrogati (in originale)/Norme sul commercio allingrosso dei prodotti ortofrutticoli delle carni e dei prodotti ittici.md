@@ -28,11 +28,11 @@ I regolamenti che disciplinano l'esercizio del commercio all'ingrosso e il funzi
 
 ## Art. 3.
 
-Coloro che intendono esercitare il commercio all'ingrosso dei prodotti ortofrutticoli, delle carni e dei prodotti ittici debbono farne preventiva denuncia alla Camera di commercio, industria e agricoltura, che li iscrive in apposito albo. Ad essi non si applicano le norme di cui al [regio decreto-legge 16 dicembre 1926, n. 2174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2174).
+Coloro che intendono esercitare il commercio all'ingrosso dei prodotti ortofrutticoli, delle carni e dei prodotti ittici debbono farne preventiva denuncia alla Camera di commercio, industria e agricoltura, che li iscrive in apposito albo. Ad essi non si applicano le norme di cui al [regio decreto-legge 16 dicembre 1926, n. 2174](Disciplina%20del%20commercio%20di%20vendita%20al%20pubblico.%20026U2174.md).
  I commissionari, i mandatari e gli astatori per operare nei mercati devono essere iscritti in un albo aperto, tenuto dalla Camera di commercio, industria e agricoltura.
  L'iscrizione negli albi previsti dal presente articolo deve essere negata:
  1) a chi ha riportato una condanna a pena restrittiva della liberta' personale superiore a tre anni per delitto non colposo;
- 2) a chi e' sottoposto a misura di prevenzione, ai sensi della [legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423), o di sicurezza personale, o e' stato dichiarato delinquente abituale, professionale o per tendenza;
+ 2) a chi e' sottoposto a misura di prevenzione, ai sensi della [legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), o di sicurezza personale, o e' stato dichiarato delinquente abituale, professionale o per tendenza;
  3) ai condannati, per delitti dolosi contro la pubblica Amministrazione, o l'ordine pubblico, o l'incolumita' pubblica, o la fede pubblica, o l'economia pubblica, l'industria e il commercio, o le persone, o il patrimonio, a pena superiore ai sei mesi, purche' non sia stata concessa la sospensione condizionale della pena.
 
 ## Art. 4.
@@ -56,7 +56,7 @@ L'iniziativa per l'istituzione dei mercati all'ingrosso dei prodotti indicati al
 
 I progetti tecnici relativi all'impianto o all'ampliamento dei mercati all'ingrosso sono approvati con decreto del Ministro per l'industria e il commercio, di concerto con quello per i lavori pubblici, previo parere del Consiglio superiore dei lavori pubblici e del Consiglio superiore di sanita', se il progetto importi una spesa superiore a 200 milioni di lire.
  Qualora la spesa sia inferiore a 200 milioni di lire, i progetti sono approvati con decreto del prefetto, sentito il Comitato tecnico amministrativo del Provveditorato alle opere pubbliche e il Consiglio provinciale di sanita'.
- L'approvazione dei progetti equivale a dichiarazione di pubblica utilita' e d'urgenza ed indifferibilita' delle opere ai fini dell'espropriazione ai termini della [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), e successive modificazioni e integrazioni, e tiene luogo di qualunque altra approvazione o autorizzazione o licenza previste da disposizioni legislative o regolamentari.
+ L'approvazione dei progetti equivale a dichiarazione di pubblica utilita' e d'urgenza ed indifferibilita' delle opere ai fini dell'espropriazione ai termini della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e successive modificazioni e integrazioni, e tiene luogo di qualunque altra approvazione o autorizzazione o licenza previste da disposizioni legislative o regolamentari.
 
 ## Art. 7.
 
@@ -100,7 +100,7 @@ Il Ministero dell'industria e commercio, di concerto con i Ministeri dell'agrico
 I regolamenti dei mercati all'ingrosso sono adottati con deliberazione degli enti che li hanno istituiti, sentita la relativa commissione ed approvati dal prefetto. 
  Detti regolamenti non possono impedire il ritiro delle merci, ne' imporre, per esso, il pagamento di alcun diritto. Il ritiro delle carni e dei prodotti ittici puo' essere vietato solo per esigenze igienico-sanitarie. 
  Le tariffe dei servizi di mercato, salvo l'osservanza delle disposizioni concernenti la disciplina dei prezzi, sono proposte dall'ente gestore, sentito il parere della commissione di mercato ed approvate dalla Camera di commercio, industria e agricoltura. 
- Alle operazioni di facchinaggio che si svolgono nei mercati all'ingrosso non sono applicabili le disposizioni della [legge 3 maggio 1955, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-05-03;407). 
+ Alle operazioni di facchinaggio che si svolgono nei mercati all'ingrosso non sono applicabili le disposizioni della [legge 3 maggio 1955, n. 407](Per%20la%20disciplina%20dei%20lavori%20di%20facchinaggio.md). 
  In ogni caso, nei macelli e nei mercati all'ingrosso non puo' essere imposto o esatto da chicchessia, alcun pagamento che non sia il corrispettivo di prestazioni effettivamente rese. 
  Il Ministero dell'industria e del commercio, di concerto con i Ministeri dell'agricoltura e foreste e della sanita', e, per quanto concerne i mercati dei prodotti ittici, con il Ministero della marina mercantile, sentita la commissione di cui all'art. 14, puo' disporre, con provvedimento definitivo, che siano introdotte nei regolamenti di mercato nuove norme e modifiche.
 

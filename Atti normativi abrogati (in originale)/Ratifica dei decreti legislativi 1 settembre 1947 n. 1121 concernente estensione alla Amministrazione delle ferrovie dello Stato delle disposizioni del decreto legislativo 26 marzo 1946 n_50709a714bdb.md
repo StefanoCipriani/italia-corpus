@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-I [decreti legislativi 1 settembre 1947, n. 1121 e 28 gennaio 1948, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-28;52), sono ratificati.
+I [decreti legislativi 1 settembre 1947, n. 1121 e 28 gennaio 1948, n. 52](../Decreti%20Legislativi/Norme%20integrative%20circa%20la%20riassunzione%20obbligatoria%20del%20reduci%20negli%20impieghi%20non%20di%20ruolo%20ai%20sensi%20dellart.%201%20del%20decreto%20legislativo%2026%20marzo%201946%20n.%20138%20e%20di%20successive%20disposizioni%20legislative.md), sono ratificati.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

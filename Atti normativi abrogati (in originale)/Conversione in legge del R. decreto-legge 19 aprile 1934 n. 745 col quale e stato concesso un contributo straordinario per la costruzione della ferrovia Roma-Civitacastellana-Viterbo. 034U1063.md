@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-19;745), col quale e' stato concesso un contributo straordinario per la costruzione della ferrovia Roma-Civitacastellana-Viterbo. 
+ E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 745](Concessione%20di%20un%20contributo%20straordinario%20per%20la%20costruzione%20della%20ferrovia%20Roma-Civitacastellana-Viterbo.%20034U0745.md), col quale e' stato concesso un contributo straordinario per la costruzione della ferrovia Roma-Civitacastellana-Viterbo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

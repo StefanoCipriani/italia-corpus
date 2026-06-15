@@ -72,7 +72,7 @@ I piani, i progetti, gli estimativi, i contratti di appalto, gli appalti, i cert
 
 Entro un anno dall'entrata in vigore del presente decreto, l'Amministrazione comunale di Palermo redigera' un elenco dei catoi abitati, compresi nel piano di risanamento, graduandoli in ordine alle rispettive condizioni e cominciando dai rioni popolari dell'Alberghiera (Palazzo Reale), Kalsa e Fieravecchia (Tribunali), Argenteria, Mura dell'Itria (Castellammare), San Giuliano, Candelai e Capo (Monte di Pieta'). 
  
- Pei catoi della citta' e delle borgate, non compresi in detto piano e suscettibili di adattamento, a giudizio dell'Ufficio tecnico comunale e dell'Ufficio sanitario, l'Amministrazione disporra' a carico dei proprietari i lavori necessari ed e' autorizzata ad avvalersi della procedura stabilita all'art. 153 del testo unico della legge comunale e provinciale, modificato dall'[art. 32 del R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839#art_32). 
+ Pei catoi della citta' e delle borgate, non compresi in detto piano e suscettibili di adattamento, a giudizio dell'Ufficio tecnico comunale e dell'Ufficio sanitario, l'Amministrazione disporra' a carico dei proprietari i lavori necessari ed e' autorizzata ad avvalersi della procedura stabilita all'art. 153 del testo unico della legge comunale e provinciale, modificato dall'[art. 32 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
  
  I catoi non suscettibili di adattamenti saranno dichiarati inabitabili. 
  

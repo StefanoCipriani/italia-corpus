@@ -42,7 +42,7 @@ A partire da oggi e' vietata l'esportazione delle merci seguenti:
  
 ---------------- 
 Nota redazionale 
- Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 6 agosto 1914, n. 790](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-06;790), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 6 agosto 1914, n. 790](Che%20vieta%20lesportazione%20dal%20Regno%20di%20talune%20merci%20014U0790.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 

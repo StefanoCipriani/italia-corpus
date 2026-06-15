@@ -143,7 +143,7 @@ Quando un produttore cessi definitivamente dall'esercizio, lasciando debito di t
 
 ## Art. 16.
 
-Oltre che alle maggiori pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e' soggetto: 
+Oltre che alle maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' soggetto: 
  
  1° ad una multa variabile da lire 50 a lire 500 il produttore: 
  
@@ -177,7 +177,7 @@ Oltre che alle maggiori pene stabilite dal [Codice penale](https://www.normattiv
 
 ## Art. 17.
 
-I contravventori alle disposizioni regolamentari di rette ad assicurare la preservazione dei contatori o di altri congegni verificati o applicati dal municipio, dei contrassegni, suggelli o bolli, Sono passibili delle penalita' stabilite dal capo II, titolo VI, libro II del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+I contravventori alle disposizioni regolamentari di rette ad assicurare la preservazione dei contatori o di altri congegni verificati o applicati dal municipio, dei contrassegni, suggelli o bolli, Sono passibili delle penalita' stabilite dal capo II, titolo VI, libro II del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 18.
 

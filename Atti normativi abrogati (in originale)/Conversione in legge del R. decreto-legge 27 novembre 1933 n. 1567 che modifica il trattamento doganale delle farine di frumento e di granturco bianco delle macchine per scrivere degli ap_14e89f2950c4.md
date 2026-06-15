@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1567), che modifica il trattamento doganale delle farine di frumento e di granturco bianco, delle macchine per scrivere, degli apparecchi radio e dei carburatori per autoveicoli. 
+ E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1567](Trattamento%20doganale%20delle%20farine%20di%20frumento%20e%20di%20granturco%20bianco%20delle%20macchine%20per%20scrivere%20degli%20apparecchi%20radio%20e%20dei%20carburatori%20per%20autoveicoli.%20033U1567.md), che modifica il trattamento doganale delle farine di frumento e di granturco bianco, delle macchine per scrivere, degli apparecchi radio e dei carburatori per autoveicoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata:
 
 Visto il [decreto-legge Luogotenenziale 22 ottobre 1916, n. 1594](Col%20quale%20la%20riscossione%20dei%20dazi%20di%20consumo%20della%20citta%20di%20Palermo%20viene%20assunta%20per%20un%20ventennio%20dallAmministrazione%20dello%20Stato.%20016U1594.md), col quale la riscossione dei dazi di consumo della citta' di Palermo viene assunta per un ventennio, dall'Amministrazione dello Stato;
 
-Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738);
+Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md);
 
 Sentito il Consiglio dei ministri;
 

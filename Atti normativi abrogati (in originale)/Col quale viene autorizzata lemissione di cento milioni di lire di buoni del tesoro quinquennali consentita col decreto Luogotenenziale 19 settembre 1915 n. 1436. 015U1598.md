@@ -14,7 +14,7 @@ E' autorizzata la emissione di buoni del tesoro quinquennali per l'ammontare di 
 
 ## Art. 2.
 
-A tali buoni sono applicabili le disposizioni portate dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-07-23;718#art_2) e [3 del Regio decreto 23 luglio 1914, n. 718](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-07-23;718#art_3).
+A tali buoni sono applicabili le disposizioni portate dagli [articoli 2](Col%20quale%20viene%20autorizzata%20una%20emissione%20di%20buoni%20del%20tesoro%20quinquennali%20per%20lammontare%20di%2090%20milioni%20di%20lire%20in%20conto%20dei%20150%20milioni%20consentiti%20dalla%20legge%2016%20luglio%201914%20n.%20683.%20014U0718.md) e [3 del Regio decreto 23 luglio 1914, n. 718](Col%20quale%20viene%20autorizzata%20una%20emissione%20di%20buoni%20del%20tesoro%20quinquennali%20per%20lammontare%20di%2090%20milioni%20di%20lire%20in%20conto%20dei%20150%20milioni%20consentiti%20dalla%20legge%2016%20luglio%201914%20n.%20683.%20014U0718.md).
 
 ## Art. 3.
 

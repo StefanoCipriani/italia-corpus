@@ -12,9 +12,9 @@ IL MINISTRO DELLE POSTE
 
 E DELLE TELECOMUNICAZIONI
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Vista la convenzione stipulata in data 1 agosto 1984 tra il Ministero delle poste e delle telecomunicazioni e la concessionaria SIP, approvata con [decreto del Presidente della Repubblica 13 agosto 1984, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-08-13;523), che disciplina la concessione di servizi di telecomunicazioni ad uso pubblico;
+Vista la convenzione stipulata in data 1 agosto 1984 tra il Ministero delle poste e delle telecomunicazioni e la concessionaria SIP, approvata con [decreto del Presidente della Repubblica 13 agosto 1984, n. 523](../DPR/Approvazione%20ed%20esecuzione%20delle%20convenzioni%20per%20la%20concessione%20dei%20servizi%20di%20telecomunicazioni%20ad%20uso%20pubblico%20alle%20societa%20SIP%20Italcable%20e%20Telespazio.md), che disciplina la concessione di servizi di telecomunicazioni ad uso pubblico;
 
 Visto l'[art. 8 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_8), concernente il nuovo ordinamento dell'Amministrazione della pubblica sicurezza;
 
@@ -24,7 +24,7 @@ Visto il decreto ministeriale 12 febbraio 1986 concernente la scelta dello stand
 
 Visto l'[art. 3 del decreto legislativo 9 febbraio 1993, n. 55](Attuazione%20della%20direttiva%2090-387-CEE%20concernente%20istituzione%20del%20mercato%20interno%20per%20i%20servizi%20delle%20telecomunicazioni%20mediante%20la%20realizzazione%20della%20fornitura%20di%20una%20rete%20aperta%20di%20tel_39136300fc24.md), di attuazione della [direttiva 90/387/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;387) concernente l'istituzione del mercato interno per i servizi di telecomunicazioni mediante la realizzazione della fornitura di una rete aperta di telecomunicazioni;
 
-Visto l'[art. 54 della legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146#art_54), recante delega per l'attuazione della [direttiva CEE n. 90/388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;388) in tema di concorrenza nei mercati dei servizi di telecomunicazioni;
+Visto l'[art. 54 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), recante delega per l'attuazione della [direttiva CEE n. 90/388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;388) in tema di concorrenza nei mercati dei servizi di telecomunicazioni;
 
 Visto il [decreto legislativo 17 marzo 1995, n. 103](Recepimento%20della%20direttiva%2090-388-CEE%20relativa%20alla%20concorrenza%20nei%20mercati%20dei%20servizi%20di%20telecomunicazioni.md), con il quale e' stata recepita la [direttiva 90/388/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;388);
 

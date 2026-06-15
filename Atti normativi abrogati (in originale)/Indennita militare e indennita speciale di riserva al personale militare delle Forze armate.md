@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -56,7 +56,7 @@ La misura dell'indennita' militare e' ridotta di un quarto per gli ufficiali ed 
 
 ## Art. 4.
 
-Sono abrogati gli [articoli 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_171), [172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_172) e [173 del regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_173).
+Sono abrogati gli [articoli 171](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [172](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [173 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
  E' abrogato il [decreto legislativo luogotenenziale 7 settembre 1945, n. 574](Aumento%20temporaneo%20della%20indennita%20militare%20per%20gli%20ufficiali%20e%20sottufficiali%20in%20servizio%20permanente%20effettivo%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20_fd707601dbac.md), riguardante l'aumento temporaneo dell'indennita' militare. Le disposizioni concernenti i normali compensi per il lavoro straordinario previsti dal [decreto legislativo Presidenziale 27 giugno 1946, numero 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;19), dalla data in cui ha effetto il presente decreto non si applicano al personale militare.
 
 ## Art. 5.
@@ -69,7 +69,7 @@ L'indennita' mensile da corrispondere, con le norme vigenti per il pagamento del
 
 ## Art. 7.
 
-La speciale indennita' annua lorda corrisposta, in aggiunta al trattamento di quiescenza, agli ufficiali dell'Esercito, della Marina, dell'Aeronautica e della Guardia di finanza all'atto del collocamento nella riserva o in ausiliaria, in base, rispettivamente, all'[art. 48 della legge 9 maggio 1940, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;369#art_48), all'[art. 1 del decreto legislativo 5 ottobre 1945, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1945-10-05;734#art_1), all'[art. 1 del decreto legislativo 10 gennaio 1947, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-01-10;58#art_1) e all'[art. 1 del decreto legislativo 7 novembre 1947, n. 1457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-07;1457#art_1), e' stabilita nelle misure appresso indicate per ciascun grado:
+La speciale indennita' annua lorda corrisposta, in aggiunta al trattamento di quiescenza, agli ufficiali dell'Esercito, della Marina, dell'Aeronautica e della Guardia di finanza all'atto del collocamento nella riserva o in ausiliaria, in base, rispettivamente, all'[art. 48 della legge 9 maggio 1940, n. 369](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0369.md), all'[art. 1 del decreto legislativo 5 ottobre 1945, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1945-10-05;734#art_1), all'[art. 1 del decreto legislativo 10 gennaio 1947, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-01-10;58#art_1) e all'[art. 1 del decreto legislativo 7 novembre 1947, n. 1457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-07;1457#art_1), e' stabilita nelle misure appresso indicate per ciascun grado:
 
 Subalterni......................................... L. 40.000 Capitani e gradi corrispondenti.................... L. 50.000 Maggiori e gradi corrispondenti.................... L. 60.000 Tenenti colonnelli e gradi corrispondenti.......... L. 70.000 Colonnelli e gradi corrispondenti.................. L. 90.000 Generali di brigata e gradi corrispondenti......... L. 120.000 Generali di divisione e gradi corrispondenti....... L. 140.000 Generali di corpo d'armata e gradi corrispondenti.. L. 160.000 Generali di corpo d'armata designati per il comando
  di armata e gradi corrispondenti................. L. 180.000

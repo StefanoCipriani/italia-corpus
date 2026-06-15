@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 1.
 
-L'[articolo 727 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_727) e' sostituito dal seguente: 
+L'[articolo 727 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: 
  "Art. 727 (Maltrattamento di animali). - Chiunque incrudelisce verso animali senza necessita' o li sottopone a strazio o sevizie o a comportamenti e fatiche insopportabili per le loro caratteristiche, ovvero li adopera in giuochi, spettacoli o lavori insostenibili per la loro natura, valutata secondo le loro caratteristiche anche etologiche, o li detiene in condizioni incompatibili con la loro natura o abbandona animali domestici o che abbiano acquisito abitudini della cattivita' e' punito con l'ammenda da lire due milioni a lire dieci milioni. 
  La pena e' aumentata se il fatto e' commesso con mezzi particolarmente dolorosi, quale modalita' del traffico, del commercio, del trasporto, dell'allevamento, della mattazione o di uno spettacolo di animali, o se causa la morte dell'animale: in questi casi la condanna comporta la pubblicazione della sentenza e la confisca degli animali oggetto del maltrattamento, salvo che appartengano a persone estranee al reato. 
  Nel caso di recidiva la condanna comporta l'interdizione dall'esercizio dell'attivita' di commercio, di trasporto, di allevamento, di mattazione o di spettacolo. 

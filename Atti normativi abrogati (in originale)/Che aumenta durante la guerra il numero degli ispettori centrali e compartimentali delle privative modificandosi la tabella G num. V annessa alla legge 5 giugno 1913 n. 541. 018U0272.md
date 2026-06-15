@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per provvedere alle maggiori esigenze di servizio dipendenti dall'istituzione pel periodo della guerra dei due monopoli dei fiammiferi e delle carte da giuoco il numero dei posti d'ispettori centrali e compartimentali delle privative di prima e di seconda classe, di cui alla tabella G n. V, annessa alla [legge 5 giugno 1913, n. 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-05;541), e' portato temporaneamente da diciassette a diciannove tanto per la prima che per la seconda classe, e la disposizione speciale di cui alla lettera B della tabella stessa e' modificata come segue: 
+Per provvedere alle maggiori esigenze di servizio dipendenti dall'istituzione pel periodo della guerra dei due monopoli dei fiammiferi e delle carte da giuoco il numero dei posti d'ispettori centrali e compartimentali delle privative di prima e di seconda classe, di cui alla tabella G n. V, annessa alla [legge 5 giugno 1913, n. 541](Che%20approva%20modificazioni%20ai%20ruoli%20organici%20del%20personale%20dellAmministrazione%20esterna%20delle%20gabelle%20degli%20uffici%20tecnici%20di%20finanza%20del%20personale%20tecnico%20ed%20amministrativo%20degli%20stabilime_df0a6fc0f2f8.md), e' portato temporaneamente da diciassette a diciannove tanto per la prima che per la seconda classe, e la disposizione speciale di cui alla lettera B della tabella stessa e' modificata come segue: 
  
  «Il numero degli ispettori centrali e' portato da 10 a 14 e le funzioni sono conferite per decreto Ministeriale a ispettori compartimentali». 
  

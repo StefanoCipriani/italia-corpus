@@ -20,7 +20,7 @@ Il ministro del tesoro ha facolta' di farsi anticipare dagli Istituti di emissio
 
 ## Art. 3.
 
-Per i buoni del tesoro a cinque anni che saranno alienati dalle sezioni di R. tesoreria di Trento e di Trieste nel periodo di tempo dal 10 a tutto il 19 aprile 1919, sara' concesso un abbuono del 0,50 % del capitale nominale, oltre a quello dell'1,50 % concesso col [R. decreto 5 maggio 1916, n. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1916-05-05;505), sempre quando l'acquisto venga eseguito con valute italiane provenienti dal cambio di valute austro-ungariche.
+Per i buoni del tesoro a cinque anni che saranno alienati dalle sezioni di R. tesoreria di Trento e di Trieste nel periodo di tempo dal 10 a tutto il 19 aprile 1919, sara' concesso un abbuono del 0,50 % del capitale nominale, oltre a quello dell'1,50 % concesso col [R. decreto 5 maggio 1916, n. 505](Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md), sempre quando l'acquisto venga eseguito con valute italiane provenienti dal cambio di valute austro-ungariche.
 
 ## Art. 4.
 

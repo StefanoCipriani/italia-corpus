@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti il [regio decreto 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-16;646), che approva il testo unico delle leggi sul credito fondiario, il [regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), che approva il regolamento per l'esecuzione del predetto testo unico, nonche' le successive modificazioni ed integrazioni;
+Visti il [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), che approva il testo unico delle leggi sul credito fondiario, il [regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), che approva il regolamento per l'esecuzione del predetto testo unico, nonche' le successive modificazioni ed integrazioni;
 
 Viste le [leggi 29 luglio 1949, n. 474 e 4 agosto 1955, n. 683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-08-04;683);
 
-Visti il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375) e le successive modificazioni ed integrazioni, nonche' i [decreti legislativi 17 luglio 1947, n. 691 e 20 gennaio 1948, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-20;10) e la [legge 22 dicembre 1956, n. 1589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-22;1589);
+Visti il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375) e le successive modificazioni ed integrazioni, nonche' i [decreti legislativi 17 luglio 1947, n. 691 e 20 gennaio 1948, n. 10](../Decreti%20Legislativi/Composizione%20del%20Comitato%20interministeriale%20dei%20prezzi%20del%20Comitato%20interministeriale%20del%20credito%20e%20risparmio%20e%20di%20alcuni%20Comitati%20interministeriali%20per%20i%20finanziamenti.md) e la [legge 22 dicembre 1956, n. 1589](Istituzione%20del%20Ministero%20delle%20partecipazioni%20statali.md);
 
 Visto l'atto in data 3 novembre 1959 a rogito del notaio dott.
 

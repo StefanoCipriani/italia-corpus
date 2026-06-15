@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), sul conferimento dei poteri straordinari al Governo in caso di guerra e durante la guerra medesima; 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), sul conferimento dei poteri straordinari al Governo in caso di guerra e durante la guerra medesima; 
  
- Visto il [R. decreto 23 maggio 1915, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;727), col quale, fra l'altro, vennero assegnate al bilancio del Ministero degli affari esteri per l'esercizio 1914-915, lire 25.000 per spese di rimpatrio dei nostri diplomatici, ed altrettanta somma per quelle di rimpatrio dei diplomatici esteri; 
+ Visto il [R. decreto 23 maggio 1915, n. 727](Col%20quale%20e%20autorizzata%20lassegnazione%20di%20lire%20due%20milioni%20da%20ripartirsi%20fra%20alcuni%20capitoli%20del%20bilancio%20del%20Ministero%20degli%20affari%20esteri%20per%20lesercizio%20finanziario%201914-915.%20015U0727.md), col quale, fra l'altro, vennero assegnate al bilancio del Ministero degli affari esteri per l'esercizio 1914-915, lire 25.000 per spese di rimpatrio dei nostri diplomatici, ed altrettanta somma per quelle di rimpatrio dei diplomatici esteri; 
  
  Considerato che le spese verificatesi pel rimpatrio dei nostri diplomatici superano il fondo suindicato e che alla maggiore occorrenza si rende possibile provvedere col trasporto di lire 13.000 da quello autorizzato per il rimpatrio dei diplomatici esteri, che offre esuberanza di disponibilita'; 
  

@@ -125,7 +125,7 @@ La Commissione e' composta di un consigliere di Cassazione che la presiede e di 
 
 ## Art. 15.
 
-Al procedimento avanti le Commissioni arbitrali e la Commissione centrale, si applicano le disposizioni della [legge 15 giugno 1893, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-15;295), e del [regolamento 26 aprile 1894, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1894-04-26;179), sui Collegi di probiviri, cosi' pure per tutto cio' che non e' preveduto nel presente decreto si osserveranno le norme stabilite per questi Collegi in quanto siano applicabili.
+Al procedimento avanti le Commissioni arbitrali e la Commissione centrale, si applicano le disposizioni della [legge 15 giugno 1893, n. 295](Sulla%20istituzione%20dei%20Collegi%20di%20probi-viri.%20093U0295.md), e del [regolamento 26 aprile 1894, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1894-04-26;179), sui Collegi di probiviri, cosi' pure per tutto cio' che non e' preveduto nel presente decreto si osserveranno le norme stabilite per questi Collegi in quanto siano applicabili.
 
 ## Art. 16.
 

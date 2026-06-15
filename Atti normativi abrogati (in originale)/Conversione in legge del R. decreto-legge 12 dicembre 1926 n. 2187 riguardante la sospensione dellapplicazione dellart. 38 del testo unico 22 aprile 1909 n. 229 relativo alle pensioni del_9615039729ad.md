@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-12;2187), riguardante la sospensione della applicazione dell'[art. 38 del testo unico 22 aprile 1909, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1909-04-22;229#art_38), relativo alle pensioni del personale delle Ferrovie dello Stato. 
+ E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2187](Sospensione%20dellapplicazione%20dellart.%2038%20del%20testo%20unico%2022%20aprile%201909%20n.%20229%20circa%20le%20pensioni%20dei%20ferrovieri.%20026U2187.md), riguardante la sospensione della applicazione dell'[art. 38 del testo unico 22 aprile 1909, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1909-04-22;229#art_38), relativo alle pensioni del personale delle Ferrovie dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

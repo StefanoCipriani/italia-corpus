@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-19;960), con il quale e' stata accordata la proroga di due anni al pagamento di ciascuna delle ultime quattro annualita' di rimborso dei sussidi straordinari concessi alla Societa' per la ferrovia Adriatico-Appennino per l'esercizio della ferrovia Adriatico-Sangritana. 
+ E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 960](Proroga%20di%20due%20anni%20del%20pagamento%20delle%20ultime%20quattro%20annualita%20dovute%20dalla%20Societa%20per%20la%20ferrovia%20Adriatico-Appennino%20a%20titolo%20di%20rimborso%20dei%20sussidi%20straordinari%20concessile%20per%20lese_8f8ca96a60a4.md), con il quale e' stata accordata la proroga di due anni al pagamento di ciascuna delle ultime quattro annualita' di rimborso dei sussidi straordinari concessi alla Societa' per la ferrovia Adriatico-Appennino per l'esercizio della ferrovia Adriatico-Sangritana. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

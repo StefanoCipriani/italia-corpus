@@ -29,7 +29,7 @@ EMANA il seguente decreto:
 Per il deposito delle domande di brevetto per invenzioni industriali, per modelli di utilita', per disegni o modelli ornamentali, per i marchi nazionali d'impresa e per la relativa verbalizzazione, in deroga a quanto previsto dagli articoli 1, 2, 3 e 4 del decreto ministeriale 22 febbraio 1973, si applicano le disposizioni degli articoli seguenti.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto dal Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto dal Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il D. M. 22 febbraio 1973 e' stato pubblicato nella Gazzetta Ufficiale n. 69 del 13 marzo 1973, e reca il regolamento di esecuzione del decreto del Presidente della Repubblica n. 540/1972, pubblicato nella Gazzetta Ufficiale n. 249 del 22 settembre 1972.

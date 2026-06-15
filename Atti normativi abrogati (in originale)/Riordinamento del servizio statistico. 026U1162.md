@@ -54,7 +54,7 @@ Il Consiglio superiore di statistica nomina nel proprio seno due Comitati, uno t
 
 Il direttore generale dell'Istituto centrale e' nominato con Regio decreto, su proposta del Capo del Governo, Primo Ministro, ed alle condizioni che saranno stabilite nel regolamento interno dell'Istituto. 
  
- Se la nomina cade su un funzionario dello Stato o su un professore d'universita' o di istituto superiore di commercio, questi e' collocato fuori ruolo, secondo le norme dell'[art. 17 del R. decreto 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-10;46#art_17), nell'Amministrazione dalla quale dipende e alla sua posizione di carriera si applicano le disposizioni del [R. decreto 30 dicembre 1923, n. 2958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2958); le retribuzioni del direttore sono a carico dell'istituto.
+ Se la nomina cade su un funzionario dello Stato o su un professore d'universita' o di istituto superiore di commercio, questi e' collocato fuori ruolo, secondo le norme dell'[art. 17 del R. decreto 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-10;46#art_17), nell'Amministrazione dalla quale dipende e alla sua posizione di carriera si applicano le disposizioni del [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md); le retribuzioni del direttore sono a carico dell'istituto.
 
 ## Art. 7.
 
@@ -103,7 +103,7 @@ E' fatto obbligo ad ognuno, sia in occasione di censimenti generali, sia in occa
 
 Le notizie che si raccolgono in occasione di inchieste ordinate dall'Istituto centrale sono vincolate al piu' scrupoloso segreto d'ufficio e non possono essere rese note, per nessun titolo, se non in forma collettiva, in modo che non se ne possa fare alcun riferimento individuale: possono essere solo comunicate all'autorita' giudiziaria quando le richieda con sentenza, decreto od ordinanza emessa in corso di procedimenti gia' avviati innanzi ad essa. 
  
- Coloro che per ragioni del proprio ufficio, essendo venuti a conoscenza di notizie di carattere personale; le comunichino ad altri o se ne servano a scopi privati, sono passibili di un'ammenda fino a L. 1500, senza pregiudizio delle maggiori pene in cui fossero incorsi per reati previsti nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ Coloro che per ragioni del proprio ufficio, essendo venuti a conoscenza di notizie di carattere personale; le comunichino ad altri o se ne servano a scopi privati, sono passibili di un'ammenda fino a L. 1500, senza pregiudizio delle maggiori pene in cui fossero incorsi per reati previsti nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 12.
 
@@ -145,7 +145,7 @@ Il Ministro per le finanze e' autorizzato ad introdurre, di concerto col Ministr
 
 ## Art. 18.
 
-Sono abrogati i [Regi decreti 2 dicembre 1923, n. 2673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2673), concernente l'ordinamento del servizio statistico e 30 dicembre 1923, n. 2877, che determina le funzioni del Consiglio superiore di statistica. Il Consiglio superiore di statistica attualmente in carica decade di ufficio alla data di pubblicazione della presente legge. 
+Sono abrogati i [Regi decreti 2 dicembre 1923, n. 2673](Ordinamento%20del%20servizio%20statistico.%20023U2673.md), concernente l'ordinamento del servizio statistico e 30 dicembre 1923, n. 2877, che determina le funzioni del Consiglio superiore di statistica. Il Consiglio superiore di statistica attualmente in carica decade di ufficio alla data di pubblicazione della presente legge. 
  
  I servizi di censimento generale della popolazione del Regno ed i relativi fondi sono trasferiti all'Istituto centrale. Il personale giornaliero in servizio alla data di entrata in vigore della presente legge conserva i diritti acquisiti in base alle disposizioni vigenti per la eventuale sistemazione nei ruoli del personale statale.
 

@@ -14,9 +14,9 @@ Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto il [decreto legislativo luogotenenziale 7 giugno 1915, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-07;320);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [regio decreto legislativo 20 maggio 1946, numero 450](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-20;450);
+Visto il [regio decreto legislativo 20 maggio 1946, numero 450](Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md);
 
 Visto il [decreto legislativo del Capo provvisorio delle Stato 13 gennaio 1947, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-13;7);
 
@@ -41,7 +41,7 @@ QUALIFICHE
 
 ## Art. 3.
 
-L'indennita' di prima sistemazione di cui all'[art. 2 del decreto legislativo luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320#art_2), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;6) stabilita, per il personale degli Uffici regionali e provinciali del lavoro nella misura: 
+L'indennita' di prima sistemazione di cui all'[art. 2 del decreto legislativo luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;6) stabilita, per il personale degli Uffici regionali e provinciali del lavoro nella misura: 
  di L. 11.500 al direttori regionali; 
  di L. 9500 ai direttori provinciali, ai segretari regionali, ai capi servizio, ai capi sezione e ai funzionari; 
  di L. 7500 agli impiegati di concetto, agli impiegati d'ordine, agli uscieri, agli autisti e ai fattorini.

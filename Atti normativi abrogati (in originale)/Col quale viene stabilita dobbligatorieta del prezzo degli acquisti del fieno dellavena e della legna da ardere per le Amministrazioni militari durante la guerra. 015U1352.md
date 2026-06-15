@@ -27,7 +27,7 @@ Conseguentemente per le requisizioni del fieno, dell'avena e della legna da arde
 
 ## Art. 4.
 
-Ogni controversia, che all'infuori del prezzo, potesse sorgere in dipendenza del presente decreto e' demandata al giudizio inappellabile di un collegio arbitrale composto come all'[art. 10 del R. decreto 26 giugno 1915, n. 993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-06-26;993#art_10).
+Ogni controversia, che all'infuori del prezzo, potesse sorgere in dipendenza del presente decreto e' demandata al giudizio inappellabile di un collegio arbitrale composto come all'[art. 10 del R. decreto 26 giugno 1915, n. 993](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md).
 
 ## Art. 5.
 

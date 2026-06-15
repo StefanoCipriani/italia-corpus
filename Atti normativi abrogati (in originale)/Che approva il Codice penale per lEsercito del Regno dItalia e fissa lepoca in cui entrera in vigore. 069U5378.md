@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [Legge in data 28 novembre 1869, n. 5366](Che%20approva%20e%20manda%20pubblicarsi%20il%20Codice%20penale%20militare%20marittimo.%20069U5366.md), e in virtu' delle facolta' dalla medesima a Noi conferite;
 
-Visto il Nostro Decreto di pubblicazione del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo, in data 28 novembre 1869, n. 5367;
+Visto il Nostro Decreto di pubblicazione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, in data 28 novembre 1869, n. 5367;
 
 Sentito il Consiglio de' Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro Segretario di Stato per la Guerra, d'accordo col Min
 
 ## Art. 1.
 
-Il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'Esercito del Regno d'Italia, coordinato col [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo, e annesso al presente Decreto, e' approvato, ed avra' vigore a contare dal 15 febbraio 1870.
+Il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito del Regno d'Italia, coordinato col [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, e annesso al presente Decreto, e' approvato, ed avra' vigore a contare dal 15 febbraio 1870.
 
 ## Art. 2.
 

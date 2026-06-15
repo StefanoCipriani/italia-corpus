@@ -15,7 +15,7 @@ Al medesimo scopo sono destinate anche le doti gia' conferite e che si rendano d
  
  E' pure devoluto all'assistenza dell'infanzia il reddito netto dei fondi amministrati da istituzioni pubbliche di beneficenza, ai quali non siasi ancora data nei modi di legge una destinazione definitiva. 
  
- Nella erogazione dei redditi indicati nei precedenti comma e nello [art. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-18;390#art_6) ([lettera c) della legge 18 luglio 1904, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-18;390#art_letc), si avra' speciale riguardo ai figli dei militari e particolarmente a quelli fra essi che per le loro condizioni di nascita non possono fruire dei sussidi previsti dal [R. decreto 13 maggio 1915, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-13;620).
+ Nella erogazione dei redditi indicati nei precedenti comma e nello [art. 6](Riflettente%20la%20istituzione%20di%20Commissioni%20provinciali%20di%20un%20Consiglio%20superiore%20e%20di%20un%20servizio%20dispezione%20della%20pubblica%20assistenza%20e%20beneficenza%20004U0390.md) ([lettera c) della legge 18 luglio 1904, n. 390](Riflettente%20la%20istituzione%20di%20Commissioni%20provinciali%20di%20un%20Consiglio%20superiore%20e%20di%20un%20servizio%20dispezione%20della%20pubblica%20assistenza%20e%20beneficenza%20004U0390.md), si avra' speciale riguardo ai figli dei militari e particolarmente a quelli fra essi che per le loro condizioni di nascita non possono fruire dei sussidi previsti dal [R. decreto 13 maggio 1915, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-13;620).
 
 ## Art. 2.
 
@@ -27,11 +27,11 @@ I prefetti accerteranno le somme da erogare per i titoli indicati nel precedente
 
 ## Art. 3.
 
-La [legge 1° aprile 1915, n. 462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;462), e' estesa all'Orfanotrofio militare di Napoli.
+La [legge 1° aprile 1915, n. 462](Contenente%20provvedimenti%20a%20favore%20dellOpera%20nazionale%20Emanuele%20Filiberto%20di%20Savoia%20per%20soccorso%20agli%20orfani%20dei%20militari%20morti%20nella%20campagna%20di%20Libia%20015U0462.md), e' estesa all'Orfanotrofio militare di Napoli.
 
 ## Art. 4.
 
-L'[art. 2, comma 2°, del R. decreto 19 novembre 1889, n. 6535](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-11-19;6535#art_2-com2), e' modificato come segue: 
+L'[art. 2, comma 2°, del R. decreto 19 novembre 1889, n. 6535](Che%20stabilisce%20le%20norme%20per%20lapplicazione%20dellarticolo%2082%20della%20legge%2030%20giugno%201889%20sulla%20pubblica%20sicurezza.%20089U6535.md), e' modificato come segue: 
  
  «La legge ritiene come inabili i fanciulli che non hanno compiuto i dodici anni».
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 gennaio 1930, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-01-11;17), concernente il concorso nazionale per l'incremento del patrimonio zootecnico, ai fini del progresso della cerealicoltura. 
+ E' convertito in legge il [R. decreto-legge 11 gennaio 1930, n. 17](Concorso%20nazionale%20per%20lincremento%20del%20patrimonio%20zootecnico%20ai%20fini%20del%20progresso%20della%20cerealicoltura.%20030U0017.md), concernente il concorso nazionale per l'incremento del patrimonio zootecnico, ai fini del progresso della cerealicoltura. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto l'art. 17 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795);
+Veduto l'art. 17 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
 
-Veduti i regolamenti speciali per le Facolta' e scuole universitarie, approvato con [R. decreto 9 agosto 1910, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;808);
+Veduti i regolamenti speciali per le Facolta' e scuole universitarie, approvato con [R. decreto 9 agosto 1910, n. 808](Che%20approva%20gli%20annessi%20regolamenti%20speciali%20per%20le%20Facolta%20di%20giurisprudenza%20di%20medicina%20e%20chirurgia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20lettere%20e%20filosofia%20e%20per%20le%20scuole%20di_ce454a6b881c.md);
 
 Sentito il Consiglio superiore di istruzione pubblica;
 
@@ -40,7 +40,7 @@ Per gli stranieri, che non siano in possesso di una laurea o diploma comune, il 
  
  Saranno computate come iscrizioni diverse anche quelle prese nella stessa materia, sia contemporaneamente presso diversi insegnanti, sia successivamente nei diversi anni presso lo stesso insegnante, purche' lo svolgimento della materia nella sostanza e nell'indirizzo sia diverso. 
  
- Sono computati gli anni ed i corsi seguiti presso le Universita' estere, secondo le norme dell'art. 96 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795); e sono altresi' computate per un quarto dei corsi seguiti, le iscrizioni ai corsi di liberi docenti quando il programma e lo svolgimento vengano giudicati rispondenti, a norma dell'articolo seguente, ai fini dei diplomi.
+ Sono computati gli anni ed i corsi seguiti presso le Universita' estere, secondo le norme dell'art. 96 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md); e sono altresi' computate per un quarto dei corsi seguiti, le iscrizioni ai corsi di liberi docenti quando il programma e lo svolgimento vengano giudicati rispondenti, a norma dell'articolo seguente, ai fini dei diplomi.
 
 ## Art. 3.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944 n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo del decreto legislativo luogotenenziale 16 marzo 1946 n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944 n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo del decreto legislativo luogotenenziale 16 marzo 1946 n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo approvato dal Consiglio dei Ministri co
 
 ## Articolo unico.
 
-All'art. 6 del testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), modificato con l'[art. 1 del regio decreto-legge 11 aprile 1938, n. 1183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-04-11;1183#art_1), e' aggiunto il seguente comma:
+All'art. 6 del testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), modificato con l'[art. 1 del regio decreto-legge 11 aprile 1938, n. 1183](Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20pesca%20approvato%20con%20R.%20decreto%208%20ottobre%201931%20n.%201604.%20038U1183.md), e' aggiunto il seguente comma:
  "In deroga al divieto prescritto nel comma primo, e' data facolta' rispettivamente al Ministero dell'agricoltura e delle foreste ed a quello della marina mercantile a seconda che si tratti di pesca nelle acque interne o di pesca marittima, di concedere autorizzazioni per la pesca con apparecchi a generatore autonomo di energia elettrica aventi caratteristiche tali da garantire la conservazione del patrimonio ittico".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

@@ -189,7 +189,7 @@ Tali variazioni, in quanto si limitino agli adattamenti resi necessari dalla pre
 
 1.
 
-La disciplina contemplata nella [legge 10 marzo 1987, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-10;100), concernente il trattamento economico di trasferimento del personale militare, e' estesa con le stesse modalita', ove piu' favorevoli, al personale cui viene corrisposta l'indennita' di pubblica sicurezza ai sensi degli [articoli 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_23) e [43, commi terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_43-com3), [sedicesimo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_43-com16) e [ventiquattresimo, della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_43-com24), sul nuovo ordinamento della pubblica sicurezza, e successive modificazioni e integrazioni.
+La disciplina contemplata nella [legge 10 marzo 1987, n. 100](Norme%20relative%20al%20trattamento%20economico%20di%20trasferimento%20del%20personale%20militare.md), concernente il trattamento economico di trasferimento del personale militare, e' estesa con le stesse modalita', ove piu' favorevoli, al personale cui viene corrisposta l'indennita' di pubblica sicurezza ai sensi degli [articoli 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_23) e [43, commi terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_43-com3), [sedicesimo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_43-com16) e [ventiquattresimo, della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_43-com24), sul nuovo ordinamento della pubblica sicurezza, e successive modificazioni e integrazioni.
 
 2.
 
@@ -219,13 +219,13 @@ Per la copertura dei posti di cui al comma 1 e di quelli vacanti nei suddetti ru
 
 3.
 
-Tutti i posti non coperti con le assunzioni degli idonei di cui al comma 2 vengono conferiti mediante concorso pubblico in deroga alla procedura stabilita dall'[articolo 27 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_27).
+Tutti i posti non coperti con le assunzioni degli idonei di cui al comma 2 vengono conferiti mediante concorso pubblico in deroga alla procedura stabilita dall'[articolo 27 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md).
 
 ### Art. 11. — Disposizioni transitorie
 
 1.
 
-Sino a quando non verra' data attuazione alla [legge 13 dicembre 1986, n. 903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-13;903), la commissione di avanzamento di cui all'[articolo 44 della legge 13 maggio 1961, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469#art_44), continua a svolgere le proprie funzioni nella sua attuale composizione.
+Sino a quando non verra' data attuazione alla [legge 13 dicembre 1986, n. 903](Norme%20sulla%20composizione%20del%20consiglio%20di%20amministrazione%20del%20Ministero%20dellinterno.md), la commissione di avanzamento di cui all'[articolo 44 della legge 13 maggio 1961, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469#art_44), continua a svolgere le proprie funzioni nella sua attuale composizione.
 
 ### Art. 12. — Disposizioni finanziarie
 

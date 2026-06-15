@@ -10,13 +10,13 @@ vigente: true
 
 IL MINISTRO DEL TESORO
 
-Visto l'allegato I approvato con l'[art. 11 della legge 22 luglio 1894 n. 339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339#art_11), con cui e' data al Tesoro la facolta' di emettere per decreto reale 200 milioni in biglietti di Stato, in sostituzione di pari somma in moneta d'oro e in scudi d'argento, depositata, come contro valore dei biglietti medesimi, presso la Cassa dei depositi e prestiti;
+Visto l'allegato I approvato con l'[art. 11 della legge 22 luglio 1894 n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md), con cui e' data al Tesoro la facolta' di emettere per decreto reale 200 milioni in biglietti di Stato, in sostituzione di pari somma in moneta d'oro e in scudi d'argento, depositata, come contro valore dei biglietti medesimi, presso la Cassa dei depositi e prestiti;
 
 Sentita la Commissione permanente per la vigilanza sulla circolazione e sugli Istituti d'emissione; Determina:
 
 ## Articolo unico.
 
-E' approvato l'unico regolamento per il deposito, presso la Cassa dei depositi e prestiti, di monete d'oro e di scudi d'argento a garanzia di biglietti di Stato, di cui all'art. 3, lettera b, dell'allegato I approvato con l'[articolo 11 della legge 22 luglio 1894, n. 339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339#art_11). 
+E' approvato l'unico regolamento per il deposito, presso la Cassa dei depositi e prestiti, di monete d'oro e di scudi d'argento a garanzia di biglietti di Stato, di cui all'art. 3, lettera b, dell'allegato I approvato con l'[articolo 11 della legge 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md). 
  
  Il presente decreto sara' inserito nella Raccolta ufficiale delle leggi e dei decreti del regno d'Italia. 
  

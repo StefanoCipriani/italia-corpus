@@ -124,7 +124,7 @@ Il mutuatario puo' costruire l'edificio per cui ha diritto al mutuo anche su are
 
 ### Art. 10.
 
-Per il regolamento dei diritti di condominio su edifici danneggiati o distrutti dal terremoto si applicano le disposizioni contenute negli articoli 256 a 261 del testo unico delle leggi emanate in conseguenza del terremoto del 28 dicembre 1908, approvato con [Regio decreto 12 ottobre 1913, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-12;1261).
+Per il regolamento dei diritti di condominio su edifici danneggiati o distrutti dal terremoto si applicano le disposizioni contenute negli articoli 256 a 261 del testo unico delle leggi emanate in conseguenza del terremoto del 28 dicembre 1908, approvato con [Regio decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md).
 
 ### Art. 11.
 
@@ -220,7 +220,7 @@ Il mutuatario potra' restituire la parte a suo carico in un termine minore di qu
 
 ### Art. 24.
 
-Per il procedimento di esecuzione sono applicabili alle operazioni dell'Istituto mutuante le disposizioni del titolo VII del testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-16;646). 
+Per il procedimento di esecuzione sono applicabili alle operazioni dell'Istituto mutuante le disposizioni del titolo VII del testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md). 
  
  Qualora l'Istituto mutuante intenda valersi della procedura e dei privilegi fiscali stabiliti per la riscossione delle imposte dirette, si osserveranno le seguenti norme. 
  
@@ -531,7 +531,7 @@ Paragrafo IV.
 
 ### Art. 57.
 
-E' prorogato di un anno il termine stabilito dall'[art. 21 del decreto Luogotenenziale 14 novembre 1915, n. 1661](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-14;1661#art_21) per la presentazione da parte di Provincie, di Comuni e di Enti morali delle domande di sussidio e di mutuo di cui all'[art. 2 del R. decreto 21 gennaio 1915, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;27#art_2) convertito nella [legge 1° aprile 1915, n. 476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;476), allegato d).
+E' prorogato di un anno il termine stabilito dall'[art. 21 del decreto Luogotenenziale 14 novembre 1915, n. 1661](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-14;1661#art_21) per la presentazione da parte di Provincie, di Comuni e di Enti morali delle domande di sussidio e di mutuo di cui all'[art. 2 del R. decreto 21 gennaio 1915, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;27#art_2) convertito nella [legge 1° aprile 1915, n. 476](Che%20converte%20in%20legge%2017%20decreti%20Reali%20recanti%20provvedimenti%20a%20favore%20dei%20paesi%20danneggiati%20dal%20terremoto%20del%2013%20gennaio%201915%20e%20porta%20modificazioni%20ai%20decreti%20stessi%20con%20laggiunta%20di%20altr_f19f0a26f386.md), allegato d).
 
 ### Art. 58.
 

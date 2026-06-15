@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina approvato con [R. decreto 7 novembre 1929, n. 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-07;2007), e sue successive modificazioni, specialmente quelle apportate con la [legge 6 giugno 1935, n. 1404](Disposizioni%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20035U1404.md);
+Visto il testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e sue successive modificazioni, specialmente quelle apportate con la [legge 6 giugno 1935, n. 1404](Disposizioni%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20035U1404.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Il 1° comma dell'art. 22-bis del testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-07;2007), e' cosi' modificato: 
+Il 1° comma dell'art. 22-bis del testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e' cosi' modificato: 
  
  «I componenti di tutte le Commissioni di avanzamento debbono appartenere ai ruoli del servizio permanente effettivo e non essere fuori quadro organico perche' messi a disposizione di altre Amministrazioni».
 

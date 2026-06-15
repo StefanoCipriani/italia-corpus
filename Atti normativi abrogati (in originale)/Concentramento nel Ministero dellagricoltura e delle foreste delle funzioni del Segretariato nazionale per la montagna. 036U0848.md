@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le funzioni attribuite al Segretariato nazionale per la montagna dall'[art. 2, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-08;679#art_2-leta) e [b), del R. decreto-legge 8 marzo 1934, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-08;679#art_2-letb), convertito nella [legge 25 marzo 1935, n. 353](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%208%20marzo%201934%20n.%20679%20concernente%20il%20riordinamento%20del%20Segretariato%20nazionale%20per%20la%20montagna.%20035U0353.md), sono concentrate nel Ministero dell'agricoltura e delle foreste, che, per quanto riguarda i miglioramenti di pascoli montani, le esercita a mezzo della Milizia nazionale forestale. 
+Le funzioni attribuite al Segretariato nazionale per la montagna dall'[art. 2, lettere a)](Riordinamento%20del%20Segretariato%20nazionale%20per%20la%20montagna.%20034U0679.md) e [b), del R. decreto-legge 8 marzo 1934, n. 679](Riordinamento%20del%20Segretariato%20nazionale%20per%20la%20montagna.%20034U0679.md), convertito nella [legge 25 marzo 1935, n. 353](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%208%20marzo%201934%20n.%20679%20concernente%20il%20riordinamento%20del%20Segretariato%20nazionale%20per%20la%20montagna.%20035U0353.md), sono concentrate nel Ministero dell'agricoltura e delle foreste, che, per quanto riguarda i miglioramenti di pascoli montani, le esercita a mezzo della Milizia nazionale forestale. 
  
  Il Segretariato e' posto in liquidazione. 
  

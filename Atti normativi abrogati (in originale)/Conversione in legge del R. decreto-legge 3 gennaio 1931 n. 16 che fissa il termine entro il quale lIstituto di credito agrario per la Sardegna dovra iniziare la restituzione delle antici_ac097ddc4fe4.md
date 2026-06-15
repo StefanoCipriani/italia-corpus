@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 gennaio 1931, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-03;16), che fissa il termine entro il quale l'Istituto di credito agrario per la Sardegna dovra' iniziare la restituzione delle anticipazioni ottenute dallo Stato. 
+ E' convertito in legge il [R. decreto-legge 3 gennaio 1931, n. 16](Proroga%20del%20termine%20entro%20il%20quale%20lIstituto%20di%20credito%20agrario%20per%20la%20Sardegna%20dovra%20iniziare%20la%20restituzione%20delle%20anticipazioni%20complessivamente%20ottenute%20dallo%20Stato.%20031U0016.md), che fissa il termine entro il quale l'Istituto di credito agrario per la Sardegna dovra' iniziare la restituzione delle anticipazioni ottenute dallo Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

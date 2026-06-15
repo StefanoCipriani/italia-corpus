@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-E' autorizzata, sui fondi di cui al [R. decreto legge 3 marzo 1924, n. 288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-03-03;288), la spesa di L. 825.000 per i lavori di rafforzamento del nuovo grande magazzino «F» nel porto di Venezia.
+E' autorizzata, sui fondi di cui al [R. decreto legge 3 marzo 1924, n. 288](Autorizzazione%20di%20spesa%20per%20lesecuzione%20di%20opere%20di%20sistemazione%20del%20porto%20di%20Venezia.%20024U0288.md), la spesa di L. 825.000 per i lavori di rafforzamento del nuovo grande magazzino «F» nel porto di Venezia.
 
 ## Art. 2.
 
-Il Ministro per le finanze e' autorizzato a provvedere con proprio decreto alla iscrizione della suddetta somma nello stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio 1932-33, riducendo di pari importo i fondi stanziati nel bilancio del Ministero delle finanze in applicazione dell'art. 5 del citato [R. decreto-legge 3 marzo 1924, n. 288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-03-03;288). 
+Il Ministro per le finanze e' autorizzato a provvedere con proprio decreto alla iscrizione della suddetta somma nello stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio 1932-33, riducendo di pari importo i fondi stanziati nel bilancio del Ministero delle finanze in applicazione dell'art. 5 del citato [R. decreto-legge 3 marzo 1924, n. 288](Autorizzazione%20di%20spesa%20per%20lesecuzione%20di%20opere%20di%20sistemazione%20del%20porto%20di%20Venezia.%20024U0288.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

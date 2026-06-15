@@ -20,7 +20,7 @@ E' autorizzato il pagamento delle spese ordinarie e straordinarie del Ministero 
 
 ## Art. 2.
 
-I capitoli a favore dei quali possono effettuarsi i prelevamenti dal fondo a disposizione di cui agli articoli 20 e 44 del testo unico approvato con il [regio decreto 2 febbraio 1928, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263), e all'art; 7 della [legge 22 dicembre 1932, n. 1958](Norme%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20032U1958.md), sono, per l'esercizio 1952-53, quelli descritti negli annessi elenchi (allegati numero 1 e 2).
+I capitoli a favore dei quali possono effettuarsi i prelevamenti dal fondo a disposizione di cui agli articoli 20 e 44 del testo unico approvato con il [regio decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), e all'art; 7 della [legge 22 dicembre 1932, n. 1958](Norme%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20032U1958.md), sono, per l'esercizio 1952-53, quelli descritti negli annessi elenchi (allegati numero 1 e 2).
 
 ## Art. 3.
 

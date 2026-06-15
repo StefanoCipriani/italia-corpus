@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [R. decreto-legge 3 settembre 1926, n. 1623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-03;1623), contenente modificazioni alle tariffe per il servizio delle riscossioni per conto di terzi. 
+ E convertito in legge il [R. decreto-legge 3 settembre 1926, n. 1623](Modificazioni%20alle%20tariffe%20per%20il%20servizio%20delle%20riscossioni%20per%20conto%20dei%20terzi.%20026U1623.md), contenente modificazioni alle tariffe per il servizio delle riscossioni per conto di terzi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

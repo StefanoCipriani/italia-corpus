@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 gennaio 1934, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-15;56), che disciplina, i rapporti di condominio sulle case, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 15 gennaio 1934, n. 56](Disciplina%20dei%20rapporti%20di%20condominio%20sulle%20case.%20034U0056.md), che disciplina, i rapporti di condominio sulle case, con le seguenti modificazioni: 
  
  L'art. 3 e' sostituito dal seguente: 
  

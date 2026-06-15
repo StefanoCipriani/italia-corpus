@@ -265,7 +265,7 @@ Per le domande di privativa riguardanti invenzioni utili alla difesa militare de
 L'invenzione deve essere tenuta segreta dopo la comunicazione della richiesta di differimento e fino allo spirare del termine di cui all'articolo precedente, nonche' durante lo svolgimento dell'espropriazione comunicata nel termine anzidetto e posteriormente al decreto di espropriazione, che menzioni l'obbligo del segreto.
 L'invenzione deve essere altresi' tenuta segreta nell'ipotesi prevista all'art. 12, dopo la comunicazione all'interessato della determinazione di promuovere l'espropriazione con imposizione del segreto. 
  
- Tuttavia l'obbligo del segreto cessa qualora il Ministero competente manifesti al riguardo il suo consenso. La violazione del segreto e' punita a termini dell'[art. 262 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_262).
+ Tuttavia l'obbligo del segreto cessa qualora il Ministero competente manifesti al riguardo il suo consenso. La violazione del segreto e' punita a termini dell'[art. 262 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 38.
 
@@ -369,7 +369,7 @@ I diritti di privativa, nonche' quelli derivanti dalle domande in corso, possono
 
 L'espropriazione ha luogo per decreto reale, su proposta del Ministro competente, di concerto con il Ministro per le corporazioni e con quello per le finanze, sentito il Consiglio dei Ministri se il provvedimento interessa la difesa militare del Paese o il Consiglio delle privative industriali e dei marchi negli altri casi. 
  
- Quando il decreto di espropriazione nell'interesse della difesa militare del Paese viene emanato prima della stampa prescritta nell'art. 32, potra' menzionare l'obbligo e la durata del segreto sull'oggetto dell'invenzione, la cui violazione e' punita ai sensi dell'[art. 262 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_262).
+ Quando il decreto di espropriazione nell'interesse della difesa militare del Paese viene emanato prima della stampa prescritta nell'art. 32, potra' menzionare l'obbligo e la durata del segreto sull'oggetto dell'invenzione, la cui violazione e' punita ai sensi dell'[art. 262 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 52.
 
@@ -571,7 +571,7 @@ Non possono essere registrati come marchi:
  
  3° i segni in cui il carattere distintivo e' inscindibilmente connesso con quello di utilita'. Se la scissione e' possibile, il segno puo' essere registrato solo per il suo carattere distintivo; 
  
- 4° i segni previsti nell'art. 6-ter, comma 1 a 9 della Convenzione di Parigi del 20 marzo 1883, riveduta all'Aja il 6 novembre 1925, resa esecutiva in Italia con [decreto-legge 10 gennaio 1926, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-01-10;169), convertito in legge con la [legge 29 dicembre 1927, n. 2701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-29;2701), nei casi ed alle condizioni ivi menzionate; 
+ 4° i segni previsti nell'art. 6-ter, comma 1 a 9 della Convenzione di Parigi del 20 marzo 1883, riveduta all'Aja il 6 novembre 1925, resa esecutiva in Italia con [decreto-legge 10 gennaio 1926, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-01-10;169), convertito in legge con la [legge 29 dicembre 1927, n. 2701](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modifiche%20allart.%203%20del%20R.%20decreto%2010%20gennaio%201926%20n.%20169%20con%20cui%20si%20da%20esecuzione%20ai%20due%20atti%20internazionali%20stipulati%20allAja%20il%206%20novembre%201925%20fra%20lItalia%20ed%20a_a73f4049d9c5.md), nei casi ed alle condizioni ivi menzionate; 
  
  5° i segni contenenti indicazioni non veritiere sulla qualita' o sull'origine delle merci o comunque atti a trarre in inganno nella scelta dei prodotti; 
  

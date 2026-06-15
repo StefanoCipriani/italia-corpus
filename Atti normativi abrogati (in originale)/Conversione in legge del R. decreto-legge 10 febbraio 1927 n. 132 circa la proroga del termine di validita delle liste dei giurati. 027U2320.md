@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 febbraio 1927, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-10;132), circa la proroga del termine di validita' delle liste dei giurati. 
+ E' convertito in legge il [R. decreto-legge 10 febbraio 1927, n. 132](Proroga%20del%20termine%20di%20validita%20delle%20liste%20dei%20giurati.%20027U0132.md), circa la proroga del termine di validita' delle liste dei giurati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

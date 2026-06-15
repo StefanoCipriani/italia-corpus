@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1737), contenente modificazioni della misura delle tasse scolastiche nei Regi istituti d'istruzione media tecnica, classica; scientifica e magistrale. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1737](Modificazioni%20della%20misura%20delle%20tasse%20scolastiche%20nei%20Regi%20istituti%20distruzione%20media%20tecnica%20classica%20scientifica%20e%20magistrale.%20034U1737.md), contenente modificazioni della misura delle tasse scolastiche nei Regi istituti d'istruzione media tecnica, classica; scientifica e magistrale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

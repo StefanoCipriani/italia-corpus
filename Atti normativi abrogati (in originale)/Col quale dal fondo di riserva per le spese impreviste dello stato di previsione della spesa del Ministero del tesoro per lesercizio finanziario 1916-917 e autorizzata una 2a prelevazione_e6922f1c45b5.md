@@ -56,14 +56,14 @@ Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 144 dello 
  per l'applicazione delle disposizioni 
  relative ai divieti di esportazione, 
  importazione e transito, istituito con 
- [R. decreto 24 novembre 1914, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-24;1303). . . . 50,000 -- 
+ [R. decreto 24 novembre 1914, n. 1303](Col%20quale%20viene%20istituito%20un%20Comitato%20consultivo%20per%20lapplicazione%20delle%20disposizioni%20relative%20ai%20divieti%20di%20esportazione%20e%20di%20transito.%20014U1303.md). . . . 50,000 -- 
  
  » 293-ter. Indennita' ai componenti il 
  Comitato consultivo per l'applicazione delle 
  disposizioni relative ai divieti di 
  esportazione, importazione e transito, 
  istituito con [R. decreto 24 novembre 1914, 
- n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-24;1303) ed alle spese per il funzionamento 
+ n. 1303](Col%20quale%20viene%20istituito%20un%20Comitato%20consultivo%20per%20lapplicazione%20delle%20disposizioni%20relative%20ai%20divieti%20di%20esportazione%20e%20di%20transito.%20014U1303.md) ed alle spese per il funzionamento 
  del detto Comitato o dell'annessovi 
  ufficio . . . . . . . . . . . . . . . . . . 20,000 -- 
  

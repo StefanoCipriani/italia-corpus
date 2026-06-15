@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Vista la [legge 10 luglio 1910, n. 443](Istituzione%20del%20servizio%20tecnico%20e%20di%20un%20corso%20superiore%20tecnico%20dartiglieria.%20010U0443.md), che istituisce il servizio tecnico ed il corso superiore tecnico di artiglieria, e successive modificazioni;
 
-Visto il [R. decreto 7 gennaio 1923, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;12), relativo all'ordinamento del Regio esercito e successive modificazioni;
+Visto il [R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), relativo all'ordinamento del Regio esercito e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2986), riguardante il reclutamento degli ufficiali in servizio attivo permanente;
+Visto il [R. decreto 30 dicembre 1923, n. 2986](Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md), riguardante il reclutamento degli ufficiali in servizio attivo permanente;
 
 Udito il Consiglio dei Ministri;
 
@@ -54,7 +54,7 @@ I vincitori del concorso di cui alla lettera b) del precedente art. 1 saranno no
  
  Al termine del primo biennio di corso, coloro che avranno superato gli esami saranno promossi al grado di tenenti di complemento, col quale compiranno l'anno di prova pratica presso gli stabilimenti dell'arma. 
  
- Quelli che saranno dichiarati idonei alla fine del 3° anno di corso verranno nominati tenenti in servizio attivo permanente nel ruolo tecnico di artiglieria con anzianita' corrispondente alla data del decreto di nomina, anche se abbiano superato il limite di eta' di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 2986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2986#art_1). 
+ Quelli che saranno dichiarati idonei alla fine del 3° anno di corso verranno nominati tenenti in servizio attivo permanente nel ruolo tecnico di artiglieria con anzianita' corrispondente alla data del decreto di nomina, anche se abbiano superato il limite di eta' di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 2986](Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md). 
  
  L'ordine di anzianita' relativa pei tenenti nominati come sopra sara' determinato dalla graduatoria di merito riportata dai singoli al termine degli esami sostenuti alla fine del primo biennio di insegnamento teorico. 
  

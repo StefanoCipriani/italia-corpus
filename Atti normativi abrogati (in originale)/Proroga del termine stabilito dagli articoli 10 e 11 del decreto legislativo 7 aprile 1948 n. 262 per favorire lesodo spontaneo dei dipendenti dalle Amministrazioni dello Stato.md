@@ -16,7 +16,7 @@ FORMULA la seguente legge:
 
 ## Art. 1.
 
-Le disposizioni contenute negli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262#art_10) e [11 del decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262#art_11), sono richiamate in vigore a partire dal 7 aprile 1949 e fino al 31 dicembre 1949.
+Le disposizioni contenute negli [articoli 10](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md) e [11 del decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md), sono richiamate in vigore a partire dal 7 aprile 1949 e fino al 31 dicembre 1949.
 
 ## Art. 2.
 

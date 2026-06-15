@@ -36,7 +36,7 @@ Le deliberazioni del Consiglio d'amministrazione delle ferrovie nei riguardi del
 
 L'Istituto sperimentale per le ferrovie e l'Istituto sperimentale per l'aeronautica sono fusi in un solo Istituto alla dipendenza del ministro dei trasporti. 
  
- Per il personale relativo appartenente all'Amministrazione delle ferrovie dello Stato valgono le disposizioni dell'[art. 3 del R. decreto 2 settembre 1919, n. 1587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-02;1587#art_3).
+ Per il personale relativo appartenente all'Amministrazione delle ferrovie dello Stato valgono le disposizioni dell'[art. 3 del R. decreto 2 settembre 1919, n. 1587](Che%20provvede%20al%20riordinamento%20del%20Ministero%20per%20i%20trasporti%20marittimi%20e%20ferroviari.%20019U1587.md).
 
 ## Art. 6.
 
@@ -44,7 +44,7 @@ Con decreto del ministro del tesoro sara' provveduto al passaggio dei capitoli e
 
 ## Art. 7.
 
-Il [secondo comma dell'art. 29 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato con [R. decreto 28 giugno 1912, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728), e' sostituite come segue: 
+Il [secondo comma dell'art. 29 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato con [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), e' sostituite come segue: 
  
  «Tali mandati non possono eccedere la somma di lire duecentomila ed i relativi rendiconti mensili sono presentati alla ragioneria pel riscontro della Corte dei conti».
 

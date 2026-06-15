@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-03;1857), concernente la dichiarazione di pubblica utilita' delle opere relative all'allacciamento ferroviario delle nuove calate occidentali del porto di Genova. 
+ E' convertito in legge il [R. decreto-legge 3 ottobre 1929, n. 1857](Dichiarazione%20di%20pubblica%20utilita%20delle%20opere%20relative%20alle%20nuove%20calate%20occidentali%20del%20porto%20di%20Genova.%20029U1857.md), concernente la dichiarazione di pubblica utilita' delle opere relative all'allacciamento ferroviario delle nuove calate occidentali del porto di Genova. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

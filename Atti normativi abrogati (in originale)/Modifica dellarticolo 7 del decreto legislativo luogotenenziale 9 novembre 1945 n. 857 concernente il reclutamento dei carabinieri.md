@@ -27,7 +27,7 @@ La [lettera a) dell'articolo 7 del decreto legislativo luogotenenziale 9 novembr
  siano in possesso di tutti i requisiti morali e fisici richiesti per gli aspiranti all'arruolamento volontario di cui al precedente articolo 3;".
 
 AVVERTENZA:
- Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura della disposizione di legge qui modificata, della quale restano invariati il valore e l'efficacia.
+ Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura della disposizione di legge qui modificata, della quale restano invariati il valore e l'efficacia.
  Nota all'art. 1:
  Il testo vigente dell'[art. 7 del D.L.L. n. 857/1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1945;857#art_7) e' il seguente:
  "Art. 7. - Possono aspirare alla riammissione in servizio nell'Arma dei carabinieri Reali:

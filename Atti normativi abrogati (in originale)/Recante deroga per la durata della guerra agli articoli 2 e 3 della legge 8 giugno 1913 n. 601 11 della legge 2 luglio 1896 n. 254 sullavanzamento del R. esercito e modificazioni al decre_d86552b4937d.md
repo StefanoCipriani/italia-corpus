@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per la durata della guerra e' consentita la deroga al limite superiore di eta' stabilita dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_2) e [3 della legge 8 giugno 1913, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_3), e 11 della [legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254), sull'avanzamento nel R. esercito: 
+Per la durata della guerra e' consentita la deroga al limite superiore di eta' stabilita dagli [articoli 2](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md) e [3 della legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), e 11 della [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito: 
  
  a) per la nomina a sottotenente di complemento e di milizia territoriale dei militari arruolati nei corpi e riparti dell'esercito operante; 
  
@@ -30,7 +30,7 @@ L'esclusione dalla nomina ad ufficiale effettivo, per gli ufficiali di complemen
 
 ## Art. 5.
 
-Gli ufficiali non piu' inscritti nei ruoli, e richiamati in servizio sulla base dell'[art. 2 del R. decreto n. 355 del 28 marzo 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-28;355#art_2), saranno inscritti, per la durata della guerra, nel ruolo degli ufficiali di riserva, colla stessa anzianita' di grado che essi avevano all'atto in cui cessarono di appartenere al ruolo stesso. 
+Gli ufficiali non piu' inscritti nei ruoli, e richiamati in servizio sulla base dell'[art. 2 del R. decreto n. 355 del 28 marzo 1915](Riguardanti%20deroga%20ai%20limiti%20di%20eta%20per%20talune%20categorie%20di%20ufficiali%20in%20congedo%20ed%20impiego%20di%20ufficiali%20in%20congedo%20provvisorio%20e%20di%20volontari%20non%20vincolati%20da%20obbligo%20di%20servizio.%20015U0355.md), saranno inscritti, per la durata della guerra, nel ruolo degli ufficiali di riserva, colla stessa anzianita' di grado che essi avevano all'atto in cui cessarono di appartenere al ruolo stesso. 
  
  Potranno quindi concorrere all'avanzamento insieme coi colleghi di pari grado ed anzianita', inscritti nei ruoli della riserva. 
  

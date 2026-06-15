@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 luglio 1931, n. 1073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-24;1073), con il quale sono stati approvati il piano regolatore e di ampliamento della citta' di Salsomaggiore e le relative norme di attuazione. 
+ E' convertito in legge il [R. decreto-legge 24 luglio 1931, n. 1073](Approvazione%20del%20piano%20regolatore%20e%20di%20ampliamento%20della%20citta%20di%20Salsomaggiore.%20031U1073.md), con il quale sono stati approvati il piano regolatore e di ampliamento della citta' di Salsomaggiore e le relative norme di attuazione. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 17 dicembre 1931 - Anno X 
  

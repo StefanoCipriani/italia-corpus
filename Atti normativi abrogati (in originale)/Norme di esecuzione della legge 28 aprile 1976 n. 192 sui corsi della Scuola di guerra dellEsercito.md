@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 28 aprile 1976, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-28;192), concernente norme sui corsi della Scuola di guerra dell'Esercito;
+Vista la [legge 28 aprile 1976, n. 192](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md), concernente norme sui corsi della Scuola di guerra dell'Esercito;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -28,7 +28,7 @@ TITOLO I
 
 ### Art. 1.
 
-I capitani in servizio permanente effettivo dei ruoli normali delle Armi di fanteria, cavalleria, artiglieria e genio, da avviare, ai sensi dell'[art. 2 della legge 28 aprile 1976, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-28;192#art_2), a frequentare il corso di stato maggiore in ordine di ruolo, sono designati nominativamente dalla Direzione generale per gli ufficiali dell'Esercito.
+I capitani in servizio permanente effettivo dei ruoli normali delle Armi di fanteria, cavalleria, artiglieria e genio, da avviare, ai sensi dell'[art. 2 della legge 28 aprile 1976, n. 192](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md), a frequentare il corso di stato maggiore in ordine di ruolo, sono designati nominativamente dalla Direzione generale per gli ufficiali dell'Esercito.
  Il compimento del periodo di comando prescritto ai fini dell'avanzamento, richiesto per la frequenza del corso di stato maggiore, deve essersi verificato entro la data di inizio del corso stesso.
  I capitani che si trovino nella necessita' di chiedere che la frequenza del corso di stato maggiore sia rinviata o che non possano iniziare il corso entro il quarantacinquesimo giorno di attivita' didattica, per gravi motivi di carattere privato o per infermita', debbono farne domanda, per via gerarchica, alla Direzione generale per gli ufficiali dell'Esercito.
  Sui motivi di carattere privato esprimono parere le autorita' gerarchiche; l'infermita' deve essere riconosciuta dagli organi medico-legali competenti per territorio.
@@ -42,7 +42,7 @@ Capo II
 
 ### Art. 2.
 
-Il concorso per l'ammissione al corso di stato maggiore dei capitani in servizio permanente effettivo dell'Arma dei carabinieri, in possesso dei requisiti prescritti dall'[art. 3 della legge 28 aprile 1976, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-28;192#art_3), e' bandito con decreto ministeriale, per il numero dei posti annualmente fissato dal comando generale dell'Arma dei carabinieri in relazione alle esigenze funzionali dell'Arma.
+Il concorso per l'ammissione al corso di stato maggiore dei capitani in servizio permanente effettivo dell'Arma dei carabinieri, in possesso dei requisiti prescritti dall'[art. 3 della legge 28 aprile 1976, n. 192](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md), e' bandito con decreto ministeriale, per il numero dei posti annualmente fissato dal comando generale dell'Arma dei carabinieri in relazione alle esigenze funzionali dell'Arma.
  Il compimento del periodo di comando prescritto ai fini dell'avanzamento, richiesto per la frequenza del corso di stato maggiore, deve essersi verificato entro la data di scadenza del termine per la presentazione delle domande.
 
 ### Art. 3.
@@ -111,7 +111,7 @@ Capo III
 
 ### Art. 9.
 
-Il concorso per l'ammissione al corso di stato maggiore dei capitani in servizio permanente effettivo del ruolo speciale unico delle Armi di fanteria, cavalleria, artiglieria e genio, in possesso dei requisiti prescritti dall'[art. 4 della legge 28 aprile 1976, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-28;192#art_4), e' bandito con decreto ministeriale per il numero dei posti fissato dallo stato maggiore Esercito in relazione alle esigenze organico-funzionali della Forza armata.
+Il concorso per l'ammissione al corso di stato maggiore dei capitani in servizio permanente effettivo del ruolo speciale unico delle Armi di fanteria, cavalleria, artiglieria e genio, in possesso dei requisiti prescritti dall'[art. 4 della legge 28 aprile 1976, n. 192](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md), e' bandito con decreto ministeriale per il numero dei posti fissato dallo stato maggiore Esercito in relazione alle esigenze organico-funzionali della Forza armata.
  Il compimento del periodo di comando prescritto ai fini dell'avanzamento per i pari grado dei ruoli normali delle Armi, richiesto per la frequenza del corso di stato maggiore, deve essersi verificato entro la data di scadenza del termine per la presentazione delle domande.
 
 ### Art. 10.
@@ -165,7 +165,7 @@ Gli esami di concorso consistono nelle seguenti prove:
  regolamentazione tattica e logistica;
  armi, tiro e mezzi tecnici.
  I programmi delle prove di esame sono stabiliti con decreto del Ministro della difesa e allegati al bando di concorso.
- Per quanto concerne le modalita' inerenti allo svolgimento delle prove scritte, si osservano le disposizioni degli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686#art_6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686#art_7) e [8 del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686#art_8).
+ Per quanto concerne le modalita' inerenti allo svolgimento delle prove scritte, si osservano le disposizioni degli [articoli 6](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), [7](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md) e [8 del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md).
  Le prove d'esame non s'intendono superate se il candidato non abbia conseguito almeno diciotto trentesimi in ciascuna prova e ventuno trentesimi nella media tra la prova scritta e quella orale.
 
 ### Art. 14.
@@ -221,7 +221,7 @@ La commissione esaminatrice per la prova orale e' nominata dal Ministro della di
 Il voto d'esame, espresso in trentesimi e frazione millesimale, e' determinato dalla media aritmetica dei voti attribuiti da ciascun componente della commissione.
  La media aritmetica del predetto voto e di quello riportato al termine del terzo trimestre determina la posizione di ciascuno nella graduatoria, che e' unica per tutti i frequentatori. Gli ufficiali con uguale voto finale sono collocati in graduatoria facendo precedere:
  se dello stesso ruolo, il piu' anziano in ruolo;
- se di ruoli diversi, il piu' anziano di anzianita' assoluta e, in caso di pari anzianita' assoluta, si applicano le norme di cui all'[art. 9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9), il corso si intende non superato se si e' conseguito un voto finale inferiore a diciotto trentesimi.
+ se di ruoli diversi, il piu' anziano di anzianita' assoluta e, in caso di pari anzianita' assoluta, si applicano le norme di cui all'[art. 9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), il corso si intende non superato se si e' conseguito un voto finale inferiore a diciotto trentesimi.
  L'ufficiale che non abbia superato il corso di stato maggiore non puo' chiedere di frequentare altro corso di stato maggiore in epoca successiva.
 
 ### Art. 21.
@@ -251,7 +251,7 @@ L'ufficiale dell'Arma dei carabinieri o del ruolo speciale unico delle Armi di f
 
 ### Art. 24.
 
-L'ufficiale puo' essere allontanato dalla frequenza del corso per motivi disciplinari. Il provvedimento, come previsto dall'[art. 9 della legge 28 aprile 1976, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-28;192#art_9), per il corso superiore di stato maggiore, e' adottato dal Ministro, su proposta del capo di stato maggiore dell'Esercito, sentito il parere di una commissione, convocata dal comandante della Scuola di guerra che la presiede e composta dal vice comandante, dal comandante del corso e da due ufficiali insegnanti, piu' elevati in grado del giudicando.
+L'ufficiale puo' essere allontanato dalla frequenza del corso per motivi disciplinari. Il provvedimento, come previsto dall'[art. 9 della legge 28 aprile 1976, n. 192](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md), per il corso superiore di stato maggiore, e' adottato dal Ministro, su proposta del capo di stato maggiore dell'Esercito, sentito il parere di una commissione, convocata dal comandante della Scuola di guerra che la presiede e composta dal vice comandante, dal comandante del corso e da due ufficiali insegnanti, piu' elevati in grado del giudicando.
  L'ufficiale ammesso, a seguito del concorso, a frequentare il corso di stato maggiore puo' chiedere, senza essere tenuto a precisare i motivi, di essere dimesso dalla frequenza del corso stesso.
  L'ufficiale allontanato o che si dimetta volontariamente dal corso perde il titolo a frequentare altro corso di stato maggiore.
 
@@ -261,7 +261,7 @@ TITOLO II
 
 ### Art. 25.
 
-Il concorso per l'ammissione al corso superiore di stato maggiore degli ufficiali in servizio permanente effettivo, in possesso dei requisiti prescritti dall'[articolo 6 della legge 28 aprile 1976, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-28;192#art_6), e' bandito con decreto ministeriale, nel numero dei posti fissato nel limite massimo stabilito dal [quinto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-28;192#art_6-com5) e [sesto comma dell'art. 6 della legge 28 aprile 1976, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-28;192#art_6-com6), dallo stato maggiore Esercito per gli ufficiali delle Armi di fanteria, cavalleria, artiglieria e genio e dal comando generale dell'Arma dei carabinieri, per gli ufficiali della predetta Arma.
+Il concorso per l'ammissione al corso superiore di stato maggiore degli ufficiali in servizio permanente effettivo, in possesso dei requisiti prescritti dall'[articolo 6 della legge 28 aprile 1976, n. 192](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md), e' bandito con decreto ministeriale, nel numero dei posti fissato nel limite massimo stabilito dal [quinto](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md) e [sesto comma dell'art. 6 della legge 28 aprile 1976, n. 192](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md), dallo stato maggiore Esercito per gli ufficiali delle Armi di fanteria, cavalleria, artiglieria e genio e dal comando generale dell'Arma dei carabinieri, per gli ufficiali della predetta Arma.
  Tutti gli ufficiali che hanno conseguito l'idoneita' nel corso di stato maggiore hanno titolo a partecipare a concorso per l'ammissione al corso superiore di stato maggiore.
  Le domande di partecipazione al concorso debbono essere presentate al comando di Corpo dal quale l'ufficiale dipende per l'impiego e debbono esservi allegati i documenti attestanti i titoli che gli aspiranti intendono far valere, eccezion fatta per quelli che possono essere desunti d'ufficio dalla documentazione personale.
  Le domande corredate del libretto personale completo della documentazione caratteristica per la partecipazione al concorso, prevista dall'[art. 5, lettera f), del decreto del Presidente della Repubblica 15 giugno 1965, n. 1431](Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20della%20Aeronautica.md), quale modificato dall'[art. 4 del decreto del Presidente della Repubblica 14 agosto 1971, n. 1302](Modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2015%20giugno%201965%20n.%201431%20sui%20documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20_edf82901b3c2.md), e della certificazione prodotta dagli aspiranti per attestare il possesso dei titoli che si intendono far valere, vengono inoltrate alla Direzione generale per gli ufficiali dell'Esercito.
@@ -270,7 +270,7 @@ Il concorso per l'ammissione al corso superiore di stato maggiore degli ufficial
 
 ### Art. 26.
 
-Per l'ammissione alle prove di esame di concorso per la frequenza al corso superiore di stato maggiore, la commissione di cui al [terzo comma dell'art. 7 della legge 28 aprile 1976, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-28;192#art_7-com3), valuta i seguenti titoli:
+Per l'ammissione alle prove di esame di concorso per la frequenza al corso superiore di stato maggiore, la commissione di cui al [terzo comma dell'art. 7 della legge 28 aprile 1976, n. 192](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md), valuta i seguenti titoli:
  a) servizio prestato nell'arco della carriera da ufficiale in servizio permanente effettivo, con particolare riguardo a quello svolto dopo la frequenza del corso di stato maggiore;
  b) periodo di comando effettuato;
  c) corsi di formazione e di specializzazione professionale, che abbiano dato luogo a variazione matricolare ed a valutazione caratteristica, escluso il corso di stato maggiore;
@@ -311,7 +311,7 @@ La commissione esaminatrice delle prove scritte e orali e' nominata dal Ministro
 
 Le graduatorie di merito del concorso, distinte per gli ufficiali dell'Arma dei carabinieri e per quelli delle altre Armi, sono formate in base alla media aritmetica tra il punto riportato dal candidato nella valutazione dei titoli di cui all'art. 26 e la media dei voti riportati nelle prove di esame, dando la precedenza a parita' di voto al piu' elevato in grado e a parita' di grado:
  se dello stesso ruolo, al piu' anziano in ruolo;
- se di ruoli diversi, al piu' anziano di anzianita' assoluta. In caso di pari anzianita' assoluta si applicano le norme di cui all'[art. 9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9).
+ se di ruoli diversi, al piu' anziano di anzianita' assoluta. In caso di pari anzianita' assoluta si applicano le norme di cui all'[art. 9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md).
  La Direzione generale per gli ufficiali dell'Esercito sottopone le graduatorie all'approvazione del Ministro della difesa.
  Sono ammessi a frequentare il corso superiore di stato maggiore gli ufficiali che, dichiarati idonei, risultano compresi, in graduatoria, nel numero dei posti messi a concorso.
  Qualora alla data di inizio del corso dovessero restare scoperti posti messi a concorso per rinuncia o per qualsiasi altro motivo, il Ministro della difesa, su proposta della Direzione generale per gli ufficiali dell'Esercito, ha facolta' di procedere, entro l'inizio del medesimo corso, ad altrettante sostituzioni, secondo l'ordine di graduatoria.
@@ -337,7 +337,7 @@ La frequenza del corso superiore di stato maggiore si conclude con una valutazio
  c) capo sezione corsi, segretario.
  Il voto finale conseguente alla valutazione complessiva, espresso in trentesimi e frazione millesimale, e' definito dalla media aritmetica tra la valutazione del rendimento negli studi e quella delle qualita' dimostrate e determina la posizione di ciascuno nella graduatoria finale. Gli ufficiali con uguale punteggio sono collocati in graduatoria facendo precedere il piu' elevato in grado e a parita' di grado:
  se dello stesso ruolo, il piu' anziano in ruolo;
- se di ruoli diversi, il piu' anziano di anzianita' assoluta ed in caso di pari anzianita' assoluta si applicano le norme di cui all'[art. 9 della legge 10 aprile 1954, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113#art_9).
+ se di ruoli diversi, il piu' anziano di anzianita' assoluta ed in caso di pari anzianita' assoluta si applicano le norme di cui all'[art. 9 della legge 10 aprile 1954, n. 113](Stato%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md).
  A seconda del voto riportato, a ciascun ufficiale e' attribuita una delle seguenti qualifiche: ottimo, molto buono, buono, sufficiente, insufficiente. Tali qualifiche sono attribuite come segue:
  a) ottimo, da 27,00 a 30,00 punti;
  b) molto buono, da 24,00 a 26,99 punti;
@@ -369,7 +369,7 @@ L'ufficiale ammesso al corso superiore di stato maggiore che non possa iniziare 
 Tuttavia, puo' essere rinviato, a domanda e per una sola volta, alla frequenza del corso immediatamente successivo. Per la richiesta e la concessione del predetto rinvio valgono le norme indicate al precedente comma. 
  L'ufficiale che, per motivi di servizio riconosciuti dal Ministro della difesa con propria determinazione, non possa frequentare il corso superiore di stato maggiore cui era stato ammesso, e' rinviato al primo corso utile dopo la decadenza dei suddetti motivi di servizio. 
  Per le dimissioni volontarie dal corso superiore di stato maggiore si applicano le norme fissate dal precedente art. 24 per le dimissioni volontarie dalla frequenza del corso di stato maggiore. 
- L'ufficiale che si sia volontariamente dimesso dal corso superiore di stato maggiore o che, a norma dell'[art. 9 della legge 28 aprile 1976, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-28;192#art_9), ne sia stato allontanato per ragioni disciplinari perde il titolo a frequentare altro corso superiore di stato maggiore.
+ L'ufficiale che si sia volontariamente dimesso dal corso superiore di stato maggiore o che, a norma dell'[art. 9 della legge 28 aprile 1976, n. 192](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md), ne sia stato allontanato per ragioni disciplinari perde il titolo a frequentare altro corso superiore di stato maggiore.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

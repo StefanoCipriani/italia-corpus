@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° giugno 1933, n. 668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-01;668), contenente modificazioni alla [legge 26 maggio 1932, n. 627](Norme%20per%20il%20credito%20alberghiero.%20032U0627.md), sul credito alberghiero. 
+ E' convertito in legge il [R. decreto-legge 1° giugno 1933, n. 668](Modificazioni%20alla%20legge%2026%20maggio%201932%20n.%20627%20sul%20credito%20alberghiero.%20033U0668.md), contenente modificazioni alla [legge 26 maggio 1932, n. 627](Norme%20per%20il%20credito%20alberghiero.%20032U0627.md), sul credito alberghiero. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservare e di farla osservare come legge dello Stato. 
  

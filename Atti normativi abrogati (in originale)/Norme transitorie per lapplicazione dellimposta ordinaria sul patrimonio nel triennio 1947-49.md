@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608);
 
-Visto il [regio decreto-legge 12 ottobre 1939, n. 1529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;1529), convertito nella [legge 8 febbraio 1940, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-02-08;100);
+Visto il [regio decreto-legge 12 ottobre 1939, n. 1529](Istituzione%20di%20una%20imposta%20ordinaria%20sul%20patrimonio.%20039U1529.md), convertito nella [legge 8 febbraio 1940, n. 100](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20ottobre%201939-XVII%20n.%201529%20concernente%20listituzione%20di%20una%20imposta%20Ordinarie%20sul%20patrimonio.%20040U0100.md);
 
-Visto il [regio decreto-legge 24 giugno 1943, n. 543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-06-24;543);
+Visto il [regio decreto-legge 24 giugno 1943, n. 543](Norme%20transitorie%20per%20lapplicazione%20della%20imposta%20ordinaria%20sul%20patrimonio.%20043U0543.md);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le finanze, di concerto con il Ministro per la g
 
 ## Art. 1.
 
-Per il triennio 1947-49, ai fini dell'imposta, ordinaria sul patrimonio, istituita con [regio decreto-legge 12 ottobre 1939, n. 1529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;1529), convertito nella [legge 8 febbraio 1940, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-02-08;100), rimane confermata, salvo il disposto del secondo comma del presente articolo, la valutazione dei beni immobili eseguita sulla base della media del valore venale in comune commercio di detti beni nel triennio 1937-39, a norma del [regio decretolegge 24 giugno 1943, n. 543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-06-24;543), nonche' la valutazione delle scorte vive e morte e delle aziende industriali e commerciali eseguita per triennio 1944-46.
+Per il triennio 1947-49, ai fini dell'imposta, ordinaria sul patrimonio, istituita con [regio decreto-legge 12 ottobre 1939, n. 1529](Istituzione%20di%20una%20imposta%20ordinaria%20sul%20patrimonio.%20039U1529.md), convertito nella [legge 8 febbraio 1940, n. 100](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20ottobre%201939-XVII%20n.%201529%20concernente%20listituzione%20di%20una%20imposta%20Ordinarie%20sul%20patrimonio.%20040U0100.md), rimane confermata, salvo il disposto del secondo comma del presente articolo, la valutazione dei beni immobili eseguita sulla base della media del valore venale in comune commercio di detti beni nel triennio 1937-39, a norma del [regio decretolegge 24 giugno 1943, n. 543](Norme%20transitorie%20per%20lapplicazione%20della%20imposta%20ordinaria%20sul%20patrimonio.%20043U0543.md), nonche' la valutazione delle scorte vive e morte e delle aziende industriali e commerciali eseguita per triennio 1944-46.
  Ai valori come sopra determinati si applica pel triennio 1947-49 il coefficiente di maggiorazione 10, ridotto a meta' per i fabbricati.
 
 ## Art. 2.
@@ -34,7 +34,7 @@ Per il triennio 1947-49, ai fini dell'imposta, ordinaria sul patrimonio, istitui
 La liquidazione dell'imposta sulla base del valore.
  risultante dal procedimento indicato nell'articolo precedente e eseguita dagli Uffici distrettuali delle imposte dirette senza che occorra alcuna notificazione individuale ai contribuenti.
  L'Amministrazione finanziaria ed i contribuenti hanno rispettivamente la facolta' di promuovere o di chiedere la rettifica con decorrenza dal 1° gennaio 1947 dei valori dei beni immobili risultanti dalla applicazione dei coefficienti di maggiorazione di cui all'art. 1 del presente decreto sulla base dei valori venali in comune commercio dei beni stessi correnti al 1° gennaio 1946.
- Analoga facolta' compete per i valori delle scorte vive e morte e delle anziende industriali e commerciali, risultanti dalla applicazione dei coefficienti di maggiorazione, ed in tal caso la valutazione viene eseguita per le scorte prendendo a base le mercuriali o le contrattazioni piu' vicine al 1° gennaio 1946 e per le aziende industriali e commerciali con le norme previste nel [regio decreto-legge 12 ottobre 1939, n. 1529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;1529), convertito nella [legge 8 febbraio 1940, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-02-08;100);
+ Analoga facolta' compete per i valori delle scorte vive e morte e delle anziende industriali e commerciali, risultanti dalla applicazione dei coefficienti di maggiorazione, ed in tal caso la valutazione viene eseguita per le scorte prendendo a base le mercuriali o le contrattazioni piu' vicine al 1° gennaio 1946 e per le aziende industriali e commerciali con le norme previste nel [regio decreto-legge 12 ottobre 1939, n. 1529](Istituzione%20di%20una%20imposta%20ordinaria%20sul%20patrimonio.%20039U1529.md), convertito nella [legge 8 febbraio 1940, n. 100](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20ottobre%201939-XVII%20n.%201529%20concernente%20listituzione%20di%20una%20imposta%20Ordinarie%20sul%20patrimonio.%20040U0100.md);
  La facolta' di rettifica dell'Amministrazione finanziaria puo' essere esercitata entro il 31 dicembre 1947;
  quella dei contribuenti nei tre mesi dal la pubblicazione dei ruoli.
 

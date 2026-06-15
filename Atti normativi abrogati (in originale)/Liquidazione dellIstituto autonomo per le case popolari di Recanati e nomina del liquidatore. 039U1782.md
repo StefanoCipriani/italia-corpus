@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [testo unico sull'edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380) popolare ed economica approvato con R. decreto 28 aprile 1938-XVI, n. 1165;
+Visto il [testo unico sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con R. decreto 28 aprile 1938-XVI, n. 1165;
 
 Visto il [R. decreto 11 dicembre 1921, n. 2053](Erezione%20in%20Ente%20morale.%20021U2053.md), col quale l'Istituto autonomo per le case popolari di Recanati venne riconosciuto come corpo morale e ne fu approvato lo statuto organico;
 

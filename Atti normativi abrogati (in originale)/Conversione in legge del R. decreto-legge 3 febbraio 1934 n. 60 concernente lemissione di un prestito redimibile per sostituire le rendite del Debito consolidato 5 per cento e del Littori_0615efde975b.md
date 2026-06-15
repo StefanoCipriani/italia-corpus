@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 febbraio 1934, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-02-03;60), concernente l'emissione di un prestito redimibile per sostituire le rendite del Debito consolidato 5 per cento e del Littorio 5 per cento. 
+ E' convertito in legge il [R. decreto-legge 3 febbraio 1934, n. 60](Emissione%20di%20un%20prestito%20redimibile%20350%20per%20cento%20per%20sostituire%20le%20rendite%20del%20debito%20consolidato%205%20per%20cento%20e%20del%20Littorio%205%20per%20cento.%20034U0060.md), concernente l'emissione di un prestito redimibile per sostituire le rendite del Debito consolidato 5 per cento e del Littorio 5 per cento. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

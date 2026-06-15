@@ -40,7 +40,7 @@ Nello stato di previsione della spesa del Ministero delle poste e dei telegrafi 
  
  Cap. n. 7l: «Assegni fissi per spese d'ufficio ai direttori, ai titolari degli uffici provinciali, ecc.», lire duecentoventimila (L. 220.000). 
  
- b) e' istituito il capitolo n. 85-bis: «Spese di manutenzione e di migliorie nell'edificio delle Casse postali di risparmio in Roma, piazza Dante ([legge 2 febbraio 1911, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-02-02;76))», con lo stanziamento di lire cinquemila (L. 5000).
+ b) e' istituito il capitolo n. 85-bis: «Spese di manutenzione e di migliorie nell'edificio delle Casse postali di risparmio in Roma, piazza Dante ([legge 2 febbraio 1911, n. 76](Maggiore%20assegnazione%20di%20L.%202400000%20per%20la%20costruzione%20delledificio%20per%20le%20Casse%20postali%20di%20risparmio%20in%20Roma.%20011U0076.md))», con lo stanziamento di lire cinquemila (L. 5000).
 
 ## Art. 2.
 

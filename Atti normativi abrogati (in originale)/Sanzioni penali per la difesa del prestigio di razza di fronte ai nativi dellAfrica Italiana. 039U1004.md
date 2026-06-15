@@ -38,7 +38,7 @@ Il cittadino che commetta un reato in presenza di nativo dell'Africa Italiana e'
 
 Il cittadino che commetta un reato in concorso con nativo dell'Africa Italiana e' punito con la pena stabilita per il reato stesso, aumentata fino ad un terzo. 
  
- Se trattasi di delitto contro la personalita' dello Stato previsto dal libro II, titolo I del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), la pena e' aumentata fino alla meta'. 
+ Se trattasi di delitto contro la personalita' dello Stato previsto dal libro II, titolo I del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la pena e' aumentata fino alla meta'. 
  
  Qualora la pena prevista per i casi contemplati nei due commi precedenti sia l'ergastolo, essa e' aggravata con l'isolamento diurno per un periodo di tempo non inferiore a sei mesi e non superiore a quattro anni.
 
@@ -46,7 +46,7 @@ Il cittadino che commetta un reato in concorso con nativo dell'Africa Italiana e
 
 Il cittadino che si accordi con nativo dell'Africa Italiana allo scopo di commettere un reato, se questo non sia commesso, e' punito, pei il solo fatto dell'accordo, con pena commisurata fino ad un quarto del minimo comminato per il reato. Tuttavia la pena non puo' superare per i delitti un anno di reclusione e lire duemila di multa, per le contravvenzioni tre mesi di arresto e lire cinquecento di ammenda. 
  
- Nel caso di accordo per commettere un delitto contro la personalita' dello Stato previsto nel libro II, titolo I del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), il cittadino per il solo fatto dell'accordo, e' punito con la pena commisurata ad un terzo del minimo comminato per il reato, entro il limite massimo di due anni di reclusione e quattromila lire di multa. 
+ Nel caso di accordo per commettere un delitto contro la personalita' dello Stato previsto nel libro II, titolo I del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il cittadino per il solo fatto dell'accordo, e' punito con la pena commisurata ad un terzo del minimo comminato per il reato, entro il limite massimo di due anni di reclusione e quattromila lire di multa. 
  
  Nei casi suddetti la pena, qualora quella comminata per il delitto sia la morte o l'ergastolo, e' la reclusione fino rispettivamente ad anni quattro e ad anni tre.
 
@@ -54,7 +54,7 @@ Il cittadino che si accordi con nativo dell'Africa Italiana allo scopo di commet
 
 Il cittadino che istighi un nativo dell'Africa Italiana a commettere un reato e' punito, se questo non sia commesso, per il solo fatto dell'istigazione, con pena commisurata fino ad un quarto del minimo comminato per il reato. Tuttavia, la pena non puo' superare per i delitti un anno di reclusione e lire duemila di multa, per le contravvenzioni tre mesi, di arresto e lire cinquecento di ammenda. 
  
- Nel caso d'istigazione a commettere un delitto contro la personalita' dello Stato, previsto nel libro II, titolo I del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), il cittadino, per il solo fatto dell'istigazione, e' punito con pena commisurata fino ad un terzo del minimo comminato per il reato, entro il limite massimo di due anni di reclusione e quattromila lire di multa. 
+ Nel caso d'istigazione a commettere un delitto contro la personalita' dello Stato, previsto nel libro II, titolo I del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il cittadino, per il solo fatto dell'istigazione, e' punito con pena commisurata fino ad un terzo del minimo comminato per il reato, entro il limite massimo di due anni di reclusione e quattromila lire di multa. 
  
  Nei casi suddetti la pena, qualora quella comminata per il delitto sia la morte o l'ergastolo, e' la reclusione fino rispettivamente ad anni quattro e ad anni tre. 
  
@@ -92,7 +92,7 @@ Il cittadino che, nei territori dell'Africa Italiana, senza autorizzazione scrit
 
 Il cittadino che, nei territori dell'Africa Italiana, in luogo aperto al pubblico riservato ai nativi, o in luogo pubblico e' colto in stato di manifesta ubriachezza, e' punito con l'arresto da un mese ad un anno o con l'ammenda da lire duecento a lire cinquemila. 
  
- Nel caso previsto nel [secondo comma dell'art. 688 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_688-com2) la pena e' dell'arresto da quattro mesi ad un anno. 
+ Nel caso previsto nel [secondo comma dell'art. 688 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) la pena e' dell'arresto da quattro mesi ad un anno. 
  
  Resta ferma la disposizione del terzo comma dell'articolo predetto.
 

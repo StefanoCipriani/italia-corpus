@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 16 ottobre 1924, n. 2135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-16;2135), che apporta modificazioni al [testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) approvato con [R. decreto 30 giugno 1889, n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-06-30;6144), relativamente alla disciplina dell'uso dei gas tossici. 
+ E' convertito in legge il [R. decreto 16 ottobre 1924, n. 2135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-16;2135), che apporta modificazioni al [testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) approvato con [R. decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md), relativamente alla disciplina dell'uso dei gas tossici. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

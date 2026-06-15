@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 febbraio 1930, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-22;175), che concede in via temporanea la franchigia doganale per la resorcina impiegata nella stampa dei tessuti. 
+ E' convertito in legge il [R. decreto-legge 22 febbraio 1930, n. 175](Franchigia%20doganale%20per%20la%20resorcina%20destinata%20alla%20stampa%20dei%20tessuti.%20030U0175.md), che concede in via temporanea la franchigia doganale per la resorcina impiegata nella stampa dei tessuti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,13 +16,13 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive variazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive variazioni;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato;
 
 Visto il [R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441);
 
-Visto il [R. decreto 17 novembre 1932, n. 1595](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-11-17;1595);
+Visto il [R. decreto 17 novembre 1932, n. 1595](Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md);
 
 Visto il R. decreto-legge 27 ottobre 1937-XV, n. 1872;
 
@@ -61,11 +61,11 @@ di 2° classe .............................................. 83
 
 ## Art. 2.
 
-Sono abrogate le disposizioni di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-11-17;1595#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-11-17;1595#art_2) e [3 del R. decreto 17 novembre 1932, n. 1595](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-11-17;1595#art_3). 
+Sono abrogate le disposizioni di cui agli [articoli 1](Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md), [2](Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md) e [3 del R. decreto 17 novembre 1932, n. 1595](Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md). 
  
  E' altresi' abrogata la disposizione dell'[art. 2 del R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441#art_2). 
  
- Per il conferimento delle promozioni ai gradi 5°, 6° e 7° del ruolo predetto si osservano le disposizioni generali di cui all'[art. 6 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_6).
+ Per il conferimento delle promozioni ai gradi 5°, 6° e 7° del ruolo predetto si osservano le disposizioni generali di cui all'[art. 6 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 3.
 

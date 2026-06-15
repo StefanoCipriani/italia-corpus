@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 21 ottobre 1923, n. 2557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2557);
+Visto il [R. decreto 21 ottobre 1923, n. 2557](Nuovo%20ordinamento%20dei%20Regi%20istituti%20nautici.%20023U2557.md);
 
 Riconosciuta l'opportunita' di facilitare la sistemazione degli ex combattenti provvisti dei titoli necessari per l'insegnamento nei Regi istituti nautici;
 
@@ -26,7 +26,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro ad interim pe
 
 Il Ministro per la marina e' autorizzato a indire entro l'anno 1926, un concorso per titoli ed esami a cattedre di Regi istituti nautici, al quale saranno ammessi solamente gli ex combattenti, che si trovino, per quanto riguarda il servizio militare, nelle condizioni di cui all'[art. 18 del Regio decreto-legge 8 marzo 1924, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-03-08;843#art_18). 
  
- Nella valutazione dei titoli le Commissioni giudicatrici, a parita' di merito, terranno conto delle preferenze stabilite dall'[art. 21 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_21).
+ Nella valutazione dei titoli le Commissioni giudicatrici, a parita' di merito, terranno conto delle preferenze stabilite dall'[art. 21 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 2.
 

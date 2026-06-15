@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 16 dicembre 1923, n. 2740](Norme%20per%20la%20concessione%20di%20facilitazioni%20ferroviarie%20e%20doganali%20per%20fiere%20ed%20esposizioni%20nazionali%20e%20internazionali.%20023U2740.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge 16 dicembre 1923, n. 2740](Norme%20per%20la%20concessione%20di%20facilitazioni%20ferroviarie%20e%20doganali%20per%20fiere%20ed%20esposizioni%20nazionali%20e%20internazionali.%20023U2740.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto il [R. decreto-legge 7 aprile 1927, n. 515](Norme%20relative%20alla%20istituzione%20ed%20alla%20organizzazione%20di%20fiere%20mostre%20ed%20esposizioni.%20027U0515.md), convertito nella [legge 8 marzo 1928, n. 630](Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20aprile%201927%20n.%20515%20contenente%20norme%20relative%20alla%20istituzione%20ed%20alla%20organizzazione%20di%20fiere%20mostre%20ed%20esposizioni.%20028U0630.md);
 

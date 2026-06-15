@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Per gli zolfi grezzi (fusi) che entro i limiti dei contingenti di produzione, determinati a norma dell'[art. 1 del R. decreto-legge 17 luglio 1937, n. 1384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-17;1384#art_1), convertito nella leggo 27 gennaio 1938, n. 129, i produttori hanno messo a disposizione dell'Ufficio per la vendita dello zolfo italiano, in Roma, durante il periodo dal 1° aprile al 31 luglio 1939-XVII, la misura del prezzo minimo garantito, stabilita a norma dell'[art. 1 del R. decreto-legge 18 marzo 1938, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-18;260#art_1), e' aumentato di L. 20 a tonnellata. 
+ Per gli zolfi grezzi (fusi) che entro i limiti dei contingenti di produzione, determinati a norma dell'[art. 1 del R. decreto-legge 17 luglio 1937, n. 1384](Disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20037U1384.md), convertito nella leggo 27 gennaio 1938, n. 129, i produttori hanno messo a disposizione dell'Ufficio per la vendita dello zolfo italiano, in Roma, durante il periodo dal 1° aprile al 31 luglio 1939-XVII, la misura del prezzo minimo garantito, stabilita a norma dell'[art. 1 del R. decreto-legge 18 marzo 1938, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-18;260#art_1), e' aumentato di L. 20 a tonnellata. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

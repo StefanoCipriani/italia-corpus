@@ -18,7 +18,7 @@ UMBERTO DI SAVOIA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto-legge 22 febbraio 1937, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-22;220); convertito nella [legge 25 giugno 1937, n. 1501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-25;1501), e sueccessive modificazioni; 
+ Visto il [R. decreto-legge 22 febbraio 1937, n. 220](Ordinamento%20della%20Regia%20aeronautica.%20037U0220.md); convertito nella [legge 25 giugno 1937, n. 1501](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), e sueccessive modificazioni; 
  
  Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151); 
  

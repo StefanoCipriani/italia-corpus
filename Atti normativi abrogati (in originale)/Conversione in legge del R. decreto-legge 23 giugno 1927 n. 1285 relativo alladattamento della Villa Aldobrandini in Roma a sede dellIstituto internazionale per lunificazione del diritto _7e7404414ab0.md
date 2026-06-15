@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1285), relativo ai lavori di adattamento, di ampliamento e di arredamento della Villa Aldobrandini in Roma, destinata a sede dell'Istituto internazionale per l'unificazione del diritto privato. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1285](Adattamento%20della%20Villa%20Aldobrandini%20a%20sede%20dellIstituto%20internazionale%20per%20lunificazione%20del%20diritto%20privato.%20027U1285.md), relativo ai lavori di adattamento, di ampliamento e di arredamento della Villa Aldobrandini in Roma, destinata a sede dell'Istituto internazionale per l'unificazione del diritto privato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

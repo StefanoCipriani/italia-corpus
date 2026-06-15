@@ -24,7 +24,7 @@ Al Sottosegretariato di Stato per la stampa, e le informazioni sono devoluti tut
 
 ## Art. 4.
 
-Con successivi decreti, da emanarsi ai sensi dell'[articolo 4 della legge 24 dicembre 1925, n. 2263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2263#art_4), sara' provveduto al riordinamento dei servizi del Sottosegretariato per la stampa e le informazioni. 
+Con successivi decreti, da emanarsi ai sensi dell'[articolo 4 della legge 24 dicembre 1925, n. 2263](Attribuzioni%20e%20prerogative%20del%20Capo%20del%20Governo%20Primo%20Ministro%20Segretario%20di%20Stato.%20025U2263.md), sara' provveduto al riordinamento dei servizi del Sottosegretariato per la stampa e le informazioni. 
  
  Il Ministro pel tesoro e' autorizzato a disporre con proprio decreto le variazioni di bilancio occorrenti per l'attuazione del presente decreto.
 

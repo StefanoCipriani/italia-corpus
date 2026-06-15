@@ -22,7 +22,7 @@ VITTORIO EMANUELE
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 maggio 1932, n. 554](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-05-26;554), relativo alla esenzione dal dazio sul valore del 15 per cento all'importazione di talune merci e all'imposizione del detto tributo ai concimi chimici fosfatici. 
+ E' convertito in legge il [R. decreto-legge 26 maggio 1932, n. 554](Esenzione%20dal%20dazio%20sul%20valore%20del%2015%20alla%20importazione%20di%20talune%20merci%20e%20imposizione%20del%20detto%20tributo%20ai%20concimi%20chimici%20fosfatici.%20032U0554.md), relativo alla esenzione dal dazio sul valore del 15 per cento all'importazione di talune merci e all'imposizione del detto tributo ai concimi chimici fosfatici. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'art. 8 dello statuto costituzionale del Regno;
 
-Visti gli [articoli 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_86) e [87 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_87) e gli [articoli 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_589) e [591 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_591);
+Visti gli [articoli 86](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [87 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e gli [articoli 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_589) e [591 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_591);
 
 Sulla proposta del Nostro ministro guardasigilli, segretario di Stato per gli affari di grazia e giustizia e dei culti;
 
@@ -26,7 +26,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 E' concessa amnistia pei seguenti reati: 
  
- a) reati previsti negli articoli 115, 118, 122, 126, 134 a 137, 246, 247 [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398); 
+ a) reati previsti negli articoli 115, 118, 122, 126, 134 a 137, 246, 247 [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  b) tutti i reati commessi in occasione di sciopero, conflitti di lavoro, moti popolari, pubbliche dimostrazioni o tumulti, esclusi i delitti di omicidio o di lesioni prevedute nei nn. 1 e 2 dell'art. 372 del Codice stesso. 
  
@@ -41,7 +41,7 @@ Nota redazionale
 
 E' parimente concessa amnistia pei seguenti reati: 
  
- a) reati d'indebito abbandono del proprio ufficio, contemplati nell'[art. 181 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_181); 
+ a) reati d'indebito abbandono del proprio ufficio, contemplati nell'[art. 181 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  b) reati di diserzione da navi mercantili e di disobbedienza e reati di ammutinamento commessi in occasioni di sciopero della gente di mare (articoli 264 a 280, 281, 282, 294 Codice per la marina mercantile); 
  

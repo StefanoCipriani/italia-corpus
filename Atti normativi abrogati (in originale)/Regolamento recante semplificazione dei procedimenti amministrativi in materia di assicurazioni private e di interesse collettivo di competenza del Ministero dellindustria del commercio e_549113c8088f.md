@@ -14,13 +14,13 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Vista la [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), ed in particolare l'articolo 2, commi 7, 8 e 9;
+Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
-Vista la [legge 10 giugno 1978, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;295);
+Vista la [legge 10 giugno 1978, n. 295](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md);
 
 Vista la [legge 12 agosto 1982, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576);
 
-Vista la [legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742);
+Vista la [legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md);
 
 Visto il [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md);
 
@@ -40,7 +40,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Il presente regolamento si applica ai seguenti procedimenti amministrativi, di competenza del Ministero dell'industria, del commercio e dell'artigianato, inclusi nell'elenco n. 4 allegato al testo della [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), recante: "Interventi correttivi di finanza pubblica": 
+Il presente regolamento si applica ai seguenti procedimenti amministrativi, di competenza del Ministero dell'industria, del commercio e dell'artigianato, inclusi nell'elenco n. 4 allegato al testo della [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), recante: "Interventi correttivi di finanza pubblica": 
  1) autorizzazione e diniego all'esercizio dell'attivita' assicurativa nei rami danni e vita; 
  2) autorizzazione ad estendere l'esercizio dell'attivita' assicurativa ad altri rami danni e vita;
 
@@ -73,7 +73,7 @@ Si applica, altresi', ai seguenti procedimenti, connessi a quelli elencati nel p
                             rilascio certificato di assicurazione a copertura della responsabilita' civile per danni da inquinamenti da idrocarburi ed approvazione per la liquidazione dei danni derivanti dalla navigazione di natanti iscritti all'estero.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) e' il seguente:
  "Art. 87. - Il Presidente della Repubblica .. (Omissis).
@@ -94,7 +94,7 @@ AVVERTENZA:
  b) riduzione dei termini attualmente prescritti per la conclusione del procedimento;
  c) regolazione uniforme dei procedimenti dello stesso tipo, che si svolgono presso diverse amministrazioni, ovvero presso diversi uffici della medesima amministrazione e, uniformazione dei relativi tempi di conclusione;
  d) riduzione del numero dei procedimenti amministrativi e accorpamento dei procedimenti che si riferiscono alla medesima attivita';
- e) semplificazione e accelerazione delle procedure di spesa e contabili, anche mediante adozione, ed estensione alle fasi procedimentali di integrazione dell'efficacia degli atti, di disposizioni analoghe a quelle di cui all'[articolo 51, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_51-com2), e successive modificazioni;
+ e) semplificazione e accelerazione delle procedure di spesa e contabili, anche mediante adozione, ed estensione alle fasi procedimentali di integrazione dell'efficacia degli atti, di disposizioni analoghe a quelle di cui all'[articolo 51, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
  f) unificazione a livello regionale, oppure provinciale su espressa delega, dei procedimenti amministrativi per il rilascio delle autorizzazioni previste dalla legislazione vigente nelle materie dell'inquinamento acustico, dell'acqua, dell'aria e dello smaltimento dei rifiuti;
  g) snellimento per le piccole imprese operanti nei diversi comparti produttivi degli adempimenti amministrativi previsti dalla vigente legislazione per la tutela ambientale;
  h) individuazione delle responsabilita' e delle proce- dure di verifica e controllo.
@@ -152,7 +152,7 @@ Nota all'art. 3:
  5) sugli svincoli totali delle attivita' destinate a copertura delle riserve matematiche e delle cauzioni;
  6) sugli schemi di regolamento concernenti le assicurazioni private.
  Il Ministero puo' chiedere il parere della commissione sugli schemi di disegni di legge concernenti le assicurazioni private e su ogni altra questione concernente l'esercizio di dette assicurazioni che ritenga opportuno sottoporre all'esame della commissione stessa".
- "Art. 78 (Composizione). - ([D. Lgs. del Capo provvisorio dello Stato 15 settembre 1946, n. 349, art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-15;349#art_2); [D.Lgs. 2 aprile 1948, n. 583, art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-02;583#art_1); [legge 11 aprile 1955, n. 294, art. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-04-11;294#art_11) ([lett. b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-04-11;294#art_letb)).
+ "Art. 78 (Composizione). - ([D. Lgs. del Capo provvisorio dello Stato 15 settembre 1946, n. 349, art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-15;349#art_2); [D.Lgs. 2 aprile 1948, n. 583, art. 1](../Decreti%20Legislativi/Modificazione%20al%20decreto%20legislativo%2015%20settembre%201946%20n.%20349%20riguardante%20listituzione%20di%20una%20Commissione%20consultiva%20per%20le%20assicurazioni%20private.md); [legge 11 aprile 1955, n. 294, art. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-04-11;294#art_11) ([lett. b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-04-11;294#art_letb)).
  Fanno parte di entrambe le sezioni i seguenti membri:
  1) il capo dell'ispettorato delle assicurazioni private presso il Ministero dell'industria e del commercio e tre funzionari dello stesso ispettorato;
  2) un rappresentante del Ministero del tesoro;
@@ -192,7 +192,7 @@ Nota all'art. 3:
 
 1.
 
-Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com8), sono abrogate, a decorrere dalla data di entrata in vigore del presente regolamento, le norme di cui agli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576#art_2), [4 comma 2, lettere c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576#art_4-com2-letc), [d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576#art_4-com2-letd) ed [e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576#art_4-com2-lete), [4, comma 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576#art_4-com3) e [8, della legge 12 agosto 1982, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576#art_4-com8).
+Ai sensi dell'[articolo 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), sono abrogate, a decorrere dalla data di entrata in vigore del presente regolamento, le norme di cui agli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576#art_2), [4 comma 2, lettere c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576#art_4-com2-letc), [d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576#art_4-com2-letd) ed [e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576#art_4-com2-lete), [4, comma 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576#art_4-com3) e [8, della legge 12 agosto 1982, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576#art_4-com8).
 
 Note all'art. 4:
  - Per il testo dell'[art. 2, comma 8, della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2-com8), si vedano le precedenti note alle premesse.
@@ -204,7 +204,7 @@ Note all'art. 4:
  Compete altresi' all'ISVAP:
  (Omissis);
  c) espletare l'attivita' istruttoria necessaria per l'adozione dei provvedimenti attribuiti dalla legge alla competenza del Ministro dell'industria, del commercio e dell'artigianato, compresa la relazione per la commissione consultiva per le assicurazioni private di cui agli articoli 76 e seguenti del testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), e successive modificazioni;
- d) esprimere parere sul programma presentato dalle imprese, in sede di richiesta dell'autorizzazione per l'esercizio dell'attivita' assicurativa, nonche' sul piano di risanamento e su quello di finanziamento previsti dall'[articolo 44 della legge 10 giugno 1978, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-10;295#art_44); nel caso in cui il parere espresso in sede di richiesta dell'autorizzazione per l'esercizio dell'attivita' assicurativa sia negativo, il Ministro dell'industria, del commercio e dell'artigianato, ove intenda discostarsene, e' tenuto a sentire anche il parere del Consiglio di Stato;
+ d) esprimere parere sul programma presentato dalle imprese, in sede di richiesta dell'autorizzazione per l'esercizio dell'attivita' assicurativa, nonche' sul piano di risanamento e su quello di finanziamento previsti dall'[articolo 44 della legge 10 giugno 1978, n. 295](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md); nel caso in cui il parere espresso in sede di richiesta dell'autorizzazione per l'esercizio dell'attivita' assicurativa sia negativo, il Ministro dell'industria, del commercio e dell'artigianato, ove intenda discostarsene, e' tenuto a sentire anche il parere del Consiglio di Stato;
  e) proporre al Ministro dell'industria, del commercio e dell'artigianato l'adozione delle misure sanzionatorie, compresa la revoca dell'autorizzazione o dell'iscrizione, nei confronti di qualunque operatore del mercato assicurativo, nonche' delle misure e degli interventi per il risanamento e dei provvedimenti per la liquidazione coatta amministrativa, nei confronti delle imprese e degli enti di cui al primo comma;
  (Omissis)".
  - Il testo dell'[art. 4, comma 3, della legge n. 576/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;576#art_4-com3) e' il seguente:

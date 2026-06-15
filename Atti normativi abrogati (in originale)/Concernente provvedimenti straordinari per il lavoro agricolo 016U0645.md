@@ -117,7 +117,7 @@ Nei casi di conflitti collettivi comunque attinenti a prestazione di lavoro agra
 
 ### Art. 14.
 
-Al procedimento avanti le Commissioni arbitrali mandamentali si applicano le disposizioni della [legge 15 giugno 1893, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-15;295), e del regolamento 36 aprile 1894, n. 179, sui Collegi di probiviri. Cosi' pure, per tutto cio' che non e' preveduto nel presente decreto, devono essere osservate, in quanto siano applicabili, le norme stabilite per questi Collegi. 
+Al procedimento avanti le Commissioni arbitrali mandamentali si applicano le disposizioni della [legge 15 giugno 1893, n. 295](Sulla%20istituzione%20dei%20Collegi%20di%20probi-viri.%20093U0295.md), e del regolamento 36 aprile 1894, n. 179, sui Collegi di probiviri. Cosi' pure, per tutto cio' che non e' preveduto nel presente decreto, devono essere osservate, in quanto siano applicabili, le norme stabilite per questi Collegi. 
  
  Le decisioni concernenti conflitti collettivi si intendono notificate a tulle le persone interessate nel conflitto, con l'affissione all'albo del Comune dove ha sede la Commissione che le emise.
 

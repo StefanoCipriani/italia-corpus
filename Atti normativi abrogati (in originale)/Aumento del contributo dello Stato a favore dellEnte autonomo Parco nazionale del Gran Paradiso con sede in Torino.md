@@ -21,7 +21,7 @@ Il contributo annuo a carico dello Stato a favore dell'Ente autonomo del "Parco 
 
 ## Art. 2.
 
-L'autorizzazione di spesa, di cui all'[art. 1 del regio decreto-legge 13 gennaio 1938, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-01-13;12#art_1), convertito nella [legge 31 marzo 1938, n. 543](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2013%20gennaio%201938-XVI%20n.%2012%20recante%20nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0543.md), e successive modificazioni, relativa ad opere pubbliche di bonifica e' ridotta di L. 11.000.000 (undici milioni).
+L'autorizzazione di spesa, di cui all'[art. 1 del regio decreto-legge 13 gennaio 1938, n. 12](Nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0012.md), convertito nella [legge 31 marzo 1938, n. 543](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2013%20gennaio%201938-XVI%20n.%2012%20recante%20nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0543.md), e successive modificazioni, relativa ad opere pubbliche di bonifica e' ridotta di L. 11.000.000 (undici milioni).
  Tale riduzione avra' effetto sullo stanziamento inscritto nell'esercizio 1948-49 al capitolo n. 124 (spese a pagamento non differito relativo ad opere di bonifica) del Ministero dell'agricoltura e delle foreste, in conto della predetta autorizzazione.
 
 ## Art. 3.

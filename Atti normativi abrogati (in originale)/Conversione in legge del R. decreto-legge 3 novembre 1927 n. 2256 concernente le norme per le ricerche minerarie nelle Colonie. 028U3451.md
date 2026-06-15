@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-03;2256), concernente le norme per le ricerche minerarie nelle Colonie. 
+ E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2256](Norme%20per%20le%20ricerche%20minerarie%20nelle%20Colonie.%20027U2256.md), concernente le norme per le ricerche minerarie nelle Colonie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

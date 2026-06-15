@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 luglio 1934, n. 1451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-27;1451), relativo alla disciplina dell'esportazione del riso. 
+ E' convertito in legge il [R. decreto-legge 27 luglio 1934, n. 1451](Disciplina%20della%20esportazione%20del%20riso.%20034U1451.md), relativo alla disciplina dell'esportazione del riso. 
  
  Ordiniamo che la presente, munita dei sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del, Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

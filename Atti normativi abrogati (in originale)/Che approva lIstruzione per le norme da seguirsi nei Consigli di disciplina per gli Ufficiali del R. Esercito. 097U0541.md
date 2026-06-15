@@ -42,7 +42,7 @@ Le prescrizioni contenute nella suddetta Istruzione dovranno andare in vigore da
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 6 gennaio 1898, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-01-06;3), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 6 gennaio 1898, n. 3](Che%20proroga%20al%201%20marzo%201898%20lattuazione%20dellIstruzione%20annessa%20al%20R.%20decreto%20n.%20541%20098U0003.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 

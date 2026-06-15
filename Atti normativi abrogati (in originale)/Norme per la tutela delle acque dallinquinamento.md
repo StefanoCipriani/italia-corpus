@@ -241,7 +241,7 @@ Coloro che effettuano scarichi gia' esistenti, provenienti da insediamenti sia p
 ### Art. 26.
 
 Gli scarichi di cui all'articolo 1, lettera a), sono disciplinati esclusivamente dalla presente legge. Sono pertanto abrogate tutte le altre norme che, direttamente o indirettamente, disciplinano la materia degli scarichi in acque, sul suolo o nel sottosuolo e del conseguente inquinamento. 
- Restano in vigore le disposizioni del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) in materia di delitti contro la vita, l'incolumita' personale e pubblica. 
+ Restano in vigore le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in materia di delitti contro la vita, l'incolumita' personale e pubblica. 
  Sono fatti salvi specifici e motivati interventi restrittivi o integrativi da parte delle autorita' sanitarie competenti per quanto concerne le questioni relative agli usi potabili dell'acqua, alla mitilicoltura, alla balneazione, alla protezione della salute pubblica.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

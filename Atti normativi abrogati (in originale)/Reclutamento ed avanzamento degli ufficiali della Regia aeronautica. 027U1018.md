@@ -363,7 +363,7 @@ Gli ufficiali piloti di aeroplano o di idrovolante, i quali vengano dichiarati i
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-07;1278), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-20;3095), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](Modificazioni%20alle%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20aeronautica.%20028U1278.md), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20giugno%201928%20n.%201278%20che%20modifica%20le%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20ae_d84aa7ee3499.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 37.
 
@@ -771,7 +771,7 @@ Le disposizioni, di cui all'art. 11 della presente legge sono applicabili anche 
 
 ### Art. 94.
 
-Sono esonerati dall'obbligo di frequentare e superare il corso superiore aeronautico ed il corso di costruzioni aeronautiche di cui all'art. 27 gli ufficiali inferiori del ruolo combattente dell'arma aeronautica che, a norma del [Regio decreto-legge 13 novembre 1924, n. 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-13;1990), e successive aggiunte e modificazioni, abbiano anzianita' di servizio permanente anteriore al 15 maggio 1918; e gli ufficiali del ruolo ingegneri del Corpo del genio aeronautico che, all'atto della entrata in vigore della presente legge, rivestano il grado di capitano o, se tenenti, abbiano anzianita' di grado anteriore al 1° febbraio 1925.
+Sono esonerati dall'obbligo di frequentare e superare il corso superiore aeronautico ed il corso di costruzioni aeronautiche di cui all'art. 27 gli ufficiali inferiori del ruolo combattente dell'arma aeronautica che, a norma del [Regio decreto-legge 13 novembre 1924, n. 1990](Reclutamento%20e%20avanzamento%20degli%20ufficiali%20del%20corpo%20di%20Stato%20Maggiore%20generale%20della%20Regia%20aeronautica%20durante%20il%20periodo%20di%20sua%20costituzione.%20024U1990.md), e successive aggiunte e modificazioni, abbiano anzianita' di servizio permanente anteriore al 15 maggio 1918; e gli ufficiali del ruolo ingegneri del Corpo del genio aeronautico che, all'atto della entrata in vigore della presente legge, rivestano il grado di capitano o, se tenenti, abbiano anzianita' di grado anteriore al 1° febbraio 1925.
 
 ### Art. 95.
 
@@ -801,13 +801,13 @@ Fino a tutto l'anno 1930 i posti previsti dagli organici saranno coperti gradual
 
 Gli ufficiali inferiori dell'arma aeronautica muniti del solo brevetto di osservatore dall'aeroplano non possono, finche' perduri tale condizione, conseguire avanzamento oltre il grado di capitano, e sono esclusi dall'avanzamento a scelta al grado predetto. 
  
- Essi, qualora non conseguano altro brevetto aeronautico, potranno chiedere di essere assegnati alla categoria ufficiali di aeroporto, come pure potranno chiedere, se provenienti dai ruoli del servizio permanente del Regio esercito o della Regia marina, di essere restituiti all'arma di provenienza, ancorche' sia trascorso il termine normale previsto dall'[articolo 55 del R. decreto-legge 4 maggio 1925, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-05-04;627#art_55), purche' in tale ultimo caso ne facciano domanda non piu' tardi di sei mesi dall'entrata in vigore della presente legge. Essi occuperanno in detti ruoli il primo posto che si rendera' vacante. 
+ Essi, qualora non conseguano altro brevetto aeronautico, potranno chiedere di essere assegnati alla categoria ufficiali di aeroporto, come pure potranno chiedere, se provenienti dai ruoli del servizio permanente del Regio esercito o della Regia marina, di essere restituiti all'arma di provenienza, ancorche' sia trascorso il termine normale previsto dall'[articolo 55 del R. decreto-legge 4 maggio 1925, n. 627](Ordinamento%20della%20Regia%20aeronautica.%20025U0627.md), purche' in tale ultimo caso ne facciano domanda non piu' tardi di sei mesi dall'entrata in vigore della presente legge. Essi occuperanno in detti ruoli il primo posto che si rendera' vacante. 
  
  
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-07;1278), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-20;3095), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](Modificazioni%20alle%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20aeronautica.%20028U1278.md), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20giugno%201928%20n.%201278%20che%20modifica%20le%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20ae_d84aa7ee3499.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 100.
 
@@ -827,7 +827,7 @@ Gli attuali ufficiali superiori del ruolo Combattente dell'arma aeronautica prov
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-07;1278), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-20;3095), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](Modificazioni%20alle%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20aeronautica.%20028U1278.md), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20giugno%201928%20n.%201278%20che%20modifica%20le%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20ae_d84aa7ee3499.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 102.
 
@@ -839,7 +839,7 @@ Gli ufficiali muniti del salo brevetto da osservatore, che, pur conservando l'at
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-07;1278), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-20;3095), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](Modificazioni%20alle%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20aeronautica.%20028U1278.md), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20giugno%201928%20n.%201278%20che%20modifica%20le%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20ae_d84aa7ee3499.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 103.
 
@@ -853,7 +853,7 @@ Fino a quando i posti degli organici definitivi previsti dalla legge di ordiname
 
 ### Art. 105.
 
-Nulla e' innovato a quanto dispone il [R. decreto-legge 13 novembre 1924, n. 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-13;1990), e successive aggiunte e modificazioni, circa gli effetti dell'anzianita' di servizio permanente nei confronti degli ufficiali che si trovino attualmente nei ruoli della Regia aeronautica e per quelli che potranno esservi successivamente ammessi ed inquadrati sulla base della detta anzianita' di servizio permanente.
+Nulla e' innovato a quanto dispone il [R. decreto-legge 13 novembre 1924, n. 1990](Reclutamento%20e%20avanzamento%20degli%20ufficiali%20del%20corpo%20di%20Stato%20Maggiore%20generale%20della%20Regia%20aeronautica%20durante%20il%20periodo%20di%20sua%20costituzione.%20024U1990.md), e successive aggiunte e modificazioni, circa gli effetti dell'anzianita' di servizio permanente nei confronti degli ufficiali che si trovino attualmente nei ruoli della Regia aeronautica e per quelli che potranno esservi successivamente ammessi ed inquadrati sulla base della detta anzianita' di servizio permanente.
 
 ### Art. 106.
 

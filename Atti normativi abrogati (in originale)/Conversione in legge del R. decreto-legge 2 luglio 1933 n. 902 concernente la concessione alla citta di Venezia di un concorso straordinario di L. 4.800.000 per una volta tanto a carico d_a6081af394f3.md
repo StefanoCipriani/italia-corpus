@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 luglio 1933, n. 902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-07-02;902), concernente la concessione alla citta' di Venezia di un concorso straordinario di L. 4.800.000 per una volta tanto, a carico dello Stato, per l'integrazione del bilancio. 
+ E' convertito in legge il [R. decreto-legge 2 luglio 1933, n. 902](Concessione%20alla%20citta%20di%20Venezia%20di%20un%20contributo%20straordinario%20per%20lintegrazione%20del%20bilancio.%20033U0902.md), concernente la concessione alla citta' di Venezia di un concorso straordinario di L. 4.800.000 per una volta tanto, a carico dello Stato, per l'integrazione del bilancio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

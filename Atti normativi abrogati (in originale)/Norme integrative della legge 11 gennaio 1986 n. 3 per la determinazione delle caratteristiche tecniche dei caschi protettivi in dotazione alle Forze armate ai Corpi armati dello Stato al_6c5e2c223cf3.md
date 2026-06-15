@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 11 gennaio 1986, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-11;3), recante obbligo dell'uso del casco protettivo per gli utenti di motocicli, ciclomotori e motocarrozzette; estensione ai motocicli e ciclomotori dell'obbligo del dispositivo retrovisivo;
+Vista la [legge 11 gennaio 1986, n. 3](Obbligo%20delluso%20del%20casco%20protettivo%20per%20gli%20utenti%20di%20motocicli%20ciclomotori%20e%20motocarrozzette%20estensione%20ai%20motocicli%20e%20ciclomotori%20dellobbligo%20del%20dispositivo%20retrovisivo.md), recante obbligo dell'uso del casco protettivo per gli utenti di motocicli, ciclomotori e motocarrozzette; estensione ai motocicli e ciclomotori dell'obbligo del dispositivo retrovisivo;
 
 Visti i decreti del Ministro dei trasporti in data 18 marzo 1986 e 4 luglio 1986, rispettivamente pubblicati nel supplemento ordinario alla Gazzetta Ufficiale n. 96 del 26 aprile 1986 e nella Gazzetta Ufficiale n. 159 dell'11 luglio 1986;
 
@@ -20,7 +20,7 @@ Considerato che i caschi in dotazione alle Forze armate, ai Corpi armati dello S
 
 Rilevato che imprescindibili esigenze di certezza del diritto rendono indispensabile un immediato chiarimento normativo;
 
-Ritenuta pertanto la straordinaria necessita' ed urgenza di integrare la [legge 11 gennaio 1986, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-11;3), con una indispensabile, specifica disposizione sulla determinazione delle caratteristiche tecniche dei caschi protettivi in dotazione alle Forze armate, ai Corpi armati dello Stato, alla Polizia di Stato ed ai Corpi di polizia municipale;
+Ritenuta pertanto la straordinaria necessita' ed urgenza di integrare la [legge 11 gennaio 1986, n. 3](Obbligo%20delluso%20del%20casco%20protettivo%20per%20gli%20utenti%20di%20motocicli%20ciclomotori%20e%20motocarrozzette%20estensione%20ai%20motocicli%20e%20ciclomotori%20dellobbligo%20del%20dispositivo%20retrovisivo.md), con una indispensabile, specifica disposizione sulla determinazione delle caratteristiche tecniche dei caschi protettivi in dotazione alle Forze armate, ai Corpi armati dello Stato, alla Polizia di Stato ed ai Corpi di polizia municipale;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 luglio 1986;
 
@@ -32,7 +32,7 @@ EMANA il seguente decreto:
 
 1.
 
-All'[articolo 1, primo comma, della legge 11 gennaio 1986, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-11;3#art_1-com1), dopo le parole "stabilite dal Ministero dei trasporti" i due punti sono sostituiti da una virgola e sono aggiunte le seguenti parole "ovvero omologati in base al penultimo comma del successivo articolo 2:".
+All'[articolo 1, primo comma, della legge 11 gennaio 1986, n. 3](Obbligo%20delluso%20del%20casco%20protettivo%20per%20gli%20utenti%20di%20motocicli%20ciclomotori%20e%20motocarrozzette%20estensione%20ai%20motocicli%20e%20ciclomotori%20dellobbligo%20del%20dispositivo%20retrovisivo.md), dopo le parole "stabilite dal Ministero dei trasporti" i due punti sono sostituiti da una virgola e sono aggiunte le seguenti parole "ovvero omologati in base al penultimo comma del successivo articolo 2:".
 
 2.
 

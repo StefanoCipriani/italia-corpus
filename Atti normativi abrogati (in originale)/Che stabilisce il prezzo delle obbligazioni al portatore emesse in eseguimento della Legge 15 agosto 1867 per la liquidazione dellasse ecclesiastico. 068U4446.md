@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Veduta la [Legge del 15 agosto 1867, n. 3848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1867-08-15;3848);
+Veduta la [Legge del 15 agosto 1867, n. 3848](Per%20la%20liquidazione%20dellasse%20ecclesiastico.%20067U3848.md);
 
 Veduti i Decreti Ministeriali del 9 ottobre 1867, n. 3919, e del 5 novembre detto anno, n. 4005; Determina quanto segue:
 

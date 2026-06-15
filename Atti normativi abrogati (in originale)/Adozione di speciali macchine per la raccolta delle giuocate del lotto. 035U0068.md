@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il testo unico delle leggi sul lotto, approvato con [R. decreto 29 luglio 1925, n. 1450](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-29;1450);
 
-Visto il regolamento sul servizio del lotto e sul personale dei banchi, approvato con [R. decreto 9 agosto 1926, n. 1601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-09;1601);
+Visto il regolamento sul servizio del lotto e sul personale dei banchi, approvato con [R. decreto 9 agosto 1926, n. 1601](Approvazione%20del%20regolamento%20sul%20servizio%20del%20lotto%20e%20sul%20personale%20dei%20banchi.%20026U1601.md);
 
 Ritenuta la necessita' e l'urgenza assoluta di adottare un sistema per la raccolta delle giuocate del lotto mediante speciali tipi di raccoglitori-distributori meccanici ed automatici, all'uopo studiati e preparati;
 

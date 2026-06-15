@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto-legge n. 1777 del 15 luglio 1923](Concessione%20di%20premi%20ai%20titolari%20dei%20libretti%20nominativi%20delle%20Casse%20postali%20di%20risparmio%20ed%20ai%20possessori%20di%20quelli%20al%20portatore%20nel%20Regno.%20023U1777.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473); 
+ Visto il [R. decreto-legge n. 1777 del 15 luglio 1923](Concessione%20di%20premi%20ai%20titolari%20dei%20libretti%20nominativi%20delle%20Casse%20postali%20di%20risparmio%20ed%20ai%20possessori%20di%20quelli%20al%20portatore%20nel%20Regno.%20023U1777.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md); 
  
  Visto il decreto Reale n. 1033 del 15 maggio 1924; 
  

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Ai concorsi per titoli a cattedre di scuole medie previsti dall'[art. 17 del decreto legislativo del Capo provvisorio dello Stato 21 aprile 1947, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-21;373#art_17), possono partecipare, oltre a coloro che sono in possesso di titolo avente pieno valore abilitante per il concorso al quale chiedono di essere ammessi, ai sensi delle tabelle approvate con [regio decreto 11 febbraio 1941, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-02-11;229), anche coloro che sono provvisti soltanto di uno dei titoli di studio validi per l'ammissione ai relativi esami di abilitazione, purche' conseguiti entro il 31 dicembre 1924, o, nel caso previsto dall'art. 326 del testo unico approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), entro il 31 dicembre 1925.
+Ai concorsi per titoli a cattedre di scuole medie previsti dall'[art. 17 del decreto legislativo del Capo provvisorio dello Stato 21 aprile 1947, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-21;373#art_17), possono partecipare, oltre a coloro che sono in possesso di titolo avente pieno valore abilitante per il concorso al quale chiedono di essere ammessi, ai sensi delle tabelle approvate con [regio decreto 11 febbraio 1941, n. 229](Approvazione%20delle%20nuove%20tabelle%20delle%20classi%20di%20concorsi%20-%20esami%20di%20Stato%20per%20linsegnamento%20negli%20Istituti%20dellOrdine%20medio%20e%20dellOrdine%20superiore%20classico%20e%20tecnico%20dei%20titoli%20dammissio_2846c2e85547.md), anche coloro che sono provvisti soltanto di uno dei titoli di studio validi per l'ammissione ai relativi esami di abilitazione, purche' conseguiti entro il 31 dicembre 1924, o, nel caso previsto dall'art. 326 del testo unico approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), entro il 31 dicembre 1925.
 
 ## Art. 2.
 

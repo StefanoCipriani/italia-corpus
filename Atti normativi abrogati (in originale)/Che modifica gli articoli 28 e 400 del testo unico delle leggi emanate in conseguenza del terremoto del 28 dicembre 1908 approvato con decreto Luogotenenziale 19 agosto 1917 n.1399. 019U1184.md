@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico delle leggi emanate in conseguenza del terremoto del 28 dicembre 1908, approvato con Nostro decreto 19 agosto 1917, n. 1399;
 
-Visto il [R. decreto 11 febbraio 1915, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-11;109) e la [legge 1° aprile 1915, n. 476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;476);
+Visto il [R. decreto 11 febbraio 1915, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-11;109) e la [legge 1° aprile 1915, n. 476](Che%20converte%20in%20legge%2017%20decreti%20Reali%20recanti%20provvedimenti%20a%20favore%20dei%20paesi%20danneggiati%20dal%20terremoto%20del%2013%20gennaio%201915%20e%20porta%20modificazioni%20ai%20decreti%20stessi%20con%20laggiunta%20di%20altr_f19f0a26f386.md);
 
 Visto il Nostro decreto 10 febbraio 1018, n. 107;
 

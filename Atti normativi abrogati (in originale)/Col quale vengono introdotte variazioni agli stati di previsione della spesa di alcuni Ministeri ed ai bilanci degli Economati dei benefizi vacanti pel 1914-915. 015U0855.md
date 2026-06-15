@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 16 dicembre 1914, n. 1354, 28 marzo 1915, n. 352, e 1° aprile 1915, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;386);
+Viste le [leggi 16 dicembre 1914, n. 1354, 28 marzo 1915, n. 352, e 1° aprile 1915, n. 386](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lesercizio%201914-915.%20015U0386.md);
 
 Riconosciuta la necessita' di aumentare le assegnazioni di taluni capitoli degli stati di previsione della spesa dei Ministeri del tesoro, di grazia e giustizia e dei culti, dell'istruzione pubblica, dei lavori pubblici, delle poste e dei telegrafi, della guerra e di agricoltura, industria e commercio per l'esercizio finanziario 1914-915 e di istituirne altri per provvedere ad impegni il cui pagamento non puo' essere ulteriormente ritardato e per soddisfare altri bisogni di carattere improrogabile;
 

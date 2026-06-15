@@ -78,7 +78,7 @@ Al fine di verificare l'osservanza da parte degli appartenenti all'Amministrazio
                         b)
                             esegue indagini patrimoniali sui soggetti di cui al presente comma tenendo anche conto del loro tenore di vita;
                         c)
-                            richiede alle amministrazioni pubbliche, all'Amministrazione postale, agli enti creditizi, alle societa' di intermediazione mobiliare, agli agenti di cambio, alle societa' autorizzate al collocamento a domicilio di valori mobiliari, alle societa' di gestione di fondi comuni di investimento mobiliare, alle societa' fiduciarie, alle imprese ed enti assicurativi ed alla societa' Monte Titoli S.p.a. di cui alla [legge 19 giugno 1986, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-19;289), copia della documentazione inerente i rapporti intrattenuti con i soggetti di cui al presente comma, nonche' ogni altra notizia o informazione utile ai fini dello svolgimento delle indagini di cui alla lettera b). Le notizie e i dati richiesti, qualora non siano trasmessi entro i termini fissati, ovvero vi siano elementi concreti per ritenere che gli stessi siano infedeli o incompleti, possono essere acquisiti direttamente anche con perquisizioni e sequestri autorizzati dal procuratore della Repubblica con le modalita' di cui all'[articolo 52 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_52), e successive modificazioni, ed eseguiti con modalita' tali da assicurare la riservatezza dei terzi;
+                            richiede alle amministrazioni pubbliche, all'Amministrazione postale, agli enti creditizi, alle societa' di intermediazione mobiliare, agli agenti di cambio, alle societa' autorizzate al collocamento a domicilio di valori mobiliari, alle societa' di gestione di fondi comuni di investimento mobiliare, alle societa' fiduciarie, alle imprese ed enti assicurativi ed alla societa' Monte Titoli S.p.a. di cui alla [legge 19 giugno 1986, n. 289](Disposizioni%20relative%20allamministrazione%20accentrata%20di%20valori%20mobiliari%20attraverso%20la%20Monte%20Titoli%20S.p.a.md), copia della documentazione inerente i rapporti intrattenuti con i soggetti di cui al presente comma, nonche' ogni altra notizia o informazione utile ai fini dello svolgimento delle indagini di cui alla lettera b). Le notizie e i dati richiesti, qualora non siano trasmessi entro i termini fissati, ovvero vi siano elementi concreti per ritenere che gli stessi siano infedeli o incompleti, possono essere acquisiti direttamente anche con perquisizioni e sequestri autorizzati dal procuratore della Repubblica con le modalita' di cui all'[articolo 52 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, ed eseguiti con modalita' tali da assicurare la riservatezza dei terzi;
                         d)
                             richiede informazioni o documenti all'autorita' giudiziaria salvo il rispetto delle norme che disciplinano il segreto delle indagini;
                         e)
@@ -102,7 +102,7 @@ Le informazioni, i documenti e gli elementi acquisiti dallo STAF nel corso delle
 
 4.
 
-Indagini patrimoniali possono essere estese, previa autorizzazione del procuratore della Repubblica del luogo di residenza o di sede, ai prossimi congiunti dei dipendenti dell'Amministrazione finanziaria, nonche' a terzi, persone fisiche o giuridiche, imprese ed enti rispetto ai quali vi siano specifici elementi per ritenere che agiscano come prestanome dei suddetti dipendenti. Per prossimi congiunti si intendono quelli indicati nell'articolo 307, ultimo comma, del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+Indagini patrimoniali possono essere estese, previa autorizzazione del procuratore della Repubblica del luogo di residenza o di sede, ai prossimi congiunti dei dipendenti dell'Amministrazione finanziaria, nonche' a terzi, persone fisiche o giuridiche, imprese ed enti rispetto ai quali vi siano specifici elementi per ritenere che agiscano come prestanome dei suddetti dipendenti. Per prossimi congiunti si intendono quelli indicati nell'articolo 307, ultimo comma, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 5.
 
@@ -152,7 +152,7 @@ Con decreto del Ministro delle finanze, da emanare ai sensi dell'[articolo 17, c
 
 1.
 
-Alla [legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146), sono apportate le seguenti modificazioni:
+Alla [legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md), sono apportate le seguenti modificazioni:
                         a)
                             nell'articolo 9, secondo comma, la lettera a) e' sostituita dalla seguente: " a) controlla, sulla base di direttive emanate dal Ministro delle finanze, sentite le competenti commissioni parlamentari, l'attivita' di verifica e accertamento di uffici espressamente individuati in base ad elementi oggettivi nella direttiva stessa, avvalendosi anche dei direttori regionali territorialmente competenti o dei comandanti di zona della Guardia di finanza; controlla, altresi', sulla base di direttive emanate dal Ministro delle finanze, le verifiche eseguite dalla Guardia di finanza;". Nello stesso comma, nella lettera b), le parole: "del controllo" sono sostituite dalle seguenti: "dei controlli", e dopo la lettera d) e' aggiunta la seguente lettera: "d-bis) esprime pareri su specifiche questioni sottoposte al suo esame dal Ministro delle finanze.";
                         b)
@@ -169,7 +169,7 @@ Il limite quinquennale di cui al comma 1, lettera b), non si applica agli ispett
 
 4.
 
-La suddivisione nelle categorie di provenienza di cui all'[articolo 10 della legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146#art_10), e' determinata con decreto del Ministro delle finanze.
+La suddivisione nelle categorie di provenienza di cui all'[articolo 10 della legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md), e' determinata con decreto del Ministro delle finanze.
 
 ## Art. 7. — Entrata in vigore
 

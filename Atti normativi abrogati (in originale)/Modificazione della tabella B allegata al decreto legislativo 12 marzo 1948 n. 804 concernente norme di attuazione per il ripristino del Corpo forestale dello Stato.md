@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Ferma restando l'assegnazione complessiva di ventiquattro posti ai gradi 8°, 9° e 10°, nella tabella B, allegata al [decreto legislativo 12 marzo 1948, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-12;804), il numero dei posti assegnati in detta tabella, per i singoli gradi predetti, e' modificato come appresso:
+Ferma restando l'assegnazione complessiva di ventiquattro posti ai gradi 8°, 9° e 10°, nella tabella B, allegata al [decreto legislativo 12 marzo 1948, n. 804](../Decreti%20Legislativi/Norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md), il numero dei posti assegnati in detta tabella, per i singoli gradi predetti, e' modificato come appresso:
 
  Grado 8° - Ispettore principale . . . . . . n. 15
  " 9° - Ispettore . . . . . . . . . . . " 7

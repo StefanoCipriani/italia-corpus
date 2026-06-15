@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), con la quale sono stati conferiti al Governo del Re poteri straordinari durante la guerra; 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), con la quale sono stati conferiti al Governo del Re poteri straordinari durante la guerra; 
  
- Visto l'[art. 7-bis della legge 17 luglio 1910, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;538#art_7bis) che istituisce il Consiglio dell'emigrazione ed il regolamento per la costituzione ed il funzionamento di esso, approvato col [R. decreto 9 agosto 1911, n. 1086](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-08-09;1086); 
+ Visto l'[art. 7-bis della legge 17 luglio 1910, n. 538](Provvedimento%20riguardante%20lemigrazione.%20010U0538.md) che istituisce il Consiglio dell'emigrazione ed il regolamento per la costituzione ed il funzionamento di esso, approvato col [R. decreto 9 agosto 1911, n. 1086](Che%20approva%20lannesso%20regolamento%20per%20la%20costituzione%20e%20il%20funzionamento%20del%20Consiglio%20dellemigrazione.%20011U1086.md); 
  
  Ritenuta la difficolta' di procedere, nelle attuali condizioni, alla designazione dei cittadini eliggibili a consiglieri e considerata la necessita' di assicurare tuttavia il regolare funzionamento del Consiglio stesso; 
  

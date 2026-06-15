@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671) ; 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md) ; 
  
- Viste le [leggi 28 marzo 1912, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-03-28;232); 29 dicembre stesso anno, n. 1357; e 16 aprile 1914, n. 275, concernenti spese per la spedizione militare nella Tripolitania e nella Cirenaica; 
+ Viste le [leggi 28 marzo 1912, n. 232](Con%20la%20quale%20vengono%20autorizzate%20le%20spese%20dipendenti%20dalla%20spedizione%20in%20Tripolitania%20ed%20in%20Cirenaica.%20012U0232.md); 29 dicembre stesso anno, n. 1357; e 16 aprile 1914, n. 275, concernenti spese per la spedizione militare nella Tripolitania e nella Cirenaica; 
  
- Ritenuto che le indicate leggi riguardano, fra altro, spese per l'importo di L. 769,000,000 anticipate in conto corrente dal tesoro ai sensi dell'[art. 16 della legge 17 luglio 1910, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;511#art_16), e per L. 147,227,559.53, prelevate dalla Cassa; 
+ Ritenuto che le indicate leggi riguardano, fra altro, spese per l'importo di L. 769,000,000 anticipate in conto corrente dal tesoro ai sensi dell'[art. 16 della legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md), e per L. 147,227,559.53, prelevate dalla Cassa; 
  
  Considerato che a tutto l'esercizio 1915-916, per effetto delle disposizioni contenute nelle ripetute leggi, vennero stanziate in bilancio per restituirle al tesoro L. 280,876,138.16, si che a cominciare dal 1916-917 restano da inscrivere L. 635,351,421.37; 
  

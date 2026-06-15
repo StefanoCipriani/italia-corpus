@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di assicurare la continuita' delle agevolazioni fiscali previste dall'[articolo 2 della legge 13 luglio 1984, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-13;313#art_2), al fine di consentire alle imprese esercenti sale cinematografiche di fronteggiare la permanente situazione di crisi nel settore;
+Ritenuta la straordinaria necessita' ed urgenza di assicurare la continuita' delle agevolazioni fiscali previste dall'[articolo 2 della legge 13 luglio 1984, n. 313](Interventi%20straordinari%20per%20ledilizia%20teatrale%20e%20cinematografica%20e%20per%20lindustria%20cinematografica.md), al fine di consentire alle imprese esercenti sale cinematografiche di fronteggiare la permanente situazione di crisi nel settore;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 9 luglio 1986;
 
@@ -24,11 +24,11 @@ EMANA il seguente decreto:
 
 1.
 
-Le disposizioni di cui all'[articolo 2 della legge 13 luglio 1984, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-13;313#art_2), sono prorogate al 31 dicembre 1987.
+Le disposizioni di cui all'[articolo 2 della legge 13 luglio 1984, n. 313](Interventi%20straordinari%20per%20ledilizia%20teatrale%20e%20cinematografica%20e%20per%20lindustria%20cinematografica.md), sono prorogate al 31 dicembre 1987.
 
 2.
 
-Alle minori entrate derivanti dall'attuazione del comma 1, valutate in lire 3.500 milioni nell'anno 1986 ed in lire 7.000 milioni nell'anno 1987, si provvede mediante l'utilizzo delle somme del Fondo di cui alla [legge 14 agosto 1971, n. 819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-08-14;819), come integrato dall'[articolo 13, secondo comma, lettera c), della legge 30 aprile 1985, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-04-30;163#art_13-com2-letc), relativamente alla quota riservata alla concessione di contributi in conto capitale ad esercenti o proprietari di sale cinematografiche.
+Alle minori entrate derivanti dall'attuazione del comma 1, valutate in lire 3.500 milioni nell'anno 1986 ed in lire 7.000 milioni nell'anno 1987, si provvede mediante l'utilizzo delle somme del Fondo di cui alla [legge 14 agosto 1971, n. 819](Interventi%20a%20favore%20del%20credito%20cinematografico.md), come integrato dall'[articolo 13, secondo comma, lettera c), della legge 30 aprile 1985, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-04-30;163#art_13-com2-letc), relativamente alla quota riservata alla concessione di contributi in conto capitale ad esercenti o proprietari di sale cinematografiche.
 
 3.
 

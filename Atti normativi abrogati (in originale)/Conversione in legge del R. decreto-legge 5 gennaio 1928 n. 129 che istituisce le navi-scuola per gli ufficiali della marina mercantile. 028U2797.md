@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 gennaio 1928, n. 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-05;129), che istituisce le navi-scuola per gli ufficiali della marina mercantile. 
+ E' convertito in legge il [R. decreto-legge 5 gennaio 1928, n. 129](Istituzione%20delle%20navi%20scuola%20per%20gli%20ufficiali%20della%20marina%20mercantile.%20028U0129.md), che istituisce le navi-scuola per gli ufficiali della marina mercantile. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

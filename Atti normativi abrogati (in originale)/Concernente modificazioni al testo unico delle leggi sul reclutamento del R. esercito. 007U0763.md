@@ -107,7 +107,7 @@ I militari, i quali siano in attesa di giudizio, perche' imputati di diserzione 
 
 ## Art. 12.
 
-Sono abolite tutte le disposizioni del testo unico delle leggi sul reclutamento dell'esercito, approvato con [R. decreto 6 agosto 1888, n. 5655](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-08-06;5655) (serie 3ª), le quali siano contrarie alla presente legge. 
+Sono abolite tutte le disposizioni del testo unico delle leggi sul reclutamento dell'esercito, approvato con [R. decreto 6 agosto 1888, n. 5655](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md) (serie 3ª), le quali siano contrarie alla presente legge. 
  
  Con R. decreto sara' stabilita la data dell'entrata in vigore della presente legge.
 

@@ -52,7 +52,7 @@ Le limitazioni del diritto di proprieta' stabilite dagli articoli 2, 4 e 5, sono
 
 ### Art. 7.
 
-I rifugi alpini, gia' appartenenti a cittadini, a societa' e ad enti ex nemici, devoluti al Demanio dello Stato in virtu' dell'[art. 1 del R. decreto 10 aprile 1921, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-04-10;470#art_1), restano assegnati, a termini dell'[art. 7 del R. decreto-legge 22 dicembre 1921, n. 1962, al Ministero della guerra](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-12-22;1962#art_7), che puo' concederli in esercizio a cittadini italiani ed a societa' ed enti nazionali. 
+I rifugi alpini, gia' appartenenti a cittadini, a societa' e ad enti ex nemici, devoluti al Demanio dello Stato in virtu' dell'[art. 1 del R. decreto 10 aprile 1921, n. 470](Contenente%20norme%20per%20la%20devoluzione%20al%20Demanio%20dello%20Stato%20dei%20beni%20appartenenti%20allentrata%20in%20vigore%20dei%20Trattati%20di%20pace%20a%20sudditi%20della%20Germania%20o%20dellantico%20Impero%20dAustria.%20021U0470.md), restano assegnati, a termini dell'[art. 7 del R. decreto-legge 22 dicembre 1921, n. 1962, al Ministero della guerra](Contenente%20disposizioni%20per%20la%20liquidazione%20dei%20beni%20diritti%20e%20interessi%20gia%20appartenenti%20al%20momento%20della%20entrata%20in%20vigore%20dei%20trattati%20di%20pace%20a%20sudditi%20della%20Germania%20e%20dell%20antico%20Im_626d608b2d93.md), che puo' concederli in esercizio a cittadini italiani ed a societa' ed enti nazionali. 
  
  Le concessioni di esercizio, suindicate, sono accordate previa intesa col Ministro per le finanze e con quello per l'agricoltura e le foreste per i rifugi alpini ubicati in fondi e boschi appartenenti all'Azienda foreste demaniali.
 
@@ -109,7 +109,7 @@ Le contravvenzioni alle disposizioni della presente legge e a quelle emanate in 
 
 ### Art. 17.
 
-Il [R. decreto-legge 23 maggio 1924, n. 1122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-23;1122) - convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md) - e' abrogato.
+Il [R. decreto-legge 23 maggio 1924, n. 1122](Regime%20giuridico%20delle%20proprieta%20di%20confine%20nelle%20nuove%20Provincie.%20024U1122.md) - convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md) - e' abrogato.
 
 ### Art. 18.
 

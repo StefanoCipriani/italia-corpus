@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto il testo unico delle leggi per la Sardegna approvato con [R. decreto 10 novembre 1907, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-11-10;844), ed i regolamenti approvati con RR. decreti 9 febbraio 1908, n. 146 e 25 agosto 1908, n. 548;
+Veduto il testo unico delle leggi per la Sardegna approvato con [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), ed i regolamenti approvati con RR. decreti 9 febbraio 1908, n. 146 e 25 agosto 1908, n. 548;
 
-Vista la [legge 16 luglio 1914, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;675), portante provvedimenti straordinari a favore della Sardegna;
+Vista la [legge 16 luglio 1914, n. 675](Che%20approva%20maggiori%20e%20nuove%20assegnazioni%20su%20alcuni%20capitoli%20dello%20stato%20di%20previsione%20del%20Ministero%20dellistruzione%20pubblica%20per%20lesercizio%20finanziario%201913-914%20per%20provvedere%20al%20saldo%20di_c25932519657.md), portante provvedimenti straordinari a favore della Sardegna;
 
 Visto il Nostro decreto 25 novembre 1915, per la costituzione dello stabilimento Vittorio Emanuele in Sanluri in podere dimostrativo;
 
@@ -42,7 +42,7 @@ L'Istituto provvede, gradualmente, alla esecuzione di tutte le opere di bonifica
 
 ## Art. 3.
 
-Per l'esecuzione delle opere di che all'articolo precedente, l'Istituto e' ammesso alla concessione di mutui di favore, ai termini della [legge 16 luglio 1914, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;665). 
+Per l'esecuzione delle opere di che all'articolo precedente, l'Istituto e' ammesso alla concessione di mutui di favore, ai termini della [legge 16 luglio 1914, n. 665](Riguardante%20provvedimenti%20a%20favore%20della%20Sardegna.%20014U0665.md). 
  
  Potra' anche ricorrere per anticipazioni e mutui agli Istituti che esercitano il credito fondiario o quello agrario e alle Casse di risparmio, che con questo decreto s'intendono autorizzati a fare tali operazioni a favore dell'Istituto stesso. 
  
@@ -50,7 +50,7 @@ Per l'esecuzione delle opere di che all'articolo precedente, l'Istituto e' ammes
 
 ## Art. 4.
 
-L'Istituto promuovera' la fondazione di una Cassa agraria e di un Consorzio agrario, a beneficio principalmente dei coloni, ai termini del testo unico delle leggi contenenti provvedimenti per la Sardegna approvato con [R. decreto 10 novembre 1907, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-11-10;844). 
+L'Istituto promuovera' la fondazione di una Cassa agraria e di un Consorzio agrario, a beneficio principalmente dei coloni, ai termini del testo unico delle leggi contenenti provvedimenti per la Sardegna approvato con [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md). 
  
  Puo' altresi' promuovere Istituti cooperativi di consumo, di lavoro e di produzione, come latteria, oleificio, cantina sociale.
 
@@ -86,7 +86,7 @@ Il Ministero di agricoltura, mediante organo speciale, esercita la vigilanza e l
 
 ## Art. 9.
 
-Il Governo del Re ha facolta' di emanare un regolamento per disciplinare il funzionamento dell'Istituto e delle aziende annesse, anche in deroga del regolamento generale per la esecuzione del testo unico delle leggi per la Sardegna, approvato con [R. decreto 9 febbraio 1908, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-02-09;146).
+Il Governo del Re ha facolta' di emanare un regolamento per disciplinare il funzionamento dell'Istituto e delle aziende annesse, anche in deroga del regolamento generale per la esecuzione del testo unico delle leggi per la Sardegna, approvato con [R. decreto 9 febbraio 1908, n. 146](Che%20approva%20lannesso%20regolamento%20per%20il%20credito%20agrario%20in%20Sardegna.%20008U0146.md).
 
 ## Art. 10.
 

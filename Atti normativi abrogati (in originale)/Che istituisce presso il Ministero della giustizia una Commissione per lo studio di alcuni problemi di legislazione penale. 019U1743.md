@@ -24,7 +24,7 @@ E' istituita presso il Ministero della giustizia una Commissione con l'incarico 
  
  A questo scopo la Commissione esaminera': 
  
- 1° se e quali variazioni occorrano nelle norme vigenti sui reati e sulla punibilita' dei loro autori; se alcune forme di delinquenza non contemplate nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) o in altre leggi debbano essere considerate; se alcune delle contemplate debbano essere escluse, o definite diversamente, o sottoposte a diversa sanzione in rapporto con le mutate condizioni di vita sociale; 
+ 1° se e quali variazioni occorrano nelle norme vigenti sui reati e sulla punibilita' dei loro autori; se alcune forme di delinquenza non contemplate nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o in altre leggi debbano essere considerate; se alcune delle contemplate debbano essere escluse, o definite diversamente, o sottoposte a diversa sanzione in rapporto con le mutate condizioni di vita sociale; 
  
  2° quali criteri piu' confacenti allo scopo della difesa sociale debbano essere adottati per stabilire la pericolosita' dei delinquenti specialmente nelle forme della delinquenza abituale; 
  

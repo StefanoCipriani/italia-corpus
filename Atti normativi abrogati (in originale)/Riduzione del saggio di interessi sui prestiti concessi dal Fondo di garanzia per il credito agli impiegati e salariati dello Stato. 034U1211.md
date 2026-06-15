@@ -20,9 +20,9 @@ Ritenuta la necessita' urgente ed assoluta di provvedere alla riduzione del sagg
 
 Vista la [legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md);
 
-Visto il [R. decreto-legge 30 maggio 1920, n. 1934](Che%20autorizza%20il%20Ministero%20del%20tesoro%20a%20concedere%20prestiti%20agli%20impiegati%20e%20salariati%20dello%20Stato%20e%20agli%20ufficiali%20del%20R.%20esercito%20della%20Regia%20Marina%20e%20dei%20Corpi%20armati%20a%20servigio%20dello%20S_a8870048962f.md), convertito in legge con la [legge 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985);
+Visto il [R. decreto-legge 30 maggio 1920, n. 1934](Che%20autorizza%20il%20Ministero%20del%20tesoro%20a%20concedere%20prestiti%20agli%20impiegati%20e%20salariati%20dello%20Stato%20e%20agli%20ufficiali%20del%20R.%20esercito%20della%20Regia%20Marina%20e%20dei%20Corpi%20armati%20a%20servigio%20dello%20S_a8870048962f.md), convertito in legge con la [legge 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md);
 
-Visto il [R. decreto-legge 28 dicembre 1924, n. 2133](Modificazione%20al%20R.%20decreto%208%20febbraio%201923%20n.%20311%20riguardante%20il%20credito%20agli%20impiegati%20e%20salariati%20dello%20Stato.%20024U2133.md), convertito in legge con la [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge 28 dicembre 1924, n. 2133](Modificazione%20al%20R.%20decreto%208%20febbraio%201923%20n.%20311%20riguardante%20il%20credito%20agli%20impiegati%20e%20salariati%20dello%20Stato.%20024U2133.md), convertito in legge con la [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto il [R. decreto-legge 1° luglio 1926, n. 1199](Concessione%20della%20somma%20di%20L.%2030000000%20a%20favore%20del%20fondo%20di%20garanzia%20per%20la%20cessione%20del%20quinto%20degli%20stipendi.%20026U1199.md), convertito in legge con la legge 16 febbraio 1028, n. 445;
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Il saggio d'interesse sui mutui concessi dal Fondo di garanzia per il credito agli impiegati e salariati dello Stato ai sensi dell'[art. 1 del decreto-legge 28 dicembre 1924, n. 2133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-12-28;2133#art_1), convertito in legge con la [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), viene ridotto, a decorrere dal 1° maggio 1934, dal 5 al 4 per cento. 
+Il saggio d'interesse sui mutui concessi dal Fondo di garanzia per il credito agli impiegati e salariati dello Stato ai sensi dell'[art. 1 del decreto-legge 28 dicembre 1924, n. 2133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-12-28;2133#art_1), convertito in legge con la [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), viene ridotto, a decorrere dal 1° maggio 1934, dal 5 al 4 per cento. 
  
  La stessa riduzione viene applicata, mediante corrispondente diminuzione delle rate ancora a pagarsi, sui mutui concessi anche prima della suddetta data, limitatamente pero' ai soli interessi devoti sulle rate con scadenza posteriore alla data stessa.
 

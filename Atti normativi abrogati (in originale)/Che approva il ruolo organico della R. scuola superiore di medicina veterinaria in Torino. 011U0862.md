@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il numero dei professori ordinari assegnato alla R. scuola superiore di medicina veterinaria di Torino dalla tabella B, annessa al testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795), e' portato da 3 a 4.
+Il numero dei professori ordinari assegnato alla R. scuola superiore di medicina veterinaria di Torino dalla tabella B, annessa al testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e' portato da 3 a 4.
 
 ## Art. 2.
 

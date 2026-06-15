@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro; Abbiamo decretato
 
 ## Articolo unico.
 
-Agli effetti dell'[art. 1 della legge 13 luglio 1910, numero 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;444#art_1), la somma cedibile sulle mercedi degli operai dipendenti dallo Stato, anziche' alla media di cui all'art. 2 della legge stessa, sara', dal 1° marzo 1917, ragguagliata al prodotto della mercede giornaliera dell'operaio, per il numero delle giornate lavorative di un anno, aumentato di una percentuale rappresentante il guadagno medio dell'operaio per lavoro straordinario, a cottimo od a premio, e diminuito d'altra percentuale per assenze dal lavoro. 
+Agli effetti dell'[art. 1 della legge 13 luglio 1910, numero 444](Estensione%20agli%20operai%20dipendenti%20dallo%20Stato%20delle%20disposizioni%20relative%20alla%20cedibilita%20degli%20stipendi%20degli%20impiegati%20dello%20Stato.%20010U0444.md), la somma cedibile sulle mercedi degli operai dipendenti dallo Stato, anziche' alla media di cui all'art. 2 della legge stessa, sara', dal 1° marzo 1917, ragguagliata al prodotto della mercede giornaliera dell'operaio, per il numero delle giornate lavorative di un anno, aumentato di una percentuale rappresentante il guadagno medio dell'operaio per lavoro straordinario, a cottimo od a premio, e diminuito d'altra percentuale per assenze dal lavoro. 
  
  Le dette percentuali saranno, per ciascuna categoria di operai, fissate, dalle singole Amministrazioni dalle quali gli operai dipendono, con decreto Ministeriale da registrarsi alla Corte dei conti. 
  

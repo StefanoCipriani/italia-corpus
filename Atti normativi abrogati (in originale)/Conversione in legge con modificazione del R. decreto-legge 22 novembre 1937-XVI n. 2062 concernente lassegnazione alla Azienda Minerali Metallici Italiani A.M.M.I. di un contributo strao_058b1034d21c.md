@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Dopo il primo comma dell'art. 2 e' aggiunto il seguente: 
  
- «Sono abrogati il 3° ed il 4° capoverso dell'[art. 3 del R. decreto-legge 6 gennaio 1936, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-01-06;44#art_3), convertito nella [legge 10 aprile 1936, n. 1024](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%206%20gennaio%201936-XIV%20n.%2044%20per%20la%20costituzione%20dellAzienda%20Minerali%20Metallici%20Italiani%20A.M.M.I..%20036U1024.md)». 
+ «Sono abrogati il 3° ed il 4° capoverso dell'[art. 3 del R. decreto-legge 6 gennaio 1936, n. 44](Costituzione%20dellAzienda%20Minerali%20Metallici%20Italiani%20A.M.M.I..%20036U0044.md), convertito nella [legge 10 aprile 1936, n. 1024](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%206%20gennaio%201936-XIV%20n.%2044%20per%20la%20costituzione%20dellAzienda%20Minerali%20Metallici%20Italiani%20A.M.M.I..%20036U1024.md)». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

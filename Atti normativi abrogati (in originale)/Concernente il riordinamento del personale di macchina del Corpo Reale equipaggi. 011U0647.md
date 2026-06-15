@@ -36,7 +36,7 @@ Agli effetti dell'avanzamento al grado superiore, la permanenza minima e il peri
 
 Gli allievi meccanici sono tratti dai militari del Corpo Reale equipaggi e dai giovani volontari che posseggano le condizioni richieste nei relativi speciali arruolamenti. 
  
- I giovani volontari contraggono, all'atto dell'arruolamento, la ferma di sei anni prevista dall'art. 85 del testo unico delle leggi sulla leva di mare, approvato con [R. decreto 16 dicembre 1888, n. 5860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-12-16;5860). I militari del Corpo Reale equipaggi, all'atto del loro passaggio negli allievi meccanici, commutano la propria ferma in quella sessennale.
+ I giovani volontari contraggono, all'atto dell'arruolamento, la ferma di sei anni prevista dall'art. 85 del testo unico delle leggi sulla leva di mare, approvato con [R. decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md). I militari del Corpo Reale equipaggi, all'atto del loro passaggio negli allievi meccanici, commutano la propria ferma in quella sessennale.
 
 ## Art. 6.
 

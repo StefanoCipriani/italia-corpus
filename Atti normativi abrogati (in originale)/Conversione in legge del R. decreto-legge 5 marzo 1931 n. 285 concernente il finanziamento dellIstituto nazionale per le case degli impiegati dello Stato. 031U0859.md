@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 marzo 1931, numero 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-03-05;285), concernente finanziamento a favore dell'Istituto nazionale per le case degli impiegati dello Stato. 
+ E' convertito in legge il [R. decreto-legge 5 marzo 1931, numero 285](Finanziamento%20a%20favore%20dellIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20031U0285.md), concernente finanziamento a favore dell'Istituto nazionale per le case degli impiegati dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

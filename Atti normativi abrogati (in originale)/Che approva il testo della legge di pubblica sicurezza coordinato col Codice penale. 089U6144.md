@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'art. 142 della legge 23 dicembre 1888 N.° 5888 sulla pubblica sicurezza col quale si da facolta' al Nostro Governo di coordinare la legge medesima al nuovo [Codice Penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398);
+Visto l'art. 142 della legge 23 dicembre 1888 N.° 5888 sulla pubblica sicurezza col quale si da facolta' al Nostro Governo di coordinare la legge medesima al nuovo [Codice Penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
-Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) approvato con Nostro Decreto in data di oggi;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) approvato con Nostro Decreto in data di oggi;
 
 Sentito il Consiglio dei Ministri;
 
@@ -43,7 +43,7 @@ Nota redazionale
 
 ### Art. 2.
 
-Qualora, in occasione di riunioni o di assembramenti in luogo pubblico o aperto al pubblico, avvengano manifestazioni e grida sediziose che costituiscano delitti contro i Poteri dello Stato o contro i Capi dei Governi esteri ed i loro rappresentanti, ovvero avvengano altri delitti preveduti dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), le riunioni o gli assembramenti potranno essere sciolti e i colpevoli saranno denunziati all'autorita' giudiziaria. 
+Qualora, in occasione di riunioni o di assembramenti in luogo pubblico o aperto al pubblico, avvengano manifestazioni e grida sediziose che costituiscano delitti contro i Poteri dello Stato o contro i Capi dei Governi esteri ed i loro rappresentanti, ovvero avvengano altri delitti preveduti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le riunioni o gli assembramenti potranno essere sciolti e i colpevoli saranno denunziati all'autorita' giudiziaria. 
  
 -------------- 
 Nota redazionale 
@@ -52,7 +52,7 @@ Nota redazionale
 
 ### Art. 3.
 
-Le grida e manifestazioni sediziose emesse nelle riunioni o negli assembramenti di che all'articolo precedente, ove non costituiscano delitti contemplati dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), sono punite coll'arresto estensibile fino a tre mesi. 
+Le grida e manifestazioni sediziose emesse nelle riunioni o negli assembramenti di che all'articolo precedente, ove non costituiscano delitti contemplati dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono punite coll'arresto estensibile fino a tre mesi. 
  
 -------------- 
 Nota redazionale 
@@ -83,7 +83,7 @@ Ove rimangano senza effetto anche le tre intimazioni, la riunione o l'assembrame
  
  La forza potra' essere usata eziandio se, per rivolta od opposizione, non si potesse fare alcuna intimazione. 
  
- Le persone arrestate saranno deferite all'autorita' giudiziaria e punite a termini dell'[art. 434 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_434). 
+ Le persone arrestate saranno deferite all'autorita' giudiziaria e punite a termini dell'[art. 434 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
 -------------- 
 Nota redazionale 
@@ -111,7 +111,7 @@ L'autorita' locale di pubblica sicurezza puo' vietare, per ragioni d'ordine e di
  
  Alle processioni sono nel resto applicabili le disposizioni del capo precedente. 
  
- Il contravventore al divieto e' punito a termini del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ Il contravventore al divieto e' punito a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
 -------------- 
 Nota redazionale 
@@ -133,7 +133,7 @@ CAPO III.
 
 ### Art. 10.
 
-Oltre i casi previsti dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), sono proibite le raccolte di armi da guerra o di parte di esse, di munizioni, uniformi militari o di altri oggetti destinati all'armamento o all'equipaggiamento di truppa. 
+Oltre i casi previsti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono proibite le raccolte di armi da guerra o di parte di esse, di munizioni, uniformi militari o di altri oggetti destinati all'armamento o all'equipaggiamento di truppa. 
  
  Il contravventore e' punito, ove il fatto non costituisca reato piu' grave, coll'arresto fino ad un anno e con l'ammenda da lire cinquanta a mille. 
  
@@ -243,7 +243,7 @@ Nota redazionale
 
 ### Art. 20.
 
-Il contravventore alle disposizioni degli art. 12, 13, 15 e 16 e' punito a termini degli [art. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_460), [461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_461), [462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_462), [463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_463), [464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_464), [465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_465) e [468 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_468). 
+Il contravventore alle disposizioni degli art. 12, 13, 15 e 16 e' punito a termini degli [art. 460](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [461](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [462](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [463](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [464](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [465](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [468 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Il contravventore alle disposizioni dell'art. 14 e' punito coll'ammenda sino a cento lire. 
  
@@ -275,7 +275,7 @@ Nota redazionale
 
 L'impianto di polverifici, di fabbriche di fuochi artificiali e di altri opifici, nei quali si lavorano polveri od altre materie esplosive, e' soggetto alla licenza del prefetto; che non potra' accordarla senza le necessarie garanzie per la vita delle persone e per le proprieta'. 
  
- L'impianto degli opifici e la lavorazione delle materie di cui nel presente articolo, senza licenza sono puniti a termini dell'[art. 462 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_462). 
+ L'impianto degli opifici e la lavorazione delle materie di cui nel presente articolo, senza licenza sono puniti a termini dell'[art. 462 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
 -------------- 
 Nota redazionale 
@@ -295,7 +295,7 @@ Nota redazionale
 
 Senza la licenza dell'autorita' locale di pubblica sicurezza e la osservanza delle prescrizioni a cui verra' vincolata, non possono spararsi armi da fuoco, mortaretti, ne' lanciarsi razzi, accendersi fuochi di artificio, innalzarsi areostati con fiamme, o in generale farsi esplosioni o accensioni pericolose od incomode negli abitati e nelle loro vicinanze, ne' contro o lungo le vie pubbliche. 
  
- Il contravventore e' punito a termini del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ Il contravventore e' punito a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
 -------------- 
 Nota redazionale 
@@ -310,7 +310,7 @@ Non si puo' dar fuoco nei campi e nei boschi alle stoppie fuori dei tempi e dei 
  
  In difetto di regolamenti, non si potra' dare fuoco nei campi e nei boschi alle stoppie prima del 15 agosto, ne' ad una distanza minore di cento metri dalle case, dagli edifizi, dai boschi, dalle piantagioni, dalle siepi, dai mucchi di biade, di paglia, di fieno, di foraggi e da qualsiasi altro deposito di materia combustibile. 
  
- Il contravventore e' punito a termini dell'[art. 483 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_483). 
+ Il contravventore e' punito a termini dell'[art. 483 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
 -------------- 
 Nota redazionale 
@@ -429,7 +429,7 @@ Nota redazionale
 
 L'esercizio di professioni o mestieri rumorosi od incomodi deve sospendersi nelle ore determinate dai regolamenti locali o dalle ordinanze municipali. 
  
- Il contravventore e' punito a termini dell'[art. 457 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_457). 
+ Il contravventore e' punito a termini dell'[art. 457 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
 -------------- 
 Nota redazionale 
@@ -542,7 +542,7 @@ Nota redazionale
 
 ### Art. 47.
 
-Il contravventore alle disposizioni degli articoli precedenti e' punito a termini del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+Il contravventore alle disposizioni degli articoli precedenti e' punito a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
 -------------- 
 Nota redazionale 
@@ -709,7 +709,7 @@ Nota redazionale
 
 ### Art. 62.
 
-Il contravventore alle disposizioni di questo capo e' punito a termini del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+Il contravventore alle disposizioni di questo capo e' punito a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
 -------------- 
 Nota redazionale 
@@ -733,7 +733,7 @@ Nota redazionale
 
 ### Art. 64.
 
-Oltre a quanto e' disposto dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), non possono esporsi alla pubblica vista figure o disegni offensivi della morale, del buon costume, della pubblica decenza e dei privati cittadini. 
+Oltre a quanto e' disposto dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), non possono esporsi alla pubblica vista figure o disegni offensivi della morale, del buon costume, della pubblica decenza e dei privati cittadini. 
  
  Se chi li ha esposti, rifiuta di toglierli, saranno levati dagli ufficiali od agenti di pubblica sicurezza o trasmessi all'autorita' giudiziaria per il procedimento. 
  
@@ -759,7 +759,7 @@ Nota redazionale
 
 ### Art. 66.
 
-Il contravventore alle disposizioni degli art. 63 e 65 e' punito a termini del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+Il contravventore alle disposizioni degli art. 63 e 65 e' punito a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
 -------------- 
 Nota redazionale 
@@ -814,7 +814,7 @@ Nota redazionale
 
 ### Art. 71.
 
-Il contravventore alle disposizioni degli art. 67, 69 e 70 e' punito a termini del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+Il contravventore alle disposizioni degli art. 67, 69 e 70 e' punito a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
 -------------- 
 Nota redazionale 
@@ -890,7 +890,7 @@ Non puo' farsi commercio di cose preziose o di cose usate, senza dichiarazione p
  
  Le disposizioni del precedente alinea non si applicano agli oggetti comperati presso i fondachieri o fabbricanti, ovvero all'asta pubblica, 
  
- il contravventore e' punito a termini del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ il contravventore e' punito a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
 -------------- 
 Nota redazionale 
@@ -931,7 +931,7 @@ TITOLO III.
 
 Nei Comuni ove esiste un ricovero di mendicita', e' proibito di mendicare per le pubbliche vie e in ogni altro luogo aperto al pubblico. 
  
- La contravvenzione e' punita a termini del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ La contravvenzione e' punita a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
 -------------- 
 Nota redazionale 
@@ -940,7 +940,7 @@ Nota redazionale
 
 ### Art. 81.
 
-Qualora non esista nel Comune un ricovero di mendicita', ovvero quello esistente sia insufficiente, si applicheranno le pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) a chiunque non avendo fatto constatare dall'autorita' di sicurezza pubblica locale di essere inabile a qualsiasi lavoro, e' colto a mendicare nei luoghi indicati nel precedente articolo. 
+Qualora non esista nel Comune un ricovero di mendicita', ovvero quello esistente sia insufficiente, si applicheranno le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) a chiunque non avendo fatto constatare dall'autorita' di sicurezza pubblica locale di essere inabile a qualsiasi lavoro, e' colto a mendicare nei luoghi indicati nel precedente articolo. 
  
  Gli individui riconosciuti dall'autorita' locale di pubblica sicurezza inabili a qualsiasi lavoro, privi di mezzi di sussistenza e di congiunti tenuti per legge alla somministrazione degli alimenti, sono, quando non vi si provveda altrimenti, a cura dell'autorita' medesima inviati in un ricovero di mendicita' od in altro istituto equivalente di altro comune. 
  
@@ -1377,7 +1377,7 @@ Nota redazionale
 
 ### Art. 120.
 
-Il contravventore alle prescrizioni della vigilanza speciale dell'autorita' di pubblica sicurezza e' arrestato e punito a termini del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) dal magistrato del luogo dove fu commesso il reato. 
+Il contravventore alle prescrizioni della vigilanza speciale dell'autorita' di pubblica sicurezza e' arrestato e punito a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) dal magistrato del luogo dove fu commesso il reato. 
  
 -------------- 
 Nota redazionale 
@@ -1545,7 +1545,7 @@ Nota redazionale
 
 ### Art. 135.
 
-Alle contravvenzioni della presente legge, per le quali non sia stabilita una pena o non provveda il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), e' applicata l'ammenda sino a lire cinquanta o l'arresto sino a dieci giorni. 
+Alle contravvenzioni della presente legge, per le quali non sia stabilita una pena o non provveda il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' applicata l'ammenda sino a lire cinquanta o l'arresto sino a dieci giorni. 
  
 -------------- 
 Nota redazionale 

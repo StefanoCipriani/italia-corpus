@@ -12,7 +12,7 @@ vigente: true
 
 L'[articolo 2 del R. decreto-legge n. 233 del 4 marzo 1922](Che%20proroga%20i%20termini%20stabiliti%20per%20la%20durata%20del%20Consorzio%20per%20sovvenzioni%20su%20valori%20industriali%20e%20istituisce%20una%20sezione%20speciale%20autonoma%20presso%20il%20Consorzio%20medesimo.%20022U0233.md), e' cosi' modificato: 
  
- «Il Consorzio medesimo, a mezzo di una sezione speciale autonoma, ha facolta' di effettuare operazioni di credito all'infuori delle sovvenzioni cui e' presentemente autorizzato, procurandosi i fondi relativi agli Istituti di emissione, oltre i limiti considerati dai vigenti decreti, ferme restando le condizioni di cui all'[art. 7 del R. decreto 23 maggio 1915, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;700#art_7)».
+ «Il Consorzio medesimo, a mezzo di una sezione speciale autonoma, ha facolta' di effettuare operazioni di credito all'infuori delle sovvenzioni cui e' presentemente autorizzato, procurandosi i fondi relativi agli Istituti di emissione, oltre i limiti considerati dai vigenti decreti, ferme restando le condizioni di cui all'[art. 7 del R. decreto 23 maggio 1915, n. 700](Che%20stabilisce%20norme%20per%20il%20funzionamento%20del%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20du%20cio%20al%20R.%20decreto%2020%20dicembre%201914%20n.%201375.%20015U0700.md)».
 
 ## Art. 2.
 

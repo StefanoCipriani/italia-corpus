@@ -26,7 +26,7 @@ I termini assegnati dall'[art. 1 del decreto Luogotenenziale 19 giugno 1919, n. 
 
 ## Art. 2.
 
-Al [1° comma dell'art. 8 del R. decreto 23 maggio 1915, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;700#art_8-com1) e' sostituito il seguente: 
+Al [1° comma dell'art. 8 del R. decreto 23 maggio 1915, n. 700](Che%20stabilisce%20norme%20per%20il%20funzionamento%20del%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20du%20cio%20al%20R.%20decreto%2020%20dicembre%201914%20n.%201375.%20015U0700.md) e' sostituito il seguente: 
  
  «Nell'interesse degli Enti consorziati sara' formato un fondo di garanzia mediante l'accantonamento: 
  

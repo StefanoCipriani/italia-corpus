@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 luglio 1933, n. 1059](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-07-13;1059), concernente la concentrazione e la liquidazione delle imprese di assicurazione, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 13 luglio 1933, n. 1059](Concentramento%20e%20liquidazione%20delle%20imprese%20di%20assicurazione.%20033U1059.md), concernente la concentrazione e la liquidazione delle imprese di assicurazione, con le seguenti modificazioni: 
  
  Nel 1° comma dell'art. 2, alle parole: «salva l'applicazione, per tutte le predette aziende, della disposizione di cui all'art. 48 del citato Regio decreto-legge» sono sostituite le seguenti: «salva l'applicazione, per tutte le predette aziende, del capoverso dell'art. 48 del citato Regio decreto-legge». 
  

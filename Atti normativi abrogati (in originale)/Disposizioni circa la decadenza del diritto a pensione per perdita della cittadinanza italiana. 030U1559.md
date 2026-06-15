@@ -38,7 +38,7 @@ La perdita della cittadinanza italiana importa la decadenza:
  
  Il beneficiario della polizza perde il diritto alla liquidazione di essa, anche quando le condizioni del presente articolo si verifichino nei riguardi del combattente titolare. 
  
- E' fatto, pero', salvo a favore dell'Opera nazionale per i combattenti, nei limiti del suo credito, il diritto al riscatto delle polizze sulle quali, anteriormente alla entrata in vigore del presente decreto, siano state eseguite anticipazioni ai sensi dell'[art. 4 del R. decreto-legge 7 marzo 1920, n. 283](Concernente%20lanticipata%20liquidazione%20delle%20polizze%20emesse%20a%20favore%20dei%20militari%20e%20graduali%20di%20truppa%20combattenti.%20020U0283.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473).
+ E' fatto, pero', salvo a favore dell'Opera nazionale per i combattenti, nei limiti del suo credito, il diritto al riscatto delle polizze sulle quali, anteriormente alla entrata in vigore del presente decreto, siano state eseguite anticipazioni ai sensi dell'[art. 4 del R. decreto-legge 7 marzo 1920, n. 283](Concernente%20lanticipata%20liquidazione%20delle%20polizze%20emesse%20a%20favore%20dei%20militari%20e%20graduali%20di%20truppa%20combattenti.%20020U0283.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md).
 
 ## Art. 2.
 

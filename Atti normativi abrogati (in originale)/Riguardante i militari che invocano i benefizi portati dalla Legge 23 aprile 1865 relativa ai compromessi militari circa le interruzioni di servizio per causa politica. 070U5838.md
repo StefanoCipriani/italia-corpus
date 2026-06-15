@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Coloro i quali alla promulgazione della [Legge 23 aprile 1865, n. 2247](Contenente%20disposizioni%20relative%20ai%20compromessi%20politici%20militari%20circa%20le%20interruzioni%20di%20servizio%20per%20causa%20politica.%20065U2247.md), facevano parte dell'Esercito o dell'Armata, e si trovavano nelle condizioni stabilite dall'art. 1 di essa Legge, sono rimessi in tempo per invocarne i benefizi, purche' la Commissione creata con [Regio Decreto 22 giugno 1865, n. 2375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-06-22;2375), non siasi gia' pronunziata negativamente a loro riguardo.
+Coloro i quali alla promulgazione della [Legge 23 aprile 1865, n. 2247](Contenente%20disposizioni%20relative%20ai%20compromessi%20politici%20militari%20circa%20le%20interruzioni%20di%20servizio%20per%20causa%20politica.%20065U2247.md), facevano parte dell'Esercito o dell'Armata, e si trovavano nelle condizioni stabilite dall'art. 1 di essa Legge, sono rimessi in tempo per invocarne i benefizi, purche' la Commissione creata con [Regio Decreto 22 giugno 1865, n. 2375](Che%20istituisce%20in%20Firenze%20una%20Commissione%20per%20la%20verifica%20dei%20titoli%20relativi%20alle%20interruzioni%20di%20servizio%20sofferte%20da%20militari%20provenienti%20dagli%20Eserciti%20dei%20Governi%20provvisori%20del%201848_22aa6b575ff7.md), non siasi gia' pronunziata negativamente a loro riguardo.
 
 ## Art. 2.
 

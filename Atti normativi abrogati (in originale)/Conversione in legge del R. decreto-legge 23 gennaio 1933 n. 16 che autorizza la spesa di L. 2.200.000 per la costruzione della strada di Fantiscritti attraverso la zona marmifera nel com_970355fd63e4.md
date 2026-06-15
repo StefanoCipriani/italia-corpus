@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 gennaio 1933, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-23;16), che autorizza la costruzione della strada di «Fantiscritti» attraverso la zona marmifera, nel comune di Carrara. 
+ E' convertito in legge il [R. decreto-legge 23 gennaio 1933, n. 16](Costruzione%20della%20strada%20di%20Fantiscritti%20in%20comune%20di%20Carrara.%20033U0016.md), che autorizza la costruzione della strada di «Fantiscritti» attraverso la zona marmifera, nel comune di Carrara. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

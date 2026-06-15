@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la legge 13 giugno 1910, n, 306;
 
-Visto il [R. decreto 2 settembre 1912, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-09-02;1058), che approva il regolamento per la Cassa pensioni del personale delle Aziende esercenti servizi marittimi sovvenzionati;
+Visto il [R. decreto 2 settembre 1912, n. 1058](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20Cassa%20pensioni%20del%20personale%20delle%20aziende%20esercenti%20i%20servizi%20marittimi%20sovvenzionati%20012U1058.md), che approva il regolamento per la Cassa pensioni del personale delle Aziende esercenti servizi marittimi sovvenzionati;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -191,7 +191,7 @@ Per gli iscritti che alla data di pubblicazione del presente decreto pur non ess
 
 ### Art. 22.
 
-Gli inscritti alla Cassa pensioni anteriormente alla pubblicazione del presente decreto possono optare per la continuazione della inscrizione secondo le norme a cui al regolamento approvato con [R. decreto 2 settembre 1912, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-09-02;1058), purche' tale diritto di opzione sia esercitato mediante domanda fatta pervenire alla Cassa pensioni entro tre mesi dalla data di pubblicazione del presente decreto, salvo per coloro che si trovano in navigazione, per i quali il termine e' raddoppiato.
+Gli inscritti alla Cassa pensioni anteriormente alla pubblicazione del presente decreto possono optare per la continuazione della inscrizione secondo le norme a cui al regolamento approvato con [R. decreto 2 settembre 1912, n. 1058](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20Cassa%20pensioni%20del%20personale%20delle%20aziende%20esercenti%20i%20servizi%20marittimi%20sovvenzionati%20012U1058.md), purche' tale diritto di opzione sia esercitato mediante domanda fatta pervenire alla Cassa pensioni entro tre mesi dalla data di pubblicazione del presente decreto, salvo per coloro che si trovano in navigazione, per i quali il termine e' raddoppiato.
 
 ### Art. 23.
 

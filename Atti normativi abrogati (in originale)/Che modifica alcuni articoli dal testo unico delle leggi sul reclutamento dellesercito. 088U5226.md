@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo 1.
 
-All'articolo 9 del testo unico delle leggi sul reclutamento dell'esercito, approvato con [Regio decreto del 17 agosto 1882, n. 956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-08-17;956) (Serie 3ª), quale fu modificato con la [legge dell'8 luglio 1883, n. 1469](Che%20sostituisce%20alcuni%20articoli%20al%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20regio%20esercito.%20083U1469.md) (Serie 3ª), come pure agli articoli 60, 61, 66, 68, 69, 75, 78 e 87 del medesimo testo unico, sono rispettivamente sostituiti i seguenti: 
+All'articolo 9 del testo unico delle leggi sul reclutamento dell'esercito, approvato con [Regio decreto del 17 agosto 1882, n. 956](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20082U0956.md) (Serie 3ª), quale fu modificato con la [legge dell'8 luglio 1883, n. 1469](Che%20sostituisce%20alcuni%20articoli%20al%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20regio%20esercito.%20083U1469.md) (Serie 3ª), come pure agli articoli 60, 61, 66, 68, 69, 75, 78 e 87 del medesimo testo unico, sono rispettivamente sostituiti i seguenti: 
  
  Art. 9. Il riparto fra i vari circondari del contingente di 1° categoria e' fatto per decreto Reale in proporzione del numero totale degli inscritti della classe chiamata, stati dichiarati idonei alle armi ed arruolati nella 1ª e 2ª categoria per ragione del numero estratto. 
  

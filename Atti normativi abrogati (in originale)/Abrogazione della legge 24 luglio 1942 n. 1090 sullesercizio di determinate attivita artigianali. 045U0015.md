@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' abrogata la [legge 24 luglio 1942, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-24;1090), che disciplina l'esercizio di alcune attivita' artigianali.
+E' abrogata la [legge 24 luglio 1942, n. 1090](Disciplina%20delle%20attivita%20artigianali.%20042U1090.md), che disciplina l'esercizio di alcune attivita' artigianali.
 
 ## Art. 2.
 

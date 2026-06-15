@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Viste le direttive emanate dal Consiglio delle Comunita' europee n. 75/442 del 15 luglio 1975, relativa ai rifiuti, n. 76/403, concernente lo smaltimento dei policlorodifenili e dei policlorotrifenili e n. 78/319 relativa ai rifiuti tossici e nocivi;
 
-Considerato che in data 8 luglio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 8 luglio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -53,13 +53,13 @@ Per rifiuto si intende qualsiasi sostanza od oggetto derivante da attivita' uman
  4) i veicoli a motore, rimorchi e simili fuori uso e loro parti;
  5) i residui dell'attivita' di trattamento dei rifiuti e quelli derivanti dalla depurazione degli effluenti.
  Sono tossici e nocivi tutti i rifiuti che contengono o sono contaminati dalle sostanze elencate nell'allegato al presente decreto, inclusi i policlorodifenili e policlorotrifenili e loro miscele, in quantita' e/o in concentrazione tali da presentare un pericolo per la salute e l'ambiente.
- Resta salva la normativa dettata dalla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), e successive modificazioni e relative prescrizioni tecniche, per quanto concerne la disciplina dello smaltimento nelle acque, sul suolo e nel sottosuolo dei liquami e dei fanghi, di cui all'art. 2, lettera e), punti 2 e 3, della citata legge, purche' non tossici e nocivi ai sensi del presente decreto.
+ Resta salva la normativa dettata dalla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni e relative prescrizioni tecniche, per quanto concerne la disciplina dello smaltimento nelle acque, sul suolo e nel sottosuolo dei liquami e dei fanghi, di cui all'art. 2, lettera e), punti 2 e 3, della citata legge, purche' non tossici e nocivi ai sensi del presente decreto.
  Le disposizioni del presente decreto non si applicano:
  a) ai rifiuti radioattivi disciplinati dalle norme del [decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), e successive modificazioni ed integrazioni;
  b) ai rifiuti risultanti dalla prospezione, estrazione, trattamento ed ammasso di risorse minerali e dallo sfruttamento delle cave;
  c) alle carogne ed ai seguenti rifiuti agricoli: materie fecali ed altre sostanze utilizzate nell'attivita' agricola;
- d) agli scarichi disciplinati dalla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), e successive modificazioni;
- e) alle emissioni, nell'aria, soggette alla disciplina di cui alla [legge 13 luglio 1966, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;615), ed ai regolamenti di esecuzione;
+ d) agli scarichi disciplinati dalla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni;
+ e) alle emissioni, nell'aria, soggette alla disciplina di cui alla [legge 13 luglio 1966, n. 615](Provvedimenti%20contro%20linquinamento%20atmosferico.md), ed ai regolamenti di esecuzione;
  f) agli esplosivi.
 
 ### Art. 3. — Obblighi dello smaltimento dei rifiuti
@@ -84,7 +84,7 @@ Allo Stato competono:
 
 ### Art. 5. — Comitato interministeriale
 
-Le funzioni di cui al precedente art. 4 vengono esercitate dal Comitato interministeriale di cui all'[art. 3, primo comma, della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_3-com1), e successive modificazioni, integrato dai Ministri dell'interno, dell'industria, del commercio e dell'artigianato, dell'agricoltura e delle foreste e per gli affari regionali.
+Le funzioni di cui al precedente art. 4 vengono esercitate dal Comitato interministeriale di cui all'[art. 3, primo comma, della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni, integrato dai Ministri dell'interno, dell'industria, del commercio e dell'artigianato, dell'agricoltura e delle foreste e per gli affari regionali.
  Per l'adeguamento al progresso scientifico e tecnico il Comitato provvede, con decreto del Presidente della Repubblica, a precisare la denominazione e la composizione delle sostanze o materie tossiche e nocive elencate nell'allegato nonche' ad aggiungere, nel medesimo allegato, sostanze o materie tossiche e nocive, allo stato sconosciute, in conseguenza delle modifiche introdotte con le procedure di cui all'[art. 19 della direttiva (CEE) n. 78/319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;319).
  Il Comitato si avvale della collaborazione scientifica e tecnica dell'Istituto superiore di sanita' e dell'Istituto superiore per la prevenzione e la sicurezza del lavoro, oltre che delle strutture amministrative esistenti che hanno competenza nella materia.
 
@@ -98,7 +98,7 @@ Alle regioni competono:
  le zone, nonche' le modalita' di stoccaggio temporaneo e definitivo, ivi comprese le discariche controllate;
  per i rifiuti tossici e nocivi, le piattaforme specializzate per i trattamenti.
  I piani regionali possono prevedere la costituzione di consorzi tra comuni, anche con la partecipazione di comunita' montane, per lo smaltimento dei rifiuti, ai quali possono partecipare anche imprese singole o associate;
- b) l'individuazione, sentiti i comuni interessati, delle zone idonee in cui realizzare gli impianti di trattamento e/o stoccaggio temporaneo e definitivo dei rifiuti; se del caso, la individuazione delle zone puo' essere attuata mediante accordi interregionali. Alla individuazione di cui sopra si applicano le disposizioni di cui all'[articolo 2, commi secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-05;62#art_2-com2), [terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-05;62#art_2-com3), [quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-05;62#art_2-com4) e [quinto, della legge 5 marzo 1982, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-05;62#art_2-com5);
+ b) l'individuazione, sentiti i comuni interessati, delle zone idonee in cui realizzare gli impianti di trattamento e/o stoccaggio temporaneo e definitivo dei rifiuti; se del caso, la individuazione delle zone puo' essere attuata mediante accordi interregionali. Alla individuazione di cui sopra si applicano le disposizioni di cui all'[articolo 2, commi secondo](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201981%20n.%20801%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md), [terzo](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201981%20n.%20801%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md), [quarto](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201981%20n.%20801%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md) e [quinto, della legge 5 marzo 1982, n. 62](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201981%20n.%20801%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md);
  c) l'approvazione dei progetti e degli elaborati tecnici riguardanti gli impianti di smaltimento dei rifiuti urbani e di innocuizzazione e di eliminazione dei rifiuti speciali;
  d) l'autorizzazione ad enti o imprese ad effettuare lo smaltimento dei rifiuti urbani e speciali prodotti da terzi; le autorizzazioni ad effettuare le operazioni di smaltimento dei rifiuti tossici e nocivi; le autorizzazioni alla installazione e alla gestione delle discariche e degli impianti di innocuizzazione e di eliminazione dei rifiuti speciali, approvati ai sensi della precedente lettera c);
  e) il rilevamento statistico dei dati inerenti la produzione e lo smaltimento dei rifiuti nonche', per quelli tossici e nocivi, i dati relativi all'importazione ed esportazione; la trasmissione delle informazioni necessarie per le previste comunicazioni e relazioni di cui alla lettera i) dell'art. 4.
@@ -109,7 +109,7 @@ Alle regioni competono:
 
 ### Art. 7. — Competenze delle province
 
-In attuazione al disposto dell'[art. 104, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_104-com2), le province sono preposte al controllo dello smaltimento dei rifiuti.
+In attuazione al disposto dell'[art. 104, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), le province sono preposte al controllo dello smaltimento dei rifiuti.
  Esse si avvalgono dei servizi di igiene ambientale e medicina del lavoro delle competenti unita' sanitarie locali nonche' dei servizi e presidi multizonali di cui all'[art. 22 della legge 23 dicembre 1978;
 n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_22), e, ove questi ultimi non siano ancora istituiti, dei laboratori provinciali di igiene e profilassi.
 
@@ -128,7 +128,7 @@ informazioni da esso disponibili sullo smaltimento dei rifiuti nel proprio terri
 
 E' vietato l'abbandono, lo scarico o il deposito incontrollato dei rifiuti in aree pubbliche e private soggette ad uso pubblico.
  In caso di inadempienza il sindaco, allorche' sussistano motivi sanitari, igienici od ambientali, dispone con ordinanza, previa fissazione di un termine per provvedere, lo sgombro di dette aree in danno dei soggetti obbligati.
- Ferme restando le disposizioni contenute nella [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), e successive modificazioni, e' fatto divieto di scaricare rifiuti di qualsiasi genere nelle acque pubbliche e private.
+ Ferme restando le disposizioni contenute nella [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni, e' fatto divieto di scaricare rifiuti di qualsiasi genere nelle acque pubbliche e private.
 
 ### Art. 10. — Autorizzazione per la discarica
 
@@ -236,7 +236,7 @@ Ai costi relativi alle attivita' di smaltimento dei rifiuti tossici e nocivi si 
 
 ### Art. 21. — Disposizioni fiscali e finanziarie
 
-Con effetto dal primo gennaio dell'anno successivo a quello di entrata in vigore del presente decreto, la sezione II del capo XVIII del titolo III del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), e successive modificazioni, e' sostituita come appresso:
+Con effetto dal primo gennaio dell'anno successivo a quello di entrata in vigore del presente decreto, la sezione II del capo XVIII del titolo III del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, e' sostituita come appresso:
 
  Sezione II
  TASSA PER LO SMALTIMENTO DEI RIFIUTI SOLIDI URBANI INTERNI
@@ -255,18 +255,18 @@ Con effetto dal primo gennaio dell'anno successivo a quello di entrata in vigore
  I regolamenti, dopo l'approvazione dell'organo regionale di controllo, devono essere trasmessi al Ministero delle finanze che provvede alla loro omologazione, sentito il Ministero dell'interno.
  Le tariffe, stabilite in applicazione dei regolamenti debitamente omologati, deVono essere approvate dall'organo regionale di controllo ed essere comunicate al Ministero delle finanze ai sensi dell'art. 273.
  Art. 271 - Accertamento, riscossione, contenzioso e sanzioni. - La riscossione della tassa e' fatta mediante ruoli nominativi.
- Per l'applicazione della tassa si osservano le disposizioni di cui al successivo capo XIX, con esclusione di quelle concernenti il contenzioso per le quali si applicano l'[art. 20 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;638#art_20), e l'art. 288.
+ Per l'applicazione della tassa si osservano le disposizioni di cui al successivo capo XIX, con esclusione di quelle concernenti il contenzioso per le quali si applicano l'[art. 20 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 638](../DPR/Disposizioni%20per%20lattribuzione%20di%20somme%20agli%20enti%20indicati%20nellart.%2014%20della%20legge%209%20ottobre%201971%20n.%20825%20in%20sostituzione%20di%20tributi%20contributi%20e%20compartecipazioni%20e%20norme%20per%20la%20delegabil_3fbd056216dc.md), e l'art. 288.
  Art. 272 - Delegazioni. - A garanzia dei mutui assunti o da assumere per finanziare le spese inerenti al servizio di smaltimento dei rifiuti e per la costruzione, l'ampliamento e l'ammodernamento di impianti di stoccaggio, discarica, trattamento e recupero, i comuni possono rilasciare delegazioni sulla tassa nei limiti dei quattro quinti del cespite medio annuo realizzato nell'ultimo biennio.
  Qualora, in qualsiasi momento del periodo di ammortamento del mutuo, la riscossione del cespite risultasse insufficiente a garantire l'ammortamento stesso, il comune dovra' rilasciare delegazioni suppletive su altri cespiti delegabili.
 
 ### Art. 22. — Proroghe
 
-Nei riflessi della tassa per lo smaltimento dei rifiuti solidi urbani interni, per il primo anno di applicazione della tassa stessa sono prorogati di tre mesi i termini previsti dai primi commi degli articoli 273, 274, 276, 277 e 286 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), e successive modificazioni.
+Nei riflessi della tassa per lo smaltimento dei rifiuti solidi urbani interni, per il primo anno di applicazione della tassa stessa sono prorogati di tre mesi i termini previsti dai primi commi degli articoli 273, 274, 276, 277 e 286 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni.
 
 ### Art. 23. — Agevolazioni agli investimenti
 
 Le iniziative di imprese industriali, di consorzi di imprese industriali di societa' consortili anche in forma di cooperative, tra imprese industriali e artigiane, di consorzi di cooperative di cui alla [legge 17 febbraio 1971, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-17;217), destinate alla costruzione, all'ampliamento o all'ammodernamento di impianti di smaltimento di rifiuti industriali e/o non industriali anche se prodotti da terzi e rientranti nell'applicazione del presente decreto, nonche' quelle che realizzano il recupero, il riciclo, la riutilizzazione e la rigenerazione dei rifiuti stessi, sono, con riferimento al [decreto del Presidente della Repubblica 9 novembre 1976, n. 902](Disciplina%20del%20credito%20agevolato%20al%20settore%20industriale.md), classificabili nella voce ammodernamenti.
- In applicazione di detto decreto, per le iniziative del precedente comma valgono le disposizioni previste nell'[art. 5, quinto comma, della legge 24 dicembre 1979, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-12-24;650#art_5-com5), prescindendo altresi' dalle variazioni sui livelli occupazionali conseguenti la realizzazione del programma degli investimenti.
+ In applicazione di detto decreto, per le iniziative del precedente comma valgono le disposizioni previste nell'[art. 5, quinto comma, della legge 24 dicembre 1979, n. 650](Integrazioni%20e%20modifiche%20delle%20leggi%2016%20aprile%201973%20n.%20171%20e%2010%20maggio%201976%20n.%20319%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md), prescindendo altresi' dalle variazioni sui livelli occupazionali conseguenti la realizzazione del programma degli investimenti.
  Per le iniziative in questione le agevolazioni creditizie previste da leggi regionali possono cumularsi con quelle previste da leggi statali, purche' il complesso delle agevolazioni non superi l'ammontare dell'investimento globale.
  In deroga a quanto previsto dal [quarto comma dell'art. 28 del decreto del Presidente della Repubblica 9 novembre 1976, n. 902](Disciplina%20del%20credito%20agevolato%20al%20settore%20industriale.md), la riserva di fondi del 75% non impegnata dal Mediocredito centrale in favore del Mezzogiorno alla data di entrata in vigore del presente decreto e' destinata anche al finanziamento delle iniziative indicate al primo comma del presente articolo, secondo le modalita' ed i criteri riportati nei precedenti commi.
 

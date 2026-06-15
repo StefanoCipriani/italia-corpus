@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 agosto 1930, n. 1356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-08-22;1356), recante norme per l'applicazione del contributo per la manutenzione delle fognature da parte del Governatorato di Roma, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 22 agosto 1930, n. 1356](Norme%20per%20lapplicazione%20del%20contributo%20per%20la%20manutenzione%20delle%20fognature%20da%20parte%20del%20Governatorato%20di%20Roma.%20030U1356.md), recante norme per l'applicazione del contributo per la manutenzione delle fognature da parte del Governatorato di Roma, con la seguente modificazione: 
  
  All'art. 5 e' sostituito il seguente: 
  

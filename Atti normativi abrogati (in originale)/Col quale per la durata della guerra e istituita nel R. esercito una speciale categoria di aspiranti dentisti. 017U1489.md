@@ -22,7 +22,7 @@ Il grado di aspirante dentista e' conferito per determinazione ministeriale.
 
 ## Art. 3.
 
-Possono essere nominati aspiranti dentisti i militari di qualsiasi classe o categoria, di eta' non superiore a 46 anni, che siano abilitati all'esercizio dell'odontoiatria a termini degli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-03-31;298#art_3) e [4 della legge 31 marzo 1912, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-03-31;298#art_4). 
+Possono essere nominati aspiranti dentisti i militari di qualsiasi classe o categoria, di eta' non superiore a 46 anni, che siano abilitati all'esercizio dell'odontoiatria a termini degli [articoli 3](Che%20prescrive%20lobbligo%20della%20laurea%20in%20medicina%20e%20chirurgia%20per%20lesercizio%20della%20odontoiatria.%20012U0298.md) e [4 della legge 31 marzo 1912, n. 298](Che%20prescrive%20lobbligo%20della%20laurea%20in%20medicina%20e%20chirurgia%20per%20lesercizio%20della%20odontoiatria.%20012U0298.md). 
  
  Il numero degli aspiranti da nominarsi non potra' superare i seicento.
 

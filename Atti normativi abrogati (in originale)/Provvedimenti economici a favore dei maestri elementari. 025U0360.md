@@ -46,7 +46,7 @@ La maggiore spesa derivante dall'applicazione del presente decreto, per gli inse
 
 ## Art. 4.
 
-La quota di spesa per ogni scuola provvisoria, da corrispondersi agli enti culturali delegati, ai sensi dell'[articolo 11 del Regio decreto 31 ottobre 1923, n. 2410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2410#art_11), rimane confermata per il triennio in corso, nella misura risultante dalla Tabella B, annessa al [Regio decreto 31 dicembre 1923, n. 2996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2996).
+La quota di spesa per ogni scuola provvisoria, da corrispondersi agli enti culturali delegati, ai sensi dell'[articolo 11 del Regio decreto 31 ottobre 1923, n. 2410](Classificazione%20delle%20scuole%20elementari%20e%20trasformazione%20delle%20scuole%20stesse%20di%20scarso%20rendimento.%20023U2410.md), rimane confermata per il triennio in corso, nella misura risultante dalla Tabella B, annessa al [Regio decreto 31 dicembre 1923, n. 2996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2996).
 
 ## Art. 5.
 

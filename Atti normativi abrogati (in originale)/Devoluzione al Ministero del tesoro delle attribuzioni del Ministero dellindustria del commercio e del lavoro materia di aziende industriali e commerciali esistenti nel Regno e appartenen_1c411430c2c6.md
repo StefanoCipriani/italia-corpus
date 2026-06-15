@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la legge di guerra approvata con [R. decreto 8 luglio 1938, n. 1415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-08;1415);
 
-Visto il [R. decreto-legge 4 febbraio 1942, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-02-04;11), convertito, con modificazioni, nella [legge 17 luglio 1942, n. 1100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;1100), recante norme sulle aziende industriali e commerciali esistenti nel Regno, appartenenti a persone di nazionalita' nemica o nelle quali essi abbiano interesse;
+Visto il [R. decreto-legge 4 febbraio 1942, n. 11](Nuove%20norme%20sulle%20aziende%20industriali%20e%20commerciali%20esistenti%20nel%20Regno%20appartenenti%20a%20persone%20di%20nazionalita%20nemica%20o%20nelle%20quali%20esse%20abbiano%20Interessi%20prevalenti.%20042U0011.md), convertito, con modificazioni, nella [legge 17 luglio 1942, n. 1100](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20febbraio%201942-XX%20n.%2011%20contenente%20nuove%20norme%20sulle%20aziende%20industriali%20e%20commerciali%20esistenti%20nel%20Regno%20appartenenti%20a%20pers_894471637f27.md), recante norme sulle aziende industriali e commerciali esistenti nel Regno, appartenenti a persone di nazionalita' nemica o nelle quali essi abbiano interesse;
 
 Visto il [decreto Luogotenenziale 22 giugno 1944, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-06-22;154), concernente la ricostituzione del Ministero del tesoro;
 
@@ -32,7 +32,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Articolo unico.
 
-Sono devolute al Ministero del tesoro le attribuzioni spettanti al Ministero dell'industria, del commercio e del lavoro, per effetto del [R. decreto-legge 4 febbraio 1942, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-02-04;11), convertito, con modificazioni, nella [legge 17 luglio 1942, n. 1100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;1100). 
+Sono devolute al Ministero del tesoro le attribuzioni spettanti al Ministero dell'industria, del commercio e del lavoro, per effetto del [R. decreto-legge 4 febbraio 1942, n. 11](Nuove%20norme%20sulle%20aziende%20industriali%20e%20commerciali%20esistenti%20nel%20Regno%20appartenenti%20a%20persone%20di%20nazionalita%20nemica%20o%20nelle%20quali%20esse%20abbiano%20Interessi%20prevalenti.%20042U0011.md), convertito, con modificazioni, nella [legge 17 luglio 1942, n. 1100](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20febbraio%201942-XX%20n.%2011%20contenente%20nuove%20norme%20sulle%20aziende%20industriali%20e%20commerciali%20esistenti%20nel%20Regno%20appartenenti%20a%20pers_894471637f27.md). 
  
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

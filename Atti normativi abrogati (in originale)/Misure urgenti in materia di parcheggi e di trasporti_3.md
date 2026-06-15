@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il Ministro per i problemi delle aree urbane, con proprio decreto, da emanare di concerto con il Ministro del tesoro entro novanta giorni dalla data di entrata in vigore del presente decreto, provvede agli adempimenti di cui all'[articolo 3, comma 3-bis, della legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122#art_3-com3bis), introdotto dal comma 2 del presente articolo, all'adeguamento delle procedure di attuazione e delle forme di finanziamento, nei limiti delle risorse disponibili, nonche' alla definizione dei requisiti che i soggetti interessati debbono possedere anche con riferimento a quanto previsto dall'[articolo 12 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_12), ai fini della ammissione ai contributi previsti dai titoli I e II della [legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122).
+Il Ministro per i problemi delle aree urbane, con proprio decreto, da emanare di concerto con il Ministro del tesoro entro novanta giorni dalla data di entrata in vigore del presente decreto, provvede agli adempimenti di cui all'[articolo 3, comma 3-bis, della legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122#art_3-com3bis), introdotto dal comma 2 del presente articolo, all'adeguamento delle procedure di attuazione e delle forme di finanziamento, nei limiti delle risorse disponibili, nonche' alla definizione dei requisiti che i soggetti interessati debbono possedere anche con riferimento a quanto previsto dall'[articolo 12 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md), ai fini della ammissione ai contributi previsti dai titoli I e II della [legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122).
 
 2.
 
@@ -79,7 +79,7 @@ Le risultanti disponibilita', per effetto della revoca di cui al comma 2, sono r
 
 1.
 
-Al fine di assicurare l'unitaria definizione dell'assetto dei trasporti rapidi di massa, gli interventi di cui alla [legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910), sono coordinati con quelli di cui alla [legge 26 febbraio 1992, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;211).
+Al fine di assicurare l'unitaria definizione dell'assetto dei trasporti rapidi di massa, gli interventi di cui alla [legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), sono coordinati con quelli di cui alla [legge 26 febbraio 1992, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;211).
 
 2.
 
@@ -91,7 +91,7 @@ I soggetti competenti a realizzare gli interventi di cui al comma 1, sono tenuti
 
 4.
 
-Alla commissione costituita, con decreto del Ministro dei trasporti del 20 luglio 1989, per la vigilanza sulla esecuzione dei lavori di cui all'[articolo 2, comma 3, della legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910#art_2-com3), sono altresi' attribuite le funzioni previste dall'[articolo 6 della legge 26 febbraio 1992, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;211#art_6). La commissione e' integrata con due componenti designati dal Ministro delegato per i problemi delle aree urbane. Conseguentemente, e' soppressa la commissione di cui al citato [articolo 6 della legge n. 211 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;211#art_6).
+Alla commissione costituita, con decreto del Ministro dei trasporti del 20 luglio 1989, per la vigilanza sulla esecuzione dei lavori di cui all'[articolo 2, comma 3, della legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), sono altresi' attribuite le funzioni previste dall'[articolo 6 della legge 26 febbraio 1992, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;211#art_6). La commissione e' integrata con due componenti designati dal Ministro delegato per i problemi delle aree urbane. Conseguentemente, e' soppressa la commissione di cui al citato [articolo 6 della legge n. 211 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;211#art_6).
 
 ## Art. 4. — Trasporti pubblici locali
 
@@ -137,7 +137,7 @@ Sono abrogate le norme di cui al capo I della [legge 4 agosto 1990, n. 240](http
 
 6.
 
-Ai fini della localizzazione e della realizzazione delle opere finalizzate alla costruzione e alla gestione degli interporti di cui alla [legge 4 agosto 1990, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;240), possono essere applicate, secondo gli indirizzi del piano generale dei trasporti, in alternativa a quanto previsto dall'articolo 8 della medesima [legge n. 240 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;240), le norme di cui all'[articolo 27 della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_27), e all'[articolo 14 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14).
+Ai fini della localizzazione e della realizzazione delle opere finalizzate alla costruzione e alla gestione degli interporti di cui alla [legge 4 agosto 1990, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;240), possono essere applicate, secondo gli indirizzi del piano generale dei trasporti, in alternativa a quanto previsto dall'articolo 8 della medesima [legge n. 240 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;240), le norme di cui all'[articolo 27 della legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md), e all'[articolo 14 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14).
 
 ## Art. 6. — Modifica delle procedure per la erogazione di contributi 
  per la realizzazione di itinerari ciclabili e pedonali

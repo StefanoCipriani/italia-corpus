@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'elenco delle imperfezioni ed infermita' che sono causa di inabilita' assoluta o temporaria al servizio militare adottato con [R. decreto del 24 marzo 1892, numero 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-03-24;103), e' abrogato e sostituito con l'elenco, allegato A, che fa seguito al presente decreto.
+L'elenco delle imperfezioni ed infermita' che sono causa di inabilita' assoluta o temporaria al servizio militare adottato con [R. decreto del 24 marzo 1892, numero 103](Che%20sostituisce%20un%20elenco%20unico%20delle%20imperfezioni%20fisiche%20ed%20infermita%20esimenti%20dal%20servizio%20militare%20agli%20elenchi%20A%20B%20e%20C%20annessi%20al%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20le_98e783b7f940.md), e' abrogato e sostituito con l'elenco, allegato A, che fa seguito al presente decreto.
 
 ## Art. 2.
 

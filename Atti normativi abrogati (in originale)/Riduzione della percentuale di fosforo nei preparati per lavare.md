@@ -20,9 +20,9 @@ IL MINISTRO DELL'INDUSTRIA
 
 DEL COMMERCIO E DELL'ARTIGIANATO
 
-Visto l'[art. 6, comma 2, della legge 24 gennaio 1986, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-24;7#art_6-com2), di conversione del [decreto-legge 25 novembre 1985 n. 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-11-25;667);
+Visto l'[art. 6, comma 2, della legge 24 gennaio 1986, n. 7](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201985%20n.%20667%20recante%20provvedimenti%20urgenti%20per%20il%20contenimento%20dei%20fenomeni%20di%20eutrofizzazione.md), di conversione del [decreto-legge 25 novembre 1985 n. 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-11-25;667);
 
-Ritenuto che non vi siano elementi giustificativi, anche sulla base degli attuali risultati dei piani di monitoraggio, di pervenire immediatamente alla percentuale dell'1% come contenuto di fosforo nei preparati per lavare di cui all'art. 3, comma 5 della stessa [legge 24 gennaio 1986, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-24;7), e che l'abbassamento a tale valore di fosforo possa portare indirettamente, nelle condizioni attuali, ad un peggioramento della situazione ambientale;
+Ritenuto che non vi siano elementi giustificativi, anche sulla base degli attuali risultati dei piani di monitoraggio, di pervenire immediatamente alla percentuale dell'1% come contenuto di fosforo nei preparati per lavare di cui all'art. 3, comma 5 della stessa [legge 24 gennaio 1986, n. 7](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201985%20n.%20667%20recante%20provvedimenti%20urgenti%20per%20il%20contenimento%20dei%20fenomeni%20di%20eutrofizzazione.md), e che l'abbassamento a tale valore di fosforo possa portare indirettamente, nelle condizioni attuali, ad un peggioramento della situazione ambientale;
 
 Considerato che in base alle attuali conoscenze tecnico-scientifiche e' possibile la riduzione del valore dal 2,50% al 2%, consentendo l'impiego esclusivo dei sostituenti attualmente ammessi e garantendo peraltro uno standard di pulizia adeguato a tutelare le esigenze igienico-sanitarie della collettivita';
 
@@ -32,11 +32,11 @@ Sentito il Consiglio superiore di sanita'; Decreta:
 
 1.
 
-A decorrere dal 1 ottobre 1988 i preparati per lavare di cui all'[art. 3, comma 5, della legge 24 gennaio 1986, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-24;7#art_3-com5), devono essere prodotti con una percentuale massima dei composti di fosforo, espressa come fosforo, non superiore al 2%.
+A decorrere dal 1 ottobre 1988 i preparati per lavare di cui all'[art. 3, comma 5, della legge 24 gennaio 1986, n. 7](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201985%20n.%20667%20recante%20provvedimenti%20urgenti%20per%20il%20contenimento%20dei%20fenomeni%20di%20eutrofizzazione.md), devono essere prodotti con una percentuale massima dei composti di fosforo, espressa come fosforo, non superiore al 2%.
 
 2.
 
-I preparati per lavare di cui al precedente comma 1, prodotti od importati anteriormente alla data del 1 ottobre 1988 e conformi a quanto stabilito dal [comma 5 dell'art. 3 della legge 24 gennaio 1986, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-24;7#art_3-com5), possono essere immessi al commercio fino al 31 marzo 1989 ed al consumo fino ad esaurimento.
+I preparati per lavare di cui al precedente comma 1, prodotti od importati anteriormente alla data del 1 ottobre 1988 e conformi a quanto stabilito dal [comma 5 dell'art. 3 della legge 24 gennaio 1986, n. 7](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201985%20n.%20667%20recante%20provvedimenti%20urgenti%20per%20il%20contenimento%20dei%20fenomeni%20di%20eutrofizzazione.md), possono essere immessi al commercio fino al 31 marzo 1989 ed al consumo fino ad esaurimento.
 
 3.
 
@@ -44,7 +44,7 @@ Con provvedimenti successivi sono stabiliti il metodo e le tolleranze per il con
 
 N O T E
  AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il [D.L. n. 667/1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985;667) reca: "Provvedimenti urgenti per il contenimento dei fenomeni di eutrofizzazione". Si trascrive l'art. 6, comma 2, del predetto decreto, nel testo introdotto dalla legge di conversione: "2. Entro il 31 marzo 1988, con decreto del Ministro della sanita', di concerto con il Ministro per l'ecologia e con il Ministro dell'industria, del commercio e dell'artigianato, da pubblicarsi nella Gazzetta Ufficiale, la percentuale massima del 2,50 per cento per i composti di fosforo espressi come fosforo, nei preparati per lavare di cui all'art. 3, comma 5, e' ridotta sino al limite dell'1 per cento ed e' altresi' stabilita la relativa disciplina transitoria".
@@ -58,7 +58,7 @@ N O T E
 
 1.
 
-A decorrere dal 1 gennaio 1992 i preparati per lavare di cui all'[art. 3, comma 5, della legge 24 gennaio 1986, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-24;7#art_3-com5), devono essere prodotti od importati con una percentuale massima dei composti di fosforo, espressa come fosforo, non superiore all'1%.
+A decorrere dal 1 gennaio 1992 i preparati per lavare di cui all'[art. 3, comma 5, della legge 24 gennaio 1986, n. 7](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201985%20n.%20667%20recante%20provvedimenti%20urgenti%20per%20il%20contenimento%20dei%20fenomeni%20di%20eutrofizzazione.md), devono essere prodotti od importati con una percentuale massima dei composti di fosforo, espressa come fosforo, non superiore all'1%.
 
 2.
 

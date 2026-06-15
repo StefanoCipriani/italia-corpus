@@ -22,9 +22,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Riconosciuta la necessita' di aumentare le assegnazioni per spese di pensioni inscritte nei bilanci dei Ministeri del tesoro, delle finanze, degli affari esteri, dell'istruzione pubblica, dell'interno, delle poste e dei telegrafi, della guerra e della marina, in relazione allo andamento delle spese stesse nell'esercizio finanziario 1915-916;
 
-Vista la [legge 2 luglio 1905, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-02;320), sul consolidamento delle spese del bilancio del Ministero della marina;
+Vista la [legge 2 luglio 1905, n. 320](Relativa%20alla%20dotazione%20del%20bilancio%20per%20la%20spesa%20effettiva%20del%20Ministero%20della%20marina%20per%20gli%20esercizi%20dal%201904-905%20al%201916-917.%20005U0320.md), sul consolidamento delle spese del bilancio del Ministero della marina;
 
-Viste le [leggi 1° aprile 1915, n. 380, 21 dicembre 1915, n. 1774, e 13 aprile 1916, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-13;403);
+Viste le [leggi 1° aprile 1915, n. 380, 21 dicembre 1915, n. 1774, e 13 aprile 1916, n. 403](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellistruzione%20pubblica%20per%20lesercizio%20finanziario%201915-916%20016U0403.md);
 
 Sentito il Consiglio dei ministri;
 

@@ -24,7 +24,7 @@ Riconosciuta la necessita' d'introdurre variazioni nello stato di previsione del
 
 Considerato che si rende altresi' necessario inscrivere nello stato di previsione della spesa del Ministero predetto, pel cennato anno finanziario, i fondi occorrenti per provvedere al pagamento di quote di cambio sulle restituzioni di dazi d'importazione versati in biglietti di Stato e di Banca;
 
-Vista la [legge 14 giugno 1916, n. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-06-14;738);
+Vista la [legge 14 giugno 1916, n. 738](Che%20autorizza%20lesercizio%20provvisorio%20non%20oltre%20il%2031%20luglio%201916%20dei%20bilanci%20delle%20Amministrazioni%20dello%20Stato%20dellesercizio%20finanziario%201916-917.%20016U0738.md);
 
 Udito il Consiglio dei ministri;
 

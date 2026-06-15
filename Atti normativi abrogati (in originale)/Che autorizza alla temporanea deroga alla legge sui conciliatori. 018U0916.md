@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nei Comuni in cui, in conseguenza dello stato di guerra, non riesca possibile scegliere, tra le persone indicate nella lista costituita a termini dell'[art. 3 della legge 16 giugno 1892, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261#art_3), il conciliatore od il vice conciliatore, questi possono essere scelti, anche fuori dalla lista, fra i cittadini che abbiano tutti gli altri requisiti richiesti dal detto art. 3 quand'anche non risiedano nel Comune, purche' abbiano la loro residenza in altro Comune dello stesso circondario.
+Nei Comuni in cui, in conseguenza dello stato di guerra, non riesca possibile scegliere, tra le persone indicate nella lista costituita a termini dell'[art. 3 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), il conciliatore od il vice conciliatore, questi possono essere scelti, anche fuori dalla lista, fra i cittadini che abbiano tutti gli altri requisiti richiesti dal detto art. 3 quand'anche non risiedano nel Comune, purche' abbiano la loro residenza in altro Comune dello stesso circondario.
 
 ## Art. 2.
 

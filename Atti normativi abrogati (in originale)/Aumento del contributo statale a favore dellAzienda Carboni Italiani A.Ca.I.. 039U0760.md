@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il contributo a favore dell'Azienda Carboni Italiani (A.Ca.I.), previsto dall'[art. 3 del R. decreto-legge 28 luglio 1935, n. 1406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-07-28;1406#art_3), convertito nella legge 13 gennaio 1936-XIV,n. 190, e' aumentato di L. 10.000.000 per l'esercizio finanziario 1938-39 e dell'importo di L. 5.000.000 per ciascuno dei quattro esercizi successivi. 
+Il contributo a favore dell'Azienda Carboni Italiani (A.Ca.I.), previsto dall'[art. 3 del R. decreto-legge 28 luglio 1935, n. 1406](Istituzione%20di%20un%20ente%20di%20diritto%20pubblico%20denominato%20%20Azienda%20Carboni%20Italiani%20%20A.CA.I.%20con%20sede%20in%20Roma.%20035U1406.md), convertito nella legge 13 gennaio 1936-XIV,n. 190, e' aumentato di L. 10.000.000 per l'esercizio finanziario 1938-39 e dell'importo di L. 5.000.000 per ciascuno dei quattro esercizi successivi. 
  
  L'aumento di contributo di cui al precedente comma e' destinato esclusivamente alla esecuzione, per conto dello Stato, e con gestione separata, di ricerche di combustibili fossili nel territorio del Regno durante il periodo sopraindicato.
 

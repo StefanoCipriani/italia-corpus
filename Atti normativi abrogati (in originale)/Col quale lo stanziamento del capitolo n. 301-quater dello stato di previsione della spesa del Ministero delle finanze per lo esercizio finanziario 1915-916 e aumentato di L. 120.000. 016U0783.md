@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Ritenuta la necessita' di inscrivere nello stato di previsione della spesa del Ministero delle finanze per l'esercizio 1915-916 l'ulteriore somma di L. 120.000 per corrispondere le quote di cambio sulle restituzioni di dazi d'importazione versati in biglietti di Stato o di Banca;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Udito il Consiglio dei ministri;
 

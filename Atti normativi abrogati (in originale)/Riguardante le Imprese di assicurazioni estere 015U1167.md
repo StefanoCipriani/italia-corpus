@@ -14,7 +14,7 @@ Le Societa' di assicurazione sulla vita, le quali coprono il rischio di guerra m
  
  L'impiego in titoli dei detti soprapremi ed il deposito dei titoli stessi presso la Cassa dei depositi e prestiti debbono essere effettuati non oltre i primi cinque giorni di ciascun mese. 
  
- A tali depositi si applicano per ogni altro riguardo le disposizioni e le sanzioni degli articoli 55 a 60 del regolamento approvato col [R. decreto 27 dicembre 1882, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-12-27;1139), per l'esecuzione del Codice di commercio.
+ A tali depositi si applicano per ogni altro riguardo le disposizioni e le sanzioni degli articoli 55 a 60 del regolamento approvato col [R. decreto 27 dicembre 1882, n. 1139](Col%20quale%20viene%20approvato%20il%20regolamento%20per%20lesecuzione%20del%20codice%20di%20commercio.%20082U1139.md), per l'esecuzione del Codice di commercio.
 
 ## Art. 2.
 
@@ -37,7 +37,7 @@ Esse imprese non potranno alienare, ne' sottoporre ad ipoteca o a vincoli di qua
 
 Esso dovranno, nel termine di 30 giorni dalla data della pubblicazione del presente decreto, dimostrare al Ministero di agricoltura, industria e commercio che tutte le riserve inerenti ai contratti di assicurazione stipulati in Italia per qualsiasi ramo sono coperte da attivita' esistenti nel Regno vincolate a favore degli assicurati. 
  
- Rimane fermo per le imprese di assicurazione sulla vita l'obbligo di cui agli articoli 145 del Codice di commercio e 29 della [legge 4 aprile 1912, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-04-04;305).
+ Rimane fermo per le imprese di assicurazione sulla vita l'obbligo di cui agli articoli 145 del Codice di commercio e 29 della [legge 4 aprile 1912, n. 305](Che%20reca%20provvedimenti%20per%20lesercizio%20delle%20assicurazioni%20sulla%20durata%20della%20vita%20umana%20da%20parte%20di%20un%20Istituto%20nazionale%20di%20assicurazioni.%20012U0305.md).
 
 ## Art. 4.
 
@@ -47,7 +47,7 @@ Il ministro di agricoltura, industria e commercio stabilira' le norme per la det
 
 ## Art. 5.
 
-La Cassa dei depositi e prestiti accettera' i depositi di valori mobiliari eseguiti agli effetti dell'art. 3, numero 2, applicando la tassa di custodia di centesimi venticinque per ogni mille lire di capitale nominale per i titoli al portatore e di centesimi dieci per i nominativi, ferme restando quella di lire una per mille per i depositi eseguiti e da eseguire agli effetti degli articoli 145 del Codice di commercio e 29 della [legge 4 aprile 1912, n. 305, e dell'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-04-04;305#art_1) del presente decreto. 
+La Cassa dei depositi e prestiti accettera' i depositi di valori mobiliari eseguiti agli effetti dell'art. 3, numero 2, applicando la tassa di custodia di centesimi venticinque per ogni mille lire di capitale nominale per i titoli al portatore e di centesimi dieci per i nominativi, ferme restando quella di lire una per mille per i depositi eseguiti e da eseguire agli effetti degli articoli 145 del Codice di commercio e 29 della [legge 4 aprile 1912, n. 305, e dell'art. 1](Che%20reca%20provvedimenti%20per%20lesercizio%20delle%20assicurazioni%20sulla%20durata%20della%20vita%20umana%20da%20parte%20di%20un%20Istituto%20nazionale%20di%20assicurazioni.%20012U0305.md) del presente decreto. 
  
  I titoli di credito ammessi al deposito e non soggetti originariamente alla tassa di bollo saranno accettati con esenzione dalla tassa stessa fino a quando rimangano vincolati presso la Cassa dei depositi e prestiti.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-06;2125#art_16), [17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-06;2125#art_17), [18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-06;2125#art_18) e [19 del R. decreto 6 settembre 1923, n. 2125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-06;2125#art_19), relativo alla costituzione di consorzi obbligatori per i depositi cavalli stalloni;
+Visti gli [articoli 16](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), [17](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), [18](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md) e [19 del R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), relativo alla costituzione di consorzi obbligatori per i depositi cavalli stalloni;
 
 Visti gli [articoli 1](Provvedimenti%20per%20lamministrazione%20ed%20il%20funzionamento%20dei%20Depositi%20cavalli%20stalloni%20del%20Regno.%20024U1784.md) e [2 del R. decreto-legge 9 ottobre 1924, n. 1784](Provvedimenti%20per%20lamministrazione%20ed%20il%20funzionamento%20dei%20Depositi%20cavalli%20stalloni%20del%20Regno.%20024U1784.md);
 

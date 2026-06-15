@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
- Visto il [regio decreto 9 luglio 1939, n. 1353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1353), che approva la tabella organica dell'Istituto tecnico industriale "Feltrinelli" di Milano;
+ Visto il [regio decreto 9 luglio 1939, n. 1353](Approvazione%20dello%20statuto%20del%20Regio%20istituto%20tecnico%20industriale%20Giacomo%20Feltrinelli%20di%20Milano.%20039U1353.md), che approva la tabella organica dell'Istituto tecnico industriale "Feltrinelli" di Milano;
  Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107#art_10);
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

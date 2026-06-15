@@ -15,9 +15,9 @@ UMBERTO DI SAVOIA
  LUOGOTENENTE GENERALE DEL REGNO 
  
  In virtu' dell'autorita' a Noi delegata; 
- Veduto l'[art. 1 della legge 31 gennaio 1926 n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1) modificato dalla [legge 4 settembre 1940, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-04;1547); 
+ Veduto l'[art. 1 della legge 31 gennaio 1926 n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md) modificato dalla [legge 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md); 
  Veduto l'[art. 3 del R. decreto-legge 20 luglio 1934 n. 1226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1226#art_3); 
- Veduto l'organico del personale delle Regie biblioteche pubbliche governative, approvato con [R. decreto 6 giugno 1940, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-06;724); 
+ Veduto l'organico del personale delle Regie biblioteche pubbliche governative, approvato con [R. decreto 6 giugno 1940, n. 724](Approvazione%20di%20nuove%20tabelle%20organiche%20del%20personale%20delle%20Biblioteche%20pubbliche%20governative%20e%20delle%20Regie%20soprintendenze%20bibliografiche.%20040U0724.md); 
  Veduto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151); 
  Veduto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md); 
  Sentito il Consiglio dei Ministri; 

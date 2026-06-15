@@ -180,7 +180,7 @@ Gli attuali capi sezione, ispettori centrali e direttori provinciali, di 1ª e 2
 
 ### Art. 23.
 
-L'assegnazione dei punti di merito per gli anni 1903, 1904 e 1905, ai sensi del secondo comma dell'art. 336 del regolamento approvato con [R. decreto del 14 ottobre 1906, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-10-14;546), non ha piu' luogo. 
+L'assegnazione dei punti di merito per gli anni 1903, 1904 e 1905, ai sensi del secondo comma dell'art. 336 del regolamento approvato con [R. decreto del 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), non ha piu' luogo. 
  
  E' concesso pero' a tutti indistintamente gli attuali Ufficiali telegrafici e primi ufficiali, l'abbreviamento di nove mesi sul quadriennio o quinquennio in corso, a tacitazione definitiva di ogni e qualunque diritto relativo ai punti di merito, di cui sopra. 
  
@@ -221,7 +221,7 @@ I capi, d'ufficio, gia' di 1ª categoria dopo la sistemazione del loro stipendio
 
 ### Art. 27.
 
-I capi d'ufficio, gia' vice segretari nell'Amministrazione centrale, che nel maggio del 1898, sebbene dichiarati idonei dal Consiglio d'amministrazione al grado di segretario, secondo le norme del [R. decreto 18 febbraio 1897, n. 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-02-18;72), non furono promossi in applicazione dell'art. 9 del R. decreto organico 26 gennaio 1899, n. 43, qualora essi ne facciano domanda entro il termine di quindici giorni dalla pubblicazione della presente legge, o nominati segretari con lo stipendio di L. 3500 e prenderanno posto in ruolo di seguito a coloro che saranno promossi segretari a L. 3500 al 1° luglio 1907. 
+I capi d'ufficio, gia' vice segretari nell'Amministrazione centrale, che nel maggio del 1898, sebbene dichiarati idonei dal Consiglio d'amministrazione al grado di segretario, secondo le norme del [R. decreto 18 febbraio 1897, n. 72](Concernente%20le%20promozioni%20al%20grado%20di%20Segretario%20nellAmministrazione%20centrale%20delle%20Poste%20e%20dei%20Telegrafi.%20097U0072.md), non furono promossi in applicazione dell'art. 9 del R. decreto organico 26 gennaio 1899, n. 43, qualora essi ne facciano domanda entro il termine di quindici giorni dalla pubblicazione della presente legge, o nominati segretari con lo stipendio di L. 3500 e prenderanno posto in ruolo di seguito a coloro che saranno promossi segretari a L. 3500 al 1° luglio 1907. 
  
  Quelli dei funzionari di cui si tratta che al momento della nomina godranno uno stipendio superiore a L. 3500 conserveranno la differenza quale maggiore assegno ad personam da eliminarsi coi successivi aumenti. 
  
@@ -308,7 +308,7 @@ Gli attuali agenti subalterni fuori ruolo (vuotacassette, portapieghi e portalet
 
 ### Art. 36.
 
-I fattorini telegrafici ammessi anteriormente al regolamento organico approvato con [R. decreto del 14 ottobre 1900, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-10-14;374), e che rinunziarono al passaggio in ruolo ai sensi dell'[art. 9 della legge 11 luglio 1904, n. 344](Concernente%20la%20riforma%20dellordinamento%20organico%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20004U0344.md), saranno, a loro domanda, da presentarsi entro un mese dalla pubblicazione della presente legge, nominati vice commessi e vice portalettere a L. 900, conservando, quale assegno ad personam, la differenza fra tale stipendio di L. 900 e la retribuzione complessiva da ciascuno di essi attualmente percepita, ma con rinunzia a qualsiasi maggiore emolumento per recapito di telegrammi o per quadrienni anteriori al 1° luglio 1907. 
+I fattorini telegrafici ammessi anteriormente al regolamento organico approvato con [R. decreto del 14 ottobre 1900, n. 374](Che%20approva%20il%20Regolamento%20pel%20riordinamento%20dellAmministrazione%20delle%20Poste%20e%20dei%20Telegrafi.%20000U0374.md), e che rinunziarono al passaggio in ruolo ai sensi dell'[art. 9 della legge 11 luglio 1904, n. 344](Concernente%20la%20riforma%20dellordinamento%20organico%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20004U0344.md), saranno, a loro domanda, da presentarsi entro un mese dalla pubblicazione della presente legge, nominati vice commessi e vice portalettere a L. 900, conservando, quale assegno ad personam, la differenza fra tale stipendio di L. 900 e la retribuzione complessiva da ciascuno di essi attualmente percepita, ma con rinunzia a qualsiasi maggiore emolumento per recapito di telegrammi o per quadrienni anteriori al 1° luglio 1907. 
  
  Il maggiore assegno sara' gradatamente diminuito a misura degli aumenti di stipendio. 
  
@@ -322,7 +322,7 @@ I procacci, per lo scambio degli effetti postali, che attualmente sono addetti a
 
 ### Art. 38.
 
-Nel primo concorso da bandirsi dopo il 1° luglio 1907 pel posto di ufficiale d'ordine non si terra' conto dei limiti di eta' stabiliti dall'art. 149 del regolamento approvato con [R. decreto del 14 ottobre 1906, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-10-14;546), in riguardo degli agenti subalterni di ruolo e fuori ruolo, dei ricevitori e dei supplenti. 
+Nel primo concorso da bandirsi dopo il 1° luglio 1907 pel posto di ufficiale d'ordine non si terra' conto dei limiti di eta' stabiliti dall'art. 149 del regolamento approvato con [R. decreto del 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), in riguardo degli agenti subalterni di ruolo e fuori ruolo, dei ricevitori e dei supplenti. 
  
  Cosi', non si terra' conto del limite d'eta', stabilito dall'art. 282 del citato regolamento in ordine alle nomine di allievi guardafili da farsi nel luglio 1907. 
  
@@ -342,7 +342,7 @@ Gli impiegati ed agenti qualificati ottimi giusta il disposto del primo comma de
 
 ### Art. 41.
 
-Fino a quando non sara' pubblicato il regolamento per l'esecuzione della presente legge, resteranno in vigore, in quanto non siano contrarie alle disposizioni della legge stessa, le norme del regolamento approvato con [R. decreto del 14 ottobre 1906, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-10-14;546). 
+Fino a quando non sara' pubblicato il regolamento per l'esecuzione della presente legge, resteranno in vigore, in quanto non siano contrarie alle disposizioni della legge stessa, le norme del regolamento approvato con [R. decreto del 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md). 
  
  I posti di nuova creazione contemplati dalla presente legge sono conferiti a scelta del ministro. 
  

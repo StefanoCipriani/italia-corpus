@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti gli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-05-31;191#art_8) e [41 della legge 31 maggio 1975, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-05-31;191#art_41);
+Visti gli [articoli 8](Nuove%20norme%20per%20il%20servizio%20di%20leva.md) e [41 della legge 31 maggio 1975, n. 191](Nuove%20norme%20per%20il%20servizio%20di%20leva.md);
 
 Ravvisata la necessita' di ristrutturare la competenza territoriale dei consigli di leva per l'arruolamento nel C.E.M.M. di La Spezia e di Taranto;
 
@@ -26,7 +26,7 @@ EMANA Il seguente decreto:
 
 ## Articolo unico
 
-La tabella allegata alla [legge 31 maggio 1975, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-05-31;191), e' sostituita a decorrere dal 1 gennaio 1985 da quella unita al presente decreto.
+La tabella allegata alla [legge 31 maggio 1975, n. 191](Nuove%20norme%20per%20il%20servizio%20di%20leva.md), e' sostituita a decorrere dal 1 gennaio 1985 da quella unita al presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

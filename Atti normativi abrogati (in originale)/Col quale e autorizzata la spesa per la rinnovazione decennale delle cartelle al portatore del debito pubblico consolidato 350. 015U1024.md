@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [testo unico delle leggi sul Debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398), approvato con [R. decreto 17 luglio 1910, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-17;536), e il regolamento generale approvato con R. decreto febbraio 1911, n. 298;
+Visto il [testo unico delle leggi sul Debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con [R. decreto 17 luglio 1910, n. 536](Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), e il regolamento generale approvato con R. decreto febbraio 1911, n. 298;
 
 Attesa la urgenza di predisporre le operazioni occorrenti per il prossimo cambio decennale delle cartelle al portatore del Debito pubblico consolidato 3,50 per cento (1906);
 
@@ -46,7 +46,7 @@ La detta somma sara' inscritta nella parte straordinaria del bilancio del Minist
 
 ## Art. 3.
 
-Le iscrizioni relative ad assegni provvisori di rendite consolidate, al portatore e nominativi, pei quali nel corso di 30 anni continui dalla data della loro creazione, non sia stata chiesta la riunione o il riscatto nel modo ammesso dall'[art. 14 del testo unico delle leggi sul Debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398#art_14) 17 luglio 1910, n. 536, saranno annullate per prescrizione. 
+Le iscrizioni relative ad assegni provvisori di rendite consolidate, al portatore e nominativi, pei quali nel corso di 30 anni continui dalla data della loro creazione, non sia stata chiesta la riunione o il riscatto nel modo ammesso dall'[art. 14 del testo unico delle leggi sul Debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) 17 luglio 1910, n. 536, saranno annullate per prescrizione. 
  
  Per gli assegni, emessi da 30 o piu' anni alla data della presente legge, le iscrizioni saranno annullate quando la istanza di riunione o di riscatto non sia presentata entro due anni dalla data della medesima.
 

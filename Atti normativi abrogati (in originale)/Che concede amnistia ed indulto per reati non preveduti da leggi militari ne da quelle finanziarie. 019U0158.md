@@ -42,9 +42,9 @@ E' concessa amnistia ai colpevoli di renitenza di leva per i quali siano rimasti
 
 E' concessa amnistia: 
  
- a) per i reati previsti dagli [articoli 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_115), [118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_118), [122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_122), [123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_123), [125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_125), [126 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_126) e, in relazione ad essi, dagli articoli 134 a 137 dello stesso Codice; 
+ a) per i reati previsti dagli [articoli 115](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [118](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [122](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [123](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [125](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [126 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e, in relazione ad essi, dagli articoli 134 a 137 dello stesso Codice; 
  
- b) pei reati previsti dagli [articoli 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_246), [247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_247) e [251 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_251); 
+ b) pei reati previsti dagli [articoli 246](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [247](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [251 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  c) per tutti i reati commessi in occasione di moti popolari, pubbliche dimostrazioni e tumulti, determinati da cause politiche ed economiche; 
  
@@ -94,7 +94,7 @@ Dall'amnistia concessa con gli articoli 3, 5, 6 e 9 e dall'indulto contemplato n
 
 ## Art. 13.
 
-Nel caso di concorso di reati e di pene, l'amnistia si applica distintamente a ciascun reato; l'indulto si applica una volta dopo cumulate le pene, secondo le norme stabilite dagli [articoli 77 e seguenti del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_77).
+Nel caso di concorso di reati e di pene, l'amnistia si applica distintamente a ciascun reato; l'indulto si applica una volta dopo cumulate le pene, secondo le norme stabilite dagli [articoli 77 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 14.
 

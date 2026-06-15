@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le convenzioni stipulate il 21 maggio 1903 ed il 15 maggio 1913 tra il Governo e gli enti locali veneti per l'assetto edilizio della R. Universita' di Padova, approvate rispettivamente con le [leggi 10 gennaio 1904, n. 26 e 22 giugno 1913, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;856);
+Viste le convenzioni stipulate il 21 maggio 1903 ed il 15 maggio 1913 tra il Governo e gli enti locali veneti per l'assetto edilizio della R. Universita' di Padova, approvate rispettivamente con le [leggi 10 gennaio 1904, n. 26 e 22 giugno 1913, n. 856](Che%20approva%20sei%20convenzioni%20per%20il%20mantenimento%20la%20costruzione%20lassetto%20edilizio%20listituzione%20e%20la%20sistemazione%20di%20locali%20degli%20Istituti%20distruzione%20superiore%20di%20Milano%20Padova%20Firenze%20Pis_4e647048561f.md);
 
 Riconosciuta la necessita' di provvedere con unita' d'indirizzo all'approvazione ed esecuzione delle opere che sono ancora da ultimare e da eseguire per la Universita' su mentovata in base alle convenzioni anzidette;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per la istruzione pubblica di co
 
 ## Art. 1.
 
-E' approvata e resa esecutoria la convenzione suppletiva stipulata tra il Governo e gli enti locali veneti il 19 febbraio 1916 per provvedere con unita' di indirizzo all'approvazione ed alla esecuzione delle opere che sono ancora da ultimare e da eseguire in base alle convenzioni approvate con le sopracitate [leggi 16 gennaio 1904, n. 26 e 22 giugno 1913, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;856), per l'assetto edilizio della R.
+E' approvata e resa esecutoria la convenzione suppletiva stipulata tra il Governo e gli enti locali veneti il 19 febbraio 1916 per provvedere con unita' di indirizzo all'approvazione ed alla esecuzione delle opere che sono ancora da ultimare e da eseguire in base alle convenzioni approvate con le sopracitate [leggi 16 gennaio 1904, n. 26 e 22 giugno 1913, n. 856](Che%20approva%20sei%20convenzioni%20per%20il%20mantenimento%20la%20costruzione%20lassetto%20edilizio%20listituzione%20e%20la%20sistemazione%20di%20locali%20degli%20Istituti%20distruzione%20superiore%20di%20Milano%20Padova%20Firenze%20Pis_4e647048561f.md), per l'assetto edilizio della R.
 Universita' di Padova.
 
 ## Art. 2.

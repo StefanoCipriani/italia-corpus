@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 novembre 1932, n. 1623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-11-24;1623), recante provvedimenti temporanei per le deliberazioni di aumento di capitale mediante emissione di azioni privilegiate nelle societa' per azioni. 
+ E' convertito in legge il [R. decreto-legge 24 novembre 1932, n. 1623](Provvedimenti%20temporanei%20per%20le%20deliberazioni%20di%20aumento%20di%20capitale%20mediante%20emissione%20di%20azioni%20privilegiate%20nelle%20societa%20per%20azioni.%20032U1623.md), recante provvedimenti temporanei per le deliberazioni di aumento di capitale mediante emissione di azioni privilegiate nelle societa' per azioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

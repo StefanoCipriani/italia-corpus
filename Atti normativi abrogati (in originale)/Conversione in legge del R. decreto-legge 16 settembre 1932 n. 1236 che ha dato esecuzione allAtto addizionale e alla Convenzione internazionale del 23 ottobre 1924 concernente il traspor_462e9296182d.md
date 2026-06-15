@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 settembre 1932, n. 1236](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-16;1236), che ha dato esecuzione all'Atto addizionale alla Convenzione internazionale del 23 ottobre 1924, concernente il trasporto delle merci per ferrovia (C.I.M.). 
+ E' convertito in legge il [R. decreto-legge 16 settembre 1932, n. 1236](Approvazione%20dellAtto%20addizionale%20alla%20Convenzione%20internazionale%20del%2023%20ottobre%201924%20concernente%20il%20trasporto%20delle%20merci%20per%20ferrovia%20C.I.M..%20032U1236.md), che ha dato esecuzione all'Atto addizionale alla Convenzione internazionale del 23 ottobre 1924, concernente il trasporto delle merci per ferrovia (C.I.M.). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

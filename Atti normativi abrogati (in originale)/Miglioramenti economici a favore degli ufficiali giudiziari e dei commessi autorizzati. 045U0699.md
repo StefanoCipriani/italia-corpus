@@ -16,21 +16,21 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo organico dell'ordinamento del personale degli ufficiali giudiziari approvato col [R. decreto 28 dicembre 1924, n. 2271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-28;2271);
+Visto il testo organico dell'ordinamento del personale degli ufficiali giudiziari approvato col [R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md);
 
-Vista la [legge 25 giugno 1940, n. 828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-25;828);
+Vista la [legge 25 giugno 1940, n. 828](Provvedimenti%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi.%20040U0828.md);
 
-Vista la [legge 22 maggio 1942, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-22;703);
+Vista la [legge 22 maggio 1942, n. 703](Provvedimenti%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi.%20042U0703.md);
 
-Visto il [R. decreto-legge 16 dicembre 1942, n. 1498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-12-16;1498);
+Visto il [R. decreto-legge 16 dicembre 1942, n. 1498](Provvidenze%20a%20favore%20di%20personali%20dello%20Stato%20e%20degli%20Enti%20ausiliari%20in%20dipendenza%20di%20offese%20nemiche.%20042U1498.md);
 
-Visto il [R. decreto-legge 6 dicembre 1943, n. 18/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;18)
+Visto il [R. decreto-legge 6 dicembre 1943, n. 18/B](Miglioramenti%20economici%20di%20carattere%20temporaneo%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20degli%20enti%20ausiliari%20dello%20Stato%20e%20di%20diritto%20pubblico.%20043U0018.md)
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;328);
+Visto il [decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md);
 
 Visto il [decreto legislativo Luogotenenziale 11 gennaio 1945, n. 3](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md);
 
@@ -42,7 +42,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-La misura della retribuzione minima annua garantita dallo Stato agli ufficiali giudiziari, a norma dell'[art. 2 della legge 25 giugno 1940, n. 828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-25;828#art_2), e' aumentata del cinquanta per cento.
+La misura della retribuzione minima annua garantita dallo Stato agli ufficiali giudiziari, a norma dell'[art. 2 della legge 25 giugno 1940, n. 828](Provvedimenti%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi.%20040U0828.md), e' aumentata del cinquanta per cento.
 
 ## Art. 2.
 
@@ -50,9 +50,9 @@ L'indennita' attualmente spettante agli ufficiali giudiziari a titolo di aggiunt
 
 ## Art. 3.
 
-L'importo dell'integrazione temporanea di cui all'[art. 1 del R. decreto-legge 6 dicembre 1943, n. 18/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;18#art_1), esteso agli ufficiali giudiziari con l'[art. 2 del decreto legislativo Luogotenenziale 11 gennaio 1945, n. 3](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md), sara' applicato sul totale lordo mensile risultante dalle nuove misure di cui agli articoli 1 e 2 del presente decreto e dall'assegno temporaneo di guerra. 
+L'importo dell'integrazione temporanea di cui all'[art. 1 del R. decreto-legge 6 dicembre 1943, n. 18/B](Miglioramenti%20economici%20di%20carattere%20temporaneo%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20degli%20enti%20ausiliari%20dello%20Stato%20e%20di%20diritto%20pubblico.%20043U0018.md), esteso agli ufficiali giudiziari con l'[art. 2 del decreto legislativo Luogotenenziale 11 gennaio 1945, n. 3](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md), sara' applicato sul totale lordo mensile risultante dalle nuove misure di cui agli articoli 1 e 2 del presente decreto e dall'assegno temporaneo di guerra. 
  
- E' estesa agli ufficiali giudiziari la modifica apportata con l'ultimo comma dell'[art. 4 del decreto legislativo Luogotenenziale 13 marzo 1945, n. 116](Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md), all'ultima linea della tabella di cui all'[art. 1 del R. decreto-legge 6 dicembre 1943, n. 18/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;18#art_1).
+ E' estesa agli ufficiali giudiziari la modifica apportata con l'ultimo comma dell'[art. 4 del decreto legislativo Luogotenenziale 13 marzo 1945, n. 116](Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md), all'ultima linea della tabella di cui all'[art. 1 del R. decreto-legge 6 dicembre 1943, n. 18/B](Miglioramenti%20economici%20di%20carattere%20temporaneo%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20degli%20enti%20ausiliari%20dello%20Stato%20e%20di%20diritto%20pubblico.%20043U0018.md).
 
 ## Art. 4.
 
@@ -60,7 +60,7 @@ In aggiunta alle competenze in vigore, e' concesso agli ufficiali giudiziari un 
  
  Ai fini dell'applicazione del presente articolo i mesi vanno considerati di trenta giorni. 
  
- Detto assegno non va compreso fra le competenze su cui e' computabile l'integrazione temporanea prevista dagli [articoli 1 del R. decreto-legge 6 dicembre 1943, n. 18/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;18#art_1), e 2 del [decreto legislativo Luogotenenziale 11 gennaio 1945, n. 3](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md). 
+ Detto assegno non va compreso fra le competenze su cui e' computabile l'integrazione temporanea prevista dagli [articoli 1 del R. decreto-legge 6 dicembre 1943, n. 18/B](Miglioramenti%20economici%20di%20carattere%20temporaneo%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20degli%20enti%20ausiliari%20dello%20Stato%20e%20di%20diritto%20pubblico.%20043U0018.md), e 2 del [decreto legislativo Luogotenenziale 11 gennaio 1945, n. 3](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md). 
  
  L'assegno di cui sopra non e' cedibile, ne' pignorabile, ne' sequestrabile, ne' computabile agli effetti del trattamento di quiescenza, e non e' corrisposto agli ufficiali giudiziari in congedo straordinario, sospesi dalle funzioni o che trovansi in una posizione la quale, a norma di legge, non possa considerarsi di servizio attivo.
 
@@ -74,7 +74,7 @@ Per la durata dell'attuale stato di guerra le percentuali spettanti agli ufficia
 
 Gli ufficiali giudiziari corrisponderanno ai commessi autorizzati da loro dipendenti, salvo rimborso da parte dell'Erario, l'aumento del 50% della retribuzione mensile dovuta ai commessi medesimi alla data del 31 gennaio 1945. 
  
- Detta nuova misura e' utile ai fini della determinazione dell'importo della integrazione temporanea di cui agli [articoli 1 del R. decreto-legge 6 dicembre 1943, n. 18/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;18#art_1), e 6 del [decreto legislativo Luogotenenziale 11 gennaio 1945, n. 3](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md),
+ Detta nuova misura e' utile ai fini della determinazione dell'importo della integrazione temporanea di cui agli [articoli 1 del R. decreto-legge 6 dicembre 1943, n. 18/B](Miglioramenti%20economici%20di%20carattere%20temporaneo%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20degli%20enti%20ausiliari%20dello%20Stato%20e%20di%20diritto%20pubblico.%20043U0018.md), e 6 del [decreto legislativo Luogotenenziale 11 gennaio 1945, n. 3](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md),
 
 ## Art. 7.
 
@@ -82,7 +82,7 @@ Gli ufficiali giudiziari corrisponderanno ai commessi autorizzati da loro dipend
  
  Ai fini dell'applicazione del presente articolo i mesi vanno considerati di trenta giorni. 
  
- Detto assegno non va compreso fra le competenze su cui e' computabile l'integrazione temporanea prevista dagli [articoli 1 del R. decreto-legge 6 dicembre 1943, n. 18/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;18#art_1), e 6 del [decreto legislativo Luogotenenziale 11 gennaio 1945, n. 3](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md). 
+ Detto assegno non va compreso fra le competenze su cui e' computabile l'integrazione temporanea prevista dagli [articoli 1 del R. decreto-legge 6 dicembre 1943, n. 18/B](Miglioramenti%20economici%20di%20carattere%20temporaneo%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20degli%20enti%20ausiliari%20dello%20Stato%20e%20di%20diritto%20pubblico.%20043U0018.md), e 6 del [decreto legislativo Luogotenenziale 11 gennaio 1945, n. 3](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md). 
  
  L'assegno di cui sopra non e' corrisposto ai commessi autorizzati che trovansi in una posizione la quale, a norma delle disposizioni vigenti, non possa considerarsi di servizio attivo.
 
@@ -100,7 +100,7 @@ Il pagamento delle somme dovute dall'Erario agli ufficiali giudiziari a norma de
 
 ## Art. 11.
 
-L'indennita' giornaliera di cui all'[art. 2 del R. decreto-legge 16 dicembre 1942, n. 1498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-12-16;1498#art_2), e quella di disagiatissima residenza di cui agli [articoli 10 del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;328#art_10), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;3) e [7 del decreto legislativo Luogotenenziale 11 gennaio 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-11;7), [n. 3](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md), sono soppresse.
+L'indennita' giornaliera di cui all'[art. 2 del R. decreto-legge 16 dicembre 1942, n. 1498](Provvidenze%20a%20favore%20di%20personali%20dello%20Stato%20e%20degli%20Enti%20ausiliari%20in%20dipendenza%20di%20offese%20nemiche.%20042U1498.md), e quella di disagiatissima residenza di cui agli [articoli 10 del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;3) e [7 del decreto legislativo Luogotenenziale 11 gennaio 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-11;7), [n. 3](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md), sono soppresse.
 
 ## Art. 12.
 

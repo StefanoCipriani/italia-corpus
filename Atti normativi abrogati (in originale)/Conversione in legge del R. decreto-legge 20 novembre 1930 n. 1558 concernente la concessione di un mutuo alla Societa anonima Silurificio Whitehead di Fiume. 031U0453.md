@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 novembre 1930, n. 1558](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1558), concernente la concessione di un mutuo alla Societa' anonima «Silurificio Whitehead» di Fiume. 
+ E' convertito in legge il [R. decreto-legge 20 novembre 1930, n. 1558](Concessione%20di%20un%20mutuo%20alla%20Societa%20anonima%20%20Silurificio%20Whitehead%20%20di%20Fiume.%20030U1558.md), concernente la concessione di un mutuo alla Societa' anonima «Silurificio Whitehead» di Fiume. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

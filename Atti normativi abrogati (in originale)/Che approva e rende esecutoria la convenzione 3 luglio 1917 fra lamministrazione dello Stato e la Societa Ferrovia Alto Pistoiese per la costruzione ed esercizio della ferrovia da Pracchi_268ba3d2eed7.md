@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tranvie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447); 
  
- Viste le [leggi 27 giugno 1912, n. 638; 14 luglio 1912, n. 835; 29 dicembre 1912, n. 1365; 8 giugno 1913, numero 631; 23 luglio 1914, n. 742 e decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742) Regio 8 marzo 1914, n. 428; 
+ Viste le [leggi 27 giugno 1912, n. 638; 14 luglio 1912, n. 835; 29 dicembre 1912, n. 1365; 8 giugno 1913, numero 631; 23 luglio 1914, n. 742 e decreto](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md) Regio 8 marzo 1914, n. 428; 
  
  Sentito il Consiglio superiore dei lavori pubblici e il Consiglio di Stato; 
  

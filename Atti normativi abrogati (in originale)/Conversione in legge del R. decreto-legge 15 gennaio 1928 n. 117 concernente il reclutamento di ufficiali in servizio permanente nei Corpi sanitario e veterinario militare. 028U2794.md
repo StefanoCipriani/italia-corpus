@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 gennaio 1928, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-15;117), concernente il reclutamento di ufficiali in servizio permanente nei Corpi sanitario e veterinario militare. 
+ E' convertito in legge il [R. decreto-legge 15 gennaio 1928, n. 117](Reclutamento%20di%20ufficiali%20in%20servizio%20permanente%20nei%20corpi%20sanitario%20e%20veterinario%20militare.%20028U0117.md), concernente il reclutamento di ufficiali in servizio permanente nei Corpi sanitario e veterinario militare. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

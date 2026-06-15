@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli articoli 17 e 175 del testo unico delle disposizioni sull'ordinamento degli uffici giudiziari e del personale della magistratura emanato con [R. decreto 30 dicembre 1923, numero 2786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2786);
+Visti gli articoli 17 e 175 del testo unico delle disposizioni sull'ordinamento degli uffici giudiziari e del personale della magistratura emanato con [R. decreto 30 dicembre 1923, numero 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md);
 
-Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_77) e [185 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_185). sull'ordinamento gerarchico delle Amministrazioni dello Stato;
+Visti gli [articoli 77](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [185 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). sull'ordinamento gerarchico delle Amministrazioni dello Stato;
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,9 +24,9 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia 
 
 ## Art. 1.
 
-Fermo restando il limite numerico stabilito dall'art. 176, ultimo comma, del [R. decreto 30 dicembre 1923, n. 2786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2786), puo', per esigenze di servizio, essere collocato a disposizione del Ministro per la giustizia, a termine dell'art. 175 dello stesso decreto, un procuratore generale di Corte di appello, da applicarsi alla Corte di cassazione del Regno, in deroga all'articolo 17 del decreto medesimo, per sostituirvi l'avvocato generale ed esercitarne le funzioni nel caso che questi ne sia impedito. 
+Fermo restando il limite numerico stabilito dall'art. 176, ultimo comma, del [R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), puo', per esigenze di servizio, essere collocato a disposizione del Ministro per la giustizia, a termine dell'art. 175 dello stesso decreto, un procuratore generale di Corte di appello, da applicarsi alla Corte di cassazione del Regno, in deroga all'articolo 17 del decreto medesimo, per sostituirvi l'avvocato generale ed esercitarne le funzioni nel caso che questi ne sia impedito. 
  
- L'applicazione e' temporanea; e alla scadenza del termine di mesi sei, puo' essere prorogata con decreto Reale, previa deliberazione del Consiglio dei Ministri, per un altro termine di durata non superiore ad un anno, rimanendo fermo per tale ulteriore periodo il collocamento a disposizione; e, durante l'applicazione, il detto procuratore generale percepisce sul fondo disponibile in bilancio per vacanze di posti un assegno uguale allo stipendio spettante al grado terzo, aumentato, del relativo supplemento di servizio e dell'assegno annuo per spese di rappresentanza di cui [lettera c), del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_letc).
+ L'applicazione e' temporanea; e alla scadenza del termine di mesi sei, puo' essere prorogata con decreto Reale, previa deliberazione del Consiglio dei Ministri, per un altro termine di durata non superiore ad un anno, rimanendo fermo per tale ulteriore periodo il collocamento a disposizione; e, durante l'applicazione, il detto procuratore generale percepisce sul fondo disponibile in bilancio per vacanze di posti un assegno uguale allo stipendio spettante al grado terzo, aumentato, del relativo supplemento di servizio e dell'assegno annuo per spese di rappresentanza di cui [lettera c), del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 2.
 

@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 gennaio 1932, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-01-25;199), che ha dato approvazione al Protocollo addizionale all'Accordo commerciale italo-francese del 7 marzo 1928 per l'importazione dei vini italiani in Francia, Protocollo stipulato in Roma, tra l'Italia e la Francia, il 16 novembre 1931. 
+ E' convertito in legge il [R. decreto-legge 25 gennaio 1932, n. 199](Approvazione%20del%20Protocollo%20addizionale%20allAccordo%20commerciale%20italo-francese%20del%207%20marzo%201928%20per%20limportazione%20dei%20vini%20italiani%20in%20Francia%20Protocollo%20stipulato%20in%20Roma%20tra%20lItalia%20e%20la_1e25fba96949.md), che ha dato approvazione al Protocollo addizionale all'Accordo commerciale italo-francese del 7 marzo 1928 per l'importazione dei vini italiani in Francia, Protocollo stipulato in Roma, tra l'Italia e la Francia, il 16 novembre 1931. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 20 maggio 1932 - Anno X 
  

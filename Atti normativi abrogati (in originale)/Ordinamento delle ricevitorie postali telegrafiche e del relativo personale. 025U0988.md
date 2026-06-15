@@ -14,23 +14,23 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge n. 520 del 23 aprile 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-23;520), riguardante l'ordinamento dell'Amministrazione postale e telegrafica;
+Visto il [R. decreto-legge n. 520 del 23 aprile 1925](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), riguardante l'ordinamento dell'Amministrazione postale e telegrafica;
 
 Visto il [R. decreto-legge n. 1127 del 23 maggio 1924](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), riguardante l'ordinamento delle ricevitorie postali, telegrafiche e telefoniche e del relativo personale;
 
 Visto il [R. decreto-legge n. 2225 del 27 settembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-27;2225), modificato col [R. decreto-legge n. 2293 del 28 dicembre 1924](Modificazioni%20ai%20Regi%20decreti%20n.%202225%20del%2027%20settembre%201923%20e%20n.%201127%20del%2023%20maggio%201924%20concernenti%20le%20cauzioni%20dei%20ricevitori%20postali%20telegrafici%20telefonici.%20024U2293.md), per la istituzione di una Cassa mutua per le cauzioni dei ricevitori postali, telegrafici e telefonici;
 
-Visto il regolamento tuttora vigente circa l'ordinamento delle anzidette ricevitorie, approvato col [R. decreto n. 196 del 13 febbraio 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-02-13;196);
+Visto il regolamento tuttora vigente circa l'ordinamento delle anzidette ricevitorie, approvato col [R. decreto n. 196 del 13 febbraio 1921](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20ottobre%201919%20n.%202100%20modificato%20col%20R.%20decreto-legge%2030%20settembre%201920%20n.%201441%20riflettente%20lordinamento%20delle%20ricevitorie_1844c5b600cd.md);
 
 Visto il [R. decreto-legge n. 2557 del 28 dicembre 1919](Che%20accorda%20ai%20ricevitori%20postelegrafonici%20ed%20alle%20rispettive%20famiglie%20le%20facilitazioni%20ferroviarie%20concesse%20agli%20impiegati%20civili%20dello%20Stato.%20019U2557.md), che accorda facilitazioni ferroviarie ai nominati ricevitori e alle loro famiglie;
 
-Visti i [Regi decreti-legge n. 1825 del 13 novembre 1924](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md), [n. 2686 del 2 dicembre 1923](Norme%20per%20la%20risoluzione%20delle%20controversie%20su%20diritti%20derivanti%20dal%20contratto%20di%20impiego%20privato.%20023U2686.md), modificato dal [R. decreto numero 1375 dell'8 agosto 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-08;1375), e [n. 1934 del 13 novembre 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-13;1934), riflettente il contratto d'impiego privato;
+Visti i [Regi decreti-legge n. 1825 del 13 novembre 1924](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md), [n. 2686 del 2 dicembre 1923](Norme%20per%20la%20risoluzione%20delle%20controversie%20su%20diritti%20derivanti%20dal%20contratto%20di%20impiego%20privato.%20023U2686.md), modificato dal [R. decreto numero 1375 dell'8 agosto 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-08;1375), e [n. 1934 del 13 novembre 1924](Approvazione%20del%20regolamento%20per%20il%20procedimento%20davanti%20le%20Commissioni%20arbitrali%20provinciali%20ed%20alla%20Commissione%20centrale%20per%20limpiego%20privato.%20024U1934.md), riflettente il contratto d'impiego privato;
 
 Visto il [R. decreto-legge n. 843 dell'8 maggio 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;843), relativo all'ordinamento gerarchico delle Amministrazioni dello Stato;
 
 Visto il [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), concernente l'assicurazione obbligatoria contro la invalidita' e la vecchiaia per le persone che prestano l'opera loro alle dipendenze altrui;
 
-Visto il [R. decreto n. 3268 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3268), che approva il testo della legge del bollo;
+Visto il [R. decreto n. 3268 del 30 dicembre 1923](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo della legge del bollo;
 
 Visto il [R. decreto-legge n. 325 del 5 marzo 1925](Istituzione%20e%20concessione%20degli%20uffici%20secondari%20postali%20telegrafici%20e%20telefonici.%20025U0325.md), riguardante l'istituzione e concessione degli uffici secondari;
 
@@ -70,7 +70,7 @@ Le ricevitorie sono di tre classi:
 
 ### Art. 3.
 
-Le ricevitorie vengono istituite, trasformate o soppresse per decreto Ministeriale secondo le norme del [R. decreto-legge n. 520 del 23 aprile 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-23;520), del presente decreto e del regolamento di esecuzione. 
+Le ricevitorie vengono istituite, trasformate o soppresse per decreto Ministeriale secondo le norme del [R. decreto-legge n. 520 del 23 aprile 1925](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), del presente decreto e del regolamento di esecuzione. 
  
  A giudizio dell'Amministrazione possono essere soppresse quelle ricevitorie le quali siansi dimostrate notevolmente passive negli ultimi due esercizi finanziari o non necessarie ai fini del pubblico interesse. 
  
@@ -157,7 +157,7 @@ La concessione delle ricevitorie senza concorso ha luogo altresi':
  
  a) per deliberazione del Ministero a favore dei ricevitori che vengano a trovarsi nelle condizioni di cui al successivo art. 24 e dei collettori ritenuti idonei e in servizio almeno da tre anni ove la collettoria sia trasformata in ricevitoria; 
  
- b) a favore degli invalidi di guerra, secondo le norme di cui all'art. 67 del regolamento approvato con [decreto Luogotenenziale 28 giugno 1917, n. 1158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-06-28;1158); e, in linea subordinata, a favore delle madri, delle vedove, delle sorelle nubili bisognose, dei fratelli dei caduti in guerra che siano unico sostegno della famiglia del militare defunto, delle vedove degli impiegati e degli agenti dell'Amministrazione delle poste e dei telegrafi, per le ricevitorie con retribuzione non superiore a L. 6000 che si siano rese disponibili dopo la pubblicazione del vigente regolamento, approvato con [R. decreto 13 febbraio 1921, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-02-13;196), e per le quali non sia gia' stato provveduto altrimenti, o che si renderanno disponibili dopo la pubblicazione del presente decreto.
+ b) a favore degli invalidi di guerra, secondo le norme di cui all'art. 67 del regolamento approvato con [decreto Luogotenenziale 28 giugno 1917, n. 1158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-06-28;1158); e, in linea subordinata, a favore delle madri, delle vedove, delle sorelle nubili bisognose, dei fratelli dei caduti in guerra che siano unico sostegno della famiglia del militare defunto, delle vedove degli impiegati e degli agenti dell'Amministrazione delle poste e dei telegrafi, per le ricevitorie con retribuzione non superiore a L. 6000 che si siano rese disponibili dopo la pubblicazione del vigente regolamento, approvato con [R. decreto 13 febbraio 1921, n. 196](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20ottobre%201919%20n.%202100%20modificato%20col%20R.%20decreto-legge%2030%20settembre%201920%20n.%201441%20riflettente%20lordinamento%20delle%20ricevitorie_1844c5b600cd.md), e per le quali non sia gia' stato provveduto altrimenti, o che si renderanno disponibili dopo la pubblicazione del presente decreto.
 
 ### Art. 11.
 
@@ -610,17 +610,17 @@ Il Ministro, su richiesta dell'interessato, puo' derogare, a favore dell'attuale
 
 ### Art. 52.
 
-Sono abrogate, con effetto retroattivo al giorno della loro andata in vigore, le disposizioni dell'art. 68 del regolamento approvato col [R. decreto 13 febbraio 1921, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-02-13;196), circa l'obbligo del contributo a carico dell'Amministrazione per l'assicurazione dei supplenti.
+Sono abrogate, con effetto retroattivo al giorno della loro andata in vigore, le disposizioni dell'art. 68 del regolamento approvato col [R. decreto 13 febbraio 1921, n. 196](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20ottobre%201919%20n.%202100%20modificato%20col%20R.%20decreto-legge%2030%20settembre%201920%20n.%201441%20riflettente%20lordinamento%20delle%20ricevitorie_1844c5b600cd.md), circa l'obbligo del contributo a carico dell'Amministrazione per l'assicurazione dei supplenti.
 
 ### Art. 53.
 
-Fino a che non saranno pubblicati il regolamento d'esecuzione del presente decreto e le norme in applicazione del [R. decreto-legge n. 2225 del 27 settembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-27;2225), modificato col [R. decreto-legge del 28 dicembre 1924, n. 2293](Modificazioni%20ai%20Regi%20decreti%20n.%202225%20del%2027%20settembre%201923%20e%20n.%201127%20del%2023%20maggio%201924%20concernenti%20le%20cauzioni%20dei%20ricevitori%20postali%20telegrafici%20telefonici.%20024U2293.md), riguardante l'istituzione di una Cassa mutua per le cauzioni dei ricevitori postali, telegrafici, telefonici, saranno applicate, in materia di cauzioni, le disposizioni contenute nel regolamento e annesso allegato A approvato con [R. decreto 13 febbraio 1921, n 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-02-13;196), che non si trovino in contrasto con il presente decreto. 
+Fino a che non saranno pubblicati il regolamento d'esecuzione del presente decreto e le norme in applicazione del [R. decreto-legge n. 2225 del 27 settembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-27;2225), modificato col [R. decreto-legge del 28 dicembre 1924, n. 2293](Modificazioni%20ai%20Regi%20decreti%20n.%202225%20del%2027%20settembre%201923%20e%20n.%201127%20del%2023%20maggio%201924%20concernenti%20le%20cauzioni%20dei%20ricevitori%20postali%20telegrafici%20telefonici.%20024U2293.md), riguardante l'istituzione di una Cassa mutua per le cauzioni dei ricevitori postali, telegrafici, telefonici, saranno applicate, in materia di cauzioni, le disposizioni contenute nel regolamento e annesso allegato A approvato con [R. decreto 13 febbraio 1921, n 196](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20ottobre%201919%20n.%202100%20modificato%20col%20R.%20decreto-legge%2030%20settembre%201920%20n.%201441%20riflettente%20lordinamento%20delle%20ricevitorie_1844c5b600cd.md), che non si trovino in contrasto con il presente decreto. 
  
  Fino a quando non avra' effetto la garanzia cauzionale della Cassa mutua per le cauzioni tanto per le ricevitorie che per gli uffici secondari non sara' applicato l'art. 17 del presente decreto, ma l'[art. 17 del R. decreto n. 1127 del 23 maggio 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;1127#art_17), senza le modificazioni apportatevi con il [R. decreto n. 2293 del 28 dicembre 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-28;2293). 
  
  L'art. 11 dell'allegato A sopra indicato e' applicabile anche a coloro che a titolo di successione sono nominati gerenti o ricevitori dopo la pubblicazione del [R. decreto 2 ottobre 1919, n. 2101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;2101). 
  
- Eccettuati i casi di elevazione di classe delle ricevitorie, riunioni di servizi e passaggi ad altre ricevitorie, per cui sono applicabili in materia di cauzione, le disposizioni contenute nel regolamento e annesso allegato A approvato con [R. decreto 13 febbraio 1921, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-02-13;196), i ricevitori attualmente in servizio che rimangono nelle ricevitorie in atto gestite sono tenuti a prestare l'eventuale complemento di cauzione entro sei mesi dalla partecipazione della liquidazione della nuova retribuzione.
+ Eccettuati i casi di elevazione di classe delle ricevitorie, riunioni di servizi e passaggi ad altre ricevitorie, per cui sono applicabili in materia di cauzione, le disposizioni contenute nel regolamento e annesso allegato A approvato con [R. decreto 13 febbraio 1921, n. 196](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20ottobre%201919%20n.%202100%20modificato%20col%20R.%20decreto-legge%2030%20settembre%201920%20n.%201441%20riflettente%20lordinamento%20delle%20ricevitorie_1844c5b600cd.md), i ricevitori attualmente in servizio che rimangono nelle ricevitorie in atto gestite sono tenuti a prestare l'eventuale complemento di cauzione entro sei mesi dalla partecipazione della liquidazione della nuova retribuzione.
 
 ### Art. 54.
 
@@ -634,7 +634,7 @@ Il [secondo comma dell'art. 1 del R. decreto-legge n. 2557 del 28 dicembre 1919]
 
 ### Art. 56.
 
-Entro il 31 dicembre 1925 sara' pubblicato un nuovo regolamento e frattanto rimarranno in vigore le disposizioni del regolamento approvato col [R. decreto 13 febbraio 1921, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-02-13;196), tranne quelle riflettenti materie che siano diversamente regolate dal presente decreto ovvero siano contrarie a singole disposizioni di esso.
+Entro il 31 dicembre 1925 sara' pubblicato un nuovo regolamento e frattanto rimarranno in vigore le disposizioni del regolamento approvato col [R. decreto 13 febbraio 1921, n. 196](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20ottobre%201919%20n.%202100%20modificato%20col%20R.%20decreto-legge%2030%20settembre%201920%20n.%201441%20riflettente%20lordinamento%20delle%20ricevitorie_1844c5b600cd.md), tranne quelle riflettenti materie che siano diversamente regolate dal presente decreto ovvero siano contrarie a singole disposizioni di esso.
 
 ### Art. 57.
 

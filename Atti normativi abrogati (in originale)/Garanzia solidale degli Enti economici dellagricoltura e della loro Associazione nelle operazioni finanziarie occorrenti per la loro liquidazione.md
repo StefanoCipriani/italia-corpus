@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 18 maggio 1942, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-18;566), concernente il riordinamento degli Enti economici dell'agricoltura e dei Consorzi agrari;
+Vista la [legge 18 maggio 1942, n. 566](Riordinamento%20degli%20Enti%20economici%20dellagricoltura%20e%20dei%20Consorzi%20agrari.%20042U0566.md), concernente il riordinamento degli Enti economici dell'agricoltura e dei Consorzi agrari;
 
-Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;367), relativo all'istituzione dell'Ufficio nazionale statistico economico dell'agricoltura (U.N.S.E.A.) e soppressione degli Enti economici dell'agricoltura e della loro Associazione;
+Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 367](../Decreti%20legislativi%20luogotenenziali/Istituzione%20dellUfficio%20nazionale%20statistico%20economico%20dellagricoltura%20e%20soppressione%20degli%20Enti%20economici%20dellagricoltura%20e%20della%20loro%20associazione.%20045U0367.md), relativo all'istituzione dell'Ufficio nazionale statistico economico dell'agricoltura (U.N.S.E.A.) e soppressione degli Enti economici dell'agricoltura e della loro Associazione;
 
 Visto l'[articolo 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto l'[art. 3 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3);
+Visto l'[art. 3 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

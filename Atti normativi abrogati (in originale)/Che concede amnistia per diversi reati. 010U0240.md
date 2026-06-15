@@ -26,9 +26,9 @@ E' concessa amnistia per i seguenti reati:
  
  a) reati di azione pubblica preveduti nel Regio editto sulla stampa e nella [legge 6 maggio 1877, numero 3814](Che%20abroga%20lart.%2049%20della%20legge%20sullordinamento%20dei%20giurati%20e%20la%20prima%20parte%20dellart.%2010%20di%20quella%20sulla%20stampa%20e%20vi%20sostituisce%20altre%20disposizioni.%20077U3814.md); 
  
- b) reati preveduti dagli [articoli 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_125), [126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_126), [140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_140), [246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_246), [247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_247) e [251 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_251); 
+ b) reati preveduti dagli [articoli 125](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [126](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [140](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [246](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [247](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [251 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- c) reati di esercizio arbitrario ([art. 235 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_235)), determinati da pretese ragioni di usi civici; 
+ c) reati di esercizio arbitrario ([art. 235 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)), determinati da pretese ragioni di usi civici; 
  
  d) reati preveduti negli [articoli 1](Sui%20reati%20commessi%20con%20materie%20esplodenti.%20094U0314.md) e [5 della legge 19 luglio 1894, n. 314](Sui%20reati%20commessi%20con%20materie%20esplodenti.%20094U0314.md), sulle materie esplodenti; 
  
@@ -42,9 +42,9 @@ E' pure concessa amnistia per i seguenti reati:
  
  a) furti semplici commessi su legna da ardere o, per indigenza, su cose destinate all'alimentazione umana, quando il valore della cosa non superi le L. 30; 
  
- b) spigolamento, abbandono di animali su fondo altrui (art. 405 e 426 capoverso [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398)); 
+ b) spigolamento, abbandono di animali su fondo altrui (art. 405 e 426 capoverso [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)); 
  
- c) delitti previsti dall'[art. 375, n. 1 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_375-num1); 
+ c) delitti previsti dall'[art. 375, n. 1 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  d) contravvenzioni al disposto degli articoli 154, 180 e 223 del Codice di commercio, purche' nel termine di un mese dalla pubblicazione del presente decreto si adempiano gli obblighi contemplati nelle predette disposizioni; 
  

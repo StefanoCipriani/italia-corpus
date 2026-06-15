@@ -39,7 +39,7 @@ Tenenti. . . . . . . . . . . . . . . . . . . . . . . . . .\
  
  Nel numero sopra indicato sono compresi gli ufficiali di complemento dello Stato Maggiore e per la Direzione macchine in servizio per ferme volontarie. 
  
- Nel determinare il numero degli ufficiali da iscrivere annualmente nel ruolo speciale di cui al presente articolo si terra' conto, oltre che dei suddetti ufficiali di complemento in servizio con ferme volontarie e degli ufficiali inferiori dello Stato Maggiore e per la Direzione macchine delle categorie in congedo richiamati in temporaneo servizio attivo per esigenze di carattere ordinario, anche della spesa derivante dalla nomina in soprannumero a guardiamarina e a sottotenente in S.P.E., di cui al [R. decreto-legge 28 febbraio 1935, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-02-28;162). 
+ Nel determinare il numero degli ufficiali da iscrivere annualmente nel ruolo speciale di cui al presente articolo si terra' conto, oltre che dei suddetti ufficiali di complemento in servizio con ferme volontarie e degli ufficiali inferiori dello Stato Maggiore e per la Direzione macchine delle categorie in congedo richiamati in temporaneo servizio attivo per esigenze di carattere ordinario, anche della spesa derivante dalla nomina in soprannumero a guardiamarina e a sottotenente in S.P.E., di cui al [R. decreto-legge 28 febbraio 1935, n. 162](Autorizzazione%20a%20nominare%20in%20soprannumero%20guardiamarina%20sottotenenti%20del%20Genio%20navale%20e%20sottotenenti%20delle%20Armi%20navali.%20035U0162.md). 
  
  Il numero degli ufficiali previsti dai precedenti comma 2° e 3° dovra' pertanto trovare compenso in altrettanti posti vacanti nei ruoli di cui al 1° comma del presente articolo.
 
@@ -59,7 +59,7 @@ Per l'avanzamento nel ruolo speciale non sono prescritti esami ne' corsi d'istru
  
  Le promozioni nel ruolo speciale avranno luogo distintamente per ciascun corpo e saranno effettuate col criterio dell'anzianita' per i guardiamarina ed i sottotenenti per la Direzione macchine, ed a scelta assoluta per i sottotenenti di vascello ed i tenenti per la Direzione macchine, indipendentemente dal posto da essi gia' occupato nel corrispondente ruolo ordinario di ufficiali di complemento. 
  
- Le condizioni di imbarco per la promozione sono quelle stabilite per i pari grado del S.P.E.; quelle minime di permanenza nel grado sono di anni tre per i guardiamarina e sottotenenti per la Direzione macchine e di anni sette per i sottotenenti di vascello e tenenti per la Direzione macchine, fermo restando in ogni caso il disposto del 1° comma dell'articolo 75 del testo unico delle leggi sullo avanzamento degli ufficiali della Regia marina, approvato con [Regio decreto 7 novembre 1929, n. 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-07;2007), e successive modificazioni.
+ Le condizioni di imbarco per la promozione sono quelle stabilite per i pari grado del S.P.E.; quelle minime di permanenza nel grado sono di anni tre per i guardiamarina e sottotenenti per la Direzione macchine e di anni sette per i sottotenenti di vascello e tenenti per la Direzione macchine, fermo restando in ogni caso il disposto del 1° comma dell'articolo 75 del testo unico delle leggi sullo avanzamento degli ufficiali della Regia marina, approvato con [Regio decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e successive modificazioni.
 
 ## Art. 5.
 
@@ -91,7 +91,7 @@ Agli ufficiali di complemento del ruolo speciale, che lasciano il servizio in ap
 
 ## Art. 8.
 
-L'ufficiale di complemento che, per il motivo di cui alla lettera a) del precedente articolo 5, cessa di appartenere al ruolo speciale istituito con la presente legge, consegue, all'atto della cessazione, se ritenuto idoneo, la promozione al grado superiore nel ruolo ordinario degli ufficiali di complemento del proprio Corpo, fermo restando pero' il disposto del 1° comma dell'articolo 75 del testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [Regio decreto 7 novembre 1929, n. 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-07;2007), e sue successive modificazioni.
+L'ufficiale di complemento che, per il motivo di cui alla lettera a) del precedente articolo 5, cessa di appartenere al ruolo speciale istituito con la presente legge, consegue, all'atto della cessazione, se ritenuto idoneo, la promozione al grado superiore nel ruolo ordinario degli ufficiali di complemento del proprio Corpo, fermo restando pero' il disposto del 1° comma dell'articolo 75 del testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [Regio decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e sue successive modificazioni.
 
 ## Art. 9.
 
@@ -107,7 +107,7 @@ Per la prima formazione dei ruoli di cui all'articolo 1 gli ufficiali saranno tr
  
  Il servizio prestato dagli ufficiali di cui ai due commi precedenti, dopo quello di leva o volontario, viene computato, agli effetti della conferma nel ruolo speciale, in deduzione dei tre anni prescritti dal 1° comma del precedente articolo 3. 
  
- Sono abrogati gli ultimi tre commi dell'[articolo 23 della legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), modificati dall'[articolo 9 del Regio decreto-legge 8 novembre 1928, n. 2482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-08;2482#art_9), convertito nella [legge n. 3328, in data 27 dicembre 1928 e l'articolo 51](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20novembre%201928%20n.%202482%20che%20porta%20modificazioni%20alla%20legge%20sullordinamento%20della%20Regia%20marina%20ed%20allo%20stato%20ed%20avanzamento%20degli%20ufficiali%20della%20_8f55f8d393c3.md) della citata [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md). 
+ Sono abrogati gli ultimi tre commi dell'[articolo 23 della legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), modificati dall'[articolo 9 del Regio decreto-legge 8 novembre 1928, n. 2482](Modificazioni%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullo%20stato%20ed%20avanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20028U2482.md), convertito nella [legge n. 3328, in data 27 dicembre 1928 e l'articolo 51](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20novembre%201928%20n.%202482%20che%20porta%20modificazioni%20alla%20legge%20sullordinamento%20della%20Regia%20marina%20ed%20allo%20stato%20ed%20avanzamento%20degli%20ufficiali%20della%20_8f55f8d393c3.md) della citata [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md). 
  
  E' altresi' abrogata ogni altra disposizione che sia in contrasto con la presente legge. 
  

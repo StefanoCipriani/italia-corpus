@@ -44,7 +44,7 @@ Gli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.dec
 
 ## Art. 2.
 
-Sono soppressi gli [articoli 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-26;1996#art_40) e [41 del R. decreto-legge 26 ottobre 1919, n. 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-26;1996#art_41), modificato con [R. decreto 10 luglio 1926, n. 1364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-10;1364).
+Sono soppressi gli [articoli 40](Che%20erige%20in%20ente%20morale%20la%20Cassa%20degli%20invalidi%20della%20marina%20mercantile%20costituita%20ai%20termini%20dellart.%201%20della%20legge%2022%20giugno%201913%20n.%20767%20stabilendone%20gli%20scopi%20e%20lordinamento.%20019U1996.md) e [41 del R. decreto-legge 26 ottobre 1919, n. 1996](Che%20erige%20in%20ente%20morale%20la%20Cassa%20degli%20invalidi%20della%20marina%20mercantile%20costituita%20ai%20termini%20dellart.%201%20della%20legge%2022%20giugno%201913%20n.%20767%20stabilendone%20gli%20scopi%20e%20lordinamento.%20019U1996.md), modificato con [R. decreto 10 luglio 1926, n. 1364](Provvedimenti%20per%20il%20miglioramento%20degli%20assegni%20ai%20pensionati%20della%20Cassa%20invalidi%20della%20marina%20mercantile.%20026U1364.md).
 
 ## Art. 3.
 
@@ -56,13 +56,13 @@ La Cassa invalidi della marina mercantile, entro i limiti di spesa consentiti da
 
 ## Art. 5.
 
-In modificazione dell'[art. 1 del R. decreto-legge 29 marzo 1923, n. 884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-29;884#art_1), per il personale dei velieri e dei motovelieri di stazza lorda non superiore a 500 tonnellate, le competenze medie mensili sono stabilite a decorrere dal 1° gennaio 1931 nella seguente misura: 
+In modificazione dell'[art. 1 del R. decreto-legge 29 marzo 1923, n. 884](Che%20reca%20modificazioni%20a%20quello%2026%20ottobre%201919%20n.%201996%20sulla%20cassa%20invalidi%20della%20marina%20mercantile.%20023U0884.md), per il personale dei velieri e dei motovelieri di stazza lorda non superiore a 500 tonnellate, le competenze medie mensili sono stabilite a decorrere dal 1° gennaio 1931 nella seguente misura: 
  Padrone e marinaio autorizzato . . . L. 300 
  Motorista . . . . . . . . . . . . . » 250 
  Marinaio . . . . . . . . . . . . . . » 200 
  Giovanotto . . . . . . . . . . . . . » 150 
  Mozzo . . . . . . . . . . . . . . . » 100 
- Per il personale dei piroscafi e motonavi di stazza lorda non superiore alle 150 tonnellate le competenze medie mensili sono stabilite nella stessa misura di quelle previste per il personale dei rimorchiatori e dei galleggianti dalla tabella A allegata al [R. decreto-legge 26 ottobre 1919, n. 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-26;1996), salvo per il comandante ed il capo macchinista, per i quali le competenze medie mensili sono stabilite nella misura di L. 500 ed il secondo ufficiale di coperta e di macchina, per i quali sono stabilite nella misura di L. 450.
+ Per il personale dei piroscafi e motonavi di stazza lorda non superiore alle 150 tonnellate le competenze medie mensili sono stabilite nella stessa misura di quelle previste per il personale dei rimorchiatori e dei galleggianti dalla tabella A allegata al [R. decreto-legge 26 ottobre 1919, n. 1996](Che%20erige%20in%20ente%20morale%20la%20Cassa%20degli%20invalidi%20della%20marina%20mercantile%20costituita%20ai%20termini%20dellart.%201%20della%20legge%2022%20giugno%201913%20n.%20767%20stabilendone%20gli%20scopi%20e%20lordinamento.%20019U1996.md), salvo per il comandante ed il capo macchinista, per i quali le competenze medie mensili sono stabilite nella misura di L. 500 ed il secondo ufficiale di coperta e di macchina, per i quali sono stabilite nella misura di L. 450.
 
 ## Art. 6.
 
@@ -81,7 +81,7 @@ Il Comitato di cui all'articolo precedente amministra altresi' la Cassa pensioni
 
 ## Art. 8.
 
-I contributi alla Cassa invalidi della marina mercantile per gli ufficiali e gli allievi delle navi scuola istituite e da istituirsi a norma del [R. decreto-legge 5 gennaio 1928, numero 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-05;129), sono stabiliti sulla base della competenza media prevista, rispettivamente per i nostromi e per i mozzi imbarcati sui velieri, dalla tabella A annessa al [R. decreto-legge 26 ottobre 1919, n. 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-26;1996).
+I contributi alla Cassa invalidi della marina mercantile per gli ufficiali e gli allievi delle navi scuola istituite e da istituirsi a norma del [R. decreto-legge 5 gennaio 1928, numero 129](Istituzione%20delle%20navi%20scuola%20per%20gli%20ufficiali%20della%20marina%20mercantile.%20028U0129.md), sono stabiliti sulla base della competenza media prevista, rispettivamente per i nostromi e per i mozzi imbarcati sui velieri, dalla tabella A annessa al [R. decreto-legge 26 ottobre 1919, n. 1996](Che%20erige%20in%20ente%20morale%20la%20Cassa%20degli%20invalidi%20della%20marina%20mercantile%20costituita%20ai%20termini%20dellart.%201%20della%20legge%2022%20giugno%201913%20n.%20767%20stabilendone%20gli%20scopi%20e%20lordinamento.%20019U1996.md).
 
 ## Art. 9.
 

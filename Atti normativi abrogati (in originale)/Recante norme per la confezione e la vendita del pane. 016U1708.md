@@ -26,7 +26,7 @@ La vendita e la somministrazione del pane, anche se la consegna venga fatta al d
 
 ## Art. 4.
 
-I contravventori alle disposizioni dei precedenti articoli, concernenti la forma ed il peso del pane e l'obbligo di venderlo raffermo, sono puniti a norma del [decreto Luogotenenziale 19 ottobre 1916, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-19;1399), e a quelle concernenti l'orario di vendita e di lavoro, sono puniti a norma dell'[art. 7 della legge 22 marzo 1908, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-03-22;105#art_7).
+I contravventori alle disposizioni dei precedenti articoli, concernenti la forma ed il peso del pane e l'obbligo di venderlo raffermo, sono puniti a norma del [decreto Luogotenenziale 19 ottobre 1916, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-19;1399), e a quelle concernenti l'orario di vendita e di lavoro, sono puniti a norma dell'[art. 7 della legge 22 marzo 1908, n. 105](Concernente%20abolizione%20del%20lavoro%20notturno%20nellindustria%20della%20panificazione%20e%20delle%20pasticcierie.%20008U0105.md).
 
 ## Art. 5.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 26 maggio 1978, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-26;260), concernente delega al Governo ad emanare le norme occorrenti per modificare la legislazione interna in materia di brevetti allo scopo di adeguarla e coordinarla con gli atti internazionali ratificati e resi esecutivi in Italia con la legge medesima;
+Vista la [legge 26 maggio 1978, n. 260](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20di%20atti%20internazionali%20in%20materia%20di%20brevetti%20firmati%20rispettivamente%20a%20Strasburgo%20il%2027%20novembre%201963%20a%20Washington%20il%2019%20giugno%201970%20a%20Monaco%20il%205%20ottobre%201973%20ed%20_1b68a05778a4.md), concernente delega al Governo ad emanare le norme occorrenti per modificare la legislazione interna in materia di brevetti allo scopo di adeguarla e coordinarla con gli atti internazionali ratificati e resi esecutivi in Italia con la legge medesima;
 
 Sentito il Consiglio dei Ministri;
 
@@ -178,7 +178,7 @@ L'art. 50 e' sostituito dal seguente:
 
 ### Art. 26.
 
-L'art. 54-sexies introdotto con [decreto del Presidente della Repubblica 26 febbraio 1968, n. 849](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-02-26;849), e' sostituito dal seguente: 
+L'art. 54-sexies introdotto con [decreto del Presidente della Repubblica 26 febbraio 1968, n. 849](../DPR/Applicazione%20delle%20norme%20della%20convenzione%20per%20la%20protezione%20della%20proprieta%20industriale%20firmata%20a%20Lisbona%20il%2031%20ottobre%201958%20e%20ratificata%20con%20la%20legge%204%20luglio%201967%20n.%20676.md), e' sostituito dal seguente: 
  "Nel decreto di concessione della licenza vengono determinate la durata, le modalita' per l'attuazione, le garanzie e le altre condizioni alle quali, eventualmente, e' subordinata la concessione.
 La misura e le modalita' di pagamento del compenso, in caso di opposizione presentata ai sensi dell'art. 54-quater, sono determinate a norma dell'art. 50, secondo comma. 
  Le condizioni della licenza possono, con decreto del Ministro dell'industria, del commercio e dell'artigianato, essere variate su richiesta di ognuna delle parti interessate, qualora sussistano validi motivi al riguardo. 
@@ -271,12 +271,12 @@ Nell'art. 4 il punto 3) e' sostituito dal seguente: "Il documento comprovante il
 ### Art. 40.
 
 Nell'art. 5 il primo comma e' sostituito dal seguente:
- "La descrizione, contenente le indicazioni prescritte dall'[art. 28 del regio decreto del 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_28), deve iniziare con un riassunto che ha solo fini di informazione tecnica, e deve concludersi con una o piu' rivendicazioni in cui sia indicato, specificamente, cio' che si intende debba formare oggetto del brevetto".
+ "La descrizione, contenente le indicazioni prescritte dall'[art. 28 del regio decreto del 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), deve iniziare con un riassunto che ha solo fini di informazione tecnica, e deve concludersi con una o piu' rivendicazioni in cui sia indicato, specificamente, cio' che si intende debba formare oggetto del brevetto".
 
 ### Art. 41.
 
 Dopo l'art. 5 e' aggiunto il seguente art. 5-bis: 
- "Una domanda di brevetto riguardante un procedimento microbiologico o un prodotto ottenuto secondo tale procedimento sara' considerata descritta ai sensi dell'[art. 28 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_28), qualora: 
+ "Una domanda di brevetto riguardante un procedimento microbiologico o un prodotto ottenuto secondo tale procedimento sara' considerata descritta ai sensi dell'[art. 28 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), qualora: 
  1) una coltura del microorganismo sia stata depositata, al piu' tardi il giorno stesso del deposito della domanda di brevetto, presso un centro di raccolta di tali colture; 
  2) la domanda depositata contenga le informazioni pertinenti di cui il richiedente dispone sulle caratteristiche del microoorganismo; 
  3) la domanda venga completata con l'indicazione di un centro di raccolta di colture abilitato presso il quale una coltura del microrganismo sia stata depositata nonche' il numero e la data di deposito di detta coltura, salva la facolta' per l'Ufficio centrale brevetti di chiedere copia della ricevuta di deposito. 
@@ -285,7 +285,7 @@ Dopo l'art. 5 e' aggiunto il seguente art. 5-bis:
  Tale richiesta dovra' essere notificata al titolare della domanda o del brevetto e dovra' essere completata dalle seguenti indicazioni: 
  1) il nome e l'indirizzo di chi fa la richiesta; 
  2) l'impegno di chi presenta la richiesta nei confronti del titolare del brevetto o della domanda di brevetto di non rendere accessibile coltura a qualsiasi terzo; 
- 3) l'impegno ad effettuare l'utilizzazione di tale coltura attraverso un esperto qualificato nominativamente indicato esclusivamente a fini sperimentali fino alla data in cui la domanda di brevetto non venga rigettata o ritirata o il brevetto sia definitivamente decaduto o dichiarato nullo e sia venuta meno qualsiasi possibilita' di reintegrazione a favore del richiedente o del titolare del brevetto ai sensi dell'[art. 90 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_90). 
+ 3) l'impegno ad effettuare l'utilizzazione di tale coltura attraverso un esperto qualificato nominativamente indicato esclusivamente a fini sperimentali fino alla data in cui la domanda di brevetto non venga rigettata o ritirata o il brevetto sia definitivamente decaduto o dichiarato nullo e sia venuta meno qualsiasi possibilita' di reintegrazione a favore del richiedente o del titolare del brevetto ai sensi dell'[art. 90 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md). 
  L'esperto designato per l'utilizzazione e' responsabile solidalmente per gli abusi commessi dal richiedente".
 
 ### Art. 42.
@@ -340,7 +340,7 @@ L'art. 33 e' sostituito dal seguente:
 ### Art. 53.
 
 L'art. 43 e' sostituito dal seguente:
- "Se l'offerta al pubblico di licenza a norma dell'[art. 50 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_50), e' fatta in data posteriore al deposito della domanda di brevetto, ma anteriormente alla concessione del brevetto stesso, la riduzione riguardera' soltanto il pagamento delle tasse annuali successive al primo triennio; se l'offerta e' fatta nella domanda la riduzione riguardera' anche le tasse stabilite per il primo triennio; negli altri casi la riduzione riguardera' le tasse delle annualita' successive alla comunicazione dell'offerta".
+ "Se l'offerta al pubblico di licenza a norma dell'[art. 50 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e' fatta in data posteriore al deposito della domanda di brevetto, ma anteriormente alla concessione del brevetto stesso, la riduzione riguardera' soltanto il pagamento delle tasse annuali successive al primo triennio; se l'offerta e' fatta nella domanda la riduzione riguardera' anche le tasse stabilite per il primo triennio; negli altri casi la riduzione riguardera' le tasse delle annualita' successive alla comunicazione dell'offerta".
 
 ### Art. 54.
 
@@ -349,7 +349,7 @@ Nell'art. 54 la parola "quindici" e' sostituita dalla parola "venti".
 ### Art. 55.
 
 L'art. 92 e' sostituito dal seguente:
- "L'ufficio, a partire dai termini stabiliti dall'[articolo 4 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_4), tiene a disposizione gratuita del pubblico, perche' possano essere consultati, un esemplare della descrizione e dei disegni allegati alla domanda o al brevetto.
+ "L'ufficio, a partire dai termini stabiliti dall'[articolo 4 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), tiene a disposizione gratuita del pubblico, perche' possano essere consultati, un esemplare della descrizione e dei disegni allegati alla domanda o al brevetto.
  Il pubblico puo' pure consultare, nello stesso modo, le descrizioni e i disegni, relativi ai brevetti allegati alle domande nelle quali si sia rivendicata la priorita' di precedenti depositi".
 
 ### Art. 56.
@@ -371,7 +371,7 @@ Il secondo comma dell'art. 9 e' abrogato.
 ### Art. 59.
 
 L'art. 10 e' sostituito dal seguente:
- "L'Ufficio centrale brevetti pone a disposizione del pubblico la domanda con la descrizione, gli eventuali disegni o campioni conformemente al disposto dell'[art. 4 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_4), omettendo la pubblicazione a stampa prevista dall'art. 38, secondo comma, dello stesso decreto.
+ "L'Ufficio centrale brevetti pone a disposizione del pubblico la domanda con la descrizione, gli eventuali disegni o campioni conformemente al disposto dell'[art. 4 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), omettendo la pubblicazione a stampa prevista dall'art. 38, secondo comma, dello stesso decreto.
 
 ### Art. 60.
 
@@ -405,16 +405,16 @@ Nell'art. 23 al secondo comma sono soppresse le parole "o negli articoli 19 e 22
 ### Art. 66.
 
 L'art. 41 e' sostituito dal seguente:
- "Se l'offerta al pubblico di licenza a norma dell'[articolo 50 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_50), e' fatta in data posteriore al deposito della domanda di brevetto, ma anteriormente alla concessione del brevetto stesso, la riduzione riguardera' soltanto il pagamento delle rate della tassa di concessione successive al primo quinquennio; se l'offerta e' fatta nella domanda, la riduzione riguardera' anche la rata della tassa per il primo quinquennio; negli altri casi la riduzione riguardera' la rata successiva alla comunicazione dell'offerta. In ogni caso non e' ammesso rimborso della tassa versata".
+ "Se l'offerta al pubblico di licenza a norma dell'[articolo 50 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e' fatta in data posteriore al deposito della domanda di brevetto, ma anteriormente alla concessione del brevetto stesso, la riduzione riguardera' soltanto il pagamento delle rate della tassa di concessione successive al primo quinquennio; se l'offerta e' fatta nella domanda, la riduzione riguardera' anche la rata della tassa per il primo quinquennio; negli altri casi la riduzione riguardera' la rata successiva alla comunicazione dell'offerta. In ogni caso non e' ammesso rimborso della tassa versata".
 
 ### Art. 67.
 
-Nell'art. 48 al primo comma sono soppresse le parole "quando sia stata concessa a protezione temporanea prevista dall'[art. 8 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_8)".
+Nell'art. 48 al primo comma sono soppresse le parole "quando sia stata concessa a protezione temporanea prevista dall'[art. 8 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md)".
 
 ### Art. 68.
 
 L'art. 90 e' sostituito dal seguente:
- "L'ufficio, a partire dai termini stabiliti dall'[art. 4 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_4), tiene a disposizione gratuita del pubblico, perche' possano essere consultati, un esemplare sia delle tavole, con la riproduzione grafica dei modelli, o dei prodotti, o i campioni dei prodotti medesimi, sia dell'eventuale descrizione, allegati alla domanda o al brevetto.
+ "L'ufficio, a partire dai termini stabiliti dall'[art. 4 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), tiene a disposizione gratuita del pubblico, perche' possano essere consultati, un esemplare sia delle tavole, con la riproduzione grafica dei modelli, o dei prodotti, o i campioni dei prodotti medesimi, sia dell'eventuale descrizione, allegati alla domanda o al brevetto.
  Il pubblico puo' pure consultare nello stesso modo le tavole e le eventuali descrizioni, relative ai brevetti allegati alle domande nelle quali si sia rivendicata la priorita' di precedenti depositi".
 
 ### Art. 69.
@@ -453,7 +453,7 @@ Titolo VI
 
 ### Art. 75.
 
-Il titolo VIII della tariffa allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641), e' cosi' modificato: al numero d'ordine 90 al punto 1) e' soppressa la parola "principale" e sono inoltre soppressi i punti 2), 8) e 9); al punto 6) dopo le parole "quindicesimo anno" sono aggiunte le parole "e successivi"; al numero d'ordine 91 sono soppresse le parole "principale o completivo"; al numero d'ordine 92 e' soppresso il punto 7). 
+Il titolo VIII della tariffa allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), e' cosi' modificato: al numero d'ordine 90 al punto 1) e' soppressa la parola "principale" e sono inoltre soppressi i punti 2), 8) e 9); al punto 6) dopo le parole "quindicesimo anno" sono aggiunte le parole "e successivi"; al numero d'ordine 91 sono soppresse le parole "principale o completivo"; al numero d'ordine 92 e' soppresso il punto 7). 
  Le note a margine del numero d'ordine 90 dello stesso titolo VIII sono cosi' modificate: il secondo comma e' soppresso; nel terzo comma sono soppresse le parole "la tassa di rilascio di completivo"; nel quarto comma le parole "successive a quelle del primo anno" sono sostituite da "successive a quella del primo triennio"; il decimo comma e' sostituito dal seguente: "il richiedente o titolare di un brevetto che abbia offerto al pubblico licenza non esclusiva sul brevetto ha diritto alla riduzione alla meta' delle tasse annuali (art. 50 del decreto succitato).
 
 ## TESTO DELLE MODIFICHE APPORTATE AL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 AGOSTO 1975, N. 974
@@ -472,7 +472,7 @@ Nell'art. 2 il secondo comma e' abrogato.
 ### Art. 78.
 
 Nell'art. 16 il primo comma e' sostituito dal seguente:
- "Le licenze previste negli articoli precedenti sono concesse su conforme parere del Ministero dell'agricoltura e delle foreste che si pronuncia sulle condizioni prescritte per la concessione delle licenze. La misura e le modalita' di pagamento del compenso, in caso di opposizione presentato ai sensi dell'[art. 54-quater del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_54quater), sono determinate a norma dell'art. 50, secondo comma, dello stesso decreto".
+ "Le licenze previste negli articoli precedenti sono concesse su conforme parere del Ministero dell'agricoltura e delle foreste che si pronuncia sulle condizioni prescritte per la concessione delle licenze. La misura e le modalita' di pagamento del compenso, in caso di opposizione presentato ai sensi dell'[art. 54-quater del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), sono determinate a norma dell'art. 50, secondo comma, dello stesso decreto".
 
 ## TESTO DELLE MODIFICHE APPORTATE AL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 8 GENNAIO 1979, N. 32
 
@@ -492,7 +492,7 @@ Titolo IX
 ### Art. 81.
 
 Le domande di brevetto per invenzioni e modelli industriali e quelle per la trascrizione dei relativi atti anche se gia' depositate al momento dell'entrata in vigore di questo decreto, sono trattate secondo le disposizioni in esso contenute; tuttavia, per quanto riguarda la regolarita' formale e la designazione dell'inventore sono soggette alle norme preesistenti.
- Sono fatti salvi i diritti di priorita' di cui agli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_9) e [17 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_17), abrogati, se la divulgazione e' avvenuta prima della entrata in vigore del presente decreto.
+ Sono fatti salvi i diritti di priorita' di cui agli [articoli 9](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md) e [17 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), abrogati, se la divulgazione e' avvenuta prima della entrata in vigore del presente decreto.
 
 ### Art. 82.
 
@@ -502,7 +502,7 @@ Le domande di brevetto completivo e i brevetti completivi tuttora efficaci sono 
 
 ### Art. 84.
 
-L'ultimo comma dell'[art. 4 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_4), si applica ai brevetti per invenzione industriale che non siano scaduti alla data di entrata in vigore di questo decreto. Tuttavia i licenziatari e coloro che in vista della prossima scadenza avevano compiuto investimenti seri ed effettivi per utilizzare l'invenzione hanno diritto di ottenere licenza obbligatoria gratuita e non esclusiva per il periodo di maggior durata. Questa facolta' non si applica ai contraffattori dei brevetti non ancora scaduti.
+L'ultimo comma dell'[art. 4 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), si applica ai brevetti per invenzione industriale che non siano scaduti alla data di entrata in vigore di questo decreto. Tuttavia i licenziatari e coloro che in vista della prossima scadenza avevano compiuto investimenti seri ed effettivi per utilizzare l'invenzione hanno diritto di ottenere licenza obbligatoria gratuita e non esclusiva per il periodo di maggior durata. Questa facolta' non si applica ai contraffattori dei brevetti non ancora scaduti.
 
 ### Art. 85.
 

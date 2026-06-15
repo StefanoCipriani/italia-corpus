@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo 1° dicembre 1946 n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-12-01;565);
 
@@ -28,7 +28,7 @@ Il Ministero dei lavori pubblici e' autorizzato a destinare la somma di lire sei
 
 L'[art. 2 del decreto legislativo 10 dicembre 1946, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-12-10;565#art_2), e' sostituito dal seguente:
  "E' in facolta' del Ministero dei lavori pubblici di consentire che l'esecuzione di lavori di competenza dell'Amministrazione comunale di Roma sia affidata al Comune medesimo.
- In tal caso il Comune provvedera' alla gestione dei lavori sotto la vigilanza del competente Ufficio del genio civile, uniformandosi alle disposizioni vigenti per le opere pubbliche di conto dello Stato; i pagamenti saranno effettuati dall'Amministrazione dei lavori pubblici, in base a stati di avanzamento riconosciuti regolari dall'Ufficio del genio civile, ed il collaudo delle opere sara' eseguito da funzionari statali con le norme dei regolamento approvato con [regio decreto 25 maggio 1895, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-05-25;350)".
+ In tal caso il Comune provvedera' alla gestione dei lavori sotto la vigilanza del competente Ufficio del genio civile, uniformandosi alle disposizioni vigenti per le opere pubbliche di conto dello Stato; i pagamenti saranno effettuati dall'Amministrazione dei lavori pubblici, in base a stati di avanzamento riconosciuti regolari dall'Ufficio del genio civile, ed il collaudo delle opere sara' eseguito da funzionari statali con le norme dei regolamento approvato con [regio decreto 25 maggio 1895, n. 350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md)".
 
 ## Art. 3.
 

@@ -10,9 +10,9 @@ vigente: true
 
 ## Art. 1.
 
-Le norme di cui all'[art. 4 del R. decreto-legge 16 giugno 1938, n. 1280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;1280#art_4), convertito nella [legge 18 gennaio 1939, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-18;376), sono richiamate in vigore con la seguente modificazione: 
+Le norme di cui all'[art. 4 del R. decreto-legge 16 giugno 1938, n. 1280](Disciplina%20della%20vendita%20e%20locazione%20degli%20alberghi%20fruenti%20di%20mutui%20e%20di%20contributi%20dello%20Stato.%20038U1280.md), convertito nella [legge 18 gennaio 1939, n. 376](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2016%20giugno%201938-XVI%20n.%201280%20concernente%20la%20disciplina%20della%20vendita%20e%20locazione%20degli%20alberghi%20fruenti%20di%20mutui%20e%20di%20contributi%20_a75f556e440b.md), sono richiamate in vigore con la seguente modificazione: 
  
- La [legge 24 luglio 1936, n. 1692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-07-24;1692), avra' attuazione fino a cinque anni dalla cessazione dello stato di guerra, fermi restando gli effetti degli atti e dei provvedimenti che siano stati presi a termini della legge stessa.
+ La [legge 24 luglio 1936, n. 1692](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%202%20gennaio%201936-XIV%20n.%20274%20contenente%20norme%20per%20la%20vendita%20e%20la%20locazione%20degli%20immobili%20adibiti%20ad%20uso%20alberghiero.%20036U1692.md), avra' attuazione fino a cinque anni dalla cessazione dello stato di guerra, fermi restando gli effetti degli atti e dei provvedimenti che siano stati presi a termini della legge stessa.
 
 ## Art. 2.
 
@@ -22,13 +22,13 @@ La legge anzidetta sara' applicata, oltre che ai casi di vendita e di locazione,
 
 ## Art. 3.
 
-Alle dizioni «Ministero per la stampa e la propaganda» e «Ministero della cultura popolare», contenute rispettivamente nella [legge 24 luglio 1936, numero 1692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-07-24;1692), e nel [R. decreto-legge 16 giugno 1938, n. 1280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;1280), e' sostituita quella di «Sottosegretariato per la stampa, lo spettacolo e il turismo». 
+Alle dizioni «Ministero per la stampa e la propaganda» e «Ministero della cultura popolare», contenute rispettivamente nella [legge 24 luglio 1936, numero 1692](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%202%20gennaio%201936-XIV%20n.%20274%20contenente%20norme%20per%20la%20vendita%20e%20la%20locazione%20degli%20immobili%20adibiti%20ad%20uso%20alberghiero.%20036U1692.md), e nel [R. decreto-legge 16 giugno 1938, n. 1280](Disciplina%20della%20vendita%20e%20locazione%20degli%20alberghi%20fruenti%20di%20mutui%20e%20di%20contributi%20dello%20Stato.%20038U1280.md), e' sostituita quella di «Sottosegretariato per la stampa, lo spettacolo e il turismo». 
  
  Alle dizioni «Federazione nazionale fascista dei proprietari di fabbricati» e «Federazione nazionale fascista alberghi e turismo», contenute nel secondo comma dell'art. 3 della stessa legge, e' sostituita quella di «Associazioni nazionali di categoria».
 
 ## Art. 4.
 
-Il termine per l'esercizio del diritto di prelazione, di cui all'art. 3 della citata [legge 24 luglio 1936, n. 1692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-07-24;1692), e' esteso da tre a quattro mesi. 
+Il termine per l'esercizio del diritto di prelazione, di cui all'art. 3 della citata [legge 24 luglio 1936, n. 1692](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%202%20gennaio%201936-XIV%20n.%20274%20contenente%20norme%20per%20la%20vendita%20e%20la%20locazione%20degli%20immobili%20adibiti%20ad%20uso%20alberghiero.%20036U1692.md), e' esteso da tre a quattro mesi. 
  
  Nei casi in cui il Sottosegretariato per la stampa, lo spettacolo e il turismo riterra' di esercitare tale diritto, ne sara' data notizia nel Bollettino ufficiale dell'Associazione italiana degli albergatori e nel Foglio degli annunzi legali della provincia in cui si trova l'esercizio alberghiero, con l'indicazione delle modalita' e dei termini entro cui gli enti o le persone interessate potranno presentare le offerte. 
  
@@ -36,7 +36,7 @@ Il termine per l'esercizio del diritto di prelazione, di cui all'art. 3 della ci
 
 ## Art. 5.
 
-Il procedimento di esecuzione davanti all'autorita' giudiziaria, relativo ai casi previsti dall'[art. 4 della legge 24 luglio 1936, n. 1692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-07-24;1692#art_4), rimarra' sospeso fino alla definizione della procedura amministrativa pendente sugli stessi beni davanti al Sottosegretariato per la stampa, lo spettacolo e il turismo.
+Il procedimento di esecuzione davanti all'autorita' giudiziaria, relativo ai casi previsti dall'[art. 4 della legge 24 luglio 1936, n. 1692](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%202%20gennaio%201936-XIV%20n.%20274%20contenente%20norme%20per%20la%20vendita%20e%20la%20locazione%20degli%20immobili%20adibiti%20ad%20uso%20alberghiero.%20036U1692.md), rimarra' sospeso fino alla definizione della procedura amministrativa pendente sugli stessi beni davanti al Sottosegretariato per la stampa, lo spettacolo e il turismo.
 
 ## Art. 6.
 

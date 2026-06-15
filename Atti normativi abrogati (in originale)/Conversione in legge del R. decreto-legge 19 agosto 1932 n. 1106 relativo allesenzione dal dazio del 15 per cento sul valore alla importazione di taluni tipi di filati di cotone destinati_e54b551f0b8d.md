@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 agosto 1932 n. 1106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-08-19;1106), relativo alla esenzione dal dazio del 15 per cento sul valore alla importazione di taluni tipi di filati di cotone destinati alla produzione di pizzi e tulli. 
+ E' convertito in legge il [R. decreto-legge 19 agosto 1932 n. 1106](Esenzione%20dal%20dazio%20del%2015%20%20sul%20valore%20alla%20importazione%20di%20taluni%20tipi%20di%20filati%20di%20cotone%20destinati%20alla%20produzione%20di%20pizzi%20e%20tulli.%20032U1106.md), relativo alla esenzione dal dazio del 15 per cento sul valore alla importazione di taluni tipi di filati di cotone destinati alla produzione di pizzi e tulli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -238,7 +238,7 @@ La licenza per la compera di armi da fuoco e' accordata soltanto a titolo indivi
 
 ### Art. 31.
 
-I sudditi indigeni che possiedono, od hanno in consegna per la difesa propria, o della colonia, armi da fuoco e munizioni, e le cedono, le regalano, o le vendono, sono puniti col carcere da uno a cinque anni e colla multa da 100 a 500 lire, salvo che la vendita rivesta il carattere di tradimento e debba essere punito secondo il § 72 del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare.
+I sudditi indigeni che possiedono, od hanno in consegna per la difesa propria, o della colonia, armi da fuoco e munizioni, e le cedono, le regalano, o le vendono, sono puniti col carcere da uno a cinque anni e colla multa da 100 a 500 lire, salvo che la vendita rivesta il carattere di tradimento e debba essere punito secondo il § 72 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare.
 
 ### Art. 32.
 

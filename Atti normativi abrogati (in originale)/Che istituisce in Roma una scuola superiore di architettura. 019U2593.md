@@ -30,7 +30,7 @@ E' istituita in Roma una scuola superiore di architettura.
  
  Essa e' abilitata a conferire il diploma di architetto civile ed e' compresa, a tutti gli effetti, nel novero degli Istituti d'istruzione superiore. 
  
- A questo fine e' aggiunta all'elenco delle Regie universita' e degli Istituti superiori di cui alla tabella D annessa al testo unico delle leggi sull'istruzione superiore, approvato con [Regio decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795), la indicazione: «Regia scuola superiore di architettura in Roma».
+ A questo fine e' aggiunta all'elenco delle Regie universita' e degli Istituti superiori di cui alla tabella D annessa al testo unico delle leggi sull'istruzione superiore, approvato con [Regio decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), la indicazione: «Regia scuola superiore di architettura in Roma».
 
 ## Art. 2.
 

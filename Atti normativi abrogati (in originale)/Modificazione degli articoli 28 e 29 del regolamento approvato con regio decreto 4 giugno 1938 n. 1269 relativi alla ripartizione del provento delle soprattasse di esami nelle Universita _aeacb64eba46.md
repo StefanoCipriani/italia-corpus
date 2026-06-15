@@ -16,7 +16,7 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 
 Veduto il regolamento approvato con [regio decreto 4 giugno 1938, n. 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269);
 
-Veduta la [legge 18 dicembre 1951, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551);
+Veduta la [legge 18 dicembre 1951, n. 1551](Aumento%20dei%20contributi%20statali%20a%20favore%20delle%20Universita%20e%20degli%20Istituti%20superiori%20e%20dei%20contributi%20per%20lassistenza%20agli%20studenti%20ampliamento%20delle%20esenzioni%20tributarie%20per%20gli%20studenti%20_eef25c2651a6.md);
 
 Ritenuta l'opportunita' di procedere ad una piu' equa ripartizione del provento derivante dalle soprattasse di esami;
 

@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Visto il [decreto Luogotenenziale 8 agosto 1916, numero 960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-08;960);
 
@@ -80,7 +80,7 @@ Quando dalle ispezioni di cui al precedente articolo, o da qualunque altro accer
 
 ## Art. 8.
 
-Indipendentemente dalle disposizioni di cui all'articolo precedente i direttori, gli amministratori di imprese nazionali ed i rappresentanti di imprese straniere, i quali contravvengano alle disposizioni del presente decreto, incorrono nelle penalita' comminate dall'art. 1° della [legge 21 marzo 1915, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-03-21;273). 
+Indipendentemente dalle disposizioni di cui all'articolo precedente i direttori, gli amministratori di imprese nazionali ed i rappresentanti di imprese straniere, i quali contravvengano alle disposizioni del presente decreto, incorrono nelle penalita' comminate dall'art. 1° della [legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md). 
  
  Il giudice puo' ridurre tali pene alla meta' o a un terzo quando riconosca lieve l'entita' del reato o la colpa dell'imputato.
 

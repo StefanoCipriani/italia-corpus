@@ -66,7 +66,7 @@ Gli accantonamenti sui redditi di detto anno, deliberati ai sensi dell'[art. 3 d
 
 ## Art. 9.
 
-Sono abrogati l'[art. 11 del regio decreto legislativo 27 maggio 1946, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-27;436#art_11), e gli articoli 1, secondo comma, e 2 della [legge 1 aprile 1949, n. 94](Trasferimento%20a%20capitale%20dei%20saldi%20attivi%20delle%20rivalutazioni%20per%20conguaglio%20monetario%20operato%20a%20mente%20del%20decreto%20legislativo%2014%20febbraio%201948%20n.%2049.md).
+Sono abrogati l'[art. 11 del regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), e gli articoli 1, secondo comma, e 2 della [legge 1 aprile 1949, n. 94](Trasferimento%20a%20capitale%20dei%20saldi%20attivi%20delle%20rivalutazioni%20per%20conguaglio%20monetario%20operato%20a%20mente%20del%20decreto%20legislativo%2014%20febbraio%201948%20n.%2049.md).
 
  TABELLA
  Coefficiente
@@ -90,7 +90,7 @@ Sono abrogati l'[art. 11 del regio decreto legislativo 27 maggio 1946, n. 436](h
  1948 .......................................... 1
  1949 .......................................... 1
 
- (a) Per i capitali investiti anteriormente, l'adeguamento monetario in rapporto al 1938, si calcola in base alle disposizioni del [regio decreto-legge 21 dicembre 1927, n. 2325](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-21;2325), convertito nella [legge 7 giugno 1928, n. 1453](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20dicembre%201927%20n.%202325%20concernente%20la%20cessazione%20del%20corso%20forzoso%20e%20la%20convertibilita%20in%20oro%20dei%20biglietti%20della%20Banca%20dItalia.%20028U1453.md) e del [regio decreto-legge 5 ottobre 1936, n. 1745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-05;1745), convertito nella [legge 4 gennaio 1937, n. 40](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201745%20contenente%20modificazioni%20al%20R.%20decreto-legge%2021%20dicembre%201927-VI%20n.%202325%20sulla%20parita%20aurea%20della%20lira.%20037U0040.md).
+ (a) Per i capitali investiti anteriormente, l'adeguamento monetario in rapporto al 1938, si calcola in base alle disposizioni del [regio decreto-legge 21 dicembre 1927, n. 2325](Cessazione%20del%20corso%20forzoso%20e%20convertibilita%20in%20oro%20dei%20biglietti%20della%20Banca%20dItalia.%20027U2325.md), convertito nella [legge 7 giugno 1928, n. 1453](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20dicembre%201927%20n.%202325%20concernente%20la%20cessazione%20del%20corso%20forzoso%20e%20la%20convertibilita%20in%20oro%20dei%20biglietti%20della%20Banca%20dItalia.%20028U1453.md) e del [regio decreto-legge 5 ottobre 1936, n. 1745](Modificazioni%20al%20R.%20decreto-legge%2021%20dicembre%201927-VI%20n.%202325.%20036U1745.md), convertito nella [legge 4 gennaio 1937, n. 40](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201745%20contenente%20modificazioni%20al%20R.%20decreto-legge%2021%20dicembre%201927-VI%20n.%202325%20sulla%20parita%20aurea%20della%20lira.%20037U0040.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

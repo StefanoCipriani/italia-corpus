@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 18 dicembre 1910, n. 867](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-18;867), sulle scuole italiane all'estero;
+Vista la [legge 18 dicembre 1910, n. 867](Riordinamento%20delle%20scuole%20italiane%20allestero%20010U0867.md), sulle scuole italiane all'estero;
 
-Vista la [legge 18 luglio 1911, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-18;762), che approvo' i ruoli organici del personale dipendente dal Ministero degli affari esteri;
+Vista la [legge 18 luglio 1911, n. 762](Concernente%20i%20ruoli%20organici%20del%20personale%20dipendente%20dal%20Ministero%20degli%20affari%20esteri%20011U0762.md), che approvo' i ruoli organici del personale dipendente dal Ministero degli affari esteri;
 
 Sentito il Consiglio dei ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per gli affari esteri, di concer
 
 ## Art. 1.
 
-Il posto di direttore generale delle scuole italiane all'estero con lo stipendio annuo di L. 10.000, istituito con la [legge 18 luglio 1911, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-18;762) (tabella H) e' soppresso ed e' ristabilito il posto di direttore centrale delle scuole stesse con lo stipendio annuo di L. 9000, a norma degli [articoli 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-18;867#art_34) e [35 della legge 18 dicembre 1910, n. 867](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-18;867#art_35).
+Il posto di direttore generale delle scuole italiane all'estero con lo stipendio annuo di L. 10.000, istituito con la [legge 18 luglio 1911, n. 762](Concernente%20i%20ruoli%20organici%20del%20personale%20dipendente%20dal%20Ministero%20degli%20affari%20esteri%20011U0762.md) (tabella H) e' soppresso ed e' ristabilito il posto di direttore centrale delle scuole stesse con lo stipendio annuo di L. 9000, a norma degli [articoli 34](Riordinamento%20delle%20scuole%20italiane%20allestero%20010U0867.md) e [35 della legge 18 dicembre 1910, n. 867](Riordinamento%20delle%20scuole%20italiane%20allestero%20010U0867.md).
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduto l'art. 10, ultimo comma, della [legge 8 aprile 1906, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142), col quale si da' facolta' al Ministero della istruzione pubblica di provvedere al pagamento delle retribuzioni e compensi stabiliti nell'articolo stesso a favore del personale delle scuole medie governative mediante fondi a disposizione dei RR. prefetti; 
+ Veduto l'art. 10, ultimo comma, della [legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md), col quale si da' facolta' al Ministero della istruzione pubblica di provvedere al pagamento delle retribuzioni e compensi stabiliti nell'articolo stesso a favore del personale delle scuole medie governative mediante fondi a disposizione dei RR. prefetti; 
  
  Riconosciuta la opportunita' che l'Amministrazione possa essere libera di valersi anche di altri funzionari delegati pel pagamento delle dette spese, anziche' soltanto dei RR. prefetti; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Nel testo dell'ultimo comma dell'[art. 10 della legge 8 aprile 1906, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142#art_10), sono soppresse le parole «dei RR. prefetti». 
+ Nel testo dell'ultimo comma dell'[art. 10 della legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md), sono soppresse le parole «dei RR. prefetti». 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

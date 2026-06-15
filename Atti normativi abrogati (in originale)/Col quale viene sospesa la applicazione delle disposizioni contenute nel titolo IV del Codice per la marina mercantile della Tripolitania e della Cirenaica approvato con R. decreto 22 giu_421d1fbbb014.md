@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per tutta la durata della presente guerra si applicheranno anche alla Tripolitania o alla Cirenaica a termini dell'art. 69 dell'ordinamento giudiziario per le dette colonie approvato con [R. decreto 20 marzo 1913, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-03-20;289), le norme del diritto marittimo in tempo di guerra contenute nel titolo IV della parte prima del Codice per la marina mercantile del Regno d'Italia, restando per tal periodo di tempo sospesa l'applicazione delle disposizioni contenute nel titolo IV della parte prima del Codice per la marina mercantile della Tripolitania e della Cirenaica approvato con [R. decreto 22 giugno 1913, n. 902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;902).
+Per tutta la durata della presente guerra si applicheranno anche alla Tripolitania o alla Cirenaica a termini dell'art. 69 dell'ordinamento giudiziario per le dette colonie approvato con [R. decreto 20 marzo 1913, n. 289](Col%20quale%20vengono%20approvati%20gli%20annessi%20ordinamento%20giudiziario%20e%20disposizioni%20relative%20alle%20leggi%20da%20applicarsi%20in%20Libia.%20013U0289.md), le norme del diritto marittimo in tempo di guerra contenute nel titolo IV della parte prima del Codice per la marina mercantile del Regno d'Italia, restando per tal periodo di tempo sospesa l'applicazione delle disposizioni contenute nel titolo IV della parte prima del Codice per la marina mercantile della Tripolitania e della Cirenaica approvato con [R. decreto 22 giugno 1913, n. 902](Col%20quale%20e%20approvato%20lannesso%20Codice%20per%20la%20marina%20mercantile%20della%20Tripolitania%20e%20della%20Cirenaica.%20013U0902.md).
 
 ## Art. 2.
 

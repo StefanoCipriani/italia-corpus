@@ -46,7 +46,7 @@ Art. 5.
 
 ## Art. 7.
 
-La cognizione delle contravvenzioni previste dagli articoli 2 e 4 della presente legge e' deferita ai tribunali militari, i quali provvedono con decreto penale, secondo le norme stabilite dal [R. decreto-legge 5 ottobre 1920, n. 1417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-10-05;1417).
+La cognizione delle contravvenzioni previste dagli articoli 2 e 4 della presente legge e' deferita ai tribunali militari, i quali provvedono con decreto penale, secondo le norme stabilite dal [R. decreto-legge 5 ottobre 1920, n. 1417](Sullapplicazione%20del%20decreto%20penale%20da%20parte%20dei%20tribunali%20militari.%20020U1417.md).
 
 ## Art. 8.
 

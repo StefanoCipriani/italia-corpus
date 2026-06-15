@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 agosto 1928, n. 2028](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-25;2028), che da' contemporaneamente esecuzione ai seguenti Atti internazionali: 
+ E' convertito in legge il [R. decreto-legge 25 agosto 1928, n. 2028](Esecuzione%20del%20Protocollo%20finale%20della%20Conferenza%20di%20Parigi%20stipulato%20il%2025%20luglio%201928%20fra%20lItalia%20la%20Francia%20la%20Gran%20Bretagna%20e%20la%20Spagna%20relativo%20allo%20Statuto%20della%20Zona%20di%20Tangeri%20ed%20_d759503bd141.md), che da' contemporaneamente esecuzione ai seguenti Atti internazionali: 
  
  1° Protocollo finale della Conferenza di Parigi, stipulato il 25 luglio 1928, fra l'Italia, la Francia, la Gran Bretagna e la Spagna per apportare diversi emendamenti alla Convenzione del 18 dicembre 1923, concernente l'organizzazione dello Statuto della zona di Tangeri, ai dakir sceriffiani organici ed ai codici in vigore nella Zona, nonche' ad alcune disposizioni che la riguardano (allegato A);  
  2° Convenzione anzidetta del 18 dicembre 1923, modificata dal Protocollo di cui al n. 1 del presente articolo e della quale l'Italia e' diventata parte contraente (allegato B). 

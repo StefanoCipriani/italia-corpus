@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 febbraio 1931, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-02-19;206), concernente il trattamento di quiescenza, e previdenziale del personale delle Casse di risparmio, dei Monti di pieta' di prima categoria, del Consorzio nazionale per il credito agrario di miglioramento, degli Istituti speciali di credito agrario e dei Consorzi che provvedono ad opere di bonifica integrale, in dipendenza del [R. decreto-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491). 
+ E' convertito in legge il [R. decreto-legge 19 febbraio 1931, n. 206](Trattamento%20di%20quiescenza%20al%20personale%20delle%20Casse%20di%20risparmio%20dei%20Monti%20di%20pieta%20di%201ª%20categoria%20degli%20Istituti%20di%20credito%20agrario%20e%20dei%20Consorzi%20di%20bonifica%20in%20dipendenza%20del%20R.%20decre_500cac52a899.md), concernente il trattamento di quiescenza, e previdenziale del personale delle Casse di risparmio, dei Monti di pieta' di prima categoria, del Consorzio nazionale per il credito agrario di miglioramento, degli Istituti speciali di credito agrario e dei Consorzi che provvedono ad opere di bonifica integrale, in dipendenza del [R. decreto-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

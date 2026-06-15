@@ -120,7 +120,7 @@ Il personale di commutazione, operaio e subalterno fruira' del riposo settimanal
 
 ## Art. 12.
 
-Per esigenze eccezionali puo' essere richiesta al personale la prestazione di servizi straordinari; in tal caso le ore di lavoro straordinario sono compensate secondo le misure orarie di cui al [R. decreto 17 febbraio 1924, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-17;182). 
+Per esigenze eccezionali puo' essere richiesta al personale la prestazione di servizi straordinari; in tal caso le ore di lavoro straordinario sono compensate secondo le misure orarie di cui al [R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md). 
  
  Per il lavoro straordinario notturno di commutazione e' corrisposta al personale una retribuzione pari ad una volta e mezza la paga oraria diurna. 
  
@@ -413,7 +413,7 @@ Il reparto delle tariffe percepite dall'Azienda o dai concessionari di zona per 
 
 ## Art. 38.
 
-La sopratassa di cui al [R. decreto n. 180 del 22 marzo 1903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-03-22;180) e' elevata a centesimi 20 per ogni conversazione interurbana o internazionale.
+La sopratassa di cui al [R. decreto n. 180 del 22 marzo 1903](Che%20modifica%20la%20sovratassa%20per%20le%20conversazioni%20telefoniche.%20003U0180.md) e' elevata a centesimi 20 per ogni conversazione interurbana o internazionale.
 
 ## Art. 39.
 

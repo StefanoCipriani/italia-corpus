@@ -18,7 +18,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-In virtu' dell'autorita' a Noi delegata e delle facolta' conferite al Governo dalla [legge 22 maggio 1915, numero 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In virtu' dell'autorita' a Noi delegata e delle facolta' conferite al Governo dalla [legge 22 maggio 1915, numero 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Udito il Consiglio dei ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri,
 
 ## Art. 1.
 
-Agli impiegati o salariati dei Comuni, delle Provincie, o delle istituzioni pubbliche di beneficenza, al personale sanitario dipendente dalle stesse amministrazioni e agli insegnanti delle scuole primarie la cui amministrazione non sia affidata al Consiglio scolastico provinciale ai sensi della [legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487), sono estese le disposizioni di cui agli articoli 1, 2 e 3 del Nostro decreto 11 luglio u. s., n. 1061, purche' le persone anzidette, alla ditta del presente decreto, abbiano gia' ottenuto, con deliberazioni approvato dalla autorita' competente, la nomina a posti compresi nelle rispettive piante organiche. Rimano salva l'applicazione del penultimo comma dell'[art. 20 del testo unico 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1908-11-22;693#art_20).
+Agli impiegati o salariati dei Comuni, delle Provincie, o delle istituzioni pubbliche di beneficenza, al personale sanitario dipendente dalle stesse amministrazioni e agli insegnanti delle scuole primarie la cui amministrazione non sia affidata al Consiglio scolastico provinciale ai sensi della [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), sono estese le disposizioni di cui agli articoli 1, 2 e 3 del Nostro decreto 11 luglio u. s., n. 1061, purche' le persone anzidette, alla ditta del presente decreto, abbiano gia' ottenuto, con deliberazioni approvato dalla autorita' competente, la nomina a posti compresi nelle rispettive piante organiche. Rimano salva l'applicazione del penultimo comma dell'[art. 20 del testo unico 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1908-11-22;693#art_20).
 
 ## Art. 2.
 

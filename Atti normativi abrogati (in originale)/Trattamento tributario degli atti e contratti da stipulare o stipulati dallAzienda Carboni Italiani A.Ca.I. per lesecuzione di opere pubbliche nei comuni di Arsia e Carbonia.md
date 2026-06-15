@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Viste le [leggi 21 agosto 1940, n. 1223 e 19 gennaio 1942, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;33);
+Viste le [leggi 21 agosto 1940, n. 1223 e 19 gennaio 1942, n. 33](Autorizzazione%20della%20spesa%20di%20lire%2050.000.000%20per%20la%20esecuzione%20di%20opere%20pubbliche%20nei%20comuni%20di%20Arsia%20e%20Carbonia.%20042U0033.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 ## Articolo unico.
 
-Le convenzioni previste dagli [articoli 3 delle leggi 21 agosto 1940, n. 1223 e 19 gennaio 1942, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;33#art_3), nonche' gli atti e i contratti stipulati o ancora da stipulare dall'Azienda Carboni Italiani per l'esecuzione delle convenzioni stesse, sono esenti dalle tasse di bollo e, ove vi siano soggetti, scontano le sole imposte fisse di registro ed ipotecarie.
+Le convenzioni previste dagli [articoli 3 delle leggi 21 agosto 1940, n. 1223 e 19 gennaio 1942, n. 33](Autorizzazione%20della%20spesa%20di%20lire%2050.000.000%20per%20la%20esecuzione%20di%20opere%20pubbliche%20nei%20comuni%20di%20Arsia%20e%20Carbonia.%20042U0033.md), nonche' gli atti e i contratti stipulati o ancora da stipulare dall'Azienda Carboni Italiani per l'esecuzione delle convenzioni stesse, sono esenti dalle tasse di bollo e, ove vi siano soggetti, scontano le sole imposte fisse di registro ed ipotecarie.
  E' escluso peraltro il rimborso dei tributi eventualmente gia' corrisposti.
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

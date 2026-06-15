@@ -38,11 +38,11 @@ Gli agenti che non presentino la richiesta di collocamento in aspettativa entro 
 
 ## Art. 3.
 
-Le spese per il personale mantenuto in servizio per la custodia degli impianti e del materiale ai sensi del primo comma del precedente art. 2, sono considerate spese di esercizio ai fini dei sussidi integrativi di cui all'[art. 27, lettera b) del R. decreto-legge 29 luglio 1938, n. 1121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-07-29;1121#art_27-letb).
+Le spese per il personale mantenuto in servizio per la custodia degli impianti e del materiale ai sensi del primo comma del precedente art. 2, sono considerate spese di esercizio ai fini dei sussidi integrativi di cui all'[art. 27, lettera b) del R. decreto-legge 29 luglio 1938, n. 1121](Unificazione%20del%20regime%20tributario%20per%20lautomobilismo%20industriale.%20038U1121.md).
 
 ## Art. 4.
 
-Le somme che saranno corrisposte ai sensi dell'[art. 27, lettera b) del R. decreto-legge 29 luglio 1938, n. 1121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-07-29;1121#art_27-letb), per sussidi integrativi di esercizio, sono ripetibili, con gli interessi, in misura non eccedente il cinque per cento, nel corso della concessione.
+Le somme che saranno corrisposte ai sensi dell'[art. 27, lettera b) del R. decreto-legge 29 luglio 1938, n. 1121](Unificazione%20del%20regime%20tributario%20per%20lautomobilismo%20industriale.%20038U1121.md), per sussidi integrativi di esercizio, sono ripetibili, con gli interessi, in misura non eccedente il cinque per cento, nel corso della concessione.
  La decorrenza, il numero delle annualita', il tasso di interesse, entro il limite indicato nel precedente comma, e le altre condizioni e modalita' per il rimborso verranno stabilita' con decreto del Ministro per i trasporti, sentita la Commissione interministeriale di cui all'[art. 4 del decreto legislativo Luogotenenziale 15 ottobre 1944, n. 346](Provvidenze%20eccezionali%20per%20la%20riattivazione%20dei%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata.%20044U0346.md).
  L'obbligo dei concessionari di iscrivere annualmente nei propri bilanci le corrispondenti partite di debito decorre dalla data di notifica, dei decreti anzidetti.
  I concessionari medesimi dovranno, tuttavia, annotare per memoria, nei bilanci di ciascun anno, i sussidi rimborsabili percepiti.

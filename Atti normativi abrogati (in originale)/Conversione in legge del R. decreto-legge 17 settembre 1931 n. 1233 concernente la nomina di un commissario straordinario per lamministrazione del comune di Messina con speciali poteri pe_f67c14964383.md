@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  Articolo unico. 
  
  
- E' convertito in legge il [R. decreto-legge 17 settembre 1931, n. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-17;1233), concernente la nomina di un commissario straordinario per l'amministrazione del comune di Messina, con speciali poteri per la dispensa del personale. 
+ E' convertito in legge il [R. decreto-legge 17 settembre 1931, n. 1233](Nomina%20di%20un%20commissario%20straordinario%20per%20lamministrazione%20del%20comune%20di%20Messina%20con%20speciali%20poteri%20per%20la%20dispensa%20del%20personale.%20031U1233.md), concernente la nomina di un commissario straordinario per l'amministrazione del comune di Messina, con speciali poteri per la dispensa del personale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

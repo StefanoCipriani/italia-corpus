@@ -16,7 +16,7 @@ IL PRESIDENTE DELLA REPUBBLICA La seguente legge:
 
 ## Articolo unico.
 
-Le patenti di guida di cui all'[articolo 80 del decreto del Presidente della Repubblica 27 ottobre 1958, n. 956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-10-27;956#art_80), rilasciate dopo la entrata in vigore della presente legge, devono contenere la indicazione completa del gruppo sanguigno di appartenenza del titolare.
+Le patenti di guida di cui all'[articolo 80 del decreto del Presidente della Repubblica 27 ottobre 1958, n. 956](../DPR/Approvazione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), rilasciate dopo la entrata in vigore della presente legge, devono contenere la indicazione completa del gruppo sanguigno di appartenenza del titolare.
  Per le patenti gia' rilasciate, l'indicazione del gruppo sanguigno viene apposta su richiesta del titolare, ma, comunque, sempre in occasione delle conferme periodiche, di cui all'articolo 88 e della revisione delle patenti, di cui all'[articolo 89 del decreto del Presidente della Repubblica 15 giugno 1959, n. 393](Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md).
  Il Ministro per trasporti, di concerto col Ministro per la sanita', stabilira' con suo provvedimento le modalita' di attuazione della presente legge.
 

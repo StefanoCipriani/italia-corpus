@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 28 del testo unico delle leggi sulla Amministrazione e sulla contabilita' di Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016); 
+ Visto l'art. 28 del testo unico delle leggi sulla Amministrazione e sulla contabilita' di Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md); 
  
- Visto l'art. 51 del regolamento approvato col [R. decreto 16 maggio 1912, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;556) per la gestione amministrativa e contabile del fondo della emigrazione; 
+ Visto l'art. 51 del regolamento approvato col [R. decreto 16 maggio 1912, n. 556](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20del%20Fondo%20per%20lemigrazione.%20012U0556.md) per la gestione amministrativa e contabile del fondo della emigrazione; 
  
- Veduta la [legge 2 gennaio 1916, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-01-02;10) che ha autorizzato l'esercizio provvisorio del bilancio del fondo dell'emigrazione per l'esercizio finanziario 1915-916 fino al 30 giugno 1916; 
+ Veduta la [legge 2 gennaio 1916, n. 10](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%203%20giugno%201915%20n.%20832%20col%20quale%20viene%20autorizzato%20lesercizio%20provvisorio%20del%20bilancio%20del%20Fondo%20per%20la%20emigrazione%20per%20lesercizio%20finanziar_35d574f6b66f.md) che ha autorizzato l'esercizio provvisorio del bilancio del fondo dell'emigrazione per l'esercizio finanziario 1915-916 fino al 30 giugno 1916; 
  
  Ritenuto che il fondo di riserva per le spese impreviste, stanziato nel capitolo 60 del bilancio del fondo dell'emigrazione per l'esercizio corrente, presenta una disponibilita' di L. 138.309,20 e quindi consente una terza prelevazione di L. 30.000; 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 aprile 1928, n. 881](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-04-15;881), concernente modificazioni al [R. decreto-legge 24 novembre 1925, n. 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-24;2012), che autorizza il Governo del Re a concedere a trattativa privata alla «Societa' cooperativa agricola fra ravennati residenti in Ostia» la tenuta demaniale di Ostia pel canone annuo di L. 50,000. 
+ E' convertito in legge il [R. decreto-legge 15 aprile 1928, n. 881](Concessione%20in%20enfiteusi%20alla%20Societa%20cooperativa%20agricola%20fra%20ravennati%20residenti%20in%20Ostia%20della%20tenuta%20demaniale%20di%20Ostia.%20028U0881.md), concernente modificazioni al [R. decreto-legge 24 novembre 1925, n. 2012](Concessione%20in%20enfiteusi%20alla%20Societa%20cooperativa%20agricola%20operaia%20fra%20coloni%20ed%20operai%20ravennati%20residenti%20in%20Ostia%20e%20Fiumicino%20dei%20beni%20della%20tenuta%20demaniale%20di%20Ostia.%20025U2012.md), che autorizza il Governo del Re a concedere a trattativa privata alla «Societa' cooperativa agricola fra ravennati residenti in Ostia» la tenuta demaniale di Ostia pel canone annuo di L. 50,000. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

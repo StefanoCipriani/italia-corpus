@@ -589,7 +589,7 @@ Il grado si perde per una delle cause seguenti:
  
  b) per assunzione di servizio, non autorizzata, nelle forze armate di stati esteri; 
  
- c) per decisione del Ministro per la guerra, sentito il parere del tribunale supremo militare, quando l'ufficiale, prosciolto dal giudice penale, sia stato sottoposto ad una delle misure di sicurezza personali prevedute dall'[articolo 215 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_215) comune; ovvero quando l'ufficiale, condannato fuori dei casi preveduti dal n. 6 del presente articolo, sia stato ricoverato, a cagione di infermita' psichica, in una casa di cura o di custodia. 
+ c) per decisione del Ministro per la guerra, sentito il parere del tribunale supremo militare, quando l'ufficiale, prosciolto dal giudice penale, sia stato sottoposto ad una delle misure di sicurezza personali prevedute dall'[articolo 215 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune; ovvero quando l'ufficiale, condannato fuori dei casi preveduti dal n. 6 del presente articolo, sia stato ricoverato, a cagione di infermita' psichica, in una casa di cura o di custodia. 
  
  Nel caso che l'ufficiale, prosciolto, sia stato ricoverato in un manicomio giudiziario (articolo 222 di detto codice) e nel caso che l'ufficiale condannato sia stato ricoverato per infermita' psichica in una casa di cura o di custodia (articoli 219 e 229 del codice stesso), la decisione del Ministro e' presa quando l'ufficiale ne viene dimesso; 
  
@@ -601,9 +601,9 @@ Il grado si perde per una delle cause seguenti:
  
  a) nei casi espressamente preveduti dalla legge penale militare; 
  
- b) per delitto non colposo, quando esso importi una delle pene accessorie prevedute dal [primo comma dell'articolo 19 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_19-com1) comune, tranne che si tratti dei reati di cui agli articoli 396 e 399 del codice stesso; ovvero quando il condannato sia stato sottoposto ad una delle misure di sicurezza personali prevedute dall'articolo 215 del detto codice, salva la disposizione della lettera c) del n. 3 dello stesso articolo 215; 
+ b) per delitto non colposo, quando esso importi una delle pene accessorie prevedute dal [primo comma dell'articolo 19 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, tranne che si tratti dei reati di cui agli articoli 396 e 399 del codice stesso; ovvero quando il condannato sia stato sottoposto ad una delle misure di sicurezza personali prevedute dall'articolo 215 del detto codice, salva la disposizione della lettera c) del n. 3 dello stesso articolo 215; 
  
- c) per i delitti non colposi contro la personalita', dello Stato (Capo I e II, Titolo I, libro secondo del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) comune) e per i delitti preveduti dal predetto codice negli articoli: dal 476 al 493, 530, 531, 532, 533, 534, 535, 536, 537, 624, 628, 629, 640, 643, 646, e dal codice di commercio negli articoli 860 e 861, terzo comma.
+ c) per i delitti non colposi contro la personalita', dello Stato (Capo I e II, Titolo I, libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune) e per i delitti preveduti dal predetto codice negli articoli: dal 476 al 493, 530, 531, 532, 533, 534, 535, 536, 537, 624, 628, 629, 640, 643, 646, e dal codice di commercio negli articoli 860 e 861, terzo comma.
 
 ### Art. 59.
 
@@ -954,7 +954,7 @@ TITOLO IX
 
 ### Art. 98.
 
-Gli ufficiali generali gia' in posizione ausiliaria speciale che prima del [Regio decreto 7 gennaio 1923, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;12), rivestivano il grado di tenente generale nel ruolo tecnico d'artiglieria conservano, dal 1° febbraio 1923, tale grado ad personam.
+Gli ufficiali generali gia' in posizione ausiliaria speciale che prima del [Regio decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), rivestivano il grado di tenente generale nel ruolo tecnico d'artiglieria conservano, dal 1° febbraio 1923, tale grado ad personam.
 
 ### Art. 99.
 
@@ -1127,7 +1127,7 @@ Agli ufficiali riassunti in servizio sedentario, oltre la pensione privilegiata 
 
 ### Art. 117.
 
-A norma dell'[articolo 22 del Regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_22), per gli ufficiali invalidi di guerra riassunti il godimento di una pensione o di un assegno di guerra non e' di ostacolo al conseguimento di una pensione normale quando l'invalido venga ad acquistarne diritto indipendentemente dall'invalidita'. 
+A norma dell'[articolo 22 del Regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), per gli ufficiali invalidi di guerra riassunti il godimento di una pensione o di un assegno di guerra non e' di ostacolo al conseguimento di una pensione normale quando l'invalido venga ad acquistarne diritto indipendentemente dall'invalidita'. 
  
  I criteri per la valutazione del servizio militare e delle campagne di guerra agli effetti della eventuale liquidazione della pensione normale sono quelli stabiliti dal regolamento approvato con [Regio decreto 28 dicembre 1924, n. 2163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-28;2163).
 
@@ -1183,11 +1183,11 @@ E' istituito uno speciale «ruolo d'onore» nel quale verranno iscritti d'uffici
 
 ### Art. 122.
 
-Gli ufficiali in servizio permanente che, per effetto di ferite, lesioni od infermita' riportate in guerra, o aggravate od occasionate dal servizio di guerra, abbiano conseguito una pensione vitalizia od un assegno rinnovabile da ascriversi a una delle otto categorie previste dalla tabella annessa al [Regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491), qualora non siano mantenuti in servizio in base al [decreto Luogotenenziale 14 giugno 1917, n. 1032](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-06-14;1032), cessano di diritto dal servizio permanente, senza bisogno di ulteriori accertamenti sanitari e sono collocati nella riserva, dal giorno in cui e' concessa loro la pensione o l'assegno. 
+Gli ufficiali in servizio permanente che, per effetto di ferite, lesioni od infermita' riportate in guerra, o aggravate od occasionate dal servizio di guerra, abbiano conseguito una pensione vitalizia od un assegno rinnovabile da ascriversi a una delle otto categorie previste dalla tabella annessa al [Regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), qualora non siano mantenuti in servizio in base al [decreto Luogotenenziale 14 giugno 1917, n. 1032](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-06-14;1032), cessano di diritto dal servizio permanente, senza bisogno di ulteriori accertamenti sanitari e sono collocati nella riserva, dal giorno in cui e' concessa loro la pensione o l'assegno. 
  
  Quelli di detti ufficiali, ai quali venga in seguito soppressa la pensione vitalizia o non sia rinnovato l'assegno, saranno riammessi in servizio permanente se, alla data del relativo accertamento sanitario seguito dal giudizio positivo, non siano trascorsi piu' di tre anni dalla cessazione dal servizio permanente o dal collocamento in aspettativa seguito dalla cessazione dal servizio permanente, e sempre che alla data stessa non abbiano superato il limite di eta' previsto per il loro grado. Per il periodo trascorso fuori dai ruoli del servizio permanente saranno considerati - ai soli effetti della posizione di stato e senza diritto ad alcun assegno od indennita' - in aspettativa per infermita' dipendente dal servizio. 
  
- A quegli ufficiali che, per aver superato i limiti di cui al precedente comma, non possano ottenere la riammissione, saranno applicate, a seconda della durata del servizio prestato, le disposizioni delle lettere b) e c) dell'articolo 32 della presente legge, a decorrere dal giorno successivo alla scadenza dell'assegno rinnovabile; a quelli, invece, che non raggiungano neppure il limite di servizio di cui alla predetta lettera b), sara' liquidata una pensione di riforma, considerando come raggiunto sempre il limite minimo di servizio all'uopo richiesto, e gli anni di servizio effettivamente prestati verranno calcolati in aggiunta a tale limite senza pero' che possa essere oltrepassato il limite previsto dall'articolo 96 del testo unico delle leggi sulle pensioni civili e militari modificato dall'[articolo 12 del Regio decreto 18 novembre 1920, n. 1626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-18;1626#art_12). 
+ A quegli ufficiali che, per aver superato i limiti di cui al precedente comma, non possano ottenere la riammissione, saranno applicate, a seconda della durata del servizio prestato, le disposizioni delle lettere b) e c) dell'articolo 32 della presente legge, a decorrere dal giorno successivo alla scadenza dell'assegno rinnovabile; a quelli, invece, che non raggiungano neppure il limite di servizio di cui alla predetta lettera b), sara' liquidata una pensione di riforma, considerando come raggiunto sempre il limite minimo di servizio all'uopo richiesto, e gli anni di servizio effettivamente prestati verranno calcolati in aggiunta a tale limite senza pero' che possa essere oltrepassato il limite previsto dall'articolo 96 del testo unico delle leggi sulle pensioni civili e militari modificato dall'[articolo 12 del Regio decreto 18 novembre 1920, n. 1626](Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md). 
  
  L'ufficiale provvisto di pensione o assegno rinnovabile di guerra per infermita' da ascriversi ad una delle otto categorie previste dalla tabella annessa al Regio decreto 12 luglio 1923 anno I, n. 1491, non puo' essere assunto in servizio permanente, salvo che, giudicato idoneo al servizio militare incondizionato, rinunzi definitivamente al trattamento di guerra. 
  

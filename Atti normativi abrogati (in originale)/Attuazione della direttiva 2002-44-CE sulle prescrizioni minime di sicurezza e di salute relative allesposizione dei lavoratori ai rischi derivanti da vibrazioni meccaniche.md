@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 31 ottobre 2003, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-10-31;306) (legge comunitaria 2003);
+Vista la [legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202003.md) (legge comunitaria 2003);
 
 Vista la [direttiva 2004/44/CE del Parlamento europeo e del Consiglio, del 25 giugno 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;44), relativa alle prescrizioni minime di sicurezza e salute relative all'esposizione dei lavoratori ai rischi derivanti dagli agenti fisici (vibrazioni);
 
@@ -42,7 +42,7 @@ Nei riguardi dei soggetti indicati all'[articolo 1, comma 2, del decreto legisla
 
 Avvertenza:
 
- Nella Gazzetta Ufficiale - serie generale - del 5 ottobre 2005 si procedera' alla ripubblicazione del testo della presente legge corredata delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-14;217).
+ Nella Gazzetta Ufficiale - serie generale - del 5 ottobre 2005 si procedera' alla ripubblicazione del testo della presente legge corredata delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ## Art. 2. — Definizioni
 
@@ -277,7 +277,7 @@ Per il settore agricolo e forestale l'obbligo del rispetto dei valori limite di 
 
 4.
 
-Dalla data di entrata in vigore del presente decreto sono abrogati l'[articolo 24 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_24), e la voce 48 della tabella delle lavorazioni di cui all'articolo 33 del medesimo decreto n. 303 del 1956.
+Dalla data di entrata in vigore del presente decreto sono abrogati l'[articolo 24 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), e la voce 48 della tabella delle lavorazioni di cui all'articolo 33 del medesimo decreto n. 303 del 1956.
 
 5.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'art. 6 del testo unico approvato col [R. decreto 30 dicembre 1923, n. 3271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3271), che esonera dal pagamento della tassa di manomorta gli investiti di benefici ecclesiastici aventi diritto a supplemento di congrua;
+Veduto l'art. 6 del testo unico approvato col [R. decreto 30 dicembre 1923, n. 3271](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulla%20manomorta.%20023U3271.md), che esonera dal pagamento della tassa di manomorta gli investiti di benefici ecclesiastici aventi diritto a supplemento di congrua;
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la giustizia e gli af
 
 ## Art. 1.
 
-Nelle liquidazioni ancora da effettuarsi dall'Amministrazione dal fondo per il culto per la concessione dei supplementi di congrua al clero, in applicazione delle leggi e dei decreti emanati in tale materia, non dovra' piu' ammettersi fra le passivita' del beneficio la tassa di manomorta del pagamento della quale sono stati esonerati gli investiti con l'art. 6 del testo unico approvato con [R. decreto 30 dicembre 1923, n. 3271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3271). 
+Nelle liquidazioni ancora da effettuarsi dall'Amministrazione dal fondo per il culto per la concessione dei supplementi di congrua al clero, in applicazione delle leggi e dei decreti emanati in tale materia, non dovra' piu' ammettersi fra le passivita' del beneficio la tassa di manomorta del pagamento della quale sono stati esonerati gli investiti con l'art. 6 del testo unico approvato con [R. decreto 30 dicembre 1923, n. 3271](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulla%20manomorta.%20023U3271.md). 
  
  Le liquidazioni gia' eseguite e approvate con decreto registrato alla Corte dei conti non saranno variate nei riguardi della tassa suddetta, se non in occasione di passaggio del beneficio ad un nuovo titolare, e la variazione avra' effetto solo dalla data, dalla quale decorrera' la voltura dell'assegno supplementare di congrua.
 

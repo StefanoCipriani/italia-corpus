@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di integrare il Fondo sanitario nazionale di parte corrente al fine di far fronte all'aumentata spesa per i beni e servizi delle unita' sanitarie locali per l'anno 1991, nonche' di emanare disposizioni integrative della disciplina introdotta dall'[articolo 4 della legge 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412#art_4);
+Ritenuta la straordinaria necessita' ed urgenza di integrare il Fondo sanitario nazionale di parte corrente al fine di far fronte all'aumentata spesa per i beni e servizi delle unita' sanitarie locali per l'anno 1991, nonche' di emanare disposizioni integrative della disciplina introdotta dall'[articolo 4 della legge 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 luglio 1992;
 
@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il limite di crescita della spesa per acquisti di beni e servizi da parte degli enti del Servizio sanitario nazionale previsto dall'[articolo 5, comma 2, della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_5-com2), e' elevato dall'11 al 22 per cento.
+Il limite di crescita della spesa per acquisti di beni e servizi da parte degli enti del Servizio sanitario nazionale previsto dall'[articolo 5, comma 2, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), e' elevato dall'11 al 22 per cento.
 
 2.
 
@@ -54,7 +54,7 @@ Gli interessi di preammortamento, calcolati applicando lo stesso tasso vigente a
 
 1.
 
-L'onere per l'ammortamento dei mutui e' valutato in complessive lire 978 miliardi per ciascun anno a decorrere dal 1993 e si provvede mediante utilizzo della quota all'uopo vincolata del Fondo sanitario nazionale iscritto nello stato di previsione del Ministero del tesoro, intendendosi conseguentemente esaurita la quota destinata all'ammortamento dei mutui per il finanziamento dell'eccedenza della spesa sanitaria 1989, 1990 e 1991, di cui alla tabella richiamata al [comma 3 dell'articolo 2 della legge 31 dicembre 1991, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-31;415#art_2-com3). E' fatto pertanto divieto, per il triennio 1992-1994, di destinare ulteriori quote del Fondo sanitario nazionale di parte corrente per la copertura del servizio del debito. I provvedimenti legislativi per il ripiano dei bilanci del Servizio sanitario nazionale debbono fornire nelle relazioni tecniche specifici elementi desunti dalla contabilita' di ciascuna unita' sanitaria locale, al fine del calcolo delle dimensioni effettive del fabbisogno aggiuntivo per ciascuna di esse.
+L'onere per l'ammortamento dei mutui e' valutato in complessive lire 978 miliardi per ciascun anno a decorrere dal 1993 e si provvede mediante utilizzo della quota all'uopo vincolata del Fondo sanitario nazionale iscritto nello stato di previsione del Ministero del tesoro, intendendosi conseguentemente esaurita la quota destinata all'ammortamento dei mutui per il finanziamento dell'eccedenza della spesa sanitaria 1989, 1990 e 1991, di cui alla tabella richiamata al [comma 3 dell'articolo 2 della legge 31 dicembre 1991, n. 415](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201992.md). E' fatto pertanto divieto, per il triennio 1992-1994, di destinare ulteriori quote del Fondo sanitario nazionale di parte corrente per la copertura del servizio del debito. I provvedimenti legislativi per il ripiano dei bilanci del Servizio sanitario nazionale debbono fornire nelle relazioni tecniche specifici elementi desunti dalla contabilita' di ciascuna unita' sanitaria locale, al fine del calcolo delle dimensioni effettive del fabbisogno aggiuntivo per ciascuna di esse.
 
 2.
 
@@ -78,13 +78,13 @@ Le somme dovute a qualsiasi titolo dalle unita' sanitarie locali e dagli istitut
 
 1.
 
-Le disposizioni relative alle presidenze delle commissioni di concorso e delle commissioni per gli appalti di cui al [comma 9 dell'articolo 1 del decreto-legge 6 febbraio 1991, n. 35](Norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali_2.md), convertito, con modificazioni, dalla [legge 4 aprile 1991, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-04-04;111), sono riferibili esclusivamente ai dirigenti responsabili di servizio secondo l'ordinamento delle unita' sanitarie locali e delle unita' socio- sanitarie locali, nel rispetto delle attribuzioni dei singoli ruoli.
+Le disposizioni relative alle presidenze delle commissioni di concorso e delle commissioni per gli appalti di cui al [comma 9 dell'articolo 1 del decreto-legge 6 febbraio 1991, n. 35](Norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali_2.md), convertito, con modificazioni, dalla [legge 4 aprile 1991, n. 111](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201991%20n.%2035%20recante%20norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali.md), sono riferibili esclusivamente ai dirigenti responsabili di servizio secondo l'ordinamento delle unita' sanitarie locali e delle unita' socio- sanitarie locali, nel rispetto delle attribuzioni dei singoli ruoli.
 
 ## Art. 5.
 
 1.
 
-Il passaggio a domanda del personale medico del Servizio sanitario nazionale dal rapporto di lavoro a tempo definito a quello a tempo pieno, di cui all'[articolo 4, comma 7, della legge 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412#art_4-com7), e' garantito unicamente ai medici i cui rapporti di natura convenzionale con il Servizio sanitario nazionale siano cessati in applicazione delle disposizioni di cui al medesimo articolo 4, comma 7, della citata [legge n. 412 del 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;412).
+Il passaggio a domanda del personale medico del Servizio sanitario nazionale dal rapporto di lavoro a tempo definito a quello a tempo pieno, di cui all'[articolo 4, comma 7, della legge 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md), e' garantito unicamente ai medici i cui rapporti di natura convenzionale con il Servizio sanitario nazionale siano cessati in applicazione delle disposizioni di cui al medesimo articolo 4, comma 7, della citata [legge n. 412 del 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;412).
 
 2.
 
@@ -98,7 +98,7 @@ Nell'ambito degli interventi previsti dall'[articolo 1, comma 1, lettera c), del
 
 1.
 
-Le disposizioni di cui agli [articoli 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384#art_78), [116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384#art_116) e [117 del decreto del Presidente della Repubblica 28 novembre 1990, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-11-28;384#art_117), sono applicate nel rispetto delle funzioni di direzione e di organizzazione della struttura, proprie del dirigente di livello apicale, da attuarsi anche mediante direttive a tutto il personale operante nella stessa e l'adozione dei provvedimenti relativi, necessari per il corretto espletamento del servizio. Per quanto riguarda l'attivita' sanitaria, spettano in particolare al dirigente di livello apicale gli indirizzi e, in caso di necessita', le decisioni sulle scelte da adottare nei riguardi degli interventi clinici, diagnostici e terapeutici.
+Le disposizioni di cui agli [articoli 78](../DPR/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md), [116](../DPR/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) e [117 del decreto del Presidente della Repubblica 28 novembre 1990, n. 384](../DPR/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md), sono applicate nel rispetto delle funzioni di direzione e di organizzazione della struttura, proprie del dirigente di livello apicale, da attuarsi anche mediante direttive a tutto il personale operante nella stessa e l'adozione dei provvedimenti relativi, necessari per il corretto espletamento del servizio. Per quanto riguarda l'attivita' sanitaria, spettano in particolare al dirigente di livello apicale gli indirizzi e, in caso di necessita', le decisioni sulle scelte da adottare nei riguardi degli interventi clinici, diagnostici e terapeutici.
 
 2.
 

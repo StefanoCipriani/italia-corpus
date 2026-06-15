@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 11 marzo 1917, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1917-03-11;469);
+Visto il [R. decreto 11 marzo 1917, n. 469](Col%20quale%20sono%20istituiti%20Comitati%20consultivi%20indigeni%20per%20la%20Tripolitania%20e%20per%20la%20Cirenaica%20ed%20un%20Comitato%20centrale%20consultivo%20misto%20presso%20il%20Ministero%20delle%20Colonie.%20017U0469.md);
 
 Visto il Nostro decreto 20 maggio 1917, n. 865;
 
-Vista la [legge 23 giugno 1918, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-06-23;830);
+Vista la [legge 23 giugno 1918, n. 830](Che%20autorizza%20il%20Governo%20ad%20esercitare%20provvisoriamente%20fino%20a%20quando%20non%20siano%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%201918%20i%20bilanci%20delle%20Amministrazioni%20dello%20Stato%20per%20leserci_caa5fa712e10.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -40,7 +40,7 @@ Nel bilancio della Tripolitania e Cirenaica per l'indicato esercizio sono introd
  
  a) Entrata. - Lo stanziamento dell'art. 21 «Contributo dello Stato nelle spese ordinarie civili» e' aumentato della somma di lire trecentoventiquattromilacinquecento (L. 324.500); 
  
- b) Spesa. - E' istituito l'art. n. 3-bis «Spese per il funzionamento dei Comitati consultivi indigeni e del Comitato centrale consultivo misto istituiti col [R. decreto 11 marzo 1917, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1917-03-11;469)» con lo stanziamento di lire centottantamila (L. 180.000). 
+ b) Spesa. - E' istituito l'art. n. 3-bis «Spese per il funzionamento dei Comitati consultivi indigeni e del Comitato centrale consultivo misto istituiti col [R. decreto 11 marzo 1917, n. 469](Col%20quale%20sono%20istituiti%20Comitati%20consultivi%20indigeni%20per%20la%20Tripolitania%20e%20per%20la%20Cirenaica%20ed%20un%20Comitato%20centrale%20consultivo%20misto%20presso%20il%20Ministero%20delle%20Colonie.%20017U0469.md)» con lo stanziamento di lire centottantamila (L. 180.000). 
  
  Lo stanziamento dei seguenti articoli e' aumentato della somma per ciascuno di essi indicata: 
  

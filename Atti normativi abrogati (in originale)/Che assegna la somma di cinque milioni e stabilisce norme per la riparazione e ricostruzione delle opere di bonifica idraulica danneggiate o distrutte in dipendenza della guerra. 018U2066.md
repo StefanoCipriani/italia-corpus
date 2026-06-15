@@ -30,7 +30,7 @@ E' assegnata la somma di lire cinque milioni, da prelevarsi dal fondo straordina
 
 ## Art. 2.
 
-I lavori suindicati sono dichiarati di pubblica utilita' e le necessarie occupazioni temporanee e permanenti sono ordinate dai prefetti ai sensi degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_71), modificati da quella 18 dicembre 1879, n. 5188. 
+I lavori suindicati sono dichiarati di pubblica utilita' e le necessarie occupazioni temporanee e permanenti sono ordinate dai prefetti ai sensi degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), modificati da quella 18 dicembre 1879, n. 5188. 
  
  Le indennita' di occupazione temporanea e permanente, che non siano bonariamente concordate, sono determinate ai sensi dell'ultimo comma dell'[art. 46 della legge 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445#art_46).
 
@@ -64,7 +64,7 @@ Eseguite direttamente le opere e rimborsatone l'importo agli interessati, il Min
 
 ## Art. 8.
 
-Nei riguardi delle opere eseguite per conto di Consorzi e privati e non classificate in prima categoria il Ministero dei lavori pubblici potra' esigere dai proprietari interessati la rifusione della eventuale differenza tra la spesa effettivamente sostenuta per lavoro e l'importo dell'indennizzo, curandone la riscossione in un numero di rate non superiore alle 30 nel modo previsto dall'art. 153 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148). 
+Nei riguardi delle opere eseguite per conto di Consorzi e privati e non classificate in prima categoria il Ministero dei lavori pubblici potra' esigere dai proprietari interessati la rifusione della eventuale differenza tra la spesa effettivamente sostenuta per lavoro e l'importo dell'indennizzo, curandone la riscossione in un numero di rate non superiore alle 30 nel modo previsto dall'art. 153 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md). 
  
  Il presente decreto avra' effetto dalla data di sua pubblicazione nella Gazzetta ufficiale del Regno e sara' presentato al Parlamento per essere convertito in legge. 
  

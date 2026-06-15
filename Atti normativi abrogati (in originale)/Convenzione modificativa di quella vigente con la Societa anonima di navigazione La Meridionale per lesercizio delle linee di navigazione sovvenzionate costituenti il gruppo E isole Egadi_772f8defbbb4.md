@@ -14,7 +14,7 @@ E' approvata l'unita convenzione in data 7 agosto 1930, che modifica quella del 
 
 ## Art. 2.
 
-Alla maggiore spesa derivante dalla convenzione modificativa di cui all'articolo precedente sara' provveduto a carico della somma di L. 5.155.000 autorizzata dal [R. decreto-legge 13 dicembre 1928, n. 3103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-13;3103), e gia' compresa negli stanziamenti previsti nella tabella allegata al suddetto Regio decreto-legge. 
+Alla maggiore spesa derivante dalla convenzione modificativa di cui all'articolo precedente sara' provveduto a carico della somma di L. 5.155.000 autorizzata dal [R. decreto-legge 13 dicembre 1928, n. 3103](Modificazioni%20nella%20tabella%20delle%20spese%20per%20lesercizio%20dei%20servizi%20marittimi%20sovvenzionati.%20028U3103.md), e gia' compresa negli stanziamenti previsti nella tabella allegata al suddetto Regio decreto-legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

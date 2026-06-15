@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 marzo 1933, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-23;188), concernente la modificazione del regime doganale della farina di manioca destinata all'alimentazione del bestiame. 
+ E' convertito in legge il [R. decreto-legge 23 marzo 1933, n. 188](Modificazione%20del%20regime%20doganale%20sulla%20farina%20di%20manioca%20destinata%20allalimentazione%20del%20bestiame.%20033U0188.md), concernente la modificazione del regime doganale della farina di manioca destinata all'alimentazione del bestiame. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

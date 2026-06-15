@@ -24,20 +24,20 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-All'[articolo 1, comma 1, della legge 2 febbraio 1990, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-02;18#art_1-com1), modificato dall'[articolo 8, comma 9- bis, del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_8-com9bis), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165), il capoverso e' sostituito dal seguente: 
+All'[articolo 1, comma 1, della legge 2 febbraio 1990, n. 18](Norme%20concernenti%20la%20riscossione%20delle%20imposte%20oggetto%20di%20sospensione%20nei%20confronti%20dei%20contribuenti%20residenti%20nelle%20zone%20colpite%20da%20eventi%20sismici%20Umbria%20Abruzzo%20Molise%20Lazio%20Campania.md), modificato dall'[articolo 8, comma 9- bis, del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_8-com9bis), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20aprile%201990%20n.%2090%20recante%20disposizioni%20in%20materia%20di%20determinazione%20del%20reddito%20ai%20fini%20delle%20imposte%20sui%20redditi%20di%20rimborsi%20d_30659e7e2a97.md), il capoverso e' sostituito dal seguente: 
  "Per il periodo di imposta 1985 e per il primo semestre del periodo di imposta 1986, la riscossione delle imposte di cui al precedente comma e' effettuata in ruoli principali, ripartiti in venti rate, che sono formati e consegnati all'intendente di finanza, rispettivamente, entro il 31 dicembre 1994 e il 31 dicembre 1998, in deroga al termine indicato nel [primo comma dell'articolo 17 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md). Le scadenze delle rate dei ruoli devono essere stabilite evitando che, nei confronti dei contribuenti indicati nel comma precedente, quelle relative al periodo di imposta 1985 si sovrappongano a quelle relative al periodo di imposta 1984 e quelle relative al primo semestre del periodo di imposta 1986 si sovrappongono a quelle relative del periodo di imposta 1985. La riscossione dei carichi dovra' avvenire senza soluzione di continuita' in modo che la scadenza della prima rata del ruolo da emettere sia immediatamente successiva alla scadenza dell'ultima rata del ruolo precedentemente emesso.".
 
 ## Art. 2.
 
 1.
 
-Il comma 3- bis dell'articolo 56 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), introdotto dall'[articolo 26, comma 8, del decreto-legge 2 marzo 1989, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;69#art_26-com8), convertito, con modificazioni, dalla [legge 27 aprile 1989, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-27;154), e' abrogato.
+Il comma 3- bis dell'articolo 56 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), introdotto dall'[articolo 26, comma 8, del decreto-legge 2 marzo 1989, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;69#art_26-com8), convertito, con modificazioni, dalla [legge 27 aprile 1989, n. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2069%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20persone%20fisiche%20e%20versamento%20di%20acconto%20de_946bfc2c101b.md), e' abrogato.
 
 ## Art. 3.
 
 1.
 
-Le somme dovute a titolo di sgravio degli oneri sociali di cui all'[articolo 1, comma 3, del decreto-legge 22 marzo 1993, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-22;71#art_1-com3), convertito dalla [legge 20 maggio 1993, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-20;151), da rimborsare alle imprese industriali in dieci rate annuali, concorrono alla formazione del reddito d'impresa in ciascun periodo d'imposta limitatamente all'ammontare della rata corrisposta annualmente.
+Le somme dovute a titolo di sgravio degli oneri sociali di cui all'[articolo 1, comma 3, del decreto-legge 22 marzo 1993, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-22;71#art_1-com3), convertito dalla [legge 20 maggio 1993, n. 151](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2022%20marzo%201993%20n.%2071%20recante%20disposizioni%20in%20materia%20di%20sgravi%20contributivi%20nel%20Mezzogiorno%20e%20di%20fiscalizzazione%20degli%20oneri%20sociali.md), da rimborsare alle imprese industriali in dieci rate annuali, concorrono alla formazione del reddito d'impresa in ciascun periodo d'imposta limitatamente all'ammontare della rata corrisposta annualmente.
 
 ## Art. 4.
 
@@ -50,13 +50,13 @@ L'[articolo 40 del decreto del Presidente della Repubblica 29 settembre 1973, n.
 
 1.
 
-All'[articolo 12, comma 4, del decreto-legge 2 marzo 1989, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;69#art_12-com4), convertito, con modificazioni, dalla [legge 27 aprile 1989, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-27;154), come sostituito dall'articolo 62-quater comma 1, lettera c), primo periodo, del [decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427), le parole "31 dicembre 1993" sono sostituite dalle seguenti: "30 giugno 1994".
+All'[articolo 12, comma 4, del decreto-legge 2 marzo 1989, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;69#art_12-com4), convertito, con modificazioni, dalla [legge 27 aprile 1989, n. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2069%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20persone%20fisiche%20e%20versamento%20di%20acconto%20de_946bfc2c101b.md), come sostituito dall'articolo 62-quater comma 1, lettera c), primo periodo, del [decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md), le parole "31 dicembre 1993" sono sostituite dalle seguenti: "30 giugno 1994".
 
 ## Art. 6.
 
 1.
 
-All'[articolo 78 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_78), sono apportate le seguenti modificazioni:
+All'[articolo 78 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 2 e' sostituito dal seguente: 
  " 2. Le organizzazioni aderenti alle associazioni di cui alle lettere a) e b) del comma 1 possono essere autorizzate, con decreto del Ministro delle finanze, alla costituzione dei centri previa delega della propria associazione nazionale.";
@@ -76,18 +76,18 @@ All'[articolo 78 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it
 
 2.
 
-Nell'[articolo 4 del decreto-legge 23 gennaio 1993, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-23;16#art_4), convertito, con modificazioni, dalla [legge 24 marzo 1993, n. 75, il comma 8- bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75#art_com8bis) e' sostituito dal seguente: 
- "8-bis. Ai sostituti di imposta con un numero di dipendenti fino a 100 e' data facolta' di prestare assistenza fiscale, qualora i dipendenti ne facciano richiesta. A tal fine occorre fare riferimento al numero di dipendenti esistenti alla data del 31 dicembre dell'anno precedente a quello nel corso del quale dovrebbe essere prestata l'assistenza. Resta fermo l'obbligo di effettuare le operazioni di cui alla [lettera d) del comma 13 dell'articolo 78 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_78-com13-letd).".
+Nell'[articolo 4 del decreto-legge 23 gennaio 1993, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-23;16#art_4), convertito, con modificazioni, dalla [legge 24 marzo 1993, n. 75, il comma 8- bis](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md) e' sostituito dal seguente: 
+ "8-bis. Ai sostituti di imposta con un numero di dipendenti fino a 100 e' data facolta' di prestare assistenza fiscale, qualora i dipendenti ne facciano richiesta. A tal fine occorre fare riferimento al numero di dipendenti esistenti alla data del 31 dicembre dell'anno precedente a quello nel corso del quale dovrebbe essere prestata l'assistenza. Resta fermo l'obbligo di effettuare le operazioni di cui alla [lettera d) del comma 13 dell'articolo 78 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md).".
 
 3.
 
-Per l'anno 1994 il Ministro della pubblica istruzione ha facolta' di non svolgere le attivita' di assistenza previste dall'[articolo 78, comma 13, della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_78-com13), fermo restando l'obbligo di tenere conto, ai fini del conguaglio da effettuare in sede di ritenute d'acconto, del risultato contabile della liquidazione delle dichiarazioni dei redditi presentate ai centri di assistenza fiscale.
+Per l'anno 1994 il Ministro della pubblica istruzione ha facolta' di non svolgere le attivita' di assistenza previste dall'[articolo 78, comma 13, della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), fermo restando l'obbligo di tenere conto, ai fini del conguaglio da effettuare in sede di ritenute d'acconto, del risultato contabile della liquidazione delle dichiarazioni dei redditi presentate ai centri di assistenza fiscale.
 
 ## Art. 7.
 
 1.
 
-Il termine previsto dall'[articolo 62, comma 17, del decreto- legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331#art_62-com17), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427), in materia di revisione delle circoscrizioni territoriali degli uffici finanziari, e' prorogato al 31 dicembre 1994.
+Il termine previsto dall'[articolo 62, comma 17, del decreto- legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331#art_62-com17), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md), in materia di revisione delle circoscrizioni territoriali degli uffici finanziari, e' prorogato al 31 dicembre 1994.
 
 ## Art. 8.
 
@@ -99,7 +99,7 @@ L'[articolo 2, quinto comma, della legge 22 luglio 1982, n. 467](https://www.nor
 
 1.
 
-Al testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, approvato con [decreto legislativo 31 ottobre 1990, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-10-31;346), come modificato dall'[articolo 23, comma 3, della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_23-com3), sono apportate le seguenti modificazioni:
+Al testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, approvato con [decreto legislativo 31 ottobre 1990, n. 346](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20sulle%20successioni%20e%20donazioni.md), come modificato dall'[articolo 23, comma 3, della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), sono apportate le seguenti modificazioni:
                         a)
                             nell'articolo 20, il comma 1 e' sostituito dal seguente: 
  " 1. Le passivita' deducibili sono costituite dai debiti del defunto esistenti alla data di apertura della successione e dalle spese mediche e funerarie indicate nell'articolo 24.";
@@ -123,17 +123,17 @@ Al testo unico delle disposizioni concernenti l'imposta sulle successioni e dona
 
 2.
 
-Il [comma 1 dell'articolo 63 del decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331#art_63-com1), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427), e' abrogato.
+Il [comma 1 dell'articolo 63 del decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331#art_63-com1), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md), e' abrogato.
 
 ## Art. 10.
 
 1.
 
-L'addizionale regionale all'imposta erariale di trascrizione, prevista dal capo I del [decreto legislativo 21 dicembre 1990, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-12-21;398), e l'imposta provinciale per l'iscrizione dei veicoli nel pubblico registro automobilistico, prevista dal capo II del titolo II del [decreto legislativo 30 dicembre 1992, n. 504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;504), si applicano anche agli atti pubblici ed agli atti giudiziari assoggettati all'imposta di registro, da prodursi al pubblico registro automobilistico per le formalita' di trascrizione, iscrizione e annotazione.
+L'addizionale regionale all'imposta erariale di trascrizione, prevista dal capo I del [decreto legislativo 21 dicembre 1990, n. 398](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20e%20disciplina%20delladdizionale%20regionale%20allimposta%20erariale%20di%20trascrizione%20di%20cui%20alla%20legge%2023%20dicembre%201977%20n.%20952%20e%20successive%20modificazioni%20delladdizionale%20regionale%20allac_b924575bbfa7.md), e l'imposta provinciale per l'iscrizione dei veicoli nel pubblico registro automobilistico, prevista dal capo II del titolo II del [decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), si applicano anche agli atti pubblici ed agli atti giudiziari assoggettati all'imposta di registro, da prodursi al pubblico registro automobilistico per le formalita' di trascrizione, iscrizione e annotazione.
 
 2.
 
-Per l'accertamento, la liquidazione, la riscossione e l'attribuzione agli enti aventi diritto delle somme riscosse, nonche' per ogni adempimento relativo all'applicazione dell'addizionale regionale e dell'imposta provinciale di cui al comma 1, si applicano le disposizioni contenute rispettivamente nel capo I del [decreto legislativo 21 dicembre 1990, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-12-21;398), e nel capo II del titolo II del [decreto legislativo 30 dicembre 1992, n. 504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;504). I predetti tributi dovranno essere corrisposti al pubblico registro automobilistico contestualmente alla richiesta delle formalita'.
+Per l'accertamento, la liquidazione, la riscossione e l'attribuzione agli enti aventi diritto delle somme riscosse, nonche' per ogni adempimento relativo all'applicazione dell'addizionale regionale e dell'imposta provinciale di cui al comma 1, si applicano le disposizioni contenute rispettivamente nel capo I del [decreto legislativo 21 dicembre 1990, n. 398](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20e%20disciplina%20delladdizionale%20regionale%20allimposta%20erariale%20di%20trascrizione%20di%20cui%20alla%20legge%2023%20dicembre%201977%20n.%20952%20e%20successive%20modificazioni%20delladdizionale%20regionale%20allac_b924575bbfa7.md), e nel capo II del titolo II del [decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md). I predetti tributi dovranno essere corrisposti al pubblico registro automobilistico contestualmente alla richiesta delle formalita'.
 
 3.
 
@@ -157,14 +157,14 @@ d'ordine sulle concessioni comunali della tassa
 
 2.
 
-Alla tariffa delle tasse sulle concessioni regionali, approvata con [decreto legislativo 22 giugno 1991, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-06-22;230), e successive modificazioni, dopo il numero 24 e' inserito
+Alla tariffa delle tasse sulle concessioni regionali, approvata con [decreto legislativo 22 giugno 1991, n. 230](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Approvazione%20della%20tariffa%20delle%20tasse%20sulle%20concessioni%20regionali%20ai%20sensi%20dellart.%203%20della%20legge%2016%20maggio%201970%20n.%20281%20come%20sostituito%20dallart.%204%20della%20legge%2014%20giugno%201990%20n.%20158.md), e successive modificazioni, dopo il numero 24 e' inserito
 il seguente:
 
  Numero Indicazione degli atti Tassa di Tassa d'ordine soggetti a tassa rilascio annuale --- --- --- ---
 "24- bis Autorizzazione per l'esercizio del
  commercio su aree pubbliche ([legge
  28 marzo 1991, n. 112, articolo 2,
- commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-28;112#art_2-com3) e [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-28;112#art_2-com4)) .. .. .. .. .. .. .. 150.000 75.000 Note: La tassa annuale deve essere
+ commi 3](Norme%20in%20materia%20di%20commercio%20su%20aree%20pubbliche.md) e [4](Norme%20in%20materia%20di%20commercio%20su%20aree%20pubbliche.md)) .. .. .. .. .. .. .. 150.000 75.000 Note: La tassa annuale deve essere
  corrisposta entro il 31 gennaio
  dell'anno cui si riferisce.".
 
@@ -176,7 +176,7 @@ Il termine per il pagamento delle tasse di concessione di cui al comma 1, relati
 
 1.
 
-Al [decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427), sono apportate le seguenti modificazioni:
+Al [decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md), sono apportate le seguenti modificazioni:
                         a)
                             nell'articolo 4, comma 3, lettera a), l'ultimo periodo e' sostituito dal seguente: "Resta ferma la facolta' per l'amministrazione finanziaria di esonerare da tale obbligo le ditte riconosciute affidabili o di notoria solvibilita'.";
                         b)
@@ -188,13 +188,13 @@ Al [decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls
 
 1.
 
-L'esclusiva per l'Ente poste italiane della distribuzione primaria dei valori bollati, stabilita dall'[articolo 13, comma 3, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_13-com3), ha effetto dal 1 aprile 1994.
+L'esclusiva per l'Ente poste italiane della distribuzione primaria dei valori bollati, stabilita dall'[articolo 13, comma 3, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ha effetto dal 1 aprile 1994.
 
 ## Art. 14.
 
 1.
 
-Fino al 31 marzo 1994, nei confronti degli intestatari di conto fiscale di cui all'[articolo 78, commi da 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_78-com27) [a 38, della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_78-com38), le aziende di credito possono limitarsi ad accettare deleghe per versamenti dell'imposta sul valore aggiunto previsti dagli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_27) e [74 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_74), utilizzando i moduli approvati con il decreto del Ministro delle finanze 22 novembre 1991, pubblicato nella Gazzetta Ufficiale n. 279 del 28 novembre 1991. In tal caso l'azienda di credito delegata accredita, entro le ore 13 del terzo giorno lavorativo successivo a quello di ricevimento, al concessionario competente per il comune dove ha sede l'ufficio dell'imposta sul valore aggiunto le somme riscosse, al netto delle commissioni stabilite in via regolamentare.
+Fino al 31 marzo 1994, nei confronti degli intestatari di conto fiscale di cui all'[articolo 78, commi da 27](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md) [a 38, della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), le aziende di credito possono limitarsi ad accettare deleghe per versamenti dell'imposta sul valore aggiunto previsti dagli [articoli 27](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) e [74 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), utilizzando i moduli approvati con il decreto del Ministro delle finanze 22 novembre 1991, pubblicato nella Gazzetta Ufficiale n. 279 del 28 novembre 1991. In tal caso l'azienda di credito delegata accredita, entro le ore 13 del terzo giorno lavorativo successivo a quello di ricevimento, al concessionario competente per il comune dove ha sede l'ufficio dell'imposta sul valore aggiunto le somme riscosse, al netto delle commissioni stabilite in via regolamentare.
 
 2.
 

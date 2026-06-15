@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 E' fatto obbligo alle banche, ai notai, agli agenti di cambio ed in genere ai pubblici ufficiali che intervengono in operazioni che comunque comportino investimenti di capitali esteri in Italia, di comunicare allo Ufficio italiano dei cambi le modalita' di tali operazioni, entro sessanta giorni dalla conclusione, specificando la valuta ceduta ed il relativo ammontare.
  La societa' ed in genere le imprese che svolgono la propria attivita' nel territorio dello Stato sono tenute a comunicare all'Ufficio anzidetto le alienazioni di titoli azionari o di quote di partecipazioni a favore di stranieri o di cittadini italiani residenti all'estero, entro sessanta giorni dalle alienazioni medesime.
- Per l'inosservanza delle disposizioni del presente articolo si provvede ai sensi dei [regi decreti-legge 12 maggio 1938, n. 794](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-05-12;794), e [5 dicembre 1938, n. 1928](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-12-05;1928), e successive modificazioni.
+ Per l'inosservanza delle disposizioni del presente articolo si provvede ai sensi dei [regi decreti-legge 12 maggio 1938, n. 794](Norme%20per%20laccertamento%20delle%20trasgressioni%20in%20materia%20valutaria%20e%20di%20scambi%20con%20lestero.%20038U0794.md), e [5 dicembre 1938, n. 1928](Norme%20per%20la%20repressione%20delle%20violazioni%20delle%20leggi%20valutarie.%20038U1928.md), e successive modificazioni.
 
 ## Art. 2.
 

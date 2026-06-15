@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 novembre 1931, n. 1485](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-19;1485), recante provvedimenti per la sistemazione edilizia dell'ospedale civile di Venezia. 
+ E' convertito in legge il [R. decreto-legge 19 novembre 1931, n. 1485](Disposizioni%20per%20la%20sistemazione%20edilizia%20dellOspedale%20civile%20di%20Venezia.%20031U1485.md), recante provvedimenti per la sistemazione edilizia dell'ospedale civile di Venezia. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 31 marzo 1932 - Anno X 
  

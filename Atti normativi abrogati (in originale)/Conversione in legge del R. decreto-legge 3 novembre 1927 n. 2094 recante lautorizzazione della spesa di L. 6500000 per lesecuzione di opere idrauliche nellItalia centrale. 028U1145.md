@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2094](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-03;2094), recante l'autorizzazione della spesa di L. 6,500,000 per l'esecuzione di opere idrauliche nell'Italia centrale. 
+ E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2094](Autorizzazione%20della%20spesa%20di%20L.%206500000%20per%20lesecuzione%20di%20opere%20idrauliche%20nellItalia%20centrale.%20027U2094.md), recante l'autorizzazione della spesa di L. 6,500,000 per l'esecuzione di opere idrauliche nell'Italia centrale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

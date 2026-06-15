@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1934 n. 1690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1690), portante modificazioni alle norme concernenti il Regio assentimento per il matrimonio degli ufficiali. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1934 n. 1690](Modificazioni%20alle%20norme%20concernenti%20il%20Regio%20assentimento%20per%20il%20matrimonio%20degli%20ufficiali.%20034U1690.md), portante modificazioni alle norme concernenti il Regio assentimento per il matrimonio degli ufficiali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

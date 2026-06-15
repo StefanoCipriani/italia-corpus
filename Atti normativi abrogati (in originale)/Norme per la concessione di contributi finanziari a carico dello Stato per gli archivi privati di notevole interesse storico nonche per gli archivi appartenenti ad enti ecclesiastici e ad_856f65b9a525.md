@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 1.
 
-Il Ministro per i beni culturali e ambientali, sentito il competente comitato di settore del Consiglio nazionale per i beni culturali e ambientali, puo' concedere ai privati ed agli enti di diritto privato che siano proprietari, possessori o detentori di archivi dichiarati di notevole interesse storico, a norma del [decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409), contributi per la conservazione, inventariazione e valorizzazione dei loro archivi.
+Il Ministro per i beni culturali e ambientali, sentito il competente comitato di settore del Consiglio nazionale per i beni culturali e ambientali, puo' concedere ai privati ed agli enti di diritto privato che siano proprietari, possessori o detentori di archivi dichiarati di notevole interesse storico, a norma del [decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), contributi per la conservazione, inventariazione e valorizzazione dei loro archivi.
 
 2.
 
@@ -26,7 +26,7 @@ Il contributo e' concesso annualmente sulla base di un esame comparativo delle r
 
 3.
 
-Restano salvi per il privato gli obblighi di cui all'[articolo 38 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_38).
+Restano salvi per il privato gli obblighi di cui all'[articolo 38 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md).
 
 4.
 
@@ -38,7 +38,7 @@ NOTE
  Il D.P.R. n. 1409/1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963;1409#art_1-com1) reca: "Norme relative all'ordinamento ed al personale degli archivi di Stato".
 
  Nota all'art. 1, comma 3:
- Il testo vigente dell'[art. 38 del D.P.R. n. 1409/1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963;1409#art_38), come modificato dall'[art. 5 del D. L. 5 luglio 1972, n. 288](Nuove%20norme%20sulla%20esportazione%20delle%20cose%20di%20interesse%20artistico%20ed%20archivistico%20di%20cui%20alla%20legge%201%20giugno%201939%20n.%201089%20ed%20al%20decreto%20del%20Presidente%20della%20Repubblica%2030%20settembre%201963%20n.%201409.md), convertito, con modificazioni, dalla [legge 8 agosto 1972, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-08-08;487), e' il seguente:
+ Il testo vigente dell'[art. 38 del D.P.R. n. 1409/1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963;1409#art_38), come modificato dall'[art. 5 del D. L. 5 luglio 1972, n. 288](Nuove%20norme%20sulla%20esportazione%20delle%20cose%20di%20interesse%20artistico%20ed%20archivistico%20di%20cui%20alla%20legge%201%20giugno%201939%20n.%201089%20ed%20al%20decreto%20del%20Presidente%20della%20Repubblica%2030%20settembre%201963%20n.%201409.md), convertito, con modificazioni, dalla [legge 8 agosto 1972, n. 487](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20luglio%201972%20n.%20288%20concernente%20nuove%20norme%20sulla%20esportazione%20delle%20cose%20di%20interesse%20artistico%20ed%20archivistico%20di%20cui%20alla%20legg_b339c09ac363.md), e' il seguente:
  "Art. 38. (Obblighi per il privato). I privati proprietari, possessori o detentori degli archivi o dei singoli documenti dichiarati di notevole interesse storico hanno l'obbligo di:
  a) conservare gli archivi e i singoli documenti, nonche' ordinarli e inventariali, o consentire che all'ordinamento e all'inventariazione provveda il competente sovrintendente archivistico. Copia dell'inventario deve comunque essere inviata al sovrintendente che provvede a rimborsarne il costo.
  b) permettere agli studiosi, che ne facciano motivata richiesta tramite il competente sovrintendente archivistico, la consultazione dei documenti che, d'intesa con il sovrintendente, non siano riconosciuti di carattere riservato. La consultazione puo' avvenire, a scelta del privato, mediante riproduzione fotografica eseguita a cura del sovrintendente, oppure mediante temporaneo deposito dei documenti presso il competente archivio di Stato, oppure in altro modo che venga concordato volta a volta fra il sovrintendente e il privato. Le spese sono a carico dello studioso;
@@ -60,7 +60,7 @@ Con le stesse modalita' di cui all'articolo 1 possono essere concessi contributi
 
 2.
 
-La concessione del contributo e' condizionata all'osservanza, da parte del beneficiario, degli obblighi previsti per i privati dall'[articolo 38 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_38).
+La concessione del contributo e' condizionata all'osservanza, da parte del beneficiario, degli obblighi previsti per i privati dall'[articolo 38 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md).
 
 Nota all'art. 2, comma 2:
  Il testo dell'[art. 38 del D.P.R. n. 1409/1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963;1409#art_38) e' riportato nella nota all'art. 1, comma 3.

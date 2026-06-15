@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 settembre 1927, n. 1884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-09-16;1884), contenente norme per la concessione in appalto dell'esercizio delle sale di scrittura presso gli uffici principali delle poste e dei telegrafi. 
+ E' convertito in legge il [R. decreto-legge 16 settembre 1927, n. 1884](Norme%20per%20la%20concessione%20in%20appalto%20dellesercizio%20delle%20sale%20di%20scrittura%20presso%20gli%20uffici%20principali%20delle%20poste%20e%20dei%20telegrafi.%20027U1884.md), contenente norme per la concessione in appalto dell'esercizio delle sale di scrittura presso gli uffici principali delle poste e dei telegrafi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

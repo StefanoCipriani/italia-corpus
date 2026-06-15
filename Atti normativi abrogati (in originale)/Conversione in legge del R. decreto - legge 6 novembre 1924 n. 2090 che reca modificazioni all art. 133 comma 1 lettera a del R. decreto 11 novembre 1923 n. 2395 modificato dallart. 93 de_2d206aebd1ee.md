@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 6 novembre 1924, n. 2090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-06;2090), recante modificazioni dell'[art. 133, comma 1°, lettera a), del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_133-com1-leta), modificato dall'[art. 93 del R. decreto 30 dicembre 1923, n. 3084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3084#art_93), relativo all'ordinamento gerarchico dell'Amministrazione delle Stato. 
+ E' convertito in legge il [R. decreto 6 novembre 1924, n. 2090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-06;2090), recante modificazioni dell'[art. 133, comma 1°, lettera a), del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificato dall'[art. 93 del R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), relativo all'ordinamento gerarchico dell'Amministrazione delle Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

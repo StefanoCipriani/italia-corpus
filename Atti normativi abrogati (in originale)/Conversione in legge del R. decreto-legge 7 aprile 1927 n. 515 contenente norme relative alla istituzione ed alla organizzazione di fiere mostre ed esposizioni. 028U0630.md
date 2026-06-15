@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 aprile 1927, n. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-07;515), contenente norme relative alla istituzione ed alla organizzazione di fiere, mostre ed esposizioni. 
+ E' convertito in legge il [R. decreto-legge 7 aprile 1927, n. 515](Norme%20relative%20alla%20istituzione%20ed%20alla%20organizzazione%20di%20fiere%20mostre%20ed%20esposizioni.%20027U0515.md), contenente norme relative alla istituzione ed alla organizzazione di fiere, mostre ed esposizioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

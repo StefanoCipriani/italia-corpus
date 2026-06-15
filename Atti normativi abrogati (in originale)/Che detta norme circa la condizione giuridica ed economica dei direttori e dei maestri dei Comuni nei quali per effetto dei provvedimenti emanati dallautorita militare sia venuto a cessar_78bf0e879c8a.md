@@ -26,7 +26,7 @@ A tutti i direttori e maestri indicati nell'articolo precedente continueranno ad
 
 Nel bilancio della spesa dell'Amministrazione scolastica che provvede al pagamento di cui all'articolo precedente, si iscriveranno in apposito capitolo delle partite di giro, le somme da pagarsi per conto esclusivo dei Consigli scolastici o dei Comuni dai quali i direttori e maestri dipendevano. Corrispondentemente si iscriveranno nel bilancio dell'entrata - partite di giro - le somme stesse dovute dai predetti Consigli scolastici e Comuni. 
  
- Alla reintegrazione dei fondi del bilancio dell'Amministrazione scolastica che ha eseguito pagamenti per conto dei Comuni provvede lo Stato, salvo rivalsa da parte dei Comuni medesimi, da effettuarsi in sede di liquidazione dei concorsi e rimborsi in dipendenza delle [leggi 11 aprile 1886, n. 3798, 8 luglio 1904, numero 407, e 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487). 
+ Alla reintegrazione dei fondi del bilancio dell'Amministrazione scolastica che ha eseguito pagamenti per conto dei Comuni provvede lo Stato, salvo rivalsa da parte dei Comuni medesimi, da effettuarsi in sede di liquidazione dei concorsi e rimborsi in dipendenza delle [leggi 11 aprile 1886, n. 3798, 8 luglio 1904, numero 407, e 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

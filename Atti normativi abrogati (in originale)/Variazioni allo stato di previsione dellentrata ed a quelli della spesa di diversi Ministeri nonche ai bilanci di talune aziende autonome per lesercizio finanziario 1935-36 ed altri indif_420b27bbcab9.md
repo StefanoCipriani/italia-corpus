@@ -38,7 +38,7 @@ Nei bilanci dell'Amministrazione dei Monopoli di Stato, del Fondo di Massa del C
 
 ## Art. 4.
 
-Le variazioni di bilancio occorrenti per trasporto e riunione di stanziamenti, in dipendenza della istituzione del Sottosegretariato di Stato per gli scambi o per le valute stabilita con [R. decreto 29 dicembre 1935, n. 2186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-12-29;2186), saranno disposte con decreti del Ministro per le finanze.
+Le variazioni di bilancio occorrenti per trasporto e riunione di stanziamenti, in dipendenza della istituzione del Sottosegretariato di Stato per gli scambi o per le valute stabilita con [R. decreto 29 dicembre 1935, n. 2186](Istituzione%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20scambi%20e%20per%20le%20valute.%20035U2186.md), saranno disposte con decreti del Ministro per le finanze.
 
 ## Art. 5.
 

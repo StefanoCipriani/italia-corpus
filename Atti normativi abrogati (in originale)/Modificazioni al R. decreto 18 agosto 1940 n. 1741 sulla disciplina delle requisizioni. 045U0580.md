@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 18 agosto 1940, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-08-18;1741), recante norme per la disciplina delle requisizioni, e il regolamento approvato con [R. decreto 21 giugno 1941, n. 688](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-06-21;688), relativo al funzionamento del Comitato giurisdizionale centrale per le controversie in materia di requisizioni;
+Visto il [R. decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), recante norme per la disciplina delle requisizioni, e il regolamento approvato con [R. decreto 21 giugno 1941, n. 688](Costituzione%20del%20Comitato%20giurisdizionale%20centrale%20per%20le%20controversie%20relative%20allapplicazione%20delle%20norme%20per%20la%20disciplina%20delle%20requisizioni.%20041U0688.md), relativo al funzionamento del Comitato giurisdizionale centrale per le controversie in materia di requisizioni;
 
 Visto il [decreto legislativo Luogotenenziale 1° novembre 1944, n. 385](Istituzione%20dei%20Comitati%20giurisdizionali%20per%20la%20risoluzione%20delle%20controversie%20relative%20alle%20requisizioni.%20044U0385.md), sull'istituzione dei Comitati giurisdizionali per le controversie in materia di requisizioni;
 
@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-All'[art. 30 del R. decreto 18 agosto 1940, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-08-18;1741#art_30), e' aggiunto il seguente comma: 
+All'[art. 30 del R. decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), e' aggiunto il seguente comma: 
  
  «Se la requisizione cessa prima della scadenza convenuta o prorogata del contratto, il contraente che aveva l'uso o il godimento del bene requisito ha diritto a riavere tale uso o godimento, fino al termine convenuto o prorogato del contratto, alle stesse condizioni precedenti, salve le modificazioni legali eventualmente intervenute».
 

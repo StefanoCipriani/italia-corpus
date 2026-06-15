@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito, in legge il [R. decreto-legge 26 agosto 1931, n. 1053](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-08-26;1053), che ha dato esecuzione al Protocollo addizionale al Trattato di commercio e di navigazione italo-romeno del 25 febbraio 1930, Protocollo stipulato in Roma tra, l'Italia, e la Romania il 25 agosto 1931. 
+ E' convertito, in legge il [R. decreto-legge 26 agosto 1931, n. 1053](Esecuzione%20del%20Protocollo%20addizionale%20al%20Trattato%20di%20commercio%20e%20di%20navigazione%20italo-romeno%20del%2025%20febbraio%201930.%20031U1053.md), che ha dato esecuzione al Protocollo addizionale al Trattato di commercio e di navigazione italo-romeno del 25 febbraio 1930, Protocollo stipulato in Roma tra, l'Italia, e la Romania il 25 agosto 1931. 
  
  Ordiniamo che la presente, munita, del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando, a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

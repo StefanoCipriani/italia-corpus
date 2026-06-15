@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 7 aprile 1921, n. 456](Concernente%20provvedimenti%20per%20l%20Istituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20021U0456.md);
 
-Visto il [R. decreto 31 luglio 1921, n. 1073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-31;1073);
+Visto il [R. decreto 31 luglio 1921, n. 1073](Che%20reca%20provvedimenti%20per%20lIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20021U1073.md);
 
 Ritenuta l'opportunita' di aumentare il numero dei rappresentanti del movimento cooperativo nel Consiglio di amministrazione dell'Istituto nazionale di credito per la cooperazione, nell'intento di assicurare una rappresentanza anche a nuove correnti che si sono affermate nel campo della cooperazione;
 
@@ -36,7 +36,7 @@ Nella prima applicazione del presente decreto i predetti rappresentanti del movi
 
 ## Art. 3.
 
-I rappresentanti del movimento cooperativo nel Consiglio di amministrazione suindicato, nominati in base sia al [Regio decreto 31 luglio 1921, n. 1073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-31;1073), sia al presente decreto, durano in carica un anno e possono essere riconfermati. 
+I rappresentanti del movimento cooperativo nel Consiglio di amministrazione suindicato, nominati in base sia al [Regio decreto 31 luglio 1921, n. 1073](Che%20reca%20provvedimenti%20per%20lIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20021U1073.md), sia al presente decreto, durano in carica un anno e possono essere riconfermati. 
  
  Pero' i consiglieri di cui sopra, sia quelli attualmente in carica, sia quelli nominati in applicazione del presente decreto, scadranno contemporaneamente il 31 dicembre 1923.
 
@@ -46,11 +46,11 @@ A decorrere dal 1° gennaio 1924 le nomine di tutti indistintamente i rappresent
 
 ## Art. 5.
 
-Il numero dei componenti il Comitato esecutivo nominato dal Consiglio di amministrazione, a termini dell'[art. 6 del R. decreto 31 luglio 1921, n. 1073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-31;1073#art_6), e' portato a cinque, dei quali due scelti fra i rappresentanti degli Enti partecipanti e tre fra i rappresentanti del movimento cooperativo.
+Il numero dei componenti il Comitato esecutivo nominato dal Consiglio di amministrazione, a termini dell'[art. 6 del R. decreto 31 luglio 1921, n. 1073](Che%20reca%20provvedimenti%20per%20lIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20021U1073.md), e' portato a cinque, dei quali due scelti fra i rappresentanti degli Enti partecipanti e tre fra i rappresentanti del movimento cooperativo.
 
 ## Art. 6.
 
-I rappresentanti degli Enti partecipanti nominati in base al presente decreto cesseranno dalla carica contemporaneamente a quelli nominati in base al [R. decreto 31 luglio 1921, n. 1073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-31;1073).
+I rappresentanti degli Enti partecipanti nominati in base al presente decreto cesseranno dalla carica contemporaneamente a quelli nominati in base al [R. decreto 31 luglio 1921, n. 1073](Che%20reca%20provvedimenti%20per%20lIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20021U1073.md).
 
 ## Art. 7.
 

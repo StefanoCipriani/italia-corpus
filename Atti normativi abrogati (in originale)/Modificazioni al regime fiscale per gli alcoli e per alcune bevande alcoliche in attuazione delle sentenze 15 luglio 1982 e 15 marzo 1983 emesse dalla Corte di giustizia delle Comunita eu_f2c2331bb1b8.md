@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni;
 
-Visto il [decreto-legge 18 marzo 1976, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-03-18;46), convertito, con modificazioni, nella [legge 10 maggio 1976, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;249);
+Visto il [decreto-legge 18 marzo 1976, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-03-18;46), convertito, con modificazioni, nella [legge 10 maggio 1976, n. 249](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20marzo%201976%20n.%2046%20concernente%20misure%20urgenti%20in%20materia%20tributaria.md);
 
 Vista la [legge 18 agosto 1978, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-18;506);
 
-Visto l'[articolo 16 del decreto-legge 31 ottobre 1980, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-10-31;693#art_16), convertito, con modificazioni, nella [legge 22 dicembre 1980, n. 891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-12-22;891);
+Visto l'[articolo 16 del decreto-legge 31 ottobre 1980, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-10-31;693#art_16), convertito, con modificazioni, nella [legge 22 dicembre 1980, n. 891](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20ottobre%201980%20n.%20693%20recante%20disposizioni%20urgenti%20in%20materia%20tributaria.md);
 
-Visto il [decreto-legge 1 ottobre 1982, n. 697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-10-01;697), convertito, con modificazioni, dalla [legge 29 novembre 1982, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-29;887);
+Visto il [decreto-legge 1 ottobre 1982, n. 697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-10-01;697), convertito, con modificazioni, dalla [legge 29 novembre 1982, n. 887](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201982%20n.%20697%20recante%20disposizioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20di%20regime%20fiscale%20delle%20manifestazioni%20sporti_d37eb0207d6c.md);
 
 Considerata la necessita' e l'urgenza di apportare modificazioni al regime fiscale per gli alcoli e per alcune bevande alcoliche in attuazione delle sentenze 15 luglio 1982 e 15 marzo 1983 emesse dalla Corte di giustizia delle Comunita' europee nelle cause n. 216/81 e n. 319/81 nonche' di aumentare l'imposta sul valore aggiunto su alcuni vini spumanti e l'imposta di fabbricazione sugli alcoli;
 
@@ -34,7 +34,7 @@ EMANA il seguente decreto:
 
 1.
 
-Dalla data di entrata in vigore del presente decreto sono soppressi i diritti erariali sugli alcoli previsti dagli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-03-18;46#art_16) e [17 del decreto-legge 18 marzo 1976, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-03-18;46#art_17), convertito, con modificazioni, nella [legge 10 maggio 1976, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;249), modificati dall'[articolo 1 della legge 18 agosto 1978, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-18;506#art_1).
+Dalla data di entrata in vigore del presente decreto sono soppressi i diritti erariali sugli alcoli previsti dagli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-03-18;46#art_16) e [17 del decreto-legge 18 marzo 1976, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-03-18;46#art_17), convertito, con modificazioni, nella [legge 10 maggio 1976, n. 249](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20marzo%201976%20n.%2046%20concernente%20misure%20urgenti%20in%20materia%20tributaria.md), modificati dall'[articolo 1 della legge 18 agosto 1978, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-18;506#art_1).
 
 2.
 
@@ -44,15 +44,15 @@ La disposizione di cui al precedente comma si applica agli alcoli, anche se cont
 
 1.
 
-Per le cessioni e le importazioni di gin, acquaviti a denominazione di origine o di provenienza regolamentate e tutelate con norme specifiche sul territorio di produzione, indicati nel n. 27) della tabella B allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633), e successive modificazioni, l'aliquota dell'imposta sul valore aggiunto e' stabilita nella misura del 30 per cento.
+Per le cessioni e le importazioni di gin, acquaviti a denominazione di origine o di provenienza regolamentate e tutelate con norme specifiche sul territorio di produzione, indicati nel n. 27) della tabella B allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, l'aliquota dell'imposta sul valore aggiunto e' stabilita nella misura del 30 per cento.
 
 2.
 
-Per le cessioni e le importazioni di vini spumanti di qualita' prodotti in regioni determinate rispondenti alla definizione di cui al punto 13 dell'allegato II del regolamento (CEE) n. 337/79 e alle disposizioni del titolo I del regolamento (CEE) n. 358/79, e dell'articolo 1, quarto comma, del regolamento (CEE) n. 338/79, portanti l'indicazione fermentazione naturale in bottiglia o altra equivalente, diversi da quelli indicati al n. 21) della tabella B allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633), e successive modificazioni, l'aliquota dell'imposta sul valore aggiunto e' stabilita nella misura del 30 per cento.
+Per le cessioni e le importazioni di vini spumanti di qualita' prodotti in regioni determinate rispondenti alla definizione di cui al punto 13 dell'allegato II del regolamento (CEE) n. 337/79 e alle disposizioni del titolo I del regolamento (CEE) n. 358/79, e dell'articolo 1, quarto comma, del regolamento (CEE) n. 338/79, portanti l'indicazione fermentazione naturale in bottiglia o altra equivalente, diversi da quelli indicati al n. 21) della tabella B allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, l'aliquota dell'imposta sul valore aggiunto e' stabilita nella misura del 30 per cento.
 
 3.
 
-Per le operazioni soggette all'aliquota del 30 per cento, la percentuale di cui al [quarto comma dell'articolo 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_27-com4), e successive modificazioni, e' stabilita nella misura del 23,05 per cento. Nei casi in cui gli importi siano comprensivi di imponibile e di imposta, la quota imponibile puo' essere ottenuta, in alternativa alla diminuzione della percentuale sopra indicata, dividendo tali importi per 130, moltiplicando il quoziente per cento e arrotondando il prodotto, per difetto o per eccesso, alla unita' piu' prossima.
+Per le operazioni soggette all'aliquota del 30 per cento, la percentuale di cui al [quarto comma dell'articolo 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, e' stabilita nella misura del 23,05 per cento. Nei casi in cui gli importi siano comprensivi di imponibile e di imposta, la quota imponibile puo' essere ottenuta, in alternativa alla diminuzione della percentuale sopra indicata, dividendo tali importi per 130, moltiplicando il quoziente per cento e arrotondando il prodotto, per difetto o per eccesso, alla unita' piu' prossima.
 
 4.
 
@@ -62,7 +62,7 @@ A partire dal 1 gennaio 1986, per le sezioni e le importazioni dei prodotti indi
 
 1.
 
-Dalla data di entrata in vigore del presente decreto, l'imposta di fabbricazione e la corrispondente sovrimposta di confine sullo spirito (alcole etilico) previste dall'[articolo 16 del decreto-legge 31 ottobre 1980, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-10-31;693#art_16), convertito, con modificazioni, nella [legge 22 dicembre 1980, n. 891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-12-22;891), sono aumentate da L. 290.000, a L. 350.000 per ettanidro, alla temperatura di 15,56 gradi del termometro centesimale.
+Dalla data di entrata in vigore del presente decreto, l'imposta di fabbricazione e la corrispondente sovrimposta di confine sullo spirito (alcole etilico) previste dall'[articolo 16 del decreto-legge 31 ottobre 1980, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-10-31;693#art_16), convertito, con modificazioni, nella [legge 22 dicembre 1980, n. 891](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20ottobre%201980%20n.%20693%20recante%20disposizioni%20urgenti%20in%20materia%20tributaria.md), sono aumentate da L. 290.000, a L. 350.000 per ettanidro, alla temperatura di 15,56 gradi del termometro centesimale.
 
 2.
 

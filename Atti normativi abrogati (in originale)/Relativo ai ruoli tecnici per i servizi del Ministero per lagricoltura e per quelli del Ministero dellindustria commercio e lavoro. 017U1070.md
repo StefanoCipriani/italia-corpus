@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono approvate, per la durata della guerra, le tabelle di cui agli allegati A e B del presente decreto, vistate, d'ordine Nostro, dai ministri proponenti, le quali creano i due nuovi ruoli tecnici per i servizi dell'agricoltura e per quelli dell'industria e del commercio, risultanti dalla fusione dei ruoli tecnici del Ministero di agricoltura, industria e commercio, approvati con [leggi 30 giugno 1908, n. 304, e 2 luglio 1908, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-02;353).
+Sono approvate, per la durata della guerra, le tabelle di cui agli allegati A e B del presente decreto, vistate, d'ordine Nostro, dai ministri proponenti, le quali creano i due nuovi ruoli tecnici per i servizi dell'agricoltura e per quelli dell'industria e del commercio, risultanti dalla fusione dei ruoli tecnici del Ministero di agricoltura, industria e commercio, approvati con [leggi 30 giugno 1908, n. 304, e 2 luglio 1908, n. 353](Provvedimenti%20per%20i%20servizi%20tecnici%20del%20Ministero%20di%20agricoltura%20industria%20e%20commercio.%20008U0353.md).
 
 ## Art. 2.
 
@@ -78,7 +78,7 @@ Economato generale.
 
 I posti dei ruoli allegati al presente decreto saranno coperti con l'inquadramento di tutti i funzionari dei ruoli tecnici dell'Amministrazione centrale e mediante nomina di persone che abbiano dimostrato speciali attitudini con servizi resi all'Amministrazione durante la guerra; queste ultime nomine possono essere fatte non oltre tre mesi dalla data di pubblicazione del presente decreto. 
  
- L'inquadramento dei funzionari dei ruoli tecnici attuali sara' fatto in base agli stipendi di ciascuno, sentito il Consiglio di amministrazione dei rispettivi Ministeri, con osservanza di tutte le norme del regolamento approvato con [R. decreto 11 gennaio 1912, numero 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-01-11;138). 
+ L'inquadramento dei funzionari dei ruoli tecnici attuali sara' fatto in base agli stipendi di ciascuno, sentito il Consiglio di amministrazione dei rispettivi Ministeri, con osservanza di tutte le norme del regolamento approvato con [R. decreto 11 gennaio 1912, numero 138](Col%20quale%20viene%20approvato%20annesso%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20dellagricoltura%20industria%20e%20commercio.%20012U0138.md). 
  
  Gli attuali ispettori ed assistenti saranno inquadrati nei posti di ispettori e di vice ispettori dei nuovi ruoli. 
  

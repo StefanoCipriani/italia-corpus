@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto l'[art. 2 della Legge 24 novembre 1864, n° 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1864-11-24;2006#art_2), e la relativa tariffa;
+Visto l'[art. 2 della Legge 24 novembre 1864, n° 2006](Che%20stabilisce%20aumenti%20dei%20prezzi%20dei%20sali%20e%20tabacchi%20di%20alcuni%20dritti%20doganali%20e%20della%20tassa%20sulle%20lettere%20ed%20approva%20la%20convenzione%20per%20la%20vendita%20dei%20beni%20demaniali%20e%20lammontare%20dellim_1a0e1fdc14de.md), e la relativa tariffa;
 
 Visto l'art. 123 del Regolamento approvato con Decreto 15 giugno 1865, n° 2398; DETERMINA:
 

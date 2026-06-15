@@ -28,7 +28,7 @@ Per le spese derivanti dalle disposizioni di cui all'articolo 1, nonche' per que
 
 ## Art. 3.
 
-Le cose che saranno recuperate nel corso dei lavori di cui articolo 1 saranno acquisite allo Stato e il Ministero della marina mercantile provvedera' alla loro custodia ed alla eventuale vendita secondo le norme stabilite dagli articoli 456 e 458 del regolamento per l'esecuzione del [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327). 
+Le cose che saranno recuperate nel corso dei lavori di cui articolo 1 saranno acquisite allo Stato e il Ministero della marina mercantile provvedera' alla loro custodia ed alla eventuale vendita secondo le norme stabilite dagli articoli 456 e 458 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). 
  Le somme ricavate verranno versate alle entrate del bilancio dello Stato con imputazione al capo 23, capitolo 3650, riguardante "Entrate eventuali e diverse concernenti il Ministero della marina mercantile".
 
 ## Art. 4.

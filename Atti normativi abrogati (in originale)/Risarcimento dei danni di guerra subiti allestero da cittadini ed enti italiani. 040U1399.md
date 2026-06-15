@@ -20,8 +20,8 @@ Gli indennizzi concessi in base alla presente legge non sono cumulabili con altr
 
 ## Art. 3.
 
-Non puo' essere concesso alcun indennizzo a coloro che siano stati condannati per i reati previsti ai capi I e II del titolo primo, libro secondo del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) comune, nonche' agli articoli 71, 72, 73, 77, prima parte, 78, 79, 80 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito, ed agli articoli 71, 72, 73, 74, 78, prima parte, 79, 80, 81, 82 del.
-[Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo. 
+Non puo' essere concesso alcun indennizzo a coloro che siano stati condannati per i reati previsti ai capi I e II del titolo primo, libro secondo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, nonche' agli articoli 71, 72, 73, 77, prima parte, 78, 79, 80 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, ed agli articoli 71, 72, 73, 74, 78, prima parte, 79, 80, 81, 82 del.
+[Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
  
  Deve essere negato qualsiasi indennizzo al danneggiato qualora risulti che egli abbia commesso frode, diretta ad ottenere il risarcimento in misura superiore alle reali entita' del danno.
 

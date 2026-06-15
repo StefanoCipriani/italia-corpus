@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli articoli 12, 13 e 21 del regolamento speciale per il personale di prima e seconda categoria dell'Amministrazione delle poste e dei telegrafi approvato con [R. decreto 16 maggio 1909, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-05-16;341) sono modificati come appresso: 
+Gli articoli 12, 13 e 21 del regolamento speciale per il personale di prima e seconda categoria dell'Amministrazione delle poste e dei telegrafi approvato con [R. decreto 16 maggio 1909, n. 341](Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md) sono modificati come appresso: 
  
  Art. 12. - I° I posti di primo segretario a L. 3000 sono conferiti quattro quinti in seguito ad esame d'idoneita' ed un quinto in seguito ad esame di concorso per merito distinto, giusta i rispettivi programmi con la facolta' di scelta tra quello postale o telegrafico o di ragioneria. 
  2. Possono prendere parte all'esame di idoneita' soltanto i segretari con almeno otto anni di servizio. 
@@ -34,7 +34,7 @@ Gli articoli 12, 13 e 21 del regolamento speciale per il personale di prima e se
 
 ## Art. 2.
 
-Gli articoli 13, 14 e 21 del regolamento per il personale dell'Amministrazione dei telefoni, approvato con [R. decreto 16 maggio 1912, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;574), sono modificati come appresso: 
+Gli articoli 13, 14 e 21 del regolamento per il personale dell'Amministrazione dei telefoni, approvato con [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), sono modificati come appresso: 
  
  Art. 13. - I posti di primo segretario ed assimilati a lire 3000 sono conferiti, quattro quinti per esame di idoneita' ed un quinto per esame di concorso per merito distinto, giusta i rispettivi programmi, con la facolta' di scelta fra quello tecnico e quello amministrativo contabile. 
  Possono prendere parte all'esame di idoneita' soltanto i segretari ed assimilati, con almeno otto anni di servizio. 

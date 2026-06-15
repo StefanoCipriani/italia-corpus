@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 12 gennaio 1922, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-12;14), contenente disposizioni circa la esecuzione di lavori telegrafici e telefonici eseguiti dall'Amministrazione telegrafica per conto di terzi;
+Visto il [regio decreto 12 gennaio 1922, n. 14](Contenente%20disposizioni%20circa%20la%20esecuzione%20di%20lavori%20telegrafici%20e%20telefonici%20eseguiti%20dallAmministrazione%20per%20conto%20di%20terzi.%20022U0014.md), contenente disposizioni circa la esecuzione di lavori telegrafici e telefonici eseguiti dall'Amministrazione telegrafica per conto di terzi;
 
-Visto il [regio decreto-legge 8 ottobre 1925, n. 2500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-08;2500), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898);
+Visto il [regio decreto-legge 8 ottobre 1925, n. 2500](Quota%20a%20carico%20degli%20interessati%20nei%20lavori%20che%20il%20servizio%20telegrafico%20eseguisce%20a%20totale%20rimborso%20di%20spese%20a%20richiesta%20e%20per%20conto%20di%20altre%20Amministrazioni%20statali%20Societa%20Enti%20diversi%20_5f2bda8be08b.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 23 agosto 1946, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-08-23;176);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 

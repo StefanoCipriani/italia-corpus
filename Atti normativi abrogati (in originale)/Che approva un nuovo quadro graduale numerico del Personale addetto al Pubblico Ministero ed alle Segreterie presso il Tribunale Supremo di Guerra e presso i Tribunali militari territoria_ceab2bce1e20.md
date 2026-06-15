@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'art. 4 della legge 1° ottobre 1859 approvativa di un nuovo [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare;
+Visto l'art. 4 della legge 1° ottobre 1859 approvativa di un nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare;
 
 Visti gli articoli 296, 299, 300, 275, 280 e 283 di detto Codice, che prescrivono l'instituzione di un Tribunale Supremo di Guerra e di un Tribunale militare permanente in ogni Capo-luogo di Divisione militare territoriale, e viene assegnato il Personale civile addetto al Pubblico Ministero, ed alle Segreterie presso i medesimi;
 
 Visto il R. Decreto in data 18 agosto 1861, con cui viene instituito un Tribunale militare permanente in ogni Capo-luogo di Divisione militare territoriale;
 
-Vista la legge 11 febbraio 1864 portante modificazioni al [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare;
+Vista la legge 11 febbraio 1864 portante modificazioni al [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare;
 
 Visti i RR. Decreti in data 18 febbraio e 27 ottobre scorsi, con cui vennero soppressi i Tribunali militari territoriali di Cremona, Modena, Livorno, Piacenza e Forli';
 

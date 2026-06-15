@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-03;2703), che da' esecuzione alla Convenzione, fra il Regno d'Italia e il Reich germanico, per la navigazione aerea ed al relativo Protocollo aggiunto, firmati entrambi in Berlino il 20 maggio 1927. 
+ E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2703](Esecuzione%20della%20Convenzione%20fra%20il%20Regno%20dItalia%20ed%20il%20Reich%20Germanico%20per%20la%20navigazione%20aerea%20e%20del%20relativo%20Protocollo%20aggiunto%20firmati%20entrambi%20in%20Berlino%20il%2020%20maggio%201927.%20027U2703.md), che da' esecuzione alla Convenzione, fra il Regno d'Italia e il Reich germanico, per la navigazione aerea ed al relativo Protocollo aggiunto, firmati entrambi in Berlino il 20 maggio 1927. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 13 ottobre 1969, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-13;740), recante delega al Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.) per la durata della III tappa e stanziamenti di fondi necessari a coprire le spese derivanti dall'applicazione della legge stessa;
+Vista la [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md), recante delega al Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.) per la durata della III tappa e stanziamenti di fondi necessari a coprire le spese derivanti dall'applicazione della legge stessa;
 
-Vista la [legge n. 1203 del 14 ottobre 1957](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-14;1203), che ratifica il trattato istitutivo della Comunita' economica europea;
+Vista la [legge n. 1203 del 14 ottobre 1957](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), che ratifica il trattato istitutivo della Comunita' economica europea;
 
 Visto l'art. 50 del trattato predetto;
 
@@ -22,7 +22,7 @@ Visto l'accordo intergovernativo, approvato dal Consiglio dei Ministri della Com
 
 Visto il titolo IV, punto 6, di detto programma che prevede la costituzione di un comitato consultivo nazionale onde trarre profitto dalle esperienze degli ambienti interessati e dare vita ad iniziative adeguate in detta materia;
 
-Sentita la commissione parlamentare di cui all'art. 3 della precitata [legge 13 ottobre 1969, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-13;740);
+Sentita la commissione parlamentare di cui all'art. 3 della precitata [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -63,7 +63,7 @@ I compiti di segreteria e gli altri adempimenti di carattere amministrativo iner
 
 ## Art. 6.
 
-I compensi, nella misura fissata dal [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;5) e dalla [legge 5 giugno 1967, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-05;417), i rimborsi delle spese di viaggio spettanti ai componenti del suddetto comitato e le spese inerenti al funzionamento dell'ufficio di segreteria, per un ammontare presunto di L. 5.000.000, graveranno sul capitolo n. 1271 dello stato di previsione della spesa del Ministero del lavoro e della previdenza sociale per l'anno finanziario 1969.
+I compensi, nella misura fissata dal [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](../DPR/Compensi%20ai%20componenti%20delle%20Commissioni%20Consigli%20Comitati%20o%20Collegi%20operanti%20nelle%20Amministrazioni%20statali%20anche%20con%20ordinamento%20autonomo%20e%20delle%20Commissioni%20giudicatrici%20dei%20concorsi%20di_6b5a1d3e573d.md) e dalla [legge 5 giugno 1967, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-05;417), i rimborsi delle spese di viaggio spettanti ai componenti del suddetto comitato e le spese inerenti al funzionamento dell'ufficio di segreteria, per un ammontare presunto di L. 5.000.000, graveranno sul capitolo n. 1271 dello stato di previsione della spesa del Ministero del lavoro e della previdenza sociale per l'anno finanziario 1969.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

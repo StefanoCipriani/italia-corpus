@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 1 del R. decreto-legge 16 agosto 1929, n. 1658](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-08-16;1658#art_1), concernente «Provvedimenti per il personale tecnico civile del servizio chimico militare» e' modificato come segue: 
+L'[art. 1 del R. decreto-legge 16 agosto 1929, n. 1658](Provvedimenti%20pel%20personale%20tecnico%20civile%20del%20servizio%20chimico%20militare.%20029U1658.md), concernente «Provvedimenti per il personale tecnico civile del servizio chimico militare» e' modificato come segue: 
  «Il personale tecnico civile per il servizio chimico militare comprende: 
  a) Specialisti tecnici (gruppo A); 
  b) Capitecnici chimici (gruppo B)».

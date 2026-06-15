@@ -80,7 +80,7 @@ TITOLO III.
 
 ### Art. 8.
 
-I contravventori alle disposizioni del titolo primo saranno puniti con le pene stabilite dall'[art. 1 della legge 21 marzo 1915, numero 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-03-21;273#art_1).
+I contravventori alle disposizioni del titolo primo saranno puniti con le pene stabilite dall'[art. 1 della legge 21 marzo 1915, numero 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md).
 
 ### Art. 9.
 
@@ -88,7 +88,7 @@ I contravventori alle disposizioni contenute nel titolo secondo incorrono nella 
  
  Qualora la confisca non sia possibile, la multa si estende al quintuplo del valore. 
  
- Restano ferme in ogni caso le maggiori pene che potessero essere applicate in base alle disposizioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e delle altre leggi. 
+ Restano ferme in ogni caso le maggiori pene che potessero essere applicate in base alle disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle altre leggi. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale dalle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

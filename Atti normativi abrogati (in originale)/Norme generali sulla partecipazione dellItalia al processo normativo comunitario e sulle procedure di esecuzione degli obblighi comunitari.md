@@ -37,7 +37,7 @@ Con le modalita' stabilite dalla presente legge, il Governo assicura l'informazi
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, commi 2 e 3, del testo unico approvato 
  con [decreto del Presidente della Repubblica 28 dicembre 
- 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle 
+ 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge modificate o alle quali e' operato il 
  rinvio. Restano invariati il valore e l'efficacia degli 
  atti legislativi qui trascritti.
@@ -239,11 +239,11 @@ Nota all'art. 10:
 
 1.
 
-Se l'inadempimento di uno degli obblighi previsti dall'articolo 1, comma 1, dipende da inattivita' amministrativa di una regione o di una provincia autonoma, il Ministro per il coordinamento delle politiche comunitarie, d'intesa con il Ministro per gli affari regionali ed i Ministri competenti, avvia la procedura prevista dall'[articolo 6, terzo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_6-com3).
+Se l'inadempimento di uno degli obblighi previsti dall'articolo 1, comma 1, dipende da inattivita' amministrativa di una regione o di una provincia autonoma, il Ministro per il coordinamento delle politiche comunitarie, d'intesa con il Ministro per gli affari regionali ed i Ministri competenti, avvia la procedura prevista dall'[articolo 6, terzo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md).
 
 2.
 
-Il Consiglio dei Ministri, con la deliberazione prevista dall'[articolo 6, terzo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_6-com3), successivamente alla scadenza del termine assegnato alla regione o alla provincia autonoma interessata per provvedere, dispone, con le modalita' di cui all'articolo 6, comma 3, della presente legge, l'intervento sostitutivo dello Stato; a tal fine puo' conferire, con le opportune direttive, i poteri necessari ad una commissione da nominarsi con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro per gli affari regionali, sentito il Ministro per il coordinamento delle politiche comunitarie.
+Il Consiglio dei Ministri, con la deliberazione prevista dall'[articolo 6, terzo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), successivamente alla scadenza del termine assegnato alla regione o alla provincia autonoma interessata per provvedere, dispone, con le modalita' di cui all'articolo 6, comma 3, della presente legge, l'intervento sostitutivo dello Stato; a tal fine puo' conferire, con le opportune direttive, i poteri necessari ad una commissione da nominarsi con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro per gli affari regionali, sentito il Ministro per il coordinamento delle politiche comunitarie.
 
 3.
 

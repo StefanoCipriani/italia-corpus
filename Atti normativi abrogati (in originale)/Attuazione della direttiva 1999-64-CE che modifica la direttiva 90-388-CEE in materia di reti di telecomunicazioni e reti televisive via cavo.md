@@ -18,7 +18,7 @@ Vista la [direttiva 89/552/CEE del Consiglio, del 3 ottobre 1989](https://www.no
 
 Vista la [direttiva 1999/64/CE della Commissione, del 23 giugno 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;64), che modifica la [direttiva 90/388/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;388) al fine di garantire che le reti di telecomunicazioni e le reti televisive via cavo appartenenti ad un unico proprietario siano gestite da persone giuridiche distinte;
 
-Visto il [decreto legislativo 22 febbraio 1991, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-02-22;73), recante disposizioni relative agli impianti di diffusione sonora e televisiva via cavo;
+Visto il [decreto legislativo 22 febbraio 1991, n. 73](../Decreti%20Legislativi/Disposizioni%20relative%20agli%20impianti%20di%20diffusione%20sonora%20e%20televisiva%20via%20cavo.md), recante disposizioni relative agli impianti di diffusione sonora e televisiva via cavo;
 
 Vista la [legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249), concernente istituzione dell'Autorita' per le garanzie nelle comunicazioni e norme sui sistemi delle telecomunicazioni e radiotelevisivo;
 
@@ -28,7 +28,7 @@ materia di programmazione e di interruzioni pubblicitarie televisive;
 
 Visto il [decreto-legge 23 gennaio 2001, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-01-23;5), convertito, con
 
-modificazioni, dalla [legge 20 marzo 2001, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-20;66), recante disposizioni urgenti per il differimento di termini in materia di trasmissioni radiotelevisive analogiche e digitali, nonche' per il risanamento di impianti radiotelevisivi;
+modificazioni, dalla [legge 20 marzo 2001, n. 66](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%202001%20n.%205%20recante%20disposizioni%20urgenti%20per%20il%20differimento%20di%20termini%20in%20materia%20di%20trasmissioni%20radiotelevisive%20analog_fff59a772662.md), recante disposizioni urgenti per il differimento di termini in materia di trasmissioni radiotelevisive analogiche e digitali, nonche' per il risanamento di impianti radiotelevisivi;
 
 Visto il [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md), recante il regolamento per l'attuazione delle direttive comunitarie nel settore delle telecomunicazioni;
 
@@ -67,7 +67,7 @@ Ai fini del presente decreto si intendono per:
                             "servizi di telefonia vocale pubblica": la fornitura al pubblico del trasporto diretto e della commutazione della voce in tempo reale in partenza e a destinazione dei punti terminali di una rete telefonica pubblica fissa, che consente ad ogni utente di utilizzare l'apparecchiatura collegata al suo punto terminale di tale rete per comunicare con un altro punto terminale.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Si riporta il testo degli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87):
  "Art. 76. - L'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti".

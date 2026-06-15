@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-26;198);
+Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 198](../Decreti%20legislativi%20luogotenenziali/Autorizzazione%20della%20spesa%20straordinaria%20di%20L.%204.500.000.000%20per%20la%20riparazione%20dei%20danni%20causati%20dalla%20guerra%20e%20da%20alluvioni%20e%20per%20la%20esecuzione%20di%20opere%20pubbliche%20straordinarie%20nella%20pr_fd313f33454a.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 ## Art. 1.
 
-I proprietari di case private danneggiate o distrutte dalla eruzione del Vesuvio del marzo 1944, che ne facciano domanda entro tre mesi dalla entrata in vigore del presente decreto all'Ufficio del genio civile competente possono ottenere, in base all'[art. 2 del decreto legislativo luogotenenziale 26 marzo 1946, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-26;198#art_2), sussidi nella misura del 50% della spesa prevista per la riparazione o ricostruzione dei fabbricati. Se i lavori di riparazione o ricostruzione sono eseguiti anteriormente all'emanazione delle presenti norme, il sussidio puo' essere accordato nella misura del 50% della spesa effettiva, sempreche' si tratti di lavori dei quali sia possibile l'accertamento tecnico contabile. 
+I proprietari di case private danneggiate o distrutte dalla eruzione del Vesuvio del marzo 1944, che ne facciano domanda entro tre mesi dalla entrata in vigore del presente decreto all'Ufficio del genio civile competente possono ottenere, in base all'[art. 2 del decreto legislativo luogotenenziale 26 marzo 1946, n. 198](../Decreti%20legislativi%20luogotenenziali/Autorizzazione%20della%20spesa%20straordinaria%20di%20L.%204.500.000.000%20per%20la%20riparazione%20dei%20danni%20causati%20dalla%20guerra%20e%20da%20alluvioni%20e%20per%20la%20esecuzione%20di%20opere%20pubbliche%20straordinarie%20nella%20pr_fd313f33454a.md), sussidi nella misura del 50% della spesa prevista per la riparazione o ricostruzione dei fabbricati. Se i lavori di riparazione o ricostruzione sono eseguiti anteriormente all'emanazione delle presenti norme, il sussidio puo' essere accordato nella misura del 50% della spesa effettiva, sempreche' si tratti di lavori dei quali sia possibile l'accertamento tecnico contabile. 
  Quando trattasi di fabbricati distrutti, la spesa da tenere a calcolo per la concessione del sussidio non potra' eccedere quella occorrente per la ricostruzione di ciascun fabbricato nelle condizioni in cui si trovava nel marzo 1944.
 
 ## Art. 2.

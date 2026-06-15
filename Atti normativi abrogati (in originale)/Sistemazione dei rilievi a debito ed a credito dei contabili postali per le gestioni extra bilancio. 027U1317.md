@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 25 luglio 1887, n. 4866](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-07-25;4866), serie 3ª;
+Visto il [R. decreto 25 luglio 1887, n. 4866](Che%20approva%20lannesso%20regolamento%20per%20la%20gestione%20dei%20vaglia%20e%20dei%20titoli%20di%20credito%20postali.%20087U4866.md), serie 3ª;
 
-Visti i [Regi decreti 16 novembre 1921, n. 1826](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-16;1826), [2 dicembre 1923, n. 2970](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2970), ed i [Regi decreti legge 28 dicembre 1924, n. 2290](Unificazione%20delle%20norme%20che%20regolano%20il%20servizio%20dei%20vaglia%20interni%20ordinari%20telegrafici%20e%20di%20servizio%20e%20quello%20dei%20vaglia%20internazionali.%20024U2290.md), convertito nella [legge 24 dicembre 1925, n. 2324, e 12 dicembre 1926, n. 2173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-12-12;2173);
+Visti i [Regi decreti 16 novembre 1921, n. 1826](Contenente%20disposizioni%20circa%20le%20contabilita%20dei%20vaglia%20interni%20e%20dei%20titoli%20di%20credito%20postali%20relative%20agli%20esercizi%20al%201914-915%20al%201919-920.%20021U1826.md), [2 dicembre 1923, n. 2970](Norme%20per%20la%20contabilita%20dei%20vaglia%20interni%20relativa%20allesercizio%201921-22.%20023U2970.md), ed i [Regi decreti legge 28 dicembre 1924, n. 2290](Unificazione%20delle%20norme%20che%20regolano%20il%20servizio%20dei%20vaglia%20interni%20ordinari%20telegrafici%20e%20di%20servizio%20e%20quello%20dei%20vaglia%20internazionali.%20024U2290.md), convertito nella [legge 24 dicembre 1925, n. 2324, e 12 dicembre 1926, n. 2173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-12-12;2173);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta la necessita' assoluta e l'urgenza di apportare alcune modificazioni, in linea transitoria, agli [articoli 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-07-25;4866#art_63) e [64 del R. decreto 25 luglio 1887, n. 4866](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-07-25;4866#art_64), serie 3ª;
+Ritenuta la necessita' assoluta e l'urgenza di apportare alcune modificazioni, in linea transitoria, agli [articoli 63](Che%20approva%20lannesso%20regolamento%20per%20la%20gestione%20dei%20vaglia%20e%20dei%20titoli%20di%20credito%20postali.%20087U4866.md) e [64 del R. decreto 25 luglio 1887, n. 4866](Che%20approva%20lannesso%20regolamento%20per%20la%20gestione%20dei%20vaglia%20e%20dei%20titoli%20di%20credito%20postali.%20087U4866.md), serie 3ª;
 
 Visto il parere del Consiglio di amministrazione delle poste e dei telegrafi;
 

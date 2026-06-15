@@ -20,13 +20,13 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Nelle nuove Provincie della Venezia Giulia e della Venezia Tridentina e' concessa amnistia per le contravvenzioni alle quali e' applicabile il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) di finanza dell'11 luglio 1835, commesse fino alla data del presente decreto, in quanto le pene stabilite per tali contravvenzioni, sole o congiunte, non superino il massimo di corone 2000, ora L. 2000 di multa e di sei mesi di pena di arresto. 
+Nelle nuove Provincie della Venezia Giulia e della Venezia Tridentina e' concessa amnistia per le contravvenzioni alle quali e' applicabile il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) di finanza dell'11 luglio 1835, commesse fino alla data del presente decreto, in quanto le pene stabilite per tali contravvenzioni, sole o congiunte, non superino il massimo di corone 2000, ora L. 2000 di multa e di sei mesi di pena di arresto. 
  
  A tale effetto e' da considerarsi come multa anche la confisca (caduta in commesso) di merci ed altri oggetti, comminata in luogo della pena del valore su indicato. 
  
  Per le pene inflitte in eccedenza ai limiti sopra indicati, sara' accordata la diminuzione fino a concorrenza dei limiti medesimi, a titolo di indulto. 
  
- Dal beneficio statuito nei precedenti comma sono esclusi tutti i casi di contrabbando temerario, nonche' le contravvenzioni previste nei [paragrafi 311, 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_com314-par311), [318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_com318), [456](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_com456) e [461 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_com461) su citato e nel paragrafo 77 della legge 19 agosto 1865 B. L. I. n. 75 dell'anno 1866.
+ Dal beneficio statuito nei precedenti comma sono esclusi tutti i casi di contrabbando temerario, nonche' le contravvenzioni previste nei [paragrafi 311, 314](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [318](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [456](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [461 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) su citato e nel paragrafo 77 della legge 19 agosto 1865 B. L. I. n. 75 dell'anno 1866.
 
 ## Art. 2.
 

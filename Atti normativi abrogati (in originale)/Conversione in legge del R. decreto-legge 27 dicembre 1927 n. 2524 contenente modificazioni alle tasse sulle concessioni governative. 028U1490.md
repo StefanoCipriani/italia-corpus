@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 dicembre 1927, n. 2524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-27;2524), contenente modificazioni alle tasse sulle concessioni governative. 
+ E' convertito in legge il [R. decreto-legge 27 dicembre 1927, n. 2524](Modificazioni%20alle%20tasse%20sulle%20concessioni%20governative.%20027U2524.md), contenente modificazioni alle tasse sulle concessioni governative. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

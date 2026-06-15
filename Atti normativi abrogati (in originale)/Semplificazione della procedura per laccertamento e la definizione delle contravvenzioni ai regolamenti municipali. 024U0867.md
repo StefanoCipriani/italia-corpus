@@ -22,7 +22,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia 
 
 ## Art. 1.
 
-Per i verbali di accertamento di semplici contravvenzioni ai regolamenti locali e' soppresso l'obbligo dell'asseverazione con giuramento dinanzi al sindaco, stabilito dall'art. 227 della legge comunale e provinciale ([testo unico) 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato dall'[art. 71 del R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839#art_71).
+Per i verbali di accertamento di semplici contravvenzioni ai regolamenti locali e' soppresso l'obbligo dell'asseverazione con giuramento dinanzi al sindaco, stabilito dall'art. 227 della legge comunale e provinciale ([testo unico) 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato dall'[art. 71 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
 
 ## Art. 2.
 
@@ -34,7 +34,7 @@ La conciliazione amministrativa della contravvenzione puo' essere eseguita, da p
  
  L'ordinanza della Giunta municipale deve essere pubblicata nelle forme prescritte dalla legge comunale e provinciale. 
  
- La conciliazione amministrativa nei modi stabiliti dal presente articolo non e' ammessa qualora esista una parte lesa dal fatto. In tale ipotesi il contravventore e la parte lesa debbono essere invitati a comparire dinanzi al sindaco o ad un suo delegato, in un giorno determinato, per il tentativo di conciliazione a termini dell'art. 228 del testo unico della legge comunale e provinciale 4 febbraio 1915, n. 148 e dell'[articolo 72 del R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839#art_72).
+ La conciliazione amministrativa nei modi stabiliti dal presente articolo non e' ammessa qualora esista una parte lesa dal fatto. In tale ipotesi il contravventore e la parte lesa debbono essere invitati a comparire dinanzi al sindaco o ad un suo delegato, in un giorno determinato, per il tentativo di conciliazione a termini dell'art. 228 del testo unico della legge comunale e provinciale 4 febbraio 1915, n. 148 e dell'[articolo 72 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
 
 ## Art. 3.
 

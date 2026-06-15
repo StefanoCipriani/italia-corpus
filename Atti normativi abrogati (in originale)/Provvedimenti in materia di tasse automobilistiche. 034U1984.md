@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3283), col quale venne approvato il testo unico delle tasse automobilistiche;
+Visto il [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), col quale venne approvato il testo unico delle tasse automobilistiche;
 
-Visto il [R. decreto 27 settembre 1923, n. 2446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-27;2446);
+Visto il [R. decreto 27 settembre 1923, n. 2446](Rilascio%20obbligatorio%20dei%20biglietti%20per%20trasporti%20sulle%20linee%20automobilistiche.%20023U2446.md);
 
 Visto il [R. decreto-legge 26 settembre 1933, n. 1237](Provvedimenti%20per%20le%20tasse%20automobilistiche.%20033U1237.md), convertito nella [legge 1° marzo 1934, n. 638](Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201933%20n.%201237%20recante%20provvedimenti%20a%20favore%20dellindustria%20automobilistica.%20034U0638.md);
 

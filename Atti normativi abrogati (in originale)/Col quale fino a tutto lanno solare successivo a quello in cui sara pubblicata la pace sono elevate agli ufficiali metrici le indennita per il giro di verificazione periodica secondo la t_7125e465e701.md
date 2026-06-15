@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Visto il testo unico delle leggi metriche, approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª);
 
@@ -28,7 +28,7 @@ Visto il regolamento pel servizio metrico, approvato con [R. decreto 31 gennaio 
 
 Visto il [R. decreto 10 dicembre 1912, n. 1385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-12-10;1385), col quale si sostituiscono nuove disposizioni a quelle indicate negli articoli 64, 114, 115, 139 e 140 del precitato regolamento;
 
-Visto il [R. decreto 11 agosto 1909, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-11;623), che approva la tabella dei compensi supplementari dovuti ai Regi verificatori metrici, ai sensi dell'ultimo comma dell'articolo 139 del regolamento stesso;
+Visto il [R. decreto 11 agosto 1909, n. 623](Che%20approva%20la%20tabella%20dei%20compensi%20supplementari%20dovuti%20ai%20R.%20verificatori%20metrici%20pel%20giro%20di%20verificazione%20periodica.%20009U0623.md), che approva la tabella dei compensi supplementari dovuti ai Regi verificatori metrici, ai sensi dell'ultimo comma dell'articolo 139 del regolamento stesso;
 
 Udito il Consiglio dei ministri;
 
@@ -36,7 +36,7 @@ Sulla proposta del ministro segretario di Stato per l'industria, il commercio e 
 
 ## Art. 1.
 
-L'indennita' di lire dieci per ciascun Comune, stabilita dall'art. 139 del regolamento sul servizio metrico, approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242), fermi restando i compensi supplementari di cui nel [R. decreto 11 agosto 1909, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-11;623), e' elevata a L. 12, 15 e 18 per i Comuni dei distretti metrici del Regno ordinati rispettivamente nelle categorie 1ª, 2ª e 3ª dell'annessa tabella, che fa parte integrale del presente decreto, firmata, d'ordine Nostro, dal ministro proponente e da quello del tesoro.
+L'indennita' di lire dieci per ciascun Comune, stabilita dall'art. 139 del regolamento sul servizio metrico, approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242), fermi restando i compensi supplementari di cui nel [R. decreto 11 agosto 1909, n. 623](Che%20approva%20la%20tabella%20dei%20compensi%20supplementari%20dovuti%20ai%20R.%20verificatori%20metrici%20pel%20giro%20di%20verificazione%20periodica.%20009U0623.md), e' elevata a L. 12, 15 e 18 per i Comuni dei distretti metrici del Regno ordinati rispettivamente nelle categorie 1ª, 2ª e 3ª dell'annessa tabella, che fa parte integrale del presente decreto, firmata, d'ordine Nostro, dal ministro proponente e da quello del tesoro.
 
 ## Art. 2.
 

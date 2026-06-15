@@ -29,7 +29,7 @@ Sono esclusi dalla cessione i ricoveri provvisori e stabili che lo Stato credera
 
 ## Art. 3.
 
-I terreni attualmente occupati dallo Stato per sede di ricoveri, per apertura di strade o per altre esigenze, nei territori danneggiati dal terremoto del 13 gennaio 1915, e che potranno in seguito venire definitivamente espropriati, si intendono ceduti ai rispettivi Comuni, fermi gli impegni dallo Stato assunti per concessioni fatte in dipendenza dell'[art. 3 del R. decreto 11 febbraio 1915, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-11;106#art_3), convertito nella [legge 1° aprile 1915, n. 476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;476), allegato N. 
+I terreni attualmente occupati dallo Stato per sede di ricoveri, per apertura di strade o per altre esigenze, nei territori danneggiati dal terremoto del 13 gennaio 1915, e che potranno in seguito venire definitivamente espropriati, si intendono ceduti ai rispettivi Comuni, fermi gli impegni dallo Stato assunti per concessioni fatte in dipendenza dell'[art. 3 del R. decreto 11 febbraio 1915, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-11;106#art_3), convertito nella [legge 1° aprile 1915, n. 476](Che%20converte%20in%20legge%2017%20decreti%20Reali%20recanti%20provvedimenti%20a%20favore%20dei%20paesi%20danneggiati%20dal%20terremoto%20del%2013%20gennaio%201915%20e%20porta%20modificazioni%20ai%20decreti%20stessi%20con%20laggiunta%20di%20altr_f19f0a26f386.md), allegato N. 
  
  Copia dei relativi decreti di espropriazione sara' dai prefetti trasmessa ai Comuni, insieme con i piani parcellari e con tutti i dati necessari per procedere alle volture. 
  

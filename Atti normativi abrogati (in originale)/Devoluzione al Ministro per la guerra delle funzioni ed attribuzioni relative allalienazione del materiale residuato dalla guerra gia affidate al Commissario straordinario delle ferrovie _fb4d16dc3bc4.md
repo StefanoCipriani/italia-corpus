@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Segretario di Stato pe
 
 ## Art. 1.
 
-A decorrere dalla data di pubblicazione del presente decreto, le funzioni ed attribuzioni gia' spettanti al Commissario straordinario delle ferrovie dello Stato in virtu' del [R. decreto 4 marzo 1923, n. 552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-04;552), recante disposizioni relative alla alienazione del materiale residuato dalla guerra, sono deferite al Ministro per la guerra, che procedera' all'alienazione stessa a mezzo di aste pubbliche regionali, con facolta' di derogare alle disposizioni degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_5) e [19 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_19).
+A decorrere dalla data di pubblicazione del presente decreto, le funzioni ed attribuzioni gia' spettanti al Commissario straordinario delle ferrovie dello Stato in virtu' del [R. decreto 4 marzo 1923, n. 552](Che%20reca%20disposizioni%20relative%20allAlienazione%20dei%20materiali%20residuati%20dalla%20guerra.%20023U0552.md), recante disposizioni relative alla alienazione del materiale residuato dalla guerra, sono deferite al Ministro per la guerra, che procedera' all'alienazione stessa a mezzo di aste pubbliche regionali, con facolta' di derogare alle disposizioni degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_5) e [19 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_19).
 
 ## Art. 2.
 

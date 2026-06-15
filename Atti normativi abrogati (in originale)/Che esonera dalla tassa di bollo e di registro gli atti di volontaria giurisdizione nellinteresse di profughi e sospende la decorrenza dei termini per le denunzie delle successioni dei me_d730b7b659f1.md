@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Sulla proposta del ministro segretario di Stato per le finanze, di concerto col ministro del tesoro;
 
@@ -42,7 +42,7 @@ Se in una successione per la quale non sia applicabile la sospensione di termini
 
 ## Art. 4.
 
-I profughi dei Comuni predetti sono esonerati dall'obbligo di dare le prove richieste dall'[art. 101 della legge 21 maggio 1897, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-05-21;217#art_101) (testo unico), dall'[art. 21 della legge 23 aprile 1911, n. 509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-23;509#art_21), e dall'ultimo capoverso dell'[art. 5 del decreto Luogotenenziale 21 aprile 1918, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-21;629#art_5). 
+I profughi dei Comuni predetti sono esonerati dall'obbligo di dare le prove richieste dall'[art. 101 della legge 21 maggio 1897, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-05-21;217#art_101) (testo unico), dall'[art. 21 della legge 23 aprile 1911, n. 509](Che%20apporta%20le%20modificazioni%20di%20alcune%20disposizioni%20delle%20leggi%20relative%20alle%20tasse%20di%20registro%20di%20bollo%20e%20per%20le%20concessioni%20governative%20011U0509.md), e dall'ultimo capoverso dell'[art. 5 del decreto Luogotenenziale 21 aprile 1918, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-21;629#art_5). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

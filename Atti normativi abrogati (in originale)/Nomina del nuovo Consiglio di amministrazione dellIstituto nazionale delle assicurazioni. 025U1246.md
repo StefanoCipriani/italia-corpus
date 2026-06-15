@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il [R. decreto-legge 4 luglio 1925, n. 1089](Scioglimento%20del%20Consiglio%20di%20amministrazione%20dellIstituto%20nazionale%20delle%20assicurazioni.%20025U1089.md), col quale fu disposto lo scioglimento del Consiglio di amministrazione dell'Istituto nazionale delle assicurazioni;
 
-Veduto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), concernente l'esercizio delle assicurazioni private, modificato con [Regi decreti-legge 24 settembre 1923, n. 2272](Modificazione%20dellart.%207%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U2272.md), e [5 aprile 1925, n. 440](Modificazioni%20al%20Regio%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0440.md);
+Veduto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), concernente l'esercizio delle assicurazioni private, modificato con [Regi decreti-legge 24 settembre 1923, n. 2272](Modificazione%20dellart.%207%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U2272.md), e [5 aprile 1925, n. 440](Modificazioni%20al%20Regio%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0440.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -55,7 +55,7 @@ Con l'insediamento del Consiglio di amministrazione, costituito con il presente 
 All'avv. Salvatore Gatti, presidente del Consiglio di amministrazione, e' affidato altresi' l'incarico di direttore generale dell'Istituto nazionale delle assicurazioni. 
  
  Durante l'esercizio di detto incarico il consigliere di Stato avv.
-Salvatore Gatti e' collocato fuori ruolo secondo le norme di cui al [R. decreto 30 dicembre 1923, n. 2958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2958).
+Salvatore Gatti e' collocato fuori ruolo secondo le norme di cui al [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md).
 
 ## Art. 4.
 

@@ -32,7 +32,7 @@ Ai fini delle imposte sul reddito e dell'imposta sul valore aggiunto, la rettifi
 
 2.
 
-La definizione non e' ammessa quando sulla base degli elementi, dati e notizie a conoscenza dell'ufficio e' configurabile l'obbligo di denunzia all'autorita' giudiziaria per i reati di cui agli [articoli da 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_1) [a 4 del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_4), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;516), e successive modificazioni. Tale disposizione si applica anche quando per i medesimi reati risulta essere stato presentato rapporto dalla Guardia di finanza o risulta essere stata avviata l'azione penale.
+La definizione non e' ammessa quando sulla base degli elementi, dati e notizie a conoscenza dell'ufficio e' configurabile l'obbligo di denunzia all'autorita' giudiziaria per i reati di cui agli [articoli da 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_1) [a 4 del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_4), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md), e successive modificazioni. Tale disposizione si applica anche quando per i medesimi reati risulta essere stato presentato rapporto dalla Guardia di finanza o risulta essere stata avviata l'azione penale.
 
 3.
 
@@ -56,7 +56,7 @@ Con regolamento da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 a
 
 7.
 
-Cessano di avere efficacia le norme in materia di determinazione delle quote di capacita' operativa degli uffici delle entrate e della Guardia di finanza, da destinare ai controlli dei contribuenti che abbiano dichiarato un reddito di ammontare inferiore al contributo direttivo lavorativo, di cui al [comma 1, dell'articolo 62-sexies del decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331#art_62sexies-com1), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427).
+Cessano di avere efficacia le norme in materia di determinazione delle quote di capacita' operativa degli uffici delle entrate e della Guardia di finanza, da destinare ai controlli dei contribuenti che abbiano dichiarato un reddito di ammontare inferiore al contributo direttivo lavorativo, di cui al [comma 1, dell'articolo 62-sexies del decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331#art_62sexies-com1), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md).
 
 8.
 
@@ -65,7 +65,7 @@ oggetto dell'accertamento, con la sola esclusione dei registri IVA.
 
 9.
 
-Per l'anno 1994, il termine per la pubblicazione nella Gazzetta Ufficiale dei decreti del Presidente del Consiglio dei Ministri di cui all'[articolo 11, comma 1, del decreto legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_11-com1), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-14;438), con i quali sono determinati i coefficienti presuntivi di compensi e di ricavi, e' fissato al 15 dicembre 1994.
+Per l'anno 1994, il termine per la pubblicazione nella Gazzetta Ufficiale dei decreti del Presidente del Consiglio dei Ministri di cui all'[articolo 11, comma 1, del decreto legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_11-com1), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201992%20n.%20384%20recante%20misure%20urgenti%20in%20materia%20di%20previdenza%20di%20sanita%20e%20di%20pubblico%20impiego%20nonche%20disposizioni%20fiscali.md), con i quali sono determinati i coefficienti presuntivi di compensi e di ricavi, e' fissato al 15 dicembre 1994.
 
 ### Art. 2. — Accertamento con adesione ai fini di altre imposte dirette
 
@@ -81,7 +81,7 @@ Con regolamento da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 a
 
 1.
 
-In deroga a quanto stabilito dall'[articolo 5 del decreto-legge 18 marzo 1976, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-03-18;46#art_5), convertito, con modificazioni, dalla [legge 10 maggio 1976, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;249), per l'imposta sul gas metano, e relativa addizionale regionale nonche', per l'imposta sostitutiva, versate nel periodo dal 1 gennaio 1994 al 30 giugno 1994, con non oltre un giorno di ritardo rispetto al termine stabilito, e' dovuto il solo interesse legale. I versamenti gia' effettuati devono essere comunque interamente imputati all'imposta. Le somme eventualmente gia' corrisposte, a titolo di sanzione, anche ove non sia stato presentato ricorso, costituiscono un anticipo sui versamenti delle imposte di cui sopra, da effettuare nel bimestre successivo all'entrata in vigore della legge di conversione del presente decreto.
+In deroga a quanto stabilito dall'[articolo 5 del decreto-legge 18 marzo 1976, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-03-18;46#art_5), convertito, con modificazioni, dalla [legge 10 maggio 1976, n. 249](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20marzo%201976%20n.%2046%20concernente%20misure%20urgenti%20in%20materia%20tributaria.md), per l'imposta sul gas metano, e relativa addizionale regionale nonche', per l'imposta sostitutiva, versate nel periodo dal 1 gennaio 1994 al 30 giugno 1994, con non oltre un giorno di ritardo rispetto al termine stabilito, e' dovuto il solo interesse legale. I versamenti gia' effettuati devono essere comunque interamente imputati all'imposta. Le somme eventualmente gia' corrisposte, a titolo di sanzione, anche ove non sia stato presentato ricorso, costituiscono un anticipo sui versamenti delle imposte di cui sopra, da effettuare nel bimestre successivo all'entrata in vigore della legge di conversione del presente decreto.
 
 ### Art. 4. — Autotutela
 
@@ -131,7 +131,7 @@ Le liti di cui al presente articolo non possono essere oggetto della conciliazio
 
 8.
 
-Il pagamento del dieci per cento del valore della lite, come stabilito al comma 4 del presente articolo, restando fermo il limite di lire 20 milioni estingue le controversie per l'imposta di cui all'[articolo 7, comma 1, del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_7-com1), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359).
+Il pagamento del dieci per cento del valore della lite, come stabilito al comma 4 del presente articolo, restando fermo il limite di lire 20 milioni estingue le controversie per l'imposta di cui all'[articolo 7, comma 1, del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_7-com1), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20luglio%201992%20n.%20333%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica.md).
 
 9.
 
@@ -139,7 +139,7 @@ Con regolamento, da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 
 
 10.
 
-Le disposizioni di cui al presente articolo non sono applicabili nei confronti dei contribuenti che hanno chiesto la definizione della lite ai sensi dell'[articolo 53 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_53) e in ogni caso non danno diritto a rimborsi per le somme gia' versate.
+Le disposizioni di cui al presente articolo non sono applicabili nei confronti dei contribuenti che hanno chiesto la definizione della lite ai sensi dell'[articolo 53 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md) e in ogni caso non danno diritto a rimborsi per le somme gia' versate.
 
 ### Art. 6. — Disposizioni concernenti alcuni soggetti titolari di partita IVA
 
@@ -168,8 +168,8 @@ Per i giudizi pendenti alla data di entrata in vigore del presente decreto le di
 
 1.
 
-La [lettera c) del comma 1 dell'articolo 6 del decreto-legge 10 giugno 1994, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-10;357#art_6-com1-letc), convertito, con modificazioni, dalla [legge 8 agosto 1994, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-08;489), e' sostituita dalla seguente: 
- " c) tenuta dei conti individuali dei sostituti di imposta e dei soggetti di cui all'[articolo 19, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_19-com4), e successive modificazioni ed integrazioni".
+La [lettera c) del comma 1 dell'articolo 6 del decreto-legge 10 giugno 1994, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-10;357#art_6-com1-letc), convertito, con modificazioni, dalla [legge 8 agosto 1994, n. 489](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20giugno%201994%20n.%20357%20recante%20disposizioni%20tributarie%20urgenti%20per%20accelerare%20la%20ripresa%20delleconomia%20e%20delloccupazione%20nonche%20per%20_034e3ebc77cd.md), e' sostituita dalla seguente: 
+ " c) tenuta dei conti individuali dei sostituti di imposta e dei soggetti di cui all'[articolo 19, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni ed integrazioni".
 
 ### Art. 9. — Responsabilita' patrimoniale dei dipendenti dell'Amministrazione finanziaria
 
@@ -189,7 +189,7 @@ All'[articolo 16, comma 1, della legge 29 dicembre 1990, n. 408](https://www.nor
 
 2.
 
-All'[articolo 2 del decreto-legge 10 giugno 1994, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-10;357#art_2), convertito, con modificazioni, dalla [legge 8 agosto 1994, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-08;489), dopo il comma 3-ter, e' aggiunto il seguente: 
+All'[articolo 2 del decreto-legge 10 giugno 1994, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-10;357#art_2), convertito, con modificazioni, dalla [legge 8 agosto 1994, n. 489](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20giugno%201994%20n.%20357%20recante%20disposizioni%20tributarie%20urgenti%20per%20accelerare%20la%20ripresa%20delleconomia%20e%20delloccupazione%20nonche%20per%20_034e3ebc77cd.md), dopo il comma 3-ter, e' aggiunto il seguente: 
  "3-quater. Il credito di imposta non spetta nel caso di inosservanza delle disposizioni contrattuali in materia di trattamento economico dei soggetti assunti.".
 
 ## DISPOSIZIONI CONCERNENTI IL PERSONALE DELL'AMMINISTRAZIONE FINANZIARIA
@@ -212,7 +212,7 @@ Al fine di verificare la scrupolosa osservanza da parte degli appartenenti all'A
                             c)
                                 esegue indagini patrimoniali sui soggetti di cui al presente comma;
                             d)
-                                richiede alle amministrazioni pubbliche, all'Amministrazione postale, agli enti creditizi, alle societa' di intermediazione mobiliare, agli agenti di cambio, alle societa' autorizzate al collocamento a domicilio di valori mobiliari, alle societa' di gestione di fondi comuni di investimento mobiliare, alle societa' fiduciarie, alle imprese ed enti assicurativi ed alla societa' Monte Titoli S.p.a. di cui alla [legge 19 giugno 1986, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-19;289), copia della documentazione inerente i rapporti intrattenuti con i soggetti di cui al presente comma, nonche' ogni altra notizia o informazione utile ai fini dello svolgimento delle indagini di cui alla lettera c);
+                                richiede alle amministrazioni pubbliche, all'Amministrazione postale, agli enti creditizi, alle societa' di intermediazione mobiliare, agli agenti di cambio, alle societa' autorizzate al collocamento a domicilio di valori mobiliari, alle societa' di gestione di fondi comuni di investimento mobiliare, alle societa' fiduciarie, alle imprese ed enti assicurativi ed alla societa' Monte Titoli S.p.a. di cui alla [legge 19 giugno 1986, n. 289](Disposizioni%20relative%20allamministrazione%20accentrata%20di%20valori%20mobiliari%20attraverso%20la%20Monte%20Titoli%20S.p.a.md), copia della documentazione inerente i rapporti intrattenuti con i soggetti di cui al presente comma, nonche' ogni altra notizia o informazione utile ai fini dello svolgimento delle indagini di cui alla lettera c);
                             e)
                                 richiede informazioni o documenti all'autorita' giudiziaria, salvo il rispetto delle norme che disciplinano il segreto delle indagini;
                             f)
@@ -319,7 +319,7 @@ Le disposizioni di cui agli articoli 11, 12 e 13 si applicano a tutti gli appart
 
 1.
 
-Alla [legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146), sono apportate le seguenti modificazioni:
+Alla [legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md), sono apportate le seguenti modificazioni:
                             a)
                                 nell'articolo 9, secondo comma, la lettera a) e' sostituita dalla seguente: " a) controlla, sulla base di direttive emanate dal Ministro delle finanze, sentite le competenti commissioni parlamentari, l'attivita' di verifica e accertamento di uffici espressamente individuati nella direttiva stessa, avvalendosi anche dei direttori regionali territorialmente competenti o dei comandanti di zona della guardia di finanza; controlla, altresi', sulla base di direttive emanate dal Ministro delle finanze, le verifiche eseguite dalla Guardia di finanza;". Nello stesso comma, 
  nella lettera b), le parole: "del controllo" sono sostituite dalle seguenti: "dei controlli" e, dopo la lettera d), e' aggiunta la seguente lettera: "d-bis) esprime pareri su specifiche questioni sottoposte al suo esame dal Ministro delle finanze.";
@@ -336,13 +336,13 @@ Il limite quinquennale di cui al comma 1, lettera b), non si applica agli ispett
 
 4.
 
-La suddivisione nelle categorie di provenienza di cui all'[articolo 10 della legge 24 aprile 1980, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146#art_10), e' determinata con decreto del Ministro delle finanze.
+La suddivisione nelle categorie di provenienza di cui all'[articolo 10 della legge 24 aprile 1980, n. 146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md), e' determinata con decreto del Ministro delle finanze.
 
 ### Art. 16. — Concorsi speciali
 
 1.
 
-I concorsi di cui all'[articolo 15, comma 3, del decreto-legge 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557#art_15-com3), convertito, con modificazioni, dalla [legge 26 febbraio 1994, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-26;133), per l'assunzione del personale da destinare al potenziamento dell'attivita' di controllo si svolgono su base regionale e si articolano in una prova di preselezione consistente in una serie di test psico-attitudinali, in una prova scritta, anche a carattere teorico-pratico, ed in un colloquio, in materie attinenti al profilo professionale da ricoprire.
+I concorsi di cui all'[articolo 15, comma 3, del decreto-legge 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557#art_15-com3), convertito, con modificazioni, dalla [legge 26 febbraio 1994, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20557%20recante%20ulteriori%20interventi%20correttivi%20di%20finanza%20pubblica%20per%20lanno%201994.md), per l'assunzione del personale da destinare al potenziamento dell'attivita' di controllo si svolgono su base regionale e si articolano in una prova di preselezione consistente in una serie di test psico-attitudinali, in una prova scritta, anche a carattere teorico-pratico, ed in un colloquio, in materie attinenti al profilo professionale da ricoprire.
 
 2.
 
@@ -354,7 +354,7 @@ Alla prova scritta possono essere ammessi soltanto coloro che abbiano superato c
 
 Il [comma 1 dell'articolo 10 della legge 29 ottobre 1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358#art_10-com1), e' sostituito dai seguenti: 
  " 1. Il personale appartenente alle qualifiche dirigenziali del Ministero delle finanze, escluso quello del Dipartimento delle dogane e delle imposte indirette, e' inquadrato, secondo le modalita' stabilite dall'articolo 12, in un ruolo amministrativo e in un ruolo tecnico, aventi dotazioni organiche il cui numero complessivo non puo' superare le duemilaquattrocentonove unita', di cui cinque per il livello di funzione B, quarantasette per il livello di funzione C, cinquecentonovantotto per il livello di funzione D e millesettecentocinquantanove per il livello di funzione E. 
- 1-bis. Nella tabella A allegata al [decreto legislativo 26 aprile 1990, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-04-26;105), e' aggiunto un posto di funzione di consigliere ministeriale nella qualifica di dirigente generale di livello C.".
+ 1-bis. Nella tabella A allegata al [decreto legislativo 26 aprile 1990, n. 105](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Organizzazione%20centrale%20e%20periferica%20dellAmministrazione%20delle%20dogane%20e%20delle%20imposte%20indirette%20e%20ordinamento%20del%20relativo%20personale%20in%20attuazione%20della%20legge%2010%20ottobre%201989%20n.%20349.md), e' aggiunto un posto di funzione di consigliere ministeriale nella qualifica di dirigente generale di livello C.".
 
 2.
 
@@ -379,7 +379,7 @@ Ferma restando l'applicabilita' del [decreto legislativo 3 febbraio 1993, n. 29]
 
 1.
 
-La Scuola centrale tributaria, oltre ai compiti indicati nell'[articolo 5 della legge 29 ottobre 1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358#art_5), partecipa, su direttiva del Ministro delle finanze, alla elaborazione degli studi di settore previsti dall'[articolo 62-bis del decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331#art_62bis), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427). Per l'espletamento dei predetti compiti, con regolamento da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), e' disciplinata la possibilita', nei limiti dello stanziamento di bilancio, di stipulare convenzioni, di associarsi e consorziarsi con universita', enti di ricerca ed istituti italiani ed esteri, pubblici e privati, di determinare compensi e forme di erogazione degli stessi, di effettuare pubblicazioni ed acquisti di libri di testo e di altro materiale didattico da distribuire ai partecipanti alle attivita' didattiche, di ricerca e di studio, senza obbligo di restituzione.
+La Scuola centrale tributaria, oltre ai compiti indicati nell'[articolo 5 della legge 29 ottobre 1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358#art_5), partecipa, su direttiva del Ministro delle finanze, alla elaborazione degli studi di settore previsti dall'[articolo 62-bis del decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331#art_62bis), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md). Per l'espletamento dei predetti compiti, con regolamento da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), e' disciplinata la possibilita', nei limiti dello stanziamento di bilancio, di stipulare convenzioni, di associarsi e consorziarsi con universita', enti di ricerca ed istituti italiani ed esteri, pubblici e privati, di determinare compensi e forme di erogazione degli stessi, di effettuare pubblicazioni ed acquisti di libri di testo e di altro materiale didattico da distribuire ai partecipanti alle attivita' didattiche, di ricerca e di studio, senza obbligo di restituzione.
 
 2.
 
@@ -402,17 +402,17 @@ L'[articolo 5 della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri
 
 2.
 
-Sino all'emanazione del decreto ministeriale con il quale sono stabilite le modalita' di svolgimento del concorso per l'ammissione e del corso superiore di polizia tributaria, i tenenti colonnelli compresi nell'ultimo terzo dell'organico del grado, i maggiori ed i capitani compresi nel primo terzo dell'organico del grado partecipano al concorso e sono ammessi alla frequenza del corso superiore di polizia tributaria secondo le norme previste dal regolamento approvato con [decreto del Presidente della Repubblica 5 gennaio 1989, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1989-01-05;46). Al superamento del corso conseguono i benefici di carriera previsti dall'[articolo 5, comma 9, della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5-com9), come modificato dal presente articolo.
+Sino all'emanazione del decreto ministeriale con il quale sono stabilite le modalita' di svolgimento del concorso per l'ammissione e del corso superiore di polizia tributaria, i tenenti colonnelli compresi nell'ultimo terzo dell'organico del grado, i maggiori ed i capitani compresi nel primo terzo dell'organico del grado partecipano al concorso e sono ammessi alla frequenza del corso superiore di polizia tributaria secondo le norme previste dal regolamento approvato con [decreto del Presidente della Repubblica 5 gennaio 1989, n. 46](../DPR/Approvazione%20del%20regolamento%20per%20lammissione%20e%20la%20frequenza%20al%20corso%20superiore%20di%20polizia%20tributaria%20per%20ufficiali%20in%20servizio%20permanente%20effettivo%20della%20Guardia%20di%20finanza.md). Al superamento del corso conseguono i benefici di carriera previsti dall'[articolo 5, comma 9, della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5-com9), come modificato dal presente articolo.
 
 3.
 
-La [legge 29 luglio 1991, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-29;237), e' abrogata a decorrere dalla data di entrata in vigore del presente decreto.
+La [legge 29 luglio 1991, n. 237](Nuove%20disposizioni%20per%20il%20corso%20superiore%20di%20polizia%20tributaria%20ed%20istituzione%20del%20corso%20di%20polizia%20tributaria.md), e' abrogata a decorrere dalla data di entrata in vigore del presente decreto.
 
 ### Art. 20. — Disposizioni per il personale imbarcato e norme agevolative per il settore agricolo
 
 1.
 
-Le liti fiscali, di valore fino a lire 20 milioni, concernenti le imposte di bollo e di registro dovute per i contratti di arruolamento del personale imbarcato su navi che esercitano la pesca marittima, e risultano assegnate alle categorie di cui all'articolo 8 del regolamento approvato con [decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-10-02;1639), possono essere definite, secondo le disposizioni di cui all'articolo 5, con il pagamento del 10 per cento del valore della lite, cosi' come definito dal comma 4 dello stesso articolo 5.
+Le liti fiscali, di valore fino a lire 20 milioni, concernenti le imposte di bollo e di registro dovute per i contratti di arruolamento del personale imbarcato su navi che esercitano la pesca marittima, e risultano assegnate alle categorie di cui all'articolo 8 del regolamento approvato con [decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../DPR/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md), possono essere definite, secondo le disposizioni di cui all'articolo 5, con il pagamento del 10 per cento del valore della lite, cosi' come definito dal comma 4 dello stesso articolo 5.
 
 2.
 
@@ -420,7 +420,7 @@ A decorrere dalla data di entrata in vigore del presente decreto i contratti di 
 
 3.
 
-Il punto 6 della tabella A allegata al [decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427), e' sostituito dal seguente: 
+Il punto 6 della tabella A allegata al [decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md), e' sostituito dal seguente: 
  "6. Impieghi in lavori agricoli, orticoli, in allevamento, nella silvicoltura e piscicoltura e nella florovivaistica: 
  gasolio . . . . . . . 13 per cento dell'aliquota normale; 
  benzina . . . . . . . 55 per cento dell'aliquota 
@@ -435,7 +435,7 @@ All'onere conseguente all'applicazione del comma 2 si provvede mediante utilizzo
 
 1.
 
-L'[articolo 9 del decreto-legge 13 maggio 1991, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;151#art_9), convertito, con modificazioni, dalla [legge 12 luglio 1991, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;202), e' abrogato. Sono altresi' considerate estinte le eventuali sanzioni comminate per il mancato rispetto di tali norme.
+L'[articolo 9 del decreto-legge 13 maggio 1991, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;151#art_9), convertito, con modificazioni, dalla [legge 12 luglio 1991, n. 202](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20151%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20pubblica.md), e' abrogato. Sono altresi' considerate estinte le eventuali sanzioni comminate per il mancato rispetto di tali norme.
 
 2.
 
@@ -449,7 +449,7 @@ Il maggiore gettito derivante da quanto previsto al comma 2 e' destinato per un 
 
 1.
 
-Le disposizioni indicate all'[articolo 40 del decreto-legge 18 settembre 1976, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-09-18;648#art_40), convertito, con modificazioni, dalla [legge 30 ottobre 1976, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-10-30;730), e successive modificazioni, si interpretano nel senso che esse continuano a trovare applicazione anche oltre il termine del 31 dicembre 1994, fissato dall'[articolo 2, comma 12, della legge 23 dicembre 1992, n. 500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;500#art_2-com12), per le specifiche cessioni di beni e le prestazioni di servizi, anche professionali, contemplati dalle disposizioni suddette, relativi ad opere che alla data di entrata in vigore del presente decreto, risultino effettivamente e regolarmente iniziate.
+Le disposizioni indicate all'[articolo 40 del decreto-legge 18 settembre 1976, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-09-18;648#art_40), convertito, con modificazioni, dalla [legge 30 ottobre 1976, n. 730](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20settembre%201976%20n.%20648%20concernente%20interventi%20per%20le%20zone%20del%20Friuli-Venezia%20Giulia%20colpite%20dagli%20eventi%20sismici%20dellanno%201976.md), e successive modificazioni, si interpretano nel senso che esse continuano a trovare applicazione anche oltre il termine del 31 dicembre 1994, fissato dall'[articolo 2, comma 12, della legge 23 dicembre 1992, n. 500](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201993.md), per le specifiche cessioni di beni e le prestazioni di servizi, anche professionali, contemplati dalle disposizioni suddette, relativi ad opere che alla data di entrata in vigore del presente decreto, risultino effettivamente e regolarmente iniziate.
 
 2.
 
@@ -469,7 +469,7 @@ Le disposizioni di cui all'articolo 11, comma 2, del decreto del Ministro delle 
 
 2.
 
-I concessionari possono disporre delle somme giacenti sui conti correnti postali istituiti per il versamento dell'imposta comunale sugli immobili esclusivamente a fronte del contestuale versamento, a favore degli enti destinatari dell'imposta tramite posta giro alla contabilita' speciale aperta presso le competenti tesorerie provinciali dello Stato, per gli enti assoggettati alla tesoreria unica, ovvero ai conti correnti postali intestati ai comuni interessati, delle somme incassate, al netto di quelle indebitamente affluite sui conti stessi e delle commissioni previste dall'[articolo 10, comma 3, del decreto legislativo 30 dicembre 1992, n. 504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;504#art_10-com3).
+I concessionari possono disporre delle somme giacenti sui conti correnti postali istituiti per il versamento dell'imposta comunale sugli immobili esclusivamente a fronte del contestuale versamento, a favore degli enti destinatari dell'imposta tramite posta giro alla contabilita' speciale aperta presso le competenti tesorerie provinciali dello Stato, per gli enti assoggettati alla tesoreria unica, ovvero ai conti correnti postali intestati ai comuni interessati, delle somme incassate, al netto di quelle indebitamente affluite sui conti stessi e delle commissioni previste dall'[articolo 10, comma 3, del decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 3.
 

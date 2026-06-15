@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 giugno 1932, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-06-30;824), concernente sgravi a favore degli enti locali tenuti a concorrere nei trattamenti di quiescenza ripartiti per il personale sanitario. 
+ E' convertito in legge il [R. decreto-legge 30 giugno 1932, n. 824](Sgravi%20a%20favore%20degli%20enti%20locali%20tenuti%20a%20concorrere%20nei%20trattamenti%20di%20quiescenza%20ripartiti%20per%20il%20personale%20sanitario.%20032U0824.md), concernente sgravi a favore degli enti locali tenuti a concorrere nei trattamenti di quiescenza ripartiti per il personale sanitario. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

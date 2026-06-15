@@ -48,7 +48,7 @@ Le somme che risulteranno disponibili, per minori accertamenti di spesa, sugli s
 
 ## Art. 5.
 
-Il Ministro per il tesoro e' autorizzato a provvedere con propri decreti, all'inscrizione in bilancio dei fondi occorrenti per la riparazione e ricostruzione di opere pubbliche, anche di interesse di enti ausiliari dello Stato, e di fabbricati di proprieta' privata, danneggiati o distrutti in conseguenza di azioni belliche, a norma dell'[art. 1 della legge 9 luglio 1940, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;938#art_1), modificato dall'[art. 20 - primo comma - della legge 26 ottobre 1940, n. 1543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-26;1543#art_20-com1).
+Il Ministro per il tesoro e' autorizzato a provvedere con propri decreti, all'inscrizione in bilancio dei fondi occorrenti per la riparazione e ricostruzione di opere pubbliche, anche di interesse di enti ausiliari dello Stato, e di fabbricati di proprieta' privata, danneggiati o distrutti in conseguenza di azioni belliche, a norma dell'[art. 1 della legge 9 luglio 1940, n. 938](Interventi%20di%20pronto%20soccorso%20per%20la%20riparazione%20di%20opere%20pubbliche%20danneggiate%20in%20conseguenza%20di%20azioni%20belliche.%20040U0938.md), modificato dall'[art. 20 - primo comma - della legge 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md).
 
 ## Art. 6.
 

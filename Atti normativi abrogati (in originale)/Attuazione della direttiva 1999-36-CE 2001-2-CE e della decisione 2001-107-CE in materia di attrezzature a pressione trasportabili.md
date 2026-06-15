@@ -16,7 +16,7 @@ Viste le [direttive 1999/36/CE del Consiglio, del 29 aprile 1999](https://www.no
 
 Vista la [legge 29 dicembre 2000, n. 422](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md) (Legge comunitaria 2000);
 
-Visto il Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), approvato con [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285);
+Visto il Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), approvato con [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md);
 
 Visto il [decreto legislativo 13 gennaio 1999, n. 41](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2096-49-CE%20e%2096-87-CE%20relative%20al%20trasporto%20di%20merci%20pericolose%20per%20ferrovia.md), di attuazione delle [direttive 96/49/CE del Consiglio, del 23 luglio 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;49), e [96/87/CE della Commissione, del 13 dicembre 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;87), relative al trasporto di merci pericolose per ferrovia;
 
@@ -61,7 +61,7 @@ Non rientrano nel campo di applicazione del presente decreto le attrezzature a p
 Non rientrano, altresi', nell'ambito di applicazione del presente decreto le attrezzature a pressione trasportabili utilizzate esclusivamente per operazioni di trasporto di merci pericolose tra il territorio di paesi terzi, realizzate a norma dell'[articolo 6, paragrafo 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1994;55#art_6-par1), e dell'[articolo 7 della direttiva 94/55/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;55), o dell'[articolo 6, paragrafo 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1996;49#art_6-par1), e dell'[articolo 7, paragrafi 1 e 2, della direttiva 96/49/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;49).
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, comma 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, comma 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
@@ -70,7 +70,7 @@ Avvertenza:
  - La [direttiva 2001/2/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;2) e' pubblicata in GUCE n. L. del 10 gennaio 2001.
  - La decisione 2001/107/CE e' pubblicata in GUCE n. L. 039 del 9 febbraio 2001.
  - La [legge 29 dicembre 2000, n. 422](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2000".
- - Il [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), reca: "Nuovo [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)".
+ - Il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), reca: "Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)".
  - Il [decreto legislativo 13 gennaio 1999, n. 41](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2096-49-CE%20e%2096-87-CE%20relative%20al%20trasporto%20di%20merci%20pericolose%20per%20ferrovia.md), reca: "Attuazione delle [direttive 96/49/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;49) e [96/87/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;87) relative al trasporto di merci pericolose per ferrovia".
  - La [direttiva 96/49/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;49) e' pubblicata in GUCE n. L. 235 del 17 settembre 1996.
  - La [direttiva 96/87/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;87) e' pubblicata in GUCE n. L. 318 del 27 novembre 1998.
@@ -417,12 +417,12 @@ Ai fini del presente decreto, i soggetti che effettuano le attivita' previste da
 
 8.
 
-Per quanto non diversamente disposto si applicano le disposizioni di cui alla [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), ed al [decreto del Presidente della Repubblica 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753).
+Per quanto non diversamente disposto si applicano le disposizioni di cui alla [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), ed al [decreto del Presidente della Repubblica 11 luglio 1980, n. 753](../DPR/Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md).
 
 Note all'[art. 14: 
  - Per le direttive 94/55/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;55) e [96/49/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;49) vedi note alle premesse. 
  - La [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), reca: "Modifiche al sistema penale.". 
- - Il [decreto del Presidente della Repubblica 11 luglio 1980, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;753), reca: "Nuove norme in materia di polizia, sicurezza e regolarita' dell'esercizio delle ferrovie e di altri servizi di trasporto.".
+ - Il [decreto del Presidente della Repubblica 11 luglio 1980, n. 753](../DPR/Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md), reca: "Nuove norme in materia di polizia, sicurezza e regolarita' dell'esercizio delle ferrovie e di altri servizi di trasporto.".
 
 ## Art. 15. — Disposizioni transitorie
 
@@ -1008,7 +1008,7 @@ Note all'[art. 16:
 
 1.
 
-Le modifiche e gli adeguamenti, derivanti anche dal recepimento delle direttive comunitarie, concernenti le attrezzature a pressione trasportabili oggetto del presente decreto, sono adottati con provvedimento del Ministero delle infrastrutture e dei trasporti ai sensi dell'[articolo 168, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_168-com2) e [6, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_168-com6).
+Le modifiche e gli adeguamenti, derivanti anche dal recepimento delle direttive comunitarie, concernenti le attrezzature a pressione trasportabili oggetto del presente decreto, sono adottati con provvedimento del Ministero delle infrastrutture e dei trasporti ai sensi dell'[articolo 168, commi 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [6, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
 
 2.
 
@@ -1024,7 +1024,7 @@ In relazione a quanto disposto dall'[articolo 117, comma quinto, della costituzi
 Tale normativa e' adottata da ciascuna regione e provincia nel rispetto dei principi fondamentali desumibili dal presente decreto.
 
 Note all'[art. 17:
- - Per il decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_17), vedi note alle premesse.
+ - Per il decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), vedi note alle premesse.
  - L'art. 168, commi 2 e 6 cosi' recita:
  "2. Le prescrizioni relative all'etichettaggio, all'imballaggio, al carico, allo scarico ed allo stivaggio sui veicoli stradali ed alla sicurezza del trasporto delle merci pericolose ammesse al trasporto in base agli allegati all'accordo di cui al comma 1 sono stabilite con decreto del Ministro dei trasporti. Il Ministro dei trasporti puo' altresi' prescrivere, con propri decreti, particolari attrezzature ed equipaggiamenti dei veicoli che si rendano necessari per il trasporto di singole merci o classi di merci pericolose di cui al comma 1. Per le merci che presentino pericolo di esplosione o di incendio le prescrizioni dicui al primo ed al secondo periodo sono stabilite con decreto del Ministro dei trasporti, di concerto con il Ministro dell'interno. Gli addetti al carico ed allo scarico delle merci pericolose, con esclusione dei prodotti petroliferi degli impianti di rifornimento stradali per autoveicoli, debbono a cio' essere abilitati; il Ministro dei trasporti, con propri decreti, stabilisce, entro tre mesi dalla data di entrata in vigore del presente codice, le necessarie misure applicative.
  6. Il Ministro dei trasporti provvede con propri decreti al recepimento delle direttive comunitarie riguardanti la sicurezza del trasporto su strada delle merci pericolose".

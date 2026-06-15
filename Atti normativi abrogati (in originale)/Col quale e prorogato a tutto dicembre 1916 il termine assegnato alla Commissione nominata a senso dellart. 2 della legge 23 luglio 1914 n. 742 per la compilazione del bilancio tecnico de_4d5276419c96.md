@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 2 della legge 23 luglio 1914, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742#art_2), pubblicata il 31 luglio 1914, col quale articolo fu stabilito che, entro un anno dalla pubblicazione della legge stessa, una Commissione nominata dal ministro dei lavori pubblici, di concerto col ministro del tesoro, compilasse il bilancio tecnico della apposita gestione: «Fondo pensioni e sussidi» per il personale delle ferrovie dello Stato, di cui all'[art. 1 della legge 9 luglio 1908, n. 418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;418#art_1), e determinasse il disavanzo tecnico di tale gestione alla data del 1° luglio 1914; 
+ Visto l'[art. 2 della legge 23 luglio 1914, n. 742](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md), pubblicata il 31 luglio 1914, col quale articolo fu stabilito che, entro un anno dalla pubblicazione della legge stessa, una Commissione nominata dal ministro dei lavori pubblici, di concerto col ministro del tesoro, compilasse il bilancio tecnico della apposita gestione: «Fondo pensioni e sussidi» per il personale delle ferrovie dello Stato, di cui all'[art. 1 della legge 9 luglio 1908, n. 418](Provvedimenti%20per%20le%20pensioni%20e%20per%20il%20trattamento%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20008U0418.md), e determinasse il disavanzo tecnico di tale gestione alla data del 1° luglio 1914; 
  
  Ritenuto che alla nomina della suddetta Commissione fu provveduto con decreto Ministeriale 28 ottobre 1914, il quale, in relazione al termine stabilito dalla legge, prefiggeva alla Commissione stessa, di completare i suoi lavori entro il 31 luglio 1915; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' prorogato a tutto dicembre 1916 il termine entro il quale dovra' compiere i suoi lavori la Commissione nominata, a senso dell'[art. 2 della legge 23 luglio 1914, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742#art_2), per la compilazione del bilancio tecnico della gestione «Fondo pensioni e sussidi» di cui all'[art. 1 della legge 9 luglio 1908, n. 418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;418#art_1), e per la determinazione del disavanzo di tale gestione alla data del 1° luglio 1914. 
+ E' prorogato a tutto dicembre 1916 il termine entro il quale dovra' compiere i suoi lavori la Commissione nominata, a senso dell'[art. 2 della legge 23 luglio 1914, n. 742](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md), per la compilazione del bilancio tecnico della gestione «Fondo pensioni e sussidi» di cui all'[art. 1 della legge 9 luglio 1908, n. 418](Provvedimenti%20per%20le%20pensioni%20e%20per%20il%20trattamento%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20008U0418.md), e per la determinazione del disavanzo di tale gestione alla data del 1° luglio 1914. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

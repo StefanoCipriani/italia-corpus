@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 novembre 1932, n. 1480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-11-21;1480), che autorizza l'esecuzione di opere d'interesse di Comuni o di altri Enti con le economie che si verificheranno sui fondi assegnati per l'esecuzione di opere straordinarie urgenti. 
+ E' convertito in legge il [R. decreto-legge 21 novembre 1932, n. 1480](Esecuzione%20di%20opere%20di%20interesse%20di%20Comuni%20o%20di%20altri%20Enti%20con%20le%20economie%20che%20si%20verificheranno%20sui%20fondi%20assegnati%20per%20lesecuzione%20di%20opere%20straordinarie%20urgenti.%20032U1480.md), che autorizza l'esecuzione di opere d'interesse di Comuni o di altri Enti con le economie che si verificheranno sui fondi assegnati per l'esecuzione di opere straordinarie urgenti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

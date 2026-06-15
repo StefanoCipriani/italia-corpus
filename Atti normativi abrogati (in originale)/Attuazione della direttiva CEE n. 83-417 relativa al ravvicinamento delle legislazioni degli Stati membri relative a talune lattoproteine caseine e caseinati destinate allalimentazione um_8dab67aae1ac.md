@@ -43,7 +43,7 @@ Si intende per:
 Si intende per "latte scremato", il prodotto ricavato dalla mungitura di una o piu' vacche, per il quale non sia fatta alcuna aggiunta e sia stato ridotto solo il tenore di grassi.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2.
 
@@ -128,7 +128,7 @@ Salvo che il fatto costituisca reato, alla violazione delle disposizioni stabili
 Nota all'art. 8:
  Il testo dell'[art. 16 del D.P.R. 18 maggio 1982, n. 322](Attuazione%20della%20direttiva%20CEE%20n.%2079-112%20relativa%20ai%20prodotti%20alimentari%20destinati%20al%20consumatore%20finale%20ed%20alla%20relativa%20pubblicita%20nonche%20della%20direttiva%20CEE%20n.%2077-94%20relativa%20ai%20prodot_3337b7d34f7c.md) (per il titolo si veda la precedente nota), e' il seguente:
  "Art. 16. - Salvo che il fatto costituisca reato, chiunque confezioni, detenga per vendere o venda prodotti alimentari non conformi alle norme stabilite dal presente decreto e' punito con la sanzione amministrativa da L. 1.000.000 a L. 5.000.000.
- Ai contravventori alle disposizioni di etichettatura dei prodotti disciplinati dalla [legge 29 marzo 1951, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-03-29;327), continua ad applicarsi la sanzione penale prevista dal secondo comma dell'art. 5 della stessa legge".
+ Ai contravventori alle disposizioni di etichettatura dei prodotti disciplinati dalla [legge 29 marzo 1951, n. 327](Disciplina%20della%20produzione%20e%20vendita%20di%20alimenti%20per%20la%20prima%20infanzia%20e%20di%20prodotti%20dietetici.md), continua ad applicarsi la sanzione penale prevista dal secondo comma dell'art. 5 della stessa legge".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

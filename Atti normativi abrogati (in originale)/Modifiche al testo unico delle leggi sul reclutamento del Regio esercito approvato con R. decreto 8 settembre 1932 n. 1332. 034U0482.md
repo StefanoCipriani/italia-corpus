@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-08;1332);
+Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Al testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-08;1332), e' aggiunto, dopo l'art. 115, il seguente: 
+Al testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md), e' aggiunto, dopo l'art. 115, il seguente: 
  
  «Art. 115-bis. - I giovani ammessi nei Collegi militari contraggono, al compimento del 17° anno di eta', l'arruolamento volontario di anni tre, assumendo contemporaneamente l'obbligo di contrarre successive rafferme senza premio per la durata corrispondente al tempo ulteriormente necessario per completare gli studi nei collegi e compiere successivamente i corsi nelle Regie accademie militari».
 
@@ -36,7 +36,7 @@ E' abrogata la disposizione di cui all'[art. 9 del R. decreto-legge 17 giugno 19
 
 ## Art. 3.
 
-Nel capoverso dell'art. 112 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-08;1332), dopo le parole «dal compiere la ferma» aggiungere «in tutto o in parte». 
+Nel capoverso dell'art. 112 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md), dopo le parole «dal compiere la ferma» aggiungere «in tutto o in parte». 
  
  Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale e sara' presentato al Parlamento per la sua conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

@@ -24,7 +24,7 @@ Le immatricolazioni ed i trasferimenti di cui allo art. 1 sono disposti con rise
 
 ## Art. 3.
 
-Le false dichiarazioni sono punite con le pene comminate dall'[art. 496 del Codice Penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_496), salve le sanzioni di cui all'[art. 16, comma 2, lettera b) del R.D. 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-06-20;1071#art_16-com2-letb). 
+Le false dichiarazioni sono punite con le pene comminate dall'[art. 496 del Codice Penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salve le sanzioni di cui all'[art. 16, comma 2, lettera b) del R.D. 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-06-20;1071#art_16-com2-letb). 
  
  Il presente decreto entra in vigore dalla data della sua pubblicazione nella Gazzetta Ufficiale del Regno - serie speciale - e sara' presentato alle Allemblee Legislative per la conversione in legge. 
  
@@ -38,6 +38,6 @@ Le false dichiarazioni sono punite con le pene comminate dall'[art. 496 del Codi
  
  Badoglio - Cuomo - Jung 
  
- Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-10-30;1)). 
+ Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)). 
  
  Il Guardasigilli: Badoglio

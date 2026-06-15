@@ -25,14 +25,14 @@ Il [primo comma dell'art. 2 del decreto legislativo luogotenenziale 8 marzo 1945
 
 ## Art. 3.
 
-L'art. 19 della legge tributaria sulle successioni, approvata col [regio decreto 30 dicembre 1923, n. 3270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3270), e' sostituito dal seguente "Se due successioni, aventi per oggetto gli stessi beni, si aprono a distanza non superiore ai due anni l'una dall'altra l'imposta dovuta per l'ultimo trasferimento e' ridotta della meta'".
+L'art. 19 della legge tributaria sulle successioni, approvata col [regio decreto 30 dicembre 1923, n. 3270](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20successioni.%20023U3270.md), e' sostituito dal seguente "Se due successioni, aventi per oggetto gli stessi beni, si aprono a distanza non superiore ai due anni l'una dall'altra l'imposta dovuta per l'ultimo trasferimento e' ridotta della meta'".
  "Il beneficio della riduzione e' limitato alle successioni devolute ai successibili indicati nelle categorie 1ª 2ª e 3ª della tabella allegata alla presente legge, nonche' alle successioni devolute ai nipoti "ex fratre" chiamati alla eredita' per diritto di rappresentazione".
  "La riduzione non si applica per i beni che nella prima, delle due successioni siano stati del tutto esenti da imposta".
  "Qualora l'eredita' comprenda, oltre i beni provenienti da precedente successione, anche beni di diversa provenienza, la riduzione di cui ai commi precedenti viene applicata su una quota del carico di imposta, Proporzionale al valore dei beni provenienti dalla precedente successione".
 
 ## Art. 4.
 
-Dopo il [quinto comma dell'art. 45 dei regio decreto 30 dicembre 1923, n. 3270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3270#art_45-com5), sono aggiunti i seguenti:
+Dopo il [quinto comma dell'art. 45 dei regio decreto 30 dicembre 1923, n. 3270](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20successioni.%20023U3270.md), sono aggiunti i seguenti:
  "I debiti dei datori di lavoro verso i dipendenti di qualsiasi categoria derivanti da stipendi, salari ed accessori, nonche' dai contributi sugli stessi e dalle indennita' di anzianita', di licenziamento e di ogni altra natura, sono ammessi in deduzione dall'asse ereditario, limitatamente all'ammontare dovuto in base alla retribuzione e all'anzianita' godute all'atto della apertura della successione, indipendentemente dalla cessazione del rapporto di lavoro e anche se liquidati posteriormente".
  "A questo effetto, tra i libri di commercio previsti dal quinto comma del presente articolo si intendono compresi il libro matricola e il libro paga o stipendi, vidimati e tenuti a norma di legge".
  "Le dichiarazioni di debito rilasciate dall'Istituto nazionale della previdenza sociale, dall'Istituto assistenza malattie, dall'Istituto nazionale assicurazioni infortuni e dall'Istituto nazionale delle assicurazioni, ai sensi e per gli effetti di cui al successivo art. 48, sono considerate come rilasciate da pubbliche amministrazioni".
@@ -48,7 +48,7 @@ I primi quattro commi dell'art. 65 della legge tributaria sulle successioni, app
 Tale privilegio viene esteso a tutto il periodo della dilazione fino al pagamento del debito e degli interessi relativi".
  "La dilazione dovra' in ogni caso risultare da atto scritto. Quando l'atto sia stipulato prima della scadenza del termine fissato per il pagamento dell'imposta, il debitore non incorre nella sopratassa di tardivo pagamento".
  "Tutte le spese per l'atto, compresa la imposta fissa di registro a cui esso e' soggetto, nonche' tutte le spese consequenziali sono a carico dei debitori".
- "La porzione dell'imposta dilazionabile si determina nel modo indicato dall'art. 14 del regolamento approvato con [regio decreto 23 marzo 1902, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-03-23;114)".
+ "La porzione dell'imposta dilazionabile si determina nel modo indicato dall'art. 14 del regolamento approvato con [regio decreto 23 marzo 1902, n. 114](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%2023%20gennaio%201902%20n.%2025%20allegato%20C%20riguardante%20le%20tasse%20sugli%20affari.%20002U0114.md)".
 
 ## Art. 6.
 
@@ -59,12 +59,12 @@ Nel caso di sostituzione fedecommissaria la imposta, di successione nei confront
  L'imposta sul valore netto globale dell'asse ereditario e' dovuta per intero al momento dell'apertura della successione del testatore.
  Le norme contenute nel presente articolo valgono anche per il caso di legato e per il caso di donazione previsto nell'[art. 795 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_795).
  L'avvenuta o la mancata devoluzione deve essere denunziata entro il termine di quattro mesi allo stesso ufficio che ebbe a ricevere la denunzia di successione o ebbe a registrare l'atto di donazione. Il termine decorre dal giorno della morte dell'istituto o dal giorno dell'evento che ha reso impossibile la devoluzione al sostituito.
-Valgono per tale denunzia tutte le norme e le sanzioni previste, per la presentazione della denunzia di successione, dal testo di legge approvato con [regio decreto 30 dicembre 1923, n. 3270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3270), e successive modificazioni.
+Valgono per tale denunzia tutte le norme e le sanzioni previste, per la presentazione della denunzia di successione, dal testo di legge approvato con [regio decreto 30 dicembre 1923, n. 3270](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20successioni.%20023U3270.md), e successive modificazioni.
  Alla riscossione delle imposte previste dal presente articolo si applicano le disposizioni dell'art. 68 della legge tributaria sulle successioni 30 dicembre 1923, n. 3270.
 
 ## Art. 7.
 
-Il comma secondo dell'art. 46 della legge tributaria sulle successioni, approvato col [regio decreto 30 dicembre 1923, n. 3270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3270), e' sostituito dal seguente:
+Il comma secondo dell'art. 46 della legge tributaria sulle successioni, approvato col [regio decreto 30 dicembre 1923, n. 3270](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20successioni.%20023U3270.md), e' sostituito dal seguente:
  "Del pari sono ammesse in deduzione dall'asse ereditario le spese funerarie, purche' risultino da regolari quietanze; la deduzione e' ammessa pero' nella misura massima di lire 40.000".
 
 ## Art. 8.
@@ -80,7 +80,7 @@ fino a L. 1.000.000. . . . . . . . . . . . . . . . . . . . . . . . 1% da L. 1.00
 Al [primo comma dell'art. 7 del decreto legislativo luogotenenziale 8 marzo 1945, n. 90](Modificazioni%20delle%20imposte%20sulle%20successioni%20e%20sulle%20donazioni.%20045U0090.md), sono sostituiti i seguenti commi:
  "Per l'asse ereditario o la parte di esso devoluta agli ascendenti o discendenti in linea retta, compresi i figli naturali legalmente riconosciuti, e al coniuge superstite l'imposta e' ridotta alla meta'. L'imposta non e' dovuta quando l'asse ereditario o la parte di esso non supera i tre milioni".
  "In nessun caso l'ammontare dell'imposta dovuta puo' superare la differenza tra il valore globale netto dell'asse ereditario ed i tre milioni".
- "Gli enti morali, quando ricorrano le condizioni stabilite dal [regio decreto-legge 9 aprile 1925, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-09;380), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), sono esenti dall'imposta sul valore globale dell'asse ereditario" .
+ "Gli enti morali, quando ricorrano le condizioni stabilite dal [regio decreto-legge 9 aprile 1925, n. 380](Esonero%20dalle%20tasse%20di%20registro%20e%20di%20successione%20e%20da%20quelle%20ipotecarie%20per%20le%20liberalita%20a%20favore%20di%20Enti%20morali%20italiani%20legalmente%20riconosciuti.%20025U0380.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), sono esenti dall'imposta sul valore globale dell'asse ereditario" .
  "Analoga esenzione, alle medesime condizioni, spetta agli stessi enti in caso di donazione".
 
 ## Art. 10.

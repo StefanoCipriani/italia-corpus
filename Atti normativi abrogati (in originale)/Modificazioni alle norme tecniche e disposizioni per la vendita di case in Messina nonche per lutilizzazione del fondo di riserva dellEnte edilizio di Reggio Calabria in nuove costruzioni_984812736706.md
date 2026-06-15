@@ -22,7 +22,7 @@ Visto il [R. decreto-legge 16 novembre 1921, n. 1705](Che%20reca%20provvedimenti
 
 Visto il [R. decreto-legge 4 settembre 1924, n. 1356](Autorizzazione%20di%20spesa%20per%20costruzione%20di%20case%20nelle%20localita%20colpite%20dai%20terremoti%20ed%20istituzione%20di%20un%20Ispettorato%20generale%20di%20servizi%20speciali%20nel%20Ministero%20dei%20lavori%20pubblici.%20024U1356.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il [R. decreto-legge 31 dicembre 1925, n. 2498](Disposizioni%20per%20la%20costruzione%20e%20la%20gestione%20di%20case%20economiche%20e%20popolari%20nelle%20localita%20colpite%20dai%20terremoti.%20025U2498.md), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898);
+Visto il [R. decreto-legge 31 dicembre 1925, n. 2498](Disposizioni%20per%20la%20costruzione%20e%20la%20gestione%20di%20case%20economiche%20e%20popolari%20nelle%20localita%20colpite%20dai%20terremoti.%20025U2498.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
 Vista la [legge 22 dicembre 1932, n. 1774](Norme%20integrative%20e%20modificative%20di%20quelle%20vigenti%20per%20la%20gestione%20di%20case%20economiche%20popolari%20e%20per%20impiegati%20nelle%20zone%20danneggiate%20da%20terremoti.%20032U1774.md);
 

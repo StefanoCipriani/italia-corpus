@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nelle RR. Universita' e negli altri RR. Istituti d'istruzione superiore, di cui alla tabella D, allegata al testo unico delle leggi sulla istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795), sono istituiti prese le singole facolta' o scuole dei corsi d'integrazione ai quali potranno iscriversi i laureati e gli studenti di cui agli articoli seguenti. 
+Nelle RR. Universita' e negli altri RR. Istituti d'istruzione superiore, di cui alla tabella D, allegata al testo unico delle leggi sulla istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), sono istituiti prese le singole facolta' o scuole dei corsi d'integrazione ai quali potranno iscriversi i laureati e gli studenti di cui agli articoli seguenti. 
  
  La data dell'apertura e del termine ultimo di tali corsi e le Universita', le scuole e gli Istituti presso i quali tali corsi potranno istituirsi saranno stabiliti con decreto del ministro della istruzione pubblica.
 
@@ -32,7 +32,7 @@ I corsi d'integrazione avranno per gli iscritti la durata massima di un biennio 
 
 Gli insegnamenti nei predetti corsi saranno impartiti, di regola, dai professori Ufficiali della materia corrispondente. 
  
- L'avere un incarico nei corsi d'integrazione non puo' essere impedimento al conferimento di altro incarico di materia obbligatoria nei corsi normali, ai sensi dell'art. 29 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795). 
+ L'avere un incarico nei corsi d'integrazione non puo' essere impedimento al conferimento di altro incarico di materia obbligatoria nei corsi normali, ai sensi dell'art. 29 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md). 
  
  Quando non sia possibile affidare un incarico nei corsi di integrazione ai professori ufficiali della materia, o si ricorrera' ad altri professori ufficiali di materia affine o si provvedera' con le norme comuni agli incarichi universitari. 
  

@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 23 dicembre 1865, nn. 2700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-23;2700) e [2701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-23;2701);
+Visti i [Regi decreti 23 dicembre 1865, nn. 2700](Col%20quale%20e%20approvata%20la%20Tariffa%20per%20gli%20atti%20giudiziari%20in%20materia%20civile.%20065U2700.md) e [2701](Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md);
 
-Visto il [R. decreto 28 dicembre 1924, n. 2271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-28;2271);
+Visto il [R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -33,7 +33,7 @@ Tutti i diritti e le percentuali, nonche' le indennita' di trasferta spettanti, 
 
 ## Art. 2.
 
-Nella stessa misura del 12 per cento sono' ridotti i minimi dei proventi garantiti agli ufficiali giudiziari, in conformita' dell'[art. 1 del R. decreto 28 dicembre 1924, n. 2271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-28;2271#art_1), ed i relativi aumenti quadriennali.
+Nella stessa misura del 12 per cento sono' ridotti i minimi dei proventi garantiti agli ufficiali giudiziari, in conformita' dell'[art. 1 del R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), ed i relativi aumenti quadriennali.
 
 ## Art. 3.
 

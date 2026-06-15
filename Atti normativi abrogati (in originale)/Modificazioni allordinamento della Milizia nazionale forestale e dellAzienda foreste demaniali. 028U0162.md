@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 24 dicembre 1911, numero 1497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-24;1497);
+Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 24 dicembre 1911, numero 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
 
-Visto il [R. decreto 14 gennaio 1923, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-14;31), col quale venne istituita la M. V. S. N.;
+Visto il [R. decreto 14 gennaio 1923, n. 31](Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), col quale venne istituita la M. V. S. N.;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e le successive estensioni e modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e le successive estensioni e modificazioni;
 
 Visti gli [articoli 9](Funzionamento%20della%20Milizia%20ferroviaria%20per%20la%20sicurezza%20nazionale.%20025U1174.md), [10](Funzionamento%20della%20Milizia%20ferroviaria%20per%20la%20sicurezza%20nazionale.%20025U1174.md) e [11 del R. decreto-legge 14 giugno 1925, n. 1174](Funzionamento%20della%20Milizia%20ferroviaria%20per%20la%20sicurezza%20nazionale.%20025U1174.md);
 

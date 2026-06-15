@@ -44,7 +44,7 @@ Gli esercenti di fabbriche di fiammiferi debbono consentire ai funzionari incari
 
 ## Art. 6.
 
-Senza pregiudizio dell'applicazione delle penalita' comminate dall'art. 8 si fara' luogo, a norma dell'art. 36 capoverso del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), al sequestro e alla confisca dei fiammiferi fabbricati, tenuti in deposito o esposti in vendita, nonche' delle paste preparate in contravvenzione alle disposizioni degli articoli precedenti 
+Senza pregiudizio dell'applicazione delle penalita' comminate dall'art. 8 si fara' luogo, a norma dell'art. 36 capoverso del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), al sequestro e alla confisca dei fiammiferi fabbricati, tenuti in deposito o esposti in vendita, nonche' delle paste preparate in contravvenzione alle disposizioni degli articoli precedenti 
  
  Il prefetto puo' inoltre ordinare, su relazione dell'Ispettorato dell'industria e de1 lavoro, la chiusura degli stabilimenti che, in contravvenzione alle disposizioni degli articoli precedenti, attendessero alla fabbricazione dei fiammiferi col fosforo bianco (giallo). Il provvedimento del prefetto e' definitivo.
 

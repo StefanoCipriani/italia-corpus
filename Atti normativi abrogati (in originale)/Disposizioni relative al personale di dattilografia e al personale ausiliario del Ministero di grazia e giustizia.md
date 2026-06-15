@@ -34,7 +34,7 @@ Dei posti aumentati ai sensi dell'articolo 1 della presente legge, 50 sono asseg
 
 ## Art. 5.
 
-Ferma restando la disposizione di cui all'[articolo 1 della legge 20 dicembre 1962, n. 1719](Disposizioni%20sul%20servizio%20copia%20degli%20atti%20giudiziari.md), dalla data di entrata in vigore della presente legge, l'autorizzazione ai cancellieri dirigenti di avvalersi della disposizione di cui all'articolo 99 dell'ordinamento del personale delle cancellerie e segreterie giudiziarie, approvato con [regio decreto-legge 8 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;745), non puo' essere concessa per nuove assunzioni di dattilografi o amanuensi.
+Ferma restando la disposizione di cui all'[articolo 1 della legge 20 dicembre 1962, n. 1719](Disposizioni%20sul%20servizio%20copia%20degli%20atti%20giudiziari.md), dalla data di entrata in vigore della presente legge, l'autorizzazione ai cancellieri dirigenti di avvalersi della disposizione di cui all'articolo 99 dell'ordinamento del personale delle cancellerie e segreterie giudiziarie, approvato con [regio decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), non puo' essere concessa per nuove assunzioni di dattilografi o amanuensi.
 
 ## Art. 6.
 

@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto-legge 24 febbraio 1939, n. 317](Attuazione%20del%20R.%20decreto%2013%20settembre%201934%20n.%201602%20in%20materia%20di%20invenzioni%20di%20modelli%20e%20di%20marchi.%20039U0317.md), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), recante disposizioni per l'attuazione del [R. decreto 13 settembre 1934, n. 1602](Privative%20industriali%20e%20marchi%20di%20fabbrica%20e%20di%20commercio.%20034U1602.md), in materia di invenzioni, di modelli e di marchi;
+Visto il [R. decreto-legge 24 febbraio 1939, n. 317](Attuazione%20del%20R.%20decreto%2013%20settembre%201934%20n.%201602%20in%20materia%20di%20invenzioni%20di%20modelli%20e%20di%20marchi.%20039U0317.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), recante disposizioni per l'attuazione del [R. decreto 13 settembre 1934, n. 1602](Privative%20industriali%20e%20marchi%20di%20fabbrica%20e%20di%20commercio.%20034U1602.md), in materia di invenzioni, di modelli e di marchi;
 
 Visti gli articoli 1, 3 e 5 del R. decreto-legge anzidetto, in forza dei quali il richiamato [R. decreto 13 settembre 1934, n. 1602](Privative%20industriali%20e%20marchi%20di%20fabbrica%20e%20di%20commercio.%20034U1602.md), deve essere attuato separatamente per materia e altresi' gradualmente;
 
@@ -306,7 +306,7 @@ L'invenzione deve essere tenuta segreta dopo la comunicazione della richiesta di
  
  Tuttavia l'obbligo del segreto cessa qualora il Ministero competente lo consenta. 
  
- La violazione del segreto e' punita ai termini dell'[art. 262 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_262).
+ La violazione del segreto e' punita ai termini dell'[art. 262 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 42. — (Art. 38 del R. decreto 13 settembre 1934, n. 1602).
 
@@ -440,7 +440,7 @@ L'espropriazione ha luogo per decreto Reale, su proposta del Ministro competente
  
  Il decreto di espropriazione nell'interesse della difesa militare del Paese, quando venga emanato prima della stampa prescritta nell'art. 38, potra' contenere l'obbligo e stabilire la durata del segreto sull'oggetto dell'invenzione. 
  
- La violazione del segreto e' punita ai sensi dell'[art. 262 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_262).
+ La violazione del segreto e' punita ai sensi dell'[art. 262 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 62. — Art. 52, comma primo e secondo, del R. decreto 13 settembre 1934, n. 1602).
 

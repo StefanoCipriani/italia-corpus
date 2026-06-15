@@ -16,15 +16,15 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e successive modificazioni;
+Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Veduto. il. [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni;
 
-Veduto il [R. decreto 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-27;2367), e successive modificazioni.;
+Veduto il [R. decreto 27 novembre 1924, n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md), e successive modificazioni.;
 
-Veduto l'[art. 1 della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1), modificato dalla [legge 4 settembre 1940, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-04;1547);
+Veduto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), modificato dalla [legge 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md);
 
-Veduto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Veduto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
 Veduto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di c
 
 ## Art. 1.
 
-In aggiunta al ruolo organico del personale di gruppo A delle Biblioteche pubbliche governative, approvato con [R. decreto 6 giugno 1940, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-06;724), e' istituito uno speciale ruolo transitorio di bibliotecari aggregati, nel quale saranno inseriti, previo giudizio fondato su valutazione di titoli ed esperimento teorico pratico, non piu' di 30 tra i presidi e i professori degli istituti medi di istruzione, che si trovino nelle condizioni di cui al successivo art.
+In aggiunta al ruolo organico del personale di gruppo A delle Biblioteche pubbliche governative, approvato con [R. decreto 6 giugno 1940, n. 724](Approvazione%20di%20nuove%20tabelle%20organiche%20del%20personale%20delle%20Biblioteche%20pubbliche%20governative%20e%20delle%20Regie%20soprintendenze%20bibliografiche.%20040U0724.md), e' istituito uno speciale ruolo transitorio di bibliotecari aggregati, nel quale saranno inseriti, previo giudizio fondato su valutazione di titoli ed esperimento teorico pratico, non piu' di 30 tra i presidi e i professori degli istituti medi di istruzione, che si trovino nelle condizioni di cui al successivo art.
 3. 
  
  La relativa tabella sara' determinata, di concerto col ministero del tesoro dopo che siano stati espletati gli esami di cui al successivo art. 4.
@@ -45,7 +45,7 @@ I posti del ruolo transitorio aggiunto saranno soppressi di mano in mano che si 
 
 ## Art. 3.
 
-All'esame, le cui modalita' saranno stabilite nel bando da emanarsi dal Ministero della pubblica istruzione, potranno essere ammessi i presidi e i professori degli istituti medi di istruzione forniti di laurea o titolo equipollente, attualmente comandati presso le Soprintendenze bibliografiche, le Biblioteche pubbliche governative e il Centro nazionale di informazioni bibliografiche, ai sensi dell'[art. 54 del R. decreto 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-27;2367#art_54), e dell'[art. 7 del R. decreto 11 aprile 1935, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-11;575#art_7).
+All'esame, le cui modalita' saranno stabilite nel bando da emanarsi dal Ministero della pubblica istruzione, potranno essere ammessi i presidi e i professori degli istituti medi di istruzione forniti di laurea o titolo equipollente, attualmente comandati presso le Soprintendenze bibliografiche, le Biblioteche pubbliche governative e il Centro nazionale di informazioni bibliografiche, ai sensi dell'[art. 54 del R. decreto 27 novembre 1924, n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md), e dell'[art. 7 del R. decreto 11 aprile 1935, n. 575](Norme%20relative%20alle%20Biblioteche%20pubbliche%20governative%20e%20alle%20Regie%20soprintendenze%20bibliografiche.%20035U0575.md).
 
 ## Art. 4.
 
@@ -77,7 +77,7 @@ Nei ruoli organici del personale direttivo ed insegnante degli istituti medi di 
 
 ## Art. 10.
 
-Le disposizioni dell'[art. 54 dei R. decreto 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-27;2367#art_54), e dell'[art. 7 del R. decreto 11 aprile 1935, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-11;575#art_7), sono abrogate. 
+Le disposizioni dell'[art. 54 dei R. decreto 27 novembre 1924, n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md), e dell'[art. 7 del R. decreto 11 aprile 1935, n. 575](Norme%20relative%20alle%20Biblioteche%20pubbliche%20governative%20e%20alle%20Regie%20soprintendenze%20bibliografiche.%20035U0575.md), sono abrogate. 
  
  Ordiniamo, a chiunque spetti, di osservare il. presente decreto e di farlo osservare. 
  

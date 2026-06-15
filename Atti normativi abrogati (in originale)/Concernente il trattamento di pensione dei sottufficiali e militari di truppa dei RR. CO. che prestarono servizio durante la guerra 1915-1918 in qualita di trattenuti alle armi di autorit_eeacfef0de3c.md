@@ -22,7 +22,7 @@ Visto il [decreto Luogotenenziale n. 2150, del 6 dicembre 1917](https://www.norm
 
 Visti i decreti Luogotenenziali nn. 494 e [495 del 6 aprile 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-06;495);
 
-Visto il [R. decreto n. 1802 in data 2 ottobre 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1802) che detta le norme per l'arma dei carabinieri Reali;
+Visto il [R. decreto n. 1802 in data 2 ottobre 1919](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md) che detta le norme per l'arma dei carabinieri Reali;
 
 Udito il Consiglio dei ministri;
 

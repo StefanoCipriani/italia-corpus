@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1556), che aggiunge la voce «pelo di capra» al repertorio in vigore per l'applicazione dei dazi doganali. 
+ E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1556](Aggiunta%20della%20voce%20Pelo%20di%20capra%20nel%20repertorio%20in%20vigore%20per%20lapplicazione%20dei%20dazi%20doganali.%20027U1556.md), che aggiunge la voce «pelo di capra» al repertorio in vigore per l'applicazione dei dazi doganali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

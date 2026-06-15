@@ -227,7 +227,7 @@ Gli Istituti di credito fondiario sono autorizzati a sospendere nei comuni compr
 
 ### Art. 30.
 
-Agli Istituti di credito fondiario potranno essere anticipate dallo Stato, sui fondi e con le norme di cui ai [regi decreti 18 agosto 1914, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-18;827) e 23 maggio 1915, n, 711, le somme occorrenti per corrispondere gli interessi su una massa di cartelle corrispondente all'importo residuo al 31 dicembre 1917 dei mutui contemplati dal presente decreto e per provvedere al rimborso delle cartelle che saranno sorteggiate durante il periodo di proroga, in proporzione del detto importo.
+Agli Istituti di credito fondiario potranno essere anticipate dallo Stato, sui fondi e con le norme di cui ai [regi decreti 18 agosto 1914, n. 827](Che%20autorizza%20il%20Governo%20a%20chiedere%20ai%20tre%20Istituti%20di%20credito%20una%20somministrazione%20di%20300%20milioni%20di%20lire.%20014U0827.md) e 23 maggio 1915, n, 711, le somme occorrenti per corrispondere gli interessi su una massa di cartelle corrispondente all'importo residuo al 31 dicembre 1917 dei mutui contemplati dal presente decreto e per provvedere al rimborso delle cartelle che saranno sorteggiate durante il periodo di proroga, in proporzione del detto importo.
 
 ### Art. 31.
 
@@ -329,7 +329,7 @@ I depositanti, i quali non siano in grado di produrre libretti o gli altri titol
  
  In questi casi l'Istituto ha facolta' di limitare l'ammontare complessivo dal rimborso a una meta' della somma che risulterebbe a termine del 1° comma dell'art. 38. 
  
- Le false attestazioni commesse dai depositanti e dalle altre persone indicate nel presente articolo sono punite con le penalita' stabilite dell'[art. 278 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_278).
+ Le false attestazioni commesse dai depositanti e dalle altre persone indicate nel presente articolo sono punite con le penalita' stabilite dell'[art. 278 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 41.
 
@@ -361,13 +361,13 @@ Qualora si renda necessario il trasferimento di camere di commercio e industria 
 
 ### Art. 44.
 
-Le camere di commercio, che in conformita' dell'articolo precedente abbiano trasferito le loro sedi, continueranno, nei limiti del possibile, a compiere le funzioni ad esse demandate dalla [legge 20 marzo 1910, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-20;121), rimanendo sospesa fino a nuova disposizione la revisione delle liste elettorali commerciali.
+Le camere di commercio, che in conformita' dell'articolo precedente abbiano trasferito le loro sedi, continueranno, nei limiti del possibile, a compiere le funzioni ad esse demandate dalla [legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md), rimanendo sospesa fino a nuova disposizione la revisione delle liste elettorali commerciali.
 
 ### Art. 45.
 
 I Consigli camerali si aduneranno presso la sede provvisoria. 
  
- Il numero legale per la validita' delle deliberazioni fissato dal [primo comma dell'art. 36 della legge 20 marzo 1910, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-20;121#art_36-com1) e' ridotto alla meta'. 
+ Il numero legale per la validita' delle deliberazioni fissato dal [primo comma dell'art. 36 della legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md) e' ridotto alla meta'. 
  
  Qualora in seguito al trasferimento non sia possibile riunire il Consiglio camerale il ministro di industria, commercio e lavoro ha facolta' di affidare l'amministrazione della Camera ad un commissario governativo da nominarsi con decreto ministeriale. 
  
@@ -511,7 +511,7 @@ Gli ispettori di circolo e permanenti delle tasse sugli affari nelle accennate p
 
 ### Art. 66.
 
-Ai conservatori delle ipoteche, ai titolari degli uffici misti del registro e delle ipoteche dei distretti ipotecari sgombrati ed ai ricevitori del registro ed agli ispettori sopraindicati compete l'indennita' ordinaria di trasferimento a norma del [R. decreto 1° novembre 1876, n. 3450](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-11-01;3450), tenuto conto dell'itinerario effettivamente percorso in forza degli ordini straordinari emanati dalle competenti autorita'. Il pagamento delle indennita' avra' luogo in base a semplice attestazione dell'Intendenza di finanza relativa al viaggio effettuato. 
+Ai conservatori delle ipoteche, ai titolari degli uffici misti del registro e delle ipoteche dei distretti ipotecari sgombrati ed ai ricevitori del registro ed agli ispettori sopraindicati compete l'indennita' ordinaria di trasferimento a norma del [R. decreto 1° novembre 1876, n. 3450](Concernente%20le%20indennita%20di%20trasferimento%20agli%20impiegati%20civili.%20076U3450.md), tenuto conto dell'itinerario effettivamente percorso in forza degli ordini straordinari emanati dalle competenti autorita'. Il pagamento delle indennita' avra' luogo in base a semplice attestazione dell'Intendenza di finanza relativa al viaggio effettuato. 
  
  Gli ispettori, i conservatori delle ipoteche e i titolari degli uffici misti continueranno a percepire anche l'indennita' per spese d'ufficio e di giro di cui erano in precedenza rispettivamente provvisti nei circoli ed uffici abbandonati.
 

@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 giugno 1936, n. 1262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-06-11;1262) per la conferma in carica dei presidenti e vice presidenti di sezione, nonche' dei componenti dei Consigli provinciali dell'economia corporativa. 
+ E' convertito in legge il [R. decreto-legge 11 giugno 1936, n. 1262](Conferma%20in%20carica%20dei%20presidenti%20e%20vice%20presidenti%20di%20sezione%20nonche%20dei%20componenti%20dei%20Consigli%20provinciali%20delleconomia%20corporativa.%20036U1262.md) per la conferma in carica dei presidenti e vice presidenti di sezione, nonche' dei componenti dei Consigli provinciali dell'economia corporativa. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla o di farla osservare come leggo dello Stato. 
  

@@ -48,7 +48,7 @@ Il capitolo n. 276: «Anticipazione all'Istituto federale di credito per il riso
 
 ## Art. 4.
 
-Nell'elenco B, «Spese di riscossione delle entrate, per le quali si possono spedire mandati a disposizione di funzionari governativi, a termini dell'art. 47 del testo unico di legge sulla contabilita' generale dello Stato, approvato col [R. decreto 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016)», allegato al ripetuto stato di previsione, viene inscritto il capitolo n. 227: «Restituzione di quote presuntivamente indebite e inesigibili riscosse per conto del ramo dei danneggiati dalle truppe borboniche nel 1860» dello stato di previsione medesimo.
+Nell'elenco B, «Spese di riscossione delle entrate, per le quali si possono spedire mandati a disposizione di funzionari governativi, a termini dell'art. 47 del testo unico di legge sulla contabilita' generale dello Stato, approvato col [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md)», allegato al ripetuto stato di previsione, viene inscritto il capitolo n. 227: «Restituzione di quote presuntivamente indebite e inesigibili riscosse per conto del ramo dei danneggiati dalle truppe borboniche nel 1860» dello stato di previsione medesimo.
 
 ## Art. 5.
 

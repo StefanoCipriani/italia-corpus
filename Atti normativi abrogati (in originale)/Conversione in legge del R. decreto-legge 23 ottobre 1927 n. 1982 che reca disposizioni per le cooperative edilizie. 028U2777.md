@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;1982), che reca disposizioni per le cooperative edilizie. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 1982](Disposizioni%20per%20le%20cooperative%20edilizie.%20027U1982.md), che reca disposizioni per le cooperative edilizie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

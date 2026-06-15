@@ -172,7 +172,7 @@ E' istituito presso il Ministero per l'industria, il commercio e il lavoro, un u
 
 Il personale dell'ufficio centrale di collocamento e' costituito da funzionari dello Stato e da persone estranee all'amministrazione dello Stato fra le quali puo' essere scelto, per la speciale competenza, anche il personale direttivo dell'ufficio stesso. 
  
- Le nomine delle persone estranee alla pubblica amministrazione saranno fatte con le norme della [legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182), per l'assunzione del personale avventizio, in deroga pero' alle limitazioni di numero portate da successive disposizioni. 
+ Le nomine delle persone estranee alla pubblica amministrazione saranno fatte con le norme della [legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md), per l'assunzione del personale avventizio, in deroga pero' alle limitazioni di numero portate da successive disposizioni. 
  
  Al direttore dell'ufficio potra' essere assegnata una indennita' di carica nella misura che verra' stabilita dal ministro per l'industria, il commercio e il lavoro.
 

@@ -25,7 +25,7 @@ E M A N A il seguente decreto-legge:
 1.
 
 Il Ministro per i problemi delle aree urbane, con proprio decreto, da emanare di concerto con il Ministro del tesoro entro novanta giorni dalla data di entrata in vigore del presente decreto, provvede agli adempimenti di cui all'[articolo 3, comma 3-bis, della 
-legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122#art_3-com3bis), introdotto dal comma 2 del presente articolo, all'adeguamento delle procedure di attuazione e delle forme di finanziamento, nei limiti delle risorse disponibili, nonche' alla definizione dei requisiti che i soggetti interessati debbono possedere anche con riferimento a quanto previsto dall'[articolo 12 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_12), ai fini dell'ammissione ai contributi previsti dai titoli I e II della [legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122).
+legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122#art_3-com3bis), introdotto dal comma 2 del presente articolo, all'adeguamento delle procedure di attuazione e delle forme di finanziamento, nei limiti delle risorse disponibili, nonche' alla definizione dei requisiti che i soggetti interessati debbono possedere anche con riferimento a quanto previsto dall'[articolo 12 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md), ai fini dell'ammissione ai contributi previsti dai titoli I e II della [legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122).
 
 2.
 
@@ -65,7 +65,7 @@ Le Ferrovie dello Stato - S.p.a., direttamente o tramite societa' da esse contro
 
 1.
 
-Al fine di assicurare l'unitaria definizione dell'assetto dei trasporti rapidi di massa, gli interventi di cui alla [legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910), sono coordinati con quelli di cui alla [legge 26 febbraio 1992, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;211).
+Al fine di assicurare l'unitaria definizione dell'assetto dei trasporti rapidi di massa, gli interventi di cui alla [legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), sono coordinati con quelli di cui alla [legge 26 febbraio 1992, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;211).
 
 2.
 

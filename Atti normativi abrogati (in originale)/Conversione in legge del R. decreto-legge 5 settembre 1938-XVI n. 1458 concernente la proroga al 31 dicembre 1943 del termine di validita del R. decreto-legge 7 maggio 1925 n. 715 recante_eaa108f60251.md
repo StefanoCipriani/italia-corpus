@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il Regio decreto-legge 5 settembre 1938-XVI, n. 1458, concernente la proroga al 31 dicembre 1943 del termine di validita' del [R. decreto-legge 7 maggio 1925, n. 715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-05-07;715), recante agevolazioni doganali per i macchinari e materiali metallici destinati alle ricerche petrolifere. 
+ E' convertito in legge il Regio decreto-legge 5 settembre 1938-XVI, n. 1458, concernente la proroga al 31 dicembre 1943 del termine di validita' del [R. decreto-legge 7 maggio 1925, n. 715](Franchigia%20doganale%20per%20le%20macchine%20e%20i%20materiali%20metallici%20destinati%20alle%20ricerche%20ed%20alle%20coltivazioni%20petrolifere.%20025U0715.md), recante agevolazioni doganali per i macchinari e materiali metallici destinati alle ricerche petrolifere. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

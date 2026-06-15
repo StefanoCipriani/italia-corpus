@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 marzo 1932, n. 291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-03-31;291), recante l'autorizzazione di spesa per l'esecuzione degli urgenti lavori occorrenti a garantire la stabilita' della Riva degli Schiavoni in Venezia. 
+ E' convertito in legge il [R. decreto-legge 31 marzo 1932, n. 291](Autorizzazione%20di%20spesa%20per%20lesecuzione%20di%20lavori%20urgenti%20alla%20Riva%20degli%20Schiavoni%20in%20Venezia.%20032U0291.md), recante l'autorizzazione di spesa per l'esecuzione degli urgenti lavori occorrenti a garantire la stabilita' della Riva degli Schiavoni in Venezia. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 6 giugno 1932 - Anno X 
  

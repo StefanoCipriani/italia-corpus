@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 giugno 1928, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-03;1155), contenente i provvedimenti relativi agli affitti degli immobili in rapporto alla stabilizzazione monetaria. 
+ E' convertito in legge il [R. decreto-legge 3 giugno 1928, n. 1155](Provvedimenti%20relativi%20agli%20affitti%20degli%20immobili%20in%20rapporto%20alla%20stabilizzazione%20monetaria.%20028U1155.md), contenente i provvedimenti relativi agli affitti degli immobili in rapporto alla stabilizzazione monetaria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -24,13 +24,13 @@ EMANA il seguente decreto:
 
 1.
 
-Le disposizioni del presente decreto si applicano nei confronti di coloro che, fuori dalle ipotesi previste dall'[articolo 1 della legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575#art_1), come sostituito dall'[articolo 13 della legge 13 settembre 1982, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-09-13;646#art_13), per la condotta ed il tenore di vita, si ha fondato motivo di ritenere che vivano, anche in parte, con il provento dei delitti contemplati dagli [articoli 630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_630) e [289-bis del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_289bis), ovvero con il provento di attivita' di sostituzione di denaro o valori provenienti dagli anzidetti delitti.
+Le disposizioni del presente decreto si applicano nei confronti di coloro che, fuori dalle ipotesi previste dall'[articolo 1 della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), come sostituito dall'[articolo 13 della legge 13 settembre 1982, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-09-13;646#art_13), per la condotta ed il tenore di vita, si ha fondato motivo di ritenere che vivano, anche in parte, con il provento dei delitti contemplati dagli [articoli 630](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [289-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero con il provento di attivita' di sostituzione di denaro o valori provenienti dagli anzidetti delitti.
 
 ## Art. 2.
 
 1.
 
-Il procuratore della Repubblica d'ufficio o su proposta del questore competente a richiedere l'applicazione di una misura di prevenzione nei confronti di uno dei soggetti indicati nel [n. 3 del primo comma dell'articolo 1 della legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423#art_1-com1-num3), se ha motivo di ritenere che trattasi di persona che vive anche in parte con il provento dei delitti indicati negli [articoli 289-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_289bis), [630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_630) e [648-bis del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_648bis) puo' procedere, anche a mezzo della polizia giudiziaria, ad indagini sul suo tenore di vita, sulle sue disponibilita' finanziarie e sul patrimonio anche al fine di accertarne la provenienza.
+Il procuratore della Repubblica d'ufficio o su proposta del questore competente a richiedere l'applicazione di una misura di prevenzione nei confronti di uno dei soggetti indicati nel [n. 3 del primo comma dell'articolo 1 della legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), se ha motivo di ritenere che trattasi di persona che vive anche in parte con il provento dei delitti indicati negli [articoli 289-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [630](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) puo' procedere, anche a mezzo della polizia giudiziaria, ad indagini sul suo tenore di vita, sulle sue disponibilita' finanziarie e sul patrimonio anche al fine di accertarne la provenienza.
 
 2.
 
@@ -45,14 +45,14 @@ Il procuratore della Repubblica, anche a mezzo della polizia giudiziaria, puo' r
 
 1.
 
-Qualora nei confronti dei soggetti indicati nel comma 1 dell'articolo 2 venga iniziato il procedimento per l'applicazione di una misura di prevenzione, si applicano le disposizioni di cui agli [articoli 2-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575#art_2ter), [2-quater](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575#art_2quater), [2-quinquies](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575#art_2quinquies) e [3-ter della legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575#art_3ter), e successive modificazioni ed integrazioni.
+Qualora nei confronti dei soggetti indicati nel comma 1 dell'articolo 2 venga iniziato il procedimento per l'applicazione di una misura di prevenzione, si applicano le disposizioni di cui agli [articoli 2-ter](Disposizioni%20contro%20la%20mafia.md), [2-quater](Disposizioni%20contro%20la%20mafia.md), [2-quinquies](Disposizioni%20contro%20la%20mafia.md) e [3-ter della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), e successive modificazioni ed integrazioni.
 
 ## Art. 4.
 
 1.
 
 L'ultimo comma dell'[articolo 340 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_340) e' sostituito dal seguente:
- "Gli atti previsti dal comma precedente possono essere compiuti, per delegazione, da ufficiali od agenti di polizia giudiziaria solo se si tratta di verificare indizi o accertare reati di terrorismo o di eversione dell'ordinamento costituzionale ovvero di criminalita' organizzata nonche' il reato indicato nell'[articolo 630 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_630)".
+ "Gli atti previsti dal comma precedente possono essere compiuti, per delegazione, da ufficiali od agenti di polizia giudiziaria solo se si tratta di verificare indizi o accertare reati di terrorismo o di eversione dell'ordinamento costituzionale ovvero di criminalita' organizzata nonche' il reato indicato nell'[articolo 630 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
 
 ## Art. 5.
 

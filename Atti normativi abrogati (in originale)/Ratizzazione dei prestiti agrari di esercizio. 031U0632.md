@@ -50,8 +50,8 @@ E' data facolta' al Ministro per l'agricoltura e le foreste di concedere ad agri
 
 Sono stanziati nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste, a decorrere dall'esercizio 1931-32, un fondo di L. 4.500.000 annue, per cinque anni, per il pagamento dei contributi di cui all'articolo 3, ed un fondo di L. 500.000 annue per 25 anni per il pagamento del contributo di cui all'art. 4 del presente decreto. 
  Nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste per l'esercizio 1931-32 sono pertanto istituiti i seguenti capitoli: 
- N. 80-bis: Contributo nel pagamento degli interessi sui prestiti ratizzati a' sensi dell'[art. 1, del R. decreto-legge 15 maggio 1931, n. 632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-05-15;632#art_1) (prima delle cinque annualita'), L. 4.500.000; 
- N. 80-ter: Contributo straordinario nel pagamento degli interessi in misura non superiore al 3,50 % annuo per operazioni di credito contratte o da contrarsi nell'interesse dell'agricoltura da parte di agricoltori, enti ed associazioni particolarmente benemeriti a' sensi dell'[art. 4, del R. decreto-legge 15 maggio 1931, n. 632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-05-15;632#art_4) (prima delle 25 annualita'), L. 500.000.
+ N. 80-bis: Contributo nel pagamento degli interessi sui prestiti ratizzati a' sensi dell'[art. 1, del R. decreto-legge 15 maggio 1931, n. 632](Ratizzazione%20dei%20prestiti%20agrari%20di%20esercizio.%20031U0632.md) (prima delle cinque annualita'), L. 4.500.000; 
+ N. 80-ter: Contributo straordinario nel pagamento degli interessi in misura non superiore al 3,50 % annuo per operazioni di credito contratte o da contrarsi nell'interesse dell'agricoltura da parte di agricoltori, enti ed associazioni particolarmente benemeriti a' sensi dell'[art. 4, del R. decreto-legge 15 maggio 1931, n. 632](Ratizzazione%20dei%20prestiti%20agrari%20di%20esercizio.%20031U0632.md) (prima delle 25 annualita'), L. 500.000.
 
 ## Art. 6.
 

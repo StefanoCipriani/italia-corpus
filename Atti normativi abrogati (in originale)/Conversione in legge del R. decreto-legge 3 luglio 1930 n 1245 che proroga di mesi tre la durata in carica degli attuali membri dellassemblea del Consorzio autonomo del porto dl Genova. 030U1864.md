@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 1245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-03;1245), che proroga di mesi tre la durata in carica dei membri del Consorzio autonomo del porto di Genova. 
+ E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 1245](Proroga%20di%20tre%20mesi%20della%20durata%20in%20carica%20degli%20attuali%20membri%20del%20Consorzio%20autonomo%20del%20porto%20di%20Genova.%20030U1245.md), che proroga di mesi tre la durata in carica dei membri del Consorzio autonomo del porto di Genova. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

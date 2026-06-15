@@ -26,9 +26,9 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici, di concer
 
 ## Art. 1.
 
-E' autorizzata la spesa di lire 1,000,000 in aggiunta a quella disposta con le [leggi 25 luglio 1880, n. 5562, 22 gennaio 1889, n. 7, 25 febbraio 1900, n. 56, 3 giugno 1904, n. 293, 6 giugno 1907, n. 300, 30 giugno 1909, n. 407, 13 aprile 1911, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-04-13;311), e col Nostro decreto 13 maggio 1917, n. 838, per la prosecuzione dei lavori di costruzione del monumento a Vittorio Emanuele II in Roma. 
+E' autorizzata la spesa di lire 1,000,000 in aggiunta a quella disposta con le [leggi 25 luglio 1880, n. 5562, 22 gennaio 1889, n. 7, 25 febbraio 1900, n. 56, 3 giugno 1904, n. 293, 6 giugno 1907, n. 300, 30 giugno 1909, n. 407, 13 aprile 1911, n. 311](Per%20la%20conversione%20in%20legge%20del%20R.%20decreto%2018%20settembre%201910%20n.%20684%20per%20le%20Puglie%20e%20per%20autorizzazione%20di%20spese%20e%20provvedimenti%20urgenti%20per%20lavori%20pubblici.%20011U0311.md), e col Nostro decreto 13 maggio 1917, n. 838, per la prosecuzione dei lavori di costruzione del monumento a Vittorio Emanuele II in Roma. 
  
- La spesa sara' iscritta negli esercizi 1918-919 e successivi, a seconda del bisogno, al capitolo del bilancio del Ministero dei lavori pubblici relativo alle opere di Roma nei limiti complessivi dello stanziamento fissato, per la categoria 1ª della parte straordinaria del bilancio suddetto, dall'[articolo 3 della legge 7 aprile 1917, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-04-07;601#art_3).
+ La spesa sara' iscritta negli esercizi 1918-919 e successivi, a seconda del bisogno, al capitolo del bilancio del Ministero dei lavori pubblici relativo alle opere di Roma nei limiti complessivi dello stanziamento fissato, per la categoria 1ª della parte straordinaria del bilancio suddetto, dall'[articolo 3 della legge 7 aprile 1917, n. 601](Contenente%20autorizzazione%20di%20spese%20e%20nuove%20disposizioni%20per%20lesecuzione%20di%20opere%20pubbliche%20in%20Basilicata%20ed%20in%20Calabria.%20017U0601.md).
 
 ## Art. 2.
 

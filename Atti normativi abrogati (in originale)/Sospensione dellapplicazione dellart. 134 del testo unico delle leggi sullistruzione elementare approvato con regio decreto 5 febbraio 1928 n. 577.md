@@ -14,7 +14,7 @@ Visto il testo unico delle leggi sull'istruzione elementare, approvato con [regi
 
 Visto il regolamento generale sui servizi dell'istruzione elementare, approvato con [regio decreto 26 aprile 1928, n. 1207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1207);
 
-Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1);
+Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il Consiglio di Stato;
 

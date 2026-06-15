@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 marzo 1927, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-17;407), concernente la composizione e i compiti del Comitato permanente del grano. 
+ E' convertito in legge il [R. decreto-legge 17 marzo 1927, n. 407](Composizione%20e%20compiti%20del%20Comitato%20permanente%20per%20il%20grano.%20027U0407.md), concernente la composizione e i compiti del Comitato permanente del grano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

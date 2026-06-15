@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [decreto-legge Luogotenenziale del 6 settembre 1917, n. 1451](Col%20quale%20e%20istituito%20alle%20dipendenze%20del%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20il%20servizio%20dei%20conti%20correnti%20e%20degli%20assegni%20postali.%20017U1451.md), concernente la istituzione del servizio dei conti correnti postali, approvato con [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [decreto-legge Luogotenenziale del 6 settembre 1917, n. 1451](Col%20quale%20e%20istituito%20alle%20dipendenze%20del%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20il%20servizio%20dei%20conti%20correnti%20e%20degli%20assegni%20postali.%20017U1451.md), concernente la istituzione del servizio dei conti correnti postali, approvato con [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto il [decreto Luogotenenziale 9 maggio 1918, n. 622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-09;622), approvante il regolamento di esecuzione del servizio stesso;
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'art. 3 del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Marina militare, approvato con [regio decreto 16 maggio 1932, n. 819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-16;819), quale risulta sostituito dall'[art. 1 della legge 31 maggio 1943, n. 614](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-05-31;614#art_1);
+Visto l'art. 3 del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Marina militare, approvato con [regio decreto 16 maggio 1932, n. 819](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), quale risulta sostituito dall'[art. 1 della legge 31 maggio 1943, n. 614](Modificazioni%20al%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20043U0614.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-Le Commissioni giudicatrici dei concorsi per titoli per la nomina ad ufficiale di complemento nei Corpi della marina militare, di cui all'[art. 1 della legge 31 maggio 1943, n. 614](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-05-31;614#art_1), sono composte come appresso indicato:
+Le Commissioni giudicatrici dei concorsi per titoli per la nomina ad ufficiale di complemento nei Corpi della marina militare, di cui all'[art. 1 della legge 31 maggio 1943, n. 614](Modificazioni%20al%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20043U0614.md), sono composte come appresso indicato:
  a) per la nomina ad ufficiale di complemento nei Corpi dello stato maggiore, del genio navale, delle armi navali, di commissariato militare marittimo, sanitario militare marittimo e delle capitanerie di porto:
  un ufficiale ammiraglio o generale, presidente;
  un ufficiale del Corpo di stato maggiore di grado non inferiore a capitano di vascello, membro;

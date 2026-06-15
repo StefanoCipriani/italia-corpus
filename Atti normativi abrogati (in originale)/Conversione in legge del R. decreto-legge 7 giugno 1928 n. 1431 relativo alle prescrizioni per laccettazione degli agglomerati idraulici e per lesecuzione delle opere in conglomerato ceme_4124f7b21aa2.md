@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 giugno 1928, n. 1431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-07;1431), relativo alle prescrizioni per l'accettazione degli agglomeranti idraulici e per l'esecuzione delle opere in conglomerato cementizio. 
+ E' convertito in legge il [R. decreto-legge 7 giugno 1928, n. 1431](Prescrizioni%20per%20laccettazione%20degli%20agglomeranti%20idraulici%20e%20per%20lesecuzione%20delle%20opere%20in%20conglomerato%20cementizio.%20028U1431.md), relativo alle prescrizioni per l'accettazione degli agglomeranti idraulici e per l'esecuzione delle opere in conglomerato cementizio. 
  
  E' data facolta' al Governo del Re di emanare, entro un biennio dalla data della presente legge, per Regio decreto, sentito il Consiglio superiore dei lavori pubblici, le norme integrative e modificative che occorrano per regolare la materia degli agglomeranti idraulici e delle opere in conglomerato cementizio. 
  

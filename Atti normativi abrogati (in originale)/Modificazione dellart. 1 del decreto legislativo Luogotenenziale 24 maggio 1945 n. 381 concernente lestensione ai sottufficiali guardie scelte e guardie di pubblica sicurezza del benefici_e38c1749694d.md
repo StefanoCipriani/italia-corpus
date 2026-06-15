@@ -20,7 +20,7 @@ Visto il [decreto legislativo Luogotenenziale 2 novembre 1944, n. 365](Istituzio
 
 Visto l'art. 327 dei regolamento del Corpo degli agenti di pubblica sicurezza, approvato con [R. decreto 30 novembre 1930, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-30;1629);
 
-Visto il [R. decreto-legge 3 gennaio 1944, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-03;6);
+Visto il [R. decreto-legge 3 gennaio 1944, n. 6](Organico%20e%20trattamento%20economico%20dei%20sottufficiali%20e%20militari%20di%20truppa%20dellArma%20dei%20C.C.R.R.%20044U0006.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -37,7 +37,7 @@ Sulla proposta del Ministro Segretario di stato per gli affari dell'interno, di 
 ## Articolo unico.
 
 L'[art. 1 del decreto legislativo Luogotenenziale 24 maggio 1945, n. 381](Estensione%20ai%20sottufficiali%20guardie%20scelte%20e%20guardie%20di%20pubblica%20sicurezza%20del%20beneficio%20di%20cui%20allart.%205%20del%20R.%20decreto%20legge%203%20gennaio%201944%20n.%206%20relativo%20alla%20corresponsione%20del%20vitto%20i_6d097c61518d.md), e' modificato come appresso:
- "A decorrere dal 1° novembre 1944, la corresponsione del vitto in natura o in contanti ai sottufficiali e militari di truppa dei carabinieri Reali, di cui all'[art. 5 del R. decreto-legge 3 gennaio 1944, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-03;6#art_5), e' estesa ai sottufficiali, guardie scelte e guardie di pubblica sicurezza, nonche' agli allievi guardie di pubblica sicurezza" .
+ "A decorrere dal 1° novembre 1944, la corresponsione del vitto in natura o in contanti ai sottufficiali e militari di truppa dei carabinieri Reali, di cui all'[art. 5 del R. decreto-legge 3 gennaio 1944, n. 6](Organico%20e%20trattamento%20economico%20dei%20sottufficiali%20e%20militari%20di%20truppa%20dellArma%20dei%20C.C.R.R.%20044U0006.md), e' estesa ai sottufficiali, guardie scelte e guardie di pubblica sicurezza, nonche' agli allievi guardie di pubblica sicurezza" .
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

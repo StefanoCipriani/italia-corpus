@@ -154,7 +154,7 @@ Non sono elettori ne' eleggibili:
 
 ### Art. 18.
 
-Sono eleggibili tutti gli elettori iscritti, quando abbiano compiuta l'eta' di 25 anni, sappiano leggere e scrivere, esercitino da un anno almeno l'industria o l'arte che professano al momento dell'elezione, risiedano da un anno nella circoscrizione del Collegio e non si trovino in alcuno dei casi preveduti negli articoli 5 a 7 e 8, numeri 2, 3 e 4 della [legge 8 giugno 1874 n. 1937](Contenente%20alcune%20modificazioni%20allordinamento%20dei%20Giurati%20ed%20ai%20giudizi%20avanti%20le%20Corti%20dAssise.%20074U1937.md), modificata con l'[art. 32 del R. decreto 1° dicembre 1889 n. 6509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-12-01;6509#art_32).
+Sono eleggibili tutti gli elettori iscritti, quando abbiano compiuta l'eta' di 25 anni, sappiano leggere e scrivere, esercitino da un anno almeno l'industria o l'arte che professano al momento dell'elezione, risiedano da un anno nella circoscrizione del Collegio e non si trovino in alcuno dei casi preveduti negli articoli 5 a 7 e 8, numeri 2, 3 e 4 della [legge 8 giugno 1874 n. 1937](Contenente%20alcune%20modificazioni%20allordinamento%20dei%20Giurati%20ed%20ai%20giudizi%20avanti%20le%20Corti%20dAssise.%20074U1937.md), modificata con l'[art. 32 del R. decreto 1° dicembre 1889 n. 6509](Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md).
 
 ### Art. 19.
 
@@ -294,7 +294,7 @@ I testimoni chiamati, d'ufficio o in seguito ad istanza delle parti, dalla Giuri
  
  Ai testimoni e' deferito il giuramento ai termini degli [articoli 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_226) e [259 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_259), modificato dalla legge del 30 giugno 1876. 
  
- Sono applicabili le disposizioni degli [articoli dal 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_214) [al 220 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_220).
+ Sono applicabili le disposizioni degli [articoli dal 214](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) [al 220 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 40.
 
@@ -322,7 +322,7 @@ Per le sentenze della Giuria sono devoluti i diritti seguenti:
  
  Questi diritti e le ammende, di cui agli articoli 29 e 39 sono devoluti alla Camera di commercio, che sostiene le spese indicate nell'articolo 42. 
  
- Per gli atti di conciliazione e per quelli di istruzione delle cause e di esecuzione delle sentenze, sono dovuti i diritti stabiliti per le cause avanti i conciliatori dal titolo primo della tariffa giudiziaria in materia civile, approvata con [Regio decreto del 23 dicembre 1865 n. 2700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-23;2700).
+ Per gli atti di conciliazione e per quelli di istruzione delle cause e di esecuzione delle sentenze, sono dovuti i diritti stabiliti per le cause avanti i conciliatori dal titolo primo della tariffa giudiziaria in materia civile, approvata con [Regio decreto del 23 dicembre 1865 n. 2700](Col%20quale%20e%20approvata%20la%20Tariffa%20per%20gli%20atti%20giudiziari%20in%20materia%20civile.%20065U2700.md).
 
 ### Art. 44.
 

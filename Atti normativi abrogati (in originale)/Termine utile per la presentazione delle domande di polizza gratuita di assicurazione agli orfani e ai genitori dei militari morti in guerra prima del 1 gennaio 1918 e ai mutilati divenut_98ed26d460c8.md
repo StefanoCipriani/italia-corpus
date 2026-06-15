@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti il [decreto Luogotenenziale 8 dicembre 1918, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-12-08;1953), ed il [R. decreto 19 aprile 1923, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1071);
+Visti il [decreto Luogotenenziale 8 dicembre 1918, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-12-08;1953), ed il [R. decreto 19 aprile 1923, n. 1071](Che%20proroga%20il%20termine%20utile%20per%20la%20presentazione%20delle%20domande%20di%20concessione%20della%20polizza%20gratuita%20di%20assicurazione%20ai%20combattenti.%20023U1071.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Il termine utile per la presentazione delle domande concessione della polizza gratuita di assicuzione, di cui ai [decreti Luogotenenziali 10 dicembre 1917, n. 1970](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-12-10;1970); [30 dicembre 1917, n. 2047](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-12-30;2047); [7 marzo 1918, n. 374; al R. decreto-legge](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1918-03-07;374) [7 giugno 1920, n. 738, art. 6](Contenente%20provvedimenti%20a%20favore%20dei%20mutilati%20e%20degli%20invalidi%20di%20guerra.%20020U0738.md), ed al [R. decreto 22 gennaio 1922, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-22;252), gia' fissato al 31 dicembre 1923 col [R. decreto 19 aprile 1923, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1071), e' riaperto e prorogato sino al 31 marzo 1925.
+Il termine utile per la presentazione delle domande concessione della polizza gratuita di assicuzione, di cui ai [decreti Luogotenenziali 10 dicembre 1917, n. 1970](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-12-10;1970); [30 dicembre 1917, n. 2047](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-12-30;2047); [7 marzo 1918, n. 374; al R. decreto-legge](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1918-03-07;374) [7 giugno 1920, n. 738, art. 6](Contenente%20provvedimenti%20a%20favore%20dei%20mutilati%20e%20degli%20invalidi%20di%20guerra.%20020U0738.md), ed al [R. decreto 22 gennaio 1922, n. 252](Che%20stabilisce%20norme%20per%20la%20concessione%20delle%20polizze%20gratuite%20di%20assicurazione%20ai%20combattenti.%20022U0252.md), gia' fissato al 31 dicembre 1923 col [R. decreto 19 aprile 1923, n. 1071](Che%20proroga%20il%20termine%20utile%20per%20la%20presentazione%20delle%20domande%20di%20concessione%20della%20polizza%20gratuita%20di%20assicurazione%20ai%20combattenti.%20023U1071.md), e' riaperto e prorogato sino al 31 marzo 1925.
 
 ## Art. 2.
 

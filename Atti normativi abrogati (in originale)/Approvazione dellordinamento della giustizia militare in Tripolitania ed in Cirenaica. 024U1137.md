@@ -18,7 +18,7 @@ Visto il [R. decreto 5 novembre 1911, n. 1247](Che%20pone%20sotto%20la%20sovrani
 
 Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), e il [R. decreto 20 novembre 1912, n. 1205](riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md);
 
-Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito;
 
 Visto il [R. decreto 20 marzo 1913, n. 289](Col%20quale%20vengono%20approvati%20gli%20annessi%20ordinamento%20giudiziario%20e%20disposizioni%20relative%20alle%20leggi%20da%20applicarsi%20in%20Libia.%20013U0289.md);
 
@@ -88,7 +88,7 @@ Presse i Tribunali della Tripolitania e della Cirenaica non vi e' commissione d'
 
 ## Art. 8.
 
-Salvo la competenza dei Tribunali militari delle colonie nel periodo dell'istruttoria, il giudizio contro ufficiali, per reati militari commessi in Colonia, ha luogo avanti a Tribunale speciale, da costituirsi a norma dell'[art. 3 del R. decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), e delle vigenti disposizioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito e per la marina, in quella sede dei Regno che sia stata, di volta in volta, designata dal Tribunale supremo militare.
+Salvo la competenza dei Tribunali militari delle colonie nel periodo dell'istruttoria, il giudizio contro ufficiali, per reati militari commessi in Colonia, ha luogo avanti a Tribunale speciale, da costituirsi a norma dell'[art. 3 del R. decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), e delle vigenti disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e per la marina, in quella sede dei Regno che sia stata, di volta in volta, designata dal Tribunale supremo militare.
 
 ## Art. 9.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 marzo 1927, n. 279](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-09;279), con il quale viene approvato il Trattato relativo alla Bessarabia, stipulato a Parigi il 28 ottobre 1920 tra l'Italia, l'Impero Britannico, la Francia e il Giappone, principali Potenze alleate, e la Romania. 
+ E' convertito in legge il [R. decreto-legge 9 marzo 1927, n. 279](Approvazione%20del%20Trattato%20relativo%20alla%20riunione%20della%20Bessarabia%20alla%20Romania.%20027U0279.md), con il quale viene approvato il Trattato relativo alla Bessarabia, stipulato a Parigi il 28 ottobre 1920 tra l'Italia, l'Impero Britannico, la Francia e il Giappone, principali Potenze alleate, e la Romania. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

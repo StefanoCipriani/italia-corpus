@@ -30,7 +30,7 @@ La Banca nazionale del lavoro destinera' alle operazioni di credito peschereccio
 
 ## Art. 5.
 
-Salvo il rispetto delle convenzioni in corso, la gestione delle Casse dei mercati all'ingrosso del pesce istituite o da istituire ai sensi dell'art. 83 del testo unico delle leggi sulla pesca, sara' dalle rispettive autorita' comunali affidata alla Banca nazionale del lavoro. Con provvedimenti dei Ministeri dell'agricoltura e delle foreste e delle finanze, da emanarsi secondo le norme del [R. decreto-legge 6 novembre 1926, n. 1830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-06;1830), udito il parere del Comitato di cui all'art. 7, potra' tuttavia essere consentito che i servizi di Cassa di determinati mercati siano affidati ad altri Istituti bancari che esercitino notevole attivita' nel campo del credito a favore dei pescatori.
+Salvo il rispetto delle convenzioni in corso, la gestione delle Casse dei mercati all'ingrosso del pesce istituite o da istituire ai sensi dell'art. 83 del testo unico delle leggi sulla pesca, sara' dalle rispettive autorita' comunali affidata alla Banca nazionale del lavoro. Con provvedimenti dei Ministeri dell'agricoltura e delle foreste e delle finanze, da emanarsi secondo le norme del [R. decreto-legge 6 novembre 1926, n. 1830](Norme%20regolamentari%20per%20la%20tutela%20del%20risparmio.%20026U1830.md), udito il parere del Comitato di cui all'art. 7, potra' tuttavia essere consentito che i servizi di Cassa di determinati mercati siano affidati ad altri Istituti bancari che esercitino notevole attivita' nel campo del credito a favore dei pescatori.
 
 ## Art. 6.
 

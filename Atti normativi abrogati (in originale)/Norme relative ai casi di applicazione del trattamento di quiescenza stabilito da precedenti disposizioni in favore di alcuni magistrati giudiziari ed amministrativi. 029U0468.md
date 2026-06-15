@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 4 del R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70#art_4), sulle pensioni civili e militari;
 
-Visti l'[art. 136 del R. decreto 14 dicembre 1921, n. 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-12-14;1978#art_136), e l'articolo unico del [R. decreto 4 ottobre 1928, n. 2304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-04;2304);
+Visti l'[art. 136 del R. decreto 14 dicembre 1921, n. 1978](Sullordinamento%20giudiziario.%20021U1978.md), e l'articolo unico del [R. decreto 4 ottobre 1928, n. 2304](Trattamento%20economico%20degli%20alti%20magistrati%20del%20Consiglio%20di%20Stato%20e%20della%20Corte%20dei%20conti%20collocati%20a%20riposo%20per%20riduzione%20dei%20limiti%20di%20eta.%20028U2304.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giu
 
 ## Art. 1.
 
-I Magistrati dell'ordine giudiziario ed amministrativo di cui all'[art. 136 del R. decreto 14 dicembre 1921, n. 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-12-14;1978#art_136), ed all'articolo unico del [R. decreto 4 ottobre 1928, n. 2304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-04;2304), hanno diritto, fino al compimento del 73° anno di eta', al trattamento previsto dai detti articoli anche quando siano collocati a riposo d'ufficio o a loro domanda prima del raggiungimento dei limiti di eta'. Tale disposizione vale anche per i collocamenti a riposo disposti prima della data del presente decreto.
+I Magistrati dell'ordine giudiziario ed amministrativo di cui all'[art. 136 del R. decreto 14 dicembre 1921, n. 1978](Sullordinamento%20giudiziario.%20021U1978.md), ed all'articolo unico del [R. decreto 4 ottobre 1928, n. 2304](Trattamento%20economico%20degli%20alti%20magistrati%20del%20Consiglio%20di%20Stato%20e%20della%20Corte%20dei%20conti%20collocati%20a%20riposo%20per%20riduzione%20dei%20limiti%20di%20eta.%20028U2304.md), hanno diritto, fino al compimento del 73° anno di eta', al trattamento previsto dai detti articoli anche quando siano collocati a riposo d'ufficio o a loro domanda prima del raggiungimento dei limiti di eta'. Tale disposizione vale anche per i collocamenti a riposo disposti prima della data del presente decreto.
 
 ## Art. 2.
 

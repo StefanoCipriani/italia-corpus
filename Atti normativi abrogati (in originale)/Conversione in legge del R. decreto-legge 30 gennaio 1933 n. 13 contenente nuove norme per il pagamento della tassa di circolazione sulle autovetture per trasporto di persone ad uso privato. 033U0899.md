@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 gennaio 1933, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-30;13), contenente nuove norme per il pagamento della tassa di circolazione sulle autovetture per trasporto di persone ad uso privato. 
+ E' convertito in legge il [R. decreto-legge 30 gennaio 1933, n. 13](Nuove%20norme%20per%20il%20pagamento%20delle%20tasse%20di%20circolazione%20sulle%20autovetture%20per%20trasporto%20di%20persone%20ad%20uso%20privato.%20033U0013.md), contenente nuove norme per il pagamento della tassa di circolazione sulle autovetture per trasporto di persone ad uso privato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

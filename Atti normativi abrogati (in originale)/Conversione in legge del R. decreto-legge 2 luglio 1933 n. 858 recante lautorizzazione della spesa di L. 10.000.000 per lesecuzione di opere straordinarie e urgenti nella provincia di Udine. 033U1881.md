@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 luglio 1933, n. 858](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-07-02;858), recante l'autorizzazione della spesa di L. 10.000.000 per l'esecuzione di opere straordinarie e urgenti nella provincia di Udine. 
+ E' convertito in legge il [R. decreto-legge 2 luglio 1933, n. 858](Autorizzazione%20della%20spesa%20di%20L.%2010.000.000%20per%20lesecuzione%20di%20opere%20straordinarie%20e%20urgenti%20nella%20provincia%20di%20Udine.%20033U0858.md), recante l'autorizzazione della spesa di L. 10.000.000 per l'esecuzione di opere straordinarie e urgenti nella provincia di Udine. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

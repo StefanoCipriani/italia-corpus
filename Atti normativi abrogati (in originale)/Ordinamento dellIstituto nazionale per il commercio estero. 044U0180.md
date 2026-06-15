@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 3 febbraio 1936, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-02-03;296), convertito nella [legge 14 aprile 1936, n. 929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-14;929), concernente l'ordinamento dell'Istituto nazionale per il commercio estero;
+Visto il [R. decreto-legge 3 febbraio 1936, n. 296](Coordinamento%20delle%20attribuzioni%20e%20dei%20servizi%20dellIstituto%20nazionale%20fascista%20per%20gli%20scambi%20con%20lestero%20-%20che%20assume%20la%20denominazione%20di%20Istituto%20nazionale%20fascista%20per%20il%20commercio%20est_a2237e09fc52.md), convertito nella [legge 14 aprile 1936, n. 929](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20febbraio%201936-XIV%20n.%20296%20riguardante%20il%20coordinamento%20delle%20attribuzioni%20e%20dei%20servizi%20dellIstituto%20nazionale%20fascista%20per%20gli%20scambi%20con%20leste_15f8dbfe3522.md), concernente l'ordinamento dell'Istituto nazionale per il commercio estero;
 
 Visto il decreto Presidenziale 10 settembre 1936 col quale sono approvate le norme statutarie dell'istituto nazionale per il commercio estero, il regolamento interno ed il regolamento del personale;
 
-Visto il [R. decreto 2 giugno 1944, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-06-02;150), che sopprime il Ministero scambi e valute e ripartisce le attribuzioni fra il Ministero delle finanze e il Ministero dell'industria, il commercio e il lavoro;
+Visto il [R. decreto 2 giugno 1944, n. 150](Soppressione%20del%20Ministero%20per%20gli%20Scambi%20e%20le%20Valute%20e%20ripartizione%20delle%20attribuzioni%20e%20servizi%20relativi%20fra%20i%20Ministeri%20delle%20Finanze%20e%20dellIndustria%20del%20Commercio%20e%20del%20Lavoro.%20044U0150.md), che sopprime il Ministero scambi e valute e ripartisce le attribuzioni fra il Ministero delle finanze e il Ministero dell'industria, il commercio e il lavoro;
 
 Vista la deliberazione del Consiglio dei Ministri;
 

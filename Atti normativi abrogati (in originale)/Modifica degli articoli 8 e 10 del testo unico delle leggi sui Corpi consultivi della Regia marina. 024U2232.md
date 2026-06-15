@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 19 luglio 1924, n. 1521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-19;1521)-1522, che approva il testo unico delle disposizioni legislative riguardanti la costituzione e le attribuzioni dei Corpi consultivi della Regia marina;
+Visto il [R. decreto 19 luglio 1924, n. 1521](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20e%20le%20attribuzioni%20dei%20corpi%20consultivi%20della%20Regia%20marina.%20024U1521.md)-1522, che approva il testo unico delle disposizioni legislative riguardanti la costituzione e le attribuzioni dei Corpi consultivi della Regia marina;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2840), che apporta modificazioni all'ordinamento del Consiglio di Stato e il R. decreto 26 giugno 1924, che approva il relativo testo unico:
 
@@ -26,9 +26,9 @@ Sulla proposta del Ministro per la marina, di concerto col Presidente del Consig
 
 ## Art. 1.
 
-Il n. 6 dell'art. 8 del testo unico delle disposizioni legislative riguardanti la costituzione e le attribuzioni dei Corpi consultivi della Regia marina, approvato con [R. decreto 19 luglio 1924, n. 1521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-19;1521)-1522, e' abrogato e sostituito dal seguente: 
+Il n. 6 dell'art. 8 del testo unico delle disposizioni legislative riguardanti la costituzione e le attribuzioni dei Corpi consultivi della Regia marina, approvato con [R. decreto 19 luglio 1924, n. 1521](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20e%20le%20attribuzioni%20dei%20corpi%20consultivi%20della%20Regia%20marina.%20024U1521.md)-1522, e' abrogato e sostituito dal seguente: 
  
- «Parere tecnico amministrativo sui capitolati di oneri generali o particolari, ovvero sui progetti di contratti interessanti la Regia marina, nei casi in cui la legge sulla contabilita' generale dello Stato prescrive di sentire il parere del Consiglio di Stato, eccettuati quelli previsti dal [R. decreto 8 febbraio 1923, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;422), e sue successive modificazioni».
+ «Parere tecnico amministrativo sui capitolati di oneri generali o particolari, ovvero sui progetti di contratti interessanti la Regia marina, nei casi in cui la legge sulla contabilita' generale dello Stato prescrive di sentire il parere del Consiglio di Stato, eccettuati quelli previsti dal [R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), e sue successive modificazioni».
 
 ## Art. 2.
 

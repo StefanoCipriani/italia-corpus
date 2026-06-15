@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Agli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-04-26;1017#art_7) e [8 del R. decreto-legge 26 aprile 1928, numero 1017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-04-26;1017#art_8), sono sostituite le disposizioni seguenti: 
+ Agli [articoli 7](Costituzione%20dellAssociazione%20nazionale%20fra%20i%20consorzi%20di%20bonifica%20e%20di%20irrigazione%20in%20Roma.%20028U1017.md) e [8 del R. decreto-legge 26 aprile 1928, numero 1017](Costituzione%20dellAssociazione%20nazionale%20fra%20i%20consorzi%20di%20bonifica%20e%20di%20irrigazione%20in%20Roma.%20028U1017.md), sono sostituite le disposizioni seguenti: 
  
  Art. 7. - La Presidenza e' costituita da un presidente e da tre vice presidenti, nominati con decreto Reale, su proposta del Ministro per l'agricoltura e le foreste, di concerto col Ministro per i lavori pubblici. 
  

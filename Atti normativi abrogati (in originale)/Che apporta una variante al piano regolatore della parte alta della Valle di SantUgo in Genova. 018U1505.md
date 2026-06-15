@@ -14,7 +14,7 @@ E' approvata la suindicata variante al piano regolatore della parte alta della V
 
 ## Art. 2.
 
-Resta fermo per l'esecuzione del piano il termine fissato con la [legge 26 giugno 1913, n. 766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;766). 
+Resta fermo per l'esecuzione del piano il termine fissato con la [legge 26 giugno 1913, n. 766](Che%20approva%20il%20piano%20regolatore%20parte%20della%20Valle%20di%20SantUgo%20in%20Genova.%20013U0766.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

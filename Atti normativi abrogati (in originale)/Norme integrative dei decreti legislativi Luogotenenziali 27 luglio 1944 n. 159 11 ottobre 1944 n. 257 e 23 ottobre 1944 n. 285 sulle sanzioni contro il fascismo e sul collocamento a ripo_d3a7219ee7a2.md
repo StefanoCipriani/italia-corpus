@@ -65,7 +65,7 @@ Il termine previsto dal [secondo comma dell'art. 2 del decreto legislativo Luogo
 
 ## Art. 9.
 
-Il personale contemplato nell'ultimo comma dell'articolo 3 del decreto. legislativo Luogotenenziale 11 ottobre 1944, n. 257, e' ammesso a chiedere, in luogo della maggiorazione del servizio utile per la pensione ai sensi del primo comma del detto art. 3, l'applicazione della [legge 23 maggio 1940, n. 587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-23;587), a norma dell'ultima parte dell'articolo stesso. 
+Il personale contemplato nell'ultimo comma dell'articolo 3 del decreto. legislativo Luogotenenziale 11 ottobre 1944, n. 257, e' ammesso a chiedere, in luogo della maggiorazione del servizio utile per la pensione ai sensi del primo comma del detto art. 3, l'applicazione della [legge 23 maggio 1940, n. 587](Concessione%20di%20una%20indennita%20in%20aggiunta%20alla%20pensione%20ai%20dipendenti%20statali%20per%20i%20quali%20e%20prevista%20la%20inamovibilita%20dispensati%20dal%20servizio%20in%20esecuzione%20del%20R.%20decreto%20legge%2017%20novembre_135e45667a9e.md), a norma dell'ultima parte dell'articolo stesso. 
  
  La richiesta deve essere presentata entro quindici giorni dalla data di comunicazione del decreto di collocamento a riposo.
 

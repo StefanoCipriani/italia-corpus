@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 13 luglio 1911, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;745), a favore della industria delle costruzioni navali;
+Vista la [legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md), a favore della industria delle costruzioni navali;
 
 Visto il [decreto Luogotenenziale del 10 agosto 1916, n. 1031](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-10;1031), concernente provvedimenti a favore dell'armamento e delle costruzioni navali;
 
@@ -48,7 +48,7 @@ Ai velieri in legno che siano messi in costruzione nei cantieri nazionali durant
  
  La stessa franchigia e' accorciata per l'introduzione dall'estero degli apparati motori, caldaie ed apparecchi ausiliari oppure del materiale occorrente per la loro costruzione nello Stato. 
  
- Per la costruzione nello Stato degli apparati motori ed apparecchi ausiliari rimangono invariati i compensi stabiliti dall'[art. 8 della legge 13 luglio 1911, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;745#art_8).
+ Per la costruzione nello Stato degli apparati motori ed apparecchi ausiliari rimangono invariati i compensi stabiliti dall'[art. 8 della legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md).
 
 ### Art. 4.
 
@@ -58,7 +58,7 @@ Pei velieri di cui all'articolo precedente sono accordate pei primi 3 anni di es
 
 ### Art. 5.
 
-Per i velieri in legno di stazza lorda superiore alle 100 tonnellate, messi in costruzione nei cantieri nazionali dopo la pubblicazione del presente decreto, il compenso di costruzione previsto dall'[art. 4 della legge 13 luglio 1911, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;745#art_4), e' modificato come segue: 
+Per i velieri in legno di stazza lorda superiore alle 100 tonnellate, messi in costruzione nei cantieri nazionali dopo la pubblicazione del presente decreto, il compenso di costruzione previsto dall'[art. 4 della legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md), e' modificato come segue: 
  
  Se varati entro il 31 dicembre 1918, compenso per tonnellata di stazza lorda, L. 75. 
  
@@ -73,7 +73,7 @@ Per i velieri in legno di stazza lorda superiore alle 100 tonnellate, messi in c
 
 ### Art. 6.
 
-Per i velieri in legno di stazza lorda di 100 tonnellate o meno il compenso di costruzione e' fissato in L. 25 per ogni tonnellata di stazza lorda rimanendo abolito il compenso daziario previsto dall'[art. 2 della legge 13 luglio 1911, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;745#art_2).
+Per i velieri in legno di stazza lorda di 100 tonnellate o meno il compenso di costruzione e' fissato in L. 25 per ogni tonnellata di stazza lorda rimanendo abolito il compenso daziario previsto dall'[art. 2 della legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md).
 
 ## Provvedimenti per l'industria delle costruzioni e dell'armamento dei velieri a scafo metallico.
 

@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- In virtu' della [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); che concede al Governo del Re facolta' eccezionali; 
+ In virtu' della [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); che concede al Governo del Re facolta' eccezionali; 
  
- Viste le [leggi 16 maggio 1901, n. 176, e 22 giugno 1913, n. 784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;784), che stabiliscono, tra l'altro, la concessione di un premio e di un compenso di navigazione alle navi mercantili nazionali; 
+ Viste le [leggi 16 maggio 1901, n. 176, e 22 giugno 1913, n. 784](Concernente%20provvedimenti%20a%20favore%20della%20marina%20libera.%20013U0784.md), che stabiliscono, tra l'altro, la concessione di un premio e di un compenso di navigazione alle navi mercantili nazionali; 
  
  Considerato che, in conseguenza delle attuali condizioni del mercato dei trasporti per mare, i noli hanno raggiunto tale misura da assicurare agli armatori un largo profitto; talche' viene temporaneamente a cessare la ragione protettiva ed incitativa cui si inspirarono le leggi suindicate; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' temporaneamente sospesa l'esecuzione delle [leggi 16 maggio 1901, n. 176, e 22 giugno 1913, n. 784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;784), per quanto riguarda il pagamento agli aventi diritto del premio o del compenso di navigazione dalle citate leggi stabiliti. 
+ E' temporaneamente sospesa l'esecuzione delle [leggi 16 maggio 1901, n. 176, e 22 giugno 1913, n. 784](Concernente%20provvedimenti%20a%20favore%20della%20marina%20libera.%20013U0784.md), per quanto riguarda il pagamento agli aventi diritto del premio o del compenso di navigazione dalle citate leggi stabiliti. 
  
  Resta pero' conservato a favore della Cassa degli invalidi della marina mercantile il prelevamento della percentuale stabilita dalle leggi stesse sul premio o sul compenso di navigazione che sarebbero altrimenti dovuti: nell'intesa che, fino a quando il presente decreto rimarra' in vigore, tale percentuale sara' corrisposta mensilmente - a mesi maturati - in ragione di un dodicesimo dell'importo annuale massimo che potrebbe spettare alla Cassa. 
  

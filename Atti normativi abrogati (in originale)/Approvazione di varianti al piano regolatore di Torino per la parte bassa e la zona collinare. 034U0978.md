@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il vigente piano regolatore edilizio, per la parte piana della citta' di Torino, approvato con [legge 5 aprile 1908, n. 141](Che%20dichiara%20di%20pubblica%20utilita%20le%20opere%20da%20eseguirsi%20in%20conformita%20del%20piano%20generale%20regolatore%20e%20di%20ampliamento%20per%20la%20citta%20di%20Torino.%20008U0141.md), e quello per la zona collinare approvato con [decreto-legge 10 marzo 1918, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1918-03-10;385), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473); 
+ Visto il vigente piano regolatore edilizio, per la parte piana della citta' di Torino, approvato con [legge 5 aprile 1908, n. 141](Che%20dichiara%20di%20pubblica%20utilita%20le%20opere%20da%20eseguirsi%20in%20conformita%20del%20piano%20generale%20regolatore%20e%20di%20ampliamento%20per%20la%20citta%20di%20Torino.%20008U0141.md), e quello per la zona collinare approvato con [decreto-legge 10 marzo 1918, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1918-03-10;385), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md); 
  
  Vista la domanda in data 19 giugno 1933 con la quale il Comune chiede l'approvazione di quattordici varianti al piano regolatore della citta'; 
  

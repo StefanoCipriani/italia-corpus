@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il Reale Decreto del 4 corrente, in forza del quale le Provincie della Venezia e quella di Mantova fanno parte integrante del Regno;
 
-Visto l'[art. 275 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_275) militare, e 3 della Legge in data dell'11 febbraio 1864;
+Visto l'[art. 275 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, e 3 della Legge in data dell'11 febbraio 1864;
 
 Sulla proposizione del Ministro della Guerra; Abbiamo decretato e decretiamo:
 

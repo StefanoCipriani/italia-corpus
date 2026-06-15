@@ -22,7 +22,7 @@ Visto il [R. decreto-legge n. 1469 del 10 agosto 1919](Che%20stabilisce%20i%20ru
 
 Visto il [R. decreto-legge 10 agosto 1919, n. 1470](Che%20istituisce%20nella%20R.%20marina%20un%20personale%20civile%20con%20la%20denominazione%20di%20chimici%20per%20le%20Direzioni%20di%20artiglieria%20ed%20armamenti%20e%20conserva%20in%20via%20transitoria%20il%20ruolo%20degli%20ingegneri%20elet_8010541b1f3c.md), che institui' i chimici per le Direzioni di artiglieria ed armamenti e conservo' in via transitoria ii ruolo degli ingegneri elettricisti;
 
-Visto il [R. decreto 8 luglio 1920, n. 1001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-07-08;1001), che estese i ruoli aperti al personale civile dipartimentale della R. marina;
+Visto il [R. decreto 8 luglio 1920, n. 1001](Che%20estende%20i%20ruoli%20aperti%20al%20personale%20civile%20dipartimentale%20della%20R.%20marina.%20020U1001.md), che estese i ruoli aperti al personale civile dipartimentale della R. marina;
 
 Udito il Consiglio dei ministri;
 
@@ -82,7 +82,7 @@ L'organico e la ripartizione per gradi del personale «Ingegneri fisici elettric
 
 ## Art. 3.
 
-La tabella n. 5 degli stipendi dei disegnatori della R. marina annessa al [R. decreto n. 1001, dell'8 luglio 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-07-08;1001), e' abrogata e sostituita dalla seguente: 
+La tabella n. 5 degli stipendi dei disegnatori della R. marina annessa al [R. decreto n. 1001, dell'8 luglio 1920](Che%20estende%20i%20ruoli%20aperti%20al%20personale%20civile%20dipartimentale%20della%20R.%20marina.%20020U1001.md), e' abrogata e sostituita dalla seguente: 
  
  Disegnatori. 
  
@@ -192,7 +192,7 @@ Nella prima applicazione del presente decreto i funzionari del personale civile 
  
  Successivamente, e fintanto che il numero dei funzionari nel grado superiore non sia ridotto a quello stabilito in organico, posti che si renderanno vacanti nel grado di capi tecnici principali o di assistenti tecnici principali verranno soppressi in tale grado in ragione di due per ogni gruppo di cinque posti vacanti, e ripristinati in quello di capi tecnici o di assistenti tecnici in tale proporzione. 
  
- Nella prima applicazione del presente decreto la classificazione di capi tecnici principali od assistenti tecnici principali nel quadro degli stipendi sara' fatta in base alla loro anzianita' decorrente dalla data del decreto col quale conseguirono lo stipendio di L. 3500, considerando pero' periodi di 6, 12 e 18 anni in luogo di quelli stabiliti dall'attuale tabella degli stipendi approvata con [R. decreto n. 1001, in data 8 luglio 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-07-08;1001). 
+ Nella prima applicazione del presente decreto la classificazione di capi tecnici principali od assistenti tecnici principali nel quadro degli stipendi sara' fatta in base alla loro anzianita' decorrente dalla data del decreto col quale conseguirono lo stipendio di L. 3500, considerando pero' periodi di 6, 12 e 18 anni in luogo di quelli stabiliti dall'attuale tabella degli stipendi approvata con [R. decreto n. 1001, in data 8 luglio 1920](Che%20estende%20i%20ruoli%20aperti%20al%20personale%20civile%20dipartimentale%20della%20R.%20marina.%20020U1001.md). 
  
  In conseguenza verra' rettificata l'anzianita' degli attuali capi tecnici principali ed assistenti tecnici principali.
 
@@ -228,7 +228,7 @@ L'organico del personale pel servizio dei fari e del segnalamento marittimo, e' 
 
 ## Art. 12.
 
-Per gli attuali assistenti di magazzino e fanalisti della R. marina i primi tre periodi stabiliti rispettivamente dalle tabelle numero 6 e 7 annesse al [R. decreto n. 1001, dell'8 luglio 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-07-08;1001), sono ridotti di un anno.
+Per gli attuali assistenti di magazzino e fanalisti della R. marina i primi tre periodi stabiliti rispettivamente dalle tabelle numero 6 e 7 annesse al [R. decreto n. 1001, dell'8 luglio 1920](Che%20estende%20i%20ruoli%20aperti%20al%20personale%20civile%20dipartimentale%20della%20R.%20marina.%20020U1001.md), sono ridotti di un anno.
 
 ## Art. 13.
 

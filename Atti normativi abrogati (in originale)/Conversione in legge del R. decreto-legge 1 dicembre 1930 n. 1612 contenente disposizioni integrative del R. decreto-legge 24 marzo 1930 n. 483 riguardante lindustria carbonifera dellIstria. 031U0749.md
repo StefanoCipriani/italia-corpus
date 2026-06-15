@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° dicembre 1930, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-01;1612), contenente disposizioni integrative del [R. decreto-legge 24 marzo 1930, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-24;483), riguardante l'industria carbonifera dell'Istria. 
+ E' convertito in legge il [R. decreto-legge 1° dicembre 1930, n. 1612](Disposizioni%20integrative%20del%20R.%20decreto-legge%2024%20marzo%201930%20n.%20483%20riguardante%20lindustria%20carbonifera%20dellIstria.%20030U1612.md), contenente disposizioni integrative del [R. decreto-legge 24 marzo 1930, n. 483](Provvedimenti%20per%20lindustria%20carbonifera%20dellIstria.%20030U0483.md), riguardante l'industria carbonifera dell'Istria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -26,7 +26,7 @@ La liquidazione della tassa per la rinnovazione straordinaria della licenza a ca
 
 ## Art. 4.
 
-All'obbligo della rinnovazione straordinaria stabilita dall'art. 1, primo comma, del decreto 5 agosto 1917, n. 1229, sono soggette anche le autorizzazioni del prefetto a vendere negli esercizi pubblici bevande alcooliche che abbiano un contenuto di alcool superiore al 21 per cento del volume, di cui all'[art. 1 della legge 19 giugno 1913, n. 632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-19;632#art_1). 
+All'obbligo della rinnovazione straordinaria stabilita dall'art. 1, primo comma, del decreto 5 agosto 1917, n. 1229, sono soggette anche le autorizzazioni del prefetto a vendere negli esercizi pubblici bevande alcooliche che abbiano un contenuto di alcool superiore al 21 per cento del volume, di cui all'[art. 1 della legge 19 giugno 1913, n. 632](Recante%20provvedimenti%20per%20combattere%20lalcoolismo.%20013U0632.md). 
  
  Per tale rinnovazione straordinaria e' dovuta la tassa di cui al n. 21, lettere a) e b) della tabella delle concessioni governative annessa al decreto 9 novembre 1916; n. 1525, allegato D, da esigersi a cura del prefetto, mediante applicazione ed annullamento, sull'atto di autorizzazione gia' esistente, delle prescritte marche di concessione governativa, col «visto» di cui all'articolo 1.
 
@@ -36,7 +36,7 @@ Sono dispensati dall'obbligo della rinnovazione straordinaria delle licenze i ti
 
 ## Art. 6.
 
-Per la inosservanza delle disposizioni del decreto 5 agosto 1917, n. 1229, e del presente, sono applicabili le sanzioni comminate, oltreche' dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), dalle vigenti disposizioni in materia di pubblica sicurezza, di provvedimenti contro l'alcoolismo e di tasse sulle concessioni governative.
+Per la inosservanza delle disposizioni del decreto 5 agosto 1917, n. 1229, e del presente, sono applicabili le sanzioni comminate, oltreche' dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dalle vigenti disposizioni in materia di pubblica sicurezza, di provvedimenti contro l'alcoolismo e di tasse sulle concessioni governative.
 
 ## Art. 7.
 

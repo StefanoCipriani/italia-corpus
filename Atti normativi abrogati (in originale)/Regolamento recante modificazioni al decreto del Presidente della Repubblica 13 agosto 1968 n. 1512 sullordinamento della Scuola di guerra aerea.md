@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 34 del regio decreto-legge 22 febbraio 1937, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-22;220#art_34), convertito nella [legge 25 giugno 1937, n. 1501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-25;1501), sull'ordinamento dell'Aeronautica, e successive modificazioni;
+Visto l'[art. 34 del regio decreto-legge 22 febbraio 1937, n. 220](Ordinamento%20della%20Regia%20aeronautica.%20037U0220.md), convertito nella [legge 25 giugno 1937, n. 1501](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), sull'ordinamento dell'Aeronautica, e successive modificazioni;
 
-Vista la [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), sull'avanzamento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica, e succes- sive modificazioni;
+Vista la [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sull'avanzamento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica, e succes- sive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 18 novembre 1965, n. 1477](Ordinamento%20dello%20Stato%20Maggiore%20della%20difesa%20e%20degli%20Stati%20Maggiori%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20in%20tempo%20di%20pace.md), concernente l'ordinamento dello stato maggiore della Difesa e degli stati maggiori dell'Esercito, della Marina e dell'Aeronautica, in tempo di pace;
 
@@ -41,7 +41,7 @@ L'[art. 6 del decreto del Presidente della Repubblica 13 agosto 1968, n. 1512](O
  Gli ufficiali frequentatori del corso normale o superiore che, per i motivi indicati nel comma precedente, non possano sostenere gli accertamenti finali del corso, sono rinviati ad una sessione di recupero, da fissarsi dal capo di stato maggiore dell'Aeronautica, su proposta del comandante della Scuola di guerra aerea".
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
  - L'[art. 34 del R.D.L. n. 220/1937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937;220#art_34) e' cosi' formulato:

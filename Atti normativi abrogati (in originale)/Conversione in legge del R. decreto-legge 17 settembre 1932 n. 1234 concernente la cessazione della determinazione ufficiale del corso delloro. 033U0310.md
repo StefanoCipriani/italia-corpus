@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 settembre 1932, n. 1234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-17;1234), concernente la cessazione della determinazione ufficiale del corso dell'oro. 
+ E' convertito in legge il [R. decreto-legge 17 settembre 1932, n. 1234](Cessazione%20della%20determinazione%20ufficiale%20del%20corso%20delloro.%20032U1234.md), concernente la cessazione della determinazione ufficiale del corso dell'oro. 
  
  Ordiniamo che la presente, munita del sigillo dello stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

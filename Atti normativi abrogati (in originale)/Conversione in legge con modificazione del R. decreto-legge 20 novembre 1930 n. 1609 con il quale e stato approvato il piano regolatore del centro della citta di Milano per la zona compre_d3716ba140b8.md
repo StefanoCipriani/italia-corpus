@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 novembre 1930, n. 1609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1609), con il quale e' stato approvato il piano regolatore del centro della citta' di Milano, per la zona compresa fra le vie Carlo Alberto, Cappellari, Visconti, San Giovanni Laterano e San Giovanni in Conca, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 20 novembre 1930, n. 1609](Approvazione%20e%20dichiarazione%20di%20pubblica%20utilita%20dello%20stralcio%20del%20nuovo%20piano%20regolatore%20del%20centro%20di%20Milano.%20030U1609.md), con il quale e' stato approvato il piano regolatore del centro della citta' di Milano, per la zona compresa fra le vie Carlo Alberto, Cappellari, Visconti, San Giovanni Laterano e San Giovanni in Conca, con la seguente modificazione: 
  Il 1° comma dell'art. 13 e' sostituito dal seguente: 
  «Per l'esecuzione del piano e' assegnato il termine di anni dieci da oggi». 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 

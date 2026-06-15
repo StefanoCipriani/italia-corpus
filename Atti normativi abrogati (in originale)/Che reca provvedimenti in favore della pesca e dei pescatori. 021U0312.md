@@ -112,7 +112,7 @@ Il credito per la costruzione e l'acquisto di battelli e di attrezzi da pesca, s
  
  Il credito per l'impianto di magazzini di deposito e di vendita e per qualsiasi altro impianto concernente l'industria della pesca sara' assistito da garanzie reali o personali da determinarsi dagli istituti sovventori. 
  
- Il credito per l'esercizio dei magazzini di deposito e di vendita e' garantito dal privilegio sulle merci di cui al [decreto Luogotenenziale 26 maggio 1918, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-26;723), e [R. decreto 24 luglio 1919, n. 1459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-24;1459), concernenti provvedimenti per agevolare il credito alle Cooperative di consumo.
+ Il credito per l'esercizio dei magazzini di deposito e di vendita e' garantito dal privilegio sulle merci di cui al [decreto Luogotenenziale 26 maggio 1918, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-26;723), e [R. decreto 24 luglio 1919, n. 1459](Che%20stabilisce%20norme%20per%20la%20somministrazione%20di%20crediti%20da%20parte%20del%20tesoro%20dello%20Stato%20alle%20cooperative%20per%20enti%20ed%20istituti%20di%20consumo%20per%20acquisto%20conservazione%20e%20distribuzione%20dei%20gen_16674d77d820.md), concernenti provvedimenti per agevolare il credito alle Cooperative di consumo.
 
 ### Art. 6.
 
@@ -210,7 +210,7 @@ I diritti esclusivi di pesca nelle acque del demanio pubblico marittimo e laguna
  
  Entro un anno dalla data di pubblicazione della presente legge, la Direzione generale della marina mercantile procedera' alla revisione dei decreti, coi quali gia' venne riconosciuto il possesso di diritto esclusivo di pesca, ed in conformita' ai risultati di tale revisione, sentito il Comitato interministeriale della pesca, il riconoscimento sara' revocato o confermato col nuovo decreto, che, nel caso di conferma dovra' determinare l'oggetto specifico di ogni diritto e del suo modo di esercizio, in conformita' ai titoli di acquisto ed al possesso goduto nell'ultimo trentennio. 
  
- Contro la pronunzia di revoca e' soltanto ammesso reclamo in sede contenziosa avanti il tribunale superiore delle acque istituito col [decreto-legge 9 ottobre 1919, n. 2161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-10-09;2161) e secondo le norme stabilite anche col [R. decreto-legge 27 novembre 1919, n. 2235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-27;2235). 
+ Contro la pronunzia di revoca e' soltanto ammesso reclamo in sede contenziosa avanti il tribunale superiore delle acque istituito col [decreto-legge 9 ottobre 1919, n. 2161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-10-09;2161) e secondo le norme stabilite anche col [R. decreto-legge 27 novembre 1919, n. 2235](Contenente%20le%20norme%20di%20procedura%20per%20il%20funzionamento%20dei%20tribunali%20delle%20acque%20pubbliche%20istituiti%20col%20decreto-legge%209%20ottobre%201919%20n.%202161.%20019U2235.md). 
  
  Le disposizioni circa i diritti esclusivi di pesca nel demanio pubblico marittimo e lagunare e nel mare territoriale, non si applicano ai diritti patrimoniali di pesca posseduti dallo Stato. 
  
@@ -282,7 +282,7 @@ Le disposizioni dei titoli 3 e 4 della presente legge sono estese ai pescatori c
 
 Sono estinti i diritti esclusivi di pesca nei laghi, fiumi, torrenti, canali ed in genere in ogni acqua pubblica, che risalgano a data anteriore all'entrata in vigore della [legge 4 marzo 1877, n. 3706](Sulla%20pesca.%20077U3706.md), e che non sieno stati effettivamente esercitati nel trentennio anteriore alla data della pubblicazione della presente legge. 
  
- Sono pure estinti i diritti esclusivi di pesca nei laghi, fiumi, torrenti, canali, ed in genere in ogni acqua pubblica, sebbene esercitati, qualora il loro possesso non sia stato gia' riconosciuto a mente dell'[articolo 3 del Regio decreto 15 maggio 1884, n. 2503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-05-15;2503#art_3), ovvero, se entro sei mesi dalla pubblicazione della presente legge, gli aventi diritto non ne abbiano fatta domanda corredata con i documenti prescritti dall'articolo 4 del sopra citato decreto. 
+ Sono pure estinti i diritti esclusivi di pesca nei laghi, fiumi, torrenti, canali, ed in genere in ogni acqua pubblica, sebbene esercitati, qualora il loro possesso non sia stato gia' riconosciuto a mente dell'[articolo 3 del Regio decreto 15 maggio 1884, n. 2503](Sulle%20attribuzioni%20conferite%20al%20prefetto%20dal%20regolamento%20per%20la%20pesca%20marittima.%20084U2503.md), ovvero, se entro sei mesi dalla pubblicazione della presente legge, gli aventi diritto non ne abbiano fatta domanda corredata con i documenti prescritti dall'articolo 4 del sopra citato decreto. 
  
  Entro un anno dalla data della pubblicazione della presente legge, il ministro di agricoltura provvedera' alla revisione dei decreti con i quali gia' venne riconosciuto il possesso dei diritti esclusivi di pesca. 
  
@@ -458,7 +458,7 @@ Il personale dei Regi stabilimenti ittiogenici, nonche' quello del R. laboratori
  
  Gli osservatori limnologici e gli osservatori di pesca marittima, per l'indole delle ricerche ad essi affiliate costretti a spostamenti periodici e ad esercitare funzioni saltuarie, non avranno carattere di organi permanenti. 
  
- L'ispettorato della pesca provvedera' volta per volta designandovi funzionari propri e delle RR. Universita'. L'azione degli osservatori di pesca marittima sara' integrata, per le indagini pratiche al largo, da quella della squadriglia sperimentale creata con R. decreto 10 giugno 1920, e, per le ricerche oceanografiche, dal R. Comitato talassografico italiano secondo quanto dispone il [R. decreto 8 febbraio 1920, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-08;183), che istituisce una Giunta esecutiva per le indagini del mare.
+ L'ispettorato della pesca provvedera' volta per volta designandovi funzionari propri e delle RR. Universita'. L'azione degli osservatori di pesca marittima sara' integrata, per le indagini pratiche al largo, da quella della squadriglia sperimentale creata con R. decreto 10 giugno 1920, e, per le ricerche oceanografiche, dal R. Comitato talassografico italiano secondo quanto dispone il [R. decreto 8 febbraio 1920, n. 183](Che%20istituisce%20una%20Giunta%20esecutiva%20per%20le%20ricerche%20sperimentali%20nellinteresse%20dellindustria%20della%20pesca%20stabilendone%20la%20costituzione.%20020U0183.md), che istituisce una Giunta esecutiva per le indagini del mare.
 
 ## Insegnamento professionale - Indagini Studi - Pubblicazioni.
 

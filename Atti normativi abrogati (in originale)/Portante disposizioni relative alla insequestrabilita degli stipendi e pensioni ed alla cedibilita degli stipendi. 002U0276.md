@@ -48,7 +48,7 @@ L'alienazione, il pignoramento ed il sequestro della quota ceduta, in qualunque 
  
  In caso di successione del cessionario, gli eredi o legatari di costui devono giustificare presso l'amministrazione dello Stato il diritto a riscuotere la quota ceduta mediante esibizione di un decreto pronunziato in camera di consiglio dal tribunale civile del luogo ove si e' aperta la successione, ovvero dalla corte di appello, nel cui distretto ha sede l'ufficio che deve operare il pagamento, se la successione e' aperta all'estero. 
  
- Ove gli eredi o legatari siano creditori di una somma non eccedente al lordo lire 100, la successione puo' giustificarsi nei modi stabiliti dall'art. 336 del regolamento per l'amministrazione del patrimonio e la contabilita' generale dello Stato, approvato con [regio decreto 4 maggio 1885, n. 3074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-05-04;3074). 
+ Ove gli eredi o legatari siano creditori di una somma non eccedente al lordo lire 100, la successione puo' giustificarsi nei modi stabiliti dall'art. 336 del regolamento per l'amministrazione del patrimonio e la contabilita' generale dello Stato, approvato con [regio decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md). 
  
  In ogni caso gli eredi o legatari del cessionario non possono riscuotere la quota ceduta se non delegando un unico rappresentante.
 

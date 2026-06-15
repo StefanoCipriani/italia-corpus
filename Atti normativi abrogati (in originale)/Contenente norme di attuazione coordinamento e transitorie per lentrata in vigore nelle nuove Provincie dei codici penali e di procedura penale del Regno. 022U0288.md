@@ -28,7 +28,7 @@ TITOLO I.
 
 ### Art. 1.
 
-E' estesa alle nuove provincie la [legge 26 giugno 1904, n. 285](Impiego%20dei%20condannati%20nei%20lavori%20di%20bonificazione%20dei%20terreni%20incolti%20e%20malarici.%20004U0285.md), sull'impiego dei condannati alla pena della reclusione, in lavori di dissodamento e di bonificazione di terreni incolti o malarici, fino a che non siano istituiti gli stabilimenti richiesti dall'[art. 13 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_13), concernente la pena della reclusione.
+E' estesa alle nuove provincie la [legge 26 giugno 1904, n. 285](Impiego%20dei%20condannati%20nei%20lavori%20di%20bonificazione%20dei%20terreni%20incolti%20e%20malarici.%20004U0285.md), sull'impiego dei condannati alla pena della reclusione, in lavori di dissodamento e di bonificazione di terreni incolti o malarici, fino a che non siano istituiti gli stabilimenti richiesti dall'[art. 13 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), concernente la pena della reclusione.
 
 ### Art. 2.
 
@@ -58,7 +58,7 @@ Alla perdita di merci, generi e attrezzi, o alla perdita di diritti e licenze, r
 
 ### Art. 3.
 
-Nell'applicazione di leggi penali rimaste in vigore nelle nuove provincie si osservano le disposizioni che escludono o diminuiscono la imputabilita' secondo il [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno: ma qualora concorrano circostanze attenuanti, non specificatamente contemplate da tale codice, in luogo delle diminuzioni nella misura stabilita dall'art. 59, all'ergastolo e' sostituita la reclusione per venti anni, e le altre pene diminuite da un sesto a due terzi.
+Nell'applicazione di leggi penali rimaste in vigore nelle nuove provincie si osservano le disposizioni che escludono o diminuiscono la imputabilita' secondo il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno: ma qualora concorrano circostanze attenuanti, non specificatamente contemplate da tale codice, in luogo delle diminuzioni nella misura stabilita dall'art. 59, all'ergastolo e' sostituita la reclusione per venti anni, e le altre pene diminuite da un sesto a due terzi.
 
 ### Art. 4.
 
@@ -66,15 +66,15 @@ Restano in vigore le disposizioni dell'art. X, n. III, IV, V, VI dell'ordinanza 
 
 ### Art. 5.
 
-Sono estese alle nuove provincie le disposizioni comprese negli articoli 20 a 27 del [R. decreto 1 dicembre 1889, n. 6509](Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md), concernenti il coordinamento del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno con le altre leggi anteriori alla pubblicazione del codice stesso e rimaste in vigore.
+Sono estese alle nuove provincie le disposizioni comprese negli articoli 20 a 27 del [R. decreto 1 dicembre 1889, n. 6509](Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md), concernenti il coordinamento del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno con le altre leggi anteriori alla pubblicazione del codice stesso e rimaste in vigore.
 
 ### Art. 6.
 
-Quando in disposizioni vigenti nelle nuove provincie, si fa richiamo a titoli o disposizioni del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) austriaco s'intende fatto richiamo alle disposizioni corrispondenti del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno.
+Quando in disposizioni vigenti nelle nuove provincie, si fa richiamo a titoli o disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco s'intende fatto richiamo alle disposizioni corrispondenti del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno.
 
 ### Art. 7.
 
-Le contravvenzioni a disposizioni sancite da leggi non abrogate delle nuove provincie, le quali trovavano la loro sanzione nel [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) austriaco e non la trovano nel [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno, sono equiparate alle contravvenzioni previste dall'art. 434 di quest'ultimo e punite colle pene dal medesimo stabilite, salvo che il fatto non costituisca un reato piu' grave espressamente preveduto dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno.
+Le contravvenzioni a disposizioni sancite da leggi non abrogate delle nuove provincie, le quali trovavano la loro sanzione nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco e non la trovano nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, sono equiparate alle contravvenzioni previste dall'art. 434 di quest'ultimo e punite colle pene dal medesimo stabilite, salvo che il fatto non costituisca un reato piu' grave espressamente preveduto dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno.
 
 ## Disposizioni transitorie.
 
@@ -82,9 +82,9 @@ CAPO II.
 
 ### Art. 8.
 
-Le pene inflitte con sentenza passata in giudicato prima dell'introduzione del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno e non ancora interamente scontate si intendono commutate a norma dell'art. 2 delle presenti disposizioni. 
+Le pene inflitte con sentenza passata in giudicato prima dell'introduzione del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno e non ancora interamente scontate si intendono commutate a norma dell'art. 2 delle presenti disposizioni. 
  
- La stessa disposizione trova applicazione, quando a norma dell'[articolo 2 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_2) del Regno, si debba applicare una pena stabilita dalla legge anteriore.
+ La stessa disposizione trova applicazione, quando a norma dell'[articolo 2 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, si debba applicare una pena stabilita dalla legge anteriore.
 
 ### Art. 9.
 
@@ -92,11 +92,11 @@ Alla pena del carcere a vita, dall'ordinanza del Comando Supremo del R. esercito
 
 ### Art. 10.
 
-Le pene perpetue inflitte per reati, rispetto ai quali il [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno stabilisce una pena temporanea, sono commutate nella reclusione per anni ventiquattro. 
+Le pene perpetue inflitte per reati, rispetto ai quali il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno stabilisce una pena temporanea, sono commutate nella reclusione per anni ventiquattro. 
  
  Se pero' si tratta di pene perpetue derivate dalla commutazione della pena di morte esse sono commutate nella reclusione per anni trenta. 
  
- Allo scopo di determinare se, a norma del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno, la pena da applicare sarebbe stata temporanea, si ha riguardo al fatto definito nella sentenza, indipendentemente dalle circostanze diminuenti la responsabilita' dell'imputato pel titolo IV del libro I del codice medesimo. 
+ Allo scopo di determinare se, a norma del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, la pena da applicare sarebbe stata temporanea, si ha riguardo al fatto definito nella sentenza, indipendentemente dalle circostanze diminuenti la responsabilita' dell'imputato pel titolo IV del libro I del codice medesimo. 
  
  Alla pena sostituita nei due casi suindicati e' aggiunta la vigilanza speciale dell'autorita' di pubblica sicurezza per anni tre. 
  
@@ -104,15 +104,15 @@ Le pene perpetue inflitte per reati, rispetto ai quali il [codice penale](https:
 
 ### Art. 11.
 
-Per la conversione delle pene pecuniarie in pene restrittive della liberta' personale, pronunciata anteriormente all'entrata in vigore del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno, si applicano le disposizioni degli articoli 19 e 24 del codice stesso.
+Per la conversione delle pene pecuniarie in pene restrittive della liberta' personale, pronunciata anteriormente all'entrata in vigore del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, si applicano le disposizioni degli articoli 19 e 24 del codice stesso.
 
 ### Art. 12.
 
-Le disposizioni del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno rispetto all'interdizione dai pubblici uffici, alla sospensione dall'esercizio di una professione o di un'arte e quelle concernenti la vigilanza speciale dell'autorita' di pubblica sicurezza si applicano anche a condanne pronunciate in base a leggi anteriori, se piu' favorevoli al condannato.
+Le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno rispetto all'interdizione dai pubblici uffici, alla sospensione dall'esercizio di una professione o di un'arte e quelle concernenti la vigilanza speciale dell'autorita' di pubblica sicurezza si applicano anche a condanne pronunciate in base a leggi anteriori, se piu' favorevoli al condannato.
 
 ### Art. 13.
 
-Qualora le disposizioni del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno in materia di prescrizione dell'azione penale e della condanna siano diverse da quelle stabilite nelle leggi anteriori, si applicano quelle piu' favorevoli nel caso concreto. 
+Qualora le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno in materia di prescrizione dell'azione penale e della condanna siano diverse da quelle stabilite nelle leggi anteriori, si applicano quelle piu' favorevoli nel caso concreto. 
  
  Gli atti interruttivi della prescrizione compiuti sotto l'impero della legge anteriore conservano il loro effetto ancorche' la nuova legge non li riconosca come interruttivi. 
  
@@ -120,7 +120,7 @@ Qualora le disposizioni del [codice penale](https://www.normattiva.it/uri-res/N2
 
 ### Art. 14.
 
-Per i reati commessi anteriormente all'entrata in vigore del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno non si puo' procedere d'ufficio:
+Per i reati commessi anteriormente all'entrata in vigore del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno non si puo' procedere d'ufficio:
 
 1.
 
@@ -128,9 +128,9 @@ Se per leggi del tempo del commesso reato era necessaria la querela di parte;
 
 2.
 
-Se la querela di parte, sebbene non richiesta da legge anteriore, sia necessaria secondo il [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno. 
+Se la querela di parte, sebbene non richiesta da legge anteriore, sia necessaria secondo il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno. 
  
- Se questo codice stabilisce un termine per presentare la querela, il termine decorre dall'attuazione del medesimo; ma qualora non stabilisca un termine, e vi sia un processo in corso, questo non si puo' proseguire, se entro sei mesi dall'attuazione del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regno non si presenti la querela.
+ Se questo codice stabilisce un termine per presentare la querela, il termine decorre dall'attuazione del medesimo; ma qualora non stabilisca un termine, e vi sia un processo in corso, questo non si puo' proseguire, se entro sei mesi dall'attuazione del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno non si presenti la querela.
 
 ## DISPOSIZIONI PER L'ATTUAZIONE DEL CODICE DI PROCEDURA PENALE. CAPO I. Disposizioni di esecuzione e di coordinamento
 
@@ -310,9 +310,9 @@ I termini perentori che scadono dal 22 marzo 1922 a tutto il 10 aprile 1922 sono
 
 ### Art. 38.
 
-Dal giorno dell'entrata in vigore del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) del Regno nelle nuove provincie rimarranno in esse abrogati: 
+Dal giorno dell'entrata in vigore del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) del Regno nelle nuove provincie rimarranno in esse abrogati: 
  
- 1° Il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del 27 maggio 1852, B. L. I. n. 117; 
+ 1° Il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 27 maggio 1852, B. L. I. n. 117; 
  
  2° Il regolamento di procedura penale del 23 maggio 1873, B. L.
 I. n. 119; 

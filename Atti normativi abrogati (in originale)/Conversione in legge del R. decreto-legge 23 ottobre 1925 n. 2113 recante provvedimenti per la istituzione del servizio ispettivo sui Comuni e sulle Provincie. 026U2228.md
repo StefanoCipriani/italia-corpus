@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1925, n. 2113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;2113), recante provvedimenti per la istituzione del servizio ispettivo sui Comuni e sulle Provincie. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1925, n. 2113](Istituzione%20del%20servizio%20ispettivo%20sui%20Comuni%20e%20sulle%20Provincie%20e%20modificazioni%20alle%20disposizioni%20della%20legge%20comunale%20e%20provinciale.%20025U2113.md), recante provvedimenti per la istituzione del servizio ispettivo sui Comuni e sulle Provincie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia, inserto, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

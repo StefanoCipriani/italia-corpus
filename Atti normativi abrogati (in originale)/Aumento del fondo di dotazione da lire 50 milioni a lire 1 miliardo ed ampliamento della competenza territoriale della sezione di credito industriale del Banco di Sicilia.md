@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-L'[articolo 16 del decreto, legislativo luogotenenziale 28 dicembre 1944, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;416#art_16), e' sostituito dal seguente: 
+L'[articolo 16 del decreto, legislativo luogotenenziale 28 dicembre 1944, n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md), e' sostituito dal seguente: 
  "E' istituita presso il Banco di Sicilia una sezione di credito industriale, allo scopo di promuovere l'impianto e lo sviluppo delle industrie. 
  La sezione ha un fondo di dotazione di lire 1 miliardo, costituito: quanto a lire 50 milioni, con l'utilizzo del fondo speciale di riserva gia' esistente presso la sezione stessa; quanto a lire 150 milioni, mediante utilizzo di fondi gia' in precedenza accantonati presso la sezione; quanto a lire 800 milioni, mediante l'assunzione di una partecipazione di pari importo da parte dell'azienda bancaria del Banco di Sicilia".
 

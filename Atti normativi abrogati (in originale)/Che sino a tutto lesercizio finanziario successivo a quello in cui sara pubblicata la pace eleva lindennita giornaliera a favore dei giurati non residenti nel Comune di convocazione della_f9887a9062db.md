@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'indennita' giornaliera a favore dei giurati non residenti nel Comune di convocazione della Corte di assise, e' elevata a lire dodici, qualunque sia la durata del dibattimento, ferme restando le altre disposizioni dell'[art. 1 della legge 21 luglio 1911, n. 780](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-21;780#art_1), per i giurati residenti in detto luogo.
+L'indennita' giornaliera a favore dei giurati non residenti nel Comune di convocazione della Corte di assise, e' elevata a lire dodici, qualunque sia la durata del dibattimento, ferme restando le altre disposizioni dell'[art. 1 della legge 21 luglio 1911, n. 780](Che%20apporta%20modificazioni%20allart.%20264%20dellordinamento%20giudiziario%20del%201865%20nella%20parte%20che%20riguarda%20la%20indennita%20ai%20giurati.%20011U0780.md), per i giurati residenti in detto luogo.
 
 ## Art. 2.
 

@@ -108,7 +108,7 @@ In caso di anticipata estinzione del mutuo concesso, di scioglimento o di cessaz
 
 ## Art. 11. — Agevolazioni tributarie
 
-Agli atti, ai contratti e alle formalita' relative alla concessione e alla gestione dei finanziamenti a tasso agevolato di cui alla presente legge, si applicano le disposizioni di cui al titolo IV del [decreto del Presidente della Repubblica 29 settembre 1973, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;601). 
+Agli atti, ai contratti e alle formalita' relative alla concessione e alla gestione dei finanziamenti a tasso agevolato di cui alla presente legge, si applicano le disposizioni di cui al titolo IV del [decreto del Presidente della Repubblica 29 settembre 1973, n. 601](../DPR/Disciplina%20delle%20agevolazioni%20tributarie.md). 
  Analoghe agevolazioni tributarie sono applicabili per le operazioni relative al fondo centrale di garanzia. 
  Gli onorari e i diritti spettanti ai notai, ai consigli notarili e agli archivi notarili per i contratti, gli atti e le formalita' inerenti ai finanziamenti concessi dagli istituti facoltizzati ad operare a termini della presente legge, nonche' i diritti spettanti alle cancellerie per la trascrizione dei privilegi, sono ridotti alla meta'. 
  Le modificazioni agli atti costitutivi degli istituti stessi sono registrate a tassa fissa e gli onorari e i diritti notarili sono ridotti alla meta'.

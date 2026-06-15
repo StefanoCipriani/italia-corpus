@@ -138,7 +138,7 @@ All'archivista inviato dall'Italia spetta un'indennita' di sistemazione secondo 
 ### Art. 19.
 
 Le competenze spettanti agli archivisti assunti fra i connazionali residenti all'estero sono fissate dal Ministero della difesa, su proposta dell'addetto o dell'addetto aggiunto o dell'assistente, in misura non superiore ai quattro quinti dell'importo dell'assegno di sede che spetterebbe ad un archivista inviato dall'Italia, con le eventuali maggiorazioni o le eventuali riduzioni previste per la situazione di famiglia.
- All'archivista assunto tra connazionali residenti all'estero che venga licenziato e' corrisposta un'indennita' nei casi e secondo i criteri e le modalita' di cui al [regio decreto 18 gennaio 1943, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-01-18;23).
+ All'archivista assunto tra connazionali residenti all'estero che venga licenziato e' corrisposta un'indennita' nei casi e secondo i criteri e le modalita' di cui al [regio decreto 18 gennaio 1943, n. 23](Disciplina%20dellassunzione%20e%20del%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20le%20Regie%20rappresentanze%20ed%20i%20Regi%20uffici%20allestero.%20043U0023.md).
 
 ### Art. 20.
 
@@ -165,7 +165,7 @@ CAPO IV
 ### Art. 24.
 
 Nei casi in cui gli uffici degli addetti, degli addetti aggiunti e degli assistenti non siano sistemati nei locali delle Rappresentanze diplomatiche, il Ministero della difesa, di intesa con quello del tesoro, puo' assumere in servizio presso gli uffici stessi il personale occorrente per lavori precari (fattorini e uscieri).
- Al personale di cui al precedente comma viene attribuito il medesimo trattamento economico che la locale Rappresentanza diplomatica attua nei confronti di analogo personale ai sensi del [regio decreto 18 gennaio 1943, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-01-18;23).
+ Al personale di cui al precedente comma viene attribuito il medesimo trattamento economico che la locale Rappresentanza diplomatica attua nei confronti di analogo personale ai sensi del [regio decreto 18 gennaio 1943, n. 23](Disciplina%20dellassunzione%20e%20del%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20le%20Regie%20rappresentanze%20ed%20i%20Regi%20uffici%20allestero.%20043U0023.md).
 
 ### Art. 25.
 
@@ -220,7 +220,7 @@ La presente legge ha effetto dal 1° luglio
 1954.
 
 Per il periodo dal 1° luglio 1951 al 30 giugno 1954 sono convalidati i coefficienti di maggiorazione o di riduzione ricavati, in via proporzionale, da quelli stabiliti per il personale diplomatico e consolare in base alla [legge 4 gennaio 1951, n. 13](Trattamento%20economico%20del%20personale%20diplomatico-consolare%20in%20servizio%20allestero.md), nella stessa sede degli addetti, addetti aggiunti e assistenti. 
- Per il periodo dal 1° luglio 1954 alla data di entrata in vigore della presente legge sono convalidati, per il personale celibe o vedovo senza prole gli assegni corrisposti in base al [decreto legislativo 7 maggio 1948, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1154).
+ Per il periodo dal 1° luglio 1954 alla data di entrata in vigore della presente legge sono convalidati, per il personale celibe o vedovo senza prole gli assegni corrisposti in base al [decreto legislativo 7 maggio 1948, n. 1154](../Decreti%20Legislativi/Trattamento%20economico%20da%20corrispondere%20agli%20addetti%20addetti%20aggiunti%20assistenti%20e%20archivisti%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20in%20servizio%20allestero.md).
 
 ### Art. 35.
 

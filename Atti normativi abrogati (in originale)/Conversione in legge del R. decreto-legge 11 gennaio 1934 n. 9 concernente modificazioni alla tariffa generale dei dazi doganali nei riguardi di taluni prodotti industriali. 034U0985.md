@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-11;9), che porta modificazioni alla tariffa generale dei dazi doganali nei riguardi di taluni prodotti industriali. 
+ E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 9](Modificazioni%20alla%20tariffa%20generale%20dei%20dazi%20doganali%20nei%20riguardi%20di%20taluni%20prodotti%20industriali.%20034U0009.md), che porta modificazioni alla tariffa generale dei dazi doganali nei riguardi di taluni prodotti industriali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

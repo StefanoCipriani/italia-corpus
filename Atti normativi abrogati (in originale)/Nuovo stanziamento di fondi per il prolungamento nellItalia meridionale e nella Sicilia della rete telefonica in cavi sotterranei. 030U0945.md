@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Per completare l'impianto della rete telefonica interurbana gestita dallo Stato mediante cavi sotterranei da estendere all'Italia meridionale e alla Sicilia, l'assegnazione straordinaria concessa con il [R. decreto-legge n. 897 del 28 maggio 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-05-28;897), convertito in [legge n. 562 del 18 marzo 1926](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' aumentata di 220.000.000 di lire ripartiti come appresso: 
+ Per completare l'impianto della rete telefonica interurbana gestita dallo Stato mediante cavi sotterranei da estendere all'Italia meridionale e alla Sicilia, l'assegnazione straordinaria concessa con il [R. decreto-legge n. 897 del 28 maggio 1925](Assegnazione%20straordinaria%20di%20100%20milioni%20ad%20anno%20e%20per%20sei%20anni%20per%20provvedere%20alla%20sistemazione%20e%20al%20completamento%20della%20rete%20telefonica%20interurbana%20gestita%20dallo%20Stato.%20025U0897.md), convertito in [legge n. 562 del 18 marzo 1926](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' aumentata di 220.000.000 di lire ripartiti come appresso: 
  
 
  Esercizio 1930-31 . . L. 24.000.000

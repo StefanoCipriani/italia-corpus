@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il Governo del Re e' autorizzato a fare inscrivere sul Gran Libro del Debito pubblico dello Stato, in aumento al consolidato 5 per cento, una rendita di lire seimila (6000), con godimento dal 1° gennaio 1870, a titolo di dotazione inerente al maggiorasco creato a favore del generale barone Antonio Bonfanti dal Decreto del 4 ottobre 1810, e da lui passato nel dottore Antonio Tarchini-Bonfanti, nipote e figlio adottivo del prenominato barone, sotto la riserva di cui nell'ultimo capoverso dell'[articolo 24 del Regio Decreto del 30 novembre 1865, n. 2606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-11-30;2606#art_24), e salva la iscrizione della ipoteca in ordine al successivo articolo 25 del Decreto medesimo.
+Il Governo del Re e' autorizzato a fare inscrivere sul Gran Libro del Debito pubblico dello Stato, in aumento al consolidato 5 per cento, una rendita di lire seimila (6000), con godimento dal 1° gennaio 1870, a titolo di dotazione inerente al maggiorasco creato a favore del generale barone Antonio Bonfanti dal Decreto del 4 ottobre 1810, e da lui passato nel dottore Antonio Tarchini-Bonfanti, nipote e figlio adottivo del prenominato barone, sotto la riserva di cui nell'ultimo capoverso dell'[articolo 24 del Regio Decreto del 30 novembre 1865, n. 2606](contenente%20disposizioni%20transitorie%20per%20lattuazione%20del%20Codice%20civile%20del%20Regno%20dItalia.%20065U2606.md), e salva la iscrizione della ipoteca in ordine al successivo articolo 25 del Decreto medesimo.
 
 ## Art. 2.
 

@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 ottobre 1931, n. 1405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-22;1405), concernente la temporanea importazione dell'olio di oliva lampante. 
+ E' convertito in legge il [R. decreto-legge 22 ottobre 1931, n. 1405](Nuova%20concessione%20di%20temporanea%20importazione%20relativa%20allolio%20di%20oliva%20lampante.%20031U1405.md), concernente la temporanea importazione dell'olio di oliva lampante. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

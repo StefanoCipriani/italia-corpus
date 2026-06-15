@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 dicembre 1936, n. 2467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-12-19;2467), che conferisce un diritto di preferenza nella concessione delle terre dell'Africa Orientale italiana a coloro che hanno ivi partecipato alle operazioni militari in qualita' di combattenti. 
+ E' convertito in legge il [R. decreto-legge 19 dicembre 1936, n. 2467](Diritto%20di%20preferenza%20nella%20concessione%20delle%20terre%20dellAfrica%20Orientale%20Italiana%20a%20coloro%20che%20hanno%20ivi%20partecipato%20alle%20operazioni%20militari%20in%20qualita%20di%20combattenti.%20036U2467.md), che conferisce un diritto di preferenza nella concessione delle terre dell'Africa Orientale italiana a coloro che hanno ivi partecipato alle operazioni militari in qualita' di combattenti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

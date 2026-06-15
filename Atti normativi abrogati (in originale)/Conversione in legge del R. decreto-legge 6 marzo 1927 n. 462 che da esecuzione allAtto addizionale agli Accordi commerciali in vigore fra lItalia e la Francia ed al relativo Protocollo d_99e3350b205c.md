@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 marzo 1927, n. 462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-06;462), che da' esecuzione all'Atto addizionale agli Accordi commerciali in vigore fra il Regno d'Italia e la Repubblica francese e al relativo Protocollo di firma, sottoscritti in Roma il 29 maggio 1926, nonche' alle note scambiate fra i rappresentanti degli Stati anzidetti. 
+ E' convertito in legge il [R. decreto-legge 6 marzo 1927, n. 462](Esecuzione%20dellAtto%20addizionale%20agli%20Accordi%20commerciali%20in%20vigore%20fra%20il%20Regno%20dItalia%20e%20la%20Repubblica%20Francese%20e%20del%20relativo%20Protocollo%20di%20firma%20sottoscritti%20in%20Roma%20il%2029%20maggio%201926%20_6360d3624b3f.md), che da' esecuzione all'Atto addizionale agli Accordi commerciali in vigore fra il Regno d'Italia e la Repubblica francese e al relativo Protocollo di firma, sottoscritti in Roma il 29 maggio 1926, nonche' alle note scambiate fra i rappresentanti degli Stati anzidetti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

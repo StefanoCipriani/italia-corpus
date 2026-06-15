@@ -20,14 +20,14 @@ Le disposizioni contenute nel [decreto legislativo 5 gennaio 1948, n. 36](Nuove%
 
 ## Art. 2.
 
-L'[art. 15 del decreto del Presidente della Repubblica 19 agosto 1954, n. 968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-08-19;968#art_15), e' modificato come segue:
+L'[art. 15 del decreto del Presidente della Repubblica 19 agosto 1954, n. 968](../DPR/Decentramento%20dei%20servizi%20del%20Ministero%20dellinterno.md), e' modificato come segue:
  "Nello stato di previsione della spesa del Ministero dell'interno e' stanziato annualmente - sino all'esercizio finanziario 1961-62 incluso - un fondo per l'esecuzione del [decreto legislativo 5 gennaio 1948, n. 36](Nuove%20norme%20sulla%20riscossione%20delle%20rette%20di%20spedalita.md), e successive proroghe.
  Il Ministero dell'interno dispone il riparto del fondo stesso tra le Province della Repubblica, in relazione alle necessita' del servizio.
  Le anticipazioni sulle somme assegnate a ciascuna Provincia sono effettuate dal prefetto in base ad elenchi di spedalita' liquide ed esigibili a norma delle disposizioni in vigore".
 
 ## Art. 3.
 
-L'[art. 16 del decreto del Presidente della Repubblica 19 agosto 1954, n. 968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-08-19;968#art_16), e' modificato come segue: 
+L'[art. 16 del decreto del Presidente della Repubblica 19 agosto 1954, n. 968](../DPR/Decentramento%20dei%20servizi%20del%20Ministero%20dellinterno.md), e' modificato come segue: 
  "I prefetti trasmettono di volta in volta al Ministero dell'interno le schede degli addebiti relative alle spedalita' consumate dagli indigenti presso i nosocomi delle rispettive Province e risultanti dalle schede stesse. 
  Il Ministero, entro il 31 luglio di ciascun anno, notifica alle Amministrazioni comunali ed ai rispettivi esattori, tramite le competenti Prefetture, gli importi di cui alle dette schede. 
  I prefetti, entro quindici giorni dalla notifica indicata al comma precedente, sono tenuti a comunicare alle intendenze di finanza l'ammontare complessivo dovuto dai singoli Comuni compresi nelle rispettive Province. 

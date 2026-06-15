@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 maggio 1934, n. 851](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-05-14;851), concernente provvidenze a favore degli essiccatoi cooperativi di bozzoli. 
+ E' convertito in legge il [R. decreto-legge 14 maggio 1934, n. 851](Provvidenze%20a%20favore%20degli%20essiccatoi%20cooperativi%20di%20bozzoli.%20034U0851.md), concernente provvidenze a favore degli essiccatoi cooperativi di bozzoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -24,9 +24,9 @@ VITTORIO EMANUELE III
  
  Sono convertiti in legge i seguenti [Regi decreti-legge: 
  
- 20 marzo 1930, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-20;141), riguardante l'abolizione delle cinte daziarie e dei dazi interni comunali e l'istituzione di imposte di consumo; 
+ 20 marzo 1930, n. 141](Abolizione%20delle%20cinte%20daziarie%20e%20dei%20dazi%20interni%20comunali%20istituzione%20di%20imposte%20di%20consumo.%20030U0141.md), riguardante l'abolizione delle cinte daziarie e dei dazi interni comunali e l'istituzione di imposte di consumo; 
  
- 30 aprile 1930, n. 432, recante modificazioni al [R. decreto-legge 20 marzo 1930, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-20;141), istitutivo delle imposte di consumo; 
+ 30 aprile 1930, n. 432, recante modificazioni al [R. decreto-legge 20 marzo 1930, n. 141](Abolizione%20delle%20cinte%20daziarie%20e%20dei%20dazi%20interni%20comunali%20istituzione%20di%20imposte%20di%20consumo.%20030U0141.md), istitutivo delle imposte di consumo; 
  
  1° maggio 1930, n. 466, recante provvedimenti in materia di dazi di consumo per i comuni di Fiume e della riviera del Carnaro compresi nella zona franca. 
  

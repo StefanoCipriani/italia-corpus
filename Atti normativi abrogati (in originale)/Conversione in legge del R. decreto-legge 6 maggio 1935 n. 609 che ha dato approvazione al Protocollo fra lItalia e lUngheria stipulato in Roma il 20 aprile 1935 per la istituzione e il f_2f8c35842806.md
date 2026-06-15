@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge n. 609 del 6 maggio 1935](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-06;609)-XIII, che ha dato approvazione al Protocollo fra l'Italia e l'Ungheria stipulato in Roma il 20 aprile 1935 per la istituzione e il funzionamento di un Ufficio doganale ungherese nel porto di Fiume. 
+ E' convertito in legge il [R. decreto-legge n. 609 del 6 maggio 1935](Approvazione%20del%20Protocollo%20fra%20lItalia%20e%20lUngheria%20stipulato%20in%20Roma%20il%2020%20aprile%201935%20per%20la%20istituzione%20e%20il%20funzionamento%20di%20un%20Ufficio%20doganale%20ungherese%20nel%20porto%20di%20Fiume.%20035U0609.md)-XIII, che ha dato approvazione al Protocollo fra l'Italia e l'Ungheria stipulato in Roma il 20 aprile 1935 per la istituzione e il funzionamento di un Ufficio doganale ungherese nel porto di Fiume. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

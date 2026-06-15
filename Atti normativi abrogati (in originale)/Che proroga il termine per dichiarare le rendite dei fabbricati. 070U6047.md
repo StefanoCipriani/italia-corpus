@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto il Regolamento approvato con [Regio Decreto 28 agosto 1870, n. 5832](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-08-28;5832), per l'applicazione dell'imposta sui fabbricati;
+Visto il Regolamento approvato con [Regio Decreto 28 agosto 1870, n. 5832](Che%20approva%20il%20Regolamento%20per%20lapplicazione%20dellimposta%20sui%20fabbricati.%20070U5832.md), per l'applicazione dell'imposta sui fabbricati;
 
 Visto il Ministeriale Decreto 10 settembre 1870, col quale furono stabiliti i termini utili per le dichiarazioni dei possessori;
 
@@ -18,7 +18,7 @@ Visto il Ministeriale Decreto del 14 ottobre ultimo, n. 5945, col quale furono p
 
 ## Articolo unico.
 
-Le dichiarazioni dei possessori di fabbricati, di cui all'articolo 23 del Regolamento approvato con [Regio Decreto 28 agosto 1870, n. 5832](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-08-28;5832), potranno essere fatte sino a tutto il quindici dicembre prossimo venturo. 
+Le dichiarazioni dei possessori di fabbricati, di cui all'articolo 23 del Regolamento approvato con [Regio Decreto 28 agosto 1870, n. 5832](Che%20approva%20il%20Regolamento%20per%20lapplicazione%20dellimposta%20sui%20fabbricati.%20070U5832.md), potranno essere fatte sino a tutto il quindici dicembre prossimo venturo. 
  
  Il Direttore generale delle Imposte dirette e del Catasto e' incaricato della esecuzione del presente Decreto, che sara' registrato alla Corte dei conti ed inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia. 
  

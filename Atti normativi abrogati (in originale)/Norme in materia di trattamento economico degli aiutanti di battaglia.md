@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 Lo stipendio degli aiutanti di battaglia dell'Esercito, dell'Aeronautica e del Corpo della Guardia di finanza e' fissato nella misura annua lorda iniziale di lire un milione e cinquecentomila.
- L'assegno personale di cui all'[articolo 11 del decreto del Presidente della Repubblica 5 giugno 1965, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-05;749#art_11), e' determinato, per gli aiutanti di battaglia, tenuto conto del compenso mensile per lavoro straordinario dovuto, in ragione di quindici ore, al personale civile avente qualifica di archivista capo.
+ L'assegno personale di cui all'[articolo 11 del decreto del Presidente della Repubblica 5 giugno 1965, n. 749](../DPR/Conglobamento%20dellassegno%20mensile%20e%20competenze%20analoghe%20negli%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20statale%20in%20applicazione%20dellart.%203%20della%20legge%205%20dicembre%201964%20n.%201268.md), e' determinato, per gli aiutanti di battaglia, tenuto conto del compenso mensile per lavoro straordinario dovuto, in ragione di quindici ore, al personale civile avente qualifica di archivista capo.
 
 ## Art. 2.
 

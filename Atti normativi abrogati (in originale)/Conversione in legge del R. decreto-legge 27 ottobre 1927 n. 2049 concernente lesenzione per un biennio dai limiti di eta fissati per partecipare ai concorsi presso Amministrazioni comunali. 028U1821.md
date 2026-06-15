@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2049](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-27;2049), concernente l'esenzione per un biennio dai limiti di eta' fissati per partecipare ai concorsi presso Amministrazioni comunali, nei riguardi degli impiegati e salariati comunali dispensati dal servizio per esuberanza di personale in virtu' dei provvedimenti adottati in base al [R. decreto-legge 17 marzo 1927, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-17;383). 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2049](Esenzione%20per%20un%20biennio%20dai%20limiti%20di%20eta%20fissati%20per%20partecipare%20ai%20concorsi%20presso%20Amministrazioni%20comunali%20nei%20riguardi%20degli%20impiegati%20e%20salariati%20comunali%20dispensati%20dal%20servizio%20pe_2cd256d22935.md), concernente l'esenzione per un biennio dai limiti di eta' fissati per partecipare ai concorsi presso Amministrazioni comunali, nei riguardi degli impiegati e salariati comunali dispensati dal servizio per esuberanza di personale in virtu' dei provvedimenti adottati in base al [R. decreto-legge 17 marzo 1927, n. 383](Facolta%20al%20Governo%20del%20Re%20di%20provvedere%20ad%20una%20revisione%20generale%20delle%20circoscrizioni%20comunali.%20027U0383.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

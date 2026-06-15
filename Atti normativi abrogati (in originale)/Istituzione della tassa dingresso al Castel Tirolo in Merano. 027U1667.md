@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduta la [legge 27 maggio 1875, n. 2554](Sulla%20tassa%20di%20entrata%20nei%20musei%20nelle%20gallerie%20e%20negli%20scavi%20archeologici.%20075U2554.md) (serie 2ª);
 
-Veduto il Nostro [decreto-legge 15 luglio 1923, n. 2213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-07-15;2213), convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Veduto il Nostro [decreto-legge 15 luglio 1923, n. 2213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-07-15;2213), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 

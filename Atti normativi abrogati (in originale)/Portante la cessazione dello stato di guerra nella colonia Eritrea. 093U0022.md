@@ -34,7 +34,7 @@ Lo stato di guerra ristabilito dal governatore nelle zone di Asmara e di Keren c
 
 ## Art. 2.
 
-Resteranno in pieno vigore i tribunali ordinari di guerra istituiti all'Asmara ed a Keren, a norma del § 540 e seguenti del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare.
+Resteranno in pieno vigore i tribunali ordinari di guerra istituiti all'Asmara ed a Keren, a norma del § 540 e seguenti del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare.
 
 ## Art. 3.
 

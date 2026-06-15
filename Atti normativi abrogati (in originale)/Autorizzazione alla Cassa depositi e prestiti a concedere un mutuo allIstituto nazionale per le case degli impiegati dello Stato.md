@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [testo unico delle disposizioni sull'edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380) popolare ed economica, approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165) e successive modificazioni;
+Visto il [testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165) e successive modificazioni;
 
-Visto il [regio decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), che approva il testo unico delle disposizioni riguardanti la Cassa depositi e prestiti e le successive modificazioni;
+Visto il [regio decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), che approva il testo unico delle disposizioni riguardanti la Cassa depositi e prestiti e le successive modificazioni;
 
 Ritenuto che, in attesa che si possano realizzare i benefici derivanti dalle provvidenze relative all'adeguamento delle pigioni, intese a mettere in grado lo Istituto nazionale per le case degli impiegati dello Stato di conseguire l'equilibrio del proprio bilancio turbato a seguito delle vicende belliche, si rende indispensabile fornire all'Istituto stesso ulteriori mezzi per assicurare il soddisfacimento delle passivita' ed il normale andamento della gestione;
 
@@ -40,7 +40,7 @@ L'ammortamento decorrera' dal 1° gennaio successivo all'integrale somministrazi
 ## Art. 4.
 
 Lo Stato garantisce l'ammortamento del mutuo per capitale ed interessi.
- Ove l'Istituto nazionale per le case degli impiegati dello Stato non sia in grado di soddisfare il suo debito alle scadenze stabilite, la Cassa depositi e prestiti, senza l'obbligo di preventiva escussione del debitore, dara' comunicazione dell'inadempienza al Ministero del tesoro, che provvedera' ad eseguire il pagamento delle rate scadute, aumentate degli interessi nella misura stabilita, dall'[art. 4 della legge 11 aprile 1938, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-04-11;498#art_4), rimanendo sostituito alla Cassa depositi e prestiti in tutte le ragioni di diritto nei confronti dell'Istituto.
+ Ove l'Istituto nazionale per le case degli impiegati dello Stato non sia in grado di soddisfare il suo debito alle scadenze stabilite, la Cassa depositi e prestiti, senza l'obbligo di preventiva escussione del debitore, dara' comunicazione dell'inadempienza al Ministero del tesoro, che provvedera' ad eseguire il pagamento delle rate scadute, aumentate degli interessi nella misura stabilita, dall'[art. 4 della legge 11 aprile 1938, n. 498](Modificazioni%20ed%20aggiunte%20alle%20norme%20vigenti%20in%20materia%20di%20mutui%20della%20Cassa%20depositi%20e%20prestiti.%20038U0498.md), rimanendo sostituito alla Cassa depositi e prestiti in tutte le ragioni di diritto nei confronti dell'Istituto.
  In seguito agli eventuali esborsi che saranno effettuati in applicazione delle disposizioni di cui ai precedenti commi, sara' inoltre iscritta ipoteca legale a favore dello Stato su uno o su alcuni degli stabili di proprieta' dell'Istituto nazionale per le case degli impiegati dello Stato che offrano adeguata garanzia.
  Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, alle occorrenti variazioni di bilancio.
  Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale.

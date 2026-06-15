@@ -60,7 +60,7 @@ Le assicurazioni elencate nel comma 1 dell'articolo 1 si applicano con le partic
                         b)
                             assicurazione contro le malattie. La prestazione sanitaria spetta ai lavoratori assicurati e ai familiari a carico ancorche' residenti o dimoranti in Italia, secondo le norme della [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), e dei relativi decreti delegati e successive modifiche ed integrazioni;
                         c)
-                            assicurazione di maternita'. L'indennita' economica di maternita' e' dovuta secondo la legislazione nazionale per i periodi previsti dall'[articolo 4 della legge 30 dicembre 1971, n. 1204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-30;1204#art_4), dietro presentazione al datore di lavoro e all'istituto nazionale della previdenza sociale (INPS) del certificato di gravidanza rilasciato e convalidato da un medico di fiducia della locale rappresentanza diplomatica o consolare.
+                            assicurazione di maternita'. L'indennita' economica di maternita' e' dovuta secondo la legislazione nazionale per i periodi previsti dall'[articolo 4 della legge 30 dicembre 1971, n. 1204](Tutela%20delle%20lavoratrici%20madri.md), dietro presentazione al datore di lavoro e all'istituto nazionale della previdenza sociale (INPS) del certificato di gravidanza rilasciato e convalidato da un medico di fiducia della locale rappresentanza diplomatica o consolare.
 
 2.
 
@@ -76,7 +76,7 @@ I datori di lavoro sono tenuti ad anticipare gli oneri per l'assistenza sanitari
 
 5.
 
-I datori di lavoro possono richiedere il rimborso delle somme anticipate per l'assistenza sanitaria di cui al comma 4 con le procedure di cui al [decreto del Presidente della Repubblica 31 luglio 1980, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;618).
+I datori di lavoro possono richiedere il rimborso delle somme anticipate per l'assistenza sanitaria di cui al comma 4 con le procedure di cui al [decreto del Presidente della Repubblica 31 luglio 1980, n. 618](../DPR/Assistenza%20sanitaria%20ai%20cittadini%20italiani%20allestero%20art.%2037%20primo%20comma%20lettere%20a%20e%20b%20della%20legge%20n.%20833%20del%201978.md).
 
 6.
 
@@ -110,12 +110,12 @@ L'aliquota complessiva a carico del datore di lavoro e' ridotta di 10 punti e l'
                         b)
                             per l'assicurazione contro le malattie e per la maternita', nelle misure previste dalla legislazione nazionale. Si applicano a tutti i datori di lavoro le riduzioni contributive di cui all'articolo 1, comma 1, lettere a), b),
                         c)
-                            e d), del [decreto-legge 3 luglio 1986, n. 328](Proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20e%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno_4.md), convertito, con modificazioni, dalla [legge 31 luglio 1986, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-31;440). Nei confronti dei datori di lavoro che apprestino presidi sanitari a favore dei dipendenti e assicurino comunque a proprie spese l'assistenza sanitaria nel Paese estero, ovvero assicurino i dipendenti contro le malattie in regime obbligatorio in virtu' della legislazione del Paese estero, puo' essere ridotto, tenuto conto delle prestazioni, il contributo per l'assistenza sanitaria con decreto del Ministro del lavoro e della previdenza sociale, d'intesa con il Ministro della sanita'; 
+                            e d), del [decreto-legge 3 luglio 1986, n. 328](Proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20e%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno_4.md), convertito, con modificazioni, dalla [legge 31 luglio 1986, n. 440](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20luglio%201986%20n.%20328%20recante%20proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20e%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno.md). Nei confronti dei datori di lavoro che apprestino presidi sanitari a favore dei dipendenti e assicurino comunque a proprie spese l'assistenza sanitaria nel Paese estero, ovvero assicurino i dipendenti contro le malattie in regime obbligatorio in virtu' della legislazione del Paese estero, puo' essere ridotto, tenuto conto delle prestazioni, il contributo per l'assistenza sanitaria con decreto del Ministro del lavoro e della previdenza sociale, d'intesa con il Ministro della sanita'; 
  c) per l'assicurazione contro gli infortuni sul lavoro e le malattie professionali, nelle misure previste da una tariffa speciale approvata con decreto del Ministro del lavoro e della previdenza sociale, su delibera dell'INAIL. In attesa dell'emanazione di detta tariffa speciale, i premi sono determinati in base ai valori medi dei sottogruppi previsti dalla tariffa ordinaria. Qualora nello Stato estero sia obbligatoria l'assicurazione contro gli infortuni e le malattie professionali e il datore di lavoro dimostri di aver ottemperato ai relativi obblighi, i predetti valori possono essere ridotti, in misura corrispondente, con decreto del Ministro del lavoro e della previdenza sociale.
 
 3.
 
-Per tutto quanto non disposto dal presente decreto trovano applicazione le norme contenute nel testo unico approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-30;1124), e successive integrazioni e modifiche.
+Per tutto quanto non disposto dal presente decreto trovano applicazione le norme contenute nel testo unico approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), e successive integrazioni e modifiche.
 
 ## Art. 4.
 

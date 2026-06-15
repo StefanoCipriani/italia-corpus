@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il primo ed il [secondo comma dell'art. 1 della legge 2 febbraio 1939, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-02-02;374#art_1-com2), sono sostituiti dai seguenti: «Ogni stampatore ha l'obbligo di consegnare, per qualsivoglia suo stampato o pubblicazione, quattro esemplari alla Prefettura della provincia nella quale ha sede l'officina grafica ed un esemplare alla locale Procura del Regno. 
+Il primo ed il [secondo comma dell'art. 1 della legge 2 febbraio 1939, n. 374](Norme%20per%20la%20consegna%20obbligatoria%20di%20esemplari%20degli%20stampati%20e%20delle%20pubblicazioni.%20039U0374.md), sono sostituiti dai seguenti: «Ogni stampatore ha l'obbligo di consegnare, per qualsivoglia suo stampato o pubblicazione, quattro esemplari alla Prefettura della provincia nella quale ha sede l'officina grafica ed un esemplare alla locale Procura del Regno. 
  L'obbligo comprende anche ogni successiva edizione o ristampa con qualsiasi modificazione nel contenuto o nella forma. Per ogni ristampa identica alla pubblicazione precedente basta la consegna di un esemplare alla Prefettura».
 
 ## Art. 2.
@@ -49,7 +49,7 @@ Spetta al Prefetto di vigilare sulla rigorosa osservanza delle disposizioni rela
 
 ## Art. 8.
 
-Restano in vigore, se non incompatibili con le disposizioni del presente decreto, tutte le altre norme della [legge 2 febbraio 1939, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-02-02;374), nonche' quelle del regolamento per l'attuazione della stessa legge, appronto con [R. decreto 12 dicembre 1940, n. 2052](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-12-12;2052). 
+Restano in vigore, se non incompatibili con le disposizioni del presente decreto, tutte le altre norme della [legge 2 febbraio 1939, n. 374](Norme%20per%20la%20consegna%20obbligatoria%20di%20esemplari%20degli%20stampati%20e%20delle%20pubblicazioni.%20039U0374.md), nonche' quelle del regolamento per l'attuazione della stessa legge, appronto con [R. decreto 12 dicembre 1940, n. 2052](Approvazione%20del%20regolamento%20per%20lattuazione%20della%20legge%202%20febbraio%201939-XVIII%20n.%20374%20recante%20norme%20per%20la%20consegna%20obbligatoria%20di%20esemplari%20degli%20stampati%20e%20delle%20pubblicazioni.%20040U2052.md). 
  Il presente decreto entra in vigore decorsi trenta giorni dalla data di pubblicazione nella Gazzetta Ufficiale del Regno. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  Dato a Roma, addi' 31 agosto 1945 

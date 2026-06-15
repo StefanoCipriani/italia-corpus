@@ -12,7 +12,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE 
  
- Veduta la [Legge 4 aprile 1873, n. 1342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-04-04;1342); 
+ Veduta la [Legge 4 aprile 1873, n. 1342](Che%20accorda%20la%20facolta%20alla%20Banca%20Nazionale%20Toscana%20e%20alla%20Banca%20Toscana%20di%20credito%20per%20le%20industrie%20ed%20il%20commercio%20dItalia%20di%20emettere%20previa%20autorizzazione%20governativa%20biglietti%20da%20lir_aade80d22825.md); 
  
  Veduto il Decreto Reale 16 aprile 1873, n. 1343; 
  

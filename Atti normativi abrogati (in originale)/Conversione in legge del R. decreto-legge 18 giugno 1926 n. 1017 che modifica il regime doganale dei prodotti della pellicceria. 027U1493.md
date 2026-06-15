@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge del 18 giugno 1926, n. 1017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-06-18;1017), che modifica il regime doganale dei prodotti della pellicceria. 
+ E' convertito in legge il [R. decreto-legge del 18 giugno 1926, n. 1017](Modificazioni%20al%20regime%20doganale%20dei%20prodotti%20della%20pellicceria.%20026U1017.md), che modifica il regime doganale dei prodotti della pellicceria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

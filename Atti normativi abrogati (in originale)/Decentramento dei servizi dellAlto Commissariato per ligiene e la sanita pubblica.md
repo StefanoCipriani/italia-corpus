@@ -14,7 +14,7 @@ Viste le [leggi 11 marzo 1953, n. 150, e 18 giugno 1954, n. 3-13](https://www.no
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Udito il parere della Commissione consultiva istituita con l'[art. 2 della legge 11 marzo 1953, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;150#art_2);
+Udito il parere della Commissione consultiva istituita con l'[art. 2 della legge 11 marzo 1953, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md);
 
 Udito il parere della Corte dei conti a sezioni riunite;
 
@@ -177,7 +177,7 @@ Il potere del prefetto di concedere la speciale autorizzazione di cui al [primo 
 
 ## Art. 25.
 
-E' attribuito al sindaco, che provvede sentito Ordine dei medici o dei veterinari e l'ufficiale sanitario, o il veterinario comunale, il potere di accordare licenze per la pubblicita' a mezzo della stampa, o in qualsiasi altro modo, concernenti ambulatori, ai sensi del [primo comma dell'art. 201 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201-com1), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), modificato con [legge 1 maggio 1941, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-05-01;422).
+E' attribuito al sindaco, che provvede sentito Ordine dei medici o dei veterinari e l'ufficiale sanitario, o il veterinario comunale, il potere di accordare licenze per la pubblicita' a mezzo della stampa, o in qualsiasi altro modo, concernenti ambulatori, ai sensi del [primo comma dell'art. 201 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201-com1), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), modificato con [legge 1 maggio 1941, n. 422](Modificazioni%20ed%20aggiunte%20ad%20alcuni%20articoli%20del%20testo%20unico%20delle%20leggi%20sanitarie%20approvato%20con%20R.%20decreto%2027%20luglio%201934-XII%20n.%201265.%20041U0422.md).
 
 ## Art. 26.
 
@@ -207,7 +207,7 @@ L'[art. 263 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri
 ## Art. 29.
 
 I quattro quinti del fondo annualmente stanziato nel bilancio dell'Alto Commissariato per l'igiene e la sanita' pubblica, per il rimborso delle spese di cura di cui all'[art. 303 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_303), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), sono ripartiti, nei primi due mesi dell'esercizio finanziario, fra le Prefetture che provvedono alla liquidazione delle rette di spedalita' ed al rimborso delle relative contabilita'.
- Il controllo preventivo sugli ordinativi di pagamento emessi dai prefetti sara' effettuato dagli Uffici speciali di ragioneria e dagli Uffici distaccati della Corte dei conti presso i Provveditorati regionali alle opere pubbliche, secondo le rispettive competenze e nei modi previsti dai [decreti legislativi 18 gennaio 1945, n. 16, 14 giugno 1945, n. 355 e 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-06-27;37), ratificato, con modificazioni, con la [legge 3 febbraio 1951, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-02-03;164), fino a quando agli Uffici decentrati di controllo non sara' data una definitiva sistemazione nel quadro del decentramento burocratico.
+ Il controllo preventivo sugli ordinativi di pagamento emessi dai prefetti sara' effettuato dagli Uffici speciali di ragioneria e dagli Uffici distaccati della Corte dei conti presso i Provveditorati regionali alle opere pubbliche, secondo le rispettive competenze e nei modi previsti dai [decreti legislativi 18 gennaio 1945, n. 16, 14 giugno 1945, n. 355 e 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-06-27;37), ratificato, con modificazioni, con la [legge 3 febbraio 1951, n. 164](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20dei%20decreti%20legislativi%2027%20giugno%201946%20n.%2037%20e%2025%20luglio%201947%20n.%20937%20concernenti%20norme%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Provveditorati%20regionali%20alle%20_2629b2dc4357.md), fino a quando agli Uffici decentrati di controllo non sara' data una definitiva sistemazione nel quadro del decentramento burocratico.
 
 ## Art. 30.
 
@@ -282,7 +282,7 @@ L'[art. 24 del regio decreto 9 gennaio 1927, n. 147](https://www.normattiva.it/u
 
 ## Art. 40.
 
-All'[art. 1 della legge 25 luglio 1952, n. 1009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;1009#art_1), dopo l'ultimo comma, sono aggiunti i seguenti commi:
+All'[art. 1 della legge 25 luglio 1952, n. 1009](Norme%20per%20la%20fecondazione%20artificiale%20degli%20animali.md), dopo l'ultimo comma, sono aggiunti i seguenti commi:
  "La istituzione e la attivazione di sottocentri per la fecondazione artificiale degli animali e la pratica di tale fecondazione nelle stalle sono subordinate ad autorizzazioni del prefetto, che provvede sentita, ai fini zootecnici, la Commissione provinciale per l'approvazione.
  Per la pratica di detta fecondazione nelle stalle, nella domanda di autorizzazione, da presentarsi al prefetto, devono essere indicati:
  a) la zona in cui si intende praticare la fecondazione artificiale;
@@ -399,7 +399,7 @@ Per le autorizzazioni amministrative previste dagli articoli 23, 24, 25, 33 e 37
 
 ## Art. 56.
 
-Per il periodo di efficacia della [legge 10 marzo 1955, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-03-10;97), sono trasferiti al prefetto i poteri demandati all'Alto Commissario per l'igiene e la sanita' pubblica dall'art. 5, primo comma, lettera d) e terzo comma lettera b); dall'art. 7, primo comma, lettera c) e dall'art. 8, primo comma, lettera b) della legge medesima.
+Per il periodo di efficacia della [legge 10 marzo 1955, n. 97](Disposizioni%20transitorie%20per%20i%20concorsi%20a%20posti%20di%20sanitari%20e%20farmacisti%20ospedalieri.md), sono trasferiti al prefetto i poteri demandati all'Alto Commissario per l'igiene e la sanita' pubblica dall'art. 5, primo comma, lettera d) e terzo comma lettera b); dall'art. 7, primo comma, lettera c) e dall'art. 8, primo comma, lettera b) della legge medesima.
 
 ## Art. 57.
 

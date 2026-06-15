@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Il posto di ispettore superiore delle gabelle di 2ª classe, creato con [R. decreto 1° marzo 1914, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-03-01;225), nei ruoli organici di cui nella tabella D, approvata con la [legge 5 giugno 1913, n. 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-05;541), e' soppresso a decorrere dal 1° luglio 1915. 
+ Il posto di ispettore superiore delle gabelle di 2ª classe, creato con [R. decreto 1° marzo 1914, n. 225](Riguardante%20laumento%20di%20posti%20nei%20ruoli%20organici%20dellAmministrazione%20delle%20gabelle%20e%20delle%20privative.%20014U0225.md), nei ruoli organici di cui nella tabella D, approvata con la [legge 5 giugno 1913, n. 541](Che%20approva%20modificazioni%20ai%20ruoli%20organici%20del%20personale%20dellAmministrazione%20esterna%20delle%20gabelle%20degli%20uffici%20tecnici%20di%20finanza%20del%20personale%20tecnico%20ed%20amministrativo%20degli%20stabilime_df0a6fc0f2f8.md), e' soppresso a decorrere dal 1° luglio 1915. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

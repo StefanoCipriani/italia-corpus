@@ -20,7 +20,7 @@ Visto il [R. decreto 30 dicembre 1923, n. 2903](Norme%20di%20attuazione%20del%20
 
 Visto il [R. decreto-legge 14 ottobre 1926, n. 1894](Tasse%20di%20bollo%20sulle%20sentenze%20ed%20atti%20dei%20Tribunali%20militari.%20026U1894.md), convertito in legge con la [legge 14 aprile 1927, n. 834](Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20ottobre%201926%20n.%201894%20che%20disciplina%20le%20tasse%20di%20bollo%20sulle%20sentenze%20ed%20atti%20dei%20tribunali%20militari.%20027U0834.md);
 
-Visto il [R. decreto-legge 26 gennaio 1931, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-26;122), convertito in legge con la [legge 18 giugno 1931, n. 919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-18;919);
+Visto il [R. decreto-legge 26 gennaio 1931, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-26;122), convertito in legge con la [legge 18 giugno 1931, n. 919](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20gennaio%201931%20n.%20122%20concernente%20il%20nuovo%20ordinamento%20della%20giustizia%20militare.%20031U0919.md);
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

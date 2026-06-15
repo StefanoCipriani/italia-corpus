@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 dicembre 1931, n. 1670](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-31;1670), che autorizza il Ministro per le corporazioni a disporre la costituzione di Consorzi obbligatori fra gli esercenti dei vari rami dell'industria siderurgica. 
+ E' convertito in legge il [R. decreto-legge 31 dicembre 1931, n. 1670](Autorizzazione%20al%20Ministro%20per%20le%20corporazioni%20a%20disporre%20la%20costituzione%20di%20Consorzi%20obbligatori%20fra%20gli%20esercenti%20dei%20vari%20rami%20dellindustria%20siderurgica%20e%20norme%20generali%20per%20la%20formazi_5389a14c032a.md), che autorizza il Ministro per le corporazioni a disporre la costituzione di Consorzi obbligatori fra gli esercenti dei vari rami dell'industria siderurgica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

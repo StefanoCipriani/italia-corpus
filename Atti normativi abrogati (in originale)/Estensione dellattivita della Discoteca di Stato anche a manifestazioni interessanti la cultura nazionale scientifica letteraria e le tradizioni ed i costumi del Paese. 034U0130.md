@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La Discoteca di Stato, oltre ai fini previsti dall'[art. 1 del R. decreto-legge 10 agosto 1928, n. 2223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-10;2223#art_1), convertito nella [legge 3 gennaio 1929, n. 81](Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%2010%20agosto%201928%20n.%202223%20concernente%20la%20istituzione%20di%20una%20Discoteca%20di%20Stato%20in%20Roma.%20029U0081.md), ha per iscopo di raccogliere ed ordinare sistematicamente, registrandolo in matrici, in dischi e con qualsiasi altro mezzo meccanico, tutto quanto nel campo dei suoni interessi la cultura scientifica, artistica e letteraria, ed in modo particolare: 
+La Discoteca di Stato, oltre ai fini previsti dall'[art. 1 del R. decreto-legge 10 agosto 1928, n. 2223](Istituzione%20di%20una%20Discoteca%20di%20Stato%20in%20Roma.%20028U2223.md), convertito nella [legge 3 gennaio 1929, n. 81](Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%2010%20agosto%201928%20n.%202223%20concernente%20la%20istituzione%20di%20una%20Discoteca%20di%20Stato%20in%20Roma.%20029U0081.md), ha per iscopo di raccogliere ed ordinare sistematicamente, registrandolo in matrici, in dischi e con qualsiasi altro mezzo meccanico, tutto quanto nel campo dei suoni interessi la cultura scientifica, artistica e letteraria, ed in modo particolare: 
  
  a) i canti e i dialetti di tutte le regioni e le colonie d'Italia; 
  
@@ -41,7 +41,7 @@ La Discoteca di Stato e' autorizzata a concedere in uso le matrici di cui alle l
 
 Nell'atto di concessione sara' stabilita una percentuale sugli utili da versarsi all'Erario. 
  
- In corrispondenza delle somme introitate a tale titolo il Ministero delle finanze provvedera' ad aumentare lo stanziamento, di cui all'[art. 3 del R. decreto-legge 10 agosto 1928, n. 2223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-10;2223#art_3).
+ In corrispondenza delle somme introitate a tale titolo il Ministero delle finanze provvedera' ad aumentare lo stanziamento, di cui all'[art. 3 del R. decreto-legge 10 agosto 1928, n. 2223](Istituzione%20di%20una%20Discoteca%20di%20Stato%20in%20Roma.%20028U2223.md).
 
 ## Art. 5.
 

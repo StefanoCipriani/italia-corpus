@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-La tabella A, relativa al ruolo organico del personale delle segreterie universitarie, allegata alla [legge 6 luglio 1940, n. 1038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-06;1038), e successive modificazioni, e' sostituita dalla tabella allegata al presente decreto vistata dal Ministro per la pubblica istruzione e dal Ministro per il tesoro.
+La tabella A, relativa al ruolo organico del personale delle segreterie universitarie, allegata alla [legge 6 luglio 1940, n. 1038](Ordinamento%20delle%20Segreterie%20universitarie.%20040U1038.md), e successive modificazioni, e' sostituita dalla tabella allegata al presente decreto vistata dal Ministro per la pubblica istruzione e dal Ministro per il tesoro.
 
 ## Art. 2.
 
@@ -36,22 +36,22 @@ I posti che, in applicazione del presente decreto, risulteranno disponibili per 
  Ai concorsi predetti puo' partecipare anche il personale di ruolo e non di ruolo degli Istituti di cui all'art. 1, n. 2, ed al titolo 2° del citato testo unico e delle Amministrazioni statali, che sia fornito dei titoli e requisiti prescritti e che si trovi in servizio da almeno tre anni all'atto dell'entrata in vigore del presente decreto, presso i suindicati Istituti ed Amministrazioni statali. Il personale medesimo puo' conseguire la nomina per non oltre l'ottavo dei posti messi a concorso.
  Per l'ammissione al concorso per posti nel ruolo di gruppo A e' richiesto il possesso di diploma, di laurea.
 Il concorso si svolgera' per titoli e per esami.
- Per l'ammissione al concorso per posti nel ruolo di gruppo B e' richiesto il possesso del diploma di ragioniere o di uno dei titoli di cui all'[art. 16, lettera b) del regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_16-letb). Il concorso si svolgera' per titoli e per esami.
+ Per l'ammissione al concorso per posti nel ruolo di gruppo B e' richiesto il possesso del diploma di ragioniere o di uno dei titoli di cui all'[art. 16, lettera b) del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). Il concorso si svolgera' per titoli e per esami.
  Per l'ammissione al concorso per posti nel ruolo di gruppo C e' richiesto il possesso del diploma di scuola media di 1° grado. Per altro, al concorso stesso potra' essere ammesso anche il personale che, per almeno un quinquennio, abbia lodevolmente esercitato funzioni non inferiori a quelle proprie del ruolo cui appartengono i posti da conferire. Il concorso si svolgera' per titoli.
  L'anzianita' di servizio prevista ai fini del presente articolo e' ridotta ad un anno per i dipendenti non di ruolo che siano mutilati o invalidi di guerra, ex combattenti, reduci, partigiani, e per coloro che abbiano riportato, per comportamento contrario al regime fascista, sanzioni penali o di polizia, ovvero siano stati deportati ed internati per motivi di persecuzione razziale, sempreche' essi abbiano i requisiti prescritti.
  Per l'ammissione ai concorsi di cui al presente articolo si prescinde dal limite di eta'.
- Per l'espletamento dei concorsi medesimi si osservano le disposizioni dell'[art. 14 della legge 6 luglio 1940, n. 1038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-06;1038#art_14).
+ Per l'espletamento dei concorsi medesimi si osservano le disposizioni dell'[art. 14 della legge 6 luglio 1940, n. 1038](Ordinamento%20delle%20Segreterie%20universitarie.%20040U1038.md).
 
 ### Art. 4.
 
 Nei primi due anni dalla data di entrata in vigore del presente decreto, i periodi di anzianita' di grado normalmente richiesti per l'avanzamento ai gradi superiori all'8° dei ruoli di gruppo A e B ed al 10° di gruppo C, di cui all'annessa tabella, sono ridotti di un anno e mezzo.
  Sono analogamente ridotti di un anno e mezzo i periodi di anzianita' previsti per la promozione al grado 8° del gruppo A, 9° del gruppo B ed 11° del gruppo C, di cui alla tabella predetta.
  La riduzione di anzianita' prevista dai precedenti commi non si applica al personale che abbia gia' fruito di analogo beneficio in precedenti promozioni e di essa non si potra' fruire per conseguire piu' di una promozione.
- Entro il termine di cui al precedente primo comma sono applicabili le disposizioni dell'[art. 12 della legge 6 luglio 1940, n. 1038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-06;1038#art_12), agli effetti dell'ammissione allo scrutinio ed agli esami per le promozioni al grado 8° del gruppo A ed al grado 9° del gruppo B.
+ Entro il termine di cui al precedente primo comma sono applicabili le disposizioni dell'[art. 12 della legge 6 luglio 1940, n. 1038](Ordinamento%20delle%20Segreterie%20universitarie.%20040U1038.md), agli effetti dell'ammissione allo scrutinio ed agli esami per le promozioni al grado 8° del gruppo A ed al grado 9° del gruppo B.
 
 ### Art. 5.
 
-E' annualmente iscritto nel bilancio del Ministero della pubblica istruzione, a decorrere dal 1 luglio 1948 e fino al 31 dicembre 1950, l'importo dei miglioramenti di trattamento economico apportati in dipendenza del [regio decreto-legge 24 settembre 1936, n. 1719](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-09-24;1719), e successive disposizioni, alle misure degli emolumenti del personale non di ruolo che, alla data del presente decreto, si trovi in servizio presso le segreterie delle Universita' e degli Istituti d'istruzione universitaria con qualifica parificabile a quella di avventizio di 1ª, 2ª e 3ª categoria di cui al [regio decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100).
+E' annualmente iscritto nel bilancio del Ministero della pubblica istruzione, a decorrere dal 1 luglio 1948 e fino al 31 dicembre 1950, l'importo dei miglioramenti di trattamento economico apportati in dipendenza del [regio decreto-legge 24 settembre 1936, n. 1719](Aumento%20degli%20assegni%20al%20personale%20statale%20e%20degli%20altri%20enti%20pubblici.%20036U1719.md), e successive disposizioni, alle misure degli emolumenti del personale non di ruolo che, alla data del presente decreto, si trovi in servizio presso le segreterie delle Universita' e degli Istituti d'istruzione universitaria con qualifica parificabile a quella di avventizio di 1ª, 2ª e 3ª categoria di cui al [regio decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md).
  Detto importo e' commisurato, in via presuntiva, ad una spesa media di L. 325.000 annue per ciascuna unita' del personale non di ruolo di cui al precedente comma.
  L'erogazione delle somme a tale titolo dovute a ciascuna Universita' ed Istituto d'istruzione universitaria viene effettuata per semestre anticipato, salvo conguaglio da farsi, nella successiva liquidazione, in rapporto alla spesa effettivamente sostenuta da ciascun Ateneo per le unita' che abbiano prestato effettivo servizio durante il semestre precedente.
  Ai fini del conguaglio di cui al precedente comma potra' provvedersi, con decreto del Ministro per il tesoro, alle integrazioni di stanziamento che risultassero ancora necessarie per saldare il fabbisogno per il titolo di cui trattasi. Le somme che risultassero eccedenti il fabbisogno stesso costituiranno economie di bilancio.
@@ -64,7 +64,7 @@ Il personale non di ruolo che, alla data del presente decreto, trovisi in serviz
 ### Art. 7.
 
 Dalla data di pubblicazione del presente decreto e' vietata qualsiasi assunzione, a qualsiasi titolo, di personale comunque non di ruolo presso le segreterie delle Universita' e degli Istituti d'istruzione universitaria.
- Puo' essere trattenuto in servizio finche' non siano venute a cessare le cause che ne determinarono l'assunzione e, in ogni caso non oltre il 31 dicembre 1950, il personale non di ruolo assunto con qualifica diversa da quella parificabile alla qualifica di avventizio di 1ª, 2ª e 3ª categoria di cui al [regio decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100).
+ Puo' essere trattenuto in servizio finche' non siano venute a cessare le cause che ne determinarono l'assunzione e, in ogni caso non oltre il 31 dicembre 1950, il personale non di ruolo assunto con qualifica diversa da quella parificabile alla qualifica di avventizio di 1ª, 2ª e 3ª categoria di cui al [regio decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md).
 
 ### Art. 8.
 
@@ -73,7 +73,7 @@ Al personale considerato dimissionario ai sensi del precedente art. 6 non compet
 
 ### Art. 9.
 
-Il Ministro per la pubblica istruzione ha facolta' di trattenere nella posizione di comando presso l'Amministrazione centrale, fino a tutto il 31 dicembre 1950, gli impiegati di gruppo B e C del ruolo delle segreterie universitarie che trovavansi, alla data del 31 dicembre 1947, in servizio presso l'Amministrazione medesima ai sensi dell'[art. 29 del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;238#art_29).
+Il Ministro per la pubblica istruzione ha facolta' di trattenere nella posizione di comando presso l'Amministrazione centrale, fino a tutto il 31 dicembre 1950, gli impiegati di gruppo B e C del ruolo delle segreterie universitarie che trovavansi, alla data del 31 dicembre 1947, in servizio presso l'Amministrazione medesima ai sensi dell'[art. 29 del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md).
 
 ### Art. 10.
 

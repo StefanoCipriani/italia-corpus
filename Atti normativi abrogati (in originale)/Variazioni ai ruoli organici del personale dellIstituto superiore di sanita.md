@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-I ruoli organici del personale dell'Istituto superiore di sanita' di cui alla tabella A allegata al [regio decreto 17 ottobre 1941, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1265), sono sostituiti da quelli di cui alla tabella allegata al presente decreto, vistata dal Presidente del Consiglio dei Ministri e dal Ministro per il tesoro.
+I ruoli organici del personale dell'Istituto superiore di sanita' di cui alla tabella A allegata al [regio decreto 17 ottobre 1941, n. 1265](Nuova%20denominazione%20dellIstituto%20di%20sanita%20pubblica%20e%20riordinamento%20dei%20ruoli%20del%20relativo%20personale.%20041U1265.md), sono sostituiti da quelli di cui alla tabella allegata al presente decreto, vistata dal Presidente del Consiglio dei Ministri e dal Ministro per il tesoro.
 
 ## Art. 2.
 
@@ -217,11 +217,11 @@ L'attuazione delle norme transitorie del presente decreto, puo' essere effettuat
 
 ### Art. 32.
 
-Per il personale entrato a far parte dei ruoli dell'Istituto in base alle disposizioni del [regio decreto 17 ottobre 1941, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1265), e per quello che sara' assunto, a norma del presente decreto, il servizio comunque prestato, alle dipendenze dell'Istituto anteriormente all'assunzione in ruolo, sara' riscattabile ai fini della pensione, con le stesse norme vigenti per il personale non di ruolo delle Amministrazioni dello Stato.
+Per il personale entrato a far parte dei ruoli dell'Istituto in base alle disposizioni del [regio decreto 17 ottobre 1941, n. 1265](Nuova%20denominazione%20dellIstituto%20di%20sanita%20pubblica%20e%20riordinamento%20dei%20ruoli%20del%20relativo%20personale.%20041U1265.md), e per quello che sara' assunto, a norma del presente decreto, il servizio comunque prestato, alle dipendenze dell'Istituto anteriormente all'assunzione in ruolo, sara' riscattabile ai fini della pensione, con le stesse norme vigenti per il personale non di ruolo delle Amministrazioni dello Stato.
 
 ### Art. 33.
 
-Il personale impiegatizio non di ruolo, anche a contratto, in servizio all'Istituto alla data del presente decreto, e' inquadrato dal 1 aprile 1948 con il trattamento giuridico ed economico previsto dal [regio decreto-legge del 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), e successive modificazioni.
+Il personale impiegatizio non di ruolo, anche a contratto, in servizio all'Istituto alla data del presente decreto, e' inquadrato dal 1 aprile 1948 con il trattamento giuridico ed economico previsto dal [regio decreto-legge del 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), e successive modificazioni.
  Per l'applicazione al predetto personale delle disposizioni di carattere giuridico ed economico contenute nel [decreto legislativo del 4 aprile 1947, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-04-04;207), e' computato il servizio ininterrotto prestato alle dipendenze dell'Istituto anteriormente alla predetta data del 1 aprile 1948.
  L'eventuale eccedenza della retribuzione in godimento al 31 marzo 1948 rispetto a quella spettante dal 1 aprile 1948 in applicazione dei precedenti commi, e' conservata a titolo di assegno personale da riassorbire nei successivi aumenti della retribuzione.
  Il presente articolo non si applica al personale assunto a contratto con mansioni tecniche di gruppo A con trattamento economico equiparato a grado superiore all'iniziale del ruolo corrispondente.
@@ -237,7 +237,7 @@ Con decreto del Ministro per il tesoro saranno disposte le variazioni di bilanci
 
 ### Art. 36.
 
-Per quant'altro non e' espressamente stabilito nel presente decreto, saranno osservate, in quanto applicabili, le disposizioni contenute nel [regio decreto 17 ottobre 1941, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1265), e successive modificazioni.
+Per quant'altro non e' espressamente stabilito nel presente decreto, saranno osservate, in quanto applicabili, le disposizioni contenute nel [regio decreto 17 ottobre 1941, n. 1265](Nuova%20denominazione%20dellIstituto%20di%20sanita%20pubblica%20e%20riordinamento%20dei%20ruoli%20del%20relativo%20personale.%20041U1265.md), e successive modificazioni.
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

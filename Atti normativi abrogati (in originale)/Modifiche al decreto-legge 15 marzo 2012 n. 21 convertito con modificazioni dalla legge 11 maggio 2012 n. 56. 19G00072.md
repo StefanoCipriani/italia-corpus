@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Considerata la straordinaria necessita' e urgenza di integrare la disciplina in materia di esercizio dei poteri speciali di cui al [decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21), convertito, con modificazioni, dalla [legge 11 maggio 2012, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-05-11;56), per far fronte alla complessita' delle valutazioni da svolgere da parte delle amministrazioni competenti e assicurare una effettiva tutela delle attivita' e degli asset di rilevanza strategica, anche operando interventi di chiarimento e semplificazione normativa per perseguire gli obiettivi di tutela prefissati dal legislatore;
+Considerata la straordinaria necessita' e urgenza di integrare la disciplina in materia di esercizio dei poteri speciali di cui al [decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21), convertito, con modificazioni, dalla [legge 11 maggio 2012, n. 56](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20marzo%202012%20n.%2021%20recante%20norme%20in%20materia%20di%20poteri%20speciali%20sugli%20assetti%20societari%20nei%20settori%20della%20difesa%20e%20della%20sicurezza_c1e886ca333a.md), per far fronte alla complessita' delle valutazioni da svolgere da parte delle amministrazioni competenti e assicurare una effettiva tutela delle attivita' e degli asset di rilevanza strategica, anche operando interventi di chiarimento e semplificazione normativa per perseguire gli obiettivi di tutela prefissati dal legislatore;
 
 Ritenuta pertanto la straordinaria necessita' e urgenza di adottare misure per rafforzare la tutela della sicurezza nazionale in ambiti di rilevanza strategica;
 
@@ -26,11 +26,11 @@ Emana il seguente decreto-legge:
 
 1.
 
-Al fine di rafforzare la tutela della sicurezza nazionale in ambiti di rilevanza strategica, al [decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21), convertito in legge, con modificazioni, dalla [legge 11 maggio 2012, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-05-11;56), sono apportate le modifiche di cui ai commi da 2 a 6.
+Al fine di rafforzare la tutela della sicurezza nazionale in ambiti di rilevanza strategica, al [decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21), convertito in legge, con modificazioni, dalla [legge 11 maggio 2012, n. 56](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20marzo%202012%20n.%2021%20recante%20norme%20in%20materia%20di%20poteri%20speciali%20sugli%20assetti%20societari%20nei%20settori%20della%20difesa%20e%20della%20sicurezza_c1e886ca333a.md), sono apportate le modifiche di cui ai commi da 2 a 6.
 
 2.
 
-All'[articolo 1 del decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21#art_1), convertito, con modificazioni, dalla [legge 11 maggio 2012, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-05-11;56), sono apportate le seguenti modifiche:
+All'[articolo 1 del decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21#art_1), convertito, con modificazioni, dalla [legge 11 maggio 2012, n. 56](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20marzo%202012%20n.%2021%20recante%20norme%20in%20materia%20di%20poteri%20speciali%20sugli%20assetti%20societari%20nei%20settori%20della%20difesa%20e%20della%20sicurezza_c1e886ca333a.md), sono apportate le seguenti modifiche:
                         a)
                             al comma 1, primo periodo, la parola «contestualmente» e' sostituita dalle seguenti: «per estratto»;
                         b)
@@ -39,7 +39,7 @@ All'[articolo 1 del decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.i
  2) le parole «il mutamento» sono sostituite dalle seguenti: «la modifica»; 
  3) dopo le parole «di vincoli che ne condizionino l'impiego» sono inserite le seguenti: «, anche in ragione della sottoposizione dell'impresa a procedure concorsuali.»;
                         c)
-                            al comma 1, lettera c), secondo periodo, dopo le parole «la partecipazione detenuta da terzi» sono inserite le seguenti: «che hanno aderito alla sollecitazione dell'acquirente di cui all'[articolo 136, comma 1, lettera b), del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_136-com1-letb), ovvero»;
+                            al comma 1, lettera c), secondo periodo, dopo le parole «la partecipazione detenuta da terzi» sono inserite le seguenti: «che hanno aderito alla sollecitazione dell'acquirente di cui all'[articolo 136, comma 1, lettera b), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), ovvero»;
                         d)
                             al comma 4: 
  1) al primo periodo, dopo le parole «sull'atto», sono inserite le seguenti: «o operazione»; 
@@ -49,7 +49,7 @@ All'[articolo 1 del decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.i
  5) all'ultimo periodo, le parole «le disposizioni di cui al presente comma» sono sostituite dalle seguenti: «gli obblighi di cui al presente comma, ivi inclusi quelli derivanti dal provvedimento di esercizio del potere di cui al comma 1, lettera b), eventualmente esercitato nella forma di imposizione di specifiche prescrizioni o condizioni,»;
                         e)
                             al comma 5: 
- 1) al secondo periodo, dopo le parole «a seguito dell'acquisizione, una partecipazione superiore alla soglia», le parole: «prevista dall'articolo 120, comma 2, del testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58), e successive modificazioni» sono sostituite dalle seguenti: «del 3 per cento,»; 
+ 1) al secondo periodo, dopo le parole «a seguito dell'acquisizione, una partecipazione superiore alla soglia», le parole: «prevista dall'articolo 120, comma 2, del testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni» sono sostituite dalle seguenti: «del 3 per cento,»; 
  2) al secondo periodo, dopo le parole «sono successivamente notificate le acquisizioni che determinano il superamento delle soglie del» sono soppresse le seguenti: «3 per cento,»; 
  3) al secondo periodo, le parole «20 per cento e 25 per cento» sono sostituite dalle seguenti: «20 per cento, 25 per cento» e dopo le parole «25 per cento» sono inserite le seguenti: «e 50 per cento»; 
  4) dopo il secondo periodo, e' inserito il seguente: «Nel caso in cui l'acquisizione abbia ad oggetto azioni o quote di una societa' non ammessa alla negoziazione nei mercati regolamentati, la notifica deve essere effettuata qualora l'acquirente venga a detenere, a seguito dell'acquisizione, una partecipazione superiore alle soglie indicate nel precedente periodo.»; 
@@ -63,7 +63,7 @@ All'[articolo 1 del decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.i
 
 3.
 
-All'[articolo 1-bis del decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21#art_1bis), convertito, con modificazioni, dalla [legge 11 maggio 2012, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-05-11;56), sono apportate le seguenti modifiche:
+All'[articolo 1-bis del decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21#art_1bis), convertito, con modificazioni, dalla [legge 11 maggio 2012, n. 56](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20marzo%202012%20n.%2021%20recante%20norme%20in%20materia%20di%20poteri%20speciali%20sugli%20assetti%20societari%20nei%20settori%20della%20difesa%20e%20della%20sicurezza_c1e886ca333a.md), sono apportate le seguenti modifiche:
                         a)
                             al comma 2, le parole «sono soggetti» sono sostituite dalle seguenti: «e' soggetta»; le parole «all'articolo 1, comma 4» sono sostituite dalle seguenti: «al comma 3-bis»;
                         b)
@@ -77,7 +77,7 @@ Qualora sia necessario svolgere approfondimenti riguardanti aspetti tecnici rela
 
 4.
 
-All'[articolo 2 del decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21#art_2), convertito, con modificazioni, dalla [legge 11 maggio 2012, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-05-11;56), sono apportate le seguenti modifiche:
+All'[articolo 2 del decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21#art_2), convertito, con modificazioni, dalla [legge 11 maggio 2012, n. 56](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20marzo%202012%20n.%2021%20recante%20norme%20in%20materia%20di%20poteri%20speciali%20sugli%20assetti%20societari%20nei%20settori%20della%20difesa%20e%20della%20sicurezza_c1e886ca333a.md), sono apportate le seguenti modifiche:
                         a)
                             al comma 3, la parola «contestualmente» e' sostituita dalla seguente: «per estratto»;
                         b)
@@ -87,7 +87,7 @@ All'[articolo 2 del decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.i
                         d)
                             al comma 4, dopo il quinto periodo, e' inserito il seguente: «In caso di incompletezza della notifica, il termine di quarantacinque giorni previsto dal presente comma decorre dal ricevimento delle informazioni o degli elementi che la integrano.»;
                         e)
-                            al comma 5, secondo periodo, dopo le parole «la partecipazione detenuta da terzi» sono inserite le seguenti: «che hanno aderito alla sollecitazione dell'acquirente di cui all'[articolo 136, comma 1, lettera b), del decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58#art_136-com1-letb) ovvero»;
+                            al comma 5, secondo periodo, dopo le parole «la partecipazione detenuta da terzi» sono inserite le seguenti: «che hanno aderito alla sollecitazione dell'acquirente di cui all'[articolo 136, comma 1, lettera b), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ovvero»;
                         f)
                             al comma 5, il terzo periodo e' soppresso;
                         g)
@@ -110,7 +110,7 @@ All'[articolo 2 del decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.i
 
 5.
 
-Dopo l'[articolo 2 del decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21#art_2), convertito, con modificazioni, dalla [legge 11 maggio 2012, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-05-11;56), e' inserito il seguente: 
+Dopo l'[articolo 2 del decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21#art_2), convertito, con modificazioni, dalla [legge 11 maggio 2012, n. 56](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20marzo%202012%20n.%2021%20recante%20norme%20in%20materia%20di%20poteri%20speciali%20sugli%20assetti%20societari%20nei%20settori%20della%20difesa%20e%20della%20sicurezza_c1e886ca333a.md), e' inserito il seguente: 
  «Art. 2-bis (Collaborazione con Autorita' amministrative di settore). - 1. La Banca d'Italia, la Commissione nazionale per le societa' e la borsa (CONSOB), la Commissione di vigilanza sui fondi pensione (COVIP), l'Istituto per la vigilanza sulle assicurazioni (IVASS), l'Autorita' di regolazione dei trasporti (ART), l'Autorita' garante della concorrenza e del mercato (AGCM), l'Autorita' per le garanzie nelle comunicazioni (AGCom), l'Autorita' di regolazione per energia reti e ambiente (ARERA) e il Gruppo di coordinamento costituito ai sensi dell'articolo 3 del decreto del Presidente del Consiglio dei ministri del 6 agosto 2014 collaborano tra loro, anche mediante scambio di informazioni, al fine di agevolare l'esercizio delle funzioni di cui al presente decreto. Dette autorita' non possono opporre al Gruppo di coordinamento il segreto d'ufficio.».
 
 6.

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 luglio 1927, n. 1262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-14;1262), portante agevolazioni di credito per gli agricoltori. 
+ E' convertito in legge il [R. decreto-legge 14 luglio 1927, n. 1262](Agevolazioni%20di%20credito%20per%20gli%20agricoltori.%20027U1262.md), portante agevolazioni di credito per gli agricoltori. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

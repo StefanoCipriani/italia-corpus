@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 dicembre 1930, n. 1634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-11;1634), che apporta modifiche alla vigente tariffa di vendita dei tabacchi lavorati nazionali e determina la misura dell'aggio e del supplemento di aggio dovuti ai rivenditori di' generi di monopolio sullo smercio dei tabacchi lavorati e dei prodotti secondari. 
+ E' convertito in legge il [R. decreto-legge 11 dicembre 1930, n. 1634](Modifiche%20alla%20vigente%20tariffa%20di%20vendita%20dei%20tabacchi%20lavorati%20nazionali%20e%20determinazione%20della%20misura%20dellaggio%20e%20del%20supplemento%20di%20aggio%20dovuti%20ai%20rivenditori%20di%20generi%20di%20monopolio%20s_9218f9ff103a.md), che apporta modifiche alla vigente tariffa di vendita dei tabacchi lavorati nazionali e determina la misura dell'aggio e del supplemento di aggio dovuti ai rivenditori di' generi di monopolio sullo smercio dei tabacchi lavorati e dei prodotti secondari. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 9 aprile 1931 - Anno IX 
  

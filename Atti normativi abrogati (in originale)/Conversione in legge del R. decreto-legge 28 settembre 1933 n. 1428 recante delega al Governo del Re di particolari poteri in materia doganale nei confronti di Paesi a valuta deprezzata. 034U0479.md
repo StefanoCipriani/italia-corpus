@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1933, n. 1428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-28;1428), recante delega al Governo del Re di particolari poteri in materia doganale nei confronti di Paesi a valuta deprezzata. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1933, n. 1428](Delega%20al%20Governo%20del%20Re%20di%20particolari%20poteri%20in%20materia%20doganale%20nei%20confronti%20di%20Paesi%20a%20valuta%20deprezzata.%20033U1428.md), recante delega al Governo del Re di particolari poteri in materia doganale nei confronti di Paesi a valuta deprezzata. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

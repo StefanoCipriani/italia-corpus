@@ -91,7 +91,7 @@ Chiunque trasporta o fa comunque circolare caffe' senza bolletta di legittimazio
 ## Art. 13.
 
 Nei casi previsti ai precedenti articoli 10, 11 e 12 e' ordinata la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono l'oggetto ovvero il prodotto o il profitto.
- Per i mezzi di trasporto appartenenti a persona estranea al reato si applicano le disposizioni dell'[articolo 240 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+ Per i mezzi di trasporto appartenenti a persona estranea al reato si applicano le disposizioni dell'[articolo 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 14.
 
@@ -109,7 +109,7 @@ Alla gestione dei contesti relativi alle violazioni della presente legge nonche'
 
 ## Art. 17.
 
-Le disposizioni di cui agli articoli 10, 11, 12 e 15 sono stabilite in deroga all'[articolo 24 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_24);
+Le disposizioni di cui agli articoli 10, 11, 12 e 15 sono stabilite in deroga all'[articolo 24 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  quelle degli articoli 13, primo comma, 14 e 16 sono stabilite in deroga rispettivamente all'articolo 240, all'articolo 26 ed agli articoli 24 e 26 del predetto Codice.
 
 ## Art. 18.

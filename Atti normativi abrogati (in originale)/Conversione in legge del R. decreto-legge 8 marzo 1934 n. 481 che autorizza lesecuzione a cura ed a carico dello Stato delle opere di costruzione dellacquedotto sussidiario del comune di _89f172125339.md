@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-08;481), che autorizza l'esecuzione a cura ed a carico dello Stato delle opere di costruzione dell'acquedotto sussidiario del comune di Sant'Oreste per l'importo di L. 200.000. 
+ E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 481](Autorizzazione%20alle%20opere%20di%20costruzione%20dellacquedotto%20sussidiario%20del%20comune%20di%20SantOreste%20Viterbo.%20034U0481.md), che autorizza l'esecuzione a cura ed a carico dello Stato delle opere di costruzione dell'acquedotto sussidiario del comune di Sant'Oreste per l'importo di L. 200.000. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

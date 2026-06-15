@@ -20,7 +20,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo dalla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Visto il Nostro decreto 14 luglio 1918, n. 1064, col quale viene sospesa la coniazione di monete da centesimi uno e due in bronzo e si dispone che nei pagamenti fatti dalle pubbliche Amministrazioni o a favore delle Amministrazioni medesime, le frazioni inferiori a cinque centesimi, ma superiori a due centesimi e mezzo, verranno arrotondate a cinque centesimi, e che delle frazioni di due centesimi e mezzo o meno non sara' tenuto conto; 
  

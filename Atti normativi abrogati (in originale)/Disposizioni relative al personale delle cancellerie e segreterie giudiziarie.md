@@ -25,7 +25,7 @@ I funzionari delle cancellerie e segreterie giudiziarie che intendono partecipar
 
 ## Art. 3.
 
-Fino a quando non sia diversamente disposto, per quanto concerne la composizione della Commissione esaminatrice e lo svolgimento e la valutazione delle prove in materia di concorsi per l'accesso alla carriera di concetto e per il conferimento delle promozioni alle qualifiche superiori a quelle di cancelliere e segretario di prima classe, continuano ad applicarsi le norme di cui al [regio decreto-legge 8 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;745), e successive modificazioni.
+Fino a quando non sia diversamente disposto, per quanto concerne la composizione della Commissione esaminatrice e lo svolgimento e la valutazione delle prove in materia di concorsi per l'accesso alla carriera di concetto e per il conferimento delle promozioni alle qualifiche superiori a quelle di cancelliere e segretario di prima classe, continuano ad applicarsi le norme di cui al [regio decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), e successive modificazioni.
 
 ## Art. 4.
 

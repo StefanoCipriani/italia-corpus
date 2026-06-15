@@ -54,13 +54,13 @@ Per usufruire dei posti riservati di cui al comma 3 i candidati devono aver supe
 
 5.
 
-Restano ferme le disposizioni di cui all'[art. 2, comma quinto, del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-03-10;162#art_2-com5). Il consiglio della scuola, d'intesa con l'amministrazione di appartenenza degli specializzandi, puo' autorizzare l'espletamento delle attivita' pratiche previste dall'ordinamento della scuola nell'ambito delle attivita' di servizio, a condizione che le predette attivita' siano coerenti con il programma del corso di studio.
+Restano ferme le disposizioni di cui all'[art. 2, comma quinto, del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](../DPR/Riordinamento%20delle%20scuole%20dirette%20a%20fini%20speciali%20delle%20scuole%20di%20specializzazione%20e%20dei%20corsi%20di%20perfezionamento.md). Il consiglio della scuola, d'intesa con l'amministrazione di appartenenza degli specializzandi, puo' autorizzare l'espletamento delle attivita' pratiche previste dall'ordinamento della scuola nell'ambito delle attivita' di servizio, a condizione che le predette attivita' siano coerenti con il programma del corso di studio.
 
 ## Art. 3. — Ammissione
 
 1.
 
-L'ammissione alle scuole di specializzazione avviene secondo le modalita' di cui all'[art. 13 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-03-10;162#art_13).
+L'ammissione alle scuole di specializzazione avviene secondo le modalita' di cui all'[art. 13 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](../DPR/Riordinamento%20delle%20scuole%20dirette%20a%20fini%20speciali%20delle%20scuole%20di%20specializzazione%20e%20dei%20corsi%20di%20perfezionamento.md).
 
 2.
 
@@ -120,7 +120,7 @@ Non costituisce interruzione della formazione ai fini della sua continuita' e co
 
 5.
 
-Nell'ambito dei rapporti di collaborazione didattico-scientifica integrata tra universita' italiane ed universita' di Paesi esteri, la formazione specialistica puo' svolgersi, per periodi complessivamente non superiori ad un anno, in strutture sanitarie di Paesi della CEE, fermo restando quanto previsto dall'[art. 12 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-03-10;162#art_12).
+Nell'ambito dei rapporti di collaborazione didattico-scientifica integrata tra universita' italiane ed universita' di Paesi esteri, la formazione specialistica puo' svolgersi, per periodi complessivamente non superiori ad un anno, in strutture sanitarie di Paesi della CEE, fermo restando quanto previsto dall'[art. 12 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](../DPR/Riordinamento%20delle%20scuole%20dirette%20a%20fini%20speciali%20delle%20scuole%20di%20specializzazione%20e%20dei%20corsi%20di%20perfezionamento.md).
 
 ## Art. 6. — Borse di studio
 

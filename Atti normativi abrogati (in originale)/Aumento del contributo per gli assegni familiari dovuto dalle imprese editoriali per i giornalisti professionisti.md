@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto lo statuto dell'istituto nazionale di previdenza dei giornalisti italiani, approvato con [regio decreto 1° maggio 1941, n. 529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-05-01;529);
+Visto lo statuto dell'istituto nazionale di previdenza dei giornalisti italiani, approvato con [regio decreto 1° maggio 1941, n. 529](Approvazione%20del%20nuovo%20statuto%20dellIstituto%20nazionale%20di%20previdenza%20dei%20giornalisti%20italiani%20Arnaldo%20Mussolini%20in%20Roma.%20041U0529.md);
 
 Visto il regolamento per l'applicazione dello statuto predetto, approvato con decreto interministeriale 10 dicembre 1941;
 
-Visto l'[art. 7 del decreto legislativo luogotenenziale 1° agosto 1945, n 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-01;720#art_7);
+Visto l'[art. 7 del decreto legislativo luogotenenziale 1° agosto 1945, n 720](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20gli%20assegni%20integrativi%20del%20trattamento%20di%20quiescenza%20e%20per%20gli%20assegni%20familiari%20corrisposti%20dallistituto%20nazionale%20di%20previdenza%20per%20i%20giornalisti%20italiani.%20045U0720.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -27,7 +27,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 ## Art. 1.
 
 Il contributo per gli assegni familiari dovuto dalle imprese editoriali per i giornalisti, a norma del contratto collettivo 2 agosto 1941 e' elevato dal 10 al 16% sulla retribuzione percepita dal giornalista.
- Resta immutato il limite massimo di 5000 lire mensili di retribuzione sul quale il contributo predetto viene calcolato, previsto dall'[art. 7 del decreto legislativo luogotenenziale 1° agosto 1945, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-01;720#art_7).
+ Resta immutato il limite massimo di 5000 lire mensili di retribuzione sul quale il contributo predetto viene calcolato, previsto dall'[art. 7 del decreto legislativo luogotenenziale 1° agosto 1945, n. 720](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20gli%20assegni%20integrativi%20del%20trattamento%20di%20quiescenza%20e%20per%20gli%20assegni%20familiari%20corrisposti%20dallistituto%20nazionale%20di%20previdenza%20per%20i%20giornalisti%20italiani.%20045U0720.md).
 
 ## Art. 2.
 

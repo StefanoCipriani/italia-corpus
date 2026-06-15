@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910);
+Vista la [legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di assicurare il regolare funzionamento dell'ENEA mediante l'erogazione dei mezzi finanziari indispensabili allo svolgimento, nel secondo semestre 1987, dei programmi previsti nel piano quinquennale 1985-1989 approvato dal CIPE nella riunione del 1 marzo 1985;
 

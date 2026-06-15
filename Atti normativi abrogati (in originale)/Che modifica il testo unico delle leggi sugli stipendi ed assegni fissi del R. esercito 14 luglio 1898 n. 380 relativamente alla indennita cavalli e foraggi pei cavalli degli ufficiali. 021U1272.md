@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la legge sugli stipendi ed assegni fissi per il R. esercito, testo unico, approvato con [R. decreto 14 luglio 1898, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;380), e successive modificazioni;
+Vista la legge sugli stipendi ed assegni fissi per il R. esercito, testo unico, approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e successive modificazioni;
 
 Visto il regolamento sugli stipendi ed assegni fissi per il R. esercito, approvato con R decreto 10 dicembre 1882, e successive modificazioni;
 

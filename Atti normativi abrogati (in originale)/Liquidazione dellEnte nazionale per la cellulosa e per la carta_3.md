@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 13 giugno 1935, n. 1453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-13;1453), recante costituzione dell'Ente nazionale per la cellulosa e per la carta e determinazione dei suoi compiti e dei mezzi occorrenti per il suo funzionamento;
+Vista la [legge 13 giugno 1935, n. 1453](Costituzione%20dellEnte%20nazionale%20per%20la%20cellulosa%20e%20per%20la%20carta%20e%20determinazione%20dei%20suoi%20compiti%20e%20dei%20mezzi%20occorrenti%20per%20il%20suo%20funzionamento.%20035U1453.md), recante costituzione dell'Ente nazionale per la cellulosa e per la carta e determinazione dei suoi compiti e dei mezzi occorrenti per il suo funzionamento;
 
-Visto il [decreto-legge 23 marzo 1993, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-23;76), convertito dalla [legge 20 maggio 1993, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-20;152), recante modifica della misura del contributo, dovuto all'Ente nazionale per la cellulosa e per la carta, previsto dalla [legge 28 marzo 1956, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-03-28;168);
+Visto il [decreto-legge 23 marzo 1993, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-23;76), convertito dalla [legge 20 maggio 1993, n. 152](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2023%20marzo%201993%20n.%2076%20recante%20modifica%20della%20misura%20del%20contributo%20dovuto%20allEnte%20nazionale%20per%20la%20cellulosa%20e%20per%20la%20carta%20previsto%20dalla%20legge%2028%20ma_c00d08a2a149.md), recante modifica della misura del contributo, dovuto all'Ente nazionale per la cellulosa e per la carta, previsto dalla [legge 28 marzo 1956, n. 168](Provvidenze%20per%20la%20stampa.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 aprile 1994;
 
@@ -26,7 +26,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-L'Ente nazionale per la cellulosa e per la carta (ENCC), costituito con [legge 13 giugno 1935, n. 1453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-13;1453), e' posto in liquidazione e cessa la sua attivita', salvo la gestione a stralcio dei residui attivi e passivi, a partire dal giorno successivo al completamento dell'esecuzione del piano di liquidazione e di riordino di cui all'articolo
+L'Ente nazionale per la cellulosa e per la carta (ENCC), costituito con [legge 13 giugno 1935, n. 1453](Costituzione%20dellEnte%20nazionale%20per%20la%20cellulosa%20e%20per%20la%20carta%20e%20determinazione%20dei%20suoi%20compiti%20e%20dei%20mezzi%20occorrenti%20per%20il%20suo%20funzionamento.%20035U1453.md), e' posto in liquidazione e cessa la sua attivita', salvo la gestione a stralcio dei residui attivi e passivi, a partire dal giorno successivo al completamento dell'esecuzione del piano di liquidazione e di riordino di cui all'articolo
 
 2.
 
@@ -76,7 +76,7 @@ Con decreto del Presidente della Repubblica emanato ai sensi dell'[articolo 17, 
 
 1.
 
-Con decreto del Presidente del Consiglio dei Ministri, il personale dipendente dall'ENCC e dalle societa' controllate viene trasferito, in relazione alle carenze di organico risultanti dall'esame dei carichi di lavoro, presso altre amministrazioni dello Stato, enti pubblici o regioni, su proposta del Ministro per la funzione pubblica e del Ministro dell'industria, del commercio e dell'artigianato, previa intesa dell'amministrazione interessata. Con il medesimo decreto si provvedera' a regolare i rapporti in essere tra i dipendenti dell'ENCC ed il vigente "Fondo di previdenza per i dipendenti dell'ENCC", anche al fine di consentire l'esercizio della facolta' prevista dall'[articolo 5 del decreto del Presidente della Repubblica 22 marzo 1993, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1993-03-22;104#art_5).
+Con decreto del Presidente del Consiglio dei Ministri, il personale dipendente dall'ENCC e dalle societa' controllate viene trasferito, in relazione alle carenze di organico risultanti dall'esame dei carichi di lavoro, presso altre amministrazioni dello Stato, enti pubblici o regioni, su proposta del Ministro per la funzione pubblica e del Ministro dell'industria, del commercio e dell'artigianato, previa intesa dell'amministrazione interessata. Con il medesimo decreto si provvedera' a regolare i rapporti in essere tra i dipendenti dell'ENCC ed il vigente "Fondo di previdenza per i dipendenti dell'ENCC", anche al fine di consentire l'esercizio della facolta' prevista dall'[articolo 5 del decreto del Presidente della Repubblica 22 marzo 1993, n. 104](../DPR/Regolamento%20di%20attuazione%20della%20legge%2029%20dicembre%201988%20n.%20554%20concernente%20il%20regime%20pensionistico%20e%20previdenziale%20dei%20dipendenti%20trasferiti%20in%20seguito%20ai%20processi%20di%20mobilita.md).
 
 2.
 
@@ -114,13 +114,13 @@ Il piano di cui all'articolo 2 deve essere eseguito entro centottanta giorni dal
 
 2.
 
-Agli atti compiuti nell'ambito del piano di cui all'articolo 2 si applica l'agevolazione di cui all'[articolo 5-bis del decreto-legge 30 gennaio 1979, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-01-30;26#art_5bis), convertito, con modificazioni, dalla [legge 3 aprile 1979, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;95).
+Agli atti compiuti nell'ambito del piano di cui all'articolo 2 si applica l'agevolazione di cui all'[articolo 5-bis del decreto-legge 30 gennaio 1979, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-01-30;26#art_5bis), convertito, con modificazioni, dalla [legge 3 aprile 1979, n. 95](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20gennaio%201979%20n.%2026%20concernente%20provvedimenti%20urgenti%20per%20lamministrazione%20straordinaria%20delle%20grandi%20imprese%20in%20crisi.md).
 
 ## Art. 5.
 
 1.
 
-Il contributo dovuto, ai sensi del primo comma dell'articolo unico della [legge 28 marzo 1956, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-03-28;168), all'ENCC per lo svolgimento, direttamente o tramite le societa' controllate, dei compiti istituzionali dell'Ente si applica fino al termine del piano di liquidazione e comunque non oltre il 30 settembre 1994 per i prodotti destinati al mercato nazionale, alla carta ed al cartone ed e' dovuto dalle imprese di settore nella misura dello 0,50 per cento, con diritto di rivalsa a totale carico degli acquirenti, ferme restando le esenzioni di cui all'[articolo 23 della legge 25 febbraio 1987, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67#art_23), nonche' le altre esenzioni stabilite in favore delle amministrazioni dello Stato e quelle previste dalla normativa vigente.
+Il contributo dovuto, ai sensi del primo comma dell'articolo unico della [legge 28 marzo 1956, n. 168](Provvidenze%20per%20la%20stampa.md), all'ENCC per lo svolgimento, direttamente o tramite le societa' controllate, dei compiti istituzionali dell'Ente si applica fino al termine del piano di liquidazione e comunque non oltre il 30 settembre 1994 per i prodotti destinati al mercato nazionale, alla carta ed al cartone ed e' dovuto dalle imprese di settore nella misura dello 0,50 per cento, con diritto di rivalsa a totale carico degli acquirenti, ferme restando le esenzioni di cui all'[articolo 23 della legge 25 febbraio 1987, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67#art_23), nonche' le altre esenzioni stabilite in favore delle amministrazioni dello Stato e quelle previste dalla normativa vigente.
 
 2.
 

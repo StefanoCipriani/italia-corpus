@@ -107,7 +107,7 @@ Il Collegio dei revisori e' composti di tre funzionari dello Stato appartenenti,
 ## Art. 11.
 
 Al presidente dell'azienda ed ai revisori e' attribuito un compenso annuo, la cui misura e' stabilita con il regolamento esecutivo di cui al successivo articolo 16.
- Ai membri del Comitato direttivo compete per ogni riunione un gettone di presenza nella misura prevista dal [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;5), per le Commissioni, Consigli, Comitati o Collegi operanti nelle Amministrazioni statali, anche con ordinamento autonomo.
+ Ai membri del Comitato direttivo compete per ogni riunione un gettone di presenza nella misura prevista dal [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](../DPR/Compensi%20ai%20componenti%20delle%20Commissioni%20Consigli%20Comitati%20o%20Collegi%20operanti%20nelle%20Amministrazioni%20statali%20anche%20con%20ordinamento%20autonomo%20e%20delle%20Commissioni%20giudicatrici%20dei%20concorsi%20di_6b5a1d3e573d.md), per le Commissioni, Consigli, Comitati o Collegi operanti nelle Amministrazioni statali, anche con ordinamento autonomo.
 
 ## Art. 12.
 
@@ -159,7 +159,7 @@ Quando si verifichino circostanze per le quali sia pregiudicato il regolare funz
 
 ## Art. 22.
 
-Il [regio decreto 9 gennaio 1941, n. 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-09;541), e' abrogato.
+Il [regio decreto 9 gennaio 1941, n. 541](Costituzione%20presso%20le%20Capitanerie%20di%20porto%20di%20aziende%20speciali%20che%20assumono%20la%20denominazione%20di%20Aziende%20dei%20mezzi%20meccanici%20e%20dei%20magazzini%20portuali.%20041U0541.md), e' abrogato.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 gennaio 1931, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-13;15), concernente la proroga del termine per la prescrizione dei biglietti del Banco di Napoli e del Banco di Sicilia. 
+ E' convertito in legge il [R. decreto-legge 13 gennaio 1931, n. 15](Proroga%20del%20termine%20di%20prescrizione%20dei%20biglietti%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20031U0015.md), concernente la proroga del termine per la prescrizione dei biglietti del Banco di Napoli e del Banco di Sicilia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

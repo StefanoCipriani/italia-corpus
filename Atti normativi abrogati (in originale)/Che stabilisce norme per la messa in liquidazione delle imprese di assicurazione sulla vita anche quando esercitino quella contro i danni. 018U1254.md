@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduti la [legge 4 aprile 1912, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-04-04;305), e il relativo [regolamento 5 agosto 1912, n. 939](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1912-08-05;939);
+Veduti la [legge 4 aprile 1912, n. 305](Che%20reca%20provvedimenti%20per%20lesercizio%20delle%20assicurazioni%20sulla%20durata%20della%20vita%20umana%20da%20parte%20di%20un%20Istituto%20nazionale%20di%20assicurazioni.%20012U0305.md), e il relativo [regolamento 5 agosto 1912, n. 939](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1912-08-05;939);
 
 Ritenuta la necessita' e la urgenza di mezzi solleciti ed acconci per liquidare, nell'interesse degli assicurati, le imprese di assicurazione sulla vita il cui stato patrimoniale venisse a trovarsi in disavanzo;
 
@@ -42,7 +42,7 @@ Il Ministero per l'industria, il commercio ed il lavoro, accertata la deficienza
  
  Le competenze del liquidatore sono determinate nel R. decreto di nomina e fanno carico alla liquidazione. 
  
- I provvedimenti del Ministero possono essere impugnati esclusivamente con ricorso alla 4ª sezione del Consiglio di Stato, a norma dell'art. 22 della legge sul Consiglio di Stato, testo unico, approvato con [R. decreto 17 agosto 1907, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-17;638).
+ I provvedimenti del Ministero possono essere impugnati esclusivamente con ricorso alla 4ª sezione del Consiglio di Stato, a norma dell'art. 22 della legge sul Consiglio di Stato, testo unico, approvato con [R. decreto 17 agosto 1907, n. 638](Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md).
 
 ## Art. 3.
 
@@ -78,7 +78,7 @@ Hanno privilegio sui depositi cauzionali stabiliti dall'art. 145 del Codice di c
 
 ## Art. 7.
 
-Per le imprese che fossero gia' dichiarate in fallimento, in forza della [legge 4 aprile 1912, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-04-04;305), qualunque sia lo stato della procedura fallimentare in corso, i crediti in corrispondenza delle polizze di assicurazione in vigore alla data della dichiarazione di fallimento e per le quali la dichiarazione dei crediti non sia stata fatta dagli interessati, saranno insinuati di ufficio ad istanza del curatore.
+Per le imprese che fossero gia' dichiarate in fallimento, in forza della [legge 4 aprile 1912, n. 305](Che%20reca%20provvedimenti%20per%20lesercizio%20delle%20assicurazioni%20sulla%20durata%20della%20vita%20umana%20da%20parte%20di%20un%20Istituto%20nazionale%20di%20assicurazioni.%20012U0305.md), qualunque sia lo stato della procedura fallimentare in corso, i crediti in corrispondenza delle polizze di assicurazione in vigore alla data della dichiarazione di fallimento e per le quali la dichiarazione dei crediti non sia stata fatta dagli interessati, saranno insinuati di ufficio ad istanza del curatore.
 
 ## Art. 8.
 

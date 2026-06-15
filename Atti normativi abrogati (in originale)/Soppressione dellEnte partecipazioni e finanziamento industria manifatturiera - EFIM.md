@@ -110,7 +110,7 @@ Dalla data di entrata in vigore del presente decreto sono sospesi, per la durata
 
 2.
 
-Le disposizioni del comma 1 non sono applicabili ai prestiti obbligazionari di cui alla [legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910), al [decreto-legge 19 ottobre 1985, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-10-19;547), convertito dalla [legge 20 dicembre 1985, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-12-20;749), nonche' ai prestiti B.E.I. di cui alla [legge 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730).
+Le disposizioni del comma 1 non sono applicabili ai prestiti obbligazionari di cui alla [legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), al [decreto-legge 19 ottobre 1985, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-10-19;547), convertito dalla [legge 20 dicembre 1985, n. 749](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2019%20ottobre%201985%20n.%20547%20recante%20autorizzazione%20allIRI%20ENI%20ed%20EFIM%20per%20la%20emissione%20di%20prestiti%20obbligazionari%20con%20onere%20a%20carico%20dello%20Stato.md), nonche' ai prestiti B.E.I. di cui alla [legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md).
 
 3.
 

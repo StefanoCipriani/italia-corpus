@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 15 novembre 1914, n. 1250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-15;1250), col quale vengono apportate modificazioni al testo unico delle leggi sullo stato dei sottufficiali. 
+ E' convertito in legge il [R. decreto 15 novembre 1914, n. 1250](Da%20convertirsi%20in%20legge%20col%20quale%20sono%20apportate%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali.%20014U1250.md), col quale vengono apportate modificazioni al testo unico delle leggi sullo stato dei sottufficiali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

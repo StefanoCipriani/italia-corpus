@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md);
 
-Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modifiche, nella [legge 24 luglio 1972, n. 321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-07-24;321);
+Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modifiche, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com1);
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -42,7 +42,7 @@ Le imposte sono pagate per ritenuta diretta nei casi indicati dalla legge e seco
 ### Art. 3. — Riscossione mediante versamenti diretti
 
 Sono riscosse mediante versamento diretto alla esattoria: 
- 1) le ritenute alla fonte effettuate, a norma degli articoli 23, 24, 25, 26, commi terzo e quinto, e 28 del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600), da parte di soggetti diversi da quelli indicati nel primo comma dell'art. 29 del predetto decreto e da quelli di cui al successivo comma del presente articolo; 
+ 1) le ritenute alla fonte effettuate, a norma degli articoli 23, 24, 25, 26, commi terzo e quinto, e 28 del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), da parte di soggetti diversi da quelli indicati nel primo comma dell'art. 29 del predetto decreto e da quelli di cui al successivo comma del presente articolo; 
  2) gli acconti dovuti ai sensi dell'art. 4 per l'imposta sul reddito delle persone fisiche; 
  3) l'imposta sul reddito delle persone giuridiche dovuta in base alla dichiarazione annuale; 
  4) le ritenute alla fonte applicabili sui redditi di cui all'art. 26, commi primo e secondo, e all'art. 30 del decreto indicato al n. 1), maturati nel periodo d'imposta ancorche' non corrisposti; 
@@ -84,7 +84,7 @@ I versamenti diretti alle sezioni di tesoreria provinciale dello Stato e all'esa
  1) entro i primi quindici giorni del mese successivo a quello in cui e' stata operata la ritenuta prevista dall'art. 3, primo comma, n. 1), e secondo comma, lettera a); 
  2) dal 10 al 18 aprile per la prima o per l'unica quota e dal 10 al 18 giugno per la seconda quota dei versamenti previsti dall'art. 3, primo comma, n. 2); 
  3) nel termine previsto per la presentazione della dichiarazione, per i versamenti previsti dall'art. 3, primo comma, numeri 3), 4) e 6); 
- 4) entro i primi quindici giorni del mese successivo a quello in cui e' deliberata la distribuzione degli utili o degli acconti per la parte della ritenuta commisurata al dieci per cento degli utili stessi ai sensi dell'[art. 27, primo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_27-com1); 
+ 4) entro i primi quindici giorni del mese successivo a quello in cui e' deliberata la distribuzione degli utili o degli acconti per la parte della ritenuta commisurata al dieci per cento degli utili stessi ai sensi dell'[art. 27, primo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md); 
  5) entro il 1 marzo e il 1 settembre di ciascun anno per gli importi versati dai soci nel semestre precedente relativamente agli utili di cui al secondo comma dell'art. 27 del decreto indicato al n. 
 4) e per le maggiori ritenute effettuate in base all'aliquota del trenta per cento sugli utili di cui al terzo comma dello stesso articolo pagati nel semestre precedente. 
  Per le ritenute di cui al secondo comma, lettera b), dell'art. 3, restano fermi i termini indicati nell'[art. 11 della legge 29 dicembre 1962, n. 1745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-29;1745#art_11), e successive modificazioni.
@@ -199,7 +199,7 @@ Gli esattori, non oltre il giorno cinque del mese di scadenza della prima rata s
 
 La notificazione della cartella al contribuente e' eseguita dai messi notificatori dell'esattoria o dagli ufficiali esattoriali ovvero dagli ufficiali giudiziari e nei comuni che non sono sede di pretura, dai messi comunali e dai messi di conciliazione. Alla notificazione in comuni non compresi nella circoscrizione esattoriale provvede l'esattore territorialmente competente, previa delegazione da parte dell'esattoria che ha in carico il ruolo. La notificazione puo' essere eseguita anche mediante invio, da parte dell'esattore, di lettera raccomandata con avviso di ricevimento. La notificazione si ha per avvenuta alla data indicata nell'avviso di ricevimento sottoscritto da una delle persone previste dal comma successivo.
  Quando la notificazione della cartella di pagamento avviene mediante consegna nelle mani proprie del destinatario o di persone di famiglia o addette alla casa, all'ufficio o all'azienda, non e' richiesta la sottoscrizione dell'originale da parte del consegnatario.
- Nei casi previsti dall'[art. 140, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_140), la notificazione della cartella di pagamento si effettua con le modalita' stabilite dall'[art. 60 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_60), e si ha per eseguita nel giorno successivo a quello in cui l'avviso del deposito e' affisso nell'albo del comune.
+ Nei casi previsti dall'[art. 140, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_140), la notificazione della cartella di pagamento si effettua con le modalita' stabilite dall'[art. 60 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e si ha per eseguita nel giorno successivo a quello in cui l'avviso del deposito e' affisso nell'albo del comune.
  L'esattore deve conservare per cinque anni la matrice o la copia della cartella con la relazione dell'avvenuta notificazione o l'avviso di ricevimento ed ha l'obbligo di farne esibizione su richiesta del contribuente o dell'amministrazione.
  Per quanto non e' regolato dal presente articolo si applicano le disposizioni dell'art. 60 del predetto decreto.
 
@@ -248,7 +248,7 @@ Quando il presupposto dell'imposta locale sui redditi si verifica unitariamente 
 ### Art. 34. — Responsabilita' solidale per l'imposta sui redditi delle persone fisiche
 
 Le persone i cui redditi per l'accertamento dell'imposta sul reddito delle persone fisiche sono stati cumulati con quelli del soggetto iscritto a ruolo sono responsabili in solido con il soggetto medesimo per il pagamento dell'imposta, sopratasse, pene pecuniarie e interessi iscritti a nome di quest'ultimo. 
- La responsabilita' solidale stabilita dal comma precedente opera anche nella ipotesi in cui non si fa luogo, ai sensi del [decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597), al computo cumulativo dei redditi ai soli fini della determinazione dell'aliquota. 
+ La responsabilita' solidale stabilita dal comma precedente opera anche nella ipotesi in cui non si fa luogo, ai sensi del [decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), al computo cumulativo dei redditi ai soli fini della determinazione dell'aliquota. 
  Quando non ricorrono le ipotesi di cui ai commi precedenti le persone indicate nelle lettere a) e b) dell'articolo 4 del predetto decreto sono comunque solidalmente responsabili, limitatamente al valore dei beni ad esse ceduti a qualsiasi titolo dal soggetto passivo, per il pagamento delle imposte da questo dovute per l'anno in cui e' avvenuta la cessione e per gli anni precedenti.
 
 ### Art. 35. — Solidarieta' del sostituto di imposta
@@ -261,7 +261,7 @@ I liquidatori dei soggetti all'imposta sul reddito delle persone giuridiche che 
  La disposizione contenuta nel precedente comma si applica agli amministratori in carica all'atto dello scioglimento della societa' o dell'ente se non si sia provveduto alla nomina dei liquidatori. 
  I soci o associati, che hanno ricevuto nel corso degli ultimi due periodi di imposta precedenti alla messa in liquidazione danaro o altri beni sociali in assegnazione dagli amministratori o hanno avuto in assegnazione beni sociali dai liquidatori durante il tempo della liquidazione, sono responsabili del pagamento delle imposte dovute dai soggetti di cui al primo comma nei limiti del valore dei beni stessi, salvo le maggiori responsabilita' stabilite dal [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262). 
  Le responsabilita' previste dai commi precedenti sono estese agli amministratori che hanno compiuto nel corso degli ultimi due periodi di imposta precedenti alla messa in liquidazione operazioni di liquidazione ovvero hanno occultato attivita' sociali anche mediante omissioni nelle scritture contabili. 
- La responsabilita' di cui ai commi precedenti e' accertata dall'ufficio delle imposte con atto motivato da notificare ai sensi dell'[art. 60 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_60). 
+ La responsabilita' di cui ai commi precedenti e' accertata dall'ufficio delle imposte con atto motivato da notificare ai sensi dell'[art. 60 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md). 
  Avverso l'atto di accertamento e' ammesso ricorso secondo le disposizioni relative al contenzioso tributario di cui al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md). Si applica il primo comma dell'articolo 39.
 
 ### Art. 37. — Rimborso di ritenute dirette
@@ -325,7 +325,7 @@ TITOLO II
 
 Per la riscossione delle imposte non pagate nei modi e nei termini stabiliti l'esattore procedere all'espropriazione forzata in virtu' del ruolo, previa notificazione dell'avviso di mora.
  Il ruolo, in caso di eventuali contestazioni inerenti ai tributi iscritti, costituisce titolo per l'ammissione dei tributi stessi con riserva al passivo delle procedure di cui al [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267).
- Il procedimento di espropriazione forzata, salvo il disposto degli articoli seguenti, e' disciplinato, anche per quanto riguarda le notificazioni, dalle norme del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) e del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443) nonche', per la espropriazione di navi e aeromobili, dalle norme del [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327).
+ Il procedimento di espropriazione forzata, salvo il disposto degli articoli seguenti, e' disciplinato, anche per quanto riguarda le notificazioni, dalle norme del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) e del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443) nonche', per la espropriazione di navi e aeromobili, dalle norme del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
  Le attribuzioni spettanti al giudice dell'esecuzione e agli ufficiali giudiziari sono esercitate rispettivamente dal pretore e dagli ufficiali esattoriali.
 
 ### Art. 46. — Avviso di mora
@@ -603,7 +603,7 @@ Il decreto di ritrasferimento non puo' essere emesso se il riscattante non abbia
 ### Art. 91. — Espropriazione di navi e aeromobili
 
 All'espropriazione di navi e aeromobili si applicano le norme di questo titolo sull'espropriazione immobiliare il termine ad adempiere fissato nell'avviso di mora e' ridotto a ventiquattro ore.
- La trascrizione dell'avviso di vendita deve essere eseguita nei registri e con le modalita' previste dal [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) per il pignoramento.
+ La trascrizione dell'avviso di vendita deve essere eseguita nei registri e con le modalita' previste dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per il pignoramento.
  Il prezzo base dell'incanto e' determinato dal pretore sentito, secondo i casi, il registro navale italiano o il registro aeronautico italiano.
  Non e' applicabile l'art. 87 del presente decreto.
 
@@ -643,7 +643,7 @@ Per il mancato pagamento di tutte o dell'unica rata di un medesimo ruolo quando 
  La dichiarazione di fallimento puo' essere promossa anche nei confronti dei responsabili solidali di cui all'art. 34 purche' si trovino nelle condizioni previste dal comma precedente. 
  Non si fa luogo all'applicazione della pena pecuniaria se il contribuente prova che il mancato pagamento e' stato determinato da impossibilita' economica. 
  Il contribuente incorso in morosita' che, al fine di sottrarsi al pagamento delle imposte dovute, abbia compiuto sui propri o sugli altrui beni atti fraudolenti che rendono in tutto o in parte inefficace l'esecuzione esattoriale e' punito con la reclusione fino a tre anni. 
- La condanna per il reato di cui al precedente comma importa, per un periodo di tre anni, le interdizioni previste negli [articoli 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_28) e [30 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_30) e l'incapacita' prevista nell'[art. 2641 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2641) nonche' la cancellazione, per lo stesso periodo, dall'albo nazionale dei costruttori e dagli albi o elenchi dei fornitori delle pubbliche amministrazioni. Le stesse pene accessorie possono essere applicate provvisoriamente durante l'istruzione o il giudizio a norma dell'[art. 140 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_140).
+ La condanna per il reato di cui al precedente comma importa, per un periodo di tre anni, le interdizioni previste negli [articoli 28](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [30 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e l'incapacita' prevista nell'[art. 2641 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2641) nonche' la cancellazione, per lo stesso periodo, dall'albo nazionale dei costruttori e dagli albi o elenchi dei fornitori delle pubbliche amministrazioni. Le stesse pene accessorie possono essere applicate provvisoriamente durante l'istruzione o il giudizio a norma dell'[art. 140 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 98. — Applicazione delle sanzioni
 
@@ -665,7 +665,7 @@ Le ritenute alla fonte sugli utili indicati nell'[art. 1 della legge 29 dicembre
 ### Art. 100. — Versamento in tesoreria e iscrizione a ruolo di tributi soppressi
 
 Le disposizioni degli articoli 168, 169, 170, 172, 260 e 264 del testo unico delle leggi sulle imposte dirette approvato con [decreto del Presidente della Repubblica 29 gennaio 1958, n. 645](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20imposte%20dirette.md), seguitano ad applicarsi per i versamenti ivi previsti e relativi ai periodi di imposta anteriori al 1 gennaio 1974.
- Per le iscrizioni a ruolo di tributi soppressi in virtu' dell'[art. 82 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_82), e relativi a periodi di imposta anteriori al 1 gennaio 1974 rimangono in vigore gli articoli 174, 175, 178, 180 e 183 del citato testo unico.
+ Per le iscrizioni a ruolo di tributi soppressi in virtu' dell'[art. 82 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), e relativi a periodi di imposta anteriori al 1 gennaio 1974 rimangono in vigore gli articoli 174, 175, 178, 180 e 183 del citato testo unico.
  Per i ricorsi proposti dal 1 gennaio 1974 si applicano le disposizioni dell'art. 15 del presente decreto.
  Le disposizioni dell'art. 176 del citato testo unico operano per le iscrizioni provvisorie relative ai periodi di imposta anteriori al 1 gennaio 1974.
  La riscossione dei tributi di cui al secondo comma iscritti nei ruoli principali e suppletivi e' ripartita in sei rate consecutive con le scadenze indicate nell'art. 18.

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto-legge 24 gennaio 1929, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-24;106), convertito nella [legge 24 giugno 1929, n. 1270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-24;1270); 
+ Veduto il [R. decreto-legge 24 gennaio 1929, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-24;106), convertito nella [legge 24 giugno 1929, n. 1270](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20gennaio%201929%20n.%20106%20recante%20modifica%20alla%20circoscrizione%20di%20alcune%20Provincie.%20029U1270.md); 
  Vedute le deliberazioni dei Rettorati delle provincie di Bologna e di Modena, rispettivamente in data 1° e 8 ottobre 1929, con le quali e' stato concordato il progetto di separazione patrimoniale e di reparto delle attivita' e passivita' in dipendenza del distacco dalla prima e dell'aggregazione alla seconda di dette Provincie del comune di Castelfranco dell'Emilia; 
  Veduti i pareri espressi dalle Giunte provinciali amministrative di Bologna e di Modena in adunanze del 13 novembre 1929; 
  Udito il parere del Consiglio di Stato - sezione prima - in adunanza dell'11 febbraio 1930, il quale parere s'intende nel presente decreto riportato; 

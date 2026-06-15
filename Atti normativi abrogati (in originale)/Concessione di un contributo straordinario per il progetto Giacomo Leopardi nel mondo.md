@@ -33,14 +33,14 @@ E' autorizzata la concessione di un contributo straordinario a carico dello Stat
                             al recupero edilizio e al restauro conservativo dei luoghi leopardiani, ovunque ubicati, del teatro comunale di Recanati, delle istituzioni museali, storico-archivistiche, bibliotecarie, pubbliche e private, anche al di fuori del territorio recanatese.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2.
 
 1.
 
-La giunta esecutiva del comitato nazionale di cui al decreto del Presidente della Repubblica 19 marzo 1987, gia' operante, di seguito denominata "giunta", gestisce le iniziative previste dalla presente legge e puo' affidare l'esecuzione di alcune di esse alle regioni ed ai comuni interessati, al Centro nazionale di studi leopardiani, istituito con regio decreto-legge 1 luglio 1937, n. 1335, convertito dalla [legge 20 dicembre 1937, n. 2255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-12-20;2255), o ad altre istituzioni culturali, anche di carattere internazionale, mettendo a disposizione degli enti affidatari le somme occorrenti.
+La giunta esecutiva del comitato nazionale di cui al decreto del Presidente della Repubblica 19 marzo 1987, gia' operante, di seguito denominata "giunta", gestisce le iniziative previste dalla presente legge e puo' affidare l'esecuzione di alcune di esse alle regioni ed ai comuni interessati, al Centro nazionale di studi leopardiani, istituito con regio decreto-legge 1 luglio 1937, n. 1335, convertito dalla [legge 20 dicembre 1937, n. 2255](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20luglio%201937-XV%20n.%201335%20concernente%20listituzione%20di%20un%20Centro%20nazionale%20di%20studi%20Leopardiani%20con%20sede%20in%20Recanati.%20037U2255.md), o ad altre istituzioni culturali, anche di carattere internazionale, mettendo a disposizione degli enti affidatari le somme occorrenti.
 
 2.
 

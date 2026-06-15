@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [regio decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-01-09;2), convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-19;762), e successive modificazioni ed integrazioni;
+Visto il [regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni ed integrazioni;
 
-Visto il [regio decreto 26 gennaio 1940, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-01-26;10), che approva il regolamento di esecuzione della detta legge;
+Visto il [regio decreto 26 gennaio 1940, n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), che approva il regolamento di esecuzione della detta legge;
 
 Ritenuta la straordinaria necessita' ed urgenza di ritoccare le aliquote dell'imposta generale sull'entrata Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Art. 1.
 
-Le aliquote dell'imposta generale sull'entrata stabilita dal [regio decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-01-09;2), convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-19;762), e successive modificazioni ed integrazioni, sono aumentate del 20 per cento con arrotondamento per eccesso a dieci centesimi.
+Le aliquote dell'imposta generale sull'entrata stabilita dal [regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni ed integrazioni, sono aumentate del 20 per cento con arrotondamento per eccesso a dieci centesimi.
  Lo stesso aumento si applica alle aliquote dovute per l'importazione dall'estero dei prodotti soggetti a detta imposta.
 
 ## Art. 2.

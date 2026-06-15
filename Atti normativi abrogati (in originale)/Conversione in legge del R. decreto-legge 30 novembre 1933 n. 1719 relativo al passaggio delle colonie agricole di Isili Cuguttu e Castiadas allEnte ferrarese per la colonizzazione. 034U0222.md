@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1719](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-30;1719), relativo al passaggio delle colonie agricole di Isili, Cuguttu e Castiadas all'Ente ferrarese per la colonizzazione. 
+ E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1719](Passaggio%20delle%20colonie%20agricole%20di%20Isili%20Cuguttu%20e%20Castiadas%20allEnte%20Ferrarese%20per%20la%20colonizzazione.%20033U1719.md), relativo al passaggio delle colonie agricole di Isili, Cuguttu e Castiadas all'Ente ferrarese per la colonizzazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

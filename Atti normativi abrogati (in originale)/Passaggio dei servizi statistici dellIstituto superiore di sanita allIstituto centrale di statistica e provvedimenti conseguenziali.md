@@ -36,7 +36,7 @@ I posti previsti nel n. 9 della tabella dei ruoli organici dell'Istituto superio
  Sono aumentati in corrispondenza:
  1) un posto di ispettore generale (grado 5°) nel ruolo di cui al n. 3 della tabella anzidetta;
  2) un posto di ispettore generale (grado 5°), uno di coadiutore (grado 7°) ed uno di assistente (grado 9°-8°) nel ruolo di cui al n. 7, lettera A della stessa tabella;
- 3) un posto di grado 6° nei ruolo amministrativo transitorio dell'Istituto centrale di statistica, previsto dal [regio decreto-legge 27 maggio 1929, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-05-27;1285).
+ 3) un posto di grado 6° nei ruolo amministrativo transitorio dell'Istituto centrale di statistica, previsto dal [regio decreto-legge 27 maggio 1929, n. 1285](Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md).
 
 ## Art. 4.
 

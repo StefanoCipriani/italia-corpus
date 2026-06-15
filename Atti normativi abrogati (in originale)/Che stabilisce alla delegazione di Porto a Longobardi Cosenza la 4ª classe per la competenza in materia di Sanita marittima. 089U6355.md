@@ -12,9 +12,9 @@ vigente: true
 
 IL MINISTRO 
  
- Veduti l'art. 4 del regolamento approvato con [R. decreto 20 novembre 1879, N. 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166) (Serie 2ª) e la tabella N. 2 annessa al regolamento medesimo; 
+ Veduti l'art. 4 del regolamento approvato con [R. decreto 20 novembre 1879, N. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md) (Serie 2ª) e la tabella N. 2 annessa al regolamento medesimo; 
  
- Veduto il [R. decreto 1° agosto 1889, N. 6329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-08-01;6329) (Serie 3ª) con cui venne istituita una delegazione di Porto a Longobardi, provincia di Calabria Citeriore (Cosenza), compartimento marittimo di Pizzo; 
+ Veduto il [R. decreto 1° agosto 1889, N. 6329](Che%20istituisce%20una%20Delegazione%20di%20porto%20a%20Longobardi%20Cosenza.%20089U6329.md) (Serie 3ª) con cui venne istituita una delegazione di Porto a Longobardi, provincia di Calabria Citeriore (Cosenza), compartimento marittimo di Pizzo; 
  
  Presi gli opportuni concerti col Ministero dell'Interno; 
  

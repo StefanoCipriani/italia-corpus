@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il [R. decreto-legge 28 luglio 1932, n. 1468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-07-28;1468), concernente assegnazione di fondi al Consorzio autonomo del porto di Genova, per i lavori supplementari di quel porto, e' convertito in legge col seguente emendamento: 
+ Il [R. decreto-legge 28 luglio 1932, n. 1468](Assegnazione%20di%20fondi%20al%20Consorzio%20autonomo%20del%20porto%20di%20Genova%20per%20lavori%20supplementari%20di%20quel%20porto.%20032U1468.md), concernente assegnazione di fondi al Consorzio autonomo del porto di Genova, per i lavori supplementari di quel porto, e' convertito in legge col seguente emendamento: 
  
  «Nel comma 2° dell'art. 1 alle parole 6% all'anno sono sostituite le altre 5,50% all'anno». 
  

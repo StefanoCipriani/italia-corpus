@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 luglio 1929, n. 1444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-07-26;1444), che aumenta il contingente per l'esportazione delle pelli grezze di vitello, per l'anno 1929. 
+ E' convertito in legge il [R. decreto-legge 26 luglio 1929, n. 1444](Aumento%20del%20contingente%20di%20esportazione%20delle%20pelli%20grezze%20di%20vitello%20per%20il%201929.%20029U1444.md), che aumenta il contingente per l'esportazione delle pelli grezze di vitello, per l'anno 1929. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

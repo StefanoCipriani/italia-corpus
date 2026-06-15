@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I maestri elementari assunti in servizio con nomina provvisoria nei Comuni per i quali l'amministrazione delle scuole elementari e' affidata al Consiglio scolastico provinciale ai sensi della [legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487), che risultino richiamati alle armi dopo il 15 luglio 1915 senza avere il grado di ufficiali e sottufficiali, percepiranno, oltre agli assegni militari, per i primi due mesi di servizio militare l'intera retribuzione civile loro assegnata, e per il periodo successivo, fino al termine dell'anno scolastico, comprese le vacanze, una retribuzione ridotta come segue: 
+I maestri elementari assunti in servizio con nomina provvisoria nei Comuni per i quali l'amministrazione delle scuole elementari e' affidata al Consiglio scolastico provinciale ai sensi della [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), che risultino richiamati alle armi dopo il 15 luglio 1915 senza avere il grado di ufficiali e sottufficiali, percepiranno, oltre agli assegni militari, per i primi due mesi di servizio militare l'intera retribuzione civile loro assegnata, e per il periodo successivo, fino al termine dell'anno scolastico, comprese le vacanze, una retribuzione ridotta come segue: 
  
  a) ad un terzo pei maestri celibi; 
  
@@ -30,7 +30,7 @@ I maestri elementari assunti in servizio con nomina provvisoria nei Comuni per i
 
 ## Art. 4.
 
-Alla spesa derivante dal disposto dei precedenti articoli 1 e 3 sara' provveduto con le somme stanziate in conto residui al fondo di riserva istituito con l'[art. 90 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_90). 
+Alla spesa derivante dal disposto dei precedenti articoli 1 e 3 sara' provveduto con le somme stanziate in conto residui al fondo di riserva istituito con l'[art. 90 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md). 
  
  Con decreto del ministro del tesoro saranno introdotte le conseguenti variazioni nello stato di previsione della spesa del Ministero della istruzione pubblica. 
  

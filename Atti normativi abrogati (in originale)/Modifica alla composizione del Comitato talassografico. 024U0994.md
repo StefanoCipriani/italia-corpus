@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 15 luglio 1923, n. 1799](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-15;1799);
+Visto il [R. decreto 15 luglio 1923, n. 1799](Attribuzioni%20ed%20ordinamento%20del%20Regio%20comitato%20talassografico%20italiano.%20023U1799.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro per la marina, di concerto con quelli per le 
 
 ## Articolo unico.
 
-Gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-15;1799#art_3) e [4 del R. decreto 15 luglio 1923, n. 1799](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-15;1799#art_4), sono sostituiti dai seguenti: 
+Gli [articoli 3](Attribuzioni%20ed%20ordinamento%20del%20Regio%20comitato%20talassografico%20italiano.%20023U1799.md) e [4 del R. decreto 15 luglio 1923, n. 1799](Attribuzioni%20ed%20ordinamento%20del%20Regio%20comitato%20talassografico%20italiano.%20023U1799.md), sono sostituiti dai seguenti: 
  
  «Art. 3. - Fanno parte del Regio comitato: un senatore designato dal Senato, un deputato designato dalla Camera dei deputati e, nominati per decreto Reale, due delegati della Societa' italiana per il progresso delle scienze e alcuni tecnici chiamati nel proprio seno dal Comitato stesso. 
  

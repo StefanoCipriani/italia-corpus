@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per la durata della guerra e fino a sei mesi dopo la pubblicazione della pace, e' demandata alle Giunte municipali l'amministrazione delle aziende speciali dei pubblici servizi, costituite in base alla [legge 29 marzo 1903, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-03-29;103), quando le Commissioni amministratrici, per effetto di richiami alle armi o per altre cause abbiano cessato di funzionare, e, a giudizio del prefetto, non possano essere ricostituite. 
+Per la durata della guerra e fino a sei mesi dopo la pubblicazione della pace, e' demandata alle Giunte municipali l'amministrazione delle aziende speciali dei pubblici servizi, costituite in base alla [legge 29 marzo 1903, n. 103](Sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20003U0103.md), quando le Commissioni amministratrici, per effetto di richiami alle armi o per altre cause abbiano cessato di funzionare, e, a giudizio del prefetto, non possano essere ricostituite. 
  
  Sono prorogati per uguale termine e alla medesima condizione i poteri della Giunta municipale o del commissario prefettizio nei casi previsti dall'art. 19 della citata legge.
 

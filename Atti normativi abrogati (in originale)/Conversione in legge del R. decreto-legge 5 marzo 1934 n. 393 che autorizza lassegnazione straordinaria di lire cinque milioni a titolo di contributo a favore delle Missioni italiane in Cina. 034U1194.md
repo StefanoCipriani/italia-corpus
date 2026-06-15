@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 marzo 1934, n. 393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-05;393), che autorizza l'assegnazione straordinaria di lire cinque milioni a titolo di contributo a favore delle Missioni italiane in Cina. 
+ E' convertito in legge il [R. decreto-legge 5 marzo 1934, n. 393](Assegnazione%20straordinaria%20di%20lire%20cinque%20milioni%20a%20titolo%20di%20contributo%20a%20favore%20delle%20Missioni%20italiane%20in%20Cina.%20034U0393.md), che autorizza l'assegnazione straordinaria di lire cinque milioni a titolo di contributo a favore delle Missioni italiane in Cina. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -42,7 +42,7 @@ TITOLO II
 
 ### Art. 4.
 
-Al personale di cui al precedente articolo 2 competono lo stipendio e gli altri assegni fissi e continuativi previsti per l'interno, tranne che per essi sia diversamente disposto. Al personale stesso e' esteso il seguente trattamento economico, previsto dal [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), nei limiti e alle condizioni di quello spettante al personale del Ministero degli affari esteri in servizio presso le rappresentanze diplomatiche ove hanno sede gli uffici degli addetti:
+Al personale di cui al precedente articolo 2 competono lo stipendio e gli altri assegni fissi e continuativi previsti per l'interno, tranne che per essi sia diversamente disposto. Al personale stesso e' esteso il seguente trattamento economico, previsto dal [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), nei limiti e alle condizioni di quello spettante al personale del Ministero degli affari esteri in servizio presso le rappresentanze diplomatiche ove hanno sede gli uffici degli addetti:
  1) indennita' di servizio all'estero con gli aumenti per situazione di famiglia;
  2) indennita' di sistemazione;
  3) indennita' di richiamo dal servizio all'estero;
@@ -54,7 +54,7 @@ Al personale di cui al precedente articolo 2 competono lo stipendio e gli altri 
  9) indennita' e rimborsi per cessazione dalle funzioni all'estero;
  10) indennizzo per danni subiti in conseguenza di disordini, fatti bellici nonche' di eventi connessi con la posizione all'estero del personale;
  11) rimborsi delle spese di trasporto in Italia della salma dei familiari a carico o dei domestici.
- In caso di decesso del personale di cui al precedente articolo 2, spettano ai familiari le indennita' e i rimborsi previsti dall'[articolo 207 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_207).
+ In caso di decesso del personale di cui al precedente articolo 2, spettano ai familiari le indennita' e i rimborsi previsti dall'[articolo 207 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
  All'applicazione del presente articolo provvede il Ministero della difesa, di concerto, ove occorra, con quello del tesoro.
 
 ### Art. 5.
@@ -66,18 +66,18 @@ Il personale accreditato per piu' forze armate nello stesso Stato di residenza h
 
 Le indennita' base di servizio all'estero e relative maggiorazioni o riduzioni, le indennita' ed i rimborsi per viaggi di servizio e di trasferimento, nonche' le provvidenze scolastiche, sono attribuite tenendo conto della tabella 2, annessa alla presente legge, riguardante gli allineamenti economici tra il personale del Ministero della difesa e quello del Ministero degli affari esteri in servizio all'estero.
  Gli addetti aggiunti e gli assistenti, che per ragioni di servizio risiedono in uno Stato diverso da quello in cui risiede l'addetto, percepiscono gli assegni con le maggiorazioni o le riduzioni previste per la sede di residenza.
- Per le sedi ove manchi il corrispondente posto di organico del personale del Ministero degli affari esteri, le maggiorazioni o le riduzioni saranno determinate con decreto del Ministro per la difesa, di concerto con quelli per gli affari esteri e per il tesoro, sentita la commissione permanente di finanziamento, istituita presso il Ministero degli affari esteri ai sensi dell'[articolo 172 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_172).
+ Per le sedi ove manchi il corrispondente posto di organico del personale del Ministero degli affari esteri, le maggiorazioni o le riduzioni saranno determinate con decreto del Ministro per la difesa, di concerto con quelli per gli affari esteri e per il tesoro, sentita la commissione permanente di finanziamento, istituita presso il Ministero degli affari esteri ai sensi dell'[articolo 172 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
 
 ### Art. 7.
 
-Il Ministero della difesa puo' prendere in fitto locali da adibire ad alloggi per il personale degli uffici degli addetti nelle stesse sedi determinate per il personale dell'Amministrazione degli affari esteri ai sensi del [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_84-com2) e [terzo comma dell'articolo 84 del decreto dal Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_84-com3), ed alle condizioni e nei limiti da esso previsti.
+Il Ministero della difesa puo' prendere in fitto locali da adibire ad alloggi per il personale degli uffici degli addetti nelle stesse sedi determinate per il personale dell'Amministrazione degli affari esteri ai sensi del [secondo](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e [terzo comma dell'articolo 84 del decreto dal Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), ed alle condizioni e nei limiti da esso previsti.
  Per la concessione in uso al personale dei locali stessi si applicano il terzo e quarto comma dell'articolo suddetto.
 
 ### Art. 8.
 
 Il personale in servizio all'estero ha diritto in ogni anno solare ad una licenza ordinaria di 30 giorni.
- Per il personale in servizio nelle sedi disagiate, ed in quelle particolarmente disagiate, stabilite per il personale del Ministero degli affari esteri ai sensi del [primo comma dell'articolo 144 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_144-com1), il periodo di licenza ordinaria di cui al comma precedente e' rispettivamente aumentato della meta' e di due terzi.
- Al personale di cui ai precedenti commi si applicano le stesse norme sul trattamento economico per congedi ordinari e per rimborso delle relative spese di viaggio vigenti per il personale del Ministero degli affari esteri in servizio all'estero, compreso il periodo di tempo corrispondente ai giorni di viaggio per andata e ritorno dall'Italia stabilito per il personale del Ministero medesimo ai sensi del [terzo comma dell'articolo 180 del decreto del Presidente della Repubblica 5 gennaio 1967, numero 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_180-com3).
+ Per il personale in servizio nelle sedi disagiate, ed in quelle particolarmente disagiate, stabilite per il personale del Ministero degli affari esteri ai sensi del [primo comma dell'articolo 144 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), il periodo di licenza ordinaria di cui al comma precedente e' rispettivamente aumentato della meta' e di due terzi.
+ Al personale di cui ai precedenti commi si applicano le stesse norme sul trattamento economico per congedi ordinari e per rimborso delle relative spese di viaggio vigenti per il personale del Ministero degli affari esteri in servizio all'estero, compreso il periodo di tempo corrispondente ai giorni di viaggio per andata e ritorno dall'Italia stabilito per il personale del Ministero medesimo ai sensi del [terzo comma dell'articolo 180 del decreto del Presidente della Repubblica 5 gennaio 1967, numero 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
  Nei casi di licenze o congedi straordinari per malattia e per convalescenza, le indennita' per il servizio all'estero sono corrisposte per intero durante il primo mese e con la riduzione del 20 per cento durante il secondo mese. Nei detti casi, qualora il personale non possa essere trasferito senza danni, le indennita' per il servizio all'estero ridotte del 20 per cento sono corrisposte per altri due mesi. Trascorsi i suddetti periodi e in tutti gli altri casi di licenza o congedo straordinari la corresponsione delle indennita' per il servizio all'estero e' sospesa.
  Al personale di cui al secondo comma del precedente articolo si applicano, inoltre, le norme che regolano, per il personale del Ministero degli affari esteri, il computo, ai fini del trattamento di quiescenza, del servizio previsto nelle sedi disagiate e particolarmente disagiate.
 
@@ -98,7 +98,7 @@ Per le esigenze eccezionali degli uffici dell'addetto dell'Esercito, della Marin
 
 ### Art. 11.
 
-I contratti di cui al precedente articolo non possono superare la durata di un anno, con possibilita' di rinnovo, e sono regolati dalle norme contenute nel [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), quale modificato con [legge 17 luglio 1970, n. 569](Modifiche%20delle%20norme%20concernenti%20il%20personale%20assunto%20a%20contratto%20dalle%20rappresentanze%20diplomatiche%20e%20dagli%20uffici%20consolari.md), con esclusione di quelle relative ai contratti a tempo indeterminato concernenti il personale assunto sul posto dall'Amministrazione degli affari esteri per il disimpegno di mansioni di categoria corrispondente.
+I contratti di cui al precedente articolo non possono superare la durata di un anno, con possibilita' di rinnovo, e sono regolati dalle norme contenute nel [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), quale modificato con [legge 17 luglio 1970, n. 569](Modifiche%20delle%20norme%20concernenti%20il%20personale%20assunto%20a%20contratto%20dalle%20rappresentanze%20diplomatiche%20e%20dagli%20uffici%20consolari.md), con esclusione di quelle relative ai contratti a tempo indeterminato concernenti il personale assunto sul posto dall'Amministrazione degli affari esteri per il disimpegno di mansioni di categoria corrispondente.
  I predetti contratti non conferiscono stabilita' d'impiego ne' diritto a collocamento nei ruoli del personale dello Stato.
 
 ## SPESE PER IL FUNZIONAMENTO DEGLI UFFICI  Capo unico
@@ -109,7 +109,7 @@ TITOLO III
 
 Sono a carico del bilancio del Ministero della difesa:
  1) le spese per il fitto dei locali di ufficio quando questi non siano forniti dalla locale rappresentanza diplomatica.
- Il personale degli uffici degli addetti che abbia la propria abitazione annessa all'ufficio e' tenuto a rimborsare il fitto dei locali adibiti ad abitazione, nella misura che sara' determinata dal Ministero della difesa, di concerto con il Ministero del tesoro, sentito il capo della rappresentanza diplomatica secondo i criteri fissati nell'[articolo 84 - quarto comma del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_84-com4);
+ Il personale degli uffici degli addetti che abbia la propria abitazione annessa all'ufficio e' tenuto a rimborsare il fitto dei locali adibiti ad abitazione, nella misura che sara' determinata dal Ministero della difesa, di concerto con il Ministero del tesoro, sentito il capo della rappresentanza diplomatica secondo i criteri fissati nell'[articolo 84 - quarto comma del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md);
  2) le spese per l'illuminazione, il riscaldamento e le pulizie, sempreche' non vi provveda la rappresentanza diplomatica;.
  3) le spese per i servizi postali, telegrafici e telefonici, sostenute per motivi di servizio;
  4) le spese per l'approvvigionamento della cancelleria entro i limiti fissati dal Ministero;
@@ -125,12 +125,12 @@ TITOLO IV
 
 ### Art. 13.
 
-Al personale militare e civile inviato all'estero con funzioni di addetto, di addetto aggiunto, di assistente e di archivista, si applicano per l'assistenza sanitaria da parte dell'Ente nazionale di previdenza e di assistenza per i dipendenti statali (ENPAS) le norme vigenti per il personale del Ministero degli affari esteri in servizio all'estero, di cui all'[articolo 211 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_211).
+Al personale militare e civile inviato all'estero con funzioni di addetto, di addetto aggiunto, di assistente e di archivista, si applicano per l'assistenza sanitaria da parte dell'Ente nazionale di previdenza e di assistenza per i dipendenti statali (ENPAS) le norme vigenti per il personale del Ministero degli affari esteri in servizio all'estero, di cui all'[articolo 211 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
  Al personale locale assunto a contratto si applicano le disposizioni degli articoli 158 e 165 del predetto decreto del Presidente della Repubblica.
 
 ### Art. 14.
 
-Al personale del Ministero della difesa destinato a prestare servizio all'estero presso tribunali misti o internazionali puo' essere corrisposta, qualora il trattamento economico inerente a tale posizione non sia ritenuto sufficiente, un'indennita' integrativa in misura da fissarsi con decreto del Ministro per la difesa di concerto con i Ministri per gli affari esteri e per il tesoro, sentita la commissione permanente di finanziamento di cui all'[articolo 172 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_172).
+Al personale del Ministero della difesa destinato a prestare servizio all'estero presso tribunali misti o internazionali puo' essere corrisposta, qualora il trattamento economico inerente a tale posizione non sia ritenuto sufficiente, un'indennita' integrativa in misura da fissarsi con decreto del Ministro per la difesa di concerto con i Ministri per gli affari esteri e per il tesoro, sentita la commissione permanente di finanziamento di cui all'[articolo 172 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
  La medesima indennita' puo' essere concessa, con le modalita' di cui al precedente comma, al personale civile del Ministero della difesa destinato a prestare servizio presso organismi internazionali.
 
 ### Art. 15.
@@ -146,7 +146,7 @@ Qualora esigenze di sicurezza lo richiedano, il Ministero della difesa puo' dest
 
 ### Art. 17.
 
-Della commissione permanente di finanziamento e di quella per l'indennizzo dei danni, istituite presso il Ministero degli affari esteri ai sensi degli [articoli 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_172) e [208 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_208), fa parte anche un rappresentante del Ministero della difesa, che viene convocato ogni qual volta si discutano questioni concernenti il personale del Ministero stesso.
+Della commissione permanente di finanziamento e di quella per l'indennizzo dei danni, istituite presso il Ministero degli affari esteri ai sensi degli [articoli 172](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e [208 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), fa parte anche un rappresentante del Ministero della difesa, che viene convocato ogni qual volta si discutano questioni concernenti il personale del Ministero stesso.
  Il rappresentante del Ministero della difesa nella commissione per l'indennizzo dei danni deve rivestire qualifica non inferiore a direttore di divisione o grado non inferiore a colonnello.
 
 ### Art. 18.

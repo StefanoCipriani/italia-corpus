@@ -124,9 +124,9 @@ Cap. n. 101-bis (di nuova istituzione)
  ai sensi dell'[art. 1 del R. decreto 10 novembre 1924,
  n. 2044](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-10;2044#art_1) ([decreto Luogotenenziale 14 settembre 1918,
  n. 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1314), e [Regi decreti 3 giugno 1920, n. 737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-03;737);
- [5 aprile 1923, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-05;853); [11 novembre 1923,
- n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e [30 dicembre 1923,
- n. 3084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3084) . . . . . . . . . . . . . . . . . . . » 12,500
+ [5 aprile 1923, n. 853](Contenente%20nuove%20disposizioni%20circa%20la%20corresponsione%20delle%20indennita%20di%20caro-viveri.%20023U0853.md); [11 novembre 1923,
+ n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923,
+ n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md) . . . . . . . . . . . . . . . . . . . » 12,500
 
  ----------- Totale delle maggiori assegnazioni . . . . L. 3,558,000
  ----------- 

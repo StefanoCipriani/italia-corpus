@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il R. decreto-legge 9 dicembre 1935-XIV, n. 2426, che modifica la disposizione contenuta nell'[art. 6 del R. decreto-legge 19 giugno 1924, n. 1125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-06-19;1125#art_6), sul credito agrario agli invalidi di guerra. 
+ E' convertito in legge il R. decreto-legge 9 dicembre 1935-XIV, n. 2426, che modifica la disposizione contenuta nell'[art. 6 del R. decreto-legge 19 giugno 1924, n. 1125](Credito%20agrario%20fondiario%20agli%20invalidi%20di%20guerra%20rurali.%20024U1125.md), sul credito agrario agli invalidi di guerra. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

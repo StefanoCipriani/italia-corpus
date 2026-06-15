@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
 
-Visto il [R. decreto 11 marzo 1923, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;685);
+Visto il [R. decreto 11 marzo 1923, n. 685](Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Col 1° ottobre 1923 e' istituito in Abbazia un ginnasio, intitolato a Dante Ali
 
 ## Art. 2.
 
-Al suo mantenimento sara' provveduto in conformita' delle disposizioni vigenti, salvo per quanto riguarda il contributo del comune di Abbazia che per il biennio 1° ottobre 1923-30 settembre 1925, in base all'[art. 5, comma secondo del R. decreto 11 marzo 1923, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;685#art_5-com2), e' fissato in L. 18,000.
+Al suo mantenimento sara' provveduto in conformita' delle disposizioni vigenti, salvo per quanto riguarda il contributo del comune di Abbazia che per il biennio 1° ottobre 1923-30 settembre 1925, in base all'[art. 5, comma secondo del R. decreto 11 marzo 1923, n. 685](Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md), e' fissato in L. 18,000.
 
 ## Art. 3.
 

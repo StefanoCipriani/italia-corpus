@@ -20,7 +20,7 @@ Ai fini della liquidazione delle pensioni previste nel [primo comma dell'art. 2 
 
 ## Art. 2.
 
-La Commissione istituita con [regio decreto-legge 18 ottobre 1942, n. 1520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-10-18;1520), convertito nella [legge 11 marzo 1943, n. 241](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2018%20ottobre%201942-XX%20n.%201520%20concernente%20listituzione%20di%20una%20Commissione%20per%20la%20ricostituzione%20di%20atti%20di%20morte%20o%20di%20nascita.%20043U0241.md), e' autorizzata a provvedere, con l'osservanza delle disposizioni contenute nel [decreto legislativo 5 aprile 1946, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-04-05;216), alla formazione degli atti di morte occorrenti per la liquidazione delle pensioni di cui al precedente art. 1.
+La Commissione istituita con [regio decreto-legge 18 ottobre 1942, n. 1520](Istituzione%20di%20una%20Commissione%20per%20la%20ricostituzione%20di%20atti%20di%20morte%20o%20di%20nascita.%20042U1520.md), convertito nella [legge 11 marzo 1943, n. 241](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2018%20ottobre%201942-XX%20n.%201520%20concernente%20listituzione%20di%20una%20Commissione%20per%20la%20ricostituzione%20di%20atti%20di%20morte%20o%20di%20nascita.%20043U0241.md), e' autorizzata a provvedere, con l'osservanza delle disposizioni contenute nel [decreto legislativo 5 aprile 1946, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-04-05;216), alla formazione degli atti di morte occorrenti per la liquidazione delle pensioni di cui al precedente art. 1.
 
 ## Art. 3.
 

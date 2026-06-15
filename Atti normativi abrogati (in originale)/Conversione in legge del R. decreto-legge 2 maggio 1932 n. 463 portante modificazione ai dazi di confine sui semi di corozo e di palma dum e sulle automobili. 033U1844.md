@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 maggio 1932, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-05-02;463), portante modificazione ai dazi di confine sui semi di corozo e di palma dum e sulle automobili. 
+ E' convertito in legge il [R. decreto-legge 2 maggio 1932, n. 463](Modificazione%20del%20dazio%20doganale%20dei%20semi%20di%20corozo%20e%20di%20palma%20dum%20e%20di%20quello%20delle%20automobili.%20032U0463.md), portante modificazione ai dazi di confine sui semi di corozo e di palma dum e sulle automobili. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

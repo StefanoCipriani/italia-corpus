@@ -30,7 +30,7 @@ Visto il [R. decreto 9 febbraio 1922, n. 269](Relativo%20allampliamento%20dellim
 
 Vista la convenzione del 28 settembre 1922 approvata con decreto del Ministro per l'agricoltura in data 28 ottobre 1922;
 
-Visto il [R. decreto-legge 19 novembre 1921, n. 1605](Concernente%20disposizioni%20in%20materia%20di%20combustibili%20liquidi%20021U1605.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge 19 novembre 1921, n. 1605](Concernente%20disposizioni%20in%20materia%20di%20combustibili%20liquidi%20021U1605.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto il [R. decreto 7 ottobre 1923, n. 2177](Trapasso%20della%20concessione%20dellimpianto%20termoelettrico%20sovvenzionato%20di%20Pietrafitta%20Perugia%20dalla%20Banca%20Conti%20e%20C.%20alla%20Societa%20italiana%20per%20imprese%20elettriche%20e%20minerarie.%20023U2177.md), riguardante il trapasso della concessione dell'impianto termo-elettrico sovvenzionato di Pietrafitta dalla Banca Conti e C. alla Societa' italiana per le imprese elettriche minerarie, con sede in Firenze;
 

@@ -135,11 +135,11 @@ Con apposito provvedimento, previa intesa con l'impresa farmaceutica interessata
 
 3.
 
-Per le finalita' di cui ai commi 1 e 2, la tariffa prevista dall'[articolo 12, comma 7, del decreto legislativo 30 dicembre 1992, n. 541](Attuazione%20della%20direttiva%2092-28-CEE%20concernente%20la%20pubblicita%20dei%20medicinali%20per%20uso%20umano.md), e' elevata da lire tre milioni a lire sei milioni. Restano confermate le altre tariffe stabilite dal Ministro della sanita' in attuazione dell'[articolo 5, comma 12, della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_5-com12).
+Per le finalita' di cui ai commi 1 e 2, la tariffa prevista dall'[articolo 12, comma 7, del decreto legislativo 30 dicembre 1992, n. 541](Attuazione%20della%20direttiva%2092-28-CEE%20concernente%20la%20pubblicita%20dei%20medicinali%20per%20uso%20umano.md), e' elevata da lire tre milioni a lire sei milioni. Restano confermate le altre tariffe stabilite dal Ministro della sanita' in attuazione dell'[articolo 5, comma 12, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md).
 
 4.
 
-All'[articolo 5, comma 12, della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_5-com12), sono aggiunte, in fine, le seguenti parole: "nonche' per le attivita' di sperimentazione clinica sui medicinali promosse dal Ministero della sanita'.".
+All'[articolo 5, comma 12, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), sono aggiunte, in fine, le seguenti parole: "nonche' per le attivita' di sperimentazione clinica sui medicinali promosse dal Ministero della sanita'.".
 
 ## Art. 8. — Ulteriori disposizioni sulla sperimentazione clinica
 

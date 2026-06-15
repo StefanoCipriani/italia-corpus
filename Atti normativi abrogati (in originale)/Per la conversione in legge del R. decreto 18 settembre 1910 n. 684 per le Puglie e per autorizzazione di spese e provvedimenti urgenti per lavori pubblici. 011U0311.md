@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge l'allegato [R. decreto 18 settembre 1910, n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-09-18;684), portante provvedimenti per la esecuzione di opere pubbliche nelle Puglie. 
+E' convertito in legge l'allegato [R. decreto 18 settembre 1910, n. 684](Che%20autorizza%20il%20ministro%20dei%20lavori%20pubblici%20a%20dichiarare%20urgenti%20le%20opere%20pubbliche%20dello%20Stato%20delle%20Provincie%20e%20dei%20Comuni%20nelle%20Provincie%20pugliesi.%20010U0684.md), portante provvedimenti per la esecuzione di opere pubbliche nelle Puglie. 
  
  Il termine di cui nell'art. 1 del detto R. decreto e' prorogato al 31 dicembre 1911.
 
@@ -297,7 +297,7 @@ Nel conto dei residui del bilancio della spesa del Ministero dei lavori pubblici
 
 ## Art. 26.
 
-Sara' provveduto con le entrate effettive al reintegro delle somme di L. 1,450,000 e 1,000,000 stornate col [R. decreto 18 settembre 1910, n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-09-18;684), e con la presente legge (tabella C) dal fondo stanziato sul capitolo aggiunto n. 359 del bilancio dei lavori pubblici per l'esercizio 1910-911.
+Sara' provveduto con le entrate effettive al reintegro delle somme di L. 1,450,000 e 1,000,000 stornate col [R. decreto 18 settembre 1910, n. 684](Che%20autorizza%20il%20ministro%20dei%20lavori%20pubblici%20a%20dichiarare%20urgenti%20le%20opere%20pubbliche%20dello%20Stato%20delle%20Provincie%20e%20dei%20Comuni%20nelle%20Provincie%20pugliesi.%20010U0684.md), e con la presente legge (tabella C) dal fondo stanziato sul capitolo aggiunto n. 359 del bilancio dei lavori pubblici per l'esercizio 1910-911.
 
 ## Art. 27.
 

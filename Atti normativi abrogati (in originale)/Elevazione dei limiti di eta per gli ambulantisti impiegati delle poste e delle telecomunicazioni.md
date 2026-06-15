@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il regolamento organico per l'Amministrazione delle poste e dei telegrafi, approvato con [regio decreto 14 ottobre 1906, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-10-14;546);
+Visto il regolamento organico per l'Amministrazione delle poste e dei telegrafi, approvato con [regio decreto 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md);
 
-Visto il [regio decreto 9 febbraio 1913, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-02-09;183), che modifica alcuni articoli del regolamento predetto;
+Visto il [regio decreto 9 febbraio 1913, n. 183](Col%20quale%20vengono%20apportate%20modificazioni%20al%20regolamento%20per%20le%20poste%20e%20i%20telegrafi%20approvato%20con%20R.%20decreto%2014%20ottobre%201906%20n.%20546%20riguardante%20il%20trattamento%20del%20personale%20addetto%20agli%20u_e780c3bc9d1d.md), che modifica alcuni articoli del regolamento predetto;
 
-Riconosciuta l'opportunita' di variare il limite di eta' stabilito per gli impiegati in servizio sugli ambulanti e natanti dall'[art. 66-bis del regio decreto 9 febbraio 1913, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-02-09;183#art_66bis);
+Riconosciuta l'opportunita' di variare il limite di eta' stabilito per gli impiegati in servizio sugli ambulanti e natanti dall'[art. 66-bis del regio decreto 9 febbraio 1913, n. 183](Col%20quale%20vengono%20apportate%20modificazioni%20al%20regolamento%20per%20le%20poste%20e%20i%20telegrafi%20approvato%20con%20R.%20decreto%2014%20ottobre%201906%20n.%20546%20riguardante%20il%20trattamento%20del%20personale%20addetto%20agli%20u_e780c3bc9d1d.md);
 
-Vista la [legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100);
+Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Art. 1.
 
-Il limite massimo di eta' di anni 55 stabilito dall'[articolo 66-bis del regio decreto 9 febbraio 1913, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-02-09;183#art_66bis), per gli impiegati in servizio sugli ambulanti e natanti, e' elevato a 60 anni.
+Il limite massimo di eta' di anni 55 stabilito dall'[articolo 66-bis del regio decreto 9 febbraio 1913, n. 183](Col%20quale%20vengono%20apportate%20modificazioni%20al%20regolamento%20per%20le%20poste%20e%20i%20telegrafi%20approvato%20con%20R.%20decreto%2014%20ottobre%201906%20n.%20546%20riguardante%20il%20trattamento%20del%20personale%20addetto%20agli%20u_e780c3bc9d1d.md), per gli impiegati in servizio sugli ambulanti e natanti, e' elevato a 60 anni.
  Rimane peraltro immutata la facolta' dell'Amministrazione di dimettere, in qualunque momento, dallo speciale servizio, gli impiegati che, per sopravvenuta inabilita' fisica o per gravi motivi disciplinari, non siano piu' ritenuti idonei e meritevoli a prestare servizio sui treni o natanti.
 
 ## Art. 2.

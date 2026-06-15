@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti gli [articoli 23 della legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486#art_23), e 4 del testo unico di leggi approdato col [Regio decreto 22 aprile 1909, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-04-22;229), concernenti, rispettivamente, l'impiego, l'investimento e la trasformazione d'impiego dei fondi della Cassa depositi e prestiti e degli Istituti di previdenza ferroviari; 
+ Visti gli [articoli 23 della legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486#art_23), e 4 del testo unico di leggi approdato col [Regio decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), concernenti, rispettivamente, l'impiego, l'investimento e la trasformazione d'impiego dei fondi della Cassa depositi e prestiti e degli Istituti di previdenza ferroviari; 
  
  Ritenuta la necessita' di estendere il detto impiego, investimento e trasformazione d'impiego anche all'acquisto alla pari di cartelle cinque per cento dell'Istituto italiano di Credito fondiario; 
  

@@ -16,7 +16,7 @@ E' istituito presso il Ministero delle poste e dei telegrafi una Commissione, al
 
 ## Art. 2.
 
-Alla spesa derivante dal presente decreto, fermo il disposto dell'[articolo 11 del decreto Luogotenenziale 18 novembre 1916, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-18;1625#art_11), convertito in legge con l'[articolo 4 della legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774#art_4), si provvedera' con apposito stanziamento, da effettuarsi con decreto del ministro del tesoro, nella parte straordinaria dello stato di previsione del Ministero delle poste e dei telegrafi per l'esercizio finanziario 1917-918. 
+Alla spesa derivante dal presente decreto, fermo il disposto dell'[articolo 11 del decreto Luogotenenziale 18 novembre 1916, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-18;1625#art_11), convertito in legge con l'[articolo 4 della legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md), si provvedera' con apposito stanziamento, da effettuarsi con decreto del ministro del tesoro, nella parte straordinaria dello stato di previsione del Ministero delle poste e dei telegrafi per l'esercizio finanziario 1917-918. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti dei Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

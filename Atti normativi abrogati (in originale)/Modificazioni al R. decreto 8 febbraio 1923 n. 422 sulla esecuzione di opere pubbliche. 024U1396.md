@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 8 febbraio 1923, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;422), che detta norme per la esecuzione delle opere pubbliche;
+Visto il [R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), che detta norme per la esecuzione delle opere pubbliche;
 
 Sentito il Consiglio dei Ministri:
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di
 
 ## Art. 1.
 
-All'[art. 2 del R. decreto 8 febbraio 1923, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;422#art_2), e' sostituito il seguente: 
+All'[art. 2 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), e' sostituito il seguente: 
  
  I progetti di opere che si eseguono a cura delle Amministrazioni civili dello Stato, eccettuati quelli delle Ferrovie dello Stato, di competenza del Ministero delle comunicazioni, sono approvati dal Ministero competente previo il parere: 
  
@@ -36,7 +36,7 @@ All'[art. 2 del R. decreto 8 febbraio 1923, n. 422](https://www.normattiva.it/ur
  
  Per i lavori di manutenzione pluriennale, la competenza per l'approvazione in linea tecnica dei relativi progetti sara' determinata avendo riguardo all'importo del canone preveduto per ciascun anno. 
  
- Per l'approvazione dei progetti puo' prescindersi dalla revisione contabile dei calcoli e dei prezzi relativi di cui all'[art. 1 del R. decreto 24 gennaio 1875, n. 2364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-01-24;2364#art_1). 
+ Per l'approvazione dei progetti puo' prescindersi dalla revisione contabile dei calcoli e dei prezzi relativi di cui all'[art. 1 del R. decreto 24 gennaio 1875, n. 2364](Col%20quale%20presso%20il%20Ministero%20dei%20lavori%20pubblici%20e%20istituito%20un%20ufficio%20tecnico%20di%20revisione.%20075U2364.md). 
  
  Nulla e' innovato alle attribuzioni spettanti al Magistrato alle acque a termini della [legge 5 maggio 1907, n. 257](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md). 
  
@@ -150,11 +150,11 @@ All'art. 40 e' sostituito il seguente:
  
  Le disposizioni del presente decreto sono estese, in quanto applicabili, ai lavori che si eseguiscono con o senza concorso dello Stato, dalle provincie, dai comuni o dai consorzi amministrativi per l'esecuzione di opere pubbliche. 
  
- Gli appalti mediante licitazione o trattative private e l'esecuzione in economia sono consentiti salvo, per i comuni e le provincie, il parere del Consiglio di prefettura, anche fuori dei casi previsti nell'[art. 52 del R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839#art_52), concernente la riforma della legge comunale e provinciale e nell'art. 258 del testo unico della legge comunale 
+ Gli appalti mediante licitazione o trattative private e l'esecuzione in economia sono consentiti salvo, per i comuni e le provincie, il parere del Consiglio di prefettura, anche fuori dei casi previsti nell'[art. 52 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), concernente la riforma della legge comunale e provinciale e nell'art. 258 del testo unico della legge comunale 
  
- e provinciale approvato con [R. decreto 4 febbraio 1915 numero 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148), modificato dall'art. 92 del citato [R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839), quando ricorrano le stesse circostanze speciali ed eccezionali indicate nell'[art. 6 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_6), e 41 del [regolamento 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-05-23;827), sulla contabilita' generale dello Stato e nell'art. 7 del presente decreto. 
+ e provinciale approvato con [R. decreto 4 febbraio 1915 numero 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), modificato dall'art. 92 del citato [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), quando ricorrano le stesse circostanze speciali ed eccezionali indicate nell'[art. 6 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_6), e 41 del [regolamento 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-05-23;827), sulla contabilita' generale dello Stato e nell'art. 7 del presente decreto. 
  
- Restano ferme le disposizioni degli articoli 184, 186, 187 e 188 del detto testo unico, salvo per quanto riguarda l'articolo 186 la modificazione ad esso apportata dall'art. 54 del citato [R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839). 
+ Restano ferme le disposizioni degli articoli 184, 186, 187 e 188 del detto testo unico, salvo per quanto riguarda l'articolo 186 la modificazione ad esso apportata dall'art. 54 del citato [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
  
  L'autorizzazione Prefettizia per la dispensa dagli incanti e' richiesta soltanto per gli appalti il cui valore complessivo ecceda le L. 5000 se si tratti di Provincie e L. 2000 se di Comuni. 
  

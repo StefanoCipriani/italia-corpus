@@ -22,7 +22,7 @@ Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle
 
 Visto il [R. decreto 30 dicembre 1923, n. 3208](Applicazione%20dellart.%2047%20del%20R.%20decreto%2030%20settembre%201922%20n.%201290%20e%20successive%20estensioni%20e%20modificazioni%20al%20personale%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20023U3208.md);
 
-Visto il [R. decreto-legge 3 gennaio 1926, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-03;48), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898);
+Visto il [R. decreto-legge 3 gennaio 1926, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-03;48), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
 Ritenuto equo applicare al personale ex combattente di cui al precitato art. 80 le stesse norme di inquadramento previste per altro gruppo di ex combattenti;
 

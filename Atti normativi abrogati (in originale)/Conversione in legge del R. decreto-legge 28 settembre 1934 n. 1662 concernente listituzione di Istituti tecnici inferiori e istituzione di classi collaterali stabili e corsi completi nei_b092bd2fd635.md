@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1662), concernente l'istituzione di istituti tecnici inferiori e istituzioni di classi collaterali stabili e corsi completi nei Regi istituti tecnici e magistrali. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1662](Istituzione%20di%20Istituti%20tecnici%20inferiori%20e%20istituzione%20di%20classi%20collaterali%20stabili%20e%20corsi%20completi%20nei%20Regi%20istituti%20tecnici%20e%20magistrali.%20034U1662.md), concernente l'istituzione di istituti tecnici inferiori e istituzioni di classi collaterali stabili e corsi completi nei Regi istituti tecnici e magistrali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia incerta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-In forza dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In forza dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, l'industria e
 
 ## Art. 1.
 
-Per la durata della guerra, le disposizioni stabilite con gli articoli 118, 119 e 123 del regolamento generale 19 febbraio 1911, n. 188, per l'esecuzione della [legge 2 giugno 1910, n 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277), per il demanio forestale di Stato, non saranno applicate ai castagneti non sottoposti a vincolo forestale. 
+Per la durata della guerra, le disposizioni stabilite con gli articoli 118, 119 e 123 del regolamento generale 19 febbraio 1911, n. 188, per l'esecuzione della [legge 2 giugno 1910, n 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md), per il demanio forestale di Stato, non saranno applicate ai castagneti non sottoposti a vincolo forestale. 
  
  Pei castagneti vincolati l'autorizzazione di taglio, a mente dell'art. 118 suindicato, e' concessa in ogni caso dall'ispettore forestale del ripartimento.
 

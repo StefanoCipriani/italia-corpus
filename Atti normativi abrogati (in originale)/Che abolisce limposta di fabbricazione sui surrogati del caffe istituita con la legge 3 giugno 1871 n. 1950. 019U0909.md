@@ -26,7 +26,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Articolo unico.
 
-A partire dal 1° luglio 1919 e' abolita la imposta di fabbricazione sui surrogati di caffe', istituita colla [legge 3 giugno 1874, n. 1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1874-06-03;1950), e portata alla misura attualmente in vigore dall'art. 5 dell'alleg. A al Nostro decreto 13, maggio 1917, n. 736. 
+A partire dal 1° luglio 1919 e' abolita la imposta di fabbricazione sui surrogati di caffe', istituita colla [legge 3 giugno 1874, n. 1950](Che%20impone%20una%20tassa%20sulla%20preparazione%20della%20radica%20di%20cicoria.%20074U1950.md), e portata alla misura attualmente in vigore dall'art. 5 dell'alleg. A al Nostro decreto 13, maggio 1917, n. 736. 
  
  Dalla stessa data i surrogati del caffe' sono esenti dal pagamento dei dazi comunali di consumo. 
  

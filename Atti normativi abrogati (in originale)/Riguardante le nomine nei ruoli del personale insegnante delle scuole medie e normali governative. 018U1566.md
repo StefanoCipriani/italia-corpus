@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 8 aprile 1906, n. 141, e 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679);
+Viste le [leggi 8 aprile 1906, n. 141, e 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -28,22 +28,22 @@ Sulla proposta del ministro segretario di Stato per la istruzione pubblica, di c
 
 ## Art. 1.
 
-In deroga dell'[art. 1 della legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141#art_1), e 3 della [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), saranno assunti nei diversi ruoli del personale insegnante delle scuole medie e normali governative nei modi e alle condizioni indicate nel presente decreto. 
+In deroga dell'[art. 1 della legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md), e 3 della [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), saranno assunti nei diversi ruoli del personale insegnante delle scuole medie e normali governative nei modi e alle condizioni indicate nel presente decreto. 
  
- a) coloro che in un concorso speciale per sedi di primaria importanza bandito dopo la pubblicazione della [legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141) abbiano conseguito una votazione non inferiore a quella richiesta per essere, secondo i regolamenti in vigore alla data dell'avviso di concorso, compresi nella graduatoria dei vincitori; 
+ a) coloro che in un concorso speciale per sedi di primaria importanza bandito dopo la pubblicazione della [legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md) abbiano conseguito una votazione non inferiore a quella richiesta per essere, secondo i regolamenti in vigore alla data dell'avviso di concorso, compresi nella graduatoria dei vincitori; 
  
- b) coloro che negli stessi concorsi siano stati inclusi tra i proposti per cattedre di sedi non di primaria importanza, a norma del penultimo comma dell'[art. 2 della legge 12 marzo 1911, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-12;177#art_2); 
+ b) coloro che negli stessi concorsi siano stati inclusi tra i proposti per cattedre di sedi non di primaria importanza, a norma del penultimo comma dell'[art. 2 della legge 12 marzo 1911, n. 177](Concernente%20modificazioni%20agli%20articoli%203%20e%206%20della%20legge%208%20aprile%201906%20n.%20141%20sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20011U0177.md); 
  
- c) coloro che in un concorso generale, anteriore o posteriore alla [legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141) abbiano conseguita la idoneita' o la eleggibilita', o siano stati compresi in una delle graduatorie espressamente richieste dal bando di concorso.
+ c) coloro che in un concorso generale, anteriore o posteriore alla [legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md) abbiano conseguita la idoneita' o la eleggibilita', o siano stati compresi in una delle graduatorie espressamente richieste dal bando di concorso.
 
 ## Art. 2.
 
 L'assunzione nei ruoli delle persone comprese nelle categorie di cui all'articolo precedente sara' disposta per la materia, l'ordine e il grado di scuole per i quali esse siano state classificate nei concorsi anzidetti. Nel caso di raggruppamento di insegnamenti titolo valido per l'assunzione sara' l'idoneita' o la eleggibilita' conseguita in concorso ad una sola delle discipline comprese nel raggruppamento. 
  
- Coloro che gia' appartengono al personale di ruolo delle scuole medie e normali governative otterranno il passaggio con le norme dell'[art. 6 della legge 8 aprile 1906, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142#art_6), in base alla sola idoneita' od eleggibilita' conseguita. 
+ Coloro che gia' appartengono al personale di ruolo delle scuole medie e normali governative otterranno il passaggio con le norme dell'[art. 6 della legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md), in base alla sola idoneita' od eleggibilita' conseguita. 
  
  Per gli estranei al personale di ruolo e' necessaria invece la concorrenza degli ulteriori requisiti indicati all'articolo seguente.
-Essi saranno assunti col grado di straordinario; ma tale nomina non sara' convalidata se non in seguito al risultato favorevole di apposita ispezione, che nell'anno scolastico immediatamente successivo dovra' essere compiuta per l'accertamento della loro idoneita' all'ufficio conseguito. Avvenuta tale convalidazione, essi completeranno il periodo di prova secondo le norme dell'[art. 3 della legge 8 aprile 1906, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142#art_3). 
+Essi saranno assunti col grado di straordinario; ma tale nomina non sara' convalidata se non in seguito al risultato favorevole di apposita ispezione, che nell'anno scolastico immediatamente successivo dovra' essere compiuta per l'accertamento della loro idoneita' all'ufficio conseguito. Avvenuta tale convalidazione, essi completeranno il periodo di prova secondo le norme dell'[art. 3 della legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md). 
  
  Ne' la nomina a straordinario ne' il passaggio di ruolo secondo le disposizioni precedenti, potranno aver luogo per coloro che, avendo gia' in altro tempo conseguita la nomina od il passaggio per la materia e l'ordine e grado di Istituti cui si riferisce il concorso nel quale sono stati classificati, abbiano cessato di appartenervi in seguito ai risultati sfavorevoli del periodo di prova. 
  
@@ -78,7 +78,7 @@ Coloro che abbiano ottenuto la nomina od il passaggio di ruolo, saranno destinat
 
 ## Art. 5.
 
-Gli attuali insegnanti di ruolo che in un concorso speciale per sedi di primaria importanza bandito dopo la pubblicazione della [legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141), siano stati compresi nella graduatoria dei vincitori, potranno essere trasferiti o, se conseguano il passaggio di ruolo per effetto del presente decreto, destinati ad una sede primaria per la materia, l'ordine e il grado di scuola per i quali siano stati classificati nel concorso speciale. 
+Gli attuali insegnanti di ruolo che in un concorso speciale per sedi di primaria importanza bandito dopo la pubblicazione della [legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md), siano stati compresi nella graduatoria dei vincitori, potranno essere trasferiti o, se conseguano il passaggio di ruolo per effetto del presente decreto, destinati ad una sede primaria per la materia, l'ordine e il grado di scuola per i quali siano stati classificati nel concorso speciale. 
  
  I trasferimenti o le assegnazioni a norma del presente articolo, avranno luogo dopo il movimento annuale del personale insegnanti alle sedi di primaria importanza che saranno rimaste disponibili.
 
@@ -90,7 +90,7 @@ Coloro che, trovandosi nelle condizioni di cui agli articoli precedenti, aspirin
 
 ## Art. 7.
 
-Nelle scuole tecniche saranno istituite le cattedre di calligrafia, scienze naturali e computisteria ogni qualvolta sia possibile con l'insegnamento in classi ordinarie ed aggiunte anche di piu' scuole tecniche della medesima sede, raggiungere il limite minimo di orario stabilito dall'[art. 8 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_8). 
+Nelle scuole tecniche saranno istituite le cattedre di calligrafia, scienze naturali e computisteria ogni qualvolta sia possibile con l'insegnamento in classi ordinarie ed aggiunte anche di piu' scuole tecniche della medesima sede, raggiungere il limite minimo di orario stabilito dall'[art. 8 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md). 
  
  Nell'organico di ciascun Istituto sono tuttavia conservati i posti di ruolo attualmente esistenti, ancorche' non si verifichi la condizione anzidetta; a mano a mano che si rendano vacanti, le cattedre per le quali la condizione non si verifichi saranno soppresse.
 

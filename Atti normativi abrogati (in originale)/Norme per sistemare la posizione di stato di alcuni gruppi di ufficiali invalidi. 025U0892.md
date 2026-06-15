@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del Regio esercito e della Regia marina;
 
-Visto il regolamento per l'applicazione di detta legge approvato con [R. decreto 18 luglio 1912, n. 867](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-07-18;867);
+Visto il regolamento per l'applicazione di detta legge approvato con [R. decreto 18 luglio 1912, n. 867](Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md);
 
 Visto il [decreto Luogotenenziale 2 aprile 1916, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-04-02;486), col quale si dispone che la dichiarazione di congedo assoluto tiene luogo del decreto di collocamento a riposo per i militari resi permanentemente inabili al servizio;
 

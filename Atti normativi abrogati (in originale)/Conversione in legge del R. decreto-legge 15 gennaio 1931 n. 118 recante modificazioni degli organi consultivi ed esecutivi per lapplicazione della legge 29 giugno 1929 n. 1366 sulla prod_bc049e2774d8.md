@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 gennaio 1931, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-15;118), recante modificazioni degli organi consultivi ed esecutivi per l'applicazione della [legge 29 giugno 1929, n. 1366](Legge%20organica%20sulla%20produzione%20zootecnica.%20029U1366.md), sulla produzione zootecnica. 
+ E' convertito in legge il [R. decreto-legge 15 gennaio 1931, n. 118](Modifiche%20degli%20organi%20consultivi%20ed%20esecutivi%20per%20lapplicazione%20della%20legge%2029%20giugno%201929%20n.%201366%20sulla%20produzione%20zootecnica.%20031U0118.md), recante modificazioni degli organi consultivi ed esecutivi per l'applicazione della [legge 29 giugno 1929, n. 1366](Legge%20organica%20sulla%20produzione%20zootecnica.%20029U1366.md), sulla produzione zootecnica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -20,11 +20,11 @@ Sulla proposta del Ministro per le finanze, di concerto con i Ministri per l'int
 
 ## Art. 1.
 
-Agli Enti locali che entro il 30 giugno 1967 non hanno effettuato gli adempimenti previsti dall'[art. 6-bis del decreto-legge 9 novembre 1966, n. 914](Provvidenze%20In%20favore%20delle%20popolazioni%20del%20Comuni%20colpiti%20dalle%20alluvioni%20o%20mareggiate%20dellautunno%201966.md), convertito, con modificazioni, nella [legge 23 dicembre 1966, n. 1141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-23;1141), e' data facolta' di provvedervi entro il 31 dicembre 1967.
+Agli Enti locali che entro il 30 giugno 1967 non hanno effettuato gli adempimenti previsti dall'[art. 6-bis del decreto-legge 9 novembre 1966, n. 914](Provvidenze%20In%20favore%20delle%20popolazioni%20del%20Comuni%20colpiti%20dalle%20alluvioni%20o%20mareggiate%20dellautunno%201966.md), convertito, con modificazioni, nella [legge 23 dicembre 1966, n. 1141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%201966%20n.%20914%20recante%20provvidenze%20in%20favore%20delle%20popolazioni%20dei%20Comuni%20colpiti%20dalle%20alluvioni%20e%20mareggiate%20dellautunno%201966.md), e' data facolta' di provvedervi entro il 31 dicembre 1967.
 
 ## Art. 2.
 
-Per le partite che verranno revisionate entro il piu' ampio termine di cui al precedente articolo, la riscossione dovra' essere effettuata a decorrere dalla rata di febbraio 1968, con le modalita' previste dall'[art. 7 del decreto-legge 9 novembre 1966, n. 914](Provvidenze%20In%20favore%20delle%20popolazioni%20del%20Comuni%20colpiti%20dalle%20alluvioni%20o%20mareggiate%20dellautunno%201966.md), convertito, con modificazioni, nella [legge 23 dicembre 1966, n. 1141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-23;1141).
+Per le partite che verranno revisionate entro il piu' ampio termine di cui al precedente articolo, la riscossione dovra' essere effettuata a decorrere dalla rata di febbraio 1968, con le modalita' previste dall'[art. 7 del decreto-legge 9 novembre 1966, n. 914](Provvidenze%20In%20favore%20delle%20popolazioni%20del%20Comuni%20colpiti%20dalle%20alluvioni%20o%20mareggiate%20dellautunno%201966.md), convertito, con modificazioni, nella [legge 23 dicembre 1966, n. 1141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%201966%20n.%20914%20recante%20provvidenze%20in%20favore%20delle%20popolazioni%20dei%20Comuni%20colpiti%20dalle%20alluvioni%20e%20mareggiate%20dellautunno%201966.md).
 
 ## Art. 3.
 

@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Viste le [leggi 11 marzo 1953, n. 150 e 18 giugno 1954, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-06-18;343), concernenti delega legislativa al Governo per l'attribuzione di funzioni statali d'interesse esclusivamente locale alle Province, ai Comuni e ad altri Enti locali e per l'attuazione del decentramento amministrativo;
+Viste le [leggi 11 marzo 1953, n. 150 e 18 giugno 1954, n. 343](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20del%20termine%20previsto%20dagli%20articoli%201%20e%208%20della%20legge%2011%20marzo%201953%20n.%20150%20per%20la%20delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20di%20interesse%20esclusivamente%20l_8fb8bdc361e6.md), concernenti delega legislativa al Governo per l'attribuzione di funzioni statali d'interesse esclusivamente locale alle Province, ai Comuni e ad altri Enti locali e per l'attuazione del decentramento amministrativo;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Udito il parere della Commissione consultiva istituita con l'[art. 2 della legge 11 marzo 1953, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;150#art_2);
+Udito il parere della Commissione consultiva istituita con l'[art. 2 della legge 11 marzo 1953, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md);
 
 Udito il parere della Corte dei conti a sezioni riunite;
 
@@ -66,7 +66,7 @@ Il [secondo comma dell'art. 45 del regio decreto 29 luglio 1927, n. 1443](https:
 
 ## Art. 8.
 
-Sulle domande di concessione per l'impianto e la gestione dei depositi di cui all'[art. 11 del regio decreto - legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_11), convertito nella [legge 8 febbraio 1934, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-08;367), provvede il prefetto della Provincia, sentito il parere, per quanto di rispettiva competenza, della Camera di commercio, industria ed agricoltura, del Comando del corpo provinciale dei vigili del fuoco e dell'Ufficio tecnico delle imposte di fabbricazione:
+Sulle domande di concessione per l'impianto e la gestione dei depositi di cui all'[art. 11 del regio decreto - legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_11), convertito nella [legge 8 febbraio 1934, n. 367](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%202%20novembre%201933%20n.%201741%20concernente%20la%20disciplina%20dellimportazione%20lavorazione%20deposito%20e%20distribuzione%20degli%20olii%20minerali%20e%20dei%20carburanti.%20034U0367.md), provvede il prefetto della Provincia, sentito il parere, per quanto di rispettiva competenza, della Camera di commercio, industria ed agricoltura, del Comando del corpo provinciale dei vigili del fuoco e dell'Ufficio tecnico delle imposte di fabbricazione:
  a) quando la capacita' del deposito di oli minerali non sia superiore a 200 mc.;
  b) quando trattisi di impianti di riempimento e travaso di gas di petrolio liquefatti forniti di serbatoio, e la capacita' del serbatoio non sia superiore a 50 me;
  c) quando trattisi di depositi di gas di petrolio liquefatti, e la capacita' di accumulo non sia superiore a 5000 kg.
@@ -82,7 +82,7 @@ Il [secondo comma dell'art. 211 del regio decreto 11 dicembre 1933, n. 1775](htt
 
 ## Art. 11.
 
-Il [primo comma dell'art. 8 del regio decreto 1 luglio 1926, n. 2290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;2290#art_8-com1), convertito nella, [legge 9 giugno 1927, n. 1158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-09;1158), e successive modificazioni, e' sostituito dai seguenti:
+Il [primo comma dell'art. 8 del regio decreto 1 luglio 1926, n. 2290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;2290#art_8-com1), convertito nella, [legge 9 giugno 1927, n. 1158](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20luglio%201926%20n.%202290%20concernente%20lordinamento%20e%20lesercizio%20dei%20Magazzini%20generali.%20027U1158.md), e successive modificazioni, e' sostituito dai seguenti:
  "Per qualsiasi mutazione che si voglia introdurre nel regolamento e in generale nell'ordinamento del magazzino, dovranno essere osservate le norme di cui agli articoli precedenti.
  Le variazioni delle tariffe concernenti i diversi ser vizi dei magazzini generali, sono approvate dalla competente Camera di commercio, industria ed agricoltura, d'intesa con il locale Comitato provinciale dei prezzi, e, per quanto riguarda i magazzini generali posti nei porti marittimi, d'intesa con le competenti autorita' portuali.
  Alla Camera di commercio, industria e agricoltura e' attribuita la vigilanza sui magazzini fiduciari privati e doganali esistenti nella propria circoscrizione.
@@ -90,7 +90,7 @@ Il [primo comma dell'art. 8 del regio decreto 1 luglio 1926, n. 2290](https://ww
 
 ## Art. 12.
 
-I poteri attribuiti al Ministero dell'industria e del commercio dagli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1956#art_9), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1956#art_10), [11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1956#art_11) e [12 del regio decreto-legge 19 ottobre 1933, n. 1956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1956#art_12), convertito nella [legge 14 giugno 1934, n. 1158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-14;1158), sono trasferiti alle Camere di commercio, industria ed agricoltura competenti per territorio.
+I poteri attribuiti al Ministero dell'industria e del commercio dagli [articoli 9](Disciplina%20della%20produzione%20e%20del%20commercio%20serico.%20033U1956.md), [10](Disciplina%20della%20produzione%20e%20del%20commercio%20serico.%20033U1956.md), [11](Disciplina%20della%20produzione%20e%20del%20commercio%20serico.%20033U1956.md) e [12 del regio decreto-legge 19 ottobre 1933, n. 1956](Disciplina%20della%20produzione%20e%20del%20commercio%20serico.%20033U1956.md), convertito nella [legge 14 giugno 1934, n. 1158](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20ottobre%201933%20n.%201956%20concernente%20la%20disciplina%20della%20produzione%20e%20del%20commercio%20serico.%20034U1158.md), sono trasferiti alle Camere di commercio, industria ed agricoltura competenti per territorio.
 
 ## Art. 13.
 
@@ -104,7 +104,7 @@ Sono trasferite alle Camere di commercio, industria ed agricoltura le seguenti a
 ## Art. 14.
 
 I provvedimenti in materia di coltivazione di giacimenti di minerali di interesse locale e per le coltivazioni di giacimenti di acque minerali e termali, emessi dagli ingegneri capi dei Distretti minerari e dai prefetti ai sensi degli articoli 4,5 e 7 del presente decreto saranno sottoposti a controllo preventivo.
- A tale fine, e sino a quando agli uffici ed organi docenti di controllo non sara' data una diversa sistemazione nel quadro del decentramento burocratico, i provvedimenti anzidetti saranno comunicati, per gli adempimenti di rispettiva competenza, nei modi previsti dai [decreti legislativi 18 gennaio 1945, n. 16, 14 giugno 1945, n. 355 e 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-06-27;37) (ratificato, con modificazioni, con la [legge 3 febbraio 1951, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-02-03;164)), agli uffici speciali di ragioneria presso i Provveditorati regionali alle opere pubbliche, nonche' alla
+ A tale fine, e sino a quando agli uffici ed organi docenti di controllo non sara' data una diversa sistemazione nel quadro del decentramento burocratico, i provvedimenti anzidetti saranno comunicati, per gli adempimenti di rispettiva competenza, nei modi previsti dai [decreti legislativi 18 gennaio 1945, n. 16, 14 giugno 1945, n. 355 e 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-06-27;37) (ratificato, con modificazioni, con la [legge 3 febbraio 1951, n. 164](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20dei%20decreti%20legislativi%2027%20giugno%201946%20n.%2037%20e%2025%20luglio%201947%20n.%20937%20concernenti%20norme%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Provveditorati%20regionali%20alle%20_2629b2dc4357.md)), agli uffici speciali di ragioneria presso i Provveditorati regionali alle opere pubbliche, nonche' alla
  Sezione di controllo della Corte dei conti presso la Regione siciliana, alle Delegazioni della Corte dei conti presso la Regione sarda e presso la Regione Trentino-Alto Adige ed agli uffici della Corte stessa distaccati presso i Provveditorati regionali alle opere pubbliche.
  Copia dei provvedimenti anzidetti, che siano divenuti esecutivi, dovra' essere comunicata dagli ingegneri capi dei Distretti minerari alle intendenze nel cui ambito territoriale si trovino i giacimenti.
 

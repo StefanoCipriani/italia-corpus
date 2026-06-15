@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_1) e [2 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_2), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
+Visti gli [articoli 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md) e [2 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
 
-Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_3);
+Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -567,8 +567,8 @@ Agli impiegati che debbano trasferirsi fuori della sede di impiego per partecipa
 
 ### Art. 69. — (Ruoli organici)
 
-Fino alla revisione prevista dall'[art. 5 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_5), rimangono in vigore i ruoli organici del personale disciplinato dal presente decreto, con le modifiche derivanti dai quadri annessi. 
- Rimangono altresi' in vigore i ruoli aggiunti ai ruoli ordinari, concernenti il personale del soppresso Ministero dell'Africa italiana, istituiti alle dipendenze delle Amministrazioni dello Stato con [decreti del Presidente della Repubblica 30 novembre 1954, n. 1496](Norme%20concernenti%20la%20disciplina%20e%20lattuazione%20del%20trasferimento%20del%20personale%20dei%20ruoli%20organici%20del%20soppresso%20Ministero%20dellAfrica%20italiana%20alle%20dipendenze%20di%20altre%20Amministrazioni%20dello_0be034309326.md), e [16 settembre 1955, n. 1304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-09-16;1304).
+Fino alla revisione prevista dall'[art. 5 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), rimangono in vigore i ruoli organici del personale disciplinato dal presente decreto, con le modifiche derivanti dai quadri annessi. 
+ Rimangono altresi' in vigore i ruoli aggiunti ai ruoli ordinari, concernenti il personale del soppresso Ministero dell'Africa italiana, istituiti alle dipendenze delle Amministrazioni dello Stato con [decreti del Presidente della Repubblica 30 novembre 1954, n. 1496](Norme%20concernenti%20la%20disciplina%20e%20lattuazione%20del%20trasferimento%20del%20personale%20dei%20ruoli%20organici%20del%20soppresso%20Ministero%20dellAfrica%20italiana%20alle%20dipendenze%20di%20altre%20Amministrazioni%20dello_0be034309326.md), e [16 settembre 1955, n. 1304](../DPR/Rettifica%20delle%20tabelle%20A%20B%20e%20C%20allegate%20al%20decreto%2030%20novembre%201954%20n.%201496%20concernente%20la%20disciplina%20e%20lattuazione%20del%20trasferimento%20del%20personale%20dei%20ruoli%20organici%20del%20soppresso%20Minis_4784f0b95851.md).
 
 ## DISPOSIZIONI FINALI E' TRANSITORIE  CAPO I Inquadramento del personale nelle nuove carriere
 
@@ -584,7 +584,7 @@ Con lo stesso o con successivo decreto e' determinato il compenso globale da cor
 
 ### Art. 71. — (Ruoli aggiunti)
 
-I ruoli speciali transitori istituiti con il [decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262), e successive modificazioni, sono sostituiti da ruoli aggiunti che comprendono le qualifiche seguenti: 
+I ruoli speciali transitori istituiti con il [decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md), e successive modificazioni, sono sostituiti da ruoli aggiunti che comprendono le qualifiche seguenti: 
  per le carriere direttive: le qualifiche di consigliere di 3ª classe e di consigliere di 2ª classe o equiparate; 
  per le carriere di concetto: le qualifiche di vice segretario e segretario aggiunto o equiparate; 
  per le carriere esecutive: le qualifiche di applicato aggiunto ed applicato o equiparate; 
@@ -723,7 +723,7 @@ Agli impiegati in servizio alla data di entrata in vigore del presente decreto s
 
 (Impiegati dei ruoli transitori della Corte dei conti). 
  
- Gli impiegati collocati nel ruolo speciale transitorio di gruppo A della Corte dei conti a norma dell'[art. 11 della legge 5 giugno 1951, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-06-05;376#art_11), sono, ai sensi ed agli effetti dell'art. 67, ammessi a partecipare agli esami per la promozione alla qualifica di direttore di sezione nel ruolo transitorio di revisione della Corte, per un numero di posti non superiore a quello previsto dall'[articolo 9 del regio decreto 11 dicembre 1941, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-12-11;1404#art_9), modificato dall'[art. 10 del decreto legislativo 5 maggio 1948, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-05;489#art_10).
+ Gli impiegati collocati nel ruolo speciale transitorio di gruppo A della Corte dei conti a norma dell'[art. 11 della legge 5 giugno 1951, n. 376](Norme%20integrative%20e%20di%20attuazione%20del%20decreto%20legislativo%207%20aprile%201948%20n.%20262%20sulla%20istituzione%20di%20ruoli%20speciali%20transitori%20nelle%20Amministrazioni%20dello%20Stato.md), sono, ai sensi ed agli effetti dell'art. 67, ammessi a partecipare agli esami per la promozione alla qualifica di direttore di sezione nel ruolo transitorio di revisione della Corte, per un numero di posti non superiore a quello previsto dall'[articolo 9 del regio decreto 11 dicembre 1941, n. 1404](Norme%20per%20lapplicazione%20del%20R.%20decreto-legge%2028%20giugno%201941-XIX%20n.%20856%20concernente%20il%20riassetto%20del%20servizi%20della%20Corte%20dei%20conti.%20041U1404.md), modificato dall'[art. 10 del decreto legislativo 5 maggio 1948, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-05;489#art_10).
 
 ### Art. 88. — (Carriere del personale dipendente dal Ministero delle finanze)
 
@@ -735,7 +735,7 @@ Gli esami e i concorsi per l'avanzamento nelle carriere del personale dell'Ammin
 
 ### Art. 90. — (Applicabilita)
 
-Le disposizioni del presente decreto si applicano a tutti gli impiegati civili dello Stato salvo gli ordinamenti speciali, che continuano ad essere applicati sino a quando non sara' provveduto al coordinamento previsto dall'[art. 4 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_4). 
+Le disposizioni del presente decreto si applicano a tutti gli impiegati civili dello Stato salvo gli ordinamenti speciali, che continuano ad essere applicati sino a quando non sara' provveduto al coordinamento previsto dall'[art. 4 della legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md). 
  Sono abrogate le disposizioni contrarie o incompatibili con quelle del presente decreto.
 
 ### Art. 91.

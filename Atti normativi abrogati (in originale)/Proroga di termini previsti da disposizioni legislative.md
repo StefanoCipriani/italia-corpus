@@ -30,11 +30,11 @@ All'[articolo 19, comma 14, del decreto legislativo 17 settembre 2007, n. 164](.
 
 1.
 
-Il termine per il completamento delle procedure di assunzione di cui all'[articolo 1, comma 518, della legge 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296#art_1-com518), e' ulteriormente differito al 31 dicembre 2008.
+Il termine per il completamento delle procedure di assunzione di cui all'[articolo 1, comma 518, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), e' ulteriormente differito al 31 dicembre 2008.
 
 2.
 
-Il termine per il completamento delle procedure in corso occorrenti per il reclutamento del personale di magistratura ordinaria e' differito al 31 dicembre 2009. A tale fine, per gli anni 2008 e 2009, e' autorizzato, in deroga all'[articolo 1, comma 523, della legge 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296#art_1-com523), e successive modificazioni, ed all'[articolo 66, comma 3, del decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112#art_66-com3), il reclutamento di magistrati ordinari entro il limite di spesa di 3 milioni di euro per l'anno 2008 e di 30 milioni di euro a decorrere dall'anno 2009, a valere sul fondo di cui all'[articolo 1, comma 527, della legge 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296#art_1-com527), e successive modificazioni.".
+Il termine per il completamento delle procedure in corso occorrenti per il reclutamento del personale di magistratura ordinaria e' differito al 31 dicembre 2009. A tale fine, per gli anni 2008 e 2009, e' autorizzato, in deroga all'[articolo 1, comma 523, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), e successive modificazioni, ed all'[articolo 66, comma 3, del decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112#art_66-com3), il reclutamento di magistrati ordinari entro il limite di spesa di 3 milioni di euro per l'anno 2008 e di 30 milioni di euro a decorrere dall'anno 2009, a valere sul fondo di cui all'[articolo 1, comma 527, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), e successive modificazioni.".
 
 ## Art. 3. — Istituzione delle nuove province
 
@@ -46,17 +46,17 @@ I termini di cui agli [articoli 4, comma 1, delle leggi 11 giugno 2004, n. 146, 
 
 1.
 
-All'[articolo 2, comma 17, della legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_2-com17), le parole: "sei mesi dalla data di entrata in vigore della presente legge" sono sostituite dalle seguenti: "il 30 settembre 2008".
+All'[articolo 2, comma 17, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), le parole: "sei mesi dalla data di entrata in vigore della presente legge" sono sostituite dalle seguenti: "il 30 settembre 2008".
 
 2.
 
-All'[articolo 2, comma 21, della legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_2-com21), le parole: "31 luglio 2008" sono sostituite dalle seguenti: "31 ottobre 2008".
+All'[articolo 2, comma 21, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), le parole: "31 luglio 2008" sono sostituite dalle seguenti: "31 ottobre 2008".
 
 ## Art. 5. — Termovalorizzatori
 
 1.
 
-All'[articolo 2, comma 137, della legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_2-com137), sono apportate le seguenti modificazioni:
+All'[articolo 2, comma 137, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo le parole: "per quelli in costruzione," sono inserite le seguenti: "con riferimento alla parte organica dei rifiuti,";
                         b)
@@ -66,7 +66,7 @@ All'[articolo 2, comma 137, della legge 24 dicembre 2007, n. 244](https://www.no
 
 1.
 
-All'[articolo 3 del decreto-legge 31 dicembre 2007, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-12-31;248#art_3), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-02-28;31), sono apportate le seguenti modificazioni:
+All'[articolo 3 del decreto-legge 31 dicembre 2007, n. 248](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202007%20n.%20248%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: "30 giugno 2008" sono sostituite dalle seguenti: "30 giugno 2009";
                         b)
@@ -76,62 +76,62 @@ All'[articolo 3 del decreto-legge 31 dicembre 2007, n. 248](https://www.normatti
 
 1.
 
-All'[articolo 8-bis del decreto-legge 31 dicembre 2007, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-12-31;248#art_8bis), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-02-28;31), le parole: "30 giugno 2008" sono sostituite dalle seguenti: "28 febbraio 2009".
+All'[articolo 8-bis del decreto-legge 31 dicembre 2007, n. 248](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202007%20n.%20248%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), le parole: "30 giugno 2008" sono sostituite dalle seguenti: "28 febbraio 2009".
 
 ## Art. 8. — Arbitrati
 
 1.
 
-I termini di cui all'[articolo 15 del decreto-legge 31 dicembre 2007, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-12-31;248#art_15), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-02-28;31), sono differiti fino alla data di entrata in vigore delle disposizioni di legge di attuazione della devoluzione delle competenze ivi prevista.
+I termini di cui all'[articolo 15 del decreto-legge 31 dicembre 2007, n. 248](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202007%20n.%20248%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), sono differiti fino alla data di entrata in vigore delle disposizioni di legge di attuazione della devoluzione delle competenze ivi prevista.
 
 ## Art. 9. — Impianti di accumulo e distribuzione dell'acqua
 
 1.
 
-All'articolo 26, comma 6, secondo periodo, del [decreto-legge 31 dicembre 2007, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-12-31;248), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-02-28;31), le parole: "30 giugno 2008" sono sostituite dalle seguenti: "31 dicembre 2008".
+All'articolo 26, comma 6, secondo periodo, del [decreto-legge 31 dicembre 2007, n. 248](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202007%20n.%20248%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), le parole: "30 giugno 2008" sono sostituite dalle seguenti: "31 dicembre 2008".
 
 ## Art. 10. — Riordino dei consorzi di bonifica
 
 1.
 
-All'[articolo 27, comma 1, del decreto-legge 31 dicembre 2007, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-12-31;248#art_27-com1), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-02-28;31), le parole: "30 giugno 2008" sono sostituite dalle seguenti: "31 dicembre 2008".
+All'[articolo 27, comma 1, del decreto-legge 31 dicembre 2007, n. 248](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202007%20n.%20248%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), le parole: "30 giugno 2008" sono sostituite dalle seguenti: "31 dicembre 2008".
 
 ## Art. 11. — Riordino delle partecipazioni societarie dell'Agenzia nazionale per l'attrazione degli investimenti e lo sviluppo di impresa s.p.a.
 
 1.
 
-All'[articolo 28, comma 1, del decreto-legge 31 dicembre 2007, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-12-31;248#art_28-com1), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-02-28;31), le parole: "30 giugno 2008" sono sostituite dalle seguenti: "31 dicembre 2008".
+All'[articolo 28, comma 1, del decreto-legge 31 dicembre 2007, n. 248](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202007%20n.%20248%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), le parole: "30 giugno 2008" sono sostituite dalle seguenti: "31 dicembre 2008".
 
 ## Art. 12. — Reclutamento dei docenti universitari
 
 1.
 
-All'[articolo 12, comma 2, del decreto-legge 31 dicembre 2007, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-12-31;248#art_12-com2), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-02-28;31), le parole: "fino al 31 dicembre 2008" sono sostitute dalle seguenti: "fino al 31 dicembre 2009" e le parole: "entro il 30 giugno 2008" sono sostituite dalle seguenti: "entro il 30 novembre 2008".
+All'[articolo 12, comma 2, del decreto-legge 31 dicembre 2007, n. 248](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202007%20n.%20248%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), le parole: "fino al 31 dicembre 2008" sono sostitute dalle seguenti: "fino al 31 dicembre 2009" e le parole: "entro il 30 giugno 2008" sono sostituite dalle seguenti: "entro il 30 novembre 2008".
 Resta fermo quanto previsto dall'[articolo 66 del decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112#art_66).
 
 2.
 
-Alle procedure indette dopo il 30 giugno 2008 si applica il disposto dell'[articolo 1, comma 2-bis, del decreto-legge 31 gennaio 2005, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-01-31;7#art_1-com2bis), convertito, con modificazioni, dalla [legge 31 marzo 2005, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-31;43).
+Alle procedure indette dopo il 30 giugno 2008 si applica il disposto dell'[articolo 1, comma 2-bis, del decreto-legge 31 gennaio 2005, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-01-31;7#art_1-com2bis), convertito, con modificazioni, dalla [legge 31 marzo 2005, n. 43](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%202005%20n.%207%20recante%20disposizioni%20urgenti%20per%20luniversita%20e%20la%20ricerca%20per%20i%20beni%20e%20le%20attivita%20culturali%20per%20il%20completam_d7cb095e42be.md).
 
 ## Art. 13. — Assunzione di ricercatori
 
 1.
 
-Per l'anno 2008 non si applicano le disposizioni di cui all'[articolo 1, commi 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296#art_1-com648) e [651, della legge 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296#art_1-com651), e, al fine di garantire l'assunzione di ricercatori nelle universita' e negli enti di ricerca, le risorse di cui all'articolo 1, commi 650 e 652, della medesima legge, limitatamente allo stanziamento previsto per l'anno 2008 e al netto delle risorse gia' utilizzate nell'anno 2007, sono utilizzate per il reclutamento di ricercatori delle universita' ai sensi dell'[articolo 1, comma 7, della legge 4 novembre 2005, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-04;230#art_1-com7), e per il reclutamento aggiuntivo di ricercatori degli enti di ricerca, con le modalita' previste dal CCNL di comparto e nei limiti dell'organico vigente presso ciascun ente, ai sensi dell'[articolo 7 del decreto legislativo 5 giugno 1998, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;204#art_7), anche in deroga al limite di spesa relativo alle cessazioni di cui all'articolo 1, comma 643, della medesima [legge n. 296 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006;296).
+Per l'anno 2008 non si applicano le disposizioni di cui all'[articolo 1, commi 648](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md) e [651, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), e, al fine di garantire l'assunzione di ricercatori nelle universita' e negli enti di ricerca, le risorse di cui all'articolo 1, commi 650 e 652, della medesima legge, limitatamente allo stanziamento previsto per l'anno 2008 e al netto delle risorse gia' utilizzate nell'anno 2007, sono utilizzate per il reclutamento di ricercatori delle universita' ai sensi dell'[articolo 1, comma 7, della legge 4 novembre 2005, n. 230](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuove%20disposizioni%20concernenti%20i%20professori%20e%20i%20ricercatori%20universitari%20e%20delega%20al%20Governo%20per%20il%20riordino%20del%20reclutamento%20dei%20professori%20universitari.md), e per il reclutamento aggiuntivo di ricercatori degli enti di ricerca, con le modalita' previste dal CCNL di comparto e nei limiti dell'organico vigente presso ciascun ente, ai sensi dell'[articolo 7 del decreto legislativo 5 giugno 1998, n. 204](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20il%20coordinamento%20la%20programmazione%20e%20la%20valutazione%20della%20politica%20nazionale%20relativa%20alla%20ricerca%20scientifica%20e%20tecnologica%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20d%20del_1ce953a530de.md), anche in deroga al limite di spesa relativo alle cessazioni di cui all'articolo 1, comma 643, della medesima [legge n. 296 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006;296).
 
 2.
 
-L'[articolo 3, comma 1, del decreto-legge 7 settembre 2007, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-09-07;147#art_3-com1), convertito, con modificazioni, dalla [legge 25 ottobre 2007, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-25;176), e' abrogato.
+L'[articolo 3, comma 1, del decreto-legge 7 settembre 2007, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-09-07;147#art_3-com1), convertito, con modificazioni, dalla [legge 25 ottobre 2007, n. 176](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20settembre%202007%20n.%20147%20recante%20disposizioni%20urgenti%20per%20assicurare%20lordinato%20avvio%20dellanno%20scolastico%202007-2008%20ed%20in%20materia%20di_093d2380256f.md), e' abrogato.
 
 ## Art. 14. — Comitato nazionale del sistema universitario e Comitato d'indirizzo per la valutazione della ricerca
 
 1.
 
-Il Comitato nazionale per la valutazione del sistema universitario (CNVSU) di cui all'[articolo 2 della legge 19 ottobre 1999, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-10-19;370#art_2), e' prorogato, nella composizione esistente alla data di entrata in vigore del presente decreto, fino al 31 maggio 2009 ovvero, se ultimate prima della suddetta data, fino al completamento delle procedure occorrenti a rendere effettivamente operativa l'Agenzia nazionale di valutazione del sistema universitario e della ricerca (ANVUR), di cui all'[articolo 2, commi 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-10-03;262#art_2-com138)-[141, del decreto-legge 3 ottobre 2006, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-10-03;262#art_2-com141), convertito, con modificazioni, dalla [legge 24 novembre 2006, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-11-24;286).
+Il Comitato nazionale per la valutazione del sistema universitario (CNVSU) di cui all'[articolo 2 della legge 19 ottobre 1999, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-10-19;370#art_2), e' prorogato, nella composizione esistente alla data di entrata in vigore del presente decreto, fino al 31 maggio 2009 ovvero, se ultimate prima della suddetta data, fino al completamento delle procedure occorrenti a rendere effettivamente operativa l'Agenzia nazionale di valutazione del sistema universitario e della ricerca (ANVUR), di cui all'[articolo 2, commi 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-10-03;262#art_2-com138)-[141, del decreto-legge 3 ottobre 2006, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-10-03;262#art_2-com141), convertito, con modificazioni, dalla [legge 24 novembre 2006, n. 286](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20ottobre%202006%20n.%20262%20recante%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md).
 
 2.
 
-Per le attivita' di funzionamento del CNVSU e del Comitato di indirizzo per la valutazione della ricerca (CIVR) sono utilizzate le risorse finanziarie previste dall'[articolo 2, comma 142, del decreto-legge 3 ottobre 2006, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-10-03;262#art_2-com142), convertito, con modificazioni, dalla [legge 24 novembre 2006, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-11-24;286), iscritte nello stato di previsione della spesa del Ministero dell'istruzione, dell'universita' e della ricerca.
+Per le attivita' di funzionamento del CNVSU e del Comitato di indirizzo per la valutazione della ricerca (CIVR) sono utilizzate le risorse finanziarie previste dall'[articolo 2, comma 142, del decreto-legge 3 ottobre 2006, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-10-03;262#art_2-com142), convertito, con modificazioni, dalla [legge 24 novembre 2006, n. 286](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20ottobre%202006%20n.%20262%20recante%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md), iscritte nello stato di previsione della spesa del Ministero dell'istruzione, dell'universita' e della ricerca.
 
 3.
 

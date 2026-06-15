@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 1.
 
-Il termine del 30 giugno 1984, indicato nel [comma 1 dell'articolo 1 del decreto-legge 28 febbraio 1984, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-28;19#art_1-com1), convertito, con modificazioni, nella [legge 18 aprile 1984, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80), e' ulteriormente prorogato al 31 ottobre 1984.
+Il termine del 30 giugno 1984, indicato nel [comma 1 dell'articolo 1 del decreto-legge 28 febbraio 1984, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-28;19#art_1-com1), convertito, con modificazioni, nella [legge 18 aprile 1984, n. 80](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201984%20n.%2019%20recante%20proroga%20dei%20termini%20ed%20accelerazione%20delle%20procedure%20per%20lapplicazione%20della%20legge%2014%20maggio%201981%20n_a07e7a1fc128.md), e' ulteriormente prorogato al 31 ottobre 1984.
 
 2.
 

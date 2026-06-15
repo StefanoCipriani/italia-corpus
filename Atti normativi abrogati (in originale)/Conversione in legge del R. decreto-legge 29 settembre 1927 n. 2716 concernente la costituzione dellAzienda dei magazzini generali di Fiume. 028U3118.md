@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 settembre 1927, n. 2716](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-09-29;2716), concernente la costituzione di una Azienda per l'amministrazione e l'esercizio di punti franchi e di magazzini generali nel porto di Fiume con la denominazione di «Azienda dei magazzini generali di Fiume». 
+ E' convertito in legge il [R. decreto-legge 29 settembre 1927, n. 2716](Costituzione%20di%20unazienda%20per%20lamministrazione%20e%20lesercizio%20di%20punti%20franchi%20e%20di%20magazzini%20generali%20nel%20porto%20di%20Fiume%20con%20la%20denominazione%20di%20Azienda%20dei%20magazzini%20generali%20di%20Fiume%20027U2716.md), concernente la costituzione di una Azienda per l'amministrazione e l'esercizio di punti franchi e di magazzini generali nel porto di Fiume con la denominazione di «Azienda dei magazzini generali di Fiume». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

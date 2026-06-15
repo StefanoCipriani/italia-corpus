@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduta la [legge 21 marzo 1915, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-03-21;273), recante provvedimenti per la difesa economica e militare dello Stato; 
+ Veduta la [legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md), recante provvedimenti per la difesa economica e militare dello Stato; 
  
  Veduto il [R. decreto 2 maggio 1915, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-02;635), concernente l'espatrio per ragioni di lavoro; 
  

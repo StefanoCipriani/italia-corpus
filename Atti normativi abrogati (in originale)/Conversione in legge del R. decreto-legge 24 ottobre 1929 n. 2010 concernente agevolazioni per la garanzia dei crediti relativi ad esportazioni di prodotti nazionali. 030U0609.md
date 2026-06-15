@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 ottobre 1929, n. 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-24;2010), concernente agevolazioni per la garanzia dei crediti relativi ad esportazioni di prodotti nazionali. 
+ E' convertito in legge il [R. decreto-legge 24 ottobre 1929, n. 2010](Agevolazioni%20per%20la%20garanzia%20dei%20crediti%20relativi%20ad%20esportazioni%20di%20prodotti%20nazionali.%20029U2010.md), concernente agevolazioni per la garanzia dei crediti relativi ad esportazioni di prodotti nazionali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

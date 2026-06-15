@@ -34,13 +34,13 @@ Il [decreto Luogotenenziale 4 ottobre 1917, n. 1604](https://www.normattiva.it/u
  
  Art. 2. - L'Istituto nazionale di credito per la cooperazione e' inoltre autorizzato a costituire depositi cauzionali e a fare credito agli enti agrari di cui sopra, per fornir loro i mezzi necessari per la conduzione dei terreni e l'ordinaria coltivazione di essi. 
  
- Art. 3. - A garanzia dei mutui di cui all'art. 1, gli enti agrari del Lazio rilasceranno agli Istituti sovventori regolare delegazione sull'esattore che riscuote tutte le entrate sociali nei modi e forme di cui all'[art. 8 della legge 4 agosto 1894, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-08-04;397#art_8). Puo' anche farsi luogo alla iscrizione ipotecaria sui beni del dominio collettivo. 
+ Art. 3. - A garanzia dei mutui di cui all'art. 1, gli enti agrari del Lazio rilasceranno agli Istituti sovventori regolare delegazione sull'esattore che riscuote tutte le entrate sociali nei modi e forme di cui all'[art. 8 della legge 4 agosto 1894, n. 397](Sullordinamento%20dei%20dominii%20collettivi%20nelle%20provincie%20dellex%20Stato%20Pontificio%20094U0397.md). Puo' anche farsi luogo alla iscrizione ipotecaria sui beni del dominio collettivo. 
  
  Art. 4. - Gli enti agrari sono autorizzati a contrarre i mutui previsti dall'art. 1 con decreto del ministro per l'agricoltura, o, quando debba concedersi l'ipoteca sui beni del dominio collettivo, con decreto Reale su proposta del ministro stesso. 
  
  I mutui sono dall'Istituto sovventore notificati, per lettera raccomandata, al Ministero per l'agricoltura, che gli rilascera' un certificato di iscrizione d'impegno in bilancio sui competenti capitoli per la corrispondente annualita' e per la quota d'interessi ai termini rispettivamente degli articoli 5 e 6. 
  
- Alle anticipazioni di cui al 1° capoverso dell'art. 1 sono applicabili le disposizioni di cui alla quarta parte dell'[art. 7 della legge 12 luglio 1908, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-12;444#art_7). 
+ Alle anticipazioni di cui al 1° capoverso dell'art. 1 sono applicabili le disposizioni di cui alla quarta parte dell'[art. 7 della legge 12 luglio 1908, n. 444](Concernente%20la%20concessione%20e%20costruzione%20di%20ferrovie%20008U0444.md). 
  
  Art. 5. - Quando le entrate sociali riscosse nell'anno non coprono l'intero importo delle corrispondenti annualita' dovute agli Istituti sovventori, lo Stato anticipera' la differenza. A tale fine sara' fatto uno stanziamento nel bilancio annuale del Ministero per l'agricoltura di L. 500 mila. 
  
@@ -58,11 +58,11 @@ Il [decreto Luogotenenziale 4 ottobre 1917, n. 1604](https://www.normattiva.it/u
  
  Tale privilegio segue immediatamente quello delle spese di giustizia agli effetti dell'[art. 1959 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1959) e compete di diritto all'ente agrario o all'Istituto sovventore, ognuno per cio' che lo riguarda, per il solo fatto della concessione del prestito in danaro o in natura in confronto di chiunque possegga, coltivi, o conduca il terreno entro l'anno in cui scade la sovvenzione. 
  
- Art. 8. - Quando il debitore deteriora o distrae gli oggetti sottoposti al privilegio stabilito dall'articolo precedente, oppure impiega in tutto o in parte la somma ricevuta a prestito per scopi diversi da quelli per i quali fu concessa, e' punito con le pene comminate dall'[art. 203 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_203). 
+ Art. 8. - Quando il debitore deteriora o distrae gli oggetti sottoposti al privilegio stabilito dall'articolo precedente, oppure impiega in tutto o in parte la somma ricevuta a prestito per scopi diversi da quelli per i quali fu concessa, e' punito con le pene comminate dall'[art. 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Art. 9. - Alle operazioni di credito agrario di cui all'art. 2 si applica il disposto degli [art. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-03-29;100#art_26) e [27 della legge 29 marzo 1906, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-03-29;100#art_27). 
+ Art. 9. - Alle operazioni di credito agrario di cui all'art. 2 si applica il disposto degli [art. 26](Che%20istituisce%20presso%20il%20Banco%20di%20Sicilia%20una%20sezione%20per%20lesercizio%20del%20credito%20agrario.%20006U0100.md) e [27 della legge 29 marzo 1906, n. 100](Che%20istituisce%20presso%20il%20Banco%20di%20Sicilia%20una%20sezione%20per%20lesercizio%20del%20credito%20agrario.%20006U0100.md). 
  
- Gli atti e contratti relativi ad acquisti, affrancazioni, mutui, nell'interesse degli enti agrari del Lazio sono scritti su carta da bollo da lire due, e ad essi si applica il disposto dell'[art. 56 della legge 25 giugno 1882, n. 869](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-06-25;869#art_56) (serie 3ª). 
+ Gli atti e contratti relativi ad acquisti, affrancazioni, mutui, nell'interesse degli enti agrari del Lazio sono scritti su carta da bollo da lire due, e ad essi si applica il disposto dell'[art. 56 della legge 25 giugno 1882, n. 869](Sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi%20082U0869.md) (serie 3ª). 
  
  Gli enti agrari di cui sopra e i loro utenti godranno, per i miglioramenti fondiari, e le trasformazioni colturali ereguite nei terreni appartenenti al dominio collettivo, nonche' per gli atti di concessione dei terreni stessi in utenza, di tutti i benefici e le esenzioni fiscali di che agli articoli 19 e 21, secondo comma, 22 e 24 comma secondo, e 25 della legge ([testo unico) 10 novembre 1905, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-11-10;647), per il bonificamento dell'agro romano. 
  

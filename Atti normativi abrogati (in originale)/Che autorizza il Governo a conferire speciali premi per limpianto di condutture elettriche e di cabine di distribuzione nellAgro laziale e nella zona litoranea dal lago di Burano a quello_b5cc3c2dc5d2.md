@@ -16,7 +16,7 @@ Alle Societa' ed imprese elettriche di distribuzione, che diano le necessarie ga
 
 ## Art. 2.
 
-Le somme necessarie per i premi di cui all'articolo precedente, saranno prelevate dalla Cassa di colonizzazione per l'agro romano, costituita con l'[art. 12 della legge 17 luglio 1910, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491#art_12).
+Le somme necessarie per i premi di cui all'articolo precedente, saranno prelevate dalla Cassa di colonizzazione per l'agro romano, costituita con l'[art. 12 della legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md).
 
 ## Art. 3.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 2 della legge 20 dicembre 1952, n. 2385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-20;2385#art_2), che ha convertito in legge il [decreto-legge 30 ottobre 1952, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1952-10-30;1323), concernente un nuovo sistema di accertamento della imposta di fabbricazione sugli oli di semi;
+Visto l'[art. 2 della legge 20 dicembre 1952, n. 2385](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20ottobre%201952%20n.%201323%20concernente%20un%20nuovo%20sistema%20di%20accertamento%20della%20imposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), che ha convertito in legge il [decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), concernente un nuovo sistema di accertamento della imposta di fabbricazione sugli oli di semi;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -84,13 +84,13 @@ essere eseguito nella disoleazione;
 ## Art. 7.
 
 I semi oleosi esteri pervenuti dalle dogane alla fabbrica di disoleazione con bolletta di accompagnamento debbono essere presi in carico dall'agente addetto alla vigilanza e dal fabbricante in apposito registro.
- Sulle eccedenze di semi esteri riscontrate nei magazzini di fabbrica, rispetto al carico contabile risultante dal registro di cui sopra, e' dovuto da parte del fabbricante il pagamento dell'imposta corrispondente all'olio estraibile dalla quantita' di semi in eccedenza calcolata a termini dell'[art. 3 del decreto-legge 30 ottobre 1952, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1952-10-30;1323#art_3), convertito nella [legge 20 dicembre 1952, n. 2385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-20;2385).
+ Sulle eccedenze di semi esteri riscontrate nei magazzini di fabbrica, rispetto al carico contabile risultante dal registro di cui sopra, e' dovuto da parte del fabbricante il pagamento dell'imposta corrispondente all'olio estraibile dalla quantita' di semi in eccedenza calcolata a termini dell'[art. 3 del decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), convertito nella [legge 20 dicembre 1952, n. 2385](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20ottobre%201952%20n.%201323%20concernente%20un%20nuovo%20sistema%20di%20accertamento%20della%20imposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md).
  Il funzionario addetto alla vigilanza della fabbrica ha facolta' di prelevare campioni di ciascuna partita di semi introdotta, e di spedirli al competente Laboratorio chimico compartimentale delle dogane per accertare che la quantita' dei semi corrisponda a quella indicata nella bolletta di accompagnamento.
 
 ## Art. 8.
 
 La disoleazione contemporanea dei semi esteri e dei semi nazionali puo' avvenire soltanto se la fabbrica e' provvista di impianti di disoleazione installati in reparti separati.
- Per i semi di lino e di ricino importati dall'estero per essere lavorati esclusivamente a pressione presso fabbriche provviste di impianti di estrazione a solvente ed a pressione, la liquidazione dell'imposta potra' farsi in base alle rese in olio greggio previste nella tabella A) allegata al [decreto-legge 30 ottobre 1952, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1952-10-30;1323), per la disoleazione a pressione, anche nel caso di disoleazione contemporanea di semi oleosi di altra specie col sistema a solvente, purche' i relativi impianti siano installati in reparti separati e i semi di lino e di ricino, come sopra importati, siano custoditi in apposito magazzino vincolato alla finanza, diverso dal magazzino di deposito dei semi esteri di altra specie destinati al reparto di estrazione a solvente.
+ Per i semi di lino e di ricino importati dall'estero per essere lavorati esclusivamente a pressione presso fabbriche provviste di impianti di estrazione a solvente ed a pressione, la liquidazione dell'imposta potra' farsi in base alle rese in olio greggio previste nella tabella A) allegata al [decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), per la disoleazione a pressione, anche nel caso di disoleazione contemporanea di semi oleosi di altra specie col sistema a solvente, purche' i relativi impianti siano installati in reparti separati e i semi di lino e di ricino, come sopra importati, siano custoditi in apposito magazzino vincolato alla finanza, diverso dal magazzino di deposito dei semi esteri di altra specie destinati al reparto di estrazione a solvente.
  Per poter sottoporre i semi di lino e di ricino al trattamento di cui sopra l'importatore dovra' esibire alla dogana, attraverso la quale avviene l'importazione, un certificato rilasciato dal competente Ufficio tecnico delle imposte di fabbricazione attestante che nella fabbrica alla quale detti semi sono destinati ricorrano le condizioni di cui al precedente comma.
 
 ## Art. 9.
@@ -100,11 +100,11 @@ I semi oleosi nazionali o esteri introdotti nelle fabbriche soggette a vigilanza
  A) nella parte del carico:
  1) la qualita', la quantita' e la provenienza dei semi esteri importati, nonche' gli estremi delle relative bollette d'importazione;
  2) il nominativo e la residenza del fornitore dei semi nazionali;
- 3) gli estremi delle fatture, note, conti, quietanze o altri documenti emessi in relazione all'acquisto od al passaggio dei semi oleosi in conto lavorazione, ai sensi degli [articoli 8 del regio decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-01-09;2#art_8), convertito nella [legge 19 giugno 1940, n. 762 e 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-19;16) e 35 del relativo regolamento, approvato con [regio decreto 26 gennaio 1940, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-01-26;10);
+ 3) gli estremi delle fatture, note, conti, quietanze o altri documenti emessi in relazione all'acquisto od al passaggio dei semi oleosi in conto lavorazione, ai sensi degli [articoli 8 del regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762 e 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-19;16) e 35 del relativo regolamento, approvato con [regio decreto 26 gennaio 1940, n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md);
  4) la data, l'ora, la qualita' e la quantita' dei semi introdotti nei magazzini o direttamente posti in lavorazione;
  B) nella parte dello scarico:
  5) la qualita' e la quantita' dei semi passati in lavorazione;
- 6) il quantitativo di olio ricavabile dalla partita di semi da lavorare, calcolato nel modo indicato nell'[art. 3 del decreto-legge 30 ottobre 1952, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1952-10-30;1323#art_3);
+ 6) il quantitativo di olio ricavabile dalla partita di semi da lavorare, calcolato nel modo indicato nell'[art. 3 del decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md);
  7) l'importo dell'imposta pagata sul quantitativo di olio di cui al precedente n. 6;
  8) gli estremi della quietanza di Tesoreria comprovante il pagamento dell'imposta sugli oli estraibili dai semi nazionali.
 
@@ -115,7 +115,7 @@ Le fabbriche soggette a vigilanza saltuaria, che normalmente lavorano semi nazio
 
 ## Art. 11.
 
-Verificata l'esattezza della dichiarazione di lavoro di cui all'[art. 8 del decreto-legge 30 ottobre 1952, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1952-10-30;1323#art_8), convertito nella [legge 20 dicembre 1952, n. 2385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-20;2385), l'Ufficio tecnico delle imposte di fabbricazione procede al disuggellamento dell'impianto ed autorizza la lavorazione dei semi.
+Verificata l'esattezza della dichiarazione di lavoro di cui all'[art. 8 del decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), convertito nella [legge 20 dicembre 1952, n. 2385](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20ottobre%201952%20n.%201323%20concernente%20un%20nuovo%20sistema%20di%20accertamento%20della%20imposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), l'Ufficio tecnico delle imposte di fabbricazione procede al disuggellamento dell'impianto ed autorizza la lavorazione dei semi.
  Durante la lavorazione l'Ufficio controlla, mediante frequenti riscontri, la capacita' di lavorazione giornaliera, al fine di accertare che gli elementi della dichiarazione di lavoro risultino rispondenti a quelli in essa indicati.
  Terminata la lavorazione, il funzionario addetto provvede al suggellamento degli apparecchi in modo da impedirne il funzionamento.
 
@@ -125,7 +125,7 @@ Nel caso di lavorazione di semi effettuata nelle fabbriche di oli di semi sogget
  A) nella parte del carico:
  1) la qualita', la quantita' e la provenienza dei semi passati giornalmente in lavorazione;
  2) il quantitativo di olio effettivamente ricavato da ciascuna partita di semi, distintamente per qualita';
- 3) il quantitativo di olio ricavabile dalla partita di semi passata in lavorazione, calcolato nel modo indicato nell'[art. 3 del decreto-legge 30 ottobre 1952, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1952-10-30;1323#art_3);
+ 3) il quantitativo di olio ricavabile dalla partita di semi passata in lavorazione, calcolato nel modo indicato nell'[art. 3 del decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md);
  4) l'importo dell'imposta pagata sul quantitativo di olio indicato al precedente n. 3;
  B) nella parte dello scarico:
  5) il quantitativo di olio greggio estratto, di volta in volta, dalla fabbrica;
@@ -158,7 +158,7 @@ L'Ufficio tecnico delle imposte di fabbricazione, ricevuta la comunicazione di c
 
 ## Art. 17.
 
-Le ditte che intendano impiegare oli di semi nella fabbricazione dei prodotti di cui all'[art. 14 del decreto-legge 30 ottobre 1952, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1952-10-30;1323#art_14), devono richiedere autorizzazione al competente Ufficio tecnico delle imposte di fabbricazione.
+Le ditte che intendano impiegare oli di semi nella fabbricazione dei prodotti di cui all'[art. 14 del decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), devono richiedere autorizzazione al competente Ufficio tecnico delle imposte di fabbricazione.
  Nella domanda deve essere indicato:
  a) il nominativo e la residenza della ditta o di chi la rappresenta;
  b) la quantita' degli oli di semi da impiegare nella fabbricazione di ciascun prodotto ammesso all'agevolezza;
@@ -166,17 +166,17 @@ Le ditte che intendano impiegare oli di semi nella fabbricazione dei prodotti di
 
 ## Art. 18.
 
-Le ditte ammesse a fruire dell'agevolezza prevista per gli oli di semi impiegati nella fabbricazione dei prodotti di cui all'[art. 14 del decreto-legge 30 ottobre 1952, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1952-10-30;1323#art_14), debbono tenere aggiornato apposito registro di carico e scarico, previamente vidimato dall'Ufficio tecnico delle imposte di fabbricazione, in cui nella parte del carico saranno annotati:
+Le ditte ammesse a fruire dell'agevolezza prevista per gli oli di semi impiegati nella fabbricazione dei prodotti di cui all'[art. 14 del decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), debbono tenere aggiornato apposito registro di carico e scarico, previamente vidimato dall'Ufficio tecnico delle imposte di fabbricazione, in cui nella parte del carico saranno annotati:
  a) la quantita' degli oli di semi pervenuti allo stabilimento;
  b) il nominativo della, ditta mittente;
  c) gli estremi della bolletta di legittimazione.
  Nella parte dello scarico:
- a) la quantita' di olio di semi effettivamente impiegata risultante dal verbale redatto a termini dell'[art. 14 del decreto-legge 30 ottobre 1952, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1952-10-30;1323#art_14);
+ a) la quantita' di olio di semi effettivamente impiegata risultante dal verbale redatto a termini dell'[art. 14 del decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md);
  b) il quantitativo e la denominazione di ciascun prodotto fabbricato che fruisce dell'agevolezza.
 
 ## Art. 19.
 
-Il funzionario preposto alla vigilanza della lavorazione dei prodotti indicati nell'[art. 14 del decreto-legge 30 ottobre 1952, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1952-10-30;1323#art_14), dopo aver accertata la quantita' di olio prelevata dal magazzino o dal serbatoio, assistera' alla immissione del prodotto in caldaia, nonche' all'aggiunta della glicerina.
+Il funzionario preposto alla vigilanza della lavorazione dei prodotti indicati nell'[art. 14 del decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), dopo aver accertata la quantita' di olio prelevata dal magazzino o dal serbatoio, assistera' alla immissione del prodotto in caldaia, nonche' all'aggiunta della glicerina.
  La massa come sopra ottenuta dovra' essere riscaldata a temperatura da 220 a 240 gradi e cioe' fino alla formazione del mono o del digliceride.
  Dopo raffreddamento di detta massa fino alla temperatura di 160-180° c, il funzionario incaricato dovra' assistere alla immissione nella caldaia di anidride ftalica, in quantita' non inferiore al 5% in peso, rispetto all'olio posto in lavorazione, fornita dalla ditta interessata ed analizzata e riconosciuta idonea, prima dell'impiego, dal competente Laboratorio chimico compartimentale delle dogane.
  Detta massa sara' successivamente riscaldata fino a portarla alla temperatura di 220-240°, dopo di che il prodotto potra' essere lasciato a disposizione del fabbricante.
@@ -184,7 +184,7 @@ Il funzionario preposto alla vigilanza della lavorazione dei prodotti indicati n
 
 ## Art. 20.
 
-La liquidazione dei rimborsi dell'imposta a favore delle ditte ammesse a fruire dei rimborsi stessi a termini dell'[art. 14 del decreto-legge 30 ottobre 1952, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1952-10-30;1323#art_14), e' eseguita alla fine di ciascun quadrimestre da parte della Intendenza di finanza, alla quale gli interessati-,dovranno presentare domanda corredata di un verbale redatto dal competente Ufficio tecnico delle imposte di fabbricazione attestante la quantita' di olio di semi impiegata, nel quadrimestre precedente alla domanda, nella fabbricazione dei prodotti per i quali e' previsto il rimborso dell'imposta sull'olio usato, nonche' il quantitativo di ciascuno di detti prodotti.
+La liquidazione dei rimborsi dell'imposta a favore delle ditte ammesse a fruire dei rimborsi stessi a termini dell'[art. 14 del decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), e' eseguita alla fine di ciascun quadrimestre da parte della Intendenza di finanza, alla quale gli interessati-,dovranno presentare domanda corredata di un verbale redatto dal competente Ufficio tecnico delle imposte di fabbricazione attestante la quantita' di olio di semi impiegata, nel quadrimestre precedente alla domanda, nella fabbricazione dei prodotti per i quali e' previsto il rimborso dell'imposta sull'olio usato, nonche' il quantitativo di ciascuno di detti prodotti.
 
 ## Art. 21.
 
@@ -204,7 +204,7 @@ Nelle raffinerie il movimento degli oli raffinati deve essere tenuto in evidenza
 
 ## Art. 23.
 
-L'accertamento delle violazioni al [decreto-legge 30 ottobre 1952, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1952-10-30;1323), convertito nella [legge 20 dicembre 1952, n. 2385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-20;2385), e al presente decreto, oltre che agli ufficiali ed agenti indicati nel capitolo II del titolo II della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), spetta, nei limiti delle attribuzioni stabilite dalla detta legge, anche:
+L'accertamento delle violazioni al [decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), convertito nella [legge 20 dicembre 1952, n. 2385](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20ottobre%201952%20n.%201323%20concernente%20un%20nuovo%20sistema%20di%20accertamento%20della%20imposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), e al presente decreto, oltre che agli ufficiali ed agenti indicati nel capitolo II del titolo II della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), spetta, nei limiti delle attribuzioni stabilite dalla detta legge, anche:
  a) ai funzionari dell'Amministrazione finanziaria muniti all'uopo della speciale tessera di riconoscimento;
  b) agli ufficiali ed agenti contemplati negli [articoli 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_41) e [46 del regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_46), contenente norme per la repressione delle frodi nella preparazione e nel commercio di sostanze di uso agrario e di prodotti agrari.
  I processi verbali di accertamento sono, dagli ufficiali, funzionari o agenti scopritori, trasmessi all'Intendenza di finanza per l'ulteriore corso.
@@ -213,7 +213,7 @@ L'accertamento delle violazioni al [decreto-legge 30 ottobre 1952, n. 1323](http
 
 ## Art. 24.
 
-Il trasporto di oli di semi, in quantita' inferiore a kg. 25, ove siano destinati a ditte esercenti depositi denunciati agli effetti dell'[art. 15 del decreto-legge 30 ottobre 1952, n. 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1952-10-30;1323#art_15), deve avvenire col vincolo della bolletta di legittimazione.
+Il trasporto di oli di semi, in quantita' inferiore a kg. 25, ove siano destinati a ditte esercenti depositi denunciati agli effetti dell'[art. 15 del decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), deve avvenire col vincolo della bolletta di legittimazione.
 
 ## Art. 25.
 

@@ -24,9 +24,9 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Durante l'attuale stato di guerra e sino a sei mesi dopo la sua cessazione, la liberazione condizionale preveduta dall'[art. 176 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_176) puo' essere concessa, concorrendo le altre condizioni volute dalla legge, anche a coloro che sono stati condannati ad una pena detentiva non superiore a cinque anni. 
+ Durante l'attuale stato di guerra e sino a sei mesi dopo la sua cessazione, la liberazione condizionale preveduta dall'[art. 176 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) puo' essere concessa, concorrendo le altre condizioni volute dalla legge, anche a coloro che sono stati condannati ad una pena detentiva non superiore a cinque anni. 
  
- Durante il suddetto periodo la liberazione condizionale preveduta nell'[art. 71 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_71) militare di pace puo' essere concessa anche ai condannati a pena militare per un tempo non superiore a tre anni. 
+ Durante il suddetto periodo la liberazione condizionale preveduta nell'[art. 71 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace puo' essere concessa anche ai condannati a pena militare per un tempo non superiore a tre anni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

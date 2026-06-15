@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 10 agosto 1890, n. 7087](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-10;7087) che ha approvato la vigente tariffa consolare e l'[art 7 della legge 13 giugno 1910, n. 306](Per%20le%20convenzioni%20provvisorie%20e%20definitive%20pei%20servizi%20postali%20e%20commerciali%20marittimi%20ed%20altri%20provvedimenti%20a%20favore%20delle%20industrie%20marittime.%20010U0306.md), che ha soppressi i diritti stabiliti ai paragrafi 41, 42, 43, 44, 45, 46, 47, 48, 51 e 53 della tariffa stessa;
+Visto il [R. decreto 10 agosto 1890, n. 7087](Che%20determina%20i%20diritti%20da%20riscuotersi%20nei%20regi%20uffici%20diplomatici%20e%20consolari%20allestero%20secondo%20lannessa%20tabella.%20090U7087.md) che ha approvato la vigente tariffa consolare e l'[art 7 della legge 13 giugno 1910, n. 306](Per%20le%20convenzioni%20provvisorie%20e%20definitive%20pei%20servizi%20postali%20e%20commerciali%20marittimi%20ed%20altri%20provvedimenti%20a%20favore%20delle%20industrie%20marittime.%20010U0306.md), che ha soppressi i diritti stabiliti ai paragrafi 41, 42, 43, 44, 45, 46, 47, 48, 51 e 53 della tariffa stessa;
 
 Udito il Consiglio dei ministri;
 

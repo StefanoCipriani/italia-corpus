@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico
 
-Il termine del 31 dicembre 1982, indicato nell'ultimo comma dell'[articolo 10 del decreto-legge 23 gennaio 1982, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-23;9#art_10), convertito, con modificazioni, nella [legge 25 marzo 1982, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-25;94), e' prorogato al 30 giugno 1983.
+Il termine del 31 dicembre 1982, indicato nell'ultimo comma dell'[articolo 10 del decreto-legge 23 gennaio 1982, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-23;9#art_10), convertito, con modificazioni, nella [legge 25 marzo 1982, n. 94](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201982%20n.%209%20concernente%20norme%20per%20ledilizia%20residenziale%20e%20provvidenze%20in%20materia%20di%20sfratti.md), e' prorogato al 30 giugno 1983.
  La presente legge entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle, leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

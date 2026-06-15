@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 7 maggio 1954, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-05-07;203), concernente cambiamento della denominazione della medaglia mauriziana pel merito militare di dieci lustri in quella di medaglia mauriziana al merito di dieci lustri di carriera militare e norme per il conferimento della decorazione;
+Vista la [legge 7 maggio 1954, n. 203](Cambiamento%20della%20denominazione%20della%20medaglia%20mauriziana%20per%20merito%20militare%20di%20dieci%20lustri%20in%20quella%20di%20medaglia%20mauriziana%20al%20merito%20di%20dieci%20lustri%20di%20carriera%20militare%20e%20norme%20per%20i_9c430ab2faea.md), concernente cambiamento della denominazione della medaglia mauriziana pel merito militare di dieci lustri in quella di medaglia mauriziana al merito di dieci lustri di carriera militare e norme per il conferimento della decorazione;
 
 Udito il parere del Consiglio di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la difesa; Decreta:
 
 ## Articolo unico.
 
-La medaglia mauriziana al merito di dieci lustri di carriera militare, di cui alla [legge 7 maggio 1954, numero 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-05-07;203), e' conforme al modello annesso al presente decreto visto dal Ministro per la difesa.
+La medaglia mauriziana al merito di dieci lustri di carriera militare, di cui alla [legge 7 maggio 1954, numero 203](Cambiamento%20della%20denominazione%20della%20medaglia%20mauriziana%20per%20merito%20militare%20di%20dieci%20lustri%20in%20quella%20di%20medaglia%20mauriziana%20al%20merito%20di%20dieci%20lustri%20di%20carriera%20militare%20e%20norme%20per%20i_9c430ab2faea.md), e' conforme al modello annesso al presente decreto visto dal Ministro per la difesa.
 Essa e' coniata in ore nelle dimensioni di millimetri 50 e
 millimetri 35, rispettivamente per gli ufficiali generali ed ammiragli e per gli ufficiali dei gradi inferiori, ed e' sostenuta da un nastro di seta color verde.
  La medaglia ed il relativo nastrino sono portati con le stesse modalita' stabilite per le decorazioni nazionali.

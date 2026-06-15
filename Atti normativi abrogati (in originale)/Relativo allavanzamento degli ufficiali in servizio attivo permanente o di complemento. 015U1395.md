@@ -10,18 +10,18 @@ vigente: true
 
 ## Art. 1.
 
-Per la durata della guerra il periodo di servizio presso le truppe richiesto dall'[art. 21 della legge 8 giugno 1913, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_21), per il trasferimento nel corpo di stato maggiore, potra' essere ridotto, oltre che per le ragioni di cui all'[art. 4 del R. decreto, n. 472, del 15 aprile 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-15;472#art_4), anche per esigenze di servizio e qualora non sia possibile di ricoprire altrimenti le vacanze nel corpo stesso.
+Per la durata della guerra il periodo di servizio presso le truppe richiesto dall'[art. 21 della legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), per il trasferimento nel corpo di stato maggiore, potra' essere ridotto, oltre che per le ragioni di cui all'[art. 4 del R. decreto, n. 472, del 15 aprile 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-15;472#art_4), anche per esigenze di servizio e qualora non sia possibile di ricoprire altrimenti le vacanze nel corpo stesso.
 
 ## Art. 2.
 
-Per la durata della guerra all'[art. 56 della legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254#art_56), sull'avanzamento nel R. esercito e' sostituito il seguente: 
+Per la durata della guerra all'[art. 56 della legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito e' sostituito il seguente: 
  
- I termini fissati dagli articoli 7 e 16 sono ridotti a meta' in tempo di guerra ed il limite di eta' di 19 anni stabilito dall'[art. 2 della legge 8 giugno 1913, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_2), e' ridotto a 18. 
+ I termini fissati dagli articoli 7 e 16 sono ridotti a meta' in tempo di guerra ed il limite di eta' di 19 anni stabilito dall'[art. 2 della legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), e' ridotto a 18. 
  
  I termini per le promozioni possono derogarsi solo: 
  
- a) per le promozioni straordinarie di cui all'[art. 14 della legge 8 giugno 1913, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_14); 
- b) per le promozioni a scelta e per quelle con precedenza di posto, di cui agli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_7), [9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_9) e [23 della legge 8 giugno 1913, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_23), e 38 della [legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254); 
+ a) per le promozioni straordinarie di cui all'[art. 14 della legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md); 
+ b) per le promozioni a scelta e per quelle con precedenza di posto, di cui agli [articoli 7](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), [9](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md) e [23 della legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), e 38 della [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md); 
  c) per impossibilita' di ricoprire altrimenti le vacanze.
 
 ## Art. 3.
@@ -44,7 +44,7 @@ Sono apportate le seguenti modificazioni al [decreto Luogotenenziale, n. 1085, d
 
 ## Art. 6.
 
-Per la durata della guerra, le promozioni nel ruolo tecnico dell'arma d'artiglieria potranno essere effettuate prescindendo, per quanto ha attinenza coi gradi, dal limite stabilito dalla tabella annessa all'[art. 2 della legge 10 luglio 1910, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-10;443#art_2). 
+Per la durata della guerra, le promozioni nel ruolo tecnico dell'arma d'artiglieria potranno essere effettuate prescindendo, per quanto ha attinenza coi gradi, dal limite stabilito dalla tabella annessa all'[art. 2 della legge 10 luglio 1910, n. 443](Istituzione%20del%20servizio%20tecnico%20e%20di%20un%20corso%20superiore%20tecnico%20dartiglieria.%20010U0443.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

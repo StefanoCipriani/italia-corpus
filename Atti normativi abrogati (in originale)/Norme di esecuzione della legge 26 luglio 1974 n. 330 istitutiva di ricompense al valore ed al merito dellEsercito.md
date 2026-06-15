@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 26 luglio 1974, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-07-26;330), istitutiva delle ricompense al valore ed al merito dell'Esercito;
+Vista la [legge 26 luglio 1974, n. 330](Istituzione%20di%20ricompense%20al%20valore%20e%20al%20merito%20dellEsercito.md), istitutiva delle ricompense al valore ed al merito dell'Esercito;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -50,15 +50,15 @@ Le proposte di concessione delle ricompense sono formulate dalle autorita' le qu
  b) dai comandanti militari territoriali o di corpo d'armata, in caso di atti ed attivita' compiuti da militari in servizio nelle unita' alle proprie dipendenze od appartenenti ad unita' di altra Forza armata dislocate nei territori di giurisdizione, ovvero da civili; 
  c) dall'autorita' militare di grado piu' elevato presente al fatto, ovvero, nel caso non esista, dall'autorita' consolare, per gli atti e le attivita' compiute all'estero. 
  I documenti relativi, corredati dei dati necessari a comprovare il fatto ed a porne in evidenza tutti gli aspetti, devono essere trasmessi al Ministero della difesa entro tre mesi a partire dalla data dell'evento che ha dato luogo alla proposta. 
- Per i fatti avvenuti prima dell'entrata in vigore della [legge 26 luglio 1974, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-07-26;330), il termine suindicato e' di sei mesi dall'entrata in vigore del presente decreto; per i fatti avvenuti all'estero non e' prescritto termine alcuno.
+ Per i fatti avvenuti prima dell'entrata in vigore della [legge 26 luglio 1974, n. 330](Istituzione%20di%20ricompense%20al%20valore%20e%20al%20merito%20dellEsercito.md), il termine suindicato e' di sei mesi dall'entrata in vigore del presente decreto; per i fatti avvenuti all'estero non e' prescritto termine alcuno.
 
 ## Art. 5.
 
-Le ricompense al valore ed al merito dell'Esercito sono consegnate al titolare o a coloro cui vengono attribuite in proprieta' ai sensi degli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-07-26;330#art_3) e [4 della legge 26 luglio 1974, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-07-26;330#art_4), in forma solenne, nella ricorrenza di feste nazionali, dai comandanti militari territoriali e di corpo d'armata o da altra autorita' designata dal Ministro per la difesa.
+Le ricompense al valore ed al merito dell'Esercito sono consegnate al titolare o a coloro cui vengono attribuite in proprieta' ai sensi degli [articoli 3](Istituzione%20di%20ricompense%20al%20valore%20e%20al%20merito%20dellEsercito.md) e [4 della legge 26 luglio 1974, n. 330](Istituzione%20di%20ricompense%20al%20valore%20e%20al%20merito%20dellEsercito.md), in forma solenne, nella ricorrenza di feste nazionali, dai comandanti militari territoriali e di corpo d'armata o da altra autorita' designata dal Ministro per la difesa.
 
 ## Art. 6.
 
-Il Ministero della difesa partecipa di volta in volta ai comuni di nascita dei premiati, per gli adempimenti previsti dall'[art. 10, terzo comma, della legge 26 luglio 1974, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-07-26;330#art_10-com3), la concessione delle ricompense dando comunicazione integrale delle motivazioni. 
+Il Ministero della difesa partecipa di volta in volta ai comuni di nascita dei premiati, per gli adempimenti previsti dall'[art. 10, terzo comma, della legge 26 luglio 1974, n. 330](Istituzione%20di%20ricompense%20al%20valore%20e%20al%20merito%20dellEsercito.md), la concessione delle ricompense dando comunicazione integrale delle motivazioni. 
  Fa fede del conferimento delle ricompense il brevetto rilasciato dal Ministro per la difesa indicante il nome del premiato, la motivazione, la data ed il luogo del fatto che ha determinato il provvedimento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

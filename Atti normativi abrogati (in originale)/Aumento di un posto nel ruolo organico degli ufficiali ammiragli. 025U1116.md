@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato, modificato con il [R. decreto 23 dicembre 1923, n. 3189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-23;3189);
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, modificato con il [R. decreto 23 dicembre 1923, n. 3189](Modificazioni%20ai%20ruoli%20organici%20degli%20ufficiali%20della%20Regia%20marina.%20023U3189.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro ad interim pe
 
 ## Articolo unico.
 
-Ai ruoli organici degli ufficiali dello Stato Maggiore della Regia marina risultante dalla tabella n. 68, allegata al [Regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e' apportato l'aumento di un posto nel grado di contrammiraglio. 
+Ai ruoli organici degli ufficiali dello Stato Maggiore della Regia marina risultante dalla tabella n. 68, allegata al [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' apportato l'aumento di un posto nel grado di contrammiraglio. 
  
  Il presente decreto andra' in vigore dalla sua data e sara' presentato al Parlamento per la sua conversione in legge. 
  

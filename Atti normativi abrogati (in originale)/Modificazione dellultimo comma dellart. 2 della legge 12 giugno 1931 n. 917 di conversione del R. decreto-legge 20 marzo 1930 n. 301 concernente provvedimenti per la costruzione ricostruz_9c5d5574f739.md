@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'ultimo comma dell'[art. 2 della legge 12 giugno 1931, n. 917](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20marzo%201930%20n.%20301%20concernente%20provvedimenti%20per%20la%20costruzione%20e%20ricostruzione%20di%20edifici%20di%20culto%20assistenza%20beneficenza%20educazione%20ed%20istruz_0b7d0c797411.md), di conversione del [R. decreto-legge 20 marzo 1930, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-20;301), e' modificato come appresso: 
+ L'ultimo comma dell'[art. 2 della legge 12 giugno 1931, n. 917](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20marzo%201930%20n.%20301%20concernente%20provvedimenti%20per%20la%20costruzione%20e%20ricostruzione%20di%20edifici%20di%20culto%20assistenza%20beneficenza%20educazione%20ed%20istruz_0b7d0c797411.md), di conversione del [R. decreto-legge 20 marzo 1930, n. 301](Provvedimenti%20per%20la%20costruzione%20e%20ricostruzione%20di%20edifici%20di%20culto%20assistenza%20beneficenza%20educazione%20ed%20istruzione%20nellArchidiocesi%20di%20Messina.%20030U0301.md), e' modificato come appresso: 
  «La spesa per gli scopi di cui ai commi c) e d) dovra' essere ragguagliata alla meta' della somma di cui all'ultimo comma dell'art.
 1». 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 

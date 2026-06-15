@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il termine fissato dall'[articolo 34 del Regio Decreto 25 giugno 1871, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1871-06-25;284#art_34), Serie 2ª, per le iscrizioni e rinnovazioni delle iscrizioni ipotecarie nelle Provincie Venete e di Mantova, e' prorogato per le dette Provincie a tutto l'anno 1874.
+Il termine fissato dall'[articolo 34 del Regio Decreto 25 giugno 1871, n. 284](Contenente%20disposizioni%20transitorie%20ed%20altre%20per%20lunificazione%20legislativa%20delle%20Provincie%20della%20Venezia%20e%20di%20Mantova.%20071U0284.md), Serie 2ª, per le iscrizioni e rinnovazioni delle iscrizioni ipotecarie nelle Provincie Venete e di Mantova, e' prorogato per le dette Provincie a tutto l'anno 1874.
 
 ## Art. 2.
 

@@ -14,11 +14,11 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349);
 
-Visto l'[articolo 14, comma 7, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_14-com7);
+Visto l'[articolo 14, comma 7, della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md);
 
-Vista la [legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67), ed in particolare l'articolo 18, comma 5;
+Vista la [legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), ed in particolare l'articolo 18, comma 5;
 
-Visto l'[articolo 1-bis del decreto-legge 4 dicembre 1993, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-04;496#art_1bis), convertito, con modificazioni, dalla [legge 21 gennaio 1994, n. 61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-21;61);
+Visto l'[articolo 1-bis del decreto-legge 4 dicembre 1993, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-04;496#art_1bis), convertito, con modificazioni, dalla [legge 21 gennaio 1994, n. 61](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20dicembre%201993%20n.%20496%20recante%20disposizioni%20urgenti%20sulla%20riorganizzazione%20dei%20controlli%20ambientali%20e%20istituzione%20dellAgenzia%20nazi_281314b446f7.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti il riordino delle commissioni e dei comitati tecnico-scientifici operanti presso il Ministero dell'ambiente;
 
@@ -38,14 +38,14 @@ Il comitato scientifico di cui all'[articolo 11 della legge 8 luglio 1986, n. 34
 
 1.
 
-Il comitato tecnico-scientifico di cui all'[articolo 15 del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_15), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441), e' soppresso.
+Il comitato tecnico-scientifico di cui all'[articolo 15 del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_15), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md), e' soppresso.
 
 ## Art. 3.
 
 1.
 
 Le competenze spettanti agli organi di cui agli articoli 1 e 2 sono trasferite alla commissione tecnico-scientifica per la valutazione dei progetti di protezione e risanamento ambientale di cui all'[articolo 14, comma 7, 
-della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_14-com7).
+della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md).
 
 ## Art. 4.
 
@@ -61,7 +61,7 @@ Entro trenta giorni dalla data di entrata in vigore del presente decreto, il Min
 
 1.
 
-Il numero complessivo dei componenti della commissione tecnico-scientifica per la valutazione dei progetti di protezione e risanamento ambientale di cui all'[articolo 14, comma 7, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_14-com7), ed all'[articolo 17, comma 33, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_17-com33), e' ridotto a 29 unita'.
+Il numero complessivo dei componenti della commissione tecnico-scientifica per la valutazione dei progetti di protezione e risanamento ambientale di cui all'[articolo 14, comma 7, della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), ed all'[articolo 17, comma 33, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), e' ridotto a 29 unita'.
 
 2.
 
@@ -75,7 +75,7 @@ La commissione tecnico-scientifica, nella attuale composizione, continua a svolg
 
 1.
 
-Il numero complessivo dei componenti della commissione per le valutazioni dell'impatto ambientale, istituita dall'[articolo 18, comma 5, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_18-com5), e' ridotto a 15 unita', compreso il presidente, che sara' scelto tra esperti particolarmente qualificati quali docenti universitari, magistrati ordinari, amministrativi e contabili, avvocati dello Stato, dirigenti dello Stato e di enti pubblici, anche in quiescenza, e comunque soggetti di comprovata qualificazione professionale.
+Il numero complessivo dei componenti della commissione per le valutazioni dell'impatto ambientale, istituita dall'[articolo 18, comma 5, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), e' ridotto a 15 unita', compreso il presidente, che sara' scelto tra esperti particolarmente qualificati quali docenti universitari, magistrati ordinari, amministrativi e contabili, avvocati dello Stato, dirigenti dello Stato e di enti pubblici, anche in quiescenza, e comunque soggetti di comprovata qualificazione professionale.
 
 2.
 

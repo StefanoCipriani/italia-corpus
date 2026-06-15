@@ -22,7 +22,7 @@ UMBERTO DI SAVOIA
  
  Ritenuta la necessita' di assicurare i servizi dell'amministrazione; 
  
- Visto il [decreto-legge Luogotenenziale 30 giugno 1944, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-30;203), e il [decreto legislativo Luogotenenziale 30 settembre 1944, n. 299](Proroga%20al%2031%20dicembre%201944%20dellesercizio%20provvisorio%20del%20bilancio%20ed%20altri%20provvedimenti%20di%20carattere%20finanziario.%20044U0299.md); 
+ Visto il [decreto-legge Luogotenenziale 30 giugno 1944, n. 203](Autorizzazione%20allesercizio%20provvisorio%20per%20la%20gestione%20del%20bilancio%20dello%20Stato%20nel%20trimestre%20luglio-settembre%201944%20ed%20emissione%20dei%20Buoni%20ordinari%20del%20Tesoro.%20044U0203.md), e il [decreto legislativo Luogotenenziale 30 settembre 1944, n. 299](Proroga%20al%2031%20dicembre%201944%20dellesercizio%20provvisorio%20del%20bilancio%20ed%20altri%20provvedimenti%20di%20carattere%20finanziario.%20044U0299.md); 
  
  Considerato che sul fondo di riserva per le spese impreviste inscritto nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1944-45 sono disponibili L. 32.450.000; 
  

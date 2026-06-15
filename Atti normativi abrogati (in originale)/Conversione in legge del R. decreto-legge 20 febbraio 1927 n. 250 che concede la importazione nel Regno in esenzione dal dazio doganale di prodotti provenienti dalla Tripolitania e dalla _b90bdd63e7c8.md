@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertita in legge il [R. decreto-legge 20 febbraio 1927, n. 250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-20;250), che concede la importazione nel Regno, in esenzione dal dazio doganale, di prodotti provenienti dalla Tripolitania e dalla Cirenaica. 
+ E' convertita in legge il [R. decreto-legge 20 febbraio 1927, n. 250](Importazione%20nel%20Regno%20in%20esenzione%20dal%20dazio%20doganale%20di%20prodotti%20provenienti%20dalla%20Tripolitania%20e%20dalla%20Cirenaica.%20027U0250.md), che concede la importazione nel Regno, in esenzione dal dazio doganale, di prodotti provenienti dalla Tripolitania e dalla Cirenaica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

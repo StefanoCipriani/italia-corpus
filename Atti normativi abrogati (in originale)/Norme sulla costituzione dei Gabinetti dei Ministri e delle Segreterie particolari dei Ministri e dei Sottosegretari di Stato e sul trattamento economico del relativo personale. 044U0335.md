@@ -18,13 +18,13 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico 21 febbraio 1895, u. 70, e successive modificazioni;
 
-Visto il [R. decreto-legge 10 luglio 1924, n. 1100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-07-10;1100);
+Visto il [R. decreto-legge 10 luglio 1924, n. 1100](Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20segreterie%20particolari%20dei%20Sottosegretari%20di%20Stato.%20024U1100.md);
 
 Visto il [decreto-legge 3 gennaio 1926, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-01-03;60);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141) ;
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md) ;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -34,13 +34,13 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro Segretar
 
 ## Art. 1.
 
-Ai componenti dei Gabinetti e delle Segreterie particolari, che siano dipendenti dello Stato, compete una «indennita' di Gabinetto» commisurata alla meta' della diaria di missione di cui all'[art. 1 del R. decreto-legge 27 febbraio 1942, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-02-27;76#art_1), con la maggiorazione del settanta per cento di cui all'[art. 1 del R. decreto-legge 9 maggio 1944, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-09;131#art_1). 
+Ai componenti dei Gabinetti e delle Segreterie particolari, che siano dipendenti dello Stato, compete una «indennita' di Gabinetto» commisurata alla meta' della diaria di missione di cui all'[art. 1 del R. decreto-legge 27 febbraio 1942, n. 76](Trattamento%20di%20missione%20al%20personale%20statale%20nellinterno%20del%20Regno.%20042U0076.md), con la maggiorazione del settanta per cento di cui all'[art. 1 del R. decreto-legge 9 maggio 1944, n. 131](Aumento%20del%20trattamento%20di%20missione%20al%20personale%20statale%20nellinterno%20del%20Regno.%20044U0131.md). 
  
  Ai fini dell'applicazione del precedente comma i mesi sono considerati di trenta giorni.
 
 ## Art. 2.
 
-L'articolo unico del [R. decreto-legge 3 gennaio 1926, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-03;60), e' sostituito dal seguente; 
+L'articolo unico del [R. decreto-legge 3 gennaio 1926, n. 60](Modificazione%20al%20R.%20decreto%2010%20luglio%201924%20n.%201100%20concernente%20i%20segretari%20particolari%20delle%20LL.%20EE.%20il%20Presidente%20del%20Consiglio%20dei%20Ministri%20i%20Ministri%20e%20i%20Sottosegretari%20dl%20Stato.%20026U0060.md), e' sostituito dal seguente; 
  
  «I segretari particolari del Presidente del Consiglio dei Ministri, dei Ministri e dei Sottosegretari di Stato possono essere scelti fra i funzionari di tutte le amministrazioni dello Stato ed anche fra estranei alle Amministrazioni medesime. 
  

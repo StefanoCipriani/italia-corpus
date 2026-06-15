@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 ottobre 1939, n. 1662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;1662), contenente norme per la disciplina della raccolta e della distribuzione delle pelli bovine ed equine, gregge e conciate. 
+ E' convertito in legge il [R. decreto-legge 12 ottobre 1939, n. 1662](Disciplina%20della%20raccolta%20e%20della%20distribuzione%20delle%20pelli%20bovine%20ed%20equine%20grezze%20e%20conciate.%20039U1662.md), contenente norme per la disciplina della raccolta e della distribuzione delle pelli bovine ed equine, gregge e conciate. 
  
  Ordiniamo che la presente, infinita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

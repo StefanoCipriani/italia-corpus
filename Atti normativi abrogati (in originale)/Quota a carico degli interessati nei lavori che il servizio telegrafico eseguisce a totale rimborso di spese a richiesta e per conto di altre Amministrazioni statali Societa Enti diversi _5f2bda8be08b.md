@@ -18,7 +18,7 @@ Visto il [decreto-legge 23 aprile 1925, n. 520](https://www.normattiva.it/uri-re
 
 Visto il [R. decreto-legge n. 884 del 14 giugno 1925](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), relativo alla costituzione dell'Azienda per i servizi telefonici;
 
-Visto il [R. decreto n. 14 del 12 gennaio 1922](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-12;14), contenente disposizioni circa la esecuzione di lavori telegrafici e telefonici eseguiti dall'Amministrazione telegrafica e telefonica per conto di terzi;
+Visto il [R. decreto n. 14 del 12 gennaio 1922](Contenente%20disposizioni%20circa%20la%20esecuzione%20di%20lavori%20telegrafici%20e%20telefonici%20eseguiti%20dallAmministrazione%20per%20conto%20di%20terzi.%20022U0014.md), contenente disposizioni circa la esecuzione di lavori telegrafici e telefonici eseguiti dall'Amministrazione telegrafica e telefonica per conto di terzi;
 
 Sentito il Consiglio dei Ministri;
 

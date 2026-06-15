@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;560), concernente l'abolizione del monopolio statale di vendita dei fiammiferi e l'istituzione in sua vece di un'imposta di fabbricazione;
 
-Visto il [R. decreto-legge 9 aprile 1925, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-09;426), concernente una nuova imposta sula produzione dei fiammiferi, convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge 9 aprile 1925, n. 426](Nuova%20imposta%20sulla%20produzione%20dei%20fiammiferi.%20025U0426.md), concernente una nuova imposta sula produzione dei fiammiferi, convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto il [decreto legislativo Luogotenenziale 12 ottobre 1944, n. 317](Proroga%20delle%20convenzioni%20stipulate%20fra%20lo%20Stato%20e%20il%20Consorzio%20industrie%20fiammiferi.%20044U0317.md), concernente la proroga delle convenzioni stipulate fra lo Stato ed, il Consorzio industrie fiammiferi;
 

@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491), per la riforma tecnico-giuridica delle norme vigenti sulle pensioni di guerra (art.
+Visto il [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), per la riforma tecnico-giuridica delle norme vigenti sulle pensioni di guerra (art.
 
 76) e il decreto del Ministro per la guerra in data 12 dicembre 1923 contenente le norme di applicazione dell'art. 76 del citato Regio decreto;
 
-Visto il [R. decreto 31 dicembre 1923, n. 3257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3257), sullo stato, avanzamento e trattamento di pensione degli ufficiali mutilati e invalidi riassunti in servizio;
+Visto il [R. decreto 31 dicembre 1923, n. 3257](Stato%20avanzamento%20e%20trattamento%20di%20pensione%20degli%20ufficiali%20mutilati%20ed%20invalidi%20riassunti%20in%20servizio.%20023U3257.md), sullo stato, avanzamento e trattamento di pensione degli ufficiali mutilati e invalidi riassunti in servizio;
 
-Visto il [R. decreto 10 novembre 1924, n. 2044](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-10;2044), riguardante l'assunzione in servizio presso Amministrazioni dello Stato di ufficiali invalidi di guerra in eccedenza al limite stabilito dall'art. 76 del citato [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491);
+Visto il [R. decreto 10 novembre 1924, n. 2044](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-10;2044), riguardante l'assunzione in servizio presso Amministrazioni dello Stato di ufficiali invalidi di guerra in eccedenza al limite stabilito dall'art. 76 del citato [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di
 
 E' in facolta' del Ministro per la guerra di riassumere anche gli ufficiali mutilati e invalidi di guerra che abbiano presentato domanda di riassunzione prima della pubblicazione del presente decreto nella Gazzetta Ufficiale del Regno o che la presenteranno non oltre il 90° giorno dopo quello della pubblicazione stessa. 
  
- Nelle riassunzioni di cui al precedente comma avranno la precedenza gli ufficiali provenienti dal servizio attivo permanente, e gli ufficiali riassunti, quando non sianvi vacanze nel numero di 450 posti di cui all'[art. 76 del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_76), saranno destinati, mediante decreto del Ministro per le finanze, di concerto con i rispettivi Ministri, a prestare servizio presso le altre Amministrazioni dello Stato. 
+ Nelle riassunzioni di cui al precedente comma avranno la precedenza gli ufficiali provenienti dal servizio attivo permanente, e gli ufficiali riassunti, quando non sianvi vacanze nel numero di 450 posti di cui all'[art. 76 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), saranno destinati, mediante decreto del Ministro per le finanze, di concerto con i rispettivi Ministri, a prestare servizio presso le altre Amministrazioni dello Stato. 
  
  In nessun caso e in nessun tempo il limite di 450 posti di cui sopra potra' essere superato. 
  

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 5, primo comma, della legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382#art_5-com1);
+Visto l'[art. 5, primo comma, della legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md);
 
 Udito il parere del Consiglio superiore delle Forze armate;
 
@@ -35,7 +35,7 @@ E' approvato l'annesso regolamento di disciplina militare, vistato dal Ministro 
 NOTE
 
  Nota al secondo comma delle premesse del D.P.R.:
- Il testo del [primo comma dell'art. 5 della legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382#art_5-com1), e' il seguente:
+ Il testo del [primo comma dell'art. 5 della legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), e' il seguente:
  "Il regolamento di disciplina militare e' emanato, in esecuzione della presente legge ed entro sei mesi dall'entrata in vigore della stessa, con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro della difesa, sentite le Commissioni permanenti competenti per materia delle due Camere".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

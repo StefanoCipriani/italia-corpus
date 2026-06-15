@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la tariffa generale dei dazi doganali, approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), con successive modificazioni ed aggiunte;
+Vista la tariffa generale dei dazi doganali, approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), con successive modificazioni ed aggiunte;
 
 Visto il [R. decreto 15 settembre 1915, n. 1373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-09-15;1373), con successive modificazioni ed aggiunte;
 
 Visto il [R. decreto-legge 24 settembre 1931, n. 1187](Imposizione%20di%20uno%20speciale%20dazio%20sul%20valore%20alla%20importazione%20di%20talune%20merci%20e%20modificazione%20del%20regime%20della%20tassa%20di%20vendita%20sugli%20olii%20minerali.%20031U1187.md), convertito nella [legge 18 gennaio 1932, n. 21](Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20settembre%201931%20n.%201187%20che%20impone%20uno%20speciale%20dazio%20sul%20valore%20alla%20importazione%20di%20talune%20merci%20e%20modifica%20il%20regime%20fiscale%20degli%20olii%20mine_574aba9f8321.md);
 
-Visto il [Regio decreto 24 settembre 1923, n. 2030](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2030) e successive modificazioni ed il testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175);
+Visto il [Regio decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md) e successive modificazioni ed il testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
 Ritenuta la necessita' urgente ed assoluta di agevolare lo sviluppo del turismo aereo nel Regno, nonche' la preparazione e l'allenamento dei piloti civili di aeromobili;
 

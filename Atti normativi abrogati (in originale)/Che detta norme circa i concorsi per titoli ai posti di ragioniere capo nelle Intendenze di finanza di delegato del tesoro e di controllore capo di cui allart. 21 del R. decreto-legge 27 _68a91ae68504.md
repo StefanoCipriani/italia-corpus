@@ -33,7 +33,7 @@ La commissione esaminatrice e' composta di un consigliere della Corte dei conti,
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 ottobre 1920, n. 1493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-10-05;1493), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 ottobre 1920, n. 1493](Che%20modifica%20lart.%202%20di%20quello%2030%20maggio%201920%20n.%20752%20relativo%20ai%20concorsi%20per%20i%20posti%20di%20ragioniere%20capo%20nelle%20Intendenze%20di%20finanza%20e%20di%20delegato%20del%20tesoro.%20020U1493.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 

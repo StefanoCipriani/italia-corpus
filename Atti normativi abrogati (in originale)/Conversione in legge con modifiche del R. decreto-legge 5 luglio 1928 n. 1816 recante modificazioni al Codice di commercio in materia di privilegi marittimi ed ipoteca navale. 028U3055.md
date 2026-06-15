@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1928, numero 1816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-07-05;1816), recante modificazioni al Codice di commercio in materia di privilegi marittimi ed ipoteca navale, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1928, numero 1816](Modificazioni%20al%20Codice%20di%20commercio%20in%20materia%20di%20privilegi%20marittimi%20ed%20ipoteca%20navale.%20028U1816.md), recante modificazioni al Codice di commercio in materia di privilegi marittimi ed ipoteca navale, con le seguenti modificazioni: 
  
  All'art. 4, aggiungere in fine: 
  

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il ruolo del personale direttivo e ispettivo della scuola elementare, di cui alla tabella A annessa al [regio decreto 1 luglio 1933, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-07-01;786), modificato dall'[art. 1 della legge 31 maggio 1943, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-05-31;570#art_1), e dall'[art. 9 del decreto legislativo del Capo provvisorio dello Stato 2 maggio 1947, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-02;499#art_9), e' ulteriormente modificato come appresso:
+Il ruolo del personale direttivo e ispettivo della scuola elementare, di cui alla tabella A annessa al [regio decreto 1 luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), modificato dall'[art. 1 della legge 31 maggio 1943, n. 570](Collocamento%20dei%20direttori%20didattici%20nel%20grado%209%20gruppo%20B%20sistemazione%20dei%20maestri%20elementari%20incaricati%20della%20direzione%20didattica%20delle%20scuole%20rurali%20e%20passaggio%20alla%20diretta%20amministraz_932ef8d3b66a.md), e dall'[art. 9 del decreto legislativo del Capo provvisorio dello Stato 2 maggio 1947, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-02;499#art_9), e' ulteriormente modificato come appresso:
 
 
 Grado Qualifica Numero
@@ -52,7 +52,7 @@ Gli attuali direttori didattici e coloro che hanno conservato ad personam la qua
 
 ## Art. 3.
 
-Al direttore didattico incaricato della supplenza di una circoscrizione ispettiva, ai sensi del [regio decreto-legge 4 giugno 1944, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-06-04;158), e' corrisposta, per la durata dell'incarico, una retribuzione mensile pari alla differenza fra lo stipendio spettante agli ispettori scolastici di prima nomina e lo stipendio da lui effettivamente percepito.
+Al direttore didattico incaricato della supplenza di una circoscrizione ispettiva, ai sensi del [regio decreto-legge 4 giugno 1944, n. 158](Modificazione%20allart.%2013%20del%20Testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20istruzione%20elementare%20o%20post%20elementare%20e%20sulle%20opere%20di%20integrazione.%20044U0158.md), e' corrisposta, per la durata dell'incarico, una retribuzione mensile pari alla differenza fra lo stipendio spettante agli ispettori scolastici di prima nomina e lo stipendio da lui effettivamente percepito.
  Al maestro elementare, incaricato della supplenza di un circolo didattico, ai sensi del regio decreto-legge di cui al comma precedente, e' corrisposta, per la durata dell'incarico, una retribuzione mensile pari alla differenza fra lo stipendio spettante ai direttori didattici di prima nomina e lo stipendio da lui effettivamente percepito.
 
 ## Art. 4.

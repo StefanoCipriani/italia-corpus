@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 39 del R. decreto-legge 19 ottobre 1938, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_39), sul lotto pubblico, convertito con modificazioni, nella [legge 5 giugno 1939, n. 973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-05;973);
+Visto l'[art. 39 del R. decreto-legge 19 ottobre 1938, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_39), sul lotto pubblico, convertito con modificazioni, nella [legge 5 giugno 1939, n. 973](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20ottobre%201938-XVI%20n.%201933%20riguardante%20la%20riforma%20delle%20leggi%20sul%20lotto%20pubblico.%20039U0973.md);
 
 Visto il [decreto legislativo Luogotenenziale 8 marzo 1945, n. 72](Fondo%20di%20solidarieta%20nazionale.%20045U0072.md), concernente il Fondo di solidarieta' nazionale;
 

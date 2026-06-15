@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 21 maggio 1916, n. 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1916-05-21;640), col quale venne istituito uno speciale distintivo d'onore per i mutilati di guerra;
+Visto il [regio decreto 21 maggio 1916, n. 640](Col%20quale%20viene%20istituito%20uno%20speciale%20distintivo%20donore%20per%20i%20mutilati%20nellattuale%20guerra.%20016U0640.md), col quale venne istituito uno speciale distintivo d'onore per i mutilati di guerra;
 
 Visto il decreto Ministeriale 6 novembre 1916, relativo alla approvazione dell'istruzione per l'esecuzione del decreto 21 maggio 1916, n. 640;
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;320), sulla bonifica dei campi minati;
+Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), sulla bonifica dei campi minati;
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la difesa; Decreta:
 
 ## Art. 1.
 
-Agli addetti alle operazioni di bonifica dei campi minati che siano divenuti inabili a proficuo lavoro o si trovino menomati nelle loro capacita' di lavoro, in seguito a lesioni o ad infermita' incontrate nell'espletamento delle operazioni di bonifica suddette, si applicano, per la concessione del distintivo d'onore per i mutilati ed invalidi di guerra prevista dall'ultimo comma dell'[art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;320#art_10), le norme dell'istruzione per l'esecuzione del [regio decreto 21 maggio 1916, n. 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1916-05-21;640), approvata con il decreto Ministeriale 6 novembre 1916, salvo le modificazioni di cui agli articoli seguenti.
+Agli addetti alle operazioni di bonifica dei campi minati che siano divenuti inabili a proficuo lavoro o si trovino menomati nelle loro capacita' di lavoro, in seguito a lesioni o ad infermita' incontrate nell'espletamento delle operazioni di bonifica suddette, si applicano, per la concessione del distintivo d'onore per i mutilati ed invalidi di guerra prevista dall'ultimo comma dell'[art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), le norme dell'istruzione per l'esecuzione del [regio decreto 21 maggio 1916, n. 640](Col%20quale%20viene%20istituito%20uno%20speciale%20distintivo%20donore%20per%20i%20mutilati%20nellattuale%20guerra.%20016U0640.md), approvata con il decreto Ministeriale 6 novembre 1916, salvo le modificazioni di cui agli articoli seguenti.
 
 ## Art. 2.
 
@@ -48,7 +48,7 @@ I reclami di cui all'art. 8 della citata istruzione dovranno essere trasmessi tr
 
 ## Art. 6.
 
-La variazione matricolare di cui all'art. 10 della istruzione sara' cosi' indicata: "Autorizzato a fregiarsi del distintivo d'onore per i mutilati, in applicazione dell'[art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;320#art_10), sulla bonifica dei campi minati".
+La variazione matricolare di cui all'art. 10 della istruzione sara' cosi' indicata: "Autorizzato a fregiarsi del distintivo d'onore per i mutilati, in applicazione dell'[art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), sulla bonifica dei campi minati".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

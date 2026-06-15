@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 ottobre 1932, n. 1371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-10-22;1371), che stabilisce il trattamento doganale dello zucchero per la campagna saccarifera 1932-33. 
+ E' convertito in legge il [R. decreto-legge 22 ottobre 1932, n. 1371](Trattamento%20doganale%20dello%20zucchero%20per%20la%20campagna%20saccarifera%201932-1933.%20032U1371.md), che stabilisce il trattamento doganale dello zucchero per la campagna saccarifera 1932-33. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 6 febbraio 1941, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-02-06;346), che reca norme per la creazione e per l'esercizio della nuova zona industriale di Roma;
+Vista la [legge 6 febbraio 1941, n. 346](Norme%20per%20la%20creazione%20e%20per%20lesercizio%20della%20nuova%20zona%20industriale%20di%20Roma.%20041U0346.md), che reca norme per la creazione e per l'esercizio della nuova zona industriale di Roma;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 
 ## Art. 1.
 
-L'Ente per la zona industriale di Roma, istituito con la [legge 6 febbraio 1941, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-02-06;346), e' soppresso e le sue attribuzioni sono devolute al comune di Roma.
+L'Ente per la zona industriale di Roma, istituito con la [legge 6 febbraio 1941, n. 346](Norme%20per%20la%20creazione%20e%20per%20lesercizio%20della%20nuova%20zona%20industriale%20di%20Roma.%20041U0346.md), e' soppresso e le sue attribuzioni sono devolute al comune di Roma.
  Il Ministero dell'interno, di concerto con quello del tesoro, delle finanze, dei lavori pubblici e dell' industria e commercio, sentito il comune di Roma, puo' modificare i limiti stabiliti per la zona industriale, la cui superficie complessiva non potra' essere superiore, in ogni caso, a quella fissata dalla legge succitata.
 
 ## Art. 2.

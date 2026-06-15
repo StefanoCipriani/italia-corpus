@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo con la legge 22 maggio, 1915, n. 671; 
  
- Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738); 
+ Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md); 
  
  Visti i Nostri decreti 28 giugno 1916, n. 795, 1° ottobre 1916, n. 1394, e 8 marzo 1917, n. 466; 
  

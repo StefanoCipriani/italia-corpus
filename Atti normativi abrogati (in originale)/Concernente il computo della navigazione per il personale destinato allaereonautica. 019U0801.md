@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto n. 1229 del 12 ottobre 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-12;1229) che stabilisce l'equiparazione per ogni effetto delle aeronavi della R. marina alle RR. navi;
+Visto il [R. decreto n. 1229 del 12 ottobre 1913](Col%20quale%20viene%20istituito%20il%20quadro%20del%20naviglio%20aereo.%20013U1229.md) che stabilisce l'equiparazione per ogni effetto delle aeronavi della R. marina alle RR. navi;
 
-Visto l'[art. 4 del R. decreto n. 11 del 7 gennaio 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-07;11#art_4) che stabilisce per i militari del R. esercito il computo speciale del tempo trascorso al servizio delle aeronavi;
+Visto l'[art. 4 del R. decreto n. 11 del 7 gennaio 1915](Da%20convertirsi%20in%20legge%20che%20costituisce%20un%20corpo%20aeronautico%20militare%20015U0011.md) che stabilisce per i militari del R. esercito il computo speciale del tempo trascorso al servizio delle aeronavi;
 
 Visto il [decreto Luogotenenziale n. 1141 in data 3 settembre 1916](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-09-03;1141), relativo alla condizione di navigazione per il personale della R. marina destinato ai servizi aerei;
 
@@ -43,7 +43,7 @@ E' considerato a tutti gli effetti come imbarcato su navi nella posizione di arm
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte della [L. 11 giugno 1922, n. 816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-06-11;816), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte della [L. 11 giugno 1922, n. 816](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%2015%20maggio%201919%20n.%20801%20concernente%20il%20computo%20della%20navigazione%20per%20il%20personale%20destinato%20allaeronautica.%20022U0816.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 
@@ -58,7 +58,7 @@ Sono considerati come destinati permanentemente alle squadriglie:
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte della [L. 11 giugno 1922, n. 816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-06-11;816), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte della [L. 11 giugno 1922, n. 816](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%2015%20maggio%201919%20n.%20801%20concernente%20il%20computo%20della%20navigazione%20per%20il%20personale%20destinato%20allaeronautica.%20022U0816.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
@@ -67,7 +67,7 @@ Le disposizioni dell'articolo 1 cessano di essere applicate a coloro che nel per
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte della [L. 11 giugno 1922, n. 816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-06-11;816), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte della [L. 11 giugno 1922, n. 816](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%2015%20maggio%201919%20n.%20801%20concernente%20il%20computo%20della%20navigazione%20per%20il%20personale%20destinato%20allaeronautica.%20022U0816.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 
@@ -90,4 +90,4 @@ E' abrogata qualsiasi disposizione contraria al presente decreto, il quale sara'
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte della [L. 11 giugno 1922, n. 816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-06-11;816), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte della [L. 11 giugno 1922, n. 816](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%2015%20maggio%201919%20n.%20801%20concernente%20il%20computo%20della%20navigazione%20per%20il%20personale%20destinato%20allaeronautica.%20022U0816.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

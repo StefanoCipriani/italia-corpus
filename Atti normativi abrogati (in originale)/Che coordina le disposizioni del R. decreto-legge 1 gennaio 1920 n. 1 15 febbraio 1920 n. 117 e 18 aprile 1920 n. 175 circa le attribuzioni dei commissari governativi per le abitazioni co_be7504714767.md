@@ -233,7 +233,7 @@ I commissari del Governo, qualora debbano sostenere azioni o difese innanzi le a
 
 ### Art. 22.
 
-Gli atti di violenza sulle proprieta' pubbliche o private o contro le persone per procedere coattivamente a se o ad altri l'abitazione, commessi nelle forme prevedute dall'[articolo 248 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_248), sono puniti in conformita' dello stesso articolo e dei successivi. 
+Gli atti di violenza sulle proprieta' pubbliche o private o contro le persone per procedere coattivamente a se o ad altri l'abitazione, commessi nelle forme prevedute dall'[articolo 248 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono puniti in conformita' dello stesso articolo e dei successivi. 
  
  Si applicano in relazione a questo delitto, le disposizioni degli articoli 246 e 247 dello stesso Codice per i delitti di istigazione e di apologia. 
  

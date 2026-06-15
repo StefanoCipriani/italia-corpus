@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 febbraio 1927, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;262), che reca modificazioni al [R. decreto-legge 17 settembre 1925, n. 1819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-17;1819), sulla costituzione delle Commissioni di inchiesta sui sinistri marittimi. 
+ E' convertito in legge il [R. decreto-legge 17 febbraio 1927, n. 262](Modificazioni%20al%20R.%20decreto-legge%2017%20settembre%201925%20n.%201819%20sulla%20costituzione%20delle%20Commissioni%20dinchiesta%20per%20i%20naufragi%20e%20sinistri%20marittimi.%20027U0262.md), che reca modificazioni al [R. decreto-legge 17 settembre 1925, n. 1819](Costituzione%20delle%20Commissioni%20inquirenti%20per%20i%20sinistri%20e%20naufragi%20marittimi.%20025U1819.md), sulla costituzione delle Commissioni di inchiesta sui sinistri marittimi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

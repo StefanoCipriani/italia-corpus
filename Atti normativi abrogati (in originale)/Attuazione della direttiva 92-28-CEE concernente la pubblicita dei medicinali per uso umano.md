@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 16 della legge 19 dicembre 1992, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489#art_16), recante delega al Governo per l'attuazione della [direttiva 92/28/CEE del Consiglio del 31 marzo 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;28);
+Visto l'[art. 16 della legge 19 dicembre 1992, n. 489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md), recante delega al Governo per l'attuazione della [direttiva 92/28/CEE del Consiglio del 31 marzo 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;28);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 dicembre 1992;
 
@@ -322,7 +322,7 @@ L'impresa farmaceutica puo' realizzare o contribuire a realizzare il congresso, 
 
 7.
 
-Per le manifestazioni che si svolgono all'estero e per quelle che comportano, per l'impresa farmaceutica, un onere superiore a cinquanta milioni, l'impresa stessa deve ottenere espressa autorizzazione dal Ministero della sanita', il quale adotta le proprie determinazioni entro quarantacinque giorni dalla comunicazione di cui al comma 1. Nelle ipotesi disciplinate dal presente comma la comunicazione predetta deve essere redatta in carta legale ed essere corredata dell'attestazione del pagamento, ai sensi dell'[art. 5, comma 12, della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_5-com12), dell'importo di lire tremilioni.
+Per le manifestazioni che si svolgono all'estero e per quelle che comportano, per l'impresa farmaceutica, un onere superiore a cinquanta milioni, l'impresa stessa deve ottenere espressa autorizzazione dal Ministero della sanita', il quale adotta le proprie determinazioni entro quarantacinque giorni dalla comunicazione di cui al comma 1. Nelle ipotesi disciplinate dal presente comma la comunicazione predetta deve essere redatta in carta legale ed essere corredata dell'attestazione del pagamento, ai sensi dell'[art. 5, comma 12, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), dell'importo di lire tremilioni.
 
 8.
 
@@ -376,7 +376,7 @@ Tranne che nel caso di evidenti difficolta' tecniche, sull'imballaggio, sul cond
 
 9.
 
-Non puo' essere fornito alcun campione dei medicinali disciplinati dal [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309).
+Non puo' essere fornito alcun campione dei medicinali disciplinati dal [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
 
 10.
 

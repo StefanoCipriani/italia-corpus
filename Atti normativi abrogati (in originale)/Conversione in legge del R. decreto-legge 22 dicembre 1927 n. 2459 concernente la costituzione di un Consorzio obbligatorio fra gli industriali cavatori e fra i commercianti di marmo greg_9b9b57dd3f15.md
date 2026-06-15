@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 dicembre 1927, n. 2459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-22;2459), concernente la costituzione di un Consorzio obbligatorio fra gli industriali cavatori, e fra i commercianti di marmo greggio e segato, dei comuni di Carrara e Fivizzano. 
+ E' convertito in legge il [R. decreto-legge 22 dicembre 1927, n. 2459](Costituzione%20di%20un%20Consorzio%20obbligatorio%20fra%20gli%20industriali%20cavatori%20e%20fra%20i%20commercianti%20di%20marmo%20greggio%20e%20segato%20dei%20comuni%20di%20Carrara%20e%20Fivizzano.%20027U2459.md), concernente la costituzione di un Consorzio obbligatorio fra gli industriali cavatori, e fra i commercianti di marmo greggio e segato, dei comuni di Carrara e Fivizzano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

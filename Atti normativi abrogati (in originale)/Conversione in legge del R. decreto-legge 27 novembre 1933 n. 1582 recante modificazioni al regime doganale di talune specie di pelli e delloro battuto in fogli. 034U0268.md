@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1582](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1582), recante modificazioni al regime doganale di talune specie di pelli e dell'oro battuto in fogli. 
+ E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1582](Modificazione%20del%20regime%20doganale%20di%20talune%20specie%20di%20pelli%20e%20delloro%20battuto%20in%20fogli.%20033U1582.md), recante modificazioni al regime doganale di talune specie di pelli e dell'oro battuto in fogli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

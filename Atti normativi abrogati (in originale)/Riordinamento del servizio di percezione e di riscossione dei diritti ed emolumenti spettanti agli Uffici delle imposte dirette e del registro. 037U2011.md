@@ -16,11 +16,11 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
 
 Visto l'art. 76 della legge sulle tasse di registro 30 dicembre 1923, n. 3269;
 
-Visto il [R. decreto 26 gennaio 1902, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-01-26;76);
+Visto il [R. decreto 26 gennaio 1902, n. 76](Approvazione%20del%20Regolamento%20per%20la%20conservazione%20del%20nuovo%20catasto.%20002U0076.md);
 
 Visto il [decreto legge Luogotenenziale 13 aprile 1919, n. 705](Che%20sostituisce%20la%20tariffa%20annessa%20al%20testo%20unico%20di%20legge%204%20luglio%201897%20n.%20276%20dei%20diritti%20per%20la%20esecuzione%20delle%20volture%20e%20per%20il%20rilascio%20dei%20certificati%20degli%20estratti%20e%20delle%20copie%20_187ecdba76f8.md);
 

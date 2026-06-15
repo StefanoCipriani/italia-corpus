@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti i decreti Luogotenenziali 7 e 25 gennaio 1917, nn. 35 e 91; 22 febbraio 1917, n. 261; 26 aprile 1917, n. 696; 16 giugno 1917, n. 979; 5 agosto 1917, n. 1215; 24 febbraio 1918, n. 284, e 28 marzo 1919, n. 454, recanti provvedimenti straordinari per i combustibili nazionali;
 
-Visto il [R. decreto 2 settembre 1919, n. 1587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-02;1587), sul riordinamento del Ministero per i trasporti marittimi e ferroviari;
+Visto il [R. decreto 2 settembre 1919, n. 1587](Che%20provvede%20al%20riordinamento%20del%20Ministero%20per%20i%20trasporti%20marittimi%20e%20ferroviari.%20019U1587.md), sul riordinamento del Ministero per i trasporti marittimi e ferroviari;
 
 Visto l'[art. 8 del decreto-legge 2 ottobre 1919, numero 1794](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-10-02;1794#art_8), riguardante il riassetto dei servizi minerari del Ministero per l'agricoltura;
 
@@ -42,9 +42,9 @@ Le attribuzioni del Comitato istituito con [R. decreto 8 aprile 1920, n. 630](ht
 
 ## Art. 3.
 
-Il Comitato di revisione istituto con [R. decreto 3 giugno 1920, n. 1023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-03;1023), modificato con [R. decreto 1° agosto 1920, n. 1134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-01;1134), continuera' a funzionare cosi' in materia di combustibili nazionali come sulle altre materie determinate dai detti decreti. 
+Il Comitato di revisione istituto con [R. decreto 3 giugno 1920, n. 1023](Che%20istituisce%20presso%20il%20Sottosegretariato%20per%20la%20marina%20mercantile%20combustibili%20ed%20aeronautici%20un%20Comitato%20di%20revisione%20stabilendone%20le%20attribuzioni.%20020U1023.md), modificato con [R. decreto 1° agosto 1920, n. 1134](Concernente%20la%20denominazione%20e%20la%20composizione%20del%20Comitato%20di%20revisione%20istituito%20con%20lart.%201%20del%20R.%20decreto%203%20giugno%201920%20n.%201023.%20020U1134.md), continuera' a funzionare cosi' in materia di combustibili nazionali come sulle altre materie determinate dai detti decreti. 
  
- Gli articoli 2 e 4 del predetto [R. decreto 3 giugno 1920, n. 1023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-03;1023) sono sostituiti dalle seguenti disposizioni. 
+ Gli articoli 2 e 4 del predetto [R. decreto 3 giugno 1920, n. 1023](Che%20istituisce%20presso%20il%20Sottosegretariato%20per%20la%20marina%20mercantile%20combustibili%20ed%20aeronautici%20un%20Comitato%20di%20revisione%20stabilendone%20le%20attribuzioni.%20020U1023.md) sono sostituiti dalle seguenti disposizioni. 
  
  Al Comitato di revisione saranno sottoposte tutte le autorizzazioni di spesa prima della loro esecuzione e i contratti di qualsiasi natura. 
  

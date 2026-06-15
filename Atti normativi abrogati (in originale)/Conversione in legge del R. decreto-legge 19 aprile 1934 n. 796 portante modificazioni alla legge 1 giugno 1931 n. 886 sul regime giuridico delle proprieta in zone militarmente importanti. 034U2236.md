@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 796](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-19;796), portante modificazioni alla [legge 1° giugno 1931, n. 886](Regime%20giuridico%20delle%20proprieta%20in%20zone%20militarmente%20importanti.%20031U0886.md), sul regime giuridico delle proprieta' in zone militarmente importanti. 
+ E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 796](Modifiche%20alla%20legge%201%20giugno%201931%20n.%20886%20sul%20regime%20giuridico%20delle%20proprieta%20in%20zone%20militarmente%20importanti.%20034U0796.md), portante modificazioni alla [legge 1° giugno 1931, n. 886](Regime%20giuridico%20delle%20proprieta%20in%20zone%20militarmente%20importanti.%20031U0886.md), sul regime giuridico delle proprieta' in zone militarmente importanti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

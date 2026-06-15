@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico
 
-Ai provveditorati regionali alle opere pubbliche sono devolute, entro i limiti della loro competenza territoriale, le incombenze attribuite al Ministero dei lavori pubblici dall'[articolo 139 del testo unico delle disposizioni sull'edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380#art_139) popolare ed economica approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), e successive modifiche ed integrazioni.
+Ai provveditorati regionali alle opere pubbliche sono devolute, entro i limiti della loro competenza territoriale, le incombenze attribuite al Ministero dei lavori pubblici dall'[articolo 139 del testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), e successive modifiche ed integrazioni.
 
 La presente legge, munita del sigillo dello Stato sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

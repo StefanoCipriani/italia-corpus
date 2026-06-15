@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La [legge 8 gennaio 1931, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-01-08;79), e' abrogata.
+La [legge 8 gennaio 1931, n. 79](Norme%20relative%20al%20matrimonio%20dei%20funzionari%20appartenenti%20alla%20Carriera%20diplomatico%20consolare.%20031U0079.md), e' abrogata.
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 maggio 1932, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-05-02;494), recante l'aumento di L. 6.000.000 annue, per 25 anni, del fondo di bilancio stanziato al capitolo 80-ter dello stato di previsione del Ministero dell'agricoltura e delle foreste per contributo a favore di agricoltori benemeriti. 
+ E' convertito in legge il [R. decreto-legge 2 maggio 1932, n. 494](Aumento%20di%20L.%206.000.000%20annue%20per%2025%20anni%20del%20fondo%20di%20bilancio%20stanziato%20al%20capitolo%2080-ter%20dello%20stato%20di%20previsione%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste%20per%20contributo%20a%20favor_2c5aa0cb024e.md), recante l'aumento di L. 6.000.000 annue, per 25 anni, del fondo di bilancio stanziato al capitolo 80-ter dello stato di previsione del Ministero dell'agricoltura e delle foreste per contributo a favore di agricoltori benemeriti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -24,7 +24,7 @@ Visto il Nostro decreto 18 novembre 1915, n. 1625, col quale si stabiliscono eco
 
 Visto il [decreto Luogotenenziale 23 dicembre 1915, n. 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-23;1979), sull'ordinamento del servizio delle opere pubbliche nella Tripolitania e nella Cirenaica;
 
-Visto il testo unico delle leggi sull'ordinamento del R. corpo del genio civile approvato con [R. decreto 3 settembre 1906, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-09-03;522), modificato con le [leggi 9 luglio 1908, n. 403, e 13 luglio 1911, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;774);
+Visto il testo unico delle leggi sull'ordinamento del R. corpo del genio civile approvato con [R. decreto 3 settembre 1906, n. 522](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md), modificato con le [leggi 9 luglio 1908, n. 403, e 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md);
 
 Udito il Consiglio dei ministri;
 
@@ -44,7 +44,7 @@ I membri del Consiglio superiore da chiamare a far parte della Giunta sono scelt
 
 ## Art. 3.
 
-Alla Giunta sono estese, in quanto siano applicabili, le disposizioni del testo unico delle leggi sull'ordinamento del Corpo Reale del genio civile, approvato con [R. decreto 3 settembre 1906, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-09-03;522), e modificato con [legge 9 luglio 1908, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;403), e quelle del regolamento sull'ordinamento interno del Consiglio superiore dei lavori pubblici, approvato con [R. decreto 16 settembre 1906, n. 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-09-16;541).
+Alla Giunta sono estese, in quanto siano applicabili, le disposizioni del testo unico delle leggi sull'ordinamento del Corpo Reale del genio civile, approvato con [R. decreto 3 settembre 1906, n. 522](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md), e modificato con [legge 9 luglio 1908, n. 403](Provvedimenti%20per%20il%20Real%20corpo%20del%20genio%20civile%20e%20per%20il%20personale%20aggiunto%20e%20provvisorio%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici%20e%20del%20genio%20civile.%20008U0403.md), e quelle del regolamento sull'ordinamento interno del Consiglio superiore dei lavori pubblici, approvato con [R. decreto 16 settembre 1906, n. 541](Che%20approva%20lannesso%20regolamento%20per%20lordinamento%20interno%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici.%20006U0541.md).
 
 ## Art. 4.
 

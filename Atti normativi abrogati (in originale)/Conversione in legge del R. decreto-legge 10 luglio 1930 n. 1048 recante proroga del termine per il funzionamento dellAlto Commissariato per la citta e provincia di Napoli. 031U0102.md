@@ -25,7 +25,7 @@ VITTORIO EMANUELE III
  Articolo unico. 
  
  
- E' convertito in legge il [R. decreto-legge 10 luglio 1930, n. 1048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-10;1048), recante proroga del termine per il funzionamento dell'Alto Commissariato per la citta' e provincia di Napoli. 
+ E' convertito in legge il [R. decreto-legge 10 luglio 1930, n. 1048](Proroga%20del%20termine%20per%20il%20funzionamento%20dellAlto%20Commissariato%20per%20la%20citta%20e%20provincia%20di%20Napoli.%20030U1048.md), recante proroga del termine per il funzionamento dell'Alto Commissariato per la citta' e provincia di Napoli. 
  
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il secondo comma dell'articolo unico della [legge 15 novembre 1955, n. 1037](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-15;1037), che ha convertito in legge con modificazioni il [decreto-legge 16 settembre 1955, n. 836](Proroga%20e%20modifica%20del%20regime%20fiscale%20degli%20alcoli.md), e' sostituito come segue:
+Il secondo comma dell'articolo unico della [legge 15 novembre 1955, n. 1037](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201955%20n.%20836%20concernente%20proroga%20e%20modifica%20del%20regime%20fiscale%20degli%20alcoli.md), che ha convertito in legge con modificazioni il [decreto-legge 16 settembre 1955, n. 836](Proroga%20e%20modifica%20del%20regime%20fiscale%20degli%20alcoli.md), e' sostituito come segue:
  "Il diritto erariale speciale per l'alcole metilico denaturato e' stabilito in lire 1000 per ettanidro.
  Il diritto erariale speciale per gli alcoli denaturati propilico ed isopropilico e' fissato in lire 1000 per ettanidro, qualora la produzione avvenga sotto vigilanza degli agenti dell'Amministrazione finanziaria".
 

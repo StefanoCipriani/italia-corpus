@@ -34,7 +34,7 @@ VITTORIO EMANUELE III
  
  L'art. 3 e' sostituito col seguente: 
  
- «L'art. 3 dello stesso [R. decreto-legge 15 luglio 1941, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-07-15;647), e' sostituito come segue: 
+ «L'art. 3 dello stesso [R. decreto-legge 15 luglio 1941, n. 647](Istituzione%20di%20una%20imposta%20sul%20plusvalore%20dei%20titoli%20azionari%20041U0647.md), e' sostituito come segue: 
  
  «L'imposta di cui all'art. 2 e' dovuta nella misura proporzionale uniforme del 20 per cento e si applica sul maggior valore di cessione, dedotto da tale valore l'ammontare della sovrimposta di negoziazione corrisposta a norma dell'art. 11». 
  

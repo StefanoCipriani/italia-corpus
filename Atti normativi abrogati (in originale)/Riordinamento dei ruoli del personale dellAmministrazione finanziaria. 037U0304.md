@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 21 marzo 1930, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-03-21;219), di approvazione dei ruoli dei personali finanziari, e successive variazioni;
+Visto il [R. decreto 21 marzo 1930, n. 219](Approvazione%20dei%20ruoli%20dei%20personali%20finanziari%20in%20applicazione%20del%20R.%20decreto%209%20agosto%201929%20n.%201457.%20030U0219.md), di approvazione dei ruoli dei personali finanziari, e successive variazioni;
 
 Riconosciuta l'assoluta necessita' e l'urgenza di provvedere al riordinamento di taluni ruoli del personale dell'Amministrazione finanziaria;
 
@@ -56,7 +56,7 @@ Per le assunzioni nel ruolo di cui all'annessa tabella B valgono le attuali disp
 
 ## Art. 6.
 
-In relazione al disposto del [secondo comma dell'art. 56 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_56-com2), sull'ordinamento gerarchico delle Amministrazioni dello Stato, il personale di grado sesto dei ruoli di gruppo B: 
+In relazione al disposto del [secondo comma dell'art. 56 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, il personale di grado sesto dei ruoli di gruppo B: 
  
  - dell'Amministrazione provinciale delle imposte dirette, 
  
@@ -114,13 +114,13 @@ Lo stipendio inerente al grado di commesso capo e' fissato in L. 8800, elevabili
  
  Gli importi di cui sopra sono al lordo delle riduzioni sancite coi [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561), e da aumentare ai sensi del [R. decreto-legge 24 settembre 1936, n. 1719](Aumento%20degli%20assegni%20al%20personale%20statale%20e%20degli%20altri%20enti%20pubblici.%20036U1719.md). 
  
- Un posto dell'indicato grado di commesso capo, da conferite con le norme contenute nel [R. decreto 21 gennaio 1935, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-01-21;13), e' istituito in ciascuno dei ruoli di agenti subalterni del Consiglio di Stato, della Corte dei conti e dell'Avvocatura generale dello Stato, restando, corrispondentemente soppresso in ciascuno dei predetti ruoli un posto del grado di commesso.
+ Un posto dell'indicato grado di commesso capo, da conferite con le norme contenute nel [R. decreto 21 gennaio 1935, n. 13](Istituzione%20di%20posti%20di%20commesso%20capo%20e%20di%20capo%20agente%20tecnico%20nel%20ruolo%20del%20personale%20subalterno%20dellAmministrazione%20centrale%20di%20Ciascun%20Ministero.%20035U0013.md), e' istituito in ciascuno dei ruoli di agenti subalterni del Consiglio di Stato, della Corte dei conti e dell'Avvocatura generale dello Stato, restando, corrispondentemente soppresso in ciascuno dei predetti ruoli un posto del grado di commesso.
 
 ## Art. 10.
 
-Il funzionario che ricopre il posto di direttore dell'Ufficio cifra e telegrafo del Ministero delle finanze previsto dal [R. decreto 6 maggio 1926, n. 875](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-06;875), puo' essere promosso al grado settimo dopo otto anni di permanenza nell'ottavo grado. 
+Il funzionario che ricopre il posto di direttore dell'Ufficio cifra e telegrafo del Ministero delle finanze previsto dal [R. decreto 6 maggio 1926, n. 875](Istituzione%20del%20posto%20di%20direttore%20dellUfficio%20cifra%20e%20telegrafo%20presso%20il%20Ministero%20delle%20finanze.%20026U0875.md), puo' essere promosso al grado settimo dopo otto anni di permanenza nell'ottavo grado. 
  
- E' soppresso il posto di grado sesto di gruppo A previsto, per l'amministratore generale dei Canali Cavour, dalle tabelle annesse al [R. decreto 21 marzo 1930, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-03-21;219). 
+ E' soppresso il posto di grado sesto di gruppo A previsto, per l'amministratore generale dei Canali Cavour, dalle tabelle annesse al [R. decreto 21 marzo 1930, n. 219](Approvazione%20dei%20ruoli%20dei%20personali%20finanziari%20in%20applicazione%20del%20R.%20decreto%209%20agosto%201929%20n.%201457.%20030U0219.md). 
  
  Il funzionario che attualmente ricopre detto posto e' trasferito nel ruolo degli ingegneri del Catasto e dei servizi tecnici erariali, di cui all'annessa tabella N, con collocamento fra i funzionari di ugual grado, in base all'anzianita' di grado. 
  

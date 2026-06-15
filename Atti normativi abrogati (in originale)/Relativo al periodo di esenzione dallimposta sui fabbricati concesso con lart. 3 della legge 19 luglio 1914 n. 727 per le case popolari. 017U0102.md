@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il periodo di esenzione dall'imposta sui fabbricati concesso con l'[art. 3 della legge 19 luglio 1914, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;727#art_3), e' esteso in ogni caso a dodici mesi dopo la pubblicazione della pace.
+Il periodo di esenzione dall'imposta sui fabbricati concesso con l'[art. 3 della legge 19 luglio 1914, n. 727](Che%20proroga%20le%20agevolazioni%20tributarie%20per%20le%20case%20popolari%20ed%20economiche.%20014U0727.md), e' esteso in ogni caso a dodici mesi dopo la pubblicazione della pace.
 
 ## Art. 2.
 
@@ -20,7 +20,7 @@ L'esenzione a favore delle case popolari ed economiche sara' estesa ai locali ad
 
 Ai due [primi comma dell'art. 9 del testo unico 27 febbraio 1908, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1908-02-27;89#art_9-com1), e' sostituito, fino ad un anno dopo la pubblicazione della pace, il seguente: «Gli interessi dei mutui fatti a tenore e per i fini di questa legge dagli enti indicati nell'art. 1° della legge stessa, sono esenti dall'imposta sui redditi di ricchezza mobile». 
  
- L'esenzione dall'imposta di ricchezza mobile stabilita dall'[art. 16 della legge 11 dicembre 1910, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;855#art_16), viene estesa ai mutui fatti dai Comuni per i loro enti autonomi di case popolari.
+ L'esenzione dall'imposta di ricchezza mobile stabilita dall'[art. 16 della legge 11 dicembre 1910, n. 855](Concernente%20disposizioni%20varie%20per%20la%20Cassa%20dei%20depositi%20e%20prestiti%20e%20le%20gestioni%20annesse.%20010U0855.md), viene estesa ai mutui fatti dai Comuni per i loro enti autonomi di case popolari.
 
 ## Art. 4.
 

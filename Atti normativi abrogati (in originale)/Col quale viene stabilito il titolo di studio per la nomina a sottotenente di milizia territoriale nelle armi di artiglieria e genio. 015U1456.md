@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-I titoli di studio per la nomina a sottotenente di milizia territoriale, nelle armi di artiglieria e genio, richiesti dall'art. del [R. decreto n. 507, del 4 dicembre 1898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-12-04;507), sono sostituiti dai seguenti: 
+I titoli di studio per la nomina a sottotenente di milizia territoriale, nelle armi di artiglieria e genio, richiesti dall'art. del [R. decreto n. 507, del 4 dicembre 1898](Relativo%20alla%20nomina%20a%20sottotenenti%20nella%20milizia%20territoriale.%20098U0507.md), sono sostituiti dai seguenti: 
  
  Diploma di licenza in scienze fisico-matematiche (2° anno di Universita'), o titolo equipollente o superiore, sempre nella facolta' di matematica. 
  

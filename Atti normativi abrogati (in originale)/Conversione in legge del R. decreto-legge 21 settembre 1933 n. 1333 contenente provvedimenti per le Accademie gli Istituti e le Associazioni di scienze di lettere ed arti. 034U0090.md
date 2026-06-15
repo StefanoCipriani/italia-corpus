@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 settembre 1933, n. 1333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-21;1333), contenente provvedimenti per le Accademie, gli Istituti e le Associazioni di scienze, di lettere ed arti. 
+ E' convertito in legge il [R. decreto-legge 21 settembre 1933, n. 1333](Provvedimenti%20per%20le%20Accademie%20gli%20Istituti%20e%20le%20Associazioni%20di%20scienze%20di%20lettere%20ed%20arti.%20033U1333.md), contenente provvedimenti per le Accademie, gli Istituti e le Associazioni di scienze, di lettere ed arti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -126,7 +126,7 @@ giugno 1933:
 
 ### Art. 9.
 
-Alla competenza dell'articolo aggiunto n. 94 della spesa straordinaria del bilancio della Somalia, con la dizione: «Fondo di riserva destinato a fronteggiare le necessita' di cui all'[art. 2 del R. decreto-legge 25 marzo 1929, n. 531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-25;531#art_2), modificato dall'[art. 1 della legge 29 dicembre 1932, n. 1895](Proroga%20del%20R.%20decreto%20legge%2025%20marzo%201929%20n.%20531%20sul%20consolidamento%20dei%20bilanci%20coloniali.%20032U1895.md)» e' iscritta la somma di L. 1.452.155,55 cosi' costituita: 
+Alla competenza dell'articolo aggiunto n. 94 della spesa straordinaria del bilancio della Somalia, con la dizione: «Fondo di riserva destinato a fronteggiare le necessita' di cui all'[art. 2 del R. decreto-legge 25 marzo 1929, n. 531](Contributo%20dello%20Stato%20diretto%20a%20consolidare%20per%20gli%20esercizi%20finanziari%20dal%201929-30%20al%201932-33%20i%20bilanci%20della%20Tripolitania%20Cirenaica%20Eritrea%20e%20Somalia.%20029U0531.md), modificato dall'[art. 1 della legge 29 dicembre 1932, n. 1895](Proroga%20del%20R.%20decreto%20legge%2025%20marzo%201929%20n.%20531%20sul%20consolidamento%20dei%20bilanci%20coloniali.%20032U1895.md)» e' iscritta la somma di L. 1.452.155,55 cosi' costituita: 
  
 
  Avanzo della gestione di competenza

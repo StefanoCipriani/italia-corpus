@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 dicembre 1930, n. 1837](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-18;1837), concernente l'insegnamento di statistica e di clinica delle malattie tropicali e sub-tropicali nella Regia universita' di Roma. 
+ E' convertito in legge il [R. decreto-legge 18 dicembre 1930, n. 1837](Insegnamento%20di%20statistica%20e%20di%20clinica%20delle%20malattie%20tropicali%20e%20sub-tropicali%20nella%20Regia%20universita%20di%20Roma.%20030U1837.md), concernente l'insegnamento di statistica e di clinica delle malattie tropicali e sub-tropicali nella Regia universita' di Roma. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 20 dicembre 1928, n. 3133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-20;3133), sull'ordinamento dell'Associazione della Croce Rossa Italiana, e successive modificazioni;
+Vista la [legge 20 dicembre 1928, n. 3133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20agosto%201928%20n.%202034%20concernente%20il%20nuovo%20ordinamento%20dellAssociazione%20della%20Croce%20Rossa%20Italiana.%20028U3133.md), sull'ordinamento dell'Associazione della Croce Rossa Italiana, e successive modificazioni;
 
 Visto il [R. decreto 21 gennaio 1928, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-21;111), sullo stato organico dell'Associazione della Croce Rossa Italiana, e successive modificazioni;
 
-Visto il [R. decreto 10 febbraio 1936, n. 484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-10;484), sul reclutamento, lo stato e l'avanzamento del personale della Croce Rossa Italiana, e successive modificazioni;
+Visto il [R. decreto 10 febbraio 1936, n. 484](Norme%20per%20disciplinare%20lo%20stato%20giuridico%20il%20reclutamento%20lavanzamento%20ed%20il%20trattamento%20economico%20ed%20amministrativo%20del%20personale%20della%20Croce%20Rossa%20Italiana.%20036U0484.md), sul reclutamento, lo stato e l'avanzamento del personale della Croce Rossa Italiana, e successive modificazioni;
 
-Vista la [legge 4 gennaio 1938, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-01-04;23), sul personale addetto al, funzionamento dei servizi dell'Associazione dei Cavalieri Italiani del Sovrano Militare Ordine di Malta;
+Vista la [legge 4 gennaio 1938, n. 23](Disposizioni%20riguardanti%20il%20personale%20addetto%20al%20funzionamento%20dei%20servizi%20dellAssociazione%20dei%20Cavalieri%20italiani%20del%20Sovrano%20Militare%20Ordine%20di%20Malta.%20038U0023.md), sul personale addetto al, funzionamento dei servizi dell'Associazione dei Cavalieri Italiani del Sovrano Militare Ordine di Malta;
 
 Vista la convenzione tra il Ministero della guerra e l'Associazione dei Cavalieri Italiani del Sovrano Militare Ordine di Malta, circa il reclutamento, lo stato giuridico, il trattamento economico del personale dell'Associazione, stipulata in data 30 marzo 1940, e successive modificazioni;
 

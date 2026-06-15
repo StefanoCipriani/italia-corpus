@@ -24,7 +24,7 @@ Visti i Nostri decreti 15 febbraio 1917, n. 399, 15 aprile 1917, nn. 656 e 650, 
 
 Visto il [decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625), convertito nella legge 21 dicembre successivo, n. 1774;
 
-Vista la [legge 29 giugno 1917, n. 1025](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-06-29;1025);
+Vista la [legge 29 giugno 1917, n. 1025](Che%20autorizza%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20dellanno%20finanziario%201917-918%20fino%20al%2031%20luglio%201917.%20017U1025.md);
 
 Udito il Consiglio dei ministri;
 

@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti il [R. decreto 3 settembre 1906, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-09-03;522), la [legge 9 luglio 1908, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;403), il [R. decreto 4 ottobre 1908, n. 621](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-10-04;621), il [R. decreto 7 settembre 1911, n. 1249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-09-07;1249) ed il [decreto Luogotenenziale 5 novembre 1916, n. 1561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-05;1561);
+Visti il [R. decreto 3 settembre 1906, n. 522](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md), la [legge 9 luglio 1908, n. 403](Provvedimenti%20per%20il%20Real%20corpo%20del%20genio%20civile%20e%20per%20il%20personale%20aggiunto%20e%20provvisorio%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici%20e%20del%20genio%20civile.%20008U0403.md), il [R. decreto 4 ottobre 1908, n. 621](Indennita%20di%20pernottazione%20per%20gli%20ufficiali%20del%20Genio%20civile%20in%20gite%20di%20servizio.%20008U0621.md), il [R. decreto 7 settembre 1911, n. 1249](Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20del%20R.%20corpo%20del%20genio%20civile.%20011U1249.md) ed il [decreto Luogotenenziale 5 novembre 1916, n. 1561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-05;1561);
 
 Udito il Consiglio dei ministri;
 

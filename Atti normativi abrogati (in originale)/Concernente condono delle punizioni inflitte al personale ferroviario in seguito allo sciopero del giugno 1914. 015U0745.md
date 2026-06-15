@@ -14,7 +14,7 @@ Il direttore generale delle ferrovie dello Stato e' autorizzato:
 
 1.
 
-A far cessare dalla data di pubblicazione del presente decreto ogni ulteriore effetto dei provvedimenti di proroga dell'intervallo normale per l'aumento di stipendio o paga, applicati in base all'[art. 56 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_56), agli agenti che parteciparono allo sciopero del giugno 1914;
+A far cessare dalla data di pubblicazione del presente decreto ogni ulteriore effetto dei provvedimenti di proroga dell'intervallo normale per l'aumento di stipendio o paga, applicati in base all'[art. 56 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), agli agenti che parteciparono allo sciopero del giugno 1914;
 
 2.
 

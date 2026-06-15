@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738); 
+ Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Nello stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio finanziario 1916-917 sono introdotte le seguenti variazioni: 
  
- Lo stanziamento del capitolo n. 24-sexies «Sussidi al personale dipendente dal genio civile, ecc.» e' aumentato di lire cinquantaseimila (L. 56,000) e della stessa somma e' diminuito quello del capitolo n. 128 «Opere stradali dipendenti dalle [leggi 3 luglio 1902, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-07-03;297), ecc.». 
+ Lo stanziamento del capitolo n. 24-sexies «Sussidi al personale dipendente dal genio civile, ecc.» e' aumentato di lire cinquantaseimila (L. 56,000) e della stessa somma e' diminuito quello del capitolo n. 128 «Opere stradali dipendenti dalle [leggi 3 luglio 1902, n. 297](Che%20determina%20la%20somma%20da%20erogarsi%20nel%20decennio%20finanziario%20dal%201903-904%20al%201912-913%20per%20la%20costruzione%20di%20strade%20nazionali%20e%20provinciali.%20002U0297.md), ecc.». 
  
  Del presente decreto verra' chiesta la conversione in legge con apposito articolo da inserirsi nel disegno di legge per l'approvazione del rendiconto generale consuntivo per l'esercizio finanziario 1916-917. 
  

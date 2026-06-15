@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Sono istituiti, in luogo dei Comandi di zona aerea territoriale e di aeronautica, previsti dal [regio decreto-legge 22 febbraio 1937, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-22;220), convertito nella [legge 25 giugno 1937, n. 1501](Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), e successive modificazioni, tre Comandi di Regione aerea, retti da generali di squadra aerea.
+Sono istituiti, in luogo dei Comandi di zona aerea territoriale e di aeronautica, previsti dal [regio decreto-legge 22 febbraio 1937, n. 220](Ordinamento%20della%20Regia%20aeronautica.%20037U0220.md), convertito nella [legge 25 giugno 1937, n. 1501](Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), e successive modificazioni, tre Comandi di Regione aerea, retti da generali di squadra aerea.
 
 ## Art. 2.
 
@@ -32,7 +32,7 @@ La circoscrizione territoriale dei Comandi di Regione aerea e dei seguenti enti 
 ## Art. 3.
 
 Gli ufficiali generali comandanti di Regione e di Settore sono compresi negli organici dei rispettivi gradi.
- Nulla e' innovato quanto al numero dei funzionari destinati alle ispezioni sul funzionamento dei servizi contabili amministrativi, e surrogati nel ruolo organico ai sensi del [regio decreto 9 luglio 1936, n. 1748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-07-09;1748).
+ Nulla e' innovato quanto al numero dei funzionari destinati alle ispezioni sul funzionamento dei servizi contabili amministrativi, e surrogati nel ruolo organico ai sensi del [regio decreto 9 luglio 1936, n. 1748](Istituzione%20presso%20il%20Ministero%20dellaeronautica%20di%20un%20servizio%20ispettivo%20in%20materia%20contabile-amministrativa%20degli%20Enti%20aeronautici.%20036U1748.md).
 
 ## Art. 4.
 

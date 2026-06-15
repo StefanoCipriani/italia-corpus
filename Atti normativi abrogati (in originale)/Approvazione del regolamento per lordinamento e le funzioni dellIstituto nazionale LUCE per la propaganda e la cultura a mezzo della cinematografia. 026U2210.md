@@ -26,7 +26,7 @@ Visto il R. decreto 18 marzo 1926;
 
 Visto il R. decreto 5 agosto 1926;
 
-Visto il [R. decreto 21 ottobre 1926, n. 1951](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-21;1951);
+Visto il [R. decreto 21 ottobre 1926, n. 1951](Costituzione%20della%20Cinemateca%20per%20larte%20e%20per%20listruzione%20religiosa.%20026U1951.md);
 
 Visto il R. decreto 1° luglio 1926;
 

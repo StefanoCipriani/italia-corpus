@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473) e successive modificazioni;
+Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md) e successive modificazioni;
 
-Visto il regolamento approvato con [R. decreto 4 gennaio 1925, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-04;63);
+Visto il regolamento approvato con [R. decreto 4 gennaio 1925, n. 63](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -48,7 +48,7 @@ Con i Regi decreti di liquidazione degli enti sottoposti alle norme del [R. decr
 
 ## Art. 3.
 
-Le norme pel caso di fusione - contenute nel [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473) e relative disposizioni modificative e regolamentari - sono estese ai casi di concentrazione di imprese di assicurazione e di trasferimento di portafoglio di cui ai precedenti articoli. Le relative deliberazioni e convenzioni dovranno all'uopo essere preventivamente sottoposte al Ministero delle corporazioni, Servizio di vigilanza sulle assicurazioni.
+Le norme pel caso di fusione - contenute nel [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md) e relative disposizioni modificative e regolamentari - sono estese ai casi di concentrazione di imprese di assicurazione e di trasferimento di portafoglio di cui ai precedenti articoli. Le relative deliberazioni e convenzioni dovranno all'uopo essere preventivamente sottoposte al Ministero delle corporazioni, Servizio di vigilanza sulle assicurazioni.
 
 ## Art. 4.
 

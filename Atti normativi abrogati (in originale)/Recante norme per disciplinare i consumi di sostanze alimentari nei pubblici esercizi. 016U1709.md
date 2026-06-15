@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Veduto il [decreto Luogotenenziale 2 agosto 1916, n. 926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-02;926);
 
@@ -90,7 +90,7 @@ Una copia del presente decreto dovra' essere tenuta costantemente affissa nei pu
 
 Ai conduttori di pubblici esercizi, che contravvengono alle disposizioni di cui agli articoli 2, 3, 4, 6, 7 e 8 del presente decreto, sara' sospesa la licenza di esercizio, da tre a quindici giorni. In caso di recidiva, la licenza sara' revocata e non potra' essere rinnovata se non sia trascorso un anno. 
  
- Resta sempre salva l'applicazione delle pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), o da disposizioni speciali. 
+ Resta sempre salva l'applicazione delle pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o da disposizioni speciali. 
  
  La sospensione o la revoca della licenza sono ordinate dal prefetto, in base al verbale di accertamento degli ufficiali ed agenti di polizia giudiziaria. Contro il provvedimento del prefetto non e' ammesso ricorso. 
  

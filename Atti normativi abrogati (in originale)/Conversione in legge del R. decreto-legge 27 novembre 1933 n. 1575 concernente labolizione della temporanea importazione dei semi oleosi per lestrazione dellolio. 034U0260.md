@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1575), concernente l'abolizione della temporanea importazione dei semi oleosi per l'estrazione dell'olio. 
+ E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1575](Abolizione%20della%20temporanea%20importazione%20dei%20semi%20oleosi%20per%20lestrazione%20dellolio.%20033U1575.md), concernente l'abolizione della temporanea importazione dei semi oleosi per l'estrazione dell'olio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

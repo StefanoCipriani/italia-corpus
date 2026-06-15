@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'Ente nazionale «L'Italica», istituito e regolato dal [R. decreto-legge 26 novembre 1925, n. 2144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-26;2144), convertito nella [legge 16 giugno 1927, n. 1041](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2026%20novembre%201925%20n.%202144%20relativo%20allistituzione%20dellEnte%20nazionale%20Litalica%20per%20la%20diffusione%20della%20coltura%20italiana%20allestero.%20027U1041.md), e successive modificazioni, e' soppresso. 
+L'Ente nazionale «L'Italica», istituito e regolato dal [R. decreto-legge 26 novembre 1925, n. 2144](Istituzione%20dellEnte%20nazionale%20LItalica%20per%20la%20diffusione%20della%20coltura%20italiana%20allestero.%20025U2144.md), convertito nella [legge 16 giugno 1927, n. 1041](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2026%20novembre%201925%20n.%202144%20relativo%20allistituzione%20dellEnte%20nazionale%20Litalica%20per%20la%20diffusione%20della%20coltura%20italiana%20allestero.%20027U1041.md), e successive modificazioni, e' soppresso. 
  
  L'Istituto nazionale fascista di cultura e' autorizzato ad accettare l'ammontare delle attivita' patrimoniali che proverranno dalla liquidazione dell'Ente medesimo.
 

@@ -106,7 +106,7 @@ A decorrere dall'esercizio finanziario 1941-42 gli annui contributi dello Stato 
 
 ## Art. 11.
 
-Il contributo da corrispondere al Pio Istituto di Santo Spirito ed Ospedali Riuniti di Roma, ai termini dell'[articolo 3 del R. decreto-legge 18 aprile 1920, numero 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-04-18;481#art_3), convertito nella legge 17 aprile 1925-III, numero 473, per i maggiori oneri dipendenti dai miglioramenti economici al personale e' stabilito, per l'esercizio finanziario 1941-42, in L. 6.000.000.
+Il contributo da corrispondere al Pio Istituto di Santo Spirito ed Ospedali Riuniti di Roma, ai termini dell'[articolo 3 del R. decreto-legge 18 aprile 1920, numero 481](Che%20autorizza%20un%20mutuo%20di%20lire%208.800.000%20a%20favore%20dellIstituto%20di%20Santo%20Spirito%20in%20Sassia%20ed%20ospedali%20riuniti%20di%20Roma.%20020U0481.md), convertito nella legge 17 aprile 1925-III, numero 473, per i maggiori oneri dipendenti dai miglioramenti economici al personale e' stabilito, per l'esercizio finanziario 1941-42, in L. 6.000.000.
 
 ## Art. 12.
 

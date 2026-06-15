@@ -132,7 +132,7 @@ Gli assegni e contributi sono dovuti qualunque sia il numero delle giornate pres
 
 ### Art. 16.
 
-Le gestione degli assegni familiari e' affidata all'istituto nazionale fascista della previdenza sociale, che vi provvedera' con i suoi organi centrali e Periferici, secondo le norme del [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito nella [legge 6 aprile 1936, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155), sul perfezionamento e coordinamento legislativo della previdenza sociale.
+Le gestione degli assegni familiari e' affidata all'istituto nazionale fascista della previdenza sociale, che vi provvedera' con i suoi organi centrali e Periferici, secondo le norme del [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md), sul perfezionamento e coordinamento legislativo della previdenza sociale.
 
 ### Art. 17.
 
@@ -186,7 +186,7 @@ L'Istituto nazionale fascista della previdenza sociale potra' avvalersi, per la 
 
 ### Art. 23.
 
-Si osservano per gli assegni familiari, sempre che siano applicabili, le disposizioni del [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito nella [legge 6 aprile 1936, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155), sul perfezionamento e coordinamento legislativo della previdenza sociale, comprese quelle sui benefici, i privilegi e le esenzioni fiscali.
+Si osservano per gli assegni familiari, sempre che siano applicabili, le disposizioni del [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md), sul perfezionamento e coordinamento legislativo della previdenza sociale, comprese quelle sui benefici, i privilegi e le esenzioni fiscali.
 
 ### Art. 24.
 

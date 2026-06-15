@@ -209,7 +209,7 @@ Il Ministero delle corporazioni provvedera' alla istituzione presso gli uffici g
 
 ### Art. 24.
 
-Per provvedere alle spese necessarie per la applicazione della presente legge il Ministro per le finanze e' autorizzate a disporre con proprio decreto l'aumento della tassa da L. 20 a L. 100 e da lire 12 a lire 45 rispettivamente per il rilascio e la rinnovazione annuale della patente per i fabbricanti e i commercianti di oggetti preziosi, di cui all'[art. 3 del R. decreto-legge 28 dicembre 1922, n. 1670](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-12-28;1670#art_3). 
+Per provvedere alle spese necessarie per la applicazione della presente legge il Ministro per le finanze e' autorizzate a disporre con proprio decreto l'aumento della tassa da L. 20 a L. 100 e da lire 12 a lire 45 rispettivamente per il rilascio e la rinnovazione annuale della patente per i fabbricanti e i commercianti di oggetti preziosi, di cui all'[art. 3 del R. decreto-legge 28 dicembre 1922, n. 1670](Che%20unifica%20laliquota%20delle%20tasse%20di%20bollo%20sulle%20vendite%20di%20gemme%20e%20gioielli%20e%20istituisce%20una%20patente%20per%20i%20fabbricanti%20e%20commercianti%20di%20oggetti%20preziosi.%20022U1670.md). 
  
  Lo stesso Ministro per le finanze e' autorizzato a provvedere con suo decreto alle variazioni di bilancio occorrenti per l'applicazione della presente legge.
 

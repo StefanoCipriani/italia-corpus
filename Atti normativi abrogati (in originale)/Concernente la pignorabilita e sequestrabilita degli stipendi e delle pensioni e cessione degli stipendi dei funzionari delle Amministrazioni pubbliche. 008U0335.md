@@ -147,7 +147,7 @@ Le Casse di risparmio ed i Monti di pieta' sono autorizzati a concedere prestiti
 
 ### Art. 16.
 
-Gli atti di cessione contemplati dalla presente legge, e quelli di notificazione dei medesimi, nonche' tutti gli altri documenti occorrenti per la cessione dei prestiti, sono esenti da tassa di bollo. Per le cessioni stesse la tassa proporzionale di registro stabilita dall'art. 20 della tariffa annessa al testo unico approvato con [R. decreto 20 maggio 1897, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-05-20;217) e' ridotta a centesimi 25 oltre i due decimi. 
+Gli atti di cessione contemplati dalla presente legge, e quelli di notificazione dei medesimi, nonche' tutti gli altri documenti occorrenti per la cessione dei prestiti, sono esenti da tassa di bollo. Per le cessioni stesse la tassa proporzionale di registro stabilita dall'art. 20 della tariffa annessa al testo unico approvato con [R. decreto 20 maggio 1897, n. 217](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20tasse%20di%20registro.%20097U0217.md) e' ridotta a centesimi 25 oltre i due decimi. 
  
  Quando l'Amministrazione competente riconosca che la cessione non possa avere esecuzione, e cosi' il relativo atto rimanga inefficace, e' ammessa la restituzione della tassa pagata, sotto deduzione della tassa fissa di L. 1.20 per l'eseguita formalita' di registrazione, purche' ne sia fatta regolare domanda entro il termine di mesi 6 dal giorno in cui e' stata partecipata al cedente l'inefficacia della cessione. Siffatta domanda non e' soggetta a tassa di bollo.
 

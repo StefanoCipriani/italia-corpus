@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 18 giugno 1931, n. 987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-18;987) e successive modificazioni;
+Vista la [legge 18 giugno 1931, n. 987](Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20031U0987.md) e successive modificazioni;
 
 Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440);
 
-Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-26;172);
+Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 172](../Decreti%20legislativi%20luogotenenziali/Abrogazione%20del%20R.%20decreto-legge%2021%20giugno%201940%20n.%20856%20e%20temporaneo%20aumento%20dei%20limiti%20di%20Spesa%20previsti%20dalla%20legge%20e%20dal%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20e%20dallart.%2018%20de_b480d758d3e6.md);
 
 Visto il [regio decreto-legge 9 febbraio 1939, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-09;273) e sentita la Corte dei conti;
 
@@ -32,7 +32,7 @@ E' autorizzata la spesa di L. 1.000.000.000, per provvedere alle esigenze relati
 
 ## Art. 2.
 
-Per le spese previste nel presente decreto il Ministero dell'agricoltura e delle foreste e' autorizzato ad emettere ordine di accreditamento in eccedenza al limite previsto dall'[art. 56 della legge 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-11-18;2440#art_56), recante disposizioni sull'amministrazione del patrimonio e la contabilita' generale dello Stato, modificato dal [decreto legislativo luogotenenziale 26 marzo 1946, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-26;172), fino alla concorrenza di lire 50.000.000.
+Per le spese previste nel presente decreto il Ministero dell'agricoltura e delle foreste e' autorizzato ad emettere ordine di accreditamento in eccedenza al limite previsto dall'[art. 56 della legge 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-11-18;2440#art_56), recante disposizioni sull'amministrazione del patrimonio e la contabilita' generale dello Stato, modificato dal [decreto legislativo luogotenenziale 26 marzo 1946, n. 172](../Decreti%20legislativi%20luogotenenziali/Abrogazione%20del%20R.%20decreto-legge%2021%20giugno%201940%20n.%20856%20e%20temporaneo%20aumento%20dei%20limiti%20di%20Spesa%20previsti%20dalla%20legge%20e%20dal%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20e%20dallart.%2018%20de_b480d758d3e6.md), fino alla concorrenza di lire 50.000.000.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

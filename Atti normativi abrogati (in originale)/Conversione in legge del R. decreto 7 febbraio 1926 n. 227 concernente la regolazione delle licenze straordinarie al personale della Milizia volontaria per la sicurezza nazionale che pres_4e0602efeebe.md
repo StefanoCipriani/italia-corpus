@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 7 febbraio 1926, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-02-07;227), che apporta modificazioni all'[art. 22 del R. decreto-legge 1° maggio 1924, n. 1166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-01;1166#art_22), per quanto riguarda la concessione delle licenze straordinarie per ragioni di privato interesse e di salute non dipendenti dal servizio ai componenti le legioni libiche permanenti di Milizia volontaria per la sicurezza nazionale e la cessazione dal servizio coloniale che alla licenza stessa puo' conseguire. 
+ E' convertito in legge il [R. decreto 7 febbraio 1926, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-02-07;227), che apporta modificazioni all'[art. 22 del R. decreto-legge 1° maggio 1924, n. 1166](Costituzione%20di%20due%20Legioni%20Libiche%20di%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20024U1166.md), per quanto riguarda la concessione delle licenze straordinarie per ragioni di privato interesse e di salute non dipendenti dal servizio ai componenti le legioni libiche permanenti di Milizia volontaria per la sicurezza nazionale e la cessazione dal servizio coloniale che alla licenza stessa puo' conseguire. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -23,7 +23,7 @@ PROMULGA la seguente legge:
 Per la partecipazione dell'Italia all'Esposizione internazionale che si svolgera' a Brisbane (Australia) nel 1988, e' autorizzata la spesa di lire 7.000 milioni di lire, da iscriversi nello stato di previsione del Ministero degli affari esteri.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2.
 
@@ -39,7 +39,7 @@ Il predetto Commissariato cessa di essere operante entri sei mesi dalla chiusura
 
 1.
 
-Il Commissario generale rappresenta il Governo italiano ai fini degli adempimenti previsti dalla Convenzione sulle Esposizioni internazionali firmata a Parigi il 22 novembre 1928, resa esecutiva con [regio decreto-legge 13 gennaio 1931, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-13;24), convertito dalla [legge 9 aprile 1931, n. 893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-04-09;893), modificata con protocollo firmato a Parigi il 10 maggio 1948, reso esecutivo con [legge 13 giugno 1952, n. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-13;687), e con protocollo firmato a Parigi il 30 novembre 1972, reso esecutivo con [legge 3 giugno 1978, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-03;314).
+Il Commissario generale rappresenta il Governo italiano ai fini degli adempimenti previsti dalla Convenzione sulle Esposizioni internazionali firmata a Parigi il 22 novembre 1928, resa esecutiva con [regio decreto-legge 13 gennaio 1931, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-13;24), convertito dalla [legge 9 aprile 1931, n. 893](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201931%20n.%2024%20relativo%20allapprovazione%20della%20Convenzione%20per%20le%20Esposizioni%20internazionali%20con%20Protocollo%20di%20firma%20firmata%20a%20Parigi%20tra%20l_f5116aaa7363.md), modificata con protocollo firmato a Parigi il 10 maggio 1948, reso esecutivo con [legge 13 giugno 1952, n. 687](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20Protocollo%20che%20modifica%20la%20Convenzione%20sulle%20esposizioni%20internazionali%20del%2022%20novembre%201928%20firmato%20a%20Parigi%20il%2010%20maggio%201948.md), e con protocollo firmato a Parigi il 30 novembre 1972, reso esecutivo con [legge 3 giugno 1978, n. 314](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20protocollo%20recante%20modifiche%20alla%20convenzione%20firmata%20a%20Parigi%20il%2022%20novembre%201928%20concernente%20le%20esposizioni%20Internazionali%20con%20allegati%20aperto%20alla%20firma%20a%20Pa_146fdda8f306.md).
 
 2.
 
@@ -56,7 +56,7 @@ Nota all'[art. 3:
 
 1.
 
-Il Commissario generale ed il Segretario generale, se dipendenti da amministrazione statale, vengono collocati, per tutta la durata dell'incarico, nella posizione di fuori ruolo in eccedenza alle quote stabilite dal [decreto del Presidente della Repubblica 30 aprile 1958, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-04-30;571), o da altre disposizioni legislative o regolamentari.
+Il Commissario generale ed il Segretario generale, se dipendenti da amministrazione statale, vengono collocati, per tutta la durata dell'incarico, nella posizione di fuori ruolo in eccedenza alle quote stabilite dal [decreto del Presidente della Repubblica 30 aprile 1958, n. 571](../DPR/Norme%20di%20esecuzione%20dellart.%2058%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), o da altre disposizioni legislative o regolamentari.
 
 2.
 
@@ -77,7 +77,7 @@ Il Commissario generale e' autorizzato ad utilizzare personale dell'amministrazi
 
 2.
 
-Il personale appartenente all'amministrazione dello Stato utilizzato ai sensi del comma 1 puo' essere collocato fuori ruolo per tutta la durata dell'incarico, in eccedenza alle quote stabilite dal [decreto del Presidente della Repubblica 30 aprile 1958, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-04-30;571), o da altre disposizioni legislative o regolamentari, ovvero essere comandato presso il Ministero degli affari esteri.
+Il personale appartenente all'amministrazione dello Stato utilizzato ai sensi del comma 1 puo' essere collocato fuori ruolo per tutta la durata dell'incarico, in eccedenza alle quote stabilite dal [decreto del Presidente della Repubblica 30 aprile 1958, n. 571](../DPR/Norme%20di%20esecuzione%20dellart.%2058%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), o da altre disposizioni legislative o regolamentari, ovvero essere comandato presso il Ministero degli affari esteri.
 
 3.
 

@@ -53,7 +53,7 @@ La disposizione di cui al precedente articolo non e' applicabile ove il decesso 
 E' vietato di seppellire un cadavere in un luogo qualsiasi diverso dal cimitero sotto la pena pecuniaria al contravventore di L. 51, estensibile a L. 100, oltre alle spese necessarie per il trasporto al cimitero. 
  
  Tale pena sara' applicata dall'autorita' giudiziaria competente.
-Essa e' commutabile nell'arresto, a' termini e nei modi prescritti dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) vigente. Ad essa sono applicabili le disposizioni dello stesso Codice relative alle diminuzioni di pena in concorso di circostanze attenuanti. 
+Essa e' commutabile nell'arresto, a' termini e nei modi prescritti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) vigente. Ad essa sono applicabili le disposizioni dello stesso Codice relative alle diminuzioni di pena in concorso di circostanze attenuanti. 
  
  Al divieto di cui al primo comma del presente articolo e' fatta eccezione per l'inumazione di cadaveri nelle cappelle private e gentilizie non aperte al pubblico ad una distanza dai centri abitati eguale a quella stabilita per i cimiteri. 
  

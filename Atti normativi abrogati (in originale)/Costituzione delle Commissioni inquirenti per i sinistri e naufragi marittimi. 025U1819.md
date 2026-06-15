@@ -132,7 +132,7 @@ La persona preposta al comando della nave, gli ufficiali di bordo e gli individu
 
 ## Art. 13.
 
-Allorquando la persona preposta al comando, l'ufficiale o l'individuo di bassa forza per i fatti di cui all'art. 1 del presente decreto, riporti condanna per dolo, imperizia, o colpa grave, alle pene sancite dal Codice per la marina mercantile e dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) sara' aggiunta la destituzione dal grado e l'interdizione perpetua dall'esercizio della navigazione. 
+Allorquando la persona preposta al comando, l'ufficiale o l'individuo di bassa forza per i fatti di cui all'art. 1 del presente decreto, riporti condanna per dolo, imperizia, o colpa grave, alle pene sancite dal Codice per la marina mercantile e dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sara' aggiunta la destituzione dal grado e l'interdizione perpetua dall'esercizio della navigazione. 
  
  Quando invece la condanna sia riportata per negligenza o colpa lieve la pena accessoria sara' quella della sospensione dal grado o dall'esercizio della navigazione per un periodo di tempo da un anno a cinque anni.
 
@@ -154,7 +154,7 @@ Per le navi che non superano le 150 tonnellate di stazza lorda, pel naviglio da 
 
 ## Art. 17.
 
-Per le inchieste prevedute dall'art. 129 del regolamento approvato con [R. decreto 13 marzo 1904, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-03-13;141), modificato con [R. decreto-legge 27 marzo 1919, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-03-27;638), quando non ricorrano i casi di cui al precedente art. 1, le Commissioni saranno costituite secondo il disposto degli articoli 641 e 650 del regolamento per la esecuzione del Codice per la marina mercantile.
+Per le inchieste prevedute dall'art. 129 del regolamento approvato con [R. decreto 13 marzo 1904, n. 141](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20sugli%20infortuni%20degli%20operai%20sul%20lavoro.%20004U0141.md), modificato con [R. decreto-legge 27 marzo 1919, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-03-27;638), quando non ricorrano i casi di cui al precedente art. 1, le Commissioni saranno costituite secondo il disposto degli articoli 641 e 650 del regolamento per la esecuzione del Codice per la marina mercantile.
 
 ## Art. 18.
 

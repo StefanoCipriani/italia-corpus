@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 ottobre 1936, n. 1746](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-05;1746), contenente disposizioni intese a combattere perturbamenti del mercato nazionale ed ingiustificati inasprimenti del costo della vita. 
+ E' convertito in legge il [R. decreto-legge 5 ottobre 1936, n. 1746](Disposizioni%20intese%20a%20combattere%20perturbamenti%20del%20mercato%20nazionale%20ed%20ingiustificati%20inasprimenti%20del%20costo%20della%20vita.%20036U1746.md), contenente disposizioni intese a combattere perturbamenti del mercato nazionale ed ingiustificati inasprimenti del costo della vita. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

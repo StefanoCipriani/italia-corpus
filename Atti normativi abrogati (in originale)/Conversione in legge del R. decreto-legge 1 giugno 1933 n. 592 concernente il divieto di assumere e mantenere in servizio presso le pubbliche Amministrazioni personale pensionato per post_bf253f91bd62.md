@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° giugno 1933, n. 592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-01;592), concernente il divieto di assumere e mantenere in servizio presso le pubbliche Amministrazioni personale pensionato per posti non di ruolo. 
+ E' convertito in legge il [R. decreto-legge 1° giugno 1933, n. 592](Divieto%20di%20assumere%20e%20mantenere%20in%20servizio%20presso%20le%20pubbliche%20Amministrazioni%20personale%20pensionato%20per%20posti%20non%20di%20ruolo.%20033U0592.md), concernente il divieto di assumere e mantenere in servizio presso le pubbliche Amministrazioni personale pensionato per posti non di ruolo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

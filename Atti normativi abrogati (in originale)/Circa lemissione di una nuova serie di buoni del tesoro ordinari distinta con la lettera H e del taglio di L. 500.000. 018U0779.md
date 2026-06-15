@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alle serie dei buoni del tesoro ordinari, di cui all'art. 565 del regolamento per la contabilita' generale dello Stato approvato con [R. decreto 4 maggio 1885, n. 3074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-05-04;3074), e' aggiunta, a partire dal 1° luglio 1918, una distinta colla lettera H del taglio da L. 500.000.
+Alle serie dei buoni del tesoro ordinari, di cui all'art. 565 del regolamento per la contabilita' generale dello Stato approvato con [R. decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md), e' aggiunta, a partire dal 1° luglio 1918, una distinta colla lettera H del taglio da L. 500.000.
 
 ## Art. 2.
 

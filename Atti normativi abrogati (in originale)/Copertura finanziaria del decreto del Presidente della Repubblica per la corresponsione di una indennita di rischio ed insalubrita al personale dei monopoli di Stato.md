@@ -20,7 +20,7 @@ E' autorizzata la spesa di lire 950 milioni per l'anno finanziario 1979 e di lir
 
 ## Art. 2.
 
-La indennita' di cui al precedente articolo 1 non e' cumulabile con quella prevista dall'[articolo 6 del decreto del Presidente della Repubblica 11 maggio 1976, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-05-11;271#art_6), per il personale che opera a diretto contatto con i tabacchi ed i sali.
+La indennita' di cui al precedente articolo 1 non e' cumulabile con quella prevista dall'[articolo 6 del decreto del Presidente della Repubblica 11 maggio 1976, n. 271](../DPR/Disposizioni%20sul%20trattamento%20economico%20del%20personale%20dellAmministrazione%20autonoma%20dei%20monopoli%20di%20Stato.md), per il personale che opera a diretto contatto con i tabacchi ed i sali.
 
 ## Art. 3.
 

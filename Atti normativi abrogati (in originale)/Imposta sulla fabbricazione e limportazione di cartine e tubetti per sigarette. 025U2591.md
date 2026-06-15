@@ -102,7 +102,7 @@ La fabbricazione clandestina di cartine o tubetti per sigarette, e' punita con u
  
  Nei casi di cui ai due comma precedenti, sono soggetti a confisca a favore dello Stato tanto le cartine e i tubetti, ultimati e non ultimati, quanto le materie prime, i recipienti ed i mezzi di trasporto sequestrati. 
  
- Ai contraffattori di punzoni o di marche, a chi ne fa uso, ne vende o ne detiene sono applicabili le speciali pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ Ai contraffattori di punzoni o di marche, a chi ne fa uso, ne vende o ne detiene sono applicabili le speciali pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  A chi fa doppio uso di marche o di involucri con marche ed a chi cede, vende o detiene marche usate od involucri con marche usate, e' applicabile la multa di L. 20 per ogni marca od involucro. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 maggio 1926, n. 1066](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;1066), concernente la istituzione della Milizia nazionale forestale, introducendo nell'art. 1 la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 16 maggio 1926, n. 1066](Istituzione%20della%20Milizia%20nazionale%20forestale.%20026U1066.md), concernente la istituzione della Milizia nazionale forestale, introducendo nell'art. 1 la seguente modificazione: 
  
  Dopo le parole: « E' istituita la Milizia nazionale forestale », modificare l'articolo come segue : « la quale come corpo armato e' alla diretta dipendenza del Capo del Governo. 
  

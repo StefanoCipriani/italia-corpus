@@ -20,7 +20,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata ed in forza dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata ed in forza dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Veduti i RR. decreti 17 settembre 1910, n. 859, e 22 maggio 1918, n. 700; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Possono emettersi mandati di anticipazione a favore del cassiere-economo del Ministero degli approvvigionamenti e consumi oltre che per i servizi di cui all'art. 4 del regolamento approvato con [R. decreto 17 settembre 1910, n. 859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-09-17;859): 
+ Possono emettersi mandati di anticipazione a favore del cassiere-economo del Ministero degli approvvigionamenti e consumi oltre che per i servizi di cui all'art. 4 del regolamento approvato con [R. decreto 17 settembre 1910, n. 859](Che%20approva%20lannesso%20regolamento%20per%20le%20gestioni%20affidate%20agli%20economi-cassieri%20delle%20Amministrazioni%20centrali.%20010U0859.md): 
  
  a) per spese di copia a cottimo, di posta e per compensi al personale per lavori straordinari ed agli uscieri per maggior orario; 
  

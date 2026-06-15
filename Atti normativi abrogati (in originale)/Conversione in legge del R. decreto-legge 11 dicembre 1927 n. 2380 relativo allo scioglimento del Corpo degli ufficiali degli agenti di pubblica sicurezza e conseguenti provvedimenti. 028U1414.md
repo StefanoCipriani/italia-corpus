@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 dicembre 1927, n. 2380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-11;2380), relativo allo scioglimento del Corpo degli ufficiali degli agenti di pubblica sicurezza e conseguenti provvedimenti. 
+ E' convertito in legge il [R. decreto-legge 11 dicembre 1927, n. 2380](Scioglimento%20del%20Corpo%20degli%20ufficiali%20degli%20agenti%20di%20P.%20S.%20e%20conseguenti%20provvedimenti.%20027U2380.md), relativo allo scioglimento del Corpo degli ufficiali degli agenti di pubblica sicurezza e conseguenti provvedimenti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

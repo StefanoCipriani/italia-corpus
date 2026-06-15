@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 luglio 1932, n. 903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-07-28;903), portante modificazione al regime doganale dei vini, delle acquaviti e dei liquori. 
+ E' convertito in legge il [R. decreto-legge 28 luglio 1932, n. 903](Modificazione%20del%20regime%20doganale%20dei%20vini%20delle%20acquaviti%20e%20dei%20liquori.%20032U0903.md), portante modificazione al regime doganale dei vini, delle acquaviti e dei liquori. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

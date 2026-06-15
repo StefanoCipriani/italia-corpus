@@ -36,7 +36,7 @@ Il presente decreto prescrive misure per la tutela della salute dei lavoratori c
 
 2.
 
-Le disposizioni di cui al comma 1 si applicano alle attivita' alle quali sono addetti lavoratori subordinati o ad essi equiparati ai sensi dell'[art. 3 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_3).
+Le disposizioni di cui al comma 1 si applicano alle attivita' alle quali sono addetti lavoratori subordinati o ad essi equiparati ai sensi dell'[art. 3 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md).
 
 3.
 

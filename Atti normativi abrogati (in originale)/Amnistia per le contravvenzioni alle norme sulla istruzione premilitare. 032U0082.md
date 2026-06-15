@@ -20,14 +20,14 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giu
 
 Vista la [legge 29 dicembre 1930, n. 1759](Obbligatorieta%20della%20istruzione%20premilitare.%20030U1759.md), sulla obbligatorieta' della istruzione premilitare;
 
-Visti gli [articoli 151 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_151), 591 e seguenti del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visti gli [articoli 151 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), 591 e seguenti del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
 E' conceduta amnistia per le contravvenzioni previste dalla [legge 29 dicembre 1930, n. 1759](Obbligatorieta%20della%20istruzione%20premilitare.%20030U1759.md), sulla istruzione premilitare, commesse dalle persone indicate nell'art. 4 per non aver queste ottemperato agli obblighi di iscrizione e di frequenza ai corsi dei minori iscritti nelle liste di leva delle classi 1912 e 1913. 
- L'amnistia si applichera' senza le limitazioni di cui all'ultimo capoverso dell'[art. 151 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_151).
+ L'amnistia si applichera' senza le limitazioni di cui all'ultimo capoverso dell'[art. 151 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nei procedimenti penali sospesi ai termini del il [R. decreto-legge 24 ottobre 1935, n. 1893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-24;1893), convertito nella [legge 30 marzo 1936, n. 574](Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201893%20contenente%20norme%20temporanee%20per%20conciliare%20le%20esigenze%20della%20giustizia%20penale%20e%20dellamministrazione%20finanziaria%20del%20_364a42c5d45a.md), e che debbono riprendere il loro corso per essere venute a cessare le ragioni della sospensione, qualora sia pronunziata sentenza di condanna a pena detentiva per un tempo non superiore a tre anni o a pena pecuniaria, ovvero sia pronunziato decreto penale di condanna, il giudice, anche nei casi non consentiti da leggi speciali, ordina che l'esecuzione della pena rimanga sospesa per il termine di cinque anni se la condanna e' per delitto, e di due anni, se la condanna e' per contravvenzione, fermo il disposto degli [articoli 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_166), [167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_167) e [168 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_168).
+Nei procedimenti penali sospesi ai termini del il [R. decreto-legge 24 ottobre 1935, n. 1893](Norme%20temporanee%20per%20conciliare%20le%20esigenze%20della%20giustizia%20penale%20e%20dellamministrazione%20finanziaria%20del%20Regno%20con%20quelle%20militari%20durante%20le%20operazioni%20militari%20nellAfrica%20Orientale.%20035U1893.md), convertito nella [legge 30 marzo 1936, n. 574](Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201893%20contenente%20norme%20temporanee%20per%20conciliare%20le%20esigenze%20della%20giustizia%20penale%20e%20dellamministrazione%20finanziaria%20del%20_364a42c5d45a.md), e che debbono riprendere il loro corso per essere venute a cessare le ragioni della sospensione, qualora sia pronunziata sentenza di condanna a pena detentiva per un tempo non superiore a tre anni o a pena pecuniaria, ovvero sia pronunziato decreto penale di condanna, il giudice, anche nei casi non consentiti da leggi speciali, ordina che l'esecuzione della pena rimanga sospesa per il termine di cinque anni se la condanna e' per delitto, e di due anni, se la condanna e' per contravvenzione, fermo il disposto degli [articoli 166](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [167](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [168 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 
@@ -18,7 +18,7 @@ I mandati o gli ordini di cattura o di arresto da eseguirsi o da emettersi in se
 
 ## Art. 3.
 
-Le condanne a pena detentiva per un tempo non superiore a tre anni o a pena pecuniaria, la cui esecuzione sia stata sospesa ai sensi del [R. decreto-legge 24 ottobre 1935, n. 1893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-24;1893), s'intendono pronunciate col beneficio della sospensione condizionale della pena ai sensi dell'art. 1.
+Le condanne a pena detentiva per un tempo non superiore a tre anni o a pena pecuniaria, la cui esecuzione sia stata sospesa ai sensi del [R. decreto-legge 24 ottobre 1935, n. 1893](Norme%20temporanee%20per%20conciliare%20le%20esigenze%20della%20giustizia%20penale%20e%20dellamministrazione%20finanziaria%20del%20Regno%20con%20quelle%20militari%20durante%20le%20operazioni%20militari%20nellAfrica%20Orientale.%20035U1893.md), s'intendono pronunciate col beneficio della sospensione condizionale della pena ai sensi dell'art. 1.
 
 ## Art. 4.
 
@@ -30,13 +30,13 @@ Le disposizioni di cui agli articoli 1 e 3 si applicano anche ai decreti penali 
 
 ## Art. 6.
 
-Nei procedimenti concernenti le violazioni delle leggi finanziarie e dei regolamenti di servizio dell'Amministrazione delle finanze per le quali sia stabilita, come sanzione amministrativa, la pena pecuniaria, sospesi ai termini dell'[art. 8 del R. decreto-legge 24 ottobre 1935, n. 1893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-24;1893#art_8), e che debbono riprendere il loro corso per essere venute a cessare le ragioni della sospensione, la pena pecuniaria inflitta deve essere ridotta alla meta' e, in ogni caso, ad una somma non inferiore alle L. 50. 
+Nei procedimenti concernenti le violazioni delle leggi finanziarie e dei regolamenti di servizio dell'Amministrazione delle finanze per le quali sia stabilita, come sanzione amministrativa, la pena pecuniaria, sospesi ai termini dell'[art. 8 del R. decreto-legge 24 ottobre 1935, n. 1893](Norme%20temporanee%20per%20conciliare%20le%20esigenze%20della%20giustizia%20penale%20e%20dellamministrazione%20finanziaria%20del%20Regno%20con%20quelle%20militari%20durante%20le%20operazioni%20militari%20nellAfrica%20Orientale.%20035U1893.md), e che debbono riprendere il loro corso per essere venute a cessare le ragioni della sospensione, la pena pecuniaria inflitta deve essere ridotta alla meta' e, in ogni caso, ad una somma non inferiore alle L. 50. 
  
  Per le violazioni delle norme concernenti le tasse sugli affari, di cui all'art. 1 del decreto Ministeriale 1° settembre 1931, che detta norme per la determinazione della riduzione delle pene pecuniarie, la riduzione alla meta' va applicata sull'ammontare della pena che l'intendente di finanza stabilisce, tenute presenti le norme di cui allo stesso decreto Ministeriale 1° settembre 1931, fermo, in ogni caso, il limite minimo di L. 50.
 
 ## Art. 7.
 
-Le pene pecuniarie applicate dall'intendente di finanza, e non riscosse per effetto della sospensione di cui al [R. decreto-legge 24 ottobre 1935, n. 1893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-24;1893), sono ridotte alla meta', fermo, anche in questo caso, il limite minimo di L. 50.
+Le pene pecuniarie applicate dall'intendente di finanza, e non riscosse per effetto della sospensione di cui al [R. decreto-legge 24 ottobre 1935, n. 1893](Norme%20temporanee%20per%20conciliare%20le%20esigenze%20della%20giustizia%20penale%20e%20dellamministrazione%20finanziaria%20del%20Regno%20con%20quelle%20militari%20durante%20le%20operazioni%20militari%20nellAfrica%20Orientale.%20035U1893.md), sono ridotte alla meta', fermo, anche in questo caso, il limite minimo di L. 50.
 
 ## Art. 8.
 

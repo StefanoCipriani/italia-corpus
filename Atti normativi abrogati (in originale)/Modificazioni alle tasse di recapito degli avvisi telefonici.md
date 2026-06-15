@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 14 giugno 1925, n. 884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-06-14;884), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562);
+Visto il [R. decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -32,7 +32,7 @@ Sulla proposta dei Ministro Segretario di Stato per le poste e le telecomunicazi
 
 ## Art. 1.
 
-L'[art. 39 del R. decreto-legge 14 giugno 1925, n. 884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-06-14;884#art_39), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562), e' sostituito dal seguente: 
+L'[art. 39 del R. decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' sostituito dal seguente: 
  "Per l'invio di un semplice avviso telefonico destinato a prefissare una conversazione con un abbonato di una rete urbana, il richiedente dovra' pagare una tassa corrispondente ad un quarto della tariffa ordinaria. 
  Qualora la persona con cui egli desidera prefissare la conversazione non sia un abbonato della rete, l'avviso stesso potra' essere inviato per espresso al domicilio indicato. 
  Per il recapito di questo espresso il richiedente, oltre, la suddetta tassa, dovra' pagare il normale diritto fisso stabilito per il recapito della corrispondenza postale per espresso, quando il recapito avvenga nel raggio di distribuzione gratuita dei telegrammi. 

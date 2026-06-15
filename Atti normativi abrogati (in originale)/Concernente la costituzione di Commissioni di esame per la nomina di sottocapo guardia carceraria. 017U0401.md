@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduta la [legge 22 maggio 1915, n 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), con la quale sono stati conferiti al Governo del Re poteri straordinari durante la guerra; 
+ Veduta la [legge 22 maggio 1915, n 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), con la quale sono stati conferiti al Governo del Re poteri straordinari durante la guerra; 
  
  Visto il decreto del ministro, segretario di Stato per l'interno, in data 13 dicembre 1916, n. 44721, con cui sono stati indetti gli esami di idoneita' ai posti di sottocapo guardia delle carceri; 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 agosto 1928, n. 2106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-10;2106), relativo al passaggio delle Navi-scuola marinaretti e dell'Orfanotrofio marittimo Vittorio Emanuele III all'Opera nazionale «Balilla». 
+ E' convertito in legge il [R. decreto-legge 10 agosto 1928, n. 2106](Passaggio%20delle%20navi-scuola%20marinaretti%20e%20dellOrfanotrofio%20marittimo%20Vittorio%20Emanuele%20III%20allOpera%20nazionale%20Balilla%20e%20conseguenti%20provvedimenti.%20028U2106.md), relativo al passaggio delle Navi-scuola marinaretti e dell'Orfanotrofio marittimo Vittorio Emanuele III all'Opera nazionale «Balilla». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,9 +10,9 @@ vigente: true
 
 ## Art. 1.
 
-Il ministro per i trasporti marittimi e ferroviari ha facolta' di autorizzare le societa' di navigazione «Marittima italiana» con sede in Genova, «Sicilia» con sede in Roma e «Societa' Italiana di servizi marittimi» con sede in Roma, ad elevare al 200 % il supplemento di guerra sulle tariffe previste dall'art. 39 del capitolato allegato D, alla [legge 30 giugno 1912, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-30;685), pei trasporti tra scali del Regno e per quelli da e per le colonie italiane oltre Suez, da scalo a scalo delle colonie medesime e fra i porti del Mar Rosso compresi tra Aden e Suez. 
+Il ministro per i trasporti marittimi e ferroviari ha facolta' di autorizzare le societa' di navigazione «Marittima italiana» con sede in Genova, «Sicilia» con sede in Roma e «Societa' Italiana di servizi marittimi» con sede in Roma, ad elevare al 200 % il supplemento di guerra sulle tariffe previste dall'art. 39 del capitolato allegato D, alla [legge 30 giugno 1912, n. 685](Che%20porta%20disposizioni%20sui%20servizi%20marittimi%20sovvenzionati.%20012U0685.md), pei trasporti tra scali del Regno e per quelli da e per le colonie italiane oltre Suez, da scalo a scalo delle colonie medesime e fra i porti del Mar Rosso compresi tra Aden e Suez. 
  
- E' data pure facolta' al ministro per i trasporti marittimi e ferroviari di autorizzare le altre aziende esercenti i servizi marittimi sovvenzionati ad elevare al 200 % il supplemento di guerra sulle tariffe di trasporto previste dall'art. 37 del capitolato A approvato con [legge 13 giugno 1910, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-13;306).
+ E' data pure facolta' al ministro per i trasporti marittimi e ferroviari di autorizzare le altre aziende esercenti i servizi marittimi sovvenzionati ad elevare al 200 % il supplemento di guerra sulle tariffe di trasporto previste dall'art. 37 del capitolato A approvato con [legge 13 giugno 1910, n. 306](Per%20le%20convenzioni%20provvisorie%20e%20definitive%20pei%20servizi%20postali%20e%20commerciali%20marittimi%20ed%20altri%20provvedimenti%20a%20favore%20delle%20industrie%20marittime.%20010U0306.md).
 
 ## Art. 2.
 

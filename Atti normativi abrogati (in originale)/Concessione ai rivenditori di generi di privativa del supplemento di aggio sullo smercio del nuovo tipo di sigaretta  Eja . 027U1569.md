@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche ;
 
-Visto il [R. decreto 31 dicembre 1922, n. 1805](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-31;1805), e la [legge 9 giugno 1927, n. 917](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20settembre%201926%20n.%201641%20relativo%20alla%20variazione%20dellaggio%20di%20vendita%20di%20alcune%20qualita%20di%20tabacchi.%20027U0917.md);
+Visto il [R. decreto 31 dicembre 1922, n. 1805](Relativo%20al%20prezzo%20di%20vendita%20ai%20rivenditori%20dei%20tabacchi%20nazionali%20ed%20esteri%20e%20dei%20prodotti%20secondari.%20022U1805.md), e la [legge 9 giugno 1927, n. 917](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20settembre%201926%20n.%201641%20relativo%20alla%20variazione%20dellaggio%20di%20vendita%20di%20alcune%20qualita%20di%20tabacchi.%20027U0917.md);
 
 Ritenuta la necessita' assoluta ed urgente di ammettere il nuovo tipo di sigaretta « Eja! » tra i tabacchi fini nazionali agli effetti del supplemento di aggio ;
 

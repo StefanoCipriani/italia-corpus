@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 7 febbraio 1924, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-07;230), col quale fu eretta in Ente morale l'Associazione nazionale madri, vedove e famiglie dei caduti e dispersi in guerra, con sede centrale in Roma;
+Visto il [R. decreto 7 febbraio 1924, n. 230](Erezione%20in%20Ente%20morale%20dellAssociazione%20nazionale%20madri%20vedove%20e%20famiglie%20dei%20caduti%20e%20dispersi%20in%20guerra%20in%20Roma.%20024U0230.md), col quale fu eretta in Ente morale l'Associazione nazionale madri, vedove e famiglie dei caduti e dispersi in guerra, con sede centrale in Roma;
 
-Ritenuto che, in seguito alla costituzione del predetto Sodalizio, la preesistente Associazione nazionale tra le madri e le vedove dei caduti, con sede centrale in Milano, ed il Segretariato centrale di assistenza alle famiglie dei caduti, costituito in organismo autonomo per iniziativa dell'Associazione medesima ed eretto in Ente morale con [R. decreto 19 febbraio 1920, n. 414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-19;414), hanno cessato di esercitare ogni attivita' diretta al conseguimento dei fini di assistenza ai congiunti dei caduti in guerra;
+Ritenuto che, in seguito alla costituzione del predetto Sodalizio, la preesistente Associazione nazionale tra le madri e le vedove dei caduti, con sede centrale in Milano, ed il Segretariato centrale di assistenza alle famiglie dei caduti, costituito in organismo autonomo per iniziativa dell'Associazione medesima ed eretto in Ente morale con [R. decreto 19 febbraio 1920, n. 414](Erezione%20in%20ente%20morale.%20020U0414.md), hanno cessato di esercitare ogni attivita' diretta al conseguimento dei fini di assistenza ai congiunti dei caduti in guerra;
 
 Ritenuta la necessita' di assicurare al patrimonio residuo dell'Associazione nazionale tra le madri e le vedove dei caduti in quanto derivi da concessioni governative, ed al patrimonio residuo del Segretariato centrale di assistenza alle famiglie dei caduti, emanazione della Associazione medesima, il raggiungimento dei fini di assistenza suindicati;
 
-Ritenuto che lo scopo possa essere pienamente conseguito col disporre la devoluzione dei patrimoni anzidetti all'Associazione nazionale madri vedove e famiglie dei caduti e dispersi in guerra, alla quale esclusivamente e' riconosciuta, ai sensi del [R. decreto 19 aprile 1923, n. 850](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;850), la prerogativa di rappresentare e tutelare presso il Governo gli interessi morali e materiali dei congiunti dei caduti nell'ultima guerra nazionale;
+Ritenuto che lo scopo possa essere pienamente conseguito col disporre la devoluzione dei patrimoni anzidetti all'Associazione nazionale madri vedove e famiglie dei caduti e dispersi in guerra, alla quale esclusivamente e' riconosciuta, ai sensi del [R. decreto 19 aprile 1923, n. 850](Concernente%20la%20sistemazione%20dei%20servizi%20di%20vigilanza%20protezione%20ed%20assistenza%20dei%20reduci%20validi%20ed%20invalidi%20della%20guerra%20nazionale%20e%20delle%20famiglie%20dei%20caduti.%20023U0850.md), la prerogativa di rappresentare e tutelare presso il Governo gli interessi morali e materiali dei congiunti dei caduti nell'ultima guerra nazionale;
 
 Sentito il Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri; Abbiamo decretato e de
 
 ## Art. 1.
 
-E' revocato il riconoscimento giuridico conferito al Segretariato centrale di assistenza alle famiglie dei caduti col [R. decreto 19 febbraio 1920, n. 414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-19;414).
+E' revocato il riconoscimento giuridico conferito al Segretariato centrale di assistenza alle famiglie dei caduti col [R. decreto 19 febbraio 1920, n. 414](Erezione%20in%20ente%20morale.%20020U0414.md).
 
 ## Art. 2.
 

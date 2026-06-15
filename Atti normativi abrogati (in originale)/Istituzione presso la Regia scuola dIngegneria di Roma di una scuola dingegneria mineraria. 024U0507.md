@@ -40,7 +40,7 @@ La durata degli studi presso la scuola e' di tre anni.
 
 ## Art. 3.
 
-La laurea di ingegneria mineraria e' titolo di ammissione all'esame di Stato per l'abilitazione all'esercizio della professione di ingegnere, in aggiunta alle lauree a tal fine indicate nella tabella annessa al [R. decreto 31 dicembre 1923, n. 2909](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909).
+La laurea di ingegneria mineraria e' titolo di ammissione all'esame di Stato per l'abilitazione all'esercizio della professione di ingegnere, in aggiunta alle lauree a tal fine indicate nella tabella annessa al [R. decreto 31 dicembre 1923, n. 2909](Disposizioni%20concernenti%20gli%20esami%20di%20Stato.%20023U2909.md).
 
 ## Art. 4.
 
@@ -52,11 +52,11 @@ Alla scuola possono essere inscritti, quali studenti, coloro che abbiano compiut
 
 Sono assegnati alla scuola, per insegnamenti che le sono propri, tre posti di professore, che ne costituiscono il ruolo organico. 
  
- Tali posti vengono aggiunti a quelli previsti dai ruoli stabiliti dalla tabella D, annessa al [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102), e al numero complessivo dei posti di professore nelle Universita' e negli Istituii superiori di cui alla tabella n. 31 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395).
+ Tali posti vengono aggiunti a quelli previsti dai ruoli stabiliti dalla tabella D, annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e al numero complessivo dei posti di professore nelle Universita' e negli Istituii superiori di cui alla tabella n. 31 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 6.
 
-il capitolo dello stato di previsione della spesa per l'Economia nazionale, riguardante i concorsi fissi per le scuole minerarie, terra' aumentato a decorrere dal 1924-25 di L. 160.000, le quali saranno devolute alla Regia scuola d'ingegneria di Roma in aggiunta al contributo determinato a norma dell'[art. 161 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_161), per spese di personale e materiale relative al funzionamento della scuola di ingegneria mineraria. 
+il capitolo dello stato di previsione della spesa per l'Economia nazionale, riguardante i concorsi fissi per le scuole minerarie, terra' aumentato a decorrere dal 1924-25 di L. 160.000, le quali saranno devolute alla Regia scuola d'ingegneria di Roma in aggiunta al contributo determinato a norma dell'[art. 161 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), per spese di personale e materiale relative al funzionamento della scuola di ingegneria mineraria. 
  
  Detta somma per il 1924-25 verra' inscritta con decreto del Ministro per le finanze e con lo stesso decreto saranno apportate equivalenti riduzioni agli stanziamenti di altri capitoli di spesa dello stesso bilancio.
 
@@ -68,7 +68,7 @@ Le proposte riferentisi alle norme concernenti l'ordinamento didattico della scu
 
 ## Art. 8.
 
-Per provvedere ai posti di professore che costituiscono il ruolo organico della scuola di ingegneria mineraria il Ministro per la pubblica istruzione potra', con suo decreto, e anche indipendentemente dall'osservanza della disposizioni dell'[art. 20 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_20), trasferirvi, col loro consenso, e a decorrere dal 1° ottobre 1924, professori di ruolo appartenenti a Regie universita' o a Regi istituti superiori, per l'insegnamento delle materie di cui sono titolari o di altre materie.
+Per provvedere ai posti di professore che costituiscono il ruolo organico della scuola di ingegneria mineraria il Ministro per la pubblica istruzione potra', con suo decreto, e anche indipendentemente dall'osservanza della disposizioni dell'[art. 20 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), trasferirvi, col loro consenso, e a decorrere dal 1° ottobre 1924, professori di ruolo appartenenti a Regie universita' o a Regi istituti superiori, per l'insegnamento delle materie di cui sono titolari o di altre materie.
 
 ## Art. 9.
 

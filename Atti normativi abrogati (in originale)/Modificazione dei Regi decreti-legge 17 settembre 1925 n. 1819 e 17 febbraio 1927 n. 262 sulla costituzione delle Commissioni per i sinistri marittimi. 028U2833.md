@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- All'[art. 5 del R. decreto-legge 17 settembre 1925, n. 1819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-17;1819#art_5) (gia' sostituito con l'[art. 3 del R. decreto-legge 17 febbraio 1927, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;262#art_3)) e' aggiunto il seguente comma: 
+ All'[art. 5 del R. decreto-legge 17 settembre 1925, n. 1819](Costituzione%20delle%20Commissioni%20inquirenti%20per%20i%20sinistri%20e%20naufragi%20marittimi.%20025U1819.md) (gia' sostituito con l'[art. 3 del R. decreto-legge 17 febbraio 1927, n. 262](Modificazioni%20al%20R.%20decreto-legge%2017%20settembre%201925%20n.%201819%20sulla%20costituzione%20delle%20Commissioni%20dinchiesta%20per%20i%20naufragi%20e%20sinistri%20marittimi.%20027U0262.md)) e' aggiunto il seguente comma: 
  
  «Qualora il sinistro derivi da collisione o comunque sia in relazione con la manovra di una nave della marina militare, il Ministro per le comunicazioni, d'accordo con quello per la marina, provvedera', con suo decreto, a sostituire, con altri ufficiali di grado superiore, i membri, di cui ai numeri 1°, 2°, 3° dell'art. 4 del presente decreto, quando essi abbiano grado uguale o inferiore a quello che riveste l'ufficiale in comando della nave militare». 
  

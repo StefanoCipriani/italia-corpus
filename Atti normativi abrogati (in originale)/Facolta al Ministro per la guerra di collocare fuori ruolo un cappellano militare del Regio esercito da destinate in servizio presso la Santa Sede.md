@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-E' data facolta' al Ministro per la guerra di collocare fuori ruolo, con le norme di cui al [R. Decreto 30 dicembre 1923, n. 2958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2958), e successive modificazioni, un cappellano militare del Regio esercito in servizio permanente assimilato di rango al grado di tenente oppure di capitano, per essere destinato in servizio presso la Santa Sede.
+E' data facolta' al Ministro per la guerra di collocare fuori ruolo, con le norme di cui al [R. Decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), e successive modificazioni, un cappellano militare del Regio esercito in servizio permanente assimilato di rango al grado di tenente oppure di capitano, per essere destinato in servizio presso la Santa Sede.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
 

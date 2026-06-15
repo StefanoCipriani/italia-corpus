@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il decreto 30 gennaio 1941, n. 12, sull'ordinamento giudiziario;
 
-Vista la [legge 28 gennaio 1943, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-28;33);
+Vista la [legge 28 gennaio 1943, n. 33](Sospensione%20dei%20collocamenti%20a%20riposo%20dufficio%20del%20personale%20giudiziario.%20043U0033.md);
 
 Visto il [decreto legislativo 9 luglio 1944, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-07-09;320);
 
@@ -27,7 +27,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 I magistrati trattenuti o richiamati in servizio alla data del 31 dicembre 1947 possono essere mantenuti in funzione fino al compimento del 75° anno di eta', e non oltre il 31 dicembre 1948.
  Fino a quest'ultima data possono essere trattenuti in servizio anche i magistrati che successivamente al 31 dicembre 1947 compiono i limiti di eta' stabiliti per il collocamento a riposo.
  I magistrati, mantenuti in funzione in virtu' del primo e del secondo comma, del presente articolo, sono considerati in ogni caso in soprannumero al ruolo della magistratura ed alle piante organiche degli uffici giudiziari, e, se di grado superiore al quarto, sono collocati fuori ruolo ai sensi dell'art. 210 dell'ordinamento giudiziario, anche oltre il limite numerico stabilito nel secondo comma di detto articolo.
- La loro posizione continua ad essere regolata, ad ogni effetto, rispettivamente dalla [legge 28 gennaio 1943, numero 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-28;33), e dal [decreto legislativo 9 luglio 1944, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-07-09;320), ferma in ogni caso la facolta' del Ministro per la grazia e giustizia di collocarli a riposo o dimetterli dal servizio in qualunque tempo.
+ La loro posizione continua ad essere regolata, ad ogni effetto, rispettivamente dalla [legge 28 gennaio 1943, numero 33](Sospensione%20dei%20collocamenti%20a%20riposo%20dufficio%20del%20personale%20giudiziario.%20043U0033.md), e dal [decreto legislativo 9 luglio 1944, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-07-09;320), ferma in ogni caso la facolta' del Ministro per la grazia e giustizia di collocarli a riposo o dimetterli dal servizio in qualunque tempo.
 
 ## Art. 2.
 

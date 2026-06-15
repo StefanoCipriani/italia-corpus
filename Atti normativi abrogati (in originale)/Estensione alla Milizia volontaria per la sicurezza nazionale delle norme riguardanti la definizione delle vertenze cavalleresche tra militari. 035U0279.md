@@ -20,7 +20,7 @@ Visto il [R. decreto 16 gennaio 1930, n. 137](Estensione%20alla%20Regia%20guardi
 
 Visto il [R. decreto 6 marzo 1930, n. 553](Modificazioni%20al%20R.%20decreto%2011%20luglio%201929%20n.%201250%20recante%20norme%20per%20la%20definizione%20delle%20vertenze%20cavalleresche%20tra%20militari.%20030U0553.md), che apporta modificazioni al predetto [R. decreto 11 luglio 1929, n. 1250](Norme%20per%20la%20definizione%20delle%20vertenze%20cavalleresche%20tra%20militari.%20029U1250.md);
 
-Visto il [R. decreto-legge 14 gennaio 1923, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-01-14;31), che istituisce la Milizia volontaria per la sicurezza nazionale, convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge 14 gennaio 1923, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-01-14;31), che istituisce la Milizia volontaria per la sicurezza nazionale, convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto il [R. decreto-legge 4 agosto 1924, n. 1292](Approvazione%20del%20nuovo%20ordinamento%20della%20Milizia%20Volontaria%20per%20la%20Sicurezza%20Nazionale.%20024U1292.md), relativo al nuovo ordinamento della Milizia volontaria per la sicurezza nazionale, convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 

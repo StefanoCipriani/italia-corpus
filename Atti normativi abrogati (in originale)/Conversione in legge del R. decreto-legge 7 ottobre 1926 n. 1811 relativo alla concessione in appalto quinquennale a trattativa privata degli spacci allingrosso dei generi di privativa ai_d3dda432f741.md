@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 ottobre 1926, n. 1811](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-07;1811), concernente la concessione dell'appalto degli spacci all'ingrosso dei generi di privativa, per privata trattativa e alle condizioni nel decreto stesso stabilite, ai reggenti in carica, che abbiano gestito, con piena soddisfazione dell'Amministrazione e per almeno complessivi cinque anni al 31 dicembre 1926, uffici di vendita dei generi di privativa. 
+ E' convertito in legge il [R. decreto-legge 7 ottobre 1926, n. 1811](Concessione%20a%20trattativa%20privata%20degli%20appalti%20per%20spacci%20allingrosso%20dei%20generi%20di%20privativa%20a%20favore%20dei%20reggenti%20civili%20e%20militari.%20026U1811.md), concernente la concessione dell'appalto degli spacci all'ingrosso dei generi di privativa, per privata trattativa e alle condizioni nel decreto stesso stabilite, ai reggenti in carica, che abbiano gestito, con piena soddisfazione dell'Amministrazione e per almeno complessivi cinque anni al 31 dicembre 1926, uffici di vendita dei generi di privativa. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

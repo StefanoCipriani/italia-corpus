@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 giugno 1928, n. 1494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-14;1494), che reca disposizioni per lo sgombero delle navi inoperose dagli specchi d'acqua portuali. 
+ E' convertito in legge il [R. decreto-legge 14 giugno 1928, n. 1494](Disposizioni%20per%20lo%20sgombero%20delle%20navi%20inoperose%20dagli%20specchi%20dacqua%20portuali.%20028U1494.md), che reca disposizioni per lo sgombero delle navi inoperose dagli specchi d'acqua portuali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

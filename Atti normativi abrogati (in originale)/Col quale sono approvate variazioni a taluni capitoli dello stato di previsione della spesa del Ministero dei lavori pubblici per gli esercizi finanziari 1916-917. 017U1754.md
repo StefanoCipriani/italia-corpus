@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 4 giugno 1893, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-04;260); 
+ Vista la [legge 4 giugno 1893, n. 260](Che%20modifica%20la%20legge%2011%20luglio%201889%20sulla%20contabilita%20generale%20dello%20Stato.%20093U0260.md); 
  
- Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738); 
+ Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md); 
  
  Udito il Consiglio dei ministri; 
  

@@ -20,9 +20,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto il [regio decreto 7 novembre 1942, n. 1564](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-11-07;1564); 
  Visto il [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md); 
  Visto l'[art. 12 della legge 11 maggio 1971, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-05-11;390#art_12); 
- Visti gli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_12) e [28 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_28); 
- Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;422); 
- Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748); 
+ Visti gli [articoli 12](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e [28 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md); 
+ Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 422](../DPR/Adeguamento%20degli%20originari%20limiti%20di%20somma%20previsti%20nella%20legge%20e%20nel%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20nel%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20Corte%20dei%20conti%20e%20_978eccc3e118.md); 
+ Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md); 
  Udito il parere del Consiglio di Stato; 
  Sentito il Consiglio dei Ministri; 
  Sulla proposta del Ministro per la grazia e giustizia di concerto con il Ministro per il tesoro; 

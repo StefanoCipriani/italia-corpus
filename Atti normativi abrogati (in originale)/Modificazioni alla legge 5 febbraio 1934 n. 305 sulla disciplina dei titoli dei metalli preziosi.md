@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Le disposizioni della [legge 5 febbraio 1934, n. 305](Disciplina%20dei%20titoli%20dei%20metalli%20preziosi.%20034U0305.md), del [regio decreto-legge 27 dicembre 1934, n. 2393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-27;2393) e successive modificazioni, che si riferiscono al platino ed agli oggetti di platino, sono estese al palladio ed agli oggetti di palladio.
+Le disposizioni della [legge 5 febbraio 1934, n. 305](Disciplina%20dei%20titoli%20dei%20metalli%20preziosi.%20034U0305.md), del [regio decreto-legge 27 dicembre 1934, n. 2393](Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%205%20febbraio%201934%20n.%20305%20che%20disciplina%20i%20titoli%20dei%20metalli%20preziosi.%20034U2393.md) e successive modificazioni, che si riferiscono al platino ed agli oggetti di platino, sono estese al palladio ed agli oggetti di palladio.
  Al titolo impresso sul palladio e sugli oggetti di palladio devono seguire le lettere Pd.
 
 ## Art. 2.

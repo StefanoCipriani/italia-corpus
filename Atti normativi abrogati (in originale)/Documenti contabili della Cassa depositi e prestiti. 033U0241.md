@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Viste le disposizioni contenute nel testo unico approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), e nei regolamenti approvati con [decreti Luogotenenziali 27 agosto 1916, n. 1151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-27;1151), e [23 marzo 1919, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-23;1058), in tema di situazioni contabili e di rendiconti della Cassa depositi e prestiti;
+Viste le disposizioni contenute nel testo unico approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), e nei regolamenti approvati con [decreti Luogotenenziali 27 agosto 1916, n. 1151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-27;1151), e [23 marzo 1919, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-23;1058), in tema di situazioni contabili e di rendiconti della Cassa depositi e prestiti;
 
 Attesa la necessita' ed urgenza di stabilire la pubblicazione annuale di dette situazioni dopo deliberati i rendiconti e di disciplinare con unica disposizione la materia di tali situazioni e rendiconti;
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' stabilito nella misura del 10 per cento l'abbuono da concedersi a termini del testo unico delle leggi sugli spiriti approvato con [R. decreto 3 dicembre 1905, n. 651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-12-03;651), allo spirito di prima distillazione ottenuto dall'uva secca nelle fabbriche fornite di misuratore meccanico, per cali, dispersioni ed altre passivita'. 
+ E' stabilito nella misura del 10 per cento l'abbuono da concedersi a termini del testo unico delle leggi sugli spiriti approvato con [R. decreto 3 dicembre 1905, n. 651](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sugli%20spiriti%20005U0651.md), allo spirito di prima distillazione ottenuto dall'uva secca nelle fabbriche fornite di misuratore meccanico, per cali, dispersioni ed altre passivita'. 
  
  La presente legge entrera' in vigore il giorno susseguente a quello della sua pubblicazione. 
  

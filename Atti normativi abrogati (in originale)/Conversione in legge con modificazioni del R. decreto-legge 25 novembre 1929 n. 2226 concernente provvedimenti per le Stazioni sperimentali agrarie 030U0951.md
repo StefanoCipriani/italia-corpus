@@ -22,9 +22,9 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 novembre 1929, n. 2226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-25;2226), concernente provvedimenti per le Stazioni sperimentali agrarie, con le seguenti modificazioni e aggiunte: 
+ E' convertito in legge il [R. decreto-legge 25 novembre 1929, n. 2226](Provvedimenti%20per%20le%20stazioni%20sperimentali%20agrarie.%20029U2226.md), concernente provvedimenti per le Stazioni sperimentali agrarie, con le seguenti modificazioni e aggiunte: 
  
- «Art. 2. - Dopo l'entrata in vigore del presente decreto non potranno, per il periodo di dieci anni, essere create o sussidiate dallo Stato nuove Stazioni sperimentali agrarie, salva l'applicazione del [primo comma dell'art. 1 del Regio decreto 30 dicembre 1923, n. 3203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3203#art_1-com1), intendendosi sostituito al parere della competente Sezione del Consiglio superiore per l'istruzione agraria, industriale e commerciale, il parere del Comitato per la sperimentazione agraria». 
+ «Art. 2. - Dopo l'entrata in vigore del presente decreto non potranno, per il periodo di dieci anni, essere create o sussidiate dallo Stato nuove Stazioni sperimentali agrarie, salva l'applicazione del [primo comma dell'art. 1 del Regio decreto 30 dicembre 1923, n. 3203](Provvedimenti%20per%20le%20stazioni%20e%20gli%20istituti%20sperimentali%20agrari%20e%20per%20la%20creazione%20di%20un%20istituto%20di%20economia%20e%20statistica%20agraria.%20023U3203.md), intendendosi sostituito al parere della competente Sezione del Consiglio superiore per l'istruzione agraria, industriale e commerciale, il parere del Comitato per la sperimentazione agraria». 
  
  «Art. 13 (1 comma). - Il Comitato amministrativo puo' essere sciolto con decreto Reale promosso dal Ministro per l'agricoltura e le foreste, sentito il Comitato per la sperimentazione agraria, per gravi motivi, oppure quando, richiamato all'osservanza di obblighi derivanti da disposizioni di carattere legislativo o regolamentare, persista a violarli, ovvero pregiudichi gli interessi della Stazione o quando la insufficienza dell'azione del Comitato o altre condizioni determinino un irregolare funzionamento della istituzione». 
  
@@ -40,7 +40,7 @@ VITTORIO EMANUELE III
  
  «Art. 51-bis. - Sino a quando, per ciascuna Stazione Regia o consorziale, non sara' stato costituito il Comitato amministrativo, in base alle disposizioni del presente decreto, rimane in carica il Comitato attualmente in funzione». 
  
- «Art. 51-ter. - Per l'acquisto di terreni e per le relative opere di miglioria, nonche' per l'acquisto e la costruzione dei fabbricati occorrenti per lo svolgimento della loro attivita', le Stazioni sperimentali agrarie potranno contrarre mutui con gli Istituti speciali di credito agrario, indicati nell'ultimo capoverso dell'[art. 13 del R. decreto-legge 29 luglio 1927, n. 1509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509#art_13). 
+ «Art. 51-ter. - Per l'acquisto di terreni e per le relative opere di miglioria, nonche' per l'acquisto e la costruzione dei fabbricati occorrenti per lo svolgimento della loro attivita', le Stazioni sperimentali agrarie potranno contrarre mutui con gli Istituti speciali di credito agrario, indicati nell'ultimo capoverso dell'[art. 13 del R. decreto-legge 29 luglio 1927, n. 1509](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md). 
  
  «A garanzia del pagamento delle rate di ammortamento dei mutui suddetti, le Stazioni devono cedere all'istituto mutuante, con l'approvazione del Ministero dell'agricoltura e delle foreste, una parte dell'importo del contributo annuo stanziato per il loro mantenimento, nel bilancio del Ministero». 
  

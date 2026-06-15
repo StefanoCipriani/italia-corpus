@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-In deroga al disposto del [1° comma dell'art. 12 del R. decreto 23 febbraio 1942, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-02-23;369#art_12-com1), durante l'attuale stato di guerra le funzioni di direttore generale dell'Ente Acquedotti Siciliani possono essere conferite anche a funzionari dipendenti da Amministrazione dello Stato diversa da quella dei lavori pubblici, anche se ad ordinamento autonomo, senza limitazione di grado. 
+In deroga al disposto del [1° comma dell'art. 12 del R. decreto 23 febbraio 1942, n. 369](Norme%20per%20la%20esecuzione%20della%20legge%2019%20gennaio%201942-XX%20n.%2024%20riguardante%20la%20istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0369.md), durante l'attuale stato di guerra le funzioni di direttore generale dell'Ente Acquedotti Siciliani possono essere conferite anche a funzionari dipendenti da Amministrazione dello Stato diversa da quella dei lavori pubblici, anche se ad ordinamento autonomo, senza limitazione di grado. 
  L'incaricato potra' continuare ad esercitare le funzioni conferitegli anche dopo la cessazione dell'attuale stato di guerra.
 
 ## Art. 2.

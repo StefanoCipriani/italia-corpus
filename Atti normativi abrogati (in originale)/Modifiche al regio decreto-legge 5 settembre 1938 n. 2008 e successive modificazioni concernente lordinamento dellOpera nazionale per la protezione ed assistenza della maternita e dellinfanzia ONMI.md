@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'[articolo 2 del regio decreto-legge 5 settembre 1938, n. 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;2008#art_2), convertito con modificazioni nella [legge 22 maggio 1939, n. 961](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20settembre%201938-XVI%20n.%202008%20recante%20nuove%20disposizioni%20sullordinamento%20dellOpera%20nazionale%20per%20la%20protezione%20della%20maternita%20e_9dc36c093449.md), e' sostituito dal seguente:
+L'[articolo 2 del regio decreto-legge 5 settembre 1938, n. 2008](Nuove%20disposizioni%20sullordinamento%20dellOpera%20nazionale%20per%20la%20protezione%20della%20maternita%20e%20dellinfanzia.%20038U2008.md), convertito con modificazioni nella [legge 22 maggio 1939, n. 961](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20settembre%201938-XVI%20n.%202008%20recante%20nuove%20disposizioni%20sullordinamento%20dellOpera%20nazionale%20per%20la%20protezione%20della%20maternita%20e_9dc36c093449.md), e' sostituito dal seguente:
  "L'Opera nazionale maternita' e infanzia e' amministrata da un Consiglio centrale composto dal presidente e dai seguenti membri:
  a) il direttore generale dei servizi di medicina sociale del Ministero della sanita';
  b) il direttore generale dell'assistenza pubblica del Ministero dell'interno;
@@ -40,7 +40,7 @@ Dura in carica 5 anni e puo' essere confermato per altri 5 anni.
 
 ## Art. 2.
 
-Il [secondo comma dell'articolo 3 del regio decreto-legge 5 settembre 1938, n. 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;2008#art_3-com2), convertito con modificazioni nella [legge 22 maggio 1939, n. 961](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20settembre%201938-XVI%20n.%202008%20recante%20nuove%20disposizioni%20sullordinamento%20dellOpera%20nazionale%20per%20la%20protezione%20della%20maternita%20e_9dc36c093449.md), e' sostituito dai seguenti:
+Il [secondo comma dell'articolo 3 del regio decreto-legge 5 settembre 1938, n. 2008](Nuove%20disposizioni%20sullordinamento%20dellOpera%20nazionale%20per%20la%20protezione%20della%20maternita%20e%20dellinfanzia.%20038U2008.md), convertito con modificazioni nella [legge 22 maggio 1939, n. 961](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20settembre%201938-XVI%20n.%202008%20recante%20nuove%20disposizioni%20sullordinamento%20dellOpera%20nazionale%20per%20la%20protezione%20della%20maternita%20e_9dc36c093449.md), e' sostituito dai seguenti:
  In ogni Provincia i compiti dell'Opera sono attuati da un Comitato provinciale che ha sede nel comune capoluogo, ed e' cosi' composto:
  1) dal presidente dell'Amministrazione provinciale o da un consigliere da lui delegato che lo presiede;
  2) da tre consiglieri provinciali di cui uno di minoranza, designati dal Consiglio provinciale;
@@ -59,7 +59,7 @@ Il [secondo comma dell'articolo 3 del regio decreto-legge 5 settembre 1938, n. 2
 
 ## Art. 3.
 
-L'[articolo 4 del regio decreto-legge 5 settembre 1938, n. 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;2008#art_4), convertito con modificazioni nella [legge 22 maggio 1939, n. 961](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20settembre%201938-XVI%20n.%202008%20recante%20nuove%20disposizioni%20sullordinamento%20dellOpera%20nazionale%20per%20la%20protezione%20della%20maternita%20e_9dc36c093449.md), e' sostituito dal seguente:
+L'[articolo 4 del regio decreto-legge 5 settembre 1938, n. 2008](Nuove%20disposizioni%20sullordinamento%20dellOpera%20nazionale%20per%20la%20protezione%20della%20maternita%20e%20dellinfanzia.%20038U2008.md), convertito con modificazioni nella [legge 22 maggio 1939, n. 961](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20settembre%201938-XVI%20n.%202008%20recante%20nuove%20disposizioni%20sullordinamento%20dellOpera%20nazionale%20per%20la%20protezione%20della%20maternita%20e_9dc36c093449.md), e' sostituito dal seguente:
  "In ogni Comune la Federazione provinciale esplica i propri compiti a mezzo di un Comitato comunale cosi' composto:
  1) dal sindaco o da un consigliere comunale, da lui delegato, presidente;
  2) da tre consiglieri comunali, di cui uno di minoranza, designati dal Consiglio comunale;

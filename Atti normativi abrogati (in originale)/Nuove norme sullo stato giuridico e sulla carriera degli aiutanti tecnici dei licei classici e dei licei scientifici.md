@@ -47,7 +47,7 @@ Alla copertura della maggiore spesa di lire 46 milioni si provvede con i normali
 ### Art. 6.
 
 Gli aiutanti tecnici di ruolo, in servizio alla data di entrata in vigore della presente legge, vengono inquadrati nella carriera esecutiva con il riconoscimento del servizio prestato nel ruolo di provenienza, previa valutazione del servizio precedentemente prestato, da effettuarsi in base ad appositi rapporti compilati dal capo di istituto e dal direttore del gabinetto, agli atti ed alle informazioni esistenti nei fascicoli personali ed agli altri elementi di giudizio acquisiti dall'Amministrazione. 
- Gli aiutanti tecnici non ritenuti idonei ad essere inquadrati nella carriera esecutiva restano nell'attuale ruolo che viene trasformato in ruolo transitorio con lo sviluppo di carriera previsto dal [decreto legislativo 7 maggio 1948, n. 1221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1221).
+ Gli aiutanti tecnici non ritenuti idonei ad essere inquadrati nella carriera esecutiva restano nell'attuale ruolo che viene trasformato in ruolo transitorio con lo sviluppo di carriera previsto dal [decreto legislativo 7 maggio 1948, n. 1221](../Decreti%20Legislativi/Norme%20concernenti%20gli%20aiutanti%20tecnici%20e%20il%20personale%20di%20servizio%20degli%20istituti%20di%20istruzione%20media%20classica%20scientifica%20e%20magistrale.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

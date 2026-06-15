@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
- Visto l'[art. 6, primo comma, della legge 3 marzo 1971, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-03;125#art_6-com1), concernente la biodegradabilita' dei detergenti sintetici;
+ Visto l'[art. 6, primo comma, della legge 3 marzo 1971, n. 125](Biodegradabilita%20dei%20detergenti%20sintetici.md), concernente la biodegradabilita' dei detergenti sintetici;
  Sentito il Consiglio superiore di sanita';
  Udito il parere del Consiglio di Stato;
  Sentito il Consiglio dei Ministri;
@@ -21,7 +21,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- E' approvato l'unito regolamento per l'esecuzione della [legge 3 marzo 1971, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-03;125), concernente la biodegradabilita' dei detergenti sintetici.
+ E' approvato l'unito regolamento per l'esecuzione della [legge 3 marzo 1971, n. 125](Biodegradabilita%20dei%20detergenti%20sintetici.md), concernente la biodegradabilita' dei detergenti sintetici.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

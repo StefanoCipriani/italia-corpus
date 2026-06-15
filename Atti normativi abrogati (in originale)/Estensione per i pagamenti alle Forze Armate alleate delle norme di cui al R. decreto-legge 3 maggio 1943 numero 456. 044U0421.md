@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a noi delegata;
 
-Visti i [Regi decreti-legge 30 ottobre 1943 n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e [29 maggio 1944, n.141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visti i [Regi decreti-legge 30 ottobre 1943 n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e [29 maggio 1944, n.141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro Segretario di Stato per il tesoro; abbiamo sanzionat
 
 I pagamenti delle indennita' relative agli immobili requisiti dalle forze armate alleate; quelli per il risarcimento dei danni occasionati dalle Forze Armate stesse, nonche' i pagamenti di forniture, di servizi resi, e di spese per accantonamento di truppe appartenenti alle Forze Armate medesime possono effettuarsi mediante ordini di accreditamento. 
  
- Ai pagamenti suddetti sono estese le norme di cui al [R. decreto-legge 3 maggio 1943, n. 456](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-03;456), relative ai pagamenti delle indennita' per risarcimento dei danni di guerra.
+ Ai pagamenti suddetti sono estese le norme di cui al [R. decreto-legge 3 maggio 1943, n. 456](Deroga%20allart.%2056%20del%20Regio%20decreto%2018%20novembre%201923%20n.%202440%20concernente%20nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato%20per%20il%20pagamento%20de_7c24fab5c8d4.md), relative ai pagamenti delle indennita' per risarcimento dei danni di guerra.
 
 ## Art. 2.
 

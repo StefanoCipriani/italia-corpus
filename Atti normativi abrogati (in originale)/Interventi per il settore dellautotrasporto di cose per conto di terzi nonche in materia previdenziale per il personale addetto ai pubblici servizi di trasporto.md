@@ -29,7 +29,7 @@ Per il secondo semestre dell'anno 1994 e' concesso un credito d'imposta di lire 
 
 2.
 
-Per gli autotrasportatori italiani di merci per conto di terzi, iscritti all'albo di cui alla [legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298), e' adottato, ai sensi dell'[articolo 13, comma 2, del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_13-com2), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165), apposito decreto del Ministro dei trasporti e della navigazione, di concerto con il Ministro delle finanze, allo scopo di consentire la concessione di un credito di imposta da valere ai fini del pagamento dell'imposta sul reddito delle persone fisiche, dell'imposta sul reddito delle persone giuridiche, dell'imposta locale sui redditi e dell'imposta sul valore aggiunto, nonche' in sede di versamento delle ritenute alla fonte operate dai sostituti di imposta sulle retribuzioni dei dipendenti e sui compensi da lavoro autonomo.
+Per gli autotrasportatori italiani di merci per conto di terzi, iscritti all'albo di cui alla [legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298), e' adottato, ai sensi dell'[articolo 13, comma 2, del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_13-com2), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20aprile%201990%20n.%2090%20recante%20disposizioni%20in%20materia%20di%20determinazione%20del%20reddito%20ai%20fini%20delle%20imposte%20sui%20redditi%20di%20rimborsi%20d_30659e7e2a97.md), apposito decreto del Ministro dei trasporti e della navigazione, di concerto con il Ministro delle finanze, allo scopo di consentire la concessione di un credito di imposta da valere ai fini del pagamento dell'imposta sul reddito delle persone fisiche, dell'imposta sul reddito delle persone giuridiche, dell'imposta locale sui redditi e dell'imposta sul valore aggiunto, nonche' in sede di versamento delle ritenute alla fonte operate dai sostituti di imposta sulle retribuzioni dei dipendenti e sui compensi da lavoro autonomo.
 
 3.
 
@@ -52,7 +52,7 @@ Sono escluse dal campo di applicazione della [legge 8 agosto 1991, n. 264](https
 
 2.
 
-E' differito all'11 giugno 1995 il termine previsto dall'[articolo 16, comma 1, del decreto del Presidente della Repubblica 19 aprile 1994, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575#art_16-com1), che ha emanato il regolamento recante la disciplina dei procedimenti per il rilascio e la duplicazione della patente di guida di veicoli.
+E' differito all'11 giugno 1995 il termine previsto dall'[articolo 16, comma 1, del decreto del Presidente della Repubblica 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), che ha emanato il regolamento recante la disciplina dei procedimenti per il rilascio e la duplicazione della patente di guida di veicoli.
 
 ## Art. 3. — Proroga della legge 5 febbraio 1992, n. 68
 
@@ -69,7 +69,7 @@ Al maggior onere derivante dall'applicazione del presente articolo, pari a compl
 
 1.
 
-A decorrere dal 1 gennaio 1995 il Fondo per la previdenza del personale addetto ai pubblici servizi di trasporto di cui all'[articolo 8 del regio decreto-legge 19 ottobre 1923, n. 2311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-10-19;2311#art_8), convertito dalla [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' soppresso.
+A decorrere dal 1 gennaio 1995 il Fondo per la previdenza del personale addetto ai pubblici servizi di trasporto di cui all'[articolo 8 del regio decreto-legge 19 ottobre 1923, n. 2311](Norme%20per%20lequo%20trattamento%20del%20personale%20addetto%20alle%20ferrovie%20tramvie%20e%20linee%20di%20navigazione%20interna%20esercitate%20dalla%20industria%20privata%20da%20Provincie%20o%20da%20Comuni.%20023U2311.md), convertito dalla [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' soppresso.
 
 2.
 
@@ -112,7 +112,7 @@ Per i soggetti di cui all'articolo 5 l'importo della pensione e' determinato dal
 
 2.
 
-Per i lavoratori di cui all'articolo 4, comma 2, lettere a) e b), facenti parte del personale viaggiante, si applicano per la pensione di vecchiaia i limiti di attivita' previsti dall'[articolo 5, comma 2, del decreto legislativo 30 dicembre 1992, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_5-com2).
+Per i lavoratori di cui all'articolo 4, comma 2, lettere a) e b), facenti parte del personale viaggiante, si applicano per la pensione di vecchiaia i limiti di attivita' previsti dall'[articolo 5, comma 2, del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 3.
 

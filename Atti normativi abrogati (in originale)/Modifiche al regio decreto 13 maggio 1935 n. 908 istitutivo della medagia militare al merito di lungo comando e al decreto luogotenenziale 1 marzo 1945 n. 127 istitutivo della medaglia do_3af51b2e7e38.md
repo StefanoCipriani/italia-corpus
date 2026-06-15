@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 13 maggio 1935, n 908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-05-13;908), che istituisce per gli ufficiali dell'Esercito la medaglia al merito di lungo comando;
+Visto il [regio decreto 13 maggio 1935, n 908](Istituzione%20della%20Medaglia%20militare%20al%20merito%20di%20lungo%20comando.%20035U0908.md), che istituisce per gli ufficiali dell'Esercito la medaglia al merito di lungo comando;
 
 Visto il [decreto luogotenenziale 1 marzo 1945, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;127), che istituisce la medaglia d'onore per lunga navigazione;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la difesa di concerto con i Ministri per le fina
 
 ## Art. 1.
 
-I periodi minimi di comando di reparto previsti dall'[art. 3 del regio decreto 13 maggio 1935, n. 908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-05-13;908#art_3), per il conferimento agli ufficiali dell'Esercito della "Medaglia militare al merito di lungo comando" sono cosi' modificati: 
+I periodi minimi di comando di reparto previsti dall'[art. 3 del regio decreto 13 maggio 1935, n. 908](Istituzione%20della%20Medaglia%20militare%20al%20merito%20di%20lungo%20comando.%20035U0908.md), per il conferimento agli ufficiali dell'Esercito della "Medaglia militare al merito di lungo comando" sono cosi' modificati: 
  
 medaglia d'oro. . . . . . . . . . . . . . . . . . . . . . . . 20 anni medaglia d'argento. . . . . . . . . . . . . . . . . . . . . . 15 anni medaglia di bronzo. . . . . . . . . . . . . . . . . . . . . . 10 anni
 

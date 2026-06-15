@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18), e successive modifiche;
+Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modifiche;
 
-Visto il testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), e successive modifiche;
+Visto il testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modifiche;
 
-Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686);
+Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -30,9 +30,9 @@ Per l'ammissione al concorso per la carriera diplomatica sono richiesti i seguen
  1) cittadinanza italiana, esclusa ogni equiparazione;
  2) eta' non superiore ai trent'anni e non inferiore ai ventun anni;
  3) una delle seguenti lauree: in giurisprudenza, in scienze politiche, in economia e commercio, in scienze economiche e bancarie, in scienze politiche per l'Oriente o in scienze politiche per l'Europa orientale, in scienze statistiche, demografiche e attuariali. Non sono ammessi altri titoli di studio;
- 4) buona condotta, che sara' accertata d'ufficio ai sensi dell'[art. 2 del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686#art_2);
+ 4) buona condotta, che sara' accertata d'ufficio ai sensi dell'[art. 2 del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
  5) costituzione fisica che permetta di affrontare qualsiasi clima ed assenza di imperfezioni fisiche che siano di impedimento o di pregiudizio all'esercizio delle funzioni proprie della carriera.
- Si applicano le disposizioni del [quinto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_2-com5) e [settimo comma dell'art. 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_2-com7).
+ Si applicano le disposizioni del [quinto](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [settimo comma dell'art. 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 2. — (Domanda di ammissione al concorso)
 
@@ -119,16 +119,16 @@ quindici giorni prima, il luogo; la data di inizio delle prove scritte e la mate
 
 ## Art. 10. — (Adempimenti particolari della commissione relativamente e alle prove scritte)
 
-La preparazione e la scelta dei temi per le prove scritte avviene nel modo stabilito nell'[articolo 5 del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686#art_5).
+La preparazione e la scelta dei temi per le prove scritte avviene nel modo stabilito nell'[articolo 5 del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md).
 
 ## Art. 11. — (Graduatoria)
 
-La graduatoria viene formata dalla commissione giudicatrice secondo l'ordine derivante dal punteggio complessivo conseguito da ciascun candidato, previa l'aggiunta dei centesimi eventualmente attribuiti ai sensi degli articoli 4, 7 e 8. A parita' di punteggio vengono applicati l'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_5), e le altre vigenti disposizioni in materia di preferenze.
+La graduatoria viene formata dalla commissione giudicatrice secondo l'ordine derivante dal punteggio complessivo conseguito da ciascun candidato, previa l'aggiunta dei centesimi eventualmente attribuiti ai sensi degli articoli 4, 7 e 8. A parita' di punteggio vengono applicati l'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e le altre vigenti disposizioni in materia di preferenze.
  Il Ministro per gli affari esteri, riconosciuta la regolarita' del procedimento del concorso, approva con proprio decreto, sotto condizione dell'accertamento dei requisiti per l'ammissione in carriera, la graduatoria di merito dei concorrenti risultati idonei nelle prove di esame.
 
 ## Art. 12. — (Norme da applicare)
 
-Ad integrazione della specifica disciplina dettata dagli articoli precedenti, si applicano le disposizioni dei [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686), e successive modificazioni.
+Ad integrazione della specifica disciplina dettata dagli articoli precedenti, si applicano le disposizioni dei [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), e successive modificazioni.
 
 ## Art. 13. — (Norme transitorie)
 

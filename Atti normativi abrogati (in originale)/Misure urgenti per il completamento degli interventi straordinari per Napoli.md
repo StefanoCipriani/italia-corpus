@@ -28,7 +28,7 @@ I termini del 28 febbraio 1987 e del 1 marzo 1987 indicati nel [comma 14 dell'ar
 
 2.
 
-Nei rapporti attivi e passivi posti in essere ai sensi dell'[articolo 24 del decreto-legge 28 febbraio 1987, n. 52](Proroga%20di%20termini%20per%20lattuazione%20di%20interventi%20nelle%20zone%20terremotate%20della%20Campania%20e%20della%20Basilicata%20nonche%20misure%20urgenti%20per%20il%20completamento%20degli%20interventi%20straordinari%20per%20Napoli.md), subentrano, a tutti gli effetti, i commissari straordinari del Governo di cui all'[articolo 84, terzo comma, della legge 14 maggio 1981, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219#art_84-com3).
+Nei rapporti attivi e passivi posti in essere ai sensi dell'[articolo 24 del decreto-legge 28 febbraio 1987, n. 52](Proroga%20di%20termini%20per%20lattuazione%20di%20interventi%20nelle%20zone%20terremotate%20della%20Campania%20e%20della%20Basilicata%20nonche%20misure%20urgenti%20per%20il%20completamento%20degli%20interventi%20straordinari%20per%20Napoli.md), subentrano, a tutti gli effetti, i commissari straordinari del Governo di cui all'[articolo 84, terzo comma, della legge 14 maggio 1981, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md).
 
 ## Art. 2.
 

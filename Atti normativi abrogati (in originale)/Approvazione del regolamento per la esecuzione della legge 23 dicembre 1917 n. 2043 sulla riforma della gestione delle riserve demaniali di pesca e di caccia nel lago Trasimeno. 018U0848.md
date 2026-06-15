@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 23 dicembre 1917, n. 2043](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-12-23;2043), sulla riforma della gestione delle riserve demaniali, di pesca e di caccia nel lago Trasimeno; 
+ Vista la [legge 23 dicembre 1917, n. 2043](Concernente%20la%20riforma%20della%20gestione%20delle%20riserve%20demaniali%20di%20pesca%20e%20di%20caccia%20sul%20lago%20Trasimeno.%20017U2043.md), sulla riforma della gestione delle riserve demaniali, di pesca e di caccia nel lago Trasimeno; 
  
  Udito il parere del Consiglio di Stato; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' approvato l'unito regolamento, visto, d'ordine Nostro, dai ministri delle finanze, dell'industria, commercio e lavoro e del tesoro, per la esecuzione della [legge 23 dicembre 1917, n. 2043](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-12-23;2043), sulla riforma della gestione delle riserve demaniali di pesca e di caccia nel lago Trasimeno. 
+ E' approvato l'unito regolamento, visto, d'ordine Nostro, dai ministri delle finanze, dell'industria, commercio e lavoro e del tesoro, per la esecuzione della [legge 23 dicembre 1917, n. 2043](Concernente%20la%20riforma%20della%20gestione%20delle%20riserve%20demaniali%20di%20pesca%20e%20di%20caccia%20sul%20lago%20Trasimeno.%20017U2043.md), sulla riforma della gestione delle riserve demaniali di pesca e di caccia nel lago Trasimeno. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

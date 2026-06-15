@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'Ordinamento della marina, approvato con la [legge 8 luglio 1926, n. 1178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178), e successive modificazioni;
+Visto l'Ordinamento della marina, approvato con la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), e successive modificazioni;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la marina, d'intesa con il Ministro per il tesor
 
 ## Art. 1.
 
-La [lettera c) dell'art. 41 della legge 8 luglio 1926, n. 1178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178#art_41-letc), e successive modificazioni, e' sostituita dalla seguente:
+La [lettera c) dell'art. 41 della legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), e successive modificazioni, e' sostituita dalla seguente:
  "lett. c) - I tenenti di vascello in servizio permanente effettivo possono essere trasferiti, a domanda, nel corpo delle capitanerie di porto, previo parere favorevole della competente Commissione di avanzamento, purche' abbiano superato alcune prove di esami scritti ed orali, e non abbiano, all'atto dell'accoglimento della loro domanda, da parte del Ministero della marina, un'anzianita' di grado superiore a quattro anni.
  Le prove di esami scritti ed orali sono quelle stabilite nel programma per l'ammissione a sottotenente nel Corpo delle capitanerie di porto, ad eccezione delle prove riguardanti la cultura militare, la matematica, la fisica e la geografia.
  I trasferimenti hanno luogo in base all'anzianita' di grado posseduta nel ruolo di provenienza e nel limite di uno per ogni otto posti che si rendono vacanti nel grado di capitano nel Corpo delle capitanerie di porto".

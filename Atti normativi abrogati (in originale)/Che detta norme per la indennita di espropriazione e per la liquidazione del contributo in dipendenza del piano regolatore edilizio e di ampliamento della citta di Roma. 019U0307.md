@@ -29,19 +29,19 @@ Sulla proposta del ministro segretario di Stato per lavori pubblici; Abbiamo dec
 ## Art. 1.
 
 L'indennita' di espropriazione del suolo destinato alla viabilita' secondo il piano regolatore edilizio e d'ampliamento della citta' di Roma, e le varianti al medesimo, fuori della zona interna della citta', delimitata con linea verde nell'annessa pianta, vistata dal ministro dei lavori pubblici, sara' ragguagliata al puro valore del terreno considerato indipendentemente dalla sua edificabilita', e cosi' senza riguardo al maggior valore che l'approvazione e la esecuzione del piano abbia potuto conferire al terreno stesso. Questa disposizione non si applica quando il suolo da espropriare, gia' edificatorio secondo il piano, e' destinato in forza di varianti all'apertura di nuove strade, purche' si dimostri con contratti di data certa che lo stesso fu negoziato dopo l'approvazione del piano e prima della deliberazione consiliare di approvazione delle varianti.
-Potra' pero' il Comune preferire di valersi per l'espropriazione del disposto dell'[art. 9 della legge 11 luglio 1907, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-11;502#art_9), e solo in tal caso non verra' restituito all'attuale proprietario l'importo della tassa da esso pagata per il terreno da espropriare.
+Potra' pero' il Comune preferire di valersi per l'espropriazione del disposto dell'[art. 9 della legge 11 luglio 1907, n. 502](Provvedimenti%20per%20la%20citta%20di%20Roma.%20007U0502.md), e solo in tal caso non verra' restituito all'attuale proprietario l'importo della tassa da esso pagata per il terreno da espropriare.
 
 ## Art. 2.
 
 La liquidazione dei contributi di miglioria che, secondo le norme in vigore, sono dovuti dai proprietari dei beni compresi nel piano regolatore edilizio e di ampliamento della citta' di Roma, e' fatta contemporaneamente alla liquidazione delle indennita' di espropriazione. 
  
- L'elenco delle indennita' di espropriazione e dei contributi accettati o concordati col Comune, sara' trasmesso al prefetto ai sensi degli [articoli 29 e seguenti della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_29). 
+ L'elenco delle indennita' di espropriazione e dei contributi accettati o concordati col Comune, sara' trasmesso al prefetto ai sensi degli [articoli 29 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
  
  I contributi che non furono accettati o concordati dovranno essere liquidati a cura degli stessi periti incaricati dal presidente del tribunale di determinare le indennita' di espropriazione, per le quali non fu ugualmente possibile raggiungere un amichevole accordo, e dovranno risultare dalla medesima relazione peritale.
 
 ## Art. 3.
 
-L'ipoteca di cui all'[art. 81 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_81), sara' iscritta dal Comune in base al verbale di amichevole concordazione, con il quale venne determinato il contributo di miglioria, e, in mancanza di accordo, sulla esibizione della perizia d'ufficio.
+L'ipoteca di cui all'[art. 81 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sara' iscritta dal Comune in base al verbale di amichevole concordazione, con il quale venne determinato il contributo di miglioria, e, in mancanza di accordo, sulla esibizione della perizia d'ufficio.
 
 ## Art. 4.
 
@@ -53,7 +53,7 @@ La liquidazione dei contributi dovuti per le opere del piano regolatore, per le 
 
 ## Art. 6.
 
-Qualora nuove zone fossero aggiunte al piano regolatore edilizio e di ampliamento della citta' di Roma, potranno essere estese alle stesse le disposizioni del presente decreto e quelle della [legge 11 luglio 1907, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-11;502), in quanto siano applicabili. 
+Qualora nuove zone fossero aggiunte al piano regolatore edilizio e di ampliamento della citta' di Roma, potranno essere estese alle stesse le disposizioni del presente decreto e quelle della [legge 11 luglio 1907, n. 502](Provvedimenti%20per%20la%20citta%20di%20Roma.%20007U0502.md), in quanto siano applicabili. 
  
  L'estensione sara' fatta con decreto Reale, su proposta del ministro dei lavori pubblici, di concerto col ministro dell'interno. 
  

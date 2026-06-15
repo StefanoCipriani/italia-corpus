@@ -48,7 +48,7 @@ Il procedimento di cui all'[art. 127 del testo unico delle leggi sanitarie](http
 
 Dove ne sorga il bisogno, in relazione ad eccezionali esigenze della pubblica profilassi, il prefetto, con motivata ordinanza, sentito il Consiglio provinciale di sanita', o, nei casi di somma urgenza, il medico provinciale, provvede anche coattivamente a quanto occorra per l'accertamento, l'isolamento e la cura dei casi di malattia infettiva dell'uomo e degli animali anche in deroga alle vigenti norme speciali per la profilassi di determinate malattie. 
  
- I contravventori sono puniti con la multa sino a L. 1000 e con l'arresto da un mese a due anni, salve le maggiori pene sancite dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+ I contravventori sono puniti con la multa sino a L. 1000 e con l'arresto da un mese a due anni, salve le maggiori pene sancite dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 

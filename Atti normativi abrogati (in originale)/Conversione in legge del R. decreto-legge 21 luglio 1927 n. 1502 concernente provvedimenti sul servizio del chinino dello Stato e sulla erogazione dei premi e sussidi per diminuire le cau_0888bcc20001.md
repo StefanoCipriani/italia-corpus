@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 luglio 1927, n. 1502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-21;1502), concernente provvedimenti sul servizio del chinino dello Stato e sull'erogazione dei premi e sussidi per diminuire 1e cause della malaria. 
+ E' convertito in legge il [R. decreto-legge 21 luglio 1927, n. 1502](Provvedimenti%20sul%20servizio%20del%20chinino%20di%20Stato%20e%20sulla%20erogazione%20dei%20premi%20e%20sussidi%20per%20diminuire%20le%20cause%20della%20malaria.%20027U1502.md), concernente provvedimenti sul servizio del chinino dello Stato e sull'erogazione dei premi e sussidi per diminuire 1e cause della malaria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

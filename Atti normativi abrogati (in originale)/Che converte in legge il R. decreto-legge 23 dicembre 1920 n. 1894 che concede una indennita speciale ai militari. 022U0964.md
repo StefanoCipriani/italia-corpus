@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 dicembre 1920, n. 1894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-12-23;1894), che concede una indennita' speciale agli ufficiali e ai sottufficiali e militari di truppa del Regio esercito, della Regia marina e di altri corpi armati per il servizio dello Stato. 
+ E' convertito in legge il [R. decreto-legge 23 dicembre 1920, n. 1894](Che%20concede%20una%20speciale%20indennita%20agli%20ufficiali%20del%20R.%20esercito%20compresi%20i%20Reali%20carabinieri%20della%20R.%20marina%20delle%20Capitanerie%20di%20porto%20della%20R.%20guardia%20di%20finanza%20e%20della%20R.%20guardia%20pe_98a30b38a251.md), che concede una indennita' speciale agli ufficiali e ai sottufficiali e militari di truppa del Regio esercito, della Regia marina e di altri corpi armati per il servizio dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

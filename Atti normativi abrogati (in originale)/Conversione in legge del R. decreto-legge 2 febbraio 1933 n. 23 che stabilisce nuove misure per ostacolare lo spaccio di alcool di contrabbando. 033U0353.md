@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 febbraio 1933, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-02-02;23), che stabilisce nuove misure per ostacolare lo spaccio di alcool di contrabbando. 
+ E' convertito in legge il [R. decreto-legge 2 febbraio 1933, n. 23](Nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U0023.md), che stabilisce nuove misure per ostacolare lo spaccio di alcool di contrabbando. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

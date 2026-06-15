@@ -20,11 +20,11 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Visto il [R. decreto-legge 5 ottobre 1936, n. 1743](Emissione%20di%20un%20prestito%20redimibile%205%20ed%20applicazione%20di%20una%20imposta%20straordinaria%20sulla%20proprieta%20immobiliare%20per%20il%20servizio%20del%20prestito%20medesimo.%20036U1743.md), relativo alla emissione di un Prestito redimibile 5% ed all'applicazione di una imposta straordinaria sulla proprieta' immobiliare per il servizio del prestito medesimo;
 
-Visto il [R. decreto 10 novembre 1936, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-10;1933), recante norme complementari integrative e regolamentari per l'attuazione del Regio decreto-legge predetto;
+Visto il [R. decreto 10 novembre 1936, n. 1933](Norme%20complementari%20integrative%20e%20regolamentari%20per%20lattuazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20Prestito%20redimibile%205%20e%20la%20istituzione%20di%20una%20_a2dd9db1058e.md), recante norme complementari integrative e regolamentari per l'attuazione del Regio decreto-legge predetto;
 
 Ritenuta l'urgente necessita', per agevolare le sottoscrizioni al prestito, di autorizzarne il collegamento con una speciale forma assicurativa mista, dando all'Istituto nazionale delle assicurazioni ed alle imprese autorizzate ad esercitare l'assicurazione sulla durata della vita umana le facolta' all'uopo necessarie;
 
-Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), concernente l'esercizio delle assicurazioni private, convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e le successive sue modificazioni ed aggiunte;
+Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), concernente l'esercizio delle assicurazioni private, convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e le successive sue modificazioni ed aggiunte;
 
 Sentito il Consiglio dei Ministri;
 
@@ -50,9 +50,9 @@ Per essere ammessi alle operazioni previste nel precedente articolo 1, gli inter
 
 ## Art. 4.
 
-La liberta' degli immobili per effetto della stipulazione della polizza puo' essere provata anche col certificato da rilasciarsi dalla Sezione di Regia tesoreria provinciale ai sensi dell'[art. 55, secondo comma, del R. decreto 10 novembre 1936, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-10;1933#art_55-com2). 
+La liberta' degli immobili per effetto della stipulazione della polizza puo' essere provata anche col certificato da rilasciarsi dalla Sezione di Regia tesoreria provinciale ai sensi dell'[art. 55, secondo comma, del R. decreto 10 novembre 1936, n. 1933](Norme%20complementari%20integrative%20e%20regolamentari%20per%20lattuazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20Prestito%20redimibile%205%20e%20la%20istituzione%20di%20una%20_a2dd9db1058e.md). 
  
- A tale effetto l'ente assicuratore, quando esegue il versamento di ciascuna rata, dovra' richiedere che nella quietanza rilasciata dall'esattore sia fatto risultare che il pagamento e' effettuato da esso ente in base a polizza stipulata coll'obbligato ai sensi del presente decreto e per il ritiro dei titoli potra' valersi della facolta' consentita dall'[art. 51 del R. decreto 10 novembre 1936, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-10;1933#art_51).
+ A tale effetto l'ente assicuratore, quando esegue il versamento di ciascuna rata, dovra' richiedere che nella quietanza rilasciata dall'esattore sia fatto risultare che il pagamento e' effettuato da esso ente in base a polizza stipulata coll'obbligato ai sensi del presente decreto e per il ritiro dei titoli potra' valersi della facolta' consentita dall'[art. 51 del R. decreto 10 novembre 1936, n. 1933](Norme%20complementari%20integrative%20e%20regolamentari%20per%20lattuazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20Prestito%20redimibile%205%20e%20la%20istituzione%20di%20una%20_a2dd9db1058e.md).
 
 ## Art. 5.
 
@@ -60,11 +60,11 @@ I premi dovuti dai sottoscrittori in corrispondenza delle polizze stipulate a no
  
  Per la riscossione di tali ruoli spettano agli esattori a carico degli enti assicuratori gli aggi nella misura dei tre quarti di quelli risultanti dai contratti di appalto in corso, e, in caso di esecuzione, a carico degli assicurati, i normali compensi per gli atti esecutivi. Le indennita' di mora per il ritardo nel pagamento dei premi, da applicarsi nella misura del 3%, vanno a favore dell'ente assicuratore. 
  
- Nel caso di ritardo da parte degli esattori nel versamento dei premi riscossi, si applica il disposto dell'[art. 39 del Regio decreto 10 novembre 1936, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-10;1933#art_39).
+ Nel caso di ritardo da parte degli esattori nel versamento dei premi riscossi, si applica il disposto dell'[art. 39 del Regio decreto 10 novembre 1936, n. 1933](Norme%20complementari%20integrative%20e%20regolamentari%20per%20lattuazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20Prestito%20redimibile%205%20e%20la%20istituzione%20di%20una%20_a2dd9db1058e.md).
 
 ## Art. 6.
 
-Per i contratti di assicurazione sulla vita stipulati dalle imprese assicuratrici private a norma del presente decreto, non e' applicabile l'obbligo delle cessioni legali di cui al [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473).
+Per i contratti di assicurazione sulla vita stipulati dalle imprese assicuratrici private a norma del presente decreto, non e' applicabile l'obbligo delle cessioni legali di cui al [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md).
 
 ## Art. 7.
 

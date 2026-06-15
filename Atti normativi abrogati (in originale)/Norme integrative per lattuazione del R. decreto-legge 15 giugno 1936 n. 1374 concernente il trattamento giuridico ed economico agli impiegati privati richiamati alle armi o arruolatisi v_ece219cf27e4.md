@@ -148,7 +148,7 @@ Il datore di lavoro che ritardi od ometta il versamento del contributo, e' tenut
 
 ### Art. 14.
 
-Il prestatore d'opera che abbia dato scientemente notizie inesatte all'Istituto nazionale fascista della previdenza sociale al fine di ottenere indennita' maggiori di quelle dovutegli, perde il diritto anche alle indennita' di legge, salvo le pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+Il prestatore d'opera che abbia dato scientemente notizie inesatte all'Istituto nazionale fascista della previdenza sociale al fine di ottenere indennita' maggiori di quelle dovutegli, perde il diritto anche alle indennita' di legge, salvo le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 15.
 

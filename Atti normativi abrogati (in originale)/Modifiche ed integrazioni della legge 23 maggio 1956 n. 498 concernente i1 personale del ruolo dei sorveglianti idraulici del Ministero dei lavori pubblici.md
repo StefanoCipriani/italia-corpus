@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 Gli effetti di cui alla [legge 23 maggio 1956, n. 498](Soppressione%20del%20ruolo%20dei%20guardiani%20idraulici%20salariati%20incaricati%20stabili%20di%20pubblici%20servizi%20ed%20istituzione%20dei%20sorveglianti%20idraulici%20agenti%20subalterni%20idraulici.md), decorrono dal 1 luglio 1956.
  Con effetto dalla stessa data, l'articolo 2 della predetta legge e' sostituito dal seguente:
- "Il ruolo dei guardiani idraulici, previsto dall'[articolo 2 del regio decreto-legge 14 gennaio 1937, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-14;54#art_2), e' sostituito con quello risultante dalla seguente tabella organica:
+ "Il ruolo dei guardiani idraulici, previsto dall'[articolo 2 del regio decreto-legge 14 gennaio 1937, n. 54](Riordinamento%20di%20alcuni%20ruoli%20del%20personale%20del%20Ministero%20dei%20lavori%20pubblici.%20037U0054.md), e' sostituito con quello risultante dalla seguente tabella organica:
 
 Coefficiente QUALIFICA	 Posti
 di stipendio

@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 18 luglio 1912, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-18;806), sullo stato degli ufficiali del R. esercito e della R. marina; 
+ Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina; 
  
  Visto il [decreto-legge 22 aprile 1915, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-04-22;499), che modifica gli articoli 45 e 51 della citata legge; 
  

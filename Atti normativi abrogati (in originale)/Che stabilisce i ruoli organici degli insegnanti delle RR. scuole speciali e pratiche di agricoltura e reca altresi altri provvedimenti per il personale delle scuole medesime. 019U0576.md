@@ -28,12 +28,12 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 I ruoli organici degli insegnanti delle RR. scuole speciali e pratiche di agricoltura sono quelli portati dalle tabelle A, B e C, allegate al presente decreto. 
  
- Ai ruoli degli assistenti indicati dalle tabelle D (scuole pratiche) ed E (scuole speciali), di cui all'[articolo 10 della legge 19 luglio 1909, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;526#art_10), e' sostituito un ruolo unico di assistenti per i due gruppi di scuole con lo stipendio annuo di L. 2000. 
+ Ai ruoli degli assistenti indicati dalle tabelle D (scuole pratiche) ed E (scuole speciali), di cui all'[articolo 10 della legge 19 luglio 1909, n. 526](Provvedimenti%20pel%20miglioramento%20economico%20dei%20professori%20delle%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20009U0526.md), e' sostituito un ruolo unico di assistenti per i due gruppi di scuole con lo stipendio annuo di L. 2000. 
  
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](Che%20stabilisce%20il%20trattamento%20economico%20e%20altri%20provvedimenti%20per%20il%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20019U1710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 
@@ -42,11 +42,11 @@ Il numero degli insegnanti e degli assistenti e' fissato dalla tabella D allegat
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](Che%20stabilisce%20il%20trattamento%20economico%20e%20altri%20provvedimenti%20per%20il%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20019U1710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
-All'[art. 8 della legge 19 luglio 1909, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;526#art_8), e' sostituito il seguente: 
+All'[art. 8 della legge 19 luglio 1909, n. 526](Provvedimenti%20pel%20miglioramento%20economico%20dei%20professori%20delle%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20009U0526.md), e' sostituito il seguente: 
  
  «L'incarico della direzione e' conferito per concorso, al quale prenderanno parte gl'insegnanti che abbiano conseguito da non meno di tre anni, il grado di ordinario nel ruolo delle scuole cui la nomina si riferisce. 
  
@@ -57,16 +57,16 @@ All'[art. 8 della legge 19 luglio 1909, n. 526](https://www.normattiva.it/uri-re
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](Che%20stabilisce%20il%20trattamento%20economico%20e%20altri%20provvedimenti%20per%20il%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20019U1710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 
-Gli assistenti di ruolo delle RR. scuole speciali e pratiche di agricoltura, di cui all'[art. 10 della legge 19 luglio 1909, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;526#art_10), sono nominati con decreto Ministeriale, sentita la Giunta per l'istruzione agraria, su proposta motivata del direttore della scuola, d'intesa, per le scuole speciali, con l'insegnante della materia. 
+Gli assistenti di ruolo delle RR. scuole speciali e pratiche di agricoltura, di cui all'[art. 10 della legge 19 luglio 1909, n. 526](Provvedimenti%20pel%20miglioramento%20economico%20dei%20professori%20delle%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20009U0526.md), sono nominati con decreto Ministeriale, sentita la Giunta per l'istruzione agraria, su proposta motivata del direttore della scuola, d'intesa, per le scuole speciali, con l'insegnante della materia. 
  
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](Che%20stabilisce%20il%20trattamento%20economico%20e%20altri%20provvedimenti%20per%20il%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20019U1710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 5.
 
@@ -77,11 +77,11 @@ Le funzioni attribuite agli attuali maestri censori saranno limitate agli insegn
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](Che%20stabilisce%20il%20trattamento%20economico%20e%20altri%20provvedimenti%20per%20il%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20019U1710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 6.
 
-Al [comma 1°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;526#art_12-com1) e [2° dell'art. 12 della legge 19 luglio 1909, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;526#art_12-com2), sono sostituiti i seguenti: 
+Al [comma 1°](Provvedimenti%20pel%20miglioramento%20economico%20dei%20professori%20delle%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20009U0526.md) e [2° dell'art. 12 della legge 19 luglio 1909, n. 526](Provvedimenti%20pel%20miglioramento%20economico%20dei%20professori%20delle%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20009U0526.md), sono sostituiti i seguenti: 
  
  «I capi tecnici delle scuole speciali e pratiche di agricoltura (capo coltivatore, capo vignaiuolo, capo cantiniere, capo casaro, capo giardiniere, ecc.), sono nominati con decreto Ministeriale su proposta del Comitato amministrativo delle singole scuole. 
  
@@ -92,7 +92,7 @@ Al [comma 1°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-0
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](Che%20stabilisce%20il%20trattamento%20economico%20e%20altri%20provvedimenti%20per%20il%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20019U1710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 7.
 
@@ -107,7 +107,7 @@ Ogni scuola avra' un segretario-economo da nominarsi con decreto Ministeriale, s
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](Che%20stabilisce%20il%20trattamento%20economico%20e%20altri%20provvedimenti%20per%20il%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20019U1710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 8.
 
@@ -116,7 +116,7 @@ Indipendentemente dai miglioramenti portati dal presente decreto, al personale d
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](Che%20stabilisce%20il%20trattamento%20economico%20e%20altri%20provvedimenti%20per%20il%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20019U1710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 9.
 
@@ -127,7 +127,7 @@ I capi tecnici, i segretari-economi ed i prefetti di disciplina saranno iscritti
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](Che%20stabilisce%20il%20trattamento%20economico%20e%20altri%20provvedimenti%20per%20il%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20019U1710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 10.
 
@@ -140,7 +140,7 @@ Alla assunzione del rimanente personale tecnico e di servizio, determinato dal r
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](Che%20stabilisce%20il%20trattamento%20economico%20e%20altri%20provvedimenti%20per%20il%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20019U1710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 11.
 
@@ -151,7 +151,7 @@ Alle maggiori spese derivanti dall'applicazione del presente decreto sara' provv
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](Che%20stabilisce%20il%20trattamento%20economico%20e%20altri%20provvedimenti%20per%20il%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20019U1710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 12.
 
@@ -170,4 +170,4 @@ Il presente decreto avra' effetto dal 1° luglio 1919 e sara' presentato al Parl
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1710), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 10 agosto 1919, n. 1710](Che%20stabilisce%20il%20trattamento%20economico%20e%20altri%20provvedimenti%20per%20il%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20019U1710.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

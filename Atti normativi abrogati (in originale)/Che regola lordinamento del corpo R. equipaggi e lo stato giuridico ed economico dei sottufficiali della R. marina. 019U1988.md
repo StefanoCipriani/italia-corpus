@@ -722,7 +722,7 @@ Con provvedimenti Ministeriali la decorrenza della ferma e della rafferma del pe
 
 Tutti i sott'ufficiali godranno del soprassoldo mensile caro-viveri di L. 60 previsto dal [decreto Luogotenenziale n. 263 in data 9 febbraio 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-09;263), fino a quando sara' corrisposta l'analoga indennita' agli ufficiali ed impiegati civili dello Stato. 
  
- Tutti i sott'ufficiali continueranno inoltre a godere dell'indennita' giornaliera straordinaria di cui al [R. decreto n. 1416 in data 27 luglio 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-27;1416).
+ Tutti i sott'ufficiali continueranno inoltre a godere dell'indennita' giornaliera straordinaria di cui al [R. decreto n. 1416 in data 27 luglio 1919](Che%20concede%20a%20tutti%20i%20sottufficiali%20della%20Regia%20marina%20che%20non%20percepiscono%20soprassoldo%20di%20servizio%20allestero%20una%20indennita%20giornaliera.%20019U1416.md).
 
 ### Art. 64. — Decorrenza del primo aumento triennale e quadriennale ai sottufficiali.
 

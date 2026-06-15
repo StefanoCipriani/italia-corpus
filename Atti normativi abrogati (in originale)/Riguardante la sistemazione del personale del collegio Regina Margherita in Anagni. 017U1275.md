@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu', dell'autorita' a Noi delegata;
 
-Visto l'[art. 4 della legge 26 giugno 1913, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;836#art_4);
+Visto l'[art. 4 della legge 26 giugno 1913, n. 836](Che%20approva%20lordinamento%20dellIstituto%20nazionale%20per%20listruzione%20e%20per%20leducazione%20degli%20orfani%20dei%20maestri%20elementari.%20013U0836.md);
 
 Visto il ruolo organico del personale del R. collegio «Regina Margherita» in Anagni, approvato con R. decreto 1° gennaio 1899, n. XVI;
 
-Vista la [legge 9 luglio 1908, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;412), che approva il ruolo organico del personale dei convitti nazionali;
+Vista la [legge 9 luglio 1908, n. 412](Sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20dei%20convitti%20nazionali.%20008U0412.md), che approva il ruolo organico del personale dei convitti nazionali;
 
 Udito il Consiglio dei Ministri;
 
@@ -36,7 +36,7 @@ Il ruolo organico del personale del R. collegio «Regina Margherita» in Anagni,
 
 ## Art. 2.
 
-In aumento ai posti stabiliti con le tabelle annesse alla [legge 9 luglio 1908, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;412), al [R. decreto 27 marzo 1910, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-03-27;176), e alla [legge 6 luglio 1912, n. 784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;784), per il personale dei convitti nazionali sono istituiti: un posto di direttrice, a L. 3700, uno di vice direttrice, a L. 2700, uno di economo, a L. 2700, uno di istitutrice, a L. 2200, quattro di istitutrice, a L. 1800, e sei di istitutrice, a L. 1500.
+In aumento ai posti stabiliti con le tabelle annesse alla [legge 9 luglio 1908, n. 412](Sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20dei%20convitti%20nazionali.%20008U0412.md), al [R. decreto 27 marzo 1910, n. 176](Che%20istituisce%20un%20posto%20di%20istitutore%20di%203ª%20classe%20nel%20ruolo%20organico%20dei%20Convitti%20nazionali.%20010U0176.md), e alla [legge 6 luglio 1912, n. 784](Che%20istituisce%20un%20Convitto%20nazionale%20femminile%20in%20Roma.%20012U0784.md), per il personale dei convitti nazionali sono istituiti: un posto di direttrice, a L. 3700, uno di vice direttrice, a L. 2700, uno di economo, a L. 2700, uno di istitutrice, a L. 2200, quattro di istitutrice, a L. 1800, e sei di istitutrice, a L. 1500.
 
 ## Art. 3.
 
@@ -66,7 +66,7 @@ L'attuale assistente amministrativo potra' far passaggio ad altro posto apparten
 
 ## Art. 8.
 
-La somma di L. 27.500 occorrente per la istituzione dei posti di cui all'art. 2 sara' prelevata dalle somme stanziate al cap. 142 del bilancio del Ministero della istruzione pubblica per l'esercizio finanziario 1917-918 e sara' costituita per L. 23.700 dalla somma derivante dall'abolito ruolo organico 1° gennaio 1899, n. XVI e per L. 3800 da parte della somma di L. 8400 stanziata in bilancio in virtu' dell'[art. 10 della legge 5 luglio 1908, n. 391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-05;391#art_10). La somma di L. 4600, che restera' disponibile della suddetta somma di L. 8400, sara' devoluta all'istituzione, da eseguirsi per decreto Reale, del corso di complemento per le allieve istitutrici presso il R. collegio «Regina Margherita» in Anagni o di altri corsi complementari integrativi, di' natura professionale, da aggiungersi alle scuole medie frequentate dalle convittrici. Con decreto del ministro del tesoro sara' provveduto, affinche' le somme iscritte al capitolo 142 del bilancio per l'esercizio finanziario 1917-918 del Ministero della istruzione pubblica siano trasportate al cap. 135 del bilancio stesso.
+La somma di L. 27.500 occorrente per la istituzione dei posti di cui all'art. 2 sara' prelevata dalle somme stanziate al cap. 142 del bilancio del Ministero della istruzione pubblica per l'esercizio finanziario 1917-918 e sara' costituita per L. 23.700 dalla somma derivante dall'abolito ruolo organico 1° gennaio 1899, n. XVI e per L. 3800 da parte della somma di L. 8400 stanziata in bilancio in virtu' dell'[art. 10 della legge 5 luglio 1908, n. 391](Aumento%20di%20stanziamento%20per%20la%20completa%20applicazione%20dalla%20legge%208%20luglio%201904%20n.%20407%20contenente%20provvedimenti%20per%20la%20scuola%20e%20per%20i%20maestri%20elementari.%20008U0391.md). La somma di L. 4600, che restera' disponibile della suddetta somma di L. 8400, sara' devoluta all'istituzione, da eseguirsi per decreto Reale, del corso di complemento per le allieve istitutrici presso il R. collegio «Regina Margherita» in Anagni o di altri corsi complementari integrativi, di' natura professionale, da aggiungersi alle scuole medie frequentate dalle convittrici. Con decreto del ministro del tesoro sara' provveduto, affinche' le somme iscritte al capitolo 142 del bilancio per l'esercizio finanziario 1917-918 del Ministero della istruzione pubblica siano trasportate al cap. 135 del bilancio stesso.
 
 ## Art. 9.
 

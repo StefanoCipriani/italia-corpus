@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -18,7 +18,7 @@ Visto il [regio decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-r
 
 Vista la [legge 10 giugno 1939, n. 1012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-10;1012), che apporta modifiche ai predetto regio decreto;
 
-Visto il [decreto legislativo luogotenenziale 19 aprile 1946, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-19;238), circa la determinazione degli elementi della retribuzione da considerare ai fini del calcolo dei premi e delle indennita' per inabilita' temporanea nell'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali;
+Visto il [decreto legislativo luogotenenziale 19 aprile 1946, n. 238](../Decreti%20legislativi%20luogotenenziali/Determinazione%20degli%20elementi%20della%20retribuzione%20da%20considerare%20ai%20fini%20del%20calcolo%20dei%20presi%20e%20delle%20indennita%20per%20inabilita%20temporanea%20nellassicurazione%20obbligatoria%20contro%20gli%20infortun_c735d39c1f7d.md), circa la determinazione degli elementi della retribuzione da considerare ai fini del calcolo dei premi e delle indennita' per inabilita' temporanea nell'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali;
 
 Visto il [decreto legislativo 23 agosto 1946, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-08-23;202), concernente la traduzione in legge di norme adottate in via amministrativa per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali;
 

@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 27 dicembre 1940, numero 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-12-27;1728), convertito, con modificazioni, nella [legge 20 marzo 1941, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-03-20;384), prorogato con [decreto legislativo luogotenenziale 15 aprile 1946, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-15;307);
+Visto il [regio decreto-legge 27 dicembre 1940, numero 1728](Disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20periodo%20di%20guerra.%20040U1728.md), convertito, con modificazioni, nella [legge 20 marzo 1941, n. 384](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20dicembre%201940-XIX%20n.%201728%20contenente%20norme%20per%20la%20disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20p_d3a41bb595d6.md), prorogato con [decreto legislativo luogotenenziale 15 aprile 1946, n. 307](../Decreti%20legislativi%20luogotenenziali/Proroga%20del%20R.%20decreto-legge%2027%20dicembre%201940%20n.%201728%20convertito%20con%20modificazioni%20nella%20legge%2020%20marzo%201941%20n.%20384%20concernente%20disposizioni%20in%20materia%20di%20disciplina%20di%20approvvigionamenti_ce2ba66c2978.md);
 
-Visto il [decreto legislativo luogotenenziale 15 aprile 1946, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-15;307), che proroga l'efficacia del regio decreto-legge predetto.
+Visto il [decreto legislativo luogotenenziale 15 aprile 1946, n. 307](../Decreti%20legislativi%20luogotenenziali/Proroga%20del%20R.%20decreto-legge%2027%20dicembre%201940%20n.%201728%20convertito%20con%20modificazioni%20nella%20legge%2020%20marzo%201941%20n.%20384%20concernente%20disposizioni%20in%20materia%20di%20disciplina%20di%20approvvigionamenti_ce2ba66c2978.md), che proroga l'efficacia del regio decreto-legge predetto.
 
-Visti gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3) e [6 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_6);
+Visti gli [articoli 3](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md) e [6 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,11 +22,11 @@ Sulla proposta del Ministro per l'industria e il commercio; HA SANZIONATO E PROM
 
 ## Art. 1.
 
-Le disposizioni dei [regio decreto-legge 27 dicembre 1940, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-12-27;1728), contenente norme per la disciplina della distribuzione e dei consumi dei prodotti industriali, convertito, con modifiche, nella [legge 20 marzo 1941, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-03-20;384), continuano ad avere effetto fino al 31 dicembre 1946.
+Le disposizioni dei [regio decreto-legge 27 dicembre 1940, n. 1728](Disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20periodo%20di%20guerra.%20040U1728.md), contenente norme per la disciplina della distribuzione e dei consumi dei prodotti industriali, convertito, con modifiche, nella [legge 20 marzo 1941, n. 384](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20dicembre%201940-XIX%20n.%201728%20contenente%20norme%20per%20la%20disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20p_d3a41bb595d6.md), continuano ad avere effetto fino al 31 dicembre 1946.
 
 ## Art. 2.
 
-Il produttore o il commerciante che non osserva i provvedimenti emanati dal Ministro per l'industria e per il commercio in base alle disposizioni del predetto [regio decreto-legge 27 dicembre 1940, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-12-27;1728), puo' essere escluso dalle assegnazioni di materie prime o di prodotti industriali, ovvero dalla concessione di permessi di importazione ed esportazione.
+Il produttore o il commerciante che non osserva i provvedimenti emanati dal Ministro per l'industria e per il commercio in base alle disposizioni del predetto [regio decreto-legge 27 dicembre 1940, n. 1728](Disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20periodo%20di%20guerra.%20040U1728.md), puo' essere escluso dalle assegnazioni di materie prime o di prodotti industriali, ovvero dalla concessione di permessi di importazione ed esportazione.
 
 ## Art. 3.
 

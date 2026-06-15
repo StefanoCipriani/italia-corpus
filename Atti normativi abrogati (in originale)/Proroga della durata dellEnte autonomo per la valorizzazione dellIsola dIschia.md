@@ -20,7 +20,7 @@ Sulla proposta del Ministro per l'interno, di concerto con i Ministri per il tes
 
 ## Art. 1.
 
-Il termine di durata dell'Ente autonomo per la valorizzazione dell'isola d'Ischia, previsto dalla [legge 22 luglio 1939, n. 1450](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-22;1450), prorogato con [legge 6 giugno 1952, n. 678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-06;678), e' ulteriormente prorogato al 30 giugno 1974.
+Il termine di durata dell'Ente autonomo per la valorizzazione dell'isola d'Ischia, previsto dalla [legge 22 luglio 1939, n. 1450](Costituzione%20di%20un%20Ente%20autonomo%20per%20la%20valorizzazione%20dellIsola%20dIschia.%20039U1450.md), prorogato con [legge 6 giugno 1952, n. 678](Modificazioni%20alla%20legge%2022%20luglio%201939%20n.%201450%20sulla%20costituzione%20dellEnte%20autonomo%20per%20la%20valorizzazione%20dellisola%20dIschia.md), e' ulteriormente prorogato al 30 giugno 1974.
 
 ## Art. 2.
 

@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 50 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337#art_50), concernente l'ordinamento del personale della Polizia di Stato che espleta attivita' tecnico scientifica o tecnica, ed in particolare il secondo comma, il quale fa rinvio all'ultimo capoverso dell'[art. 59 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_59), quanto alla fonte regolatrice delle "modalita' di svolgimento delle prove pratiche per l'inquadramento del personale proveniente dai ruoli della Polizia di Stato che svolgono funzioni di polizia e per il trasferimento di personale proveniente da altre amministrazioni", nonche' della "composizione e nomina delle commissioni esaminatrici";
+Visto l'[art. 50 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), concernente l'ordinamento del personale della Polizia di Stato che espleta attivita' tecnico scientifica o tecnica, ed in particolare il secondo comma, il quale fa rinvio all'ultimo capoverso dell'[art. 59 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_59), quanto alla fonte regolatrice delle "modalita' di svolgimento delle prove pratiche per l'inquadramento del personale proveniente dai ruoli della Polizia di Stato che svolgono funzioni di polizia e per il trasferimento di personale proveniente da altre amministrazioni", nonche' della "composizione e nomina delle commissioni esaminatrici";
 
 Visto l'art. 59, ultimo comma, della [legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121);
 
-Sentiti i sindacati di Polizia piu' rappresentativi sul piano nazionale ai sensi dell'[art. 4 del decreto-legge 19 dicembre 1984, n. 858](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;858#art_4), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-17;19);
+Sentiti i sindacati di Polizia piu' rappresentativi sul piano nazionale ai sensi dell'[art. 4 del decreto-legge 19 dicembre 1984, n. 858](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;858#art_4), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201984%20n.%20858%20recante%20norme%20per%20il%20trattenimento%20o%20il%20richiamo%20in%20servizio%20di%20alcune%20categorie%20di%20personale%20della%20Polizia%20di%20Stato.md);
 
 Sentito il parere del Consiglio di Stato;
 
@@ -32,17 +32,17 @@ il seguente decreto: REGOLAMENTO CONCERNENTE LA COMPOSIZIONE E LA NOMINA DELLE C
 
 1.
 
-Le commissioni esaminatrici delle prove pratiche sia di inquadramento che di trasferimento di personale, previste dall'[art. 50 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337#art_50), la cui composizione e indicata nei successivi articoli, sono costituite con decreto del Ministro dell'interno.
+Le commissioni esaminatrici delle prove pratiche sia di inquadramento che di trasferimento di personale, previste dall'[art. 50 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), la cui composizione e indicata nei successivi articoli, sono costituite con decreto del Ministro dell'interno.
 
 AVVERTENZA:
 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10 commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10 commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  NOTE
 
  Nota all'art. 1.
- Il [D.P.R. 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337), concerne: "Ordinamento del personale della Polizia di Stato che espleta attivita' tecnico-scientifica o tecnica". Il testo vigente dell'art. 50 del predetto decreto e' il seguente:
+ Il [D.P.R. 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), concerne: "Ordinamento del personale della Polizia di Stato che espleta attivita' tecnico-scientifica o tecnica". Il testo vigente dell'art. 50 del predetto decreto e' il seguente:
  "Art. 50 (Prove pratiche). - Le prove pratiche sono preordinate all'accertamento dell'idoneita' allo svolgimento delle mansioni proprie di ciascuno dei ruoli tecnici, avuto riguardo al settore di impiego nel quale il personale interessato presta servizio all'atto dell'entrata in vigore del presente decreto legislativo.
  Le modalita' di svolgimento delle prove pratiche per l'inquadramento del personale proveniente dai ruoli della Polizia di Stato che svolgono funzioni di polizia e per il trasferimento di personale proveniente da altre amministrazioni, la composizione e la nomina delle commissioni esaminatrici sono stabilite ai sensi del [terzo comma dell'art. 59 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_59-com3).
  Il termine per la presentazione della domanda per l'accesso ai ruoli tecnici previsti dagli articoli 46 e 48, i posti disponibili in ciascuno dei ruoli stessi e l'oggetto delle prove pratiche saranno indicati nel bando di concorso da pubblicarsi nel Bollettino ufficiale del personale".
@@ -57,7 +57,7 @@ La commissione esaminatrice delle prove pratiche preordinate all'inquadramento n
 
 2.
 
-La commissione e' integrata da due esperti per ciascuno dei settori tecnici indicati nell'[art. 1 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337#art_1), scelti, ove possibile, tra il personale appartenente ai ruoli dirigenziali o direttivi della Polizia di Stato.
+La commissione e' integrata da due esperti per ciascuno dei settori tecnici indicati nell'[art. 1 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), scelti, ove possibile, tra il personale appartenente ai ruoli dirigenziali o direttivi della Polizia di Stato.
 
 3.
 
@@ -83,7 +83,7 @@ Nota all'art. 2, comma 2:
 
  Nota all'[art. 2, comma 4:
  La legge 10 ottobre 1986, n. 668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-10;668#art_2-com4) concerne: "Modifiche ed integrazioni alla [legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121), e relativi decreti di attuazione, sul nuovo ordinamento dell'Amministrazione della pubblica sicurezza". Il testo vigente dell'art. 24 della predetta legge e' il seguente:
- "Art. 24. - 1. Il personale dell'Amministrazione civile dell'interno che alla data del 24 aprile 1982 svolgeva le mansioni tecnico-scientifiche o tecniche in uno dei settori tecnici individuati nell'[art. 1 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337#art_1), puo' accedere nei predetti ruoli tecnici, qualora ne faccia domanda entro sessanta giorni dall'entrata in vigore della presente legge, secondo le norme degli articoli 46 e seguenti del citato [decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337)".
+ "Art. 24. - 1. Il personale dell'Amministrazione civile dell'interno che alla data del 24 aprile 1982 svolgeva le mansioni tecnico-scientifiche o tecniche in uno dei settori tecnici individuati nell'[art. 1 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), puo' accedere nei predetti ruoli tecnici, qualora ne faccia domanda entro sessanta giorni dall'entrata in vigore della presente legge, secondo le norme degli articoli 46 e seguenti del citato [decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md)".
 
 ## Art. 3.
 
@@ -93,7 +93,7 @@ La commissione esaminatrice delle prove pratiche preordinate all'inquadramento n
 
 2.
 
-La commissione e integrata da due esperti per ciascuno dei settori tecnici indicati nell'[art. 1 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337#art_1), scelti, ove possibile, tra il personale appartenente ai ruoli dirigenziali della Polizia di Stato.
+La commissione e integrata da due esperti per ciascuno dei settori tecnici indicati nell'[art. 1 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), scelti, ove possibile, tra il personale appartenente ai ruoli dirigenziali della Polizia di Stato.
 
 3.
 
@@ -119,7 +119,7 @@ La commissione esaminatrice del concorso ai posti dei ruoli dei periti, dei revi
 
 1.
 
-Alle commissioni esaminatrici indicate nell'art. 4 e' demandato l'accertamento della corrispondenza tra l'attivita' tecnica svolta dal personale delle altre amministrazioni dello Stato e quella propria dei ruoli tecnici della Polizia di Stato, tenuto conto del titolo di studio posseduto, del contenuto del profilo professionale rivestito nell'amministrazione di provenienza e di quello corrispondente nei ruoli tecnici di cui al [decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337).
+Alle commissioni esaminatrici indicate nell'art. 4 e' demandato l'accertamento della corrispondenza tra l'attivita' tecnica svolta dal personale delle altre amministrazioni dello Stato e quella propria dei ruoli tecnici della Polizia di Stato, tenuto conto del titolo di studio posseduto, del contenuto del profilo professionale rivestito nell'amministrazione di provenienza e di quello corrispondente nei ruoli tecnici di cui al [decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md).
 
 ## Art. 6.
 
@@ -141,7 +141,7 @@ Il bando di concorso per l'accesso ai ruoli tecnici deve contenere:
 
 1.
 
-Le prove pratiche di cui all'[art. 50 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337#art_50), sono preordinate all'accertamento dell'idoneita' a svolgere le mansioni del profilo professionale indicato nella domanda.
+Le prove pratiche di cui all'[art. 50 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), sono preordinate all'accertamento dell'idoneita' a svolgere le mansioni del profilo professionale indicato nella domanda.
 
 Nota all'art. 7:
  Il testo vigente dell'art. 50 del D.P.R. n. 337. 1982 e' riportato nella nota all'art. 1.
@@ -166,7 +166,7 @@ Le commissioni esaminatrici procedono all'espletamento delle prove pratiche a pa
 
 1.
 
-Nei concorsi previsti dall'[art 49 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337#art_49), le commissioni esaminatrici esprimono il loro giudizio in trentesimi; conseguono l'idoneita' i candidati che ottengono una valutazione non inferiore a diciotto trentesimi.
+Nei concorsi previsti dall'[art 49 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), le commissioni esaminatrici esprimono il loro giudizio in trentesimi; conseguono l'idoneita' i candidati che ottengono una valutazione non inferiore a diciotto trentesimi.
 
 2.
 
@@ -181,10 +181,10 @@ Nota all'art. 10, comma 1;
 
 1.
 
-Nei concorsi per l'accesso ai ruoli tecnici si applicano, per quanto non previsto ed in quanto compatibili, le disposizioni del [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-12-23;903).
+Nei concorsi per l'accesso ai ruoli tecnici si applicano, per quanto non previsto ed in quanto compatibili, le disposizioni del [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](../DPR/Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md).
 
 Nota all'[art. 11:
- Il D.P.R. 23 dicembre 1983, n. 903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-12-23;903#art_11), concerne: "Approvazione del regolamento per l'accesso ai ruoli del personale della Polizia di Stato che espleta funzioni di polizia".
+ Il D.P.R. 23 dicembre 1983, n. 903](../DPR/Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), concerne: "Approvazione del regolamento per l'accesso ai ruoli del personale della Polizia di Stato che espleta funzioni di polizia".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

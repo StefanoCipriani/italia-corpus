@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 luglio 1933, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-07-06;989), che approva gli organici del personale militare della Regia aeronautica per l'esercizio finanziario 1933-34, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 6 luglio 1933, n. 989](Organici%20del%20personale%20militare%20della%20Regia%20aeronautica%20per%20lesercizio%20finanziario%201933-34.%20033U0989.md), che approva gli organici del personale militare della Regia aeronautica per l'esercizio finanziario 1933-34, con la seguente modificazione: 
  
  « Nella tabella degli organici annessa al decreto: ruolo specialisti, alla nota 1, alle parole: categoria motoristi - capitani: 3, sono sostituite le altre: categoria motoristi capitani: 4, e alle parole: categoria automobilisti - capitani: 6, sono sostituite le altre: categoria automobilisti - capitani: 5 ». 
  

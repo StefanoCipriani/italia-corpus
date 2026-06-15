@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-I provvedimenti consentiti dal [R. decreto 23 maggio 1915, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;675), e particolarmente quelli di cui all'articolo 2 del decreto stesso, potranno essere presi, oltre che dal prefetto, dal sottoprefetto o da chi ne fa le veci, anche dalle persone che ne abbiano ricevuto facolta' con decreto del ministro dell'interno. 
+I provvedimenti consentiti dal [R. decreto 23 maggio 1915, n. 675](Recante%20disposizioni%20per%20la%20stampa%20015U0675.md), e particolarmente quelli di cui all'articolo 2 del decreto stesso, potranno essere presi, oltre che dal prefetto, dal sottoprefetto o da chi ne fa le veci, anche dalle persone che ne abbiano ricevuto facolta' con decreto del ministro dell'interno. 
  
  Il presente decreto avra' effetto dal giorno della sua pubblicazione. 
  

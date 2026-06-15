@@ -16,7 +16,7 @@ La ricerca e la coltivazione di sostanze minerali radioattive, qualunque sia il 
 
 Per la ricerca e la coltivazione delle sostanze radioattive e dei loro derivati si applicano, fino a quando non sia emanata una legge mineraria per il Regno, e in quanto non e' disposto dalla presente legge, il [decreto-legge 18 luglio 1918, n. 1194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1918-07-18;1194), e le disposizioni emanate per il regime dei combustibili nazionali. 
  
- Al parere del Consiglio superiore delle miniere, prescritto dall'[art. 12 del R. decreto-legge 19 novembre 1921, n. 1605](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-11-19;1605#art_12), e' sostituito quello della Commissione istituita con l'art. 5 della presente legge.
+ Al parere del Consiglio superiore delle miniere, prescritto dall'[art. 12 del R. decreto-legge 19 novembre 1921, n. 1605](Concernente%20disposizioni%20in%20materia%20di%20combustibili%20liquidi%20021U1605.md), e' sostituito quello della Commissione istituita con l'art. 5 della presente legge.
 
 ## Art. 3.
 

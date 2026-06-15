@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 17 luglio 1942, n. 977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;977);
+Vista la [legge 17 luglio 1942, n. 977](Concessione%20di%20un%20contributo%20straordinario%20dello%20Stato%20a%20favore%20dellEnte%20nazionale%20di%20lavoro%20per%20i%20ciechi.%20042U0977.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ E' autorizzata la concessione per l'esercizio finanziario 1947-48 di un contribu
 
 ## Art. 2.
 
-La [legge 17 luglio 1942, n. 977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;977), e' abrogata.
+La [legge 17 luglio 1942, n. 977](Concessione%20di%20un%20contributo%20straordinario%20dello%20Stato%20a%20favore%20dellEnte%20nazionale%20di%20lavoro%20per%20i%20ciechi.%20042U0977.md), e' abrogata.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

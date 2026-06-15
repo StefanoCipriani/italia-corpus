@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto il [Regio Decreto 17 maggio 1866, n. 2914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-05-17;2914);
+Visto il [Regio Decreto 17 maggio 1866, n. 2914](Con%20cui%20e%20regolato%20il%20modo%20di%20pagamento%20da%20farsi%20dalla%20Banca%20Nazionale%20al%20Tesoro%20del%20mutuo%20di%20cui%20nel%20Decreto%201%20maggio%201866%20ed%20alla%20Banca%20stessa%20autorizzata%20ad%20emettere%20biglietti%20da%20lire%20_d24ba28fc5b7.md);
 
 Visti i Decreti Ministeriali del 19 detto maggio 1866, n. 2919, 22 giugno 1866, n. 2984, 31 luglio 1866, n. 3120, 5 ottobre 1866, n. 3265, 6 marzo 1868, n. 4282, e 2 settembre 1870, n. 5844;
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 giugno 1933, n. 936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-29;936), per la concessione di un sussidio straordinario di esercizio alle Societa' esercenti le ferrovie Circumetnea e Siena-Buonconvento-Monteantico. 
+ E' convertito in legge il [R. decreto-legge 29 giugno 1933, n. 936](Autorizzazione%20alla%20concessione%20di%20un%20sussidio%20straordinario%20di%20esercizio%20alle%20societa%20esercenti%20le%20ferrovie%20Circumetnea%20e%20Siena-Buonconvento-Monteantico.%20033U0936.md), per la concessione di un sussidio straordinario di esercizio alle Societa' esercenti le ferrovie Circumetnea e Siena-Buonconvento-Monteantico. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

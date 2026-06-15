@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 aprile 1930, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-04-28;424), relativo al riordinamento della Cassa d'ammortamento del debito pubblico interno. 
+ E' convertito in legge il [R. decreto-legge 28 aprile 1930, n. 424](Riordinamento%20della%20Cassa%20di%20ammortamento%20del%20debito%20pubblico%20interno.%20030U0424.md), relativo al riordinamento della Cassa d'ammortamento del debito pubblico interno. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 31 dicembre 1931 - Anno X 
  

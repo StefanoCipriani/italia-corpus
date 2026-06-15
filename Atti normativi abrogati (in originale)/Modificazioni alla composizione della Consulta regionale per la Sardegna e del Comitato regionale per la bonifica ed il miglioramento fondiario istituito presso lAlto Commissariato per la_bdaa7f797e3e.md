@@ -16,9 +16,9 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 27 gennaio 1944, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;21), che istituisce l'Alto Commissariato per la Sardegna, modificato dal [R. decreto-legge 16 marzo 1944, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-16;90);
+Visto il [R. decreto-legge 27 gennaio 1944, n. 21](Istituzione%20dellAlto%20Commissariato%20della%20Sardegna.%20044U0021.md), che istituisce l'Alto Commissariato per la Sardegna, modificato dal [R. decreto-legge 16 marzo 1944, n. 90](Norme%20integrative%20del%20R.%20decreto-legge%2027%20gennaio%201944%20n.%2021%20per%20la%20istituzione%20dellAlto%20Commissariato%20per%20la%20Sardegna.%20044U0090.md);
 
-Visto il [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;417), recante provvedimenti regionali per la Sardegna;
+Visto il [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md), recante provvedimenti regionali per la Sardegna;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1941, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1941-06-25;151#art_4);
 
@@ -30,11 +30,11 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Il numero dei componenti da Consulta regionale per la Sardegna, istituita dall'[art. 3 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;417#art_3), e' elevato da diciotto a ventiquattro.
+Il numero dei componenti da Consulta regionale per la Sardegna, istituita dall'[art. 3 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md), e' elevato da diciotto a ventiquattro.
 
 ## Art. 2.
 
-Il numero sia degli agricoltori sia dei lavoratori agricoli, componenti il Comitato regionale per la bonifica od il miglioramento fondiario, istituito presso l'Alto Commissariato per la Sardegna dall'[art. 7 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;417#art_7), e' elevato da due a tre.
+Il numero sia degli agricoltori sia dei lavoratori agricoli, componenti il Comitato regionale per la bonifica od il miglioramento fondiario, istituito presso l'Alto Commissariato per la Sardegna dall'[art. 7 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md), e' elevato da due a tre.
 
 ## Art. 3.
 

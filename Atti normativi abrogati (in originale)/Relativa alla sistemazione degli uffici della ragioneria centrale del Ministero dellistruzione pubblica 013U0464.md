@@ -20,7 +20,7 @@ Per la prima attuazione del ruolo organico stabilito dalla tabella, di cui al pr
 
 ## Art. 3.
 
-Gl'impiegati di classe transitoria del Ministero medesimo, di cui alla [legge 10 luglio 1910, n. 417](Provvedimenti%20sul%20personale%20del%20Ministero%20della%20pubblica%20istruzione.%20010U0417.md), i quali posseggano i titoli prescritti per l'ammissione nella carriera di ragioneria, e abbiano servizio lodevole, potranno essere nominati ragionieri di quarta classe nello stesso Ministero, in seguito a parere favorevole del Consiglio di amministrazione: soltanto pero' dalla data di questa nomina decorrera' per essi il servizio utile agli effetti del secondo comma dell'art. 5 del testo unico delle leggi sullo stato degl'impiegati civili approvato con [R. decreto 22 novembre 1908, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;693).
+Gl'impiegati di classe transitoria del Ministero medesimo, di cui alla [legge 10 luglio 1910, n. 417](Provvedimenti%20sul%20personale%20del%20Ministero%20della%20pubblica%20istruzione.%20010U0417.md), i quali posseggano i titoli prescritti per l'ammissione nella carriera di ragioneria, e abbiano servizio lodevole, potranno essere nominati ragionieri di quarta classe nello stesso Ministero, in seguito a parere favorevole del Consiglio di amministrazione: soltanto pero' dalla data di questa nomina decorrera' per essi il servizio utile agli effetti del secondo comma dell'art. 5 del testo unico delle leggi sullo stato degl'impiegati civili approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md).
 
 ## Art. 4.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Stia e Pratovecchio, riuniti con [R. decreto 21 gennaio 1929, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-21;109), nell'unico comune di Pratovecchio-Stia, sono ricostituiti in comuni distinti. 
+Stia e Pratovecchio, riuniti con [R. decreto 21 gennaio 1929, n. 109](Riunione%20dei%20comuni%20di%20Pratovecchio%20e%20Stia%20in%20un%20unico%20Comune%20denominato%20Pratovecchio%20Stia.%20029U0109.md), nell'unico comune di Pratovecchio-Stia, sono ricostituiti in comuni distinti. 
  
  Della circoscrizione del comune di Stia fanno parte la frazione Papiano e la localita' Ponte d'Arno gia' appartenenti al Comune di Pratovecchio. 
  

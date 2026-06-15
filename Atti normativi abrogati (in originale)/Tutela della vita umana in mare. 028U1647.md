@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il Codice per la marina mercantile approvato con [R. decreto 24 ottobre 1877, n. 4146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-10-24;4146) (serie 2ª);
+Visto il Codice per la marina mercantile approvato con [R. decreto 24 ottobre 1877, n. 4146](Che%20approva%20il%20testo%20unico%20del%20Codice%20della%20marina%20mercantile.%20077U4146.md) (serie 2ª);
 
-Visto il regolamento per l'esecuzione del Codice suddetto, approvato con [R. decreto 20 novembre 1879, n. 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166), e le successive modificazioni;
+Visto il regolamento per l'esecuzione del Codice suddetto, approvato con [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md), e le successive modificazioni;
 
 Ritenuta la necessita' e l'urgenza di tutelare la sicurezza della navigazione mediante norme corrispondenti ai conseguiti progressi della tecnica;
 

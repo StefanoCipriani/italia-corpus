@@ -54,7 +54,7 @@ Il ricavo netto della « Giornata delle Due Croci » e della vendita del bollo c
 
 ## Art. 4.
 
-E' abrogato l'[art. 1 del R. decreto-legge 8 aprile 1929, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-04-08;625#art_1), convertito nella [legge 24 giugno 1929, n. 1120](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20aprile%201929%20n.%20625%20concernente%20listituzione%20della%20Giornata%20della%20Croce%20Rossa.%20029U1120.md), relativa alla istituzione della «Giornata della Croce Rossa». 
+E' abrogato l'[art. 1 del R. decreto-legge 8 aprile 1929, n. 625](Istituzione%20della%20Giornata%20della%20Croce%20Rossa.%20029U0625.md), convertito nella [legge 24 giugno 1929, n. 1120](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20aprile%201929%20n.%20625%20concernente%20listituzione%20della%20Giornata%20della%20Croce%20Rossa.%20029U1120.md), relativa alla istituzione della «Giornata della Croce Rossa». 
  
  Negli articoli 2 e 3 del succitato R. decreto-legge, la dizione «Giornata della Croce Rossa» e' sostituita dalla seguente «Giornata delle Due Croci», restando ferme tutte le altre disposizioni contenute nello stesso provvedimento. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 dicembre 1933, n. 1793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-04;1793), che proroga alcune disposizioni di carattere transitorio riguardanti il personale militare della Regia aeronautica. 
+ E' convertito in legge il [R. decreto-legge 4 dicembre 1933, n. 1793](Proroga%20fino%20al%2031%20dicembre%201934%20di%20alcune%20disposizioni%20di%20carattere%20transitorio%20riguardanti%20il%20personale%20militare%20della%20Regia%20aeronautica.%20033U1793.md), che proroga alcune disposizioni di carattere transitorio riguardanti il personale militare della Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per tutti i Collegi di probiviri istituiti nel Regno in conformita' della [legge 15 giugno 1893, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-15;295), le elezioni parziali che dovrebbero aver luogo la seconda domenica di novembre dell'anno corrente, sono rinviate alla seconda domenica di novembre dell'anno 1918 e i probiviri che hanno compiuto il quadriennio di carica rimangono in ufficio fino al 31 dicembre 1918.
+Per tutti i Collegi di probiviri istituiti nel Regno in conformita' della [legge 15 giugno 1893, n. 295](Sulla%20istituzione%20dei%20Collegi%20di%20probi-viri.%20093U0295.md), le elezioni parziali che dovrebbero aver luogo la seconda domenica di novembre dell'anno corrente, sono rinviate alla seconda domenica di novembre dell'anno 1918 e i probiviri che hanno compiuto il quadriennio di carica rimangono in ufficio fino al 31 dicembre 1918.
 
 ## Art. 2.
 

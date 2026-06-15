@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il testo unico delle disposizioni legislative riguardanti la costituzione e le attribuzioni dei Corpi consultivi della Regia marina, approvato con [R. decreto 27 luglio 1934, n. 1469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1469);
+Visto il testo unico delle disposizioni legislative riguardanti la costituzione e le attribuzioni dei Corpi consultivi della Regia marina, approvato con [R. decreto 27 luglio 1934, n. 1469](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20e%20le%20attribuzioni%20dei%20Corpi%20consultivi%20della%20Regia%20marina.%20034U1469.md);
 
 Ritenuta la necessita' assoluta ed urgente di modificare l'art. 12 del testo unico suddetto;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Articolo unico.
 
-Nel quarto comma dell'art. 12 del testo unico delle disposizioni legislative riguardanti la costituzione e le attribuzioni dei Corpi consultivi della Regia marina, approvato con [Regio decreto 27 luglio 1934, n. 1469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1469), dopo la lettera e) e' inserita la seguente lettera f), venendo modificata in g) l'attuale lettera f): 
+Nel quarto comma dell'art. 12 del testo unico delle disposizioni legislative riguardanti la costituzione e le attribuzioni dei Corpi consultivi della Regia marina, approvato con [Regio decreto 27 luglio 1934, n. 1469](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20e%20le%20attribuzioni%20dei%20Corpi%20consultivi%20della%20Regia%20marina.%20034U1469.md), dopo la lettera e) e' inserita la seguente lettera f), venendo modificata in g) l'attuale lettera f): 
  
  «f) l'ufficiale ammiraglio ispettore di allestimento». 
  

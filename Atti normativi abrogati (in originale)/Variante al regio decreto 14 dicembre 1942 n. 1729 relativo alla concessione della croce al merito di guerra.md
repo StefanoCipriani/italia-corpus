@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 19 gennaio 1918, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1918-01-19;205), ed i successivi, riguardanti l'istituzione della croce al merito di guerra e le modalita' per il suo conferimento;
+Visto il [regio decreto 19 gennaio 1918, n. 205](Concernente%20la%20istituzione%20di%20una%20croce%20al%20merito%20di%20guerra.%20018U0205.md), ed i successivi, riguardanti l'istituzione della croce al merito di guerra e le modalita' per il suo conferimento;
 
-Visto il [regio decreto 14 dicembre 1942, n. 1729](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-12-14;1729), relativo alla concessione della croce al merito di guerra al personale che dal 10 giugno 1940, abbia partecipato ad operazioni militari;
+Visto il [regio decreto 14 dicembre 1942, n. 1729](Concessione%20della%20croce%20al%20merito%20di%20guerra%20al%20personale%20che%20dal%2010%20giugno%201940-XVIII%20abbia%20partecipato%20ad%20operazioni%20militari%20nella%20guerra%20in%20corso.%20042U1729.md), relativo alla concessione della croce al merito di guerra al personale che dal 10 giugno 1940, abbia partecipato ad operazioni militari;
 
-Visto l'[art. 1, n. 2, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num2);
+Visto l'[art. 1, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la difesa, d'intesa con il Ministro per il tesor
 
 ## Articolo unico.
 
-L'[art. 4 del regio decreto 14 dicembre 1942, n. 1729](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-12-14;1729#art_4), e' sostituito dal seguente:
+L'[art. 4 del regio decreto 14 dicembre 1942, n. 1729](Concessione%20della%20croce%20al%20merito%20di%20guerra%20al%20personale%20che%20dal%2010%20giugno%201940-XVIII%20abbia%20partecipato%20ad%20operazioni%20militari%20nella%20guerra%20in%20corso.%20042U1729.md), e' sostituito dal seguente:
  "La concessione della croce al merito di guerra puo' essere ripetuta quando il decorato acquisti nuovi titoli di benemerenze.
  Non si potra' pero' mai conferire piu' di una croce per ciascun periodo di dodici mesi consecutivi di partecipazione alla guerra, anche se in tale periodo siano stati realizzati piu' titoli, ne' si potranno conferire piu' di tre croci al merito di guerra, per ciascun conflitto, anche se di durata superiore ai 36 mesi.
  Gli insigniti di piu' croci al merito di guerra conseguite nella guerra 1940-1945 e nelle precedenti, portano un nastrino ed una insegna per ciascuna guerra.

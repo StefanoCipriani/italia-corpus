@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 18 aprile 1920, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-18;744), che istituisce in ente morale il Consorzio delle Scuole professionali per la maestranza marittima;
+Visto il [R. decreto 18 aprile 1920, n. 744](Erezione%20in%20ente%20morale.%20020U0744.md), che istituisce in ente morale il Consorzio delle Scuole professionali per la maestranza marittima;
 
 Ritenuta la necessita' urgente ed assoluta di assicurare al Consorzio i mezzi finanziari per continuare ed intensificare la sua opera;
 

@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;268), concernente la conservazione della Commissione unica per gli affari del personale per le valutazioni relative alla riammissione in servizio del personale delle Ferrovie dello Stato, gia' licenziato per motivi politici;
+Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 268](../Decreti%20legislativi%20luogotenenziali/Conservazione%20in%20deroga%20al%20decreto%20legislativo%20Luogotenenziale%2025%20gennaio%201945%20n.%2014%20della%20Commissione%20unica%20per%20gli%20affari%20del%20personale%20per%20le%20valutazioni%20relative%20alla%20riammissione%20in%20_ad288c4b2e41.md), concernente la conservazione della Commissione unica per gli affari del personale per le valutazioni relative alla riammissione in servizio del personale delle Ferrovie dello Stato, gia' licenziato per motivi politici;
 
 Visto al [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 23 agosto 1946, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-08-23;186);
 

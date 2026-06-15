@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 luglio 1930, n. 1146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-24;1146), recante modificazioni alla [legge 24 dicembre 1928, n. 3134](Provvedimenti%20per%20la%20bonifica%20integrale.%20028U3134.md), per la bonifica integrale. 
+ E' convertito in legge il [R. decreto-legge 24 luglio 1930, n. 1146](Modificazioni%20alla%20legge%2024%20dicembre%201928%20n.%203134%20sui%20provvedimenti%20per%20la%20bonifica%20integrale.%20030U1146.md), recante modificazioni alla [legge 24 dicembre 1928, n. 3134](Provvedimenti%20per%20la%20bonifica%20integrale.%20028U3134.md), per la bonifica integrale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiuque spetti di osservarla e di farla osservare come legge dello Stato. 
  

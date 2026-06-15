@@ -38,7 +38,7 @@ Le Commissioni potranno richiedere che il grano requisito non sia immediatamente
 
 ## Art. 5.
 
-Senza pregiudizio delle maggiori pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), e' punito con la reclusione fino ad un anno e con la multa fino a lire diecimila chiunque si rifiuti di adempiere agli ordini dati dalla autorita' per l'esecuzione del presente decreto o, comunque, impedisca od ostacoli tale esecuzione. Sara' pure ordinata, in danno del colpevole, la confisca dei cereali.
+Senza pregiudizio delle maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito con la reclusione fino ad un anno e con la multa fino a lire diecimila chiunque si rifiuti di adempiere agli ordini dati dalla autorita' per l'esecuzione del presente decreto o, comunque, impedisca od ostacoli tale esecuzione. Sara' pure ordinata, in danno del colpevole, la confisca dei cereali.
 
 ## Art. 6.
 

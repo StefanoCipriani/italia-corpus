@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 gennaio 1930, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-01-13;10), che reca disposizioni sull'edilizia popolate ed economica, con la modificazione seguente al 2° comma dell'art. 6: 
+ E' convertito in legge il [R. decreto-legge 13 gennaio 1930, n. 10](Disposizioni%20sulledilizia%20popolare%20ed%20economica.%20030U0010.md), che reca disposizioni sull'edilizia popolate ed economica, con la modificazione seguente al 2° comma dell'art. 6: 
  
  «E' data pure facolta' al Governo del Re, esclusivamente ai fini del testo unico, di cui al precedente comma, di integrare, modificare o abrogare, in quanto lo ritenga opportuno, le disposizioni predette». 
  

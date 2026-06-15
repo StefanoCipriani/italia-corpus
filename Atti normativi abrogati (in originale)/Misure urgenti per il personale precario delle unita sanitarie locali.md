@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 1.
 
-Gli incarichi al personale del Servizio sanitario nazionale ed i rapporti convenzionali instaurati dalle unita' sanitarie locali, ivi compresi quelli di cui all'[articolo 73 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761#art_73), in corso al 31 maggio 1984, sono prorogati dal 1 giugno 1984 sino all'entrata in vigore della disciplina per l'inquadramento diretto nei ruoli nominativi regionali del personale non di ruolo delle unita' sanitarie locali.
+Gli incarichi al personale del Servizio sanitario nazionale ed i rapporti convenzionali instaurati dalle unita' sanitarie locali, ivi compresi quelli di cui all'[articolo 73 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), in corso al 31 maggio 1984, sono prorogati dal 1 giugno 1984 sino all'entrata in vigore della disciplina per l'inquadramento diretto nei ruoli nominativi regionali del personale non di ruolo delle unita' sanitarie locali.
 
 2.
 

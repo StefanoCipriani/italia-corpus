@@ -29,7 +29,7 @@ Il Consorzio ha i seguenti scopi:
  e) regolamentare il lavoro nell'ambito portuale, sentito il Consiglio del lavoro portuale, col potere di determinare le tariffe
  nei confronti degli imprenditori, degli intermediari e dei lavoratori
 f) amministrare, nell'ambito portuale, i beni di demanio
-marittimo, compresi gli spazi acquei, nell'osservanza delle disposizioni del [Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), col potere di fare concessioni per un periodo di tempo non superiore a 15 anni;
+marittimo, compresi gli spazi acquei, nell'osservanza delle disposizioni del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), col potere di fare concessioni per un periodo di tempo non superiore a 15 anni;
  g) studiare, promuovere ed adottare provvedimenti atti a favorire l'incremento dei traffici nel porto di Civitavecchia, nonche' quello commerciale e industriale dell'entroterra, in rapporto a tali traffici.
 
 ## Art. 3. — Enti consorziati.
@@ -192,7 +192,7 @@ L'Amministrazione del Consorzio puo' essere sciolta quando dopo essere stata dif
 
 ## Art. 24. — Consegna di beni di proprieta' dello Stato.
 
-Le aree, i beni e le opere appartenenti al Demanio marittimo, nonche' le attrezzature e tutti gli altri beni di proprieta' dello stato esistenti nell'ambito portuale, ad eccezione di quelli occorrenti al servizi di spettanza dello Stato, saranno consegnati al Consorzio, con le modalita' di cui all'articolo 36 del regolamento, per la esecuzione del [Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327).
+Le aree, i beni e le opere appartenenti al Demanio marittimo, nonche' le attrezzature e tutti gli altri beni di proprieta' dello stato esistenti nell'ambito portuale, ad eccezione di quelli occorrenti al servizi di spettanza dello Stato, saranno consegnati al Consorzio, con le modalita' di cui all'articolo 36 del regolamento, per la esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ## Art. 25. — Riconsegna e devoluzione.
 

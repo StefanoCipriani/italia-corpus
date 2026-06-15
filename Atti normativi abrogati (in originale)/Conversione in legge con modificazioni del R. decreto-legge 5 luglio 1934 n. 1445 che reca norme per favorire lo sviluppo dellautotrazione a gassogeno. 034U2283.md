@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1445), che reca norme per favorire lo sviluppo dell'autotrazione a gassogeno, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1445](Norme%20per%20favorire%20lo%20sviluppo%20dellautotrazione%20a%20gassogeno.%20034U1445.md), che reca norme per favorire lo sviluppo dell'autotrazione a gassogeno, con le seguenti modificazioni: 
  
  All'art. 1 e' sostituito il seguente: 
  

@@ -18,9 +18,9 @@ Il Senato e la Camera dei deputati hanno approvato; Noi abbiamo sanzionato e pro
 
 ## Articolo unico.
 
-E' convertito in legge il [R. decreto-legge 11 febbraio 1929, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-02-11;283), che reca disposizioni in materia di edilizia popolare ed economica, sopprimendo l'art. 8 e modificando in conseguenza la numerazione degli articoli successivi. 
+E' convertito in legge il [R. decreto-legge 11 febbraio 1929, n. 283](Disposizioni%20in%20materia%20di%20edilizia%20popolare%20ed%20economica.%20029U0283.md), che reca disposizioni in materia di edilizia popolare ed economica, sopprimendo l'art. 8 e modificando in conseguenza la numerazione degli articoli successivi. 
  
- [R. decreto-legge 11 febbraio 1929, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-02-11;283). 
+ [R. decreto-legge 11 febbraio 1929, n. 283](Disposizioni%20in%20materia%20di%20edilizia%20popolare%20ed%20economica.%20029U0283.md). 
  
  (Omissis). 
  
@@ -36,7 +36,7 @@ E' convertito in legge il [R. decreto-legge 11 febbraio 1929, n. 283](https://ww
  
  Art. 2. 
  
- L'[art. 18 del R. decreto-legge 7 ottobre 1923, n. 2412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-10-07;2412#art_18), convertito nella [legge 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985), deve intendersi nel senso che gli affittuari non possono, per effetto della avvenuta locazione, essere iscritti soci, salvo che vi abbiano diritto per altro titolo. 
+ L'[art. 18 del R. decreto-legge 7 ottobre 1923, n. 2412](Compiti%20della%20Commissione%20di%20vigilanza%20sulla%20edilizia%20popolare%20provvedimenti%20per%20la%20esecutorieta%20delle%20sue%20decisioni%20e%20altre%20norme%20in%20materia%20di%20abitazioni.%20023U2412.md), convertito nella [legge 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), deve intendersi nel senso che gli affittuari non possono, per effetto della avvenuta locazione, essere iscritti soci, salvo che vi abbiano diritto per altro titolo. 
  
  Le cooperative devono provvedere alla cancellazione di quelli che si trovino nelle condizioni di cui al precedente comma, iscrivendoli, ove essi ne facciano domanda documentata secondo le disposizioni vigenti, tra gli aspiranti sei, al posto che sarebbe loro spettato riferibilmente alla data in cui conseguirono la qualita' di socio. 
  
@@ -44,7 +44,7 @@ E' convertito in legge il [R. decreto-legge 11 febbraio 1929, n. 283](https://ww
  
  Art. 3. 
  
- All'[art. 3 della legge 17 agosto 1928, n. 2102](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201765%20che%20reca%20provvedimenti%20vari%20in%20materia%20di%20edilizia%20popolare%20ed%20economica.%20028U2102.md), che converte in legge il [R. decreto-legge 29 luglio 1927, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1765), e' sostituito il seguente: 
+ All'[art. 3 della legge 17 agosto 1928, n. 2102](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201765%20che%20reca%20provvedimenti%20vari%20in%20materia%20di%20edilizia%20popolare%20ed%20economica.%20028U2102.md), che converte in legge il [R. decreto-legge 29 luglio 1927, n. 1765](Provvedimenti%20vari%20in%20materia%20di%20edilizia%20popolare%20ed%20economica.%20027U1765.md), e' sostituito il seguente: 
  
  « Colui che subentra nell'assegnazione dell'alloggio, anche per motivi diversi da quelli contemplati nell'art. 2, e' tenuto a rimborsare il precedente assegnatario, dichiarato decaduto, esclusivamente del prezzo effettivo da questo eventualmente pagato per l'acquisto del terreno, nonche' del costo, da documentarsi, dei lavori e miglioramenti eseguiti in proprio dall'assegnatario anteriormente alla pubblicazione del presente decreto-legge. Per quelli eseguiti posteriormente non compete rimborso alcuno. 
  
@@ -53,7 +53,7 @@ Tale accertamento, per le cooperative tra ferrovieri, sara' effettuato dal colla
  
  Art. 4. 
  
- Gli atti di assegnazione di appartamenti e di mutui edilizi individuali ai soci delle cooperative che abbiano costruito o che costruiscano col solo contributo dello Stato nel pagamento di una parte degli interessi, nonche' gli atti di riscatto, oltre ad essere registrati con la tassa fissa a termini dell'[art. 65 del R. decreto 30 dicembre 1923, n. 3269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3269#art_65), sono soggetti a tassa fissa per le formalita' ipotecarie e per la voltura catastale, salvo gli emolumenti ai conservatori delle ipoteche. 
+ Gli atti di assegnazione di appartamenti e di mutui edilizi individuali ai soci delle cooperative che abbiano costruito o che costruiscano col solo contributo dello Stato nel pagamento di una parte degli interessi, nonche' gli atti di riscatto, oltre ad essere registrati con la tassa fissa a termini dell'[art. 65 del R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), sono soggetti a tassa fissa per le formalita' ipotecarie e per la voltura catastale, salvo gli emolumenti ai conservatori delle ipoteche. 
  
  Art. 5. 
  
@@ -77,11 +77,11 @@ Tale accertamento, per le cooperative tra ferrovieri, sara' effettuato dal colla
  
  Art. 9. (gia' art, 10). 
  
- Il termine di venti anni, concesso dall'[art. 4 del R. decreto-legge 10 marzo 1926, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-10;386#art_4), convertito nella [legge 25 novembre 1926, n. 2087](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20marzo%201926%20n.%20386%20contenente%20provvedimenti%20per%20la%20costruzione%20di%20case%20popolari.%20026U2087.md), a favore degli assegnatari di alloggi costruiti dai Comuni per essere concessi in locazione con patto di futura vendita, e' prorogato ad anni venticinque. 
+ Il termine di venti anni, concesso dall'[art. 4 del R. decreto-legge 10 marzo 1926, n. 386](Provvedimenti%20per%20la%20costruzione%20di%20case%20popolari.%20026U0386.md), convertito nella [legge 25 novembre 1926, n. 2087](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20marzo%201926%20n.%20386%20contenente%20provvedimenti%20per%20la%20costruzione%20di%20case%20popolari.%20026U2087.md), a favore degli assegnatari di alloggi costruiti dai Comuni per essere concessi in locazione con patto di futura vendita, e' prorogato ad anni venticinque. 
  
  Art. 10. (gia' art. 11). 
  
- E' in facolta' del Ministro per i lavori pubblici di concerto con quello per le finanze, nei casi di esclusione dal beneficio del contributo governativo nel pagamento di una parte degli interessi, previsti dall'[art. 20 del R. decreto-legge 7 febbraio 1926, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-07;193#art_20), convertito nella [legge 15 luglio 1926, n. 1263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-15;1263), di disporre che i soci, a carico dei quali la detta esclusione sia stata comminata, prestino, nelle forme e nei termini da stabilirsi dai Ministri predetti, le garanzie che essi riterranno necessarie nell'interesse dell'Istituto mutuante, ed imporre anche, se del caso, il pagamento totale del costo dell'alloggio cooperativo. 
+ E' in facolta' del Ministro per i lavori pubblici di concerto con quello per le finanze, nei casi di esclusione dal beneficio del contributo governativo nel pagamento di una parte degli interessi, previsti dall'[art. 20 del R. decreto-legge 7 febbraio 1926, n. 193](Ordinamento%20dei%20servizi%20preposti%20alla%20edilizia%20popolare%20ed%20economica%20ed%20altri%20provvedimenti%20in%20materia.%20026U0193.md), convertito nella [legge 15 luglio 1926, n. 1263](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1263.md), di disporre che i soci, a carico dei quali la detta esclusione sia stata comminata, prestino, nelle forme e nei termini da stabilirsi dai Ministri predetti, le garanzie che essi riterranno necessarie nell'interesse dell'Istituto mutuante, ed imporre anche, se del caso, il pagamento totale del costo dell'alloggio cooperativo. 
  
  La determinazione, a cura del Ministro per i lavori pubblici, sara' notificata al socio della cooperativa mediante lettera raccomandata con ricevuta di ritorno. 
  
@@ -91,7 +91,7 @@ Tale accertamento, per le cooperative tra ferrovieri, sara' effettuato dal colla
  
  Art. 11. (gia' art. 12). 
  
- La disposizione del [primo comma dell'art. 28 del R. decreto-legge 7 febbraio 1926, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-07;193#art_28-com1), convertito nella [legge 15 luglio 1926, n. 1263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-15;1263), deve intendersi nel senso che, in sede di contratti di mutui edilizi individuali, sia da pagarsi una sola tassa fissa ipotecaria per ogni stipulazione, qualunque sia il numero dei soci, dei mutui, delle iscrizioni e delle trascrizioni. 
+ La disposizione del [primo comma dell'art. 28 del R. decreto-legge 7 febbraio 1926, n. 193](Ordinamento%20dei%20servizi%20preposti%20alla%20edilizia%20popolare%20ed%20economica%20ed%20altri%20provvedimenti%20in%20materia.%20026U0193.md), convertito nella [legge 15 luglio 1926, n. 1263](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1263.md), deve intendersi nel senso che, in sede di contratti di mutui edilizi individuali, sia da pagarsi una sola tassa fissa ipotecaria per ogni stipulazione, qualunque sia il numero dei soci, dei mutui, delle iscrizioni e delle trascrizioni. 
  
  Art. 12. (gia' art. 13). 
  

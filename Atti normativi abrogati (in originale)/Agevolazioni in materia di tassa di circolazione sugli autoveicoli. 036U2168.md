@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3283), col quale venne approvato il testo unico delle leggi sulle tasse automobilistiche;
+Visto il [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), col quale venne approvato il testo unico delle leggi sulle tasse automobilistiche;
 
 Visto il R. decreto-legge 29 dicembre 1927-V, n. 2446, convertito nella legge 29 novembre 1928-VI, n. 3421;
 
@@ -36,7 +36,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 2.
 
-- Le tasse sulla circolazione di prova di cui all'[art. 19, terzo comma, del R. decreto 30 dicembre 1923, n. 3283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3283#art_19-com3), sulle tasse automobilistiche, annientate del 40 per cento ai sensi dell'[art. 2 del decreto-legge 29 dicembre 1927, n. 2446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1927-12-29;2446#art_2), sono stabilite in L. 2200 per gli autocarri e per le autovetture, in L. 220 per i motocicli e motocarrozzette e in L. 150 per gli autoscafi. 
+- Le tasse sulla circolazione di prova di cui all'[art. 19, terzo comma, del R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), sulle tasse automobilistiche, annientate del 40 per cento ai sensi dell'[art. 2 del decreto-legge 29 dicembre 1927, n. 2446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1927-12-29;2446#art_2), sono stabilite in L. 2200 per gli autocarri e per le autovetture, in L. 220 per i motocicli e motocarrozzette e in L. 150 per gli autoscafi. 
  
  La riduzione del 60 per cento stabilita dall'[art. 5 del R. decreto- legge 29 dicembre 1927, n. 2446](Provvedimenti%20di%20finanza%20per%20lindustria%20automobilistica%20e%20per%20le%20strade.%20027U2446.md), sulle tasse di circolazione di prova a favore delle fabbriche nazionali di autoveicoli e autoscafi, delle fabbriche nazionali di carrozzeria e delle officine di riparazioni per autoveicoli, nonche' dei rappresentanti di fabbriche italiane di automobili, deve essere applicata sulle tasse come sopra fissate nel precedente articolo, in quanto sussistano le condizioni stabilite dal citato art. 5.
 

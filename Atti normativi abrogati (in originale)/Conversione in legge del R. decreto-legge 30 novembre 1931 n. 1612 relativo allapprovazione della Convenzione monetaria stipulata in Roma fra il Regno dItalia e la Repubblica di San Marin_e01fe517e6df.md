@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 novembre 1931, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-30;1612), che da' piena ed intera esecuzione alla Convenzione monetaria stipulata in Roma fra il Regno d'Italia e la Repubblica di San Marino il 23 ottobre 1931. 
+ E' convertito in legge il [R. decreto-legge 30 novembre 1931, n. 1612](Approvazione%20della%20Convenzione%20monetaria%20Ira%20il%20Regno%20dItalia%20e%20la%20Repubblica%20di%20San%20Marino%20stipulata%20in%20Roma%20il%2023%20ottobre%201931.%20031U1612.md), che da' piena ed intera esecuzione alla Convenzione monetaria stipulata in Roma fra il Regno d'Italia e la Repubblica di San Marino il 23 ottobre 1931. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 31 marzo 1932 - Anno X 
  

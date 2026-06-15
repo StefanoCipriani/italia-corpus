@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 12 dicembre 1962, n. 1862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-12;1862), recante delega al Governo per il riordinamento del Ministero della difesa;
+Vista la [legge 12 dicembre 1962, n. 1862](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md), recante delega al Governo per il riordinamento del Ministero della difesa;
 
-Visti gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-09;1058#art_2) e [3 della legge 9 ottobre 1964, numero 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-09;1058#art_3), concernente rinnovo della delega predetta e delega per il riordinamento delle carriere e delle categorie e per la revisione degli organici del personale civile;
+Visti gli [articoli 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Rinnovo%20della%20delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20al%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20maggiori%20e%20delega%20per%20il%20riordinamento%20delle%20carriere%20e%20delle%20c_90e4698fc918.md) e [3 della legge 9 ottobre 1964, numero 1058](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Rinnovo%20della%20delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20al%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20maggiori%20e%20delega%20per%20il%20riordinamento%20delle%20carriere%20e%20delle%20c_90e4698fc918.md), concernente rinnovo della delega predetta e delega per il riordinamento delle carriere e delle categorie e per la revisione degli organici del personale civile;
 
 Vista la [legge 5 marzo 1961, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-03-05;90), sullo stato giuridico degli operai dello Stato;
 
 Udito il parere del Consiglio superiore delle Forze armate;
 
-Udito il parere della Commissione parlamentare di cui all'[art. 6 della legge 12 dicembre 1962, n. 1862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-12;1862#art_6);
+Udito il parere della Commissione parlamentare di cui all'[art. 6 della legge 12 dicembre 1962, n. 1862](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -33,7 +33,7 @@ Per le esigenze delle lavorazioni e dei servizi del Ministero della difesa, sono
  2) ruolo del personale operaio addetto ai servizi generali.
  I ruoli organici di cui al precedente comma sono distinti per categorie, in relazione alla classificazione prevista dal successivo art. 2.
  Le dotazioni organiche di tali ruoli sono fissate, per ciascuna categoria, dalla tabella A allegata al presente decreto.
- Sono soppresse le piante organiche degli operai di ruolo del Ministero della difesa-Esercito, Marina, Aeronautica, previste dal [decreto legislativo 7 maggio 1948, n. 940](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;940), e successive modificazioni.
+ Sono soppresse le piante organiche degli operai di ruolo del Ministero della difesa-Esercito, Marina, Aeronautica, previste dal [decreto legislativo 7 maggio 1948, n. 940](../Decreti%20Legislativi/Modificazioni%20degli%20organici%20degli%20operai%20di%20ruolo%20delle%20Forze%20armate.md), e successive modificazioni.
 
 ## Art. 2. — Classificazione del personale operaio
 
@@ -60,10 +60,10 @@ La nomina in ruolo ed il passaggio a categorie superiori, eccezion fatta per qua
 
 ## Art. 6. — Allievi operai
 
-I posti disponibili nelle categorie degli operai qualificati e degli operai comuni del ruolo delle lavorazioni e del ruolo dei servizi generali vengono conferiti, fino al limite massimo della meta', a domanda e senza concorso, con le modalita' di cui al [secondo comma dell'art. 8 della legge 19 maggio 1964, n. 345](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-19;345#art_8-com2), agli allievi operai che abbiano conseguito l'attestato di idoneita' previsto dall'art. 4 della legge medesima negli ultimi due anni.
+I posti disponibili nelle categorie degli operai qualificati e degli operai comuni del ruolo delle lavorazioni e del ruolo dei servizi generali vengono conferiti, fino al limite massimo della meta', a domanda e senza concorso, con le modalita' di cui al [secondo comma dell'art. 8 della legge 19 maggio 1964, n. 345](Scuole%20allievi%20operai%20delle%20Forze%20armate.md), agli allievi operai che abbiano conseguito l'attestato di idoneita' previsto dall'art. 4 della legge medesima negli ultimi due anni.
  La nomina in ruolo viene disposta nella categoria degli operai qualificati, o in quella degli operai comuni, a seconda che l'attestato di idoneita' di cui ai precedente comma si riferisca a qualifica di mestiere per la quale nella tabella C allegata al presente decreto sia prevista, come iniziale, la categoria degli operai qualificati o quella degli operai comuni.
  I rimanenti posti vengono conferiti per pubblico concorso.
- Il primo ed il [quarto comma dell'art. 8 della legge 19 maggio 1964, n. 345](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-19;345#art_8-com4), sono abrogati.
+ Il primo ed il [quarto comma dell'art. 8 della legge 19 maggio 1964, n. 345](Scuole%20allievi%20operai%20delle%20Forze%20armate.md), sono abrogati.
 
 ## Art. 7. — Decorrenza della nomina in ruolo
 
@@ -117,7 +117,7 @@ Le assenze per motivi di salute verificatesi nell'anno che, per il loro caratter
 
 ## Art. 16. — Cessazione contributi Enpas per il trattamento economico di malattia
 
-Nei confronti del personale operaio del Ministero della difesa cessano di avere applicazione le disposizioni di cui: agli articoli 11, primo comma, punti 1) e 2), e 14 della [legge 19 gennaio 1942, n. 22; agli articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;22#art_1) e [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;22#art_2) della [legge 12 febbraio 1948, n. 147;
+Nei confronti del personale operaio del Ministero della difesa cessano di avere applicazione le disposizioni di cui: agli articoli 11, primo comma, punti 1) e 2), e 14 della [legge 19 gennaio 1942, n. 22; agli articoli 1](Istituzione%20di%20un%20Ente%20nazionale%20fascista%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.%20042U0022.md) e [2](Istituzione%20di%20un%20Ente%20nazionale%20fascista%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.%20042U0022.md) della [legge 12 febbraio 1948, n. 147;
 all'art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-12;147#art_8) della [legge 30 ottobre 1953, n. 841; all'art. 10, quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-10-30;841#art_10-com4) e [quinto comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-10-30;841#art_10-com5), del [decreto del Presidente della Repubblica 11 gennaio 1956, n. 19; all'art. 29](Conglobamento%20totale%20del%20trattamento%20economico%20del%20personale%20statale.md) e, salvo quanto previsto dall'art. 13 del presente decreto relativamente al trattamento spettante per infortunio sul lavoro o malattia professionale, all'[art. 30 della legge 5 marzo 1961, numero 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-03-05;90#art_30).
 
 ## Art. 17. — Liquidazione competenze

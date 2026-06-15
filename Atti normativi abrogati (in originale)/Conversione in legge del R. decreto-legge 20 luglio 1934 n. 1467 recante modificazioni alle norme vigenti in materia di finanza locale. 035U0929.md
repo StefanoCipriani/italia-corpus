@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 luglio 1934, n. 1467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1467), recante modificazioni alle norme vigenti in materia di finanza locale. 
+ E' convertito in legge il [R. decreto-legge 20 luglio 1934, n. 1467](Modificazioni%20alle%20norme%20vigenti%20in%20materia%20di%20finanza%20locale.%20034U1467.md), recante modificazioni alle norme vigenti in materia di finanza locale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

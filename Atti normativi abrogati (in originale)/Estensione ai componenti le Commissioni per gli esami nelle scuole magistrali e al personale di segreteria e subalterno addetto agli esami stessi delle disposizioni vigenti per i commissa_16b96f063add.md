@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Ai componenti le Commissioni di esame di abilitazione presso le scuole magistrali istituite a norma dell'art. 41 del testo unico approvato con [regio decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), modificato dall'[art. 1 del regio decreto 11 agosto 1933, n. 1286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-11;1286#art_1), e al personale di segreteria e subalterno addetto alle Commissioni stesse spettano i compensi, le indennita' e le propina nella misura e nei limiti previsti per i componenti le Commissioni di esami presso gli istituti e scuole di istruzione media, classica, scientifica, magistrale e tecnica.
+Ai componenti le Commissioni di esame di abilitazione presso le scuole magistrali istituite a norma dell'art. 41 del testo unico approvato con [regio decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), modificato dall'[art. 1 del regio decreto 11 agosto 1933, n. 1286](Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20circa%20lordinamento%20degli%20istituti%20per%20la%20formazione%20delle%20insegnanti%20per%20le%20scuole%20del%20grado%20preparatorio.%20033U1286.md), e al personale di segreteria e subalterno addetto alle Commissioni stesse spettano i compensi, le indennita' e le propina nella misura e nei limiti previsti per i componenti le Commissioni di esami presso gli istituti e scuole di istruzione media, classica, scientifica, magistrale e tecnica.
 
 ## Art. 2.
 

@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 29 aprile 1923, n. 1218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-29;1218), che ha approvato le due convenzioni 21 marzo stesso anno per la concessione della costruzione delle ferrovie secondarie in Sicilia;
+Visto il [R. decreto 29 aprile 1923, n. 1218](Che%20approva%20due%20convenzioni%20per%20la%20concessione%20della%20costruzione%20delle%20ferrovie%20secondarie%20in%20Sicilia.%20023U1218.md), che ha approvato le due convenzioni 21 marzo stesso anno per la concessione della costruzione delle ferrovie secondarie in Sicilia;
 
-Visto il [R. decreto 16 gennaio 1930, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-01-16;54), che ha prorogato per un secondo triennio la facolta' di pagare in capitali attuali i lavori di costruzione delle ferrovie secondarie sicule;
+Visto il [R. decreto 16 gennaio 1930, n. 54](Proroga%20per%20un%20secondo%20triennio%20della%20facolta%20di%20pagare%20in%20capitali%20attuali%20i%20lavori%20di%20costruzione%20delle%20Ferrovie%20secondarie%20sicule.%20030U0054.md), che ha prorogato per un secondo triennio la facolta' di pagare in capitali attuali i lavori di costruzione delle ferrovie secondarie sicule;
 
 Visto il decreto del Ministero delle finanze 30 giugno 1927, concernente il trasporto dei fondi dallo stato di previsione della spesa del Ministero dei lavori pubblici a quello delle comunicazioni, in dipendenza del passaggio di tutti i servizi gestiti dall'Ispettorato generale delle ferrovie, tramvie ed automobili, dal Ministero dei lavori pubblici a quello delle comunicazioni;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-Il pagamento dei lavori di costruzione delle ferrovie secondarie sicule, eseguiti in base alle convenzioni approvate con [R. decreto 29 aprile 1923, n. 1218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-29;1218), sara' effettuato, per tutti i lavori liquidati con certificati di avanzamento di data posteriore al 1° gennaio 1931 e fino al 30 giugno 1931, e per un importo massimo di L. 50.000.000 in capitali attuali, mediante annualita' trentennali posticipate a debito dello Stato, calcolate in base ad un saggio di interesse che dal Ministero delle comunicazioni, di concerto con quello delle finanze, verra' determinato all'atto della prima liquidazione in relazione alle condizioni del mercato finanziario e che dovra' valere per tutto il periodo anzidetto. 
+Il pagamento dei lavori di costruzione delle ferrovie secondarie sicule, eseguiti in base alle convenzioni approvate con [R. decreto 29 aprile 1923, n. 1218](Che%20approva%20due%20convenzioni%20per%20la%20concessione%20della%20costruzione%20delle%20ferrovie%20secondarie%20in%20Sicilia.%20023U1218.md), sara' effettuato, per tutti i lavori liquidati con certificati di avanzamento di data posteriore al 1° gennaio 1931 e fino al 30 giugno 1931, e per un importo massimo di L. 50.000.000 in capitali attuali, mediante annualita' trentennali posticipate a debito dello Stato, calcolate in base ad un saggio di interesse che dal Ministero delle comunicazioni, di concerto con quello delle finanze, verra' determinato all'atto della prima liquidazione in relazione alle condizioni del mercato finanziario e che dovra' valere per tutto il periodo anzidetto. 
  
  Restano ferme tutte le clausole contenute nelle convenzioni suddette in quanto non siano in contrasto con le disposizioni del presente decreto.
 

@@ -30,7 +30,7 @@ Le disposizioni di cui agli articoli 8, comma 2, 11, comma 2, lettere b) e c), e
 
 1.
 
-Nell'[articolo 1, comma 68, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com68), l'ultimo periodo e' soppresso e dopo il medesimo comma e' inserito il seguente:
+Nell'[articolo 1, comma 68, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), l'ultimo periodo e' soppresso e dopo il medesimo comma e' inserito il seguente:
  "68-bis. L'entita' della contribuzione a carico dei soggetti operanti nei settori dell'energia elettrica e del gas, gia' determinata ai sensi dell'[articolo 2, comma 38, lettera b), della legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481#art_2-com38-letb), resta fissata in una misura non superiore all'uno per mille dei ricavi risultanti dall'ultimo bilancio approvato prima della data di entrata in vigore della presente legge. Successive variazioni della misura, necessarie ai fini della copertura dei costi relativi al proprio funzionamento, e delle modalita' della contribuzione possono essere adottate dalla Autorita' per l'energia elettrica e il gas entro il predetto limite massimo dell'uno per mille dei ricavi risultanti dal bilancio approvato relativo all'esercizio immediatamente precedente la variazione stessa, con la medesima procedura disciplinata dal comma 65. L'[articolo 2, comma 39, della legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481#art_2-com39), e' abrogato.".
 
 ## Art. 3.

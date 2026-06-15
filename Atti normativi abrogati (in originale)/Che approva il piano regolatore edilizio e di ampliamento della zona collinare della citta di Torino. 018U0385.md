@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
 Udito il Consiglio dei ministri;
 
@@ -38,7 +38,7 @@ Per l'attuazione del piano e' assegnato il termine di anni quaranta a decorrere 
 
 ## Art. 3.
 
-Addivenendosi dal Comune alla formazione di nuove vie, slarghi, piazze, giardini e belvedere pubblici compresi nel piano o all'allargamento od alla sistemazione di vie, slarghi e piazzali ivi gia' esistenti, sara' dovuto dai proprietari confinanti o contigui, in conformita' di quanto e' sancito dall'[art.77 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_77), il contributo seguente: 
+Addivenendosi dal Comune alla formazione di nuove vie, slarghi, piazze, giardini e belvedere pubblici compresi nel piano o all'allargamento od alla sistemazione di vie, slarghi e piazzali ivi gia' esistenti, sara' dovuto dai proprietari confinanti o contigui, in conformita' di quanto e' sancito dall'[art.77 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), il contributo seguente: 
  
  Ciascuno dei proprietari confinanti con le piazze, coi giardini pubblici e coi belvedere dovra' cedere gratuitamente al Comune il terreno occorrente per tali piazze, giardini e belvedere per la larghezza di metri nove per ogni fronte di cui sia proprietario. 
  
@@ -52,7 +52,7 @@ Addivenendosi dal Comune alla formazione di nuove vie, slarghi, piazze, giardini
  
  I propietari confinanti colle vie, cogli slarghi, colle piazze e coi giardini o belvedere dovranno inoltre lasciare occupare l'area necessaria perche' il Comune possa costruirvi, ove occorrano, il muro di sostegno della scarpata e il muro di controripa, ma di tale area conserveranno la proprieta'. 
  
- I proprietari di stabili contigui, ma non fronteggianti le vie, gli slarghi, le piazze, i giardini pubblici e i belvedere, saranno tenuti al contributo nella misura e nei termini di cui negli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_77), [78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_78) e [81 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_81). 
+ I proprietari di stabili contigui, ma non fronteggianti le vie, gli slarghi, le piazze, i giardini pubblici e i belvedere, saranno tenuti al contributo nella misura e nei termini di cui negli [articoli 77](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), [78](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md) e [81 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
  
  Il valore del contributo non potra' pero' mai superare la misura massima di quello imposto in proporzione ai proprietari frontisti della stessa localita'.
 
@@ -64,7 +64,7 @@ L'indennita' di espropriazione del terreno destinato a vie, slarghi, piazze, bel
 
 ## Art. 5.
 
-Nella esecuzione del piano il comune di Torino, potra' valersi delle facolta' di cui all'[art. 22 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_22).
+Nella esecuzione del piano il comune di Torino, potra' valersi delle facolta' di cui all'[art. 22 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
 
 ## Art. 6.
 
@@ -82,7 +82,7 @@ Tanto le strade private segnate nel piano quanto le altre strade private non pot
 
 ## Art. 8.
 
-Il Governo del Re, mediante l'osservanza della procedura stabilita dall'[art. 87 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_87), avra' facolta' di acconsentire alle modificazioni del piano che venissero riconosciute opportune dal Comune nel corso della sua attuazione e di estendere alle medesime le disposizioni del presente decreto.
+Il Governo del Re, mediante l'osservanza della procedura stabilita dall'[art. 87 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), avra' facolta' di acconsentire alle modificazioni del piano che venissero riconosciute opportune dal Comune nel corso della sua attuazione e di estendere alle medesime le disposizioni del presente decreto.
 
 ## Art. 9.
 

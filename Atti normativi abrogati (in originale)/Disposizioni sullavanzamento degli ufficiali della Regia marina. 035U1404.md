@@ -24,7 +24,7 @@ Il ruolo deg1i ufficiali del Corpo di Stato Maggiore e quello degli ufficiali de
  
  Ruolo delle Direzioni (D.) e, 
  
- Ruolo dei Servizi (S.), per il Corpo del Genio navale; a seconda delle personali attitudini dimostrate ed accertate con la procedura stabilita dal vigente testo unico delle leggi sull'avanzamento, approvato con [R. decreto 7 novembre 1929, n. 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-07;2007), e successive modificazioni, e dalla presente legge. 
+ Ruolo dei Servizi (S.), per il Corpo del Genio navale; a seconda delle personali attitudini dimostrate ed accertate con la procedura stabilita dal vigente testo unico delle leggi sull'avanzamento, approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e successive modificazioni, e dalla presente legge. 
  
  Il Ruolo dei Comandi navali comprende i gradi da capitano di corvetta ad ammiraglio d'armata. 
  
@@ -113,7 +113,7 @@ L'ufficiale dello Stato Maggiore e quello del Genio navale trasferito dal Ruolo 
 
 ### Art. 8.
 
-Alla tabella dei limiti di eta' per gli ufficiali dei Corpi militari della Regia marina, di cui all'[art. 36 della legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), modificato dal [R. decreto-legge 8 novembre 1928, n. 2482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-08;2482), convertito nella [legge 27 dicembre 1928, n. 3328](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20novembre%201928%20n.%202482%20che%20porta%20modificazioni%20alla%20legge%20sullordinamento%20della%20Regia%20marina%20ed%20allo%20stato%20ed%20avanzamento%20degli%20ufficiali%20della%20_8f55f8d393c3.md), e' sostituita la tabella 8 allegata alla presente legge. 
+Alla tabella dei limiti di eta' per gli ufficiali dei Corpi militari della Regia marina, di cui all'[art. 36 della legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), modificato dal [R. decreto-legge 8 novembre 1928, n. 2482](Modificazioni%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullo%20stato%20ed%20avanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20028U2482.md), convertito nella [legge 27 dicembre 1928, n. 3328](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20novembre%201928%20n.%202482%20che%20porta%20modificazioni%20alla%20legge%20sullordinamento%20della%20Regia%20marina%20ed%20allo%20stato%20ed%20avanzamento%20degli%20ufficiali%20della%20_8f55f8d393c3.md), e' sostituita la tabella 8 allegata alla presente legge. 
  
  Le variazioni nei limiti di eta' apportate dalla presente legge entreranno in vigore dal 1° gennaio 1936, tranne per gli ufficiali del Corpo delle Capitanerie di porto, per i quali la riduzione dei limiti stessi, rispetto a quelli ora vigenti, e' di un anno dal 1° gennaio 1936 e di un altro anno dal 1° gennaio 1937. 
  
@@ -194,7 +194,7 @@ Costituicono vacanze organiche agli effetti delle promozioni, oltre quelle di cu
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 6 gennaio 1936, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-01-06;388), convertito senza modificazioni dalla [L. 2 giugno 1936, n. 1258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-02;1258), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 6 gennaio 1936, n. 388](Modifiche%20alle%20disposizioni%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U0388.md), convertito senza modificazioni dalla [L. 2 giugno 1936, n. 1258](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20gennaio%201936-XIV%20n.%20388%20che%20porta%20modifiche%20alle%20disposizioni%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1258.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 12.
 
@@ -285,7 +285,7 @@ Il complesso delle vacanze organiche che si verificano nei singoli ruoli e gradi
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 6 gennaio 1936, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-01-06;388), convertito senza modificazioni dalla [L. 2 giugno 1936, n. 1258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-02;1258), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 6 gennaio 1936, n. 388](Modifiche%20alle%20disposizioni%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U0388.md), convertito senza modificazioni dalla [L. 2 giugno 1936, n. 1258](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20gennaio%201936-XIV%20n.%20388%20che%20porta%20modifiche%20alle%20disposizioni%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1258.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 19.
 
@@ -299,7 +299,7 @@ Il numero delle vacanze annuali necessarie e delle conseguenti promozioni e' sta
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 6 gennaio 1936, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-01-06;388), convertito senza modificazioni dalla [L. 2 giugno 1936, n. 1258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-02;1258), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 6 gennaio 1936, n. 388](Modifiche%20alle%20disposizioni%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U0388.md), convertito senza modificazioni dalla [L. 2 giugno 1936, n. 1258](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20gennaio%201936-XIV%20n.%20388%20che%20porta%20modifiche%20alle%20disposizioni%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1258.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 20.
 
@@ -381,7 +381,7 @@ Agli ufficiali collocati « a disposizione » competono tutti gli assegni ed ind
 
 Gli ufficiali collocati « fuori organico » sono tolti dai ruoli del servizio permanente effettivo e rimangono in tale posizione per un periodo di quattro anni, ma non oltre il raggiungimento del limite di eta' del grado che essi rivestivano nel servizio permanente effettivo. 
  
- Essi possono esercitare qualsiasi professione o coprire qualunque carica ed impiego in aziende private con le modalita' e le limitazioni stabilite dall'[art. 9 del R. decreto 10 gennaio 1926, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-10;516#art_9). Coloro che ne hanno particolare attitudine possono essere destinati dal Ministro per la marina, in seguito a domanda, all'inquadramento delle Organizzazioni Giovanili Fasciste. In tal caso essi hanno diritto ad una speciale indennita', da fissarsi con decreto Reale, su proposta del Ministro per la marina, di concerto col Ministro per le finanze, e sono considerati a tutti gli effetti in servizio, continuando pero' a percepire gli assegni e le indennita' di cui al seguente articolo. 
+ Essi possono esercitare qualsiasi professione o coprire qualunque carica ed impiego in aziende private con le modalita' e le limitazioni stabilite dall'[art. 9 del R. decreto 10 gennaio 1926, n. 516](Norme%20per%20lapplicazione%20del%20R.%20decreto-legge%2015%20ottobre%201925%20n.%201938%20relativo%20al%20collocamento%20in%20aspettativa%20per%20riduzione%20di%20quadri%20degli%20ufficiali%20della%20Regia%20marina%20in%20posizione%20ausili_02492ae242e3.md). Coloro che ne hanno particolare attitudine possono essere destinati dal Ministro per la marina, in seguito a domanda, all'inquadramento delle Organizzazioni Giovanili Fasciste. In tal caso essi hanno diritto ad una speciale indennita', da fissarsi con decreto Reale, su proposta del Ministro per la marina, di concerto col Ministro per le finanze, e sono considerati a tutti gli effetti in servizio, continuando pero' a percepire gli assegni e le indennita' di cui al seguente articolo. 
  
  Il periodo trascorso « fuori organico » si computa per intero agli effetti della pensione. 
  

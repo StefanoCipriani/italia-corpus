@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 14 dicembre 1911, n. 1461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-14;1461), recante disposizioni per la sistemazione dei conti consuntivi dei Comuni, delle Provincie e delle istituzioni pubbliche di beneficenza, distrutti o smarriti in conseguenza del terremoto del 28 dicembre 1908. 
+ E' convertito in legge il [R. decreto 14 dicembre 1911, n. 1461](Col%20quale%20vengono%20stabilite%20alcune%20norme%20speciali%20per%20la%20sistemazione%20dei%20conti%20consuntivi%20dei%20comuni%20e%20delle%20istituzioni%20di%20pubblica%20beneficenza%20delle%20provincie%20di%20Messina%20e%20di%20Reggio%20Ca_984aaf02c64f.md), recante disposizioni per la sistemazione dei conti consuntivi dei Comuni, delle Provincie e delle istituzioni pubbliche di beneficenza, distrutti o smarriti in conseguenza del terremoto del 28 dicembre 1908. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

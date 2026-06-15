@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di ordinamento della Corte dei conti per garantire, con la necessaria immediatezza, l'esercizio delle funzioni giurisdizionali e di controllo, anche a seguito di talune esigenze emerse nella fase di prima attuazione delle disposizioni dettate dal [decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), e dalla [legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20);
+Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di ordinamento della Corte dei conti per garantire, con la necessaria immediatezza, l'esercizio delle funzioni giurisdizionali e di controllo, anche a seguito di talune esigenze emerse nella fase di prima attuazione delle disposizioni dettate dal [decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md), e dalla [legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 dicembre 1994;
 
@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il [comma 5 dell'articolo 1 del decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453#art_1-com5), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), e' sostituito dai seguenti:
+Il [comma 5 dell'articolo 1 del decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453#art_1-com5), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md), e' sostituito dai seguenti:
  " 5. Avverso le sentenze delle sezioni giurisdizionali regionali e' ammesso l'appello alle sezioni giurisdizionali centrali che giudicano con cinque magistrati e con competenza in tutte le materie attribuite alla giurisdizione della Corte dei conti. Nei giudizi in materia di pensioni, l'appello e' consentito per soli motivi di diritto e comunque non e' ammesso per le questioni relative alla dipendenza di infermita', lesioni o morte da causa di servizio o di guerra, alla classifica o all'aggravamento di infermita' o lesioni e alle condizioni oggettive e soggettive degli aventi causa per trattamenti di reversibilita'.
  5-bis. L'appello e' proponibile dalle parti, dal procuratore regionale competente per territorio o dal procuratore generale, entro sessanta giorni dalla notificazione o, comunque, entro un anno dalla pubblicazione.
  5-ter. Le sentenze delle sezioni giurisdizionali regionali sono esecutive. Il ricorso in appello alle sezioni giurisdizionali centrali non sospende l'esecuzione della sentenza impugnata. La sezione giurisdizionale centrale, tuttavia, su istanza di parte o del procuratore regionale territorialmente competente o del procuratore generale, nelle ipotesi in cui e' previsto il ricorso in appello e quando ricorrono gravi motivi, puo' disporre, con ordinanza motivata emessa in camera di consiglio, che la esecuzione sia sospesa.
@@ -33,11 +33,11 @@ I difensori delle parti e il procuratore generale devono essere sentiti in camer
 
 2.
 
-Le sezioni riunite di cui all'[articolo 1, comma 7, del decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453#art_1-com7), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), giudicano con sette magistrati.
+Le sezioni riunite di cui all'[articolo 1, comma 7, del decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453#art_1-com7), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md), giudicano con sette magistrati.
 
 3.
 
-Dopo il [comma 8 dell'articolo 1 del decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453#art_1-com8), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), e' inserito il seguente:
+Dopo il [comma 8 dell'articolo 1 del decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453#art_1-com8), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md), e' inserito il seguente:
  "8-bis. E' istituita un'altra sezione giurisdizionale centrale.
 Alle sezioni giurisdizionali centrali ed a quelle regionali, il cui carico di lavoro sia ritenuto particolarmente consistente, puo' essere assegnato, con delibera del consiglio di presidenza, adottata su proposta motivata del presidente della Corte dei conti, un presidente aggiunto; il numero totale dei presidenti aggiunti non puo' essere superiore a dieci unita'.".
 
@@ -66,7 +66,7 @@ Il [comma 10 dell'articolo 3 della legge 14 gennaio 1994, n. 20](https://www.nor
 
 1.
 
-Il periodo di tempo di cui all'articolo 1, comma 9, ultimo periodo, del [decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), termina alla data del 30 aprile 1996, successivamente alla quale si procede alle assegnazioni definitive. Le assegnazioni di ufficio non possono superare, in ogni caso, la durata di un anno.
+Il periodo di tempo di cui all'articolo 1, comma 9, ultimo periodo, del [decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md), termina alla data del 30 aprile 1996, successivamente alla quale si procede alle assegnazioni definitive. Le assegnazioni di ufficio non possono superare, in ogni caso, la durata di un anno.
 
 ## Art. 6. — Referendari e primi referendari
 

@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 14 della legge 21 marzo 1915, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-03-21;273#art_14); 
+ Visto l'[art. 14 della legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md); 
  
- Visti i RR. decreti 28 marzo 1915, nn. 314 e 315 ed 8 luglio 1915, n. 1118, che estendono alle colonie rispettivamente la [legge 21 marzo 1915, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-03-21;273), ed i RR. decreti 28 marzo e 27 giugno 1915, nn. 313 e 986 relativi alla pubblicazione di notizie d'indole militare; 
+ Visti i RR. decreti 28 marzo 1915, nn. 314 e 315 ed 8 luglio 1915, n. 1118, che estendono alle colonie rispettivamente la [legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md), ed i RR. decreti 28 marzo e 27 giugno 1915, nn. 313 e 986 relativi alla pubblicazione di notizie d'indole militare; 
  
- Visto il Nostro decreto 23 dicembre 1915, n. 1801, che proroga per tutta la durata della guerra le disposizioni del [R. decreto 28 marzo 1915, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-28;313); 
+ Visto il Nostro decreto 23 dicembre 1915, n. 1801, che proroga per tutta la durata della guerra le disposizioni del [R. decreto 28 marzo 1915, n. 313](Che%20vieta%20la%20pubblicazione%20di%20notizie%20concernenti%20la%20forza%20la%20preparazione%20o%20la%20difesa%20militare%20dello%20Stato.%20015U0313.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' esteso alle colonie il Nostro decreto 23 dicembre 1915, n. 1801, col quale sono prorogate per tutta la durata della guerra le disposizioni del [R. decreto 28 marzo 1915, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-28;313), che vieta di pubblicare notizie concernenti la forza, la preparazione o la difesa militare. 
+ E' esteso alle colonie il Nostro decreto 23 dicembre 1915, n. 1801, col quale sono prorogate per tutta la durata della guerra le disposizioni del [R. decreto 28 marzo 1915, n. 313](Che%20vieta%20la%20pubblicazione%20di%20notizie%20concernenti%20la%20forza%20la%20preparazione%20o%20la%20difesa%20militare%20dello%20Stato.%20015U0313.md), che vieta di pubblicare notizie concernenti la forza, la preparazione o la difesa militare. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

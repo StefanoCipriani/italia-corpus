@@ -66,7 +66,7 @@ Agli effetti dell'integrazione le indennita' accessorie alla retribuzione base, 
 
 Per provvedere alla corresponsione della integrazione di cui agli articoli precedenti e' istituita presso l'Istituto nazionale della previdenza sociale, la «Cassa per l'integrazione dei guadagni degli operai dell'industria». 
  
- La Cassa e' amministrata dall'Istituto predetto che vi provvedera' con i suoi organi centrali e periferici secondo le norme del [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito nella [legge 6 aprile 1936, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155).
+ La Cassa e' amministrata dall'Istituto predetto che vi provvedera' con i suoi organi centrali e periferici secondo le norme del [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md).
 
 ### Art. 7.
 
@@ -132,7 +132,7 @@ Le disposizioni di cui ai precedenti articoli si applicano alle imprese gia' sog
 
 ### Art. 15.
 
-Si osservano per le prestazioni ed i contributi previsti dal presente decreto, sempre che siano applicabili, le disposizioni del [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito, con modificazioni, nella [legge 6 aprile 1936, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155), sul perfezionamento e coordinamento legislativo della previdenza sociale, comprese quelle sui benefici, i privilegi e le esenzioni fiscali.
+Si osservano per le prestazioni ed i contributi previsti dal presente decreto, sempre che siano applicabili, le disposizioni del [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito, con modificazioni, nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md), sul perfezionamento e coordinamento legislativo della previdenza sociale, comprese quelle sui benefici, i privilegi e le esenzioni fiscali.
 
 ### Art. 16.
 
@@ -191,7 +191,7 @@ Ai lavoratori licenziati a termini dell'art. 20 compete:
 
 Fino al 31 dicembre 1945 le imprese industriali soggette al [decreto legislativo Luogotenenziale 21 agosto 1945, n. 523](Provvedimenti%20a%20favore%20dei%20lavoratori%20dellAlta%20Italia.%20045U0523.md), presso le quali si attui un orario superiore alle 40 ore settimanali dovranno ridurre la durata a tale limite, allo scopo di riassorbire i lavoratori disoccupati appartenenti alle categorie per le quali e' richiesto l'impiego di lavoro. 
  
- Fino al 31 dicembre 1945 e' rimesso in vigore per le imprese predette il [R. decreto-legge 29 maggio 1937, n. 1768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-05-29;1768), sulla riduzione della settimana lavorativa a 40 ore, convertito nella [legge 13 gennaio 1938, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-01-13;203). 
+ Fino al 31 dicembre 1945 e' rimesso in vigore per le imprese predette il [R. decreto-legge 29 maggio 1937, n. 1768](Riduzione%20della%20settimana%20lavorativa%20a%2040%20ore.%20037U1768.md), sulla riduzione della settimana lavorativa a 40 ore, convertito nella [legge 13 gennaio 1938, n. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20maggio%201937-XV%20n.%201768%20riguardante%20la%20riduzione%20della%20settimana%20lavorativa%20a%2040%20ore.%20038U0203.md). 
  
  Nelle assunzioni ai posti che si renderanno disponibili per effetto dell'applicazione della settimana lavorativa di 40 ore, deve essere data la precedenza ai partigiani riconosciuti come tali ai sensi delle disposizioni vigenti, ai reduci dai fronti di combattimento, dalla prigionia e dai campi di concentramento, alle vittime o perseguitati politici.
 
@@ -211,7 +211,7 @@ I contratti collettivi di lavoro 13 giugno 1941 e 29 luglio 1941, relativi alla 
  
  Le richieste di prestazioni da parte degli aventi diritto a carico della Cassa medesima, di rimborsi da parte dei datori di lavoro e di contributi da questi dovuti, che si riferiscono a periodi anteriori alla data di entrata in vigore del presente decreto, dovranno essere fatte sotto pena di decadenza entro sei mesi dalla data predetta. 
  
- E' abrogato il [R. decreto-legge 5 dicembre 1941, n. 1545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-12-05;1545), relativo alla concessione del premio straordinario di operosita' e di altri benefici ai lavoratori portuali.
+ E' abrogato il [R. decreto-legge 5 dicembre 1941, n. 1545](Concessione%20del%20premio%20straordinario%20di%20operosita%20ed%20altri%20benefici%20ai%20lavoratori%20portuali.%20041U1545.md), relativo alla concessione del premio straordinario di operosita' e di altri benefici ai lavoratori portuali.
 
 ### Art. 26.
 

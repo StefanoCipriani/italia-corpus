@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 21 dicembre 1931, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-12-21;1710), concernente l'indennita' supplementare agli ufficiali della Regia guardia di finanza;
+Vista la [legge 21 dicembre 1931, n. 1710](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20aggiunte%20del%20R.%20decreto-legge%2024%20luglio%201931%20n.%201223%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20031U1710.md), concernente l'indennita' supplementare agli ufficiali della Regia guardia di finanza;
 
 Visto il [R. decreto-legge 14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561), convertito in [legge 14 giugno 1934, n. 1038](Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20aprile%201934%20n.%20561%20recante%20riduzione%20degli%20stipendi%20ed%20altre%20competenze%20del%20personale%20dipendente%20dallo%20Stato%20e%20dagli%20Enti%20locali%20e%20parastatali.%20034U1038.md), concernente la riduzione degli stipendi ed altre competenze del personale dipendente dallo Stato e dagli enti locali e parastatali;
 
@@ -28,11 +28,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-La contribuzione dovuta alla Cassa ufficiali dagli ufficiali della Regia guardia di finanza cessati dal servizio permanente effettivo anteriormente al 16 aprile 1934 e ammessi a permanere nell'iscrizione alla Cassa a norma dell'art. 14-nonies della [legge 21 dicembre 1931, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-12-21;1710), e' stabilita nella stessa misura di quella che i medesimi ufficiali avrebbero dovuto versare dal 18 aprile 1934, se fossero rimasti in servizio permanente effettivo, senza fruire di aumenti di stipendio.
+La contribuzione dovuta alla Cassa ufficiali dagli ufficiali della Regia guardia di finanza cessati dal servizio permanente effettivo anteriormente al 16 aprile 1934 e ammessi a permanere nell'iscrizione alla Cassa a norma dell'art. 14-nonies della [legge 21 dicembre 1931, n. 1710](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20aggiunte%20del%20R.%20decreto-legge%2024%20luglio%201931%20n.%201223%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20031U1710.md), e' stabilita nella stessa misura di quella che i medesimi ufficiali avrebbero dovuto versare dal 18 aprile 1934, se fossero rimasti in servizio permanente effettivo, senza fruire di aumenti di stipendio.
 
 ## Art. 2.
 
-La contribuzione d'iscrizione dovuta dagli ufficiali della Regia guardia di finanza in aspettativa per riduzione di quadri prima del 16 aprile 1934, che si siano valsi della facolta' loro concessa dal [secondo comma dell'art. 14-septies della legge 21 dicembre 1931, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-12-21;1710#art_14septies-com2), e' stabilita nella stessa misura di quella che i medesimi ufficiali avrebbero dovuto versare a decorrere dal 16 aprile 1934, se fossero rimasti in servizio permanente effettivo, senza fruire di aumento di stipendio.
+La contribuzione d'iscrizione dovuta dagli ufficiali della Regia guardia di finanza in aspettativa per riduzione di quadri prima del 16 aprile 1934, che si siano valsi della facolta' loro concessa dal [secondo comma dell'art. 14-septies della legge 21 dicembre 1931, n. 1710](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20aggiunte%20del%20R.%20decreto-legge%2024%20luglio%201931%20n.%201223%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20031U1710.md), e' stabilita nella stessa misura di quella che i medesimi ufficiali avrebbero dovuto versare a decorrere dal 16 aprile 1934, se fossero rimasti in servizio permanente effettivo, senza fruire di aumento di stipendio.
 
 ## Art. 3.
 

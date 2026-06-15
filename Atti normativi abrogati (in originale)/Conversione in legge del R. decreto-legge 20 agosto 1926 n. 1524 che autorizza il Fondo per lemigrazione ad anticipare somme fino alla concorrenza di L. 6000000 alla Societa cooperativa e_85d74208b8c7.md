@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 agosto 1926, n. 1524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-20;1524), che autorizza il Fondo per l'emigrazione ad anticipare sugli avanzi di bilancio somme fino alla concorrenza di L. 6,000,000 alla Societa' cooperativa edilizia «Aurelia». 
+ E' convertito in legge il [R. decreto-legge 20 agosto 1926, n. 1524](Autorizzazione%20al%20Fondo%20per%20lemigrazione%20ad%20anticipare%20sugli%20avanzi%20di%20bilancio%20somme%20fino%20alla%20concorrenza%20di%20L.%206000000%20alla%20Societa%20cooperativa%20edilizia%20%20Aurelia%20.%20026U1524.md), che autorizza il Fondo per l'emigrazione ad anticipare sugli avanzi di bilancio somme fino alla concorrenza di L. 6,000,000 alla Societa' cooperativa edilizia «Aurelia». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

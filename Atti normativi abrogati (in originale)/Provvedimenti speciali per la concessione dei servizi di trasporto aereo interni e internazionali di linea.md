@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 29 settembre 1931, numero 1207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-29;1207), convertito nella [legge 11 gennaio 1932, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-01-11;18), ed i provvedimenti legislativi successivi sulla disciplina del commercio dei cambi ;
+Visto il [regio decreto-legge 29 settembre 1931, numero 1207](Autorizzazione%20al%20Ministro%20per%20le%20finanze%20ad%20emanare%20norme%20per%20la%20disciplina%20del%20commercio%20dei%20cambi.%20031U1207.md), convertito nella [legge 11 gennaio 1932, n. 18](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20settembre%201931%20n.%201207%20che%20autorizza%20il%20Ministro%20per%20le%20finanze%20ad%20emanare%20norme%20per%20la%20disciplina%20del%20commercio%20dei%20cambi.%20032U0018.md), ed i provvedimenti legislativi successivi sulla disciplina del commercio dei cambi ;
 
-Viste le disposizioni del [Codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), approvato con il [regio decreto 30 marzo 1942, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), sulle concessioni dei trasporti aerei di linea;
+Viste le disposizioni del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con il [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), sulle concessioni dei trasporti aerei di linea;
 
 Visto il [regio decreto 24 luglio 1942, n. 807](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;807), sugli investimenti di capitale straniero in Italia;
 
@@ -27,7 +27,7 @@ E' autorizzata la partecipazione dello Stato o dell' Istituto per la Ricostruzio
 
 ## Art. 2.
 
-Le persone fisiche e giuridiche straniere possono partecipare alla sottoscrizione del capitale delle societa' per una parte non eccedente il 40% del capitale stesso e degli eventuali suoi successivi aumenti, nonche' al finanziamento occorrente per l'attuazione dello scopo sociale, senza essere tenute all'osservanza delle disposizioni del [regio decreto-legge 24 luglio 1942, numero 807](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-07-24;807).
+Le persone fisiche e giuridiche straniere possono partecipare alla sottoscrizione del capitale delle societa' per una parte non eccedente il 40% del capitale stesso e degli eventuali suoi successivi aumenti, nonche' al finanziamento occorrente per l'attuazione dello scopo sociale, senza essere tenute all'osservanza delle disposizioni del [regio decreto-legge 24 luglio 1942, numero 807](Investimenti%20di%20capitale%20straniero%20in%20Italia.%20042U0807.md).
 
 ## Art. 3.
 

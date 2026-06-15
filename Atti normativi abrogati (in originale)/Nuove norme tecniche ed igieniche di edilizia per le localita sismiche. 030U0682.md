@@ -1429,7 +1429,7 @@ dalla [legge 20 giugno 1909,
 numero 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md), dalla [legge 23 giugno
 1912, n. 688](Portante%20modificazioni%20alla%20legge%2020%20giugno%201909%20n.%20364%20per%20le%20antichita%20e%20belle%20arti.%20012U0688.md), dal regolamento
 approvato con il [Regio decreto 30
-gennaio 1913, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-30;363), e dalla
+gennaio 1913, n. 363](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), e dalla
 [legge 11 giugno 1922, n. 778](Per%20la%20tutela%20delle%20bellezze%20naturali%20e%20degli%20immobili%20di%20particolare%20interesse%20storico.%20022U0778.md).
 
 Art. 40. Fondazioni lesionate o Art. 39. Fondazioni lesionate o

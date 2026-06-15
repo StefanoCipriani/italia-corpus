@@ -24,7 +24,7 @@ Sulla proposta del Guardasigilli Ministro Segretario di Stato per la giustizia e
 
 ## Art. 1.
 
-La Commissione indicata nell'[art. 4 del R. decreto 24 settembre 1923, n. 2160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2160#art_4), sara' costituita di un magistrato di grado non inferiore a consigliere di Corte di cassazione, che la presiede, dal consigliere di Cassazione con funzioni di direttore generale, capo dell'ufficio personale presso il Ministero della giustizia e da un consigliere di Corte di appello. 
+La Commissione indicata nell'[art. 4 del R. decreto 24 settembre 1923, n. 2160](Sistemazione%20del%20personale%20in%20servizio%20nelle%20cancellerie%20degli%20uffici%20giudiziari%20delle%20nuove%20province.%20023U2160.md), sara' costituita di un magistrato di grado non inferiore a consigliere di Corte di cassazione, che la presiede, dal consigliere di Cassazione con funzioni di direttore generale, capo dell'ufficio personale presso il Ministero della giustizia e da un consigliere di Corte di appello. 
  
  Adempiranno le funzioni di segretari due magistrati trattenuti al Ministero con le funzioni amministrative.
 

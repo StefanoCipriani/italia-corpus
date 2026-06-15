@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduta la [legge 22 dicembre 1901, n. 541](Che%20approva%20la%20Convenzione%20pel%20pareggiamento%20della%20R.%20Universita%20di%20Macerata%20alle%20altre%20di%201%20grado.%20001U0541.md);
 
-Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 9 agosto 1910, numero 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795);
+Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 9 agosto 1910, numero 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
 
 Udito il Consiglio dei ministri;
 
@@ -24,13 +24,13 @@ Sulla proposta del Nostro ministro segretario di Stato per la istruzione pubblic
 
 ## Art. 1.
 
-E' approvata e resa esecutoria l'annessa convenzione per il pareggiamento della R. Universita' degli studi di Macerata alle altre Universita' indicate nell'art. 12 del testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 9 agosto 1910, numero 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795), convenzione conclusa fra il Ministero della istruzione pubblica e i rappresentanti del Consiglio provinciale e del Consiglio comunale, nonche' del Consorzio universitario di Macerata, in conformita' delle deliberazioni 3 dicembre 1917 della Deputazione provinciale, 15 dicembre 1917 del Consiglio comunale, e 30 novembre 1917 della Commissione amministrativa del Consorzio. 
+E' approvata e resa esecutoria l'annessa convenzione per il pareggiamento della R. Universita' degli studi di Macerata alle altre Universita' indicate nell'art. 12 del testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 9 agosto 1910, numero 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), convenzione conclusa fra il Ministero della istruzione pubblica e i rappresentanti del Consiglio provinciale e del Consiglio comunale, nonche' del Consorzio universitario di Macerata, in conformita' delle deliberazioni 3 dicembre 1917 della Deputazione provinciale, 15 dicembre 1917 del Consiglio comunale, e 30 novembre 1917 della Commissione amministrativa del Consorzio. 
  
  S'intende per conseguenza abrogata la convenzione approvata con la [legge 22 dicembre 1901, n. 541](Che%20approva%20la%20Convenzione%20pel%20pareggiamento%20della%20R.%20Universita%20di%20Macerata%20alle%20altre%20di%201%20grado.%20001U0541.md), ed abolito il ruolo organico del personale insegnante, amministrativo e di servizio della Regia Universita' di Macerata, annesso alla convenzione stessa.
 
 ## Art. 2.
 
-All'art. 118 del testo unico delle leggi sulla istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795) e' sostituito il seguente: 
+All'art. 118 del testo unico delle leggi sulla istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md) e' sostituito il seguente: 
  
  «Art. 118. - Restano ferme le leggi speciali riguardanti gli Istituti di istruzione superiore».
 
@@ -38,7 +38,7 @@ All'art. 118 del testo unico delle leggi sulla istruzione superiore approvato co
 
 Alla tabella A annessa al citato testo unico sulla istruzione superiore, e' soppressa la nota (a). 
  
- E' soppresso altresi' l'ultimo capoverso dell'art. 44 del regolamento generale universitario col [R. decreto 9 agosto 1910, n. 796](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;796).
+ E' soppresso altresi' l'ultimo capoverso dell'art. 44 del regolamento generale universitario col [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md).
 
 ## Art. 4.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 maggio 1932, n. 533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-05-19;533), che concede l'esonero dalla imposta sull'energia elettrica consumata a bordo delle navi. 
+ E' convertito in legge il [R. decreto-legge 19 maggio 1932, n. 533](Esonero%20dallimposta%20sulla%20energia%20elettrica%20consumata%20a%20bordo%20delle%20navi.%20032U0533.md), che concede l'esonero dalla imposta sull'energia elettrica consumata a bordo delle navi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

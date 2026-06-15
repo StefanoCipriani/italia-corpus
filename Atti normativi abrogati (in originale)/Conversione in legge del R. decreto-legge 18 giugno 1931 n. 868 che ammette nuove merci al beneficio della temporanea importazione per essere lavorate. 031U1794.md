@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 giugno 1931, n. 868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-18;868), concernente nuove concessioni in materia di temporanee importazioni. 
+ E' convertito in legge il [R. decreto-legge 18 giugno 1931, n. 868](Nuove%20concessioni%20di%20temporanea%20importazione.%20031U0868.md), concernente nuove concessioni in materia di temporanee importazioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

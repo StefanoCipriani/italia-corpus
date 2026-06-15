@@ -47,7 +47,7 @@ In via transitoria, gli ufficiali dell'Esercito che abbiano gia' prestato serviz
 
 ## Art. 7.
 
-E' abrogato il [regio decreto-legge 27 giugno 1935, numero 1276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-27;1276), convertito in legge con la [legge 6 gennaio 1936, n. 89](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20giugno%201935-XIII%20n.%201276%20concernente%20il%20reclutamento%20dei%20commissari%20di%20leva.%20036U0089.md).
+E' abrogato il [regio decreto-legge 27 giugno 1935, numero 1276](Reclutamento%20dei%20commissari%20di%20leva.%20035U1276.md), convertito in legge con la [legge 6 gennaio 1936, n. 89](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20giugno%201935-XIII%20n.%201276%20concernente%20il%20reclutamento%20dei%20commissari%20di%20leva.%20036U0089.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

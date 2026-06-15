@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77);
 
-Visto il [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616);
+Visto il [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md);
 
-Visto il [decreto-legge 18 agosto 1978, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-08-18;481), convertito, con modificazioni, nella [legge 21 ottobre 1978, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-10-21;641);
+Visto il [decreto-legge 18 agosto 1978, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-08-18;481), convertito, con modificazioni, nella [legge 21 ottobre 1978, n. 641](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20agosto%201978%20n.%20481%20concernente%20fissazione%20al%201%20gennaio%201979%20del%20termine%20previsto%20dallarticolo%20113%20decimo%20comma%20del%20decreto%20del%20_6d42d55be19b.md);
 
 Ritenuta la necessita' e l'urgenza di provvedere alla fissazione di un nuovo termine per il trasferimento ai comuni singoli o associati delle funzioni, del personale e dei beni delle istituzioni pubbliche di assistenza e beneficenza operanti nell'ambito regionale, in attesa dell'approvazione da parte del Parlamento del disegno di legge di riforma dell'assistenza pubblica;
 
@@ -26,11 +26,11 @@ Sulla proposta del Presidente del Consiglio dei Ministri; Decreta:
 
 ## Art. 1.
 
-Il termine di cui al [quinto comma dell'art. 25 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_25-com5), e' prorogato al 31 marzo 1979.
+Il termine di cui al [quinto comma dell'art. 25 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), e' prorogato al 31 marzo 1979.
 
 ## Art. 2.
 
-Il termine di cui al [primo comma dell'art. 3 del decreto-legge 18 agosto 1978, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-08-18;481#art_3-com1), convertito, con modificazioni, nella [legge 21 ottobre 1978, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-10-21;641), e' prorogato al 31 marzo 1979 per le istituzioni pubbliche di assistenza e beneficenza non comprese nell'elenco di cui al [sesto comma dell'art. 25 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_25-com6) (nonche' per la disciolta Amministrazione per le attivita' assistenziali italiane ed internazionali).
+Il termine di cui al [primo comma dell'art. 3 del decreto-legge 18 agosto 1978, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-08-18;481#art_3-com1), convertito, con modificazioni, nella [legge 21 ottobre 1978, n. 641](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20agosto%201978%20n.%20481%20concernente%20fissazione%20al%201%20gennaio%201979%20del%20termine%20previsto%20dallarticolo%20113%20decimo%20comma%20del%20decreto%20del%20_6d42d55be19b.md), e' prorogato al 31 marzo 1979 per le istituzioni pubbliche di assistenza e beneficenza non comprese nell'elenco di cui al [sesto comma dell'art. 25 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md) (nonche' per la disciolta Amministrazione per le attivita' assistenziali italiane ed internazionali).
 
 ## Art. 3.
 

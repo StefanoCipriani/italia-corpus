@@ -118,7 +118,7 @@ La spesa di cui alla lettera k dell'art. 1, insieme colla somma rimasta da stanz
 
 ## Art. 11.
 
-Per il completamento e la costruzione delle nuove strade nazionali delle provincie calabresi, descritte nell'annessa tabella E, redatta in conformita' del [R. Decreto 3 maggio 1909, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-05-03;252), per l'ammontare di L. 9,000,000, e' autorizzata l'inversione dei fondi gia' concessi dalla [legge 25 giugno 1906, n. 255](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), e da leggi precedenti nel modo che segue: 
+Per il completamento e la costruzione delle nuove strade nazionali delle provincie calabresi, descritte nell'annessa tabella E, redatta in conformita' del [R. Decreto 3 maggio 1909, n. 252](Concernente%20il%20passaggio%20fra%20le%20nazionali%20di%20strade%20provinciali%20delle%20Calabrie.%20009U0252.md), per l'ammontare di L. 9,000,000, e' autorizzata l'inversione dei fondi gia' concessi dalla [legge 25 giugno 1906, n. 255](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), e da leggi precedenti nel modo che segue: 
  
  per L. 8,850,000 la spesa gravera' sui fondi di cui al n. 1 della tabella a, allegata alla [legge 19 giugno 1907, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-19;549), per le costruzioni di strade nazionali e provinciali delle provincie calabresi; 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1756](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1756), contenente norme integrative della [legge 23 giugno 1927, n. 1272](Provvedimento%20relativo%20alla%20istituzione%20di%20un%20marchio%20nazionale%20per%20i%20prodotti%20ortifrutticoli%20diretti%20allestero.%20027U1272.md), che istituisce il marchio nazionale per l'esportazione per i prodotti ortofrutticoli diretti all'estero. 
+ E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1756](Norme%20integrative%20della%20legge%2023%20giugno%201927%20n.%201272%20sulla%20istituzione%20di%20un%20marchio%20nazionale%20per%20i%20prodotti%20ortofrutticoli%20diretti%20allestero.%20027U1756.md), contenente norme integrative della [legge 23 giugno 1927, n. 1272](Provvedimento%20relativo%20alla%20istituzione%20di%20un%20marchio%20nazionale%20per%20i%20prodotti%20ortifrutticoli%20diretti%20allestero.%20027U1272.md), che istituisce il marchio nazionale per l'esportazione per i prodotti ortofrutticoli diretti all'estero. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

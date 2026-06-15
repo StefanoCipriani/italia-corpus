@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'ultima parte dell'articolo 11 delle disposizioni preliminari alla tariffa doganale, approvate in testo unico col [R. decreto 24 novembre 1895, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-11-24;679), e' modificata, per quanto si riferisce ai velocipedi, nel modo seguente: 
+ L'ultima parte dell'articolo 11 delle disposizioni preliminari alla tariffa doganale, approvate in testo unico col [R. decreto 24 novembre 1895, n. 679](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20preliminari%20alla%20tariffa%20e%20quello%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20095U0679.md), e' modificata, per quanto si riferisce ai velocipedi, nel modo seguente: 
  
  «Per i velocipedi dev'essere prestata cauzione per l'ammontare del dazio. 
  

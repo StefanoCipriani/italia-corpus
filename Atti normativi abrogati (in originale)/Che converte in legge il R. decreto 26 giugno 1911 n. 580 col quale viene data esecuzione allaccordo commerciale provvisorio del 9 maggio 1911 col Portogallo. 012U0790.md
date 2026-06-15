@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 26 giugno 1911, n. 580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-06-26;580), col quale e' stata data piena e intera esecuzione all'accordo commerciale provvisorio fra l'Italia e il Portogallo, stipulato a Lisbona il 9 maggio 1911. 
+ E' convertito in legge il [R. decreto 26 giugno 1911, n. 580](Che%20da%20piena%20ed%20intera%20esecuzione%20allaccordo%20provvisorio%20di%20commercio%20dogana%20e%20navigazione%20fra%20lItalia%20e%20il%20Portogallo%20011U0580.md), col quale e' stata data piena e intera esecuzione all'accordo commerciale provvisorio fra l'Italia e il Portogallo, stipulato a Lisbona il 9 maggio 1911. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

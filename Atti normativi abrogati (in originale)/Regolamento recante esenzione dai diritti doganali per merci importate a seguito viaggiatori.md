@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto l'art. 14, n. 3), punto II, delle disposizioni preliminari alla tariffa dei dazi doganali d'importazione, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-26;723), e successive modificazioni, apportate, da ultimo, con [decreto del Presidente della Repubblica 5 agosto 1981, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-08-05;499), che stabilisce le norme relative alla importazione in franchigia delle merci a seguito viaggiatori;
+Visto l'art. 14, n. 3), punto II, delle disposizioni preliminari alla tariffa dei dazi doganali d'importazione, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](../DPR/Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md), e successive modificazioni, apportate, da ultimo, con [decreto del Presidente della Repubblica 5 agosto 1981, n. 499](../DPR/Norme%20correttive%20ed%20integrative%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale%20nonche%20modificazioni%20alle%20disposizioni%20preliminari%20alla%20tariffa%20dei%20dazi%20doganali%20di%20imp_b8c204042176.md), che stabilisce le norme relative alla importazione in franchigia delle merci a seguito viaggiatori;
 
 Ritenuta la necessita' di adottare ai sensi del terzo comma del suddetto art. 14, n. 3), punto II, le disposizioni intese ad assicurare l'applicazione delle norme suddette in conformita' delle condizioni e dei limiti stabiliti con il regolamento CEE n. 1315/88 del Consiglio del 3 maggio 1988 anche sotto l'aspetto fiscale;
 
@@ -32,7 +32,7 @@ Sono ammesse alla esenzione dai diritti doganali, ai sensi dell'art. 14, n. 3), 
 
 2.
 
-Tale limite e' elevato a 390 unita' di conto europee per gli oggetti e i generi che soddisfano alle condizioni di cui agli articoli 9 e 10 del trattato che istituisce la Comunita' economica europea, ratificato con [legge 14 ottobre 1957, n. 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-14;1203).
+Tale limite e' elevato a 390 unita' di conto europee per gli oggetti e i generi che soddisfano alle condizioni di cui agli articoli 9 e 10 del trattato che istituisce la Comunita' economica europea, ratificato con [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md).
 
 3.
 
@@ -102,7 +102,7 @@ I viaggiatori di eta' inferiore a diciassette anni sono esclusi  dalla esenzione
 Il valore dei generi compresi nei quantitativi di cui sopra non va calcolato agli effetti della determinazione del valore globale degli oggetti da ammettere in esenzione.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - La [direttiva CEE n. 88/664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;664) e' stata pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. L 382 del 31 dicembre 1988 e ripubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 18 del 2 marzo 1989, 2a serie speciale.

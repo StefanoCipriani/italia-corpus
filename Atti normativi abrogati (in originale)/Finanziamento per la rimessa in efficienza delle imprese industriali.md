@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-01;367);
+Visto il [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 8 maggio 1946, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;449);
+Visto il [decreto legislativo luogotenenziale 8 maggio 1946, n. 449](../Decreti%20legislativi%20luogotenenziali/Finanziamenti%20per%20il%20ripristino%20e%20la%20riconversione%20di%20imprese%20industriali%20di%20interesse%20generale%20o%20di%20particolare%20utilita%20economica%20e%20sociale.md);
 
 Visto il [decreto legislativo luogotenenziale 2 giugno 1946, n. 524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-06-02;524);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1946-06-19;1);
 
@@ -28,11 +28,11 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per il t
 
 ## Art. 1.
 
-E' elevato a 25 miliardi di lire l'ammontare delle anticipazioni autorizzate con [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-01;367) e successive modificazioni ed aggiunte, a favore di imprese industriale da parte di istituti di credito di diritto pubblico e di enti di diritto pubblico esercenti il credito mobiliare.
+E' elevato a 25 miliardi di lire l'ammontare delle anticipazioni autorizzate con [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md) e successive modificazioni ed aggiunte, a favore di imprese industriale da parte di istituti di credito di diritto pubblico e di enti di diritto pubblico esercenti il credito mobiliare.
 
 ## Art. 2.
 
-L'ammontare dei finanziamenti autorizzati con il [decreto legislativo luogotenenziale 8 maggio 1946, numero 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;449) e con il [decreto legislativo luogotenenziale 2 giugno 1946, n. 524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-06-02;524), e' elevato a 13 miliardi di lire.
+L'ammontare dei finanziamenti autorizzati con il [decreto legislativo luogotenenziale 8 maggio 1946, numero 449](../Decreti%20legislativi%20luogotenenziali/Finanziamenti%20per%20il%20ripristino%20e%20la%20riconversione%20di%20imprese%20industriali%20di%20interesse%20generale%20o%20di%20particolare%20utilita%20economica%20e%20sociale.md) e con il [decreto legislativo luogotenenziale 2 giugno 1946, n. 524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-06-02;524), e' elevato a 13 miliardi di lire.
 
 ## Art. 3.
 

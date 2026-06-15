@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- A decorrere dal 1° luglio 1917, nei ruoli organici di cui nella tabella D, approvata con la [legge 5 giugno 1913, n. 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-05;541), e' aumentato un posto di ufficiale doganale di 1ª categoria di prima classe, con lo stipendio annuo di lire quattromila. 
+ A decorrere dal 1° luglio 1917, nei ruoli organici di cui nella tabella D, approvata con la [legge 5 giugno 1913, n. 541](Che%20approva%20modificazioni%20ai%20ruoli%20organici%20del%20personale%20dellAmministrazione%20esterna%20delle%20gabelle%20degli%20uffici%20tecnici%20di%20finanza%20del%20personale%20tecnico%20ed%20amministrativo%20degli%20stabilime_df0a6fc0f2f8.md), e' aumentato un posto di ufficiale doganale di 1ª categoria di prima classe, con lo stipendio annuo di lire quattromila. 
  
  L'onere della relativa spesa fara' carico al Ministero delle colonie. 
  

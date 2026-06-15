@@ -22,7 +22,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-(1) Il [terzo comma dell'articolo 10 del decreto-legge 23 gennaio 1982, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-23;9#art_10-com3), convertito, con modificazioni, nella [legge 25 marzo 1982, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-25;94), e' sostituito dal seguente:
+(1) Il [terzo comma dell'articolo 10 del decreto-legge 23 gennaio 1982, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-23;9#art_10-com3), convertito, con modificazioni, nella [legge 25 marzo 1982, n. 94](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201982%20n.%209%20concernente%20norme%20per%20ledilizia%20residenziale%20e%20provvidenze%20in%20materia%20di%20sfratti.md), e' sostituito dal seguente:
  "Le disposizioni di cui al comma precedente si applicano anche ai conduttori nei cui confronti sia emesso un provvedimento esecutivo di rilascio relativo ad un contratto avente scadenza non successiva al 31 dicembre 1983".
  (2) Il quarto comma dell'articolo 14 del medesimo decreto-legge e' sostituito dal seguente:
  "Le disposizioni di cui al comma precedente si applicano, anche oltre il termine di cui al primo comma dell'articolo 13, ai conduttori nei cui confronti sia emesso un provvedimento esecutivo di rilascio relativo ad un contratto avente scadenza non successiva al 31 dicembre 1983".

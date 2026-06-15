@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 aprile 1929, numero 1201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-04-08;1201), riflettente la modifica dell'art. 10 della legge organica per la Tripolitania e la Cirenaica. 
+ E' convertito in legge il [R. decreto-legge 8 aprile 1929, numero 1201](Modifica%20dellart.%2010%20della%20legge%20organica%20per%20lamministrazione%20della%20Tripolitania%20e%20della%20Cirenaica.%20029U1201.md), riflettente la modifica dell'art. 10 della legge organica per la Tripolitania e la Cirenaica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia incerta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

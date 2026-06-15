@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 maggio 1926, n. 891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;891), che stabilisce la competenza della Commissione arbitrale per la risoluzione delle controversie derivanti da requisizioni, noleggi, ecc., delle navi. 
+ E' convertito in legge il [R. decreto-legge 16 maggio 1926, n. 891](Competenza%20della%20Commissione%20arbitrale%20per%20la%20risoluzione%20delle%20controversie%20derivanti%20da%20requisizione%20sequestri%20noleggi%20assicurazioni%20e%20riassicurazioni%20di%20navi%20e%20di%20merci.%20026U0891.md), che stabilisce la competenza della Commissione arbitrale per la risoluzione delle controversie derivanti da requisizioni, noleggi, ecc., delle navi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

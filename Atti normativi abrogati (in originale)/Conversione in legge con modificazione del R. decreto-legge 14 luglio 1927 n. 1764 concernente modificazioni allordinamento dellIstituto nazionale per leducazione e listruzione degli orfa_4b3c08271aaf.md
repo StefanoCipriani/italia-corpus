@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 luglio 1927, n. 1764](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-14;1764), concernente modificazioni all'ordinamento dell'Istituto nazionale per l'educazione e l'istruzione degli orfani dei maestri elementari, con la seguente variazione all'art. 3, comma 2°: 
+ E' convertito in legge il [R. decreto-legge 14 luglio 1927, n. 1764](Modificazioni%20allordinamento%20dellIstituto%20nazionale%20per%20leducazione%20e%20listruzione%20degli%20orfani%20dei%20maestri%20elementari.%20027U1764.md), concernente modificazioni all'ordinamento dell'Istituto nazionale per l'educazione e l'istruzione degli orfani dei maestri elementari, con la seguente variazione all'art. 3, comma 2°: 
  
  «Se prima di raggiungere tale eta' gli orfani beneficati siano stati o debbano essere iscritti ad un corso di studi superiori, ivi compresi quelli delle scuole fasciste di magistero per l'educazione fisica, il godimento del beneficio loro conferito potra' essere prorogato fino al compimento del corso medesimo, ma in nessun caso oltre il 23° anno di eta'. Tale proroga e' subordinata al profitto che essi dimostrano di ritrarre dagli studi». 
  

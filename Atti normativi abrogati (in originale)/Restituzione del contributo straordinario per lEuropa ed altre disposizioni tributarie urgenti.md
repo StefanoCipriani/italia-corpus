@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 3, comma 194, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com194), che ha istituito il contributo straordinario per l'Europa, al fine di adeguare i conti pubblici dello Stato ai parametri previsti dal Trattato di Maastricht;
+Visto l'[articolo 3, comma 194, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), che ha istituito il contributo straordinario per l'Europa, al fine di adeguare i conti pubblici dello Stato ai parametri previsti dal Trattato di Maastricht;
 
 Considerato l'impegno assunto dal Governo alla restituzione del sessanta per cento del predetto contributo entro la fine del corrente anno;
 
@@ -34,7 +34,7 @@ A ciascun contribuente e' restituito un importo pari al 60 per cento del contrib
 
 2.
 
-Per i contribuenti titolari di partita IVA, la restituzione e' effettuata mediante compensazione di cui all'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_17), con i versamenti da eseguire a decorrere dal mese di gennaio 1999.
+Per i contribuenti titolari di partita IVA, la restituzione e' effettuata mediante compensazione di cui all'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), con i versamenti da eseguire a decorrere dal mese di gennaio 1999.
 
 3.
 
@@ -56,7 +56,7 @@ I contribuenti che non possono utilizzare in diminuzione l'ammontare di cui al c
 
 1.
 
-In deroga a quanto previsto dall'[articolo 8 del decreto-legge 28 marzo 1997, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79#art_8), convertito, con modificazioni, dalla [legge 28 maggio 1997, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-28;140), i crediti contributivi, ivi compresi gli accessori per interessi e le sanzioni, vantati dall'Istituto nazionale della previdenza sociale (INPS), gia' maturati e quelli che matureranno sino alla data della cessione di cui al comma 15, sono ceduti a titolo oneroso, in massa, anche al fine di rendere piu' celere la riscossione, al valore netto risultante dai bilanci e dai rendiconti dell'Istituto.
+In deroga a quanto previsto dall'[articolo 8 del decreto-legge 28 marzo 1997, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79#art_8), convertito, con modificazioni, dalla [legge 28 maggio 1997, n. 140](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20marzo%201997%20n.%2079%20recante%20misure%20urgenti%20per%20il%20riequilibrio%20della%20finanza%20pubblica.md), i crediti contributivi, ivi compresi gli accessori per interessi e le sanzioni, vantati dall'Istituto nazionale della previdenza sociale (INPS), gia' maturati e quelli che matureranno sino alla data della cessione di cui al comma 15, sono ceduti a titolo oneroso, in massa, anche al fine di rendere piu' celere la riscossione, al valore netto risultante dai bilanci e dai rendiconti dell'Istituto.
 
 2.
 
@@ -85,7 +85,7 @@ I concessionari provvedono alla riscossione coattiva dei ruoli ai sensi del [dec
 
 8.
 
-La cessione dei crediti di cui al presente articolo costituisce successione a titolo particolare nel diritto ceduto. Nei procedimenti civili di cognizione e di esecuzione, pendenti alla data della cessione, si applica l'[articolo 111, commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_111-com1) e [quarto, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_111-com4). Il cessionario puo' intervenire in tali procedimenti ma non puo' essere chiamato in causa, fermo restando che l'INPS non puo' in ogni caso essere estromesso. Qualora, successivamente alla trasmissione dei ruoli di cui al comma 6, i debitori promuovano, avverso il ruolo, giudizi di merito e di opposizione all'esecuzione ai sensi dell'[articolo 2, commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_2-com4) e [6, del decreto-legge 9 ottobre 1989, n. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_2-com6), convertito, con modificazioni, dalla [legge 7 dicembre 1989, n. 389](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-07;389), sussiste litisconsorzio necessario nel lato passivo tra l'INPS ed il cessionario.
+La cessione dei crediti di cui al presente articolo costituisce successione a titolo particolare nel diritto ceduto. Nei procedimenti civili di cognizione e di esecuzione, pendenti alla data della cessione, si applica l'[articolo 111, commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_111-com1) e [quarto, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_111-com4). Il cessionario puo' intervenire in tali procedimenti ma non puo' essere chiamato in causa, fermo restando che l'INPS non puo' in ogni caso essere estromesso. Qualora, successivamente alla trasmissione dei ruoli di cui al comma 6, i debitori promuovano, avverso il ruolo, giudizi di merito e di opposizione all'esecuzione ai sensi dell'[articolo 2, commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_2-com4) e [6, del decreto-legge 9 ottobre 1989, n. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_2-com6), convertito, con modificazioni, dalla [legge 7 dicembre 1989, n. 389](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20ottobre%201989%20n.%20338%20recante%20disposizioni%20urgenti%20in%20materia%20di%20evasione%20contributiva%20di%20fiscalizzazione%20degli%20oneri%20sociali%20di%20s_803fd82e1fcd.md), sussiste litisconsorzio necessario nel lato passivo tra l'INPS ed il cessionario.
 
 9.
 
@@ -132,7 +132,7 @@ La cessione, al momento del trasferimento del credito, produce la liberazione de
 
 1.
 
-Nell'articolo 31, comma 1, riguardante il primo acconto dell'imposta, del [decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446), come modificato, da ultimo, dal [decreto legislativo 10 aprile 1998, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-10;137), e' aggiunto, in fine, il seguente periodo: "Gli omessi o insufficienti versamenti dell'imposta relativi al primo periodo di applicazione della stessa, i cui termini sono scaduti alla data del 30 ottobre 1998, possono essere regolarizzati entro il termine di scadenza del primo versamento dell'imposta da effettuare successivamente alla predetta data applicando gli interessi calcolati al tasso legale con maturazione giorno per giorno.".
+Nell'articolo 31, comma 1, riguardante il primo acconto dell'imposta, del [decreto legislativo 15 dicembre 1997, n. 446](../Decreti%20Legislativi/Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), come modificato, da ultimo, dal [decreto legislativo 10 aprile 1998, n. 137](../Decreti%20Legislativi/Disposizioni%20correttive%20del%20decreto%20legislativo%2015%20dicembre%201997%20n.%20446%20concernente%20listituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20la%20revisione%20degli%20scaglioni%20delle%20aliquot_f739155553d2.md), e' aggiunto, in fine, il seguente periodo: "Gli omessi o insufficienti versamenti dell'imposta relativi al primo periodo di applicazione della stessa, i cui termini sono scaduti alla data del 30 ottobre 1998, possono essere regolarizzati entro il termine di scadenza del primo versamento dell'imposta da effettuare successivamente alla predetta data applicando gli interessi calcolati al tasso legale con maturazione giorno per giorno.".
 
 ## Art. 4. — Copertura finanziaria
 

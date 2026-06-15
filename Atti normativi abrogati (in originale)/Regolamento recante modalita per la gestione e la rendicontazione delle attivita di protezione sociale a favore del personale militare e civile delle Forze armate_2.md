@@ -18,9 +18,9 @@ E DELLA PROGRAMMAZIONE ECONOMICA
 
 Vista la [legge 23 dicembre 1993, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-23;559), sulla disciplina della soppressione delle gestioni fuori bilancio nell'ambito dell'Amministrazione dello Stato, con particolare riferimento all'articolo 5 che disciplina gli interventi di protezione sociale a favore del personale militare e civile delle Forze armate e dei loro familiari;
 
-Visto il [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;367), che approva il regolamento recante semplificazioni ed accelerazioni delle procedure di spesa e contabili;
+Visto il [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md), che approva il regolamento recante semplificazioni ed accelerazioni delle procedure di spesa e contabili;
 
-Visto il [decreto-legge 8 agosto 1996, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-08;437), convertito con [legge 24 ottobre 1996, n. 556, che, all'articolo 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556#art_9), nell'ambito della disciplina delle gestioni fuori bilancio, prevede l'esercizio diretto a cura dell'amministrazione di attivita' di protezione sociale;
+Visto il [decreto-legge 8 agosto 1996, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-08;437), convertito con [legge 24 ottobre 1996, n. 556, che, all'articolo 9](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md), nell'ambito della disciplina delle gestioni fuori bilancio, prevede l'esercizio diretto a cura dell'amministrazione di attivita' di protezione sociale;
 
 Visto il proprio decreto, di concerto con il Ministro del tesoro, in pari data, con il quale e' stato adottato il regolamento recante la nuova disciplina delle attivita' di protezione sociale:
 
@@ -30,7 +30,7 @@ Visto l'articolo 17, commi 3 e 4 della legge 23 agosto 1988, n.
 
 400;
 
-Vista la [legge 3 aprile 1997, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-04-03;94), recante nuove norme di contabilita' generale dello Stato in materia di bilancio;
+Vista la [legge 3 aprile 1997, n. 94](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20alla%20legge%205%20agosto%201978%20n.%20468%20e%20successive%20modificazioni%20e%20integrazioni%20recante%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.%20Delega%20al%20Governo%20per%20lindivi_b9445023eb1c.md), recante nuove norme di contabilita' generale dello Stato in materia di bilancio;
 
 Visto il [decreto legislativo 16 luglio 1997, n. 264 che all'articolo 8](Riorganizzazione%20dellarea%20centrale%20del%20Ministero%20della%20difesa%20a%20norma%20dellarticolo%201%20comma%201%20lettera%20b%20della%20legge%2028%20dicembre%201995%20n.%20549.md) devolve all'ufficio del segretario generale le attribuzioni della soppressa Direzione generale delle provvidenze per il personale, previste all'[articolo 30 del decreto del Presidente della Repubblica 18 novembre 1965, n. 1478](Riorganizzazione%20degli%20uffici%20centrali%20del%20Ministero%20della%20difesa.md), in materia di attivita' assistenziali, culturali e ricreative del personale militare e civile comunque dipendente dal Ministero della difesa e di quello cessato dal servizio nonche' delle famiglie del personale stesso;
 
@@ -81,10 +81,10 @@ Note all'art. 2:
 
 1.
 
-Gli oneri derivanti dalla gestione diretta, connessi con la fruizione dei servizi resi dagli organismi di protezione sociale, fatti salvi gli apporti di cui all'articolo 3 del regolamento adottato con il proprio decreto, di concerto con il Ministro del tesoro, in pari data, sono a totale carico degli utenti e devono essere corrisposti di volta in volta a fronte del servizio reso. Tali oneri costituiscono contribuzioni da riassegnare ai sensi del [secondo comma dell'articolo 9 del decreto-legge 8 agosto 1996, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-08;437#art_9-com2), convertito con [legge 24 ottobre 1996, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556), soggette a periodico adeguamento in base alle risultanze di un'apposita contabilita' istituita per le spese anticipate dall'amministrazione.
+Gli oneri derivanti dalla gestione diretta, connessi con la fruizione dei servizi resi dagli organismi di protezione sociale, fatti salvi gli apporti di cui all'articolo 3 del regolamento adottato con il proprio decreto, di concerto con il Ministro del tesoro, in pari data, sono a totale carico degli utenti e devono essere corrisposti di volta in volta a fronte del servizio reso. Tali oneri costituiscono contribuzioni da riassegnare ai sensi del [secondo comma dell'articolo 9 del decreto-legge 8 agosto 1996, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-08;437#art_9-com2), convertito con [legge 24 ottobre 1996, n. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md), soggette a periodico adeguamento in base alle risultanze di un'apposita contabilita' istituita per le spese anticipate dall'amministrazione.
 
 Nota all'art. 3:
- - Il testo dell'[art. 9, comma 2, del decreto-legge 8 agosto 1996, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-08;437#art_9-com2), convertito con [legge 24 ottobre 1996, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556), e' riportato nelle note alle premesse.
+ - Il testo dell'[art. 9, comma 2, del decreto-legge 8 agosto 1996, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-08;437#art_9-com2), convertito con [legge 24 ottobre 1996, n. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md), e' riportato nelle note alle premesse.
 
 ## Art. 4. — Organi centrali di indirizzo generale
 
@@ -98,7 +98,7 @@ L'autorita' centrale emana direttive di indirizzo generale in materia di:
                         c)
                             coordinamento e controllo delle attivita' svolte e verifica della loro rispondenza alle finalita' degli organismi;
                         d)
-                            definizione delle disposizioni attuative per dare applicazione ai provvedimenti di cui all'[articolo 5 della legge 23 dicembre 1993, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-23;559#art_5), e all'[articolo 9 del decreto-legge 8 agosto 1996, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-08;437#art_9), convertito con [legge 24 ottobre 1996, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556).
+                            definizione delle disposizioni attuative per dare applicazione ai provvedimenti di cui all'[articolo 5 della legge 23 dicembre 1993, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-23;559#art_5), e all'[articolo 9 del decreto-legge 8 agosto 1996, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-08;437#art_9), convertito con [legge 24 ottobre 1996, n. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md).
 
 2.
 
@@ -106,7 +106,7 @@ Gli organi centrali di rappresentanza militare e, ove previsto, le organizzazion
 
 Note all'art. 4:
  - Il testo dell'[art. 5 della legge 23 dicembre 1993, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-23;559#art_5), e' stato riportato nelle note alle premesse.
- - Il testo dell'[art. 9, del decreto-legge 8 agosto 1996, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-08;437#art_9), convertito con [legge 24 ottobre 1996, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556), e' riportato nelle note alle premesse.
+ - Il testo dell'[art. 9, del decreto-legge 8 agosto 1996, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-08;437#art_9), convertito con [legge 24 ottobre 1996, n. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md), e' riportato nelle note alle premesse.
 
 ## Art. 5. — Organi di vigilanza e di controllo
 
@@ -176,7 +176,7 @@ Note all'art. 6:
 
 1.
 
-L'esercizio delle attivita' connesse con gli interventi di protezione sociale e' affidato ad organizzazioni costituite ai sensi dell'[articolo 8 della legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382#art_8), su istanza delle medesime che comprovi il possesso di adeguata idoneita' tecnica ed economica per lo svolgmento delle attivita' stesse.
+L'esercizio delle attivita' connesse con gli interventi di protezione sociale e' affidato ad organizzazioni costituite ai sensi dell'[articolo 8 della legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), su istanza delle medesime che comprovi il possesso di adeguata idoneita' tecnica ed economica per lo svolgmento delle attivita' stesse.
 
 2.
 
@@ -215,7 +215,7 @@ Il provvedimento dovra' altresi' contenere le seguenti condizioni di carattere g
 Il capo servizio amministrativo dell'ente/distaccamento stipula l'atto negoziale relativo alla concessione.
 
 Nota all'art. 7:
- - Il testo dell'[art. 8 della legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382#art_8), recante: "Norme di principio sulla disciplina militare" (pubblicata nella Gazzetta Ufficiale del 21 luglio 1978, n. 203), e' il seguente:
+ - Il testo dell'[art. 8 della legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), recante: "Norme di principio sulla disciplina militare" (pubblicata nella Gazzetta Ufficiale del 21 luglio 1978, n. 203), e' il seguente:
  "Art. 8. - I militari non possono esercitare il diritto di sciopero, costituire associazioni professionali a carattere sindacale, aderire ad altre associazioni sindacali.
  I militari in servizio di leva e quelli richiamati in temporaneo servizio, possono iscriversi o permanere associati ad organizzazioni sindacali di caegoria, ma e' fatto loro divieto di svolgere attivita' sindacale quando si trovano nelle condizioni previste dal terzo comma dell'art. 5.
  La costituzione di associazioni o circoli fra militari e' subordinata al preventivo assenso del Ministro della difesa".
@@ -224,7 +224,7 @@ Nota all'art. 7:
 
 1.
 
-In assenza di istanze da parte di organizzazioni costituite ai sensi dell'[articolo 8 della legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382#art_8), l'esercizio delle attivita' connesse con gli interventi di protezione sociale puo' essere affidato ad enti di diritto pubblico o privato con le procedure e nel rispetto delle norme di cui al precedente articolo 7.
+In assenza di istanze da parte di organizzazioni costituite ai sensi dell'[articolo 8 della legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), l'esercizio delle attivita' connesse con gli interventi di protezione sociale puo' essere affidato ad enti di diritto pubblico o privato con le procedure e nel rispetto delle norme di cui al precedente articolo 7.
 
 2.
 
@@ -235,13 +235,13 @@ Ove l'istanza riguardi l'esercizio di attivita' di protezione sociale di piu' or
 Il capo servizio amministrativo provvede per la stipula della relativa convenzione.
 
 Nota all'art. 8:
- - Il testo dell'[art. 8 della legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382#art_8), e' riportato in nota all'art. 7.
+ - Il testo dell'[art. 8 della legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), e' riportato in nota all'art. 7.
 
 ## Art. 9. — Affidamento in concessione a terzi
 
 1.
 
-In mancanza di istanze di organizzazioni del personale costituite ai sensi dell'[articolo 8 della legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382#art_8), o di enti, l'amministrazione, nel rispetto delle norme di cui al precedente articolo 7, procede all'affidamento in concessione a terzi, stipulando apposito atto negoziale con le procedure in forma semplificata previste dal [decreto del Presidente della Repubblica 5 dicembre 1983, n. 939](Approvazione%20del%20regolamento%20per%20i%20lavori%20le%20provviste%20ed%20i%20servizi%20da%20eseguirsi%20in%20economia%20da%20parte%20degli%20organi%20centrali%20e%20periferici%20del%20Ministero%20della%20difesa.md).
+In mancanza di istanze di organizzazioni del personale costituite ai sensi dell'[articolo 8 della legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), o di enti, l'amministrazione, nel rispetto delle norme di cui al precedente articolo 7, procede all'affidamento in concessione a terzi, stipulando apposito atto negoziale con le procedure in forma semplificata previste dal [decreto del Presidente della Repubblica 5 dicembre 1983, n. 939](Approvazione%20del%20regolamento%20per%20i%20lavori%20le%20provviste%20ed%20i%20servizi%20da%20eseguirsi%20in%20economia%20da%20parte%20degli%20organi%20centrali%20e%20periferici%20del%20Ministero%20della%20difesa.md).
 
 2.
 
@@ -252,7 +252,7 @@ L'atto negoziale di cui al precedente comma, in aggiunta alle condizioni di cui 
                             ove la persona fisica o un rappresentante della persona giuridica affidataria sia oggetto di provvedimenti giudiziari anche di natura cautelare, ritenuti dall'amministrazione non compatibili con la cura di un servizio di pubblico interesse, l'amministrazione determina la decadenza della concessione.
 
 Note all'art. 9:
- - Il testo dell'[art. 8 della legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382#art_8), e' riportato in nota all'art. 7.
+ - Il testo dell'[art. 8 della legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), e' riportato in nota all'art. 7.
  - Il testo del [decreto del Presidente della Repubblica 5 dicembre 1983, n. 939](Approvazione%20del%20regolamento%20per%20i%20lavori%20le%20provviste%20ed%20i%20servizi%20da%20eseguirsi%20in%20economia%20da%20parte%20degli%20organi%20centrali%20e%20periferici%20del%20Ministero%20della%20difesa.md), concernente: "Approvazione del regolamento per i lavori, le provviste ed i servizi da eseguirsi in economia da parte degli organi centrali e periferici del Ministero della difesa" e' pubblicato nella Gazzetta Ufficiale del 27 febbraio 1984, n. 57.
 
 ## Art. 10. — Gestione diretta

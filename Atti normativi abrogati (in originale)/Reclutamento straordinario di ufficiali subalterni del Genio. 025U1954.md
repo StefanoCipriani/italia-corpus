@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 7 gennaio 1923, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;12), sull'ordinamento del Regio esercito e successive modificazioni;
+Visto il [R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), sull'ordinamento del Regio esercito e successive modificazioni;
 
 Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento del Regio esercito e successive modificazioni;
 
-Visto il [R. decreto 31 dicembre 1923, n. 3284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3284), concernente la facolta' al Ministro per la guerra di procedere ad un reclutamento straordinario di tenenti in servizio attivo permanente nell'arma del Genio;
+Visto il [R. decreto 31 dicembre 1923, n. 3284](Reclutamento%20straordinario%20di%20150%20tenenti%20in%20servizio%20attivo%20permanente%20nellarma%20del%20Genio.%20023U3284.md), concernente la facolta' al Ministro per la guerra di procedere ad un reclutamento straordinario di tenenti in servizio attivo permanente nell'arma del Genio;
 
 Ritenuta la necessita' di provvedere d'urgenza a coprire ulteriori vacanze nell'arma;
 

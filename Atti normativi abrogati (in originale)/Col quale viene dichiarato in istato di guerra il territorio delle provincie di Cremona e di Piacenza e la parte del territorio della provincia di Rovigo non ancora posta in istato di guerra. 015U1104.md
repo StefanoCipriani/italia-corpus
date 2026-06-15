@@ -18,9 +18,9 @@ Il numero 1104 della raccolta ufficiale delle leggi e dei decreti del Regno cont
  
  RE D'ITALIA 
  
- Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito, approvato con R. decreto del 28 novembre 1869; 
+ Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, approvato con R. decreto del 28 novembre 1869; 
  
- Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) marittimo, approvato con R. decreto 28 novembre 1869; 
+ Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) marittimo, approvato con R. decreto 28 novembre 1869; 
  
  Vista la legge 2 luglio 1836, n. 254, sull'avanzamento nel R. esercito ed il regolamento per la esecuzione della legge detta, approvato con Nostro decreto 21 luglio 1907, n. 628; 
  

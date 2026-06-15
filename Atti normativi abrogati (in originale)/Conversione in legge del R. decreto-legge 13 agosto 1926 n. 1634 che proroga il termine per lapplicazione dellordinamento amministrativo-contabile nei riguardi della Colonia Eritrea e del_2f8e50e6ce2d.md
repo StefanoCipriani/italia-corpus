@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 agosto 1926, n. 1634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1634), che proroga il termine per l'applicazione dell'ordinamento amministrativo-contabile nei riguardi della Colonia Eritrea e della Somalia Italiana. 
+ E' convertito in legge il [R. decreto-legge 13 agosto 1926, n. 1634](Proroga%20del%20termine%20stabilito%20per%20lapplicazione%20dellordinamento%20amministrativo-contabile%20nei%20riguardi%20della%20Colonia%20Eritrea%20e%20della%20Somalia%20Italiana.%20026U1634.md), che proroga il termine per l'applicazione dell'ordinamento amministrativo-contabile nei riguardi della Colonia Eritrea e della Somalia Italiana. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Vista la sentenza della Corte di giustizia delle Comunita' europee del 10 dicembre 1968, n. 7/68 che ha ritenuto l'incompatibilita' dell'[art. 37 della legge 1 giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089#art_37) in relazione al disposto dell'art. 16 del Trattato di Roma istitutivo della Comunita' economica europea;
+Vista la sentenza della Corte di giustizia delle Comunita' europee del 10 dicembre 1968, n. 7/68 che ha ritenuto l'incompatibilita' dell'[art. 37 della legge 1 giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md) in relazione al disposto dell'art. 16 del Trattato di Roma istitutivo della Comunita' economica europea;
 
 Visto il ricorso proposto dalla Commissione delle Comunita' europee in data 3 novembre 1971 davanti alla Corte di giustizia delle Comunita' europee per far dichiarare l'inadempienza dello Stato italiano alla decisione surrichiamata della Corte stessa;
 
@@ -26,47 +26,47 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con i Minist
 
 ## Art. 1.
 
-L'[art. 35 della legge 1 giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089#art_35), e' sostituito dal seguente:
- "L'esportazione dal territorio della Repubblica delle cose indicate dall'art. 1, nonche' di quelle di interesse bibliografico, documentale ed archivistico, e' vietata nei casi in cui, per la singolarita' delle cose stesse o per essere questa espressione significativa di un contesto storico-culturale, costituisca danno per il patrimonio nazionale a motivato giudizio dei competenti uffici di esportazione delle soprintendenze alle antichita' e belle arti, nonche' delle soprintendenze ai beni librari e, conformemente a quanto disposto dall'[art. 38 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_38), delle soprintendenze archivistiche.
+L'[art. 35 della legge 1 giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), e' sostituito dal seguente:
+ "L'esportazione dal territorio della Repubblica delle cose indicate dall'art. 1, nonche' di quelle di interesse bibliografico, documentale ed archivistico, e' vietata nei casi in cui, per la singolarita' delle cose stesse o per essere questa espressione significativa di un contesto storico-culturale, costituisca danno per il patrimonio nazionale a motivato giudizio dei competenti uffici di esportazione delle soprintendenze alle antichita' e belle arti, nonche' delle soprintendenze ai beni librari e, conformemente a quanto disposto dall'[art. 38 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), delle soprintendenze archivistiche.
  Nella valutazione da compiere ai sensi del precedente comma i competenti uffici si attengono ad indirizzi di carattere generale stabiliti rispettivamente dalla Direzione generale delle antichita' e belle arti, dalla Direzione generale delle accademie e biblioteche, e per la diffusione della cultura dal Ministero della pubblica istruzione, e dalla Direzione generale degli archivi di Stato del Ministero dell'interno.
  Non possono comunque essere oggetto di esportazione le cose considerate dal presente articolo se non siano state preventivamente inventariate presso le competenti sovrintendenze".
 
 ## Art. 2.
 
-Il Ministro per la pubblica istruzione, sentito il Consiglio superiore delle antichita' e belle arti ovvero il Consiglio superiore delle accademie e biblioteche, e il Ministro per l'interno, sentito il Consiglio superiore degli archivi, possono, con provvedimenti generali, stabilire in via preventiva e per periodi definiti che siano escluse dall'esportazione determinate categorie di cose di interesse artistico, storico, archeologico o etnografico di cui al [primo comma dell'art. 1 della legge 1° giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089#art_1-com1), nonche' di quelle di interesse bibliografico, documentale od archivistico in relazione alle loro caratteristiche oggettive, alla loro provenienza od appartenenza, quando l'esportazione di singole cose, rientranti in dette categorie, costituisca danno per il patrimonio nazionale tutelato dalla [legge 1° giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089).
+Il Ministro per la pubblica istruzione, sentito il Consiglio superiore delle antichita' e belle arti ovvero il Consiglio superiore delle accademie e biblioteche, e il Ministro per l'interno, sentito il Consiglio superiore degli archivi, possono, con provvedimenti generali, stabilire in via preventiva e per periodi definiti che siano escluse dall'esportazione determinate categorie di cose di interesse artistico, storico, archeologico o etnografico di cui al [primo comma dell'art. 1 della legge 1° giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), nonche' di quelle di interesse bibliografico, documentale od archivistico in relazione alle loro caratteristiche oggettive, alla loro provenienza od appartenenza, quando l'esportazione di singole cose, rientranti in dette categorie, costituisca danno per il patrimonio nazionale tutelato dalla [legge 1° giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md).
 
 ## Art. 3.
 
-Sono esentate dal pagamento dell'imposta di cui all'[art. 37 della legge 1° giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089#art_37), le esportazioni verso i Paesi appartenenti alla Comunita' economica europea. 
+Sono esentate dal pagamento dell'imposta di cui all'[art. 37 della legge 1° giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), le esportazioni verso i Paesi appartenenti alla Comunita' economica europea. 
  Nei, casi previsti dal precedente comma, per i quali restano ferme le altre disposizioni relative alla licenza d'esportazione, l'esportatore non e' tenuto a dichiarare il valore venale delle cose che intende esportare. 
- E' data facolta' agli aventi diritto di presentare apposita domanda ai competenti uffici d'esportazione per il rimborso delle somme versate allo Stato, dal 1 gennaio 1962, ai sensi dell'[art. 37 della legge 1° giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089#art_37).
+ E' data facolta' agli aventi diritto di presentare apposita domanda ai competenti uffici d'esportazione per il rimborso delle somme versate allo Stato, dal 1 gennaio 1962, ai sensi dell'[art. 37 della legge 1° giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md).
 
 ## Art. 4.
 
-L'[art. 39 della legge 1° giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089#art_39), e' sostituito dal seguente: 
+L'[art. 39 della legge 1° giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), e' sostituito dal seguente: 
  "Entro il termine di novanta giorni dalla denuncia, il Ministro per la pubblica istruzione ha facolta' di acquistare per il valore dichiarato nella denuncia stessa, le cose che presentino interesse per il patrimonio tutelato dalla presente legge. 
  Ai fini dell'esercizio della facolta' di cui al precedente comma, nei confronti dei beni per i quali viene richiesta licenza di esportazione verso i Paesi appartenenti alla Comunita' economica europea, il prezzo di acquisto e' proposto dal Ministro stesso. 
  Ove l'esportatore ritenga di non accettare il prezzo offerto dal Ministro e non rinunzi all'esportazione, il prezzo stesso sara' stabilito secondo le modalita' di cui all'art. 37".
 
 ## Art. 5.
 
-L'[art. 40 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409#art_40), e' sostituito dal seguente:
+L'[art. 40 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), e' sostituito dal seguente:
  "Nei casi previsti dai commi terzo e quarto dell'articolo 37, e dalle, lettere e) ed f) dell'art. 38, il Ministro per l'interno puo' esercitare, entro tre mesi dalla comunicazione fatta al soprintendente archivistico, il diritto di prelazione".
 
 ## Art. 6.
 
-Il [primo comma dell'art. 37 della legge 1° giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089#art_37-com1), e' sostituito dai seguenti: 
+Il [primo comma dell'art. 37 della legge 1° giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), e' sostituito dai seguenti: 
  "Salvo quanto e' stabilito dalle leggi doganali e valutarie, la esportazione verso i Paesi non appartenenti alla Comunita' economica europea e' soggetta all'imposta progressiva sul valore della cosa, secondo la tabella seguente: 
  fino a lire 1.000.000: otto per cento; 
  da lire 1.000.001 a lire 6.000.000: quindici per cento; 
  da lire 6.000.001 a lire 21.000.000: venticinque per cento; 
  oltre lire 21.000.000: trenta per cento. 
- Le stesse disposizioni si applicano alle cose di interesse bibliografico di cui agli articoli 128 e 131 del regolamento approvato con [regio decreto 30 gennaio 1913, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-30;363)".
+ Le stesse disposizioni si applicano alle cose di interesse bibliografico di cui agli articoli 128 e 131 del regolamento approvato con [regio decreto 30 gennaio 1913, n. 363](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md)".
 
 ## Art. 7.
 
-In quanto compatibili con il presente decreto restano ferme le norme della [legge 1 giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089), e del regolamento approvato con [regio decreto 30 gennaio 1913, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-30;363), ed ogni altra disposizione in materia di tutela delle cose di interesse storico ed artistico.
- Continua altresi' ad applicarsi quanto agli stessi fini e' disposto, in materia di vigilanza sugli archivi privati, dal [decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409).
+In quanto compatibili con il presente decreto restano ferme le norme della [legge 1 giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), e del regolamento approvato con [regio decreto 30 gennaio 1913, n. 363](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), ed ogni altra disposizione in materia di tutela delle cose di interesse storico ed artistico.
+ Continua altresi' ad applicarsi quanto agli stessi fini e' disposto, in materia di vigilanza sugli archivi privati, dal [decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md).
 
 ## Art. 8.
 

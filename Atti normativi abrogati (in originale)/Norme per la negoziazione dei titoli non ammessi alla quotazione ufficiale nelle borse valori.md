@@ -35,7 +35,7 @@ La vigilanza sul regolare andamento delle riunioni e' esercitata dalla Commissio
  Con la deliberazione di delega la Commissione stabilisce criteri e direttive per l'esercizio dei poteri e delle attribuzioni delegati e dispone, in ogni caso, in ordine alle modalita' del proprio controllo sull'attivita' dell'organo delegato. 
  La delega e' revocabile in ogni momento. 
  L'organo delegato trasmette immediatamente alla Commissione copia dei provvedimenti adottati nell'esercizio dei poteri e delle attribuzioni delegati. 
- Per l'esercizio dei poteri di cui sopra e per ogni altra materia la Commissione si avvale di quanto disposto dalla [legge 7 giugno 1974, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-07;216), e dal [decreto del Presidente della Repubblica 31 marzo 1975, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-03-31;138).
+ Per l'esercizio dei poteri di cui sopra e per ogni altra materia la Commissione si avvale di quanto disposto dalla [legge 7 giugno 1974, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20aprile%201974%20n.%2095%20recante%20disposizioni%20relative%20al%20mercato%20mobiliare%20ed%20al%20trattamento%20fiscale%20dei%20titoli%20azionari.md), e dal [decreto del Presidente della Repubblica 31 marzo 1975, n. 138](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettere%20c%20e%20d%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20disposizioni%20dirette%20a%20coordinare%20con%20le%20attribuzioni%20della%20Commissione%20nazionale%20per%20l_e51b18202b16.md).
 
 ## Art. 4.
 

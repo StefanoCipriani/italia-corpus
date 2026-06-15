@@ -60,7 +60,7 @@ Con decreto del Ministro delle risorse agricole, alimentari e forestali sono fis
 
 1.
 
-Al fine di consentire la urgente razionalizzazione della pesca dei molluschi bivalvi e' autorizzata, per l'anno 1995, la complessiva spesa di lire 35.000 milioni a valere sulle disponibilita' del Fondo centrale per il credito peschereccio di cui alla [legge 17 febbraio 1982, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41).
+Al fine di consentire la urgente razionalizzazione della pesca dei molluschi bivalvi e' autorizzata, per l'anno 1995, la complessiva spesa di lire 35.000 milioni a valere sulle disponibilita' del Fondo centrale per il credito peschereccio di cui alla [legge 17 febbraio 1982, n. 41](Piano%20per%20la%20razionalizzazione%20e%20lo%20sviluppo%20della%20pesca%20marittima.md).
 
 2.
 
@@ -98,7 +98,7 @@ Le somme da utilizzare in attuazione del presente decreto, a carico del Fondo di
 
 3.
 
-All'onere derivante dall'attuazione dell'articolo 2, valutato in lire 35.000 milioni per l'anno 1995, si provvede mediante utilizzo delle disponibilita' del Fondo centrale per il credito peschereccio di cui all'[articolo 10, comma primo, della legge 17 febbraio 1982, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41#art_10-com1), che all'uopo vengono versate all'entrata del bilancio dello Stato per essere assegnate ad apposito capitolo dello stato di previsione dell'amministrazione competente.
+All'onere derivante dall'attuazione dell'articolo 2, valutato in lire 35.000 milioni per l'anno 1995, si provvede mediante utilizzo delle disponibilita' del Fondo centrale per il credito peschereccio di cui all'[articolo 10, comma primo, della legge 17 febbraio 1982, n. 41](Piano%20per%20la%20razionalizzazione%20e%20lo%20sviluppo%20della%20pesca%20marittima.md), che all'uopo vengono versate all'entrata del bilancio dello Stato per essere assegnate ad apposito capitolo dello stato di previsione dell'amministrazione competente.
 
 4.
 

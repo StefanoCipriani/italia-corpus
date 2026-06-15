@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 aprile 1931, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-27;537), concernente la concessione di un contributo governativo eccezionale a favore del comune di Nervesa. 
+ E' convertito in legge il [R. decreto-legge 27 aprile 1931, n. 537](Concessione%20di%20un%20contributo%20governativo%20eccezionale%20a%20favore%20del%20comune%20di%20Nervesa.%20031U0537.md), concernente la concessione di un contributo governativo eccezionale a favore del comune di Nervesa. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

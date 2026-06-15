@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 13 luglio 1911, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;745);
+Vista la [legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md);
 
 Visti i Nostri [decreti-legge 10 agosto 1916, n. 1031, e 6 maggio 1917, n. 783](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1917-05-06;783);
 
@@ -50,11 +50,11 @@ I piroscafi in legno di cui agli articoli precedenti devono entrare in effettivo
 
 1919.
 
-Ove tale termine non sia rispettato, il costruttore avra' diritto solamente al compenso di costruzione fissato dall'[art. 4 della legge 13 luglio 1911, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;745#art_4) (secondo capoverso).
+Ove tale termine non sia rispettato, il costruttore avra' diritto solamente al compenso di costruzione fissato dall'[art. 4 della legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md) (secondo capoverso).
 
 ## Art. 6.
 
-Per la costruzione nello Stato degli apparati motori ed apparecchi ausiliari rimangono invariati i compensi stabiliti dall'[art. 8 della legge 13 luglio 1911, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;745#art_8).
+Per la costruzione nello Stato degli apparati motori ed apparecchi ausiliari rimangono invariati i compensi stabiliti dall'[art. 8 della legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md).
 
 ## Art. 7.
 

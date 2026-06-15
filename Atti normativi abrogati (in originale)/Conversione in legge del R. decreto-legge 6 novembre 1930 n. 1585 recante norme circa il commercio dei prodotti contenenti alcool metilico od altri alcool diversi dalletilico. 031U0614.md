@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 novembre 1930, n. 1585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-06;1585), recante norme circa il commercio dei prodotti contenenti alcool metilico od altri alcool diversi. 
+ E' convertito in legge il [R. decreto-legge 6 novembre 1930, n. 1585](Norme%20circa%20il%20commercio%20di%20prodotti%20contenenti%20alcool%20metilico%20od%20altri%20alcool%20diversi%20dalletilico.%20030U1585.md), recante norme circa il commercio dei prodotti contenenti alcool metilico od altri alcool diversi. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 11 maggio 1931 - Anno IX 
  

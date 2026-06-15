@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il [decreto legislativo Luogotenenziale 21 agosto 1945, n. 589](Trattamento%20economico%20dei%20militari%20dellArma%20dei%20carabinieri%20Reali.%20045U0589.md), riguardante l'indennita' militare speciale spettante agli ufficiali ed ai sottufficiali dei carabinieri Reali, agli appuntati ed ai carabinieri raffermati;
 
-Visto l'[art. 15 del decreto legislativo Luogotenenziale 21 agosto 1945, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;508#art_15), recante modificazioni all'ordinamento del Corpo degli agenti di custodia delle carceri;
+Visto l'[art. 15 del decreto legislativo Luogotenenziale 21 agosto 1945, n. 508](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20del%20Corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20045U0508.md), recante modificazioni all'ordinamento del Corpo degli agenti di custodia delle carceri;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

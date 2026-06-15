@@ -12,9 +12,9 @@ vigente: true
 
 IL MINISTRO 
  
- Visto il [R. decreto 24 gennaio 1892 n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-01-24;33), con cui venne instituito un ufficio di porto locale a Borgo di Gaeta, provincia di Caserta, compartimento marittimo di Gaeta; 
+ Visto il [R. decreto 24 gennaio 1892 n. 33](Che%20istituisce%20un%20ufficio%20di%20porto%20locale%20a%20Borgo%20di%20Gaeta%20Caserta%20092U0033.md), con cui venne instituito un ufficio di porto locale a Borgo di Gaeta, provincia di Caserta, compartimento marittimo di Gaeta; 
  
- Visti l'art. 4° del regolamento, approvato con [R. decreto 20 novembre 1879 n. 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166) (serie 2ª), e la tabella n. 2 annessa al regolamento medesimo; 
+ Visti l'art. 4° del regolamento, approvato con [R. decreto 20 novembre 1879 n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md) (serie 2ª), e la tabella n. 2 annessa al regolamento medesimo; 
  
  Presi gli opportuni concerti col Ministero dell'interno; 
  

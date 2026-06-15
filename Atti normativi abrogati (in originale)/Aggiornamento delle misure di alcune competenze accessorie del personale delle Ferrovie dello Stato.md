@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-07;405), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e successive modificazioni ed aggiunte, relativo alle competenze accessorie del personale delle Ferrovie dello Stato;
+Visto il [regio decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e successive modificazioni ed aggiunte, relativo alle competenze accessorie del personale delle Ferrovie dello Stato;
 
-Visto il [regio decreto legislativo 24 maggio 1946, numero 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-24;454), recante modifiche e miglioramenti alle competenze accessorie del personale delle Ferrovie dello Stato;
+Visto il [regio decreto legislativo 24 maggio 1946, numero 454](Modificazioni%20alle%20disposizioni%20sulle%20competenze%20accessorie%20per%20il%20personale%20delle%20Ferrovie%20dello%20Stato.md), recante modifiche e miglioramenti alle competenze accessorie del personale delle Ferrovie dello Stato;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per i trasporti, di concerto con
 
 ## Art. 1.
 
-Gli importi del premio per ora di lavoro, del premio di percorrenza, del premio di interessamento di cui agli articoli 42, 44, 50, 51, 59, 60, 80, 81 e 83 delle disposizioni sulle competenze accessorie del personale delle Ferrovie dello Stato, approvate con [regio decreto-legge 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-07;405), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e modificato col [regio decreto legislativo 24 maggio 1946, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-24;454), sono aumentati del 70 % (settanta per cento).
+Gli importi del premio per ora di lavoro, del premio di percorrenza, del premio di interessamento di cui agli articoli 42, 44, 50, 51, 59, 60, 80, 81 e 83 delle disposizioni sulle competenze accessorie del personale delle Ferrovie dello Stato, approvate con [regio decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e modificato col [regio decreto legislativo 24 maggio 1946, n. 454](Modificazioni%20alle%20disposizioni%20sulle%20competenze%20accessorie%20per%20il%20personale%20delle%20Ferrovie%20dello%20Stato.md), sono aumentati del 70 % (settanta per cento).
 
 ## Art. 2.
 

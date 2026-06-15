@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alla convenzione 16 giugno 1911, approvata con la [legge 28 marzo 1912, n. 304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-03-28;304), sono aggiunti i seguenti articoli: 
+Alla convenzione 16 giugno 1911, approvata con la [legge 28 marzo 1912, n. 304](Che%20approva%20la%20convenzione%2016%20giugno%201911%20stipulata%20con%20gli%20Istituti%20fondatori%20della%20Cassa%20nazionale%20dassicurazione%20per%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20012U0304.md), sono aggiunti i seguenti articoli: 
  
  «Art. 21-bis. - La Cassa nazionale di assicurazione per gli infortuni del lavoro assume temporaneamente, a norma dell'[art. 4 del decreto-legge 23 agosto 1917, n. 1450](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1917-08-23;1450#art_4), l'esercizio dell'assicurazione obbligatoria contro gli infortuni sul lavoro in agricoltura nei limiti e con le condizioni stabilite dal decreto-legge su citato e dal relativo regolamento. 
  

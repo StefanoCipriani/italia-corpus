@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il Regio decreto-legge 12 maggio 1938-XVI, n. 771, che proroga al 30 giugno 1938-XVI i servizi di navigazione per il Mediterraneo Occidentale, di cui all'[art. 1 del R. decreto-legge 8 luglio 1937, n. 1435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-08;1435#art_1). 
+ E' convertito in legge il Regio decreto-legge 12 maggio 1938-XVI, n. 771, che proroga al 30 giugno 1938-XVI i servizi di navigazione per il Mediterraneo Occidentale, di cui all'[art. 1 del R. decreto-legge 8 luglio 1937, n. 1435](Servizi%20di%20navigazione%20per%20il%20Mediterraneo%20Occidentale.%20037U1435.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

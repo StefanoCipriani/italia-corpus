@@ -297,7 +297,7 @@ Gli impiegati effettivi degli uffici della Cassa nazionale di previdenza sono eq
 
 ## Art. 19.
 
-La Cassa nazionale di previdenza e' ammessa di diritto al patrocinio gratuito quando concorra a suo favore la condizione preveduta dal [n. 2 dell'art. 9 del R. decreto 6 dicembre 1865, n. 2627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-06;2627#art_9-num2). E' derogato all'art. 1 dell'allegato D alla [legge del 19 luglio 1880, n. 5536](Che%20approva%20labolizione%20graduale%20della%20tassa%20di%20macinazione%20del%20grano%20ed%20altri%20provvedimenti%20finanziari.%20080U5536.md). 
+La Cassa nazionale di previdenza e' ammessa di diritto al patrocinio gratuito quando concorra a suo favore la condizione preveduta dal [n. 2 dell'art. 9 del R. decreto 6 dicembre 1865, n. 2627](Col%20quale%20e%20regolato%20il%20gratuito%20patrocinio%20dei%20poveri.%20065U2627.md). E' derogato all'art. 1 dell'allegato D alla [legge del 19 luglio 1880, n. 5536](Che%20approva%20labolizione%20graduale%20della%20tassa%20di%20macinazione%20del%20grano%20ed%20altri%20provvedimenti%20finanziari.%20080U5536.md). 
  
  Al difensore officioso puo' essere aggiunto dalla Cassa un altro difensore. 
  

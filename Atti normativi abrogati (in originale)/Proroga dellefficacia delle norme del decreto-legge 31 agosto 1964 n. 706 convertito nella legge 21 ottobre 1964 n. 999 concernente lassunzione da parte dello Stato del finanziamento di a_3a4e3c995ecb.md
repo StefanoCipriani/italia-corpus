@@ -14,7 +14,7 @@ Visto l'[art. 77, secondo comma della Costituzione](https://www.normattiva.it/ur
 
 Visti gli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_16) e [21 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_21), e successive modificazioni ed integrazioni Visto l'[art. 4, lettera b), della legge 26 febbraio 1963, n. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-26;329#art_4-letb);
 
-Ritenuta la straordinaria necessita' ed urgenza di prorogare l'efficacia delle norme del [decreto-legge 31 agosto 1964, n. 706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-08-31;706), convertito nella [legge 21 ottobre 1964, n. 999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-21;999), concernente l'assunzione da parte dello Stato del finanziamento di alcune forme di assicurazioni sociali obbligatorie;
+Ritenuta la straordinaria necessita' ed urgenza di prorogare l'efficacia delle norme del [decreto-legge 31 agosto 1964, n. 706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-08-31;706), convertito nella [legge 21 ottobre 1964, n. 999](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2031%20agosto%201964%20n.%20706%20concernente%20lassunzione%20da%20parte%20dello%20Stato%20del%20finanziamento%20di%20alcune%20forme%20di%20assicurazioni%20sociali%20obbligatorie.md), concernente l'assunzione da parte dello Stato del finanziamento di alcune forme di assicurazioni sociali obbligatorie;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-Le disposizioni concernenti l'assunzione da parte dello Stato del finanziamento di alcune forme di assicurazioni sociali, contenute nell'[art. 1 del decreto-legge 31 agosto 1964, n. 706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-08-31;706#art_1), convertito nella [legge 21 ottobre 1964, n. 999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-21;999), restano in vigore fino alla data del 31 dicembre 1965, salvo quanto disposto nel seguente comma.
+Le disposizioni concernenti l'assunzione da parte dello Stato del finanziamento di alcune forme di assicurazioni sociali, contenute nell'[art. 1 del decreto-legge 31 agosto 1964, n. 706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-08-31;706#art_1), convertito nella [legge 21 ottobre 1964, n. 999](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2031%20agosto%201964%20n.%20706%20concernente%20lassunzione%20da%20parte%20dello%20Stato%20del%20finanziamento%20di%20alcune%20forme%20di%20assicurazioni%20sociali%20obbligatorie.md), restano in vigore fino alla data del 31 dicembre 1965, salvo quanto disposto nel seguente comma.
  I contributi previsti a carico dello Stato dall'art. 1 del citato decreto-legge, sono stabiliti, per l'anno 1965, nelle seguenti misure:
  a) lire 128.386 milioni a favore dell'assicurazione obbligatoria contro la tubercolosi, da ripartirsi fra lo Istituto nazionale della previdenza sociale e l'Istituto nazionale per l'assicurazione contro le malattie, nella proporzione di sette decinti e tre decimi;
  b) lire 16.116 milioni a favore dell'assicurazione obbligatoria contro la disoccupazione involontaria;

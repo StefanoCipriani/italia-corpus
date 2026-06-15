@@ -23,7 +23,7 @@ PROMULGA la seguente legge:
 I benefici previsti per gli enti indicati dalla [legge 11 luglio 1986, n. 390](Disciplina%20delle%20concessioni%20e%20delle%20locazioni%20di%20beni%20immobili%20demaniali%20e%20patrimoniali%20dello%20Stato%20in%20favore%20di%20enti%20o%20istituti%20culturali%20degli%20enti%20pubblici%20territoriali%20delle%20unita%20sa_8f125e32101d.md), sono estesi agli enti a carattere internazionalistico sottoposti alla vigilanza del Ministero degli affari esteri indicati nella tabella redatta a norma dell'[articolo 1, comma secondo, della legge 28 dicembre 1982, n. 948](Norme%20per%20lerogazione%20di%20contributi%20statali%20agli%20enti%20a%20carattere%20internazionalistico%20sottoposti%20alla%20vigilanza%20del%20Ministero%20degli%20affari%20esteri.md).
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note al titolo e all'[art. 1:
  - La legge n. 390/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;390#art_1) reca: "Disciplina delle concessioni e delle locazioni di beni immobili demaniali e patrimoniali dello Stato in favore di enti o istituti culturali, degli enti pubblici territoriali, delle unita' sanitarie locali, di ordini religiosi e degli enti ecclesiastici".
@@ -58,7 +58,7 @@ AVVERTENZA:
  15) Societa' italiana per l'organizzazione
  internazionale . . . . . . . . . . . . . . . . . . . .450.000.000".
 
- Tabella da ritenersi cosi' sostituita per effetto del [D.P.R. 28 giugno 1984, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-06-28;526) (Gazz. Uff. 31 agosto 1984, n. 240) che ha approvato la nuova misura del contributo ordinario annuale dello Stato per il triennio 1983-85.
+ Tabella da ritenersi cosi' sostituita per effetto del [D.P.R. 28 giugno 1984, n. 526](../DPR/Approvazione%20della%20tabella%20per%20lerogazione%20del%20contributo%20ordinario%20annuale%20dello%20Stato%20per%20il%20triennio%201983-85%20a%20favore%20degli%20enti%20a%20carattere%20internazionalistico%20sottoposti%20alla%20vigilan_d5409c710fba.md) (Gazz. Uff. 31 agosto 1984, n. 240) che ha approvato la nuova misura del contributo ordinario annuale dello Stato per il triennio 1983-85.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

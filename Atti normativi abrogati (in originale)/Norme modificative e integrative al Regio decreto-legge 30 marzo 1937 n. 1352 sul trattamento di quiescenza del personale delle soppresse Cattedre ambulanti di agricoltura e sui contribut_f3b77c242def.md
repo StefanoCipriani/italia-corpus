@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Vista la [legge 13 giugno 1935, n. 1220](Istituzione%20degli%20Ispettorati%20provinciali%20dellagricoltura.%20035U1220.md), sugli Ispettorati provinciali dell'agricoltura;
 
-Visto il [R. decreto 22 febbraio 1937, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-02-22;327), sulla revisione dei ruoli organici del Ministero dell'agricoltura e delle foreste e sull'inquadramento del personale delle soppresse Cattedre ambulanti di agricoltura;
+Visto il [R. decreto 22 febbraio 1937, n. 327](Norme%20per%20la%20revisione%20dei%20ruoli%20organici%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste%20e%20per%20linquadramento%20del%20personale%20delle%20soppresse%20Cattedre%20ambulanti%20di%20agricoltura.%20037U0327.md), sulla revisione dei ruoli organici del Ministero dell'agricoltura e delle foreste e sull'inquadramento del personale delle soppresse Cattedre ambulanti di agricoltura;
 
 Visto il [R. decreto-legge 30 marzo 1937, n. 1352](Disposizioni%20circa%20il%20pagamento%20dei%20contributi%20dovuti%20allo%20Stato%20dalle%20Provincie%20Comuni%20Consigli%20provinciali%20dellEconomia%20corporativa%20ed%20Enti%20vari%20per%20il%20funzionamento%20degli%20Ispettorati%20p_1abfb4467b4f.md), convertito nella [legge 23 dicembre 1937, n. 2625](Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20marzo%201937-XV%20n.%201352%20concernente%20il%20pagamento%20dei%20contributi%20dovuti%20allo%20Stato%20dalle%20Provincie%20dai%20Comuni%20dai%20Consigli%20provinciali%20delleconom_28483e20c384.md), contenente norme relative al trattamento di quiescenza del personale proveniente dalle Cattedre ambulanti di agricoltura nonche' sui contributi dovuti allo Stato per il funzionamento degli Ispettorati provinciali dell'agricoltura;
 
@@ -44,7 +44,7 @@ Fermo il disposto del [2° comma dell'art. 9 del R. decreto-legge 30 marzo 1937,
  
  Trascorso infruttuosamente tale termine, entra in vigore la riduzione del capitale assicurato, ma anche in tal caso le eccedenze di premio relative al periodo decorrente dal 1° aprile 1937 sono a carico esclusivo dell'interessato. 
  
- I contratti di assicurazione, integrativi e complementari, di cui all'[art. 72 del R. decreto 6 dicembre 1928, n. 3433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-06;3433#art_72), rimangono in vigore alle condizioni stabilite nel [decreto Luogotenenziale 16 gennaio 1919, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-01-16;54), nel [R. decreto 22 aprile 1920, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-22;575), e nel [R. decreto 17 febbraio 1927, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-02-17;311).
+ I contratti di assicurazione, integrativi e complementari, di cui all'[art. 72 del R. decreto 6 dicembre 1928, n. 3433](Ordinamento%20delle%20Cattedre%20ambulanti%20di%20agricoltura.%20028U3433.md), rimangono in vigore alle condizioni stabilite nel [decreto Luogotenenziale 16 gennaio 1919, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-01-16;54), nel [R. decreto 22 aprile 1920, n. 575](Concernente%20lassicurazione%20del%20personale%20tecnico%20delle%20cattedre%20ambulanti%20di%20agricoltura.%20020U0575.md), e nel [R. decreto 17 febbraio 1927, n. 311](Ordinamento%20delle%20Cattedre%20ambulanti%20di%20agricoltura%20e%20istituzione%20in%20Roma%20di%20un%20Ente%20nazionale%20per%20le%20cattedre%20stesse.%20027U0311.md).
 
 ## Art. 3.
 
@@ -122,7 +122,7 @@ Il personale, non provvisto di trattamento assicurativo o di previdenza, ne' di 
 
 ## Art. 11.
 
-Il personale eliminato nella prima attuazione del [R. decreto 22 febbraio 1937, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-02-22;327), provvisto di trattamento assicurativo con effetto da epoca posteriore all'assunzione in servizio, avra' diritto, all'atto dell'eliminazione, al trattamento previsto dall'art. 13, secondo comma, per il periodo anteriore alla decorrenza del contratto di assicurazione. 
+Il personale eliminato nella prima attuazione del [R. decreto 22 febbraio 1937, n. 327](Norme%20per%20la%20revisione%20dei%20ruoli%20organici%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste%20e%20per%20linquadramento%20del%20personale%20delle%20soppresse%20Cattedre%20ambulanti%20di%20agricoltura.%20037U0327.md), provvisto di trattamento assicurativo con effetto da epoca posteriore all'assunzione in servizio, avra' diritto, all'atto dell'eliminazione, al trattamento previsto dall'art. 13, secondo comma, per il periodo anteriore alla decorrenza del contratto di assicurazione. 
  
  Tale trattamento sara', pero', depurato dell'eventuale eccedenza del valore di riscatto della polizza sulla quota parte di indennita' di cui al predetto art. 13 riflettente il periodo di servizio cui si riferisce il trattamento assicurativo.
 

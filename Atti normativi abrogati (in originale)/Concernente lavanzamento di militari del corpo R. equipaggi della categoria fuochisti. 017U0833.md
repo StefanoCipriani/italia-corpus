@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 6 luglio 1911, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;647);
+Vista la [legge 6 luglio 1911, n. 647](Concernente%20il%20riordinamento%20del%20personale%20di%20macchina%20del%20Corpo%20Reale%20equipaggi.%20011U0647.md);
 
-Vista la [legge 22 giugno 1913, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;710);
+Vista la [legge 22 giugno 1913, n. 710](Che%20reca%20provvedimenti%20per%20i%20militari%20del%20corpo%20R.%20equipaggi.%20013U0710.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -30,9 +30,9 @@ Sulla proposta del ministro della marina, di concerto col ministro del tesoro; A
 
 ## Art. 1.
 
-L'avanzamento per compiuta permanenza massima nel grado, dei militari del corpo R. equipaggi, stabilito dalla tabella di cui all'[art. 1 della legge 22 giugno 1913, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;710#art_1), e' esteso ai graduati della categoria fuochisti, che siano ritenuti idonei, compresi nel ruolo separato istituito con l'[art. 13 della legge 6 luglio 1911, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;647#art_13). 
+L'avanzamento per compiuta permanenza massima nel grado, dei militari del corpo R. equipaggi, stabilito dalla tabella di cui all'[art. 1 della legge 22 giugno 1913, n. 710](Che%20reca%20provvedimenti%20per%20i%20militari%20del%20corpo%20R.%20equipaggi.%20013U0710.md), e' esteso ai graduati della categoria fuochisti, che siano ritenuti idonei, compresi nel ruolo separato istituito con l'[art. 13 della legge 6 luglio 1911, n. 647](Concernente%20il%20riordinamento%20del%20personale%20di%20macchina%20del%20Corpo%20Reale%20equipaggi.%20011U0647.md). 
  
- I fuochisti scelti che trovavansi in ruolo con tale classifica all'atto della promulgazione della [legge 6 luglio 1911, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;647), possono, se idonei, essere promossi sottocapi fuochisti dopo un unico scrutinio e proseguire poi la carriera con l'esclusivo criterio dell'anzianita', dopo aver compiuto il periodo di permanenza massima nel grado stabilito dalla citata tabella, di cui all'[art. 1 della legge 22 giugno 1913, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;710#art_1).
+ I fuochisti scelti che trovavansi in ruolo con tale classifica all'atto della promulgazione della [legge 6 luglio 1911, n. 647](Concernente%20il%20riordinamento%20del%20personale%20di%20macchina%20del%20Corpo%20Reale%20equipaggi.%20011U0647.md), possono, se idonei, essere promossi sottocapi fuochisti dopo un unico scrutinio e proseguire poi la carriera con l'esclusivo criterio dell'anzianita', dopo aver compiuto il periodo di permanenza massima nel grado stabilito dalla citata tabella, di cui all'[art. 1 della legge 22 giugno 1913, n. 710](Che%20reca%20provvedimenti%20per%20i%20militari%20del%20corpo%20R.%20equipaggi.%20013U0710.md).
 
 ## Art. 2.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per la durata della guerra l'obbligo del servizio militare e' esteso ai cittadini residenti del Regno che, nati in anni posteriori al 1873 e gia' provvisoriamente dispensati dal servizio a senso dell'[art 33 della legge 31 gennaio 1901, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-01-31;23#art_33), come nati e residenti all'estero o come espatriati in talune regioni prima di aver compiuto il 16° anno di eta', siano stati poi al compimento del 32° anno di eta', in base alle disposizioni del citato articolo, dispensati in modo definitivo.
+Per la durata della guerra l'obbligo del servizio militare e' esteso ai cittadini residenti del Regno che, nati in anni posteriori al 1873 e gia' provvisoriamente dispensati dal servizio a senso dell'[art 33 della legge 31 gennaio 1901, n. 23](Disposizioni%20sullemigrazione.%20001U0023.md), come nati e residenti all'estero o come espatriati in talune regioni prima di aver compiuto il 16° anno di eta', siano stati poi al compimento del 32° anno di eta', in base alle disposizioni del citato articolo, dispensati in modo definitivo.
 
 ## Art. 2.
 

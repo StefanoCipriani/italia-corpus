@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 13 agosto 1921, n. 1080](Che%20reca%20provvedimenti%20per%20la%20riforma%20dellAmministrazione%20dello%20Stato%20la%20semplificazione%20dei%20servizi%20e%20la%20riduzione%20del%20personale.%20021U1080.md);
 
-Visto il [R. decreto 30 settembre 1922, n. 1290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-09-30;1290);
+Visto il [R. decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md);
 
 Sentito il Consiglio dei ministri;
 

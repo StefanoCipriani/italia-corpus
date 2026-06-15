@@ -218,16 +218,16 @@ Il controllo della Corte dei conti e' svolto, ai sensi degli [articoli 1](https:
 
 3.
 
-L'Ente e' inserito nella tabella A allegata alla [legge 29 ottobre 1984, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720), e successive modificazioni ed integrazioni, e ad esso si applica la normativa prevista dagli [articoli 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_25) e [30 della legge 5 agosto 1978, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_30), e successive integrazioni e modificazioni.
+L'Ente e' inserito nella tabella A allegata alla [legge 29 ottobre 1984, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720), e successive modificazioni ed integrazioni, e ad esso si applica la normativa prevista dagli [articoli 25](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md) e [30 della legge 5 agosto 1978, n. 468](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), e successive integrazioni e modificazioni.
 
 4.
 
-In attuazione dell'[articolo 9, comma 2, della legge 4 dicembre 1993, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491#art_9-com2), il bilancio dell'Ente e' sottoposto a certificazione ai sensi della [legge 7 giugno 1974, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-07;216), e del [decreto del Presidente della Repubblica 31 marzo 1975, n. 136](Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md). La mancata certificazione o il rifiuto dei certificatori di rilasciare dichiarazione di conformita' del bilancio ai principi contabili cui essi fanno riferimento importa la decadenza dall'incarico dell'amministratore e del direttore generale che hanno proposto il bilancio nella formulazione sottoposta alla denegata certificazione.
+In attuazione dell'[articolo 9, comma 2, della legge 4 dicembre 1993, n. 491](Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md), il bilancio dell'Ente e' sottoposto a certificazione ai sensi della [legge 7 giugno 1974, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20aprile%201974%20n.%2095%20recante%20disposizioni%20relative%20al%20mercato%20mobiliare%20ed%20al%20trattamento%20fiscale%20dei%20titoli%20azionari.md), e del [decreto del Presidente della Repubblica 31 marzo 1975, n. 136](Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md). La mancata certificazione o il rifiuto dei certificatori di rilasciare dichiarazione di conformita' del bilancio ai principi contabili cui essi fanno riferimento importa la decadenza dall'incarico dell'amministratore e del direttore generale che hanno proposto il bilancio nella formulazione sottoposta alla denegata certificazione.
 
 5.
 
 Per prevenire, accertare e reprimere le violazioni in danno dei fondi nazionali e comunitari, il sistema informativo e' direttamente collegato con l'anagrafe tributaria e con i sistemi informativi ad essa connessi, anche ai fini del procedimento di fermo amministrativo; la Guardia di finanza ha libero ed autonomo accesso a schedari, archivi e documentazione comunque a disposizione dell'Ente. 
-Restano ferme le disposizioni di cui agli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491#art_8) e [9 della legge 4 dicembre 1993, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491#art_9).
+Restano ferme le disposizioni di cui agli [articoli 8](Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md) e [9 della legge 4 dicembre 1993, n. 491](Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md).
 
 6.
 
@@ -245,7 +245,7 @@ Al personale dell'Ente continuano ad applicarsi le disposizioni del [decreto leg
 
 2.
 
-Entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Ministro, di concerto con i Ministri del tesoro e per la funzione pubblica, previa verifica dei carichi di lavoro, e' determinato il fabbisogno di personale dell'Ente ai sensi della [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537).
+Entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Ministro, di concerto con i Ministri del tesoro e per la funzione pubblica, previa verifica dei carichi di lavoro, e' determinato il fabbisogno di personale dell'Ente ai sensi della [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md).
 
 3.
 
@@ -257,7 +257,7 @@ A seguito della ricognizione di cui al comma 2, il consiglio adotta, su proposta
 
 5.
 
-Il personale appartenente alle qualifiche funzionali non inferiori alla settima e non inferiori alla quinta, adibito con decreto del Ministro al servizio ispettivo, svolge, nei limiti e secondo le attribuzioni ad esso conferite dalle leggi e dai regolamenti, le funzioni previste rispettivamente dai [commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-15;1304#art_18-com1) e [secondo dell'articolo 18 della legge 15 dicembre 1961, n. 1304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-15;1304#art_18-com2).
+Il personale appartenente alle qualifiche funzionali non inferiori alla settima e non inferiori alla quinta, adibito con decreto del Ministro al servizio ispettivo, svolge, nei limiti e secondo le attribuzioni ad esso conferite dalle leggi e dai regolamenti, le funzioni previste rispettivamente dai [commi primo](Istituzione%20dellagronomo%20di%20zona%20e%20riordinamento%20dei%20ruoli%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.md) e [secondo dell'articolo 18 della legge 15 dicembre 1961, n. 1304](Istituzione%20dellagronomo%20di%20zona%20e%20riordinamento%20dei%20ruoli%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.md).
 
 ## Art. 13. — Rappresentanza in giudizio
 
@@ -269,13 +269,13 @@ Per la rappresentanza e la difesa in giudizio l'Ente si avvale dell'Avvocatura d
 
 1.
 
-Con uno o piu' regolamenti, da emanarsi entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), sentito il comitato di cui all'[articolo 2, comma 6, della legge 4 dicembre 1993, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491#art_2-com6), e' data attuazione a quanto disposto dagli articoli 7, 8 e 9.
+Con uno o piu' regolamenti, da emanarsi entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), sentito il comitato di cui all'[articolo 2, comma 6, della legge 4 dicembre 1993, n. 491](Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md), e' data attuazione a quanto disposto dagli articoli 7, 8 e 9.
 
 ## Art. 15. — Norme transitorie
 
 1.
 
-Sino alla data di entrata in vigore dei regolamenti previsti dall'articolo 14, comma 1, si applicano all'Ente, in quanto compatibili con il presente decreto, le norme di cui alla [legge 14 agosto 1982, n. 610](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;610), ed al [decreto del Presidente della Repubblica 14 febbraio 1985, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-02-14;30), le quali sono abrogate, con effetto dalla medesima data, nelle parti esplicitamente individuate dai regolamenti stessi.
+Sino alla data di entrata in vigore dei regolamenti previsti dall'articolo 14, comma 1, si applicano all'Ente, in quanto compatibili con il presente decreto, le norme di cui alla [legge 14 agosto 1982, n. 610](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;610), ed al [decreto del Presidente della Repubblica 14 febbraio 1985, n. 30](../DPR/Approvazione%20dello%20statuto-regolamento%20dellAzienda%20di%20Stato%20per%20gli%20interventi%20nel%20mercato%20agricolo%20A.I.M.A.md), le quali sono abrogate, con effetto dalla medesima data, nelle parti esplicitamente individuate dai regolamenti stessi.
 
 2.
 

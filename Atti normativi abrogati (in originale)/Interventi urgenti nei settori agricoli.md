@@ -25,7 +25,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il termine di cui all'[articolo 7 del decreto-legge 13 agosto 1975, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1975-08-13;377#art_7), convertito, con modificazioni, dalla [legge 16 ottobre 1975, n. 493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-10-16;493), relativo alla durata del Fondo per lo sviluppo della meccanizzazione in agricoltura, di cui all'[articolo 12 della legge 27 ottobre 1966, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-27;910#art_12), e successive integrazioni, e' prorogato al 31 dicembre 2002.
+Il termine di cui all'[articolo 7 del decreto-legge 13 agosto 1975, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1975-08-13;377#art_7), convertito, con modificazioni, dalla [legge 16 ottobre 1975, n. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%201975%20n.%20377%20concernente%20provvedimenti%20per%20il%20rilancio%20delleconomia%20riguardanti%20incentivi%20a%20favore%20delle%20piccole%20e%20medie%20_41654cedc883.md), relativo alla durata del Fondo per lo sviluppo della meccanizzazione in agricoltura, di cui all'[articolo 12 della legge 27 ottobre 1966, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-27;910#art_12), e successive integrazioni, e' prorogato al 31 dicembre 2002.
 
 ## Art. 2. — Interventi finanziari straordinari
 
@@ -48,7 +48,7 @@ All'onere derivante dall'applicazione dell'articolo 2 si provvede mediante utili
 
 1.
 
-Per l'anno 1995 e' differito al 31 dicembre il termine del 30 novembre stabilito nell'[articolo 10, comma 6, della legge 26 novembre 1992, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468#art_10-com6), per la cessione della quota latte. L'affitto di quote latte di cui all'[articolo 10, comma 2, della legge n. 468 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;468#art_10-com2) e' consentito esclusivamente per la durata di un intero periodo e puo' essere rinnovato solo due volte.
+Per l'anno 1995 e' differito al 31 dicembre il termine del 30 novembre stabilito nell'[articolo 10, comma 6, della legge 26 novembre 1992, n. 468](Misure%20urgenti%20nel%20settore%20lattiero-caseario.md), per la cessione della quota latte. L'affitto di quote latte di cui all'[articolo 10, comma 2, della legge n. 468 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;468#art_10-com2) e' consentito esclusivamente per la durata di un intero periodo e puo' essere rinnovato solo due volte.
 
 ## Art. 5. — Entrata in vigore
 

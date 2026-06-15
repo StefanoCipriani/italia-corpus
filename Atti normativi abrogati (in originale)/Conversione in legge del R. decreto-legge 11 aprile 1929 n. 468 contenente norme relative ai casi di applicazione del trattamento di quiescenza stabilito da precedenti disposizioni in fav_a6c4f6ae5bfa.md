@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 aprile 1929, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-04-11;468), contenente norme relative ai casi di applicazione del trattamento di quiescenza stabilito da precedenti disposizioni in favore di alcuni magistrati giudiziari ed amministrativi. 
+ E' convertito in legge il [R. decreto-legge 11 aprile 1929, n. 468](Norme%20relative%20ai%20casi%20di%20applicazione%20del%20trattamento%20di%20quiescenza%20stabilito%20da%20precedenti%20disposizioni%20in%20favore%20di%20alcuni%20magistrati%20giudiziari%20ed%20amministrativi.%20029U0468.md), contenente norme relative ai casi di applicazione del trattamento di quiescenza stabilito da precedenti disposizioni in favore di alcuni magistrati giudiziari ed amministrativi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

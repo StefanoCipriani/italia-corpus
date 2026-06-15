@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 aprile 1928, n. 840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-04-09;840), riguardante la concessione di assegni speciali alla vedova del Maresciallo d'Italia Armando Diaz. 
+ E' convertito in legge il [R. decreto-legge 9 aprile 1928, n. 840](Concessione%20di%20assegni%20speciali%20alla%20vedova%20del%20Maresciallo%20dItalia%20Armando%20Diaz.%20028U0840.md), riguardante la concessione di assegni speciali alla vedova del Maresciallo d'Italia Armando Diaz. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

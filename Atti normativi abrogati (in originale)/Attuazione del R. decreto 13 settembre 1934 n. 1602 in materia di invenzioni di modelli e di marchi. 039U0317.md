@@ -16,13 +16,13 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 13 settembre 1934, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-13;1602), in materia di invenzioni, di modelli e di marchi;
+Visto il [R. decreto 13 settembre 1934, n. 1602](Privative%20industriali%20e%20marchi%20di%20fabbrica%20e%20di%20commercio.%20034U1602.md), in materia di invenzioni, di modelli e di marchi;
 
 Visto il [R. decreto-legge 17 febbraio 1936, n. 305](Disposizioni%20per%20lattuazione%20della%20riforma%20riguardante%20i%20servizi%20della%20proprieta%20intellettuale.%20036U0305.md), sui servizi della proprieta' intellettuale;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta la necessita' urgente e assoluta di disporre per l'attuazione graduale del richiamato [R. decreto 13 settembre 1934, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-13;1602), in rapporto con le esigenze dell'organizzazione tecnica;
+Ritenuta la necessita' urgente e assoluta di disporre per l'attuazione graduale del richiamato [R. decreto 13 settembre 1934, n. 1602](Privative%20industriali%20e%20marchi%20di%20fabbrica%20e%20di%20commercio.%20034U1602.md), in rapporto con le esigenze dell'organizzazione tecnica;
 
 Tenuta altresi' presente la necessita' di introdurre modificazioni ai decreti sopra richiamati, nonche' di mantenere in vigore alcune norme dell'attuale legislazione nelle materie delle invenzioni, dei modelli e dei marchi;
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni, di c
 
 ## Art. 1.
 
-Il [R. decreto 13 settembre 1934, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-13;1602), avra' attuazione in tempi diversi, mediante distinti provvedimenti, separatamente per la materia delle invenzioni, per quella dei modelli e per quella dei marchi. 
+Il [R. decreto 13 settembre 1934, n. 1602](Privative%20industriali%20e%20marchi%20di%20fabbrica%20e%20di%20commercio.%20034U1602.md), avra' attuazione in tempi diversi, mediante distinti provvedimenti, separatamente per la materia delle invenzioni, per quella dei modelli e per quella dei marchi. 
  
  Il decreto anzidetto, per la materia delle invenzioni e per quella dei marchi, avra' altresi' attuazione graduale. Al Governo del Re sono delegati i necessari poteri per stabilire la ripartizione delle disposizioni secondo le tre distinte materie anzidette, per regolare la gradualita' dell'applicazione delle disposizioni stesse e per riunire in appositi testi le disposizioni da mettere in attuazione per prime, nonche' quelle da attuare in tempi successivi, mediante Regi decreti, aventi forza di legge, da emanare a norma degli articoli seguenti.
 
@@ -40,7 +40,7 @@ Il [R. decreto 13 settembre 1934, n. 1602](https://www.normattiva.it/uri-res/N2L
 
 E' differita, per qualunque effetto, a tempi successivi, l'attuazione degli articoli seguenti del richiamato [R. decreto 13 settembre 1934, n. 1602: 
  
- a) articoli 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-13;1602#art_28) e [90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-13;1602#art_90), e connesse disposizioni, per la parte riguardante l'esame preventivo della novita' in materia sia di invenzioni, sia di marchi; 
+ a) articoli 28](Privative%20industriali%20e%20marchi%20di%20fabbrica%20e%20di%20commercio.%20034U1602.md) e [90](Privative%20industriali%20e%20marchi%20di%20fabbrica%20e%20di%20commercio.%20034U1602.md), e connesse disposizioni, per la parte riguardante l'esame preventivo della novita' in materia sia di invenzioni, sia di marchi; 
  
  b) art. 33, eccettuato il n. 2 del comma secondo, art. 91 e art. 92, e connesse disposizioni, per la parte riguardante l'opposizione preventiva in materia sia di invenzioni, sia di marchi; 
  
@@ -48,14 +48,14 @@ E' differita, per qualunque effetto, a tempi successivi, l'attuazione degli arti
  
  d) articoli 120 e seguenti, nonche' articoli 123 e seguenti, e connesse disposizioni, riguardanti, rispettivamente, l'istituzione del Consiglio delle privative e dei marchi e l'istituzione dell'Albo dei rappresentanti per le privative e per i marchi; 
  
- e) art. 143, e connesse disposizioni, riguardanti l'applicazione, nelle Colonie e nei Possedimenti italiani, del predetto [R. decreto 13 settembre 1934, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-13;1602). 
+ e) art. 143, e connesse disposizioni, riguardanti l'applicazione, nelle Colonie e nei Possedimenti italiani, del predetto [R. decreto 13 settembre 1934, n. 1602](Privative%20industriali%20e%20marchi%20di%20fabbrica%20e%20di%20commercio.%20034U1602.md). 
  
  Analogamente, e' differita l'attuazione: dell'art. 16, comma secondo, riguardante le invenzioni dei processi per medicamenti;
 dell'art. 20, per la parte riguardante la durata dei brevetti d'invenzione; dell'art. 95, comma secondo, riguardante la durata degli effetti della registrazione dei marchi; nonche' delle disposizioni che deferiscono al Ministro per le corporazioni la decisione dei ricorsi in materia di invenzioni, di modelli e di marchi.
 
 ## Art. 3.
 
-Mediante Regi decreti, promossi dal Ministro per le corporazioni, di concerto con gli altri Ministri interessati, previa deliberazione del Consiglio dei Ministri, il Governo del Re, con i poteri delegati di cui al precedente art. 1, provvedera' a riunire in appositi testi, separatamente per le invenzioni, i modelli e i marchi, le disposizioni del [R. decreto 13 settembre 1934, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-13;1602), da mettere in attuazione per prime, nonche' le disposizioni delle leggi e dei decreti vigenti che restano in vigore. 
+Mediante Regi decreti, promossi dal Ministro per le corporazioni, di concerto con gli altri Ministri interessati, previa deliberazione del Consiglio dei Ministri, il Governo del Re, con i poteri delegati di cui al precedente art. 1, provvedera' a riunire in appositi testi, separatamente per le invenzioni, i modelli e i marchi, le disposizioni del [R. decreto 13 settembre 1934, n. 1602](Privative%20industriali%20e%20marchi%20di%20fabbrica%20e%20di%20commercio.%20034U1602.md), da mettere in attuazione per prime, nonche' le disposizioni delle leggi e dei decreti vigenti che restano in vigore. 
  
  Il Governo del Re, con i poteri anzidetti, provvedera' altresi' a coordinare, in tale sede, le disposizioni richiamate nel precedente comma, al fine di disciplinare organicamente le singole materie, integrando, modificando, sopprimendo le disposizioni stesse, anche per armonizzarle con le Convenzioni internazionali, esecutive nel Regno, e, in generale, con le altre leggi dello Stato. 
  
@@ -75,7 +75,7 @@ In conformita' degli articoli 1 e 3, e con i poteri da essi conferiti al Governo
 
 Alle relative norme regolamentari verra' provveduto in conformita' dell'art. 4. 
  
- I provvedimenti previsti nel presente e nei precedenti articoli 3 e 4, aventi per oggetto esclusivo l'attuazione dell'articolo 143 del richiamato [R. decreto 13 settembre 1934, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-13;1602), saranno promossi dal Ministro per l'Africa italiana, fermo il concerto con gli altri Ministri interessati.
+ I provvedimenti previsti nel presente e nei precedenti articoli 3 e 4, aventi per oggetto esclusivo l'attuazione dell'articolo 143 del richiamato [R. decreto 13 settembre 1934, n. 1602](Privative%20industriali%20e%20marchi%20di%20fabbrica%20e%20di%20commercio.%20034U1602.md), saranno promossi dal Ministro per l'Africa italiana, fermo il concerto con gli altri Ministri interessati.
 
 ## Art. 6.
 

@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Veduta la [legge 24 marzo 1921, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-24;375), recante provvedimenti per l'Ente autonomo "Volturno" in Napoli;
+Veduta la [legge 24 marzo 1921, n. 375](Che%20reca%20provvedimenti%20per%20lEnte%20autonomo%20Volturno%20in%20Napoli.%20021U0375.md), recante provvedimenti per l'Ente autonomo "Volturno" in Napoli;
 
-Visto il [regio decreto 6 settembre 1921, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-09-06;1354), col quale venne approvato il regolamento per l'esecuzione della legge suddetta;
+Visto il [regio decreto 6 settembre 1921, n. 1354](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%2024%20marzo%201921%20n.%20375%20recante%20provvedimenti%20per%20lEnte%20autonomo%20Volturno%20in%20Napoli.%20021U1354.md), col quale venne approvato il regolamento per l'esecuzione della legge suddetta;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -31,7 +31,7 @@ E' istituito presso l'Ente autonomo "Volturno" in Napoli un Collegio di revisori
 
 ## Art. 2.
 
-La disposizione del [secondo comma, n. 11, dell'art. 1 del regio decreto 6 settembre 1921, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-09-06;1354#art_1-com2-num11), e' abrogata.
+La disposizione del [secondo comma, n. 11, dell'art. 1 del regio decreto 6 settembre 1921, n. 1354](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%2024%20marzo%201921%20n.%20375%20recante%20provvedimenti%20per%20lEnte%20autonomo%20Volturno%20in%20Napoli.%20021U1354.md), e' abrogata.
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

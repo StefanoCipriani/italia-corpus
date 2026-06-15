@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto-legge 13 gennaio 1941, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1941-01-13;33), convertito, con modificazioni, nella [legge 19 luglio 1941, n. 967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-07-19;967), concernente la disciplina delle importazioni e delle esportazioni;
+Visto il [decreto-legge 13 gennaio 1941, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1941-01-13;33), convertito, con modificazioni, nella [legge 19 luglio 1941, n. 967](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013%20gennaio%201941-XIX%20n.%2033%20contenente%20nuova%20disciplina%20delle%20importazioni%20e%20delle%20esportazioni.%20041U0967.md), concernente la disciplina delle importazioni e delle esportazioni;
 
 Visto il decreto interministeriale 21 dicembre 1941, pubblicato nella Gazzetta Ufficiale del 25 febbraio 1942, n. 46, concernente la devoluzione all'Erario degli utili derivanti dalle operazioni di acquisto delle merci accentrate;
 
@@ -20,7 +20,7 @@ Visto il [decreto luogotenenziale 16 gennaio 1946, n. 12](https://www.normattiva
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione dei Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di State per il commercio con l'estero, d
 
 ## Art. 1.
 
-La facolta' attribuita al Ministro per gli scambi e per le valute con il [decreto-legge 13 gennaio 1941, numero 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1941-01-13;33), convertito, con modificazioni, nella [legge 19 luglio 1941, n. 967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-07-19;967), e' devoluta al Ministro per il commercio con l'estero, che a tal fine provvede di concerto con i Ministri per il tesoro, per le finanze, per l'industria e il commercio e per l'agricoltura a le foreste.
+La facolta' attribuita al Ministro per gli scambi e per le valute con il [decreto-legge 13 gennaio 1941, numero 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1941-01-13;33), convertito, con modificazioni, nella [legge 19 luglio 1941, n. 967](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013%20gennaio%201941-XIX%20n.%2033%20contenente%20nuova%20disciplina%20delle%20importazioni%20e%20delle%20esportazioni.%20041U0967.md), e' devoluta al Ministro per il commercio con l'estero, che a tal fine provvede di concerto con i Ministri per il tesoro, per le finanze, per l'industria e il commercio e per l'agricoltura a le foreste.
 
 ## Art. 2.
 

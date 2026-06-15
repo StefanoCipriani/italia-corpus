@@ -14,9 +14,9 @@ Visto il Codice postale e delle telecomunicazioni, approvato col [regio decreto 
 
 Visto il [regio decreto 22 maggio 1944, n. 593](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-05-22;593);
 
-Visto il [regio decreto 24 ottobre 1942, n. 1553](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1553);
+Visto il [regio decreto 24 ottobre 1942, n. 1553](Modificazioni%20al%20Libro%20III%20della%20legge%20postale%20e%20delle%20telecomunicazioni%20e%20al%20relativo%20regolamento%20di%20esecuzione.%20042U1553.md);
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3) e la [legge 4 settembre 1940, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-04;1547);
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md) e la [legge 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md);
 
 Visto l'[art. 4 del decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1#art_4);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Articolo unico.
 
-Sono abrogate la lettera f) dell'art. 285 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645, e la lettera e) dell'articolo 326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645#art_326-lete), modificati con l'[art. 2 del regio decreto 24 ottobre 1942, n. 1553](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1553#art_2), nonche' la lettera d) del secondo comma dell'art. 288, del Codice medesimo, modificato con l'[art. 1 del regio decreto 22 maggio 1941, n. 593](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-05-22;593#art_1).
+Sono abrogate la lettera f) dell'art. 285 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645, e la lettera e) dell'articolo 326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645#art_326-lete), modificati con l'[art. 2 del regio decreto 24 ottobre 1942, n. 1553](Modificazioni%20al%20Libro%20III%20della%20legge%20postale%20e%20delle%20telecomunicazioni%20e%20al%20relativo%20regolamento%20di%20esecuzione.%20042U1553.md), nonche' la lettera d) del secondo comma dell'art. 288, del Codice medesimo, modificato con l'[art. 1 del regio decreto 22 maggio 1941, n. 593](Modificazioni%20al%20Libro%20III%20del%20Codice%20postale%20e%20delle%20telecomunicazioni%20ed%20al%20regolamento%20delle%20ricevitorie%20postali%20telegrafiche.%20041U0593.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

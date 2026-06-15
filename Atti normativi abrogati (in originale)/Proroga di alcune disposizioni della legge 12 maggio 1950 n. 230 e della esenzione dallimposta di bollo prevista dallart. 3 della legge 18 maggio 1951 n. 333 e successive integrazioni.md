@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visti gli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230#art_14) e [15 della legge 12 maggio 1950, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230#art_15);
+Visti gli [articoli 12](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), [13](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), [14](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md) e [15 della legge 12 maggio 1950, n. 230](Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md);
 
-Visto l'[art. 3 della legge 18 maggio 1951, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-18;333#art_3), e l'articolo unico della [legge 5 dicembre 1955, n. 1226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-12-05;1226);
+Visto l'[art. 3 della legge 18 maggio 1951, n. 333](Norme%20interpretative%20e%20integrative%20della%20legge%2021%20ottobre%201950%20n.%20841%20concernente%20lespropriazione%20la%20bonifica%20la%20trasformazione%20e%20lassegnazione%20dei%20terreni%20ai%20contadini.md), e l'articolo unico della [legge 5 dicembre 1955, n. 1226](Estensione%20di%20facilitazioni%20fiscali%20allOpera%20valorizzazione%20della%20Sila%20concesse%20agli%20altri%20Enti%20di%20riforma%20fondiaria.md);
 
 Ritenuta la straordinaria necessita' e l'urgenza di prorogare le precitate disposizioni;
 
@@ -24,11 +24,11 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con 
 
 ## Art. 1.
 
-Le disposizioni degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-05-20;230#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-05-20;230#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-05-20;230#art_14) e [15 della legge 12 maggio 1950, n. 230, dal 20 maggio 1956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-05-20;230#art_15) sono prorogate sino all'entrata in vigore delle norme concernenti il riordinamento degli organi degli Enti e delle Sezioni speciali istituiti a norma dell'[art. 2 della legge 21 ottobre 1950, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841#art_2).
+Le disposizioni degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-05-20;230#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-05-20;230#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-05-20;230#art_14) e [15 della legge 12 maggio 1950, n. 230, dal 20 maggio 1956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-05-20;230#art_15) sono prorogate sino all'entrata in vigore delle norme concernenti il riordinamento degli organi degli Enti e delle Sezioni speciali istituiti a norma dell'[art. 2 della legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md).
 
 ## Art. 2.
 
-Le disposizioni contenute nell'[art. 47 del decreto legislativo 25 giugno 1953, n. 492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1953-06-25;492#art_47), non si applicano all'esenzione dall'imposta di bollo, di cui all'[art. 3 della legge 18 maggio 1951, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-18;333#art_3), ed all'articolo unico della [legge 5 dicembre 1955, n. 1226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-12-05;1226).
+Le disposizioni contenute nell'[art. 47 del decreto legislativo 25 giugno 1953, n. 492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1953-06-25;492#art_47), non si applicano all'esenzione dall'imposta di bollo, di cui all'[art. 3 della legge 18 maggio 1951, n. 333](Norme%20interpretative%20e%20integrative%20della%20legge%2021%20ottobre%201950%20n.%20841%20concernente%20lespropriazione%20la%20bonifica%20la%20trasformazione%20e%20lassegnazione%20dei%20terreni%20ai%20contadini.md), ed all'articolo unico della [legge 5 dicembre 1955, n. 1226](Estensione%20di%20facilitazioni%20fiscali%20allOpera%20valorizzazione%20della%20Sila%20concesse%20agli%20altri%20Enti%20di%20riforma%20fondiaria.md).
 
 ## Art. 3.
 

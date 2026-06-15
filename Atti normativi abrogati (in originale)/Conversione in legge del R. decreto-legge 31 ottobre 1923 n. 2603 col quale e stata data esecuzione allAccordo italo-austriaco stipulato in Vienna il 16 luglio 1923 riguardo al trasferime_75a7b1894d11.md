@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 ottobre 1923, n. 2603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-10-31;2603), col quale piena ed intera esecuzione e' data all'Accordo stipulato a Vienna il 16 luglio 1923, fra il Regno d'Italia e la Repubblica d'Austria, riguardo al trasferimento di sede delle societa', e cioe' delle persone giuridiche, commerciali ed altre associazioni, escluse le banche e le societa' di assicurazione. 
+ E' convertito in legge il [R. decreto-legge 31 ottobre 1923, n. 2603](Accordo%20italo-austriaco%20per%20il%20trasferimento%20di%20sede%20delle%20societa%20commerciali.%20023U2603.md), col quale piena ed intera esecuzione e' data all'Accordo stipulato a Vienna il 16 luglio 1923, fra il Regno d'Italia e la Repubblica d'Austria, riguardo al trasferimento di sede delle societa', e cioe' delle persone giuridiche, commerciali ed altre associazioni, escluse le banche e le societa' di assicurazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

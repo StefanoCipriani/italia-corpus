@@ -100,7 +100,7 @@ E) rimorchi per trasporto di persone:
 
 ## Art. 8.
 
-L'[articolo 5 del decreto legislativo luogotenenziale 18 giugno 1945, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-18;399#art_5), e' sostituito dal seguente:
+L'[articolo 5 del decreto legislativo luogotenenziale 18 giugno 1945, n. 399](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20del%20trattamento%20tributario%20e%20degli%20emolumenti%20dovuti%20agli%20atti%20da%20prodursi%20al%20Pubblico%20Registro%20Automobilistico.%20045U0399.md), e' sostituito dal seguente:
  "Sono soggetti alla tassa del 10 per mille, da applicarsi sull'ammontare del credito e degli accessori, gli atti relativi:
  a) alla costituzione di ipoteca convenzionale su autoveicoli, a garanzia di crediti che abbiano gia' scontato l'imposta di registro;
  b) alla costituzione della ipoteca legale su autoveicoli prevista dal [1°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-15;436#art_2-com1) e [2° comma dell'articolo 2 del regio decreto-legge 15 marzo 1927, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-15;436#art_2-com2), quando e' contestuale alla vendita dell'autoveicolo stesso. In tal caso non e' dovuta l'imposta di registro sulla sovvenzione del prezzo;
@@ -111,7 +111,7 @@ L'[articolo 5 del decreto legislativo luogotenenziale 18 giugno 1945, n. 399](ht
  3) gli atti di surrogazione di un terzo nei diritti del creditore;
  4) gli atti di costituzione in pegno del credito garantito;
  5) gli atti di sostituzione di un debitore ad un altro con o senza novazione del credito.
- Nel caso di trasferimento di autoveicoli con la costituzione dell'ipoteca di cui al primo comma, lettera b), e' dovuta unicamente l'imposta maggiore fra quella stabilita dall'[articolo 3 del decreto legislativo luogotenenziale 18 giugno 1945, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-18;399#art_3), e quella prevista dal presente articolo".
+ Nel caso di trasferimento di autoveicoli con la costituzione dell'ipoteca di cui al primo comma, lettera b), e' dovuta unicamente l'imposta maggiore fra quella stabilita dall'[articolo 3 del decreto legislativo luogotenenziale 18 giugno 1945, n. 399](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20del%20trattamento%20tributario%20e%20degli%20emolumenti%20dovuti%20agli%20atti%20da%20prodursi%20al%20Pubblico%20Registro%20Automobilistico.%20045U0399.md), e quella prevista dal presente articolo".
 
 ## Art. 9.
 

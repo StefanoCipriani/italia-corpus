@@ -18,7 +18,7 @@ Durante la presente guerra, i militari del R. esercito e della Regia guardia di 
 
 ## Art. 2.
 
-Pei militari che disertano la seconda volta, il giudizio avra' luogo di regola con precedenza sugli altri e gl'imputati saranno giudicati anche per la prima diserzione e puniti a norma dell'art. 145 cap. del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito, nel caso che siano riconosciuti colpevoli di entrambi i reati. Saranno quindi inviati al fronte, restando sospesa l'esecuzione della pena. 
+Pei militari che disertano la seconda volta, il giudizio avra' luogo di regola con precedenza sugli altri e gl'imputati saranno giudicati anche per la prima diserzione e puniti a norma dell'art. 145 cap. del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, nel caso che siano riconosciuti colpevoli di entrambi i reati. Saranno quindi inviati al fronte, restando sospesa l'esecuzione della pena. 
  
  Il presidente del tribunale, nel pronunciare la condanna avvertira' il colpevole che, incorrendo per la terza volta nello stesso reato, sara' punito a norma dell'articolo seguente. 
  
@@ -26,7 +26,7 @@ Pei militari che disertano la seconda volta, il giudizio avra' luogo di regola c
 
 ## Art. 3.
 
-Il militare che, dopo la condanna e l'ammonimento, di cui all'articolo precedente, si renda responsabile di altro reato di diserzione, sara' considerato come disertore in presenza del nemico e punito a norma dell'[art. 137 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_137) militare per l'esercito.
+Il militare che, dopo la condanna e l'ammonimento, di cui all'articolo precedente, si renda responsabile di altro reato di diserzione, sara' considerato come disertore in presenza del nemico e punito a norma dell'[art. 137 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'esercito.
 
 ## Art. 4.
 
@@ -34,7 +34,7 @@ Salvo quanto e' disposto nell'art. 2, durante la presente guerra e' sospesa l'es
 
 ## Art. 5.
 
-E' pure differita, durante la presente guerra, l'esecuzione della sospensione dall'impiego, tanto nel caso che sia pena accessoria di altra restrittiva della liberta' personale nei limiti stabiliti dal presente decreto, quanto nel caso in cui sia pena per se' stante, oppure provvedimento disciplinare, a senso del titolo 2°, capo 4°, [paragrafo 4° e dell'art. 28 della legge 18 luglio 1912, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-18;806#art_28-par4), sullo stato degli ufficiali del R. esercito e della R. marina. 
+E' pure differita, durante la presente guerra, l'esecuzione della sospensione dall'impiego, tanto nel caso che sia pena accessoria di altra restrittiva della liberta' personale nei limiti stabiliti dal presente decreto, quanto nel caso in cui sia pena per se' stante, oppure provvedimento disciplinare, a senso del titolo 2°, capo 4°, [paragrafo 4° e dell'art. 28 della legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina. 
  
  Il differimento dell'esecuzione della sospensione dall'impiego non riguarda tuttavia gli effetti previsti dall'art. 21 della citata legge, circa la perdita di anzianita', la quale in ogni caso si verifichera' immediatamente, come se la pena o la punizione di cui trattasi fosse espiata senza ritardo.
 

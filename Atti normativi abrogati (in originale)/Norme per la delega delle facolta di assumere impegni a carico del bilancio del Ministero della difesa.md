@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico della Amministrazione dello Stato, e successive modificazioni;
+Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico della Amministrazione dello Stato, e successive modificazioni;
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), contenente le disposizioni sullo stato giuridico degli impiegati della Amministrazione dello Stato, e successive modificazioni;
 
@@ -28,7 +28,7 @@ Visto il Decreto interministeriale 4 marzo 1929, recante norme per la delega del
 
 Visto il [regio decreto 4 luglio 1935, n. 1406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-07-04;1406), recante norme per le deleghe di firma ad assumere impegni sui bilancio dell'Aeronautica;
 
-Vista la [legge 9 gennaio 1951, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-01-09;204), sulle onoranze ai Caduti;
+Vista la [legge 9 gennaio 1951, n. 204](Onoranze%20ai%20Caduti%20in%20guerra.md), sulle onoranze ai Caduti;
 
 Sulla proposta del Ministro per la difesa, di concerto col Ministro per il tesoro; Decreta:
 
@@ -72,11 +72,11 @@ Ai direttori generali ai quali e' demandata la competenza in materia di determin
 
 ## Art. 6.
 
-I limiti di somma di cui all'art. 3 lettere a), b) e c) del presente decreto sono temporaneamente aumentati di venti volte ai sensi del [decreto legislativo 20 gennaio 1948, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-20;18).
+I limiti di somma di cui all'art. 3 lettere a), b) e c) del presente decreto sono temporaneamente aumentati di venti volte ai sensi del [decreto legislativo 20 gennaio 1948, n. 18](../Decreti%20Legislativi/Temporaneo%20aumento%20degli%20originari%20limiti%20di%20somma%20previsti%20nella%20legge%20e%20nel%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20nelle%20leggi%20e%20regolamenti%20contabili%20speciali%20e%20dallart.%2018%20de_2b2f6d7e8ac9.md).
 
 ## Art. 7.
 
-Sono abrogati il regio decreto 17 agosto 1928, modificato con decreto del Capo provvisorio dello Stato luglio 1947, n. 1878, ed il [regio decreto 4 luglio 1935, n. 1466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-07-04;1466), nonche' il capo I del decreto interministeriale in data 4 marzo 1929 concernente "norme per la delega delle facolta' di assunzione di impegni a carico del bilancio della Marina e per la denuncia degli impegni medesimi".
+Sono abrogati il regio decreto 17 agosto 1928, modificato con decreto del Capo provvisorio dello Stato luglio 1947, n. 1878, ed il [regio decreto 4 luglio 1935, n. 1466](Norme%20per%20le%20deleghe%20di%20firma.%20035U1466.md), nonche' il capo I del decreto interministeriale in data 4 marzo 1929 concernente "norme per la delega delle facolta' di assunzione di impegni a carico del bilancio della Marina e per la denuncia degli impegni medesimi".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

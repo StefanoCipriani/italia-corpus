@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 febbraio 1937, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-18;478), che aumenta il contributo del Ministero dell'aeronautica a favore della Scuola di perfezionamento in ingegneria aeronautica di Torino. 
+ E' convertito in legge il [R. decreto-legge 18 febbraio 1937, n. 478](Aumento%20del%20contributo%20del%20Ministero%20dellaeronautica%20a%20favore%20della%20Scuola%20di%20perfezionamento%20in%20ingegneria%20aeronautica%20di%20Torino.%20037U0478.md), che aumenta il contributo del Ministero dell'aeronautica a favore della Scuola di perfezionamento in ingegneria aeronautica di Torino. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

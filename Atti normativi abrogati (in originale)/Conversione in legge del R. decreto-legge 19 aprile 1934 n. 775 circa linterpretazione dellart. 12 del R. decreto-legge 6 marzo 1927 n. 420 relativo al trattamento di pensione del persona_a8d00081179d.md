@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-19;775), circa l'interpretazione dell'[art. 12 del R. decreto-legge 6 marzo 1927, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-06;420#art_12), relativo al trattamento di pensione del personale militare della Regia aeronautica. 
+ E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 775](Interpretazione%20dellart.%2012%20del%20R.%20decreto-legge%206%20marzo%201927%20n.%20420%20circa%20la%20concessione%20di%20una%20indennita%20ai%20sottufficiali%20congedati%20riformati%20o%20dispensati%20dal%20servizio%20senza%20aver%20diritt_4827cee90851.md), circa l'interpretazione dell'[art. 12 del R. decreto-legge 6 marzo 1927, n. 420](Norme%20relative%20al%20trattamento%20di%20pensione%20da%20corrispondere%20al%20personale%20militare%20della%20Regia%20aeronautica.%20027U0420.md), relativo al trattamento di pensione del personale militare della Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti dei Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

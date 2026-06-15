@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156);
+Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il [decreto del Presidente della Repubblica 12 ottobre 1976, n. 718](Tariffe%20postali%20telegrafiche%20e%20per%20il%20servizio%20diretto%20fra%20utenti%20telegrafici%20telex%20nellinterno%20della%20Repubblica.md);
 
-Visto il [decreto del Presidente della Repubblica 29 ottobre 1976, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-10-29;726);
+Visto il [decreto del Presidente della Repubblica 29 ottobre 1976, n. 726](../DPR/Integrazione%20del%20decreto%20del%20Presidente%20della%20Repubblica%2012%20ottobre%201976%20n.%20718%20per%20la%20parte%20concernente%20la%20spedizione%20delle%20stampe%20periodiche.md);
 
-Visto il [decreto del Presidente della Repubblica 24 dicembre 1976, n. 871](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-12-24;871);
+Visto il [decreto del Presidente della Repubblica 24 dicembre 1976, n. 871](../DPR/Tariffe%20postali%20in%20materia%20di%20stampe%20periodiche.md);
 
 Sentito il consiglio di amministrazione delle poste e delle telecomunicazioni;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni di concerto con 
 
 ## Articolo unico
 
-A decorrere dal 1 gennaio 1978 la voce n. 5 della tabella 1 allegata al [decreto del Presidente della Repubblica 12 ottobre 1976, n. 718](Tariffe%20postali%20telegrafiche%20e%20per%20il%20servizio%20diretto%20fra%20utenti%20telegrafici%20telex%20nellinterno%20della%20Repubblica.md), successivamente modificata con i [decreti del Presidente della Repubblica 29 ottobre 1976, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-10-29;726) e [24 dicembre 1976, n. 871](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-12-24;871), e' sostituita dalla seguente: 
+A decorrere dal 1 gennaio 1978 la voce n. 5 della tabella 1 allegata al [decreto del Presidente della Repubblica 12 ottobre 1976, n. 718](Tariffe%20postali%20telegrafiche%20e%20per%20il%20servizio%20diretto%20fra%20utenti%20telegrafici%20telex%20nellinterno%20della%20Repubblica.md), successivamente modificata con i [decreti del Presidente della Repubblica 29 ottobre 1976, n. 726](../DPR/Integrazione%20del%20decreto%20del%20Presidente%20della%20Repubblica%2012%20ottobre%201976%20n.%20718%20per%20la%20parte%20concernente%20la%20spedizione%20delle%20stampe%20periodiche.md) e [24 dicembre 1976, n. 871](../DPR/Tariffe%20postali%20in%20materia%20di%20stampe%20periodiche.md), e' sostituita dalla seguente: 
  
 5) STAMPE PERIODICHE SPEDITE IN ABBONAMENTO POSTALE DIRETTAMENTE DAGLI AMMINISTRATORI E DAGLI EDITORI IN NUMERO NON INFERIORE A 1.000 ESEMPLARI.
 

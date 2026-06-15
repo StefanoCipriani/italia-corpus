@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 5 luglio 1908, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-05;408), che approva il ruolo organico del personale del R. Corpo delle miniere;
+Vista la [legge 5 luglio 1908, n. 408](Provvedimenti%20per%20il%20Real%20corpo%20delle%20miniere.%20008U0408.md), che approva il ruolo organico del personale del R. Corpo delle miniere;
 
 Visto il [decreto Luogotenenziale del 18 novembre 1915 n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625), relativo ad economie nelle spese delle amministrazioni dello Stato;
 

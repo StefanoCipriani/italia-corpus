@@ -529,7 +529,7 @@ Nelle localita', dove la sistemazione degli uffici pubblici statali o degli Enti
 
 ### Art. 63.
 
-Per i lavori che fino al 31 ottobre 1946 saranno disposti in applicazione del presente decreto l'Amministrazione dei lavori pubblici e' autorizzata ad avvalersi della facolta' di cui all'[art. 1 della legge 9 luglio 1940, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;938#art_1).
+Per i lavori che fino al 31 ottobre 1946 saranno disposti in applicazione del presente decreto l'Amministrazione dei lavori pubblici e' autorizzata ad avvalersi della facolta' di cui all'[art. 1 della legge 9 luglio 1940, n. 938](Interventi%20di%20pronto%20soccorso%20per%20la%20riparazione%20di%20opere%20pubbliche%20danneggiate%20in%20conseguenza%20di%20azioni%20belliche.%20040U0938.md).
 
 ### Art. 64.
 

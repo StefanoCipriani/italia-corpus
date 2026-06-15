@@ -30,17 +30,17 @@ In attesa del riordino strutturale ed organico, anche ai fini della armonizzazio
                         b)
                             per il personale femminile: 4,00 punti;
                         c)
-                            per i dipendenti delle imprese indicate nell'[articolo 1, comma primo, della legge 28 novembre 1980, n. 782](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-11-28;782#art_1-com1), e nell'[articolo 1, comma terzo, del decreto-legge 24 marzo 1982, n. 91](Proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20per%20i%20mesi%20di%20febbraio%20e%20marzo%201982%20ed%20estensione%20ad%20altri%20settori.md), convertito, con modificazioni, dalla [legge 21 maggio 1982, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-21;267), ulteriori 5,24 punti;
+                            per i dipendenti delle imprese indicate nell'[articolo 1, comma primo, della legge 28 novembre 1980, n. 782](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-11-28;782#art_1-com1), e nell'[articolo 1, comma terzo, del decreto-legge 24 marzo 1982, n. 91](Proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20per%20i%20mesi%20di%20febbraio%20e%20marzo%201982%20ed%20estensione%20ad%20altri%20settori.md), convertito, con modificazioni, dalla [legge 21 maggio 1982, n. 267](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20marzo%201982%20n.%2091%20concernente%20proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20per%20i%20mesi%20di%20febbraio%20e%20marzo%201982%20ed%20estension_3d538e8f99b7.md), ulteriori 5,24 punti;
                         d)
-                            per i dipendenti delle imprese che operano nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218), ulteriori 2,54 punti.
+                            per i dipendenti delle imprese che operano nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), ulteriori 2,54 punti.
 
 2.
 
-La riduzione contributiva di cui all'[articolo 1, comma primo, lettera b), del decreto-legge 29 gennaio 1983, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-01-29;17#art_1-com1-letb), convertito, con modificazioni, dalla [legge 25 marzo 1983, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-25;79), si applica nella misura di 8,45 punti.
+La riduzione contributiva di cui all'[articolo 1, comma primo, lettera b), del decreto-legge 29 gennaio 1983, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-01-29;17#art_1-com1-letb), convertito, con modificazioni, dalla [legge 25 marzo 1983, n. 79](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20gennaio%201983%20n.%2017%20recante%20misure%20per%20il%20contenimento%20del%20costo%20del%20lavoro%20e%20per%20favorire%20loccupazione.md), si applica nella misura di 8,45 punti.
 
 3.
 
-La riduzione contributiva di cui all'[articolo 4, comma 26, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_4-com26), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638), si applica nella misura del 17,50 per cento.
+La riduzione contributiva di cui all'[articolo 4, comma 26, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_4-com26), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md), si applica nella misura del 17,50 per cento.
 
 4.
 
@@ -48,7 +48,7 @@ All'onere derivante dall'attuazione dei precedenti commi, pari a lire 5.607 mili
 
 5.
 
-Le riduzioni contributive a favore delle imprese commerciali previste dall'[articolo 4, comma 19, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_4-com19), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638), nonche' a favore delle imprese di cui all'[articolo 1 della legge 8 agosto 1977, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;573#art_1), e successive modificazioni, si applicano nelle seguenti misure:
+Le riduzioni contributive a favore delle imprese commerciali previste dall'[articolo 4, comma 19, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_4-com19), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md), nonche' a favore delle imprese di cui all'[articolo 1 della legge 8 agosto 1977, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;573#art_1), e successive modificazioni, si applicano nelle seguenti misure:
                         a)
                             per il personale maschile: 2,28 punti;
                         b)
@@ -67,11 +67,11 @@ Le disposizioni di cui al presente articolo si applicano a decorrere dal periodo
 
 1.
 
-Lo sgravio contributivo di cui all'articolo 59 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218), e successive modificazioni e integrazioni, e' differito fino a tutto il periodo di paga in corso al 30 novembre 1986.
+Lo sgravio contributivo di cui all'articolo 59 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e successive modificazioni e integrazioni, e' differito fino a tutto il periodo di paga in corso al 30 novembre 1986.
 
 2.
 
-All'onere derivante dall'applicazione del comma 1, valutato in lire 3.465 miliardi per l'anno 1988 e in lire 1.440 miliardi per il periodo 1989-97, si provvede a carico delle assegnazioni recate dalla [legge 1° marzo 1986, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-01;64), concernente la disciplina organica dell'intervento straordinario nel Mezzogiorno.
+All'onere derivante dall'applicazione del comma 1, valutato in lire 3.465 miliardi per l'anno 1988 e in lire 1.440 miliardi per il periodo 1989-97, si provvede a carico delle assegnazioni recate dalla [legge 1° marzo 1986, n. 64](Disciplina%20organica%20dellintervento%20straordinario%20nel%20Mezzogiorno.md), concernente la disciplina organica dell'intervento straordinario nel Mezzogiorno.
 
 ## Art. 3.
 
@@ -101,7 +101,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 1.
 
-Per l'anno 1986 il termine per la presentazione all'Istituto nazionale della previdenza sociale della denuncia nominativa di cui all'[articolo 4 del decreto-legge 6 luglio 1978, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-07-06;352#art_4), convertito, con modificazioni, dalla [legge 4 agosto 1978, n. 467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-04;467), e per la consegna ai lavoratori della copia della denuncia predetta, fissato al 30 giugno di ciascun anno dall'[articolo 2, comma 17, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_2-com17), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638), e' differito al 30 novembre 1986.
+Per l'anno 1986 il termine per la presentazione all'Istituto nazionale della previdenza sociale della denuncia nominativa di cui all'[articolo 4 del decreto-legge 6 luglio 1978, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-07-06;352#art_4), convertito, con modificazioni, dalla [legge 4 agosto 1978, n. 467](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%201978%20n.%20352%20concernente%20norme%20per%20lattuazione%20del%20collegamento%20tra%20le%20anagrafi%20delle%20aziende%20e%20per%20il%20completamento%20del%20c_37d05c5578b7.md), e per la consegna ai lavoratori della copia della denuncia predetta, fissato al 30 giugno di ciascun anno dall'[articolo 2, comma 17, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_2-com17), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md), e' differito al 30 novembre 1986.
 
 ## Art. 5.
 

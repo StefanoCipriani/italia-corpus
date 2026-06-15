@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1200), portante modificazione all'[art. 2 della legge 27 giugno 1929, n. 1185](Nomina%20a%20sottotenente%20di%20complemento%20nel%20Regio%20esercito%20di%20un%20gruppo%20di%20sottufficiali%20e%20militari%20di%20truppa.%20029U1185.md), recante norme per la nomina a sottotenente di complemento nel Regio esercito di un gruppo di sottufficiali e militari di truppa. 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1200](Modificazione%20allart.%202%20della%20legge%2027%20giugno%201929%20n.%201185%20recante%20norme%20per%20la%20nomina%20a%20sottotenente%20di%20complemento%20nel%20Regio%20esercito%20di%20un%20gruppo%20di%20sottufficiali%20e%20militari%20di%20truppa.%20034U1200.md), portante modificazione all'[art. 2 della legge 27 giugno 1929, n. 1185](Nomina%20a%20sottotenente%20di%20complemento%20nel%20Regio%20esercito%20di%20un%20gruppo%20di%20sottufficiali%20e%20militari%20di%20truppa.%20029U1185.md), recante norme per la nomina a sottotenente di complemento nel Regio esercito di un gruppo di sottufficiali e militari di truppa. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

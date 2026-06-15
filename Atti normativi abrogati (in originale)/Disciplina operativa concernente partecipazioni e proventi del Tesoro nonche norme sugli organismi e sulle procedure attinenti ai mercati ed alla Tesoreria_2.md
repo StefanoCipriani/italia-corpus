@@ -28,7 +28,7 @@ E' istituito presso la Banca d'Italia un conto denominato "Fondo di accantonamen
 
 2.
 
-Al conto di cui al comma 1, il Ministro del tesoro versera' un importo fino a lire 30.000 miliardi a valere sull'autorizzazione di cui all'[articolo 3, comma 5, della legge 24 dicembre 1993, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;539#art_3-com5).
+Al conto di cui al comma 1, il Ministro del tesoro versera' un importo fino a lire 30.000 miliardi a valere sull'autorizzazione di cui all'[articolo 3, comma 5, della legge 24 dicembre 1993, n. 539](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%201994%20e%20bilancio%20pluriennale%20per%20il%20triennio%201994-96.md).
 
 3.
 
@@ -48,13 +48,13 @@ Nella partecipazione alle aste dei titoli di Stato effettuate con ricorso a mezz
 
 1.
 
-L'esenzione prevista dall'articolo 1, terzo comma, terzo periodo, del testo di legge delle tasse sui contratti di borsa, approvato con [regio decreto 30 dicembre 1923, n. 3278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3278), come sostituito dall'[articolo 1 del decreto-legge 17 settembre 1992, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-17;378#art_1), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-14;437), non si applica alle transazioni riguardanti titoli ammessi alla trattazione sul mercato telematico dei titoli di Stato di cui al decreto del Ministro del tesoro in data 8 febbraio 1988, pubblicato nella Gazzetta Ufficiale n. 62 del 15 marzo 1988 e successive modificazioni, poste in essere al di fuori del predetto mercato da soggetti residenti con soggetti non residenti aderenti al mercato stesso. Ai fini dell'applicazione della tassa, tali transazioni si considerano in ogni caso perfezionate nel territorio dello Stato e il soggetto residente, ove non autorizzato al pagamento in modo virtuale, puo' corrispondere la tassa anche mediante versamento in conto corrente postale nel termine di trenta giorni.
+L'esenzione prevista dall'articolo 1, terzo comma, terzo periodo, del testo di legge delle tasse sui contratti di borsa, approvato con [regio decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), come sostituito dall'[articolo 1 del decreto-legge 17 settembre 1992, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-17;378#art_1), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 437](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20settembre%201992%20n.%20378%20recante%20disposizioni%20urgenti%20concernenti%20modificazioni%20al%20trattamento%20tributario%20delle%20operazioni%20a%20termi_38011e29348d.md), non si applica alle transazioni riguardanti titoli ammessi alla trattazione sul mercato telematico dei titoli di Stato di cui al decreto del Ministro del tesoro in data 8 febbraio 1988, pubblicato nella Gazzetta Ufficiale n. 62 del 15 marzo 1988 e successive modificazioni, poste in essere al di fuori del predetto mercato da soggetti residenti con soggetti non residenti aderenti al mercato stesso. Ai fini dell'applicazione della tassa, tali transazioni si considerano in ogni caso perfezionate nel territorio dello Stato e il soggetto residente, ove non autorizzato al pagamento in modo virtuale, puo' corrispondere la tassa anche mediante versamento in conto corrente postale nel termine di trenta giorni.
 
 ## Art. 4. — Disposizioni sulle societa' per azioni per la gestione degli impianti idrici, di cui all'articolo 10 del decreto legislativo 3 aprile 1993, n. 96.
 
 1.
 
-Alle societa' per azioni previste dall'[articolo 10 del decreto legislativo 3 aprile 1993, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-04-03;96#art_10), si applicano le disposizioni contenute nei [commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_15-com4) e [5 dell'articolo 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_15-com5) e l'[articolo 19 del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_19), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359).
+Alle societa' per azioni previste dall'[articolo 10 del decreto legislativo 3 aprile 1993, n. 96](../Decreti%20Legislativi/Trasferimento%20delle%20competenze%20dei%20soppressi%20Dipartimento%20per%20gli%20interventi%20straordinari%20nel%20Mezzogiorno%20e%20Agenzia%20per%20la%20promozione%20dello%20sviluppo%20del%20Mezzogiorno%20a%20norma%20dellart.%203%20del_01145d8ccfec.md), si applicano le disposizioni contenute nei [commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_15-com4) e [5 dell'articolo 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_15-com5) e l'[articolo 19 del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_19), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20luglio%201992%20n.%20333%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica.md).
 
 2.
 
@@ -62,7 +62,7 @@ Le azioni delle societa' di cui al comma 1 sono attribuite al Ministero del teso
 
 3.
 
-Il commissario liquidatore di cui all'[articolo 19, comma 1, del decreto legislativo 3 aprile 1993, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-04-03;96#art_19-com1), provvede al versamento delle somme necessarie alla costituzione del capitale sociale iniziale delle predette societa', nel complessivo limite di lire 10 miliardi, a valere sulle disponibilita' di tesoreria derivanti dalle autorizzazioni di spesa di cui alla [legge 1 marzo 1986, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-01;64).
+Il commissario liquidatore di cui all'[articolo 19, comma 1, del decreto legislativo 3 aprile 1993, n. 96](../Decreti%20Legislativi/Trasferimento%20delle%20competenze%20dei%20soppressi%20Dipartimento%20per%20gli%20interventi%20straordinari%20nel%20Mezzogiorno%20e%20Agenzia%20per%20la%20promozione%20dello%20sviluppo%20del%20Mezzogiorno%20a%20norma%20dellart.%203%20del_01145d8ccfec.md), provvede al versamento delle somme necessarie alla costituzione del capitale sociale iniziale delle predette societa', nel complessivo limite di lire 10 miliardi, a valere sulle disponibilita' di tesoreria derivanti dalle autorizzazioni di spesa di cui alla [legge 1 marzo 1986, n. 64](Disciplina%20organica%20dellintervento%20straordinario%20nel%20Mezzogiorno.md).
 
 ## Art. 5. — Attivita' delle societa' di forestazione controllate dal Ministero del tesoro
 
@@ -72,13 +72,13 @@ Fino al termine delle operazioni di liquidazione, nei limiti delle risorse dispo
 
 2.
 
-A fronte delle attivita' di cui al comma 1, nonche' per le esigenze finanziarie connesse alla liquidazione, possono essere utilizzati i fondi di cui all'[articolo 11, comma 4, della legge 4 dicembre 1993, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491#art_11-com4).
+A fronte delle attivita' di cui al comma 1, nonche' per le esigenze finanziarie connesse alla liquidazione, possono essere utilizzati i fondi di cui all'[articolo 11, comma 4, della legge 4 dicembre 1993, n. 491](Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md).
 
 ## Art. 6. — Impignorabilita' del conto di contabilita' speciale di cui al decreto del Presidente della Repubblica 12 febbraio 1991, n. 69.
 
 1.
 
-Alla contabilita' speciale di cui all'articolo 30 del regolamento per la fabbricazione e l'emissione dei biglietti di banca, approvato con [decreto del Presidente della Repubblica 9 ottobre 1981, n. 811](Approvazione%20del%20regolamento%20per%20la%20fabbricazione%20e%20la%20emissione%20dei%20biglietti%20di%20banca.md), come sostituito dall'[articolo 1 del decreto del Presidente della Repubblica 12 febbraio 1991, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-02-12;69#art_1), si applicano le disposizioni previste dall'[articolo 4, comma 5, della legge 26 novembre 1993, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-26;483#art_4-com5).
+Alla contabilita' speciale di cui all'articolo 30 del regolamento per la fabbricazione e l'emissione dei biglietti di banca, approvato con [decreto del Presidente della Repubblica 9 ottobre 1981, n. 811](Approvazione%20del%20regolamento%20per%20la%20fabbricazione%20e%20la%20emissione%20dei%20biglietti%20di%20banca.md), come sostituito dall'[articolo 1 del decreto del Presidente della Repubblica 12 febbraio 1991, n. 69](../DPR/Regolamento%20recante%20modificazione%20al%20regolamento%20per%20la%20fabbricazione%20e%20lemissione%20dei%20biglietti%20di%20banca%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%209%20ottobre%201981%20n.%20811.md), si applicano le disposizioni previste dall'[articolo 4, comma 5, della legge 26 novembre 1993, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-26;483#art_4-com5).
 
 ## Art. 7. — Entrata in vigore
 

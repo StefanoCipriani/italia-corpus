@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto gli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-27;386#art_6) e [11 della legge 27 giugno 1907, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-27;386#art_11); 
+ Visto gli [articoli 6](Riguardante%20il%20Consiglio%20superiore%20gli%20uffici%20e%20il%20personale%20delle%20antichita%20e%20belle%20arti.%20007U0386.md) e [11 della legge 27 giugno 1907, n. 386](Riguardante%20il%20Consiglio%20superiore%20gli%20uffici%20e%20il%20personale%20delle%20antichita%20e%20belle%20arti.%20007U0386.md); 
  
  Considerata la opportunita' che la giurisdizione sugli scavi e sui musei archeologici dell'antica Lucania, corrispondente all'odierna provincia di Potenza, per ragioni topografiche, storico-culturali ed artistiche venga esercitata dalla Soprintendenza agli scavi ed ai musei archeologici di Taranto; 
  

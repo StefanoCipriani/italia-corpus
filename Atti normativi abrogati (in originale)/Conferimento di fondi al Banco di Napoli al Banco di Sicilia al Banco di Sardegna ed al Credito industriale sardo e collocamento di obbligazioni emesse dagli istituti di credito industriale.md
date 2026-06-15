@@ -34,7 +34,7 @@ Il Banco di Napoli, il Banco di Sicilia ed il Banco di Sardegna destineranno le 
 
 ## Art. 3.
 
-Il Credito industriale sardo iscrivera' la somma conferiti al "Fondo speciale" di cui all'[art. 12 della legge 11 aprile 1953, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;298#art_12). Parte di tale somma, previa autorizzazione del Ministro del tesoro sentito il Comitato interministeriale per il credito ed il risparmio, potra' essere utilizzata ad aumento del fondo di dotazione dell'istituto.
+Il Credito industriale sardo iscrivera' la somma conferiti al "Fondo speciale" di cui all'[art. 12 della legge 11 aprile 1953, n. 298](Sviluppo%20dellattivita%20creditizia%20nel%20campo%20industriale%20nellItalia%20meridionale%20ed%20insulare.md). Parte di tale somma, previa autorizzazione del Ministro del tesoro sentito il Comitato interministeriale per il credito ed il risparmio, potra' essere utilizzata ad aumento del fondo di dotazione dell'istituto.
 
 ## Art. 4.
 

@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-L'obbligo dell'impianto radiogoniometrico stabilito dall'[art. 1 del R. decreto-legge 18 marzo 1929, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-18;380#art_1), convertito in [legge 17 giugno 1929, n. 1095](Conversione%20in%20legge%20dei%20Regi%20decreti%20legge%2024%20gennaio%201929%20n.%20166%20concernente%20lordinamento%20delle%20maestranze%20portuali%2016%20dicembre%201928%20n.%203106%20che%20proroga%20il%20termine%20per%20la%20classificazion_8c202eba8036.md), e' esteso alle navi da passeggeri ed alle navi cisterna destinate al trasporto di combustibile liquido, che compiano viaggi oltre Costantinopoli e che abbiano l'obbligo dell'impianto radiotelegrafico. 
+L'obbligo dell'impianto radiogoniometrico stabilito dall'[art. 1 del R. decreto-legge 18 marzo 1929, n. 380](Obbligatorieta%20degli%20impianti%20radiogoniometrici%20degli%20impianti%20radiotelegrafici%20ad%20onda%20corta%20e%20degli%20apparecchi%20radiotelefonici%20riceventi%20sulle%20navi%20mercantili.%20029U0380.md), convertito in [legge 17 giugno 1929, n. 1095](Conversione%20in%20legge%20dei%20Regi%20decreti%20legge%2024%20gennaio%201929%20n.%20166%20concernente%20lordinamento%20delle%20maestranze%20portuali%2016%20dicembre%201928%20n.%203106%20che%20proroga%20il%20termine%20per%20la%20classificazion_8c202eba8036.md), e' esteso alle navi da passeggeri ed alle navi cisterna destinate al trasporto di combustibile liquido, che compiano viaggi oltre Costantinopoli e che abbiano l'obbligo dell'impianto radiotelegrafico. 
  
  Sono esonerate dall'obbligo dell'impianto radiogoniometrico le navi che, pur oltrepassando lo Stretto di Gibilterra e il Canale di Suez, non si spingano oltre Casablanca e Lisbona nell'Atlantico e Kosseir nel Mar Rosso.
 
 ## Art. 2.
 
-L'obbligo dell'impianto trasmittente ad onda corta, previsto dall'[art. 2 del R. decreto-legge 18 marzo 1929, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-18;380#art_2), e' limitato alle navi di stazza lorda superiore alle 5000 tonnellate destinate alle linee sottoindicate: 
+L'obbligo dell'impianto trasmittente ad onda corta, previsto dall'[art. 2 del R. decreto-legge 18 marzo 1929, n. 380](Obbligatorieta%20degli%20impianti%20radiogoniometrici%20degli%20impianti%20radiotelegrafici%20ad%20onda%20corta%20e%20degli%20apparecchi%20radiotelefonici%20riceventi%20sulle%20navi%20mercantili.%20029U0380.md), e' limitato alle navi di stazza lorda superiore alle 5000 tonnellate destinate alle linee sottoindicate: 
  
  a) linee da passeggeri Italia-Nord America (Atlantico); 
  
@@ -38,7 +38,7 @@ L'obbligo dell'impianto trasmittente ad onda corta, previsto dall'[art. 2 del R.
  
  E' data, pero', facolta' al Ministero delle comunicazioni di estendere l'obbligo del suddetto impianto a quelle altre navi per le quali fosse reso opportuno da esigenze di traffico. 
  
- Per le rimanenti navi su cui, in virtu' dell'[art. 2 del R. decreto-legge 18 marzo 1929, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-18;380#art_2), dovrebbero essere sistemati impianti ad onde corte, e' consentito che, in luogo degli impianti stessi, sia installato un trasmettitore a tubi elettronici adattabile al macchinario a scintilla, atto ad emettere onde persistenti e persistenti-interrotte da 600 a 2400 metri.
+ Per le rimanenti navi su cui, in virtu' dell'[art. 2 del R. decreto-legge 18 marzo 1929, n. 380](Obbligatorieta%20degli%20impianti%20radiogoniometrici%20degli%20impianti%20radiotelegrafici%20ad%20onda%20corta%20e%20degli%20apparecchi%20radiotelefonici%20riceventi%20sulle%20navi%20mercantili.%20029U0380.md), dovrebbero essere sistemati impianti ad onde corte, e' consentito che, in luogo degli impianti stessi, sia installato un trasmettitore a tubi elettronici adattabile al macchinario a scintilla, atto ad emettere onde persistenti e persistenti-interrotte da 600 a 2400 metri.
 
 ## Art. 3.
 

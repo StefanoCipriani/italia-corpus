@@ -30,7 +30,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-All'[articolo 183, comma 1, del decreto legislativo 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152#art_183-com1), sono apportate le seguenti modificazioni:
+All'[articolo 183, comma 1, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), sono apportate le seguenti modificazioni:
                         a)
                             alla lettera f), dopo le parole: "produce rifiuti" sono aggiunte le parole: "e il soggetto al quale sia giuridicamente riferibile detta produzione";
                         b)
@@ -43,7 +43,7 @@ All'[articolo 183, comma 1, del decreto legislativo 3 aprile 2006, n. 152](https
 1.
 
 All'[articolo 29, del decreto legislativo 4 marzo 2014, n. 46](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202010-75-UE%20relativa%20alle%20emissioni%20industriali%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.%2014G00058.md), il comma 3 e' sostituito dal seguente: 
- "3. L'autorita' competente conclude i procedimenti avviati in esito alle istanze di cui al comma 2, entro il 7 luglio 2015. In ogni caso, nelle more della conclusione dei procedimenti, le installazioni possono continuare l'esercizio in base alle autorizzazioni previgenti, se del caso opportunamente aggiornate a cura delle autorita' che le hanno rilasciate, a condizione di dare piena attuazione, secondo le tempistiche prospettate nelle istanze di cui al comma 2, agli adeguamenti proposti nelle predette istanze, in quanto necessari a garantire la conformita' dell'esercizio dell'installazione con il Titolo III-bis, della Parte seconda del [decreto legislativo 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152).".
+ "3. L'autorita' competente conclude i procedimenti avviati in esito alle istanze di cui al comma 2, entro il 7 luglio 2015. In ogni caso, nelle more della conclusione dei procedimenti, le installazioni possono continuare l'esercizio in base alle autorizzazioni previgenti, se del caso opportunamente aggiornate a cura delle autorita' che le hanno rilasciate, a condizione di dare piena attuazione, secondo le tempistiche prospettate nelle istanze di cui al comma 2, agli adeguamenti proposti nelle predette istanze, in quanto necessari a garantire la conformita' dell'esercizio dell'installazione con il Titolo III-bis, della Parte seconda del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).".
 
 ## Art. 3.
 
@@ -51,7 +51,7 @@ Misure urgenti per l'esercizio dell'attivita' di impresa di stabilimenti oggetto
 
 1.
 
-Al fine di garantire il necessario bilanciamento tra le esigenze di continuita' dell'attivita' produttiva, di salvaguardia dell'occupazione, della sicurezza sul luogo di lavoro, della salute e dell'ambiente salubre, nonche' delle finalita' di giustizia, l'esercizio dell'attivita' di impresa degli stabilimenti di interesse strategico nazionale non e' impedito dal provvedimento di sequestro, come gia' previsto dall'[articolo 1, comma 4, del decreto-legge 3 dicembre 2012, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-12-03;207#art_1-com4), convertito, con modificazioni, dalla [legge 24 dicembre 2012, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;231), quando lo stesso si riferisca ad ipotesi di reato inerenti alla sicurezza dei lavoratori.
+Al fine di garantire il necessario bilanciamento tra le esigenze di continuita' dell'attivita' produttiva, di salvaguardia dell'occupazione, della sicurezza sul luogo di lavoro, della salute e dell'ambiente salubre, nonche' delle finalita' di giustizia, l'esercizio dell'attivita' di impresa degli stabilimenti di interesse strategico nazionale non e' impedito dal provvedimento di sequestro, come gia' previsto dall'[articolo 1, comma 4, del decreto-legge 3 dicembre 2012, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-12-03;207#art_1-com4), convertito, con modificazioni, dalla [legge 24 dicembre 2012, n. 231](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20dicembre%202012%20n.%20207%20recante%20disposizioni%20urgenti%20a%20tutela%20della%20salute%20dellambiente%20e%20dei%20livelli%20di%20occupazione%20in%20caso%20di%20cri_60b73b7977c5.md), quando lo stesso si riferisca ad ipotesi di reato inerenti alla sicurezza dei lavoratori.
 
 2.
 

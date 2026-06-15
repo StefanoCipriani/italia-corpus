@@ -28,7 +28,7 @@ Il consegnatario della ferrovia Cividale-Caporetto e sue pertinenze, nominato co
 
 ## Art. 2.
 
-A tutte le spese dipendenti dalla esecuzione dei compiti di cui al precedente articolo, il consegnatario fara' fronte con le somme ricavate dalla alienazione di immobili, mobili ed attivita' in genere della ferrovia e sue pertinenze, e con quelle che saranno messe a sua disposizione dalle Amministrazioni competenti sul ricavo della vendita dei titoli costituenti la cauzione incamerata a norma dell'[art. 2 del R. decreto 28 luglio 1932, n. 979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-07-28;979#art_2), nonche' sulle sovvenzioni che si sarebbero dovute corrispondere alla Societa' decaduta.
+A tutte le spese dipendenti dalla esecuzione dei compiti di cui al precedente articolo, il consegnatario fara' fronte con le somme ricavate dalla alienazione di immobili, mobili ed attivita' in genere della ferrovia e sue pertinenze, e con quelle che saranno messe a sua disposizione dalle Amministrazioni competenti sul ricavo della vendita dei titoli costituenti la cauzione incamerata a norma dell'[art. 2 del R. decreto 28 luglio 1932, n. 979](Decadenza%20della%20Societa%20anonima%20per%20la%20ferrovia%20Cividale-Caporetto%20dalla%20concessione%20della%20ferrovia%20medesima.%20032U0979.md), nonche' sulle sovvenzioni che si sarebbero dovute corrispondere alla Societa' decaduta.
 
 ## Art. 3.
 

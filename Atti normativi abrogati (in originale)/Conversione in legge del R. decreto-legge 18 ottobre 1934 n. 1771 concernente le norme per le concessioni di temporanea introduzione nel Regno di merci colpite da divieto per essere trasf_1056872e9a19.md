@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 ottobre 1934, n. 1771](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-18;1771), concernente le norme per le concessioni di temporanea introduzione nel Regno di merci colpite da divieto, per essere trasformate. 
+ E' convertito in legge il [R. decreto-legge 18 ottobre 1934, n. 1771](Norme%20per%20le%20concessioni%20di%20temporanea%20introduzione%20nel%20Regno%20di%20merci%20colpite%20da%20divieto%20per%20essere%20trasformate.%20034U1771.md), concernente le norme per le concessioni di temporanea introduzione nel Regno di merci colpite da divieto, per essere trasformate. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

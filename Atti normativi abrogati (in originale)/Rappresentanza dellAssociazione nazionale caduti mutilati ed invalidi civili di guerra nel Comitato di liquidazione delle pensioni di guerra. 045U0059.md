@@ -16,15 +16,15 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti l'[art. 51 del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_51), col quale fu istituito il Comitato di liquidazione delle pensioni di guerra, e le successive modifiche e integrazioni;
+Visti l'[art. 51 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), col quale fu istituito il Comitato di liquidazione delle pensioni di guerra, e le successive modifiche e integrazioni;
 
-Visto l'articolo unico della [legge 25 aprile 1938, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-04-25;501), col quale venne chiamato a far parte del Comitato di liquidazione predetto, un rappresentante del disciolto partito nazionale fascista;
+Visto l'articolo unico della [legge 25 aprile 1938, n. 501](Modificazione%20della%20composizione%20del%20Comitato%20di%20liquidazione%20delle%20pensioni%20di%20guerra.%20038U0501.md), col quale venne chiamato a far parte del Comitato di liquidazione predetto, un rappresentante del disciolto partito nazionale fascista;
 
-Visto l'art. 4 - ultimo comma - della [legge 20 marzo 1940, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-03-20;216), che elevo' a due il numero dei rappresentanti di cui sopra;
+Visto l'art. 4 - ultimo comma - della [legge 20 marzo 1940, n. 216](Modificazioni%20alla%20vigente%20legislazione%20sulle%20pensioni%20di%20guerra.%20040U0216.md), che elevo' a due il numero dei rappresentanti di cui sopra;
 
 Considerata la opportunita' che l'Associazione nazionale caduti, mutilati ed invalidi civili di guerra sia rappresentata in seno al Comitato stesso;
 
-Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e [29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e [29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -36,7 +36,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-L'articolo unico della [legge 25 aprile 1938, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-04-25;501), e l'ultimo comma dell'[art. 4 della legge 20 marzo 1940, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-03-20;216#art_4), sono abrogati. 
+L'articolo unico della [legge 25 aprile 1938, n. 501](Modificazione%20della%20composizione%20del%20Comitato%20di%20liquidazione%20delle%20pensioni%20di%20guerra.%20038U0501.md), e l'ultimo comma dell'[art. 4 della legge 20 marzo 1940, n. 216](Modificazioni%20alla%20vigente%20legislazione%20sulle%20pensioni%20di%20guerra.%20040U0216.md), sono abrogati. 
  
  I due posti gia' attribuiti nel Comitato di liquidazione delle pensioni di guerra ai rappresentanti del disciolto partito nazionale fascista, sono assegnati all'Associazione nazionale caduti, mutilati ed invalidi civili di guerra. 
  

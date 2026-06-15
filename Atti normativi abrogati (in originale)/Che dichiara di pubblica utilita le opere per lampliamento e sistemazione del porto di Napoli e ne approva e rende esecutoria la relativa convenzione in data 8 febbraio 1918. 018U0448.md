@@ -142,7 +142,7 @@ Alla scadenza del termine assegnato alla durata dell'ente autonomo, le opere e l
 
 ## Art. 12.
 
-E' istituita a favore dell'ente una soprattassa di ancoraggio di centesimi cinque per tonnellata di stazza netta a carico delle navi che entrano nel porto di Napoli, nei limiti e con le modalita' di cui al [R. decreto 21 dicembre 1899, n. 465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-21;465) per la applicazione della detta soprattassa nel porto di Genova. 
+E' istituita a favore dell'ente una soprattassa di ancoraggio di centesimi cinque per tonnellata di stazza netta a carico delle navi che entrano nel porto di Napoli, nei limiti e con le modalita' di cui al [R. decreto 21 dicembre 1899, n. 465](Col%20quale%20viene%20applicata%20una%20soprattassa%20di%20ancoraggio%20alle%20navi%20che%20approdano%20nel%20porto%20di%20Genova.%20099U0465.md) per la applicazione della detta soprattassa nel porto di Genova. 
  
  E' inoltre data facolta' all'ente, con l'approvazione dei ministri dell'industria, commercio e lavoro e dei trasporti, di elevare fino a dieci centesimi la soprattassa di ancoraggio e di istituire uno speciale diritto sugli imbarchi o sbarchi di passeggeri nel porto di Napoli, fatta eccezione per le provenienze e per le partenze dal golfo Napoli e dalle isole delle provincie di Napoli e di Caserta.
 Tale diritto non potra' superare L. 1 per i passeggieri di 3ª classe, L. 2 per quelli di 2ª classe e L. 5 per quelli di 1ª classe.
@@ -177,16 +177,16 @@ Il servizio di tesoreria dell'ente sara' fatto dal Banco di Napoli.
 
 ## Art. 19.
 
-E' data facolta' al comune di Napoli di affidare all'ente la esecuzione dei lavori nella zona aperta, di cui alla [legge 8 luglio 1904, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;351), e la cessione di aree nella detta zona per l'impianto di stabilimenti industriali. 
+E' data facolta' al comune di Napoli di affidare all'ente la esecuzione dei lavori nella zona aperta, di cui alla [legge 8 luglio 1904, n. 351](Provvedimenti%20pel%20risorgimento%20economico%20della%20citta%20di%20Napoli.%20004U0351.md), e la cessione di aree nella detta zona per l'impianto di stabilimenti industriali. 
  
  Di tale gestione dovra' essere tenuto conto separatamente. 
  
- I mutui autorizzati con la [legge 8 luglio 1904, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;351) e con la [legge 5 luglio 1908, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-05;351), saranno in tale caso contratti dal.
+ I mutui autorizzati con la [legge 8 luglio 1904, n. 351](Provvedimenti%20pel%20risorgimento%20economico%20della%20citta%20di%20Napoli.%20004U0351.md) e con la [legge 5 luglio 1908, n. 351](Concernente%20lapprovazione%20della%20convenzione%20stipulata%20tra%20il%20Governo%20ed%20il%20municipio%20di%20Napoli%20l8%20febbraio%201908%20per%20completare%20le%20opere%20di%20risanamento%20della%20citta%20di%20Napoli%20ed%20altri%20provv_9ef1e1d6eda4.md), saranno in tale caso contratti dal.
 Comune nell'interesse dell'ente, restando a carico del Comune i relativi interessi e l'ammortamento.
 
 ## Art. 20.
 
-E' in facolta' del Ministero dei lavori pubblici di affidare all'ente, a rimborso di spese, con l'osservanza, per quanto riguarda i contributi, delle disposizioni della [legge 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-04-02;3095) (testo unico) le opere portuali non comprese nell'annessa convenzione e quelle contemplate nel presente decreto dopo i collaudi; nonche' la esecuzione delle opere di cui all'[art. 2 della legge 12 marzo 1911, n. 258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-12;258#art_2), e di altre gia' autorizzate.
+E' in facolta' del Ministero dei lavori pubblici di affidare all'ente, a rimborso di spese, con l'osservanza, per quanto riguarda i contributi, delle disposizioni della [legge 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-04-02;3095) (testo unico) le opere portuali non comprese nell'annessa convenzione e quelle contemplate nel presente decreto dopo i collaudi; nonche' la esecuzione delle opere di cui all'[art. 2 della legge 12 marzo 1911, n. 258](Concernente%20provvedimenti%20per%20la%20citta%20di%20Napoli.%20011U0258.md), e di altre gia' autorizzate.
 
 ## Art. 21.
 
@@ -198,7 +198,7 @@ Alle espropriazioni occorrenti per la esecuzione dei lavori di ampliamento della
  
  Il prefetto determinera' pure la somma che in via provvisoria dovra' depositarsi per indennita' di espropriazione e per i risarcimenti che eventualmente potessero competere. 
  
- Il verbale di consistenza, di cui sopra, equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_32).
+ Il verbale di consistenza, di cui sopra, equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
 
 ## Art. 22.
 
@@ -226,7 +226,7 @@ Alle risultati aree, da passare nel comune di Napoli e di cui all'articolo prece
 
 ## Art. 24.
 
-Agli stabilimenti industriali che sorgeranno nella zona aperta in ampliamento della esistente saranno estese tutte le disposizioni di indole tributaria ed economica, in quanto applicabili, fissate dalle [leggi 8 luglio 1904, n. 351, e 12 marzo 1911, n. 258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-12;258), concernenti provvedimenti per la citta' di Napoli. 
+Agli stabilimenti industriali che sorgeranno nella zona aperta in ampliamento della esistente saranno estese tutte le disposizioni di indole tributaria ed economica, in quanto applicabili, fissate dalle [leggi 8 luglio 1904, n. 351, e 12 marzo 1911, n. 258](Concernente%20provvedimenti%20per%20la%20citta%20di%20Napoli.%20011U0258.md), concernenti provvedimenti per la citta' di Napoli. 
  
  Il piano regolatore delle opere della zona medesima, da coordinarsi con gli attuali impianti ferroviari (nonche' delle espropriazioni da effettuarsi secondo le norme della cennata legge del 1904, di tutte le aree e fabbricati in essa zona compresi e da adibirsi per impianti di stabilimenti industriali e case operaie) sara' presentato dall'ente concessionario non oltre il 30 giugno 1918 e approvato con R. decreto. Le corrispondenti espropriazioni saranno fatte dall'ente, totali o parziali per ciascun fondo, a misura che il bisogno lo richiedera'.
 
@@ -238,11 +238,11 @@ Le disposizioni degli articoli 14 e 15 del nuovo [testo unico 14 giugno 1917, n.
 
 La convenzione approvata con il presente decreto, i contratti di appalto, i verbali per le espropriazioni e tutti gli atti ad essa inerenti e conseguenti saranno registrati col diritto fisso di una lira con esenzione dal pagamento dei diritti di segreteria. 
  
- E' applicabile la disposizione dell'[art. 16, comma 2°, della legge 11 dicembre 1910, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;855#art_16-com2), per la esenzione della imposta di R. M. sugli interessi del mutuo che viene concesso dalla Cassa di risparmio; cosi' pure le quote di annualita' cedute saranno esenti dal contributo dei centesimi di guerra, di cui ai decreti 21 novembre 1915, n. 1643, allegato 2, e 21 maggio 1916, n. 695, tanto sugli interessi, che sul capitale.
+ E' applicabile la disposizione dell'[art. 16, comma 2°, della legge 11 dicembre 1910, n. 855](Concernente%20disposizioni%20varie%20per%20la%20Cassa%20dei%20depositi%20e%20prestiti%20e%20le%20gestioni%20annesse.%20010U0855.md), per la esenzione della imposta di R. M. sugli interessi del mutuo che viene concesso dalla Cassa di risparmio; cosi' pure le quote di annualita' cedute saranno esenti dal contributo dei centesimi di guerra, di cui ai decreti 21 novembre 1915, n. 1643, allegato 2, e 21 maggio 1916, n. 695, tanto sugli interessi, che sul capitale.
 
 ## Art. 27.
 
-I contributi degli enti locali per le opere di cui al presente decreto saranno versati direttamente al tesoro in venti annualita' in conformita' della [legge 14 luglio 1907, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-14;542). 
+I contributi degli enti locali per le opere di cui al presente decreto saranno versati direttamente al tesoro in venti annualita' in conformita' della [legge 14 luglio 1907, n. 542](Autorizzazione%20di%20spese%20per%20esecuzione%20di%20nuove%20opere%20marittime.%20007U0542.md). 
  
  Alle opere della scogliera di protezione di cui all'art. 1 sono applicabili le disposizioni dell'art. 14 della citata legge. 
  

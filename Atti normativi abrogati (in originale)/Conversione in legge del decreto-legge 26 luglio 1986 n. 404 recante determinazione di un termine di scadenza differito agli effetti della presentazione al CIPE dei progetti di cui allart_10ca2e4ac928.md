@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 1.
 
-E' convertito in legge il [decreto-legge 26 luglio 1986, n. 404](Determinazione%20di%20un%20termine%20di%20scadenza%20differito%20agli%20effetti%20della%20presentazione%20al%20CIPE%20dei%20progetti%20di%20cui%20allarticolo%2014%20della%20legge%2028%20febbraio%201986%20n.%2041%20legge%20finanziaria%201986.md), recante determinazione di un termine di scadenza differito agli effetti della presentazione al CIPE dei progetti di cui all'[articolo 14 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_14) (legge finanziaria 1986).
+E' convertito in legge il [decreto-legge 26 luglio 1986, n. 404](Determinazione%20di%20un%20termine%20di%20scadenza%20differito%20agli%20effetti%20della%20presentazione%20al%20CIPE%20dei%20progetti%20di%20cui%20allarticolo%2014%20della%20legge%2028%20febbraio%201986%20n.%2041%20legge%20finanziaria%201986.md), recante determinazione di un termine di scadenza differito agli effetti della presentazione al CIPE dei progetti di cui all'[articolo 14 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md) (legge finanziaria 1986).
 
 AVVERTENZA:
 

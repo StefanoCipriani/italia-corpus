@@ -14,11 +14,11 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Visto l'[articolo 17, comma 4-bis, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4bis);
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), e successive modificazioni e integrazioni;
+Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modificazioni e integrazioni;
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni ed integrazioni;
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni;
 
-Visti il [decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), ed in particolare, gli articoli da 27 a 32 e l'articolo 55;
+Visti il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), ed in particolare, gli articoli da 27 a 32 e l'articolo 55;
 
 Viste le preliminari deliberazioni del Consiglio dei Ministri, adottate nelle sedute del 2 e del 16 febbraio 2001;
 
@@ -42,7 +42,7 @@ Capo I
 
 1.
 
-Il Ministero delle attivita' produttive, di seguito denominato "Ministero", esercita le funzioni di cui all'[articolo 28 del decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_28). Il Ministero, per l'espletamento dei compiti ad esso demandati, e' articolato nei seguenti Dipartimenti:
+Il Ministero delle attivita' produttive, di seguito denominato "Ministero", esercita le funzioni di cui all'[articolo 28 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md). Il Ministero, per l'espletamento dei compiti ad esso demandati, e' articolato nei seguenti Dipartimenti:
                             a)
                                 Dipartimento per le imprese;
                             b)
@@ -54,8 +54,8 @@ Il Ministero delle attivita' produttive, di seguito denominato "Ministero", eser
 
 A V V E R T E N Z A
 
- I presenti regolamenti sono pubblicati, per motivi di massima urgenza, senza note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-14;217).
- In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 5 giugno 2001 si procedera' alla ripubblicazione del testo dei presenti regolamenti corredati delle relative note, ai sensi dell'[art. 10, comma 3, del decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092#art_10-com3).
+ I presenti regolamenti sono pubblicati, per motivi di massima urgenza, senza note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
+ In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 5 giugno 2001 si procedera' alla ripubblicazione del testo dei presenti regolamenti corredati delle relative note, ai sensi dell'[art. 10, comma 3, del decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md).
 
 ### Art. 2. — Conferenza permanente dei capi dei Dipartimenti
 
@@ -85,7 +85,7 @@ Il Dipartimento per le imprese ha competenza in materia di competitivita' e svil
                             f)
                                 agevolazioni, contributi, sovvenzioni, incentivi e benefici alle attivita' produttive che abbiano come diretto destinatario le imprese, ivi compresi quelli per la ricerca applicata e per la cantieristica navale e l'autotrasporto;
                             g)
-                                gestione delle misure di cui all'[articolo 28, comma 1, lettera a), del decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_28-com1-leta), in attuazione delle politiche di coesione, ivi comprese quelle relative ai contratti di programma, ai contratti d'area e agli strumenti della programmazione negoziata, per le parti inerenti agli interventi a favore delle attivita' produttive e per lo sviluppo delle rispettive infrastrutture nel mezzogiorno e nelle aree depresse;
+                                gestione delle misure di cui all'[articolo 28, comma 1, lettera a), del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), in attuazione delle politiche di coesione, ivi comprese quelle relative ai contratti di programma, ai contratti d'area e agli strumenti della programmazione negoziata, per le parti inerenti agli interventi a favore delle attivita' produttive e per lo sviluppo delle rispettive infrastrutture nel mezzogiorno e nelle aree depresse;
                             h)
                                 definizione delle iniziative normative e rapporti con le autorita' nazionali, internazionali e sovranazionali in materia di brevetti, modelli industriali e marchi d'impresa;
                             i)
@@ -111,7 +111,7 @@ Il Dipartimento per l'internazionalizzazione ha competenza nel settore del comme
                             c)
                                 collaborazione all'attivita' di cooperazione internazionale e di aiuto allo sviluppo svolta dal Ministero degli affari esteri;
                             d)
-                                coordinamento delle attivita' per la politica commerciale con l'estero previste dal [decreto legislativo 31 marzo 1998, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;143);
+                                coordinamento delle attivita' per la politica commerciale con l'estero previste dal [decreto legislativo 31 marzo 1998, n. 143](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20commercio%20con%20lestero%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20e%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
                             e)
                                 rapporti con i soggetti pubblici e privati che svolgono attivita' di promozione degli scambi con l'estero;
                             f)
@@ -225,13 +225,13 @@ La Direzione generale per lo sviluppo produttivo e la competitivita' svolge le f
                             h)
                                 problemi industriali connessi al programma di riordino delle partecipazioni statali; esercizio delle competenze in materia di centri per lo sviluppo dell'imprenditorialita, d'intesa con la Direzione generale per il coordinamento degli incentivi alle imprese, per i centri collocati nelle aree di crisi siderurgica;
                             i)
-                                funzioni relative al settore agroindustriale di cui all'[articolo 55, comma 8, del decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_55-com8);
+                                funzioni relative al settore agroindustriale di cui all'[articolo 55, comma 8, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
                             j)
                                 analisi dello stato dei settori merceologici ed elaborazione di linee di indirizzo per lo sviluppo degli stessi;
                             k)
                                 definizione delle iniziative normative e rapporti con le autorita' internazionali e sovranazionali in materia di brevetti, modelli industriali e per marchi di impresa;
                             l)
-                                attivita' di supporto e di segreteria della Commissione centrale dei ricorsi prevista dall'[articolo 71 del regio-decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_71), e successive modificazioni;
+                                attivita' di supporto e di segreteria della Commissione centrale dei ricorsi prevista dall'[articolo 71 del regio-decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e successive modificazioni;
                             m)
                                 vigilanza sull'Agenzia per la proprieta' industriale;
                             n)
@@ -265,7 +265,7 @@ La Direzione generale per il coordinamento degli incentivi alle imprese svolge l
                             h)
                                 agevolazioni, contributi, sovvenzioni, incentivi e benefici per le attivita' produttive e per le rispettive infrastrutture ai fini dello sviluppo del Mezzogiorno e delle aree depresse e dell'attuazione di politiche di coesione, ivi compresi gli interventi relativi ai contratti di programma, ai contratti d'area e agli strumenti della programmazione negoziata;
                             i)
-                                esercizio delle competenze statali in materia di incentivi per le zone colpite dagli eventi sismici di cui all'[articolo 12 del decreto legislativo 3 aprile 1993, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-04-03;96#art_12);
+                                esercizio delle competenze statali in materia di incentivi per le zone colpite dagli eventi sismici di cui all'[articolo 12 del decreto legislativo 3 aprile 1993, n. 96](../Decreti%20Legislativi/Trasferimento%20delle%20competenze%20dei%20soppressi%20Dipartimento%20per%20gli%20interventi%20straordinari%20nel%20Mezzogiorno%20e%20Agenzia%20per%20la%20promozione%20dello%20sviluppo%20del%20Mezzogiorno%20a%20norma%20dellart.%203%20del_01145d8ccfec.md);
                             j)
                                 iniziative per la promozione, il coordinamento e l'accelerazione degli interventi di agevolazione alle imprese oggetto di finanziamento o cofinanziamento da parte dell'Unione europea.
                             k)
@@ -323,7 +323,7 @@ La Direzione generale per il commercio, le assicurazioni e i servizi svolge le f
                             j)
                                 studi sull'attivita' assicurativa e vigilanza sulla CONSAP S.p.a. (Concessionaria servizi assicurativi pubblici);
                             k)
-                                provvedimenti di revoca dell'autorizzazione all'esercizio dell'attivita' assicurativa e di liquidazione coatta amministrativa, nonche' provvedimenti di applicazione delle sanzioni amministrative in materia assicurativa, ai sensi dell'[articolo 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-10-13;373#art_3) e dell'[articolo 4, comma 10, del decreto legislativo 13 ottobre 1998, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-10-13;373#art_4-com10);
+                                provvedimenti di revoca dell'autorizzazione all'esercizio dell'attivita' assicurativa e di liquidazione coatta amministrativa, nonche' provvedimenti di applicazione delle sanzioni amministrative in materia assicurativa, ai sensi dell'[articolo 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20delle%20norme%20concernenti%20lIstituto%20per%20la%20vigilanza%20sulle%20assicurazioni%20private%20e%20di%20interesse%20collettivo%20a%20norma%20degli%20articoli%2011%20comma%201%20lettera%20b%20%20e%2014%20della%20legge%2015_612fe06d6246.md) e dell'[articolo 4, comma 10, del decreto legislativo 13 ottobre 1998, n. 373](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20delle%20norme%20concernenti%20lIstituto%20per%20la%20vigilanza%20sulle%20assicurazioni%20private%20e%20di%20interesse%20collettivo%20a%20norma%20degli%20articoli%2011%20comma%201%20lettera%20b%20%20e%2014%20della%20legge%2015_612fe06d6246.md);
 
 7.
 
@@ -427,7 +427,7 @@ La Direzione generale per la promozione degli scambi cura lo svolgimento delle f
                             f)
                                 rapporti con le istituzioni economiche e finanziarie internazionali nelle materie di competenza della Direzione;
                             g)
-                                negoziazione degli accordi relativi alla costituzione degli sportelli unici per le imprese e gli operatori di cui all'[articolo 24, comma 3 del decreto legislativo 31 marzo 1998, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;143#art_24-com3), e svolgimento delle attivita' gestionali di competenza del Ministero;
+                                negoziazione degli accordi relativi alla costituzione degli sportelli unici per le imprese e gli operatori di cui all'[articolo 24, comma 3 del decreto legislativo 31 marzo 1998, n. 143](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20commercio%20con%20lestero%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20e%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e svolgimento delle attivita' gestionali di competenza del Ministero;
                             h)
                                 rapporti con l'Unione delle camere di commercio per il coordinamento delle attivita' relative al commercio estero;
                             i)
@@ -505,7 +505,7 @@ La Direzione generale per l'energia e le risorse minerarie svolge le funzioni di
 
 3.
 
-Presso la Direzione generale per l'energia e le risorse minerarie opera la segreteria tecnico-operativa di cui all'[articolo 22, comma 2, della legge 9 gennaio 1991, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10#art_22-com2), all'[articolo 5 del decreto del Presidente della Repubblica 23 luglio 1991, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-07-23;241#art_5), ed all'articolo 3, comma 15, ultimo periodo, del [decreto legislativo 16 marzo 1999, n. 79](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-92-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20dellenergia%20elettrica.md);
+Presso la Direzione generale per l'energia e le risorse minerarie opera la segreteria tecnico-operativa di cui all'[articolo 22, comma 2, della legge 9 gennaio 1991, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10#art_22-com2), all'[articolo 5 del decreto del Presidente della Repubblica 23 luglio 1991, n. 241](../DPR/Regolamento%20di%20attuazione%20dellart.%2022%20della%20legge%209%20gennaio%201991%20n.%2010%20concernente%20ristrutturazione%20e%20potenziamento%20della%20Direzione%20generale%20delle%20fonti%20di%20energia%20e%20delle%20industrie%20di%20base.md), ed all'articolo 3, comma 15, ultimo periodo, del [decreto legislativo 16 marzo 1999, n. 79](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-92-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20dellenergia%20elettrica.md);
 
 4.
 
@@ -605,13 +605,13 @@ La Direzione generale per l'armonizzazione del mercato e la tutela dei consumato
                             b)
                                 proposte ed elaborazioni di politiche e normative, nonche' studi e ricerche, in materia di tutela dei consumatori e degli utenti;
                             c)
-                                attivita' di supporto e segreteria tecnico organizzativa del Consiglio nazionale dei consumatori ed utenti, e tenuta dell'elenco delle associazioni dei consumatori e degli utenti di cui alla [legge 30 luglio 1998, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-07-30;281);
+                                attivita' di supporto e segreteria tecnico organizzativa del Consiglio nazionale dei consumatori ed utenti, e tenuta dell'elenco delle associazioni dei consumatori e degli utenti di cui alla [legge 30 luglio 1998, n. 281](Disciplina%20dei%20diritti%20dei%20consumatori%20e%20degli%20utenti.md);
                             d)
                                 segnalazioni e proposte al Ministro ai fini dei rapporti con l'Autorita' garante della concorrenza e del mercato, con particolare riferimento a quelli in materia di tutela dell'informazione del consumatore con riguardo ai messaggi pubblicitari, nonche' rapporti con altre autorita' indipendenti, per i profili concernenti la tutela dei consumatori e degli utenti;
                             e)
                                 monitoraggio dei prezzi liberi e controllati nelle varie fasi di scambio ed indagini sulle normative, sui processi di formazione dei prezzi e delle condizioni di offerta di beni e servizi, anche ai fini di osservazione circa l'andamento delle dinamiche inflattive, con conseguenti segnalazioni delle anomalie e distorsioni al Ministro ai fini dell'inoltro delle segnalazioni stesse alle Autorita' con poteri di intervento sul mercato;
                             f)
-                                attivita' amministrativa di controllo e vigilanza, relativamente alle manifestazioni a premio di cui all'[articolo 19, comma 4, lettera c), della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_19-com4-letc);
+                                attivita' amministrativa di controllo e vigilanza, relativamente alle manifestazioni a premio di cui all'[articolo 19, comma 4, lettera c), della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md);
                             g)
                                 proposte ed elaborazioni di norme nel campo della metrologia legale e connessi rapporti con l'Unione europea e con gli organismi internazionali competenti in materia di pesi e misure;
                             h)
@@ -699,7 +699,7 @@ Le dotazioni organiche del Ministero, ivi compreso il personale delle Agenzie vi
 
 2.
 
-Con le modalita' di cui all'articolo 6, comma 2, secondo periodo, del [decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e' determinata o modificata la ripartizione del personale nei diversi profili professionali. La dotazione organica del personale dirigenziale indicata nella tabella A costituisce, ai sensi dell'[articolo 5, comma 6, del decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1999-02-26;150#art_5-com6), limite agli incarichi dirigenziali conferibili presso il medesimo Ministero.
+Con le modalita' di cui all'articolo 6, comma 2, secondo periodo, del [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' determinata o modificata la ripartizione del personale nei diversi profili professionali. La dotazione organica del personale dirigenziale indicata nella tabella A costituisce, ai sensi dell'[articolo 5, comma 6, del decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md), limite agli incarichi dirigenziali conferibili presso il medesimo Ministero.
 
 3.
 
@@ -707,7 +707,7 @@ Nell'ambito delle dotazioni organiche di cui al comma 1, costituite dalla sommat
 
 4.
 
-La dotazione organica del Ministero e' ridotta in misura corrispondente a quella prevista per il Ministero, del commercio con l'estero dai provvedimenti assunti in attuazione dell'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7), e dell'[articolo 7 del decreto legislativo 31 marzo 1998, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112#art_7).
+La dotazione organica del Ministero e' ridotta in misura corrispondente a quella prevista per il Ministero, del commercio con l'estero dai provvedimenti assunti in attuazione dell'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e dell'[articolo 7 del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 5.
 
@@ -719,7 +719,7 @@ Nelle dotazioni organiche di cui al comma 1 sono compresi anche i contingenti di
 
 7.
 
-Con le modalita' di cui all'[articolo 45 del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_45), e' avviata la omogeneizzazione delle indennita' di amministrazione corrisposte al personale delle amministrazioni ministeriali confluite nel Ministero delle attivita' produttive.
+Con le modalita' di cui all'[articolo 45 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' avviata la omogeneizzazione delle indennita' di amministrazione corrisposte al personale delle amministrazioni ministeriali confluite nel Ministero delle attivita' produttive.
 
 8.
 
@@ -734,7 +734,7 @@ Capo IV
 
 1.
 
-Fino alla data di entrata in vigore del regolamento di organizzazione degli uffici di diretta collaborazione del Ministro ai sensi dell'[articolo 14, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_14-com2), e successive modificazioni e integrazioni, i predetti uffici sono disciplinati, nell'ordine, dal regolamento di organizzazione degli uffici di diretta collaborazione del Ministro dell'industria, del commercio, dell'artigianato o da quello del Ministro delle comunicazioni o, in mancanza, dal regolamento di organizzazione degli uffici di diretta collaborazione del Ministro del commercio con l'estero, se in vigore, ovvero dalle disposizioni del [regio decreto legge 10 luglio 1924, n. 1100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-07-10;1100).
+Fino alla data di entrata in vigore del regolamento di organizzazione degli uffici di diretta collaborazione del Ministro ai sensi dell'[articolo 14, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni e integrazioni, i predetti uffici sono disciplinati, nell'ordine, dal regolamento di organizzazione degli uffici di diretta collaborazione del Ministro dell'industria, del commercio, dell'artigianato o da quello del Ministro delle comunicazioni o, in mancanza, dal regolamento di organizzazione degli uffici di diretta collaborazione del Ministro del commercio con l'estero, se in vigore, ovvero dalle disposizioni del [regio decreto legge 10 luglio 1924, n. 1100](Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20segreterie%20particolari%20dei%20Sottosegretari%20di%20Stato.%20024U1100.md).
 
 ### Art. 14. — Attivita' a Milano e a Palermo
 
@@ -758,11 +758,11 @@ Fino all'adozione dei decreti ministeriali di cui all'articolo 12, comma 1, cias
 
 2.
 
-Fino alla data dell'assunzione delle funzioni da parte dell'Agenzia per la proprieta' industriale di cui all'[articolo 32 del decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_32), le funzioni e i compiti in materia di brevetti, modelli e marchi, gia' di spettanza del Ministero dell'industria del commercio e dell'artigianato, sono esercitate, nell'ambito del dipartimento per le imprese, dalla direzione generale per lo sviluppo produttivo e la competitivita.
+Fino alla data dell'assunzione delle funzioni da parte dell'Agenzia per la proprieta' industriale di cui all'[articolo 32 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), le funzioni e i compiti in materia di brevetti, modelli e marchi, gia' di spettanza del Ministero dell'industria del commercio e dell'artigianato, sono esercitate, nell'ambito del dipartimento per le imprese, dalla direzione generale per lo sviluppo produttivo e la competitivita.
 
 3.
 
-Fino alla data dell'assunzione delle funzioni da parte dell'Agenzia per le normative e i controlli tecnici di cui all'[articolo 31 del decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_31), le funzioni e i compiti dell'Agenzia, gia' di spettanza del Ministero dell'industria del commercio e dell'artigianato, sono esercitate, nell'ambito del dipartimento per le imprese, dalla direzione generale per lo sviluppo produttivo e la competitivita' e, nell'ambito del dipartimento per il mercato, dalla direzione generale per l'armonizzazione del mercato e la tutela dei consumatori in funzione delle rispettive attribuzioni. Le funzioni e i compiti dell'Agenzia, gia' di spettanza del Ministero delle comunicazioni, sono esercitate, nell'ambito del dipartimento per le reti, dalla direzione generale per le tecnologie delle comunicazioni e dell'informazione.
+Fino alla data dell'assunzione delle funzioni da parte dell'Agenzia per le normative e i controlli tecnici di cui all'[articolo 31 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), le funzioni e i compiti dell'Agenzia, gia' di spettanza del Ministero dell'industria del commercio e dell'artigianato, sono esercitate, nell'ambito del dipartimento per le imprese, dalla direzione generale per lo sviluppo produttivo e la competitivita' e, nell'ambito del dipartimento per il mercato, dalla direzione generale per l'armonizzazione del mercato e la tutela dei consumatori in funzione delle rispettive attribuzioni. Le funzioni e i compiti dell'Agenzia, gia' di spettanza del Ministero delle comunicazioni, sono esercitate, nell'ambito del dipartimento per le reti, dalla direzione generale per le tecnologie delle comunicazioni e dell'informazione.
 
 ### Art. 16. — Abrogazioni
 
@@ -770,7 +770,7 @@ Fino alla data dell'assunzione delle funzioni da parte dell'Agenzia per le norma
 
 Sono o restano abrogate le seguenti disposizioni:
                             a)
-                                [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-07-23;241#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-07-23;241#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-07-23;241#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-07-23;241#art_4) e [6 del decreto del Presidente della Repubblica 23 luglio 1991, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-07-23;241#art_6), concernente ristrutturazione e potenziamento della direzione generale delle fonti di energia e delle industrie di base;
+                                [articoli 1](../DPR/Regolamento%20di%20attuazione%20dellart.%2022%20della%20legge%209%20gennaio%201991%20n.%2010%20concernente%20ristrutturazione%20e%20potenziamento%20della%20Direzione%20generale%20delle%20fonti%20di%20energia%20e%20delle%20industrie%20di%20base.md), [2](../DPR/Regolamento%20di%20attuazione%20dellart.%2022%20della%20legge%209%20gennaio%201991%20n.%2010%20concernente%20ristrutturazione%20e%20potenziamento%20della%20Direzione%20generale%20delle%20fonti%20di%20energia%20e%20delle%20industrie%20di%20base.md), [3](../DPR/Regolamento%20di%20attuazione%20dellart.%2022%20della%20legge%209%20gennaio%201991%20n.%2010%20concernente%20ristrutturazione%20e%20potenziamento%20della%20Direzione%20generale%20delle%20fonti%20di%20energia%20e%20delle%20industrie%20di%20base.md), [4](../DPR/Regolamento%20di%20attuazione%20dellart.%2022%20della%20legge%209%20gennaio%201991%20n.%2010%20concernente%20ristrutturazione%20e%20potenziamento%20della%20Direzione%20generale%20delle%20fonti%20di%20energia%20e%20delle%20industrie%20di%20base.md) e [6 del decreto del Presidente della Repubblica 23 luglio 1991, n. 241](../DPR/Regolamento%20di%20attuazione%20dellart.%2022%20della%20legge%209%20gennaio%201991%20n.%2010%20concernente%20ristrutturazione%20e%20potenziamento%20della%20Direzione%20generale%20delle%20fonti%20di%20energia%20e%20delle%20industrie%20di%20base.md), concernente ristrutturazione e potenziamento della direzione generale delle fonti di energia e delle industrie di base;
                             b)
                                 [decreto del Presidente della Repubblica 28 marzo 1997, n. 220](Regolamento%20recante%20norme%20sulla%20riorganizzazione%20degli%20uffici%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellindustria%20del%20commercio%20e%20dellartigianato.md), e [decreto del Presidente della Repubblica 16 marzo 2000, n. 116](Regolamento%20recante%20modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2028%20marzo%201997%20n.%20220%20concernente%20la%20riorganizzazione%20degli%20uffici%20di%20livello%20dirigenziale%20generale%20del%20Ministe_6dac1c1874b5.md), concernenti la riorganizzazione degli uffici di livello dirigenziale generale del Ministero dell'industria, del commercio e dell'artigianato;
                             c)
@@ -792,7 +792,7 @@ Sono o restano abrogate le seguenti disposizioni:
 
 1.
 
-Il presente regolamento entra in vigore nella stessa data del decreto di nomina di cui all'[articolo 55, comma 1, del decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_55-com1).
+Il presente regolamento entra in vigore nella stessa data del decreto di nomina di cui all'[articolo 55, comma 1, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 2.
 
@@ -804,7 +804,7 @@ L'attuazione del presente regolamento non comporta in ogni caso nuovi o maggiori
 
 4.
 
-Ogni due anni l'organizzazione del Ministero e' sottoposta a verifica, ai sensi dell'[articolo 4, comma 5, del decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_4-com5), al fine di accertarne la funzionalita' e l'efficienza. Alla suddetta verifica, in sede di prima applicazione, si provvede entro un anno dalla entrata in vigore del presente regolamento.
+Ogni due anni l'organizzazione del Ministero e' sottoposta a verifica, ai sensi dell'[articolo 4, comma 5, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), al fine di accertarne la funzionalita' e l'efficienza. Alla suddetta verifica, in sede di prima applicazione, si provvede entro un anno dalla entrata in vigore del presente regolamento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

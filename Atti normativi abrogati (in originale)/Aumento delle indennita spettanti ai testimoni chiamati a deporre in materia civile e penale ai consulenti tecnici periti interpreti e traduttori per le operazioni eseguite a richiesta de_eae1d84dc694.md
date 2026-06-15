@@ -16,11 +16,11 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La misura delle indennita' spettanti ai testimoni indicati nell'[articolo 1 del regio decreto 3 maggio 1923, n. 1043](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1043#art_1), e' elevata a lire 700 giornaliere.
+La misura delle indennita' spettanti ai testimoni indicati nell'[articolo 1 del regio decreto 3 maggio 1923, n. 1043](Che%20stabilisce%20le%20competenze%20dovute%20ai%20testimoni%20periti%20giurati%20e%20ufficiali%20giudiziari%20e%20le%20indennita%20spettanti%20ai%20magistrati%20e%20cancellieri%20per%20le%20trasferte.%20023U1043.md), e' elevata a lire 700 giornaliere.
 
 ## Art. 2.
 
-La misura dell'indennita' giornaliera e di soggiorno spettante ai testimoni indicati negli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1043#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1043#art_4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1043#art_5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1043#art_6) e [27 del regio decreto 3 maggio 1923, n. 1043](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1043#art_27) e' elevata rispettivamente a lire 1.400 per ciascun giorno di viaggio ed a lire 2.500 per ogni giornata di soggiorno.
+La misura dell'indennita' giornaliera e di soggiorno spettante ai testimoni indicati negli [articoli 3](Che%20stabilisce%20le%20competenze%20dovute%20ai%20testimoni%20periti%20giurati%20e%20ufficiali%20giudiziari%20e%20le%20indennita%20spettanti%20ai%20magistrati%20e%20cancellieri%20per%20le%20trasferte.%20023U1043.md), [4](Che%20stabilisce%20le%20competenze%20dovute%20ai%20testimoni%20periti%20giurati%20e%20ufficiali%20giudiziari%20e%20le%20indennita%20spettanti%20ai%20magistrati%20e%20cancellieri%20per%20le%20trasferte.%20023U1043.md), [5](Che%20stabilisce%20le%20competenze%20dovute%20ai%20testimoni%20periti%20giurati%20e%20ufficiali%20giudiziari%20e%20le%20indennita%20spettanti%20ai%20magistrati%20e%20cancellieri%20per%20le%20trasferte.%20023U1043.md), [6](Che%20stabilisce%20le%20competenze%20dovute%20ai%20testimoni%20periti%20giurati%20e%20ufficiali%20giudiziari%20e%20le%20indennita%20spettanti%20ai%20magistrati%20e%20cancellieri%20per%20le%20trasferte.%20023U1043.md) e [27 del regio decreto 3 maggio 1923, n. 1043](Che%20stabilisce%20le%20competenze%20dovute%20ai%20testimoni%20periti%20giurati%20e%20ufficiali%20giudiziari%20e%20le%20indennita%20spettanti%20ai%20magistrati%20e%20cancellieri%20per%20le%20trasferte.%20023U1043.md) e' elevata rispettivamente a lire 1.400 per ciascun giorno di viaggio ed a lire 2.500 per ogni giornata di soggiorno.
 
 ## Art. 3.
 
@@ -40,7 +40,7 @@ L'[articolo 5 della legge 1 dicembre 1956, n. 1426](Compensi%20spettanti%20ai%20
 
 ## Art. 5.
 
-L'indennita' giornaliera spettante ai custodi indicati negli articoli 102 e 103 della tariffa penale, approvata con [regio decreto 23 dicembre 1865, n. 2701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-23;2701), e' elevata alla misura unica di lire 300, ferme restando, in ordine alla durata del loro incarico, le riduzioni previste dal secondo comma dell'articolo 102 stessa tariffa.
+L'indennita' giornaliera spettante ai custodi indicati negli articoli 102 e 103 della tariffa penale, approvata con [regio decreto 23 dicembre 1865, n. 2701](Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), e' elevata alla misura unica di lire 300, ferme restando, in ordine alla durata del loro incarico, le riduzioni previste dal secondo comma dell'articolo 102 stessa tariffa.
 
 ## Art. 6.
 

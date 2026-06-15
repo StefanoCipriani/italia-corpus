@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il [decreto Luogotenenziale 13 settembre 1917, n. 1591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-09-13;1591), da convertire in legge, col quale e' stata approvata e resa esecutoria la convenzione stipulata il 1° settembre 1917 fra i ministri del tesoro, dei lavori pubblici e dei trasporti marittimi e ferroviari, per conto dell'Amministrazione dello Stato ed il legale rappresentante della Societa' italiana per le strade ferrate del Mediterraneo; 
  
- Vista la [legge 19 dicembre 1918, n. 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-12-19;1908); 
+ Vista la [legge 19 dicembre 1918, n. 1908](che%20proroga%20il%20termine%20indicato%20dalla%20legge%2023%20giugno%201918%20n.%20830%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201918-919%20fino%20a%20quando%20i%20medesimi%20non%20siano%20_7c441eeabe94.md); 
  
  Sentito il Consiglio dei ministri; 
  

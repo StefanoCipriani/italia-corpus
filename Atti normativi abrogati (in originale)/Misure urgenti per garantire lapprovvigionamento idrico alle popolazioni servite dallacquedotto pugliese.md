@@ -55,7 +55,7 @@ Entro tre mesi dalla data di cessazione dei poteri del presidente della Cassa pe
 
 ## Art. 7.
 
-Per le finalita' di cui al precedente articolo 1 il presidente della Cassa per il Mezzogiorno e' autorizzato ad attivare i necessari mutui di cui all'[articolo 15-bis del decreto-legge 26 novembre 1980, n. 776](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-11-26;776#art_15bis), convertito, con modificazioni, nella [legge 22 dicembre 1980, n. 874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-12-22;874).
+Per le finalita' di cui al precedente articolo 1 il presidente della Cassa per il Mezzogiorno e' autorizzato ad attivare i necessari mutui di cui all'[articolo 15-bis del decreto-legge 26 novembre 1980, n. 776](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-11-26;776#art_15bis), convertito, con modificazioni, nella [legge 22 dicembre 1980, n. 874](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20novembre%201980%20n.%20776%20recante%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dal%20terremoto%20del%20novembre%201980.md).
  Per l'immediato avvio degli interventi la Cassa per il Mezzogiorno e' autorizzata ad assicurare i necessari fondi con apposite anticipazioni di cassa.
 
 ## Art. 8.

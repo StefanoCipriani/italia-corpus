@@ -198,7 +198,7 @@ Tali variazioni, in quanto si limitino agli adattamenti resi necessari dalla pre
 
 1.
 
-Per un periodo di quattro anni dalla data di entrata in vigore della legge di conversione del presente decreto, i vincitori del concorso di cui all'[articolo 9 del decreto del Presidente della Repubblica 24 aprile 1982, n. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;338#art_9), debbono frequentare un corso di formazione della durata di quattro mesi presso l'Istituto superiore di polizia.
+Per un periodo di quattro anni dalla data di entrata in vigore della legge di conversione del presente decreto, i vincitori del concorso di cui all'[articolo 9 del decreto del Presidente della Repubblica 24 aprile 1982, n. 338](../DPR/Ordinamento%20dei%20ruoli%20professionali%20dei%20sanitari%20della%20Polizia%20di%20Stato.md), debbono frequentare un corso di formazione della durata di quattro mesi presso l'Istituto superiore di polizia.
 
 2.
 
@@ -224,7 +224,7 @@ Entro due anni dalla conclusione del corso di cui al comma 1, i medici della Pol
 
 1.
 
-La disciplina contemplata nella [legge 10 marzo 1987, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-10;100), concernente il trattamento economico di trasferimento del personale militare, e' estesa con le stesse modalita', ove piu' favorevoli, al personale cui viene corrisposta l'indennita' di pubblica sicurezza ai sensi degli [articoli 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_23) e [43, commi terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_43-com3), [sedicesimo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_43-com16) e [ventiquattresimo, della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_43-com24), sul nuovo ordinamento della pubblica sicurezza, e successive modificazioni e integrazioni.
+La disciplina contemplata nella [legge 10 marzo 1987, n. 100](Norme%20relative%20al%20trattamento%20economico%20di%20trasferimento%20del%20personale%20militare.md), concernente il trattamento economico di trasferimento del personale militare, e' estesa con le stesse modalita', ove piu' favorevoli, al personale cui viene corrisposta l'indennita' di pubblica sicurezza ai sensi degli [articoli 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_23) e [43, commi terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_43-com3), [sedicesimo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_43-com16) e [ventiquattresimo, della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_43-com24), sul nuovo ordinamento della pubblica sicurezza, e successive modificazioni e integrazioni.
 
 2.
 
@@ -254,7 +254,7 @@ Per la copertura dei posti di cui al comma 1 e di quelli vacanti nei suddetti ru
 
 3.
 
-Tutti i posti non coperti con le assunzioni degli idonei di cui al comma 2 vengono conferiti mediante concorso pubblico in deroga alla procedura stabilita dall'[articolo 27 della legge 18 marzo 1968, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;249#art_27).
+Tutti i posti non coperti con le assunzioni degli idonei di cui al comma 2 vengono conferiti mediante concorso pubblico in deroga alla procedura stabilita dall'[articolo 27 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md).
 
 ### Art. 12. — Commissioni esaminatrici
 
@@ -268,7 +268,7 @@ Per i concorsi per la prima, seconda, terza, quarta e quinta qualifica funzional
 
 3.
 
-Per la composizione delle commissioni esaminatrici dei concorsi pubblici per l'accesso a posti nella carriera dei vigili del fuoco si applicano, in quanto compatibili, le norme di cui all'[articolo 2 della legge 4 marzo 1982, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-04;66#art_2).
+Per la composizione delle commissioni esaminatrici dei concorsi pubblici per l'accesso a posti nella carriera dei vigili del fuoco si applicano, in quanto compatibili, le norme di cui all'[articolo 2 della legge 4 marzo 1982, n. 66](Aumento%20degli%20organici%20e%20norme%20integrative%20dellordinamento%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md).
 
 4.
 
@@ -276,7 +276,7 @@ Per le funzioni di segretario si applicano le disposizioni di cui all'articolo 9
 
 5.
 
-Le assunzioni nel Corpo nazionale dei vigili del fuoco avvengono in deroga alle disposizioni contenute nell'[articolo 6 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_6), come richiamato dall'[articolo 8, comma 12, della legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910#art_8-com12).
+Le assunzioni nel Corpo nazionale dei vigili del fuoco avvengono in deroga alle disposizioni contenute nell'[articolo 6 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), come richiamato dall'[articolo 8, comma 12, della legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md).
 
 ### Art. 13. — Indennita' mensile pensionabile
 
@@ -308,7 +308,7 @@ L'[articolo 11 della legge 27 dicembre 1973, n. 850](https://www.normattiva.it/u
  a) dirigenti e personale dei ruoli tecnici, sanitari, ginnico-sportivi e dei ruoli di supporto: anni 65;
  b) personale delle carriere dei capi reparti e dei capi squadra e dei vigili del fuoco: anni 57.
 Per il personale dei ruoli degli operai si applicano le norme vigenti in materia per gli operai dello Stato.
- 2. Restano salve le norme vigenti sul trattamento di quiescenza ordinario e privilegiato del personale predetto e le norme previste dall'[articolo 61 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-12-29;1092#art_61)".
+ 2. Restano salve le norme vigenti sul trattamento di quiescenza ordinario e privilegiato del personale predetto e le norme previste dall'[articolo 61 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md)".
 
 ### Art. 15. — Dispensa dal servizio e trasferimento del personale inidoneo ai servizi di istituto
 
@@ -318,7 +318,7 @@ La dispensa dal servizio del personale del Corpo nazionale dei vigili del fuoco,
 
 2.
 
-I trasferimenti del personale non idoneo ai servizi d'istituto, disposti ai sensi dell'[articolo 14 del decreto del Presidente della Repubblica 10 aprile 1984, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-04-10;210#art_14), hanno decorrenza dal giorno dell'accertamento dell'inidoneita'.
+I trasferimenti del personale non idoneo ai servizi d'istituto, disposti ai sensi dell'[articolo 14 del decreto del Presidente della Repubblica 10 aprile 1984, n. 210](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2014%20dicembre%201983%20concernente%20il%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md), hanno decorrenza dal giorno dell'accertamento dell'inidoneita'.
 
 ### Art. 16. — Riassunzione in servizio
 
@@ -354,7 +354,7 @@ Le disposizioni del comma 2 dell'articolo 10 sono estese anche agli appartenenti
 
 1.
 
-Sino a quando non verra' data attuazione alla [legge 13 dicembre 1986, n. 903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-13;903), la commissione di avanzamento di cui all'[articolo 44 della legge 13 maggio 1961, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469#art_44), continua a svolgere le proprie funzioni nella sua attuale composizione.
+Sino a quando non verra' data attuazione alla [legge 13 dicembre 1986, n. 903](Norme%20sulla%20composizione%20del%20consiglio%20di%20amministrazione%20del%20Ministero%20dellinterno.md), la commissione di avanzamento di cui all'[articolo 44 della legge 13 maggio 1961, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469#art_44), continua a svolgere le proprie funzioni nella sua attuale composizione.
 
 ### Art. 20. — Disposizioni finanziarie
 

@@ -18,7 +18,7 @@ Visto il regolamento per gli Archivi di Stato, approvato con [R. decreto 2 ottob
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), portante disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
-Visto il [R. decreto-legge 7 marzo 1920, n. 277](Relativo%20allordinamento%20ed%20allo%20stato%20economico%20del%20personale%20dellamministrazione%20degli%20archivi%20di%20Stato.%20020U0277.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e i [Regi decreti 3 ottobre 1929, n. 1841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-03;1841), [22 settembre 1932, n. 1391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-22;1391), e [12 luglio 1934, n. 1243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1243);
+Visto il [R. decreto-legge 7 marzo 1920, n. 277](Relativo%20allordinamento%20ed%20allo%20stato%20economico%20del%20personale%20dellamministrazione%20degli%20archivi%20di%20Stato.%20020U0277.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e i [Regi decreti 3 ottobre 1929, n. 1841](Istituzione%20di%20una%20Commissione%20di%20disciplina%20per%20il%20personale%20degli%20archivi%20di%20Stato.%20029U1841.md), [22 settembre 1932, n. 1391](Inquadramento%20del%20personale%20degli%20Archivi%20di%20Stato%20delle%20Provincie%20napoletane%20e%20siciliane.%20032U1391.md), e [12 luglio 1934, n. 1243](Costituzione%20della%20Commissione%20giudicatrice%20per%20gli%20esami%20di%20ammissione%20e%20di%20promozione%20nel%20personale%20di%20gruppo%20B%20degli%20Archivi%20provinciali%20di%20Stato.%20034U1243.md);
 
 Ritenuta la necessita' urgente ed assoluta di stabilire nuove norme per la costituzione e per le attribuzioni degli organi consultivi degli Archivi del Regno, al fine di semplificarne la struttura e renderne piu' agile il funzionamento;
 
@@ -62,7 +62,7 @@ h) il capo dell'Ufficio centrale degli Archivi di Stato.
  
  «I membri di diritto ed i rappresentanti dei Ministeri di grazia e giustizia e dell'educazione nazionale (di cui alle lettere e) ed f) del presente articolo) allorche' la loro designazione cada su funzionari dello Stato per ragioni attinenti ai servizi da essi disimpegnati, possono farsi rappresentare dai funzionari che legalmente li sostituiscono o da altri da loro delegati; gli altri membri restano in carica un biennio e possono essere riconfermati. 
  
- «Le funzioni dei componenti del Consiglio sono gratuite; ai membri che non risiedono a Roma sono dovuti il rimborso delle spese di viaggio e un'indennita' da stabilire, quest'ultima, di concerto col Ministro per le finanze, ai sensi del [quinto comma dell'art. 63 del R. decreto 8 maggio 1924, numero 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;843#art_63-com5), per coloro che non appartengono al personale dipendente dalle Amministrazioni dello Stato».
+ «Le funzioni dei componenti del Consiglio sono gratuite; ai membri che non risiedono a Roma sono dovuti il rimborso delle spese di viaggio e un'indennita' da stabilire, quest'ultima, di concerto col Ministro per le finanze, ai sensi del [quinto comma dell'art. 63 del R. decreto 8 maggio 1924, numero 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), per coloro che non appartengono al personale dipendente dalle Amministrazioni dello Stato».
 
 ### Art. 2.
 
@@ -116,7 +116,7 @@ Capo IV.
 
 ### Art. 7.
 
-A modifica di quanto e' disposto coll'art. 1. del [R. decreto 3 ottobre 1929, n. 1841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-03;1841), la Commissione di disciplina del personale degli Archivi di Stato e degli Archivi provinciali di stato e' composta: 
+A modifica di quanto e' disposto coll'art. 1. del [R. decreto 3 ottobre 1929, n. 1841](Istituzione%20di%20una%20Commissione%20di%20disciplina%20per%20il%20personale%20degli%20archivi%20di%20Stato.%20029U1841.md), la Commissione di disciplina del personale degli Archivi di Stato e degli Archivi provinciali di stato e' composta: 
  
 a) del direttore generale dell'Amministrazione civile o di chi ne fa le veci, presidente; 
  
@@ -134,7 +134,7 @@ CAPO V.
 
 ### Art. 8.
 
-E' soppresso il [2° comma dell'art. 8 del R. decreto-legge 7 marzo 1920, n. 277](Relativo%20allordinamento%20ed%20allo%20stato%20economico%20del%20personale%20dellamministrazione%20degli%20archivi%20di%20Stato.%20020U0277.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473).
+E' soppresso il [2° comma dell'art. 8 del R. decreto-legge 7 marzo 1920, n. 277](Relativo%20allordinamento%20ed%20allo%20stato%20economico%20del%20personale%20dellamministrazione%20degli%20archivi%20di%20Stato.%20020U0277.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md).
 
 ### Art. 9.
 

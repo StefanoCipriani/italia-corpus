@@ -112,7 +112,7 @@ Il direttore generale e' il capo di tutti i servizi del Consorzio, attua le deli
 
 ## Art. 11.
 
-Sono prorogate fino al 31 luglio 1934 le disposizioni del [R. decreto-legge 5 agosto 1927, n. 1577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-05;1577), col quale gli estagli in natura o in denaro dovuti dai gabelloti, subgabelloti e cottimisti generali delle miniere di zolfo della Sicilia furono ridotti del trentatre per cento. 
+Sono prorogate fino al 31 luglio 1934 le disposizioni del [R. decreto-legge 5 agosto 1927, n. 1577](Nuovi%20provvedimenti%20a%20favore%20della%20industria%20zolfifera%20siciliana.%20027U1577.md), col quale gli estagli in natura o in denaro dovuti dai gabelloti, subgabelloti e cottimisti generali delle miniere di zolfo della Sicilia furono ridotti del trentatre per cento. 
  
  Ogni atto contrario alla presente disposizione e' nullo ed improduttivo di effetti giuridici, anche fra le parti contraenti.
 
@@ -130,7 +130,7 @@ Pei fini contemplati nell'articolo precedente sono assegnate alla Sezione autono
  
  a) tutte le attivita' costituenti il patrimonio dell'Ente autonomo per il progresso tecnico ed economico dell'industria zolfifera, il quale viene fuso con la Sezione predetta; 
  
- b) le eventuali attivita' finali del secondo dodicennio del Consorzio, attualmente vincolate a garanzia del Tesoro dello Stato per il pagamento di tasse d'abbonamento arretrate da parte del Consorzio, ai sensi dell'[art. 8 del R. decreto-legge 11 gennaio 1923, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-01-11;202#art_8), convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md). 
+ b) le eventuali attivita' finali del secondo dodicennio del Consorzio, attualmente vincolate a garanzia del Tesoro dello Stato per il pagamento di tasse d'abbonamento arretrate da parte del Consorzio, ai sensi dell'[art. 8 del R. decreto-legge 11 gennaio 1923, n. 202](Concernente%20la%20emissione%20di%20obbligazioni%20per%20la%20sistemazione%20finanziaria%20del%20Consorzio%20obbligatorio%20per%20lindustria%20zolfifera%20siciliana.%20023U0202.md), convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md). 
  
  Al termine del Consorzio, ove si procedesse allo scioglimento ed alla liquidazione anche della Sezione autonoma, la dotazione patrimoniale di questa sara' ripartita proporzionalmente alle attivita' attribuite alla Sezione stessa in relazione a quanto e' disposto nelle lettere a) e b). 
  

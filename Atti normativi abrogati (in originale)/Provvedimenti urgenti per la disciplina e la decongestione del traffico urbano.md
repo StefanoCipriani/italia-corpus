@@ -32,7 +32,7 @@ Nelle zone delimitate ai sensi dell'articolo 2, le sanzioni, quali risultanti da
 
 3.
 
-Il [quarto comma dell'articolo 11 della legge 14 febbraio 1974, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-02-14;62#art_11-com4), e' abrogato.
+Il [quarto comma dell'articolo 11 della legge 14 febbraio 1974, n. 62](Sostituzione%20degli%20articoli%2079%2080%2086%20124%20127%20e%20modifiche%20agli%20articoli%2081%2087%2088%20138%20e%20141%20del%20testo%20unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale%20approvato%20con%20decreto%20de_c6728f6b4c4d.md), e' abrogato.
 
 4.
 

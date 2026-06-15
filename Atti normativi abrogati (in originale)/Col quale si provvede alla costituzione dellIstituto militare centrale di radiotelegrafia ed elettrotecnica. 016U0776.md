@@ -12,7 +12,7 @@ vigente: true
 
 E' costituito in Roma, alla dipendenza del Ministero della guerra, l'Istituto centrale militare di radiotelegrafia ed elettrotecnica. 
  
- All'art. 32 del testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dall'amministrazione della guerra, approvato con [R. decreto n. 525 del 14 luglio 1898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;525), e' aggiunto il seguente capoverso: 
+ All'art. 32 del testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dall'amministrazione della guerra, approvato con [R. decreto n. 525 del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e' aggiunto il seguente capoverso: 
  
  « l) un Istituto centrale militare di radiotelegrafia ed elettrotecnica ».
 
@@ -32,7 +32,7 @@ La spesa ordinaria inerente a tale istituzione (stipendi ed indennita' del perso
  
  A cominciare dall'esercizio 1916-917 verra' all'uopo aumentato di lire 35,000 lo stanziamento del capitolo « Lavori di mantenimento, restauro e piccoli ampliamenti e miglioramenti degli immobili militari, materiale mobile e servizi speciali del genio militare » dello stato di previsione della spesa del Ministero della guerra, e sara' diminuito di lire 25,000 lo stanziamento del capitolo « Spese per i servizi di mobilitazione, ecc. » dello stato di previsione medesimo. 
  
- A partire dallo stesso esercizio 1916-917 sara' soppresso il capitolo « Spese per l'Istituto militare di radiotelegrafia in Roma ([legge 13 luglio 1911, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;723)) » con lo stanziamento di lire 50,000 dello stato di previsione della spesa del Ministero della marina, e, per lo insegnamento della radiotelegrafia e della elettrotecnica nella R. Accademia navale, sara' aumentato di lire 15,000 complessivamente lo stanziamento dei capitoli « Istituti di marina (R. scuola navale di guerra, ecc.) » e « Istituti di marina (stipendi ai professori civili) » dello stato di previsione medesimo. 
+ A partire dallo stesso esercizio 1916-917 sara' soppresso il capitolo « Spese per l'Istituto militare di radiotelegrafia in Roma ([legge 13 luglio 1911, n. 723](Per%20la%20costituzione%20dellIstituto%20militare%20superiore%20di%20radio-telegrafia.%20011U0723.md)) » con lo stanziamento di lire 50,000 dello stato di previsione della spesa del Ministero della marina, e, per lo insegnamento della radiotelegrafia e della elettrotecnica nella R. Accademia navale, sara' aumentato di lire 15,000 complessivamente lo stanziamento dei capitoli « Istituti di marina (R. scuola navale di guerra, ecc.) » e « Istituti di marina (stipendi ai professori civili) » dello stato di previsione medesimo. 
  
  E' autorizzata l'assegnazione straordinaria di lire 50,000 nello stato di previsione della spesa del Ministero della marina per l'esercizio 1916-917 per provvedere all'acquisto di materiale per l'insegnamento della radiotelegrafia nella R. Accademia navale. 
  
@@ -48,7 +48,7 @@ Con decreto Reale saranno stabilite tutte le norme per il funzionamento dell'Ist
 
 ## Art. 6.
 
-L'Istituto militare di radiotelegrafia, costituito con [legge del 13 luglio 1911, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;723), e' soppresso.
+L'Istituto militare di radiotelegrafia, costituito con [legge del 13 luglio 1911, n. 723](Per%20la%20costituzione%20dellIstituto%20militare%20superiore%20di%20radio-telegrafia.%20011U0723.md), e' soppresso.
 
 ## Art. 7.
 

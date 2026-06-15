@@ -77,7 +77,7 @@ Le sanzioni di cui al presente decreto possono non essere applicate nei confront
 
 Ai fini dell'applicazione dell'articolo 1 del presente decreto e' fatto obbligo al personale ivi indicato di denunziare entro giorni quindici dalla sua entrata in vigore al capo del servizio, da cui dipende gerarchicamente, le qualifiche di cui sia stato rivestito. 
  
- La omessa denunzia entro il detto termine equivale a denunzia negativa anche agli effetti dell'[art. 496 del Codice Penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_496) e preclude all'interessato i benefici di cui agli articoli 4 e 9. 
+ La omessa denunzia entro il detto termine equivale a denunzia negativa anche agli effetti dell'[art. 496 del Codice Penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e preclude all'interessato i benefici di cui agli articoli 4 e 9. 
  
  Nella ipotesi prevista dall'art. 2, la iniziativa della denunzia spetta al capo dell'ufficio, dell'ente e della azienda da cui l'interessato gerarchicamente dipende, ma non si potra' darvi corso se non dopo specifica contestazione dell'addebito all'interessato.
 Ove il capo dell'ufficio o dell'ente non provveda, gli si sostituisce il Prefetto. 
@@ -142,6 +142,6 @@ Il presente decreto sara' presentato alle Assemblee legislative per la conversio
  
  BADOGLIO - REALE - DE SANTIS - JUNG 
  
- Visto: (ai sensi del [R. D. 30 ottobre 1943 n. 1/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-10-30;1)) 
+ Visto: (ai sensi del [R. D. 30 ottobre 1943 n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
  
  Il Guardasigilli: BADOGLIO

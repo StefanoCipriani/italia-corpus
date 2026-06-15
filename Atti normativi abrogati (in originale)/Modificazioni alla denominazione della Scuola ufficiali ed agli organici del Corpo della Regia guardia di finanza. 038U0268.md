@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto-legge 4 ottobre 1935, n. 1961](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1961), convertito nella [legge 9 gennaio 1936, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;75), e successive modificazioni, sul reclutamento degli ufficiali della Regia guardia di finanza;
+Visto il [R. decreto-legge 4 ottobre 1935, n. 1961](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1961), convertito nella [legge 9 gennaio 1936, n. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201961%20che%20reca%20modificazioni%20alle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20e%20dei%20sottufficiali%20della%20Regia%20guardia%20di%20_021035b65ee6.md), e successive modificazioni, sul reclutamento degli ufficiali della Regia guardia di finanza;
 
 Visto il [R. decreto-legge 25 gennaio 1937, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-25;116), convertito nella [legge 7 giugno 1937, n. 993](Conversione%20in%20legge%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20che%20reca%20modificazioni%20allordinamento%20del%20Corpo%20della%20Regia%20guardia%20di%20finanza.%20037U0993.md), riguardante modificazioni all'ordinamento della Regia guardia di finanza;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-La [lettera d) dell'art. 1 del R. decreto-legge 26 gennaio 1933, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-26;135#art_1-letd), convertito nella [legge 5 giugno 1933, n. 816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-06-05;816), modificata dall'[art. 1 del R. decreto-legge 4 ottobre 1935, n. 1961](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1961#art_1), convertito nella [legge 9 gennaio 1936, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;75), e' sostituita come segue: 
+La [lettera d) dell'art. 1 del R. decreto-legge 26 gennaio 1933, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-26;135#art_1-letd), convertito nella [legge 5 giugno 1933, n. 816](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20gennaio%201933%20n.%20135%20che%20reca%20disposizioni%20relative%20al%20reclutamento%20degli%20ufficiali%20della%20Regia%20guardia%20di%20finanza%20ed%20allavan_e43099e51b12.md), modificata dall'[art. 1 del R. decreto-legge 4 ottobre 1935, n. 1961](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1961#art_1), convertito nella [legge 9 gennaio 1936, n. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201961%20che%20reca%20modificazioni%20alle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20e%20dei%20sottufficiali%20della%20Regia%20guardia%20di%20_021035b65ee6.md), e' sostituita come segue: 
  
  «d) un'Accademia e Scuola d'applicazione».
 

@@ -78,7 +78,7 @@ E' sospeso fino al 31 dicembre 1968 il pagamento delle delegazioni rilasciate su
 
 ### Art. 10.
 
-La riscossione delle imposte e tasse, nonche' delle sovrimposte e addizionali, sospese a norma dei precedenti articoli, che risultino dovute dai contribuenti, sara' effettuata a partire dalla scadenza di febbraio 1969 in diciotto rate, senza applicazione delle maggiorazioni previste dalle [leggi 25 ottobre 1960, n. 1316 e 18 maggio 1967, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-05-18;388).
+La riscossione delle imposte e tasse, nonche' delle sovrimposte e addizionali, sospese a norma dei precedenti articoli, che risultino dovute dai contribuenti, sara' effettuata a partire dalla scadenza di febbraio 1969 in diciotto rate, senza applicazione delle maggiorazioni previste dalle [leggi 25 ottobre 1960, n. 1316 e 18 maggio 1967, n. 388](Modificazioni%20al%20testo%20unico%20della%20finanza%20locale%20approvato%20con%20regio%20decreto%2014%20settembre%201931%20n.%201175%20e%20disciplina%20della%20riscossione%20dei%20carichi%20arretrati%20di%20tributi%20locali.md).
 
 ### Art. 11.
 
@@ -112,7 +112,7 @@ Le Gestioni istituite presso l'Istituto nazionale della previdenza sociale, alle
 
 ### Art. 16.
 
-Ferme restando le disposizioni di cui all'[art. 5 della legge 14 febbraio 1964, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-02-14;38#art_5), nei comuni indicati nel precedente art. 1 e' concessa la sospensione della riscossione delle rate di febbraio e aprile 1968 dei ruoli esattoriali concernenti i contributi dovuti per l'assicurazione contro le malattie, per l'assicurazione per la invalidita' e la vecchiaia e per l'E.N.A.O.L.I. dagli artigiani e dagli esercenti attivita' commerciali.
+Ferme restando le disposizioni di cui all'[art. 5 della legge 14 febbraio 1964, n. 38](Provvidenze%20per%20le%20zone%20agrarie%20danneggiate%20da%20eccezionali%20calamita%20naturali%20o%20avversita%20atmosferiche.md), nei comuni indicati nel precedente art. 1 e' concessa la sospensione della riscossione delle rate di febbraio e aprile 1968 dei ruoli esattoriali concernenti i contributi dovuti per l'assicurazione contro le malattie, per l'assicurazione per la invalidita' e la vecchiaia e per l'E.N.A.O.L.I. dagli artigiani e dagli esercenti attivita' commerciali.
  Salvo quanto disposto dal successivo art. 17, l'importo delle rate sospese dei ruoli anzidetti e' riscosso cumulativamente con le rate di ottobre e dicembre 1968 riguardanti gli stessi contributi.
 
 ### Art. 17.
@@ -155,22 +155,22 @@ Ai lavoratori disoccupati residenti nei comuni di cui all'art. 1 e' data facolta
 
 ### Art. 24.
 
-Il comitato centrale previsto dall'[art. 13 della legge 14 febbraio 1963, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-14;60#art_13), e' autorizzati ad effettuare stanziamenti straordinari, entro il limite massimo di 14 miliardi di lire, nell'ambito del programma di cui allo art. 14 ed in deroga ai criteri stabiliti dall'art. 15 della legge stessa, per l'immediata esecuzione di programmi di costruzione nelle province di Palermo, Trapani e Agrigento colpite dai terremoti del gennaio 1968.
+Il comitato centrale previsto dall'[art. 13 della legge 14 febbraio 1963, n. 60](Liquidazione%20del%20patrimonio%20edilizio%20della%20Gestione%20I.N.A.-Casa%20e%20istituzione%20di%20un%20programma%20decennale%20di%20costruzione%20di%20alloggi%20per%20lavoratori.md), e' autorizzati ad effettuare stanziamenti straordinari, entro il limite massimo di 14 miliardi di lire, nell'ambito del programma di cui allo art. 14 ed in deroga ai criteri stabiliti dall'art. 15 della legge stessa, per l'immediata esecuzione di programmi di costruzione nelle province di Palermo, Trapani e Agrigento colpite dai terremoti del gennaio 1968.
  Le costruzioni saranno localizzate con preferenza nei comuni danneggiati dalla predetta calamita', sentito in ogni caso il Presidente della Regione siciliana.
 
 ### Art. 25.
 
 Per le province indicate nel precedente articolo, la Gestione case per i lavoratori e' autorizzata, sentito il Presidente della Regione siciliana, a deliberare, derogando, ove occorra, alle vigenti disposizioni:
- le procedure e le modalita' piu' idonee per la immediata esecuzione, anche in deroga alle norme in materia di urbanistica ed ai regolamenti edilizi, dei programmi di costruzione finanziati o da finanziare ai sensi del presente decreto e della [legge 14 febbraio 1963, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-14;60);
+ le procedure e le modalita' piu' idonee per la immediata esecuzione, anche in deroga alle norme in materia di urbanistica ed ai regolamenti edilizi, dei programmi di costruzione finanziati o da finanziare ai sensi del presente decreto e della [legge 14 febbraio 1963, n. 60](Liquidazione%20del%20patrimonio%20edilizio%20della%20Gestione%20I.N.A.-Casa%20e%20istituzione%20di%20un%20programma%20decennale%20di%20costruzione%20di%20alloggi%20per%20lavoratori.md);
  le norme necessarie per consentire l'assegnazione degli alloggi anche a lavoratori non soggetti alla contribuzione, nonche' per la sollecita consegna degli alloggi stessi.
  Le licenze edilizie per le costruzioni di cui al comma precedente sono rilasciate dal provveditore regionale alle opere pubbliche di Palermo, sentito il sindaco del comune interessato.
  Le relative deliberazioni della Gestione case per lavoratori - che possono derogare alle norme relative agli organi incaricati dell'esecuzione dei programmi nelle singole province - sono sottoposte all'approvazione dei Ministeri vigilanti.
 
 ### Art. 26.
 
-Le aree fabbricabili occorrenti per l'attuazione nelle province di cui al precedente art. 24 dei programmi della Gestione case per lavoratori previsti dal presente decreto o dalla [legge 14 febbraio 1963, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-14;60), possono essere acquisite anche mediante esproprio ed al di fuori delle zone destinate alla costruzione di alloggi a carattere economico e popolare dai piani di cui alla [legge 18 aprile 1962, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-18;167).
+Le aree fabbricabili occorrenti per l'attuazione nelle province di cui al precedente art. 24 dei programmi della Gestione case per lavoratori previsti dal presente decreto o dalla [legge 14 febbraio 1963, n. 60](Liquidazione%20del%20patrimonio%20edilizio%20della%20Gestione%20I.N.A.-Casa%20e%20istituzione%20di%20un%20programma%20decennale%20di%20costruzione%20di%20alloggi%20per%20lavoratori.md), possono essere acquisite anche mediante esproprio ed al di fuori delle zone destinate alla costruzione di alloggi a carattere economico e popolare dai piani di cui alla [legge 18 aprile 1962, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-18;167).
  La scelta e l'acquisizione delle aree e' ammessa anche nei comuni nei quali non siano stati ancora adottati piani regolatori o programmi di fabbricazione.
- La Gestione case per lavoratori puo' utilizzare per la attuazione dei programmi indicati nel precedente articolo 24 le aree di cui era gia' proprietaria alla data di entrata in vigore rispettivamente della [legge 14 febbraio 1963, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-14;60), e della [legge 4 novembre 1963, n. 1460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-11-04;1460).
+ La Gestione case per lavoratori puo' utilizzare per la attuazione dei programmi indicati nel precedente articolo 24 le aree di cui era gia' proprietaria alla data di entrata in vigore rispettivamente della [legge 14 febbraio 1963, n. 60](Liquidazione%20del%20patrimonio%20edilizio%20della%20Gestione%20I.N.A.-Casa%20e%20istituzione%20di%20un%20programma%20decennale%20di%20costruzione%20di%20alloggi%20per%20lavoratori.md), e della [legge 4 novembre 1963, n. 1460](Disposizioni%20per%20lincremento%20delledilizia%20economica%20e%20popolare.md).
 
 ### Art. 27.
 
@@ -269,7 +269,7 @@ Disposizioni per i servizi di pronto soccorso
 
 ### Art. 41.
 
-Per provvedere alle necessita' urgenti ai sensi del [regio decreto-legge 9 dicembre 1926, n. 2389](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-09;2389), convertito in [legge 15 marzo 1928, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-15;833) e del [decreto legislativo 12 aprile 1948, n. 1010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;1010), ratificato con [legge 18 dicembre 1952, n. 3136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-18;3136), e' autorizzata la spesa di lire 9 miliardi.
+Per provvedere alle necessita' urgenti ai sensi del [regio decreto-legge 9 dicembre 1926, n. 2389](Disposizioni%20per%20i%20servizi%20di%20pronto%20soccorso%20in%20caso%20di%20disastri%20tellurici%20o%20di%20altra%20natura.%20026U2389.md), convertito in [legge 15 marzo 1928, n. 833](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20aggiunte%20e%20modifiche%20del%20R.%20decreto-legge%209%20dicembre%201926%20n.%202389%20recante%20disposizioni%20per%20i%20servizi%20di%20pronto%20soccorso%20in%20caso%20dl%20disastri%20tellurici%20o%20di%20altra%20n_6ce65c347856.md) e del [decreto legislativo 12 aprile 1948, n. 1010](../Decreti%20Legislativi/Autorizzazione%20al%20Ministero%20dei%20lavori%20pubblici%20a%20provvedere%20a%20sua%20cura%20e%20spese%20ai%20lavori%20di%20carattere%20urgente%20ed%20inderogabile%20dipendenti%20da%20necessita%20di%20pubblico%20interesse%20determinate%20da_849e4a6b6d55.md), ratificato con [legge 18 dicembre 1952, n. 3136](../Leggi%20di%20ratifica/Ratifica%20di%20decreti%20legislativi%20concernenti%20il%20Ministero%20dei%20lavori%20pubblici%20emanati%20dal%20Governo%20durante%20il%20periodo%20dellAssemblea%20Costituente.md), e' autorizzata la spesa di lire 9 miliardi.
  Detta somma sara' iscritta nello stato di previsione della spesa del Ministero dei lavori pubblici per l'anno finanziario 1968 nel capitolo gestito dal Provveditorato regionale alle opere pubbliche di Palermo.
 
 ### Art. 42.
@@ -285,11 +285,11 @@ Per l'esecuzione dei lavori di pronto intervento necessari per il ripristino del
 
 ### Art. 44.
 
-Agli atti e contratti relativi ai lavori da eseguirsi dall'A.N.A.S., ai sensi dell'articolo precedente, si applicano le disposizioni contenute nell'[art. 5 del decreto legislativo 12 aprile 1948, n. 1010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;1010#art_5).
+Agli atti e contratti relativi ai lavori da eseguirsi dall'A.N.A.S., ai sensi dell'articolo precedente, si applicano le disposizioni contenute nell'[art. 5 del decreto legislativo 12 aprile 1948, n. 1010](../Decreti%20Legislativi/Autorizzazione%20al%20Ministero%20dei%20lavori%20pubblici%20a%20provvedere%20a%20sua%20cura%20e%20spese%20ai%20lavori%20di%20carattere%20urgente%20ed%20inderogabile%20dipendenti%20da%20necessita%20di%20pubblico%20interesse%20determinate%20da_849e4a6b6d55.md).
 
 ### Art. 45.
 
-All'onere di lire 29.000 milioni derivante dall'applicazione del presente decreto nell'anno finanziario 1968 si provvede, quanto a milioni 250 e a milioni 2.750, a carico dei fondi iscritti nello stato di previsione del Ministero del tesoro per l'anno finanziario 1967, rispettivamente ai capitoli 3523 e 5331 e, quanto a milioni 26.000 con una corrispondente aliquota del provento derivante dall'emissione dei certificati di credito di cui all'[articolo 12 del decreto-legge 2 ottobre 1967, n. 867](Misure%20per%20assicurare%20lapprovvigionamento%20dei%20prodotti%20petroliferi%20nellattuale%20momento%20internazionale.md), convertito, con modificazioni, nella [legge 1 dicembre 1967, n. 1098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-01;1098), intendendosi corrispondentemente ridotta, di pari importo, l'autorizzazione di spesa di cui all'articolo 11 dello stesso decreto-legge.
+All'onere di lire 29.000 milioni derivante dall'applicazione del presente decreto nell'anno finanziario 1968 si provvede, quanto a milioni 250 e a milioni 2.750, a carico dei fondi iscritti nello stato di previsione del Ministero del tesoro per l'anno finanziario 1967, rispettivamente ai capitoli 3523 e 5331 e, quanto a milioni 26.000 con una corrispondente aliquota del provento derivante dall'emissione dei certificati di credito di cui all'[articolo 12 del decreto-legge 2 ottobre 1967, n. 867](Misure%20per%20assicurare%20lapprovvigionamento%20dei%20prodotti%20petroliferi%20nellattuale%20momento%20internazionale.md), convertito, con modificazioni, nella [legge 1 dicembre 1967, n. 1098](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20ottobre%201967%20n.%20867%20concernente%20misure%20per%20assicurare%20lapprovvigionamento%20di%20prodotti%20petroliferi%20nellattuale%20momento%20internazionale.md), intendendosi corrispondentemente ridotta, di pari importo, l'autorizzazione di spesa di cui all'articolo 11 dello stesso decreto-legge.
  Il Ministro per il tesoro provvedera', con propri decreti, alle variazioni occorrenti nel bilancio dello Stato ed in quello dell'Azienda nazionale autonoma delle strade.
 
 ### Art. 46.

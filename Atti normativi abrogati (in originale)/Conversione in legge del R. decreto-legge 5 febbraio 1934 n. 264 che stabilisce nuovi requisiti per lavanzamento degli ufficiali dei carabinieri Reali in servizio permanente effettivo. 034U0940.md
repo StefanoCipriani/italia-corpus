@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 febbraio 1934, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-02-05;264), che stabilisce nuovi requisiti per l'avanzamento degli ufficiali dei carabinieri Reali in servizio permanente effettivo. 
+ E' convertito in legge il [R. decreto-legge 5 febbraio 1934, n. 264](Nuovi%20requisiti%20per%20lavanzamento%20degli%20ufficiali%20dei%20carabinieri%20Reali%20in%20servizio%20permanente%20effettivo.%20034U0264.md), che stabilisce nuovi requisiti per l'avanzamento degli ufficiali dei carabinieri Reali in servizio permanente effettivo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

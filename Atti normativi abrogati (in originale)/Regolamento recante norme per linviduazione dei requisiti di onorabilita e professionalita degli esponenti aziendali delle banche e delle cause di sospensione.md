@@ -55,7 +55,7 @@ L'amministratore delegato e il direttore generale devono essere in possesso di u
 Il consiglio di amministrazione, nel verificare, ai sensi dell'[articolo 26, comma 2, del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_26-com2), la sussistenza dei requisiti previsti dai commi 2 e 3, valuta l'esperienza anche in relazione alle esigenze gestionali della banca, indicando nel verbale della riunione le valutazioni effettuate.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), reca: "Testo unico delle leggi in materia bancaria e creditizia".
  - Il testo dell'[art. 26, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_26-com1) e [comma 3, del D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_26-com3), e' il seguente:
@@ -119,7 +119,7 @@ Le cariche, comunque denominate, di amministratore, sindaco e direttore generale
                         a)
                             si trovano in una delle condizioni di ineleggibilita' o decadenza previste dall'[articolo 2382 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2382);
                         b)
-                            sono stati sottoposti a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi della [legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423), o della [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575), e successive modificazioni ed integrazioni, salvi gli effetti della riabilitazione;
+                            sono stati sottoposti a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi della [legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), o della [legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), e successive modificazioni ed integrazioni, salvi gli effetti della riabilitazione;
                         c)
                             sono stati condannati con sentenza irrevocabile, salvi gli effetti della riabilitazione: 
  1) a pena detentiva per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria, mobiliare, assicurativa e dalle norme in materia di mercati e valori mobiliari, di strumenti di pagamento; 
@@ -136,8 +136,8 @@ Le cariche, comunque denominate, di amministratore, sindaco e direttore generale
 Con riferimento alle fattispecie disciplinate in tutto o in parte da ordinamenti stranieri, la verifica dell'insussistenza delle condizioni previste dai commi 1 e 2 e' effettuata sulla base di una valutazione di equivalenza sostanziale a cura della Banca d'Italia.
 
 Note all'[art. 5:
- - La legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423#art_5), recita: "Misure di prevenzione nei confronti delle persone pericolose per la sicurezza e per la pubblica moralita'".
- - La [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575), recita: "Disposizioni contro la mafia".
+ - La legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), recita: "Misure di prevenzione nei confronti delle persone pericolose per la sicurezza e per la pubblica moralita'".
+ - La [legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), recita: "Disposizioni contro la mafia".
  - Il titolo XI del libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) recita: "Disposizioni penali in materia di societa' e di consorzi", e il [regio decreto del 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), recita: "Disciplina del fallimento, del concordato preventivo, della amministrazione controllata e della liquidazione coatta amministrativa".
 
 ## Art. 6. — Sospensione dalle cariche
@@ -150,7 +150,7 @@ Costituiscono cause di sospensione dalle funzioni di amministratore, sindaco e d
                         b)
                             l'applicazione su richiesta delle parti di una delle pene di cui all'articolo 5, comma 2, con sentenza non definitiva;
                         c)
-                            l'applicazione provvisoria di una delle misure previste dall'[articolo 10, comma 3, della legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575#art_10-com3), da ultimo sostituito dall'[articolo 3 della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_3), e successive modificazioni e integrazioni;
+                            l'applicazione provvisoria di una delle misure previste dall'[articolo 10, comma 3, della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), da ultimo sostituito dall'[articolo 3 della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_3), e successive modificazioni e integrazioni;
                         d)
                             l'applicazione di una misura cautelare di tipo personale.
 
@@ -159,7 +159,7 @@ Costituiscono cause di sospensione dalle funzioni di amministratore, sindaco e d
 Il consiglio di amministrazione iscrive l'eventuale revoca dei soggetti, dei quali ha dichiarato la sospensione, fra le materie da trattare nella prima assemblea successiva al verificarsi di una delle cause di sospensione indicate nel comma 1. La sospensione del direttore generale nominato dagli amministratori non puo' durare oltre quarantacinque giorni, trascorsi i quali il consiglio di amministrazione deve deliberare se procedere alla revoca, salvo i casi previsti dalle lettere c) e d) del comma 1. L'esponente non revocato e' reintegrato nel pieno delle funzioni. Nelle ipotesi previste dalle lettere c) e d) del comma 1, la sospensione si applica in ogni caso per l'intera durata delle misure ivi previste.
 
 Nota all'art. 6:
- - Il testo dell'art. 10, comma 3, della citata [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575), sostituito dall'[art. 3 della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_3), e successive modificazioni e integrazioni, e' il seguente:
+ - Il testo dell'art. 10, comma 3, della citata [legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), sostituito dall'[art. 3 della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_3), e successive modificazioni e integrazioni, e' il seguente:
  "3. Nel corso del procedimento di prevenzione, il tribunale, se sussistono motivi di particolare gravita', puo' disporre in via provvisoria i divieti di cui ai commi 1 e 2 e sospendere l'efficacia delle iscrizioni, delle erogazioni e degli altri provvedimenti ed atti di cui ai medesimi commi. Il provvedimento del tribunale puo' essere in qualunque momento revocato dal giudice procedente e perde efficacia se non e' confermato con il decreto che applica la misura di prevenzione".
 
 ## Art. 7. — Norme transitorie

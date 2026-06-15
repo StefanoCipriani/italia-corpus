@@ -14,15 +14,15 @@ Visto il [regio decreto 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-r
 
 Vista la [legge 20 novembre 1919, n. 2379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1919-11-20;2379);
 
-Visto il [regio decreto 3 agosto 1928, n. 1886](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;1886);
+Visto il [regio decreto 3 agosto 1928, n. 1886](Revisione%20della%20indennita%20di%20alloggio%20agli%20ufficiali%20dellArma%20dei%20carabinieri%20Reali.%20028U1886.md);
 
-Visto il [regio decreto 14 marzo 1929, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-14;359);
+Visto il [regio decreto 14 marzo 1929, n. 359](Estensione%20agli%20ufficiali%20della%20Regia%20guardia%20di%20finanza%20della%20indennita%20di%20alloggio%20stabilita%20per%20gli%20ufficiali%20dei%20carabinieri%20Reali%20col%20R.%20decreto%203%20agosto%201928%20n.%201886.%20029U0359.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 1 aprile 1947, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-01;222);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

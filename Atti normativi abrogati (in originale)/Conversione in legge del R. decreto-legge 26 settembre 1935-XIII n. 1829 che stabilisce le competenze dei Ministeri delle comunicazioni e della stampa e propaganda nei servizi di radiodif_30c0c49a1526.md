@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 settembre 1935, n. 1829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1829), che stabilisce le competenze dei Ministeri delle comunicazioni e della stampa e propaganda nei servizi di radiodiffusione e di televisione. 
+ E' convertito in legge il [R. decreto-legge 26 settembre 1935, n. 1829](Competenze%20dei%20Ministeri%20per%20le%20comunicazioni%20e%20per%20la%20stampa%20e%20propaganda%20nei%20servizi%20di%20radiodiffusione%20e%20di%20televisione.%20035U1829.md), che stabilisce le competenze dei Ministeri delle comunicazioni e della stampa e propaganda nei servizi di radiodiffusione e di televisione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

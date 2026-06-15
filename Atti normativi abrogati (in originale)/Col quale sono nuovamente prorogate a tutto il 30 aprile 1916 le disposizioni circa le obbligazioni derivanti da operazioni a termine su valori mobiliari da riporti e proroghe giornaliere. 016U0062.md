@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le disposizioni del [R. decreto 28 marzo 1915, n. 316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-28;316) e del [decreto Luogotenenziale 26 giugno 1915, n. 930](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-26;930) circa le obbligazioni derivanti da operazioni a termine su valori mobiliari, da riporti e proroghe giornaliere (escluse quelle consentite dagli Istituti di emissione alle Stanze di compensazione) sono nuovamente prorogate a tutto il 30 aprile 1916.
+Le disposizioni del [R. decreto 28 marzo 1915, n. 316](Che%20proroga%20a%20tutto%20il%2030%20giugno%201915%20le%20scadenze%20delle%20obbligazioni%20derivanti%20da%20operazioni%20a%20termine%20su%20valori%20mobiliari%20da%20riporti%20e%20da%20proroghe%20giornaliere.%20015U0316.md) e del [decreto Luogotenenziale 26 giugno 1915, n. 930](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-26;930) circa le obbligazioni derivanti da operazioni a termine su valori mobiliari, da riporti e proroghe giornaliere (escluse quelle consentite dagli Istituti di emissione alle Stanze di compensazione) sono nuovamente prorogate a tutto il 30 aprile 1916.
 
 ## Art. 2.
 

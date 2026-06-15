@@ -32,7 +32,7 @@ L'Ente nazionale esportazione canapa e' soppresso.
 
 La gestione dei patrimoni dell'Ente economico fibre tessili e dell'Ente nazionale esportazione canapa e' affidata al Consorzio nazionale canapa. 
  
- I patrimoni medesimi saranno definitivamente attribuiti secondo le disposizioni che verranno emanate con decreti, rispettivamente, del Ministro per l'agricoltura e le foreste, e del Ministro per l'industria, il commercio e il lavoro, di concerto con i Ministri interessati, salvi, in ogni caso, i diritti dello Stato per le somme versate ai sensi del [R. decreto-legge 17 agosto 1941, n. 969](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-08-17;969), allo scopo di formale il capitale dell'Ente nazionale esportazione canapa. 
+ I patrimoni medesimi saranno definitivamente attribuiti secondo le disposizioni che verranno emanate con decreti, rispettivamente, del Ministro per l'agricoltura e le foreste, e del Ministro per l'industria, il commercio e il lavoro, di concerto con i Ministri interessati, salvi, in ogni caso, i diritti dello Stato per le somme versate ai sensi del [R. decreto-legge 17 agosto 1941, n. 969](Istituzione%20dellEnte%20nazionale%20esportazione%20canapa.%20041U0969.md), allo scopo di formale il capitale dell'Ente nazionale esportazione canapa. 
  
  Con decreto Luogotenenziale verra' disciplinata la situazione del personale eventualmente ancora in servizio presso gli Enti di cui sopra.
 

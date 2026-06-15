@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-La denominazione dell'Opera Nazionale Dopolavoro, di cui al [R. decreto-legge 1° maggio 1925, n. 582](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-05-01;582), convertito nella [legge 18 marzo 1926, n. 582](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;582), e' modificata in quella di «Ente Nazionale Assistenza Lavoratori » (E.N.A.L.). 
+La denominazione dell'Opera Nazionale Dopolavoro, di cui al [R. decreto-legge 1° maggio 1925, n. 582](Istituzione%20dellOpera%20nazionale%20del%20dopolavoro.%20025U0582.md), convertito nella [legge 18 marzo 1926, n. 582](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;582), e' modificata in quella di «Ente Nazionale Assistenza Lavoratori » (E.N.A.L.). 
  
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 21 febbraio 1938, n. 1053](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-21;1053), sul l'ordinamento del notariato e degli archivi notarili della Libia;
+Visto il [regio decreto-legge 21 febbraio 1938, n. 1053](Ordinamento%20del%20notariato%20e%20degli%20archivi%20notarili%20della%20Libia.%20038U1053.md), sul l'ordinamento del notariato e degli archivi notarili della Libia;
 
 Visto il testo unico sulle pensioni notarili, approvato con decreto Ministeriale 5 maggio 1934, pubblicato nella Gazzetta Ufficiale dell'8 maggio 1934, n. 109;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro ad interim per l'Africa Italiana, di concerto con i 
 
 ## Articolo unico.
 
-E' concesso un nuovo termine di mesi sei, a decorrere dall'entrata in vigore del presente decreto, per la presentazione alla Cassa nazionale del notariato della domanda intesa ad ottenere l'iscrizione alla Cassa pensioni da parte dei notai gia' esercenti in Libia, che si trovino nella condizione prevista dall'[art. 26 del regio decreto-legge 21 febbraio 1938, n. 1053](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-21;1053#art_26).
+E' concesso un nuovo termine di mesi sei, a decorrere dall'entrata in vigore del presente decreto, per la presentazione alla Cassa nazionale del notariato della domanda intesa ad ottenere l'iscrizione alla Cassa pensioni da parte dei notai gia' esercenti in Libia, che si trovino nella condizione prevista dall'[art. 26 del regio decreto-legge 21 febbraio 1938, n. 1053](Ordinamento%20del%20notariato%20e%20degli%20archivi%20notarili%20della%20Libia.%20038U1053.md).
  I notai medesimi, per ottenere la detta iscrizione, debbono versare alla Cassa pensioni la somma di L. 2000 stabilita dal citato art. 26 anche per gli anni durante i quali, avendo interrotto l'esercizio delle funzioni in Libia per circostanze inseriti allo stato di guerra, non abbiano esercitato la professione in alcuna sede d'Italia.
  Agli effetti del comma precedente la frazione di annuo superiore a sei mesi e' valutata come un anno.
 

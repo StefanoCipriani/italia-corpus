@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la legge organica per l'amministrazione della Libia, in data 26 giugno 1927, n. 1013;
 
-Visto il Nostro decreto in data 1° maggio 1924, n. 1166, convertito nella [legge n. 2301 in data 24 dicembre 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2301), e le successive modificazioni;
+Visto il Nostro decreto in data 1° maggio 1924, n. 1166, convertito nella [legge n. 2301 in data 24 dicembre 1925](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U2301.md), e le successive modificazioni;
 
 Visto il Nostro decreto n. 228 in data 24 gennaio 1926 sull'avanzamento dei quadri delle Legioni libiche permanenti di M. V.
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro Segretario di Stato per le colonie, di concerto coi 
 
 ## Art. 1.
 
-L'ordinamento delle Legioni libiche permanenti di M. V. S. N., costituite col [R. decreto in data 1° maggio 1924, n. 1166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-01;1166), convertito nella [legge 24 dicembre 1925, n. 2301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2301), e' quello risultante dal presente decreto.
+L'ordinamento delle Legioni libiche permanenti di M. V. S. N., costituite col [R. decreto in data 1° maggio 1924, n. 1166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-01;1166), convertito nella [legge 24 dicembre 1925, n. 2301](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U2301.md), e' quello risultante dal presente decreto.
 
 ## Art. 2.
 
@@ -48,7 +48,7 @@ Le due Legioni libiche permanenti di M. V. S. N., ordinate come unita' di fanter
 
 ## Art. 3.
 
-Al personale delle Legioni libiche, nei riguardi disciplinari, penali e di servizio, si applicano le disposizioni del regolamento di disciplina, del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), nonche' le altre disposizioni regolamentari del Regio esercito. 
+Al personale delle Legioni libiche, nei riguardi disciplinari, penali e di servizio, si applicano le disposizioni del regolamento di disciplina, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nonche' le altre disposizioni regolamentari del Regio esercito. 
  
  I rapporti tra le Legioni libiche ed il Comando generale della M.
 V. S. N. si svolgono per il tramite gerarchico delle autorita' coloniali da cui dipendono e del Ministero delle colonie, e viceversa.

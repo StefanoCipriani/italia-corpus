@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 12 febbraio 1955, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-02-12;51), che delega al Governo la emanazione di norme generali e speciali in materia di prevenzione infortuni e di igiene del lavoro;
+Vista la [legge 12 febbraio 1955, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Potere%20esecutivo%20ad%20emanare%20norme%20generali%20e%20speciali%20in%20materia%20di%20prevenzione%20degli%20infortuni%20e%20di%20igiene%20del%20lavoro.md), che delega al Governo la emanazione di norme generali e speciali in materia di prevenzione infortuni e di igiene del lavoro;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -2903,7 +2903,7 @@ Il presente decreto entra in vigore il 1 gennaio
 
 1956.
 
-A decorrere da tale data il [regio decreto 18 giugno 1899, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-06-18;230), e' abrogato.
+A decorrere da tale data il [regio decreto 18 giugno 1899, n. 230](Che%20approva%20il%20Regolamento%20generale%20relativo%20alla%20prevenzione%20degli%20infortuni%20nelle%20imprese%20e%20nelle%20industrie%20alle%20quali%20si%20applica%20la%20legge%2017%20marzo%201898%20n.%2080.%20099U0230.md), e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

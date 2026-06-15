@@ -14,7 +14,7 @@ Visto l'art. 77, comma, secondo, della Costituzione;
 
 Visto il decreto Ministeriale 8 luglio 1924, che approva il testo unico di leggi per l'imposta di fabbricazione sulla birra e successive modificazioni;
 
-Visto il [regio decreto-legge 5 ottobre 1933, n. 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-05;1314), riguardante il regime fiscale degli oli di semi, convertito nella [legge 18 gennaio 1934, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-18;231), e successive modificazioni;
+Visto il [regio decreto-legge 5 ottobre 1933, n. 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-05;1314), riguardante il regime fiscale degli oli di semi, convertito nella [legge 18 gennaio 1934, n. 231](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%205%20ottobre%201933%20n.%201314%20riguardante%20il%20regime%20fiscale%20degli%20oli%20di%20semi.%20034U0231.md), e successive modificazioni;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 3 gennaio 1947, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-03;1), istitutivo della imposta di fabbricazione sui filati delle fibre tessili naturali ed artificiali;
 
@@ -66,7 +66,7 @@ La differenza d'imposta dovuta, in applicazione del precedente art. 5, dovra' es
 
 ### Art. 7.
 
-Colui che ometta la denuncia di cui al precedente art. 5 o presenti denuncia inesatta o in ritardo, e' punito con la multa dal doppio al decuplo della differenza di imposta dovuta sulla quantita' non denunciata tempestivamente, a norma dell'[art. 2 del regio decreto-legge 3 gennaio 1926, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-03;42#art_2), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898).
+Colui che ometta la denuncia di cui al precedente art. 5 o presenti denuncia inesatta o in ritardo, e' punito con la multa dal doppio al decuplo della differenza di imposta dovuta sulla quantita' non denunciata tempestivamente, a norma dell'[art. 2 del regio decreto-legge 3 gennaio 1926, n. 42](Esenzione%20dalla%20imposta%20interna%20di%20fabbricazione%20e%20dalla%20corrispondente%20sopratassa%20di%20confine%20per%20il%20glucosio%20il%20maltosio%20e%20loro%20sciroppi%20nonche%20per%20lo%20zucchero%20invertito%20destinati%20ad%20usi_6f98f148af44.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md).
 
 ### Art. 8.
 

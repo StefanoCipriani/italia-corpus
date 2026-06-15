@@ -20,7 +20,7 @@ Sulla proposta del presidente del Consiglio dei ministri, ministro dell'interno,
 
 ## Art. 1.
 
-Per i territori della Venezia Giulia e della Venezia Tridentina, ai quali si applicano per l'amministrazione civile le norme dell'[art. 6 del decreto Luogotenenziale 4 luglio 1919, n. 1081](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-07-04;1081#art_6), e quelle del decreto 24 luglio 1919, n. 1251, la competenza a giudicare del reato di furto qualificato previsto dal [paragrafo 179 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_par179) vigente nei territori medesimi, e' attribuita alle Corti di giustizia di prima istanza. 
+Per i territori della Venezia Giulia e della Venezia Tridentina, ai quali si applicano per l'amministrazione civile le norme dell'[art. 6 del decreto Luogotenenziale 4 luglio 1919, n. 1081](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-07-04;1081#art_6), e quelle del decreto 24 luglio 1919, n. 1251, la competenza a giudicare del reato di furto qualificato previsto dal [paragrafo 179 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) vigente nei territori medesimi, e' attribuita alle Corti di giustizia di prima istanza. 
  
  Tale disposizione si applica a tutti i procedimenti penali che alla data di entrata in vigore del presente decreto non siano stati definiti con sentenza.
 

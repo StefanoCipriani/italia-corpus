@@ -20,7 +20,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Visto il [decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625) convertito nella legge 21 dicembre successivo n. 1774; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Il ministro dell'interno e' autorizzato, a deroga del divieto di cui all'art. 2 del Nostro decreto 18 novembre 1915, n. 1625, convertito nella [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774), ad assumere e mantenere in servizio, a decorrere dal 19 novembre 1915 e durante la guerra, con le forme della [legge 14 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-14;182), e del Nostro decreto 2 gennaio 1917, n. 17, il personale avventizio occorrente a far fronte alle straordinarie esigenze dei servizi sanitari. 
+ Il ministro dell'interno e' autorizzato, a deroga del divieto di cui all'art. 2 del Nostro decreto 18 novembre 1915, n. 1625, convertito nella [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md), ad assumere e mantenere in servizio, a decorrere dal 19 novembre 1915 e durante la guerra, con le forme della [legge 14 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-14;182), e del Nostro decreto 2 gennaio 1917, n. 17, il personale avventizio occorrente a far fronte alle straordinarie esigenze dei servizi sanitari. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

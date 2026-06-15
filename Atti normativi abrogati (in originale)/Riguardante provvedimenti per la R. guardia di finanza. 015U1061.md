@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' estesa alla R. guardia di finanza la disposizione dell'[art. 2 del R. decreto 28 marzo 1915, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-28;355#art_2), relativa al richiamo degli ufficiali che hanno cessato di appartenere alle categorie contemplate dagli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254#art_20) e [21 della legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254#art_21).
+E' estesa alla R. guardia di finanza la disposizione dell'[art. 2 del R. decreto 28 marzo 1915, n. 355](Riguardanti%20deroga%20ai%20limiti%20di%20eta%20per%20talune%20categorie%20di%20ufficiali%20in%20congedo%20ed%20impiego%20di%20ufficiali%20in%20congedo%20provvisorio%20e%20di%20volontari%20non%20vincolati%20da%20obbligo%20di%20servizio.%20015U0355.md), relativa al richiamo degli ufficiali che hanno cessato di appartenere alle categorie contemplate dagli [articoli 20](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md) e [21 della legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md).
 
 ## Art. 2.
 

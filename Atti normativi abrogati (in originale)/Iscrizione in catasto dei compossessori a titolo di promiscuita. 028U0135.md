@@ -22,7 +22,7 @@ All'[art. 7 della legge 1 marzo 1886, n. 3682](Riordinamento%20dellimposta%20fon
 
 ## Art. 2.
 
-All'[art. 6 del R. decreto-legge 16 ottobre 1924, n. 1613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-16;1613#art_6)-1618, e' aggiunto il seguente capoverso: 
+All'[art. 6 del R. decreto-legge 16 ottobre 1924, n. 1613](Riordinamento%20delle%20aliquote%20dellimposta%20sui%20redditi%20di%20ricchezza%20mobile.%20024U1613.md)-1618, e' aggiunto il seguente capoverso: 
  
  «In nessun caso l'enfiteuta, debitore di un canone in danaro o in una quantita' fissa di derrate, il quale abbia pagata l'imposta sul reddito dell'immobile, puo' in base ad antiche leggi, consuetudini o convenzioni od anche a sentenze passate in giudicato pretendere dal direttario piu' del rimborso della quota d'imposta che avrebbe colpito il canone se questo fosse stato tassato come parte del reddito del fondo».
 
@@ -32,7 +32,7 @@ Il rilevamento della coesistenza sullo stesso immobile, dei diversi diritti real
 
 ## Art. 4.
 
-Le proposte di intestazione e di ripartizione vengono portate a conoscenza degli interessati, i quali hanno diritto di reclamare contro di esse, e vengono rese definitive, coi procedimenti prescritti nel [R. decreto 7 gennaio 1923, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;17).
+Le proposte di intestazione e di ripartizione vengono portate a conoscenza degli interessati, i quali hanno diritto di reclamare contro di esse, e vengono rese definitive, coi procedimenti prescritti nel [R. decreto 7 gennaio 1923, n. 17](Che%20dispone%20la%20revisione%20generale%20degli%20estimi%20catastali.%20023U0017.md).
 
 ## Art. 5.
 

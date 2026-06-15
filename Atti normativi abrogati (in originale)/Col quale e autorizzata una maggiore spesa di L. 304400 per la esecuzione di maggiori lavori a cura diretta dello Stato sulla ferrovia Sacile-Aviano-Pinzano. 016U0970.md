@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 1° novembre 1914, n. 1244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-01;1244), da convertirsi in legge, col quale venne autorizzata la costruzione della ferrovia Montebelluna-Susegana e del tronco Sacile-Aviano, della ferrovia Sacile-Aviano-Pinzano, a cura diretta dello Stato, nonche' la spesa necessaria, limitatamente ai movimenti di terra ed alla esecuzione delle opere minori;
+Visto il [R. decreto 1° novembre 1914, n. 1244](Da%20convertirsi%20in%20legge%20col%20quale%20viene%20autorizzata%20la%20costruzione%20di%20ferrovie%20a%20cura%20diretta%20dello%20Stato.%20014U1244.md), da convertirsi in legge, col quale venne autorizzata la costruzione della ferrovia Montebelluna-Susegana e del tronco Sacile-Aviano, della ferrovia Sacile-Aviano-Pinzano, a cura diretta dello Stato, nonche' la spesa necessaria, limitatamente ai movimenti di terra ed alla esecuzione delle opere minori;
 
 Visto il [decreto Ministeriale 29 dicembre 1914, numero 6696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1914-12-29;6696)-48048, col quale, sulla somma complessiva di L. 6.540.000, di cui al citato R. decreto, furono assegnate L. 1.416.000 per i suindicati lavori, da eseguirsi per la costruzione del tronco Sacile-Aviano;
 
@@ -42,7 +42,7 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici, di concer
 
 In aggiunta alla somma complessiva L. 14.436.000 di cui ai RR decreti 1° novembre 1914, n. 1244, e 1° aprile 1915, n. 426, ed ai Nostri decreti 12 settembre 1915, n. 1503, 17 febbraio 1916, n. 225, e 27 febbraio 1916, n. 308, e' autorizzata la ulteriore maggiore spesa di L. 304.400 (lire trecentoquattromilaquattrocento) per far fronte ad impegni da assumere per L. 50.000 entro il corrente esercizio finanziario 1915-916 e per lire 254.400 nel successivo esercizio 1916-917 per la esecuzione di maggiori lavori a cura diretta dello Stato, sulla ferrovia Sacile-Aviano-Pinzano. 
  
- Alla detta somma di L. 304.400, da assegnarsi con decreto del ministro del tesoro, in aggiunta a quella stanziata al capitolo n. 263, del bilancio del Ministero dei lavori pubblici per l'esercizio corrente, ed al corrispondente capitolo del bilancio per l'esercizio finanziario 1916-917, sara' da provvedere con i mezzi stabiliti dall'[art. 3 della legge 23 dicembre 1906, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-12-23;638#art_3), e successive. 
+ Alla detta somma di L. 304.400, da assegnarsi con decreto del ministro del tesoro, in aggiunta a quella stanziata al capitolo n. 263, del bilancio del Ministero dei lavori pubblici per l'esercizio corrente, ed al corrispondente capitolo del bilancio per l'esercizio finanziario 1916-917, sara' da provvedere con i mezzi stabiliti dall'[art. 3 della legge 23 dicembre 1906, n. 638](Spese%20straordinarie%20occorrenti%20per%20le%20ferrovie%20esercitate%20dallo%20Stato%20e%20relativa%20provvista%20di%20fondi.%20006U0638.md), e successive. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

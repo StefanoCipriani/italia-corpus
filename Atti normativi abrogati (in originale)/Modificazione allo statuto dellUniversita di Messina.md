@@ -12,9 +12,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Visto lo statuto dell'Universita' di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successivamente modificato con [regi decreti 26 ottobre 1940, n. 1905](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e [28 maggio 1942, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-28;643);
+ Visto lo statuto dell'Universita' di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Messina.%20039U1090.md), e successivamente modificato con [regi decreti 26 ottobre 1940, n. 1905](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Messina.%20040U1905.md), e [28 maggio 1942, n. 643](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Messina.%20042U0643.md);
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
- Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
  Vedute le proposte relative allo statuto dell'Universita' anzidetta;
  Sentito il parere del Consiglio superiore della pubblica istruzione;
  Sulla proposta del Ministro per la pubblica istruzione;

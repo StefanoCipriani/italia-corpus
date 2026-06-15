@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016);
+Visto il testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md);
 
 Visto il [regio decreto legislativo 7 giugno 1946, n. 581](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-06-07;581), recante norme tributarie sulle concessioni governative;
 
-Visti il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151) e il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visti il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151) e il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto coi Ministri per le finanze e il tesoro, per la grazia e giustizia e per l'interno; HA SANZIONATO E PROMULGA:
 
 ## Art. 1.
 
-Le sopratasse venatorie previste dall'art. 91, nn. 1, 2, 3, 4 e 5 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), sono rispettivamente, elevate a lire centoventi, duecentocinquanta, cento, duecentocinquanta e cinquanta.
+Le sopratasse venatorie previste dall'art. 91, nn. 1, 2, 3, 4 e 5 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), sono rispettivamente, elevate a lire centoventi, duecentocinquanta, cento, duecentocinquanta e cinquanta.
 
 ## Art. 2.
 

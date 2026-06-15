@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 dicembre 1927, n. 2667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-29;2667), concernente proroga dell'applicazione delle tasse portuali a Trieste ed a Napoli. 
+ E' convertito in legge il [R. decreto-legge 29 dicembre 1927, n. 2667](Proroga%20dellapplicazione%20delle%20tasse%20portuali%20a%20Trieste%20ed%20a%20Napoli.%20027U2667.md), concernente proroga dell'applicazione delle tasse portuali a Trieste ed a Napoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

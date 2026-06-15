@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'imposta complementare istituita col Nostro decreto 17 novembre 1918, n.1835, non e' applicabile ai corpi morali assoggettati a tassa di manomorta, ne' alle aziende municipalizzate regolate dalla [legge 29 marzo 1903, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-03-29;103).
+L'imposta complementare istituita col Nostro decreto 17 novembre 1918, n.1835, non e' applicabile ai corpi morali assoggettati a tassa di manomorta, ne' alle aziende municipalizzate regolate dalla [legge 29 marzo 1903, n. 103](Sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20003U0103.md).
 
 ## Art. 2.
 

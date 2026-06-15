@@ -10,21 +10,21 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Veduto il [regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e le successive norme integrative, esecutive e interpretative;
+Veduto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e le successive norme integrative, esecutive e interpretative;
 
 Veduto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e le successive modificazioni;
 
-Veduto il [regio decreto 26 novembre 1931, n. 1472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-11-26;1472);
+Veduto il [regio decreto 26 novembre 1931, n. 1472](Esecuzione%20di%20studi%20e%20ricerche%20di%20carattere%20storico%20nellinteresse%20dellAmministrazione%20dello%20Stato.%20031U1472.md);
 
-Veduto il [regio decreto 4 aprile 1940, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-04;196);
+Veduto il [regio decreto 4 aprile 1940, n. 196](Nuovo%20ordinamento%20del%20Ministero%20delleducazione%20nazionale.%20040U0196.md);
 
-Veduto il [regio decreto 9 febbraio 1942, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-02-09;29);
+Veduto il [regio decreto 9 febbraio 1942, n. 29](Modificazioni%20ai%20ruoli%20organici%20del%20personale%20dellAmminastrazione%20centrale%20del%20Ministero%20delleducazione%20nazionale.%20042U0029.md);
 
-Veduto il [regio decreto 4 maggio 1942, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-04;526);
+Veduto il [regio decreto 4 maggio 1942, n. 526](Ordinamento%20del%20Ministero%20delleducazione%20nazionale.%20042U0526.md);
 
-Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduta la [legge 4 settembre 1940, n. 1547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-09-04;1547);
+Veduta la [legge 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md);
 
 Veduto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 

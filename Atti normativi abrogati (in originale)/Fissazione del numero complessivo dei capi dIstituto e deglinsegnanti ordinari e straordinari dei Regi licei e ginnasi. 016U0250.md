@@ -12,7 +12,7 @@ vigente: true
 
 N. 250 
  
- Decreto Luogotenenziale 30 gennaio 1916, col quale, sulla proposta del Ministro della istruzione pubblica, di concerto con il ministro del tesoro, udito il Consiglio dei ministri, e' stabilito, in base alle disposizioni della [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), il numero complessivo dei capi d'Istituto e degl'insegnanti ordinari e straordinari dei RR. licei e ginnasi per l'anno scolastico 1915-916, cosi' distribuiti: 
+ Decreto Luogotenenziale 30 gennaio 1916, col quale, sulla proposta del Ministro della istruzione pubblica, di concerto con il ministro del tesoro, udito il Consiglio dei ministri, e' stabilito, in base alle disposizioni della [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), il numero complessivo dei capi d'Istituto e degl'insegnanti ordinari e straordinari dei RR. licei e ginnasi per l'anno scolastico 1915-916, cosi' distribuiti: 
  
  RR. licei: 
  

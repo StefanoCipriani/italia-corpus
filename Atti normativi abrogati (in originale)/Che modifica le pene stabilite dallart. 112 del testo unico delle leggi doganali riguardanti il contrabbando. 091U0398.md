@@ -10,7 +10,7 @@ vigente: true
 
 ### Art. 1.
 
-Alle pene stabilite dall'art. 112 del testo unico delle leggi doganali approvato con [regio decreto dell'8 settembre 1889 (n. 6387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-09-08;6387) serie 3ª) per il contrabbando di merci, e dai capoversi 1° e 4° dell'[articolo 2 del decreto luogotenenziale del 28 giugno 1866, n. 3020](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1866-06-28;3020#art_2), per il contrabbando dei generi di privativa, e' aggiunta la pena del confino per un tempo non inferiore a tre mesi e non superiore ad un anno.
+Alle pene stabilite dall'art. 112 del testo unico delle leggi doganali approvato con [regio decreto dell'8 settembre 1889 (n. 6387](Con%20cui%20e%20approvato%20lunito%20testo%20unico%20delle%20leggi%20doganali.%20089U6387.md) serie 3ª) per il contrabbando di merci, e dai capoversi 1° e 4° dell'[articolo 2 del decreto luogotenenziale del 28 giugno 1866, n. 3020](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1866-06-28;3020#art_2), per il contrabbando dei generi di privativa, e' aggiunta la pena del confino per un tempo non inferiore a tre mesi e non superiore ad un anno.
 
 ### Art. 2.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 maggio 1934, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-05-10;989), con il quale sono stati approvati il piano regolatore generale di massima edilizio e di ampliamento della citta' di Trieste e le relative norme di attuazione. 
+ E' convertito in legge il [R. decreto-legge 10 maggio 1934, n. 989](Approvazione%20del%20piano%20regolatore%20generale%20di%20massima%20edilizio%20e%20di%20ampliamento%20della%20citta%20di%20Trieste%20e%20delle%20relative%20norme%20di%20attuazione.%20034U0989.md), con il quale sono stati approvati il piano regolatore generale di massima edilizio e di ampliamento della citta' di Trieste e le relative norme di attuazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

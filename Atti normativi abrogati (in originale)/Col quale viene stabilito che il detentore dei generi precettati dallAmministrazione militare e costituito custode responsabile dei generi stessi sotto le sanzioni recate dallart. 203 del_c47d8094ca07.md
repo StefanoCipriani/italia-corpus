@@ -12,7 +12,7 @@ vigente: true
 
 L'ordine di precettazione per le requisizioni emesso dalle competenti autorita' per derrate e generi comunque occorrenti all'Amministrazione militare importa che la merce resta vincolata a favore dell'Amministrazione stessa, ed a disposizione di essa. 
  
- Il detentore e' costituito custode responsabile della merce stessa fino alla effettiva consegna, sotto le sanzioni recate dall'[art. 203 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_203).
+ Il detentore e' costituito custode responsabile della merce stessa fino alla effettiva consegna, sotto le sanzioni recate dall'[art. 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 

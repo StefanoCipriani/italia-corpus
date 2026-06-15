@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 agosto 1927, n. 1554](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-10;1554), relativo al conferimento al presidente dell'Opera nazionale Balilla dei poteri del Consiglio centrale e della Giunta esecutiva dell'Opera stessa. 
+ E' convertito in legge il [R. decreto-legge 10 agosto 1927, n. 1554](Conferimento%20al%20presidente%20dellOpera%20nazionale%20Balilla%20dei%20poteri%20del%20Consiglio%20centrale%20e%20della%20Giunta%20esecutiva%20dellOpera%20stessa.%20027U1554.md), relativo al conferimento al presidente dell'Opera nazionale Balilla dei poteri del Consiglio centrale e della Giunta esecutiva dell'Opera stessa. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -20,7 +20,7 @@ Visto il R. decreto-legge 31 gennaio 1924-II, n. 472, sull'ordinamento scolastic
 
 Visto il R. decreto 21 giugno 1928-VI, n. 1698, sull'istruzione primaria per i musulmani della Tripolitania e della Cirenaica;
 
-Visto il [R. decreto 31 gennaio 1909, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;80), sull'istruzione elementare in Eritrea;
+Visto il [R. decreto 31 gennaio 1909, n. 80](Che%20rende%20obbligatoria%20pei%20nazionali%20della%20Colonia%20Eritrea%20listruzione%20elementare.%20009U0080.md), sull'istruzione elementare in Eritrea;
 
 Visto il [decreto Luogotenenziale 14 ottobre 1917, n. 1781](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-10-14;1781), sulla istituzione di una scuola tecnica in Asmara;
 
@@ -44,7 +44,7 @@ Il Ministro per le colonie ha facolta' di emanare, di concerto con il Ministro p
 
 ## Art. 3.
 
-Sono abrogati il R. decreto-legge 31 gennaio 1924-II, n. 472, il [R. decreto 31 gennaio 1909, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;80), ed ogni disposizione contraria al presente decreto. 
+Sono abrogati il R. decreto-legge 31 gennaio 1924-II, n. 472, il [R. decreto 31 gennaio 1909, n. 80](Che%20rende%20obbligatoria%20pei%20nazionali%20della%20Colonia%20Eritrea%20listruzione%20elementare.%20009U0080.md), ed ogni disposizione contraria al presente decreto. 
  Il presente decreto, cha entra in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno, sara' presentato al Parlamento per la conversione in legge. 
  Il Ministro proponente e' autorizzato a presentare il relativo disegno di legge. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 

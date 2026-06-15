@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 24 dicembre 1925, n. 2275](Pensioni%20alle%20famiglie%20dei%20caduti%20per%20la%20causa%20nazionale%20dal%2023%20luglio%201919%20al%201%20novembre%201922%20ed%20ai%20mutilati%20per%20la%20stessa%20causa%20nello%20stesso%20periodo%20nonche%20ai%20militi%20della%20M.V.S.N.%20muti_27dd77e61ec3.md);
 
-Visto il [R. decreto-legge 31 ottobre 1923, n. 2414](Autorizzazione%20al%20Comando%20generale%20della%20M.%20V.%20S.%20N.%20di%20stipulare%20un%20contratto%20di%20assicurazione%20cumulativa%20a%20beneficio%20dei%20componenti%20la%20milizia.%20023U2414.md), convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge 31 ottobre 1923, n. 2414](Autorizzazione%20al%20Comando%20generale%20della%20M.%20V.%20S.%20N.%20di%20stipulare%20un%20contratto%20di%20assicurazione%20cumulativa%20a%20beneficio%20dei%20componenti%20la%20milizia.%20023U2414.md), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto il [R. decreto-legge 4 agosto 1924, n. 1292](Approvazione%20del%20nuovo%20ordinamento%20della%20Milizia%20Volontaria%20per%20la%20Sicurezza%20Nazionale.%20024U1292.md);
 
@@ -30,7 +30,7 @@ Su proposta del Capo del Governo Primo Ministro Segretario di Stato, di concerto
 
 ## Art. 1.
 
-Il [R. decreto-legge 31 ottobre 1923, n. 2414](Autorizzazione%20al%20Comando%20generale%20della%20M.%20V.%20S.%20N.%20di%20stipulare%20un%20contratto%20di%20assicurazione%20cumulativa%20a%20beneficio%20dei%20componenti%20la%20milizia.%20023U2414.md), convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), che autorizza il Comando generale della M. V. S. N. a stipulare un contratto d'assicurazione cumulativa a beneficio dei componenti la M. V. S. N. e' abrogato dall'entrata in vigore del presente Regio decreto, fatti salvi gli eventuali impegni contrattuali in corso.
+Il [R. decreto-legge 31 ottobre 1923, n. 2414](Autorizzazione%20al%20Comando%20generale%20della%20M.%20V.%20S.%20N.%20di%20stipulare%20un%20contratto%20di%20assicurazione%20cumulativa%20a%20beneficio%20dei%20componenti%20la%20milizia.%20023U2414.md), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), che autorizza il Comando generale della M. V. S. N. a stipulare un contratto d'assicurazione cumulativa a beneficio dei componenti la M. V. S. N. e' abrogato dall'entrata in vigore del presente Regio decreto, fatti salvi gli eventuali impegni contrattuali in corso.
 
 ## Art. 2.
 

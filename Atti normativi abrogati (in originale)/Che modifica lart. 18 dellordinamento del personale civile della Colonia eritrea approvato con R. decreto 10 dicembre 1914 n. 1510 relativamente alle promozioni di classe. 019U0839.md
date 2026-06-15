@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 24 maggio 1903, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-05-24;205); 
+ Vista la [legge 24 maggio 1903, n. 205](Ordinamento%20della%20Colonia%20Eritrea.%20003U0205.md); 
  
- Visti i RR. decreti 19 settembre 1909, nn. 838 ed 839, sull'ordinamento del personale della Colonia eritrea, e le modificazioni ad essi apportate col [R. decreto 10 dicembre 1914, n. 1510](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-12-10;1510), nonche' coi Nostri decreti 12 giugno 1916, n. 798, e 4 agosto 1918, n. 1237; 
+ Visti i RR. decreti 19 settembre 1909, nn. 838 ed 839, sull'ordinamento del personale della Colonia eritrea, e le modificazioni ad essi apportate col [R. decreto 10 dicembre 1914, n. 1510](Col%20quale%20vengono%20approvate%20alcune%20modificazioni%20allordinamento%20del%20Personale%20civile%20della%20Colonia%20eritrea.%20014U1510.md), nonche' coi Nostri decreti 12 giugno 1916, n. 798, e 4 agosto 1918, n. 1237; 
  
  Udito il governatore; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- All'art. 18 delle modificazioni all'ordinamento del personale civile per la Colonia eritrea, approvate col [R. decreto 10 dicembre 1914, n. 1510](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-12-10;1510) e successivamente modificate coi [decreti Luogotenenziali 12 giugno 1916, n. 789](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-06-12;789) e [4 agosto 1918, n. 1237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-04;1237), e' sostituito quello seguente: 
+ All'art. 18 delle modificazioni all'ordinamento del personale civile per la Colonia eritrea, approvate col [R. decreto 10 dicembre 1914, n. 1510](Col%20quale%20vengono%20approvate%20alcune%20modificazioni%20allordinamento%20del%20Personale%20civile%20della%20Colonia%20eritrea.%20014U1510.md) e successivamente modificate coi [decreti Luogotenenziali 12 giugno 1916, n. 789](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-06-12;789) e [4 agosto 1918, n. 1237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-04;1237), e' sostituito quello seguente: 
  
  «Le promozioni dalla quinta alla quarta classe e dalla quarta alla terza, sono fatte per anzianita' congiunta al merito; dalla terza alla seconda e dalla seconda alla prima classe, hanno luogo esclusivamente a scelta. 
  

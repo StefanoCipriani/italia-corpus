@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 aprile 1929, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-04-25;674), concernente modifiche ad alcune disposizioni sul reclutamento dei militari del Regio esercito. 
+ E' convertito in legge il [R. decreto-legge 25 aprile 1929, n. 674](Modifica%20ad%20alcune%20disposizioni%20sul%20reclutamento%20dei%20militari%20del%20Regio%20esercito.%20029U0674.md), concernente modifiche ad alcune disposizioni sul reclutamento dei militari del Regio esercito. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

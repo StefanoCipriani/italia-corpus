@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 marzo 1927, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-17;386), che disciplina il lavoro nei grandi panifici tecnicamente organizzati con forni a fuoco continuo. 
+ E' convertito in legge il [R. decreto-legge 17 marzo 1927, n. 386](Disciplina%20del%20lavoro%20nei%20panifici%20di%20notevole%20potenzialita%20con%20forni%20a%20regime%20continuo.%20027U0386.md), che disciplina il lavoro nei grandi panifici tecnicamente organizzati con forni a fuoco continuo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

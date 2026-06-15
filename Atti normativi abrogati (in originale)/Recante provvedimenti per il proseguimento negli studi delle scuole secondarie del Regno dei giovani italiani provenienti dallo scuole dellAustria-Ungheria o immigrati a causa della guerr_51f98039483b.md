@@ -60,7 +60,7 @@ Gli alunni emigrati prima della fine dell'anno scolastico, che non hanno potuto 
 
 Gli alunni provenienti dall'VIII classe di un ginnasio dell'Impero austro-ungarico, classico o moderno, oppure dalla VII classe di una scuola reale, che non abbiano potuto presentarsi all'esame di maturita' (licenza), saranno ammessi a sostenere il corrispondente esame di licenza nei licei e negli Istituti tecnici del Regno con diritto di godere delle riparazioni concesse dalle vigenti disposizioni. 
  
- La stessa facolta' e' concessa a coloro che, nell'anno scolastico 1914-915, hanno frequentata la IV classe dell'Istituto magistrale o la II del corso di perfezionamento dei licei femminili, i quali saranno ammessi a sostenere l'esame di licenza normale, con diritto di conseguire subito il diploma di abilitazione e di esercitare il magistero quando abbiano l'eta' prescritta dall'[art. 9 della legge 12 luglio 1896, n. 393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-12;393#art_9).
+ La stessa facolta' e' concessa a coloro che, nell'anno scolastico 1914-915, hanno frequentata la IV classe dell'Istituto magistrale o la II del corso di perfezionamento dei licei femminili, i quali saranno ammessi a sostenere l'esame di licenza normale, con diritto di conseguire subito il diploma di abilitazione e di esercitare il magistero quando abbiano l'eta' prescritta dall'[art. 9 della legge 12 luglio 1896, n. 393](Colla%20quale%20il%20Comune%20di%20Caraffa%20di%20Catanzaro%20cessa%20di%20far%20parte%20del%20mandamento%20di%20Tiriolo%20ed%20e%20aggregato%20al%20mandamento%20di%20Borgia.%20096U0393.md).
 
 ## Art. 6.
 

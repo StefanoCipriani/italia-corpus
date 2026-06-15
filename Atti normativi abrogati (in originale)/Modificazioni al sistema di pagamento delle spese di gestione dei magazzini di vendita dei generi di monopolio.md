@@ -12,17 +12,17 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258);
 
-convertito nella [legge 6 dicembre 1928, n. 3474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;3474);
+convertito nella [legge 6 dicembre 1928, n. 3474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201927%20n.%202258%20relativo%20allautonomia%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20028U3474.md);
 
-Visto il [regio decreto 14 giugno 1941, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-06-14;577);
+Visto il [regio decreto 14 giugno 1941, n. 577](Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
 
-Vista la [legge 7 giugno 1928, n. 1335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-06-07;1335);
+Vista la [legge 7 giugno 1928, n. 1335](Inserzione%20nei%20contratti%20dappalto%20degli%20spacci%20allingrosso%20dei%20generi%20di%20privativa%20della%20clausola%20per%20la%20revisione%20delle%20indennita.%20028U1335.md);
 
-Visto il [decreto legislativo luogotenenziale 10 maggio 1945, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-10;251);
+Visto il [decreto legislativo luogotenenziale 10 maggio 1945, n. 251](../Decreti%20legislativi%20luogotenenziali/Temporanea%20modificazione%20del%20sistema%20di%20pagamento%20delle%20spese%20di%20gestione%20dei%20magazzini%20di%20vendita%20dei%20generi%20di%20monopolio.%20045U0251.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Udito il parere del Consiglio di amministrazione dei monopoli di Stato;
 

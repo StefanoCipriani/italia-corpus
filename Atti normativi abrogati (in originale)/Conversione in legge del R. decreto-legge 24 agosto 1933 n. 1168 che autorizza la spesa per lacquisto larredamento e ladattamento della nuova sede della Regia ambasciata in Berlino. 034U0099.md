@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 agosto 1933, n. 1168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-08-24;1168), che autorizza la spesa per l'acquisto, l'arredamento e l'adattamento della nuova sede della Regia ambasciata in Berlino. 
+ E' convertito in legge il [R. decreto-legge 24 agosto 1933, n. 1168](Autorizzazione%20della%20spesa%20di%20lire%20sette%20milioni%20per%20provvedere%20allacquisto%20e%20alla%20sistemazione%20della%20nuova%20sede%20della%20Regia%20ambasciata%20in%20Berlino.%20033U1168.md), che autorizza la spesa per l'acquisto, l'arredamento e l'adattamento della nuova sede della Regia ambasciata in Berlino. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

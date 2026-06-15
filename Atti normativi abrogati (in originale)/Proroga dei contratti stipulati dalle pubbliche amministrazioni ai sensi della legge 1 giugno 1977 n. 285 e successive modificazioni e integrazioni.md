@@ -22,13 +22,13 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-Il [primo comma dell'art. 26 del decreto-legge 30 dicembre 1979, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663#art_26-com1), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33), e' sostituito dai seguenti: 
+Il [primo comma dell'art. 26 del decreto-legge 30 dicembre 1979, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663#art_26-com1), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201979%20n.%20663%20concernente%20provvedimenti%20per%20il%20finanziamento%20del%20Servizio%20sanitario%20nazionale%20per%20la%20previdenza%20per%20il%20c_9d4821b80b65.md), e' sostituito dai seguenti: 
  "I contratti stipulati dalle pubbliche amministrazioni, ai sensi della [legge 1 giugno 1977, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-06-01;285), e successive modifiche e integrazioni, gia' scaduti o che vengano a scadenza entro il 31 dicembre 1980, sono prorogati a detta data. 
  Nel periodo di proroga dei contratti i giovani saranno addetti, a tempo pieno, ad un'attivita' lavorativa corrispondente alla qualifica professionale in base alla quale e' avvenuta l'assunzione".
 
 ## Art. 2.
 
-La durata della riduzione contributiva di cui abbiano fruito o fruiscano le cooperative indicate nell'[art. 9 della legge 1 giugno 1977, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-06-01;285#art_9), nel testo sostituito all'[art. 9 del decreto-legge 6 luglio 1978, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-07-06;351#art_9), convertito, con modificazioni, nella [legge 4 agosto 1978, n. 479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-04;479), non puo' eccedere i ventiquattro mesi.
+La durata della riduzione contributiva di cui abbiano fruito o fruiscano le cooperative indicate nell'[art. 9 della legge 1 giugno 1977, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-06-01;285#art_9), nel testo sostituito all'[art. 9 del decreto-legge 6 luglio 1978, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-07-06;351#art_9), convertito, con modificazioni, nella [legge 4 agosto 1978, n. 479](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%201978%20n.%20351%20recante%20modifiche%20alla%20legge%201%20giugno%201977%20n.%20285%20sulloccupazione%20giovanile.md), non puo' eccedere i ventiquattro mesi.
 
 ## Art. 3.
 

@@ -20,7 +20,7 @@ Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https:
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Visto il [R. decreto-legge 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578), convertito, con modificazioni, nella [legge 22 gennaio 1934, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-22;36), sull'ordinamento delle professioni di avvocato e procuratore, e successive modificazioni;
+Visto il [R. decreto-legge 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578), convertito, con modificazioni, nella [legge 22 gennaio 1934, n. 36](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20riguardante%20lordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0036.md), sull'ordinamento delle professioni di avvocato e procuratore, e successive modificazioni;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -42,7 +42,7 @@ L'esame delle domande e' devoluto ad una commissione composta dal primo presiden
 
 Il provvedimento della commissione, se e' favorevole al richiedente, viene comunicato al Consiglio dell'ordine al quale e' affidata la tenuta dell'albo affinche' proceda all'iscrizione, previa esibizione della quietanza di pagamento della tassa per le opere di assistenza scolastica universitaria.
  Il rigetto della domanda viene comunicato all'interessato.
- Qualora venga richiesta l'iscrizione nell'albo speciale degli avvocati ammessi al patrocinio dinanzi alle giurisdizioni superiori, la commissione, nei casi in cui dispone l'iscrizione nell'albo degli avvocati, trasmette la domanda ed i documenti relativi alla Corte Suprema di cassazione per il provvedimento di cui all'[art. 1 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;318#art_1).
+ Qualora venga richiesta l'iscrizione nell'albo speciale degli avvocati ammessi al patrocinio dinanzi alle giurisdizioni superiori, la commissione, nei casi in cui dispone l'iscrizione nell'albo degli avvocati, trasmette la domanda ed i documenti relativi alla Corte Suprema di cassazione per il provvedimento di cui all'[art. 1 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 318](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lammissione%20al%20patrocinio%20dinanzi%20alle%20giurisdizioni%20superiori%20e%20sulle%20iscrizioni%20negli%20albi%20del%20procuratori%20e%20degli%20avvocati.%20044U0318.md).
 
 ## Art. 5.
 

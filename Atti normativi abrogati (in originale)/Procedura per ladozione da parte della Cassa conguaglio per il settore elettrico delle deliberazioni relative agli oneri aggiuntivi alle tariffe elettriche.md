@@ -16,7 +16,7 @@ Visto l'[articolo 24 della legge 23 dicembre 1993, n. 559](https://www.normattiv
 
 Visto l'[articolo 4 della legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20#art_4);
 
-Visto il [decreto-legge 23 ottobre 1996, n. 543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-23;543), convertito, con modificazioni, dalla [legge 20 dicembre 1996, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639);
+Visto il [decreto-legge 23 ottobre 1996, n. 543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-23;543), convertito, con modificazioni, dalla [legge 20 dicembre 1996, n. 639](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20543%20recante%20disposizioni%20urgenti%20in%20materia%20di%20ordinamento%20della%20Corte%20dei%20conti.md);
 
 Visto l'[articolo 3 della legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481#art_3);
 

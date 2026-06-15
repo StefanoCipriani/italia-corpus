@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 dicembre 1928, n. 2862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-06;2862), recante provvedimenti per la costruzione di una strada da Genzano di Roma al lago di Nemi. 
+ E' convertito in legge il [R. decreto-legge 6 dicembre 1928, n. 2862](Provvedimenti%20per%20la%20costruzione%20di%20una%20strada%20da%20Genzano%20di%20Roma%20al%20lago%20di%20Nemi.%20028U2862.md), recante provvedimenti per la costruzione di una strada da Genzano di Roma al lago di Nemi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

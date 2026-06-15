@@ -16,13 +16,13 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Nella tabella B allegata al [decreto-legge 23 ottobre 1964, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-23;989), convertito, con modificazioni, nella [legge 18 dicembre 1964, n. 1350, alla lettera f)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-18;1350#art_letf) - Oli da gas - dopo il punto 1 e' aggiunto:
+Nella tabella B allegata al [decreto-legge 23 ottobre 1964, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-23;989), convertito, con modificazioni, nella [legge 18 dicembre 1964, n. 1350, alla lettera f)](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201964%20n.%20989%20adottato%20ai%20sensi%20dellart.%2077%20comma%20secondo%20della%20Costituzione%20recante%20modificazioni%20alla%20disciplina%20fiscal_a6b872ec0ddb.md) - Oli da gas - dopo il punto 1 e' aggiunto:
  "2) da usare direttamente come combustibili per il riscaldamento di locali, per la produzione di acqua calda per uso domestico e per i servizi igienici e di cucina";
  nella colonna "aliquota per quintale - lire" in corrispondenza del punto 2), e' aggiunta la cifra "500".
 
 ## Art. 2.
 
-Alla lettera d), punto 1), della tabella C allegata al [decreto-legge 23 ottobre 1964, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-23;989), convertito, con modificazioni, nella [legge 18 dicembre 1964, n. 1350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-18;1350), dopo la lettera b) e' aggiunto:
+Alla lettera d), punto 1), della tabella C allegata al [decreto-legge 23 ottobre 1964, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-23;989), convertito, con modificazioni, nella [legge 18 dicembre 1964, n. 1350](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201964%20n.%20989%20adottato%20ai%20sensi%20dellart.%2077%20comma%20secondo%20della%20Costituzione%20recante%20modificazioni%20alla%20disciplina%20fiscal_a6b872ec0ddb.md), dopo la lettera b) e' aggiunto:
  "c) per essere ammessi al trattamento degli "oli da gas da usare direttamente come combustibili per il riscaldamento di locali, per la produzione di acqua calda per uso domestico e per servizi igienici e di cucina", gli oli da gas devono presentare un colore naturale non superiore al numero 3 della scala del metodo ASTM D 1500 nonche' le altre caratteristiche stabilite al precedente punto b)".
 
 ## Art. 3.

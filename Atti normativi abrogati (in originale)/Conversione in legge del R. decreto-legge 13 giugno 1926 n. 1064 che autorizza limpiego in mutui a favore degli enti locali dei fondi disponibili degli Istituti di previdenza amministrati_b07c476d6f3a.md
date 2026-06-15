@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 giugno 1926, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-06-13;1064), che autorizza l'impiego in mutui, a favore degli enti locali, dei fondi disponibili degli Istituti di previdenza amministrati dalla Cassa depositi e prestiti. 
+ E' convertito in legge il [R. decreto-legge 13 giugno 1926, n. 1064](Impiego%20di%20fondi%20appartenenti%20agli%20Istituti%20di%20previdenza%20amministrati%20dalla%20Cassa%20depositi%20e%20prestiti%20in%20mutui%20agli%20Enti%20locali%20a%20condizioni%20speciali%20e%20con%20gestione%20separata.%20026U1064.md), che autorizza l'impiego in mutui, a favore degli enti locali, dei fondi disponibili degli Istituti di previdenza amministrati dalla Cassa depositi e prestiti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -12,21 +12,21 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Veduta la [legge 8 agosto 1977, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;546);
 
-Veduto il [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;102), con il quale e' stata istituita la "Scuola internazionale superiore di studi avanzati", in Trieste;
+Veduto il [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](../DPR/Norme%20sulla%20Universita%20statale%20di%20Udine%20e%20sulla%20istituzione%20ed%20il%20potenziamento%20di%20strutture%20per%20la%20ricerca%20scientifica%20e%20tecnologica%20di%20alta%20cultura%20ed%20universitarie%20in%20Trieste.md), con il quale e' stata istituita la "Scuola internazionale superiore di studi avanzati", in Trieste;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md);
 
 Vedute le proposte formulate ai sensi dell'art. 27 del citato decreto del Presidente della Repubblica numero 102 dal comitato tecnico per l'approvazione dello statuto;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Considerata la necessita' di adeguare, sotto il profilo delle legittimita', le norme statutarie alla normativa dettata in materia dai citati [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;102) e [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382);
+Considerata la necessita' di adeguare, sotto il profilo delle legittimita', le norme statutarie alla normativa dettata in materia dai citati [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](../DPR/Norme%20sulla%20Universita%20statale%20di%20Udine%20e%20sulla%20istituzione%20ed%20il%20potenziamento%20di%20strutture%20per%20la%20ricerca%20scientifica%20e%20tecnologica%20di%20alta%20cultura%20ed%20universitarie%20in%20Trieste.md) e [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md);
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -52,13 +52,13 @@ STATUTO DELLA "SCUOLA INTERNAZIONALE SUPERIORE DI STUDI AVANZATI", IN
 
 ### Art. 1.
 
-La Scuola internazionale superiore di studi avanzati in Trieste, istituita con [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;102), e' istituto di ricerca e di alta cultura.
+La Scuola internazionale superiore di studi avanzati in Trieste, istituita con [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](../DPR/Norme%20sulla%20Universita%20statale%20di%20Udine%20e%20sulla%20istituzione%20ed%20il%20potenziamento%20di%20strutture%20per%20la%20ricerca%20scientifica%20e%20tecnologica%20di%20alta%20cultura%20ed%20universitarie%20in%20Trieste.md), e' istituto di ricerca e di alta cultura.
  La Scuola, quale istituto scientifico speciale, ha personalita' giuridica ed autonomia amministrativa, didattica e disciplinare, ed e' sottoposta alla vigilanza del Ministero della pubblica istruzione.
 
 ### Art. 2.
 
 La Scuola ha lo scopo di contribuire a promuovere lo sviluppo della cultura e della ricerca scientifica, preparando laureati alla ricerca avanzata, pura ed applicata, e all'insegnamento universitario, specialmente nel settore delle discipline fisiche e della matematica, in particolar modo i provenienti dai Paesi in via di sviluppo.
- Come previsto dall'[art. 20 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;102#art_20), la Scuola svolge le proprie attivita' anche in altri settori culturali come regolato dal successivo art. 17.
+ Come previsto dall'[art. 20 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102](../DPR/Norme%20sulla%20Universita%20statale%20di%20Udine%20e%20sulla%20istituzione%20ed%20il%20potenziamento%20di%20strutture%20per%20la%20ricerca%20scientifica%20e%20tecnologica%20di%20alta%20cultura%20ed%20universitarie%20in%20Trieste.md), la Scuola svolge le proprie attivita' anche in altri settori culturali come regolato dal successivo art. 17.
 
 ### Art. 3.
 
@@ -72,11 +72,11 @@ Per il conseguimento dei fini istituzionali la Scuola:
 
 ### Art. 4.
 
-La Scuola concorda opportune forme di collegamento organico dell'attivita' scientifica e didattica con l'Universita' di Trieste e di Udine, anche ai fini dell'attuazione del dettato di cui all'[art. 8 della legge 21 gennaio 1980, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-01-21;28#art_8) e al titolo III, capo II, del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382), nonche' con gli istituti di ricerca avanzata nazionali ed internazionali quali: il Centro internazionale di fisica teorica dell'IAEAUNESCO; l'Agenzia internazionale per l'energia atomica l'Organizzazione delle Nazioni Unite per l'educazione, la scienza e la cultura (UNESCO); il Consiglio nazionale delle ricerche; l'Istituto nazionale di alta matematica; la Scuola normale superiore di Pisa; l'Istituto nazionale di fisica nucleare; il Centro internazionale di scienze matematiche di Udine; il Consorzio per l'area per la ricerca scientifica e tecnologica in Trieste; lo osservatorio astronomico di Trieste; l'osservatorio geofisico sperimentale di Trieste; ogni altra Universita' ed istituto di ricerca italiani e stranieri che svolgono attivita' similari nei settori delle ricerche e degli studi coltivati dalla Scuola.
+La Scuola concorda opportune forme di collegamento organico dell'attivita' scientifica e didattica con l'Universita' di Trieste e di Udine, anche ai fini dell'attuazione del dettato di cui all'[art. 8 della legge 21 gennaio 1980, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-01-21;28#art_8) e al titolo III, capo II, del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), nonche' con gli istituti di ricerca avanzata nazionali ed internazionali quali: il Centro internazionale di fisica teorica dell'IAEAUNESCO; l'Agenzia internazionale per l'energia atomica l'Organizzazione delle Nazioni Unite per l'educazione, la scienza e la cultura (UNESCO); il Consiglio nazionale delle ricerche; l'Istituto nazionale di alta matematica; la Scuola normale superiore di Pisa; l'Istituto nazionale di fisica nucleare; il Centro internazionale di scienze matematiche di Udine; il Consorzio per l'area per la ricerca scientifica e tecnologica in Trieste; lo osservatorio astronomico di Trieste; l'osservatorio geofisico sperimentale di Trieste; ogni altra Universita' ed istituto di ricerca italiani e stranieri che svolgono attivita' similari nei settori delle ricerche e degli studi coltivati dalla Scuola.
 
 ### Art. 5.
 
-Ai fini della realizzazione dei suoi scopi istituzionali, la Scuola puo' stipulare convenzioni con enti, in particolare con quelli indicati nel precedente art. 4 secondo le norme di cui all'art. 6, penultimo e ultimo comma, della [legge 21 febbraio 1980, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28) e dal [decreto del Presidente della Repubblica n. 382/80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;382).
+Ai fini della realizzazione dei suoi scopi istituzionali, la Scuola puo' stipulare convenzioni con enti, in particolare con quelli indicati nel precedente art. 4 secondo le norme di cui all'art. 6, penultimo e ultimo comma, della [legge 21 febbraio 1980, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20della%20docenza%20universitaria%20e%20relativa%20fascia%20di%20formazione%20e%20per%20la%20sperimentazione%20organizzativa%20e%20didattica.md) e dal [decreto del Presidente della Repubblica n. 382/80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;382).
 
 ### Art. 6.
 
@@ -115,14 +115,14 @@ Ogni anno il consiglio direttivo, su indicazione del consiglio della Scuola, det
 ### Art. 11.
 
 L'ammissione degli allievi alla Scuola e' subordinata al risultato di una selezione per titoli e colloquio allo scopo di comprovare l'attitudine dell'allievo alla ricerca e la capacita' di seguire con profitto l'attivita' scientifica e didattica.
- Agli allievi, anche stranieri, ammessi alla Scuola potranno essere concesse borse di studio secondo le norme del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382), ed eventuali successive modificazioni o integrazioni.
+ Agli allievi, anche stranieri, ammessi alla Scuola potranno essere concesse borse di studio secondo le norme del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), ed eventuali successive modificazioni o integrazioni.
  Gli allievi stranieri inoltre potranno godere di borse di studio che vengano eventualmente loro concesse ai sensi della [legge 12 marzo 1977, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-03-12;87), ed eventuali successive modifiche.
  Le borse di studio di cui ai precedenti commi non danno luogo a trattamenti previdenziali e assistenziali e non sono cumulabili.
  La Scuola puo' anche ammettere allievi che fruiscano di contributi o borse erogate da altri enti, anche stranieri.
 
 ### Art. 12.
 
-In accordo alle particolari esigenze della Scuola per quanto attiene la promozione della cultura e della ricerca scientifica e per il funzionamento, in riferimento all'[art. 27 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;102#art_27), il consiglio direttivo, oltre alle borse di cui all'art, 11, puo' istituire annualmente, su proposta del consiglio della Scuola, posti di studio interni compatibilmente con le disponibilita' di bilancio, da assegnare agli allievi con modalita' e durata fissate dal regolamento interno di cui all'art. 32.
+In accordo alle particolari esigenze della Scuola per quanto attiene la promozione della cultura e della ricerca scientifica e per il funzionamento, in riferimento all'[art. 27 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102](../DPR/Norme%20sulla%20Universita%20statale%20di%20Udine%20e%20sulla%20istituzione%20ed%20il%20potenziamento%20di%20strutture%20per%20la%20ricerca%20scientifica%20e%20tecnologica%20di%20alta%20cultura%20ed%20universitarie%20in%20Trieste.md), il consiglio direttivo, oltre alle borse di cui all'art, 11, puo' istituire annualmente, su proposta del consiglio della Scuola, posti di studio interni compatibilmente con le disponibilita' di bilancio, da assegnare agli allievi con modalita' e durata fissate dal regolamento interno di cui all'art. 32.
  In via transitoria, sino all'assegnazione alla Scuola delle borse di studio di cui al secondo comma dell'art. 11 e all'espletamento dei relativi concorsi, posti di studio interni potranno venire assegnati in sostituzione delle borse.
 
 ### Art. 13.
@@ -183,7 +183,7 @@ Il direttore e' un professore universitario di ruolo, nominato dal consiglio dir
  esercita tutte le attribuzioni di ordine scientifico, didattico, amministrativo e disciplinare che gli sono deferite dal presente statuto e dal regolamento della Scuola;
  conferisce il diploma e l'attestato di cui all'art. 15.
  Il direttore dura in carica un triennio accademico e non puo' essere riconfermato piu' di due volte consecutive.
- Qualora il Direttore non sia professore di ruolo della Scuola, viene distaccato con provvedimento del Ministro della pubblica istruzione, ai sensi dell'[art. 23 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;102#art_23).
+ Qualora il Direttore non sia professore di ruolo della Scuola, viene distaccato con provvedimento del Ministro della pubblica istruzione, ai sensi dell'[art. 23 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102](../DPR/Norme%20sulla%20Universita%20statale%20di%20Udine%20e%20sulla%20istituzione%20ed%20il%20potenziamento%20di%20strutture%20per%20la%20ricerca%20scientifica%20e%20tecnologica%20di%20alta%20cultura%20ed%20universitarie%20in%20Trieste.md).
  Il direttore e' sostituito in caso di assenza o di impedimento da un vicedirettore.
  Il vicedirettore e' nominato dal consiglio direttivo, su proposta del direttore, sulla base anche di eventuali indicazioni fornite dal consiglio della Scuola, fra professori universitari di ruolo della Scuola stessa e tra quelli dell'Universita' degli studi di Trieste; egli dura in carica un triennio e puo' essere riconfermato.
 
@@ -197,7 +197,7 @@ Al consiglio direttivo spettano le funzioni attribuite dalle vigenti disposizion
  autorizza la stipulazione di convenzioni con enti, in particolare con quelli indicati nell'art. 4; 
  propone l'entita' delle competenze spettanti, ai sensi delle vigenti disposizioni di legge, agli amministratori; 
  propone i compensi spettanti, ai sensi delle vigenti disposizioni di legge, ai componenti del consiglio dei revisori dei conti; 
- esercita tutte le altre attribuzioni che gli sono demandate dall'[art. 24 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;102#art_24), dal presente statuto e dal regolamento della Scuola. 
+ esercita tutte le altre attribuzioni che gli sono demandate dall'[art. 24 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102](../DPR/Norme%20sulla%20Universita%20statale%20di%20Udine%20e%20sulla%20istituzione%20ed%20il%20potenziamento%20di%20strutture%20per%20la%20ricerca%20scientifica%20e%20tecnologica%20di%20alta%20cultura%20ed%20universitarie%20in%20Trieste.md), dal presente statuto e dal regolamento della Scuola. 
  E' convocato dal presidente almeno tre volte l'anno e comunque ogni qualvolta ne ravvisi la necessita' o su richiesta del direttore o di un terzo dei suoi componenti. 
  La convocazione e' fatta con avviso scritto almeno dieci giorni prima della seduta, salvo casi d'urgenza. 
  Il consiglio direttivo e' composto: 
@@ -217,8 +217,8 @@ Al consiglio direttivo spettano le funzioni attribuite dalle vigenti disposizion
  p) da un rappresentante dei professori incaricati della Scuola; 
  q) da un rappresentante degli allievi ammessi alla Scuola; 
  r) da un rappresentante del personale non docente della Scuola; 
- s) dal direttore amministrativo della Scuola, che esercita le funzioni di segretario del consiglio stesso, e da altre rappresentanze secondo quanto stabilito dalla [legge 21 febbraio 1980, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28) e dal [decreto del Presidente della Repubblica n. 382/80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;382). 
- Le rappresentanze di cui alle lettere o), p), q) saranno elette dalle corrispondenti categorie secondo le modalita' fissate dallo [art. 9 del decreto-legge 1 ottobre 1973, n. 580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580#art_9), convertito, con modificazioni, nella [legge 30 novembre 1973, n. 766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), e successive modificazioni e dal [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382).
+ s) dal direttore amministrativo della Scuola, che esercita le funzioni di segretario del consiglio stesso, e da altre rappresentanze secondo quanto stabilito dalla [legge 21 febbraio 1980, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20della%20docenza%20universitaria%20e%20relativa%20fascia%20di%20formazione%20e%20per%20la%20sperimentazione%20organizzativa%20e%20didattica.md) e dal [decreto del Presidente della Repubblica n. 382/80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;382). 
+ Le rappresentanze di cui alle lettere o), p), q) saranno elette dalle corrispondenti categorie secondo le modalita' fissate dallo [art. 9 del decreto-legge 1 ottobre 1973, n. 580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580#art_9), convertito, con modificazioni, nella [legge 30 novembre 1973, n. 766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201973%20n.%20580%20recante%20misure%20urgenti%20per%20lUniversita.md), e successive modificazioni e dal [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md).
 
 ### Art. 21.
 
@@ -234,9 +234,9 @@ Al consiglio della Scuola sono attribuite le funzioni di consiglio di facolta'.
  soprintende alla biblioteca della Scuola con funzione di curatorio e decide in ordine alla organizzazione della medesima e al piano delle spese nei limiti della previsione del bilancio annuale;
  decide in ordine alle pubblicazioni della Scuola nei limiti degli stanziamenti di bilancio;
  propone al consiglio direttivo i regolamenti riguardanti l'attivita' scientifica e didattica della Scuola;
- esercita tutte le altre attribuzioni demandategli dall'[art. 25 del decreto del Presidente della Repubblica 6 marzo 1978, numero 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;102#art_25), dal presente statuto e dal regolamento della Scuola.
- Il consiglio della Scuola e' composto dal direttore, che lo presiede, dai professori di ruolo e fuori ruolo assegnati alla Scuola, dai professori incaricati e da due rappresentanti degli studenti della Scuola, annualmente eletti dagli stessi, e da altre rappresentanze secondo quanto stabilito dalla [legge 21 febbraio 1980, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28) e dal [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382).
- La partecipazione delle predette componenti e' disciplinata in conformita' a quanto disposto dall'[art. 9 del decreto-legge 1 ottobre 1973, n. 580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580#art_9), convertito in [legge 30 novembre 1973, n. 766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766) e dal [decreto del Presidente della Repubblica n. 382/80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;382), in materia di consiglio di facolta'.
+ esercita tutte le altre attribuzioni demandategli dall'[art. 25 del decreto del Presidente della Repubblica 6 marzo 1978, numero 102](../DPR/Norme%20sulla%20Universita%20statale%20di%20Udine%20e%20sulla%20istituzione%20ed%20il%20potenziamento%20di%20strutture%20per%20la%20ricerca%20scientifica%20e%20tecnologica%20di%20alta%20cultura%20ed%20universitarie%20in%20Trieste.md), dal presente statuto e dal regolamento della Scuola.
+ Il consiglio della Scuola e' composto dal direttore, che lo presiede, dai professori di ruolo e fuori ruolo assegnati alla Scuola, dai professori incaricati e da due rappresentanti degli studenti della Scuola, annualmente eletti dagli stessi, e da altre rappresentanze secondo quanto stabilito dalla [legge 21 febbraio 1980, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20della%20docenza%20universitaria%20e%20relativa%20fascia%20di%20formazione%20e%20per%20la%20sperimentazione%20organizzativa%20e%20didattica.md) e dal [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md).
+ La partecipazione delle predette componenti e' disciplinata in conformita' a quanto disposto dall'[art. 9 del decreto-legge 1 ottobre 1973, n. 580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580#art_9), convertito in [legge 30 novembre 1973, n. 766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201973%20n.%20580%20recante%20misure%20urgenti%20per%20lUniversita.md) e dal [decreto del Presidente della Repubblica n. 382/80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;382), in materia di consiglio di facolta'.
  Il consiglio della Scuola e' convocato dal direttore in conformita' dell'art. 10 del regolamento generale approvato con [regio decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).
 
 ### Art. 22.
@@ -248,7 +248,7 @@ Il collegio dei revisori dei conti provvede al riscontro degli atti di gestione;
 
 ### Art. 23.
 
-Corsi specializzati e seminari su temi specifici per un periodo non superiore a tre anni possono essere affidati a studiosi anche stranieri ai sensi dell'[art. 29 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;102#art_29). Il compenso sara' fissato in relazione al tempo dedicato all'attivita' su indicata e non potra' superare lo stipendio iniziale del professore ordinario.
+Corsi specializzati e seminari su temi specifici per un periodo non superiore a tre anni possono essere affidati a studiosi anche stranieri ai sensi dell'[art. 29 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102](../DPR/Norme%20sulla%20Universita%20statale%20di%20Udine%20e%20sulla%20istituzione%20ed%20il%20potenziamento%20di%20strutture%20per%20la%20ricerca%20scientifica%20e%20tecnologica%20di%20alta%20cultura%20ed%20universitarie%20in%20Trieste.md). Il compenso sara' fissato in relazione al tempo dedicato all'attivita' su indicata e non potra' superare lo stipendio iniziale del professore ordinario.
 
 ### Art. 24.
 
@@ -299,7 +299,7 @@ Il direttore promuove le forme piu' opportune di interessamento e di contribuzio
 
 ### Art. 32.
 
-L'attivita' della Scuola e' disciplinata dal presente statuto, nonche' dal regolamento adottato ai sensi dell'[art. 86 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_86).
+L'attivita' della Scuola e' disciplinata dal presente statuto, nonche' dal regolamento adottato ai sensi dell'[art. 86 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md).
  Entro sei mesi dalla data di approvazione del presente statuto il consiglio direttivo, su proposta del consiglio della Scuola, adottera' un regolamento interno di funzionamento che in particolare disciplinera':
  a) le norme particolari tecniche dell'attivita' di ricerca o di studio della Scuola, nonche' le modalita' per la determinazione del calendario della Scuola stessa;
  b) le norme particolari tecniche per l'organizzazione didattica della Scuola e le modalita' per il conferimento dei titoli;

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 ottobre 1934, numero 1870](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-04;1870), riguardante le opere di perfezionamento della «Vasca nazionale per le esperienze di architettura navale». 
+ E' convertito in legge il [R. decreto-legge 4 ottobre 1934, numero 1870](Opere%20di%20perfezionamento%20per%20la%20Vasca%20nazionale%20per%20le%20esperienze%20di%20architettura%20navale.%20034U1870.md), riguardante le opere di perfezionamento della «Vasca nazionale per le esperienze di architettura navale». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

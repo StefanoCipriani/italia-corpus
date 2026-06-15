@@ -14,7 +14,7 @@ Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie
 
 ## Art. 2.
 
-I capitoli a favore dei quali possono effettuarsi prelevamenti dal fondo a disposizione, di cui all'art. 20 del testo unico approvato col [R. decreto 2 febbraio 1928, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263), sono, per l'esercizio finanziario 1931-32, quelli descritti nella tabella A, annessa alla presente legge.
+I capitoli a favore dei quali possono effettuarsi prelevamenti dal fondo a disposizione, di cui all'art. 20 del testo unico approvato col [R. decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono, per l'esercizio finanziario 1931-32, quelli descritti nella tabella A, annessa alla presente legge.
 
 ## Art. 3.
 
@@ -27,7 +27,7 @@ Il numero degli ufficiali che possono essere nominati in servizio permanente eff
 
 ## Art. 5.
 
-Il numero degli ufficiali da adibire al servizio degli specialisti del genio di cui alla tabella annessa all'[art. 2 del R. decreto-legge 16 dicembre 1926, n.2122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2122#art_2), modificata dall'[art. 10 del R. decreto-legge 18 marzo 1928, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-03-18;742#art_10), e' diminuito di tre colonnelli o tenenti colonnelli per le cariche di direttori, capi servizio ed insegnanti e di nove tenenti colonnelli, maggiori o capitani per le cariche di vice-direttori, capi servizio ed insegnanti.
+Il numero degli ufficiali da adibire al servizio degli specialisti del genio di cui alla tabella annessa all'[art. 2 del R. decreto-legge 16 dicembre 1926, n.2122](Istituzione%20di%20un%20Servizio%20degli%20specialisti%20del%20genio.%20026U2122.md), modificata dall'[art. 10 del R. decreto-legge 18 marzo 1928, n. 742](Varianti%20alla%20legge%2011%20marzo%201926%20n.%20396%20sullordinamento%20del%20Regio%20esercito%20disposizioni%20riguardanti%20la%20costituzione%20del%20Tribunale%20militare%20territoriale%20per%20il%20Corpo%20darmata%20di%20Udine%20e%20no_a947bb379ef3.md), e' diminuito di tre colonnelli o tenenti colonnelli per le cariche di direttori, capi servizio ed insegnanti e di nove tenenti colonnelli, maggiori o capitani per le cariche di vice-direttori, capi servizio ed insegnanti.
 
 ## Art. 6.
 

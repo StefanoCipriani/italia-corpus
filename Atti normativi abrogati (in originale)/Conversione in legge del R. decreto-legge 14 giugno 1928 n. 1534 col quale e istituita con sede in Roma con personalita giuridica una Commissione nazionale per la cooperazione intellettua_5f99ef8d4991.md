@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 giugno 1928, n. 1534](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-14;1534), col quale e' istituita, con sede in Roma, con personalita' giuridica, una Commissione nazionale per la cooperazione intellettuale, avente lo scopo di mantenere le relazioni ed adempiere le funzioni ad essa demandate dalla Commissione per la cooperazione intellettuale della Societa' delle Nazioni e dall'Istituto di cooperazione intellettuale di Parigi. 
+ E' convertito in legge il [R. decreto-legge 14 giugno 1928, n. 1534](Istituzione%20in%20Roma%20di%20una%20Commissione%20nazionale%20per%20la%20cooperazione%20intellettuale.%20028U1534.md), col quale e' istituita, con sede in Roma, con personalita' giuridica, una Commissione nazionale per la cooperazione intellettuale, avente lo scopo di mantenere le relazioni ed adempiere le funzioni ad essa demandate dalla Commissione per la cooperazione intellettuale della Societa' delle Nazioni e dall'Istituto di cooperazione intellettuale di Parigi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

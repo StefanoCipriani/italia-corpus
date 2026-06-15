@@ -14,4 +14,4 @@ N.
 
 586.
 
-Decreto Luogotenenziale 27 marzo 1919, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il comune di Albissola Superiore e' autorizzato ad applicare la tassa di soggiorno ai sensi della [legge 11 dicembre 1910, n. 863](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;863), approvandosene il regolamento relativo.
+Decreto Luogotenenziale 27 marzo 1919, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il comune di Albissola Superiore e' autorizzato ad applicare la tassa di soggiorno ai sensi della [legge 11 dicembre 1910, n. 863](Che%20da%20facolta%20ai%20Comuni%20di%20istituire%20una%20tassa%20di%20soggiorno.%20010U0863.md), approvandosene il regolamento relativo.

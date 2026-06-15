@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 1 marzo 1945, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;138), riguardante la costituzione del Comitato italiano Petroli;
+Visto il [decreto legislativo luogotenenziale 1 marzo 1945, n. 138](../Decreti%20legislativi%20luogotenenziali/Costituzione%20del%20Comitato%20Italiano%20Petroli%20C.I.P..%20045U0138.md), riguardante la costituzione del Comitato italiano Petroli;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 22 maggio 1947, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-22;623), concernente la proroga della durata del Comitato italiano Petroli fino al 30 giugno 1947 e la liquidazione dello stesso;
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

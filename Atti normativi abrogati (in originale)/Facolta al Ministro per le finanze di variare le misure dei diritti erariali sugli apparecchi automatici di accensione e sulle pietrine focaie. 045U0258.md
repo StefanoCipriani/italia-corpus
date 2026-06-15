@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il R. decreto-legge 2 febbraio 1922, 281, contenente norme relative alla fabbricazione, importazione e vendita degli accenditori automatici e delle pietrine focaie;
 
-Visto il [R. decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105), concernente l'aumento dei diritti erariali sugli apparecchi automatici di accensione, convertito nella [legge 1° maggio 1930, n. 611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-05-01;611);
+Visto il [R. decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105), concernente l'aumento dei diritti erariali sugli apparecchi automatici di accensione, convertito nella [legge 1° maggio 1930, n. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20febbraio%201930%20n.%20105%20relativo%20allaumento%20dei%20diritti%20erariali%20sugli%20apparecchi%20automatici%20di%20accensione.%20030U0611.md);
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md), recante nuove norme sull'emanazione, promulgazione e pubblicazione dei decreti Luogotenenziali e di altri provvedimenti;
 

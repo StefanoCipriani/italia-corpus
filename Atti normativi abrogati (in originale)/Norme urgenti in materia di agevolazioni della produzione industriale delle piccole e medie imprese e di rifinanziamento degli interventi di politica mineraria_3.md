@@ -36,7 +36,7 @@ I benefici previsti dall'[articolo 1 della legge 19 dicembre 1983, n. 696](https
 
 2.
 
-I contributi concessi ad ogni singola impresa ai sensi del comma 1 non possono superare l'importo di lire 350 milioni, elevato a 600 milioni nei territori di cui all'[articolo 1 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218#art_1).
+I contributi concessi ad ogni singola impresa ai sensi del comma 1 non possono superare l'importo di lire 350 milioni, elevato a 600 milioni nei territori di cui all'[articolo 1 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
 
 3.
 
@@ -52,7 +52,7 @@ Nei casi di restituzione del contributo, in conseguenza della revoca, le imprese
 
 6.
 
-Si applicano le disposizioni di cui all'[articolo 1, settimo comma, della legge 19 dicembre 1983, n. 696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-19;696#art_1-com7), e di cui all'[articolo 3, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-04-09;62#art_3-com1) e [2, del decreto-legge 9 aprile 1984, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-04-09;62#art_3-com2), convertito, con modificazioni, dalla [legge 8 giugno 1984, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-08;212).
+Si applicano le disposizioni di cui all'[articolo 1, settimo comma, della legge 19 dicembre 1983, n. 696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-19;696#art_1-com7), e di cui all'[articolo 3, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-04-09;62#art_3-com1) e [2, del decreto-legge 9 aprile 1984, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-04-09;62#art_3-com2), convertito, con modificazioni, dalla [legge 8 giugno 1984, n. 212](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20aprile%201984%20n.%2062%20concernente%20norme%20urgenti%20in%20materia%20di%20amministrazione%20straordinaria%20delle%20grandi%20imprese%20in%20crisi%20e%20di%20agevo_33fc3b1a10ac.md).
 
 7.
 
@@ -147,7 +147,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 1.
 
 Gli [articoli 11](Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20modelli%20industriali%20e%20marchi%20di%20impresa.md) e [12 del decreto del Presidente della Repubblica 30 giugno 1972, n. 540](Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20modelli%20industriali%20e%20marchi%20di%20impresa.md), sono sostituiti dal seguente: 
- "Art. 11. - 1. La riproduzione della descrizione e dei disegni dei brevetti per invenzioni, prevista dal [secondo comma dell'articolo 38 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_38-com2), puo' essere effettuata, anche direttamente a cura dell'Ufficio centrale brevetti, mediante microfilmatura ovvero acquisizione su supporto elettronico o optoelettronico, ed allo stesso modo puo' essere effettuata la riproduzione degli originali delle domande di brevetto, della documentazione relativa ai brevetti per modelli industriali e per marchi d'impresa, nonche' dei registri di cui agli articoli 5 e 10 del presente decreto. Previa tale riproduzione, dopo l'estinzione dei diritti di brevetto, l'Ufficio centrale brevetti puo' procedere, anche senza il parere dell'Archivio centrale dello Stato, alla distruzione dei registri dei brevetti, dei registri delle domande e dei fascicoli contenenti gli atti e documenti relativi alle domande di brevetto".
+ "Art. 11. - 1. La riproduzione della descrizione e dei disegni dei brevetti per invenzioni, prevista dal [secondo comma dell'articolo 38 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), puo' essere effettuata, anche direttamente a cura dell'Ufficio centrale brevetti, mediante microfilmatura ovvero acquisizione su supporto elettronico o optoelettronico, ed allo stesso modo puo' essere effettuata la riproduzione degli originali delle domande di brevetto, della documentazione relativa ai brevetti per modelli industriali e per marchi d'impresa, nonche' dei registri di cui agli articoli 5 e 10 del presente decreto. Previa tale riproduzione, dopo l'estinzione dei diritti di brevetto, l'Ufficio centrale brevetti puo' procedere, anche senza il parere dell'Archivio centrale dello Stato, alla distruzione dei registri dei brevetti, dei registri delle domande e dei fascicoli contenenti gli atti e documenti relativi alle domande di brevetto".
 
 ## Art. 9.
 

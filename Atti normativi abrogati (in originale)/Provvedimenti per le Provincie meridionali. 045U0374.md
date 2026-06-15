@@ -16,7 +16,7 @@ E' autorizzata l'Amministrazione delle ferrovie dello Stato a riservare agli sta
 
 ## Art. 2.
 
-Per le provviste e le riparazioni di cui all'articolo che precede restano ferme, per quanto applicabili, le disposizioni del regolamento approvato con [R. decreto 29 novembre 1906, n. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-11-29;738). 
+Per le provviste e le riparazioni di cui all'articolo che precede restano ferme, per quanto applicabili, le disposizioni del regolamento approvato con [R. decreto 29 novembre 1906, n. 738](Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20della%20legge%20per%20il%20risorgimento%20economico%20di%20Napoli.%20006U0738.md). 
  
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

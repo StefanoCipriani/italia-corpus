@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 agosto 1926, n. 1429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-09;1429), concernente la conferma in carica dei componenti le Commissioni di 1° e 2° grado per le imposte dirette. 
+ E' convertito in legge il [R. decreto-legge 9 agosto 1926, n. 1429](Conferma%20in%20carica%20dei%20componenti%20le%20Commissioni%20di%201º%20e%20di%202º%20grado%20per%20le%20imposte%20dirette.%20026U1429.md), concernente la conferma in carica dei componenti le Commissioni di 1° e 2° grado per le imposte dirette. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 novembre 1924, n. 1918](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-10;1918), che approva il contratto stipulato in forma pubblica amministrativa presso la Regia intendenza di finanza di Verona il 29 settembre 1924, portante vendita di due appezzamenti di terreno demaniale in quella citta' alla locale Societa' edilizia cooperativa ufficiali Regio esercito «Secure» per il complessivo prezzo di L.
+ E' convertito in legge il [R. decreto-legge 10 novembre 1924, n. 1918](Approvazione%20del%20Contratto%20stipulato%20presso%20la%20Regia%20intendenza%20di%20finanza%20di%20Verona%20il%2029%20settembre%201924%20portante%20vendita%20di%20due%20appezzamenti%20di%20terreno%20demaniale%20in%20quella%20citta%20alla%20So_22e59d253d16.md), che approva il contratto stipulato in forma pubblica amministrativa presso la Regia intendenza di finanza di Verona il 29 settembre 1924, portante vendita di due appezzamenti di terreno demaniale in quella citta' alla locale Societa' edilizia cooperativa ufficiali Regio esercito «Secure» per il complessivo prezzo di L.
 487,220. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 

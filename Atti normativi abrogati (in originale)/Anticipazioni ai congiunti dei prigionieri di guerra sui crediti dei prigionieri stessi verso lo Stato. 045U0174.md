@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 19 maggio 1941, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-19;583), convertito nella [legge 10 maggio 1943, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-05-10;507);
+Visto il [R. decreto-legge 19 maggio 1941, n. 583](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md), convertito nella [legge 10 maggio 1943, n. 507](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20maggio%201941-XIX%20n.%20583%20relativo%20al%20trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20di%20_c00e94ef3697.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -28,9 +28,9 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Alle famiglie dei prigionieri di guerra, degli internati all'estero o dei dispersi, alle quali spetti l'anticipazione di cui all'[art. 41 del R. decreto-legge 19 maggio 1941, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-19;583#art_41), sara' corrisposta, allo stesso titolo, per ogni prigioniero, internato all'estero o disperso, una somma nella misura stabilita nell'annessa tabella firmata dal Presidente del Consiglio dei Ministri, Primo Ministro Segretario di Stato e dal Ministro per il tesoro. 
+Alle famiglie dei prigionieri di guerra, degli internati all'estero o dei dispersi, alle quali spetti l'anticipazione di cui all'[art. 41 del R. decreto-legge 19 maggio 1941, n. 583](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md), sara' corrisposta, allo stesso titolo, per ogni prigioniero, internato all'estero o disperso, una somma nella misura stabilita nell'annessa tabella firmata dal Presidente del Consiglio dei Ministri, Primo Ministro Segretario di Stato e dal Ministro per il tesoro. 
  
- Detta anticipazione s'intende effettuata a scomputo di quanto dovuto dallo Stato per differenza fra le anticipazioni gia' fatte - sia ai prigionieri, sia alle loro famiglie - e gli assegni spettanti ai prigionieri stessi a norma dell'[art. 40 del R. decreto-legge 19 maggio 1941, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-19;583#art_40). 
+ Detta anticipazione s'intende effettuata a scomputo di quanto dovuto dallo Stato per differenza fra le anticipazioni gia' fatte - sia ai prigionieri, sia alle loro famiglie - e gli assegni spettanti ai prigionieri stessi a norma dell'[art. 40 del R. decreto-legge 19 maggio 1941, n. 583](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md). 
  
  Il beneficio e' concesso alle famiglie di coloro che risultino prigionieri, internati all'estero o dispersi da almeno un anno. Se lo stato di prigionia, di internamento o di dispersione dura da almeno due anni, verra' corrisposta una seconda anticipazione di eguale ammontare, dopo tre mesi dal pagamento della prima.
 
@@ -40,7 +40,7 @@ Le anticipazioni di cui al precedente articolo non spettano alla moglie contro l
 
 ## Art. 3.
 
-Per le anticipazioni previste dall'art. 1 valgono, in quanto applicabili, le norme di cui all'art. 41 del citato [R. decreto-legge 19 maggio 1941, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-19;583).
+Per le anticipazioni previste dall'art. 1 valgono, in quanto applicabili, le norme di cui all'art. 41 del citato [R. decreto-legge 19 maggio 1941, n. 583](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md).
 
 ## Art. 4.
 

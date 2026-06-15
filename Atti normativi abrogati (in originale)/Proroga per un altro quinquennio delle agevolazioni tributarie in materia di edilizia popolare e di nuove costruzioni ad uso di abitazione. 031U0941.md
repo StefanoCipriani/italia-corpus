@@ -34,7 +34,7 @@ Le agevolazioni tributarie di cui agli articoli 42, secondo comma, 43, 45 e 46 d
 
 ## Art. 2.
 
-E' altresi' prorogato, con effetto dal 1° gennaio 1931 e fino al 31 dicembre 1935, a favore degli enti autonomi per le case popolari ed economiche, il privilegio tributario recato dall'[art. 16, comma secondo del R. decreto-legge 20 gennaio 1925 n. 343](Norme%20per%20la%20esecuzione%20delle%20decisioni%20della%20Commissione%20di%20vigilanza%20sulle%20cooperative%20edilizie%20e%20facilitazioni%20tributarie%20per%20le%20nuove%20costruzioni.%20025U0343.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597). 
+E' altresi' prorogato, con effetto dal 1° gennaio 1931 e fino al 31 dicembre 1935, a favore degli enti autonomi per le case popolari ed economiche, il privilegio tributario recato dall'[art. 16, comma secondo del R. decreto-legge 20 gennaio 1925 n. 343](Norme%20per%20la%20esecuzione%20delle%20decisioni%20della%20Commissione%20di%20vigilanza%20sulle%20cooperative%20edilizie%20e%20facilitazioni%20tributarie%20per%20le%20nuove%20costruzioni.%20025U0343.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md). 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge e il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

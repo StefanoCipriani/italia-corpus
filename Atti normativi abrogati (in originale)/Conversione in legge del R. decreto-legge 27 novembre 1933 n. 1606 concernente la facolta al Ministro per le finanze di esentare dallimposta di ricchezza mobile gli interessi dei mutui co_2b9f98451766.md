@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1606), concernente la facolta' al Ministro per le finanze di esentare dall'imposta di ricchezza mobile gli interessi dei mutui contratti, per determinati scopi, dal Partito Nazionale Fascista o dai suoi organi periferici e dalla Fondazione nazionale « Figli del Littorio ». 
+ E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1606](Facolta%20al%20Ministro%20per%20le%20finanze%20di%20esentare%20dallimposta%20di%20ricchezza%20mobile%20gli%20interessi%20dei%20mutui%20contratti%20per%20determinati%20scopi%20dal%20P.%20N.%20F.%20o%20dai%20suoi%20organi%20periferici%20e%20dalla%20Fo_794761959bcf.md), concernente la facolta' al Ministro per le finanze di esentare dall'imposta di ricchezza mobile gli interessi dei mutui contratti, per determinati scopi, dal Partito Nazionale Fascista o dai suoi organi periferici e dalla Fondazione nazionale « Figli del Littorio ». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

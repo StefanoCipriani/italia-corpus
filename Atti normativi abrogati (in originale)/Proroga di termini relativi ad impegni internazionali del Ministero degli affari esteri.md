@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto-legge 31 gennaio 1997, n. 12](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_3.md), convertito, con modificazioni, dalla [legge 25 marzo 1997, n. 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-25;72);
+Visto il [decreto-legge 31 gennaio 1997, n. 12](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_3.md), convertito, con modificazioni, dalla [legge 25 marzo 1997, n. 72](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%201997%20n.%2012%20recante%20partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron.%20Proroga%20della%20partecipazione%20it_4d11556c690c.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di prorogare la partecipazione italiana al Gruppo di osservatori temporanei nella citta' di Hebron (Temporary international presence in Hebron), per il ristabilimento del clima di pace e tranquillita' in quella citta', cosi' come previsto dall'accordo firmato a Gerusalemme il 21 gennaio 1997 dal Governo israeliano e dall'Autorita' palestinese;
 
@@ -40,7 +40,7 @@ Al personale militare di cui all'articolo 1 e' attribuito, con decorrenza dalla 
 
 2.
 
-Al personale militare si applicano, altresi', le norme di cui ai [commi 2](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_2.md), [3](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_2.md) e [4 dell'articolo 3 del decreto-legge 20 giugno 1994, n. 397](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_2.md), convertito dalla [legge 3 agosto 1994, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-03;482).
+Al personale militare si applicano, altresi', le norme di cui ai [commi 2](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_2.md), [3](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_2.md) e [4 dell'articolo 3 del decreto-legge 20 giugno 1994, n. 397](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_2.md), convertito dalla [legge 3 agosto 1994, n. 482](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2020%20giugno%201994%20n.%20397%20recante%20partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron.md).
 
 ## Art. 3.
 

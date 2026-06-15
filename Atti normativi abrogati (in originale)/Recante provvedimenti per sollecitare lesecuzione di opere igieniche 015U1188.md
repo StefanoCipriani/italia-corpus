@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato per gli affari dell'interno, pre
 
 ## Art. 1.
 
-I progetti per opere igieniche, di cui agli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_7) e [8 della legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_8), potranno essere approvati dal Ministero dell'interno, su proposta del prefetto, previo parere dell'ingegnere capo del genio civile e del medico provinciale.
+I progetti per opere igieniche, di cui agli [articoli 7](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md) e [8 della legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), potranno essere approvati dal Ministero dell'interno, su proposta del prefetto, previo parere dell'ingegnere capo del genio civile e del medico provinciale.
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ La concessione dei prestiti da parte della Cassa depositi e prestiti potra' fars
  
  c) decisione della Giunta provinciale amministrativa approvante il deliberato di cui alla precedente lettera b). 
  
- Se per garantire il mutuo occorrera' eccedere la sovrimposta sui terreni e sui fabbricati oltre il limite legale, la Giunta provinciale amministrativa, nella decisione di cui sopra, autorizzera' tale eccedenza. Agli effetti dell'art. 310 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148), verra' pubblicata soltanto la decisione tutoria ed il termine per il ricorso alla quinta sezione del Consiglio di Stato sara' ridotto a quindici giorni; 
+ Se per garantire il mutuo occorrera' eccedere la sovrimposta sui terreni e sui fabbricati oltre il limite legale, la Giunta provinciale amministrativa, nella decisione di cui sopra, autorizzera' tale eccedenza. Agli effetti dell'art. 310 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), verra' pubblicata soltanto la decisione tutoria ed il termine per il ricorso alla quinta sezione del Consiglio di Stato sara' ridotto a quindici giorni; 
  
  d) l'attestazione prefettizia sulla consistenza della sovrimposta; 
  
@@ -54,13 +54,13 @@ Il ministro dell'interno potra' delegare ai prefetti, in tutto o in parte, le at
 
 ## Art. 4.
 
-Il decreto Ministeriale, di cui agli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_7) e [8 della legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_8), potra' essere trasmesso pel riscontro della Corte dei conti insieme col R. decreto di concessione del mutuo.
+Il decreto Ministeriale, di cui agli [articoli 7](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md) e [8 della legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), potra' essere trasmesso pel riscontro della Corte dei conti insieme col R. decreto di concessione del mutuo.
 
 ## Art. 5.
 
 Le disposizioni degli articoli precedenti saranno anche applicabili: 
  
- a) ai mutui per le opere per provvista di acqua potabile, a termini della [legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586), quando si tratti di sistemazione di opere esistenti o di costruzione di pozzi o di cisterne e l'ammontare della spesa prevista non ecceda la somma di L. 50,000; 
+ a) ai mutui per le opere per provvista di acqua potabile, a termini della [legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), quando si tratti di sistemazione di opere esistenti o di costruzione di pozzi o di cisterne e l'ammontare della spesa prevista non ecceda la somma di L. 50,000; 
  
  b) ai mutui corrispondenti alla differenza fra lo importo dei progetti o il sussidio in capitale, di cui all'art. 7 del R. decreto 27, settembre 1914, n. 1050, e all'art. 8 del presente decreto; 
  
@@ -68,19 +68,19 @@ Le disposizioni degli articoli precedenti saranno anche applicabili:
 
 ## Art. 6.
 
-Il ministro dell'interno, nell'approvare i progetti delle opere contemplato nel presente decreto, potra' dichiarare le opere stesse indifferibili ed urgenti, agli effetti degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_71), modificata dalla [legge 28 dicembre 1879, n. 5188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-28;5188).
+Il ministro dell'interno, nell'approvare i progetti delle opere contemplato nel presente decreto, potra' dichiarare le opere stesse indifferibili ed urgenti, agli effetti degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), modificata dalla [legge 28 dicembre 1879, n. 5188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-28;5188).
 
 ## Art. 7.
 
-La differenza fra l'ammontare degli impegni per concorso dello Stato per i mutui di favore al due per cento, autorizzati dalla [legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586), e quello degli impegni assunti in ciascun esercizio, dall'attuazione della legge stessa sara' portata in aumento delle somme stabilito per l'esercizio 1915-916.
+La differenza fra l'ammontare degli impegni per concorso dello Stato per i mutui di favore al due per cento, autorizzati dalla [legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), e quello degli impegni assunti in ciascun esercizio, dall'attuazione della legge stessa sara' portata in aumento delle somme stabilito per l'esercizio 1915-916.
 
 ## Art. 8.
 
-Entro i limiti delle somme disponibili conservate o da conservarsi nei residui del bilancio del Ministero dell'interno, in esecuzione dell'[art. 5 della legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_5), il ministro dell'interno e', autorizzato a concedere secondo modalita' e condizioni da stabilirsi dal ministro stesso, allo scopo di concorrere alla spesa di costruzione, sistemazione e arredamento di opere igieniche di carattere urgente, dando la preferenza a quelle occorrenti per la profilassi e la cura delle malattie infettive. 
+Entro i limiti delle somme disponibili conservate o da conservarsi nei residui del bilancio del Ministero dell'interno, in esecuzione dell'[art. 5 della legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), il ministro dell'interno e', autorizzato a concedere secondo modalita' e condizioni da stabilirsi dal ministro stesso, allo scopo di concorrere alla spesa di costruzione, sistemazione e arredamento di opere igieniche di carattere urgente, dando la preferenza a quelle occorrenti per la profilassi e la cura delle malattie infettive. 
  
  Le somme erogate per effetto dello stesso articolo e che siano comunque restituite saranno portate in aumento dei residui medesimi. 
  
- Ai progetti delle opere anzidette saranno applicabili le disposizioni dei precedenti [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_1) e [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_6) e dell'[articolo 10 della legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_10).
+ Ai progetti delle opere anzidette saranno applicabili le disposizioni dei precedenti [articoli 1](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md) e [6](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md) e dell'[articolo 10 della legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md).
 
 ## Art. 9.
 
@@ -88,13 +88,13 @@ Le disposizioni dei precedenti articoli avranno effetto fino al 30 giugno 1916 e
 
 ## Art. 10.
 
-I progetti degli acquedotti da costruirsi a cura della Direzione generale delle ferrovie dello Stato nell'interesse promiscuo della ferrovia e dei Comuni, comprese le diramazioni pertinenti ai Comuni, saranno approvati dal ministro dei lavori pubblici anche agli effetti della dichiarazione di pubblica utilita', di concerto col ministro dell'interno, con la procedura indicata nell'[articolo 76 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_76). 
+I progetti degli acquedotti da costruirsi a cura della Direzione generale delle ferrovie dello Stato nell'interesse promiscuo della ferrovia e dei Comuni, comprese le diramazioni pertinenti ai Comuni, saranno approvati dal ministro dei lavori pubblici anche agli effetti della dichiarazione di pubblica utilita', di concerto col ministro dell'interno, con la procedura indicata nell'[articolo 76 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md). 
  
  La somministrazione dei mutui, per la parte di spesa a carico dei comuni potra' farsi direttamente alla direzione generale delle ferrovie dello Stato, su richiesta del Ministero dell'interno, in base a stati di avanzamento dei lavori rilasciati dalla direzione generale stessa.
 
 ## Art. 11.
 
-Per l'esecuzione della [legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586) e delle altre leggi riguardanti opere igieniche di competenza del Ministero dell'interno, e' costituito presso la direzione generale della sanita' pubblica un ufficio speciale, al quale potranno essere aggregati in via temporanea funzionari tecnici dipendenti da altra amministrazioni dello Stato, o, in mancanza, liberi professionisti. 
+Per l'esecuzione della [legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md) e delle altre leggi riguardanti opere igieniche di competenza del Ministero dell'interno, e' costituito presso la direzione generale della sanita' pubblica un ufficio speciale, al quale potranno essere aggregati in via temporanea funzionari tecnici dipendenti da altra amministrazioni dello Stato, o, in mancanza, liberi professionisti. 
  
  Le competenze ad essi spettanti, a carico del Ministero dell'interno, graveranno sul capitolo 195 dello stato di previsione della spesa del detto Ministero per l'esercizio 1915-916 e la misura di esso sara' stabiliti con decreto del ministro dell'interno, da registrarsi alla Corte dei conti.
 

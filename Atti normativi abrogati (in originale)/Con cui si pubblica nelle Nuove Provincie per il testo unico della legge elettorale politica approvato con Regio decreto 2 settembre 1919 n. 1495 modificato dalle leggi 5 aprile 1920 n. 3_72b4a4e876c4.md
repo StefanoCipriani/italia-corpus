@@ -103,7 +103,7 @@ Oltre quanto e' stabilito nell'art. 106, incorrono nella perdita delle qualita' 
  
  Tale effetto della condanna non ha luogo in caso: 
  
- a) di condanna per i reati preveduti dai paragrafi 58, lettere a), b), c), 60, 61, 63, 64, 65, 66 [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) austriaco, dall'art. 1 della legge, l7 dicembre 1862 (B. L. I., n. 8 ex 1863) e dai corrispondenti articoli del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare austriaco; 
+ a) di condanna per i reati preveduti dai paragrafi 58, lettere a), b), c), 60, 61, 63, 64, 65, 66 [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco, dall'art. 1 della legge, l7 dicembre 1862 (B. L. I., n. 8 ex 1863) e dai corrispondenti articoli del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare austriaco; 
  
  b) di condanne inflitte per un delitto di natura specificamente militare, in base a legge del cessato regime; 
  

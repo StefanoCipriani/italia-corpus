@@ -18,7 +18,7 @@ Visto il [R. decreto-legge n. 632 del 3 aprile 1926](Trasporto%20degli%20effetti
 
 Visti i [Regi decreti 9 luglio 1926, n. 1381](Sopratassa%20speciale%20per%20il%20trasporto%20degli%20oggetti%20postali%20sulle%20linee%20di%20navigazione%20aerea.%20026U1381.md), e [2 giugno 1927, n. 991](Sopratassa%20speciale%20per%20il%20trasporto%20degli%20oggetti%20postali%20sulla%20linea%20aerea%20Roma-Venezia-Vienna.%20027U0991.md);
 
-Visto l'[art. 7 del R. decreto-legge n. 520 del 23 aprile 1925](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto l'[art. 7 del R. decreto-legge n. 520 del 23 aprile 1925](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Viste le disposizioni concernenti il trasporto della posta-lettere per via aerea, stabilite nella Conferenza dell'Aja del settembre 1927;
 

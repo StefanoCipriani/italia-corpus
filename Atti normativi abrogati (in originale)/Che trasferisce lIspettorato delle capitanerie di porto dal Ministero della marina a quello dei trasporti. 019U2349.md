@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. Decreto 22 giugno 1916, N. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1916-06-22;756), che istitui' il Ministero dei Trasporti marittimi e ferroviari;
+Visto il [R. Decreto 22 giugno 1916, N. 756](Concernente%20listituzione%20del%20Ministero%20dei%20trasporti%20marittimi%20e%20ferroviari.%20016U0756.md), che istitui' il Ministero dei Trasporti marittimi e ferroviari;
 
 Udito il Consiglio dei Ministri;
 

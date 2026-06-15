@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' ratificato il [R. decreto in data 20 febbraio 1921, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-02-20;255), inteso a regolare, per il tempo di pace, la concessione di impianti radiotelegrafici e radiotelefonici. 
+ E' ratificato il [R. decreto in data 20 febbraio 1921, n. 255](Che%20apporta%20modificazioni%20al%20decreto%20Luogotenenziale%206%20giugno%201915%20n.%20810%20relativo%20al%20divieto%20di%20concessioni%20per%20impianti%20di%20stazioni%20radiotelegrafiche%20e%20radiotelefoniche.%20021U0255.md), inteso a regolare, per il tempo di pace, la concessione di impianti radiotelegrafici e radiotelefonici. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

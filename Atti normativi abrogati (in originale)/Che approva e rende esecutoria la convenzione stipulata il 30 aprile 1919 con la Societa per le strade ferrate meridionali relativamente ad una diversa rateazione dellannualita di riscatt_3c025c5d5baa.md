@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro; Abbiamo decretato
 
 ## Art. 1.
 
-E' approvata e resa esecutoria la convenzione stipulata il 30 aprile 1919 fra il Ministero del tesoro e il legale rappresentante della Societa' per le strade ferrate meridionali, per una diversa rateazione dell'annualita' di riscatto delle ferrovie gia' concesse alla detta Societa', dovuta dallo Stato ai termini della convenzione approvata con l'[articolo 1 della legge 15 luglio 1906, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;324#art_1).
+E' approvata e resa esecutoria la convenzione stipulata il 30 aprile 1919 fra il Ministero del tesoro e il legale rappresentante della Societa' per le strade ferrate meridionali, per una diversa rateazione dell'annualita' di riscatto delle ferrovie gia' concesse alla detta Societa', dovuta dallo Stato ai termini della convenzione approvata con l'[articolo 1 della legge 15 luglio 1906, n. 324](Riscatto%20delle%20strade%20ferrate%20meridionali%20e%20liquidazione%20della%20gestione%20della%20Rete%20Adriatica.%20006U0324.md).
 
 ## Art. 2.
 

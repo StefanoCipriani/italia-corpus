@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 3 maggio 1874, n. 1910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1874-05-03;1910) (serie 2ª), col quale veniva eretta in corpo morale la Societa' italiana di soccorso ai naufraghi;
+Visto il [regio decreto 3 maggio 1874, n. 1910](Col%20quale%20la%20Societa%20Italiana%20di%20soccorso%20ai%20naufraghi%20e%20eretta%20in%20Corpo%20morale.%20074U1910.md) (serie 2ª), col quale veniva eretta in corpo morale la Societa' italiana di soccorso ai naufraghi;
 
-Visto il [regio decreto 12 marzo 1936, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-03-12;671), col quale la predetta Societa' assumeva la denominazione di Ente italiano per i soccorsi in caso di sinistri marittimi, retto da statuto approvato dal decreto stesso;
+Visto il [regio decreto 12 marzo 1936, n. 671](Cambiamento%20della%20denominazione%20della%20Societa%20italiana%20di%20soccorso%20ai%20naufraghi%20in%20Ente%20Italiano%20per%20soccorsi%20in%20caso%20di%20sinistri%20marittimi%20e%20approvazione%20del%20relativo%20statuto.%20036U0671.md), col quale la predetta Societa' assumeva la denominazione di Ente italiano per i soccorsi in caso di sinistri marittimi, retto da statuto approvato dal decreto stesso;
 
-Visto il [regio decreto 14 luglio 1937, n. 1487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-14;1487), con il quale si approva lo statuto dell'Ente nazionale per l'assistenza alla gente di marea;
+Visto il [regio decreto 14 luglio 1937, n. 1487](Riconoscimento%20giuridico%20dellEnte%20nazionale%20fascista%20per%20lassistenza%20alla%20gente%20di%20mare%20ed%20approvazione%20del%20relativo%20statuto.%20037U1487.md), con il quale si approva lo statuto dell'Ente nazionale per l'assistenza alla gente di marea;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ L'Ente italiano per soccorsi in caso di sinistri marittimi e' soppresso e il suo
 
 ## Art. 2.
 
-L'art. 3 dello statuto dell'Ente nazionale per l'assistenza alla gente di mare, approvato con [regio decreto 14 luglio 1937; n. 1487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-14;1487), e' modificato come segue:
+L'art. 3 dello statuto dell'Ente nazionale per l'assistenza alla gente di mare, approvato con [regio decreto 14 luglio 1937; n. 1487](Riconoscimento%20giuridico%20dellEnte%20nazionale%20fascista%20per%20lassistenza%20alla%20gente%20di%20mare%20ed%20approvazione%20del%20relativo%20statuto.%20037U1487.md), e' modificato come segue:
  "L'Ente si propone:
  a) di provvedere a forme integrative di assistenza a favore dei marittimi disoccupati e delle loro famiglie, in aggiunta a quelle previste dalla legge;
  b) di provvedere all'assistenza dei marittimi in attesa di imbarco;
@@ -42,7 +42,7 @@ L'art. 3 dello statuto dell'Ente nazionale per l'assistenza alla gente di mare, 
 
 ## Art. 3.
 
-Il [regio decreto 12 marzo 1936, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-03-12;671), e' abrogato.
+Il [regio decreto 12 marzo 1936, n. 671](Cambiamento%20della%20denominazione%20della%20Societa%20italiana%20di%20soccorso%20ai%20naufraghi%20in%20Ente%20Italiano%20per%20soccorsi%20in%20caso%20di%20sinistri%20marittimi%20e%20approvazione%20del%20relativo%20statuto.%20036U0671.md), e' abrogato.
 
 ## Art. 4.
 

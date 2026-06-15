@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n.671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n.671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Visto il [decreto Luogotenenziale 26 luglio 1917, n. 1191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-07-26;1191);
 
@@ -72,7 +72,7 @@ Il Provveditore al porto e' nominato con decreto Reale su proposta del ministro 
  
  Coi decreti di nomina saranno stabiliti i rispettivi assegni. 
  
- Ai funzionari dello Stato che conseguissero dette nomine saranno applicate le disposizioni di cui all'[art. 1 del R. decreto 20 aprile 1913, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-04-20;511#art_1).
+ Ai funzionari dello Stato che conseguissero dette nomine saranno applicate le disposizioni di cui all'[art. 1 del R. decreto 20 aprile 1913, n. 511](Che%20disciplina%20il%20collocamento%20fuori%20ruolo%20del%20personale%20del%20R.%20corpo%20del%20genio%20civile%20e%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici%20destinato%20nelle%20colonie.%20013U0511.md).
 
 ## Art. 9.
 

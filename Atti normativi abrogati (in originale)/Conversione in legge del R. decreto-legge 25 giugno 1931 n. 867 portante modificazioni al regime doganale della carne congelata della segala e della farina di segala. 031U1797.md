@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 giugno 1931, n. 867](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-25;867), portante modificazioni al regime doganale della carne congelata, della segala e della farina di segala. 
+ E' convertito in legge il [R. decreto-legge 25 giugno 1931, n. 867](Modificazioni%20al%20regime%20doganale%20della%20carne%20congelata%20della%20segala%20e%20della%20farina%20di%20segala.%20031U0867.md), portante modificazioni al regime doganale della carne congelata, della segala e della farina di segala. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

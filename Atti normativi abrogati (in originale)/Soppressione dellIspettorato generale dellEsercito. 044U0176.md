@@ -20,9 +20,9 @@ Visto il R. ,[decreto-legge 18 novembre 1943, n. 10/B](https://www.normattiva.it
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151) concernente l'Assemblea per la nuova costituzione dello Stato, il giuramento dei Membri del Governo e la facolta' del Governo di emanare norme giuridiche;
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), riguardante la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), riguardante la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141), che istituisce presso la sede del Governo' una sezione speciale di controllo della Corte dei conti;
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md), che istituisce presso la sede del Governo' una sezione speciale di controllo della Corte dei conti;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-Il [R. decreto-legge 18 novembre 1943, n. 10/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-11-18;10), relativo alla istituzione di un Ispettorato generale dell'Esercito alle dirette dipendenze del Comandante Supremo delle Forze armate, e' abrogato.
+Il [R. decreto-legge 18 novembre 1943, n. 10/B](Istituzione%20di%20un%20Ispettorato%20Generale%20dellEsercito%20alle%20dirette%20dipendenze%20del%20Comandante%20Supremo%20delle%20Forze%20Armate.%20043U0010.md), relativo alla istituzione di un Ispettorato generale dell'Esercito alle dirette dipendenze del Comandante Supremo delle Forze armate, e' abrogato.
 
 ## Art. 2.
 

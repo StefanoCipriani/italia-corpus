@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 8 luglio 1906, n. 305](Istituzione%20dei%20farmacisti%20militari%20di%20complemento%20e%20modificazioni%20al%20quadro%20organico%20dei%20farmacisti%20militari%20effettivi.%20006U0305.md), che istituisce i farmacisti militari di complemento;
 
-Visto il regolamento per l'approvazione della legge succitata approvato con [R. decreto 31 ottobre 1907, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-10-31;806);
+Visto il regolamento per l'approvazione della legge succitata approvato con [R. decreto 31 ottobre 1907, n. 806](Che%20approva%20lunito%20regolamento%20per%20la%20istituzione%20dei%20farmacisti%20militari%20di%20complemento.%20007U0806.md);
 
 Considerata la necessita' di riordinare il personale dei farmacisti militari di complemento;
 

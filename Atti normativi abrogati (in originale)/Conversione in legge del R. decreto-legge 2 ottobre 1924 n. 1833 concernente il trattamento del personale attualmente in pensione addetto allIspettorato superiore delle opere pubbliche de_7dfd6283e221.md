@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 ottobre 1924, n. 1833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-02;1833), concernente il trattamento del personale, attualmente in pensione, addetto all'Ispettorato superiore delle opere pubbliche delle Colonie. 
+ E' convertito in legge il [R. decreto-legge 2 ottobre 1924, n. 1833](Modificazione%20del%20R.%20decreto%203%20maggio%201923%20n.%201188%20concernente%20il%20trattamento%20del%20personale%20attualmente%20in%20pensione%20addetto%20allIspettorato%20superiore%20delle%20opere%20pubbliche%20delle%20Colonie.%20024U1833.md), concernente il trattamento del personale, attualmente in pensione, addetto all'Ispettorato superiore delle opere pubbliche delle Colonie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta, ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

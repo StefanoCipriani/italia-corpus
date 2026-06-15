@@ -14,7 +14,7 @@ E' revocata la concessione di costruzione e di esercizio della tramvia elettrica
 
 ## Art. 2.
 
-Lo Stato rinuncia al residuo suo credito di L. 225.921,30 verso la Societa' ferrovie elettriche secondarie di Abbazia per l'anticipazione rimborsabile concessale con [R. decreto 25 aprile 1922, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-25;742), convertito nella [legge 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985).
+Lo Stato rinuncia al residuo suo credito di L. 225.921,30 verso la Societa' ferrovie elettriche secondarie di Abbazia per l'anticipazione rimborsabile concessale con [R. decreto 25 aprile 1922, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-25;742), convertito nella [legge 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md).
 
 ## Art. 3.
 

@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 2 febbraio 1922, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-02-02;281), contenente norme relative alla fabbricazione, importazione e vendita degli accenditori automatici e delle pietrine focaie;
+Visto il [R. decreto-legge 2 febbraio 1922, n. 281](Contenente%20norme%20relative%20alla%20fabbricazione%20importazione%20e%20vendita%20degli%20accenditori%20automatici%20e%20delle%20pietrine%20focaie.%20022U0281.md), contenente norme relative alla fabbricazione, importazione e vendita degli accenditori automatici e delle pietrine focaie;
 
 Visto il [R. decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105), concernente l'aumento dei diritti erariali sugli apparecchi automatici di accensione, convertito nella legge 1° maggio 1930, n, 611;
 

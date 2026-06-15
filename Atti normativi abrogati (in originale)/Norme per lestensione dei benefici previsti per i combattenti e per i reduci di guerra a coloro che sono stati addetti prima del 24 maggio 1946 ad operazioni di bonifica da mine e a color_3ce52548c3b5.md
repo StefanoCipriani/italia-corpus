@@ -16,7 +16,7 @@ Visto il [decreto legislativo 1 novembre 1947, n. 1768](https://www.normattiva.i
 
 Visto il [decreto legislativo 1 novembre 1947, n. 1815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-01;1815), concernente l'estensione degli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-04-12;320#art_10) e [11 del decreto legislativo 12 aprile 1946, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-04-12;320#art_11), al personale che ha proceduto alla bonifica di campi minati ed al rastrellamento di ordigni esplosivi diversi dalle mine prima dell'entrata in vigore del decreto stesso;
 
-Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num1);
+Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -48,7 +48,7 @@ Le Direzioni dei lavori del genio e le Direzioni di artiglieria accerteranno se 
 
 ## Art. 4.
 
-Agli sminatori dei campi minati ed ai rastrellatori di ordigni esplosivi diversi dalle mine, di cui al [terzo comma dell'art. 2 del decreto legislativo 1 novembre 1947, n. 1815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-01;1815#art_2-com3), si applicano, per la concessione del distintivo d'onore per i mutilati ed invalidi di guerra, le norme dell'Istruzione per l'esecuzione del [regio decreto 21 maggio 1916, n. 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1916-05-21;640), approvate con il decreto Ministeriale 6 novembre 1916.
+Agli sminatori dei campi minati ed ai rastrellatori di ordigni esplosivi diversi dalle mine, di cui al [terzo comma dell'art. 2 del decreto legislativo 1 novembre 1947, n. 1815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-01;1815#art_2-com3), si applicano, per la concessione del distintivo d'onore per i mutilati ed invalidi di guerra, le norme dell'Istruzione per l'esecuzione del [regio decreto 21 maggio 1916, n. 640](Col%20quale%20viene%20istituito%20uno%20speciale%20distintivo%20donore%20per%20i%20mutilati%20nellattuale%20guerra.%20016U0640.md), approvate con il decreto Ministeriale 6 novembre 1916.
 
 ## Art. 5.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 giugno 1930, n. 956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-06-29;956), col quale venne autorizzata la costruzione di un nuovo ponte fra la citta' di Venezia e la terraferma ed approvata la convenzione all'uopo stipulata col comune di Venezia. 
+ E' convertito in legge il [R. decreto-legge 29 giugno 1930, n. 956](Provvedimenti%20per%20la%20costruzione%20di%20un%20nuovo%20ponte%20fra%20la%20citta%20di%20Venezia%20e%20la%20terraferma.%20030U0956.md), col quale venne autorizzata la costruzione di un nuovo ponte fra la citta' di Venezia e la terraferma ed approvata la convenzione all'uopo stipulata col comune di Venezia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

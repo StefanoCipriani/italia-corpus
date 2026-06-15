@@ -14,13 +14,13 @@ Visto il [decreto-legge luogotenenziale 25 giugno 1941, n. 131](https://www.norm
 
 Visto il decreto legislativo Presidenziale 19 giugno;
 
-Visto l'[art. 2 del decreto legislativo luogotenenziale 8 maggio 1946, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;419#art_2), concernente il riordinamento della circolazione monetaria dello Stato;
+Visto l'[art. 2 del decreto legislativo luogotenenziale 8 maggio 1946, n. 419](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20della%20circolazione%20monetaria%20dello%20Stato.md), concernente il riordinamento della circolazione monetaria dello Stato;
 
 Sulla proposta del Ministro per il tesoro; Decreta:
 
 ## Art. 1.
 
-La Zecca e' autorizzata a fabbricare e ad emettere, giusta l'[art. 1 del decreto legislativo luogotenenziale l' 8 maggio 1946 n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;419#art_1), monete metalliche "Italma", le cui caratteristiche tecniche sono determinate come appresso:
+La Zecca e' autorizzata a fabbricare e ad emettere, giusta l'[art. 1 del decreto legislativo luogotenenziale l' 8 maggio 1946 n. 419](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20della%20circolazione%20monetaria%20dello%20Stato.md), monete metalliche "Italma", le cui caratteristiche tecniche sono determinate come appresso:
 
 -------------------------------------------------------------------
          |          |          |        Peso         |

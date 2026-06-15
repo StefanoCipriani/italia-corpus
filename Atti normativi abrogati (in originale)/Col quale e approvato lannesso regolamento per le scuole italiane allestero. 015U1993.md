@@ -14,7 +14,7 @@ E' approvato il regolamento per le scuole italiane all'estero, annesso al presen
 
 ## Art. 2.
 
-E' abrogato il regolamento per le scuole italiane all'estero, approvato con [R. decreto 20 giugno 1912, n. 1005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-20;1005), modificato dal R. decreto 2 ottobre 1913, numero
+E' abrogato il regolamento per le scuole italiane all'estero, approvato con [R. decreto 20 giugno 1912, n. 1005](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20le%20scuole%20italiane%20allestero.%20012U1005.md), modificato dal R. decreto 2 ottobre 1913, numero
 
 151.
 

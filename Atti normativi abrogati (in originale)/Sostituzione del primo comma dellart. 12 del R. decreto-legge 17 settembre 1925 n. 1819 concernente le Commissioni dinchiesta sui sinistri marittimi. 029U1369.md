@@ -22,11 +22,11 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Al [primo comma dell'art. 12 del R. decreto-legge 17 settembre 1925, n. 1819](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-17;1819#art_12-com1), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' sostituito il seguente: 
+ Al [primo comma dell'art. 12 del R. decreto-legge 17 settembre 1925, n. 1819](Costituzione%20delle%20Commissioni%20inquirenti%20per%20i%20sinistri%20e%20naufragi%20marittimi.%20025U1819.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' sostituito il seguente: 
  
  «Ogni qualvolta la Commissione d'inchiesta abbia espresso il parere che il sinistro sia avvenuto per dolo, colpa, negligenza, imperizia, inosservanza di regolamenti, ordini o discipline da parte di persone dell'equipaggio, dette persone sono sospese dal grado e dall'esercizio della navigazione in attesa delle decisioni dell'autorita' giudiziaria, sempre che si riscontrino nel fatto elementi di imputabilita': 
  
- a) per qualsiasi delitto previsto dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), dal Codice per la marina mercantile del Regno, dal Codice per la marina mercantile della Tripolitania e Cirenaica, da leggi speciali; 
+ a) per qualsiasi delitto previsto dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dal Codice per la marina mercantile del Regno, dal Codice per la marina mercantile della Tripolitania e Cirenaica, da leggi speciali; 
  
  b) ovvero per alcuno dei reati previsti dagli articoli 352, 353, 354, 355, 356, 357, 358, 363, 364, 367, 368, 370, 372, 390 lettera a), 392, 404, 405, 406, 424 del Codice per la marina mercantile del Regno; 
  

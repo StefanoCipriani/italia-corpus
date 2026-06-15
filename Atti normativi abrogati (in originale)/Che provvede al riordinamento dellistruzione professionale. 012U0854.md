@@ -84,7 +84,7 @@ Nei limiti della disponibilita' dei fondi iscritti nel suo bilancio e con le nor
  
  La durata del Consorzio non puo' essere stabilita oltre dieci anni, ma puo' essere rinnovata alla scadenza per periodi non superiori ai dieci anni. 
  
- Le scuole istituite o amministrate dal Consorzio restano sempre sotto l'alta vigilanza del Ministero e devono soddisfare alle condizioni stabilite dall'art. 83 del regolamento approvato con [R. decreto 22 marzo 1908, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-03-22;187) ed alle altre che saranno determinate dal regolamento per l'esecuzione della presente legge. 
+ Le scuole istituite o amministrate dal Consorzio restano sempre sotto l'alta vigilanza del Ministero e devono soddisfare alle condizioni stabilite dall'art. 83 del regolamento approvato con [R. decreto 22 marzo 1908, n. 187](Che%20approva%20lannesso%20regolamento%20per%20la%20istituzione%20e%20il%20riordinamento%20delle%20scuole%20industriali%20e%20commerciali.%20008U0187.md) ed alle altre che saranno determinate dal regolamento per l'esecuzione della presente legge. 
  
  L'azione del Consorzio non puo' estendersi a scuole istituite e mantenute a norma dell'[art. 2 della legge 30 giugno 1907, n. 414](Provvedimenti%20per%20linsegnamento%20industriale%20e%20commerciale.%20007U0414.md). 
  
@@ -110,7 +110,7 @@ E' istituito in Roma un Istituto nazionale d'istruzione professionale che sara' 
 
 ## Art. 10.
 
-Le disposizioni della [legge 30 giugno 1907, n. 432](Concessione%20di%20mutui%20di%20favore%20alle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura%20007U0432.md), riflettenti la concessione da parte della Cassa depositi e prestiti di mutui alle scuole pratiche di agricoltura, sono estese a favore degli enti tenuti a fornire i locali per le scuole professionali, a norma dell'[art. 2 della legge 30 giugno 1907, n. 414](Provvedimenti%20per%20linsegnamento%20industriale%20e%20commerciale.%20007U0414.md), e dell'[art. 5 del Regio decreto 22 marzo 1908, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-03-22;187#art_5). 
+Le disposizioni della [legge 30 giugno 1907, n. 432](Concessione%20di%20mutui%20di%20favore%20alle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura%20007U0432.md), riflettenti la concessione da parte della Cassa depositi e prestiti di mutui alle scuole pratiche di agricoltura, sono estese a favore degli enti tenuti a fornire i locali per le scuole professionali, a norma dell'[art. 2 della legge 30 giugno 1907, n. 414](Provvedimenti%20per%20linsegnamento%20industriale%20e%20commerciale.%20007U0414.md), e dell'[art. 5 del Regio decreto 22 marzo 1908, n. 187](Che%20approva%20lannesso%20regolamento%20per%20la%20istituzione%20e%20il%20riordinamento%20delle%20scuole%20industriali%20e%20commerciali.%20008U0187.md). 
  
  All'ammortamento dei mutui stipulati allo stesso scopo dagli enti locali con Istituti di credito, il Ministero di agricoltura, industria e commercio potra' contribuire con assegni da stabilire caso per caso in proporzione alla quota analoga stabilita per i mutui stipulati con la Cassa depositi e prestiti.
 
@@ -124,7 +124,7 @@ La disposizione contenuta nell'[art. 1 della legge 14 luglio 1907, n. 513](Asset
 
 ## Art. 12.
 
-Nei due anni successivi alla promulgazione della presente legge, il ministro accertera' lo stato delle scuole esistenti e le riordinera' in base alla presente legge ed in conformita' delle disposizioni della [legge 30 giugno 1907, n. 414](Provvedimenti%20per%20linsegnamento%20industriale%20e%20commerciale.%20007U0414.md), e del regolamento approvato con [R. decreto 22 marzo 1908, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-03-22;187). 
+Nei due anni successivi alla promulgazione della presente legge, il ministro accertera' lo stato delle scuole esistenti e le riordinera' in base alla presente legge ed in conformita' delle disposizioni della [legge 30 giugno 1907, n. 414](Provvedimenti%20per%20linsegnamento%20industriale%20e%20commerciale.%20007U0414.md), e del regolamento approvato con [R. decreto 22 marzo 1908, n. 187](Che%20approva%20lannesso%20regolamento%20per%20la%20istituzione%20e%20il%20riordinamento%20delle%20scuole%20industriali%20e%20commerciali.%20008U0187.md). 
  
  Le disposizioni dell'[art. 2 della legge 30 giugno 1907, n. 414](Provvedimenti%20per%20linsegnamento%20industriale%20e%20commerciale.%20007U0414.md) per la parte riguardante i locali, la loro manutenzione, la fornitura di acqua, l'illuminazione ed il riscaldamento, non sono applicabili alle scuole istituite prima della pubblicazione della presente legge se non in quanto risultino obbligatorie per virtu' dei singoli statuti. 
  

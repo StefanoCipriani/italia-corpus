@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 27 dicembre 1952, n. 3596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-27;3596), che delega al Governo l'emanazione di nuove norme sull'imposta di pubblicita';
+Vista la [legge 27 dicembre 1952, n. 3596](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20dellesercizio%20della%20funzione%20legislativa%20per%20lemanazione%20di%20nuove%20norme%20sulle%20imposte%20sul%20bollo%20e%20sulla%20pubblicita.md), che delega al Governo l'emanazione di nuove norme sull'imposta di pubblicita';
 
 Vista la [legge 10 aprile 1954, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;126), che fissa al 30 giugno 1954 il termine per l'emanazione delle dette norme;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Sentita la Commissione parlamentare costituita ai sensi dell'art. 7 della su citata [legge 27 dicembre 1952, n. 3596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-27;3596);
+Sentita la Commissione parlamentare costituita ai sensi dell'art. 7 della su citata [legge 27 dicembre 1952, n. 3596](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20dellesercizio%20della%20funzione%20legislativa%20per%20lemanazione%20di%20nuove%20norme%20sulle%20imposte%20sul%20bollo%20e%20sulla%20pubblicita.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -169,7 +169,7 @@ TITOLO V
 
 ### Art. 18.
 
-Per la riscossione coattiva dell'imposta prevista dal presente decreto si applicano le disposizioni contenute nella legge sull'imposta di registro approvata con [regio decreto 30 dicembre 1923, n. 3269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3269), e successive modificazioni.
+Per la riscossione coattiva dell'imposta prevista dal presente decreto si applicano le disposizioni contenute nella legge sull'imposta di registro approvata con [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e successive modificazioni.
 
 ### Art. 19.
 
@@ -187,8 +187,8 @@ Chiunque affigga od esponga al pubblico avvisi, manifesti od altri mezzi pubblic
 
 ### Art. 21.
 
-Nei casi di falsificazione, di contraffazione e di alterazione delle marche, dei bolli a punzone e delle attestazioni di pagamento dell'imposta in modo virtuale, oltre le sanzioni previste dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) in materia di valori bollati, si applicano la pena pecuniaria e le sopratasse stabilite nel precedente articolo per il mancato pagamento dell'imposta, ove questa sia dovuta.
- Le pene stabilite dall'[art. 466 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_466) si applicano anche a chi detiene per lo smercio ovvero usa o smercia valori bollati o contrassegni di bollo precedentemente usati.
+Nei casi di falsificazione, di contraffazione e di alterazione delle marche, dei bolli a punzone e delle attestazioni di pagamento dell'imposta in modo virtuale, oltre le sanzioni previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in materia di valori bollati, si applicano la pena pecuniaria e le sopratasse stabilite nel precedente articolo per il mancato pagamento dell'imposta, ove questa sia dovuta.
+ Le pene stabilite dall'[art. 466 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche a chi detiene per lo smercio ovvero usa o smercia valori bollati o contrassegni di bollo precedentemente usati.
 
 ### Art. 22.
 
@@ -216,7 +216,7 @@ Per l'accertamento, la cognizione e la definizione delle trasgressioni contempla
 
 ### Art. 25.
 
-Ai funzionari ed agli agenti accertatori delle violazioni al presente decreto compete sul prodotto netto della pena pecuniaria riscossa la compartecipazione nella misura stabilita dalla [legge 7 febbraio 1951, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-02-07;168).
+Ai funzionari ed agli agenti accertatori delle violazioni al presente decreto compete sul prodotto netto della pena pecuniaria riscossa la compartecipazione nella misura stabilita dalla [legge 7 febbraio 1951, n. 168](Ripartizione%20dei%20proventi%20delle%20sanzioni%20pecuniarie%20dovute%20per%20violazioni%20alle%20leggi%20tributarie.md).
 
 ### Art. 26.
 
@@ -227,7 +227,7 @@ I ricorsi in via amministrativa sulle questioni relative alla applicazione delle
 ### Art. 27.
 
 E' stabilito, a pena di decadenza, in sei mesi il termine per proporre innanzi all'autorita' giudiziaria le controversie riguardanti l'imposta sulla pubblicita' e le relative sopratasse, le quali abbiano formato oggetto di decisione amministrativa definitiva, ai sensi del precedente articolo.
- Il termine di sei mesi decorre dalla data in cui la decisione amministrativa definitiva, emessa a seguito dei ricorsi previsti nel precedente articolo, sia stata notificata al contribuente nelle forme prescritte dal [regio decreto 22 maggio 1910, n. 316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-22;316).
+ Il termine di sei mesi decorre dalla data in cui la decisione amministrativa definitiva, emessa a seguito dei ricorsi previsti nel precedente articolo, sia stata notificata al contribuente nelle forme prescritte dal [regio decreto 22 maggio 1910, n. 316](Che%20approva%20lannesso%20regolamento%20per%20la%20procedura%20dei%20ricorsi%20amministrativi%20sulle%20dilazioni%20a%20pagamento%20e%20sugli%20annullamenti%20di%20crediti%20in%20materia%20di%20tasse%20sugli%20affari.%20010U0316.md).
  Quando l'azione giudiziaria sia promossa senza che sia stato presentato ricorso in via amministrativa o prima che siano trascorsi novanta giorni dalla presentazione di questo, l'Amministrazione non puo' essere condannata al rimborso delle spese di lite neanche in caso di soccombenza.
 
 ### Art. 28.
@@ -243,11 +243,11 @@ TITOLO VI
 
 ### Art. 29.
 
-Restano ferme, anche nei confronti della imposta sulla pubblicita' per le inserzioni in giornali, riviste ed altre stampe, e per le trasmissioni radiofoniche e televisive le disposizioni previste, in materia di bollo, dalla [legge 7 aprile 1930, n. 456](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-04-07;456), e successive modificazioni, a favore dell'Istituto nazionale di previdenza dei giornalisti italiani.
+Restano ferme, anche nei confronti della imposta sulla pubblicita' per le inserzioni in giornali, riviste ed altre stampe, e per le trasmissioni radiofoniche e televisive le disposizioni previste, in materia di bollo, dalla [legge 7 aprile 1930, n. 456](Modificazioni%20ad%20alcune%20tasse%20di%20bollo%20-%20Provvidenze%20a%20favore%20dellIstituto%20nazionale%20di%20previdenza%20dei%20giornalisti%20italiani%20e%20modificazioni%20alle%20tasse%20sulle%20assicurazioni.%20030U0456.md), e successive modificazioni, a favore dell'Istituto nazionale di previdenza dei giornalisti italiani.
 
 ### Art. 30.
 
-Sono abrogate le disposizioni relative agli avvisi al pubblico in genere, alle inserzioni pubblicitarie sui giornali, riviste ed altre stampe, alle proiezioni pubblicitarie cinematografiche di cui al [regio decreto 30 dicembre 1923, n. 3268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3268), e successive modificazioni e disposizioni.
+Sono abrogate le disposizioni relative agli avvisi al pubblico in genere, alle inserzioni pubblicitarie sui giornali, riviste ed altre stampe, alle proiezioni pubblicitarie cinematografiche di cui al [regio decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni e disposizioni.
  Resta fermo peraltro l'obbligo della conservazione dei documenti posti in essere per l'applicazione delle dette disposizioni, per il periodo di tempo ivi stabilito.
  Per coloro che alla data di entrata in vigore del presente decreto fruiscono del pagamento della imposta di bollo in modo virtuale in base a denunzia od abbonamento, gli Uffici del registro, ferme restando per i rispettivi periodi di validita' le denunzie presentate e le convenzioni di abbonamento stipulate, procederanno ad una nuova liquidazione della imposta tenendo conto delle aliquote risultanti dalla precedente e dalla nuova tariffa per il periodo per il quale sono state rispettivamente in vigore. Il supplemento d'imposta sara' ripartito in parti uguali fra le rate ancora da scadere.
  Gli avvisi su carta o cartone esposti al pubblico entro il 31 luglio 1954, non potranno continuare a rimanere esposti se non venga pagato il complemento di imposta, entro il 31 agosto 1954, mediante applicazione di marche o bollo a punzone. Sono esclusi dall'obbligo dell'integrazione le decalcomanie, le vetrofanie ed i manifesti incollati.

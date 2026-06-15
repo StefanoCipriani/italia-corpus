@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854), e il [regolamento 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1014);
+Vista la [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), e il [regolamento 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1014);
 
 Viste le deliberazioni: del 27 dicembre 1913 e del 3 gennaio 1914, del Consiglio comunale di Biella; del 29 dicembre 1915 del Consiglio provinciale di Novara e del 20 gennaio 1917 della Camera di commercio e industria di Torino;
 
@@ -36,7 +36,7 @@ Sulla proposta del ministro segretario di Stato per l'industria, il commercio e 
 
 E' istituita in Biella una scuola di commercio di 3° grado con il titolo di R. Istituto commerciale «Eugenio Bona». 
  
- Il R. Istituto commerciale «Eugenio Bona» di Biella sara' governato con le disposizioni della [legge 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854), e del [regolamento 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1014), per quanto non e' contrario alle disposizioni del presente decreto. 
+ Il R. Istituto commerciale «Eugenio Bona» di Biella sara' governato con le disposizioni della [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), e del [regolamento 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1014), per quanto non e' contrario alle disposizioni del presente decreto. 
  
  Ai licenziati del R. Istituto commerciale «Eugenio Bona» e' rilasciato il diploma di ragioniere industriale.
 

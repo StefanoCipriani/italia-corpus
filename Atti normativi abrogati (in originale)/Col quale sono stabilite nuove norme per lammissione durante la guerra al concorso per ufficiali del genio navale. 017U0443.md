@@ -18,7 +18,7 @@ I candidati di cui all'articolo precedente, riuscendo vincitori del concorso, sa
 
 ## Art. 3.
 
-Per i vincitori del concorso provenienti dai candidati di cui sopra, l'art. 2, comma b), della [legge n. 375, in data 27 giugno 1909](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-27;375), resta modificato nel senso che sono per essi valevoli come servizio effettivo, agli effetti del collocamento in posizione ausiliaria, a riposo od in riforma, i quattro anni antecedenti alla nomina a tenenti del genio navale, ferme restando le condizioni espresse nel citato art. 2 relativamente alla decorrenza di tale periodo di quattro anni ed ai servizi militari eventualmente prestati prima della nomina a tenenti del genio navale. 
+Per i vincitori del concorso provenienti dai candidati di cui sopra, l'art. 2, comma b), della [legge n. 375, in data 27 giugno 1909](Disposizioni%20relative%20alle%20pensioni%20degli%20ufficiali%20della%20R.%20marina.%20009U0375.md), resta modificato nel senso che sono per essi valevoli come servizio effettivo, agli effetti del collocamento in posizione ausiliaria, a riposo od in riforma, i quattro anni antecedenti alla nomina a tenenti del genio navale, ferme restando le condizioni espresse nel citato art. 2 relativamente alla decorrenza di tale periodo di quattro anni ed ai servizi militari eventualmente prestati prima della nomina a tenenti del genio navale. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

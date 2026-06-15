@@ -14,7 +14,7 @@ A decorrere dal 1° novembre 1917, il soprassoldo giornaliero di L. 0,40 stabili
 
 ## Art. 2.
 
-Al soprassoldo giornaliero di cui al presente decreto sono applicabili le disposizioni del § 33 delle norme approvate col [R. decreto 4 aprile 1912, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-04-04;647). 
+Al soprassoldo giornaliero di cui al presente decreto sono applicabili le disposizioni del § 33 delle norme approvate col [R. decreto 4 aprile 1912, n. 647](Col%20quale%20vengono%20portate%20modificazioni%20al%20R.%20decreto%2019%20aprile%201907%20n.%20201%20concernente%20le%20indennita%20eventuali%20del%20R.%20esercito%20012U0647.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

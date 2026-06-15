@@ -18,11 +18,11 @@ Visto il [R. decreto n. 1067 dell'8 febbraio 1923](Che%20reca%20norme%20per%20il
 
 Visto il [R. decreto n. 1488 del 14 giugno 1923](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%208%20febbraio%201923%20n.%201067%20sul%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1488.md);
 
-Visto il [R. decreto-legge n. 655 del 1° maggio 1924](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%201067%20e%2027%20settembre%201923%20n.%202351%20relativi%20alle%20comunicazioni%20senza%20filo.%20024U0655.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge n. 655 del 1° maggio 1924](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%201067%20e%2027%20settembre%201923%20n.%202351%20relativi%20alle%20comunicazioni%20senza%20filo.%20024U0655.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto il [R. decreto n. 1226 del 10 luglio 1924](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20Regio%20decreto%208%20febbraio%201923%20n.%201067%20e%20successive%20modificazioni%20riflettenti%20le%20comunicazioni%20senza%20filo.%20024U1226.md);
 
-Visto il [R. decreto n. 520 del 23 aprile 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;520), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto n. 520 del 23 aprile 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;520), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Vista la domanda con la quale la Societa' Italiana Marconi di Roma chiede la concessione per l'impianto e l'esercizio di una antenna sperimentale per collaudo di apparecchi radioelettrici trasmittenti e riceventi;
 

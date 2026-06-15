@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il termine indicato dall'[articolo 2, comma sesto, della legge 28 gennaio 1977, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-28;10#art_2-com6), prorogato, da ultimo, al 31 dicembre 1991, con l'[articolo 4 della legge 20 maggio 1991, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-20;158#art_4), e' ulteriormente differito al 31 dicembre 1993.
+Il termine indicato dall'[articolo 2, comma sesto, della legge 28 gennaio 1977, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-28;10#art_2-com6), prorogato, da ultimo, al 31 dicembre 1991, con l'[articolo 4 della legge 20 maggio 1991, n. 158](Differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative.md), e' ulteriormente differito al 31 dicembre 1993.
 
 ## Art. 2. — Aggiornamento del piano regolatore generale degli acquedotti
 
@@ -40,11 +40,11 @@ Per la prosecuzione degli interventi di consolidamento e di restauro della Torre
 
 2.
 
-Il comitato di cui all'[articolo 1, del decreto-legge 5 ottobre 1990, n. 279](Interventi%20urgenti%20per%20la%20torre%20di%20Pisa_2.md), convertito, con modificazioni, dalla [legge 30 novembre 1990, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-30;360), puo' chiedere ai Ministri per i beni culturali e ambientali e dei lavori pubblici, che provvedono entro venti giorni dalla richiesta, di convocare la conferenza di servizi di cui all'[articolo 14 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14).
+Il comitato di cui all'[articolo 1, del decreto-legge 5 ottobre 1990, n. 279](Interventi%20urgenti%20per%20la%20torre%20di%20Pisa_2.md), convertito, con modificazioni, dalla [legge 30 novembre 1990, n. 360](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201990%20n.%20279%20recante%20interventi%20urgenti%20per%20la%20torre%20di%20Pisa.md), puo' chiedere ai Ministri per i beni culturali e ambientali e dei lavori pubblici, che provvedono entro venti giorni dalla richiesta, di convocare la conferenza di servizi di cui all'[articolo 14 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14).
 
 3.
 
-Il termine indicato nell'[articolo 1, comma 2, del decreto-legge 5 ottobre 1990, n. 279](Interventi%20urgenti%20per%20la%20torre%20di%20Pisa_2.md), convertito, con modificazioni, dalla [legge 30 novembre 1990, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-30;360), e' differito al 31 dicembre 1993.
+Il termine indicato nell'[articolo 1, comma 2, del decreto-legge 5 ottobre 1990, n. 279](Interventi%20urgenti%20per%20la%20torre%20di%20Pisa_2.md), convertito, con modificazioni, dalla [legge 30 novembre 1990, n. 360](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201990%20n.%20279%20recante%20interventi%20urgenti%20per%20la%20torre%20di%20Pisa.md), e' differito al 31 dicembre 1993.
 
 4.
 
@@ -64,13 +64,13 @@ Per l'anno 1992, i cittadini extracomunitari, regolarmente residenti in Italia e
 
 1.
 
-Al fine di assicurare la prosecuzione degli interventi di sostegno in favore dei consorzi e societa' consortili per il commercio estero, i contributi finanziari annuali di cui all'[articolo 4 della legge 21 febbraio 1989, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-21;83#art_4), possono essere concessi anche per l'anno 1992. Al relativo onere, pari a lire 20 miliardi per l'anno 1992, si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per il medesimo anno 1992, all'uopo utilizzando l'accantonamento "Rifinanziamento della [legge 21 febbraio 1989, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-21;83), recante interventi per i consorzi tra piccole e medie imprese".
+Al fine di assicurare la prosecuzione degli interventi di sostegno in favore dei consorzi e societa' consortili per il commercio estero, i contributi finanziari annuali di cui all'[articolo 4 della legge 21 febbraio 1989, n. 83](Interventi%20di%20sostegno%20per%20i%20consorzi%20tra%20piccole%20e%20medie%20imprese%20industriali%20commerciali%20ed%20artigiane.md), possono essere concessi anche per l'anno 1992. Al relativo onere, pari a lire 20 miliardi per l'anno 1992, si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per il medesimo anno 1992, all'uopo utilizzando l'accantonamento "Rifinanziamento della [legge 21 febbraio 1989, n. 83](Interventi%20di%20sostegno%20per%20i%20consorzi%20tra%20piccole%20e%20medie%20imprese%20industriali%20commerciali%20ed%20artigiane.md), recante interventi per i consorzi tra piccole e medie imprese".
 
 ## Art. 6. — Progetti F.I.O.
 
 1.
 
-Su proposta del Ministro del bilancio e della programmazione economica, le risorse resesi disponibili a seguito di provvedimenti di revoca adottati dal CIPE a carico di progetti finanziati sul Fondo investimenti ed occupazione fino al 1989 possono essere riassegnate dal CIPE stesso a progetti immediatamente eseguibili gia' valutati ai sensi della delibera CIPE 12 maggio 1988, ovvero ammessi a finanziamento per lo stesso anno 1989 anche ai sensi dell'[articolo 17, comma 34, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_17-com34), anche in deroga alle vigenti disposizioni in materia, ferma restando la destinazione per il disinquinamento delle acque e per lo smaltimento dei rifiuti delle risorse resesi disponibili a seguito di revoca di progetti concernenti i medesimi settori. Per tali progetti il Ministro dell'ambiente formula la proposta al Ministro del bilancio e della programmazione economica per l'inserimento nella proposta complessiva al CIPE.
+Su proposta del Ministro del bilancio e della programmazione economica, le risorse resesi disponibili a seguito di provvedimenti di revoca adottati dal CIPE a carico di progetti finanziati sul Fondo investimenti ed occupazione fino al 1989 possono essere riassegnate dal CIPE stesso a progetti immediatamente eseguibili gia' valutati ai sensi della delibera CIPE 12 maggio 1988, ovvero ammessi a finanziamento per lo stesso anno 1989 anche ai sensi dell'[articolo 17, comma 34, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), anche in deroga alle vigenti disposizioni in materia, ferma restando la destinazione per il disinquinamento delle acque e per lo smaltimento dei rifiuti delle risorse resesi disponibili a seguito di revoca di progetti concernenti i medesimi settori. Per tali progetti il Ministro dell'ambiente formula la proposta al Ministro del bilancio e della programmazione economica per l'inserimento nella proposta complessiva al CIPE.
 
 2.
 
@@ -88,7 +88,7 @@ Gli importi relativi al comma 3 sono versati all'entrata del bilancio dello Stat
 
 1.
 
-Il residuo importo di lire 1.000 miliardi del fondo comune regionale per l'anno 1990 di cui all'[articolo 17, comma 3, del decreto-legge 28 dicembre 1989, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-28;415#art_17-com3), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;38), e' ripartito tra le regioni nel modo seguente: 
+Il residuo importo di lire 1.000 miliardi del fondo comune regionale per l'anno 1990 di cui all'[articolo 17, comma 3, del decreto-legge 28 dicembre 1989, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-28;415#art_17-com3), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 38](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%201989%20n.%20415%20recante%20norme%20urgenti%20in%20materia%20di%20finanza%20locale%20e%20di%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20le%20regioni%20nonc_ea7a0a31f2d9.md), e' ripartito tra le regioni nel modo seguente: 
  
 
 Piemonte . . . . . . . . . . . . . . . . . . L. 70.467.474.000 Lombardia . . . . . . . . . . . . . . . . . . " 125.757.417.000 Veneto . . . . . . . . . . . . . . . . . . . " 66.383.999.000 Liguria . . . . . . . . . . . . . . . . . . . " 27.716.051.000 Emilia-Romagna . . . . . . . . . . . . . . . " 66.312.357.000 Toscana . . . . . . . . . . . . . . . . . . . " 58.355.178.000 Umbria . . . . . . . . . . . . . . . . . . . " 21.362.257.000 Marche . . . . . . . . . . . . . . . . . . . " 29.577.469.000 Lazio . . . . . . . . . . . . . . . . . . . . " 77.314.262.000 Abruzzo . . . . . . . . . . . . . . . . . . . " 33.621.628.000 Molise . . . . . . . . . . . . . . . . . . . " 15.571.739.000 Campania . . . . . . . . . . . . . . . . . . " 168.536.908.000 Puglia . . . . . . . . . . . . . . . . . . . " 119.729.620.000 Basilicata . . . . . . . . . . . . . . . . . " 30.653.135.000 Calabria . . . . . . . . . . . . . . . . . . " 88.640.506.000
@@ -102,7 +102,7 @@ Il contributo a titolo di solidarieta' nazionale, di cui all'articolo 38 dello s
 
 2.
 
-La somma per spese sostenute dallo Stato, per conto della regione, ai sensi dell'[articolo 3 del decreto legislativo 12 aprile 1948, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;507#art_3), ratificato con [legge 17 aprile 1956, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-04-17;561), dovuta a titolo di rimborso della regione viene determinata in via definitiva, per ciascuno degli anni 1989 e 1990, in lire 18 miliardi.
+La somma per spese sostenute dallo Stato, per conto della regione, ai sensi dell'[articolo 3 del decreto legislativo 12 aprile 1948, n. 507](../Decreti%20Legislativi/Disciplina%20provvisoria%20dei%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20la%20Regione%20siciliana.md), ratificato con [legge 17 aprile 1956, n. 561](../Leggi%20di%20ratifica/Ratifica%20ai%20sensi%20dellart.%206%20del%20decreto%20legislativo%20luogotenenziale%2016%20marzo%201946%20n.%2098%20di%20decreti%20legislativi%20emanati%20dal%20Governo%20durante%20il%20periodo%20della%20Costituente.md), dovuta a titolo di rimborso della regione viene determinata in via definitiva, per ciascuno degli anni 1989 e 1990, in lire 18 miliardi.
 
 3.
 
@@ -116,15 +116,15 @@ All'onere derivante dall'attuazione del presente articolo, pari a lire 1.400 mil
 
 1.
 
-Per la prosecuzione degli interventi statali di cui all'[articolo 12, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-01-12;6#art_12-com1) e [2, del decreto-legge 12 gennaio 1991, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-01-12;6#art_12-com2), convertito, con modificazioni, dalla [legge 15 marzo 1991, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-15;80), e' autorizzata l'ulteriore spesa, rispettivamente di lire 120 miliardi e lire 90 miliardi per l'anno 1992.
+Per la prosecuzione degli interventi statali di cui all'[articolo 12, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-01-12;6#art_12-com1) e [2, del decreto-legge 12 gennaio 1991, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-01-12;6#art_12-com2), convertito, con modificazioni, dalla [legge 15 marzo 1991, n. 80](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20gennaio%201991%20n.%206%20recante%20disposizioni%20urgenti%20in%20favore%20degli%20enti%20locali%20per%20il%201991.md), e' autorizzata l'ulteriore spesa, rispettivamente di lire 120 miliardi e lire 90 miliardi per l'anno 1992.
 
 2.
 
-All'onere derivante dall'attuazione del presente articolo si provvede, quanto a lire 90 miliardi, mediante corrispondente utilizzo di quota parte delle entrate di cui all'[articolo 26 della legge 21 dicembre 1978, n. 845](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-21;845#art_26), affluite ai sensi dell'[articolo 3 del decreto- legge 17 settembre 1988, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-17;408#art_3), convertito dalla [legge 12 novembre 1988, n. 492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-12;492), che vengono versate all'entrata del bilancio dello Stato per essere assegnate ad apposito capitolo dello stato di previsione del Ministero dell'interno; quanto a lire 120 miliardi mediante parziale utilizzo delle disponibilita' in conto residui del capitolo 8048 dello stato di previsione del Ministero del lavoro e della previdenza sociale per l'anno 1991, che saranno versate all'entrata del bilancio dello Stato per essere riassegnate ad apposito capitolo dello stato di previsione del Ministero dell'interno.
+All'onere derivante dall'attuazione del presente articolo si provvede, quanto a lire 90 miliardi, mediante corrispondente utilizzo di quota parte delle entrate di cui all'[articolo 26 della legge 21 dicembre 1978, n. 845](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-21;845#art_26), affluite ai sensi dell'[articolo 3 del decreto- legge 17 settembre 1988, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-17;408#art_3), convertito dalla [legge 12 novembre 1988, n. 492](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2017%20settembre%201988%20n.%20408%20recante%20proroga%20del%20trattamento%20straordinario%20di%20integrazione%20salariale%20per%20i%20lavoratori%20eccedentari%20nelle%20aree%20del%20Mezzogi_6b347cb78d90.md), che vengono versate all'entrata del bilancio dello Stato per essere assegnate ad apposito capitolo dello stato di previsione del Ministero dell'interno; quanto a lire 120 miliardi mediante parziale utilizzo delle disponibilita' in conto residui del capitolo 8048 dello stato di previsione del Ministero del lavoro e della previdenza sociale per l'anno 1991, che saranno versate all'entrata del bilancio dello Stato per essere riassegnate ad apposito capitolo dello stato di previsione del Ministero dell'interno.
 
 3.
 
-Nel comma 10, secondo periodo, dell'[articolo 6 del decreto-legge 21 marzo 1988, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-21;86#art_6), convertito, con modificazioni, dalla [legge 20 maggio 1988, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-20;160), e successive modificazioni, le parole: " e 1991." sono sostituite dalle seguenti: ", 1991 e 1992.".
+Nel comma 10, secondo periodo, dell'[articolo 6 del decreto-legge 21 marzo 1988, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-21;86#art_6), convertito, con modificazioni, dalla [legge 20 maggio 1988, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20marzo%201988%20n.%2086%20recante%20norme%20in%20materia%20previdenziale%20di%20occupazione%20giovanile%20e%20di%20mercato%20del%20lavoro%20nonche%20per%20il%20potenzia_d8243932aa59.md), e successive modificazioni, le parole: " e 1991." sono sostituite dalle seguenti: ", 1991 e 1992.".
 
 ## Art. 10. — Provvidenze per le maestranze del cantiere ENEL di Gioia Tauro
 
@@ -144,13 +144,13 @@ Alla corresponsione delle somme di cui ai commi 1 e 2 provvede l'Istituto nazion
 
 4.
 
-All'onere derivante dalle disposizioni di cui al presente articolo, valutato per l'anno 1992 in lire 3.125.000.000, si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 4577 dello stato di previsione del Ministero del lavoro e della previdenza sociale per l'esercizio finanziario 1992, intendendosi corrispondentemente ridotta l'autorizzazione in spesa di cui all'[articolo 15, comma 52, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_15-com52).
+All'onere derivante dalle disposizioni di cui al presente articolo, valutato per l'anno 1992 in lire 3.125.000.000, si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 4577 dello stato di previsione del Ministero del lavoro e della previdenza sociale per l'esercizio finanziario 1992, intendendosi corrispondentemente ridotta l'autorizzazione in spesa di cui all'[articolo 15, comma 52, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md).
 
 ## Art. 11. — Rifinanziamento della Artigiancassa
 
 1.
 
-Il fondo per il concorso nel pagamento degli interessi sulle operazioni di credito a favore delle imprese artigiane costituito presso la Cassa per il credito alle imprese artigiane ai sensi dell'[articolo 37 della legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949#art_37), come sostituito dall'[articolo 1 della legge 7 agosto 1971, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-08-07;685#art_1), e' incrementato della somma di lire 100 miliardi per l'anno 1991. Al corrispondente onere si provvede mediante riduzione dello stanziamento iscritto al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1991, all'uopo utilizzando l'accantonamento "Aumento del fondo contributi interessi della Cassa per il credito alle imprese artigiane di cui all'[articolo 30 della legge 7 agosto 1982, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;526#art_30)".
+Il fondo per il concorso nel pagamento degli interessi sulle operazioni di credito a favore delle imprese artigiane costituito presso la Cassa per il credito alle imprese artigiane ai sensi dell'[articolo 37 della legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949#art_37), come sostituito dall'[articolo 1 della legge 7 agosto 1971, n. 685](Modifiche%20al%20capo%20VI%20della%20legge%2025%20luglio%201952%20n.%20949%20e%20successive%20modificazioni%20concernenti%20provvedimenti%20per%20lo%20sviluppo%20delleconomia%20e%20lincremento%20delloccupazione.md), e' incrementato della somma di lire 100 miliardi per l'anno 1991. Al corrispondente onere si provvede mediante riduzione dello stanziamento iscritto al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1991, all'uopo utilizzando l'accantonamento "Aumento del fondo contributi interessi della Cassa per il credito alle imprese artigiane di cui all'[articolo 30 della legge 7 agosto 1982, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;526#art_30)".
 
 ## Art. 12. — Finanziamento del programma PRO.R.A.
 
@@ -162,21 +162,21 @@ Le somme stanziate sul capitolo 2101 dello stato di previsione del Ministero del
 
 1.
 
-Le agevolazioni a favore dei turisti stranieri motorizzati previste dalla [legge 15 maggio 1986, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-15;192), gia' prorogate con modifiche dalla [legge 30 dicembre 1988, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-30;556), sono ulteriormente differite sino al 31 maggio 1992.
+Le agevolazioni a favore dei turisti stranieri motorizzati previste dalla [legge 15 maggio 1986, n. 192](Agevolazioni%20a%20favore%20dei%20turisti%20stranieri%20motorizzati.md), gia' prorogate con modifiche dalla [legge 30 dicembre 1988, n. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20novembre%201988%20n.%20465%20recante%20misure%20urgenti%20e%20straordinarie%20per%20la%20realizzazione%20di%20strutture%20turistiche%20ricettive%20e%20tecnologiche.md), sono ulteriormente differite sino al 31 maggio 1992.
 
 2.
 
-Al relativo onere si provvede mediante utilizzo dei residui dello stanziamento triennale di cui alla [legge 18 luglio 1989, n. 268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-18;268), esistenti sulla contabilita' speciale istituita presso la tesoreria provinciale dello Stato di Roma ed intestata alla Direzione generale affari generali turismo e sport del Ministero del turismo e dello spettacolo.
+Al relativo onere si provvede mediante utilizzo dei residui dello stanziamento triennale di cui alla [legge 18 luglio 1989, n. 268](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20giugno%201989%20n.%20217%20recante%20agevolazioni%20in%20favore%20dei%20turisti%20stranieri%20motorizzati.md), esistenti sulla contabilita' speciale istituita presso la tesoreria provinciale dello Stato di Roma ed intestata alla Direzione generale affari generali turismo e sport del Ministero del turismo e dello spettacolo.
 
 ## Art. 14. — Progetti finalizzati
 
 1.
 
-La disciplina prevista dall'[articolo 26 della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_26), e dall'[articolo 10 della legge 29 dicembre 1988, n. 554](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-29;554#art_10), e' differita con le stesse modalita', fino al 31 dicembre 1993.
+La disciplina prevista dall'[articolo 26 della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), e dall'[articolo 10 della legge 29 dicembre 1988, n. 554](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-29;554#art_10), e' differita con le stesse modalita', fino al 31 dicembre 1993.
 
 2.
 
-Il fondo per i progetti di cui al citato [articolo 26 della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_26), e' determinato in lire 24,5 miliardi per ciascuno degli anni 1991 e 1992.
+Il fondo per i progetti di cui al citato [articolo 26 della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), e' determinato in lire 24,5 miliardi per ciascuno degli anni 1991 e 1992.
 
 3.
 
@@ -186,7 +186,7 @@ Al relativo onere si provvede mediante corrispondente riduzione dello stanziamen
 
 1.
 
-Le disposizioni di cui all'[articolo 17 della legge 26 marzo 1986, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-26;86#art_17), gia' prorogate da ultimo dal [decreto-legge 10 dicembre 1988, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-12-10;523), convertito dalla [legge 10 febbraio 1989, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-10;43), sono ulteriormente prorogate al 31 dicembre 1992.
+Le disposizioni di cui all'[articolo 17 della legge 26 marzo 1986, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-26;86#art_17), gia' prorogate da ultimo dal [decreto-legge 10 dicembre 1988, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-12-10;523), convertito dalla [legge 10 febbraio 1989, n. 43](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2010%20dicembre%201988%20n.%20523%20recante%20disposizioni%20urgenti%20per%20assicurare%20il%20regolare%20funzionamento%20degli%20uffici%20periferici%20dellAzienda%20nazionale%20autonoma_5a1f797004de.md), sono ulteriormente prorogate al 31 dicembre 1992.
 
 2.
 
@@ -212,7 +212,7 @@ Il termine previsto al comma 1 dell'articolo 5 del decreto del Ministro dell'amb
 
 1.
 
-Il [comma 8 dell'articolo 3 della legge 29 dicembre 1990, n. 406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;406#art_3-com8), cosi' come modificato dal [comma 1 dell'articolo 2 della legge 18 novembre 1991, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-18;366#art_2-com1), e' sostituito dal seguente: 
+Il [comma 8 dell'articolo 3 della legge 29 dicembre 1990, n. 406](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%201991%20e%20bilancio%20pluriennale%20per%20il%20triennio%201991-93.md), cosi' come modificato dal [comma 1 dell'articolo 2 della legge 18 novembre 1991, n. 366](Disposizioni%20per%20lassestamento%20del%20bilancio%20dello%20Stato%20e%20dei%20bilanci%20delle%20aziende%20autonome%20per%20lanno%20finanziario%201991.md), e' sostituito dal seguente: 
  " 8. L'importo massimo di emissione di titoli pubblici, in Italia e all'estero, al netto di quelli da rimborsare, e' stabilito in lire 141.000 miliardi".
 
 ## Art. 19. — Norme finali ed entrata in vigore

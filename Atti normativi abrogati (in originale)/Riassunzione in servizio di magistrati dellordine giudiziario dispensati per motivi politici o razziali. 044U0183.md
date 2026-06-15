@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La riammissione in servizio ai sensi dei [Regi decreti-legge 6 gennaio 1944, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-06;9), e [20 gennaio 1944, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-20;25), dei magistrati dell'ordine giudiziario, dispensati per motivi politici o razziali, e' deliberata dal Consiglio dei Ministri, su proposta del Ministro per la grazia e giustizia, sempre che risulti che essi sono ancora in possesso dei requisiti necessari, a termini delle leggi e dei regolamenti vigenti, per la permanenza in servizio.
+La riammissione in servizio ai sensi dei [Regi decreti-legge 6 gennaio 1944, n. 9](Riammissione%20in%20servizio%20degli%20appartenenti%20alle%20amministrazioni%20dello%20Stato%20degli%20enti%20locali%20e%20parastatali%20e%20controllati%20dallo%20Stato%20aziende%20che%20gestiscono%20servizi%20pubblici%20o%20dinteresse_e18d0424ecb3.md), e [20 gennaio 1944, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-20;25), dei magistrati dell'ordine giudiziario, dispensati per motivi politici o razziali, e' deliberata dal Consiglio dei Ministri, su proposta del Ministro per la grazia e giustizia, sempre che risulti che essi sono ancora in possesso dei requisiti necessari, a termini delle leggi e dei regolamenti vigenti, per la permanenza in servizio.
 
 ## Art. 2.
 

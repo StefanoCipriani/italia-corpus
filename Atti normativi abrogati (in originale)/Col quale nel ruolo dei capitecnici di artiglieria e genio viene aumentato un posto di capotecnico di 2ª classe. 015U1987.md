@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la legge di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, (testo unico modificato con le [leggi 17 luglio 1910, n. 549, 31 maggio 1913, n. 595](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-31;595), e coi Nostri decreti 13 giugno 1915, n. 872, e 1° agosto 1915, n. 1292);
+Vista la legge di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, (testo unico modificato con le [leggi 17 luglio 1910, n. 549, 31 maggio 1913, n. 595](Che%20converte%20in%20legge%20il%20R.%20decreto%2025%20luglio%201912%20n.%20873%20concernente%20la%20sostituzione%20nei%20corrispondenti%20ruoli%20organici%20degli%20impiegati%20civili%20dipendenti%20dallAmministrazione%20militare%20invi_7d4f9972a631.md), e coi Nostri decreti 13 giugno 1915, n. 872, e 1° agosto 1915, n. 1292);
 
 Sentito il Consiglio dei ministri;
 

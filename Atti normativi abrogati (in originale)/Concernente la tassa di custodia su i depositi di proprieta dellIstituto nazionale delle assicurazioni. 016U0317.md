@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), che conferisce al Governo del Re poteri straordinari in caso di guerra; 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), che conferisce al Governo del Re poteri straordinari in caso di guerra; 
  
- Visto l'art. 17 del testo unico delle leggi riguardanti la Cassa dei depositi e prestiti, approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453); 
+ Visto l'art. 17 del testo unico delle leggi riguardanti la Cassa dei depositi e prestiti, approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md); 
  
  Ritenuta l'opportunita' di attenuare la tassa di custodia che l'Istituto nazionale delle assicurazioni deve corrispondere sui titoli depositati presso la Cassa depositi e prestiti; 
  

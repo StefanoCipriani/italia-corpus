@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'[art. 2 del regio decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258#art_2), convertito nella [legge 6 dicembre 1928, n. 3474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;3474), quale risulta modificato dall'[art. 1 del decreto legislativo luogotenenziale 18 giugno 1945, n. 392](Modificazioni%20alla%20composizione%20del%20Consiglio%20di%20amministrazione%20dellAmministrazione%20autonoma%20dei%20monopoli%20di%20Stato%20e%20adeguamento%20dei%20limiti%20di%20valore%20per%20contratti%20forniture%20e%20servizi%20de_ceb5a3ef0772.md) e dall'[art. 1 del decreto legislativo 3 maggio 1948, n. 725](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-03;725#art_1), e' sostituito dal seguente:
+L'[art. 2 del regio decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258#art_2), convertito nella [legge 6 dicembre 1928, n. 3474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201927%20n.%202258%20relativo%20allautonomia%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20028U3474.md), quale risulta modificato dall'[art. 1 del decreto legislativo luogotenenziale 18 giugno 1945, n. 392](Modificazioni%20alla%20composizione%20del%20Consiglio%20di%20amministrazione%20dellAmministrazione%20autonoma%20dei%20monopoli%20di%20Stato%20e%20adeguamento%20dei%20limiti%20di%20valore%20per%20contratti%20forniture%20e%20servizi%20de_ceb5a3ef0772.md) e dall'[art. 1 del decreto legislativo 3 maggio 1948, n. 725](../Decreti%20Legislativi/Modificazioni%20alle%20norme%20sulla%20composizione%20del%20Consiglio%20di%20amministrazione%20dellAmministrazione%20autonoma%20dei%20monopoli%20di%20Stato.md), e' sostituito dal seguente:
  "Il Consiglio di amministrazione e' presieduto dal Ministro per le finanze ed e' composto dai seguenti membri:
  a) il Sottosegretario di Stato per le finanze;
  b) un consigliere di Stato;
@@ -32,7 +32,7 @@ L'[art. 2 del regio decreto-legge 8 dicembre 1927, n. 2258](https://www.normatti
 
 ## Art. 2.
 
-L'[art. 4, comma secondo, del regio decreto 28 dicembre 1927, n. 2452](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-28;2452#art_4-com2), modificato dall'[art. 1 del decreto legislativo 3 maggio 1948, n. 725](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-03;725#art_1), e' sostituito dal seguente:
+L'[art. 4, comma secondo, del regio decreto 28 dicembre 1927, n. 2452](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-28;2452#art_4-com2), modificato dall'[art. 1 del decreto legislativo 3 maggio 1948, n. 725](../Decreti%20Legislativi/Modificazioni%20alle%20norme%20sulla%20composizione%20del%20Consiglio%20di%20amministrazione%20dellAmministrazione%20autonoma%20dei%20monopoli%20di%20Stato.md), e' sostituito dal seguente:
  "Per la validita' delle riunioni e' necessaria la presenza di almeno sette membri, oltre quella del presidente, e per la validita', delle deliberazioni la maggioranza assoluta degli intervenuti".
 
 ## Art. 3.

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 settembre 1932, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-17;1213), concernente la ratizzazione delle semestralita' arretrate sui mutui concessi dagli Istituti di credito fondiario, con l'aggiunta del seguente articolo: 
+ E' convertito in legge il [R. decreto-legge 17 settembre 1932, n. 1213](Ratizzazione%20delle%20semestralita%20arretrate%20sui%20mutui%20concessi%20dagli%20Istituti%20di%20credito%20fondiario.%20032U1213.md), concernente la ratizzazione delle semestralita' arretrate sui mutui concessi dagli Istituti di credito fondiario, con l'aggiunta del seguente articolo: 
  
  «Art. 3. - Le disposizioni degli articoli 1 e 2 si applicano al Consorzio nazionale per il credito agrario di miglioramento ed ai mutui da esso effettuati». 
  

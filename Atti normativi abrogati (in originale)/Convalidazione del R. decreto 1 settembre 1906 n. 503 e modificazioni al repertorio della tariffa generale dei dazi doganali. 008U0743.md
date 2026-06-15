@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto 1° settembre 1906, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-09-01;503), portante modificazioni al repertorio per l'applicazione della tariffa generale dei dazi doganali.
+E' convertito in legge il [R. decreto 1° settembre 1906, n. 503](Che%20approva%20lannessa%20tabella%20recante%20modificazioni%20al%20repertorio%20per%20lapplicazione%20della%20tariffa%20dei%20dazi%20doganali%20006U0503.md), portante modificazioni al repertorio per l'applicazione della tariffa generale dei dazi doganali.
 
 ## Art. 2.
 

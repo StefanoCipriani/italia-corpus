@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Indipendentemente dalla sovvenzione, che possa essere data ai sensi del [R. decreto legge 9 luglio 1926, n. 1411](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1411), alle imprese che procedano alla distillazione delle roccie asfaltifere o bituminose e' concessa: 
+Indipendentemente dalla sovvenzione, che possa essere data ai sensi del [R. decreto legge 9 luglio 1926, n. 1411](Sovvenzioni%20per%20lutilizzazione%20dei%20combustibili%20nazionali%20ed%20assegnazione%20per%20studi%20ed%20esperienze%20sulla%20utilizzazione%20dei%20combustibili%20nazionali%20ed%20esteri.%20026U1411.md), alle imprese che procedano alla distillazione delle roccie asfaltifere o bituminose e' concessa: 
  
  a) l'esenzione dai dazi doganali per il macchinario, destinato alla distillazione, che non possa essere costruito dall'industria nazionale; 
  

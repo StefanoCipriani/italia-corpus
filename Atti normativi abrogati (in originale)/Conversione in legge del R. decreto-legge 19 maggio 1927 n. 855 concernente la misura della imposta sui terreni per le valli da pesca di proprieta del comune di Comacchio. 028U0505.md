@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 maggio 1927, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-19;855), riguardante la misura della imposta sui terreni per le valli da pesca di proprieta' del comune di Comacchio. 
+ E' convertito in legge il [R. decreto-legge 19 maggio 1927, n. 855](Misura%20della%20imposta%20sui%20terreni%20per%20le%20valli%20da%20pesca%20di%20proprieta%20del%20comune%20di%20Comacchio.%20027U0855.md), riguardante la misura della imposta sui terreni per le valli da pesca di proprieta' del comune di Comacchio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

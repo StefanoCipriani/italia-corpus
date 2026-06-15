@@ -16,7 +16,7 @@ Per disciplinare e curare la distribuzione tra i cantieri e o gli stabilimenti p
 
 All'Ufficio sara' preposto un funzionario del ruolo del personale amministrativo dell'Amministrazione centrale della marina mercantile di grado 5° e 6°. 
  
- Per il funzionamento dell'Ufficio potra' essere assunto, nei limiti strettamente necessari, personale avventizio, coll'osservanza delle norme del [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100). 
+ Per il funzionamento dell'Ufficio potra' essere assunto, nei limiti strettamente necessari, personale avventizio, coll'osservanza delle norme del [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md). 
  
  Il Ministro per le comunicazioni potra' avvalersi anche dell'opera di personale particolarmente pratico appartenente ai cantieri e stabilimenti per costruzioni, riparazioni, modificazioni e trasformazioni navali, verso rimborso a detti cantieri e stabilimenti dell'ammontare degli stipendi e degli assegni di carattere continuativo spettanti al personale stesso per il periodo di durata delle prestazioni presso l'Ufficio siderurgico.
 

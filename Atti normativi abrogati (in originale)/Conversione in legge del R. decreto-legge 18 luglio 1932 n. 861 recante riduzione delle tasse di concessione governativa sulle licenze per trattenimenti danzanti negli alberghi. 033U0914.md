@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 luglio 1932, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-07-18;861), recante riduzione delle tasse di concessione governativa sulle licenze per trattenimenti danzanti negli alberghi. 
+ E' convertito in legge il [R. decreto-legge 18 luglio 1932, n. 861](Riduzione%20per%20gli%20alberghi%20di%20lusso%20e%20di%20lª%20e%202ª%20categoria%20della%20tassa%20di%20concessione%20governativa%20sulle%20licenze%20per%20pubblici%20trattenimenti.%20032U0861.md), recante riduzione delle tasse di concessione governativa sulle licenze per trattenimenti danzanti negli alberghi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -139,7 +139,7 @@ I posti di direttore didattico (grado 10°) di cui alla tabella n. 37 dell'alleg
 
 ### Art. 4.
 
-Il periodo di efficacia delle graduatorie di concorso contemplate dall'[art. 11 del R. decreto-legge 1° maggio 1925, n. 736](Disposizioni%20concernenti%20lassunzione%20del%20personale%20direttivo%20ed%20insegnante%20delle%20scuole%20elementari%20e%20i%20trasferimenti%20degli%20insegnanti.%20025U0736.md), convertito in legge con la [legge 21 marzo 1926, numero 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e' prolungato al 31 luglio 1927 nei Comuni dove, nonostante la concessione della proroga di un anno, non si sia verificata al 30 giugno 1926 la condizione posta dal predetto articolo per le nomine. 
+Il periodo di efficacia delle graduatorie di concorso contemplate dall'[art. 11 del R. decreto-legge 1° maggio 1925, n. 736](Disposizioni%20concernenti%20lassunzione%20del%20personale%20direttivo%20ed%20insegnante%20delle%20scuole%20elementari%20e%20i%20trasferimenti%20degli%20insegnanti.%20025U0736.md), convertito in legge con la [legge 21 marzo 1926, numero 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e' prolungato al 31 luglio 1927 nei Comuni dove, nonostante la concessione della proroga di un anno, non si sia verificata al 30 giugno 1926 la condizione posta dal predetto articolo per le nomine. 
  
  Nei Comuni, di cui al comma precedente, le graduatorie dei concorsi che siano stati gia' banditi ai sensi dell'art. 4 del Regio decreto-legge citato, varranno per i posti che si renderanno vacanti dal 1° agosto 1927.
 

@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri di concerto con i Minis
 
 1.
 
-L'[articolo 24- bis della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_24bis), introdotto dall'[articolo 3 della legge 2 maggio 1983, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-02;305#art_3), e' sostituito dal seguente: 
+L'[articolo 24- bis della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), introdotto dall'[articolo 3 della legge 2 maggio 1983, n. 305](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20prevenzione%20dellinquinamento%20marino%20causato%20dallo%20scarico%20di%20rifiuti%20ed%20altre%20materie%20con%20allegati%20aperta%20alla%20firma%20a%20Citta%20del%20Messico%20Lon_e6e91c1a280a.md), e' sostituito dal seguente: 
  "Art. 24- bis. - Si applica la pena dell'arresto da due mesi a due anni se lo scarico, effettuato in mare da navi o da aeromobili senza autorizzazione, contiene sostanze o materiali per i quali le convenzioni internazionali sanciscono il divieto di scarico".
 
 ## Art. 2.
@@ -30,7 +30,7 @@ L'[articolo 24- bis della legge 10 maggio 1976, n. 319](https://www.normattiva.i
 1.
 
 All'[articolo 9 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), e' aggiunto in fine il seguente comma: 
- "La [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), e successive modificazioni, disciplina, anche agli effetti penali, gli scarichi in mare da navi o da aeromobili in conformita' alle convenzioni internazionali di cui all'articolo 11 della medesima legge".
+ "La [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni, disciplina, anche agli effetti penali, gli scarichi in mare da navi o da aeromobili in conformita' alle convenzioni internazionali di cui all'articolo 11 della medesima legge".
 
 ## Art. 3.
 

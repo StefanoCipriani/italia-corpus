@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 settembre 1928, n. 2429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-09-27;2429), mediante il quale sono stati confermati nella carica fino al 30 giugno 1929 i membri del Consiglio superiore dei lavori pubblici. 
+ E' convertito in legge il [R. decreto-legge 27 settembre 1928, n. 2429](Conferma%20nella%20carica%20fino%20al%2030%20giugno%201929%20dei%20membri%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici.%20028U2429.md), mediante il quale sono stati confermati nella carica fino al 30 giugno 1929 i membri del Consiglio superiore dei lavori pubblici. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

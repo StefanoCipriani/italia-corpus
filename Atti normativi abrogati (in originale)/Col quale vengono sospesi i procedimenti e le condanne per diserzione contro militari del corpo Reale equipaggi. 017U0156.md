@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), che concede al Governo del Re poteri straordinari durante la guerra;
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), che concede al Governo del Re poteri straordinari durante la guerra;
 
 Sentito il Consiglio dei ministri;
 
@@ -36,7 +36,7 @@ Durante la presente guerra i militari del corpo Reale equipaggi imputati di dise
 
 ## Art. 2.
 
-Per i militari del corpo R. equipaggi che disertano la seconda volta, il procedimento giudiziario avra' luogo di regola con precedenza sugli altri e gli imputati saranno giudicati anche per la prima diserzione e puniti a norma dell'art. 169, capoverso, del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo, nel caso che siano riconosciuti colpevoli di entrambe le imputazioni. Saranno quindi inviati alla prima destinazione, non dandosi corso alla esecuzione della sentenza. 
+Per i militari del corpo R. equipaggi che disertano la seconda volta, il procedimento giudiziario avra' luogo di regola con precedenza sugli altri e gli imputati saranno giudicati anche per la prima diserzione e puniti a norma dell'art. 169, capoverso, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, nel caso che siano riconosciuti colpevoli di entrambe le imputazioni. Saranno quindi inviati alla prima destinazione, non dandosi corso alla esecuzione della sentenza. 
  
  Il presidente del tribunale militare, nel pronunziare la sentenza, dovra' pero' avvertire il colpevole che incorrendo per una terza volta nello stesso reato sara' punito a norma dell'articolo seguente. 
  
@@ -44,7 +44,7 @@ Per i militari del corpo R. equipaggi che disertano la seconda volta, il procedi
 
 ## Art. 3.
 
-Il militare del corpo R. equipaggi che, dopo la condanna e l'ammonimento di cui all'articolo precedente, si renda responsabile di altro reato di diserzione, sara' considerato come disertore in presenza al nemico e punito a norma dell'[art. 160 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_160) militare marittimo.
+Il militare del corpo R. equipaggi che, dopo la condanna e l'ammonimento di cui all'articolo precedente, si renda responsabile di altro reato di diserzione, sara' considerato come disertore in presenza al nemico e punito a norma dell'[art. 160 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
 
 ## Art. 4.
 

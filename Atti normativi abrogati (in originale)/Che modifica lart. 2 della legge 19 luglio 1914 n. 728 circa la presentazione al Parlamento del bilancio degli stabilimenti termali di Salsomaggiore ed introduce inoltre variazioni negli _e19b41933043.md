@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 2 della legge 19 luglio 1914, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;728#art_2), portante provvedimenti per l'assetto della stazione termale di Salsomaggiore;
+Visto l'[art. 2 della legge 19 luglio 1914, n. 728](Cancernente%20poovvedimenti%20per%20lassetto%20della%20stazione%20termale%20di%20Salsomaggiore.%20014U0728.md), portante provvedimenti per l'assetto della stazione termale di Salsomaggiore;
 
 Visti gli articoli 14 e 23 del regolamento emanato in applicazione della citata legge ed approvato con Nostro decreto in data 28 giugno 1917, n. 1066;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per le finanze, di concerto con 
 
 ## Art. 1.
 
-Il bilancio degli stabilimenti termali di proprieta' dello Stato in Salsomaggiore, a decorrere dall'esercizio 1919 sara', a modificazione del disposto dell'[articolo 2 della legge 19 luglio 1914, n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;728#art_2), presentato al Parlamento dal ministro delle finanze, di concerto con quello per il tesoro, cessando di costituire un allegato allo stato di previsione della spesa del Ministero delle finanze. 
+Il bilancio degli stabilimenti termali di proprieta' dello Stato in Salsomaggiore, a decorrere dall'esercizio 1919 sara', a modificazione del disposto dell'[articolo 2 della legge 19 luglio 1914, n. 728](Cancernente%20poovvedimenti%20per%20lassetto%20della%20stazione%20termale%20di%20Salsomaggiore.%20014U0728.md), presentato al Parlamento dal ministro delle finanze, di concerto con quello per il tesoro, cessando di costituire un allegato allo stato di previsione della spesa del Ministero delle finanze. 
  
  Simile disposizione ha valore anche per il conto consuntivo degli stabilimenti medesimi.
 

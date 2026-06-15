@@ -24,15 +24,15 @@ E'autorizzata la spesa di L. 1.500.000 per provvedere, nelle localita' colpite d
 
 ## Art. 2.
 
-I lavori di cui all'articolo precedente sono dichiarati di pubblica utilita' e ad essi sono applicabili le disposizioni del primo e del secondo comma dell'art. 171 del testo unico delle leggi emanate in conseguenza del terremoto del 28 dicembre 1908, approvato con [R. decreto 12 ottobre 1913, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-12;1261). 
+I lavori di cui all'articolo precedente sono dichiarati di pubblica utilita' e ad essi sono applicabili le disposizioni del primo e del secondo comma dell'art. 171 del testo unico delle leggi emanate in conseguenza del terremoto del 28 dicembre 1908, approvato con [R. decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md). 
  
- L'approvazione di progetti importanti una spesa non superiore a L. 200.000 e' data dall'ispettore superiore del genio civile residente a Messina, il quale esercita per tali lavori le attribuzioni d'ispettore di compartimento, che gli sono affidate per tutte le opere dipendenti dal terremoto nelle Provincie calabresi ed in quella di Messina, a norma del [R. decreto 4 gennaio 1914, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-04;145). 
+ L'approvazione di progetti importanti una spesa non superiore a L. 200.000 e' data dall'ispettore superiore del genio civile residente a Messina, il quale esercita per tali lavori le attribuzioni d'ispettore di compartimento, che gli sono affidate per tutte le opere dipendenti dal terremoto nelle Provincie calabresi ed in quella di Messina, a norma del [R. decreto 4 gennaio 1914, n. 145](Da%20convertirsi%20in%20legge%20col%20quale%20vengono%20estese%20e%20definite%20le%20attribuzioni%20del%20delegato%20del%20Ministero%20dei%20lavori%20pubblici%20nei%20paesi%20danneggiati%20dal%20terremoto%20del%201908%20a%20termini%20degli%20art_83c8896c100d.md). 
  
  L'approvazione dei progetti il cui importo superi le L. 200.000 e' data dal Ministero dei lavori pubblici, udito il parere del Comitato speciale del Consiglio superiore dei lavori pubblici, di cui all'art. 173 del citato testo unico.
 
 ## Art. 3.
 
-Per le espropriazioni e per le occupazioni temporanee occorrenti per l'esecuzione dei lavori, di cui all'art. 1, si seguira' la procedura stabilita dal testo unico approvato con [R. decreto 12 ottobre 1913, numero 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-12;1261). 
+Per le espropriazioni e per le occupazioni temporanee occorrenti per l'esecuzione dei lavori, di cui all'art. 1, si seguira' la procedura stabilita dal testo unico approvato con [R. decreto 12 ottobre 1913, numero 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md). 
  
  Alla liquidazione delle relative indennita' e di quelle dipendenti da eventuali danni occasionati dai lavori medesimi, in caso di mancata accettazione della somma offerta dall'Amministrazione, provvedera' un Collegio arbitrale sedente a Catania, composto di tre membri, di cui uno magistrato con grado di consigliere di appello od equiparato, nominato dal ministro guardasigilli con le funzioni di presidente, e gli altri due ingegneri, nominati l'uno dal ministro dei lavori pubblici, l'altro dal Consiglio provinciale. 
  
@@ -84,7 +84,7 @@ Il contributo dello Stato, nella misura di cui al precedente articolo potra' ess
 
 ## Art. 9.
 
-Alle operazioni di cui agli articoli precedenti sono estese le disposizioni di cui all'art. 270 del testo unico approvato con [R. decreto 12 ottobre 1913, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-12;1261).
+Alle operazioni di cui agli articoli precedenti sono estese le disposizioni di cui all'art. 270 del testo unico approvato con [R. decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md).
 
 ## Art. 10.
 
@@ -94,7 +94,7 @@ In luogo del contributo diretto o del mutuo di favore ed in corrispondenza della
 
 ## Art. 11.
 
-I contratti di mutuo previsti nella presente legge, nonche' quei contratti che a termini dell'[art. 13 della legge 12 luglio 1912, n. 772](Portante%20la%20conversione%20in%20legge%20del%20R.%20decreto%2021%20dicembre%201911%20n.%201471%20e%20disposizioni%20integrative%20relative%20a%20disastri%20verificatisi%20in%20alcune%20Provincie%20del%20Regno%20012U0772.md), e dell'[art. 45 del R. decreto 1° maggio 1913, n. 514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-05-01;514#art_45), potranno fare i proprietari dei terreni distrutti merce' mutui accesi sulla nuova proprieta', saranno soggetti all'ordinaria tassa di bollo ed alla tassa fissa di registro di una lira. 
+I contratti di mutuo previsti nella presente legge, nonche' quei contratti che a termini dell'[art. 13 della legge 12 luglio 1912, n. 772](Portante%20la%20conversione%20in%20legge%20del%20R.%20decreto%2021%20dicembre%201911%20n.%201471%20e%20disposizioni%20integrative%20relative%20a%20disastri%20verificatisi%20in%20alcune%20Provincie%20del%20Regno%20012U0772.md), e dell'[art. 45 del R. decreto 1° maggio 1913, n. 514](Per%20lesecuzione%20di%20alcuni%20articoli%20del%20R.%20decreto%2021%20dicembre%201911%20n.%201474%20e%20della%20legge%2012%20luglio%201912%20n.%20772%20relativi%20a%20provvedimenti%20pei%20luoghi%20danneggiati%20da%20pubbliche%20calamita%20durant_e5fdeb389efc.md), potranno fare i proprietari dei terreni distrutti merce' mutui accesi sulla nuova proprieta', saranno soggetti all'ordinaria tassa di bollo ed alla tassa fissa di registro di una lira. 
  
  Saranno pure registrati con la stessa tassa e trascritti gratuitamente gli atti di permuta dei ricoveri stabili assegnati in proprieta' a norma dell'articolo precedente, quando gli atti medesimi fossero stipulati entro un anno dall'assegnazione. 
  
@@ -124,11 +124,11 @@ A carico dello Stato sara' corrisposta ai Comuni danneggiati dal terremoto, di c
 
 ## Art. 16.
 
-Ferme restando le condizioni stabilite nel secondo comma dell'articolo unico del [R. decreto 4 gennaio 1914, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-04;52), e' concessa una nuova proroga al termine fissato per la presentazione di domande di sussidi di cui allo stesso articolo unico e precisamente fino al 6 gennaio 1915.
+Ferme restando le condizioni stabilite nel secondo comma dell'articolo unico del [R. decreto 4 gennaio 1914, n. 52](Recante%20unaggiunta%20al%20regolamento%20approvato%20con%20R.%20decreto%201%20maggio%201913%20n.%20514%20relativo%20al%20termine%20per%20la%20presentazione%20delle%20domande%20di%20sussidio%20da%20parte%20dei%20privati%20e%20degli%20Istituti%20pu_165535ce3e0e.md), e' concessa una nuova proroga al termine fissato per la presentazione di domande di sussidi di cui allo stesso articolo unico e precisamente fino al 6 gennaio 1915.
 
 ## Art. 17.
 
-Negli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-21;1471#art_6) e [7 del R. decreto 21 dicembre 1911, n. 1471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-21;1471#art_7); 5, 12 e 13 della [legge 12 luglio 1912, n. 772 e 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-12;1) e 31 del [R. decreto 1° maggio 1913, n. 514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-05-01;514), le disposizioni riguardanti le concessioni di mutui o sussidi ai privati e agli Istituti pubblici di beneficenza, s'intendono estese ai Comuni in quanto fossero stati anch'essi danneggiati nelle loro proprieta' patrimoniali.
+Negli [articoli 6](Portante%20iscrizione%20di%20spese%20nella%20parte%20straordinaria%20del%20bilancio%20del%20ministero%20dei%20lavori%20pubblici%20ed%20altri%20provvedimenti%20relativi%20a%20disastri%20verificatisi%20in%20alcune%20provincie%20del%20Regno.%20011U1471.md) e [7 del R. decreto 21 dicembre 1911, n. 1471](Portante%20iscrizione%20di%20spese%20nella%20parte%20straordinaria%20del%20bilancio%20del%20ministero%20dei%20lavori%20pubblici%20ed%20altri%20provvedimenti%20relativi%20a%20disastri%20verificatisi%20in%20alcune%20provincie%20del%20Regno.%20011U1471.md); 5, 12 e 13 della [legge 12 luglio 1912, n. 772 e 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-12;1) e 31 del [R. decreto 1° maggio 1913, n. 514](Per%20lesecuzione%20di%20alcuni%20articoli%20del%20R.%20decreto%2021%20dicembre%201911%20n.%201474%20e%20della%20legge%2012%20luglio%201912%20n.%20772%20relativi%20a%20provvedimenti%20pei%20luoghi%20danneggiati%20da%20pubbliche%20calamita%20durant_e5fdeb389efc.md), le disposizioni riguardanti le concessioni di mutui o sussidi ai privati e agli Istituti pubblici di beneficenza, s'intendono estese ai Comuni in quanto fossero stati anch'essi danneggiati nelle loro proprieta' patrimoniali.
 
 ## Art. 18.
 
@@ -136,7 +136,7 @@ Per facilitare ai danneggiati dall'eruzione dell'Etna del settembre 1911, la ric
 
 ## Art. 19.
 
-Il termine utile per la presentazione delle domande di mutuo di cui all'[art. 5 del R. decreto 21 dicembre 1911, n. 1471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-21;1471#art_5), e' fissato a tutto il 30 giugno 1915.
+Il termine utile per la presentazione delle domande di mutuo di cui all'[art. 5 del R. decreto 21 dicembre 1911, n. 1471](Portante%20iscrizione%20di%20spese%20nella%20parte%20straordinaria%20del%20bilancio%20del%20ministero%20dei%20lavori%20pubblici%20ed%20altri%20provvedimenti%20relativi%20a%20disastri%20verificatisi%20in%20alcune%20provincie%20del%20Regno.%20011U1471.md), e' fissato a tutto il 30 giugno 1915.
 
 ## Art. 20.
 

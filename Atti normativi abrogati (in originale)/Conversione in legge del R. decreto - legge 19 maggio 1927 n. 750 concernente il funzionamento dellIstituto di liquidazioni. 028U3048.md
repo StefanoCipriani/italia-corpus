@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 maggio 1927, n. 750](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-19;750), concernente il funzionamento dell'Istituto di liquidazioni. 
+ E' convertito in legge il [R. decreto-legge 19 maggio 1927, n. 750](Funzionamento%20dellIstituto%20di%20liquidazioni.%20027U0750.md), concernente il funzionamento dell'Istituto di liquidazioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

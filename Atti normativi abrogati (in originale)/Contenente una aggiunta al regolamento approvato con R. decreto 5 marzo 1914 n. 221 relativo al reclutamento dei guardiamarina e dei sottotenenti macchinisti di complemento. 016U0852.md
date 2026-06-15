@@ -18,9 +18,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visto il [R. decreto in data 5 marzo 1914, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-03-05;221), che approva il regolamento provvisorio per il reclutamento e l'avanzamento dei guardiamarina e sottotenenti macchinisti di complemento;
+Visto il [R. decreto in data 5 marzo 1914, n. 221](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20provvisorio%20per%20il%20reclutamento%20e%20lavanzamento%20dei%20guardiamarina%20e%20dei%20sottotenenti%20macchinisti%20di%20complemento.%20014U0221.md), che approva il regolamento provvisorio per il reclutamento e l'avanzamento dei guardiamarina e sottotenenti macchinisti di complemento;
 
 Sentito il Consiglio superiore di marina ed il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro della marina;
 
 Abbiamo decretato e decretiamo:
 
-Al regolamento approvato col citato [R. decreto 5 marzo 1914, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-03-05;221), e' aggiunto il seguente articolo:
+Al regolamento approvato col citato [R. decreto 5 marzo 1914, n. 221](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20provvisorio%20per%20il%20reclutamento%20e%20lavanzamento%20dei%20guardiamarina%20e%20dei%20sottotenenti%20macchinisti%20di%20complemento.%20014U0221.md), e' aggiunto il seguente articolo:
 
 «Art. 10-bis. - Per gli aspiranti guardiamarina di complemento che, all'inizio del periodo di esperimento di cui al comma b) dell'art. 8 o durante il periodo stesso, siano ammessi in una scuola di aviazione per conseguire il brevetto di pilota aviatore, il periodo trascorso nella scuola di aviazione o nella stazione di idrovolanti sara' computato, agli effetti della promozione a guardiamarina, come periodo d'imbarco compiuto su R. nave.
 
@@ -62,9 +62,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [R. decreto in data 5 marzo 1914, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-03-05;221), che approva il regolamento provvisorio per il reclutamento e l'avanzamento dei guardiamarina e sottotenenti macchinisti di complemento; 
+ Visto il [R. decreto in data 5 marzo 1914, n. 221](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20provvisorio%20per%20il%20reclutamento%20e%20lavanzamento%20dei%20guardiamarina%20e%20dei%20sottotenenti%20macchinisti%20di%20complemento.%20014U0221.md), che approva il regolamento provvisorio per il reclutamento e l'avanzamento dei guardiamarina e sottotenenti macchinisti di complemento; 
  
  Sentito il Consiglio superiore di marina ed il Consiglio dei ministri; 
  
@@ -72,7 +72,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Al regolamento approvato col citato [R. decreto 5 marzo 1914, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-03-05;221), e' aggiunto il seguente articolo: 
+ Al regolamento approvato col citato [R. decreto 5 marzo 1914, n. 221](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20provvisorio%20per%20il%20reclutamento%20e%20lavanzamento%20dei%20guardiamarina%20e%20dei%20sottotenenti%20macchinisti%20di%20complemento.%20014U0221.md), e' aggiunto il seguente articolo: 
  
  «Art. 10-bis. - Per gli aspiranti guardiamarina di complemento che, all'inizio del periodo di esperimento di cui al comma b) dell'art. 8 o durante il periodo stesso, siano ammessi in una scuola di aviazione per conseguire il brevetto di pilota aviatore, il periodo trascorso nella scuola di aviazione o nella stazione di idrovolanti sara' computato, agli effetti della promozione a guardiamarina, come periodo d'imbarco compiuto su R. nave. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo Unico. 
  
- E' convertito in legge il [R. decreto-legge 25 settembre 1924, n. 1460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-09-25;1460), riguardante la sistemazione del personale telefonico in conseguenza della cessione dei telefoni all'industria privata. 
+ E' convertito in legge il [R. decreto-legge 25 settembre 1924, n. 1460](Sistemazione%20del%20personale%20telefonico%20in%20conseguenza%20della%20cessione%20dei%20telefoni%20allindustria%20privata.%20024U1460.md), riguardante la sistemazione del personale telefonico in conseguenza della cessione dei telefoni all'industria privata. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Le disposizioni di cui all'[articolo 14 del regio decreto-legge 13 marzo 1921, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-03-13;261#art_14), e successive modificazioni, a favore delle famiglie dei funzionari di pubblica sicurezza, degli ufficiali, dei sottufficiali e dei militari di truppa delle forze armate di polizia sono estese, nella misura e alle condizioni ivi previste, alle famiglie degli ufficiali, dei sottufficiali e dei militari di truppa dello Esercito, della Marina e dell'Aeronautica caduti vittime del dovere.
+Le disposizioni di cui all'[articolo 14 del regio decreto-legge 13 marzo 1921, n. 261](Contenente%20provvedimenti%20a%20favore%20del%20corpo%20degli%20agenti%20di%20investigazione%20istituito%20col%20R.%20decreto%2014%20agosto%201919%20n.%201442.%20021U0261.md), e successive modificazioni, a favore delle famiglie dei funzionari di pubblica sicurezza, degli ufficiali, dei sottufficiali e dei militari di truppa delle forze armate di polizia sono estese, nella misura e alle condizioni ivi previste, alle famiglie degli ufficiali, dei sottufficiali e dei militari di truppa dello Esercito, della Marina e dell'Aeronautica caduti vittime del dovere.
 
 ## Art. 2.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il testo unico delle disposizioni legislative sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914), e modificato dalla [legge 15 giugno 1933, n. 778](Varianti%20al%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20sullo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina%20approvato%20con%20R.%20decreto%2018%20giugno%20193_aa6eee7186d1.md);
+Visto il testo unico delle disposizioni legislative sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e modificato dalla [legge 15 giugno 1933, n. 778](Varianti%20al%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20sullo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina%20approvato%20con%20R.%20decreto%2018%20giugno%20193_aa6eee7186d1.md);
 
 Ritenuta la necessita' assoluta ed urgente di modificare l'art. 24 del testo unico precitato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Articolo unico.
 
-Nel 2° comma dell'art. 24 del testo unico delle disposizioni legislative sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914), e modificato dalla [legge 15 giugno 1933, n. 778](Varianti%20al%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20sullo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina%20approvato%20con%20R.%20decreto%2018%20giugno%20193_aa6eee7186d1.md), sono soppresse le parole «previo loro consenso ed». 
+Nel 2° comma dell'art. 24 del testo unico delle disposizioni legislative sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e modificato dalla [legge 15 giugno 1933, n. 778](Varianti%20al%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20sullo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina%20approvato%20con%20R.%20decreto%2018%20giugno%20193_aa6eee7186d1.md), sono soppresse le parole «previo loro consenso ed». 
  
  Il presente decreto entrera' in vigore dal 4 maggio 1935, e sara' presentato al Parlamento per la conversione in legge. 
  

@@ -20,7 +20,7 @@ E' autorizzata la concessione al comune di Enna di un contributo da parte dello 
 
 Il Ministero dei lavori pubblici e' autorizzato a provvedere all'esecuzione dei lavori necessari per il contenimento delle acque del bacino del Pergusa, in provincia di Enna, quali opere idrauliche di seconda categoria. 
  
- Alla relativa spesa di L. 500.000 si fara' fronte con le disponibilita' esistenti sui fondi autorizzati con i [Regi decreti-legge 28 settembre 1934, n. 1571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1571), e [17 dicembre 1934, n. 2022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-17;2022). 
+ Alla relativa spesa di L. 500.000 si fara' fronte con le disponibilita' esistenti sui fondi autorizzati con i [Regi decreti-legge 28 settembre 1934, n. 1571](Autorizzazione%20di%20spesa%20per%20la%20esecuzione%20di%20opere%20pubbliche%20straordinarie%20in%20alcune%20Provincie.%20034U1571.md), e [17 dicembre 1934, n. 2022](Autorizzazione%20della%20spesa%20di%20L.%20110.000.000%20per%20lesecuzione%20di%20opere%20pubbliche%20straordinarie%20urgenti.%20034U2022.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

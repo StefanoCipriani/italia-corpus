@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3283), e successive modificazioni e disposizioni concernenti la tassa di circolazione sugli autoveicoli;
+Visto il [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e successive modificazioni e disposizioni concernenti la tassa di circolazione sugli autoveicoli;
 
 Visto il testo unico per la finanza locale 14 settembre 1931, n. 1175;
 
@@ -30,7 +30,7 @@ Sulla proposta del DUCE, Primo Ministro Segretario di Stato e del Ministro Segre
 
 ## Art. 1.
 
-La tassa di circolazione sulle automobili, sui motocicli, sulle Motocarrozzette o sugli autoscafi per trasporto di persone ad uso privato, per servizio di piazza e di noleggio, per servizio pubblico su linee regolari non postali e per servizio di alberghi e di istituti, di cui al [R. decreto 30 dicembre 1923, n. 3283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3283), e disposizioni successive, e' abolita. 
+La tassa di circolazione sulle automobili, sui motocicli, sulle Motocarrozzette o sugli autoscafi per trasporto di persone ad uso privato, per servizio di piazza e di noleggio, per servizio pubblico su linee regolari non postali e per servizio di alberghi e di istituti, di cui al [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e disposizioni successive, e' abolita. 
  
  E' del pari abolita la tassa di circolazione sui velocipedi macchine ed apparecchi ad essi assimilabili, di cui all'articolo 214 del testo unico per la finanza locale, 14 settembre 1931, n. 1175.
 

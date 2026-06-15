@@ -10,9 +10,9 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE,
 
-Vista la [legge 11 agosto 1870, n. 5784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784), allegato G, articolo 3;
+Vista la [legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md), allegato G, articolo 3;
 
-Visti gli articoli 70 all'84 del regolamento approvato col [R. decreto 24 dicembre 1870, n. 6151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-12-24;6151);
+Visti gli articoli 70 all'84 del regolamento approvato col [R. decreto 24 dicembre 1870, n. 6151](Che%20approva%20il%20Regolamento%20per%20la%20conservazione%20dei%20catasti%20dei%20terreni%20e%20dei%20fabbricati%20070U6151.md);
 
 Visti gli articoli 1 e 2 del R. decreto 5 luglio 1882, n. 887 (Serie 3ª), Determina:
 

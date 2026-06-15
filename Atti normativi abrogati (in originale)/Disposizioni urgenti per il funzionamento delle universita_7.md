@@ -29,13 +29,13 @@ Al fine di soddisfare le esigenze assistenziali del policlinico Umberto I, l'Uni
 
 1.
 
-Il numero 3) del [primo comma dell'articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_13-com1), e' sostituito dai seguenti: 
+Il numero 3) del [primo comma dell'articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), e' sostituito dai seguenti: 
  "3) nomina a componente delle istituzioni dell'Unione europea; 
  3-bis) nomina a componente di organi ed istituzioni specializzate delle Nazioni Unite che comporti un impegno incompatibile con l'assolvimento delle funzioni di professore universitario.".
 
 2.
 
-In attuazione delle disposizioni di cui all'[articolo 5, commi 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_5-com10) e [12, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_5-com12), recanti la fissazione delle modalita' di determinazione degli organici di ateneo e la conseguente attribuzione alle universita' della potesta' di modifica degli stessi, e' abrogato il [comma 2 dell'articolo 3 del decreto-legge 2 marzo 1987, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-03-02;57#art_3-com2), convertito, con modificazioni, dalla [legge 22 aprile 1987, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-22;158), recante la determinazione di un rapporto proporzionale tra posti di ricercatore e posti di professore ordinario in una stessa facolta'. E' altresi' soppresso l'ultimo periodo del [terzo comma dell'articolo 21 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_21-com3), concernente i trasferimenti dei professori associati.
+In attuazione delle disposizioni di cui all'[articolo 5, commi 10](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e [12, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), recanti la fissazione delle modalita' di determinazione degli organici di ateneo e la conseguente attribuzione alle universita' della potesta' di modifica degli stessi, e' abrogato il [comma 2 dell'articolo 3 del decreto-legge 2 marzo 1987, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-03-02;57#art_3-com2), convertito, con modificazioni, dalla [legge 22 aprile 1987, n. 158](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201987%20n.%2057%20recante%20disposizioni%20urgenti%20per%20i%20ricercatori%20universitari%20e%20per%20lattuazione%20del%20disposto%20di%20cui%20allarticolo%202_57028044d8ac.md), recante la determinazione di un rapporto proporzionale tra posti di ricercatore e posti di professore ordinario in una stessa facolta'. E' altresi' soppresso l'ultimo periodo del [terzo comma dell'articolo 21 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), concernente i trasferimenti dei professori associati.
 
 3.
 
@@ -45,7 +45,7 @@ I professori universitari collocati in aspettativa senza assegni per mandato par
 
 1.
 
-I contratti di diritto privato a tempo determinato stipulati secondo le modalita' di cui all'[articolo 25 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_25), a carico del bilancio dell'universita', per la copertura degli insegnamenti necessari al funzionamento dei singoli anni dei corsi di laurea e di diploma attivati presso le facolta' universitarie, qualora non sia possibile provvedere in altro modo, possono essere rinnovati nella stessa universita' per l'anno accademico 1994-1995, a carico ed entro i limiti delle risorse disponibili nell'universita' medesima.
+I contratti di diritto privato a tempo determinato stipulati secondo le modalita' di cui all'[articolo 25 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), a carico del bilancio dell'universita', per la copertura degli insegnamenti necessari al funzionamento dei singoli anni dei corsi di laurea e di diploma attivati presso le facolta' universitarie, qualora non sia possibile provvedere in altro modo, possono essere rinnovati nella stessa universita' per l'anno accademico 1994-1995, a carico ed entro i limiti delle risorse disponibili nell'universita' medesima.
 
 ## Art. 4.
 
@@ -71,7 +71,7 @@ Fino alla stipulazione del primo contratto collettivo l'entita' della retribuzio
 3.
 
 L'assunzione avviene per selezione pubblica, le cui modalita' sono disciplinate dalle universita' secondo i rispettivi ordinamenti. 
-Hanno diritto all'assunzione nei limiti e nei casi indicati ai commi 1 e 2, conservando i diritti acquisiti in relazione ai precedenti rapporti, i titolari dei contratti di cui all'[articolo 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_28), in servizio nell'anno accademico 1993-1994, nonche' quelli cessati dal servizio per scadenza del termine dell'incarico, salvo che la mancata rinnovazione sia dipesa da inidoneita' o da soppressione del posto.
+Hanno diritto all'assunzione nei limiti e nei casi indicati ai commi 1 e 2, conservando i diritti acquisiti in relazione ai precedenti rapporti, i titolari dei contratti di cui all'[articolo 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), in servizio nell'anno accademico 1993-1994, nonche' quelli cessati dal servizio per scadenza del termine dell'incarico, salvo che la mancata rinnovazione sia dipesa da inidoneita' o da soppressione del posto.
 
 4.
 
@@ -79,7 +79,7 @@ Le universita' procedono annualmente, sulla base di criteri predeterminati dagli
 
 5.
 
-L'[articolo 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_28), e' abrogato.
+L'[articolo 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), e' abrogato.
 
 ## Art. 6.
 
@@ -91,13 +91,13 @@ I cittadini italiani che hanno conseguito un titolo di studio di scuola secondar
 
 1.
 
-Tra i requisiti culturali previsti nell'allegato C al decreto del Presidente del Consiglio dei Ministri 24 settembre 1981, pubblicato nella Gazzetta Ufficiale n. 340 dell'11 dicembre 1981, cosi' come richiamato dall'[articolo 22, comma 11, del decreto del Presidente della Repubblica 3 agosto 1990, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-03;319#art_22-com11), e' compreso il titolo del diploma di laurea.
+Tra i requisiti culturali previsti nell'allegato C al decreto del Presidente del Consiglio dei Ministri 24 settembre 1981, pubblicato nella Gazzetta Ufficiale n. 340 dell'11 dicembre 1981, cosi' come richiamato dall'[articolo 22, comma 11, del decreto del Presidente della Repubblica 3 agosto 1990, n. 319](../DPR/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2021%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20universita%20di%20cui%20allart.%209%20de_f82d8fcf6f26.md), e' compreso il titolo del diploma di laurea.
 
 ## Art. 8.
 
 1.
 
-Limitatamente all'anno accademico 1994-1995, le universita' possono derogare dai limiti massimi previsti nel [comma 15 dell'articolo 5 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_5-com15), nello stabilire i contributi di cui allo stesso comma, in relazione a particolari e motivate esigenze di organizzazione e di strumentazione didattica e scientifica.
+Limitatamente all'anno accademico 1994-1995, le universita' possono derogare dai limiti massimi previsti nel [comma 15 dell'articolo 5 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), nello stabilire i contributi di cui allo stesso comma, in relazione a particolari e motivate esigenze di organizzazione e di strumentazione didattica e scientifica.
 
 2.
 
@@ -105,7 +105,7 @@ I contributi universitari sono finalizzati al miglioramento delle infrastrutture
 
 3.
 
-Il contributo suppletivo di cui all'[articolo 4 della legge 18 dicembre 1951, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551#art_4), e' mantenuto anche per l'anno accademico 1994-1995.
+Il contributo suppletivo di cui all'[articolo 4 della legge 18 dicembre 1951, n. 1551](Aumento%20dei%20contributi%20statali%20a%20favore%20delle%20Universita%20e%20degli%20Istituti%20superiori%20e%20dei%20contributi%20per%20lassistenza%20agli%20studenti%20ampliamento%20delle%20esenzioni%20tributarie%20per%20gli%20studenti%20_eef25c2651a6.md), e' mantenuto anche per l'anno accademico 1994-1995.
 
 4.
 
@@ -113,7 +113,7 @@ I contributi e le tasse degli studenti iscritti in facolta', corsi di laurea o d
 
 5.
 
-In attesa dell'insediamento della Consulta nazionale sul diritto allo studio universitario e della revisione del decreto del Presidente del Consiglio dei Ministri 13 aprile 1994, pubblicato nella Gazzetta Ufficiale n. 175 del 28 luglio 1994, gli eventuali maggiori introiti derivanti, per l'anno accademico 1994-1995, dall'aumento delle tasse e dei contributi rispetto all'anno precedente sono devoluti, in misura non superiore al 30 per cento, da ciascun ateneo ad interventi diretti ed indiretti a favore degli studenti che si trovino nelle condizioni di merito e di reddito richieste per l'accesso alle borse di studio previste dal citato decreto a favore dei meritevoli e privi di redditi, le cui domande non siano state soddisfatte per carenza dei fondi regionali all'uopo destinati. Al relativo onere si provvede mediante riduzione dello stanziamento al capitolo 1527 dello stato di previsione del Ministero dell'universita' e della ricerca scientifica e tecnologica per l'anno 1995, intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 16, comma 4, della legge 2 dicembre 1991, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-02;390#art_16-com4), come modificata dalla [legge 11 febbraio 1992, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-11;147), cosi' come rideterminata dalla tabella C della [legge 24 dicembre 1993, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;538). Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+In attesa dell'insediamento della Consulta nazionale sul diritto allo studio universitario e della revisione del decreto del Presidente del Consiglio dei Ministri 13 aprile 1994, pubblicato nella Gazzetta Ufficiale n. 175 del 28 luglio 1994, gli eventuali maggiori introiti derivanti, per l'anno accademico 1994-1995, dall'aumento delle tasse e dei contributi rispetto all'anno precedente sono devoluti, in misura non superiore al 30 per cento, da ciascun ateneo ad interventi diretti ed indiretti a favore degli studenti che si trovino nelle condizioni di merito e di reddito richieste per l'accesso alle borse di studio previste dal citato decreto a favore dei meritevoli e privi di redditi, le cui domande non siano state soddisfatte per carenza dei fondi regionali all'uopo destinati. Al relativo onere si provvede mediante riduzione dello stanziamento al capitolo 1527 dello stato di previsione del Ministero dell'universita' e della ricerca scientifica e tecnologica per l'anno 1995, intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 16, comma 4, della legge 2 dicembre 1991, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-02;390#art_16-com4), come modificata dalla [legge 11 febbraio 1992, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-11;147), cosi' come rideterminata dalla tabella C della [legge 24 dicembre 1993, n. 538](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201994.md). Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 ## Art. 9.
 
@@ -131,7 +131,7 @@ Tutti i membri eletti nei diversi organi universitari non possono essere rielett
 
 4.
 
-Le universita' deliberano i propri statuti e regolamenti, ai sensi della [legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168), nel rispetto delle norme di cui al [decreto legislativo 3 febbraio 1993, n. 29, all'articolo 5](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) della [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), e al presente decreto, entro un anno dalla data di entrata in vigore della legge di conversione del presente decreto.
+Le universita' deliberano i propri statuti e regolamenti, ai sensi della [legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168), nel rispetto delle norme di cui al [decreto legislativo 3 febbraio 1993, n. 29, all'articolo 5](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) della [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e al presente decreto, entro un anno dalla data di entrata in vigore della legge di conversione del presente decreto.
 
 5.
 
@@ -139,7 +139,7 @@ Decorso inutilmente il termine di cui al comma 4, le universita' non possono acc
 
 6.
 
-L'[articolo 48 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come sostituito dall'[articolo 16 del decreto legislativo 18 novembre 1993, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-18;470#art_16), si interpreta nel senso che esso non si applica ai consigli di amministrazione delle universita' e degli istituti di istruzione superiore e degli enti di ricerca, nonche' ai consigli direttivi degli osservatori astronomici, astrofisici e vesuviano. Gli statuti degli atenei stabiliscono la composizione dei consigli di amministrazione. Sono fatte comunque salve le deliberazioni adottate dai consigli di amministrazione delle universita' e degli istituti di istruzione superiore e degli enti di ricerca, nonche' dai consigli direttivi degli osservatori astronomici, astrofisici e vesuviano prima della data di entrata in vigore del presente decreto.
+L'[articolo 48 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come sostituito dall'[articolo 16 del decreto legislativo 18 novembre 1993, n. 470](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20del%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20recante%20razionalizzazione%20dellorganizzazione%20delle%20amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20_de1af61c91ea.md), si interpreta nel senso che esso non si applica ai consigli di amministrazione delle universita' e degli istituti di istruzione superiore e degli enti di ricerca, nonche' ai consigli direttivi degli osservatori astronomici, astrofisici e vesuviano. Gli statuti degli atenei stabiliscono la composizione dei consigli di amministrazione. Sono fatte comunque salve le deliberazioni adottate dai consigli di amministrazione delle universita' e degli istituti di istruzione superiore e degli enti di ricerca, nonche' dai consigli direttivi degli osservatori astronomici, astrofisici e vesuviano prima della data di entrata in vigore del presente decreto.
 
 7.
 
@@ -150,7 +150,7 @@ All'[articolo 25, comma 1, della legge 2 dicembre 1991, n. 390](https://www.norm
 1.
 
 Le commissioni giudicatrici nei concorsi a posti di professore universitario si riuniscono in Roma. Il Ministro dell'universita' e della ricerca scientifica e tecnologica puo' tuttavia autorizzare lo svolgimento delle riunioni in sede diversa in casi di comprovata ed eccezionale necessita', segnalati dal presidente della commissione.
-Tale disposizione si applica anche ai concorsi in via di espletamento alla data di entrata in vigore della legge di conversione del presente decreto. E' conseguentemente abrogato il [comma 5 dell'articolo 6 del decreto del Presidente della Repubblica 9 maggio 1994, n. 608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;608#art_6-com5).
+Tale disposizione si applica anche ai concorsi in via di espletamento alla data di entrata in vigore della legge di conversione del presente decreto. E' conseguentemente abrogato il [comma 5 dell'articolo 6 del decreto del Presidente della Repubblica 9 maggio 1994, n. 608](../DPR/Regolamento%20recante%20norme%20sul%20riordino%20degli%20organi%20collegiali%20dello%20Stato.md).
 
 ## Art. 11.
 
@@ -188,7 +188,7 @@ La laurea in scienze internazionali e diplomatiche della facolta' di scienze pol
 
 1.
 
-L'ultimo comma dell'[articolo 51 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_51), come introdotto dall'[articolo 1 della legge 13 agosto 1984, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-08-13;478#art_1), e' abrogato.
+L'ultimo comma dell'[articolo 51 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), come introdotto dall'[articolo 1 della legge 13 agosto 1984, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-08-13;478#art_1), e' abrogato.
 
 ## Art. 16.
 
@@ -201,7 +201,7 @@ Al [comma 3 dell'articolo 12 della legge 19 novembre 1990, n. 341](https://www.n
 1.
 
 Le disposizioni di cui all'[articolo 7, comma 10, della legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168#art_7-com10), nonche', per la stessa materia, quelle recate dall'[articolo 4, comma 2, del decreto legislativo 3 febbraio 1993, n. 
-29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), dall'[articolo 5, comma 21, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_5-com21), e dall'[articolo 3, comma 8, della legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20#art_3-com8), vanno interpretate nel senso che i provvedimenti di nomina, promozione e cessazione dal servizio del personale delle universita' restano soggetti ai controlli delle ragionerie regionali dello Stato.
+29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), dall'[articolo 5, comma 21, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e dall'[articolo 3, comma 8, della legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20#art_3-com8), vanno interpretate nel senso che i provvedimenti di nomina, promozione e cessazione dal servizio del personale delle universita' restano soggetti ai controlli delle ragionerie regionali dello Stato.
 
 ## Art. 18.
 
@@ -219,13 +219,13 @@ Sono ammessi alle scuole di specializzazione i laureati in medicina e chirurgia 
 
 1.
 
-Le disposizioni di cui all'[articolo 6 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303#art_6), non si applicano alle universita'.
+Le disposizioni di cui all'[articolo 6 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md), non si applicano alle universita'.
 
 ## Art. 21.
 
 1.
 
-I soggetti di cui all'[articolo 65, primo comma, della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_65-com1), sono tenuti ad operare annualmente la riserva di cui all'[articolo 3 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_3). I contratti concernenti la vendita, l'uso o la locazione finanziaria degli immobili di cui all'[articolo 3 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_3), devono essere definiti dai soggetti interessati entro il 30 giugno 1995.
+I soggetti di cui all'[articolo 65, primo comma, della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_65-com1), sono tenuti ad operare annualmente la riserva di cui all'[articolo 3 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md). I contratti concernenti la vendita, l'uso o la locazione finanziaria degli immobili di cui all'[articolo 3 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md), devono essere definiti dai soggetti interessati entro il 30 giugno 1995.
 
 2.
 

@@ -14,9 +14,9 @@ PRIMO MINISTRO SEGRETARIO DI STATO
 
 Visto l'accordo economico collettivo per la disciplina del commercio librario, stipulato il 1° gennaio 1935-XIII, tra la Federazione nazionale fascista degli industriali editori e la Federazione nazionale fascista dei commercianti del libro, della carta od affini, ai sensi dell'[art. 12, della legge 20 marzo 1930, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-03-20;206#art_12);
 
-Visto il parere espresso dalla Corporazione della carta e della stampa, nella seduta, del 18 marzo 1935-XIII, ai sensi dell'[art. 9 della legge 5 febbraio 1934, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;163#art_9);
+Visto il parere espresso dalla Corporazione della carta e della stampa, nella seduta, del 18 marzo 1935-XIII, ai sensi dell'[art. 9 della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md);
 
-Vista l'approvazione data dal Comitato corporativo centrale subordinatamente all'accoglimento di alcune modificazioni, nella seduta del 1° maggio 1935-XIII, ai sensi del [R. decreto-legge 18 aprile 1935, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-18;441);
+Vista l'approvazione data dal Comitato corporativo centrale subordinatamente all'accoglimento di alcune modificazioni, nella seduta del 1° maggio 1935-XIII, ai sensi del [R. decreto-legge 18 aprile 1935, n. 441](Norme%20sulle%20attribuzioni%20del%20Comitato%20corporativo%20centrale.%20035U0441.md);
 
 Ritenuto che le Associazioni stipulanti hanno accolto le modificazioni richieste dal Comitato corporativo centrale;
 

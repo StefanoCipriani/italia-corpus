@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 1.
 
-L'autorizzazione di spesa di cui all'[articolo 7 del decreto-legge 19 settembre 1987, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-19;384#art_7), convertito, con modificazioni, dalla [legge 19 novembre 1987, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-19;470), e' aumentata di lire 35 miliardi per l'anno 1988, da utilizzare con le modalita' di cui al comma 2 del medesimo articolo.
+L'autorizzazione di spesa di cui all'[articolo 7 del decreto-legge 19 settembre 1987, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-19;384#art_7), convertito, con modificazioni, dalla [legge 19 novembre 1987, n. 470](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201987%20n.%20384%20recante%20disposizioni%20urgenti%20in%20favore%20dei%20comuni%20della%20Valtellina%20della%20Val%20Formazza%20della%20Val%20Brembana%20_535b0b725588.md), e' aumentata di lire 35 miliardi per l'anno 1988, da utilizzare con le modalita' di cui al comma 2 del medesimo articolo.
 
 ## Art. 2.
 
@@ -52,7 +52,7 @@ Si applicano le disposizioni dell'[articolo 3 della legge 28 ottobre 1986, n. 73
 
 4.
 
-La [lettera a) del comma 7 dell'articolo 13-noviesdecies del decreto-legge 26 maggio 1984, n. 159](Interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dai%20movimenti%20sismici%20del%2029%20aprile%201984%20in%20Umbria%20e%20del%207%20ed%2011%20maggio%201984%20in%20Abruzzo%20Molise%20Lazio%20e%20Campania.md), convertito, con modificazione, dalla [legge 24 luglio 1984, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-24;363), deve intendersi nel senso che i decreti di affidamento debbono riguardare l'intera previsione progettuale comunque esaminata, anche nel caso in cui l'esecuzione dei lavori venga concessa nei limiti dei fondi disponibili.
+La [lettera a) del comma 7 dell'articolo 13-noviesdecies del decreto-legge 26 maggio 1984, n. 159](Interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dai%20movimenti%20sismici%20del%2029%20aprile%201984%20in%20Umbria%20e%20del%207%20ed%2011%20maggio%201984%20in%20Abruzzo%20Molise%20Lazio%20e%20Campania.md), convertito, con modificazione, dalla [legge 24 luglio 1984, n. 363](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20maggio%201984%20n.%20159%20recante%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dai%20movimenti%20sismici%20del%2029%20aprile%201984%20in%20U_4296779cf010.md), deve intendersi nel senso che i decreti di affidamento debbono riguardare l'intera previsione progettuale comunque esaminata, anche nel caso in cui l'esecuzione dei lavori venga concessa nei limiti dei fondi disponibili.
 
 5.
 

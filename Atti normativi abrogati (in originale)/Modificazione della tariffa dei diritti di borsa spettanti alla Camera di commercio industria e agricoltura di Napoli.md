@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 1° maggio 1925, n. 707](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-01;707), col quale venne approvata la tariffa dei diritti per la quotazione dei titoli presso la Borsa valori di Napoli;
+Visto il [regio decreto 1° maggio 1925, n. 707](Approvazione%20della%20tariffa%20dei%20diritti%20per%20la%20quotazione%20dei%20titoli%20presso%20la%20Borsa%20di%20Napoli.%20025U0707.md), col quale venne approvata la tariffa dei diritti per la quotazione dei titoli presso la Borsa valori di Napoli;
 
-Visto il [regio decreto 25 giugno 1926, n. 1221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-25;1221), col quale venne stabilito il diritto sulle tessere di accesso ai recinti riservati della Borsa valori di Napoli;
+Visto il [regio decreto 25 giugno 1926, n. 1221](Diritto%20sulle%20tessere%20di%20accesso%20alla%20Borsa%20dei%20valori%20di%20Napoli.%20026U1221.md), col quale venne stabilito il diritto sulle tessere di accesso ai recinti riservati della Borsa valori di Napoli;
 
-Visto il [regio decreto 3 agosto 1934, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-08-03;1334), col quale fu modificata la tariffa dei diritti per il rilascio delle tessere suddette;
+Visto il [regio decreto 3 agosto 1934, n. 1334](Tariffa%20dei%20diritti%20di%20Borsa%20spettanti%20al%20Consiglio%20provinciale%20delleconomia%20corporativa%20di%20Napoli.%20034U1334.md), col quale fu modificata la tariffa dei diritti per il rilascio delle tessere suddette;
 
 Vista la [deliberazione in data 11 dicembre 1946, n. 645, della Camera di commercio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:camera.commercio:delibera:1946-12-11;645) di Napoli, con la quale sono state proposte modifiche alle tariffe suddette;
 
-Visto l'[art. 53 del regio decreto 20 settembre 1934, n. 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;2011#art_53), col quale si stabilisce la forma e l'organo competente per l'emanazione dei provvedimenti riguardanti i diritti di borsa;
+Visto l'[art. 53 del regio decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), col quale si stabilisce la forma e l'organo competente per l'emanazione dei provvedimenti riguardanti i diritti di borsa;
 
 Sulla proposta del Ministro Segretario di Stato per le finanze e il tesoro; Decreta:
 

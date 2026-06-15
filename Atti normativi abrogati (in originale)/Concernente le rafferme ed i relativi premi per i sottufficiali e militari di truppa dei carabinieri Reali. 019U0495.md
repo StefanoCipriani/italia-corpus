@@ -20,9 +20,9 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la legge di ordinamento del R. esercito, testo unico approvato con [R. decreto n. 525 del 14 luglio 1898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;525), e successive modificazioni;
+Vista la legge di ordinamento del R. esercito, testo unico approvato con [R. decreto n. 525 del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
 
-Viste le [leggi n. 506 del,19 luglio 1909 e n. 684 del 6 luglio 1911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;684);
+Viste le [leggi n. 506 del,19 luglio 1909 e n. 684 del 6 luglio 1911](Concernente%20la%20riduzione%20della%20ferma%20dei%20carabinieri%20reali.%20011U0684.md);
 
 Visto il Nostro decreto n. 494 di pari data del presente riguardante l'organico, l'avanzamento ed il trattamento economico dei sottufficiali e militari di truppa dell'arma dei carabinieri Reali;
 
@@ -70,7 +70,7 @@ Perdono di pieno diritto i benefici della rafferma in corso:
  
  b) i raffermati condannati dai tribunali ordinari per reati di carattere indecoroso; 
  
- c) i raffermati condannati per reati previsti dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare; 
+ c) i raffermati condannati per reati previsti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare; 
  
  d) i raffermati che Contraggono matrimonio senza autorizzazione. 
  
@@ -108,7 +108,7 @@ Le rafferme, sia triennali che annuali, vengono concesse a coloro che riuniscono
 
 ## Art. 11.
 
-La [legge 19 luglio 1909, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;506) e' abrogata per quanto riguarda i sottufficiali e militari di truppa dell'arma dei carabinieri Reali.
+La [legge 19 luglio 1909, n. 506](Rafferme%20per%20i%20militari%20del%20R.%20esercito.%20009U0506.md) e' abrogata per quanto riguarda i sottufficiali e militari di truppa dell'arma dei carabinieri Reali.
 E' anche abrogata ogni altra disposizione contraria al presente decreto.
 
 ### Art. 12.

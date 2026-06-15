@@ -14,7 +14,7 @@ Visto l'[art. 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Ritenuta la necessita' di emanare norme intese a rendere uniforme ed omogenea la riorganizzazione, da parte delle regioni a statuto ordinario, degli enti operanti nel settore dell'edilizia residenziale pubblica;
 
-Ritenuta l'urgenza, in pendenza dell'emanazione di tale normativa, di prorogare il termine del 1 gennaio 1979, stabilito nel [secondo comma dell'art. 93 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_93-com2), per l'inizio, da parte delle regioni, dell'esercizio del potere di riorganizzazione degli enti in parola;
+Ritenuta l'urgenza, in pendenza dell'emanazione di tale normativa, di prorogare il termine del 1 gennaio 1979, stabilito nel [secondo comma dell'art. 93 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), per l'inizio, da parte delle regioni, dell'esercizio del potere di riorganizzazione degli enti in parola;
 
 Considerato che il nuovo termine deve essere fissato nella misura necessaria per la definizione della procedura legislativa delle emanande norme;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro dei lavori pubblici, di concerto con i Ministri del 
 
 ## Art. 1.
 
-La data del 1 gennaio 1979, indicata nel [secondo comma dell'art. 93 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_93-com2), per l'esercizio, da parte delle regioni a statuto ordinario, del potere di stabilire soluzioni organizzative diverse per gli enti pubblici operanti nel settore dell'edilizia residenziale pubblica, e' sostituita con la data del 31 marzo 1979.
+La data del 1 gennaio 1979, indicata nel [secondo comma dell'art. 93 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), per l'esercizio, da parte delle regioni a statuto ordinario, del potere di stabilire soluzioni organizzative diverse per gli enti pubblici operanti nel settore dell'edilizia residenziale pubblica, e' sostituita con la data del 31 marzo 1979.
 
 ## Art. 2.
 

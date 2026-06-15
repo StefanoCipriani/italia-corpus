@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1607](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-30;1607), col quale si da' facolta' ai Comuni che conservano fino al 31 dicembre 1933 l'amministrazione delle scuole elementari, di procedere all'estensione delle graduatorie dei concorsi magistrali da essi banditi e tuttora validi. 
+ E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1607](Facolta%20ai%20Comuni%20che%20conservano%20fino%20al%2031%20dicembre%201933%20lamministrazione%20delle%20scuole%20elementari%20di%20procedere%20allestensione%20delle%20graduatorie%20dei%20concorsi%20magistrali%20da%20essi%20banditi%20e%20t_b8fee2a78fd9.md), col quale si da' facolta' ai Comuni che conservano fino al 31 dicembre 1933 l'amministrazione delle scuole elementari, di procedere all'estensione delle graduatorie dei concorsi magistrali da essi banditi e tuttora validi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella l'accolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

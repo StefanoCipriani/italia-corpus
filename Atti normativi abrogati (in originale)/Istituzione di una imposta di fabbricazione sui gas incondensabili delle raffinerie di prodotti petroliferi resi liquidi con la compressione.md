@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [regio decreto-legge 28 febbraio 1939, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-28;334), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), e le successive modificazioni;
+Visto il [regio decreto-legge 28 febbraio 1939, n. 334](Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20minerali%20e%20sui%20prodotti%20della%20loro%20lavorazione%20in%20sostituzione%20della%20preesistente%20tassa%20di%20vendita.%20039U0334.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), e le successive modificazioni;
 
 Ritenuta la straordinaria necessita' e l'urgenza di istituire una imposta di fabbricazione sui gas incondensabili delle raffinerie di prodotti petroliferi resi liquidi con la compressione;
 
@@ -41,7 +41,7 @@ E' concessa la restituzione dell'imposta di fabbricazione sui gas liquefatti esp
 
 ## Art. 5.
 
-Per quanto non stabilito dal presente decreto valgono le disposizioni del [regio decreto-legge 28 febbraio 1939, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-28;334), e successive sue modificazioni, in quanto applicabili.
+Per quanto non stabilito dal presente decreto valgono le disposizioni del [regio decreto-legge 28 febbraio 1939, n. 334](Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20minerali%20e%20sui%20prodotti%20della%20loro%20lavorazione%20in%20sostituzione%20della%20preesistente%20tassa%20di%20vendita.%20039U0334.md), e successive sue modificazioni, in quanto applicabili.
 
 ## Art. 6.
 

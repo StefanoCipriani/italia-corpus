@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 10 della legge 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730#art_10);
+Visto l'[articolo 10 della legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md);
 
 Ritenuta la necessita' e l'urgenza di assicurare al comune di Napoli i mezzi finanziari indispensabili per far fronte alle piu' impellenti necessita' del comune stesso;
 
@@ -26,11 +26,11 @@ EMANA il seguente decreto:
 
 1.
 
-In deroga a quanto previsto dall'[articolo 10 della legge 27 dicembre 1983, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730#art_10), la quota del quaranta per cento dei contributi statali per l'anno 1984 di cui all'[articolo 2-bis del decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55#art_2bis), convertito, con modificazioni, nella [legge 26 aprile 1983, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-26;131), spettante al comune di Napoli e' erogata dal Ministero dell'interno entro trenta giorni dalla data di entrata in vigore del presente decreto.
+In deroga a quanto previsto dall'[articolo 10 della legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md), la quota del quaranta per cento dei contributi statali per l'anno 1984 di cui all'[articolo 2-bis del decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55#art_2bis), convertito, con modificazioni, nella [legge 26 aprile 1983, n. 131](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201983%20n.%2055%20recante%20provvedimenti%20urgenti%20per%20il%20settore%20della%20finanza%20locale%20per%20lanno%201983.md), spettante al comune di Napoli e' erogata dal Ministero dell'interno entro trenta giorni dalla data di entrata in vigore del presente decreto.
 
 2.
 
-Il tesoriere del comune di Napoli, anche in deroga al limite di cui al [primo comma dell'articolo 6 della legge 21 dicembre 1978, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-21;843#art_6-com1), e' autorizzato ad effettuare anticipazioni straordinarie per un importo non superiore alla erogazione che verra' disposta dal Ministero dell'interno ai sensi del precedente comma 1; il comune di Napoli e' tenuto a destinare la predetta erogazione alla immediata estinzione delle anticipazioni straordinarie, che comunque cessano dal produrre interessi dal settimo giorno successivo all'accreditamento della suddetta quota del quaranta per cento alla contabilita' speciale intestata al comune medesimo.
+Il tesoriere del comune di Napoli, anche in deroga al limite di cui al [primo comma dell'articolo 6 della legge 21 dicembre 1978, n. 843](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria.md), e' autorizzato ad effettuare anticipazioni straordinarie per un importo non superiore alla erogazione che verra' disposta dal Ministero dell'interno ai sensi del precedente comma 1; il comune di Napoli e' tenuto a destinare la predetta erogazione alla immediata estinzione delle anticipazioni straordinarie, che comunque cessano dal produrre interessi dal settimo giorno successivo all'accreditamento della suddetta quota del quaranta per cento alla contabilita' speciale intestata al comune medesimo.
 
 3.
 

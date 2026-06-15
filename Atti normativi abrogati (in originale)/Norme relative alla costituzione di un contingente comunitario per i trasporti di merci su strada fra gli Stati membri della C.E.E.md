@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 13 ottobre 1969, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-13;740), concernente delega al Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.) per la durata della terza tappa;
+Vista la [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md), concernente delega al Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.) per la durata della terza tappa;
 
 Visto il regolamento del consiglio delle Comunita' europee n. 1018/68 emanato il 19 luglio 1968 concernente la costituzione di un contingente comunitario per i trasporti di merci su strada fra Stati membri;
 
 Visto il [regolamento n. 1224/68](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1968;1224) emanato dalla commissione delle Comunita' europee in data 9 agosto 1968 che stabilisce i modelli di autorizzazione comunitaria e i formulari per ottenere informazioni statistiche circa l'utilizzazione delle autorizzazioni comunitarie di cui al citato [regolamento n. 1018/68 del 19 luglio 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1968-07-19;1018);
 
-Sentita la commissione parlamentare di cui all'[articolo 3 della legge 13 ottobre 1969, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-13;740#art_3);
+Sentita la commissione parlamentare di cui all'[articolo 3 della legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -75,7 +75,7 @@ La prevenzione e l'accertamento delle infrazioni al presente decreto, sia nei co
 
 ## Art. 9.
 
-Le spese derivanti dall'attuazione del presente decreto, conseguenti all'applicazione dell'art. 75 del trattato istitutivo della Comunita' economica europea, saranno fronteggiate, unitamente alle altre che trovano riferimento nel predetto articolo, con il fondo di lire 400 milioni autorizzato dall'[art. 4 della legge 13 ottobre 1969, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-13;740#art_4).
+Le spese derivanti dall'attuazione del presente decreto, conseguenti all'applicazione dell'art. 75 del trattato istitutivo della Comunita' economica europea, saranno fronteggiate, unitamente alle altre che trovano riferimento nel predetto articolo, con il fondo di lire 400 milioni autorizzato dall'[art. 4 della legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

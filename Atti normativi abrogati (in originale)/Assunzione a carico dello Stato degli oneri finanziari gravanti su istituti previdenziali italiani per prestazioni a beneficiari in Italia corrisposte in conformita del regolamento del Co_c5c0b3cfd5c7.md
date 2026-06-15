@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 13 ottobre 1969, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-13;740), recante delega al Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.) per la durata della III tappa e stanziamenti di fondi necessari a coprire le spese derivanti dall'applicazione della legge stessa;
+Vista la [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md), recante delega al Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.) per la durata della III tappa e stanziamenti di fondi necessari a coprire le spese derivanti dall'applicazione della legge stessa;
 
-Vista la [legge n. 1203 del 14 ottobre 1957](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-14;1203), che ratifica il trattato istitutivo della Comunita' economica europea;
+Vista la [legge n. 1203 del 14 ottobre 1957](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), che ratifica il trattato istitutivo della Comunita' economica europea;
 
 Visto l'art. 51 del trattato predetto;
 
 Visto il regolamento del Consiglio della Comunita' economica europea 25 settembre 1958, n. 3, per la sicurezza sociale dei lavoratori migranti, e successive modificazioni e integrazioni;
 
-Sentita la commissione parlamentare di cui all'art. 3 della precitata [legge 13 ottobre 1969, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-13;740);
+Sentita la commissione parlamentare di cui all'art. 3 della precitata [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md);
 
 Sentito il Consiglio dei Ministri;
 

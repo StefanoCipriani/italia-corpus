@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 febbraio 1922, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-02-16;380), riguardante il Commissario del Governo presso Commissione delle prede. 
+ E' convertito in legge il [R. decreto-legge 16 febbraio 1922, n. 380](Portante%20modificazione%20a%20quello%2022%20febbraio%201920%20n.%20207%20per%20quanto%20riguarda%20le%20funzioni%20esercitate%20dal%20commissario%20del%20Governo%20presso%20la%20Commissione%20delle%20prede.%20022U0380.md), riguardante il Commissario del Governo presso Commissione delle prede. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e farla osservare come legge dello Stato. 
  

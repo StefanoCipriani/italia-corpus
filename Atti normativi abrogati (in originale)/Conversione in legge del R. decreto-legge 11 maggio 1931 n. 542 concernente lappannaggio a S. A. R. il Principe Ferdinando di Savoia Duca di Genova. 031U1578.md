@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 maggio 1931, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-05-11;542), concernente l'appannaggio a S. A. R. il Principe Ferdinando di Savoia, Duca di Genova. 
+ E' convertito in legge il [R. decreto-legge 11 maggio 1931, n. 542](Appannaggio%20a%20S.%20A.%20R.%20il%20Principe%20Ferdinando%20di%20Savoia%20Duca%20di%20Genova.%20031U0542.md), concernente l'appannaggio a S. A. R. il Principe Ferdinando di Savoia, Duca di Genova. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 17 dicembre 1931 - Anno X 
  

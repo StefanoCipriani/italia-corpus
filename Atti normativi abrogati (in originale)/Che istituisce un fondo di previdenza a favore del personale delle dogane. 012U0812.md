@@ -16,7 +16,7 @@ E' istituito un fondo di previdenza a favore del personale delle dogane.
 
 ## Art. 2.
 
-Le somme da ripartirsi per contravvenzioni scoperte dal personale delle dogane o della R. guardia di finanza, nei casi in cui sia applicabile l'art. 119 della legge doganale, testo unico approvato con [R. decreto del 26 gennaio 1896, n. 20, o l'art. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-01-26;20#art_85) della legge sui dazi di consumo, testo unico approvato con [R. decreto del 7 maggio 1908, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-07;248), saranno assegnate, in parti centesimali, come segue: 
+Le somme da ripartirsi per contravvenzioni scoperte dal personale delle dogane o della R. guardia di finanza, nei casi in cui sia applicabile l'art. 119 della legge doganale, testo unico approvato con [R. decreto del 26 gennaio 1896, n. 20, o l'art. 85](Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md) della legge sui dazi di consumo, testo unico approvato con [R. decreto del 7 maggio 1908, n. 248](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sui%20dazi%20interni%20di%20consumo.%20008U0248.md), saranno assegnate, in parti centesimali, come segue: 
  
  a) cinquanta parti agli scopritori, ferma restando l'assegnazione di una doppia quota a chi abbia diretto la forza; 
  

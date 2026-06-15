@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato per le finanze, sentito il Consi
 
 ## Art. 1.
 
-Dove ancora non e' formato il nuovo catasto, ordinato dalla [legge 1° marzo 1886, n. 3682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-03-01;3682) (serie 3ª), la rendita catastale dei terreni, nei quali, a causa del «Marciume radicale», venga a mancare almeno la meta' del prodotto ordinario degli agrumi, sara' determinata considerando i terreni stessi spogli di agrumi e destinati a quella fra le colture di suolo in uso nel Comune o nei Comuni limitrofi, che meglio si adatti alle loro condizioni. 
+Dove ancora non e' formato il nuovo catasto, ordinato dalla [legge 1° marzo 1886, n. 3682](Riordinamento%20dellimposta%20fondiaria.%20086U3682.md) (serie 3ª), la rendita catastale dei terreni, nei quali, a causa del «Marciume radicale», venga a mancare almeno la meta' del prodotto ordinario degli agrumi, sara' determinata considerando i terreni stessi spogli di agrumi e destinati a quella fra le colture di suolo in uso nel Comune o nei Comuni limitrofi, che meglio si adatti alle loro condizioni. 
  
  Qualora si proceda alla sostituzione con altri agrumi, le nuove piantagioni godranno dell'esenzione decennale dall'imposta, di cui all'[art. 1 del decreto Luogotenenziale 29 luglio 1917, n. 1318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-07-29;1318#art_1).
 Trascorsi i dieci anni, vi saranno assoggettate, determinandone la rendita catastale con i criteri di stima stabiliti per la formazione del catasto.

@@ -16,8 +16,8 @@ UMBERTO DI SAVOIA
 
  In virtu' dell'autorita' a Noi delegata;
  Visto Il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [Regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e successive modificazioni;
- Visto il [R. decreto 4 maggio 1925, n. 1126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;1126), col quale e' stata approvata la convenzione stipulata il 18 aprile 1925 per la concessione al sig. Giacomo Cantoni dell'esercizio della tramvia a vapore da Udine a S. Daniele, per anni 18 a decorrere dalla data del decreto stesso;
- Visto il [R. decreto legge 26 giugno 1927, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-26;1570);
+ Visto il [R. decreto 4 maggio 1925, n. 1126](Approvazione%20della%20convenzione%20per%20la%20concessione%20dellesercizio%20della%20tramvia%20a%20vapore%20da%20Udine%20a%20San%20Daniele.%20025U1126.md), col quale e' stata approvata la convenzione stipulata il 18 aprile 1925 per la concessione al sig. Giacomo Cantoni dell'esercizio della tramvia a vapore da Udine a S. Daniele, per anni 18 a decorrere dalla data del decreto stesso;
+ Visto il [R. decreto legge 26 giugno 1927, n. 1570](Passaggio%20dellIspettorato%20generale%20delle%20ferrovie%20tramvie%20ed%20automobili%20dal%20Ministero%20dei%20lavori%20pubblici%20a%20quello%20delle%20comunicazioni.%20027U1570.md);
  Considerato che con atto 12 aprile 1940, n. 14201, di repertorio notar Cavalieri Alfredo di Udine, la concessionaria ditta ing.
 Giacomo Cantoni si trasformava nella "Societa' Anonima Trasporti Interurbani" (S.A.T.I.), con sede in Udine;
  Vista l'istanza in data 25 gennaio 1943, con la quale la Societa' Anonima Trasporti Interurbani chiese che l'esercizio della tramvia fosse protratto fino ad un anno dopo la dichiarazione di cessazione dello stato di guerra;

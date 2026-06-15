@@ -12,7 +12,7 @@ vigente: true
 
 Le disposizioni dalle quali, nel titolo XVI del libro primo del Codice commerciale, sono regolate le fedi di deposito e le note di pegno sulla merce custodita nei magazzini generali, sono applicabili eziandio alle merci custodite sotto il diverso regime doganale, nei depositi franchi stabilito dalla [legge 6 agosto 1876 n. 3261](Concernente%20la%20istituzione%20di%20depositi%20franchi%20nelle%20principali%20piazze%20marittime%20del%20Regno.%20076U3261.md). 
  
- Del pari sono applicabili alle stesse merci le disposizioni degli [art. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-12-17;1154#art_9) e [11 del R. decreto 17 dicembre 1882 n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-12-17;1154#art_11).
+ Del pari sono applicabili alle stesse merci le disposizioni degli [art. 9](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sui%20magazzini%20generali%20082U1154.md) e [11 del R. decreto 17 dicembre 1882 n. 1154](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sui%20magazzini%20generali%20082U1154.md).
 
 ## Art. 2.
 

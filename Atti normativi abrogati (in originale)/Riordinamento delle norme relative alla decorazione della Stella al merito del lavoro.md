@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La decorazione della "Stella al merito del lavoro", istituita con [regio decreto 30 dicembre 1923, n. 3167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3167), e' concessa esclusivamente ai lavoratori subordinati d'ambo i sessi dipendenti da imprese private o da imprese cooperative, anche se soci di queste ultime, i quali si segnalino per singolari meriti di perizia, di laboriosita' e di buona condotta morale.
+La decorazione della "Stella al merito del lavoro", istituita con [regio decreto 30 dicembre 1923, n. 3167](Istituzione%20della%20decorazione%20della%20Stella%20al%20merito%20del%20lavoro.%20023U3167.md), e' concessa esclusivamente ai lavoratori subordinati d'ambo i sessi dipendenti da imprese private o da imprese cooperative, anche se soci di queste ultime, i quali si segnalino per singolari meriti di perizia, di laboriosita' e di buona condotta morale.
 
 ## Art. 2.
 
@@ -62,14 +62,14 @@ Decorsi quindici anni dal conferimento della decorazione della "Stella al merito
 ## Art. 9.
 
 La decorazione della "Stella al merito del lavoro" consiste in una stella a cinque punte in smalto bianco.
- Il centro e' in smalto color verde chiaro e reca sulla faccia diritta un rilievo in argento dorato, raffigurante la testa d'Italia turrita e sul rovescio la scritta "Al merito del lavoro" con l'indicazione dell'anno di fondazione (1924). Essa sara' conforme al disegno annesso al [regio decreto 25 gennaio 1925, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-25;120).
+ Il centro e' in smalto color verde chiaro e reca sulla faccia diritta un rilievo in argento dorato, raffigurante la testa d'Italia turrita e sul rovescio la scritta "Al merito del lavoro" con l'indicazione dell'anno di fondazione (1924). Essa sara' conforme al disegno annesso al [regio decreto 25 gennaio 1925, n. 120](Modificazioni%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203167%20concernente%20la%20istituzione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20025U0120.md).
  Per i lavoratori italiani residenti all'estero sul tergo della Stella saranno aggiunte le parole "all'estero".
  La decorazione sara' portata al lato sinistro del vestito appesa ad un nastro listato di una banda color verde chiaro fra due bande, di uguale larghezza, di colore giallo oro.
  Il nastro puo' essere portato senza la Stella.
 
 ## Art. 10.
 
-Sono abrogate le disposizioni del [regio decreto 30 dicembre 1923, n. 3167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3167), ed ogni altra norma incompatibile con la presente legge.
+Sono abrogate le disposizioni del [regio decreto 30 dicembre 1923, n. 3167](Istituzione%20della%20decorazione%20della%20Stella%20al%20merito%20del%20lavoro.%20023U3167.md), ed ogni altra norma incompatibile con la presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

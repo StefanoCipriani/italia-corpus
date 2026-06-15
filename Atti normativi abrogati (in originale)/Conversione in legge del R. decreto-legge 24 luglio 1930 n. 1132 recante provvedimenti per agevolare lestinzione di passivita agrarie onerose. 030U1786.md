@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 luglio 1930, n. 1132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-24;1132), recante provvedimenti per agevolare l'estinzione di passivita' agrarie onerose. 
+ E' convertito in legge il [R. decreto-legge 24 luglio 1930, n. 1132](Provvedimenti%20per%20agevolare%20lestinzione%20di%20passivita%20agrarie%20onerose.%20030U1132.md), recante provvedimenti per agevolare l'estinzione di passivita' agrarie onerose. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiuque spetti di osservarla e di farla osservare come legge dello Stato. 
  

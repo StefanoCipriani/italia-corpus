@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 3, comma 133, lettera q), della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com133-letq), recante delega al Governo per l'emanazione di uno o piu' decreti legislativi per l'adeguamento delle disposizioni sanzionatorie, attualmente contenute nelle singole leggi di imposta, ai principi e criteri direttivi stabiliti con il decreto legislativo recante i principi generali della revisione organica e del completamento della disciplina delle sanzioni tributarie non penali;
+Visto l'[articolo 3, comma 133, lettera q), della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), recante delega al Governo per l'emanazione di uno o piu' decreti legislativi per l'adeguamento delle disposizioni sanzionatorie, attualmente contenute nelle singole leggi di imposta, ai principi e criteri direttivi stabiliti con il decreto legislativo recante i principi generali della revisione organica e del completamento della disciplina delle sanzioni tributarie non penali;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 luglio 1997;
 
@@ -32,7 +32,7 @@ Capo I
 
 1.
 
-Al testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), sono apportate le seguenti modificazioni:
+Al testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 55, nel terzo comma, le parole "delle soprattasse e delle pene pecuniarie" sono sostituite dalle seguenti: "e delle sanzioni amministrative";
                             b)
@@ -57,7 +57,7 @@ Al testo unico delle disposizioni concernenti l'imposta di registro, approvato c
                                 sono abrogati il terzo comma dell'articolo 56 e gli articoli 70 e 75.
 
 Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificato o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificato o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti. 
@@ -81,7 +81,7 @@ Avvertenza:
 
 1.
 
-Al testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, approvato con [decreto legislativo 31 ottobre 1990, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-10-31;346), sono apportate le seguenti modificazioni:
+Al testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, approvato con [decreto legislativo 31 ottobre 1990, n. 346](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20sulle%20successioni%20e%20donazioni.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 37, comma 3, la parola "soprattasse" e' sostituita dalle seguenti: "sanzioni amministrative";
                             b)
@@ -151,7 +151,7 @@ Nota all'art. 3:
 
 1.
 
-Al testo unico delle disposizioni concernenti le imposte ipotecaria e catastale, approvato con [decreto legislativo 31 ottobre 1990, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-10-31;347), sono apportate le seguenti modificazioni:
+Al testo unico delle disposizioni concernenti le imposte ipotecaria e catastale, approvato con [decreto legislativo 31 ottobre 1990, n. 347](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md), sono apportate le seguenti modificazioni:
                             a)
                                 l'articolo 9 e' sostituito dal seguente: 
  "Art. 9 (Sanzioni). - 1. Chi omette la richiesta di trascrizione o le annotazioni obbligatorie e' punito con la sanzione amministrativa dal cento al duecento per cento dell'imposta. 
@@ -159,7 +159,7 @@ Al testo unico delle disposizioni concernenti le imposte ipotecaria e catastale,
                             b)
                                 all'articolo 17, nel comma 3, le parole "Le soprattasse e le pene pecuniarie" sono sostituite dalle seguenti: "Le sanzioni amministrative" e nel comma 5 le parole ", soprattasse e pene pecuniarie" sono sostituite dalle seguenti: "e sanzioni amministrative";
                             c)
-                                e' abrogato il comma 3-bis dell'articolo 9, introdotto dall'[articolo 11, comma 2, lettera b) del decreto-legge 28 marzo 1997, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79#art_11-com2-letb), convertito, con modificazioni dalla [legge 28 maggio 1997, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-28;140).
+                                e' abrogato il comma 3-bis dell'articolo 9, introdotto dall'[articolo 11, comma 2, lettera b) del decreto-legge 28 marzo 1997, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79#art_11-com2-letb), convertito, con modificazioni dalla [legge 28 maggio 1997, n. 140](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20marzo%201997%20n.%2079%20recante%20misure%20urgenti%20per%20il%20riequilibrio%20della%20finanza%20pubblica.md).
 
 Note all'art. 4:
  - Si riporta il testo dei commi 3 e 5 dell'art. 17 del DLg. n. 347 del 1990 in materia di imposte ipotecaria e catastale, cosi' modificati dall'art. 4 del presente decreto:
@@ -179,7 +179,7 @@ Capo II
 
 1.
 
-Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642), recante disciplina dell'imposta di bollo, sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md), recante disciplina dell'imposta di bollo, sono apportate le seguenti modificazioni:
                             a)
                                 nell'articolo 20, secondo comma, nell'articolo 34, primo comma, e nell'articolo 38, primo comma, le parole "pene pecuniarie" sono sostituite dalle seguenti: "sanzioni amministrative";
                             b)
@@ -210,7 +210,7 @@ Note all'art. 5:
  - Si riportano i testi del [comma 2 dell'art. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;642#art_20-com2), dell'[art. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;642#art_34), nonche' dell'[art. 38 del D.P.R. n. 642 del 1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;642#art_38), cosi' modificati dall'art. 5 del presente decreto:
  "Art. 20 (Cambiale, vaglia cambiario e assegno bancario irregolari di bollo). - Il portatore o possessore, non puo' esercitare i diritti cambiari inerenti al titolo se non abbia corrisposto l'imposta di bollo e pagato le relative sanzioni amministrative".
  "Art. 34 (Accertamento delle violazioni). - Per l'accertamento delle violazioni delle norme del presente decreto e per l'applicazione delle sanzioni amministrative si osservano le disposizioni della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4)".
- "Art. 38 (Ripartizione delle sanzioni amministrative). - Le somme riscosse per le sanzioni amministrative previste dal presente decreto sono ripartite a norma della [legge 7 febbraio 1951, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-02-07;168)".
+ "Art. 38 (Ripartizione delle sanzioni amministrative). - Le somme riscosse per le sanzioni amministrative previste dal presente decreto sono ripartite a norma della [legge 7 febbraio 1951, n. 168](Ripartizione%20dei%20proventi%20delle%20sanzioni%20pecuniarie%20dovute%20per%20violazioni%20alle%20leggi%20tributarie.md)".
  - Si riporta il testo del comma 1 dell'art. 22 del citato D.P.R., cosi' modificato dall'art. 5 del presente decreto:
  "Art. 22 (Solidarieta'). - Sono obbligati in solido per il pagamento dell'imposta e delle eventuali sanzioni amministrative:
  1) tutte le parti che sottoscrivono, rivevono, accettano o negoziano atti, documenti o registri non in regola con le disposizioni del presente decreto ovvero li enunciano o li allegano ad altri atti o documenti;
@@ -230,8 +230,8 @@ Note all'art. 5:
  L'autorita' amministrativa, adita a norma del primo comma, ha facolta' di sospendere la riscossione delle imposte in contestazione.".
  - Si riportano il [terzo comma dell'art. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;642#art_22-com3), il [primo comma dell'art. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;642#art_27-com1) nonche' gli [artt. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;642#art_28), [29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;642#art_29) e [34 del D.P.R. n. 642 del 1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;642#art_34), recante disciplina dell'imposta di bollo nel testo abrogato dall'art. 5 del presente decreto:
  "Art. 22 (Solidarieta'). - (Omissis).
- Indipendentemente dalle pene previste dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), il venditore o il locatore delle macchine bollatrici o chi comunque le da' in uso a qualsiasi titolo e' responsabile, in solido con l'utente, della imposta di bollo e delle sanzioni per le infrazioni rese possibili da difetti di costruzione delle macchine, da irregolare fornitura di punzoni o dall'omissione della comunicazione all'amministrazione finanziaria della vendita, della locazione o della dazione in uso delle macchine stesse.".
- "Art. 27. (Violazioni costituenti reati). - Nei casi di falsificazione, contraffazione e alterazione di valori bollati, di bollo a punzone o di attestazioni di pagamento delle imposte di bollo corrisposte in modo virtuale o con visto per bollo o mediamente l'uso di macchine bollatrici, oltre alle sanzioni previste dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) sono applicabili le pene pecuniarie e soprattasse stabilite dal presente decreto per il mancato pagamento dell'imposta ove dovuta.".
+ Indipendentemente dalle pene previste dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il venditore o il locatore delle macchine bollatrici o chi comunque le da' in uso a qualsiasi titolo e' responsabile, in solido con l'utente, della imposta di bollo e delle sanzioni per le infrazioni rese possibili da difetti di costruzione delle macchine, da irregolare fornitura di punzoni o dall'omissione della comunicazione all'amministrazione finanziaria della vendita, della locazione o della dazione in uso delle macchine stesse.".
+ "Art. 27. (Violazioni costituenti reati). - Nei casi di falsificazione, contraffazione e alterazione di valori bollati, di bollo a punzone o di attestazioni di pagamento delle imposte di bollo corrisposte in modo virtuale o con visto per bollo o mediamente l'uso di macchine bollatrici, oltre alle sanzioni previste dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono applicabili le pene pecuniarie e soprattasse stabilite dal presente decreto per il mancato pagamento dell'imposta ove dovuta.".
  "Art. 28 (Pena pecuniaria per l'inosservanza di altre prescrizioni). - Chiunque, fuori dalle ipotesi previste negli articoli precedenti, non osservi le prescrizioni del presente decreto e della allegata tariffa e' soggetto alla pena pecuniaria da lire 8.000 a lire 120.000 per ciascuna infrazione.".
  "Art. 29 (Soprattassa per omesso o insufficiente pagamento dell'imposta). - Per l'omesso od insufficiente pagamento dell'imposta dovuta in modo virtuale, si applica una soprattassa pari al 10 per cento dell'imposta non versata.
  La soprattassa di cui al comma precedente e' ridotta alla meta' se il pagamento avviene entro il mese successivo alla scadenza e comunque prima della notifica della ingiunzione.".
@@ -275,7 +275,7 @@ Note all'art. 6:
 
 1.
 
-Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;640), concernente l'imposta sugli spettacoli, sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](../DPR/Imposta%20sugli%20spettacoli.md), concernente l'imposta sugli spettacoli, sono apportate le seguenti modificazioni:
                             a)
                                 l'articolo 32 e' sostituito dal seguente:
  "Art. 32 (Sanzioni per mancato pagamento dell'imposta, omessa compilazione o infedelta' della distinta d'incasso, della dichiarazione e della contabilizzazione dei proventi). - 1. Nel caso di mancato pagamento dell'imposta, di mancata o infedele compilazione della distinta d'incasso o contabilizzazione dei proventi o di omessa presentazione della dichiarazione di cui all'articolo 13, si applica la sanzione amministrativa dal duecento al quattrocento per cento dell'imposta o della maggiore imposta e i tributi connessi evasi.
@@ -306,7 +306,7 @@ Note all'art. 7:
 
 1.
 
-Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641), recante la disciplina delle tasse sulle concessioni governative, sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), recante la disciplina delle tasse sulle concessioni governative, sono apportate le seguenti modificazioni:
                             a)
                                 l'articolo 9 e' sostituito dal seguente: 
  "Art. 9 (Sanzioni). - 1. Chi esercita un'attivita' per la quale e' necessario un atto soggetto a tassa sulle concessioni governative senza aver ottenuto l'atto stesso o assolta la relativa tassa e' punito con la sanzione amministrativa dal cento al duecento per cento della tassa medesima e, in ogni caso, non inferiore a lire duecentomila. 
@@ -319,7 +319,7 @@ Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www
 Note all'art. 8:
  - Si riporta il testo dell'[art. 10 del D.P.R. n. 641 del 1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;641#art_10) in materia di tasse sulle concessioni governative, cosi' modificato dall'art. 8 del presente decreto:
  "Art. 10 (Competenze per l'accertamento delle infrazioni e ripartizione del provento delle pene pecuniarie). - L'attribuzione, agli effetti degli [artt. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_31) e [34 della legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_34), della facolta' di accertare le infrazioni in materia di tasse sulle concessioni governative, comprese quelle costituenti reato, compete anche ai funzionari del Ministero delle finanze e degli uffici da esso dipendenti all'uopo designati e muniti di speciale tessera nonche', limitatamente agli accertamenti compiuti nella sede degli uffici predetti, a qualsiasi funzionario od impiegato addetto agli uffici stessi.
- Le somme riscosse per le sanzioni amministrative previste dal presente decreto sono ripartite a norma della [legge 7 febbraio 1951, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-02-07;168), e successive disposizioni.".
+ Le somme riscosse per le sanzioni amministrative previste dal presente decreto sono ripartite a norma della [legge 7 febbraio 1951, n. 168](Ripartizione%20dei%20proventi%20delle%20sanzioni%20pecuniarie%20dovute%20per%20violazioni%20alle%20leggi%20tributarie.md), e successive disposizioni.".
  - Si riporta il testo dell'art. 11 del D.P.R. summenzionato, cosi' modificato dall'art. 8 del presente decreto:
  "Art. 11 (Ricorsi amministrativi). - Le controversie relative all'applicazione delle tasse previste dal presente decreto sono decise in via amministrativa dall'intendente di finanza con provvedimento motivato avverso il quale e' dato ricorso al Ministro delle finanze nel termine di trenta giorni dalla notifica del provvedimento stesso, quando l'ammontare delle tasse superi le lire centomila.
  Il ricorso deve essere presentato all'Intendenza di finanza direttamente o mediante raccomandata con avviso di ricevimento. Nel primo caso l'ufficio ne rilascia ricevuta, nel secondo caso la data di spedizione vale quale data di presentazione.
@@ -332,7 +332,7 @@ Note all'art. 8:
 
 1.
 
-Al [regio decreto 30 dicembre 1923, n. 3278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3278), concernente le tasse sui contratti di borsa, sono apportate le seguenti modificazioni:
+Al [regio decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), concernente le tasse sui contratti di borsa, sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 16, nel terzo comma, le parole "con la pena pecuniaria da lire 8.000 a lire 20.000" sono sostituite dalle seguenti: "con la sanzione amministrativa da lire duecentomila a lire un milione";
                             b)
@@ -345,12 +345,12 @@ Al [regio decreto 30 dicembre 1923, n. 3278](https://www.normattiva.it/uri-res/N
                             d)
                                 all'articolo 20, nel primo comma, le parole "pena pecuniaria di lire 20.000" sono sostituite dalle seguenti: "sanzione amministrativa da lire cinquecentomila a lire due milioni";
                             e)
-                                all'articolo 21, dopo il secondo comma, e' aggiunto il seguente: "Alle violazioni delle disposizioni previste dal presente decreto, si applicano altresi', in quanto compatibili, le disposizioni contemplate nel titolo VI del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642).". 
- 3. Il [comma 2 dell'articolo 9 del decreto-legge 30 dicembre 1991, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-30;417#art_9-com2), convertito, con modificazioni, dalla [legge 6 febbraio 1992, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-06;66), e' abrogato.
+                                all'articolo 21, dopo il secondo comma, e' aggiunto il seguente: "Alle violazioni delle disposizioni previste dal presente decreto, si applicano altresi', in quanto compatibili, le disposizioni contemplate nel titolo VI del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md).". 
+ 3. Il [comma 2 dell'articolo 9 del decreto-legge 30 dicembre 1991, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-30;417#art_9-com2), convertito, con modificazioni, dalla [legge 6 febbraio 1992, n. 66](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201991%20n.%20417%20recante%20disposizioni%20concernenti%20criteri%20di%20applicazione%20dellimposta%20sul%20valore%20aggiunto%20delle%20tasse%20per%20i_c164cc92e85d.md), e' abrogato.
 
 Note all'art. 9:
  - Si riporta il [comma 3 dell'art. 16 del R.D. n. 3278 del 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923;3278#art_16-com3) in materia di tasse sui contratti di borsa, cosi' modificato dall'art. 9 del presente decreto:
- "Art. 16. - Le infrazioni a queste disposizioni sono punite con la sanzione amministrativa da lire duecentomila a lire un milione salvo, quando ne sia il caso, l'applicazione delle maggiori pene comminate dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per la violazione dei segreti d'ufficio, oltre al risarcimento dei danni.".
+ "Art. 16. - Le infrazioni a queste disposizioni sono punite con la sanzione amministrativa da lire duecentomila a lire un milione salvo, quando ne sia il caso, l'applicazione delle maggiori pene comminate dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la violazione dei segreti d'ufficio, oltre al risarcimento dei danni.".
  - Si riporta l'art. 17 del titolo X del R.D. summenzionato, cosi' modificato dall'art. 9 del presente decreto:
  "Titolo X
  S a n z i o n i
@@ -364,9 +364,9 @@ Note all'art. 9:
  - Si riporta l'art. 21 del R.D. summenzionato, cosi' modificato dall'art. 9 del presente decreto:
  "Art. 21. - Le contravvenzioni e controversie che si riferiscono alle disposizioni degli articoli da 1 a 8 incluso, 13, 14, 17 e 20, sono decise a norma del [D.L. 25 marzo 1923, n. 796](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-03-25;796).
  L'azione penale per le contravvenzioni agli articoli citati nel precedente comma, si prescrive col decorso di due anni, dal giorno della commessa contravvenzione.
- Alle violazioni delle disposizioni previste dal presente decreto, si applicano altresi', in quanto compatibili, le disposizioni contemplate nel titolo VI del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642).".
+ Alle violazioni delle disposizioni previste dal presente decreto, si applicano altresi', in quanto compatibili, le disposizioni contemplate nel titolo VI del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md).".
  - Si riporta il [comma 2 dell'art. 9 del D.L. n. 417 del 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991;417#art_9-com2), convertito con modificazioni della [legge n. 66 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;66) recante disposizioni concernenti criteri di applicazione dell'imposta sul valore aggiunto, delle tasse per i contratti di trasferimento di titoli o di valori e altre disposizioni tributarie urgenti, dal testo che viene abrogato dall'art. 9 del presente decreto:
- "2. Per le violazioni alle disposizioni recate dal [R.D. 30 dicembre 1923, n. 3278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3278), e successive modificazioni, si applica quanto previsto dai titoli V e VI del [D.P.R. 26 ottobre 1972, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;642), e successive modificazioni.".
+ "2. Per le violazioni alle disposizioni recate dal [R.D. 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni, si applica quanto previsto dai titoli V e VI del [D.P.R. 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md), e successive modificazioni.".
 
 ## Sanzioni in materia di tributi doganali e di imposte sulla produzione e sui consumi
 
@@ -394,14 +394,14 @@ Al testo unico delle disposizioni legislative in materia doganale, approvato con
 
 2.
 
-Le sanzioni previste dagli articoli 302, terzo comma, 303, primo comma, 319, primo comma, e 320, primo comma, del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), sono elevate, nel minimo, a lire duecentomila e, nel massimo, a lire un milione. La sanzione prevista dall'articolo 314 dello stesso testo unico e' elevata, nel minimo, a lire cinquecentomila e, nel massimo, a lire cinque milioni; la sanzione prevista dall'articolo 315 del medesimo testo unico e' elevata, nel minimo, a lire un milione e, nel massimo, a lire dieci milioni. Restano ferme le disposizioni contenute nel [regio decreto 13 febbraio 1896, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-13;65), concernenti violazioni per le quali e' prevista una sanzione amministrativa. 
+Le sanzioni previste dagli articoli 302, terzo comma, 303, primo comma, 319, primo comma, e 320, primo comma, del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), sono elevate, nel minimo, a lire duecentomila e, nel massimo, a lire un milione. La sanzione prevista dall'articolo 314 dello stesso testo unico e' elevata, nel minimo, a lire cinquecentomila e, nel massimo, a lire cinque milioni; la sanzione prevista dall'articolo 315 del medesimo testo unico e' elevata, nel minimo, a lire un milione e, nel massimo, a lire dieci milioni. Restano ferme le disposizioni contenute nel [regio decreto 13 febbraio 1896, n. 65](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20doganali.%20096U0065.md), concernenti violazioni per le quali e' prevista una sanzione amministrativa. 
  3. l richiami all'[articolo 15 della legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_15), presenti negli articoli 325, quarto comma, e 326, primo comma, primo periodo, del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), si intendono riferiti alle corrispondenti disposizioni contenute nella disciplina generale sulle sanzioni amministrative per violazioni alle norme tributarie. 
- 4. Al testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e le relative sanzioni penali e amministrative, approvato con [decreto legislativo 26 ottobre 1995, n. 504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-10-26;504), sono apportate le seguenti modificazioni:
+ 4. Al testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e le relative sanzioni penali e amministrative, approvato con [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 48, comma 2, primo periodo, dopo le parole "non giustificate dalla prescritta documentazione,", sono inserite le seguenti: "in aggiunta al pagamento del tributo";
                             b)
                                 all'articolo 49, il comma 6, e' sostituito dal seguente: "6.
-Qualora sia stabilita l'utilizzazione di documenti di cui all'[articolo 1, primo comma, del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-06;627#art_1-com1), quali documenti di accompagnamento specifici dei prodotti soggetti ad accisa, si applicano, in luogo delle sanzioni previste nel medesimo decreto, quelle contemplate nel presente articolo.".
+Qualora sia stabilita l'utilizzazione di documenti di cui all'[articolo 1, primo comma, del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](../DPR/Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md), quali documenti di accompagnamento specifici dei prodotti soggetti ad accisa, si applicano, in luogo delle sanzioni previste nel medesimo decreto, quelle contemplate nel presente articolo.".
 
 Note all'art. 10:
  - Si riportano i testi del comma 3, secondo periodo, dell'[art. 303, nonche' del comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;43#art_303-com2) dell'[art. 304, del comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;43#art_304-com1) dell'[art. 309 e del comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;43#art_309-com1) dell'[art. 315 del D.P.R. n. 43 del 1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;43#art_315), recante approvazione del testo unico delle disposizioni legislative in materia doganale, cosi' modificati dall'art. 10 del presente decreto:
@@ -445,7 +445,7 @@ Capo IV
 
 1.
 
-Al testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), sono apportate le seguenti 
+Al testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono apportate le seguenti 
  modificazioni:
                             a)
                                 l'articolo 292 e' sostituito dal seguente: 
@@ -457,7 +457,7 @@ Al testo unico per la finanza locale, approvato con [regio decreto 14 settembre 
 Note all'art. 11:
  - Si riporta l'[art. 296 del R.D. n. 1175 del 1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;1175#art_296) in materia di finanza locale che viene abrogato dall'art. 11 del presente decreto:
  "Art. 296 (Sanzioni amministrative). - Salvo quanto e' disposto nel capo terzo del titolo terzo e salvo i casi in cui sia stabilita una pena piu' grave, le violazioni alle norme del presente testo unico riguardanti l'applicazione dei tributi e quelle dei relativi regolamenti sono punite, oltre che con le sanzioni civili comminate nei singoli casi, con la sanzione amministrativa da lire 10.000 a lire 500.000.
- Per l'accertamento e la definizione amministrativa delle contravvenzioni si osservano, in quanto applicabili, le norme degli articoli da 106 a 110 e 155 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383).
+ Per l'accertamento e la definizione amministrativa delle contravvenzioni si osservano, in quanto applicabili, le norme degli articoli da 106 a 110 e 155 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
  La misura dell'oblazione entro i limiti di cui sopra e' determinata discrezionalmente dal Podesta' o dal preside a seconda della rispettiva competenza.".
 
 ### Art. 12. — Sanzioni in materia di imposta comunale sulla pubblicita' e diritto
@@ -465,7 +465,7 @@ Note all'art. 11:
 
 1.
 
-Al [decreto legislativo 15 novembre 1993, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507), sono apportate le seguenti modificazioni:
+Al [decreto legislativo 15 novembre 1993, n. 507](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md), sono apportate le seguenti modificazioni:
                             a)
                                 l'articolo 23, concernente le sanzioni relative all'imposta comunale sulla pubblicita', e' sostituito dal seguente:
  "Art. 23 (Sanzioni ed interessi). - 1. Per l'omessa presentazione della dichiarazione di cui all'articolo 8 si applica la sanzione amministrativa dal cento al duecento per cento dell'imposta o del diritto dovuti, con un minimo di lire centomila.
@@ -499,7 +499,7 @@ Note all'art. 12:
 
 1.
 
-Al [decreto-legge 2 marzo 1989, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;66), convertito, con modificazioni, dalla [legge 24 aprile 1989, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144), concernente, tra l'altro, l'istituzione dell'imposta comunale per l'esercizio di imprese e di arti e professioni, sono apportate le seguenti modificazioni:
+Al [decreto-legge 2 marzo 1989, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;66), convertito, con modificazioni, dalla [legge 24 aprile 1989, n. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md), concernente, tra l'altro, l'istituzione dell'imposta comunale per l'esercizio di imprese e di arti e professioni, sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 4, il comma 10 e' abrogato;
                             b)
@@ -509,7 +509,7 @@ Al [decreto-legge 2 marzo 1989, n. 66](https://www.normattiva.it/uri-res/N2Ls?ur
  3. Se l'omissione o l'errore attengono ad elementi non incidenti sull'ammontare dell'imposta, si applica la sanzione amministrativa da lire centomila a lire cinquecentomila. La stessa sanzione si applica per le violazioni concernenti la mancata esibizione o trasmissione di atti e documenti, ovvero per la mancata restituzione di questionari nei sessanta giorni dalla richiesta o per la loro mancata compilazione o compilazione incompleta o infedele.
  4. Le sanzioni indicate nei commi 1, 2 e 3 sono ridotte ad un quarto se, entro il termine per ricorrere alle commissioni tributarie, interviene adesione del contribuente con il pagamento del tributo, se dovuto, e della sanzione.
  5. La contestazione della violazione non collegata all'ammontare del tributo deve avvenire, a pena di decadenza, entro il 31 dicembre del quinto anno successivo a quello in cui e' commessa la violazione.
- 6. Sulle somme doute per imposta si applicano gli interessi di mora nella misura prevista dall'[articolo 7, comma 3, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_7-com3).".
+ 6. Sulle somme doute per imposta si applicano gli interessi di mora nella misura prevista dall'[articolo 7, comma 3, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md).".
 
 Note all'art. 13:
  - Si riporta il testo dell'[art. 4 del D.L. n. 66 del 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;66#art_4), convertito, con modificazioni, dalla [legge n. 144 del 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;144) concernente, tra l'altro, l'istituzione dell'imposta comunale per l'esercizio di imprese e di arti e professioni, cosi' modificato dall'art. 13 del presente decreto:
@@ -521,10 +521,10 @@ Note all'art. 13:
  Il comune puo' integrare gli avvisi di accertamento di cui al comma 3 per recuperare la maggiore imposta, nonche' le relative sanzioni ed interessi, dovuta per effetto della determinazione definitiva del reddito di riferimento, di cui non abbia gia' tenuto conto in detti avvisi. Gli avvisi integrativi devono essere notificati, a pena di decadenza, entro due anni decorrenti dalla scadenza dei termini previsti nel presente comma, ovvero dalla data in cui il reddito di riferimento e' divenuto definitivo se successiva alla detta scadenza.
  5. Ai fini della liquidazione e accertamento dell'imposta i comuni possono: invitare i contribuenti, indicandone il motivo, a esibire o trasmettere atti e documenti; inviare ai contribuenti questionari relativi a dati e notizie di carattere specifico, con invito a restituirli compilati e firmati; richiedere dati, notizie ed elementi rilevanti nei confronti dei singoli contribuenti agli uffici pubblici competenti, con esenzione di spese e diritti. In difetto della presentazione degli atti e documenti richiesti i dipendenti comunali, su autorizzazione del sindaco e previo avviso da comunicare almeno cinque giorni prima della data fissata per la verifica, possono accedere agli immobili nei quali si svolgono le attivita' soggette all'imposta, al fine di procedere alla misurazione e verifica delle superfici.
  5-bis. Per l'esecuzione dei controlli l'Amministrazione finanziaria provvede a comunicare ai comuni, secondo modalita' stabilite con decreto del Ministro delle finanze, gli elementi di identificazione dei soggetti tenuti alla denuncia ed al versamento dell'imposta, nonche' le attivita' esercitate nelle singole sedi. Tali comunicazioni, che debbono essere trasmesse anche all'Associazione nazionale dei comuni italiani (ANCI), riguardano per il 1989 tutti i soggetti d'imposta, mentre per gli anni successivi sono limitate ai soggetti che hanno iniziato, variato o cessato l'attivita'. Le comunicazioni verranno effettuate entro il mese di aprile di ciascun anno per i soggetti che risultino in attivita' dal 1 gennaio; per il 1989 tali comunicazioni saranno effettuate entro il 31 dicembre.
- 5-ter. Per il completamento dei dati che l'Amministrazione finanziaria deve fornire a ciascun comune, le camere di commercio, industria, artigianato ed agricoltura debbono comunicare all'Amministrazione finanziaria le informazioni relative alle ditte iscritte nei propri registri, anche se relative a singole unita' locali. Al [decreto del Presidente della Repubblica 29 settembre 1973, n. 605](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;605), nel testo sostituito dal decreto del Presidente della Repubblica 2 novembre 1976. n. 784, e modificato dal [decreto del Presidente della Repubblica 23 dicembre 1977, n. 955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-12-23;955), sono apportate le seguenti modificazioni:
+ 5-ter. Per il completamento dei dati che l'Amministrazione finanziaria deve fornire a ciascun comune, le camere di commercio, industria, artigianato ed agricoltura debbono comunicare all'Amministrazione finanziaria le informazioni relative alle ditte iscritte nei propri registri, anche se relative a singole unita' locali. Al [decreto del Presidente della Repubblica 29 settembre 1973, n. 605](../DPR/Disposizioni%20relative%20allanagrafe%20tributaria%20e%20al%20codice%20fiscale%20dei%20contribuenti.md), nel testo sostituito dal decreto del Presidente della Repubblica 2 novembre 1976. n. 784, e modificato dal [decreto del Presidente della Repubblica 23 dicembre 1977, n. 955](../DPR/Modificazioni%20e%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2029%20settembre%201973%20n.%20605%20e%20successive%20modificazioni%20concernenti%20disposizioni%20relative%20allanagrafe%20tributaria%20e%20al%20c_254cbf253efe.md), sono apportate le seguenti modificazioni:
  (Omissis).
  5-quater. Per l'esecuzione dei controlli previsti dal comma 5-bis, l'Amministrazione finanziaria provvede a comunicare ai comuni competenti per domicilio fiscale dei soggetti indicati nell'art. 1, comma 2, il reddito di impresa, di arti e professioni da essi dichiarato ai fini dell'imposta sul reddito delle persone fisiche o dell'imposta sul reddito delle persone giuridiche, sulla base dei dati in possesso del sistema informativo del Ministero delle finanze.
- 6. Il contribuente puo' richiedere al comune il rimborso delle somme versate e non dovute, entro il termine di tre anni dal giorno del pagamento, ovvero da quello in cui e' stato definitivamente accertato il diritto alla restituzione. Sulle somme dovute al contribuente spettano gli interessi di mora nella misura prevista dall'[art. 7, comma 3, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_7-com3).
+ 6. Il contribuente puo' richiedere al comune il rimborso delle somme versate e non dovute, entro il termine di tre anni dal giorno del pagamento, ovvero da quello in cui e' stato definitivamente accertato il diritto alla restituzione. Sulle somme dovute al contribuente spettano gli interessi di mora nella misura prevista dall'[art. 7, comma 3, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md).
  7. La riscossione coattiva si effettua mediante ruolo, in un'unica soluzione. La modifica della relativa cartella di pagamento deve essere effettuata, a pena di decadenza:
  a) entro il 31 dicembre del quinto anno successivo a quello di presentazione della denuncia, per le liquidazioni operate sulla base dei dati ed elementi direttamente desumibili dalla denuncia stessa, ovvero entro il termine di cui alla lettera b) in caso di contestazione di dette liquidazioni;
  b) entro il 31 dicembre del terzo anno successivo a quello in cui l'accertamento e' divenuto definitivo, per le liquidazioni operate in base agli accertamenti in rettifica o d'ufficio.
@@ -537,7 +537,7 @@ Note all'art. 13:
 
 1.
 
-L'[articolo 14 del decreto legislativo 30 dicembre 1992, n. 504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;504#art_14), concernente le sanzioni e gli interessi relativi all'imposta comunale sugli immobili, e' sostituito dal seguente: 
+L'[articolo 14 del decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), concernente le sanzioni e gli interessi relativi all'imposta comunale sugli immobili, e' sostituito dal seguente: 
  "Art. 14 (Sanzioni ed interessi). - 1. Per l'omessa presentazione della dichiarazione o denuncia si applica la sanzione amministrativa dal cento al duecento per cento del tributo dovuto, con un minimo di lire centomila. 
  2. Se la dichiarazione o la denuncia sono infedeli si applica la sanzione amministrativa dal cinquanta al cento per cento della maggiore imposta dovuta. 
  3. Se l'omissione o l'errore attengono ad elementi non incidenti sull'ammontare dell'imposta, si applica la sanzione amministrativa da lire centomila a lire cinquecentomila. La stessa sanzione si applica per le violazioni concernenti la mancata esibizione o trasmissione di atti e documenti, ovvero per la mancata restituzione di questionari nei sessanta giorni dalla richiesta o per la loro mancata compilazione o compilazione incompleta o infedele. 
@@ -549,7 +549,7 @@ L'[articolo 14 del decreto legislativo 30 dicembre 1992, n. 504](https://www.nor
 
 1.
 
-L'[articolo 3, comma 31, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com31), concernente le sanzioni relative al tributo speciale per il deposito in discarica dei rifiuti solidi, e' sostituito dal seguente: "31. Per l'omessa presentazione della dichiarazione si applica la sanzione amministrativa dal cento al duecento per cento del tributo dovuto. Se la dichiarazione e' infedele si applica la sanzione amministrativa dall'ottanta al centosessanta per cento dell'ammontare del maggior tributo dovuto, ma se l'errore o l'omissione non incidono sulla sua determinazione si applica la sanzione da lire duecentomila a lire un milione. Per l'omessa o infedele registrazione delle operazioni di conferimento in discarica si applica la sanzione amministrativa commisurata al cinquanta per cento del tributo relativo all'operazione. Le sanzioni sono ridotte ad un quarto se, entro il termine per ricorrere alle commissioni tributarie, interviene adesione del contribuente e contestuale pagamento del tributo, se dovuto, e della sanzione.".
+L'[articolo 3, comma 31, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), concernente le sanzioni relative al tributo speciale per il deposito in discarica dei rifiuti solidi, e' sostituito dal seguente: "31. Per l'omessa presentazione della dichiarazione si applica la sanzione amministrativa dal cento al duecento per cento del tributo dovuto. Se la dichiarazione e' infedele si applica la sanzione amministrativa dall'ottanta al centosessanta per cento dell'ammontare del maggior tributo dovuto, ma se l'errore o l'omissione non incidono sulla sua determinazione si applica la sanzione da lire duecentomila a lire un milione. Per l'omessa o infedele registrazione delle operazioni di conferimento in discarica si applica la sanzione amministrativa commisurata al cinquanta per cento del tributo relativo all'operazione. Le sanzioni sono ridotte ad un quarto se, entro il termine per ricorrere alle commissioni tributarie, interviene adesione del contribuente e contestuale pagamento del tributo, se dovuto, e della sanzione.".
 
 ### Art. 16. — Norme applicabili
 
@@ -565,15 +565,15 @@ Capo V
 
 1.
 
-Al testo unico delle leggi sulle tasse automobilistiche, approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953-02-05;39), e alla tabella delle infrazioni, allegato numero 2 allo stesso decreto, la parola "soprattassa" e le parole "pena pecuniaria" sono sostituite, ovunque ricorrano, dalle seguenti: "sanzione amministrativa" e le parole "soprattasse" e quelle "pene pecuniarie" sono sostituite, ovunque ricorrano, dalle seguenti: "sanzioni amministrative".
+Al testo unico delle leggi sulle tasse automobilistiche, approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), e alla tabella delle infrazioni, allegato numero 2 allo stesso decreto, la parola "soprattassa" e le parole "pena pecuniaria" sono sostituite, ovunque ricorrano, dalle seguenti: "sanzione amministrativa" e le parole "soprattasse" e quelle "pene pecuniarie" sono sostituite, ovunque ricorrano, dalle seguenti: "sanzioni amministrative".
 
 2.
 
-La sanzione prevista nei punti 6 e 7 della tabella delle infrazioni, allegato numero 2 al testo unico delle leggi sulle tasse automobilistiche, approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953-02-05;39), e' determinata nel minimo in lire duecentomila e nel massimo in lire un milione; la sanzione prevista nei punti 9 e 10 della medesima tabella, e' determinata nel minimo in lire centomila e nel massimo in lire cinquecentomila; il punto 11 della stessa tabella e' abrogato. 
- 3 E' abrogato l'[articolo 37 del decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953-02-05;39#art_37).
+La sanzione prevista nei punti 6 e 7 della tabella delle infrazioni, allegato numero 2 al testo unico delle leggi sulle tasse automobilistiche, approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), e' determinata nel minimo in lire duecentomila e nel massimo in lire un milione; la sanzione prevista nei punti 9 e 10 della medesima tabella, e' determinata nel minimo in lire centomila e nel massimo in lire cinquecentomila; il punto 11 della stessa tabella e' abrogato. 
+ 3 E' abrogato l'[articolo 37 del decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md).
 
 Note all'art. 17:
- - Si riporta la tabella allegato n. 2 al testo unico delle leggi sulle tasse automobilistiche, approvato con [D.P.R. n. 39 del 5 febbraio 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953-02-05;39), nel testo che cosi' di seguito viene modificato dall'art. 17, del presente decreto:
+ - Si riporta la tabella allegato n. 2 al testo unico delle leggi sulle tasse automobilistiche, approvato con [D.P.R. n. 39 del 5 febbraio 1953](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), nel testo che cosi' di seguito viene modificato dall'art. 17, del presente decreto:
  Allegato 2 Tabella delle infrazioni
 =====================================================================
     N.                    Titolo                        Misura
@@ -593,8 +593,8 @@ Note all'art. 17:
  pure in osservanza delle pre- stabilita dall'art. 114 scrizioni di cui al successi- del regio decreto 8 di- vo art. 29 o trasporto di per- cembre 1933, n. 1740, e sonale non dipendente non pro- successive modificazio- prietaria dello autocarro: ni, e il ritiro della
  licenza di circolazione dell'autocarro e della
  patente di guida del
- conducente ai sensi de- gli [articoli 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-08;1740#art_81) e [94 del R. D. 8 dicembre 1933,
- n. 1740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-08;1740#art_94)).
+ conducente ai sensi de- gli [articoli 81](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md) e [94 del R. D. 8 dicembre 1933,
+ n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md)).
  5 Uso della targa di prova per Da un minimo pari alla
  fini diversi: tassa dovuta per le ca- ratteristiche del veico- lo ad un massimo del
  triplo, oltre al paga-
@@ -641,7 +641,7 @@ L'[articolo 8 della legge 15 dicembre 1967, n. 1235](https://www.normattiva.it/u
 
 1.
 
-Al [regio decreto-legge 21 febbraio 1938, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-21;246), convertito dalla [legge 4 giugno 1938, n. 880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-06-04;880), e successive modificazioni, sono apportate le seguenti modificazioni:
+Al [regio decreto-legge 21 febbraio 1938, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-21;246), convertito dalla [legge 4 giugno 1938, n. 880](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20febbraio%201938-XVI%20n.%20246%20recante%20Disciplina%20degli%20abbonamenti%20alle%20radioaudizioni.%20038U0880.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 20, nel primo e nel secondo comma, la parola "soprattassa" e' sostituita dalle parole "sanzione amministrativa";
                             b)
@@ -649,14 +649,14 @@ Al [regio decreto-legge 21 febbraio 1938, n. 246](https://www.normattiva.it/uri-
 
 2.
 
-Le sanzioni previste nel comma 1 assorbono quelle comminate per l'omesso o ritardato pagamento della tassa di concessione governativa prevista nell'[articolo 9 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641#art_9), e nell'articolo 8 del presente decreto.
+Le sanzioni previste nel comma 1 assorbono quelle comminate per l'omesso o ritardato pagamento della tassa di concessione governativa prevista nell'[articolo 9 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), e nell'articolo 8 del presente decreto.
 
 3.
 
-La sanzione risultante dalla depenalizzazione dell'ammenda di cui all'[articolo 19 del regio decreto-legge 21 febbraio 1938, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-21;246#art_19), convertito dalla [legge 4 giugno 1938, n. 880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-06-04;880), e successive modificazioni, e' sostituita con sanzione amministrativa da lire duecentomila a lire un milione; le pene pecuniarie previste dall'articolo 22 del citato regio decreto-legge sono sostituite con la sanzione amministrativa da lire centomila a lire cinquecentomila.
+La sanzione risultante dalla depenalizzazione dell'ammenda di cui all'[articolo 19 del regio decreto-legge 21 febbraio 1938, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-21;246#art_19), convertito dalla [legge 4 giugno 1938, n. 880](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20febbraio%201938-XVI%20n.%20246%20recante%20Disciplina%20degli%20abbonamenti%20alle%20radioaudizioni.%20038U0880.md), e successive modificazioni, e' sostituita con sanzione amministrativa da lire duecentomila a lire un milione; le pene pecuniarie previste dall'articolo 22 del citato regio decreto-legge sono sostituite con la sanzione amministrativa da lire centomila a lire cinquecentomila.
 
 Note all'art. 19:
- - Si riporta il testo dei commi 1 e 2 dell'art. 20 de [R.D.L. n. 246 del 1938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938;246), convertito il [legge 4 giugno 1938, n. 880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-06-04;880) in materia di abbonamento alla televisione, cosi' modificato dall'art. 19 del presente decreto:
+ - Si riporta il testo dei commi 1 e 2 dell'art. 20 de [R.D.L. n. 246 del 1938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938;246), convertito il [legge 4 giugno 1938, n. 880](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20febbraio%201938-XVI%20n.%20246%20recante%20Disciplina%20degli%20abbonamenti%20alle%20radioaudizioni.%20038U0880.md) in materia di abbonamento alla televisione, cosi' modificato dall'art. 19 del presente decreto:
  "Art. 20. - Qualora il pagamento del canone annuo per uso privato o della quota semestrale di esso sia eseguito oltre i termini stabiliti dall'art. 5, ma prima dell'accertamento della violazione, in luogo della pena pecuniaria stabilita dall'articolo precedente e' dovuta dall'utente o dall'abbonato una sanzione amministrativa pari all'ammontare del canone o della quota di esso di cui e' stato ritardato il pagamento.
  La detta sanzione amministrativa e' ridotta ad un quinto, qualora il pagamento del canone abbia luogo prima dell'accertamento della violazione, ma non oltre trenta giorni dalla scadenza dei termini sopra richiamati".
  - Si riportano gli articoli 21 e 23 del R.D.L. summenzionato nei testi che vengono abrogati dall'art. 19 del presente decreto:
@@ -691,7 +691,7 @@ Capo VI
 
 1.
 
-Al [decreto del Presidente della Repubblica 29 settembre 1973, n. 605](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;605), recante disposizioni relative all'anagrafe tributaria e al codice fiscale dei contribuenti, sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 29 settembre 1973, n. 605](../DPR/Disposizioni%20relative%20allanagrafe%20tributaria%20e%20al%20codice%20fiscale%20dei%20contribuenti.md), recante disposizioni relative all'anagrafe tributaria e al codice fiscale dei contribuenti, sono apportate le seguenti modificazioni:
                             a)
                                 l'articolo 13 e' sostituito dal seguente: 
  "Art. 13 (Sanzioni). - 1. E' punito con la sanzione amministrativa da lire duecentomila a lire quattro milioni chi: 

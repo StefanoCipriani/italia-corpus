@@ -16,9 +16,9 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 16 maggio 1940, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-16;691);
+Vista la [legge 16 maggio 1940, n. 691](Istituzione%20del%20a%20%20Ruolo%20per%20gli%20affari%20albanesi%20%20presso%20il%20Ministero%20degli%20affari%20esteri.%20040U0691.md);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Il ruolo per gli affari albanesi istituito presso il Ministero degli affari esteri con la, [legge 16 maggio 1940, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-16;691), e' soppresso. 
+Il ruolo per gli affari albanesi istituito presso il Ministero degli affari esteri con la, [legge 16 maggio 1940, n. 691](Istituzione%20del%20a%20%20Ruolo%20per%20gli%20affari%20albanesi%20%20presso%20il%20Ministero%20degli%20affari%20esteri.%20040U0691.md), e' soppresso. 
  
  Sono parimenti soppressi i quattro poeti di Inviato straordinario e Ministro plenipotenziario di 1ª classe (grado 3°) istituiti nel ruolo diplomatico-consolare con l'art. 2 della legge sopra indicata.
 

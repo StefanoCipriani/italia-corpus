@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DEL TESORO
 
-Veduta la [legge 7 aprile 1881, N. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-04-07;133) (Serie 3ª), che provvede per l'abolizione del corso forzoso;
+Veduta la [legge 7 aprile 1881, N. 133](Che%20provvede%20per%20labolizione%20del%20corso%20forzoso%20081U0133.md) (Serie 3ª), che provvede per l'abolizione del corso forzoso;
 
 Veduto il R. decreto 10 marzo 1883, N. DCCCLVIII (Serie 3ª), che autorizza gli Istituti di emissione ad emettere biglietti del taglio da lire 25;
 

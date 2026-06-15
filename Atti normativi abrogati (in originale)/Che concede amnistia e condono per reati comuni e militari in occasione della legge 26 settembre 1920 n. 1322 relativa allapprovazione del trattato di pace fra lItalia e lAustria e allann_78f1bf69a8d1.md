@@ -37,7 +37,7 @@ Sono condonate le pene temporanee restrittive della liberta' personale non super
 
 ## Art. 5.
 
-Cessano tutti gli effetti delle sentenze di condanna pronunciate dalle autorita' giudiziarie della cessata monarchia austro-ungarica per i reati preveduti nei seguenti paragrafi del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) austriaco e nelle seguenti leggi e ordinanze e per quelli corrispondenti preveduti nei codici militari o in altre leggi od ordinanze vigenti nella medesima monarchia. 
+Cessano tutti gli effetti delle sentenze di condanna pronunciate dalle autorita' giudiziarie della cessata monarchia austro-ungarica per i reati preveduti nei seguenti paragrafi del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco e nelle seguenti leggi e ordinanze e per quelli corrispondenti preveduti nei codici militari o in altre leggi od ordinanze vigenti nella medesima monarchia. 
  Paragrafi 58 a 62, 63, 64, 65, 67, 68 a 72, 73 a 75, 76 a 82, 92, 220, 222, 279, 285 a 299, 300, 302, 303, 304, 305, 312, 314, nonche' par. 212, 214, 217, 307 in relazione ai paragrafi suindicati, Legge 17 dicembre 1862 B. L. I. n. 8 ex 1863, Legge 5 luglio 1912 B. L. I.
 n. 128 (par. 66 a 69), Leggi 5 luglio 1912 B. L. I. n. 130 e 131 (par. 263 e 264), Ordinanza 25 luglio 1914 B. L. I. n. 155 (par. 2-3-4), Ordinanza 16 ottobre 1914 B. L. I. n. 291 (par. 7), Ordinanza 9 ottobre 1916 B. L. I. n. 347, Legge 26 gennaio 1907 B. L. I. n. 16, Ordinanza 26 maggio 1917 B. L. I. n. 235, Legge 17 dicembre 1862 B.
 L. I. n. 6 ex 1863, Legge 15 novembre 1867 B. L. I. n. 134, Legge 15 novembre 1867 B. L. I. n. 135, Legge 7 agosto 1870 B. L. I. n. 43. 
@@ -45,7 +45,7 @@ L. I. n. 6 ex 1863, Legge 15 novembre 1867 B. L. I. n. 134, Legge 15 novembre 18
 
 ## Art. 6.
 
-E' concessa amnistia per i reati colposi di competenza di qualsiasi autorita' giudiziaria dei territori annessi al Regno e preveduti nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) austriaco, tranne il paragrafo 337, e nelle altre leggi ivi in vigore.
+E' concessa amnistia per i reati colposi di competenza di qualsiasi autorita' giudiziaria dei territori annessi al Regno e preveduti nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco, tranne il paragrafo 337, e nelle altre leggi ivi in vigore.
 
 ## Art. 7.
 

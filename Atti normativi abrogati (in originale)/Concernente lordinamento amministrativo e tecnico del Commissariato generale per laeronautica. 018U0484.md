@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il Commissariato generale per l'aeronautica, istituito con [R. decreto del 1° novembre 1917, n. 1813](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1917-11-01;1813), e' formato per la durata della guerra, e per sei mesi dopo la stipulazione della pace, dai seguenti Ispettorati, Direzioni centrali ed Uffici, che fanno parte integrante del Commissariato medesimo: 
+Il Commissariato generale per l'aeronautica, istituito con [R. decreto del 1° novembre 1917, n. 1813](Che%20istituisce%20per%20la%20durata%20della%20guerra%20un%20Commissariato%20generale%20per%20laereonautica%20avente%20sede%20presso%20il%20Ministero%20delle%20armi%20e%20munizioni.%20017U1813.md), e' formato per la durata della guerra, e per sei mesi dopo la stipulazione della pace, dai seguenti Ispettorati, Direzioni centrali ed Uffici, che fanno parte integrante del Commissariato medesimo: 
  
  1. Ispettore generale. 
  

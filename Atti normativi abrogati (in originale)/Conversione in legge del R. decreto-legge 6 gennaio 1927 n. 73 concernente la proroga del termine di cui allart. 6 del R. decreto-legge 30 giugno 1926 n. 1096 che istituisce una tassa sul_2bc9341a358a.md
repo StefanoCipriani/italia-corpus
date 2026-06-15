@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 gennaio 1927, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-06;73), concernente la proroga del termine di cui all'[art. 6 del R. decreto-legge 30 giugno 1926, n. 1096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-06-30;1096#art_6), che istituisce una tassa sulle macchine per caffe' espresso. 
+ E' convertito in legge il [R. decreto-legge 6 gennaio 1927, n. 73](Proroga%20del%20termine%20di%20cui%20allart.%206%20del%20R.%20decreto-legge%2030%20giugno%201926%20n.%201096%20che%20istituisce%20una%20tassa%20sulle%20macchine%20per%20caffe%20espresso.%20027U0073.md), concernente la proroga del termine di cui all'[art. 6 del R. decreto-legge 30 giugno 1926, n. 1096](Provvedimenti%20circa%20la%20disciplina%20di%20taluni%20consumi.%20026U1096.md), che istituisce una tassa sulle macchine per caffe' espresso. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

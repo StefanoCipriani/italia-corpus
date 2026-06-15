@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 settembre 1926, n. 1556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-03;1556), riguardante la pubblicazione degli elenchi degli abbonati al telefono. 
+ E' convertito in legge il [R. decreto-legge 3 settembre 1926, n. 1556](Pubblicazione%20degli%20elenchi%20degli%20abbonati%20al%20telefono.%20026U1556.md), riguardante la pubblicazione degli elenchi degli abbonati al telefono. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

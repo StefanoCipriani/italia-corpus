@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 febbraio 1932, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-02-22;88), concernente la sostituzione dell'Alto Commissario per la citta' e la provincia di Napoli. 
+ E' convertito in legge il [R. decreto-legge 22 febbraio 1932, n. 88](Sostituzione%20dellAlto%20commissario%20per%20la%20citta%20e%20la%20provincia%20di%20Napoli.%20032U0088.md), concernente la sostituzione dell'Alto Commissario per la citta' e la provincia di Napoli. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 26 maggio 1932 - Anno X 
  

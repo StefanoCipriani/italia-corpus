@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il secondo ed il [quarto comma dell'articolo 4 del decreto del Presidente della Repubblica 11 febbraio 1961, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-02-11;257#art_4-com4), sono sostituiti dai seguenti:
+Il secondo ed il [quarto comma dell'articolo 4 del decreto del Presidente della Repubblica 11 febbraio 1961, n. 257](../DPR/Disciplina%20degli%20organi%20consultivi%20del%20Ministero%20della%20sanita%20e%20dellUfficio%20medico%20legale.md), sono sostituiti dai seguenti:
  "Fanno inoltre parte del Consiglio superiore di sanita':
  due giureconsulti;
  un direttore generale della sanita' militare ed un ufficiale generale designati dal Ministero della difesa;
@@ -40,7 +40,7 @@ Il secondo ed il [quarto comma dell'articolo 4 del decreto del Presidente della 
 
 ## Art. 2.
 
-L'[articolo 6 del decreto del Presidente della Repubblica 11 febbraio 1961, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-02-11;257#art_6), e' sostituito dal seguente:
+L'[articolo 6 del decreto del Presidente della Repubblica 11 febbraio 1961, n. 257](../DPR/Disciplina%20degli%20organi%20consultivi%20del%20Ministero%20della%20sanita%20e%20dellUfficio%20medico%20legale.md), e' sostituito dal seguente:
  "All'inizio di ogni sessione, con decreto del Ministro per la sanita', sono costituiti per ogni sezione uno o piu' comitati in relazione alle esigenze delle sezioni stesse.
  Con lo stesso decreto saranno determinate le competenze dei comitati.
  I comitati, ciascuno dei quali presieduto dal presidente della sezione o da un suo designato e composto da non meno di sei consiglieri esperti nelle materie per cui i comitati stessi hanno competenza potranno deliberare sugli atti ad essi assegnati con gli stessi poteri delle sezioni. Essi cureranno altresi' la istruzione degli atti da sottoporre all'esame della sezione o della assemblea generale.
@@ -50,13 +50,13 @@ L'[articolo 6 del decreto del Presidente della Repubblica 11 febbraio 1961, n. 2
 
 ## Art. 3.
 
-L'[articolo 7, primo comma, del decreto del Presidente della Repubblica 11 febbraio 1961, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-02-11;257#art_7-com1), e' sostituito dal seguente:
+L'[articolo 7, primo comma, del decreto del Presidente della Repubblica 11 febbraio 1961, n. 257](../DPR/Disciplina%20degli%20organi%20consultivi%20del%20Ministero%20della%20sanita%20e%20dellUfficio%20medico%20legale.md), e' sostituito dal seguente:
  "Le adunanze dell'assemblea generale del consiglio superiore sono tenute per sessioni ordinarie semestrali;
  le adunanze di ciascuna sezione o dei rispettivi comitati sono tenute almeno una volta al mese".
 
 ## Art. 4.
 
-L'[articolo 9 del decreto del Presidente della Repubblica 11 febbraio 1961, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-02-11;257#art_9), e' sostituito dal seguente:
+L'[articolo 9 del decreto del Presidente della Repubblica 11 febbraio 1961, n. 257](../DPR/Disciplina%20degli%20organi%20consultivi%20del%20Ministero%20della%20sanita%20e%20dellUfficio%20medico%20legale.md), e' sostituito dal seguente:
  "In seno al Consiglio superiore di sanita' e' istituita una segreteria generale diretta dal segretario generale del Consiglio superiore di sanita', appartenente alla carriera direttiva medici del Ministero della sanita'. Alla segreteria generale saranno addetti funzionari direttivi delle carriere tecniche del Ministero della sanita', uno per ogni sezione, con funzioni di segretario, nonche' altro personale necessario in relazione alle esigenze di servizio.
  La tabella 2 allegata al [decreto del Presidente della Repubblica 11 agosto 1959, n. 750](Revisione%20dei%20ruoli%20organici%20e%20delle%20carriere%20del%20personale%20del%20Ministero%20della%20sanita%20e%20dellIstituto%20superiore%20di%20sanita.md), gia' modificata con [legge 6 dicembre 1965, n. 1367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-12-06;1367), e' ulteriormente modificata per l'aggiunta di un posto di segretario generale del Consiglio superiore di sanita' (ex coefficiente 900), inserito tra le voci "Ispettore generale medico capo" ed "Ispettori generali medici"".
 

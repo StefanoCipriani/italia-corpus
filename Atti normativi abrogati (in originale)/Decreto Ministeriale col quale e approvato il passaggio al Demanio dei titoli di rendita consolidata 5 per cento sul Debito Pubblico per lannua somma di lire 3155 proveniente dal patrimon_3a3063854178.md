@@ -28,7 +28,7 @@ E' approvato il passaggio al Demanio dei titoli di rendita sul Debito Pubblico i
 
 ## Art. 2.
 
-Sara' inscritta sul Gran Libro del Debito Pubblico dello Stato, al nome dell'Amministrazione del Fondo per il Culto, un'annua rendita di L. 2,995, consolidato 5 per cento con decorrenza dal 1° luglio 1866, corrispondente alla rendita di cui all'articolo 1, sotto deduzione del 5 per cento per spese di amministrazione, e meno la frazione di L. 2. 25, che non potendosi inscrivere in forza dell'[art. 8 della Legge 4 agosto 1861, n. 174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1861-08-04;174#art_8), sara' abbuonata all'Amministrazione del Fondo per il Culto ed aggiunta alle iscrizioni di rendita da eseguirsi per passaggio al Demanio dello Stato di altri beni di Corporazioni religiose soppresse.
+Sara' inscritta sul Gran Libro del Debito Pubblico dello Stato, al nome dell'Amministrazione del Fondo per il Culto, un'annua rendita di L. 2,995, consolidato 5 per cento con decorrenza dal 1° luglio 1866, corrispondente alla rendita di cui all'articolo 1, sotto deduzione del 5 per cento per spese di amministrazione, e meno la frazione di L. 2. 25, che non potendosi inscrivere in forza dell'[art. 8 della Legge 4 agosto 1861, n. 174](Unificazione%20dei%20debiti%20pubblici%20dItalia.%20061U0174.md), sara' abbuonata all'Amministrazione del Fondo per il Culto ed aggiunta alle iscrizioni di rendita da eseguirsi per passaggio al Demanio dello Stato di altri beni di Corporazioni religiose soppresse.
 
 ## Art. 3.
 

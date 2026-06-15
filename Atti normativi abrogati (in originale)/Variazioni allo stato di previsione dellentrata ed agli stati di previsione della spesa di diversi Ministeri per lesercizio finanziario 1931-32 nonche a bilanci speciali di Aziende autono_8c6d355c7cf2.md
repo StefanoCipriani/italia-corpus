@@ -48,11 +48,11 @@ Nello stato di previsione della spesa del Ministero dell'educazione nazionale, s
 
 ## Art. 6.
 
-In dipendenza del [R. decreto 21 agosto 1931, n. 1030](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-08-21;1030), col quale sono state demandate al Capo del Governo tutte le attribuzioni spettanti al Ministro per l'interno nei riguardi del Consiglio di Stato, il Ministro per le finanze e' autorizzato a provvedere, con proprio decreto, al conseguente trasporto di fondi dallo stato di previsione della spesa del Ministero dell'interno a quello delle finanze.
+In dipendenza del [R. decreto 21 agosto 1931, n. 1030](Delega%20al%20Capo%20del%20Governo%20di%20tutte%20le%20attribuzioni%20spettanti%20al%20Ministro%20per%20linterno%20nei%20riguardi%20del%20Consiglio%20di%20Stato.%20031U1030.md), col quale sono state demandate al Capo del Governo tutte le attribuzioni spettanti al Ministro per l'interno nei riguardi del Consiglio di Stato, il Ministro per le finanze e' autorizzato a provvedere, con proprio decreto, al conseguente trasporto di fondi dallo stato di previsione della spesa del Ministero dell'interno a quello delle finanze.
 
 ## Art. 7.
 
-E' abrogato il [R. decreto 22 aprile 1926, n. 735](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-22;735), concernente la definizione delle vertenze per la liquidazione delle gestioni di guerra. 
+E' abrogato il [R. decreto 22 aprile 1926, n. 735](Definizione%20delle%20vertenze%20ancora%20pendenti%20per%20la%20liquidazione%20delle%20gestioni%20di%20guerra.%20026U0735.md), concernente la definizione delle vertenze per la liquidazione delle gestioni di guerra. 
  Questo decreto andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno, e sara' presentato al Parlamento per la conversione in legge. 
  Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 

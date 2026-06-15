@@ -107,7 +107,7 @@ Per ciascuna Commissione, anche aggiunta, e' autorizzata la nomina di componenti
 
 ## Art. 13.
 
-Le disposizioni previste negli articoli 11 e 12 del presente decreto sono applicabili anche per le Commissioni circondariali, aventi cioe' sede presso ciascun tribunale, istituite con l'[art. 4 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;311#art_4).
+Le disposizioni previste negli articoli 11 e 12 del presente decreto sono applicabili anche per le Commissioni circondariali, aventi cioe' sede presso ciascun tribunale, istituite con l'[art. 4 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 311](../Decreti%20legislativi%20luogotenenziali/Disciplina%20dei%20contratti%20di%20mezzadria%20impropria%20colonia%20parziaria%20e%20compartecipazione.%20044U0311.md).
 
 ## Art. 14.
 

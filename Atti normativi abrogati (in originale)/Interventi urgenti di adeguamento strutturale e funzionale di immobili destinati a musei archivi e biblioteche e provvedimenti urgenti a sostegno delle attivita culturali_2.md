@@ -56,7 +56,7 @@ Ai fini della predisposizione del programma, gli interventi sui beni dello Stato
 
 1.
 
-Il parere del Consiglio nazionale per i beni culturali e ambientali, espresso ai sensi dell'articolo 2, comma 1, sostituisce i pareri previsti dalla [legge 21 dicembre 1961, n. 1552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-21;1552). Per opere ed interventi di particolare complessita' tecnica o entita' finanziaria il Ministro per i beni culturali e ambientali puo' richiedere il parere dei competenti comitati di settore.
+Il parere del Consiglio nazionale per i beni culturali e ambientali, espresso ai sensi dell'articolo 2, comma 1, sostituisce i pareri previsti dalla [legge 21 dicembre 1961, n. 1552](Disposizioni%20in%20materia%20di%20tutela%20di%20cose%20di%20interesse%20artistico%20e%20storico.md). Per opere ed interventi di particolare complessita' tecnica o entita' finanziaria il Ministro per i beni culturali e ambientali puo' richiedere il parere dei competenti comitati di settore.
 
 2.
 
@@ -64,7 +64,7 @@ Ai fini della realizzazione degli interventi previsti nel programma di cui all'a
 
 3.
 
-Agli interventi sui beni danneggiati dagli eventi sismici del novembre 1980 e del febbraio 1981, ricompresi nel programma di cui all'articolo 1, in deroga alle disposizioni della [legge 14 maggio 1981, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), si applicano le disposizioni dei commi 1 e 2.
+Agli interventi sui beni danneggiati dagli eventi sismici del novembre 1980 e del febbraio 1981, ricompresi nel programma di cui all'articolo 1, in deroga alle disposizioni della [legge 14 maggio 1981, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md), si applicano le disposizioni dei commi 1 e 2.
 
 ## Art. 4.
 
@@ -80,7 +80,7 @@ Le attivita' e le iniziative di cui al comma 1 riguardano il restauro dei beni c
 
 1.
 
-All'onere di lire 350 miliardi derivante dall'applicazione dell'articolo 1 si provvede mediante corrispondente riduzione del capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1987, parzialmente utilizzando l'accantonamento "Iniziative per la tutela, la valorizzazione e il restauro dei beni culturali, compreso il rifinanziamento dell'[articolo 15 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_15)".
+All'onere di lire 350 miliardi derivante dall'applicazione dell'articolo 1 si provvede mediante corrispondente riduzione del capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1987, parzialmente utilizzando l'accantonamento "Iniziative per la tutela, la valorizzazione e il restauro dei beni culturali, compreso il rifinanziamento dell'[articolo 15 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md)".
 
 2.
 

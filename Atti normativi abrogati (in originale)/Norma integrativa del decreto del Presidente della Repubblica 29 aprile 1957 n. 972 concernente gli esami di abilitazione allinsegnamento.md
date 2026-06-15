@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-I candidati agli esami di abilitazione in una delle sottoclassi previste dal [decreto presidenziale 29 aprile 1957, n. 972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-29;972), hanno facolta' di non sostener l'esame per le materie incluse in altra sottoclasse della medesima classe, nella quale abbiano gia' conseguito l'abilitazione.
+I candidati agli esami di abilitazione in una delle sottoclassi previste dal [decreto presidenziale 29 aprile 1957, n. 972](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20degli%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale%20dellinsegnamento%20medio.md), hanno facolta' di non sostener l'esame per le materie incluse in altra sottoclasse della medesima classe, nella quale abbiano gia' conseguito l'abilitazione.
  Parimenti, ai possessori dei titoli di abilitazione conseguita nei concorsi a cattedre e' concesso di non sostenere l'esame per le materie incluse nell'abilitazione gia' posseduta, purche' questa sia valida per le scuole secondarie di secondo grado.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

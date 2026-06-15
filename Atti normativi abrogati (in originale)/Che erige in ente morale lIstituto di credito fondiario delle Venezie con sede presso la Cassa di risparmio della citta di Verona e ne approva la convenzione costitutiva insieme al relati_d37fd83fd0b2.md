@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduta la convenzione in data 13 luglio 1919, con la quale fu stabilita la creazione dell'Istituto di credito fondiario delle Venezie, con sede presso la Cassa di risparmio della citta' di Verona e con un fondo di garanzia di lire dieci milioni, e fu deliberato lo statuto organico dell'Istituto medesimo;
 
-Veduto il testo unico delle leggi sul credito fondiario, approvato col [R. decreto 16 luglio 1905, numero 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-16;646);
+Veduto il testo unico delle leggi sul credito fondiario, approvato col [R. decreto 16 luglio 1905, numero 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
 Veduto il [decreto-legge Luogotenenziale 27 marzo 1919 n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1919-03-27;426), contenente il testo unico delle disposizioni legislative portanti provvedimenti per il risarcimento, dei danni di guerra, e il [decreto-legge Luogotenenziale 22 giugno 1919, n. 1242](che%20autorizza%20gli%20istituti%20di%20credito%20fondiario%20ad%20accordare%20nelle%20regioni%20danneggiate%20dalla%20guerra%20mutui%20ipotecari%20per%20ricostruire%20o%20riparare%20fondi%20urbani%20e%20per%20mettere%20in%20istato%20di%20colt_a34388278a35.md);
 
@@ -34,7 +34,7 @@ Le eventuali modificazioni al predetto statuto saranno apportate con Regio decre
 
 ## Art. 3.
 
-A partire dalla data che verra' stabilita con decreto del ministro per l'industria, il commercio e il lavoro, da pubblicarsi nella Gazzetta ufficiale del Regno, il Credito fondiario delle Cassa di risparmio della citta' di Verona, autorizzato con [Regio decreto 15 aprile 1900, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-04-15;115), cessa di funzionare come Istituto autonomo di credito fondiario. 
+A partire dalla data che verra' stabilita con decreto del ministro per l'industria, il commercio e il lavoro, da pubblicarsi nella Gazzetta ufficiale del Regno, il Credito fondiario delle Cassa di risparmio della citta' di Verona, autorizzato con [Regio decreto 15 aprile 1900, n. 115](Che%20autorizza%20la%20Cassa%20di%20risparmio%20di%20Verona%20ad%20assumere%20lesercizio%20del%20Credito%20fondiario%20nella%20regione%20Veneto-Mantovana%20con%20facolta%20di%20emettere%20cartelle%20fondiarie.%200000115R.md), cessa di funzionare come Istituto autonomo di credito fondiario. 
  
  L'Istituto di credito fondiario delle Venezia subentra al predetto Ente, di cui assume ogni attivita' e passivita', fatta eccezione per il fondo di riserva, il quale resta avocato alla Cassa di risparmio di Verona, e per la quota di utili netti verificatisi fino alla data suddetta che e' attribuibile allo stesso fondo di riserva. 
  

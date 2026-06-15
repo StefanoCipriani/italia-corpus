@@ -30,7 +30,7 @@ L'Amministrazione delle ferrovie dello Stato e' autorizzata ad accertare e riscu
 
 ## Art. 6.
 
-Per l'esercizio finanziario 1933-34 e' sospeso il versamento di L. 40.000.000 al Fondo pensioni e sussidi del personale ferroviario, ad integrazione del patrimonio del Fondo stesso, previsto dal [2° comma dell'art. 1 del R. decreto-legge 23 marzo 1924, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-03-23;498#art_1-com2).
+Per l'esercizio finanziario 1933-34 e' sospeso il versamento di L. 40.000.000 al Fondo pensioni e sussidi del personale ferroviario, ad integrazione del patrimonio del Fondo stesso, previsto dal [2° comma dell'art. 1 del R. decreto-legge 23 marzo 1924, n. 498](Semplificazioni%20nel%20sistema%20delle%20integrazioni%20delle%20pensioni%20nel%20personale%20delle%20Ferrovie%20dello%20Stato.%20024U0498.md).
 
 ## Art. 7.
 

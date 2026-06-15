@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1601), concernente la autorizzazione della spesa di lire 22.600.000 per i lavori di sistemazione della imboccatura del porto di Palermo. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1601](Autorizzazione%20della%20spesa%20di%20L.%2022.600.000%20per%20i%20lavori%20di%20sistemazione%20dellimboccatura%20del%20porto%20di%20Palermo.%20034U1601.md), concernente la autorizzazione della spesa di lire 22.600.000 per i lavori di sistemazione della imboccatura del porto di Palermo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 agosto 1928, n. 2308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-17;2308), riguardante la fusione della Cassa di soccorso per le opere pubbliche in Sicilia col Banco di Sicilia. 
+ E' convertito in legge il [R. decreto-legge 17 agosto 1928, n. 2308](Fusione%20della%20Cassa%20di%20soccorso%20per%20le%20opere%20pubbliche%20in%20Sicilia%20col%20Banco%20di%20Sicilia.%20028U2308.md), riguardante la fusione della Cassa di soccorso per le opere pubbliche in Sicilia col Banco di Sicilia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,9 +10,9 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto il Regolamento approvato con [Regio Decreto dell'8 novembre 1868, n. 4678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1868-11-08;4678), per l'applicazione dell'imposta sui redditi della ricchezza mobile negli anni 1868, 1869 e 1870;
+Visto il Regolamento approvato con [Regio Decreto dell'8 novembre 1868, n. 4678](Che%20approva%20il%20Regolamento%20per%20lapplicazione%20della%20imposta%20sui%20redditi%20della%20ricchezza%20mobile%20negli%20anni%201868%201869%20e%201870.%20068U4678.md), per l'applicazione dell'imposta sui redditi della ricchezza mobile negli anni 1868, 1869 e 1870;
 
-Visto il [Regio Decreto del 30 ottobre 1869, n. 5312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1869-10-30;5312), per il riordinamento dei procedimenti relativi all'applicazione delle imposte dirette;
+Visto il [Regio Decreto del 30 ottobre 1869, n. 5312](Che%20riordina%20il%20procedimento%20per%20lapplicazione%20delle%20imposte%20sui%20redditi%20di%20ricchezza%20mobile%20sui%20redditi%20dei%20fabbricati%20sulle%20vetture%20e%20sui%20domestici.%20069U5312.md), per il riordinamento dei procedimenti relativi all'applicazione delle imposte dirette;
 
 Sulla proposizione del Direttore generale delle Imposte dirette e del Catasto; Determina quanto segue:
 

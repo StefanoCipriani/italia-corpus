@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduta la [legge 19 giugno 1913, n. 857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-19;857);
+Veduta la [legge 19 giugno 1913, n. 857](Che%20esonera%20dalle%20tasse%20scolastiche%20per%20gli%20anni%20scolastici%201912-913-914-915%20gli%20studenti%20rimasti%20orfani%20ed%20abbandonati%20a%20causa%20del%20terremoto%20del%2028%20dicembre%201908.%20013U0857.md);
 
 Veduto il [R. decreto 25 aprile 1915, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-25;650);
 
@@ -40,7 +40,7 @@ Le stesse disposizioni sono estese a favore dei giovani appartenenti a famiglie 
 
 ## Art. 3.
 
-Terme restando le norme stabilite dall'[art. 3 della legge 19 giugno 1913, n. 857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-19;857#art_3), per gli studenti universitari, e quelle stabilite dagli articoli 4 e 5 per i sottoposti al patronato «Regina Elena», le domande di esonero da tasse per le scuole medie e normali, dovranno essere presentate ai rispettivi capi d' Istituto insieme con la domanda di inscrizione ai corsi o di ammissione agli esami. 
+Terme restando le norme stabilite dall'[art. 3 della legge 19 giugno 1913, n. 857](Che%20esonera%20dalle%20tasse%20scolastiche%20per%20gli%20anni%20scolastici%201912-913-914-915%20gli%20studenti%20rimasti%20orfani%20ed%20abbandonati%20a%20causa%20del%20terremoto%20del%2028%20dicembre%201908.%20013U0857.md), per gli studenti universitari, e quelle stabilite dagli articoli 4 e 5 per i sottoposti al patronato «Regina Elena», le domande di esonero da tasse per le scuole medie e normali, dovranno essere presentate ai rispettivi capi d' Istituto insieme con la domanda di inscrizione ai corsi o di ammissione agli esami. 
  
  Alle domande dovra' essere unito un attestato della Giunta del Comune in cui la famiglia ha domicilio, e uno dell'agente delle imposte, che dimostrino lo stato di famiglia e le condizioni disagiate di essa e provino che i danni ad essa arrecati dal terremoto sono tali da renderle impossibile di sopperire a tutte le spese della educazione e istruzione dei figli. 
  

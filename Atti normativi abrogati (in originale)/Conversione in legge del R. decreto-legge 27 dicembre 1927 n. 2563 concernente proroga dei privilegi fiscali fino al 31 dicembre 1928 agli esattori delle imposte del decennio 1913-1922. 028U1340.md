@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 dicembre 1927, n. 2563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-27;2563), concernente proroga dei privilegi fiscali fino al 31 dicembre 1928 agli esattori delle imposte del decennio 1913-1922. 
+ E' convertito in legge il [R. decreto-legge 27 dicembre 1927, n. 2563](Proroga%20dei%20privilegi%20fiscali%20fino%20al%2031%20dicembre%201928%20agli%20esattori%20delle%20imposte%20pel%20decennio%201913-1922.%20027U2563.md), concernente proroga dei privilegi fiscali fino al 31 dicembre 1928 agli esattori delle imposte del decennio 1913-1922. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

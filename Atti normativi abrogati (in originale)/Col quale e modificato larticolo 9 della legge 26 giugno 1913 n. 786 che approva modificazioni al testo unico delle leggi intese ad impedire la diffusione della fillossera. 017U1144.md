@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 26 giugno 1913, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;786);
+Vista la [legge 26 giugno 1913, n. 786](Che%20approva%20modificazioni%20al%20testo%20unico%20delle%20leggi%206%20giugno%201901%20n.%20355%20e%207%20luglio%201907%20n.%20490%20approvato%20con%20R.%20decreto%2017%20maggio%201908%20n.%20343%20sui%20consorzi%20di%20difesa%20della%20viticoltura%20ed_cb081f4e8931.md);
 
 Visto il parere del Consiglio di Stato in data 27 gennaio 1917 sullo schema di testo unico delle leggi relative alla fillossera e ai Consorzi antifillosserici;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro di agricoltura; Abbiamo decretato e decretiamo:
 
 L'art. 9 della legge suddetta 26 giugno 1913, n. 786, e' cosi' modificato: 
  
- «E' data facolta' al Governo del Re di coordinare e pubblicare, udito il Consiglio di Stato, in testo unico, le disposizioni contenute nelle [leggi 6 giugno 1901, n. 355; 7 luglio 1907, n. 490; 24 maggio 1874, n. 1943; 30 maggio 1875, n. 2517; 29 marzo 1883, n. 3767; 3 aprile 1879, n. 4810; 14 luglio 1881, n 301; 29 aprile 1883, n. 1295 e 12 febbraio 1888, n. 5252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-02-12;5252), con le disposizioni contenute nella [legge 26 giugno 1913, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;786), nonche' di regolare, in base alle leggi vigenti, la condizione dei delegati fillosserici ed assistenti tecnici, determinando in pari tempo il contributo che i consorzi avranno facolta' di aggiungere ai loro emolumenti». 
+ «E' data facolta' al Governo del Re di coordinare e pubblicare, udito il Consiglio di Stato, in testo unico, le disposizioni contenute nelle [leggi 6 giugno 1901, n. 355; 7 luglio 1907, n. 490; 24 maggio 1874, n. 1943; 30 maggio 1875, n. 2517; 29 marzo 1883, n. 3767; 3 aprile 1879, n. 4810; 14 luglio 1881, n 301; 29 aprile 1883, n. 1295 e 12 febbraio 1888, n. 5252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-02-12;5252), con le disposizioni contenute nella [legge 26 giugno 1913, n. 786](Che%20approva%20modificazioni%20al%20testo%20unico%20delle%20leggi%206%20giugno%201901%20n.%20355%20e%207%20luglio%201907%20n.%20490%20approvato%20con%20R.%20decreto%2017%20maggio%201908%20n.%20343%20sui%20consorzi%20di%20difesa%20della%20viticoltura%20ed_cb081f4e8931.md), nonche' di regolare, in base alle leggi vigenti, la condizione dei delegati fillosserici ed assistenti tecnici, determinando in pari tempo il contributo che i consorzi avranno facolta' di aggiungere ai loro emolumenti». 
  
  All'applicazione del testo unico di cui al presente articolo, sara' provveduto con apposito regolamento da approvarsi con decreto Reale su proposta del Ministero di agricoltura. 
  

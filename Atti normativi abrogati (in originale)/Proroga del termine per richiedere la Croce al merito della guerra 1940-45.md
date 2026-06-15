@@ -20,7 +20,7 @@ Il termine utile per richiedere la concessione della Croce al merito di guerra p
 
 ## Art. 2.
 
-Il termine utile per inoltrare reclamo avverso il negato conferimento di cui all'[art. 7 del regio decreto 14 dicembre 1942, n. 1729](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-12-14;1729#art_7), scade 6 mesi dopo la data di entrata in vigore della presente legge se l'interessato ha ricevuto la comunicazione del mancato riconoscimento prima di detta data; in ogni altro caso scade 6 mesi dopo l'avvenuta comunicazione.
+Il termine utile per inoltrare reclamo avverso il negato conferimento di cui all'[art. 7 del regio decreto 14 dicembre 1942, n. 1729](Concessione%20della%20croce%20al%20merito%20di%20guerra%20al%20personale%20che%20dal%2010%20giugno%201940-XVIII%20abbia%20partecipato%20ad%20operazioni%20militari%20nella%20guerra%20in%20corso.%20042U1729.md), scade 6 mesi dopo la data di entrata in vigore della presente legge se l'interessato ha ricevuto la comunicazione del mancato riconoscimento prima di detta data; in ogni altro caso scade 6 mesi dopo l'avvenuta comunicazione.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

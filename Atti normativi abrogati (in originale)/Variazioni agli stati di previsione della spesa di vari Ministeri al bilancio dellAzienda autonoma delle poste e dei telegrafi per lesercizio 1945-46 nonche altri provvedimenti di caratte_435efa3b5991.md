@@ -50,7 +50,7 @@ E' autorizzata la spesa di L. 5.000.000.000 per provvedere, in base alle disposi
 
 ## Art. 5.
 
-E' autorizzata la spesa di L. 2.450.000.000 per provvedere, in applicazione della [legge 26 ottobre 1940, n. 1543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-26;1543), alla ricostruzione di beni di enti locali, di istituzioni pubbliche di beneficenza e assistenza, di chiese parrocchiali ed assimilate, danneggiati dalla guerra.
+E' autorizzata la spesa di L. 2.450.000.000 per provvedere, in applicazione della [legge 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md), alla ricostruzione di beni di enti locali, di istituzioni pubbliche di beneficenza e assistenza, di chiese parrocchiali ed assimilate, danneggiati dalla guerra.
 
 ## Art. 6.
 
@@ -62,7 +62,7 @@ E' autorizzata la spesa di L. 2.000.000.000 per la esecuzione di lavori urgenti 
 
 ## Art. 8.
 
-E' autorizzata la spesa di L. 10.000.000 per far fronte agli oneri relativi a concorsi e sussidi previsti da speciali disposizioni legislative, ivi compreso il [R. decreto-legge 30 dicembre 1923, n. 8132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;8132), sulle agevolezze per la provvista di acqua potabile e per le opere d'igiene, convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473) e modificato col [R. decreto-legge 16 aprile 1936, n. 937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-04-16;937), convertito nella [legge 14 gennaio 1937, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-01-14;144).
+E' autorizzata la spesa di L. 10.000.000 per far fronte agli oneri relativi a concorsi e sussidi previsti da speciali disposizioni legislative, ivi compreso il [R. decreto-legge 30 dicembre 1923, n. 8132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;8132), sulle agevolezze per la provvista di acqua potabile e per le opere d'igiene, convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md) e modificato col [R. decreto-legge 16 aprile 1936, n. 937](Abolizione%20dei%20limiti%20dimpegno%20speciali%20per%20la%20concessione%20di%20sussidi%20in%20capitale%20nellesecuzione%20di%20opere%20igieniche.%20036U0937.md), convertito nella [legge 14 gennaio 1937, n. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20aprile%201936-XVI%20I.%20937%20che%20abolisce%20i%20limiti%20dimpegno%20speciali%20per%20la%20concessione%20di%20sussidi%20in%20capitale%20nellesecuzione%20di%20opere%20igieniche.%20037U0144.md).
 
 ## Art. 9.
 

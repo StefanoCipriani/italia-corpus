@@ -18,7 +18,7 @@ Vista la tariffa generale dei dazi doganali, approvata con [R. decreto-legge 9 g
 
 1925, n. 473, e le successive modificazioni;
 
-Visto il repertorio per l'applicazione della tariffa suddetta, approvato con [R. decreto-legge 27 novembre 1924, n. 2146](Approvazione%20del%20repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20024U2146.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il repertorio per l'applicazione della tariffa suddetta, approvato con [R. decreto-legge 27 novembre 1924, n. 2146](Approvazione%20del%20repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20024U2146.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Ritenuta la necessita' urgente ed assoluta di modificare il rimando del repertorio per le favette o favino, in relazione ai loro caratteri botanici, al loro impiego e alle analogie con i foraggi
 

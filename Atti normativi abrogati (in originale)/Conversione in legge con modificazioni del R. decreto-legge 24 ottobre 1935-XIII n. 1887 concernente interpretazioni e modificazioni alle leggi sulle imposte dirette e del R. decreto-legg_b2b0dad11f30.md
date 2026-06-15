@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-- Il minimo imponibile fissato dall'[art. 2 del R. decreto-legge 16 ottobre 1924, n. 1613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-16;1613#art_2), per i possessori dei redditi delle categorie B, C-1 e C-2, nonche' della categoria D che non siano tassabili per la ritenuta diretta, e' elevato: 
+- Il minimo imponibile fissato dall'[art. 2 del R. decreto-legge 16 ottobre 1924, n. 1613](Riordinamento%20delle%20aliquote%20dellimposta%20sui%20redditi%20di%20ricchezza%20mobile.%20024U1613.md), per i possessori dei redditi delle categorie B, C-1 e C-2, nonche' della categoria D che non siano tassabili per la ritenuta diretta, e' elevato: 
  
 
 a L. 2500 . . . dal 1° gennaio 1937
@@ -23,7 +23,7 @@ a " 4000 . . . dal . . . . . .1940
 
  
  
- La determinazione del minimo imponibile di cui al presente articolo e' fatta con le norme stabilite al secondo comma del citato [articolo 2 del R. decreto-legge 16 ottobre 1924, n. 1613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-16;1613#art_2), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), tenuto anche conto dei redditi che siano permanentemente o temporaneamente esenti dalla relativa imposta. 
+ La determinazione del minimo imponibile di cui al presente articolo e' fatta con le norme stabilite al secondo comma del citato [articolo 2 del R. decreto-legge 16 ottobre 1924, n. 1613](Riordinamento%20delle%20aliquote%20dellimposta%20sui%20redditi%20di%20ricchezza%20mobile.%20024U1613.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), tenuto anche conto dei redditi che siano permanentemente o temporaneamente esenti dalla relativa imposta. 
  
  Art. 2. 
  
@@ -67,11 +67,11 @@ di " 100 . . . . . . . da " 4401 a " 4500
  
  Art. 3. 
  
- - Tra i redditi di cui al secondo comma dell'art. 8 del Testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021), si intendono compresi anche quelli occasionali comunque prodotti, i quali, pertanto, devono essere specificati nelle dichiarazioni, a mente dell'art. 18, lettera e), del Testo unico sopra citato. 
+ - Tra i redditi di cui al secondo comma dell'art. 8 del Testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), si intendono compresi anche quelli occasionali comunque prodotti, i quali, pertanto, devono essere specificati nelle dichiarazioni, a mente dell'art. 18, lettera e), del Testo unico sopra citato. 
  
  Art. 4. 
  
- - L'art. 29 del Testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021), e' modificato come appresso: 
+ - L'art. 29 del Testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e' modificato come appresso: 
  
  Le societa' in nome collettivo e le societa' di fatto saranno considerate come unico contribuente, salvo per il pagamento dell'imposta, la solidarieta' degli individui che le compongono. 
  
@@ -89,7 +89,7 @@ di " 100 . . . . . . . da " 4401 a " 4500
  
  Art. 6. 
  
- - L'[art. 3 del R. decreto-legge 16 dicembre 1922, n. 1660](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-12-16;1660#art_3), e' sostituito dal seguente: 
+ - L'[art. 3 del R. decreto-legge 16 dicembre 1922, n. 1660](Concernente%20la%20revoca%20di%20esenzioni%20da%20ritenuta%20diretta%20in%20materia%20di%20imposta%20di%20ricchezza%20mobile.%20022U1660.md), e' sostituito dal seguente: 
  
  Sono soggetti all'imposta di ricchezza mobile mediante ritenuta diretta (categoria D) tutti i compensi, assegni, indennita' di qualunque specie ed a qualsiasi titolo dovuti dallo Stato, sia ai propri dipendenti, sia ad estranei, enti o privati, fatta eccezione per le somme che siano pagate espressamente a titolo di rimborso di spese, il cui ammontare sia documentato mediante rendiconto. 
  
@@ -121,7 +121,7 @@ di " 100 . . . . . . . da " 4401 a " 4500
  
  Art. 9. 
  
- - L'art. 59 del Testo Unico approvato con [R. decreto 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021), e' modificato come appresso: 
+ - L'art. 59 del Testo Unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e' modificato come appresso: 
  
  L'azione della Finanza per l'accertamento dei redditi di Ricchezza Mobile e' limitata all'anno in cui l'accertamento e' notificato ed ai quattro anni precedenti, restando prescritta per gli altri anni anteriori. 
  
@@ -147,11 +147,11 @@ di " 100 . . . . . . . da " 4401 a " 4500
  
  Art. 12. 
  
- - L'[art. 7 del R. decreto-legge 20 settembre 1926, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-20;1643#art_7), convertito nella [legge 2 giugno 1927, n. 833](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20settembre%201926%20n.%201643%20recante%20abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bel_53deb8e2d89b.md), e' modificato come segue: 
+ - L'[art. 7 del R. decreto-legge 20 settembre 1926, n. 1643](Abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bellico%20nonche%20sgravi%20e%20riduzioni%20in%20materia%20di%20imposte%20dirette%20e%20nuove%20norme%20p_7c52aec11706.md), convertito nella [legge 2 giugno 1927, n. 833](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20settembre%201926%20n.%201643%20recante%20abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bel_53deb8e2d89b.md), e' modificato come segue: 
  
- Le tassazioni eseguite, agli effetti dell'imposta di Ricchezza Mobile sui redditi propri delle societa' anonime o in accomandita per azioni, degli istituti di credito e delle Casse di risparmio, con le norme dell'articolo 25 del Testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021), hanno carattere provvisorio. 
+ Le tassazioni eseguite, agli effetti dell'imposta di Ricchezza Mobile sui redditi propri delle societa' anonime o in accomandita per azioni, degli istituti di credito e delle Casse di risparmio, con le norme dell'articolo 25 del Testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), hanno carattere provvisorio. 
  
- La tassazione definitiva e' eseguita annualmente sui risultati dei bilanci di competenza, provvedendosi, poi, in base ad essa, alla inscrizione del supplemento d'imposta ovvero al rimborso della maggiore imposta non dovuta, secondo le norme contenute nell'articolo 109, e, rispettivamente, nell'articolo 120, ultimo comma, del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-11;560). 
+ La tassazione definitiva e' eseguita annualmente sui risultati dei bilanci di competenza, provvedendosi, poi, in base ad essa, alla inscrizione del supplemento d'imposta ovvero al rimborso della maggiore imposta non dovuta, secondo le norme contenute nell'articolo 109, e, rispettivamente, nell'articolo 120, ultimo comma, del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md). 
  
  Per ottenere il rimborso previsto al precedente comma, l'ente interessato dovra' presentare la dichiarazione nei termini prescritti al precedente articolo 11. 
  
@@ -217,17 +217,17 @@ di " 100 . . . . . . . da " 4401 a " 4500
  
  Art. 21. 
  
- - La esenzione dall'imposta di Ricchezza Mobile concessa dal [1° comma dell'art. 15 del R. decreto-legge 20 settembre 1926, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-20;1643#art_15-com1), convertito nella [legge 2 giugno 1927, n. 833](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20settembre%201926%20n.%201643%20recante%20abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bel_53deb8e2d89b.md), ai sussidi, concorsi e contributi, largiti per fini di pubblico interesse dallo Stato, dalle Provincie, dai Comuni e da altri Enti pubblici a favore di enti o di privati individui, non esclude che, se dette erogazioni rappresentino un concorso nelle spese di produzione ed altre passivita' deducibili, debbano essere comprese fra i cespiti attivi ai fini della determinazione del reddito annuale tassabile. 
+ - La esenzione dall'imposta di Ricchezza Mobile concessa dal [1° comma dell'art. 15 del R. decreto-legge 20 settembre 1926, n. 1643](Abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bellico%20nonche%20sgravi%20e%20riduzioni%20in%20materia%20di%20imposte%20dirette%20e%20nuove%20norme%20p_7c52aec11706.md), convertito nella [legge 2 giugno 1927, n. 833](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20settembre%201926%20n.%201643%20recante%20abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bel_53deb8e2d89b.md), ai sussidi, concorsi e contributi, largiti per fini di pubblico interesse dallo Stato, dalle Provincie, dai Comuni e da altri Enti pubblici a favore di enti o di privati individui, non esclude che, se dette erogazioni rappresentino un concorso nelle spese di produzione ed altre passivita' deducibili, debbano essere comprese fra i cespiti attivi ai fini della determinazione del reddito annuale tassabile. 
  
  Art. 22. 
  
- - A decorrere dal 1° gennaio 1936, le disposizioni del primo comma dell'art. 15 del Testo Unico approvato con [R. decreto 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021), sono estese a chiunque attenda all'esercizio del credito, sia esso anche una societa' in accomandita semplice, o societa' in nome collettivo e di fatto, od un privato contribuente. Tali societa', ditte e persone sono quindi tenute a dichiarare gli interessi passivi sui depositi in conto corrente ed a risparmio ed a, pagare direttamente l'imposta relativa, salvo il diritto di rivalsa verso i depositanti. 
+ - A decorrere dal 1° gennaio 1936, le disposizioni del primo comma dell'art. 15 del Testo Unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), sono estese a chiunque attenda all'esercizio del credito, sia esso anche una societa' in accomandita semplice, o societa' in nome collettivo e di fatto, od un privato contribuente. Tali societa', ditte e persone sono quindi tenute a dichiarare gli interessi passivi sui depositi in conto corrente ed a risparmio ed a, pagare direttamente l'imposta relativa, salvo il diritto di rivalsa verso i depositanti. 
  
  Dalla stessa data, le disposizioni dell'art. 60 del Testo Unico sopra citato, concernenti l'accertamento provvisorio e di conguaglio dell'imposta relativa agli interessi passivi dei libretti di deposito o dei conti correnti presso le Casse di risparmio e gli Istituti di credito, sono estese a chiunque - enti, societa' di qualsiasi genere, privati - eserciti l'industria del credito. 
  
  Art. 23. 
  
- - Il secondo comma dell'art. 15 del Testo Unico approvato con [R. decreto 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021), e' modificato come appresso: 
+ - Il secondo comma dell'art. 15 del Testo Unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e' modificato come appresso: 
  
  Le provincie, i comuni e qualsiasi altro ente, societa' od individuo dovranno altresi' dichiarare, senza alcuna detrazione e per tutto il loro ammontare, i premi dei prestiti da essi o da altri per loro conto emessi, nonche' i premi delle lotterie di ogni genere che non siano esenti per concessione speciale e pagare direttamente l'imposta relativa, salvo rivalsa verso i creditori. 
  
@@ -237,23 +237,23 @@ di " 100 . . . . . . . da " 4401 a " 4500
  
  Art. 25. 
  
- - Fra gli assegni di cui agli articoli 15, 16 e 17 del Testo Unico approvato con [R. decreto 24 agosto 1877, n. 4021, e all'articolo 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021#art_2) del [R. decreto-legge 30 gennaio 1933, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-30;18), convertito nella [legge 5 giugno 1933, n. 683](Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20gennaio%201933%20n.%2018%20concernente%20provvedimenti%20per%20le%20dichiarazioni%20del%20redditi%20dl%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0683.md), sono comprese le gratificazioni, le doppie mensilita', le provvigioni e cointeressenze, le percentuali di servizio, le panatiche ed i supplementi di ogni genere, anche se eventuali, occasionali e straordinari. 
+ - Fra gli assegni di cui agli articoli 15, 16 e 17 del Testo Unico approvato con [R. decreto 24 agosto 1877, n. 4021, e all'articolo 2](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md) del [R. decreto-legge 30 gennaio 1933, n. 18](Provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0018.md), convertito nella [legge 5 giugno 1933, n. 683](Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20gennaio%201933%20n.%2018%20concernente%20provvedimenti%20per%20le%20dichiarazioni%20del%20redditi%20dl%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0683.md), sono comprese le gratificazioni, le doppie mensilita', le provvigioni e cointeressenze, le percentuali di servizio, le panatiche ed i supplementi di ogni genere, anche se eventuali, occasionali e straordinari. 
  
  Art. 26. 
  
- - A decorrere dal 1° gennaio 1936, le disposizioni del [R. decreto-legge 30 gennaio 1933, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-30;18), e del [R. decreto-legge 3 dicembre 1934, n. 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-03;1979), convertiti rispettivamente nelle [leggi 5 giugno 1933, n. 683, ed 8 aprile 1935, n. 662](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20dicembre%201934%20n.%201979%20concernente%20nuove%20norme%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2.%20035U0662.md), sono applicabili anche ad ogni specie di associazioni e di societa' civili, che abbiano alle proprie dipendenze persone addette all'amministrazione o al governo, cura e sfruttamento dei loro beni, per gli stipendi, pensioni, emolumenti ed assegni di ogni genere ad esse corrisposti. 
+ - A decorrere dal 1° gennaio 1936, le disposizioni del [R. decreto-legge 30 gennaio 1933, n. 18](Provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0018.md), e del [R. decreto-legge 3 dicembre 1934, n. 1979](Nuove%20norme%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C.%202.%20034U1979.md), convertiti rispettivamente nelle [leggi 5 giugno 1933, n. 683, ed 8 aprile 1935, n. 662](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20dicembre%201934%20n.%201979%20concernente%20nuove%20norme%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2.%20035U0662.md), sono applicabili anche ad ogni specie di associazioni e di societa' civili, che abbiano alle proprie dipendenze persone addette all'amministrazione o al governo, cura e sfruttamento dei loro beni, per gli stipendi, pensioni, emolumenti ed assegni di ogni genere ad esse corrisposti. 
  
  Le stesse disposizioni sono applicabili, dalla stessa data, a tutti gli enti diversi dallo Stato per i quali sia stabilita la classificazione in categoria D degli stipendi, delle pensioni e di ogni assegno in genere da essi corrisposto ai propri dipendenti, nonche' a tutti gli enti che siano, agli effetti fiscali, equiparati alle Amministrazioni dello Stato. 
  
  Art. 27. 
  
- - Gli stipendi ed ogni altra competenza del personale addetto alle aziende esercenti ferrovie e tramvie urbane ed intercomunali e linee di navigazione interna, gestite da Enti morali - diversi dallo Stato, dalle provincie e dai comuni - e societa', ed alle aziende esercenti pubblici servizi automobilistici e reti telefoniche sono classificati, dal 1° gennaio 1936, in categoria C-2 e tassati per ruolo con le norme stabilite nel [R. decreto-legge 30 gennaio 1933, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-30;18), e nel [R. decreto-legge 3 dicembre 1934, n. 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-03;1979), rispettivamente convertiti nelle [leggi 5 giugno 1933, n. 683, e 8 aprile 1935, n. 662](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20dicembre%201934%20n.%201979%20concernente%20nuove%20norme%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2.%20035U0662.md). 
+ - Gli stipendi ed ogni altra competenza del personale addetto alle aziende esercenti ferrovie e tramvie urbane ed intercomunali e linee di navigazione interna, gestite da Enti morali - diversi dallo Stato, dalle provincie e dai comuni - e societa', ed alle aziende esercenti pubblici servizi automobilistici e reti telefoniche sono classificati, dal 1° gennaio 1936, in categoria C-2 e tassati per ruolo con le norme stabilite nel [R. decreto-legge 30 gennaio 1933, n. 18](Provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0018.md), e nel [R. decreto-legge 3 dicembre 1934, n. 1979](Nuove%20norme%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C.%202.%20034U1979.md), rispettivamente convertiti nelle [leggi 5 giugno 1933, n. 683, e 8 aprile 1935, n. 662](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20dicembre%201934%20n.%201979%20concernente%20nuove%20norme%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2.%20035U0662.md). 
  
  Tutte le disposizioni contrarie sono abrogate. 
  
  Art. 28. 
  
- - All'[art. 5 del R. decreto 30 dicembre 1923, n. 3069](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3069#art_5), per la rivalutazione generale del reddito dei fabbricati, viene sostituito il seguente, con effetto dal 1° gennaio 1937. 
+ - All'[art. 5 del R. decreto 30 dicembre 1923, n. 3069](Rivalutazione%20generale%20del%20reddito%20dei%20fabbricati.%20023U3069.md), per la rivalutazione generale del reddito dei fabbricati, viene sostituito il seguente, con effetto dal 1° gennaio 1937. 
  
  Il reddito dei fabbricati e delle altre stabili costruzioni, che, a termini delle vigenti disposizioni legislative, costituiscono opifici industriali, e' soggetto ad imposta di Ricchezza mobile quale elemento del complessivo reddito di categoria B derivante dall'industria esercitata nell'opificio, a condizione che l'industria sia esercitata direttamente dal proprietario del fabbricato. 
  
@@ -287,7 +287,7 @@ di " 100 . . . . . . . da " 4401 a " 4500
  
  Art. 32. 
  
- - All'art. 64 del Testo Unico approvato con [R. decreto 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021), e' aggiunto il seguente comma: 
+ - All'art. 64 del Testo Unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e' aggiunto il seguente comma: 
  
  Rimane, inoltre, sospesa la iscrizione a ruolo dei redditi dipendenti da crediti verso debitori dei quali sia stato dichiarato il fallimento, se, all'epoca della formazione del ruolo, sia scaduto il termine fissato dall'articolo 691, n. 5, del Codice di commercio, per presentare alla cancelleria del tribunale le dichiarazioni dei crediti. 
  
@@ -305,17 +305,17 @@ di " 100 . . . . . . . da " 4401 a " 4500
  
  Art. 35. 
  
- - A tenore dell'ultimo comma dell'art. 120 del Regolamento approvato con [R. decreto 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-11;560), nel caso di ricorso all'Autorita' giudiziaria da parte dell'Amministrazione finanziaria contro i deliberati della Commissione centrale per le imposte dirette, non si fara' luogo allo sgravio o rimborso della imposta, se non quando sia intervenuta una sentenza passata in giudicato. 
+ - A tenore dell'ultimo comma dell'art. 120 del Regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), nel caso di ricorso all'Autorita' giudiziaria da parte dell'Amministrazione finanziaria contro i deliberati della Commissione centrale per le imposte dirette, non si fara' luogo allo sgravio o rimborso della imposta, se non quando sia intervenuta una sentenza passata in giudicato. 
  
  Art. 36. 
  
- - Nei casi di cessione di un esercizio di industria o di commercio, di cui all'articolo 63 del Testo Unico approvato con [R. decreto 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021), il nuovo esercente e' solidalmente responsabile dell'imposta per i redditi di categoria B e C-2 dovuta, per l'anno in corso e per l'anno anteriore, dai precedenti esercenti, sia per l'imposta che sia gia' stata iscritta nei ruoli, sia per quella che sia ancora da iscrivere in dipendenza di accertamenti gia' notificati prima dell'avvenuta cessione. 
+ - Nei casi di cessione di un esercizio di industria o di commercio, di cui all'articolo 63 del Testo Unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), il nuovo esercente e' solidalmente responsabile dell'imposta per i redditi di categoria B e C-2 dovuta, per l'anno in corso e per l'anno anteriore, dai precedenti esercenti, sia per l'imposta che sia gia' stata iscritta nei ruoli, sia per quella che sia ancora da iscrivere in dipendenza di accertamenti gia' notificati prima dell'avvenuta cessione. 
  
  Le stesse norme si applicano nel caso di cessione o di sostituzione nell'esercizio di mezzi di trasporto in servizio pubblico e di navi mercantili e pescherecce. 
  
  Art. 37. 
  
- - Le disposizioni contenute nell'art. 69 del Testo Unico approvato con [R. decreto 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-08-24;4021), si applicano anche ai redditi dipendenti da rapporti d'impiego o di lavoro, come stipendi, pensioni, assegni, indennita' di licenziamento e simili. 
+ - Le disposizioni contenute nell'art. 69 del Testo Unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), si applicano anche ai redditi dipendenti da rapporti d'impiego o di lavoro, come stipendi, pensioni, assegni, indennita' di licenziamento e simili. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

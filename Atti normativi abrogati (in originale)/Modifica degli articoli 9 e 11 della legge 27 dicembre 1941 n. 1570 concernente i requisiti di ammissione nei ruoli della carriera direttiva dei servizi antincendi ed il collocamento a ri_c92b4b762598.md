@@ -20,7 +20,7 @@ PROMULGA la seguente legge:
 
 L'[art. 9 della legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570#art_9), e' sostituito dal seguente: 
  "L'ammissione nel ruolo della carriera direttiva dei servizi antincendi avviene mediante pubblico concorso per esami. 
- Gli aspiranti a posti di ispettore in prova, oltre a possedere i requisiti generali di cui all'art. 2 del testo unico delle disposizioni concernenti lo statuito degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica, 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), devono, altresi', essere in possesso dei seguenti requisiti: 
+ Gli aspiranti a posti di ispettore in prova, oltre a possedere i requisiti generali di cui all'art. 2 del testo unico delle disposizioni concernenti lo statuito degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica, 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), devono, altresi', essere in possesso dei seguenti requisiti: 
  1) diploma di laurea in ingegneria conseguita in una Universita' italiana; 
  2) eta' che, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, non deve essere superiore agli anni 30, salve le elevazioni previste dalle vigenti disposizioni; tale limite non potra' in nessun caso eccedere gli anni 35; 
  3) avere assolto agli obblighi di leva; 
@@ -45,7 +45,7 @@ ispettore . . . . . . . . . . . . . . . . . . . . . . . . " 54
 primo coadiutore . . . . . . . . . . . . . . . . . . . anni 57 
 coadiutore . . . . . . . . . . . . . . . . . . . . . . . " 54 
  Per il trattamento di quiescenza, ordinario o privilegiato, valgono le norme in vigore per gli ufficiali della Arma dei carabinieri. 
- La liquidazione della pensione e' effettuata in base alle disposizioni contenute nel [decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;20) e nella [legge 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734)".
+ La liquidazione della pensione e' effettuata in base alle disposizioni contenute nel [decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](../DPR/Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md) e nella [legge 11 luglio 1956, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-11;734)".
 
 ## Art. 3.
 
@@ -57,7 +57,7 @@ Gli ispettori della carriera direttiva del personale tecnico del servizio antinc
 
 Gli ufficiali volontari in possesso di laurea, in servizio continuativo da almeno sei mesi, ritenuti meritevoli dal Consiglio di amministrazione, sono inquadrati con decreto del Ministro per l'interno, nella qualifica di ispettori del ruolo tecnico antincendi della carriera direttiva. 
  Gli ufficiali volontari, in possesso del diploma di scuola media di secondo grado, in servizio continuativo da almeno sei mesi, ritenuti meritevoli dal Consiglio di amministrazione, sono inquadrati in soprannumero, con decreto del Ministro per l'interno, nella qualifica di coadiutori se primi ufficiali e di coadiutori aggiunti se secondi ufficiali nel ruolo ad esaurimento antincendi della carriera di concetto. 
- Ai fini del trattamento di quiescenza, il personale di cui al presente articolo puo' riscattare il servizio prestato quale ufficiale volontario in servizio continuativo con le modalita' previste dal [decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262).
+ Ai fini del trattamento di quiescenza, il personale di cui al presente articolo puo' riscattare il servizio prestato quale ufficiale volontario in servizio continuativo con le modalita' previste dal [decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

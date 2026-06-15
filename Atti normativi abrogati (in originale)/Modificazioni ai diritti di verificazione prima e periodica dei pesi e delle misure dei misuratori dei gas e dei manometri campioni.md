@@ -12,13 +12,13 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il testo unico delle leggi metriche 23 agosto 1890, n. 7088 (serie 3a);
 
-Visto il [regio decreto-legge 28 novembre 1938, numero 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;1941), col quale vennero modificati i diritti metrici fissati dal [regio decreto 21 ottobre 1923, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367);
+Visto il [regio decreto-legge 28 novembre 1938, numero 1941](Modificazioni%20ai%20diritti%20metrici.%20038U1941.md), col quale vennero modificati i diritti metrici fissati dal [regio decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md);
 
 Visto il [decreto legislativo luogotenenziale 10 agosto 1944, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;181), col quale detti diritti vennero ulteriormente modificati;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Ritenuta la necessita' urgente ed assoluta di modificare ancora i diritti di verificazione dei pesi e delle misure, dei misuratori dei gas e dei manometri campioni;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per l'industria e per il Commercio, di concerto con 
 
 ## Art. 1.
 
-I diritti di verificazione periodica dei pesi e delle misure, fissati dalla tabella annessa al [regio decreto legge 28 novembre 1938, n. 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;1941), ed aumentati del 100% a decorrere dal biennio 1945-46, sono, a decorrere dal biennio 1947-48, sostituiti da quelli indicati nella tabella annessa al presente decreto, vistata dai Ministri per l'industria e per il commercio e per le finanze.
+I diritti di verificazione periodica dei pesi e delle misure, fissati dalla tabella annessa al [regio decreto legge 28 novembre 1938, n. 1941](Modificazioni%20ai%20diritti%20metrici.%20038U1941.md), ed aumentati del 100% a decorrere dal biennio 1945-46, sono, a decorrere dal biennio 1947-48, sostituiti da quelli indicati nella tabella annessa al presente decreto, vistata dai Ministri per l'industria e per il commercio e per le finanze.
 
 ## Art. 2.
 
@@ -45,7 +45,7 @@ Per la rinnovazione dei bolli della verifica prima alle pompe automisuratrici, a
 
 ## Art. 5.
 
-I due diritti fissi di cui all'[art. 3 del regio decreto legge 28 novembre 1938, n. 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;1941#art_3), ed aumentati del 200% con [decreto legislativo luogotenenziale 10 agosto 1944, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;181), sono, a far tempo dall'entrata in vigore del presente decreto legislativo, fissati in L. 1500 ciascuno.
+I due diritti fissi di cui all'[art. 3 del regio decreto legge 28 novembre 1938, n. 1941](Modificazioni%20ai%20diritti%20metrici.%20038U1941.md), ed aumentati del 200% con [decreto legislativo luogotenenziale 10 agosto 1944, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;181), sono, a far tempo dall'entrata in vigore del presente decreto legislativo, fissati in L. 1500 ciascuno.
 
 ## Art. 6.
 

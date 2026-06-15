@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'art. 2 del su citato [R. decreto 1° novembre 1914, n. 1194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-01;1194), e' modificato come segue: 
+L'art. 2 del su citato [R. decreto 1° novembre 1914, n. 1194](Col%20quale%20vengono%20modificati%20alcuni%20dazi%20attualmente%20in%20vigore%20in%20Tripolitania%20ed%20in%20Cirenaica.%20014U1194.md), e' modificato come segue: 
  
  Sono ammesse in esenzione dei dazi doganali, alla loro importazione nella Tripolitania e nella Cirenaica, le merci seguenti: 
  

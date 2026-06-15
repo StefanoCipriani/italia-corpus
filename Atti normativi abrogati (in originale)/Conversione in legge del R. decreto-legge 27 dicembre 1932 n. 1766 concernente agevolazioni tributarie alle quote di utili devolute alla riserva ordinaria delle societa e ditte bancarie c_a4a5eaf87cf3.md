@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 dicembre 1932, n. 1766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-12-27;1766), concernente agevolazioni tributarie alle quote di utili devolute alla riserva ordinaria delle societa' e ditte bancarie che raccolgono depositi. 
+ E' convertito in legge il [R. decreto-legge 27 dicembre 1932, n. 1766](Agevolazioni%20tributarie%20alle%20quote%20di%20utili%20devolute%20alla%20riserva%20ordinaria%20delle%20societa%20e%20ditte%20bancarie%20che%20raccolgono%20depositi.%20032U1766.md), concernente agevolazioni tributarie alle quote di utili devolute alla riserva ordinaria delle societa' e ditte bancarie che raccolgono depositi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

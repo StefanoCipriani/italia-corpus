@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto legislativo 27 maggio 1946, numero 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-27;436), concernente l'avocazione allo Stato dei profitti di guerra e dei profitti eccezionali di speculazione;
+Visto il [regio decreto legislativo 27 maggio 1946, numero 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), concernente l'avocazione allo Stato dei profitti di guerra e dei profitti eccezionali di speculazione;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 22 dicembre 1946, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-22;508), recante modificazioni alle norme sull'avocazione dei profitti eccezionali di speculazione;
 
@@ -18,7 +18,7 @@ Visto il [decreto legislativo del Capo provvisorio dello Stato 22 dicembre 1946,
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze e il tesoro, di concerto con il Minis
 
 ## Art. 1.
 
-L'[art. 18 del regio decreto legislativo 27 maggio 1946 n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-27;436#art_18), e' sostituito dal seguente:
+L'[art. 18 del regio decreto legislativo 27 maggio 1946 n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), e' sostituito dal seguente:
  "Sono avocati allo Stato i profitti eccezionali di contingenza conseguiti dal 1° gennaio 1939 in dipendenza:
  a) dell'esercizio di qualsiasi attivita' in contrasti con le disposizioni concernenti il conferimento obbligatorio od il blocco delle merci e delle derrate, o la limitazione dei prezzi;
  b) delle rivalutazioni delle merci soggette a limitazione o disciplina dei prezzi, giacenti presso importatori, assegnatori, grossisti e distributori, a seguito di concessione di aumento dei prezzi. La stessa norma si applica in confronto dei produttori, limitatamente ai quantitativi che eccedano la consistenza necessaria per assicurare il normale andamento del ciclo produttivo;

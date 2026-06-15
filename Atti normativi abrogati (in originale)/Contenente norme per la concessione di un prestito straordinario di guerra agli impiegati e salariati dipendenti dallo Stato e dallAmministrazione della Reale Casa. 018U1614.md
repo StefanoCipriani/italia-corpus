@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Durante lo stato di guerra, e sino a sei mesi dopo la pubblicazione del trattato di pace, il Ministero del tesoro (Direzione generale del segretariato) potra' concedere per una sola volta un prestito straordinario di guerra, a ciascuno degl'impiegati e salariati dipendenti dallo Stato e dall'Amministrazione della Reale Casa, con stipendio o mercede non superiore ad annue L. 3000 lorde ed aventi i requisiti di cui agli [articoli 3 della legge 30 giugno 1908, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;335#art_3), ed 8 della [legge 16 dicembre 1914, n. 1362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1362), per gli impiegati, e 1 della [legge 13 luglio 1910, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;444), per gli operai. 
+Durante lo stato di guerra, e sino a sei mesi dopo la pubblicazione del trattato di pace, il Ministero del tesoro (Direzione generale del segretariato) potra' concedere per una sola volta un prestito straordinario di guerra, a ciascuno degl'impiegati e salariati dipendenti dallo Stato e dall'Amministrazione della Reale Casa, con stipendio o mercede non superiore ad annue L. 3000 lorde ed aventi i requisiti di cui agli [articoli 3 della legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md), ed 8 della [legge 16 dicembre 1914, n. 1362](Sulla%20cedibilita%20degli%20stipendi%20degli%20impiegati%20e%20delle%20mercedi%20degli%20operai%20dipendenti%20dallo%20Stato.%20014U1362.md), per gli impiegati, e 1 della [legge 13 luglio 1910, n. 444](Estensione%20agli%20operai%20dipendenti%20dallo%20Stato%20delle%20disposizioni%20relative%20alla%20cedibilita%20degli%20stipendi%20degli%20impiegati%20dello%20Stato.%20010U0444.md), per gli operai. 
  
  Tale prestito, indipendentemente dalle cessioni di stipendio o di mercede in corso e senza alcun pregiudizio di quelle che in conformita' delle vigenti leggi venissero consentite per l'avvenire, non potra' eccedere i tre quarti dell'intero stipendio o dell'intera mercede di un anno, valutati al netto. 
  
@@ -34,11 +34,11 @@ Ciascun prestito sara' estinto nel periodo di dieci anni, in centoventi rate men
  
  La estinzione di ciascun prestito avra' inizio dal mese immediatamente successivo a quello in cui il prestito viene concesso, ma agli effetti del calcolo degli interessi di cui alla lettera b) del presente articolo, si intendera' iniziata alla fine del secondo mese. 
  
- L'azione per il rimborso delle ritenute di cui agli [articoli 10 della legge 30 giugno 1908, n. 335 e 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;7#art_10) della [legge 13 luglio 1910, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;444), non potra' essere esercitata quando l'impiegato o l'operaio che le ha rilasciate, abbia ottenuto il prestito di cui al presente decreto.
+ L'azione per il rimborso delle ritenute di cui agli [articoli 10 della legge 30 giugno 1908, n. 335 e 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;7#art_10) della [legge 13 luglio 1910, n. 444](Estensione%20agli%20operai%20dipendenti%20dallo%20Stato%20delle%20disposizioni%20relative%20alla%20cedibilita%20degli%20stipendi%20degli%20impiegati%20dello%20Stato.%20010U0444.md), non potra' essere esercitata quando l'impiegato o l'operaio che le ha rilasciate, abbia ottenuto il prestito di cui al presente decreto.
 
 ## Art. 3.
 
-Per i prestiti concessi in virtu' del presente decreto non sono applicabili i limiti stabiliti dal primo e secondo capoverso dell'[art. 4 della legge 30 giugno 1908, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;335#art_4). 
+Per i prestiti concessi in virtu' del presente decreto non sono applicabili i limiti stabiliti dal primo e secondo capoverso dell'[art. 4 della legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md). 
  
  Le ritenute per il ricupero di tali prestiti saranno effettuate per intero, indipendentemente dai precedenti vincoli gravanti sullo stipendio o sulla mercede, e di esse non sara' tenuto conto per stabilire la misura di eventuali vincoli successivi.
 
@@ -56,7 +56,7 @@ A tutti gli effetti del presente decreto, per stabilire l'ammontare netto dello 
 
 ## Art. 6.
 
-Sul conto corrente di cui all'[art. 31 del regolamento 9 giugno 1918, n. 864](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1918-06-09;864#art_31), oltre ai prelevamenti autorizzati dagli [articoli 11 della legge 30 giugno 1908, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;335#art_11), ed 8 della [legge 13 luglio 1910, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;444), potranno essere fatti prelevamenti: 
+Sul conto corrente di cui all'[art. 31 del regolamento 9 giugno 1918, n. 864](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1918-06-09;864#art_31), oltre ai prelevamenti autorizzati dagli [articoli 11 della legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md), ed 8 della [legge 13 luglio 1910, n. 444](Estensione%20agli%20operai%20dipendenti%20dallo%20Stato%20delle%20disposizioni%20relative%20alla%20cedibilita%20degli%20stipendi%20degli%20impiegati%20dello%20Stato.%20010U0444.md), potranno essere fatti prelevamenti: 
  
  a) per provvedere alla concessione dei prestiti di cui all'art. 1 del presente decreto; 
  
@@ -74,7 +74,7 @@ I contratti di mutuo contemplati dal presente decreto, nonche' tutti i documenti
 
 ## Art. 8.
 
-Tutti i rischi derivanti dalla concessione dei prestiti consentiti dal presente decreto, sono posti a carico del fondo di garanzia, il quale potra' rivalersene direttamente verso gli impiegati e gli operai inadempienti, o verso i loro eredi od aventi causa, nei casi in cui tale diritto di rivalsa gli e' riconosciuto dalle [leggi 30 giugno 1908, n. 335, 13 luglio 1910, n. 444 e 16 dicembre 1914, n. 1362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1362), e dei regolamenti relativi per le ordinarie cessioni di stipendi e di mercedi. 
+Tutti i rischi derivanti dalla concessione dei prestiti consentiti dal presente decreto, sono posti a carico del fondo di garanzia, il quale potra' rivalersene direttamente verso gli impiegati e gli operai inadempienti, o verso i loro eredi od aventi causa, nei casi in cui tale diritto di rivalsa gli e' riconosciuto dalle [leggi 30 giugno 1908, n. 335, 13 luglio 1910, n. 444 e 16 dicembre 1914, n. 1362](Sulla%20cedibilita%20degli%20stipendi%20degli%20impiegati%20e%20delle%20mercedi%20degli%20operai%20dipendenti%20dallo%20Stato.%20014U1362.md), e dei regolamenti relativi per le ordinarie cessioni di stipendi e di mercedi. 
  
  A questo fine spettano al tesoro, per conto del fondo di garanzia, tutti i privilegi, le azioni e le procedure ammessi, a tali effetti, dalle citate leggi e regolamenti.
 
@@ -90,7 +90,7 @@ Il ministro del tesoro e' autorizzato, entro i limiti di spesa di cui al precede
 
 ## Art. 11.
 
-Per tutto cio' che non sia espressamente regolato dal presente decreto, ed in quanto non siano in contrasto con le disposizioni del medesimo, saranno applicabili ai prestiti con esso autorizzati, le disposizioni delle [leggi 30 giugno 1908, n. 335; 13 luglio 1910, numero 444; 16 dicembre 1914, n.1362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1362); del [decreto Luogotenenziale 9 giugno 1918, n. 863](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-09;863), e dei [regolamenti 24 settembre 1908, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-09-24;574), [11 settembre 1910, n. 729](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1910-09-11;729), e [9 giugno 1918, n. 864](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1918-06-09;864).
+Per tutto cio' che non sia espressamente regolato dal presente decreto, ed in quanto non siano in contrasto con le disposizioni del medesimo, saranno applicabili ai prestiti con esso autorizzati, le disposizioni delle [leggi 30 giugno 1908, n. 335; 13 luglio 1910, numero 444; 16 dicembre 1914, n.1362](Sulla%20cedibilita%20degli%20stipendi%20degli%20impiegati%20e%20delle%20mercedi%20degli%20operai%20dipendenti%20dallo%20Stato.%20014U1362.md); del [decreto Luogotenenziale 9 giugno 1918, n. 863](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-09;863), e dei [regolamenti 24 settembre 1908, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-09-24;574), [11 settembre 1910, n. 729](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1910-09-11;729), e [9 giugno 1918, n. 864](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1918-06-09;864).
 
 ## Art. 12.
 

@@ -14,13 +14,13 @@ PER GRAZIA DI DIO PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee, approvato col [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), ed il relativo regolamento approvato col [R. decreto 16 aprile 1922, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-16;547);
+Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee, approvato col [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), ed il relativo regolamento approvato col [R. decreto 16 aprile 1922, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-16;547);
 
 Viste le successive modificazioni e aggiunte al testo delle disposizioni suddette;
 
 Visto l'[art. 3, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1313#art_1), successivamente modificato;
+Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), successivamente modificato;
 
 Sentito il Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Alle merci ammesse alla importazione temporanea per essere lavorate, giusta la tabella la annessa al [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sono aggiunte le seguenti: 
+Alle merci ammesse alla importazione temporanea per essere lavorate, giusta la tabella la annessa al [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), sono aggiunte le seguenti: 
  
  Parte di provvedimento in formato grafico
 
@@ -38,7 +38,7 @@ E' prorogata alle stesse condizioni gia' precedentemente stabilite e fino al 30 
 
 ## Art. 3.
 
-La temporanea importazione di galalite per la fabbricazione dei bottoni, concessi col [R. decreto-legge 11 maggio 1924, n. 809](Modificazioni%20ed%20aggiunte%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20024U0809.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' limitata al 30 giugno 1937 ed e' estesa, fino alla stessa data, alla fabbricazione di fibbie, allacciatori e simili.
+La temporanea importazione di galalite per la fabbricazione dei bottoni, concessi col [R. decreto-legge 11 maggio 1924, n. 809](Modificazioni%20ed%20aggiunte%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20024U0809.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' limitata al 30 giugno 1937 ed e' estesa, fino alla stessa data, alla fabbricazione di fibbie, allacciatori e simili.
 
 ## Art. 4.
 

@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 18 maggio 1924, n. 753](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge 18 maggio 1924, n. 753](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto l'[art. 8 del R. decreto-legge 29 novembre 1925, numero 2464](Norme%20modificative%20ed%20integrative%20del%20R.%20decreto%2018%20maggio%201924%20n.%20753%20sulle%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20025U2464.md), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898);
+Visto l'[art. 8 del R. decreto-legge 29 novembre 1925, numero 2464](Norme%20modificative%20ed%20integrative%20del%20R.%20decreto%2018%20maggio%201924%20n.%20753%20sulle%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20025U2464.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
 Ritenuta la opportunita' di modificare ed integrare la composizione del Comitato interministeriale per le trasformazioni fondiarie di pubblico interesse e di costituire in seno allo stesso una Giunta esecutiva allo scopo di rendere piu' spedita l'attuazione del compito dalla legge affidato al Comitato medesimo;
 

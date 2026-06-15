@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Sono abrogati il [primo comma dell'art. 7 del R. decreto-legge 30 giugno 1926, n. 1096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-06-30;1096#art_7-com1), ed il [R. decreto-legge 6 dicembre 1926, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-06;1064), contenenti disposizioni che limitano il numero delle pagine dei giornali quotidiani.
+Sono abrogati il [primo comma dell'art. 7 del R. decreto-legge 30 giugno 1926, n. 1096](Provvedimenti%20circa%20la%20disciplina%20di%20taluni%20consumi.%20026U1096.md), ed il [R. decreto-legge 6 dicembre 1926, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-06;1064), contenenti disposizioni che limitano il numero delle pagine dei giornali quotidiani.
 
 ## Art. 2.
 
-Le disposizioni del [R. decreto 28 settembre 1919, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-28;1933), per il riposo festivo nelle aziende dei giornali, e quelle del relativo regolamento approvato con [R. decreto 23 giugno 1923, n. 1393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-23;1393), non sono applicabili all'Agenzia Stefani. 
+Le disposizioni del [R. decreto 28 settembre 1919, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-28;1933), per il riposo festivo nelle aziende dei giornali, e quelle del relativo regolamento approvato con [R. decreto 23 giugno 1923, n. 1393](Nuovo%20regolamento%20per%20il%20riposo%20festivo%20nelle%20aziende%20dei%20giornali.%20023U1393.md), non sono applicabili all'Agenzia Stefani. 
  
  Il personale della predetta Agenzia che lavora la domenica usufruisce, per turno in altro giorno della settimana, del riposo compensativo di 24 ore consecutive, decorrenti da una mezzanotte all'altra. 
  

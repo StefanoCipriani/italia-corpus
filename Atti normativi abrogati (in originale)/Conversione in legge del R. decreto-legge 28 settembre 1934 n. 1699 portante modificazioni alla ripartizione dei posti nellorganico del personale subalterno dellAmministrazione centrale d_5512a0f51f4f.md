@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1699), portante modificazioni alla ripartizione dei posti nell'organico del personale subalterno dell'amministrazione centrale della guerra. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1699](Modificazioni%20alla%20ripartizione%20dei%20posti%20nellorganico%20del%20personale%20subalterno%20dellAmministrazione%20centrale%20della%20guerra.%20034U1699.md), portante modificazioni alla ripartizione dei posti nell'organico del personale subalterno dell'amministrazione centrale della guerra. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

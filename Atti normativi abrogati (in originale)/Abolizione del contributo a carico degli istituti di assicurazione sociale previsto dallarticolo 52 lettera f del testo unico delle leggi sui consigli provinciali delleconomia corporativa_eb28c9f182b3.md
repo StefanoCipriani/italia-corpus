@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-A decorrere dal 1 gennaio 1960, non e' piu' dovuto alle Camere di commercio, industria e agricoltura il contributo previsto, a carico degli istituti di assicurazione sociale, dall'articolo 52, lettera f) del testo unico delle leggi sui consigli provinciali dell'economia corporativa approvato con [regio decreto 20 settembre 1934, n. 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;2011).
+A decorrere dal 1 gennaio 1960, non e' piu' dovuto alle Camere di commercio, industria e agricoltura il contributo previsto, a carico degli istituti di assicurazione sociale, dall'articolo 52, lettera f) del testo unico delle leggi sui consigli provinciali dell'economia corporativa approvato con [regio decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
  1 contributi di cui al comma precedente eventualmente pagati alle camere di commercio, industria e agricoltura dopo la data del 31 dicembre 1959, sono irripetibili.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 settembre 1931, n. 1204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-17;1204), che modifica il regime doganale del tonno sott'olio e del sughero. 
+ E' convertito in legge il [R. decreto-legge 17 settembre 1931, n. 1204](Modificazione%20del%20regime%20doganale%20del%20tonno%20sottolio%20e%20del%20sughero.%20031U1204.md), che modifica il regime doganale del tonno sott'olio e del sughero. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti dl osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 18 gennaio 1932 - Anno X 
  

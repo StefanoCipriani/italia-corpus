@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Viste le [leggi 11 marzo 1953, n. 150 e 18 giugno 1954, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-06-18;343), concernenti delega legislativa al Governo per l'attribuzione di funzioni statali di interesse esclusivamente locale alle Province, ai Comuni e ad altri Enti locali e per l'attuazione del decentramento amministrativo;
+Viste le [leggi 11 marzo 1953, n. 150 e 18 giugno 1954, n. 343](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20del%20termine%20previsto%20dagli%20articoli%201%20e%208%20della%20legge%2011%20marzo%201953%20n.%20150%20per%20la%20delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20di%20interesse%20esclusivamente%20l_8fb8bdc361e6.md), concernenti delega legislativa al Governo per l'attribuzione di funzioni statali di interesse esclusivamente locale alle Province, ai Comuni e ad altri Enti locali e per l'attuazione del decentramento amministrativo;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Udito il parere della Commissione consultiva istituita con l'[art. 2 della, legge 11 marzo 1953, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;150#art_2);
+Udito il parere della Commissione consultiva istituita con l'[art. 2 della, legge 11 marzo 1953, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md);
 
 Udito il parere della Corte dei conti a sezioni riunite;
 
@@ -38,7 +38,7 @@ Gli Ispettorati provinciali dell'agricoltura provvedono all'assistenza tecnica d
 
 ### Art. 3.
 
-Gli Ispettorati ripartimentali delle foreste provvedono, in via esecutiva, alle attribuzioni di cui all'[articolo 1 del decreto legislativo 12 marzo 1948, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-12;804#art_1).
+Gli Ispettorati ripartimentali delle foreste provvedono, in via esecutiva, alle attribuzioni di cui all'[articolo 1 del decreto legislativo 12 marzo 1948, n. 804](../Decreti%20Legislativi/Norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md).
  Provvedono altresi' ad ogni altro compito loro demandato dalle leggi e dai regolamenti.
  Esercitano inoltre le attribuzioni che saranno ad essi delegate dal capo dall'Ispettorato regionale delle foreste.
 
@@ -118,7 +118,7 @@ L'[art. 26 della legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res
 
 ### Art. 17.
 
-Le attribuzioni di riscontro e di controllo sui provvedimenti di competenza - propria o delegata - degli Ispettorati agrari compartimentali e degli Ispettorati regionali delle foreste, e sui provvedimenti di competenza - propria o delegata - degli Ispettorati provinciali dell'agricoltura e degli Ispettorati ripartimentali delle foreste, riguardanti l'assunzione degli impegni, le autorizzazioni di spese e i pagamenti sono deferite rispettivamente agli Uffici speciali di ragioneria e a quelli distaccati della Corte dei conti presso i Provveditorati regionali alle opere pubbliche, secondo le rispettive competenze e nei modi previsti dai [decreti legislativi 18 gennaio 1945, n. 16, 14 giugno 1945, n. 355 e 27 giugno 1916, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1916-06-27;37), ratificato, con modificazioni, con la [legge 3 febbraio 1951, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-02-03;164), fino a quando agli uffici decentrati di controllo non sara' data una definitiva sistemazione nel quadro del decentramento burocratico.
+Le attribuzioni di riscontro e di controllo sui provvedimenti di competenza - propria o delegata - degli Ispettorati agrari compartimentali e degli Ispettorati regionali delle foreste, e sui provvedimenti di competenza - propria o delegata - degli Ispettorati provinciali dell'agricoltura e degli Ispettorati ripartimentali delle foreste, riguardanti l'assunzione degli impegni, le autorizzazioni di spese e i pagamenti sono deferite rispettivamente agli Uffici speciali di ragioneria e a quelli distaccati della Corte dei conti presso i Provveditorati regionali alle opere pubbliche, secondo le rispettive competenze e nei modi previsti dai [decreti legislativi 18 gennaio 1945, n. 16, 14 giugno 1945, n. 355 e 27 giugno 1916, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1916-06-27;37), ratificato, con modificazioni, con la [legge 3 febbraio 1951, n. 164](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20dei%20decreti%20legislativi%2027%20giugno%201946%20n.%2037%20e%2025%20luglio%201947%20n.%20937%20concernenti%20norme%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Provveditorati%20regionali%20alle%20_2629b2dc4357.md), fino a quando agli uffici decentrati di controllo non sara' data una definitiva sistemazione nel quadro del decentramento burocratico.
 
 ## Decentramento autarchico alle Amministrazioni provinciali  CAPO I Caccia
 
@@ -126,41 +126,41 @@ TITOLO II
 
 ### Art. 18.
 
-Le Amministrazioni provinciali assumono, in materia di caccia, le attribuzioni che ad esse vengono trasferite a norma degli articoli seguenti del presente capo e le assolvono osservando le direttive di carattere generale che al riguardo saranno emanate con suo decreto dal Ministro per l'agricoltura e per le foreste, ai sensi dell'[art. 4 della legge 11 marzo 1953, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;150#art_4).
- Restano invariate le attribuzioni gia' demandate al Ministero dell'agricoltura e delle foreste dal testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e successive modificazioni ed aggiunte, che non risultino trasferite a norma del presente capo.
+Le Amministrazioni provinciali assumono, in materia di caccia, le attribuzioni che ad esse vengono trasferite a norma degli articoli seguenti del presente capo e le assolvono osservando le direttive di carattere generale che al riguardo saranno emanate con suo decreto dal Ministro per l'agricoltura e per le foreste, ai sensi dell'[art. 4 della legge 11 marzo 1953, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md).
+ Restano invariate le attribuzioni gia' demandate al Ministero dell'agricoltura e delle foreste dal testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e successive modificazioni ed aggiunte, che non risultino trasferite a norma del presente capo.
  Il Ministero dell'agricoltura e delle foreste, nell'esercizio delle attribuzioni che rimangono nella sua competenza, in luogo del parere dei Comitati provinciali della caccia, laddove e' prescritto, dovra' chiedere il parere dei presidenti delle Giunte provinciali.
 
 ### Art. 19.
 
-L'ultimo comma dell'art. 3 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dai seguenti "Il presidente della Giunta provinciale, sentito il Comitato provinciale della caccia, puo' aggiungere nuove specie all'elenco della selvaggina stanziale protetta, nonche' limitatamente a determinate zone o localita'. La ordinanza del presidente e' comunicata al Ministro per l'agricoltura e per le foreste, che ne dispone la pubblicazione nella Gazzetta Ufficiale.
+L'ultimo comma dell'art. 3 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dai seguenti "Il presidente della Giunta provinciale, sentito il Comitato provinciale della caccia, puo' aggiungere nuove specie all'elenco della selvaggina stanziale protetta, nonche' limitatamente a determinate zone o localita'. La ordinanza del presidente e' comunicata al Ministro per l'agricoltura e per le foreste, che ne dispone la pubblicazione nella Gazzetta Ufficiale.
  Con decreto da pubblicarsi nella Gazzetta Ufficiale, il Ministro per l'agricoltura e per le foreste, sentiti i presidenti delle Giunte provinciali e la competente sezione del Consiglio superiore dell'agricoltura e delle foreste, determina le esclusioni dall'elenco della selvaggina protetta".
 
 ### Art. 20.
 
-Il presidente della Giunta provinciale puo' deliberare, sentito l'ispettore provinciale dell'agricoltura, inclusioni o esclusioni dagli elenchi degli animali considerati nocivi, ai sensi del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016).
+Il presidente della Giunta provinciale puo' deliberare, sentito l'ispettore provinciale dell'agricoltura, inclusioni o esclusioni dagli elenchi degli animali considerati nocivi, ai sensi del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md).
 
 ### Art. 21.
 
-Il secondo ed il terzo comma dell'art. 12 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), modificato dall'[art. 1 della legge 29 maggio 1951, n. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-29;433#art_1), sono sostituiti dai seguenti:
+Il secondo ed il terzo comma dell'art. 12 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), modificato dall'[art. 1 della legge 29 maggio 1951, n. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-29;433#art_1), sono sostituiti dai seguenti:
  "I presidenti delle Giunte provinciali possono con sentire, eccetto che nelle zone delle Alpi, la caccia al colombaccio, colombella, storno, merlo, tordo, tordo sassello, cesena, allodola, fringuello, falco, corvo, cornacchia, gazza, ghiandaia, palmipedi e trampolieri fino al 31 marzo; nonche' l'uccellagione, con reti a maglia larga non inferiore a cm. 3 di lato, al colombaccio alla colombella, allo storno, ai palmipedi ed ai trampolieri, esclusa la beccaccia, fino alla stessa data.
  I presidenti delle Giunte provinciali possono consentire, inoltre, alcune forme di caccia e di uccellagione anche anteriormente alla penultima domenica di agosto e anche dopo il 31 marzo, solo per specie di selvaggina non protetta e per compartimenti venatori determinate localita' ove tali forme di caccia o di uccellagione siano consuetudinarie, ovvero presentino per le popolazioni locali, notevole importanza economica.
  In tal caso i presidenti delle Giunte provinciali determinano le condizioni di tempo e di luogo in cui tal autorizzazioni debbono essere circoscritte, tenendo anche conto della necessita' di evitare danni alle coltura e alla riproduzione della selvaggina stanziale protetto".
 
 ### Art. 22.
 
-L'art. 13 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dal seguente:
+L'art. 13 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dal seguente:
  "I presidenti delle Giunte provinciali propongono, entro il 15 luglio di ogni anno, al Ministero dell'agricoltura e delle foreste, il calendario venatorio delle rispettive Province.
  Il Ministro per l'agricoltura e per le foreste, opportunamente coordinate le proposte delle Province, forma il calendario venatorio da pubblicarsi nella Gazzetta Ufficiale".
 
 ### Art. 23.
 
 Il penultimo comma dell'art. 14 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato
-con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dal seguente: "Il presidente della Giunta provinciale, in armonia con le
+con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dal seguente: "Il presidente della Giunta provinciale, in armonia con le
 disposizioni della presente legge, sentito il Comitato provinciale della caccia, regola la caccia alla volpe a cavallo con cani di seguito".
 
 ### Art. 24.
 
-L'art. 24 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dal seguente:
+L'art. 24 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dal seguente:
  "Il presidente della Giunta provinciale ha facolta' di autorizzare, sentito l'ispettore provinciale dell'agricoltura, la cattura dei passeri nelle zone coltivate a riso o a grano, e degli storni, nelle zone dove essa appaia indispensabile per esigenze dell'agricoltura, a persone nominativamente indicate, su proposta del Comitato provinciale della caccia d'intesa coi proprietari dei terreni, anche in periodo di caccia chiusa, esclusi i mesi di aprile e maggio, limitatamente al periodo di tempo in cui possono effettivamente danneggiare le semine o i inaccolti. L'autorizzazione si estende alla, presa di uova, di nidi e di piccoli nati dai passeri sui tetti delle abitazioni rurali ed appartenenze. La cattura puo' avere luogo anche in ore e con mezzi vietati.
  L'ordinanza del presidente della Giunta provinciale determina le modalita' con le quali puo' esercitarsi l'aucupio, nonche' il modo di utilizzare i passeri e gli storni catturati; essa viene trasmessa al Comitato provinciale della caccia per la comunicazione agli interessati.
  Nella penisola salentina (province di Brindisi, Bari, Taranto e Lecce), quando si renda necessario alla protezione del frutto pendente dagli oliveti e per le condizioni economiche locali, i presidenti delle Giunte provinciali, su proposta dell'ispettore provinciale dell'agricoltura e sentito il Comitato provinciale della caccia, possono autorizzare, durante il periodo dal 15 ottobre al 21 marzo, la cattura dei tordi secondo le consuetudini locali, anche con mezzi normalmente vietati. A tale cattura si deve attendere esclusivamente nei boschetti cedui di estensione non superiore ai due ettari, posti tra oliveti e preventivamente denunciati al detto Comitato.
@@ -169,13 +169,13 @@ L'art. 24 del testo unico delle norme per la protezione della selvaggina e per l
 
 ### Art. 25.
 
-Il secondo e sesto comma dell'art. 25 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), sono sostituiti dai seguenti:
+Il secondo e sesto comma dell'art. 25 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), sono sostituiti dai seguenti:
  "Il presidente della Giunta provinciale, sentito il Comitato provinciale della caccia, ha facolta' di autorizzare, stabilendone le modalita', la caccia agli animali nocivi, in periodo di divieto di caccia, a persone nominativamente designate dal predetto Comitato".
  "Il presidente della Giunta provinciale, sentito il Comitato provinciale della caccia, puo' limitare od anche sospendere in una o piu' localita', ed in periodi di tempo determinati, la caccia, o la cattura di una o piu' specie di animali nocivi, nonche' la presa dei piccoli o la distruzione dei nidi".
 
 ### Art. 26.
 
-L'art. 27 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dal seguente:
+L'art. 27 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dal seguente:
  "Il presidente della Giunta provinciale puo' accordare a zoologi e a persone addette ai gabinetti scientifici di zoologia permessi di catturare ed uccidere esemplari di determinate specie di selvaggina e di prendere uova, nidi e piccoli nati, a scopo di studio.
  Il presidente della Giunta provinciale puo' parimenti autorizzare osservatori ornitologici, che si occupino dello studio delle migrazioni, ad esercitare l'uccellagione, in qualsiasi tempo dell'anno, anche a specie proibite e con mezzi vietati, a condizioni da stabilirsi volta per volta e con esenzione da ogni tassa di licenza.
  Il presidente della Giunta provinciale, su richiesta del Comitato provinciale della caccia, puo' autorizzare, sotto determinate condizioni, la cattura di selvaggina, a scopo di ripopolamento, dovunque ed in qualsiasi tempo, e puo' autorizzare la cattura di colombi, storni e passeri per il tiro a volo in competizioni sportive, e di quaglie per l'addestramento dei cani e per le prove su terreno".
@@ -184,49 +184,49 @@ L'art. 27 del testo unico delle norme per la protezione della selvaggina e per l
 
 Il secondo comma dell'art. 34 del testo unico delle norme per la
  protezione della selvaggina e per l'esercizio della caccia, approvato
-con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dal seguente: "Il presidente della Giunta provinciale, in casi di particolari
+con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dal seguente: "Il presidente della Giunta provinciale, in casi di particolari
 necessita' tecniche di ripopolamento di altre localita', puo' consentire, su proposta del Comitato provinciale della caccia, deroghe al divieto posto al prime comma".
 
 ### Art. 28.
 
 Il secondo comma dell'art. 35 del testo unico delle norme per la
  protezione della selvaggina e per l'esercizio della caccia, approvato
-con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dal seguente: "Il presidente della Giunta provinciale puo' altresi' consentire,
+con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dal seguente: "Il presidente della Giunta provinciale puo' altresi' consentire,
 in caso di particolari necessita' tecniche di ripopolamento di altre localita', su proposta del Comitato provinciale della caccia, deroghe al divieto di cui alla prima parte del precedente comma".
 
 ### Art. 29.
 
 L'ultimo comma dell'art. 43 del testo unico delle norme per la
  protezione della selvaggina e per l'esercizio della caccia, approvato
-con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dal seguente: "Il presidente della Giunta provinciale puo' permettere, in
+con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dal seguente: "Il presidente della Giunta provinciale puo' permettere, in
 qualsiasi tempo e sotto determinate condizioni, nelle bandite, nelle riserve, nelle zone di ripopolamento e cattura, la cattura di qualsiasi specie di selvaggina a scopo di ripopolamento, nonche' la cattura e l'uccisione, per esigenze tecniche della bandita o della riserva, o per la protezione delle colture. Puo' altresi' autorizzarne la vendita".
 
 ### Art. 30.
 
 Il primo comma dell'art. 48 del testo unico delle norme per la
  protezione della selvaggina e per l'esercizio della caccia, approvato
-con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dal seguente: "Con decreto del prefetto, su proposta del presidente della Giunta
+con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dal seguente: "Con decreto del prefetto, su proposta del presidente della Giunta
 provinciale, puo' essere vietato, a chi stabilmente o temporaneamente abiti nell'interno di una bandita o di una riserva, anche la semplice detenzione di armi o di cani o di arnesi atti alla caccia o all'uccellagione".
 
 ### Art. 31.
 
 Il terzo comma dell'art. 49 del testo unico delle norme per la
  protezione della selvaggina e per l'esercizio della caccia, approvato
-con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dal seguente: "Il Ministro per l'agricoltura e per le foreste, provvede con
+con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dal seguente: "Il Ministro per l'agricoltura e per le foreste, provvede con
 proprio decreto, sentiti i presidenti delle Giunte provinciali competenti per territorio".
 
 ### Art. 32.
 
 Il primo comma dell'art. 52 del testo unico delle norme per la
  protezione della selvaggina e per l'esercizio della caccia, approvato
-con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dal seguente: "L'Amministrazione provinciale, sentito il parere del Comitato
+con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dal seguente: "L'Amministrazione provinciale, sentito il parere del Comitato
 provinciale della caccia e del laboratorio di zoologia applicata alla caccia, puo' costituire una o piu' zone di ripopolamento e cattura della selvaggina, da servire ai bisogni faunistici, con particolare riguardo a quelli della Provincia, salvo il caso previsto dall'art. 53, per il quale provvede il Ministro per l'agricoltura e per le foreste".
 
 ### Art. 33.
 
-L'art. 54 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dal seguente:
+L'art. 54 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dal seguente:
  "Le zone di ripopolamento e cattura di cui ai due precedenti articoli non devono avere un'estensione inferiore agli ettari trecento ne' superiore agli ettari tremila ed hanno la durata di anni tre, salvo rinnovo alla scadenza. Il limite massimo dell'estensione non si applica per la zona delle Alpi.
- Le zone predette sono gestite dalle Amministrazioni provinciali secondo le direttive di carattere generale da stabilirsi con suo decreto dal Ministro per l'agricoltura e per le foreste, ai sensi dell'[art. 1 della legge 11 marzo 1953, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;150#art_1).
+ Le zone predette sono gestite dalle Amministrazioni provinciali secondo le direttive di carattere generale da stabilirsi con suo decreto dal Ministro per l'agricoltura e per le foreste, ai sensi dell'[art. 1 della legge 11 marzo 1953, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md).
  "Qualora la gestione delle zone anzidette pregiudichi la produzione agraria, il Ministro per l'agricoltura e per le foreste puo' prescrivere che l'Amministrazione provinciale corrisponda una indennita' ai proprietari danneggiati. La misura della indennita' e' determinata dalla Giunta provinciale, su parere del capo dell'Ispettorato provinciale dell'agricoltura.
  Il Ministro per l'agricoltura e per le foreste, nei limiti delle assegnazioni di bilancio per i servizi della caccia, concede, di anno in anno, contributi per l'esercizio delle zone di ripopolamento e cattura".
 
@@ -234,28 +234,28 @@ L'art. 54 del testo unico delle norme per la protezione della selvaggina e per l
 
 L'ultimo comma dell'art. 55 del testo unico delle norme per la
  protezione della selvaggina e per l'esercizio della caccia, approvato
-con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dal seguente: "Prima della scadenza dell'apertura della zona, la Amministrazione
+con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dal seguente: "Prima della scadenza dell'apertura della zona, la Amministrazione
 provinciale puo' prelevare dalla stessa, a scopo di ripopolamento, la selvaggina stanziale protetta di cui sia possibile la cattura".
 
 ### Art. 35.
 
 Il quinto comma dell'art. 61 del testo unico delle norme per la
  protezione della selvaggina e per l'esercizio della caccia, approvato
-con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dai seguenti: "Il contratto di affitto di una riserva non e' valido, agli effetti
+con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dai seguenti: "Il contratto di affitto di una riserva non e' valido, agli effetti
 della presente legge, ove non sia stato comunicato al presidente della Giunta provinciale e da questo ratificato, sentito il Comitato provinciale della caccia.
  Per le riserve che interessano i territori di due o piu' Province la comunicazione e' fatta al Ministro per la agricoltura e per le foreste, che provvede alla ratifica.
  Sentiti i presidenti delle Giunte provinciali competenti per territorio".
 
 ### Art. 36.
 
-Il nono comma dell'art. 61 del testo unico delle norme per la protezione della selvaggina e l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dai seguenti:
+Il nono comma dell'art. 61 del testo unico delle norme per la protezione della selvaggina e l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dai seguenti:
  "Il sesto del ricavato complessivo delle tasse ettariali sopra specificate verra' destinato ogni anno alla concessione di premi alle riserve che pratichino intensivi allevamenti di selvaggina. Il premio, sia per le riserve aperte sia per le riserve chiuse, non puo' superare il quintuplo della tassa corrispondente all'ettaraggio della riserva.
  Il Ministro per l'agricoltura e per le foreste determina, con proprio decreto, la ripartizione tra le varie Amministrazioni provinciali della quota parte delle tasse ettariali destinata alla erogazione di premi ai concessionari di riserva.
  L'Amministrazione provinciale, sentito il Comitato provinciale della caccia, dispone, nei limiti delle assegnazioni finanziarie del Ministero dell'agricoltura e delle foreste, la concessione di premi ai concessionari di riserve".
 
 ### Art. 37.
 
-L'art. 82 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e' sostituito dal seguente:
+L'art. 82 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' sostituito dal seguente:
  "Con provvedimenti del presidente della Giunta provinciale e' costituito in ciascuna Provincia il Comitato provinciale della caccia, organo della Provincia, con ordinamento autonomo. Esso si compone:
  a) di un consigliere provinciale, in qualita' di presidente;
  b) del presidente della sezione della Federazione italiana della caccia, con sede nel capoluogo della Provincia, in qualita' di vice-presidente;
@@ -275,7 +275,7 @@ L'art. 82 del testo unico delle norme per la protezione della selvaggina e per l
 
 ### Art. 38.
 
-L'art. 83 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e sostituito dal seguente:
+L'art. 83 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e sostituito dal seguente:
  "I Comitati provinciali della caccia hanno i seguenti compiti:
  a) vigilare sull'applicazione delle disposizioni vigenti in materia, venatoria e provvedere nella Provincia, secondo le direttive indicate dal presidente della Giunta provinciale, a tutte le iniziative atte a conseguire il ripopolamento della selvaggina stanziale, anche mediante opportune immissioni, e alla repressione degli abusi in materia, di caccia e di uccellagione, a mezzo anche di apposite guardie;
  b) dare impulso nella Provincia ad una vasta azione di propaganda, che valga a diffondere tra i cacciatori e uccellatori e tra i cittadini tutti la conoscenza delle leggi sulla caccia ed il rispetto delle norme disciplinanti la materia venatoria;
@@ -291,11 +291,11 @@ Nessuna interruzione si verifica nei rapporti del Comitato della caccia per effe
 
 ### Art. 40.
 
-L'art. 84 del testo unico delle norme per la protezione della selvaggina, e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016), e abrogato.
+L'art. 84 del testo unico delle norme per la protezione della selvaggina, e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e abrogato.
 
 ### Art. 41.
 
-Nei limiti dello stanziamento previsto dall'art. 93 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016, il Ministro per l'agricoltura e per le foreste](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-05;1016) concede contributi alle Amministrazioni provinciali per l'assolvimento delle attribuzioni a queste trasferite a norma del presente decreto.
+Nei limiti dello stanziamento previsto dall'art. 93 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016, il Ministro per l'agricoltura e per le foreste](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md) concede contributi alle Amministrazioni provinciali per l'assolvimento delle attribuzioni a queste trasferite a norma del presente decreto.
 
 ## Pesca nelle acque interne
 
@@ -303,7 +303,7 @@ CAPO II
 
 ### Art. 42.
 
-Le Amministrazioni provinciali assumono, in materia di pesca, le attribuzioni che ad esse vengono trasferite a norma degli articoli seguenti del presente capo e le assolvono osservando le direttive di carattere generale che al riguardo saranno emanate con suo decreto dal Ministro per l'agricoltura e per le foreste ai sensi dell'[art. 4 della legge 11 marzo 1953, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;150#art_4).
+Le Amministrazioni provinciali assumono, in materia di pesca, le attribuzioni che ad esse vengono trasferite a norma degli articoli seguenti del presente capo e le assolvono osservando le direttive di carattere generale che al riguardo saranno emanate con suo decreto dal Ministro per l'agricoltura e per le foreste ai sensi dell'[art. 4 della legge 11 marzo 1953, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md).
  Restano invariate le attribuzioni gia' demandate al Ministero dell'agricoltura e delle foreste dal testo unico delle leggi sulla pesca approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), e successive modificazioni ed aggiunte, che non risultino trasferite, a norma del presente capo.
  Il Ministero dell'agricoltura e delle foreste, nell'esercizio delle attribuzioni che rimangono nella sua competenza, in luogo del parere delle Commissioni locali di pesca, laddove e' prescritto, dovra' chiedere il parere dei presidenti delle Giunte provinciali.
 
@@ -322,7 +322,7 @@ Le attribuzioni demandate al prefetto dall'art. 5 del regolamento per la, pesca 
 
 ### Art. 45.
 
-Le attribuzioni demandate ai prefetti dall'art. 5 del testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), modificato dall'[art. 1 del regio decreto-legge 11 aprile 1938, n. 1183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-04-11;1183#art_1), convertito nella [legge 19 gennaio 1939, n. 485](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-19;485), sono trasferite ai presidenti delle Giunte provinciali.
+Le attribuzioni demandate ai prefetti dall'art. 5 del testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), modificato dall'[art. 1 del regio decreto-legge 11 aprile 1938, n. 1183](Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20pesca%20approvato%20con%20R.%20decreto%208%20ottobre%201931%20n.%201604.%20038U1183.md), convertito nella [legge 19 gennaio 1939, n. 485](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2011%20aprile%201938-XVI%20n.%201183%20recante%20modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20pesca%20approvato%20con%20R.%20decreto%208%20_8866bc4c96a4.md), sono trasferite ai presidenti delle Giunte provinciali.
  I commi terzo, settimo ed ottavo dell'art. 7 del regolamento per la pesca fluviale e lacuale approvato con [regio decreto 22 novembre 1914, n. 1486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-22;1486), sono sostituiti dai seguenti "Se per altri scopi (e tra essi anche quello della piscicoltura) si debba procedere al prosciugamento di bacini o di corsi d'acqua, compresi i canali e i "navigli", tanto pubblici quanto privati che si colleghino con le acque pubbliche, deve darsene avviso in tempo utile al presidente della Giunta provinciale; in ogni caso, durante la cosiddetta "asciutta", completa o incompleta, la pesca e' ivi proibita, ed il pesce eventualmente rimasto dev'essere comunque immesso nelle acque comunicanti con quei bacini o corsi".
  "Il presidente della Giunta provinciale, sentita la Commissione locale di pesca, ha facolta' di vietare, con propria ordinanza, la pesca in determinate localita' di bacini o corsi d'acqua, le quali servano alla frega dei pesci".
  "Il presidente della Giunta provinciale, sentita la Commissione locale di pesca, potra' indicare con sua determinazione le localita' di frega dei pesci, anche allo scopo che esse siano tenute presenti, per la eventuale protezione, nell'istruttoria di domande per autorizzazioni di estrarre o rimuovere la ghiaia a norma delle vigenti disposizioni sulla polizia idraulica".
@@ -381,20 +381,20 @@ Al principio di ogni esercizio finanziario il Ministro per l'agricoltura e per l
 
 ### Art. 54.
 
-L'art. 53 del testo unico delle leggi sulla pesca approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), modificato dall'[art. 8 del regio decreto-legge 11 aprile 1938, n. 1183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-04-11;1183#art_8), convertito nella [legge 19 gennaio 1939, n. 485](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-19;485), e' sostituito dal seguente: 
+L'art. 53 del testo unico delle leggi sulla pesca approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), modificato dall'[art. 8 del regio decreto-legge 11 aprile 1938, n. 1183](Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20pesca%20approvato%20con%20R.%20decreto%208%20ottobre%201931%20n.%201604.%20038U1183.md), convertito nella [legge 19 gennaio 1939, n. 485](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2011%20aprile%201938-XVI%20n.%201183%20recante%20modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20pesca%20approvato%20con%20R.%20decreto%208%20_8866bc4c96a4.md), e' sostituito dal seguente: 
  "Per il raggiungimento di finalita' di pubblico interesse nel campo della tutela e dell'incremento del patrimonio ittico nelle acque interne, possono costituirsi associazioni esclusivamente in forma di consorzi per la tutela della pesca. 
  Tali consorzi sono costituiti per atto pubblico; quelli il cui ambito, riguardo alle acque delle quali tutelano la pesca, e' contenuto nel territorio di una Provincia oppure che hanno finalita' ed interessi limitati all'ambito provinciale, sono riconosciuti con provvedimento del prefetto su proposta del presidente della. Giunta provinciale e sono sottoposti alla vigilanza della Giunta provinciale; quelli che si estendono a territori di piu' Province o le cui finalita' e interessi esorbitano dall'ambito di una Provincia, sono soggetti al riconoscimento ed alla vigilanza del Ministro per l'agricoltura e per le foreste, sentiti per il riconoscimento i presidenti delle Giunte provinciali competenti per territorio. 
  I consorzi per la tutela della pesca hanno personalita' giuridica e sono ammessi al gratuito patrocinio".
 
 ### Art. 55.
 
-L'art. 54 del testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), modificato dall'[art. 8 del regio decreto-legge 11 aprile 1938, n. 1183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-04-11;1183#art_8), convertito nella [legge 19 gennaio 1939, n. 485](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-19;485), e' sostituito dal seguente:
+L'art. 54 del testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), modificato dall'[art. 8 del regio decreto-legge 11 aprile 1938, n. 1183](Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20pesca%20approvato%20con%20R.%20decreto%208%20ottobre%201931%20n.%201604.%20038U1183.md), convertito nella [legge 19 gennaio 1939, n. 485](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2011%20aprile%201938-XVI%20n.%201183%20recante%20modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20pesca%20approvato%20con%20R.%20decreto%208%20_8866bc4c96a4.md), e' sostituito dal seguente:
  "I consorzi per la tutela della pesca possono essere costituiti in forma obbligatoria con decreto del Ministro per l'agricoltura e per le foreste, su proposta del presidente della Giunta provinciale o di uno dei presidenti delle Giunte provinciali interessate, sentito il Comitato permanente della pesca.
  La vigilanza su detti consorzi spetta alla Giunta provinciale o al Ministero dell'agricoltura e delle foreste, secondo il criterio stabilito nel precedente articolo".
 
 ### Art. 56.
 
-L'art. 55 del testo unico delle leggi sulla pesca approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), modificato dall'[art. 8 del regio decreto-legge 11 aprile 1938, n. 1183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-04-11;1183#art_8), convertito nella [legge 19 gennaio 1939, n. 485](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-19;485), e' sostituito dal seguente:
+L'art. 55 del testo unico delle leggi sulla pesca approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), modificato dall'[art. 8 del regio decreto-legge 11 aprile 1938, n. 1183](Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20pesca%20approvato%20con%20R.%20decreto%208%20ottobre%201931%20n.%201604.%20038U1183.md), convertito nella [legge 19 gennaio 1939, n. 485](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2011%20aprile%201938-XVI%20n.%201183%20recante%20modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20pesca%20approvato%20con%20R.%20decreto%208%20_8866bc4c96a4.md), e' sostituito dal seguente:
  "I consorzi per la tutela della pesca sono retti da un presidente, nominato dal presidente della Giunta provinciale per i consorzi sottoposti alla vigilanza della Giunta provinciale, e dal Ministro per l'agricoltura e per le foreste per quelli soggetti alla vigilanza del Ministro per l'agricoltura e per le foreste.
  Nell'esercizio delle sue funzioni il presidente del consorzio e' coadiuvato da un ufficio di presidenza, costituito da due componenti, uno dei quali nominato dalla Consulta di cui al seguente articolo e l'altro da scegliersi fra persone dotate di particolari conoscenze tecniche, nominato dall'autorita' cui spetta la nomina del presidente.
  I bilanci sociali recano la firma del presidente e dei componenti l'ufficio di presidenza".
@@ -407,7 +407,7 @@ Per la revisione della gestione dei consorzi sottoposti alla vigilanza della Giu
 
 ### Art. 58.
 
-Della Consulta di cui all'art. 56 del testo unico delle leggi sulla pesca approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), modificato dall'[art. 8 del regio decreto-legge 11 aprile 1938, n. 1183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-04-11;1183#art_8), convertito nella [legge 19 gennaio 1939, n. 485](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-19;485), fa parte anche un membro designato da ciascuna delle Amministrazioni, provinciali interessate.
+Della Consulta di cui all'art. 56 del testo unico delle leggi sulla pesca approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), modificato dall'[art. 8 del regio decreto-legge 11 aprile 1938, n. 1183](Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20pesca%20approvato%20con%20R.%20decreto%208%20ottobre%201931%20n.%201604.%20038U1183.md), convertito nella [legge 19 gennaio 1939, n. 485](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2011%20aprile%201938-XVI%20n.%201183%20recante%20modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20pesca%20approvato%20con%20R.%20decreto%208%20_8866bc4c96a4.md), fa parte anche un membro designato da ciascuna delle Amministrazioni, provinciali interessate.
 
 ### Art. 59.
 
@@ -424,7 +424,7 @@ Il secondo e terzo comma dell'art. 60 del testo unico delle leggi sulla pesca ap
 
 ### Art. 61.
 
-L'art. 61 del testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), modificato dall'[art. 9 del regio decreto-legge 11 aprile 1938, n. 1183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-04-11;1183#art_9), convertito nella [legge 19 gennaio 1939, n. 485](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-19;485), e' sostituito dal seguente:
+L'art. 61 del testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), modificato dall'[art. 9 del regio decreto-legge 11 aprile 1938, n. 1183](Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20pesca%20approvato%20con%20R.%20decreto%208%20ottobre%201931%20n.%201604.%20038U1183.md), convertito nella [legge 19 gennaio 1939, n. 485](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2011%20aprile%201938-XVI%20n.%201183%20recante%20modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20pesca%20approvato%20con%20R.%20decreto%208%20_8866bc4c96a4.md), e' sostituito dal seguente:
  "Qualora un consorzio volontario od obbligatorio non corrisponda alle finalita' per le quali e' stato istituito, ovvero quando siano constatate gravi irregolarita' nell'amministrazione di esso, il presidente della Giunta provinciale, se trattasi di consorzio la cui vigilanza spetta alla Giunta provinciale, o il Ministro per l'agricoltura e per le foreste, per i consorzi sottoposti alla vigilanza dello stesso Ministero, ha facolta' di far cessare dalle loro funzioni gli ordinari organi direttivi, amministrativi e consultivi dell'ente e di nominare un commissario per la temporanea gestione del consorzio".
 
 ## Repressioni delle frodi nella preparazione e nel Commercio di sostanze di uso agrario e di prodotti agrari
@@ -433,7 +433,7 @@ CAPO III
 
 ### Art. 62.
 
-Fermi restando i poteri di vigilanza, del Ministero dell'agricoltura e delle foreste a norma degli [articoli 40 del regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_40), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562), e 87 del relativo regolamento approvato con [regio decreto 1 luglio 1926, n. 1361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1361), sulla preparazione e sul commercio di sostanze di uso agrario e prodotti agrari, gli stessi poteri di vigilanza sono attribuiti anche alle Amministrazioni provinciali competenti per territorio, le quali potranno avvalersi della collaborazione di altri enti ed istituti interessati.
+Fermi restando i poteri di vigilanza, del Ministero dell'agricoltura e delle foreste a norma degli [articoli 40 del regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_40), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e 87 del relativo regolamento approvato con [regio decreto 1 luglio 1926, n. 1361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1361), sulla preparazione e sul commercio di sostanze di uso agrario e prodotti agrari, gli stessi poteri di vigilanza sono attribuiti anche alle Amministrazioni provinciali competenti per territorio, le quali potranno avvalersi della collaborazione di altri enti ed istituti interessati.
  Agli agenti che le Amministrazioni provinciali nominano a tal fine e' riconosciuta la qualifica di agenti di polizia giudiziaria ai sensi dell'art. 221, ultimo comma, del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).
  Per l'espletamento dei servizi e dei compiti di cui al comma precedente, il Ministero dell'agricoltura e delle foreste, all'inizio di ogni esercizio finanziario, provvedera' ad assegnare contributi alle Amministrazioni provinciali sui fondi ad esso stanziati.
 
@@ -443,27 +443,27 @@ TITOLO III
 
 ### Art. 63.
 
-L'[art. 1 del decreto-legge luogotenenziale 9 maggio 1918, n. 1382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1918-05-09;1382#art_1), convertito nella [legge 28 giugno 1923, n. 1512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-28;1512), e' sostituito dal seguente:
+L'[art. 1 del decreto-legge luogotenenziale 9 maggio 1918, n. 1382](Che%20stabilisce%20norme%20per%20la%20produzione%20ed%20il%20commercio%20del%20seme%20bachi%20da%20seta.%20018U1382.md), convertito nella [legge 28 giugno 1923, n. 1512](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto%20Luogotenenziale%209%20maggio%201918%20n.%201382%20che%20stabilisce%20le%20norme%20per%20la%20produzione%20ed%20il%20commercio%20del%20seme-bachi%20da%20seta.%20023U1512.md), e' sostituito dal seguente:
  "Chiunque intende preparare per la vendita seme bachi da seta deve ottenere speciale autorizzazione dalla Camera di commercio, industria ed agricoltura competente per territorio. Uguale autorizzazione e' necessaria per preparare il seme che si scambia o si da' gratuitamente.
- Nell'art. 1 del regolamento alla legge citata nel primo comma, approvato con [regio decreto 8 agosto 1930, n. 1799](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-08-08;1799), alle parole "Ministero dell'agricoltura e delle foreste" sono sostituite le parole "Camera di commercio, industria ed agricoltura, competente per territorio".
+ Nell'art. 1 del regolamento alla legge citata nel primo comma, approvato con [regio decreto 8 agosto 1930, n. 1799](Approvazione%20di%20un%20nuovo%20regolamento%20per%20lesecuzione%20della%20legge%2028%20giugno%201923%20n.%201512%20che%20stabilisce%20norme%20per%20la%20produzione%20ed%20il%20commercio%20del%20seme%20bachi%20da%20seta.%20030U1799.md), alle parole "Ministero dell'agricoltura e delle foreste" sono sostituite le parole "Camera di commercio, industria ed agricoltura, competente per territorio".
 
 ### Art. 64.
 
-Il potere di autorizzazione attribuito al prefetto dall'[art. 4 del regio decreto-legge 19 ottobre 1933, n. 1956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1956#art_4), convertito nella [legge 14 giugno 1934, n. 1158, nonche' dall'art. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-14;1158#art_6) della [legge 13 luglio 1939, n. 1222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-13;1222), portante modifiche ed integrazioni al detto [regio decreto-legge 19 ottobre 1933, n. 1956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1956), e' demandato alle Camere di commercio, industria ed agricoltura.
- Conseguentemente negli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1956#art_5) e [6 del regio decreto-legge 19 ottobre 1933, n. 1956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1956#art_6), al prefetto devono intendersi sostituite le Camere di commercio, industria ed agricoltura.
+Il potere di autorizzazione attribuito al prefetto dall'[art. 4 del regio decreto-legge 19 ottobre 1933, n. 1956](Disciplina%20della%20produzione%20e%20del%20commercio%20serico.%20033U1956.md), convertito nella [legge 14 giugno 1934, n. 1158, nonche' dall'art. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20ottobre%201933%20n.%201956%20concernente%20la%20disciplina%20della%20produzione%20e%20del%20commercio%20serico.%20034U1158.md) della [legge 13 luglio 1939, n. 1222](Modifiche%20ed%20integrazioni%20al%20titolo%20I%20e%20al%20titolo%20II%20del%20R.%20decreto-legge%2019%20ottobre%201933-XI%20n.%201956%20convertito%20in%20legge%20con%20la%20legge%2014%20giugno%201934-XII%20n.%201158%20concernente%20la%20disciplina%20_582999b55890.md), portante modifiche ed integrazioni al detto [regio decreto-legge 19 ottobre 1933, n. 1956](Disciplina%20della%20produzione%20e%20del%20commercio%20serico.%20033U1956.md), e' demandato alle Camere di commercio, industria ed agricoltura.
+ Conseguentemente negli [articoli 5](Disciplina%20della%20produzione%20e%20del%20commercio%20serico.%20033U1956.md) e [6 del regio decreto-legge 19 ottobre 1933, n. 1956](Disciplina%20della%20produzione%20e%20del%20commercio%20serico.%20033U1956.md), al prefetto devono intendersi sostituite le Camere di commercio, industria ed agricoltura.
 
 ### Art. 65.
 
-Nelle materie contemplate negli articoli 63 e 64 del presente decreto, il Ministro per l'agricoltura e per le foreste puo' con suo decreto emanare, in qualunque momento, direttive di carattere generale obbligatorie per le Camere di commercio, industria ed agricoltura, ai sensi dell'[art. 4 della legge 11 marzo 1953, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;150#art_4).
+Nelle materie contemplate negli articoli 63 e 64 del presente decreto, il Ministro per l'agricoltura e per le foreste puo' con suo decreto emanare, in qualunque momento, direttive di carattere generale obbligatorie per le Camere di commercio, industria ed agricoltura, ai sensi dell'[art. 4 della legge 11 marzo 1953, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md).
 
 ### Art. 66.
 
-Il [primo comma, dell'art. 16 del decreto-legge luogotenenziale 9 maggio 1918, n. 1382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1918-05-09;1382#art_16-com1), convertito nella [legge 28 giugno 1923, n. 1512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-28;1512), e' modificato come segue:
+Il [primo comma, dell'art. 16 del decreto-legge luogotenenziale 9 maggio 1918, n. 1382](Che%20stabilisce%20norme%20per%20la%20produzione%20ed%20il%20commercio%20del%20seme%20bachi%20da%20seta.%20018U1382.md), convertito nella [legge 28 giugno 1923, n. 1512](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto%20Luogotenenziale%209%20maggio%201918%20n.%201382%20che%20stabilisce%20le%20norme%20per%20la%20produzione%20ed%20il%20commercio%20del%20seme-bachi%20da%20seta.%20023U1512.md), e' modificato come segue:
  "I pretori debbono trasmettere copia di tutte le sentenze in materia al Ministero dell'agricoltura e delle foreste ed alla Camera di commercio, industria ed agricoltura competente per territorio, entro un mese dalla pronuncia".
 
 ### Art. 67.
 
-L'[art. 7 della legge 13 luglio 1939, n. 1222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-13;1222#art_7), portante modifiche ed integrazioni al [regio decreto-legge 19 ottobre 1933, n. 1956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1956), convertito nella [legge 14 giugno 1934, n. 1158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-14;1158), e' sostituito dal seguente:
+L'[art. 7 della legge 13 luglio 1939, n. 1222](Modifiche%20ed%20integrazioni%20al%20titolo%20I%20e%20al%20titolo%20II%20del%20R.%20decreto-legge%2019%20ottobre%201933-XI%20n.%201956%20convertito%20in%20legge%20con%20la%20legge%2014%20giugno%201934-XII%20n.%201158%20concernente%20la%20disciplina%20_582999b55890.md), portante modifiche ed integrazioni al [regio decreto-legge 19 ottobre 1933, n. 1956](Disciplina%20della%20produzione%20e%20del%20commercio%20serico.%20033U1956.md), convertito nella [legge 14 giugno 1934, n. 1158](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20ottobre%201933%20n.%201956%20concernente%20la%20disciplina%20della%20produzione%20e%20del%20commercio%20serico.%20034U1158.md), e' sostituito dal seguente:
  "Le Camere di commercio, industria ed agricoltura terranno gli elenchi aggiornati degli stabilimenti od impianti autorizzati nella Provincia e ne invieranno copia all'Ente nazionale serico che curera' la tenuta dell'elenco aggiornato degli impianti autorizzati, per tutto il territorio della Repubblica".
 
 ### Art. 68.
@@ -473,12 +473,12 @@ L'[art. 1 della, legge 13 maggio 1942, n. 625](https://www.normattiva.it/uri-res
 
 ### Art. 69.
 
-L'[art. 2 della legge 15 maggio 1942, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-15;625#art_2), e' modificato come segue:
+L'[art. 2 della legge 15 maggio 1942, n. 625](Provvedimenti%20per%20la%20conservazione%20del%20patrimonio%20gelsicolo.%20042U0625.md), e' modificato come segue:
  "I divieto di abbattimento che sia stato disposto giusta il precedente art. 1 non riguarda le piante morte, vecchie, deperite o comunque improduttive, nonche' quelle che, per la loro ubicazione sul fondo, ostacolino lavori culturali. Perche', tuttavia, tali piante possano essere abbattute, il proprietario o possessore deve chiedere il preventivo permesso alle Camere di commercio, industria ed agricoltura, che provvederanno, sentito l'ispettore provinciale dell'agricoltura".
 
 ### Art. 70.
 
-L'[art. 4 della legge 15 maggio 1942, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-15;625#art_4), e' modificato come segue:
+L'[art. 4 della legge 15 maggio 1942, n. 625](Provvedimenti%20per%20la%20conservazione%20del%20patrimonio%20gelsicolo.%20042U0625.md), e' modificato come segue:
  "Nei provvedimenti di divieto previsti dal precedente art. 1, le Camere di commercio, industria e agricoltura possono imporre l'obbligo, a chiunque possieda foglie di gelso e non possa o non voglia utilizzarle per propri allevamenti, di porle a disposizione di terzi allevatori o di cederle a quel prezzo che, annualmente in ogni Provincia, sara' fissato dalle stesse Camere di commercio, industria e agricoltura".
 
 ## Olivicoltura
@@ -487,12 +487,12 @@ CAPO II
 
 ### Art. 71.
 
-L'[art. 2 del decreto legislativo luogotenenziale 27 luglio 1945, n. 475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-27;475#art_2), e' modificato come segue:
+L'[art. 2 del decreto legislativo luogotenenziale 27 luglio 1945, n. 475](../Decreti%20legislativi%20luogotenenziali/Divieto%20di%20abbattimento%20di%20alberi%20di%20olivo.%20045U0475.md), e' modificato come segue:
  "L'abbattimento degli alberi di olivo per i quali sia accertata la morte fisiologica ovvero la permanente improduttivita', dovute a cause non rimovibili, e di quelli che, per eccessiva fittezza dell'impianto, rechino danno all'oliveto, puo' essere autorizzato dalla Camera di commercio, industria e agricoltura, che provvedera' con deliberazione della Giunta camerale, a seguito di accertamento sull'esistenza delle condizioni stesse, eseguito dall'Ispettorato provinciale dell'agricoltura".
 
 ### Art. 72.
 
-L'[art. 3 del decreto legislativo luogotenenziale 27 luglio 1945, n. 475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-27;475#art_3), e' modificato come segue:
+L'[art. 3 del decreto legislativo luogotenenziale 27 luglio 1945, n. 475](../Decreti%20legislativi%20luogotenenziali/Divieto%20di%20abbattimento%20di%20alberi%20di%20olivo.%20045U0475.md), e' modificato come segue:
  "La Camera di commercio, industria ed agricoltura, sui proposta dell'Ispettorato provinciale dell'agricoltura ha facolta' di imporre, con deliberazione della Giunta camerale, ai proprietari o conduttori di fondi ove si trovino gli alberi di olivo da abbattere, l'obbligo di impiantare, anche in altri fondi di loro proprieta' o da essi condotti, altrettanti alberi di olivo in luogo di quelli da abbattere, stabilendo le modalita' ed il termine del reimpianto".
 
 ## Disposizione finale

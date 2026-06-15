@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e successive modificazioni, sull'ordinamento gerarchico delle Amministrazioni dello Stato;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, sull'ordinamento gerarchico delle Amministrazioni dello Stato;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), recante disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato, e successive modificazioni;
 
@@ -36,7 +36,7 @@ Per le promozioni o nomine per scrutinio, per esame o per concorso nei ruoli org
 
 ## Art. 2.
 
-Con separati provvedimenti, da adottarsi entro tre mesi dalla data di entrata in vigore del presente decreto, saranno emanate le norme necessarie per adeguare ai criteri di cui all'articolo precedente le disposizioni che regolano le promozioni del personale delle Amministrazioni statali aventi speciali ordinamenti, a norma dell'[art. 14 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_14), e successive modificazioni. 
+Con separati provvedimenti, da adottarsi entro tre mesi dalla data di entrata in vigore del presente decreto, saranno emanate le norme necessarie per adeguare ai criteri di cui all'articolo precedente le disposizioni che regolano le promozioni del personale delle Amministrazioni statali aventi speciali ordinamenti, a norma dell'[art. 14 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni. 
  
  E' fatta eccezione per il personale militare della Regia marina per il quale la determinazione delle norme di adeguamento ai criteri di cui all'art. 1 e' rinviata alla fine del 1942.
 

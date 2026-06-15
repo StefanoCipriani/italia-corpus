@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 marzo 1933, n. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-13;157), concernente la proroga di agevolezze fiscali a favore dell'industria automobilistica. 
+ E' convertito in legge il [R. decreto-legge 13 marzo 1933, n. 157](Proroga%20di%20agevolazioni%20fiscali%20a%20favore%20dellIndustria%20automobilistica.%20033U0157.md), concernente la proroga di agevolezze fiscali a favore dell'industria automobilistica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

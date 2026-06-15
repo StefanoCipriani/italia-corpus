@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1385), che reca una nuova proroga del termine per la dichiarazione di costruzione delle navi adibite a servizi sovvenzionati di carattere indispensabile. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1385](Ulteriore%20proroga%20del%20termine%20per%20le%20dichiarazioni%20di%20costruzione%20di%20navi%20adibite%20a%20servizi%20sovvenzionati%20di%20carattere%20indispensabile.%20027U1385.md), che reca una nuova proroga del termine per la dichiarazione di costruzione delle navi adibite a servizi sovvenzionati di carattere indispensabile. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

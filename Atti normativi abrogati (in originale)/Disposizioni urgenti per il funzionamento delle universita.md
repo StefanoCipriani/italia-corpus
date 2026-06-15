@@ -30,14 +30,14 @@ Al fine di soddisfare le esigenze assistenziali del policlinico Umberto I, l'Uni
 
 1.
 
-Il numero 3) del [primo comma dell'articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_13-com1), e' sostituito dal seguente: 
+Il numero 3) del [primo comma dell'articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), e' sostituito dal seguente: 
  "3) nomina a componente delle istituzioni delle Comunita' europee e delle Nazioni Unite;".
 
 ## Art. 3.
 
 1.
 
-La disposizione di cui all'[articolo 13, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_13-com2) e [3, della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_13-com3), si interpreta nel senso che la medesima si applica anche alle universita' e agli istituti di istruzione universitaria.
+La disposizione di cui all'[articolo 13, commi 2](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md) e [3, della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md), si interpreta nel senso che la medesima si applica anche alle universita' e agli istituti di istruzione universitaria.
 
 ## Art. 4.
 
@@ -59,7 +59,7 @@ Fino alla stipulazione del primo contratto collettivo l'entita' della retribuzio
 3.
 
 L'assunzione avviene per selezione pubblica, le cui modalita' sono disciplinate dalle universita' secondo i rispettivi ordinamenti. 
-Ai titolari dei contratti di cui all'[articolo 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_28), in servizio nell'anno accademico 1992-1993, che siano in possesso dei requisiti di cui al comma 2, e' attribuita priorita' ai fini dell'assunzione.
+Ai titolari dei contratti di cui all'[articolo 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), in servizio nell'anno accademico 1992-1993, che siano in possesso dei requisiti di cui al comma 2, e' attribuita priorita' ai fini dell'assunzione.
 
 4.
 
@@ -67,7 +67,7 @@ Le universita' procedono annualmente alla verifica dell'attivita' svolta. L'esit
 
 5.
 
-L'[articolo 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-11;382#art_28), e' abrogato.
+L'[articolo 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), e' abrogato.
 
 ## Art. 6.
 

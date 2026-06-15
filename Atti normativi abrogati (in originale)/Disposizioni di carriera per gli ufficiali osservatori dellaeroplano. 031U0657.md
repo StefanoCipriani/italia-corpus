@@ -10,8 +10,8 @@ vigente: true
 
 ## Art. 1.
 
-I tenenti e i capitani delle varie Armi, che abbiano conseguito il brevetto di osservatore dall'aeroplano, per essere ammessi ai vantaggi di carriera di cui al [R. decreto-legge 23 dicembre 1929, n. 2224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-12-23;2224), dovranno, oltre a compiere con esito favorevole i periodi di volo prescritti dall'anzidetto decreto, riportare il giudizio favorevole di una speciale Commissione nominata dal Ministro per la guerra. 
- Tale Commissione, tenuto conto dei precedenti di volo, delle qualita' professionali dimostrate in servizio nell'Arma alla quale appartengono gli ufficiali e dei loro precedenti di carriera e disciplinari, proporra' al Ministro per la guerra i nomi di quelli da ammettere ai vantaggi stabiliti dal [R. decreto-legge 23 dicembre 1929, n. 2224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-12-23;2224).
+I tenenti e i capitani delle varie Armi, che abbiano conseguito il brevetto di osservatore dall'aeroplano, per essere ammessi ai vantaggi di carriera di cui al [R. decreto-legge 23 dicembre 1929, n. 2224](Vantaggi%20di%20carriera%20agli%20ufficiali%20osservatori%20dallaeroplano.%20029U2224.md), dovranno, oltre a compiere con esito favorevole i periodi di volo prescritti dall'anzidetto decreto, riportare il giudizio favorevole di una speciale Commissione nominata dal Ministro per la guerra. 
+ Tale Commissione, tenuto conto dei precedenti di volo, delle qualita' professionali dimostrate in servizio nell'Arma alla quale appartengono gli ufficiali e dei loro precedenti di carriera e disciplinari, proporra' al Ministro per la guerra i nomi di quelli da ammettere ai vantaggi stabiliti dal [R. decreto-legge 23 dicembre 1929, n. 2224](Vantaggi%20di%20carriera%20agli%20ufficiali%20osservatori%20dallaeroplano.%20029U2224.md).
 
 ## Art. 2.
 

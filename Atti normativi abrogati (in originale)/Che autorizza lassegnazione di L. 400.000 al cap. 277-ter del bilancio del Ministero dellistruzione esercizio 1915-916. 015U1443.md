@@ -22,13 +22,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 5 della legge 27 maggio 1875, n. 2554](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-05-27;2554#art_5), il quale stabilisce che il provento delle tasse d'ingresso ai musei, alle gallerie ed agli scavi del Regno ottenuto nell'anno antecedente debba essere inscritto nello stato di previsione della spesa del Ministero dell'istruzione pubblica per i fini nell'articolo stesso ed in quello n. 22 della [legge 20 giugno 1909, n. 364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-20;364), indicati; 
+ Visto l'[art. 5 della legge 27 maggio 1875, n. 2554](Sulla%20tassa%20di%20entrata%20nei%20musei%20nelle%20gallerie%20e%20negli%20scavi%20archeologici.%20075U2554.md), il quale stabilisce che il provento delle tasse d'ingresso ai musei, alle gallerie ed agli scavi del Regno ottenuto nell'anno antecedente debba essere inscritto nello stato di previsione della spesa del Ministero dell'istruzione pubblica per i fini nell'articolo stesso ed in quello n. 22 della [legge 20 giugno 1909, n. 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md), indicati; 
  
  Accertato che il provento delle tasse in parola versato in tesoreria nel 1914-915 ascese, come risulta dalle contabilita' provvisorie di quell'esercizio, a L. 235.096,70, mentre negli anni finanziari ultimi decorsi supero' il milione; 
  
  Considerato che con la predetta somma di lire 235.096,70 non si rende possibile fronteggiare nell'esercizio 1915-916 le spese necessarie per il mantenimento degli Istituti in parola e che, pertanto, e' indispensabile autorizzare per tale scopo una congrua maggiore assegnazione di carattere straordinario che si ravvisa di poter determinare in lire quattrocentomila; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Udito il Consiglio dei ministri; 
  

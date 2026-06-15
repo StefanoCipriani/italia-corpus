@@ -70,7 +70,7 @@ Il [comma secondo dell'articolo 3 del decreto del Presidente della Repubblica 18
 
 ## Art. 6.
 
-Il [primo comma dell'articolo 18 del decreto del Presidente della Repubblica 18 marzo 1957, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-18;266#art_18-com1), e' sostituito dal seguente:
+Il [primo comma dell'articolo 18 del decreto del Presidente della Repubblica 18 marzo 1957, n. 266](../DPR/Norme%20di%20attuazione%20della%20legge%2029%20dicembre%201956%20n.%201533%20per%20lassicurazione%20obbligatoria%20contro%20le%20malattie%20per%20gli%20artigiani.md), e' sostituito dal seguente:
  "Per l'elezione dei delegati di cui all'[articolo 9 della legge 29 dicembre 1956, n. 1533](Assicurazione%20obbligatoria%20contro%20le%20malattie%20per%20gli%20artigiani.md), il Consiglio di amministrazione della Cassa mutua provinciale procede alla suddivisione del territorio della provincia in Collegi elettorali, raggruppando piu' comuni confinanti, qualora gli artigiani elettori di un comune siano inferiori a 50 e frazionando i comuni maggiori. Il Collegio non puo' comprendere piu' di 500 elettori".
 
 ## Art. 7.

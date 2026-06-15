@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 8 luglio 1926, n. 1178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178), recante ordinamento della Marina militare, e successive modificazioni;
+Vista la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), recante ordinamento della Marina militare, e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 11 marzo 1953, n. 412](Approvazione%20del%20nuovo%20statuto%20dellAccademia%20navale.md), recante approvazione dello statuto dell'Accademia navale, e successive modificazioni;
 
 Visto il testo unico delle leggi sull'istruzione universitaria, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
 
-Visto il [regio decreto 30 settembre 1938, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), che approva, tra l'altro, le tabelle relative agli insegnamenti propri alle lauree ed ai diplomi che sono rilasciati dalle universita' e dagli istituti universitari;
+Visto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), che approva, tra l'altro, le tabelle relative agli insegnamenti propri alle lauree ed ai diplomi che sono rilasciati dalle universita' e dagli istituti universitari;
 
-Vista la [legge 27 maggio 1991, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-27;168), concernente le norme per il riconoscimento della validita' degli studi compiuti dagli ufficiali in servizio permanente della Marina e dell'Aeronautica militare, nonche' della Guardia di finanza, presso le rispettive accademie e scuola di applicazione, ai fini dell'ammissione ai corsi di diploma e di laurea di talune facolta' universitarie;
+Vista la [legge 27 maggio 1991, n. 168](Norme%20per%20il%20riconoscimento%20della%20validita%20degli%20studi%20compiuti%20dagli%20ufficiali%20in%20servizio%20permanente%20della%20Marina%20e%20dellAeronautica%20militari%20nonche%20della%20Guardia%20di%20finanza%20presso%20le%20ri_7796c8ee76f6.md), concernente le norme per il riconoscimento della validita' degli studi compiuti dagli ufficiali in servizio permanente della Marina e dell'Aeronautica militare, nonche' della Guardia di finanza, presso le rispettive accademie e scuola di applicazione, ai fini dell'ammissione ai corsi di diploma e di laurea di talune facolta' universitarie;
 
 Visto l'[articolo 17, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 
@@ -61,7 +61,7 @@ L'Accademia navale e' un istituto di formazione militare, con sede a Livorno, ch
 L'Accademia navale partecipa inoltre, compatibilmente con le primarie esigenze didattiche, ad attivita' di studio e di ricerca a livello universitario nei settori della cultura di preminente interesse della Marina militare.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ### Art. 2. — Indirizzo formativo
 
@@ -249,10 +249,10 @@ Il piano annuale delle materie d'insegnamento svolte in Accademia e' approvato d
 
 4.
 
-In relazione alla valenza universitaria di gran parte degli insegnamenti, la definizione dei relativi programmi e le modalita' di svolgimento dei corsi e degli esami sono coerenti con le disposizioni di cui alla [legge 27 maggio 1991, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-27;168), sul riconoscimento degli studi compiuti ai fini dell'ammissione ai corrispondenti corsi di diploma e di laurea presso le universita' statali.
+In relazione alla valenza universitaria di gran parte degli insegnamenti, la definizione dei relativi programmi e le modalita' di svolgimento dei corsi e degli esami sono coerenti con le disposizioni di cui alla [legge 27 maggio 1991, n. 168](Norme%20per%20il%20riconoscimento%20della%20validita%20degli%20studi%20compiuti%20dagli%20ufficiali%20in%20servizio%20permanente%20della%20Marina%20e%20dellAeronautica%20militari%20nonche%20della%20Guardia%20di%20finanza%20presso%20le%20ri_7796c8ee76f6.md), sul riconoscimento degli studi compiuti ai fini dell'ammissione ai corrispondenti corsi di diploma e di laurea presso le universita' statali.
 
 Nota all'[art. 12:
- - La legge 27 maggio 1991, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-27;168#art_12), reca: "Norme per il riconoscimento della validita' degli studi compiuti dagli ufficiali in servizio permanente della Marina e dell'Aeronautica militare, nonche' della Guardia di finanza, presso le rispettive accademie e scuole di applicazione, ai fini dell'ammissione ai corsi di diploma e di laurea di talune facolta' universitarie" (pubblicata nella Gazzetta Ufficiale n. 129 del 4 giugno 1991).
+ - La legge 27 maggio 1991, n. 168](Norme%20per%20il%20riconoscimento%20della%20validita%20degli%20studi%20compiuti%20dagli%20ufficiali%20in%20servizio%20permanente%20della%20Marina%20e%20dellAeronautica%20militari%20nonche%20della%20Guardia%20di%20finanza%20presso%20le%20ri_7796c8ee76f6.md), reca: "Norme per il riconoscimento della validita' degli studi compiuti dagli ufficiali in servizio permanente della Marina e dell'Aeronautica militare, nonche' della Guardia di finanza, presso le rispettive accademie e scuole di applicazione, ai fini dell'ammissione ai corsi di diploma e di laurea di talune facolta' universitarie" (pubblicata nella Gazzetta Ufficiale n. 129 del 4 giugno 1991).
 
 ### Art. 13. — Insegnamenti complementari
 
@@ -471,7 +471,7 @@ All'atto del passaggio nel servizio permanente effettivo i guardiamarina contrag
 
 3.
 
-Al guardiamarina della quarta classe che, per motivi disciplinari o di studio, si trovi nella condizione di dover essere rinviato dall'Accademia navale, si applica quanto disposto dall'[articolo 88 - bis della legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_88bis), sull'avanzamento degli ufficiali, e successive modificazioni.
+Al guardiamarina della quarta classe che, per motivi disciplinari o di studio, si trovi nella condizione di dover essere rinviato dall'Accademia navale, si applica quanto disposto dall'[articolo 88 - bis della legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sull'avanzamento degli ufficiali, e successive modificazioni.
 
 ## Corsi per ufficiali
 

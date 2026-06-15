@@ -38,7 +38,7 @@ Il Ministro del tesoro determina, nei limiti dell'importo di 10 mila miliardi e 
 
 1.
 
-L'[articolo 15 della legge 2 gennaio 1991, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-02;1#art_15), si interpreta nel senso che il Fondo nazionale di garanzia ha personalita' giuridica ed autonomia patrimoniale.
+L'[articolo 15 della legge 2 gennaio 1991, n. 1](Disciplina%20dellattivita%20di%20intermediazione%20mobiliare%20e%20disposizioni%20sullorganizzazione%20dei%20mercati%20mobiliari.md), si interpreta nel senso che il Fondo nazionale di garanzia ha personalita' giuridica ed autonomia patrimoniale.
 
 2.
 
@@ -46,7 +46,7 @@ Entro trenta giorni dalla data di entrata in vigore della legge di conversione d
 
 3.
 
-Restano ferme le altre disposizioni e le attribuzioni concernenti il Fondo nazionale di garanzia contenute nella [legge 2 gennaio 1991, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-02;1).
+Restano ferme le altre disposizioni e le attribuzioni concernenti il Fondo nazionale di garanzia contenute nella [legge 2 gennaio 1991, n. 1](Disciplina%20dellattivita%20di%20intermediazione%20mobiliare%20e%20disposizioni%20sullorganizzazione%20dei%20mercati%20mobiliari.md).
 
 ## Art. 3.
 
@@ -54,7 +54,7 @@ Restano ferme le altre disposizioni e le attribuzioni concernenti il Fondo nazio
 
 Il numero minimo dei votanti di cui all'articolo 4, secondo comma, del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), si intende come numero fisso di componenti ed e' elevato a quindici per l'esercizio, da parte delle sezioni riunite della Corte dei conti, delle funzioni di controllo e referenti, in queste ultime intendendosi comprese quelle di cui all'[articolo 3, comma 6, della legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20#art_3-com6).
 Il numero e' raddoppiato per l'esercizio delle funzioni consultive.
-Per l'esercizio delle funzioni giurisdizionali, resta ferma la composizione dei collegi stabilita dal [decreto-legge 15 novembre 1993 n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19). Il periodo di tempo di cui all'articolo 1, comma 9, ultimo periodo, del [decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), termina alla data del 30 aprile 1996, successivamente alla quale si procede alle assegnazioni definitive, con eventuale assegnazione di ufficio di durata non superiore ad un anno. L'articolo 3, comma 10, ultimo periodo, della [legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20), si interpreta nel senso che i presidenti di sezione preposti al coordinamento del controllo sulle amministrazioni dello Stato fanno parte dei collegi della sezione di controllo, fermo restandone il numero dei componenti.
+Per l'esercizio delle funzioni giurisdizionali, resta ferma la composizione dei collegi stabilita dal [decreto-legge 15 novembre 1993 n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md). Il periodo di tempo di cui all'articolo 1, comma 9, ultimo periodo, del [decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md), termina alla data del 30 aprile 1996, successivamente alla quale si procede alle assegnazioni definitive, con eventuale assegnazione di ufficio di durata non superiore ad un anno. L'articolo 3, comma 10, ultimo periodo, della [legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20), si interpreta nel senso che i presidenti di sezione preposti al coordinamento del controllo sulle amministrazioni dello Stato fanno parte dei collegi della sezione di controllo, fermo restandone il numero dei componenti.
 
 ## Art. 4.
 

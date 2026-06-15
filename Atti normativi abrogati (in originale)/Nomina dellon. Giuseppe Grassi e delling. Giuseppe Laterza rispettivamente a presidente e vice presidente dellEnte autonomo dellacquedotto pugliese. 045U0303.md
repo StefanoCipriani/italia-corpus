@@ -15,7 +15,7 @@ UMBERTO DI SAVOIA
  LUOGOTENENTE GENERALE DEL REGNO 
  
  In virtu' dell'autorita' a Noi delegata; 
- Visto il [decreto Luogotenenziale 19 ottobre 1919, n. 2060](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-10-19;2060), istitutivo dell'Ente autonomo per l'acquedotto pugliese, modificato e convertito dalla [legge 23 settembre 1920, n. 1365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-09-23;1365); 
+ Visto il [decreto Luogotenenziale 19 ottobre 1919, n. 2060](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-10-19;2060), istitutivo dell'Ente autonomo per l'acquedotto pugliese, modificato e convertito dalla [legge 23 settembre 1920, n. 1365](Che%20converte%20in%20legge%20il%20R.%20decreto%2018%20ottobre%201919%20n.%202060%20relativo%20alla%20istituzione%20dellEnte%20autonomo%20dellAcquedotto%20pugliese.%20020U1365.md); 
  Visto l'art. 1 del decreto 9 aprile 1931, n. 334, che reca disposizioni concernenti gli organi di amministrazione dell'Ente anonimo per l'acquedotto pugliese; 
  Visto l'[art. 5 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_5); 
  Visto il [decreto legislativo luogotenenziale 1° febbraio 1945, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;55); 

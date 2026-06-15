@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 giugno 1933, n. 931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-27;931); che ha dato esecuzione allo scambio di note effettuato a Bucarest, fra l'Italia e la Romania, il 25 febbraio 1933, per la proroga al 30 giugno 1933 del termine valido per la denuncia del Trattato di commercio italo-romeno del 25 febbraio 1930. 
+ E' convertito in legge il [R. decreto-legge 27 giugno 1933, n. 931](Approvazione%20dello%20scambio%20di%20note%20effettuato%20a%20Bucarest%20fra%20lItalia%20e%20la%20Romania%20per%20la%20proroga%20del%20termine%20di%20denuncia%20del%20trattato%20di%20commercio%20italo-romeno%20del%2025%20febbraio%201930.%20033U0931.md); che ha dato esecuzione allo scambio di note effettuato a Bucarest, fra l'Italia e la Romania, il 25 febbraio 1933, per la proroga al 30 giugno 1933 del termine valido per la denuncia del Trattato di commercio italo-romeno del 25 febbraio 1930. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

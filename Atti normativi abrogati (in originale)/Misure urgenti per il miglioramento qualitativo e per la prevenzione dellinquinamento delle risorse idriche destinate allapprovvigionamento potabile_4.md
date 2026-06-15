@@ -77,7 +77,7 @@ Il [primo comma dell'articolo 4 del decreto del Presidente della Repubblica 3 lu
 
 1.
 
-I parametri "pesticidi clorurati" e "pesticidi fosforati" di cui rispettivamente ai numeri 46 e 47 della tabella A ed ai numeri 44 e 45 della tabella C allegate alla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), sono sostituiti come segue:
+I parametri "pesticidi clorurati" e "pesticidi fosforati" di cui rispettivamente ai numeri 46 e 47 della tabella A ed ai numeri 44 e 45 della tabella C allegate alla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), sono sostituiti come segue:
 
  ----> Parte di provvedimento in formato grafico <----
 
@@ -86,14 +86,14 @@ I parametri "pesticidi clorurati" e "pesticidi fosforati" di cui rispettivamente
 Tenuto conto delle nuove conoscenze scientifiche e per migliorare la tutela delle acque, con decreto del Ministro dell'ambiente, di
 concerto con il Ministro della sanita', sono integrate e
 modificate le tabelle A e C allegate alla [legge 10 maggio 1976, n.
-319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319).
+319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md).
 
 ## Art. 8. — Tassa di concessione governativa
  sulla produzione di fitofarmaci
 
 1.
 
-Al titolo III, Igiene-Sanita', della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;641), dopo il numero 6 e' aggiunto il seguente:
+Al titolo III, Igiene-Sanita', della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), dopo il numero 6 e' aggiunto il seguente:
 
 
  ----> Parte di provvedimento in formato grafico <----
@@ -156,12 +156,12 @@ in via permanente, dal Ministro per gli affari regionali ed i problemi istituzio
 1.
 
 Il fondo per la protezione civile, istituito con l'[articolo 2
-del decreto-legge 10 luglio 1982, n. 428](Misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnimento%20degli%20incendi.md), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;547), e' integrato per l'anno 1989 dalla somma di lire 200 miliardi e per l'anno 1990 dalla somma di lire 375 miliardi per far fronte agli urgenti interventi, approvati con la procedura di cui all'articolo 11, diretti ad assicurare la potabilizzazione delle acque ed a superare le situazioni di crisi idrica nelle regioni Emilia-Romagna, Friuli-Venezia Giulia, Lombardia, Marche, Piemonte e Veneto derivanti dalla contaminazione da diserbanti.
+del decreto-legge 10 luglio 1982, n. 428](Misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnimento%20degli%20incendi.md), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20428%20recante%20misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnim_04ba3d019ac1.md), e' integrato per l'anno 1989 dalla somma di lire 200 miliardi e per l'anno 1990 dalla somma di lire 375 miliardi per far fronte agli urgenti interventi, approvati con la procedura di cui all'articolo 11, diretti ad assicurare la potabilizzazione delle acque ed a superare le situazioni di crisi idrica nelle regioni Emilia-Romagna, Friuli-Venezia Giulia, Lombardia, Marche, Piemonte e Veneto derivanti dalla contaminazione da diserbanti.
 
 2.
 
 Il Ministro per il coordinamento della protezione civile, con i
-poteri di cui al [secondo comma dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1982, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-23;938), provvede, con proprie ordinanze, emanate d'intesa con i Ministri dell'ambiente, della sanita' e del tesoro, all'attuazione delle disposizioni di cui al comma 1.
+poteri di cui al [secondo comma dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1982, n. 938](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20novembre%201982%20n.%20829%20concernente%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20da%20calamita%20naturali%20o%20eventi%20eccezionali.md), provvede, con proprie ordinanze, emanate d'intesa con i Ministri dell'ambiente, della sanita' e del tesoro, all'attuazione delle disposizioni di cui al comma 1.
 
 3.
 
@@ -169,7 +169,7 @@ All'onere derivante dall'attuazione del presente articolo, pari
 a lire 200 miliardi nel 1989 ed a lire 375 miliardi nel 1990, si provvede:
                         a)
                             quanto a lire 200 miliardi nel 1989, mediante corrispondente
-riduzione dello stanziamento iscritto al capitolo 7511 dello stato di previsione del Ministero del bilancio e della programmazione economica per il medesimo anno, all'uopo intendendosi corrispondentemente ridotta a lire 1.500 miliardi l'autorizzazione di spesa di cui all'[articolo 17, comma 31, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_17-com31), e successive modificazioni, ed a lire 665 miliardi la quota di detta autorizzazione riservata agli interventi di tutela ambientale;
+riduzione dello stanziamento iscritto al capitolo 7511 dello stato di previsione del Ministero del bilancio e della programmazione economica per il medesimo anno, all'uopo intendendosi corrispondentemente ridotta a lire 1.500 miliardi l'autorizzazione di spesa di cui all'[articolo 17, comma 31, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), e successive modificazioni, ed a lire 665 miliardi la quota di detta autorizzazione riservata agli interventi di tutela ambientale;
                         b)
                             quanto a lire 375 miliardi nel 1990, mediante utilizzo della
 proiezione per l'anno medesimo dello stanziamento iscritto, ai fini del bilancio triennale 1989-1991, al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1989, all'uopo parzialmente utilizzando, quanto a lire 200 miliardi, l'accantonamento "Rifinanziamento progetti FIO e quota ammortamento mutui BEI" e, quanto a lire 175 miliardi, l'accantonamento "Difesa del suolo ivi comprese le opere necessarie alla sistemazione idrogeologica del fiume Arno".
@@ -190,7 +190,7 @@ fini del raggiungimento degli obiettivi di cui al presente decreto, le dotazioni
 2.
 
 I posti disponibili nelle qualifiche di primo dirigente, alla
-data di entrata in vigore della legge di conversione del presente decreto, sono conferiti mediante concorso speciale per esami. Si applicano le disposizioni di cui all'[articolo 2 della legge 10 luglio 1984, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-10;301#art_2).
+data di entrata in vigore della legge di conversione del presente decreto, sono conferiti mediante concorso speciale per esami. Si applicano le disposizioni di cui all'[articolo 2 della legge 10 luglio 1984, n. 301](Norme%20di%20accesso%20alla%20dirigenza%20statale.md).
 
 3.
 

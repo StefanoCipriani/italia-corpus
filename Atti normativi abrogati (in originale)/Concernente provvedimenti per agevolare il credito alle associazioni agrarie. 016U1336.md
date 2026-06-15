@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduta la [legge 23 gennaio 1887, n. 4276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-01-23;4276) (serie 3ª), sul credito agrario:
+Veduta la [legge 23 gennaio 1887, n. 4276](Riguardante%20lordinamento%20del%20credito%20agrario.%20087U4276.md) (serie 3ª), sul credito agrario:
 
 Sentito il Consiglio dei ministri;
 
@@ -28,11 +28,11 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-Quando i prestiti e i conti correnti agrari garantiti da privilegio speciale a norma del titolo I della [legge 23 gennaio 1887, n. 4276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-01-23;4276) (serie 3ª), siano concessi ad Associazioni agrarie legalmente costituite, cosi sotto forma di enti morali come di Societa' cooperative, si applicano le seguenti disposizioni.
+Quando i prestiti e i conti correnti agrari garantiti da privilegio speciale a norma del titolo I della [legge 23 gennaio 1887, n. 4276](Riguardante%20lordinamento%20del%20credito%20agrario.%20087U4276.md) (serie 3ª), siano concessi ad Associazioni agrarie legalmente costituite, cosi sotto forma di enti morali come di Societa' cooperative, si applicano le seguenti disposizioni.
 
 ## Art. 2.
 
-Il privilegio di cui all'art. 1. della [legge 23 gennaio 1887, n. 4276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-01-23;4276) (serie 3ª), puo' essere costituito anche sui frutti pendenti.
+Il privilegio di cui all'art. 1. della [legge 23 gennaio 1887, n. 4276](Riguardante%20lordinamento%20del%20credito%20agrario.%20087U4276.md) (serie 3ª), puo' essere costituito anche sui frutti pendenti.
 
 ## Art. 3.
 
@@ -58,7 +58,7 @@ Il locatore ha diritto di prelazione sull' Istituto mutuante a meno che non gli 
 
 ## Art. 5.
 
-Quando gli oggetti sottoposti al privilegio siano menomati, deteriorati o distratti, si applicano le penalita' stabilite dall'[art. 203 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_203).
+Quando gli oggetti sottoposti al privilegio siano menomati, deteriorati o distratti, si applicano le penalita' stabilite dall'[art. 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 
@@ -82,7 +82,7 @@ I contratti di prestito con costituzione di privilegio di cui all'art. 1 sono sc
 
 ## Art. 10.
 
-Per tutto quanto non e' regolato dal presente decreto, restano ferme le disposizioni della [legge 23 gennaio 1887, n. 4276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-01-23;4276) (serie 3ª).
+Per tutto quanto non e' regolato dal presente decreto, restano ferme le disposizioni della [legge 23 gennaio 1887, n. 4276](Riguardante%20lordinamento%20del%20credito%20agrario.%20087U4276.md) (serie 3ª).
 
 ## Art. 11.
 

@@ -14,7 +14,7 @@ TITOLO I.
 
 ### Art. 1.
 
-Le chiamate di rassegna di cui all' articolo 90 del testo unico delle leggi sulla leva di mare, approvato con [Regio decreto 16 dicembre 1888, n. 5860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-12-16;5860), serie 3ª, quando sono ordinate a scopo di controllo, avranno luogo normalmente in giorno di domenica.
+Le chiamate di rassegna di cui all' articolo 90 del testo unico delle leggi sulla leva di mare, approvato con [Regio decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), serie 3ª, quando sono ordinate a scopo di controllo, avranno luogo normalmente in giorno di domenica.
 
 ### Art. 2.
 

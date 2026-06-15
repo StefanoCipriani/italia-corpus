@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Dal 1° gennaio 1942 e' concessa l'esenzione dal pagamento dei contributi previsti dal [R. decreto-legge 28 novembre 1938, n. 2138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;2138), applicati col sistema unificato agli agricoltori ed ai lavoratori dell'agricoltura, limitatamente ai terreni ubicati in montagna ad una altitudine superiore ai metri 800 sul livello del mare. 
+Dal 1° gennaio 1942 e' concessa l'esenzione dal pagamento dei contributi previsti dal [R. decreto-legge 28 novembre 1938, n. 2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md), applicati col sistema unificato agli agricoltori ed ai lavoratori dell'agricoltura, limitatamente ai terreni ubicati in montagna ad una altitudine superiore ai metri 800 sul livello del mare. 
  
  La misura dei predetti contributi potra' essere inoltre ridotta del 50 per cento nei confronti degli agricoltori e dei lavoratori dell'agricoltura per i terreni ubicati in determinate zone tra i metri 400 ed i metri 800 sul livello del mare. 
  

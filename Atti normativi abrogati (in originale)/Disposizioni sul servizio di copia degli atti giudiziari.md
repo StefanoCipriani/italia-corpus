@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 Ferma restando la disposizione di cui all'[articolo 5 della legge 11 aprile 1964, n. 264](Disposizioni%20relative%20al%20personale%20di%20dattilografia%20e%20al%20personale%20ausiliario%20del%20Ministero%20di%20grazia%20e%20giustizia.md), il [primo comma dello articolo 5 della legge 20 febbraio 1958, n. 58](Sistemazione%20degli%20amanuensi%20giudiziari%20assunti%20a%20norma%20dellart.%2099%20del%20regio%20decreto-legge%208%20maggio%201924%20n.%20745.md), modificato dalle [leggi 28 luglio 1960, n. 777, e 20 dicembre 1962, n. 1719](Disposizioni%20sul%20servizio%20copia%20degli%20atti%20giudiziari.md), e' sostituito dal seguente:
- "L'articolo 99 dell'Ordinamento del personale delle cancellerie e segreterie giudiziarie, approvato con [regio decreto-legge 8 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-08;745), e' abrogato a decorrere dal giorno successivo alla scadenza del termine utile per l'assunzione in servizio dei vincitori dei concorsi per 550 posti e 110 posti di dattilografo negli uffici giudiziari indetti con decreti del Ministro per la grazia e giustizia dal 18 maggio 1964".
+ "L'articolo 99 dell'Ordinamento del personale delle cancellerie e segreterie giudiziarie, approvato con [regio decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), e' abrogato a decorrere dal giorno successivo alla scadenza del termine utile per l'assunzione in servizio dei vincitori dei concorsi per 550 posti e 110 posti di dattilografo negli uffici giudiziari indetti con decreti del Ministro per la grazia e giustizia dal 18 maggio 1964".
 
 ## Art. 2.
 

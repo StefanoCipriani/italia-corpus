@@ -64,7 +64,7 @@ La Sezione autonoma di credito fondiario compie le seguenti operazioni:
  
  La Sezione autonoma di credito fondiario rappresenta il Consorzio nazionale per il credito agrario di miglioramento ai termini del decreto Ministeriale 19 marzo 1928 che approva lo statuto del Consorzio stesso. 
  
- Per quant'altro riguarda la Sezione di credito fondiario vigono le disposizioni approvate con [R. decreto 31 maggio 1928, n. 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-31;1416).
+ Per quant'altro riguarda la Sezione di credito fondiario vigono le disposizioni approvate con [R. decreto 31 maggio 1928, n. 1416](Approvazione%20del%20nuovo%20statuto%20della%20Sezione%20autonoma%20di%20credito%20fondiario%20presso%20la%20Banca%20nazionale%20del%20lavoro%20e%20della%20cooperazione.%20028U1416.md).
 
 ## Art. 4.
 
@@ -125,7 +125,7 @@ Il direttore generale viene nominato, sospeso e rimosso con decreto Reale, promo
 
 ## Art. 11.
 
-In quanto non sia diversamente disposto nel presente decreto, rimangono in vigore le disposizioni del [R. decreto 13 luglio 1921, n. 1703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-13;1703), del [R. decreto 30 novembre 1919, n. 2318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-30;2318), del testo unico approvato con [R. decreto 9 aprile 1922, numero 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-09;932), del [R. decreto-legge 2 dicembre 1923, n. 2688](Modificazioni%20allordinamento%20dellIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20023U2688.md), del [R. decreto 11 settembre 1924, n. 1520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-11;1520), del [R. decreto-legge 19 maggio 1927, n. 843](Riordinamento%20dellIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20027U0843.md), del [R. decreto 31 maggio 1928, numero 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-31;1416).
+In quanto non sia diversamente disposto nel presente decreto, rimangono in vigore le disposizioni del [R. decreto 13 luglio 1921, n. 1703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-13;1703), del [R. decreto 30 novembre 1919, n. 2318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-30;2318), del testo unico approvato con [R. decreto 9 aprile 1922, numero 932](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md), del [R. decreto-legge 2 dicembre 1923, n. 2688](Modificazioni%20allordinamento%20dellIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20023U2688.md), del [R. decreto 11 settembre 1924, n. 1520](Approvazione%20dello%20statuto%20organico%20dellIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione%20in%20Roma%20e%20della%20Sezione%20autonoma%20di%20credito%20fondiario%20istituita%20presso%20listituto%20stesso.%20024U1520.md), del [R. decreto-legge 19 maggio 1927, n. 843](Riordinamento%20dellIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20027U0843.md), del [R. decreto 31 maggio 1928, numero 1416](Approvazione%20del%20nuovo%20statuto%20della%20Sezione%20autonoma%20di%20credito%20fondiario%20presso%20la%20Banca%20nazionale%20del%20lavoro%20e%20della%20cooperazione.%20028U1416.md).
 
 ## Art. 12.
 

@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il testo unico delle disposizioni sul Credito agrario approvato con [R. decreto 9 aprile 1922, numero 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-09;932);
+Veduto il testo unico delle disposizioni sul Credito agrario approvato con [R. decreto 9 aprile 1922, numero 932](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -30,7 +30,7 @@ La Cassa depositi e prestiti e' autorizzata ad anticipare al Tesoro, in ciascuno
 
 ## Art. 2.
 
-Sulle somme di cui al precedente articolo saranno accordate anticipazioni alle Casse provinciali di credito agrario di Cagliari e di Sassari per la concessione di mutui per gli scopi indicati negli articoli 17 e 19 del testo unico delle disposizioni sul credito agrario, approvato con [R. decreto 9 aprile 1922, n. 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-09;932). 
+Sulle somme di cui al precedente articolo saranno accordate anticipazioni alle Casse provinciali di credito agrario di Cagliari e di Sassari per la concessione di mutui per gli scopi indicati negli articoli 17 e 19 del testo unico delle disposizioni sul credito agrario, approvato con [R. decreto 9 aprile 1922, n. 932](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md). 
  
  Le anticipazioni alle Casse provinciali predette saranno accordate su richiesta del Ministro per l'agricoltura. Qualora siffatte anticipazioni non raggiungano entro ciascun anno il limite massimo di L. 5.000.000 la differenza potra' essere erogata in aumento delle quote degli anni successivi.
 

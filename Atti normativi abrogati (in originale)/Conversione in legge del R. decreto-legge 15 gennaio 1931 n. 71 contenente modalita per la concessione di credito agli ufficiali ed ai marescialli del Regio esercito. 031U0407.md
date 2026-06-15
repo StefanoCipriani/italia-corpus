@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 gennaio 1931, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-15;71), contenente modalita' per la concessione di credito gli ufficiali ed ai marescialli del Regio esercito. 
+ E' convertito in legge il [R. decreto-legge 15 gennaio 1931, n. 71](Modalita%20per%20la%20concessione%20di%20credito%20agli%20ufficiali%20ed%20ai%20marescialli%20del%20Regio%20esercito.%20031U0071.md), contenente modalita' per la concessione di credito gli ufficiali ed ai marescialli del Regio esercito. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

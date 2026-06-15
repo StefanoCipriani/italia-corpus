@@ -34,7 +34,7 @@ Nota all'art. 1:
  5) figlio di genitori che abbiano altri cinque figli, i quali siano ancora a carico, qualora con la partenza alle armi dell'arruolato la famiglia venga a perdere i necessari mezzi di sussistenza;
  6) appartenente a famiglia di cui altri due figli abbiano prestato o prestino servizio militare;
  7) vedovo o celibe con prole;
- 8) figlio unico convivente con genitori dei quali uno portatore di handicap che lo renda non autosufficiente o invalido civile affetto da mutilazione o invalidita' analoga a quelle per le quali e' previsto l'accompagnatore ai sensi del [decreto del Presidente della Repubblica 30 dicembre 1981, n. 834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-12-30;834);
+ 8) figlio unico convivente con genitori dei quali uno portatore di handicap che lo renda non autosufficiente o invalido civile affetto da mutilazione o invalidita' analoga a quelle per le quali e' previsto l'accompagnatore ai sensi del [decreto del Presidente della Repubblica 30 dicembre 1981, n. 834](../DPR/Definitivo%20riordinamento%20delle%20pensioni%20di%20guerra%20in%20attuazione%20della%20delega%20prevista%20dallart.%201%20della%20legge%2023%20settembre%201981%20n.%20533.md);
  9) unico fratello convivente di handicappato non autosufficiente;
  10) primo o altro figlio maschio di genitore caduto in servizio o nello svolgimento di altra attivita' di lavoro subordinato o di deceduto per l'aggravarsi delle infermita' contratte per tali cause;
  11) primo o altro figlio maschio di genitore invalido per servizio o del lavoro di prima e seconda categoria;

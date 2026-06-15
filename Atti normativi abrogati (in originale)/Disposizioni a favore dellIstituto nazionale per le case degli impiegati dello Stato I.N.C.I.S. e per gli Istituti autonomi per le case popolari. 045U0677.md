@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'Istituto nazionale per le case degli impiegati dello Stato (I.N.C.I.S.) e' autorizzato a provvedere all'adeguamento delle pigioni per le case date in locazione, a norma del [secondo comma dell'art. 379 del testo unico delle disposizioni sull'edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380#art_379-com2) popolare ed economica, approvato con il [R. decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165). 
+L'Istituto nazionale per le case degli impiegati dello Stato (I.N.C.I.S.) e' autorizzato a provvedere all'adeguamento delle pigioni per le case date in locazione, a norma del [secondo comma dell'art. 379 del testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con il [R. decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165). 
  
  Il predetto Istituto e' altresi' autorizzato a procedere alla perequazione delle pigioni ad esso dovute per case costruite in localita', in tempi ed a costi diversi, tenendo conto delle loro speciali condizioni, a norma del penultimo comma dell'art. 379, del citato testo unico. 
  

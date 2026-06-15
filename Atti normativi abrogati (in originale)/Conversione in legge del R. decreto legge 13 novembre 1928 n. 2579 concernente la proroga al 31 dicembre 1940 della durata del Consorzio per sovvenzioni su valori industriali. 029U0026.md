@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 novembre 1928, n. 2579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-13;2579), concernente la proroga al 31 dicembre 1940 della durata del Consorzio per sovvenzioni su valori industriali. 
+ E' convertito in legge il [R. decreto-legge 13 novembre 1928, n. 2579](Proroga%20della%20durata%20del%20Consorzio%20per%20sovvenzioni%20su%20valori%20industriali.%20028U2579.md), concernente la proroga al 31 dicembre 1940 della durata del Consorzio per sovvenzioni su valori industriali. 
  
  Ordiniamo che la presente, munita del sigillo dello stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

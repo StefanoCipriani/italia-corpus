@@ -25,7 +25,7 @@ L'[articolo 6 della legge 27 settembre 1963, n. 1315](Miglioramento%20del%20trat
 ## Art. 3.
 
 L'integrazione temporanea, prevista dall'[articolo 1 della legge 27 settembre 1963, n. 1315](Miglioramento%20del%20trattamento%20di%20quiescenza%20del%20personale%20statale.md), e' estesa con la stessa decorrenza ai titolari del sussidio di quiescenza di cui all'[articolo 22 della legge 18 ottobre 1942, numero 1407](Costituzione%20dellIstituto%20cauzioni%20e%20quiescenza%20per%20i%20ricevitori%20postali%20e%20telegrafici.%20042U1407.md) e successive modificazioni, con esclusione del carovita previsto dall'[articolo 1 del decreto legislativo del Capo provvisorio dello Stato 21 settembre 1947, numero 1088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-21;1088#art_1), e successive modificazioni.
- Il relativo onere e' a carico del Fondo per il trattamento di quiescenza di cui all'[articolo 77 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-06-05;656#art_77).
+ Il relativo onere e' a carico del Fondo per il trattamento di quiescenza di cui all'[articolo 77 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656](../DPR/Approvazione%20delle%20norme%20di%20coordinamento%20e%20modificazione%20delle%20disposizioni%20in%20materia%20di%20ricevitorie%20postali%20e%20telegrafiche%20agenzie%20collettorie%20e%20servizi%20di%20portalettere%20rurale.md).
 
 ## Art. 4.
 

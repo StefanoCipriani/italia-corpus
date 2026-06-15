@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' autorizzata la spesa di L. 2,000,000 in aggiunta a quella disposta con le [leggi 30 giugno 1904, n. 203, 30 giugno 1909, n. 407, 13 aprile 1911, n. 311, e 19 luglio 1914, n. 769](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;769), e coi Nostri decreti 11 novembre 1915, n. 1676, 3 settembre 1916, n. 1250 e 9 settembre 1917, n. 1543, per la costruzione di una nuova aula della Camera dei deputati e per la sistemazione del Palazzo di Montecitorio e sue adiacenze. 
+ E' autorizzata la spesa di L. 2,000,000 in aggiunta a quella disposta con le [leggi 30 giugno 1904, n. 203, 30 giugno 1909, n. 407, 13 aprile 1911, n. 311, e 19 luglio 1914, n. 769](Che%20modifica%20laltra%20del%204%20aprile%201912%20n.%20297%20concernente%20la%20spesa%20straordinaria%20consolidata%20del%20Ministero%20dei%20lavori%20pubblici%20014U0769.md), e coi Nostri decreti 11 novembre 1915, n. 1676, 3 settembre 1916, n. 1250 e 9 settembre 1917, n. 1543, per la costruzione di una nuova aula della Camera dei deputati e per la sistemazione del Palazzo di Montecitorio e sue adiacenze. 
  
  La detta spesa sara' stanziata nello stato di previsione della spesa del Ministero dei lavori pubblici per gli esercizi finanziari 1917-918 e ammessivi a seconda del bisogno. 
  

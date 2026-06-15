@@ -150,7 +150,7 @@ All'articolo 182 della Legge sovracitata sul reclutamento e' sostituito il segue
 
 ### Art. 17.
 
-Il regolare congedo assoluto, di cui fa menzione l'[articolo 324 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_324) militare, all'effetto di far cessare la giurisdizione militare, non si intendera' intervenuto che nel giorno in cui sara' stato effettivamente rilasciato.
+Il regolare congedo assoluto, di cui fa menzione l'[articolo 324 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, all'effetto di far cessare la giurisdizione militare, non si intendera' intervenuto che nel giorno in cui sara' stato effettivamente rilasciato.
 
 ### Art. 18.
 

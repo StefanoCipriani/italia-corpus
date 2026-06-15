@@ -100,7 +100,7 @@ I componenti del Consiglio non possono prendere parte a discussioni, deliberazio
  
  Sul ricorso del condannato o del pubblico ministero provvede la sezione civile della Corte d'appello in Camera di consiglio. 
  
- Pel procedimento si osservano le norme del [R. decreto 30 dicembre 1865, n. 2721](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-30;2721). 
+ Pel procedimento si osservano le norme del [R. decreto 30 dicembre 1865, n. 2721](Concernente%20lapplicazione%20delle%20pene%20di%20cui%20allart.%20404%20del%20Codice%20civile.%20065U2721.md). 
  
  I contratti stipulati in contravvenzione alle precedenti disposizioni sono nulli e la nullita' puo' essere promossa dal Consiglio di amministrazione con l'autorizzazione della Commissione Reale ovvero, qualora esso non provveda, dal Ministero dell'interno. 
  
@@ -117,7 +117,7 @@ Il direttore e' nominato dal Consiglio di amministrazione e deve prima di assume
  
  Non possono conseguire la nomina a direttore o ad impiegato, i componenti il Consiglio di amministrazione od i loro parenti ed affini fino al terzo grado. 
  
- Ai provvedimenti riguardanti il direttore ed il personale sono applicabili le disposizioni degli articoli 1, n. 12, o 2, n. 2, del testo unico delle leggi relative alle attribuzioni della Giunta provinciale amministrativa in sede giurisdizionale, approvato con [Regio decreto 17 agosto 1907, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-17;639). 
+ Ai provvedimenti riguardanti il direttore ed il personale sono applicabili le disposizioni degli articoli 1, n. 12, o 2, n. 2, del testo unico delle leggi relative alle attribuzioni della Giunta provinciale amministrativa in sede giurisdizionale, approvato con [Regio decreto 17 agosto 1907, n. 639](Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0639.md). 
  
 --------------- 
 Nota redazionale 
@@ -431,7 +431,7 @@ Nota redazionale
 
 ### Art. 30.
 
-La Cassa depositi e prestiti e' autorizzata a concedere all'Ente Volturno a norma degli articoli 19 e seguenti della presente legge, i mutui necessari al pagamento delle somme di cui l'Ente stesso risultasse debitore verso l'Amministrazione militare, in seguito alla sistemazione delle rispettive ragioni di dare e avere, ai sensi dell'art. 2 dei decreto Luogotenenziale 16 settembre 1917, n. (testo illeggibile), in quanto tali debiti non si riferiscano a spese per far fronte alle quali la Commissione Reale abbia gia' autorizzata la contrattazione di mutui con la Cassa predetta a termini dell'art. 71 del regolamento approvato con [R. decreto 7 ottobre 1905, n. 606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-10-07;606). 
+La Cassa depositi e prestiti e' autorizzata a concedere all'Ente Volturno a norma degli articoli 19 e seguenti della presente legge, i mutui necessari al pagamento delle somme di cui l'Ente stesso risultasse debitore verso l'Amministrazione militare, in seguito alla sistemazione delle rispettive ragioni di dare e avere, ai sensi dell'art. 2 dei decreto Luogotenenziale 16 settembre 1917, n. (testo illeggibile), in quanto tali debiti non si riferiscano a spese per far fronte alle quali la Commissione Reale abbia gia' autorizzata la contrattazione di mutui con la Cassa predetta a termini dell'art. 71 del regolamento approvato con [R. decreto 7 ottobre 1905, n. 606](Che%20approva%20lannesso%20regolamento%20dellAzienda%20per%20la%20costruzione%20e%20lesercizio%20di%20opere%20di%20derivazione%20di%20forza%20idraulica%20in%20Napoli.%20005U0606.md). 
  
 --------------- 
 Nota redazionale 

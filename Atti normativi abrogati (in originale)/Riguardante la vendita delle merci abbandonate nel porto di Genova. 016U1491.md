@@ -22,9 +22,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto 27 aprile 1915, n. 569](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-27;569), ed il Nostro decreto 28 ottobre 1915, n. 1590, recanti provvedimenti diretti a fronteggiare lo stato anormale di servizio nel porto di Genova;
 
-Visto l'art. 112 delle tariffe e condizioni pei trasporti (allegato D alla [legge 27 aprile 1885, n. 3048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-04-27;3048));
+Visto l'art. 112 delle tariffe e condizioni pei trasporti (allegato D alla [legge 27 aprile 1885, n. 3048](Concernente%20lesercizio%20delle%20reti%20Mediterranea%20Adriatica%20e%20Sicula%20e%20costruzione%20delle%20strade%20ferrate%20complementari.%20085U3048.md));
 
-Vista la [legge 12 febbraio 1903, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-02-12;50), per la costituzione di un Consorzio autonomo per l'esecuzione delle opere e per l'esercizio del porto di Genova;
+Vista la [legge 12 febbraio 1903, n. 50](Costituzione%20di%20un%20consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20003U0050.md), per la costituzione di un Consorzio autonomo per l'esecuzione delle opere e per l'esercizio del porto di Genova;
 
 Sentito il Consiglio dei ministri;
 

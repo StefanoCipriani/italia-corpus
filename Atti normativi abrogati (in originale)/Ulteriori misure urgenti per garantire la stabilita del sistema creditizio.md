@@ -16,9 +16,9 @@ Visti gli [articoli 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
 
-Visto il testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58);
+Visto il testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
 
-Visto il [testo unico delle disposizioni legislative e regolamentari in materia di debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398), di cui al [decreto del Presidente della Repubblica 30 dicembre 2003, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398), e in particolare l'articolo 3;
+Visto il [testo unico delle disposizioni legislative e regolamentari in materia di debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), di cui al [decreto del Presidente della Repubblica 30 dicembre 2003, n. 398](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), e in particolare l'articolo 3;
 
 Considerate le conclusioni del Consiglio Ecofin del 7 ottobre 2008 sui principi comuni dell'Unione europea per l'adozione di risposte immediate alle turbolenze dei mercati finanziari;
 
@@ -68,7 +68,7 @@ Con decreti di natura non regolamentare del Ministro dell'economia e delle finan
 
 2.
 
-La garanzia dello Stato di cui agli articoli 1, commi 1 e 3, sara' elencata nell'allegato allo stato di previsione del Ministero dell'economia e delle finanze di cui all'[articolo 13 della legge 5 agosto 1978, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_13). Ai relativi eventuali oneri si provvede ai sensi dell'[articolo 7, secondo comma, numero 2), della legge 5 agosto 1978, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_7-com2-num2), con imputazione nell'ambito dell'unita' previsionale di base 8.1.7.
+La garanzia dello Stato di cui agli articoli 1, commi 1 e 3, sara' elencata nell'allegato allo stato di previsione del Ministero dell'economia e delle finanze di cui all'[articolo 13 della legge 5 agosto 1978, n. 468](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md). Ai relativi eventuali oneri si provvede ai sensi dell'[articolo 7, secondo comma, numero 2), della legge 5 agosto 1978, n. 468](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), con imputazione nell'ambito dell'unita' previsionale di base 8.1.7.
 
 3.
 

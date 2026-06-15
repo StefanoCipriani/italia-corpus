@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-03;1915), riguardante la concessione di alcune agevolazioni fiscali alle societa' nazionali esercenti scuole civili di pilotaggio aereo per conto del Ministero dell'aeronautica. 
+ E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1915](Concessione%20di%20agevolazioni%20fiscali%20alle%20societa%20nazionali%20esercenti%20le%20scuole%20civili%20di%20pilotaggio%20aereo%20per%20conto%20del%20Ministero%20dellaeronautica.%20028U1915.md), riguardante la concessione di alcune agevolazioni fiscali alle societa' nazionali esercenti scuole civili di pilotaggio aereo per conto del Ministero dell'aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

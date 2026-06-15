@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [terzo comma dell'articolo 11 del Regio decreto-legge 24 novembre 1919, n. 2329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-24;2329#art_11-com3), e' abrogato e sostituito dal seguente: 
+Il [terzo comma dell'articolo 11 del Regio decreto-legge 24 novembre 1919, n. 2329](Che%20regola%20il%20reclutamento%20degli%20ufficiali%20della%20R.%20marina%20in%20servizio%20attivo%20permanente.%20019U2329.md), e' abrogato e sostituito dal seguente: 
  
  «Coloro che non sono approvati negli esami di una o due materie obbligatorie possono dare esami di riparazione, e, se approvati, sono classificati alla coda del loro corso; se invece sono ancora riprovati saranno chiamati a sostenere un nuovo esame di riparazione insieme al corso successivo, col quale saranno classificati, se ottengono l'approvazione. 
  

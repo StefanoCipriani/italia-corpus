@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  [R. decreto 20 maggio 1915, n. 715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-20;715), contenente disposizioni eccezionali per gli esami finali nelle scuole medie. 
  
- [R. decreto 24 maggio 1915, n. 803](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-24;803), contenente nuove disposizioni eccezionali per gli esami finali nelle scuole medie. 
+ [R. decreto 24 maggio 1915, n. 803](Concernente%20norme%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20015U0803.md), contenente nuove disposizioni eccezionali per gli esami finali nelle scuole medie. 
  
  [Decreto Luogotenenziale 
  

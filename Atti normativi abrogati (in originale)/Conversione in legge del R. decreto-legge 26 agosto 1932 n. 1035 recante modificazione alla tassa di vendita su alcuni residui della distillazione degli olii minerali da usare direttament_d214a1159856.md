@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 agosto 1932, n. 1035](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-08-26;1035), recante modificazione alla tassa di vendita su alcuni residui della distillazione degli olii minerali da usare direttamente come combustibile. 
+ E' convertito in legge il [R. decreto-legge 26 agosto 1932, n. 1035](Modificazioni%20alla%20tassa%20di%20vendita%20su%20alcuni%20residui%20della%20distillazione%20degli%20oli%20minerali%20da%20usare%20direttamente%20come%20combustibile.%20032U1035.md), recante modificazione alla tassa di vendita su alcuni residui della distillazione degli olii minerali da usare direttamente come combustibile. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

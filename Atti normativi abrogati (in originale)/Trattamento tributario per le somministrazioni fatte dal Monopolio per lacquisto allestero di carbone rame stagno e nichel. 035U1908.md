@@ -20,7 +20,7 @@ Vista la legge del registro 30 dicembre 1923, n. 3269;
 
 Vista la legge sulla tassa di scambio 28 luglio 1930, n. 1011, e successive modificazioni;
 
-Visto il [R. decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923), convertito nella [legge 7 luglio 1927, n. 1495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-07;1495), concernente i divieti di importazione e d'esportazione;
+Visto il [R. decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923), convertito nella [legge 7 luglio 1927, n. 1495](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2014%20novembre%201926%20n.%201923%20che%20provvede%20ad%20unificare%20coordinare%20ed%20integrare%20le%20disposizioni%20relative%20ai%20divieti%20di%20importazione%20e%20di%20esportazione%20di%20car_ac354a1268bc.md), concernente i divieti di importazione e d'esportazione;
 
 Visto l'ari 3, n. 2, della [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -38,7 +38,7 @@ Le somministrazioni di merci da parte del monopolio istituito col R. decreto-leg
 
 ## Art. 2.
 
-Chiunque abbia ottenuto materiali di monopolio in temporanea importazione e non riesporti entro il termine stabilito i prodotti ottenuti dai materiali temporaneamente importati, incorre nelle sanzioni previste dall'[art. 11 del R. decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923#art_11), convertito nella [legge 7 luglio 1927 n. 1495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-07;1495).
+Chiunque abbia ottenuto materiali di monopolio in temporanea importazione e non riesporti entro il termine stabilito i prodotti ottenuti dai materiali temporaneamente importati, incorre nelle sanzioni previste dall'[art. 11 del R. decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923#art_11), convertito nella [legge 7 luglio 1927 n. 1495](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2014%20novembre%201926%20n.%201923%20che%20provvede%20ad%20unificare%20coordinare%20ed%20integrare%20le%20disposizioni%20relative%20ai%20divieti%20di%20importazione%20e%20di%20esportazione%20di%20car_ac354a1268bc.md).
 
 ## Art. 3.
 

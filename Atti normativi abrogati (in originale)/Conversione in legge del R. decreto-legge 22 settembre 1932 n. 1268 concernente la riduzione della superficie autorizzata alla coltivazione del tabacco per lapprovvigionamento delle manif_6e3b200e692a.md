@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 settembre 1932, n. 1268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-22;1268), con il quale venne disposta la riduzione della superficie autorizzata alla coltivazione del tabacco per l'approvvigionamento delle manifatture dello Stato. 
+ E' convertito in legge il [R. decreto-legge 22 settembre 1932, n. 1268](Riduzione%20della%20superficie%20autorizzata%20alla%20coltivazione%20del%20tabacco%20per%20lapprovvigionamento%20delle%20manifatture%20dello%20Stato.%20032U1268.md), con il quale venne disposta la riduzione della superficie autorizzata alla coltivazione del tabacco per l'approvvigionamento delle manifatture dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

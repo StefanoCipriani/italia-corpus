@@ -119,7 +119,7 @@ Con le norme di cui agli articoli 9 e 15 del testo unico di leggi per la sistema
 
 ## Art. 17.
 
-Per i bacini di irrigazione da costruire in Sardegna, gli enti che, a norma dell'art. 47 del testo unico approvato con [R. decreto 10 novembre 1907, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-11-10;844), intendono chiederne la concessione, potranno optare per le disposizioni del presente decreto, applicandosi in tal caso le agevolazioni e prescrizioni da questo stabilite, e restando la relativa spesa a carico del bilancio dei lavori pubblici.
+Per i bacini di irrigazione da costruire in Sardegna, gli enti che, a norma dell'art. 47 del testo unico approvato con [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), intendono chiederne la concessione, potranno optare per le disposizioni del presente decreto, applicandosi in tal caso le agevolazioni e prescrizioni da questo stabilite, e restando la relativa spesa a carico del bilancio dei lavori pubblici.
 
 ## Art. 18.
 

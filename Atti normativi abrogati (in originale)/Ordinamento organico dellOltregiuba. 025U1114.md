@@ -70,7 +70,7 @@ Un ufficio di ragioneria esegue il riscontro delle spese civili e militari, seco
 
 Per ragioni gravi di ordine pubblico o di sicurezza l'Alto Commissario puo' proclamare lo stato di assedio in tutto il territorio di sua giurisdizione od in parte di esso. 
  
- Puo' inoltre istituire tribunali speciali, stabilire che alcuni reati che vengono commessi dagli abitanti siano giudicati secondo le forme ed applicando le pene fissate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare in tempo di guerra, e adottare quegli altri provvedimenti che reputi necessari a seconda delle circostanze. 
+ Puo' inoltre istituire tribunali speciali, stabilire che alcuni reati che vengono commessi dagli abitanti siano giudicati secondo le forme ed applicando le pene fissate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare in tempo di guerra, e adottare quegli altri provvedimenti che reputi necessari a seconda delle circostanze. 
  
  I provvedimenti suddetti saranno presi con decreto motivato, previa autorizzazione del Ministro per le colonie, e in caso di urgenza anche senza tale autorizzazione, salvo pero' la immediata loro comunicazione al Ministro. 
  
@@ -106,9 +106,9 @@ Il bilancio del Commissariato generale dell'Oltregiuba, corredato degli occorren
 
 Sono estese all'Oltregiuba le disposizioni dei Regi decreti 31 ottobre 1923, un. 2504 e 2505. Agli effetti di tali decreti l'Oltregiuba e' parificato- alla Somalia Italiana. 
  
- All'Alto Commissario spettano gli assegni fissi stabiliti pel grado 2° dal [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), ed indennita' eguali a quelle assegnate al Governatore della Somalia Italiana. 
+ All'Alto Commissario spettano gli assegni fissi stabiliti pel grado 2° dal [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), ed indennita' eguali a quelle assegnate al Governatore della Somalia Italiana. 
  
- Al Segretario capo compete un'indennita' di rappresentanza corrispondente nella misura alla meta' di quella analoga stabilita per il segretario generale della Somalia, a norma della nota b) alla tabella A annessa al [R. decreto 31 dicembre 1922, n. 1826](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-31;1826). 
+ Al Segretario capo compete un'indennita' di rappresentanza corrispondente nella misura alla meta' di quella analoga stabilita per il segretario generale della Somalia, a norma della nota b) alla tabella A annessa al [R. decreto 31 dicembre 1922, n. 1826](Concernente%20la%20costituzione%20di%20un%20ruolo%20unico%20tra%20gli%20impiegati%20del%20ruolo%20dellAmministrazione%20coloniale%20e%20quelli%20dei%20ruoli%20dellEritrea%20e%20della%20Somalia%20italiana.%20022U1826.md). 
  
  Gli ufficiali, i funzionari e impiegati di ruolo godranno di una speciale indennita' provvisoria mensile di prima occupazione fino a tutto il 30 giugno 1926. Tale indennita' sara' commisurata a meta' dello stipendio di ruolo e qualora prima di tale data fossero apportati miglioramenti al trattamento base ora stabilito per la Somalia Italiana detta indennita' sara' diminuita di una quota corrispondente alla somma rappresentata da codesti miglioramenti.
 
@@ -116,7 +116,7 @@ Sono estese all'Oltregiuba le disposizioni dei Regi decreti 31 ottobre 1923, un.
 
 Il personale del Regio esercito, della Regia marina, della Regia aeronautica e della Milizia volontaria, per la sicurezza nazionale, di rango inferiore ad ufficiale, godra' nell'Oltregiuba dei seguenti assegni: 
  
- Ai marescialli spetta, in relazione allo stipendio di ciascuno, un trattamento economico analogo a quello stabilito per gli ufficiali dai Regi decreti nn. 2504 e [2505 del 31 ottobre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2505). 
+ Ai marescialli spetta, in relazione allo stipendio di ciascuno, un trattamento economico analogo a quello stabilito per gli ufficiali dai Regi decreti nn. 2504 e [2505 del 31 ottobre 1923](Trattamento%20degli%20ufficiali%20del%20Regio%20esercito%20che%20prestano%20in%20colonia%20servizio%20di%20carattere%20militare.%20023U2505.md). 
  
  L'indennita' di equipaggiamento e' fissata in L. 800 ed e' corrisposta con le norme stesse stabilite per gli ufficiali. 
  

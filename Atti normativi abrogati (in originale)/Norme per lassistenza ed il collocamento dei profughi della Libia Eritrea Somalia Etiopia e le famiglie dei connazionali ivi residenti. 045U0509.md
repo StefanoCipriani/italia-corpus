@@ -179,7 +179,7 @@ Su proposta del Ministro per l'Africa Italiana, di concerto con il Ministro per 
 
 ## Art. 15.
 
-Con apposito provvedimento di bilancio da adottare ai sensi dell'[art. 21 del R. decreto-legge 1° maggio 1941, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-01;427#art_21), convertito nella [legge 8 dicembre 1941, n. 1439](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-08;1439), viene provveduto alla iscrizione nello stato di previsione del Ministero dell'Africa Italiana dei fondi necessari all'assistenza di cui al presente decreto ed al funzionamento del relativo servizio.
+Con apposito provvedimento di bilancio da adottare ai sensi dell'[art. 21 del R. decreto-legge 1° maggio 1941, n. 427](Finanziamento%20delle%20spese%20di%20guerra%20per%20lAfrica%20Italiana.%20041U0427.md), convertito nella [legge 8 dicembre 1941, n. 1439](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%201%20maggio%201941-XIX%20n.%20427%20relativo%20al%20finanziamento%20delle%20spese%20di%20guerra%20per%20lAfrica%20italiana.%20041U1439.md), viene provveduto alla iscrizione nello stato di previsione del Ministero dell'Africa Italiana dei fondi necessari all'assistenza di cui al presente decreto ed al funzionamento del relativo servizio.
 
 ## Art. 16.
 

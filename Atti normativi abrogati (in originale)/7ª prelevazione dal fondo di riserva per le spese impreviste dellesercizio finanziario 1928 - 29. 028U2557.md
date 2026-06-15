@@ -39,7 +39,7 @@ Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 218 dello
  studio degli emendamenti da apportarsi al [codice
  civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), ecc. . . . . . . . . . . . . . . . . . . . . » 50,000- Cap. n. 66 (aggiunto - in conto competenza) - Spese
  pei servizi delle Commissioni incaricate degli
- studi legislativi per la riforma del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398),
+ studi legislativi per la riforma del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md),
  ecc. . . . . . . . . . . . . . . . . . . . . . . . . » 80,000- Cap. n. 67 (aggiunto - in conto competenza) - Spese
  per le Commissioni esaminatrici per l'abilitazione
  alle professioni di avvocato, procuratore e notaio. . L. 20,000- 

@@ -18,19 +18,19 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972);
 
-Vista la [legge 31 maggio 1900, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-05-31;211);
+Vista la [legge 31 maggio 1900, n. 211](Circa%20la%20cura%20nellIstituto%20di%20S.%20Spirito%20degli%20ammalati%20poveri%20non%20appartenenti%20al%20Comune%20di%20Roma.%20000U0211.md);
 
-Vista la [legge 24 marzo 1907, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-03-24;110);
+Vista la [legge 24 marzo 1907, n. 110](Portante%20provvedimenti%20a%20favore%20dellistituto%20di%20S.%20Spirito%20e%20degli%20ospedali%20riuniti%20di%20Roma.%20007U0110.md);
 
 Visto il R. .[decreto-legge 18 aprile 1920, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1920-04-18;481);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841);
+Visto il [R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md);
 
-Visto il [R. decreto-legge 6 novembre 1924, n. 1961](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-06;1961);
+Visto il [R. decreto-legge 6 novembre 1924, n. 1961](Sistemazione%20finanziaria%20del%20Pio%20istituto%20di%20Santo%20Spirito%20in%20Sassia%20ed%20Ospedali%20riuniti%20di%20Roma.%20024U1961.md);
 
-Vista la [legge 17 giugno 1926, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-06-17;1187);
+Vista la [legge 17 giugno 1926, n. 1187](Riforma%20dei%20Regi%20decreti%2030%20dicembre%201923%20nn.%202841%20e%203048%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20026U1187.md);
 
-Visto il [R. decreto-legge 20 febbraio 1927, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-20;257);
+Visto il [R. decreto-legge 20 febbraio 1927, n. 257](Norme%20per%20lestensione%20alle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza%20delle%20disposizioni%20vigenti%20circa%20la%20revisione%20ed%20approvazione%20dei%20conti%20dei%20Comuni%20e%20delle%20Provincie%20e%20per%20la%20_1e3e0ddffc4f.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -42,7 +42,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 
 ## Art. 1.
 
-All'[art. 3 della legge 24 marzo 1907, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-03-24;110#art_3), recante provvedimenti a favore del Pio Istituto di Santo Spirito in Sassia ed Ospedali riuniti di Roma, modificato dall'[art. 4 del R. decreto-legge 18 aprile 1920, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-04-18;481#art_4), e' sostituito il seguente: 
+All'[art. 3 della legge 24 marzo 1907, n. 110](Portante%20provvedimenti%20a%20favore%20dellistituto%20di%20S.%20Spirito%20e%20degli%20ospedali%20riuniti%20di%20Roma.%20007U0110.md), recante provvedimenti a favore del Pio Istituto di Santo Spirito in Sassia ed Ospedali riuniti di Roma, modificato dall'[art. 4 del R. decreto-legge 18 aprile 1920, n. 481](Che%20autorizza%20un%20mutuo%20di%20lire%208.800.000%20a%20favore%20dellIstituto%20di%20Santo%20Spirito%20in%20Sassia%20ed%20ospedali%20riuniti%20di%20Roma.%20020U0481.md), e' sostituito il seguente: 
  
  «La diaria per la cura degli infermi poveri non romani, a decorrere dal 1° gennaio 1945, e' stabilita in lire duecentodieci. 
  
@@ -50,11 +50,11 @@ All'[art. 3 della legge 24 marzo 1907, n. 110](https://www.normattiva.it/uri-res
  
  La determinazione della diaria stessa, a cominciare da quella relativa al secondo semestre dell'esercizio in corso, e' soggetta all'approvazione della Commissione di tutela. 
  
- Il debito risultante a carico dei Comuni, giusta l'[art. 3 della legge 31 maggio 1900, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-05-31;211#art_3), e' riscosso in base ai ruoli vistati dal Ministero dell'interno in fine di ciascun esercizio finanziario».
+ Il debito risultante a carico dei Comuni, giusta l'[art. 3 della legge 31 maggio 1900, n. 211](Circa%20la%20cura%20nellIstituto%20di%20S.%20Spirito%20degli%20ammalati%20poveri%20non%20appartenenti%20al%20Comune%20di%20Roma.%20000U0211.md), e' riscosso in base ai ruoli vistati dal Ministero dell'interno in fine di ciascun esercizio finanziario».
 
 ## Art. 2.
 
-Il concorso a carico dello Stato, di cui al [secondo comma dell'art. 1 del R. decreto-legge 6 novembre 1924, n. 1961](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-06;1961#art_1-com2), e' stabilito in una somma pari all'ottanta per cento della diaria determinata a norma dell'articolo precedente.
+Il concorso a carico dello Stato, di cui al [secondo comma dell'art. 1 del R. decreto-legge 6 novembre 1924, n. 1961](Sistemazione%20finanziaria%20del%20Pio%20istituto%20di%20Santo%20Spirito%20in%20Sassia%20ed%20Ospedali%20riuniti%20di%20Roma.%20024U1961.md), e' stabilito in una somma pari all'ottanta per cento della diaria determinata a norma dell'articolo precedente.
 
 ## Art. 3.
 

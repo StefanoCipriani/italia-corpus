@@ -47,7 +47,7 @@ Gli articoli 246, 247, 248, 249 e 250 del Codice di commercio sono sostituiti da
  E' punito con l'ammenda da lire mille a diecimila chi, essendo obbligato per legge ad eseguire o a fare eseguire depositi di atti, pubblicazioni o comunicazioni presso qualsivoglia, ufficio, omette di eseguirli o di farli eseguire nei termini stabiliti, o li esegue in modo incompiuto. 
  I termini di cui agli articoli 90, 91, 92, 96 e 180 del Codice di commercio sono portati a trenta giorni. Il termine di cui all'articolo 139 del Codice di commercio e' portato a dieci giorni. 
  Il deposito di cui all'art. 177 del Codice di commercio deve essere eseguito ogni bimestre, nei quindici giorni successivi alla scadenza di ciascun bimestre. 
- Per le aziende che hanno dipendenze in piu' provincie del Regno o all'estero, il termine per il deposito e' di giorni trenta; e dentro lo stesso termine le aziende medesime debbono provvedere alla trasmissione prescritta dall'[art. 12 del R. decreto-legge 6 novembre 1926, n. 1830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-06;1830#art_12), convertito nella [legge 13 giugno 1927, n. 1108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-13;1108). 
+ Per le aziende che hanno dipendenze in piu' provincie del Regno o all'estero, il termine per il deposito e' di giorni trenta; e dentro lo stesso termine le aziende medesime debbono provvedere alla trasmissione prescritta dall'[art. 12 del R. decreto-legge 6 novembre 1926, n. 1830](Norme%20regolamentari%20per%20la%20tutela%20del%20risparmio.%20026U1830.md), convertito nella [legge 13 giugno 1927, n. 1108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-13;1108). 
  
  Art. 8. 
  

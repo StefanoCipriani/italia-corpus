@@ -29,7 +29,7 @@ E' istituita la «Medaglia Militare Aeronautica».
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 31 agosto 1928, n. 2098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-31;2098), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 31 agosto 1928, n. 2098](Istituzione%20della%20medaglia%20militare%20aeronautica%20di%20lunga%20navigazione%20aerea.%20028U2098.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ La Medaglia Militare Aeronautica che potra' essere di 1° grado (d'oro), di 2° 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 31 agosto 1928, n. 2098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-31;2098), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 31 agosto 1928, n. 2098](Istituzione%20della%20medaglia%20militare%20aeronautica%20di%20lunga%20navigazione%20aerea.%20028U2098.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
@@ -49,7 +49,7 @@ La Medaglia Militare Aeronautica sara' conferita ai militari di qualunque grado,
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 31 agosto 1928, n. 2098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-31;2098), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 31 agosto 1928, n. 2098](Istituzione%20della%20medaglia%20militare%20aeronautica%20di%20lunga%20navigazione%20aerea.%20028U2098.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 
@@ -64,7 +64,7 @@ Al fine del conferimento della Medaglia Militare Aeronautica, oltre il tempo tra
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 31 agosto 1928, n. 2098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-31;2098), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 31 agosto 1928, n. 2098](Istituzione%20della%20medaglia%20militare%20aeronautica%20di%20lunga%20navigazione%20aerea.%20028U2098.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 5.
 
@@ -75,7 +75,7 @@ I militari in congedo non potranno ottenere la Medaglia Militare Aeronautica ed 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 31 agosto 1928, n. 2098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-31;2098), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 31 agosto 1928, n. 2098](Istituzione%20della%20medaglia%20militare%20aeronautica%20di%20lunga%20navigazione%20aerea.%20028U2098.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 6.
 
@@ -98,4 +98,4 @@ Il Ministro per l'aeronautica stabilira', con apposito regolamento, le norme per
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 31 agosto 1928, n. 2098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-31;2098), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 31 agosto 1928, n. 2098](Istituzione%20della%20medaglia%20militare%20aeronautica%20di%20lunga%20navigazione%20aerea.%20028U2098.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

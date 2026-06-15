@@ -24,8 +24,8 @@ Per soddisfare le eccezionali esigenze relative all'entrata in vigore del nuovo 
 
 ## Art. 2.
 
-A modifica di quanto stabilito dall'[art. 3 della legge 11 dicembre 1971, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-11;1090#art_3), il limite di eta' per la cessazione dal servizio continuativo degli appuntati e dei militari di truppa dell'Arma dei carabinieri e del Corpo della guardia di finanza e' elevato ad anni cinquantasei.
- Il limite di eta' stabilito dal [primo comma dell'art. 31 della legge 18 ottobre 1961, n. 1168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-10-18;1168#art_31-com1) e dal [primo comma dell'art. 39 della legge 3 agosto 1961, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-08-03;833#art_39-com1), per il collocamento in congedo assoluto, rispettivamente dei militari di truppa dell'Arma dei carabinieri e del Corpo della guardia di finanza, e' elevato ad anni cinquantotto.
+A modifica di quanto stabilito dall'[art. 3 della legge 11 dicembre 1971, n. 1090](Modifiche%20alle%20norme%20sul%20trattamento%20economico%20e%20sullavanzamento%20dei%20militari%20di%20truppa%20dellArma%20dei%20carabinieri%20e%20dei%20Corpi%20della%20guardia%20di%20finanza%20delle%20guardie%20di%20pubblica%20sicurezza%20d_ad7a60ab4873.md), il limite di eta' per la cessazione dal servizio continuativo degli appuntati e dei militari di truppa dell'Arma dei carabinieri e del Corpo della guardia di finanza e' elevato ad anni cinquantasei.
+ Il limite di eta' stabilito dal [primo comma dell'art. 31 della legge 18 ottobre 1961, n. 1168](Norme%20sullo%20stato%20giuridico%20dei%20vice%20brigadieri%20e%20dei%20militari%20di%20truppa%20dellArma%20dei%20carabinieri.md) e dal [primo comma dell'art. 39 della legge 3 agosto 1961, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-08-03;833#art_39-com1), per il collocamento in congedo assoluto, rispettivamente dei militari di truppa dell'Arma dei carabinieri e del Corpo della guardia di finanza, e' elevato ad anni cinquantotto.
 
 ## Art. 3.
 

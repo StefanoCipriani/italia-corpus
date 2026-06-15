@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 febbraio 1927, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-10;207), che stabilisce nuove disposizioni regolanti i rapporti di credito fra il Consorzio obbligatorio per l'industria zolfifera siciliana, in Palermo, e gli enti creditori. 
+ E' convertito in legge il [R. decreto-legge 10 febbraio 1927, n. 207](Nuove%20disposizioni%20per%20regolare%20i%20rapporti%20di%20debito%20e%20di%20credito%20fra%20il%20Consorzio%20obbligatorio%20per%20lindustria%20zolfifera%20siciliana%20in%20Palermo%20e%20gli%20Enti%20creditori.%20027U0207.md), che stabilisce nuove disposizioni regolanti i rapporti di credito fra il Consorzio obbligatorio per l'industria zolfifera siciliana, in Palermo, e gli enti creditori. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

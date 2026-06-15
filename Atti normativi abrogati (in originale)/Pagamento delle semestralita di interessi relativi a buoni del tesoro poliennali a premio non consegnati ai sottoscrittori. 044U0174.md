@@ -20,7 +20,7 @@ Veduti i [regolamenti 14 aprile 1912, n. 444](https://www.normattiva.it/uri-res/
 
 Veduto il R. decreto-legge 26 maggio 1943, 398, col quale fu autorizzata la creazione e l'emissione di buoni del tesoro quinquennali, con scadenza al 15 giugno 1948, fruttanti interesse annuo di lire cinque per ogni cento lire di capitale nominale, pagabile in due rate semestrali posticipate, al 15 giugno e al 15 dicembre di ogni anno;
 
-Ritenuto che, a causa delle difficolta' determinate dalla guerra, non vennero consegnati integralmente i nuovi buoni del tesoro; ed e' pertanto necessario provvedere al pagamento degli interessi gia' scaduti, relativamente ai buoni non consegnati, seguendo le medesime norme gia' attuate con [R. decreto-legge 31 gennaio 1944, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-31;33), nei riguardi degli interessi maturati sui detti buoni al 15 dicembre 1943;
+Ritenuto che, a causa delle difficolta' determinate dalla guerra, non vennero consegnati integralmente i nuovi buoni del tesoro; ed e' pertanto necessario provvedere al pagamento degli interessi gia' scaduti, relativamente ai buoni non consegnati, seguendo le medesime norme gia' attuate con [R. decreto-legge 31 gennaio 1944, n. 33](Norme%20per%20il%20pagamento%20degli%20interessi%20scaduti%20sui%20buoni%20del%20tesoro%20quinquennali%205%20a%20premio%20creati%20col%20R.D.L.%2026%20maggio%201943%20n.%20398%20e%20non%20consegnati%20ai%20sottoscrittori.%20044U0033.md), nei riguardi degli interessi maturati sui detti buoni al 15 dicembre 1943;
 
 Veduta la deliberazione del Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per il tesoro; Abbiamo sanzionat
 
 ## Art. 1.
 
-Il pagamento della rata semestrale d'interessi, scaduti il 15 giugno 1944, o che scadranno successivamente, relativamente ai buoni del tesoro quinquennali cinque per cento, emessi con [R. decreto-legge 26 maggio 1943, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-26;398), che, a causa delle difficolta' determinate della, guerra, non siano stati consegnati ai sottoscrittori, potra' essere effettuato, sino a quando non avra' luogo la consegna dei nuovi titoli, dalla sezione di Regia tesoreria provinciale che rilascio' la corrispondente ricevuta, all'atto della sottoscrizione, in base alla presentazione di essa e di domanda, in carta libera, compilata dall'esibitore, in duplice esemplare.
+Il pagamento della rata semestrale d'interessi, scaduti il 15 giugno 1944, o che scadranno successivamente, relativamente ai buoni del tesoro quinquennali cinque per cento, emessi con [R. decreto-legge 26 maggio 1943, n. 398](Autorizzazione%20ad%20emettere%20Buoni%20quinquennali%20del%20Tesoro%205%20a%20premio.%20043U0398.md), che, a causa delle difficolta' determinate della, guerra, non siano stati consegnati ai sottoscrittori, potra' essere effettuato, sino a quando non avra' luogo la consegna dei nuovi titoli, dalla sezione di Regia tesoreria provinciale che rilascio' la corrispondente ricevuta, all'atto della sottoscrizione, in base alla presentazione di essa e di domanda, in carta libera, compilata dall'esibitore, in duplice esemplare.
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 agosto 1933, n. 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-08-11;1203), concernente l'anticipazione del contributo statale per la sistemazione degli Istituti universitari di Pisa. 
+ E' convertito in legge il [R. decreto-legge 11 agosto 1933, n. 1203](Anticipazione%20del%20contributo%20statale%20per%20la%20sistemazione%20degli%20istituti%20universitari%20di%20Pisa.%20033U1203.md), concernente l'anticipazione del contributo statale per la sistemazione degli Istituti universitari di Pisa. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

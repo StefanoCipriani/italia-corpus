@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico di leggi approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
 
-Vista la [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835);
+Vista la [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md);
 
 Su proposta del ministro segretario di Stato per i lavori pubblici, di concerto con quelli dell'interno, del tesoro e dell'industria, commercio e lavoro;
 
@@ -30,11 +30,11 @@ Udito il Consiglio dei ministri; Abbiamo decretato o decretiamo:
 
 ## Art. 1.
 
-Le disposizioni della [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835) relativa all'equo trattamento del personale addetto ai pubblici servizi di trasporto e quelle degli articoli 214 e 215 del testo unico approvato con Reale decreto 9 maggio 1912, n. 1447 sono modificate secondo gli articoli seguenti.
+Le disposizioni della [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md) relativa all'equo trattamento del personale addetto ai pubblici servizi di trasporto e quelle degli articoli 214 e 215 del testo unico approvato con Reale decreto 9 maggio 1912, n. 1447 sono modificate secondo gli articoli seguenti.
 
 ## Art. 2.
 
-La Commissione istituita con l'[articolo 2 della legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835#art_2) determina il trattamento del personale addetto ai pubblici servizi di trasporto. 
+La Commissione istituita con l'[articolo 2 della legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md) determina il trattamento del personale addetto ai pubblici servizi di trasporto. 
  
  Le deliberazioni della Commissione sono rese esecutive con decreto del ministro dei lavori pubblici; nei decreti, non conformi alle deliberazioni della Commissione, dovranno essere indicati i motivi del diverso provvedimento. 
  
@@ -74,7 +74,7 @@ La Commissione e' nominata per decreto Reale, su proposta del ministro dei lavor
 
 ## Art. 4.
 
-L'applicazione delle norme per il trattamento del personale, secondo la [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835), e del presente decreto e' estesa anche: 
+L'applicazione delle norme per il trattamento del personale, secondo la [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), e del presente decreto e' estesa anche: 
  
  a) alle tramvie urbane a trazione meccanica; 
  
@@ -82,7 +82,7 @@ L'applicazione delle norme per il trattamento del personale, secondo la [legge 1
 
 ## Art. 5.
 
-Per l'audizione delle rappresentanze degli esercenti e del personale, come all'[articolo 3 della legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835#art_3), la Commissione trasmette l'invito ad intervenire all'adunanza da essa fissata, indicando l'argomento della discussione. 
+Per l'audizione delle rappresentanze degli esercenti e del personale, come all'[articolo 3 della legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), la Commissione trasmette l'invito ad intervenire all'adunanza da essa fissata, indicando l'argomento della discussione. 
  
  Sulle questioni di indole generale, la Commissione, per l'adempimento di quanto e' stabilito dal citato articolo 3, puo' formulare schemi di norme e sentire su di essi per iscritto le rappresentanze degli esercenti e del personale.
 
@@ -102,9 +102,9 @@ Per le aziende le quali inscrivono il proprio personale alla Cassa nazionale di 
  
  1° in ragione del 4 0/0 delle paghe, stipendi ed indennita' al conto individuale aperto, a favore di ciascun inscritto. 
  
- Ferme rimanendo le disposizioni relative ai contributi precedentemente versati in applicazione della [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835), tali inscrizioni sono regolate dalla legge e dai regolamenti sulla Cassa nazionale di previdenza e dalle norme speciali relative alle assicurazioni popolari di rendita vitalizia per gli agenti che non possono essere inscritti nei ruoli operai, salvo il disposto dell'art. 10. 
+ Ferme rimanendo le disposizioni relative ai contributi precedentemente versati in applicazione della [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), tali inscrizioni sono regolate dalla legge e dai regolamenti sulla Cassa nazionale di previdenza e dalle norme speciali relative alle assicurazioni popolari di rendita vitalizia per gli agenti che non possono essere inscritti nei ruoli operai, salvo il disposto dell'art. 10. 
  
- Il contributo speciale stabilito dall'[art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835#art_8) ([secondo comma) della legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835#art_com2), per la parte che non sia stata ancora versata, sara' attribuita al conto individuale; 
+ Il contributo speciale stabilito dall'[art. 8](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md) ([secondo comma) della legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), per la parte che non sia stata ancora versata, sara' attribuita al conto individuale; 
  
  2° in ragione del 3 per cento ad un fondo per gli assegni vedovili comuni a tutte le aziende; 
  
@@ -130,12 +130,12 @@ La liquidazione dei conti degli agenti inscritti nei ruoli a contributo riservat
 
 ## Art. 10.
 
-Gli statuti delle Casse speciali approvati a norma dell'[art. 215 del testo unico 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1912-05-09;1447#art_215) e dell'[art. 6 della legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835#art_6), debbono essere modificati in relazione alla nuova misura di contributi stabilita con l'art 6, ed in modo che il trattamento fatto agli agenti ad esse inscritti sia conforme a quello fatto agli agenti inscritti alla Cassa nazionale di previdenza, secondo le disposizioni degli articoli 7 ed 8 del presente decreto.
+Gli statuti delle Casse speciali approvati a norma dell'[art. 215 del testo unico 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1912-05-09;1447#art_215) e dell'[art. 6 della legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), debbono essere modificati in relazione alla nuova misura di contributi stabilita con l'art 6, ed in modo che il trattamento fatto agli agenti ad esse inscritti sia conforme a quello fatto agli agenti inscritti alla Cassa nazionale di previdenza, secondo le disposizioni degli articoli 7 ed 8 del presente decreto.
 Potra' essere consentito alle Casse speciali di partecipare al fondo per gli assegni vedovili ed al fondo per l'integrazione degli assegni d'invalidita' e di vecchiaia gestiti dalla Cassa nazionale di previdenza, secondo le norme che saranno stabilite nel regolamento.
 
 ## Art. 11.
 
-Le modificazioni agli statuti delle Casse speciali saranno deliberate dagli organi a cio' autorizzati secondo gli statuti medesimi e saranno sottoposte all'approvazione governativa con le modalita' di cui nel capoverso dell'[art. 6 della legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835#art_6). Su proposta della Commissione dell'equo trattamento e del Consiglio della previdenza e delle assicurazioni sociali, potranno essere introdotte di ufficio modificazioni negli statuti delle Casse speciali.
+Le modificazioni agli statuti delle Casse speciali saranno deliberate dagli organi a cio' autorizzati secondo gli statuti medesimi e saranno sottoposte all'approvazione governativa con le modalita' di cui nel capoverso dell'[art. 6 della legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md). Su proposta della Commissione dell'equo trattamento e del Consiglio della previdenza e delle assicurazioni sociali, potranno essere introdotte di ufficio modificazioni negli statuti delle Casse speciali.
 
 ## Art. 12.
 
@@ -163,7 +163,7 @@ Per far fronte agli oneri derivanti dal trattamento deliberato si potra' concede
  
  I provvedimenti di cui ai numeri 1, 3 e 4 ed alla lettera a) del presente articolo quando si riferiscono a tramvie urbane sono emanati d'accordo col Ministero dell'interno e sentiti gli enti locali interessati. 
  
- La proroga della scadenza delle concessioni accordata agli esercenti i servizi di trasporto urbani, non modifica i termini per l'esercizio della facolta' di riscatto da parte dei Comuni di cui all'[articolo 25 della legge 29 marzo 1903, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-03-29;103#art_25).
+ La proroga della scadenza delle concessioni accordata agli esercenti i servizi di trasporto urbani, non modifica i termini per l'esercizio della facolta' di riscatto da parte dei Comuni di cui all'[articolo 25 della legge 29 marzo 1903, n. 103](Sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20003U0103.md).
 
 ## Art. 14.
 
@@ -171,7 +171,7 @@ Qualora tutti i provvedimenti di cui all'articolo precedente siano riconosciuti 
 
 ## Art. 15.
 
-Il termine stabilito negli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835#art_5) e [18 della legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835#art_18), e' ridotto a cinque anni.
+Il termine stabilito negli [articoli 5](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md) e [18 della legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), e' ridotto a cinque anni.
 
 ## Art. 16.
 
@@ -179,9 +179,9 @@ Nel caso di inadempienza da parte degli esercenti, l'esecuzione dei provvediment
 
 ## Art. 17.
 
-Le disposizioni dell'[art. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_83) ([1° comma) della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_com1), sono applicabili ai componenti la Commissione dell'equo trattamento ai quali sono domandate le stesse attribuzioni dei funzionari governativi di ispezione sull'esercizio delle ferrovie concesse all'industria privata, per quanto si riferisce all'equo trattamento del personale. 
+Le disposizioni dell'[art. 83](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md) ([1° comma) della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), sono applicabili ai componenti la Commissione dell'equo trattamento ai quali sono domandate le stesse attribuzioni dei funzionari governativi di ispezione sull'esercizio delle ferrovie concesse all'industria privata, per quanto si riferisce all'equo trattamento del personale. 
  
- Agli effetti dell'[art. 83 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_83), si intendono equiparati al personale governativo di ispezione delle ferrovie concesse all'industria privata, i funzionari del Ministero del tesoro (Direzione generale del Segretariato) in numero non maggiore di sei che sovraintendano e siano normalmente adibiti al disimpegno dei servizi attinenti ai rapporti finanziari con le ferrovie suddette, sia in ordine alle concessioni ed ai riscatti, sia in ordine all'accertamento dei prodotti lordi e netti, a cui lo Stato ha diritto di partecipare.
+ Agli effetti dell'[art. 83 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), si intendono equiparati al personale governativo di ispezione delle ferrovie concesse all'industria privata, i funzionari del Ministero del tesoro (Direzione generale del Segretariato) in numero non maggiore di sei che sovraintendano e siano normalmente adibiti al disimpegno dei servizi attinenti ai rapporti finanziari con le ferrovie suddette, sia in ordine alle concessioni ed ai riscatti, sia in ordine all'accertamento dei prodotti lordi e netti, a cui lo Stato ha diritto di partecipare.
 
 ## Art. 18.
 
@@ -191,7 +191,7 @@ Il fondo necessario per il funzionamento della Commissione per l'equo trattament
 
 ## Art. 19.
 
-Le disposizioni degli articoli 214 e 215 del testo unico di [leggi 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-05-09;1447), e quelle della [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835), contrarie al presente decreto, sono abrogate. Il Governo del Re e' autorizzato a riunire e coordinare in testo unico le altre disposizioni delle citate leggi e quelle del presente decreto; e' altresi' autorizzato ad apportare al regolamento approvato col [R. decreto 1 maggio 1913, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-05-01;578), le necessarie modificazioni: le norme riguardanti la previdenza potranno essere contenute in regolamento speciale da approvare con R. decreto promosso dal ministro dei lavori pubblici, d'accordo col ministro per l'industria, il commercio e il lavoro, sentiti la Commissione per l'equo trattamento ed il Consiglio della previdenza e delle assicurazioni sociali.
+Le disposizioni degli articoli 214 e 215 del testo unico di [leggi 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-05-09;1447), e quelle della [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), contrarie al presente decreto, sono abrogate. Il Governo del Re e' autorizzato a riunire e coordinare in testo unico le altre disposizioni delle citate leggi e quelle del presente decreto; e' altresi' autorizzato ad apportare al regolamento approvato col [R. decreto 1 maggio 1913, n. 578](Col%20quale%20vengono%20approvati%20gli%20annessi%20regolamenti%20concernenti%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20e%20la%20nomina%20delle%20rappresentanze%20del%20personale%20ste_03d2830a6038.md), le necessarie modificazioni: le norme riguardanti la previdenza potranno essere contenute in regolamento speciale da approvare con R. decreto promosso dal ministro dei lavori pubblici, d'accordo col ministro per l'industria, il commercio e il lavoro, sentiti la Commissione per l'equo trattamento ed il Consiglio della previdenza e delle assicurazioni sociali.
 
 ## Art. 20.
 

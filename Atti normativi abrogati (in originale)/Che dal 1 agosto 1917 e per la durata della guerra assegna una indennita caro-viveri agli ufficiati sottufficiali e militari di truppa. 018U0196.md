@@ -40,7 +40,7 @@ I soprassoldi di cui alla lettera b) del precedente articolo 1 sono dovuti solo 
  
  3° ai sottufficiali e militari di truppa dei Carabinieri in servizio nel territorio delle retrovie. 
  
- I suddetti soprassoldi sono cumulabili con le indennita' eventuali, con l'indennita' giornaliera di lire 2 stabilita dai [decreti Luogotenenziali 12 settembre 1915, n. 1393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-09-12;1393), e [10 agosto 1916, n. 1020](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-10;1020), coi premi di rafferma, con gli aumenti di assegno e coi soprassoldi stabiliti dagli articoli, 4, 5, 6 e 7 della [legge 6 luglio 1911, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;690).
+ I suddetti soprassoldi sono cumulabili con le indennita' eventuali, con l'indennita' giornaliera di lire 2 stabilita dai [decreti Luogotenenziali 12 settembre 1915, n. 1393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-09-12;1393), e [10 agosto 1916, n. 1020](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-10;1020), coi premi di rafferma, con gli aumenti di assegno e coi soprassoldi stabiliti dagli articoli, 4, 5, 6 e 7 della [legge 6 luglio 1911, n. 690](Che%20porta%20i%20provvedimenti%20per%20larma%20dei%20carabinieri%20reali.%20011U0690.md).
 
 ## Art. 4.
 

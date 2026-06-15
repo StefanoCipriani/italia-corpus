@@ -29,7 +29,7 @@ I comuni gia' impegnati nella costruzione di sistemi ferroviari passanti sono au
 2.
 
 Per l'attuazione unitaria e coordinata degli interventi previsti dal presente decreto, il Presidente del Consiglio dei Ministri o, per sua delega, il Ministro per i problemi delle aree urbane, di concerto con il Ministro dei trasporti, su richiesta dei comuni interessati, puo' promuovere la conclusione di appositi accordi di programma tra i comuni stessi, la regione, l'ente Ferrovie dello Stato e le altre amministrazioni interessate. A tali accordi si applicano le disposizioni contenute nell'[articolo 27 della legge 8 giugno 1990, n. 
-142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_27); per l'attuazione degli interventi previsti negli accordi stessi l'amministrazione procedente puo' indire una o piu' conferenze di servizi ai sensi della [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241).
+142](Ordinamento%20delle%20autonomie%20locali.md); per l'attuazione degli interventi previsti negli accordi stessi l'amministrazione procedente puo' indire una o piu' conferenze di servizi ai sensi della [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241).
 
 3.
 

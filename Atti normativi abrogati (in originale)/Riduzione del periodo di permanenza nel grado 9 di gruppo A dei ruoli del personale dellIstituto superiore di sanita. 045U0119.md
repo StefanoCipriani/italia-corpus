@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il [secondo comma dell'art. 6 del R. decreto 17 ottobre 1941, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1265#art_6-com2), concernente il riordinamento dei ruoli dell'Istituto superiore di sanita' e' sostituito dal seguente: 
+Il [secondo comma dell'art. 6 del R. decreto 17 ottobre 1941, n. 1265](Nuova%20denominazione%20dellIstituto%20di%20sanita%20pubblica%20e%20riordinamento%20dei%20ruoli%20del%20relativo%20personale.%20041U1265.md), concernente il riordinamento dei ruoli dell'Istituto superiore di sanita' e' sostituito dal seguente: 
  
  «Le promozioni al grado 8° dei ruoli di gruppo A di ciascun laboratorio o riparto saranno conferite mediante esami di concorso cui possono partecipare i funzionari del rispettivo ruolo che abbiano compiuto quattro anni di anzianita'». 
  

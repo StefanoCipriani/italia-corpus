@@ -26,7 +26,7 @@ Sulla proposta del presidente del Consiglio dei ministri, ministro dell'interno,
 
 ## Art. 1.
 
-Nella Venezia Tridentina l'entrata in vigore del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e delle altre leggi penali, ivi pubblicate col [Regio decreto 23 giugno 1921, n. 887](che%20estende%20nelle%20nuove%20Provincie%20annesse%20al%20Regno%20in%20virtu%20delle%20leggi%2026%20settembre%201920%20n.%201322%20e%2019%20dicembre%201920%20n.%201176%20il%20Codice%20penale%20quello%20di%20procedura%20penale%20ed%20altre%20determina_71ecfb76fe84.md), e' prorogata al 1° luglio 1922. 
+Nella Venezia Tridentina l'entrata in vigore del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e delle altre leggi penali, ivi pubblicate col [Regio decreto 23 giugno 1921, n. 887](che%20estende%20nelle%20nuove%20Provincie%20annesse%20al%20Regno%20in%20virtu%20delle%20leggi%2026%20settembre%201920%20n.%201322%20e%2019%20dicembre%201920%20n.%201176%20il%20Codice%20penale%20quello%20di%20procedura%20penale%20ed%20altre%20determina_71ecfb76fe84.md), e' prorogata al 1° luglio 1922. 
  
  A tale data e' altresi' prorogata in detta regione l'entrata in vigore delle leggi sulla stampa, ivi pubblicate col [Regio decreto 19 giugno 1921, n. 917](Concernente%20lunificazione%20legislativa%20nelle%20nuove%20Provincie%20in%20materia%20di%20stampa.%20021U0917.md).
 

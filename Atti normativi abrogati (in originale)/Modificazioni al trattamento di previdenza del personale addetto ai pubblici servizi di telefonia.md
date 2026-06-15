@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 24 luglio 1931, n. 1098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-24;1098), che approva il regolamento per la previdenza a favore del personale addetto ai pubblici servizi di telefonia;
+Visto il [R. decreto 24 luglio 1931, n. 1098](Approvazione%20del%20nuovo%20regolamento%20per%20la%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20telefonia.%20031U1098.md), che approva il regolamento per la previdenza a favore del personale addetto ai pubblici servizi di telefonia;
 
-Visto l'[art. 9 del R. decreto-legge 18 marzo 1943, numero 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-03-18;126#art_9), concernente l'aumento delle pensioni e dei contributi dell'assicurazione obbligatoria, invalidita' e vecchiaia;
+Visto l'[art. 9 del R. decreto-legge 18 marzo 1943, numero 126](Aumento%20delle%20pensioni%20e%20dei%20contributi%20dellassicurazione%20invalidita%20e%20vecchiaia%20043U0126.md), concernente l'aumento delle pensioni e dei contributi dell'assicurazione obbligatoria, invalidita' e vecchiaia;
 
 Visto il [decreto-legge Luogotenenziale 23 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-23;151);
 
@@ -30,41 +30,41 @@ Sulla proposta del Ministro Segretario di Stato per il lavoro e la previdenza so
 
 ## Art. 1.
 
-Il contributo dovuto a favore del Fondo per le pensioni al personale addetto ai pubblici servizi di telefonia, in base all'[art. 7 della legge 30 settembre 1920, n. 1405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-09-30;1405#art_7), a decorrere dal 1° gennaio 1945 e' aumentato al 13,20% delle paghe, stipendi, assegni e indennita'. 
+Il contributo dovuto a favore del Fondo per le pensioni al personale addetto ai pubblici servizi di telefonia, in base all'[art. 7 della legge 30 settembre 1920, n. 1405](Che%20istituisce%20una%20Commissione%20per%20la%20determinazione%20del%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20telefonia%20gestiti%20dallindustria%20privata.%20020U1405.md), a decorrere dal 1° gennaio 1945 e' aumentato al 13,20% delle paghe, stipendi, assegni e indennita'. 
  Quando la somma delle paghe, stipendi, assegni e indennita' supera le L. 24.000 annue, l'aumento predetto sara' corrisposto soltanto fino alla concorrenza di detto limite. 
  Il contributo e' per un terzo a carico dell'iscritto e per il rimanente a carico della azienda.
 
 ## Art. 2.
 
-Le pensioni dirette e di famiglia liquidate in base alle disposizioni del regolamento approvato con [R. decreto 24 luglio 1931, n. 1098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-24;1098), dal Fondo per le pensioni ai personale addetto ai pubblici servizi di telefonia, con decorrenza anteriore al 1° gennaio 1945, sono aumentate di un importo pari al 25% del loro ammontare. 
+Le pensioni dirette e di famiglia liquidate in base alle disposizioni del regolamento approvato con [R. decreto 24 luglio 1931, n. 1098](Approvazione%20del%20nuovo%20regolamento%20per%20la%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20telefonia.%20031U1098.md), dal Fondo per le pensioni ai personale addetto ai pubblici servizi di telefonia, con decorrenza anteriore al 1° gennaio 1945, sono aumentate di un importo pari al 25% del loro ammontare. 
  Tale aumento ha effetto dal 1° aprile 1943, o dalla data di decorrenza della pensione se questa e' posteriore. 
  L'aumento di cui al primo comma non si applica alla quota di concorso dello Stato.
 
 ## Art. 3.
 
-Con decorrenza dal 1ª gennaio 1945, il primo comma dell'art. 9 del regolamento approvato col [R. decreto 24 luglio 1931, n. 1098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-24;1098), e' cosi' modificato: 
+Con decorrenza dal 1ª gennaio 1945, il primo comma dell'art. 9 del regolamento approvato col [R. decreto 24 luglio 1931, n. 1098](Approvazione%20del%20nuovo%20regolamento%20per%20la%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20telefonia.%20031U1098.md), e' cosi' modificato: 
  "La misura della pensione e' uguale a tanti quarantesimi dello stipendio base indicato all'art. 8, non superiore alle L. 24.000, quanti sono gli anni di iscrizione al Fondo, effettivi o riscattati".
 
 ## Art. 4.
 
-All'art. 15 del regolamento approvato con [R. decreto 24 luglio 1931, n. 1098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-24;1098), le parole: "ed in ogni caso non inferiore alle lire 300", sono sostituite con le parole: 
+All'art. 15 del regolamento approvato con [R. decreto 24 luglio 1931, n. 1098](Approvazione%20del%20nuovo%20regolamento%20per%20la%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20telefonia.%20031U1098.md), le parole: "ed in ogni caso non inferiore alle lire 300", sono sostituite con le parole: 
  "e in ogni caso non inferiore alle lire 500".
 
 ## Art. 5.
 
-Nel primo comma dell'art. 17 del regolamento approvato con [R. decreto 24 luglio 1931, n. 1098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-24;1098), le parole: 
+Nel primo comma dell'art. 17 del regolamento approvato con [R. decreto 24 luglio 1931, n. 1098](Approvazione%20del%20nuovo%20regolamento%20per%20la%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20telefonia.%20031U1098.md), le parole: 
  "e versi un contributo annuo pari all'ammontare dei contributi versati a suo favore durante gli ultimi dodici mesi di servizio", sono sostituite con le parole: "e versi un contributo annuo pari al 13,20 delle paghe, stipendi, assegni e indennita' percepite negli ultimi 12 mesi di servizio".
 
 ## Art. 6.
 
 Il personale cessato dal servizio anteriormente all'entrata in vigore del presente decreto, che ha continuato l'iscrizione volontariamente a norma dell'art. 17 del regolamento approvato con [R. 
-decreto 24 luglio 1931, n. 1098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-24;1098), rimane iscritto in base alle norme di quel regolamento nel caso che non opti per l'applicazione nei suoi confronti delle disposizioni contenute nel presente decreto. 
+decreto 24 luglio 1931, n. 1098](Approvazione%20del%20nuovo%20regolamento%20per%20la%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20telefonia.%20031U1098.md), rimane iscritto in base alle norme di quel regolamento nel caso che non opti per l'applicazione nei suoi confronti delle disposizioni contenute nel presente decreto. 
  Il diritto di opzione deve essere esercitato entro sei mesi dall'entrata in vigore del presente decreto. 
  In caso di opzione l'obbligo del versamento del contributo nella misura stabilita dall'art. 1 del presente decreto decorre dal 1° gennaio 1945.
 
 ## Art. 7.
 
-Il primo comma dell'art. 20 del regolamento approvato con [R. decreto 24 luglio 1931, n. 1098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-24;1098), e' cosi' modificato: 
+Il primo comma dell'art. 20 del regolamento approvato con [R. decreto 24 luglio 1931, n. 1098](Approvazione%20del%20nuovo%20regolamento%20per%20la%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20telefonia.%20031U1098.md), e' cosi' modificato: 
  "Il Comitato amministratore del fondo e' costituito come segue: 
  a) dal presidente dell'istituto nazionale della previdenza sociale che lo presiede o in sua vece, dal vice presidente che lo sostituisce; 
  b) dal direttore generale della previdenza presso il Ministero del lavoro e della previdenza sociale; 

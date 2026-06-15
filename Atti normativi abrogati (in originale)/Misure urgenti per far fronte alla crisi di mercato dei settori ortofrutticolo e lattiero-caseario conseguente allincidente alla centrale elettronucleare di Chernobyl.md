@@ -48,7 +48,7 @@ Per i prodotti ritirati dall'AIMA in attuazione della seconda fase di intervento
 
 3.
 
-Ai soggetti di cui al comma 1 che hanno trasferito e ceduto il latte ad altre imprese di trasformazione sono rimborsate le spese sostenute per la raccolta, la prima lavorazione ed il trasporto, nella misura del 10% del prezzo di acquisto del latte dal produttore, quale risulta in base alla [legge 8 luglio 1975, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-08;306), o in base ai precedenti accordi ancora in vigore.
+Ai soggetti di cui al comma 1 che hanno trasferito e ceduto il latte ad altre imprese di trasformazione sono rimborsate le spese sostenute per la raccolta, la prima lavorazione ed il trasporto, nella misura del 10% del prezzo di acquisto del latte dal produttore, quale risulta in base alla [legge 8 luglio 1975, n. 306](Incentivazione%20dellassociazionismo%20dei%20produttori%20agricoli%20nel%20settore%20zootecnico%20e%20norme%20per%20la%20determinazione%20del%20prezzo%20di%20vendita%20del%20latte%20alla%20produzione.md), o in base ai precedenti accordi ancora in vigore.
 
 4.
 
@@ -58,7 +58,7 @@ Le disposizioni di cui al comma 1 si applicano anche ai soggetti ivi indicati ch
 
 1.
 
-Ai produttori zootecnici che, a decorrere dal 2 maggio 1986 ed entro il giorno 16 dello stesso mese, hanno eliminato il latte fresco non ritirato dalle imprese trasformatrici, viene rimborsato il prezzo del latte stabilito in sede regionale in base alla [legge 8 luglio 1975, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-08;306), o in base ai precedenti accordi ancora in vigore.
+Ai produttori zootecnici che, a decorrere dal 2 maggio 1986 ed entro il giorno 16 dello stesso mese, hanno eliminato il latte fresco non ritirato dalle imprese trasformatrici, viene rimborsato il prezzo del latte stabilito in sede regionale in base alla [legge 8 luglio 1975, n. 306](Incentivazione%20dellassociazionismo%20dei%20produttori%20agricoli%20nel%20settore%20zootecnico%20e%20norme%20per%20la%20determinazione%20del%20prezzo%20di%20vendita%20del%20latte%20alla%20produzione.md), o in base ai precedenti accordi ancora in vigore.
 
 2.
 

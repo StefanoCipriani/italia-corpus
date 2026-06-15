@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [R. decreto-legge 29 marzo 1934, n. 735](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-29;735), che approva e rende esecutorio l'atto aggiuntivo 9 febbraio 1934 alla convenzione 23 novembre 1928 per la concessione della costruzione e dell'esercizio della ferrovia Rimini San Marino. 
+ E convertito in legge il [R. decreto-legge 29 marzo 1934, n. 735](Approvazione%20dellatto%20aggiuntivo%209%20febbraio%201934%20concernente%20la%20concessione%20della%20ferrovia%20Rimini-San%20Marino.md), che approva e rende esecutorio l'atto aggiuntivo 9 febbraio 1934 alla convenzione 23 novembre 1928 per la concessione della costruzione e dell'esercizio della ferrovia Rimini San Marino. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

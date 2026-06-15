@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-Durante la guerra e fino a sei mesi dopo la stipulazione della pace, gli aggiunti di 2ª classe delle cancellerie e segreterie giudiziarie che abbiano compiuto quattro anni dalla nomina ad alunno e prestato tre anni di servizio effettivo, saranno promossi alla 1ª classe con dispensa dall'esame pratico di cui all'[art. 2 della legge 13 luglio 1911, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;720#art_2). 
+Durante la guerra e fino a sei mesi dopo la stipulazione della pace, gli aggiunti di 2ª classe delle cancellerie e segreterie giudiziarie che abbiano compiuto quattro anni dalla nomina ad alunno e prestato tre anni di servizio effettivo, saranno promossi alla 1ª classe con dispensa dall'esame pratico di cui all'[art. 2 della legge 13 luglio 1911, n. 720](Per%20il%20riordinamento%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20011U0720.md). 
  
  Agli effetti delle suddette promozioni sara' computato come servizio effettivo anche quello militare prestato e che si dovra' prestare dagli aggiunti di 2ª classe durante il suindicato periodo, a cominciare dal 24 maggio 1915.
 
 ## Art. 2.
 
-Saranno esclusi dalle promozioni indicate nell' articolo precedente quegli aggiunti di 2ª classe che avranno ottenuto dai rispettivi capi delle Corti un numero di voti minore di sei sulla capacita', operosita' e condotta, giusta le prescrizioni dell'[art. 11 lettera B del R. decreto 8 dicembre 1907, n. 776](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-12-08;776#art_11-letb).
+Saranno esclusi dalle promozioni indicate nell' articolo precedente quegli aggiunti di 2ª classe che avranno ottenuto dai rispettivi capi delle Corti un numero di voti minore di sei sulla capacita', operosita' e condotta, giusta le prescrizioni dell'[art. 11 lettera B del R. decreto 8 dicembre 1907, n. 776](Che%20approva%20le%20annesse%20disposizioni%20riguardanti%20lesame%20di%20concorso%20ad%20alunno%20e%20di%20abilitazione%20agli%20uffici%20di%20cancelleria%20e%20segreteria%20giudiziarie.%20007U0776.md).
 
 ## Art. 3.
 

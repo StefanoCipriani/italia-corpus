@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 101, comma quarto, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_101-com4), che domanda ad apposito regolamento la indicazione delle sedi all'estero presso le quali possono essere destinati, per esigenze di servizio, funzionari diplomatici con funzioni del grado immediatamente superiore a quello da essi posseduto;
+Visto l'[art. 101, comma quarto, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), che domanda ad apposito regolamento la indicazione delle sedi all'estero presso le quali possono essere destinati, per esigenze di servizio, funzionari diplomatici con funzioni del grado immediatamente superiore a quello da essi posseduto;
 
-Considerato che sinora, per la individuazione delle predette sedi, sono state applicate le norme transitorie di cui all'[art. 277 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_277), in conformita' al disposto dell'art. 270 dello stesso decreto del Presidente della Repubblica;
+Considerato che sinora, per la individuazione delle predette sedi, sono state applicate le norme transitorie di cui all'[art. 277 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), in conformita' al disposto dell'art. 270 dello stesso decreto del Presidente della Repubblica;
 
 Ritenuto necessario emanare al riguardo apposita norma regolamentare;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per gli affari esteri; Decreta:
 
 ## Articolo unico
 
-Le funzioni del grado superiore di cui al [quarto comma dell'art. 101 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_101-com4), non possono essere conferite in uffici che abbiano sede nei seguenti Paesi: 
+Le funzioni del grado superiore di cui al [quarto comma dell'art. 101 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), non possono essere conferite in uffici che abbiano sede nei seguenti Paesi: 
  Austria, Belgio, Cipro, Danimarca, Finlandia, Francia, Repubblica federale tedesca, Gran Bretagna, Grecia, Irlanda, Italia, Lussemburgo, Malta, Monaco, Norvegia, Paesi Bassi, Portogallo, Spagna, Stati Uniti d'America, Svezia, Svizzera. 
  Le funzioni stesse non possono essere conferite presso l'ambasciata presso la Santa Sede.
 

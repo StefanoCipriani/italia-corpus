@@ -14,7 +14,7 @@ VITTORIO EMANUELE III
  PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
  RE D'ITALIA 
  
- Veduto il [R. decreto-legge 24 gennaio 1929, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-24;106), convertito nella [legge 24 giugno 1929, n. 1270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-24;1270); 
+ Veduto il [R. decreto-legge 24 gennaio 1929, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-24;106), convertito nella [legge 24 giugno 1929, n. 1270](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20gennaio%201929%20n.%20106%20recante%20modifica%20alla%20circoscrizione%20di%20alcune%20Provincie.%20029U1270.md); 
  Vedute le deliberazioni 14 luglio 1930 e 13 marzo 1931 del Rettorato provinciale di Bologna, nonche' 18 luglio 1930 e 20 ottobre 1930 del Rettorato provinciale di Ferrara, concernenti accordi per la sistemazione dei rapporti patrimoniali e finanziari in dipendenza del distacco dalla provincia di Ferrara e dell'aggregazione a quella di Bologna del comune di Pieve di Cento; 
  Veduti i pareri favorevoli espressi su detti accordi dalla Giunta provinciale amministrativa di Bologna nelle adunanze 30 luglio 1930 e 1 aprile 1931, e dalla Giunta provinciale amministrativa di Ferrara nelle adunanze 5 agosto e 5 novembre 1930; 
  Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno; 

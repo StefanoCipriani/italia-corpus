@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 gennaio 1932, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-01-02;1), che ha dato esecuzione all'Accordo tra l'Italia e l'Austria stipulato a Vienna, sotto forma di scambio di note, il 30 dicembre 1931, per regolare i pagamenti relativi agli scambi commerciali fra i due Paesi. 
+ E' convertito in legge il [R. decreto-legge 2 gennaio 1932, n. 1](Esecuzione%20dellAccordo%20fra%20lItalia%20e%20lAustria%20stipulato%20a%20Vienna%20il%2030%20dicembre%201931%20per%20regolare%20i%20pagamenti%20relativi%20agli%20scambi%20commerciali%20fra%20i%20due%20Paesi.%20032U0001.md), che ha dato esecuzione all'Accordo tra l'Italia e l'Austria stipulato a Vienna, sotto forma di scambio di note, il 30 dicembre 1931, per regolare i pagamenti relativi agli scambi commerciali fra i due Paesi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 15 della legge 27 febbraio 1921, n. 145](Contenente%20disposizioni%20per%20la%20sistemazione%20della%20gestione%20statale%20dei%20cereali.%20021U0145.md);
 
-Ritenuta la necessita' di modificare la graduazione della tariffa contenuta nell'[art. 2 del R. decreto 21 agosto 1921, n. 1260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-08-21;1260#art_2);
+Ritenuta la necessita' di modificare la graduazione della tariffa contenuta nell'[art. 2 del R. decreto 21 agosto 1921, n. 1260](Che%20eleva%20la%20misura%20di%20talune%20imposte%20e%20della%20tassa%20di%20bollo%20sulle%20profumerie%20vini%20liquori%20ed%20acque%20minerali%20in%20bottiglie.%20021U1260.md);
 
 Riconosciuta pure la necessita' di dare carattere continuativo alle disposizioni degli articoli 2 e 3 dell'anzidetto Nostro decreto;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-All'[articolo 2 del R. decreto 21 agosto 1921, n. 1260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-08-21;1260#art_2), e' sostituito ad ogni effetto il testo che segue: 
+All'[articolo 2 del R. decreto 21 agosto 1921, n. 1260](Che%20eleva%20la%20misura%20di%20talune%20imposte%20e%20della%20tassa%20di%20bollo%20sulle%20profumerie%20vini%20liquori%20ed%20acque%20minerali%20in%20bottiglie.%20021U1260.md), e' sostituito ad ogni effetto il testo che segue: 
  
  «Art. 2. - La tassa di bollo sulle profumerie di cui all'art. 5, lett. a), della tariffa speciale, allegato B al testo unico della legge sulle tasse di bollo 6 gennaio, 1918, n. 135, e' stabilita in base alla seguente tariffa: 
  
@@ -45,7 +45,7 @@ All'[articolo 2 del R. decreto 21 agosto 1921, n. 1260](https://www.normattiva.i
 
 ## Art. 2.
 
-Gli aumenti di tassa stabiliti con l'articolo precedente per le profumerie e con l'[art. 3 del R. decreto 21 agosto 1921, n. 1260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-08-21;1260#art_3), per i vini, liquori ed acque minerali continueranno ad applicarsi anche dopo il 31 dicembre 1921. 
+Gli aumenti di tassa stabiliti con l'articolo precedente per le profumerie e con l'[art. 3 del R. decreto 21 agosto 1921, n. 1260](Che%20eleva%20la%20misura%20di%20talune%20imposte%20e%20della%20tassa%20di%20bollo%20sulle%20profumerie%20vini%20liquori%20ed%20acque%20minerali%20in%20bottiglie.%20021U1260.md), per i vini, liquori ed acque minerali continueranno ad applicarsi anche dopo il 31 dicembre 1921. 
  
  Per i prodotti gia' muniti di fascette o di bollini di abbonamento al 31 ottobre 1921, l'addizionale a favore dei mutilati, combattenti e vedove di guerra deve essere computata tenendo separata la tassa gia' pagata da quella complementare.
 

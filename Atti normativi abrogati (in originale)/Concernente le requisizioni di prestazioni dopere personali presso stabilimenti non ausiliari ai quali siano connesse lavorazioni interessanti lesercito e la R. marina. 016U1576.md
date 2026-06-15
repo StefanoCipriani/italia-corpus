@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le requisizioni di cui all'[art. 1 del R. decreto-legge n. 506, 22 aprile 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1915-04-22;506#art_1), possono avere per oggetto anche le prestazioni d'opere personali presso le officine che non possano essere dichiarate stabilimenti ausiliari, ma a cui siano commesse lavorazioni che interessino l'esercito o la marina.
+Le requisizioni di cui all'[art. 1 del R. decreto-legge n. 506, 22 aprile 1915](Relativo%20alle%20requisizioni%20militari%20015U0506.md), possono avere per oggetto anche le prestazioni d'opere personali presso le officine che non possano essere dichiarate stabilimenti ausiliari, ma a cui siano commesse lavorazioni che interessino l'esercito o la marina.
 
 ## Art. 2.
 
@@ -18,7 +18,7 @@ L'ordine di requisizione, oltre le indicazioni di cui all'art. 4 del R. decreto 
 
 ## Art. 3.
 
-Le persone che saranno assoggettate all'ordine di requisizione, di cui ai precedenti articoli, saranno soggette alla giurisdizione militare a termini dell'[art. 8 del R. decreto n. 993 del 26 giugno 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-06-26;993#art_8).
+Le persone che saranno assoggettate all'ordine di requisizione, di cui ai precedenti articoli, saranno soggette alla giurisdizione militare a termini dell'[art. 8 del R. decreto n. 993 del 26 giugno 1915](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md).
 
 ## Art. 4.
 

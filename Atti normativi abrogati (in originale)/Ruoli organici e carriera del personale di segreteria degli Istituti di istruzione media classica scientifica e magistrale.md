@@ -22,7 +22,7 @@ Ad ogni istituto d'istruzione media, classica, scientifica, e magistrale, il cui
 
 ## Art. 2.
 
-Le carriere di concetto ed esecutive del personale di segreteria degli Istituti d'istruzione media, classica, scientifica e magistrale a carico dello Stato, sono stabilite rispettivamente dalle tabelle A, B, C, annesse alla presente legge, che sostituiscono i quadri 32 e 53-a, allegati al testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvate con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), per la parte riguardante il personale anzidetto.
+Le carriere di concetto ed esecutive del personale di segreteria degli Istituti d'istruzione media, classica, scientifica e magistrale a carico dello Stato, sono stabilite rispettivamente dalle tabelle A, B, C, annesse alla presente legge, che sostituiscono i quadri 32 e 53-a, allegati al testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvate con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), per la parte riguardante il personale anzidetto.
 
 ## Art. 3.
 

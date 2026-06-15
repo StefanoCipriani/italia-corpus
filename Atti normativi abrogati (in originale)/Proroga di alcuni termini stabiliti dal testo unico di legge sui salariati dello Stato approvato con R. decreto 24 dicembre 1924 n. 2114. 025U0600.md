@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico di legge sul trattamento economico e sullo stato giuridico dei salariati dello Stato, approvato con [R. decreto 24 dicembre 1924, n. 2114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-24;2114);
+Veduto il testo unico di legge sul trattamento economico e sullo stato giuridico dei salariati dello Stato, approvato con [R. decreto 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Segretario di Stato pe
 
 ## Art. 1.
 
-Il termine stabilito dall'art. 58 del testo unico approvato col [R. decreto 24 dicembre 1924, n. 2114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-24;2114), e' prorogato al 31 dicembre
+Il termine stabilito dall'art. 58 del testo unico approvato col [R. decreto 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md), e' prorogato al 31 dicembre
 
 1925.
 
@@ -30,7 +30,7 @@ Alle date del 1° marzo e del 1° febbraio 1925, indicate negli articoli 88 e 90
 
 ## Art. 2.
 
-Con Regio decreto, da emanarsi su proposta del Ministro per le finanze, sara' provveduto a modificare il regolamento per l'applicazione delle disposizioni sullo stato giuridico e sul trattamento economico dei salariati statali, approvato con [R. decreto 31 dicembre 1924, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-31;2262), in quanto risulti necessario, anche ai fini di coordinarne le disposizioni alle varianti di cui al precedente art. 1.
+Con Regio decreto, da emanarsi su proposta del Ministro per le finanze, sara' provveduto a modificare il regolamento per l'applicazione delle disposizioni sullo stato giuridico e sul trattamento economico dei salariati statali, approvato con [R. decreto 31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), in quanto risulti necessario, anche ai fini di coordinarne le disposizioni alle varianti di cui al precedente art. 1.
 
 ## Art. 3.
 
@@ -44,13 +44,13 @@ La [legge 9 marzo 1871, n. 102](Concernente%20la%20prescrizione%20degli%20stipen
 
 ## Art. 5.
 
-Il disposto della [lettera c) del primo comma dell'art. 7 del R. decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844#art_7-com1-letc), e' rettificato come segue: 
+Il disposto della [lettera c) del primo comma dell'art. 7 del R. decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' rettificato come segue: 
  
- «c) alle indennita' d'infortunio loro eventualmente dovute a norma dell'[art. 87 del R. decreto 30 dicembre 1923, n. 2994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2994#art_87)».
+ «c) alle indennita' d'infortunio loro eventualmente dovute a norma dell'[art. 87 del R. decreto 30 dicembre 1923, n. 2994](Disposizioni%20relative%20allo%20stato%20giuridico%20ed%20al%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.%20023U2994.md)».
 
 ## Art. 6.
 
-Entro il 31 dicembre 1925, sara' provveduto a coordinare in testo unico le disposizioni del [R. decreto 19 aprile 1923, n. 945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;945), con tutte le successive varianti ed aggiunte apportate al decreto medesimo. 
+Entro il 31 dicembre 1925, sara' provveduto a coordinare in testo unico le disposizioni del [R. decreto 19 aprile 1923, n. 945](Concernente%20la%20nuova%20organizzazione%20della%20mano%20dopera%20dipendente%20dalle%20Amministrazioni%20militari.%20023U0945.md), con tutte le successive varianti ed aggiunte apportate al decreto medesimo. 
  
  Il presente decreto andra' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. 
  

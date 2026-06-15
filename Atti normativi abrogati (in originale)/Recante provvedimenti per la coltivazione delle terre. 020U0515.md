@@ -48,7 +48,7 @@ Contro i decreti dei prefetti, anche per quanto si riferisce alla determinazione
 
 ## Art. 9.
 
-Chiunque, anche senza violenza e senza rimuovere od alterare i termini e per trarne profitto sia pure temporaneo, s'immette arbitrariamente nel possesso di terreni o di fabbricati rustici di altrui proprieta', pubblica o privata, ovvero essendone in tal modo entrato in possesso, rifiuta di abbandonare gli immobili stessi, e' punito con la pena stabilita nella prima parte dell'[art. 422 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_422). 
+Chiunque, anche senza violenza e senza rimuovere od alterare i termini e per trarne profitto sia pure temporaneo, s'immette arbitrariamente nel possesso di terreni o di fabbricati rustici di altrui proprieta', pubblica o privata, ovvero essendone in tal modo entrato in possesso, rifiuta di abbandonare gli immobili stessi, e' punito con la pena stabilita nella prima parte dell'[art. 422 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Se concorre la violenza, od alcuna delle altre circostanze prevedute nel secondo capoverso dell'articolo stesso, si applica la maggiore pena ivi stabilita.
 

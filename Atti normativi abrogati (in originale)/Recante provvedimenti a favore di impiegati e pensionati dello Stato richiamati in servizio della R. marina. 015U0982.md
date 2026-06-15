@@ -18,9 +18,9 @@ Gli ufficiali della riserva navale e di complemento richiamati temporaneamente i
  
  Non e' ammesso il cumulo per gli ufficiali richiamati dal congedo provvisorio tra gli assegni inerenti alla posizione di congedo provvisorio e quelli loro spettanti ai sensi del comma 1 del presente articolo, come ufficiali richiamati in servizio. 
  
- Per gli ufficiali nelle condizioni contemplate d al secondo comma del presente articolo e' sospeso il diritto al soprassoldo previsto dal [R. decreto 26 novembre 1914, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-26;1311). 
+ Per gli ufficiali nelle condizioni contemplate d al secondo comma del presente articolo e' sospeso il diritto al soprassoldo previsto dal [R. decreto 26 novembre 1914, n. 1311](Da%20convertirsi%20in%20legge%20col%20quale%20e%20concessa%20una%20indennita%20giornaliera%20agli%20Ufficiali%20della%20riserva%20navale%20e%20di%20complemento%20richiamati%20alle%20armi%20dautorita%20014U1311.md). 
  
- Pero' qualora la pensione o lo stipendio d'impiegato civile di cui fosse provvisto un ufficiale, risultasse inferiore al soprassoldo cui gli altri ufficiali richiamati dello stesso grado hanno diritto in base al [R. decreto 26 novembre 1914, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-26;1311), succitato, sara' corrisposta all'ufficiale medesimo una indennita' supplementare pari alla differenza fra la pensione o lo stipendio di impiegato civile e l'accennato soprassoldo.
+ Pero' qualora la pensione o lo stipendio d'impiegato civile di cui fosse provvisto un ufficiale, risultasse inferiore al soprassoldo cui gli altri ufficiali richiamati dello stesso grado hanno diritto in base al [R. decreto 26 novembre 1914, n. 1311](Da%20convertirsi%20in%20legge%20col%20quale%20e%20concessa%20una%20indennita%20giornaliera%20agli%20Ufficiali%20della%20riserva%20navale%20e%20di%20complemento%20richiamati%20alle%20armi%20dautorita%20014U1311.md), succitato, sara' corrisposta all'ufficiale medesimo una indennita' supplementare pari alla differenza fra la pensione o lo stipendio di impiegato civile e l'accennato soprassoldo.
 
 ## Art. 2.
 
@@ -30,7 +30,7 @@ I militari del corpo R. equipaggi richiamati se pensionati civili o militari del
 
 ## Art. 3.
 
-Le precedenti disposizioni intorno ai cumuli di stipendi, pensioni, assegni e indennita' hanno effetto dal giorno della mobilitazione, e cioe' dal 23 maggio 1915 e per tutto il periodo in cui l'armata restera' mobilitata, rimanendo sospesa qualsiasi limitazione o riduzione stabilita dalla [legge 19 luglio 1862, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-07-19;722), e ogni altra disposizione in quanto sia difforme da quelle contenute nel presente decreto. 
+Le precedenti disposizioni intorno ai cumuli di stipendi, pensioni, assegni e indennita' hanno effetto dal giorno della mobilitazione, e cioe' dal 23 maggio 1915 e per tutto il periodo in cui l'armata restera' mobilitata, rimanendo sospesa qualsiasi limitazione o riduzione stabilita dalla [legge 19 luglio 1862, n. 722](Che%20vieta%20il%20cumulo%20degli%20impieghi%20retribuiti%20delle%20pensioni%20ed%20altri%20assegnamenti%20a%20carico%20dello%20Stato%20o%20di%20pubbliche%20Amministrazioni.%20062U0722.md), e ogni altra disposizione in quanto sia difforme da quelle contenute nel presente decreto. 
  
  Le disposizioni stesse non sono applicabili nei casi di arruolamento volontario, rimanendo, pero', fermo quanto e' disposto con [R. decreto 9 maggio 1915, numero 658](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-09;658) circa l'arruolamento dei sottufficiali a riposo del corpo R. equipaggi.
 

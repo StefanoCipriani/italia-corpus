@@ -16,7 +16,7 @@ Visto il decreto 30 dicembre 1923, n. 2960 sullo stato giuridico degli impiegati
 
 Visto il [decreto-legge 9 luglio 1925, n. 1206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-07-09;1206), che sostituisce, fra l'altro, il ruolo transitorio dei massaggiatori civili negli ospedali militari di cui al decreto 11 novembre 1923, n. 2395, col ruolo transitorio dei "massaggiatori civili negli ospedali militari e telefonisti civili presso le Amministrazioni militari";
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 

@@ -24,7 +24,7 @@ Ritenuto che per la manutenzione ed il miglioramento dei fabbricati delle capita
 
 Considerato che alla detta maggiore spesa si rende possibile far fronte mediante corrispondente diminuzione della dotazione di altro capitolo dello stato di previsione medesimo;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Udito il Consiglio dei ministri;
 

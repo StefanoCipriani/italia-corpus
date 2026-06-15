@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visti gli stati di previsione della spesa per il Ministero della marina per l'esercizio finanziario 1906-907 e successivi; 
  
- Viste le [leggi 14 giugno 1916, n. 738, e 9 luglio 1916 n. 814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-07-09;814), che consentono l'esercizio provvisorio dello stato di previsione della spesa per la marina per l'esercizio finanziario 1916-917; 
+ Viste le [leggi 14 giugno 1916, n. 738, e 9 luglio 1916 n. 814](Che%20proroga%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lanno%20finanziario%201916-917%20fino%20quando%20non%20siano%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%20_cbe86bff6c88.md), che consentono l'esercizio provvisorio dello stato di previsione della spesa per la marina per l'esercizio finanziario 1916-917; 
  
  Sulla proposta del ministro della marina; 
  

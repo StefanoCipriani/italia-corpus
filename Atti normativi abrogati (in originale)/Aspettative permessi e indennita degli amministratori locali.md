@@ -164,12 +164,12 @@ Note all'art. 18:
 
 ## Art. 19. — Disposizioni fiscali
 
-Le indennita' di carica e di presenza sono assoggettate al trattamento fiscale previsto per i redditi di cui alla [lettera d) dell'articolo 47 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_47-letd), e successive modificazioni ed integrazioni.
+Le indennita' di carica e di presenza sono assoggettate al trattamento fiscale previsto per i redditi di cui alla [lettera d) dell'articolo 47 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), e successive modificazioni ed integrazioni.
  Le indennita' di missione sono assoggettate allo stesso trattamento fiscale previsto per le medesime indennita' di cui alla [legge 18 dicembre 1973, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;836), e successive modificazioni ed integrazioni.
 
 Nota all'art. 19, primo comma:
 
- I redditi previsti dall'[art. 47, lettera d), del D.P.R. 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_47-letd) (Istituzioni e disciplina dell'imposta sul reddito delle persone fisiche), sono i seguenti:
+ I redditi previsti dall'[art. 47, lettera d), del D.P.R. 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md) (Istituzioni e disciplina dell'imposta sul reddito delle persone fisiche), sono i seguenti:
  "d) le indennita' di cui all'[art. 1 della legge 31 ottobre 1965, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-10-31;1261#art_1), percepite dai membri del Parlamento e le indennita', comunque denominate, percepite per le cariche elettive e per le funzioni di cui agli [articoli 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_114) e [135 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_135)".
 
  Nota all'[art. 19, secondo comma:

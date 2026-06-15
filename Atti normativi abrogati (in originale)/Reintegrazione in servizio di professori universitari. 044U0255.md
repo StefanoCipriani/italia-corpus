@@ -20,7 +20,7 @@ UMBERTO DI SAVOIA
  
  Veduto il testo unico delle leggi sull'istruzione superione approvato col [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
  
- Veduto il [R. decreto-legge 6 gennaio 1944, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-06;9); 
+ Veduto il [R. decreto-legge 6 gennaio 1944, n. 9](Riammissione%20in%20servizio%20degli%20appartenenti%20alle%20amministrazioni%20dello%20Stato%20degli%20enti%20locali%20e%20parastatali%20e%20controllati%20dallo%20Stato%20aziende%20che%20gestiscono%20servizi%20pubblici%20o%20dinteresse_e18d0424ecb3.md); 
  
  Veduto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151); 
  
@@ -32,7 +32,7 @@ UMBERTO DI SAVOIA
  
  I professori universitari di ruolo che cessarono comunque dal servizio per non aver voluto prestare il giuramento di fedelta' al regime fascista, saranno senz'altro reintegrati nella cattedra che occupavano al momento della cessazione dal servizio, con decreto del Ministro per la pubblica istruzione. 
  
- Valgono, in quanto applicabili, le norme di cui agli [articoli1 e seguenti del R. decreto-legge 6 gennaio 1944, num. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-06;9#art_1). 
+ Valgono, in quanto applicabili, le norme di cui agli [articoli1 e seguenti del R. decreto-legge 6 gennaio 1944, num. 9](Riammissione%20in%20servizio%20degli%20appartenenti%20alle%20amministrazioni%20dello%20Stato%20degli%20enti%20locali%20e%20parastatali%20e%20controllati%20dallo%20Stato%20aziende%20che%20gestiscono%20servizi%20pubblici%20o%20dinteresse_e18d0424ecb3.md). 
  
  Ordiniamo, a chiunque spetti, di osservare il presente decreto e di farlo osservare come legge dello Stato. 
  

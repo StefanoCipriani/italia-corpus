@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 agosto 1933, n. 1100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-08-13;1100), concernente la costituzione presso il Ministero delle corporazioni di un «Comitato dell'azoto». 
+ E' convertito in legge il [R. decreto-legge 13 agosto 1933, n. 1100](Costituzione%20presso%20il%20Ministero%20delle%20corporazioni%20di%20un%20Comitato%20dellazoto.%20033U1100.md), concernente la costituzione presso il Ministero delle corporazioni di un «Comitato dell'azoto». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

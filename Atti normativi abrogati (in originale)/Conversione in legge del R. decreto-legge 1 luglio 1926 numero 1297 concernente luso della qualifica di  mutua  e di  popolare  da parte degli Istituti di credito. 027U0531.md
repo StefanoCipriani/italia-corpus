@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° luglio 1926, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-01;1297), concernente l'uso della qualifica di « mutua » e di « popolare » da parte degli Istituti di credito. 
+ E' convertito in legge il [R. decreto-legge 1° luglio 1926, n. 1297](Uso%20della%20qualifica%20di%20mutua%20e%20di%20popolare%20da%20parte%20degli%20istituti%20di%20credito.%20026U1297.md), concernente l'uso della qualifica di « mutua » e di « popolare » da parte degli Istituti di credito. 
  
  Ordiniamo che presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

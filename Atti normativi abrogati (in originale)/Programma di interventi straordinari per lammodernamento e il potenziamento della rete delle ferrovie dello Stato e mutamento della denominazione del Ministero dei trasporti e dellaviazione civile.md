@@ -106,7 +106,7 @@ riservare una quota delle forniture e delle lavorazioni occorrenti per le costru
 ## Art. 7.
 
 L'Azienda autonoma delle ferrovie dello Stato e' autorizzata ad
-avvalersi delle facolta' previste dal [decreto-legge 2 agosto 1929, n. 2150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1929-08-02;2150), convertito nella [legge 22 dicembre 1930, n. 1752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-12-22;1752), e successive modificazioni, ferme restando le facolta' stabilite dalle leggi, per l'Azienda stessa, in materia di progettazione ed esecuzione delle opere.
+avvalersi delle facolta' previste dal [decreto-legge 2 agosto 1929, n. 2150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1929-08-02;2150), convertito nella [legge 22 dicembre 1930, n. 1752](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%202%20agosto%201929%20n.%202150%20contenente%20modifiche%20alla%20vigente%20legislazione%20in%20materia%20di%20concessioni%20di%20ferrovie%20e%20di%20altri%20mezzi%20di%20trasporto.%20030U1752.md), e successive modificazioni, ferme restando le facolta' stabilite dalle leggi, per l'Azienda stessa, in materia di progettazione ed esecuzione delle opere.
 
 Per la costruzione delle opere programmate l'Azienda autonoma delle
 ferrovie dello Stato ha facolta' di affidare a terzi, in base alle norme della contabilita' di Stato, particolari studi e progettazioni che richiedano speciali competenze tecniche e scientifiche, ponendo i relativi oneri a carico degli stanziamenti autorizzati dalla presente legge.

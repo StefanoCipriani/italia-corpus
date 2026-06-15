@@ -52,13 +52,13 @@ Gli aventi causa a titolo oneroso degli assegnatari dichiarati decaduti a sensi 
 
 L'[art. 106 del testo unico 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1938-04-28;1165#art_106), e' abrogato. 
  
- Il socio di cooperativa edilizia a contributo statale, dichiarato decaduto dalla prenotazione o dall'assegnazione dell'alloggio in applicazione dell'[art. 2 del R. decreto-legge 29 luglio 1927, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1765#art_2), convertito nella [legge 17 agosto 1928, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-08-17;2102), e che non si sia reso indegno per la sua posteriore condotta politica, puo' chiedere, entro sei mesi dalla entrata in vigore del presente decreto, di essere reintegrato nell'appartamento di cui era prenotatario o assegnatario, nonostante che questo abbia formato oggetto di successiva assegnazione a favore di altro socio, ed anche se costui abbia stipulato ed eventualmente riscattato il mutuo edilizio individuale. 
+ Il socio di cooperativa edilizia a contributo statale, dichiarato decaduto dalla prenotazione o dall'assegnazione dell'alloggio in applicazione dell'[art. 2 del R. decreto-legge 29 luglio 1927, n. 1765](Provvedimenti%20vari%20in%20materia%20di%20edilizia%20popolare%20ed%20economica.%20027U1765.md), convertito nella [legge 17 agosto 1928, n. 2102](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201765%20che%20reca%20provvedimenti%20vari%20in%20materia%20di%20edilizia%20popolare%20ed%20economica.%20028U2102.md), e che non si sia reso indegno per la sua posteriore condotta politica, puo' chiedere, entro sei mesi dalla entrata in vigore del presente decreto, di essere reintegrato nell'appartamento di cui era prenotatario o assegnatario, nonostante che questo abbia formato oggetto di successiva assegnazione a favore di altro socio, ed anche se costui abbia stipulato ed eventualmente riscattato il mutuo edilizio individuale. 
  
  Quando la reintegrazione non sia richiesta, al socio gia' privato di alloggio per avversione al fascismo verra' assegnato un altro alloggio disponibile nella stessa o in altra cooperativa a contributo statale.
 
 ## Art. 5.
 
-Il [R. decreto-legge 26 aprile 1928, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-04-26;855), e' abrogato. 
+Il [R. decreto-legge 26 aprile 1928, n. 855](Disposizioni%20per%20la%20cooperativa%20edilizia%20Il%20Villaggio%20dei%20Giornalisti%20in%20Roma.%20028U0855.md), e' abrogato. 
  
  Il socio radiato dalla cooperativa in applicazione di tale Regio decreto-legge e' reintegrato in tutti i suoi diritti. 
  

@@ -116,7 +116,7 @@ Viene per conseguenza data facolta' al Governo di stanziare sul bilancio passivo
 
 AGGIORNAMENTO (1)
 
-L'Errata-Corrige in G.U. 31/07/1868, n. 207 ha disposto che "Nella pubblicazione della [legge 7 luglio 1868, n° 4478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1868-07-07;4478), fatta il 24 corrente occorse un errore. - Nell'art. 2° della Convenzione per la cessione delle Valli di Comacchio, primo capoverso, la' ove dice: pel secondo semestre del corrente anno 1867, leggasi invece: pel secondo semestre del corrente anno 1868". 
+L'Errata-Corrige in G.U. 31/07/1868, n. 207 ha disposto che "Nella pubblicazione della [legge 7 luglio 1868, n° 4478](E%20approvata%20la%20Convenzione%20intesa%20fra%20le%20Finanze%20dello%20Stato%20ed%20il%20Municipio%20di%20Comacchio%20per%20la%20cessione%20a%20quel%20Comune%20del%20possesso%20e%20dellamministrazione%20delle%20Valli%20di%20Comacchio.%20068U4478.md), fatta il 24 corrente occorse un errore. - Nell'art. 2° della Convenzione per la cessione delle Valli di Comacchio, primo capoverso, la' ove dice: pel secondo semestre del corrente anno 1867, leggasi invece: pel secondo semestre del corrente anno 1868". 
  
 -------------- 
 Nota redazionale 

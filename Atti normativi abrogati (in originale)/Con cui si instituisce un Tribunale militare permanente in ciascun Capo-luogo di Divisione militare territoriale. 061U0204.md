@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[articolo 275 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_275) militare in data 1° ottobre 1859;
+Visto l'[articolo 275 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare in data 1° ottobre 1859;
 
 Visto il Reale Decreto in data 9 giugno ultimo scorso, portante una nuova circoscrizione militare territoriale del Regno;
 
@@ -24,7 +24,7 @@ Sulla proposizione del Presidente del Consiglio dei Ministri, incaricato del Por
 
 ## Art. 1.
 
-E' istituito in ciascun Capo-luogo delle Divisioni militari territoriali di Cremona, Piacenza, Modena, Forli', Livorno, Chieti, Bari, Salerno, Catanzaro, e nel Capoluogo della Sotto-Divisione militare di Messina, un Tribunale militare permanente composto in conformita' delle prescrizioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare. 
+E' istituito in ciascun Capo-luogo delle Divisioni militari territoriali di Cremona, Piacenza, Modena, Forli', Livorno, Chieti, Bari, Salerno, Catanzaro, e nel Capoluogo della Sotto-Divisione militare di Messina, un Tribunale militare permanente composto in conformita' delle prescrizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
  
  La giurisdizione de Tribunali militari gia' esistenti, e di quelli instituiti col presente Decreto, si estendera' al territorio della Divisione o Sotto-Divisione militare in cui si trovano, ed inoltre la giurisdizione del Tribunale militare di Messina si estendera' alla Sotto-Divisione di Siracusa. 
  

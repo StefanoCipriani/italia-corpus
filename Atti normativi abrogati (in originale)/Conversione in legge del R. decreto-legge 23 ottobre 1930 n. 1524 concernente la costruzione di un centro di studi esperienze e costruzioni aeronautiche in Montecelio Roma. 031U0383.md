@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-23;1524), concernente la costituzione di un centro di studi, esperienze e costruzioni aeronautiche in Montecelio (Roma). 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1524](Costituzione%20di%20un%20centro%20di%20studi%20esperienze%20e%20costruzioni%20aeronautiche%20in%20Montecelio%20Roma.%20030U1524.md), concernente la costituzione di un centro di studi, esperienze e costruzioni aeronautiche in Montecelio (Roma). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

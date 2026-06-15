@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il [R. decreto 6 gennaio 1927, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-06;57), e' abrogato. 
+Il [R. decreto 6 gennaio 1927, n. 57](Modificazioni%20agli%20articoli%2051%20e%2052%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202960%20sullo%20stato%20giuridico%20degli%20impiegati%20dellAmministrazione%20dello%20Stato.%20027U0057.md), e' abrogato. 
  
  Per la dispensa dal servizio degli impiegati civili dello Stato si applicano gli [articoli 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_51) e [52 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_52), nei casi ivi contemplati. 
  

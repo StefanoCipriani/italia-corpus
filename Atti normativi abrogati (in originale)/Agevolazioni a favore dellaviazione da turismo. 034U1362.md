@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 gennaio 1925, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-11;356), che approva il regolamento per la navigazione aerea, e successive modificazioni;
+Visto il [R. decreto 11 gennaio 1925, n. 356](Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md), che approva il regolamento per la navigazione aerea, e successive modificazioni;
 
 Vista la [legge 22 gennaio 1934, n. 284](Agevolazioni%20per%20laviazione%20da%20turismo.%20034U0284.md), che prevede alcune agevolazioni in favore dell'aviazione da turismo;
 
@@ -35,7 +35,7 @@ Sono esenti dalle tasse di approdo, di partenza e di ricovero gli aeromobili da 
  Il Ministero dell'aeronautica puo' inoltre, in occasione di crociere aeree di particolare importanza, esonerare gli aeromobili da turismo dal pagamento delle tasse di approdo, partenza e ricovero.
 Tale esenzione puo' applicarsi sia agli aeromobili italiani che a quelli stranieri sempre quando pero' gli Aero Club nazionali ne abbiano fatta istanza e che il Ministero dell'aeronautica ne riconosca meritevole l'accoglimento. 
  
- L'esenzione dalle tasse, prevista dal presente articolo, non esclude le prestazioni di personale previste dagli articoli 25, comma 1° e 2°, e 29, comma 1°, del regolamento per la navigazione aerea approvato col [Regio decreto 11 gennaio 1925, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-11;356), compatibilmente con le esigenze di servizio di ciascun aeroporto.
+ L'esenzione dalle tasse, prevista dal presente articolo, non esclude le prestazioni di personale previste dagli articoli 25, comma 1° e 2°, e 29, comma 1°, del regolamento per la navigazione aerea approvato col [Regio decreto 11 gennaio 1925, n. 356](Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md), compatibilmente con le esigenze di servizio di ciascun aeroporto.
 
 ## Art. 2.
 

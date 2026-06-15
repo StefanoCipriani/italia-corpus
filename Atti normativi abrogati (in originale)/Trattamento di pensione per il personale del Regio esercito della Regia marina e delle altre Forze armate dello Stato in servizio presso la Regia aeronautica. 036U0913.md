@@ -20,7 +20,7 @@ Visto l'[art. 22 del decreto Luogotenenziale 12 novembre 1916, n. 1598](https://
 
 Visto il [decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876), che approva il regolamento per l'esecuzione dell'art. 22 del predetto decreto Luogotenenziale, e successive modificazioni;
 
-Visto il [R. decreto 18 novembre 1920, n. 1626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-18;1626), che estende il nuovo regime delle pensioni ai militari del Regio esercito e della Regia marina;
+Visto il [R. decreto 18 novembre 1920, n. 1626](Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md), che estende il nuovo regime delle pensioni ai militari del Regio esercito e della Regia marina;
 
 Visto il R. decreto 21 novembre 1923-II, n. 2480, recante nuove disposizioni sulle pensioni normali del personale dell'Amministrazione dello Stato, e successive modificazioni;
 

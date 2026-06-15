@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741), convertito nella [legge 8 febbraio 1934, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-08;367), che disciplina l'importazione, la lavorazione, il deposito e la distribuzione degli oli minerali e dei carburanti;
+Visto il [R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741), convertito nella [legge 8 febbraio 1934, n. 367](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%202%20novembre%201933%20n.%201741%20concernente%20la%20disciplina%20dellimportazione%20lavorazione%20deposito%20e%20distribuzione%20degli%20olii%20minerali%20e%20dei%20carburanti.%20034U0367.md), che disciplina l'importazione, la lavorazione, il deposito e la distribuzione degli oli minerali e dei carburanti;
 
 Visto il [R. decreto-legge 2 dicembre 1934, n. 1961](Modificazione%20degli%20articoli%201%20e%202%20del%20R.%20decreto-legge%202%20novembre%201933%20n.%201741%20convertito%20nella%20legge%208%20febbraio%201934%20n.%20367%20che%20disciplina%20limportazione%20la%20lavorazione%20il%20deposito%20e%20la%20_43ae5981a28a.md), che modifica gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_1) e [2 del R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_2);
 

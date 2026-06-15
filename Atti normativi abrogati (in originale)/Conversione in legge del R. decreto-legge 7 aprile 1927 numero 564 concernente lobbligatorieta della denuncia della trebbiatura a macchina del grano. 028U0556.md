@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 aprile 1927, n. 564](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-07;564), concernente l'obbligatorieta' della denuncia della trebbiatura a macchina del grano. 
+ E' convertito in legge il [R. decreto-legge 7 aprile 1927, n. 564](Obbligatorieta%20della%20denuncia%20della%20trebbiatura%20a%20macchina%20del%20grano.%20027U0564.md), concernente l'obbligatorieta' della denuncia della trebbiatura a macchina del grano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

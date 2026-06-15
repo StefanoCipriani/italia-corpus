@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma 5, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 1 della legge 30 dicembre 1988, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-30;561#art_1), con il quale e' stato istituito il Consiglio della magistratura militare;
+Visto l'[art. 1 della legge 30 dicembre 1988, n. 561](Istituzione%20del%20Consiglio%20della%20magistratura%20militare.md), con il quale e' stato istituito il Consiglio della magistratura militare;
 
 Udito il parere del Consiglio di Stato;
 
@@ -56,7 +56,7 @@ Il Consiglio della magistratura militare delibera:
                             a)
                                 sulle assunzioni della magistratura militare, sull'assegnazione di sedi e di funzioni, sui trasferimenti, sulle promozioni e su ogni altro provvedimento di stato riguardante i magistrati militari;
                             b)
-                                sulle sanzioni disciplinari a carico dei magistrati militari, in esito a provvedimenti promossi ai sensi dell'[art. 1, comma 3, della legge 30 dicembre 1988, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-30;561#art_1-com3);
+                                sulle sanzioni disciplinari a carico dei magistrati militari, in esito a provvedimenti promossi ai sensi dell'[art. 1, comma 3, della legge 30 dicembre 1988, n. 561](Istituzione%20del%20Consiglio%20della%20magistratura%20militare.md);
                             c)
                                 sul conferimento ai magistrati militari di incarichi extragiudiziali;
                             d)

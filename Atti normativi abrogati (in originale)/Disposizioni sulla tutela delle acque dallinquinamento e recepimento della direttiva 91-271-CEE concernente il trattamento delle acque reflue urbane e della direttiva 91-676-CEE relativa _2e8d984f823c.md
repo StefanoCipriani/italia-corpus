@@ -114,15 +114,15 @@ Ai fini del presente decreto si intende per:
 
 1.
 
-Le competenze nelle materie disciplinate dal presente decreto sono stabilite dal [decreto legislativo 31 marzo 1998, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112), e dagli altri provvedimenti statali e regionali adottati ai sensi della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59).
+Le competenze nelle materie disciplinate dal presente decreto sono stabilite dal [decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), e dagli altri provvedimenti statali e regionali adottati ai sensi della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 2.
 
-Lo Stato, le regioni, le province, i comuni, le autorita' di bacino, l'Agenzia nazionale e le Agenzie regionali per la protezione dell'ambiente assicurano l'esercizio delle competenze gia' spettanti alla data di entrata in vigore della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), fino all'attuazione delle disposizioni di cui al comma 1.
+Lo Stato, le regioni, le province, i comuni, le autorita' di bacino, l'Agenzia nazionale e le Agenzie regionali per la protezione dell'ambiente assicurano l'esercizio delle competenze gia' spettanti alla data di entrata in vigore della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), fino all'attuazione delle disposizioni di cui al comma 1.
 
 3.
 
-In relazione alle funzioni e ai compiti spettanti alle regioni e agli enti locali, in caso di accertata inattivita'' che comporti inadempimento agli obblighi derivanti dall'appartenenza all'Unione europea o pericolo di grave pregiudizio alla salute e all'ambiente o inottemperanza agli obblighi di informazione, il Presidente del consiglio dei Ministri, su proposta dei Ministri competenti, esercita i poteri sostitutivi in conformita' all'[articolo 5 del decreto legislativo del 31 marzo 1998, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112#art_5), fermi restando i poteri di ordinanza previsti dall'ordinamento in caso di urgente necessita', nonche' quanto disposto dall'articolo 53.
+In relazione alle funzioni e ai compiti spettanti alle regioni e agli enti locali, in caso di accertata inattivita'' che comporti inadempimento agli obblighi derivanti dall'appartenenza all'Unione europea o pericolo di grave pregiudizio alla salute e all'ambiente o inottemperanza agli obblighi di informazione, il Presidente del consiglio dei Ministri, su proposta dei Ministri competenti, esercita i poteri sostitutivi in conformita' all'[articolo 5 del decreto legislativo del 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), fermi restando i poteri di ordinanza previsti dall'ordinamento in caso di urgente necessita', nonche' quanto disposto dall'articolo 53.
 
 4.
 
@@ -307,7 +307,7 @@ Per le acque che risultano ancora non idonee alla balneazione ai sensi del citat
 
  b) i laghi naturali ed artificiali, gli stagni ed altri corpi idrici, situati nei predetti ambiti territoriali;
 
- c) le acque dolci superficiali comprese nelle zone umide dichiarate "di importanza internazionale" ai sensi della convenzione di Ramsar del 2 febbraio 1971, resa esecutiva con il [decreto del Presidente della Repubblica del 13 marzo 1976, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-03-13;448), sulla protezione delle zone umide, nonche' quelle comprese nelle "oasi di protezione della fauna", istituite dalle regioni e province autonome ai sensi della [legge 11 febbraio 1992, n.157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-11;157);
+ c) le acque dolci superficiali comprese nelle zone umide dichiarate "di importanza internazionale" ai sensi della convenzione di Ramsar del 2 febbraio 1971, resa esecutiva con il [decreto del Presidente della Repubblica del 13 marzo 1976, n. 448](../DPR/Esecuzione%20della%20convenzione%20relativa%20alle%20zone%20umide%20dimportanza%20internazionale%20sopratutto%20come%20habitat%20degli%20uccelli%20acquatici%20firmata%20a%20Ramsar%20il%202%20febbraio%201971.md), sulla protezione delle zone umide, nonche' quelle comprese nelle "oasi di protezione della fauna", istituite dalle regioni e province autonome ai sensi della [legge 11 febbraio 1992, n.157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-11;157);
 
  d) le acque dolci superficiali che, ancorche' non comprese nelle precedenti categorie, presentino un rilevante interesse scientifico, naturalistico, ambientale e produttivo in quanto costituenti habitat di specie animali o vegetali rare o in via di estinzione, ovvero in quanto sede di complessi ecosistemi acquatici meritevoli di conservazione o, altresi', sede di antiche e tradizionali forme di produzione ittica, che presentano un elevato grado di sostenibilita' ecologica ed economica.
 
@@ -403,7 +403,7 @@ Ai fini della prima individuazione sono designate aree sensibili:
                             b)
                                 le aree lagunari di Orbetello, Ravenna e Piallassa-Baiona, le Valli di Comacchio, i laghi salmastri e il delta del Po;
                             c)
-                                le zone umide individuate ai sensi della convenzione di Ramsar del 2 febbraio 1971, resa esecutiva con [decreto del Presidente della Repubblica 13 marzo 1976, n.448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-03-13;448);
+                                le zone umide individuate ai sensi della convenzione di Ramsar del 2 febbraio 1971, resa esecutiva con [decreto del Presidente della Repubblica 13 marzo 1976, n.448](../DPR/Esecuzione%20della%20convenzione%20relativa%20alle%20zone%20umide%20dimportanza%20internazionale%20sopratutto%20come%20habitat%20degli%20uccelli%20acquatici%20firmata%20a%20Ramsar%20il%202%20febbraio%201971.md);
                             d)
                                 le aree costiere dell'Adriatico-Nord Occidentale dalla foce dell'Adige a Pesaro e i Corsi d'acqua ad essi afferenti per un tratto di 10 chilometri dalla linea di costa;
                             e)
@@ -592,7 +592,7 @@ Il Ministro dei lavori pubblici provvede entro sei mesi dalla data di entrata in
 
 5.
 
-Tutte le derivazioni di acqua comunque in atto alla data di entrata in vigore del presente decreto sono regolate dall'autorita' concedente mediante la previsione di rilasci volti a garantire il minimo deflusso vitale nei corpi idrici come previsto dall'[articolo 3, comma 1, lettera i), della legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183#art_3-com1-leti), e dall'[articolo 3, comma 3, della legge 5 gennaio 1994, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-05;36#art_3-com3), senza che cio' possa dar luogo alla corresponsione di' indennizzi da parte della pubblica amministrazione, fatta salva la relativa riduzione del canone demaniale di concessione.
+Tutte le derivazioni di acqua comunque in atto alla data di entrata in vigore del presente decreto sono regolate dall'autorita' concedente mediante la previsione di rilasci volti a garantire il minimo deflusso vitale nei corpi idrici come previsto dall'[articolo 3, comma 1, lettera i), della legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md), e dall'[articolo 3, comma 3, della legge 5 gennaio 1994, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-05;36#art_3-com3), senza che cio' possa dar luogo alla corresponsione di' indennizzi da parte della pubblica amministrazione, fatta salva la relativa riduzione del canone demaniale di concessione.
 
 6.
 
@@ -602,13 +602,13 @@ Per le finalita' di cui ai commi 1 e 2 le autorita' concedenti, a seguito del ce
 
 1.
 
-Il secondo comma dell'articolo 7 del testo unico delle disposizioni di legge sulle acque e impianti elettrici approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), introdotto dall'[articolo 3 del decreto legislativo 12 luglio 1993, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-07-12;275#art_3), e' sostituito dal seguente:
+Il secondo comma dell'articolo 7 del testo unico delle disposizioni di legge sulle acque e impianti elettrici approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), introdotto dall'[articolo 3 del decreto legislativo 12 luglio 1993, n. 275](../Decreti%20Legislativi/Riordino%20in%20materia%20di%20concessione%20di%20acque%20pubbliche.md), e' sostituito dal seguente:
 
  "Le domande di cui al primo comma relative sia alle grandi sia alle piccole derivazioni sono altresi' trasmesse alle Autorita' di bacino territorialmente interessate che, nel termine massimo di quaranta giorni dalla ricezione, comunicano il proprio parere all'ufficio istruttore in ordine alla compatibilita' della utilizzazione con le previsioni del piano di tutela e, anche in attesa di approvazione dello stesso, ai fini del controllo sull'equilibrio del bilancio idrico o idrologico. Decorso il predetto termine senza che sia intervenuta alcuna pronuncia, il parere si intende espresso in senso favorevole.".
 
 2.
 
-Il [comma 1 dell'articolo 9 del regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_9-com1), cosi' come sostituito dall'[articolo 4 del decreto legislativo 12 luglio 1993, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-07-12;275#art_4), e' sostituito dal seguente:
+Il [comma 1 dell'articolo 9 del regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_9-com1), cosi' come sostituito dall'[articolo 4 del decreto legislativo 12 luglio 1993, n. 275](../Decreti%20Legislativi/Riordino%20in%20materia%20di%20concessione%20di%20acque%20pubbliche.md), e' sostituito dal seguente:
 
  "1. Tra piu' domande concorrenti, completata l'istruttoria di cui agli articoli 7 e 8, e' preferita quella che da sola o in connessione con altre utenze concesse o richieste presenti la piu' razionale utilizzazione delle risorse idriche in relazione ai seguenti criteri:
 
@@ -624,7 +624,7 @@ Il [comma 1 dell'articolo 9 del regio decreto 11 dicembre 1933, n. 1775](https:/
 
 3.
 
-L'[articolo 12-bis del regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_12bis), introdotto dall'[articolo 5 del decreto legislativo 12 luglio 1993, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-07-12;275#art_5), e' sostituito dal seguente:
+L'[articolo 12-bis del regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_12bis), introdotto dall'[articolo 5 del decreto legislativo 12 luglio 1993, n. 275](../Decreti%20Legislativi/Riordino%20in%20materia%20di%20concessione%20di%20acque%20pubbliche.md), e' sostituito dal seguente:
 
  "Articolo 12-bis
 
@@ -1017,7 +1017,7 @@ Al fine di assicurare il mantenimento della capacita' di invaso e la salvaguardi
 
 3.
 
-Il progetto di gestione individua altresi' eventuali modalita' di manovra degli organi di scarico, anche al fine di assicurare la tutela del corpo ricettore. Restano valide in ogni caso le disposizioni fissate dal [decreto del Presidente della Repubblica 1o novembre 1959, n. 1363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-11-01;1363), volte a garantire la sicurezza di persone e cose.
+Il progetto di gestione individua altresi' eventuali modalita' di manovra degli organi di scarico, anche al fine di assicurare la tutela del corpo ricettore. Restano valide in ogni caso le disposizioni fissate dal [decreto del Presidente della Repubblica 1o novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), volte a garantire la sicurezza di persone e cose.
 
 4.
 
@@ -1025,7 +1025,7 @@ Il progetto di gestione di cui al comma 2, e' predisposto dal gestore sulla base
 
 5.
 
-Il progetto di gestione e' approvato dalle regioni, con eventuali prescrizioni, entro sei mesi dalla sua presentazione, sentiti, ove necessario, gli enti gestori delle aree protette direttamente interessate; e' trasmesso al Registro italiano dighe per l'inserimento come parte integrante del foglio condizioni per l'esercizio e la manutenzione di cui all'[articolo 6 del decreto del Presidente della Repubblica 1o novembre 1959, n. 1363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-11-01;1363#art_6), e relative esposizioni di attuazione. Il progetto di gestione si intende approvato e diviene operativo trascorsi sei mesi dalla data di presentazione senza che sia intervenuta alcuna pronuncia da parte della regione competente, fermo restando il potere di tali enti di dettare eventuali prescrizioni, anche trascorso tale termine.
+Il progetto di gestione e' approvato dalle regioni, con eventuali prescrizioni, entro sei mesi dalla sua presentazione, sentiti, ove necessario, gli enti gestori delle aree protette direttamente interessate; e' trasmesso al Registro italiano dighe per l'inserimento come parte integrante del foglio condizioni per l'esercizio e la manutenzione di cui all'[articolo 6 del decreto del Presidente della Repubblica 1o novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), e relative esposizioni di attuazione. Il progetto di gestione si intende approvato e diviene operativo trascorsi sei mesi dalla data di presentazione senza che sia intervenuta alcuna pronuncia da parte della regione competente, fermo restando il potere di tali enti di dettare eventuali prescrizioni, anche trascorso tale termine.
 
 6.
 
@@ -1033,7 +1033,7 @@ Con l'approvazione del progetto il gestore e' autorizzato ad eseguire le operazi
 
 7.
 
-Nella definizione dei canoni di concessione di inerti ai sensi dell'[articolo 89, comma 1, lettera d), del decreto legislativo 31 marzo 1998, n.112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112#art_89-com1-letd), le amministrazioni determinano specifiche modalita' ed importi per favorire lo sghiaiamento e sfangamento degli invasi per asporto meccanico.
+Nella definizione dei canoni di concessione di inerti ai sensi dell'[articolo 89, comma 1, lettera d), del decreto legislativo 31 marzo 1998, n.112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), le amministrazioni determinano specifiche modalita' ed importi per favorire lo sghiaiamento e sfangamento degli invasi per asporto meccanico.
 
 8.
 
@@ -1077,7 +1077,7 @@ I programmi di cui al comma 1 sono adottati in conformita' alle indicazioni di c
 
 3.
 
-Nell'espletamento dell'attivita' conoscitiva di cui al comma 1, le amministrazioni sono tenute ad utilizzare i dati e le informazioni gia' acquisite, con particolare riguardo a quelle preordinate alla redazione dei piani di risanamento delle. acque di cui alla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), nonche' a quelle previste dalla [legge 18 maggio 1989, n.183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183).
+Nell'espletamento dell'attivita' conoscitiva di cui al comma 1, le amministrazioni sono tenute ad utilizzare i dati e le informazioni gia' acquisite, con particolare riguardo a quelle preordinate alla redazione dei piani di risanamento delle. acque di cui alla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), nonche' a quelle previste dalla [legge 18 maggio 1989, n.183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md).
 
 ### Articolo 43 — (Rilevamento dello stato di qualita' dei corpi idrici)
 
@@ -1091,13 +1091,13 @@ I programmi di cui al comma 1 sono adottati in conformita' alle indicazioni di c
 
 3.
 
-Al fine di evitare sovrapposizioni e di garantire il flusso delle informazioni raccolte e la loro compatibilita' con il Sistema informativo nazionale dell'ambiente, nell'esercizio delle rispettive competenze, le regioni possono promuovere accordi di programma con le strutture definite ai sensi dell'[articolo 92 del decreto legislativo del 31 marzo 1998 n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112#art_92), con l'Agenzia nazionale per la protezione dell'ambiente, le agenzie regionali e provinciali dell'ambiente, le province, le autorita' d'ambito, i consorzi di bonifica e gli altri enti pubblici interessati. Nei programmi devono essere definite altresi' le modalita' di standardizzazione dei dati e di interscambio delle informazioni.
+Al fine di evitare sovrapposizioni e di garantire il flusso delle informazioni raccolte e la loro compatibilita' con il Sistema informativo nazionale dell'ambiente, nell'esercizio delle rispettive competenze, le regioni possono promuovere accordi di programma con le strutture definite ai sensi dell'[articolo 92 del decreto legislativo del 31 marzo 1998 n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), con l'Agenzia nazionale per la protezione dell'ambiente, le agenzie regionali e provinciali dell'ambiente, le province, le autorita' d'ambito, i consorzi di bonifica e gli altri enti pubblici interessati. Nei programmi devono essere definite altresi' le modalita' di standardizzazione dei dati e di interscambio delle informazioni.
 
 ### Articolo 44 — (Piani di tutela delle acque)
 
 1.
 
-Il piano di tutela delle acque costituisce un piano stralcio di settore del piano di bacino ai sensi dell'[articolo 17, comma 6 ter, della legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183#art_17-com6ter), ed e' articolato secondo le specifiche indicate nell'allegato 4.
+Il piano di tutela delle acque costituisce un piano stralcio di settore del piano di bacino ai sensi dell'[articolo 17, comma 6 ter, della legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md), ed e' articolato secondo le specifiche indicate nell'allegato 4.
 
 2.
 
@@ -1472,11 +1472,11 @@ Resta fermo quanto disposto dall'[articolo 36 della legge 24 aprile 1998, n.128]
 
 5.
 
-L'abrogazione degli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_16) e [17 della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_17), cosi' come modificato ed integrato, quest'ultimo dall'[articolo 2, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-03-17;79#art_2-com3) e [3-bis, del decreto legge 17 marzo 1995, n.79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-03-17;79#art_2-com3bis), convertito, con modificazioni, della [legge 17 maggio 1995, n.172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-17;172), ha effetto dall'applicazione della tariffa del servizio idrico integrato di cui agli [articoli 13 e seguenti della legge 5 gennaio 1994, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-05;36#art_13).
+L'abrogazione degli [articoli 16](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md) e [17 della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), cosi' come modificato ed integrato, quest'ultimo dall'[articolo 2, commi 3](Modifiche%20alla%20disciplina%20degli%20scarichi%20delle%20pubbliche%20fognature%20e%20degli%20insediamenti%20civili%20che%20non%20recapitano%20in%20pubbliche%20fognature_8.md) e [3-bis, del decreto legge 17 marzo 1995, n.79](Modifiche%20alla%20disciplina%20degli%20scarichi%20delle%20pubbliche%20fognature%20e%20degli%20insediamenti%20civili%20che%20non%20recapitano%20in%20pubbliche%20fognature_8.md), convertito, con modificazioni, della [legge 17 maggio 1995, n.172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%201995%20n.%2079%20recante%20modifiche%20alla%20disciplina%20degli%20scarichi%20delle%20pubbliche%20fognature%20e%20degli%20insediamenti%20civili%20che%20non_6620dcd122cd.md), ha effetto dall'applicazione della tariffa del servizio idrico integrato di cui agli [articoli 13 e seguenti della legge 5 gennaio 1994, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-05;36#art_13).
 
 6.
 
-Il canone o diritto di cui all'[articolo 16 della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_16), e successive modificazioni continua ad applicarsi in relazione ai presupposti di imposizione verificatisi anteriormente all'abrogazione del tributo ad opera del presente decreto. Per l'accertamento e la riscossione si osservano le disposizioni relative al tributo abrogato.
+Il canone o diritto di cui all'[articolo 16 della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni continua ad applicarsi in relazione ai presupposti di imposizione verificatisi anteriormente all'abrogazione del tributo ad opera del presente decreto. Per l'accertamento e la riscossione si osservano le disposizioni relative al tributo abrogato.
 
 7.
 
@@ -1512,7 +1512,7 @@ Le regioni, le provincie autonome e gli enti attuatori provvedono agli adempimen
 
 15.
 
-All'[articolo 6, comma 1, del decreto-legge 25 marzo 1997, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-25;67#art_6-com1), convertito, con modificazioni, dalla [legge 23 maggio 1997, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-23;135), cosi' come sostituito dall'[articolo 8, comma 2, della legge 8 ottobre 1997, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-10-08;344#art_8-com2), le parole: "tenendo conto della [direttiva 91/271/CEE del Consiglio del 21 maggio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;271) concernente il trattamento delle acque reflue urbane" sono sostituite dalle seguenti: "tenendo conto del decreto legislativo recante disposizioni sulla tutela delle acque dall'inquinamento e recepimento della [direttiva 91/271/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;271) concernente il trattamento delle acque reflue urbane e della [direttiva 91/676/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;676) relativa alla protezione delle acque dall'inquinamento provocato dai nitrati provenienti dalle fonti agricole,".
+All'[articolo 6, comma 1, del decreto-legge 25 marzo 1997, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-25;67#art_6-com1), convertito, con modificazioni, dalla [legge 23 maggio 1997, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20marzo%201997%20n.%2067%20recante%20disposizioni%20urgenti%20per%20favorire%20loccupazione.md), cosi' come sostituito dall'[articolo 8, comma 2, della legge 8 ottobre 1997, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-10-08;344#art_8-com2), le parole: "tenendo conto della [direttiva 91/271/CEE del Consiglio del 21 maggio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;271) concernente il trattamento delle acque reflue urbane" sono sostituite dalle seguenti: "tenendo conto del decreto legislativo recante disposizioni sulla tutela delle acque dall'inquinamento e recepimento della [direttiva 91/271/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;271) concernente il trattamento delle acque reflue urbane e della [direttiva 91/676/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;676) relativa alla protezione delle acque dall'inquinamento provocato dai nitrati provenienti dalle fonti agricole,".
 
 ### Articolo 63 — (Abrogazione di norme)
 
@@ -1520,19 +1520,19 @@ All'[articolo 6, comma 1, del decreto-legge 25 marzo 1997, n. 67](https://www.no
 
 Fermo restando quanto previsto dall'articolo 3, comma 2, a decorrere dalla data di entrata in vigore del presente decreto sono abrogate le norme contrarie o incompatibili con il medesimo, ed in particolare: 
  
- - [legge 10 maggio 1976, n 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319); 
+ - [legge 10 maggio 1976, n 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md); 
  
- - [legge 8 ottobre 1976, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-10-08;690), di conversione in legge, con modificazioni, del [decreto-legge 10 agosto 1976, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-08-10;544); 
+ - [legge 8 ottobre 1976, n. 690](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20agosto%201976%20n.%20544%20concernente%20proroga%20dei%20termini%20di%20cui%20agli%20articoli%2015%2017%20e%2018%20della%20legge%2010%20maggio%201976%20n.%20319%20recante%20no_fec480372b35.md), di conversione in legge, con modificazioni, del [decreto-legge 10 agosto 1976, n. 544](Proroga%20dei%20termini%20di%20cui%20agli%20articoli%2015%2017%20e%2018%20della%20legge%2010%20maggio%201976%20n.%20319%20recante%20norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md); 
  
- - [legge 24 dicembre 1979, n.650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-12-24;650); 
+ - [legge 24 dicembre 1979, n.650](Integrazioni%20e%20modifiche%20delle%20leggi%2016%20aprile%201973%20n.%20171%20e%2010%20maggio%201976%20n.%20319%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md); 
  
- - [legge 5 marzo 1982, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-05;62), di conversione in legge, con modificazioni del [decreto-legge 30 dicembre 1981, n.801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-30;801); 
+ - [legge 5 marzo 1982, n. 62](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201981%20n.%20801%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md), di conversione in legge, con modificazioni del [decreto-legge 30 dicembre 1981, n.801](Provvedimenti%20urgenti%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento_2.md); 
  
  - [decreto del Presidente della Repubblica 3 luglio 1982, n. 515](Attuazione%20della%20direttiva%20CEE%20n.%2075-440%20concernente%20la%20qualita%20delle%20acque%20superficiali%20destinate%20alla%20produzione%20di%20acqua%20potabile.md); 
  
- - [legge 25 luglio 1984, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-25;381) di conversione in legge con modificazioni del [decreto-legge 29 maggio 1984, n. 176; 
+ - [legge 25 luglio 1984, n. 381](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20maggio%201984%20n.%20176%20concernente%20misure%20urgenti%20in%20materia%20di%20tutela%20ambientale.md) di conversione in legge con modificazioni del [decreto-legge 29 maggio 1984, n. 176; 
  
- gli articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-05-29;176#art_4) e [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-05-29;176#art_5) della [legge 5 aprile 1990, n.71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71) di conversione in legge, con modificazioni, del [decreto-legge 5 febbraio 1990,n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-02-05;16); 
+ gli articoli 4](Misure%20urgenti%20in%20materia%20di%20tutela%20ambientale.md) e [5](Misure%20urgenti%20in%20materia%20di%20tutela%20ambientale.md) della [legge 5 aprile 1990, n.71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20febbraio%201990%20n.%2016%20recante%20misure%20urgenti%20per%20il%20miglioramento%20qualitativo%20e%20per%20la%20prevenzione%20dellinquinamento%20delle%20acque.md) di conversione in legge, con modificazioni, del [decreto-legge 5 febbraio 1990,n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-02-05;16); 
  
  - decreto legislativo 25 gennaio, 1992, n. 130; 
  
@@ -1542,11 +1542,11 @@ Fermo restando quanto previsto dall'articolo 3, comma 2, a decorrere dalla data 
  
  - decreto legislativo 27 gennaio, 1992, n. 133; 
  
- - [articolo 2, comma 1, della legge 6 dicembre 1993, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-06;502#art_2-com1), di conversione in legge, con modificazioni, del [decreto-legge 9 ottobre 1993, n. 408; 
+ - [articolo 2, comma 1, della legge 6 dicembre 1993, n. 502](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20ottobre%201993%20n.%20408%20recante%20disposizioni%20urgenti%20per%20la%20regolamentazione%20degli%20scarichi%20termici%20a%20mare.md), di conversione in legge, con modificazioni, del [decreto-legge 9 ottobre 1993, n. 408; 
  
- - articolo 9-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-09;408#art_9bis) della [legge 20 dicembre 1996, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;642), di conversione in legge, con modificazioni, del [decreto-legge 23 ottobre 1996, n. 552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-23;552); 
+ - articolo 9-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-09;408#art_9bis) della [legge 20 dicembre 1996, n. 642](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20552%20recante%20interventi%20urgenti%20nei%20settori%20agricoli%20e%20fermo%20biologico%20della%20pesca%20per%20il%201996.md), di conversione in legge, con modificazioni, del [decreto-legge 23 ottobre 1996, n. 552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-23;552); 
  
- - [legge 17 maggio 1995, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-17;172), di conversione in legge, con modificazioni, del [decreto-legge 17 marzo 1995, n.79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-03-17;79).
+ - [legge 17 maggio 1995, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%201995%20n.%2079%20recante%20modifiche%20alla%20disciplina%20degli%20scarichi%20delle%20pubbliche%20fognature%20e%20degli%20insediamenti%20civili%20che%20non_6620dcd122cd.md), di conversione in legge, con modificazioni, del [decreto-legge 17 marzo 1995, n.79](Modifiche%20alla%20disciplina%20degli%20scarichi%20delle%20pubbliche%20fognature%20e%20degli%20insediamenti%20civili%20che%20non%20recapitano%20in%20pubbliche%20fognature_8.md).
 
 2.
 

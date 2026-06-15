@@ -14,7 +14,7 @@ Le stime compilate dal Circolo ferroviario d'ispezione di Palermo e successivame
 
 ## Art. 2.
 
-La presente legge ha effetto dal 1° settembre 1940-XVIII e cessera' di avere vigore con l'ultimazione dei lavori e con la definizione totale delle pratiche espropriative rientranti nei compiti del cessato Ufficio speciale con sede in Palermo, istituito con [R. decreto-legge 24 novembre 1921, n. 1696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-11-24;1696). 
+La presente legge ha effetto dal 1° settembre 1940-XVIII e cessera' di avere vigore con l'ultimazione dei lavori e con la definizione totale delle pratiche espropriative rientranti nei compiti del cessato Ufficio speciale con sede in Palermo, istituito con [R. decreto-legge 24 novembre 1921, n. 1696](Che%20istituisce%20con%20sede%20in%20Palermo%20un%20ufficio%20per%20la%20costruzione%20delle%20ferrovie%20secondarie%20nellinterno%20della%20Sicilia.%20021U1696.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

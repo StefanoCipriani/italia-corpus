@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 agosto 1927, n. 1559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-10;1559), relativo alla concessione di esenzioni fiscali e tributarie all'Opera nazionale Dopolavoro e all'Opera nazionale Balilla. 
+ E' convertito in legge il [R. decreto-legge 10 agosto 1927, n. 1559](Concessione%20di%20esenzioni%20fiscali%20e%20tributarie%20allOpera%20nazionale%20Dopolavoro%20e%20allOpera%20nazionale%20Balilla.%20027U1559.md), relativo alla concessione di esenzioni fiscali e tributarie all'Opera nazionale Dopolavoro e all'Opera nazionale Balilla. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 novembre 1932, n. 1494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-11-28;1494), con il quale e' stata data facolta' al Ministro per le finanze di provvedere al riordinamento ed alla sistemazione dei servizi della finanza locale e di quelli del Demanio e delle Aziende patrimoniali. 
+ E' convertito in legge il [R. decreto-legge 28 novembre 1932, n. 1494](Facolta%20al%20Ministro%20per%20le%20finanze%20di%20provvedere%20al%20riordinamento%20ed%20alla%20sistemazione%20dei%20servizi%20della%20Finanza%20locale%20e%20di%20quelli%20del%20Demanio%20e%20delle%20Aziende%20patrimoniali.%20032U1494.md), con il quale e' stata data facolta' al Ministro per le finanze di provvedere al riordinamento ed alla sistemazione dei servizi della finanza locale e di quelli del Demanio e delle Aziende patrimoniali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

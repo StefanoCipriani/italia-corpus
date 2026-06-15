@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'appannaggio di L. 150.000 annue assegnato a Sua Altezza Reale il Principe Aimone Roberto di Savoia-Aosta, Duca di Spoleto, con il [R. decreto-legge 24 agosto 1931-1X](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-08-24;1), [n. 1093](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-08-24;1093), convertito nella legge 17 dicembre 1931-X, n. 1577, e' elevato, a decorrere dal 1° luglio 1939-XVII, ad, annuo L. 600.000. 
+ L'appannaggio di L. 150.000 annue assegnato a Sua Altezza Reale il Principe Aimone Roberto di Savoia-Aosta, Duca di Spoleto, con il [R. decreto-legge 24 agosto 1931-1X](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-08-24;1), [n. 1093](Appannaggio%20di%20annue%20L.%20150.000%20a%20S.%20A.%20R.%20il%20Principe%20Aimone%20Roberto%20di%20Savoia-Aosta%20Duca%20di%20Spoleto.%20031U1093.md), convertito nella legge 17 dicembre 1931-X, n. 1577, e' elevato, a decorrere dal 1° luglio 1939-XVII, ad, annuo L. 600.000. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

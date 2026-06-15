@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Considerato che all'indicato aumento si rende possibile far fronte con diminuzioni per corrispondente somma sugli stanziamenti di altri capitoli dello stato di previsione medesimo; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -40,7 +40,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Cap. n. 3. « Ministero - Indennita' fissate 
  dal [R. decreto 29 novembre 1870, 
- n. 6090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-11-29;6090), ecc.» . . . . . . . . . . . . . . . . . 18.000 -- 
+ n. 6090](Concernente%20le%20Legazioni%20allestero%20ed%20il%20personale%20alle%20medesime%20addetto.%20070U6090.md), ecc.» . . . . . . . . . . . . . . . . . 18.000 -- 
  
  » 4. « Ministero - Spese d'ufficio » . . . . . . . 30.000 -- 
  

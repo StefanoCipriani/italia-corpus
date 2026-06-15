@@ -22,9 +22,9 @@ Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20
 
 Visti gli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-07-16;646#art_27) e [28 del testo unico 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-07-16;646#art_28);
 
-Visto l'[art. 4 della legge 22 dicembre 1905, n. 592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-12-22;592#art_4);
+Visto l'[art. 4 della legge 22 dicembre 1905, n. 592](Provvedimenti%20per%20agevolare%20i%20mutui%20fondiari.%20005U0592.md);
 
-Visto il [R. decreto-legge 3 gennaio 1926, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-03;83);
+Visto il [R. decreto-legge 3 gennaio 1926, n. 83](Aumento%20del%20limite%20massimo%20del%20compenso%20annuo%20per%20i%20diritti%20di%20commissione%20e%20spese%20di%20amministrazione%20a%20favore%20degli%20istituti%20di%20credito%20fondiario.%20026U0083.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -35,7 +35,7 @@ Sulla proposta del Ministro per il tesoro; Abbiamo sanzionato e promulghiamo qua
 ## Art. 1.
 
 Agli Istituti esercenti il credito fondiario giusta il [testo unico 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-07-16;646), e successive disposizioni, e' data facolta' di applicare e riscuotere tanto per i nuovi mutui quanto per quelli in corso, sulle semestralita' in scadenza col 1° gennaio 1946 e sino a due anni solari successivi a quello in cui sara' dichiarata la cessazione dello stato di guerra, un diritto di contingenza.
- La misura di tale diritto di contingenza non potra', aggiunta al diritto di commissione di cui al [R. decreto-legge 3 gennaio 1926, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-03;83), superare l'importo di L. 1,50 per ogni cento lire di capitale mutuato e verra' regolata, per analogia, dagli articoli 27 e 28 del testo unico suddetto.
+ La misura di tale diritto di contingenza non potra', aggiunta al diritto di commissione di cui al [R. decreto-legge 3 gennaio 1926, n. 83](Aumento%20del%20limite%20massimo%20del%20compenso%20annuo%20per%20i%20diritti%20di%20commissione%20e%20spese%20di%20amministrazione%20a%20favore%20degli%20istituti%20di%20credito%20fondiario.%20026U0083.md), superare l'importo di L. 1,50 per ogni cento lire di capitale mutuato e verra' regolata, per analogia, dagli articoli 27 e 28 del testo unico suddetto.
 
 ## Art. 2.
 

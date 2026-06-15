@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 ottobre 1929, n. 1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-10-10;1942), portante norme per il funzionamento della Camera agrumaria per la Sicilia e la Calabria, in Messina, con la modificazione dell'articolo 6 nei termini seguenti: 
+ E' convertito in legge il [R. decreto-legge 10 ottobre 1929, n. 1942](Norme%20per%20il%20funzionamento%20della%20Camera%20agrumaria%20per%20la%20Sicilia%20e%20la%20Calabria%20in%20Messina.%20029U1942.md), portante norme per il funzionamento della Camera agrumaria per la Sicilia e la Calabria, in Messina, con la modificazione dell'articolo 6 nei termini seguenti: 
  
  «Art. 6. - Il ricavato della vendita delle rimanenze di citrato di calcio di cui al precedente articolo 4 va destinato ad incremento del fondo di riserva della Camera agrumaria. 
  

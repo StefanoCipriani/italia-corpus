@@ -20,7 +20,7 @@ Visto il decreto 25 febbraio 1926, n. 422, contenente le norme per il trasferime
 
 Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), recante nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, ed il relativo regolamento approvato con [R. decreto 22 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;827);
 
-Visto il [R. decreto 1° novembre 1928, n. 2653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-11-01;2653), che detta disposizioni per l'applicazione del citato [R. decreto 25 febbraio 1926, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-02-25;422);
+Visto il [R. decreto 1° novembre 1928, n. 2653](Disposizioni%20per%20lapplicazione%20del%20R.%20decreto%2025%20febbraio%201926%20n.%20422%20contenente%20norme%20per%20il%20passaggio%20allAmministrazione%20dei%20lavori%20pubblici%20di%20taluni%20servizi%20di%20competenza%20del%20Genio%20mi_148b9f4bb19b.md), che detta disposizioni per l'applicazione del citato [R. decreto 25 febbraio 1926, n. 422](Norme%20per%20il%20trasferimento%20allAmministrazione%20dei%20lavori%20pubblici%20di%20taluni%20servizi%20di%20competenza%20del%20Genio%20militare.%20026U0422.md);
 
 Visto il [R. decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), relativo al concentramento dei servizi di edilizia statale nel Ministero dei lavori pubblici:
 

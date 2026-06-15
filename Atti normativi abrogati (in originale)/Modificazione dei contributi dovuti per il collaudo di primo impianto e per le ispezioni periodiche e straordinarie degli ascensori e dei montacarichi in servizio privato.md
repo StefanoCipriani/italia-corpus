@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 24 ottobre 1942, n. 1415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-24;1415), concernente l'impianto e l'esercizio degli ascensori e montacarichi il servizio privato;
+Vista la [legge 24 ottobre 1942, n. 1415](Impianto%20ed%20esercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.%20042U1415.md), concernente l'impianto e l'esercizio degli ascensori e montacarichi il servizio privato;
 
 Visto il [decreto legislativo Luogotenenziale 19 ottobre 1944, n. 347](Istituzione%20del%20Comitato%20interministeriale%20e%20dei%20Comitati%20provinciali%20per%20il%20coordinamento%20e%20la%20disciplina%20dei%20prezzi.%20044U0347.md);
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 ## Articolo unico.
 
-I contributi dovuti per il collaudo di primo impianto e per le ispezioni periodiche e straordinarie degli ascensori e dei montacarichi in servizio privato di cui alla tabella B, annessa alla [legge 24 ottobre 1942, n. 1415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-24;1415), sono modificati in conformita' della deliberazione del Comitato interministeriale dei prezzi in data 2 novembre 1945, come segue:
+I contributi dovuti per il collaudo di primo impianto e per le ispezioni periodiche e straordinarie degli ascensori e dei montacarichi in servizio privato di cui alla tabella B, annessa alla [legge 24 ottobre 1942, n. 1415](Impianto%20ed%20esercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.%20042U1415.md), sono modificati in conformita' della deliberazione del Comitato interministeriale dei prezzi in data 2 novembre 1945, come segue:
 
 1) collaudo di primo impianto sugli ascensori adibiti al
  trasporto di persone (categ. A) ..........................L. 350
@@ -67,7 +67,7 @@ I contributi dovuti per il collaudo di primo impianto e per le ispezioni periodi
  ascensori (escluse le ispezioni straordinarie ordinate
  dal Prefetto)............................................." 300
 
- Quando per il collaudo di primo impianto o per le ispezioni periodiche e straordinarie il funzionario incaricato debba recarsi fuori del capoluogo di provincia di residenza, e' dovuto, in aggiunta a quanto sopra stabilito, il rimborso delle spese di viaggio in prima classe a tariffa intera per il percorso in ferrovia, tranvia o autoservizi in servizio pubblico e l'indennita' di L. 3 per ogni chilometro di percorso su strade ordinarie, stabilita dal [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320). Qualora il funzionario sia obbligato per la esecuzione del collaudo o della ispezione a pernottare fuori del capoluogo di provincia di residenza, e' dovuto inoltre, sempre a carico dei privati, il trattamento di missione a norma del citato [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320), se trattisi di dipendenti statali e quello previsto per i funzionari statali di grado 6°, se trattisi di ingegnere estraneo alle Amministrazioni dello Stato.
+ Quando per il collaudo di primo impianto o per le ispezioni periodiche e straordinarie il funzionario incaricato debba recarsi fuori del capoluogo di provincia di residenza, e' dovuto, in aggiunta a quanto sopra stabilito, il rimborso delle spese di viaggio in prima classe a tariffa intera per il percorso in ferrovia, tranvia o autoservizi in servizio pubblico e l'indennita' di L. 3 per ogni chilometro di percorso su strade ordinarie, stabilita dal [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md). Qualora il funzionario sia obbligato per la esecuzione del collaudo o della ispezione a pernottare fuori del capoluogo di provincia di residenza, e' dovuto inoltre, sempre a carico dei privati, il trattamento di missione a norma del citato [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md), se trattisi di dipendenti statali e quello previsto per i funzionari statali di grado 6°, se trattisi di ingegnere estraneo alle Amministrazioni dello Stato.
  Se in occasione di una gita al di fuori del capoluogo di provincia di residenza il funzionario incaricato collauda od ispeziona piu' di un ascensore o montacarico, i rimborsi spese e le indennita' di cui al precedente comma vanno ripartiti tra i vari proprietari interessati in un numero di quote di uguale importo, pari al numero degli impianti collaudati od ispezionati.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

@@ -35,7 +35,7 @@ Capo I
 
 1.
 
-A titolo di contributo per il ristoro del pregiudizio subito e' corrisposta una elargizione di una somma di danaro in favore di chi, esercitando un'attivita' imprenditoriale, commerciale, artigianale o comunque economica, ovvero una libera arte o professione, ed avendo opposto un rifiuto a richieste di natura estorsiva o, comunque, non avendovi aderito, subisce nel territorio dello Stato un danno a beni mobili o immobili in conseguenza di fatti delittuosi commessi, anche al di fuori dell'esistenza di un vincolo associativo, per il perseguimento delle finalita' di cui all'[articolo 416- bis del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_416bis).
+A titolo di contributo per il ristoro del pregiudizio subito e' corrisposta una elargizione di una somma di danaro in favore di chi, esercitando un'attivita' imprenditoriale, commerciale, artigianale o comunque economica, ovvero una libera arte o professione, ed avendo opposto un rifiuto a richieste di natura estorsiva o, comunque, non avendovi aderito, subisce nel territorio dello Stato un danno a beni mobili o immobili in conseguenza di fatti delittuosi commessi, anche al di fuori dell'esistenza di un vincolo associativo, per il perseguimento delle finalita' di cui all'[articolo 416- bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 2.
 
@@ -47,7 +47,7 @@ L'elargizione e' corrisposta, nei limiti della dotazione del Fondo di cui all'ar
                             c)
                                 la vittima non abbia concorso nel fatto delittuoso, ovvero in reati con questo connessi ai sensi dell'[articolo 12 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_12);
                             d)
-                                la vittima, al tempo dell'evento e successivamente, non risulti sottoposta a misura di prevenzione, o al relativo procedimento di applicazione, ai sensi delle [leggi 27 dicembre 1956, n. 1423, e 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575), e successive modifiche ed integrazioni, ne' risulti destinataria di provvedimenti che dispongono divieti, sospensioni o decadenze a norma degli articoli 10 e 10-quater, comma secondo, della medesima [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575), salvi gli effetti della riabilitazione;
+                                la vittima, al tempo dell'evento e successivamente, non risulti sottoposta a misura di prevenzione, o al relativo procedimento di applicazione, ai sensi delle [leggi 27 dicembre 1956, n. 1423, e 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), e successive modifiche ed integrazioni, ne' risulti destinataria di provvedimenti che dispongono divieti, sospensioni o decadenze a norma degli articoli 10 e 10-quater, comma secondo, della medesima [legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), salvi gli effetti della riabilitazione;
                             e)
                                 il danno patrimoniale superi, per ammontare, quello eventualmente coperto, anche indirettamente, da polizza assicurativa;
                             f)
@@ -93,7 +93,7 @@ La domanda di cui ai commi 1 e 2 deve essere presentata, a pena di decadenza, en
 
 1.
 
-La concessione dell'elargizione e' disposta con decreto del Presidente del Consiglio dei Ministri, su proposta del comitato di cui all'articolo 5, commi 2 e 3. La proposta deve dare conto della natura del fatto che ha cagionato il danno patrimoniale, del rapporto di causalita', dei singoli presupposti positivi e negativi stabiliti dal presente decreto e dell'ammontare del danno patrimoniale, dettagliatamente documentato. Si applicano, in quanto compatibili, le disposizioni degli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-20;302#art_7), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-20;302#art_10) e [13 della legge 20 ottobre 1990, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-20;302#art_13). Si applica altresi' l'[articolo 10-sexies della legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575#art_10sexies).
+La concessione dell'elargizione e' disposta con decreto del Presidente del Consiglio dei Ministri, su proposta del comitato di cui all'articolo 5, commi 2 e 3. La proposta deve dare conto della natura del fatto che ha cagionato il danno patrimoniale, del rapporto di causalita', dei singoli presupposti positivi e negativi stabiliti dal presente decreto e dell'ammontare del danno patrimoniale, dettagliatamente documentato. Si applicano, in quanto compatibili, le disposizioni degli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-20;302#art_7), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-20;302#art_10) e [13 della legge 20 ottobre 1990, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-20;302#art_13). Si applica altresi' l'[articolo 10-sexies della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md).
 
 2.
 
@@ -143,7 +143,7 @@ Il Fondo e' alimentato da:
                             b)
                                 un contributo dello Stato pari a lire 9.950 milioni per l'anno 1991 ed a lire 90.000 milioni per ciascuno degli anni 1992 e 1993;
                             c)
-                                una quota pari alla meta' dell'importo, per ciascun anno, delle somme di denaro confiscate ai sensi della [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575), e successive modifiche ed integrazioni, nonche' una quota pari ad un terzo dell'importo del ricavato, per ciascun anno, delle vendite disposte a norma dell'[articolo 4, commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-14;230#art_4-com4) e [6, del decreto- legge 14 giugno 1989, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-14;230#art_4-com6), convertito, con modificazioni, dalla [legge 4 agosto 1989, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-04;282), relative ai beni mobili o immobili ed ai beni costituiti in azienda confiscati ai sensi della medesima [legge n. 575 del 1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965;575). Per l'anno 1991 le aliquote sono commisurate agli importi delle somme di denaro e del ricavato degli immobili confiscati a partire dal centottantesimo giorno anteriore alla data di entrata in vigore del presente decreto.
+                                una quota pari alla meta' dell'importo, per ciascun anno, delle somme di denaro confiscate ai sensi della [legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), e successive modifiche ed integrazioni, nonche' una quota pari ad un terzo dell'importo del ricavato, per ciascun anno, delle vendite disposte a norma dell'[articolo 4, commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-14;230#art_4-com4) e [6, del decreto- legge 14 giugno 1989, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-14;230#art_4-com6), convertito, con modificazioni, dalla [legge 4 agosto 1989, n. 282](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20giugno%201989%20n.%20230%20recante%20disposizioni%20urgenti%20per%20lamministrazione%20e%20la%20destinazione%20dei%20beni%20confiscati%20ai%20sensi%20della%20legge_f28a4432aed0.md), relative ai beni mobili o immobili ed ai beni costituiti in azienda confiscati ai sensi della medesima [legge n. 575 del 1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965;575). Per l'anno 1991 le aliquote sono commisurate agli importi delle somme di denaro e del ricavato degli immobili confiscati a partire dal centottantesimo giorno anteriore alla data di entrata in vigore del presente decreto.
 
 2.
 
@@ -161,36 +161,36 @@ Capo II
 
 1.
 
-Nell'[articolo 111 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_111), dopo il primo comma, e' aggiunto il seguente: 
+Nell'[articolo 111 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il primo comma, e' aggiunto il seguente: 
  "Se chi ha determinato altri a commettere il reato ne e' il genitore esercente la potesta', la pena e' aumentata fino alla meta' o, se si tratta di delitti per i quali e' previsto l'arresto in flagranza, da un terzo a due terzi.".
 
 2.
 
-Nell'[articolo 112 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_112), dopo il secondo comma, e' aggiunto il seguente: 
+Nell'[articolo 112 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il secondo comma, e' aggiunto il seguente: 
  "Se chi ha determinato altri a commettere il reato o si e' avvalso di altri nella commissione del delitto ne e' il genitore esercente la potesta', nel caso previsto dal numero 4 del primo comma la pena e' aumentata fino alla meta' e in quello previsto dal secondo comma la pena e' aumentata fino a due terzi.".
 
 3.
 
-Nel [terzo comma dell'articolo 114 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_114-com3), dopo le parole: "numeri 3 e 4" sono inserite le seguenti: "del primo comma e nel terzo comma".
+Nel [terzo comma dell'articolo 114 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo le parole: "numeri 3 e 4" sono inserite le seguenti: "del primo comma e nel terzo comma".
 
 4.
 
-Per i delitti di cui all'[articolo 275, comma 3, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_275-com3) le circostanze attenuanti, diverse da quella prevista dall'[articolo 98 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_98), concorrenti con le aggravanti di cui agli [articoli 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_111) e [112, comma primo, numeri 3)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_112-com1-num3) e [4)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_112-com1-num4), e [comma secondo, del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_112-com2), non possono essere ritenute equivalenti o prevalenti rispetto a queste se chi ha determinato altri a commettere il reato, o si e' avvalso di altri nella commissione del delitto, ne e' il genitore esercente la potesta' ovvero il fratello o la sorella e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alle predette aggravanti.
+Per i delitti di cui all'[articolo 275, comma 3, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_275-com3) le circostanze attenuanti, diverse da quella prevista dall'[articolo 98 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), concorrenti con le aggravanti di cui agli [articoli 111](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [112, comma primo, numeri 3)](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [4)](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e [comma secondo, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), non possono essere ritenute equivalenti o prevalenti rispetto a queste se chi ha determinato altri a commettere il reato, o si e' avvalso di altri nella commissione del delitto, ne e' il genitore esercente la potesta' ovvero il fratello o la sorella e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alle predette aggravanti.
 
 ### Art. 8. — Aggravamenti di pene
 
 1.
 
-Nel [primo comma dell'articolo 629 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_629-com1), le parole: "da tre a dieci anni" sono sostituite dalle seguenti: "da cinque a dieci anni".
+Nel [primo comma dell'articolo 629 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le parole: "da tre a dieci anni" sono sostituite dalle seguenti: "da cinque a dieci anni".
 
 2.
 
-Nel [secondo comma dell'articolo 629 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_629-com2), le parole: "da quattro anni e sei mesi a venti anni e della multa da lire seicentomila a lire tre milioni" sono sostituite dalle seguenti: 
+Nel [secondo comma dell'articolo 629 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le parole: "da quattro anni e sei mesi a venti anni e della multa da lire seicentomila a lire tre milioni" sono sostituite dalle seguenti: 
 "da sei a venti anni e della multa da lire due milioni a lire sei milioni".
 
 3.
 
-Nel [terzo comma dell'articolo 628 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_628-com3), le parole: "da lire seicentomila a lire tre milioni" sono sostituite dalle seguenti: "da lire due milioni a lire sei milioni".
+Nel [terzo comma dell'articolo 628 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le parole: "da lire seicentomila a lire tre milioni" sono sostituite dalle seguenti: "da lire due milioni a lire sei milioni".
 
 4.
 
@@ -200,14 +200,14 @@ Nel [secondo comma dell'articolo 4 della legge 8 agosto 1977, n. 533](https://ww
 
 1.
 
-Dopo l'[articolo 629 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_629) e' inserito il seguente: 
+Dopo l'[articolo 629 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente: 
  "Art. 629-bis (Altre attivita' estorsive). - Salvo che il fatto costituisca piu' grave reato, la pena prevista dall'articolo 629, primo comma, si applica nei confronti di chiunque realizzi profitti o vantaggi ingiusti per se' o per altri avvalendosi delle condizioni previste dall'articolo 416-bis. La pena e' aumentata se i fatti sono commessi da persona che fa parte dell'associazione di cui all'articolo 416-bis.".
 
 ### Art. 10. — Disposizioni processuali
 
 1.
 
-Quando e' necessario per acquisire rilevanti elementi probatori ovvero per la individuazione o cattura dei responsabili dei delitti di cui agli [articoli 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_629), [629-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_629bis), [648- bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_648bis) e [648- ter del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_648ter), il pubblico ministero puo', con decreto motivato, ritardare l'esecuzione dei provvedimenti che applicano una misura cautelare, dell'arresto, del fermo dell'indiziato di delitto o del sequestro.
+Quando e' necessario per acquisire rilevanti elementi probatori ovvero per la individuazione o cattura dei responsabili dei delitti di cui agli [articoli 629](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [629-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [648- bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648- ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il pubblico ministero puo', con decreto motivato, ritardare l'esecuzione dei provvedimenti che applicano una misura cautelare, dell'arresto, del fermo dell'indiziato di delitto o del sequestro.
 Nei casi di urgenza il ritardo dell'esecuzione dei predetti provvedimenti puo' essere disposto anche oralmente, ma il relativo decreto deve essere emesso entro le succesive quarantotto ore.
 
 2.
@@ -218,7 +218,7 @@ Per gli stessi motivi di cui al comma 1 gli ufficiali di polizia giudiziaria pos
 
 1.
 
-All'[articolo 14, comma 1, della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_14-com1), le parole: "sia quella prevista dall'[articolo 630 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_630)" sono sostituite dalle seguenti: "sia una di quelle previste dagli articoli 629, 629-bis, 630, 648- bis o 648- ter del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), ovvero quella di contrabbando".
+All'[articolo 14, comma 1, della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_14-com1), le parole: "sia quella prevista dall'[articolo 630 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)" sono sostituite dalle seguenti: "sia una di quelle previste dagli articoli 629, 629-bis, 630, 648- bis o 648- ter del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero quella di contrabbando".
 
 ### Art. 12. — Disciplina della raccolta di fondi
 
@@ -240,28 +240,28 @@ Nei confronti di chi effettua la raccolta in violazione delle disposizioni del p
 
 5.
 
-Quando si tratta di raccolte di oggetti senza apprezzabile valore, il prefetto, sentito l'ufficio tecnico erariale, puo' autorizzare la destinazione degli stessi ad enti o associazioni di assistenza e beneficenza anche prima dell'ordinanza-ingiunzione di pagamento della sanzione amministrativa, applicate in quanto compatibili le disposizioni dell'[articolo 5, secondo comma, del decreto del Presidente della Repubblica 29 luglio 1982, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-29;571#art_5-com2).
+Quando si tratta di raccolte di oggetti senza apprezzabile valore, il prefetto, sentito l'ufficio tecnico erariale, puo' autorizzare la destinazione degli stessi ad enti o associazioni di assistenza e beneficenza anche prima dell'ordinanza-ingiunzione di pagamento della sanzione amministrativa, applicate in quanto compatibili le disposizioni dell'[articolo 5, secondo comma, del decreto del Presidente della Repubblica 29 luglio 1982, n. 571](../DPR/Norme%20per%20lattuazione%20degli%20articoli%2015%20ultimo%20comma%20e%2017%20penultimo%20comma%20della%20legge%2024%20novembre%201981%20n.%20689%20concernente%20modifiche%20al%20sistema%20penale.md).
 
 ### Art. 13. — Funzioni del pretore e del pubblico ministero in materia amministrativa
 
 1.
 
-Al [comma 1 dell'articolo 70 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_70-com1), come sostituito dall'[articolo 20 del decreto del Presidente della Repubblica 22 settembre 1988, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;449#art_20), e' aggiunto, in fine, il seguente periodo: 
+Al [comma 1 dell'articolo 70 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_70-com1), come sostituito dall'[articolo 20 del decreto del Presidente della Repubblica 22 settembre 1988, n. 449](../DPR/Approvazione%20delle%20norme%20per%20ladeguamento%20dellordinamento%20giudiziario%20al%20nuovo%20processo%20penale%20ed%20a%20quello%20a%20carico%20degli%20imputati%20minorenni.md), e' aggiunto, in fine, il seguente periodo: 
  "Spettano al pubblico ministero presso la pretura le funzioni attribuite dalla legge al pubblico ministero nella materia civile trattata dal pretore. Restano ferme le disposizioni di cui al [regio decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238), per quanto concerne le attribuzioni del pretore nella materia dello stato civile.".
 
 2.
 
-Al [comma 1 dell'articolo 72 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_72-com1), come modificato dall'[articolo 1 del decreto legislativo 2 febbraio 1990, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-02-02;15#art_1), e' aggiunto, in fine, il seguente periodo: 
+Al [comma 1 dell'articolo 72 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_72-com1), come modificato dall'[articolo 1 del decreto legislativo 2 febbraio 1990, n. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20agli%20articoli%2071%20e%2072%20del%20regio%20decreto%2030%20gennaio%201941%20n.%2012%20come%20sostituiti%20rispettivamente%20dagli%20articoli%2021%20e%2022%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre_797cb8c4dcac.md), e' aggiunto, in fine, il seguente periodo: 
  "Il procuratore della Repubblica presso la pretura puo' altresi' delegare nominativamente uditori giudiziari e vice procuratori onorari allo svolgimento delle funzioni nella materia civile.".
 
 3.
 
-All'[articolo 34 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_34), come sostituito dall'[articolo 6 del decreto del Presidente della Repubblica 22 settembre 1988, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;449#art_6), dopo il comma 2 e' aggiunto il seguente: 
+All'[articolo 34 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_34), come sostituito dall'[articolo 6 del decreto del Presidente della Repubblica 22 settembre 1988, n. 449](../DPR/Approvazione%20delle%20norme%20per%20ladeguamento%20dellordinamento%20giudiziario%20al%20nuovo%20processo%20penale%20ed%20a%20quello%20a%20carico%20degli%20imputati%20minorenni.md), dopo il comma 2 e' aggiunto il seguente: 
  "2- bis. Il pretore puo' delegare nominativamente vice pretori onorari allo svolgimento delle funzioni nella materia dello stato civile.".
 
 4.
 
-Ai vice procuratori onorari e ai vice pretori onorari delegati allo svolgimento delle funzioni indicate nei commi 2 e 3 e' corrisposta l'indennita' di cui all'[articolo 4 del decreto legislativo 28 luglio 1989, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;273#art_4), per ogni giorno impiegato.
+Ai vice procuratori onorari e ai vice pretori onorari delegati allo svolgimento delle funzioni indicate nei commi 2 e 3 e' corrisposta l'indennita' di cui all'[articolo 4 del decreto legislativo 28 luglio 1989, n. 273](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre%201988%20n.%20449%20recante%20norme%20per%20ladeguamento%20dellordinamento%20giudiziario%20al%20nuovo_65e6f1b0944a.md), per ogni giorno impiegato.
 
 5.
 

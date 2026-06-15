@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'articolo 366 del vigente [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo e' abrogato. 
+L'articolo 366 del vigente [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo e' abrogato. 
  
  I tribunali ordinari sono sostituiti ai tribunali militari marittimi nella cognizione dei reati commessi dai condannati ai lavori forzati, secondo le regole di competenza stabilite dal Codice di procedura comune.
 

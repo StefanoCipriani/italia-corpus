@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° dicembre 1930, n. 1682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-01;1682), che reca norme riguardanti l'obbligatorieta' delle concimaie, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 1° dicembre 1930, n. 1682](Norme%20riguardanti%20lobbligatorieta%20delle%20concimaie.%20030U1682.md), che reca norme riguardanti l'obbligatorieta' delle concimaie, con le seguenti modificazioni: 
  
  Agli articoli 1 e 4, alle parole «tre anni», sono sostituite le parole «cinque anni». 
  

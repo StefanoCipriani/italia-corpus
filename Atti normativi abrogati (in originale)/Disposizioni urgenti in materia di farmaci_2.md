@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di consentire una piu' agevole applicazione delle nuove norme in materia farmaceutica introdotte dalla [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), collegata alla legge finanziaria 1994;
+Ritenuta la straordinaria necessita' ed urgenza di consentire una piu' agevole applicazione delle nuove norme in materia farmaceutica introdotte dalla [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), collegata alla legge finanziaria 1994;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 febbraio 1994;
 

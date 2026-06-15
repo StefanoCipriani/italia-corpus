@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 12 marzo 1908, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-03-12;151), che approva il regolamento per l'esecuzione della [legge 11 luglio 1907, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-11;502), contenente provvedimenti per la citta' di Roma; 
+ Visto il [R. decreto 12 marzo 1908, n. 151](Che%20approva%20il%20regolamento%20di%20esecuzione%20alla%20legge%2011%20luglio%201907%20n.%20502%20portante%20provvedimenti%20per%20la%20citta%20di%20Roma.%20008U0151.md), che approva il regolamento per l'esecuzione della [legge 11 luglio 1907, n. 502](Provvedimenti%20per%20la%20citta%20di%20Roma.%20007U0502.md), contenente provvedimenti per la citta' di Roma; 
  
  Udito il parere del Consiglio di Stato; 
  
@@ -32,9 +32,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- All'[art. 46 del regolamento 12 marzo 1908, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-03-12;151#art_46), per l'esecuzione della [legge 11 luglio 1907, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-11;502), contenente provvedimenti per la citta' di Roma, sono aggiunti i seguenti comma, tra il secondo ed il terzo: 
+ All'[art. 46 del regolamento 12 marzo 1908, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-03-12;151#art_46), per l'esecuzione della [legge 11 luglio 1907, n. 502](Provvedimenti%20per%20la%20citta%20di%20Roma.%20007U0502.md), contenente provvedimenti per la citta' di Roma, sono aggiunti i seguenti comma, tra il secondo ed il terzo: 
  
- «La Giunta provinciale amministrativa, con l'intervento dei due funzionari di cui all'[art. 7 della legge 15 luglio 1911, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-15;755#art_7), puo' autorizzare il Comune a ritenere dal prezzo le somme corrispondenti agli utili derivanti dalle singole vendite e determinati in base a tutti gli elementi che costituiscono il costo delle aree, avuto presente che, ad alienazione terminata, sia ricostituito, mediante versamenti nel conto corrente di cui ai due primi comma che precedono, il residuo dei mutui concessi. 
+ «La Giunta provinciale amministrativa, con l'intervento dei due funzionari di cui all'[art. 7 della legge 15 luglio 1911, n. 755](Recante%20provvedimenti%20per%20la%20citta%20di%20Roma.%20011U0755.md), puo' autorizzare il Comune a ritenere dal prezzo le somme corrispondenti agli utili derivanti dalle singole vendite e determinati in base a tutti gli elementi che costituiscono il costo delle aree, avuto presente che, ad alienazione terminata, sia ricostituito, mediante versamenti nel conto corrente di cui ai due primi comma che precedono, il residuo dei mutui concessi. 
  
  «Di volta in volta la Giunta provinciale amministrativa indica quale parte del prezzo deve essere versata nel conto corrente e quale altra puo' essere versata nella Cassa comunale». 
  

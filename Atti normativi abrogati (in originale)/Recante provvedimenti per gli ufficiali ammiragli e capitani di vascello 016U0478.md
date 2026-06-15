@@ -16,7 +16,7 @@ I vice ammiragli, i contrammiragli ed i capitani di vascello i quali raggiungano
 
 Gli ufficiali previsti dal precedente articolo possono concorrere alla promozione ed essere promossi a termini delle disposizioni vigenti per l'avanzamento, indipendentemente dalla loro posizione rispetto al quadro organico. 
  
- Anche se promossi, essi rimarranno pero' sempre fuori del rispettivo quadro organico; ed in ogni caso cesseranno dal servizio attivo permanente non oltre il limite di eta' fissato dalla [legge 29 gennaio 1885, numero 2897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-29;2897), serie 3ª, pel grado col quale furono inizialmente collocati fuori quadro.
+ Anche se promossi, essi rimarranno pero' sempre fuori del rispettivo quadro organico; ed in ogni caso cesseranno dal servizio attivo permanente non oltre il limite di eta' fissato dalla [legge 29 gennaio 1885, numero 2897](Che%20stabilisce%20per%20gli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marineria%20la%20posizione%20di%20servizio%20ausiliario.%20085U2897.md), serie 3ª, pel grado col quale furono inizialmente collocati fuori quadro.
 
 ## Art. 3.
 

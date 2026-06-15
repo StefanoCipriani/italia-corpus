@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di
 
 Sono dichiarate di pubblica utilita' le opere necessarie per la Mostra triennale delle Terre italiane d'Oltremare, giusta il piano di massima 10 gennaio 1938, a firma Vincenzo Tecchio, che, munito del visto del Ministro Segretario di Stato per i lavori pubblici, sara' depositato all'Archivio di Stato. 
  I singoli piani particolareggiati di esecuzione saranno approvati con decreto Reale su proposta del Ministro per i lavori pubblici di concerto con i Ministri Segretari di Stato per l'interno, per l'Africa Italiana, per le finanze e per l'educazione nazionale, previo parere del Consiglio superiore dei lavori pubblici, del Consiglio superiore di sanita' e di quello delle Antichita' e Belle arti e previa osservanza degli [articoli 16 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
- Le opere predette potranno essere dichiarate urgenti ed indifferibili a termini dell'[art. 39 del R. decreto 8 febbraio 1923, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;422#art_39).
+ Le opere predette potranno essere dichiarate urgenti ed indifferibili a termini dell'[art. 39 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md).
 
 ## Art. 2.
 

@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
 
-Visto il [R. decreto 6 giugno 1925, n. 1084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-06;1084);
+Visto il [R. decreto 6 giugno 1925, n. 1084](Regolamento%20per%20gli%20istituti%20privati%20e%20pareggiati%20di%20istruzione%20media%20e%20per%20la%20creazione%20regificazione%20e%20trasformazione%20di%20scuole.%20025U1084.md);
 
-Visto il [R. decreto 9 dicembre 1926, n. 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-12-09;2480);
+Visto il [R. decreto 9 dicembre 1926, n. 2480](Regolamento%20per%20i%20concorsi%20a%20cattedre%20nei%20Regi%20istituti%20medi%20distruzione%20e%20per%20le%20abilitazioni%20allesercizio%20professionale%20dellinsegnamento%20medio.%20026U2480.md);
 
-Visto il [R. decreto 28 settembre 1934, n. 1680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-28;1680);
+Visto il [R. decreto 28 settembre 1934, n. 1680](Norme%20per%20la%20nomina%20dei%20presidi%20e%20direttori%20dei%20Regi%20istituti%20e%20delle%20Regie%20scuole%20distruzione%20media%20tecnica.%20034U1680.md);
 
 Visto il [R. decreto 16 ottobre 1934, n. 1840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;1840);
 
@@ -40,7 +40,7 @@ Sulla proposta del Nostro Ministro Segretario Stato per la pubblica istruzione; 
 
 Sono abrogate tutte le disposizioni di leggi e regolamenti che escludono le donne dalla nomina a dirigente od insegnante di istituti medi di istruzione di primo e di secondo grado, e di scuole medie, di istituti medi pareggiati, di Regie scuole o Regi istituti di istruzione media tecnica; dalla nomina ad insegnante di alcune materie nei licei e negli istituti di istruzione tecnica; dagli esami di abilitazione a tali insegnamenti; dai concorsi a tali cattedre, nonche' dalla nomina ad assistente, capo officina e sottocapo officina nei Regi istituti e nelle Regie scuole tecniche industriali; segretario nei Regi istituti e nelle Regie scuole tecniche, industriali e commerciali; tecnico agrario, segretario, censore e prefetto di disciplina nei Regi istituti e nelle Regie scuole tecniche agrarie. 
  
- Cessano pertanto di aver vigore i divieti di cui all'[art. 12 secondo comma del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_12-com2); all'[art. 50 secondo comma del R. decreto 6 giugno 1925, n. 1084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-06;1084#art_50-com2); all'[art. 11 del R. decreto 9 dicembre 1926, n. 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-12-09;2480#art_11); all'art. 6 terzo comma del decreto 28 settembre 1934, n. 1680; all'art. 10 del [R. decreto 16 ottobre 1934, n. 1840; all'art. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;1840#art_9) ultimo comma della [legge 1° luglio 1940, n. 899](Istituzione%20della%20Scuola%20media.%20040U0899.md).
+ Cessano pertanto di aver vigore i divieti di cui all'[art. 12 secondo comma del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_12-com2); all'[art. 50 secondo comma del R. decreto 6 giugno 1925, n. 1084](Regolamento%20per%20gli%20istituti%20privati%20e%20pareggiati%20di%20istruzione%20media%20e%20per%20la%20creazione%20regificazione%20e%20trasformazione%20di%20scuole.%20025U1084.md); all'[art. 11 del R. decreto 9 dicembre 1926, n. 2480](Regolamento%20per%20i%20concorsi%20a%20cattedre%20nei%20Regi%20istituti%20medi%20distruzione%20e%20per%20le%20abilitazioni%20allesercizio%20professionale%20dellinsegnamento%20medio.%20026U2480.md); all'art. 6 terzo comma del decreto 28 settembre 1934, n. 1680; all'art. 10 del [R. decreto 16 ottobre 1934, n. 1840; all'art. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;1840#art_9) ultimo comma della [legge 1° luglio 1940, n. 899](Istituzione%20della%20Scuola%20media.%20040U0899.md).
 
 ## Art. 2.
 

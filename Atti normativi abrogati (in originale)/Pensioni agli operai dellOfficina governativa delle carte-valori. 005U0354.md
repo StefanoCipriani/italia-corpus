@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli operai e le operaie dell'officina governativa delle carte-valori, compresi gli assistenti-controllori, scrivani e contatori della carta, di cui alla tabella C, allegata al [R. decreto 22 ottobre 1903, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-10-22;438), che si troveranno in servizio al momento della pubblicazione della presente legge, acquistano il diritto a pensione: 
+Gli operai e le operaie dell'officina governativa delle carte-valori, compresi gli assistenti-controllori, scrivani e contatori della carta, di cui alla tabella C, allegata al [R. decreto 22 ottobre 1903, n. 438](Che%20modifica%20il%20ruolo%20organico%20dellOfficina%20governativa%20carte-valori.%20003U0438.md), che si troveranno in servizio al momento della pubblicazione della presente legge, acquistano il diritto a pensione: 
  
  a) gli operai quando abbiano compiuti 60 anni; le operaie quando ne abbiano compiuti 55; 
  
@@ -34,7 +34,7 @@ La pensione annua dell'operaio che abbia raggiunti i 25 anni di servizio sara' l
 
 Questo moltiplicatore sara' aumentato di tre unita' per ogni anno di servizio oltre i 25 fino ai 45 e di sei unita' per ogni anno oltre i 45. 
  
- In nessun caso la pensione delle operaie potra' essere inferiore a L. 300 annue e quella degli operai a L. 480, e sara' sempre equiparata, per gli effetti dell'esenzione dall'imposta sui redditi di ricchezza mobile, alle rendite vitalizie liquidate dalla Cassa nazionale di previdenza per l'invalidita' e la vecchiaia degli operai, a norma del disposto dell'art. 24 del testo unico di legge sulla Cassa stessa, approvato con [R. decreto 28 luglio 1901, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-07-28;387).
+ In nessun caso la pensione delle operaie potra' essere inferiore a L. 300 annue e quella degli operai a L. 480, e sara' sempre equiparata, per gli effetti dell'esenzione dall'imposta sui redditi di ricchezza mobile, alle rendite vitalizie liquidate dalla Cassa nazionale di previdenza per l'invalidita' e la vecchiaia degli operai, a norma del disposto dell'art. 24 del testo unico di legge sulla Cassa stessa, approvato con [R. decreto 28 luglio 1901, n. 387](Approvante%20il%20Testo%20unico%20della%20legge%20sulla%20Cassa%20Nazionale%20di%20previdenza%20per%20la%20invalidita%20e%20per%20la%20vecchiaia%20degli%20operai.%20001U0387.md).
 
 ## Art. 4.
 

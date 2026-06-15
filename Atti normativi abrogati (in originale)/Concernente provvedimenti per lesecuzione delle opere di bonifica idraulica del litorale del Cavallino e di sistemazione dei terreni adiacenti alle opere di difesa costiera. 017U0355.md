@@ -31,7 +31,7 @@ I Ministeri della guerra e della marina sono autorizzati ad eseguire a loro spes
 
 ## Art. 5.
 
-Le opere di bonifica idraulica ed agraria nonche' quelle occorrenti alla difesa militare della zona litoranea del Cavallino sono dichiarate di pubblica utilita' e sono considerate urgenti ed indifferibili agli effetti degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_71), modificata dalla [legge 18 dicembre 1879, numero 5188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-18;5188). 
+Le opere di bonifica idraulica ed agraria nonche' quelle occorrenti alla difesa militare della zona litoranea del Cavallino sono dichiarate di pubblica utilita' e sono considerate urgenti ed indifferibili agli effetti degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), modificata dalla [legge 18 dicembre 1879, numero 5188](Che%20approva%20alcune%20modificazioni%20alla%20legge%20sulle%20espropriazioni%20per%20pubblica%20utilita%20del%2025%20giugno%201865%20n.%202359.%20079U5188.md). 
  
  Le espropriazioni occorrenti saranno promosse, secondo la rispettiva competenza, dallo stesso comando del genio della fortezza di Venezia o dal comandante in capo del dipartimento di Venezia.
 

@@ -16,13 +16,13 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 8 agosto 1895, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;556), sui proventi delle cancellerie giudiziarie;
+Vista la [legge 8 agosto 1895, n. 556](Sui%20proventi%20delle%20cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20095U0556.md), sui proventi delle cancellerie giudiziarie;
 
 Vista legge 27 giugno 1942, M. 841;
 
 Visto il [decreto legislativo Luogotenenziale 7 settembre 1944, n. 277](Aumento%20dei%20diritti%20spettanti%20alle%20cancellerie%20degli%20uffici%20giudiziari%20del%20Regno.%20044U0277.md);
 
-Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e [29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e [29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -32,7 +32,7 @@ Vista la deliberazione del Consiglio dei Ministri; Sulla proposta del Ministro p
 
 Per la durata dell'attuale stato di guerra la misura dei diritti spettanti alle cancellerie giudiziarie del Regno, stabilita dall'articolo unico del [decreto legislativo Luogotenenziale 7 settembre 1944, n. 277](Aumento%20dei%20diritti%20spettanti%20alle%20cancellerie%20degli%20uffici%20giudiziari%20del%20Regno.%20044U0277.md), e' raddoppiata. 
  
- E' altresi', raddoppiato il decimo spettante ai cancellieri sulle somme da essi recuperate a norma dell'[art. 5 della legge 8 agosto 1895, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;556#art_5), e sono abrogate, rispetto allo stesso decimo, le disposizioni dei [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561).
+ E' altresi', raddoppiato il decimo spettante ai cancellieri sulle somme da essi recuperate a norma dell'[art. 5 della legge 8 agosto 1895, n. 556](Sui%20proventi%20delle%20cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20095U0556.md), e sono abrogate, rispetto allo stesso decimo, le disposizioni dei [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561).
 
 ## Art. 2.
 

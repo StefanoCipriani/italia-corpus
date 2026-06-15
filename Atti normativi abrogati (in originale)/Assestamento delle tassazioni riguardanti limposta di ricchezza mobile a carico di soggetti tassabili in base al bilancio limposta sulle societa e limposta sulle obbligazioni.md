@@ -20,7 +20,7 @@ Le disposizioni degli articoli 3, comma terzo, e 4 del testo unico approvato con
 
 ## Art. 2.
 
-L'imposta sui redditi di ricchezza mobile delle categorie A e B liquidata secondo le norme dell'[art. 2 del decreto Presidenziale 4 novembre 1951, n. 1582](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-11-04;1582#art_2), sui bilanci chiusi nel corso dell'anno 1952 e' nuovamente liquidata tenendo conto del periodo d'imposta costituito dall'esercizio sociale considerato dai bilanci medesimi.
+L'imposta sui redditi di ricchezza mobile delle categorie A e B liquidata secondo le norme dell'[art. 2 del decreto Presidenziale 4 novembre 1951, n. 1582](../DPR/Disposizioni%20per%20la%20formazione%20dei%20ruoli%20delle%20imposte%20dirette%20per%20il%20primo%20semestre%201952.md), sui bilanci chiusi nel corso dell'anno 1952 e' nuovamente liquidata tenendo conto del periodo d'imposta costituito dall'esercizio sociale considerato dai bilanci medesimi.
  La disposizione del comma precedente ha effetto anche per le imposte, sovrimposte e contributi di qualsiasi specie indicati nell'[art. 3 della legge 16 giugno 1939, n. 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md).
 
 ## Art. 3.

@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici; Abbiamo d
 
 ## Articolo unico.
 
-Il termine fissato con la [legge 15 febbraio 1903, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-02-15;65), per la esecuzione del piano regolatore della citta' di Genova nella zona ai piedi e sulla pendice occidentale della collina di San Francesco di Albaro, e' prorogato di anni dieci. 
+Il termine fissato con la [legge 15 febbraio 1903, n. 65](Che%20approva%20il%20piano%20di%20ampliamento%20della%20citta%20di%20Genova%20in%20aggiunta%20e%20modificazione%20del%20piano%20regolatore%20e%20di%20ampliamento%20della%20citta%20dal%20lato%20orientale%20vigente%20per%20la%20legge%2020%20giugno%201_eb296179b92c.md), per la esecuzione del piano regolatore della citta' di Genova nella zona ai piedi e sulla pendice occidentale della collina di San Francesco di Albaro, e' prorogato di anni dieci. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

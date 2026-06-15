@@ -26,7 +26,7 @@ Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Visto il [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;518);
+Visto il [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md);
 
 Visti i decreti Ministeriali n. 470 e [471, in data 9 agosto 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1945-08-09;471), registrati alla Corte dei conti il 5 settembre 1945, registro n. 8, fogli n. 75 e 76;
 
@@ -63,7 +63,7 @@ Le prove di esame consisteranno in due prove scritte, in una prova orale ed in u
  Le prove scritte verteranno nelle seguenti materie:
  1) svolgimento di un tema di cultura generale;
  2) svolgimento di un tema di cultura professionale sulle seguenti materie:
- a) [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398); [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) (dell'azione penale in generale - Attribuzioni e compiti della polizia giudiziaria - Cenni sull'ordinamento giudiziario);
+ a) [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) (dell'azione penale in generale - Attribuzioni e compiti della polizia giudiziaria - Cenni sull'ordinamento giudiziario);
  b) [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) e relativo regolamento.
  Le prove orali verteranno, oltre che sulle materie delle prove scritte, sulle seguenti altre materie:
  3) [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) (disposizioni sull'applicazione delle leggi in generale e libro I);
@@ -82,7 +82,7 @@ Le prove di esame consisteranno in due prove scritte, in una prova orale ed in u
 
 ## Art. 7.
 
-I patrioti combattenti ed i benemeriti della guerra di liberazione dovranno produrre il documento comprovante il possesso di tali qualifiche rilasciato ai sensi del [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;518).
+I patrioti combattenti ed i benemeriti della guerra di liberazione dovranno produrre il documento comprovante il possesso di tali qualifiche rilasciato ai sensi del [decreto legislativo Luogotenenziale 21 agosto 1945, n. 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md).
 
 ## Art. 8.
 

@@ -217,7 +217,7 @@ d) l'intero provento derivante dalle ammende e dalle penali inflitte al personal
 e) gli eventuali avanzi del fondo costituito con l'articolo 2 del R. decreto-legge 21 ottobre 1938-XVI, n. 1923, convertito nella legge 2 giugno 1939-XVII, n. 739. 
  I contributi di cui alla lettera a) possono essere elevati con decreto del Ministro per le comunicazioni d'intesa col Ministro per le finanze, su proposta del presidente dell'Istituto, sentito il Consiglio di amministrazione. 
  
- Sono abrogati, limitatamente ai ricevitori postali e telegrafici, l'[art. 18 del R. decreto-legge 3 gennaio 1926, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-03;37#art_18), convertito nella legge 24 maggio 1926-IV, n. 898, e il R. decreto-legge 28 maggio 1936-XIV, n. 1047, convertito nella legge 31 dicembre 1936-XV, n. 2408.
+ Sono abrogati, limitatamente ai ricevitori postali e telegrafici, l'[art. 18 del R. decreto-legge 3 gennaio 1926, n. 37](Costituzione%20dellIstituto%20di%20assicurazione%20e%20previdenza%20per%20i%20titolari%20degli%20uffici%20secondari%20per%20i%20ricevitori%20postali%20telegrafici%20e%20per%20gli%20agenti%20rurali.%20026U0037.md), convertito nella legge 24 maggio 1926-IV, n. 898, e il R. decreto-legge 28 maggio 1936-XIV, n. 1047, convertito nella legge 31 dicembre 1936-XV, n. 2408.
 
 ## Indennita' di licenziamento ai supplenti e gerenti.
 

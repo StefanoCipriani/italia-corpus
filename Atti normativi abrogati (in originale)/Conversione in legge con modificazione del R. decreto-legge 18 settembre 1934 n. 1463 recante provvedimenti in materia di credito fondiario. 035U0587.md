@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 settembre 1934, n. 1463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-18;1463), recante provvedimenti in materia di credito fondiario, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 18 settembre 1934, n. 1463](Provvedimenti%20in%20materia%20di%20credito%20fondiario.%20034U1463.md), recante provvedimenti in materia di credito fondiario, con la seguente modificazione: 
  
  Al 5° comma dell'art. 9, e' sostituito il seguente: 
  

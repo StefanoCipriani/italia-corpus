@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° ottobre 1931, n. 1328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-01;1328), con il quale e' stato approvato il progetto di piano regolatore e di risanamento per la costruzione dell'imbocco di via Roma, verso la stazione ferroviaria centrale, nella citta' di Palermo. 
+ E' convertito in legge il [R. decreto-legge 1° ottobre 1931, n. 1328](Approvazione%20del%20piano%20regolatore%20e%20di%20risanamento%20per%20la%20costruzione%20dellimbocco%20della%20via%20Roma%20nella%20citta%20di%20Palermo.%20031U1328.md), con il quale e' stato approvato il progetto di piano regolatore e di risanamento per la costruzione dell'imbocco di via Roma, verso la stazione ferroviaria centrale, nella citta' di Palermo. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 28 dicembre 1931 - Anno X 
  

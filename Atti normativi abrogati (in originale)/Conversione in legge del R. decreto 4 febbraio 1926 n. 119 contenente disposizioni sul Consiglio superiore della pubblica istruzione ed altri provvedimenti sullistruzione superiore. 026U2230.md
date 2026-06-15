@@ -44,7 +44,7 @@ I membri del Consiglio superiore della pubblica istruzione restano in ufficio pe
  
  I [commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_4-com1) e [terzo dell'art. 4 del R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_4-com3), sono sostituiti rispettivamente dai seguenti: 
  
- «Quando trattisi di provvedere a cattedre di Facolta' e Scuole speciali che non appartengano a quelle indicate nei [commi 2°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_2-com2) e [3° dell'articolo 2 del Regio decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_2-com3), il Ministro, su proposta della Giunta del Consiglio superiore della pubblica istruzione, indica da quali Facolta', Scuole o Istituti debbano essere fatte le designazioni di cui agli articoli precedenti». 
+ «Quando trattisi di provvedere a cattedre di Facolta' e Scuole speciali che non appartengano a quelle indicate nei [commi 2°](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e [3° dell'articolo 2 del Regio decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), il Ministro, su proposta della Giunta del Consiglio superiore della pubblica istruzione, indica da quali Facolta', Scuole o Istituti debbano essere fatte le designazioni di cui agli articoli precedenti». 
  
  «La Regia scuola di architettura di Roma prende parte alle designazioni per le Scuole d'ingegneria. Alle designazioni per la Scuola di architettura predetta prendono parte, oltre la Scuola stessa, le Scuole d'ingegneria. Gli Istituti superiori di magistero prendono parte alle designazioni per le Facolta' di lettere e filosofia. Queste ultime Facolta' partecipano alle designazioni per gli Istituti superiori di magistero». 
  
@@ -54,7 +54,7 @@ I membri del Consiglio superiore della pubblica istruzione restano in ufficio pe
  
  Art. 6. 
  
- Il [primo comma dell'art. 92 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_92-com1), e' sostituito dal seguente: 
+ Il [primo comma dell'art. 92 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
  
  «Sono ammessi trasferimenti di professori di ruolo dall'uno all'altro degli Istituti superiori di magistero Regi o pareggiati e da questi a Universita' o Istituti, Regi o liberi e viceversa. I professori degli Istituti superiori di magistero pareggiati potranno tuttavia essere trasferiti solo quando trovinsi nelle condizioni stabilite dall'[art. 52 del R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_52)». 
  
@@ -96,7 +96,7 @@ I membri del Consiglio superiore della pubblica istruzione restano in ufficio pe
  
  Art. 11. 
  
- All'[art. 70 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_70), modificato dall'[art. 13 del R. decreto-legge 25 settembre 1924, n. 1585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-09-25;1585#art_13), e' sostituito il seguente: 
+ All'[art. 70 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), modificato dall'[art. 13 del R. decreto-legge 25 settembre 1924, n. 1585](Disposizioni%20concernenti%20listruzione%20superiore.%20024U1585.md), e' sostituito il seguente: 
  
  «Il rendiconto consuntivo e i conti di tutte le gestioni speciali sono dal presidente del Consiglio di amministrazione trasmessi direttamente alla Corte dei conti per l'esame amministrativo e la dichiarazione di regolarita'. 
  
@@ -124,7 +124,7 @@ I membri del Consiglio superiore della pubblica istruzione restano in ufficio pe
  
  Per i cinque anni successivi alla data di pubblicazione del presente decreto non e' consentita l'istituzione di Universita' o Istituti superiori di qualsiasi tipo, di Facolta' o Scuole, di Istituti superiori di magistero Regi o pareggiati, salvo l'approvazione delle proposte di variazione agli statuti rassegnate regolarmente al Ministro entro il termine di cui All'art. 19 del presente decreto. 
  
- Sara' inoltre consentita la istituzione di nuove Facolta' o Scuole presso la Regia universita' di Bari e di una Facolta' di medicina nella libera Universita' di Ferrara, con le norme stabilite dal [R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102), e sue successive modificazioni. 
+ Sara' inoltre consentita la istituzione di nuove Facolta' o Scuole presso la Regia universita' di Bari e di una Facolta' di medicina nella libera Universita' di Ferrara, con le norme stabilite dal [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e sue successive modificazioni. 
  
  Art. 16. 
  

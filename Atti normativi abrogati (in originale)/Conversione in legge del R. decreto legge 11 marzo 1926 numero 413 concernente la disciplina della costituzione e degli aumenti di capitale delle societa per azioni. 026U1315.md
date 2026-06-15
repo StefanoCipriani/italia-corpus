@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 11 marzo 1926, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-11;413), che disciplina la costituzione e gli aumenti di capitale delle societa' per azioni. 
+ E' convertito in legge il [R. decreto legge 11 marzo 1926, n. 413](Disciplina%20della%20costituzione%20e%20degli%20aumenti%20di%20capitale%20delle%20Societa%20per%20azioni.%20026U0413.md), che disciplina la costituzione e gli aumenti di capitale delle societa' per azioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

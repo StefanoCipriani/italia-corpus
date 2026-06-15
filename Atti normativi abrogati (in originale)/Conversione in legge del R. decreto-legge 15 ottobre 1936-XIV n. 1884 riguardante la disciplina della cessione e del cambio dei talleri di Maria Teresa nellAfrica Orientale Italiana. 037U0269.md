@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 ottobre 1936, n. 1884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-10-15;1884), riguardante la disciplina della cessione e del cambio dei talleri di Maria Teresa nell'Africa Orientale Italiana. 
+ E' convertito in legge il [R. decreto-legge 15 ottobre 1936, n. 1884](Disciplina%20della%20cessione%20e%20del%20cambio%20dei%20talleri%20di%20Maria%20Teresa%20nellAfrica%20Orientale%20Italiana.%20036U1884.md), riguardante la disciplina della cessione e del cambio dei talleri di Maria Teresa nell'Africa Orientale Italiana. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

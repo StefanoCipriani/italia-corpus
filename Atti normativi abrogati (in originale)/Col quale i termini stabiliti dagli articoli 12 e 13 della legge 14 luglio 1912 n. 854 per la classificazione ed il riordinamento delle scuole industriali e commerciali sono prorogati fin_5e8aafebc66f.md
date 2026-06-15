@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge n. 854 del 14 luglio 1912](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854) che provvede al riordinamento dell'istruzione professionale;
+Vista la [legge n. 854 del 14 luglio 1912](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md) che provvede al riordinamento dell'istruzione professionale;
 
 Visto il [R. decreto in data 3 gennaio 1915, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-03;4), col quale vennero prorogati i termini stabiliti dagli articoli 12 e 13 della legge predetta;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, l'industria e
 
 ## Art. 1.
 
-I termini stabiliti dagli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854#art_12) e [13 della legge 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854#art_13), e prorogati con il [R. decreto del 3 gennaio 1915, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-03;4), per la classificazione ed il riordinamento delle scuole industriali e commerciali sono prorogati fino al 31 dicembre 1916.
+I termini stabiliti dagli [articoli 12](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md) e [13 della legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), e prorogati con il [R. decreto del 3 gennaio 1915, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-03;4), per la classificazione ed il riordinamento delle scuole industriali e commerciali sono prorogati fino al 31 dicembre 1916.
 
 ## Art. 2.
 

@@ -80,7 +80,7 @@ Qualora particolari esigenze di determinati rami di produzione lo richiedano, se
  
  In ogni caso, coloro che, posteriormente alla costituzione del Consorzio, inizino una attivita' da questo regolata sono di pieno diritto sottoposti alla disciplina del Consorzio medesimo. 
  
- Restano ferme le disposizioni del [R. decreto-legge 18 novembre 1929, n. 2488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-18;2488), concernente la fabbricazione di prodotti essenziali per la difesa dello Stato e quelle del [R. decreto-legge 3 novembre 1927, n. 2107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-03;2107), riguardante l'impianto di stabilimenti industriali.
+ Restano ferme le disposizioni del [R. decreto-legge 18 novembre 1929, n. 2488](Disciplina%20della%20fabbricazione%20di%20prodotti%20essenziali%20alla%20difesa%20dello%20Stato.%20029U2488.md), concernente la fabbricazione di prodotti essenziali per la difesa dello Stato e quelle del [R. decreto-legge 3 novembre 1927, n. 2107](Norme%20per%20limpianto%20di%20stabilimenti%20industriali.%20027U2107.md), riguardante l'impianto di stabilimenti industriali.
 
 ## Art. 9.
 

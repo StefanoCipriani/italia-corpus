@@ -16,13 +16,13 @@ Vista la [direttiva 97/51/CE del Parlamento europeo e del Consiglio del 6 ottobr
 
 Vista la [direttiva 98/10/CE del Parlamento europeo e del Consiglio del 26 febbraio 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;10), sull'applicazione del regime di fornitura di una rete aperta (ONP) alla telefonia vocale e sul servizio universale delle telecomunicazioni in un ambiente concorrenziale;
 
-Visto il [decreto-legge 1 maggio 1997, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-05-01;115), convertito, con modificazioni, dalla [legge 1 luglio 1997, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-01;189), recante recepimento della [direttiva 96/2/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;2) sulle comunicazioni mobili e personali;
+Visto il [decreto-legge 1 maggio 1997, n. 115](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20direttiva%2096-2-CE%20sulle%20comunicazioni%20mobili%20e%20personali.md), convertito, con modificazioni, dalla [legge 1 luglio 1997, n. 189](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20maggio%201997%20n.%20115%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20direttiva%2096-2-CE%20sulle%20comunicazioni%20mobili%20e%20personali.md), recante recepimento della [direttiva 96/2/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;2) sulle comunicazioni mobili e personali;
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Visto l'[articolo 1, comma 2, del decreto-legge 23 ottobre 1996, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-23;545#art_1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1996, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650);
+Visto l'[articolo 1, comma 2, del decreto-legge 23 ottobre 1996, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-23;545#art_1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1996, n. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20545%20recante%20disposizioni%20urgenti%20per%20lesercizio%20dellattivita%20radiotelevisiva.%20Interventi%20per%20il%20riordino%20della%20_45a184592461.md);
 
-Vista la [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), riguardante la tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali;
+Vista la [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), riguardante la tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali;
 
 Vista la [legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249), riguardante l'istituzione dell'Autorita' per le garanzie nelle comunicazioni e norme sui sistemi delle telecomunicazioni e radiotelevisivo;
 
@@ -510,7 +510,7 @@ Note all'art. 19:
 
 1.
 
-Le disposizioni del presente articolo sono subordinate alle disposizioni della pertinente normativa in materia di protezione dei dati personali e della vita privata nel settore delle telecomunicazioni, in particolare della [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), e del [decreto legislativo 13 maggio 1998, n. 171](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20in%20materia%20di%20tutela%20della%20vita%20privata%20nel%20settore%20delle%20telecomunicazioni%20in%20attuazione%20della%20direttiva%2097-66-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20ed%20in%20tema%20di%20attivi_60a31c37f102.md).
+Le disposizioni del presente articolo sono subordinate alle disposizioni della pertinente normativa in materia di protezione dei dati personali e della vita privata nel settore delle telecomunicazioni, in particolare della [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), e del [decreto legislativo 13 maggio 1998, n. 171](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20in%20materia%20di%20tutela%20della%20vita%20privata%20nel%20settore%20delle%20telecomunicazioni%20in%20attuazione%20della%20direttiva%2097-66-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20ed%20in%20tema%20di%20attivi_60a31c37f102.md).
 
 2.
 
@@ -531,7 +531,7 @@ Gli organismi di telecomunicazioni, nell'attribuire i numeri di telefono agli ab
 Gli organismi di telecomunicazioni, nel fornire i servizi di cui al comma 2, lettere b) e c), rispettano il principio di non discriminazione nel trattamento e nella presentazione delle informazioni.
 
 Note all'[art. 20:
- - La legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_20), reca: "Tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali".
+ - La legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), reca: "Tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali".
  - Il [decreto legislativo 13 maggio 1998, n. 171](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20in%20materia%20di%20tutela%20della%20vita%20privata%20nel%20settore%20delle%20telecomunicazioni%20in%20attuazione%20della%20direttiva%2097-66-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20ed%20in%20tema%20di%20attivi_60a31c37f102.md), reca: "Disposizioni in materia di tutela della vita privata nel settore delle telecomunicazioni, in attuazione della [direttiva 97/66/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;66), ed in tema di attivita' giornalistica".
 
 ### Art. 21. — Posti telefonici pubblici a pagamento

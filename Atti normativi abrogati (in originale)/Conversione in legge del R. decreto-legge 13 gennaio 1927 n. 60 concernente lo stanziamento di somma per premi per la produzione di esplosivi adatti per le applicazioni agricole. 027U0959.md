@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 gennaio 1927, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-13;60), concernente lo stanziamento di somma per premi per la produzione di esplosivi adatti per le applicazioni agricole. 
+ E' convertito in legge il [R. decreto-legge 13 gennaio 1927, n. 60](Stanziamento%20dl%20somma%20per%20premi%20e%20spese%20per%20la%20produzione%20di%20esplosivi%20adatti%20per%20applicazioni%20agricole.%20027U0060.md), concernente lo stanziamento di somma per premi per la produzione di esplosivi adatti per le applicazioni agricole. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

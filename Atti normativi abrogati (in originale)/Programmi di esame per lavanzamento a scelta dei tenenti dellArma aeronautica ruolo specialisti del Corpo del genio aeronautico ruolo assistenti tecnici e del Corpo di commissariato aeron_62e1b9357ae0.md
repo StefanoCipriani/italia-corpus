@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 25 del regio decreto-legge 28 gennaio 1935, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-28;314#art_25), che approva le norme relative al reclutamento ed all'avanzamento degli ufficiali dell'Aeronautica, convertito nella [legge 13 giugno 1935, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-13;1297), e successive modificazioni;
+Visto l'[art. 25 del regio decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), che approva le norme relative al reclutamento ed all'avanzamento degli ufficiali dell'Aeronautica, convertito nella [legge 13 giugno 1935, n. 1297](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20che%20approva%20le%20norme%20riguardanti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U1297.md), e successive modificazioni;
 
-Vista la [legge 5 luglio 1952, n. 989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-05;989), sul riordinamento di ruoli, quadri organici e nuovi limiti di eta' per la cessazione dal servizio permanente degli ufficiali dell'Aeronautica;
+Vista la [legge 5 luglio 1952, n. 989](Riordinamento%20di%20ruoli%20quadri%20organici%20e%20nuovi%20limiti%20di%20eta%20per%20la%20cessazione%20dal%20servizio%20permanente%20degli%20ufficiali%20dellaeronautica.md), sul riordinamento di ruoli, quadri organici e nuovi limiti di eta' per la cessazione dal servizio permanente degli ufficiali dell'Aeronautica;
 
 Udito il parere del Consiglio superiore delle Forze armate;
 

@@ -29,7 +29,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro di concerto con qu
 Per ulteriori spese straordinarie l'Amministrazione delle ferrovie dello Stato e' autorizzata ad assumere nuovi impegni per l'importo di lire cento milioni (L. 100.000.000). 
  
  Detta somma verra' stanziata per lire trenta milioni (L.
-30.000.000) nell'esercizio finanziario 1918-919 e per le residuali lire settanta milioni (L. 70.000.000) negli esercizi successivi, a seconda del bisogno ed entro il limite annuo di cui alla [legge 24 dicembre 1908, numero 731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;731).
+30.000.000) nell'esercizio finanziario 1918-919 e per le residuali lire settanta milioni (L. 70.000.000) negli esercizi successivi, a seconda del bisogno ed entro il limite annuo di cui alla [legge 24 dicembre 1908, numero 731](Provvedimenti%20per%20le%20spese%20ferroviarie%20viarie%20e%20per%20debiti%20redimibili.%20008U0731.md).
 
 ## Art. 2.
 

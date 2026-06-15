@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 dicembre 1933, n. 2417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-04;2417), che ha dato approvazione allo scambio di Note italo austriaco concernente il regime convenzionale dei legnami; scambio effettuato in Roma il 19 ottobre 1933. 
+ E' convertito in legge il [R. decreto-legge 4 dicembre 1933, n. 2417](Approvazione%20dello%20scambio%20di%20Note%20italo-austriaco%20concernente%20il%20regime%20convenzionale%20dei%20legnami%20scambio%20effettuato%20in%20Roma%20il%2019%20ottobre%201933.%20033U2417.md), che ha dato approvazione allo scambio di Note italo austriaco concernente il regime convenzionale dei legnami; scambio effettuato in Roma il 19 ottobre 1933. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

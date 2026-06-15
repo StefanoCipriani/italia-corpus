@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-24;1286), col quale si autorizza il contributo dell'Amministrazione autonoma dei monopoli di Stato alle spese per la costituzione ed il funzionamento dell'Ente per l'esportazione del tabacco italiano. 
+ E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1286](Contributo%20dellAmministrazione%20dei%20monopoli%20di%20Stato%20per%20la%20costituzione%20ed%20il%20funzionamento%20di%20un%20Ente%20per%20la%20esportazione%20del%20tabacco%20italiano.%20031U1286.md), col quale si autorizza il contributo dell'Amministrazione autonoma dei monopoli di Stato alle spese per la costituzione ed il funzionamento dell'Ente per l'esportazione del tabacco italiano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

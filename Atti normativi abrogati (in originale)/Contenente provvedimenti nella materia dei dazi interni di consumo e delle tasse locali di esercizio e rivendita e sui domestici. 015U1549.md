@@ -10,9 +10,9 @@ vigente: true
 
 ## Art. 1.
 
-Salvo le variazioni dipendenti dall'applicazione del successivo art. 2, i canoni daziari governativi, attualmente in corso a' termini della [legge 6 luglio 1905, numero 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-06;323), sono prorogati a tutto il 31 dicembre 1916. 
+Salvo le variazioni dipendenti dall'applicazione del successivo art. 2, i canoni daziari governativi, attualmente in corso a' termini della [legge 6 luglio 1905, numero 323](Relativa%20al%20consolidamento%20revisione%20e%20riscossione%20dei%20canoni%20daziari%20governativi.%20005U0323.md), sono prorogati a tutto il 31 dicembre 1916. 
  
- Sono del pari prorogate sino alla detta data le disposizioni contenute negli articoli 8, 9, 10, 11, 12 e 13 della legge succitata; quelle dell'[art. 10 della legge 12 gennaio 1909, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-01-12;12#art_10), modificato con la [legge 1° luglio 1909, n. 423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-01;423), salvo per i comuni di Messina e di Reggio Calabria quanto e' disposto dal successivo art. 3; le disposizioni delle [leggi 23 giugno 1912, n. 621, 8 giugno 1913, n. 600, 20 dicembre 1914, n. 1389 e dell'articolo 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-20;1389#art_8) del [R. decreto 21 gennaio 1915, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;27), convertito nella [legge 1° aprile 1915, n. 476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;476).
+ Sono del pari prorogate sino alla detta data le disposizioni contenute negli articoli 8, 9, 10, 11, 12 e 13 della legge succitata; quelle dell'[art. 10 della legge 12 gennaio 1909, n. 12](Concernente%20provvedimenti%20a%20sollievo%20dei%20danneggiali%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0012.md), modificato con la [legge 1° luglio 1909, n. 423](Modificazione%20del%20comma%203%20dellart.%2010%20della%20legge%2012%20gennaio%201909%20n.%2012%20relativa%20ai%20canoni%20governativi%20del%20dazio%20consumo%20dei%20Comuni%20danneggiati%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0423.md), salvo per i comuni di Messina e di Reggio Calabria quanto e' disposto dal successivo art. 3; le disposizioni delle [leggi 23 giugno 1912, n. 621, 8 giugno 1913, n. 600, 20 dicembre 1914, n. 1389 e dell'articolo 8](Con%20la%20quale%20viene%20disposto%20che%20dal%201%20luglio%201914%20dal%20canone%20daziario%20del%20comune%20di%20Bologna%20sia%20detratta%20la%20somma%20di%20L.%2038.21284%20a%20tacitazione%20di%20contestazione.%20014U1389.md) del [R. decreto 21 gennaio 1915, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;27), convertito nella [legge 1° aprile 1915, n. 476](Che%20converte%20in%20legge%2017%20decreti%20Reali%20recanti%20provvedimenti%20a%20favore%20dei%20paesi%20danneggiati%20dal%20terremoto%20del%2013%20gennaio%201915%20e%20porta%20modificazioni%20ai%20decreti%20stessi%20con%20laggiunta%20di%20altr_f19f0a26f386.md).
 Rimangono parimente in vigore fino al 31 dicembre 1916 tutti i provvedimenti emanati o da emanarsi in applicazione delle leggi summentovate.
 
 ## Art. 2.
@@ -23,11 +23,11 @@ I Comuni che nell'anno 1915 abbiano riscosso i dazi di consumo governativi a rig
  
  L'ammontare degli sgravi concessi a norma del presente articolo viene ripartito dalla detta Commissione a carico dei Comuni che nel triennio 1911-913 abbiano ricavato dalla gestione dei dazi governativi un guadagno medio effettivo eccedente il 50 per cento ed in proporzione del guadagno stesso, oltre il detto limite. 
  
- Il presente articolo non e' applicabile ai Comuni considerati nell'[art. 8 del R. decreto 21 gennaio 1915, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;27#art_8), convertito nella [legge 1° aprile 1915, n. 476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;476), per i quali sara' provveduto a termini della disposizione stessa.
+ Il presente articolo non e' applicabile ai Comuni considerati nell'[art. 8 del R. decreto 21 gennaio 1915, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;27#art_8), convertito nella [legge 1° aprile 1915, n. 476](Che%20converte%20in%20legge%2017%20decreti%20Reali%20recanti%20provvedimenti%20a%20favore%20dei%20paesi%20danneggiati%20dal%20terremoto%20del%2013%20gennaio%201915%20e%20porta%20modificazioni%20ai%20decreti%20stessi%20con%20laggiunta%20di%20altr_f19f0a26f386.md), per i quali sara' provveduto a termini della disposizione stessa.
 
 ## Art. 3.
 
-La sospensione del canone daziario governativo dei comuni di Messina e di Reggio Calabria, disposta dall'[art. 10 della legge 12 gennaio 1909, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-01-12;12#art_10), cessera' col 31 dicembre
+La sospensione del canone daziario governativo dei comuni di Messina e di Reggio Calabria, disposta dall'[art. 10 della legge 12 gennaio 1909, n. 12](Concernente%20provvedimenti%20a%20sollievo%20dei%20danneggiali%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0012.md), cessera' col 31 dicembre
 
 1915.
 
@@ -59,7 +59,7 @@ Nulla e' innovato a quanto dispongono le leggi vigenti per le gestioni daziarie 
 
 ## Art. 8.
 
-La tassa di esercizio e rivendita, di cui all'art. 1° della [legge 11 agosto 1870, n. 5784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784), allegato O), e all'[art. 13 della legge 23 gennaio 1902, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-01-23;25#art_13), allegato A), potra' essere applicata entro i limiti fissati dalla tabella seguente per il numero delle classi dei contribuenti e per le aliquote della tassa:
+La tassa di esercizio e rivendita, di cui all'art. 1° della [legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md), allegato O), e all'[art. 13 della legge 23 gennaio 1902, n. 25](Concernente%20sgravio%20di%20consumi%20ed%20altri%20provvedimenti%20finanziari%20002U0025.md), allegato A), potra' essere applicata entro i limiti fissati dalla tabella seguente per il numero delle classi dei contribuenti e per le aliquote della tassa:
 
 COMUNI distinti per categorie secondo la popolazione
                                 Numero delle classi
@@ -102,7 +102,7 @@ Per gli esercizi industriali o commerciali d i speciale importanza possono i Com
 
 ## Art. 9.
 
-La tassa annua sui domestici, di cui all'[art. 3 della legge 11 agosto 1870, n. 5784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784#art_3), allegato O, potra' essere applicata nella seguente misura: 
+La tassa annua sui domestici, di cui all'[art. 3 della legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md), allegato O, potra' essere applicata nella seguente misura: 
  
  a) per una domestica, fino a L. 5; 
  

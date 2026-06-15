@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-30;1715), concernente modificazioni alle norme vigenti per la ammissione agli esami di abilitazione alle funzioni di segretario comunale. 
+ E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1715](Modificazioni%20alle%20norme%20vigenti%20per%20lammissione%20agli%20esami%20di%20abilitazione%20alle%20funzioni%20di%20segretario%20comunale.%20033U1715.md), concernente modificazioni alle norme vigenti per la ammissione agli esami di abilitazione alle funzioni di segretario comunale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

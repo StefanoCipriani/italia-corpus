@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-E' approvato l'annesso regolamento per l'esecuzione degli articoli 1, lettera d), 5, 6, 7, 8, 9, 10 e 11 della [legge 19 luglio 1914, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;761), visto, d'ordine Nostro, dai predetti ministri segretari di Stato. 
+E' approvato l'annesso regolamento per l'esecuzione degli articoli 1, lettera d), 5, 6, 7, 8, 9, 10 e 11 della [legge 19 luglio 1914, n. 761](Concernente%20provvedimenti%20a%20favore%20dei%20danneggiati%20dal%20terremoto%20dell8%20maggio%201914%20nella%20provincia%20di%20Catania%20e%20modificazioni%20alla%20legge%2012%20luglio%201912%20n.%20712.%20014U0761.md), visto, d'ordine Nostro, dai predetti ministri segretari di Stato. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduta la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), che conferisce al Governo del Re poteri straordinari durante la guerra; 
+ Veduta la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), che conferisce al Governo del Re poteri straordinari durante la guerra; 
  
- Veduta la [legge 10 maggio 1918, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-05-10;634), relativa alla proroga per la XXIV legislatura del termine stabilito dall'art. 42 dello Statuto del Regno; 
+ Veduta la [legge 10 maggio 1918, n. 634](Che%20proroga%20per%20la%20XXIV%20legislatura%20il%20termine%20stabilito%20dallart.%2042%20dello%20Statuto%20del%20Regno.%20018U0634.md), relativa alla proroga per la XXIV legislatura del termine stabilito dall'art. 42 dello Statuto del Regno; 
  
  Veduta la legge comunale e provinciale 4 febbraio 1915, n. 148 (testo unico); 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  E' pure sospesa fino al detto termine la scadenza dalle rispettive cariche dei sindaci, delle Giunte municipali, dei presidenti e dei membri delle Deputazioni provinciali, dei membri delle Giunte provinciali amministrative, dei componenti le Commissioni ed i Consigli di amministrazione, la cui nomina spetti ai Consigli comunali e provinciali. Le rinnovazioni parziali o totali che avvengano nel periodo stesso cesseranno di avere effetto con la ricostituzione dei Consigli comunali e provinciali. 
  
- Le facolta' conferite al Governo del Re dal capoverso dell'[art. 1 della legge 10 maggio 1918, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-05-10;634#art_1), sono estese alla revisione straordinaria delle liste elettorali amministrative, ed alla formazione di nuove liste, la' dove sia strettamente necessario. 
+ Le facolta' conferite al Governo del Re dal capoverso dell'[art. 1 della legge 10 maggio 1918, n. 634](Che%20proroga%20per%20la%20XXIV%20legislatura%20il%20termine%20stabilito%20dallart.%2042%20dello%20Statuto%20del%20Regno.%20018U0634.md), sono estese alla revisione straordinaria delle liste elettorali amministrative, ed alla formazione di nuove liste, la' dove sia strettamente necessario. 
  
  E' abrogata qualsiasi disposizione contraria a quelle del presente decreto, che avra' effetto dal giorno della sua pubblicazione. 
  

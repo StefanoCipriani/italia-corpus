@@ -129,7 +129,7 @@ Per consentire la rilocalizzazione delle caserme di cui al comma 1, in aggiunta 
 
 3.
 
-All'onere derivante dall'applicazione del comma 2 si provvede a carico delle disponibilita' in conto residui iscritte al capitolo 8002 dello stato di previsione del Ministero della difesa per l'anno 1989 e si applicano le disposizioni dell'[articolo 23 della legge 18 agosto 1978, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-18;497#art_23), e successive modificazioni ed integrazioni, e del [quinto comma dell'articolo 3 della legge 16 giugno 1977, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-06-16;372#art_3-com5).
+All'onere derivante dall'applicazione del comma 2 si provvede a carico delle disponibilita' in conto residui iscritte al capitolo 8002 dello stato di previsione del Ministero della difesa per l'anno 1989 e si applicano le disposizioni dell'[articolo 23 della legge 18 agosto 1978, n. 497](Autorizzazione%20di%20spesa%20per%20la%20costruzione%20di%20alloggi%20di%20servizio%20per%20il%20personale%20militare%20e%20disciplina%20delle%20relative%20concessioni.md), e successive modificazioni ed integrazioni, e del [quinto comma dell'articolo 3 della legge 16 giugno 1977, n. 372](Ammodernamento%20degli%20armamenti%20dei%20materiali%20delle%20apparecchiature%20e%20dei%20mezzi%20dellEsercito.md).
 
 ## Art. 5.
 
@@ -143,7 +143,7 @@ All'onere derivante dall'applicazione del presente articolo, pari a lire 63 mili
 
 3.
 
-Fermo restando il disposto dell'ultimo comma dell'[articolo 30 del decreto del Presidente della Repubblica 3 dicembre 1975, n. 805](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-12-03;805#art_30), e' istituita, con sede in Roma, la Soprintendenza per i beni ambientali e architettonici di Roma, senza incremento delle dotazioni organiche di personale del Ministero per i beni culturali e ambientali e senza oneri aggiuntivi a carico del bilancio statale. Il numero complessivo delle soprintendenze archeologiche, per i beni artistici e storici, per i beni ambientali e architettonici, ivi comprese le soprintendenze miste, resta determinato in settanta.
+Fermo restando il disposto dell'ultimo comma dell'[articolo 30 del decreto del Presidente della Repubblica 3 dicembre 1975, n. 805](../DPR/Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md), e' istituita, con sede in Roma, la Soprintendenza per i beni ambientali e architettonici di Roma, senza incremento delle dotazioni organiche di personale del Ministero per i beni culturali e ambientali e senza oneri aggiuntivi a carico del bilancio statale. Il numero complessivo delle soprintendenze archeologiche, per i beni artistici e storici, per i beni ambientali e architettonici, ivi comprese le soprintendenze miste, resta determinato in settanta.
 
 ## Art. 6.
 
@@ -157,7 +157,7 @@ Per le finalita' previste dall'[articolo 2 della legge 25 giugno 1985, n. 331](h
 
 3.
 
-All'onere derivante dall'attuazione del presente articolo, pari a lire 20 miliardi per ciascuno degli anni 1989 e 1990, si provvede mediante corrispondente riduzione del capitolo 8554 dello stato di previsione del Ministero della pubblica istruzione per i medesimi anni, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 7, comma 8, della legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910#art_7-com8).
+All'onere derivante dall'attuazione del presente articolo, pari a lire 20 miliardi per ciascuno degli anni 1989 e 1990, si provvede mediante corrispondente riduzione del capitolo 8554 dello stato di previsione del Ministero della pubblica istruzione per i medesimi anni, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 7, comma 8, della legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md).
 
 ## Art. 7.
 

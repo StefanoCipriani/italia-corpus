@@ -18,7 +18,7 @@ Visto l'[art. 8 della legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-
 
 Vista la [legge 26 aprile 1983, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1983);
 
-Visto l'[art. 27 della legge 5 agosto 1978, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_27);
+Visto l'[art. 27 della legge 5 agosto 1978, n. 468](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 giugno 1983, con la quale, previa verifica delle compatibilita' finanziarie, e' stata autorizzata la sottoscrizione dell'ipotesi di accordo concernente la disciplina del trattamento economico e gli istituti normativi di carattere economico del rapporto di impiego del personale degli enti locali, raggiunta in data 29 aprile 1983 fra le delegazioni del Governo, dell'ANCI, dell'UPI, dell'UNCEM e delle organizzazioni sindacali maggiormente rappresentative in campo nazionale delle categorie interessate.
 

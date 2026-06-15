@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata:
 
-Veduta la [legge 2 febbraio 1911, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-02-02;70);
+Veduta la [legge 2 febbraio 1911, n. 70](Concernente%20i%20provvedimenti%20per%20la%20gestione%20delle%20Casse%20provinciali%20di%20credilo%20agrario%20da%20parte%20della%20Cassa%20di%20risparmio%20del%20Banco%20di%20Napoli%20e%20della%20sezione%20di%20credito%20agrario%20del%20Banco%20d_5f47b0da1630.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-Il capoverso dell'[art. 9 della legge 2 febbraio 1911, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-02-02;70#art_9), e' modificato come segue: 
+Il capoverso dell'[art. 9 della legge 2 febbraio 1911, n. 70](Concernente%20i%20provvedimenti%20per%20la%20gestione%20delle%20Casse%20provinciali%20di%20credilo%20agrario%20da%20parte%20della%20Cassa%20di%20risparmio%20del%20Banco%20di%20Napoli%20e%20della%20sezione%20di%20credito%20agrario%20del%20Banco%20d_5f47b0da1630.md), e' modificato come segue: 
  
  «La sezione di credito agrario del Banco di Sicilia ha facolta' di destinare fino a due decimi degli utili netti annuali della gestione di ciascuna Cassa provinciale in erogazioni a favore dei figli dei contadini morti in guerra o dalla guerra resi inabili al lavoro; e un altro decimo degli utili stessi alla istituzione di premi di incoraggiamento e sussidi agli enti intermediari e ad altri Istituti che svolgano opera proficua per l'agricoltura».
 

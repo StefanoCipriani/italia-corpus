@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1404), portante modificazioni alla legge sull'ordinamento del Regio esercito e ad altre disposizioni. 
+ E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1404](Modificazioni%20alla%20legge%20sullordinamento%20del%20Regio%20esercito%20e%20ad%20altre%20disposizioni%20in%20vigore.%20033U1404.md), portante modificazioni alla legge sull'ordinamento del Regio esercito e ad altre disposizioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

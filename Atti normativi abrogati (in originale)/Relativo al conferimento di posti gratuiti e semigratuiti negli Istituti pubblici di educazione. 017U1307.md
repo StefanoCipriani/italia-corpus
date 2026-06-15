@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduta la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), sul conferimento al Governo dei poteri straordinari per la guerra;
+Veduta la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), sul conferimento al Governo dei poteri straordinari per la guerra;
 
 Udito il Consiglio dei ministri;
 
@@ -42,7 +42,7 @@ Nell'assegnazione dei posti di cui all'art. 1 sara' data la preferenza, con dero
 
 ## Art. 4.
 
-I posti gratuiti e semigratuiti riservati, a norma del regolamento approvato con [R. decreto 24 marzo 1912, n. 1101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-24;1101), ai figli dei capi d'Istituto e dei professori delle scuole medie e normali dipendenti dal Ministero della istruzione pubblica e dei funzionari dei convitti nazionali, saranno conferiti anch'essi dal ministro dell'istruzione pubblica con le modalita' di cui all'art. 1 e con la preferenza di cui all'art. 3. 
+I posti gratuiti e semigratuiti riservati, a norma del regolamento approvato con [R. decreto 24 marzo 1912, n. 1101](Col%20quale%20viene%20approvato%20lannesso%20nuovo%20regolamento%20per%20i%20convitti%20nazionali.%20012U1101.md), ai figli dei capi d'Istituto e dei professori delle scuole medie e normali dipendenti dal Ministero della istruzione pubblica e dei funzionari dei convitti nazionali, saranno conferiti anch'essi dal ministro dell'istruzione pubblica con le modalita' di cui all'art. 1 e con la preferenza di cui all'art. 3. 
  
  Nell'assegnazione dei posti negli Istituti femminili, sempre con la preferenza di cui all'art. 3, saranno rispettate le condizioni speciali richieste dai regolamenti dei singoli Istituti per quanto riguarda le categorie di persone, per le quali i posti sono stati istituiti. 
  

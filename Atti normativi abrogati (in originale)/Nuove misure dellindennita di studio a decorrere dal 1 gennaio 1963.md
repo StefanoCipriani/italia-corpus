@@ -49,7 +49,7 @@ Lo stanziamento di lire 6.000 milioni previsto per lo esercizio 1962-63 dall'[ar
 
 ## Art. 5.
 
-All'onere derivante dall'applicazione della presente legge nell'esercizio 1962-63, si provvede con le disponibilita' di cui ai precedenti articoli 3 e 4, con quelle derivanti dalla applicazione del [decreto del Presidente della Repubblica 22 novembre 1962, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-11-22;1592) e per lire 2.500 milioni con corrispondente riduzione del capitolo 399 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio 1962-63.
+All'onere derivante dall'applicazione della presente legge nell'esercizio 1962-63, si provvede con le disponibilita' di cui ai precedenti articoli 3 e 4, con quelle derivanti dalla applicazione del [decreto del Presidente della Repubblica 22 novembre 1962, n. 1592](../DPR/Sostituzione%20della%20tabella%20E%20annessa%20al%20decreto%20del%20Presidente%20della%20Repubblica%2015%20dicembre%201960%20n.%201545%20concernente%20la%20tariffa%20di%20vendita%20al%20pubblico%20dei%20tabacchi.md) e per lire 2.500 milioni con corrispondente riduzione del capitolo 399 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio 1962-63.
  Il Ministro per il tesoro e' autorizzato a provvedere con propri decreti, alle variazioni di bilancio occorrente per l'applicazione della presente legge.
 
 

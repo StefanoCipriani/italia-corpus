@@ -54,7 +54,7 @@ Chiunque contravviene ai divieti previsti dal presente decreto e' punito, se il 
 
 ## Art. 6.
 
-E' abrogato il [decreto-legge 24 aprile 1967, n. 222](Norme%20sul%20divieto%20di%20rapporti%20economici%20con%20la%20Rhodesia%20del%20Sud.md), convertito nella [legge 22 giugno 1967, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-22;457) "Norme sui rapporti economici con la Rhodesia del Sud".
+E' abrogato il [decreto-legge 24 aprile 1967, n. 222](Norme%20sul%20divieto%20di%20rapporti%20economici%20con%20la%20Rhodesia%20del%20Sud.md), convertito nella [legge 22 giugno 1967, n. 457](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2024%20aprile%201967%20n.%20222%20recante%20norme%20sul%20divieto%20di%20rapporti%20economici%20con%20la%20Rhodesia%20del%20Sud.md) "Norme sui rapporti economici con la Rhodesia del Sud".
 
 ## Art. 7.
 

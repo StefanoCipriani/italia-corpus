@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Viste le [leggi 18 ottobre 1942, nn. 1407 e 1408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1408) per la costituzione degli Istituti "cauzioni e quiescenza per i ricevitori postali e telegrafici" e "assistenza e previdenza per il personale delle ricevitorie postali e telegrafiche";
 
-Visto il [R. decreto-legge 21 ottobre 1938, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-21;1923), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
+Visto il [R. decreto-legge 21 ottobre 1938, n. 1923](Costituzione%20presso%20lIstituto%20di%20assicurazione%20e%20previdenza%20per%20i%20postelegrafonici%20di%20un%20fondo%20per%20le%20indennita%20di%20licenziamento%20ai%20gerenti%20ed%20ai%20supplenti%20delle%20ricevitorie%20postelegrafiche.%20038U1923.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
 Visto il Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), e successive modificazioni;
 
@@ -36,7 +36,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Art. 1.
 
-Fino a nuova disposizione i sussidi mensili fissati dall'art. 22 e i contributi di cui alle lettere a), b) e c) dell'art. 24 della citata [legge 18 ottobre 1942, n. 1407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1407), sono raddoppiati.
+Fino a nuova disposizione i sussidi mensili fissati dall'art. 22 e i contributi di cui alle lettere a), b) e c) dell'art. 24 della citata [legge 18 ottobre 1942, n. 1407](Costituzione%20dellIstituto%20cauzioni%20e%20quiescenza%20per%20i%20ricevitori%20postali%20e%20telegrafici.%20042U1407.md), sono raddoppiati.
  L'aumento dei sussidi assorbe l'assegno di guerra di L. 50 mensili attualmente in godimento.
 
 ## Art. 2.
@@ -59,11 +59,11 @@ Una indennita' una volta tanto, pari alla somma dei contributi versati dai ricev
 
 ## Art. 6.
 
-La facolta' di accordare sussidi continuativi o una volta tanto, attribuita dall'[art. 23 della legge 18 ottobre 1942, n. 1407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1407#art_23), puo' essere esercitata anche a favore di ricevitori cessati dal servizio posteriormente al 1° luglio 1936, che non abbiano i requisiti richiesti per il trattamento di quiescenza, in casi eccezionali di particolare bisogno riconosciuto dal Consiglio di amministrazione dell'istituto cauzioni e quiescenza e sempreche non sia loro liquidata l'indennita' una volta tanto di cui all'articolo precedente.
+La facolta' di accordare sussidi continuativi o una volta tanto, attribuita dall'[art. 23 della legge 18 ottobre 1942, n. 1407](Costituzione%20dellIstituto%20cauzioni%20e%20quiescenza%20per%20i%20ricevitori%20postali%20e%20telegrafici.%20042U1407.md), puo' essere esercitata anche a favore di ricevitori cessati dal servizio posteriormente al 1° luglio 1936, che non abbiano i requisiti richiesti per il trattamento di quiescenza, in casi eccezionali di particolare bisogno riconosciuto dal Consiglio di amministrazione dell'istituto cauzioni e quiescenza e sempreche non sia loro liquidata l'indennita' una volta tanto di cui all'articolo precedente.
 
 ## Art. 7.
 
-L'indennita' di licenziamento ai gerenti o supplenti di cui all'[art. 3 del R. decreto-legge 21 ottobre 1938, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-21;1923#art_3), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), non spetta quando fra il licenziamento e la riassunzione come ricevitore, gerente o supplente, non sia trascorso un periodo di almeno un mese, mentre viene liquidata anche nell'ipotesi che il gerente o supplente sia sistemato a qualunque titolo in un impiego dello Stato.
+L'indennita' di licenziamento ai gerenti o supplenti di cui all'[art. 3 del R. decreto-legge 21 ottobre 1938, n. 1923](Costituzione%20presso%20lIstituto%20di%20assicurazione%20e%20previdenza%20per%20i%20postelegrafonici%20di%20un%20fondo%20per%20le%20indennita%20di%20licenziamento%20ai%20gerenti%20ed%20ai%20supplenti%20delle%20ricevitorie%20postelegrafiche.%20038U1923.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), non spetta quando fra il licenziamento e la riassunzione come ricevitore, gerente o supplente, non sia trascorso un periodo di almeno un mese, mentre viene liquidata anche nell'ipotesi che il gerente o supplente sia sistemato a qualunque titolo in un impiego dello Stato.
 
 ## Art. 8.
 

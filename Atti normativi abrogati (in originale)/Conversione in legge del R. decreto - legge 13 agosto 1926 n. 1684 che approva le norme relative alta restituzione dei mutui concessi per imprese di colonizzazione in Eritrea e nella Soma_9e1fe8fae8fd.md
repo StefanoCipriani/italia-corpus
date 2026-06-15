@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 agosto 1926, n. 1684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1684), che approva le norme relative alla restituzione dei mutui concessi per imprese di colonizzazione in Eritrea e nella Somalia italiana. 
+ E' convertito in legge il [R. decreto-legge 13 agosto 1926, n. 1684](Norme%20relative%20alla%20restituzione%20dei%20mutui%20concessi%20per%20imprese%20di%20colonizzazione%20in%20Eritrea%20e%20nella%20Somalia%20Italiana.%20026U1684.md), che approva le norme relative alla restituzione dei mutui concessi per imprese di colonizzazione in Eritrea e nella Somalia italiana. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

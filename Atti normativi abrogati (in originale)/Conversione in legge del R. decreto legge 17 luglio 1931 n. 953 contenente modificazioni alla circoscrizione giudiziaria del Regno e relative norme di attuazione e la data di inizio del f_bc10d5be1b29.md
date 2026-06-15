@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 luglio 1931, n. 953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-17;953), contenente modificazioni alla circoscrizione giudiziaria territoriale del Regno e relative norme di attuazione, e la data di inizio del funzionamento della pretura di Pon-tehb4. 
+ E' convertito in legge il [R. decreto-legge 17 luglio 1931, n. 953](Modificazioni%20alla%20circoscrizione%20giudiziaria%20del%20Regno%20e%20relative%20norme%20di%20attuazione.%20Data%20dinizio%20del%20funzionamento%20della%20Pretura%20di%20Pontebba.%20031U0953.md), contenente modificazioni alla circoscrizione giudiziaria territoriale del Regno e relative norme di attuazione, e la data di inizio del funzionamento della pretura di Pon-tehb4. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 17 dicembre 1931 - Anno X 
  

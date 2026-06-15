@@ -14,7 +14,7 @@ Durante la guerra e fino a sei mesi dopo la pubblicazione della pace avranno vig
 
 1.
 
-Quando risulti indispensabile per straordinari bisogni del servizio, e non si possa provvedere in conformita' di quanto dispone il [R. decreto 13 maggio 1915, n. 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-13;798), i procuratori generali di Corte d'appello, previa autorizzazione del Ministero, possono applicare alle RR. procure del distretto, con le funzioni di sostituti procuratori del Re, i pretori dello stesso distretto, di 1ª e 2ª categoria. 
+Quando risulti indispensabile per straordinari bisogni del servizio, e non si possa provvedere in conformita' di quanto dispone il [R. decreto 13 maggio 1915, n. 798](Col%20quale%20vengono%20stabilite%20le%20norme%20per%20lapplicazione%20dei%20funzionari%20del%20Pubblico%20ministero.%20015U0798.md), i procuratori generali di Corte d'appello, previa autorizzazione del Ministero, possono applicare alle RR. procure del distretto, con le funzioni di sostituti procuratori del Re, i pretori dello stesso distretto, di 1ª e 2ª categoria. 
  
  Alle stesse condizioni puo' il Ministero applicare i pretori alle RR. procure di un distretto diverso. 
  
@@ -22,7 +22,7 @@ Quando risulti indispensabile per straordinari bisogni del servizio, e non si po
 
 2.
 
-Salvo quanto e' disposto nell'[art. 6 della legge 27 dicembre 1914, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-27;1404#art_6), il termine di legge di cui all'art. 11, primo comma dell'ordinamento giudiziario approvato con [R. decreto 6 dicembre 1865, n. 2626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-06;2626) serie 1ª, entro il quale i magistrati devono assumere l'esercizio delle loro funzioni, non e' prorogabile per alcuna ragione. 
+Salvo quanto e' disposto nell'[art. 6 della legge 27 dicembre 1914, n. 1404](Contenente%20disposizioni%20circa%20il%20personale%20della%20magistratura%20e%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20014U1404.md), il termine di legge di cui all'art. 11, primo comma dell'ordinamento giudiziario approvato con [R. decreto 6 dicembre 1865, n. 2626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-06;2626) serie 1ª, entro il quale i magistrati devono assumere l'esercizio delle loro funzioni, non e' prorogabile per alcuna ragione. 
  
  L'applicazione del 3° comma dell'articolo suddetto non puo' essere disposta per un periodo di tempo superiore ad un mese; e le applicazioni gia' ordinate devono cessare, entro lo stesso periodo di tempo, dalla data del presente decreto.
 

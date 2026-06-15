@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Fermo rimanendo l'obbligo della revisione delle liste elettorali commerciali a sensi dell'[art. 20 della legge 20 marzo 1910, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-20;121#art_20), le elezioni generali dei Consigli delle Camere di commercio e industria che, a termini del Nostro decreto 1° ottobre 1916, n. 1326, dovrebbero aver luogo nell'ultimo bimestre del corrente anno, sono rinviate a dopo la conclusione della pace. La data delle elezioni e la data dell'insediamento degli eletti saranno stabilite con decreto Reale.
+Fermo rimanendo l'obbligo della revisione delle liste elettorali commerciali a sensi dell'[art. 20 della legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md), le elezioni generali dei Consigli delle Camere di commercio e industria che, a termini del Nostro decreto 1° ottobre 1916, n. 1326, dovrebbero aver luogo nell'ultimo bimestre del corrente anno, sono rinviate a dopo la conclusione della pace. La data delle elezioni e la data dell'insediamento degli eletti saranno stabilite con decreto Reale.
 
 ## Art. 2.
 

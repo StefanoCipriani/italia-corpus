@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-19;773), portante disposizioni complementari al [R. decreto-legge 9 novembre 1933, n. 1696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-09;1696), convertito in legge con la [legge 25 gennaio 1934, n. 224](Conversione%20in%20legge%20del%20R.%20decreto-legge%209%20novembre%201933%20n.%201696%20concernente%20la%20disciplina%20della%20preparazione%20e%20del%20commercio%20del%20vermut.%20034U0224.md), concernente la disciplina della preparazione e del commercio del vermut. 
+ E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 773](Disposizioni%20complementari%20al%20R.%20decreto-legge%209%20novembre%201933%20n.%201696%20convertito%20in%20legge%20con%20la%20legge%2025%20gennaio%201934%20n.%20224%20concernente%20la%20disciplina%20della%20preparazione%20e%20del%20commercio_40a4a3490804.md), portante disposizioni complementari al [R. decreto-legge 9 novembre 1933, n. 1696](Disciplina%20della%20preparazione%20e%20del%20commercio%20del%20vermut.%20033U1696.md), convertito in legge con la [legge 25 gennaio 1934, n. 224](Conversione%20in%20legge%20del%20R.%20decreto-legge%209%20novembre%201933%20n.%201696%20concernente%20la%20disciplina%20della%20preparazione%20e%20del%20commercio%20del%20vermut.%20034U0224.md), concernente la disciplina della preparazione e del commercio del vermut. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

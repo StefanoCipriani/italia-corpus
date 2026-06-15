@@ -18,7 +18,7 @@ Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 21](https://ww
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-E' autorizzato il rimborso a favore della Delegazione del Governo italiano per i rapporti con l'U.N.R.R.A., senza l'osservanza della procedura stabilita dall'art. 29 della legge doganale 25 settembre 1940, n. 1424, e dagli articoli 95 e seguenti del regolamento approvato con [regio decreto 13 febbraio 1896, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-13;65), e successive modificazioni ed aggiunte, delle somme indebitamente riscosse per diritti doganali sulle merci fornite dall'U.N.R.R.A. in esecuzione degli Accordi stipulati con il Governo italiano l'8 marzo 1945 ed il 19 gennaio 1946, ed approvati, rispettivamente, con i [decreti legislativi luogotenenziali 19 marzo 1945, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-19;79) e [8 febbraio 1946, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;21).
+E' autorizzato il rimborso a favore della Delegazione del Governo italiano per i rapporti con l'U.N.R.R.A., senza l'osservanza della procedura stabilita dall'art. 29 della legge doganale 25 settembre 1940, n. 1424, e dagli articoli 95 e seguenti del regolamento approvato con [regio decreto 13 febbraio 1896, n. 65](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20doganali.%20096U0065.md), e successive modificazioni ed aggiunte, delle somme indebitamente riscosse per diritti doganali sulle merci fornite dall'U.N.R.R.A. in esecuzione degli Accordi stipulati con il Governo italiano l'8 marzo 1945 ed il 19 gennaio 1946, ed approvati, rispettivamente, con i [decreti legislativi luogotenenziali 19 marzo 1945, n. 79](../Decreti%20legislativi%20luogotenenziali/Approvazione%20dellaccordo%20stipulato%20in%20Roma%20l8%20marzo%201945%20tra%20il%20Governo%20Italiano%20e%20lUnited%20Nations%20Relief%20and%20Rehabilitation%20Administration%20U.N.R.R.A.%20Amministrazione%20delle%20Nazioni%20Unite%20_4e228cfa7860.md) e [8 febbraio 1946, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;21).
 
 ## Art. 2.
 

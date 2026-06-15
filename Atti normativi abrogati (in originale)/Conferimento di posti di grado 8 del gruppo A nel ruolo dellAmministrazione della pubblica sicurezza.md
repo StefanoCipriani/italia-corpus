@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);
+Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
 
 Visti il testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza 31 agosto 1907, n. 690, ed il relativo regolamento approvato con [regio decreto 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-20;666);
 
-Visto il [regio decreto 17 novembre 1932, n. 1595](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-11-17;1595), che reca modifiche all'ordinamento del personale di pubblica sicurezza;
+Visto il [regio decreto 17 novembre 1932, n. 1595](Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md), che reca modifiche all'ordinamento del personale di pubblica sicurezza;
 
 Visto il [regio decreto 22 novembre 1937, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-11-22;39), che stabilisce il nuovo organico del personale di gruppo A dell'Amministrazione della pubblica sicurezza;
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, numero 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 

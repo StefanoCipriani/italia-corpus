@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [R. decreto-legge 1° luglio 1926, n. 1209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-01;1209), relativo all'assegnazione straordinaria per la costruzione e l'adattamento di edifici postali e telegrafici. 
+ E convertito in legge il [R. decreto-legge 1° luglio 1926, n. 1209](Assegnazione%20straordinaria%20per%20la%20costruzione%20e%20ladattamento%20di%20edifici%20postali%20e%20telegrafici.%20026U1209.md), relativo all'assegnazione straordinaria per la costruzione e l'adattamento di edifici postali e telegrafici. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

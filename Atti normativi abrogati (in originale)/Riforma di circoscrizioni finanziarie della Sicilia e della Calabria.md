@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100);
+Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [regio decreto 1° luglio 1937, n. 1083](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-01;1083);
+Visto il [regio decreto 1° luglio 1937, n. 1083](Riforma%20di%20alcune%20circoscrizioni%20finanziarie.%20037U1083.md);
 
 Visto il decreto ministeriale 26 luglio 1937, registrato alla Corte dei Conti il 3 novembre 1937, al n. 11, vol. 32;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Riconosciuta la necessita' urgente di introdurre alcune modifiche nelle attuali circoscrizioni degli Uffici distrettuali delle imposte dirette e degli Uffici del registro della Sicilia e della Calabria allo scopo di adeguare, anche in questo settore, l'organizzazione amministrativa ai nuovi bisogni del paese;
 

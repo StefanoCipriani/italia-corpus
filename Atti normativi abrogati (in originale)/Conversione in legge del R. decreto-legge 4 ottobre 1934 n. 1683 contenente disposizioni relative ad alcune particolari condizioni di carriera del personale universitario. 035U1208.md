@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 ottobre 1934, n. 1683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-04;1683), contenente disposizioni relative ad alcune particolari condizioni di carriera del personale universitario, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 4 ottobre 1934, n. 1683](Disposizioni%20relative%20ad%20alcune%20particolari%20condizioni%20di%20carriera%20del%20personale%20universitario.%20034U1683.md), contenente disposizioni relative ad alcune particolari condizioni di carriera del personale universitario, con la seguente modificazione: 
  
  All'art. 3 e' sostituito il seguente: 
  

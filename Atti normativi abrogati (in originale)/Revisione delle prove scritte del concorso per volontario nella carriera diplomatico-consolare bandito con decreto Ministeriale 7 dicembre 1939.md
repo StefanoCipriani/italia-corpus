@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 2 giugno 1927, n. 862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-02;862);
+Vista la [legge 2 giugno 1927, n. 862](Ordinamento%20della%20carriera%20diplomatico-consolare.%20027U0862.md);
 
 Visto il decreto Ministeriale 7 dicembre 1939, registrato alla Corte dei conti il 29 dicembre 1939, registro n. 82, foglio n. 331, col quale veniva bandito un concorso per la carriera diplomatico-consolare;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Ritenuta la necessita' di sottoporre a revisione le prove scritte nel concorso predetto;
 
@@ -51,7 +51,7 @@ I candidati che, a seguito della revisione delle prove scritte avranno riportato
 
 ## Art. 6.
 
-I candidati che risulteranno idonei saranno assunti quali volontari nella carriera diplomatico-consolare ai sensi e per gli effetti di cui all'[art. 2 della legge 2 giugno 1927, n. 862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-02;862#art_2), con retrodatazione, ai soli effetti giuridici, alla data della nomina in servizio dell'ultimo degli idonei nel detto concorso a suo tempo nominati.
+I candidati che risulteranno idonei saranno assunti quali volontari nella carriera diplomatico-consolare ai sensi e per gli effetti di cui all'[art. 2 della legge 2 giugno 1927, n. 862](Ordinamento%20della%20carriera%20diplomatico-consolare.%20027U0862.md), con retrodatazione, ai soli effetti giuridici, alla data della nomina in servizio dell'ultimo degli idonei nel detto concorso a suo tempo nominati.
  Al termine del periodo di prova, i volontari nominati in base al comma precedente, saranno collocati nell'ordine della graduatoria al grado iniziale del ruolo diplomatico-consolare. Qualora dopo la pubblicazione del presente decreto nella Gazzetta Ufficiale della Repubblica, siano effettuate nomine e promozioni nel ruolo diplomatico-consolare, nei posti vacanti dopo quello occupato dall'ultimo degli idonei nominato in base ai primitivi risultati del concorso sottoposto a revisione, tali nomine o promozioni si intenderanno effettuate con riserva di anzianita' a favore dei funzionari che saranno nominati in base al presente decreto.
  I funzionari a suo tempo nominati, le cui prove scritte siano state assoggettate a revisione conserveranno, qualora confermati idonei in base al presente articolo, il loro attuale posto di ruolo.
 

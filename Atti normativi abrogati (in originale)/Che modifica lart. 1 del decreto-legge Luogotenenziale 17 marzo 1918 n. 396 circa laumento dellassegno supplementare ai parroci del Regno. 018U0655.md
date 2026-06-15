@@ -30,7 +30,7 @@ Sulla proposta del ministro di grazia e giustizia e dei culti, di concerto col m
 
 L'articolo primo del [decreto-legge 17 marzo 1918, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1918-03-17;396), e' modificato come segue: 
  
- «A datare dal 1° febbraio 1918 l'assegno supplementare, che si concede ai parroci del Regno, sara' elevato sino a portarne la congrua, compresi i prodotti casuali, a L. 1000 al netto di qualsiasi onere e peso, in conformita' degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1899-06-04;191#art_2) e [3 della legge 4 giugno 1899, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1899-06-04;191#art_3). 
+ «A datare dal 1° febbraio 1918 l'assegno supplementare, che si concede ai parroci del Regno, sara' elevato sino a portarne la congrua, compresi i prodotti casuali, a L. 1000 al netto di qualsiasi onere e peso, in conformita' degli [articoli 2](Che%20provvede%20allaumento%20delle%20Congrue%20parrocchiali%20-%20allanticipata%20consegna%20ai%20Comuni%20delle%20rendite%20delle%20soppresse%20Chiese%20ricettizie%20e%20Comunie%20curate%20-%20e%20al%20pagamento%20di%20un%20acconto%20ai%20Co_3ebb50757754.md) e [3 della legge 4 giugno 1899, n. 191](Che%20provvede%20allaumento%20delle%20Congrue%20parrocchiali%20-%20allanticipata%20consegna%20ai%20Comuni%20delle%20rendite%20delle%20soppresse%20Chiese%20ricettizie%20e%20Comunie%20curate%20-%20e%20al%20pagamento%20di%20un%20acconto%20ai%20Co_3ebb50757754.md). 
  
  L'assegno per le spese di culto, nel caso in cui e' dovuto ai sensi del terzo comma dell'art. 2 anzidetto, sara' accresciuto in ragione dell'aumentata congrua, ferma restando la misura del 15 per cento. 
  

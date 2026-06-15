@@ -16,11 +16,11 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il contributo dello Stato alle spese di funzionamento dell'Ispettorato del lavoro, previsto dall'[art. 16 del regio decreto-legge 28 dicembre 1931, n. 1684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-28;1684#art_16), modificato dall'[art. 13 della legge 1 settembre 1940, n. 1337](Ordinamento%20dellIspettorato%20corporativo.%20040U1337.md), e' stabilito in lire 25 milioni per l'esercizio 1945-46, in lire 75 milioni per l'esercizio 1946-47, in lire 200 milioni per l'esercizio 1947-48, in lire 250 milioni per l'esercizio 1948-49, in lire 500 milioni per l'esercizio 1949-50, in lire 600 milioni per l'esercizio 1950-51, in lire 600 milioni per l'esercizio 1951-52, ed in lire 500 milioni per l'esercizio 1952-53 e successivi.
+Il contributo dello Stato alle spese di funzionamento dell'Ispettorato del lavoro, previsto dall'[art. 16 del regio decreto-legge 28 dicembre 1931, n. 1684](Ordinamento%20dellIspettorato%20corporativo.%20031U1684.md), modificato dall'[art. 13 della legge 1 settembre 1940, n. 1337](Ordinamento%20dellIspettorato%20corporativo.%20040U1337.md), e' stabilito in lire 25 milioni per l'esercizio 1945-46, in lire 75 milioni per l'esercizio 1946-47, in lire 200 milioni per l'esercizio 1947-48, in lire 250 milioni per l'esercizio 1948-49, in lire 500 milioni per l'esercizio 1949-50, in lire 600 milioni per l'esercizio 1950-51, in lire 600 milioni per l'esercizio 1951-52, ed in lire 500 milioni per l'esercizio 1952-53 e successivi.
 
 ## Art. 2.
 
-Le maggiori somme gia' iscritte nella rubrica "Ispettorato del lavoro" dello stato di previsione della spesa del Ministero del lavoro e della previdenza sociale per gli esercizi dal 1945-46 al 1951-52 incluso, saranno recuperate con le norme di cui all'[art. 16 del regio decreto-legge 28 dicembre 1931, n. 1684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-28;1684#art_16), e versati in Tesoreria entro sei mesi dalla entrata in vigore della presente legge.
+Le maggiori somme gia' iscritte nella rubrica "Ispettorato del lavoro" dello stato di previsione della spesa del Ministero del lavoro e della previdenza sociale per gli esercizi dal 1945-46 al 1951-52 incluso, saranno recuperate con le norme di cui all'[art. 16 del regio decreto-legge 28 dicembre 1931, n. 1684](Ordinamento%20dellIspettorato%20corporativo.%20031U1684.md), e versati in Tesoreria entro sei mesi dalla entrata in vigore della presente legge.
 
 ## Art. 3.
 

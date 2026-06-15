@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 dicembre 1929, n. 2182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-12-26;2182), che riordina il Consiglio di amministrazione della Cassa nazionale per le assicurazioni sociali. 
+ E' convertito in legge il [R. decreto-legge 26 dicembre 1929, n. 2182](Riordinamento%20del%20Consiglio%20di%20amministrazione%20della%20Cassa%20nazionale%20per%20le%20assicurazioni%20sociali.%20029U2182.md), che riordina il Consiglio di amministrazione della Cassa nazionale per le assicurazioni sociali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

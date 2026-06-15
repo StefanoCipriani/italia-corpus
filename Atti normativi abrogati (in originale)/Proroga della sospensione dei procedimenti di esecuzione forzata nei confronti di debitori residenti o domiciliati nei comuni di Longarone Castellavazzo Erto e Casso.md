@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [decreto-legge 19 dicembre 1966, n. 1075](Sospensione%20dei%20procedimenti%20di%20esecuzione%20forzata%20nei%20confronti%20di%20debitori%20residenti%20o%20domiciliati%20nei%20comuni%20di%20Longarone%20Castellavazzo%20Erto%20e%20Casso.md), convertito nella [legge 16 febbraio 1967, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-16;13), concernente la sospensione dei procedimenti di esecuzione forzata nei confronti di debitori residenti o domiciliati nei comuni di Longarone, Castellavazzo, Erto e Casso;
+Visto il [decreto-legge 19 dicembre 1966, n. 1075](Sospensione%20dei%20procedimenti%20di%20esecuzione%20forzata%20nei%20confronti%20di%20debitori%20residenti%20o%20domiciliati%20nei%20comuni%20di%20Longarone%20Castellavazzo%20Erto%20e%20Casso.md), convertito nella [legge 16 febbraio 1967, n. 13](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2019%20dicembre%201966%20n.%201075%20concernente%20Sospensione%20dei%20procedimenti%20di%20esecuzione%20forzata%20nei%20confronti%20di%20debitori%20residenti%20o%20domiciliati%20nei%20comuni_81c67ddc1bde.md), concernente la sospensione dei procedimenti di esecuzione forzata nei confronti di debitori residenti o domiciliati nei comuni di Longarone, Castellavazzo, Erto e Casso;
 
 Ritenuta la necessita' e l'urgenza di prorogare la sospensione di cui sopra;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la grazia e giustizia; Decreta:
 
 ## Art. 1.
 
-I termini di cui all'[art. 1, primo](Sospensione%20dei%20procedimenti%20di%20esecuzione%20forzata%20nei%20confronti%20di%20debitori%20residenti%20o%20domiciliati%20nei%20comuni%20di%20Longarone%20Castellavazzo%20Erto%20e%20Casso.md) e [secondo comma, del decreto-legge 19 dicembre 1966, n. 1075](Sospensione%20dei%20procedimenti%20di%20esecuzione%20forzata%20nei%20confronti%20di%20debitori%20residenti%20o%20domiciliati%20nei%20comuni%20di%20Longarone%20Castellavazzo%20Erto%20e%20Casso.md), convertito nella [legge 16 febbraio 1967, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-16;13), sono prorogati fino al 31 dicembre 1968.
+I termini di cui all'[art. 1, primo](Sospensione%20dei%20procedimenti%20di%20esecuzione%20forzata%20nei%20confronti%20di%20debitori%20residenti%20o%20domiciliati%20nei%20comuni%20di%20Longarone%20Castellavazzo%20Erto%20e%20Casso.md) e [secondo comma, del decreto-legge 19 dicembre 1966, n. 1075](Sospensione%20dei%20procedimenti%20di%20esecuzione%20forzata%20nei%20confronti%20di%20debitori%20residenti%20o%20domiciliati%20nei%20comuni%20di%20Longarone%20Castellavazzo%20Erto%20e%20Casso.md), convertito nella [legge 16 febbraio 1967, n. 13](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2019%20dicembre%201966%20n.%201075%20concernente%20Sospensione%20dei%20procedimenti%20di%20esecuzione%20forzata%20nei%20confronti%20di%20debitori%20residenti%20o%20domiciliati%20nei%20comuni_81c67ddc1bde.md), sono prorogati fino al 31 dicembre 1968.
 
 ## Art. 2.
 

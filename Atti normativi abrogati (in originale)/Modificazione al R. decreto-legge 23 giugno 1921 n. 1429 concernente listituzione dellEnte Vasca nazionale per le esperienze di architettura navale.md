@@ -12,11 +12,11 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 23 giugno 1927, n. 1429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1429), convertito nella [legge 14 giugno 1928, n. 1463](Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20giugno%201927%20n.%201429%20concernente%20listituzione%20dellente%20Vasca%20nazionale%20per%20le%20esperienze%20di%20architettura%20navale.%20028U1463.md), relativo alla istituzione dell'Ente Vasca;
+Visto il [R. decreto-legge 23 giugno 1927, n. 1429](Istituzione%20dellente%20Vasca%20nazionale%20per%20le%20esperienze%20di%20architettura%20navale.%20027U1429.md), convertito nella [legge 14 giugno 1928, n. 1463](Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20giugno%201927%20n.%201429%20concernente%20listituzione%20dellente%20Vasca%20nazionale%20per%20le%20esperienze%20di%20architettura%20navale.%20028U1463.md), relativo alla istituzione dell'Ente Vasca;
 
 Visto il R. decreto 16 novembre 1927, che approva lo statuto dell'Ente;
 
-Visto il [R. decreto-legge 22 dicembre 1930, n. 1938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-22;1938), che reca modificazioni alla composizione del Consiglio di amministrazione dell'Ente stesso;
+Visto il [R. decreto-legge 22 dicembre 1930, n. 1938](Modifica%20della%20composizione%20del%20Consiglio%20di%20amministrazione%20della%20Vasca%20nazionale%20per%20le%20esperienze%20di%20architettura%20navale.%20030U1938.md), che reca modificazioni alla composizione del Consiglio di amministrazione dell'Ente stesso;
 
 Vista la [legge 18 maggio 1942, n. 653](Aumento%20del%20contributo%20dello%20Stato%20a%20favore%20della%20Vasca%20nazionale%20per%20le%20esperienze%20di%20architettura%20navale.%20042U0653.md), che porta aumento ai contributi corrisposti dallo Stato;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per la marina, di concerto con i Ministri per le fin
 
 ## Art. 1.
 
-L'Ente "Vasca nazionale per le esperienze di architettura navale", istituito con l'[art. 1 del R. decretolegge 23 giugno 1927, n. 1429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1429#art_1), assume la denominazione di "Istituto nazionale per studi ed esperienze di architettura navale". L'istituto ha sede in Roma, ha personalita' giuridica, ed e' posto sotto la vigilanza del Ministero della marina sia nei riguardi della Marina militare, sia nei riguardi della Marina mercantile.
+L'Ente "Vasca nazionale per le esperienze di architettura navale", istituito con l'[art. 1 del R. decretolegge 23 giugno 1927, n. 1429](Istituzione%20dellente%20Vasca%20nazionale%20per%20le%20esperienze%20di%20architettura%20navale.%20027U1429.md), assume la denominazione di "Istituto nazionale per studi ed esperienze di architettura navale". L'istituto ha sede in Roma, ha personalita' giuridica, ed e' posto sotto la vigilanza del Ministero della marina sia nei riguardi della Marina militare, sia nei riguardi della Marina mercantile.
 
 ## Art. 2.
 
@@ -99,7 +99,7 @@ Il patrimonio dell'Istituto e' costituito dai beni immobili e mobili di propriet
 
 ## Art. 9.
 
-Il rimborso in trenta anni dell'anticipazione di lire 4.000.000 corrisposto dall'istituto nazionale delle assicurazioni per il primo impianto e arredamento della Vasca e delle istallazioni ad essa necessarie ai sensi dell'[art. 11 del R. decreto-legge 23 giugno 1927, n. 1429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1429#art_11), continuera' ad effettuarsi da parte del Ministero della marina, fino al 1957 a totale estinzione del debito.
+Il rimborso in trenta anni dell'anticipazione di lire 4.000.000 corrisposto dall'istituto nazionale delle assicurazioni per il primo impianto e arredamento della Vasca e delle istallazioni ad essa necessarie ai sensi dell'[art. 11 del R. decreto-legge 23 giugno 1927, n. 1429](Istituzione%20dellente%20Vasca%20nazionale%20per%20le%20esperienze%20di%20architettura%20navale.%20027U1429.md), continuera' ad effettuarsi da parte del Ministero della marina, fino al 1957 a totale estinzione del debito.
 
 ## Art. 10.
 

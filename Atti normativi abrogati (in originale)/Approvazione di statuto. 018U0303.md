@@ -14,4 +14,4 @@ N.
 
 303.
 
-Decreto Luogotenenziale 24 gennaio 1918, col quale, sulla proposta del ministro degli affari esteri, e' approvato un nuovo testo di statuto del R. Istituto internazionale e coloniale italiano di Torino in sostituzione di quello approvato con [R. decreto 7 agosto 1909, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-07;616).
+Decreto Luogotenenziale 24 gennaio 1918, col quale, sulla proposta del ministro degli affari esteri, e' approvato un nuovo testo di statuto del R. Istituto internazionale e coloniale italiano di Torino in sostituzione di quello approvato con [R. decreto 7 agosto 1909, n. 616](Che%20approva%20lannesso%20statuto%20organico%20del%20R.%20Istituto%20internazionale%20italiano%20in%20Torino.%20009U0616.md).

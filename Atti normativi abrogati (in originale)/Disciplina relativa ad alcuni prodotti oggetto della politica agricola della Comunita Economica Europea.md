@@ -18,9 +18,9 @@ Visto il [Regolamento n. 90/67](https://www.normattiva.it/uri-res/N2Ls?urn:nir::
 
 Visto il [Regolamento n. 120/67](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1967;120) adottato il 13 giugno 1967 dal Consiglio dei Ministri della Comunita' Economica Europea relativo all'organizzazione comune dei mercati nel settore dei cereali;
 
-Vista la legge doganale 25 settembre 1940, n. 1424 ed il relativo regolamento di applicazione approvato con [regio decreto 13 febbraio 1896, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-13;65), con le successive modificazioni ed aggiunte;
+Vista la legge doganale 25 settembre 1940, n. 1424 ed il relativo regolamento di applicazione approvato con [regio decreto 13 febbraio 1896, n. 65](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20doganali.%20096U0065.md), con le successive modificazioni ed aggiunte;
 
-Vista la tariffa dei dazi doganali di importazione approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-26;723);
+Vista la tariffa dei dazi doganali di importazione approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](../DPR/Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md);
 
 Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), concernente nuove disposizioni sulla Amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 

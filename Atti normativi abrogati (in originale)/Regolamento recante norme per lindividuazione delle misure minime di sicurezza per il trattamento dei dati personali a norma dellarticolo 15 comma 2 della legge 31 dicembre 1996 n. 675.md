@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 15 della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_15), recante "Tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali";
+Visto l'[articolo 15 della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), recante "Tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali";
 
-Ritenuto che ai sensi dell'[articolo 15, comma 2, della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_15-com2), occorre individuare, in via preventiva, le misure minime di sicurezza per i dati personali oggetto di trattamento, al fine di assicurare il funzionamento delle misure sanzionatorie penali previste dall'articolo 36 della medesima legge;
+Ritenuto che ai sensi dell'[articolo 15, comma 2, della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), occorre individuare, in via preventiva, le misure minime di sicurezza per i dati personali oggetto di trattamento, al fine di assicurare il funzionamento delle misure sanzionatorie penali previste dall'articolo 36 della medesima legge;
 
 Visto l'[articolo 17, comma 1, lettera a), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-leta);
 
@@ -38,7 +38,7 @@ Capo I
 
 1.
 
-Ai fini del presente regolamento si applicano le definizioni elencate nell'[articolo 1 della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_1), di seguito denominata legge. Ai medesimi fini si intendono per:
+Ai fini del presente regolamento si applicano le definizioni elencate nell'[articolo 1 della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), di seguito denominata legge. Ai medesimi fini si intendono per:
                             a)
                                 "misure minime": il complesso delle misure tecniche, informatiche, organizzative, logistiche e procedurali di sicurezza, previste nel presente regolamento, che configurano il livello minimo di protezione richiesto in relazione ai rischi previsti dall'articolo 15, comma 1, della legge;
                             b)
@@ -47,7 +47,7 @@ Ai fini del presente regolamento si applicano le definizioni elencate nell'[arti
                                 "amministratori di sistema": i soggetti cui e' conferito il compito di sovrintendere alle risorse del sistema operativo di un elaboratore o di un sistema di base dati e di consentirne l'utilizzazione.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  Note alle premesse:
@@ -64,7 +64,7 @@ Avvertenza:
  Presiede il Consiglio superiore della magistratura.
  Puo' concedere grazia e commutare le pene.
  Conferisce le onorificenze della Repubblica".
- - Si trascrive il testo dell'[art. 15 della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_15) (Tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali):
+ - Si trascrive il testo dell'[art. 15 della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md) (Tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali):
  "Art. 15 (Sicurezza dei dati). - 1. I dati personali oggetto di trattamento devono essere custoditi e controllati, anche in relazione alle conoscenze acquisite in base al progresso tecnico, alla natura dei dati e alle specifiche caratteristiche del trattamento, in modo da ridurre al minimo, mediante l'adozione di idonee e preventive misure di sicurezza, i rischi di distruzione o perdita, anche accidentale, dei dati stessi, di accesso non autorizzato o di trattamento non consentito o non conforme alle finalita' della raccolta.
  2. Le misure minime di sicurezza da adottare in via preventiva sono individuate con regolamento emanato con decreto del Presidente della Repubblica, ai sensi dell'[art. 17, comma 1, lettera a), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-leta), entro centottanta giorni dalla data di entrata in vigore della presente legge, su proposta del Ministro di grazia e giustizia, sentiti l'Autorita' per l'informatica nella pubblica amministrazione e il Garante.
  3. Le misure di sicurezza di cui al comma 2 sono adeguate, entro due anni dalla data di entrata in vigore della presente legge e successivamente con cadenza almeno biennale, con successivi regolamenti emanati con le modalita' di cui al medesimo comma 2, in relazione all'evoluzione tecnica del settore e all'esperienza maturata.
@@ -77,7 +77,7 @@ Avvertenza:
  d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;
  e) (soppressa)".
  Note all'art. 1:
- - Si riporta il testo dell'art. 1 della citata [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675):
+ - Si riporta il testo dell'art. 1 della citata [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md):
  "Art. 1 (Finalita' e definizioni). - 1. La presente legge garantisce che il trattamento dei dati personali si svolga nel rispetto dei diritti, delle liberta' fondamentali, nonche' della dignita' delle persone fisiche, con particolare riferimento alla riservatezza e all'identita' personale; garantisce altresi' i diritti delle persone giuridiche e di ogni altro ente o associazione.
  2. Ai fini della presente legge si intende:
  a) per "banca di dati", qualsiasi complesso di dati personali, ripartito in una o piu' unita' dislocate in uno o piu' siti, organizzato secondo una pluralita' di criteri determinati tali da facilitarne il trattamento;
@@ -91,7 +91,7 @@ Avvertenza:
  i) per "dato anonimo", il dato che in origine, o a seguito di trattamento, non puo' essere associato ad un interessato identificato o identificabile;
  l) per "blocco", la conservazione di dati personali con sospensione temporanea di ogni altra operazione del trattamento;
  m) per "Garante", l'autorita' istituita ai sensi dell'art. 30".
- - Per il testo dell'art. 15 della citata [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), vd. supra in note alle premesse.
+ - Per il testo dell'art. 15 della citata [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), vd. supra in note alle premesse.
 
 ## TRATTAMENTO DEI DATI PERSONALI EFFETTUATO CON STRUMENTI ELETTRONICI O COMUNQUE AUTOMATIZZATI. Sezione I Trattamento dei dati personali effettuato mediante elaboratori non accessibili da altri elaboratori o terminali.
 
@@ -108,7 +108,7 @@ Salvo quanto previsto dall'articolo 8, se il trattamento dei dati personali e' e
                                 individuare per iscritto, quando vi e' piu' di un incaricato del trattamento e sono in uso piu' parole chiave, i soggetti preposti alla loro custodia o che hanno accesso ad informazioni che concernono le medesime.
 
 Nota all'art. 2:
- - Si riporta il testo dell'art. 3 della citata [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675):
+ - Si riporta il testo dell'art. 3 della citata [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md):
  "Art. 3 (Trattamento di dati per fini esclusivamente personali). - 1. Il trattamento di dati personali effettuato da persone fisiche per fini esclusivamente personali non e' soggetto all'applicazione della presente legge, sempreche' i dati non siano destinati ad una comunicazione sistematica o alla diffusione.
  2. Al trattamento di cui al comma 1 si applicano in ogni caso le disposizioni in tema di sicurezza dei dati di cui all'art. 15, nonche' le disposizioni di cui agli articoli 18 e 36".
 
@@ -136,14 +136,14 @@ Nel caso di trattamenti effettuati con gli elaboratori di cui all'articolo 3, ol
                             b)
                                 i codici identificativi personali devono essere assegnati e gestiti in modo che ne sia prevista la disattivazione in caso di perdita della qualita' che consentiva l'accesso all'elaboratore o di mancato utilizzo dei medesimi per un periodo superiore ai sei mesi;
                             c)
-                                gli elaboratori devono essere protetti contro il rischio di intrusione ad opera di programmi di cui all'[art. 615-quinquies del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_615quinquies), mediante idonei programmi, la cui efficacia ed aggiornamento sono verificati con cadenza almeno semestrale.
+                                gli elaboratori devono essere protetti contro il rischio di intrusione ad opera di programmi di cui all'[art. 615-quinquies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), mediante idonei programmi, la cui efficacia ed aggiornamento sono verificati con cadenza almeno semestrale.
 
 2.
 
 Le disposizioni di cui al comma 1, lettere a) e b), non si applicano ai trattamenti dei dati personali di cui e' consentita la diffusione.
 
 Nota all'art. 4:
- - Si trascrive il testo dell'[art. 615-quinquies del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_615quinquies):
+ - Si trascrive il testo dell'[art. 615-quinquies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
  "Art. 615-quinquies (Diffusione di programmi diretti a danneggiare o interrompere un sistema informatico). - Chiunque diffonde, comunica o consegna un programma informatico da lui stesso o da altri redatto, avente per scopo o per effetto il danneggiamento di un sistema informatico o telematico, dei dati o dei programmi in esso contenuti o ad esso pertinenti, ovvero l'interruzione totale o parziale, o l'alterazione del suo funzionamento, e' punito con la reclusione sino a due anni e con la multa sino a lire venti milioni".
 
 ### Art. 5. — Accesso ai dati particolari
@@ -177,12 +177,12 @@ Non e' consentita l'utilizzazione di un medesimo codice identificativo personale
 Le disposizioni di cui ai commi da l a 6 non si applicano al trattamento dei dati personali di cui e' consentita la diffusione.
 
 Nota all'art. 5:
- - Si trascrive il testo degli [articoli 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_22) e [24 della legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675#art_24):
+ - Si trascrive il testo degli [articoli 22](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md) e [24 della legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md):
  "Art. 22 (Dati sensibili). - 1. I dati personali idonei a rivelare l'origine razziale ed etnica, le convinzioni religiose, filosofiche o di altro genere, le opinioni politiche, l'adesione a partiti, sindacati, associazioni od organizzazioni a carattere religioso, filosofico, politico o sindacale, nonche' i dati personali idonei a rivelare lo stato di salute e la vita sessuale, possono essere oggetto di trattamento solo con il consenso scritto dell'interessato e previa autorizzazione del Garante.
  2. Il Garante comunica la decisione adottata sulla richiesta di autorizzazione entro trenta giorni, decorsi i quali la mancata pronuncia equivale a rigetto.
  Con il provvedimento di autorizzazione, ovvero successivamente, anche sulla base di eventuali verifiche, il Garante puo' prescrivere misure e accorgimenti a garanzia dell'interessato, che il titolare del trattamento e' tenuto ad adottare.
  3. Il trattamento dei dati indicati al comma 1 da parte di soggetti pubblici, esclusi gli enti pubblici economici, e' consentito solo se autorizzato da espressa disposizione di legge nella quale siano specificati i dati che possono essere trattati, le operazioni eseguibili e le rilevanti finalita' di interesse pubblico perseguite.
- 4. I dati personali idonei a rivelare lo stato di salute e la vita sessuale possono essere oggetto di trattamento previa autorizzazione del Garante, qualora il trattamento sia necessario ai fini dello svolgimento delle investigazioni di cui all'art. 38 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvate con [D.Lgs. 28 luglio 1989, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;271), e successive modificazioni, o, comunque, per far valere o difendere in sede giudiziaria un diritto di rango pari a quello dell'interessato, sempre che i dati siano trattati esclusivamente per tali finalita' e per il periodo strettamente necessario al loro perseguimento. Il Garante prescrive le misure e gli accorgimenti di cui al comma 2 e promuove la sottoscrizione di un apposito codice di deontologia e di buona condotta secondo le modalita' di cui all'art. 31, comma 1, lettera h). Resta fermo quanto previsto dall'art. 43, comma 2".
+ 4. I dati personali idonei a rivelare lo stato di salute e la vita sessuale possono essere oggetto di trattamento previa autorizzazione del Garante, qualora il trattamento sia necessario ai fini dello svolgimento delle investigazioni di cui all'art. 38 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvate con [D.Lgs. 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), e successive modificazioni, o, comunque, per far valere o difendere in sede giudiziaria un diritto di rango pari a quello dell'interessato, sempre che i dati siano trattati esclusivamente per tali finalita' e per il periodo strettamente necessario al loro perseguimento. Il Garante prescrive le misure e gli accorgimenti di cui al comma 2 e promuove la sottoscrizione di un apposito codice di deontologia e di buona condotta secondo le modalita' di cui all'art. 31, comma 1, lettera h). Resta fermo quanto previsto dall'art. 43, comma 2".
  "Art. 24 (Dati relativi ai provvedimenti di cui all'[art. 686 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_686)). - 1. Il trattamento di dati personali idonei a rivelare provvedimenti di cui all'art. 686, commi 1, lettere a) e d), 2 e 3, del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), e' ammesso soltanto se autorizzato da espressa disposizione di legge o provvedimento del Garante che specifichino le rilevanti finalita' di interesse pubblico del trattamento, i tipi di dati trattati e le precise operazioni autorizzate".
 
 ### Art. 6. — Documento programmatico sulla sicurezza
@@ -204,7 +204,7 @@ Nel caso di trattamento dei dati di cui agli articoli 22 e 24 della legge effett
 L'efficacia delle misure di sicurezza adottate ai sensi del comma 1 deve essere oggetto di controlli periodici, da eseguirsi con cadenza almeno annuale.
 
 Nota all'art. 6:
- - Per il testo degli articoli 22 e 24 della citata [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), vd. supra in nota all'art. 5.
+ - Per il testo degli articoli 22 e 24 della citata [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), vd. supra in nota all'art. 5.
 
 ### Art. 7. — Reimpiego dei supporti di memorizzazione
 
@@ -246,15 +246,15 @@ Nel caso di trattamento di dati di cui agli articoli 22 e 24 della legge, oltre 
                                 l'accesso agli archivi deve essere controllato e devono essere identificati e registrati i soggetti che vi vengono ammessi dopo l'orario di chiusura degli archivi stessi.
 
 Note all'art. 9:
- - Per il testo dell'art. 3 della citata [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), vd. supra in nota all'art. 2.
- - Si trascrive il testo degli articoli 8 e 19 della citata [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675):
+ - Per il testo dell'art. 3 della citata [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), vd. supra in nota all'art. 2.
+ - Si trascrive il testo degli articoli 8 e 19 della citata [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md):
  "Art. 8 (Responsabile). - 1. Il responsabile, se designato, deve essere nominato tra soggetti che per esperienza, capacita' ed affidabilita' forniscano idonea garanzia del pieno rispetto delle vigenti disposizioni in materia di trattamento, ivi compreso il profilo relativa alla sicurezza.
  2. Il responsabile procede al trattamento attenendosi alle istruzioni impartite dal titolare il quale, anche tramite verifiche periodiche, vigila sulla puntuale osservanza delle disposizioni di cui al comma 1 e delle proprie istruzioni.
  3. Ove necessario per esigenze organizzative, possono essere designati responsabili piu' soggetti, anche mediante suddivisione di compiti.
  4. I compiti affidati al responsabile devono essere analiticamente specificati per iscritto.
  5. Gli incaricati del trattamento devono elaborare i dati personali ai quali hanno accesso attenendosi alle istruzioni del titolare o del responsabile".
  "Art. 19 (Incaricati del trattamento). - 1. Non si considera comunicazione la conoscenza dei dati personali da parte delle persone incaricate per iscritto di compiere le operazioni del trattamento dal titolare o dal responsabile, e che operano sotto la loro diretta autorita'".
- - Per il testo degli articoli 22 e 24 della citata [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675), vd. supra in nota all'art. 5.
+ - Per il testo degli articoli 22 e 24 della citata [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), vd. supra in nota all'art. 5.
 
 ### Art. 10. — Conservazione della documentazione
  relativa al trattamento

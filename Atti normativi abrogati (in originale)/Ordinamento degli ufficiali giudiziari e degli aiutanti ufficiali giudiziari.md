@@ -73,7 +73,7 @@ L'esame di concorso consta:
  b) nozioni di procedura penale;
  Entrambe con speciale riferimento alle funzioni dell'ufficiale giudiziario;
  c) nozioni sull'ordinamento giudiziario e sull'ordinamento degli ufficiali giudiziari e degli aiutanti ufficiali giudiziari;
- 2) di una prova orale sulle predette materie, nonche', nella parte riguardante i servizi degli ufficiali giudiziari, su nozioni relative al [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) e alle leggi di bollo e registro, alle leggi in materia cambiaria ed a quelle che disciplinano i contratti di compravendita degli autoveicoli.
+ 2) di una prova orale sulle predette materie, nonche', nella parte riguardante i servizi degli ufficiali giudiziari, su nozioni relative al [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e alle leggi di bollo e registro, alle leggi in materia cambiaria ed a quelle che disciplinano i contratti di compravendita degli autoveicoli.
  3) di un saggio di dattilografia.
 
 ### Art. 6.
@@ -479,7 +479,7 @@ Quando la Commissione di vigilanza e di disciplina esprime parere che all'uffici
 ### Art. 62.
 
 All'ufficiale giudiziario 6 comminata la destituzione, esclusa qualunque procedura disciplinare:
- a) per qualsiasi condanna passata in giudicato riportata per delitti contro la personalita' internazionale e contro la personalita' interna dello Stato, contro la moralita' ed il buon costume, escluso il delitto colposo di cui al capoverso dell'[art. 527 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_527), ovvero per i delitti contro la fede pubblica e per il delitto d'incesto, per quelli preveduti dagli articoli da 314 a 322, 624, 628, 629, 630, 640, 642, 643, 645, 646;
+ a) per qualsiasi condanna passata in giudicato riportata per delitti contro la personalita' internazionale e contro la personalita' interna dello Stato, contro la moralita' ed il buon costume, escluso il delitto colposo di cui al capoverso dell'[art. 527 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero per i delitti contro la fede pubblica e per il delitto d'incesto, per quelli preveduti dagli articoli da 314 a 322, 624, 628, 629, 630, 640, 642, 643, 645, 646;
  b) per qualsiasi condanna che importi l'interdizione perpetua dai pubblici uffici.
 
 ### Art. 63.
@@ -644,7 +644,7 @@ Salvo quanto e' regolato da leggi speciali, l'ufficiale giudiziario delle pretur
 ### Art. 89.
 
 L'ufficiale giudiziario e' obbligato ad avvalersi del servizio postale per la notificazione degli atti in materia civile ed amministrativa, da eseguirsi fuori del comune di sua, residenza, eccetto che la parte chieda che la notificazione sia, eseguita, di persona. In quest'ultimo caso la richiesta, deve essere fatta per iscritto in calce o a margine dell'atto e firmata dallo stesso richiedente. Se questi non puo' o non sa scrivere, l'ufficiale giudiziario deve farne menzione nell'atto indicandone il motivo.
- La notificazione a mezzo del servizio postale e' eseguita secondo le norme previste dal [regio decreto 21 ottobre 1923, n 2393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2393).
+ La notificazione a mezzo del servizio postale e' eseguita secondo le norme previste dal [regio decreto 21 ottobre 1923, n 2393](Norme%20per%20la%20notificazione%20degli%20atti%20giudiziari%20a%20mezzo%20della%20posta.%20023U2393.md).
 
 ### Art. 90.
 
@@ -687,7 +687,7 @@ Il cancelliere della pretura deve far procedere alla notificazione della copia d
 
 ### Art. 97.
 
-Quando gli atti di pignoramento per la riscossione delle pene pecuniarie e spese di giustizia risultino infruttuosi, gli ufficiali giudiziari devono richiedere, ed allegare ai verbali, un certificato da rilasciarsi dall'autorita' comunale, attestante la insolvibilita' del debitore contro cui hanno proceduto, salvo il disposto degli [articoli 614 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_614) e 40 del [regio decreto 28 maggio 1931, n. 602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-28;602), contenente le disposizioni di attuazione del detto codice.
+Quando gli atti di pignoramento per la riscossione delle pene pecuniarie e spese di giustizia risultino infruttuosi, gli ufficiali giudiziari devono richiedere, ed allegare ai verbali, un certificato da rilasciarsi dall'autorita' comunale, attestante la insolvibilita' del debitore contro cui hanno proceduto, salvo il disposto degli [articoli 614 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_614) e 40 del [regio decreto 28 maggio 1931, n. 602](Disposizioni%20di%20attuazione%20del%20codice%20di%20procedura%20penale.%20031U0602.md), contenente le disposizioni di attuazione del detto codice.
  Gli ufficiali giudiziari possono richiedere all'autorita' comunale il certificato di insolvibilita' a mezzo del servizio postale.
  I verbali ed il certificato sopra, indicati devono essere depositati in cancelleria.
 
@@ -845,7 +845,7 @@ Per gli atti compiuti fuori della sede dell'ufficio spetta all'ufficiale giudizi
 ### Art. 120.
 
 Nel calcolo delle distanze si deve tener conto della piu' breve tra quelle che si possono percorrere per raggiungere il luogo ove l'atto deve essere eseguito.
- Per determinare le singole distanze l'ufficiale giudiziario deve attenersi agli stati compilati giusta le prescrizioni dell'art. 25, prima parte, del [regio decreto 3 maggio 1923, n. 1043](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1043), e, qualora da tali stati le distanze, computabili ai fini dell'indennita' di trasferta, non risultino in tutto o in parte deve comprovarle col certificato dell'autorita' competente, a richiesta della parte.
+ Per determinare le singole distanze l'ufficiale giudiziario deve attenersi agli stati compilati giusta le prescrizioni dell'art. 25, prima parte, del [regio decreto 3 maggio 1923, n. 1043](Che%20stabilisce%20le%20competenze%20dovute%20ai%20testimoni%20periti%20giurati%20e%20ufficiali%20giudiziari%20e%20le%20indennita%20spettanti%20ai%20magistrati%20e%20cancellieri%20per%20le%20trasferte.%20023U1043.md), e, qualora da tali stati le distanze, computabili ai fini dell'indennita' di trasferta, non risultino in tutto o in parte deve comprovarle col certificato dell'autorita' competente, a richiesta della parte.
  Dopo il primo chilometro ogni altro successivo si considera compiuto quando l'ufficiale giudiziario abbia percorso piu' di duecento metri.
 
 ### Art. 121.
@@ -872,7 +872,7 @@ La percentuale sui crediti ricuperati dall'erario sui campioni civili e penali, 
 
 ### Art. 125.
 
-La percentuale sui crediti ricuperati sui campioni amministrativi e' liquidata a favore dell'ufficiale giudiziario, per quanto riguarda, i procedimenti davanti alle giurisdizioni amministrative, sui recuperi delle spese che sono prenotate a debito secondo le norme del regolamento approvato con [regio decreto 17 agosto 1907, n. 640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-17;640), e, per quanto riguarda i giudizi innanzi alla Corte dei conti, sui ricuperi delle spese da ripetersi ai sensi del [regio decreto 5 settembre 1909, n. 776](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-09-05;776), e che risultino prenotate negli appositi campioni esistenti presso gli uffici del registro.
+La percentuale sui crediti ricuperati sui campioni amministrativi e' liquidata a favore dell'ufficiale giudiziario, per quanto riguarda, i procedimenti davanti alle giurisdizioni amministrative, sui recuperi delle spese che sono prenotate a debito secondo le norme del regolamento approvato con [regio decreto 17 agosto 1907, n. 640](Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0640.md), e, per quanto riguarda i giudizi innanzi alla Corte dei conti, sui ricuperi delle spese da ripetersi ai sensi del [regio decreto 5 settembre 1909, n. 776](Che%20approva%20le%20norme%20per%20la%20esecuzione%20delle%20decisioni%20di%20condanna%20pronunziate%20dalla%20Corte%20dei%20conti%20in%20giudizi%20di%20responsabilita%20a%20carico%20di%20funzionari%20pubblici%20o%20di%20agenti%20contabili%20del_bddf1ca35046.md), e che risultino prenotate negli appositi campioni esistenti presso gli uffici del registro.
 
 ### Art. 126.
 
@@ -1124,7 +1124,7 @@ Nel termine di due mesi dalla data di entrata in vigore del presente ordinamento
 
 ### Art. 164.
 
-Gli ufficiali giudiziari che sono stati nominati negli uffici giudiziari delle ex Colonie italiane a seguito di concorso ai sensi degli articoli 90 dell'ordinamento giudiziario della Libia, approvato con [regio decreto 27 giugno 1935, n. 2167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-06-27;2167), e 47 e seguenti delle relative norme di esecuzione, approvate con [regio decreto 27 giugno 1938, n. 2168, ed art. 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-27;2168#art_72) dell'ordinamento giudiziario dell'Eritrea, approvato con [regio decreto 20 giugno 1935, n. 1649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-06-20;1649), andranno a far parte del ruolo degli ufficiali giudiziari della Repubblica italiana in soprannumero, salvo riassorbimento nei primi posti che si renderanno vacanti.
+Gli ufficiali giudiziari che sono stati nominati negli uffici giudiziari delle ex Colonie italiane a seguito di concorso ai sensi degli articoli 90 dell'ordinamento giudiziario della Libia, approvato con [regio decreto 27 giugno 1935, n. 2167](Approvazione%20dellordinamento%20giudiziario%20per%20la%20Libia.%20035U2167.md), e 47 e seguenti delle relative norme di esecuzione, approvate con [regio decreto 27 giugno 1938, n. 2168, ed art. 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-27;2168#art_72) dell'ordinamento giudiziario dell'Eritrea, approvato con [regio decreto 20 giugno 1935, n. 1649](Ordinamento%20giudiziario%20per%20la%20Colonia%20Eritrea.%20035U1649.md), andranno a far parte del ruolo degli ufficiali giudiziari della Repubblica italiana in soprannumero, salvo riassorbimento nei primi posti che si renderanno vacanti.
 
 ### Art. 165.
 
@@ -1137,7 +1137,7 @@ Ogni disposizione del presente ordinamento, la quale fa espresso richiamo al sol
 
 ### Art. 167.
 
-Sono abrogate le disposizioni contenute nella parte prima del testo organico 28 dicembre 1924, n. 2271, riguardante l'ordinamento degli ufficiali giudiziari, nonche' quelle contenute nella [legge 22 dicembre 1932, n. 1675](Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md), nel [regio decreto 8 giugno 1933, n. 621](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-08;621), nel [regio decreto-legge 19 aprile 1934, n. 698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-19;698), e nella [legge 3 giugno 1949, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-06-03;331).
+Sono abrogate le disposizioni contenute nella parte prima del testo organico 28 dicembre 1924, n. 2271, riguardante l'ordinamento degli ufficiali giudiziari, nonche' quelle contenute nella [legge 22 dicembre 1932, n. 1675](Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md), nel [regio decreto 8 giugno 1933, n. 621](Norme%20di%20coordinamento%20e%20di%20attuazione%20della%20legge%2022%20dicembre%201932%20n.%201675%20che%20modifica%20lordinamento%20degli%20ufficiali%20giudiziari.%20033U0621.md), nel [regio decreto-legge 19 aprile 1934, n. 698](Modifiche%20allordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari.%20034U0698.md), e nella [legge 3 giugno 1949, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-06-03;331).
  E' altresi' abrogata ogni altra disposizione contraria o non compatibile con la presente legge.
 
 ### Art. 168.

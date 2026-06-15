@@ -27,7 +27,7 @@ I programmi ed i progetti di ammodernamento e potenziamento nonche' le eventuali
 ## Art. 3.
 
 Sui provvedimenti da adottare ai sensi del precedente articolo 2 sara' in ogni caso preventivamente sentita la regione Campania che si pronuncera' entro 30 giorni dalla richiesta.
- I programmi di ammodernamento e di potenziamento della ferrovia Alifana nonche' quelli delle ferrovie Circumvesuviana, Cumana e Circumflegrea, finanziati dall'[articolo 2 della legge 16 ottobre 1975, n. 493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-10-16;493#art_2), di conversione del [decreto-legge 13 agosto 1975, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1975-08-13;377), saranno approvati previa presentazione di un piano unitario.
+ I programmi di ammodernamento e di potenziamento della ferrovia Alifana nonche' quelli delle ferrovie Circumvesuviana, Cumana e Circumflegrea, finanziati dall'[articolo 2 della legge 16 ottobre 1975, n. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%201975%20n.%20377%20concernente%20provvedimenti%20per%20il%20rilancio%20delleconomia%20riguardanti%20incentivi%20a%20favore%20delle%20piccole%20e%20medie%20_41654cedc883.md), di conversione del [decreto-legge 13 agosto 1975, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1975-08-13;377), saranno approvati previa presentazione di un piano unitario.
  Il Ministro per i trasporti, di concerto con i Ministri per il tesoro e per le finanze, puo' promuovere, d'intesa con la regione Campania, il raggruppamento organico dei servizi ferroviari in concessione dell'area metropolitana di Napoli.
 
 ## Art. 4.

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), e successive modificazioni, convertito nella [legge 21 marzo 1926, numero 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), e successive modificazioni, convertito nella [legge 21 marzo 1926, numero 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto il [R. decreto-legge 16 agosto 1926, n. 1387](Divieto%20di%20assunzione%20di%20nuovo%20personale%20nellAmministrazione%20dello%20Stato%20e%20norme%20per%20il%20riordinamento%20dei%20servizi.%20026U1387.md), convertito nella [legge 14 aprile 1927, n. 605](Conversione%20in%20legge%20di%20decreti%20Reali%20concernenti%20variazioni%20di%20bilancio%20e%20provvedimenti%20vari%20e%20convalidazione%20di%20Regi%20decreti%20relativi%20a%20prelevazioni%20dal%20fondo%20di%20riserva%20per%20le%20spese%20im_2802538c3038.md);
 

@@ -90,7 +90,7 @@ Nei Comuni ove esistono Monti di Pieta' od uffici da essi dipendenti, non potran
  
  E' vietato l'abituale acquisto di polizze del Monte di Pieta' ed il concedere, per professione, sovvenzioni supplementari contro pegni delle polizze stesse. 
  
- Ai contravventori si applicano le disposizioni dell'[art. 495 del cod. pen.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_495)
+ Ai contravventori si applicano le disposizioni dell'[art. 495 del cod. pen.](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)
 
 ## Art. 10.
 

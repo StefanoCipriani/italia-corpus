@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'ordinamento degli assegni del corpo R. equipaggi approvato con [R. decreto 9 giugno 1907, n. 364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-06-09;364);
+Visto l'ordinamento degli assegni del corpo R. equipaggi approvato con [R. decreto 9 giugno 1907, n. 364](Che%20approva%20lannesso%20ordinamento%20degli%20assegni%20del%20corpo%20Reale%20equipaggi.%20007U0364.md);
 
-Visto il [R. decreto 2 settembre 1912, n. 1008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-09-02;1008), che stabilisce gli assegni di viaggio e missione per il personale della R. marina;
+Visto il [R. decreto 2 settembre 1912, n. 1008](Col%20quale%20vengono%20modificate%20le%20tariffe%20degli%20assegni%20di%20viaggio%20o%20missione%20per%20il%20personale%20della%20R.%20marina.%20012U1008.md), che stabilisce gli assegni di viaggio e missione per il personale della R. marina;
 
 Visto il [decreto Luogotenenziale 27 febbraio 1919, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-27;380), concernente gli assegni dovuti ai militari del corpo Reale equipaggi in viaggio, o in missione per motivi di servizio;
 

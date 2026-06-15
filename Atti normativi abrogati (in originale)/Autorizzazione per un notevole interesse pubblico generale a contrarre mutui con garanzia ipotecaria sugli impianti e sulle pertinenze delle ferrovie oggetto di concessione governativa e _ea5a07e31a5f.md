@@ -12,13 +12,13 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
 Visto il [decreto-legge 20 maggio 1924, n. 731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-05-20;731), relativo alla costituzione di un ente denominato "Istituto di credito per le imprese di pubblica utilita'" , e richiamato il disposto del secondo comma dell'art. 2 del decreto medesimo, statuente a garanzia di mutui per dette opere un privilegio sulle opere e sugli impianti, in secondo grado, dopo quello spettante allo Stato;
 
-Visto il [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-01;367), relativo alle provvidenze per agevolare il riassetto della vita civile e per la ripresa economica della Nazione, e richiamata particolarmente la disposizione di cui all'art. 7 del decreto stesso, statuente che il credito derivante dal finanziamento delle opere a privilegio sugli immobili, sugli impianti, sulle concessioni, comprese quelle minerarie, ecc.;
+Visto il [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md), relativo alle provvidenze per agevolare il riassetto della vita civile e per la ripresa economica della Nazione, e richiamata particolarmente la disposizione di cui all'art. 7 del decreto stesso, statuente che il credito derivante dal finanziamento delle opere a privilegio sugli immobili, sugli impianti, sulle concessioni, comprese quelle minerarie, ecc.;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -50,7 +50,7 @@ Il concessionario inadempiente agli obblighi assunti nel contratto di mutuo inco
 
 ## Art. 6.
 
-Nel caso in cui si addivenga alla pronuncia della decadenza del concessionario per la inadempienza di cui al precedente art. 5 ovvero per qualsiasi altra causa, il Ministero dei trasporti provvedera' ad aggiudicare la concessione mediante licitazione o trattativa privata ai termini dell'[art. 14 del regio decreto-legge 2 agosto 1929, n. 2150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-08-02;2150#art_14), convertito nella [legge 22 dicembre 1930, n. 1752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-12-22;1752), ammettendo alla licitazione anche l'ente mutuante, il quale, se riconosciuto idoneo nei riguardi della capacita' tecnica, avra', a parita' di condizioni, titolo di preferenza.
+Nel caso in cui si addivenga alla pronuncia della decadenza del concessionario per la inadempienza di cui al precedente art. 5 ovvero per qualsiasi altra causa, il Ministero dei trasporti provvedera' ad aggiudicare la concessione mediante licitazione o trattativa privata ai termini dell'[art. 14 del regio decreto-legge 2 agosto 1929, n. 2150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-08-02;2150#art_14), convertito nella [legge 22 dicembre 1930, n. 1752](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%202%20agosto%201929%20n.%202150%20contenente%20modifiche%20alla%20vigente%20legislazione%20in%20materia%20di%20concessioni%20di%20ferrovie%20e%20di%20altri%20mezzi%20di%20trasporto.%20030U1752.md), ammettendo alla licitazione anche l'ente mutuante, il quale, se riconosciuto idoneo nei riguardi della capacita' tecnica, avra', a parita' di condizioni, titolo di preferenza.
 
 ## Art. 7.
 

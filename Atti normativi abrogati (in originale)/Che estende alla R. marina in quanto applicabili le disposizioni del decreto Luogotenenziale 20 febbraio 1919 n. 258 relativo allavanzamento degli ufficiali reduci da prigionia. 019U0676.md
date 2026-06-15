@@ -16,7 +16,7 @@ Le disposizioni del [decreto Luogotenenziale 20 febbraio 1919, n. 258](https://w
  
  All'art. 6 e' sostituito il seguente: 
  
- «Agli effetti del presente decreto sono abrogati, per quanto riguarda gli ufficiali, l'[art. 43 della legge 6 marzo 1898, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;59#art_43), sull'avanzamento nei corpi militari della R. marina, e gli articoli 140 e 141 del relativo regolamento approvato con [R. decreto 4 settembre 1898, numero 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-09-04;444).
+ «Agli effetti del presente decreto sono abrogati, per quanto riguarda gli ufficiali, l'[art. 43 della legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md), sull'avanzamento nei corpi militari della R. marina, e gli articoli 140 e 141 del relativo regolamento approvato con [R. decreto 4 settembre 1898, numero 444](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md).
 
 ## Art. 2.
 

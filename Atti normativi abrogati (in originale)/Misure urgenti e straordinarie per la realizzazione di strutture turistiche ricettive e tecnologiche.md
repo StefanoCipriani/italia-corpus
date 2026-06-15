@@ -137,7 +137,7 @@ Gli eventuali oneri derivanti dalla operativita' della garanzia di cambio previs
 
 1.
 
-Il Ministro del turismo e dello spettacolo, sentito il comitato di coordinamento per la programmazione dell'impiantistica sportiva di cui all'[articolo 3 del decreto-legge 2 febbraio 1988, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-02-02;22#art_3), convertito, con modificazioni, dalla [legge 21 marzo 1988, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-21;92), definisce, con proprio decreto, un piano unitario ed organico di interventi straordinari finalizzati alla coordinata realizzazione dei servizi tecnologici, specificamente connessi agli interventi di cui all'[articolo 1, comma 1, lettera a), del decreto-legge 3 gennaio 1987, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-03;2#art_1-com1-leta), convertito, con modificazioni, dalla [legge 6 marzo 1987, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-06;65).
+Il Ministro del turismo e dello spettacolo, sentito il comitato di coordinamento per la programmazione dell'impiantistica sportiva di cui all'[articolo 3 del decreto-legge 2 febbraio 1988, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-02-02;22#art_3), convertito, con modificazioni, dalla [legge 21 marzo 1988, n. 92](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20febbraio%201988%20n.%2022%20recante%20modifiche%20ed%20integrazioni%20al%20decreto-legge%203%20gennaio%201987%20n.%202%20convertito%20con%20modificazioni%20dalla%20le_60122bcf67ec.md), definisce, con proprio decreto, un piano unitario ed organico di interventi straordinari finalizzati alla coordinata realizzazione dei servizi tecnologici, specificamente connessi agli interventi di cui all'[articolo 1, comma 1, lettera a), del decreto-legge 3 gennaio 1987, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-03;2#art_1-com1-leta), convertito, con modificazioni, dalla [legge 6 marzo 1987, n. 65](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20gennaio%201987%20n.%202%20concernente%20misure%20urgenti%20per%20la%20costruzione%20o%20lammodernamento%20di%20impianti%20sportivi%20per%20la%20realizzazione%20o%20co_eb23cf72aa98.md).
 
 2.
 
@@ -149,13 +149,13 @@ Il Ministro del turismo e dello spettacolo esercita l'alta vigilanza sulla reali
 
 4.
 
-Per il migliore espletamento delle funzioni di indirizzo e coordinamento del Governo ai fini del raggiungimento degli obiettivi della programmazione economica nazionale nel settore turistico, in connessione allo svolgimento dei campionati mondiali di calcio del 1990, sul complessivo importo di cui all'[articolo 17, comma 31, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_17-com31), lire 80 miliardi sono destinati al finanziamento di progetti presentati al Ministero del bilancio e della programmazione economica in base alle vigenti norme sul FIO e ritenuti dal CIPE idonei, volti alla realizzazione di interventi miranti a coordinare e interconnettere al livello nazionale le iniziative territoriali di informatizzazione e di sviluppo nel settore del turismo.
+Per il migliore espletamento delle funzioni di indirizzo e coordinamento del Governo ai fini del raggiungimento degli obiettivi della programmazione economica nazionale nel settore turistico, in connessione allo svolgimento dei campionati mondiali di calcio del 1990, sul complessivo importo di cui all'[articolo 17, comma 31, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), lire 80 miliardi sono destinati al finanziamento di progetti presentati al Ministero del bilancio e della programmazione economica in base alle vigenti norme sul FIO e ritenuti dal CIPE idonei, volti alla realizzazione di interventi miranti a coordinare e interconnettere al livello nazionale le iniziative territoriali di informatizzazione e di sviluppo nel settore del turismo.
 
 ## Art. 5.
 
 1.
 
-La [legge 15 maggio 1986, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-15;192), relativa alle agevolazioni a favore dei turisti stranieri motorizzati, e' prorogata fino al 31 dicembre 1991. I buoni di pedaggio autostradale in regime di gratuita' sono sostituiti da una tessera magnetica per pedaggi autostradali.
+La [legge 15 maggio 1986, n. 192](Agevolazioni%20a%20favore%20dei%20turisti%20stranieri%20motorizzati.md), relativa alle agevolazioni a favore dei turisti stranieri motorizzati, e' prorogata fino al 31 dicembre 1991. I buoni di pedaggio autostradale in regime di gratuita' sono sostituiti da una tessera magnetica per pedaggi autostradali.
 
 2.
 
@@ -163,7 +163,7 @@ Le agevolazioni sono estese ai turisti stranieri ed agli italiani residenti all'
 
 3.
 
-Con decreto del Ministro del turismo e dello spettacolo, di concerto con i Ministri del tesoro e delle finanze, da emanarsi entro novanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite le norme per l'applicazione dei benefici di cui al [comma 1 e della legge 15 maggio 1986, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-15;192#art_com1), riguardanti l'emissione, la distribuzione ed il controllo dei buoni benzina, buoni gasolio e tessere magnetiche per pedaggi autostradali, nonche' le loro rispettive caratteristiche, adeguandone i valori.
+Con decreto del Ministro del turismo e dello spettacolo, di concerto con i Ministri del tesoro e delle finanze, da emanarsi entro novanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite le norme per l'applicazione dei benefici di cui al [comma 1 e della legge 15 maggio 1986, n. 192](Agevolazioni%20a%20favore%20dei%20turisti%20stranieri%20motorizzati.md), riguardanti l'emissione, la distribuzione ed il controllo dei buoni benzina, buoni gasolio e tessere magnetiche per pedaggi autostradali, nonche' le loro rispettive caratteristiche, adeguandone i valori.
 
 4.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 26 della legge 21 novembre 1955, n. 1108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-21;1108#art_26), concernente le disposizioni per le concessioni di viaggio sulle ferrovie dello Stato;
+Visto l'[art. 26 della legge 21 novembre 1955, n. 1108](Disposizioni%20per%20le%20concessioni%20di%20viaggio%20sulle%20ferrovie%20dello%20Stato.md), concernente le disposizioni per le concessioni di viaggio sulle ferrovie dello Stato;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per i trasporti e l'aviazione civile, di concerto co
 
 ## Art. 1.
 
-Il rilascio delle concessioni gratuite di viaggio previste dalla [legge 21 novembre 1955, n. 1108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-21;1108), e' subordinato al pagamento da parte del titolare diretto delle medesime di diritti fissati nelle seguenti misure annuali: 
+Il rilascio delle concessioni gratuite di viaggio previste dalla [legge 21 novembre 1955, n. 1108](Disposizioni%20per%20le%20concessioni%20di%20viaggio%20sulle%20ferrovie%20dello%20Stato.md), e' subordinato al pagamento da parte del titolare diretto delle medesime di diritti fissati nelle seguenti misure annuali: 
  L. 50 per ciascun biglietto di 2ª classe serie B, B2, BK2 o equivalente, compreso l'eventuale relativo buono bagaglio; 
  L. 100 per ciascun biglietto di 2ª classe serie B4, BK4 o equivalente, compresi gli eventuali relativi buoni bagaglio; 
  L. 150 per ciascun biglietto di 2ª classe serie B6, BK6 o equivalente, compresi gli eventuali relativi buoni bagaglio; 
@@ -37,7 +37,7 @@ Il rilascio delle concessioni gratuite di viaggio previste dalla [legge 21 novem
 
 ## Art. 2.
 
-Non sono soggette al pagamento di diritti le concessioni di viaggio di cui agli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-21;1108#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-21;1108#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-21;1108#art_4), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-21;1108#art_15), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-21;1108#art_16) e [17 della legge 21 novembre 1955, n. 1108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-21;1108#art_17), nonche' le carte di libera circolazione del personale delle ferrovie dello Stato e della Direzione generale M.C.T.C. in attivita' di servizio e le concessioni del personale a riposo delle ferrovie dello Stato.
+Non sono soggette al pagamento di diritti le concessioni di viaggio di cui agli [articoli 2](Disposizioni%20per%20le%20concessioni%20di%20viaggio%20sulle%20ferrovie%20dello%20Stato.md), [3](Disposizioni%20per%20le%20concessioni%20di%20viaggio%20sulle%20ferrovie%20dello%20Stato.md), [4](Disposizioni%20per%20le%20concessioni%20di%20viaggio%20sulle%20ferrovie%20dello%20Stato.md), [15](Disposizioni%20per%20le%20concessioni%20di%20viaggio%20sulle%20ferrovie%20dello%20Stato.md), [16](Disposizioni%20per%20le%20concessioni%20di%20viaggio%20sulle%20ferrovie%20dello%20Stato.md) e [17 della legge 21 novembre 1955, n. 1108](Disposizioni%20per%20le%20concessioni%20di%20viaggio%20sulle%20ferrovie%20dello%20Stato.md), nonche' le carte di libera circolazione del personale delle ferrovie dello Stato e della Direzione generale M.C.T.C. in attivita' di servizio e le concessioni del personale a riposo delle ferrovie dello Stato.
  Le carte di libera circolazione e i biglietti concessi in base a convenzioni o ai sensi degli articoli 7 punto 3, 9 e 10 punti 2) sub n) e 3), della stessa legge, non sono gravati da diritti.
 
 ## Art. 3.

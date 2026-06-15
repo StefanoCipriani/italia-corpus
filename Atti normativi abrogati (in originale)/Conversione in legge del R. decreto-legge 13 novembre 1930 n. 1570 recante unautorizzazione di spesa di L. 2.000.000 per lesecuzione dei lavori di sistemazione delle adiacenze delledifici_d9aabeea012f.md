@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 novembre 1930, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-13;1570), riguardante l'autorizzazione di una spesa di lire 2.000.000 per la esecuzione dei lavori di sistemazione delle adiacenze dell'edificio del Viminale in Roma e, particolarmente, del piazzale antistante. 
+ E' convertito in legge il [R. decreto-legge 13 novembre 1930, n. 1570](Autorizzazione%20di%20spesa%20per%20lesecuzione%20dei%20lavori%20di%20sistemazione%20delle%20adiacenze%20delledificio%20del%20Viminale%20in%20Roma.%20030U1570.md), riguardante l'autorizzazione di una spesa di lire 2.000.000 per la esecuzione dei lavori di sistemazione delle adiacenze dell'edificio del Viminale in Roma e, particolarmente, del piazzale antistante. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

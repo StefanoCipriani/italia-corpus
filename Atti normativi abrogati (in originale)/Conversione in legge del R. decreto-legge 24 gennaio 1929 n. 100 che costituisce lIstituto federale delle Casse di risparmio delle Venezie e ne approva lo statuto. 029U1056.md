@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 gennaio 1929, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-24;100), che costituisce l'Istituto federale delle Casse di risparmio delle Venezie e ne approva lo statuto. 
+ E' convertito in legge il [R. decreto-legge 24 gennaio 1929, n. 100](Costituzione%20dellIstituto%20federale%20delle%20Casse%20di%20risparmio%20delle%20Venezie.%20029U0100.md), che costituisce l'Istituto federale delle Casse di risparmio delle Venezie e ne approva lo statuto. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

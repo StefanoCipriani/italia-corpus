@@ -16,9 +16,9 @@ IL MINISTRO DELLE FINANZE
  
  Ritenuto che la Banca Nazionale nel Regno, all'oggetto di rimuovere i danni provenienti dalle molte contraffazioni verificatesi in passato nei biglietti in corso da lire cinquanta, ha determinato di procedere al rinnovamento dei medesimi, sostituendoli con altri dello stesso taglio, ma di differente modello, e che presenti maggiori garanzie; 
  
- Visto l'[art. 8 della legge 30 aprile 1874, numero 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1874-04-30;1920#art_8); 
+ Visto l'[art. 8 della legge 30 aprile 1874, numero 1920](Sulla%20circolazione%20cartacea%20durante%20il%20corso%20forzoso.%20074U1920.md); 
  
- Visto l'[art. 5 del R. decreto 14 giugno 1874, n. 1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1874-06-14;1942#art_5), 
+ Visto l'[art. 5 del R. decreto 14 giugno 1874, n. 1942](Che%20regola%20la%20circolazione%20dei%20biglietti%20della%20Banca%20Nazionale%20nel%20Regno%20d%20Italia%20fino%20alla%20emissione%20dei%20biglietti%20del%20Consorzio.%20074U1942.md), 
  
  Determina quanto segue: 
  

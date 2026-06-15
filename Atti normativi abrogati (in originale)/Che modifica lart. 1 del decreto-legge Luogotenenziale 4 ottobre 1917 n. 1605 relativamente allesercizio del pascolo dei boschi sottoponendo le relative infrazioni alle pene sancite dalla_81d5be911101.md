@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 20 giugno 1877, n. 3917; 31 marzo 1904, n. 2140; 25 giugno 1906, n. 255; e 2 giugno 1910, numero 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277);
+Viste le [leggi 20 giugno 1877, n. 3917; 31 marzo 1904, n. 2140; 25 giugno 1906, n. 255; e 2 giugno 1910, numero 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md);
 
 Visto il [decreto-legge 6 maggio 1915, n. 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-05-06;589);
 
@@ -36,7 +36,7 @@ All'articolo 1 del titolo I del [decreto-legge 4 ottobre 1917, n. 1605](https://
  
  Nei boschi vincolati di nuovo impianto, o sottoposti a taglio generale o parziale, oppure distrutti dagl'incendi, non sara' permesso il pascolo se le giovani piante e i nuovi virgulti non abbiano raggiunto uno sviluppo tale da non risentirne alcun danno. 
  
- Il pascolo sara' concesso dai Comitati forestali provinciali quando concorra il parere favorevole dell'ispettore forestale, salvo le disposizioni dell'[art. 72 della legge 25 giugno 1906, n. 255 e 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;42#art_72) della [legge 31 marzo 1904, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;140). 
+ Il pascolo sara' concesso dai Comitati forestali provinciali quando concorra il parere favorevole dell'ispettore forestale, salvo le disposizioni dell'[art. 72 della legge 25 giugno 1906, n. 255 e 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;42#art_72) della [legge 31 marzo 1904, n. 140](Che%20emana%20provvedimenti%20a%20favore%20della%20provincia%20di%20Basilicata.%20004U0140.md). 
  
  Sara' pure vietato il pascolo, su proposta degli ispettori forestali, nei boschi adulti troppo radi e deperienti, onde assicurarne la riproduzione. 
  

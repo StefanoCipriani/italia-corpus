@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il Codice per la marina mercantile ed il relativo regolamento, approvato col [R. decreto 20 novembre 1879, numero 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166);
+Visto il Codice per la marina mercantile ed il relativo regolamento, approvato col [R. decreto 20 novembre 1879, numero 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md);
 
 Visto il [R. decreto-legge 20 marzo 1927, n. 402](Proroga%20delle%20disposizioni%20limitatrici%20della%20facolta%20discrizione%20nelle%20matricole%20della%20gente%20di%20mare.%20027U0402.md);
 

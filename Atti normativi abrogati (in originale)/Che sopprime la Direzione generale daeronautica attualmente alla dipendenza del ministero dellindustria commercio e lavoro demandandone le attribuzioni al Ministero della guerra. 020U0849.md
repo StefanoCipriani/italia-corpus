@@ -18,7 +18,7 @@ Visto il [decreto-legge Luogotenenziale n. 1233, del 30 giugno 1919](che%20istit
 
 Visto il [R. decreto n. 1626 del 14 settembre 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-14;1626);
 
-Visto il [R decreto n. 1939 del 6 ottobre 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-06;1939);
+Visto il [R decreto n. 1939 del 6 ottobre 1919](Che%20sopprime%20il%20Sottosegretariato%20di%20Stato%20per%20la%20liquidazione%20dei%20servizi%20delle%20armi%20e%20munizioni%20e%20dellaeronautica.%20019U1939.md);
 
 Visto il [R. decreto n. 105 del 4 gennaio 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-04;105);
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico, 
  
- In modificazione di quanto e' stabilito dal [R. decreto-legge 8 aprile 1929, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-04-08;627), convertito nella [legge 26 luglio 1929, n. 1440](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20aprile%201929%20n.%20627%20concernente%20la%20rigatura%20del%20contorno%20godronatura%20delle%20monete%20di%20nichelio%20da%20cent.%2050.%20029U1440.md), le monete di nichelio puro da centesimi 50, a contorno liscio, continuano ad aver corso legale fino al 31 dicembre 1931. 
+ In modificazione di quanto e' stabilito dal [R. decreto-legge 8 aprile 1929, n. 627](Godronatura%20delle%20monete%20di%20nichelio%20da%20cent.%2050.%20029U0627.md), convertito nella [legge 26 luglio 1929, n. 1440](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20aprile%201929%20n.%20627%20concernente%20la%20rigatura%20del%20contorno%20godronatura%20delle%20monete%20di%20nichelio%20da%20cent.%2050.%20029U1440.md), le monete di nichelio puro da centesimi 50, a contorno liscio, continuano ad aver corso legale fino al 31 dicembre 1931. 
  
  Le monete anzidette saranno prescritte al 30 giugno 1932. 
  

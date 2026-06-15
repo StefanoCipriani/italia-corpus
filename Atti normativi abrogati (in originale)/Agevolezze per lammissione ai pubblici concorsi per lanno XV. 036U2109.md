@@ -34,7 +34,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, e del M
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 8 aprile 1937, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-04-08;498), convertito, senza modificazioni, dalla [L. 7 giugno 1937, n. 1094](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20aprile%201937-XV%20n.%20498%20recante%20disposizioni%20concernenti%20la%20non%20applicazione%20ai%20reclutamenti%20nei%20ruoli%20di%20personali%20militari%20del%20R.%20decreto-legge_1eb724c44d5c.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 8 aprile 1937, n. 498](Disposizioni%20concernenti%20la%20non%20applicazione%20ai%20reclutamenti%20nei%20ruoli%20di%20personali%20militari%20del%20R.%20decreto-legge%207%20dicembre%201936-XV%20n.%202109%20contenente%20agevolezze%20per%20lammissione%20ai%20pubbl_bae68dbb6c16.md), convertito, senza modificazioni, dalla [L. 7 giugno 1937, n. 1094](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20aprile%201937-XV%20n.%20498%20recante%20disposizioni%20concernenti%20la%20non%20applicazione%20ai%20reclutamenti%20nei%20ruoli%20di%20personali%20militari%20del%20R.%20decreto-legge_1eb724c44d5c.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ Nota redazionale
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 8 aprile 1937, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-04-08;498), convertito, senza modificazioni, dalla [L. 7 giugno 1937, n. 1094](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20aprile%201937-XV%20n.%20498%20recante%20disposizioni%20concernenti%20la%20non%20applicazione%20ai%20reclutamenti%20nei%20ruoli%20di%20personali%20militari%20del%20R.%20decreto-legge_1eb724c44d5c.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 8 aprile 1937, n. 498](Disposizioni%20concernenti%20la%20non%20applicazione%20ai%20reclutamenti%20nei%20ruoli%20di%20personali%20militari%20del%20R.%20decreto-legge%207%20dicembre%201936-XV%20n.%202109%20contenente%20agevolezze%20per%20lammissione%20ai%20pubbl_bae68dbb6c16.md), convertito, senza modificazioni, dalla [L. 7 giugno 1937, n. 1094](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20aprile%201937-XV%20n.%20498%20recante%20disposizioni%20concernenti%20la%20non%20applicazione%20ai%20reclutamenti%20nei%20ruoli%20di%20personali%20militari%20del%20R.%20decreto-legge_1eb724c44d5c.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
@@ -50,7 +50,7 @@ Nota redazionale
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 8 aprile 1937, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-04-08;498), convertito, senza modificazioni, dalla [L. 7 giugno 1937, n. 1094](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20aprile%201937-XV%20n.%20498%20recante%20disposizioni%20concernenti%20la%20non%20applicazione%20ai%20reclutamenti%20nei%20ruoli%20di%20personali%20militari%20del%20R.%20decreto-legge_1eb724c44d5c.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 8 aprile 1937, n. 498](Disposizioni%20concernenti%20la%20non%20applicazione%20ai%20reclutamenti%20nei%20ruoli%20di%20personali%20militari%20del%20R.%20decreto-legge%207%20dicembre%201936-XV%20n.%202109%20contenente%20agevolezze%20per%20lammissione%20ai%20pubbl_bae68dbb6c16.md), convertito, senza modificazioni, dalla [L. 7 giugno 1937, n. 1094](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20aprile%201937-XV%20n.%20498%20recante%20disposizioni%20concernenti%20la%20non%20applicazione%20ai%20reclutamenti%20nei%20ruoli%20di%20personali%20militari%20del%20R.%20decreto-legge_1eb724c44d5c.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 
@@ -60,7 +60,7 @@ Nota redazionale
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 8 aprile 1937, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-04-08;498), convertito, senza modificazioni, dalla [L. 7 giugno 1937, n. 1094](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20aprile%201937-XV%20n.%20498%20recante%20disposizioni%20concernenti%20la%20non%20applicazione%20ai%20reclutamenti%20nei%20ruoli%20di%20personali%20militari%20del%20R.%20decreto-legge_1eb724c44d5c.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 8 aprile 1937, n. 498](Disposizioni%20concernenti%20la%20non%20applicazione%20ai%20reclutamenti%20nei%20ruoli%20di%20personali%20militari%20del%20R.%20decreto-legge%207%20dicembre%201936-XV%20n.%202109%20contenente%20agevolezze%20per%20lammissione%20ai%20pubbl_bae68dbb6c16.md), convertito, senza modificazioni, dalla [L. 7 giugno 1937, n. 1094](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20aprile%201937-XV%20n.%20498%20recante%20disposizioni%20concernenti%20la%20non%20applicazione%20ai%20reclutamenti%20nei%20ruoli%20di%20personali%20militari%20del%20R.%20decreto-legge_1eb724c44d5c.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 5.
 

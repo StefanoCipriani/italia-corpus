@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [decreto legislativo 17 aprile 1948, n. 777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;777), e' ratificato con le seguenti modificazioni:
+Il [decreto legislativo 17 aprile 1948, n. 777](../Decreti%20Legislativi/Modificazioni%20alle%20disposizioni%20sulla%20esecuzione%20di%20opere%20pubbliche%20e%20alle%20norme%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Provveditorati%20alle%20opere%20pubbliche.md), e' ratificato con le seguenti modificazioni:
  Art. 1. - E' sostituito dal seguente:
  "Per l'appalto di opere da eseguire a cura del Ministero dei lavori pubblici e' richiesto il parere del Consiglio di Stato se l'importo dell'opera da appaltare superi le lire 50.000.000 e si intenda provvedere mediante trattativa privata o all'esecuzione in economia, ovvero se l'importo superi le lire 100.000.000 e si intenda provvedere mediante asta pubblica o licitazione privata o appalto-concorso.
  Sugli atti di transazione e sugli esoneri di penalita' contrattuali deve essere sentito il parere del detto Consesso, quando cio' che si chiede che l'Amministrazione prometta, abbandoni o paghi sia determinato o determinabile in somma eccedente le lire 10.000.000".

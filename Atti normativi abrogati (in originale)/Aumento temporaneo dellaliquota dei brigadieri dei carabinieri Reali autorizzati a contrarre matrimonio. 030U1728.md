@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'aliquota dei brigadieri dei carabinieri Reali che possono essere autorizzati a centrane matrimonio, ai sensi delle disposizioni contenute nell'[art. 1 del R. decreto-legge 20 novembre 1919, n. 2379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-20;2379#art_1), convertito nella [legge 21 agosto 1922, n. 1264](Che%20converte%20in%20legge%20il%20R.%20decreto%2020%20novembre%201919%20n.%202379%20contenente%20disposizioni%20relative%20al%20matrimonio%20dei%20sottufficiali%20del%20R.%20esercito%20e%20degli%20appuntati%20dei%20carabinieri%20Reali.%20022U1264.md), e' aumentata, in via transitoria, di 375 posti.
+L'aliquota dei brigadieri dei carabinieri Reali che possono essere autorizzati a centrane matrimonio, ai sensi delle disposizioni contenute nell'[art. 1 del R. decreto-legge 20 novembre 1919, n. 2379](Che%20detta%20norme%20pel%20matrimonio%20dei%20sottufficiali%20del%20R.%20esercito%20e%20degli%20appuntati%20dei%20carabinieri%20Reali.%20019U2379.md), convertito nella [legge 21 agosto 1922, n. 1264](Che%20converte%20in%20legge%20il%20R.%20decreto%2020%20novembre%201919%20n.%202379%20contenente%20disposizioni%20relative%20al%20matrimonio%20dei%20sottufficiali%20del%20R.%20esercito%20e%20degli%20appuntati%20dei%20carabinieri%20Reali.%20022U1264.md), e' aumentata, in via transitoria, di 375 posti.
 
 ## Art. 2.
 

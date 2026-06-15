@@ -40,7 +40,7 @@ E' approvata l'eccedenza d'impegni di L. 1.369.379,84 sull'assegnazione del capi
 
 ## Art. 4.
 
-E' approvata l'eccedenza d'impegni di L. 2.268.807,95 sull'assegnazione del capitolo n. 57 «Interessi sulle somme pagate dal tesoro con mezzi ordinari di tesoreria (art. 3 capoverso ultimo della [legge 23 dicembre 1906, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-12-23;638))» dello stato di previsione della spesa dell'azienda ferroviaria dello Stato per l'esercizio finanziario 1914-915.
+E' approvata l'eccedenza d'impegni di L. 2.268.807,95 sull'assegnazione del capitolo n. 57 «Interessi sulle somme pagate dal tesoro con mezzi ordinari di tesoreria (art. 3 capoverso ultimo della [legge 23 dicembre 1906, n. 638](Spese%20straordinarie%20occorrenti%20per%20le%20ferrovie%20esercitate%20dallo%20Stato%20e%20relativa%20provvista%20di%20fondi.%20006U0638.md))» dello stato di previsione della spesa dell'azienda ferroviaria dello Stato per l'esercizio finanziario 1914-915.
 
 ## Art. 5.
 

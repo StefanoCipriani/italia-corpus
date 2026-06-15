@@ -19,7 +19,7 @@ Per effetto delle conversioni eseguite dalla Direzione
  a) Rendita annullata per conversione 
  privilegiata nel consolidato 4;50 % netto, 
  in forza dell'[articolo 2, comma 4 della legge 
- 22 luglio 1894, n. 339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339#art_2-com4) . . . . . . . . . . . . . . . L. 7,784 -- 
+ 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md) . . . . . . . . . . . . . . . L. 7,784 -- 
  
  b) Rendita annullata per prescrizione trentennale . » 129 50 
  
@@ -36,12 +36,12 @@ Per effetto delle conversioni eseguite dalla Direzione
  per conversione privilegiata di rendita 
  del consolidato 3,50 per cento (1906) giusta 
  l'[art. 2 comma 4 della legge 22 luglio 1894, 
- n. 339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339#art_2-com4). . . . . . . . . . . . . . . . . . . . . . . . L. 9,652 16 
+ n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md). . . . . . . . . . . . . . . . . . . . . . . . L. 9,652 16 
  
  b) Rendita inscritta nell'esercizio 1915-916 
  per ricostituzione di rendite indebitamente 
  convertite nel consolidato 3,50 % (1902) in 
- forza della [legge 21 dicembre 1903, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483) . . . . . » 795 -- 
+ forza della [legge 21 dicembre 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md) . . . . . » 795 -- 
  
  ---------- 
  Totale dell'aumento L. 10,447 16 
@@ -52,7 +52,7 @@ Per effetto delle conversioni eseguite dalla Direzione
  1915-916 per conversione in 
  rendita consolidata 3,50 % netto, 
  in forza della [legge 21 dicembre 
- 1903, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483) . . . . . . . . . . . . . L. 286 87 
+ 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md) . . . . . . . . . . . . . L. 286 87 
  
  b) Interessi per i trimestri al 1° 
  gennaio, 1° aprile, 1° luglio 1917 
@@ -61,7 +61,7 @@ Per effetto delle conversioni eseguite dalla Direzione
  ottobre 1916 per conversione 
  nel consolidato 3,50 % (1902) 
  giusta la [legge 21 dicembre 1903, 
- n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483) . . . . . . . . . . . . . . . . » 1,423 95 
+ n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md) . . . . . . . . . . . . . . . . » 1,423 95 
  
  ------------ 1,710 82 
  
@@ -69,7 +69,7 @@ Per effetto delle conversioni eseguite dalla Direzione
  Aumento risultante . . . L. 8.736 34 
  ---------- 
  
- Al capitolo n. 4. - Rendita consolidata 3,50 % al netto creata in virtu' delle [leggi 12 giugno 1902, n. 166 e 21 dicembre 1903, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483) (Spesa obbligatoria): 
+ Al capitolo n. 4. - Rendita consolidata 3,50 % al netto creata in virtu' delle [leggi 12 giugno 1902, n. 166 e 21 dicembre 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md) (Spesa obbligatoria): 
  
  In aumento: 
  
@@ -86,7 +86,7 @@ Per effetto delle conversioni eseguite dalla Direzione
  durante l'esercizio 1916-917 per ricostituzione 
  nel cons. 4,50 %, e la rendita di L. 233 inscritta 
  per conversione di rendita 4,50 % giusta 
- la [legge 21 dicembre 1903, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483) . . . . . . . . . . » 395 21 
+ la [legge 21 dicembre 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md) . . . . . . . . . . » 395 21 
  
  ---------- 
  Aumento risultante . . . L. 712 31 

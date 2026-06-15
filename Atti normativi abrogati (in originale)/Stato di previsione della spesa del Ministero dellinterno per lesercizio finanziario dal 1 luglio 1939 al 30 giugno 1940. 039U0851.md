@@ -14,7 +14,7 @@ Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie
 
 ## Art. 2.
 
-L'integrazione, a carico dello Stato, dei bilanci dell'Amministrazione provinciale di Zara e dei comuni della provincia stessa, autorizzata col [R. decreto-legge 9 novembre 1924, n. 1958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-09;1958), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), fino a tutto l'anno 1929, e' prorogata, successivamente, fino a tutto il 1938, e' ulteriormente prorogata, nella misura di L. 1.000.000, a tutto l'anno 1939.
+L'integrazione, a carico dello Stato, dei bilanci dell'Amministrazione provinciale di Zara e dei comuni della provincia stessa, autorizzata col [R. decreto-legge 9 novembre 1924, n. 1958](Provvedimenti%20a%20favore%20dellAmministrazione%20provinciale%20di%20Zara%20e%20dei%20Comuni%20della%20Provincia%20stessa.%20024U1958.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), fino a tutto l'anno 1929, e' prorogata, successivamente, fino a tutto il 1938, e' ulteriormente prorogata, nella misura di L. 1.000.000, a tutto l'anno 1939.
 
 ## Art. 3.
 

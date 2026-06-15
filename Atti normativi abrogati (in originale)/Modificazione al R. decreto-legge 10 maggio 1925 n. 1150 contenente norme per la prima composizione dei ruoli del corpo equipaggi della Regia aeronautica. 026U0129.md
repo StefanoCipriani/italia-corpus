@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 30 agosto 1925, n. 1513](Costituzione%20del%20Ministero%20dellaeronautica.%20025U1513.md);
 
-Visto il [R. decreto 28 marzo 1923, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-28;645);
+Visto il [R. decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md);
 
 Visto il [R. decreto-legge 4 maggio 1925, n. 627](Ordinamento%20della%20Regia%20aeronautica.%20025U0627.md);
 

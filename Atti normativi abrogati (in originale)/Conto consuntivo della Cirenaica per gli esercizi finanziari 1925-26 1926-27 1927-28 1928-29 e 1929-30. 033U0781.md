@@ -950,7 +950,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1927-28 sono stabilit
 
 ### Art. 40.
 
-Ai sensi dell'articolo 65 dell'ordinamento amministrativo-contabile per la Tripolitania e la Cirenaica, approvato con [Regio decreto 26 giugno 1925, n. 1271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-26;1271), all'articolo n. 85, «accantonamento per provvedere all'eventuale pagamento di saldi, ecc.», del bilancio della Cirenaica per l'esercizio finanziario 1927-28, e' inscritta la somma di lire 163.071,10.
+Ai sensi dell'articolo 65 dell'ordinamento amministrativo-contabile per la Tripolitania e la Cirenaica, approvato con [Regio decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), all'articolo n. 85, «accantonamento per provvedere all'eventuale pagamento di saldi, ecc.», del bilancio della Cirenaica per l'esercizio finanziario 1927-28, e' inscritta la somma di lire 163.071,10.
 
 ### Art. 41.
 
@@ -1790,7 +1790,7 @@ Alla competenza dell'articolo aggiunto 93 del bilancio della Cirenaica per l'ese
  
  -------- 
  
- A norma dell'[articolo 2 del Regio decreto-legge 25 marzo 1929, n. 531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-25;531#art_2), e' istituito per memoria l'articolo 93-bis «Fondo di riserva» da destinarsi, negli esercizi successivi, a fronteggiare straordinarie necessita' di bilancio derivanti da minor gettito di entrate, dalla gestione dei residui e da altre cause eccezionali, uniche alle spese straordinarie di carattere patrimoniale o ad altre di pubblica utilita', alle quali non si possa far fronte con le entrate proprie della Colonia. 
+ A norma dell'[articolo 2 del Regio decreto-legge 25 marzo 1929, n. 531](Contributo%20dello%20Stato%20diretto%20a%20consolidare%20per%20gli%20esercizi%20finanziari%20dal%201929-30%20al%201932-33%20i%20bilanci%20della%20Tripolitania%20Cirenaica%20Eritrea%20e%20Somalia.%20029U0531.md), e' istituito per memoria l'articolo 93-bis «Fondo di riserva» da destinarsi, negli esercizi successivi, a fronteggiare straordinarie necessita' di bilancio derivanti da minor gettito di entrate, dalla gestione dei residui e da altre cause eccezionali, uniche alle spese straordinarie di carattere patrimoniale o ad altre di pubblica utilita', alle quali non si possa far fronte con le entrate proprie della Colonia. 
  
  A detto articolo peraltro non e' stata conferita alcuna dotazione permanendo nel conto dell'esercizio 1929-30 l'articolo 93 «Accantonamento, ecc.» la dotazione del quale, risultante come nel 1° comma e' detto, puo' ritenersi appena sufficiente per coprire le spese residue.
 

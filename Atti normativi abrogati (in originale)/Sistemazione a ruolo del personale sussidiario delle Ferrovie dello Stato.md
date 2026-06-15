@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il regolamento del personale delle Ferrovie dello Stato, approvato con [R. decreto-legge 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-07;405), convertito nella [legge 21 marzo 1926, numero 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597) e successive modificazioni ed aggiunte;
+Visto il regolamento del personale delle Ferrovie dello Stato, approvato con [R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), convertito nella [legge 21 marzo 1926, numero 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md) e successive modificazioni ed aggiunte;
 
-Visto il [R. decreto-legge 17 novembre 1938, n. 1785](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-17;1785);
+Visto il [R. decreto-legge 17 novembre 1938, n. 1785](Aggiunte%20e%20modificazioni%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato%20approvato%20con%20R.%20decreto-legge%207%20aprile%201925%20n.%20405%20convertito%20nella%20legge%2021%20marzo%201926%20n.%20597%20e%20successi_a90e48c94169.md);
 
 Visto il [decreto Luogotenenziale 25 maggio 1945, numero 325](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-25;325) Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -37,7 +37,7 @@ Il [decreto Luogotenenziale 25 maggio 1945, n. 325](https://www.normattiva.it/ur
 ## Art. 2.
 
 La categoria dei sussidiari nell'Amministrazione delle ferrovie dello stato e' abolita.
- Sono soppressi gli articoli 16, 17, 18, 19 e 20 del regolamento del personale approvato con [R. decreto-legge 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-07;405) e successive modificazioni ed aggiunte.
+ Sono soppressi gli articoli 16, 17, 18, 19 e 20 del regolamento del personale approvato con [R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md) e successive modificazioni ed aggiunte.
  Negli articoli 1, 14, 15, 23 e 24 del citato regolamento e' soppressa la parte riguardante gli agenti sussidiari.
 
 ## Art. 3.
@@ -70,7 +70,7 @@ I benefici economici derivanti dall'applicazione del presente decreto avranno un
 I sussidiari sistemati a ruolo in forza del presente decreto sono iscritti al fondo pensioni dalla data della nomina a ruolo.
  Le ritenute per il fondo pensioni si inizieranno dal mese successivo a quello della cessazione dell'assicurazione all'Istituto nazionale delle assicurazioni.
  Il capitale liquidato dall'Istituto nazionale delle assicurazioni sara' incamerato dal Fondo pensioni.
- Il servizio prestato precedentemente alla nomina a ruolo e' riconoscibile o riscattabile ai sensi e con le norme degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-07;2590#art_1) e [2 del R. decreto 7 dicembre 1923, n. 2590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-07;2590#art_2).
+ Il servizio prestato precedentemente alla nomina a ruolo e' riconoscibile o riscattabile ai sensi e con le norme degli [articoli 1](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md) e [2 del R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md).
 
 ## Art. 8.
 

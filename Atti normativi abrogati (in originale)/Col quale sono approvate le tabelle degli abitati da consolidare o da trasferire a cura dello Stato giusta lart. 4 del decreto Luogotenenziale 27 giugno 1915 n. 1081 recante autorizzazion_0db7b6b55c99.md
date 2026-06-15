@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Sono approvate, a' termini dell'art. 4 del citato Nostro decreto 27 giugno 1915, n. 1081, le annesse tabelle A), B), C), D), viste, d'ordine Nostro, dai ministri proponenti, degli abitati da aggiungere, a tutti gli effetti della [legge 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445) (titolo IV) a quelli indicati nella tabella E) allegata alla [legge 31 marzo 1904, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;140), nella tabella G) allegata alla [legge 25 giugno 1906, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255), e nelle tabelle D) ed E) allegate alla legge 9 luglio 1908 predetta. 
+ Sono approvate, a' termini dell'art. 4 del citato Nostro decreto 27 giugno 1915, n. 1081, le annesse tabelle A), B), C), D), viste, d'ordine Nostro, dai ministri proponenti, degli abitati da aggiungere, a tutti gli effetti della [legge 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445) (titolo IV) a quelli indicati nella tabella E) allegata alla [legge 31 marzo 1904, n. 140](Che%20emana%20provvedimenti%20a%20favore%20della%20provincia%20di%20Basilicata.%20004U0140.md), nella tabella G) allegata alla [legge 25 giugno 1906, n. 255](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), e nelle tabelle D) ed E) allegate alla legge 9 luglio 1908 predetta. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

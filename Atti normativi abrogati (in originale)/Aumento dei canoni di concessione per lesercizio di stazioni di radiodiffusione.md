@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 1° maggio 1924, n. 655](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-01;655), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [regio decreto-legge 1° maggio 1924, n. 655](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%201067%20e%2027%20settembre%201923%20n.%202351%20relativi%20alle%20comunicazioni%20senza%20filo.%20024U0655.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il [regio decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562);
+Visto il [regio decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Vista la [legge 22 luglio 1939, n. 1147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-22;1147);
+Vista la [legge 22 luglio 1939, n. 1147](Canone%20di%20concessione%20per%20stazioni%20di%20radiodiffusione%20ripetitrici%20ovvero%20di%20piccola%20potenza.%20039U1147.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
@@ -28,11 +28,11 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Art. 1.
 
-Il canone annuo di concessione per l'esercizio delle stazioni radiodiffonditrici dell'Ente concessionario del servizio delle radiodiffusioni, previsto dall'[art. 2 del regio decreto-legge 1° maggio 1924, n. 655](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-01;655#art_2), convertito nella [legge 17 aprile 1925, n. 473, e dall'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473#art_1) del [regio decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562), viene stabilito in lire sessantamila salvo il disposto di cui al successivo art. 2.
+Il canone annuo di concessione per l'esercizio delle stazioni radiodiffonditrici dell'Ente concessionario del servizio delle radiodiffusioni, previsto dall'[art. 2 del regio decreto-legge 1° maggio 1924, n. 655](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%201067%20e%2027%20settembre%201923%20n.%202351%20relativi%20alle%20comunicazioni%20senza%20filo.%20024U0655.md), convertito nella [legge 17 aprile 1925, n. 473, e dall'art. 1](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md) del [regio decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), viene stabilito in lire sessantamila salvo il disposto di cui al successivo art. 2.
 
 ## Art. 2.
 
-Il canone annuo di concessione per l'esercizio delle stazioni trasmittenti in funzione di ripetitrici ovvero di potenza non superiore a 1 Kw-antenna, previsto dalla [legge 22 luglio 1939, n. 1147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-22;1147), e' stabilito in lire dodicimila.
+Il canone annuo di concessione per l'esercizio delle stazioni trasmittenti in funzione di ripetitrici ovvero di potenza non superiore a 1 Kw-antenna, previsto dalla [legge 22 luglio 1939, n. 1147](Canone%20di%20concessione%20per%20stazioni%20di%20radiodiffusione%20ripetitrici%20ovvero%20di%20piccola%20potenza.%20039U1147.md), e' stabilito in lire dodicimila.
 
 ## Art. 3.
 

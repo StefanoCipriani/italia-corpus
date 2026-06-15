@@ -36,7 +36,7 @@ Al fine di accelerare la definizione delle controversie pendenti davanti agli or
 
 2.
 
-Sono rimessi alle sezioni stralcio i ricorsi depositati in primo e secondo grado concernenti le controversie di cui al secondo periodo del [comma 17, dell'articolo 45 del decreto legislativo 31 marzo 1998, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;80#art_45-com17), nonche' le controversie introdotte con ricorsi depositati anteriormente alla data del 1o gennaio 1996.
+Sono rimessi alle sezioni stralcio i ricorsi depositati in primo e secondo grado concernenti le controversie di cui al secondo periodo del [comma 17, dell'articolo 45 del decreto legislativo 31 marzo 1998, n. 80](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuove%20disposizioni%20in%20materia%20di%20organizzazione%20e%20di%20rapporti%20di%20lavoro%20nelle%20amministrazioni%20pubbliche%20di%20giurisdizione%20nelle%20controversie%20di%20lavoro%20e%20di%20giurisdizione%20amministrativa%20ema_9cf1dd317dff.md), nonche' le controversie introdotte con ricorsi depositati anteriormente alla data del 1o gennaio 1996.
 
 3.
 
@@ -109,7 +109,7 @@ Quaranta unita' del contingente di cui al comma 3 sono adibite, con qualifica di
 
 5.
 
-Le assunzioni derivanti dall'aumento delle dotazioni organiche di cui al presente articolo restano escluse dalla programmazione delle assunzioni e, in ogni caso, non sono conteggiate ai fini del raggiungimento dell'obiettivo di riduzione del personale in servizio, di cui all'[articolo 39 della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_39), e successive modificazioni.
+Le assunzioni derivanti dall'aumento delle dotazioni organiche di cui al presente articolo restano escluse dalla programmazione delle assunzioni e, in ogni caso, non sono conteggiate ai fini del raggiungimento dell'obiettivo di riduzione del personale in servizio, di cui all'[articolo 39 della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), e successive modificazioni.
 
 6.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito;
 
 Vista la [legge 25 giugno 1871, n. 298](Portante%20alcune%20modificazioni%20agli%20articoli%20294%20295%20313%20e%20314%20del%20Codice%20penale%20per%20lEsercito.%20071U0298.md);
 
@@ -72,7 +72,7 @@ La sede d'ogni tribunale militare territoriale e' stabilita:
 
 ## Art. 2.
 
-I tribunali militari da eleggersi in conformita' della tabella annessa all'[art. 312 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_312) per l'esercito siederanno: 
+I tribunali militari da eleggersi in conformita' della tabella annessa all'[art. 312 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito siederanno: 
  
  In Torino per il I Corpo d'armata (Divisione militare di Torino 1ª ed Alessandria 2ª); 
  

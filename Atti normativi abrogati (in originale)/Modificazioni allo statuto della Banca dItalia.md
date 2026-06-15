@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), convertito nella [legge 7 marzo 1938, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-07;141), e successive modificazioni ed aggiunte;
+Visto il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), convertito nella [legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md), e successive modificazioni ed aggiunte;
 
-Visto il [regio decreto 11 giugno 1936, n. 1067](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-06-11;1067), con il quale venne approvato lo statuto della Banca d'Italia;
+Visto il [regio decreto 11 giugno 1936, n. 1067](Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), con il quale venne approvato lo statuto della Banca d'Italia;
 
 Vista la deliberazione adottata dall'assemblea generale dei partecipanti della Banca d'Italia in data 31 marzo 1948;
 
@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Articolo unico.
 
-Allo statuto della Banca d'Italia, istituto di diritto pubblico con sede in Roma, approvato con il [regio decreto 11 giugno 1936, n. 1067](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-06-11;1067), sono apportate le seguenti modificazioni:
+Allo statuto della Banca d'Italia, istituto di diritto pubblico con sede in Roma, approvato con il [regio decreto 11 giugno 1936, n. 1067](Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), sono apportate le seguenti modificazioni:
  all'art. 2, comma 50, le parole: "Ministro per le finanze" sono sostituite dalle seguenti: "Ministro per il tesoro";
  all'art. 3, comma 2°, il testo della lettera b) e' sostituito dal seguente:
  "b) istituti di credito di diritto pubblico e banche di interesse nazionale";
@@ -49,7 +49,7 @@ Allo statuto della Banca d'Italia, istituto di diritto pubblico con sede in Roma
  "ed incassati"; il testo dei commi 5°, 6°, 7°, 8° e 9° e' sostituito dal seguente: "Alle dette spese devono aggiungersi, per accertare l'ammontare degli utili netti disponibili, anche le sofferenze dell'esercizio, gli occorrenti ammortamenti ed oneri consimili, nonche' le rate di ammortizzazione delle spese che il Consiglio superiore giudicasse ripartibili in piu' esercizi.
  "Gli utili netti, conseguiti secondo il bilancio approvato, dopo di avere da essi prelevata la somma che il Consiglio superiore credera' di stabilire per la graduale costituzione di un fondo di riserva ordinaria fino a concorrenza del 20% degli utili netti, sono assegnati ai partecipanti, per la distribuzione di un dividendo fino ad una somma pari al 6% del capitale.
  "Col residuo, sempre su proposta del Consiglio superiore e con l'approvazione del Ministro per il tesoro, possono essere costituiti eventuali fondi speciali e riscive straordinarie mediante utilizzo di un importo non superiore al 20% degli utili netti complessivi e puo' essere distribuito ai partecipanti, ad integrazione del dividendo, un ulteriore importo non eccedente il 4% del capitale.
- "La restante somma e' devoluta allo Stato, in applicazione dell'art. 3 del decreto Ministeriale 31 dicembre 1936 emanato in esecuzione del [regio decreto-legge 5 settembre 1935, n. 1647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-05;1647).
+ "La restante somma e' devoluta allo Stato, in applicazione dell'art. 3 del decreto Ministeriale 31 dicembre 1936 emanato in esecuzione del [regio decreto-legge 5 settembre 1935, n. 1647](Norme%20per%20lattuazione%20delle%20disposizioni%20riguardanti%20le%20riserve%20della%20Banca%20dItalia%20e%20per%20il%20coordinamento%20delle%20precedenti%20norme%20e%20convenzioni%20in%20materia.%20035U1647.md).
  "La riserva ordinaria, se diminuita per ammortizzazione di perdite o per qualsiasi altra ragione, deve, salvo il disposto del successivo art. 56, essere al piu' presto interamente reintegrata";
  all'art. 55, comma 1°, le parole: "le Finanze" sono sostituite dalle seguenti: "il Tesoro";
  il testo dell'art. 56 e' sostituito dal seguente: "Dai frutti annualmente percepiti sugli investimenti delle riserve, puo' essere, su proposta del Consiglio superiore e con l'approvazione dell'assemblea ordinaria, prelevata e distribuita ai partecipanti, pro quota delle singole partecipazioni, in aggiunta a quanto previsto dall'articolo 54, una somma non superiore al 4% dell'importo delle riserve medesime, quali risultavano dal bilancio approvato nell'assemblea ordinaria dell'anno precedente.";

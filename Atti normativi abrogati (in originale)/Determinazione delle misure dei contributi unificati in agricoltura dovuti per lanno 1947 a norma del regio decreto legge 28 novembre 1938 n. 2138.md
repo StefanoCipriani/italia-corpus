@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il comma 3° dell'articolo unico del [regio decreto-legge 28 novembre 1938, n. 2138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;2138);
+Visto il comma 3° dell'articolo unico del [regio decreto-legge 28 novembre 1938, n. 2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;66);
+Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 66](../Decreti%20legislativi%20luogotenenziali/Determinazione%20delle%20misure%20del%20contributi%20dovuti%20per%20lanno%201946%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20a%20norma%20del%20R.%20Decreto%20legge%2028%20novembre%201938%20n.%202138.md);
 
-Visto il [decreto legislativo luogotenenziale 2 aprile 1946, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-02;142);
+Visto il [decreto legislativo luogotenenziale 2 aprile 1946, n. 142](../Decreti%20legislativi%20luogotenenziali/Disciplina%20provvisoria%20del%20carico%20contributivo%20per%20le%20varie%20forme%20di%20previdenza%20e%20di%20assistenza%20sociale.md);
 
-Sentita la Commissione centrale di cui al [decreto legislativo luogotenenziale 8 febbraio 1945, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-08;75);
+Sentita la Commissione centrale di cui al [decreto legislativo luogotenenziale 8 febbraio 1945, n. 75](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20una%20Commissione%20centrale%20e%20di%20Commissioni%20comunali%20per%20il%20servizio%20di%20compilazione%20degli%20elenchi%20nominativi%20dei%20lavoratori%20agricoli%20e%20per%20laccertamento%20e%20riscossione%20dei%20co_f1ac89f9c6b7.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per il lavoro e la previdenza so
 
 ## Art. 1.
 
-I contributi di cui all'articolo unico del [regio decreto-legge 28 novembre 1938, n. 2138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;2138), sono fissati, per l'anno 1947, nelle seguenti quote:
+I contributi di cui all'articolo unico del [regio decreto-legge 28 novembre 1938, n. 2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md), sono fissati, per l'anno 1947, nelle seguenti quote:
  a) per ogni giornata di lavoro prestata da salariati fissi addetti e non addetti alle colture agrarie ed al bestiame;
  1) quota per l'assicurazione malattia:
  per ogni giornata di uomo L. 4,50; per ogni giornata di donna e ragazzo: L. 3,04;
@@ -65,7 +65,7 @@ I contributi di cui all'articolo unico del [regio decreto-legge 28 novembre 1938
 
 ## Art. 2.
 
-Le quote indicate all'art. 1 si applicheranno alle giornate di lavoro accertate nei confronti delle singole aziende a norma del [regio decreto-legge 28 novembre 1938, n. 2138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;2138) e delle relative disposizioni di attuazione.
+Le quote indicate all'art. 1 si applicheranno alle giornate di lavoro accertate nei confronti delle singole aziende a norma del [regio decreto-legge 28 novembre 1938, n. 2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md) e delle relative disposizioni di attuazione.
  Nei confronti di quelle aziende nelle quali prestano la propria opera salariati fissi, il numero delle giornate da essi impiegate sara' considerato ai fini dell'applicazione dei contributi di cui all'art. 1, lettera a), in 300. Ove i predetti salariati siano addetti alle colture ed al bestiame, tali giornate verranno detratte da quelle complessivamente attribuite alla azienda per la coltivazione dei fondi e per il bestiame.
  Nei confronti delle aziende coloniche e mezzadrili, il numero delle giornate impiegate da ogni unita' lavorativa del nucleo familiare sara' considerato, ai fini dell'applicazione dei contributi di cui all'art. 1, lettera c), nn. 1, 2 e 3, in 240.
  I proprietari di terre affittate sono tenuti a corrispondere le quote previste nelle lettere a) e b) del primo comma dell'art. 1, per ogni giornata di lavoro accertata a loro carico per le opere di miglioria e sistemazione del fondo.
@@ -73,7 +73,7 @@ Le quote indicate all'art. 1 si applicheranno alle giornate di lavoro accertate 
 ## Art. 3.
 
 Per l'assicurazione degli infortuni sul lavoro in agricoltura per le categorie di cui all'art. 1, lettere a), b), c), la rispettiva quota sara' fissata per ogni provincia dal Ministro per il lavoro e la previdenza sociale.
- In quelle provincie nelle quali il riferimento alle giornate di lavoro possa risultare equivalente al riferimento dell'estimo catastale, la quota relativa potra' essere, d'accordo con il Ministro per le finanze e il tesoro ed ai sensi del [1° comma dell'art. 3 della legge 16 giugno 1939, n. 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-16;942#art_3-com1), inscritta nei ruoli della imposta fondiaria.
+ In quelle provincie nelle quali il riferimento alle giornate di lavoro possa risultare equivalente al riferimento dell'estimo catastale, la quota relativa potra' essere, d'accordo con il Ministro per le finanze e il tesoro ed ai sensi del [1° comma dell'art. 3 della legge 16 giugno 1939, n. 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md), inscritta nei ruoli della imposta fondiaria.
 
 ## Art. 4.
 

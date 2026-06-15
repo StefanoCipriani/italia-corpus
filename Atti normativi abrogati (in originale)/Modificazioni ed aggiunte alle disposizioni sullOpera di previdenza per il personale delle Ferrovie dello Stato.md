@@ -16,14 +16,14 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'ultimo comma dell'[art. 4 del decreto legislativo 22 aprile 1948, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-22;561#art_4), e' modificato come segue:
+L'ultimo comma dell'[art. 4 del decreto legislativo 22 aprile 1948, n. 561](../Decreti%20Legislativi/Modificazioni%20ed%20aggiunte%20alle%20disposizioni%20sullOpera%20di%20previdenza%20a%20favore%20del%20personale%20delle%20Ferrovie%20dello%20Stato.md), e' modificato come segue:
  "L'importo annuo dei sussidi temporanei di cui sopra e' aumentato del 100 per cento per gli orfani non provvisti di assegno continuativo a carico del fondo pensioni dell'Amministrazione ferroviaria, di altre Amministrazioni dello Stato o di Casse di previdenza alle quali l'agente fosse iscritto con contributo della Amministrazione ferroviaria".
  In conseguenza e' anche modificato come segue l'ultimo comma dell'art. 5 del decreto sopra citato:
  "La misura di tali sussidi e' quella stabilita dall'art. 4 del presente decreto, esclusa la maggiorazione del 100 per cento di cui all'ultimo comma dell'articolo stesso".
 
 ## Art. 2.
 
-L'ultimo comma dell'[art. 7 del decreto legislativo 22 aprile 1948, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-22;561#art_7), e' modificato come segue:
+L'ultimo comma dell'[art. 7 del decreto legislativo 22 aprile 1948, n. 561](../Decreti%20Legislativi/Modificazioni%20ed%20aggiunte%20alle%20disposizioni%20sullOpera%20di%20previdenza%20a%20favore%20del%20personale%20delle%20Ferrovie%20dello%20Stato.md), e' modificato come segue:
  "Per ciascuno dei gruppi di persone di cui ai precedenti commi, ancorche residenti o domiciliate in luoghi diversi, gli assegni alimentari sono:
  lire 60.000 oppure lire 48.000 all'anno per una persona,
  lire 100.000 oppure lire 80.000 all'anno per due persone,
@@ -34,7 +34,7 @@ a seconda che l'agente abbia appartenuto al personale dei primi 10 gradi, oppure
 
 ## Art. 3.
 
-L'[art. 14 del decreto legislativo 22 aprile 1948, numero 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-22;561#art_14), e' modificato come segue:
+L'[art. 14 del decreto legislativo 22 aprile 1948, numero 561](../Decreti%20Legislativi/Modificazioni%20ed%20aggiunte%20alle%20disposizioni%20sullOpera%20di%20previdenza%20a%20favore%20del%20personale%20delle%20Ferrovie%20dello%20Stato.md), e' modificato come segue:
  "L'Opera puo' conferire annualmente a carico della disponibilita', con norme di concorso da stabilirsi dal Comitato amministratore, assegni scolastici a favore degli orfani di cui all'art. 4, anche se non abbiano goduto del sussidio temporaneo per aver superato il 18° anno di eta' alla morte del padre, nonche' a favore di figli di agenti cessati dal servizio.
  "Al concorso agli assegni possono essere ammessi anche i figli di agenti in attivita' alle seguenti condizioni:
  1) che siano iscritti a scuole medie di 2° grado, a Universita' o Istituti superiori o a corsi di perfezionamento;
@@ -50,7 +50,7 @@ L'[art. 14 del decreto legislativo 22 aprile 1948, numero 561](https://www.norma
 
 ## Art. 4.
 
-Il [tredicesimo comma dell'art. 3 del regio decreto-legge 7 febbraio 1926, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-07;187#art_3-com13), e' modificato come segue:
+Il [tredicesimo comma dell'art. 3 del regio decreto-legge 7 febbraio 1926, n. 187](Modificazioni%20ed%20aggiunte%20alle%20disposizioni%20della%20legge%20sullOpera%20di%20previdenza%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20026U0187.md), e' modificato come segue:
  "In casi eccezionali a giudizio del Comitato amministratore dell'Opera, il ricovero dell'orfano che al compimento del 18° anno di eta' si trovi a frequentare una classe di scuola media di secondo grado puo' essere prorogato fino, e non oltre, la chiusura dell'anno scolastico in cui compie il 19° anno di eta'".
 
 ## Art. 5.

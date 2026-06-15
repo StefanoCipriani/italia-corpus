@@ -28,7 +28,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il termine di cui all'[articolo 7 del decreto-legge 13 agosto 1975, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1975-08-13;377#art_7), convertito, con modificazioni, dalla [legge 16 ottobre 1975, n. 493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-10-16;493), relativo alla durata del Fondo per lo sviluppo della meccanizzazione in agricoltura, di cui all'[articolo 12 della legge 27 ottobre 1966, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-27;910#art_12), e successive integrazioni, e' prorogato al 31 dicembre 2002.
+Il termine di cui all'[articolo 7 del decreto-legge 13 agosto 1975, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1975-08-13;377#art_7), convertito, con modificazioni, dalla [legge 16 ottobre 1975, n. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%201975%20n.%20377%20concernente%20provvedimenti%20per%20il%20rilancio%20delleconomia%20riguardanti%20incentivi%20a%20favore%20delle%20piccole%20e%20medie%20_41654cedc883.md), relativo alla durata del Fondo per lo sviluppo della meccanizzazione in agricoltura, di cui all'[articolo 12 della legge 27 ottobre 1966, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-27;910#art_12), e successive integrazioni, e' prorogato al 31 dicembre 2002.
 
 2.
 
@@ -46,11 +46,11 @@ All'onere derivante dall'applicazione dei commi 2 e 3, pari a lire 90.000 milion
 
 1.
 
-Acquisito da parte del Ministro delle risorse agricole, alimentari e forestali il parere del Comitato permanente delle politiche agroalimentari e forestali, sui criteri per la riduzione delle quote individuali prevista dall'[articolo 2, comma 1, della legge 24 febbraio 1995, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-02-24;46#art_2-com1), l'AIMA pubblica, entro il 31 marzo 1996, appositi bollettini di aggiornamento degli elenchi dei produttori titolari di quota e dei quantitativi ad essi spettanti nel periodo di applicazione del regime comunitario delle quote latte 1995-1996. I predetti bollettini costituiscono accertamento definitivo delle posizioni individuali e sostituiscono ad ogni effetto i bollettini pubblicati precedentemente dall'AIMA per il periodo sopra indicato.
+Acquisito da parte del Ministro delle risorse agricole, alimentari e forestali il parere del Comitato permanente delle politiche agroalimentari e forestali, sui criteri per la riduzione delle quote individuali prevista dall'[articolo 2, comma 1, della legge 24 febbraio 1995, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201994%20n.%20727%20recante%20norme%20per%20lavvio%20degli%20interventi%20programmati%20in%20agricoltura%20e%20per%20il%20rientro%20della%20produzione%20lat_8cb4802dedbb.md), l'AIMA pubblica, entro il 31 marzo 1996, appositi bollettini di aggiornamento degli elenchi dei produttori titolari di quota e dei quantitativi ad essi spettanti nel periodo di applicazione del regime comunitario delle quote latte 1995-1996. I predetti bollettini costituiscono accertamento definitivo delle posizioni individuali e sostituiscono ad ogni effetto i bollettini pubblicati precedentemente dall'AIMA per il periodo sopra indicato.
 
 2.
 
-L'[articolo 2-bis del decreto-legge 23 dicembre 1994, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-23;727#art_2bis), convertito, con modificazioni, dalla [legge 24 febbraio 1995, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-02-24;46), e' abrogato a decorrere dal periodo 1995-1996.
+L'[articolo 2-bis del decreto-legge 23 dicembre 1994, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-23;727#art_2bis), convertito, con modificazioni, dalla [legge 24 febbraio 1995, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201994%20n.%20727%20recante%20norme%20per%20lavvio%20degli%20interventi%20programmati%20in%20agricoltura%20e%20per%20il%20rientro%20della%20produzione%20lat_8cb4802dedbb.md), e' abrogato a decorrere dal periodo 1995-1996.
 
 3.
 
@@ -65,7 +65,7 @@ Ai fini della trattenuta e del versamento del prelievo supplementare, eventualme
 
 1.
 
-Il [comma 12 dell'articolo 5 della legge 26 novembre 1992, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468#art_5-com12), e' sostituito dal seguente:
+Il [comma 12 dell'articolo 5 della legge 26 novembre 1992, n. 468](Misure%20urgenti%20nel%20settore%20lattiero-caseario.md), e' sostituito dal seguente:
  " 12. Qualora si determinino le condizioni per l'applicazione della compensazione nazionale, essa e' disposta dall'AIMA, che puo' avvalersi, a tal fine, attraverso la stipulazione di apposita convenzione, della collaborazione di enti pubblici od organismi privati. La compensazione e' effettuata secondo i seguenti criteri, prioritariamente e nell'ordine:
  a) in favore dei produttori delle zone di montagna;
  b) in favore dei produttori titolari di quota A e di quota B nei confronti dei quali e' stata disposta la riduzione della quota B, nei limiti del quantitativo ridotto;
@@ -75,7 +75,7 @@ Il [comma 12 dell'articolo 5 della legge 26 novembre 1992, n. 468](https://www.n
 
 2.
 
-Dopo il [comma 12 dell'articolo 5 della legge 26 novembre 1992, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468#art_5-com12), e' inserito il seguente:
+Dopo il [comma 12 dell'articolo 5 della legge 26 novembre 1992, n. 468](Misure%20urgenti%20nel%20settore%20lattiero-caseario.md), e' inserito il seguente:
  "12-bis. Al fine di consentire, ove dovuta, la restituzione ai produttori delle somme trattenute dagli acquirenti, l'AIMA effettua la compensazione nazionale di cui al comma 12, entro il 31 luglio di ciascun anno, sulla base delle dichiarazioni di cui al comma 1, che gli acquirenti sono tenuti a trasmettere, in conformita' al regolamento (CEE) n. 536/1993 della Commissione del 9 marzo 1993, entro il 15 maggio di ciascun anno. Allo scopo di assicurare un costante monitoraggio del latte commercializzato, gli acquirenti trasmettono altresi una situazione mensile delle consegne di latte alle associazioni di produttori, per i produttori associati, nonche' alle regioni e province autonome ove sono ubicate le aziende dei produttori e all'AIMA entro il giorno 20 del mese successivo.".
 
 3.
@@ -94,7 +94,7 @@ L'AIMA provvede alla riassegnazione delle quote di cui al comma 4 ai produttori 
                         b)
                             produttori con azienda ubicata nelle zone montane di cui alla [direttiva n. 75/268 CEE del Consiglio del 28 aprile 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;268);
                         c)
-                            produttori a cui e' stata ridotta la quota B ai sensi dell'[articolo 2 della legge 24 febbraio 1995, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-02-24;46#art_2), nei limiti della quota ridotta.
+                            produttori a cui e' stata ridotta la quota B ai sensi dell'[articolo 2 della legge 24 febbraio 1995, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201994%20n.%20727%20recante%20norme%20per%20lavvio%20degli%20interventi%20programmati%20in%20agricoltura%20e%20per%20il%20rientro%20della%20produzione%20lat_8cb4802dedbb.md), nei limiti della quota ridotta.
 
 6.
 
@@ -104,7 +104,7 @@ All'anticipazione delle spese derivanti dalle operazioni di cui ai commi 4 e 5 s
 
 1.
 
-Per l'anno 1995 e' differito al 31 dicembre il termine del 30 novembre stabilito nell'[articolo 10, comma 6, della legge 26 novembre 1992, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468#art_10-com6), per la cessione della quota latte. L'affitto di quote latte di cui all'articolo 10, comma 2, della suddetta [legge n. 468 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;468) e' consentito esclusivamente per la durata di un intero periodo e puo' essere rinnovato solo due volte.
+Per l'anno 1995 e' differito al 31 dicembre il termine del 30 novembre stabilito nell'[articolo 10, comma 6, della legge 26 novembre 1992, n. 468](Misure%20urgenti%20nel%20settore%20lattiero-caseario.md), per la cessione della quota latte. L'affitto di quote latte di cui all'articolo 10, comma 2, della suddetta [legge n. 468 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;468) e' consentito esclusivamente per la durata di un intero periodo e puo' essere rinnovato solo due volte.
 
 2.
 
@@ -142,7 +142,7 @@ Ai lavoratori della Federconsorzi, nel limite di dieci unita', individuati sulla
 
 8.
 
-In attesa del riordino dei consorzi agrari, di cui al [decreto legislativo 7 maggio 1948, n. 1235](Ordinamento%20dei%20Consorzi%20agrari%20e%20della%20Federazione%20italiana%20dei%20consorzi%20agrari.md), in favore dei lavoratori dipendenti dei predetti consorzi che abbiano gia' fruito nel corrente anno del trattamento straordinario di integrazione salariale, ai sensi della [legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223), nonche' del [decreto-legge 26 novembre 1993, n. 478](Proroga%20di%20trattamenti%20straordinari%20di%20integrazione%20salariale.md), convertito, con modificazioni, dalla [legge 26 gennaio 1994, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-26;56), e successive modificazioni, e' concesso con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro delle risorse agricole, alimentari e forestali, un ulteriore periodo di tale trattamento non eccedente i nove mesi, anche in deroga alla normativa vigente.
+In attesa del riordino dei consorzi agrari, di cui al [decreto legislativo 7 maggio 1948, n. 1235](Ordinamento%20dei%20Consorzi%20agrari%20e%20della%20Federazione%20italiana%20dei%20consorzi%20agrari.md), in favore dei lavoratori dipendenti dei predetti consorzi che abbiano gia' fruito nel corrente anno del trattamento straordinario di integrazione salariale, ai sensi della [legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223), nonche' del [decreto-legge 26 novembre 1993, n. 478](Proroga%20di%20trattamenti%20straordinari%20di%20integrazione%20salariale.md), convertito, con modificazioni, dalla [legge 26 gennaio 1994, n. 56](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20novembre%201993%20n.%20478%20recante%20proroga%20di%20trattamenti%20straordinari%20di%20integrazione%20salariale.md), e successive modificazioni, e' concesso con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro delle risorse agricole, alimentari e forestali, un ulteriore periodo di tale trattamento non eccedente i nove mesi, anche in deroga alla normativa vigente.
 
 9.
 
@@ -168,7 +168,7 @@ Il Ministero del tesoro e' autorizzato alla concessione all'AIMA delle anticipaz
 
 1.
 
-Per consentire la prosecuzione degli interventi di cui al [decreto-legge 7 novembre 1994, n. 621](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-07;621), convertito dalla [legge 17 dicembre 1994, n. 737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-17;737), ed al [decreto-legge 3 agosto 1995, n. 325](Disposizioni%20per%20lattuazione%20dei%20regolamenti%20comunitari%20relativi%20alla%20riforma%20della%20politica%20agricola%20comune%20per%20lanno%201995.md), convertito dalla [legge 3 ottobre 1995, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-10-03;408), e' autorizzata l'ulteriore spesa di lire 95 miliardi per l'anno 1996.
+Per consentire la prosecuzione degli interventi di cui al [decreto-legge 7 novembre 1994, n. 621](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-07;621), convertito dalla [legge 17 dicembre 1994, n. 737](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%207%20novembre%201994%20n.%20621%20recante%20attuazione%20di%20regolamenti%20comunitari%20relativi%20alla%20riforma%20della%20politica%20agricola%20comune.md), ed al [decreto-legge 3 agosto 1995, n. 325](Disposizioni%20per%20lattuazione%20dei%20regolamenti%20comunitari%20relativi%20alla%20riforma%20della%20politica%20agricola%20comune%20per%20lanno%201995.md), convertito dalla [legge 3 ottobre 1995, n. 408](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%203%20agosto%201995%20n.%20325%20recante%20disposizioni%20per%20lattuazione%20dei%20regolamenti%20comunitari%20relativi%20alla%20riforma%20della%20politica%20agricola%20comune%20per%20lanno%201995.md), e' autorizzata l'ulteriore spesa di lire 95 miliardi per l'anno 1996.
 
 2.
 
@@ -186,7 +186,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 1.
 
-Il [comma 3 dell'articolo 42 della legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146#art_42-com3), e' sostituito dal seguente:
+Il [comma 3 dell'articolo 42 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), e' sostituito dal seguente:
  " 3. Gli organismi responsabili dei controlli di cui all'articolo 15 del regolamento CEE del Consiglio n. 2092/91 indicati nell'elenco pubblicato nella Gazzetta Ufficiale, serie C, n. 284, del 21 ottobre 1993, continuano ad operare fino al 31 dicembre 1996 e sono fatti salvi gli atti gia' adottati dai medesimi organismi.".
 
 ## Art. 9. — Fermo biologico della pesca nel 1996
@@ -221,7 +221,7 @@ Con decreto del Ministro delle risorse agricole, alimentari e forestali, sono fi
 
 8.
 
-All'onere derivante dall'attuazione del presente articolo, valutato in lire 82.585 milioni per l'anno 1996, si provvede, quanto a lire 43.000 milioni, mediante utilizzo delle disponibilita' del Fondo di rotazione per l'attuazione delle politiche comunitarie di cui all'[articolo 5 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_5), e, quanto a lire 39.585 milioni, mediante utilizzo delle disponibilita' del Fondo centrale per il credito peschereccio di cui alla [legge 17 febbraio 1982, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41).
+All'onere derivante dall'attuazione del presente articolo, valutato in lire 82.585 milioni per l'anno 1996, si provvede, quanto a lire 43.000 milioni, mediante utilizzo delle disponibilita' del Fondo di rotazione per l'attuazione delle politiche comunitarie di cui all'[articolo 5 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_5), e, quanto a lire 39.585 milioni, mediante utilizzo delle disponibilita' del Fondo centrale per il credito peschereccio di cui alla [legge 17 febbraio 1982, n. 41](Piano%20per%20la%20razionalizzazione%20e%20lo%20sviluppo%20della%20pesca%20marittima.md).
 
 9.
 

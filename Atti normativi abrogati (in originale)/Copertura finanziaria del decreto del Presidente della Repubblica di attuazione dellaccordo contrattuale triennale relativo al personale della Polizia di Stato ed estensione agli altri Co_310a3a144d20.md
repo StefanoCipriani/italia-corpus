@@ -38,7 +38,7 @@ L'indennita' prevista all'[articolo 2, commi 1](https://www.normattiva.it/uri-re
 
 2.
 
-Al personale appartenente ai ruoli dei dirigenti di cui al [decreto del Presidente della Repubblica 24 aprile 1982, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;337), nonche' a quello dei ruoli di cui al [decreto del Presidente della Repubblica 24 aprile 1982, n. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;338), compete l'indennita' di cui al comma 1, in misura pari al 100 per cento di quella corrisposta al personale che espleta funzioni di polizia di qualifica corrispondente.
+Al personale appartenente ai ruoli dei dirigenti di cui al [decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), nonche' a quello dei ruoli di cui al [decreto del Presidente della Repubblica 24 aprile 1982, n. 338](../DPR/Ordinamento%20dei%20ruoli%20professionali%20dei%20sanitari%20della%20Polizia%20di%20Stato.md), compete l'indennita' di cui al comma 1, in misura pari al 100 per cento di quella corrisposta al personale che espleta funzioni di polizia di qualifica corrispondente.
 
 3.
 
@@ -50,7 +50,7 @@ L'incremento della misura del supplemento giornaliero dell'indennita' mensile di
 
 5.
 
-Per il solo personale della Polizia di Stato non inquadrato nei ruoli ad esaurimento che, alla data del 31 ottobre 1986, riveste la qualifica di ispettore capo, ispettore principale, ispettore e sovrintendente capo, con decorrenza 1° novembre 1986 sono attribuiti i seguenti scatti del 2,50 per cento computati sullo stipendio in godimento con riferimento al trattamento stipendiale previsto dal [decreto del Presidente della Repubblica 27 marzo 1984, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-03-27;69): 
+Per il solo personale della Polizia di Stato non inquadrato nei ruoli ad esaurimento che, alla data del 31 ottobre 1986, riveste la qualifica di ispettore capo, ispettore principale, ispettore e sovrintendente capo, con decorrenza 1° novembre 1986 sono attribuiti i seguenti scatti del 2,50 per cento computati sullo stipendio in godimento con riferimento al trattamento stipendiale previsto dal [decreto del Presidente della Repubblica 27 marzo 1984, n. 69](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2015%20dicembre%201983%20concernente%20il%20personale%20dei%20ruoli%20della%20Polizia%20di%20Stato%20con%20esclusione%20dei%20dirigenti.md): 
  
 ispettore capo. . . . . . . . . . . . . . . . . . . . . . n. 4 scatti ispettore principale. . . . . . . . . . . . . . . . . . . n. 5 scatti ispettore . . . . . . . . . . . . . . . . . . . . . . . . n. 3 scatti sovrintendente capo . . . . . . . . . . . . . . . . . . . n. 4 scatti 
  

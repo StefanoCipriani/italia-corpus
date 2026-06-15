@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 gennaio 1928, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-19;244), riflettente la graduazione degli estimi catastali dei boschi e dei pascoli della provincia di Sondrio. 
+ E' convertito in legge il [R. decreto-legge 19 gennaio 1928, n. 244](Graduazione%20degli%20estimi%20catastali%20dei%20boschi%20e%20dei%20pascoli%20della%20provincia%20di%20Sondrio.%20028U0244.md), riflettente la graduazione degli estimi catastali dei boschi e dei pascoli della provincia di Sondrio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 febbraio 1927, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-06;76), contenente norme per la esecuzione degli sfratti nel territorio dell'Alto Commissariato di Napoli. 
+ E' convertito in legge il [R. decreto-legge 6 febbraio 1927, n. 76](Norme%20per%20la%20esecuzione%20degli%20sfratti%20nel%20territorio%20dellAlto%20Commissariato%20di%20Napoli.%20027U0076.md), contenente norme per la esecuzione degli sfratti nel territorio dell'Alto Commissariato di Napoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

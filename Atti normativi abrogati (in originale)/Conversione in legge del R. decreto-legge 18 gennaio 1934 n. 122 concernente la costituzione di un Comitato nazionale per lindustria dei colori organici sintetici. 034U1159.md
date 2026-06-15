@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 gennaio 1934, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-18;122), concernente la costituzione di un Comitato nazionale per l'industria dei colori organici sintetici. 
+ E' convertito in legge il [R. decreto-legge 18 gennaio 1934, n. 122](Costituzione%20di%20un%20Comitato%20nazionale%20per%20lindustria%20dei%20colori%20organici%20sintetici.%20034U0122.md), concernente la costituzione di un Comitato nazionale per l'industria dei colori organici sintetici. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

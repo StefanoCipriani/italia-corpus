@@ -20,9 +20,9 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata:
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Vista la [legge 11 luglio 1904, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;372);
+Vista la [legge 11 luglio 1904, n. 372](Disposizioni%20relative%20ai%20ruoli%20organici.%20004U0372.md);
 
 Visto il [R. decreto 22 gennaio 1914, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-22;19);
 

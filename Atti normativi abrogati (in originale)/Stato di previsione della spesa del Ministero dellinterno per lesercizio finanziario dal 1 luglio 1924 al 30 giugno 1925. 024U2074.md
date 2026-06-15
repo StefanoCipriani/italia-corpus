@@ -26,7 +26,7 @@ E' ridotta a L. 40,000, per l'esercizio finanziario 1924-25, la somma di L. 100,
 
 ## Art. 5.
 
-E' ridotta a L. 500,000, per l'esercizio finanziario 1924-25, la somma complessiva di L. 750,000 stabilita dall'[art. 3 del R. decreto-legge 23 ottobre 1919, n. 2292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-23;2292#art_3), che autorizza la concessione di sussidi per la costruzione, la sistemazione per il funzionamento di istituti antitracomatosi.
+E' ridotta a L. 500,000, per l'esercizio finanziario 1924-25, la somma complessiva di L. 750,000 stabilita dall'[art. 3 del R. decreto-legge 23 ottobre 1919, n. 2292](Che%20autorizza%20la%20Cassa%20depositi%20e%20prestiti%20a%20concedere%20mutui%20senza%20interesse%20per%20provvedere%20alla%20costruzione%20sistemazione%20e%20arredamento%20di%20ambulatori%20anti-tracomatosi%20e%20stabilisce%20inoltre_9bf208b598e4.md), che autorizza la concessione di sussidi per la costruzione, la sistemazione per il funzionamento di istituti antitracomatosi.
 
 ## Art. 6.
 
@@ -34,11 +34,11 @@ E' ridotta a L. 40,000, per l'esercizio finanziario 1924-25, la somma di L. 50,0
 
 ## Art. 7.
 
-E' ridotta a L. 1,000,000, per l'esercizio 1924-25, la somma di L. 3,000,000 fissata per premi ai carabinieri Reali per importante risultato di servizio, dall'[art. 29 del R. decreto 31 dicembre 1922, n. 1680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-31;1680#art_29), concernente la riforma ed unificazione dei corpi armati di polizia.
+E' ridotta a L. 1,000,000, per l'esercizio 1924-25, la somma di L. 3,000,000 fissata per premi ai carabinieri Reali per importante risultato di servizio, dall'[art. 29 del R. decreto 31 dicembre 1922, n. 1680](Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md), concernente la riforma ed unificazione dei corpi armati di polizia.
 
 ## Art. 8.
 
-E' ridotta a L. 200,000, per l'esercizio 1924-25, la somma di L. 500,000 stabilita, per premi alle famiglie dei funzionari, agenti e Reali carabinieri vittime del dovere, dall'[art. 14 del R. decreto-legge 13 marzo 1921, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-03-13;261#art_14), recante provvedimenti a favore del corpo degli agenti di investigazione.
+E' ridotta a L. 200,000, per l'esercizio 1924-25, la somma di L. 500,000 stabilita, per premi alle famiglie dei funzionari, agenti e Reali carabinieri vittime del dovere, dall'[art. 14 del R. decreto-legge 13 marzo 1921, n. 261](Contenente%20provvedimenti%20a%20favore%20del%20corpo%20degli%20agenti%20di%20investigazione%20istituito%20col%20R.%20decreto%2014%20agosto%201919%20n.%201442.%20021U0261.md), recante provvedimenti a favore del corpo degli agenti di investigazione.
 
 ## Art. 9.
 

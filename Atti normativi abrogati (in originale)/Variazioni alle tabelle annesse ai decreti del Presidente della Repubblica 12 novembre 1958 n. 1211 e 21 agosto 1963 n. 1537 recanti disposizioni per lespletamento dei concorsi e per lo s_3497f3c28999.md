@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 31 luglio 1956, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-31;917), sui servizi tecnici di artiglieria e della motorizzazione;
+Vista la [legge 31 luglio 1956, n. 917](Servizi%20tecnici%20di%20artiglieria%20e%20della%20motorizzazione.md), sui servizi tecnici di artiglieria e della motorizzazione;
 
 Visto il [decreto del Presidente della Repubblica 12 novembre 1958, n. 1211](Disposizioni%20per%20lespletamento%20dei%20concorsi%20e%20per%20lo%20svolgimento%20dei%20corsi%20e%20degli%20esami%20previsti%20dalla%20legge%2031%20luglio%201956%20n.%20917%20art.%206%20sui%20Servizi%20tecnici%20di%20artiglieria%20e%20della%20motorizzazione.md), recante disposizioni per l'espletamento dei concorsi e per lo svolgimento dei corsi e degli esami previsti dalla predetta legge n. 917, e successive modificazioni;
 
-Vista la [legge 6 dicembre 1960, n. 1479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-06;1479), sull'istituzione di servizi tecnici dell'Esercito;
+Vista la [legge 6 dicembre 1960, n. 1479](Istituzione%20di%20servizi%20tecnici%20dellEsercito.md), sull'istituzione di servizi tecnici dell'Esercito;
 
 Visto il [decreto del Presidente della Repubblica 21 agosto 1963, n. 1537](Disposizioni%20per%20la%20formazione%20della%20graduatoria%20di%20ammissione%20ai%20corsi%20per%20lespletamento%20dei%20concorsi%20e%20per%20lo%20svolgimento%20degli%20esami%20e%20dei%20corsi%20previsti%20dalla%20legge%206%20dicembre%201960%20n._bf8c14c56703.md), recante disposizioni per la formazione delle graduatorie di ammissione ai corsi, per l'espletamento dei concorsi e per lo svolgimento degli esami e dei corsi previsti dalla predetta legge n. 1479;
 

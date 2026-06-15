@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 2 ottobre 1919, n. 1802](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1802), che detta norme per l'arma dei carabinieri Reali;
+Visto il [R. decreto 2 ottobre 1919, n. 1802](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), che detta norme per l'arma dei carabinieri Reali;
 
-Visto il [R. decreto 31 dicembre 1922, n. 1680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-31;1680), concernente la riforma dei corpi armati di polizia;
+Visto il [R. decreto 31 dicembre 1922, n. 1680](Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md), concernente la riforma dei corpi armati di polizia;
 
-Visto il [R. decreto 7 gennaio 1923, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;12), relativo all'ordinamento del Regio esercito;
+Visto il [R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), relativo all'ordinamento del Regio esercito;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2980), relativo alla sistemazione organica dell'arma dei carabinieri Reali;
+Visto il [R. decreto 30 dicembre 1923, n. 2980](Sistemazione%20organica%20dellarma%20dei%20carabinieri%20Reali.%20023U2980.md), relativo alla sistemazione organica dell'arma dei carabinieri Reali;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), concernente l'ordinamento gerarchico delle Amministrazioni dello Stato;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), concernente l'ordinamento gerarchico delle Amministrazioni dello Stato;
 
 Visto il testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza approvato con [R. decreto 31 agosto 1907, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690);
 
@@ -34,7 +34,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la guerra, di concert
 
 ## Art. 1.
 
-L'organico dei sottufficiali e militari di truppa del ruolo generale dell'arma dei carabinieri Reali, stabilito in conformita' alla tabella n. 4 dell'allegato VII al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), a partire dal 1° gennaio 1925, e' sostituito dal seguente: 
+L'organico dei sottufficiali e militari di truppa del ruolo generale dell'arma dei carabinieri Reali, stabilito in conformita' alla tabella n. 4 dell'allegato VII al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), a partire dal 1° gennaio 1925, e' sostituito dal seguente: 
  
  Marescialli d'alloggio maggiori . . . . . . . . . N. 1,800 
  Marescialli d'alloggio capi e d'alloggio . . . . . » 3,050 
@@ -53,11 +53,11 @@ L'organico dei sottufficiali e militari di truppa del ruolo generale dell'arma d
 
 ## Art. 2.
 
-Il ruolo specializzato dell'arma dei carabinieri Reali per i servizi di investigazione e di indagini, tecnici e di vigilanza, stabilito in conformita' alle tabelle n. 53 dell'allegato II e n. 5 dell'allegato VII al [R. decreto 11 novembre 1923, numero 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e la Scuola tecnica di polizia per l'abilitazione ai servizi del ruolo specializzato, di cui alla [lettera H dell'articolo 1 del R. decreto 30 dicembre 1923, n. 2980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2980#art_1-leth), cessano, a decorrere dal 1° luglio 1925, di far parte dell'arma dei carabinieri Reali e i relativi personali, non appartenenti al ruolo generale, passano alla diretta dipendenza del Ministero dell'interno per la costituzione del corpo degli agenti di pubblica sicurezza.
+Il ruolo specializzato dell'arma dei carabinieri Reali per i servizi di investigazione e di indagini, tecnici e di vigilanza, stabilito in conformita' alle tabelle n. 53 dell'allegato II e n. 5 dell'allegato VII al [R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e la Scuola tecnica di polizia per l'abilitazione ai servizi del ruolo specializzato, di cui alla [lettera H dell'articolo 1 del R. decreto 30 dicembre 1923, n. 2980](Sistemazione%20organica%20dellarma%20dei%20carabinieri%20Reali.%20023U2980.md), cessano, a decorrere dal 1° luglio 1925, di far parte dell'arma dei carabinieri Reali e i relativi personali, non appartenenti al ruolo generale, passano alla diretta dipendenza del Ministero dell'interno per la costituzione del corpo degli agenti di pubblica sicurezza.
 
 ## Art. 3.
 
-In conseguenza della formazione del corpo degli agenti di pubblica sicurezza, gli ufficiali del ruolo generale dell'arma dei carabinieri Reali, attualmente impiegati per inquadrare i militari del ruolo specializzato dell'arma stessa, ritorneranno a prestare servizio nel ruolo generale di cui fanno parte. Pertanto, l'organico degli ufficiali del ruolo generale previsto dal [R. decreto n. 2980, del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2980), resta modificato per i gradi di capitano ed ufficiali subalterni nel modo seguente: 
+In conseguenza della formazione del corpo degli agenti di pubblica sicurezza, gli ufficiali del ruolo generale dell'arma dei carabinieri Reali, attualmente impiegati per inquadrare i militari del ruolo specializzato dell'arma stessa, ritorneranno a prestare servizio nel ruolo generale di cui fanno parte. Pertanto, l'organico degli ufficiali del ruolo generale previsto dal [R. decreto n. 2980, del 30 dicembre 1923](Sistemazione%20organica%20dellarma%20dei%20carabinieri%20Reali.%20023U2980.md), resta modificato per i gradi di capitano ed ufficiali subalterni nel modo seguente: 
  
  capitani 380; 
  
@@ -69,7 +69,7 @@ Gli appartenenti all'arma dei carabinieri Reali in divisa o muniti di uno specia
 
 ## Art. 5.
 
-Ferme restando le disposizioni dei [Regi decreti 2 ottobre 1919, n. 1802](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1802) e [1° febbraio 1920, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;128), riguardanti i premi di arruolamento, i sottufficiali e militari di truppa dei carabinieri Reali che, a partire dal 1° ottobre 1924, si siano vincolati o si vincoleranno alla prima rafferma triennale, hanno diritto ai premi di rafferma stabiliti nella seguente misura: 
+Ferme restando le disposizioni dei [Regi decreti 2 ottobre 1919, n. 1802](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md) e [1° febbraio 1920, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;128), riguardanti i premi di arruolamento, i sottufficiali e militari di truppa dei carabinieri Reali che, a partire dal 1° ottobre 1924, si siano vincolati o si vincoleranno alla prima rafferma triennale, hanno diritto ai premi di rafferma stabiliti nella seguente misura: 
  
  per la prima rafferma triennale, L. 3000; 
  
@@ -87,7 +87,7 @@ Le disposizioni relative ai premi di rafferma, di cui all'[articolo 3 del decret
 
 I sottufficiali e militari di truppa dell'arma dei carabinieri Reali, che vengono dalle competenti autorita' politiche comandati in servizio nel Regno, fuori della loro ordinaria residenza e a distanza eccedente i cinque chilometri dalla medesima, per servizi isolati o speciali, sono considerati in trasferta ed, oltre gli ordinari mezzi di viaggio ad essi spettanti, hanno diritto ad una diaria di L. 20 se marescialli, di L. 14 se brigadieri o vicebrigadieri e di L. 8 se militari di truppa. 
  
- Agli ufficiali dell'arma compete, secondo il grado, la indennita' di cui agli [articoli 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_180) e [181 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_181). 
+ Agli ufficiali dell'arma compete, secondo il grado, la indennita' di cui agli [articoli 180](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [181 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Le suddette indennita' e diaria saranno ridotte ai due terzi quando non siasi reso necessario il pernottamento fuori residenza, quando i militari, pernottando fuori residenza, fruiscono di alloggio gratuito o quando sia trascorso il primo mese di missione; sono ridotte alla meta' dopo il secondo mese e ad un terzo dopo il terzo mese. 
  

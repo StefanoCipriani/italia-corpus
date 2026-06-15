@@ -44,7 +44,7 @@ Per la rappresentanza e la difesa in giudizio l'Ente puo' avvalersi dell'Avvocat
 
 6.
 
-Fino alla data di entrata in vigore della legge di riorganizzazione dell'Ente a quest'ultimo si applicano le norme di cui alla [legge 14 agosto 1982, n. 610](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;610), e al [decreto del Presidente della Repubblica 14 febbraio 1985, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-02-14;30).
+Fino alla data di entrata in vigore della legge di riorganizzazione dell'Ente a quest'ultimo si applicano le norme di cui alla [legge 14 agosto 1982, n. 610](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;610), e al [decreto del Presidente della Repubblica 14 febbraio 1985, n. 30](../DPR/Approvazione%20dello%20statuto-regolamento%20dellAzienda%20di%20Stato%20per%20gli%20interventi%20nel%20mercato%20agricolo%20A.I.M.A.md).
 
 7.
 

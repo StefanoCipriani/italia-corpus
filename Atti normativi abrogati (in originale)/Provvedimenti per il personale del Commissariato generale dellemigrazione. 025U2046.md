@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico della legge sull'emigrazione approvato con [R. decreto 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-13;2205), convertito in legge colla [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il testo unico della legge sull'emigrazione approvato con [R. decreto 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-13;2205), convertito in legge colla [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Considerata la necessita' di provvedere ad un riordinamento del Commissariato generale dell'emigrazione;
 
@@ -124,7 +124,7 @@ L'indennita' di carriera spettante a norma dell'art. 35 del regolamento approvat
 
 ## Art. 21.
 
-In esecuzione del [secondo comma dell'art. 1 del R. decreto 18 gennaio 1923, n. 169, il Ministro per gli affari esteri](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-18;169#art_1-com2), sentito il Commissario generale dell'emigrazione, promuovera' un decreto Reale per determinare le norme relative all'assunzione, al servizio ed alla retribuzione: 
+In esecuzione del [secondo comma dell'art. 1 del R. decreto 18 gennaio 1923, n. 169, il Ministro per gli affari esteri](Che%20fissa%20la%20consistenza%20numerica%20dei%20ruoli%20del%20personale%20dipendente%20dal%20Commissariato%20generale%20dellemigrazione%20e%20reca%20norme%20per%20il%20completamento%20di%20detti%20ruoli%20e%20per%20lestensione%20al%20Commi_0e345a7cb28e.md), sentito il Commissario generale dell'emigrazione, promuovera' un decreto Reale per determinare le norme relative all'assunzione, al servizio ed alla retribuzione: 
  
  a) del personale avventizio o straordinario che si rendesse necessario per i servizi sia centrali che periferici del Commissariato; 
  
@@ -132,7 +132,7 @@ In esecuzione del [secondo comma dell'art. 1 del R. decreto 18 gennaio 1923, n. 
  
  c) degli addetti e dei corrispondenti dell'emigrazione all'estero; 
  
- d) dei delegati provinciali dell'emigrazione, degli aiuti delegati, o in mancanza di questi, delle dattilografe e degli agenti previsti dall'[art. 3 del R. decreto 19 luglio 1923, numero 1686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-19;1686#art_3); 
+ d) dei delegati provinciali dell'emigrazione, degli aiuti delegati, o in mancanza di questi, delle dattilografe e degli agenti previsti dall'[art. 3 del R. decreto 19 luglio 1923, numero 1686](Vigilanza%20e%20tutela%20provinciale%20dellemigrazione.%20023U1686.md); 
  
  e) dell'ispettore centrale e degli ispettori regionali dell'emigrazione previsti dal secondo comma dell'art. 1 del decreto citato alla lettera precedente, il numero dei quali potra' essere rispettivamente portato a due e a sei; 
  
@@ -142,7 +142,7 @@ In esecuzione del [secondo comma dell'art. 1 del R. decreto 18 gennaio 1923, n. 
 
 ## Art. 22.
 
-L'indennita' di cui all'ultimo comma dell'[art. 1 del R. decreto 18 gennaio 1923, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-18;169#art_1), e' cumulabile con eventuali indennita' di missioni. Essa spetta anche al segretario della Commissione centrale dell'emigrazione, ferma sempre restando la disposizione dell'art. 57, ultimo comma del testo unico della legge sull'emigrazione su menzionata. 
+L'indennita' di cui all'ultimo comma dell'[art. 1 del R. decreto 18 gennaio 1923, n. 169](Che%20fissa%20la%20consistenza%20numerica%20dei%20ruoli%20del%20personale%20dipendente%20dal%20Commissariato%20generale%20dellemigrazione%20e%20reca%20norme%20per%20il%20completamento%20di%20detti%20ruoli%20e%20per%20lestensione%20al%20Commi_0e345a7cb28e.md), e' cumulabile con eventuali indennita' di missioni. Essa spetta anche al segretario della Commissione centrale dell'emigrazione, ferma sempre restando la disposizione dell'art. 57, ultimo comma del testo unico della legge sull'emigrazione su menzionata. 
  
  E' confermato, nei riguardi del Commissario generale dell'emigrazione, il decreto Ministeriale 1° gennaio 1920, registrato alla Corte dei conti il 19 aprile successivo al registro 1, fondo emigrazione, foglio 51.
 

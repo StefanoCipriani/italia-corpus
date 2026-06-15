@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 2 giugno 1910, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277);
+Vista la [legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md);
 
 Ritenuta la necessita' di provvedere a spese di costruzione di strade e fabbricati nelle foreste demaniali inalienabili gia' approvate, di rimboschimento e rinsaldamento di terreni e di acquisto gia' deliberato di boschi e di terreni da rimboschire per un importo complessivo di L. 1.750.000 prelevando detta somma dal conto corrente istituito presso la Cassa. dei depositi e prestiti nell'interesse della azienda del demanio forestale di Stato;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Udito il Consiglio dei ministri;
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-03;1868), concernente disposizioni relative ai depositi dei commercianti, alle garanzie dei mutui edilizi e alla Cassa di previdenza dei sanitari. 
+ E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1868](Disposizioni%20relative%20ai%20depositi%20cauzionali%20dei%20commercianti%20alle%20garanzie%20di%20mutui%20edilizi%20e%20alla%20Cassa%20di%20previdenza%20dei%20sanitari.%20028U1868.md), concernente disposizioni relative ai depositi dei commercianti, alle garanzie dei mutui edilizi e alla Cassa di previdenza dei sanitari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

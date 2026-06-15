@@ -24,7 +24,7 @@ Ritenuta la necessita' di aumentare gli stanziamenti di competenza e quelli dei 
 
 Considerato che in dipendenza delle variazioni nei residui dei capitoli numeri 319, 320 e 328 del predetto stato di previsione occorre disporre analoghe modificazioni alle corrispondenti autorizzazioni di spesa;
 
-Vista la [legge 16 aprile 1916, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-16;420);
+Vista la [legge 16 aprile 1916, n. 420](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20e%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20per%20lesercizio%20finanziario%201915-916.%20016U0420.md);
 
 Sulla proposta del ministro segretario di Stato per il tesoro, di concerto con quello per i lavori pubblici, udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-All'[art. 8 del regio decreto-legge 15 agosto 1925, numero 1832](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-08-15;1832#art_8), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' premesso il seguente comma:
+All'[art. 8 del regio decreto-legge 15 agosto 1925, numero 1832](Facolta%20della%20istituzione%20di%20Scuole-convitto%20professionali%20per%20infermiere%20e%20di%20Scuole%20specializzate%20di%20medicina%20pubblica%20igiene%20ed%20assistenza%20sociale%20per%20assistenti%20sanitarie%20visitatrici.%20025U1832.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' premesso il seguente comma:
  "Per l'ammissione alle scuole-convitto e' prescritta, come titolo di studio minimo, la licenza di scuola media inferiore o di scuole di avviamento o altro titolo di studio equipollente".
 
 ## Art. 2.

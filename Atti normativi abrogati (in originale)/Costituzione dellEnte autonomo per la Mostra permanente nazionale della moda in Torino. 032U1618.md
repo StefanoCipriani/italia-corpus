@@ -19,7 +19,7 @@ La Mostra, di cui all'articolo precedente, sara' tenuta in Torino - a partire da
 
 ## Art. 3.
 
-La Mostra usufruira', tutte le volte che avra' luogo, e senza che occorra speciale autorizzazione, delle facilitazioni doganali e ferroviarie previste dal [R. decreto-legge 16 dicembre 1923, n. 2740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-16;2740) (convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473) e da ogni altra eventuale disposizione in materia.
+La Mostra usufruira', tutte le volte che avra' luogo, e senza che occorra speciale autorizzazione, delle facilitazioni doganali e ferroviarie previste dal [R. decreto-legge 16 dicembre 1923, n. 2740](Norme%20per%20la%20concessione%20di%20facilitazioni%20ferroviarie%20e%20doganali%20per%20fiere%20ed%20esposizioni%20nazionali%20e%20internazionali.%20023U2740.md) (convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md) e da ogni altra eventuale disposizione in materia.
 
 ## Art. 4.
 

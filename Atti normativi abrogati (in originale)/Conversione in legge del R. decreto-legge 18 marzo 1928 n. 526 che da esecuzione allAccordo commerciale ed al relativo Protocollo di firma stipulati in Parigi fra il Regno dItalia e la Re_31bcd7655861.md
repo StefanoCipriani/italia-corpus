@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 marzo 1928, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-03-18;526), che da' esecuzione all'Accordo commerciale ed al relativo Protocollo di firma, stipulati in Parigi, fra il Regno d'Italia e la Repubblica Francese, il 7 marzo 1928. 
+ E' convertito in legge il [R. decreto-legge 18 marzo 1928, n. 526](Approvazione%20dellAccordo%20commerciale%20e%20del%20relativo%20Protocollo%20di%20firma%20stipulati%20in%20Parigi%20fra%20lItalia%20e%20la%20Francia%20il%207%20marzo%201928.%20028U0526.md), che da' esecuzione all'Accordo commerciale ed al relativo Protocollo di firma, stipulati in Parigi, fra il Regno d'Italia e la Repubblica Francese, il 7 marzo 1928. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 agosto 1931, n. 1069](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-08-03;1069), contenente disposizioni sugli Istituti medi d'istruzione. 
+ E' convertito in legge il [R. decreto-legge 3 agosto 1931, n. 1069](Disposizioni%20sugli%20istituti%20medi%20distruzione.%20031U1069.md), contenente disposizioni sugli Istituti medi d'istruzione. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 28 dicembre 1931 - Anno X 
  

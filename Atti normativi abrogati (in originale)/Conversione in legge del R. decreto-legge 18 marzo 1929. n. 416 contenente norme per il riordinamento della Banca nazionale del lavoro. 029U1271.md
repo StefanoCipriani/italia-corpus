@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 marzo 1929, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-18;416), contenente norme per il riordinamento della Banca nazionale del lavoro. 
+ E' convertito in legge il [R. decreto-legge 18 marzo 1929, n. 416](Riordinamento%20della%20Banca%20nazionale%20del%20lavoro.%20029U0416.md), contenente norme per il riordinamento della Banca nazionale del lavoro. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

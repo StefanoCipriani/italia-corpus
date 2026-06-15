@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La disposizione contenuta nell'[art. 2 della legge 1° aprile 1915, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;431#art_2), che regola il diritto di recesso dei soci dissenzienti delle Societa' per azioni in caso di fusione con altre Societa' o di aumento del capitale sociale, continuera' ad aver vigore durante la presente guerra ed in ogni caso fino al 30 giugno 1916.
+La disposizione contenuta nell'[art. 2 della legge 1° aprile 1915, n. 431](Che%20modifica%20gli%20articoli%20158%20e%20172%20del%20Codice%20di%20commercio.%20015U0431.md), che regola il diritto di recesso dei soci dissenzienti delle Societa' per azioni in caso di fusione con altre Societa' o di aumento del capitale sociale, continuera' ad aver vigore durante la presente guerra ed in ogni caso fino al 30 giugno 1916.
 
 ## Art. 2.
 

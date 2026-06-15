@@ -71,7 +71,7 @@ Possono essere inscritte nell'Albo le persone che possiedono i seguenti requisit
  
  3) non appartengano alla razza ebraica o, benche' vi appartengano, siano state discriminate; 
  
- 4) non abbiano riportato condanne per alcuno dei reati preveduti negli articoli 440 secondo e terzo comma, 441, 442, 499 e 514 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), dai titoli I, II, VII e XIII del libro secondo dello stesso Codice, dell'art. 10 del R. decreto-legge 5 dicembre 1938-XVII, n. 1928, convertito nella legge 2 giugno 1939-XVII, n. 739, e dell'art. 1 della legge 28 luglio 1939-XVII, n. 1097; 
+ 4) non abbiano riportato condanne per alcuno dei reati preveduti negli articoli 440 secondo e terzo comma, 441, 442, 499 e 514 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dai titoli I, II, VII e XIII del libro secondo dello stesso Codice, dell'art. 10 del R. decreto-legge 5 dicembre 1938-XVII, n. 1928, convertito nella legge 2 giugno 1939-XVII, n. 739, e dell'art. 1 della legge 28 luglio 1939-XVII, n. 1097; 
  
  5) non siano state dichiarate fallite o, pur essendo fallite, siano state cancellate dall'Albo dei falliti a norma dell'art. 816 del Codice di commercio del 1882, ovvero siano state riabilitate ai sensi degli articoli 142 e seguenti delle disposizioni sulla disciplina del fallimento, approvate con R. decreto 16 marzo 1942-XX, n. 267; 
  

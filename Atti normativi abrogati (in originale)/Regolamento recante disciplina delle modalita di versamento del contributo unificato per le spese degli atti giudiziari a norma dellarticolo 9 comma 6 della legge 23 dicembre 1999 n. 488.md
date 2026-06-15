@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 9 della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_9), concernente l'istituzione del contributo unificato per le spese degli atti giudiziari;
+Visto l'[articolo 9 della legge 23 dicembre 1999, n. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), concernente l'istituzione del contributo unificato per le spese degli atti giudiziari;
 
 Visto in particolare il [comma 6 dell'articolo 9 della legge n. 488 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;488#art_9-com6), ove si dispone che con decreto del Presidente della Repubblica, da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), su proposta del Ministro della giustizia, di concerto con il Ministro delle finanze ed il Ministro del tesoro, del bilancio e della programmazione economica sono, tra l'altro, disciplinate le modalita' di versamento del contributo unificato;
 
@@ -32,20 +32,20 @@ Emana il seguente regolamento:
 
 1.
 
-Il contributo unificato per le spese degli atti giudiziari di cui all'[articolo 9 della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_9), e' corrisposto, anche con modalita' telematiche, mediante:
+Il contributo unificato per le spese degli atti giudiziari di cui all'[articolo 9 della legge 23 dicembre 1999, n. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), e' corrisposto, anche con modalita' telematiche, mediante:
                         a)
-                            versamento effettuato con le modalita' previste dal [decreto legislativo 9 luglio 1997, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237);
+                            versamento effettuato con le modalita' previste dal [decreto legislativo 9 luglio 1997, n. 237](../Decreti%20Legislativi/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md);
                         b)
                             versamento in conto corrente postale intestato alla sezione di tesoreria provinciale dello Stato;
                         c)
                             versamento presso le rivendite di generi di monopolio e di valori bollati.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
- - Si riporta il testo dell'[art. 9 della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_9) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2000):
+ - Si riporta il testo dell'[art. 9 della legge 23 dicembre 1999, n. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2000):
  "Art. 9 (Contributo unificato per le spese degli atti giudiziari). - 1. Agli atti e ai provvedimenti relativi ai procedimenti civili, penali ed amministrativi e in materia tavolare, comprese le procedure concorsuali e di volontaria giurisdizione, non si applicano le imposte di bollo, la tassa di iscrizione a ruolo, i diritti di cancelleria, nonche' i diritti di chiamata di causa dell'ufficiale giudiziario.
  2. Nei procedimenti giurisdizionali civili, amministrativi e in materia tavolare, comprese le procedure concorsuali e di volontaria giurisdizione, indicati al comma 1, per ciascun grado di giudizio, e' istituito il contributo unificato di iscrizione a ruolo, seconde gli importi e i valori indicati nella tabella 1 allegata alla presente legge.
  3. La parte che per prima si costituisce in giudizio, o che deposita il ricorso introduttivo, ovvero, nei procedimenti esecutivi, che fa istanza per l'assegnazione o la vendita dei beni pignorati, a che interviene nella procedura di esecuzione, a pena di irricevibilita' dell'atto, e' tenuta all'anticipazione del pagamento del contributo di cui al comma 2, salvo il diritto alla ripetizione nei confronti della parte soccombente, ai sensi dell'[art. 91 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_91).
@@ -61,8 +61,8 @@ Avvertenza:
  "2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari".
 
  Note all'art. 1:
- - Per il testo dell'[art. 9 della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_9), vedi nelle note alle premesse.
- - Il [decreto legislativo 9 luglio 1997, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237) reca: (Modifica della disciplina in materia di servizi autonomi di cassa degli uffici finanziari).
+ - Per il testo dell'[art. 9 della legge 23 dicembre 1999, n. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), vedi nelle note alle premesse.
+ - Il [decreto legislativo 9 luglio 1997, n. 237](../Decreti%20Legislativi/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md) reca: (Modifica della disciplina in materia di servizi autonomi di cassa degli uffici finanziari).
 
 ## Art. 2.
 

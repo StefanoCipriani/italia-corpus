@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-I rettori delle universita', i direttori degli istituti universitari e i presidi delle facolta' universitarie in funzione all'entrata in vigore della presente legge sono mantenuti nel loro ufficio nel corso dell'anno accademico 1971-1972, anche oltre il termine del triennio previsto dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-07;264#art_2) e [3 del decreto legislativo luogotenenziale 7 settembre 1944, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-07;264#art_3), fino alla costituzione degli organi accademici previsti dalla riforma universitaria.
+I rettori delle universita', i direttori degli istituti universitari e i presidi delle facolta' universitarie in funzione all'entrata in vigore della presente legge sono mantenuti nel loro ufficio nel corso dell'anno accademico 1971-1972, anche oltre il termine del triennio previsto dagli [articoli 2](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20vigente%20ordinamento%20universitario.%20044U0264.md) e [3 del decreto legislativo luogotenenziale 7 settembre 1944, n. 264](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20vigente%20ordinamento%20universitario.%20044U0264.md), fino alla costituzione degli organi accademici previsti dalla riforma universitaria.
 
 ## Art. 2.
 

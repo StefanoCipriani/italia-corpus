@@ -126,7 +126,7 @@ Le proporzioni dei sali di rame tollerati per il rinverdimento delle conserve al
 
 ## Art. 7.
 
-Senza pregiudizio di ogni altro procedimento a termini del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), i contravventori alle disposizioni del presente decreto saranno puniti a norma del citato [articolo 115 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115) 1° agosto 1907, n. 636;
+Senza pregiudizio di ogni altro procedimento a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), i contravventori alle disposizioni del presente decreto saranno puniti a norma del citato [articolo 115 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115) 1° agosto 1907, n. 636;
 
 ## Art. 8.
 

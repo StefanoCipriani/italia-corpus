@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 26 settembre 1920, n. 1322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-09-26;1322), che approva il trattato di pace con l'Austria firmato a S. Germano il 10 settembre 1919;
 
-Visto il [R. decreto 29 gennaio 1920, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-29;145), che detta norme per l'applicazione delle clausole finanziarie contenute nei trattati di pace con gli Stati nemici;
+Visto il [R. decreto 29 gennaio 1920, n. 145](Contenente%20norme%20per%20lapplicazione%20delle%20clausole%20finanziarie%20contenute%20nei%20trattati%20di%20pace%20con%20gli%20Stati%20nemici.%20020U0145.md), che detta norme per l'applicazione delle clausole finanziarie contenute nei trattati di pace con gli Stati nemici;
 
 Visto il R. decreto 2 maggio 1920, da convertirsi in legge che istituisce l'Ufficio italiano di verifica e compensazione previsto dalla sezione III, parte X del Trattato di pace con la Germania firmato a Versaglia il 28 giugno 1919;
 

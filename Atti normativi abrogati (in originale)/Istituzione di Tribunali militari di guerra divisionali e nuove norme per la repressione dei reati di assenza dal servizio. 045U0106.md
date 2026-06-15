@@ -18,11 +18,11 @@ In virtu' dell'autorita', a Noi delegata;
 
 Visto l'ordinamento giudiziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022);
 
-Visto l'[art. 4 del R. decreto-legge 29 luglio 1943, n. 668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-07-29;668#art_4);
+Visto l'[art. 4 del R. decreto-legge 29 luglio 1943, n. 668](Soppressione%20del%20Tribunale%20speciale%20per%20la%20difesa%20della%20Stato.%20043U0668.md);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -82,7 +82,7 @@ Se dopo l'istruzione sommaria il procuratore militare ritiene che non si debba p
 
 ## Art. 10.
 
-Il Tribunale divisionale puo' essere convocato come Tribunale straordinario nei casi previsti dall'[art. 283 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_283) militare di guerra e dall'[art. 4 del R. decreto-legge 29 luglio 1943, n. 668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-07-29;668#art_4), per disposizione del comandante dell'unita' presso la quale e' costituito.
+Il Tribunale divisionale puo' essere convocato come Tribunale straordinario nei casi previsti dall'[art. 283 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra e dall'[art. 4 del R. decreto-legge 29 luglio 1943, n. 668](Soppressione%20del%20Tribunale%20speciale%20per%20la%20difesa%20della%20Stato.%20043U0668.md), per disposizione del comandante dell'unita' presso la quale e' costituito.
 
 ## Art. 11.
 

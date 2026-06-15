@@ -32,11 +32,11 @@ Ciascun Comune consorziato puo' conferire al Consorzio un capitale non superiore
 
 ## Art. 4.
 
-La Cassa depositi e prestiti, le Casse ordinarie di risparmio, la Cassa di soccorso per opere pubbliche in Sicilia, la Cassa nazionale di previdenza per la invalidita' e la vecchiaia degli operai, i Monti di pieta' e le Societa' cooperative di credito sono autorizzate a concedere con le garenzie ed i privilegi stabiliti dagli articoli 72 e seguenti, libro 2° del testo unico approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), mutui ai Comuni consorziati per provvederli dei capitali da conferire al Consorzio.
+La Cassa depositi e prestiti, le Casse ordinarie di risparmio, la Cassa di soccorso per opere pubbliche in Sicilia, la Cassa nazionale di previdenza per la invalidita' e la vecchiaia degli operai, i Monti di pieta' e le Societa' cooperative di credito sono autorizzate a concedere con le garenzie ed i privilegi stabiliti dagli articoli 72 e seguenti, libro 2° del testo unico approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), mutui ai Comuni consorziati per provvederli dei capitali da conferire al Consorzio.
 
 ## Art. 5.
 
-Nei Comuni che esercitano il servizio con Azienda speciale, una parte del profitto netto, risultante dal conto alla chiusura dell'esercizio dell'Azienda, deve essere destinata a reintegrare nel bilancio comunale la quota di ammortamento dei prestiti contratti per l'approvvigionamento del carbone, in deroga all'[art. 2 della legge 29 marzo 1903, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-03-29;103#art_2).
+Nei Comuni che esercitano il servizio con Azienda speciale, una parte del profitto netto, risultante dal conto alla chiusura dell'esercizio dell'Azienda, deve essere destinata a reintegrare nel bilancio comunale la quota di ammortamento dei prestiti contratti per l'approvvigionamento del carbone, in deroga all'[art. 2 della legge 29 marzo 1903, n. 103](Sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20003U0103.md).
 
 ## Art. 6.
 

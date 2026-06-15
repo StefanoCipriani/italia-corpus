@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 dicembre 1934, n. 2143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-13;2143), che ha dato esecuzione alla Convenzione fra l'Italia e l'Ungheria, stipulata in Roma il 18 novembre 1934, per lo sviluppo del traffico ungherese in transito per il porto di Fiume. 
+ E' convertito in legge il [R. decreto-legge 13 dicembre 1934, n. 2143](Approvazione%20della%20Convenzione%20fra%20lItalia%20e%20lUngheria%20stipulata%20in%20Roma%20il%2018%20novembre%201934%20per%20lo%20sviluppo%20del%20traffico%20ungherese%20in%20transito%20per%20il%20porto%20di%20Fiume.%20034U2143.md), che ha dato esecuzione alla Convenzione fra l'Italia e l'Ungheria, stipulata in Roma il 18 novembre 1934, per lo sviluppo del traffico ungherese in transito per il porto di Fiume. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

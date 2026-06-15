@@ -92,7 +92,7 @@ In caso di assenza dal lavoro per malattia, gli assegni familiari sono corrispos
  
  Per i lavoratori che non sono soggetti alla iscrizione a casse di malattia o che non ricevono da queste alcun sussidio per motivi estranei al riconoscimento della infermita', l'assegno e' dovuto per tre mesi al massimo. 
  
- I lavoratori capi famiglia, ricoverati a carico dell'Istituto nazionale fascista della previdenza sociale ai sensi dell'[articolo 66 del R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_66), convertito nella [legge 6 aprile 1936, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155), hanno diritto fino al massimo di tre mesi al trattamento piu' favorevole tra quello previsto dall'art. 68 dello stesso Regio decreto e quello risultante dalla corresponsione degli assegni familiari. 
+ I lavoratori capi famiglia, ricoverati a carico dell'Istituto nazionale fascista della previdenza sociale ai sensi dell'[articolo 66 del R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_66), convertito nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md), hanno diritto fino al massimo di tre mesi al trattamento piu' favorevole tra quello previsto dall'art. 68 dello stesso Regio decreto e quello risultante dalla corresponsione degli assegni familiari. 
  
  Ove la malattia interrompa il rapporto di lavoro, gli assegni sono corrisposti per la durata di essa fino al massimo di tre mesi.
 
@@ -110,7 +110,7 @@ In caso di richiamo alle armi, gli assegni familiari non spettano se il richiamo
 
 ### Art. 14.
 
-In caso di disoccupazione involontaria, l'assegno sara' corrisposto per tutto il periodo di carenza di cui al [2° comma dell'art. 73 del R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_73-com2), convertito nella [legge 6 aprile 1936, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155). 
+In caso di disoccupazione involontaria, l'assegno sara' corrisposto per tutto il periodo di carenza di cui al [2° comma dell'art. 73 del R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_73-com2), convertito nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md). 
  
  Non si verifica carenza, e quindi non si ha diritto agli assegni, quando la disoccupazione non sia indennizzabile.
 
@@ -142,7 +142,7 @@ Agli effetti delle disposizioni del [R. decreto-legge 17 giugno 1937, n. 1048](D
 
 ### Art. 20.
 
-Per la decisione dei ricorsi e la risoluzione in via giudiziaria di tutte le controversie in materia di corresponsione di assegni familiari si osservano le disposizioni del titolo V del [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito nella [legge 6 aprile 1936, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155), ferma restando la disposizione di cui all'art. 142 dello stesso Regio decreto. 
+Per la decisione dei ricorsi e la risoluzione in via giudiziaria di tutte le controversie in materia di corresponsione di assegni familiari si osservano le disposizioni del titolo V del [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md), ferma restando la disposizione di cui all'art. 142 dello stesso Regio decreto. 
  
  Le comunicazioni all'interessato delle decisioni del Comitato o del Ministero, a norma degli [articoli 19](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md) e [20 del R. decreto-legge 17 giugno 1937, n. 1048](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md), sono fatte con lettera raccomandata. 
  

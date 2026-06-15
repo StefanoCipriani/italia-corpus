@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 dicembre 1928, n. 2899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-31;2899), che modifica il trattamento doganale degli zuccheri. 
+ E' convertito in legge il [R. decreto-legge 31 dicembre 1928, n. 2899](Modificazioni%20al%20trattamento%20doganale%20degli%20zuccheri.%20028U2899.md), che modifica il trattamento doganale degli zuccheri. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

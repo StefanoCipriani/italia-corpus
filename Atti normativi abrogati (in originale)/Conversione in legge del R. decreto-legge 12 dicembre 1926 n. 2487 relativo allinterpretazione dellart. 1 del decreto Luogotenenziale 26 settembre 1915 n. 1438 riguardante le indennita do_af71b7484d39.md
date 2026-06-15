@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-12;2487), relativo all'interpretazione dell'[art. 1 del decreto Luogotenenziale 26 settembre 1915, n. 1438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-09-26;1438#art_1), riguardante le indennita' dovute al personale civile addetto ai servizi postali-telegrafici presso l'esercito operante. 
+ E' convertito in legge il [R. decreto-legge 12 dicembre 1926, n. 2487](Interpretazione%20dellart.%201%20del%20decreto%20Luogotenenziale%2026%20settembre%201915%20n.%201438%20riguardante%20le%20indennita%20dovute%20al%20personale%20civile%20addetto%20ai%20servizi%20postali%20telegrafici%20presso%20lEsercit_8172aeed319f.md), relativo all'interpretazione dell'[art. 1 del decreto Luogotenenziale 26 settembre 1915, n. 1438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-09-26;1438#art_1), riguardante le indennita' dovute al personale civile addetto ai servizi postali-telegrafici presso l'esercito operante. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

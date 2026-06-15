@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertita in legge il [R. decreto-legge 13 gennaio 1927, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-13;15), che reca norme per il servizio di trasmissione e recapito dei telegrammi per telefono. 
+ E' convertita in legge il [R. decreto-legge 13 gennaio 1927, n. 15](Norme%20per%20il%20servizio%20di%20trasmissione%20e%20recapito%20dei%20telegrammi%20per%20telefono.%20027U0015.md), che reca norme per il servizio di trasmissione e recapito dei telegrammi per telefono. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

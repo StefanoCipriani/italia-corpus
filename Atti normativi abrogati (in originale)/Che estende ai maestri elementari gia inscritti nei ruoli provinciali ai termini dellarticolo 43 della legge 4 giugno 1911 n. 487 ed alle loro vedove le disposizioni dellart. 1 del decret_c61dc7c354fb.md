@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), sul conferimento al Governo dei poteri eccezionali per la guerra;
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), sul conferimento al Governo dei poteri eccezionali per la guerra;
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del presidente del Consiglio dei ministri, ministro segretario di
 
 ## Art. 1.
 
-Le disposizioni dell'[art. 1 del decreto Luogotenenziale 27 febbraio 1919, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-27;191#art_1), che concede un assegno mensile ai pensionati dell'Amministrazione dello Stato, sono estese ai maestri elementari gia' inscritti nei ruoli provinciali ai termini dell'[art. 43 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_43), ed alle loro vedove.
+Le disposizioni dell'[art. 1 del decreto Luogotenenziale 27 febbraio 1919, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-27;191#art_1), che concede un assegno mensile ai pensionati dell'Amministrazione dello Stato, sono estese ai maestri elementari gia' inscritti nei ruoli provinciali ai termini dell'[art. 43 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), ed alle loro vedove.
 
 ## Art. 2.
 

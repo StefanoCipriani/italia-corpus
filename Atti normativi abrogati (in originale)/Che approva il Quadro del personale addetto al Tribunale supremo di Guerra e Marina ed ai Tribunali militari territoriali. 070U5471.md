@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il Regio Decreto in data 28 novembre 1869, approvativo d'un nuovo [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare;
+Visto il Regio Decreto in data 28 novembre 1869, approvativo d'un nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare;
 
 Visti gli articoli 317, 320, 321, 294, 299, 302 di detto Codice, che prescrivono l'istituzione di un Tribunale supremo di Guerra e di Marina, e di un Tribunale militare permanente in quei Capiluoghi di Divisione militare territoriale che verranno designati, e viene fissato il personale civile addetto al Pubblico Ministero ed alle Segreterie presso i medesimi;
 

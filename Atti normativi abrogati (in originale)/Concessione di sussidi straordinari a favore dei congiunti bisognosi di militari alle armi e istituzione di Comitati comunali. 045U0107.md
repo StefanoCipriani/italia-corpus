@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 gennaio 1934, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-22;115), e successive modificazioni;
+Vista la [legge 22 gennaio 1934, n. 115](Soccorsi%20giornalieri%20alle%20famiglie%20bisognose%20dei%20militari%20richiamati%20o%20trattenuti%20alle%20armi.%20034U0115.md), e successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -74,7 +74,7 @@ Le deliberazioni del Comitato di cui all'art. 3 devono essere pubblicate nell'al
 
 ## Art. 7.
 
-Per la concessione dei sussidi previsti dal presente decreto e salvo quanto in esso e' disposto si applicano le norme vigenti sui soccorsi giornalieri di cui alla [legge 22 gennaio 1934, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-22;115), e successive modificazioni.
+Per la concessione dei sussidi previsti dal presente decreto e salvo quanto in esso e' disposto si applicano le norme vigenti sui soccorsi giornalieri di cui alla [legge 22 gennaio 1934, n. 115](Soccorsi%20giornalieri%20alle%20famiglie%20bisognose%20dei%20militari%20richiamati%20o%20trattenuti%20alle%20armi.%20034U0115.md), e successive modificazioni.
 
 ## Art. 8.
 

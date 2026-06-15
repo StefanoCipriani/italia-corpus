@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul credito fondiario approvato con [R. decreto 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-16;646);
+Visto il testo unico delle leggi sul credito fondiario approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
 Visto il testo unico delle disposizioni concernenti le case popolari ed economiche emanato con [R. decreto-legge 30 novembre 1919, n. 2318](Che%20riunisce%20in%20testo%20unico%20le%20leggi%20per%20le%20case%20popolari%20e%20per%20lindustria%20edilizia.%20019U2318.md) e modificato con [Regio decreto-legge 8 gennaio 1920, n. 16](Che%20modifica%20il%20testo%20unico%2030%20novembre%201919%20n.%202318%20contenente%20provvedimenti%20per%20le%20case%20popolari%20ed%20economiche%20e%20per%20lindustria%20edilizia.%20020U0016.md);
 

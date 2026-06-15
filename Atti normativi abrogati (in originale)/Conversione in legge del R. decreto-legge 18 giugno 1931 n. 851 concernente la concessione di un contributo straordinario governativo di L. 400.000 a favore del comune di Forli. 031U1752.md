@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 giugno 1931, n. 851](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-18;851), concernente la concessione di un contributo straordinario governativo di L. 400.000 a favore del comune di Forli'. 
+ E' convertito in legge il [R. decreto-legge 18 giugno 1931, n. 851](Concessione%20di%20un%20contributo%20straordinario%20governativo%20di%20L.%20400.000%20a%20favore%20del%20comune%20di%20Forli.%20031U0851.md), concernente la concessione di un contributo straordinario governativo di L. 400.000 a favore del comune di Forli'. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

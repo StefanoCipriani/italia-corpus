@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 22 febbraio 1945, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-22;38);
+Visto il [decreto legislativo luogotenenziale 22 febbraio 1945, n. 38](../Decreti%20legislativi%20luogotenenziali/Prezzi%20del%20pane%20e%20della%20pasta.%20045U0038.md);
 
 Visto il [decreto legislativo 6 maggio 1947, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-05-06;355);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -32,7 +32,7 @@ Con decorrenza dal 1° luglio 1947, e' concessa, a carico dello Stato, un'indenn
  congiunti di civili deportati dai tedeschi; internati o dispersi, sempre che non vengano corrisposte pensioni od assegni di guerra;
  profughi, sfollati o sinistrati di guerra;
  rimpatriati dall'Africa italiana o dall'estero o congiunti di cittadini residenti in Africa italiana od all'estero;
- c) reduci che usufruiscono dell'assistenza prevista dal [decreto legislativo luogotenenziale 16 febbraio 1946, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-16;28).
+ c) reduci che usufruiscono dell'assistenza prevista dal [decreto legislativo luogotenenziale 16 febbraio 1946, n. 28](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20un%20assegno%20temporaneo%20a%20favore%20dei%20reduci%20disoccupati%20e%20bisognosi.md).
 
 ## Art. 2.
 

@@ -26,7 +26,7 @@ I contravventori alle norme di cui all'art. 1 saranno puniti con l'ammenda da L.
 
 1000.
 
-A coloro che, per due volte consecutive, sono stati puniti ai sensi del precedente comma, puo', in via amministrativa, essere revocata la licenza od autorizzazione, rilasciata in base alle disposizioni vigenti, ed incamerata in tutto o in parte l'eventuale cauzione prestata ai sensi del [R. decreto-legge 16 dicembre 1926, n. 2174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2174). 
+A coloro che, per due volte consecutive, sono stati puniti ai sensi del precedente comma, puo', in via amministrativa, essere revocata la licenza od autorizzazione, rilasciata in base alle disposizioni vigenti, ed incamerata in tutto o in parte l'eventuale cauzione prestata ai sensi del [R. decreto-legge 16 dicembre 1926, n. 2174](Disciplina%20del%20commercio%20di%20vendita%20al%20pubblico.%20026U2174.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

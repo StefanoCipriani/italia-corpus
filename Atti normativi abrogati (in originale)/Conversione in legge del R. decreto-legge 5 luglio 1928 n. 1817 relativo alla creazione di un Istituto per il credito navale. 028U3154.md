@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1928, n. 1817](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-07-05;1817), relativo alla creazione di un Istituto per il credito navale. 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1928, n. 1817](Creazione%20di%20un%20Istituto%20per%20il%20credito%20navale.%20028U1817.md), relativo alla creazione di un Istituto per il credito navale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

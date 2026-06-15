@@ -22,7 +22,7 @@ Per la seconda sessione dell'anno scolastico 1916-917, si osserveranno le seguen
 
 ## Art. 3.
 
-La sessione di esami per la promozione e per la ammissione alle classi II, III, IV, V e VI, e per la licenza, di cui al paragrafo V dell'[art. 10 della legge 8 luglio 1904, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;407#art_10), sara' aperta dopo un mese dall'inizio delle lezioni, ed avranno diritto ad usufruirne gli alunni di scuole pubbliche e quelli provenienti da scuola privata o paterna.
+La sessione di esami per la promozione e per la ammissione alle classi II, III, IV, V e VI, e per la licenza, di cui al paragrafo V dell'[art. 10 della legge 8 luglio 1904, n. 407](Portante%20provvedimenti%20per%20la%20scuola%20e%20pei%20maestri%20elementari.%20004U0407.md), sara' aperta dopo un mese dall'inizio delle lezioni, ed avranno diritto ad usufruirne gli alunni di scuole pubbliche e quelli provenienti da scuola privata o paterna.
 
 ## Art. 4.
 
@@ -36,7 +36,7 @@ A parziale deroga delle disposizioni contenute nei decreti Luogotenenziali sopra
 
 ## Art. 5.
 
-Fermo restando il disposto dell'[art. 9, comma 1° della legge 8 luglio 1904, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;407#art_9-com1), e dell'[art. 9 della legge 14 giugno 1907, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-14;324#art_9), e' concesso in entrambe le sessioni dell'anno scolastico 1916-917, l'esonero dal pagamento della tassa di maturita' e da quella di diploma di licenza elementare, a favore degli alunni di scuola pubblica o privata, che appartengano a famiglia di condizione economica disagiata, e che siano orfani di militare morto in guerra, ovvero siano a carico di militare in servizio, anche se esso risulti disperso o prigioniero, o sia inabilitato all'esercizio della propria professione, a causa di ferite o di infermita' contratta in guerra. 
+Fermo restando il disposto dell'[art. 9, comma 1° della legge 8 luglio 1904, n. 407](Portante%20provvedimenti%20per%20la%20scuola%20e%20pei%20maestri%20elementari.%20004U0407.md), e dell'[art. 9 della legge 14 giugno 1907, n. 324](Concernente%20disposizione%20per%20gli%20esami%20nelle%20Scuole%20medie%20ed%20elementari%20007U0324.md), e' concesso in entrambe le sessioni dell'anno scolastico 1916-917, l'esonero dal pagamento della tassa di maturita' e da quella di diploma di licenza elementare, a favore degli alunni di scuola pubblica o privata, che appartengano a famiglia di condizione economica disagiata, e che siano orfani di militare morto in guerra, ovvero siano a carico di militare in servizio, anche se esso risulti disperso o prigioniero, o sia inabilitato all'esercizio della propria professione, a causa di ferite o di infermita' contratta in guerra. 
  
  La domanda per l'esonero dovra' essere inviata al R. provveditore.
 Quanto alla tassa di maturita', l'istanza dovra' presentarsi almeno sette giorni prima della data fissata per gli scrutini o per gli esami. Vi saranno uniti un attestato della Giunta del Comune in cui risiede la famiglia del candidato, dal quale risultino le condizioni su accennate, ed uno dell'agente delle imposte, che certifichi lo stato economico della famiglia stessa. Tutti i documenti sono redatti in carta libera. 

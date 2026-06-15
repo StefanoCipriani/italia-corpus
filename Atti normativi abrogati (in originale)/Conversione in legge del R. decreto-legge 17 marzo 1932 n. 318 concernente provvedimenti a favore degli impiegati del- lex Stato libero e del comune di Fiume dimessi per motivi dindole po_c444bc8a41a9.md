@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 marzo 1932, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-03-17;318), concernente provvedimenti a favore degli impiegati dell'ex Stato libero e del comune di Fiume dimessi per motivi di indole politica dopo il periodo di governo zanelliano. 
+ E' convertito in legge il [R. decreto-legge 17 marzo 1932, n. 318](Provvedimenti%20a%20favore%20degli%20impiegati%20dellex%20Stato%20libero%20di%20Fiume%20e%20del%20comune%20di%20Fiume%20dimessi%20per%20motivi%20dindole%20politica%20dopo%20il%20periodo%20di%20Governo%20Zanelliano.%20032U0318.md), concernente provvedimenti a favore degli impiegati dell'ex Stato libero e del comune di Fiume dimessi per motivi di indole politica dopo il periodo di governo zanelliano. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 26 maggio 1932 - Anno X 
  

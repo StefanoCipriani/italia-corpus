@@ -36,7 +36,7 @@ E' esclusa la partecipazione di societa' che, per collegamenti tecnico-finanziar
  
 
  AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 Note all'art. 1:
@@ -73,7 +73,7 @@ La quota di partecipazione sottoscritta da ciascuna impresa non puo' superare il
 
 3.
 
-I consorzi e le societa' consortili di cui al comma 1 possono essere costituiti da non meno di cinque imprese qualora operino nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218), o in settori merceologici specializzati, individuati con decreto del Ministro dell'industria, del commercio e dell'artigianato; la stessa riduzione si applica ai consorzi e alle societa' consortili tra imprese artigiane di cui all'[articolo 6 della legge 8 agosto 1985, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443#art_6).
+I consorzi e le societa' consortili di cui al comma 1 possono essere costituiti da non meno di cinque imprese qualora operino nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), o in settori merceologici specializzati, individuati con decreto del Ministro dell'industria, del commercio e dell'artigianato; la stessa riduzione si applica ai consorzi e alle societa' consortili tra imprese artigiane di cui all'[articolo 6 della legge 8 agosto 1985, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443#art_6).
 
 4.
 
@@ -104,10 +104,10 @@ Non concorrono a formare il reddito imponibile dei consorzi e delle societa' con
 
 2.
 
-I servizi resi dai consorzi e dalle societa' consortili di cui all'articolo 1 alle imprese consorziate costituiscono servizi internazionali o connessi agli scambi internazionali ai sensi dell'[articolo 9 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_9), e successive modificazioni.
+I servizi resi dai consorzi e dalle societa' consortili di cui all'articolo 1 alle imprese consorziate costituiscono servizi internazionali o connessi agli scambi internazionali ai sensi dell'[articolo 9 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni.
 
 Nota all'art. 3:
- Il testo dell'[art. 9 del D.P.R. n. 633/1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;633#art_9) (Istituzione e disciplina dell'imposta sul valore aggiunto), come modificato dall'[art. 4 del decreto del Presidente della Repubblica 30 dicembre 1980, n. 897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-30;897#art_4), e dall'[art. 6 del D.P.R. 30 dicembre 1981, n. 793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-12-30;793#art_6), e' il seguente:
+ Il testo dell'[art. 9 del D.P.R. n. 633/1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;633#art_9) (Istituzione e disciplina dell'imposta sul valore aggiunto), come modificato dall'[art. 4 del decreto del Presidente della Repubblica 30 dicembre 1980, n. 897](../DPR/Norme%20correttive%20ed%20integrative%20dei%20decreti%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%2029%20settembre%201973%20numeri%20597%20598%20600%20e%20601%20concernenti%20rispettivamente%20listituzione%20e%20la_780da1019e6b.md), e dall'[art. 6 del D.P.R. 30 dicembre 1981, n. 793](../DPR/Norme%20correttive%20ed%20integrative%20dei%20decreti%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20e%206%20ottobre%201978%20n.%20627%20concernenti%20rispettivamente%20listituzione%20e%20la%20disciplina%20dellimp_334296849399.md), e' il seguente:
  "Art. 9 (Servizi internazionali o connessi agli scambi internazionali). - Costituiscono servizi internazionali o connessi agli scambi internazionali:
  1) i trasporti di persone eseguiti in parte nel territorio dello Stato e in parte in territorio estero in dipendenza di unico contratto;
  2) i trasporti relativi a beni in esportazione, in transito o in importazione temporanea, nonche' i trasporti relativi a beni di importazione i cui corrispettivi sono assoggettati all'imposta a norma del primo comma dell'art. 69;
@@ -192,7 +192,7 @@ Il limite anzidetto e' ulteriormente elevato a 300 milioni di lire per i consorz
 
 4.
 
-Per i consorzi e le societa' consortili costituiti tra piccole e medie imprese ubicate nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218), la percentuale massima dei contributi indicata nel comma 1 e' elevata al 60 per cento, fermi restando i limiti massimi annuali di cui ai commi 1, 2 e 3.
+Per i consorzi e le societa' consortili costituiti tra piccole e medie imprese ubicate nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), la percentuale massima dei contributi indicata nel comma 1 e' elevata al 60 per cento, fermi restando i limiti massimi annuali di cui ai commi 1, 2 e 3.
 
 5.
 

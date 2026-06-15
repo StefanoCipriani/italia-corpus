@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 febbraio 1934, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-02-08;265), concernente il rimborso graduale allo Stato dell'importo del patrimonio conferito all'Istituto Poligrafico dello stato. 
+ E' convertito in legge il [R. decreto-legge 8 febbraio 1934, n. 265](Rimborso%20graduale%20allo%20Stato%20dellimporto%20del%20patrimonio%20conferito%20allIstituto%20Poligrafico%20dello%20Stato.%20034U0265.md), concernente il rimborso graduale allo Stato dell'importo del patrimonio conferito all'Istituto Poligrafico dello stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

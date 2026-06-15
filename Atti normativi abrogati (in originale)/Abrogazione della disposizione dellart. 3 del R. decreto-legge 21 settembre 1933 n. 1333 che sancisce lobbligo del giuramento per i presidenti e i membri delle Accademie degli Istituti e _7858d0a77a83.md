@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-La disposizione dell'[art. 3 del R. decreto-legge 21 settembre 1933, n. 1333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-21;1333#art_3), convertito nella [legge 12 gennaio 1934, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-12;90), che sancisce l'obbligo del giuramento per i presidenti e i membri delle Accademie, degli Istituti e delle Associazioni di scienze, lettere ed arti, e' abrogata. 
+La disposizione dell'[art. 3 del R. decreto-legge 21 settembre 1933, n. 1333](Provvedimenti%20per%20le%20Accademie%20gli%20Istituti%20e%20le%20Associazioni%20di%20scienze%20di%20lettere%20ed%20arti.%20033U1333.md), convertito nella [legge 12 gennaio 1934, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20settembre%201933%20n.%201333%20contenente%20provvedimenti%20per%20le%20Accademie%20gli%20Istituti%20e%20le%20Associazioni%20di%20scienze%20di%20lettere%20ed%20arti.%20034U0090.md), che sancisce l'obbligo del giuramento per i presidenti e i membri delle Accademie, degli Istituti e delle Associazioni di scienze, lettere ed arti, e' abrogata. 
  
 Il presente decreto entrera' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

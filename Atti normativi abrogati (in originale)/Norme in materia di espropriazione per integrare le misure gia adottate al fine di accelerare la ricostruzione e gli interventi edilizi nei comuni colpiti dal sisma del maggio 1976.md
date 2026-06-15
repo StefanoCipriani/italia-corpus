@@ -47,7 +47,7 @@ Per l'occupazione temporanea e d'urgenza delle aree da destinare ad insediamenti
 
 ## Art. 5.
 
-Agli atti, ai provvedimenti, ai contratti e alla documentazione, comunque relativi all'attuazione del presente decreto, si applicano le disposizioni dell'[art. 32 del decreto-legge 13 maggio 1976, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-05-13;227#art_32), convertito nella [legge 29 maggio 1976, n. 336](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-29;336).
+Agli atti, ai provvedimenti, ai contratti e alla documentazione, comunque relativi all'attuazione del presente decreto, si applicano le disposizioni dell'[art. 32 del decreto-legge 13 maggio 1976, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-05-13;227#art_32), convertito nella [legge 29 maggio 1976, n. 336](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201976%20n.%20227%20concernente%20provvidenze%20per%20le%20popolazioni%20dei%20comuni%20della%20regione%20Friuli-Venezia%20Giulia%20colpiti%20dal%20terrem_726250e6d065.md).
 
 ## Art. 6.
 

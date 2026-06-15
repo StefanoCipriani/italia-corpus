@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli esperimenti bimestrali e trimestrali prescritti dal regolamento legislativo, approvato con [R. decreto 13 ottobre 1904, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-10-13;598), sono aboliti. 
+Gli esperimenti bimestrali e trimestrali prescritti dal regolamento legislativo, approvato con [R. decreto 13 ottobre 1904, n. 598](Che%20approva%20e%20contiene%20il%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20ed%20elementari.%20004U0598.md), sono aboliti. 
  
  Nelle scuole elementari e popolari alla fine di ogni bimestre, e nelle scuole secondarie alla fine di ogni trimestre, si assegnera', nel modo che sara' determinato col regolamento, a ciascun alunno, per ciascuna materia, un numero di punti da zero a dieci secondo il profitto accertato; analoga assegnazione di punti sara' fatta per la condotta tenuta dall'alunno.
 
@@ -58,7 +58,7 @@ I capi degl'istituti governativi e pareggiati d'istruzione media di ogni provinc
 
 Sono abrogati gli [articoli 2 della legge 28 luglio 1904, n. 403](Disposizioni%20per%20regolare%20la%20materia%20degli%20esami%20nelle%20scuole%20medie%20ed%20elementari.%20004U0403.md), e 1, 2, 3, 4 e 5 della [legge 14 giugno 1907, n. 324](Concernente%20disposizione%20per%20gli%20esami%20nelle%20Scuole%20medie%20ed%20elementari%20007U0324.md). 
  
- Con decreti reali potranno essere apportate modificazioni alle disposizioni del regolamento per gli esami nelle scuole elementari, popolari e medie, approvato con [R. decreto del 13 ottobre 1904, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-10-13;598), sentita la Giunta del Consiglio superiore della pubblica istruzione relativamente alle scuole medie e la sezione della Giunta stessa per l'istruzione primaria e popolare relativamente alle scuole elementari e popolari.
+ Con decreti reali potranno essere apportate modificazioni alle disposizioni del regolamento per gli esami nelle scuole elementari, popolari e medie, approvato con [R. decreto del 13 ottobre 1904, n. 598](Che%20approva%20e%20contiene%20il%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20ed%20elementari.%20004U0598.md), sentita la Giunta del Consiglio superiore della pubblica istruzione relativamente alle scuole medie e la sezione della Giunta stessa per l'istruzione primaria e popolare relativamente alle scuole elementari e popolari.
 
 ## Art. 8.
 

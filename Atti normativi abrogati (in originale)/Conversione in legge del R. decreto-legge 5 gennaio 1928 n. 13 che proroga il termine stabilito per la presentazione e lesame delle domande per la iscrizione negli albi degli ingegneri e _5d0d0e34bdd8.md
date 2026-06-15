@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 5 gennaio 1928, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-05;13), circa la proroga del termine stabilito per la presentazione e l'esame delle domande per la iscrizione negli albi degli ingegneri e degli architetti. 
+ E' convertito in legge il [R. decreto legge 5 gennaio 1928, n. 13](Proroga%20del%20termine%20stabilito%20per%20la%20presentazione%20e%20lesame%20delle%20domande%20per%20la%20iscrizione%20negli%20albi%20degli%20ingegneri%20e%20degli%20architetti.%20028U0013.md), circa la proroga del termine stabilito per la presentazione e l'esame delle domande per la iscrizione negli albi degli ingegneri e degli architetti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

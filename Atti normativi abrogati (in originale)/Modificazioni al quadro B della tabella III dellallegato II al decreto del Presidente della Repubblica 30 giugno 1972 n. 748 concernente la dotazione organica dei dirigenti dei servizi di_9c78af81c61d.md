@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Visto l'[art. 17, quarto comma, della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_17-com4), che consente, in relazione al mutare delle effettive esigenze di poter modificare i ruoli organici delle amministrazioni dello Stato; 
- Visto il quadro B della tabella III dell'allegato II al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748), concernente la dotazione organica dei dirigenti dei servizi di ragioneria del Ministero dell'interno; 
+ Visto il quadro B della tabella III dell'allegato II al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), concernente la dotazione organica dei dirigenti dei servizi di ragioneria del Ministero dell'interno; 
  Ravvisata la insufficienza del numero dei primi dirigenti con funzione di direttore di divisione fissati in otto unita' e riscontrata del pari l'esuberanza del numero dei dirigenti da utilizzare in qualita' di ispettore capo o vice consigliere ministeriale, previsti in quarantuno unita'; 
  Ritenuto di non predeterminare il numero dei primi dirigenti da destinare alle singole funzioni dirigenziali; 
  Sentito il Consiglio superiore della pubblica amministrazione; 
@@ -21,7 +21,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  Decreta: 
  
- Il quadro B della tabella III dell'allegato II al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748), per i motivi citati nelle premesse, viene cosi' modificato: 
+ Il quadro B della tabella III dell'allegato II al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), per i motivi citati nelle premesse, viene cosi' modificato: 
  
 
  Parte di provvedimento in formato grafico

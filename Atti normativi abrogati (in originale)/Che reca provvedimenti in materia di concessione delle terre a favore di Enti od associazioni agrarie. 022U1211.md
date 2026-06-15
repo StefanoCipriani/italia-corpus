@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni legislative per la concessione delle terre, approvato con [R. decreto 15 dicembre 1921, n. 2047](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-12-15;2047), nonche' la [legge 18 maggio 1922, n. 646](Con%20la%20quale%20il%20termine%20del%2031%20marzo%201922%20indicato%20nellart.%201%20del%20testo%20unico%20delle%20disposizioni%20legislative%20per%20la%20concessione%20delle%20terre%20e%20prorogato%20sino%20alla%20data%20di%20pubblicazione%20del_af95459219d2.md);
+Visto il testo unico delle disposizioni legislative per la concessione delle terre, approvato con [R. decreto 15 dicembre 1921, n. 2047](Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20concessione%20delle%20terre.%20021U2047.md), nonche' la [legge 18 maggio 1922, n. 646](Con%20la%20quale%20il%20termine%20del%2031%20marzo%201922%20indicato%20nellart.%201%20del%20testo%20unico%20delle%20disposizioni%20legislative%20per%20la%20concessione%20delle%20terre%20e%20prorogato%20sino%20alla%20data%20di%20pubblicazione%20del_af95459219d2.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura di conc
 
 ## Art. 1.
 
-Le concessioni delle terre accordate in forza di provvedimenti emanati ai sensi del testo unico delle disposizioni legislative per la concessione delle terre approvato con [R. decreto 15 dicembre 1921, n. 2047](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-12-15;2047), sono prorogate di diritto al termine dell'annata agraria 1922-923 a quegli Enti od Associazioni che alla data della pubblicazione del presente decreto, si trovino nell'effettivo possesso delle terre ad essi concesso. 
+Le concessioni delle terre accordate in forza di provvedimenti emanati ai sensi del testo unico delle disposizioni legislative per la concessione delle terre approvato con [R. decreto 15 dicembre 1921, n. 2047](Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20concessione%20delle%20terre.%20021U2047.md), sono prorogate di diritto al termine dell'annata agraria 1922-923 a quegli Enti od Associazioni che alla data della pubblicazione del presente decreto, si trovino nell'effettivo possesso delle terre ad essi concesso. 
  
  Quando risulti che le Associazioni od Enti concessionari non abbiano regolarmente coltivato i terreni o non abbiano adempiuto agli obblighi della concessione il ministro dell'agricoltura, su ricorso dei proprietari o precedenti conduttori, da presentarsi entro il perentorio termine di 20 giorni dalla pubblicazione del presente decreto, ordinera' l'immediato rilascio dei terreni, sentito il parere della Commissione centrale per la concessione delle terre. 
  

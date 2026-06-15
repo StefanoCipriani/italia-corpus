@@ -18,7 +18,7 @@ private, approvato con decreto del Presidente
 
 della Repubblica 13 febbraio 1959, n. 449;
 
-Vista la [legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742), contenente nuove norme per l'esercizio delle assicurazioni private sulla vita;
+Vista la [legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md), contenente nuove norme per l'esercizio delle assicurazioni private sulla vita;
 
 Visto l'[articolo 27 del decreto legislativo 23 dicembre 1992, n. 515](Attuazione%20della%20direttiva%2090-619-CEE%20che%20coordina%20le%20disposizioni%20legislative%20regolamentari%20ed%20amministrative%20riguardanti%20lassicurazione%20diretta%20sulla%20vita.md), di attuazione della [direttiva 90/619/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;619) sulle disposizioni riguardanti l'assicurazione diretta sulla vita;
 
@@ -34,21 +34,21 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Dal 1 gennaio 1994 per le imprese che esercitano l'assicurazione sulla vita cessa, anche per i contratti conclusi prima del 20 maggio 1993, l'obbligo di cui agli articoli 23, 24, 25 e 26 del testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449, e agli articoli 62](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md) e [63](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md) della [legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742).
+Dal 1 gennaio 1994 per le imprese che esercitano l'assicurazione sulla vita cessa, anche per i contratti conclusi prima del 20 maggio 1993, l'obbligo di cui agli articoli 23, 24, 25 e 26 del testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449, e agli articoli 62](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md) e [63](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md) della [legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md).
 
 2.
 
 Dal 1 gennaio 1994 cessa l'obbligo, disposto dal 
 [comma 8 dell'articolo 31 della legge 22 ottobre 1986, 
-n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_31-com8), di iscrivere tra gli elementi dell'attivo un ammontare non inferiore a quello delle riserve tecniche relative alle quote cedute dalle imprese ai sensi dell'articolo 23 del testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md).
+n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md), di iscrivere tra gli elementi dell'attivo un ammontare non inferiore a quello delle riserve tecniche relative alle quote cedute dalle imprese ai sensi dell'articolo 23 del testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md).
 
 3.
 
-Dal 1 gennaio 1994 l'obbligo delle imprese di assicurazione di iscrivere tra gli elementi dell'attivo disponibilita' comprese tra quelle indicate nel [comma 1 dell'articolo 32 della legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_32-com1), va adempiuto per un ammontare non inferiore a quello delle riserve tecniche di cui all'articolo 31 della stessa legge, comprese le quote cedute di cui al comma 1.
+Dal 1 gennaio 1994 l'obbligo delle imprese di assicurazione di iscrivere tra gli elementi dell'attivo disponibilita' comprese tra quelle indicate nel [comma 1 dell'articolo 32 della legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md), va adempiuto per un ammontare non inferiore a quello delle riserve tecniche di cui all'articolo 31 della stessa legge, comprese le quote cedute di cui al comma 1.
 
 4.
 
-Al [comma 1 dell'articolo 32 della legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_32-com1), e' aggiunta, in fine, la seguente lettera: 
+Al [comma 1 dell'articolo 32 della legge 22 ottobre 1986, n. 742](Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md), e' aggiunta, in fine, la seguente lettera: 
  " s) il credito nei confronti della CONSAP - Concessionaria servizi assicurativi pubblici S.p.a., per la restituzione delle attivita' costituite a copertura delle riserve tecniche iscritte a fronte delle cessioni legali effettuate dalle imprese in base alle disposizioni sull'obbligo di cessione.".
 
 5.

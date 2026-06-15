@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sono convertiti in legge i [Regi decreti-legge 19 dicembre 1931, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-19;1551), e [2 febbraio 1932, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-02-02;30), recanti disposizioni intese a disciplinare la razionale ripartizione delle mattazioni del bestiame bovino e l'ammissione al consumo delle carni macellate importate. 
+ Sono convertiti in legge i [Regi decreti-legge 19 dicembre 1931, n. 1551](Disposizioni%20intese%20alla%20razionale%20ripartizione%20delle%20mattazioni%20di%20bestiame%20bovino%20nei%20vari%20Comuni%20del%20Regno.%20031U1551.md), e [2 febbraio 1932, n. 30](Disposizioni%20per%20la%20quota%20di%20bestiame%20estero%20utilizzabile%20per%20il%20consumo%20ai%20sensi%20dellart.%201%20del%20R.%20decreto-legge%2019%20dicembre%201931%20n.%201551.%20032U0030.md), recanti disposizioni intese a disciplinare la razionale ripartizione delle mattazioni del bestiame bovino e l'ammissione al consumo delle carni macellate importate. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 24 marzo 1932. - Anno X 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 febbraio 1928, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-26;312), che sospende temporaneamente l'applicazione, da parte dei Comuni, del dazio di consumo sulle ligniti e sulle torbe. 
+ E' convertito in legge il [R. decreto-legge 26 febbraio 1928, n. 312](Esenzione%20del%20dazio%20interno%20di%20consumo%20sulle%20ligniti%20e%20sulle%20torbe.%20028U0312.md), che sospende temporaneamente l'applicazione, da parte dei Comuni, del dazio di consumo sulle ligniti e sulle torbe. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

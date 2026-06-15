@@ -26,7 +26,7 @@ Con decreto Ministeriale saranno designati i funzionari ai quali spetta di trasm
 
 1.
 
-A coloro di detti funzionari, comunque responsabili di mancate comunicazioni di assunzione d'impegni, a mente dell'art. 1, o di emissione di mandati, ai sensi del successivo art. 4, sara' applicato il provvedimento disciplinare stabilito dall'[art. 5 del decreto Luogotenenziale 28 novembre 1915, n. 1672](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-28;1672#art_5), convertito nella [legge 28 giugno 1917, n. 1065](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-06-28;1065).
+A coloro di detti funzionari, comunque responsabili di mancate comunicazioni di assunzione d'impegni, a mente dell'art. 1, o di emissione di mandati, ai sensi del successivo art. 4, sara' applicato il provvedimento disciplinare stabilito dall'[art. 5 del decreto Luogotenenziale 28 novembre 1915, n. 1672](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-28;1672#art_5), convertito nella [legge 28 giugno 1917, n. 1065](Che%20converte%20in%20legge%20decreti%20emanati%20durante%20la%20proroga%20dei%20lavori%20parlamentari%20dal%2021%20maggio%20al%2030%20novembre%201915%20relativi%20ai%20danneggiati%20dai%20terremoti%20nonche%20a%20provvedimenti%20economici%20e_f601a48c6694.md).
 
 ## Art. 4.
 

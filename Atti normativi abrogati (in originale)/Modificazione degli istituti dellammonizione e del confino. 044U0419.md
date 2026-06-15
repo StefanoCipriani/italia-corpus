@@ -16,7 +16,7 @@ Nell'[art. 164 del testo unico delle leggi di pubblica sicurezza](https://www.no
 
 ## Art. 2.
 
-Gli articoli 166 e 184 del predetto [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), gia' modificati con l'articolo unico della [legge 29 gennaio 1942, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-29;182), sono abrogati e sostituiti dai seguenti: 
+Gli articoli 166 e 184 del predetto [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), gia' modificati con l'articolo unico della [legge 29 gennaio 1942, n. 182](Modificazione%20degli%20articoli%20166%20e%20184%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza%20approvato%20col%20R.%20decreto%2018%20giugno%201931-IX%20n.%20773.%20042U0182.md), sono abrogati e sostituiti dai seguenti: 
  
  «Art. 166: L'ammonizione ha la durata di due anni ed e' pronunciata, da una Commissione provinciale composta del prefetto, del procuratore del Re, di un giudice - designato dal presidente del tribunale - del questore, del comandante l'Arma dei carabinieri reali nella provincia e di un cittadino di specchiata probita' nominato dal sindaco del Comune capoluogo di provincia. Un funzionario di gruppo A di grado inferiore al 10° designato dal prefetto, assistera' come segretarie. 
  

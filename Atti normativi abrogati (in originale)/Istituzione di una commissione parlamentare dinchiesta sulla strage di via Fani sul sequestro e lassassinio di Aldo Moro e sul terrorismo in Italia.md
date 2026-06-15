@@ -59,7 +59,7 @@ La commissione puo' richiedere copia di atti e documenti relativi ad altre istru
 ## Art. 6.
 
 I componenti la commissione parlamentare d'inchiesta, i funzionari e il personale di qualsiasi ordine e grado addetti alla commissione stessa ed ogni altra persona che collabora con la commissione o compie o concorre a compiere atti di inchiesta oppure ne viene a conoscenza per ragioni di ufficio o di servizio sono obbligati al segreto per tutto quanto riguarda le deposizioni, le notizie, gli atti e i documenti acquisiti al procedimento di inchiesta.
- Salvo che il fatto costituisca un piu' grave delitto, la violazione del segreto e' punita a norma dell'[art. 326 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_326).
+ Salvo che il fatto costituisca un piu' grave delitto, la violazione del segreto e' punita a norma dell'[art. 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Le stesse pene si applicano a chiunque diffonda in tutto o in parte, anche per riassunto o informazione, notizie, deposizioni, atti o documenti del procedimento d'inchiesta, salvo che per il fatto siano previste pene piu' gravi.
 
 ## Art. 7.

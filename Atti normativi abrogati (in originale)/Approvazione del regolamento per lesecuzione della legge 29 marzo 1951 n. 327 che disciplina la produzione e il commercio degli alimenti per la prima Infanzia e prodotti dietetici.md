@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 29 marzo 1951, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-03-29;327), concernente la disciplina della produzione e del commercio degli alimenti per la prima infanzia e dei prodotti dietetici;
+Vista la [legge 29 marzo 1951, n. 327](Disciplina%20della%20produzione%20e%20vendita%20di%20alimenti%20per%20la%20prima%20infanzia%20e%20di%20prodotti%20dietetici.md), concernente la disciplina della produzione e del commercio degli alimenti per la prima infanzia e dei prodotti dietetici;
 
 Udito il parere del Consiglio superiore di sanita';
 
@@ -28,7 +28,7 @@ TITOLO I
 
 ### Art. 1.
 
-L'autorizzazione per la produzione a scopo di vendita degli alimenti per la prima infanzia e di prodotti dietetici, di cui all'[art. 2 della legge 29 marzo 1951, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-03-29;327#art_2), deve essere richiesta all'Alto Commissariato per l'igiene e la sanita' pubblica distintamente per ogni singolo prodotto che si intende immettere in vendita.
+L'autorizzazione per la produzione a scopo di vendita degli alimenti per la prima infanzia e di prodotti dietetici, di cui all'[art. 2 della legge 29 marzo 1951, n. 327](Disciplina%20della%20produzione%20e%20vendita%20di%20alimenti%20per%20la%20prima%20infanzia%20e%20di%20prodotti%20dietetici.md), deve essere richiesta all'Alto Commissariato per l'igiene e la sanita' pubblica distintamente per ogni singolo prodotto che si intende immettere in vendita.
 
 ### Art. 2.
 

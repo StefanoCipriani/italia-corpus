@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Vista la legge per l'amministrazione del patrimonio e per la contabilita' generale dello Stato e il relativo regolamento;
 
-Visto il [R. decreto n. 3207 del 13 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-13;3207), col quale fu approvata la convenzione del 9 dicembre 1923 con la Societa' italiana Pirelli per la posa e la manutenzione dei cavi sottomarini di proprieta' dello Stato;
+Visto il [R. decreto n. 3207 del 13 dicembre 1923](Convenzione%20fra%20il%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20con%20la%20ditta%20Pirelli%20di%20Milano%20per%20la%20posa%20e%20la%20manutenzione%20dei%20cavi%20sottomarini%20di%20proprieta%20dello%20Stato.%20023U3207.md), col quale fu approvata la convenzione del 9 dicembre 1923 con la Societa' italiana Pirelli per la posa e la manutenzione dei cavi sottomarini di proprieta' dello Stato;
 
-Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto il [R. decreto-legge 12 febbraio 1934, n. 334](Proroga%20di%20un%20anno%20della%20convenzione%20fra%20lAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20e%20la%20Societa%20italiana%20Pirelli%20di%20Milano%20per%20la%20posa%20e%20la%20manutenzione%20dei%20cavi%20sottomarini%20di%20proprie_6c22ab3fa1c5.md), convertito nella [legge 28 maggio 1934, n. 975](Conversione%20In%20legge%20del%20R.%20decreto-legge%2012%20febbraio%201934%20n.%20334%20che%20proroga%20di%20un%20anno%20la%20convenzione%20fra%20lAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20e%20la%20Societa%20italiana%20Pirelli%20di%20M_339d86efb03d.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-E' approvato l'annesso atto in data 30 dicembre 1934 col quale viene prorogata di un altro anno la convenzione del 9 dicembre 1923 approvata con [R. decreto 13 dicembre 1923, n. 3207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-13;3207), con la Societa' italiana Pirelli di Milano per la posa e la manutenzione dei cavi sottomarini di proprieta' dello Stato.
+E' approvato l'annesso atto in data 30 dicembre 1934 col quale viene prorogata di un altro anno la convenzione del 9 dicembre 1923 approvata con [R. decreto 13 dicembre 1923, n. 3207](Convenzione%20fra%20il%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20con%20la%20ditta%20Pirelli%20di%20Milano%20per%20la%20posa%20e%20la%20manutenzione%20dei%20cavi%20sottomarini%20di%20proprieta%20dello%20Stato.%20023U3207.md), con la Societa' italiana Pirelli di Milano per la posa e la manutenzione dei cavi sottomarini di proprieta' dello Stato.
 
 ## Art. 2.
 

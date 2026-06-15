@@ -24,11 +24,11 @@ EMANA il seguente decreto:
 
 1.
 
-E' autorizzata la spesa di lire 320 miliardi a titolo di contributo speciale alla regione Calabria, ai sensi dell'[articolo 12 della legge 16 maggio 1970, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281#art_12), sulle spese dalla medesima sostenute nel 1986 per il proseguimento delle attivita' previste dalla [legge 12 ottobre 1984, n. 664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-12;664).
+E' autorizzata la spesa di lire 320 miliardi a titolo di contributo speciale alla regione Calabria, ai sensi dell'[articolo 12 della legge 16 maggio 1970, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281#art_12), sulle spese dalla medesima sostenute nel 1986 per il proseguimento delle attivita' previste dalla [legge 12 ottobre 1984, n. 664](Misure%20straordinarie%20per%20la%20continuazione%20di%20iniziative%20in%20corso%20nel%20territorio%20della%20regione%20Calabria.md).
 
 2.
 
-L'erogazione della somma di cui al comma 1 e' subordinata alla presentazione al Ministero del tesoro - Ragioneria generale dello Stato, della dichiarazione del presidente della giunta regionale prevista dall'[articolo 1, comma 2, del decreto-legge 3 febbraio 1986, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-02-03;15#art_1-com2), convertito, con modificazioni, dalla [legge 2 aprile 1986, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-04-02;87).
+L'erogazione della somma di cui al comma 1 e' subordinata alla presentazione al Ministero del tesoro - Ragioneria generale dello Stato, della dichiarazione del presidente della giunta regionale prevista dall'[articolo 1, comma 2, del decreto-legge 3 febbraio 1986, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-02-03;15#art_1-com2), convertito, con modificazioni, dalla [legge 2 aprile 1986, n. 87](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20febbraio%201986%20n.%2015%20recante%20misure%20urgenti%20per%20lintervento%20idrogeologico%20e%20forestale%20nel%20territorio%20della%20regione%20Calabria.md).
 
 3.
 
@@ -52,23 +52,23 @@ Per la realizzazione di nuove strutture a favore dell'Universita' degli studi di
 
 3.
 
-Le predette somme sono utilizzate dalle citate Universita' secondo le modalita' stabilite dalla [legge 6 marzo 1976, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-03-06;50).
+Le predette somme sono utilizzate dalle citate Universita' secondo le modalita' stabilite dalla [legge 6 marzo 1976, n. 50](Piano%20pluriennale%20di%20finanziamento%20delledilizia%20universitaria.md).
 
 ## Art. 4.
 
 1.
 
-Per far fronte ai primi urgenti interventi di adeguamento antisismico sugli edifici pubblici nella regione Calabria e per la formulazione di un programma operativo di adeguamento antisismico degli edifici e delle infrastrutture site nelle zone ad alto rischio sismico nella stessa regione e' autorizzata la spesa di lire 70 miliardi che affluisce sul Fondo per la protezione civile, istituito con l'[articolo 2 del decreto-legge 10 luglio 1982, n. 428](Misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnimento%20degli%20incendi.md), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;547), e successive integrazioni.
+Per far fronte ai primi urgenti interventi di adeguamento antisismico sugli edifici pubblici nella regione Calabria e per la formulazione di un programma operativo di adeguamento antisismico degli edifici e delle infrastrutture site nelle zone ad alto rischio sismico nella stessa regione e' autorizzata la spesa di lire 70 miliardi che affluisce sul Fondo per la protezione civile, istituito con l'[articolo 2 del decreto-legge 10 luglio 1982, n. 428](Misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnimento%20degli%20incendi.md), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20428%20recante%20misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnim_04ba3d019ac1.md), e successive integrazioni.
 
 2.
 
-Il Ministro per il coordinamento della protezione civile, con i poteri di cui al [secondo comma dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1982, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-23;938), provvede, con proprie ordinanze, all'attuazione delle disposizioni di cui al comma 1.
+Il Ministro per il coordinamento della protezione civile, con i poteri di cui al [secondo comma dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1982, n. 938](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20novembre%201982%20n.%20829%20concernente%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20da%20calamita%20naturali%20o%20eventi%20eccezionali.md), provvede, con proprie ordinanze, all'attuazione delle disposizioni di cui al comma 1.
 
 ## Art. 5.
 
 1.
 
-A favore delle aziende agricole, singole o associate, situate nelle zone della regione Calabria colpite dalle gelate nel periodo dal 1° al 15 marzo 1987, si applicano le provvidenze di cui alla [legge 15 ottobre 1981, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-15;590), modificata dalla [legge 13 maggio 1985, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-13;198), con le modificazioni ed integrazioni di cui ai successivi commi.
+A favore delle aziende agricole, singole o associate, situate nelle zone della regione Calabria colpite dalle gelate nel periodo dal 1° al 15 marzo 1987, si applicano le provvidenze di cui alla [legge 15 ottobre 1981, n. 590](Nuove%20norme%20per%20il%20Fondo%20di%20solidarieta%20nazionale.md), modificata dalla [legge 13 maggio 1985, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-13;198), con le modificazioni ed integrazioni di cui ai successivi commi.
 
 2.
 
@@ -84,11 +84,11 @@ Gli organismi cooperativi che gestiscono impianti di raccolta, conservazione, la
 
 5.
 
-Qualora nella campagna 1987-1988 si verifichi la permanenza degli effetti negativi delle gelate sulla produzione agrumicola, consistente nella perdita di almeno il 30 per cento del prodotto lordo vendibile dell'azienda rispetto alla produzione media riferita al triennio precedente al verificarsi dell'evento in cui al comma 1, e fino a quando perdurino tali effetti, le aziende agrumicole, singole o associate, assuntrici di manodopera nonche' le aziende agrumicole coltivatrici dirette, mezzadrili e coloniche ubicate nei territori delimitati dalla regione, possono beneficiare, previa presentazione dell'attestazione di cui all'ultimo comma dell'[articolo 1 della legge 25 luglio 1956, n. 838](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-25;838#art_1), e successive modificazioni ed integrazioni, della sospensione del pagamento dei contributi previdenziali e assistenziali. I contributi sospesi sono recuperati ratealmente nell'arco del quinquennio successivo a ciascun periodo di sospensione, con applicazione del tasso di interesse legale.
+Qualora nella campagna 1987-1988 si verifichi la permanenza degli effetti negativi delle gelate sulla produzione agrumicola, consistente nella perdita di almeno il 30 per cento del prodotto lordo vendibile dell'azienda rispetto alla produzione media riferita al triennio precedente al verificarsi dell'evento in cui al comma 1, e fino a quando perdurino tali effetti, le aziende agrumicole, singole o associate, assuntrici di manodopera nonche' le aziende agrumicole coltivatrici dirette, mezzadrili e coloniche ubicate nei territori delimitati dalla regione, possono beneficiare, previa presentazione dell'attestazione di cui all'ultimo comma dell'[articolo 1 della legge 25 luglio 1956, n. 838](Agevolazioni%20creditizie%20a%20favore%20delle%20aziende%20agricole%20danneggiate%20dalle%20avversita%20meteoriche%20e%20delle%20aziende%20agricole%20ad%20indirizzo%20risicolo%20e%20lattiero-caseario.md), e successive modificazioni ed integrazioni, della sospensione del pagamento dei contributi previdenziali e assistenziali. I contributi sospesi sono recuperati ratealmente nell'arco del quinquennio successivo a ciascun periodo di sospensione, con applicazione del tasso di interesse legale.
 
 6.
 
-A favore dei lavoratori agricoli iscritti negli elenchi anagrafici di rilevamento dei comuni siti nelle aree colpite dagli eventi di cui al comma 1 e dipendenti dalle aziende agricole con produzione frutticola e agrumicola, ivi compresa quella di pompelmo, superiore al 50 per cento della produzione lorda globale aventi titolo alle provvidenze di cui alla [legge 15 ottobre 1981, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-15;590), cosi' come sostituita dall'[articolo 5 della legge 13 maggio 1985, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-13;198#art_5), e' riconosciuto per l'anno 1987 il diritto alle prestazioni previdenziali ed assistenziali connesse ad un numero di giornate lavorative non inferiore a quelle attribuite negli elenchi anagrafici per l'anno 1986.
+A favore dei lavoratori agricoli iscritti negli elenchi anagrafici di rilevamento dei comuni siti nelle aree colpite dagli eventi di cui al comma 1 e dipendenti dalle aziende agricole con produzione frutticola e agrumicola, ivi compresa quella di pompelmo, superiore al 50 per cento della produzione lorda globale aventi titolo alle provvidenze di cui alla [legge 15 ottobre 1981, n. 590](Nuove%20norme%20per%20il%20Fondo%20di%20solidarieta%20nazionale.md), cosi' come sostituita dall'[articolo 5 della legge 13 maggio 1985, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-13;198#art_5), e' riconosciuto per l'anno 1987 il diritto alle prestazioni previdenziali ed assistenziali connesse ad un numero di giornate lavorative non inferiore a quelle attribuite negli elenchi anagrafici per l'anno 1986.
 
 7.
 
@@ -106,7 +106,7 @@ Le disposizioni dell'[articolo 8 della legge 13 maggio 1985, n. 198](https://www
 
 1.
 
-A favore delle aziende agricole, singole o associate, comprese quelle agro-pastorali, situate nelle zone della regione Sardegna colpite da eccezionale siccita' nel periodo compreso tra il settembre 1986 e l'aprile 1987, si applicano le provvidenze di cui alla [legge 15 ottobre 1981, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-15;590), modificata dalla [legge 13 maggio 1985, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-13;198), con le modificazioni ed integrazioni di cui ai successivi commi.
+A favore delle aziende agricole, singole o associate, comprese quelle agro-pastorali, situate nelle zone della regione Sardegna colpite da eccezionale siccita' nel periodo compreso tra il settembre 1986 e l'aprile 1987, si applicano le provvidenze di cui alla [legge 15 ottobre 1981, n. 590](Nuove%20norme%20per%20il%20Fondo%20di%20solidarieta%20nazionale.md), modificata dalla [legge 13 maggio 1985, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-13;198), con le modificazioni ed integrazioni di cui ai successivi commi.
 
 2.
 
@@ -136,15 +136,15 @@ All'onere di lire 650 miliardi derivante dall'attuazione degli articoli 1, 2, 3 
 
 2.
 
-Per l'attuazione degli interventi di cui all'articolo 5 e' concesso alla regione Calabria un contributo straordinario di lire 75 miliardi per l'anno 1987, mediante utilizzo delle disponibilita' del Fondo di solidarieta' nazionale di cui all'[articolo 1 della legge 15 ottobre 1981, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-15;590#art_1). Per gli anni successivi, sulla base degli effettivi fabbisogni dimostrati dalla regione, il Ministero dell'agricoltura e foreste, in sede di ripartizione annuale delle disponibilita' del Fondo predetto, puo' concedere ulteriori contributi per il conseguimento delle finalita' di cui all'articolo 5, nel limite complessivo di 50 miliardi.
+Per l'attuazione degli interventi di cui all'articolo 5 e' concesso alla regione Calabria un contributo straordinario di lire 75 miliardi per l'anno 1987, mediante utilizzo delle disponibilita' del Fondo di solidarieta' nazionale di cui all'[articolo 1 della legge 15 ottobre 1981, n. 590](Nuove%20norme%20per%20il%20Fondo%20di%20solidarieta%20nazionale.md). Per gli anni successivi, sulla base degli effettivi fabbisogni dimostrati dalla regione, il Ministero dell'agricoltura e foreste, in sede di ripartizione annuale delle disponibilita' del Fondo predetto, puo' concedere ulteriori contributi per il conseguimento delle finalita' di cui all'articolo 5, nel limite complessivo di 50 miliardi.
 
 3.
 
-Per l'attuazione degli interventi di cui all'articolo 6 e' concesso alla regione Sardegna un contributo straordinario di lire 25 miliardi per l'anno 1987, mediante utilizzo delle disponibilita' del Fondo di solidarieta' nazionale di cui all'[articolo 1 della legge 15 ottobre 1981, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-15;590#art_1).
+Per l'attuazione degli interventi di cui all'articolo 6 e' concesso alla regione Sardegna un contributo straordinario di lire 25 miliardi per l'anno 1987, mediante utilizzo delle disponibilita' del Fondo di solidarieta' nazionale di cui all'[articolo 1 della legge 15 ottobre 1981, n. 590](Nuove%20norme%20per%20il%20Fondo%20di%20solidarieta%20nazionale.md).
 
 4.
 
-Gli oneri derivanti dall'attuazione dei commi 5, 6, 7 e 8 dell'articolo 5 e del comma 6 dell'articolo 6, valutati complessivamente in lire 20 miliardi per l'anno 1987, sono posti a carico delle disponibilita' del Fondo di solidarieta' nazionale di cui all'[articolo 1 della legge 15 ottobre 1981, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-15;590#art_1).
+Gli oneri derivanti dall'attuazione dei commi 5, 6, 7 e 8 dell'articolo 5 e del comma 6 dell'articolo 6, valutati complessivamente in lire 20 miliardi per l'anno 1987, sono posti a carico delle disponibilita' del Fondo di solidarieta' nazionale di cui all'[articolo 1 della legge 15 ottobre 1981, n. 590](Nuove%20norme%20per%20il%20Fondo%20di%20solidarieta%20nazionale.md).
 
 5.
 

@@ -24,7 +24,7 @@ Agli insegnanti che prestino a qualsiasi titolo servizio fuori ruolo nelle scuol
 
 ## Art. 3.
 
-Al pagamento delle indennita' di cui agli articoli predetti sara' provveduto con i fondi a disposizione dei RR. prefetti, secondo le norme dell'art. 10, ultimo comma, della [legge 8 aprile 1906, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142). 
+Al pagamento delle indennita' di cui agli articoli predetti sara' provveduto con i fondi a disposizione dei RR. prefetti, secondo le norme dell'art. 10, ultimo comma, della [legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md). 
  
  Con decreto del ministro del tesoro, saranno assegnati allo stato di previsione della spesa del Ministero dell'istruzione pubblica, i fondi occorrenti per l'esecuzione del presente decreto. 
  

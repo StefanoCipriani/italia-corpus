@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto n. 31, in data 14 gennaio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-14;31), col quale e' istituita la Milizia volontaria per la sicurezza nazionale;
+Visto il [R. decreto n. 31, in data 14 gennaio 1923](Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), col quale e' istituita la Milizia volontaria per la sicurezza nazionale;
 
 Visto il [decreto-legge 8 marzo 1923, n. 831](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-03-08;831), col quale e' approvato il regolamento di disciplina per la Milizia volontaria per la sicurezza nazionale;
 
@@ -152,7 +152,7 @@ Il capitolo V del regolamento di disciplina per la Milizia volontaria per la sic
  
  Per i militi tale subordinazione esiste anche verso i graduati del R. esercito incaricati della custodia e disciplina dei puniti. 
  
- Si fara' inoltre luogo all'applicazione dei numeri 118 e 119 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'Esercito in caso di forzata consegna o di vie di fatto, insulti o resistenza verso una sentinella.
+ Si fara' inoltre luogo all'applicazione dei numeri 118 e 119 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito in caso di forzata consegna o di vie di fatto, insulti o resistenza verso una sentinella.
 
 ## Art. 2.
 

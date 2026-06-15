@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 17 luglio 1913, n. 937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-17;937);
+Veduto il [R. decreto 17 luglio 1913, n. 937](Che%20sostituisce%20allufficio%20di%20sorveglianza%20per%20la%20manutenzione%20dei%20fabbricati%20del%20Policlinico%20di%20Roma%20lufficio%20tecnico%20della%20Regia%20Universita%20di%20Roma%20e%20ne%20stabilisce%20il%20ruolo%20organico.%20013U0937.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro ministro segretario di Stato per l'istruzione pubblica
 
 ## Art. 1.
 
-Al ruolo organico dell'ufficio tecnico della R. Universita' di Roma, approvato con [R. decreto 17 luglio 1913, n. 937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-17;937), e' sostituito il seguente: 
+Al ruolo organico dell'ufficio tecnico della R. Universita' di Roma, approvato con [R. decreto 17 luglio 1913, n. 937](Che%20sostituisce%20allufficio%20di%20sorveglianza%20per%20la%20manutenzione%20dei%20fabbricati%20del%20Policlinico%20di%20Roma%20lufficio%20tecnico%20della%20Regia%20Universita%20di%20Roma%20e%20ne%20stabilisce%20il%20ruolo%20organico.%20013U0937.md), e' sostituito il seguente: 
  
  Direttore 1 da 7000 a 9000 con 4 aumenti quinquennali da L. 500 l'uno. 
  

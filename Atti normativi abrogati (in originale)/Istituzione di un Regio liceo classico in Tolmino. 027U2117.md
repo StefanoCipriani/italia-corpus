@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il Nostro decreto 6 maggio 1923, n. 1054;
 
-Veduto il Nostro decreto 23 ottobre 1925, n. 2499, convertito in legge con la [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898);
+Veduto il Nostro decreto 23 ottobre 1925, n. 2499, convertito in legge con la [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
 Veduto il Nostro decreto 7 gennaio 1926, n. 134, convertito in legge con la [legge 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md);
 

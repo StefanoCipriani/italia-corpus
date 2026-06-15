@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 3 del decreto legislativo 12 aprile 1948, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;446#art_3);
+Visto l'[art. 3 del decreto legislativo 12 aprile 1948, n. 446](../Decreti%20Legislativi/Concessione%20di%20conservare%20ad%20personam%20la%20tessera%20ASF%20ora%20I.G.M.T.%20di%20cui%20allart.%2016%20del%20regolamento%20per%20lUfficio%20speciale%20delle%20ferrovie%20approvato%20con%20regio%20decreto%207%20agosto%201909%20n.%20711.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -20,17 +20,17 @@ Sulla proposta del Ministro per i trasporti, di concerto con il Ministro per il 
 
 ## Art. 1.
 
-Il personale di ruolo dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione ed il personale di altre Amministrazioni addetto a prestare servizio presso il Ministero dei trasporti nell'interesse dell'ispettorato generale anzidetto, che si trovino nelle condizioni previste dall'[art. 1 del decreto legislativo 12 aprile 1948, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;446#art_1), nonche' il personale indicato nell'art. 2 del medesimo decreto legislativo, per ottenere la concessione "ad personam" di cui al decreto legislativo stesso e per ottenere i successivi rinnovi annuali della tessera oggetto della concessione anzidetta, dovranno presentare apposita domanda corredata di due recenti fotografie, del formato di cm. 4 x 5, al Ministero dei trasporti, Ispettorato generale della motorizzazione civile e dei trasporti in concessione.
+Il personale di ruolo dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione ed il personale di altre Amministrazioni addetto a prestare servizio presso il Ministero dei trasporti nell'interesse dell'ispettorato generale anzidetto, che si trovino nelle condizioni previste dall'[art. 1 del decreto legislativo 12 aprile 1948, n. 446](../Decreti%20Legislativi/Concessione%20di%20conservare%20ad%20personam%20la%20tessera%20ASF%20ora%20I.G.M.T.%20di%20cui%20allart.%2016%20del%20regolamento%20per%20lUfficio%20speciale%20delle%20ferrovie%20approvato%20con%20regio%20decreto%207%20agosto%201909%20n.%20711.md), nonche' il personale indicato nell'art. 2 del medesimo decreto legislativo, per ottenere la concessione "ad personam" di cui al decreto legislativo stesso e per ottenere i successivi rinnovi annuali della tessera oggetto della concessione anzidetta, dovranno presentare apposita domanda corredata di due recenti fotografie, del formato di cm. 4 x 5, al Ministero dei trasporti, Ispettorato generale della motorizzazione civile e dei trasporti in concessione.
 
 ## Art. 2.
 
-La tessera conservata, a titolo di concessione personale, ai sensi del [decreto legislativo 12 aprile 1948, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;446), avra' la stessa validita' territoriale della tessera in godimento al momento della cessazione dal servizio.
+La tessera conservata, a titolo di concessione personale, ai sensi del [decreto legislativo 12 aprile 1948, n. 446](../Decreti%20Legislativi/Concessione%20di%20conservare%20ad%20personam%20la%20tessera%20ASF%20ora%20I.G.M.T.%20di%20cui%20allart.%2016%20del%20regolamento%20per%20lUfficio%20speciale%20delle%20ferrovie%20approvato%20con%20regio%20decreto%207%20agosto%201909%20n.%20711.md), avra' la stessa validita' territoriale della tessera in godimento al momento della cessazione dal servizio.
  La tessera stessa, nei riguardi dei pubblici servizi di trasporto compresi nella sua validita' territoriale, dara' diritto esclusivamente alla libera circolazione, restando in particolare escluse le facolta' rispettive di vigilanza connesse con la titolarita' delle corrispondenti tessere rilasciate al personale in attivita' di servizio.
  Il Ministero dei trasporti - Ispettorato generale della motorizzazione civile e dei trasporti in concessione - stabilira' i tipi e le caratteristiche delle tessere innanzi indicate, secondo le diverse loro validita'.
 
 ## Art. 3.
 
-I periodi di tempo, durante i quali il personale indicato al precedente art. 1 non abbia potuto in effetti fruire della tessera in questione per essersi trovato in servizio militare, non di leva, sono computati agli effetti del compimento del decennio di godimento della tessera stessa, richiesto dall'[art. 1 del decreto legislativo 12 aprile 1948, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;446#art_1).
+I periodi di tempo, durante i quali il personale indicato al precedente art. 1 non abbia potuto in effetti fruire della tessera in questione per essersi trovato in servizio militare, non di leva, sono computati agli effetti del compimento del decennio di godimento della tessera stessa, richiesto dall'[art. 1 del decreto legislativo 12 aprile 1948, n. 446](../Decreti%20Legislativi/Concessione%20di%20conservare%20ad%20personam%20la%20tessera%20ASF%20ora%20I.G.M.T.%20di%20cui%20allart.%2016%20del%20regolamento%20per%20lUfficio%20speciale%20delle%20ferrovie%20approvato%20con%20regio%20decreto%207%20agosto%201909%20n.%20711.md).
 
 ## Art. 4.
 

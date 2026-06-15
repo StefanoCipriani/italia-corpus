@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 dicembre 1924, n. 2148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-12-28;2148), riguardante la proroga, al 31 dicembre 1925, dei poteri del Regio commissario per il comune di Roma. 
+ E' convertito in legge il [R. decreto-legge 28 dicembre 1924, n. 2148](Proroga%20del%20termine%20per%20la%20ricostituzione%20del%20Consiglio%20comunale%20di%20Roma.%20024U2148.md), riguardante la proroga, al 31 dicembre 1925, dei poteri del Regio commissario per il comune di Roma. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

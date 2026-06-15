@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Saranno eseguite a cura dello Stato, con le norme di cui agli [articoli 54 della legge 31 marzo 1904, numero 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;140#art_54), e 35 della [legge 25 giugno 1906, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255), le seguenti nuove strade comunali di accesso a stazioni ferroviarie: 
+Saranno eseguite a cura dello Stato, con le norme di cui agli [articoli 54 della legge 31 marzo 1904, numero 140](Che%20emana%20provvedimenti%20a%20favore%20della%20provincia%20di%20Basilicata.%20004U0140.md), e 35 della [legge 25 giugno 1906, n. 255](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), le seguenti nuove strade comunali di accesso a stazioni ferroviarie: 
  
  a) in provincia di Salerno: 
  

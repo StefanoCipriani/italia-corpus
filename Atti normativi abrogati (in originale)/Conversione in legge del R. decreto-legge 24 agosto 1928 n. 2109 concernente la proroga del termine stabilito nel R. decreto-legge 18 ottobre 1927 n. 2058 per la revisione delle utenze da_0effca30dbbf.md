@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 agosto 1928, n. 2109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-24;2109), concernente la proroga del termine stabilito nel [R. decreto-legge 18 ottobre 1927, n. 2058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-18;2058), per la revisione delle utenze d'acqua in alcuni Comuni del Lazio. 
+ E' convertito in legge il [R. decreto-legge 24 agosto 1928, n. 2109](Proroga%20del%20termine%20stabilito%20nel%20R.%20decreto-legge%2018%20ottobre%201927%20n.%202058%20per%20la%20revisione%20delle%20utenze%20dacqua%20in%20alcuni%20Comuni%20del%20Lazio.%20028U2109.md), concernente la proroga del termine stabilito nel [R. decreto-legge 18 ottobre 1927, n. 2058](Disposizioni%20relative%20alle%20opere%20necessarie%20per%20lalimentazione%20idrica%20di%20alcuni%20Comuni%20del%20Lazio.%20027U2058.md), per la revisione delle utenze d'acqua in alcuni Comuni del Lazio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

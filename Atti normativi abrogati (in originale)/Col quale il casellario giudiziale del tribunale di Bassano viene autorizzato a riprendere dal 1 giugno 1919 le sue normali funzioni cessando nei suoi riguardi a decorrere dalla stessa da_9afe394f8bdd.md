@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Visti gli [articoli 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-01;102#art_52) e [53 del decreto Luogotenenziale 1° febbraio 1918, n. 102 e il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-01;102#art_53) 10 luglio 1918 del ministro guardasigilli, in forza dei quali veniva affidato fino a nuova disposizione, al casellario centrale del Ministero di grazia e giustizia, il servizio del casellario giudiziale del tribunale di Bassano; 
  

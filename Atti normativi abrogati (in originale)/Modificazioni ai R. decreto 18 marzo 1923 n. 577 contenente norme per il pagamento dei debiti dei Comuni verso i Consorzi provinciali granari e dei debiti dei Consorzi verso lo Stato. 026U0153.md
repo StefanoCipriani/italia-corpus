@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 18 marzo 1923, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-18;577), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto 18 marzo 1923, n. 577](Contenente%20norme%20per%20il%20pagamento%20dei%20debiti%20dei%20Comuni%20verso%20i%20Consorzi%20provinciali%20granari%20e%20dei%20debiti%20dei%20Consorzi%20verso%20lo%20Stato%20nonche%20norme%20per%20la%20devoluzione%20degli%20utili%20conseguit_7415d52e6886.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-I Comuni del Ragno sono tenuti al pagamento delle quote relative al disavanzo dei rispettivi Consorzi provinciali granari, di cui al [1° comma dell'art. 7 del R. decreto-legge 18 marzo 1923, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-18;577#art_7-com1), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), nelle somme determinate dalle Intendenze di finanza, anche se l'importo del disavanzo stesso non sia stabilito in modo definitivo e non sia intervenuto provvedimento prefettizio di cui al secondo comma del citato articolo.
+I Comuni del Ragno sono tenuti al pagamento delle quote relative al disavanzo dei rispettivi Consorzi provinciali granari, di cui al [1° comma dell'art. 7 del R. decreto-legge 18 marzo 1923, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-18;577#art_7-com1), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), nelle somme determinate dalle Intendenze di finanza, anche se l'importo del disavanzo stesso non sia stabilito in modo definitivo e non sia intervenuto provvedimento prefettizio di cui al secondo comma del citato articolo.
 
 ## Art. 2.
 
@@ -54,7 +54,7 @@ Le disposizioni relative alla rateazione estensibile sino a quindici anni, con l
 
 ## Art. 7.
 
-La perdita verificatasi nella gestione dell'Azienda speciale di cui all'[art. 12 del R. decreto 15 agosto 1919, n. 1448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-15;1448#art_12), diminuita degli utili eventualmente risultati dalla gestione granaria, e' ripartita, oltre che fra i Comuni che aderirono alla costituzione di tale Azienda, anche fra i Comuni che, pur non avendovi formalmente aderito, di fatto si approvvigionarono dai Consorzi di generi diversi dai cereali e lo zucchero.
+La perdita verificatasi nella gestione dell'Azienda speciale di cui all'[art. 12 del R. decreto 15 agosto 1919, n. 1448](Che%20stabilisce%20le%20merci%20alimentari%20controllate%20dallo%20Stato%20e%20lapprovvigionamento%20delle%20medesime%20istituendosi%20presso%20il%20Ministero%20dellindustria%20commercio%20e%20lavoro%20un%20Comitato%20centrale%20per%20_7296aa4ee5f1.md), diminuita degli utili eventualmente risultati dalla gestione granaria, e' ripartita, oltre che fra i Comuni che aderirono alla costituzione di tale Azienda, anche fra i Comuni che, pur non avendovi formalmente aderito, di fatto si approvvigionarono dai Consorzi di generi diversi dai cereali e lo zucchero.
 
 ## Art. 8.
 

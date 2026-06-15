@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 febbraio 1932, n. 970](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-02-25;970), che ha dato esecuzione all'Accordo italo-svizzero, stipulato in Roma, mediante scambio di note in data 13 gennaio 1932, per regolare l'importazione Svizzera dei formaggi italiani e l'importazione in Italia di bovini svizzeri. 
+ E' convertito in legge il [R. decreto-legge 25 febbraio 1932, n. 970](Esecuzione%20dellAccordo%20italo-svizzero%2013%20gennaio%201932%20relativo%20allimportazione%20in%20Svizzera%20di%20formaggi%20italiani%20ed%20allimportazione%20in%20Italia%20di%20bovini%20svizzeri.%20032U0970.md), che ha dato esecuzione all'Accordo italo-svizzero, stipulato in Roma, mediante scambio di note in data 13 gennaio 1932, per regolare l'importazione Svizzera dei formaggi italiani e l'importazione in Italia di bovini svizzeri. 
  
  Ordiniamo che la presenta munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

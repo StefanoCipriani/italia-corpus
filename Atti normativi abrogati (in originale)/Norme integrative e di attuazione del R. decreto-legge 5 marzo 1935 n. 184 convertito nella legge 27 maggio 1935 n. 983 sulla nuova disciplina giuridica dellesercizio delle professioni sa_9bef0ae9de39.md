@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto l'art. 40 del R. decreto-legge 5 marzo 1935-XIII, n. 184, convertito nella [legge 27 maggio 1935, n. 983](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-05-27;983), sulla nuova disciplina giuridica dell'esercizio delle professioni sanitarie;
+Visto l'art. 40 del R. decreto-legge 5 marzo 1935-XIII, n. 184, convertito nella [legge 27 maggio 1935, n. 983](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935%20n.%20184%20concernente%20la%20nuova%20disciplina%20giuridica%20dellesercizio%20delle%20professioni%20sanitarie.%20035U0983.md), sulla nuova disciplina giuridica dell'esercizio delle professioni sanitarie;
 
 Visto l'[art. 3, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

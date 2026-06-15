@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono abrogati gli articoli 175, 182, 203, 204, 205 e 206 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-08;1332).
+Sono abrogati gli articoli 175, 182, 203, 204, 205 e 206 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md).
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ Per le chiamate ordinate dall'Autorita' militare per il controllo della forza in
  
  «La cognizione delle contravvenzioni prevedute dall'articolo 4 della presente legge appartiene ai tribunali militari. 
  
- «Nei procedimenti per detta contravvenzione puo', senza procedersi al dibattimento, pronunciarsi condanna con decreto, secondo le norme stabilite dal [R. decreto-legge 5 ottobre 1920, n. 1417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-10-05;1417). 
+ «Nei procedimenti per detta contravvenzione puo', senza procedersi al dibattimento, pronunciarsi condanna con decreto, secondo le norme stabilite dal [R. decreto-legge 5 ottobre 1920, n. 1417](Sullapplicazione%20del%20decreto%20penale%20da%20parte%20dei%20tribunali%20militari.%20020U1417.md). 
  
  «Il contravventore e' ammesso a pagare, a titolo di oblazione, prima dell'apertura del dibattimento ovvero prima del decreto di condanna, una somma pari alla terza parte del massimo dell'ammenda stabilita dalla legge per il reato commesso, oltre le spese del procedimento ».
 

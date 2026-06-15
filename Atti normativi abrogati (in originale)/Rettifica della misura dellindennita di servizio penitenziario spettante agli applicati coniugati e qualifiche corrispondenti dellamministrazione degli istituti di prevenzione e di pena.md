@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La misura mensile lorda dell'indennita' di servizio penitenziario prevista dall'[articolo 14 del decreto del Presidente della Repubblica 5 giugno 1965, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-05;749#art_14), a favore degli applicati, coniugati, e qualifiche corrispondenti dell'amministrazione degli istituti di prevenzione e di pena, e' rettificata in lire 7.600 a decorrere dal 1 marzo 1966.
+La misura mensile lorda dell'indennita' di servizio penitenziario prevista dall'[articolo 14 del decreto del Presidente della Repubblica 5 giugno 1965, n. 749](../DPR/Conglobamento%20dellassegno%20mensile%20e%20competenze%20analoghe%20negli%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20statale%20in%20applicazione%20dellart.%203%20della%20legge%205%20dicembre%201964%20n.%201268.md), a favore degli applicati, coniugati, e qualifiche corrispondenti dell'amministrazione degli istituti di prevenzione e di pena, e' rettificata in lire 7.600 a decorrere dal 1 marzo 1966.
 
 ## Art. 2.
 

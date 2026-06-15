@@ -24,8 +24,8 @@ EMANA il seguente decreto:
 
 1.
 
-Il [comma 8 dell'articolo 4 della legge 11 marzo 1988, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;79#art_4-com8), come sostituito dal comma 2 dell'articolo 3 della legge 1 agosto 1988, n. 348, e' ulteriormente sostituito dal seguente: 
- "8. Ai sensi dell'[articolo 39 della legge 30 marzo 1981, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119#art_39), per l'anno finanziario 1988, e' stabilito in lire 55.000 miliardi l'importo massimo di emissione dei buoni ordinari del Tesoro, al netto di quelli da rimborsare, ed in lire 265.000 miliardi il limite massimo di circolazione dei buoni medesimi.".
+Il [comma 8 dell'articolo 4 della legge 11 marzo 1988, n. 79](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%201988%20e%20bilancio%20pluriennale%20per%20il%20triennio%201988-90.md), come sostituito dal comma 2 dell'articolo 3 della legge 1 agosto 1988, n. 348, e' ulteriormente sostituito dal seguente: 
+ "8. Ai sensi dell'[articolo 39 della legge 30 marzo 1981, n. 119](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201981.md), per l'anno finanziario 1988, e' stabilito in lire 55.000 miliardi l'importo massimo di emissione dei buoni ordinari del Tesoro, al netto di quelli da rimborsare, ed in lire 265.000 miliardi il limite massimo di circolazione dei buoni medesimi.".
 
 ## Art. 2.
 

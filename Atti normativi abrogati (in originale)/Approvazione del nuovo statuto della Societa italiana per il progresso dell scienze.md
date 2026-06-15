@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' abrogato lo statuto della Societa' italiana per il progresso delle scienze, approvato con [R. decreto 16 ottobre 1934, n. 2206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;2206).
+E' abrogato lo statuto della Societa' italiana per il progresso delle scienze, approvato con [R. decreto 16 ottobre 1934, n. 2206](Approvazione%20del%20nuovo%20statuto%20della%20Societa%20italiana%20per%20il%20progresso%20delle%20scienze.%20034U2206.md).
 
 ## Art. 2.
 

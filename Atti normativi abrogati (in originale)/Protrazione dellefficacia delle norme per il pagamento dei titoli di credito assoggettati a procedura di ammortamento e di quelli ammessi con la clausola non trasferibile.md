@@ -12,21 +12,21 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [regio decreto 14 dicembre 1933, n. 1669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-14;1669);
 
 Visto il [regio decreto 21 dicembre 1933, n. 1736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-21;1736);
 
-Visto il [decreto legislativo luogotenenziale 11 gennaio 1945, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-11;17);
+Visto il [decreto legislativo luogotenenziale 11 gennaio 1945, n. 17](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20il%20pagamento%20dei%20titoli%20di%20credito%20assoggettati%20a%20procedura%20di%20ammortamento%20e%20di%20quelli%20rimessi%20con%20la%20clausola%20non%20trasferibile.%20045U0017.md);
 
-Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;49) Vista la deliberazione del Consiglio dei Ministri;
+Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 49](../Decreti%20legislativi%20luogotenenziali/Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md) Vista la deliberazione del Consiglio dei Ministri;
 
 Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Ministro per le finanze e il tesoro; HA SANZIONATO E PROMULGA:
 
 ## Art. 1.
 
-Le disposizioni del [decreto legislativo luogotenenziale 11 gennaio 1945, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-11;17), continuano ad avere efficacia fino al 15 ottobre 1947, limitatamente ai titoli previsti dal predetto decreto emessi anteriormente al 25 aprile 1945.
+Le disposizioni del [decreto legislativo luogotenenziale 11 gennaio 1945, n. 17](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20il%20pagamento%20dei%20titoli%20di%20credito%20assoggettati%20a%20procedura%20di%20ammortamento%20e%20di%20quelli%20rimessi%20con%20la%20clausola%20non%20trasferibile.%20045U0017.md), continuano ad avere efficacia fino al 15 ottobre 1947, limitatamente ai titoli previsti dal predetto decreto emessi anteriormente al 25 aprile 1945.
 
 ## Art. 2.
 

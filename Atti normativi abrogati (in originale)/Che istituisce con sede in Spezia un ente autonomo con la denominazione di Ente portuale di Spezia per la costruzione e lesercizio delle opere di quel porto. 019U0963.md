@@ -34,7 +34,7 @@ Lo Stato concede all'ente di cui al precedente articolo:
  
  1° la esecuzione: 
  
- a) dei lavori di ampliamento e sistemazione del porto mercantile di Spezia che ancora restano da eseguire su quelli autorizzati dalle [leggi 13 luglio 1904, n. 102 e 14 luglio 1907, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-14;542); 
+ a) dei lavori di ampliamento e sistemazione del porto mercantile di Spezia che ancora restano da eseguire su quelli autorizzati dalle [leggi 13 luglio 1904, n. 102 e 14 luglio 1907, n. 542](Autorizzazione%20di%20spese%20per%20esecuzione%20di%20nuove%20opere%20marittime.%20007U0542.md); 
  
  b) delle altre opere di sistemazione di detto porto, di cui al progetto a firma degli ingegneri L. Luiggi e S. D'Anna, in data 12 marzo 1919, redatto sulle tracce del piano regolatore in data 31 agosto 1917, approvato dal Consiglio superiore dei lavori pubblici in data 15 giugno 1918; 
  

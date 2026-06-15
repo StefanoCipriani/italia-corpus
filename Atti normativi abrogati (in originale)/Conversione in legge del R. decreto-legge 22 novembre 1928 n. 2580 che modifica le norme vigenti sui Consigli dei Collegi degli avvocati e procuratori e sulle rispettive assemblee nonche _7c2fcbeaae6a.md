@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 novembre 1928, n. 2580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-22;2580), contenente modificazione delle norme vigenti sui Consigli dei Collegi degli avvocati e procuratori e sulle rispettive assemblee, nonche' sul Consiglio superiore forense. 
+ E' convertito in legge il [R. decreto-legge 22 novembre 1928, n. 2580](Modificazione%20delle%20norme%20vigenti%20sui%20Consigli%20dei%20Collegi%20degli%20avvocati%20e%20dei%20procuratori%20e%20sulle%20rispettive%20assemblee%20nonche%20sul%20Consiglio%20superiore%20forense.%20028U2580.md), contenente modificazione delle norme vigenti sui Consigli dei Collegi degli avvocati e procuratori e sulle rispettive assemblee, nonche' sul Consiglio superiore forense. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

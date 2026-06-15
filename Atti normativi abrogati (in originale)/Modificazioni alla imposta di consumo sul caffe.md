@@ -14,9 +14,9 @@ Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/u
 
 Visto l'art. 1 dell'allegato A al [decreto luogotenenziale 13 maggio 1917, n. 736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-13;736), istitutivo della imposta di consumo sul caffe';
 
-Visto il [regio decreto-legge 8 ottobre 1931, n. 1250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-08;1250), convertito nella [legge 18 gennaio 1932, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-01-18;84), concernente l'unificazione dell'imposta di consumo predetta;
+Visto il [regio decreto-legge 8 ottobre 1931, n. 1250](Modificazione%20dei%20dazi%20generali%20sul%20caffe%20in%20grani%20e%20sul%20caffe%20tostato%20e%20unificazione%20della%20imposta%20di%20consumo.%20031U1250.md), convertito nella [legge 18 gennaio 1932, n. 84](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20ottobre%201931%20n.%201250%20che%20modifica%20i%20dazi%20generali%20sul%20caffe%20in%20grani%20e%20sul%20caffe%20tostato%20e%20unifica%20limposta%20di%20consumo.%20032U0084.md), concernente l'unificazione dell'imposta di consumo predetta;
 
-Visto il [regio decreto-legge 25 agosto 1939, n. 1201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-08-25;1201), convertito nella [legge 23 novembre 1939, n. 1829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-23;1829);
+Visto il [regio decreto-legge 25 agosto 1939, n. 1201](Modificazioni%20al%20regime%20fiscale%20dei%20prodotti%20petroliferi%20del%20caffe%20e%20dei%20surrogati%20del%20caffe.%20039U1201.md), convertito nella [legge 23 novembre 1939, n. 1829](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2025%20agosto%201939-XVII%20n.%201201%20che%20modifica%20il%20regime%20fiscale%20dei%20prodotti%20petroliferi%20del%20caffe%20e%20dei%20surrogati%20del%20caffe.%20039U1829.md);
 
 Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), allegato E;
 
@@ -26,7 +26,7 @@ Visto il decreto legislativo del Capo provvisorio dello Stato 14
 
 ottobre 1946, n. 205;
 
-Visto il [decreto-legge 11 marzo 1950, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1950-03-11;50), convertito nella [legge 9 maggio 1950, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-09;202);
+Visto il [decreto-legge 11 marzo 1950, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1950-03-11;50), convertito nella [legge 9 maggio 1950, n. 202](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto%20legge%2011%20marzo%201950%20n.%2050%20contenente%20modificazioni%20al%20regime%20fiscale%20degli%20oli%20minerali%20dei%20surrogati%20del%20caffe%20dello%20zucchero%20e%20degli%20altri%20prodotti%20zucc_1456cea2db14.md);
 
 Ritenuta la straordinaria necessita' e l'urgenza di aumentare l'imposta di consumo sul caffe';
 

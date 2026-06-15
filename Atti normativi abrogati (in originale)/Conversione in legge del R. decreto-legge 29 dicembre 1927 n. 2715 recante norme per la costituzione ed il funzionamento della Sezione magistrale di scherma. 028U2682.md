@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 dicembre 1927, n. 2715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-29;2715), recante norme per la costituzione ed il funzionamento della Sezione magistrale di scherma. 
+ E' convertito in legge il [R. decreto-legge 29 dicembre 1927, n. 2715](Norme%20per%20la%20costituzione%20ed%20il%20funzionamento%20della%20Sezione%20magistrale%20di%20scherma.%20027U2715.md), recante norme per la costituzione ed il funzionamento della Sezione magistrale di scherma. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

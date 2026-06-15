@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 luglio 1929, n. 1403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-07-26;1403), apportante una modifica alla [legge 11 marzo 1926, n. 396](Ordinamento%20del%20Regio%20esercito.%20026U0396.md), sull'ordinamento del Regio esercito. 
+ E' convertito in legge il [R. decreto-legge 26 luglio 1929, n. 1403](Modifica%20alla%20legge%2011%20marzo%201926%20n.%20396%20sullordinamento%20del%20Regio%20esercito.%20029U1403.md), apportante una modifica alla [legge 11 marzo 1926, n. 396](Ordinamento%20del%20Regio%20esercito.%20026U0396.md), sull'ordinamento del Regio esercito. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia insorta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

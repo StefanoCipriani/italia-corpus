@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 settembre 1932, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-17;1261), contenente modificazione alle norme di applicazione dell'imposta complementare progressiva sul reddito. 
+ E' convertito in legge il [R. decreto-legge 17 settembre 1932, n. 1261](Modifica%20alla%20imposta%20complementare%20progressiva%20sul%20reddito.%20032U1261.md), contenente modificazione alle norme di applicazione dell'imposta complementare progressiva sul reddito. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

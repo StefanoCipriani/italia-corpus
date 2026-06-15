@@ -12,15 +12,15 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-14;1281), sull'ordinamento della Guardia di finanza e successive modificazioni;
 
-Vista la [legge 7 giugno 1937, n. 913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-07;913);
+Vista la [legge 7 giugno 1937, n. 913](Disposizioni%20sullavanzamento%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20del%20Corpo%20della%20Regia%20guardia%20di%20finanza.%20037U0913.md);
 
-Vista la [legge 20 marzo 1940, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-03-20;234);
+Vista la [legge 20 marzo 1940, n. 234](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Aumento%20degli%20organici%20reclutamento%20degli%20ufficiali%20di%20complemento%20avanzamento%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20e%20delega%20al%20Governo%20per%20la%20pubblicazione%20del%20testo%20unico%20dei%20prov_e6d9692fbd55.md);
 
 Vista la [legge 4 agosto 1942, n. 915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-08-04;915);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

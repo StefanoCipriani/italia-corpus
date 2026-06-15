@@ -32,13 +32,13 @@ Le anticipazioni di cui ai nn. 3 e 4 dell'art. 1 della legge ([testo unico) 10 n
  
  Oltre che per gli scopi enunciati ai nn. 3 e 4 dell'art. 1 sopra citato, le anticipazioni agli individui e alle Societa' predette, possono essere concesse anche per la difesa dalle acque e per il prosciugamento e l'irrigazione dei fondi, per la costruzione di pozzi o di abbeveratoi, per la sistemazione e il dissodamento dei terreni e per la costruzione di muri di cinta, siepi ed altro mezzo atto a cingere o chiudere i fondi. 
  
- Le Casse ademprivili possono anticipare in tutto o in parte l'importo dei mutui concessi dal Ministero di agricoltura ai sensi della [legge 16 luglio 1914, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;665), dietro regolare delegazione a riscuotere le rate dei mutui stessi debitamente notificata al Ministero predetto.
+ Le Casse ademprivili possono anticipare in tutto o in parte l'importo dei mutui concessi dal Ministero di agricoltura ai sensi della [legge 16 luglio 1914, n. 665](Riguardante%20provvedimenti%20a%20favore%20della%20Sardegna.%20014U0665.md), dietro regolare delegazione a riscuotere le rate dei mutui stessi debitamente notificata al Ministero predetto.
 
 ## Art. 2.
 
 Per la concessione delle anticipazioni di cui all'art. 1 della legge ([testo unico) 10 novembre 1907, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1907-11-10;844), e all'articolo precedente e per la piena efficacia della relativa garanzia ipotecaria, e' sufficiente la dimostrazione che il richiedente e' il legittimo possessore del fondo, nel quale devono essere eseguite le opere di miglioramento. 
  
- La dimostrazione del legittimo possesso sara' fatta mediante la presentazione dell'estratto storico catastale o anche a tenore delle disposizioni del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), o, in difetto, con le modalita' stabilite dalla [legge 19 giugno 1888, n. 5447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-06-19;5447) (serie 3ª) per i danneggiati dal terremoto della Liguria.
+ La dimostrazione del legittimo possesso sara' fatta mediante la presentazione dell'estratto storico catastale o anche a tenore delle disposizioni del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), o, in difetto, con le modalita' stabilite dalla [legge 19 giugno 1888, n. 5447](Concernente%20lattuazione%20di%20quella%20portante%20il%20n.%204511%20Serie%203ª%2031%20maggio%201887%20relativa%20ai%20danneggiati%20dal%20terremoto%20in%20Liguria%20nel%201887.%20088U5447.md) (serie 3ª) per i danneggiati dal terremoto della Liguria.
 
 ## Art. 3.
 
@@ -98,7 +98,7 @@ La vigilanza sui Monti frumentari, nonche' sulle Casse agrarie e sui Consorzi ag
 
 ## Art. 11.
 
-Il fondo del soppresso censorato dei Monti frumentari e i capitali di provenienza diversa finora amministrati dal prefetto di Cagliari e assegnati al mantenimento dell'ufficio di ispezione istituito dalla [legge 2 agosto 1897, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-08-02;382), sono ripartiti fra le due Casse ademprivili nella proporzione di tre quinti a quella di Cagliari e due quinti a quella di Sassari, ivi computate le somme effettivamente pagate sul detto fondo per vigilanza sui Monti di ciascuna Provincia dopo la entrata in vigore della [legge 10 novembre 1907, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-11-10;844). I proventi raccolti dai Monti frumentari a norma del regolamento 15 maggio l898, n. 174, saranno devoluti alla Cassa della rispettiva Provincia. 
+Il fondo del soppresso censorato dei Monti frumentari e i capitali di provenienza diversa finora amministrati dal prefetto di Cagliari e assegnati al mantenimento dell'ufficio di ispezione istituito dalla [legge 2 agosto 1897, n. 382](Che%20estende%20per%20lisola%20di%20Sardegna%20le%20disposizioni%20di%20alcuni%20articoli%20di%20quella%20in%20data%2030%20luglio%201896%20n.%20345%20concernente%20listituzione%20di%20un%20R.%20Commissario%20civile%20per%20la%20Sicilia.%20097U0382.md), sono ripartiti fra le due Casse ademprivili nella proporzione di tre quinti a quella di Cagliari e due quinti a quella di Sassari, ivi computate le somme effettivamente pagate sul detto fondo per vigilanza sui Monti di ciascuna Provincia dopo la entrata in vigore della [legge 10 novembre 1907, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-11-10;844). I proventi raccolti dai Monti frumentari a norma del regolamento 15 maggio l898, n. 174, saranno devoluti alla Cassa della rispettiva Provincia. 
  
  I Monti frumentari e gli altri enti sottoposti alla vigilanza, verseranno a titolo di contributo per le speso relative alla Cassa ademprivile della Provincia il tre per cento dei loro utili netti annuali.
 

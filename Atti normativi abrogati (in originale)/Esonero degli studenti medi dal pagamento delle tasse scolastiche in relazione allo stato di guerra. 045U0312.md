@@ -20,11 +20,11 @@ Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Vista la [legge 10 dicembre 1942, n. 1704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-12-10;1704);
+Vista la [legge 10 dicembre 1942, n. 1704](Norme%20transitorie%20sul%20collocamento%20a%20riposo%20del%20personale%20direttivo%20ed%20insegnante%20delle%20scuole%20governative%20e%20sullesonero%20dalle%20tasse%20in%20relazione%20allo%20stato%20di%20guerra.%20042U1704.md);
 
-Visto il [R. decreto-legge 27 gennaio 1944, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;49);
+Visto il [R. decreto-legge 27 gennaio 1944, n. 49](Estensione%20allanno%20scolastico%201943-1944%20del%20beneficio%20dellesonero%20dal%20pagamento%20delle%20tasse%20di%20cui%20allart.%202%20della%20legge%2010%20dicembre%201942%20n.%201704.%20044U0049.md);
 
-Visto il [R. decreto-legge 4 giugno 1944, n. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-06-04;157);
+Visto il [R. decreto-legge 4 giugno 1944, n. 157](Estensione%20del%20beneficio%20dellesonero%20dal%20pagamento%20delle%20casse%20scolastiche%20per%20lanno%201943-44.%20044U0157.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -32,17 +32,17 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con i Minist
 
 ## Art. 1.
 
-Le disposizioni previste dall'[art. 2 della legge 10 dicembre 1942, n. 1704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-12-10;1704#art_2), e dall'[art. 1 del R. decreto-legge 4 giugno 1944, n. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-06-04;157#art_1), relative all'esonero dal pagamento delle tasse scolastiche in relazione allo stato di guerra, sono, per gli studenti medi, prorogate per l'anno scolastico 1944-45.
+Le disposizioni previste dall'[art. 2 della legge 10 dicembre 1942, n. 1704](Norme%20transitorie%20sul%20collocamento%20a%20riposo%20del%20personale%20direttivo%20ed%20insegnante%20delle%20scuole%20governative%20e%20sullesonero%20dalle%20tasse%20in%20relazione%20allo%20stato%20di%20guerra.%20042U1704.md), e dall'[art. 1 del R. decreto-legge 4 giugno 1944, n. 157](Estensione%20del%20beneficio%20dellesonero%20dal%20pagamento%20delle%20casse%20scolastiche%20per%20lanno%201943-44.%20044U0157.md), relative all'esonero dal pagamento delle tasse scolastiche in relazione allo stato di guerra, sono, per gli studenti medi, prorogate per l'anno scolastico 1944-45.
 
 ## Art. 2.
 
-L'[art. 2, lett. c) della legge 10 dicembre 1942, n. 1704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-12-10;1704#art_2-letc), e' sostituito dal seguente: 
+L'[art. 2, lett. c) della legge 10 dicembre 1942, n. 1704](Norme%20transitorie%20sul%20collocamento%20a%20riposo%20del%20personale%20direttivo%20ed%20insegnante%20delle%20scuole%20governative%20e%20sullesonero%20dalle%20tasse%20in%20relazione%20allo%20stato%20di%20guerra.%20042U1704.md), e' sostituito dal seguente: 
  
  «Appartengano a famiglia il cui genitore, o la persona che ne costituisce il principale sostegno economico, si trovi o venga a trovarsi nella condizione di arruolato volontario, trattenuto, richiamato alle armi o di mobilitato nelle formazioni della Croce Rossa Italiana».
 
 ## Art. 3.
 
-Per l'anno scolastico 1944-45 il beneficio dell'esonero dal pagamento delle tasse scolastiche previsto dall'[articolo 2 della legge 10 dicembre 1942, n. 1704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-12-10;1704#art_2), e dall'[art. 1 del R. decreto-legge 4 giugno 1944, n. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-06-04;157#art_1), e' esteso agli studenti medi che appartengano a famiglia di disagiata condizione economica ed il cui genitore, o la persona che ne costituisce il principale sostegno economico, sia caduto vittima dei tedeschi o dei fascisti. 
+Per l'anno scolastico 1944-45 il beneficio dell'esonero dal pagamento delle tasse scolastiche previsto dall'[articolo 2 della legge 10 dicembre 1942, n. 1704](Norme%20transitorie%20sul%20collocamento%20a%20riposo%20del%20personale%20direttivo%20ed%20insegnante%20delle%20scuole%20governative%20e%20sullesonero%20dalle%20tasse%20in%20relazione%20allo%20stato%20di%20guerra.%20042U1704.md), e dall'[art. 1 del R. decreto-legge 4 giugno 1944, n. 157](Estensione%20del%20beneficio%20dellesonero%20dal%20pagamento%20delle%20casse%20scolastiche%20per%20lanno%201943-44.%20044U0157.md), e' esteso agli studenti medi che appartengano a famiglia di disagiata condizione economica ed il cui genitore, o la persona che ne costituisce il principale sostegno economico, sia caduto vittima dei tedeschi o dei fascisti. 
  
  L'esistenza della condizione di cui al precedente comma puo' essere provata dagli interessati anche con atto notorio.
 

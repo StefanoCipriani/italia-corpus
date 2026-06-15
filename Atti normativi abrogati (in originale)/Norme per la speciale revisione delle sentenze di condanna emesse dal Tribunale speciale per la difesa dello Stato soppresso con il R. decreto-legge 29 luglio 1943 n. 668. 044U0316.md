@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 29 luglio 1943, n. 668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-07-29;668);
+Visto il [R. decreto-legge 29 luglio 1943, n. 668](Soppressione%20del%20Tribunale%20speciale%20per%20la%20difesa%20della%20Stato.%20043U0668.md);
 
 Visto l'[articolo 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e [29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e [29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-Fuori dei casi di annullamento previsto dall'[art. 1 del decreto legislativo Luogotenenziale 27 luglio 1944, n. 159](Sanzioni%20contro%20il%20fascismo.%20044U0159.md), le sentenze di condanna pronunziate dal Tribunale speciale per la difesa dello Stato, istituito con la [legge 25 novembre 1926, n. 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-11-25;2008), e soppresso con [Regio decreto-legge 29 luglio 1943, n. 668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-07-29;668), sono soggette a speciale revisione secondo le norme del presente decreto.
+Fuori dei casi di annullamento previsto dall'[art. 1 del decreto legislativo Luogotenenziale 27 luglio 1944, n. 159](Sanzioni%20contro%20il%20fascismo.%20044U0159.md), le sentenze di condanna pronunziate dal Tribunale speciale per la difesa dello Stato, istituito con la [legge 25 novembre 1926, n. 2008](Provvedimenti%20per%20la%20difesa%20dello%20Stato.%20026U2008.md), e soppresso con [Regio decreto-legge 29 luglio 1943, n. 668](Soppressione%20del%20Tribunale%20speciale%20per%20la%20difesa%20della%20Stato.%20043U0668.md), sono soggette a speciale revisione secondo le norme del presente decreto.
 
 ## Art. 2.
 
@@ -116,7 +116,7 @@ La Corte di appello, se ritiene di non essere in grado di decidere allo stato de
 
 ## Art. 16.
 
-Per le sentenze di condanna emesse dal Tribunale speciale in applicazione dell'[art. 2 del R. decreto-legge 9 dicembre 1941, n. 1386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-12-09;1386#art_2), la revisione e' di competenza degli organi della giustizia militare secondo le norme che saranno date con successivo provvedimento.
+Per le sentenze di condanna emesse dal Tribunale speciale in applicazione dell'[art. 2 del R. decreto-legge 9 dicembre 1941, n. 1386](Funzionamento%20del%20Tribunale%20speciale%20per%20la%20difesa%20dello%20Stato%20e%20proroga%20del%20relativo%20termine.%20041U1386.md), la revisione e' di competenza degli organi della giustizia militare secondo le norme che saranno date con successivo provvedimento.
 
 ## Art. 17.
 

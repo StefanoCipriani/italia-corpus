@@ -28,7 +28,7 @@ Sulla proposta del guardasigilli, ministro segretario di Stato per gli affari di
 
 ## Art. 1.
 
-All'[art. 4 della legge 30 marzo 1916, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-03-30;356#art_4), riguardante le ferie giudiziarie e' sostituito il seguente: 
+All'[art. 4 della legge 30 marzo 1916, n. 356](Riguardante%20le%20ferie%20giudiziarie%20016U0356.md), riguardante le ferie giudiziarie e' sostituito il seguente: 
  
  «L'anno giudiziario comincia al 1° gennaio di ciascun anno. 
  

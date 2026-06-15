@@ -24,11 +24,11 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-In aggiunta al limite di spesa previsto dall'[articolo 13 del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_13), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165), nonche' a quello previsto dall'[articolo 9 del decreto-legge 15 settembre 1990, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-09-15;261#art_9), convertito, con modificazioni, dalla [legge 12 novembre 1990, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-12;331), e' prevista per l'anno 1991 la spesa di lire 150 miliardi.
+In aggiunta al limite di spesa previsto dall'[articolo 13 del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_13), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20aprile%201990%20n.%2090%20recante%20disposizioni%20in%20materia%20di%20determinazione%20del%20reddito%20ai%20fini%20delle%20imposte%20sui%20redditi%20di%20rimborsi%20d_30659e7e2a97.md), nonche' a quello previsto dall'[articolo 9 del decreto-legge 15 settembre 1990, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-09-15;261#art_9), convertito, con modificazioni, dalla [legge 12 novembre 1990, n. 331](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20settembre%201990%20n.%20261%20recante%20disposizioni%20fiscali%20urgenti%20in%20materia%20di%20finanza%20locale%20di%20accertamenti%20in%20base%20ad%20elementi%20seg_112c7b82afa6.md), e' prevista per l'anno 1991 la spesa di lire 150 miliardi.
 
 2.
 
-Con decreto del Ministro dei trasporti, di concerto con il Ministro delle finanze, a norma del [comma 2 dell'articolo 13 del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_13-com2), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165), da emanarsi entro dieci giorni dalla data di entrata in vigore del presente decreto, e' stabilito l'ammontare di credito attribuibile per ciascun veicolo.
+Con decreto del Ministro dei trasporti, di concerto con il Ministro delle finanze, a norma del [comma 2 dell'articolo 13 del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_13-com2), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20aprile%201990%20n.%2090%20recante%20disposizioni%20in%20materia%20di%20determinazione%20del%20reddito%20ai%20fini%20delle%20imposte%20sui%20redditi%20di%20rimborsi%20d_30659e7e2a97.md), da emanarsi entro dieci giorni dalla data di entrata in vigore del presente decreto, e' stabilito l'ammontare di credito attribuibile per ciascun veicolo.
 
 3.
 
@@ -37,7 +37,7 @@ L'eccedenza del credito d'imposta, determinato annualmente con il decreto di cui
 4.
 
 All'onere derivante dall'attuazione del presente decreto, pari a lire 150 miliardi per l'anno 1991, si provvede con quota parte delle maggiori entrate conseguenti al decreto del Presidente del Consiglio dei Ministri in data 30 gennaio 1991, pubblicato nella Gazzetta Ufficiale n. 26 del 31 gennaio 1991, adottato ai sensi dell'[articolo 9 del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_9), convertito, con 
-modificazioni, dalla [legge 26 giugno 1990, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165).
+modificazioni, dalla [legge 26 giugno 1990, n. 165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20aprile%201990%20n.%2090%20recante%20disposizioni%20in%20materia%20di%20determinazione%20del%20reddito%20ai%20fini%20delle%20imposte%20sui%20redditi%20di%20rimborsi%20d_30659e7e2a97.md).
 
 5.
 

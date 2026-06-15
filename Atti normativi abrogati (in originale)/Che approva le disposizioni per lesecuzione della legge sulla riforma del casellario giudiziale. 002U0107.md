@@ -96,7 +96,7 @@ I cartellini dei casellari locali sono eliminati tosto che si abbia notizia uffi
  
  3.° per le contravvenzioni, trascorsi cinque anni dal giorno in cui la pena fu scontata o la condanna estinta, o altrimenti dalla data della decisione; 
  
- 4°. trattandosi dei provvedimenti stabili negli [articoli 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_46), [53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_53) e [57 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_57) o in materia civile e commerciale, dopo cinque anni dalla data della loro rivocazione.
+ 4°. trattandosi dei provvedimenti stabili negli [articoli 46](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [53](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [57 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o in materia civile e commerciale, dopo cinque anni dalla data della loro rivocazione.
 
 ## Art. 12.
 

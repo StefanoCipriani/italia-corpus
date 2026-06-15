@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'[art. 1 del regio decreto legislativo 14 maggio 1946, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-14;384#art_1);
+Visto l'[art. 1 del regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
 
 Sulla proposta del Ministro Segretario di Stato per l'aeronautica, di concerto con il Ministro per il tesoro; Decreta:
 
 ## Art. 1.
 
-L'aliquota per ciascun grado e ruolo degli ufficiali generali e superiori dell'Aeronautica militare, in servizio permanente effettivo, che possono essere collocati in ausiliaria, per la prima applicazione del [regio decreto legislativo 14 maggio 1946, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-14;384), e' fissata come segue:
+L'aliquota per ciascun grado e ruolo degli ufficiali generali e superiori dell'Aeronautica militare, in servizio permanente effettivo, che possono essere collocati in ausiliaria, per la prima applicazione del [regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e' fissata come segue:
 
 
 Arma aeronautica - Ruolo naviganti:

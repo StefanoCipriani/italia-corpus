@@ -10,21 +10,21 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 7 dicembre 1936, n. 2081](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-12-07;2081), convertito nella [legge 10 giugno 1937, n. 1002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-10;1002);
+Visto il [regio decreto-legge 7 dicembre 1936, n. 2081](Nuovo%20assetto%20delle%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20036U2081.md), convertito nella [legge 10 giugno 1937, n. 1002](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20dicembre%201936-XV%20n.%202081%20recante%20un%20nuovo%20assetto%20delle%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20037U1002.md);
 
-Visto il [regio decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330), convertito nella [legge 5 gennaio 1939, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-05;245);
+Visto il [regio decreto-legge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), convertito nella [legge 5 gennaio 1939, n. 245](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U0245.md);
 
 Visto il regolamento per l'applicazione del decreto precedente, approvato con [regio decreto 13 aprile 1939, n. 1101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-13;1101);
 
-Vista la [legge 25 maggio 1939, n. 920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-05-25;920);
+Vista la [legge 25 maggio 1939, n. 920](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20039U0920.md);
 
-Visto il [regio decreto 16 febbraio 1942, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-02-16;363);
+Visto il [regio decreto 16 febbraio 1942, n. 363](Modificazioni%20al%20Regio%20decreto-legge%2010%20marzo%201938-XV1%20n.%20330%20portante%20provvidenze%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20042U0363.md);
 
 Visto il [decreto 13 luglio 1946, n. 26, del capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-07-13;26);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -32,15 +32,15 @@ Sulla proposta del Ministro per la marina mercantile di concerto con i Ministri 
 
 ## Art. 1.
 
-Fino a quando non sia altrimenti stabilito, sono apportate le modifiche ed aggiunte che seguono alle disposizioni di cui al [regio decreto-legge 10 marzo 1938, numero 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330), convertito in [legge 5 gennaio 1939, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-05;245), e alla [legge 25 maggio 1939, n. 920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-05-25;920), modificata con il [regio decreto 16 febbraio 1942, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-02-16;363).
+Fino a quando non sia altrimenti stabilito, sono apportate le modifiche ed aggiunte che seguono alle disposizioni di cui al [regio decreto-legge 10 marzo 1938, numero 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), convertito in [legge 5 gennaio 1939, n. 245](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U0245.md), e alla [legge 25 maggio 1939, n. 920](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20039U0920.md), modificata con il [regio decreto 16 febbraio 1942, n. 363](Modificazioni%20al%20Regio%20decreto-legge%2010%20marzo%201938-XV1%20n.%20330%20portante%20provvidenze%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20042U0363.md).
 
 ## Art. 2.
 
-I benefici previsti dal [regio decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330), e successive modifiche, comprese quelle di cui al presente provvedimento, sono estesi ai pontoni di sollevamento a scafo metallico, di legno o di cemento armato.
+I benefici previsti dal [regio decreto-legge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), e successive modifiche, comprese quelle di cui al presente provvedimento, sono estesi ai pontoni di sollevamento a scafo metallico, di legno o di cemento armato.
 
 ## Art. 3.
 
-L'[art. 2 del regio decreto 16 febbraio 1942, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-02-16;363#art_2), che sostituiva il [2° comma dell'art. 1 del regio decretolegge 10 marzo 1938, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330#art_1-com2), e' sostituito dal seguente:
+L'[art. 2 del regio decreto 16 febbraio 1942, n. 363](Modificazioni%20al%20Regio%20decreto-legge%2010%20marzo%201938-XV1%20n.%20330%20portante%20provvidenze%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20042U0363.md), che sostituiva il [2° comma dell'art. 1 del regio decretolegge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), e' sostituito dal seguente:
  Al costruttore verra' inoltre corrisposto per ogni quintale del peso complessivo della nave un compenso daziario di:
  a) L. 25 per le navi mercantili, le draghe, i rimorchiatori pontati ed i pontoni di sollevamento a scafo metallico, sempre pero' che non ai tratti di navi mercantili da classificarsi velieri, nel qual caso la misura del compenso sara' ridotta a L. 21;
  b) L. 18 per le navi mercantili, le draghe, i rimorchiatori pontati ed i pontoni di sollevamento a scafo di legno, sempre pero' che non si tratti di navi mercantili da classificarsi velieri, nel qual caso la misura del compenso sara' ridotta a L. 12;
@@ -50,7 +50,7 @@ L'[art. 2 del regio decreto 16 febbraio 1942, n. 363](https://www.normattiva.it/
 
 ## Art. 4.
 
-L'[art. 2 del regio decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330#art_2), sostituito dal seguente:
+L'[art. 2 del regio decreto-legge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), sostituito dal seguente:
  4) Ai proprietari delle navi mercantili da classificare piroscafi o motonavi di stazza lorda superiore a 500 tonnellate, le quali siano state ammesse a godere dei benefici previsti dall'art. 1 sara' corrisposto un contributo di ammortamento ed interesse da determinarsi in funzione della velocita' alle prove e del volume, globale interno secondo la tabella n. 1 annessa al presente decreto, vistata dal Ministro per la marina mercantile.
  Quando la velocita' di tali navi risulti alla prova inferiore:
  a nodi 7 per volume globale interno uguale a mc. 1.500;
@@ -72,8 +72,8 @@ L'[art. 2 del regio decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.
  D) Il contribuito di ammortamento ed interesse previsto dal presente provvedimento verra' corrisposto alle navi e galleggianti la cui costruzione sia stata iniziata dopo il 30 giugno 1945.
  Per le navi e galleggianti la cui costruzione sia stata ultimata nel periodo fra il 1° luglio 1943 e il 30 giugno 1945 e per quelli in costruzione al 1° luglio 1945, la misura del contributo sara^i' determinata moltiplicando i valori previsti dalle tabelle n. 1 e n. 2 per il coefficiente di riduzione r=1 - 0,7 K (2-K), dove K rappresenta la percentuale dello stato di avanzamento alla data del 10 luglio 1945 accertato dall'Ufficio di vigilanza della marina mercantile.
  Tale determinazione avra' luogo anche nel caso di precedenti liquidazioni.
- Per le navi e galleggianti la cui costruzione sia stata ultimata entro il 30 giugno 1043 restano in vigore le norme contenute nel [regio decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330), e successive modifiche con esclusione di quelle di cui al presente provvedimento.
- I proprietari delle navi e galleggianti la cui costruzione sia stata iniziata prima del 1° luglio 1945 possono chiedere la conservazione dei contributi d'ammortamento e di interesse previsti dal [regio decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330).
+ Per le navi e galleggianti la cui costruzione sia stata ultimata entro il 30 giugno 1043 restano in vigore le norme contenute nel [regio decreto-legge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), e successive modifiche con esclusione di quelle di cui al presente provvedimento.
+ I proprietari delle navi e galleggianti la cui costruzione sia stata iniziata prima del 1° luglio 1945 possono chiedere la conservazione dei contributi d'ammortamento e di interesse previsti dal [regio decreto-legge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md).
  E) I proprietari di navi e galleggianti superiori a 500 tonnellate di stanza lorda potranno ottenere la concessione di un anticipo sul contributo unico di ammortamento e interesse nella misura del 30% quando lo stato di avanzamento della costruzione abbia raggiunto il 50%.
  I proprietari di navi di stazza lorda fino a 500 tonnellate e di galleggianti in genere potranno ottenere la concessione di anticipo sul contributo di ammortamento e interesse nella misura del 20% quando lo stato di avanzamento della costruzione abbia raggiunto il 30%.
  F) Durante le prove non sara' ammesso:
@@ -89,23 +89,23 @@ L'[art. 2 del regio decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.
 
 ## Art. 5.
 
-L'[art. 4 del regio decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330#art_4), e' abrogato.
+L'[art. 4 del regio decreto-legge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), e' abrogato.
 
 ## Art. 6.
 
-Il [secondo comma dell'art. 7 del regio decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330#art_7-com2), e' sostituito dal seguente:
+Il [secondo comma dell'art. 7 del regio decreto-legge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), e' sostituito dal seguente:
  Ai proprietari delle navi mercantili, delle draghe, rimorchiatori pontati e pontoni di sollevamento, gia' costruiti, sui quali saranno installati macchinari di cui al precedente comma, verra' corrisposto:
 a) per la costruzione di apparati motori completi, inclusi
 tutti gli ausiliari di macchina, nonche' tubolature, grigliati o pagliuoli un contributo di miglioramento nella misura della quota B - apparato motore-prevista dalla tabella n. 2, ridotta del 50%;
  b) per la costruzione dei singoli complessi costitutivi di apparato motore (macchine, caldaie ed apparecchi ausiliari) e di apparecchi ausiliari di bordo, un contributo di miglioramento di L.2000 al quintale.
  Il contributo di miglioramento nella misura prevista dal presente provvedimento verra' corrisposto agli apparati motori e singoli complessi costitutivi di apparato motore ed agli apparecchi ausiliari di bordo, la cui costruzione sia stata iniziata dopo il 30 giugno 1945.
  Per gli apparati motori e singoli complessi costitutivi di apparato motore e per gli apparecchi ausiliari di bordo la cui costruzione sia stata ultimata, nel periodo dopo il 1° luglio 1943 e il 30 giugno 1945 e che fossero in corso di costruzione al 10 luglio 1945 la misura del contributo di miglioramento sara' determinata moltiplicando i valori previsti per la quota B - apparato motore -- della tabella n. 2 per il coefficiente r = 1--0,7 K (2-K) dove K rappresenta la percentuale dello stato di avanzamento accertato dall'Ufficio di vigilanza del Ministero della marina mercantile alla data del 1° luglio 1945.
- Per gli apparati motori e singoli complessi costitutivi di apparato motore e per gli apparecchi ausiliari di bordo la cui costruzione sia stata ultimata entro il 30 giugno 1943 restano in vigore le norme contenute nel [regio decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330), e successive modifiche con esclusione di quelle di cui al presente provvedimento.
- I proprietari degli apparati motori e singoli complessi costitutivi di apparato motore e degli apparecchi ausiliari di bordo la cui costruzione sia stata iniziata prima del 1° luglio 1945 possono chiedere la conservazione del contributo di miglioramento nella misura prevista dal [regio decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330).
+ Per gli apparati motori e singoli complessi costitutivi di apparato motore e per gli apparecchi ausiliari di bordo la cui costruzione sia stata ultimata entro il 30 giugno 1943 restano in vigore le norme contenute nel [regio decreto-legge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), e successive modifiche con esclusione di quelle di cui al presente provvedimento.
+ I proprietari degli apparati motori e singoli complessi costitutivi di apparato motore e degli apparecchi ausiliari di bordo la cui costruzione sia stata iniziata prima del 1° luglio 1945 possono chiedere la conservazione del contributo di miglioramento nella misura prevista dal [regio decreto-legge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md).
 
 ## Art. 7.
 
-Il [n. 3 del secondo comma dell'art. 6 del regio decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330#art_6-com2-num3), e' modificato come segue:
+Il [n. 3 del secondo comma dell'art. 6 del regio decreto-legge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), e' modificato come segue:
  3) le navi mercantili da carico dovranno avere installato e mantenere in efficienza, in corrispondenza del boccaporto di maggiori dimensioni, un picco di carico di portata sufficiente in relazione alle possibilita' di impiego della nave ma in ogni caso non inferiore:
  a 20 tonnellate per le navi di stazza lorda da oltre 1500 a 2500 tonnellate;
  a 35 tonnellate per le navi di stazza lorda da oltre 2500 a 5000 tonnellate;
@@ -115,21 +115,21 @@ Il [n. 3 del secondo comma dell'art. 6 del regio decreto-legge 10 marzo 1938, n.
 
 ## Art. 8.
 
-Le disposizioni di cui agli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330#art_7), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330#art_8) e [9 del regio decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330#art_9), e successive modifiche, comprese quelle di cui al presente provvedimento, sono estese ai lavori, iniziati dopo il 10 giugno 1940, per la trasformazione di galleggianti e di navi da diporto in navi mercantili, draghe, rimorchiatori pontati e pontoni di sollevamento.
+Le disposizioni di cui agli [articoli 7](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), [8](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md) e [9 del regio decreto-legge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), e successive modifiche, comprese quelle di cui al presente provvedimento, sono estese ai lavori, iniziati dopo il 10 giugno 1940, per la trasformazione di galleggianti e di navi da diporto in navi mercantili, draghe, rimorchiatori pontati e pontoni di sollevamento.
 
 ## Art. 9.
 
 Sono esenti dalla imposta generale sull'entrata i pagamenti per costruzioni, riparazioni, modificazioni o trasformazioni navali, nonche' per acquisto di navi estere, eseguiti dai nazionali per attuare la ricostruzione del naviglio sinistrato per cause di guerra.
- Sono altresi' esenti dall'imposta i pagamenti per i lavori di recupero e rimessa in efficienza di navi mercantili affondate e sinistrate, previsti dal [decreto legislativo luogotenenziale 19 ottobre 1945, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-19;686).
+ Sono altresi' esenti dall'imposta i pagamenti per i lavori di recupero e rimessa in efficienza di navi mercantili affondate e sinistrate, previsti dal [decreto legislativo luogotenenziale 19 ottobre 1945, n. 686](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20il%20recupero%20e%20la%20rimessa%20in%20efficienza%20di%20navi%20mercantili%20sinistrate.%20045U0686.md).
  La esenzione prevista dai comma precedenti, spetta anche pei pagamenti effettuati dopo l'entrata in vigore del presente decreto in forza di contratti stipulati anteriormente alla entrata in vigore del decreto stesso.
  L'esenzione e' subordinata all'attestazione, da rilasciarsi dal Ministero della marina mercantile, che i contratti in base a cui i pagamenti debbono effettuarsi, attuano gli scopi previsti dal primo e dal secondo comma del presente articolo.
  Sono anche esenti dall'imposta i pagamenti per costruzioni, riparazioni, modificazioni e trasformazioni navali eseguite per conto di stranieri nei cantieri o stabilimenti nazionali.
 
 ## Art. 10.
 
-L'[art. 15 del regio decreto-legge 10 marzo 1938, numero 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-10;330#art_15), e' sostituito dal seguente:
+L'[art. 15 del regio decreto-legge 10 marzo 1938, numero 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), e' sostituito dal seguente:
 
- I contributi di ammortamento e di interesse e i contributi di miglioramento previsti dal presente decreto non sono concessi per le navi da destinarsi alle linee di preminente interesse nazionale contemplate dal [regio decreto- legge 7 dicembre 1936, n. 2081](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-12-07;2081), convertito nella [legge 10 giugno 1937, n. 1002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-10;1002).
+ I contributi di ammortamento e di interesse e i contributi di miglioramento previsti dal presente decreto non sono concessi per le navi da destinarsi alle linee di preminente interesse nazionale contemplate dal [regio decreto- legge 7 dicembre 1936, n. 2081](Nuovo%20assetto%20delle%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20036U2081.md), convertito nella [legge 10 giugno 1937, n. 1002](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20dicembre%201936-XV%20n.%202081%20recante%20un%20nuovo%20assetto%20delle%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20037U1002.md).
  La concessione di tali contributi potra', tuttavia, essere estesa in tutto o in parte, quando cio' sia riconosciuto opportuno, anche alle navi suddette, mediante decreto del Ministro per la marina mercantile, di concerto col Ministro per il tesoro. Con tale decreto verranno apportate anche le necessarie variazioni di bilancio.
 
 ## Art. 11.

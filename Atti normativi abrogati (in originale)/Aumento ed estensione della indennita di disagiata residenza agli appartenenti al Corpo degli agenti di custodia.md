@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'[art. 14 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;508#art_14), e' modificato come segue:
+L'[art. 14 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20del%20Corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20045U0508.md), e' modificato come segue:
  "Agli appartenenti al Corpo degli agenti di custodia, destinati a prestare servizio nei manicomi e nei sanatori giudiziari, nelle colonie agricole, nelle case di cura e di custodia, nelle case per minorati fisici o psichici, nelle case di lavoro all'aperto della Sardegna, nelle case penali e nelle colonie dell'Arcipelago toscano, nelle case penali di Santo Stefano e di Favignana, nelle carceri giudiziarie di Ustica e negli stabilimenti di qualsiasi genere distaccati in zone malariche, vengono concesse le seguenti speciali indennita' giornaliere:
  per i manicomi giudiziari, per le case di cura e di custodia e per le case per minorati fisici o psichici, lire 10;
  per le colonie e per le case penali dell'Arcipelago toscano, per le case penali di Santo Stefano e di Favignana e per le carceri giudiziarie di Ustica, lire 14;

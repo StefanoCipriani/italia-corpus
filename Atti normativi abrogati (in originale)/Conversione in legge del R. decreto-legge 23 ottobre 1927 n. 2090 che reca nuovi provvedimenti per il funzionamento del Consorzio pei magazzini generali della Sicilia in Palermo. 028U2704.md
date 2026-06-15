@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2090), che reca nuovi provvedimenti per il funzionamento del Consorzio pei magazzini generali della Sicilia in Palermo. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2090](Nuovi%20provvedimenti%20per%20il%20funzionamento%20del%20Consorzio%20pei%20Magazzini%20generali%20della%20Sicilia%20in%20Palermo.%20027U2090.md), che reca nuovi provvedimenti per il funzionamento del Consorzio pei magazzini generali della Sicilia in Palermo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

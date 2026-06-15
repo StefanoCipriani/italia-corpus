@@ -41,7 +41,7 @@ nella quale Y e' l'aliquota corrispondente all'ammontare x espresso in milioni d
 
 ## Art. 2.
 
-Per i giuochi di abilita' e per i concorsi pronostici il cui esercizio, ai sensi dell'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496#art_6), e' riservato al Comitato olimpico nazionale italiano e all'Unione nazionale incremento razze equine, il fondo preimi e' costituito dal 56 per cento dell'ammontare complessivo delle poste al netto dell'imposta di cui al precedente art. 1.
+Per i giuochi di abilita' e per i concorsi pronostici il cui esercizio, ai sensi dell'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](../Decreti%20Legislativi/Disciplina%20delle%20attivita%20di%20giuoco.md), e' riservato al Comitato olimpico nazionale italiano e all'Unione nazionale incremento razze equine, il fondo preimi e' costituito dal 56 per cento dell'ammontare complessivo delle poste al netto dell'imposta di cui al precedente art. 1.
 
 ## Art. 3.
 
@@ -50,7 +50,7 @@ Per i concorsi pronostici relativi alle corse dei cavalli, e' concesso a favore 
 
 ## Art. 4.
 
-Per i giuochi direttamente organizzati dallo Stato a norma dell'[art. 2 del decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496#art_2), la massa dei premi e' stabilita nella misura del 35 per cento dell'ammontare complessivo delle poste giuocate.
+Per i giuochi direttamente organizzati dallo Stato a norma dell'[art. 2 del decreto legislativo 14 aprile 1948, n. 496](../Decreti%20Legislativi/Disciplina%20delle%20attivita%20di%20giuoco.md), la massa dei premi e' stabilita nella misura del 35 per cento dell'ammontare complessivo delle poste giuocate.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

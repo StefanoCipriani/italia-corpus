@@ -18,7 +18,7 @@ riguardante le attribuzioni del Ministero del commercio con l'estero;
 
 Visto il [decreto-legge 28 luglio 1955, n. 586](Nuove%20norme%20sulla%20negoziazione%20e%20la%20cessione%20di%20valute%20estere%20allo%20Stato.md), convertito nella
 
-[legge 26 settembre 1955, n. 852](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-09-26;852), concernente nuove norme sulla negoziazione e la cessione di valute estere allo Stato;
+[legge 26 settembre 1955, n. 852](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20luglio%201955%20n.%20586%20concernente%20le%20nuove%20norme%20sulla%20negoziazione%20e%20la%20cessione%20delle%20valute%20estere%20allo%20Stato.md), concernente nuove norme sulla negoziazione e la cessione di valute estere allo Stato;
 
 Ritenuta la straordinaria necessita' e l'urgenza di emanare nuove norme valutarie e di istituire un mercato libero di biglietti di Stato e di banca esteri;
 
@@ -90,7 +90,7 @@ La Banca d'Italia e le aziende di credito autorizzate a fungere da sue agenzie p
 La Banca d'Italia e le aziende di credito autorizzate a fungere da sue agenzie possono, in base alle autorizzazioni di cui al precedente art. 9, cedere i biglietti acquistati ai sensi dell'articolo stesso:
  a) ai residenti che si recano all'estero per scopi di turismo, affari, studio o cura, con l'osservanza, per quanto riguarda la cessione dei biglietti, delle disposizioni emanate dal Ministro per il commercio con l'estero;
  b) ai residenti per l'assunzione di quote di partecipazione in societa' aventi la sede Cuori del territorio della Repubblica, e per l'acquisto di titoli azionari e obbligazionari emessi o pagabili all'estero, autorizzati ai sensi del primo comma dell'art. 5;
- c) a non residenti in corrispettivo di somme dovute a titolo di rimborso di capitali investiti in Italia oppure di interessi, rendite e frutti afferenti ai capitali medesimi oltre ai limiti stabiliti dal [primo comma dell'art. 2 della legge 7 febbraio 1956, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-02-07;43#art_2-com1);
+ c) a non residenti in corrispettivo di somme dovute a titolo di rimborso di capitali investiti in Italia oppure di interessi, rendite e frutti afferenti ai capitali medesimi oltre ai limiti stabiliti dal [primo comma dell'art. 2 della legge 7 febbraio 1956, n. 43](Disposizioni%20in%20materia%20di%20investimenti%20di%20capitali%20esteri%20in%20Italia.md);
  d) ai residenti per il pagamento di debiti derivanti da altre operazioni effettuate in base ad autorizzazioni ministeriali.
 
 ## Art. 11.
@@ -117,45 +117,45 @@ Alle banche e' fatto divieto di dare esecuzione ad operazioni che non siano effe
 
 ## Art. 15.
 
-Salva l'applicazione delle norme penali, a coloro che effettuano operazioni in violazione del presente decreto-legge si applicano le sanzioni determinate con decreto del Ministro per il tesoro di cui al [regio decreto-legge 5 dicembre 1938, n. 1928](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-12-05;1928), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), e successive modificazioni.
+Salva l'applicazione delle norme penali, a coloro che effettuano operazioni in violazione del presente decreto-legge si applicano le sanzioni determinate con decreto del Ministro per il tesoro di cui al [regio decreto-legge 5 dicembre 1938, n. 1928](Norme%20per%20la%20repressione%20delle%20violazioni%20delle%20leggi%20valutarie.%20038U1928.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), e successive modificazioni.
 
 ## Art. 16.
 
 Sono o rimangono abrogati:
- [regio decreto 11 settembre 1919, n. 1674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-11;1674);
- [regio decreto-legge 24 novembre 1921, n. 1835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-11-24;1835);
- [regio decreto-legge 29 agosto 1925, n. 1508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-08-29;1508);
- [regio decreto 10 dicembre 1925, n. 2162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-12-10;2162);
- [regio decreto 10 giugno 1926, n. 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-10;942);
- [regio decreto 5 gennaio 1928, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-05;1);
- [regio decreto-legge 29 settembre 1931, n. 1207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-29;1207);
- [legge 11 gennaio 1932, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-01-11;18);
- [regio decreto-legge 21 dicembre 1931, n. 1680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-21;1680);
- [regio decreto-legge 22 marzo 1933, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-22;176);
- [regio decreto-legge 8 dicembre 1934, n. 1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-08;1942);
- [regio decreto-legge 8 dicembre 1934, n. 1943](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-08;1943);
- [regio decreto-legge 17 gennaio 1935, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-17;1);
- [legge 13 giugno 1935, n. 1296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-13;1296);
- [regio decreto-legge 20 giugno 1935, n. 2573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;2573);
- [regio decreto-legge 28 agosto 1935, n. 1614](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-08-28;1614);
- [regio decreto-legge 23 settembre 1935, n. 1685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-23;1685);
+ [regio decreto 11 settembre 1919, n. 1674](Che%20proibisce%20agli%20Istituti%20ed%20ai%20cittadini%20italiani%20di%20contrarre%20prestiti%20e%20di%20assumere%20partecipazione%20finanziaria%20fuori%20del%20Regno%20senza%20il%20consenso%20preventivo%20del%20ministro%20del%20tesoro.%20019U1674.md);
+ [regio decreto-legge 24 novembre 1921, n. 1835](Che%20reca%20norme%20per%20disciplinare%20la%20eventuale%20cessione%20a%20stranieri%20di%20aziende%20partecipazioni%20finanziarie%20e%20ogni%20altra%20cointeressenza%20in%20imprese%20estere%20acquistate%20o%20in%20forza%20del%20R.%20decreto%20_1f9eb6008ca0.md);
+ [regio decreto-legge 29 agosto 1925, n. 1508](Disciplina%20del%20commercio%20dei%20cambi.%20025U1508.md);
+ [regio decreto 10 dicembre 1925, n. 2162](Norme%20che%20regolano%20la%20materia%20dei%20mutui%20allestero%20da%20parte%20di%20privati.%20025U2162.md);
+ [regio decreto 10 giugno 1926, n. 942](Concessione%20di%20alcune%20agevolazioni%20nelle%20contrattazioni%20in%20cambi.%20026U0942.md);
+ [regio decreto 5 gennaio 1928, n. 1](Norme%20per%20la%20disciplina%20della%20contrattazione%20di%20operazioni%20di%20mutuo%20allestero.%20028U0001.md);
+ [regio decreto-legge 29 settembre 1931, n. 1207](Autorizzazione%20al%20Ministro%20per%20le%20finanze%20ad%20emanare%20norme%20per%20la%20disciplina%20del%20commercio%20dei%20cambi.%20031U1207.md);
+ [legge 11 gennaio 1932, n. 18](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20settembre%201931%20n.%201207%20che%20autorizza%20il%20Ministro%20per%20le%20finanze%20ad%20emanare%20norme%20per%20la%20disciplina%20del%20commercio%20dei%20cambi.%20032U0018.md);
+ [regio decreto-legge 21 dicembre 1931, n. 1680](Facolta%20al%20Governo%20di%20stabilire%20modalita%20per%20limportazione%20di%20merci%20di%20alcuni%20Paesi.%20031U1680.md);
+ [regio decreto-legge 22 marzo 1933, n. 176](Facolta%20al%20Governo%20di%20stabilire%20modalita%20per%20limportazione%20di%20merci%20da%20alcuni%20Paesi.%20033U0176.md);
+ [regio decreto-legge 8 dicembre 1934, n. 1942](Provvedimenti%20concernenti%20la%20cessione%20delle%20divise%20e%20la%20dichiarazione%20del%20possesso%20di%20titoli%20emessi%20allestero.%20034U1942.md);
+ [regio decreto-legge 8 dicembre 1934, n. 1943](Sanzioni%20per%20la%20irregolare%20tenuta%20delle%20contabilita%20e%20della%20corrispondenza%20di%20banche%20e%20cambiavalute%20riferentisi%20a%20pagamenti%20fuori%20dItalia%20ed%20al%20commercio%20dei%20cambi.%20034U1943.md);
+ [regio decreto-legge 17 gennaio 1935, n. 1](Obbligo%20a%20tutti%20i%20cittadini%20italiani%20domiciliati%20nel%20Regno%20o%20nei%20possedimenti%20di%20dichiarare%20alla%20Banca%20dItalia%20le%20variazioni%20nelle%20posizioni%20dei%20crediti%20verso%20lestero%20o%20della%20proprieta%20di_00a797a1c832.md);
+ [legge 13 giugno 1935, n. 1296](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201934%20n.%201943%20recante%20sanzioni%20per%20la%20irregolare%20tenuta%20della%20contabilita%20e%20della%20corrispondenza%20di%20banche%20e%20cambiavalute%20riferentisi%20a_fd881d46c674.md);
+ [regio decreto-legge 20 giugno 1935, n. 2573](Provvedimenti%20intesi%20ad%20agevolare%20le%20operazioni%20di%20credito%20allestero%20per%20il%20pagamento%20di%20importazioni.%20035U2573.md);
+ [regio decreto-legge 28 agosto 1935, n. 1614](Cessione%20obbligatoria%20dei%20crediti%20allestero%20e%20cambio%20obbligatorio%20in%20buoni%20del%20Tesoro%205%20per%20cento%20dei%20titoli%20esteri%20e%20del%20titoli%20italiani%20emessi%20allestero%20di%20proprieta%20di%20cittadini%20ed%20ent_4d4d5b6e2399.md);
+ [regio decreto-legge 23 settembre 1935, n. 1685](Esenzioni%20fiscali%20per%20gli%20atti%20occorrenti%20per%20la%20cessione%20dei%20crediti%20e%20per%20il%20cambio%20dei%20titoli%20esteri.%20035U1685.md);
  [legge 6 gennaio 1936, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-06;102);
- [legge 9 gennaio 1936, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;103);
- [regio decreto-legge 10 febbraio 1936, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-02-10;314);
- [regio decreto-legge 20 marzo 1936, n. 410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-20;410);
- [legge 4 giugno 1936, n. 1268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-04;1268);
- [regio decreto-legge 24 luglio 1936, n. 1453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-07-24;1453);
- [regio decreto-legge 7 agosto 1936, n. 1631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-08-07;1631);
- [regio decreto-legge 28 dicembre 1936, n. 2197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-12-28;2197);
- [legge 4 gennaio 1937, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-01-04;16);
- [regio decreto-legge 11 gennaio 1937, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-11;1);
- [legge 8 aprile 1937, n. 534](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-04-08;534);
- [legge 7 giugno 1937, n. 988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-07;988);
- [legge 30 dicembre 1938, n. 2081](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-12-30;2081);
- [legge 15 maggio 1939, n. 764](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-05-15;764);
- [legge 27 novembre 1939, n. 1890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-27;1890);
- [regio decreto-legge 19 marzo 1942, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-03-19;355);
- [legge 24 luglio 1942, n. 1083](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-24;1083);
+ [legge 9 gennaio 1936, n. 103](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201934-XIII%20n.%201942%20recante%20provvedimenti%20concernenti%20la%20cessione%20delle%20divise%20e%20la%20dichiarazione%20del%20possesso%20dei%20titoli%20emessi%20alleste_eda3074c92a5.md);
+ [regio decreto-legge 10 febbraio 1936, n. 314](Facolta%20di%20commutare%20in%20Rendita%205%20%20i%20Buoni%20del%20tesoro%20novennali%205%20serie%20speciale%201944%20avuti%20in%20cambio%20di%20titoli%20esteri%20o%20di%20titoli%20italiani%20emessi%20allestero.%20036U0314.md);
+ [regio decreto-legge 20 marzo 1936, n. 410](Provvedimenti%20per%20favorire%20il%20movimento%20turistico.%20036U0410.md);
+ [legge 4 giugno 1936, n. 1268](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20marzo%201936-XIV%20n.%20410%20contenente%20provvedimenti%20per%20favorire%20il%20movimento%20turistico.%20036U1268.md);
+ [regio decreto-legge 24 luglio 1936, n. 1453](Esenzioni%20fiscali%20per%20gli%20atti%20inerenti%20al%20servizio%20per%20favorire%20il%20movimento%20turistico.%20036U1453.md);
+ [regio decreto-legge 7 agosto 1936, n. 1631](Disposizioni%20integrative%20per%20la%20cessione%20obbligatoria%20dei%20crediti%20verso%20lestero%20dei%20titoli%20esteri%20e%20dei%20titoli%20italiani%20emessi%20allestero.%20036U1631.md);
+ [regio decreto-legge 28 dicembre 1936, n. 2197](Norme%20per%20le%20cessioni%20di%20crediti%20verso%20lestero%20e%20di%20titoli%20esteri%20e%20italiani%20emessi%20allestero%20e%20per%20il%20trasferimento%20allestero%20di%20crediti%20bloccati%20in%20Italia.%20036U2197.md);
+ [legge 4 gennaio 1937, n. 16](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%202573%20recante%20provvedimenti%20intesi%20ad%20agevolare%20le%20operazioni%20di%20credito%20allestero%20per%20il%20pagamento%20di%20importazioni.%20037U0016.md);
+ [regio decreto-legge 11 gennaio 1937, n. 1](Disposizioni%20relative%20ai%20finanziamenti%20per%20i%20crediti%20derivanti%20da%20affari%20di%20esportazione.%20037U0001.md);
+ [legge 8 aprile 1937, n. 534](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20agosto%201936-XIV%20n.%201631%20portante%20disposizioni%20integrative%20per%20la%20cessione%20obbligatoria%20dei%20crediti%20verso%20lestero%20dei%20titoli%20esteri%20o%20dei%20titoli_90f24cc22774.md);
+ [legge 7 giugno 1937, n. 988](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2011%20gennaio%201937-XV%20n.%201%20recante%20disposizioni%20relative%20ai%20finanziamenti%20per%20i%20crediti%20derivanti%20da%20affari%20di%20esportazione.%20037U0988.md);
+ [legge 30 dicembre 1938, n. 2081](Garanzia%20di%20cambio%20sulle%20operazioni%20di%20credito%20concluse%20dallIstituto%20nazionale%20per%20i%20cambi%20con%20lestero.%20038U2081.md);
+ [legge 15 maggio 1939, n. 764](Provvedimenti%20per%20il%20trasferimento%20dei%20risparmi%20degli%20emigrati%20e%20del%20rimpatriati.%20039U0764.md);
+ [legge 27 novembre 1939, n. 1890](Nuove%20norme%20per%20la%20cessione%20obbligatoria%20dei%20titoli%20esteri%20e%20dei%20titoli%20italiani%20emessi%20allestero.%20039U1890.md);
+ [regio decreto-legge 19 marzo 1942, n. 355](Modificazioni%20al%20R.%20decreto-legge%2011%20gennaio%201937-XV%20n.%201%20convertito%20nella%20legge%207%20giugno%201937-XV%20n.%20988%20contenente%20disposizioni%20relative%20ai%20finanziamenti%20per%20i%20crediti%20derivanti%20da%20affar_8666caa612a0.md);
+ [legge 24 luglio 1942, n. 1083](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2019%20marzo%201942-XX%20n.%20355%20che%20porta%20modificazioni%20al%20R.%20decreto-legge%2011%20gennaio%201937%20n.%201%20convertito%20nella%20legge%207%20giugno%201937%20n.%20988%20contenent_5d77f8578e60.md);
  [regio decreto-legge 24 luglio 1942, n. 807](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto.legge:1942-07-24;807);
  [decreto legislativo luogotenenziale 4 gennaio 1946, numero 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1946-01-04;2);
  [decreto legislativo luogotenenziale 28 gennaio 1946, numero 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1946-01-28;9);
@@ -164,7 +164,7 @@ Sono o rimangono abrogati:
  [decreto legislativo del Capo provvisorio dello Stato 28 novembre 1947, n. 1347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-28;1347);
  [decreto legislativo del Capo provvisorio dello Stato 31 dicembre 1947, n. 1617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-31;1617);
  [decreto legislativo 19 settembre 1949, n. 632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1949-09-19;632);
- [legge 4 novembre 1949, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-11-04;830);
+ [legge 4 novembre 1949, n. 830](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2019%20settembre%201949%20n.%20632%20adottato%20ai%20sensi%20dellart.%2077%20comma%20secondo%20della%20Costituzione%20e%20concernente%20modifiche%20in%20materia%20di%20norme%20riguardanti%20la%20n_37026dd95888.md);
  [legge 4 novembre 1949, n. 828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-11-04;828) nonche' ogni altra, disposizione che contrasti con quelle del presente decreto-legge o sia con esse incompatibile.
 
 ## Art. 17.

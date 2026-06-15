@@ -20,7 +20,7 @@ Visto il testo unico sulle pensioni, approvato con [R. decreto 21 febbraio 1895,
 
 Visto il [R. decreto 27 giugno 1933, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-27;703), con il quale sono state, fra l'altro, stabilite le norme per la liquidazione delle pensioni privilegiate ordinarie;
 
-Visti i [Regi decreti 1° aprile 1935, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-01;459), e [16 giugno 1939, n. 982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-16;982), coi quali e' stato modificato ed integrato l'art. 4 del predetto [R. decreto 27 giugno 1933, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-27;703);
+Visti i [Regi decreti 1° aprile 1935, n. 459](Modifiche%20allordinamento%20del%20Comitato%20per%20le%20pensioni%20privilegiate%20ordinarie.%20035U0459.md), e [16 giugno 1939, n. 982](Modificazione%20delle%20attribuzioni%20del%20Comitato%20per%20le%20pensioni%20privilegiate%20ordinarie.%20039U0982.md), coi quali e' stato modificato ed integrato l'art. 4 del predetto [R. decreto 27 giugno 1933, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-27;703);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

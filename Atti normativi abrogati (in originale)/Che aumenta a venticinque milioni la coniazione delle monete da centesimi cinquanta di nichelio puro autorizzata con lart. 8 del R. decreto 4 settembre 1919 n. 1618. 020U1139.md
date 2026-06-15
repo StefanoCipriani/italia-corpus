@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 4 settembre 1919, n. 1618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-04;1618);
+Veduto il [R. decreto 4 settembre 1919, n. 1618](Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20nichelio%20puro%20da%20centesimi%20cinquanta%20e%20di%20bronzo%20da%20centesimi%20dieci.%20019U1618.md);
 
 Udito il Consiglio dei ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del ministro del tesoro, di concerto col presidente del Consiglio
 
 ## Art. 1.
 
-A modificazione dell'[art. 8 del R. decreto 4 settembre 1919, n. 1618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-04;1618#art_8), l'ammontare nominale di dieci milioni delle monete da centesimi cinquanta di nichelio puro, la cui coniazione fu autorizzata col decreto stesso, e' elevato a venticinque milioni di lire.
+A modificazione dell'[art. 8 del R. decreto 4 settembre 1919, n. 1618](Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20nichelio%20puro%20da%20centesimi%20cinquanta%20e%20di%20bronzo%20da%20centesimi%20dieci.%20019U1618.md), l'ammontare nominale di dieci milioni delle monete da centesimi cinquanta di nichelio puro, la cui coniazione fu autorizzata col decreto stesso, e' elevato a venticinque milioni di lire.
 
 ## Art. 2.
 

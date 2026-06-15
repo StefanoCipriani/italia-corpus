@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 luglio 1931, n. 1097](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-24;1097), che autorizza il Ministro per l'aeronautica ad effettuare un reclutamento straordinario di sergenti della categoria governo nella Regia aeronautica. 
+ E' convertito in legge il [R. decreto-legge 24 luglio 1931, n. 1097](Autorizzazione%20al%20Ministro%20per%20laeronautica%20ad%20effettuare%20un%20reclutamento%20straordinario%20di%20sottufficiali%20di%20governo%20nella%20Regia%20aeronautica.%20031U1097.md), che autorizza il Ministro per l'aeronautica ad effettuare un reclutamento straordinario di sergenti della categoria governo nella Regia aeronautica. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 11 gennaio 1932 - Anno X 
  

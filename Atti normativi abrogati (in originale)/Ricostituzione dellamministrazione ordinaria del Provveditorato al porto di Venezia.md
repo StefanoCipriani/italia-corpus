@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 14 marzo 1929, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-14;503), riguardante l'ordinamento del Provveditorato al porto di Venezia;
+Visto il [regio decreto-legge 14 marzo 1929, n. 503](Ordinamento%20del%20Provveditorato%20al%20porto%20di%20Venezia.%20029U0503.md), riguardante l'ordinamento del Provveditorato al porto di Venezia;
 
 Sulla proposta del Ministro per la marina mercantile, di concerto con i Ministri per il tesoro e per i lavori pubblici; Decreta:
 

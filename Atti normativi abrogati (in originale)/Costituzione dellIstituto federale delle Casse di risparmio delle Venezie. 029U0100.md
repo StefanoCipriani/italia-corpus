@@ -22,9 +22,9 @@ Veduto il [R. decreto-legge 29 luglio 1927, n. 1509](Provvedimenti%20per%20lordi
 
 Veduta la [legge 29 dicembre 1927, n. 2587](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201927%20n.%20269%20recante%20modificazioni%20alle%20norme%20vigenti%20sullordinamento%20delle%20Casse%20ordinarie%20di%20risparmio%20e%20dei%20Monti%20di%20pieta%20di%201ª%20c_862b2c7b8a1c.md), sull'ordinamento delle Casse di risparmio;
 
-Veduto il [R. decreto 26 aprile 1928, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1022), che costituisce la Federazione delle Casse di risparmio delle Venezie;
+Veduto il [R. decreto 26 aprile 1928, n. 1022](Costituzione%20della%20Federazione%20delle%20Casse%20di%20risparmio%20delle%20Venezie.%20028U1022.md), che costituisce la Federazione delle Casse di risparmio delle Venezie;
 
-Veduto il [R. decreto 27 settembre 1928, n. 2261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-27;2261), che approva lo statuto della Federazione predetta;
+Veduto il [R. decreto 27 settembre 1928, n. 2261](Approvazione%20dello%20statuto%20della%20Federazione%20delle%20Casse%20di%20risparmio%20delle%20Venezie.%20028U2261.md), che approva lo statuto della Federazione predetta;
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche (art. 3, n. 2);
 

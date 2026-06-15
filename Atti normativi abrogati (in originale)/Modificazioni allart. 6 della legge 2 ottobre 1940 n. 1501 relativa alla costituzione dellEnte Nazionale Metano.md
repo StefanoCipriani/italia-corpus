@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 20 ottobre 1940, n. 1501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-20;1501), relativa alla costituzione dell'Ente Nazionale Metano;
 
-Visto il [R. decreto 29 gennaio 1942, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-29;808), col quale venne approvato lo statuto dell'Ente Nazionale Metano;
+Visto il [R. decreto 29 gennaio 1942, n. 808](Approvazione%20dello%20statuto%20che%20regola%20lamministrazione%20ed%20il%20funzionamento%20dellEnte%20Nazionale%20Metano%20costituito%20con%20la%20legge%202%20ottobre%201940-XVIII%20n.%201501.%20042U0808.md), col quale venne approvato lo statuto dell'Ente Nazionale Metano;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

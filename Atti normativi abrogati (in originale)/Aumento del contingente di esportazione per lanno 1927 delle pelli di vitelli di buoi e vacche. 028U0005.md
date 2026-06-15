@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 2, primo comma, del R. decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923#art_2-com1), convertito nella [legge 7 luglio 1927, n. 1495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-07;1495), sui divieti di importazione e di esportazione di carattere economico;
+Visto l'[art. 2, primo comma, del R. decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923#art_2-com1), convertito nella [legge 7 luglio 1927, n. 1495](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2014%20novembre%201926%20n.%201923%20che%20provvede%20ad%20unificare%20coordinare%20ed%20integrare%20le%20disposizioni%20relative%20ai%20divieti%20di%20importazione%20e%20di%20esportazione%20di%20car_ac354a1268bc.md), sui divieti di importazione e di esportazione di carattere economico;
 
 Visto il [R. decreto-legge 12 agosto 1927, n. 1557](Aumento%20per%20lanno%201927%20del%20contingente%20per%20lesportazione%20delle%20pelli%20di%20vitello.%20027U1557.md), che ha aumentato per l'anno 1927 il contingente di esportazione per le pelli grezze di vitello;
 
@@ -28,7 +28,7 @@ Su proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto 
 
 ## Art. 1.
 
-Il Contingente per il quale il Ministro per le finanze potra' consentire l'esportazione delle pelli grezze di buoi e vacche, stabilito in quintali 200.000 annui dalla nota alla voce «pelli di buoi, di vacche e di vitelli, fresche, secche, o marinate» portata dalla tabella B annessa al [R. decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923), convertito nella [legge 7 luglio 1927, n. 1495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-07;1495), viene aumentato, per l'anno 1927, di quintali 68.100. 
+Il Contingente per il quale il Ministro per le finanze potra' consentire l'esportazione delle pelli grezze di buoi e vacche, stabilito in quintali 200.000 annui dalla nota alla voce «pelli di buoi, di vacche e di vitelli, fresche, secche, o marinate» portata dalla tabella B annessa al [R. decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923), convertito nella [legge 7 luglio 1927, n. 1495](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2014%20novembre%201926%20n.%201923%20che%20provvede%20ad%20unificare%20coordinare%20ed%20integrare%20le%20disposizioni%20relative%20ai%20divieti%20di%20importazione%20e%20di%20esportazione%20di%20car_ac354a1268bc.md), viene aumentato, per l'anno 1927, di quintali 68.100. 
  
  Il contingente per l'esportazione delle pelli grezze di vitello, stabilito, dalla nota predetta in quintali 32.000 annui, ed aumentato di quintali 18.000 per il 1927, col [R. decreto-legge 12 agosto 1927, n. 1557](Aumento%20per%20lanno%201927%20del%20contingente%20per%20lesportazione%20delle%20pelli%20di%20vitello.%20027U1557.md), viene ulteriormente aumentato, per l'anno 1927, di quintali 9.600. 
  

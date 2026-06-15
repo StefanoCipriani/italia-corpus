@@ -12,10 +12,10 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Visto il [regio decreto 13 agosto 1926, n. 1488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-13;1488), col quale venne approvata e resa esecutiva la tariffa dei diritti di borsa spettanti alla Camera di commercio, industria e agricoltura di Genova;
+ Visto il [regio decreto 13 agosto 1926, n. 1488](Diritti%20e%20tasse%20della%20Camera%20di%20commercio%20e%20industria%20di%20Genova.%20026U1488.md), col quale venne approvata e resa esecutiva la tariffa dei diritti di borsa spettanti alla Camera di commercio, industria e agricoltura di Genova;
  Visti i [regi decreti 21 giugno 1934, n. 1113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-06-21;1113), [9 dicembre 1935, n. 2386, il decreto luogotenenziale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1935-12-09;2386) [23 marzo 1946, n. 416, e il decreto del Capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-03-23;416) [11 febbraio 1947, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-11;162), con i quali vennero apportate variazioni alla tariffa predetta;
  Vista la deliberazione in data 14 febbraio 1947, della Camera di commercio suddetta, con la quale sono state stabilite ulteriori modifiche alla tariffa in parola;
- Visto l'[art. 53 del regio decreto 20 settembre 1934, n. 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;2011#art_53), col quale si stabilisce la forma e l'organo competente per la emanazione di provvedimenti riguardanti i diritti di borsa;
+ Visto l'[art. 53 del regio decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), col quale si stabilisce la forma e l'organo competente per la emanazione di provvedimenti riguardanti i diritti di borsa;
  Sulla proposta del Ministro Segretario di Stato per le finanze e il tesoro;
 
  Decreta:

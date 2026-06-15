@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 settembre 1926, n. 2307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-03;2307), che da' piena ed intera esecuzione alla Convenzione per evitare le doppie imposizioni e per regolare altre questioni in materia di imposte dirette, conclusa a Roma il 25 novembre 1925 tra il Regno d'Italia e il Regno d'Ungheria. 
+ E' convertito in legge il [R. decreto-legge 3 settembre 1926, n. 2307](Approvazione%20della%20Convenzione%20per%20evitare%20le%20doppie%20imposizioni%20e%20per%20regolare%20altre%20questioni%20in%20materia%20di%20imposte%20dirette%20conclusa%20a%20Roma%20il%2025%20novembre%201925%20tra%20il%20Regno%20dItalia%20ed%20i_819aba6a542b.md), che da' piena ed intera esecuzione alla Convenzione per evitare le doppie imposizioni e per regolare altre questioni in materia di imposte dirette, conclusa a Roma il 25 novembre 1925 tra il Regno d'Italia e il Regno d'Ungheria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

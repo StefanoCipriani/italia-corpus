@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al ruolo organico dei posti di professore ordinario e di professore straordinario di materie fondamentali assegnati alle varie facolta' e scuole delle RR. Universita' di cui alla tabella A del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795), sono aggiunti i dieci posti di professore ordinario e i quattro posti di professore straordinario della R.
+Al ruolo organico dei posti di professore ordinario e di professore straordinario di materie fondamentali assegnati alle varie facolta' e scuole delle RR. Universita' di cui alla tabella A del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), sono aggiunti i dieci posti di professore ordinario e i quattro posti di professore straordinario della R.
 Accademia scientifico-letteraria di Milano, di cui alla tabella B dello stesso testo unico; 
  
  I professori ordinari e straordinari dell'Accademia stessa, ora in ufficio, entreranno nel rispettivo ruolo con l'anzianita' della propria nomina all'urto o all'altro grado. 

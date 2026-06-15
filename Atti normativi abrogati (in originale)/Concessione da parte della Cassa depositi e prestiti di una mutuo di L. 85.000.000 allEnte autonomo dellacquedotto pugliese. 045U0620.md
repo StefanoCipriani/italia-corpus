@@ -40,7 +40,7 @@ I mutui saranno estinti in cinquanta annualita' a decorrere dal 1° gennaio succ
 
 ## Art. 3.
 
-Il pagamento delle annualita' sara' garantito dall'Ente mutuatario col rilascio a favore della Cassa depositi e prestiti di deleghe degli introiti per vendita dell'acqua, compresi nei ruoli principali, di cui all'[art. 11-bis della legge 13 dicembre 1928, n. 3233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-13;3233#art_11bis). 
+Il pagamento delle annualita' sara' garantito dall'Ente mutuatario col rilascio a favore della Cassa depositi e prestiti di deleghe degli introiti per vendita dell'acqua, compresi nei ruoli principali, di cui all'[art. 11-bis della legge 13 dicembre 1928, n. 3233](Modifiche%20alle%20norme%20di%20riscossione%20delle%20entrate%20a%20favore%20dellEnte%20autonomo%20per%20lAcquedotto%20pugliese.%20028U3233.md). 
  
  Dette deleghe saranno pagate annualmente dagli esattori delegati in tre rate corrispondenti alle scadenze stabilite per i pagamenti dei canoni di vendita dell'acqua iscritti nei detti ruoli, nel termine di cui all'[art. 80, del testo unico 17 ottobre 1922, n. 1401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1922-10-17;1401#art_80), sulla riscossione delle imposte dirette.
 
@@ -48,7 +48,7 @@ Il pagamento delle annualita' sara' garantito dall'Ente mutuatario col rilascio 
 
 ## Art. 5.
 
-Per tutto quanto non sia contemplato dalle presenti disposizioni, valgono le norme che regolano il servizio dei prestiti della Cassa depositi, di cui al titolo IV, capitolo 3°, sezione 1ª, del [testo unico 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-01-02;453), del relativo regolamento e della successiva [legge 11 aprile 1938, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-04-11;498).
+Per tutto quanto non sia contemplato dalle presenti disposizioni, valgono le norme che regolano il servizio dei prestiti della Cassa depositi, di cui al titolo IV, capitolo 3°, sezione 1ª, del [testo unico 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-01-02;453), del relativo regolamento e della successiva [legge 11 aprile 1938, n. 498](Modificazioni%20ed%20aggiunte%20alle%20norme%20vigenti%20in%20materia%20di%20mutui%20della%20Cassa%20depositi%20e%20prestiti.%20038U0498.md).
 
 ## Art. 6.
 

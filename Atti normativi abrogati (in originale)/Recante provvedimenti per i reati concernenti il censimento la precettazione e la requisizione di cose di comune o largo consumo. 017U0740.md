@@ -236,7 +236,7 @@ Per i reati previsti nel presente decreto non sono applicabili le disposizioni d
 
 ### Art. 34.
 
-In caso di mancato pagamento, nel termine stabilito nell'art. 46 del presente decreto la multa si converte in detenzione e l'ammenda in arresto, a norma dell'[art. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_19) e dell'[art. 24 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_24).
+In caso di mancato pagamento, nel termine stabilito nell'art. 46 del presente decreto la multa si converte in detenzione e l'ammenda in arresto, a norma dell'[art. 19](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[art. 24 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 35.
 

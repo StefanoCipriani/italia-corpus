@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 febbraio 1927, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-10;133), circa la proroga del termine stabiliti dall'[art. 1 del R. decreto-legge 10 gennaio 1926, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;14#art_1), per la sistemazione delle sedi notarili nei territori annessi al Regno. 
+ E' convertito in legge il [R. decreto-legge 10 febbraio 1927, n. 133](Proroga%20del%20termine%20stabilito%20dallart.%201%20del%20R.%20decreto-legge%2010%20gennaio%201926%20n.%2014%20per%20la%20sistemazione%20delle%20sedi%20notarili%20nei%20territori%20annessi%20al%20Regno.%20027U0133.md), circa la proroga del termine stabiliti dall'[art. 1 del R. decreto-legge 10 gennaio 1926, n. 14](Sistemazione%20delle%20sedi%20notarili%20nei%20territori%20annessi%20al%20Regno.%20026U0014.md), per la sistemazione delle sedi notarili nei territori annessi al Regno. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

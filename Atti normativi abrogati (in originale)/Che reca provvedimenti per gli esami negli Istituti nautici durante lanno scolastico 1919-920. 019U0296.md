@@ -22,9 +22,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto-legge Luogotenenziale 11 ottobre 1917, n. 1661](Col%20quale%20e%20stabilito%20il%20passaggio%20degli%20Istituti%20nautici%20alla%20dipendenza%20del%20Ministero%20della%20marina.%20017U1661.md);
 
-Vista la [legge 27 giugno 1912, n. 678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;678);
+Vista la [legge 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md);
 
-Visto il regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1217);
+Visto il regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md);
 
 Visto il [decreto Luogotenenziale 16 maggio 1918, n. 731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-16;731);
 
@@ -34,7 +34,7 @@ Sulla proposta del ministro della marina; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-In deroga al disposto dell'[art. 2 della legge 27 giugno 1912, n. 678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;678#art_2), e dell'[art. 4 del regolamento 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217#art_4), e' confermata, per il solo anno scolastico 1918-919, la concessione della dispensa dagli esami, cosi' di promozione come di licenza, a favore degli alunni dei RR. Istituti nautici, per le materie nelle quali essi conseguiranno classificazioni non inferiori a sei decimi in profitto e a sette in condotta.
+In deroga al disposto dell'[art. 2 della legge 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md), e dell'[art. 4 del regolamento 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217#art_4), e' confermata, per il solo anno scolastico 1918-919, la concessione della dispensa dagli esami, cosi' di promozione come di licenza, a favore degli alunni dei RR. Istituti nautici, per le materie nelle quali essi conseguiranno classificazioni non inferiori a sei decimi in profitto e a sette in condotta.
 
 ## Art. 2.
 

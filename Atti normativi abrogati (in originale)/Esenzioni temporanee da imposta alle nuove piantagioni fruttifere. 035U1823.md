@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il testo unico delle leggi sul nuovo catasto approvato col [R. decreto 8 ottobre 1931, n. 1572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1572), ed il relativo regolamento;
 
-Visto il [R. decreto 31 dicembre 1923, n. 3071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3071), relativo alle esenzioni temporanee d'imposta accordate alle nuove piantagioni fruttifere;
+Visto il [R. decreto 31 dicembre 1923, n. 3071](Esenzioni%20temporanee%20dimposta%20alle%20nuove%20piantagioni%20fruttifere.%20023U3071.md), relativo alle esenzioni temporanee d'imposta accordate alle nuove piantagioni fruttifere;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,9 +28,9 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Articolo unico.
 
-L'[art. 1 del R. decreto 31 dicembre 1923, n. 3071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3071#art_1), viene cosi' modificato: 
+L'[art. 1 del R. decreto 31 dicembre 1923, n. 3071](Esenzioni%20temporanee%20dimposta%20alle%20nuove%20piantagioni%20fruttifere.%20023U3071.md), viene cosi' modificato: 
  
- Il periodo di esenzione temporanea dell'aumento dell'imposta terreni per i miglioramenti introdotti nelle colture, che l'[art. 1 del R. decreto 16 dicembre 1922, n. 1717](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-16;1717#art_1), assegna genericamente in cinque anni, viene stabilito per i nuovi impianti di alberi ed arbusti nelle durate speciali indicate qui di seguito. 
+ Il periodo di esenzione temporanea dell'aumento dell'imposta terreni per i miglioramenti introdotti nelle colture, che l'[art. 1 del R. decreto 16 dicembre 1922, n. 1717](Concernente%20la%20revisione%20periodica%20del%20classamento%20dei%20terreni%20agli%20effetti%20del%20nuovo%20catasto.%20022U1717.md), assegna genericamente in cinque anni, viene stabilito per i nuovi impianti di alberi ed arbusti nelle durate speciali indicate qui di seguito. 
  
  L'esenzione ordinaria di cinque anni viene mantenuta per le seguenti piantagioni: vite bassa (a ceppaia ad alberello, a cordone orizzontale annuo e simili), pesco, fico, cotogno, gelso a siepe o a ceppaia o a prato, sommacco. 
  

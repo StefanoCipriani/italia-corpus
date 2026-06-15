@@ -20,7 +20,7 @@ PROMULGA la seguente legge:
 
 ### Art. 1.
 
-La parte seconda del libro II del testo unico approvato con [regio decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), e' sostituita come segue:
+La parte seconda del libro II del testo unico approvato con [regio decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), e' sostituita come segue:
 
  DELLA SEZIONE AUTONOMA
  DI CREDITO COMUNALE E PROVINCIALE
@@ -68,7 +68,7 @@ Titolo III. - DELLE CARTELLE DI CREDITO COMUNALE E PROVINCIALE.
 
 ### Art. 2.
 
-Al libro II del testo unico approvato con [regio decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), e' aggiunta una parte terza cosi' costituita: 
+Al libro II del testo unico approvato con [regio decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), e' aggiunta una parte terza cosi' costituita: 
  
  DELLA SEZIONE AUTONOMA 
  PER IL CREDITO A BREVE TERMINE 
@@ -87,7 +87,7 @@ Al libro II del testo unico approvato con [regio decreto 2 gennaio 1913, n. 453]
  Art. 5. - Nei limiti e alle condizioni stabilite dal precedente articolo 2, le anticipazioni sono concesse con determinazione del direttore generale della Cassa depositi e prestiti, che puo' disporne anche la contemporanea erogazione. 
  I provvedimenti, cosi' adottati, sono comunicati, al consiglio di amministrazione della Cassa depositi e prestiti alla prima adunanza successiva. 
  Art. 6. - Il consiglio comunale o provinciale con lo stesso atto deliberativo del bilancio o con atto successivo, delibera la richiesta di anticipazione sulla base del mutuo autorizzato a ripiano del disavanzo del bilancio del precedente esercizio. 
- La deliberazione anzidetta e' adottata senza l'osservanza degli articoli 190 e 259 del testo unico della legge comunale e provinciale, approvato con [regio decreto 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-04;148), e norme corrispondenti degli ordinamenti degli enti locali nelle Regioni a statuto speciale, e non e' soggetta a speciale approvazione. 
+ La deliberazione anzidetta e' adottata senza l'osservanza degli articoli 190 e 259 del testo unico della legge comunale e provinciale, approvato con [regio decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e norme corrispondenti degli ordinamenti degli enti locali nelle Regioni a statuto speciale, e non e' soggetta a speciale approvazione. 
  La richiesta di anticipazione e' fatta dal rappresentante del comune o della provincia ed e' trasmessa direttamente alla Sezione autonoma per il credito a breve termine, e per conoscenza alla prefettura competente, corredata dalla deliberazione di cui sopra nonche' dal decreto di autorizzazione del mutuo concesso nell'esercizio precedente. 
  I fondi provenienti da dette anticipazioni debbono essere utilizzati dall'ente esclusivamente per il pagamento di spese agli aventi diritto, o ai loro aventi causa, iscritte nel bilancio di previsione cui si riferisce l'anticipazione. 
  I mandati di somministrazione delle anticipazioni sono pagabili senza il concorso dell'autorita' tutoria di cui all'articolo 169 del regolamento approvato con [decreto luogotenenziale 23 marzo 1919, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-23;1058). 
@@ -109,7 +109,7 @@ Per i disavanzi economici dei bilanci comunali e provinciali relativi all'eserci
 
 ### Art. 4.
 
-L'articolo 305 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), e' sostituito dal seguente: 
+L'articolo 305 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e' sostituito dal seguente: 
  "I bilanci dei comuni fino a 100 mila abitanti, che non siano capoluoghi di provincia, devono essere deliberati entro il 31 ottobre dell'anno precedente a quello cui si riferiscono. 
  Per gli altri comuni e per le province il termine e' fissato rispettivamente al 30 novembre e al 15 dicembre dell'anno precedente. 
  Le giunte comunali e provinciali convocano i rispettivi consigli in tempo utile per assicurare la deliberazione del bilancio entro i termini di cui ai commi precedenti. La riunione dei consigli medesimi deve avere comunque luogo entro 30 giorni prima dei termini suddetti. 
@@ -121,7 +121,7 @@ L'articolo 305 del testo unico della legge comunale e provinciale, approvato con
 ### Art. 5.
 
 Le perdite di esercizio regolarmente accertate delle aziende speciali di trasporto di cui al testo unico approvato con [regio decreto 15 ottobre 1925, n. 2578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578), relative agli esercizi 1967, 1968 e 1969, concorrono, a richiesta del comune o della provincia, nella misura del 50 per cento, o comunque in misura non inferiore a quella inscritta nell'ultimo bilancio comunale o provinciale approvato, alla formazione del disavanzo economico del bilancio di previsione degli enti municipalizzatori o provincializzatori ai fini dell'autorizzazione del mutuo per la copertura dell'anzidetto disavanzo.
- I mutui per il finanziamento della residua perdita di esercizio possono essere concessi dalla Cassa depositi e prestiti, dalla Sezione autonoma di credito comunale e provinciale, istituita presso la Cassa stessa, o da altro Istituto di credito e ad essi non sono applicabili le limitazioni di cui al primo comma dell'articolo 300 del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383).
+ I mutui per il finanziamento della residua perdita di esercizio possono essere concessi dalla Cassa depositi e prestiti, dalla Sezione autonoma di credito comunale e provinciale, istituita presso la Cassa stessa, o da altro Istituto di credito e ad essi non sono applicabili le limitazioni di cui al primo comma dell'articolo 300 del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
  Detti mutui possono essere garantiti dallo Stato, con decreto del Ministro per il tesoro, qualora i mutuatari non abbiano disponibilita' sui cespiti delegabili di cui al successivo articolo 15.
  Il ricavato dei mutui deve essere destinato alla estinzione dei finanziamenti ottenuti o di altre passivita' esistenti in relazione alla residua perdita di cui al secondo comma.
  Alle aziende municipalizzate o provincializzate di cui al primo comma puo' essere concesso il sussidio governativo previsto dalla [legge 28 settembre 1939, numero 1822](Disciplina%20degli%20autoservizi%20di%20linea%20autolinee%20per%20viaggiatori%20bagagli%20e%20pacchi%20agricoli%20in%20regime%20di%20concessione%20allindustria%20privata.%20039U1822.md), e successive modificazioni.
@@ -138,7 +138,7 @@ Il Ministro per i trasporti e per l'aviazione civile puo' disporre indagini circ
 
 ### Art. 7.
 
-Il termine previsto dall'[articolo 4 del decreto-legge 9 novembre 1966, n. 913](Modificazioni%20al%20regime%20fiscale%20delle%20benzine%20speciali%20diverse%20dallacqua%20ragia%20minerale%20della%20benzina%20e%20del%20petrolio%20diverso%20da%20quello%20lampante%20nonche%20dei%20gas%20di%20petrolio%20liquefatti%20per%20autotrazione.md), convertito nella [legge 23 dicembre 1966, n. 1140](Conversione%20in%20legge%20del%20decreto-legge%209%20novembre%201966%20n.%20913%20recante%20modificazioni%20al%20regime%20fiscale%20delle%20benzine%20speciali%20diverse%20dallacqua%20ragia%20minerale%20della%20benzina%20e%20del%20petrolio%20_73efa68c9dce.md), prorogato al 31 dicembre 1970 dall'[articolo 61 del decreto-legge 27 febbraio 1968, numero 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-02-27;79#art_61), convertito, con modificazioni, nella [legge 18 marzo 1968, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;241), e' soppresso.
+Il termine previsto dall'[articolo 4 del decreto-legge 9 novembre 1966, n. 913](Modificazioni%20al%20regime%20fiscale%20delle%20benzine%20speciali%20diverse%20dallacqua%20ragia%20minerale%20della%20benzina%20e%20del%20petrolio%20diverso%20da%20quello%20lampante%20nonche%20dei%20gas%20di%20petrolio%20liquefatti%20per%20autotrazione.md), convertito nella [legge 23 dicembre 1966, n. 1140](Conversione%20in%20legge%20del%20decreto-legge%209%20novembre%201966%20n.%20913%20recante%20modificazioni%20al%20regime%20fiscale%20delle%20benzine%20speciali%20diverse%20dallacqua%20ragia%20minerale%20della%20benzina%20e%20del%20petrolio%20_73efa68c9dce.md), prorogato al 31 dicembre 1970 dall'[articolo 61 del decreto-legge 27 febbraio 1968, numero 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-02-27;79#art_61), convertito, con modificazioni, nella [legge 18 marzo 1968, n. 241](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20febbraio%201968%20n.%2079%20concernente%20ulteriori%20interventi%20e%20provvidenze%20per%20la%20ricostruzione%20e%20per%20la%20ripresa%20economica%20dei%20comuni%20d_c459238ac72c.md), e' soppresso.
  Le maggiori entrate derivanti dalla soppressione del termine di cui al precedente comma sono riservate esclusivamente all'erario dello Stato e devolute, a decorrere dal 1 gennaio 1971, a favore dei comuni.
  La ripartizione viene effettuata:
  a) per meta' in proporzione diretta della popolazione residente, in base ai dati del censimento ufficiale demografico;
@@ -149,7 +149,7 @@ Il termine previsto dall'[articolo 4 del decreto-legge 9 novembre 1966, n. 913](
 
 ### Art. 8.
 
-A decorrere dal 1 gennaio 1971, l'assegnazione a favore delle province sul fondo di cui al secondo comma dell'articolo 10 del testo unico delle leggi sulle tasse automobilistiche, approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953-02-05;39), e' elevato da un terzo a due quinti dell'ammontare dei versamenti annui delle tasse di circolazione.
+A decorrere dal 1 gennaio 1971, l'assegnazione a favore delle province sul fondo di cui al secondo comma dell'articolo 10 del testo unico delle leggi sulle tasse automobilistiche, approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), e' elevato da un terzo a due quinti dell'ammontare dei versamenti annui delle tasse di circolazione.
 
 ### Art. 9.
 
@@ -157,7 +157,7 @@ Il fondo da istituire negli anni 1969 e 1970 nel bilancio del Ministero dell'int
 
 ### Art. 10.
 
-A decorrere dall'anno 1971, ai comuni e alle province che, nonostante l'applicazione dei tributi con eccedenze sulle aliquote massime in misura non inferiore a quelle fissate dall'articolo 306 del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383) e successive modificazioni ed aggiunte, con le eccezioni previste dall'[articolo 11 della legge 3 febbraio 1963, n. 56](Ripianamento%20dei%20bilanci%20comunali%20e%20provinciali%20deficitari%20per%20gli%20anni%201962%201963%201964%20e%201965.md), non conseguano il pareggio economico del bilancio, e' concesso un contributo annuale, sempre che non fruiscano di particolari provvidenze dello Stato previste in leggi speciali.
+A decorrere dall'anno 1971, ai comuni e alle province che, nonostante l'applicazione dei tributi con eccedenze sulle aliquote massime in misura non inferiore a quelle fissate dall'articolo 306 del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md) e successive modificazioni ed aggiunte, con le eccezioni previste dall'[articolo 11 della legge 3 febbraio 1963, n. 56](Ripianamento%20dei%20bilanci%20comunali%20e%20provinciali%20deficitari%20per%20gli%20anni%201962%201963%201964%20e%201965.md), non conseguano il pareggio economico del bilancio, e' concesso un contributo annuale, sempre che non fruiscano di particolari provvidenze dello Stato previste in leggi speciali.
  Per i comuni montani e per quelli delle piccole isole, determinati ai sensi dell'[articolo 1 della legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991#art_1) e dell'[articolo 3 della legge 2 luglio 1952, n. 703](Disposizioni%20in%20materia%20di%20finanza%20locale.md) e successive modificazioni ed aggiunte, la misura delle eccedenze indicate nel primo comma e' ridotta a meta'.
  Alla copertura dell'onere derivante dall'applicazione dei precedenti commi si provvedera' con apposito fondo da istituire annualmente nel bilancio del Ministero dell'interno e da ripartire nella misura di un quarto alle province e di tre quarti ai comuni.
  Al predetto fondo e' devoluta la quota del 4 per cento del provente dell'IGE, al netto delle restituzioni e dei rimborsi, riscosso nel terzo esercizio antecedente.
@@ -200,7 +200,7 @@ A garanzia dell'ammortamento dei mutui da contrarre con la Cassa depositi e pres
 
 ### Art. 16.
 
-La somministrazione dei mutui, assistiti dal contributo o concorso statali, concessi dalla Cassa depositi e prestiti, nonche' dagli altri istituti di cui all'articolo precedente, avviene su richiesta del rappresentante legale dell'ente interessato, corredata dallo stato di avanzamento dei lavori, vistato dal Genio civile, in deroga all'articolo 82 del testo unico delle leggi riguardanti l'amministrazione della Cassa depositi e prestiti, approvato con [regio decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), ed in deroga all'articolo 168 del regolamento approvato con [decreto luogotenenziale 23 marzo 1919, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-23;1058).
+La somministrazione dei mutui, assistiti dal contributo o concorso statali, concessi dalla Cassa depositi e prestiti, nonche' dagli altri istituti di cui all'articolo precedente, avviene su richiesta del rappresentante legale dell'ente interessato, corredata dallo stato di avanzamento dei lavori, vistato dal Genio civile, in deroga all'articolo 82 del testo unico delle leggi riguardanti l'amministrazione della Cassa depositi e prestiti, approvato con [regio decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), ed in deroga all'articolo 168 del regolamento approvato con [decreto luogotenenziale 23 marzo 1919, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-23;1058).
 
 ### Art. 17.
 
@@ -220,7 +220,7 @@ L'obbligo da parte dei comuni di corrispondere allo Stato, in sede di assegnazio
 
 Art. 19;
 
- L'articolo 22 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), e successive modificazioni, e' sostituito dal seguente:
+ L'articolo 22 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, e' sostituito dal seguente:
  "Le imposte di consumo sono applicate entro i limiti indicati all'articolo 95 secondo le classificazioni, le qualificazioni ed i valori medi stabiliti dal Ministero delle finanze, sentita una commissione composta da un rappresentante dei Ministeri delle finanze e dell'industria e commercio, da un rappresentante dell'istituto centrale di statistica e da tre rappresentanti dei comuni designati dall'associazione nazionale comuni d'Italia.
  La determinazione dei valori medi e' effettuata ogni anno in base alla media dei prezzi al minuto, non computata l'imposta e con riferimento al precedente periodo 1 ottobre-30 settembre.
  Su motivata proposta dei comitati provinciali dei prezzi, integrati da cinque sindaci nominati dal consiglio provinciale, i valori medi possono essere differenziati, per determinate province e gruppi di comuni, in relazione a particolari situazioni locali. Le relative proposte, che possono riguardare anche la classificazione e la qualificazione dei generi, debbono pervenire al Ministero delle finanze entro il 30 giugno di ogni anno.
@@ -248,13 +248,13 @@ La [lettera a) dell'articolo 2 della legge 4 aprile 1964, n. 171](https://www.no
 
 ### Art. 23.
 
-L'articolo 20 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), e successive modificazioni, e' modificato come segue:
+L'articolo 20 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, e' modificato come segue:
  al primo comma sono soppresse le parole: "dolciumi, cacao e cioccolato" e le parole "e gas in bombole";
  al secondo comma, dopo le parole: "vetri e cristalli in lavori" sono aggiunte le parole: "dolciumi, cacao e cioccolato, gas in bombole per illuminazione, riscaldamento e usi domestici".
 
 ### Art. 24.
 
-L'articolo 63 del testo unico per la finanza locale approvato con [regio decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), e successive modificazioni, e' sostituito dal seguente:
+L'articolo 63 del testo unico per la finanza locale approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, e' sostituito dal seguente:
  "Il capo ufficio delle imposte di consumo, presso il quale sono stati invitati i trasgressori a portare le merci, dispone che sia redatto, secondo le norme del regolamento, il processo verbale da trasmettere al sindaco.
  Se il processo verbale si riferisce a delitti previsti dal precedente articolo, il sindaco lo invia all'autorita' giudiziaria; se, invece, si riferisce a contravvenzioni, lo trattiene fino al trentesimo giorno dalla redazione del verbale stesso, per inviarlo all'autorita' giudiziaria qualora non sia stata presentata, entro detto periodo, domanda per la definizione amministrativa della trasgressione, ai sensi dell'articolo 66 del presente testo unico.
  Quando il processo verbale si riferisce a contravvenzioni deve essere fatta espressa menzione del diritto del trasgressore di presentare, entro trenta giorni dalla data del verbale, domanda per la definizione amministrativa della trasgressione.
@@ -267,7 +267,7 @@ Il primo comma dell'articolo 297-sexies, sub [articolo 4 della legge 18 maggio 1
 
 ### Art. 26.
 
-Le esenzioni previste dal [secondo comma dell'articolo 45 del decreto-legge 15 marzo 1965, n. 124](Interventi%20per%20la%20ripresa%20della%20economia%20nazionale.md), convertito, con modificazioni, nella [legge 13 maggio 1965, n. 431, dall'articolo 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-13;431#art_17) del [decreto-legge 6 settembre 1965, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-09-06;1022), convertito, con modificazioni, nella [legge 1 novembre 1965, n. 1179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-01;1179), nonche' dal comma aggiunto con la [legge 7 febbraio 1968, n. 26, all'articolo 3](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20dicembre%201967%20n.%201150%20concernente%20la%20proroga%20dei%20termini%20per%20lapplicazione%20delle%20agevolazioni%20tributarie%20in%20materia%20di%20edilizia.md) del [decreto-legge 11 dicembre 1967, n. 1150](Proroga%20dei%20termini%20per%20lapplicazione%20delle%20agevolazioni%20tributarie%20in%20materia%20di%20edilizia.md), si applicano alle costruzioni economiche e popolari, contemplate dalle disposizioni stesse, ultimate entro il 31 dicembre 1973.
+Le esenzioni previste dal [secondo comma dell'articolo 45 del decreto-legge 15 marzo 1965, n. 124](Interventi%20per%20la%20ripresa%20della%20economia%20nazionale.md), convertito, con modificazioni, nella [legge 13 maggio 1965, n. 431, dall'articolo 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20marzo%201965%20n.%20124%20recante%20interventi%20per%20la%20ripresa%20della%20economia%20nazionale.md) del [decreto-legge 6 settembre 1965, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-09-06;1022), convertito, con modificazioni, nella [legge 1 novembre 1965, n. 1179](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20settembre%201965%20n.%201022%20recante%20norme%20per%20lincentivazione%20dellattivita%20edilizia.md), nonche' dal comma aggiunto con la [legge 7 febbraio 1968, n. 26, all'articolo 3](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20dicembre%201967%20n.%201150%20concernente%20la%20proroga%20dei%20termini%20per%20lapplicazione%20delle%20agevolazioni%20tributarie%20in%20materia%20di%20edilizia.md) del [decreto-legge 11 dicembre 1967, n. 1150](Proroga%20dei%20termini%20per%20lapplicazione%20delle%20agevolazioni%20tributarie%20in%20materia%20di%20edilizia.md), si applicano alle costruzioni economiche e popolari, contemplate dalle disposizioni stesse, ultimate entro il 31 dicembre 1973.
 
 (Disposizioni finanziarie)
 

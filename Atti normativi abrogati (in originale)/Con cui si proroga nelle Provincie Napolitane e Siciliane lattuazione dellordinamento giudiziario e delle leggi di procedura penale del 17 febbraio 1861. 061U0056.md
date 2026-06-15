@@ -16,7 +16,7 @@ L'esecuzione dell'ordinamento giudiziario e delle leggi di procedura penale pubb
 
 L'esecuzione delle leggi sovra indicate , non che di quella del 13 novembre 1859 sugli stipendi dei Funzionari giudiziari, pubblicata con Decreto del 17 febbraio 1861, per le Provincie Siciliane, e' prorogata ugualmente al 1.° gennaio 1862. 
  
- Il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) pubblicato collo stesso Decreto avra  esecuzione
+ Il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pubblicato collo stesso Decreto avra  esecuzione
 dal 1.° novembre 1861 colle modificazioni ed aggiunte apportate allo stesso col Decreto del Luogotenente delle Provincie Napoletane del 17 febbraio 1861.
 
 ## Art. 3.

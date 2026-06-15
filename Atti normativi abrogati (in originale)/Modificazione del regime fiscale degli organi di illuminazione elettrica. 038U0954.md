@@ -228,19 +228,19 @@ Chiunque fabbrichi clandestinamente i prodotti contemplati nell'art. 1 del prese
  
  Con la stessa pena e' punito chiunque fabbrichi i prodotti di cui al precedente comma in tempi diversi da quelli indicati nella dichiarazione di lavoro. 
  
- Gli apparecchi, i prodotti e le materie prime sono soggetti a confisca, a termini della legge doganale e in deroga alle disposizioni dell'[art. 240 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+ Gli apparecchi, i prodotti e le materie prime sono soggetti a confisca, a termini della legge doganale e in deroga alle disposizioni dell'[art. 240 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 19.
 
 Gli organi di illuminazione trovati in circolazione in depositi o in esercizi per la vendita non condizionati com'e' prescritto dal presente decreto, sono considerati in contrabbando ed i detentori sono puniti con multa variabile dal doppio al decuplo del diritti di confine. Qualora la multa cosi' determinata risulti inferiore a L. 200 sara' ritenuta in questa somma. 
  
- I prodotti sequestrati sono soggetti a confisca a termini della legge doganale e in deroga alle disposizioni dell'[articolo 240 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+ I prodotti sequestrati sono soggetti a confisca a termini della legge doganale e in deroga alle disposizioni dell'[articolo 240 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 20.
 
 Chiunque sottragga o tenti sottrarre con qualunque mezzo i prodotti allo accertamento dell'imposta prevista dal presente decreto, e' punito con la multa non minore del doppio ne' maggiore del decuplo dell'imposta frodata o che abbia tentato di frodare. 
  
- I prodotti sottratti o che si tentava di sottrarre ed i mezzi adoperati per commettere la frode sono soggetti a confisca, a termini della legge doganale e in deroga alle disposizioni dell'[art. 240 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+ I prodotti sottratti o che si tentava di sottrarre ed i mezzi adoperati per commettere la frode sono soggetti a confisca, a termini della legge doganale e in deroga alle disposizioni dell'[art. 240 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 21.
 
@@ -296,7 +296,7 @@ In deroga a quanto dispone l'[art. 21 della legge 7 gennaio 1929, n. 4](https://
 
 ### Art. 29.
 
-Per la devoluzione o per la ripartizione delle ammende e delle multe riscosse in dipendenza di violazioni delle norme del presente decreto si osservano, in deroga agli [articoli 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_24) e [26 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_26), le disposizioni della legge doganale e del relativo regolamento. 
+Per la devoluzione o per la ripartizione delle ammende e delle multe riscosse in dipendenza di violazioni delle norme del presente decreto si osservano, in deroga agli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le disposizioni della legge doganale e del relativo regolamento. 
  
  Le disposizioni della legge e del regolamento anzidetti si applicano parimenti per la erogazione delle somme ricavate dalla vendita delle cose sequestrate o comunque recuperate in dipendenza di violazioni delle norme del presente decreto. 
  

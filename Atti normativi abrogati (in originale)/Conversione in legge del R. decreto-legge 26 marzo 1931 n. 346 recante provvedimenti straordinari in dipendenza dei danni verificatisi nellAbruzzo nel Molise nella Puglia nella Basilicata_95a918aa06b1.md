@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 marzo 1931, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-03-26;346), recante provvedimenti straordinari in dipendenza dei danni verificatisi nell'Abruzzo, nel Molise, nella Puglia, nella Basilicata, nella Calabria, nella Sicilia e nella Sardegna in seguito ad alluvioni, frane e mareggiate dell'inverno 1930-31. 
+ E' convertito in legge il [R. decreto-legge 26 marzo 1931, n. 346](Provvedimenti%20straordinari%20in%20dipendenza%20dei%20danni%20verificatisi%20nellAbruzzo%20nel%20Molise%20nella%20Puglia%20nella%20Basilicata%20nella%20Calabria%20nella%20Sicilia%20e%20nella%20Sardegna%20in%20seguito%20ad%20alluvioni%20_21ed90f0efbe.md), recante provvedimenti straordinari in dipendenza dei danni verificatisi nell'Abruzzo, nel Molise, nella Puglia, nella Basilicata, nella Calabria, nella Sicilia e nella Sardegna in seguito ad alluvioni, frane e mareggiate dell'inverno 1930-31. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia incerta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

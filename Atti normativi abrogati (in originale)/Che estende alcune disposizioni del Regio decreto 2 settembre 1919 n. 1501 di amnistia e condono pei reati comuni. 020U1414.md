@@ -29,7 +29,7 @@ Cessano per amnistia tutti gli effetti penali delle condanne delle quali fu sosp
 
 ## Art. 3.
 
-L'amnistia concessa con l'[art. 1, n. 2, R. decreto 2 settembre 1919, n. 1501](Di%20amnistia%20e%20condono%20di%20reati%20comuni.%20019U1501.md), e col [R. decreto 11 settembre 1919, n. 1638](Che%20estende%20lamnistia%20conceduta%20nel%20comma%202%20dellart.%201%20del%20R.%20decreto%202%20settembre%201919%20n.%201501%20ai%20reati%20colposi%20preveduti%20nellart.%20314%20del%20Codice%20penale.%20019U1638.md), e' estesa ai reati colposi preveduti nell'[art. 311 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_311), commessi non oltre il 1° settembre 1919.
+L'amnistia concessa con l'[art. 1, n. 2, R. decreto 2 settembre 1919, n. 1501](Di%20amnistia%20e%20condono%20di%20reati%20comuni.%20019U1501.md), e col [R. decreto 11 settembre 1919, n. 1638](Che%20estende%20lamnistia%20conceduta%20nel%20comma%202%20dellart.%201%20del%20R.%20decreto%202%20settembre%201919%20n.%201501%20ai%20reati%20colposi%20preveduti%20nellart.%20314%20del%20Codice%20penale.%20019U1638.md), e' estesa ai reati colposi preveduti nell'[art. 311 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), commessi non oltre il 1° settembre 1919.
 
 ## Art. 4.
 

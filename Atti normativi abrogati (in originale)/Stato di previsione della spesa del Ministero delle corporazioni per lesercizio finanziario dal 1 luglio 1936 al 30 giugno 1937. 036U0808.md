@@ -18,7 +18,7 @@ E' approvato il bilancio del Fondo speciale delle corporazioni per l'esercizio f
 
 ## Art. 3.
 
-Il contributo a favore dell'Ente nazionale serico, cui al [R. decreto-legge 16 dicembre 1926, n. 2265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2265), convertito nella [legge 13 dicembre 1928, n. 3107](Conversione%20in%20legge%20con%20modifiche%20del%20R.%20decreto-legge%2016%20dicembre%201926%20n.%202265%20concernente%20listituzione%20dellEnte%20nazionale%20serico.%20028U3107.md), e' stabilito, per l'esercizio 1936-37, L.
+Il contributo a favore dell'Ente nazionale serico, cui al [R. decreto-legge 16 dicembre 1926, n. 2265](Istituzione%20dellEnte%20nazionale%20serico.%20026U2265.md), convertito nella [legge 13 dicembre 1928, n. 3107](Conversione%20in%20legge%20con%20modifiche%20del%20R.%20decreto-legge%2016%20dicembre%201926%20n.%202265%20concernente%20listituzione%20dellEnte%20nazionale%20serico.%20028U3107.md), e' stabilito, per l'esercizio 1936-37, L.
 1.250.000. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla servire come legge dello Stato. 

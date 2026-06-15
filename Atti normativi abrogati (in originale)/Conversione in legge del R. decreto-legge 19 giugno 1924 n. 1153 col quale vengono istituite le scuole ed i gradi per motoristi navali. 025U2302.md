@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 giugno 1924, n. 1153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-06-19;1153), col quale vengono istituite le scuole i gradi per motoristi navali colle seguenti varianti e aggiunte: 
+ E' convertito in legge il [R. decreto-legge 19 giugno 1924, n. 1153](Istituzione%20dei%20gradi%20marittimi%20di%20Macchinista%20per%20motonavi%20e%20di%20Motorista%20navale.%20024U1153.md), col quale vengono istituite le scuole i gradi per motoristi navali colle seguenti varianti e aggiunte: 
  
  Alla fine del primo comma dell'art. 5 dopo le parole: « navali e meccanici » aggiungere le parole: « e industriali ». 
  

@@ -18,7 +18,7 @@ Le disposizioni contenute nell'art. 1 del decreto Ministeriale del 30 giugno 186
 
 ## Art. 2.
 
-La liquidazione ed il pagamento delle quote d'aggio col detto decreto assegnate ai ricevitori ed ai cancellieri seguiranno nei modi prescritti dal regolamento di contabilita' generale approvato con [Regio decreto 4 settembre 1870, n. 5852](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-09-04;5852). 
+La liquidazione ed il pagamento delle quote d'aggio col detto decreto assegnate ai ricevitori ed ai cancellieri seguiranno nei modi prescritti dal regolamento di contabilita' generale approvato con [Regio decreto 4 settembre 1870, n. 5852](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20Legge%2022%20aprile%201869%20n.%205026%20sulla%20Amministrazione%20del%20patrimonio%20dello%20Stato%20e%20sulla%20Contabilita%20generale.%20070U5852.md). 
  
  Il presente decreto, previa registrazione alla Corte dei conti, sara' inserito nella Raccolta ufficiale degli atti del Governo. 
  

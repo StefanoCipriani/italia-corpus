@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 La dirigenza degli uffici di istruzione nelle sedi indicate nella tabella A annessa alla presente legge e' conferita a magistrati di Cassazione, secondo le norme vigenti e salvo il disposto dell'articolo 3.
  Presso gli stessi uffici e nelle sedi indicate nella suddetta tabella A sono istituite le funzioni di consigliere istruttore aggiunto, da conferire, secondo le norme in vigore, a magistrati di corte di appello.
- Per le sedi predette e nei sensi indicati nella suddetta tabella A e' modificata la tabella A allegata al [decreto del Presidente della Repubblica 20 novembre 1969, n. 1006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-11-20;1006).
+ Per le sedi predette e nei sensi indicati nella suddetta tabella A e' modificata la tabella A allegata al [decreto del Presidente della Repubblica 20 novembre 1969, n. 1006](../DPR/Ripristino%20della%20pianta%20organica%20dei%20consiglieri%20istruttori%20nei%20tribunali%20di%20cui%20alla%20tabella%20F%20allegata%20al%20decreto%20del%20Presidente%20della%20Repubblica%2031%20dicembre%201966%20n.%201185.md).
  Nulla e' innovato per quanto riguarda le disposizioni contenute nell'ultimo comma dell'[articolo 1 della legge 4 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1#art_1).
 
 ## Art. 2.

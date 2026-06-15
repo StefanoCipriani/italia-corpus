@@ -54,7 +54,7 @@ L'ispettorato centrale tecnico delle miniere, di cui alla lettera b), dell'art. 
 
 Il direttore generale dei combustibili e servizi diversi fa parte di diritto del Consiglio superiore delle miniere e del Regio Comitato geologico. 
  
- Il Consiglio superiore delle miniere da' parere, ogni qualvolta ne sia richiesto dal ministro, su relazione della Direzione generale dei combustibili e servizi diversi e dell'Ispettorato centrale delle miniere. In tal caso, il parere del Consiglio superiore sostituisce quello di ogni altro corpo consultivo dello Stato, ai termini dell'[art. 3 del R. decreto 4 gennaio 1920, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-04;19#art_3).
+ Il Consiglio superiore delle miniere da' parere, ogni qualvolta ne sia richiesto dal ministro, su relazione della Direzione generale dei combustibili e servizi diversi e dell'Ispettorato centrale delle miniere. In tal caso, il parere del Consiglio superiore sostituisce quello di ogni altro corpo consultivo dello Stato, ai termini dell'[art. 3 del R. decreto 4 gennaio 1920, n. 19](Che%20modifica%20la%20composizione%20del%20Consiglio%20superiore%20delle%20miniere%20del%20R.%20Comitato%20geologico%20e%20si%20stabiliscono%20altresi%20le%20funzioni%20della%20Direzione%20generale%20delle%20miniere%20e%20dellIspettorato_f95b6ddad6d3.md).
 
 ## Art. 4.
 

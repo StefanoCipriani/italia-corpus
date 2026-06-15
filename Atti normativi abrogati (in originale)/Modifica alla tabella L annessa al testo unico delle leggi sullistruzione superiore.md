@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Visto il [decreto del Presidente della Repubblica 26 marzo 1970, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-03-26;260), con il quale sono state istituite, presso la Universita' L.
+ Visto il [decreto del Presidente della Repubblica 26 marzo 1970, n. 260](../DPR/Modificazioni%20allo%20statuto%20della%20libera%20Universita%20commerciale%20L.%20Bocconi%20di%20Milano.md), con il quale sono state istituite, presso la Universita' L.
 Bocconi di Milano, i corsi di laurea in economia aziendale ed in economia politica; 
  Visto l'art. 173 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
  Sentito il parere del Consiglio superiore della pubblica istruzione, espresso nell'adunanza del 21 gennaio c. a., il cui testo e' allegato al presente decreto e le cui considerazioni si intendono integralmente qui riprodotte; 

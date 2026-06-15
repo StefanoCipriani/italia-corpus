@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 giugno 1933, n. 1093](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-29;1093), recante norme sulla circolazione dei motocicli e delle motoleggere. 
+ E' convertito in legge il [R. decreto-legge 29 giugno 1933, n. 1093](Modificazioni%20alle%20vigenti%20norme%20sulla%20circolazione%20delle%20motoleggere%20dei%20motocicli%20ed%20a%20quelle%20sui%20loro%20conducenti.%20033U1093.md), recante norme sulla circolazione dei motocicli e delle motoleggere. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

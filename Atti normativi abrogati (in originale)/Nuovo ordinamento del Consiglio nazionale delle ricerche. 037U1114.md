@@ -186,7 +186,7 @@ Il Consiglio nazionale delle ricerche esprime il proprio avviso tutte le volte c
  
  ricerche scientifiche interessanti l'attivita' produttiva del Paese, esclusi quelli da emanarsi ai sensi dell'art. 3 della legge 31 gennaio 1926-IV, n. 100; 
  
- 2° sopra tutte le proposte di regolamento che per l'[articolo 1, n. 7, del R. decreto 14 novembre 1901, n. 466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-11-14;466#art_1-num7), sono soggette all'approvazione del Consiglio dei Ministri, quando detti regolamenti si riferiscano alla stessa materia di cui al numero precedente. 
+ 2° sopra tutte le proposte di regolamento che per l'[articolo 1, n. 7, del R. decreto 14 novembre 1901, n. 466](Sulle%20attribuzioni%20del%20Consiglio%20dei%20Ministri.%20001U0466.md), sono soggette all'approvazione del Consiglio dei Ministri, quando detti regolamenti si riferiscano alla stessa materia di cui al numero precedente. 
  
  Quando il parere del Consiglio nazionale delle ricerche e' obbligatoriamente richiesto, il decreto Reale o Ministeriale che ne consegue, dovra' portare la formula: «Udito il parere del Consiglio nazionale delle ricerche».
 

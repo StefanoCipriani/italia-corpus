@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduta la [legge 27 giugno 1912, n. 677](Concernente%20lIspettorato%20delle%20scuole%20medie%20e%20normali%20012U0677.md), e il regolamente approvato con il Nostro [R. decreto 16 agosto 1914, n. 1081](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-16;1081);
+Veduta la [legge 27 giugno 1912, n. 677](Concernente%20lIspettorato%20delle%20scuole%20medie%20e%20normali%20012U0677.md), e il regolamente approvato con il Nostro [R. decreto 16 agosto 1914, n. 1081](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20in%20esecuzione%20della%20legge%2027%20giugno%201912%20n.%20677%20sullIspettorato%20delle%20scuole%20medie%20e%20normali.%20014U1081.md);
 
 Veduto il [decreto-legge Luogotenenziale 27 aprile 1919, n. 771](Che%20determina%20lordinamento%20del%20servizio%20di%20vigilanza%20sullistruzione%20primaria%20e%20popolare%20stabilendo%20altresi%20le%20norme%20pel%20conferimento%20dellufficio%20di%20provveditore%20agli%20studi%20e%20dei%20posti%20nei_a1b8c49d1b8c.md), e il Nostro [decreto-legge 21 gennaio 1921, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1921-01-21;127);
 

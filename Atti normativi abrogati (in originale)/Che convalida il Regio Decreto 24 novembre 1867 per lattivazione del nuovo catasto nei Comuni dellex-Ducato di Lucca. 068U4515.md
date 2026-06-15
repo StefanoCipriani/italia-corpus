@@ -22,7 +22,7 @@ VITTORIO EMANUELE II
  
  Articolo unico. 
  
- Il [Regio Decreto del 24 novembre 1867, n. 4068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-11-24;4068), per l'attivazione del nuovo catasto nei Comuni dell'ex-Ducato di Lucca, avra' forza di Legge. 
+ Il [Regio Decreto del 24 novembre 1867, n. 4068](Che%20ordina%20lattivazione%20del%20nuovo%20Catasto%20fondiario%20per%20i%20Comuni%20di%20Coreglia%20Antelminelli%20e%20Villa%20Basilica.%20067U4068.md), per l'attivazione del nuovo catasto nei Comuni dell'ex-Ducato di Lucca, avra' forza di Legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato. 
  

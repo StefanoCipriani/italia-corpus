@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 gennaio 1929, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-24;206), recante approvazione dei progetti di opere pubbliche d'interesse locale nei Comuni danneggiati dal terremoto del 28 dicembre 1908. 
+ E' convertito in legge il [R. decreto-legge 24 gennaio 1929, n. 206](Approvazione%20dei%20progetti%20di%20opere%20pubbliche%20dinteresse%20locale%20nei%20Comuni%20danneggiati%20dal%20terremoto%20del%2028%20dicembre%201908.%20029U0206.md), recante approvazione dei progetti di opere pubbliche d'interesse locale nei Comuni danneggiati dal terremoto del 28 dicembre 1908. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -36,7 +36,7 @@ Restano alla dipendenza del Ministero dell'economia nazionale le istituzioni spe
 
 ## Art. 5.
 
-Presso il Ministero della pubblica istruzione e' istituita, a decorrere dal 1° luglio 1928, la Direzione generale per l'insegnamento tecnico-professionale, ed e' a tal uopo aggiunto un posto di direttore generale (Gruppo A, grado 4°) alla tabella organica del personale della carriera amministrativa dell'Amministrazione centrale della pubblica istruzione, approvata con il [R. decreto 7 giugno 1926, n. 944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-07;944).
+Presso il Ministero della pubblica istruzione e' istituita, a decorrere dal 1° luglio 1928, la Direzione generale per l'insegnamento tecnico-professionale, ed e' a tal uopo aggiunto un posto di direttore generale (Gruppo A, grado 4°) alla tabella organica del personale della carriera amministrativa dell'Amministrazione centrale della pubblica istruzione, approvata con il [R. decreto 7 giugno 1926, n. 944](Provvedimenti%20per%20le%20biblioteche%20governative%20e%20lAmministrazione%20centrale%20della%20pubblica%20istruzione.%20026U0944.md).
 
 ## Art. 6.
 

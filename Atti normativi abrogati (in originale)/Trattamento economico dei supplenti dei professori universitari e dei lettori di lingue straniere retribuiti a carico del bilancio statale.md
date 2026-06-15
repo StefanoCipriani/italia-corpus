@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -29,7 +29,7 @@ Nei casi previsti dal comma terzo dell'art. 116 del testo unico delle leggi sull
 
 ## Art. 2.
 
-Agli incaricati dei lettorati di lingua svedese, di lingua neo-greca e di lingua danese, istituiti presso la Facolta' di lettere e filosofia dell'Universita' di Roma, rispettivamente con [regio decreto-legge 4 ottobre 1928, n. 2289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-10-04;2289), [regio decreto-legge 16 ottobre 1934, n. 1816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-16;1816), e con [legge 20 maggio 1942, n. 658](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-20;658), compete una retribuzione annua pari agli assegni spettanti al dipendente statale di grado 11°, gruppo A.
+Agli incaricati dei lettorati di lingua svedese, di lingua neo-greca e di lingua danese, istituiti presso la Facolta' di lettere e filosofia dell'Universita' di Roma, rispettivamente con [regio decreto-legge 4 ottobre 1928, n. 2289](Istituzione%20presso%20la%20Regia%20universita%20di%20Roma%20di%20una%20cattedra%20di%20clinica%20della%20tubercolosi%20e%20delle%20malattie%20delle%20vie%20respiratorie%20di%20una%20cattedra%20di%20lingua%20e%20letteratura%20polacca%20e%20di%20un_e37e970755d2.md), [regio decreto-legge 16 ottobre 1934, n. 1816](Disposizioni%20integrative%20dellordinamento%20universitario.%20034U1816.md), e con [legge 20 maggio 1942, n. 658](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-20;658), compete una retribuzione annua pari agli assegni spettanti al dipendente statale di grado 11°, gruppo A.
  La relativa spesa e' a carico del bilancio dello Stato.
 
 ## Art. 3.

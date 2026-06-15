@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 agosto 1933, n. 1133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-08-11;1133), che autorizza nel comune di Foggia, a cura ed a carico dello Stato, la costruzione di alloggi popolarissimi per la sistemazione di famiglie da trasferirsi dalle attuali abitazioni che, per esigenze igienico-sociali, siano da dichiarare inabitabili. 
+ E' convertito in legge il [R. decreto-legge 11 agosto 1933, n. 1133](Concorso%20dello%20Stato%20per%20la%20costruzione%20di%20case%20popolarissime%20in%20Foggia%20per%20famiglie%20da%20trasferire%20dalle%20attuali%20abitazioni%20che%20per%20esigenze%20igienico%20sociali%20siano%20da%20dichiarare%20inabitabili.%20033U1133.md), che autorizza nel comune di Foggia, a cura ed a carico dello Stato, la costruzione di alloggi popolarissimi per la sistemazione di famiglie da trasferirsi dalle attuali abitazioni che, per esigenze igienico-sociali, siano da dichiarare inabitabili. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

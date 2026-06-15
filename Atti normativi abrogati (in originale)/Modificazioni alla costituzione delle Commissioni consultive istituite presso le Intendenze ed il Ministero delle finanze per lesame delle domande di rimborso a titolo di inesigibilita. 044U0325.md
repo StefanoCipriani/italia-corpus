@@ -16,9 +16,9 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico della legge sulla riscossione delle imposte dirette, approvato col [R. decreto 17 ottobre 1922, n. 1401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-17;1401), e le successive modifiche;
+Visto il testo unico della legge sulla riscossione delle imposte dirette, approvato col [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e le successive modifiche;
 
-Vista la [legge 16 giugno 1939, n. 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-16;942);
+Vista la [legge 16 giugno 1939, n. 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md);
 
 Visto il decreto-legge Luogotenenziale 25 giugno 1944, 151;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze; Abbiamo sanzionato e promulghiamo qu
 
 ## Art. 1.
 
-Il [sesto comma dell'art. 26 della legge 16 giugno 1939, n. 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-16;942#art_26-com6), e' sostituito come segue: 
+Il [sesto comma dell'art. 26 della legge 16 giugno 1939, n. 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md), e' sostituito come segue: 
  
  « L'Intendente di finanza emette la sua decisione dopo aver sentito il parere di una Commissione da lui nominata e composta di un funzionario dell'Intendenza che la presiede, di un funzionario dell'Ufficio distrettuale delle imposte dirette del capoluogo e di un rappresentante degli esattori della provincia, designato dagli interessati anche attraverso le organizzazioni di categoria. 
  

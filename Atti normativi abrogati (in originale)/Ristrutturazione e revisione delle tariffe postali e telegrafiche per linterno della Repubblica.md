@@ -10,23 +10,23 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156);
+Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Vista la [legge 25 aprile 1961, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-04-25;355);
 
 Visto il [decreto del Presidente della Repubblica 22 luglio 1965, n. 880](Nuove%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md);
 
-Visto il [decreto del Presidente della Repubblica 15 dicembre 1965, n. 1414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-15;1414);
+Visto il [decreto del Presidente della Repubblica 15 dicembre 1965, n. 1414](../DPR/Modificazioni%20ad%20alcune%20voci%20della%20tariffe%20postali%20e%20telegrafiche.md);
 
-Visto il [decreto del Presidente della Repubblica 5 dicembre 1966, n. 1351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1966-12-05;1351);
+Visto il [decreto del Presidente della Repubblica 5 dicembre 1966, n. 1351](../DPR/Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali_2.md);
 
-Visto il [decreto del Presidente della Repubblica 2 agosto 1967, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-08-02;663);
+Visto il [decreto del Presidente della Repubblica 2 agosto 1967, n. 663](../DPR/Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md);
 
 Visto il [decreto del Presidente della Repubblica 10 gennaio 1973, n. 95](Modificazioni%20delle%20tariffe%20radiotelegrafiche%20e%20radiotelefoniche%20marittime%20per%20linterno%20della%20Repubblica.md);
 
-Visto il [decreto del Presidente della Repubblica 25 febbraio 1974, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-02-25;79);
+Visto il [decreto del Presidente della Repubblica 25 febbraio 1974, n. 79](../DPR/Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica_2.md);
 
-Visto il [decreto del Presidente della Repubblica 3 aprile 1974, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-04-03;110);
+Visto il [decreto del Presidente della Repubblica 3 aprile 1974, n. 110](../DPR/Modificazioni%20alle%20voci%20tariffarie%20per%20linterno%20relative%20alle%20stampe%20periodiche%20in%20abbonamento%20postale%20ed%20alle%20stampe%20non%20periodiche.md);
 
 Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
 
@@ -37,7 +37,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 ## Art. 1.
 
 A decorrere dal quindicesimo giorno dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale, le tabelle numeri 1, 2, 3, 4 e 5, allegate al [decreto del Presidente della Repubblica 22 luglio 1965, n. 880](Nuove%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md), e successive modificazioni, sono sostituite dalle tabelle A, B, C, D ed E, allegate al presente decreto, firmate dal Ministro per le poste e le telecomunicazioni. 
- A decorrere dalla medesima data sono abrogati i [decreti del Presidente della Repubblica 22 luglio 1965, n. 880](Nuove%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md); [15 dicembre 1965, n. 1414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-15;1414); [5 dicembre 1966, n. 1351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1966-12-05;1351); [2 agosto 1967, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-08-02;663); [10 gennaio 1973, n. 95](Modificazioni%20delle%20tariffe%20radiotelegrafiche%20e%20radiotelefoniche%20marittime%20per%20linterno%20della%20Repubblica.md); [25 febbraio 1974, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-02-25;79); [3 aprile 1974, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-04-03;110) citati nelle premesse.
+ A decorrere dalla medesima data sono abrogati i [decreti del Presidente della Repubblica 22 luglio 1965, n. 880](Nuove%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md); [15 dicembre 1965, n. 1414](../DPR/Modificazioni%20ad%20alcune%20voci%20della%20tariffe%20postali%20e%20telegrafiche.md); [5 dicembre 1966, n. 1351](../DPR/Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali_2.md); [2 agosto 1967, n. 663](../DPR/Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md); [10 gennaio 1973, n. 95](Modificazioni%20delle%20tariffe%20radiotelegrafiche%20e%20radiotelefoniche%20marittime%20per%20linterno%20della%20Repubblica.md); [25 febbraio 1974, n. 79](../DPR/Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica_2.md); [3 aprile 1974, n. 110](../DPR/Modificazioni%20alle%20voci%20tariffarie%20per%20linterno%20relative%20alle%20stampe%20periodiche%20in%20abbonamento%20postale%20ed%20alle%20stampe%20non%20periodiche.md) citati nelle premesse.
 
 ## Art. 2.
 

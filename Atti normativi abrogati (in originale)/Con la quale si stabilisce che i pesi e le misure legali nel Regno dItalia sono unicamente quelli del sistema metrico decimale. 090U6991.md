@@ -81,7 +81,7 @@ Nota redazionale
 
 ## Art. 6.
 
-I manometri campioni di cui si servono i periti per provare le caldaie a vapore in esecuzione delle disposizioni dell'[art. 27 del testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_27) approvato col [R. decreto 30 giugno 1889; n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-06-30;6144), serie 3ª, saranno soggetti alla verificazione periodica, la quale sara' effettuata nel laboratorio centrale e negli uffici metrici. 
+I manometri campioni di cui si servono i periti per provare le caldaie a vapore in esecuzione delle disposizioni dell'[art. 27 del testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_27) approvato col [R. decreto 30 giugno 1889; n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md), serie 3ª, saranno soggetti alla verificazione periodica, la quale sara' effettuata nel laboratorio centrale e negli uffici metrici. 
  
 --------------- 
 Nota redazionale 
@@ -227,7 +227,7 @@ Saranno puniti:
 
 1.
 
-Con l'ammenda da L. 25 a 100 coloro che esporranno in vendita o introdurranno in commercio, pesi, misure e strumenti per pesare e misurare mancanti del bollo di prima verificazione; e coll'ammenda prevista dall'[articolo 498 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_498) coloro che in pubblico negozio terranno misure e pesi diversi da quelli stabiliti dalla legge; 
+Con l'ammenda da L. 25 a 100 coloro che esporranno in vendita o introdurranno in commercio, pesi, misure e strumenti per pesare e misurare mancanti del bollo di prima verificazione; e coll'ammenda prevista dall'[articolo 498 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) coloro che in pubblico negozio terranno misure e pesi diversi da quelli stabiliti dalla legge; 
  
  2° Con l'ammenda di lire 2 a 50 coloro che non adempiranno a quanto e' prescritto dall'[articolo 14 della legge 28 luglio 1861, n. 132](Sui%20pesi%20e%20sulle%20misure.%20061U0132.md), e quelli che abbiano omesso di domandarne la iscrizione nello stato degli utenti a termini del paragrafo 3° dell'articolo 11 della presente legge, e generalmente tutte le contravvenzioni alle leggi sui pesi e misure e relativi regolamenti pei quali non e' inflitta una pena speciale; 
  

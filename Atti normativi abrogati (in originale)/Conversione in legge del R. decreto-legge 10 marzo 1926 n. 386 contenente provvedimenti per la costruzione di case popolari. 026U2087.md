@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 marzo 1926, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-10;386), contenente provvedimenti per la costruzione di case popolari. 
+ E' convertito in legge il [R. decreto-legge 10 marzo 1926, n. 386](Provvedimenti%20per%20la%20costruzione%20di%20case%20popolari.%20026U0386.md), contenente provvedimenti per la costruzione di case popolari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

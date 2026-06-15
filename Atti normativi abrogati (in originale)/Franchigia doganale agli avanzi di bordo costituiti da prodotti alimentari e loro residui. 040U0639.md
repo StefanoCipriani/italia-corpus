@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 9 delle disposizioni preliminari alla tariffa dei dazi doganali approvata con [R. decreto-legge 9 giugno 1921, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-06-09;806), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successivamente modificata, e' aggiunto il seguente comma: 
+All'art. 9 delle disposizioni preliminari alla tariffa dei dazi doganali approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successivamente modificata, e' aggiunto il seguente comma: 
  
  «19° - Potra' inoltre essere concessa l'esenzione totale dai dazi d'entrata per gli avanzi di bordo costituiti da prodotti alimentari e loro residui, non piu' adatti per l'alimentazione umana, sotto l'osservanza delle formalita' e cautele che saranno stabilite dal Ministro per le finanze».
 

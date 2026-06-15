@@ -35,7 +35,7 @@ Al [comma 2 dell'articolo 2 della legge 27 ottobre 1993, n. 432](https://www.nor
 3.
 
 Al [comma 1 dell'articolo 3 della legge 27 ottobre 1993, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;432#art_3-com1), e' aggiunta, in fine, la seguente lettera:
- "h-bis) l'importo fino a lire 30.000 miliardi a valere sull'autorizzazione di cui all'[articolo 3, comma 5, della legge 24 dicembre 1993, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;539#art_3-com5).".
+ "h-bis) l'importo fino a lire 30.000 miliardi a valere sull'autorizzazione di cui all'[articolo 3, comma 5, della legge 24 dicembre 1993, n. 539](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%201994%20e%20bilancio%20pluriennale%20per%20il%20triennio%201994-96.md).".
 
 4.
 
@@ -62,7 +62,7 @@ Nella partecipazione alle aste dei titoli di Stato effettuate con ricorso a mezz
 
 1.
 
-L'esenzione prevista dall'articolo 1, terzo comma, terzo periodo, del testo di legge delle tasse sui contratti di borsa, approvato con [regio decreto 30 dicembre 1923, n. 3278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3278), come sostituito dall'[articolo 1 del decreto-legge 17 settembre 1992, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-17;378#art_1), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-14;437), non si applica alle transazioni riguardanti titoli ammessi alla trattazione sul mercato telematico dei titoli di Stato poste in essere al di fuori del predetto mercato da soggetti residenti con soggetti non residenti aderenti al mercato stesso. Ai fini dell'applicazione della tassa, tali transazioni si considerano in ogni caso perfezionate nel territorio dello Stato e il soggetto residente, ove non autorizzato al pagamento in modo virtuale, puo' corrispondere la tassa anche mediante versamento in conto corrente postale nel termine di trenta giorni.
+L'esenzione prevista dall'articolo 1, terzo comma, terzo periodo, del testo di legge delle tasse sui contratti di borsa, approvato con [regio decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), come sostituito dall'[articolo 1 del decreto-legge 17 settembre 1992, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-17;378#art_1), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 437](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20settembre%201992%20n.%20378%20recante%20disposizioni%20urgenti%20concernenti%20modificazioni%20al%20trattamento%20tributario%20delle%20operazioni%20a%20termi_38011e29348d.md), non si applica alle transazioni riguardanti titoli ammessi alla trattazione sul mercato telematico dei titoli di Stato poste in essere al di fuori del predetto mercato da soggetti residenti con soggetti non residenti aderenti al mercato stesso. Ai fini dell'applicazione della tassa, tali transazioni si considerano in ogni caso perfezionate nel territorio dello Stato e il soggetto residente, ove non autorizzato al pagamento in modo virtuale, puo' corrispondere la tassa anche mediante versamento in conto corrente postale nel termine di trenta giorni.
 
 ## Art. 4. — Attivita' delle societa' di forestazione
  controllate dal Ministero del tesoro
@@ -73,13 +73,13 @@ Nei limiti delle risorse disponibili e in attesa del trasferimento alle regioni,
 
 2.
 
-A fronte delle attivita' di cui al comma 1, nonche' per le esigenze finanziarie connesse alla liquidazione, possono essere utilizzati i fondi di cui all'[articolo 11, comma 4, della legge 4 dicembre 1993, n. 491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491#art_11-com4).
+A fronte delle attivita' di cui al comma 1, nonche' per le esigenze finanziarie connesse alla liquidazione, possono essere utilizzati i fondi di cui all'[articolo 11, comma 4, della legge 4 dicembre 1993, n. 491](Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md).
 
 ## Art. 5. — Impignorabilita' del conto di contabilita' speciale di cui al decreto del Presidente della Repubblica 12 febbraio 1991, n. 69.
 
 1.
 
-Alla contabilita' speciale di cui all'articolo 30 del regolamento per la fabbricazione e l'emissione dei biglietti di banca, approvato con [decreto del Presidente della Repubblica 9 ottobre 1981, n. 811](Approvazione%20del%20regolamento%20per%20la%20fabbricazione%20e%20la%20emissione%20dei%20biglietti%20di%20banca.md), come sostituito dall'[articolo 1 del decreto del Presidente della Repubblica 12 febbraio 1991, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-02-12;69#art_1), si applicano le disposizioni previste dall'[articolo 4, comma 5, della legge 26 novembre 1993, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-26;483#art_4-com5).
+Alla contabilita' speciale di cui all'articolo 30 del regolamento per la fabbricazione e l'emissione dei biglietti di banca, approvato con [decreto del Presidente della Repubblica 9 ottobre 1981, n. 811](Approvazione%20del%20regolamento%20per%20la%20fabbricazione%20e%20la%20emissione%20dei%20biglietti%20di%20banca.md), come sostituito dall'[articolo 1 del decreto del Presidente della Repubblica 12 febbraio 1991, n. 69](../DPR/Regolamento%20recante%20modificazione%20al%20regolamento%20per%20la%20fabbricazione%20e%20lemissione%20dei%20biglietti%20di%20banca%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%209%20ottobre%201981%20n.%20811.md), si applicano le disposizioni previste dall'[articolo 4, comma 5, della legge 26 novembre 1993, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-26;483#art_4-com5).
 
 ## Art. 6. — Emissione di titoli di Stato da assegnare alla Banca d'Italia
  in conversione del conto corrente per il servizio di tesoreria
@@ -87,7 +87,7 @@ Alla contabilita' speciale di cui all'articolo 30 del regolamento per la fabbric
 1.
 
 L'[articolo 7 della legge 26 novembre 1993, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-26;483#art_7), e' sostituito dal seguente:
- "Art. 7. - 1. L'ammontare dei titoli di cui agli articoli 2 e 3 si aggiunge all'importo massimo di emissione dei titoli pubblici indicato nella [legge 23 dicembre 1992, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;501), di approvazione del bilancio di previsione dello Stato per l'anno finanziario 1993, qualora l'emissione dei titoli avvenga nell'anno predetto, oppure a quello indicato nella [legge 24 dicembre 1993, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;539), di approvazione del bilancio di previsione dello Stato per l'anno finanziario 1994, qualora l'emissione avvenga nell'anno 1994.".
+ "Art. 7. - 1. L'ammontare dei titoli di cui agli articoli 2 e 3 si aggiunge all'importo massimo di emissione dei titoli pubblici indicato nella [legge 23 dicembre 1992, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;501), di approvazione del bilancio di previsione dello Stato per l'anno finanziario 1993, qualora l'emissione dei titoli avvenga nell'anno predetto, oppure a quello indicato nella [legge 24 dicembre 1993, n. 539](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%201994%20e%20bilancio%20pluriennale%20per%20il%20triennio%201994-96.md), di approvazione del bilancio di previsione dello Stato per l'anno finanziario 1994, qualora l'emissione avvenga nell'anno 1994.".
 
 ## Art. 7. — Interessi su depositi e conti dello Stato
 
@@ -104,7 +104,7 @@ A decorrere dal primo giorno del mese successivo a quello di entrata in vigore d
 
 2.
 
-Ai fini della migliore valorizzazione del patrimonio dell'ex EAGAT, l'Ispettorato generale per gli affari e per la gestione del patrimonio degli enti disciolti puo' avvalersi delle disposizioni in materia di accelerazione delle procedure di dismissione delle partecipazioni possedute direttamente dallo Stato, previste dal [decreto-legge 31 maggio 1994, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-31;332), convertito, con modificazioni, dalla [legge 30 luglio 1994, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474), anche con le modalita' di cui all'[articolo 4 della legge 4 dicembre 1956, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-04;1404#art_4).
+Ai fini della migliore valorizzazione del patrimonio dell'ex EAGAT, l'Ispettorato generale per gli affari e per la gestione del patrimonio degli enti disciolti puo' avvalersi delle disposizioni in materia di accelerazione delle procedure di dismissione delle partecipazioni possedute direttamente dallo Stato, previste dal [decreto-legge 31 maggio 1994, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-31;332), convertito, con modificazioni, dalla [legge 30 luglio 1994, n. 474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%201994%20n.%20332%20recante%20norme%20per%20laccelerazione%20delle%20procedure%20di%20dismissione%20di%20partecipazioni%20dello%20Stato%20e%20degli%20enti%20p_343370877748.md), anche con le modalita' di cui all'[articolo 4 della legge 4 dicembre 1956, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-04;1404#art_4).
 
 3.
 

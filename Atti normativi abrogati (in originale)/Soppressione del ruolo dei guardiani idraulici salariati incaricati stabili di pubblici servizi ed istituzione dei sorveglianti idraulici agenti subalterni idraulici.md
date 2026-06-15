@@ -21,7 +21,7 @@ A decorrere dalla data di entrata in vigore della presente legge i guardiani idr
 
 ## Art. 2.
 
-Il ruolo dei guardiani idraulici, previsto dall'[art. 2 del regio decreto-legge 14 gennaio 1937, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-14;54#art_2), e' sostituito dalla seguente tabella organica:
+Il ruolo dei guardiani idraulici, previsto dall'[art. 2 del regio decreto-legge 14 gennaio 1937, n. 54](Riordinamento%20di%20alcuni%20ruoli%20del%20personale%20del%20Ministero%20dei%20lavori%20pubblici.%20037U0054.md), e' sostituito dalla seguente tabella organica:
  capo sorvegliante di 1ª classe......................... n. 31
  capo sorvegliante di 2ª classe......................... " 70
  sorvegliante scelto di 1ª classe....................... " 50

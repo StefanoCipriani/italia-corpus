@@ -344,7 +344,7 @@ Per essere promosso maresciallo occorre aver servito lodevolmente un anno come b
  
  L'esame scritto consistera' nello svolgere un tema riguardante la polizia giudiziaria e amministrativa e nel risolvere un problema di aritmetica sulle quattro operazioni. 
  
- L'esame orale si aggirera' intorno allo Statuto fondamentale del Regno, al [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), legge e regolamento di pubblica sicurezza, regolamento di polizia municipale, decreto organico e regolamento del Corpo delle guardie. 
+ L'esame orale si aggirera' intorno allo Statuto fondamentale del Regno, al [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), legge e regolamento di pubblica sicurezza, regolamento di polizia municipale, decreto organico e regolamento del Corpo delle guardie. 
  
  La promozione a maresciallo puo' anche aver luogo a scelta in caso di benemerenze eccezionali.
 
@@ -935,11 +935,11 @@ Vengono passati alle compagnie di disciplina del Regio Esercito, in seguito a pa
 
 ### Art. 99.
 
-E' punita secondo il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare e dai Tribunali militari: 
+E' punita secondo il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e dai Tribunali militari: 
  
  1° la diserzione qualificata, cioe' con asportazione di armi da fuoco dal Corpo; 
  
- 2° qualunque atto d'insubordinazione, a mente del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare verso il superiore ufficiale; 
+ 2° qualunque atto d'insubordinazione, a mente del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare verso il superiore ufficiale; 
  
  3° l'insubordinazione nei termini anzidetti, accompagnata da minaccia o vie di fatto, verso il superiore graduato. 
  

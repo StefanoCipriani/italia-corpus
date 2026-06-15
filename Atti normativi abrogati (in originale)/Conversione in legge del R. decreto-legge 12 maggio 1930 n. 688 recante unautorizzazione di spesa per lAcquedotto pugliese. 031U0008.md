@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 maggio 1930, n. 688](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-05-12;688), che autorizza la spesa di L. 10.000.000 per la esecuzione dei lavori relativi alla costruzione dell'Acquedotto pugliese. 
+ E' convertito in legge il [R. decreto-legge 12 maggio 1930, n. 688](Autorizzazione%20della%20spesa%20di%20L.%2010.000.000%20per%20lesecuzione%20dei%20lavori%20di%20costruzione%20dellAcquedotto%20pugliese.%20030U0688.md), che autorizza la spesa di L. 10.000.000 per la esecuzione dei lavori relativi alla costruzione dell'Acquedotto pugliese. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiuque spetti di osservarla e di farla osservare come legge dello Stato. 
  

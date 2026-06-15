@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1934, numero 1211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1211), pubblicato nella Gazzetta Ufficiale del 1° agosto 1934, n. 179, concernente la riduzione del saggio di interesse sui prestiti concessi dal Fondo di garanzia per il credito agli impiegati e salariati dello Stato. 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1934, numero 1211](Riduzione%20del%20saggio%20di%20interessi%20sui%20prestiti%20concessi%20dal%20Fondo%20di%20garanzia%20per%20il%20credito%20agli%20impiegati%20e%20salariati%20dello%20Stato.%20034U1211.md), pubblicato nella Gazzetta Ufficiale del 1° agosto 1934, n. 179, concernente la riduzione del saggio di interesse sui prestiti concessi dal Fondo di garanzia per il credito agli impiegati e salariati dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

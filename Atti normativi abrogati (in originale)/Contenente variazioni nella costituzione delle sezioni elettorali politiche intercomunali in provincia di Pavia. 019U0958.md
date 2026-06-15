@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la tabella delle circoscrizioni elettorali, annessa al testo unico predetto; 
  
- Visto il [R decreto 18 maggio 1913, n. 535](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-05-18;535), relativo a costituzioni di sezioni elettorali politiche intercomunali in provincia di Pavia; 
+ Visto il [R decreto 18 maggio 1913, n. 535](Relativo%20alla%20costituzione%20delle%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20in%20collegi%20della%20provincia%20di%20Pavia.%20013U0535.md), relativo a costituzioni di sezioni elettorali politiche intercomunali in provincia di Pavia; 
  
  Vista la deliberazione 8 marzo 1919 della Commissione elettorale provinciale di Pavia, con la quale si propone la costituzione in sezione elettorale autonoma dei Comuni sotto detti, nei quali il numero degli elettori ha superato il centinaio: 
  
@@ -40,9 +40,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- 1. E' revocato il [R. decreto 18 maggio 1913, n. 535](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-05-18;535), in quanto esso disponeva che gli elettori del comune di Villa Biscossi fossero aggregati a quelli del comune di Galliavola. 
+ 1. E' revocato il [R. decreto 18 maggio 1913, n. 535](Relativo%20alla%20costituzione%20delle%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20in%20collegi%20della%20provincia%20di%20Pavia.%20013U0535.md), in quanto esso disponeva che gli elettori del comune di Villa Biscossi fossero aggregati a quelli del comune di Galliavola. 
  
- 2. E' revocato il [R. decreto 18 maggio 1913, n 535](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-05-18;535), in quanto esso disponeva che gli elettori del comune di Montu' Berchielli fossero aggregati a quelli del comune di Montalto Pavese. 
+ 2. E' revocato il [R. decreto 18 maggio 1913, n 535](Relativo%20alla%20costituzione%20delle%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20in%20collegi%20della%20provincia%20di%20Pavia.%20013U0535.md), in quanto esso disponeva che gli elettori del comune di Montu' Berchielli fossero aggregati a quelli del comune di Montalto Pavese. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Roma, addi' 29 maggio 1919. 
  

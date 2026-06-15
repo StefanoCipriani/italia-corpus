@@ -20,11 +20,11 @@ Quando i prestatari non soddisfacciano le loro obbligazioni alla scadenza, gli u
  
  La cauzione prestata dai ricevitori del registro per le riscossioni ordinarie, e' estesa alle riscossioni portate dal presente articolo senza obbligo di supplemento. 
  
- Sull'ammontare delle riscossioni di cui al presente articolo, ai ricevitori del registro sara' corrisposto l'aggio di lire una per ogni cento lire, il quale non verra' computato agli effetti dell'[art. 1 della legge 24 dicembre 1908, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;744#art_1), e dell'[art. 2 del R. decreto 22 giugno 1913, n. 845](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;845#art_2). 
+ Sull'ammontare delle riscossioni di cui al presente articolo, ai ricevitori del registro sara' corrisposto l'aggio di lire una per ogni cento lire, il quale non verra' computato agli effetti dell'[art. 1 della legge 24 dicembre 1908, n. 744](Che%20approva%20le%20tabelle%20per%20il%20riordinamento%20del%20ruolo%20organico%20dei%20ricevitori%20aiuto-ricevitori%20e%20bollatori%20degli%20uffici%20del%20registro.%20008U0744.md), e dell'[art. 2 del R. decreto 22 giugno 1913, n. 845](Col%20quale%20viene%20modificato%20lart.%208%20del%20regolamento%20approvato%20con%20R.%20decreto%2018%20marzo%201909%20n.%20158%20riguardante%20laggio%20da%20corrispondersi%20ai%20rivevitori%20demaniali.%20013U0845.md). 
  
  Fermo l'obbligo, giusta le vigenti disposizioni, di provvedere allo immediato versamento delle somme riscosse ogni qual volta queste eccedano i due terzi delle loro malleverie, i ricevitori residenti nel capoluogo della Provincia dovranno eseguire i versamenti alla Cassa provinciale di credito agrario ogni tre giorni alle scadenze stabilite dall'art. 101 delle istruzioni per la contabilita' demaniale del 7 aprile 1888, e gli altri ogni cinque giorni a partire dal 5 di ciascun mese. 
  
- Al versamento di queste riscossioni e' esteso il disposto dello [articolo 8 della legge 24 dicembre 1908, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;744#art_8). 
+ Al versamento di queste riscossioni e' esteso il disposto dello [articolo 8 della legge 24 dicembre 1908, n. 744](Che%20approva%20le%20tabelle%20per%20il%20riordinamento%20del%20ruolo%20organico%20dei%20ricevitori%20aiuto-ricevitori%20e%20bollatori%20degli%20uffici%20del%20registro.%20008U0744.md). 
  
  Le spese per l'aggio ai ricevitori del registro graveranno sul fondo di cui all'[art. 3 del decreto Luogotenenziale 27 luglio 1916, n. 913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-07-27;913#art_3).
 

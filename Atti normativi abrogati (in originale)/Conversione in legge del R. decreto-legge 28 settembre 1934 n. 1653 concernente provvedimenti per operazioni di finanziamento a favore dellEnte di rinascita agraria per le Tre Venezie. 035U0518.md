@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1653), concernente provvedimenti per operazioni di finanziamento a favore dell'Ente di rinascita agraria per le Tre Venezie. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1653](Provvedimenti%20per%20operazioni%20di%20finanziamento%20a%20favore%20dellEnte%20di%20rinascita%20agraria%20per%20le%20Tre%20Venezie.%20034U1653.md), concernente provvedimenti per operazioni di finanziamento a favore dell'Ente di rinascita agraria per le Tre Venezie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

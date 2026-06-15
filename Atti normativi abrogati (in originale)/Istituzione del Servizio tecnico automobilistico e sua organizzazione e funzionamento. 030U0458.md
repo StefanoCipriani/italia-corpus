@@ -39,7 +39,7 @@ Sono assegnati al Servizio tecnico automobilistico ufficiali generali, superiori
  
  
  
- b) All'ispettore del materiale automobilistico si applica il disposto dell'art. 3, 1° comma, del [R. decreto-legge 31 dicembre 1927, n. 2504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-31;2504), per quanto riguarda il suo avanzamento al grado di tenente generale. 
+ b) All'ispettore del materiale automobilistico si applica il disposto dell'art. 3, 1° comma, del [R. decreto-legge 31 dicembre 1927, n. 2504](Nuove%20norme%20per%20lavanzamento%20al%20grado%20di%20generale%20di%20divisione%20e%20gradi%20corrispondenti%20nel%20Regio%20esercito.%20027U2504.md), per quanto riguarda il suo avanzamento al grado di tenente generale. 
  
  Il grado di tenente generale o di maggiore generale del Servizio tecnico automobilistico corrisponde, agli effetti dello stato e dell'avanzamento, rispettivamente ai gradi di generale di divisione e di generale di brigata. 
  
@@ -91,7 +91,7 @@ E' in facolta' del Ministero della guerra di destinare temporaneamente ai centri
 
 ## Art. 8.
 
-L'art. 1 del testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, approvato con [R. decreto 23 febbraio 1928, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-23;327), e' modificato nel senso che alla denominazione di «Direzione generale artiglieria e automobilismo» e' sostituita quella di «Direzione generale artiglieria» e che alle branche di ripartizione dei servizi dell'Amministrazione centrale della guerra e' aggiunto un «Ispettorato del materiale automobilistico». 
+L'art. 1 del testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, approvato con [R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), e' modificato nel senso che alla denominazione di «Direzione generale artiglieria e automobilismo» e' sostituita quella di «Direzione generale artiglieria» e che alle branche di ripartizione dei servizi dell'Amministrazione centrale della guerra e' aggiunto un «Ispettorato del materiale automobilistico». 
  
  Al numero degli ufficiali previsti dall'art. 2 del testo unico predetto sono portati i seguenti aumenti: un maggior generale o tenente generale; un colonnello; 5 tenenti colonnelli o maggiori (di cui tre con carica di capo sezione); 5 capitani: totale 12 ufficiali.
 Tali ufficiali sono tratti dalla tabella di assegnazione pel Servizio automobilistico militare, quale viene stabilito col successivo art. 9, a modificazione dell'art. 35 della legge di ordinamento del Regio esercito n. 396 dell'11 marzo 1926.

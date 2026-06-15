@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 12 marzo 1946, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-12;211);
+Visto il [decreto legislativo luogotenenziale 12 marzo 1946, n. 211](../Decreti%20legislativi%20luogotenenziali/Disciplina%20delle%20iniziative%20industriali%20e%20istituzione%20di%20una%20Commissione%20centrale%20dellindustria.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per l'industria e il commercio, di concerto con i Mi
 
 ## Art. 1.
 
-La denuncia di cui all'[art. 2 del decreto legislativo luogotenenziale 12 marzo 1946, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-12;211#art_2), deve essere altresi' presentata, mediante raccomandata con avviso di ricevimento, alla Sottocommissione dell'industria, alla Camera di commercio, industria ed agricoltura, ed al Circolo dell'Ispettorato del lavoro, competenti per territorio.
+La denuncia di cui all'[art. 2 del decreto legislativo luogotenenziale 12 marzo 1946, n. 211](../Decreti%20legislativi%20luogotenenziali/Disciplina%20delle%20iniziative%20industriali%20e%20istituzione%20di%20una%20Commissione%20centrale%20dellindustria.md), deve essere altresi' presentata, mediante raccomandata con avviso di ricevimento, alla Sottocommissione dell'industria, alla Camera di commercio, industria ed agricoltura, ed al Circolo dell'Ispettorato del lavoro, competenti per territorio.
  La denuncia al Ministero dell'industria e del commercio va fatta su carta legale; quella indirizzata agli organi ed enti, di cui al precedente comma, in carta libera.
 
 ## Art. 2.

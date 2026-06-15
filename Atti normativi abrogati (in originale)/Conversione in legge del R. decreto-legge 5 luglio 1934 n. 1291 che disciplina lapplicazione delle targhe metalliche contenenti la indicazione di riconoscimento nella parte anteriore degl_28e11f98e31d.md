@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1291), che disciplina l'applicazione di targhe metalliche, contenenti la indicazione di riconoscimento, nella parte anteriore degli automobili. 
+ E' convertito in legge il [R. decreto-legge 5 luglio 1934, n. 1291](Norme%20per%20disciplinare%20lapplicazione%20di%20targhe%20metalliche%20contenenti%20indicazioni%20di%20riconoscimento%20nella%20parte%20anteriore%20degli%20automobili.%20034U1291.md), che disciplina l'applicazione di targhe metalliche, contenenti la indicazione di riconoscimento, nella parte anteriore degli automobili. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

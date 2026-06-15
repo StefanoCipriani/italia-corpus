@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 luglio 1932, n. 1065](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-07-22;1065), con il quale e' stato approvato il piano particolareggiato di esecuzione per la sistemazione della zona detta del «Quartiere degli affari» in Milano, con la seguente modificazione: «Nel primo e nel secondo comma dell'art. 11, alle parole: venti anni, sono sostituite le altre: dieci anni». 
+ E' convertito in legge il [R. decreto-legge 22 luglio 1932, n. 1065](Approvazione%20del%20piano%20particolareggiato%20di%20esecuzione%20per%20la%20sistemazione%20della%20zona%20detta%20del%20%20Quartiere%20degli%20Affari%20%20in%20Milano.%20032U1065.md), con il quale e' stato approvato il piano particolareggiato di esecuzione per la sistemazione della zona detta del «Quartiere degli affari» in Milano, con la seguente modificazione: «Nel primo e nel secondo comma dell'art. 11, alle parole: venti anni, sono sostituite le altre: dieci anni». 
  
  Ordiniamo che la presente,munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

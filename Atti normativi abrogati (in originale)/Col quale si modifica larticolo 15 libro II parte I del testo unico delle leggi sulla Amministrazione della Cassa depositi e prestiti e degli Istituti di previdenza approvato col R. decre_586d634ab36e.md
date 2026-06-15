@@ -20,7 +20,7 @@ RE D'TALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'articolo 15 del libro 2°, parte I, del testo unico delle leggi generali e speciali riguardanti la Cassa dei depositi e prestiti, approvato col [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453);
+Visto l'articolo 15 del libro 2°, parte I, del testo unico delle leggi generali e speciali riguardanti la Cassa dei depositi e prestiti, approvato col [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md);
 
 Visto l'[articolo 1, n. 2, della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_1-num2), sull'ordinamento del notariato e degli archivi notarili;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto col g
 
 ## Articolo unico.
 
-All'art. 15 del libro 2°, parte I, del testo unico delle leggi generali e speciali riguardanti la Cassa dei depositi e prestiti, approvato col [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), e' sostituito il seguente: 
+All'art. 15 del libro 2°, parte I, del testo unico delle leggi generali e speciali riguardanti la Cassa dei depositi e prestiti, approvato col [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), e' sostituito il seguente: 
  
  «Art. 15. - Il titolo legale a possedere, necessario a giustificare le successioni riguardanti i depositi di qualsiasi specie inscritti presso la Cassa dei depositi e prestiti, consiste in un decreto pronunziato in Camera di consiglio del tribunale civile del luogo in cui la successione si e' aperta. 
  

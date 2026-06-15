@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La concessione del contributo straordinario ai natanti addetti alla pesca marittima professionale, prevista dall'[articolo 2-bis del decreto-legge 29 settembre 1973, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-09-29;578#art_2bis), convertito con modificazioni nella [legge 15 novembre 1973, n. 733](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-15;733), e modificato dalla [legge 8 gennaio 1974, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-01-08;2), e' prorogata al 31 dicembre 1975.
+La concessione del contributo straordinario ai natanti addetti alla pesca marittima professionale, prevista dall'[articolo 2-bis del decreto-legge 29 settembre 1973, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-09-29;578#art_2bis), convertito con modificazioni nella [legge 15 novembre 1973, n. 733](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20settembre%201973%20n.%20578%20concernente%20modificazioni%20al%20regime%20fiscale%20dei%20prodotti%20petroliferi.md), e modificato dalla [legge 8 gennaio 1974, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-01-08;2), e' prorogata al 31 dicembre 1975.
 
 ## Art. 2.
 

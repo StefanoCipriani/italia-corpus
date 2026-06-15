@@ -139,13 +139,13 @@ L'intervento del Ministero dell'economia nazionale alle manifestazioni ippiche (
 
 I cavalli stalloni e gli asini stalloni, a chiunque appartenenti, non possono essere adibiti al salto di giumente o di asine di proprieta' altrui, anche gratuitamente, se non siano stati prima approvati per la monta pubblica. 
  
- Sono esclusi dall'obbligo dell'approvazione a norma del precedente comma, i riproduttori appartenenti ai depositi stalloni, di cui al [R. decreto 6 settembre 1923, n. 2125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-06;2125). 
+ Sono esclusi dall'obbligo dell'approvazione a norma del precedente comma, i riproduttori appartenenti ai depositi stalloni, di cui al [R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md). 
  
  E' vietato ai possessori di giumente od asine di far coprire le medesime da stallone non approvato, salvo che si tratti di stallone dello stesso proprietario delle fattrici, o di stallone dei depositi predetti.
 
 ### Art. 15.
 
-Per ogni circoscrizione dei depositi stalloni di cui al [R. decreto 6 settembre 1923, n. 2125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-06;2125), e' istituita una Commissione per l'esame dei cavalli stalloni e degli asini stalloni per i quali e' stata richiesta la preventiva approvazione. 
+Per ogni circoscrizione dei depositi stalloni di cui al [R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), e' istituita una Commissione per l'esame dei cavalli stalloni e degli asini stalloni per i quali e' stata richiesta la preventiva approvazione. 
  
  La Commissione ha sede presso la Direzione del deposito stalloni, ed e' costituita: da un allevatore, estraneo al deposito stesso, nominato dal Ministero dell'economia nazionale, entro una terna di nomi proposti dalla Confederazione nazionale fascista degli agricoltori, per il tramite del Ministero delle corporazioni, e con funzioni di presidente, da un rappresentante del Ministero della guerra, dal direttore del deposito cavalli stalloni; ed inoltre, per ogni Provincia della circoscrizione, dal direttore della Cattedra ambulante di agricoltura e dal veterinario provinciale. 
  

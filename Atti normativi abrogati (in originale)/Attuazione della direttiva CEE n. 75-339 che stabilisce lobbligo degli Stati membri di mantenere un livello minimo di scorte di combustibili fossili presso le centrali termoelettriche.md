@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Vista la [direttiva n. 75/339 del 20 maggio 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;339), emanata dal Consiglio delle Comunita' europee, concernente l'obbligo per gli Stati membri di mantenere un livello minimo di scorte di combustibili fossili presso le centrali termoelettriche;
 
-Considerato che in data 14 maggio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 14 maggio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -78,7 +78,7 @@ In caso di comunicazione tardiva la sanzione e' ridotta di due terzi se il ritar
  sanzione pecuniaria amministrativa da lire 500 mila a lire 3 milioni.
 Per l'irrogazione delle predette sanzioni amministrative pecuniarie
 e per l'applicazione delle relative sanzioni accessorie si applicano le disposizioni di cui alla [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689).
- Fino all'entrata in vigore del decreto del Presidente della Repubblica previsto all'art. 7, settimo comma, della legge di cui al comma precedente, si applicano in via transitoria le disposizioni di cui al [decreto del Presidente della Repubblica 13 maggio 1976, n. 407](Individuazione%20degli%20uffici%20periferici%20dei%20Ministeri%20cui%20sono%20demandate%20attribuzioni%20per%20lapplicazione%20del%20sistema%20sanzionatorio%20previsto%20dalla%20legge%2024%20dicembre%201975%20n.%20706.md), che individuano gli uffici periferici dei Ministeri cui sono demandate attribuzioni per l'applicazione del sistema sanzionatorio previsto dalla [legge 24 dicembre 1975, n. 706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-24;706), nonche' le disposizioni di cui agli articoli da 3 a 9 e 13 di quest'ultima.
+ Fino all'entrata in vigore del decreto del Presidente della Repubblica previsto all'art. 7, settimo comma, della legge di cui al comma precedente, si applicano in via transitoria le disposizioni di cui al [decreto del Presidente della Repubblica 13 maggio 1976, n. 407](Individuazione%20degli%20uffici%20periferici%20dei%20Ministeri%20cui%20sono%20demandate%20attribuzioni%20per%20lapplicazione%20del%20sistema%20sanzionatorio%20previsto%20dalla%20legge%2024%20dicembre%201975%20n.%20706.md), che individuano gli uffici periferici dei Ministeri cui sono demandate attribuzioni per l'applicazione del sistema sanzionatorio previsto dalla [legge 24 dicembre 1975, n. 706](Sistema%20sanzionatorio%20delle%20norme%20che%20prevedono%20contravvenzioni%20punibili%20con%20lammenda.md), nonche' le disposizioni di cui agli articoli da 3 a 9 e 13 di quest'ultima.
 
 ## Art. 10.
 

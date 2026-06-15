@@ -58,7 +58,7 @@ Il personale addetto ai Gabinetti dei Ministri e alle segreterie dei Sottosegret
 
 ## Art. 4.
 
-Le nomine alle varie cariche dei Gabinetti o delle segreterie particolari dei Sottosegretari di Stato saranno fatte mediante decreti Ministeriali, coi quali dovra' altresi' essere stabilita la misura della retribuzione da accordarsi ai nominati, che non potra', in nessun caso, eccedere il quarto dell'indennita', di cui all'[art. 181 del R. decreto 11 novembre 1923, n.2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_181). 
+Le nomine alle varie cariche dei Gabinetti o delle segreterie particolari dei Sottosegretari di Stato saranno fatte mediante decreti Ministeriali, coi quali dovra' altresi' essere stabilita la misura della retribuzione da accordarsi ai nominati, che non potra', in nessun caso, eccedere il quarto dell'indennita', di cui all'[art. 181 del R. decreto 11 novembre 1923, n.2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Nessun' altra retribuzione potra' essere concessa agli impiegati dei Gabinetti o delle segreterie particolari dei Sottosegretari di Stato ne' per compenso di lavori straordinari ne' per giustificazioni od altro qualsiasi titolo.
 
@@ -68,11 +68,11 @@ I Gabinetti e le segreterie particolari attendono alla corrispondenza privata, c
 
 ## Art. 6.
 
-Il passaggio da un Amministrazione all'altra e da un ruolo ad altro ruolo della stessa Amministrazione dei funzionari addetti ai Gabinetti e alle segreterie particolari dei Sottosegretari di Stato e' regolato dalle norme dell'ordinamento gerarchico delle Amministrazioni dello Stato, approvato col [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395) e successive modificazioni o dagli ordinamenti particolari di ciascuna delle Amministrazioni alle quali il funzionario appartiene.
+Il passaggio da un Amministrazione all'altra e da un ruolo ad altro ruolo della stessa Amministrazione dei funzionari addetti ai Gabinetti e alle segreterie particolari dei Sottosegretari di Stato e' regolato dalle norme dell'ordinamento gerarchico delle Amministrazioni dello Stato, approvato col [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e successive modificazioni o dagli ordinamenti particolari di ciascuna delle Amministrazioni alle quali il funzionario appartiene.
 
 ## Art. 7.
 
-E' abrogata ogni altra disposizione regolante la materia del presente decreto, salvo il penultimo capoverso dell'[articolo 181 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_181), per quanto riguarda il numero di ufficiali addetti in soprannumero ai Gabinetti militari. 
+E' abrogata ogni altra disposizione regolante la materia del presente decreto, salvo il penultimo capoverso dell'[articolo 181 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), per quanto riguarda il numero di ufficiali addetti in soprannumero ai Gabinetti militari. 
  
  Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. 
  

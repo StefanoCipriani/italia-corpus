@@ -14,7 +14,7 @@ CAPO I.
 
 ### Art. 1.
 
-L'Associazione italiana della Croce Rossa, eretta in corpo morale con [R. decreto 7 febbraio 1884, n. 1243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-07;1243), in dipendenza della [legge 21 maggio 1882, n. 768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-05-21;768), ha per scopi: 
+L'Associazione italiana della Croce Rossa, eretta in corpo morale con [R. decreto 7 febbraio 1884, n. 1243](Che%20erige%20in%20corpo%20morale%20lassociazione%20italiana%20della%20Croce%20Rossa.%208401243R.md), in dipendenza della [legge 21 maggio 1882, n. 768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-05-21;768), ha per scopi: 
  
  a) di recare soccorso, con personale e con mezzi proprii, ai malati e feriti in guerra e di disimpegnare il servizio dei prigionieri di guerra, secondo la Convenzione internazionale di Ginevra 6 luglio 1906, messa in vigore nel Regno con [R. decreto 9 settembre 1907, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-09;545); 
  
@@ -86,7 +86,7 @@ L'Associazione italiana della Croce Ressa provvede al conseguimento dei propri s
 
 Per il funzionamento dei suoi servizi di guerra e per quelli del tempo di pace che richiedono una soggezione alla disciplina militare, l'Associazione della C.R.I. ha facolta' di arruolare un apposito personale, volontario tra i cittadini esenti dagli obblighi di leva e di chiamata per i servizi di guerra. L'arruolamento degli impiegati civili dello Stato non puo', pero', aver luogo senza il preventivo consenso dell'Amministrazione alla quale gli impiegati appartengono. 
  
- Gli iscritti al personale dell'Associazione chiamati in servizio sono considerati militari e sottoposti alle norme del regolamento di disciplina e del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) del Regio esercito. 
+ Gli iscritti al personale dell'Associazione chiamati in servizio sono considerati militari e sottoposti alle norme del regolamento di disciplina e del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regio esercito. 
  
  Le chiamate in servizio sono effettuate con precetti, spiccati previa autorizzazione del Ministero della guerra. 
  

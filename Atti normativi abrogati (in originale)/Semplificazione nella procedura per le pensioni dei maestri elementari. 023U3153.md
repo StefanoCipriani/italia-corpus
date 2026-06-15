@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 D'ITALIA
 
-Vedute le disposizioni dell'art. 38 del testo unico delle leggi sul Monte pensioni approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), e quelle degli articoli 58 (commi D e E), 78, 79 del regolamento per l'esecuzione del testo unico stesso approvato con [decreto Luogotenenziale 7 gennaio 1917, numero 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-07;295);
+Vedute le disposizioni dell'art. 38 del testo unico delle leggi sul Monte pensioni approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), e quelle degli articoli 58 (commi D e E), 78, 79 del regolamento per l'esecuzione del testo unico stesso approvato con [decreto Luogotenenziale 7 gennaio 1917, numero 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-07;295);
 
 Udito il Consiglio dei Ministri;
 

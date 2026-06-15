@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 dicembre 1931, n. 1684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-28;1684), sull'ordinamento dell'Ispettorato corporativo, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 28 dicembre 1931, n. 1684](Ordinamento%20dellIspettorato%20corporativo.%20031U1684.md), sull'ordinamento dell'Ispettorato corporativo, con le seguenti modificazioni: 
  All'art. 2 e' aggiunto il comma seguente: 
  «La precedente disposizione non si applica nei riguardi delle attribuzioni affidate alla Associazione nazionale per il controllo della combustione a norma del [R. decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331)». 
  Il 1° comma dell'art. 4 e' sostituito dal seguente: 

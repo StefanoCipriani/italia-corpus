@@ -217,7 +217,7 @@ Per l'ammissione al concorso di cui al precedente art. 16 gli aspiranti debbono 
 
 ### Art. 22. — Modalita' di svolgimento dei concorsi di cui all'art. 19
 
-Per lo svolgimento delle prove d'esame si osservano, in quanto applicabili, le disposizioni contenute nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3).
+Per lo svolgimento delle prove d'esame si osservano, in quanto applicabili, le disposizioni contenute nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  E' ammesso a sostenere le prove d'esame orale previste dal terzo comma dell'art. 19 del presente decreto il candidato che abbia riportato un punteggio di merito di almeno trentacinque cinquantesimi nelle prove di esame di cui ai commi secondo, quarto e quinto dello stesso articolo.
  Il punto complessivo di merito delle prove e' dato dalla media dei punti attribuiti alle singole prove.
  Per conseguire l'idoneita' nella prova orale il candidato deve riportare un punto di merito non inferiore a trenta cinquantesimi.
@@ -225,7 +225,7 @@ Per lo svolgimento delle prove d'esame si osservano, in quanto applicabili, le d
 
 ### Art. 23. — Modalita' di svolgimento dei concorsi di cui agli articoli 20 e 21
 
-Per lo svolgimento delle prove d'esame si osservano, in quanto applicabili, le disposizioni contenute nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3).
+Per lo svolgimento delle prove d'esame si osservano, in quanto applicabili, le disposizioni contenute nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  E' ammesso alla prova orale e alle prove pratiche il candidato che abbia riportato un punto di merito di almeno trentacinque cinquantesimi in ciascuna delle prove scritte.
  Il punto complessivo di merito delle prove scritte e' dato dalla media dei punti attribuiti alle singole prove.
  Per conseguire l'idoneita' nella prova orale e nelle prove pratiche il candidato deve riportare un punto di merito non inferiore a trenta cinquantesimi.
@@ -269,7 +269,7 @@ Agli appartenenti ai ruoli della banda musicale si applicano le disposizioni con
 ### Art. 32. — Collocamento a riposo d'ufficio
 
 L'appartenente ai ruoli della banda musicale, che non sia piu' ritenuto di soddisfacente rendimento artistico, e' sottoposto, su proposta del dirigente generale preposto alla direzione centrale del personale del Dipartimento della pubblica sicurezza, ad accertamenti da parte di una commissione appositamente nominata con decreto del Ministro dell'interno e costituita come quella di cui al precedente art. 18.
- Se il giudizio e' negativo, si applicano le disposizioni di cui agli articoli 129 e seguenti del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3).
+ Se il giudizio e' negativo, si applicano le disposizioni di cui agli articoli 129 e seguenti del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ### Art. 33. — Divisa
 
@@ -284,13 +284,13 @@ All'acquisto, al rinnovo e alla manutenzione degli strumenti musicali provvede i
 Gli appartenenti e gli aggregati alla banda musicale del disciolto Corpo delle guardie di pubblica sicurezza in servizio alla data di entrata in vigore del presente decreto, possono essere, a richiesta, ferma restando l'applicazione ad essi degli [articoli 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_36), [107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_107) e [108 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_108), inquadrati in apposito ruolo ad esaurimento della banda musicale della Polizia di Stato.
  Agli appartenenti al suddetto ruolo si applicano le norme vigenti per gli altri ruoli ad esaurimento.
  Gli appartenenti e gli aggregati alla banda che, in virtu' di quanto previsto dal citato art. 36, transitano nel ruolo del personale della Polizia di Stato che svolge funzioni di polizia, continueranno a permanere nella suddetta banda sino a quando le relative esigenze non saranno soddisfatte con il personale dei ruoli di cui all'art. 7 del presente decreto.
- Gli aggregati di cui al precedente comma primo saranno inquadrati, se sottufficiali, dopo i parigrado nella categoria A della terza parte e se appuntati dopo i parigrado della categoria B della terza parte di cui alla [legge 5 giugno 1965, n. 707](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-06-05;707).
+ Gli aggregati di cui al precedente comma primo saranno inquadrati, se sottufficiali, dopo i parigrado nella categoria A della terza parte e se appuntati dopo i parigrado della categoria B della terza parte di cui alla [legge 5 giugno 1965, n. 707](Norme%20sullordinamento%20della%20banda%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza%20e%20sul%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20appartenente%20al%20complesso%20musicale.md).
  L'inquadramento degli aggregati e' subordinato al superamento di una prova pratica musicale; l'accertamento dell'idoneita' e' affidato ad una commissione nominata con decreto del Ministro entro novanta giorni dalla data di entrata in vigore dei decreti delegati di cui all'[art. 36 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_36).
  In corrispondenza all'inquadramento nel ruolo ad esaurimento si rendono indisponibili altrettanti posti nell'organico della banda.
 
 ### Art. 36. — Ruolo ad esaurimento della banda
 
-Gli appartenenti al ruolo ad esaurimento della banda musicale assumono le funzioni e gli obblighi derivanti al personale della banda della Polizia di Stato sancite dal presente decreto, continuando a conservare le denominazioni previste dalla [legge 5 giugno 1965, n. 707](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-06-05;707).
+Gli appartenenti al ruolo ad esaurimento della banda musicale assumono le funzioni e gli obblighi derivanti al personale della banda della Polizia di Stato sancite dal presente decreto, continuando a conservare le denominazioni previste dalla [legge 5 giugno 1965, n. 707](Norme%20sullordinamento%20della%20banda%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza%20e%20sul%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20appartenente%20al%20complesso%20musicale.md).
  L'inquadramento nel suddetto ruolo dovra' avvenire entro sei mesi dalla data di entrata in vigore dei decreti delegati di cui all'[art. 36 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_36).
  Le domande di inquadramento dovranno essere presentate entro novanta giorni dalla data di entrata in vigore dei suddetti decreti delegati.
 
@@ -300,7 +300,7 @@ Per gli appartenenti alla banda musicale del disciolto Corpo delle guardie di pu
 
 ### Art. 38. — Organizzazione strumentale transitoria
 
-In attesa che l'organizzazione strumentale di cui al presente decreto possa essere realizzata, continuera' a ritenersi in vigore quella stabilita dalla tabella A annessa alla [legge 5 giugno 1965, n. 707](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-06-05;707).
+In attesa che l'organizzazione strumentale di cui al presente decreto possa essere realizzata, continuera' a ritenersi in vigore quella stabilita dalla tabella A annessa alla [legge 5 giugno 1965, n. 707](Norme%20sullordinamento%20della%20banda%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza%20e%20sul%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20appartenente%20al%20complesso%20musicale.md).
 
 ### Art. 39. — Acquisto di strumenti di nuova istituzione
 

@@ -16,7 +16,7 @@ Visto il [decreto del Capo provvisorio dello Stato in data 22 luglio 1947, n. 80
 
 Considerata l'opportunita' di conservare in via transitoria presso tale nuova Direzione generale il preesistente Ufficio della ragioneria centrale presso il soppresso Ministero dell'assistenza post-bellica;
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 

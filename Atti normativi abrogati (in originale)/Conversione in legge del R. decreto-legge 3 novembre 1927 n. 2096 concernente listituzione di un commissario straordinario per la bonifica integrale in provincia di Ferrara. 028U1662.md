@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-03;2096), concernente la istituzione di un commissario straordinario per la bonifica integrale in provincia di Ferrara. 
+ E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2096](Nomina%20di%20un%20commissario%20straordinario%20per%20la%20bonifica%20integrale%20nella%20provincia%20di%20Ferrara.%20027U2096.md), concernente la istituzione di un commissario straordinario per la bonifica integrale in provincia di Ferrara. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

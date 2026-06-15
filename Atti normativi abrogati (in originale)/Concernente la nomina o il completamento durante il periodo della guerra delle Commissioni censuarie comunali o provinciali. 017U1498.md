@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- In forza dei poteri conferiti al Governo del Re dalla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In forza dei poteri conferiti al Governo del Re dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Veduta la [legge 1° marzo 1886, n. 3682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-03-01;3682), sul riordinamento dell'imposta fondiaria ed il regolamento per la esecuzione di detta legge, approvato con [R. decreto 26 gennaio 1905, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-26;65); 
+ Veduta la [legge 1° marzo 1886, n. 3682](Riordinamento%20dellimposta%20fondiaria.%20086U3682.md), sul riordinamento dell'imposta fondiaria ed il regolamento per la esecuzione di detta legge, approvato con [R. decreto 26 gennaio 1905, n. 65](Che%20approva%20e%20contiene%20il%20regolamento%20per%20lesecuzione%20delle%20leggi%20sul%20riordinamento%20dellimposta%20fondiaria.%20005U0065.md); 
  
  Sentito il Consiglio dei ministri; 
  

@@ -16,17 +16,17 @@ RE D'ITALIA
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 
-Visto il Nostro decreto in data 16 novembre 1922, n. 1784, e quello in data 22 aprile 1923, n. 1160, convertiti nella [legge n. 473 del 17 aprile 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), circa l'attribuzione della pensione privilegiata di guerra al personale italiano combattente in Libia in determinati cicli di operazioni belliche;
+Visto il Nostro decreto in data 16 novembre 1922, n. 1784, e quello in data 22 aprile 1923, n. 1160, convertiti nella [legge n. 473 del 17 aprile 1925](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), circa l'attribuzione della pensione privilegiata di guerra al personale italiano combattente in Libia in determinati cicli di operazioni belliche;
 
 Visto l'art. 4 del Nostro decreto in data 12 luglio 1923, n. 1491, circa la pensione, l'assegno o l'indennita' di guerra alle truppe operanti nelle Colonie;
 
-Visto il Nostro decreto 15 marzo 1923, n. 967, convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), che stabilisce i gradi della M. V. S.
+Visto il Nostro decreto 15 marzo 1923, n. 967, convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), che stabilisce i gradi della M. V. S.
 
 N. e le indennita' relative;
 
 Visto il Nostro decreto 13 dicembre 1923, n. 3110, relativo ai capi squadra e vice-capi squadra della M. V. S. N. dislocati nelle Colonie;
 
-Visto il Nostro decreto 1° maggio 1924, n. 1166, convertito nella [legge 24 dicembre 1925, n. 2301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2301), riguardante la costituzione di due legioni libiche di Milizia volontaria per la sicurezza nazionale, e successive modificazioni;
+Visto il Nostro decreto 1° maggio 1924, n. 1166, convertito nella [legge 24 dicembre 1925, n. 2301](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U2301.md), riguardante la costituzione di due legioni libiche di Milizia volontaria per la sicurezza nazionale, e successive modificazioni;
 
 Visto il Nostro decreto 10 luglio 1925, n. 1389, convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), che modifica le paghe delle camicie nere delle legioni permanenti della Libia;
 
@@ -72,9 +72,9 @@ Ai capi squadra ed ai vice-capi squadra, appartenenti alle legioni permanenti di
 
 ## Art. 4.
 
-L'[art. 13 del R. decreto 1° maggio 1924, n. 1166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-01;1166#art_13), convertito nella [legge 24 dicembre 1925, n. 2301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2301), deve intendersi nel senso che al personale della M. V. S. N. dislocato nelle Colonie, come agli appartenenti ai Regi corpi di truppe coloniali, e' applicabile l'[art. 4 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
+L'[art. 13 del R. decreto 1° maggio 1924, n. 1166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-01;1166#art_13), convertito nella [legge 24 dicembre 1925, n. 2301](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U2301.md), deve intendersi nel senso che al personale della M. V. S. N. dislocato nelle Colonie, come agli appartenenti ai Regi corpi di truppe coloniali, e' applicabile l'[art. 4 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
  
- I periodi di tempo in cui i corpi e servizi dovranno intendersi operanti nelle Colonie, ai sensi e per gli effetti dell'[art. 4 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), saranno stabiliti con le modalita' di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-11-16;1784#art_1) e [3 del R. decreto 16 novembre 1922, n. 1784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-11-16;1784#art_3), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473).
+ I periodi di tempo in cui i corpi e servizi dovranno intendersi operanti nelle Colonie, ai sensi e per gli effetti dell'[art. 4 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), saranno stabiliti con le modalita' di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-11-16;1784#art_1) e [3 del R. decreto 16 novembre 1922, n. 1784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-11-16;1784#art_3), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md).
 
 ### Art. 5.
 

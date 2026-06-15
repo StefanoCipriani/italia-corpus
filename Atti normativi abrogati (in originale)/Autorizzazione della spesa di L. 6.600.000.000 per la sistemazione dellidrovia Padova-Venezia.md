@@ -26,7 +26,7 @@ L'esecuzione delle opere di navigazione interna della idrovia Padova-Venezia sar
 
 ## Art. 3.
 
-I lavori di cui all'articolo 1 della presente legge potranno esseri eseguiti prescindendo dall'osservanza del disposto dell'[articolo 11 del regio decreto-legge 10 giugno 1936, n. 1853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-06-10;1853#art_11), convertito nella [legge 7 gennaio 1937, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-01-07;191).
+I lavori di cui all'articolo 1 della presente legge potranno esseri eseguiti prescindendo dall'osservanza del disposto dell'[articolo 11 del regio decreto-legge 10 giugno 1936, n. 1853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-06-10;1853#art_11), convertito nella [legge 7 gennaio 1937, n. 191](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20giugno%201936-XIV%20n.%201853%20che%20approva%20le%20norme%20relative%20alla%20polizia%20della%20laguna%20di%20Venezia.%20037U0191.md).
 
 ## Art. 4.
 

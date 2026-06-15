@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 10 gennaio 1929, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-10;27), e successive modificazioni;
+Visto il [regio decreto-legge 10 gennaio 1929, n. 27](Soppressione%20del%20Servizio%20stenografico%20ed%20istituzione%20di%20un%20Servizio%20speciale%20riservato%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri.%20029U0027.md), e successive modificazioni;
 
 Visto il [decreto legislativo Presidenziale 28 giugno 1946, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-28;17);
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 

@@ -40,7 +40,7 @@ Per il collocamento dello zolfo, posto a disposizione dell'Ente zolfi italiani, 
 
 ## Art. 5.
 
-La liquidazione del ricavo delle vendite dello zolfo grezzo, messo a disposizione dell'Ente zolfi italiani, dai produttori, dal 1 agosto 1955 in poi, e' fatta prescindendo, ai sensi e per gli effetti degli [articoli 8 del regio decreto-legge 11 dicembre 1933, n. 1699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-11;1699#art_8), convertito nella [legge 5 febbraio 1934, n. 307](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20contenente%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0307.md), e del [regio decreto 3 gennaio 1934, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-03;18), dalla precedenza cronologica di emissione dei titoli rappresentativi delle giacenze di zolfo previste dall'art. 4.
+La liquidazione del ricavo delle vendite dello zolfo grezzo, messo a disposizione dell'Ente zolfi italiani, dai produttori, dal 1 agosto 1955 in poi, e' fatta prescindendo, ai sensi e per gli effetti degli [articoli 8 del regio decreto-legge 11 dicembre 1933, n. 1699](Nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20033U1699.md), convertito nella [legge 5 febbraio 1934, n. 307](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20contenente%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0307.md), e del [regio decreto 3 gennaio 1934, n. 18](Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md), dalla precedenza cronologica di emissione dei titoli rappresentativi delle giacenze di zolfo previste dall'art. 4.
 
 ## Art. 6.
 
@@ -75,7 +75,7 @@ L'Ente zolfi italiani e' autorizzato a trattenere sul prezzo netto che per ogni 
 
 ## Art. 11.
 
-Entro un anno dall'entrata in vigore della presente legge, il Governo della Repubblica, sentito il Governo della Regione siciliana, emanera' le norme per la riorganizzazione dell'Ente zolfi italiani, tenendo conto della competenza esclusiva della Regione sulle miniere siciliane ai sensi della [legge costituzionale 26 febbraio 1948, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2).
+Entro un anno dall'entrata in vigore della presente legge, il Governo della Repubblica, sentito il Governo della Regione siciliana, emanera' le norme per la riorganizzazione dell'Ente zolfi italiani, tenendo conto della competenza esclusiva della Regione sulle miniere siciliane ai sensi della [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md).
  Entro lo stesso limite di tempo il Governo della Repubblica, sentito il Governo della Regione siciliana, coordinera' in testo unico tutte le vigenti disposizioni riguardanti l'industria zolfifera nazionale.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

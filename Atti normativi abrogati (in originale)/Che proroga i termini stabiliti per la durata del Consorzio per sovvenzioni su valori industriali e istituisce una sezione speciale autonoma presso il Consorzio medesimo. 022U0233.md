@@ -14,7 +14,7 @@ I termini assegnati dall'[art. 1 del Regio decreto-legge 23 settembre 1920, n. 1
 
 ## Art. 2.
 
-Il Consorzio medesimo a mezzo di una Sezione speciale autonoma, ha facolta' di effettuare operazioni di credito all'infuori delle sovvenzioni cui e' presentemente autorizzato, procurandosi il risconto relativo, dagli Istituti di emissione, oltre i limiti considerati dai vigenti decreti ma per somma in nessun caso eccedente un miliardo di lire, ferme le condizioni di cui all'[articolo 7 del Regio decreto 23 maggio 1915, n. 700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-23;700#art_7).
+Il Consorzio medesimo a mezzo di una Sezione speciale autonoma, ha facolta' di effettuare operazioni di credito all'infuori delle sovvenzioni cui e' presentemente autorizzato, procurandosi il risconto relativo, dagli Istituti di emissione, oltre i limiti considerati dai vigenti decreti ma per somma in nessun caso eccedente un miliardo di lire, ferme le condizioni di cui all'[articolo 7 del Regio decreto 23 maggio 1915, n. 700](Che%20stabilisce%20norme%20per%20il%20funzionamento%20del%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20du%20cio%20al%20R.%20decreto%2020%20dicembre%201914%20n.%201375.%20015U0700.md).
 
 ## Art. 3.
 

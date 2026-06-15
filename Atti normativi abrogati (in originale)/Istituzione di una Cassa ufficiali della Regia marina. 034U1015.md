@@ -80,7 +80,7 @@ Gli ufficiali iscritti alla «Cassa ufficiali», che verranno collocati in ausil
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 15 febbraio 1937, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-15;245), convertito senza modificazioni dalla [L. 29 maggio 1937, n. 963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-05-29;963), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 15 febbraio 1937, n. 245](Modificazioni%20alla%20legge%2014%20giugno%201934-XII%20n.%201015%20relativa%20alla%20istituzione%20della%20Cassa%20ufficiali%20della%20Regia%20marina.%20037U0245.md), convertito senza modificazioni dalla [L. 29 maggio 1937, n. 963](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20febbraio%201937-XV%20n.%20245%20riguardante%20modificazioni%20alla%20legge%2014%20giugno%201934-XII%20n.%201015%20relativa%20alla%20istituzione%20della%20Cassa%20ufficiali%20della%20_88466c3431d5.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 10.
 
@@ -89,7 +89,7 @@ Salvo il caso previsto dall'articolo precedente, gli ufficiali che cessano dal s
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 15 febbraio 1937, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-15;245), convertito senza modificazioni dalla [L. 29 maggio 1937, n. 963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-05-29;963), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 15 febbraio 1937, n. 245](Modificazioni%20alla%20legge%2014%20giugno%201934-XII%20n.%201015%20relativa%20alla%20istituzione%20della%20Cassa%20ufficiali%20della%20Regia%20marina.%20037U0245.md), convertito senza modificazioni dalla [L. 29 maggio 1937, n. 963](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20febbraio%201937-XV%20n.%20245%20riguardante%20modificazioni%20alla%20legge%2014%20giugno%201934-XII%20n.%201015%20relativa%20alla%20istituzione%20della%20Cassa%20ufficiali%20della%20_88466c3431d5.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 11.
 

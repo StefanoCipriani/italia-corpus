@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 settembre 1938, n. 1528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-07;1528), concernente l'utilizzazione dei carri ed attrezzi di carico nei binari di raccordo con le Ferrovie dello Stato. 
+ E' convertito in legge il [R. decreto-legge 7 settembre 1938, n. 1528](Utilizzazione%20dei%20carri%20ed%20attrezzi%20di%20carico%20nei%20binari%20di%20raccordo%20con%20le%20Ferrovie%20dello%20Stato.%20038U1528.md), concernente l'utilizzazione dei carri ed attrezzi di carico nei binari di raccordo con le Ferrovie dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

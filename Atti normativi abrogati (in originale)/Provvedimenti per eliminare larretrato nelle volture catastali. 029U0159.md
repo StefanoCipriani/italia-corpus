@@ -18,11 +18,11 @@ Per il rilascio da parte degli uffici distrettuali delle imposte di ogni copia, 
 
 ## Art. 2.
 
-All'[art. 2 del R. decreto 7 gennaio 1923, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;18#art_2), e' sostituito il seguente: 
+All'[art. 2 del R. decreto 7 gennaio 1923, n. 18](Che%20reca%20modificazioni%20alla%20tariffa%20dei%20diritti%20catastali%20023U0018.md), e' sostituito il seguente: 
  
  «Sono stabiliti: 
  
- a) un diritto di scritturazione del sessanta per cento sul diritto graduale di cui al titolo I della tariffa allegata al [R. decreto 7 gennaio 1923, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;18); 
+ a) un diritto di scritturazione del sessanta per cento sul diritto graduale di cui al titolo I della tariffa allegata al [R. decreto 7 gennaio 1923, n. 18](Che%20reca%20modificazioni%20alla%20tariffa%20dei%20diritti%20catastali%20023U0018.md); 
  
  b) un diritto fisso di lire una per la prima pagina e di centesimi 25 per le pagine successive dei certificati, delle copie (escluse quelle di mappa) e degli estratti catastali contemplati dal titolo II della tariffa, annessa al [decreto-legge 13 aprile 1919, n. 705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-04-13;705), quando essi certificati, copie ed estratti si rilascino a pagamento. 
  
@@ -32,7 +32,7 @@ All'[art. 2 del R. decreto 7 gennaio 1923, n. 18](https://www.normattiva.it/uri-
 
 ## Art. 3.
 
-All'[art. 3 del R. decreto 7 gennaio 1923, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;18#art_3), e' sostituito il seguente: 
+All'[art. 3 del R. decreto 7 gennaio 1923, n. 18](Che%20reca%20modificazioni%20alla%20tariffa%20dei%20diritti%20catastali%20023U0018.md), e' sostituito il seguente: 
  
  «In corrispondenza al capitolo del bilancio dell'entrata indicato al precedente articolo sara' istituito un altro capitolo nel bilancio della spesa dello stesso Ministero per il pagamento al personale degli uffici distrettuali delle imposte: 
  
@@ -44,7 +44,7 @@ All'[art. 3 del R. decreto 7 gennaio 1923, n. 18](https://www.normattiva.it/uri-
 
 ## Art. 4.
 
-Il Governo del Re e' autorizzato a riunire e coordinare le vigenti disposizioni legislative riguardanti i diritti catastali contenute nel [decreto Luogotenenziale 13 aprile 1919, numero 705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-13;705), nel [R. decreto 7 gennaio 1923, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;18), nel [R. decreto-legge 30 dicembre 1924, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-12-30;2102), e nel presente decreto. 
+Il Governo del Re e' autorizzato a riunire e coordinare le vigenti disposizioni legislative riguardanti i diritti catastali contenute nel [decreto Luogotenenziale 13 aprile 1919, numero 705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-13;705), nel [R. decreto 7 gennaio 1923, n. 18](Che%20reca%20modificazioni%20alla%20tariffa%20dei%20diritti%20catastali%20023U0018.md), nel [R. decreto-legge 30 dicembre 1924, n. 2102](Diritti%20per%20la%20consultazione%20degli%20atti%20catastali.%20024U2102.md), e nel presente decreto. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

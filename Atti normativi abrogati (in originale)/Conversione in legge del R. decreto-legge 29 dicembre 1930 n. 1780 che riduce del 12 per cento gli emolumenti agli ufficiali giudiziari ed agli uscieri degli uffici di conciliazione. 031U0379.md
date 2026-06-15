@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 dicembre 1930, n. 1780](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-29;1780), concernente la riduzione degli emolumenti spettanti agli ufficiali giudiziari ed agli uscieri degli uffici di conciliazione. 
+ E' convertito in legge il [R. decreto-legge 29 dicembre 1930, n. 1780](Riduzione%20degli%20emolumenti%20spettanti%20agli%20ufficiali%20giudiziari%20ed%20agli%20uscieri%20degli%20uffici%20di%20conciliazione.%20030U1780.md), concernente la riduzione degli emolumenti spettanti agli ufficiali giudiziari ed agli uscieri degli uffici di conciliazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

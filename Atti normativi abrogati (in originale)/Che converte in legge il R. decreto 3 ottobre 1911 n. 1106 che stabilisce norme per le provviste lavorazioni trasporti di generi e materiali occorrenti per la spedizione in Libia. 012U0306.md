@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 3 ottobre 1911 n. 1106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-03;1106), allegato alla presente, che stabilisce norme per le provviste, lavorazioni, trasporti di generi e materiali occorrenti per la spedizione in Tripolitania. 
+ E' convertito in legge il [R. decreto 3 ottobre 1911 n. 1106](Che%20porta%20norme%20per%20le%20provviste%20lavorazioni%20e%20trasporti%20di%20generi%20e%20materiali%20occorrenti%20per%20la%20spedizione%20in%20Tripolitania.%20011U1106.md), allegato alla presente, che stabilisce norme per le provviste, lavorazioni, trasporti di generi e materiali occorrenti per la spedizione in Tripolitania. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

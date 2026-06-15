@@ -14,7 +14,7 @@ E'vietato esibire, esporre, pubblicare, vendere o distribuire in qualsiasi modo 
 
 ## Art. 2.
 
-Il contravventore e' punito con l'ammenda fino a cinquecento lire, senza pregiudizio delle maggiori pene previste all'[art. 3 della legge 21 marzo 1915, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-03-21;273#art_3). 
+Il contravventore e' punito con l'ammenda fino a cinquecento lire, senza pregiudizio delle maggiori pene previste all'[art. 3 della legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md). 
  
  Il presente decreto entrera' in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta ufficiale. 
  

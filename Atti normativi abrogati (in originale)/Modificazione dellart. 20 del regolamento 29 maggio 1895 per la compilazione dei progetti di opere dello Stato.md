@@ -16,7 +16,7 @@ Visto il regolamento per la compilazione dei progetti di opere dello Stato che s
 
 Ritenuta la necessita' di modificare l'art. 20 del regolamento stesso allo scopo di adeguare le analisi dei prezzi di progetto alle condizioni del mercato;
 
-Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1);
+Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio superiore dei lavori pubblici;
 

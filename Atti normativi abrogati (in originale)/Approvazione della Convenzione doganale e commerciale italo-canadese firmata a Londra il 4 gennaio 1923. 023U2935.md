@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Piena ed intera esecuzione e' data alla qui annessa Convenzione doganale commerciale italo-canadese, firmata a Londra il 4 gennaio 1923, convalidandosi il [R. decreto-legge 15 settembre 1923, n. 2222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-15;2222). 
+ Piena ed intera esecuzione e' data alla qui annessa Convenzione doganale commerciale italo-canadese, firmata a Londra il 4 gennaio 1923, convalidandosi il [R. decreto-legge 15 settembre 1923, n. 2222](Convenzione%20doganale%20e%20commerciale%20Italo-Canadese.%20023U2222.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

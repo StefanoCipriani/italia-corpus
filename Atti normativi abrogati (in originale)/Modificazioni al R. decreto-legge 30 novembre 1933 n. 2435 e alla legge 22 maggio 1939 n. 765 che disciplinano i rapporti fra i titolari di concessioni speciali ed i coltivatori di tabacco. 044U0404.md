@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-30;2435#art_2) e [4 del R. decreto-legge 30 novembre 1933, n. 2435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-30;2435#art_4), modificati dall'[art. 1 della legge 22 maggio 1939, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-05-22;765#art_1), sono sostituiti dai seguenti: 
+Gli [articoli 2](Disciplina%20dei%20rapporti%20tra%20i%20titolari%20di%20concessioni%20speciali%20ed%20i%20coltivatori%20del%20tabacco.%20033U2435.md) e [4 del R. decreto-legge 30 novembre 1933, n. 2435](Disciplina%20dei%20rapporti%20tra%20i%20titolari%20di%20concessioni%20speciali%20ed%20i%20coltivatori%20del%20tabacco.%20033U2435.md), modificati dall'[art. 1 della legge 22 maggio 1939, n. 765](Modificazioni%20al%20Regio%20decreto-legge%2030%20novembre%201933-XII%20n.%202435%20che%20disciplina%20i%20rapporti%20tra%20i%20titolari%20di%20concessioni%20speciali%20ed%20i%20coltivatori%20di%20tabacco.%20039U0765.md), sono sostituiti dai seguenti: 
  
  «Art. 2. - L'Amministrazione dei monopoli di Stato ha facolta' di comunicare al concessionario ed al coltivatore, prima che si inizino le operazioni di trapiantamento, quali fra coloro che sono stati designati per condurre la coltivazione, non soddisfino, a suo giudizio insindacabile, ai requisiti della buona condotta morale e della necessaria capacita' tecnica. 
  
@@ -36,7 +36,7 @@ Gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decr
 
 ## Art. 2.
 
-Con successivo decreto sara' provveduto, in quanto occorra, alla emanazione di altre norme per il funzionamento e la procedura delle Commissioni arbitrali, in aggiunta od a modifica di quelle contenute nel [R. decreto 25 gennaio 1940, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-01-25;107).
+Con successivo decreto sara' provveduto, in quanto occorra, alla emanazione di altre norme per il funzionamento e la procedura delle Commissioni arbitrali, in aggiunta od a modifica di quelle contenute nel [R. decreto 25 gennaio 1940, n. 107](Regolamento%20di%20procedura%20delle%20Commissioni%20arbitrali%20per%20la%20risoluzione%20delle%20controversie%20tra%20coltivatori%20o%20concessionari%20di%20coltivazioni%20di%20tabacco.%20040U0107.md).
 
 ## Art. 3.
 

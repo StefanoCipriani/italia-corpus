@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 gennaio 1932, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-01-18;43), relativo alle norme riguardanti la polizia, la sicurezza e la regolarita' dell'esercizio delle ferrovie. 
+ E' convertito in legge il [R. decreto-legge 18 gennaio 1932, n. 43](Norme%20riguardanti%20la%20polizia%20la%20sicurezza%20e%20la%20regolarita%20dellesercizio%20delle%20ferrovie.%20032U0043.md), relativo alle norme riguardanti la polizia, la sicurezza e la regolarita' dell'esercizio delle ferrovie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 gennaio 1932, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-01-25;113), che autorizza una ulteriore spesa di L. 3.000.000 per la prosecuzione dei lavori della nuova linea ferroviaria Fossano-Mondovi-Ceva. 
+ E' convertito in legge il [R. decreto-legge 25 gennaio 1932, n. 113](Autorizzazione%20di%20una%20ulteriore%20spesa%20per%20la%20prosecuzione%20dei%20lavori%20della%20ferrovia%20Fossano-Mondovi-Ceva.%20032U0113.md), che autorizza una ulteriore spesa di L. 3.000.000 per la prosecuzione dei lavori della nuova linea ferroviaria Fossano-Mondovi-Ceva. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 23 maggio 1932 - Anno X 
  

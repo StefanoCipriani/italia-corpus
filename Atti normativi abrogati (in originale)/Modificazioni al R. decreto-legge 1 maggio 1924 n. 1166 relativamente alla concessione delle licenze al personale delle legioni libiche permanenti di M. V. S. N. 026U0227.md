@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il Nostro decreto in data 1° maggio 1924, n. 1166, convertito nella [legge in data 24 dicembre 1925, n. 2301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2301), col quale e' regolato il trattamento del personale delle legioni libiche permanenti di M. V. S. N.;
+Visto il Nostro decreto in data 1° maggio 1924, n. 1166, convertito nella [legge in data 24 dicembre 1925, n. 2301](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U2301.md), col quale e' regolato il trattamento del personale delle legioni libiche permanenti di M. V. S. N.;
 
 Considerata la necessita' di modificare le norme relative alla concessione della licenza straordinaria;
 

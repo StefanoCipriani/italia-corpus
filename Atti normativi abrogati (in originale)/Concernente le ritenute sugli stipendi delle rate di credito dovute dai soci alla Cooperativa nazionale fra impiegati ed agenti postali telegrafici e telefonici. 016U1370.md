@@ -30,7 +30,7 @@ L'Amministrazione delle poste, dei telegrafi e dei telefoni e' autorizzata, prev
  
  La ritenuta puo' farsi anche oltre il limite del quinto dello stipendio, ma non oltre due quinti. 
  
- In ogni caso, quando preesistano altre ritenute ammesse dalla [legge 30 giugno 1908, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;335), le ritenute consentite dal presente decreto dovranno essere limitate in conformita' al disposto del 2° comma dell'articolo 4 della predetta legge. 
+ In ogni caso, quando preesistano altre ritenute ammesse dalla [legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md), le ritenute consentite dal presente decreto dovranno essere limitate in conformita' al disposto del 2° comma dell'articolo 4 della predetta legge. 
  
  L'Amministrazione delle poste, dei telegrafi e dei telefoni, versa mensilmente alla Cooperativa nazionale l'importo delle ritenute eseguite. 
  

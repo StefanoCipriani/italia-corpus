@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, del Ministro per le fu
 
 1.
 
-Ai fini dell'attuazione delle previsioni dell'[articolo 3, comma 1, del decreto-legge 19 dicembre 1992, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-19;487#art_3-com1), convertito, con modificazioni, dalla [legge 17 febbraio 1993, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33), relative alle societa' di cui all'articolo 4, comma 2, del predetto decreto, possono utilizzarsi le disponibilita' di cui all'articolo 5, comma 3, del medesimo decreto.
+Ai fini dell'attuazione delle previsioni dell'[articolo 3, comma 1, del decreto-legge 19 dicembre 1992, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-19;487#art_3-com1), convertito, con modificazioni, dalla [legge 17 febbraio 1993, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201992%20n.%20487%20recante%20soppressione%20dellEnte%20partecipazioni%20e%20finanziamento%20industria%20manifatturiera%20-%20EFIM.md), relative alle societa' di cui all'articolo 4, comma 2, del predetto decreto, possono utilizzarsi le disponibilita' di cui all'articolo 5, comma 3, del medesimo decreto.
 
 ## Art. 2.
 

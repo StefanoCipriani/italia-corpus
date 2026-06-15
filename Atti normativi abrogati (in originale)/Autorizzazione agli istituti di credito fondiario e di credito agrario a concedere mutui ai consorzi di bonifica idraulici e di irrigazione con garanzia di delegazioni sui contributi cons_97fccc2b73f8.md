@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduta la legge ([testo unico) 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-07-16;646), sul credito fondiario;
 
-Veduto il testo unico di leggi sul credito agrario approvato col [R. decreto 9 aprile 1922, n. 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-09;932);
+Veduto il testo unico di leggi sul credito agrario approvato col [R. decreto 9 aprile 1922, n. 932](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md);
 
 Veduta la legge ([testo unico) 30 dicembre 1923, n. 3256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256), sulle bonificazioni;
 

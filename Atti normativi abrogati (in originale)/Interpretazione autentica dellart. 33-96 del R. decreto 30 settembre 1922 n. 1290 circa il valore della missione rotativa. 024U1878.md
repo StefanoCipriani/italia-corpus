@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 2 ottobre 1919, n. 1858](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1858);
 
-Visto il [R. decreto 30 settembre 1922, n. 1290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-09-30;1290);
+Visto il [R. decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md);
 
 Riconosciuta la necessita' di interpretare autenticamente l'art. 33 del decreto 30 settembre 1922, n. 1290, modificativo dell'[art. 96 del R. decreto 2 ottobre 1919, n. 1858](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1858#art_96), nella parte in cui parla di missioni rotative, indicando il significato che nella pratica amministrativa veniva dato a tale espressione e quali in conseguenza gli intervalli, che si dispose non costituire interruzioni del servizio agli effetti della nomina ad aiuto ufficiale del supplente;
 

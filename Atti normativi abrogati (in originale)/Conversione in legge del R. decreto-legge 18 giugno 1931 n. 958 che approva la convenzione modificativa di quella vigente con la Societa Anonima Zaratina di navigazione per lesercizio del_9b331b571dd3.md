@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 giugno 1931, n. 958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-18;958), che approva la convenzione modificativa di quella vigente con la Societa' Anonima Zaratina di navigazione per l'esercizio delle linee di navigazione sovvenzionate costituenti il gruppo H (Zara). 
+ E' convertito in legge il [R. decreto-legge 18 giugno 1931, n. 958](Approvazione%20della%20convenzione%20modificativa%20di%20quella%20vigente%20con%20la%20Societa%20anonima%20zaratina%20per%20lesercizio%20delle%20linee%20sovvenzionate%20di%20navigazione%20costituenti%20il%20Gruppo%20H%20Zara.%20031U0958.md), che approva la convenzione modificativa di quella vigente con la Societa' Anonima Zaratina di navigazione per l'esercizio delle linee di navigazione sovvenzionate costituenti il gruppo H (Zara). 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 21 dicembre 1931 - Anno X 
  

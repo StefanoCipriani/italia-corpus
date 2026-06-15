@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Vista la [legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md), per la protezione e l'assistenza degli orfani di guerra;
 
-Visti la [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), modificata con il [R. decreto 30 dicembre 1923, n. 2841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841), e la [legge 17 giugno 1926, n. 1187](Riforma%20dei%20Regi%20decreti%2030%20dicembre%201923%20nn.%202841%20e%203048%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20026U1187.md), sulle istituzioni pubbliche di assistenza e beneficenza;
+Visti la [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), modificata con il [R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e la [legge 17 giugno 1926, n. 1187](Riforma%20dei%20Regi%20decreti%2030%20dicembre%201923%20nn.%202841%20e%203048%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20026U1187.md), sulle istituzioni pubbliche di assistenza e beneficenza;
 
-Visto il [R. decreto 19 aprile 1923, n. 850](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;850);
+Visto il [R. decreto 19 aprile 1923, n. 850](Concernente%20la%20sistemazione%20dei%20servizi%20di%20vigilanza%20protezione%20ed%20assistenza%20dei%20reduci%20validi%20ed%20invalidi%20della%20guerra%20nazionale%20e%20delle%20famiglie%20dei%20caduti.%20023U0850.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A decorrere dal 1° luglio 1918 la liquidazione della retribuzione spettante ai titolari degli uffici telefonici di 2ª classe, a quelli degli uffici fonotelegrafici ed agli esercenti i posti telefonici pubblici, e' regolata per ciascun triennio, applicando i criteri fissati dal [R. decreto 17 aprile 1910, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-17;246), in base ai dati del traffico verificatosi nel triennio finanziario precedente. 
+A decorrere dal 1° luglio 1918 la liquidazione della retribuzione spettante ai titolari degli uffici telefonici di 2ª classe, a quelli degli uffici fonotelegrafici ed agli esercenti i posti telefonici pubblici, e' regolata per ciascun triennio, applicando i criteri fissati dal [R. decreto 17 aprile 1910, n. 246](Che%20fissa%20lorario%20e%20le%20retribuzioni%20al%20personale%20addetto%20agli%20uffici%20telefonici%20ai%20posti%20telefonici%20pubblici%20ed%20agli%20uffici%20fono-telegrafici.%20010U0246.md), in base ai dati del traffico verificatosi nel triennio finanziario precedente. 
  
  La retribuzione verra' corrisposta a mesi posticipati.
 
@@ -36,7 +36,7 @@ Ai titolari degli uffici fonotelegrafici e' corrisposto un compenso di centesimi
 
 ## Art. 5.
 
-Sono abrogati gli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-17;246#art_5), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-17;246#art_8) e [13 del R. decreto 17 aprile 1910, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-17;246#art_13). 
+Sono abrogati gli [articoli 5](Che%20fissa%20lorario%20e%20le%20retribuzioni%20al%20personale%20addetto%20agli%20uffici%20telefonici%20ai%20posti%20telefonici%20pubblici%20ed%20agli%20uffici%20fono-telegrafici.%20010U0246.md), [8](Che%20fissa%20lorario%20e%20le%20retribuzioni%20al%20personale%20addetto%20agli%20uffici%20telefonici%20ai%20posti%20telefonici%20pubblici%20ed%20agli%20uffici%20fono-telegrafici.%20010U0246.md) e [13 del R. decreto 17 aprile 1910, n. 246](Che%20fissa%20lorario%20e%20le%20retribuzioni%20al%20personale%20addetto%20agli%20uffici%20telefonici%20ai%20posti%20telefonici%20pubblici%20ed%20agli%20uffici%20fono-telegrafici.%20010U0246.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farle osservare. 
  

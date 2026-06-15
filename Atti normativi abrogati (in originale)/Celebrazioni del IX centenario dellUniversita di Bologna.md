@@ -62,7 +62,7 @@ I legati e le donazioni di beni immobili e mobili da chiunque effettuati, nel tr
 
 2.
 
-Le liberalita' a favore dell'Universita' di Bologna, effettuate nel periodo e per i fini di cui al comma precedente, sono deducibili dal reddito di impresa anche oltre la misura del 2 per cento prevista dal [secondo comma, lettera c), dell'articolo 60 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_60-com2-letc), e comunque in misura non superiore al 10 per cento del reddito d'impresa dell'anno di imputazione.
+Le liberalita' a favore dell'Universita' di Bologna, effettuate nel periodo e per i fini di cui al comma precedente, sono deducibili dal reddito di impresa anche oltre la misura del 2 per cento prevista dal [secondo comma, lettera c), dell'articolo 60 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), e comunque in misura non superiore al 10 per cento del reddito d'impresa dell'anno di imputazione.
 
 3.
 

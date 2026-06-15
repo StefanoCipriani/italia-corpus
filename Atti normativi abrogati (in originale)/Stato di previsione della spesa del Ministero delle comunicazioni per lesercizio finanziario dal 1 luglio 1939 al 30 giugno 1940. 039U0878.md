@@ -14,7 +14,7 @@ Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie
 
 ## Art. 2.
 
-L'Amministrazione dell'Azienda autonoma delle poste e dei telegrafi e' autorizzata ad accertare e riscuotere le entrate ed a far pagare le spese relative all'esercizio finanziario dal 1° luglio 1939 al 30 giugno 1940, ai termini del [Regio decreto-legge 23 aprile 1925, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-23;520), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), in conformita' dello stato di previsione allegato alla presente legge (Appendice n. 1 - Tabelle B e c.)
+L'Amministrazione dell'Azienda autonoma delle poste e dei telegrafi e' autorizzata ad accertare e riscuotere le entrate ed a far pagare le spese relative all'esercizio finanziario dal 1° luglio 1939 al 30 giugno 1940, ai termini del [Regio decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), in conformita' dello stato di previsione allegato alla presente legge (Appendice n. 1 - Tabelle B e c.)
 
 ## Art. 3.
 

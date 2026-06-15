@@ -46,7 +46,7 @@ Perdono meta' della quota pari al soprassoldo di guerra stabilita ai nn. 1 e 2 d
 
 ## Art. 4.
 
-I sottufficiali e militari di truppa italiani appartenenti ai RR. corpi di truppe coloniali che si rendano colpevoli di sperpero o di sciupio di oggetti di corredo o di qualsiasi altro materiale dello Stato, quandanche non si ravvisi in cio' la forma di alienazione o danneggiamento contemplata dall'[art. 212 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_212) per l'esercito, oltre ad essere sottoposti alle adeguate punizioni disciplinari, perdono sugli assegni loro spettanti, fino a completo rimborso del danno cagionato allo Stato, una quota pari al soprassoldo di guerra stabilito per i pari grado del R. esercito. 
+I sottufficiali e militari di truppa italiani appartenenti ai RR. corpi di truppe coloniali che si rendano colpevoli di sperpero o di sciupio di oggetti di corredo o di qualsiasi altro materiale dello Stato, quandanche non si ravvisi in cio' la forma di alienazione o danneggiamento contemplata dall'[art. 212 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, oltre ad essere sottoposti alle adeguate punizioni disciplinari, perdono sugli assegni loro spettanti, fino a completo rimborso del danno cagionato allo Stato, una quota pari al soprassoldo di guerra stabilito per i pari grado del R. esercito. 
  
  Le ritenute di cui al presente articolo sono sospese allorquando i sottufficiali e militari di truppa sono soggetti a quelle stabilite agli articoli 2° e 3°.
 

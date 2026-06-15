@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il soprassoldo mensile previsto per gli ufficiali ed i sottufficiali dei reggimenti alpini e di artiglieria da montagna dal [regio decreto-legge 4 settembre 1925, n. 1644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1644), convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' fissato, con decorrenza dal 1 luglio 1950, nelle seguenti misure:
+Il soprassoldo mensile previsto per gli ufficiali ed i sottufficiali dei reggimenti alpini e di artiglieria da montagna dal [regio decreto-legge 4 settembre 1925, n. 1644](Concessione%20di%20un%20soprassoldo%20mensile%20agli%20ufficiali%20ed%20ai%20sottufficiali%20delle%20truppe%20da%20montagna.%20025U1644.md), convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' fissato, con decorrenza dal 1 luglio 1950, nelle seguenti misure:
 
  ufficiali di qualunque grado. . . . . . . . . . . . . . . L. 2500 marescialli dei tre gradi ed aiutanti di battaglia. . . . L. 1250 sergenti e sergenti maggiori . . . . . . . . . . . . . . . L. 750
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 dicembre 1933, n. 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-21;1992), riflettente modifiche al [R. decreto-legge 26 febbraio 1928, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-26;355), sull'ordinamento del personale coloniale. 
+ E' convertito in legge il [R. decreto-legge 21 dicembre 1933, n. 1992](Modifiche%20al%20R.%20decreto-legge%2026%20febbraio%201928%20n.%20355%20sullordinamento%20del%20personale%20coloniale.%20033U1992.md), riflettente modifiche al [R. decreto-legge 26 febbraio 1928, n. 355](Riordinamento%20del%20personale%20dellAmministrazione%20coloniale.%20028U0355.md), sull'ordinamento del personale coloniale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

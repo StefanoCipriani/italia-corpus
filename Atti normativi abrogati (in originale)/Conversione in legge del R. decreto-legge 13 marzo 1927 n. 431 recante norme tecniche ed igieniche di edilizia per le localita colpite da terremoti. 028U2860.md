@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 marzo 1927, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-13;431), contenente norme tecniche ed igieniche di edilizia, per le localita' colpite da terremoti. 
+ E' convertito in legge il [R. decreto-legge 13 marzo 1927, n. 431](Norme%20tecniche%20ed%20igieniche%20di%20edilizia%20per%20le%20localita%20colpite%20dai%20terremoti.%20027U0431.md), contenente norme tecniche ed igieniche di edilizia, per le localita' colpite da terremoti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

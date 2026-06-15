@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 14 marzo 1938, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-14;882), convertito nella [legge 22 dicembre 1938, n. 2229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-12-22;2229);
+Visto il [R. decreto-legge 14 marzo 1938, n. 882](Aggiornamento%20delle%20disposizioni%20vigenti%20sul%20matrimonio%20degli%20ufficiali%20delle%20Forze%20armate%20dello%20Stato.%20038U0882.md), convertito nella [legge 22 dicembre 1938, n. 2229](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20marzo%201938-XVI%20n.%20882%20concernente%20laggiornamento%20delle%20disposizioni%20vigenti%20sul%20matrimonio%20degli%20ufficiali%20delle%20Forze%20armate%20dello%20Stato.%20038U2229.md);
 
 Visto il [decreto legislativo Luogotenenziale 26 ottobre 1944, n. 507](Modificazioni%20allart.%201%20del%20R.%20decreto-legge%2014%20marzo%201938%20n.%20882%20circa%20limitazioni%20al%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20guardia%20di%20finanza.%20044U0507.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro Segretario di Stato per l'aeronautica, di concerto c
 
 ## Articolo unico.
 
-All'[art. 1 del R. decreto-legge 14 marzo 1938, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-14;882#art_1), convertito nella [legge 22 dicembre 1938, n. 2229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-12-22;2229), quale e' stato sostituito dall'articolo unico del [decreto legislativo Luogotenenziale 26 ottobre 1944, n. 507](Modificazioni%20allart.%201%20del%20R.%20decreto-legge%2014%20marzo%201938%20n.%20882%20circa%20limitazioni%20al%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20guardia%20di%20finanza.%20044U0507.md), e' aggiunto il seguente comma: 
+All'[art. 1 del R. decreto-legge 14 marzo 1938, n. 882](Aggiornamento%20delle%20disposizioni%20vigenti%20sul%20matrimonio%20degli%20ufficiali%20delle%20Forze%20armate%20dello%20Stato.%20038U0882.md), convertito nella [legge 22 dicembre 1938, n. 2229](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20marzo%201938-XVI%20n.%20882%20concernente%20laggiornamento%20delle%20disposizioni%20vigenti%20sul%20matrimonio%20degli%20ufficiali%20delle%20Forze%20armate%20dello%20Stato.%20038U2229.md), quale e' stato sostituito dall'articolo unico del [decreto legislativo Luogotenenziale 26 ottobre 1944, n. 507](Modificazioni%20allart.%201%20del%20R.%20decreto-legge%2014%20marzo%201938%20n.%20882%20circa%20limitazioni%20al%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20guardia%20di%20finanza.%20044U0507.md), e' aggiunto il seguente comma: 
  
  «Gli ufficiali della Regia aeronautica, oltre al compimento del 25° anno di eta', devono aver prestato almeno un anno di servizio presso reparti di volo, se del ruolo naviganti, od aver trascorso almeno un anno di regolare servizio effettivo, se di altri ruoli». 
  

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 14 settembre 1944, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-14;314);
+Visto il [decreto legislativo luogotenenziale 14 settembre 1944, n. 314](../Decreti%20legislativi%20luogotenenziali/Costituzione%20del%20Comitato%20Italiano%20Gestione%20Navi%20C0-GE-NA.%20044U0314.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 24 gennaio 1947, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-24;497);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la marina mercantile, di concerto con i Ministri
 
 ## Art. 1.
 
-Il Comitato italiano Gestioni Navi (Co.Ge.Na.), istituito con il [decreto legislativo luogotenenziale 14 settembre 1944, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-14;314), modificato con [decreto legislativo del Capo provvisorio dello Stato 24 gennaio 1947, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-24;497), e' messo in liquidazione.
+Il Comitato italiano Gestioni Navi (Co.Ge.Na.), istituito con il [decreto legislativo luogotenenziale 14 settembre 1944, n. 314](../Decreti%20legislativi%20luogotenenziali/Costituzione%20del%20Comitato%20Italiano%20Gestione%20Navi%20C0-GE-NA.%20044U0314.md), modificato con [decreto legislativo del Capo provvisorio dello Stato 24 gennaio 1947, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-24;497), e' messo in liquidazione.
 
 ## Art. 2.
 

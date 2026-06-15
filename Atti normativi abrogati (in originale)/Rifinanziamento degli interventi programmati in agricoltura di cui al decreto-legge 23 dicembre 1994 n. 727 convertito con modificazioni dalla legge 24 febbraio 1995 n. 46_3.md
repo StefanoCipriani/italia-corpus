@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di provvedere al rifinanziamento del [decreto-legge 23 dicembre 1994, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-23;727), convertito, con modificazioni, dalla [legge 24 febbraio 1995, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-02-24;46), per assicurare la prosecuzione degli interventi programmati in agricoltura, nonche' di consentire alle aziende agricole di accedere agli interventi compensativi del Fondo di solidarieta' nazionale, anche per i danni prodotti da eventi calamitosi eccezionali a carico di colture ammissibili all'assicurazione agevolata che non siano state di fatto assicurate;
+Ritenuta la straordinaria necessita' ed urgenza di provvedere al rifinanziamento del [decreto-legge 23 dicembre 1994, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-23;727), convertito, con modificazioni, dalla [legge 24 febbraio 1995, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201994%20n.%20727%20recante%20norme%20per%20lavvio%20degli%20interventi%20programmati%20in%20agricoltura%20e%20per%20il%20rientro%20della%20produzione%20lat_8cb4802dedbb.md), per assicurare la prosecuzione degli interventi programmati in agricoltura, nonche' di consentire alle aziende agricole di accedere agli interventi compensativi del Fondo di solidarieta' nazionale, anche per i danni prodotti da eventi calamitosi eccezionali a carico di colture ammissibili all'assicurazione agevolata che non siano state di fatto assicurate;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 marzo 1996;
 
@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Al fine di consentire la completa attuazione degli interventi in agricoltura previsti per l'anno 1995, lo stanziamento di lire 800 miliardi di cui al [decreto-legge 23 dicembre 1994, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-23;727), convertito, con modificazioni, dalla [legge 24 febbraio 1995, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-02-24;46), recante, tra l'altro, norme per l'avvio degli interventi programmati in agricoltura, e' aumentato di lire 875 miliardi.
+Al fine di consentire la completa attuazione degli interventi in agricoltura previsti per l'anno 1995, lo stanziamento di lire 800 miliardi di cui al [decreto-legge 23 dicembre 1994, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-23;727), convertito, con modificazioni, dalla [legge 24 febbraio 1995, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201994%20n.%20727%20recante%20norme%20per%20lavvio%20degli%20interventi%20programmati%20in%20agricoltura%20e%20per%20il%20rientro%20della%20produzione%20lat_8cb4802dedbb.md), recante, tra l'altro, norme per l'avvio degli interventi programmati in agricoltura, e' aumentato di lire 875 miliardi.
 
 2.
 
@@ -42,23 +42,23 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 1.
 
-Al [comma 1 dell'articolo 3 della legge 14 febbraio 1992, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-14;185#art_3-com1), il secondo periodo e' sostituito dal seguente: "A decorrere dagli eventi calamitosi verificatisi nel 1995 sono esclusi, altresi', dal computo del 35 per cento e dalle agevolazioni predette i danni alle produzioni assicurate, relativamente agli eventi determinati dal decreto di cui all'articolo 9, comma 2.".
+Al [comma 1 dell'articolo 3 della legge 14 febbraio 1992, n. 185](Disciplina%20del%20Fondo%20di%20solidarieta%20nazionale.md), il secondo periodo e' sostituito dal seguente: "A decorrere dagli eventi calamitosi verificatisi nel 1995 sono esclusi, altresi', dal computo del 35 per cento e dalle agevolazioni predette i danni alle produzioni assicurate, relativamente agli eventi determinati dal decreto di cui all'articolo 9, comma 2.".
 
 2.
 
-La riduzione della limitazione percentuale di cui all'[articolo 3, comma 1, della legge 14 febbraio 1992, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-14;185#art_3-com1), disposta dall'[articolo 10, comma 3, del decreto-legge 24 novembre 1994, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-24;646#art_10-com3), convertito, con modificazioni, dalla [legge 21 gennaio 1995, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-01-21;22), si intende riferita soltanto alle aziende agricole danneggiate dagli eventi alluvionali del novembre 1994.
+La riduzione della limitazione percentuale di cui all'[articolo 3, comma 1, della legge 14 febbraio 1992, n. 185](Disciplina%20del%20Fondo%20di%20solidarieta%20nazionale.md), disposta dall'[articolo 10, comma 3, del decreto-legge 24 novembre 1994, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-24;646#art_10-com3), convertito, con modificazioni, dalla [legge 21 gennaio 1995, n. 22](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20novembre%201994%20n.%20646%20recante%20interventi%20urgenti%20a%20favore%20delle%20zone%20colpite%20dalle%20eccezionali%20avversita%20atmosferiche%20e%20dagli%20ev_78a80bb0d370.md), si intende riferita soltanto alle aziende agricole danneggiate dagli eventi alluvionali del novembre 1994.
 
 3.
 
-Per i danni alle produzioni ammissibili all'assicurazione agevolata secondo le norme recate dalla [legge 14 febbraio 1992, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-14;185), e successive modificazioni, i contributi e le altre agevolazioni economiche previsti dall'articolo 3 della medesima [legge n. 185 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;185), come modificato dal presente articolo, sono ridotti di una quota pari al 50 per cento dell'importo che le aziende beneficiarie, singole ed associate, avrebbero corrisposto per la stipula di polizze di assicurazione delle produzioni medesime.
+Per i danni alle produzioni ammissibili all'assicurazione agevolata secondo le norme recate dalla [legge 14 febbraio 1992, n. 185](Disciplina%20del%20Fondo%20di%20solidarieta%20nazionale.md), e successive modificazioni, i contributi e le altre agevolazioni economiche previsti dall'articolo 3 della medesima [legge n. 185 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;185), come modificato dal presente articolo, sono ridotti di una quota pari al 50 per cento dell'importo che le aziende beneficiarie, singole ed associate, avrebbero corrisposto per la stipula di polizze di assicurazione delle produzioni medesime.
 
 4.
 
-Esclusivamente per gli eventi calamitosi verificatisi nel 1995, il termine di sessanta giorni, previsto dall'[articolo 2, comma 1, della legge 14 febbraio 1992, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-14;185#art_2-com1), entro cui le regioni deliberano la proposta di declaratoria della eccezionalita' dell'evento calamitoso, decorre dalla data di entrata in vigore della legge di conversione del presente decreto.
+Esclusivamente per gli eventi calamitosi verificatisi nel 1995, il termine di sessanta giorni, previsto dall'[articolo 2, comma 1, della legge 14 febbraio 1992, n. 185](Disciplina%20del%20Fondo%20di%20solidarieta%20nazionale.md), entro cui le regioni deliberano la proposta di declaratoria della eccezionalita' dell'evento calamitoso, decorre dalla data di entrata in vigore della legge di conversione del presente decreto.
 
 5.
 
-Le disposizioni di cui alla [legge 14 febbraio 1992, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-14;185), e successive modificazioni, possono essere recepite negli statuti dei consorzi di difesa di cui all'articolo 10 della medesima [legge n. 185 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;185) con le modalita' e le maggioranze previste per le deliberazioni dell'assemblea ordinaria.
+Le disposizioni di cui alla [legge 14 febbraio 1992, n. 185](Disciplina%20del%20Fondo%20di%20solidarieta%20nazionale.md), e successive modificazioni, possono essere recepite negli statuti dei consorzi di difesa di cui all'articolo 10 della medesima [legge n. 185 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;185) con le modalita' e le maggioranze previste per le deliberazioni dell'assemblea ordinaria.
 
 ## Art. 3.
 

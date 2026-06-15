@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 dicembre 1930, n. 1758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-22;1758), concernente la sistemazione dei rapporti di credito tra il Tesoro dello Stato e la Societa' Manifatture Cotoniere Meridionali. 
+ E' convertito in legge il [R. decreto-legge 22 dicembre 1930, n. 1758](Sistemazione%20dei%20rapporti%20di%20credito%20tra%20il%20Tesoro%20dello%20Stato%20e%20la%20Societa%20Manifatture%20Cotoniere%20Meridionali.%20030U1758.md), concernente la sistemazione dei rapporti di credito tra il Tesoro dello Stato e la Societa' Manifatture Cotoniere Meridionali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

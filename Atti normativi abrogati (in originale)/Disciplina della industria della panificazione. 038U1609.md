@@ -121,7 +121,7 @@ Nei Comuni con popolazione agglomerata superiore ai 5000 abitanti e' vietata la 
 
 ## Art. 15.
 
-Ferme restando le disposizioni contenute nell'[art. 9 del R. decreto 23 giugno 1932, n. 904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-23;904#art_9), le rivendite di pane non possono rifornirsi contemporaneamente da piu' produttori per ciascuno dei tipi di pane di cui e' consentita la produzione e la vendita.
+Ferme restando le disposizioni contenute nell'[art. 9 del R. decreto 23 giugno 1932, n. 904](Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2017%20marzo%201932%20n.%20368%20che%20disciplina%20i%20tipi%20di%20farina%20e%20di%20pane.%20032U0904.md), le rivendite di pane non possono rifornirsi contemporaneamente da piu' produttori per ciascuno dei tipi di pane di cui e' consentita la produzione e la vendita.
 
 ## Art. 16.
 

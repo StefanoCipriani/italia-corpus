@@ -14,19 +14,19 @@ Visto il [regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-re
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
 
-Vista la [legge 22 aprile 1932, n. 490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-04-22;490);
+Vista la [legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md);
 
-Vista la [legge 1° luglio 1940, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-01;899);
+Vista la [legge 1° luglio 1940, n. 899](Istituzione%20della%20Scuola%20media.%20040U0899.md);
 
-Visto il [regio decreto-legge 24 aprile 1935, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-24;565);
+Visto il [regio decreto-legge 24 aprile 1935, n. 565](Limiti%20di%20eta%20pel%20collocamento%20a%20riposo%20del%20personale%20direttivo%20ed%20insegnante%20degli%20istituti%20distruzione.%20035U0565.md);
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);
+Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [regio decreto-legge 29 novembre 1925, n. 2220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-29;2220);
+Visto il [regio decreto-legge 29 novembre 1925, n. 2220](Carriera%20dei%20professori%20dei%20Regi%20istituti%20medi%20distruzione.%20025U2220.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 

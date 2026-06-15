@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 gennaio 1932, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-01-25;54), recante modificazione della costituzione del Consiglio di amministrazione dell'Istituto per le opere pubbliche dei Comuni. 
+ E' convertito in legge il [R. decreto-legge 25 gennaio 1932, n. 54](Modificazione%20della%20costituzione%20del%20Consiglio%20di%20amministrazione%20dellIstituto%20per%20le%20opere%20pubbliche%20dei%20Comuni.%20032U0054.md), recante modificazione della costituzione del Consiglio di amministrazione dell'Istituto per le opere pubbliche dei Comuni. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 17 marzo 1932 - Anno X 
  

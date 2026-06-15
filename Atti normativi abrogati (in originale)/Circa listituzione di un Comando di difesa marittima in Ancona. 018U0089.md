@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 3 luglio 1884, n. 2471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-07-03;2471); 
+ Vista la [legge 3 luglio 1884, n. 2471](Colla%20quale%20e%20autorizzata%20la%20spesa%20di%20lire%2015000000%20sulla%20parte%20straordinaria%20del%20bilancio%20della%20Marina%20per%20la%20difesa%20delle%20coste%20marittime%20del%20Regno.%20084U2471.md); 
  
  Visto il Nostro decreto 10 giugno 1915, n. 883; 
  

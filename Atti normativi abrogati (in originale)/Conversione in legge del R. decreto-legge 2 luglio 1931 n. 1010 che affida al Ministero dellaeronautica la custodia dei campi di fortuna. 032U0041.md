@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 luglio 1931, n. 1010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-02;1010), che affida al Ministero dell'aeronautica la custodia dei campi di fortuna. 
+ E' convertito in legge il [R. decreto-legge 2 luglio 1931, n. 1010](Affidamento%20al%20Ministero%20dellaeronautica%20della%20custodia%20dei%20campi%20di%20fortuna.%20031U1010.md), che affida al Ministero dell'aeronautica la custodia dei campi di fortuna. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 11 gennaio 1932 - Anno X 
  

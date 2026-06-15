@@ -154,11 +154,11 @@ All'[articolo 11 della legge 21 novembre 1991, n. 374](https://www.normattiva.it
 
 2.
 
-Ai giudici di pace che abbiano presentato la domanda di nomina entro il 15 ottobre 1993 non si applica la disposizione di cui all'[articolo 11, comma 16, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_11-com16). Il beneficio viene meno qualora il giudice di pace decada dall'incarico nel corso del primo quadriennio.
+Ai giudici di pace che abbiano presentato la domanda di nomina entro il 15 ottobre 1993 non si applica la disposizione di cui all'[articolo 11, comma 16, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md). Il beneficio viene meno qualora il giudice di pace decada dall'incarico nel corso del primo quadriennio.
 
 3.
 
-Al personale che cessa dal servizio per assumere l'ufficio di giudice di pace non si applicano le disposizioni di cui all'[articolo 1, commi 2-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_1-com2bis) e [2-ter, del decreto-legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_1-com2ter), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-14;438).
+Al personale che cessa dal servizio per assumere l'ufficio di giudice di pace non si applicano le disposizioni di cui all'[articolo 1, commi 2-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_1-com2bis) e [2-ter, del decreto-legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_1-com2ter), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201992%20n.%20384%20recante%20misure%20urgenti%20in%20materia%20di%20previdenza%20di%20sanita%20e%20di%20pubblico%20impiego%20nonche%20disposizioni%20fiscali.md).
 Il beneficio viene meno qualora il giudice di pace decada dall'incarico entro i termini previsti dalle disposizioni innanzi indicate.
 
 ## Art. 16.
@@ -178,11 +178,11 @@ I provvedimenti relativi al personale di cui all'[articolo 12 della legge 21 nov
 
 1.
 
-In deroga a quanto previsto dall'[articolo 3, comma 22, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_3-com22), il Ministro di grazia e giustizia e' autorizzato, sino al 31 dicembre 1996, a procedere alla copertura dei posti vacanti nelle dotazioni organiche del personale delle cancellerie e segreterie giudiziarie e degli uffici notificazioni e protesti, utilizzando le graduatorie dei concorsi pubblicate a decorrere dal 1 gennaio 1994.
+In deroga a quanto previsto dall'[articolo 3, comma 22, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), il Ministro di grazia e giustizia e' autorizzato, sino al 31 dicembre 1996, a procedere alla copertura dei posti vacanti nelle dotazioni organiche del personale delle cancellerie e segreterie giudiziarie e degli uffici notificazioni e protesti, utilizzando le graduatorie dei concorsi pubblicate a decorrere dal 1 gennaio 1994.
 
 2.
 
-In deroga a quanto previsto dall'[articolo 43 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come sostituito dall'[articolo 20 del decreto legislativo 23 dicembre 1993, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546#art_20), per i trasferimenti di personale da operare ai fini della copertura degli organici degli uffici del giudice di pace in sede di prima applicazione della [legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374), e comunque non oltre dodici mesi dalla entrata in funzione degli uffici stessi, si prescinde dai requisiti temporali di permanenza nella sede di prima destinazione.
+In deroga a quanto previsto dall'[articolo 43 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come sostituito dall'[articolo 20 del decreto legislativo 23 dicembre 1993, n. 546](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20modifiche%20al%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20sul%20pubblico%20impiego.md), per i trasferimenti di personale da operare ai fini della copertura degli organici degli uffici del giudice di pace in sede di prima applicazione della [legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374), e comunque non oltre dodici mesi dalla entrata in funzione degli uffici stessi, si prescinde dai requisiti temporali di permanenza nella sede di prima destinazione.
 
 ## Art. 19.
 

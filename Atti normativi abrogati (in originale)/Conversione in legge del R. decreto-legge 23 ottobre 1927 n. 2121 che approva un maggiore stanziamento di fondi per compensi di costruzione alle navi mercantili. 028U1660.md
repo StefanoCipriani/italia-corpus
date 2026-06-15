@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2121), che approva un maggiore stanziamento di fondi per compensi di costruzione alle navi mercantili. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2121](Maggiore%20assegnazione%20di%20fondi%20per%20compensi%20di%20costruzione%20alle%20navi%20mercantili.%20027U2121.md), che approva un maggiore stanziamento di fondi per compensi di costruzione alle navi mercantili. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

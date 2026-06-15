@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 23 giugno 1918, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-06-23;830);
+Vista la [legge 23 giugno 1918, n. 830](Che%20autorizza%20il%20Governo%20ad%20esercitare%20provvisoriamente%20fino%20a%20quando%20non%20siano%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%201918%20i%20bilanci%20delle%20Amministrazioni%20dello%20Stato%20per%20leserci_caa5fa712e10.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -33,7 +33,7 @@ Nello stato di previsione della spesa del Ministero dell'agricoltura per l'eserc
 ## Art. 2.
 
 E' autorizzata la diminuzione di lire duecentosessantanovemila (L.
-269.000) nello stanziamento del capitolo n. 94 «Stipendi ed assegni al personale forestale (Spese fisse) ([art. 13 della legge 22 maggio 1913, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-22;459#art_13))» dello stato di previsione predetto per l'indicato esercizio. 
+269.000) nello stanziamento del capitolo n. 94 «Stipendi ed assegni al personale forestale (Spese fisse) ([art. 13 della legge 22 maggio 1913, n. 459](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201912-913.%20013U0459.md))» dello stato di previsione predetto per l'indicato esercizio. 
  
  Questo decreto sara' presentato al Parlamento per essere convertito in legge ed andra' in vigore il giorno della sua pubblicazione nella Gazzetta ufficiale. 
  

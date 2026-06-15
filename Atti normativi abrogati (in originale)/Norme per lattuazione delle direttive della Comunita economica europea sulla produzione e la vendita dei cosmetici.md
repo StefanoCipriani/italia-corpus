@@ -92,7 +92,7 @@ In caso di prodotti fabbricati all'estero, le pene previste nei commi precedenti
 
 1.
 
-I prodotti disciplinati dalla presente legge non possono essere registrati come presidi medico-chirurgici, ai sensi dell'[articolo 189 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_189) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) e del regolamento approvato con [regio decreto 6 dicembre 1928, n. 3112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-06;3112).
+I prodotti disciplinati dalla presente legge non possono essere registrati come presidi medico-chirurgici, ai sensi dell'[articolo 189 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_189) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) e del regolamento approvato con [regio decreto 6 dicembre 1928, n. 3112](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2023%20giugno%201927%20n.%201070%20contenente%20disposizioni%20varie%20sulla%20sanita%20pubblica.%20028U3112.md).
 
 2.
 

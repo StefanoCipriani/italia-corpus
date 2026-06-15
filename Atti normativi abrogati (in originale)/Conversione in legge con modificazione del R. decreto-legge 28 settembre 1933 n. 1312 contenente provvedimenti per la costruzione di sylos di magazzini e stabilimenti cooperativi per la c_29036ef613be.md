@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1933, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-28;1312), contenente provvedimenti per la costruzione di sylos, di magazzini e di stabilimenti cooperativi per la conservazione e per la trasformazione di prodotti agricoli, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1933, n. 1312](Provvedimenti%20per%20la%20costruzione%20di%20sylos%20di%20magazzini%20e%20di%20stabilimenti%20cooperativi%20per%20la%20conservazione%20e%20per%20la%20trasformazione%20di%20prodotti%20agricoli.%20033U1312.md), contenente provvedimenti per la costruzione di sylos, di magazzini e di stabilimenti cooperativi per la conservazione e per la trasformazione di prodotti agricoli, con la seguente modificazione: 
  
  All'art. 1 del decreto e' sostituito il seguente: 
  

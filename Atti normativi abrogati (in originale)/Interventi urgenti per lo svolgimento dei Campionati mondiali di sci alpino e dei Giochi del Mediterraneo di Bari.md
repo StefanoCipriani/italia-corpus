@@ -68,7 +68,7 @@ L'approvazione assunta all'unanimita' sostituisce ad ogni effetto gli atti di in
 
 5.
 
-Nel caso in cui l'unanimita' per la decisione non venga raggiunta, si applica il disposto di cui al [comma 2-bis dell'articolo 14 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14-com2bis), introdotto dall'[articolo 2 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2).
+Nel caso in cui l'unanimita' per la decisione non venga raggiunta, si applica il disposto di cui al [comma 2-bis dell'articolo 14 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14-com2bis), introdotto dall'[articolo 2 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md).
 
 6.
 
@@ -308,11 +308,11 @@ La conferenza suggerisce, ove occorra, le opportune modifiche ai progetti; verif
 
 7.
 
-La conferenza emette le proprie definitive determinazioni entro trenta giorni dalla ricezione degli atti. La decisione assunta sostituisce le intese, i pareri, le autorizzazioni, le approvazioni ed i nulla-osta previsti dalle leggi statali e regionali, come previsto dall'[articolo 2, commi 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com12) e [13, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_2-com13). Essa comporta, per quanto occorra, variazione anche integrativa agli strumenti urbanistici ed ai piani territoriali, ivi compresi i piani regolatori aeroportuali e portuali. A tale fine copie delle decisioni assunte sono trasmesse tempestivamente agli enti competenti.
+La conferenza emette le proprie definitive determinazioni entro trenta giorni dalla ricezione degli atti. La decisione assunta sostituisce le intese, i pareri, le autorizzazioni, le approvazioni ed i nulla-osta previsti dalle leggi statali e regionali, come previsto dall'[articolo 2, commi 12](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e [13, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md). Essa comporta, per quanto occorra, variazione anche integrativa agli strumenti urbanistici ed ai piani territoriali, ivi compresi i piani regolatori aeroportuali e portuali. A tale fine copie delle decisioni assunte sono trasmesse tempestivamente agli enti competenti.
 
 8.
 
-Le opere approvate dal comitato di coordinamento sono dichiarate di preminente interesse nazionale, di pubblica utilita' e di somma urgenza e vengono realizzate secondo un piano di avanzamento coordinato. Si applicano gli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;367#art_8) e [9 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;367#art_9). L'inosservanza dei termini previsti nei progetti comporta l'intervento sostitutivo del prefetto.
+Le opere approvate dal comitato di coordinamento sono dichiarate di preminente interesse nazionale, di pubblica utilita' e di somma urgenza e vengono realizzate secondo un piano di avanzamento coordinato. Si applicano gli [articoli 8](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md) e [9 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md). L'inosservanza dei termini previsti nei progetti comporta l'intervento sostitutivo del prefetto.
 
 9.
 

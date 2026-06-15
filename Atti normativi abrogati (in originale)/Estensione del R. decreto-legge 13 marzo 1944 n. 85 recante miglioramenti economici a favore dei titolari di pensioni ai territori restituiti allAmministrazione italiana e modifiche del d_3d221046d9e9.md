@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 13 marzo 1944, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-13;85), recante miglioramenti economici a favore dei titolari di pensioni;
+Visto il [R. decreto-legge 13 marzo 1944, n. 85](Miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni.%20044U0085.md), recante miglioramenti economici a favore dei titolari di pensioni;
 
 Visto il [decreto legislativo Luogotenenziale 3 agosto 1944, n. 165](Revoca%20di%20benefici%20in%20materia%20di%20pensioni%20e%20di%20altre%20provvidenze%20accordate%20agi%20appartenenti%20alla%20disciolta%20M.V.S.N.%20e%20sue%20specialita%20e%20ai%20cittadini%20aventi%20benemerenze%20fasciste.%20044U0165.md), che revoca i benefici in materia di pensioni e altre provvidenze accordate agli appartenenti alla disciolta M.V.S.N. e sue specialita' e ai cittadini aventi benemerenze fasciste;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Ritenuta, la necessita' di estendere il suddetto [Regio decreto-legge 13 marzo 1944, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-13;85), a tutte le provincie del Regno, man mano che queste vengono restituite all'Amministrazione italiana, e di apportarvi alcune modificazioni;
+Ritenuta, la necessita' di estendere il suddetto [Regio decreto-legge 13 marzo 1944, n. 85](Miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni.%20044U0085.md), a tutte le provincie del Regno, man mano che queste vengono restituite all'Amministrazione italiana, e di apportarvi alcune modificazioni;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -30,13 +30,13 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per il t
 
 ## Art. 1.
 
-Il [R. decreto-legge 13 marzo 1944, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-13;85), concernente miglioramenti economici a favore dei titolari di pensioni, e' esteso alle provincie del Regno che sono state o saranno restituite dal Governo Militare Alleato all'Amministrazione italiana dopo il 26 marzo 1944, data della sua entrata in vigore. 
+Il [R. decreto-legge 13 marzo 1944, n. 85](Miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni.%20044U0085.md), concernente miglioramenti economici a favore dei titolari di pensioni, e' esteso alle provincie del Regno che sono state o saranno restituite dal Governo Militare Alleato all'Amministrazione italiana dopo il 26 marzo 1944, data della sua entrata in vigore. 
  
  Detta estensione ha effetto nelle singole provincie dalla prima mensilita' di pensione o assegno interamente decorsa dopo le varie scadenze verificatesi a partire dalla data in cui ha avuto inizio nel capoluogo di provincia l'amministrazione del Governo Militare Alleato.
 
 ## Art. 2.
 
-Per la determinazione dell'integrazione temporanea prevista dal [R. decreto-legge 13 marzo 1944, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-13;85), devono essere considerati le pensioni e gli assegni spettanti secondo le norme vigenti all'8 settembre 1943. 
+Per la determinazione dell'integrazione temporanea prevista dal [R. decreto-legge 13 marzo 1944, n. 85](Miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni.%20044U0085.md), devono essere considerati le pensioni e gli assegni spettanti secondo le norme vigenti all'8 settembre 1943. 
  
  Salva l'applicazione del suddetto [decreto-legge 13 marzo 1944, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1944-03-13;85), e del presente decreto, gli altri miglioramenti economici concessi ai titolari di pensioni dopo l'8 settembre 1943 sono revocati dalla data in cui ha effetto nelle singole provincie la concessione dell'integrazione temporanea.
 
@@ -44,11 +44,11 @@ Per la determinazione dell'integrazione temporanea prevista dal [R. decreto-legg
 
 Le pensioni concesse nel periodo compreso fra l'8 settembre 1943 e la data di entrata in vigore del presente decreto o la data da cui esso ha effetto, nelle provincie ove questa e' posteriore, nella cui liquidazione abbiano influito norme o aumenti di stipendio previsti da provvedimenti emanati durante tale periodo dallo pseudo governo fascista repubblicano, devono essere riliquidate dalle Amministrazioni centrali competenti sulla base degli stipendi e delle norme in vigore all'8 settembre 1943. 
  
- Sulle pensioni riliquidate ai sensi del precedente comma sara' calcolata l'integrazione temporanea dovuta ai termini del [R. decreto-legge 13 marzo 1944, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-13;85).
+ Sulle pensioni riliquidate ai sensi del precedente comma sara' calcolata l'integrazione temporanea dovuta ai termini del [R. decreto-legge 13 marzo 1944, n. 85](Miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni.%20044U0085.md).
 
 ## Art. 4.
 
-Al [R. decreto-legge 13 marzo 1944, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-13;85), sono apportati i seguenti emendamenti da applicarsi anche nei territori di cui all'art. 15, primo comma, dello stesso decreto: 
+Al [R. decreto-legge 13 marzo 1944, n. 85](Miglioramenti%20economici%20a%20favore%20dei%20titolari%20di%20pensioni.%20044U0085.md), sono apportati i seguenti emendamenti da applicarsi anche nei territori di cui all'art. 15, primo comma, dello stesso decreto: 
  
  L'art. 3 e' sostituito dal seguente: 
  

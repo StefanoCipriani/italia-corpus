@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- All'articolo 74 del testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-24;501), e' sostituito il seguente: 
+ All'articolo 74 del testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), e' sostituito il seguente: 
  
  Il Governo ha facolta' di elevare con decreto Reale il peso dei pacchi postali fino a dieci chilogrammi quando ed ove le condizioni del servizio lo consentano; di apportare modificazioni ai limiti fissati per le dimensioni dal precedente articolo 72; di ammettere pacchi voluminosi con la soprattassa del 50 per cento e recipienti vuoti di ritorno con la tassa fissa di contesimi 25 per ciascuno. 
  

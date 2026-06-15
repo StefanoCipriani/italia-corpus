@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1941, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1941-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1941, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1941-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -57,7 +57,7 @@ Le tasse di bollo di cui agli articoli 199, 200 e 205 della tariffa allegato A a
 
 ## Art. 8.
 
-La somma di L. 50 di cui all'[art. 1 della legge 4 agosto 1939, n. 1517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-08-04;1517#art_1), da versare a titolo di tassa di bollo dai sanitari che producono ricorso alla Commissione centrale per gli esercenti le professioni sanitarie, e' elevata a L. 500.
+La somma di L. 50 di cui all'[art. 1 della legge 4 agosto 1939, n. 1517](Trattamento%20fiscale%20delle%20decisioni%20della%20Commissione%20centrale%20per%20gli%20esercenti%20le%20professioni%20sanitarie.%20039U1517.md), da versare a titolo di tassa di bollo dai sanitari che producono ricorso alla Commissione centrale per gli esercenti le professioni sanitarie, e' elevata a L. 500.
 
 ## Art. 9.
 
@@ -69,7 +69,7 @@ La tassa di bollo sulle inserzioni nei giornali od in altre stampe di cui all'ar
 
 ## Art. 11.
 
-Il contributo annuo dovuto allo Stato ai termini dell'[art. 4 della legge 7 aprile 1930, n. 456](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-04-07;456#art_4), a favore dell'Istituto nazionale di previdenza dei giornalisti e' elevato a L. 30.000.000, ferma restando la facolta' da parte dello Stato di operarne la revisione ogni biennio.
+Il contributo annuo dovuto allo Stato ai termini dell'[art. 4 della legge 7 aprile 1930, n. 456](Modificazioni%20ad%20alcune%20tasse%20di%20bollo%20-%20Provvidenze%20a%20favore%20dellIstituto%20nazionale%20di%20previdenza%20dei%20giornalisti%20italiani%20e%20modificazioni%20alle%20tasse%20sulle%20assicurazioni.%20030U0456.md), a favore dell'Istituto nazionale di previdenza dei giornalisti e' elevato a L. 30.000.000, ferma restando la facolta' da parte dello Stato di operarne la revisione ogni biennio.
  Il Ministro per il tesoro e' autorizzato ad apportare con proprio decreto le necessarie variazioni al bilancio.
 
 ## Art. 12.

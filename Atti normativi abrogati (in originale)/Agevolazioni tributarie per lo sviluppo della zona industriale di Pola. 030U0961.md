@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Le agevolazioni di indole tributaria contemplate dall'[articolo 1 del R. decreto-legge 28 marzo 1929, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-28;646#art_1), sono estese agli stabilimenti industriali compresi nel perimetro dell'antico arsenale di Pola e nelle zone adiacenti gia' adibite a scopi militari, che, all'entrata in vigore del sopracitato Regio decreto-legge, erano ancora in corso di ultimazione e di sistemazione tecnica. 
+ Le agevolazioni di indole tributaria contemplate dall'[articolo 1 del R. decreto-legge 28 marzo 1929, n. 646](Facilitazioni%20tributarie%20per%20gli%20stabilimenti%20industriali%20che%20sorgeranno%20nelle%20aree%20adiacenti%20al%20porto%20di%20Pola.%20029U0646.md), sono estese agli stabilimenti industriali compresi nel perimetro dell'antico arsenale di Pola e nelle zone adiacenti gia' adibite a scopi militari, che, all'entrata in vigore del sopracitato Regio decreto-legge, erano ancora in corso di ultimazione e di sistemazione tecnica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

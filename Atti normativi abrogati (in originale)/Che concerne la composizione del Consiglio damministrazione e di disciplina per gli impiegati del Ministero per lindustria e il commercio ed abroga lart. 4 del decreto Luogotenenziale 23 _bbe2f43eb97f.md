@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto-legge 15 marzo 1920, n. 305](Che%20istituisce%20un%20secondo%20posto%20di%20sottosegretario%20di%20Stato%20presso%20il%20Ministero%20per%20lindustria%20commercio%20e%20lavoro%20e%20degli%20approvvigionamenti%20e%20consumi%20alimentari.%20020U0305.md); 
  
- Visto il [R. decreto 25 marzo 1920, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-03-25;381); 
+ Visto il [R. decreto 25 marzo 1920, n. 381](Che%20stabilisce%20la%20competenza%20del%20nuovo%20sottosegretario%20di%20Stato%20istituito%20presso%20il%20Ministero%20dellindustria%20commercio%20e%20lavoro%20col%20R.%20decreto%2015%20marzo%201920%20n.%20305.%20020U0381.md); 
  
  Sentito il Consiglio dei ministri; 
  

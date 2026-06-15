@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 26 luglio 1917, n. 1183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-26;1183), riguardante l'inchiesta parlamentare sulle liquidazioni delle gestioni per le feste commemorative e le esposizioni di Roma, Torino e Palermo, nonche' la liquidazione delle gestioni per le feste commemorative e le esposizioni di Buenos Ayres, Bruxelles, Faenza e Parma; 
+ Vista la [legge 26 luglio 1917, n. 1183](Che%20costituisce%20una%20Commissione%20parlamentare%20dinchiesta%20sulle%20liquidazioni%20delle%20gestioni%20per%20le%20feste%20commemorative%20e%20le%20Esposizioni%20di%20Roma%20Torino%20e%20Palermo%20e%20liquidazione%20delle%20gestion_893251eb9693.md), riguardante l'inchiesta parlamentare sulle liquidazioni delle gestioni per le feste commemorative e le esposizioni di Roma, Torino e Palermo, nonche' la liquidazione delle gestioni per le feste commemorative e le esposizioni di Buenos Ayres, Bruxelles, Faenza e Parma; 
  
  Visto l'art. 7 di detta legge concernente la nomina di un Regio commissario con gli incarichi e le facolta' nell'articolo stesso indicati; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Il gr. uff. dott. Alfredo Lusignoli, Regio prefetto, e' nominato Regio commissario con gli incarichi e le facolta' di cui all'[art. 7 della legge 26 luglio 1917, n. 1183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-07-26;1183#art_7). 
+ Il gr. uff. dott. Alfredo Lusignoli, Regio prefetto, e' nominato Regio commissario con gli incarichi e le facolta' di cui all'[art. 7 della legge 26 luglio 1917, n. 1183](Che%20costituisce%20una%20Commissione%20parlamentare%20dinchiesta%20sulle%20liquidazioni%20delle%20gestioni%20per%20le%20feste%20commemorative%20e%20le%20Esposizioni%20di%20Roma%20Torino%20e%20Palermo%20e%20liquidazione%20delle%20gestion_893251eb9693.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

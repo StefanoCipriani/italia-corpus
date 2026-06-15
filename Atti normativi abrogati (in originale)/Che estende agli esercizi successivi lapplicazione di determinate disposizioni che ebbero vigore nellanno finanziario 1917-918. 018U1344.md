@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 29 giugno 1917, n. 1025, 19 luglio 1917, n. 1125, 28 ottobre 1917, n. 1751, e 31 dicembre 1917, n. 2045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-12-31;2045), che autorizzano il Governo del Re ad esercitare provvisoriamente i bilanci per le Amministrazioni dello Stato dell'esercizio finanziario 1917-918 con le susseguite modificazioni gia' proposte con note di variazioni o comunicate alla presidenza della Camera dei deputati;
+Viste le [leggi 29 giugno 1917, n. 1025, 19 luglio 1917, n. 1125, 28 ottobre 1917, n. 1751, e 31 dicembre 1917, n. 2045](Che%20proroga%20il%20termine%20indicato%20della%20legge%2028%20ottobre%201917%20n.%201751%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20sian_80dd5cff68ce.md), che autorizzano il Governo del Re ad esercitare provvisoriamente i bilanci per le Amministrazioni dello Stato dell'esercizio finanziario 1917-918 con le susseguite modificazioni gia' proposte con note di variazioni o comunicate alla presidenza della Camera dei deputati;
 
 Considerato che nessuno stato di previsione venne approvato per legge entro il 30 giugno 1918;
 
@@ -34,7 +34,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro; Abbiamo decretato
 
 ## Art. 1.
 
-Le disposizioni di cui agli articoli seguenti che gia' ebbero vigore nell'anno finanziario 1917-918 in virtu' delle [leggi 29 giugno 1917, n. 1025, 19 luglio 1917, numero 1125, 28 ottobre 1917, n. 1751, e 31 dicembre 1917, n. 2045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-12-31;2045), che autorizzarono l'esercizio provvisorio del bilancio pel 1917-918, continueranno ad avere applicazione negli esercizi successivi.
+Le disposizioni di cui agli articoli seguenti che gia' ebbero vigore nell'anno finanziario 1917-918 in virtu' delle [leggi 29 giugno 1917, n. 1025, 19 luglio 1917, numero 1125, 28 ottobre 1917, n. 1751, e 31 dicembre 1917, n. 2045](Che%20proroga%20il%20termine%20indicato%20della%20legge%2028%20ottobre%201917%20n.%201751%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20sian_80dd5cff68ce.md), che autorizzarono l'esercizio provvisorio del bilancio pel 1917-918, continueranno ad avere applicazione negli esercizi successivi.
 
 ## Art. 2.
 
@@ -56,7 +56,7 @@ Nella gestione del bilancio speciale del fondo di massa della guardia di finanza
 
 ## Art. 3.
 
-A termini degli [articoli 4 della legge 19 luglio 1909, n. 528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;528#art_4), e 6 della [legge 27 aprile 1916, n. 465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-27;465), alle tabelle organiche del personale dipendente dall'Amministrazione dei telefoni dello Stato sono apportate le seguenti variazioni: 
+A termini degli [articoli 4 della legge 19 luglio 1909, n. 528](Che%20approva%20lorganico%20della%20direzione%20generale%20dei%20telefoni.%20009U0528.md), e 6 della [legge 27 aprile 1916, n. 465](Che%20porta%20semplificazioni%20nel%20ruolo%20organico%20della%20Direzione%20generale%20dei%20telefoni.%20016U0465.md), alle tabelle organiche del personale dipendente dall'Amministrazione dei telefoni dello Stato sono apportate le seguenti variazioni: 
  
  Tabella B - Quadro IV - da n. 2450 a n. 2600; 
  » C - id. I - id. 420 id. 470; 

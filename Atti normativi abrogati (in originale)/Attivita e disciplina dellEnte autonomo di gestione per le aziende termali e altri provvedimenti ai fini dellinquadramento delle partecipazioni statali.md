@@ -35,7 +35,7 @@ Rimangono in vita le concessioni di esercizio gia' stabilite per la gestione del
 
 ### Art. 4.
 
-La proprieta' delle partecipazioni azionarie delle societa' di cui all'art. 1 della presente legge e' attribuita all'Ente autonomo di gestione per le aziende termali, istituito con [decreto del Presidente della Repubblica 7 maggio 1958, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-05-07;576).
+La proprieta' delle partecipazioni azionarie delle societa' di cui all'art. 1 della presente legge e' attribuita all'Ente autonomo di gestione per le aziende termali, istituito con [decreto del Presidente della Repubblica 7 maggio 1958, n. 576](../DPR/Costituzione%20dellEnte%20autonomo%20di%20gestione%20per%20le%20aziende%20termali.md).
  All'Ente autonomo di gestione sono altresi' attribuite le partecipazioni azionarie dello Stato nella Societa' azionaria lavorazione e valorizzazione acque radioattive (S.A.L.V.A.R.) con sede in Merano, nella Societa' per azioni valorizzazione idroterapia radioattivita' Ischia Lecco (V.I.R.I.L.) con sede in Roma, nella Societa' per azioni per l'incremento della stazione termale di Chianciano (S.I.C.) con sede in Roma, nella Societa' per azioni estrazione e lavorazione acque minerali italiane (E.L.A.M.I.) con sede in Salsomaggiore, nella Societa' napoletana per le terme di Agnano con sede in Napoli-Agnano Terme, nella Societa' immobiliare civile "Adua" con sede in Biella, nella Societa' per azioni immobiliare "Casa Nostra" con sede in Vaglio di Chiavazza.
 
 ### Art. 5.
@@ -54,7 +54,7 @@ L'Ente autonomo di gestione potra' assumere partecipazioni in societa' per azion
 L'Ente autonomo di gestione per le aziende termali ha un fondo di dotazione costituito:
  dalle partecipazioni ad esso attribuite con l'articolo 4 della presente legge;
  dalla somma di lire un miliardo, concessa dallo Stato in base all'[art. 59 della legge 24 luglio 1959, n. 622](Interventi%20in%20favore%20delleconomia%20nazionale.md).
- Per i primi dieci anni gli utili di esercizio dell'Ente, salvo quelli destinati al fondo di riserva a norma dello [art. 12 del decreto del Presidente della Repubblica 7 maggio 1958, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-05-07;576#art_12), saranno destinati ad aumentare il fondo di dotazione dell'Ente di gestione delle aziende termali.
+ Per i primi dieci anni gli utili di esercizio dell'Ente, salvo quelli destinati al fondo di riserva a norma dello [art. 12 del decreto del Presidente della Repubblica 7 maggio 1958, n. 576](../DPR/Costituzione%20dellEnte%20autonomo%20di%20gestione%20per%20le%20aziende%20termali.md), saranno destinati ad aumentare il fondo di dotazione dell'Ente di gestione delle aziende termali.
  Nei dieci anni dalla loro costituzione almeno l'80 per cento degli utili percepiti dalle societa' di cui allo art. 1 saranno investiti dalle imprese stesse per il potenziamento del patrimonio aziendale.
 
 ### Art. 8.

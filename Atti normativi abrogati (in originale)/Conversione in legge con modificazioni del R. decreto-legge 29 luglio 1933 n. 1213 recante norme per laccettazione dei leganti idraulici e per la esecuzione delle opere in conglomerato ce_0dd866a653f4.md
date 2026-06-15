@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 luglio 1933, n. 1213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-07-29;1213), recante norme sull'accettazione dei leganti idraulici e per l'esecuzione delle opere in conglomerato cementizio, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 29 luglio 1933, n. 1213](Norme%20per%20laccettazione%20dei%20leganti%20idraulici%20e%20per%20la%20esecuzione%20delle%20opere%20in%20conglomerato%20cementizio.%20033U1213.md), recante norme sull'accettazione dei leganti idraulici e per l'esecuzione delle opere in conglomerato cementizio, con le seguenti modificazioni: 
  
  All'art. 2 del decreto, aggiungere il seguente capoverso: 
  

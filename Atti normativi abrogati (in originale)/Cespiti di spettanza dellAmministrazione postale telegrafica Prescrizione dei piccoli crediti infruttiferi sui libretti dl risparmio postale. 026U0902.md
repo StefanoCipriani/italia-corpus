@@ -18,7 +18,7 @@ Vista la [legge 27 maggio 1875, n. 2779](Per%20la%20istituzione%20delle%20casse%
 
 Vista la [legge 3 luglio 1902, n. 280](Che%20prescrive%20a%20vantaggio%20della%20Cassa%20Nazionale%20di%20previdenza%20per%20la%20vecchiaia%20e%20la%20invalidita%20degli%20operai%20il%20libretto%20della%20Cassa%20postale%20di%20risparmio%20portante%20credito%20non%20superiore%20ad%20_d604a32326be.md), e successive modificazioni;
 
-Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), approvato con [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), approvato con [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -38,11 +38,11 @@ La presentazione dei libretti nominativi ordinari e al portatore delle Casse di 
 
 ## Art. 2.
 
-Le somme provenienti dai libretti delle Casse di risparmio postali colpiti da prescrizione a norma dell'[art. 3 del R. decreto 24 dicembre 1922, n. 1677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-24;1677#art_3), completato in conformita' dell'art. 1 del presente decreto, e quelle trattenute all'atto della estinzione dei libretti a norma dell'[art. 1 del R. decreto 2 dicembre 1923, n. 2968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2968#art_1), sono devolute all'Amministrazione postale telegrafica.
+Le somme provenienti dai libretti delle Casse di risparmio postali colpiti da prescrizione a norma dell'[art. 3 del R. decreto 24 dicembre 1922, n. 1677](Concernente%20la%20prescrizione%20dei%20depositi%20ed%20altre%20modificazioni%20alla%20legge%20sulle%20Casse%20di%20risparmio%20postali.%20022U1677.md), completato in conformita' dell'art. 1 del presente decreto, e quelle trattenute all'atto della estinzione dei libretti a norma dell'[art. 1 del R. decreto 2 dicembre 1923, n. 2968](Tassa%20per%20lestinzione%20e%20la%20duplicazione%20dei%20libretti%20delle%20Casse%20di%20risparmio%20postali.%20023U2968.md), sono devolute all'Amministrazione postale telegrafica.
 
 ## Art. 3.
 
-Le somme provenienti da tasse per duplicazione di libretti smarriti o distrutti a norma dell'[articolo 2 del R. decreto 2 dicembre 1923, n. 2968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2968#art_2), sono devolute per un terzo all'Istituto nazionale di mutualita' e previdenza fra il personale postale telegrafico e telefonico, eretto in Ente morale autonomo dal [decreto-legge Luogotenenziale 12 giugno 1919, n. 1042](Che%20costituisce%20ed%20erige%20in%20ente%20morale%20autonomo%20unassociazione%20fra%20il%20personale%20delle%20poste%20dei%20telegrafi%20e%20telefoni%20sotto%20il%20nome%20di%20Istituto%20nazionale%20di%20mutualita%20e%20previdenza%20e%20con%20s_2d14291d8c0d.md), e per gli altri due terzi all'Amministrazione pestale telegrafica.
+Le somme provenienti da tasse per duplicazione di libretti smarriti o distrutti a norma dell'[articolo 2 del R. decreto 2 dicembre 1923, n. 2968](Tassa%20per%20lestinzione%20e%20la%20duplicazione%20dei%20libretti%20delle%20Casse%20di%20risparmio%20postali.%20023U2968.md), sono devolute per un terzo all'Istituto nazionale di mutualita' e previdenza fra il personale postale telegrafico e telefonico, eretto in Ente morale autonomo dal [decreto-legge Luogotenenziale 12 giugno 1919, n. 1042](Che%20costituisce%20ed%20erige%20in%20ente%20morale%20autonomo%20unassociazione%20fra%20il%20personale%20delle%20poste%20dei%20telegrafi%20e%20telefoni%20sotto%20il%20nome%20di%20Istituto%20nazionale%20di%20mutualita%20e%20previdenza%20e%20con%20s_2d14291d8c0d.md), e per gli altri due terzi all'Amministrazione pestale telegrafica.
 
 ## Art. 4.
 

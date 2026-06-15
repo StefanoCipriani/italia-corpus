@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1913), che approva la convenzione 23 maggio 1927 stipulata tra il Ministero dell'aeronautica ed il comune di Trento per la istituzione di un campo di aviazione militare in localita' Gardolo (Trento). 
+ E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1913](Approvazione%20di%20una%20convenzione%20tra%20il%20Ministero%20dellaeronautica%20ed%20il%20comune%20di%20Trento%20per%20la%20istituzione%20di%20un%20campo%20daviazione%20in%20localita%20Gardolo.%20027U1913.md), che approva la convenzione 23 maggio 1927 stipulata tra il Ministero dell'aeronautica ed il comune di Trento per la istituzione di un campo di aviazione militare in localita' Gardolo (Trento). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

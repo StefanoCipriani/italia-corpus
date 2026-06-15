@@ -30,7 +30,7 @@ I titoli di abilitazione all'insegnamento nelle scuole medie rilasciati anterior
 
 I titoli di abilitazione di cui alla tabella A) conseguiti dalle persone di cui all'articolo precedente anteriormente alla data anzidetta, sono equipollenti rispettivamente alla laurea in filosofia, in lettere, o in scienze fisiche matematiche e naturali, agli effetti dell'ammissione ai concorsi ai posti di RR. provveditori e di ispettori per le scuole medie. 
  
- I titoli di cui all'art. 2 esclusi quelli di cui al comma 3 dell'articolo stesso, potranno essere convertiti in una delle dette lauree mediante il solo esame generale di laurea secondo il disposto dell'art. 93 comma 2 del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795).
+ I titoli di cui all'art. 2 esclusi quelli di cui al comma 3 dell'articolo stesso, potranno essere convertiti in una delle dette lauree mediante il solo esame generale di laurea secondo il disposto dell'art. 93 comma 2 del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md).
 
 ## Art. 4.
 

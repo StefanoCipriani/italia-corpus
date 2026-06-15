@@ -122,7 +122,7 @@ I funzionari della carriera diplomatica di grado superiore al 6° possono, con d
 ### Art. 17.
 
 I funzionari della carriera diplomatica possono essere collocati a riposo, con decreto del Presidente della Repubblica, dopo dieci anni di permanenza nello stesso grado. Tale norma non si applica ai funzionari del grado 7° che abbiano conseguito l'idoneita' all'esame di promozione al grado 6°. 
- Ai funzionari collocati a riposo a norma del precedente e del presente articolo si applica il trattamento di quiescenza previsto dal [regio decreto 11 aprile 1926, n. 857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-11;857).
+ Ai funzionari collocati a riposo a norma del precedente e del presente articolo si applica il trattamento di quiescenza previsto dal [regio decreto 11 aprile 1926, n. 857](Estensione%20a%20tutti%20i%20gradi%20della%20carriera%20diplomatico-consolare%20della%20facolta%20del%20collocamento%20a%20riposo%20per%20ragioni%20di%20servizio.%20026U0857.md).
 
 ### Art. 18.
 

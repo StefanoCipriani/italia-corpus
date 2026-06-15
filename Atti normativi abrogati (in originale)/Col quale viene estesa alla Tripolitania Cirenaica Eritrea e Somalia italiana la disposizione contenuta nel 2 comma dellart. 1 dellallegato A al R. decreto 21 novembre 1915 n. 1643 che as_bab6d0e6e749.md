@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono estese alla Tripolitania, Cirenaica, Eritrea e Somalia italiana la disposizione contenuta nel secondo comma dell'art. 1 dell'allegato A al [R. decreto 21 novembre 1915, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-11-21;1643), e, in quanto applicabili, le disposizioni dei successivi articoli dell'allegato stesso.
+Sono estese alla Tripolitania, Cirenaica, Eritrea e Somalia italiana la disposizione contenuta nel secondo comma dell'art. 1 dell'allegato A al [R. decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), e, in quanto applicabili, le disposizioni dei successivi articoli dell'allegato stesso.
 
 ## Art. 2.
 

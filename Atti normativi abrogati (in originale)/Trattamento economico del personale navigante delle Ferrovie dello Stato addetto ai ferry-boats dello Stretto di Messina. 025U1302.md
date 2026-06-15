@@ -18,7 +18,7 @@ Visto il regolamento per il personale navigante dipendente dall'Amministrazione 
 
 Visto il [R. decreto-legge 2 maggio 1920, n. 598](Contenente%20provvedimenti%20economici%20a%20favore%20del%20personale%20addetto%20allesercizio%20della%20navigazione%20di%20Stato.%20020U0598.md);
 
-Visto il [R. decreto 26 giugno 1924, n. 1568](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1568);
+Visto il [R. decreto 26 giugno 1924, n. 1568](Sistemazione%20e%20trattamento%20del%20personale%20navigante%20dipendente%20dalle%20Ferrovie%20dello%20Stato%20ed%20addetto%20al%20servizio%20dello%20stretto%20di%20Messina.%20024U1568.md);
 
 Sentito il Consiglio d'amministrazione delle ferrovie dello Stato;
 
@@ -40,7 +40,7 @@ Il [secondo comma dell'art. 2 del R. decreto-legge 2 maggio 1920, n. 598](Conten
 
 ## Art. 3.
 
-Gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1568#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1568#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1568#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1568#art_4), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1568#art_6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1568#art_7), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1568#art_8), [11 del R. decreto 26 giugno 1924, n. 1568](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1568#art_11), sono abrogati. Il capo V (Indennita' di navigazione, art.
+Gli [articoli 1](Sistemazione%20e%20trattamento%20del%20personale%20navigante%20dipendente%20dalle%20Ferrovie%20dello%20Stato%20ed%20addetto%20al%20servizio%20dello%20stretto%20di%20Messina.%20024U1568.md), [2](Sistemazione%20e%20trattamento%20del%20personale%20navigante%20dipendente%20dalle%20Ferrovie%20dello%20Stato%20ed%20addetto%20al%20servizio%20dello%20stretto%20di%20Messina.%20024U1568.md), [3](Sistemazione%20e%20trattamento%20del%20personale%20navigante%20dipendente%20dalle%20Ferrovie%20dello%20Stato%20ed%20addetto%20al%20servizio%20dello%20stretto%20di%20Messina.%20024U1568.md), [4](Sistemazione%20e%20trattamento%20del%20personale%20navigante%20dipendente%20dalle%20Ferrovie%20dello%20Stato%20ed%20addetto%20al%20servizio%20dello%20stretto%20di%20Messina.%20024U1568.md), [6](Sistemazione%20e%20trattamento%20del%20personale%20navigante%20dipendente%20dalle%20Ferrovie%20dello%20Stato%20ed%20addetto%20al%20servizio%20dello%20stretto%20di%20Messina.%20024U1568.md), [7](Sistemazione%20e%20trattamento%20del%20personale%20navigante%20dipendente%20dalle%20Ferrovie%20dello%20Stato%20ed%20addetto%20al%20servizio%20dello%20stretto%20di%20Messina.%20024U1568.md), [8](Sistemazione%20e%20trattamento%20del%20personale%20navigante%20dipendente%20dalle%20Ferrovie%20dello%20Stato%20ed%20addetto%20al%20servizio%20dello%20stretto%20di%20Messina.%20024U1568.md), [11 del R. decreto 26 giugno 1924, n. 1568](Sistemazione%20e%20trattamento%20del%20personale%20navigante%20dipendente%20dalle%20Ferrovie%20dello%20Stato%20ed%20addetto%20al%20servizio%20dello%20stretto%20di%20Messina.%20024U1568.md), sono abrogati. Il capo V (Indennita' di navigazione, art.
 14) di cui l'allegato C richiamato dall'articolo 9 del precitato decreto, e' abrogato.
 
 ## Art. 4.

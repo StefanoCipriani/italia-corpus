@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato per gli affari esteri; Abbiamo d
 
 ## Art. 1.
 
-Del ruolo organico allegato alla [legge 17 luglio 1910, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;538), fa parte un vice commissario generale. Egli e' incaricato di coadiuvare il commissario generale e di sostituirlo in caso di assenza o di impedimento.
+Del ruolo organico allegato alla [legge 17 luglio 1910, n. 538](Provvedimento%20riguardante%20lemigrazione.%20010U0538.md), fa parte un vice commissario generale. Egli e' incaricato di coadiuvare il commissario generale e di sostituirlo in caso di assenza o di impedimento.
 
 ## Art. 2.
 

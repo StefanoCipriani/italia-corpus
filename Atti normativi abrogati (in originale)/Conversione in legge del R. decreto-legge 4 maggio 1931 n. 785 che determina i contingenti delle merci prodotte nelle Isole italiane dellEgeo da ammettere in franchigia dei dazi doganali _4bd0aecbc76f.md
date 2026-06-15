@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 maggio 1931, n. 785](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-05-04;785), che determina i contingenti delle merci prodotte nelle Isole italiane dell'Egeo da ammettere in franchigia dei dazi doganali all'importazione nel Regno. 
+ E' convertito in legge il [R. decreto-legge 4 maggio 1931, n. 785](Determinazione%20dei%20contingenti%20delle%20merci%20prodotte%20nelle%20Isole%20italiane%20dellEgeo%20da%20ammettere%20in%20franchigia%20dei%20dazi%20doganali%20allimportazione%20nel%20Regno.%20031U0785.md), che determina i contingenti delle merci prodotte nelle Isole italiane dell'Egeo da ammettere in franchigia dei dazi doganali all'importazione nel Regno. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 7 gennaio 1932 - Anno X 
  

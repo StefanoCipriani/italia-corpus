@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge, il [R. decreto-legge 19 dicembre 1926, n. 2417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-19;2417), che da' esecuzione all'Accordo commerciale provvisorio fra l'Italia e la Grecia, concluso ad Atene mediante scambio di note addi' 11 settembre 1926. 
+ E' convertito in legge, il [R. decreto-legge 19 dicembre 1926, n. 2417](Esecuzione%20dellAccordo%20commerciale%20provvisorio%20fra%20lItalia%20e%20la%20Grecia%20concluso%20ad%20Atene%20mediante%20scambio%20di%20note%20addi%2011%20settembre%201926.%20026U2417.md), che da' esecuzione all'Accordo commerciale provvisorio fra l'Italia e la Grecia, concluso ad Atene mediante scambio di note addi' 11 settembre 1926. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

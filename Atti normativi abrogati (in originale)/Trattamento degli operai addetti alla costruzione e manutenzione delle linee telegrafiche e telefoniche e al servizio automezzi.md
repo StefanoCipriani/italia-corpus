@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visti i [regi decreti 24 dicembre 1924, n. 2114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-24;2114) e [31 dicembre 1924, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-31;2262), e successive modificazioni;
+Visti i [regi decreti 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md) e [31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), e successive modificazioni;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 12 dicembre 1946, n. 585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-12;585);
 
-Visto il [decreto legislativo luogotenenziale 21 marzo 1946, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-21;357);
+Visto il [decreto legislativo luogotenenziale 21 marzo 1946, n. 357](../Decreti%20legislativi%20luogotenenziali/Estensione%20ad%20alcune%20categorie%20di%20personale%20dellAmministrazione%20postale%20e%20Telegrafica%20e%20dellAzienda%20per%20i%20servizi%20telefonici%20dei%20provvedimenti%20economici%20di%20cui%20al%20decreto%20legislativo%20Luog_d7c673e93a58.md);
 
 Ritenuto opportuno di estendere ai salariati dipendenti dal
 
@@ -22,7 +22,7 @@ Ministero delle poste e delle telecomunicazioni le disposizioni del predetto dec
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

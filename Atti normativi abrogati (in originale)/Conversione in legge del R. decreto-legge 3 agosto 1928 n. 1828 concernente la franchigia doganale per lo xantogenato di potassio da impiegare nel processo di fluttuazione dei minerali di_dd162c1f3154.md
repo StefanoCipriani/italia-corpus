@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-03;1828), concernente la franchigia doganale per lo xantogenato di potassio destinato ad essere impiegato nel processo di fluttuazione dei minerali di piombo e di zinco. 
+ E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1828](Franchigia%20doganale%20per%20lo%20xantogenato%20di%20potassio%20da%20impiegare%20nel%20processo%20di%20fluttuazione%20dei%20minerali%20di%20piombo%20e%20di%20zinco.%20028U1828.md), concernente la franchigia doganale per lo xantogenato di potassio destinato ad essere impiegato nel processo di fluttuazione dei minerali di piombo e di zinco. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

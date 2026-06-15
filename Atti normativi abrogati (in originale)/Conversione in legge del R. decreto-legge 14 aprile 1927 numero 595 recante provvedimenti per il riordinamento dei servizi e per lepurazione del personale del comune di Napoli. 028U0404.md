@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 aprile 1927, n. 595](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-14;595), recante provvedimenti per il riordinamento dei servizi e per l'epurazione del personale del comune di Napoli. 
+ E' convertito in legge il [R. decreto-legge 14 aprile 1927, n. 595](Facolta%20al%20comune%20di%20Napoli%20di%20dispensare%20dal%20servizio%20il%20personale%20dipendente%20e%20di%20riordinare%20gli%20uffici%20ed%20i%20servizi%20del%20Comune.%20027U0595.md), recante provvedimenti per il riordinamento dei servizi e per l'epurazione del personale del comune di Napoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

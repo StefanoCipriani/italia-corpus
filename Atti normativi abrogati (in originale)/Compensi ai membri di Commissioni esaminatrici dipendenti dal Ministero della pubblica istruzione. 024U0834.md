@@ -36,7 +36,7 @@ Nella stessa misura e con le stesse modalita' stabilite dall'articolo precedente
 
 ## Art. 3.
 
-Tra i componenti la Commissione centrale per i libri di testo delle scuole elementari prevista dal [R. decreto 11 marzo 1923, n. 737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;737), i quali partecipino ai lavori della Commissione stessa, si ripartisce, quale compenso, la somma di L. 50 per ogni volume esaminato.
+Tra i componenti la Commissione centrale per i libri di testo delle scuole elementari prevista dal [R. decreto 11 marzo 1923, n. 737](Che%20detta%20norme%20per%20ladozione%20dei%20libri%20di%20testo%20nelle%20scuole%20elementari%20e%20popolari%20pubbliche%20e%20private.%20023U0737.md), i quali partecipino ai lavori della Commissione stessa, si ripartisce, quale compenso, la somma di L. 50 per ogni volume esaminato.
 
 ## Art. 4.
 
@@ -44,7 +44,7 @@ I compensi di cui ai precedenti articoli spettano a tutti i membri delle indicat
 
 ## Art. 5.
 
-Salvo quanto e' prescritto negli articoli precedenti, ai funzionari di ruolo scientifico e tecnico delle antichita' e belle arti ed ai capi ed insegnanti di istituti di qualsiasi grado dipendenti dal Ministero della pubblica istruzione, e' corrisposta, per le missioni che compiano in sede e che non rientrino nelle normali attribuzioni del loro ufficio, una diaria pari ad un terzo di quella stabilita dall'[art. 181 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_181).
+Salvo quanto e' prescritto negli articoli precedenti, ai funzionari di ruolo scientifico e tecnico delle antichita' e belle arti ed ai capi ed insegnanti di istituti di qualsiasi grado dipendenti dal Ministero della pubblica istruzione, e' corrisposta, per le missioni che compiano in sede e che non rientrino nelle normali attribuzioni del loro ufficio, una diaria pari ad un terzo di quella stabilita dall'[art. 181 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 6.
 

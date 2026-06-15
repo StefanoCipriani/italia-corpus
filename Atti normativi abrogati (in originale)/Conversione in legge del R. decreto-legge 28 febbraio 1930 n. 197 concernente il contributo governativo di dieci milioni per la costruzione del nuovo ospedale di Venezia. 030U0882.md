@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 febbraio 1930, n. 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-28;197), concernente il contributo governativo di dieci milioni per la costruzione del nuovo ospedale di Venezia. 
+ E' convertito in legge il [R. decreto-legge 28 febbraio 1930, n. 197](Contributo%20governativo%20di%20dieci%20milioni%20per%20la%20costruzione%20del%20nuovo%20ospedale%20di%20Venezia.%20030U0197.md), concernente il contributo governativo di dieci milioni per la costruzione del nuovo ospedale di Venezia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

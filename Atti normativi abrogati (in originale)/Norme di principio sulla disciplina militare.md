@@ -115,7 +115,7 @@ Nessuna sanzione disciplinare di corpo puo' essere inflitta senza contestazione 
 
 ## Art. 16.
 
-L'organo sovraordinato di cui all'[articolo 1 del decreto del Presidente della Repubblica 24 novembre 1971, n. 1199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-11-24;1199#art_1), e' rappresentato dall'organo gerarchicamente superiore a quello che ha emesso il provvedimento.
+L'organo sovraordinato di cui all'[articolo 1 del decreto del Presidente della Repubblica 24 novembre 1971, n. 1199](../DPR/Semplificazione%20dei%20procedimenti%20in%20materia%20di%20ricorsi%20amministrativi.md), e' rappresentato dall'organo gerarchicamente superiore a quello che ha emesso il provvedimento.
  Avverso le sanzioni disciplinari di corpo non e' ammesso ricorso giurisdizionale o ricorso straordinario al Presidente della Repubblica se prima non e' stato esperito ricorso gerarchico o siano trascorsi novanta giorni dalla data di presentazione del ricorso.
  E' comunque in facolta' del militare presentare, con le modalita' che saranno indicate nel regolamento di disciplina militare, istanze tendenti ad ottenere il riesame di sanzioni disciplinari di corpo.
 
@@ -178,7 +178,7 @@ Delle sanzioni condonate non deve rimanere alcuna traccia nel fascicolo personal
 
 ## Art. 22.
 
-L'[articolo 40 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_40) militare di pace e' abrogato.
+L'[articolo 40 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e' abrogato.
 
 ## Art. 23.
 

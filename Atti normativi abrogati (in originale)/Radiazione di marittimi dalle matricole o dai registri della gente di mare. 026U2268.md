@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il Codice per la marina mercantile ed il relativo regolamento approvato con [R. decreto 20 novembre 1879, numero 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166);
+Visto il Codice per la marina mercantile ed il relativo regolamento approvato con [R. decreto 20 novembre 1879, numero 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md);
 
 Considerata la necessita' urgente di mantenere saldo il sentimento nazionale e morale fra la nostra gente di mare, allontanando definitivamente da essa quegli elementi la cui presenza sulle navi mercantili italiane puo' risolversi in un oltraggio all'idea della Patria;
 

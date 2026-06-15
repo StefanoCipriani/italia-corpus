@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il testo unico di legge sui telefoni approvato cori [R. decreto del 3 maggio 1903, n. 196](Approvazione%20del%20testo%20unico%20della%20legge%20sui%20telefoni.%20003U0196.md), il relativo [regolamento 21 maggio 1903, n. 253](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1903-05-21;253), e successive modificazioni;
 
-Visto il [R. decreto-legge del 23 novembre 1921, n. 1824](Che%20apporta%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche.%20021U1824.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge del 23 novembre 1921, n. 1824](Che%20apporta%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche.%20021U1824.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visti i [Regi decreti-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), e [15 ottobre 1925, n. 1990](Provvedimenti%20vari%20per%20laumento%20delle%20entrate%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20025U1990.md), convertiti nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 

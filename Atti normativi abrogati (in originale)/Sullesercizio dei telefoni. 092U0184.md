@@ -140,7 +140,7 @@ Ogni comunicazione telefonica stabilita o esercitata senza la necessaria concess
 
 ## Art. 19.
 
-Alla violazione del segreto della corrispondenza telefonica si applicano le disposizioni contenute nel capo V, titolo II, libro II del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+Alla violazione del segreto della corrispondenza telefonica si applicano le disposizioni contenute nel capo V, titolo II, libro II del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Ai danni recati alle comunicazioni telefoniche pubbliche e private si applicano le disposizioni dello articolo 315 del Codice stesso. 
  

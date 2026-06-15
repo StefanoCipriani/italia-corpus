@@ -12,7 +12,7 @@ vigente: true
 
 L'[art. 3 del decreto Luogotenenziale 11 luglio 1915, n. 1085](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1085#art_3), e' sostituito dal seguente: 
  
- Agli effetti del § 224 del regolamento approvato con [R. decreto 21 luglio 1907, n. 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-21;626), per l'applicazione della [legge 2 luglio 1896 n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254), la Commissione compilatrice delle proposte d'avanzamento si comporra' delle autorita' gerarchiche, nel numero massimo di tre, dalle quali gli ufficiali dipendono all'atto del giudizio. Il numero di dette autorita' dovra' all'occorrenza ridursi in guisa da escludere: 
+ Agli effetti del § 224 del regolamento approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), per l'applicazione della [legge 2 luglio 1896 n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), la Commissione compilatrice delle proposte d'avanzamento si comporra' delle autorita' gerarchiche, nel numero massimo di tre, dalle quali gli ufficiali dipendono all'atto del giudizio. Il numero di dette autorita' dovra' all'occorrenza ridursi in guisa da escludere: 
  
  a) il comandante di divisione per le promozioni da sottotenente a tenente; 
  
@@ -49,11 +49,11 @@ Per il periodo della guerra il giudizio sull'idoneita' all'avanzamento degli uff
 ## Art. 3.
 
 Agli effetti delle disposizioni di cui ai precedenti articoli 1 e 2, le proposte di avanzamento debbono ritenersi valide anche quando le autorita' componenti la Commissione compilatrice non abbiano potuto riunirsi collegialmente per assoluti impedimenti di servizio.
-Il computo dei voti sara' in questo caso fatto con le norme di cui al n. 16 del regolamento per l'esecuzione della legge sull'avanzamento del R. esercito, approvato con [R. decreto 21 luglio 1907, numero 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-21;626).
+Il computo dei voti sara' in questo caso fatto con le norme di cui al n. 16 del regolamento per l'esecuzione della legge sull'avanzamento del R. esercito, approvato con [R. decreto 21 luglio 1907, numero 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md).
 
 ## Art. 4.
 
-In caso di discrepanza fra i giudizi di primo e secondo grado nelle proposte d'avanzamento, il giudizio definitivo demandato al ministro della guerra dall'[art. 17 della legge 8 giugno 1913, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_17), e' devoluto, per tutti gli ufficiali appartenenti alle unita', comandi e servizi della formazione di guerra, al capo e sottocapo di stato maggiore; piu' particolarmente, esso e' devoluto: 
+In caso di discrepanza fra i giudizi di primo e secondo grado nelle proposte d'avanzamento, il giudizio definitivo demandato al ministro della guerra dall'[art. 17 della legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), e' devoluto, per tutti gli ufficiali appartenenti alle unita', comandi e servizi della formazione di guerra, al capo e sottocapo di stato maggiore; piu' particolarmente, esso e' devoluto: 
  
  al capo di stato maggiore per le proposte d'avanzamento al grado di colonnello o superiori; 
  
@@ -83,7 +83,7 @@ L'[art. 5 del decreto Luogotenenziale 9 agosto 1917, n. 1267](https://www.normat
  
  Per tutti gli altri ufficiali le deliberazioni della Commissione saranno pure definitive fino al grado di tenente colonnello incluso; ma per i gradi superiori, saranno - previo parere del capo di stato maggiore dell'esercito - sottoposte alla decisione definitiva del ministro della guerra. 
  
- La Commissione stessa determinera' in quale ordine, assolutamente indipendente dall'anzianita' e unicamente subordinato ai meriti, nonche' sotto quale data gli ufficiali riconosciuti promovibili per l'[art. 13 della legge 8 giugno 1913, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_13), potranno conseguire il grado o le veci del grado superiore.
+ La Commissione stessa determinera' in quale ordine, assolutamente indipendente dall'anzianita' e unicamente subordinato ai meriti, nonche' sotto quale data gli ufficiali riconosciuti promovibili per l'[art. 13 della legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), potranno conseguire il grado o le veci del grado superiore.
 
 ## Art. 6.
 
@@ -111,7 +111,7 @@ Gli ufficiali provenienti dai corsi allievi aspiranti ufficiali bombardieri sono
 
 L'[art. 8 del decreto Luogotenenziale 10 giugno 1917, n. 944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-06-10;944#art_8), e' abrogato. 
  
- Fermo rimanendo a tutti gli effetti l'[art. 17 della legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254#art_17), sull'avanzamento nel R. esercito, si dispone: 
+ Fermo rimanendo a tutti gli effetti l'[art. 17 della legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito, si dispone: 
  
  a) per l'avanzamento degli ufficiali richiamati dal congedo dei corpi amministrativi, deve assumersi come unico ruolo regolatore il ruolo del servizio attivo del corpo di amministrazione; 
  

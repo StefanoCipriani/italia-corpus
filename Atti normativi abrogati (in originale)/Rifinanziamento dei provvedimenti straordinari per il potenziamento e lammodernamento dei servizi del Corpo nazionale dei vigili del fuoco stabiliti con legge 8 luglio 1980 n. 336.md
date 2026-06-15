@@ -45,7 +45,7 @@ Il Ministro dell'interno, sentita la commissione di cui all'[articolo 4 della le
 
 4.
 
-I piani di cui al precedente comma sono comunicati al Parlamento entro il mese di febbraio dell'anno di competenza. Tali piani dovranno essere corredati dal parere di cui all'[articolo 11 del decreto del Presidente della Repubblica 10 aprile 1984, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-04-10;210#art_11).
+I piani di cui al precedente comma sono comunicati al Parlamento entro il mese di febbraio dell'anno di competenza. Tali piani dovranno essere corredati dal parere di cui all'[articolo 11 del decreto del Presidente della Repubblica 10 aprile 1984, n. 210](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2014%20dicembre%201983%20concernente%20il%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md).
 
 Nota all'art. 2, comma 1:
  Il testo dell'[art. 8, quarto comma, della legge 8 dicembre 1970, n. 996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-08;996#art_8-com4) (Norme sul concorso e l'assistenza alle popolazioni colpite da calamita' - Protezione civile), e' il seguente:
@@ -67,7 +67,7 @@ Nota all'art. 2, comma 1:
  Le spese per il funzionamento della commissione graveranno sui fondi di cui all'art. 1".
 
  Nota all'art. 2, comma 4:
- Il testo dell'[articolo 11 del decreto del Presidente della Repubblica 10 aprile 1984, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-04-10;210#art_11) (Norme risultanti dalla disciplina prevista dall'accordo del 14 dicembre 1983 concernente il personale del Corpo nazionale dei vigili del fuoco), e' il seguente:
+ Il testo dell'[articolo 11 del decreto del Presidente della Repubblica 10 aprile 1984, n. 210](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2014%20dicembre%201983%20concernente%20il%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md) (Norme risultanti dalla disciplina prevista dall'accordo del 14 dicembre 1983 concernente il personale del Corpo nazionale dei vigili del fuoco), e' il seguente:
  "Art. 11. (Diritto di informazione). - Nel rispetto delle competenze proprie degli organi istituzionali ed al fine di contribuire a migliorare l'organizzazione del lavoro, la funzionalita' e l'efficacia dei servizi resi dal Corpo nazionale dei vigili del fuoco, l'amministrazione assicurera' alle organizzazioni sindacali maggiormente rappresentative, a livello di strutture centrali e periferiche, una tempestiva informazione sugli atti amministrativi relativi a:
  a) programmi di investimento ordinari e straordinari, annuali e pluriennali, suddivisi per settori ed ambiti territoriali;
  b) programmazione degli interventi diretti a fronteggiare casi d'urgenza;
@@ -82,7 +82,7 @@ Nota all'art. 2, comma 1:
 
 1.
 
-Per l'attuazione dei piani di cui al precedente articolo 2, il Ministero dell'interno e' autorizzato ad avvalersi, mediante contratti stipulati anche a trattativa privata, di enti ed imprese che abbiano particolare competenza ed idonei mezzi tecnici, eventualmente in deroga al disposto degli [articoli 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218#art_107) e [113 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218#art_113).
+Per l'attuazione dei piani di cui al precedente articolo 2, il Ministero dell'interno e' autorizzato ad avvalersi, mediante contratti stipulati anche a trattativa privata, di enti ed imprese che abbiano particolare competenza ed idonei mezzi tecnici, eventualmente in deroga al disposto degli [articoli 107](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md) e [113 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
 
 2.
 
@@ -93,7 +93,7 @@ Per i progetti, i contratti e le convenzioni per l'esecuzione dei lavori, provvi
 Il Ministro dell'interno puo' delegare al direttore generale della protezione civile e dei servizi antincendi l'approvazione dei provvedimenti autorizzativi di spesa nell'ambito dei piani annuali di cui all'articolo 2.
 
 Nota all'[art. 3, comma 1:
- Il decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-06;218#art_3-com1), ha approvato il testo unico delle leggi sugli interventi nel Mezzogiorno. L'art. 107 di detto testo unico concerne la riserva di investimenti pubblici nel Mezzogiorno; l'art. 113 la riserva del 30 per cento delle forniture e lavorazioni delle amministrazioni pubbliche a favore delle imprese industriali e artigiane.
+ Il decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), ha approvato il testo unico delle leggi sugli interventi nel Mezzogiorno. L'art. 107 di detto testo unico concerne la riserva di investimenti pubblici nel Mezzogiorno; l'art. 113 la riserva del 30 per cento delle forniture e lavorazioni delle amministrazioni pubbliche a favore delle imprese industriali e artigiane.
 
 ## Art. 4.
 

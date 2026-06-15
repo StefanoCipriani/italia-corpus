@@ -64,7 +64,7 @@ Presso ogni Istituto di incremento ippico ha sede una Commissione, nominata dal 
  La Commissione ha giurisdizione nella circoscrizione dell'Istituto incremento ippico ed e' composta:
  1) dal direttore dell'Istituto incremento ippico competente per territorio, presidente;
  2) da un allevatore nominato dalla A.I.A., vicepresidente.
- La Commissione e' integrata, in ciascuna Provincia, dal capo dell'Ispettorato provinciale dell'agricoltura, dal veterinario provinciale e da un allevatore, nominato dal Ministro per l'agricoltura e per le foreste, fra una terna di nomi proposti dall'Associazione italiana allevatori, di cui al [decreto del Presidente della Repubblica 27 ottobre 1950, n. 1051](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-10-27;1051).
+ La Commissione e' integrata, in ciascuna Provincia, dal capo dell'Ispettorato provinciale dell'agricoltura, dal veterinario provinciale e da un allevatore, nominato dal Ministro per l'agricoltura e per le foreste, fra una terna di nomi proposti dall'Associazione italiana allevatori, di cui al [decreto del Presidente della Repubblica 27 ottobre 1950, n. 1051](../DPR/Erezione%20in%20ente%20morale%20dellAssociazione%20italiana%20allevatori%20con%20sede%20in%20Roma.md).
  I componenti la Commissione durano in carica tre anni e possono, alla scadenza, essere confermati.
 
 ## Art. 10.
@@ -157,7 +157,7 @@ Entro sei mesi dalla data di entrata in vigore della presente legge sara' emanat
 
 ## Art. 25.
 
-Sono abrogati il [regio decreto-legge 13 agosto 1926, n. 1550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1550); il [regio decreto 3 settembre 1926, n. 1642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-03;1642); il [regio decreto 25 novembre 1937, n. 2162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-11-25;2162); la [legge 16 ottobre 1954, n. 1051](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-16;1051), e ogni altra disposizione in contrasto con la presente legge.
+Sono abrogati il [regio decreto-legge 13 agosto 1926, n. 1550](Disposizioni%20circa%20la%20produzione%20equina%20026U1550.md); il [regio decreto 3 settembre 1926, n. 1642](Approvazione%20del%20regolamento%20per%20la%20monta%20pubblica%20cavallina%20ed%20asinina.%20026U1642.md); il [regio decreto 25 novembre 1937, n. 2162](Norme%20per%20la%20disciplina%20della%20monta%20girovaga%20e%20per%20la%20preventiva%20approvazione%20dei%20cavalli%20e%20degli%20asini%20stalloni%20destinati%20alla%20monta%20privata.%20037U2162.md); la [legge 16 ottobre 1954, n. 1051](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-16;1051), e ogni altra disposizione in contrasto con la presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

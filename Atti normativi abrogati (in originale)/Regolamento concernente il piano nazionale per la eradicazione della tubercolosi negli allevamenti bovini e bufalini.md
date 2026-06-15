@@ -34,7 +34,7 @@ Considerato che con [decreto del Presidente della Repubblica 1 marzo 1992, n. 23
 
 Considerato che l'art. 9 del decreto del Presidente della Repubblica n. 230 recita: "Il Ministro della sanita', con propri decreti, adotta regolamenti ai sensi dell'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17), per estendere al territorio nazionale le norme sanitarie previste negli allegati";
 
-Visto l'[art. 13 del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_13), concernente il riordino della disciplina in materia sanitaria;
+Visto l'[art. 13 del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), concernente il riordino della disciplina in materia sanitaria;
 
 Vista la decisione del Consiglio CEE n. 87/58 del 22 dicembre 1986 che istituisce un'azione complementare della Comunita' per l'eradicazione della brucellosi, della tubercolosi e della leucosi dei bovini;
 
@@ -65,7 +65,7 @@ Il presente regolamento stabilisce le misure sanitarie da applicare agli allevam
 Il piano nazionale di profilassi della tubercolosi bovina ha l'obiettivo di eradicare in tre anni la tubercolosi dagli allevamenti bovini e bufalini ai fini della tutela della salute pubblica e della protezione degli allevamenti ufficialmente indenni.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ### Art. 2. — Definizioni
 
@@ -178,7 +178,7 @@ Un bovino o un bufalino e' considerato sospetto di infezione tubercolare quando:
 
 2.
 
-I casi di sospetto di tubercolosi nei bovini e nei bufalini devono essere ufficialmente segnalati alla unita' sanitaria locale competente per territorio ai sensi dell'[art. 2 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320#art_2).
+I casi di sospetto di tubercolosi nei bovini e nei bufalini devono essere ufficialmente segnalati alla unita' sanitaria locale competente per territorio ai sensi dell'[art. 2 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md).
 
 3.
 
@@ -186,7 +186,7 @@ Nei confronti degli animali di cui al comma 1 del presente articolo devono esser
 
 4.
 
-Nessun bovino o bufalino puo' entrare o uscire da un allevamento in cui vi siano animali sospetti d'infezione tubercolare salvo autorizzazione per l'uscita di animali destinati all'immediata macellazione, da rilasciarsi ai sensi del [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320), e successive modifiche, nell'attesa della diagnosi definitiva.
+Nessun bovino o bufalino puo' entrare o uscire da un allevamento in cui vi siano animali sospetti d'infezione tubercolare salvo autorizzazione per l'uscita di animali destinati all'immediata macellazione, da rilasciarsi ai sensi del [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e successive modifiche, nell'attesa della diagnosi definitiva.
 
 ### Art. 7. — Animali ed allevamenti infetti
 
@@ -204,7 +204,7 @@ Un allevamento e' considerato infetto da tubercolosi qualora uno o piu' capi son
 
 3.
 
-I casi di tubercolosi nei bovini o nei bufalini devono essere ufficialmente segnalati alla unita' sanitaria locale competente per territorio ai sensi dell'[art. 2 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320#art_2).
+I casi di tubercolosi nei bovini o nei bufalini devono essere ufficialmente segnalati alla unita' sanitaria locale competente per territorio ai sensi dell'[art. 2 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md).
 
 4.
 
@@ -267,7 +267,7 @@ Negli allevamenti dichiarati infetti ai sensi del presente regolamento si adotta
                             h)
                                 la mungitura degli animali sospetti o infetti deve essere effettuata separatamente e comunque dopo la mungitura dei soggetti sani, seguita da accurato lavaggio, pulizia e disinfezione delle attrezzature e dei locali adibiti alla mungitura con le modalita' previste dall'art. 10 del presente regolamento;
                             i)
-                                divieto di qualsiasi movimento da e per l'allevamento infetto, salvo autorizzazione per l'uscita di animali destinati all'immediata macellazione, da rilasciarsi ai sensi del [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320), e successive modificazioni;
+                                divieto di qualsiasi movimento da e per l'allevamento infetto, salvo autorizzazione per l'uscita di animali destinati all'immediata macellazione, da rilasciarsi ai sensi del [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e successive modificazioni;
                             l)
                                 i vitelli o annutoli nati da madri infette devono essere allevati in condizioni di isolamento e sottoposti alle opportune prove diagnostiche previste dall'allegato 1 al presente regolamento al fine di escludere l'eventuale trasmissione della malattia;
                             m)
@@ -388,7 +388,7 @@ I commercianti di bovini e bufalini da riproduzione sono tenuti ad attivare appo
 
 2.
 
-I commercianti di cui al comma 1 sono altresi' obbligati ad annotare su idoneo registro di carico e scarico, da tenere a disposizione per almeno un anno del servizio veterinario, la data di ingresso e di uscita degli animali nonche' i relativi contrassegni di identificazione, gli estremi del modello 4 ([decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320)) e copia del relativo certificato sanitario.
+I commercianti di cui al comma 1 sono altresi' obbligati ad annotare su idoneo registro di carico e scarico, da tenere a disposizione per almeno un anno del servizio veterinario, la data di ingresso e di uscita degli animali nonche' i relativi contrassegni di identificazione, gli estremi del modello 4 ([decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md)) e copia del relativo certificato sanitario.
 
 3.
 

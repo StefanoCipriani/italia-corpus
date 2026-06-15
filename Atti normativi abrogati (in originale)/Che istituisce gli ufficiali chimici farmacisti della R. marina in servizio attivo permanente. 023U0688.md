@@ -95,7 +95,7 @@ Coloro che alla data di applicazione del presente decreto fanno parto del ruolo 
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 4 settembre 1925, n. 1654](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1654), convertito senza modificazioni dalla [L. 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 4 settembre 1925, n. 1654](Modificazione%20al%20R.%20decreto%208%20marzo%201923%20n.%20688%20che%20istituisce%20gli%20ufficiali%20chimici%20farmacisti%20della%20Regia%20marina%20in%20servizio%20attivo%20permanente.%20025U1654.md), convertito senza modificazioni dalla [L. 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 10.
 

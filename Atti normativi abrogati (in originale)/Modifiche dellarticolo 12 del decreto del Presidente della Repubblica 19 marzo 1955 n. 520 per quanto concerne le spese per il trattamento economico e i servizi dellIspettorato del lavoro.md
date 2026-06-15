@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-L'[articolo 12 del decreto del Presidente della Repubblica 19 marzo 1955, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-03-19;520#art_12), e' sostituito dal seguente:
+L'[articolo 12 del decreto del Presidente della Repubblica 19 marzo 1955, n. 520](../DPR/Riorganizzazione%20centrale%20e%20periferica%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.md), e' sostituito dal seguente:
  "Alla spesa occorrente per il trattamento economico del personale ed a tutte le altre spese per i servizi dell'Ispettorato del lavoro, comprese quelle inerenti al personale dell'Arma dei carabinieri di cui all'articolo 16 del presente decreto, sara' provveduto:
  a) per lire 500.000.000 a carico del bilancio dello Stato;
  b) per lire 1.500.000.000 a carico dell'istituto nazionale della previdenza sociale, a titolo di acconto sul concorso alle spese di cui alla lettera successiva, da iscriversi in un apposito capitolo del bilancio dell'entrata e da versarsi alla Tesoreria centrale entro il primo mese dell'esercizio finanziario;

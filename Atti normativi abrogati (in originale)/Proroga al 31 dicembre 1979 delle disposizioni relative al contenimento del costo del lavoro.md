@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il termine di cui all'[articolo 1 del decreto-legge 30 gennaio 1979, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-01-30;20#art_1), convertito, con modificazioni, nella [legge 31 marzo 1979, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-03-31;92), e' ulteriormente prorogato per il periodo dal 1 luglio 1979 fino alla scadenza del periodo di paga in corso al 31 dicembre 1979.
+Il termine di cui all'[articolo 1 del decreto-legge 30 gennaio 1979, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-01-30;20#art_1), convertito, con modificazioni, nella [legge 31 marzo 1979, n. 92](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20gennaio%201979%20n.%2020%20concernente%20proroga%20al%2030%20giugno%201979%20delle%20disposizioni%20relative%20al%20contenimento%20del%20costo%20del%20lavoro%20nonch_15fcc93cd66c.md), e' ulteriormente prorogato per il periodo dal 1 luglio 1979 fino alla scadenza del periodo di paga in corso al 31 dicembre 1979.
 
 ## Art. 2.
 

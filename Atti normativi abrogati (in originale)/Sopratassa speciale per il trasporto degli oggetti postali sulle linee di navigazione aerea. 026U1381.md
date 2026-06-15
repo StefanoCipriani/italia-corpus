@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 3 aprile 1926, n. 632](Trasporto%20degli%20effetti%20postali%20sulle%20linee%20di%20navigazione%20aerea.%20026U0632.md);
 
-Visto l'[art. 7 del R. decreto-legge n. 520 del 23 aprile 1925](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge il 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto l'[art. 7 del R. decreto-legge n. 520 del 23 aprile 1925](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge il 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Sentito il Consiglio di amministrazione per le poste ed i telegrafi;
 

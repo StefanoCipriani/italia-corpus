@@ -16,8 +16,8 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [decreto legislativo 5 maggio 1948, n. 1242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-05;1242), e' ratificato senza modificazioni.
- Il [decreto legislativo 24 febbraio 1948, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-24;114), e' ratificato con le seguenti modificazioni:
+Il [decreto legislativo 5 maggio 1948, n. 1242](../Decreti%20Legislativi/Modificazioni%20ai%20decreti%20legislativi%2024%20febbraio%201948%20n.%20114%20contenente%20provvidenze%20a%20favore%20della%20piccola%20proprieta%20contadina%20e%205%20marzo%201948%20n.%20121%20contenente%20provvedimenti%20a%20favore%20di%20v_7fcd66b30e57.md), e' ratificato senza modificazioni.
+ Il [decreto legislativo 24 febbraio 1948, n. 114](../Decreti%20Legislativi/Provvidenze%20a%20favore%20della%20piccola%20proprieta%20contadina.md), e' ratificato con le seguenti modificazioni:
  Art. 1. - Al primo comma alle parole: "due anni" sostituire le parole: "quattro anni".
  Aggiungere alla lettera d): "Salvo casi particolari da esaminarsi da parte della Commissione provinciale di cui al penultimo capoverso del presente articolo".
  Art. 2. - E' cosi' modificato:

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), e successive modificazioni; 29 aprile 1925, n. 988, convertito nella [legge 18 marzo 1926, n. 562; 3 gennaio 1926, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-03;37), convertito nella [legge 24 maggio 1926, n. 898; 7 febbraio 1926, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-02-07;168), convertito nella [legge 25 novembre 1926, n. 2001, e 16 maggio 1926, n. 897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-16;897);
+Visti i [Regi decreti-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e successive modificazioni; 29 aprile 1925, n. 988, convertito nella [legge 18 marzo 1926, n. 562; 3 gennaio 1926, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-03;37), convertito nella [legge 24 maggio 1926, n. 898; 7 febbraio 1926, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-02-07;168), convertito nella [legge 25 novembre 1926, n. 2001, e 16 maggio 1926, n. 897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-16;897);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-Gli uffici principali ed i secondari, in caso di riconosciuta necessita', possono essere trasformati in uffici di 1ª classe gestiti da funzionari di ruolo coadiuvati da supplenti oppure da impiegati esecutivi di cui all'[art. 3 del R. decreto 15 agosto 1926, n. 1733](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-15;1733#art_3). 
+Gli uffici principali ed i secondari, in caso di riconosciuta necessita', possono essere trasformati in uffici di 1ª classe gestiti da funzionari di ruolo coadiuvati da supplenti oppure da impiegati esecutivi di cui all'[art. 3 del R. decreto 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md). 
  
  La trasformazione e' disposta con decreto motivato del Ministro per le comunicazioni, inteso il Consiglio di amministrazione delle poste e dei telegrafi.
 
@@ -76,7 +76,7 @@ Per le cauzioni individuali svincolate di diritto a norma dell'[art. 2 del decre
 
 Ferme le disposizioni degli [articoli 19](Costituzione%20dellIstituto%20di%20assicurazione%20e%20previdenza%20per%20i%20titolari%20degli%20uffici%20secondari%20per%20i%20ricevitori%20postali%20telegrafici%20e%20per%20gli%20agenti%20rurali.%20026U0037.md) e [27 del R. decreto-legge 3 gennaio 1926, n. 37](Costituzione%20dellIstituto%20di%20assicurazione%20e%20previdenza%20per%20i%20titolari%20degli%20uffici%20secondari%20per%20i%20ricevitori%20postali%20telegrafici%20e%20per%20gli%20agenti%20rurali.%20026U0037.md), l'Istituto di assicurazione e previdenza per i titolari degli uffici secondari, i ricevitori postali telegrafici e gli agenti rurali, e' parificato, agli effetti delle imposte e tasse, alle Amministrazioni dello Stato, anche per quanto riguarda l'applicazione dei tributi sulle erogazioni da esso disposte. 
  
- Alle domande per il conseguimento dei benefici dell'Istituto ed ai documenti che le corredano sono applicabili le disposizioni dell'art. 32, ultimo comma, del testo unico di leggi approvato con [R. decreto 4 giugno 1925, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-04;1036). 
+ Alle domande per il conseguimento dei benefici dell'Istituto ed ai documenti che le corredano sono applicabili le disposizioni dell'art. 32, ultimo comma, del testo unico di leggi approvato con [R. decreto 4 giugno 1925, n. 1036](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md). 
  
  La esenzione dalle tasse postali accordata all'Istituto di assicurazione e previdenza per i titolari degli uffici secondari, per i ricevitori postali telegrafici e per gli agenti rurali, dall'[art. 27 del R. decreto-legge 3 gennaio 1926, n. 37](Costituzione%20dellIstituto%20di%20assicurazione%20e%20previdenza%20per%20i%20titolari%20degli%20uffici%20secondari%20per%20i%20ricevitori%20postali%20telegrafici%20e%20per%20gli%20agenti%20rurali.%20026U0037.md), e' estesa al servizio delle riscossioni, ivi compreso il diritto fisso per l'eventuale protesto.
 
@@ -88,7 +88,7 @@ Nei giudizi attivi e passivi la rappresentanza delle singole gestioni di cui all
 
 I rapporti e le contestazioni per qualsiasi causa, e comunque sorte, relative alle concessioni di pubblicita', di cui all'[art. 8 del R. decreto-legge 16 maggio 1926, n. 897](Aggiunte%20ai%20Regi%20decreti-legge%203%20gennaio%201926%20n.%2037%20e%207%20febbraio%201926%20n.%20168%20relativi%20alla%20costituzione%20dellIstituto%20di%20assicurazione%20e%20previdenza%20per%20i%20titolari%20degli%20uffici%20secondari%20pe_0b9528dec49a.md), ed alla loro esecuzione, sono regolati e definiti: 
  
- a) a norma del [R. decreto-legge 7 maggio 1925, n. 584](Abrogazione%20delle%20disposizioni%20sulla%20pubblicita%20commerciale%20industriale%20e%20professionale%20sulle%20cose%20di%20pertinenza%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20025U0584.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), fra Stato, concessionari e sub-concessionari; 
+ a) a norma del [R. decreto-legge 7 maggio 1925, n. 584](Abrogazione%20delle%20disposizioni%20sulla%20pubblicita%20commerciale%20industriale%20e%20professionale%20sulle%20cose%20di%20pertinenza%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20025U0584.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), fra Stato, concessionari e sub-concessionari; 
  
  b) a norma dell'art. 8 del Regio decreto-legge stesso, fra concessionario e sub-concessionario od assuntore, determinandosi che in caso di ricorso gli arbitri delle parti saranno nominati rispettivamente dal concessionario e dal sub-concessionario od assuntore.
 

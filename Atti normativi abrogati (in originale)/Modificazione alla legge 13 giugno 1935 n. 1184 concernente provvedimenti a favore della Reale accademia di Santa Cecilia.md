@@ -16,17 +16,17 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 13 giugno 1935 n. 1184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-13;1184);
+Vista la [legge 13 giugno 1935 n. 1184](Provvedimenti%20a%20favore%20della%20Reale%20Accademia%20di%20Santa%20Cecilia.%20035U1184.md);
 
-Visto il [R. decreto-legge 20 luglio 1934, n. 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1203), convertito in legge con la [legge 28 marzo 1935, n. 857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-03-28;857);
+Visto il [R. decreto-legge 20 luglio 1934, n. 1203](Provvedimenti%20per%20lo%20sviluppo%20delle%20radiodiffusioni.%20034U1203.md), convertito in legge con la [legge 28 marzo 1935, n. 857](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201203%20portante%20provvedimenti%20per%20lo%20sviluppo%20delle%20radiodiffusione.%20035U0857.md);
 
 Visto il decreto del Ministro per le finanze e dei Ministro per le comunicazioni 30 dicembre 1934, pubblicato nella Gazzetta Ufficiale n. 26, del 31 gennaio 1935;
 
-Visto il [decreto legislativo Luogotenenziale 21 dicembre 1944, n. 458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-21;458);
+Visto il [decreto legislativo Luogotenenziale 21 dicembre 1944, n. 458](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.%20044U0458.md);
 
 Visto il [decreto legislativo Luogotenenziale 26 ottobre 1944, n. 457](Nuova%20denominazione%20dellEnte%20Italiano%20Audizioni%20Radiofoniche.%20044U0457.md);
 
-Visto il [R. decreto-legge 1° aprile 1935, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-01;327), convertito in legge con la [legge 6 giugno 1935, n. 1142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-06;1142);
+Visto il [R. decreto-legge 1° aprile 1935, n. 327](Istituzione%20di%20un%20Ispettorato%20del%20teatro%20alla%20dipendenza%20del%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20la%20propaganda.%20035U0327.md), convertito in legge con la [legge 6 giugno 1935, n. 1142](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20aprile%201935-XIII%20n.%20327%20concernente%20la%20istituzione%20di%20un%20Ispettorato%20del%20Teatro%20alla%20dipendenza%20del%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20_59efb41b30bc.md);
 
 Visti i [decreti Luogotenenziali 3 luglio 1944, n. 163](Soppressione%20del%20Ministeroper%20la%20cultura%20popolare%20e%20istituzione%20di%20un%20Sottosegretariato%20per%20la%20stampa%20e%20le%20informazioni.%20044U0163.md);
 
@@ -40,7 +40,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-L'[art. 1 della legge 13 giugno 1935, n. 1184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-13;1184#art_1), e' modificato come appresso:
+L'[art. 1 della legge 13 giugno 1935, n. 1184](Provvedimenti%20a%20favore%20della%20Reale%20Accademia%20di%20Santa%20Cecilia.%20035U1184.md), e' modificato come appresso:
 
  L'un per cento della quota spettante all'Ente "Radio Audizioni Italia" (R.A.I.) sul provento dei canoni di abbonamento alle radioaudizioni circolari, pagati dai privati utenti, di cui all'art. 14 del decreto 30 dicembre 1934, del Ministro per le finanze e del Ministro per le comunicazioni, pubblicato nella Gazzetta Ufficiale del 31 gennaio 1935, n. 26, sara' devoluto alla Reale accademia di Santa Cecilia, quale contributo per l'orchestra stabile.
  L'Amministrazione delle finanze corrispondera' le somme spettanti alla Reale accademia di Santa Cecilia mediante acconti trimestrali posticipati in base alle risultanze provvisorie delle riscossioni, salvo conguaglio alla fine di ciascun esercizio finanziario.

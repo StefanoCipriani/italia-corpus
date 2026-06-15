@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2101), che reca nuovi provvedimenti per l'esercizio del credito minerario in Sicilia. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2101](Nuovi%20provvedimenti%20per%20lesercizio%20del%20credito%20minerario%20in%20Sicilia.%20027U2101.md), che reca nuovi provvedimenti per l'esercizio del credito minerario in Sicilia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

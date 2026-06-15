@@ -42,7 +42,7 @@ Agli effetti del presente decreto, la condizione di reduce dalla, deportazione e
 
 I datori di lavoro che non osservino le disposizioni del presente decreto sono puniti con l'ammenda da L. 1000 a L. 20.000. 
  
- L'ammenda prevista dall'[art. 18 della legge 21 agosto 1921, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-21;1312#art_18), e' elevata a L. 50.
+ L'ammenda prevista dall'[art. 18 della legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md), e' elevata a L. 50.
 
 ## Art. 9.
 

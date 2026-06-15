@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Vista la [legge 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-08-24;4021) (testo unico);
 
-Visti gli [articoli 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-11;560#art_26) e [39 del R. decreto 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-11;560#art_39);
+Visti gli [articoli 26](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md) e [39 del R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
 
 Ritenute l'opportunita' e l'urgenza di accordare al Ministro per le finanze la facolta' di sciogliere, in determinati casi, le Commissioni provinciali per le imposte dirette;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Il Ministro per le finanze, interpellati il prefetto e l'intendente di finanza della Provincia e sentito il parere del Consiglio di Stato, puo' decretare lo scioglimento della Commissione provinciale delle imposte dirette, oltre che nei casi previsti dall'[art. 26 del R. decreto 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-11;560#art_26), anche quando risulti che la Commissione per qualsivoglia altro motivo non adempia regolarmente alle funzioni affidatele.
+Il Ministro per le finanze, interpellati il prefetto e l'intendente di finanza della Provincia e sentito il parere del Consiglio di Stato, puo' decretare lo scioglimento della Commissione provinciale delle imposte dirette, oltre che nei casi previsti dall'[art. 26 del R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), anche quando risulti che la Commissione per qualsivoglia altro motivo non adempia regolarmente alle funzioni affidatele.
 
 ## Art. 2.
 

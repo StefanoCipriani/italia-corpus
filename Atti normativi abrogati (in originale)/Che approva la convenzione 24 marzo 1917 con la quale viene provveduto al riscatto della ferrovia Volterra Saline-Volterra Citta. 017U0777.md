@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 5 aprile 1908, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-04-05;137), con la quale fu approvata la convenzione 23 giugno 1907 stipulata col comune di Volterra per la concessione di una ferrovia a scartamento normale ed a trazione a vapore fra la citta' di Volterra e la linea Cecina-Volterra (Saline);
+Vista la [legge 5 aprile 1908, n. 137](Che%20approva%20e%20rende%20esecutoria%20la%20Convenzione%2023%20giugno%201907%20per%20la%20concessione%20della%20ferrovia%20Volterra%20Saline-Volterra%20Citta%20ed%20allautorizzazione%20allesercizio%20della%20medesima%20da%20parte%20del_d74fc2105ef8.md), con la quale fu approvata la convenzione 23 giugno 1907 stipulata col comune di Volterra per la concessione di una ferrovia a scartamento normale ed a trazione a vapore fra la citta' di Volterra e la linea Cecina-Volterra (Saline);
 
 Ritenuto che in base alla citata legge l'Amministrazione delle ferrovie dello Stato, assunse l'esercizio della linea che fu attivato a decorrere dal 16 settembre 1912;
 
@@ -44,7 +44,7 @@ Al pagamento della detta somma di lire un milione quattrocentoquarantacinquemila
  
  Per la parte di indennita' da corrispondersi sotto forma di annualita' si fara' fronte mediante trasporto al bilancio del Ministero del tesoro delle somme tuttora da stanziare nel bilancio del Ministero dei lavori pubblici a titolo di sovvenzione governativa per la ferrovia Volterra Saline-Volterra Citta'. 
  
- Per la residuale somma di lire settecentoventottomila ottocentocinquantatre e centesimi ottantatre (lire 728.853,83) da stanziarsi con apposito capitolo rispettivamente nel bilancio passivo del Ministero del tesoro e nel bilancio di entrata, il ministro del tesoro e' autorizzato a valersi dei mezzi stabiliti dall'[articolo 3 della legge 23 dicembre 1906, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-12-23;638#art_3) e successive. 
+ Per la residuale somma di lire settecentoventottomila ottocentocinquantatre e centesimi ottantatre (lire 728.853,83) da stanziarsi con apposito capitolo rispettivamente nel bilancio passivo del Ministero del tesoro e nel bilancio di entrata, il ministro del tesoro e' autorizzato a valersi dei mezzi stabiliti dall'[articolo 3 della legge 23 dicembre 1906, n. 638](Spese%20straordinarie%20occorrenti%20per%20le%20ferrovie%20esercitate%20dallo%20Stato%20e%20relativa%20provvista%20di%20fondi.%20006U0638.md) e successive. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

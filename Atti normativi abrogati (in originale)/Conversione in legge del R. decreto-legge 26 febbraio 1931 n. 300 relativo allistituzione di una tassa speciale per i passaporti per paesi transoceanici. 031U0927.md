@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 febbraio 1931, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-02-26;300), che sottopone al pagamento di una tassa speciale di L. 100 per persona, in aggiunta alla tassa ordinaria, la concessione del passaporto per paesi transoceanici, quando essa avvenga in base a chiamata. 
+ E' convertito in legge il [R. decreto-legge 26 febbraio 1931, n. 300](Istituzione%20di%20una%20tassa%20speciale%20per%20i%20passaporti%20per%20paesi%20transoceanici.%20031U0300.md), che sottopone al pagamento di una tassa speciale di L. 100 per persona, in aggiunta alla tassa ordinaria, la concessione del passaporto per paesi transoceanici, quando essa avvenga in base a chiamata. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

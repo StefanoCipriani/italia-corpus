@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 29 giugno 1933, n. 746](Modifiche%20allordinamento%20
 
 Visto il [R. decreto-legge 3 aprile 1933, n. 266](Conferimento%20di%20pieni%20poteri%20al%20commissario%20straordinario%20dellistituto%20nazionale%20L.U.C.E.%20033U0266.md), convertito nella [legge 8 giugno 1933, n. 817](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20aprile%201933%20n.%20266%20concernente%20conferimento%20di%20pieni%20poteri%20al%20commissario%20straordinario%20dellIstituto%20nazionale%20L.U.C.E.%20033U0817.md), con il quale vennero conferiti poteri straordinari al commissario di detto Istituto;
 
-Visto il [R. decreto 18 agosto 1933, n. 1057](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-18;1057), riguardante la costituzione del Consiglio di amministrazione dell'Istituto nazionale L.U.C.E.;
+Visto il [R. decreto 18 agosto 1933, n. 1057](Ricostituzione%20del%20Consiglio%20di%20amministrazione%20dellIstituto%20nazionale%20L.U.C.E.%20033U1057.md), riguardante la costituzione del Consiglio di amministrazione dell'Istituto nazionale L.U.C.E.;
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md):
 

@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il [primo comma dell'art. 12 della legge 7 marzo 1938, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-07;141#art_12-com1), che ha convertito in legge, con modificazioni, il R. decreto-legge 12 marzo 1936-XIV, n. 375, modificato dalla legge 10 giugno 1940-XVIII, n. 933, contenente disposizioni per la difesa del risparmio e per la disciplina della funzione creditizia, e' sostituito dal seguente: 
+ Il [primo comma dell'art. 12 della legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md), che ha convertito in legge, con modificazioni, il R. decreto-legge 12 marzo 1936-XIV, n. 375, modificato dalla legge 10 giugno 1940-XVIII, n. 933, contenente disposizioni per la difesa del risparmio e per la disciplina della funzione creditizia, e' sostituito dal seguente: 
  
  «L'Ispettorato e' alle dipendenze di un Comitato di Ministri presieduto dal DUCE del Fascismo, Capo del Governo, e composto del Segretario del Partito Nazionale Fascista, Ministro Segretario di Stato e dei Ministri per le finanze, per i lavori pubblici, per l'agricoltura, e le foreste, per le corporazioni e per gli scambi e le valute. 
  

@@ -469,7 +469,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1926-1927 sono stabil
 
 ### Art. 22.
 
-Ai sensi dell'articolo n. 65 dell'ordinamento amministrativo-contabile per la Tripolitania e per la Cirenaica, approvato con [Regio decreto 26 giugno 1925, n. 1271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-26;1271), ai seguenti articoli del bilancio della Tripolitania per l'esercizio 1926-27 e' inscritta la somma per ciascuno di essi indicata: 
+Ai sensi dell'articolo n. 65 dell'ordinamento amministrativo-contabile per la Tripolitania e per la Cirenaica, approvato con [Regio decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), ai seguenti articoli del bilancio della Tripolitania per l'esercizio 1926-27 e' inscritta la somma per ciascuno di essi indicata: 
  
  Articolo n. 87 «Accantonamento per provvedere allo eventuale pagamento di saldi di spese residue, ecc.», lire 2.851.577,98. 
  
@@ -808,7 +808,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1927-28 sono stabilit
 
 ### Art. 38.
 
-Ai sensi dell'articolo n. 65 dell'ordinamento amministrativo-contabile per la Tripolitania e per la Cirenaica, approvato con [Regio decreto 26 giugno 1925, n. 1271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-26;1271), ai seguenti articoli del bilancio della Tripolitania, per l'esercizio 1927-28, e' inscritta la somma per ciascuno di essi indicata: 
+Ai sensi dell'articolo n. 65 dell'ordinamento amministrativo-contabile per la Tripolitania e per la Cirenaica, approvato con [Regio decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), ai seguenti articoli del bilancio della Tripolitania, per l'esercizio 1927-28, e' inscritta la somma per ciascuno di essi indicata: 
  
  Art. 88. - «Accantonamento per provvedere all'eventuale pagamento di saldi di spese residue, ecc.», lire 6.213.465,23. 
  
@@ -1160,7 +1160,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1928-29 sono stabilit
 
 ### Art. 55.
 
-Ai sensi dell'[articolo 65 del Regio decreto 26 giugno 1925, n. 1271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-26;1271#art_65), che approva l'ordinamento per la gestione amministrativo-contabile per le Colonie, l'avanzo accertato col consuntivo nella somma di lire 864.820,87, e' esclusivamente assegnato alla competenza dell'articolo aggiunto 84 del bilancio della Tripolitania per l'esercizio finanziario 1928-29, con la dizione: «Accantonamento per provvedere all'eventuale pagamento di saldi di spese residue, ecc.».
+Ai sensi dell'[articolo 65 del Regio decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), che approva l'ordinamento per la gestione amministrativo-contabile per le Colonie, l'avanzo accertato col consuntivo nella somma di lire 864.820,87, e' esclusivamente assegnato alla competenza dell'articolo aggiunto 84 del bilancio della Tripolitania per l'esercizio finanziario 1928-29, con la dizione: «Accantonamento per provvedere all'eventuale pagamento di saldi di spese residue, ecc.».
 
 ### Art. 56.
 
@@ -1498,7 +1498,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1929-30 sono stabilit
 
 ### Art. 72.
 
-Ai sensi dell'[articolo 2 del Regio decreto-legge 25 marzo 1929, n. 531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-25;531#art_2), che consolida per gli esercizi finanziari dal 1929-1930 al 1932-33 il contributo dello Stato a favore del bilancio della Tripolitania, l'avanzo accertato col consuntivo nella somma di lire 3.585.861,49 e' esclusivamente assegnato alla competenza dell'articolo aggiunto 94 del bilancio della Tripolitania per l'esercizio finanziario 1929-30 colla dizione: Fondo di riserva costituito dagli avanzi di bilancio, ecc.
+Ai sensi dell'[articolo 2 del Regio decreto-legge 25 marzo 1929, n. 531](Contributo%20dello%20Stato%20diretto%20a%20consolidare%20per%20gli%20esercizi%20finanziari%20dal%201929-30%20al%201932-33%20i%20bilanci%20della%20Tripolitania%20Cirenaica%20Eritrea%20e%20Somalia.%20029U0531.md), che consolida per gli esercizi finanziari dal 1929-1930 al 1932-33 il contributo dello Stato a favore del bilancio della Tripolitania, l'avanzo accertato col consuntivo nella somma di lire 3.585.861,49 e' esclusivamente assegnato alla competenza dell'articolo aggiunto 94 del bilancio della Tripolitania per l'esercizio finanziario 1929-30 colla dizione: Fondo di riserva costituito dagli avanzi di bilancio, ecc.
 
 ### Art. 73.
 

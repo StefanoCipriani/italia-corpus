@@ -20,9 +20,9 @@ Visto il [R. decreto-legge 9 agosto 1943, n. 718](https://www.normattiva.it/uri-
 
 Visto il [decreto Luogotenenziale 21 settembre 1944, n. 304](Riordinamento%20dei%20servizi%20del%20Ministero%20dellindustria%20del%20commercio%20e%20del%20lavoro.%20044U0304.md);
 
-Vista la [legge 9 aprile 1931, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-04-09;358), e successive modificazioni;
+Vista la [legge 9 aprile 1931, n. 358](Norme%20per%20la%20disciplina%20e%20lo%20sviluppo%20delle%20migrazioni%20e%20della%20colonizzazione%20interna.%20031U0358.md), e successive modificazioni;
 
-Visto il [R. decreto-legge 28 dicembre 1931, n. 1684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-28;1684);
+Visto il [R. decreto-legge 28 dicembre 1931, n. 1684](Ordinamento%20dellIspettorato%20corporativo.%20031U1684.md);
 
 Visto il [decreto Luogotenenziale 21 giugno 1945, n. 377](Ripartizione%20del%20Ministero%20dellindustria%20commercio%20e%20lavoro%20in%20due%20distinti%20Ministeri%20rispettivamente%20denominati%20Ministero%20dellindustria%20e%20commercio%20e%20Ministero%20del%20lavoro%20e%20previdenza%20so_9ea7713417c7.md);
 
@@ -69,7 +69,7 @@ Restano affidati alla competenza del Ministero dell'industria e del commercio il
 
 ## Art. 4.
 
-Ferme restando le norme di cui al [R. decreto-legge 29 aprile 1923, n. 966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-04-29;966), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni, e' devoluta al Ministero del lavoro e della previdenza sociale la vigilanza sugli enti di previdenza per i lavoratori e le societa' di mutuo soccorso che provvedono al pagamento a favore degli iscritti di capitale e di rendite superiori agli importi previsti dal [primo comma dell'art. 11 del R. decreto-legge 26 ottobre 1933, n. 1598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-26;1598#art_11-com1), sostituito dalla legge di conversione 29 gennaio 1934, n. 304. 
+Ferme restando le norme di cui al [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni, e' devoluta al Ministero del lavoro e della previdenza sociale la vigilanza sugli enti di previdenza per i lavoratori e le societa' di mutuo soccorso che provvedono al pagamento a favore degli iscritti di capitale e di rendite superiori agli importi previsti dal [primo comma dell'art. 11 del R. decreto-legge 26 ottobre 1933, n. 1598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-26;1598#art_11-com1), sostituito dalla legge di conversione 29 gennaio 1934, n. 304. 
  
  Il Ministero del lavoro e della previdenza sociale e' rappresentato nel Consiglio di amministrazione dell'Istituto nazionale delle assicurazioni, nel Consiglio di amministrazione dell'Istituto nazionale di credito e di previdenza delle comunicazioni, e nel Comitato per le imprese assicuratrici.
 

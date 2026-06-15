@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 19 maggio 1941, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-19;583), convertito in legge con la [legge 10 maggio 1943, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-05-10;507);
+Visto il [regio decreto-legge 19 maggio 1941, n. 583](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md), convertito in legge con la [legge 10 maggio 1943, n. 507](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20maggio%201941-XIX%20n.%20583%20relativo%20al%20trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20di%20_c00e94ef3697.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1941, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1941-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-Le misure per l'indennita' perdita, bagaglio, previste dalla tabella I allegata al [regio decreto-legge 19 maggio 1941, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-19;583), sono sostituite dalle seguenti:
+Le misure per l'indennita' perdita, bagaglio, previste dalla tabella I allegata al [regio decreto-legge 19 maggio 1941, n. 583](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md), sono sostituite dalle seguenti:
  GRADO Importo lordo Lire
 Maresciallo d'Italia, Generale d'Armata e
  Generale di Corpo d'armata designato di
@@ -42,14 +42,14 @@ Aiutante di battaglia e marescialli dei
 
 ## Art. 2.
 
-Le misure per le indennita' perdita cavalli di servizio e perdita bardature, previste dalla tabella I allegata al [regio decreto-legge 19 maggio 1941, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-19;583), sono sostituite dalle seguenti:
+Le misure per le indennita' perdita cavalli di servizio e perdita bardature, previste dalla tabella I allegata al [regio decreto-legge 19 maggio 1941, n. 583](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md), sono sostituite dalle seguenti:
 
 a) per la perdita di un cavallo . . . . . . . . . . . . . . L. 30.000 b) per la perdita delle bardature . . . . . . . . . . . . . L. 10.000 
  Le misure stabilite dal presente articolo si applicano a tutte le liquidazioni effettuate dalle legittime autorita' militari dopo l'8 settembre 1943.
 
 ## Art. 3.
 
-La misura massima dell'assegno integrativo per la perdita di indumenti di volo, prevista alla nota c) della tabella I allegata al [regio decreto-legge 19 maggio 1941, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-19;583), e' elevata - per le liquidazioni effettuate dalle legittime autorita' militari dopo l'8 settembre 1943 a lire 7500.
+La misura massima dell'assegno integrativo per la perdita di indumenti di volo, prevista alla nota c) della tabella I allegata al [regio decreto-legge 19 maggio 1941, n. 583](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md), e' elevata - per le liquidazioni effettuate dalle legittime autorita' militari dopo l'8 settembre 1943 a lire 7500.
 
 ## Art. 4.
 

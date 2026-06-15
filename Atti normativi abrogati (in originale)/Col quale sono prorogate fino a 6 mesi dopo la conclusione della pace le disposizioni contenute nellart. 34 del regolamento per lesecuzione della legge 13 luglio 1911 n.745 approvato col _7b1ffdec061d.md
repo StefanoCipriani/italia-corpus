@@ -20,11 +20,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al R. Governo dalla [legge 22 maggio 1915, num. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al R. Governo dalla [legge 22 maggio 1915, num. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto l'[art. 26 della legge 13 luglio 1911, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;745#art_26), circa provvedimenti a favore dell'industria delle costruzioni navali; 
+ Visto l'[art. 26 della legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md), circa provvedimenti a favore dell'industria delle costruzioni navali; 
  
- Visto il [R. decreto 16 luglio 1914, n. 792](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-07-16;792), col quale vengono apportate modificazioni all'art. 34 del regolamento per l'applicazione della suddetta legge, approvato col [R. decreto 12 gennaio 1913, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-12;107); 
+ Visto il [R. decreto 16 luglio 1914, n. 792](Che%20modifica%20il%20regolamento%2012%20gennaio%201912%20n.%20107%20per%20lesecuzione%20della%20legge%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20014U0792.md), col quale vengono apportate modificazioni all'art. 34 del regolamento per l'applicazione della suddetta legge, approvato col [R. decreto 12 gennaio 1913, n. 107](Col%20quale%20viene%20approvato%20lo%20annesso%20regolamento%20per%20lesecuzione%20della%20legge%2013%20luglio%201911%20n.%20745%20circa%20provvedimenti%20a%20favore%20della%20industria%20delle%20costruzioni%20navali.%20013U0107.md); 
  
  Riconosciuta l'opportunita' di prorogare, tenuto conto delle attuali condizioni dell'industria siderurgica in conseguenza della guerra, le disposizioni contenute nell'art. 34 del regolamento sovra citato, col quale le lamiere piane, semplicemente sagomate, e quelle flangiate, sono considerate, agli effetti del compenso di costruzione delle caldaie ad uso della navigazione, come materiale grezzo e di non comune fabbricazione in Italia; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- La disposizione contenuta nell'art. 34 del regolamento per l'esecuzione della [legge 13 luglio 1911, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;745), approvato col [R. decreto 12 gennaio 1913, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-12;107), e modificato col [R. decreto 16 luglio 1914, n. 792](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-07-16;792), di considerare, cioe', agli effetti dell'art. 9 della predetta legge, come materiale grezzo e come materiale di non corrente fabbricazione rispettivamente le lamiere piane, semplicemente sagomate, e quelle flangiate per la costruzione delle caldaie ad uso della navigazione, e' prorogata per tutta la durata della guerra e cessera' di avere effetto dopo sei mesi dalla conclusione della pace. 
+ La disposizione contenuta nell'art. 34 del regolamento per l'esecuzione della [legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md), approvato col [R. decreto 12 gennaio 1913, n. 107](Col%20quale%20viene%20approvato%20lo%20annesso%20regolamento%20per%20lesecuzione%20della%20legge%2013%20luglio%201911%20n.%20745%20circa%20provvedimenti%20a%20favore%20della%20industria%20delle%20costruzioni%20navali.%20013U0107.md), e modificato col [R. decreto 16 luglio 1914, n. 792](Che%20modifica%20il%20regolamento%2012%20gennaio%201912%20n.%20107%20per%20lesecuzione%20della%20legge%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20014U0792.md), di considerare, cioe', agli effetti dell'art. 9 della predetta legge, come materiale grezzo e come materiale di non corrente fabbricazione rispettivamente le lamiere piane, semplicemente sagomate, e quelle flangiate per la costruzione delle caldaie ad uso della navigazione, e' prorogata per tutta la durata della guerra e cessera' di avere effetto dopo sei mesi dalla conclusione della pace. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

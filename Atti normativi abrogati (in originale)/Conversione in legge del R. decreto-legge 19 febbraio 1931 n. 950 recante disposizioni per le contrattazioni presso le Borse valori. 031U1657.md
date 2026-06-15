@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 febbraio 1931, n. 950](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-02-19;950), recante disposizioni per le contrattazioni presso le Borse valori. 
+ E' convertito in legge il [R. decreto-legge 19 febbraio 1931, n. 950](Disposizioni%20per%20le%20contrattazioni%20presso%20le%20Borse%20valori.%20031U0950.md), recante disposizioni per le contrattazioni presso le Borse valori. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 31 dicembre 1931 - Anno X 
  

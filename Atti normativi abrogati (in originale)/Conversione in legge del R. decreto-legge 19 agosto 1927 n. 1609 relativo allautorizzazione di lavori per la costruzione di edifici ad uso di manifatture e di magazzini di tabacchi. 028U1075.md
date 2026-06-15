@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 agosto 1927, n. 1609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-19;1609), relativo ad autorizzazione di spesa per la costruzione di edifici ad uso di manifatture e di magazzini di tabacchi. 
+ E' convertito in legge il [R. decreto-legge 19 agosto 1927, n. 1609](Autorizzazione%20di%20lavori%20per%20la%20costruzione%20di%20edifici%20ad%20uso%20di%20manifatture%20e%20di%20magazzini%20di%20tabacchi.%20027U1609.md), relativo ad autorizzazione di spesa per la costruzione di edifici ad uso di manifatture e di magazzini di tabacchi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

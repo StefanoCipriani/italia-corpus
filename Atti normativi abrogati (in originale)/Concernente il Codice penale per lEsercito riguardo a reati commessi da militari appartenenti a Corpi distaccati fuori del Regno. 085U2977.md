@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'Esercito, sanzionato in data 28 novembre 1869;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito, sanzionato in data 28 novembre 1869;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra, Abbiamo decretato e decretiamo quanto segue:
 

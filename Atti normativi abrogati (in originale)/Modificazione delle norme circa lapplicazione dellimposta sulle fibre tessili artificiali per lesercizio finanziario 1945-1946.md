@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'allegato B al [R. decreto-legge 16 gennaio 1936, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-01-16;54), convertito nella [legge 4 giugno 1936, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-04;1334), che istituisce una imposta di fabbricazione sulla fibre tessili artificiali (raion) e successive modificazioni;
+Visto l'allegato B al [R. decreto-legge 16 gennaio 1936, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-01-16;54), convertito nella [legge 4 giugno 1936, n. 1334](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2016%20gennaio%201936-XIV%20n.%2054%20portante%20modificazioni%20alla%20tariffa%20generale%20dei%20dazi%20doganali%20listituzione%20di%20una%20imposta%20di%20fabbric_c44448437006.md), che istituisce una imposta di fabbricazione sulla fibre tessili artificiali (raion) e successive modificazioni;
 
 Visto l'allegato L. al [decreto legislativo Luogotenenziale 26 aprile 1945, n. 223](Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md);
 

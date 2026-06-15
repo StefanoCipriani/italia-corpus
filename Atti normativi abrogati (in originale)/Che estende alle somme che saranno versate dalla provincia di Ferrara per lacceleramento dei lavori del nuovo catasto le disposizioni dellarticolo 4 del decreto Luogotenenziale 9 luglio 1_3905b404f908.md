@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Alle somme che saranno versate dalla provincia di Ferrara per l'acceleramento dei lavori di formazione del nuovo catasto, a norma delle [leggi 1° marzo 1886, n. 3682, e 21 gennaio 1897, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-01-21;23), sono applicabili le disposizioni dell'[art. 4 del decreto Luogotenenziale 9 luglio 1916, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-07-09;843#art_4). 
+ Alle somme che saranno versate dalla provincia di Ferrara per l'acceleramento dei lavori di formazione del nuovo catasto, a norma delle [leggi 1° marzo 1886, n. 3682, e 21 gennaio 1897, n. 23](Che%20sostituisce%20con%20altri%20alcuni%20articoli%20di%20quella%20in%20data%201%20marzo%201886%20n.%203682%20concernente%20il%20riordinamento%20dellimposta%20fondiaria.%20097U0023.md), sono applicabili le disposizioni dell'[art. 4 del decreto Luogotenenziale 9 luglio 1916, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-07-09;843#art_4). 
  
  Questo decreto sara' presentato al Parlamento per la conversione in legge. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto, il [decreto legislativo luogotenenziale 8 maggio 1946, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;340), col quale il Ministero dell'agricoltura e delle foreste e' stato autorizzato ad emanare, di concerto con l'Alto Commissariato per l'alimentazione, le nuove norme per la disciplina di vincolo e di conferimento ai "Granai del popolo" dei cereali di produzione 1946;
+Visto, il [decreto legislativo luogotenenziale 8 maggio 1946, n. 340](../Decreti%20legislativi%20luogotenenziali/Abrogazione%20del%20decreto%20legislativo%20Luogotenenziale%205%20ottobre%201945%20n.%20721%20contenente%20norme%20per%20il%20conferimento%20di%20alcuni%20prodotti%20agricoli.md), col quale il Ministero dell'agricoltura e delle foreste e' stato autorizzato ad emanare, di concerto con l'Alto Commissariato per l'alimentazione, le nuove norme per la disciplina di vincolo e di conferimento ai "Granai del popolo" dei cereali di produzione 1946;
 
 Viste le determinazioni del Comitato interministeriale dei prezzi in data 25 settembre 1946;
 

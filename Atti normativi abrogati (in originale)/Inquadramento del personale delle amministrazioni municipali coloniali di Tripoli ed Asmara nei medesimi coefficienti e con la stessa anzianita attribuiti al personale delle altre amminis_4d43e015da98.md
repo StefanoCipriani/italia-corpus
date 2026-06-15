@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-All'[articolo 49 del decreto del Presidente della Repubblica 21 settembre 1961, n. 1224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-09-21;1224#art_49), e' aggiunto il seguente comma:
+All'[articolo 49 del decreto del Presidente della Repubblica 21 settembre 1961, n. 1224](../DPR/Stato%20giuridico%20del%20personale%20iscritto%20nei%20quadri%20speciali%20di%20cui%20al%20decreto%20presidenziale%2030%20novembre%201954%20n.%201451%20personale%20municipalizzato%20ex%20coloniale.md), e' aggiunto il seguente comma:
  "Il personale gia' dipendente delle amministrazioni municipali di Tripoli ed Asmara - i cui regolamenti organici prevedevano sviluppi di carriera meno favorevoli di quelli stabiliti dal [decreto del Presidente del Consiglio dei Ministri 16 giugno 1955, n. 802](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1955-06-16;802), per i dipendenti delle amministrazioni municipali coloniali delle quali non fu possibile reperire i rispettivi regolamenti organici o i cui regolamenti reperiti non furono riconosciuti autentici e validi - sara' inquadrato nel medesimo coefficiente spettante in applicazione delle disposizioni di cui al presente decreto, a tali ultimi dipendenti di pari anzianita' e qualifica".
 
 ## Art. 2.

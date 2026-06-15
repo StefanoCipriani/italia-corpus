@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 aprile 1926, n. 595](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-06;595), che concede la franchigia doganale per i residui degli oli minerali destinati ad essere usati per la distribuzione di larve di zanzare malarigene. 
+ E' convertito in legge il [R. decreto-legge 6 aprile 1926, n. 595](Franchigia%20doganale%20per%20i%20residui%20della%20distillazione%20di%20oli%20minerali%20destinati%20ad%20essere%20usati%20per%20la%20distruzione%20di%20larve%20di%20zanzare%20malarigene.%20026U0595.md), che concede la franchigia doganale per i residui degli oli minerali destinati ad essere usati per la distribuzione di larve di zanzare malarigene. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

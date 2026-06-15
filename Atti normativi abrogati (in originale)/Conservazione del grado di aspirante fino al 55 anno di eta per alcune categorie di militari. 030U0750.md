@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli aspiranti medici che non abbiano potuto conseguire la nomina a sottotenente medico di complemento, in base alle disposizioni del [R. decreto-legge 3 giugno 1924, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-06-03;1216), convertito nella [legge 24 dicembre 1925, n. 2301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2301), conserveranno il grado di aspirante fino al 31 dicembre dell'anno in cui compiranno il 55° anno di eta', salvo i casi di riconosciuta inabilita' fisica al servizio militare.
+Gli aspiranti medici che non abbiano potuto conseguire la nomina a sottotenente medico di complemento, in base alle disposizioni del [R. decreto-legge 3 giugno 1924, n. 1216](Nomina%20a%20sottotenente%20medico%20di%20complemento%20degli%20aspiranti%20medici%20laureati%20in%20medicina%20e%20chirurgia.%20024U1216.md), convertito nella [legge 24 dicembre 1925, n. 2301](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U2301.md), conserveranno il grado di aspirante fino al 31 dicembre dell'anno in cui compiranno il 55° anno di eta', salvo i casi di riconosciuta inabilita' fisica al servizio militare.
 
 ## Art. 2.
 

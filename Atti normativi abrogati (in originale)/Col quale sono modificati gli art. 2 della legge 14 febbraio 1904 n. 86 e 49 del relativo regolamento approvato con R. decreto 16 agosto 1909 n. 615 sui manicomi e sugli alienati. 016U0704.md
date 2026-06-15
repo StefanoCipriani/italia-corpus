@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduta la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), con la quale sono stati conferiti al Governo del Re poteri straordinari durante la guerra; 
+ Veduta la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), con la quale sono stati conferiti al Governo del Re poteri straordinari durante la guerra; 
  
  Ritenuto che, per assicurare la maggiore esattezza del giudizio psichiatrico dei militari presunti alienati, sia opportuno estendere da uno a tre mesi il periodo di osservazione dei militari stessi nei manicomi; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato a decretiamo: 
  
- Per la durata della guerra, il periodo massimo di osservazione previsto dagli [articoli 2 della legge 14 febbraio 1904, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-02-14;36#art_2), e 49 del regolamento relativo 16 agosto 1909, n. 615, e' protratto sino a tre mesi pei militari presunti alienati in osservazione nei manicomi. 
+ Per la durata della guerra, il periodo massimo di osservazione previsto dagli [articoli 2 della legge 14 febbraio 1904, n. 36](Riguardante%20disposizioni%20sui%20manicomi%20e%20sugli%20alienati.%20004U0036.md), e 49 del regolamento relativo 16 agosto 1909, n. 615, e' protratto sino a tre mesi pei militari presunti alienati in osservazione nei manicomi. 
  
  Il presente decreto avra' effetto dal giorno della sua pubblicazione. 
  

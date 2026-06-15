@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il regolamento delle spese da farsi in economia per i servizi del Ministero della pubblica istruzione, approvato con [decreto del Presidente della Repubblica 18 luglio 1972, n. 555](Regolamento%20delle%20spese%20da%20farsi%20in%20economia%20per%20i%20servizi%20dellamministrazione%20centrale%20del%20Ministero%20della%20pubblica%20istruzione.md), modificato con [decreto del Presidente della Repubblica 16 novembre 1983, n. 901](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-11-16;901);
+Visto il regolamento delle spese da farsi in economia per i servizi del Ministero della pubblica istruzione, approvato con [decreto del Presidente della Repubblica 18 luglio 1972, n. 555](Regolamento%20delle%20spese%20da%20farsi%20in%20economia%20per%20i%20servizi%20dellamministrazione%20centrale%20del%20Ministero%20della%20pubblica%20istruzione.md), modificato con [decreto del Presidente della Repubblica 16 novembre 1983, n. 901](../DPR/Modificazione%20allart.%202%20del%20decreto%20del%20Presidente%20della%20Repubblica%2018%20luglio%201972%20n.%20555%20concernente%20il%20regolamento%20delle%20spese%20da%20farsi%20in%20economia%20per%20i%20servizi%20del%20Ministero%20della%20pub_e49e1ac870c6.md);
 
 Considerata la necessita' di adottare nuove norme regolamentari al fine di renderle rispondenti alle attuali esigenze degli uffici centrali e periferici del Ministero della pubblica istruzione;
 

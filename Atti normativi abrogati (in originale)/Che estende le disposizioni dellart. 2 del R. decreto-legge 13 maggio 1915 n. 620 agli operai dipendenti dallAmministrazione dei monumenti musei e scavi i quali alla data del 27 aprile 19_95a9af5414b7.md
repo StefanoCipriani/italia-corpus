@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le disposizioni dell'[art. 2 del R. decreto-legge 13 maggio 1915, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1915-05-13;620#art_2), modificato col [decreto Luogotenenziale 11 luglio 1915, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1064), per quanto riguarda le retribuzioni agli impiegati avventizi dello Stato richiamati alle armi, sono estese agli operai dipendenti dall'Amministrazione dei monumenti, musei e scavi, i quali alla data del 27 aprile 1915 si trovavano a prestare diuturnamente ininterrotto servizio presso l'Amministrazione medesima.
+Le disposizioni dell'[art. 2 del R. decreto-legge 13 maggio 1915, n. 620](Riguardante%20provvedimenti%20a%20favore%20dei%20militari%20trattenuti%20o%20richiamati%20alle%20armi.%20015U0620.md), modificato col [decreto Luogotenenziale 11 luglio 1915, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1064), per quanto riguarda le retribuzioni agli impiegati avventizi dello Stato richiamati alle armi, sono estese agli operai dipendenti dall'Amministrazione dei monumenti, musei e scavi, i quali alla data del 27 aprile 1915 si trovavano a prestare diuturnamente ininterrotto servizio presso l'Amministrazione medesima.
 
 ## Art. 2.
 

@@ -10,11 +10,11 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto l'[art. 27 della Legge del 20 aprile 1871, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1871-04-20;192#art_27);
+Visto l'[art. 27 della Legge del 20 aprile 1871, n. 192](Concernente%20la%20riscossione%20delle%20imposte%20dirette.%20071U0192.md);
 
 Visto il [Decreto Ministeriale del 16 gennaio 1873, n. 1258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1873-01-16;1258), che dichiara quali siano i titoli del Debito Pubblico, le cui cedole scadute debbano riceversi in pagamento delle imposte dirette;
 
-Visto l'[art. 37 della Legge 10 luglio 1861, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1861-07-10;94#art_37), sul Debito Pubblico, che dichiara prescritte le rate semestrali non reclamate per il corso di cinque anni continui dalla scadenza dei pagamenti;
+Visto l'[art. 37 della Legge 10 luglio 1861, n. 94](Colla%20quale%20e%20istituito%20il%20Gran%20Libro%20del%20Debito%20pubblico%20del%20Regno%20dItalia.%20061U0094.md), sul Debito Pubblico, che dichiara prescritte le rate semestrali non reclamate per il corso di cinque anni continui dalla scadenza dei pagamenti;
 
 Ad evitare ogni controversia nel caso di presentazione di cedola prossima a prescrizione; Determina quanto segue:
 

@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a noi delegata;
 
-Vista la [legge 8 giugno 1913, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;571);
+Vista la [legge 8 giugno 1913, n. 571](Che%20autorizza%20il%20Governo%20del%20Re%20ad%20affittare%20sotto%20determinate%20condizioni%20a%20trattativa%20privata%20al%20comune%20di%20Taranto%20i%20diritti%20esclusivi%20di%20pesca%20nelle%20zone%20del%20Mar%20Piccolo.%20013U0571.md);
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per l'interno, presidente del Co
 
 ## Articolo unico.
 
-Al comma g) dell'art. 1 dell'anzidetta [legge 8 giugno 1913, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;571), e' sostituito il seguente: 
+Al comma g) dell'art. 1 dell'anzidetta [legge 8 giugno 1913, n. 571](Che%20autorizza%20il%20Governo%20del%20Re%20ad%20affittare%20sotto%20determinate%20condizioni%20a%20trattativa%20privata%20al%20comune%20di%20Taranto%20i%20diritti%20esclusivi%20di%20pesca%20nelle%20zone%20del%20Mar%20Piccolo.%20013U0571.md), e' sostituito il seguente: 
  
  «g) che gli utili derivanti al Comune dalla presente legge, siano, per un quindicennio a partire dal 10 settembre 1919, destinati ad opere di miglioramento igienico ed edilizio della citta'». 
  

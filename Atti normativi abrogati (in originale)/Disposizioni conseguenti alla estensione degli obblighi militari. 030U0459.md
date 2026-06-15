@@ -54,7 +54,7 @@ Il 1° comma dell'art. 3 della legge suddetta e' sostituito dal seguente:
 
 ## Art. 3.
 
-Il [n. 2 dell'art. 21 del R. decreto 21 marzo 1929, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-21;629#art_21-num2), e sostituito dal seguente: 
+Il [n. 2 dell'art. 21 del R. decreto 21 marzo 1929, n. 629](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), e sostituito dal seguente: 
  
  «2° aver compiuto il 18° anno di eta' e non superato il 40°. 
  Pero' il limite superiore e' portato a 55 anni per il conferimento della nomina predetta ai sottufficiali e militari che abbiano prestato servizio in reparti operanti o comandi mobilitati dal 24 maggio 1915 al 4 novembre 1918».

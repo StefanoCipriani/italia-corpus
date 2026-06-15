@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 31 luglio 1956, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-31;917), sui Servizi tecnici di artiglieria e della motorizzazione;
+Vista la [legge 31 luglio 1956, n. 917](Servizi%20tecnici%20di%20artiglieria%20e%20della%20motorizzazione.md), sui Servizi tecnici di artiglieria e della motorizzazione;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-La valutazione dei titoli per la formazione delle graduatorie di ammissione al corso superiore tecnico di artiglieria, al corso di specializzazione elettronica, al corso superiore di specializzazione ottica e al corso superiore tecnico della motorizzazione, di cui al [secondo comma degli articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-31;917#art_2-com2) e [3 della legge 31 luglio 1956, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-31;917#art_3), e' effettuata da apposite Commissioni nominate dal Ministro per la difesa, e composte, per ciascun Servizio tecnico da:
+La valutazione dei titoli per la formazione delle graduatorie di ammissione al corso superiore tecnico di artiglieria, al corso di specializzazione elettronica, al corso superiore di specializzazione ottica e al corso superiore tecnico della motorizzazione, di cui al [secondo comma degli articoli 2](Servizi%20tecnici%20di%20artiglieria%20e%20della%20motorizzazione.md) e [3 della legge 31 luglio 1956, n. 917](Servizi%20tecnici%20di%20artiglieria%20e%20della%20motorizzazione.md), e' effettuata da apposite Commissioni nominate dal Ministro per la difesa, e composte, per ciascun Servizio tecnico da:
  il tenente generale capo del Servizio, presidente;
  un maggiore generale, due colonnelli o tenenti colonnelli del Servizio stesso, membri;
  un funzionario della carriera direttiva, con qualilica non superiore a direttore di sezione, segretario senza diritto a voto.
@@ -33,7 +33,7 @@ La valutazione dei titoli per la formazione delle graduatorie di ammissione al c
 
 I titoli da valutare, che, salvo quello relativo allo esame di ammissione, devono essere posseduti alla data di scadenza del termine di presentazione delle domande, sono i seguenti:
  a) voto della laurea specifica o, per gli ufficiali non muniti di laurea, voto dell'esame di ammissione di cui al successivo art. 3;
- b) titoli accademici o tecnici, militari e civili, salvo l'eccezione di cui all'[art. 8 della legge 31 luglio 1956, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-31;917#art_8);
+ b) titoli accademici o tecnici, militari e civili, salvo l'eccezione di cui all'[art. 8 della legge 31 luglio 1956, n. 917](Servizi%20tecnici%20di%20artiglieria%20e%20della%20motorizzazione.md);
  c) qualita' morali e militari ivi comprese le benemerenze di guerra.
  La valutazione avviene:
  per il titolo di cui alla lettera a), con l'attribuzione, da parte della Commissione, dello stesso voto di esame di ammissione o del voto di laurea ridotto in trentesimi;
@@ -44,7 +44,7 @@ I titoli da valutare, che, salvo quello relativo allo esame di ammissione, devon
 
 ## Art. 3.
 
-L'esame di ammissione ai corsi previsto per gli ufficiali non muniti di laurea dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-31;917#art_2) e [3 della legge 31 luglio 1956, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-31;917#art_3), ed avente lo scopo di accertare nei concorrenti la preparazione necessaria a seguire con profitto i corsi stessi, consiste, per ciascun corso nelle seguenti prove:
+L'esame di ammissione ai corsi previsto per gli ufficiali non muniti di laurea dagli [articoli 2](Servizi%20tecnici%20di%20artiglieria%20e%20della%20motorizzazione.md) e [3 della legge 31 luglio 1956, n. 917](Servizi%20tecnici%20di%20artiglieria%20e%20della%20motorizzazione.md), ed avente lo scopo di accertare nei concorrenti la preparazione necessaria a seguire con profitto i corsi stessi, consiste, per ciascun corso nelle seguenti prove:
  a) Corso superiore tecnico di artiglieria:
  una prova scritta di meccanica razionale;
  una prova orale per ciascuna delle seguenti quattro materie:
@@ -79,7 +79,7 @@ L'esame di ammissione ai corsi previsto per gli ufficiali non muniti di laurea d
 
 ## Art. 4.
 
-Il concorso per titoli ed esami, previsto dall'[art. 5 della legge 31 luglio 1956, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-31;917#art_5), per l'ammissione di ufficiali subalterni di complemento dell'Esercito ad uno dei corsi indicati dal secondo comma degli articoli 2 e 3 della stessa legge, viene espletato da apposite Commissioni costituite, per il Servizio tecnico di artiglieria e per il Servizio tecnico della motorizzazione, come segue:
+Il concorso per titoli ed esami, previsto dall'[art. 5 della legge 31 luglio 1956, n. 917](Servizi%20tecnici%20di%20artiglieria%20e%20della%20motorizzazione.md), per l'ammissione di ufficiali subalterni di complemento dell'Esercito ad uno dei corsi indicati dal secondo comma degli articoli 2 e 3 della stessa legge, viene espletato da apposite Commissioni costituite, per il Servizio tecnico di artiglieria e per il Servizio tecnico della motorizzazione, come segue:
  per la valutazione dei titoli, secondo le norme di cui al precedente art. 1;
  per le prove di esame, secondo le norme di cui allo ultimo comma del precedente art. 3.
  I titoli da valutare sono quelli indicati, per i concorrenti muniti di laurea, nell'art. 2 del presente decreto e la valutazione avviene con le modalita' di cui al secondo comma dello stesso art. 2.
@@ -152,7 +152,7 @@ Il punteggio finale degli ufficiali che, ai sensi dell'articolo precedente, sian
 
 ## Art. 16.
 
-I corsi per il trasferimento nei Servizi tecnici di artiglieria e della motorizzazione dei capitani in servizio permanente che si trovano nelle condizioni di cui al [primo comma degli articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-31;917#art_2-com1) e [3 della legge 31 luglio 1956, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-31;917#art_3), sono indetti con decreto del Ministro per la difesa.
+I corsi per il trasferimento nei Servizi tecnici di artiglieria e della motorizzazione dei capitani in servizio permanente che si trovano nelle condizioni di cui al [primo comma degli articoli 2](Servizi%20tecnici%20di%20artiglieria%20e%20della%20motorizzazione.md) e [3 della legge 31 luglio 1956, n. 917](Servizi%20tecnici%20di%20artiglieria%20e%20della%20motorizzazione.md), sono indetti con decreto del Ministro per la difesa.
  Il numero dei posti da mettere a concorso per ogni Servizio tecnico e' stabilito in base alle vacanze esistenti nell'organico complessivo dei capitani, maggiori e tenenti colonnelli del rispettivo Servizio.
  Le domande dei concorrenti vengono esaminate, per ciascun Servizio tecnico, da apposita Commissione nominata dal Ministro per la difesa.
 La Commissione per il Servizio tecnico di artiglieria e' costituita
@@ -164,11 +164,11 @@ dal generale ispettore dell'Arma di artiglieria, dai tenente generale capo del S
 Le Commissioni di cui al penultimo ed ultimo comma del precedente art. 16 procedono, per ciascun concorrente, all'accertamento del risultato conseguito al termine dei corsi.
  Le graduatorie dei vincitori del concorso per il trasferimento dei capitani in servizio permanente nel Servizio tecnico di artiglieria o nel Servizio tecnico della motorizzazione sono compilate ordinando gli ufficiali secondo il punteggio finale conseguito nel rispettivo corso di cui agli articoli 5, 6, 7 e 8 del presente decreto, e scegliendo i primi classificati nel numero corrispondente a quello dei posti messi a concorso.
  A parita' di punteggio finale, anche tra ufficiali che abbiano frequentato lo stesso corso in epoche diverse, e' data la precedenza, nell'ordine, all'ufficiale avente maggiore anzianita' di grado, all'ufficiale che abbia partecipato a precedenti analoghi concorsi ed all'ufficiale che abbia riportato il miglior punteggio nella graduatoria di ammissione al corso di cui all'ultimo comma dell'art. 2 del presente decreto.
- I vincitori del concorso sono trasferiti nel relativo Servizio tecnico, con le modalita' di cui all'[art. 4 della legge 31 luglio 1956, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-31;917#art_4), dalla data del decreto con il quale il Ministro per la difesa approva la graduatoria del concorso.
+ I vincitori del concorso sono trasferiti nel relativo Servizio tecnico, con le modalita' di cui all'[art. 4 della legge 31 luglio 1956, n. 917](Servizi%20tecnici%20di%20artiglieria%20e%20della%20motorizzazione.md), dalla data del decreto con il quale il Ministro per la difesa approva la graduatoria del concorso.
 
 ### Art. 18.
 
-I capitani in servizio permanente che siano raggiunti, durante la frequenza dei corsi, dal turno di valutazione e non siano ancora in possesso delle condizioni prescritte dall'[art. 38 della legge 12 novembre 1955, numero 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137#art_38), possono completare il corso. Nei confronti di coloro che al termine del corso stesso siano dichiarati non idonei, o che nella graduatoria del concorso per il trasferimento nei Servizi tecnici non risultino fra i vincitori, si applicano le norme di cui all'art. 52 della predetta [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137). La determinazione del Ministro di cui al primo comma del medesimo art. 52 e' adottata su proposta del capo del Servizio tecnico di artiglieria o del capo del Servizio tecnico della motorizzazione.
+I capitani in servizio permanente che siano raggiunti, durante la frequenza dei corsi, dal turno di valutazione e non siano ancora in possesso delle condizioni prescritte dall'[art. 38 della legge 12 novembre 1955, numero 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), possono completare il corso. Nei confronti di coloro che al termine del corso stesso siano dichiarati non idonei, o che nella graduatoria del concorso per il trasferimento nei Servizi tecnici non risultino fra i vincitori, si applicano le norme di cui all'art. 52 della predetta [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md). La determinazione del Ministro di cui al primo comma del medesimo art. 52 e' adottata su proposta del capo del Servizio tecnico di artiglieria o del capo del Servizio tecnico della motorizzazione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della. Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

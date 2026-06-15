@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1400), che modifica gli articoli 1, 5 e 19 delle disposizioni sulle tare per l'applicazione dei dazi doganali. 
+ E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1400](Modificazione%20degli%20articoli%201%205%20e%2019%20delle%20disposizioni%20sulle%20tare%20per%20lapplicazione%20dei%20dazi%20doganali.%20033U1400.md), che modifica gli articoli 1, 5 e 19 delle disposizioni sulle tare per l'applicazione dei dazi doganali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -34,7 +34,7 @@ L'integrazione di cui all'[articolo 100 della legge 13 maggio 1961, n. 469](http
 
 ## Art. 4.
 
-All'onere derivante dall'applicazione della presente legge per il corrente esercizio 1962-63, previsto in lire 880 milioni, si fara' fronte con una corrispondente aliquota del maggior provento derivante dal [decreto del Presidente della Repubblica 22 novembre 1962, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-11-22;1592).
+All'onere derivante dall'applicazione della presente legge per il corrente esercizio 1962-63, previsto in lire 880 milioni, si fara' fronte con una corrispondente aliquota del maggior provento derivante dal [decreto del Presidente della Repubblica 22 novembre 1962, n. 1592](../DPR/Sostituzione%20della%20tabella%20E%20annessa%20al%20decreto%20del%20Presidente%20della%20Repubblica%2015%20dicembre%201960%20n.%201545%20concernente%20la%20tariffa%20di%20vendita%20al%20pubblico%20dei%20tabacchi.md).
  Il Ministro per il tesoro e' autorizzato ad apportare, con proprio decreto, le occorrenti variazioni di bilancio.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 marzo 1934, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-15;463), recante la revisione della [legge 22 maggio 1913, numero 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), sull'esercizio delle farmacie. 
+ E' convertito in legge il [R. decreto-legge 15 marzo 1934, n. 463](Revisione%20della%20legge%2022%20maggio%201913%20n.%20468%20sullesercizio%20delle%20farmacie.%20034U0463.md), recante la revisione della [legge 22 maggio 1913, numero 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), sull'esercizio delle farmacie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [decreto legislativo Luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722), recante provvedimenti economici a favore dei dipendenti statali;
+Visto il [decreto legislativo Luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), recante provvedimenti economici a favore dei dipendenti statali;
 
 Visto il [decreto legislativo Luogotenenziale 11 gennaio 1946, n. 18](Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), riguardante la concessione di indennita', di prima sistemazione e di una indennita' giornaliera al personale statale in servizio nei centri distrutti, semidistrutti o danneggiati;
 

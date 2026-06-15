@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 16 dicembre 1914, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1354); 
+ Vista la [legge 16 dicembre 1914, n. 1354](Per%20la%20proroga%20dellesercizio%20provvisorio%20dei%20bilanci%20e%20provvedimenti%20finanziari.%20014U1354.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- Per quanto concerne gli atti relativi all'acquisto del terreno, alla costruzione e all'arredamento della sede della R. Legazione d'Italia a Durazzo, e' data facolta' al R. Governo di derogare dalle norme sancite in materia di contabilita' e di opere pubbliche, nonche' dalla [legge 26 luglio 1888, n. 5594](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-26;5594) (serie 3ª). 
+ Per quanto concerne gli atti relativi all'acquisto del terreno, alla costruzione e all'arredamento della sede della R. Legazione d'Italia a Durazzo, e' data facolta' al R. Governo di derogare dalle norme sancite in materia di contabilita' e di opere pubbliche, nonche' dalla [legge 26 luglio 1888, n. 5594](Che%20stabilisce%20le%20norme%20per%20larredamento%20dei%20palazzi%20demaniali%20allestero%20sedi%20di%20missioni%20di%20S.%20M.%20il%20Re%20dItalia.%20088U5594.md) (serie 3ª). 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

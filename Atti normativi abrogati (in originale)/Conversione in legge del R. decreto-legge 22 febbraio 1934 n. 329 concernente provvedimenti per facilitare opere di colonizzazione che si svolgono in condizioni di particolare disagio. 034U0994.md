@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 febbraio 1934, n. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-02-22;329), concernente provvedimenti per facilitare opere di colonizzazione che si svolgono in condizioni di particolare disagio. 
+ E' convertito in legge il [R. decreto-legge 22 febbraio 1934, n. 329](Provvedimenti%20per%20facilitare%20opere%20di%20colonizzazione%20che%20si%20svolgono%20in%20condizioni%20di%20particolare%20disagio.%20034U0329.md), concernente provvedimenti per facilitare opere di colonizzazione che si svolgono in condizioni di particolare disagio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

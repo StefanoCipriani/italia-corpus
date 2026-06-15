@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-27;2257), riflettente l'aumento del contingente di budella salate di provenienza dalle Colonie italiane da importare nel Regno con trattamento di favore. 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2257](Aumento%20del%20contingente%20di%20budella%20salate%20di%20provenienza%20dalle%20Colonie%20italiane%20da%20importare%20nel%20Regno%20con%20trattamento%20di%20favore.%20027U2257.md), riflettente l'aumento del contingente di budella salate di provenienza dalle Colonie italiane da importare nel Regno con trattamento di favore. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

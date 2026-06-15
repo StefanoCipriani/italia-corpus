@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 maggio 1927, n. 851](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-22;851), concernente il computo del servizio provvisorio prestato per l'insegnamento in italiano in scuole elementari alloglotte delle nuove Provincie. 
+ E' convertito in legge il [R. decreto-legge 22 maggio 1927, n. 851](Computo%20del%20servizio%20provvisorio%20prestato%20per%20linsegnamento%20in%20italiano%20in%20scuole%20elementari%20alloglotte%20delle%20nuove%20Provincie.%20027U0851.md), concernente il computo del servizio provvisorio prestato per l'insegnamento in italiano in scuole elementari alloglotte delle nuove Provincie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

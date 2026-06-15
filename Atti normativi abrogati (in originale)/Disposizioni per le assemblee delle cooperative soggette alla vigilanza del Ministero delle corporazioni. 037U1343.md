@@ -42,7 +42,7 @@ Le norme statutarie indicate nell'articolo precedente non possono essere sottopo
 
 ## Art. 3.
 
-Le disposizioni del presente decreto si applicano soltanto alle societa' cooperative soggette, ai sensi dei [Regi decreti-legge 30 dicembre 1926, n. 2288](Vigilanza%20sul%20funzionamento%20delle%20societa%20cooperative%20ed%20istituzione%20dellEnte%20nazionale%20per%20la%20cooperazione.%20026U2288.md), ed [11 dicembre 1930, n. 1882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-11;1882), convertiti rispettivamente nelle [leggi 15 dicembre 1927, n. 2499, e 4 giugno 1931, n. 998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-04;998), alla vigilanza del Ministero delle corporazioni.
+Le disposizioni del presente decreto si applicano soltanto alle societa' cooperative soggette, ai sensi dei [Regi decreti-legge 30 dicembre 1926, n. 2288](Vigilanza%20sul%20funzionamento%20delle%20societa%20cooperative%20ed%20istituzione%20dellEnte%20nazionale%20per%20la%20cooperazione.%20026U2288.md), ed [11 dicembre 1930, n. 1882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-11;1882), convertiti rispettivamente nelle [leggi 15 dicembre 1927, n. 2499, e 4 giugno 1931, n. 998](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20dicembre%201930%20n.%201882%20contenente%20norme%20dirette%20a%20rendere%20piu%20efficiente%20la%20vigilanza%20governativa%20sulle%20societa%20cooperative.%20031U0998.md), alla vigilanza del Ministero delle corporazioni.
 
 ## Art. 4.
 

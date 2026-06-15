@@ -12,13 +12,13 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98), Vista la deliberazione del Consiglio dei Ministri;
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md), Vista la deliberazione del Consiglio dei Ministri;
 
 Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con i Ministri per l'interno, per il tesoro, per la grazia e giustizia, per le finanze, per i lavori pubblici, per l'agricoltura e foreste, per i trasporti, per l'industria, e commercio e per la marina mercantile; HA SANZIONATO E PROMULGA:
 
 ### Art. 1.
 
-Agli operai e impiegati con rapporto di lavoro gia' assoggettabile alla disciplina del contratto collettivo ai sensi della [legge 3 aprile 1926, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-04-03;563), e successive modifiche e integrazioni, che risultano in servizio alla data del 26 luglio 1946 o che si trovino nelle condizioni previste dal successivo art. 13, spetta a titolo di premio della Repubblica per una volta tanto una gratifica di L. 3000 per gli uomini e le donne capo famiglia e di L. 1500 per quelli non aventi la qualifica predetta.
+Agli operai e impiegati con rapporto di lavoro gia' assoggettabile alla disciplina del contratto collettivo ai sensi della [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e successive modifiche e integrazioni, che risultano in servizio alla data del 26 luglio 1946 o che si trovino nelle condizioni previste dal successivo art. 13, spetta a titolo di premio della Repubblica per una volta tanto una gratifica di L. 3000 per gli uomini e le donne capo famiglia e di L. 1500 per quelli non aventi la qualifica predetta.
  Il premio non compete:
  a) ai lavoratori che hanno una retribuzione complessiva media mensile superiore a L. 25.000 lorde fatta esclusione delle prestazioni, compensi e indennita' previsti alla [lettera b) dell'art. 1 dei decreto luogotenenziale 1° agosto 1945, n. 692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-01;692#art_1-letb);
  b) ai lavoratori a domicilio che non abbiano un rapporto continuativo di lavoro;
@@ -99,7 +99,7 @@ La corresponsione del premio ai lavoratori di cui alla lettera b) dell'articolo 
 
 L'onere per la corresponsione del premio della Repubblica ai lavoratori agricoli di cui alla lettera b) dell'art. 12 e' sostenuto in parte dai datori di lavoro dell'agricoltura, mediante la corresponsione di un apposito contributo nella misura prevista dal comma seguente, in parte dallo Stato mediante il concorso per il pagamento del premio della Repubblica ai lavoratori disoccupati, previsto dal successivo art. 23.
  Il contributo che ciascun datore di lavoro dell'agricoltura e' tenuto a corrispondere, si determina applicando una quota di L. 12,50 per ogni giornata di lavoro, di salariati e braccianti accertata nei suoi confronti agli effetti del pagamento dei contributi agricoli unificati per l'anno 1946 e detraendo dalla somma risultante l'importo complessivo dei premi pagati direttamente dallo stesso datore di lavoro a norma dell'art. 12, lettera a) ai lavoratori a rapporto fisso addetti alle colture agrarie o al bestiame.
- All'uopo i datori di lavoro sono tenuti a presentare alle sedi provinciali del Servizio per gli elenchi nominativi dei lavoratori e per i contribuiti unificati in agricoltura, entro il 30 novembre 1946, l'elenco dei lavoratori a rapporto fisso ai quali hanno direttamente corrisposto il premio della Repubblica con le firme di quietanza dei lavoratori stessi vistato dalla Commissione comunale di cui al [decreto legislativo luogotenenziale 8 febbraio 1945, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-08;75).
+ All'uopo i datori di lavoro sono tenuti a presentare alle sedi provinciali del Servizio per gli elenchi nominativi dei lavoratori e per i contribuiti unificati in agricoltura, entro il 30 novembre 1946, l'elenco dei lavoratori a rapporto fisso ai quali hanno direttamente corrisposto il premio della Repubblica con le firme di quietanza dei lavoratori stessi vistato dalla Commissione comunale di cui al [decreto legislativo luogotenenziale 8 febbraio 1945, n. 75](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20una%20Commissione%20centrale%20e%20di%20Commissioni%20comunali%20per%20il%20servizio%20di%20compilazione%20degli%20elenchi%20nominativi%20dei%20lavoratori%20agricoli%20e%20per%20laccertamento%20e%20riscossione%20dei%20co_f1ac89f9c6b7.md).
  Per i lavoratori capi famiglia dovra' essere allegato il certificato di stato di famiglia.
  Il contributo di cui al secondo comma non sia applica sulle giornate di lavoro di salariati e braccianti accertate nei confronti delle aziende di coltivatori diretti e dei fondi condotti a mezzadria e colonia parziaria per lavori stagionali o di punta.
 
@@ -110,7 +110,7 @@ Le sedi provinciali del Servizio per gli elenchi nominativi dei lavoratori e per
 
 ### Art. 16.
 
-Nei confronti dei datori di lavoro che non versano il contributo nel termine stabilito dal precedente articolo la riscossione delle somma dovute, gravate dalla multa di mora del 6% sara' effettuata a mezzo ruoli dagli esattori delle imposte dirette con la procedura privilegiata stabilita per la esazione delle imposte medesime, con l'obbligo del non riscosso per riscosso e con le modalita' e norme previste dal [regio decreto-legge 28 novembre 1938, n. 2138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;2138), e dai [regi decreti 24 settembre 1940 nn. 1949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-24;1949) e [1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-24;1954).
+Nei confronti dei datori di lavoro che non versano il contributo nel termine stabilito dal precedente articolo la riscossione delle somma dovute, gravate dalla multa di mora del 6% sara' effettuata a mezzo ruoli dagli esattori delle imposte dirette con la procedura privilegiata stabilita per la esazione delle imposte medesime, con l'obbligo del non riscosso per riscosso e con le modalita' e norme previste dal [regio decreto-legge 28 novembre 1938, n. 2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md), e dai [regi decreti 24 settembre 1940 nn. 1949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-24;1949) e [1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-24;1954).
  Le somme iscritte a ruolo saranno riscosse in tre rate bimestrali uguali.
 
 ### Art. 17.
@@ -126,7 +126,7 @@ Le somme riscosse a titolo di contributo o di multa di mora sono attribuite con 
 ### Art. 19.
 
 Il premio della Repubblica e' corrisposto direttamente e a proprio carico ai lavoratori dipendenti:
- a) dagli enti pubblici e dalle aziende municipalizzate nel caso di rapporti di lavoro gia' disciplinabili con contratto collettivo ai sensi della [legge 3 aprile 1926, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-04-03;563), e successive modifiche ed integrazioni;
+ a) dagli enti pubblici e dalle aziende municipalizzate nel caso di rapporti di lavoro gia' disciplinabili con contratto collettivo ai sensi della [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e successive modifiche ed integrazioni;
  b) dalle aziende armatoriali;
  c) dalle aziende facenti parte dei settori del commercio, del credito, dell' assicurazione, dei servizi tributari appaltati e delle professioni e arti della Cassa unica degli assegni familiari;
  d) dalle aziende agricole limitatamente al personale occupato in attivita' agrarie o in lavorazioni connesse supplementari, od accessorie, per le quali non si applica la procedura stabilita per il versamento dei con tributi unificati;
@@ -149,7 +149,7 @@ Il premio della Repubblica compete anche al lavoratori che alla data del 26 lugl
 
 ### Art. 22.
 
-Agli operai di cui al comma 1 dell' art. 1 che alla data del 26 luglio 1946 risultino richiamati alle armi ed ai quali il premio della Repubblica e' stato corrisposto nella misura di L. 1500 dalla Amministrazione militare, compete allo stesso titolo, una integrazione di L. 1500 qualora essi beneficino degli assegni familiari ai sensi del [regio decreto-legge 26 ottobre 1940, n. 1495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-10-26;1495), e successive modifiche.
+Agli operai di cui al comma 1 dell' art. 1 che alla data del 26 luglio 1946 risultino richiamati alle armi ed ai quali il premio della Repubblica e' stato corrisposto nella misura di L. 1500 dalla Amministrazione militare, compete allo stesso titolo, una integrazione di L. 1500 qualora essi beneficino degli assegni familiari ai sensi del [regio decreto-legge 26 ottobre 1940, n. 1495](Corresponsione%20degli%20assegni%20familiari%20agli%20operai%20richiamati%20alle%20armi%20per%20esigenze%20di%20carattere%20eccezionale.%20040U1495.md), e successive modifiche.
 
 ### Art. 23.
 
@@ -195,16 +195,16 @@ Lo Stato anticipera' all'Istituto nazionale della previdenza sociale i fondi nec
 
 ### Art. 30.
 
-Si osservano per i contributi, per i pagamenti, per i rimborsi ai datori di lavoro previsti dal presente decreto, sempre che siano applicabili, le norme del [regio decreto legge 17 giugno 1937, n. 1048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-17;1048), convertito, con modificazioni, nella [legge 25 ottobre 1938, n. 2233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-10-25;2233), sul perfezionamento e la generalizzazione degli assegni familiari ai prestatori d' opera, nonche' tutte le successive disposizioni in materia di assegni familiari, com prese quelle sui benefici, i privilegi e le esenzioni fiscali.
+Si osservano per i contributi, per i pagamenti, per i rimborsi ai datori di lavoro previsti dal presente decreto, sempre che siano applicabili, le norme del [regio decreto legge 17 giugno 1937, n. 1048](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md), convertito, con modificazioni, nella [legge 25 ottobre 1938, n. 2233](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20contenente%20disposizioni%20per%20il%20perfezionamento%20e%20la%20generalizzazione%20degli%20assegni%20familiari%20ai%20prest_b75c670e8a1f.md), sul perfezionamento e la generalizzazione degli assegni familiari ai prestatori d' opera, nonche' tutte le successive disposizioni in materia di assegni familiari, com prese quelle sui benefici, i privilegi e le esenzioni fiscali.
 
 ### Art. 31.
 
-Coloro che secondo le disposizioni del presente decreto hanno titolo al premio della Repubblica come beneficiari delle speciali gestioni di compensazione o come disoccupati o richiamati possono, in caso di diniego del pagamento di esso, ricorrere, entro il termine di 30 giorni dalla comunicazione, al Comitato speciale per gli assegni familiari di cui all'[art. 11 della legge 6 agosto 1940, n. 1278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-08-06;1278#art_11).
+Coloro che secondo le disposizioni del presente decreto hanno titolo al premio della Repubblica come beneficiari delle speciali gestioni di compensazione o come disoccupati o richiamati possono, in caso di diniego del pagamento di esso, ricorrere, entro il termine di 30 giorni dalla comunicazione, al Comitato speciale per gli assegni familiari di cui all'[art. 11 della legge 6 agosto 1940, n. 1278](Istituzione%20di%20una%20Cassa%20unica%20per%20gli%20assegni%20familiari%20ai%20lavoratori%20e%20disciplina%20della%20corresponsione%20degli%20assegni%20stessi%20al%20personale%20non%20usufruente%20di%20un%20trattamento%20di%20famiglia%20del_350b7c47914c.md).
  La decisione del Comitato e' definitiva.
 
 ### Art. 32.
 
-La vigilanza per l'applicazione del presente decreto e' esercitata dal Ministero del lavoro e della previdenza, sociale a mezzo dei funzionari dell' Ispettorato del lavoro, ferme rimanendo, nei confronti delle gestioni speciali di compensazione previste dal presente decreto, le facolta' concesse con l'[art. 22 del decreto legislativo luogotenenziale 1° marzo 1945, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;177#art_22), all' Istituito nazionale della previdenza. Sociale ai fini dell' accertamento dei contributi dovuti e della regolarita' dei premi corrisposti.
+La vigilanza per l'applicazione del presente decreto e' esercitata dal Ministero del lavoro e della previdenza, sociale a mezzo dei funzionari dell' Ispettorato del lavoro, ferme rimanendo, nei confronti delle gestioni speciali di compensazione previste dal presente decreto, le facolta' concesse con l'[art. 22 del decreto legislativo luogotenenziale 1° marzo 1945, n. 177](../Decreti%20legislativi%20luogotenenziali/Corresponsione%20di%20assegni%20integrativi%20delle%20pensioni%20di%20invalidita%20e%20vecchiaia%20e%20per%20i%20superstiti%20e%20delle%20altre%20prestazioni%20delle%20assicurazioni%20sociali.%20045U0177.md), all' Istituito nazionale della previdenza. Sociale ai fini dell' accertamento dei contributi dovuti e della regolarita' dei premi corrisposti.
 
 ### Art. 33.
 

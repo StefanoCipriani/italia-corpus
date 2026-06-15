@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'Ente edilizio di Reggio Calabria resta esonerato per l'anno 1940 dall'obbligo di effettuare l'accantonamento del 15 per cento di cui all'[art. 28 del R. decreto-legge 16 novembre 1921, n. 1705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-11-16;1705#art_28), convertito nella legge 13 aprile 1925-III, n. 473. 
+ L'Ente edilizio di Reggio Calabria resta esonerato per l'anno 1940 dall'obbligo di effettuare l'accantonamento del 15 per cento di cui all'[art. 28 del R. decreto-legge 16 novembre 1921, n. 1705](Che%20reca%20provvedimenti%20in%20dipendenza%20dei%20terremoti.%20021U1705.md), convertito nella legge 13 aprile 1925-III, n. 473. 
  
  L'accantonamento straordinario del 10 per cento disposto dal secondo comma dell'art. 3 del R. decreto-legge 8 luglio 1937-XV, n. 1445, convertito nella legge 3 febbraio 1938-XVI, n. 113, dovra' iniziarsi con l'esercizio 1941 e sara' effettuato fino a raggiungere l'importo stabilito dal comma stesso, aumentato dell'importo corrispondente all'accantonamento ordinario omesso nell'esercizio 1940 in applicazione della presente legge. 
  

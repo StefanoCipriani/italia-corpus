@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [decreto-legge 29 gennaio 1920, n 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1920-01-29;115), col quale e' stata prorogata la validita' del [R. decreto 30 agosto 1914, n. 902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-08-30;902), convertito in legge con legge 14 dicembre 1916 che ha autorizzato l'Istituto nazionale delle assicurazioni ad assumere per conto e nell'interesse dello Stato, i rischi di guerra della navigazione marittima;
+Visto il [decreto-legge 29 gennaio 1920, n 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1920-01-29;115), col quale e' stata prorogata la validita' del [R. decreto 30 agosto 1914, n. 902](Col%20quale%20e%20autorizzato%20lIstituto%20nazionale%20delle%20assicurazioni%20ad%20assumere%20i%20rischi%20di%20guerra%20in%20navigazione.%20014U0902.md), convertito in legge con legge 14 dicembre 1916 che ha autorizzato l'Istituto nazionale delle assicurazioni ad assumere per conto e nell'interesse dello Stato, i rischi di guerra della navigazione marittima;
 
 Considerato che, a seguito della cessazione dello stato di guerra nei riguardi dell'Italia, e' venuta a mancare la necessita' dell'assunzione per conto dello Stato dei rischi di detta natura;
 

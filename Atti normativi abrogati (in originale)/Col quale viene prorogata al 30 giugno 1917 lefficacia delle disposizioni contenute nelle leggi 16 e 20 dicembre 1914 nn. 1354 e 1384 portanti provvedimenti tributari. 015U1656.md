@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita', a Noi delegata;
 
-Vista la [legge 16 dicembre 1914, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1354), recante aumenti alle imposte dirette e a talune tasse sugli affari da applicarsi limitatamente al 30 giugno 1916;
+Vista la [legge 16 dicembre 1914, n. 1354](Per%20la%20proroga%20dellesercizio%20provvisorio%20dei%20bilanci%20e%20provvedimenti%20finanziari.%20014U1354.md), recante aumenti alle imposte dirette e a talune tasse sugli affari da applicarsi limitatamente al 30 giugno 1916;
 
-Vista la [legge 20 dicembre 1914, n. 1384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-20;1384), che proroga al 30 giugno 1916 le disposizioni emanate in materia di imposte dirette, di tasse sugli affari e di diritti doganali in virtu' della delegazione di poteri conferita al Governo colla [legge 19 luglio 1914, n. 994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;994), la necessita' di prorogare a tutto il 30 giugno 1917 le disposizioni contenute nei sopracitati provvedimenti e la urgenza di farlo senza ritardo per la formazione e la esecutorieta' dei ruoli delle imposte;
+Vista la [legge 20 dicembre 1914, n. 1384](Recante%20la%20proroga%20fino%20al%2030%20giugno%201916%20dei%20provvedimenti%20tributari%20applicati%20con%20decreti%20Reali%20in%20base%20alla%20legge%2019%20luglio%201914%20n.%20694.%20014U1384.md), che proroga al 30 giugno 1916 le disposizioni emanate in materia di imposte dirette, di tasse sugli affari e di diritti doganali in virtu' della delegazione di poteri conferita al Governo colla [legge 19 luglio 1914, n. 994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-19;994), la necessita' di prorogare a tutto il 30 giugno 1917 le disposizioni contenute nei sopracitati provvedimenti e la urgenza di farlo senza ritardo per la formazione e la esecutorieta' dei ruoli delle imposte;
 
 Udito il Consiglio dei ministri;
 

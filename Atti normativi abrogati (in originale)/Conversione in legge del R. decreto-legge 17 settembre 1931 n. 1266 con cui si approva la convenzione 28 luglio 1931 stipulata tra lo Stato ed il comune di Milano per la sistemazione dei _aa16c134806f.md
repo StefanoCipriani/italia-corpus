@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 settembre 1931, n. 1266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-17;1266), che approva la convenzione 28 luglio 1931 stipulata tra lo Stato ed il comune di Milano per la sistemazione dei servizi statali in quella citta'. 
+ E' convertito in legge il [R. decreto-legge 17 settembre 1931, n. 1266](Approvazione%20della%20convenzione%2028%20luglio%201931%20stipulata%20tra%20lo%20Stato%20ed%20il%20comune%20di%20Milano%20per%20la%20sistemazione%20dei%20servizi%20statali%20in%20quella%20citta.%20031U1266.md), che approva la convenzione 28 luglio 1931 stipulata tra lo Stato ed il comune di Milano per la sistemazione dei servizi statali in quella citta'. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 21 dicembre 1931 - Anno X 
  

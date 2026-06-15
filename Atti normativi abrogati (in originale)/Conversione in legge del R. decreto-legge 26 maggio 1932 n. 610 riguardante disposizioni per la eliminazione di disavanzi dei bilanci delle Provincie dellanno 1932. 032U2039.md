@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 maggio 1932, n. 610](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-05-26;610), riguardante disposizioni per la eliminazione di disavanzi dei bilanci delle Provincie dell'anno 1932. 
+ E' convertito in legge il [R. decreto-legge 26 maggio 1932, n. 610](Disposizioni%20per%20la%20eliminazione%20di%20disavanzi%20dei%20bilanci%20delle%20Provincie%20dellanno%201932.%20032U0610.md), riguardante disposizioni per la eliminazione di disavanzi dei bilanci delle Provincie dell'anno 1932. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, 
  

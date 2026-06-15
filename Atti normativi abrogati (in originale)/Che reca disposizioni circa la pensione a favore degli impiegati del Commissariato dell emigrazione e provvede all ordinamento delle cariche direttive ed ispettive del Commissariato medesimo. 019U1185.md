@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 31 gennaio 1901, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-01-31;23), e la [legge 17 luglio 1910, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;538);
+Vista la [legge 31 gennaio 1901, n. 23](Disposizioni%20sullemigrazione.%20001U0023.md), e la [legge 17 luglio 1910, n. 538](Provvedimento%20riguardante%20lemigrazione.%20010U0538.md);
 
 Visto il [decreto Luogotenenziale 7 novembre 1918, n. 1723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-07;1723);
 
@@ -36,13 +36,13 @@ Le disposizioni di cui all'art. 13 del regolamento per le pensioni agli impiegat
 
 ## Art. 2.
 
-Gli ispettori della emigrazione per l'interno e per l'estero sono raggruppati in unico ruolo; e percio' le cariche direttive ed ispettive del Commissariato della emigrazione di cui all'[art. 7 della legge 31 gennaio 1901, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-01-31;23#art_7), modificato con la [legge 17 luglio 1910, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;538), all'allegato A, nonche' all'art. 20 del regolamento marzo 1913, n. 849, e al [decreto Luogotenenziale 7 novembre 1918, n. 1723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-07;1723), restano stabilite come segue: i commissario generale; 1 vice commissario generale con lo stipendio di lire diecimila; 3 commissari, o ispettori superiori, a lire settemila; 6 ispettori di prima classe a lire seimila; 9 ispettori di seconda classe a lire cinquemila. 
+Gli ispettori della emigrazione per l'interno e per l'estero sono raggruppati in unico ruolo; e percio' le cariche direttive ed ispettive del Commissariato della emigrazione di cui all'[art. 7 della legge 31 gennaio 1901, n. 23](Disposizioni%20sullemigrazione.%20001U0023.md), modificato con la [legge 17 luglio 1910, n. 538](Provvedimento%20riguardante%20lemigrazione.%20010U0538.md), all'allegato A, nonche' all'art. 20 del regolamento marzo 1913, n. 849, e al [decreto Luogotenenziale 7 novembre 1918, n. 1723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-07;1723), restano stabilite come segue: i commissario generale; 1 vice commissario generale con lo stipendio di lire diecimila; 3 commissari, o ispettori superiori, a lire settemila; 6 ispettori di prima classe a lire seimila; 9 ispettori di seconda classe a lire cinquemila. 
  
  Ai suddetti stipendi e' applicato l'aumento di cui al decreto Luogotenenziale 10 febbraio 1918. n. 107. 
  
  Il commissario generale e' scelto fra gli impiegati superiori dello Stato e del Commissariato, su proposta del ministro degli affari esteri, udito il Consiglio dei ministri, e percepisce a carico del Fondo della emigrazione una indennita' che viene fissata con decreto Reale. 
  
- Il vice commissario generale di cui al [decreto Luogotenenziale 7 novembre 1918 n. 1723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-07;1723), gode di una indennita' nella misura prevista dall'art. 16, primo capoverso della [legge 9 giugno 1907, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-09;298).
+ Il vice commissario generale di cui al [decreto Luogotenenziale 7 novembre 1918 n. 1723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-07;1723), gode di una indennita' nella misura prevista dall'art. 16, primo capoverso della [legge 9 giugno 1907, n. 298](Portante%20il%20riordinamento%20del%20personale%20delle%20diverse%20carriere%20del%20Ministero%20degli%20affari%20esteri.%20007U0298.md).
 
 ## Art. 3.
 

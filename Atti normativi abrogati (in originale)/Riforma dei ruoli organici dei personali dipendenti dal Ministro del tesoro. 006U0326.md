@@ -46,7 +46,7 @@ I fondi che si renderanno disponibili per la soppressione dei posti della classe
 
 ## Art. 5.
 
-L'ispettore generale per la vigilanza sugli Istituti di emissione e sui servizi del tesoro ha grado parificato a quello di direttore generale ed esercita la sua azione direttiva su tutti i servizi affidati all'Ispettorato generale, compresa la vigilanza sulle opere di risanamento della citta' di Napoli regolata con [R. decreto 8 maggio 1904, n. 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-05-08;180). 
+L'ispettore generale per la vigilanza sugli Istituti di emissione e sui servizi del tesoro ha grado parificato a quello di direttore generale ed esercita la sua azione direttiva su tutti i servizi affidati all'Ispettorato generale, compresa la vigilanza sulle opere di risanamento della citta' di Napoli regolata con [R. decreto 8 maggio 1904, n. 180](Che%20da%20allispettorato%20presso%20il%20Ministero%20del%20tesoro%20per%20la%20vigilanza%20sugli%20istituti%20di%20emissione%20e%20sui%20servizi%20del%20Tesoro%20il%20titolo%20di%20ispettorato%20generale%20sugli%20istituti%20medesimi%20e%20sull_01fbe8403efc.md). 
  
  Il vice ispettore generale per la vigilanza sugli Istituti di emissione e sui servizi del tesoro ha grado parificato a quello di ispettore generale.
 
@@ -74,7 +74,7 @@ I fondi attualmente stanziati in bilancio per stipendi e assegni personali agli 
 
 ## Art. 10.
 
-Il ruolo organico dei magazzinieri economi delle intendenze di finanza rimane stabilmente fissato in conformita' dell'annessa tabella D. Il servizio dell'economato nelle 26 intendenze per le quali il nuovo organico non istituisce il posto relativo continuera' ad essere affidato ai funzionari designati dal [R. decreto 3 novembre 1894, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-11-03;468), alle condizioni in esso stabilite. 
+Il ruolo organico dei magazzinieri economi delle intendenze di finanza rimane stabilmente fissato in conformita' dell'annessa tabella D. Il servizio dell'economato nelle 26 intendenze per le quali il nuovo organico non istituisce il posto relativo continuera' ad essere affidato ai funzionari designati dal [R. decreto 3 novembre 1894, n. 468](Sulla%20riforma%20organica%20dei%20magazzinieri%20economi%20nelle%20Intendenze%20di%20finanza.%20094U0468.md), alle condizioni in esso stabilite. 
  
  Le nomine ai posti vacanti nella 3ª classe dei magazzinieri-economi avranno luogo, a scelta per merito, sentito il Consiglio d'amministrazione del Ministero, fra gli ufficiali di scrittura di 4ª e 5ª classe delle intendenze medesime.
 

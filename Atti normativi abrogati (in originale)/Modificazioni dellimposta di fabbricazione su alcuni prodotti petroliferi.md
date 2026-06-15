@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto-legge 28 febbraio 1939, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1939-02-28;334), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), istitutivo di una imposta di fabbricazione sugli oli minerali e sui prodotti della loro lavorazione, e successive modificazioni;
+Visto il [decreto-legge 28 febbraio 1939, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1939-02-28;334), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), istitutivo di una imposta di fabbricazione sugli oli minerali e sui prodotti della loro lavorazione, e successive modificazioni;
 
 Vista la [legge 19 marzo 1973, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-03-19;32), concernente modificazioni al regime fiscale di alcuni prodotti petroliferi e del gas metano, e successive modificazioni;
 
-Visto il [decreto-legge 5 ottobre 1984, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-10-05;643), convertito nella [legge 30 novembre 1984, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-11-30;800);
+Visto il [decreto-legge 5 ottobre 1984, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-10-05;643), convertito nella [legge 30 novembre 1984, n. 800](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%205%20ottobre%201984%20n.%20643%20recante%20diminuzione%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi.md);
 
 Ritenuta la necessita' e l'urgenza di modificare l'imposta di fabbricazione gravante su alcuni prodotti petroliferi;
 

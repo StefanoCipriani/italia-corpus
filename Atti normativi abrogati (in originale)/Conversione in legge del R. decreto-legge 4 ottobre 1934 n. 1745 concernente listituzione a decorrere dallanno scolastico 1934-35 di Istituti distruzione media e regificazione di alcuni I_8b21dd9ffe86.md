@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 ottobre 1934, n. 1745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-04;1745), concernente la istituzione, a decorrere dall'anno scolastico 1934-35, di Istituti d'istruzione media e regificazione di alcuni Istituti pareggiati. 
+ E' convertito in legge il [R. decreto-legge 4 ottobre 1934, n. 1745](Istituzione%20a%20decorrere%20dallanno%20scolastico%201934-35%20di%20istituti%20distruzione%20media%20e%20regificazione%20di%20alcuni%20istituti%20pareggiati.%20034U1745.md), concernente la istituzione, a decorrere dall'anno scolastico 1934-35, di Istituti d'istruzione media e regificazione di alcuni Istituti pareggiati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

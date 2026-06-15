@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 29 luglio 1914, n. 918](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-07-29;918), che fissa il grado ed il numero degli ufficiali rivestiti di carica direttiva presso il Ministero della marina; 
+ Visto il [R. decreto 29 luglio 1914, n. 918](Che%20fissa%20il%20numero%20e%20il%20grado%20degli%20ufficiali%20investiti%20di%20carica%20direttiva%20presso%20il%20Ministero%20della%20marina.%20014U0918.md), che fissa il grado ed il numero degli ufficiali rivestiti di carica direttiva presso il Ministero della marina; 
  
- Vista la [legge 23 giugno 1918, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-06-23;830), che autorizza l'esercizio provvisorio degli stati di previsione della spesa per l'esercizio finanziario 1918-919; 
+ Vista la [legge 23 giugno 1918, n. 830](Che%20autorizza%20il%20Governo%20ad%20esercitare%20provvisoriamente%20fino%20a%20quando%20non%20siano%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%201918%20i%20bilanci%20delle%20Amministrazioni%20dello%20Stato%20per%20leserci_caa5fa712e10.md), che autorizza l'esercizio provvisorio degli stati di previsione della spesa per l'esercizio finanziario 1918-919; 
  
  Sulla proposta del ministro della marina; 
  

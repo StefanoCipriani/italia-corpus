@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 ottobre 1932, n. 1496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-10-14;1496), recante modificazioni alla vigente legislazione in materia di ferrovie e di altri mezzi di trasporto concessi all'industria privata per fronteggiare l'attuale situazione del traffico. 
+ E' convertito in legge il [R. decreto-legge 14 ottobre 1932, n. 1496](Provvedimenti%20per%20fronteggiare%20la%20crisi%20dei%20trasporti%20in%20concessione%20alla%20industria%20privata.%20032U1496.md), recante modificazioni alla vigente legislazione in materia di ferrovie e di altri mezzi di trasporto concessi all'industria privata per fronteggiare l'attuale situazione del traffico. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

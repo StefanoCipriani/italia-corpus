@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nel secondo comma dell'art. 97 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), alle parole: «all'approvazione della Giunta provinciale amministrativa» sono sostituite le seguenti: «a speciale approvazione».
+Nel secondo comma dell'art. 97 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), alle parole: «all'approvazione della Giunta provinciale amministrativa» sono sostituite le seguenti: «a speciale approvazione».
 
 ## Art. 2.
 

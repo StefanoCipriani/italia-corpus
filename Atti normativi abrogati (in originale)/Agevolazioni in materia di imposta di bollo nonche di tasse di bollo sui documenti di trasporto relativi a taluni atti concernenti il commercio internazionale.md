@@ -42,7 +42,7 @@ Sono esenti dalla tassa di bollo sui documenti di trasporto stabilite dal [decre
 
 ## Art. 4.
 
-La minore entrata derivante dall'applicazione del presente decreto sara' compensata per l'esercizio finanziario 1963-64 e per il periodo 1 luglio - 31 dicembre 1964 per L. 1.800.000.000 e per L. 5.250.000.000 rispettivamente con riduzione del fondo inscritto al capitolo 574 dello stato di previsione della spesa, del Ministero del tesoro per lo stesso esercizio 1963-64 e con una aliquota delle maggiori entrate di cui al [decreto-legge 23 febbraio 1964 n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-02-23;26), convertito, con modifiche, in [legge 12 aprile 1964, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-04-12;190).
+La minore entrata derivante dall'applicazione del presente decreto sara' compensata per l'esercizio finanziario 1963-64 e per il periodo 1 luglio - 31 dicembre 1964 per L. 1.800.000.000 e per L. 5.250.000.000 rispettivamente con riduzione del fondo inscritto al capitolo 574 dello stato di previsione della spesa, del Ministero del tesoro per lo stesso esercizio 1963-64 e con una aliquota delle maggiori entrate di cui al [decreto-legge 23 febbraio 1964 n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-02-23;26), convertito, con modifiche, in [legge 12 aprile 1964, n. 190](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20febbraio%201964%20n.%2026%20adottato%20ai%20sensi%20dellart.%2077%20comma%20secondo%20della%20Costituzione%20concernente%20listituzione%20di%20una%20imposta%20spec_866af209d86f.md).
 
 ## Art. 5.
 

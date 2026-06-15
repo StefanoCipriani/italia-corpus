@@ -22,7 +22,7 @@ Visto il testo unico delle leggi sulle tasse per concessioni governative approva
 
 Visto l'[art. 3 del R. decreto-legge 29 dicembre 1926, numero 2191](Ritocchi%20alla%20tabella%20delle%20tasse%20sulle%20concessioni%20governative.%20026U2191.md), che ha portato ritocchi alla tabella della tassa sulle concessioni governative;
 
-Visto il testo unico delle leggi sull'emigrazione, approvato con Nostro decreto 12 novembre 1919, n. 2205, convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il testo unico delle leggi sull'emigrazione, approvato con Nostro decreto 12 novembre 1919, n. 2205, convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Vista la tariffa consolare approvata con la [legge 10 agosto 1890, n. 7086](Che%20autorizza%20il%20governo%20del%20Re%20a%20pubblicare%20e%20far%20osservare%20una%20nuova%20tariffa%20di%20diritti%20da%20percepirsi%20dai%20regi%20uffici%20diplomatici%20e%20consolari%20come%20dallannessa%20tabella.%20090U7086.md) (serie 3ª), e le modificazioni apportatevi posteriormente;
 
@@ -64,7 +64,7 @@ La validita' normale del passaporto e' di un anno.
 
 ## Art. 6.
 
-Le norme del presente decreto non si applicano al passaporto diplomatico e a quello rilasciato per regio servizio, per i quali restano ferme le disposizioni di cui all'[art. 8 del Regio decreto 31 gennaio 1901, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-01-31;36#art_8).
+Le norme del presente decreto non si applicano al passaporto diplomatico e a quello rilasciato per regio servizio, per i quali restano ferme le disposizioni di cui all'[art. 8 del Regio decreto 31 gennaio 1901, n. 36](Circa%20il%20rilascio%20dei%20passaporti%20per%20lestero.%20001U0036.md).
 
 ## Art. 7.
 

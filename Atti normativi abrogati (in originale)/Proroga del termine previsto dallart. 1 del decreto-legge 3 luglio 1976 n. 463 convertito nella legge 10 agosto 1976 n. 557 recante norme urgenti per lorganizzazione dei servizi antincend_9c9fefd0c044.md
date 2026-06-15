@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Ritenuta la necessita' e l'urgenza, al fine di assicurare la piena efficienza dei servizi antincendi e di protezione civile in seguito all'adozione dal 1° luglio 1976 del nuovo orario di lavoro previsto dall'art. 11, ultimo comma, della [legge 8 dicembre 1970, n. 996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-08;996), per il personale del Corpo nazionale dei vigili del fuoco, di prorogare il termine fissato dall'[art. 1 del decreto-legge 3 luglio 1976, n. 463](Norme%20urgenti%20per%20lorganizzazione%20dei%20servizi%20antincendi%20e%20di%20protezione%20civile.md), convertito nella [legge 10 agosto 1976, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-08-10;557), recante norme urgenti per l'organizzazione dei servizi antincendi e di protezione civile;
+Ritenuta la necessita' e l'urgenza, al fine di assicurare la piena efficienza dei servizi antincendi e di protezione civile in seguito all'adozione dal 1° luglio 1976 del nuovo orario di lavoro previsto dall'art. 11, ultimo comma, della [legge 8 dicembre 1970, n. 996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-08;996), per il personale del Corpo nazionale dei vigili del fuoco, di prorogare il termine fissato dall'[art. 1 del decreto-legge 3 luglio 1976, n. 463](Norme%20urgenti%20per%20lorganizzazione%20dei%20servizi%20antincendi%20e%20di%20protezione%20civile.md), convertito nella [legge 10 agosto 1976, n. 557](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20luglio%201976%20n.%20463%20recante%20norme%20urgenti%20per%20lorganizzazione%20dei%20servizi%20antincendi%20e%20di%20protezione%20civile.md), recante norme urgenti per l'organizzazione dei servizi antincendi e di protezione civile;
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per l'interno, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-Il periodo di sei mesi indicato nell'[art. 1 del decreto-legge 3 luglio 1976, n. 463](Norme%20urgenti%20per%20lorganizzazione%20dei%20servizi%20antincendi%20e%20di%20protezione%20civile.md), convertito, con modificazioni nella [legge 10 agosto 1976, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-08-10;557) e' prorogato di sei mesi, salvo che prima di tale scadenza non entrino in vigore gli accordi formati ai sensi dell'[art. 
+Il periodo di sei mesi indicato nell'[art. 1 del decreto-legge 3 luglio 1976, n. 463](Norme%20urgenti%20per%20lorganizzazione%20dei%20servizi%20antincendi%20e%20di%20protezione%20civile.md), convertito, con modificazioni nella [legge 10 agosto 1976, n. 557](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20luglio%201976%20n.%20463%20recante%20norme%20urgenti%20per%20lorganizzazione%20dei%20servizi%20antincendi%20e%20di%20protezione%20civile.md) e' prorogato di sei mesi, salvo che prima di tale scadenza non entrino in vigore gli accordi formati ai sensi dell'[art. 
 9 della legge 22 luglio 1975, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-22;382#art_9).
 
 ## Art. 2.

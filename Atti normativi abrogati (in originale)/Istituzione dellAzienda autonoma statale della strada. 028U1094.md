@@ -122,7 +122,7 @@ Per tutto quanto non sia da sottoporre all'approvazione del Consiglio di amminis
 
 ## Art. 10.
 
-Il direttore generale dell'Azienda e' classificato nel grado quarto dell'ordinamento gerarchico delle Amministrazioni dello Stato, approvato con [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), ed e' di diritto membro effettivo del Consiglio superiore dei lavori pubblici. 
+Il direttore generale dell'Azienda e' classificato nel grado quarto dell'ordinamento gerarchico delle Amministrazioni dello Stato, approvato con [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), ed e' di diritto membro effettivo del Consiglio superiore dei lavori pubblici. 
  
  Il direttore dei servizi amministrativi e' classificato nel grado quinto dell'ordinamento suddetto ed e' nominato con decreto Reale su proposta del Ministro per i lavori pubblici.
 

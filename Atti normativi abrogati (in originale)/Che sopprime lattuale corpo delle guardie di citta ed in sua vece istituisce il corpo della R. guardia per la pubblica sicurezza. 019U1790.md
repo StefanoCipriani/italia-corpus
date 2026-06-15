@@ -134,7 +134,7 @@ Le nomine e promozioni saranno fatte nel seguente modo:
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 ottobre 1919, n. 2198](Che%20fissa%20le%20indennita%20spettanti%20agli%20ufficiali%20e%20ai%20militari%20del%20corpo%20della%20R.%20guardia%20di%20pubblica%20sicurezza.%20019U2198.md), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 ottobre 1919, n. 2198](Che%20fissa%20le%20indennita%20spettanti%20agli%20ufficiali%20e%20ai%20militari%20del%20corpo%20della%20R.%20guardia%20di%20pubblica%20sicurezza.%20019U2198.md), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 7.
 
@@ -192,7 +192,7 @@ L'avanzamento dei sottufficiali delle RR. guardie ha luogo nel seguente modo, se
 
 ## Art. 11.
 
-Ai componenti del corpo della Regia guardia sono applicabili le disposizioni della legge sullo stato degli ufficiali del Regio esercito, del regolamento di disciplina militare, di quello sullo stato dei sottufficiali e del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare con le modificazioni che lo speciale ordinamento del corpo rende necessarie, e che saranno stabilite dal regolamento organico.
+Ai componenti del corpo della Regia guardia sono applicabili le disposizioni della legge sullo stato degli ufficiali del Regio esercito, del regolamento di disciplina militare, di quello sullo stato dei sottufficiali e del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare con le modificazioni che lo speciale ordinamento del corpo rende necessarie, e che saranno stabilite dal regolamento organico.
 
 ## Art. 12.
 
@@ -232,7 +232,7 @@ Le indennita' di grado stabilite dall'[art. 4 del decreto Luogotenenziale 6 apri
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 ottobre 1919, n. 2198](Che%20fissa%20le%20indennita%20spettanti%20agli%20ufficiali%20e%20ai%20militari%20del%20corpo%20della%20R.%20guardia%20di%20pubblica%20sicurezza.%20019U2198.md), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 ottobre 1919, n. 2198](Che%20fissa%20le%20indennita%20spettanti%20agli%20ufficiali%20e%20ai%20militari%20del%20corpo%20della%20R.%20guardia%20di%20pubblica%20sicurezza.%20019U2198.md), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 13.
 

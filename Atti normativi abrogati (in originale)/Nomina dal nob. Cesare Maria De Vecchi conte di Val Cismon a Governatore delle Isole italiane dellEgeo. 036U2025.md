@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto il R. decreto-leggo 28 agosto 1924, n. 1355, convertito nella [legge 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985); 
+ Visto il R. decreto-leggo 28 agosto 1924, n. 1355, convertito nella [legge 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md); 
  
  Visto il Nostro decreto 30 dicembre 1923, n. 2958, e successive modificazioni; 
  

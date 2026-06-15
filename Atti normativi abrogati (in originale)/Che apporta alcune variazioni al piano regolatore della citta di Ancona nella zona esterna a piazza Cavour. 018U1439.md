@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Viste le [leggi 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), sulle espropriazioni a causa di pubblica utilita' e 24 dicembre 1914, n. 1418, che approvo' il piano regolatore della citta' di Ancona nella zona esterna a piazza Cavour; 
+ Viste le [leggi 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sulle espropriazioni a causa di pubblica utilita' e 24 dicembre 1914, n. 1418, che approvo' il piano regolatore della citta' di Ancona nella zona esterna a piazza Cavour; 
  
  Vista la domanda presentata dal sindaco di Ancona, in conformita' di deliberazioni 18 dicembre 1916 e 18 aprile 1917 di quel Consiglio comunale, per ottenere che sia approvato un progetto di varianti al detto piano; 
  
@@ -41,7 +41,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  1. Sono approvate le varianti al piano regolatore di Ancona risultanti dalle tre planimetrie a firma dell'ingegnere F.
 Federiconi, viste, d'ordine Nostro, dal ministro proponente. 
  
- 2. Per l'esecuzione del piano resta fermo il termine stabilito con la [legge 24 dicembre 1914, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-24;1418). 
+ 2. Per l'esecuzione del piano resta fermo il termine stabilito con la [legge 24 dicembre 1914, n. 1418](Che%20approva%20il%20piano%20regolatore%20della%20citta%20di%20Ancona%20nella%20zona%20esterna%20a%20piazza%20Cavour.%20014U1418.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

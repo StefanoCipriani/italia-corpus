@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 ottobre 1931, n. 1250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-08;1250), che modifica i dazi generali sul caffe' in grani e sul caffe' tostato e unifica l'imposta di consumo. 
+ E' convertito in legge il [R. decreto-legge 8 ottobre 1931, n. 1250](Modificazione%20dei%20dazi%20generali%20sul%20caffe%20in%20grani%20e%20sul%20caffe%20tostato%20e%20unificazione%20della%20imposta%20di%20consumo.%20031U1250.md), che modifica i dazi generali sul caffe' in grani e sul caffe' tostato e unifica l'imposta di consumo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

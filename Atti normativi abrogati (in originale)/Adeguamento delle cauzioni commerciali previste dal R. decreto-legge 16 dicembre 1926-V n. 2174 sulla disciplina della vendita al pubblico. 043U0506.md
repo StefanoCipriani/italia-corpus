@@ -34,7 +34,7 @@ Nulla e' innovato alle disposizioni che riguardano il versamento, la integrazion
 
 ## Art. 4.
 
-Nella prima applicazione della presente legge la Confederazione fascista dei commercianti e' autorizzata a sostituirsi ai depositanti, nel versamento del supplemento delle cauzioni gia' costituite presso la Cassa depositi e prestiti ai sensi del [R. decreto-legge 16 dicembre 1926, n. 2174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2174), e disposizioni successive sino alla concorrenza prevista dall'art. 1. della presente legge.
+Nella prima applicazione della presente legge la Confederazione fascista dei commercianti e' autorizzata a sostituirsi ai depositanti, nel versamento del supplemento delle cauzioni gia' costituite presso la Cassa depositi e prestiti ai sensi del [R. decreto-legge 16 dicembre 1926, n. 2174](Disciplina%20del%20commercio%20di%20vendita%20al%20pubblico.%20026U2174.md), e disposizioni successive sino alla concorrenza prevista dall'art. 1. della presente legge.
 
 ## Art. 5.
 
@@ -80,7 +80,7 @@ L'ammontare annuo degli interessi delle cauzioni, come sopra integrate, di perti
  
  La Cassa depositi e prestiti e' autorizzata a provvedere ai versamento, a norma del comma 1° dell'art. 64 del citato R. decreto 25 gennaio 1937-XV, n. 484, delle somme corrispondenti agli interessi di cui sopra. 
  
- La misura del contributo sindacale dei commercianti, previsto dall'[art. 49 del R. decreto 25 gennaio 1937, n. 484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-01-25;484#art_49), e stabilito nei centranti dei commercianti soggetti all'imposta sui redditi di ricchezza mobile in aliquote sul reddito accertato nelle categorie B e C-1 e nei confronti dei commercianti non soggetti a tale imposta in un'aliquota fissa, sara' determinata, per l'anno 1942 e per i successivi, dal Ministro per le corporazioni di concerto col Ministro per le finanze in quote il cui gettito, unitamente all'ammontare complessivo degli interessi cauzinonali previsti al 1° comma, non sia superiore al fabbisogno normale medio della Confederazione desunto dal bilancio di previsione dell'esercizio 1942, approvato a norma delle leggi vigenti. 
+ La misura del contributo sindacale dei commercianti, previsto dall'[art. 49 del R. decreto 25 gennaio 1937, n. 484](Regolamento%20dei%20contributi%20sindacali.%20037U0484.md), e stabilito nei centranti dei commercianti soggetti all'imposta sui redditi di ricchezza mobile in aliquote sul reddito accertato nelle categorie B e C-1 e nei confronti dei commercianti non soggetti a tale imposta in un'aliquota fissa, sara' determinata, per l'anno 1942 e per i successivi, dal Ministro per le corporazioni di concerto col Ministro per le finanze in quote il cui gettito, unitamente all'ammontare complessivo degli interessi cauzinonali previsti al 1° comma, non sia superiore al fabbisogno normale medio della Confederazione desunto dal bilancio di previsione dell'esercizio 1942, approvato a norma delle leggi vigenti. 
  
  E' conseguentemente abrogato il comma 2° del predetto articolo 49 del R. decreto 25 gennaio 1937-XV, n. 484. 
  

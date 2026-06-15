@@ -31,7 +31,7 @@ Severo-Rodi-Peschici, di proprieta' del concessionario, lasciandolo in uso al co
 
 ## Art. 2.
 
-Fermo rimanendo l'importo chilometrico complessivo della sovvenzione accordata con l'art. 2 della convenzione 6 febbraio 1930, approvata con [R. decreto 28 febbraio 1930, numero 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-28;228), per l'armamento, completamento ed esercizio della linea, sulla parte di detta sovvenzione riservata a garanzia dell'esercizio potra', in relazione all'acquisto in favore dello Stato del materiale rotabile di cui all'art. 1, esser messa a disposizione del concessionario per operazioni finanziarie una quota non superiore a quella calcolata per detto materiale nel piano finanziario in base al quale e' stata determinata detta sovvenzione.
+Fermo rimanendo l'importo chilometrico complessivo della sovvenzione accordata con l'art. 2 della convenzione 6 febbraio 1930, approvata con [R. decreto 28 febbraio 1930, numero 228](Approvazione%20della%20convenzione%206%20febbraio%201930-VIII%20per%20larmamento%20il%20completamento%20e%20lesercizio%20della%20ferrovia%20garganica%20San%20Severo-Rodi-Peschici.%20030U0228.md), per l'armamento, completamento ed esercizio della linea, sulla parte di detta sovvenzione riservata a garanzia dell'esercizio potra', in relazione all'acquisto in favore dello Stato del materiale rotabile di cui all'art. 1, esser messa a disposizione del concessionario per operazioni finanziarie una quota non superiore a quella calcolata per detto materiale nel piano finanziario in base al quale e' stata determinata detta sovvenzione.
 
 ## Art. 3.
 

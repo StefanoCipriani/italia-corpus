@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 gennaio 1931, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-19;82), con il quale viene esteso l'uso delle macchine affrancatrici alla francatura dei bollettini per la spedizione dei pacchi postali. 
+ E' convertito in legge il [R. decreto-legge 19 gennaio 1931, n. 82](Estensione%20delluso%20delle%20macchine%20affrancatrici%20alla%20francatura%20dei%20bollettini%20per%20la%20spedizione%20dei%20pacchi%20postali.%20031U0082.md), con il quale viene esteso l'uso delle macchine affrancatrici alla francatura dei bollettini per la spedizione dei pacchi postali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 aprile 1933, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-04-06;381), concernente la disciplina della produzione e vendita dei formaggi pecorino e vacchino, del burro e dei suoi succedanei. 
+ E' convertito in legge il [R. decreto-legge 6 aprile 1933, n. 381](Disciplina%20della%20produzione%20e%20vendita%20dei%20formaggi%20pecorino%20e%20vacchino%20del%20burro%20e%20dei%20suoi%20succedanei.%20033U0381.md), concernente la disciplina della produzione e vendita dei formaggi pecorino e vacchino, del burro e dei suoi succedanei. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 10 maggio 1943, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-05-10;397), con il quale viene disciplinata la raccolta e la distribuzione dei cereali e delle fave;
+Visto il [R. decreto-legge 10 maggio 1943, n. 397](Disciplina%20totalitaria%20della%20raccolta%20e%20destinazione%20dei%20cereali%20e%20delle%20fave.%20043U0397.md), con il quale viene disciplinata la raccolta e la distribuzione dei cereali e delle fave;
 
 Visto il [decreto legislativo Luogotenenziale 3 agosto 1944, n. 167](Prezzo%20del%20pane%20e%20della%20pasta.%20044U0167.md), che fissa i prezzi al consumo del pane e della pasta;
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), riguardante la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), riguardante la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e di altri provvedimenti;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), concernente l'Assemblea per la nuova Costituzione dello Stato, il giuramento dei membri del Governo e la facolta' del Governo di emanare norme giuridiche;
 
@@ -92,13 +92,13 @@ L'indennita' spetta solo a coloro che siano muniti di carta annonaria individual
 
 ## Art. 5.
 
-Per i prestatori d'opera con rapporti di lavoro gia' disciplinabili mediante contratti collettivi ai sensi della [legge 3 aprile 1926, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-04-03;563), e successive modificazioni ed integrazioni, l'indennita' e' a carico dei datori di lavoro e viene da essi corrisposta, anche per ogni persona di famiglia convivente ed a carico. 
+Per i prestatori d'opera con rapporti di lavoro gia' disciplinabili mediante contratti collettivi ai sensi della [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e successive modificazioni ed integrazioni, l'indennita' e' a carico dei datori di lavoro e viene da essi corrisposta, anche per ogni persona di famiglia convivente ed a carico. 
  
 Sono esclusi dalla concessione dell'indennita' i lavoratori coniugati residenti nei Centri con popolazione superiore ai 100.000 abitanti, che percepiscono una retribuzione complessiva superiore a L. 9000 mensili nette e quelli residenti in centri con popolazione sino a 100.000 abitanti, fruenti di retribuzione complessiva superiore a L. 7000 mensili nette. Per i celibi, che non abbiano persone di famiglia conviventi e a carico, tali limiti di retribuzione, agli effetti dell'esclusione dalla concessione dell'indennita', sono rispettivamente stabiliti in L. 6000 e 5000.
 
 ## Art. 6.
 
-Per i dipendenti statali e per i personali in servizio presso i dipendenti statali contemplati, rispettivamente, negli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;328#art_4) e [5 del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;328#art_5), l'indennita' e' corrisposta dalle rispettive Amministrazioni. 
+Per i dipendenti statali e per i personali in servizio presso i dipendenti statali contemplati, rispettivamente, negli [articoli 4](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md) e [5 del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md), l'indennita' e' corrisposta dalle rispettive Amministrazioni. 
  
 L'indennita' di cui al precedente comma spetta inoltre ai titolari di pensioni a carico delle Amministrazioni statali o degli Istituti di previdenza amministrati dalla Cassa depositi e prestiti anche per le persone componenti la loro famiglia. 
  
@@ -114,7 +114,7 @@ Per i pensionati degli Istituti di previdenza amministrati dalla Cassa depositi 
 
 ## Art. 7.
 
-L'indennita' prevista dall'art. 6 e' estesa ai segretari provinciali e comunali e al personale dipendente dagli enti contemplati dall'[art. 12 del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;328#art_12), e grava sui rispettivi bilanci. La disposizione di cui al precedente comma si applica, con le stesse modalita', anche nei confronti dei titolari delle pensioni facenti carico ai bilanci degli enti contemplati dal presente articolo. 
+L'indennita' prevista dall'art. 6 e' estesa ai segretari provinciali e comunali e al personale dipendente dagli enti contemplati dall'[art. 12 del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md), e grava sui rispettivi bilanci. La disposizione di cui al precedente comma si applica, con le stesse modalita', anche nei confronti dei titolari delle pensioni facenti carico ai bilanci degli enti contemplati dal presente articolo. 
  
 Nei confronti del personale e dei pensionati suddetti, l'indennita' viene corrisposta anche per la moglie e per i figli minorenni.
 

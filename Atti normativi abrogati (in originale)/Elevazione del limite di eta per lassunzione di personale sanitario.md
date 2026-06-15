@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 4 gennaio 1945, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-04;10);
+Visto il [decreto legislativo luogotenenziale 4 gennaio 1945, n. 10](../Decreti%20legislativi%20luogotenenziali/Elevazione%20dei%20limiti%20di%20eta%20per%20lammissione%20ai%20pubblici%20concorsi%20e%20per%20le%20nomine%20ad%20impieghi.%20045U0010.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Per l'assunzione del personale sanitario alle dipendenze delle Amministrazioni provinciali, dei Comuni, delle Istituzioni pubbliche di assistenza e beneficenza o di Consorzi tra gli enti predetti, il limite massimo di eta' previsto dagli ordinamenti in vigore e' elevato di tre anni, in aggiunta all'aumento di cinque anni disposto dal [decreto legislativo luogotenenziale 4 gennaio 1945, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-04;10), ed ai maggiori limiti di eta' eventualmente consentiti da altre disposizioni.
+Per l'assunzione del personale sanitario alle dipendenze delle Amministrazioni provinciali, dei Comuni, delle Istituzioni pubbliche di assistenza e beneficenza o di Consorzi tra gli enti predetti, il limite massimo di eta' previsto dagli ordinamenti in vigore e' elevato di tre anni, in aggiunta all'aumento di cinque anni disposto dal [decreto legislativo luogotenenziale 4 gennaio 1945, n. 10](../Decreti%20legislativi%20luogotenenziali/Elevazione%20dei%20limiti%20di%20eta%20per%20lammissione%20ai%20pubblici%20concorsi%20e%20per%20le%20nomine%20ad%20impieghi.%20045U0010.md), ed ai maggiori limiti di eta' eventualmente consentiti da altre disposizioni.
  Il limite massimo di eta' non potra', comunque, superare i 55 anni per i posti di sovraintendente sanitario ospedaliero, di direttore, vice direttore e ispettore sanitario di ospedale, nonche' di primario ospedaliero, e gli anni 50 per i posti di direttore di farmacia di ospedale. Negli altri casi, il limite massimo di eta' non potra' superare i 45 anni.
 
 ## Art. 2.

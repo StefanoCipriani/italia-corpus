@@ -16,7 +16,7 @@ A favore dei Comuni, nei quali la riduzione dei canoni, concessa agli appaltator
 
 ## Art. 2.
 
-Le quote di concorso saranno accertate e liquidate dalla Commissione centrale, istituita a' sensi dell'art 101 del testo unico di [legge 7 maggio 1908, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-05-07;248), modificato con l'art. 1 del Nostro decreto 23 dicembre 1915, n. 1861, secondo il procedimento e con le facolta' di cui agli [articoli 21 della legge 23 gennaio 1902, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-01-23;25#art_21), allegato A, e 7 del [regolamento 9 marzo 1902, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1902-03-09;90).
+Le quote di concorso saranno accertate e liquidate dalla Commissione centrale, istituita a' sensi dell'art 101 del testo unico di [legge 7 maggio 1908, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-05-07;248), modificato con l'art. 1 del Nostro decreto 23 dicembre 1915, n. 1861, secondo il procedimento e con le facolta' di cui agli [articoli 21 della legge 23 gennaio 1902, n. 25](Concernente%20sgravio%20di%20consumi%20ed%20altri%20provvedimenti%20finanziari%20002U0025.md), allegato A, e 7 del [regolamento 9 marzo 1902, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1902-03-09;90).
 
 ## Art. 3.
 

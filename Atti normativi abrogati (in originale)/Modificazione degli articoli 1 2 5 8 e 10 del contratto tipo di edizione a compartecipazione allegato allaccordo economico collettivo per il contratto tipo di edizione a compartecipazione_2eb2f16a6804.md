@@ -16,7 +16,7 @@ IL DUCE DEL FASCISMO
  
  Visto il decreto del DUCE 9 febbraio 1940-XVIII, n. 125, con il quale e' disposta la pubblicazione dell'accordo economico collettivo 18 marzo 1939, per la disciplina del contratto di edizione a compartecipazione; 
  
- Visto l'[art. 11 della legge 5 febbraio 1934, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;163#art_11); 
+ Visto l'[art. 11 della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md); 
  
  Ritenuta la necessita' di apportare alcune modificazioni al testo del contratto tipo di edizione a compartecipazione allegato al predetto accordo; 
  

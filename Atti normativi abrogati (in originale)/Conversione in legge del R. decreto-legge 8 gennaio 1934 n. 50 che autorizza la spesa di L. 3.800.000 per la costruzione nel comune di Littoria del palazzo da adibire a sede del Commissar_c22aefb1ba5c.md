@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 gennaio 1934, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-08;50), che autorizza la spesa di L. 3.800.000 per la costruzione nel comune di Littoria del palazzo da adibire a sede del Commissario speciale per l'Agro Pontino e degli uffici dipendenti. 
+ E' convertito in legge il [R. decreto-legge 8 gennaio 1934, n. 50](Autorizzazione%20della%20spesa%20di%20L.%203.800.000%20per%20la%20costruzione%20nel%20comune%20di%20Littoria%20del%20palazzo%20sede%20del%20Commissario%20speciale%20per%20lAgro%20Pontino%20e%20dipendenti%20uffici.%20034U0050.md), che autorizza la spesa di L. 3.800.000 per la costruzione nel comune di Littoria del palazzo da adibire a sede del Commissario speciale per l'Agro Pontino e degli uffici dipendenti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

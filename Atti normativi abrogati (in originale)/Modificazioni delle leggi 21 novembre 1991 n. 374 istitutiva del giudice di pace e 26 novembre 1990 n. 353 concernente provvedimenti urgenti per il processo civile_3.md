@@ -149,7 +149,7 @@ All'[articolo 11 della legge 21 novembre 1991, n. 374](https://www.normattiva.it
 
 2.
 
-A coloro che abbiano presentato domanda per la nomina a giudice di pace entro il 15 ottobre 1993 e che siano stati nominati nell'ufficio non si applica la disposizione di cui all'[articolo 11, comma 16, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_11-com16).
+A coloro che abbiano presentato domanda per la nomina a giudice di pace entro il 15 ottobre 1993 e che siano stati nominati nell'ufficio non si applica la disposizione di cui all'[articolo 11, comma 16, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md).
 
 ## Art. 16.
 

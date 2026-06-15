@@ -28,7 +28,7 @@ I ruoli nazionali del personale docente degli istituti e scuole di istruzione se
 
 2.
 
-L'inquadramento e' disposto secondo i criteri di anzianita' di cui all'articolo 15, ultimo comma, del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686), nel ruolo della provincia in cui il personale interessato ha la sede di titolarita' alla data di entrata in vigore del presente decreto.
+L'inquadramento e' disposto secondo i criteri di anzianita' di cui all'articolo 15, ultimo comma, del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), nel ruolo della provincia in cui il personale interessato ha la sede di titolarita' alla data di entrata in vigore del presente decreto.
 
 3.
 
@@ -62,7 +62,7 @@ La determinazione dei posti e' effettuata dal provveditore agli studi all'atto d
 
 5.
 
-Per quanto non diversamente disposto dai commi precedenti si applicano le disposizioni di cui all'[articolo 10 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_10), ed all'[articolo 1 della legge 20 maggio 1982, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270#art_1).
+Per quanto non diversamente disposto dai commi precedenti si applicano le disposizioni di cui all'[articolo 10 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md), ed all'[articolo 1 della legge 20 maggio 1982, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270#art_1).
 
 6.
 
@@ -130,7 +130,7 @@ La collocazione nella graduatoria dei concorsi per soli titoli non costituisce e
 
 21.
 
-Le graduatorie dei concorsi per soli titoli sono utilizzabili soltanto dopo l'esaurimento delle corrispondenti graduatorie compilate ai sensi dell'[articolo 17 del decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_17), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246), e trasformate in graduatorie nazionali dall'[articolo 8-bis del decreto-legge 6 agosto 1988, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323#art_8bis), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-06;426).
+Le graduatorie dei concorsi per soli titoli sono utilizzabili soltanto dopo l'esaurimento delle corrispondenti graduatorie compilate ai sensi dell'[articolo 17 del decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_17), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201988%20n.%20140%20recante%20misure%20urgenti%20per%20il%20personale%20della%20scuola.md), e trasformate in graduatorie nazionali dall'[articolo 8-bis del decreto-legge 6 agosto 1988, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323#art_8bis), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20agosto%201988%20n.%20323%20recante%20finanziamento%20del%20contratto%20del%20personale%20della%20scuola%20per%20il%20triennio%201988-1990%20e%20norme%20per%20la%20razio_ce91d16799a8.md).
 
 22.
 
@@ -138,7 +138,7 @@ La rinuncia alla nomina in ruolo comporta la decadenza dalla graduatoria per la 
 
 23.
 
-Ai docenti nominati in ruolo a seguito dell'espletamento di concorsi per soli titoli, qualora siano stati ammessi in base al servizio prestato nelle istituzioni scolastiche e culturali italiane all'estero, si applica il disposto di cui all'[articolo 18 della legge 25 agosto 1982, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-25;604#art_18), purche' essi siano in servizio presso le predette istituzioni all'atto del conferimento della nomina.
+Ai docenti nominati in ruolo a seguito dell'espletamento di concorsi per soli titoli, qualora siano stati ammessi in base al servizio prestato nelle istituzioni scolastiche e culturali italiane all'estero, si applica il disposto di cui all'[articolo 18 della legge 25 agosto 1982, n. 604](Revisione%20della%20disciplina%20sulla%20destinazione%20del%20personale%20di%20ruolo%20dello%20Stato%20alle%20istituzioni%20scolastiche%20e%20culturali%20italiane%20funzionanti%20allestero%20nonche%20ai%20connessi%20servizi%20del%20Min_ec5940a07994.md), purche' essi siano in servizio presso le predette istituzioni all'atto del conferimento della nomina.
 
 24.
 
@@ -177,7 +177,7 @@ A ciascuna commissione e' assegnato un segretario, scelto tra il personale ammin
 
 7.
 
-Si applicano il secondo e il [terzo comma dell'articolo 12 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_12-com3).
+Si applicano il secondo e il [terzo comma dell'articolo 12 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md).
 
 8.
 
@@ -230,7 +230,7 @@ E' istituito il ruolo unico degli ispettori tecnici con una dotazione organica d
 
 2.
 
-Essi esercitano le funzioni di cui all'[articolo 4 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_4).
+Essi esercitano le funzioni di cui all'[articolo 4 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md).
 
 3.
 
@@ -238,7 +238,7 @@ Il Ministro della pubblica istruzione provvede, con proprio decreto, sentito il 
 
 4.
 
-Per il reclutamento degli ispettori tecnici si applicano le disposizioni previste dagli [articoli 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_37), [39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_39), [40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_40), [41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_41), [43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_43) e [44 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_44).
+Per il reclutamento degli ispettori tecnici si applicano le disposizioni previste dagli [articoli 37](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md), [39](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md), [40](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md), [41](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md), [43](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md) e [44 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md).
 
 5.
 
@@ -246,7 +246,7 @@ I vincitori dei concorsi a posti di ispettore tecnico sono assegnati agli uffici
 
 6.
 
-Agli ispettori tecnici appartenenti al ruolo unico istituito dal presente articolo si applicano le disposizioni di stato giuridico e di trattamento economico concernenti gli ispettori tecnici centrali, di cui al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748), e successive modificazioni ed integrazioni.
+Agli ispettori tecnici appartenenti al ruolo unico istituito dal presente articolo si applicano le disposizioni di stato giuridico e di trattamento economico concernenti gli ispettori tecnici centrali, di cui al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), e successive modificazioni ed integrazioni.
 
 7.
 
@@ -333,7 +333,7 @@ La collocazione nelle graduatorie del concorso per soli titoli non costituisce e
 
 18.
 
-Le graduatorie dei concorsi per soli titoli sono utilizzabili soltanto dopo l'esaurimento delle corrispondenti graduatorie compilate ai sensi dell'[articolo 17 del decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_17), convertito con modificazioni, dalla [legge 4 luglio 1988, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246), e trasformate in graduatorie nazionali dall'[articolo 8-bis del decreto-legge 6 agosto 1988, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323#art_8bis), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-06;426).
+Le graduatorie dei concorsi per soli titoli sono utilizzabili soltanto dopo l'esaurimento delle corrispondenti graduatorie compilate ai sensi dell'[articolo 17 del decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_17), convertito con modificazioni, dalla [legge 4 luglio 1988, n. 246](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201988%20n.%20140%20recante%20misure%20urgenti%20per%20il%20personale%20della%20scuola.md), e trasformate in graduatorie nazionali dall'[articolo 8-bis del decreto-legge 6 agosto 1988, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323#art_8bis), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20agosto%201988%20n.%20323%20recante%20finanziamento%20del%20contratto%20del%20personale%20della%20scuola%20per%20il%20triennio%201988-1990%20e%20norme%20per%20la%20razio_ce91d16799a8.md).
 
 19.
 
@@ -353,11 +353,11 @@ Le disposizioni di cui al presente articolo si applicano anche ai coordinatori a
 
 23.
 
-I concorsi per soli titoli di accesso ai ruoli del personale amministrativo e tecnico relativo ai profili professionali della terza e quarta qualifica funzionale della scuola, di cui all'[articolo 10 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;420#art_10), sono indetti con bandi emanati dal Ministro della pubblica istruzione.
+I concorsi per soli titoli di accesso ai ruoli del personale amministrativo e tecnico relativo ai profili professionali della terza e quarta qualifica funzionale della scuola, di cui all'[articolo 10 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20non%20insegnante%20statale%20delle%20scuole%20materne%20elementari%20secondarie%20ed%20artistiche.md), sono indetti con bandi emanati dal Ministro della pubblica istruzione.
 
 24.
 
-Sono abrogate le disposizioni di cui agli [articoli 48 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_48), e 16 della [legge 16 luglio 1984, n. 326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-16;326). I posti disponibili per i concorsi riservati di cui all'[articolo 13 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;420#art_13), sono determinati in base alle aliquote di cui all'[articolo 47 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_47).
+Sono abrogate le disposizioni di cui agli [articoli 48 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_48), e 16 della [legge 16 luglio 1984, n. 326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-16;326). I posti disponibili per i concorsi riservati di cui all'[articolo 13 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20non%20insegnante%20statale%20delle%20scuole%20materne%20elementari%20secondarie%20ed%20artistiche.md), sono determinati in base alle aliquote di cui all'[articolo 47 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_47).
 
 25.
 
@@ -367,7 +367,7 @@ I posti disponibili e vacanti per i concorsi di accesso ai ruoli dei coordinator
 
 1.
 
-Gli esami relativi alle procedure per la selezione del personale da destinare all'estero, di cui all'[articolo 1 della legge 25 agosto 1982, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-25;604#art_1), sono indetti ogni triennio.
+Gli esami relativi alle procedure per la selezione del personale da destinare all'estero, di cui all'[articolo 1 della legge 25 agosto 1982, n. 604](Revisione%20della%20disciplina%20sulla%20destinazione%20del%20personale%20di%20ruolo%20dello%20Stato%20alle%20istituzioni%20scolastiche%20e%20culturali%20italiane%20funzionanti%20allestero%20nonche%20ai%20connessi%20servizi%20del%20Min_ec5940a07994.md), sono indetti ogni triennio.
 
 2.
 
@@ -389,11 +389,11 @@ Coloro i quali sono inseriti nelle graduatorie dei concorsi per soli titoli hann
 
 4.
 
-La precedenza assoluta di cui all'[articolo 17, comma 5, del decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_17-com5), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246), si applica nell'ambito della provincia nelle cui graduatorie l'interessato si trovi inserito ai fini del conferimento delle supplenze annuali e temporanee.
+La precedenza assoluta di cui all'[articolo 17, comma 5, del decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_17-com5), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201988%20n.%20140%20recante%20misure%20urgenti%20per%20il%20personale%20della%20scuola.md), si applica nell'ambito della provincia nelle cui graduatorie l'interessato si trovi inserito ai fini del conferimento delle supplenze annuali e temporanee.
 
 5.
 
-La precedenza assoluta di cui al comma 3 opera dopo quella prevista dal [comma 5 dell'articolo 17 del decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_17-com5), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246).
+La precedenza assoluta di cui al comma 3 opera dopo quella prevista dal [comma 5 dell'articolo 17 del decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_17-com5), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201988%20n.%20140%20recante%20misure%20urgenti%20per%20il%20personale%20della%20scuola.md).
 
 6.
 
@@ -449,7 +449,7 @@ Le dimissioni presentate dopo tale data, ma prima dell'inizio dell'anno scolasti
 
 6.
 
-La richiesta di permanenza in servizio prevista dall'[articolo 15, secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477#art_15-com2) e [terzo comma, della legge 30 luglio 1973, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477#art_15-com3), deve essere prodotta, a pena di decadenza, entro il 31 marzo dell'anno di compimento del sessantacinquesimo anno di eta'. Tale richiesta e' inammissibile se prodotta da chi ha maturato il servizio utile, secondo quanto previsto dall'[articolo 40 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-12-29;1092#art_40), e comprensivo di tutti i servizi e periodi riscattati e computabili ai fini della quiescenza, che e' necessario per il raggiungimento del massimo della pensione.
+La richiesta di permanenza in servizio prevista dall'[articolo 15, secondo](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md) e [terzo comma, della legge 30 luglio 1973, n. 477](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20sullo%20stato%20giuridico%20del%20personale%20direttivo%20ispettivo%20docente%20e%20non%20docente%20della%20scuola%20materna%20elementare%20secondaria%20e%20artistica%20dello%20Stato.md), deve essere prodotta, a pena di decadenza, entro il 31 marzo dell'anno di compimento del sessantacinquesimo anno di eta'. Tale richiesta e' inammissibile se prodotta da chi ha maturato il servizio utile, secondo quanto previsto dall'[articolo 40 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), e comprensivo di tutti i servizi e periodi riscattati e computabili ai fini della quiescenza, che e' necessario per il raggiungimento del massimo della pensione.
 
 ## Art. 11.
 
@@ -459,11 +459,11 @@ In prima applicazione delle disposizioni recate dall'articolo 2 per l'ammissione
 
 2.
 
-In prima applicazione delle disposizioni recate dal presente decreto, si prescinde dal requisito del superamento delle prove di un precedente concorso per titoli ed esami per l'ammissione ai concorsi per soli titoli a posti di insegnante tecnico pratico, di insegnante di arte applicata, di personale educativo dei convitti nazionali, degli educandati femminili dello Stato e delle altre istituzioni educative, di personale docente ed assistente, di assistente educatrice, di accompagnatore al pianoforte e di pianista accompagnatore dei conservatori di musica, delle Accademie di belle arti e delle Accademie nazionali di arte drammatica e di danza, nonche' a posti di sostegno nella scuola elementare, purche' il personale interessato sia in possesso del titolo di specializzazione di cui all'[articolo 8 del decreto del Presidente della Repubblica 31 ottobre 1975, n. 970](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-31;970#art_8).
+In prima applicazione delle disposizioni recate dal presente decreto, si prescinde dal requisito del superamento delle prove di un precedente concorso per titoli ed esami per l'ammissione ai concorsi per soli titoli a posti di insegnante tecnico pratico, di insegnante di arte applicata, di personale educativo dei convitti nazionali, degli educandati femminili dello Stato e delle altre istituzioni educative, di personale docente ed assistente, di assistente educatrice, di accompagnatore al pianoforte e di pianista accompagnatore dei conservatori di musica, delle Accademie di belle arti e delle Accademie nazionali di arte drammatica e di danza, nonche' a posti di sostegno nella scuola elementare, purche' il personale interessato sia in possesso del titolo di specializzazione di cui all'[articolo 8 del decreto del Presidente della Repubblica 31 ottobre 1975, n. 970](../DPR/Norme%20in%20materia%20di%20scuole%20aventi%20particolari%20finalita.md).
 
 3.
 
-I docenti non abilitati della scuola materna e della scuola secondaria, ivi compresi i licei artistici e gli istituti d'arte, con i requisiti di servizio di cui al comma 1, hanno titolo a partecipare ad una sessione riservata per il conseguimento dell'abilitazione all'insegnamento, da indire entro quarantacinque giorni dalla data di entrata in vigore del presente decreto, secondo le modalita' di cui all'[articolo 3 del decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_3), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246). L'abilitazione conseguita ai sensi del presente comma e' valida anche ai fini di cui al comma 10, lettera a), dell'articolo 2.
+I docenti non abilitati della scuola materna e della scuola secondaria, ivi compresi i licei artistici e gli istituti d'arte, con i requisiti di servizio di cui al comma 1, hanno titolo a partecipare ad una sessione riservata per il conseguimento dell'abilitazione all'insegnamento, da indire entro quarantacinque giorni dalla data di entrata in vigore del presente decreto, secondo le modalita' di cui all'[articolo 3 del decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_3), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201988%20n.%20140%20recante%20misure%20urgenti%20per%20il%20personale%20della%20scuola.md). L'abilitazione conseguita ai sensi del presente comma e' valida anche ai fini di cui al comma 10, lettera a), dell'articolo 2.
 
 4.
 
@@ -471,7 +471,7 @@ I coordinatori amministrativi che abbiano prestato un anno di servizio con nomin
 
 5.
 
-Alle nomine da disporre in base alle graduatorie relative al concorso per soli titoli da bandire in prima applicazione del presente decreto si provvede soltanto dopo l'esaurimento delle corrispondenti graduatorie da compilare ai sensi dell'[articolo 17 del decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_17), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246), e trasformate in graduatorie nazionali dall'[articolo 8-bis del decreto-legge 6 agosto 1988, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323#art_8bis), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-06;426). Si applicano le norme di cui ai commi 12 e 13 dell'articolo 6.
+Alle nomine da disporre in base alle graduatorie relative al concorso per soli titoli da bandire in prima applicazione del presente decreto si provvede soltanto dopo l'esaurimento delle corrispondenti graduatorie da compilare ai sensi dell'[articolo 17 del decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_17), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201988%20n.%20140%20recante%20misure%20urgenti%20per%20il%20personale%20della%20scuola.md), e trasformate in graduatorie nazionali dall'[articolo 8-bis del decreto-legge 6 agosto 1988, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323#art_8bis), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20agosto%201988%20n.%20323%20recante%20finanziamento%20del%20contratto%20del%20personale%20della%20scuola%20per%20il%20triennio%201988-1990%20e%20norme%20per%20la%20razio_ce91d16799a8.md). Si applicano le norme di cui ai commi 12 e 13 dell'articolo 6.
 
 ## Art. 12.
 
@@ -481,7 +481,7 @@ In prima applicazione del presente decreto, il Ministro della pubblica istruzion
 
 2.
 
-Alle graduatorie del concorso per soli titoli indetto ai sensi del comma 1 sono attribuiti tutti i posti, compresi quelli destinati nella misura del 50 per cento al corrispondente concorso per titoli ed esami, che siano disponibili e vacanti all'inizio dell'anno scolastico 1989-90 dopo l'esaurimento delle relative graduatorie nazionali compilate ai sensi dell'[articolo 8-bis del decreto-legge 6 agosto 1988, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323#art_8bis), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-06;426), e delle graduatorie provinciali di cui agli [articoli 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270#art_43) e [44 della legge 20 maggio 1982, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270#art_44), nonche' di eventuali graduatorie, ancora valide, di precedenti concorsi per titoli ed esami e, per gli assistenti delle Accademie di belle arti, per soli titoli.
+Alle graduatorie del concorso per soli titoli indetto ai sensi del comma 1 sono attribuiti tutti i posti, compresi quelli destinati nella misura del 50 per cento al corrispondente concorso per titoli ed esami, che siano disponibili e vacanti all'inizio dell'anno scolastico 1989-90 dopo l'esaurimento delle relative graduatorie nazionali compilate ai sensi dell'[articolo 8-bis del decreto-legge 6 agosto 1988, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323#art_8bis), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20agosto%201988%20n.%20323%20recante%20finanziamento%20del%20contratto%20del%20personale%20della%20scuola%20per%20il%20triennio%201988-1990%20e%20norme%20per%20la%20razio_ce91d16799a8.md), e delle graduatorie provinciali di cui agli [articoli 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270#art_43) e [44 della legge 20 maggio 1982, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270#art_44), nonche' di eventuali graduatorie, ancora valide, di precedenti concorsi per titoli ed esami e, per gli assistenti delle Accademie di belle arti, per soli titoli.
 
 3.
 
@@ -495,7 +495,7 @@ Nei riguardi del personale docente, amministrativo, tecnico ed ausiliario, degli
                         a)
                             alla concessione dei congedi straordinari e delle aspettative, per qualsiasi motivo essi siano richiesti;
                         b)
-                            all'irrogazione delle sanzioni disciplinari dell'avvertimento scritto e della censura, di cui all'[articolo 94 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_94).
+                            all'irrogazione delle sanzioni disciplinari dell'avvertimento scritto e della censura, di cui all'[articolo 94 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md).
 
 2.
 
@@ -515,7 +515,7 @@ Le funzioni di controllo sui provvedimenti di competenza dei direttori sono svol
 
 4.
 
-Per il periodo di prova del personale docente e del personale ad esso assimilato previsto dal presente articolo, da effettuare ai sensi dell'[articolo 58 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_58), non si applica il disposto di cui all'[articolo 2 della legge 20 maggio 1982, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270#art_2), nella parte in cui disciplina l'anno di formazione.
+Per il periodo di prova del personale docente e del personale ad esso assimilato previsto dal presente articolo, da effettuare ai sensi dell'[articolo 58 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md), non si applica il disposto di cui all'[articolo 2 della legge 20 maggio 1982, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270#art_2), nella parte in cui disciplina l'anno di formazione.
 
 ## Art. 14.
 
@@ -543,27 +543,27 @@ Le nomine dei vincitori sono disposte dallo stesso organo competente ad indire i
 
 4.
 
-Gli elenchi del personale direttivo e docente da nominare nelle commissioni giudicatrici sono compilati, ogni quadriennio, dal consiglio scolastico provinciale e, per le scuole con lingua d'insegnamento slovena, dalla commissione di cui all'[articolo 9 della legge 23 dicembre 1973, n. 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-23;932#art_9). Non si applica il disposto di cui all'[articolo 12, secondo comma, del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_12-com2).
+Gli elenchi del personale direttivo e docente da nominare nelle commissioni giudicatrici sono compilati, ogni quadriennio, dal consiglio scolastico provinciale e, per le scuole con lingua d'insegnamento slovena, dalla commissione di cui all'[articolo 9 della legge 23 dicembre 1973, n. 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-23;932#art_9). Non si applica il disposto di cui all'[articolo 12, secondo comma, del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md).
 
 5.
 
-Al reclutamento del personale insegnante di cui al comma 1 continuano ad applicarsi i rispettivi [articoli 45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_45), [46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_46), [47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_47), [48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_48) e [51 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_51).
+Al reclutamento del personale insegnante di cui al comma 1 continuano ad applicarsi i rispettivi [articoli 45](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md), [46](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md), [47](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md), [48](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md) e [51 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md).
 
 6.
 
-Ai fini dell'applicazione dell'[articolo 24, comma 12, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_24-com12), per lo svolgimento delle attivita' di cui ai [commi 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270#art_14-com6) e [9 dell'articolo 14 della legge 20 maggio 1982, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270#art_14-com9), nelle scuole di cui al presente articolo si provvede anche con personale supplente nel limite del 15 per cento delle dotazioni aggiuntive, qualora i relativi posti non siano coperti.
+Ai fini dell'applicazione dell'[articolo 24, comma 12, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), per lo svolgimento delle attivita' di cui ai [commi 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270#art_14-com6) e [9 dell'articolo 14 della legge 20 maggio 1982, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270#art_14-com9), nelle scuole di cui al presente articolo si provvede anche con personale supplente nel limite del 15 per cento delle dotazioni aggiuntive, qualora i relativi posti non siano coperti.
 
 ## Art. 16.
 
 1.
 
-L'anzianita' di servizio effettivo nel ruolo di appartenenza, prevista dall'[articolo 77, primo comma, del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_77-com1), e dall'annessa tabella H per i passaggi di ruolo, e' ridotta a due anni di servizio effettivamente prestato dopo la nomina in ruolo.
+L'anzianita' di servizio effettivo nel ruolo di appartenenza, prevista dall'[articolo 77, primo comma, del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md), e dall'annessa tabella H per i passaggi di ruolo, e' ridotta a due anni di servizio effettivamente prestato dopo la nomina in ruolo.
 
 ## Art. 17.
 
 1.
 
-Il personale amministrativo, tecnico ad ausiliario non di ruolo che abbia prestato almeno due anni di servizio, in tutto o in parte, in qualifiche superiori a quelle per le quali i concorsi sono stati indetti, ha titolo a partecipare ai concorsi per la carriera immediatamente inferiore, indetti ai sensi dell'[articolo 10 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;420#art_10).
+Il personale amministrativo, tecnico ad ausiliario non di ruolo che abbia prestato almeno due anni di servizio, in tutto o in parte, in qualifiche superiori a quelle per le quali i concorsi sono stati indetti, ha titolo a partecipare ai concorsi per la carriera immediatamente inferiore, indetti ai sensi dell'[articolo 10 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20non%20insegnante%20statale%20delle%20scuole%20materne%20elementari%20secondarie%20ed%20artistiche.md).
 
 2.
 
@@ -573,24 +573,24 @@ Il servizio svolto presso le istituzioni scolastiche statali per almeno tre anni
 
 Le deroghe apportate ai sensi dell'[articolo 6-bis del
 decreto-legge 2 marzo 1987, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-03-02;57#art_6bis), convertito, con modificazioni,
-dalla [legge 22 aprile 1987, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-22;158), ai titoli di studio previsti dal [decreto del Presidente della Repubblica 7 marzo 1985, n. 588](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-03-07;588), sono
+dalla [legge 22 aprile 1987, n. 158](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201987%20n.%2057%20recante%20disposizioni%20urgenti%20per%20i%20ricercatori%20universitari%20e%20per%20lattuazione%20del%20disposto%20di%20cui%20allarticolo%202_57028044d8ac.md), ai titoli di studio previsti dal [decreto del Presidente della Repubblica 7 marzo 1985, n. 588](../DPR/Profili%20professionali%20delle%20qualifiche%20del%20personale%20non%20docente%20appartenente%20ai%20ruoli%20dello%20Stato%20degli%20istituti%20o%20scuole%20di%20Istruzione%20primaria%20secondaria%20ed%20artistica%20ivi%20compresi%20le%20a_8e3060d001af.md), sono
 valide anche ai fini dei requisiti richiesti per i passaggi di ruolo da un profilo ad un altro della medesima qualifica funzionale.
 
 4.
 
-Il personale ATA che ha conseguito una idoneita' nei concorsi banditi ai sensi dell'[articolo 9 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;420#art_9), e' incluso nelle graduatorie provinciali per il conferimento delle supplenze del personale ATA, ancorche' non in possesso dei titoli di studio specifici previsti dall'[articolo 3 dell'ordinanza ministeriale n. 306 del 31 ottobre 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:ordinanza:1988-10-31;306#art_3).
+Il personale ATA che ha conseguito una idoneita' nei concorsi banditi ai sensi dell'[articolo 9 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20non%20insegnante%20statale%20delle%20scuole%20materne%20elementari%20secondarie%20ed%20artistiche.md), e' incluso nelle graduatorie provinciali per il conferimento delle supplenze del personale ATA, ancorche' non in possesso dei titoli di studio specifici previsti dall'[articolo 3 dell'ordinanza ministeriale n. 306 del 31 ottobre 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:ordinanza:1988-10-31;306#art_3).
 
 ## Art. 18.
 
 1.
 
-I posti disponibili e vacanti per i concorsi ordinari a posti di coordinatore amministrativo successivamente al completamento delle operazioni di inquadramento in ruolo ai sensi degli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_14) e [17 del decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_17), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246), fino all'approvazione delle graduatorie relative ai concorsi indetti in base alle disposizioni del presente decreto sono conferiti agli idonei dei concorsi ordinari gia' espletati oppure in via di espletamento, in base alle relative graduatorie.
+I posti disponibili e vacanti per i concorsi ordinari a posti di coordinatore amministrativo successivamente al completamento delle operazioni di inquadramento in ruolo ai sensi degli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_14) e [17 del decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140#art_17), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201988%20n.%20140%20recante%20misure%20urgenti%20per%20il%20personale%20della%20scuola.md), fino all'approvazione delle graduatorie relative ai concorsi indetti in base alle disposizioni del presente decreto sono conferiti agli idonei dei concorsi ordinari gia' espletati oppure in via di espletamento, in base alle relative graduatorie.
 
 ## Art. 19.
 
 1.
 
-Le operazioni di utilizzazione sui posti di sostegno del personale docente di ruolo privo del prescritto titolo di specializzazione si svolgono con priorita' rispetto alle nomine del personale docente non di ruolo in possesso del predetto titolo e dopo aver accantonato un numero di posti pari a quello necessario per le suddette nomine da disporre ai sensi dell'[articolo 7, comma 13, della legge 22 dicembre 1984, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887#art_7-com13).
+Le operazioni di utilizzazione sui posti di sostegno del personale docente di ruolo privo del prescritto titolo di specializzazione si svolgono con priorita' rispetto alle nomine del personale docente non di ruolo in possesso del predetto titolo e dopo aver accantonato un numero di posti pari a quello necessario per le suddette nomine da disporre ai sensi dell'[articolo 7, comma 13, della legge 22 dicembre 1984, n. 887](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201985.md).
 
 ## Art. 20.
 
@@ -608,7 +608,7 @@ Le disposizioni di cui all'[articolo 3 della legge 29 dicembre 1988, n. 554](htt
 
 1.
 
-Negli istituti e nelle scuole d'istruzione secondaria, ivi compresi i licei artistici e gli istituti d'arte, con un numero di classi inferiore a quello previsto dall'[articolo 2, comma 3, del decreto-legge 6 agosto 1988, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323#art_2-com3), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-06;426), non si da' luogo ad incarico di presidenza nei casi previsti dalle vigenti disposizioni, tranne che si tratti di tipo d'istituto del quale non esiste altro nella provincia.
+Negli istituti e nelle scuole d'istruzione secondaria, ivi compresi i licei artistici e gli istituti d'arte, con un numero di classi inferiore a quello previsto dall'[articolo 2, comma 3, del decreto-legge 6 agosto 1988, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323#art_2-com3), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20agosto%201988%20n.%20323%20recante%20finanziamento%20del%20contratto%20del%20personale%20della%20scuola%20per%20il%20triennio%201988-1990%20e%20norme%20per%20la%20razio_ce91d16799a8.md), non si da' luogo ad incarico di presidenza nei casi previsti dalle vigenti disposizioni, tranne che si tratti di tipo d'istituto del quale non esiste altro nella provincia.
 
 2.
 
@@ -632,7 +632,7 @@ I criteri e le modalita' di attuazione di quanto previsto dal comma 1 sono defin
 
 1.
 
-Il [quarto comma dell'articolo 62 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-31;417#art_62-com4), e' abrogato.
+Il [quarto comma dell'articolo 62 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](../DPR/Norme%20sullo%20stato%20giuridico%20del%20personale%20docente%20direttivo%20ed%20ispettivo%20della%20scuola%20materna%20elementare%20secondaria%20ed%20artistica%20dello%20Stato.md), e' abrogato.
 
 ## Art. 25.
 

@@ -31,7 +31,7 @@ Gli insegnanti di ruolo della scuola elementare, secondaria e artistica, che han
 
 ## Art. 4.
 
-Per gli insegnanti degli istituti di istruzione secondaria ed artistica con lingua d'insegnamento tedesca e slovena, i concorsi per merito distinto sono indetti con decreto del provveditore agli studi competente per territorio, il quale provvedera' altresi' all'espletamento dei concorsi secondo le procedure stabilite dal [decreto del Presidente della Repubblica 19 gennaio 1960, n. 1743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-01-19;1743).
+Per gli insegnanti degli istituti di istruzione secondaria ed artistica con lingua d'insegnamento tedesca e slovena, i concorsi per merito distinto sono indetti con decreto del provveditore agli studi competente per territorio, il quale provvedera' altresi' all'espletamento dei concorsi secondo le procedure stabilite dal [decreto del Presidente della Repubblica 19 gennaio 1960, n. 1743](../DPR/Regolamento%20concernente%20i%20concorsi%20per%20merito%20distinto%20riservati%20agli%20insegnanti%20degli%20Istituti%20statali%20di%20istruzione%20secondaria%20e%20artistica%20e%20lo%20scrutinio%20per%20lattribuzione%20anticipata%20ag_5afcaca5b7c1.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

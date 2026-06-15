@@ -22,7 +22,7 @@ Visto l'[art. 6 della legge 4 agosto 1955, n. 692](https://www.normattiva.it/uri
 
 Visto l'[art. 1 della legge 14 aprile 1956, n. 307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-04-14;307#art_1);
 
-Visto il [decreto Presidenziale 11 marzo 1958, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-03-11;371);
+Visto il [decreto Presidenziale 11 marzo 1958, n. 371](../DPR/Modificazione%20delle%20misure%20dei%20contributi%20dovuti%20per%20lassicurazione%20obbligatoria%20contro%20le%20malattie%20per%20i%20lavoratori%20assistiti%20dallIstituto%20nazionale%20per%20lassicurazione%20contro%20le%20malattie.md);
 
 Sentito il Consiglio dei Ministri;
 

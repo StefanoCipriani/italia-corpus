@@ -50,11 +50,11 @@ Per gli anni 1943 e 1944 vengono conformati i contributi indicati all'art. 1, le
 
 Per l'assicurazione degli infortuni sul lavoro in agricoltura, per le categorie di cui all'art. 1, lettere a), b), c), la rispettiva quota sara' fissata per ogni provincia dal Ministro per il lavoro e la previdenza sociale. 
  
- In quelle provincie nelle quali il riferimento alle giornate di lavoro possa risultare equivalente al riferimento all'estimo catastale, la quota relativa potra' essere, d'accordo con il Ministro per le finanze ed ai sensi del [1° comma dell'art. 3 della legge 16 giugno 1939, n. 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-16;942#art_3-com1), inscritta nei ruoli dell'imposta fondiaria.
+ In quelle provincie nelle quali il riferimento alle giornate di lavoro possa risultare equivalente al riferimento all'estimo catastale, la quota relativa potra' essere, d'accordo con il Ministro per le finanze ed ai sensi del [1° comma dell'art. 3 della legge 16 giugno 1939, n. 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md), inscritta nei ruoli dell'imposta fondiaria.
 
 ## Art. 4.
 
-Le quote indicate all'art. 1 si applicheranno alle giornate di lavoro accertate nei confronti delle singole aziende a norma del [R. decreto-legge 28 novembre 1938, n. 2138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;2138), e delle relative disposizioni di attuazione. 
+Le quote indicate all'art. 1 si applicheranno alle giornate di lavoro accertate nei confronti delle singole aziende a norma del [R. decreto-legge 28 novembre 1938, n. 2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md), e delle relative disposizioni di attuazione. 
  
  Nei confronti di quelle aziende nelle quali prestano la propria opera salariati fissi, il numero delle giornate da essi impiegate sara' considerato ai fini della applicazione dei contributi di cui all'art. 1 lettera a) in 290. Ove i predetti salariali siano addetti alle colture ed al bestiame, tali giornate verranno detratte da quelle complessivamente attribuite all'azienda per la coltivazione dei fondi e per il bestiame. 
  

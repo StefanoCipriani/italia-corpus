@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549), ed in particolare l'articolo 1, comma 1, lettera b), recante delega al Governo per procedere alla ristrutturazione e all'accorpamento, in modo tale da ridurne il numero, delle direzioni generali e degli uffici centrali;
+Vista la [legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), ed in particolare l'articolo 1, comma 1, lettera b), recante delega al Governo per procedere alla ristrutturazione e all'accorpamento, in modo tale da ridurne il numero, delle direzioni generali e degli uffici centrali;
 
-Vista la [legge 18 febbraio 1997, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-02-18;25), recante attribuzioni del Ministro della difesa, ristrutturazione dei vertici delle Forze armate e dell'Amministrazione della difesa;
+Vista la [legge 18 febbraio 1997, n. 25](Attribuzioni%20del%20Ministro%20della%20difesa%20ristrutturazione%20dei%20vertici%20delle%20Forze%20armate%20e%20dellAmministrazione%20della%20difesa.md), recante attribuzioni del Ministro della difesa, ristrutturazione dei vertici delle Forze armate e dell'Amministrazione della difesa;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 aprile 1997;
 
-Acquisiti i pareri delle competenti commissioni permanenti della Camera dei deputati e del Senato della Repubblica di cui all'articolo 1, comma 2, della citata [legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549);
+Acquisiti i pareri delle competenti commissioni permanenti della Camera dei deputati e del Senato della Repubblica di cui all'articolo 1, comma 2, della citata [legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 luglio 1997;
 
@@ -32,17 +32,17 @@ Emana il seguente decreto legislativo:
 
 All'organizzazione centrale del Ministero della difesa stabilita dal [decreto del Presidente della Repubblica 18 novembre 1965, n. 1478](Riorganizzazione%20degli%20uffici%20centrali%20del%20Ministero%20della%20difesa.md), di seguito denominato "decreto", sono apportate le modifiche di cui al presente decreto legislativo.
  Avvertenza:
- Il testo delle note qui pubblicato e' redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui' trascritti.
+ Il testo delle note qui pubblicato e' redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui' trascritti.
 
 Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - La [legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549), recante "Misure di razionalizzazione della finanza pubblica" e' pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 24 del 30 gennaio 1996 - serie generale. Il testo dell'art. 1, comma 1, lettera b), della citata legge e' il seguente:
+ - La [legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), recante "Misure di razionalizzazione della finanza pubblica" e' pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 24 del 30 gennaio 1996 - serie generale. Il testo dell'art. 1, comma 1, lettera b), della citata legge e' il seguente:
  "1. Il Governo della Repubblica e' delegato ad emanare, entro cinque mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi volti a:
  a) (omissis);
  b) procedere alla ristrutturazione e all'accorpamento, in modo tale da ridurne il numero, delle direzioni generali e degli uffici centrali".
- - La [legge 18 febbraio 1997, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-02-18;25), recante: "Attribuzioni del Ministro della difesa, ristrutturazione dei vertici delle Forze armate e dell'Amministrazione della difesa" e' pubblicata nella Gazzetta Ufficiale n. 45 del 24 febbraio 1997.
- - Il testo dell'[art. 1, comma 2, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com2), anzidetta e' il seguente: "2. Il Governo trasmette alla Camera dei deputati ed al Senato della Repubblica gli schemi dei decreti legislativi di cui al comma 1, al fine dell'espressione del parere da parte delle competenti Commissioni permanenti, da rendere entro sessanta giorni dalla data di trasmissione".
+ - La [legge 18 febbraio 1997, n. 25](Attribuzioni%20del%20Ministro%20della%20difesa%20ristrutturazione%20dei%20vertici%20delle%20Forze%20armate%20e%20dellAmministrazione%20della%20difesa.md), recante: "Attribuzioni del Ministro della difesa, ristrutturazione dei vertici delle Forze armate e dell'Amministrazione della difesa" e' pubblicata nella Gazzetta Ufficiale n. 45 del 24 febbraio 1997.
+ - Il testo dell'[art. 1, comma 2, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), anzidetta e' il seguente: "2. Il Governo trasmette alla Camera dei deputati ed al Senato della Repubblica gli schemi dei decreti legislativi di cui al comma 1, al fine dell'espressione del parere da parte delle competenti Commissioni permanenti, da rendere entro sessanta giorni dalla data di trasmissione".
  Nota all'art. 1:
  - Il testo del [D.P.R. 18 novembre 1965, n. 1478](Riorganizzazione%20degli%20uffici%20centrali%20del%20Ministero%20della%20difesa.md), recante "Riorganizzazione degli uffici centrali del Ministero della difesa", e' pubblicato nella Gazzetta Ufficiale 15 gennaio 1996, n. 11 - supplemento ordinario.
 
@@ -168,7 +168,7 @@ E' istituita la Direzione generale per il personale militare. Ad essa sono attri
 
 2.
 
-Con l'adozione e nei termini previsti dal regolamento attuativo della [legge 18 febbraio 1997, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-02-18;25), la Direzione generale di cui al comma 1, cessa l'attivita' relativa all'impiego del personale, che transita in ambito Forze armate.
+Con l'adozione e nei termini previsti dal regolamento attuativo della [legge 18 febbraio 1997, n. 25](Attribuzioni%20del%20Ministro%20della%20difesa%20ristrutturazione%20dei%20vertici%20delle%20Forze%20armate%20e%20dellAmministrazione%20della%20difesa.md), la Direzione generale di cui al comma 1, cessa l'attivita' relativa all'impiego del personale, che transita in ambito Forze armate.
 
 3.
 
@@ -193,7 +193,7 @@ Nota all'art. 6:
  al reclutamento degli ufficiali, dei sottufficiali e dei militari di truppa a ferma volontaria dell'Aeronautica; allo stato, all'avanzamento, alla disciplina, alla documentazione caratteristica e matricolare e al trattamento economico degli ufficiali, dei sottufficiali e dei militari di truppa dell'Aeronautica, nonche' al loro impiego, feme restando, per quanto riguarda quest'ultimo, le attribuzioni dei capi di Stato Maggiore;
  alla concessione e perdita di ricompense, distinzioni onorifiche e onorificenze per il personale militare dell'Aeronautica;
  all'amministrazione dei capitoli di bilancio relativi alle materie sopraindicate, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52)".
- - Per quanto riguarda la [legge 18 febbraio 1997, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-02-18;25), vds. nota alle premesse.
+ - Per quanto riguarda la [legge 18 febbraio 1997, n. 25](Attribuzioni%20del%20Ministro%20della%20difesa%20ristrutturazione%20dei%20vertici%20delle%20Forze%20armate%20e%20dellAmministrazione%20della%20difesa.md), vds. nota alle premesse.
 
 ## Art. 7.
 
@@ -381,10 +381,10 @@ L'articolo 9 del decreto e' sostituito dal seguente:
  c) a svolgere attivita' di consulenza finanziaria ed economica sulla gestione dei fondi, nonche' studi e applicazioni in materia di bilancio fornendo le indicazioni tecniche ai fini dell'esame e valutazione del bilancio consuntivo;
  d) a promuovere direttive di carattere generale, in relazione all'esercizio del bilancio ed ai risultati delle verifiche amministrative e contabili;
  e) a svolgere attivita' di carattere amministrativo in merito alla cooperazione internazionale ed alle problematiche di natura fiscale in ambito infracomunitario;
- f) a monitorizzare i flussi dei singoli capitoli a favore degli enti programmatori, ferma restando le attribuzioni del Segretario generale fissate con l'[articolo 6 della legge 20 febbraio 1981, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-02-20;30#art_6).".
+ f) a monitorizzare i flussi dei singoli capitoli a favore degli enti programmatori, ferma restando le attribuzioni del Segretario generale fissate con l'[articolo 6 della legge 20 febbraio 1981, n. 30](Istituzione%20di%20direzioni%20di%20amministrazione%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md).".
 
 Nota all'art. 16:
- - Il testo dell'[art. 6 della legge 20 febbraio 1981, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-02-20;30#art_6), e' il seguente:
+ - Il testo dell'[art. 6 della legge 20 febbraio 1981, n. 30](Istituzione%20di%20direzioni%20di%20amministrazione%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e' il seguente:
  "Art. 6 (Istituzione di un reparto per il coordinamento amministrativo). - Nell'ambito dell'ufficio del segretario generale della Difesa e' istituito un reparto per il coordinamento amministrativo, retto da un ufficiale generale o ammiraglio dei servizi o corpi tecnicoamministrativi.
  La direzione di amministrazione istituita con il precedente art. 5 e' posta alle dipendenze del predetto reparto.
  Sono attribuite al capo del predetto reparto di coordinamento amministrativo le funzioni previste dalla normativa vigente per i comandanti di regione militare, di dipartimento militare marittimo e di regione aerea in ordine alla gestione degli enti dipendenti dalla direzione di amministrazione di cui all'articolo precedente.

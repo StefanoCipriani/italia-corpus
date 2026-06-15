@@ -20,21 +20,21 @@ Ai servizi del commissariato generale anticoccidico e per la lotta contro il mal
 
 ## Art. 2.
 
-Gli impiegati attualmente in servizio alle dipendenze del commissariato almeno dalla data del 31 marzo 1964 sono inquadrati nei ruoli ad esaurimento istituiti con [decreto del Presidente della Repubblica 24 novembre 1965, n. 1653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-11-24;1653), secondo le modalita' di cui ai successivi articoli 3 e 4.
+Gli impiegati attualmente in servizio alle dipendenze del commissariato almeno dalla data del 31 marzo 1964 sono inquadrati nei ruoli ad esaurimento istituiti con [decreto del Presidente della Repubblica 24 novembre 1965, n. 1653](../DPR/Istituzione%20dei%20ruoli%20ad%20esaurimento%20per%20il%20personale%20degli%20Enti%20e%20Sezioni%20di%20riforma%20fondiaria.md), secondo le modalita' di cui ai successivi articoli 3 e 4.
  Gli operai attualmente in servizio alle dipendenze del commissariato da data anteriore al 10 gennaio 1960 sono inquadrati nel ruolo degli operai permanenti del Ministero dell'agricoltura e delle foreste secondo le modalita' di cui al successivo articolo 5.
 
 ## Art. 3.
 
 L'inquadramento di cui all'articolo precedente e' effettuato nella carriera di appartenenza e nella qualifica corrispondente all'ex coefficiente di stipendio fruito alla data del 31 dicembre 1967.
  Il personale dovra' a tal fine possedere il titolo di studio prescritto per l'assunzione nei ruoli e nella carriera di inquadramento ed avere effettivamente svolto le funzioni proprie della qualifica di appartenenza.
- Detto personale dovra' altresi' avere comunque maturato presso il commissariato una anzianita' - valutata secondo le disposizioni di cui all'ultimo comma del presente articolo - non inferiore a quella minima prevista dal [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), per conseguire la qualifica di inquadramento.
+ Detto personale dovra' altresi' avere comunque maturato presso il commissariato una anzianita' - valutata secondo le disposizioni di cui all'ultimo comma del presente articolo - non inferiore a quella minima prevista dal [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), per conseguire la qualifica di inquadramento.
  Ai fini dell'inquadramento in una qualifica successiva a quella a ruolo aperto si considera il periodo di undici anni richiesto per l'esame di idoneita' se trattasi di carriere direttive e di concetto ed il periodo di tredici anni se trattasi di carriera esecutiva.
  Agli effetti del riconoscimento delle anzianita' nella carriera e nella qualifica di inquadramento il servizio prestato alle dipendenze del commissariato e' valutato per intero.
 
 ## Art. 4.
 
-Il personale assunto dal commissariato nelle categorie non di ruolo e' inquadrato nelle corrispondenti categorie del personale non di ruolo statale, previsto dal [regio decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), sempreche' in possesso del prescritto titolo di studio, conservando per intero l'anzianita' di servizio non di ruolo maturata presso il commissariato.
- Il personale di cui al precedente comma potra' essere collocato nei ruoli di cui alle tabelle 7° ed 8° allegate al [decreto del Presidente della Repubblica 24 novembre 1965, n. 1653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-11-24;1653), con le modalita' ed alle condizioni previste dalla [legge 4 febbraio 1966, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-02-04;32).
+Il personale assunto dal commissariato nelle categorie non di ruolo e' inquadrato nelle corrispondenti categorie del personale non di ruolo statale, previsto dal [regio decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), sempreche' in possesso del prescritto titolo di studio, conservando per intero l'anzianita' di servizio non di ruolo maturata presso il commissariato.
+ Il personale di cui al precedente comma potra' essere collocato nei ruoli di cui alle tabelle 7° ed 8° allegate al [decreto del Presidente della Repubblica 24 novembre 1965, n. 1653](../DPR/Istituzione%20dei%20ruoli%20ad%20esaurimento%20per%20il%20personale%20degli%20Enti%20e%20Sezioni%20di%20riforma%20fondiaria.md), con le modalita' ed alle condizioni previste dalla [legge 4 febbraio 1966, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-02-04;32).
 
 ## Art. 5.
 
@@ -47,7 +47,7 @@ Il servizio prestato dal personale di cui all'articolo 2 presso il commissariato
 
 ## Art. 7.
 
-Per coloro che non si avvalgano della facolta' di opzione, di cui al secondo comma del precedente articolo, il valore di riscatto delle polizze, accese presso l'Istituto nazionale assicurazione dal commissariato a norma del [regio decreto-legge 8 gennaio 1942, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-01-08;5), e successive integrazioni, sara' versato per intero allo Stato.
+Per coloro che non si avvalgano della facolta' di opzione, di cui al secondo comma del precedente articolo, il valore di riscatto delle polizze, accese presso l'Istituto nazionale assicurazione dal commissariato a norma del [regio decreto-legge 8 gennaio 1942, n. 5](Costituzione%20di%20una%20gestione%20speciale%20degli%20accantonamenti%20dei%20fondi%20per%20le%20indennita%20dovute%20dai%20datori%20di%20lavoro%20ai%20propri%20impiegati%20in%20caso%20di%20risoluzione%20del%20rapporto%20dimpiego.%20042U0005.md), e successive integrazioni, sara' versato per intero allo Stato.
  Detto valore sara' calcolato con riferimento alla data del decreto di inquadramento.
 
 ## Art. 8.

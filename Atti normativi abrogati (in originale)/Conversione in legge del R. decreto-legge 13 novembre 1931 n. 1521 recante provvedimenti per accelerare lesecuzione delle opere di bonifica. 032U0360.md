@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 novembre 1931, n. 1521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-13;1521), recante provvedimenti per accelerare l'esecuzione delle opere di bonifica. 
+ E' convertito in legge il [R. decreto-legge 13 novembre 1931, n. 1521](Provvedimenti%20per%20accelerare%20lesecuzione%20delle%20opere%20di%20bonifica.%20031U1521.md), recante provvedimenti per accelerare l'esecuzione delle opere di bonifica. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 31 marzo 1932 - Anno X 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto-legge 20 luglio 1932, n. 945](Scioglimento%20del%20Consorzio%20obbligatorio%20per%20lindustria%20solfifera%20siciliana.%20032U0945.md), convertito in [legge 12 gennaio 1933, n. 48](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20luglio%201932%20n.%20945%20relativo%20allo%20scioglimento%20del%20Consorzio%20obbligatorio%20per%20lindustria%20solfifera%20siciliana.%20033U0048.md), ed il [R. decreto 22 ottobre 1932, n. 1379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-22;1379);
+Visto il [R. decreto-legge 20 luglio 1932, n. 945](Scioglimento%20del%20Consorzio%20obbligatorio%20per%20lindustria%20solfifera%20siciliana.%20032U0945.md), convertito in [legge 12 gennaio 1933, n. 48](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20luglio%201932%20n.%20945%20relativo%20allo%20scioglimento%20del%20Consorzio%20obbligatorio%20per%20lindustria%20solfifera%20siciliana.%20033U0048.md), ed il [R. decreto 22 ottobre 1932, n. 1379](Norme%20per%20la%20esecuzione%20applicazione%20ed%20integrazione%20del%20R.%20decreto-legge%2020%20luglio%201932%20n.%20945%20relativo%20allo%20scioglimento%20del%20Consorzio%20solfifero%20siciliano.%20032U1379.md);
 
 Considerata la necessita' urgente ed assoluta di adottare nuove disposizioni per la liquidazione del Consorzio obbligatorio per l'industria zollifera siciliana, in Palermo;
 

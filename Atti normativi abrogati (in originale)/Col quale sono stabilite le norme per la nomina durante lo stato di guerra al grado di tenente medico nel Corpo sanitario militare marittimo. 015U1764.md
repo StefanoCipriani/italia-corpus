@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Durante lo stato di guerra il concorso a tenente medico in servizio attivo permanente nella R. marina, prescritto dall'[art. 15 della legge 29 giugno 1913, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;797#art_15), sara' esclusivamente per titoli, ma vi potranno partecipare soltanto tenenti e sottotenenti medici di complemento nella R. marina, che alla data di notificazione del concorso, non abbiano oltrepassata l'eta' di 30 anni e contino almeno un anno di servizio e quattro mesi di destinazione, dopo la mobilitazione generale, su RR. navi, ovvero a terra, in zona di guerra o di resistenza.
+Durante lo stato di guerra il concorso a tenente medico in servizio attivo permanente nella R. marina, prescritto dall'[art. 15 della legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), sara' esclusivamente per titoli, ma vi potranno partecipare soltanto tenenti e sottotenenti medici di complemento nella R. marina, che alla data di notificazione del concorso, non abbiano oltrepassata l'eta' di 30 anni e contino almeno un anno di servizio e quattro mesi di destinazione, dopo la mobilitazione generale, su RR. navi, ovvero a terra, in zona di guerra o di resistenza.
 
 ## Art. 2.
 

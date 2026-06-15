@@ -36,7 +36,7 @@ I biglietti di nuova forma da lire dieci da emettersi dallo Stato pel servizio d
  biglietto di Stato 
  a corso legale 
  
- [Legge 7 aprile 1881, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-04-07;133), serie 3, nella parte destra, su tre linee, in eleganti caratteri stampatello pieno filettato, nel contorno, sta la leggenda 
+ [Legge 7 aprile 1881, n. 133](Che%20provvede%20per%20labolizione%20del%20corso%20forzoso%20081U0133.md), serie 3, nella parte destra, su tre linee, in eleganti caratteri stampatello pieno filettato, nel contorno, sta la leggenda 
  
  VALE 
  DIECI 

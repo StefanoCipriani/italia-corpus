@@ -53,7 +53,7 @@ In caso di gravi inadempienze agli obblighi assunti contrattualmente dalle, impr
 ## Art. 6.
 
 Tutte le operazioni previste dal presente decreto e tutti gli atti, contratti e formalita' concernenti le operazioni stesse, comprese anche le obbligazioni di cui all'art. 3, il loro svolgimento e la loro estinzione, la gestione ed il funzionamento del "Fondo" e le convenzioni relative sono esenti da qualsiasi tassa, imposta, o tributo, diretti o indiretti, personali o reali, presenti e futuri, spettanti sia all'Erario dello Stato che agli Enti locali, fatta eccezione:
- della tassa di bollo sulle cambiali, che e' ridotta nella misura prevista dall'[art. 1 della legge 27 luglio 1962, n. 1228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-07-27;1228#art_1);
+ della tassa di bollo sulle cambiali, che e' ridotta nella misura prevista dall'[art. 1 della legge 27 luglio 1962, n. 1228](Trattamento%20tributario%20degli%20Istituti%20di%20credito%20a%20medio%20e%20lungo%20termine.md);
  delle tasse ed imposte sugli atti giudiziari, per le quali l'istituto mobiliare italiano godra' del beneficio riconosciuto per gli atti del gratuito patrocinio;
  degli emolumenti spettanti agli uffici dei registri immobiliari.
 
@@ -72,7 +72,7 @@ Il Ministro per il tesoro, di concerto con i Ministri per il bilancio e per l'in
 
 ## Art. 9.
 
-All'onere di cui al precedente art. 2 si fara' fronte con corrispondente aliquota del maggior gettito derivante dall'applicazione della [legge 15 novembre 1964, n. 1162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-11-15;1162) per il periodo 1 luglio-31 dicembre 1964.
+All'onere di cui al precedente art. 2 si fara' fronte con corrispondente aliquota del maggior gettito derivante dall'applicazione della [legge 15 novembre 1964, n. 1162](Istituzione%20di%20unaddizionale%20allimposta%20generale%20sullentrata.md) per il periodo 1 luglio-31 dicembre 1964.
  Il Ministro per il tesoro e' autorizzato ad apportare, Con propri decreti, le occorrenti variazioni di bilancio.
  Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la sua conversione in legge.
 

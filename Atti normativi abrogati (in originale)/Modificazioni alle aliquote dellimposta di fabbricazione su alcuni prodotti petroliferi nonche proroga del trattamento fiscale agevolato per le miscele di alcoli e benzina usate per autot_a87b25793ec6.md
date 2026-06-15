@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto-legge 28 febbraio 1939, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1939-02-28;334), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), istitutivo di una imposta di fabbricazione sugli oli minerali e sui prodotti della loro lavorazione, e successive modificazioni;
+Visto il [decreto-legge 28 febbraio 1939, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1939-02-28;334), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), istitutivo di una imposta di fabbricazione sugli oli minerali e sui prodotti della loro lavorazione, e successive modificazioni;
 
 Vista la [legge 19 marzo 1973, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-03-19;32), concernente modificazioni al regime fiscale dei prodotti petroliferi e del gas metano, e successive modificazioni;
 
-Visto l'[articolo 2 del decreto-legge 27 febbraio 1984, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-27;15#art_2), convertito, con modificazioni, nella [legge 18 aprile 1984, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;85);
+Visto l'[articolo 2 del decreto-legge 27 febbraio 1984, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-27;15#art_2), convertito, con modificazioni, nella [legge 18 aprile 1984, n. 85](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20febbraio%201984%20n.%2015%20recante%20modificazioni%20al%20regime%20fiscale%20di%20alcuni%20prodotti%20petroliferi%20nonche%20proroga%20del%20trattamento%20fisca_23e76bb1970b.md);
 
 Ritenuta la necessita' e l'urgenza di modificare l'imposta di fabbricazione gravante su alcuni prodotti petroliferi nonche' di prorogare il trattamento fiscale agevolato per le miscele di alcoli e benzina usate per autotrazione nelle prove sperimentali;
 
@@ -51,7 +51,7 @@ Le aliquote ridotte dell'imposta di fabbricazione e della corrispondente sovrimp
 
 ## Art. 2.
 
-Il termine del 13 marzo 1986, stabilito dall'[articolo 2 del decreto-legge 27 febbraio 1984, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-27;15#art_2), convertito, con modificazioni, nella [legge 18 aprile 1984, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;85), per il trattamento fiscale agevolato delle miscele di alcoli e benzina usate per autotrazione nelle prove sperimentali, e' prorogato fino al 30 settembre 1987.
+Il termine del 13 marzo 1986, stabilito dall'[articolo 2 del decreto-legge 27 febbraio 1984, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-27;15#art_2), convertito, con modificazioni, nella [legge 18 aprile 1984, n. 85](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20febbraio%201984%20n.%2015%20recante%20modificazioni%20al%20regime%20fiscale%20di%20alcuni%20prodotti%20petroliferi%20nonche%20proroga%20del%20trattamento%20fisca_23e76bb1970b.md), per il trattamento fiscale agevolato delle miscele di alcoli e benzina usate per autotrazione nelle prove sperimentali, e' prorogato fino al 30 settembre 1987.
 
 ## Art. 3.
 

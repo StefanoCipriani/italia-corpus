@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), sono apportate le seguenti modificazioni:
+Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
                         a)
                             nel comma 1, lettera b), dell'articolo 10 sono aggiunte, in fine, le seguenti parole: "; sono in ogni caso esclusi i contributi agricoli unificati;";
                         b)
@@ -41,13 +41,13 @@ nella ipotesi di beni gia' utilizzati da parte di altri soggetti, le quote di am
 
 2.
 
-Le costruzioni indicate nella lettera a) del comma 1 dell'articolo 39 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), nonche' le altre costruzioni o porzioni di costruzioni destinate ad abitazione di persone devono essere iscritte al catasto edilizio urbano entro il 31 dicembre 1990. Con decreto del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale entro novanta giorni dalla data di entrata in vigore del presente decreto, saranno emanate le norme per l'attuazione della disciplina dettata dalla lettera d) del comma 1 e per le procedure di iscrizione al catasto.
+Le costruzioni indicate nella lettera a) del comma 1 dell'articolo 39 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nonche' le altre costruzioni o porzioni di costruzioni destinate ad abitazione di persone devono essere iscritte al catasto edilizio urbano entro il 31 dicembre 1990. Con decreto del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale entro novanta giorni dalla data di entrata in vigore del presente decreto, saranno emanate le norme per l'attuazione della disciplina dettata dalla lettera d) del comma 1 e per le procedure di iscrizione al catasto.
 
 ## Art. 2.
 
 1.
 
-Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), sono apportate le seguenti modificazioni:
+Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
                         a)
                             nel comma 2 dell'articolo 51 e' aggiunta la seguente lettera: " c) i redditi dei terreni, per la parte derivante dall'esercizio delle attivita' agricole di cui all'articolo 29, pur se nei limiti ivi stabiliti, ove spettino ai soggetti indicati nelle lettere a) e b) del comma 1 dell'articolo 87.";
                         b)
@@ -57,7 +57,7 @@ Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente 
 
 2.
 
-I soggetti indicati nell'articolo 51, comma 2, lettera c), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), che svolgono attivita' di allevamento, sono obbligati a tenere anche le scritture contabili previste dall'[articolo 18- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_18bis).
+I soggetti indicati nell'articolo 51, comma 2, lettera c), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), che svolgono attivita' di allevamento, sono obbligati a tenere anche le scritture contabili previste dall'[articolo 18- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md).
 
 3.
 
@@ -67,7 +67,7 @@ Ai fini della determinazione dell'imposta sul reddito delle persone fisiche, del
 
 1.
 
-Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633), sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), sono apportate le seguenti modificazioni:
                         a)
                             il primo periodo del terzo comma dell'articolo 19 e' sostituito dal seguente: "Se il contribuente ha effettuato anche operazioni esenti ai sensi dell'articolo 10 la detrazione e' ridotta della percentuale corrispondente al rapporto tra l'ammontare delle operazioni esenti effettuate nell'anno e il volume di affari dell'anno stesso, arrotondata all'unita' superiore o inferiore a seconda che la parte decimale superi o meno i cinque decimi.";
                         b)
@@ -83,7 +83,7 @@ Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www
                             il primo, secondo, terzo e quarto comma dell'articolo 38- bis sono sostituiti dai seguenti: 
  "I rimborsi previsti nell'articolo 30 sono eseguiti, su richiesta fatta in sede di dichiarazione annuale, entro tre mesi dalla scadenza del termine di presentazione della dichiarazione prestando, prima dell'esecuzione del rimborso e per la durata di due anni dallo stesso, cauzione in titoli di Stato o garantiti dallo Stato, al valore di borsa, ovvero fideiussione rilasciata da un'azienda o istituto di credito, comprese le casse rurali e artigiane indicate nel primo comma dell'articolo 38, o da una impresa commerciale che a giudizio dell'Amministrazione finanziaria offra adeguate garanzie di solvibilita' o mediante polizza fideiussoria rilasciata da un istituto o impresa di assicurazione. Sulle somme rimborsate si applicano gli interessi in ragione del 9 per cento annuo, con decorrenza dal novantesimo giorno successivo a quello in cui e' stata presentata la dichiarazione, non computando il periodo intercorrente tra la data di notifica della richiesta di documenti e la data della loro consegna, quando superi quindici giorni. 
  Il contribuente puo' ottenere il rimborso in relazione a periodi inferiori all'anno, prestando le garanzie indicate nel comma precedente, nelle ipotesi di cui alle lettere a) e b) del terzo comma dell'articolo 30. 
- Quando sia stato constatato nel relativo periodo di imposta uno dei reati di cui all'[articolo 4, primo comma, n. 5), del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_4-com1-num5), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;516), l'esecuzione dei rimborsi prevista nei commi precedenti e' sospesa, fino a concorrenza dell'ammontare dell'imposta sul valore aggiunto indicata nelle fatture o in altri documenti illecitamente emessi od utilizzati, fino alla definizione del relativo procedimento penale. 
+ Quando sia stato constatato nel relativo periodo di imposta uno dei reati di cui all'[articolo 4, primo comma, n. 5), del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_4-com1-num5), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md), l'esecuzione dei rimborsi prevista nei commi precedenti e' sospesa, fino a concorrenza dell'ammontare dell'imposta sul valore aggiunto indicata nelle fatture o in altri documenti illecitamente emessi od utilizzati, fino alla definizione del relativo procedimento penale. 
  Ai riborsi previsti nei commi precedenti e al pagamento degli interessi provvede il competente ufficio utilizzando i fondi della riscossione, eventualmente aumentati delle somme riscosse da altri uffici dell'imposta sul valore aggiunto. Ai fini della formazione della giacenza occorrente per l'effettuazione dei rimborsi e' autorizzata dilazione per il versamento all'erario dell'imposta riscossa. Ai rimborsi puo' in ogni caso provvedersi con i normali stanziamenti di bilancio.".
 
 ## Art. 4.
@@ -100,7 +100,7 @@ Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](Revisione%2
 
 2.
 
-Fermo restando il disposto dell'articolo 54, ultimo comma, del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e dell'articolo 58, quarto comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_58-com4), del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633), le pendenze tributarie conseguenti alla notifica degli avvisi di accertamento e dei provvedimenti che irrogano le sanzioni possono essere definite con il pagamento, entro sessanta giorni dalla notifica stessa, di una somma corrispondente all'80 per cento del tributo o del maggior tributo accertato, delle soprattasse dovute e delle pene pecuniarie irrogate, qualora l'importo complessivo non risulti superiore a lire cinque milioni.
+Fermo restando il disposto dell'articolo 54, ultimo comma, del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e dell'articolo 58, quarto comma](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), le pendenze tributarie conseguenti alla notifica degli avvisi di accertamento e dei provvedimenti che irrogano le sanzioni possono essere definite con il pagamento, entro sessanta giorni dalla notifica stessa, di una somma corrispondente all'80 per cento del tributo o del maggior tributo accertato, delle soprattasse dovute e delle pene pecuniarie irrogate, qualora l'importo complessivo non risulti superiore a lire cinque milioni.
 
 3.
 
@@ -112,7 +112,7 @@ In qualunque stato e grado del giudizio, le controversie dinanzi le commissioni 
 
 5.
 
-Oltre le somme indicate dall'[articolo 60, secondo comma, n. 1), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_60-com2-num1), e dall'[articolo 15, primo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), devono essere, rispettivamente, pagate od iscritte a ruolo anche quelle riguardanti i relativi interessi.
+Oltre le somme indicate dall'[articolo 60, secondo comma, n. 1), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e dall'[articolo 15, primo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), devono essere, rispettivamente, pagate od iscritte a ruolo anche quelle riguardanti i relativi interessi.
 
 6.
 
@@ -126,7 +126,7 @@ Sulle soprattasse e sulle pene pecuniarie di cui al comma 6 si applicano gli int
 
 1.
 
-Al [decreto-legge 2 marzo 1989, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;66), convertito, con modificazioni, dalla [legge 24 aprile 1989, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144), sono apportate le seguenti modificazioni:
+Al [decreto-legge 2 marzo 1989, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;66), convertito, con modificazioni, dalla [legge 24 aprile 1989, n. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md), sono apportate le seguenti modificazioni:
                         a)
                             nel comma 1 dell'articolo 1 sono aggiunte, in fine, le seguenti parole: "in locali aperti al pubblico o in mercati.";
                         b)
@@ -134,11 +134,11 @@ Al [decreto-legge 2 marzo 1989, n. 66](https://www.normattiva.it/uri-res/N2Ls?ur
 
 2.
 
-Nella tabella allegata al [decreto-legge 2 marzo 1989, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;66), convertito, con modificazioni, dalla [legge 24 aprile 1989, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144), la denominazione del settore di attivita' II e' cosi' modificata: "Di produzione di servizi da parte di imprese artigiane iscritte nel relativo albo; di affittacamere".
+Nella tabella allegata al [decreto-legge 2 marzo 1989, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;66), convertito, con modificazioni, dalla [legge 24 aprile 1989, n. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md), la denominazione del settore di attivita' II e' cosi' modificata: "Di produzione di servizi da parte di imprese artigiane iscritte nel relativo albo; di affittacamere".
 
 3.
 
-Per l'anno 1990, le aliquote dell'imposta comunale sull'incremento di valore degli immobili si applicano, in tutti i comuni e per ogni scaglione di incremento di valore imponibile, nella misura massima prevista dall'[articolo 15 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;643#art_15), e successive modificazioni.
+Per l'anno 1990, le aliquote dell'imposta comunale sull'incremento di valore degli immobili si applicano, in tutti i comuni e per ogni scaglione di incremento di valore imponibile, nella misura massima prevista dall'[articolo 15 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643](../DPR/Istituzione%20dellimposta%20comunale%20sullincremento%20di%20valore%20degli%20immobili.md), e successive modificazioni.
 
 4.
 
@@ -146,7 +146,7 @@ Il diritto annuale in favore delle camere di commercio, industria, artigianato e
 
 5.
 
-Le somme di cui all'[articolo 6 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;638#art_6), da corrispondere alle camere di commercio, industria, artigianato e agricoltura per l'anno 1990 in sostituzione dei tributi soppressi, sono ripartite, per la meta', in quote uguali per ciascuna camera di commercio e, per la restante meta', in proporzione alle entrate sostitutive spettanti per l'anno 1989 al netto della quota fissa attribuita per lo stesso anno 1989.
+Le somme di cui all'[articolo 6 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 638](../DPR/Disposizioni%20per%20lattribuzione%20di%20somme%20agli%20enti%20indicati%20nellart.%2014%20della%20legge%209%20ottobre%201971%20n.%20825%20in%20sostituzione%20di%20tributi%20contributi%20e%20compartecipazioni%20e%20norme%20per%20la%20delegabil_3fbd056216dc.md), da corrispondere alle camere di commercio, industria, artigianato e agricoltura per l'anno 1990 in sostituzione dei tributi soppressi, sono ripartite, per la meta', in quote uguali per ciascuna camera di commercio e, per la restante meta', in proporzione alle entrate sostitutive spettanti per l'anno 1989 al netto della quota fissa attribuita per lo stesso anno 1989.
 
 6.
 
@@ -154,7 +154,7 @@ Per l'anno 1990, in deroga a quanto stabilito dal [comma 5 dell'articolo 61 del 
 
 7.
 
-Il termine del 31 dicembre 1989, previsto dal [comma 6 dell'articolo 22 del decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55#art_22-com6), convertito, con modificazioni, dalla [legge 26 aprile 1983, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-26;131), e' differito al 31 dicembre 1990.
+Il termine del 31 dicembre 1989, previsto dal [comma 6 dell'articolo 22 del decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55#art_22-com6), convertito, con modificazioni, dalla [legge 26 aprile 1983, n. 131](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201983%20n.%2055%20recante%20provvedimenti%20urgenti%20per%20il%20settore%20della%20finanza%20locale%20per%20lanno%201983.md), e' differito al 31 dicembre 1990.
 
 ## Art. 6.
 
@@ -164,7 +164,7 @@ Con effetto dall'anno 1990, le aliquote di importo fisso dei tributi e i tributi
 
 2.
 
-Con decreti del Presidente del Consiglio dei Ministri, su proposta del Ministro delle finanze, previa deliberazione del Consiglio dei Ministri, le aliquote di importo fisso dei tributi, i tributi in misura fissa, le tariffe fisse e quelle proporzionali di cui alla tabella A allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;648), esclusa quella di cui al numero 7 del titolo II dell'indicata tabella, nonche' le pene pecuniarie in misura fissa, possono, tenuto conto degli obiettivi programmatici di politica economica, essere adeguati ogni due anni nei limiti delle variazioni percentuali del valore medio dell'indice dei prezzi al consumo per le famiglie di operai e di impiegati rilevato al 30 settembre del secondo anno antecedente quello in cui il decreto viene emanato rispetto al valore del medesimo indice rilevato al 30 settembre dell'anno in corso alla data del medesimo decreto.
+Con decreti del Presidente del Consiglio dei Ministri, su proposta del Ministro delle finanze, previa deliberazione del Consiglio dei Ministri, le aliquote di importo fisso dei tributi, i tributi in misura fissa, le tariffe fisse e quelle proporzionali di cui alla tabella A allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 648](../DPR/Riordinamento%20dei%20fondi%20di%20previdenza%20e%20armonizzazione%20delle%20tabelle%20dei%20tributi%20speciali.md), esclusa quella di cui al numero 7 del titolo II dell'indicata tabella, nonche' le pene pecuniarie in misura fissa, possono, tenuto conto degli obiettivi programmatici di politica economica, essere adeguati ogni due anni nei limiti delle variazioni percentuali del valore medio dell'indice dei prezzi al consumo per le famiglie di operai e di impiegati rilevato al 30 settembre del secondo anno antecedente quello in cui il decreto viene emanato rispetto al valore del medesimo indice rilevato al 30 settembre dell'anno in corso alla data del medesimo decreto.
 
 3.
 
@@ -183,12 +183,12 @@ Nello stesso decreto sono fissati i criteri in base ai quali si procede alla sti
 
 1.
 
-All'[articolo 27, comma 1, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_27-com1), le parole "Entro il giorno 22 di ciascun mese" sono sostituite dalle seguenti: "Entro il giorno 20 di ciascun mese".
+All'[articolo 27, comma 1, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), le parole "Entro il giorno 22 di ciascun mese" sono sostituite dalle seguenti: "Entro il giorno 20 di ciascun mese".
 
 2.
 
-All'[articolo 1 del decreto-legge 11 aprile 1989, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-04-11;125#art_1), convertito, con modificazioni, dalla [legge 2 giugno 1989, n. 214, il comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-02;214#art_com1) e' sostituito dal seguente: 
- "1. Se il giorno 20 di ciascun mese e' non lavorativo per le aziende di credito e le casse rurali ed artigiane indicate nel [primo comma dell'articolo 38 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_38-com1), nonche' per i soggetti di cui all'[articolo 31 del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md), le liquidazioni e i versamenti mensili dell'imposta sul valore aggiunto previsti nel primo e nel secondo comma dell'articolo 27 del predetto decreto n. 633, devono essere effettuati nel primo giorno lavorativo immediatamente precedente.".
+All'[articolo 1 del decreto-legge 11 aprile 1989, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-04-11;125#art_1), convertito, con modificazioni, dalla [legge 2 giugno 1989, n. 214, il comma 1](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2011%20aprile%201989%20n.%20125%20recante%20disposizioni%20urgenti%20in%20materia%20di%20liquidazioni%20e%20di%20versamenti%20dellimposta%20sul%20valore%20aggiunto.md) e' sostituito dal seguente: 
+ "1. Se il giorno 20 di ciascun mese e' non lavorativo per le aziende di credito e le casse rurali ed artigiane indicate nel [primo comma dell'articolo 38 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), nonche' per i soggetti di cui all'[articolo 31 del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md), le liquidazioni e i versamenti mensili dell'imposta sul valore aggiunto previsti nel primo e nel secondo comma dell'articolo 27 del predetto decreto n. 633, devono essere effettuati nel primo giorno lavorativo immediatamente precedente.".
 
 3.
 
@@ -196,7 +196,7 @@ Le prestazioni aventi per oggetto lo svolgimento di attivita' didattica e cultur
 
 4.
 
-Gli enti che effettuano operazioni di credito indicate negli [articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;601#art_15) e [16 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;601#art_16), devono presentare, ai sensi dell'articolo 20 del medesimo decreto, in luogo della dichiarazione ivi prevista, due dichiarazioni di cui la prima relativa alle operazioni effettuate nel primo semestre dell'esercizio e la seconda, relativa alle operazioni effettuate nel secondo periodo dell'esercizio stesso. Le dichiarazioni devono essere presentate, rispettivamente, entro tre mesi dalla scadenza del primo semestre o dalla chiusura dell'esercizio. L'ufficio annota su un esemplare di ciascuna delle dichiarazioni l'ammontare dell'imposta che risulta dovuta e lo restituisce all'ente che deve effettuare il relativo pagamento entro trenta giorni. Con decreto del Ministro delle finanze saranno stabilite le modalita' di applicazione delle disposizioni recate dal presente comma, nonche' le modalita' per l'effettuazione dei controlli delle dichiarazioni, avvalendosi anche di sistemi meccanografici. Le disposizioni del presente comma si applicano per le operazioni effettuate a partire dal 1 gennaio 1990.
+Gli enti che effettuano operazioni di credito indicate negli [articoli 15](../DPR/Disciplina%20delle%20agevolazioni%20tributarie.md) e [16 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](../DPR/Disciplina%20delle%20agevolazioni%20tributarie.md), devono presentare, ai sensi dell'articolo 20 del medesimo decreto, in luogo della dichiarazione ivi prevista, due dichiarazioni di cui la prima relativa alle operazioni effettuate nel primo semestre dell'esercizio e la seconda, relativa alle operazioni effettuate nel secondo periodo dell'esercizio stesso. Le dichiarazioni devono essere presentate, rispettivamente, entro tre mesi dalla scadenza del primo semestre o dalla chiusura dell'esercizio. L'ufficio annota su un esemplare di ciascuna delle dichiarazioni l'ammontare dell'imposta che risulta dovuta e lo restituisce all'ente che deve effettuare il relativo pagamento entro trenta giorni. Con decreto del Ministro delle finanze saranno stabilite le modalita' di applicazione delle disposizioni recate dal presente comma, nonche' le modalita' per l'effettuazione dei controlli delle dichiarazioni, avvalendosi anche di sistemi meccanografici. Le disposizioni del presente comma si applicano per le operazioni effettuate a partire dal 1 gennaio 1990.
 
 ## Art. 8.
 
@@ -255,7 +255,7 @@ M) Oli minerali greggi, naturali, oli da gas ed oli combustibili
 
 2.
 
-L'aumento dell'imposta di fabbricazione e della corrispondente sovrimposta di confine di lire 5 al kg disposto, limitatamente agli oli combustibili densi con tenore di zolfo superiore all'uno per cento, dall'[articolo 1, comma 1, lettera e), del decreto-legge 13 giugno 1989, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-13;228#art_1-com1-lete), convertito dalla [legge 28 luglio 1989, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-28;277), e' soppresso. 
+L'aumento dell'imposta di fabbricazione e della corrispondente sovrimposta di confine di lire 5 al kg disposto, limitatamente agli oli combustibili densi con tenore di zolfo superiore all'uno per cento, dall'[articolo 1, comma 1, lettera e), del decreto-legge 13 giugno 1989, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-13;228#art_1-com1-lete), convertito dalla [legge 28 luglio 1989, n. 277](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2013%20giugno%201989%20n.%20228%20recante%20modificazioni%20delle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20taluni%20prodotti%20petroliferi.md), e' soppresso. 
 -------- 
  (1) Per gli oli da gas l'aliquota e' di lire 4.620 per ettolitro.  (2) Per gli oli da gas l'aliquota e' di lire 84 per ettolitro.
 
@@ -281,7 +281,7 @@ Una quota pari al 40 per cento dei versamenti risultanti in sede consuntiva e' a
 
 1.
 
-Le modificazioni al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), disposte con l'articolo 1 hanno effetto dal periodo di imposta in corso alla data del 31 dicembre 1989, tuttavia, per tale periodo e per quello successivo, il limite di cui alla lettera c) dell'articolo 10 del predetto testo unico e' elevato rispettivamente della meta' e di un terzo se gli oneri indicati nella predetta lettera c) dipendono da mutui agrari di miglioramento a tasso non agevolato. Le disposizioni dell'articolo 2, commi 1 e 2, hanno effetto dal primo periodo di imposta che ha inizio dopo il 31 dicembre 1989; quelle dell'articolo 3, salvo quanto disposto nel comma 2 del presente articolo, e quelle dell'articolo 4, commi 5, 6 e 7, e degli articoli 5, commi 1 e 2, e 8 hanno effetto dal 1 gennaio 1990.
+Le modificazioni al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), disposte con l'articolo 1 hanno effetto dal periodo di imposta in corso alla data del 31 dicembre 1989, tuttavia, per tale periodo e per quello successivo, il limite di cui alla lettera c) dell'articolo 10 del predetto testo unico e' elevato rispettivamente della meta' e di un terzo se gli oneri indicati nella predetta lettera c) dipendono da mutui agrari di miglioramento a tasso non agevolato. Le disposizioni dell'articolo 2, commi 1 e 2, hanno effetto dal primo periodo di imposta che ha inizio dopo il 31 dicembre 1989; quelle dell'articolo 3, salvo quanto disposto nel comma 2 del presente articolo, e quelle dell'articolo 4, commi 5, 6 e 7, e degli articoli 5, commi 1 e 2, e 8 hanno effetto dal 1 gennaio 1990.
 
 2.
 

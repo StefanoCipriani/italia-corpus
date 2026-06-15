@@ -18,7 +18,7 @@ Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecut
 
 Riconosciuta la necessita' urgente ed assoluta di disciplinare la conservazione degli estratti o concentrati e dei succhi di pomodoro;
 
-Visto il [R. decreto 31 agosto 1928, n. 2126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-31;2126);
+Visto il [R. decreto 31 agosto 1928, n. 2126](Norme%20per%20il%20funzionamento%20dellIstituto%20nazionale%20per%20le%20conserve%20alimentari%20e%20della%20Regia%20stazione%20sperimentale%20per%20lindustria%20delle%20conserve%20alimentari.%20028U2126.md);
 
 Sentito il Consiglio dei Ministri;
 

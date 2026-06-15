@@ -24,7 +24,7 @@ Visto l'[art. 4 del R. decreto-legge 28 aprile 1927, n. 628](Soppressione%20del%
 
 Visto il [R. decreto 26 febbraio 1928, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;619), che approva il testo unico delle disposizioni legislative riguardanti l'Opera di previdenza pei personali civile e militare dello Stato;
 
-Visto il [R. decreto 8 maggio 1933, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-05-08;597);
+Visto il [R. decreto 8 maggio 1933, n. 597](Trattamento%20di%20pensione%20per%20gli%20impiegati%20del%20soppresso%20Commissariato%20generale%20per%20lemigrazione.%20033U0597.md);
 
 Ritenuta la necessita' urgente ed assoluta di trasferire allo Stato il fondo pensioni del soppresso Commissariato generale dell'emigrazione e di disporre l'iscrizione degli impiegati del medesimo all'Opera di previdenza pei personali civile e militare dello Stato;
 

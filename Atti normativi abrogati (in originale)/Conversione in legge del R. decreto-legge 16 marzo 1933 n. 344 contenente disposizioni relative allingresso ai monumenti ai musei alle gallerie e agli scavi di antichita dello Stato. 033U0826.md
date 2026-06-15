@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 marzo 1933, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-16;344), contenente disposizioni relative all'ingresso ai monumenti, ai musei, alle gallerie e agli scavi di antichita' dello Stato. 
+ E' convertito in legge il [R. decreto-legge 16 marzo 1933, n. 344](Disposizioni%20relative%20allingresso%20ai%20monumenti%20ai%20musei%20alle%20gallerie%20e%20agli%20scavi%20dantichita%20delle%20Stato.%20033U0344.md), contenente disposizioni relative all'ingresso ai monumenti, ai musei, alle gallerie e agli scavi di antichita' dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

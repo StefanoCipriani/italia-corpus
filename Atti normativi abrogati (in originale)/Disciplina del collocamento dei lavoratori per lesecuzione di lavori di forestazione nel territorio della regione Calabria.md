@@ -32,7 +32,7 @@ Prima di formulare le richieste di avviamento al lavoro, gli enti di cui al prec
 
 3.
 
-I lavoratori assunti a tempo determinato ai sensi del presente articolo non sono computabili ai fini dell'applicazione della [legge 2 aprile 1968, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482).
+I lavoratori assunti a tempo determinato ai sensi del presente articolo non sono computabili ai fini dell'applicazione della [legge 2 aprile 1968, n. 482](Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md).
 
 ## Art. 2.
 

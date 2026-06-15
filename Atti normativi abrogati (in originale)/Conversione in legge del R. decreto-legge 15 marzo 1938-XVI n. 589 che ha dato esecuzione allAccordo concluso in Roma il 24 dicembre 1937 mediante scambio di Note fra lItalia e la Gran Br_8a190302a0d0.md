@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il R. decreto-legge 15 marzo 1938-XVI, n. 589, che ha dato esecuzione all'Accordo concluso in Roma il 24 dicembre 1937-XVI, mediante scambio di Note, fra l'Italia e la Gran Bretagna, concernente trasferimento di conti di cui all'art. 7, paragrafo 5, comma a), b) e c) dell'Accordo stipulato in Roma, fra i due Stati il 6 novembre 1936, per regolare gli scambi commerciali ed i pagamenti ad essi relativi, approvato con [R. decreto-legge 15 dicembre 1936, n. 2275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-12-15;2275). 
+ E' convertito in legge il R. decreto-legge 15 marzo 1938-XVI, n. 589, che ha dato esecuzione all'Accordo concluso in Roma il 24 dicembre 1937-XVI, mediante scambio di Note, fra l'Italia e la Gran Bretagna, concernente trasferimento di conti di cui all'art. 7, paragrafo 5, comma a), b) e c) dell'Accordo stipulato in Roma, fra i due Stati il 6 novembre 1936, per regolare gli scambi commerciali ed i pagamenti ad essi relativi, approvato con [R. decreto-legge 15 dicembre 1936, n. 2275](Approvazione%20degli%20Accordi%20commerciale%20e%20di%20compensazione%20stipulati%20il%206%20novembre%201936-XV%20fra%20lItalia%20e%20il%20Regno%20Unito%20di%20Gran%20Bretagna%20ed%20Irlanda%20del%20Nord.%20036U2275.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

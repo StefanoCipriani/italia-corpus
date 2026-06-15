@@ -12,7 +12,7 @@ vigente: true
 
 Non si puo' procedere al sequestro della edizione degli stampati e di tutte le manifestazioni del pensiero, contemplato nell' editto sulla stampa 26 marzo 1848, se non per sentenza definitiva del magistrato. Tuttavia il giudice istruttore ed il pubblico Ministero potranno sequestrare tre esemplari degli stampati e degli oggetti incriminati, ove sia stato omesso il deposito prescritto dagli articoli 7 e 42 dell' editto sulla stampa. 
  
- E' fatta eccezione al divieto del sequestro della edizione per gli stampati ed oggetti che si riconoscessero offensivi del buon costume o del pudore, a' sensi degli [articoli 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_338) e [339 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_339), nel qual caso entro il termine di ventiquattro ore si dovra' dal giudice istruttore o dal pubblico ministero promuovere l'opportuno procedimento penale per citazione direttissima.
+ E' fatta eccezione al divieto del sequestro della edizione per gli stampati ed oggetti che si riconoscessero offensivi del buon costume o del pudore, a' sensi degli [articoli 338](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [339 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nel qual caso entro il termine di ventiquattro ore si dovra' dal giudice istruttore o dal pubblico ministero promuovere l'opportuno procedimento penale per citazione direttissima.
 
 ## Art. 2.
 

@@ -37,7 +37,7 @@ Gli assegni annui da corrispondersi agli ufficiali consolari nelle residenze sot
 
 AGGIORNAMENTO (1)
 
-L'Errata-Corrige in G.U. 29/10/1923, n. 254 ha disposto che "nel [R. decreto 15 settembre 1923, n. 2163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-15;2163), relativo agli assegni da corrispondersi agli ufficiali consolari, pubblicato nella Gazzetta Ufficiale n. 248 del 22 ottobre u. s., per errore della copia trasmessa, rammentare massimo della spesa di ufficio al vice console di Biserta, dipendente dal Consolato di Tunisi, verme indicato in L. 5500, mentre doveva dirsi di L. 4500, come risulta dal testo originale e come qui si rettifica". 
+L'Errata-Corrige in G.U. 29/10/1923, n. 254 ha disposto che "nel [R. decreto 15 settembre 1923, n. 2163](Assegni%20annui%20da%20corrispondersi%20agli%20ufficiali%20consolari%20in%20virtu%20del%20R.%20decreto%207%20gennaio%201923%20n.%20185.%20023U2163.md), relativo agli assegni da corrispondersi agli ufficiali consolari, pubblicato nella Gazzetta Ufficiale n. 248 del 22 ottobre u. s., per errore della copia trasmessa, rammentare massimo della spesa di ufficio al vice console di Biserta, dipendente dal Consolato di Tunisi, verme indicato in L. 5500, mentre doveva dirsi di L. 4500, come risulta dal testo originale e come qui si rettifica". 
 --------------- 
 Nota redazionale 
  Il testo riportato e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 29/10/1923, n. 254 durante il periodo di "vacatio legis". 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il termine di tre anni stabilito dall'[art. 1 del R. decreto 24 agosto 1942, n. 1091](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-08-24;1091#art_1), e' ridotto ad un anno per le vedove di insegnanti, in attivita' di servizio nei ruoli dello Stato, caduti in combattimento o vittime delle persecuzioni del nemico in zone occupate.
+Il termine di tre anni stabilito dall'[art. 1 del R. decreto 24 agosto 1942, n. 1091](Sistemazione%20delle%20vedove%20di%20guerra%20nei%20ruoli%20degli%20insegnanti%20delle%20Regie%20scuole%20degli%20ordini%20elementare%20medio%20superiore%20femminile%20e%20artistico.%20042U1091.md), e' ridotto ad un anno per le vedove di insegnanti, in attivita' di servizio nei ruoli dello Stato, caduti in combattimento o vittime delle persecuzioni del nemico in zone occupate.
 
 ## Art. 2.
 

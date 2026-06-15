@@ -42,7 +42,7 @@ Al disposto del capoverso dell'art. 10 del decreto Ministeriale 8 dicembre 1922,
 
 Gli ufficiali di marina, soci di cooperative edilizie con finanziamento dello Stato, sono considerati, durante il periodo nel quale siano imbarcati quali facienti parte dello Stato Maggiore di Regie navi armate, come residenti nel Comune ove ha sede la cooperativa nella quale trovansi iscritti e come tali conservano il diritto all'assegnazione dell'alloggio cooperativo e del relativo mutuo individuale agli effetti dell'art. 10 del decreto Ministeriale 8 dicembre 1922, anche se tale assegnazione sia intervenuta prima della data di pubblicazione del presente decreto. 
  
- L'aggiunta apportata dalla [legge 15 luglio 1926, n. 1263, all'art. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-15;1263#art_22) del [R. decreto-legge 7 febbraio 1926, n. 193](Ordinamento%20dei%20servizi%20preposti%20alla%20edilizia%20popolare%20ed%20economica%20ed%20altri%20provvedimenti%20in%20materia.%20026U0193.md), e' priva di qualsiasi effetto.
+ L'aggiunta apportata dalla [legge 15 luglio 1926, n. 1263, all'art. 22](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1263.md) del [R. decreto-legge 7 febbraio 1926, n. 193](Ordinamento%20dei%20servizi%20preposti%20alla%20edilizia%20popolare%20ed%20economica%20ed%20altri%20provvedimenti%20in%20materia.%20026U0193.md), e' priva di qualsiasi effetto.
 
 ## Art. 5.
 

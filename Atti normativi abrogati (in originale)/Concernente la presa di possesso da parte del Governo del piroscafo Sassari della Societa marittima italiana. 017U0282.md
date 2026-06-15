@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 60 del capitolato d'oneri annesso alla [legge 30 giugno 1912, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-30;685); 
+ Visto l'art. 60 del capitolato d'oneri annesso alla [legge 30 giugno 1912, n. 685](Che%20porta%20disposizioni%20sui%20servizi%20marittimi%20sovvenzionati.%20012U0685.md); 
  
  Sentito il Consiglio dei ministri; 
  

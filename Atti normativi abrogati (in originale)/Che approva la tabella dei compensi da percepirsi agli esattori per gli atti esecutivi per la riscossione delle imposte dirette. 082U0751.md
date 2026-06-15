@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Veduta la [legge del 2 aprile 1882, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-04-02;674) (Serie 3ª), che sostituisce un nuovo articolo all'[articolo 69 della legge del 20 aprile 1871, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1871-04-20;192#art_69) (Serie 2ª), modificato dalla [legge 30 dicembre 1876, n. 3591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1876-12-30;3591) (Serie 2ª);
+Veduta la [legge del 2 aprile 1882, n. 674](Che%20modifica%20le%20leggi%2020%20aprile%201871%20e%2030%20dicembre%201876%20riflettenti%20le%20riscossioni%20delle%20imposte%20dirette.%20082U0674.md) (Serie 3ª), che sostituisce un nuovo articolo all'[articolo 69 della legge del 20 aprile 1871, n. 192](Concernente%20la%20riscossione%20delle%20imposte%20dirette.%20071U0192.md) (Serie 2ª), modificato dalla [legge 30 dicembre 1876, n. 3591](Che%20proroga%20il%20termine%20sulla%20circoscrizione%20delle%20esattorie.%20076U3591.md) (Serie 2ª);
 
 Visto l'articolo 67 del regolamento approvato col decreto Reale del 14 maggio 1882, n. 738 (Serie 3ª), Determina:
 

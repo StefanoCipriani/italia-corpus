@@ -10,21 +10,21 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 13 gennaio 1936, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-01-13;70), convertito nella [legge 4 giugno 1936, n. 1342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-04;1342), che istituisce il monopolio di vendita delle cartine e tubetti per sigarette;
+Visto il [regio decreto-legge 13 gennaio 1936, n. 70](Istituzione%20del%20Monopolio%20di%20vendita%20delle%20cartine%20e%20tubetti%20per%20sigarette.%20036U0070.md), convertito nella [legge 4 giugno 1936, n. 1342](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013%20gennaio%201936-XIV%20n.%2070%20che%20istituisce%20il%20Monopolio%20di%20vendita%20delle%20cartine%20e%20dei%20tubetti%20per%20sigarette.%20036U1342.md), che istituisce il monopolio di vendita delle cartine e tubetti per sigarette;
 
 Vista la [legge 17 luglio 1942, n. 907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907), sul monopolio dei sali e dei tabacchi, e successive modificazioni;
 
-Vista, la [legge 14 ottobre 1957, n. 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-14;1203), concernente la ratifica ed esecuzione del Trattato che istituisce la Comunita' Economica Europea ed Atti allegati, firmato a Roma il 25 marzo 1957;
+Vista, la [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), concernente la ratifica ed esecuzione del Trattato che istituisce la Comunita' Economica Europea ed Atti allegati, firmato a Roma il 25 marzo 1957;
 
 Vista la [legge 19 dicembre 1958, n. 1085](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-12-19;1085), sul regime d'imposizione fiscale dei prodotti oggetto di monopolio dello Stato;
 
-Visto il [decreto del Presidente della Repubblica 29 dicembre 1958, n. 1103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-12-29;1103), che applica la prima riduzione daziaria prevista dal Trattato che istituisce la Comunita' Economica Europea;
+Visto il [decreto del Presidente della Repubblica 29 dicembre 1958, n. 1103](../DPR/Applicazione%20della%20prima%20riduzione%20daziaria%20prevista%20dal%20Trattato%20istituente%20la%20Comunita%20economica%20europea%20ratificato%20e%20reso%20esecutivo%20con%20legge%2014%20ottobre%201957%20n.%201203.md), che applica la prima riduzione daziaria prevista dal Trattato che istituisce la Comunita' Economica Europea;
 
 Visto il [decreto del Presidente della Repubblica 18 aprile 1959, n. 167](Variazioni%20alla%20tariffa%20di%20vendita%20al%20pubblico%20dei%20tabacchi.md), che stabilisce la tariffa di vendita dei generi di monopolio;
 
 Visto il [decreto del Presidente della Repubblica 15 dicembre 1959, n. 1114](Tariffe%20di%20vendita%20al%20pubblico%20dei%20tabacchi%20e%20delle%20cartine%20e%20tubetti%20per%20sigarette.md), che reca variazioni alla tariffa di vendita delle cartine e tubetti per sigarette;
 
-Visto il [decreto del Presidente della Repubblica 24 dicembre 1960, n. 1587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-12-24;1587), che stabilisce le modalita' di applicazione degli articoli 9 e 10 del Trattato che istituisce la Comunita' Economica Europea;
+Visto il [decreto del Presidente della Repubblica 24 dicembre 1960, n. 1587](../DPR/Modalita%20di%20applicazione%20degli%20articoli%209%20e%2010%20del%20Trattato%20che%20istituisce%20la%20Comunita%20Economica%20Europea.md), che stabilisce le modalita' di applicazione degli articoli 9 e 10 del Trattato che istituisce la Comunita' Economica Europea;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -47,7 +47,7 @@ La vendita, in territorio italiano soggetto a monopolio, di sale alimentare prov
 
 ## Art. 4.
 
-In deroga alle disposizioni dell'[art. 1 del regio decreto-legge 13 gennaio 1936, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-01-13;70#art_1), convertito nella [legge 4 giugno 1936, n. 1342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-04;1342), e' ammessa; nel territorio della Repubblica soggetto a monopolio, l'introduzione di cartine e tubetti per sigarette provenienti dagli Stati Membri della Comunita' Economica Europea, nel limite di un contingente annuale pari al 5% della produzione nazionale, previo nulla osta dell'Amministrazione autonoma dei Monopoli di Stato quando trattasi di quantitativi eccedenti in complesso 2000 cartine e tubetti per sigarette.
+In deroga alle disposizioni dell'[art. 1 del regio decreto-legge 13 gennaio 1936, n. 70](Istituzione%20del%20Monopolio%20di%20vendita%20delle%20cartine%20e%20tubetti%20per%20sigarette.%20036U0070.md), convertito nella [legge 4 giugno 1936, n. 1342](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013%20gennaio%201936-XIV%20n.%2070%20che%20istituisce%20il%20Monopolio%20di%20vendita%20delle%20cartine%20e%20dei%20tubetti%20per%20sigarette.%20036U1342.md), e' ammessa; nel territorio della Repubblica soggetto a monopolio, l'introduzione di cartine e tubetti per sigarette provenienti dagli Stati Membri della Comunita' Economica Europea, nel limite di un contingente annuale pari al 5% della produzione nazionale, previo nulla osta dell'Amministrazione autonoma dei Monopoli di Stato quando trattasi di quantitativi eccedenti in complesso 2000 cartine e tubetti per sigarette.
  Sulle cartine e tubetti per sigarette, introdotte ai sensi del comma precedente, e' dovuto, oltre ai dazi doganali e agli altri diritti di confine previsti dalle norme in vigore, la quota fiscale contemplata dal [secondo comma dell'art. 1 della legge 19 dicembre 1958, n. 1085](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-12-19;1085#art_1-com2), nelle misure stabilite dalla tabella G, allegata al [decreto del Presidente della Repubblica 15 dicembre 1959, n. 1114](Tariffe%20di%20vendita%20al%20pubblico%20dei%20tabacchi%20e%20delle%20cartine%20e%20tubetti%20per%20sigarette.md).
 
 ## Art. 5.
@@ -60,7 +60,7 @@ Il contingente di sale e cartine e tubetti per sigarette ammesso all'introduzion
 
 ## Art. 7.
 
-Il sale e le cartine e tubetti per sigarette, per essere ammessi all'introduzione in Italia dagli Stati Membri della Comunita' Economica Europea ai sensi degli articoli 1 e 4 del presente decreto, devono essere accompagnati da "certificato di circolazione" in conformita' delle decisioni adottate il 4 dicembre 1958 ed il 5 dicembre 1960 dalla Commissione della. Comunita' Economica Europea, riprodotte in allegato ai [decreti del Presidente della Repubblica 29 dicembre 1958, n. 1103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-12-29;1103), e [24 dicembre 1960, n. 1587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-12-24;1587).
+Il sale e le cartine e tubetti per sigarette, per essere ammessi all'introduzione in Italia dagli Stati Membri della Comunita' Economica Europea ai sensi degli articoli 1 e 4 del presente decreto, devono essere accompagnati da "certificato di circolazione" in conformita' delle decisioni adottate il 4 dicembre 1958 ed il 5 dicembre 1960 dalla Commissione della. Comunita' Economica Europea, riprodotte in allegato ai [decreti del Presidente della Repubblica 29 dicembre 1958, n. 1103](../DPR/Applicazione%20della%20prima%20riduzione%20daziaria%20prevista%20dal%20Trattato%20istituente%20la%20Comunita%20economica%20europea%20ratificato%20e%20reso%20esecutivo%20con%20legge%2014%20ottobre%201957%20n.%201203.md), e [24 dicembre 1960, n. 1587](../DPR/Modalita%20di%20applicazione%20degli%20articoli%209%20e%2010%20del%20Trattato%20che%20istituisce%20la%20Comunita%20Economica%20Europea.md).
 
 ## Art. 8.
 

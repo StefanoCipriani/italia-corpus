@@ -86,7 +86,7 @@ Con Regio decreto, proposto dal Primo Ministro, Capo del Governo, di concerto co
 
 ### Art. 14.
 
-Il servizio prestato dai cappellani militari conservati temporaneamente in base ai [Regi decreti 29 ottobre 1922, n. 1552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-29;1552) e [24 settembre 1923, n. 2307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2307), potra' essere riscattato per intero agli effetti della pensione colle norme del Capo I del [Regio decreto legislativo del 21 novembre 1923, n. 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1923-11-21;2480), qualora essi siano assunti in servizio nel ruolo dei cappellani militari in base alla presente legge.
+Il servizio prestato dai cappellani militari conservati temporaneamente in base ai [Regi decreti 29 ottobre 1922, n. 1552](Relativo%20alla%20cessazione%20della%20carica%20di%20Vescovo%20di%20Campo%20ed%20al%20temporaneo%20mantenimento%20in%20servizio%20di%20un%20nucleo%20di%20cappellani%20militari.%20022U1552.md) e [24 settembre 1923, n. 2307](Temporaneo%20mantenimento%20in%20servizio%20presso%20il%20Regio%20esercito%20di%20cappellani%20militari.%20023U2307.md), potra' essere riscattato per intero agli effetti della pensione colle norme del Capo I del [Regio decreto legislativo del 21 novembre 1923, n. 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1923-11-21;2480), qualora essi siano assunti in servizio nel ruolo dei cappellani militari in base alla presente legge.
 
 ### Art. 15.
 

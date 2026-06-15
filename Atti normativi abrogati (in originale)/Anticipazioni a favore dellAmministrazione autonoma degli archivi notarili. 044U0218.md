@@ -16,15 +16,15 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 17 maggio 1943, n. 445, e 17 giugno 1943, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-06-17;538);
+Viste le [leggi 17 maggio 1943, n. 445, e 17 giugno 1943, n. 538](Stato%20di%20previsione%20dellentrata%20e%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20finanze%20per%20lesercizio%20finanziario%20dal%201%20luglio%201943-XXI%20al%2030%20giugno%201944-XXII.%20043U0538.md);
 
 Visto l'art. 4 del decreto-legge Luogotenenziale 25 giugno 1944,.
 
 n. 151;
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Vista la deliberazione del Consiglio dei Ministri; Sulla proposta del Ministro per la grazia e giustizia, d'intesa, con il Ministro per il tesoro; Abbiamo sanzionato e promulghiamo quanto segue:
 

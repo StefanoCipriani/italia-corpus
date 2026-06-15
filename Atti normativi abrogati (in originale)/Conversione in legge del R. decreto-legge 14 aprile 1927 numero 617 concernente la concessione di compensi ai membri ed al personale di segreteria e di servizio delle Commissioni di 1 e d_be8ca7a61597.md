@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 aprile 1927, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-14;617), concernente la concessione di compensi ai membri ed al personale di segreteria e di servizio delle Commissioni di 1° e 2° grado per le imposte dirette. 
+ E' convertito in legge il [R. decreto-legge 14 aprile 1927, n. 617](Concessione%20di%20compensi%20ai%20membri%20ed%20al%20personale%20di%20segreteria%20e%20di%20servizio%20delle%20Commissioni%20di%201%20e%20di%202%20grado%20per%20le%20imposte%20dirette.%20027U0617.md), concernente la concessione di compensi ai membri ed al personale di segreteria e di servizio delle Commissioni di 1° e 2° grado per le imposte dirette. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

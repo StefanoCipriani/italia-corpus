@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-11;27), concernente la creazione ed il funzionamento dell'Istituto di sanita' pubblica. 
+ E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 27](Creazione%20e%20funzionamento%20dellIstituto%20di%20sanita%20pubblica.%20034U0027.md), concernente la creazione ed il funzionamento dell'Istituto di sanita' pubblica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

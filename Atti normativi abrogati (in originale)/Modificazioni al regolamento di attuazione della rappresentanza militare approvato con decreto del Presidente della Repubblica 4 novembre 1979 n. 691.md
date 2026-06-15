@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli articoli 5, primo comma, 18, 19 e 20, ultimo comma, della [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382);
+Visti gli articoli 5, primo comma, 18, 19 e 20, ultimo comma, della [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md);
 
 Visto il regolamento di attuazione della rappresentanza militare, approvato con [decreto del Presidente della Repubblica 4 novembre 1979, n. 691](Regolamento%20che%20disciplina%20lattuazione%20della%20rappresentanza%20militare.md), e modificato nella tabella A, annesso 1, con decreto interministeriale 7 maggio 1984, e nella tabella B, annesso 2, con [decreto del Presidente della Repubblica 30 ottobre 1984, n. 912](Sostituzione%20dei%20quadri%20relativi%20allEsercito%20ed%20alla%20Guardia%20di%20finanza%20nella%20tabella%20B%20annesso%202%20al%20regolamento%20di%20attuazione%20della%20rappresentanza%20militare%20approvato%20con%20decreto%20del%20Pres_2fc407c88f3d.md);
 
@@ -68,13 +68,13 @@ I COBAR allievi si intendono in aggiunta ai COBAR cui fa capo il personale del q
  L'esercizio del mandato e' limitato alle attivita' previste dal presente regolamento e non sottrae i delegati ai diritti e ai doveri derivanti dal proprio stato militare. 
  I membri dei consigli della rappresentanza devono essere messi in condizione di espletare le funzioni per le quali sono stati eletti ed avere a disposizione il tempo che si renda necessario, fatte salve le esigenze operative e quelle di servizio non altrimenti assolvibili. 
  Ai singoli delegati nella loro qualita' di componenti dell'organo di rappresentanza, e' vietato: 
- a) formulare pareri e proposte o avanzare richieste e istanze che esultino dalle materie e dai campi di interesse indicati dall'[art. 19 della legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382#art_19); 
+ a) formulare pareri e proposte o avanzare richieste e istanze che esultino dalle materie e dai campi di interesse indicati dall'[art. 19 della legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md); 
  b) rilasciare comunicati e dichiarazioni o aderire ad adunanze o svolgere attivita' di rappresentanza al di fuori degli organi di appartenenza; 
- c) avere rapporti di qualsiasi genere con organismi estranei alle Forze armate, salvo quanto disposto dalla [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382), e dal presente regolamento; 
- d) svolgere attivita' che, ai sensi della [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382), o del presente regolamento, sono devolute alle competenze collegiali del consiglio di appartenenza; 
+ c) avere rapporti di qualsiasi genere con organismi estranei alle Forze armate, salvo quanto disposto dalla [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), e dal presente regolamento; 
+ d) svolgere attivita' che, ai sensi della [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), o del presente regolamento, sono devolute alle competenze collegiali del consiglio di appartenenza; 
  e) promuovere e raccogliere sottoscrizioni ai fini dell'esercizio delle attivita' di rappresentanza; 
  f) assumere iniziative che possano infirmare l'assoluta estraneita' delle Forze armate alle competizioni politiche. 
- Ai delegati deve comunque essere garantita liberta' di opinione nell'espletamento dei compiti connessi con lo specifico incarico, fermo restando che l'inosservanza delle norme contenute nella [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382), e nel presente regolamento e' considerata a tutti gli effetti grave mancanza disciplinare. 
+ Ai delegati deve comunque essere garantita liberta' di opinione nell'espletamento dei compiti connessi con lo specifico incarico, fermo restando che l'inosservanza delle norme contenute nella [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), e nel presente regolamento e' considerata a tutti gli effetti grave mancanza disciplinare. 
  Art. 13 (Durata del mandato). - Il mandato e' conferito con la proclamazione degli eletti ai sensi degli articoli 18 e 21 del presente regolamento; esso ha la seguente durata: 
  per i militari delle categorie A (ufficiali) e B (sottufficiali): due anni; 
  per i militari della categoria C (volontari): due anni per i volontari dei Corpi armati e sei mesi per i volontari delle Forze armate; 
@@ -150,7 +150,7 @@ piega la scheda e la consegna chiusa al presidente che la deposita nell'urna men
  a) non essere il comandante dell'unita' di base; 
  b) non aver riportato condanne per delitti non colposi o sanzioni disciplinari di Stato; 
  c) dover svolgere almeno sei mesi di servizio, se militari di leva; 
- d) non aver riportato una o piu' punizioni di consegna di rigore per inosservanza della [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382), negli ultimi quattro anni di servizio nella categoria di appartenenza, salva l'ipotesi di cui all'ultimo comma dell'art. 15 della medesima legge;  e)non trovarsi in stato di carcerazione preventiva; 
+ d) non aver riportato una o piu' punizioni di consegna di rigore per inosservanza della [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), negli ultimi quattro anni di servizio nella categoria di appartenenza, salva l'ipotesi di cui all'ultimo comma dell'art. 15 della medesima legge;  e)non trovarsi in stato di carcerazione preventiva; 
  f)non trovarsi in stato di sospensione dall'impiego o di aspettativa. 
  Per i militari di carriera costituisce, altresi', requisito di eleggibilita' il non aver ricoperto l'incarico di rappresentante nel precedente periodo di mandato. 
  Il comandante pubblica sugli alibi, il decimo giorno che precede le votazioni, l'elenco definitivo in ordine alfabetico e numerico degli eleggibili di ciascuna delle categorie interessate, precisando per ciascuna anche il numero di quelli da eleggere e le preferenze che si possono esprimere calcolate in non piu' di due terzi del numero dei delegati da eleggere. 

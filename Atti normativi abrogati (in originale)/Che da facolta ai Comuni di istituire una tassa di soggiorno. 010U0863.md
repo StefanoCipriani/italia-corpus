@@ -20,7 +20,7 @@ Il prodotto della tassa di soggiorno dovra' essere devoluto esclusivamente, sia 
  
  A tal fine si costituira' una contabilita' speciale, separata dal bilancio comunale, registrandovi annualmente la previsione del prodotto della tassa e quella delle sue erogazioni, ne' sara' lecito alcuno storno o trasporto di fondi alle partite del bilancio generale. 
  
- D'ufficio o su domanda dei contribuenti la tassa, che ne giustifichino l'avvenuto pagamento, la Giunta provinciale amministrativa ha facolta' di provvedere a termini dell'art. 214 del testo unico della legge comunale e provinciale approvato col [R. decreto 21 maggio 1908, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-21;269).
+ D'ufficio o su domanda dei contribuenti la tassa, che ne giustifichino l'avvenuto pagamento, la Giunta provinciale amministrativa ha facolta' di provvedere a termini dell'art. 214 del testo unico della legge comunale e provinciale approvato col [R. decreto 21 maggio 1908, n. 269](Che%20approva%20lannesso%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20008U0269.md).
 
 ## Art. 3.
 

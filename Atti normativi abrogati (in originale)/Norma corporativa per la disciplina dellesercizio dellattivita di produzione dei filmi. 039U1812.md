@@ -14,7 +14,7 @@ IL DUCE DEL FASCISMO
  
  CAPO DEL GOVERNO 
  
- Vista la norma corporativa per la disciplina dell'esercizio dell'attivita', di produzione dei filmi, elaborata, ai sensi dell'[art. 8 della legge 5 febbraio 1934, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;163#art_8), dalla Corporazione dello spettacolo, su richiesta della Federazione nazionale fascista degli industriali dello spettacolo; 
+ Vista la norma corporativa per la disciplina dell'esercizio dell'attivita', di produzione dei filmi, elaborata, ai sensi dell'[art. 8 della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md), dalla Corporazione dello spettacolo, su richiesta della Federazione nazionale fascista degli industriali dello spettacolo; 
  
  Vista l'approvazione data dal Comitato corporativo centrale, nella seduta del 17 ottobre 1939-XVII ; 
  

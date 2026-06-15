@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [decreto legislativo 15 aprile 1948, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-15;381), concernente il riordinamento dei ruoli centrali e periferici del Ministero del lavoro e della previdenza sociale, e' ratificato.
+Il [decreto legislativo 15 aprile 1948, n. 381](../Decreti%20Legislativi/Riordinamento%20dei%20ruoli%20centrali%20e%20periferici%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.md), concernente il riordinamento dei ruoli centrali e periferici del Ministero del lavoro e della previdenza sociale, e' ratificato.
 
 ## Art. 2.
 
@@ -31,7 +31,7 @@ Il Governo della Repubblica provvedera' a raccogliere e coordinare le vigenti no
  7) nei ruoli di cui al n. 6) sara' inquadrato ed assegnato ai vari gradi dei vari gruppi, previo giudizio di apposite Commissioni secondo le condizioni e con le modalita' che verranno stabilite nel testo unico, il personale attualmente addetto agli Uffici del lavoro e della massima occupazione, in base alle funzioni esercitate, l'anzianita' di servizio ed i titoli da ciascuno posseduti e assicurando comunque a tutti i dipendenti inquadrati la conservazione del trattamento economico in atto goduto ed il riconoscimento ad ogni effetto di legge del servizio prestato anteriormente all'inquadramento;
  8) il servizio prestato presso gli Uffici del lavoro e della massima occupazione dovra' essere riconosciuto ai fini dello sviluppo di carriera anche nei confronti del personale che, gia' appartenente agli Uffici stessi, e' immesso per concorso nei ruoli dell'Amministrazione centrale del Ministero del lavoro e della previdenza sociale e dell'ispettorato del lavoro;
  9) per il personale degli Uffici del lavoro e della massima occupazione non immesso nei ruoli organici di cui al n. 6 il rapporto di impiego continuera' ad essere disciplinato con contratto quinquennale;
- 10) dovra' restare fermo il numero complessivo dei posti attualmente assegnati al Ministero del lavoro e della previdenza sociale, esclusa l'applicazione della nota n. 2 posta in calce alla tabella A) allegata al [decreto legislativo 15 aprile 1948, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-15;381).
+ 10) dovra' restare fermo il numero complessivo dei posti attualmente assegnati al Ministero del lavoro e della previdenza sociale, esclusa l'applicazione della nota n. 2 posta in calce alla tabella A) allegata al [decreto legislativo 15 aprile 1948, n. 381](../Decreti%20Legislativi/Riordinamento%20dei%20ruoli%20centrali%20e%20periferici%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.md).
 
 ## Art. 3.
 

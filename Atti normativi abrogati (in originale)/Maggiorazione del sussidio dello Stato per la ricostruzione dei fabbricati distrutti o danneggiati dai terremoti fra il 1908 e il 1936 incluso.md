@@ -21,11 +21,11 @@ Il sussidio dello Stato per la ricostruzione dei fabbricati distrutti o danneggi
 
 ## Art. 2.
 
-Il sussidio di cui all'articolo precedente sara' corrisposto nella misura medesima, tanto ai detentori di diritti a mutuo originari, quanto ai detentori di diritti a mutuo a titolo oneroso, e a tal fine non si applicano le disposizioni dell'[art. 5 del regio decreto-legge 26 gennaio 1933, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-26;11#art_5), e dell'[art. 4 della legge 4 aprile 1935, n. 454](Attribuzione%20al%20Ministero%20dei%20lavori%20pubblici%20dei%20servizi%20dipendenti%20dai%20terremoti%20del%2028%20dicembre%201908%20e%20successivi%20fino%20al%201920.%20035U0454.md).
+Il sussidio di cui all'articolo precedente sara' corrisposto nella misura medesima, tanto ai detentori di diritti a mutuo originari, quanto ai detentori di diritti a mutuo a titolo oneroso, e a tal fine non si applicano le disposizioni dell'[art. 5 del regio decreto-legge 26 gennaio 1933, n. 11](Nuovi%20provvedimenti%20in%20materia%20di%20terremoti.%20033U0011.md), e dell'[art. 4 della legge 4 aprile 1935, n. 454](Attribuzione%20al%20Ministero%20dei%20lavori%20pubblici%20dei%20servizi%20dipendenti%20dai%20terremoti%20del%2028%20dicembre%201908%20e%20successivi%20fino%20al%201920.%20035U0454.md).
 
 ## Art. 3.
 
-E' consentito il trasferimento del diritto a contributi ad aree diverse da quella prescelta e denunciata a norma dell'[art. 8 del regio decreto-legge 26 gennaio 1933, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-26;11#art_8), purche' la nuova area si trovi nel territorio dello stesso Comune.
+E' consentito il trasferimento del diritto a contributi ad aree diverse da quella prescelta e denunciata a norma dell'[art. 8 del regio decreto-legge 26 gennaio 1933, n. 11](Nuovi%20provvedimenti%20in%20materia%20di%20terremoti.%20033U0011.md), purche' la nuova area si trovi nel territorio dello stesso Comune.
 
 ## Art. 4.
 

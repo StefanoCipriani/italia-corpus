@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 marzo 1927, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-03;331), riflettente aumento del contributo annuo obbligatorio dovuto dai sanitari italiani, nonche' del contributo annuo governativo, a favore dell'Opera pia nazionale di assistenza per gli orfani dei sanitari italiani, in Perugia (Collegio-convitto per gli orfani dei sanitari italiani). 
+ E' convertito in legge il [R. decreto-legge 3 marzo 1927, n. 331](Provvedimenti%20a%20favore%20dellOpera%20pia%20nazionale%20di%20assistenza%20per%20gli%20orfani%20dei%20sanitari%20italiani%20in%20Perugia.%20027U0331.md), riflettente aumento del contributo annuo obbligatorio dovuto dai sanitari italiani, nonche' del contributo annuo governativo, a favore dell'Opera pia nazionale di assistenza per gli orfani dei sanitari italiani, in Perugia (Collegio-convitto per gli orfani dei sanitari italiani). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

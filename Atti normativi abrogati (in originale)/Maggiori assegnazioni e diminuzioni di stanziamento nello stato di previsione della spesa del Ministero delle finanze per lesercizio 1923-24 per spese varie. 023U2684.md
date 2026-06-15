@@ -77,7 +77,7 @@ Nello stato di previsione della spesa del Ministero dello finanze per l'esercizi
  ed assegni fissi corrisposti dalle autorita' 
  militari agli ufficiali medici richiamati dal 
  congedo, per far parte delle Commissioni mediche 
- istituite dal [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491) 
+ istituite dal [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) 
  che approva la riforma delle pensioni di 
  guerra » . . . . . . . . . . . . . . . . . . . . . » 300,000 
  Cap. n. 456-quater (modificata). « Spese per il 

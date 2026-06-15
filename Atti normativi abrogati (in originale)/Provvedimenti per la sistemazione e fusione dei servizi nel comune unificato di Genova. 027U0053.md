@@ -34,7 +34,7 @@ L'Amministrazione del comune unificato di Genova provvedera', entro il 31 dicemb
  
  L'applicazione delle norme precedenti avra' luogo nonostante qualsiasi contraria disposizione di legge, di regolamenti generali o speciali o di capitolati. 
  
- Per il trattamento economico del personale licenziato o dispensato saranno applicate le norme previste dal [R. decreto 27 maggio 1923, n. 1177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-27;1177). 
+ Per il trattamento economico del personale licenziato o dispensato saranno applicate le norme previste dal [R. decreto 27 maggio 1923, n. 1177](Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md). 
  
  I provvedimenti di cui al presente articolo hanno carattere definitivo e contro di essi e' ammesso soltanto il ricorso per legittimita' alle sezioni giurisdizionali del Consiglio di Stato.
 

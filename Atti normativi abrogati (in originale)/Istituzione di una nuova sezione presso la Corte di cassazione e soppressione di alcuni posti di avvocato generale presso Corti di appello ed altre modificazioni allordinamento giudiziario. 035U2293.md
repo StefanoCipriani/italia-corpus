@@ -61,7 +61,7 @@ Le modificazioni stabilite nel precedente articolo avranno attuazione col 1° fe
  
  Col 1° marzo 1936, avra' piena attuazione la nuova circoscrizione secondo le modificazioni stabilite con l'art. 5. 
  
- Sono richiamate in vigore, in quante applicabili, le norme contenute del [R. decreto 24 marzo 1923, n. 602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-24;602); intendendosi sostituite alle disposizioni della legislazione abrogata, ivi richiamate, quelle corrispondenti della legislazione vigente, ed alle date 1° luglio e 30 settembre 1923, quelle di 1° febbraio e 29 febbraio 1936 ed in corrispondenza modificati tutti gli altri termini ivi menzionati.
+ Sono richiamate in vigore, in quante applicabili, le norme contenute del [R. decreto 24 marzo 1923, n. 602](Contenente%20norme%20processuali%20per%20lattuazione%20della%20nuova%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0602.md); intendendosi sostituite alle disposizioni della legislazione abrogata, ivi richiamate, quelle corrispondenti della legislazione vigente, ed alle date 1° luglio e 30 settembre 1923, quelle di 1° febbraio e 29 febbraio 1936 ed in corrispondenza modificati tutti gli altri termini ivi menzionati.
 
 ## Art. 6.
 

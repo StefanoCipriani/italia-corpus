@@ -54,17 +54,17 @@ Allo stipendio massimo attuale degli ufficiali telegrafici, sono aggiunte due cl
  
  Fermi restando gli aumenti quadriennali di lire 250 fino a raggiungere lo stipendio massimo attuale di lire 2,700, i due aumenti ulteriori di lire 300 ciascuno verranno normalmente accordati alla maturazione di periodi quinquennali. 
  
- In analogia alle qualifiche di cui nel quadro primo della tabella B, annessa al [regio decreto n. 43, del 26 gennaio 1899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-01-26;43), e' conferito il titolo di capo ufficio agli ufficiali telegrafici che raggiungeranno lo stipendio di lire 2,700.
+ In analogia alle qualifiche di cui nel quadro primo della tabella B, annessa al [regio decreto n. 43, del 26 gennaio 1899](Che%20provvede%20al%20riordinamento%20dellAmministrazione%20delle%20Poste%20e%20dei%20Telegrafi.%20099U0043.md), e' conferito il titolo di capo ufficio agli ufficiali telegrafici che raggiungeranno lo stipendio di lire 2,700.
 
 ## Art. 4.
 
-Nei riguardi dei quadrienni e dei quinquenni di cui sopra, l'effetto dei punti di merito stabiliti con gli articoli 242, 243 e 244 del regolamento organico approvato col [regio decreto 26 gennaio 1902, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-01-26;19), sara' quello di anticipare di sei mesi la maturazione dei suddetti periodi per ogni 10 punti di merito conseguiti. 
+Nei riguardi dei quadrienni e dei quinquenni di cui sopra, l'effetto dei punti di merito stabiliti con gli articoli 242, 243 e 244 del regolamento organico approvato col [regio decreto 26 gennaio 1902, n. 19](Che%20approva%20il%20Regolamento%20organico%20per%20lAmministrazione%20delle%20Poste%20e%20dei%20Telegrafi.%20002U0019.md), sara' quello di anticipare di sei mesi la maturazione dei suddetti periodi per ogni 10 punti di merito conseguiti. 
  
  L'anticipazione stessa non potra' pero' superare in complesso il termine di un anno per ogni periodo quadriennale, e di un anno e mezzo per ogni periodo quinquennale.
 
 ## Art. 5.
 
-Ai maggiori bisogni di personale ausiliario, occorrente per il progressivo incremento dei servizi, il Ministero delle poste e dei telegrafi avra' facolta' di provvedere mediante personale fuori ruolo con la denominazione di assistenti, scelto, in seguito ad esame di concorso teorico-pratico, tra i supplenti degli uffici postali e telegrafici di 2ª e 3ª classe, che posseggano i requisiti voluti dall'art. 134 del regolamento organico per l'amministrazione delle poste e dei telegrafi, approvato con [regio decreto 26 gennaio 1902, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-01-26;19). 
+Ai maggiori bisogni di personale ausiliario, occorrente per il progressivo incremento dei servizi, il Ministero delle poste e dei telegrafi avra' facolta' di provvedere mediante personale fuori ruolo con la denominazione di assistenti, scelto, in seguito ad esame di concorso teorico-pratico, tra i supplenti degli uffici postali e telegrafici di 2ª e 3ª classe, che posseggano i requisiti voluti dall'art. 134 del regolamento organico per l'amministrazione delle poste e dei telegrafi, approvato con [regio decreto 26 gennaio 1902, n. 19](Che%20approva%20il%20Regolamento%20organico%20per%20lAmministrazione%20delle%20Poste%20e%20dei%20Telegrafi.%20002U0019.md). 
  
  Il programma di esame sara' stabilito con decreto ministeriale. 
  
@@ -90,7 +90,7 @@ Gli assistenti hanno titolo, mediante esame di concorso, al passaggio in pianta 
 
 ## Art. 9.
 
-Sono modificati l'[art. 8 del regio decreto 26 gennaio 1899, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-01-26;44#art_8), nonche' l'art. 314 del regolamento organico sovra citato, nel senso che la retribuzione dei vuotacassette, dei portapieghi e dei portalettere suburbani varia dal minimo lire 700 al massimo di lire 900. Questi agenti fuori ruolo sono inscritti d'ufficio, come sopra, alla cassa nazionale di previdenza per la invalidita' e la vecchiaia degli operai.
+Sono modificati l'[art. 8 del regio decreto 26 gennaio 1899, n. 44](Che%20provvede%20al%20riordinamento%20dellAmministrazione%20delle%20Poste%20e%20dei%20Telegrafi.%20099U0044.md), nonche' l'art. 314 del regolamento organico sovra citato, nel senso che la retribuzione dei vuotacassette, dei portapieghi e dei portalettere suburbani varia dal minimo lire 700 al massimo di lire 900. Questi agenti fuori ruolo sono inscritti d'ufficio, come sopra, alla cassa nazionale di previdenza per la invalidita' e la vecchiaia degli operai.
 
 ## Art. 10.
 

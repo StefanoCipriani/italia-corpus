@@ -20,7 +20,7 @@ Vista la delibera del Consiglio dei ministri 7 ottobre 2020, pubblicata nella Ga
 
 Visto, da ultimo, il decreto del Presidente del Consiglio dei ministri 3 novembre 2020, pubblicato nel Supplemento ordinario n. 41 alla Gazzetta Ufficiale n. 275 del 4 novembre 2020, con il quale sono state adottate ulteriori misure di sicurezza per il contenimento del contagio sull'intero territorio nazionale;
 
-Visto il [decreto-legge 20 aprile 2020, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-04-20;26), convertito, con modificazioni, dalla [legge 19 giugno 2020, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-06-19;59);
+Visto il [decreto-legge 20 aprile 2020, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-04-20;26), convertito, con modificazioni, dalla [legge 19 giugno 2020, n. 59](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20aprile%202020%20n.%2026%20recante%20disposizioni%20urgenti%20in%20materia%20di%20consultazioni%20elettorali%20per%20lanno%202020.%2020G00085.md);
 
 Considerata pertanto la necessita' di assicurare che le ulteriori consultazioni elettorali previste per l'anno 2020 si svolgano in condizioni di sicurezza per la salute dei cittadini;
 
@@ -36,11 +36,11 @@ Emana il seguente decreto-legge:
 
 1.
 
-Le elezioni dei comuni i cui organi sono stati sciolti ai sensi dell'articolo 143 del testo unico delle leggi sull'ordinamento degli enti locali di cui al [decreto legislativo 18 agosto 2000, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267), gia' indette per le date del 22 e 23 novembre 2020, sono rinviate e si svolgono entro il 31 marzo 2021 mediante l'integrale rinnovo del procedimento di presentazione di tutte le liste e candidature a sindaco e a consigliere comunale.
+Le elezioni dei comuni i cui organi sono stati sciolti ai sensi dell'articolo 143 del testo unico delle leggi sull'ordinamento degli enti locali di cui al [decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), gia' indette per le date del 22 e 23 novembre 2020, sono rinviate e si svolgono entro il 31 marzo 2021 mediante l'integrale rinnovo del procedimento di presentazione di tutte le liste e candidature a sindaco e a consigliere comunale.
 
 2.
 
-Fino al rinnovo degli organi di cui al comma 1 e' prorogata la durata della gestione della Commissione straordinaria di cui all'[articolo 144 del decreto legislativo 18 agosto 2000, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267#art_144).
+Fino al rinnovo degli organi di cui al comma 1 e' prorogata la durata della gestione della Commissione straordinaria di cui all'[articolo 144 del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md).
 
 ## Art. 2. — Disposizioni d'urgenza per lo svolgimento delle elezioni dei consigli metropolitani, dei presidenti delle province e dei consigli provinciali
 
@@ -50,7 +50,7 @@ Limitatamente all'anno 2020, in caso di rinnovo del consiglio del comune capoluo
 
 2.
 
-Le consultazioni elettorali concernenti le elezioni dei presidenti delle province e dei consigli provinciali di cui all'[articolo 1, comma 1, lettera d-bis), del decreto-legge 20 aprile 2020, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-04-20;26#art_1-com1-letdbis), convertito, con modificazioni, dalla [legge 19 giugno 2020, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-06-19;59), si svolgono entro il 31 marzo 2021.
+Le consultazioni elettorali concernenti le elezioni dei presidenti delle province e dei consigli provinciali di cui all'[articolo 1, comma 1, lettera d-bis), del decreto-legge 20 aprile 2020, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-04-20;26#art_1-com1-letdbis), convertito, con modificazioni, dalla [legge 19 giugno 2020, n. 59](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20aprile%202020%20n.%2026%20recante%20disposizioni%20urgenti%20in%20materia%20di%20consultazioni%20elettorali%20per%20lanno%202020.%2020G00085.md), si svolgono entro il 31 marzo 2021.
 
 3.
 

@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 2 dicembre 1940, n. 1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-02;1963);
+Vista la [legge 2 dicembre 1940, n. 1963](Integrazione%20dellart.%201%20del%20R.%20decreto-legge%2023%20giugno%201938%20n.%201288%20convertito%20con%20modificazioni%20nella%20legge%2016%20febbraio%201939%20n.%20471%20che%20istituisce%20speciali%20ruoli%20donore%20per%20gli%20ufficiali_46d49f0d49ed.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,9 +28,9 @@ Sulla proposta del Ministro Segretario di Stato per l'aeronautica, di concerto c
 
 ## Articolo unico.
 
-L'articolo unico della [legge 2 dicembre 1940, n. 1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-02;1963), e' sostituito dal seguente: 
+L'articolo unico della [legge 2 dicembre 1940, n. 1963](Integrazione%20dellart.%201%20del%20R.%20decreto-legge%2023%20giugno%201938%20n.%201288%20convertito%20con%20modificazioni%20nella%20legge%2016%20febbraio%201939%20n.%20471%20che%20istituisce%20speciali%20ruoli%20donore%20per%20gli%20ufficiali_46d49f0d49ed.md), e' sostituito dal seguente: 
  
- «Gli ufficiali, sottufficiali e militari di truppa di qualsiasi ruolo e categoria della Regia aeronautica, in servizio permanente o delle categorie in congedo, dichiarati permanentemente inabili a qualsiasi servizio militare e collocati a riposo o in congedo assoluto per mutilazioni riportate in incidenti di volo o per infermita' per lesioni causate da servizio di guerra, e per i quali non possono trovare applicazione le disposizioni di cui all'[art. 46 del R. decreto-legge 24 settembre 1932, numero 1461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-09-24;1461#art_46), potranno essere iscritti, a vita, in speciali ruoli d'onore. 
+ «Gli ufficiali, sottufficiali e militari di truppa di qualsiasi ruolo e categoria della Regia aeronautica, in servizio permanente o delle categorie in congedo, dichiarati permanentemente inabili a qualsiasi servizio militare e collocati a riposo o in congedo assoluto per mutilazioni riportate in incidenti di volo o per infermita' per lesioni causate da servizio di guerra, e per i quali non possono trovare applicazione le disposizioni di cui all'[art. 46 del R. decreto-legge 24 settembre 1932, numero 1461](Norme%20sul%20reclutamento%20avanzamento%20e%20stato%20degli%20ufficiali%20della%20Regia%20aeronautica%20nonche%20sulla%20costituzione%20del%20ruolo%20servizi.%20032U1461.md), potranno essere iscritti, a vita, in speciali ruoli d'onore. 
  
  L'iscrizione avra' luogo a domanda, previo giudizio, insindacabile del Ministro per l'aeronautica, col grado e con l'anzianita' posseduta nel grado stesso all'atto del collocamento a riposo o in congedo assoluto. 
  

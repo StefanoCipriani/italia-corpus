@@ -14,7 +14,7 @@ Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie
 
 ## Art. 2.
 
-Sono autorizzate le spese di L. 76.705.000 per provvedere agli oneri generali di carattere straordinario, di L. 50.000.000 per gli oneri relativi alla manutenzione straordinaria ed alle opere edilizie e igieniche di cui ai [Regi decreti 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), e [16 giugno 1932, n. 681](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-16;681), nonche' di L. 5.000.000 per le necessita' piu' urgenti in caso di pubbliche calamita'.
+Sono autorizzate le spese di L. 76.705.000 per provvedere agli oneri generali di carattere straordinario, di L. 50.000.000 per gli oneri relativi alla manutenzione straordinaria ed alle opere edilizie e igieniche di cui ai [Regi decreti 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), e [16 giugno 1932, n. 681](Attribuzione%20al%20Ministero%20dei%20lavori%20pubblici%20dei%20servizi%20relativi%20alla%20costruzione%20di%20ospedali%20cimiteri%20locali%20di%20isolamento%20acquedotti%20ed%20altre%20opere%20igieniche.%20032U0681.md), nonche' di L. 5.000.000 per le necessita' piu' urgenti in caso di pubbliche calamita'.
 
 ## Art. 3.
 

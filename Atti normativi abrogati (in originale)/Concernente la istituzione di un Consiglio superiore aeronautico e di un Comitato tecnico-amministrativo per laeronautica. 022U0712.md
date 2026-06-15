@@ -90,7 +90,7 @@ Tanto il Consiglio superiore aeronautico, quanto il Comitato tecnico amministrat
 
 ## Art. 12.
 
-La Commissione consultiva di cui al [Regio decreto-legge 22 giugno 1920, n. 849](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-22;849), e' soppressa. 
+La Commissione consultiva di cui al [Regio decreto-legge 22 giugno 1920, n. 849](Che%20sopprime%20la%20Direzione%20generale%20daeronautica%20attualmente%20alla%20dipendenza%20del%20ministero%20dellindustria%20commercio%20e%20lavoro%20demandandone%20le%20attribuzioni%20al%20Ministero%20della%20guerra.%20020U0849.md), e' soppressa. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare, come legge dello Stato. 
  

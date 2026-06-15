@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato per gli affari dell'interno, di 
 
 ## Art. 1.
 
-Le agevolezze contemplate negli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_2) e [13 della legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_13), saranno applicabili alle spese necessarie per le opere, che debbono essere intraprese allo scopo di provvedere in modo definitivo e permanente di sufficiente acqua potabile la popolazione agglomerata tanto nei capoluoghi quanto nelle frazioni dei Comuni. 
+Le agevolezze contemplate negli [articoli 2](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md) e [13 della legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), saranno applicabili alle spese necessarie per le opere, che debbono essere intraprese allo scopo di provvedere in modo definitivo e permanente di sufficiente acqua potabile la popolazione agglomerata tanto nei capoluoghi quanto nelle frazioni dei Comuni. 
  
  Per la rete di distribuzione dalla conduttura adduttrice i Comuni pagheranno l'annualita' costante comprensiva della quota di ammortamento e degli interessi al saggio di favore del due per cento, e lo Stato la differenza tra detto interesse e quello normale. 
  
@@ -34,11 +34,11 @@ Le agevolezze contemplate negli [articoli 2](https://www.normattiva.it/uri-res/N
 
 ## Art. 2.
 
-Fermi restando i limiti per interessi a carico dello Stato, stabiliti nell'[art. 5 della legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_5), sono revocati i limiti per capitale dei mutui per opere di provvista di acqua potabile che la Cassa dei depositi e prestiti e' autorizzata a concedere, stabiliti nell'art. 1 della legge medesima.
+Fermi restando i limiti per interessi a carico dello Stato, stabiliti nell'[art. 5 della legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), sono revocati i limiti per capitale dei mutui per opere di provvista di acqua potabile che la Cassa dei depositi e prestiti e' autorizzata a concedere, stabiliti nell'art. 1 della legge medesima.
 
 ## Art. 3.
 
-Alle disposizioni degli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_7), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_8) e [9 della legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_9), sono apportate le modificazioni seguenti: 
+Alle disposizioni degli [articoli 7](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), [8](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md) e [9 della legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), sono apportate le modificazioni seguenti: 
  
  a) i mutui di favore per opere di fognatura, per locali d'isolamento ed altri ospedali, per stazioni di disinfezione e per laboratori di igiene potranno essere concessi ai Comuni con popolazione non superiore a cinquantamila abitanti e per una somma capitale non superiore a centomila lire; 
  
@@ -46,13 +46,13 @@ Alle disposizioni degli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:
  
  c) i mutui di favore per gli ospedali, gli ambulatori, le sale di pronto soccorso e simili potranno concedersi anche ad Istituti di beneficenza e ad altri enti morali. In tal caso, quando la concessione del mutuo non sia garantita dall'Amministrazione comunale, sara' accettata in garanzia rendita su titoli dello Stato vincolati per tutta la durata del mutuo e tale durata non potra' eccedere il trentennio; 
  
- d) le somme non impegnate in un esercizio entro i limiti indicati dall'[art. 9 della legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_9), andranno in aumento delle disponibilita' degli esercizi successivi; 
+ d) le somme non impegnate in un esercizio entro i limiti indicati dall'[art. 9 della legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), andranno in aumento delle disponibilita' degli esercizi successivi; 
  
- e) le disposizioni dell'[art. 6 della legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_6), saranno applicabili a tutte le opere igieniche, delle quali dal ministro dell'interno sia riconosciuta obbligatoria l'esecuzione, secondo le leggi vigenti.
+ e) le disposizioni dell'[art. 6 della legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), saranno applicabili a tutte le opere igieniche, delle quali dal ministro dell'interno sia riconosciuta obbligatoria l'esecuzione, secondo le leggi vigenti.
 
 ## Art. 4.
 
-I mutui di favore, che anteriormente alla pubblicazione del presente decreto siano stati autorizzati, con decreti del ministro dell'interno, potranno essere concessi alle condizioni stabilite negli stessi decreti e nella [legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586).
+I mutui di favore, che anteriormente alla pubblicazione del presente decreto siano stati autorizzati, con decreti del ministro dell'interno, potranno essere concessi alle condizioni stabilite negli stessi decreti e nella [legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md).
 
 ## Art. 5.
 

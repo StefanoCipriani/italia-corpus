@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Le disposizioni dell'[art. 12 del regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302#art_12), convertito nella [legge 4 aprile 1935, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;808), quali risultano modificate dall'[art. 6 della legge 21 aprile 1949, n. 185](Nuove%20misure%20delle%20indennita%20di%20aeronavigazione%20di%20pilotaggio%20e%20di%20volo.md), riguardanti la concessione di indennita' di volo al personale della Aeronautica, sono estese al personale militare e civile dell'Esercito e della Marina che compia nell'interesse del servizio, voli comandati dai competenti enti dell'Esercito e della Marina.
+Le disposizioni dell'[art. 12 del regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302#art_12), convertito nella [legge 4 aprile 1935, n. 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md), quali risultano modificate dall'[art. 6 della legge 21 aprile 1949, n. 185](Nuove%20misure%20delle%20indennita%20di%20aeronavigazione%20di%20pilotaggio%20e%20di%20volo.md), riguardanti la concessione di indennita' di volo al personale della Aeronautica, sono estese al personale militare e civile dell'Esercito e della Marina che compia nell'interesse del servizio, voli comandati dai competenti enti dell'Esercito e della Marina.
 
 ## Art. 2.
 

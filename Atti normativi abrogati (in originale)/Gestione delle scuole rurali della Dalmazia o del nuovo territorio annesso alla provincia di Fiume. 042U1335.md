@@ -12,7 +12,7 @@ vigente: true
 
 All'Opera nazionale di assistenza all'Italia redenta e' affidata, a datare dall'anno scolastico 1941-42 e uno al 31 dicembre 1943-XXII, la gestione delle scuole rurali e dei corsi serali e festivi nella Dalmazia e nei nuovi territori annessi alla provincia di Fiume. 
  
- Alla suddetta gestione sono estese in quanto applicabili, le norme del [R. decreto-legge 14 ottobre 1938, n. 1771](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-14;1771), e, dalla data di entrata in vigore della legge 1° giugno 1942-XX, n. 675, le norme dell'art. 2 della legge stessa, salve le disposizioni della presente legge.
+ Alla suddetta gestione sono estese in quanto applicabili, le norme del [R. decreto-legge 14 ottobre 1938, n. 1771](Ordinamento%20delle%20scuole%20rurali.%20038U1771.md), e, dalla data di entrata in vigore della legge 1° giugno 1942-XX, n. 675, le norme dell'art. 2 della legge stessa, salve le disposizioni della presente legge.
 
 ## Art. 2.
 

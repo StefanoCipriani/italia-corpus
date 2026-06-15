@@ -14,7 +14,7 @@ N.
 
 760.
 
-Decreto del Capo provvisorio dello Stato 22 giugno 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, viene abrogato lo statuto della Commissione geodetica italiana approvato con [regio decreto 8 luglio 1938, n. 1340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-08;1340), e viene, in sua vece, approvato il nuovo statuito.
+Decreto del Capo provvisorio dello Stato 22 giugno 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, viene abrogato lo statuto della Commissione geodetica italiana approvato con [regio decreto 8 luglio 1938, n. 1340](Approvazione%20del%20nuovo%20statuto%20della%20Reale%20Commissione%20geodetica%20italiana%20con%20sede%20in%20Firenze.%20038U1340.md), e viene, in sua vece, approvato il nuovo statuito.
 
 Visto, il Guardasigilli: GRASSI
  Registrato alla Corte dei conti, addi' 6 agosto 1947

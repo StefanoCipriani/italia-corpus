@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 7 giugno 1934, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-07;899), sull'avanzamento degli ufficiali dell'Esercito, nonche' il relativo regolamento approvato con [regio decreto 20 gennaio 1938, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-01-20;226);
+Vista la [legge 7 giugno 1934, n. 899](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20034U0899.md), sull'avanzamento degli ufficiali dell'Esercito, nonche' il relativo regolamento approvato con [regio decreto 20 gennaio 1938, n. 226](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0226.md);
 
-Visto il [regio decreto 17 settembre 1940, n. 1567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-17;1567), contenente norme per l'esecuzione dell'[art. 3 del regio decreto-legge 25 gennaio 1937, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-25;116#art_3), convertito nella [legge 7 giugno 1937, n. 993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-07;993), che reca modificazioni all'ordinamento della Guardia di finanza;
+Visto il [regio decreto 17 settembre 1940, n. 1567](Norme%20per%20lesecuzione%20dellart.%203%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20convertito%20nella%20legge%207%20giugno%201937-XV%20n.%20993%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di_14063937e20d.md), contenente norme per l'esecuzione dell'[art. 3 del regio decreto-legge 25 gennaio 1937, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-25;116#art_3), convertito nella [legge 7 giugno 1937, n. 993](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20che%20reca%20modificazioni%20allordinamento%20del%20Corpo%20della%20Regia%20guardia%20di%20finanza.%20037U0993.md), che reca modificazioni all'ordinamento della Guardia di finanza;
 
-Vista la [legge 20 marzo 1940, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-03-20;234), modificata dalla [legge 24 novembre 1941, n. 1291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-11-24;1291);
+Vista la [legge 20 marzo 1940, n. 234](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Aumento%20degli%20organici%20reclutamento%20degli%20ufficiali%20di%20complemento%20avanzamento%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20e%20delega%20al%20Governo%20per%20la%20pubblicazione%20del%20testo%20unico%20dei%20prov_e6d9692fbd55.md), modificata dalla [legge 24 novembre 1941, n. 1291](Aumento%20degli%20organici%20della%20Regia%20guardia%20di%20finanza.%20041U1291.md);
 
-Vista la [legge 11 luglio 1941, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-07-11;686), recante norme per l'avanzamento degli ufficiali della Guardia di finanza durante lo stato di guerra;
+Vista la [legge 11 luglio 1941, n. 686](Norme%20per%20lavanzamento%20degli%20ufficiali%20della%20Regia%20guardia%20di%20finanza%20durante%20lattuale%20stato%20di%20guerra.%20041U0686.md), recante norme per l'avanzamento degli ufficiali della Guardia di finanza durante lo stato di guerra;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -32,11 +32,11 @@ Sino al ripianamento delle vacanze determinatesi nel ruolo dei generali di briga
 
 ## Art. 2.
 
-In deroga alle prescrizioni contenute nel [primo comma dell'art. 20 della legge 7 giugno 1934, n. 899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-07;899#art_20-com1), e nel secondo comma dell'art. 13 del relativo regolamento, i quadri di avanzamento saranno formati sino all'anno 1947 con validita' dal 1° settembre 1943 al 31 dicembre 1947 anche ai fini dell'iscrizione nei quadri stessi degli ufficiali dichiarati prescelti.
+In deroga alle prescrizioni contenute nel [primo comma dell'art. 20 della legge 7 giugno 1934, n. 899](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20034U0899.md), e nel secondo comma dell'art. 13 del relativo regolamento, i quadri di avanzamento saranno formati sino all'anno 1947 con validita' dal 1° settembre 1943 al 31 dicembre 1947 anche ai fini dell'iscrizione nei quadri stessi degli ufficiali dichiarati prescelti.
 
 ## Art. 3.
 
-Le disposizioni di cui all'articolo unico della [legge 11 luglio 1941, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-07-11;686), continueranno ad aver vigore per il periodo di validita' dei quadri fissato nell'articolo precedente.
+Le disposizioni di cui all'articolo unico della [legge 11 luglio 1941, n. 686](Norme%20per%20lavanzamento%20degli%20ufficiali%20della%20Regia%20guardia%20di%20finanza%20durante%20lattuale%20stato%20di%20guerra.%20041U0686.md), continueranno ad aver vigore per il periodo di validita' dei quadri fissato nell'articolo precedente.
 
 ## Art. 4.
 

@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 17 giugno 1937, n. 1048](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-06-17;1048);
+Visto il [R. decreto-legge 17 giugno 1937, n. 1048](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md);
 
-Vista, la [legge 6 agosto 1940, n. 1278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-08-06;1278);
+Vista, la [legge 6 agosto 1940, n. 1278](Istituzione%20di%20una%20Cassa%20unica%20per%20gli%20assegni%20familiari%20ai%20lavoratori%20e%20disciplina%20della%20corresponsione%20degli%20assegni%20stessi%20al%20personale%20non%20usufruente%20di%20un%20trattamento%20di%20famiglia%20del_350b7c47914c.md);
 
 Visto il [decreto legislativo Luogotenenziale 9 novembre 1944, n. 307](Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md);
 
@@ -44,7 +44,7 @@ Il contributo per gli assegni famigliari e' dovuto, sull'ammontare della retribu
 
 ## Art. 2.
 
-Sono abrogati i commi, 2 e 3 dell'[art. 1 del R. decreto 21 ottobre 1941, n. 1277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-21;1277#art_1), e l'[art. 3 del decreto legislativo Luogotenenziale 9 novembre 1944, n. 307](Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md).
+Sono abrogati i commi, 2 e 3 dell'[art. 1 del R. decreto 21 ottobre 1941, n. 1277](Abolizione%20del%20limite%20di%20L.%202000%20di%20stipendio%20per%20il%20diritto%20agli%20assegni%20familiari%20degli%20impiegati%20del%20commercio%20delle%20professioni%20e%20arti%20e%20dellagricoltura.%20041U1277.md), e l'[art. 3 del decreto legislativo Luogotenenziale 9 novembre 1944, n. 307](Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md).
 
 ## Art. 3.
 

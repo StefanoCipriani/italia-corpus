@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-11;217), contenente norme interpretative del [Regio decreto-legge 30 gennaio 1933, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-30;18), concernente provvedimenti per le dichiarazioni dei redditi di categoria C-2 da parte di Enti, Societa' e privati. 
+ E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 217](Norme%20interpretative%20del%20R.%20decreto-legge%2030%20gennaio%201933%20n.%2018%20concernente%20provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20di%20Enti%20Societa%20e%20privati.%20034U0217.md), contenente norme interpretative del [Regio decreto-legge 30 gennaio 1933, n. 18](Provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0018.md), concernente provvedimenti per le dichiarazioni dei redditi di categoria C-2 da parte di Enti, Societa' e privati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La Commissione circondariale e quella regionale, istituite a norma degli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;311#art_4) e [5 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-19;311#art_5), hanno sede rispettivamente presso il Tribunale civile e presso la Corte di Appello, e ciascuna e' assistita da un cancelliere delegato dal capo dei collegi giudiziari predetti.
+La Commissione circondariale e quella regionale, istituite a norma degli [articoli 4](../Decreti%20legislativi%20luogotenenziali/Disciplina%20dei%20contratti%20di%20mezzadria%20impropria%20colonia%20parziaria%20e%20compartecipazione.%20044U0311.md) e [5 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 311](../Decreti%20legislativi%20luogotenenziali/Disciplina%20dei%20contratti%20di%20mezzadria%20impropria%20colonia%20parziaria%20e%20compartecipazione.%20044U0311.md), hanno sede rispettivamente presso il Tribunale civile e presso la Corte di Appello, e ciascuna e' assistita da un cancelliere delegato dal capo dei collegi giudiziari predetti.
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 febbraio 1927, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;271), che istituisce un reparto di Milizia portuaria a Livorno. 
+ E' convertito in legge il [R. decreto-legge 17 febbraio 1927, n. 271](Istituzione%20di%20un%20reparto%20di%20Milizia%20portuaria%20a%20Livorno.%20027U0271.md), che istituisce un reparto di Milizia portuaria a Livorno. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

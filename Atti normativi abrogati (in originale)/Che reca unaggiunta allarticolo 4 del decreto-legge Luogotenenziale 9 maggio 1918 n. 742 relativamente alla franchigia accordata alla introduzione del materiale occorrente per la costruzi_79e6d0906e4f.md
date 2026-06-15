@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 13 luglio 1911, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;745); 
+ Vista la [legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md); 
  
  Visti i Nostri [decreti legge 10 agosto 1916, n. 1031 e 6 maggio 1917, n. 783 e 9 maggio 1918, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1918-05-09;742); 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- All'[art. 4 del decreto-legge Luogotenenziale 9 maggio 1918, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1918-05-09;742#art_4), e' aggiunto il seguente comma: «La stessa franchigia e' accordata per l'introduzione dall'estero degli apparati motori delle caldaie e degli apparecchi ausiliari oppure del materiale occorrente per la loro costruzione nello Stato». 
+ All'[art. 4 del decreto-legge Luogotenenziale 9 maggio 1918, n. 742](Che%20accorda%20un%20compenso%20di%20costruzione%20ai%20piroscafi%20in%20legno%20adibiti%20esclusivamente%20ai%20trasporti%20di%20merci%20e%20costruiti%20nei%20cantieri%20nazionali.%20018U0742.md), e' aggiunto il seguente comma: «La stessa franchigia e' accordata per l'introduzione dall'estero degli apparati motori delle caldaie e degli apparecchi ausiliari oppure del materiale occorrente per la loro costruzione nello Stato». 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, aia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

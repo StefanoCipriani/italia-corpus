@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -30,7 +30,7 @@ Le supplenze e gli incarichi d'insegnamento negli istituti e nelle scuole d'istr
 ## Art. 2.
 
 Le supplenze e gl'incarichi di materie professionali negli istituti e scuole d'istruzione media tecnica sono conferiti dai capi d'istituti in base a graduatorie da essi stessi compilate, con l'assistenza di due insegnanti di materie professionali.
- La nomina degl'incaricati di religione e' disposta in conformita' della [legge 5 giugno 1930, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-06-05;824).
+ La nomina degl'incaricati di religione e' disposta in conformita' della [legge 5 giugno 1930, n. 824](Insegnamento%20religioso%20negli%20istituti%20medi%20distruzione%20classica%20scientifica%20magistrale%20tecnica%20ed%20artistica.%20030U0824.md).
 
 ## Art. 3.
 

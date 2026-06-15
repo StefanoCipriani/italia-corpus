@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 agosto 1934, n. 1540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-08-16;1540), che autorizza il Ministro per le finanze ad accordare la garanzia dello Stato italiano, fino a concorrenza del 20,5 per cento, al servizio degli interessi e dell'ammortamento dei titoli di prestito che il Governo della Repubblica d'Austria potra' emettere ai fini di una conversione totale o parziale del prestito internazionale garantito 1923-1943, collocato in Italia, Austria, Belgio, Cecoslovacchia, Francia, Gran Bretagna, Paesi Bassi, Stati Uniti d'America, Svezia e Svizzera. 
+ E' convertito in legge il [R. decreto-legge 16 agosto 1934, n. 1540](Autorizzazione%20a%20concedere%20la%20garanzia%20statale%20sino%20alla%20concorrenza%20del%20205%20per%20cento%20al%20prestito%20che%20il%20Governo%20austriaco%20potra%20emettere%20in%20conversione%20del%20prestito%20internazionale%20garan_b05685e30216.md), che autorizza il Ministro per le finanze ad accordare la garanzia dello Stato italiano, fino a concorrenza del 20,5 per cento, al servizio degli interessi e dell'ammortamento dei titoli di prestito che il Governo della Repubblica d'Austria potra' emettere ai fini di una conversione totale o parziale del prestito internazionale garantito 1923-1943, collocato in Italia, Austria, Belgio, Cecoslovacchia, Francia, Gran Bretagna, Paesi Bassi, Stati Uniti d'America, Svezia e Svizzera. 
  
  L'ammontare netto da ricavare con la nuova emissione non potra' superare l'ammontare nominale dei titoli del prestito 1923-1943 in circolazione al momento della conversione. 
  

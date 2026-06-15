@@ -54,11 +54,11 @@ La gestione del dazio consumo nel comune di Roma, assunta dallo Stato ai termini
  
  Sull'utile netto dell'esercizio 1910-911, oltre alla meta' spettante al comune di Roma, in virtu' della summentovata disposizione di legge, sara' assegnata in piu' al comune medesimo la somma di L. 400,000. 
  
- E' riservato ad esclusivo beneficio del comune il ricavato del dazio sul consumo dell'energia elettrica per illuminazione e riscaldamento, che venisse imposto a norma dell'art. 14 del testo unico delle leggi sui dazi, approvato con [R. decreto 7 maggio 1908, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-07;248).
+ E' riservato ad esclusivo beneficio del comune il ricavato del dazio sul consumo dell'energia elettrica per illuminazione e riscaldamento, che venisse imposto a norma dell'art. 14 del testo unico delle leggi sui dazi, approvato con [R. decreto 7 maggio 1908, n. 248](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sui%20dazi%20interni%20di%20consumo.%20008U0248.md).
 
 ## Art. 7.
 
-Nell'esercizio delle funzioni di tutela sugli atti del comune di Roma la Giunta provinciale amministrativa provvedera', con l'intervento dei componenti, di cui all'art. 10 del testo unico della legge comunale e provinciale approvato con [R. decreto 21 maggio 1908, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-21;269), e di due funzionari che ad essi verranno aggiunti, scelti l'uno fra i ragionieri del Ministero del tesoro con grado non inferiore a capo divisione e l'altro fra gli ingegneri dipendenti dal Ministero dei lavori pubblici con grado non inferiore ad ingegnere capo del genio civile, e nominati con decreto Reale su proposta dei rispettivi ministri.
+Nell'esercizio delle funzioni di tutela sugli atti del comune di Roma la Giunta provinciale amministrativa provvedera', con l'intervento dei componenti, di cui all'art. 10 del testo unico della legge comunale e provinciale approvato con [R. decreto 21 maggio 1908, n. 269](Che%20approva%20lannesso%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20008U0269.md), e di due funzionari che ad essi verranno aggiunti, scelti l'uno fra i ragionieri del Ministero del tesoro con grado non inferiore a capo divisione e l'altro fra gli ingegneri dipendenti dal Ministero dei lavori pubblici con grado non inferiore ad ingegnere capo del genio civile, e nominati con decreto Reale su proposta dei rispettivi ministri.
 
 ## Art. 8.
 
@@ -70,7 +70,7 @@ Il piano regolatore della citta' di Roma, approvato con [R. decreto 29 agosto 19
 
 La Cassa dei depositi e prestiti e' autorizzata a concedere all'Istituto cooperativo per le case degli impiegati in Roma, per una somma complessiva di 10 milioni di lire, mutui occorrenti per la prosecuzione della costruzione degli edifici ad uso di abitazione degli impiegati dello Stato in Roma. 
  
- I mutui saranno dati, in aggiunta a quelli concessi con l'[art. 14 della legge 11 luglio 1907, n. 502](Provvedimenti%20per%20la%20citta%20di%20Roma.%20007U0502.md), in due rate di cinque milioni di lire ciascuna e alle condizioni, nei termini e con le garanzie stabilite nel capo IX, del regolamento per la esecuzione della legge predetta, approvato con [R. decreto 12 marzo 1908, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-03-12;151). 
+ I mutui saranno dati, in aggiunta a quelli concessi con l'[art. 14 della legge 11 luglio 1907, n. 502](Provvedimenti%20per%20la%20citta%20di%20Roma.%20007U0502.md), in due rate di cinque milioni di lire ciascuna e alle condizioni, nei termini e con le garanzie stabilite nel capo IX, del regolamento per la esecuzione della legge predetta, approvato con [R. decreto 12 marzo 1908, n. 151](Che%20approva%20il%20regolamento%20di%20esecuzione%20alla%20legge%2011%20luglio%201907%20n.%20502%20portante%20provvedimenti%20per%20la%20citta%20di%20Roma.%20008U0151.md). 
  
  La prima rata, quando sia dimostrato di avere impegnato nelle costruzioni i 10 milioni gia' concessi, e la seconda saranno somministrate in base a speciali concessioni date con decreti ministeriali, sentito il Consiglio dei ministri.
 

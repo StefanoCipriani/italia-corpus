@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 gennaio 1932, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-01-28;70), concernente la concessione alla citta' di Venezia di un contributo governativo per l'integrazione del bilancio. 
+ E' convertito in legge il [R. decreto-legge 28 gennaio 1932, n. 70](Concessione%20alla%20citta%20di%20Venezia%20di%20un%20contributo%20governativo%20straordinario%20per%20lintegrazione%20del%20bilancio.%20032U0070.md), concernente la concessione alla citta' di Venezia di un contributo governativo per l'integrazione del bilancio. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 31 marzo 1932 - Anno X 
  

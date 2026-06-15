@@ -15,7 +15,7 @@ Il territorio dello Stato e' ripartito in zone militari la cui giurisdizione ter
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 ottobre 1935, n. 2233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-31;2233), convertito senza modificazioni dalla [L. 30 marzo 1936, n. 622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-03-30;622), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 ottobre 1935, n. 2233](Varianti%20alle%20disposizioni%20vigenti%20sullordinamento%20del%20Regio%20esercito.%20035U2233.md), convertito senza modificazioni dalla [L. 30 marzo 1936, n. 622](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2031%20ottobre%201935-XIV%20n.%202233%20che%20reca%20varianti%20alle%20disposizioni%20vigenti%20sullordinamento%20del%20Regio%20esercito.%20036U0622.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 
@@ -31,7 +31,7 @@ Sono istituiti cinque Ispettorati di zone militari, secondo il raggruppamento ch
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 ottobre 1935, n. 2233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-31;2233), convertito senza modificazioni dalla [L. 30 marzo 1936, n. 622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-03-30;622), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 ottobre 1935, n. 2233](Varianti%20alle%20disposizioni%20vigenti%20sullordinamento%20del%20Regio%20esercito.%20035U2233.md), convertito senza modificazioni dalla [L. 30 marzo 1936, n. 622](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2031%20ottobre%201935-XIV%20n.%202233%20che%20reca%20varianti%20alle%20disposizioni%20vigenti%20sullordinamento%20del%20Regio%20esercito.%20036U0622.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 5.
 
@@ -39,7 +39,7 @@ E' istituita altresi', alla dipendenza del Capo di Stato Maggiore dell'esercito,
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 ottobre 1935, n. 2233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-31;2233), convertito senza modificazioni dalla [L. 30 marzo 1936, n. 622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-03-30;622), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 ottobre 1935, n. 2233](Varianti%20alle%20disposizioni%20vigenti%20sullordinamento%20del%20Regio%20esercito.%20035U2233.md), convertito senza modificazioni dalla [L. 30 marzo 1936, n. 622](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2031%20ottobre%201935-XIV%20n.%202233%20che%20reca%20varianti%20alle%20disposizioni%20vigenti%20sullordinamento%20del%20Regio%20esercito.%20036U0622.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 6.
 
@@ -49,7 +49,7 @@ Gli Ispettorati di zone militari sono affidati a generali di corpo d'armata o di
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 ottobre 1935, n. 2233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-31;2233), convertito senza modificazioni dalla [L. 30 marzo 1936, n. 622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-03-30;622), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 ottobre 1935, n. 2233](Varianti%20alle%20disposizioni%20vigenti%20sullordinamento%20del%20Regio%20esercito.%20035U2233.md), convertito senza modificazioni dalla [L. 30 marzo 1936, n. 622](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2031%20ottobre%201935-XIV%20n.%202233%20che%20reca%20varianti%20alle%20disposizioni%20vigenti%20sullordinamento%20del%20Regio%20esercito.%20036U0622.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 7.
 

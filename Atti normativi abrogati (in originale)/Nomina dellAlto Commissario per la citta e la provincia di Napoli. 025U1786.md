@@ -24,7 +24,7 @@ Il gr. uff. dott. Michele Castelli, consigliere di Stato, e' nominato Alto Commi
 
 ## Art. 2.
 
-All'Alto Commissario per la provincia di Napoli spetta il trattamento di Eccellenza e sono attribuiti gli assegni del grado 3° ([R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395)), oltre una indennita' di rappresentanza di annue L. 60,000.
+All'Alto Commissario per la provincia di Napoli spetta il trattamento di Eccellenza e sono attribuiti gli assegni del grado 3° ([R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md)), oltre una indennita' di rappresentanza di annue L. 60,000.
 
 ## Art. 3.
 

@@ -18,15 +18,15 @@ Visto il Regolamento n. 136 adottato il 22 settembre 1966 dal Consiglio dei Mini
 
 Vista la decisione della Commissione della Comunita' Economica Europea in data 17 luglio 1962, relativa ai metodi di cooperazione amministrativa per l'applicazione dei regolamenti sopraindicati, con cui viene disposta l'istituzione di un nuovo modello di certificato di circolazione destinato a comprovare, negli scambi tra gli Stati membri, la condizione comunitaria dei prodotti agricoli soggetti a regime dei prelievi agricoli;
 
-Vista la legge doganale 25 settembre 1940, n. 1424, ed il relativo regolamento di applicazione approvato con [regio decreto 13 febbraio 1896, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-13;65), con le successive modificazioni ed aggiunte;
+Vista la legge doganale 25 settembre 1940, n. 1424, ed il relativo regolamento di applicazione approvato con [regio decreto 13 febbraio 1896, n. 65](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20doganali.%20096U0065.md), con le successive modificazioni ed aggiunte;
 
-Visto il [decreto-legge 30 luglio 1962, n. 955](Applicazione%20dei%20prelievi%20allimportazione%20di%20taluni%20prodotti%20agricoli%20e%20restituzione%20di%20tali%20prelievi%20alla%20esportazione%20dei%20prodotti%20medesimi%20ed%20istituzione%20di%20una%20restituzione%20alla%20produ_270755890532.md), convertito nella [legge 28 settembre 1962, n. 1433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-09-28;1433);
+Visto il [decreto-legge 30 luglio 1962, n. 955](Applicazione%20dei%20prelievi%20allimportazione%20di%20taluni%20prodotti%20agricoli%20e%20restituzione%20di%20tali%20prelievi%20alla%20esportazione%20dei%20prodotti%20medesimi%20ed%20istituzione%20di%20una%20restituzione%20alla%20produ_270755890532.md), convertito nella [legge 28 settembre 1962, n. 1433](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20luglio%201962%20n.%20955%20concernente%20lapplicazione%20dei%20prelievi%20allimportazione%20di%20taluni%20prodotti%20agricoli%20e%20per%20la%20restituzione%20di%20tali%20prelievi%20alle_e845b66068bf.md);
 
-Visto il [decreto-legge 11 settembre 1963, n. 1181](Instaurazione%20dei%20prelievi%20sui%20prodotti%20del%20settore%20suinicolo%20diversi%20da%20quelli%20previsti%20dal%20decreto-legge%20del%2030%20luglio%201962%20n.%20955.md), convertito nella [legge 3 novembre 1963, n. 1463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-11-03;1463);
+Visto il [decreto-legge 11 settembre 1963, n. 1181](Instaurazione%20dei%20prelievi%20sui%20prodotti%20del%20settore%20suinicolo%20diversi%20da%20quelli%20previsti%20dal%20decreto-legge%20del%2030%20luglio%201962%20n.%20955.md), convertito nella [legge 3 novembre 1963, n. 1463](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2011%20settembre%201963%20n.%201181%20concernente%20la%20instaurazione%20dei%20prelievi%20sui%20prodotti%20del%20settore%20suinicolo%20diversi%20da%20quelli%20previsti%20dal%20decreto-legge%20_bc4b2517b464.md);
 
-Visto il [decreto-legge 23 dicembre 1964, n. 1351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-12-23;1351), convertito con modificazioni nella [legge 19 febbraio 1965, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-02-19;28);
+Visto il [decreto-legge 23 dicembre 1964, n. 1351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-12-23;1351), convertito con modificazioni nella [legge 19 febbraio 1965, n. 28](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201964%20n.%201351%20concernente%20lattuazione%20del%20regime%20dei%20prelievi%20nei%20settori%20del%20latte%20e%20dei%20prodotti%20lattiero-caseari%20del_2d1e4178b733.md);
 
-Vista la tariffa dei dazi doganali approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-26;723), e successive aggiunte e modificazioni;
+Vista la tariffa dei dazi doganali approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](../DPR/Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md), e successive aggiunte e modificazioni;
 
 Ritenuta la straordinaria necessita' e l'urgenza di emanare norme per l'adattamento della vigente legislazione In conformita' al Regolamento comunitario n. 136/66;
 
@@ -95,7 +95,7 @@ All'esportazione verso altro Stato membro, per i prodotti di cui all'art. 1 del 
 
 ## Art. 12.
 
-Per la risoluzione delle controversie fra le Dogane e gli importatori o gli esportatori, relative all'applicazione dei dazi, dei prelievi e delle restituzioni di cui al presente decreto, si applica il procedimento previsto dal testo unico delle leggi approvato con [regio-decreto 9 aprile 1911, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-04-09;330), e successive modificazioni ed aggiunte.
+Per la risoluzione delle controversie fra le Dogane e gli importatori o gli esportatori, relative all'applicazione dei dazi, dei prelievi e delle restituzioni di cui al presente decreto, si applica il procedimento previsto dal testo unico delle leggi approvato con [regio-decreto 9 aprile 1911, n. 330](Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20risoluzione%20delle%20controversie%20doganali.%20011U0330.md), e successive modificazioni ed aggiunte.
 
 ## Art. 13.
 

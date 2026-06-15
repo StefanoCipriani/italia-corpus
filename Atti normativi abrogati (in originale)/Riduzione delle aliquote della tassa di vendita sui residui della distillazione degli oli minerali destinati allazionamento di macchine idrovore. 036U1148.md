@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto la tariffa generale dei dazi doganali approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni;
+Visto la tariffa generale dei dazi doganali approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni;
 
 Visto il [R. decreto 15 settembre 1915, n. 1373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-09-15;1373), e successive modificazioni ed aggiunte;
 
@@ -40,7 +40,7 @@ Le aliquote di tassa vendita sui residui della distillazione degli oli minerali 
 
 ## Art. 2.
 
-Qualora i residui di cui all'articolo precedente siano impiegati in usi diversi da quello per cui e' fatta la concessione, si renderanno applicabili le pene comminate per il contrabbando ai sensi degli articoli 94 e seguenti del testo unico della legge doganale approvato con [R. decreto 26 gennaio 1896, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-01-26;20), successivamente modificato.
+Qualora i residui di cui all'articolo precedente siano impiegati in usi diversi da quello per cui e' fatta la concessione, si renderanno applicabili le pene comminate per il contrabbando ai sensi degli articoli 94 e seguenti del testo unico della legge doganale approvato con [R. decreto 26 gennaio 1896, n. 20](Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), successivamente modificato.
 
 ## Art. 3.
 

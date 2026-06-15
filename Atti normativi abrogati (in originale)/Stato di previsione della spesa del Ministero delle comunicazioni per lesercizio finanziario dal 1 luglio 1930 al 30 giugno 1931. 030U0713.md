@@ -23,7 +23,7 @@ Il limite di impegno, per le sovvenzioni da accordare, nell'esercizio finanziari
 
 ## Art. 4.
 
-A decorrere dall'esercizio finanziario 1930-31, gli stanziamenti delle somme autorizzate dalle disposizioni contenute nell'[art. 17 del R. decreto-legge 16 maggio 1926, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;865#art_17), concernente provvedimenti a favore della industria delle costruzioni navali, saranno attribuiti ad unico capitolo del bilancio che assumera' la denominazione stabilita per il Capitolo n. 70 del presente stato di previsione.
+A decorrere dall'esercizio finanziario 1930-31, gli stanziamenti delle somme autorizzate dalle disposizioni contenute nell'[art. 17 del R. decreto-legge 16 maggio 1926, n. 865](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20026U0865.md), concernente provvedimenti a favore della industria delle costruzioni navali, saranno attribuiti ad unico capitolo del bilancio che assumera' la denominazione stabilita per il Capitolo n. 70 del presente stato di previsione.
 
 ## Art. 5.
 

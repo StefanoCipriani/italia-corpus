@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77);
 
-Vista la [legge 10 dicembre 1973, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-10;804);
+Vista la [legge 10 dicembre 1973, n. 804](Norme%20per%20lattuazione%20dellarticolo%2016-quater%20della%20legge%2018%20marzo%201968%20n.%20249%20quale%20risulta%20modificato%20dallarticolo%2012%20della%20legge%2028%20ottobre%201970%20n.%20775%20nei%20confronti%20degli%20ufficiali%20del_3480d302bea6.md);
 
 Considerato che con disegno di legge presentato al Parlamento il 10 luglio 1978 ed approvato dal Senato della Repubblica il 6 dicembre 1978 vengono riordinate le norme per il collocamento in aspettativa per riduzione di quadri degli ufficiali delle Forze armate e dei Corpi di polizia;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro della difesa, di concerto con il Ministro del tesoro
 
 ## Art. 1.
 
-In attesa delle disposizioni che dovranno riordinare le norme della [legge 10 dicembre 1973, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-10;804), e successive modificazioni, i termini del 31 dicembre 1978 indicati negli articoli 15 e 17 della legge stessa per i collocamenti in aspettativa per riduzione dei quadri sono prorogati fino al 31 marzo 1979.
+In attesa delle disposizioni che dovranno riordinare le norme della [legge 10 dicembre 1973, n. 804](Norme%20per%20lattuazione%20dellarticolo%2016-quater%20della%20legge%2018%20marzo%201968%20n.%20249%20quale%20risulta%20modificato%20dallarticolo%2012%20della%20legge%2028%20ottobre%201970%20n.%20775%20nei%20confronti%20degli%20ufficiali%20del_3480d302bea6.md), e successive modificazioni, i termini del 31 dicembre 1978 indicati negli articoli 15 e 17 della legge stessa per i collocamenti in aspettativa per riduzione dei quadri sono prorogati fino al 31 marzo 1979.
 
 ## Art. 2.
 

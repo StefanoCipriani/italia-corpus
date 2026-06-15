@@ -35,7 +35,7 @@ il numero massimo di personale che puo' essere ammesso a fruire dell'indennita' 
 
 ## Art. 5.
 
-Con effetto dalla data di entrata in vigore della presente legge, sono abrogate le seguenti norme del [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito nella [legge 4 aprile 1935, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;808), concernente indennita' da corrispondere al personale militare e civile dell'Aeronautica:
+Con effetto dalla data di entrata in vigore della presente legge, sono abrogate le seguenti norme del [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito nella [legge 4 aprile 1935, n. 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md), concernente indennita' da corrispondere al personale militare e civile dell'Aeronautica:
  articolo 19, sull'indennita' di residenza malarica;
  articolo 20, sui soprassoldi per servizi ed incarichi speciali e relativa tabella, fatta eccezione per i numeri 6 e 12, concernenti compenso per collaudo in volo di aeromobili dopo grandi riparazioni; articolo 26, sull'indennita' giornaliera di campo;
  articolo 27, sull'indennita' al personale in servizio presso depositi, stazioni aerologiche e telegrafiche.

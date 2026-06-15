@@ -30,7 +30,7 @@ Le autorita' alle quali saranno presentate le dette dichiarazioni, rilasceranno 
  
  Le autorita' medesime e il R. tesoro avranno facolta' di accertare, con ogni mezzo, cosi' la veridicita' delle dichiarazioni come la provenienza dei buoni che ne formano oggetto. 
  
- Le false attestazioni saranno punite a norma dell'[art. 279 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_279).
+ Le false attestazioni saranno punite a norma dell'[art. 279 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 4.
 

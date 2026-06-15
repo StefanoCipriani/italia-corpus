@@ -14,9 +14,9 @@ IL MINISTRO DELLE FINANZE
  
  d'accordo col Ministro di Agricoltura, Industria e Commercio; 
  
- Visto l'[Articolo 12 della Legge del 14 luglio 1887 N. 4703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-07-14;4703#art_12) (Serie 3ª); 
+ Visto l'[Articolo 12 della Legge del 14 luglio 1887 N. 4703](Che%20riforma%20la%20tariffa%20doganale.%20087U4703.md) (Serie 3ª); 
  
- Visto l'[art. 2 della Legge 24 giugno 1888 N. 5471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-06-24;5471#art_2) (Serie 3ª); che fissa l'abbuono sullo spirito di 1. distillazione per le fabbriche di 1ª. categoria nella misura del 10 per cento; 
+ Visto l'[art. 2 della Legge 24 giugno 1888 N. 5471](Concernente%20le%20disposizioni%20emanate%20per%20la%20fabbricazione%20degli%20alcools%20e%20dei%20vini.%20088U5471.md) (Serie 3ª); che fissa l'abbuono sullo spirito di 1. distillazione per le fabbriche di 1ª. categoria nella misura del 10 per cento; 
  
  Decreta: 
  

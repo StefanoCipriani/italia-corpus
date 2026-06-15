@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 15 luglio 1906, n. 327](Sullesercizio%20della%20professione%20di%20ragioniere.%20006U0327.md), ed il relativo regolamento approvato con [R. decreto 9 dicembre 1906, n. 715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-12-09;715), sull'esercizio della professione di ragioniere;
+Vista la [legge 15 luglio 1906, n. 327](Sullesercizio%20della%20professione%20di%20ragioniere.%20006U0327.md), ed il relativo regolamento approvato con [R. decreto 9 dicembre 1906, n. 715](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%2015%20luglio%201906%20n.%20327%20sullesercizio%20della%20professione%20di%20ragioniere.%20006U0715.md), sull'esercizio della professione di ragioniere;
 
-Visto il [R. decreto 26 agosto 1927, n. 1787](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-26;1787), che detta norme per il coordinamento della legge anzidetta con quella del 3 aprile 1926, n. 563, sulla disciplina giuridica dei rapporti collettivi del lavoro;
+Visto il [R. decreto 26 agosto 1927, n. 1787](Norme%20di%20coordinamento%20della%20legge%2015%20luglio%201906%20n.%20327%20e%20del%20regolamento%20approvato%20col%20R.%20decreto%209%20dicembre%201906%20n.%20715%20sullesercizio%20della%20professione%20di%20ragioniere%20con%20la%20legge%203%20apr_fb5d11c409cf.md), che detta norme per il coordinamento della legge anzidetta con quella del 3 aprile 1926, n. 563, sulla disciplina giuridica dei rapporti collettivi del lavoro;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

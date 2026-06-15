@@ -22,7 +22,7 @@ E' concduto un assegno mensile:
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 ottobre 1919, n. 2038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-19;2038), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 ottobre 1919, n. 2038](Che%20concede%20un%20assegno%20mensile%20ai%20pensionati%20degli%20Economati%20generali%20dei%20benefici%20vacanti%20nonche%20alle%20loro%20vedove%20ed%20orfani%20minorenni%20abrogandosi%20il%20decreto%20Luogotenenziale%2022%20giugno%20191_8cd499c92114.md), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 
@@ -32,15 +32,15 @@ Le disposizioni dell'articolo precedente non sono applicabili a coloro che prest
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 ottobre 1919, n. 2038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-19;2038), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 ottobre 1919, n. 2038](Che%20concede%20un%20assegno%20mensile%20ai%20pensionati%20degli%20Economati%20generali%20dei%20benefici%20vacanti%20nonche%20alle%20loro%20vedove%20ed%20orfani%20minorenni%20abrogandosi%20il%20decreto%20Luogotenenziale%2022%20giugno%20191_8cd499c92114.md), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
-Coloro che intendono di ottenere l'assegno di che all'articolo 1 devono attestare ai sindaci dei rispettivi Comuni di residenza, con dichiarazioni giurate, di non godere, in aggiunta alla pensione, di alcuno dei proventi indicati nell'articolo precedente, ovvero di goderne in misura inferiore all'assegno massimo che potrebbe loro spettare, in base all'articolo 1, ai fini dell'assegnazione della differenza di che all'articolo 2. Le false attestazioni sono punite a norma dell'[art. 279 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_279). 
+Coloro che intendono di ottenere l'assegno di che all'articolo 1 devono attestare ai sindaci dei rispettivi Comuni di residenza, con dichiarazioni giurate, di non godere, in aggiunta alla pensione, di alcuno dei proventi indicati nell'articolo precedente, ovvero di goderne in misura inferiore all'assegno massimo che potrebbe loro spettare, in base all'articolo 1, ai fini dell'assegnazione della differenza di che all'articolo 2. Le false attestazioni sono punite a norma dell'[art. 279 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 ottobre 1919, n. 2038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-19;2038), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 ottobre 1919, n. 2038](Che%20concede%20un%20assegno%20mensile%20ai%20pensionati%20degli%20Economati%20generali%20dei%20benefici%20vacanti%20nonche%20alle%20loro%20vedove%20ed%20orfani%20minorenni%20abrogandosi%20il%20decreto%20Luogotenenziale%2022%20giugno%20191_8cd499c92114.md), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 
@@ -48,7 +48,7 @@ Il presente decreto avra' applicazione per gli anni solari 1919 e 1920.
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 ottobre 1919, n. 2038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-19;2038), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 ottobre 1919, n. 2038](Che%20concede%20un%20assegno%20mensile%20ai%20pensionati%20degli%20Economati%20generali%20dei%20benefici%20vacanti%20nonche%20alle%20loro%20vedove%20ed%20orfani%20minorenni%20abrogandosi%20il%20decreto%20Luogotenenziale%2022%20giugno%20191_8cd499c92114.md), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 5.
 
@@ -56,7 +56,7 @@ A coloro che siano provvisti di pensione in parte a carico degli Economati gener
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 ottobre 1919, n. 2038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-19;2038), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 ottobre 1919, n. 2038](Che%20concede%20un%20assegno%20mensile%20ai%20pensionati%20degli%20Economati%20generali%20dei%20benefici%20vacanti%20nonche%20alle%20loro%20vedove%20ed%20orfani%20minorenni%20abrogandosi%20il%20decreto%20Luogotenenziale%2022%20giugno%20191_8cd499c92114.md), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 6.
 
@@ -74,4 +74,4 @@ Con decreto del ministro di grazia e giustizia, di concerto col ministro del tes
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 ottobre 1919, n. 2038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-19;2038), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 19 ottobre 1919, n. 2038](Che%20concede%20un%20assegno%20mensile%20ai%20pensionati%20degli%20Economati%20generali%20dei%20benefici%20vacanti%20nonche%20alle%20loro%20vedove%20ed%20orfani%20minorenni%20abrogandosi%20il%20decreto%20Luogotenenziale%2022%20giugno%20191_8cd499c92114.md), convertito senza modificazioni dalla [L. 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

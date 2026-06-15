@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Il Comitato supremo per i rifornimenti delle armi e delle munizioni oltre che deliberare su quanto e' stabilito dall'[art. 3 del R. decreto 9 luglio 1915, n. 1065](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-07-09;1065#art_3), di sua istituzione, potra' inoltre prendere ogni deliberazione che riguardi il piu' ampio e sollecito approvvigionamento e rifornimento delle armi, delle munizioni e dei materiali speciali occorrenti per i servizi aeronautici del R. esercito e della R. marina.
+Il Comitato supremo per i rifornimenti delle armi e delle munizioni oltre che deliberare su quanto e' stabilito dall'[art. 3 del R. decreto 9 luglio 1915, n. 1065](Contenente%20provvedimenti%20per%20i%20rifornimenti%20di%20armi%20e%20di%20munizioni.%20015U1065.md), di sua istituzione, potra' inoltre prendere ogni deliberazione che riguardi il piu' ampio e sollecito approvvigionamento e rifornimento delle armi, delle munizioni e dei materiali speciali occorrenti per i servizi aeronautici del R. esercito e della R. marina.
 
 ## Art. 2.
 
-Il sottosegretario di Stato per le armi e le munizioni, oltre che le funzioni ad esso demandate dall'[art. 5 del R. decreto 9 luglio 1915, n. 1065](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-07-09;1065#art_5), dovra' anche provvedere per tutto quanto riguarda il munizionamento, l'armamento ed i servizi aeronautici cosi' del R. esercito come della R. marina, in base ai programmi stabiliti dai rispettivi Ministeri e sempre in rapporto alle reali esigenze dei servizi ed al criterio di precedenza imposto dalla situazione di un determinato momento. 
+Il sottosegretario di Stato per le armi e le munizioni, oltre che le funzioni ad esso demandate dall'[art. 5 del R. decreto 9 luglio 1915, n. 1065](Contenente%20provvedimenti%20per%20i%20rifornimenti%20di%20armi%20e%20di%20munizioni.%20015U1065.md), dovra' anche provvedere per tutto quanto riguarda il munizionamento, l'armamento ed i servizi aeronautici cosi' del R. esercito come della R. marina, in base ai programmi stabiliti dai rispettivi Ministeri e sempre in rapporto alle reali esigenze dei servizi ed al criterio di precedenza imposto dalla situazione di un determinato momento. 
  
  Esso avra' alla sua dipendenza la Direzione generale d'aeronautica istituita con [decreto Luogotenenziale 13 giugno 1915, n. 872](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-13;872), e la Direzione del servizio aeronautico della R. marina per quanto ha tratto alle nuovo provviste e ai rifornimenti di cui sopra.
 

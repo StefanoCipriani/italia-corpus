@@ -30,7 +30,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-E' anticipata dall'anno scolastico 1994-95 all'anno scolastico 1993-94 l'attuazione delle direttive del piano di rideterminazione del rapporto alunni-classi, di cui all'[articolo 5, comma 6, della legge 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412#art_5-com6).
+E' anticipata dall'anno scolastico 1994-95 all'anno scolastico 1993-94 l'attuazione delle direttive del piano di rideterminazione del rapporto alunni-classi, di cui all'[articolo 5, comma 6, della legge 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md).
 
 2.
 
@@ -38,13 +38,13 @@ Sono fatti salvi i trasferimenti e i passaggi di ruolo e di cattedra relativi al
 
 3.
 
-Per l'anno scolastico 1993-94 il termine fissato dai [decreti- legge 21 settembre 1973, n. 567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-09-21;567), convertito, con modificazioni, dalla [legge 15 novembre 1973, n. 727, e 6 giugno 1981, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-06-06;281), convertito, con modificazioni, dalla [legge 24 luglio 1981, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-07-24;392), oltre il quale non si da' luogo a spostamenti di personale docente, e' fissato, su tutto il territorio nazionale, al trentesimo giorno dalla data di inizio delle lezioni nella regione siciliana.
+Per l'anno scolastico 1993-94 il termine fissato dai [decreti- legge 21 settembre 1973, n. 567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-09-21;567), convertito, con modificazioni, dalla [legge 15 novembre 1973, n. 727, e 6 giugno 1981, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-06-06;281), convertito, con modificazioni, dalla [legge 24 luglio 1981, n. 392](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20giugno%201981%20n.%20281%20recante%20proroga%20degli%20incarichi%20del%20personale%20docente%20educativo%20e%20non%20docente%20delle%20scuole%20materne%20elementari_80483808a29a.md), oltre il quale non si da' luogo a spostamenti di personale docente, e' fissato, su tutto il territorio nazionale, al trentesimo giorno dalla data di inizio delle lezioni nella regione siciliana.
 
 ## Art. 2.
 
 1.
 
-Allo scopo di far fronte alla straordinaria necessita' determinata dalla situazione di inagibilita', all'apertura dell'anno scolastico 1993-94, di numerosi edifici adibiti ad uso scolastico nella citta' di Napoli e' autorizzata la spesa di lire 15 miliardi per l'anno 1993, non applicandosi la disposizione di cui all'[articolo 11, comma 1, del decreto-legge 22 maggio 1993, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-22;155#art_11-com1), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;243).
+Allo scopo di far fronte alla straordinaria necessita' determinata dalla situazione di inagibilita', all'apertura dell'anno scolastico 1993-94, di numerosi edifici adibiti ad uso scolastico nella citta' di Napoli e' autorizzata la spesa di lire 15 miliardi per l'anno 1993, non applicandosi la disposizione di cui all'[articolo 11, comma 1, del decreto-legge 22 maggio 1993, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-22;155#art_11-com1), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 243](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20maggio%201993%20n.%20155%20recante%20misure%20urgenti%20per%20la%20finanza%20pubblica.md).
 
 2.
 
@@ -68,7 +68,7 @@ Le disposizioni del presente articolo si applicano fino al 31 dicembre 1993.
 
 7.
 
-L'onere di lire 15 miliardi derivante dall'applicazione del presente articolo e' posto a carico del Fondo della protezione civile istituito con [decreto-legge 10 luglio 1982, n. 428](Misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnimento%20degli%20incendi.md), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;547). Il relativo importo e' versato, nei limiti predetti, alla contabilita' speciale intestata alla prefettura di Napoli.
+L'onere di lire 15 miliardi derivante dall'applicazione del presente articolo e' posto a carico del Fondo della protezione civile istituito con [decreto-legge 10 luglio 1982, n. 428](Misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnimento%20degli%20incendi.md), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20428%20recante%20misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnim_04ba3d019ac1.md). Il relativo importo e' versato, nei limiti predetti, alla contabilita' speciale intestata alla prefettura di Napoli.
 
 8.
 

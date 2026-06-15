@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 13 gennaio 1927, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-13;15), convertito nella [legge 18 dicembre 1927, n. 2428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-18;2428);
+Visto il [regio decreto-legge 13 gennaio 1927, n. 15](Norme%20per%20il%20servizio%20di%20trasmissione%20e%20recapito%20dei%20telegrammi%20per%20telefono.%20027U0015.md), convertito nella [legge 18 dicembre 1927, n. 2428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201927%20n.%2015%20che%20reca%20norme%20per%20il%20servizio%20di%20trasmissione%20e%20recapito%20dei%20telegrammi%20per%20telefono.%20027U2428.md);
 
 Visto il Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 
-Visto il [regio decreto 19 luglio 1941, n. 1198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-19;1198);
+Visto il [regio decreto 19 luglio 1941, n. 1198](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
 
-Visto l'art. 46 (4° comma), delle Convenzioni stipulate con le Societa' concessionarie del servizio telefonico pubblico, approvate con i [regi decreti 23 aprile 1925, nn. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;505), [506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;506), [507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;507), [508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;508) e [509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;509);
+Visto l'art. 46 (4° comma), delle Convenzioni stipulate con le Societa' concessionarie del servizio telefonico pubblico, approvate con i [regi decreti 23 aprile 1925, nn. 505](Approvazione%20della%20Convenzione%20con%20la%20Societa%20telefonica%20piemontese%20per%20la%20concessione%20del%20servizio%20telefonico%20ad%20uso%20pubblico%20nella%20zona%20prima.%20025U0505.md), [506](Approvazione%20della%20Convenzione%20con%20la%20Societa%20telefonica%20delle%20Venezie%20per%20la%20concessione%20del%20servizio%20telefonico%20ad%20uso%20pubblico%20nella%20zona%20seconda.%20025U0506.md), [507](Approvazione%20della%20Convenzione%20con%20la%20Societa%20telefoni%20Italia%20Media%20Orientale%20per%20la%20concessione%20del%20servizio%20telefonico%20ad%20uso%20pubblico%20nella%20zona%20terza.%20025U0507.md), [508](Approvazione%20della%20Convenzione%20con%20la%20Societa%20telefonica%20tirrena%20per%20la%20concessione%20del%20servizio%20telefonico%20ad%20uso%20pubblico%20nella%20zona%20quarta.%20025U0508.md) e [509](Approvazione%20della%20Convenzione%20con%20la%20Societa%20esercizi%20telefonici%20per%20la%20concessione%20del%20servizio%20telefonico%20ad%20uso%20pubblico%20nella%20zona%20quinta.%20025U0509.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la tariffa dei dazi doganali, approvata con [Regio decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni ed aggiunte;
+Vista la tariffa dei dazi doganali, approvata con [Regio decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni ed aggiunte;
 
 Visti i [Regi decreti-legge 20 settembre 1931, n. 1494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-20;1494), convertito nella [legge 8 aprile 1935, n. 960; 27 giugno 1935, numero 1323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-27;1323), convertito nella [legge 27 gennaio 1936, n. 179; 9 luglio 1936, n. 1459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-07-09;1459), convertito nella [legge 8 aprile 1937, n. 653; e 1° luglio 1937, n. 1030](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-07-01;1030), convertito nella [legge 13 gennaio 1938, n. 22](Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20luglio%201937-XV%20n.%201030%20concernente%20la%20proroga%20del%20beneficio%20della%20restituzione%20dei%20diritti%20di%20confine%20e%20della%20tassa%20di%20scambio%20sulle%20materie%20pr_886b1bc95dfb.md);
 

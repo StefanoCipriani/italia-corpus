@@ -22,7 +22,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-Il termine di scadenza delle grandi derivazioni di acque per uso di forza motrice, indicato nel [decreto-legge 1 febbraio 1977, n. 13](Proroga%20delle%20concessioni%20di%20grandi%20derivazioni%20di%20acque%20per%20uso%20di%20forza%20motrice.md), convertito, con modificazioni nella [legge 31 marzo 1977, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-03-31;92), e' prorogato fino al 31 luglio 1981 anche per le concessioni scadenti entro tale data. 
+Il termine di scadenza delle grandi derivazioni di acque per uso di forza motrice, indicato nel [decreto-legge 1 febbraio 1977, n. 13](Proroga%20delle%20concessioni%20di%20grandi%20derivazioni%20di%20acque%20per%20uso%20di%20forza%20motrice.md), convertito, con modificazioni nella [legge 31 marzo 1977, n. 92](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20febbraio%201977%20n.%2013%20concernente%20proroga%20delle%20concessioni%20di%20grandi%20derivazioni%20di%20acque%20per%20uso%20di%20forza%20motrice.md), e' prorogato fino al 31 luglio 1981 anche per le concessioni scadenti entro tale data. 
  Sono fatti salvi i diritti delle regioni a statuto speciale e delle province autonome.
 
 ## Art. 2.

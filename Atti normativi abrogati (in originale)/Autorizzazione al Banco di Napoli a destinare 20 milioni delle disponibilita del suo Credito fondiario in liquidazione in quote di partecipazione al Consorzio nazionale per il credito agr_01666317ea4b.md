@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il Credito fondiario (in liquidazione) del Banco di Napoli e' autorizzato ad investire, fino a concorrenza di L. 20,000,000, le somme di cui all'[art. 15 della legge 7 luglio 1905, n. 350](Provvedimenti%20a%20favore%20dei%20mutuatari%20del%20Credito%20fondiario%20in%20liquidazione%20del%20Banco%20di%20Napoli%20e%20sistemazione%20dei%20rapporti%20del%20Credito%20fondiario%20col%20Banco%20di%20Napoli.%20005U0350.md), in quote di partecipazione al Consorzio nazionale per il credito agrario di miglioramento, costituito ai termini dell'[articolo 18 del R. decreto-legge 29 luglio 1927, n. 1509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509#art_18). 
+ Il Credito fondiario (in liquidazione) del Banco di Napoli e' autorizzato ad investire, fino a concorrenza di L. 20,000,000, le somme di cui all'[art. 15 della legge 7 luglio 1905, n. 350](Provvedimenti%20a%20favore%20dei%20mutuatari%20del%20Credito%20fondiario%20in%20liquidazione%20del%20Banco%20di%20Napoli%20e%20sistemazione%20dei%20rapporti%20del%20Credito%20fondiario%20col%20Banco%20di%20Napoli.%20005U0350.md), in quote di partecipazione al Consorzio nazionale per il credito agrario di miglioramento, costituito ai termini dell'[articolo 18 del R. decreto-legge 29 luglio 1927, n. 1509](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -38,13 +38,13 @@ Visto il [R. decreto 20 marzo 1924, n. 439](https://www.normattiva.it/uri-res/N2
 
 Visto il [R. decreto 3 giugno 1924, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-03;938);
 
-Visto il [R. decreto 24 maggio 1924, n. 997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-24;997);
+Visto il [R. decreto 24 maggio 1924, n. 997](Istituzione%20presso%20il%20Ministero%20delle%20finanze%20di%20una%20Commissione%20centrale%20per%20i%20dazi%20interni%20di%20consumo.%20024U0997.md);
 
 Visto il [R. decreto 4 settembre 1924, n. 1356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-04;1356);
 
 Visto il [R. decreto 11 novembre 1924, n. 1932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-11;1932);
 
-Visto il [R. decreto 20 novembre 1924, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-20;1945);
+Visto il [R. decreto 20 novembre 1924, n. 1945](Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md);
 
 Visto l'art. 2 delle disposizioni preliminari del precitato [testo unico 19 agosto 1917, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1917-08-19;1399), prorogato con l'[art. 3 del decreto Luogotenenziale 3 novembre 1918, n. 1857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-03;1857#art_3); 6 della [legge 20 agosto 1921, n. 1178, n. 1178](Che%20autorizza%20la%20maggiore%20spesa%20di%20L.%20113500000%20per%20opere%20dipendenti%20da%20terremoti.%20021U1178.md), e 1 del [R. decreto 9 marzo 1924, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-03-09;494);
 
@@ -125,7 +125,7 @@ E' prorogata per un altro quinquennio la facolta' consentita al Prefetto nei mod
 
 Lo Stato conserva sempre il diritto di disporre di quelle aree che gli occorrano per le proprie esigenze o per provvedere ad opere o servizi pubblici. 
  
- L'alienazione dovra' essere fatta a norma dell'art. 183 della legge comunale e provinciale, modificato con l'[art. 52 del R. decreto 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839#art_52). 
+ L'alienazione dovra' essere fatta a norma dell'art. 183 della legge comunale e provinciale, modificato con l'[art. 52 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
  
  I Comuni hanno altresi' facolta' di cedere in enfiteusi a scopo edilizio i terreni suddetti. Il diritto di' affrancazione non potra' essere esercitato dall'enfiteuta se non dopo il periodo di sessanta anni dalla data della concessione enfiteutica. 
  
@@ -162,7 +162,7 @@ L'[art. 12 del R. decreto 4 settembre 1924, n. 1356](https://www.normattiva.it/u
  
  « Il Ministero dei lavori pubblici prendera' in consegna tutte le case economiche e popolari e per impiegati costruite o in costruzione a cura dello Stato e dell'Unione edilizia nazionale nelle localita' colpite da terremoti e finora non cedute ai Comuni e ne curera' la ultimazione e la gestione. 
  
- « Le case economiche e popolari saranno amministrate con le norme del presente decreto. Le case per gli impiegati dovranno essere amministrate con le modalita' di cui agli articoli 4 a 9 del [R. decreto 20 novembre 1924, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-20;1945). 
+ « Le case economiche e popolari saranno amministrate con le norme del presente decreto. Le case per gli impiegati dovranno essere amministrate con le modalita' di cui agli articoli 4 a 9 del [R. decreto 20 novembre 1924, n. 1945](Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md). 
  
  « Gli attuali utenti di case economiche e popolari potranno ottenere l'assegnazione in proprieta' delle case che abitano quando si trovino nelle condizioni previste dagli articoli 6 e 11 del presente decreto. 
  

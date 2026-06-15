@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 24 marzo 1907, n. 111, 19 luglio 1909, n. 528, e 20 marzo 1913, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;267);
+Viste le [leggi 24 marzo 1907, n. 111, 19 luglio 1909, n. 528, e 20 marzo 1913, n. 267](Riguardante%20il%20personale%20degli%20operatori%20e%20telegrafisti%20013U0267.md);
 
 Udito il Consiglio dei ministri;
 
@@ -78,7 +78,7 @@ La Giunta di vigilanza e' composta di due professori universitari, del direttore
 
 ### Art. 10.
 
-L'[art. 12 della legge 19 luglio 1909, n. 528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;528#art_12), e l'[articolo 2, della legge 20 marzo 1913, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;267#art_2), sono aboliti.
+L'[art. 12 della legge 19 luglio 1909, n. 528](Che%20approva%20lorganico%20della%20direzione%20generale%20dei%20telefoni.%20009U0528.md), e l'[articolo 2, della legge 20 marzo 1913, n. 267](Riguardante%20il%20personale%20degli%20operatori%20e%20telegrafisti%20013U0267.md), sono aboliti.
 
 ### Art. 11.
 

@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  E' convertito in legge il [Regio decreto 22 luglio 1920, n. 1060](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-07-22;1060), che apporta varianti a quello 2 maggio 1920, n. 621, contenente disposizioni per la leva marittima, con le modificazioni risultanti dal testo seguente: 
  
- Al [Regio decreto-legge 2 maggio 1920, n. 621](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-05-02;621), sono apportate le seguenti variazioni ed aggiunte: 
+ Al [Regio decreto-legge 2 maggio 1920, n. 621](Che%20apporta%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima%20approvato%20con%20R.%20decreto%2016%20dicembre%201888%20n.%205860.%20020U0621.md), sono apportate le seguenti variazioni ed aggiunte: 
  
  All'articolo 2, dopo il paragrafo 8°, e' aggiunto il seguente capoverso: 
  

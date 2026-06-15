@@ -28,13 +28,13 @@ La realizzazione di opere di sbarramento che superano i 15 metri di altezza o ch
 
 2.
 
-Il [comma 3 dell'articolo 10 della legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183#art_10-com3), e' sostituito dal seguente: 
+Il [comma 3 dell'articolo 10 della legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md), e' sostituito dal seguente: 
  " 3. Il Servizio tecnico nazionale dighe provvede alla identificazione, al controllo dei progetti di massima nonche' al controllo dei progetti esecutivi dei serbatoi artificiali aventi volume di invaso superiore a 1.000.000 di metri cubi o che richiedono sbarramenti di altezza superiore a 15 metri.".
 
 3.
 
-Il [comma 4 dell'articolo 10 della legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183#art_10-com4), e' sostituito dal seguente: 
- " 4. Rientrano nella competenza delle regioni a statuto ordinario e a statuto speciale e delle province autonome di Trento e di Bolzano le attribuzioni di cui al [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-11-01;1363), per gli sbarramenti che non superano i 15 metri di altezza e che determinano un invaso non superiore a 1.000.000 di metri cubi, ad eccezione degli sbarramenti al servizio di grandi derivazioni di acqua di competenza statale.".
+Il [comma 4 dell'articolo 10 della legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md), e' sostituito dal seguente: 
+ " 4. Rientrano nella competenza delle regioni a statuto ordinario e a statuto speciale e delle province autonome di Trento e di Bolzano le attribuzioni di cui al [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), per gli sbarramenti che non superano i 15 metri di altezza e che determinano un invaso non superiore a 1.000.000 di metri cubi, ad eccezione degli sbarramenti al servizio di grandi derivazioni di acqua di competenza statale.".
 
 4.
 
@@ -46,7 +46,7 @@ E' soggetta all'approvazione tecnica del progetto anche ogni opera di modificazi
 
 6.
 
-L'approvazione tecnica dei progetti, anche se di variante, di dighe e l'emanazione del relativo atto amministrativo e' di competenza del Servizio nazionale dighe, di cui alla [legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183).
+L'approvazione tecnica dei progetti, anche se di variante, di dighe e l'emanazione del relativo atto amministrativo e' di competenza del Servizio nazionale dighe, di cui alla [legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md).
 
 7.
 
@@ -84,7 +84,7 @@ Entro sei mesi dalla data di entrata in vigore del presente decreto, e' emanato,
 
 2.
 
-Fino alla data di entrata in vigore del regolamento di cui al comma 1, continuano ad avere applicazione il regolamento approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-11-01;1363), e le disposizioni tecniche ed amministrative emanate sulla base di questo, salve le innovazioni apportate dalla legislazione successiva quanto al riparto di attribuzioni fra gli uffici statali e regionali.
+Fino alla data di entrata in vigore del regolamento di cui al comma 1, continuano ad avere applicazione il regolamento approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), e le disposizioni tecniche ed amministrative emanate sulla base di questo, salve le innovazioni apportate dalla legislazione successiva quanto al riparto di attribuzioni fra gli uffici statali e regionali.
 Nei casi di minore importanza il Servizio nazionale dighe puo' consentire l'applicazione parziale delle norme suddette.
 
 ## Art. 3.
@@ -99,7 +99,7 @@ Tenuto a chiedere l'approvazione in sanatoria e' il soggetto che a qualunque tit
 
 3.
 
-La domanda di approvazione in sanatoria deve essere presentata o inviata, nei modi previsti dall'[articolo 5 del decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-11-01;1363#art_5), agli uffici periferici competenti per territorio del Servizio nazionale dighe, ovvero, ove questi ultimi non siano stati ancora insediati, agli uffici periferici del Ministero dei lavori pubblici, corredata della seguente documentazione, a firma, per quanto di rispettiva competenza, di ingegneri e geologi iscritti ai relativi albi professionali:
+La domanda di approvazione in sanatoria deve essere presentata o inviata, nei modi previsti dall'[articolo 5 del decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), agli uffici periferici competenti per territorio del Servizio nazionale dighe, ovvero, ove questi ultimi non siano stati ancora insediati, agli uffici periferici del Ministero dei lavori pubblici, corredata della seguente documentazione, a firma, per quanto di rispettiva competenza, di ingegneri e geologi iscritti ai relativi albi professionali:
                         a)
                             relazione tecnica generale che riporti: i dati caratteristici della diga, delle opere accessorie e del serbatoio; volume d'invaso e modalita' di valutazione dello stesso; l'indicazione delle vie di accesso; i sistemi di allarme e di comunicazione installati; le fonti di energia per la manovra degli organi di intercettazione degli scarichi; le modalita' di vigilanza e controllo;
                         b)
@@ -127,7 +127,7 @@ Nelle more del procedimento di approvazione in sanatoria, e senza pregiudizio pe
 
 6.
 
-Nelle more dell'emanazione del regolamento di cui all'articolo 2, comma 1, l'attivita' di controllo e vigilanza prevista dalla [legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183), sulle opere di cui all'articolo 1 e' svolta dal Ministero dei lavori pubblici che puo' allo scopo, in caso di impossibilita' a svolgere direttamente i controlli, stipulare convenzioni con organismi pubblici e privati.
+Nelle more dell'emanazione del regolamento di cui all'articolo 2, comma 1, l'attivita' di controllo e vigilanza prevista dalla [legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md), sulle opere di cui all'articolo 1 e' svolta dal Ministero dei lavori pubblici che puo' allo scopo, in caso di impossibilita' a svolgere direttamente i controlli, stipulare convenzioni con organismi pubblici e privati.
 
 7.
 
@@ -157,23 +157,23 @@ Chiunque non adempia alle prescrizioni di cui all'articolo 3, comma 4, ovvero de
 
 5.
 
-L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 5 e 6, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_373).
+L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 5 e 6, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 
 1.
 
-All'[articolo 24 del decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-01-24;85#art_24), sono soppressi il comma 1, lettera a), ed il comma 4. Al comma 3, lettera a), dello stesso articolo sono altresi' soppresse le parole: "valuta altresi', ai sensi dell'articolo 10 della legge, l'attendibilita' delle previsioni di spesa in rapporto alle soluzioni tecniche proposte;".
+All'[articolo 24 del decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](../DPR/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20geologico%20idrografico%20e%20mareografico%20sismico%20e%20dighe%20nellambito%20della%20Presidenza%20del%20Consigli_22dd683b662a.md), sono soppressi il comma 1, lettera a), ed il comma 4. Al comma 3, lettera a), dello stesso articolo sono altresi' soppresse le parole: "valuta altresi', ai sensi dell'articolo 10 della legge, l'attendibilita' delle previsioni di spesa in rapporto alle soluzioni tecniche proposte;".
 
 2.
 
-All'[articolo 28, comma 1, del decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-01-24;85#art_28-com1), le parole: ", gli uffici periferici del Ministero dei lavori pubblici" sono sostituite dalle seguenti: ", e comunque non oltre il 31 dicembre 1995, i provveditorati regionali alle opere pubbliche del Ministero dei lavori pubblici e l'assessorato ai lavori pubblici della regione Sardegna" e le parole: "delle disposizioni legislative e regolamentari vigenti prima dell'entrata in vigore della legge." sono sostituite dalle seguenti: "degli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-11-01;1363#art_16), [17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-11-01;1363#art_17) e [18 del decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-11-01;1363#art_18).".
+All'[articolo 28, comma 1, del decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](../DPR/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20geologico%20idrografico%20e%20mareografico%20sismico%20e%20dighe%20nellambito%20della%20Presidenza%20del%20Consigli_22dd683b662a.md), le parole: ", gli uffici periferici del Ministero dei lavori pubblici" sono sostituite dalle seguenti: ", e comunque non oltre il 31 dicembre 1995, i provveditorati regionali alle opere pubbliche del Ministero dei lavori pubblici e l'assessorato ai lavori pubblici della regione Sardegna" e le parole: "delle disposizioni legislative e regolamentari vigenti prima dell'entrata in vigore della legge." sono sostituite dalle seguenti: "degli [articoli 16](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), [17](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md) e [18 del decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md).".
 
 ## Art. 6.
 
 1.
 
-Le somme introitate dal Dipartimento per i Servizi tecnici nazionali per il rilascio di dati, pareri e consulenze di cui all'[articolo 9, comma 4, lettera c), della legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183#art_9-com4-letc), ovvero in conseguenza della conclusione, con soggetti pubblici o privati, di accordi o convenzioni per lo svolgimento dell'attivita' conoscitiva, di pianificazione, di programmazione e di attuazione prevista dagli articoli 2 e 3 nella medesima [legge n. 183 del 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;183), sono versate in un apposito capitolo dello stato di previsione dell'entrata, per essere riassegnate, con decreto del Ministro del tesoro, in aumento degli stanziamenti dello stato di previsione della Presidenza del Consiglio dei Ministri, rubrica 42, Servizi tecnici nazionali.
+Le somme introitate dal Dipartimento per i Servizi tecnici nazionali per il rilascio di dati, pareri e consulenze di cui all'[articolo 9, comma 4, lettera c), della legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md), ovvero in conseguenza della conclusione, con soggetti pubblici o privati, di accordi o convenzioni per lo svolgimento dell'attivita' conoscitiva, di pianificazione, di programmazione e di attuazione prevista dagli articoli 2 e 3 nella medesima [legge n. 183 del 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;183), sono versate in un apposito capitolo dello stato di previsione dell'entrata, per essere riassegnate, con decreto del Ministro del tesoro, in aumento degli stanziamenti dello stato di previsione della Presidenza del Consiglio dei Ministri, rubrica 42, Servizi tecnici nazionali.
 
 ## Art. 7.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Agli agenti delle Ferrovie dello Stato esonerati in applicazione del [R. decreto-legge 24 novembre 1930, n. 1596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-24;1596), con decorrenza posteriore al 30 aprile 1933, sara' corrisposto un compenso pari ad una mensilita' di stipendio per qualsiasi anticipazione dell'esonero rispetto al raggiungimento dei limiti normali, purche' superiore al semestre. 
+ Agli agenti delle Ferrovie dello Stato esonerati in applicazione del [R. decreto-legge 24 novembre 1930, n. 1596](Esonero%20dal%20servizio%20di%20agenti%20ferroviari.%20030U1596.md), con decorrenza posteriore al 30 aprile 1933, sara' corrisposto un compenso pari ad una mensilita' di stipendio per qualsiasi anticipazione dell'esonero rispetto al raggiungimento dei limiti normali, purche' superiore al semestre. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 11 gennaio 1934 - Anno XII 

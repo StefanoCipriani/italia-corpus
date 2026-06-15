@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 dicembre 1923, n. 3106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3106);
+Visto il [R. decreto 31 dicembre 1923, n. 3106](Grado%20preparatorio%20dellistruzione%20elementare.%20023U3106.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretaria di Stato per la pubblica istruzion
 
 ## Articolo unico.
 
-Durante un quinquennio dalla pubblicazione del presente decreto potranno essere ammesse all'esame nelle scuole di metodo o nelle scuole di cui alla [lettera c) dell'art. 4 del R. decreto 31 dicembre 1923, n. 3106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3106#art_4-letc), per conseguire il titolo legale di abilitazione all'insegnamento nel grado preparatorio le maestre di asilo previste dal 2° comma dell'articolo 6 del citato [R. decreto 31 dicembre 1923, n. 3106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3106), le quali da piu' di tre anni prestino lodevole servizio se pure provviste del titolo richiesto per l'iscrizione nelle scuole di metodo sopradette. 
+Durante un quinquennio dalla pubblicazione del presente decreto potranno essere ammesse all'esame nelle scuole di metodo o nelle scuole di cui alla [lettera c) dell'art. 4 del R. decreto 31 dicembre 1923, n. 3106](Grado%20preparatorio%20dellistruzione%20elementare.%20023U3106.md), per conseguire il titolo legale di abilitazione all'insegnamento nel grado preparatorio le maestre di asilo previste dal 2° comma dell'articolo 6 del citato [R. decreto 31 dicembre 1923, n. 3106](Grado%20preparatorio%20dellistruzione%20elementare.%20023U3106.md), le quali da piu' di tre anni prestino lodevole servizio se pure provviste del titolo richiesto per l'iscrizione nelle scuole di metodo sopradette. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

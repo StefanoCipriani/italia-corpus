@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 17 della legge 19 dicembre 1992, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489#art_17), recante delega al Governo per l'attuazione della [direttiva 91/629/CEE del Consiglio del 19 novembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;629);
+Visto l'[art. 17 della legge 19 dicembre 1992, n. 489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md), recante delega al Governo per l'attuazione della [direttiva 91/629/CEE del Consiglio del 19 novembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;629);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 dicembre 1992;
 
@@ -119,11 +119,11 @@ Le regioni a statuto ordinario ed a statuto speciale e le prov- ince autonome di
 
 3.
 
-Ferma restando la competenza generale del Comune a vigilare sul rispetto delle norme di protezione degli animali anche tramite le guardie zoofile delle associazioni di volontariato, fatte salve le competenze per la vigilanza sulle violazioni all'[art. 727 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_727), le Unita' sanitarie locali nell'ambito della vigilanza di cui all'[art. 6, lettera u), della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_6-letu), controllano l'applicazione delle disposizioni del presente decreto.
+Ferma restando la competenza generale del Comune a vigilare sul rispetto delle norme di protezione degli animali anche tramite le guardie zoofile delle associazioni di volontariato, fatte salve le competenze per la vigilanza sulle violazioni all'[art. 727 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le Unita' sanitarie locali nell'ambito della vigilanza di cui all'[art. 6, lettera u), della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_6-letu), controllano l'applicazione delle disposizioni del presente decreto.
 
 4.
 
-Il Ministero della sanita' comunica alla Commissione le disposizioni piu' severe adottate anche in applicazione delle raccomandazioni del Consiglio d'Europa e delle disposizioni della [legge 14 ottobre 1985, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-10-14;623).
+Il Ministero della sanita' comunica alla Commissione le disposizioni piu' severe adottate anche in applicazione delle raccomandazioni del Consiglio d'Europa e delle disposizioni della [legge 14 ottobre 1985, n. 623](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md).
 
 ## Art. 10.
 
@@ -137,7 +137,7 @@ Nelle more della definizione normativa sulla mobilita' questa si attua attravers
 
 3.
 
-Ai fini degli indilazionabili adempimenti degli obblighi comunitari, nell'ambito delle vigenti dotazioni organiche, i posti delle qualifiche di primo dirigente non conferiti alla data di entrata in vigore della presente legge, ferme restando le decorrenze annuali di cui all'[art. 6 della legge 10 luglio 1984, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-10;301#art_6), sono coperti con le modalita' di cui all'[art. 1 della legge 30 settembre 1978, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-09-30;583#art_1); i posti delle qualifiche di dirigente superiore, non conferiti alla data di entrata in vigore della presente legge, ferme restando le decorrenze annuali di cui all'[art. 24 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-30;748#art_24), sono conferiti meta' secondo il turno di anzianita' e meta' con le modalita' di cui all'[art. 1 della legge 30 settembre 1978, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-09-30;583#art_1).
+Ai fini degli indilazionabili adempimenti degli obblighi comunitari, nell'ambito delle vigenti dotazioni organiche, i posti delle qualifiche di primo dirigente non conferiti alla data di entrata in vigore della presente legge, ferme restando le decorrenze annuali di cui all'[art. 6 della legge 10 luglio 1984, n. 301](Norme%20di%20accesso%20alla%20dirigenza%20statale.md), sono coperti con le modalita' di cui all'[art. 1 della legge 30 settembre 1978, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-09-30;583#art_1); i posti delle qualifiche di dirigente superiore, non conferiti alla data di entrata in vigore della presente legge, ferme restando le decorrenze annuali di cui all'[art. 24 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), sono conferiti meta' secondo il turno di anzianita' e meta' con le modalita' di cui all'[art. 1 della legge 30 settembre 1978, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-09-30;583#art_1).
 
 ## Art. 11.
 

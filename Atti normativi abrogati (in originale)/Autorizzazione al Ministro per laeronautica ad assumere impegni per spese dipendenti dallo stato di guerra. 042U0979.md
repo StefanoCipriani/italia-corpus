@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-In aggiunta alle autorizzazioni disposte con precedenti provvedimenti, il Ministro per l'aeronautica e' autorizzato ad assumere impegni per spese di carattere eccezionale connesse allo stato di guerra entro il limite di lire tre miliardi, oltre gli interessi sui pagamenti ratizzati ai sensi del [R. decreto-legge 13 gennaio 1941, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-01-13;27).
+In aggiunta alle autorizzazioni disposte con precedenti provvedimenti, il Ministro per l'aeronautica e' autorizzato ad assumere impegni per spese di carattere eccezionale connesse allo stato di guerra entro il limite di lire tre miliardi, oltre gli interessi sui pagamenti ratizzati ai sensi del [R. decreto-legge 13 gennaio 1941, n. 27](Finanziamento%20delle%20spesi%20straordinarie%20per%20esigenze%20belliche.%20041U0027.md).
 
 ## Art. 2.
 

@@ -18,7 +18,7 @@ E' concessa amnistia:
  
  3° pei delitti di oltraggio e di resistenza contro persone rivestite di pubbliche autorita', commessi in occasione di pubbliche dimostrazioni, e non accompagnati o connessi a delitti contro le persone perseguibili di ufficio; 
  
- 4° pei delitti di duello, preveduti negli articoli 237, 238, 239 n. 3, e 241 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398); 
+ 4° pei delitti di duello, preveduti negli articoli 237, 238, 239 n. 3, e 241 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  5° pei delitti contro la sicurezza dello Stato e d'istigazione o provocazione a commetterli, purche' non sia per essi, stabilita dalla legge una pena restrittiva della liberta' personale superiore nel massimo a tre anni, e purche' non sieno accompagnati o connessi a delitti contro le persone o le proprieta' perseguibili di ufficio; 
  
@@ -26,7 +26,7 @@ E' concessa amnistia:
  
  7° per le contravvenzioni al disposto degli articoli 4 e 5 della legge 30 giugno 1889 sulla requisizione dei quadrupedi, purche' i contravventori adempiano, non oltre il 31 maggio prossimo, alle dichiarazioni in detti articoli stabilite; 
  
- 8° per le contravvenzioni previste nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), nella legge sulla sanita' pubblica, nelle leggi e nei regolamenti forestali, nelle leggi sulla caccia, ed in quella sulla pesca, quando, per dette contravvenzioni, sia stabilita la pena dell'arresto non oltre 15 giorni, o una pena pecuniaria, sola o accompagnata alla detta pena restrittiva, non oltre lire trecento, o quando per esse, quale che sia la pena stabilita, il giudice abbia pronunziata condanna entro i limiti sopra indicati; 
+ 8° per le contravvenzioni previste nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nella legge sulla sanita' pubblica, nelle leggi e nei regolamenti forestali, nelle leggi sulla caccia, ed in quella sulla pesca, quando, per dette contravvenzioni, sia stabilita la pena dell'arresto non oltre 15 giorni, o una pena pecuniaria, sola o accompagnata alla detta pena restrittiva, non oltre lire trecento, o quando per esse, quale che sia la pena stabilita, il giudice abbia pronunziata condanna entro i limiti sopra indicati; 
  
  9° per le contravvenzioni previste in ogni altra legge o regolamento, per le quali sia stabilita, o applicata, soltanto un'ammenda non maggiore di lire trenta. 
  

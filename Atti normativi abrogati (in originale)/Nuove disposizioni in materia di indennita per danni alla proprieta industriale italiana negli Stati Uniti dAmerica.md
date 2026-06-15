@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 L'[art. 5 della legge 11 dicembre 1952, n. 3094](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-11;3094#art_5), contenente nuove disposizioni in materia di indennita' per danni alla proprieta' industriale italiana negli Stati Uniti d'America, e' abrogato.
- La Commissione di cui all'[art. 3 del decreto del Presidente della Repubblica 30 dicembre 1950, n 1275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-12-30;1275#art_3) continuera' a funzionare fino alla definizione di tutti i reclami pendenti.
+ La Commissione di cui all'[art. 3 del decreto del Presidente della Repubblica 30 dicembre 1950, n 1275](../DPR/Norme%20di%20attuazione%20della%20legge%2024%20novembre%201948%20n.%201493%20relativa%20alla%20indennita%20per%20danni%20alla%20proprieta%20industriale%20italiana%20negli%20Stati%20Uniti%20dAmerica.md) continuera' a funzionare fino alla definizione di tutti i reclami pendenti.
 
 ## Art. 2.
 
@@ -25,7 +25,7 @@ Gli acconti previsti dall'[art. 6 della legge 24 novembre 1948, n. 1493](https:/
 
 ## Art. 3.
 
-L'[art. 2 del decreto del Presidente della Repubblica 30 dicembre 1950, n. 1275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-12-30;1275#art_2), e' modificato come segue:
+L'[art. 2 del decreto del Presidente della Repubblica 30 dicembre 1950, n. 1275](../DPR/Norme%20di%20attuazione%20della%20legge%2024%20novembre%201948%20n.%201493%20relativa%20alla%20indennita%20per%20danni%20alla%20proprieta%20industriale%20italiana%20negli%20Stati%20Uniti%20dAmerica.md), e' modificato come segue:
  "Il Ministero del tesoro, di concerto con il Ministero dell'industria e del commercio, effettua i necessari accertamenti e trasmette le pratiche istruite alla Commissione amministrativa di cui al successivo art. 3, la quale determina, in via definitiva, la indennita' da corrispondere all'interessato".
 
 ## Art. 4.

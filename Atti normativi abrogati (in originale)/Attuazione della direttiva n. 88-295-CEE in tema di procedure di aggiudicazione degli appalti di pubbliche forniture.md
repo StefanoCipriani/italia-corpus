@@ -46,7 +46,7 @@ Sono amministrazioni aggiudicatrici:
 
 4.
 
-Le regioni a statuto ordinario ed a statuto speciale, nonche' le province autonome di Trento e di Bolzano, nella loro rispettiva competenza, sono tenute ad adeguare alle disposizioni del presente decreto la normativa emanata nella materia, ai sensi del combinato disposto dell'[art. 6 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_6) e dell'[art. 9 della legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86#art_9).
+Le regioni a statuto ordinario ed a statuto speciale, nonche' le province autonome di Trento e di Bolzano, nella loro rispettiva competenza, sono tenute ad adeguare alle disposizioni del presente decreto la normativa emanata nella materia, ai sensi del combinato disposto dell'[art. 6 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md) e dell'[art. 9 della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md).
 Costituiscono norme di principio quelle contenute negli articoli dal 2 all'11 e 13 del presente decreto.
 
 5.
@@ -143,12 +143,12 @@ Le spese di pubblicazione degli avvisi e dei bandi di gara nella Gazzetta Uffici
 
 1.
 
-Il [comma 1 dell'art. 7 della legge 30 marzo 1981, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;113#art_7-com1), modificata dalla [legge 23 marzo 1983, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;83), e' cosi' sostituito: 
+Il [comma 1 dell'art. 7 della legge 30 marzo 1981, n. 113](Norme%20di%20adeguamento%20delle%20procedure%20di%20aggiudicazione%20delle%20pubbliche%20forniture%20alla%20direttiva%20della%20Comunita%20economica%20europea%20n.%2077-62%20del%2021%20dicembre%201976.md), modificata dalla [legge 23 marzo 1983, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;83), e' cosi' sostituito: 
  "Per i pubblici incanti il termine di ricezione delle offerte stabilito dalle amministrazioni aggiudicatrici non puo' essere inferiore a cinquantadue giorni dalla data di spedizione del bando di gara.".
 
 2.
 
-L'[art. 8 della legge 30 marzo 1981, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;113#art_8), modificata dalla [legge 23 marzo 1983, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;83), e' cosi' sostituito: 
+L'[art. 8 della legge 30 marzo 1981, n. 113](Norme%20di%20adeguamento%20delle%20procedure%20di%20aggiudicazione%20delle%20pubbliche%20forniture%20alla%20direttiva%20della%20Comunita%20economica%20europea%20n.%2077-62%20del%2021%20dicembre%201976.md), modificata dalla [legge 23 marzo 1983, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;83), e' cosi' sostituito: 
  "(Termini di ricezione delle domande di partecipazione e delle offerte per la licitazione privata, l'appalto concorso e la trattativa privata). - Nella licitazione privata, nell'appalto concorso e nella trattativa privata il termine di ricezione delle domande di partecipazione, stabilito dalle amministrazioni aggiudicatrici, non puo' essere inferiore a trentasette giorni dalla data di spedizione del bando di gara. 
  Le amministrazioni aggiudicatrici invitano simultaneamente e per iscritto tutti i candidati prescelti a presentare le rispettive offerte. La lettera di invito e' accompagnata dal capitolato di oneri e dai documenti complementari. 
  Nella licitazione privata e nell'appalto concorso il termine di ricezione delle offerte stabilito dalle amministrazioni aggiudicatrici non puo' essere inferiore a quaranta giorni dalla data di spedizione della lettera di invito. 
@@ -234,7 +234,7 @@ Il ricorso alla licitazione privata e all'appalto concorso e', in particolare, g
 
 5.
 
-Le amministrazioni aggiudicatrici possono affidare gli appalti di forniture a trattativa privata in caso di offerte irregolari, dopo che siano stati esperiti un pubblico incanto, una licitazione privata o un appalto concorso, in caso di offerte inaccettabili ai sensi degli [articoli da 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;113#art_10) [a 13 della legge 30 marzo 1981, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;113#art_13), modificata dalla [legge 23 marzo 1983, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;83), purche' le condizioni iniziali dell'appalto non vengano fondamentalmente modificate. Le amministrazioni aggiudicatrici pubblicano in questi casi un bando di gara, a meno che includano nella trattativa privata tutte le imprese fornitrici che soddisfano i criteri di cui agli [articoli dal 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;113#art_10) [al 13 della legge 30 marzo 1981, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;113#art_13), modificata dalla [legge 23 marzo 1983, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;83) e che, nel corso delle suddette procedure, abbiano presentato offerte rispondenti ai requisiti formali della procedura di appalto.
+Le amministrazioni aggiudicatrici possono affidare gli appalti di forniture a trattativa privata in caso di offerte irregolari, dopo che siano stati esperiti un pubblico incanto, una licitazione privata o un appalto concorso, in caso di offerte inaccettabili ai sensi degli [articoli da 10](Norme%20di%20adeguamento%20delle%20procedure%20di%20aggiudicazione%20delle%20pubbliche%20forniture%20alla%20direttiva%20della%20Comunita%20economica%20europea%20n.%2077-62%20del%2021%20dicembre%201976.md) [a 13 della legge 30 marzo 1981, n. 113](Norme%20di%20adeguamento%20delle%20procedure%20di%20aggiudicazione%20delle%20pubbliche%20forniture%20alla%20direttiva%20della%20Comunita%20economica%20europea%20n.%2077-62%20del%2021%20dicembre%201976.md), modificata dalla [legge 23 marzo 1983, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;83), purche' le condizioni iniziali dell'appalto non vengano fondamentalmente modificate. Le amministrazioni aggiudicatrici pubblicano in questi casi un bando di gara, a meno che includano nella trattativa privata tutte le imprese fornitrici che soddisfano i criteri di cui agli [articoli dal 10](Norme%20di%20adeguamento%20delle%20procedure%20di%20aggiudicazione%20delle%20pubbliche%20forniture%20alla%20direttiva%20della%20Comunita%20economica%20europea%20n.%2077-62%20del%2021%20dicembre%201976.md) [al 13 della legge 30 marzo 1981, n. 113](Norme%20di%20adeguamento%20delle%20procedure%20di%20aggiudicazione%20delle%20pubbliche%20forniture%20alla%20direttiva%20della%20Comunita%20economica%20europea%20n.%2077-62%20del%2021%20dicembre%201976.md), modificata dalla [legge 23 marzo 1983, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;83) e che, nel corso delle suddette procedure, abbiano presentato offerte rispondenti ai requisiti formali della procedura di appalto.
 
 6.
 
@@ -286,7 +286,7 @@ Il riepilogo dei prospetti previsti dai commi 1 e 2, e' trasmesso alla Commissio
 
 1.
 
-Al [comma 2 dell'art. 17 della legge 30 marzo 1981, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;113#art_17-com2), modificata dalla [legge 23 marzo 1983, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;83), dopo le parole "con decisione in data 10 dicembre 1979, n. 80/271/CEE", sono aggiunte le seguenti: "come modificato dal Consiglio della Comunita' con decisione in data 16 novembre 1987, n. 87/565/CEE,".
+Al [comma 2 dell'art. 17 della legge 30 marzo 1981, n. 113](Norme%20di%20adeguamento%20delle%20procedure%20di%20aggiudicazione%20delle%20pubbliche%20forniture%20alla%20direttiva%20della%20Comunita%20economica%20europea%20n.%2077-62%20del%2021%20dicembre%201976.md), modificata dalla [legge 23 marzo 1983, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;83), dopo le parole "con decisione in data 10 dicembre 1979, n. 80/271/CEE", sono aggiunte le seguenti: "come modificato dal Consiglio della Comunita' con decisione in data 16 novembre 1987, n. 87/565/CEE,".
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
@@ -302,7 +302,7 @@ Le disposizioni in materia di appalti di forniture in vigore alla data del 1° g
 
 1.
 
-Sono abrogate le seguenti disposizioni contenute nella [legge 30 marzo 1981, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;113), modificata dalla [legge 23 marzo 1983, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;83):
+Sono abrogate le seguenti disposizioni contenute nella [legge 30 marzo 1981, n. 113](Norme%20di%20adeguamento%20delle%20procedure%20di%20aggiudicazione%20delle%20pubbliche%20forniture%20alla%20direttiva%20della%20Comunita%20economica%20europea%20n.%2077-62%20del%2021%20dicembre%201976.md), modificata dalla [legge 23 marzo 1983, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;83):
                             a)
                                 art. 1, commi 1, 2, 3, 4, 5, 6 e 7;
                             b)

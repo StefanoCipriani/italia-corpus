@@ -44,7 +44,7 @@ Alla riparazione delle somme autorizzate per le opere stradali nelle provincie c
 
 ## Art. 6.
 
-La ripartizione dei fondi per le opere stradali nelle provincie calabresi, stabilita con il [R. decreto 24 giugno 1920, n. 1051](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-24;1051), e modificata parzialmente con il [R. decreto 16 marzo 1922, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-03-16;415), e' cosi' variata: 
+La ripartizione dei fondi per le opere stradali nelle provincie calabresi, stabilita con il [R. decreto 24 giugno 1920, n. 1051](Concernente%20la%20ripartizione%20tra%20le%20Provincie%20calabresi%20dei%20fondi%20assegnati%20per%20la%20esecuzione%20di%20opere%20stradali%20in%20quelle%20regioni.%20020U1051.md), e modificata parzialmente con il [R. decreto 16 marzo 1922, n. 415](Che%20modifica%20i%20riparti%20dei%20fondi%20autorizzati%20dagli%20art.%202%20e%203%20del%20R.%20decreto%2024%20giugno%201920%20n.%201051%20per%20la%20esecuzione%20di%20lavori%20stradali%20nelle%20provincie%20calabresi.%20022U0415.md), e' cosi' variata: 
  
  a) strade comunali obbligatorie gia' iniziate, da ultimare e sistemare nella provincia di Reggio Calabria e manutenzione delle strade stesse a termini dell'[articolo 32 della legge 25 giugno 1906, numero 255](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), lire + 10.000.000; 
  
@@ -60,7 +60,7 @@ La somma di lire 28.000.000 da stanziare nel bilancio del Ministero dei lavori p
 
 ## Art. 9.
 
-L'assegnazione di L. 15.000.000, autorizzata coll'[articolo 19, lettera g), del R. decreto-legge 16 novembre 1921, n. 1705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-11-16;1705#art_19-letg) per costruzione in Reggio Calabria di case economiche e popolari, anziche' in cinque rate uguali a partire dall'esercizio finanziario 1921-922, come dispone il terz'ultimo comma dell'articolo stesso, sara' stanziata in bilancio in tre rate uguali, a partire dall'esercizio finanziario medesimo.
+L'assegnazione di L. 15.000.000, autorizzata coll'[articolo 19, lettera g), del R. decreto-legge 16 novembre 1921, n. 1705](Che%20reca%20provvedimenti%20in%20dipendenza%20dei%20terremoti.%20021U1705.md) per costruzione in Reggio Calabria di case economiche e popolari, anziche' in cinque rate uguali a partire dall'esercizio finanziario 1921-922, come dispone il terz'ultimo comma dell'articolo stesso, sara' stanziata in bilancio in tre rate uguali, a partire dall'esercizio finanziario medesimo.
 
 ## Art. 10.
 

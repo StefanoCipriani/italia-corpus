@@ -52,7 +52,7 @@ Per l'espletamento del suo mandato la Commissione puo' dividersi in sezioni o de
 
 ## Art. 6.
 
-La Commissione ha facolta' di citare e sentire testimoni, anche con giuramento, eseguire ispezioni, ordinare perizie, richiedere e sequestrare documenti e fare tutte quelle altre indagini che possano condurre all'accertamento della verita', con i poteri attribuiti al magistrato dal [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e con facolta' di comminare le pene corrispondenti del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), da applicarsi dalle competenti autorita' giudiziarie. 
+La Commissione ha facolta' di citare e sentire testimoni, anche con giuramento, eseguire ispezioni, ordinare perizie, richiedere e sequestrare documenti e fare tutte quelle altre indagini che possano condurre all'accertamento della verita', con i poteri attribuiti al magistrato dal [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e con facolta' di comminare le pene corrispondenti del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), da applicarsi dalle competenti autorita' giudiziarie. 
  
  I funzionari, chiamati a deporre dinanzi alla Commissione, sono prosciolti dal vincolo del segreto d'ufficio.
 

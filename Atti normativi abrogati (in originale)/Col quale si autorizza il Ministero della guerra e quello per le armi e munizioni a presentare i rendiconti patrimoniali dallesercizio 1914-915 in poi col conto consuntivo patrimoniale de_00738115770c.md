@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il rendiconto consuntivo del patrimonio amministrato dal Ministero della guerra e da quello per le armi e munizioni, prescritto dall'art. 71 del testo unico delle leggi sulla Amministrazione del patrimonio e sulla contabilita' generale dello Stato e cosi' il conto dei magazzini e depositi, dipendente dai Ministeri predetti sottoposti al riscontro effettivo, voluto dalla [legge 11 luglio 1897, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-07-11;256), saranno resi, a cominciare dallo esercizio 1914-915 in poi col conto consuntivo patrimoniale dell'esercizio successivo a quello in cui sara' firmata la pace. 
+Il rendiconto consuntivo del patrimonio amministrato dal Ministero della guerra e da quello per le armi e munizioni, prescritto dall'art. 71 del testo unico delle leggi sulla Amministrazione del patrimonio e sulla contabilita' generale dello Stato e cosi' il conto dei magazzini e depositi, dipendente dai Ministeri predetti sottoposti al riscontro effettivo, voluto dalla [legge 11 luglio 1897, n. 256](Concernente%20listituzione%20del%20riscontro%20effettivo%20sui%20magazzini%20e%20depositi%20di%20materie%20e%20di%20merci%20di%20proprieta%20dello%20Stato.%20097U0256.md), saranno resi, a cominciare dallo esercizio 1914-915 in poi col conto consuntivo patrimoniale dell'esercizio successivo a quello in cui sara' firmata la pace. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

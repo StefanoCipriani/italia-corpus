@@ -40,7 +40,7 @@ Sono ratificate le somministrazioni di fondi effettuate dal Ministero della guer
  
  Le somme anticipate saranno dalla Colonia eritrea e dalla Somalia giustificate coi rendiconti consuntivi dei vari esercizi. 
  
- La restituzione al tesoro dei detti fondi, in quanto provenienti dal conto corrente istituito ai sensi della [legge 17 luglio 1910, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;511), o da anticipazioni di cassa, sara' effettuata dal Ministero della guerra. 
+ La restituzione al tesoro dei detti fondi, in quanto provenienti dal conto corrente istituito ai sensi della [legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md), o da anticipazioni di cassa, sara' effettuata dal Ministero della guerra. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

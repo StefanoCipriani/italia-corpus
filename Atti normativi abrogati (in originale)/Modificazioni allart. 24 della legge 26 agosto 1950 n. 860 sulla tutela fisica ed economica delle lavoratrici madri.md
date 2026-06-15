@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Articolo unico.
 
 L'[art. 24 della legge 26 agosto 1950, n. 860](Tutela%20fisica%20ed%20economica%20delle%20lavoratrici%20madri.md), sulla tutela fisica ed economica delle lavoratrici madri, e' sostituito dal seguente:
- "L'assicurazione per la nuzialita' e natalita', istituita con [regio decreto-legge 14 aprile 1939, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-14;636), convertito in [legge 6 luglio 1939, n. 1272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-06;1272), e' soppressa a decorrere dal 1 gennaio 1951.
+ "L'assicurazione per la nuzialita' e natalita', istituita con [regio decreto-legge 14 aprile 1939, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-14;636), convertito in [legge 6 luglio 1939, n. 1272](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20aprile%201939-XVII%20n.%20636%20sulle%20assicurazioni%20obbligatorie%20per%20linvalidita%20e%20la%20vecchiaia%20per%20la%20tubercolosi%20e%20per%20la%20disoccup_59ee77548f3d.md), e' soppressa a decorrere dal 1 gennaio 1951.
  "A partire dalla stessa data, il relativo contributo previsto dalle tabelle A, B, C, D ed E, allegate al regio decreto-legge citato, e' dovuto a favore dell'Ente nazionale assistenza orfani lavoratori italiani.
  "L'Istituto nazionale della previdenza sociale continuera' ad effettuare la riscossione del contributo predetto con i sistemi di accertamento e di riscossione attualmente in vigore, e ne versera' l'importo, senza carico di spesa, all'Ente nazionale di assistenza orfani lavoratori italiani, secondo le modalita' da convenirsi tra i due Istituti".
 

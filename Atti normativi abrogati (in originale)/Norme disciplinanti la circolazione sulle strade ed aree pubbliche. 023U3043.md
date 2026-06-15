@@ -72,7 +72,7 @@ E' vietato: condurre a strascico legname od altri materiali di qualunque sorta o
 
 Le mandrie e greggi di animali di qualunque specie circolanti sulle strade debbono essere guidate da un numero sufficiente di conduttori e regolate in modo da lasciare libera almeno la meta' della larghezza stradale. Esse non potranno sostare sulle strade medesime sia di giorno che di notte. E' proibito inoltre di fare o di lasciare pascolare animali di qualunque specie sulla pubblica via. Di notte le mandrie e greggi debbono essere precedute da un conduttore munito di fanale. 
  
- Salvo quanto e' disposto nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) circa l'omessa custodia e il mal governo degli animali, e' vietato di lasciare liberamente vagare per le strade qualsiasi animale molesto al pubblico transito e di lasciarvi abbandonate bestie da tiro, da soma o da sella. Gli animali indomiti e pericolosi per la sicurezza dei viandanti, non possono essere condotti lungo le strade se non a condizione che ciascuno di essi abbia almeno un conduttore. 
+ Salvo quanto e' disposto nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) circa l'omessa custodia e il mal governo degli animali, e' vietato di lasciare liberamente vagare per le strade qualsiasi animale molesto al pubblico transito e di lasciarvi abbandonate bestie da tiro, da soma o da sella. Gli animali indomiti e pericolosi per la sicurezza dei viandanti, non possono essere condotti lungo le strade se non a condizione che ciascuno di essi abbia almeno un conduttore. 
  
  Il contravventore e' punito con l'ammenda da L. 25 a 100. 
  
@@ -249,7 +249,7 @@ Salve le disposizioni speciali per gli autoveicoli e per i velocipedi, ogni altr
  
  L'accensione dei segnali luminosi, compresi quelli degli autoveicoli e delle biciclette, e' obbligatoria dal 16 ottobre al 15 aprile da mezz'ora dopo il tramonto del sole fino a mezz'ora prima del sorgere del sole, e dal 16 aprile al 15 ottobre da un'ora dopo il tramonto del sole a un'ora prima del sorgere del sole. E' parimenti obbligatoria in caso di nebbia o foschia. I conducenti di veicoli sono obbligati altresi' durante le fermate in localita' non illuminate a mantenere acceso, nelle ore e nei casi sopra indicati, almeno il fanale anteriore a sinistra di cui il veicolo e' provvisto. 
  
- Il contravventore, quando non ricorra l'applicazione dell'[art. 483 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_483), e' punito con l'ammenda fino a L. 100.
+ Il contravventore, quando non ricorra l'applicazione dell'[art. 483 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito con l'ammenda fino a L. 100.
 
 ### Art. 22. — Condotta dei veicoli.
 
@@ -259,7 +259,7 @@ Ogni veicolo deve essere guidato da un conducente, che non deve normalmente abba
  
  Occorendo bestie da tiro di rinforzo, queste devono essere guidate da un conducente per ogni tre bestie almeno. 
  
- Il contravventore, quando non ricorra l'applicazione dell'[articolo 483 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_483), e' punito con l'ammenda da L. 25 a 200.
+ Il contravventore, quando non ricorra l'applicazione dell'[articolo 483 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito con l'ammenda da L. 25 a 200.
 
 ### Art. 23. — Limitazioni di transito.
 
@@ -291,7 +291,7 @@ I conducenti di veicoli sono tenuti a fermarsi a qualsiasi richiesta degli agent
 
 ### Art. 27. — Incauto affidamento di veicoli.
 
-Chi affida un veicolo a persona inesperta od incapace di guidarlo o non munita della speciale patente, qualora sia prescritta, ovvero permette o tollera che costei lo guidi e' punito con l'ammenda da L.50 a 500, o con l'arresto fino ad un mese, salvo quando siano applicabili le sanzioni dell'[art. 481 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_481) e salve le responsabilita' penali per le contravvenzioni commesse dall'inesperto od incapace nelle ipotesi prevedute nella prima parte dell'[art. 60 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_60). 
+Chi affida un veicolo a persona inesperta od incapace di guidarlo o non munita della speciale patente, qualora sia prescritta, ovvero permette o tollera che costei lo guidi e' punito con l'ammenda da L.50 a 500, o con l'arresto fino ad un mese, salvo quando siano applicabili le sanzioni dell'[art. 481 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e salve le responsabilita' penali per le contravvenzioni commesse dall'inesperto od incapace nelle ipotesi prevedute nella prima parte dell'[art. 60 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Se il veicolo sia un velocipede senza motore applicato, la pena e' dell'ammenda da L 25 a 300 e il minimo non potra' essere inferiore a L. 100 se la consegna o l'affidamento avvennero per motivi di lucro.
 
@@ -299,9 +299,9 @@ Chi affida un veicolo a persona inesperta od incapace di guidarlo o non munita d
 
 Il conducente che in caso di investimento di persona, si sia dato alla fuga ovvero abbia abbandonato senza soccorso la persona investita, e' punito con l'ammenda da L. 500 a 3000 o con l'arresto fino a sei mesi ovvero con entrambe le pene. E' in ogni caso disposto il ritiro della patente a condurre autoveicoli per un tempo corrispondente alla pena inflitta e in misura non inferiore ad un mese. 
  
- Nei stessi casi, se l'investimento abbia prodotto la morte o lesioni alla persona investita, le pene comminate dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) non potranno essere inferiori alla meta' del massimo, e' disposto inoltre il ritiro della patente a condurre autoveicoli per un tempo non inferiore a sei mesi. Il giudice non puo' ordinare la sospensione dell'esecuzione della condanna. 
+ Nei stessi casi, se l'investimento abbia prodotto la morte o lesioni alla persona investita, le pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) non potranno essere inferiori alla meta' del massimo, e' disposto inoltre il ritiro della patente a condurre autoveicoli per un tempo non inferiore a sei mesi. Il giudice non puo' ordinare la sospensione dell'esecuzione della condanna. 
  
- Se il conducente si fermi e occorrendo presti soccorso alla persona investita, non e' soggetto all'arresto preventivo stabilito nelle vigenti leggi per il caso di flagranza di reato e le pene da infliggere a norma del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) potranno essere ridotte di un terzo.
+ Se il conducente si fermi e occorrendo presti soccorso alla persona investita, non e' soggetto all'arresto preventivo stabilito nelle vigenti leggi per il caso di flagranza di reato e le pene da infliggere a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) potranno essere ridotte di un terzo.
 
 ### Art. 29. — Deroghe per i veicoli appartenenti alle Amministrazioni militari e ai corpi armati dello Stato.
 
@@ -505,7 +505,7 @@ Gli autoveicoli che le fabbriche costruttrici, quelle di carozzerie, i rappresen
  
  Chi circola senza avere ottenuto tale concessione, e' punito a termini dell'art. 42. 
  
- I certificati del Prefetto sono equiparati alle licenze, anche agli effetti dell'applicazione dell'[art. 286 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_286).
+ I certificati del Prefetto sono equiparati alle licenze, anche agli effetti dell'applicazione dell'[art. 286 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 46. — Targhe per autoveicoli in collaudo o da esportare.
 
@@ -540,7 +540,7 @@ Ogni autoveicolo che abbia subito il cambio del motore o modificazioni che ne im
 Oltre che nelle ipotesi prevedute nell'articolo precedente, la licenza di circolazione deve essere ritirata qualora si constati che gli autoveicoli non presentino piu' le condizioni prescritte per la sicurezza della circolazione, ovvero che siano adibiti ad uso diverso da quello per il quale venne rilasciato la licenza di circolazione.
 La licenza e' inoltre ritirata quando con l'autoveicolo si eserciti un servizio automobilistico pubblico non regolarmente concesso od autorizzato. 
  
- In caso di rifiuto a restituire la licenza, questa e' sequestrata e sono applicabili le disposizioni dell'[articolo 434 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_434).
+ In caso di rifiuto a restituire la licenza, questa e' sequestrata e sono applicabili le disposizioni dell'[articolo 434 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 50. — Patente di abilitazione a condurre autoveicoli.
 
@@ -578,7 +578,7 @@ Casi di indegnita'.
  
  2° Coloro che abbiano riportato due volte condanna per delitti. Se le condanne furono pronunciate per delitti contro la persona o contro la proprieta', deve trattarsi di pena non inferiore a mesi tre di reclusione o di detenzione; se per altro delitto, deve trattarsi di pena non inferiore a mesi sei; 
  
- 3° Coloro che siano stati condannati due volte per ubbriachezza o tre volte per le contravvenzioni prevedute negli [articoli 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_482) e [483 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_483). 
+ 3° Coloro che siano stati condannati due volte per ubbriachezza o tre volte per le contravvenzioni prevedute negli [articoli 482](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [483 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  L'indegnita' cessa quando sia intervenuto il provvedimento di riabilitazione.
 
@@ -664,9 +664,9 @@ La patente di abilitazione di 1° grado deve essere ritirata su ordine del Prefe
  
  3° quando il conducente risulti dedito abitualmente all'ubbriachezza; 
  
- 4° quando la condanna penale disponga il ritiro della patente nei casi preveduti nel presente decretto o in genere, quando ne sia il caso a norma del [Codice Penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), la sospensione dall'esercizio della professione; 
+ 4° quando la condanna penale disponga il ritiro della patente nei casi preveduti nel presente decretto o in genere, quando ne sia il caso a norma del [Codice Penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la sospensione dall'esercizio della professione; 
  
- 5° nei casi di investimento che abbia cagionato grave danno alle persone: gli agenti, incaricatit della esecuzione del presente decreto, ne riferiranno immediatamente al Prefetto, che provvede d'urgenza. Il ritiro della patente e' obbligatorio quando sia stato ordinato il rinvio a giudizio del conducente per i delitti preveduti negli [articoli 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_371) e [375, n. 2 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_375-num2) o in ogni caso d'investimento, anche prima, quando il conducente si sia dato alla fuga; 
+ 5° nei casi di investimento che abbia cagionato grave danno alle persone: gli agenti, incaricatit della esecuzione del presente decreto, ne riferiranno immediatamente al Prefetto, che provvede d'urgenza. Il ritiro della patente e' obbligatorio quando sia stato ordinato il rinvio a giudizio del conducente per i delitti preveduti negli [articoli 371](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [375, n. 2 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o in ogni caso d'investimento, anche prima, quando il conducente si sia dato alla fuga; 
  
  6° quando il conducente non si presenti senza giustificato motivo alla visita individuale di revisione od alla revisione collettiva e continui a condurre autoveicoli dopo il termine che sara' stabilito nel decreto Ministeriale. 
  
@@ -698,7 +698,7 @@ La patente di abilitazione di 2 ° grado e' ritirata d'ordine del Circolo ferrov
 
 Il conducente che circoli senza avere ottenuto la licenza di abilitazione di primo o di secondo grado, secondo i casi, ovvero quando la patente gli sia stata ritirata, e' punito con l'arresto fino a sei mesi e con l'ammenda da L. 200 a 2000. 
  
- Quando nei casi preveduti nei due articoli precedenti egli si rifiuti di restituire la patente rispettivamente al Prefetto od al Circolo ferroviario d'ispezione, e' punito a norma dell'[art. 434 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_434) e la patente e' sequestrata.
+ Quando nei casi preveduti nei due articoli precedenti egli si rifiuti di restituire la patente rispettivamente al Prefetto od al Circolo ferroviario d'ispezione, e' punito a norma dell'[art. 434 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e la patente e' sequestrata.
 
 ### Art. 63. — Autoveicoli e conducenti appartenenti alle Amministrazioni militari e ai corpi armati dello Stato.
 
@@ -866,7 +866,7 @@ Le azioni per risarcimento dei danni prodotti a persone od a cose dai veicoli ci
 
 Responsabilita' civile per le contravvenzioni. 
  
- Salvo quanto e' disposto nell'[art. 60 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_60), e' responsabile del pagamento dell'ammenda inflitta al conducente di autoveicoli anche il proprietario, qualora egli od un suo prossimo congiunto si trovi sul veicolo ovvero questo circoli per suo ordine o permesso. S'intendono «per prossimi congiunti» agli effetti delle presenti disposizioni il coniuge, gli ascendenti e i discendenti maggiorenni. 
+ Salvo quanto e' disposto nell'[art. 60 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' responsabile del pagamento dell'ammenda inflitta al conducente di autoveicoli anche il proprietario, qualora egli od un suo prossimo congiunto si trovi sul veicolo ovvero questo circoli per suo ordine o permesso. S'intendono «per prossimi congiunti» agli effetti delle presenti disposizioni il coniuge, gli ascendenti e i discendenti maggiorenni. 
  
  L'ordine o permesso sono presunti salvo al proprietario la dimostrazione contraria. 
  
@@ -884,7 +884,7 @@ Le pene comminate per le contravvenzioni nel presente decreto devono essere infl
  
  4° quando la contravvenzione sia connessa con quella preveduta nell'art. 26 del presente decreto per non avere il conducente ottemperato all'ordine di fermarsi o per avere reso impossibile, trasgredendo agli obblighi impostigli nel detto articolo, l'immediato accertamento della contravvenzione. 
  
- Nei casi contemplati nel presente articolo la sospensione dall'esercizio della professione da infliggere a norma della prima parte dell'[art. 35 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_35), non puo' essere inferiore a mesi due.
+ Nei casi contemplati nel presente articolo la sospensione dall'esercizio della professione da infliggere a norma della prima parte dell'[art. 35 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), non puo' essere inferiore a mesi due.
 
 ### Art. 83. — Accertamento delle contravvenzioni; competenza a giudicare.
 
@@ -941,7 +941,7 @@ Quando il conducente abbia ottemperato all'obbligo di fermarsi e in questo come 
 
 ### Art. 87. — Oblazione volontaria.
 
-Per le contravvenzioni per cui sia comminata la sola pena pecuniaria, quale ne sia il massimo, l'imputato puo' far cessare il corso dell'azione penale, a norma dell'[art. 101 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_101), pagando entro il termine di un mese da quello della comunicazione del processo verbale, una somma corrispondente alla meta' del massimo dalla pena stabilita per la contravvenzione commessa, oltre le spese del procedimento comprese quelle occorse per le comunicazioni del processo verbale a norma dell'articolo precedente. 
+Per le contravvenzioni per cui sia comminata la sola pena pecuniaria, quale ne sia il massimo, l'imputato puo' far cessare il corso dell'azione penale, a norma dell'[art. 101 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), pagando entro il termine di un mese da quello della comunicazione del processo verbale, una somma corrispondente alla meta' del massimo dalla pena stabilita per la contravvenzione commessa, oltre le spese del procedimento comprese quelle occorse per le comunicazioni del processo verbale a norma dell'articolo precedente. 
  
  L'oblazione si esegue mediante versamento presso gli uffici del registro o se si tratti di contravvenzione ai regolamenti comunali, nelle casse del Comune della somma relativa, su presentazione, quando ne sia il caso, di un certificato del cancelliere della Pretura attestante le spese occorse.
 
@@ -963,7 +963,7 @@ Trascorso il termine di un mese indicato nell'art. 87 senza che l'oblazione abbi
  
  Tale disposizione si applica anche quando in seguito ad opposizione si proceda a dibattimento. 
  
- Nel decreto di condanna e' disposto, nei casi preveduti nel presente decreto, il ritiro della patente a condurre autoveicoli, o in genere, quando ne sia il caso a norma del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), la sospensione dall'esercizio della professione. 
+ Nel decreto di condanna e' disposto, nei casi preveduti nel presente decreto, il ritiro della patente a condurre autoveicoli, o in genere, quando ne sia il caso a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la sospensione dall'esercizio della professione. 
  
  Nello stesso decreto il pretore provvede in ordine alla responsabilita' solidale del proprietario per il pagamento dell'ammenda. Quando debba procedere a dibattimento, ne ordina d'ufficio la citazione.
 

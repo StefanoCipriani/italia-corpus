@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 4 settembre 1919, n. 1618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-04;1618);
+Visto il [R. decreto 4 settembre 1919, n. 1618](Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20nichelio%20puro%20da%20centesimi%20cinquanta%20e%20di%20bronzo%20da%20centesimi%20dieci.%20019U1618.md);
 
 Riconosciuta l'opportunita' di modificare le caratteristiche della moneta di nichelio puro da centesimi 50;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-L'articolo 3 del citato [R. decreto 4 settembre 1919, n. 1618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-04;1618), e' modificato come segue: 
+L'articolo 3 del citato [R. decreto 4 settembre 1919, n. 1618](Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20nichelio%20puro%20da%20centesimi%20cinquanta%20e%20di%20bronzo%20da%20centesimi%20dieci.%20019U1618.md), e' modificato come segue: 
  
  Il grado di purezza, il peso, la tolleranza di peso, il diametro ed il contorno delle dette monete sono fissati come appresso: 
  

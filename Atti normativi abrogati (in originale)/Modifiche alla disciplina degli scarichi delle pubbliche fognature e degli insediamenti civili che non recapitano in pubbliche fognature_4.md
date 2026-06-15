@@ -22,12 +22,12 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'amb
 
 1.
 
-Il [secondo comma dell'articolo 14 della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_14-com2), cosi' come sostituito dall'[articolo 17 della legge 24 dicembre 1979, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-12-24;650#art_17), e' sostituito dal seguente: 
+Il [secondo comma dell'articolo 14 della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), cosi' come sostituito dall'[articolo 17 della legge 24 dicembre 1979, n. 650](Integrazioni%20e%20modifiche%20delle%20leggi%2016%20aprile%201973%20n.%20171%20e%2010%20maggio%201976%20n.%20319%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md), e' sostituito dal seguente: 
  "La disciplina degli scarichi delle pubbliche fognature, servite o meno da impianti pubblici di depurazione, e quella degli insediamenti civili che non recapitano in pubbliche fognature sono definite dalle regioni con i rispettivi piani di risanamento delle acque di cui all'articolo 4. Le regioni, nel definire tale disciplina, tengono conto dei limiti di accettabilita' fissati dalle tabelle allegate alla presente legge, cui possono derogare, anche in senso meno restrittivo, nei casi ed alle condizioni stabiliti, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, con apposite direttive del Ministro dell'ambiente, in funzione delle situazioni locali e degli obiettivi dei piani di risanamento e di qualita' del corpo idrico ricettore.".
 
 2.
 
-Restano ferme le prescrizioni adottate, anteriormente alla data di entrata in vigore del presente decreto, in materia di scarichi civili che non recapitano in pubbliche fognature e di scarichi delle pubbliche fognature ed in particolare quelle di cui alla delibera in data 30 dicembre 1980 del Comitato interministeriale previsto dall'[articolo 3 della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_3), pubblicata nella Gazzetta Ufficiale n. 9 del 10 gennaio 1981.
+Restano ferme le prescrizioni adottate, anteriormente alla data di entrata in vigore del presente decreto, in materia di scarichi civili che non recapitano in pubbliche fognature e di scarichi delle pubbliche fognature ed in particolare quelle di cui alla delibera in data 30 dicembre 1980 del Comitato interministeriale previsto dall'[articolo 3 della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), pubblicata nella Gazzetta Ufficiale n. 9 del 10 gennaio 1981.
 
 3.
 
@@ -37,7 +37,7 @@ Le disposizioni del presente decreto si applicano in attesa dell'attuazione dell
 
 1.
 
-Il [terzo comma dell'articolo 21 della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_21-com3), come modificato dall'[articolo 144 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_144), e' sostituito dai seguenti: 
+Il [terzo comma dell'articolo 21 della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), come modificato dall'[articolo 144 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_144), e' sostituito dai seguenti: 
  "Salvo quanto previsto dal comma successivo si applica sempre la pena dell'arresto se lo scarico supera i limiti di accettabilita' di cui alle tabelle allegate alla presente legge ovvero quelli stabiliti dalle regioni ai sensi dell'articolo 14, secondo comma, nei rispettivi limiti e modi di applicazione. La condanna importa l'incapacita' di contrattare con la pubblica amministrazione. 
  Fatte salve le disposizioni penali previste per l'inosservanza degli obblighi connessi al rilascio dell'autorizzazione degli scarichi degli insediamenti civili, attivati a decorrere dal 13 giugno 1976, l'inosservanza dei limiti di accettabilita' fissati per tali scarichi dalle regioni, ai sensi dell'articolo 14, secondo comma, nei rispettivi limiti e modi di applicazione, e' punita con la sanzione amministrativa pecuniaria da lire un milione a lire otto milioni.".
 

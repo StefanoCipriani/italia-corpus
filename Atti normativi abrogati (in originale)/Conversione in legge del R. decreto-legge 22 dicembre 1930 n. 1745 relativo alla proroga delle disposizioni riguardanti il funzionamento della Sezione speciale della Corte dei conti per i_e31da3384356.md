@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 dicembre 1930, n. 1745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-22;1745), relativo alla proroga delle disposizioni riguardanti il funzionamento della Sezione speciale della Corte dei conti per il servizio dei ricorsi in materia di pensioni di guerra. 
+ E' convertito in legge il [R. decreto-legge 22 dicembre 1930, n. 1745](Proroga%20delle%20disposizioni%20relative%20al%20funzionamento%20della%20Sezione%20speciale%20della%20Corte%20dei%20conti%20per%20il%20servizio%20dei%20ricorsi%20in%20materia%20di%20pensioni%20di%20guerra.%20030U1745.md), relativo alla proroga delle disposizioni riguardanti il funzionamento della Sezione speciale della Corte dei conti per il servizio dei ricorsi in materia di pensioni di guerra. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 30 marzo 1931 - Anno IX 
  

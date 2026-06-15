@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 dicembre 1926, n. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-09;2056), che conferisce al Governatore di Roma i poteri necessari per addivenire a modificazioni nell'ordinamento degli uffici e nel funzionamento dei servizi del Governatorato. 
+ E' convertito in legge il [R. decreto-legge 9 dicembre 1926, n. 2056](Autorizzazione%20al%20Governatore%20di%20Roma%20di%20modificare%20lordinamento%20degli%20uffici%20e%20il%20funzionamento%20dei%20servizi%20del%20Governatorato.%20026U2056.md), che conferisce al Governatore di Roma i poteri necessari per addivenire a modificazioni nell'ordinamento degli uffici e nel funzionamento dei servizi del Governatorato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

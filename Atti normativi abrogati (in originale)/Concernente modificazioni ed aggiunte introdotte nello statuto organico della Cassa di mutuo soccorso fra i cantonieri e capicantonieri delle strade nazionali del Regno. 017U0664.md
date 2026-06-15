@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli articoli 2, 9, 14 e 15 dello statuto organico della Cassa di mutuo soccorso fra i cantonieri e capi cantonieri delle strade nazionali del Regno, approvato col [R. decreto 27 settembre 1885, n. 3489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-09-27;3489), e modificato col [R. decreto 11 febbraio 1906, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-02-11;51), sono sostituiti dai seguenti: 
+Gli articoli 2, 9, 14 e 15 dello statuto organico della Cassa di mutuo soccorso fra i cantonieri e capi cantonieri delle strade nazionali del Regno, approvato col [R. decreto 27 settembre 1885, n. 3489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-09-27;3489), e modificato col [R. decreto 11 febbraio 1906, n. 51](Abrogazione%20dun%20comma%20dello%20statuto%20organico%20della%20Cassa%20di%20mutuo%20soccorso%20tra%20cantonieri%20e%20capi%20cantonieri%20delle%20strade%20nazionali.%20006U0051.md), sono sostituiti dai seguenti: 
  
  Art. 2. - La Cassa ha per iscopo: 
  

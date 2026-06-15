@@ -28,7 +28,7 @@ Per gli interventi urgenti di consolidamento e restauro del Complesso Monumental
 
 2.
 
-L'onere di lire 30 miliardi derivante dall'applicazione del comma 1 e' posto a carico del fondo per la protezione civile, istituito con [decreto-legge 10 luglio 1982, n. 428](Misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnimento%20degli%20incendi.md), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;547). Il relativo importo e' versato all'entrata del bilancio dello Stato per essere assegnato ai pertinenti capitoli dello stato di previsione del Ministero per i beni culturali e ambientali.
+L'onere di lire 30 miliardi derivante dall'applicazione del comma 1 e' posto a carico del fondo per la protezione civile, istituito con [decreto-legge 10 luglio 1982, n. 428](Misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnimento%20degli%20incendi.md), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20428%20recante%20misure%20urgenti%20per%20assicurare%20limpiego%20di%20aeromobili%20militari%20nellazione%20di%20prevenzione%20e%20di%20spegnim_04ba3d019ac1.md). Il relativo importo e' versato all'entrata del bilancio dello Stato per essere assegnato ai pertinenti capitoli dello stato di previsione del Ministero per i beni culturali e ambientali.
 
 3.
 

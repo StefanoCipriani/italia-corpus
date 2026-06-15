@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1571), concernente l'autorizzazione di spesa per l'esecuzione di opere pubbliche straordinarie in alcune Provincie. 
+ E convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1571](Autorizzazione%20di%20spesa%20per%20la%20esecuzione%20di%20opere%20pubbliche%20straordinarie%20in%20alcune%20Provincie.%20034U1571.md), concernente l'autorizzazione di spesa per l'esecuzione di opere pubbliche straordinarie in alcune Provincie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

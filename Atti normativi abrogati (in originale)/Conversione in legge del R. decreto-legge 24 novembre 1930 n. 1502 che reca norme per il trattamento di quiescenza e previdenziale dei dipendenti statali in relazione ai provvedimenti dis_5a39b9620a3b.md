@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 novembre 1930 n. 1502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-24;1502), che reca norme per il trattamento di quiescenza e previdenziale dei dipendenti statali in relazione ai provvedimenti disposti col [R. decreto-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491). 
+ E' convertito in legge il [R. decreto-legge 24 novembre 1930 n. 1502](Norme%20per%20il%20trattamento%20di%20quiescenza%20e%20previdenziale%20dei%20dipendenti%20statali%20in%20relazione%20ai%20provvedimenti%20disposti%20col%20R.%20decreto-legge%2020%20novembre%201930%20n.%201491.%20030U1502.md), che reca norme per il trattamento di quiescenza e previdenziale dei dipendenti statali in relazione ai provvedimenti disposti col [R. decreto-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

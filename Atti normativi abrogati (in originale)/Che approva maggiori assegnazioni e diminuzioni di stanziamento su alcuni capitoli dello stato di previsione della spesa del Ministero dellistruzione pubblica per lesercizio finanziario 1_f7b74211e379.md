@@ -14,7 +14,7 @@ Sono approvate le assegnazioni di lire 622.428,80 e le diminuzioni di stanziamen
 
 ## Art. 2.
 
-E' approvata, in rapporto all'art. 34 della legge sulla contabilita' generale dello Stato, la ulteriore iscrizione di L. 15.000 al capitolo n. 407 «Commissione per il riordinamento degli studi superiori, istituita con [R. decreto 30 gennaio 1910, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-01-30;84).
+E' approvata, in rapporto all'art. 34 della legge sulla contabilita' generale dello Stato, la ulteriore iscrizione di L. 15.000 al capitolo n. 407 «Commissione per il riordinamento degli studi superiori, istituita con [R. decreto 30 gennaio 1910, n. 84](Che%20nomina%20una%20Commissione%20pel%20riordinamento%20degli%20Istituti%20superiori.%20010U0084.md).
 Spese per il funzionamento della Commissione e della segreteria», indicato nella tabella annessa alla presente legge.
 
 ## Art. 3.

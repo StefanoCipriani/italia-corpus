@@ -16,18 +16,18 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Gli articoli 15, lettera d), e 19, [lettera b), del decreto legislativo 17 aprile 1948, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547#art_letb), ratificato, con modificazioni, con la [legge 2 gennaio 1952, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-01-02;41), sono modificati come segue:
+Gli articoli 15, lettera d), e 19, [lettera b), del decreto legislativo 17 aprile 1948, n. 547](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%20Presidenziale%2027%20giugno%201946%20n.%2038%20concernente%20listituzione%20dellAzienda%20nazionale%20autonoma%20delle%20strade%20statali%20A.N.A.S.md), ratificato, con modificazioni, con la [legge 2 gennaio 1952, n. 41](../Leggi%20di%20ratifica/Ratifica%20del%20decreto%20legislativo%20Presidenziale%2027%20giugno%201946%20n.%2038%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2017%20aprile%201948%20n.%20547%20concernenti%20listituzione%20dellAzienda%20Naziona_598732c66918.md), sono modificati come segue:
  Art. 15, lettera d): "del direttore del servizio amministrativo e dell'ispettore generale amministrativo".
  Art. 19, lettera b): "del direttore del servizio amministrativo che lo presiede in caso di assenza o di impedimento del direttore generale e dell'ispettore generale amministrativo".
 
 ## Art. 2.
 
-L'ultimo comma dell'[art. 7 del decreto legislativo 17 aprile 1948, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547#art_7), ratificato, con modificazioni, con la [legge 2 gennaio 1952, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-01-02;41), e' sostituito dal seguente:
+L'ultimo comma dell'[art. 7 del decreto legislativo 17 aprile 1948, n. 547](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%20Presidenziale%2027%20giugno%201946%20n.%2038%20concernente%20listituzione%20dellAzienda%20nazionale%20autonoma%20delle%20strade%20statali%20A.N.A.S.md), ratificato, con modificazioni, con la [legge 2 gennaio 1952, n. 41](../Leggi%20di%20ratifica/Ratifica%20del%20decreto%20legislativo%20Presidenziale%2027%20giugno%201946%20n.%2038%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2017%20aprile%201948%20n.%20547%20concernenti%20listituzione%20dellAzienda%20Naziona_598732c66918.md), e' sostituito dal seguente:
  "Le funzioni di economo-cassiere e vice economo-cassiere sono conferite, con decreto del Ministro, a funzionari di gruppo B di grado non inferiore, rispettivamente al 9° e al 10°, da scegliersi in base a parere del Consiglio di amministrazione tra gli appartenenti ai ruoli amministrativo, tecnico e contabile dell'A.N.A.S.".
 
 ## Art. 3.
 
-La tabella C allegata al [decreto legislativo 17 aprile 1948, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547), e' sostituita, per quanto riguarda il personale amministrativo di gruppo B, dalla tabella allegata alla presente legge.
+La tabella C allegata al [decreto legislativo 17 aprile 1948, n. 547](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%20Presidenziale%2027%20giugno%201946%20n.%2038%20concernente%20listituzione%20dellAzienda%20nazionale%20autonoma%20delle%20strade%20statali%20A.N.A.S.md), e' sostituita, per quanto riguarda il personale amministrativo di gruppo B, dalla tabella allegata alla presente legge.
 
  TABELLA Gruppo B.
 

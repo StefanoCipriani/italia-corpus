@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 ottobre 1930, n. 1510](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-30;1510), che modifica alcune disposizioni contenute nel [Regio decreto-legge 6 settembre 1928, n. 2167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-09-06;2167), riguardante i sottufficiali dell'Arma aeronautica esonerati dal pilotaggio per motivi fisici. 
+ E' convertito in legge il [R. decreto-legge 30 ottobre 1930, n. 1510](Modifica%20di%20alcune%20disposizioni%20previste%20nel%20R.%20decreto-legge%206%20settembre%201928%20n.%202167%20riguardante%20i%20sottufficiali%20dellArma%20aeronautica%20esonerati%20dal%20pilotaggio%20per%20motivi%20fisici.%20030U1510.md), che modifica alcune disposizioni contenute nel [Regio decreto-legge 6 settembre 1928, n. 2167](Trattamento%20da%20farsi%20ai%20sottufficiali%20dellArma%20aeronautica%20ruolo%20combattente%20esonerati%20dal%20pilotaggio%20per%20motivi%20fisici.%20028U2167.md), riguardante i sottufficiali dell'Arma aeronautica esonerati dal pilotaggio per motivi fisici. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

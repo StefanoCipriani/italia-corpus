@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 gennaio 1928, n. 988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-05;988), che da' esecuzione ai seguenti Atti, stipulati a Vienna fra l'Italia e l'Austria, alla data per ciascuno indicata, per il riparto, a norma dell'art. 275 del Trattato di pace di San Germano, degli Istituti di assicurazioni sociali: 
+ E' convertito in legge il [R. decreto-legge 5 gennaio 1928, n. 988](Esecuzione%20delle%20Convenzioni%20pel%20riparto%20degli%20Istituti%20austriaci%20di%20assicurazioni%20sociali%20stipulate%20a%20Vienna%20fra%20lItalia%20e%20lAustria%20in%20date%20diverse.%20028U0988.md), che da' esecuzione ai seguenti Atti, stipulati a Vienna fra l'Italia e l'Austria, alla data per ciascuno indicata, per il riparto, a norma dell'art. 275 del Trattato di pace di San Germano, degli Istituti di assicurazioni sociali: 
  
  1° Convenzione relativa all'Istituto generale di assicurazione pensioni agli impiegati (29 marzo 1924); 
  

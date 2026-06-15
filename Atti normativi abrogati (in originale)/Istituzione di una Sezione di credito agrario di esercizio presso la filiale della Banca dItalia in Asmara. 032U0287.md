@@ -70,7 +70,7 @@ A garanzia delle operazioni contemplate nel presente decreto sono estesi a favor
 
 ## Art. 6.
 
-Quando il debitore deteriori o distragga oggetti sottoposti al privilegio di cui al precedente articolo, oppure impieghi in tutto od in parte la somma ricevuta a prestito per scopi diversi da quelli per i quali fu concessa, sara' punito con le pene comminate dagli [articoli 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_334) e [335 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_335). 
+Quando il debitore deteriori o distragga oggetti sottoposti al privilegio di cui al precedente articolo, oppure impieghi in tutto od in parte la somma ricevuta a prestito per scopi diversi da quelli per i quali fu concessa, sara' punito con le pene comminate dagli [articoli 334](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [335 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Nei casi predetti, e allorche' il debitore abbandoni la coltivazione del fondo, o, in qualunque modo, per dolo o per colpa diminuisca notevolmente la garanzia dell'Istituto creditore, questo potra' chiedere la risoluzione del contratto, ai termini dell'[art. 1165 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1165).
 

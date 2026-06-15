@@ -53,7 +53,7 @@ Con decorrenza 1 agosto 1948 e' dovuto dai datori di lavoro un contributo supple
 ## Art. 5.
 
 Con effetto dal 1 agosto 1948 l'addizionale ai normali contributi dovuta per i lavoratori dell'agricoltura non aventi qualifica impiegatizia ai sensi dell'[art. 7 del decreto legislativo del Capo provvisorio dello Stato 6 maggio 1947, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-06;563#art_7) e successive modificazioni, e' maggiorata di L. 3,15 per ogni giornata di lavoro di salariati e braccianti accertata nei confronti dei datori di lavoro agricolo agli effetti del pagamento dei contributi agricoli unificati.
- La maggiorazione della addizionale predetta sara' riscossa con le modalita' previste per i contributi agricoli unificati di cui al [regio decreto-legge 28 novembre 1938, n. 2138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-28;2138).
+ La maggiorazione della addizionale predetta sara' riscossa con le modalita' previste per i contributi agricoli unificati di cui al [regio decreto-legge 28 novembre 1938, n. 2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md).
 
 ## Art. 6.
 

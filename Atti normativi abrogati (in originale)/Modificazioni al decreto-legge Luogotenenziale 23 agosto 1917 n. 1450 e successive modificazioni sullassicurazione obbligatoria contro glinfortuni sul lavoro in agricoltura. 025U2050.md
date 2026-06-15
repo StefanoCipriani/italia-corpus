@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [decreto-legge Luogotenenziale 23 agosto 1917, n. 1450](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md), convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), concernente l'assicurazione obbligatoria contro gli infortuni sul lavoro in agricoltura, modificato con la [legge 24 marzo 1921, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-24;297), e con il [R. decreto 11 febbraio 1923, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-11;432), convertito in legge con la legge predetta;
+Veduto il [decreto-legge Luogotenenziale 23 agosto 1917, n. 1450](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), concernente l'assicurazione obbligatoria contro gli infortuni sul lavoro in agricoltura, modificato con la [legge 24 marzo 1921, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-24;297), e con il [R. decreto 11 febbraio 1923, n. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-11;432), convertito in legge con la legge predetta;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-Agli [articoli 4](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md), [5](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md), [6](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md) e [9 del decreto-legge Luogotenenziale 23 agosto 1917, n. 1450](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md), modificato con il [R. decreto-legge 11 febbraio 1923, n. 432](Che%20reca%20modificazioni%20a%20quello%2023%20agosto%201917%20n.%201450%20ed%20alla%20legge%2024%20marzo%201921%20n.%20297%20concernenti%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agri_2a9f7f90cfbc.md), convertiti in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sono sostituiti i seguenti: 
+Agli [articoli 4](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md), [5](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md), [6](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md) e [9 del decreto-legge Luogotenenziale 23 agosto 1917, n. 1450](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md), modificato con il [R. decreto-legge 11 febbraio 1923, n. 432](Che%20reca%20modificazioni%20a%20quello%2023%20agosto%201917%20n.%201450%20ed%20alla%20legge%2024%20marzo%201921%20n.%20297%20concernenti%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agri_2a9f7f90cfbc.md), convertiti in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), sono sostituiti i seguenti: 
  
  «Art. 4. - Il territorio del Regno e' ripartito in compartimenti di assicurazione, la circoscrizione dei quali, comprendente una o piu' Provincie, e' determinata con Regio decreto promosso dal Ministro per l'economia nazionale. 
  
@@ -44,7 +44,7 @@ Agli [articoli 4](Concernente%20provvedimenti%20per%20lassicurazione%20obbligato
  
  «Il fondo di riserva deve essere investito almeno per una meta' in titoli di Stato o garantiti dallo Stato. 
  
- «Il rimanente potra' essere impiegato in operazioni di mutui ipotecari ai sensi dei capi IV e X del testo unico delle leggi e dei decreti sul credito agrario, approvato con [R. decreto 9 aprile 1922, n. 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-09;932)».
+ «Il rimanente potra' essere impiegato in operazioni di mutui ipotecari ai sensi dei capi IV e X del testo unico delle leggi e dei decreti sul credito agrario, approvato con [R. decreto 9 aprile 1922, n. 932](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md)».
 
 ## Art. 2.
 

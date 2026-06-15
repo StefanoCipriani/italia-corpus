@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 ottobre 1926, n. 1791](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-07;1791), riguardante l'uso della divisa per gli impiegati che prestano servizio negli ambulanti postali. 
+ E' convertito in legge il [R. decreto-legge 7 ottobre 1926, n. 1791](Uso%20della%20divisa%20per%20gli%20impiegati%20che%20prestano%20servizio%20negli%20ambulanti%20postali.%20026U1791.md), riguardante l'uso della divisa per gli impiegati che prestano servizio negli ambulanti postali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

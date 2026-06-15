@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' esente da dazio interno di consumo in tutti i Comuni del Regno la quantita' di granaglie e di cereali non contemplati gia' dalla [legge 23 gennaio 1902, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-01-23;25), allegato A, e delle relative farine, della quale venga accertato l'impiego nella panificazione mediante attestazione dell'autorita' incaricata di controllare l'impiego stesso. 
+E' esente da dazio interno di consumo in tutti i Comuni del Regno la quantita' di granaglie e di cereali non contemplati gia' dalla [legge 23 gennaio 1902, n. 25](Concernente%20sgravio%20di%20consumi%20ed%20altri%20provvedimenti%20finanziari%20002U0025.md), allegato A, e delle relative farine, della quale venga accertato l'impiego nella panificazione mediante attestazione dell'autorita' incaricata di controllare l'impiego stesso. 
  
  L'introduzione dei detti generi nei Comuni chiusi sara' effettuata mediante speciale licenza da scaricarsi con l'attestazione di cui sopra.
 

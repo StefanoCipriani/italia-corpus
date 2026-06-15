@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 2 settembre 1919, n. 1759](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-09-02;1759), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), che stabilisce norme circa l'ordinamento delle associazioni agrarie di mutua assicurazione;
+Visto il [regio decreto-legge 2 settembre 1919, n. 1759](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-09-02;1759), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), che stabilisce norme circa l'ordinamento delle associazioni agrarie di mutua assicurazione;
 
 Visto l'art. 3 del testo delle norme per l'applicazione del citato decreto-legge, approvato con [regio decreto 26 febbraio 1920, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-26;271), circa il limite massimo dell'ammontare annuo dei contributi per le associazioni agrarie di mutua assicurazione;
 
-Visto l'[art. 9 del regio decreto-legge 12 luglio 1934, n. 1290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-12;1290#art_9), convertito nella [legge 12 febbraio 1935, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-02-12;303);
+Visto l'[art. 9 del regio decreto-legge 12 luglio 1934, n. 1290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-12;1290#art_9), convertito nella [legge 12 febbraio 1935, n. 303](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20luglio%201934%20n.%201290%20recante%20modifiche%20al%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20s_944cb1dfad16.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

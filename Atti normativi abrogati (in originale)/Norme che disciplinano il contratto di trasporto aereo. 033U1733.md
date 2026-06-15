@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 20 agosto 1923, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-08-20;2207), concernente provvedimenti per la navigazione aerea ed il relativo regolamento approvato con il [R. decreto 11 gennaio 1925, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-11;356);
+Visto il [R. decreto-legge 20 agosto 1923, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-08-20;2207), concernente provvedimenti per la navigazione aerea ed il relativo regolamento approvato con il [R. decreto 11 gennaio 1925, n. 356](Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

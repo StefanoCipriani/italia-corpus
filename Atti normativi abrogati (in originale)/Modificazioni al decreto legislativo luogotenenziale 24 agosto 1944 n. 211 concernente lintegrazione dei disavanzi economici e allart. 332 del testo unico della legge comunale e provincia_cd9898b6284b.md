@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);
+Visto il testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Visti i [decreti legislativi luogotenenziali 24 agosto 1944, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-24;211), e [22 marzo 1945, n. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-22;171);
+Visti i [decreti legislativi luogotenenziali 24 agosto 1944, n. 211](../Decreti%20legislativi%20luogotenenziali/Integrazione%20dei%20disavanzi%20economici%20dei%20bilanci%20delle%20Amministrazioni%20provinciali%20e%20comunali.%20044U0211.md), e [22 marzo 1945, n. 171](../Decreti%20legislativi%20luogotenenziali/Modificazione%20al%20decreto%20legislativo%20Luogotenenziale%2024%20agosto%201944%20n.%20211%20che%20reca%20norme%20per%20la%20integrazione%20dei%20disavanzi%20economici%20dei%20bilanci%20delle%20Amministrazioni%20provinciali%20e%20comunali.%20045U0171.md);
 
 Visti il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), e il decreto legislativo luogotenenziale 16 marzo 1946, ix. 98;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 
 ## Art. 1.
 
-L'[art. 3 del decreto legislativo luogotenenziale 24 agosto 1944, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-24;211#art_3), modificato dall'[art. 1 del decreto legislativo luogotenenziale 22 marzo 1945, n. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-22;171#art_1), sostituito dal seguente: 
+L'[art. 3 del decreto legislativo luogotenenziale 24 agosto 1944, n. 211](../Decreti%20legislativi%20luogotenenziali/Integrazione%20dei%20disavanzi%20economici%20dei%20bilanci%20delle%20Amministrazioni%20provinciali%20e%20comunali.%20044U0211.md), modificato dall'[art. 1 del decreto legislativo luogotenenziale 22 marzo 1945, n. 171](../Decreti%20legislativi%20luogotenenziali/Modificazione%20al%20decreto%20legislativo%20Luogotenenziale%2024%20agosto%201944%20n.%20211%20che%20reca%20norme%20per%20la%20integrazione%20dei%20disavanzi%20economici%20dei%20bilanci%20delle%20Amministrazioni%20provinciali%20e%20comunali.%20045U0171.md), sostituito dal seguente: 
  "La concessione dei contributi e l'assunzione dei mutui di cui all'art. 1 sono autorizzate: 
  a) per le Amministrazioni provinciali, per i Comuni capoluogo di provincia e per gli altri Comuni con popolazione non inferiore a 5000 abitanti, con decreti del Ministro per l'interno, di concerto con quello per il tesoro, sentita la Commissione centrale per la finanza locale; 
  b) per i Comuni con popolazione inferiore a 5000 abitanti, dalla Giunta provinciale amministrativa, in sede di approvazione dei rispettivi bilanci, su relazione dell'intendenza di finanza. 

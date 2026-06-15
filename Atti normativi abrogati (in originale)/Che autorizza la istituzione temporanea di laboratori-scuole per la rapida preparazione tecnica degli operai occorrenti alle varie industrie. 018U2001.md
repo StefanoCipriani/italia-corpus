@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto le [leggi 30 giugno 1907, n. 414, 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854) e il [decreto-legge Luogotenenziale 10 maggio 1917, n. 896](Concernente%20provvedimenti%20a%20favore%20dellistruzione%20professionale.%20017U0896.md);
+Visto le [leggi 30 giugno 1907, n. 414, 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md) e il [decreto-legge Luogotenenziale 10 maggio 1917, n. 896](Concernente%20provvedimenti%20a%20favore%20dellistruzione%20professionale.%20017U0896.md);
 
 Udito il Consiglio dei ministri;
 
@@ -41,7 +41,7 @@ Nota redazionale
 
 ## Art. 2.
 
-Il contributo governativo per il mantenimento dei laboratori-scuole e' determinato nella misura massima consentita dall'[art. 2 della legge 30 giugno 1907, n. 414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-30;414#art_2). Il contributo stesso e quello degli enti locali sono fissati in una somma annua, limitatamente al numero di anni previsto per la durata dei singoli laboratori-scuole. 
+Il contributo governativo per il mantenimento dei laboratori-scuole e' determinato nella misura massima consentita dall'[art. 2 della legge 30 giugno 1907, n. 414](Provvedimenti%20per%20linsegnamento%20industriale%20e%20commerciale.%20007U0414.md). Il contributo stesso e quello degli enti locali sono fissati in una somma annua, limitatamente al numero di anni previsto per la durata dei singoli laboratori-scuole. 
  
  Gli industriali, che abbiano non meno di cinquanta operai, esercenti le industrie alle quali i laboratori-scuole sono preordinati, hanno obbligo di partecipare alle spese di fondazione e di mantenimento, in misura non superiore a quella indicata dall'[art. 6 del decreto-legge Luogotenenziale 10 maggio 1917, n. 896](Concernente%20provvedimenti%20a%20favore%20dellistruzione%20professionale.%20017U0896.md). 
  
@@ -95,7 +95,7 @@ Col concorso degli enti locali sono fondati in Lucca ed in Perugia due Istituti 
  
  Del Consiglio di amministrazione di ciascun Istituto fa parte un delegato del Consiglio della «Associazione nazionale delle donne italiane», scelto dal ministro dell'industria, del commercio e del lavoro in base ad una terna proposta dal Consiglio della detta associazione. 
  
- Gli enti locali, a norma dell'[art. 5, n. 3, del R. decreto 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1014#art_5-num3), forniscono adatte sedi per l'Istituto e per la casa di pensionato. 
+ Gli enti locali, a norma dell'[art. 5, n. 3, del R. decreto 22 giugno 1913, n. 1014](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sullistruzione%20professionale%20scuole%20industriali%20e%20commerciali.%20013U1014.md), forniscono adatte sedi per l'Istituto e per la casa di pensionato. 
  
  Qualora gli enti predetti di Lucca e di Perugia non assumessero tale obbligo; e' data facolta' al ministro dell'industria, del commercio e del lavoro di presciegliere altre citta' per sede degli Istituti stessi.
 

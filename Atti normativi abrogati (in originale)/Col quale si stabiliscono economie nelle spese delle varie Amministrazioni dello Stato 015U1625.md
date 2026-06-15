@@ -54,7 +54,7 @@ Al 1° luglio 1916 il numero degli impiegati ed agenti avventizi o straordinari 
  
  Salve le eccezioni indicate nei seguenti articoli 3, 4 e 5, e' fatto divieto, a decorrere dalla data di pubblicazione del presente decreto, di assumere nuovi avventizi o straordinari od assimilati nelle Amministrazioni dello Stato, restando abrogata ogni e qualsiasi disposizione che autorizzi l'assunzione di detto personale. 
  
- Potranno, pero', ove ne sia riconosciuto l'assoluto bisogno, essere sostituiti con le forme prescritte dalla [legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182), quegli avventizi o straordinari od assimilati che venissero eventualmente a cessare dopo il 1° luglio 1916. 
+ Potranno, pero', ove ne sia riconosciuto l'assoluto bisogno, essere sostituiti con le forme prescritte dalla [legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md), quegli avventizi o straordinari od assimilati che venissero eventualmente a cessare dopo il 1° luglio 1916. 
  
  Con le stesse forme della citata legge, sara' provveduto alla provvisoria conferma in servizio al 1° luglio 1916 degli impiegati ed agenti avventizi o straordinari od assimilati che rimarranno in servizio di ciascuna amministrazione, ancorche' assunti anteriormente alla legge stessa o posteriormente senza le forme dalla medesima stabilite. 
  
@@ -80,7 +80,7 @@ Le disposizioni dei precedenti articoli 1 e 2 non sono applicabili, durante lo s
 
 ## Art. 5.
 
-E' conservata la facolta' d'assumere ingegneri, aiuti disegnatori ed assistenti provvisori del Genio civile nelle condizioni previste dall'art. 3 sub. 31 della [legge 9 luglio 1908, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;403), seguendo, pero', le forme stabilite dall'[art. 9 della legge 11 giugno 1897, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-11;182#art_9). 
+E' conservata la facolta' d'assumere ingegneri, aiuti disegnatori ed assistenti provvisori del Genio civile nelle condizioni previste dall'art. 3 sub. 31 della [legge 9 luglio 1908, n. 403](Provvedimenti%20per%20il%20Real%20corpo%20del%20genio%20civile%20e%20per%20il%20personale%20aggiunto%20e%20provvisorio%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici%20e%20del%20genio%20civile.%20008U0403.md), seguendo, pero', le forme stabilite dall'[art. 9 della legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md). 
  
  E' del pari ammessa l'assunzione di assistenti avventizi presso gli speciali uffici costituiti per la custodia e la conservazione dei monumenti, ai sensi dell'[art. 2, della legge 16 giugno 1912, n. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-16;687#art_2), seguendo le modalita' con la legge stessa stabilite. 
  

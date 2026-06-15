@@ -44,7 +44,7 @@ Ferme restando le disposizioni degli articoli precedenti, si presumono non genui
 
 ## Art. 4.
 
-La preparazione a scopo di vendita ed il commercio dei vini non genuini sono vietati, e chiunque prepara a scopo di vendita, pone in vendita o mette altrimenti in commercio o somministra, come compenso ai propri dipendenti, vini non genuini e' soggetto, fuori dei casi previsti dagli [articoli 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_295), [319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_319) e [322 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_322), alla multa fissa di lire trecento, oltre alla multa proporzionale di lire venti per ogni ettolitro o frazione di ettolitro. 
+La preparazione a scopo di vendita ed il commercio dei vini non genuini sono vietati, e chiunque prepara a scopo di vendita, pone in vendita o mette altrimenti in commercio o somministra, come compenso ai propri dipendenti, vini non genuini e' soggetto, fuori dei casi previsti dagli [articoli 295](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [319](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [322 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), alla multa fissa di lire trecento, oltre alla multa proporzionale di lire venti per ogni ettolitro o frazione di ettolitro. 
  
  Nel caso di recidiva, ferma la multa proporzionale, la multa fissa potra' estendersi fino a lire mille ed in caso di seconda recidiva sara' aggiunta la sospensione dal commercio o dall'esercizio per un periodo da tre a sei mesi. 
  
@@ -56,7 +56,7 @@ La preparazione a scopo di vendita ed il commercio dei vini non genuini sono vie
 
 ## Art. 5.
 
-Qualora le infrazioni riguardino vini presentati per essere spediti fuori del Regno, la multa proporzionale sara' elevata a lire quaranta per ettolitro e le altre pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e dal presente decreto-legge saranno applicate al massimo.
+Qualora le infrazioni riguardino vini presentati per essere spediti fuori del Regno, la multa proporzionale sara' elevata a lire quaranta per ettolitro e le altre pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dal presente decreto-legge saranno applicate al massimo.
 
 ## Art. 6.
 
@@ -205,7 +205,7 @@ In ciascuno dei bilanci della spesa dei Ministeri dell'interno e delle finanze, 
 
 ## Art. 28.
 
-Con l'entrata in esecuzione del presente decreto-legge, cessano di avere vigore la [legge 11 luglio 1904, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;388), e il [decreto-legge Luogotenenziale 1° ottobre 1916, n. 1254](Recante%20provvedimenti%20per%20combattere%20le%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20vini%20016U1254.md).
+Con l'entrata in esecuzione del presente decreto-legge, cessano di avere vigore la [legge 11 luglio 1904, n. 388](Disposizioni%20per%20combattere%20le%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20vini.%20004U0388.md), e il [decreto-legge Luogotenenziale 1° ottobre 1916, n. 1254](Recante%20provvedimenti%20per%20combattere%20le%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20vini%20016U1254.md).
 
 ## Art. 29.
 

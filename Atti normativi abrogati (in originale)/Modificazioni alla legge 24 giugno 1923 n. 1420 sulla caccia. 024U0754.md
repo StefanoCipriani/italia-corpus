@@ -192,13 +192,13 @@ In fine al primo periodo dell'[art. 41 della legge 24 giugno 1923, n. 1420](Prov
 
 ## Art. 13.
 
-Le disposizioni della [legge 24 giugno 1923, n. 1420](Provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U1420.md), e del regolamento approvato con [R. decreto 24 settembre 1923, n. 2448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2448), contrarie o diverse dalle presenti sono abrogate. 
+Le disposizioni della [legge 24 giugno 1923, n. 1420](Provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U1420.md), e del regolamento approvato con [R. decreto 24 settembre 1923, n. 2448](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20giugno%201923%20n.%201420%20recante%20provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U2448.md), contrarie o diverse dalle presenti sono abrogate. 
  
  Viene, parimenti, abrogato, perche' assorbito dal presente, il [R. decreto-legge 20 marzo 1924, n. 533](Modificazioni%20alla%20legge%2024%20giugno%201923%20n.%201420%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20024U0533.md).
 
 ## Art. 14.
 
-Il Governo del Re e' autorizzato a coordinare in testo unico le presenti disposizioni con quelle della [legge 24 giugno 1923, n. 1420](Provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U1420.md), e del [R. decreto 2 dicembre 1923, n. 2700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2700), nonche' ad emanare le norme occorrenti per l'applicazione del testo unico medesimo. 
+Il Governo del Re e' autorizzato a coordinare in testo unico le presenti disposizioni con quelle della [legge 24 giugno 1923, n. 1420](Provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U1420.md), e del [R. decreto 2 dicembre 1923, n. 2700](Provvedimenti%20per%20i%20corpi%20consultivi%20dei%20cessati%20Ministeri%20dellagricoltura%20dellindustria%20e%20il%20commercio%20del%20lavoro%20e%20la%20previdenza%20sociale.%20023U2700.md), nonche' ad emanare le norme occorrenti per l'applicazione del testo unico medesimo. 
  
  Il presente decreto, che sara' presentato al Parlamento per essere convertito in legge, entra in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

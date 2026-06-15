@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La Commissione istituita con la [legge 17 maggio 1900, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-05-17;173), sara' composta: 
+La Commissione istituita con la [legge 17 maggio 1900, n. 173](Disposizioni%20sul%20credito%20comunale%20e%20provinciale.%20000U0173.md), sara' composta: 
  
  di un consigliere di Stato, che funzionera' da presidente; 
  
@@ -26,11 +26,11 @@ La Commissione istituita con la [legge 17 maggio 1900, n. 173](https://www.norma
  
  di un funzionario del Ministero dell'interno, segretario, con voto consultivo. 
  
- Fermo restando il disposto dell'[art. 2 del regolamento 24 dicembre 1900, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1900-12-24;501#art_2), agli effetti della [legge 29 marzo 1903, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-03-29;103), per la validita' delle adunanze della Commissione Reale occorre l'intervento di almeno cinque membri di cui non meno di due di quelli aggiunti in forza della legge stessa. Le deliberazioni della Commissione in sede di municipalizzazione dei pubblici servizi si prendono a maggioranza assoluta di voti; ma nessuna proposta potra' essere adottata se non raccoglie almeno cinque voti.
+ Fermo restando il disposto dell'[art. 2 del regolamento 24 dicembre 1900, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1900-12-24;501#art_2), agli effetti della [legge 29 marzo 1903, n. 103](Sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20003U0103.md), per la validita' delle adunanze della Commissione Reale occorre l'intervento di almeno cinque membri di cui non meno di due di quelli aggiunti in forza della legge stessa. Le deliberazioni della Commissione in sede di municipalizzazione dei pubblici servizi si prendono a maggioranza assoluta di voti; ma nessuna proposta potra' essere adottata se non raccoglie almeno cinque voti.
 
 ## Art. 2.
 
-Sono abrogati il primo alinea dell'[art. 5 della legge 19 maggio 1904, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-05-19;185#art_5), gli ultimi due capoversi dell'[art. 1 del regolamento 24 dicembre 1900, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1900-12-24;501#art_1), ed il primo dell'[art. 196 del regolamento 10 marzo 1904, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1904-03-10;108#art_196).
+Sono abrogati il primo alinea dell'[art. 5 della legge 19 maggio 1904, n. 185](Concernente%20la%20concessione%20e%20la%20trasformazione%20di%20prestiti%20agli%20Enti%20locali%20del%20Mezzogiorno%20continentale.%20004U0185.md), gli ultimi due capoversi dell'[art. 1 del regolamento 24 dicembre 1900, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1900-12-24;501#art_1), ed il primo dell'[art. 196 del regolamento 10 marzo 1904, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1904-03-10;108#art_196).
 
 ## Art. 3.
 

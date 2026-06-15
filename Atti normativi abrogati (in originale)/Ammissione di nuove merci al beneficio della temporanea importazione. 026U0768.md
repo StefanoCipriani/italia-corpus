@@ -28,7 +28,7 @@ Ritenuta la necessita' urgente ed assoluta di provvedere nell'interesse del comm
 
 temporaneamente per essere lavorate;
 
-Sentito il Comitato consultivo, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1313#art_1), modificato col R. decreto-legge 4
+Sentito il Comitato consultivo, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), modificato col R. decreto-legge 4
 
 settembre 1924, n. 1408;
 

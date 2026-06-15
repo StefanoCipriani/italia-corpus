@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -23,7 +23,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 ## Art. 1.
 
 L'[art. 2 del decreto legislativo luogotenenziale 26 aprile 1946, n. 343](Revoca%20delle%20disposizioni%20contenute%20nel%20R.%20Decreto-legge%203%20settembre%201941%20n.%20882%20e%20nel%20R.%20decreto%2017%20ottobre%201941%20n.%201330%20relativi%20al%20divieto%20di%20alienazione%20del%20platino%20oro%20argento%20perle%20_1c9991dfe6c6.md), e' abrogato.
- Per i fatti commessi prima dell'entrata in vigore del presente decreto, si applica l'[art. 2, comma secondo, del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_2-com2).
+ Per i fatti commessi prima dell'entrata in vigore del presente decreto, si applica l'[art. 2, comma secondo, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 

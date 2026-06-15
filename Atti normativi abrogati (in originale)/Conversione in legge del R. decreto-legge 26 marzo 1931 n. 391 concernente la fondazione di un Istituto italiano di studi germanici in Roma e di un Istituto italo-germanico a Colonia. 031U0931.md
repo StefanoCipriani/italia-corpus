@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 marzo 1931, n. 391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-03-26;391), concernente la fondazione di un istituto italiano di studi germanici in Roma e di un Istituto italo-germanico a Colonia. 
+ E' convertito in legge il [R. decreto-legge 26 marzo 1931, n. 391](Fondazione%20di%20un%20Istituto%20italiano%20di%20studi%20germanici%20in%20Roma%20e%20di%20un%20Istituto%20italo-germanico%20a%20Colonia.%20031U0391.md), concernente la fondazione di un istituto italiano di studi germanici in Roma e di un Istituto italo-germanico a Colonia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

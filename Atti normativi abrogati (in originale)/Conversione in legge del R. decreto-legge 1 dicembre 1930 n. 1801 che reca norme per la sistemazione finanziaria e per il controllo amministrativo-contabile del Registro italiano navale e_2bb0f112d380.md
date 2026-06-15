@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° dicembre 1930, n. 1801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-01;1801), che reca norme per la sistemazione finanziaria e per il controllo amministrativo-contabile del Registro italiano navale ed aeronautico. 
+ E' convertito in legge il [R. decreto-legge 1° dicembre 1930, n. 1801](Norme%20per%20la%20sistemazione%20finanziaria%20e%20per%20il%20controllo%20amministrativo%20e%20contabile%20del%20Registro%20italiano%20navale%20e%20aeronautico.%20030U1801.md), che reca norme per la sistemazione finanziaria e per il controllo amministrativo-contabile del Registro italiano navale ed aeronautico. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 17 aprile 1931 - Anno IX 
  

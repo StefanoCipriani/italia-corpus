@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 dicembre 1923, n. 2958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2958), contenente disposizioni riguardanti la posizione dei funzionari fuori ruolo;
+Visto il [regio decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), contenente disposizioni riguardanti la posizione dei funzionari fuori ruolo;
 
 Visto l'[art. 17 del regio decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46#art_17), convertito nella [legge 24 gennaio 1926, numero 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-24;898);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro Segretario di Stato per il tesoro; Decreta:
 
 E' aumentato da 20 a 40 il numero dei funzionari della carriera di concetto della Ragioneria generale dello Stato che possono essere collocati fuori ruolo, ai sensi del [regio decreto 30 dicembre 1923, n. 2058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2058), integrato dall'[art. 17 del regio decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46#art_17), perche' assegnati a disposizione di altre Amministrazioni o Opere nazionali o presso gli Enti considerati negli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491#art_3) e [4 del regio decretolegge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491#art_4), nonche' alle dipendenze degli Uffici speciali di ragioneria di cui al [decreto legislativo Presidenziale 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;37), con attribuzioni che non consentono il regolare e continuo assolvimento del normale servizio d'istituto. 
  In base al precedente comma possono essere collocati fuori ruolo soltanto i funzionari di grado non superiore al quinto e non inferiore al nono; di essi non oltre cinque possono rivestire il grado quinto e non oltre quindici il sesto. 
- Sono abrogate le disposizioni contenute nel [regio decreto 24 agosto 1939, n. 1384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-08-24;1384), e successive modificazioni.
+ Sono abrogate le disposizioni contenute nel [regio decreto 24 agosto 1939, n. 1384](Collocamento%20fuori%20ruolo%20di%20personale%20di%20concetto%20della%20Ragioneria%20generale%20dello%20Stato.%20039U1384.md), e successive modificazioni.
 
 ## Art. 2.
 

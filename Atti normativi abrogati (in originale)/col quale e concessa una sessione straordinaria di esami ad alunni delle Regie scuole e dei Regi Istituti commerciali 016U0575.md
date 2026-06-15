@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Virtu' dell'autorita' a Noi delegata; 
  
- In forza dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In forza dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Riconosciuta la convenienza di adottare speciali provvedimenti per gli studenti dei RR. Istituti commerciali, delle RR. scuole medie di commercio, delle RR. scuole commerciali o delle RR. scuole inferiori di commercio in procinto di essere chiamati alle armi; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- In deroga alle vigenti disposizioni della [legge 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854), e del regolamento generale 22 giugno 1913, n. 1014, il ministro d'agricoltura, industria e commercio e' autorizzato ad accordare non prima del 15 aprile 1916 una sessione straordinaria di esami agli alunni dei RR. Istituti commerciali, delle RR. scuole medie di commercio, delle RR. scuole commerciali e delle RR. scuole inferiori di commercio. 
+ In deroga alle vigenti disposizioni della [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), e del regolamento generale 22 giugno 1913, n. 1014, il ministro d'agricoltura, industria e commercio e' autorizzato ad accordare non prima del 15 aprile 1916 una sessione straordinaria di esami agli alunni dei RR. Istituti commerciali, delle RR. scuole medie di commercio, delle RR. scuole commerciali e delle RR. scuole inferiori di commercio. 
  
  Alla detta sessione straordinaria potranno essere ammessi solo gli alunni regolarmente iscritti nell'anno scolastico 1915-916 che risultassero abili al servizio militare in seguito alle nuove visite ai riformati e quelli della classe 1897 che fossero dichiarati idonei in seguito alla visita militare della loro classe. 
  

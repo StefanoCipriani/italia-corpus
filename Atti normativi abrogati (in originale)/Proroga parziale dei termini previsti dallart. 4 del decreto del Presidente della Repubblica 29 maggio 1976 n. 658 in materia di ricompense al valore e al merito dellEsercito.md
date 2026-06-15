@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 26 luglio 1974, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-07-26;330), istitutiva di ricompense al valore ed al merito dell'Esercito;
+Vista la [legge 26 luglio 1974, n. 330](Istituzione%20di%20ricompense%20al%20valore%20e%20al%20merito%20dellEsercito.md), istitutiva di ricompense al valore ed al merito dell'Esercito;
 
 Visto il [decreto del Presidente della Repubblica 29 maggio 1976, n. 658](Norme%20di%20esecuzione%20della%20legge%2026%20luglio%201974%20n.%20330%20istitutiva%20di%20ricompense%20al%20valore%20ed%20al%20merito%20dellEsercito.md), recante norme di esecuzione della legge anzidetta;
 

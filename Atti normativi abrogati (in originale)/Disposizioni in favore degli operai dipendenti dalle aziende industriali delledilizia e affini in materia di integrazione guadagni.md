@@ -23,7 +23,7 @@ Agli operai dipendenti dalle aziende industriali dell'edilizia e affini che, per
 ## Art. 2.
 
 Per provvedere alla corresponsione della integrazione prevista dall'articolo precedente, e' istituita in seno alla Cassa per l'integrazione dei guadagni degli operai dell'industria di cui all'[articolo 6 del decreto legislativo luogotenenziale 9 novembre 1945, n. 788](Istituzione%20della%20Cassa%20per%20lintegrazione%20dei%20guadagni%20degli%20operai%20dellindustria%20e%20disposizioni%20transitorie%20a%20favore%20dei%20lavoratori%20dellindustria%20dellAlta%20Italia.%20045U0788.md), una gestione speciale per gli operai della edilizia avente contabilita' separata delle prestazioni e dei contributi. 
- Essa e' amministrata dall'Istituto nazionale della previdenza sociale che vi provvedera' con i suoi organi centrali e periferici secondo le norme del [regio decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito nella [legge 6 aprile 1936, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155).
+ Essa e' amministrata dall'Istituto nazionale della previdenza sociale che vi provvedera' con i suoi organi centrali e periferici secondo le norme del [regio decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md).
 
 ## Art. 3.
 

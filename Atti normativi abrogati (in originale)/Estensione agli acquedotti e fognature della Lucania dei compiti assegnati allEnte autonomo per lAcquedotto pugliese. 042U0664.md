@@ -16,7 +16,7 @@ L'Ente autonomo per l'Acquedotto pugliese e' autorizzato ad estendere i compiti 
 
 ## Art. 2.
 
-Per gli acquedotti assunti in gestione dall'Ente autonomo per l'Acquedotto pugliese l'acqua a qualunque uso destinata, sia pubblico che privato, sara' pagata in base a tariffe secondo le norme di cui all'art. 112 del regolamento generale dell'Ente approvato con [R. decreto 16 gennaio 1921, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-01-16;195). 
+Per gli acquedotti assunti in gestione dall'Ente autonomo per l'Acquedotto pugliese l'acqua a qualunque uso destinata, sia pubblico che privato, sara' pagata in base a tariffe secondo le norme di cui all'art. 112 del regolamento generale dell'Ente approvato con [R. decreto 16 gennaio 1921, n. 195](Che%20approva%20il%20regolamento%20generale%20pel%20funzionamento%20dellEnte%20autonomo%20per%20lAcquedotto%20Pugliese.%20021U0195.md). 
  
  I prezzi dell'acqua per i diversi usi ed i valori della addizionale per la gestione fognature di cui all'art. 4 del R. decreto-legge 2 agosto 1938-XVI, n.1464, convertito nella legge 16 gennaio 1939-XVII, n. 74, possono essere fissati in misura diversa da quelli corrispondenti per gli abitati serviti direttamente dall'Acquedotto pugliese. 
  

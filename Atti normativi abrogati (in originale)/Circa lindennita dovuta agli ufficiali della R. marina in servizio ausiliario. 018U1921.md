@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 29 gennaio 1885, n. 2897](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-29;2897) sulla istituzione del servizio ausiliario per gli ufficiali della Regia marina;
+Vista la [legge 29 gennaio 1885, n. 2897](Che%20stabilisce%20per%20gli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marineria%20la%20posizione%20di%20servizio%20ausiliario.%20085U2897.md) sulla istituzione del servizio ausiliario per gli ufficiali della Regia marina;
 
 Udito il Consiglio dei ministri;
 

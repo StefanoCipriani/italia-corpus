@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 marzo 1931, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-03-23;349), recante provvedimenti complementari per i danni prodotti dal terremoto delle Marche del 30 ottobre 1930. 
+ E' convertito in legge il [R. decreto-legge 23 marzo 1931, n. 349](Provvedimenti%20complementari%20per%20i%20danni%20prodotti%20dal%20terremoto%20delle%20Marche%20del%2030%20ottobre%201930.%20031U0349.md), recante provvedimenti complementari per i danni prodotti dal terremoto delle Marche del 30 ottobre 1930. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [R. decreto-legge 23 aprile 1942 n. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-04-23;433) e' modificato come risulta dalle disposizioni seguenti.
+Il [R. decreto-legge 23 aprile 1942 n. 433](Disciplina%20dellesercizio%20della%20trebbiatura%20e%20della%20sgranatura%20a%20macchina%20dei%20cereali%20e%20delle%20leguminose.%20042U0433.md) e' modificato come risulta dalle disposizioni seguenti.
 
 ## Art. 2.
 

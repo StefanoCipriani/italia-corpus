@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491), concernente la riforma tecnico-giuridica delle pensioni di guerra, e le successive modifiche ed integrazioni;
+Visto il [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), concernente la riforma tecnico-giuridica delle pensioni di guerra, e le successive modifiche ed integrazioni;
 
 Ritenuta la necessita' urgente ed assoluta di apportare taluni miglioramenti all'aumento integratore a favore degli orfani degli invalidi di guerra provvisti di pensione o di assegno di prima categoria;
 
@@ -28,13 +28,13 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-L'aumento integratore di cui all'[art. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_27) e all'[art. 29, secondo comma, del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_29-com2), viene elevato per gli orfani degli invalidi di guerra provvisti di pensione o di assegno di prima categoria all'atto della morte, a L. 600 annue fino al compimento del 16° o 18° anno di eta', secondo che si tratti di orfani di militari di truppa o di ufficiali, e purche' le femmine siano inoltre nubili. 
+L'aumento integratore di cui all'[art. 27](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e all'[art. 29, secondo comma, del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), viene elevato per gli orfani degli invalidi di guerra provvisti di pensione o di assegno di prima categoria all'atto della morte, a L. 600 annue fino al compimento del 16° o 18° anno di eta', secondo che si tratti di orfani di militari di truppa o di ufficiali, e purche' le femmine siano inoltre nubili. 
  
- Detto beneficio viene conservato, anche dopo i limiti di eta' suindicati, agli orfani che siano inabili in modo assoluto a proficuo lavoro per una infermita' ascrivibile alla prima categoria di cui alla tabella A annessa al citato [R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491).
+ Detto beneficio viene conservato, anche dopo i limiti di eta' suindicati, agli orfani che siano inabili in modo assoluto a proficuo lavoro per una infermita' ascrivibile alla prima categoria di cui alla tabella A annessa al citato [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
 
 ## Art. 2.
 
-A partire dal compimento del 16° o 18° anno di eta' di ciascun orfano e fino alla maggiore eta' e, per le femmine, purche' nubili, l'aumento integratore e' riportato alle misure previste dall'[art. 27 del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_27). 
+A partire dal compimento del 16° o 18° anno di eta' di ciascun orfano e fino alla maggiore eta' e, per le femmine, purche' nubili, l'aumento integratore e' riportato alle misure previste dall'[art. 27 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
  
  Per la determinazione della misura dell'aumento spettante a termini di detto articolo, l'orfano che ha compiuto l'eta' sopra indicata prende posto dopo quelli ancora provvisti dell'aumento maggiorato.
 

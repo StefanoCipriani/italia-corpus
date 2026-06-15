@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-Visto il testo unico delle disposizioni legislative in materia postale di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156);
+Visto il testo unico delle disposizioni legislative in materia postale di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Vista la [legge 18 ottobre 1977, n. 791](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20del%20consiglio%20delle%20Comunita%20europee%20n.%2072-23-CEE%20relativa%20alle%20garanzie%20di%20sicurezza%20che%20devono%20possedere%20il%20materiale%20elettrico%20destinato%20ad%20essere%20utilizzato_ba0a9e22b669.md), che attua la [direttiva n. 73/23/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1973;23), relativa alle garanzie di sicurezza del materiale elettrico destinato ad essere utilizzato entro alcuni limiti di tensione;
 
@@ -18,7 +18,7 @@ Vista la [legge 21 giugno 1986, n. 317](../Atti%20di%20recepimento%20direttive%2
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Vista la [legge 28 marzo 1991, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-28;109), che attua la [direttiva 88/301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;301)/CCE relativa alla concorrenza sul mercato dei terminali di telecomunicazioni;
+Vista la [legge 28 marzo 1991, n. 109](Nuove%20disposizioni%20in%20materia%20di%20allacciamenti%20e%20collaudi%20degli%20impianti%20telefonici%20interni.md), che attua la [direttiva 88/301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;301)/CCE relativa alla concorrenza sul mercato dei terminali di telecomunicazioni;
 
 Visto il [decreto ministeriale 23 maggio 1992, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-05-23;314) - allegato 11 relativo alla procedura per l'omologazione delle apparecchiature terminali da connettere alla rete pubblica di telecomunicazioni;
 
@@ -26,7 +26,7 @@ Visto il [decreto legislativo 12 novembre 1996, n 615](Attuazione%20della%20dire
 
 Visto il [decreto legislativo 12 novembre 1996, n. 614](Attuazione%20della%20direttiva%2091-263-CEE%20concernente%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alle%20apparecchiature%20terminali%20di%20telecomunicazioni%20incluso%20il%20reciproco_426130cd5bac.md), che attua la [direttiva 91/263/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;263) riguardante il ravvicinamento delle legislazioni degli Stati membri relative alle apparecchiatura terminali di telecomunicazioni, incluso il reciproco riconoscimento della loro conformita', come modificata dalla [direttiva 93/68/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;68) ed integrata dalla [direttiva 93/97/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;97);
 
-Vista la [legge 28 luglio 1993, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-28;300), concernente la ratifica e l'esecuzione dell'accordo sullo Spazio economico europeo fatto a Oporto il 2 maggio 1992 e del protocollo di adattamento di detto accordo firmato a Bruxelles il 17 marzo 1993, ed in particolare l'atto finale, allegato II/XVIII;
+Vista la [legge 28 luglio 1993, n. 300](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20sullo%20Spazio%20economico%20europeo%20con%20protocolli%20allegati%20e%20dichiarazioni%20fatto%20a%20Oporto%20il%202%20maggio%201992%20e%20del%20protocollo%20di%20adattamento%20di%20detto%20accordo%20_e276372f7d8a.md), concernente la ratifica e l'esecuzione dell'accordo sullo Spazio economico europeo fatto a Oporto il 2 maggio 1992 e del protocollo di adattamento di detto accordo firmato a Bruxelles il 17 marzo 1993, ed in particolare l'atto finale, allegato II/XVIII;
 
 Considerato che in assenza di regole tecniche comuni e' necessario istituire una procedura di approvazione nazionale dei terminali di telecomunicazioni, basata sulle regole tecniche, sulle norme tecniche e sulle specifiche tecniche nazionali;
 
@@ -93,7 +93,7 @@ Ai fini del presente decreto si intendono per:
 
 NOTE
  AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note all'[art. 1:
  - La legge 18 ottobre 1977, n. 791](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20del%20consiglio%20delle%20Comunita%20europee%20n.%2072-23-CEE%20relativa%20alle%20garanzie%20di%20sicurezza%20che%20devono%20possedere%20il%20materiale%20elettrico%20destinato%20ad%20essere%20utilizzato_ba0a9e22b669.md), attua la [direttiva 73/23/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1973;23), relativa alle garanzie di sicurezza del materiale elettrico destinato ad essere utilizzato entro alcuni limiti di tensione.
  - Si riporta il testo dell'[art. 7 del decreto legislativo 12 novembre 1996, n. 614](Attuazione%20della%20direttiva%2091-263-CEE%20concernente%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alle%20apparecchiature%20terminali%20di%20telecomunicazioni%20incluso%20il%20reciproco_426130cd5bac.md).
@@ -500,7 +500,7 @@ Il titolare dell'approvazione ha facolta' di chiedere alla direzione generale pe
 L'allegato 11 al [decreto ministeriale 23 maggio 1992, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-05-23;314), e' abrogato.
 
 Nota all'[art. 23:
- - Il decreto ministeriale 23 maggio 1992, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-05-23;314#art_23), ha approvato il regomamento recante disposizioni di attuazione della [legge 28 marzo 1991, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-28;109), in materia di allacciamenti e collaudi degli impianti telefonici interni.
+ - Il decreto ministeriale 23 maggio 1992, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-05-23;314#art_23), ha approvato il regomamento recante disposizioni di attuazione della [legge 28 marzo 1991, n. 109](Nuove%20disposizioni%20in%20materia%20di%20allacciamenti%20e%20collaudi%20degli%20impianti%20telefonici%20interni.md), in materia di allacciamenti e collaudi degli impianti telefonici interni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

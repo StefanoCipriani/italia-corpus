@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il termine del 31 gennaio 1994 previsto dall'[articolo 4, comma 2, della legge 26 novembre 1992, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468#art_4-com2), e' prorogato, limitatamente alla pubblicazione del bollettino valevole per la campagna lattiero- casearia 1994-1995, al 31 marzo 1994.
+Il termine del 31 gennaio 1994 previsto dall'[articolo 4, comma 2, della legge 26 novembre 1992, n. 468](Misure%20urgenti%20nel%20settore%20lattiero-caseario.md), e' prorogato, limitatamente alla pubblicazione del bollettino valevole per la campagna lattiero- casearia 1994-1995, al 31 marzo 1994.
 
 ## Art. 2.
 

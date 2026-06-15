@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 4 giugno 1893, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-04;260);
+Vista la [legge 4 giugno 1893, n. 260](Che%20modifica%20la%20legge%2011%20luglio%201889%20sulla%20contabilita%20generale%20dello%20Stato.%20093U0260.md);
 
-Vista la [legge 16 aprile 1916, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-16;420);
+Vista la [legge 16 aprile 1916, n. 420](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20e%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20per%20lesercizio%20finanziario%201915-916.%20016U0420.md);
 
 Udito il Consiglio dei ministri;
 

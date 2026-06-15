@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduti i [Regi decreti 27 maggio 1923, n. 1177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-27;1177), e [24 settembre 1923, n. 2073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2073); 
+ Veduti i [Regi decreti 27 maggio 1923, n. 1177](Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md), e [24 settembre 1923, n. 2073](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%2027%20maggio%201923%20n.%201177%20riguardante%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzio_589391dbaf74.md); 
  
  Udito il Consiglio dei Ministri; 
  
@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il termine di cui alla seconda parte dell'[art. 2 del R. decreto 24 settembre 1923, n. 2073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2073#art_2), e' prorogato al 31 dicembre 1924. 
+ Il termine di cui alla seconda parte dell'[art. 2 del R. decreto 24 settembre 1923, n. 2073](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%2027%20maggio%201923%20n.%201177%20riguardante%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzio_589391dbaf74.md), e' prorogato al 31 dicembre 1924. 
  
  Il presente decreto andra' in vigore dalla sua pubblicazione e sara' presentato al Parlamento per essere convertito in legge. 
  

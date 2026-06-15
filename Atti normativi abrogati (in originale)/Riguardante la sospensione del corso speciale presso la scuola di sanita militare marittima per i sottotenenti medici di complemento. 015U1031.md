@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I sottotenenti medici di complemento della R. marina, nominati tali durante l'anno 1915, sono dispensati dal frequentare il corso speciale presso la scuola di sanita' militare marittima previsto dall'[art. 22 della legge 29 giugno 1913, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;797#art_22). 
+I sottotenenti medici di complemento della R. marina, nominati tali durante l'anno 1915, sono dispensati dal frequentare il corso speciale presso la scuola di sanita' militare marittima previsto dall'[art. 22 della legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md). 
  
  L'anzianita' di grado relativa di detti ufficiali e' quella risultante dal decreto di nomina. 
  

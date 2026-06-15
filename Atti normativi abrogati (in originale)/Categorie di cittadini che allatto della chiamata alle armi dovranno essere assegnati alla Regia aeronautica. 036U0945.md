@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto il [R. decreto 24 febbraio 1927, n. 391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-02-24;391), convertito nella [legge 1° marzo 1928, n. 435](Conversione%20in%20legge%20del%20R.%20decreto%2024%20febbraio%201927%20n%20391%20che%20detta%20norme%20sul%20reclutamento%20e%20trattamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20della%20Regia%20aeronautica.%20028U0435.md);
 
-Visto il [R. decreto 28 luglio 1932, n. 1365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-07-28;1365), che approva il testo unico delle leggi riguardanti la leva marittima;
+Visto il [R. decreto 28 luglio 1932, n. 1365](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20leva%20marittima.%20032U1365.md), che approva il testo unico delle leggi riguardanti la leva marittima;
 
-Visto il [R. decreto 8 settembre 1932, n. 1332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-08;1332), che approva il testo unico delle leggi sul reclutamento del Regio esercito;
+Visto il [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md), che approva il testo unico delle leggi sul reclutamento del Regio esercito;
 
 Vista la [legge 22 dicembre 1932, n. 2021](Nuovo%20ordinamento%20dei%20corsi%20di%20pilotaggio%20e%20di%20osservazione%20aerea.%20032U2021.md), sull'ordinamento dei corsi di pilotaggio e di osservazione aerea;
 

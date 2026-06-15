@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1940-01-09;2), convertito con modificazioni nella [legge 19 giugno 1940, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-19;762), e successive modificazioni ed integrazioni;
+Visto il [decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1940-01-09;2), convertito con modificazioni nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni ed integrazioni;
 
-Vista la [legge 24 marzo 1959, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-03-24;112);
+Vista la [legge 24 marzo 1959, n. 112](Modificazione%20del%20penultimo%20ed%20ultimo%20comma%20dellart.%2017%20del%20decreto-legge%20istitutivo%20dellimposta%20generale%20sullentrata%209%20maggio%201940%20n.%202%20convertito%20con%20modificazioni%20nella%20legge%2019%20giugno%201940%20n.%20762.md);
 
-Vista la [legge 16 agosto 1962, n. 1347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-16;1347);
+Vista la [legge 16 agosto 1962, n. 1347](Modifiche%20al%20trattamento%20fiscale%20delle%20vendite%20di%20merci%20allo%20Stato%20estero.md);
 
-Ritenuta la straordinaria necessita' e l'urgenza di ripristinare il trattamento previsto, agli effetti dell'imposta generale sull'entrata, dalla [legge 24 marzo 1959, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-03-24;112);
+Ritenuta la straordinaria necessita' e l'urgenza di ripristinare il trattamento previsto, agli effetti dell'imposta generale sull'entrata, dalla [legge 24 marzo 1959, n. 112](Modificazione%20del%20penultimo%20ed%20ultimo%20comma%20dellart.%2017%20del%20decreto-legge%20istitutivo%20dellimposta%20generale%20sullentrata%209%20maggio%201940%20n.%202%20convertito%20con%20modificazioni%20nella%20legge%2019%20giugno%201940%20n.%20762.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -26,12 +26,12 @@ Sulla proposta del Ministro per le finanze, di concerto coi Ministri per il teso
 
 ## Art. 1.
 
-Sono abrogate le disposizioni della [legge 16 agosto 1962, n. 1347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-16;1347).
- Sono richiamate in vigore le norme dell'articolo unico della [legge 24 marzo 1959, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-03-24;112).
+Sono abrogate le disposizioni della [legge 16 agosto 1962, n. 1347](Modifiche%20al%20trattamento%20fiscale%20delle%20vendite%20di%20merci%20allo%20Stato%20estero.md).
+ Sono richiamate in vigore le norme dell'articolo unico della [legge 24 marzo 1959, n. 112](Modificazione%20del%20penultimo%20ed%20ultimo%20comma%20dellart.%2017%20del%20decreto-legge%20istitutivo%20dellimposta%20generale%20sullentrata%209%20maggio%201940%20n.%202%20convertito%20con%20modificazioni%20nella%20legge%2019%20giugno%201940%20n.%20762.md).
 
 ## Art. 2.
 
-La minore entrata derivante dall'applicazione del presente decreto sara' compensata per l'esercizio 1963-64 e per il periodo 1 luglio-31 dicembre 1964 per lire 100.000.000 e per L. 400.000.000 rispettivamente con riduzione del fondo di cui al cap. 574 dello stato di previsione della spesa del Ministero del tesoro per lo stesso esercizio 1963-64 e con un'aliquota delle maggiori entrate di cui al [decreto-legge 23 febbraio 1964, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-02-23;26), convertito, con modifiche, in [legge 12 aprile 1964, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-04-12;190).
+La minore entrata derivante dall'applicazione del presente decreto sara' compensata per l'esercizio 1963-64 e per il periodo 1 luglio-31 dicembre 1964 per lire 100.000.000 e per L. 400.000.000 rispettivamente con riduzione del fondo di cui al cap. 574 dello stato di previsione della spesa del Ministero del tesoro per lo stesso esercizio 1963-64 e con un'aliquota delle maggiori entrate di cui al [decreto-legge 23 febbraio 1964, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-02-23;26), convertito, con modifiche, in [legge 12 aprile 1964, n. 190](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20febbraio%201964%20n.%2026%20adottato%20ai%20sensi%20dellart.%2077%20comma%20secondo%20della%20Costituzione%20concernente%20listituzione%20di%20una%20imposta%20spec_866af209d86f.md).
 
 ## Art. 3.
 

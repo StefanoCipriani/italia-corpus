@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 27 dicembre 1952, n. 3596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-27;3596), che delega al Governo l'emanazione di nuove norme sull'imposta di bollo;
+Vista la [legge 27 dicembre 1952, n. 3596](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20dellesercizio%20della%20funzione%20legislativa%20per%20lemanazione%20di%20nuove%20norme%20sulle%20imposte%20sul%20bollo%20e%20sulla%20pubblicita.md), che delega al Governo l'emanazione di nuove norme sull'imposta di bollo;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -310,8 +310,8 @@ Per gli atti e scritti in violazione al bollo, oltre le sopratasse e le pene pec
 
 ### Art. 40.
 
-Nei casi di falsificazione, di contraffazione e di alterazione di valori bollati, di bollo a punzone o di attestazioni di pagamento delle imposte di bollo in modo virtuale, oltre le sanzioni previste dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), sono applicabili le pene pecuniarie e le sopratasse stabilite dal presente decreto per il mancato pagamento della imposta se questa sia dovuta.
- Le pene stabilite dall'[art. 466 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_466) si applicano anche a chi detiene per lo smercio ovvero usa o smercia carta bollata, marche o altri valori di bollo precedentemente usati.
+Nei casi di falsificazione, di contraffazione e di alterazione di valori bollati, di bollo a punzone o di attestazioni di pagamento delle imposte di bollo in modo virtuale, oltre le sanzioni previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono applicabili le pene pecuniarie e le sopratasse stabilite dal presente decreto per il mancato pagamento della imposta se questa sia dovuta.
+ Le pene stabilite dall'[art. 466 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche a chi detiene per lo smercio ovvero usa o smercia carta bollata, marche o altri valori di bollo precedentemente usati.
  La norma del primo comma si applica anche nella ipotesi prevista dal precedente comma quando nella sentenza sia accertato il precedente uso di un valore di bollo.
 
 ## Competenza per l'accertamento delle violazioni
@@ -344,7 +344,7 @@ Le violazioni delle norme contenute nel presente decreto sono constatate mediant
 
 ### Art. 44.
 
-Le somme riscosse per le pene pecuniarie previste della presente legge sono ripartite a norma della [legge 7 febbraio 1951, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-02-07;168), detratto il 10% per spese inerenti alla riscossione.
+Le somme riscosse per le pene pecuniarie previste della presente legge sono ripartite a norma della [legge 7 febbraio 1951, n. 168](Ripartizione%20dei%20proventi%20delle%20sanzioni%20pecuniarie%20dovute%20per%20violazioni%20alle%20leggi%20tributarie.md), detratto il 10% per spese inerenti alla riscossione.
 
 ## Prescrizione
 
@@ -403,7 +403,7 @@ La carta bollata, esclusa quella per cambiali, nonche' i moduli, i libri, i regi
 ### Art. 50.
 
 Fino a nuova disposizione, le norme degli articoli 2, comma secondo, numero 1, e 28 del presente decreto, concernenti la presentazione o la produzione di atti e documenti davanti l'autorita' giudiziaria, si applicano nel momento in cui il giudice emette un provvedimento in base agli atti e documenti medesimi.
- Nel processo di cognizione, durante l'istruzione della causa, le disposizioni del comma precedente sono applicate tutte le volte che il giudice emette un provvedimento sugli atti e documenti e, per ogni altro caso, al momento della rimessione della causa dal giudice istruttore al collegio, a norma dell'[art. 189 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_189), e, per il procedimento innanzi al pretore, al momento in cui e' fissata l'udienza di discussione in conformita' dell'[art. 2 del regio decreto 18 dicembre 1941, n. 1368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-12-18;1368#art_2).
+ Nel processo di cognizione, durante l'istruzione della causa, le disposizioni del comma precedente sono applicate tutte le volte che il giudice emette un provvedimento sugli atti e documenti e, per ogni altro caso, al momento della rimessione della causa dal giudice istruttore al collegio, a norma dell'[art. 189 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_189), e, per il procedimento innanzi al pretore, al momento in cui e' fissata l'udienza di discussione in conformita' dell'[art. 2 del regio decreto 18 dicembre 1941, n. 1368](../Codici/Disposizioni%20per%20lattuazione%20del%20Codice%20di%20procedura%20civile%20e%20disposizioni%20transitorie.%20041U1368.md).
 
 ### Art. 51.
 

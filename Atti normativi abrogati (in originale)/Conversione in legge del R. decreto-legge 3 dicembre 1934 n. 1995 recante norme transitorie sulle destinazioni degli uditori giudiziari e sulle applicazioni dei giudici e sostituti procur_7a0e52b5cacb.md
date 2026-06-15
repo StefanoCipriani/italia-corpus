@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 dicembre 1934, n. 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-03;1995), recante norme transitorie sulle destinazioni degli uditori giudiziari e sulle applicazioni dei giudici e sostituti procuratori del Re. 
+ E' convertito in legge il [R. decreto-legge 3 dicembre 1934, n. 1995](Norme%20transitorie%20sulle%20destinazioni%20degli%20uditori%20giudiziari%20e%20sulle%20applicazioni%20dei%20giudici%20e%20sostituti%20procuratori%20del%20Re.%20034U1995.md), recante norme transitorie sulle destinazioni degli uditori giudiziari e sulle applicazioni dei giudici e sostituti procuratori del Re. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

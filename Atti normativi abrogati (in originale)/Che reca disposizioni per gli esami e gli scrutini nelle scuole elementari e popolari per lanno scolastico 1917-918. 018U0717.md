@@ -22,7 +22,7 @@ Per gli esami e gli scrutini nelle scuole elementari e popolari nell'anno scolas
  
  All'art. 3 e' sostituito l'articolo seguente: 
  
- «La sessione di esami per la promozione e per l'ammissione alle classi II, III, IV, V, VI e per la licenza di cui al paragrafo V dell'[art. 10 della legge 8 luglio 1904, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;407#art_10), quando il R. provveditore agli studi, per esigenze speciali, lo stimi opportuno, potra' essere aperta dopo un mese dall'inizio delle lezioni, ed avranno diritto ad usufruirne gli alunni di scuole pubbliche e quelli provenienti da scuola privata o paterna». 
+ «La sessione di esami per la promozione e per l'ammissione alle classi II, III, IV, V, VI e per la licenza di cui al paragrafo V dell'[art. 10 della legge 8 luglio 1904, n. 407](Portante%20provvedimenti%20per%20la%20scuola%20e%20pei%20maestri%20elementari.%20004U0407.md), quando il R. provveditore agli studi, per esigenze speciali, lo stimi opportuno, potra' essere aperta dopo un mese dall'inizio delle lezioni, ed avranno diritto ad usufruirne gli alunni di scuole pubbliche e quelli provenienti da scuola privata o paterna». 
  
  Il presente decreto avra' effetto dal giorno della pubblicazione nella Gazzetta ufficiale. 
  

@@ -44,7 +44,7 @@ A coloro che conseguono la nomina ad uditore giudiziario sara' corrisposta una i
 
 ## Art. 5.
 
-Compiuti almeno tre mesi di tirocinio effettivo, gli uditori anzidetti sono nominati giudici o sostituti procuratori del Re se, con dichiarazione del Consiglio giudiziario distrettuale, istituito presso le Corti di appello dal [3° comma dell'art. 15 del R decreto 9 febbraio 1913, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-02-09;91#art_15-com3), siano ritenuti idonei alla promozione. 
+Compiuti almeno tre mesi di tirocinio effettivo, gli uditori anzidetti sono nominati giudici o sostituti procuratori del Re se, con dichiarazione del Consiglio giudiziario distrettuale, istituito presso le Corti di appello dal [3° comma dell'art. 15 del R decreto 9 febbraio 1913, n. 91](Col%20quale%20sono%20stabilite%20le%20norme%20circa%20la%20costituzione%20rinnovazione%20e%20funzionamento%20del%20Consiglio%20superiore%20della%20magistratura%20e%20del%20Consiglio%20giudiziario%20centrale.%20013U0091.md), siano ritenuti idonei alla promozione. 
  
  L'uditore, al quale non sia stata concessa la dichiarazione d'idoneita', puo' richiedere un nuovo giudizio del Consiglio giudiziario non prima che siano decorsi tre mesi dalla precedente deliberazione. 
  

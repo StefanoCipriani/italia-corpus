@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il Codice della marina mercantile ed il relativo regolamento approvato col [R. decreto 20 novembre 1879, numero 5166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-11-20;5166);
+Visto il Codice della marina mercantile ed il relativo regolamento approvato col [R. decreto 20 novembre 1879, numero 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md);
 
 Visti i [Regi decreti-legge 8 febbraio 1923, n. 323](Che%20reca%20nuove%20norme%20per%20la%20matricolazione%20della%20gente%20di%20mare.%20023U0323.md), e [26 aprile 1923, n. 999](Che%20inibisce%20lesercizio%20della%20navigazione%20a%20marittimi%20resisi%20colpevoli%20del%20reato%20di%20diserzione.%20023U0999.md);
 

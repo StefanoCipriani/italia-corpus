@@ -62,11 +62,11 @@ Qualora vi sia bisogno di ricorrere all'opera di insegnanti provvisori a questi 
 
 ## Art. 6.
 
-Ai direttori e agli insegnanti delle Regie scuole all'estero ex combattenti sono applicabili le disposizioni dell'[art. 52 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_52) sull'ordinamento gerarchico delle Amministrazioni dello Stato.
+Ai direttori e agli insegnanti delle Regie scuole all'estero ex combattenti sono applicabili le disposizioni dell'[art. 52 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) sull'ordinamento gerarchico delle Amministrazioni dello Stato.
 
 ## Art. 7.
 
-Ai direttori delle Regie scuole elementari all'estero spetteranno gli stessi stipendi e lo stesso supplemento di servizio attivo dei direttori didattici governativi delle scuole elementari del Regno fissati per il decimo grado dall'allegato terzo annesso al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395). 
+Ai direttori delle Regie scuole elementari all'estero spetteranno gli stessi stipendi e lo stesso supplemento di servizio attivo dei direttori didattici governativi delle scuole elementari del Regno fissati per il decimo grado dall'allegato terzo annesso al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  I vincitori dei concorsi assumeranno grado e stipendio di direttori, ma la loro nomina diventera' stabile dopo un triennio di favorevole esperimento. 
  
@@ -82,7 +82,7 @@ Ai direttori delle Regie scuole elementari all'estero spetteranno gli stessi sti
 
 ## Art. 8.
 
-Per il supplemento di servizio attivo, cosi' per gl'insegnanti come per i direttori valgono le norme, di cui all'articolo 5 del citato [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395).
+Per il supplemento di servizio attivo, cosi' per gl'insegnanti come per i direttori valgono le norme, di cui all'articolo 5 del citato [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 9.
 
@@ -92,7 +92,7 @@ Agli insegnanti incaricati di lingue straniere e locali nelle Regie scuole eleme
 
 Il servizio di custodia e di pulizia nelle Regie scuole all'estero medie e primarie e' disimpegnato da personale salariato (bidelli e inservienti), che puo' essere scelto anche fra elementi indigeni. 
  
- Ad esso verranno corrisposte le retribuzioni di cui alla tabella A annessa al presente decreto conservando la rifusione del cambio nella misura stabilita dal [R. decreto 24 settembre 1923, n. 2195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2195).
+ Ad esso verranno corrisposte le retribuzioni di cui alla tabella A annessa al presente decreto conservando la rifusione del cambio nella misura stabilita dal [R. decreto 24 settembre 1923, n. 2195](Norme%20per%20la%20corresponsione%20del%20cambio%20sulle%20competenze%20mensili%20degli%20insegnanti%20delle%20Regie%20scuole%20allestero.%20023U2195.md).
 
 ## Art. 11.
 

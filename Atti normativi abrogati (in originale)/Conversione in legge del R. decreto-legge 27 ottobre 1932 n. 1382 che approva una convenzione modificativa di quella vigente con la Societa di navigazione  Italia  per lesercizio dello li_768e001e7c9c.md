@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico, 
  
- E' convertito in legge il [R. decreto-legge 27 ottobre 1932, n. 1382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-10-27;1382), che approva una convenzione modificativa di quella vigente con la Societa' « Italia » per l'esercizio delle linee di navigazione Genova - Centro America - Sud America (Pacifico) e Genova - Australia. 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1932, n. 1382](Convenzione%20modificativa%20di%20quella%20vigente%20con%20la%20Societa%20di%20navigazione%20Italia%20per%20lesercizio%20delle%20linee%20Genova-Centro%20America-Sud%20America%20Pacifico%20e%20Genova-Australia.%20032U1382.md), che approva una convenzione modificativa di quella vigente con la Societa' « Italia » per l'esercizio delle linee di navigazione Genova - Centro America - Sud America (Pacifico) e Genova - Australia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

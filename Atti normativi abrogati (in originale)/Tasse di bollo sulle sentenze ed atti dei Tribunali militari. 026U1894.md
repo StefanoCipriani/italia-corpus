@@ -14,17 +14,17 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 23 dicembre 1865, n. 2701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-23;2701), che approva la tariffa in materia penale, e successive modificazioni;
+Visto il [R. decreto 23 dicembre 1865, n. 2701](Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), che approva la tariffa in materia penale, e successive modificazioni;
 
 Vista la [legge 29 giugno 1882, n. 835](Che%20riforma%20le%20tariffe%20giudiziarie%20082U0835.md) (serie 3ª), che riforma le tariffe giudiziarie;
 
-Visto il [R. decreto 10 dicembre 1882, n. 1103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-12-10;1103) (serie 3ª), che approva il regolamento concernente le contabilita' delle cancellerie giudiziarie e di altre parti del servizio;
+Visto il [R. decreto 10 dicembre 1882, n. 1103](Che%20approva%20il%20regolamento%20concernente%20la%20contabilita%20delle%20cancellerie%20giudiziarie%20ed%20altre%20parti%20del%20servizio.%20082U1103.md) (serie 3ª), che approva il regolamento concernente le contabilita' delle cancellerie giudiziarie e di altre parti del servizio;
 
 Vista la [legge 8 agosto 1895, n. 556](Sui%20proventi%20delle%20cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20095U0556.md), sui proventi delle cancellerie e spese e tasse giudiziarie;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2903), contenente norme di attuazione del [R. decreto 19 ottobre 1923, n. 2316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-19;2316), e nuove disposizioni sull'ordinamento giudiziario militare;
+Visto il [R. decreto 30 dicembre 1923, n. 2903](Norme%20di%20attuazione%20del%20R.%20decreto%2019%20ottobre%201923%20n.%202316%20e%20nuove%20disposizioni%20sullordinamento%20giudiziario%20militare.%20023U2903.md), contenente norme di attuazione del [R. decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), e nuove disposizioni sull'ordinamento giudiziario militare;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3268), che approva il testo di legge del bollo;
+Visto il [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo di legge del bollo;
 
 Ritenuta l'urgenza e la necessita' assoluta di sottoporre a tasse di bollo le sentenze ed altri atti dei Tribunali militari, per l'interesse finanziario che ne deriva;
 
@@ -56,7 +56,7 @@ Le tasse suaccennate sono dovute solidalmente da tutti i condannati per uno stes
 
 ## Art. 4.
 
-Tutte le tasse dovute per le sentenze ed i decreti penali a norma degli articoli precedenti, da riscuotersi in modo virtuale, vengono iscritte nel registro campione prescritto dall'art. 209 della tariffa penale approvata col [R. decreto 23 dicembre 1865, n. 2701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-23;2701), presso la cancelleria del Tribunale militare territoriale o del Tribunale militare marittimo che ha pronunciato la sentenza di condanna e sono riscosse insieme alle spese processuali, ed alle pene pecuniarie, se ve ne siano. 
+Tutte le tasse dovute per le sentenze ed i decreti penali a norma degli articoli precedenti, da riscuotersi in modo virtuale, vengono iscritte nel registro campione prescritto dall'art. 209 della tariffa penale approvata col [R. decreto 23 dicembre 1865, n. 2701](Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), presso la cancelleria del Tribunale militare territoriale o del Tribunale militare marittimo che ha pronunciato la sentenza di condanna e sono riscosse insieme alle spese processuali, ed alle pene pecuniarie, se ve ne siano. 
  
  Ancorche' una sentenza sia stata gravata di ricorso in nullita' davanti al Tribunale Supremo militare, la nota definitiva delle spese, compresa la tassa dovuta per la sentenza del detto Supremo Collegio, dovra' essere compilata dal cancelliere del Tribunale militare territoriale o dal cancelliere del Tribunale militare marittimo che ha pronunciato la condanna, ed a lui spetta di iscriverla nel registro di cui al sopraccennato art. 209 della tariffa penale.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Dopo l'[art. 9 del R. decreto-legge 5 settembre 1938, n. 1519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;1519#art_9), recante disposizioni sullo stato e sull'avanzamento dei sottufficiali del Regio esercito, e' aggiunto il seguente: 
+Dopo l'[art. 9 del R. decreto-legge 5 settembre 1938, n. 1519](Modificazioni%20alle%20disposizioni%20vigenti%20sullo%20stato%20e%20lavanzamento%20dei%20sottufficiali%20del%20Regio%20esercito%20ed%20aumento%20dei%20relativi%20organici.%20038U1519.md), recante disposizioni sullo stato e sull'avanzamento dei sottufficiali del Regio esercito, e' aggiunto il seguente: 
  
  «Art. 9-bis. - Il sottufficiale raggiunto dal turno di promozione mentre e' temporaneamente non idoneo al servizio militare incondizionato, per ferite riportate in combattimento, o per ferite provocate dall'offesa del nemico e riportate in servizio, puo' - anche se in aspettativa per infermita' dipendenti da causa di servizio -conseguire la promozione sempre che sia riconosciuto in possesso di tutti gli altri requisiti prescritti. Non si richiedono, pero', i periodi di servizio alle truppe previsti dagli articoli 3, 4 e 5 della legge 21 giugno 1934-XII, n. 1093, quale risulta modificata dagli articoli 1 e 2 della legge 11 luglio 1941-XIX, n. 820. 
  
@@ -27,7 +27,7 @@ Puo' conseguire la promozione stessa anche se non abbia compiuto il prescritto p
 
 ## Art. 3.
 
-Dopo l'[art. 14 del R. decreto-legge 5 settembre 1938, n. 1519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;1519#art_14), e' aggiunto il seguente: 
+Dopo l'[art. 14 del R. decreto-legge 5 settembre 1938, n. 1519](Modificazioni%20alle%20disposizioni%20vigenti%20sullo%20stato%20e%20lavanzamento%20dei%20sottufficiali%20del%20Regio%20esercito%20ed%20aumento%20dei%20relativi%20organici.%20038U1519.md), e' aggiunto il seguente: 
  
  «Art. 14-bis - Le disposizioni di cui ai precedenti articoli 9-bis e 10 sono estese, in quanto applicabili, all'avanzamento dei militari di truppa».
 

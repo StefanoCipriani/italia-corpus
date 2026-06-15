@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1714](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-30;1714), riguardante l'autorizzazione della spesa di lire 1.470.000 per le opere di difesa dell'idroscalo di Ostia dalle corrosioni del mare. 
+ E' convertito in legge il [R. decreto-legge 30 novembre 1933, n. 1714](Autorizzazione%20della%20spesa%20di%20L.%201.470.000%20per%20provvedere%20alla%20difesa%20dellIdroscalo%20di%20Ostia.%20033U1714.md), riguardante l'autorizzazione della spesa di lire 1.470.000 per le opere di difesa dell'idroscalo di Ostia dalle corrosioni del mare. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

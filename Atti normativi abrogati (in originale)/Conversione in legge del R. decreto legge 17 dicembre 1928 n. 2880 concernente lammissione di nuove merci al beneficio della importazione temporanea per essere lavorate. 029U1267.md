@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 dicembre 1928, n. 2880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-17;2880), che concerne nuove concessioni di importazione temporanea. 
+ E' convertito in legge il [R. decreto-legge 17 dicembre 1928, n. 2880](Nuove%20concessioni%20in%20materia%20di%20importazione%20temporanea.%20028U2880.md), che concerne nuove concessioni di importazione temporanea. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

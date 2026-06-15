@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' abrogato il [R. decreto-legge 15 marzo 1944, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-03-15;97), con il quale i poteri e le funzioni dell'Istituto centrale di statistica sono stati temporaneamente devoluti al Ministero dell'industria, del commercio e del lavoro.
+E' abrogato il [R. decreto-legge 15 marzo 1944, n. 97](Temporaneo%20conferimento%20al%20Ministero%20dellIndustria%20Commercio%20e%20Lavoro%20dei%20poteri%20e%20delle%20funzioni%20dellIstituto%20Centrale%20di%20Statistica.%20044U0097.md), con il quale i poteri e le funzioni dell'Istituto centrale di statistica sono stati temporaneamente devoluti al Ministero dell'industria, del commercio e del lavoro.
 
 ## Art. 2.
 

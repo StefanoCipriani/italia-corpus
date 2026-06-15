@@ -63,7 +63,7 @@ Ove la domanda dell'interessato sia ritenuta irregolare o incompleta, il respons
 
 5.
 
-Restano salvi la facolta' di autocertificazione ed il dovere di procedere agli accertamenti di ufficio previsti rispettivamente dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_2) e [10 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_10), nonche' il disposto di cui all'[art. 18 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_18).
+Restano salvi la facolta' di autocertificazione ed il dovere di procedere agli accertamenti di ufficio previsti rispettivamente dagli [articoli 2](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e [10 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), nonche' il disposto di cui all'[art. 18 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_18).
 
 Note all'art. 3: 
  - Si trascrive il testo degli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_7), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_8) e [18 della  legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_18): 
@@ -77,7 +77,7 @@ Note all'art. 3:
  d) l'ufficio in cui si puo' prendere visione degli atti. 
  3. Qualora per il numero dei destinatari la comunicazione personale non sia possibile o risulti particolarmente gravosa, l'amministrazione provvede a rendere noti gli elementi di cui al comma 2 mediante forme di pubblicita' idonee di volta in volta stabilite dall'amministrazione medesima. 
  4. L'omissione di taluna delle comunicazioni prescritte puo' essere fatta valere solo dal soggetto nel cui interesse la comunicazione e' prevista". 
- "Art. 18. - 1. Entro sei mesi dalla data di entrata in vigore della presente legge le amministrazioni interessate adottano le misure organizzative idonee a garantire l'applicazione delle disposizioni in materia di autocertificazione e di presentazione di atti e documenti da parte di cittadini a pubbliche amministrazioni di cui alla [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), e successive modificazioni e integrazioni. Delle misure adottate le amministrazioni danno comunicazione alla commissione di cui all'art. 27. 
+ "Art. 18. - 1. Entro sei mesi dalla data di entrata in vigore della presente legge le amministrazioni interessate adottano le misure organizzative idonee a garantire l'applicazione delle disposizioni in materia di autocertificazione e di presentazione di atti e documenti da parte di cittadini a pubbliche amministrazioni di cui alla [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), e successive modificazioni e integrazioni. Delle misure adottate le amministrazioni danno comunicazione alla commissione di cui all'art. 27. 
  2. Qualora l'interessato dichiari che fatti, stati e qualita' sono attestati in documenti gia' in possesso della stessa amministrazione procedente o di altra pubblica amministrazione, il responsabile del procedimento provvede d'ufficio all'acquisizione dei documenti stessi o di copia di essi. 
  3. Parimenti sono accertati d'ufficio dal responsabile del procedimento i fatti, gli stati e le qualita' che la stessa amministrazione procedente o altra pubblica amministrazione e' tenuta a certificare". 
  - Si trascrive il testo degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15#art_2) e [10 della legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15#art_10), recante norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme: 
@@ -204,7 +204,7 @@ Il responsabile dell'unita' organizzativa puo' affidare ad altro dipendente adde
 
 2.
 
-Il responsabile del procedimento esercita le attribuzioni contemplate dall'[art. 6 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_6), e dal presente regolamento e svolge tutti gli altri compiti indicati nelle disposizioni organizzative e di servizio nonche' quelli attinenti all'applicazione della [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15).
+Il responsabile del procedimento esercita le attribuzioni contemplate dall'[art. 6 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_6), e dal presente regolamento e svolge tutti gli altri compiti indicati nelle disposizioni organizzative e di servizio nonche' quelli attinenti all'applicazione della [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
 
 Nota all'art. 10: 
  - Si trascrive il testo dell'[art. 6 della legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_6): 

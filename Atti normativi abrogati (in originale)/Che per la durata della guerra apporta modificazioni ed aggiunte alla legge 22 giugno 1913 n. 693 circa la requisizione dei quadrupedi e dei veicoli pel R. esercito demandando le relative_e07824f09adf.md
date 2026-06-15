@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per la durata della guerra, alla [legge 22 giugno 1913, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;693), sono apportate le seguenti aggiunte e modificazioni: 
+Per la durata della guerra, alla [legge 22 giugno 1913, n. 693](Concernente%20la%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20R.%20esercito.%20013U0693.md), sono apportate le seguenti aggiunte e modificazioni: 
  
  All'art. 2 e' aggiunto il seguente capoverso: 
  
@@ -89,7 +89,7 @@ Tuttavia, trascorsi tre mesi dall'avvenuta requisizione, il proprietario del cap
 
 ## Art. 2.
 
-Anche alle controversie in materia di requisizioni che si eseguiscono in base alla [legge 22 giugno 1913, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;693), modificata dal presente decreto, si applicano le norme del [decreto Luogotenenziale 21 aprile 1918, numero 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-21;583). 
+Anche alle controversie in materia di requisizioni che si eseguiscono in base alla [legge 22 giugno 1913, n. 693](Concernente%20la%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20R.%20esercito.%20013U0693.md), modificata dal presente decreto, si applicano le norme del [decreto Luogotenenziale 21 aprile 1918, numero 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-21;583). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiali delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

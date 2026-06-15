@@ -15,11 +15,11 @@ Fino al 30 aprile 1864 nelle Provincie Napoletane infestate dal brigantaggio e c
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 11 febbraio 1864, n. 1662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1864-02-11;1662), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 11 febbraio 1864, n. 1662](Col%20quale%20sono%20designate%20le%20Provincie%20Napolitane%20infestate%20dal%20brigantaggio%20in%20esecuzione%20dellart.%201%20della%20legge%207%20febbraio%201864%20n.%201661.%20064U1662.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 
-I componenti comitiva o banda armata di tre persone almeno, la quale vada scorrendo le pubbliche vie o le campagne per commettere crimini o delitti, i loro complici e ricettatori saranno giudicati dai Tribunali militari, di cui nel libro II, parte 2ª del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare, e con la procedura ivi determinata; ammessi pero' alla difesa degli accusati anche i patrocinanti non militari.
+I componenti comitiva o banda armata di tre persone almeno, la quale vada scorrendo le pubbliche vie o le campagne per commettere crimini o delitti, i loro complici e ricettatori saranno giudicati dai Tribunali militari, di cui nel libro II, parte 2ª del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, e con la procedura ivi determinata; ammessi pero' alla difesa degli accusati anche i patrocinanti non militari.
 
 ## Art. 3.
 
@@ -31,7 +31,7 @@ I colpevoli del suddetto reato, i quali armata mano oppongono resistenza alla fo
 
 Coloro i quali scientemente e di libera volonta' somministreranno ricovero, armi, munizioni, viveri, notizie ed aiuti d'ogni maniera saranno puniti colla pena del maximum dei lavori forzati a tempo, la quale potra' essere ridotta da uno a quattro gradi concorrendovi circostanze attenuanti. 
  
- Questi potranno ricorrere in nullita' presso il Tribunale Supremo di Guerra a causa d'incompetenza per ragione di materia nella forma tracciata dagli [articoli 508 e seguenti del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_508) militare. 
+ Questi potranno ricorrere in nullita' presso il Tribunale Supremo di Guerra a causa d'incompetenza per ragione di materia nella forma tracciata dagli [articoli 508 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
  
  Il ricorso e' ammessibile soltanto dopo la sentenza definitiva di condanna.
 
@@ -63,7 +63,7 @@ Avranno pure vigore le disposizioni seguenti sino al 30 aprile 1864 in quelle tr
 
 ## Art. 10.
 
-Il Governo avra' facolta' di assegnare, per un tempo non maggiore di due anni, un domicilio coatto agli oziosi, ai vagabondi, alle persone sospette secondo la designazione del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), nonche' ai camorristi e sospetti manutengoli, dietro parere conforme di una Giunta composta del Prefetto, del Presidente del Tribunale di Circondario del Capoluogo della Provincia, del Regio Procuratore presso il Tribunale medesimo e di due Consiglieri provinciali scelti dai primi tre. 
+Il Governo avra' facolta' di assegnare, per un tempo non maggiore di due anni, un domicilio coatto agli oziosi, ai vagabondi, alle persone sospette secondo la designazione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nonche' ai camorristi e sospetti manutengoli, dietro parere conforme di una Giunta composta del Prefetto, del Presidente del Tribunale di Circondario del Capoluogo della Provincia, del Regio Procuratore presso il Tribunale medesimo e di due Consiglieri provinciali scelti dai primi tre. 
  
  La Giunta dovra' assumere le informazioni opportune, sentire personalmente i denunziati, e potra' sola ordinarne preventivamente l'arresto per gli effetti di questo articolo mediante deliberazione sommariamente motivata.
 

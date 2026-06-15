@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il Governo del Re e' autorizzato, sentito il Consiglio di Stato, a modificare, integrare, coordinare e riunire in testo unico le disposizioni della legge comunale e provinciale 4 febbraio 1915, n. 148, del [R. decreto 30 dicembre 1923, numero 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839), delle leggi successive che le hanno modificate, nonche' tutte le altre leggi e disposizioni che vi abbiano attinenza per ragione di materia, emanate e da emanare sino al 31 dicembre 1931 - Anno X. 
+ Il Governo del Re e' autorizzato, sentito il Consiglio di Stato, a modificare, integrare, coordinare e riunire in testo unico le disposizioni della legge comunale e provinciale 4 febbraio 1915, n. 148, del [R. decreto 30 dicembre 1923, numero 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), delle leggi successive che le hanno modificate, nonche' tutte le altre leggi e disposizioni che vi abbiano attinenza per ragione di materia, emanate e da emanare sino al 31 dicembre 1931 - Anno X. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a San Rossore, addi' 31 marzo 1932 - Anno X 
  

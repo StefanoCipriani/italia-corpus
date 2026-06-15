@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 5 del decreto legislativo 7 maggio 1948, n. 1642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1642#art_5), ratificato, con modificazioni, con la [legge 28 aprile 1950, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-04-28;285);
+Visto l'[art. 5 del decreto legislativo 7 maggio 1948, n. 1642](../Decreti%20Legislativi/Disposizioni%20concernenti%20la%20carriera%20del%20personale%20direttivo%20ed%20insegnante%20degli%20Istituti%20di%20istruzione%20secondaria%20ed%20artistica.md), ratificato, con modificazioni, con la [legge 28 aprile 1950, n. 285](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201642%20recante%20disposizioni%20concernenti%20la%20carriera%20del%20personale%20direttivo%20ed%20insegnante%20degli%20istituti%20di%20istruzione%20se_311dfb32ff7a.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto col Ministro
 
 ## Art. 1.
 
-La carriera dei professori degli Istituti d'arte e delle Scuole d'arte di 2° e di 1° grado, secondo la classificazione disposta dal [regio decreto-legge 21 gennaio 1935, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-21;58), e successive variazioni ed aggiunte, e' stabilita in conformita' della tabella annessa al presente decreto, firmata dal Ministro proponente e dal Ministro per il tesoro.
+La carriera dei professori degli Istituti d'arte e delle Scuole d'arte di 2° e di 1° grado, secondo la classificazione disposta dal [regio decreto-legge 21 gennaio 1935, n. 58](Classificazione%20dei%20Regi%20istituti%20e%20delle%20Regie%20scuole%20darte.%20035U0058.md), e successive variazioni ed aggiunte, e' stabilita in conformita' della tabella annessa al presente decreto, firmata dal Ministro proponente e dal Ministro per il tesoro.
  Per le promozioni al grado finale della carriera, l'anzianita' nel grado precedente e' ridotta a otto anni per i professori cui sia attribuita la qualifica di merito distinto, in base ad apposito concorso per titoli da effettuare secondo le norme che saranno emanate con decreto del Presidente della Repubblica, su proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro.
 
 ## Art. 2.
@@ -32,7 +32,7 @@ I professori ordinari degli Istituti e Scuole predette sono collocati nel grado 
 
 ## Art. 3.
 
-I direttori degli Istituti d'arte di Firenze, Venezia, Napoli e Palermo possono essere promossi al grado 5°, i direttori degli Istituti d'arte di Faenza, Sassari ed Urbino e delle Scuole d'arte di 2° grado, di cui al [regio decreto-legge 21 gennaio 1935, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-21;58), e successive variazioni ed aggiunte, possono essere promossi al grado 6°, i direttori delle Scuole d'arte di 1° grado, di cui al predetto regio decreto-legge, possono essere promossi al grado 7°.
+I direttori degli Istituti d'arte di Firenze, Venezia, Napoli e Palermo possono essere promossi al grado 5°, i direttori degli Istituti d'arte di Faenza, Sassari ed Urbino e delle Scuole d'arte di 2° grado, di cui al [regio decreto-legge 21 gennaio 1935, n. 58](Classificazione%20dei%20Regi%20istituti%20e%20delle%20Regie%20scuole%20darte.%20035U0058.md), e successive variazioni ed aggiunte, possono essere promossi al grado 6°, i direttori delle Scuole d'arte di 1° grado, di cui al predetto regio decreto-legge, possono essere promossi al grado 7°.
  Le promozioni, di cui al comma precedente, avvengono per merito comparativo, dopo almeno otto anni di servizio direttivo nel grado inferiore e nella aliquota di un declino dei posti previsti dagli organici dei direttori di ciascun gruppo di Istituti o Scuole.
  Qualora i posti in organico non raggiungessero il numero di dieci, sara' ugualmente riservato un posto per la promozione al grado superiore per merito comparativo.
 
@@ -43,7 +43,7 @@ Per lo scrutinio annuale degli aventi titolo al grado superiore, ai sensi del pr
 
 ## Art. 5.
 
-Le norme, di cui al presente decreto, si applicheranno con la medesima decorrenza del [decreto legislativo 7 maggio 1948, n. 1642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1642).
+Le norme, di cui al presente decreto, si applicheranno con la medesima decorrenza del [decreto legislativo 7 maggio 1948, n. 1642](../Decreti%20Legislativi/Disposizioni%20concernenti%20la%20carriera%20del%20personale%20direttivo%20ed%20insegnante%20degli%20Istituti%20di%20istruzione%20secondaria%20ed%20artistica.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

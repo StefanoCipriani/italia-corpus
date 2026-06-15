@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 4 giugno 1947, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-06-04;407);
 
@@ -32,7 +32,7 @@ E' autorizzato un ulteriore contributo statale di L. 1.000.000.000 per l'eserciz
 
 ## Art. 3.
 
-Il concorso straordinario dello Stato a pareggio del bilancio del Pio Istituto di S. Spirito ed Ospedali Riuniti di Roma, di cui all'[art. 3 del regio decreto-legge 18 aprile 1920, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-04-18;481#art_3), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' ulteriormente aumentato di L. 46.855.000 per l'esercizio finanziario 1947-48.
+Il concorso straordinario dello Stato a pareggio del bilancio del Pio Istituto di S. Spirito ed Ospedali Riuniti di Roma, di cui all'[art. 3 del regio decreto-legge 18 aprile 1920, n. 481](Che%20autorizza%20un%20mutuo%20di%20lire%208.800.000%20a%20favore%20dellIstituto%20di%20Santo%20Spirito%20in%20Sassia%20ed%20ospedali%20riuniti%20di%20Roma.%20020U0481.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' ulteriormente aumentato di L. 46.855.000 per l'esercizio finanziario 1947-48.
 
 ## Art. 4.
 

@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-L'autorizzazione di spesa per lo sviluppo della montagna, pari a lire 100.000 milioni per l'anno 1990, iscritta nello stato di previsione del Ministero del bilancio e della programmazione economica ai sensi dell'[articolo 12, comma 4, del decreto-legge 28 dicembre 1989, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-28;415#art_12-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;38), e' integrata per l'anno 1990 di lire 50.000 milioni.
+L'autorizzazione di spesa per lo sviluppo della montagna, pari a lire 100.000 milioni per l'anno 1990, iscritta nello stato di previsione del Ministero del bilancio e della programmazione economica ai sensi dell'[articolo 12, comma 4, del decreto-legge 28 dicembre 1989, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-28;415#art_12-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 38](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%201989%20n.%20415%20recante%20norme%20urgenti%20in%20materia%20di%20finanza%20locale%20e%20di%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20le%20regioni%20nonc_ea7a0a31f2d9.md), e' integrata per l'anno 1990 di lire 50.000 milioni.
 
 2.
 

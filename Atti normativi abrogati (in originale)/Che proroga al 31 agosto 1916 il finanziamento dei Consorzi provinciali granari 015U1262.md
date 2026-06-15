@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-L'autorizzazione data col [R. decreto 31 gennaio 1915, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-31;52), agli Istituti di emissione di scontare cambiali dei Consorzi granari e' prorogata a tutto agosto 1916, per le stesse finalita' e colle stesse norme.
+L'autorizzazione data col [R. decreto 31 gennaio 1915, n. 52](Recante%20disposizioni%20per%20il%20finanziamento%20dei%20Consorzi%20granari%20provinciali.%20015U0052.md), agli Istituti di emissione di scontare cambiali dei Consorzi granari e' prorogata a tutto agosto 1916, per le stesse finalita' e colle stesse norme.
 
 ## Art. 2.
 
-E' parimente prorogata, al 31 agosto 1916 l'autorizzazione data alla Cassa di soccorso per le opere pubbliche in Sicilia, alle Casse di risparmio ordinarie, alle Banche popolari, alle Casse provinciali ed altri Istituti di credito agrario creati con leggi speciali di concedere piccoli prestiti al Comuni, per acquisto di grano dai Consorzi provinciali, con le modalita' e le garanzie del [R. decreto 29 marzo 1915, n. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-03-29;338).
+E' parimente prorogata, al 31 agosto 1916 l'autorizzazione data alla Cassa di soccorso per le opere pubbliche in Sicilia, alle Casse di risparmio ordinarie, alle Banche popolari, alle Casse provinciali ed altri Istituti di credito agrario creati con leggi speciali di concedere piccoli prestiti al Comuni, per acquisto di grano dai Consorzi provinciali, con le modalita' e le garanzie del [R. decreto 29 marzo 1915, n. 338](Che%20autorizza%20la%20Cassa%20di%20soccorso%20per%20le%20opere%20pubbliche%20in%20Sicilia%20a%20concedere%20in%20via%20eccezionale%20e%20sino%20a%20tutto%20il%2031%20luglio%201915%20piccoli%20-prestiti%20al%20saggio%20del%203%20%20ai%20comuni%20della%20Sic_a6f8f0e21d53.md).
 
 ## Art. 3.
 

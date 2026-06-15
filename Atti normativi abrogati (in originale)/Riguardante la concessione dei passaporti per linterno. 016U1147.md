@@ -16,7 +16,7 @@ Il passaporto per l'interno e' rilasciato dal sindaco o da chi legalmente ne fa 
 
 ## Art. 2.
 
-Al modello F allegato al [R. decreto 8 novembre 1889, n. 6517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-11-08;6517), serie 3ª, che approva il regolamento per la esecuzione della legge sulla pubblica sicurezza, e' sostituito il modello annesso al presente decreto.
+Al modello F allegato al [R. decreto 8 novembre 1889, n. 6517](Che%20approva%20lunito%20regolamento%20per%20lesecuzione%20della%20legge%2030%20giugno%20sulla%20pubblica%20sicurezza.%20089U6517.md), serie 3ª, che approva il regolamento per la esecuzione della legge sulla pubblica sicurezza, e' sostituito il modello annesso al presente decreto.
 
 ## Art. 3.
 

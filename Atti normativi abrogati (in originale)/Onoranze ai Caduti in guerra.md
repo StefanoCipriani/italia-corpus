@@ -79,7 +79,7 @@ Le spese derivanti dall'attuazione del presente provvedimento graveranno sui fon
 
 ## Art. 11.
 
-Per quanto non richiamate espressamente nella presente legge, vanno osservate le disposizioni relative ai cimiteri comuni, stabilite dalla legge sanitaria e dal regolamento di polizia, mortuaria approvato con [regio decreto 21 dicembre 1942, n. 1880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-12-21;1880).
+Per quanto non richiamate espressamente nella presente legge, vanno osservate le disposizioni relative ai cimiteri comuni, stabilite dalla legge sanitaria e dal regolamento di polizia, mortuaria approvato con [regio decreto 21 dicembre 1942, n. 1880](Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

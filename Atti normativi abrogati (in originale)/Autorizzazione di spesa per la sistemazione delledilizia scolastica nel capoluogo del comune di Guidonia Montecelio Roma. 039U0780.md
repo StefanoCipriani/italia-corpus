@@ -14,7 +14,7 @@ E' autorizzata la spesa di L. 1.700.000 per la sistemazione della edilizia scola
  
  a) L. 1.200.000 per la costruzione, a cura del Ministero dei lavori pubblici, dell'edificio per le scuole di avviamento professionale; 
  
- b) L. 500.000 per l'ampliamento dell'edificio delle scuole elementari, ad integrazione del contributo concesso all'Istituto fascista autonomo per le case popolari della provincia di Roma con l'[art. 5 del R. decreto-legge 21 ottobre 1937, n. 1803](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-10-21;1803#art_5), convertito nella [legge 30 dicembre 1937, n. 2660](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-12-30;2660).
+ b) L. 500.000 per l'ampliamento dell'edificio delle scuole elementari, ad integrazione del contributo concesso all'Istituto fascista autonomo per le case popolari della provincia di Roma con l'[art. 5 del R. decreto-legge 21 ottobre 1937, n. 1803](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-10-21;1803#art_5), convertito nella [legge 30 dicembre 1937, n. 2660](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20ottobre%201937-XV%20n.%201803%20concernente%20la%20costituzione%20del%20comune%20di%20Guidonia%20Montecelio%20in%20provincia%20di%20Roma.%20037U2660.md).
 
 ## Art. 2.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77);
 
-Ritenuta la necessita' e l'urgenza di disporre la proroga del termine del 1 gennaio 1980 stabilito nel [secondo comma dell'art. 89 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_89-com2), in relazione alle iniziative, gia' adottate, per una riorganizzazione delle strutture del Ministero dei lavori pubblici e in relazione agli orientamenti emersi in sede parlamentare per l'ulteriore esecuzione delle opere idrauliche di 2ª e 3ª categoria in bacini interregionali a cura del suddetto Ministero dei lavori pubblici;
+Ritenuta la necessita' e l'urgenza di disporre la proroga del termine del 1 gennaio 1980 stabilito nel [secondo comma dell'art. 89 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), in relazione alle iniziative, gia' adottate, per una riorganizzazione delle strutture del Ministero dei lavori pubblici e in relazione agli orientamenti emersi in sede parlamentare per l'ulteriore esecuzione delle opere idrauliche di 2ª e 3ª categoria in bacini interregionali a cura del suddetto Ministero dei lavori pubblici;
 
 Vista la deliberazione del Consiglio dei Ministri del 14 dicembre 1979;
 
@@ -22,7 +22,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-Il termine dei 1 gennaio 1980 indicato nel [secondo comma dell'art. 89 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_89-com2), e' prorogato al 31 dicembre 1981.
+Il termine dei 1 gennaio 1980 indicato nel [secondo comma dell'art. 89 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), e' prorogato al 31 dicembre 1981.
 
 ## Art. 2.
 

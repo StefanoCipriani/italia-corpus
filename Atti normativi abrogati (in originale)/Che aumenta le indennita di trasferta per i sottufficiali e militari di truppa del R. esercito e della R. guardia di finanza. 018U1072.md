@@ -18,7 +18,7 @@ per grazia di Dio e per volonta' della Nazione
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista il [R decreto 19 aprile 1907, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-04-19;201), che stabilisce le indennita' eventuali del R esercito e successive modificazioni;
+Vista il [R decreto 19 aprile 1907, n. 201](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), che stabilisce le indennita' eventuali del R esercito e successive modificazioni;
 
 Visto il regolamento generale per l'arma dei carabinieri Reali approvato con R. decreto 24 dicembre 1911;
 
@@ -78,7 +78,7 @@ Le disposizioni del presente decreto riguardanti i carabinieri Reali sono estens
 
 Il presente decreto entrera' in vigore dal giorno della sua pubblicazione sulla Gazzetta ufficiale. 
  
- Dalla stessa data s'intendono abrogati l'[art. 2 del R. decreto 7 febbraio 1915, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-07;112#art_2), col quale fu concesso un supplemento all'indennita' di trasferta pei militari dell'esercito e l'[art 2 del decreto Luogotenenziale 2 settembre 1917, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-09-02;1388#art_2), concernente il trattamento del personale delle Commissioni di requisizione, incetta o collaudo. 
+ Dalla stessa data s'intendono abrogati l'[art. 2 del R. decreto 7 febbraio 1915, n. 112](Col%20quale%20sono%20conferite%20speciali%20indennita%20di%20trasferta%20agli%20ufficiali%20superiori%20ed%20inferiori%20dellesercito.%20015U0112.md), col quale fu concesso un supplemento all'indennita' di trasferta pei militari dell'esercito e l'[art 2 del decreto Luogotenenziale 2 settembre 1917, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-09-02;1388#art_2), concernente il trattamento del personale delle Commissioni di requisizione, incetta o collaudo. 
  
  E' abrogata altresi' ogni altra norma contraria a quelle stabilite col presente decreto. 
  

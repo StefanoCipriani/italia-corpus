@@ -38,7 +38,7 @@ Per il compimento dei lavori e' assegnato il termine di anni tre dalla data del 
 
 ## Art. 3.
 
-Il comune di Milano e' autorizzato ad imporre ai proprietari di beni che siano avvantaggiati dalla esecuzione delle opere previsto dal presente decreto, contributi di miglioria nei limiti o con le forme previste dal testo unico per la finanza, locale, approvato con [R. decreto 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175).
+Il comune di Milano e' autorizzato ad imporre ai proprietari di beni che siano avvantaggiati dalla esecuzione delle opere previsto dal presente decreto, contributi di miglioria nei limiti o con le forme previste dal testo unico per la finanza, locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md).
 
 ## Art. 4.
 
@@ -46,7 +46,7 @@ La convenzione con la quale lo Stato concede ai Comuni interessati la costruzion
 
 ## Art. 5.
 
-Per quanto non e' previsto dal presente decreto si osserveranno le norme della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e successive modificazioni, in quanto applicabili, e quelle della [legge 20 giugno 1909, n. 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md), e relativo regolamento approvato con [R. decreto 30 gennaio 1913, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-30;363), e della legge 11 giugno 1922, 778. 
+Per quanto non e' previsto dal presente decreto si osserveranno le norme della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e successive modificazioni, in quanto applicabili, e quelle della [legge 20 giugno 1909, n. 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md), e relativo regolamento approvato con [R. decreto 30 gennaio 1913, n. 363](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), e della legge 11 giugno 1922, 778. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

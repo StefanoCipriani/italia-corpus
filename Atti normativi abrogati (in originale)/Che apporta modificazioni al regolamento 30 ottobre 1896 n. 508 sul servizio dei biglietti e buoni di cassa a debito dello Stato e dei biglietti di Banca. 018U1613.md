@@ -14,7 +14,7 @@ Nel paragrafo 6° del Titolo IV della prima parte del [regolamento 30 ottobre 18
 
 ## Art. 2.
 
-All'art. 46 del regolamento approvato con [R. decreto 30 ottobre 1896, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-10-30;508), e' sostituito il seguente: 
+All'art. 46 del regolamento approvato con [R. decreto 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md), e' sostituito il seguente: 
  
  « La verificazione dei biglietti di Stato da L. 5 e 10 e dei buoni di Cassa in sede di distruzione, per quantita' e valore, di cui all'articolo precedente, deve essere fatta a cura del controllore capo presso la Cassa speciale e del delegato della Corte dei conti, con l'intervento di un ispettore dell'Ufficio d'ispezione. 
  

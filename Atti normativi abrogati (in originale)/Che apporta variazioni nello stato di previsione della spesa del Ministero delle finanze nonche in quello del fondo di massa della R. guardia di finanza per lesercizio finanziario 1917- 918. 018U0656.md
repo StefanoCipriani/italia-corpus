@@ -20,7 +20,7 @@ RE D'ITALIA
 
 Di virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 31 dicembre 1917, n. 2045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-12-31;2045);
+Vista la [legge 31 dicembre 1917, n. 2045](Che%20proroga%20il%20termine%20indicato%20della%20legge%2028%20ottobre%201917%20n.%201751%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20sian_80dd5cff68ce.md);
 
 Udito il Consiglio dei ministri;
 
@@ -44,7 +44,7 @@ Le assegnazioni dei seguenti capitoli dello stato di previsione predetto sono au
  
  Cap. 438 (aggiunto). Spese per la sistemazione della cinta daziaria di Napoli in dipendenza del restringimento della medesima verso 
  
- oriente fra il ponte della Maddalena e la garetta 97 Leutreck ([legge 27 giugno 1907, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-27;400)), L. 50.000.
+ oriente fra il ponte della Maddalena e la garetta 97 Leutreck ([legge 27 giugno 1907, n. 400](Provvedimenti%20per%20modificare%20il%20tracciato%20della%20linea%20daziaria%20di%20Napoli%20e%20per%20costituire%20in%20conseguenza%20una%20zona%20aperta%20dal%20lato%20orientale.%20007U0400.md)), L. 50.000.
 
 ## Art. 3.
 

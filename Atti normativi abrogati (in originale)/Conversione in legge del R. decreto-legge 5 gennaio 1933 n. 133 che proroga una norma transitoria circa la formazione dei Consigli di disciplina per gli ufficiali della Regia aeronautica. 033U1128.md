@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 gennaio 1933, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-05;133), che proroga la disposizione transitoria prevista nella tabella (allegato 3) annessa alla [legge 17 marzo 1930, n. 337](Varianti%20alla%20legge%2011%20marzo%201926%20n.%20397%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica%20nella%20parte%20riguardante%20i%20Consigli%20di%20disciplina.%20030U0337.md), riguardante la formazione dei Consigli di disciplina per gli ufficiali della Regia aeronautica. 
+ E' convertito in legge il [R. decreto-legge 5 gennaio 1933, n. 133](Proroga%20di%20una%20norma%20transitoria%20circa%20la%20formazione%20dei%20Consigli%20di%20disciplina%20per%20gli%20ufficiali%20della%20Regia%20aeronautica.%20033U0133.md), che proroga la disposizione transitoria prevista nella tabella (allegato 3) annessa alla [legge 17 marzo 1930, n. 337](Varianti%20alla%20legge%2011%20marzo%201926%20n.%20397%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica%20nella%20parte%20riguardante%20i%20Consigli%20di%20disciplina.%20030U0337.md), riguardante la formazione dei Consigli di disciplina per gli ufficiali della Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

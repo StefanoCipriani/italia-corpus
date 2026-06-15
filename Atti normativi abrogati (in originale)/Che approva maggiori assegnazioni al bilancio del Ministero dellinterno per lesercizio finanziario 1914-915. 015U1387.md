@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Ritenuta la necessita' di inscrivere nello stato di previsione del Ministero dell'interno pel 1914-915, i fondi occorrenti per provvedere a spese il pagamento delle quali presenta carattere di improrogabilita';
 
-Vista la [legge 18 giugno 1914, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-18;556);
+Vista la [legge 18 giugno 1914, n. 556](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellinterno%20per%20lesercizio%20finanziario%20dal%201%20luglio%201914%20al%2030%20giugno%201915%20014U0556.md);
 
 Udito il Consiglio dei ministri;
 

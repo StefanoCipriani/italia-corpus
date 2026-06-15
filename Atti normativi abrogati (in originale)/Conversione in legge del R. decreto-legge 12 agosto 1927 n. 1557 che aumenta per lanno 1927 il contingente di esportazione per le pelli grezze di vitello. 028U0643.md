@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1557), che aumenta, per l'anno 1927, il contingente di esportazione per le pelli grezze di vitello. 
+ E' convertito in legge il [R. decreto-legge 12 agosto 1927, n. 1557](Aumento%20per%20lanno%201927%20del%20contingente%20per%20lesportazione%20delle%20pelli%20di%20vitello.%20027U1557.md), che aumenta, per l'anno 1927, il contingente di esportazione per le pelli grezze di vitello. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

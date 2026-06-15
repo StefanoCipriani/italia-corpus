@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Ai militari del Regio esercito e della Regia marina in servizio di volo presso la Regia aeronautica sono estese le disposizioni del [R. decreto-legge 6 marzo 1927, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-06;420), contenute: 
+Ai militari del Regio esercito e della Regia marina in servizio di volo presso la Regia aeronautica sono estese le disposizioni del [R. decreto-legge 6 marzo 1927, n. 420](Norme%20relative%20al%20trattamento%20di%20pensione%20da%20corrispondere%20al%20personale%20militare%20della%20Regia%20aeronautica.%20027U0420.md), contenute: 
  
  a) nell'art. 6 sugli assegni da prendere a base per la liquidazione delle pensioni normali e di quelle dipendenti da inabilita' o morte per causa di servizio per gli ufficiali e per i sottufficiali della Regia aeronautica; 
  
@@ -22,7 +22,7 @@ Ai militari del Regio esercito e della Regia marina in servizio di volo presso l
 
 ## Art. 2.
 
-La decorrenza stabilita nell'[art. 15 del R. decreto-legge 6 marzo 1927, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-06;420#art_15), per gli articoli 6, 11 e secondo comma dell'art. 13 vale anche per l'applicazione delle norme contenute nell'art. 1 della presente legge. 
+La decorrenza stabilita nell'[art. 15 del R. decreto-legge 6 marzo 1927, n. 420](Norme%20relative%20al%20trattamento%20di%20pensione%20da%20corrispondere%20al%20personale%20militare%20della%20Regia%20aeronautica.%20027U0420.md), per gli articoli 6, 11 e secondo comma dell'art. 13 vale anche per l'applicazione delle norme contenute nell'art. 1 della presente legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 maggio 1928, n. 1330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-05-17;1330), col quale e' stata approvata la convenzione con la Societa' anonima autostrade toscane per la concessione dell'autostrada Firenze-Lucca, verso Viareggio. 
+ E' convertito in legge il [R. decreto-legge 17 maggio 1928, n. 1330](Approvazione%20della%20convenzione%20per%20la%20concessione%20dellautostrada%20Firenze-Lucca%20verso%20Viareggio.%20028U1330.md), col quale e' stata approvata la convenzione con la Societa' anonima autostrade toscane per la concessione dell'autostrada Firenze-Lucca, verso Viareggio. 
  
  Ordiniamo che la presente, munita del sigillo dello State, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

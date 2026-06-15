@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 febbraio 1928, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-23;645), che approva e rende esecutoria la convenzione stipulata il 16 febbraio stesso per la concessione della costruzione e dell'esercizio della ferrovia Aosta-Pre' S. Didier. 
+ E' convertito in legge il [R. decreto-legge 23 febbraio 1928, n. 645](Approvazione%20della%20convenzione%2016%20febbraio%201928%20per%20la%20concessione%20della%20costruzione%20e%20dellesercizio%20della%20ferrovia%20Aosta-Pre%20S.%20Didier.%20028U0645.md), che approva e rende esecutoria la convenzione stipulata il 16 febbraio stesso per la concessione della costruzione e dell'esercizio della ferrovia Aosta-Pre' S. Didier. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

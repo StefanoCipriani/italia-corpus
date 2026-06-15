@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 maggio 1926, n. 869](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-09;869), relativo alla misura degli interessi sui mutui con gli istituti di credito fondiario, per le quote di vetusta' e migliorie in dipendenza dei danni di guerra. 
+ E' convertito in legge il [R. decreto-legge 9 maggio 1926, n. 869](Misura%20degli%20interessi%20sui%20mutui%20con%20gli%20istituti%20di%20credito%20fondiario%20per%20quote%20di%20vetusta%20e%20migliorie%20in%20dipendenza%20dei%20danni%20di%20guerra.%20026U0869.md), relativo alla misura degli interessi sui mutui con gli istituti di credito fondiario, per le quote di vetusta' e migliorie in dipendenza dei danni di guerra. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

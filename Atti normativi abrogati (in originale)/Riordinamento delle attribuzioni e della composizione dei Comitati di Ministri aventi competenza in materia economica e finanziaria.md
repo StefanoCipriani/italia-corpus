@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-Ai fini dell'esercizio delle attribuzioni previste dalla [legge 7 marzo 1938, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-07;141), e successive modificazioni, il Comitato interministeriale per il credito e il risparmio si attiene alle direttive generali del Comitato interministeriale per la programmazione economica per la ripartizione globale dei flussi monetari tra le varie destinazioni, in conformita' alle linee di sviluppo fissate dal programma economico nazionale.
+Ai fini dell'esercizio delle attribuzioni previste dalla [legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md), e successive modificazioni, il Comitato interministeriale per il credito e il risparmio si attiene alle direttive generali del Comitato interministeriale per la programmazione economica per la ripartizione globale dei flussi monetari tra le varie destinazioni, in conformita' alle linee di sviluppo fissate dal programma economico nazionale.
  In particolare, le predette direttive sono enunciate dal C.I.P.E. insieme con le linee generali per l'impostazione del progetto del bilancio di previsione dello Stato.
 
 ## Art. 2.

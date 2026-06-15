@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-23;1550), che sopprime la carica di Regio commissario per il porto di Fiume. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1930, n. 1550](Soppressione%20della%20carica%20di%20Regio%20commissario%20per%20il%20porto%20di%20Fiume.%20030U1550.md), che sopprime la carica di Regio commissario per il porto di Fiume. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

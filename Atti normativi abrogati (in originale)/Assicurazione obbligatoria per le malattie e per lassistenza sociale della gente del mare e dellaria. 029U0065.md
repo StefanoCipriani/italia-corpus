@@ -86,7 +86,7 @@ Quando sia necessario il ricovero in un Istituto di cura, la spesa di spedalita'
 
 Il giudizio sulla inabilita' e' deferito agli organi della assicurazione salvo ricorso a norma della presente legge. 
  
- Se la malattia e' la conseguenza diretta dell'ubbriachezza o di colposa partecipazione ad una rissa, ovvero se fu contratta ed aggravata intenzionalmente, non compete all'assicurato alcuna indennita', senza pregiudizio delle sanzioni penali, di cui agli [articoli 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_413) e [414 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_414). 
+ Se la malattia e' la conseguenza diretta dell'ubbriachezza o di colposa partecipazione ad una rissa, ovvero se fu contratta ed aggravata intenzionalmente, non compete all'assicurato alcuna indennita', senza pregiudizio delle sanzioni penali, di cui agli [articoli 413](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [414 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  In tali casi pero' puo' essere concesso un sussidio alimentare alla di lui famiglia mediante pagamento diretto, se risulti che questa sia in condizioni di bisogno.
 
@@ -114,11 +114,11 @@ Si provvede agli scopi di cui all'art. 5:
 
 ### Art. 13.
 
-I datori di lavoro, che trattengono sulle retribuzioni delle persone obbligate all'assicurazione somme maggiori di quelle per le quali e' concessa la ritenuta, sono puniti con la multa fino a lire mille, salvo le maggiori pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) ove il fatto costituisca reato ivi preveduto.
+I datori di lavoro, che trattengono sulle retribuzioni delle persone obbligate all'assicurazione somme maggiori di quelle per le quali e' concessa la ritenuta, sono puniti con la multa fino a lire mille, salvo le maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ove il fatto costituisca reato ivi preveduto.
 
 ### Art. 14.
 
-I datori di lavoro che non provvedono al pagamento dei contributi o li versano in misura inferiore a quella stabilita, oltre ad essere obbligati al pagamento dei contributi o delle parti di contributi non versati, sono puniti con l'ammenda da lire mille a lire cinquemila e sono tenuti al versamento di una pena pecuniaria pari a quella dei contributi non versati, salvo in ogni caso le maggiori pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) ove il fatto costituisca reato ivi preveduto. 
+I datori di lavoro che non provvedono al pagamento dei contributi o li versano in misura inferiore a quella stabilita, oltre ad essere obbligati al pagamento dei contributi o delle parti di contributi non versati, sono puniti con l'ammenda da lire mille a lire cinquemila e sono tenuti al versamento di una pena pecuniaria pari a quella dei contributi non versati, salvo in ogni caso le maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ove il fatto costituisca reato ivi preveduto. 
  
  La pena dell'ammenda e la pena pecuniaria indicate nel comma precedente sono devolute alla Cassa. Il contravventore, con domanda da lui sottoscritta e che sara' considerata irrevocabile puo' chiedere alla, Cassa di fare oblazione. 
  

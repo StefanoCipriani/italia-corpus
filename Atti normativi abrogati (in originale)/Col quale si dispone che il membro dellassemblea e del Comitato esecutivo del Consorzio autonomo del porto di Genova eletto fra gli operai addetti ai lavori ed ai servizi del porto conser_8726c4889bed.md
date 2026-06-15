@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il membro dell'assemblea e del Comitato esecutivo del Consorzio autonomo del porto di Genova eletto fra gli operai addetti ai lavori e ai servizi del porto conservera' il proprio mandato, che secondo l'[art. 6, comma 1° della legge 12 febbraio 1903, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-02-12;50#art_6-com1), scadrebbe il 30 giugno 1915, fino a nuova disposizione.
+Il membro dell'assemblea e del Comitato esecutivo del Consorzio autonomo del porto di Genova eletto fra gli operai addetti ai lavori e ai servizi del porto conservera' il proprio mandato, che secondo l'[art. 6, comma 1° della legge 12 febbraio 1903, n. 50](Costituzione%20di%20un%20consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20003U0050.md), scadrebbe il 30 giugno 1915, fino a nuova disposizione.
 
 ## Art. 2.
 

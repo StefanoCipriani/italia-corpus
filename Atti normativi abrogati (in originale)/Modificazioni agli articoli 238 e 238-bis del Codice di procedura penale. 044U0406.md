@@ -16,11 +16,11 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-20;45#art_1) e [2 del R. decreto-legge 20 gennaio 1944, n. 45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-20;45#art_2), che modifica l'[art. 238 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_238) e introduce nello stesso Codice l'articolo 238-bis, per la disciplina del fermo di indiziati di reato e di individui pericolosi per l'ordine pubblico e per la sicurezza pubblica;
+Visti gli [articoli 1](Norme%20relative%20al%20fermo%20di%20indiziati%20di%20reato%20e%20di%20individui%20pericolosi%20per%20lordine%20sociale%20e%20la%20sicurezza%20pubblica.%20044U0045.md) e [2 del R. decreto-legge 20 gennaio 1944, n. 45](Norme%20relative%20al%20fermo%20di%20indiziati%20di%20reato%20e%20di%20individui%20pericolosi%20per%20lordine%20sociale%20e%20la%20sicurezza%20pubblica.%20044U0045.md), che modifica l'[art. 238 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_238) e introduce nello stesso Codice l'articolo 238-bis, per la disciplina del fermo di indiziati di reato e di individui pericolosi per l'ordine pubblico e per la sicurezza pubblica;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visti i [Regi decreti-legge 30 ottobre 1943, n. 2-B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e [29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visti i [Regi decreti-legge 30 ottobre 1943, n. 2-B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e [29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

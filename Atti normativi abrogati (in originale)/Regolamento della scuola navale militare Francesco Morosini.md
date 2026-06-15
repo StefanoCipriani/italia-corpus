@@ -18,21 +18,21 @@ Visto il [decreto legislativo 28 novembre 1997, n. 464](Riforma%20strutturale%20
 
 Visto il [regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e successive modificazioni, riguardante l'ordinamento dell'istruzione media e dei convitti nazionali;
 
-Vista la [legge 8 luglio 1926, n. 1178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178), e successive modificazioni, riguardante l'ordinamento della Marina militare;
+Vista la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), e successive modificazioni, riguardante l'ordinamento della Marina militare;
 
 Visto il [decreto del Presidente della Repubblica 20 giugno 1956, n. 950](Ordinamento%20delle%20Scuole%20militari.md), e successive modificazioni, riguardante l'ordinamento delle scuole militari;
 
-Visto il [decreto legislativo 16 aprile 1994, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-16;297), e successive modificazioni, recante il testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado;
+Visto il [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e successive modificazioni, recante il testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado;
 
-Visto il [decreto del Presidente della Repubblica 24 giugno 1998, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1998-06-24;249), relativo al regolamento recante lo statuto degli studenti della scuola secondaria;
+Visto il [decreto del Presidente della Repubblica 24 giugno 1998, n. 249](../DPR/Regolamento%20recante%20lo%20statuto%20delle%20studentesse%20e%20degli%20studenti%20della%20scuola%20secondaria.md), relativo al regolamento recante lo statuto degli studenti della scuola secondaria;
 
-Vista la [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382), recante norme di principio sulla disciplina militare;
+Vista la [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), recante norme di principio sulla disciplina militare;
 
 Visto il [decreto del Presidente della Repubblica 18 luglio 1986, n. 545](Approvazione%20del%20regolamento%20di%20disciplina%20militare%20ai%20sensi%20dellart.%205%20primo%20comma%20della%20legge%2011%20luglio%201978%20n.%20382.md), che approva il regolamento di disciplina militare;
 
-Vista la [legge 18 febbraio 1997, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-02-18;25), concernente "attribuzioni del Ministro della difesa, ristrutturazione dei vertici delle Forze armate e dell'amministrazione della difesa";
+Vista la [legge 18 febbraio 1997, n. 25](Attribuzioni%20del%20Ministro%20della%20difesa%20ristrutturazione%20dei%20vertici%20delle%20Forze%20armate%20e%20dellAmministrazione%20della%20difesa.md), concernente "attribuzioni del Ministro della difesa, ristrutturazione dei vertici delle Forze armate e dell'amministrazione della difesa";
 
-Vista la [legge 10 febbraio 2000, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-02-10;30), costituente "Legge quadro in materia di riordino dei cicli dell'istruzione";
+Vista la [legge 10 febbraio 2000, n. 30](Legge-quadro%20in%20materia%20di%20riordino%20dei%20cicli%20dellistruzione.md), costituente "Legge quadro in materia di riordino dei cicli dell'istruzione";
 
 Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 
@@ -57,22 +57,22 @@ E' istituita la scuola navale militare Francesco Morosini, ente non dipartimenta
 Presso la scuola si svolgono i programmi stabiliti per gli ultimi tre anni dei corsi di studio di durata quinquennale secondo gli ordinamenti vigenti per gli istituti di istruzione secondaria di secondo grado. Gli allievi effettuano addestramento di tipo militare, attivita' sportiva ed istruzione marinaresca, inclusi imbarchi sulle unita' aeronavali e subacquee della Marina militare.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
- - Il [decreto legislativo 28 novembre 1997, n. 464](Riforma%20strutturale%20delle%20Forze%20armate%20a%20norma%20dellarticolo%201%20comma%201%20lettere%20a%20d%20ed%20h%20della%20legge%2028%20dicembre%201995%20n.%20549.md), concernente "Riforma strutturale delle Forze armate, a norma dell'[art. 1, comma 1, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com1-leta), [d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com1-letd) ed [h), della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com1-leth)", e' stato pubblicato nella Gazzetta Ufficiale 5 gennaio 1998, n. 3; si riporta il testo dell'art. 2, comma 1, lettera l):
+ - Il [decreto legislativo 28 novembre 1997, n. 464](Riforma%20strutturale%20delle%20Forze%20armate%20a%20norma%20dellarticolo%201%20comma%201%20lettere%20a%20d%20ed%20h%20della%20legge%2028%20dicembre%201995%20n.%20549.md), concernente "Riforma strutturale delle Forze armate, a norma dell'[art. 1, comma 1, lettere a)](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), [d)](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md) ed [h), della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md)", e' stato pubblicato nella Gazzetta Ufficiale 5 gennaio 1998, n. 3; si riporta il testo dell'art. 2, comma 1, lettera l):
  "2.1 Per le finalita' di cui all'art. 1, comma 1, del presente decreto:
  "a) - i) (omissis);
  l) e' soppresso il collegio "Francesco Morosini" in Venezia. Le relative attribuzioni sono trasferite alla scuola navale militare "Francesco Morosini" che e' istituita con decreto del Ministro della difesa, di concerto con il Ministro della pubblica istruzione, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), e successive modificazioni entro sei mesi dalla data di entrata in vigore del presente decreto, che ne disciplina il relativo funzionamento nonche' i titoli di merito per l'ammissione ai corsi normali dell'accademia navale da attribuirsi agli allievi che abbiano concluso senza demerito il ciclo di studi presso la scuola navale militare".
  - Il [regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), riguardante "Ordinamento dell'istruzione media e dei convitti nazionali", e' stato pubblicato nella Gazzetta Ufficiale 2 giugno 1923, n. 129;
- - La [legge 8 luglio 1926, n. 1178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178), riguardante "Ordinamento della Marina militare", e' stata pubblicata nella Gazzetta Ufficiale 15 luglio 1926, n. 162;
+ - La [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), riguardante "Ordinamento della Marina militare", e' stata pubblicata nella Gazzetta Ufficiale 15 luglio 1926, n. 162;
  - Il [decreto del Presidente della Repubblica 20 giugno 1956, n. 950](Ordinamento%20delle%20Scuole%20militari.md), riguardante "Ordinamento delle scuole militari", e' stato pubblicato nella Gazzetta Ufficiale 27 agosto 1956, n. 214;
- - Il [decreto legislativo 16 aprile 1994, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-16;297), recante il testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, e' stato pubblicato nel supplemento ordinario della Gazzetta Ufficiale 19 maggio 1994, n. 115;
- - Il [decreto del Presidente della Repubblica 24 giugno 1998, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1998-06-24;249), relativo al regolamento recante lo statuto degli studenti della scuola secondaria, e' stato pubblicato nella Gazzetta Ufficiale 29 luglio 1998, n. 175;
- - La [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382), recante "Norme di principio sulla disciplina militare", e' stata pubblicata nella Gazzetta Ufficiale 21 luglio 1978, n. 203;
+ - Il [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), recante il testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, e' stato pubblicato nel supplemento ordinario della Gazzetta Ufficiale 19 maggio 1994, n. 115;
+ - Il [decreto del Presidente della Repubblica 24 giugno 1998, n. 249](../DPR/Regolamento%20recante%20lo%20statuto%20delle%20studentesse%20e%20degli%20studenti%20della%20scuola%20secondaria.md), relativo al regolamento recante lo statuto degli studenti della scuola secondaria, e' stato pubblicato nella Gazzetta Ufficiale 29 luglio 1998, n. 175;
+ - La [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), recante "Norme di principio sulla disciplina militare", e' stata pubblicata nella Gazzetta Ufficiale 21 luglio 1978, n. 203;
  - Il [decreto del Presidente della Repubblica 18 luglio 1986, n. 545](Approvazione%20del%20regolamento%20di%20disciplina%20militare%20ai%20sensi%20dellart.%205%20primo%20comma%20della%20legge%2011%20luglio%201978%20n.%20382.md), recante "Regolamento di disciplina militare", e' stato pubblicato nella Gazzetta Ufficiale 15 settembre 1986, n. 214;
- - La [legge 18 febbraio 1997, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-02-18;25), concernente "Attribuzioni del Ministro della difesa, ristrutturazione dei vertici delle Forze armate e dell'amministrazione della Difesa" e' stata pubblicata nella Gazzetta Ufficiale 24 febbraio 1997, n. 45;
- - La [legge 10 febbraio 2000, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-02-10;30), costituente "Legge quadro in materia di riordino dei cicli dell'istruzione" e' stata pubblicata nella Gazzetta Ufficiale 23 febbraio 2000, n. 44;
+ - La [legge 18 febbraio 1997, n. 25](Attribuzioni%20del%20Ministro%20della%20difesa%20ristrutturazione%20dei%20vertici%20delle%20Forze%20armate%20e%20dellAmministrazione%20della%20difesa.md), concernente "Attribuzioni del Ministro della difesa, ristrutturazione dei vertici delle Forze armate e dell'amministrazione della Difesa" e' stata pubblicata nella Gazzetta Ufficiale 24 febbraio 1997, n. 45;
+ - La [legge 10 febbraio 2000, n. 30](Legge-quadro%20in%20materia%20di%20riordino%20dei%20cicli%20dellistruzione.md), costituente "Legge quadro in materia di riordino dei cicli dell'istruzione" e' stata pubblicata nella Gazzetta Ufficiale 23 febbraio 2000, n. 44;
  - La [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri" e' stata pubblicata nel supplemento ordinario della Gazzetta Ufficiale 12 settembre 1988, n. 214; si riporta il testo dei commi 3 e 4 dell'art. 17:
  "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di Autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge, i regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.
  4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".
@@ -231,11 +231,11 @@ All'atto dell'ammissione dell'allievo, il genitore o tutore si impegna ad accett
 
 9.
 
-Gli allievi al compimento del sedicesimo anno di eta' contraggono uno speciale arruolamento volontario per tre anni sino al conseguimento del titolo di studio previsto. A tal fine potra' essere consentita una rafferma non superiore ad un anno. Durante l'intera ferma gli allievi sono equiparati ai comuni di 2a classe e il trattamento economico e' quello previsto per i militari di leva dalla tabella allegata alla [legge 24 dicembre 1986, n. 958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-24;958), e successive modificazioni. Il servizio prestato dopo l'arruolamento non e' valido ai fini dell'espletamento degli obblighi di leva.
+Gli allievi al compimento del sedicesimo anno di eta' contraggono uno speciale arruolamento volontario per tre anni sino al conseguimento del titolo di studio previsto. A tal fine potra' essere consentita una rafferma non superiore ad un anno. Durante l'intera ferma gli allievi sono equiparati ai comuni di 2a classe e il trattamento economico e' quello previsto per i militari di leva dalla tabella allegata alla [legge 24 dicembre 1986, n. 958](Norme%20sul%20servizio%20militare%20di%20leva%20e%20sulla%20ferma%20di%20leva%20prolungata.md), e successive modificazioni. Il servizio prestato dopo l'arruolamento non e' valido ai fini dell'espletamento degli obblighi di leva.
 
 Note all'[art. 9:
  - La legge 10 agosto 1950, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;648#art_9), concernente il riordinamento delle disposizioni sulle pensioni di guerra, e' stata pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 1o settembre 1950, n. 200.
- - La [legge 24 dicembre 1986, n. 958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-24;958), recante norme sul servizio militare di leva e sulla ferma di leva prolungata e' stata pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 15 gennaio 1987, n. 11; si riporta la tabella allegata alla legge:
+ - La [legge 24 dicembre 1986, n. 958](Norme%20sul%20servizio%20militare%20di%20leva%20e%20sulla%20ferma%20di%20leva%20prolungata.md), recante norme sul servizio militare di leva e sulla ferma di leva prolungata e' stata pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 15 gennaio 1987, n. 11; si riporta la tabella allegata alla legge:
  "Paghe giornaliere dei graduati e militari di truppa in ferma di leva prolungata
                                 Definizione percentuale delle misure giornaliere delle paghe rispetto al valore giornaliero della retribuzione mensile del sergente
                                     Gradi
@@ -313,7 +313,7 @@ Nota all'art. 11:
 
 Il rinvio in famiglia e' adottato su proposta motivata del comandante della scuola, previo parere del consiglio degli istruttori, con provvedimento a carattere definitivo del Direttore generale del personale militare del Ministero della difesa. Oltre ai casi previsti dall'articolo 10, commi 5 e 6, esso puo' essere adottato nei confronti degli allievi:
                         a)
-                            per grave mancanza disciplinare ovvero grave inadempienza ai doveri del militare stabiliti dalla [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382);
+                            per grave mancanza disciplinare ovvero grave inadempienza ai doveri del militare stabiliti dalla [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md);
                         b)
                             per perdita dei requisiti previsti dal bando di concorso;
                         c)
@@ -338,7 +338,7 @@ L'allievo arruolato che sia stato rinviato o al quale sia stato concesso il riti
 All'allievo che per qualunque motivo cessi di appartenere alla scuola viene consegnato, a cura della scuola stessa, il nulla osta per il trasferimento ad analoga classe in istituto statale dello stesso ordine.
 
 Nota all'art. 12:
- - Per i riferimenti della [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382), recante "Norme di principio sulla disciplina militare", si veda nelle note alle premesse.
+ - Per i riferimenti della [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), recante "Norme di principio sulla disciplina militare", si veda nelle note alle premesse.
 
 ## Art. 13. — Ammissione volontaria alle Forze armate
 
@@ -368,7 +368,7 @@ Gli allievi della scuola sono obbligati all'osservanza:
                         a)
                             delle norme disciplinari previste per gli istituti statali d'istruzione secondaria di secondo grado;
                         b)
-                            dei doveri previsti dalla [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382), e dal regolamento di disciplina militare, dal momento in cui contraggono l'arruolamento.
+                            dei doveri previsti dalla [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), e dal regolamento di disciplina militare, dal momento in cui contraggono l'arruolamento.
 
 ## Art. 16. — Personale civile
 

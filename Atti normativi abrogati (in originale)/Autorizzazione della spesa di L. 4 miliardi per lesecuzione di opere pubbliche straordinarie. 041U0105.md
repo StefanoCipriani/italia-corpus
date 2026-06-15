@@ -58,7 +58,7 @@ Sulla spesa autorizzata dall'art. 1, potranno, fino al limite di L.
  
  La misura di detti concorsi sara' determinata dal Ministero dei lavori pubblici, di concerto con quello delle finanze, in relazione agli oneri previsti per la costruzione ed alle condizioni economiche dei presumibili assegnatari degli alloggi. 
  
- Le costruzioni che beneficeranno dei concorsi di cui al presente articolo non potranno usufruire del concorso statale nel pagamento degli interessi sui mutui contratti ai sensi dell'[art. 71 del testo unico dell'edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380#art_71) popolare ed economica, approvato con R. decreto 28 aprile 1938-XVI, n. 1165.
+ Le costruzioni che beneficeranno dei concorsi di cui al presente articolo non potranno usufruire del concorso statale nel pagamento degli interessi sui mutui contratti ai sensi dell'[art. 71 del testo unico dell'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con R. decreto 28 aprile 1938-XVI, n. 1165.
 
 ## Art. 7.
 

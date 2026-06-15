@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-Per il rimanente periodo di validita' sono estesi al territorio della citta' di Fiume la [legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md), il regolamento per la sua applicazione approvato con [R. decreto 12 gennaio 1913, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-12;107), il [R. decreto-legge 1° febbraio 1923, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-02-01;211), e tutte le disposizioni ancora in vigore che abbiano apportato aggiunte o modificazioni ai detti provvedimenti legislativi e regolamentari.
+Per il rimanente periodo di validita' sono estesi al territorio della citta' di Fiume la [legge 13 luglio 1911, n. 745](Che%20approva%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20011U0745.md), il regolamento per la sua applicazione approvato con [R. decreto 12 gennaio 1913, n. 107](Col%20quale%20viene%20approvato%20lo%20annesso%20regolamento%20per%20lesecuzione%20della%20legge%2013%20luglio%201911%20n.%20745%20circa%20provvedimenti%20a%20favore%20della%20industria%20delle%20costruzioni%20navali.%20013U0107.md), il [R. decreto-legge 1° febbraio 1923, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-02-01;211), e tutte le disposizioni ancora in vigore che abbiano apportato aggiunte o modificazioni ai detti provvedimenti legislativi e regolamentari.
 
 ## Art. 2.
 

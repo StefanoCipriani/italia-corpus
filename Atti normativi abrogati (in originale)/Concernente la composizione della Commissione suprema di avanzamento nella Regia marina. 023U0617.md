@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156), relativo alla costituzione ed alle attribuzioni dei Corpi consuntivi dalla R. marina, modificato con i [Regi decreti-legge 2 maggio 1920, n. 643](Che%20sopprime%20la%20carica%20di%20ispettore%20generale%20della%20R.%20marina%20istituita%20col%20R.%20decreto-legge%2020%20novembre%201919%20n.%202352.%20020U0643.md), [20 febbraio 1921, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-02-20;219), [21 dicembre 1922, n. 1798](Concernente%20la%20costituzione%20del%20Comitato%20degli%20ammiragli%20e%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20della%20R.%20marina.%20022U1798.md), [4 gennaio 1923, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-01-04;109);
+Visto il [R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), relativo alla costituzione ed alle attribuzioni dei Corpi consuntivi dalla R. marina, modificato con i [Regi decreti-legge 2 maggio 1920, n. 643](Che%20sopprime%20la%20carica%20di%20ispettore%20generale%20della%20R.%20marina%20istituita%20col%20R.%20decreto-legge%2020%20novembre%201919%20n.%202352.%20020U0643.md), [20 febbraio 1921, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-02-20;219), [21 dicembre 1922, n. 1798](Concernente%20la%20costituzione%20del%20Comitato%20degli%20ammiragli%20e%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20della%20R.%20marina.%20022U1798.md), [4 gennaio 1923, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-01-04;109);
 
 Sentito il Consiglio dei ministri;
 
@@ -22,19 +22,19 @@ Sulla proposta del Ministro della marina, di concerto con quello delle finanze; 
 
 ## Art. 1.
 
-Il terz'ultimo comma dell'[art. 3 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156#art_3), modificato con RR. [decreti-legge 20 febbraio 1921, n. 219, e 21 dicembre 1922, n. 1798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1922-12-21;1798), e' abrogato e sostituito dal seguente: 
+Il terz'ultimo comma dell'[art. 3 del R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), modificato con RR. [decreti-legge 20 febbraio 1921, n. 219, e 21 dicembre 1922, n. 1798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1922-12-21;1798), e' abrogato e sostituito dal seguente: 
  
  «In caso di assenza o di impedimento il presidente del Consiglio superiore di marina e' sostituito dall'ufficiale ammiraglio, vice presidente del Consiglio superiore di marina».
 
 ## Art. 2.
 
-All'alinea 8 dell'[art. 6 del R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156#art_6), modificato con l'[art. 2 del R. decreto-legge 21 dicembre 1922, n. 1798](Concernente%20la%20costituzione%20del%20Comitato%20degli%20ammiragli%20e%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20della%20R.%20marina.%20022U1798.md), e' apportata la seguente aggiunta: 
+All'alinea 8 dell'[art. 6 del R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), modificato con l'[art. 2 del R. decreto-legge 21 dicembre 1922, n. 1798](Concernente%20la%20costituzione%20del%20Comitato%20degli%20ammiragli%20e%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20della%20R.%20marina.%20022U1798.md), e' apportata la seguente aggiunta: 
  
  «Quando per legittimi ed accertati impedimenti la Commissione suprema di avanzamento non possa adunarsi con sette membri, presidente compreso, i deliberati della Commissione stessa saranno validi purche' siano presenti all'adunanza almeno cinque membri, presidente compreso».
 
 ## Art. 3.
 
-Il [n. 3 lettera b) dell'articolo 12 del Regio decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156#art_12-letb-num3), e' abrogato e sostituito dal seguente: 
+Il [n. 3 lettera b) dell'articolo 12 del Regio decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), e' abrogato e sostituito dal seguente: 
  
  «b) l'ufficiale superiore di vascello capo della Sezione corpo R. equipaggi presso la Direzione generale del personale e del servizio militare e scientifico, od in caso di assenza o di impedimento, l'ufficiale superiore di vascello piu' anziano fra quelli destinati alla Direzione generale stessa e non impediti di intervenire». 
  

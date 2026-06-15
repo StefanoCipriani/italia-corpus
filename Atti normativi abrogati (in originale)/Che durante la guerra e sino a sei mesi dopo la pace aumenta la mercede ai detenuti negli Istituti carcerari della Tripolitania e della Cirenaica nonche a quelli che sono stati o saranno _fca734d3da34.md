@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 3 novembre 1911, n. 1247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-11-03;1247), convertito nella [legge del 25 febbraio 1912, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-02-25;83); 
+ Visto il [R. decreto 3 novembre 1911, n. 1247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-11-03;1247), convertito nella [legge del 25 febbraio 1912, n. 83](Che%20converte%20in%20legge%20il%20Regio%20decreto%205%20novembre%201911%20n.%201247%20col%20quale%20la%20Tripolitania%20e%20la%20Cirenaica%20sono%20poste%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20Regno%20dItalia.%20012U0083.md); 
  
- Vista la [legge 6 luglio 1912, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;749), e il [R. decreto 20 marzo 1912, n. 1205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-20;1205); 
+ Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), e il [R. decreto 20 marzo 1912, n. 1205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-20;1205); 
  
- Visto il [R. decreto 22 giugno 1913, n. 841](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;841), che approva il regolamento carcerario per la Tripolitania e la Cirenaica; 
+ Visto il [R. decreto 22 giugno 1913, n. 841](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20carcerario%20per%20la%20Tripolitania%20e%20per%20la%20Cirenaica.%20013U0841.md), che approva il regolamento carcerario per la Tripolitania e la Cirenaica; 
  
  Sentito il Consiglio dei ministri; 
  

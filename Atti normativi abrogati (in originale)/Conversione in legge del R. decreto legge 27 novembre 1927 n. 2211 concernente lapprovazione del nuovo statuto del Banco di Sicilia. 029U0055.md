@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 novembre 1927, n. 2211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-27;2211), concernente l'approvazione del nuovo statuto del Banco di Sicilia. 
+ E' convertito in legge il [R. decreto-legge 27 novembre 1927, n. 2211](Approvazione%20dello%20statuto%20del%20Banco%20di%20Sicilia.%20027U2211.md), concernente l'approvazione del nuovo statuto del Banco di Sicilia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

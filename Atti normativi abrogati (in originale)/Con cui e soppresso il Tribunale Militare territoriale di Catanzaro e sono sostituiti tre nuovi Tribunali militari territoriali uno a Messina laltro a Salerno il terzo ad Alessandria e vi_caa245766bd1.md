@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il Regio Decreto, in data 13 novembre 1870, che determina una nuova circoscrizione militare territoriale a datare dal 16 dicembre 1870;
 
-Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'Esercito, in data 28 novembre 1869;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito, in data 28 novembre 1869;
 
 Sulla proposizione del Nostro Ministro della Guerra; Abbiamo decretato e decretiamo:
 

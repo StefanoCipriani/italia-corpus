@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 1° novembre 1876, n. 3450](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-11-01;3450);
+Visto il [R. decreto 1° novembre 1876, n. 3450](Concernente%20le%20indennita%20di%20trasferimento%20agli%20impiegati%20civili.%20076U3450.md);
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del presidente del Consiglio dei ministri, di concerto col minist
 
 ## Art. 1.
 
-Le indennita' di trasferimento, di cui al [R. decreto 1° novembre 1876, n. 3450](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-11-01;3450), non spettano all'impiegato, il quale trovisi residenza ove e' stato destinato, e parimenti non spettano alla famiglia od a parte di questa, che pure si trovi gia' in detta residenza.
+Le indennita' di trasferimento, di cui al [R. decreto 1° novembre 1876, n. 3450](Concernente%20le%20indennita%20di%20trasferimento%20agli%20impiegati%20civili.%20076U3450.md), non spettano all'impiegato, il quale trovisi residenza ove e' stato destinato, e parimenti non spettano alla famiglia od a parte di questa, che pure si trovi gia' in detta residenza.
 
 ## Art. 2.
 
@@ -40,7 +40,7 @@ Nel caso che l'impiegato, anche con la famiglia, o parte di questa, si trovi in 
 
 ## Art. 4.
 
-Agli impiegati ed agenti di basso servizio collocati a riposo spettano le indennita', di trasloco di cui al [R. decreto 1° novembre 1876, n. 3450](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-11-01;3450), per recarsi nella residenza di loro elezione, anche quando lascino la localita' che fu la loro ultima sede ufficiale, prima che abbia avuto luogo il decreto di collocamento a riposo, ma dopo aver presentato la relativa domanda ed essere stati regolarmente dispensati dai loro obblighi d'ufficio.
+Agli impiegati ed agenti di basso servizio collocati a riposo spettano le indennita', di trasloco di cui al [R. decreto 1° novembre 1876, n. 3450](Concernente%20le%20indennita%20di%20trasferimento%20agli%20impiegati%20civili.%20076U3450.md), per recarsi nella residenza di loro elezione, anche quando lascino la localita' che fu la loro ultima sede ufficiale, prima che abbia avuto luogo il decreto di collocamento a riposo, ma dopo aver presentato la relativa domanda ed essere stati regolarmente dispensati dai loro obblighi d'ufficio.
 
 ## Art. 5.
 

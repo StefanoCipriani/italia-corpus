@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 10 della legge 31 luglio 1959, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-31;617#art_10), istitutiva del Ministero del turismo e dello spettacolo;
+Visto l'[art. 10 della legge 31 luglio 1959, n. 617](Istituzione%20del%20Ministero%20del%20turismo%20e%20dello%20spettacolo.md), istitutiva del Ministero del turismo e dello spettacolo;
 
-Udito il parere della Commissione parlamentare di cui all'[art. 10 della legge 31 luglio 1959, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-31;617#art_10);
+Udito il parere della Commissione parlamentare di cui all'[art. 10 della legge 31 luglio 1959, n. 617](Istituzione%20del%20Ministero%20del%20turismo%20e%20dello%20spettacolo.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il turismo e lo spettacolo, di concerto con i Mi
 
 ## Art. 1.
 
-Gli Enti provinciali per il turismo, istituiti con il [regio decreto-legge 20 giugno 1935, n. 1425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1425), convertito nella [legge 3 febbraio 1936, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-02-03;413), sono dotati di autonomia amministrativa ed hanno personalita' giuridica di diritto pubblico.
+Gli Enti provinciali per il turismo, istituiti con il [regio decreto-legge 20 giugno 1935, n. 1425](Nuovo%20ordinamento%20degli%20organi%20provinciali%20per%20il%20turismo.%20035U1425.md), convertito nella [legge 3 febbraio 1936, n. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201425%20concernente%20il%20nuovo%20ordinamento%20degli%20organi%20provinciali%20per%20il%20turismo.%20036U0413.md), sono dotati di autonomia amministrativa ed hanno personalita' giuridica di diritto pubblico.
  Essi hanno sede in ciascun capoluogo di Provincia e sono sottoposti alla vigilanza del Ministero del turismo e dello spettacolo.
 
 ## Art. 2.

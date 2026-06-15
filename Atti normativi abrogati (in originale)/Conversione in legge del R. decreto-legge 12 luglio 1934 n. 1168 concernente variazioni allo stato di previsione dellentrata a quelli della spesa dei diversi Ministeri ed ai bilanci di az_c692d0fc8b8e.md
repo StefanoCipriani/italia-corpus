@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 luglio 1934, n. 1168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-12;1168), concernente variazioni allo stato di previsione dell'entrata, a quelli della spesa, dei diversi Ministeri ed ai bilanci di aziende autonome per l'esercizio finanziario 1934-1935, ed e' convalidato il decreto Reale 20 luglio 1934, n. 1191, relativo a prelevamento dal fondo di riserva per le spese impreviste, inscritto nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio medesimo. 
+ E' convertito in legge il [R. decreto-legge 12 luglio 1934, n. 1168](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20ed%20in%20quelli%20della%20spesa%20dl%20diversi%20Ministeri%20nonche%20in%20alcuni%20bilanci%20di%20Aziende%20autonome%20per%20lesercizio%20finanziario%201934-35%20ed%20altri%20prov_15088ce78021.md), concernente variazioni allo stato di previsione dell'entrata, a quelli della spesa, dei diversi Ministeri ed ai bilanci di aziende autonome per l'esercizio finanziario 1934-1935, ed e' convalidato il decreto Reale 20 luglio 1934, n. 1191, relativo a prelevamento dal fondo di riserva per le spese impreviste, inscritto nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio medesimo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

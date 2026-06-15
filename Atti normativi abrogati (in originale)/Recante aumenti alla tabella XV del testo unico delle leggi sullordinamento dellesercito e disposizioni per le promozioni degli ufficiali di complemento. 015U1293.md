@@ -20,19 +20,19 @@ Alla tabella XV annessa al testo unico delle leggi sull'ordinamento nel R. eserc
 
 ## Art. 2.
 
-Durante la guerra potranno essere destinati a comandi o servizi territoriali e collocati a disposizione, in soprannumero alla tabella XV annessa al [testo unico delle leggi sull'ordinamento militare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-03-15;90), i colonnelli in servizio attivo permanente, che abbiano cessato di appartenere a comandi, truppe o servizi presso le truppe mobilitate. 
+Durante la guerra potranno essere destinati a comandi o servizi territoriali e collocati a disposizione, in soprannumero alla tabella XV annessa al [testo unico delle leggi sull'ordinamento militare](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), i colonnelli in servizio attivo permanente, che abbiano cessato di appartenere a comandi, truppe o servizi presso le truppe mobilitate. 
  
  Quelli di essi, che hanno cessato di appartenervi, perche' ritenuti non idonei alle funzioni del grado superiore, dovranno essere eliminati dal servizio attivo permanente, non appena possibile, dopo il termine della guerra, e ad ogni modo non oltre il 31 dicembre 1916; quelli invece che hanno cessato per altre cause, dovranno rientrare in organico nello stesso limite di tempo.
 
 ## Art. 3.
 
-I sottotenenti di complemento di fanteria, cavalleria, artiglieria e genio appartenenti a corpi e riparti dell'esercito operante, potranno essere nominati effettivi indipendentemente dai titoli di studio e dagli esami richiesti dall'[art. 3 della legge 8 giugno 1913, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_3). 
+I sottotenenti di complemento di fanteria, cavalleria, artiglieria e genio appartenenti a corpi e riparti dell'esercito operante, potranno essere nominati effettivi indipendentemente dai titoli di studio e dagli esami richiesti dall'[art. 3 della legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md). 
  
  I sottotenenti ed i tenenti del corpo sanitario e veterinario potranno essere nominati tenenti effettivi prescindendo da ogni esame.
 
 ## Art. 4.
 
-I tenenti di complemento di fanteria, cavalleria, artiglieria e genio appartenenti a corpi e riparti dell'esercito operante, ed i quali contino non meno di 24 mesi di servizio effettivo, come ufficiali di complemento, e non oltrepassino il 32° anno di eta', potranno essere nominati effettivi, indipendentemente dai titoli di studio e dalla condizione richiesta dall'[art. 6 della legge 8 giugno 1913, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601#art_6).
+I tenenti di complemento di fanteria, cavalleria, artiglieria e genio appartenenti a corpi e riparti dell'esercito operante, ed i quali contino non meno di 24 mesi di servizio effettivo, come ufficiali di complemento, e non oltrepassino il 32° anno di eta', potranno essere nominati effettivi, indipendentemente dai titoli di studio e dalla condizione richiesta dall'[art. 6 della legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md).
 
 ## Art. 5.
 
@@ -60,7 +60,7 @@ Agli ufficiali di complemento del corpo veterinario, nominati in base all'[art. 
 
 ## Art. 10.
 
-Il [primo comma dell'art. 47 della legge 2 luglio 1896, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254#art_47-com1), sull'avanzamento nel R. esercito, modificato con [legge 6 marzo 1898, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;50), viene, per la durata della guerra, sostituito dal seguente: 
+Il [primo comma dell'art. 47 della legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito, modificato con [legge 6 marzo 1898, n. 50](Che%20porta%20modificazioni%20ad%20alcuni%20articoli%20di%20quella%20sullavanzamento%20nel%20R.%20Esercito.%20098U0050.md), viene, per la durata della guerra, sostituito dal seguente: 
  
  «I sottotenenti ed i tenenti di complemento di qualunque provenienza, possono essere promossi, rispettivamente, tenenti e capitani per anzianita'. Gli ufficiali di complemento provenienti da quelli dispensati dal servizio attivo permanente, possono essere promossi, per anzianita', al grado immediatamente superiore all'ultimo coperto durante il servizio stesso».
 

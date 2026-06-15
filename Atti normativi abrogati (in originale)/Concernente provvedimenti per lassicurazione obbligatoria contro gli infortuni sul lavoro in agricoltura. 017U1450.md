@@ -222,7 +222,7 @@ Davanti le Commissioni compartimentali arbitrali e davanti la Commissione centra
  
  Le Commissioni, ricevuto il ricorso, provvedono esse stesse, in quanto occorra, a tutti gli atti di istruzione della causa. 
  
- Per il procedimento si osserveranno le disposizioni della [legge 15 giugno 1893, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-15;295), e del [regolamento 26 aprile 1894, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1894-04-26;179), sui Collegi di probiviri, in quanto siano applicabili, e le ulteriori norme procedurali che saranno stabilite nel regolamento. 
+ Per il procedimento si osserveranno le disposizioni della [legge 15 giugno 1893, n. 295](Sulla%20istituzione%20dei%20Collegi%20di%20probi-viri.%20093U0295.md), e del [regolamento 26 aprile 1894, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1894-04-26;179), sui Collegi di probiviri, in quanto siano applicabili, e le ulteriori norme procedurali che saranno stabilite nel regolamento. 
  
  Tutti gli atti del procedimento avanti le Commissioni e tutti i provvedimenti di qualunque natura dalle Commissioni stesse emanati, sono esenti da tassa di bollo e di registro. 
  
@@ -252,7 +252,7 @@ Chiunque mediante ritenute sui salari, dirette o indirette, fa concorrere il lav
 
 Il lavoratore non puo', senza giustificato motivo, rifiutarsi, dietro richiesta ed a spese dell'Istituto assicuratore, di sottostare alle cure che l'Istituto stesso ritenga necessarie, e di entrare e tal fine in qualsiasi clinica, ospedale od altro luogo di cura che sia indicato dall'Istituto assicuratore. Fra tali cure non si intendono comprese le operazioni chirurgiche, salvo i minori atti operativi. In caso di ingiustificato rifiuto, puo' essere negata in tutto o in parte l'indennita', salvo, in caso di contestazione, il giudizio arbitrale. 
  
- Il lavoratore, il quale abbia simulato l'infortunio o ne abbia dolosamente aggravate le conseguenze, perde il diritto ad ogni indennizzo ed e' sottoposto alle penalita' comminate dagli [articoli 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_413) e [414 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_414).
+ Il lavoratore, il quale abbia simulato l'infortunio o ne abbia dolosamente aggravate le conseguenze, perde il diritto ad ogni indennizzo ed e' sottoposto alle penalita' comminate dagli [articoli 413](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [414 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 19.
 
@@ -280,7 +280,7 @@ Fanno parte del Consiglio superiore della Cassa nazionale per gli infortuni sul 
 
 ### Art. 23.
 
-II Ministro dell'industria, commercio e lavoro, d'accordo con gli Istituti fondatori della Cassa nazionale per gli infortuni, apportera' alla convenzione del 16 giugno 1911, approvata con la [legge del 28 marzo 1912, n. 304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-03-28;304), tutte le modificazioni ed aggiunte rese necessarie ed opportune dal presente decreto.
+II Ministro dell'industria, commercio e lavoro, d'accordo con gli Istituti fondatori della Cassa nazionale per gli infortuni, apportera' alla convenzione del 16 giugno 1911, approvata con la [legge del 28 marzo 1912, n. 304](Che%20approva%20la%20convenzione%2016%20giugno%201911%20stipulata%20con%20gli%20Istituti%20fondatori%20della%20Cassa%20nazionale%20dassicurazione%20per%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20012U0304.md), tutte le modificazioni ed aggiunte rese necessarie ed opportune dal presente decreto.
 
 ### Art. 24.
 

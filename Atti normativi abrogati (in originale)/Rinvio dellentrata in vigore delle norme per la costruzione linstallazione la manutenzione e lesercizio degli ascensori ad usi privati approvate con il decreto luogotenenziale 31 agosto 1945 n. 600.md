@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 24 ottobre 1942, n. 1415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-24;1415);
+Vista la [legge 24 ottobre 1942, n. 1415](Impianto%20ed%20esercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.%20042U1415.md);
 
 Visto il [decreto luogotenenziale 31 agosto 1945, numero 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;600);
 
-Visto l'[art. 4 del decreto legislativo luogotenenziale 1° marzo 1945, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;82#art_4);
+Visto l'[art. 4 del decreto legislativo luogotenenziale 1° marzo 1945, n. 82](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20045U0082.md);
 
 Sentito il Consiglio dei Ministri;
 

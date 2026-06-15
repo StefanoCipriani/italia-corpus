@@ -78,7 +78,7 @@ Ove ricorrano circostanze di carattere eccezionale, il Ministro per la stampa e 
 
 ## Art. 7.
 
-Per l'avanzamento degli Addetti stampa si applica il disposto dell'[art. 6 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_6). 
+Per l'avanzamento degli Addetti stampa si applica il disposto dell'[art. 6 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Durante il periodo di prova di cui all'art. 17 del citato R. decreto n. 2395, compete all'Addetto stampa, in luogo dello stipendio e del supplemento del servizio attivo un assegno mensile in ragione di un dodicesimo dello stipendio iniziale del grado.
 

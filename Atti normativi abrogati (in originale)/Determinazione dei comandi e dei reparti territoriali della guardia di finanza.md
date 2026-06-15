@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-04-23;189#art_3) e [6 della legge 23 aprile 1959, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-04-23;189#art_6), concernente l'ordinamento del Corpo della guardia di finanza;
 
-Vista la [legge 18 febbraio 1963, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-18;87), concernente l'ordinamento della guardia di finanza;
+Vista la [legge 18 febbraio 1963, n. 87](Ordinamento%20della%20Guardia%20di%20finanza.md), concernente l'ordinamento della guardia di finanza;
 
 Vista la [legge 31 marzo 1966, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-03-31;200), che ha modificato l'art. 6 della predetta [legge n. 189 del 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959;189);
 

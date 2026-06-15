@@ -60,7 +60,7 @@ A corredo delle domande, gli ufficiali predetti dovranno unire copia dello stato
  
  I candidati ex combattenti presenteranno, oltre alla detta copia dello stato di servizio, o del foglio matricolare, annotata delle benemerenze di guerra, anche la prescritta dichiarazione integrativa dei servizi resi in zona di operazioni. 
  
- Gli invalidi di guerra dovranno presentare inoltre il certificato, modello 69, rilasciato dal Ministero delle finanze (Direzione generale delle pensioni di guerra), ovvero una dichiarazione rilasciata dalla competente rappresentanza provinciale degli invalidi di guerra in cui siano anche indicati i documenti in base ai quali sia stata riconosciuta la loro qualita' di invalido, ai fini dell'iscrizione nei ruoli provinciali di cui all'[art. 3 della legge 21 agosto 1921, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-21;1312#art_3). 
+ Gli invalidi di guerra dovranno presentare inoltre il certificato, modello 69, rilasciato dal Ministero delle finanze (Direzione generale delle pensioni di guerra), ovvero una dichiarazione rilasciata dalla competente rappresentanza provinciale degli invalidi di guerra in cui siano anche indicati i documenti in base ai quali sia stata riconosciuta la loro qualita' di invalido, ai fini dell'iscrizione nei ruoli provinciali di cui all'[art. 3 della legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md). 
  
  Gli orfani di guerra ed i figli degli invalidi di guerra, dovranno dimostrare la loro qualita' mediante certificato rilasciato dalla competente autorita'. 
  

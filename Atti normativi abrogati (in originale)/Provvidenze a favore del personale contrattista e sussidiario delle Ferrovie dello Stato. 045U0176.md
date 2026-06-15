@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I seguenti articoli del regolamento del personale delle Ferrovie dello Stato, approvato con [R. decreto-legge 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-07;405); e modificato col [R. decreto-legge 17 novembre 1938, n. 1785](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-17;1785), sono cosi' sostituiti: 
+I seguenti articoli del regolamento del personale delle Ferrovie dello Stato, approvato con [R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md); e modificato col [R. decreto-legge 17 novembre 1938, n. 1785](Aggiunte%20e%20modificazioni%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato%20approvato%20con%20R.%20decreto-legge%207%20aprile%201925%20n.%20405%20convertito%20nella%20legge%2021%20marzo%201926%20n.%20597%20e%20successi_a90e48c94169.md), sono cosi' sostituiti: 
  
  Art. 18. - «Al personale sussidiario, dopo un anno di servizio continuativo, e' concesso, per ciascun anno solare, un congedo ordinario, con titolo alla paga e all'aggiunta di famiglia ed esclusa ogni altra competenza, eguale a quello previsto dall'art. 65 per il personale di ruolo di corrispondente grado e qualifica, che non abbia compiuto dieci anni di servizio. 
  
@@ -28,7 +28,7 @@ Art. 19. - «Durante le assenze per malattia accertate dai sanitari dell'Amminis
 
 ## Art. 2.
 
-L'[art. 17 del R. decreto 29 gennaio 1942, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-29;286#art_17), che approva il regolamento per le concessioni di viaggio sulle Ferrovie dello Stato, e' cosi' modificato: 
+L'[art. 17 del R. decreto 29 gennaio 1942, n. 286](Approvazione%20del%20regolamento%20per%20le%20concessioni%20di%20viaggio%20sulle%20Ferrovie%20dello%20Stato.%20042U0286.md), che approva il regolamento per le concessioni di viaggio sulle Ferrovie dello Stato, e' cosi' modificato: 
  
  «Al personale in attivita' di servizio delle Ferrovie dello Stato spettano per ogni anno solare: 
  
@@ -62,7 +62,7 @@ L'[art. 17 del R. decreto 29 gennaio 1942, n. 286](https://www.normattiva.it/uri
  
  Il personale non di ruolo dopo i primi sei mesi di servizio ininterrotto ha titolo allo stesso trattamento previsto per il personale di ruolo di pari grado avente l'anzianita' di servizio inferiore a dieci anni. 
  
- I gradi di cui ai numeri 1 e 2 si riferiscono ai quadri di classificazione allegati ai [Regi decreti-legge 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-07;405), e [17 novembre 1938, n. 1785](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-17;1785). 
+ I gradi di cui ai numeri 1 e 2 si riferiscono ai quadri di classificazione allegati ai [Regi decreti-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), e [17 novembre 1938, n. 1785](Aggiunte%20e%20modificazioni%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato%20approvato%20con%20R.%20decreto-legge%207%20aprile%201925%20n.%20405%20convertito%20nella%20legge%2021%20marzo%201926%20n.%20597%20e%20successi_a90e48c94169.md). 
  
  Agli effetti delle suddette concessioni, nel computo della anzianita' di servizio per il personale di ruolo, si deve tener conto del periodo di avventizio e di servizio militare prestato prima della nomina a ruolo». 
  

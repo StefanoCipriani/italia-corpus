@@ -80,7 +80,7 @@ L'approvazione dei progetti di opere pubbliche resa ai sensi del comma 1 ha valo
 
 3.
 
-Le disposizioni di cui all'[articolo 10 del decreto-legge 5 febbraio 1990, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-02-05;16#art_10), convertito, con modificazioni, dalla [legge 5 aprile 1990, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71), si applicano anche agli stabilimenti ospedalieri e alle aziende turistiche ricettive.
+Le disposizioni di cui all'[articolo 10 del decreto-legge 5 febbraio 1990, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-02-05;16#art_10), convertito, con modificazioni, dalla [legge 5 aprile 1990, n. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20febbraio%201990%20n.%2016%20recante%20misure%20urgenti%20per%20il%20miglioramento%20qualitativo%20e%20per%20la%20prevenzione%20dellinquinamento%20delle%20acque.md), si applicano anche agli stabilimenti ospedalieri e alle aziende turistiche ricettive.
 
 4.
 
@@ -95,7 +95,7 @@ All'[articolo 6 della legge 26 luglio 1984, n. 413](https://www.normattiva.it/ur
 
 1.
 
-Per le finalita' di cui all'articolo 2, comma 1, lettere c) e d), i comuni di Venezia e di Chioggia sono autorizzati a stipulare permute riguardanti aree o fabbricati demaniali con le modalita' indicate all'[articolo 4, ottavo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-18;497#art_4-com8) e [nono comma, della legge 18 agosto 1978, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-18;497#art_4-com9), come sostituito dall'[articolo 1 della legge 28 febbraio 1981, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-02-28;47#art_1); ai predetti comuni e' altresi' attribuita priorita' nelle concessioni di immobili demaniali e prelazione, da esercitarsi entro il termine di sessanta giorni dall'offerta, nelle compra-vendite di immobili appartenenti al patrimonio dello Stato.
+Per le finalita' di cui all'articolo 2, comma 1, lettere c) e d), i comuni di Venezia e di Chioggia sono autorizzati a stipulare permute riguardanti aree o fabbricati demaniali con le modalita' indicate all'[articolo 4, ottavo](Autorizzazione%20di%20spesa%20per%20la%20costruzione%20di%20alloggi%20di%20servizio%20per%20il%20personale%20militare%20e%20disciplina%20delle%20relative%20concessioni.md) e [nono comma, della legge 18 agosto 1978, n. 497](Autorizzazione%20di%20spesa%20per%20la%20costruzione%20di%20alloggi%20di%20servizio%20per%20il%20personale%20militare%20e%20disciplina%20delle%20relative%20concessioni.md), come sostituito dall'[articolo 1 della legge 28 febbraio 1981, n. 47](Modifiche%20ed%20integrazioni%20alle%20leggi%2018%20agosto%201978%20n.%20497%20e%205%20agosto%201978%20n.%20457%20dirette%20a%20facilitare%20lacquisizione%20da%20parte%20del%20Ministero%20della%20difesa%20di%20immobili%20da%20destinare%20ad%20allogg_3d4825107f4e.md); ai predetti comuni e' altresi' attribuita priorita' nelle concessioni di immobili demaniali e prelazione, da esercitarsi entro il termine di sessanta giorni dall'offerta, nelle compra-vendite di immobili appartenenti al patrimonio dello Stato.
 
 2.
 
@@ -105,11 +105,11 @@ Il compendio demaniale individuato dalla [legge 20 dicembre 1967, n. 1266](https
 
 1.
 
-I fondi iscritti nello stato di previsione del Ministero dei lavori pubblici negli anni 1989 e 1990 ai sensi degli [articoli 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183#art_30) e [31 della legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183#art_31), e degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;253#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;253#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;253#art_14) e [15 della legge 7 agosto 1990, n. 253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;253#art_15), non ancora impegnati alla data del 31 dicembre 1990 possono esserlo nell'anno 1991.
+I fondi iscritti nello stato di previsione del Ministero dei lavori pubblici negli anni 1989 e 1990 ai sensi degli [articoli 30](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md) e [31 della legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md), e degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;253#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;253#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;253#art_14) e [15 della legge 7 agosto 1990, n. 253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;253#art_15), non ancora impegnati alla data del 31 dicembre 1990 possono esserlo nell'anno 1991.
 
 2.
 
-L'autorizzazione di spesa di cui all'[articolo 16, comma 5, della legge 7 agosto 1990, n. 253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;253#art_16-com5), e' integrata di lire 1.500 milioni per gli anni 1991 e seguenti. Al predetto onere si provvede mediante riduzione dello stanziamento iscritto al capitolo 6875 dello stato di previsione del Ministero del tesoro per l'anno 1991 e corrispondenti capitoli per gli anni successivi, intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 24, comma 2, della legge 18 maggio 1989, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183#art_24-com2).
+L'autorizzazione di spesa di cui all'[articolo 16, comma 5, della legge 7 agosto 1990, n. 253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;253#art_16-com5), e' integrata di lire 1.500 milioni per gli anni 1991 e seguenti. Al predetto onere si provvede mediante riduzione dello stanziamento iscritto al capitolo 6875 dello stato di previsione del Ministero del tesoro per l'anno 1991 e corrispondenti capitoli per gli anni successivi, intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 24, comma 2, della legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md).
 
 3.
 
@@ -123,7 +123,7 @@ All'onere derivante dall'attuazione del comma 3 si provvede mediante corrisponde
 
 1.
 
-Su proposta del Ministro del bilancio e della programmazione economica, le risorse resesi disponibili a seguito di provvedimenti di revoca adottati dal CIPE a carico di progetti finanziati sul Fondo investimenti ed occupazione fino al 1989 possono essere riassegnate dal CIPE stesso a progetti immediatamente eseguibili ammessi a finanziamento per lo stesso anno 1989 ai sensi dell'[articolo 17, comma 34, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_17-com34), anche in deroga alle vigenti disposizioni in materia.
+Su proposta del Ministro del bilancio e della programmazione economica, le risorse resesi disponibili a seguito di provvedimenti di revoca adottati dal CIPE a carico di progetti finanziati sul Fondo investimenti ed occupazione fino al 1989 possono essere riassegnate dal CIPE stesso a progetti immediatamente eseguibili ammessi a finanziamento per lo stesso anno 1989 ai sensi dell'[articolo 17, comma 34, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), anche in deroga alle vigenti disposizioni in materia.
 
 2.
 
@@ -145,7 +145,7 @@ Il contributo a titolo di solidarieta' nazionale, di cui all'articolo 38 dello s
 
 2.
 
-La somma per spese sostenute dallo Stato per conto della regione, ai sensi dell'[articolo 3 del decreto legislativo 12 aprile 1948, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-12;507#art_3), ratificato con [legge 17 aprile 1956, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-04-17;561), dovuta a titolo di rimborso della regione viene determinata in via definitiva, per l'anno 1989, nell'importo di lire 18 miliardi.
+La somma per spese sostenute dallo Stato per conto della regione, ai sensi dell'[articolo 3 del decreto legislativo 12 aprile 1948, n. 507](../Decreti%20Legislativi/Disciplina%20provvisoria%20dei%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20la%20Regione%20siciliana.md), ratificato con [legge 17 aprile 1956, n. 561](../Leggi%20di%20ratifica/Ratifica%20ai%20sensi%20dellart.%206%20del%20decreto%20legislativo%20luogotenenziale%2016%20marzo%201946%20n.%2098%20di%20decreti%20legislativi%20emanati%20dal%20Governo%20durante%20il%20periodo%20della%20Costituente.md), dovuta a titolo di rimborso della regione viene determinata in via definitiva, per l'anno 1989, nell'importo di lire 18 miliardi.
 
 3.
 
@@ -155,7 +155,7 @@ All'onere derivante dall'attuazione del presente articolo, valutato in lire 1.45
 
 1.
 
-Sono prorogate per l'anno finanziario 1990 le disposizioni della [legge 24 giugno 1974, n. 268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-24;268); al finanziamento degli interventi ivi previsti e' destinata per l'anno 1990 la somma di lire 250 miliardi.
+Sono prorogate per l'anno finanziario 1990 le disposizioni della [legge 24 giugno 1974, n. 268](Rifinanziamento%20integrazione%20e%20modifica%20della%20legge%2011%20giugno%201962%20n.%20588%20piano%20straordinario%20per%20la%20rinascita%20economica%20e%20sociale%20della%20Sardegna%20e%20riforma%20dellassetto%20agropastorale%20in%20Sardegna.md); al finanziamento degli interventi ivi previsti e' destinata per l'anno 1990 la somma di lire 250 miliardi.
 La regione autonoma della Sardegna ripartisce le risorse destinandole al finanziamento degli interventi previsti dalla medesima legge.
 
 2.

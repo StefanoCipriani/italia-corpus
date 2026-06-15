@@ -53,13 +53,13 @@ Ogni falsita' commessa:
  1° Fabbricando, contraffacendo o alterando il marchio pubblico;  
  2° Imprimendolo o trasportandolo sopra oggetti ai quali non sia stato apposto dal pubblico saggiatore; 
  
- E' punita con le pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per la contraffazione dei bolli e punzoni governativi destinati al marchio delle materie d'oro e d'argento.
+ E' punita con le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la contraffazione dei bolli e punzoni governativi destinati al marchio delle materie d'oro e d'argento.
 
 ## Art. 7.
 
 La falsa dichiarazione che un oggetto portato al marchio e' di massa omogenea, o che non nasconde materie estranee, sara' punita con la pena del carcere estensibile ad un anno. 
  
- Quando mediante la detta falsa dichiarazione si riesca a far marchiare dal saggiatore un oggetto che nasconde materie estranee o che e' formato di massa non omogenea, ovvero quando si alterano una o piu' parti dell'oggetto gia' marchiato, o vi si nascondono materie estranee, il colpevole sara' punito con le pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'alterazione delle monete, diminuite di un grado.
+ Quando mediante la detta falsa dichiarazione si riesca a far marchiare dal saggiatore un oggetto che nasconde materie estranee o che e' formato di massa non omogenea, ovvero quando si alterano una o piu' parti dell'oggetto gia' marchiato, o vi si nascondono materie estranee, il colpevole sara' punito con le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'alterazione delle monete, diminuite di un grado.
 
 ## Art. 8.
 

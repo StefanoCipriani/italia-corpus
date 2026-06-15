@@ -285,7 +285,7 @@ Per la ricerca e per gli estratti delle registrazioni accennate dall'articolo 74
  
  Per l'applicazione della presente tariffa, s'intende per un atto registrato da cui si estrae la copia o l'estratto il documento intero o il contratto complessivo sottoposto alla registrazione, sebbene vi siano riuniti piu' patti o piu' stipulazioni. 
  
- La esazione di diritti non espressamente compresi in questo articolo per le ricerche di atti, o per la emissione di estratti o copie, dara' luogo all'applicazione di rigorose misure disciplinari, salvo le maggiori pene stabilite dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ La esazione di diritti non espressamente compresi in questo articolo per le ricerche di atti, o per la emissione di estratti o copie, dara' luogo all'applicazione di rigorose misure disciplinari, salvo le maggiori pene stabilite dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Per le ricerche e per le edizioni di estratti o copie di atti stati deposti, insinuati o registrati sotto l'impero delle leggi anteriori alla nuova legge di registro si esigeranno i diritti stabiliti dalle leggi o regolamenti anteriori.
 

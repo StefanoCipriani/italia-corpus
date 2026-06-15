@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 dicembre 1926, n. 2486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-26;2486), concernente l'approvazione della convenzione col Reale Automobile Club d'Italia per la riscossione delle tasse sugli autoveicoli e sugli autoscafi. 
+ E' convertito in legge il [R. decreto-legge 26 dicembre 1926, n. 2486](Approvazione%20della%20convenzione%20con%20lAutomobile%20Club%20dItalia%20per%20la%20riscossione%20delle%20tasse%20sugli%20autoveicoli%20e%20sugli%20autoscafi.%20026U2486.md), concernente l'approvazione della convenzione col Reale Automobile Club d'Italia per la riscossione delle tasse sugli autoveicoli e sugli autoscafi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

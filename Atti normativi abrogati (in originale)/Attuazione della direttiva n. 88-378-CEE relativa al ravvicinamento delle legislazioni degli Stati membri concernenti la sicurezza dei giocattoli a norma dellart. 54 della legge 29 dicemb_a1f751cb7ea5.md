@@ -231,11 +231,11 @@ Chiunque viola le disposizioni di cui ai commi 2, 3, 4 e 5 dell'art. 9 e' sogget
 
 1.
 
-La [legge 18 febbraio 1983, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-02-18;46), e' abrogata.
+La [legge 18 febbraio 1983, n. 46](Prescrizioni%20per%20la%20fabbricazione%20e%20la%20commercializzazione%20nel%20territorio%20della%20Repubblica%20italiana%20dei%20giocattoli%20fabbricati%20o%20importati%20in%20Italia.md), e' abrogata.
 
 2.
 
-Le stazioni sperimentali, indicate all'[art. 4 della legge 18 febbraio 1983, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-02-18;46#art_4), e gli organismi designati con decreto del Ministro dell'industria, del commercio e dell'artigianato, ai sensi di detto articolo, si ritengono provvisoriamente autorizzati ai sensi dell'art. 7 del presente decreto. I predetti, entro dodici mesi dalla data di entrata in vigore del presente decreto, dovranno presentare istanza di riconferma con le modalita' di cui all'art. 6, comma 1.
+Le stazioni sperimentali, indicate all'[art. 4 della legge 18 febbraio 1983, n. 46](Prescrizioni%20per%20la%20fabbricazione%20e%20la%20commercializzazione%20nel%20territorio%20della%20Repubblica%20italiana%20dei%20giocattoli%20fabbricati%20o%20importati%20in%20Italia.md), e gli organismi designati con decreto del Ministro dell'industria, del commercio e dell'artigianato, ai sensi di detto articolo, si ritengono provvisoriamente autorizzati ai sensi dell'art. 7 del presente decreto. I predetti, entro dodici mesi dalla data di entrata in vigore del presente decreto, dovranno presentare istanza di riconferma con le modalita' di cui all'art. 6, comma 1.
 
 3.
 

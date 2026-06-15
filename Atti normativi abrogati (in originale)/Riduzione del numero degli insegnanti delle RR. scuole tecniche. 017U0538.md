@@ -12,4 +12,4 @@ vigente: true
 
 N. 538 
  
- Decreto Luogotenenziale 1° marzo 1917, col quale, sulla proposta del ministro dell'istruzione pubblica, di concerto con quello del tesoro, in applicazione dell'[art. 56 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_56), viene ridotto il numero degli insegnanti delle RR. scuole tecniche, stabilito col decreto Luogotenenziale 30 gennaio 1916 e variato con i successivi decreti Luogotenenziali 14 luglio 1916 e 15 ottobre 1916.
+ Decreto Luogotenenziale 1° marzo 1917, col quale, sulla proposta del ministro dell'istruzione pubblica, di concerto con quello del tesoro, in applicazione dell'[art. 56 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), viene ridotto il numero degli insegnanti delle RR. scuole tecniche, stabilito col decreto Luogotenenziale 30 gennaio 1916 e variato con i successivi decreti Luogotenenziali 14 luglio 1916 e 15 ottobre 1916.

@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Visto l'[art. 8 del decreto Luogotenenziale 19 giugno 1919, n. 973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-19;973#art_8); 
  
- Visto l'[art. 2, lett. b) del R. decreto 20 luglio 1919, n. 1232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-20;1232#art_2-letb); 
+ Visto l'[art. 2, lett. b) del R. decreto 20 luglio 1919, n. 1232](Che%20concede%20una%20nuova%20indennita%20mensile%20di%20caro-viveri%20al%20personale%20straordinario%20avventizio%20ed%20assimilato%20in%20servizio%20presso%20ciascuna%20amministrazione%20dello%20Stato.%20019U1232.md); 
  
  Sentito il Consiglio dei ministri; 
  

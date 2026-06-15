@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 agosto 1932, n. 1030](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-08-25;1030); che ha dato esecuzione all'Accordo addizionale al Trattato di commercio e di navigazione italo-romeno del 25 febbraio 1930 ed Atti annessi, Accordo ed Atti firmati in Roma il 24 agosto 1932. 
+ E' convertito in legge il [R. decreto-legge 25 agosto 1932, n. 1030](Esecuzione%20dellAccordo%20addizionale%20al%20Trattato%20di%20commercio%20e%20di%20navigazione%20italo-romeno%20del%2025%20febbraio%201930.%20032U1030.md); che ha dato esecuzione all'Accordo addizionale al Trattato di commercio e di navigazione italo-romeno del 25 febbraio 1930 ed Atti annessi, Accordo ed Atti firmati in Roma il 24 agosto 1932. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

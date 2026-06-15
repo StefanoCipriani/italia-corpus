@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 settembre 1924, n. 1495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-09-18;1495): «Riapertura del termine per la revisione del personale giudiziario gia' appartenente alla cessata Amministrazione austriaca». 
+ E' convertito in legge il [R. decreto-legge 18 settembre 1924, n. 1495](Riapertura%20del%20termine%20per%20la%20revisione%20del%20personale%20giudiziario%20gia%20appartenente%20alla%20cessata%20Amministrazione%20austriaca.%20024U1495.md): «Riapertura del termine per la revisione del personale giudiziario gia' appartenente alla cessata Amministrazione austriaca». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

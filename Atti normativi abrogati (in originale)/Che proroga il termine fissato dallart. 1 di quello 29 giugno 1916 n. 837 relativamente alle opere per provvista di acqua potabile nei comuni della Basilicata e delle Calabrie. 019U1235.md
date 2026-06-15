@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduti gli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445#art_19) e [41 della legge 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445#art_41) e l'[art. 13 della legge 25 giugno 1911, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586#art_13), concedenti agevolazioni ai comuni della Basilicata e della Calabria per le opere di provvista di acqua potabile;
+Veduti gli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445#art_19) e [41 della legge 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445#art_41) e l'[art. 13 della legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), concedenti agevolazioni ai comuni della Basilicata e della Calabria per le opere di provvista di acqua potabile;
 
 Veduti i nostri decreti 29 giugno 1916, n. 837 e 26 maggio 1918, n. 782, in virtu' dei quali i termini fissati ai citati articoli 19 e 41 della legge 9 luglio 1908, numero, 445, vennero successivamente unificati e prorogati al 30 giugno 1919;
 

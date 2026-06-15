@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Articolo unico.
 
-Sono pubblicati ed hanno vigore nei territori confinanti ed aggregati alla provincia di Fiume, di cui all'art. 2 del decreto-legge 18 maggio 1941-XIX, n. 452, il R. decreto-legge 19 ottobre 1938-XVI, n. 1933, convertito, con modificazioni, nella [legge 5 giugno 1939, n. 973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-05;973), sul lotto pubblico, con le modificazioni che successivamente vi sono state apportate, e il regolamento sui servizi del lotto approvato col R. decreto 25 luglio 1940-XVIII, n. 1077. 
+Sono pubblicati ed hanno vigore nei territori confinanti ed aggregati alla provincia di Fiume, di cui all'art. 2 del decreto-legge 18 maggio 1941-XIX, n. 452, il R. decreto-legge 19 ottobre 1938-XVI, n. 1933, convertito, con modificazioni, nella [legge 5 giugno 1939, n. 973](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20ottobre%201938-XVI%20n.%201933%20riguardante%20la%20riforma%20delle%20leggi%20sul%20lotto%20pubblico.%20039U0973.md), sul lotto pubblico, con le modificazioni che successivamente vi sono state apportate, e il regolamento sui servizi del lotto approvato col R. decreto 25 luglio 1940-XVIII, n. 1077. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

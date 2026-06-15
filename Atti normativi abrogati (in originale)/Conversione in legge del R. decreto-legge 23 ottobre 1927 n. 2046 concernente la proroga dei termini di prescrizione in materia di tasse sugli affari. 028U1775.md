@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2046](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2046), interpretativo del [R. decreto-legge 2 maggio 1925, n. 622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-05-02;622), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), concernente la proroga di termini di prescrizione in materia di tasse sugli affari. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2046](Disposizioni%20relative%20alla%20proroga%20dei%20termini%20di%20prescrizione%20in%20materia%20di%20tasse%20sugli%20affari.%20027U2046.md), interpretativo del [R. decreto-legge 2 maggio 1925, n. 622](Proroga%20dei%20termini%20di%20prescrizione%20in%20materia%20di%20tassa.%20025U0622.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), concernente la proroga di termini di prescrizione in materia di tasse sugli affari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

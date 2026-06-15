@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 17 della legge 19 dicembre 1992, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489#art_17), recante delega al Governo per l'attuazione della [direttiva 91/630/CEE del Consiglio del 19 novembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;630);
+Visto l'[art. 17 della legge 19 dicembre 1992, n. 489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md), recante delega al Governo per l'attuazione della [direttiva 91/630/CEE del Consiglio del 19 novembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;630);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 dicembre 1992;
 
@@ -117,7 +117,7 @@ Le regioni a statuto ordinario ed a statuto speciale e le prov- ince autonome di
 
 3.
 
-Ferma restando la competenza generale del comune a vigilare sul rispetto delle norme di protezione degli animali anche tramite le guardie zoofile delle associazioni di volontariato, fatte salve le competenze per la vigilanza sulle violazioni all'[art. 727 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_727), le Unita' sanitarie locali nell'ambito della vigilanza di cui all'[art. 6 lettera u) della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_6-letu), controllano l'applicazione delle disposizioni del presente decreto.
+Ferma restando la competenza generale del comune a vigilare sul rispetto delle norme di protezione degli animali anche tramite le guardie zoofile delle associazioni di volontariato, fatte salve le competenze per la vigilanza sulle violazioni all'[art. 727 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le Unita' sanitarie locali nell'ambito della vigilanza di cui all'[art. 6 lettera u) della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_6-letu), controllano l'applicazione delle disposizioni del presente decreto.
 
 4.
 

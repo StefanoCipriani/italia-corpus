@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo Primo Ministro Segretario di Stato di concer
 
 Fino a nuova disposizione, tutte le aziende commerciali ed agricole sono autorizzate ad aumentare di un'ora l'orario di lavoro, dei rispettivi operai ed impiegati, in deroga del [R. decreto-legge 15 marzo 1923, n. 692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-15;692) e dei relativi contratti di lavoro. 
  
- Il Ministro per l'economia nazionale e' autorizzato ad emanare le norme per l'esecuzione della presente disposizione anche a modifica dei [Regi decreti 10 settembre 1923, nn. 1955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-10;1955), [1956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-10;1956), [1957](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-10;1957).
+ Il Ministro per l'economia nazionale e' autorizzato ad emanare le norme per l'esecuzione della presente disposizione anche a modifica dei [Regi decreti 10 settembre 1923, nn. 1955](Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20per%20gli%20operai%20ed%20impiegati%20delle%20aziende%20industriali%20o%20commerciali%20di%20qualunque%20natura.%20023U1955.md), [1956](Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20ai%20lavoratori%20delle%20aziende%20agricole.%20023U1956.md), [1957](Approvazione%20della%20tabella%20indicante%20le%20industrie%20e%20le%20lavorazioni%20per%20le%20quali%20e%20consentita%20la%20facolta%20di%20superare%20le%208%20ore%20giornaliere%20o%20le%2048%20settimanali%20di%20lavoro.%20023U1957.md).
 
 ## Art. 2.
 

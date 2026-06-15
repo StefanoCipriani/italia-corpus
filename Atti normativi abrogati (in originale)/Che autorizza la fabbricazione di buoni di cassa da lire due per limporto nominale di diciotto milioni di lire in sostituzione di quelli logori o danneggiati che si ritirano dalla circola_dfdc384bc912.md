@@ -10,9 +10,9 @@ vigente: true
 
 IL MINISTRO DEL TESORO
 
-Veduto il [regio decreto 21 febbraio 1894, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-02-21;49), che autorizzo' la emissione di trenta milioni di buoni di cassa da lire due per il valore nominale di sessanta milioni di lire;
+Veduto il [regio decreto 21 febbraio 1894, n. 49](Concernente%20lemissione%20di%20Boni%20di%20Cassa%20da%20due%20lire%20e%20la%20coniazione%20di%20monete%20di%20nichelio.%20094U0049.md), che autorizzo' la emissione di trenta milioni di buoni di cassa da lire due per il valore nominale di sessanta milioni di lire;
 
-Veduto l'[art. 14 della legge 22 luglio 1894, n. 339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339#art_14), sui provvedimenti finanziari;
+Veduto l'[art. 14 della legge 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md), sui provvedimenti finanziari;
 
 Veduto il regolamento per l'emissione ed il servizio dei buoni di cassa approvato con [decreto ministeriale 16 settembre 1893, n. 548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1893-09-16;548);
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 agosto 1932, n. 1082](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-08-27;1082), concernente l'istituzione di prime classi collaterali stabili nei Regi istituti medi d'istruzione. 
+ E' convertito in legge il [R. decreto-legge 27 agosto 1932, n. 1082](Istituzione%20di%20prime%20classi%20collaterali%20stabili%20nei%20Regi%20istituti%20medi%20distruzione.%20032U1082.md), concernente l'istituzione di prime classi collaterali stabili nei Regi istituti medi d'istruzione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque di osservarla e di farla osservare come legge dello Stato. 
  

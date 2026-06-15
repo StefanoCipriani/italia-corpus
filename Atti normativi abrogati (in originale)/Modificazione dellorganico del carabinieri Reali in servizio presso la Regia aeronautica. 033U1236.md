@@ -48,7 +48,7 @@ finanze; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Il numero degli ufficiali dei carabinieri Reali che ai sensi dell'[art. 3 del R. decreto 8 maggio 1927, n. 946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-08;946#art_3), devono essere 
+Il numero degli ufficiali dei carabinieri Reali che ai sensi dell'[art. 3 del R. decreto 8 maggio 1927, n. 946](Organizzazione%20del%20servizio%20dei%20carabinieri%20Reali%20presso%20la%20Regia%20aeronautica.%20027U0946.md), devono essere 
 addetti ai servizi dipendenti dalla Regia aeronautica e' stabilito 
 dalla seguente tabella organica: 
  
@@ -63,7 +63,7 @@ dalla seguente tabella organica:
 
 ## Art. 2.
 
-Il numero dei sottufficiali e militari di truppa dei carabinieri Reali che ai sensi dell'[art. 4 del R. decreto 8 maggio 1927, n. 946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-08;946#art_4), devono essere addetti ai servizi dipendenti dalla Regia aeronautica, e' stabilito dalla seguente tabella organica: 
+Il numero dei sottufficiali e militari di truppa dei carabinieri Reali che ai sensi dell'[art. 4 del R. decreto 8 maggio 1927, n. 946](Organizzazione%20del%20servizio%20dei%20carabinieri%20Reali%20presso%20la%20Regia%20aeronautica.%20027U0946.md), devono essere addetti ai servizi dipendenti dalla Regia aeronautica, e' stabilito dalla seguente tabella organica: 
  
  
 

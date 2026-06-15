@@ -18,7 +18,7 @@ Viste le tariffe e condizioni valevoli per i trasporti effettuati sulle linee fe
 
 Visto il [R. decreto 8 aprile 1920, n. 410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-08;410);
 
-Visto l'ultimo capoverso dell'[art. 62 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato col [R. decreto 28 giugno 1912, n.728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728);
+Visto l'ultimo capoverso dell'[art. 62 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato col [R. decreto 28 giugno 1912, n.728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
 
 Viste le disposizioni sulle competenze accessorie annesse al regolamento del personale ferroviario approvato col [decreto Luogotenenziale 13 agosto 1917, n.1393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-13;1393); modificato col [decreto Luogotenenziale 11 giugno 1919 n. 913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-11;913);
 

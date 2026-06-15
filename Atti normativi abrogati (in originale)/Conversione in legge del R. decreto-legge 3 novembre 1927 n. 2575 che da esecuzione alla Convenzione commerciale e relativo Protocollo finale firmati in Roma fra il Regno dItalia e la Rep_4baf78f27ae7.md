@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-03;2575), che da' esecuzione alla Convenzione commerciale e relativo Protocollo finale, firmati in Roma, fra il Regno d'Italia e la Repubblica di Lituania, il 17 settembre 1927. 
+ E' convertito in legge il [R. decreto-legge 3 novembre 1927, n. 2575](Esecuzione%20della%20Convenzione%20commerciale%20e%20relativo%20Protocollo%20finale%20firmati%20in%20Roma%20fra%20il%20Regno%20dItalia%20e%20la%20Repubblica%20di%20Lituania%20il%2017%20settembre%201927.%20027U2575.md), che da' esecuzione alla Convenzione commerciale e relativo Protocollo finale, firmati in Roma, fra il Regno d'Italia e la Repubblica di Lituania, il 17 settembre 1927. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

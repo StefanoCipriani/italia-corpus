@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'[art. 39 del R. decreto-legge 7 novembre 1925, n. 1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-07;1950#art_39), si aggiunge la disposizione seguente: 
+All'[art. 39 del R. decreto-legge 7 novembre 1925, n. 1950](Disposizioni%20sul%20diritto%20di%20autore.%20025U1950.md), si aggiunge la disposizione seguente: 
  
  «La pubblicazione, riproduzione, rappresentazione od esecuzione dell'opera, deve aver luogo entro il termine od i ieri mini fissati dal contratto o, in difetto di determinazione contrattuale, entro quelli che saranno fissati dall'Autorita' giudiziaria, avuto riguardo al genere ed all'importanza dell'opera, alla natura o portata delle facolta' cedute e ad ogni altra circostanza del caso. 
  
@@ -42,7 +42,7 @@ Le disposizioni della presente legge, salvo quella relativa ai termini massimi l
 
 ### Art. 4.
 
-Le controversie pendenti alla data di entrata in vigore della presente legge davanti alla Magistratura del lavoro, a norma dell'art. 44, ultimo capoverso, del [R. decreto-legge 7 novembre 1925, n. 1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-11-07;1950), nel testo modificato dalla [legge 17 gennaio 1929, n. 20](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013%20gennaio%201927%20n.%2061%20portante%20modifiche%20agli%20articoli%2044%20e%2070%20del%20R.%20decreto-legge%207%20novembre%201925%20n.%201950%20sul%20diritto%20di%20autore.%20029U0020.md), sono devolute alla competenza dell'Autorita' giudiziaria secondo le norme ordinarie di procedura. 
+Le controversie pendenti alla data di entrata in vigore della presente legge davanti alla Magistratura del lavoro, a norma dell'art. 44, ultimo capoverso, del [R. decreto-legge 7 novembre 1925, n. 1950](Disposizioni%20sul%20diritto%20di%20autore.%20025U1950.md), nel testo modificato dalla [legge 17 gennaio 1929, n. 20](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013%20gennaio%201927%20n.%2061%20portante%20modifiche%20agli%20articoli%2044%20e%2070%20del%20R.%20decreto-legge%207%20novembre%201925%20n.%201950%20sul%20diritto%20di%20autore.%20029U0020.md), sono devolute alla competenza dell'Autorita' giudiziaria secondo le norme ordinarie di procedura. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

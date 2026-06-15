@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata:
 
-Vista la [legge 21 aprile 1862, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-04-21;563);
+Vista la [legge 21 aprile 1862, n. 563](Colla%20quale%20e%20approvata%20la%20Tariffa%20dei%20prezzi%20di%20privativa%20dei%20Sali%20e%20dei%20Tabacchi.%20062U0563.md);
 
 Sulla proposta del ministro segretario di Stato per le finanze;
 
@@ -28,7 +28,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Il prezzo di cessione dei sali ai rivenditori, stabilito dal [R. decreto 21 novembre 1915, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-11-21;1643), allegato G, e' ridotto come appresso 
+Il prezzo di cessione dei sali ai rivenditori, stabilito dal [R. decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), allegato G, e' ridotto come appresso 
  
  per il sale comune da L 48,50 a L. 47; 
  

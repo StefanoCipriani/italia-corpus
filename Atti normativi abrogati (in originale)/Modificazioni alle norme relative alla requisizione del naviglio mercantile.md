@@ -16,12 +16,12 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'ultimo comma dell'[art. 1 del regio decreto 2 febbraio 1943, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-02-02;127#art_1), e' abrogato e sostituito dal seguente:
+L'ultimo comma dell'[art. 1 del regio decreto 2 febbraio 1943, n. 127](Modificazioni%20alla%20legge%2013%20luglio%201939-XVII%20n.%201154%20che%20detta%20norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20043U0127.md), e' abrogato e sostituito dal seguente:
  "Dal giorno in cui si e' verificato l'evento di guerra cui si riferisce il precedente comma al giorno in cui ha luogo la requisizione per acquisto, saranno corrisposte all'armatore o al proprietario della nave o del galleggiante le sole quote b) e c) della parte A) della indennita' di requisizione prevista dal seguente art. 30. Le predette quote b) e c) non potranno essere in ogni caso corrisposte per un periodo superiore ai 720 giorni a partire dalla data dell'evento di guerra, che ha determinato il sinistro, e dalla quale e' cessata la corresponsione della intera parte A) del compenso di requisizione".
 
 ## Art. 2.
 
-L'[art. 4 del decreto legislativo luogotenenziale 19 ottobre 1945, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-19;686#art_4), e' cosi' modificato:
+L'[art. 4 del decreto legislativo luogotenenziale 19 ottobre 1945, n. 686](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20il%20recupero%20e%20la%20rimessa%20in%20efficienza%20di%20navi%20mercantili%20sinistrate.%20045U0686.md), e' cosi' modificato:
  "Al comma primo sono soppresse le parole "allo scopo di avvalersi dei benefici previsti dal presente decreto".
  L'ultimo periodo del terzo comma e' sostituito dal seguente:
  "Resta in ogni modo fermo l'obbligo dell'Amministrazione alla corresponsione delle quote b) e c) del compenso di requisizione parte A), per il periodo nel quale la nave sinistrata e' rimasta inutilizzata per l'esecuzione dei lavori di riparazione, e in ogni caso per un periodo non superiore a 720 giorni a decorrere dalla data dell'evento di guerra, che ha provocato il sinistro della nave.

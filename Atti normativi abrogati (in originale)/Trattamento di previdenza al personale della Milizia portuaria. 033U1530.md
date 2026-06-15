@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 28 ottobre 1927, n. 2073](Nuovo%20ordinamento%20della
 
 Vista la [legge 8 luglio 1929, n. 1337](Ordinamento%20della%20Milizia%20portuaria.%20029U1337.md);
 
-Visto il [R. decreto 24 dicembre 1928, n. 3408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-24;3408), che ha resa esecutoria la convenzione 12 luglio 1928, stipulata con l'istituto nazionale delle assicurazioni, per stabilire il trattamento di previdenza del personale della Milizia portuaria;
+Visto il [R. decreto 24 dicembre 1928, n. 3408](Approvazione%20della%20Convenzione%20fra%20lIstituto%20nazionale%20delle%20assicurazioni%20ed%20il%20Comando%20della%20Milizia%20portuaria%20per%20assicurare%20il%20trattamento%20di%20previdenza%20al%20personale%20della%20Milizia%20stessa.%20028U3408.md), che ha resa esecutoria la convenzione 12 luglio 1928, stipulata con l'istituto nazionale delle assicurazioni, per stabilire il trattamento di previdenza del personale della Milizia portuaria;
 
 Considerata la necessita' ed urgenza di addivenire alla stipulazione di nuovi patti con l'Istituto suddetto circa il trattamento di previdenza del personale stesso;
 

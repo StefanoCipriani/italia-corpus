@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Al n. 17 dello specchio III delle indennita' eventuali, annesso al [R. decreto 19 aprile 1907, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-04-19;201), viene aggiunto, con effetto dal 1° maggio 1917, il seguente soprassoldo giornaliero di servizio: 
+Al n. 17 dello specchio III delle indennita' eventuali, annesso al [R. decreto 19 aprile 1907, n. 201](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), viene aggiunto, con effetto dal 1° maggio 1917, il seguente soprassoldo giornaliero di servizio: 
  
  Ufficiale generale L. 5. 
  

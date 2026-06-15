@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul reclutamento del R. esercito approvato con [R. decreto 24 dicembre 1911, n. 1497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-24;1497);
+Visto il testo unico delle leggi sul reclutamento del R. esercito approvato con [R. decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro ministro segretario di Stato per gli affari della guer
 
 ## Art. 1.
 
-All'articolo 31 del testo unico delle leggi sul reclutamento approvato con [R. decreto 24 dicembre 1911, n. 1497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-24;1497), e' sostituito il seguente: 
+All'articolo 31 del testo unico delle leggi sul reclutamento approvato con [R. decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), e' sostituito il seguente: 
  
  «Agli inscritti di leva che ne facciano richiesta, sono corrisposti i mezzi di viaggio per recarsi dal Comune di residenza al capoluogo del circondario dove devono presentarsi al Consiglio di leva e per ritornarne; per tali viaggi essi fruiscono della tariffa dei trasporti militari. 
  

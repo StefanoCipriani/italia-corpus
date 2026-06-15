@@ -335,11 +335,11 @@ TITOLO V.
 
 ### Art. 43.
 
-Coloro ai quali, pel cumulo di due uffici con stipendio, furono applicate le norme dell'[art. 52 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_52), conserveranno i diritti di cui godono all'applicazione delle presenti disposizioni.
+Coloro ai quali, pel cumulo di due uffici con stipendio, furono applicate le norme dell'[art. 52 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), conserveranno i diritti di cui godono all'applicazione delle presenti disposizioni.
 
 ### Art. 44.
 
-Coloro i quali, a norma dell'[art. 55 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_55), scelsero l'orario di cui all'[art. 8 della legge 8 aprile 1906, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142#art_8), avranno il diritto di conservare detto obbligo di orario con le condizioni di cui ai comma 2 e 3 del citato art. 55.
+Coloro i quali, a norma dell'[art. 55 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), scelsero l'orario di cui all'[art. 8 della legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md), avranno il diritto di conservare detto obbligo di orario con le condizioni di cui ai comma 2 e 3 del citato art. 55.
 
 ### Art. 45.
 
@@ -353,7 +353,7 @@ Gl'insegnanti ed i capi d'Istituto che entro i primi cinque anni dalla data di p
 
 ### Art. 47.
 
-Nei trasferimenti conservera' valore di titolo di preferenza, a norma dell'[art. 5 della legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141#art_5), l'aver vinto concorsi speciali.
+Nei trasferimenti conservera' valore di titolo di preferenza, a norma dell'[art. 5 della legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md), l'aver vinto concorsi speciali.
 
 ### Art. 48.
 

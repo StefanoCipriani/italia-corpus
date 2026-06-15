@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- In virtu' dei poteri straordinari conferiti al Governo del Re colla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dei poteri straordinari conferiti al Governo del Re colla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [R. decreto 5 marzo 1914, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-03-05;359), che approva l'ordinamento per il personale del genio navale; 
+ Visto il [R. decreto 5 marzo 1914, n. 359](Col%20quale%20e%20approvato%20lordinamento%20per%20il%20personale%20degli%20assistenti%20del%20genio%20navale.%20014U0359.md), che approva l'ordinamento per il personale del genio navale; 
  
  Udito il Consiglio dei ministri; 
  

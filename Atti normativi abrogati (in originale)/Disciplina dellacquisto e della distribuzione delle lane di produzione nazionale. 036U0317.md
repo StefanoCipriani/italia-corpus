@@ -92,11 +92,11 @@ Per le direttive di massima e per il coordinamento dell'attivita' delle Commissi
 ---------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 24 settembre 1936, n. 2143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-09-24;2143), convertito con modificazioni dalla [L. 19 aprile 1937, n. 1554](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20settembre%201936-XIV%20n.%202143%20recante%20modificazioni%20al%20R.%20decreto-legge%2024%20febbraio%201936-XIV%20n.%20317%20relativo%20alla%20composizione%20_3999b00fc610.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 24 settembre 1936, n. 2143](Modificazioni%20al%20R.%20decreto-legge%2024%20febbraio%201936-XIV%20n.%20317%20relativo%20alla%20composizione%20della%20Commissione%20centrale%20per%20la%20requisizione%20della%20lana%20e%20alla%20diaria%20di%20missione%20da%20corrisponde_926805fdcf2f.md), convertito con modificazioni dalla [L. 19 aprile 1937, n. 1554](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20settembre%201936-XIV%20n.%202143%20recante%20modificazioni%20al%20R.%20decreto-legge%2024%20febbraio%201936-XIV%20n.%20317%20relativo%20alla%20composizione%20_3999b00fc610.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 10.
 
-Coloro che contravvengono agli obblighi imposti dalle disposizioni degli articoli 2 e 3 del presente decreto, sono puniti con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire duemila, salva, ove del caso, l'applicazione della confisca a termini del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+Coloro che contravvengono agli obblighi imposti dalle disposizioni degli articoli 2 e 3 del presente decreto, sono puniti con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire duemila, salva, ove del caso, l'applicazione della confisca a termini del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 11.
 

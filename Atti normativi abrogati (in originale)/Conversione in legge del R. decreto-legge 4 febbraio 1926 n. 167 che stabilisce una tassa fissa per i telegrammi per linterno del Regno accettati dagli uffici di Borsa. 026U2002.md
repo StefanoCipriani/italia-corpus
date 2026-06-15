@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 febbraio 1926, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-04;167), che stabilisce una tassa fissa per i telegrammi per l'interno del Regno accettati dagli uffici di Borsa. 
+ E' convertito in legge il [R. decreto-legge 4 febbraio 1926, n. 167](Tassa%20fissa%20per%20i%20telegrammi%20per%20linterno%20del%20Regno%20accettati%20dagli%20uffici%20di%20Borsa.%20026U0167.md), che stabilisce una tassa fissa per i telegrammi per l'interno del Regno accettati dagli uffici di Borsa. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

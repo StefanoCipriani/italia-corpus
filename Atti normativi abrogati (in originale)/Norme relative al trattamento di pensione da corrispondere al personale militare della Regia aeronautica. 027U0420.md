@@ -74,13 +74,13 @@ Capo II.
 
 ### Art. 4.
 
-Il quarto comma dell'art. 65 e l'art. 68 del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70, nonche' l'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70#art_1) del [decreto-legge Luogotenenziale 13 marzo 1919, n. 565](Concernente%20il%20computo%20agli%20effetti%20della%20liquidazione%20delle%20pensioni%20del%20servizio%20prestato%20in%20Libia%20dal%20personale%20militare%20e%20civile%20dipendente%20dai%20Ministeri%20della%20guerra%20e%20della%20marina.%20019U0565.md), con le limitazioni prescritte dall'[art. 5 del R. decreto 21 novembre 1923, n. 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-21;2480#art_5), e dall'[art. 3 del R. decreto 8 maggio 1924, n. 779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;779#art_3), sono applicabili ai militari della Regia aeronautica a decorrere dalle rispettive date di entrata in vigore.
+Il quarto comma dell'art. 65 e l'art. 68 del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70, nonche' l'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70#art_1) del [decreto-legge Luogotenenziale 13 marzo 1919, n. 565](Concernente%20il%20computo%20agli%20effetti%20della%20liquidazione%20delle%20pensioni%20del%20servizio%20prestato%20in%20Libia%20dal%20personale%20militare%20e%20civile%20dipendente%20dai%20Ministeri%20della%20guerra%20e%20della%20marina.%20019U0565.md), con le limitazioni prescritte dall'[art. 5 del R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e dall'[art. 3 del R. decreto 8 maggio 1924, n. 779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;779#art_3), sono applicabili ai militari della Regia aeronautica a decorrere dalle rispettive date di entrata in vigore.
 
 ### Art. 5.
 
 Il servizio di volo, con effettiva percezione delle relative regolamentari indennita' mensili, prestato dai militari di qualsiasi grado della Regia aeronautica, anche prima della costituzione del Commissariato, e' computato con l'aumento di un terzo della sua durata effettiva. 
  
- A tale aumento sono applicabili le limitazioni stabilite dai [commi 2°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-21;2480#art_5-com2) e [3° dell'art. 5 del R. decreto 21 novembre 1923, n. 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-21;2480#art_5-com3).
+ A tale aumento sono applicabili le limitazioni stabilite dai [commi 2°](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md) e [3° dell'art. 5 del R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md).
 
 ## Misura delle pensioni.
 
@@ -154,7 +154,7 @@ Capo IV.
 
 Le pensioni privilegiate sono liquidate in base alle disposizioni del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e a quelle del [decreto-legge Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-05-20;876), e successive modificazioni. 
  
- L'art. 123 del testo unico e' applicabile ai genitori, ai fratelli ed alle sorelle dei militari della Regia aeronautica, aventi obbligo di volo, senza la limitazione stabilita dall'[art. 15 del R. decreto 21 novembre 1923, n. 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-21;2480#art_15).
+ L'art. 123 del testo unico e' applicabile ai genitori, ai fratelli ed alle sorelle dei militari della Regia aeronautica, aventi obbligo di volo, senza la limitazione stabilita dall'[art. 15 del R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md).
 
 ## Disposizioni varie.
 

@@ -23,7 +23,7 @@ EMANA il seguente decreto:
 ## Art. 1.
 
 Al personale facente parte della forza militare italiana impiegata in Libano a seguito di accordi internazionali per fini di soluzioni pacifiche nell'area medio-orientale e' esteso, indipendentemente dalla durata dell'intervento:
- il trattamento economico previsto dalla [legge 8 luglio 1961, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-08;642); a tal fine l'indennita' speciale di cui all'articolo 3 della legge stessa e' fissata nella misura del 40 per cento dell'assegno di lungo servizio all'estero;
+ il trattamento economico previsto dalla [legge 8 luglio 1961, n. 642](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trattamento%20economico%20del%20personale%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20destinato%20isolatamente%20allestero%20presso%20Delegazioni%20o%20Rappresentanze%20militari%20ovvero%20presso%20enti%20comandi%20od_1e382f250bd3.md); a tal fine l'indennita' speciale di cui all'articolo 3 della legge stessa e' fissata nella misura del 40 per cento dell'assegno di lungo servizio all'estero;
  il trattamento assicurativo di cui alla [legge 18 maggio 1982, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-18;301);
  ogni altra provvidenza gia' prevista per il personale impiegato in zone di intervento per conto dell'O.N.U.
 

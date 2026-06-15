@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'Ente di rinascita agraria per le Tre Venezie, eretto in ente morale col [R. decreto 8 settembre 1921, n. 1343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-09-08;1343), estende la sua azione ad ogni forma di attivita' economica sociale ed educativa, assumendo la denominazione di «Ente nazionale per le Tre Venezie». 
+L'Ente di rinascita agraria per le Tre Venezie, eretto in ente morale col [R. decreto 8 settembre 1921, n. 1343](Erezione%20in%20Ente%20morale%20e%20approvazione%20di%20statuto.%20021U1343.md), estende la sua azione ad ogni forma di attivita' economica sociale ed educativa, assumendo la denominazione di «Ente nazionale per le Tre Venezie». 
  
  Esso agisce in concorso con gli enti locali e, ove occorra, ne integra l'azione, in armonia alle direttive dei prefetti delle Provincie venete. 
  

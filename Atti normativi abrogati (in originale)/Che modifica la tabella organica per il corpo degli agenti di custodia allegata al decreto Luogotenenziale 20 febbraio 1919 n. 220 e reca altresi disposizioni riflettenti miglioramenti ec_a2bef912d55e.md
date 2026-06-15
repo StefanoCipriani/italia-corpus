@@ -20,9 +20,9 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vedute le [leggi 30 dicembre 1906, n. 649, e 6 luglio 1911, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-06;685);
+Vedute le [leggi 30 dicembre 1906, n. 649, e 6 luglio 1911, n. 685](Che%20apporta%20modificazioni%20allorganico%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20011U0685.md);
 
-Veduti il [decreto Luogotenenziale 20 febbraio 1919, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-20;220), ed il regolamento per il corpo degli agenti di custodia, approvato con [R. decreto 24 marzo 1907, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-03-24;150);
+Veduti il [decreto Luogotenenziale 20 febbraio 1919, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-20;220), ed il regolamento per il corpo degli agenti di custodia, approvato con [R. decreto 24 marzo 1907, n. 150](Che%20approva%20lannesso%20regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20007U0150.md);
 
 Udito il Consiglio dei ministri;
 
@@ -79,7 +79,7 @@ Capiguardia di 2ª classe, L. 1,50.
 
 ## Art. 5.
 
-Il soprassoldo di rafferma di L. 100 e di L. 200 annue di cui all'[art. 2 della legge 30 dicembre 1906, n. 649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-12-30;649#art_2) e quello di L. 100 annue annesso alla medaglia al merito di servizio istituita pel corpo degli agenti di custodia all'art. 4 della legge stessa, ed il soprassoldo di cui all'[art. 3 del decreto Luogotenenziale 20 febbraio 1919, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-20;220#art_3), sono soppressi.
+Il soprassoldo di rafferma di L. 100 e di L. 200 annue di cui all'[art. 2 della legge 30 dicembre 1906, n. 649](Provvedimenti%20in%20favore%20del%20personale%20amministrativo%20e%20sanitario%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20del%20personale%20di%20custodia%20degli%20stabilimenti%20carcerari.%20006U0649.md) e quello di L. 100 annue annesso alla medaglia al merito di servizio istituita pel corpo degli agenti di custodia all'art. 4 della legge stessa, ed il soprassoldo di cui all'[art. 3 del decreto Luogotenenziale 20 febbraio 1919, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-20;220#art_3), sono soppressi.
 
 ## Art. 6.
 
@@ -87,7 +87,7 @@ Agli agenti di custodia che, compiuta la prima ferma, continuino a prestare rego
 
 ## Art. 7.
 
-I premi di L. 500 ciascuno stabiliti per la prima e seconda rafferma dall'[art. 2 della legge 30 dicembre 1906, n. 649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-12-30;649#art_2), sono rispettivamente elevati a L.
+I premi di L. 500 ciascuno stabiliti per la prima e seconda rafferma dall'[art. 2 della legge 30 dicembre 1906, n. 649](Provvedimenti%20in%20favore%20del%20personale%20amministrativo%20e%20sanitario%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20del%20personale%20di%20custodia%20degli%20stabilimenti%20carcerari.%20006U0649.md), sono rispettivamente elevati a L.
 
 1000.
 
@@ -101,7 +101,7 @@ L'agente sottoposto ad esperimento, che puo' durare da tre mesi ad un anno, in a
 
 ## Art. 9.
 
-L'indennita' d'alloggio, di cui all'[art. 2 della legge 30 dicembre 1906, n. 649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-12-30;649#art_2), e' elevata da L. 20 a L. 40.
+L'indennita' d'alloggio, di cui all'[art. 2 della legge 30 dicembre 1906, n. 649](Provvedimenti%20in%20favore%20del%20personale%20amministrativo%20e%20sanitario%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20del%20personale%20di%20custodia%20degli%20stabilimenti%20carcerari.%20006U0649.md), e' elevata da L. 20 a L. 40.
 
 ## Art. 10.
 

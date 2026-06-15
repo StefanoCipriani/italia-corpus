@@ -14,7 +14,7 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visti i [decreti-legge 30 dicembre 1979, n. 659 e 29 febbraio 1980, n. 37](Durata%20dellincarico%20dispettore%20dei%20costi%20presso%20il%20Comitato%20interministeriale%20dei%20prezzi.md), concernenti la durata dell'incarico svolto dagli ispettori dei costi presso il Comitato interministeriale dei prezzi;
 
-Ritenuta la necessita' e l'urgenza di estendere la proroga della scadenza di tale incarico, gia' prevista dal [decreto-legge 23 dicembre 1978, n. 846](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-12-23;846), convertito nella [legge 24 febbraio 1979, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-24;60), al fine di assicurare il funzionamento del predetto comitato, contestualmente regolando gli effetti della previgente disciplina;
+Ritenuta la necessita' e l'urgenza di estendere la proroga della scadenza di tale incarico, gia' prevista dal [decreto-legge 23 dicembre 1978, n. 846](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-12-23;846), convertito nella [legge 24 febbraio 1979, n. 60](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201978%20n.%20846%20concernente%20listituzione%20dei%20comitati%20regionali%20dei%20prezzi.md), al fine di assicurare il funzionamento del predetto comitato, contestualmente regolando gli effetti della previgente disciplina;
 
 Vista la deliberazione del Consiglio dei Ministri del 6 maggio 1980;
 
@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-E' soppresso il [secondo comma dell'art. 3 del decreto-legge 23 dicembre 1978, n. 846](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-12-23;846#art_3-com2), convertito, con modificazioni, nella [legge 24 febbraio 1979, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-24;60).
+E' soppresso il [secondo comma dell'art. 3 del decreto-legge 23 dicembre 1978, n. 846](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-12-23;846#art_3-com2), convertito, con modificazioni, nella [legge 24 febbraio 1979, n. 60](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201978%20n.%20846%20concernente%20listituzione%20dei%20comitati%20regionali%20dei%20prezzi.md).
 
 ## Art. 2.
 

@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [testo unico delle leggi sul Debito pubblico](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;398) approvato con [R. decreto 17 luglio 1910, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-17;536), e il relativo regolamento; 
+ Visto il [testo unico delle leggi sul Debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) approvato con [R. decreto 17 luglio 1910, n. 536](Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), e il relativo regolamento; 
  
- Visto il testo unico delle leggi generali e speciali riguardanti la Cassa dei depositi e prestiti, le gestioni annesse, la sezione autonoma di credito comunale e provinciale e gli Istituti di previdenza, approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453); 
+ Visto il testo unico delle leggi generali e speciali riguardanti la Cassa dei depositi e prestiti, le gestioni annesse, la sezione autonoma di credito comunale e provinciale e gli Istituti di previdenza, approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md); 
  
  Vista la [legge 13 agosto 1921, n. 1080](Che%20reca%20provvedimenti%20per%20la%20riforma%20dellAmministrazione%20dello%20Stato%20la%20semplificazione%20dei%20servizi%20e%20la%20riduzione%20del%20personale.%20021U1080.md), sulla riforma delle Amministrazioni dello Stato; 
  
@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Che in virtu' degli articoli 1 delle parti prima, terza, quarta, quinta, sesta e settima del libro III del [testo unico 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-01-02;453), per l'Amministrazione della Cassa depositi e prestiti e degli Istituti di previdenza, la rappresentanza legale e la responsabilita' di gestione di questi ultimi Istituti spettano al direttore generale ad essi preposto; 
  
- Che ove si facesse luogo al collocamento a riposo del direttore generale del Debito pubblico e del direttore generale degli Istituti di previdenza, per i quali si verificano le condizioni previste dall'[art. 4 della legge 13 agosto 1921, n. 1080](Che%20reca%20provvedimenti%20per%20la%20riforma%20dellAmministrazione%20dello%20Stato%20la%20semplificazione%20dei%20servizi%20e%20la%20riduzione%20del%20personale.%20021U1080.md), entro il termine stabilito dal [R. decreto 1°febbraio 1922, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-02-01;88), verrebbe a mancare per la direzione di quelle Amministrazioni il titolare responsabile, essendo vietato dall'art. 9 della legge predetta di provvedere alla sostituzione; 
+ Che ove si facesse luogo al collocamento a riposo del direttore generale del Debito pubblico e del direttore generale degli Istituti di previdenza, per i quali si verificano le condizioni previste dall'[art. 4 della legge 13 agosto 1921, n. 1080](Che%20reca%20provvedimenti%20per%20la%20riforma%20dellAmministrazione%20dello%20Stato%20la%20semplificazione%20dei%20servizi%20e%20la%20riduzione%20del%20personale.%20021U1080.md), entro il termine stabilito dal [R. decreto 1°febbraio 1922, n. 88](Che%20proroga%20i%20termini%20degli%20articoli%201%20e%202%20di%20quello%2023%20novembre%201921%20n.%201741.%20022U0088.md), verrebbe a mancare per la direzione di quelle Amministrazioni il titolare responsabile, essendo vietato dall'art. 9 della legge predetta di provvedere alla sostituzione; 
  
  Che cio' e' necessario evitare nell'interesse del regolare funzionamento delle Amministrazioni medesime; 
  

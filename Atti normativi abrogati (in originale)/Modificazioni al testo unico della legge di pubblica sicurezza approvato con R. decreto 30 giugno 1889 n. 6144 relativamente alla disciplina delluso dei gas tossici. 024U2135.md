@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con il [R. decreto 30 giugno 1889, n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-06-30;6144);
+Veduto il [testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con il [R. decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ All'[art. 24 del testo unico della legge di pubblica sicurezza](https://www.norm
  
  Questo determinera', altresi', le prescrizioni da osservarsi nell'impiego dei gas predetti. 
  
- Il contravventore alle disposizioni del presente decreto o a quelle del regolamento di cui al comma precedente, e' punito con la ammenda da L. 500 a L. 2000, oltre all'arresto e alla sospensione dell'esercizio della professione, a termini del [secondo comma dell'art. 483 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_483-com2).
+ Il contravventore alle disposizioni del presente decreto o a quelle del regolamento di cui al comma precedente, e' punito con la ammenda da L. 500 a L. 2000, oltre all'arresto e alla sospensione dell'esercizio della professione, a termini del [secondo comma dell'art. 483 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 

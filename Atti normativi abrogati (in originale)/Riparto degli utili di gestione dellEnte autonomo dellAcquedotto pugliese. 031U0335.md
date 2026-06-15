@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 3 agosto 1928, n. 2031](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;2031), concernente il riparto degli utili netti dell'Ente autonomo per l'Acquedotto pugliese per gli esercizi dal 1924-25 al 1927-28;
+Visto il [R. decreto 3 agosto 1928, n. 2031](Riparto%20degli%20utili%20netti%20di%20gestione%20dellEnte%20autonomo%20per%20lAcquedotto%20pugliese%20per%20gli%20esercizi%20dal%201924-25%20al%201927-28.%20028U2031.md), concernente il riparto degli utili netti dell'Ente autonomo per l'Acquedotto pugliese per gli esercizi dal 1924-25 al 1927-28;
 
 Vista la [legge 27 giugno 1929, n. 1273](Anticipazione%20di%20L.%2015000000%20allEnte%20autonomo%20per%20lAcquedotto%20pugliese.%20029U1273.md), con la quale fu disposto che gli utili accertati e da accertare dal predetto Ente in dipendenza della propria gestione non potessero essere ulteriormente impegnati fino alla emanazione dei provvedimenti riguardanti il finanziamento dell'Acquedotto;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per i lavori pubblici, di concerto col Ministro per 
 
 ## Art. 1.
 
-Dalla somma degli utili netti della gestione dell'Acquedotto pugliese, accertati col conto consuntivo dall'esercizio 1928-29 in poi, e' detratta la quota ricadente a carico dell'Ente per l'ammortamento dei mutui concessi dalla Cassa depositi e prestiti a norma del [R. decreto-legge 3 marzo 1924, n. 287](Autorizzazione%20alla%20Cassa%20depositi%20e%20prestiti%20di%20concedere%20mutui%20allEnte%20autonomo%20per%20lacquedotto%20pugliese%20per%20la%20ultimazione%20dellacquedotto%20stesso.%20024U0287.md), convalidato con [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), ad integrazione delle somme all'uopo impegnate sul bilancio del Ministero dei lavori pubblici. 
+Dalla somma degli utili netti della gestione dell'Acquedotto pugliese, accertati col conto consuntivo dall'esercizio 1928-29 in poi, e' detratta la quota ricadente a carico dell'Ente per l'ammortamento dei mutui concessi dalla Cassa depositi e prestiti a norma del [R. decreto-legge 3 marzo 1924, n. 287](Autorizzazione%20alla%20Cassa%20depositi%20e%20prestiti%20di%20concedere%20mutui%20allEnte%20autonomo%20per%20lacquedotto%20pugliese%20per%20la%20ultimazione%20dellacquedotto%20stesso.%20024U0287.md), convalidato con [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), ad integrazione delle somme all'uopo impegnate sul bilancio del Ministero dei lavori pubblici. 
  
  Eseguito tale prelevamento, gli utili netti sono devoluti: agli aumenti e miglioramenti patrimoniali occorrenti per adeguare le scorte di magazzino alle necessita' derivanti dalla buona manutenzione delle opere e dallo sviluppo degli impianti; alla esecuzione di opere complementari non previste nel progetto di massima; alla costituzione di appositi fondi di riserva per rinnovamenti patrimoniali e per riparazioni dipendenti da cause straordinarie. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto l'articolo della [Legge del 20 aprile 1871, numero 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1871-04-20;192) (Serie 2ª);
+Visto l'articolo della [Legge del 20 aprile 1871, numero 192](Concernente%20la%20riscossione%20delle%20imposte%20dirette.%20071U0192.md) (Serie 2ª);
 
 Di concerto col Ministro dell'Interno, e
 

@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA. 
  
- Veduto lo statuto dell'Istituto superiore pareggiato di educazione fisica di Palermo, approvato con [decreto del Presidente della Repubblica 15 maggio 1965, n. 940](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-05-15;940); 
+ Veduto lo statuto dell'Istituto superiore pareggiato di educazione fisica di Palermo, approvato con [decreto del Presidente della Repubblica 15 maggio 1965, n. 940](../DPR/Istituzione%20di%20un%20Istituto%20superiore%20pareggiato%20di%20educazione%20fisica%20in%20Palermo.md); 
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
  Veduta la [legge 7 febbraio 1958, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-07;88); 
  Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;. 

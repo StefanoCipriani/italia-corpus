@@ -14,7 +14,7 @@ CAPO I.
 
 ### Art. 1.
 
-Le concessioni, da parte della competente autorita' marittima, di zone di mare per l'impianto di coltivazione, allevamento, ingrassamento e deposito di molluschi eduli, di qualsiasi specie, sono subordinate all'accertamento, a cura del prefetto, della idoneita' delle zone stesse nei riguardi igienici ed al parere di apposito Comitato, presieduto dal direttore generale della Sanita' pubblica e composto degli stessi rappresentanti dei Ministeri dell'economia nazionale, delle finanze, della marina e delle comunicazioni, che fanno parte del Comitato di vigilanza per l'Azienda demaniale del Mar Piccolo di Taranto, di cui all'[art. 7 del R. decreto-legge 3 novembre 1927, n. 2027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-11-03;2027#art_7), convertito nella [legge 29 novembre 1928, n. 3231](Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%203%20novembre%201927%20n.%202027%20per%20la%20concessione%20dei%20diritti%20di%20pesca%20spettanti%20al%20Demanio%20dello%20Stato%20nelle%20zone%20del%20Mar%20Piccolo%20di%20Taranto%20destinat_3070635122d2.md). 
+Le concessioni, da parte della competente autorita' marittima, di zone di mare per l'impianto di coltivazione, allevamento, ingrassamento e deposito di molluschi eduli, di qualsiasi specie, sono subordinate all'accertamento, a cura del prefetto, della idoneita' delle zone stesse nei riguardi igienici ed al parere di apposito Comitato, presieduto dal direttore generale della Sanita' pubblica e composto degli stessi rappresentanti dei Ministeri dell'economia nazionale, delle finanze, della marina e delle comunicazioni, che fanno parte del Comitato di vigilanza per l'Azienda demaniale del Mar Piccolo di Taranto, di cui all'[art. 7 del R. decreto-legge 3 novembre 1927, n. 2027](Concessione%20dei%20diritti%20di%20pesca%20spettanti%20al%20Demanio%20dello%20Stato%20nelle%20zone%20del%20Mar%20Piccolo%20di%20Taranto%20destinate%20alla%20molluschicultura.%20027U2027.md), convertito nella [legge 29 novembre 1928, n. 3231](Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%203%20novembre%201927%20n.%202027%20per%20la%20concessione%20dei%20diritti%20di%20pesca%20spettanti%20al%20Demanio%20dello%20Stato%20nelle%20zone%20del%20Mar%20Piccolo%20di%20Taranto%20destinat_3070635122d2.md). 
  
  Il richiedente la concessione deve esporre nella domanda il programma che intende svolgere. 
  
@@ -193,7 +193,7 @@ L'infrazione alle norme stabilite dagli articoli 5, 6 e 7 e' punita con l'ammend
  
  Nei casi di infrazione alle norme contenute negli articoli 9 e 10, comma secondo, come pure nei due ultimi casi specificati dal quarto comma del presente articolo, si fara' anche luogo al sequestro della merce, ed, ove questa risulti avariata o non sia atta al consumo, se ne disporra' la distruzione. 
  
- Le pene comminate dalla presente legge non pregiudicano l'applicazione di quelle maggiori previste dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e da altre leggi speciali.
+ Le pene comminate dalla presente legge non pregiudicano l'applicazione di quelle maggiori previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e da altre leggi speciali.
 
 ### Art. 20.
 

@@ -16,12 +16,12 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'efficacia delle norme contenute nel [decreto legislativo 7 maggio 1948, n. 805](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;805), concernente disposizioni di carattere transitorio per il funzionamento dei tribunali militari, e' prorogata fino a tutto il 31 dicembre 1949, con le modificazioni di cui agli articoli seguenti.
+L'efficacia delle norme contenute nel [decreto legislativo 7 maggio 1948, n. 805](../Decreti%20Legislativi/Proroga%20delle%20disposizioni%20di%20carattere%20transitorio%20per%20il%20funzionamento%20dei%20Tribunali%20militari.md), concernente disposizioni di carattere transitorio per il funzionamento dei tribunali militari, e' prorogata fino a tutto il 31 dicembre 1949, con le modificazioni di cui agli articoli seguenti.
 
 ## Art. 2.
 
 Il numero massimo di ufficiali da assegnarsi ai tribunali militari con funzioni di magistrato o di cancelliere, compresi gli appartenenti ai ruoli organici del personale civile della Giustizia militare, anche se siano stati o vengano ricollocati in congedo, non puo' superare i 200.
- A modifica di quanto previsto dall'[art. 13 del decreto legislativo luogotenenziale 21 marzo 1946, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-21;144#art_13), il contingente di cui al precedente comma non comprende gli ufficiali con funzioni di presidente e di giudice, da assegnare ai predetti tribunali nel numero massimo previsto dall'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022).
+ A modifica di quanto previsto dall'[art. 13 del decreto legislativo luogotenenziale 21 marzo 1946, n. 144](../Decreti%20legislativi%20luogotenenziali/Norme%20dirette%20a%20regolare%20il%20passaggio%20dallapplicazione%20della%20legge%20penale%20militare%20di%20guerra%20allapplicazione%20di%20quella%20di%20pace.md), il contingente di cui al precedente comma non comprende gli ufficiali con funzioni di presidente e di giudice, da assegnare ai predetti tribunali nel numero massimo previsto dall'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022).
 
 ## Art. 3.
 

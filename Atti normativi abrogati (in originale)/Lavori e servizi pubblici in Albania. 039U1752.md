@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 18 aprile 1939, n. 624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-18;624), col quale venne istituito presso il Ministero degli affari esteri il Sottosegretariato di Stato per gli affari albanesi;
+Visto il [R. decreto 18 aprile 1939, n. 624](Istituzione%20presso%20il%20Ministero%20degli%20affari%20esteri%20del%20Sotto-segretariato%20di%20Stato%20per%20gli%20affari%20albanesi.%20039U0624.md), col quale venne istituito presso il Ministero degli affari esteri il Sottosegretariato di Stato per gli affari albanesi;
 
 Viste la [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F, e le successive disposizioni;
 
@@ -24,7 +24,7 @@ Visti il [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N
 
 Visto il [R. decreto 2 maggio 1920, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-02;597);
 
-Visto il [R. decreto-legge 4 agosto 1924, n. 1262](Norme%20per%20il%20passaggio%20al%20Ministero%20dei%20lavori%20pubblici%20degli%20uffici%20e%20del%20personale%20delle%20nuove%20costruzioni%20ferroviarie.%20024U1262.md), convertito nella [legge 15 luglio 1926, n. 1263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-15;1263), e le successive disposizioni;
+Visto il [R. decreto-legge 4 agosto 1924, n. 1262](Norme%20per%20il%20passaggio%20al%20Ministero%20dei%20lavori%20pubblici%20degli%20uffici%20e%20del%20personale%20delle%20nuove%20costruzioni%20ferroviarie.%20024U1262.md), convertito nella [legge 15 luglio 1926, n. 1263](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1263.md), e le successive disposizioni;
 
 Vista la [legge 17 maggio 1928, n. 1094](Istituzione%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1094.md);
 
@@ -32,7 +32,7 @@ Vista la [legge 1° giugno 1931, n. 678](Ordinamento%20del%20Consiglio%20superio
 
 Visto il [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215);
 
-Visto il [R. decreto 3 febbraio 1938, n. 591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-02-03;591);
+Visto il [R. decreto 3 febbraio 1938, n. 591](Revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20nellAfrica%20Italiana.%20038U0591.md);
 
 Visto il [R. decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165);
 
@@ -150,7 +150,7 @@ Analoga a quella del Consiglio superiore dei lavori pubblici e' la competenza de
 
 ## Art. 9.
 
-Per i lavori da eseguirsi in Albania hanno vigore, in quanto attuabili, le norme previste, per la revisione dei prezzi, nel [R. decreto 3 febbraio 1938, n. 591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-02-03;591). 
+Per i lavori da eseguirsi in Albania hanno vigore, in quanto attuabili, le norme previste, per la revisione dei prezzi, nel [R. decreto 3 febbraio 1938, n. 591](Revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20nellAfrica%20Italiana.%20038U0591.md). 
  
  La Commissione di cui all'art. 6 del citato decreto e' composta come indicato nell'art. 7 del presente decreto.
 

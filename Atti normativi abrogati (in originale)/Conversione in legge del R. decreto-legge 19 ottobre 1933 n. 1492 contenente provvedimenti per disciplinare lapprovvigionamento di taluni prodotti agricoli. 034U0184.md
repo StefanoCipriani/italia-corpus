@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1492), contenente provvedimenti per disciplinare l'approvvigionamento di taluni prodotti agricoli. 
+ E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1492](Provvedimenti%20per%20disciplinare%20lapprovvigionamento%20di%20taluni%20prodotti%20agricoli.%20033U1492.md), contenente provvedimenti per disciplinare l'approvvigionamento di taluni prodotti agricoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello State. 
  

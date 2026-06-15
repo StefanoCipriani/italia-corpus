@@ -142,7 +142,7 @@ I sottoindicati articoli della [legge 7 luglio 1907, n. 429](Riguardante%20lordi
  
  Art. 35, comma 2°: 
  
- Ai reclami relativi al contratto di trasporto di persone e di cose, presentati all'Amministrazione delle ferrovie dello Stato, non sono applicabili gli articoli 19, n. 3, e 20, n. 34, del testo unico delle leggi sulle tasse di bollo, approvato col [R. decreto 4 luglio 1897, n. 414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-07-04;414). 
+ Ai reclami relativi al contratto di trasporto di persone e di cose, presentati all'Amministrazione delle ferrovie dello Stato, non sono applicabili gli articoli 19, n. 3, e 20, n. 34, del testo unico delle leggi sulle tasse di bollo, approvato col [R. decreto 4 luglio 1897, n. 414](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md). 
  
  Art. 38, comma 2°: 
  
@@ -225,7 +225,7 @@ In casi eccezionali possono, con deliberazione del Consiglio dei ministri, esser
 
 ## Art. 4.
 
-Salvo il disposto dell'[art. 180 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_180), l'Amministrazione delle ferrovie dello Stato non e' tenuta a comunicare all'autorita' giudiziaria gli atti e le relazioni delle inchieste in ogni caso di sinistro che abbia recato danno alle persone o alle cose.
+Salvo il disposto dell'[art. 180 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), l'Amministrazione delle ferrovie dello Stato non e' tenuta a comunicare all'autorita' giudiziaria gli atti e le relazioni delle inchieste in ogni caso di sinistro che abbia recato danno alle persone o alle cose.
 
 ## Art. 5.
 

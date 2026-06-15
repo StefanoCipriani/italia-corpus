@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 ottobre 1933, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-26;1443), che stabilisce l'estensione del marchio nazionale istituito con [legge 23 giugno 1927, n. 1272](Provvedimento%20relativo%20alla%20istituzione%20di%20un%20marchio%20nazionale%20per%20i%20prodotti%20ortifrutticoli%20diretti%20allestero.%20027U1272.md), alla esportazione dei vini, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 26 ottobre 1933, n. 1443](Estensione%20del%20marchio%20nazionale%20istituito%20con%20legge%2023%20giugno%201927%20n.%201272%20alla%20esportazione%20dei%20vini.%20033U1443.md), che stabilisce l'estensione del marchio nazionale istituito con [legge 23 giugno 1927, n. 1272](Provvedimento%20relativo%20alla%20istituzione%20di%20un%20marchio%20nazionale%20per%20i%20prodotti%20ortifrutticoli%20diretti%20allestero.%20027U1272.md), alla esportazione dei vini, con le seguenti modificazioni: 
  
  Il secondo comma dell'art. 9 e' sostituito dal seguente: 
  

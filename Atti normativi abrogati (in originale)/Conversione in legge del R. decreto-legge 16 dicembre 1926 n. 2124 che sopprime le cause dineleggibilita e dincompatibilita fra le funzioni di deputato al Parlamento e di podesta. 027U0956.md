@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 dicembre 1926, n. 2124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-16;2124), che sopprime le cause d'ineleggibilita' e d'incompatibilita' tra le funzioni di deputato al Parlamento e di podesta'. 
+ E' convertito in legge il [R. decreto-legge 16 dicembre 1926, n. 2124](Cessazione%20delle%20cause%20di%20ineleggibilita%20e%20di%20incompatibilita%20tra%20le%20funzioni%20di%20deputato%20al%20Parlamento%20e%20di%20podesta.%20026U2124.md), che sopprime le cause d'ineleggibilita' e d'incompatibilita' tra le funzioni di deputato al Parlamento e di podesta'. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 12 febbraio 1955, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-02-12;51), che delega al Governo l'emanazione di norme generali e speciali in materia di prevenzione infortuni e di igiene del lavoro;
+Vista la [legge 12 febbraio 1955, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Potere%20esecutivo%20ad%20emanare%20norme%20generali%20e%20speciali%20in%20materia%20di%20prevenzione%20degli%20infortuni%20e%20di%20igiene%20del%20lavoro.md), che delega al Governo l'emanazione di norme generali e speciali in materia di prevenzione infortuni e di igiene del lavoro;
 
 Visto il [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), contenente norme per la prevenzione degli infortuni sul lavoro;
 
@@ -603,7 +603,7 @@ Il Ministro per il lavoro e la previdenza sociale, sentita la Commissione di cui
 ### Art. 81. — Decorrenza
 
 Il presente decreto entra in vigore il 10 aprile 1956.
- A decorrere da tale data sono abrogate le disposizioni dei regolamento approvato con [regio decreto 27 maggio 1900, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-05-27;205), che concernono i lavori di costruzione disciplinati dal presente decreto.
+ A decorrere da tale data sono abrogate le disposizioni dei regolamento approvato con [regio decreto 27 maggio 1900, n. 205](Che%20approva%20il%20Regolamento%20per%20la%20prevenzione%20degli%20infortuni%20nelle%20costruzioni%20contemplate%20dalla%20legge%2017%20marzo%201898%20n.%2080.%20000U0205.md), che concernono i lavori di costruzione disciplinati dal presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

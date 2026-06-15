@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' Convertito in legge il [R. decreto-legge 26 febbraio 1928, N. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-26;333), col quale si concede alle ditte fabbricanti di automobili l'importazione in franchigia da dazio doganale e da tassa di vendita della benzina, del petrolio e degli oli minerali greggi destinati al consumo per il collaudo delle vetture automobili. 
+ E' Convertito in legge il [R. decreto-legge 26 febbraio 1928, N. 333](Provvedimenti%20per%20lindustria%20automobilistica.%20028U0333.md), col quale si concede alle ditte fabbricanti di automobili l'importazione in franchigia da dazio doganale e da tassa di vendita della benzina, del petrolio e degli oli minerali greggi destinati al consumo per il collaudo delle vetture automobili. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

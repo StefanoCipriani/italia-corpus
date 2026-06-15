@@ -20,9 +20,9 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 14 giugno 1907, n. 324, e 27 giugno 1912, n. 678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-27;678);
+Viste le [leggi 14 giugno 1907, n. 324, e 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md);
 
-Visto il regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1217)
+Visto il regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md)
 
 Visto il Nostro decreto 7 gennaio 1917, n. 36;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per la istruzione pubblica; Abbi
 
 ## Art. 1.
 
-La facolta' di fruire dell'anticipazione di esami di qualsiasi specie, nelle scuole medie e normali e nei corsi magistrali, in deroga al disposto dell'[art. 6 della legge 14 giugno 1907, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-14;324#art_6), e degli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217#art_4) e [20 del regolamento 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217#art_20), estesa a tutti gli alunni e candidati soggetti ad obblighi militari fino alla classe di leva 1900 inclusa.
+La facolta' di fruire dell'anticipazione di esami di qualsiasi specie, nelle scuole medie e normali e nei corsi magistrali, in deroga al disposto dell'[art. 6 della legge 14 giugno 1907, n. 324](Concernente%20disposizione%20per%20gli%20esami%20nelle%20Scuole%20medie%20ed%20elementari%20007U0324.md), e degli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217#art_4) e [20 del regolamento 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217#art_20), estesa a tutti gli alunni e candidati soggetti ad obblighi militari fino alla classe di leva 1900 inclusa.
 
 ## Art. 2.
 

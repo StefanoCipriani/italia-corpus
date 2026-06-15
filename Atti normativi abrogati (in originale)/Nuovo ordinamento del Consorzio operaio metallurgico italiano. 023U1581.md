@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 settembre 1919, n. 1789](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-28;1789), col quale il Consorzio operaio metallurgico italiano, con sede in Genova, venne eretto in ente morale e ne venne approvato lo statuto organico relativo;
+Visto il [R. decreto 28 settembre 1919, n. 1789](Erezione%20in%20Ente%20morale.%20019U1789.md), col quale il Consorzio operaio metallurgico italiano, con sede in Genova, venne eretto in ente morale e ne venne approvato lo statuto organico relativo;
 
 Ritenuta l'opportunita' di modificare, secondo i suggerimenti dell'esperienza, l'ordinamento del Consorzio stesso in modo da renderlo piu' atto al raggiungimento dei fini pei quali fu costituito, nonche' di facilitare gli esperimenti di cooperazione nel campo industriale;
 
@@ -68,7 +68,7 @@ Indipendentemente dagli atti di cessione di credito verso le stazioni appaltanti
  
  3° Che l'atto costituito del privilegio sia depositato in copia presso la cancelleria del Tribunale nella cui circoscrizione l'Ente debitore, ha la propria sede. 
  
- Nell'atto costituzione del privilegio puo' essere nominato, d'accordo fra le parti, un custode delle cose mobili sottoposte al privilegio, il quale avra' gli obblighi del depositario giudiziale e, in caso di menomazione, deterioramento o sottrazione delle cose sottoposte al privilegio, sara' passibile delle penalita' stabilite dall'[art. 203 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_203). 
+ Nell'atto costituzione del privilegio puo' essere nominato, d'accordo fra le parti, un custode delle cose mobili sottoposte al privilegio, il quale avra' gli obblighi del depositario giudiziale e, in caso di menomazione, deterioramento o sottrazione delle cose sottoposte al privilegio, sara' passibile delle penalita' stabilite dall'[art. 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Il contratto di costituzione del privilegio dovra' essere scritto su carta da bollo da L. 1 e sara' registrato con la tassa fissa di L.
 3.

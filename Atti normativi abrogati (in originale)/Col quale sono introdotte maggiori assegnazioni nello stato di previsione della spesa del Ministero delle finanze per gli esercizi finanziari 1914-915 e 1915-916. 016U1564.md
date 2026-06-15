@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 4 giugno 1893, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-04;260);
+Vista la [legge 4 giugno 1893, n. 260](Che%20modifica%20la%20legge%2011%20luglio%201889%20sulla%20contabilita%20generale%20dello%20Stato.%20093U0260.md);
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Udito il Consiglio dei ministri;
 

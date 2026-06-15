@@ -28,7 +28,7 @@ Lo scarico delle bollette di temporanea importazione per ogni cento chilogrammi 
 
 ## Art. 3.
 
-Le disposizioni di cui al precedente art. 2 si applicano, a richiesta delle ditte importatrici, anche per lo scarico delle bollette di temporanea importazione di cacao in grani gia' emesse, alla data di entrata in vigore della presente legge, in base alla concessione prevista dal [regio decreto-legge 7 giugno 1928, n. 1356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-07;1356).
+Le disposizioni di cui al precedente art. 2 si applicano, a richiesta delle ditte importatrici, anche per lo scarico delle bollette di temporanea importazione di cacao in grani gia' emesse, alla data di entrata in vigore della presente legge, in base alla concessione prevista dal [regio decreto-legge 7 giugno 1928, n. 1356](Ammissione%20di%20nuove%20merci%20al%20beneficio%20della%20temporanea%20importazione.%20028U1356.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

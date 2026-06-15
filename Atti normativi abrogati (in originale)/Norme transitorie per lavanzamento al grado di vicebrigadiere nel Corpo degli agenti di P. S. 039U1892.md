@@ -40,7 +40,7 @@ L'esame di concorso comporta una prova scritta e una prova orale.
  
  La prova orale verte sulle seguenti materie: 
  
- a) nozioni di [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e di procedura penale (per la parte concernente la polizia giudiziaria); 
+ a) nozioni di [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di procedura penale (per la parte concernente la polizia giudiziaria); 
  
  b) legge di P. S. e relativo regolamento; 
  

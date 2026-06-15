@@ -83,7 +83,7 @@ Fermo restando il disposto dell'[art. 6 della legge 23 giugno 1904, n. 258](Conc
 
 ## Art. 11.
 
-Nulla e' innovato al disposto degli articoli 5, 6, 8, 13, 14 e 15 del regolamento approvato col [Regio decreto 16 gennaio 1876, n. 2914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-01-16;2914). 
+Nulla e' innovato al disposto degli articoli 5, 6, 8, 13, 14 e 15 del regolamento approvato col [Regio decreto 16 gennaio 1876, n. 2914](Concernente%20il%20riordinamento%20degli%20uffizi%20del%20contenzioso%20finanziario.%20076U2914.md). 
  
  Tutte le altre disposizioni di quel regolamento sono abrogate.
 

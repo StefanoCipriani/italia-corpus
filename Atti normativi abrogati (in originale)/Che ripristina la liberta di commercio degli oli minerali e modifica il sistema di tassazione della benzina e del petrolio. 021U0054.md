@@ -18,9 +18,9 @@ Visto il [R. decreto 15 settembre 1915, n. 1373](https://www.normattiva.it/uri-r
 
 Visto il [decreto Luogotenenziale 29 agosto 1918, numero 1260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-29;1260), sulla istituzione di un Comitato degli oli minerali;
 
-Visto il [R. decreto 24 luglio 1919, n. 1296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-24;1296), sul divieto d'importazione di talune merci e il decreto Ministeriale 30 dicembre 1920 che ne modifica le voci;
+Visto il [R. decreto 24 luglio 1919, n. 1296](Che%20ristabilisce%20la%20liberta%20delle%20importazioni%20nel%20Regno%20di%20tutte%20le%20merci%20di%20provenienza%20estera%20salvo%20gli%20speciali%20portati%20dal%20decreto%20medesimo.%20019U1296.md), sul divieto d'importazione di talune merci e il decreto Ministeriale 30 dicembre 1920 che ne modifica le voci;
 
-Visto il [R. decreto 2 settembre 1919, n. 1587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-02;1587), sulla istituzione della Direzione generale dei combustibili;
+Visto il [R. decreto 2 settembre 1919, n. 1587](Che%20provvede%20al%20riordinamento%20del%20Ministero%20per%20i%20trasporti%20marittimi%20e%20ferroviari.%20019U1587.md), sulla istituzione della Direzione generale dei combustibili;
 
 Visto il [R. decreto 8 aprile 1920, n. 630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-08;630), sulla istituzione di un Comitato centrale per l'approvvigionamento e la assegnazione dei combustibili;
 

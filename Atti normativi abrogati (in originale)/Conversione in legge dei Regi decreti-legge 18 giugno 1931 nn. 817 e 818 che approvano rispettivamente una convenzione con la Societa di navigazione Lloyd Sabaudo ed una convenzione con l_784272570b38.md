@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  Articolo unico. 
  
  Sono convertiti in legge i [Regi decreti-legge: 
- 18 giugno 1931, n. 817](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-18;817), che approva una convenzione con la Societa' di navigazione «Lloyd Sabaudo» per l'esercizio della linea Genova-Australia; 
+ 18 giugno 1931, n. 817](Convenzione%20con%20la%20Societa%20di%20navigazione%20Lloyd%20Sabaudo%20per%20lesercizio%20della%20linea%20Genova-Australia.%20031U0817.md), che approva una convenzione con la Societa' di navigazione «Lloyd Sabaudo» per l'esercizio della linea Genova-Australia; 
  18 giugno 1931, n. 818, che approva una convenzione con la Societa' «Navigazione Generale Italiana» per l'esercizio della linea Genova-Australia. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 21 dicembre 1931 - Anno X 

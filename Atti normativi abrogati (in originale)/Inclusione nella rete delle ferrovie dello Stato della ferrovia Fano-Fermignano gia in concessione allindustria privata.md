@@ -26,7 +26,7 @@ Sulla proposta del Ministro per i trasporti, d'intesa coi Ministri per il tesoro
 
 ## Art. 1.
 
-La ferrovia Fano-Fermignano, gia' concessa all'industria privata e divenuta di libera disponibilita' dello Stato, per affetto del [R. decreto 7 settembre 1933, numero 1274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-07;1274), col quale fu dichiarata la decadenza della concessionaria Societa' anonima ferrovie e tramvie Padane, e' inclusa nella rete delle ferrovie dello Stato e l'Amministrazione delle ferrovie dello Stato e' autorizzata ad assumerne l'esercizio.
+La ferrovia Fano-Fermignano, gia' concessa all'industria privata e divenuta di libera disponibilita' dello Stato, per affetto del [R. decreto 7 settembre 1933, numero 1274](Decadenza%20della%20Societa%20anonima%20delle%20ferrovie%20e%20tramvie%20Padane%20dalla%20concessione%20delle%20ferrovie%20Ostellato-Porto%20Garibaldi%20Fano-Fermignano%20Rimini-Mercatino%20e%20Ferrara-Codigoro.%20033U1274.md), col quale fu dichiarata la decadenza della concessionaria Societa' anonima ferrovie e tramvie Padane, e' inclusa nella rete delle ferrovie dello Stato e l'Amministrazione delle ferrovie dello Stato e' autorizzata ad assumerne l'esercizio.
 
 ## Art. 2.
 

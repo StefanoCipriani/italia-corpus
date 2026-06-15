@@ -14,7 +14,7 @@ Visto il [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-re
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto l'[art. 2 del regio decreto legislativo 31 maggio 1946, n. 534](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;534#art_2);
 
@@ -33,7 +33,7 @@ Gli affari civili e penali in corso al 31 gennaio 1947 presso gli uffici giudizi
 
 ## Art. 3.
 
-Dal 1 febbraio 1947, le piante organiche del personale della Magistratura, dei funzionari di cancelleria e di segreteria, degli ufficiali giudiziari e degli uscieri giudiziari risultanti dalle tabelle H ed I, allegate al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12); A, B, C, D ed E, annesse al [regio decreto 8 agosto 1942, n. 1881](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-08-08;1881), e G, annessa al [regio decreto-legge 28 novembre 1933, n. 1282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-28;1282), con le rispettive successive variazioni, sono modificate - per la parte relativa agli uffici cui si riferiscono - come dalle tabelle E, F, G, H, I, L, M, ed N, allegate al presente decreto e vistate dai Ministri per la grazia e giustizia e per il tesoro.
+Dal 1 febbraio 1947, le piante organiche del personale della Magistratura, dei funzionari di cancelleria e di segreteria, degli ufficiali giudiziari e degli uscieri giudiziari risultanti dalle tabelle H ed I, allegate al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12); A, B, C, D ed E, annesse al [regio decreto 8 agosto 1942, n. 1881](Determinazione%20delle%20piante%20organiche%20del%20personale%20di%20cancellerie%20e%20segreterie%20giudiziarie%20addetto%20al%20Ministero%20ed%20agli%20uffici%20giudiziari%20del%20Regno.%20042U1881.md), e G, annessa al [regio decreto-legge 28 novembre 1933, n. 1282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-28;1282), con le rispettive successive variazioni, sono modificate - per la parte relativa agli uffici cui si riferiscono - come dalle tabelle E, F, G, H, I, L, M, ed N, allegate al presente decreto e vistate dai Ministri per la grazia e giustizia e per il tesoro.
 
 ## Art. 4.
 

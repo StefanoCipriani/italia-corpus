@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il diritto sull'esportazione della frutta fresca e secca, degli agrumi e degli ortaggi, stabilito a favore dell'Istituto nazionale per il commercio estero dall'[art. 9 del regio decreto-legge 20 dicembre 1937, n. 2213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-12-20;2213#art_9), convertito nella [legge 2 maggio 1938, n. 864](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-05-02;864), modificato dai decreti legislativi del Capo provvisorio dello State 16 settembre 1946, n. 163 e 23 luglio 1947, n. 797, e' ulteriormente modificato come appresso:
+Il diritto sull'esportazione della frutta fresca e secca, degli agrumi e degli ortaggi, stabilito a favore dell'Istituto nazionale per il commercio estero dall'[art. 9 del regio decreto-legge 20 dicembre 1937, n. 2213](Norme%20che%20regolano%20luso%20del%20marchio%20nazionale%20obbligatorio%20per%20i%20prodotti%20ortofrutticoli%20destinati%20allesportazione.%20037U2213.md), convertito nella [legge 2 maggio 1938, n. 864](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20dicembre%201937-XVI%20n.%202213%20portante%20norme%20che%20regolano%20luso%20del%20marchio%20nazionale%20obbligatorio%20per%20i%20prodotti%20ortofrutticoli%20destinati%20allespor_4c56a1485df8.md), modificato dai decreti legislativi del Capo provvisorio dello State 16 settembre 1946, n. 163 e 23 luglio 1947, n. 797, e' ulteriormente modificato come appresso:
  lire 20 al quintale per gli ortaggi;
  lire 40 al quintale per la frutta fresca e agrumi;
  lire 80 al quintale per la frutta secca in guscio e frutta essiccata in genere, nonche' per le castagne secche sgusciate;

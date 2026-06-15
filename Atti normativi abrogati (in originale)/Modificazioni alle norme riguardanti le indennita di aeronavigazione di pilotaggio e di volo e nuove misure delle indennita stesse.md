@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'art. 1 delle norme sulle indennita' da corrispondere al personale militare e civile dell'Aeronautica, approvate con [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito, con modificazioni, nella [legge 4 aprile 1935, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;808), quale risulta successivamente modificato, e' abrogato e sostituito dal seguente:
+L'art. 1 delle norme sulle indennita' da corrispondere al personale militare e civile dell'Aeronautica, approvate con [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito, con modificazioni, nella [legge 4 aprile 1935, n. 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md), quale risulta successivamente modificato, e' abrogato e sostituito dal seguente:
 
  Art. 1. - "Agli ufficiali dell'Arma aeronautica, ruoli naviganti, nonche' agli ufficiali dell'Esercito, della Marina e delle altre Forze armate dello Stato, comandati nell'Aeronautica militare in servizio aeronavigante, quando essendone abilitati in dipendenza del conseguimento di brevetto aeronautico militare, siano in attivita' di volo, e' dovuta l'indennita' mensile normale di aeronavigazione stabilita dall'annessa tabella A.
  "Agli ufficiali piloti che appartengono a speciali reparti denominati, con decreto ministeriale, di alta velocita' e che svolgono normalmente attivita' aerea si velivoli di alta velocita' ed agli ufficiali piloti che appartengono ai reparti denominati, con decreto ministeriale, di navigazione stratosferica e che svolgono normalmente attivita' aerea a quote superiori ai metri 10.000 e' dovuta, in aggiunta all'indennita' normale di aeronavigazione, l'indennita' mensile supplementare di lire 20.100 se colonnelli o generali e di lire 19.100 se di gradi inferiori a colonnello.
@@ -26,7 +26,7 @@ L'art. 1 delle norme sulle indennita' da corrispondere al personale militare e c
 
 ## Art. 2.
 
-L'art. 2 delle norme approvate con [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito, con modificazioni, nella [legge 4 aprile 1935, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;808), quale risulta successivamente modificato, e' abrogato e sostituito dal seguente:
+L'art. 2 delle norme approvate con [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito, con modificazioni, nella [legge 4 aprile 1935, n. 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md), quale risulta successivamente modificato, e' abrogato e sostituito dal seguente:
 
  Art. 2. - "Ai sottufficiali e militari di truppa dell'Arma aeronautica, ruolo naviganti, i quali si trovino nelle condizioni di cui al precedente art. 1, e' dovuta l'indennita' mensile normale di pilotaggio stabilita dall'annessa tabella B.
  "Ai sottufficiali piloti che appartengono a speciali reparti denominati, con decreto ministeriale, di alta velocita' e che svolgono normalmente attivita' aerea su apparecchi di alta velocita' ed ai sottufficiali piloti che appartengono ai reparti denominati, con decreto Ministeriale, di navigazione stratosferica e che svolgono normalmente attivita' aerea a quote superiori ai metri 10.000 e' dovuta, in aggiunta all'indennita' normale di pilotaggio, l'indennita' mensile supplementare di lire 19.100.
@@ -49,7 +49,7 @@ Agli ufficiali e sottufficiali piloti nominati con decreto ministeriale istrutto
 
 ## Art. 4.
 
-L'art. 4 delle norme approvate con [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito, con modificazioni, nella [legge 4 aprile 1935, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;808), quale risulta successivamente modificato, e' abrogato e sostituito dal seguente:
+L'art. 4 delle norme approvate con [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito, con modificazioni, nella [legge 4 aprile 1935, n. 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md), quale risulta successivamente modificato, e' abrogato e sostituito dal seguente:
 
  Art. 4.- "Al personale militare che frequenta corsi di pilotaggio, compreso quello che si svolge presso la Accademia aeronautica, e' dovuta, dalla data del conseguimento del brevetto di pilota di aeroplano fino a quella del conseguimento del brevetto aeronautico militare, l'indennita' mensile di pilotaggio di lire 9500.
  "La stessa indennita' compete al personale militare in possesso del brevetto di pilota di aeroplano che svolge attivita' di volo.
@@ -57,7 +57,7 @@ L'art. 4 delle norme approvate con [regio decreto-legge 20 luglio 1934, n. 1302]
 
 ## Art. 5.
 
-L'indennita' di volo di cui all'art. 9 delle norme approvate con [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito, con modificazioni, nella [legge 4 aprile 1935, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;808), quale risulta successivamente modificato, e' stabilita nelle seguenti misure:
+L'indennita' di volo di cui all'art. 9 delle norme approvate con [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito, con modificazioni, nella [legge 4 aprile 1935, n. 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md), quale risulta successivamente modificato, e' stabilita nelle seguenti misure:
  ufficiali del Corpo genio aeronautico ruolo ingegneri, categor ia ingegneri e categoria geofisici:
  colonnelli o generali.................................. L. 15.6 00
  gradi inferiori a colonnello........................... " 14.9 00
@@ -69,7 +69,7 @@ L'indennita' di volo di cui all'art. 9 delle norme approvate con [regio decreto-
 
 ## Art. 6.
 
-Il primo comma dell'art. 10 delle norme approvate con [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito, con modificazioni, nella [legge 4 aprile 1935, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;808), quale risulta successivamente modificato, e' abrogato e sostituito dai seguenti:
+Il primo comma dell'art. 10 delle norme approvate con [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito, con modificazioni, nella [legge 4 aprile 1935, n. 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md), quale risulta successivamente modificato, e' abrogato e sostituito dai seguenti:
  "Agli ufficiali dell'Arma aeronautica, ruolo servizi, qualora provengano dal servizio permanente effettivo dei ruoli naviganti, dopo avervi compiuto un periodo di servizio aeronavigante non inferiore a 10 anni o dopo essere stati dichiarati inabili al pilotaggio in seguito a lesioni dovute a cause di servizio aeronavigante. nonche' agli ufficiali dell'Arma aeronautica, ruolo specialisti, e del Corpo del genio aeronautico, ruolo assistenti tecnici, aventi l'obbligo continuativo di volo, e' dovuta l'indennita' mensile di volo di lire 7800 se colonnelli o generali e di lire 7400 se di gradi inferiori a colonnello.
  "Per avere diritto a tale indennita' i suddetti ufficiali debbono compiere, entro il periodo di tempo stabilito dal Ministero, il minimo dei voli da questo prescritto.
  "Agli ufficiali dell'Arma aeronautica, ruolo specialisti, e del Corpo del genio aeronautico, ruolo assistenti tecnici, facenti parte di equipaggi fissi di volo compete l'indennita' mensile di lire 10.600".
@@ -80,7 +80,7 @@ Il primo, secondo e terzo comma dell'art. 11 delle norme approvate con [regio de
 
 ## Art. 8.
 
-La tabella di cui al primo comma dell'art. 12 delle norme approvate con [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito, con modificazioni, nella [legge 4 aprile 1935, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;808), quale risulta, successivamente modificato, e' abrogata e sostituita dalla seguente: 
+La tabella di cui al primo comma dell'art. 12 delle norme approvate con [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito, con modificazioni, nella [legge 4 aprile 1935, n. 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md), quale risulta, successivamente modificato, e' abrogata e sostituita dalla seguente: 
  
 
  Indennita per ogni volo
@@ -104,7 +104,7 @@ durata superiore........ " 3.180 3.360
 
 ## Art. 9.
 
-Le indennita' previste dalla presente legge non sono cumulabili con gli assegni di cui al regolamento approvato con [regio decreto 15 luglio 1938, n. 1156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-15;1156), e successive modificazioni. Qualora, pero', si tratti di personale che svolga attivita' aeronavigante con aerei imbarcati o che presti effettivo servizio presso comandi aerei o navali imbarcati, verranno corrisposti entrambi i suddetti trattamenti dei quali il piu' favorevole in misura intera e l'altro in misura ridotta alla meta'.
+Le indennita' previste dalla presente legge non sono cumulabili con gli assegni di cui al regolamento approvato con [regio decreto 15 luglio 1938, n. 1156](Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md), e successive modificazioni. Qualora, pero', si tratti di personale che svolga attivita' aeronavigante con aerei imbarcati o che presti effettivo servizio presso comandi aerei o navali imbarcati, verranno corrisposti entrambi i suddetti trattamenti dei quali il piu' favorevole in misura intera e l'altro in misura ridotta alla meta'.
 
 ## Art. 10.
 

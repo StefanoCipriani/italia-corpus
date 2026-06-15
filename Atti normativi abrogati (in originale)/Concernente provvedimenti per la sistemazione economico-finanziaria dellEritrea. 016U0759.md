@@ -18,7 +18,7 @@ Entro l'anno 1916 sara' bandito un concorso a premi pei coltivatori di caffe', s
 
 ## Art. 3.
 
-Per la sistemazione idraulica di Carcabat e per lo studio di un'opera idraulici nella valle di Ghinda sara' erogata, nel modo che sara' stabilito dal Governatore, la somma di L. 53.000 risultante, ai sensi del secondo capoverso dell'[art. 3 della legge 1° aprile 1915, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;448#art_3), dalla differenza tra l'aumento del contributo per l'esercizio 1915-916 e le spese stabilite con gli articoli 1 e 2 del presente decreto.
+Per la sistemazione idraulica di Carcabat e per lo studio di un'opera idraulici nella valle di Ghinda sara' erogata, nel modo che sara' stabilito dal Governatore, la somma di L. 53.000 risultante, ai sensi del secondo capoverso dell'[art. 3 della legge 1° aprile 1915, n. 448](Che%20reca%20provvedimenti%20per%20la%20sistemazione%20economica-finanziaria%20delleritrea.%20015U0448.md), dalla differenza tra l'aumento del contributo per l'esercizio 1915-916 e le spese stabilite con gli articoli 1 e 2 del presente decreto.
 
 ## Art. 4.
 

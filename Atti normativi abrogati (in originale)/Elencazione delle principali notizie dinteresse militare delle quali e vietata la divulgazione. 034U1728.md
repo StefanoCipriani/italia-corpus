@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_256), [258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_258) e [262 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_262) comune;
+Visti gli [articoli 256](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [258](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [262 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune;
 
 Riconosciuta l'opportunita' di emanare un provvedimento di carattere generale che precisi l'oggetto delle principali notizie d'interesse militare delle quali e' vietata la divulgazione e che imponga nel contempo per le notizie medesime l'osservanza di tale divieto;
 
@@ -24,7 +24,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Indipendentemente dalle notizie che, per la loro speciale natura e per il grave nocumento che potrebbe derivare dalla loro divulgazione, debbono rimanere segrete, nell'interesse della sicurezza dello Stato, e senza pregiudizio all'applicazione delle disposizioni penali previste a tutela delle notizie medesime, e' vietata, ai sensi e per gli effetti delle disposizioni penali di cui agli articoli 256, 2° capoverso, 258 e 262 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) comune e per la parte che compete alle amministrazioni militari, la divulgazione, sia nel territorio dello Stato che all'estero, delle notizie elencate nell'allegato al presente decreto, che sara' firmato, d'ordine Nostro, dal Ministro proponente. 
+Indipendentemente dalle notizie che, per la loro speciale natura e per il grave nocumento che potrebbe derivare dalla loro divulgazione, debbono rimanere segrete, nell'interesse della sicurezza dello Stato, e senza pregiudizio all'applicazione delle disposizioni penali previste a tutela delle notizie medesime, e' vietata, ai sensi e per gli effetti delle disposizioni penali di cui agli articoli 256, 2° capoverso, 258 e 262 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune e per la parte che compete alle amministrazioni militari, la divulgazione, sia nel territorio dello Stato che all'estero, delle notizie elencate nell'allegato al presente decreto, che sara' firmato, d'ordine Nostro, dal Ministro proponente. 
  
  Tale elencazione, suscettibile di aggiornamento con successivo analogo decreto, non esclude che, da parte dell'autorita' competente, ai sensi e per gli effetti delle disposizioni penali sopra indicate, possa essere imposto divieto di divulgazione per notizie non contemplate dall'allegato suddetto, mediante separati provvedimenti da portare a conoscenza del pubblico ed anche con semplice diffida agli interessati, qualora il divieto debba imporsi soltanto a determinate persone.
 

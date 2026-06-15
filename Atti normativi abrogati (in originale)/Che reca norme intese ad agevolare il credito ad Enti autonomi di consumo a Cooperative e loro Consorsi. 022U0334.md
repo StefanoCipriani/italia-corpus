@@ -52,7 +52,7 @@ Nell'atto di costituzione del privilegio puo' essere nominato d'accordo fra le p
 
 ## Art. 5.
 
-Quando le cose sottoposte al privilegio siano menomate, deteriorate o distratte si applicano le penalita' stabilite dall'[art. 203 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_203).
+Quando le cose sottoposte al privilegio siano menomate, deteriorate o distratte si applicano le penalita' stabilite dall'[art. 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 

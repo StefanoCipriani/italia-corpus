@@ -34,7 +34,7 @@ E' in facolta' degli istituti autonomi per le case popolari e degli altri enti p
 
 ## Art. 3.
 
-All'[articolo 40 del decreto del Presidente della Repubblica 11 ottobre 1963, n. 1471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-10-11;1471#art_40), e' aggiunto il seguente comma:
+All'[articolo 40 del decreto del Presidente della Repubblica 11 ottobre 1963, n. 1471](../DPR/Regolamento%20di%20attuazione%20della%20legge%2014%20febbraio%201963%20n.%2060%20sulla%20liquidazione%20del%20patrimonio%20edilizio%20della%20Gestione%20INA-Casa%20e%20listituzione%20di%20un%20programma%20decennale%20di%20costruzione%20di%20_78029f086213.md), e' aggiunto il seguente comma:
  "I comitati provinciali possono chiedere e fornire notizie agli istituti autonomi per le case popolari in merito all'andamento della gestione amministrativa degli alloggi trasferiti in proprieta' degli istituti stessi ai sensi della [legge 14 febbraio 1963, n. 60](Liquidazione%20del%20patrimonio%20edilizio%20della%20Gestione%20I.N.A.-Casa%20e%20istituzione%20di%20un%20programma%20decennale%20di%20costruzione%20di%20alloggi%20per%20lavoratori.md)".
 
 ## Art. 4.

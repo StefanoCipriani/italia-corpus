@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Ritenuta la necessita' di aumentare di L. 120 000 lo stanziamento del capitolo n. 247 «Spese di qualsiasi natura per agevolare i Consorzi provinciali di cui al [R. decreto 20 dicembre 1914, n. 1374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-12-20;1374), nella loro azione di approvvigionamento e di distribuzione di cereali e di farina» dello stato di previsione della spesa del Ministero di agricoltura, industria e commercio per lo esercizio finanziario 1915-916;
+Ritenuta la necessita' di aumentare di L. 120 000 lo stanziamento del capitolo n. 247 «Spese di qualsiasi natura per agevolare i Consorzi provinciali di cui al [R. decreto 20 dicembre 1914, n. 1374](Relativo%20alla%20formazione%20di%20Consorzi%20provinciali%20per%20acquisto%20di%20grano.%20014U1374.md), nella loro azione di approvvigionamento e di distribuzione di cereali e di farina» dello stato di previsione della spesa del Ministero di agricoltura, industria e commercio per lo esercizio finanziario 1915-916;
 
 Considerato che alla suddetta maggiore spesa puo' farsi fronte con trasporto di fondi per corrispondente importo da altri capitoli dello stesso bilancio per l'esercizio predetto;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Udito il Consiglio dei ministri;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto con q
 
 ## Art. 1.
 
-Lo stanziamento del capitolo n. 247 «Spese di qualsiasi natura per agevolare i Consorzi provinciali di cui al [R. decreto 20 dicembre 1914, n. 1374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-12-20;1374), nella loro azione di approvvigionamento e di distribuzione di cereali e di farina» dello stato di previsione del Ministero di agricoltura, industria e commercio per l'esercizio finanziario 1915-916 e' aumentato di lire centoventimila (L. 120.000).
+Lo stanziamento del capitolo n. 247 «Spese di qualsiasi natura per agevolare i Consorzi provinciali di cui al [R. decreto 20 dicembre 1914, n. 1374](Relativo%20alla%20formazione%20di%20Consorzi%20provinciali%20per%20acquisto%20di%20grano.%20014U1374.md), nella loro azione di approvvigionamento e di distribuzione di cereali e di farina» dello stato di previsione del Ministero di agricoltura, industria e commercio per l'esercizio finanziario 1915-916 e' aumentato di lire centoventimila (L. 120.000).
 
 ## Art. 2.
 

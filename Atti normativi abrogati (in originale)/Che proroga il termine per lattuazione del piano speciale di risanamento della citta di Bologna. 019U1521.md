@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Ritenuta la necessita' di prorogare il termine per la attuazione del piano speciale di risanamento della citta' di Bologna, approvato con R. decreto 22 luglio 1887 e successivamente protratto con le [leggi 11 aprile 1889, n. 6020, 29 giugno 1902, n. 256, 11 luglio 1907, n. 459, e 4 giugno 1914, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-04;539) fino al 23 aprile 1919;
+Ritenuta la necessita' di prorogare il termine per la attuazione del piano speciale di risanamento della citta' di Bologna, approvato con R. decreto 22 luglio 1887 e successivamente protratto con le [leggi 11 aprile 1889, n. 6020, 29 giugno 1902, n. 256, 11 luglio 1907, n. 459, e 4 giugno 1914, n. 539](Che%20proroga%20il%20termine%20per%20lattuazione%20del%20piano%20di%20risanamento%20della%20citta%20di%20Bologna.%20014U0539.md) fino al 23 aprile 1919;
 
 Sentito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per gli affari dell'interno, pre
 
 ## Art. 1.
 
-Il termine per l'attuazione del piano speciale di risanamento della citta' di Bologna, approvato con Regio decreto 22 luglio 1887 e successivamente protratto con [leggi 11 aprile 1889, n. 6020, 29 giugno 1902, n. 256, 11 luglio 1907, n. 459, e 4 giugno 1914, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-04;539), e' prorogato fino al 23 aprile 1923. 
+Il termine per l'attuazione del piano speciale di risanamento della citta' di Bologna, approvato con Regio decreto 22 luglio 1887 e successivamente protratto con [leggi 11 aprile 1889, n. 6020, 29 giugno 1902, n. 256, 11 luglio 1907, n. 459, e 4 giugno 1914, n. 539](Che%20proroga%20il%20termine%20per%20lattuazione%20del%20piano%20di%20risanamento%20della%20citta%20di%20Bologna.%20014U0539.md), e' prorogato fino al 23 aprile 1923. 
  
  Nel compimento delle opere del suddetto risanamento il comune di Bologna potra' continuare ad avvalersi delle disposizioni speciali degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-25;2892#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-25;2892#art_13), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-25;2892#art_15), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-25;2892#art_16) e [17 della legge 25 gennaio 1885, n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-25;2892#art_17).
 

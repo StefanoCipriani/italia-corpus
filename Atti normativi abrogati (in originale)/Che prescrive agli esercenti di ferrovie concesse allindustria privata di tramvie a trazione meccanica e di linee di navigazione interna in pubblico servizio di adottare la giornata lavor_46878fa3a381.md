@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835), ed il [decreto-legge 25 marzo 1919, n. 467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-03-25;467);
+Vista la [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), ed il [decreto-legge 25 marzo 1919, n. 467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-03-25;467);
 
 Udito il Consiglio dei ministri;
 
@@ -146,7 +146,7 @@ E' abrogato il [secondo comma dell'art. 1 del decreto Luogotenenziale 23 aprile 
 
 ## Art. 14.
 
-La Commissione per l'equo trattamento puo', con propria deliberazione, suddividersi in sottocommissioni, od anche delegare a singoli membri l'audizione delle rappresentanze degli esercenti e del personale a norma dell'[art. 3 della legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835#art_3) e dell'[art. 5 del decreto Luogotenenziale 25 marzo 1919, n. 467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-25;467#art_5).
+La Commissione per l'equo trattamento puo', con propria deliberazione, suddividersi in sottocommissioni, od anche delegare a singoli membri l'audizione delle rappresentanze degli esercenti e del personale a norma dell'[art. 3 della legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md) e dell'[art. 5 del decreto Luogotenenziale 25 marzo 1919, n. 467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-25;467#art_5).
 
 ## Art. 15.
 

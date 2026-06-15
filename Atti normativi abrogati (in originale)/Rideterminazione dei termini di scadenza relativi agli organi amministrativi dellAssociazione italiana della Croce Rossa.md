@@ -24,7 +24,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-In deroga all'[articolo 3, comma 1, del decreto-legge 16 maggio 1994, n. 293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-16;293#art_3-com1), convertito, con modificazioni, dalla [legge 15 luglio 1994, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-15;444), recante disciplina della proroga degli organi amministrativi, i consigli dei comitati provinciali ed i consigli dei comitati regionali, nonche' il comitato centrale dell'Associazione italiana della Croce Rossa, restano in carica fino al rinnovo degli organi medesimi e, comunque, non oltre il 30 aprile 2003.
+In deroga all'[articolo 3, comma 1, del decreto-legge 16 maggio 1994, n. 293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-16;293#art_3-com1), convertito, con modificazioni, dalla [legge 15 luglio 1994, n. 444](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%201994%20n.%20293%20recante%20disciplina%20della%20proroga%20degli%20organi%20amministrativi.md), recante disciplina della proroga degli organi amministrativi, i consigli dei comitati provinciali ed i consigli dei comitati regionali, nonche' il comitato centrale dell'Associazione italiana della Croce Rossa, restano in carica fino al rinnovo degli organi medesimi e, comunque, non oltre il 30 aprile 2003.
 
 ## Art. 2.
 

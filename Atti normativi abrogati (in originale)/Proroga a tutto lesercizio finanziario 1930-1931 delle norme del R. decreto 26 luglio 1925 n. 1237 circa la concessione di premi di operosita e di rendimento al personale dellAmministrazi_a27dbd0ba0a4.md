@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 26 luglio 1925, n. 1237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-26;1237);
+Visto il [R. decreto 26 luglio 1925, n. 1237](Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md);
 
-Ritenuta la necessita' e l'urgenza, nell'interesse dei servizi, di prorogare, a tutto l'esercizio finanziario 1930-31, le norme stabilite col Regio decreto sopra citato per la concessione, al personale delle Amministrazioni dello Stato, di premi di operosita' e di rendimento, in deroga alle disposizioni del [R. decreto 17 febbraio 1924, n. 182, e dell'art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-17;182#art_4) del R. decreto 10 luglio stesso anno, n. 1100;
+Ritenuta la necessita' e l'urgenza, nell'interesse dei servizi, di prorogare, a tutto l'esercizio finanziario 1930-31, le norme stabilite col Regio decreto sopra citato per la concessione, al personale delle Amministrazioni dello Stato, di premi di operosita' e di rendimento, in deroga alle disposizioni del [R. decreto 17 febbraio 1924, n. 182, e dell'art. 4](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md) del R. decreto 10 luglio stesso anno, n. 1100;
 
 Udito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, e del N
 
 ## Articolo unico.
 
-E' prorogata al 30 giugno 1931 l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-26;1237). 
+E' prorogata al 30 giugno 1931 l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md). 
  
  Questo decreto ha vigore dal 1° luglio 1930, sara' presentato al Parlamento per la conversione in legge, e il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

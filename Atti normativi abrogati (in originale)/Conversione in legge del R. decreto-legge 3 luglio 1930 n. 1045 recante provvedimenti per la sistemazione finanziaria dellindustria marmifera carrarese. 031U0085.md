@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 1045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-03;1045), recante provvedimenti per la sistemazione finanziaria dell'industria marmifera carrarese con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 3 luglio 1930, n. 1045](Sistemazione%20finanziaria%20dellindustria%20marmifera%20carrarese.%20030U1045.md), recante provvedimenti per la sistemazione finanziaria dell'industria marmifera carrarese con la seguente modificazione: 
  Alla tabella annessa al precitato R. decreto-legge 3 luglio 1930, e' sostituita la seguente: 
  Tariffa in vigore della tassa sui marmi scavati nel comune di Carrara: 
  

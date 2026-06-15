@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [R. decreto-legge 29 dicembre 1926, n. 2191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-29;2191), concernente alcuni ritocchi alla tabella delle tasse sulle concessioni governative, con le seguenti modificazioni ai nn. 34-13 e 34-21 della tabella annessa all'art. 1.
+ E convertito in legge il [R. decreto-legge 29 dicembre 1926, n. 2191](Ritocchi%20alla%20tabella%20delle%20tasse%20sulle%20concessioni%20governative.%20026U2191.md), concernente alcuni ritocchi alla tabella delle tasse sulle concessioni governative, con le seguenti modificazioni ai nn. 34-13 e 34-21 della tabella annessa all'art. 1.
 
 Numero d'ordine
                                 Indicazione degli atti soggetti a tassa

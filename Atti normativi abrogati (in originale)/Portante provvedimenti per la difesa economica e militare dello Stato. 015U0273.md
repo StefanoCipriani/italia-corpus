@@ -38,11 +38,11 @@ TITOLO II.
 
 ### Art. 3.
 
-Si applicano le pene stabilite nella prima parte dell'[art. 110 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_110) a chiunque indebitamente eseguisce disegni, modelli, schizzi o fotografie di cose concernenti la forza, la preparazione o la difesa militare dello Stato, o fa ricognizioni sulle cose medesime, qualunque sia il processo od il mezzo adoperato, oppure indebitamente si procura notizie concernenti la forza, preparazione o difesa suindicate. 
+Si applicano le pene stabilite nella prima parte dell'[art. 110 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) a chiunque indebitamente eseguisce disegni, modelli, schizzi o fotografie di cose concernenti la forza, la preparazione o la difesa militare dello Stato, o fa ricognizioni sulle cose medesime, qualunque sia il processo od il mezzo adoperato, oppure indebitamente si procura notizie concernenti la forza, preparazione o difesa suindicate. 
  
  Le stesse pene si applicano a chiunque a tale fine si introduce nei luoghi dove si possono eseguire disegni, modelli, schizzi, fotografie, ricognizioni, o procurarsi le notizie suddette, ovvero sia sorpreso nei luoghi medesimi, o nelle loro vicinanze, in possesso di oggetti, carte, scritti, disegni, modelli, schizzi, fotografie o altro materiale rappresentativo concernenti le notizie suaccennate o anche dei mezzi idonei per raggiungere lo scopo, senza che si possa giustificare la legittimita' del possesso o dell'uso. 
  
- Per il solo fatto di entrare clandestinamente o con inganno nei detti luoghi si applica la pena stabilita nel capoverso dell'[art. 110 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_110). 
+ Per il solo fatto di entrare clandestinamente o con inganno nei detti luoghi si applica la pena stabilita nel capoverso dell'[art. 110 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Per quello di entrare nei luoghi, l'accesso ai quali sia vietato, la pena e' dell'arresto lino a quattro mesi o dell'ammenda fino a lire mille.
 
@@ -61,11 +61,11 @@ Con le pene rispettivamente stabilite nell'articolo precedente e' punito chiunqu
 
 ### Art. 6.
 
-Chiunque sopprime, sottrae, o distrae, anche temporaneamente, taluna delle cose indicate nell'[art. 107 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_107) e nella prima parte e primo capoverso dell'art. 3 della presente legge e' punito con la reclusione o la detenzione da sei mesi a tre anni e con la multa superiore a lire mille.
+Chiunque sopprime, sottrae, o distrae, anche temporaneamente, taluna delle cose indicate nell'[art. 107 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nella prima parte e primo capoverso dell'art. 3 della presente legge e' punito con la reclusione o la detenzione da sei mesi a tre anni e con la multa superiore a lire mille.
 
 ### Art. 7.
 
-Chiunque tenta d'indurre altri a commettere alcuno dei delitti preveduti nella presente legge e negli [articoli 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_107) e [110 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_110) e' punito con la meta' della pena stabilita per i delitti medesimi ancorche' questi non siano stati commessi. 
+Chiunque tenta d'indurre altri a commettere alcuno dei delitti preveduti nella presente legge e negli [articoli 107](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [110 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' punito con la meta' della pena stabilita per i delitti medesimi ancorche' questi non siano stati commessi. 
  
  Tale riduzione di pena non si effettua se la persona che si e' tentato d'indurre sia un pubblico ufficiale, una persona incaricata di un pubblico servizio o appartenente all'esercito o all'armata.
 
@@ -75,11 +75,11 @@ Quando alcuno dei delitti preveduti in questo titolo sia commesso per negligenza
 
 ### Art. 9.
 
-Quando nella esecuzione di alcuno dei delitti preveduti nel titolo II della presente legge, il colpevole commetta un altro delitto che importi una pena temporanea restrittiva della liberta' personale superiore a cinque anni, la pena che risulta dall'applicazione dello [art. 77 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_77) e' aumentata di un sesto.
+Quando nella esecuzione di alcuno dei delitti preveduti nel titolo II della presente legge, il colpevole commetta un altro delitto che importi una pena temporanea restrittiva della liberta' personale superiore a cinque anni, la pena che risulta dall'applicazione dello [art. 77 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aumentata di un sesto.
 
 ### Art. 10.
 
-Ai delitti preveduti nel titolo II della presente legge sono applicabili le disposizioni dell'[art. 4 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_4).
+Ai delitti preveduti nel titolo II della presente legge sono applicabili le disposizioni dell'[art. 4 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 11.
 
@@ -116,7 +116,7 @@ E' data facolta' al Governo di stabilire le norme da osservarsi per determinati 
 
 La citazione in giudizio delle persone indicate nel penultimo capoverso dell'art. 1, e agli effetti di questo, e' fatta a cura del pubblico ministero nei modi e termini stabiliti negli [articoli 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_66) e [67 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_67). 
  
- Per i delitti preveduti nella prima parte, nel primo e secondo capoverso dell'art. 3 e negli articoli 4, 5, 6, 7, 8 della presente legge e 107, 108, 110 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) il giudice puo' spedire mandato di cattura anche fuori dei casi stabiliti nell'[art. 313, n. 8, del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_313-num8). 
+ Per i delitti preveduti nella prima parte, nel primo e secondo capoverso dell'art. 3 e negli articoli 4, 5, 6, 7, 8 della presente legge e 107, 108, 110 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) il giudice puo' spedire mandato di cattura anche fuori dei casi stabiliti nell'[art. 313, n. 8, del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_313-num8). 
  
  Appartiene alla Corte di assise la cognizione dei delitti preveduti nella prima parte e primo e secondo capoverso dell'art. 3 e negli articoli da 4 a 9 della presente legge; e si procede con citazione diretta. 
  

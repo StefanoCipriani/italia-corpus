@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 7 agosto 1909, n. 668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-07;668);
+Visto il [regio decreto 7 agosto 1909, n. 668](Che%20approva%20lannesso%20regolamento%20per%20il%20servizio%20della%20guardia%20notturna%20nelle%20gallerie%20nei%20musei%20archeologici%20nei%20monumenti%20e%20negli%20scavi%20di%20antichita.%20009U0668.md);
 
 Visto il [regio decreto-legge 27 ottobre 1918, n. 1868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1918-10-27;1868);
 
-Visto il [regio decreto 21 luglio 1921, n. 1262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-21;1262);
+Visto il [regio decreto 21 luglio 1921, n. 1262](Che%20aumenta%20la%20retribuzione%20per%20il%20servizio%20di%20guardia%20notturna%20a%20favore%20dei%20custodi%20delle%20antichita%20e%20belle%20arti.%20021U1262.md);
 
 Visto il [regio decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 settembre 1934, n. 1465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-18;1465), concernente disposizioni in materia di applicazione dell'imposta di ricchezza mobile sugli interessi dipendenti dalle obbligazioni emesse dalle societa' per azioni. 
+ E' convertito in legge il [R. decreto-legge 18 settembre 1934, n. 1465](Disposizioni%20in%20materia%20di%20applicazione%20dellimposta%20di%20ricchezza%20mobile%20sugli%20interessi%20dipendenti%20dalle%20obbligazioni%20emesse%20dalle%20Societa%20per%20azioni.%20034U1465.md), concernente disposizioni in materia di applicazione dell'imposta di ricchezza mobile sugli interessi dipendenti dalle obbligazioni emesse dalle societa' per azioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

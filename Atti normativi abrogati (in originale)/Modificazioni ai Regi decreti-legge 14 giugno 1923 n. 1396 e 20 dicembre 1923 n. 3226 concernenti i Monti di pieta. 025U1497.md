@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 14 giugno 1923, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1396), contenente riforme alla [legge 14 maggio 1898, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-05-14;169), sui Monti di pieta', nonche' la legge di pubblica sicurezza [testo unico 30 giugno 1889, n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1889-06-30;6144);
+Visto il [R. decreto 14 giugno 1923, n. 1396](Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), contenente riforme alla [legge 14 maggio 1898, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-05-14;169), sui Monti di pieta', nonche' la legge di pubblica sicurezza [testo unico 30 giugno 1889, n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1889-06-30;6144);
 
 Visto il [R. decreto-legge 20 dicembre 1923, n. 3226](Modificazione%20al%20R.%20decreto%2014%20giugno%201923%20n.%201396%20concernemente%20i%20Monti%20di%20Pieta.%20023U3226.md), portante modifiche al suddetto Regio decreto;
 
@@ -24,11 +24,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-Agli esercenti di agenzie pubbliche di prestiti sopra pegno ed agli esercenti altre agenzie pubbliche e uffici pubblici di affari che, alla data della pubblicazione del predetto [R. decreto 14 giugno 1923, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1396), esercitavano l'acquisto di polizze di Monte di pieta', e la concessione di sovvenzioni supplementari contro pegno delle polizze stesse, e' concessa, in deroga al divieto di cui allo stesso [R. decreto 14 giugno 1923, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1396), una proroga di due anni, dalla pubblicazione del presente decreto, per l'esercizio di tale attivita', e di un terzo anno per la liquidazione delle operazioni in precedenza effettuate.
+Agli esercenti di agenzie pubbliche di prestiti sopra pegno ed agli esercenti altre agenzie pubbliche e uffici pubblici di affari che, alla data della pubblicazione del predetto [R. decreto 14 giugno 1923, n. 1396](Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), esercitavano l'acquisto di polizze di Monte di pieta', e la concessione di sovvenzioni supplementari contro pegno delle polizze stesse, e' concessa, in deroga al divieto di cui allo stesso [R. decreto 14 giugno 1923, n. 1396](Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), una proroga di due anni, dalla pubblicazione del presente decreto, per l'esercizio di tale attivita', e di un terzo anno per la liquidazione delle operazioni in precedenza effettuate.
 
 ## Art. 2.
 
-Salva la proroga di cui al precedente articolo, restano ferme le disposizioni contenute nei [Regi decreti 14 giugno 1923, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1396), e [20 dicembre 1923, n. 3226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-20;3226).
+Salva la proroga di cui al precedente articolo, restano ferme le disposizioni contenute nei [Regi decreti 14 giugno 1923, n. 1396](Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), e [20 dicembre 1923, n. 3226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-20;3226).
 
 ## Art. 3.
 

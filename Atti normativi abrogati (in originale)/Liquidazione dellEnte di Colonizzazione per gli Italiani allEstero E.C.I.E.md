@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista La [legge 25 agosto 1940, n. 1415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-08-25;1415), sulla costituzione dell'Ente di Colonizzazione per gli Italiani all'Estero (E.C.I.E.), nonche' le successive modificazioni apportate con [legge 14 dicembre 1942, n. 1754](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-12-14;1754);
+Vista La [legge 25 agosto 1940, n. 1415](Costituzione%20dellEnte%20di%20colonizzazione%20per%20gli%20italiani%20allestero.%20040U1415.md), sulla costituzione dell'Ente di Colonizzazione per gli Italiani all'Estero (E.C.I.E.), nonche' le successive modificazioni apportate con [legge 14 dicembre 1942, n. 1754](Modificazioni%20alla%20legge%2025%20agosto%201940-XVIII%20n.%201415%20che%20istituisce%20lEnte%20di%20colonizzazione%20per%20gli%20italiani%20allestero.%20042U1754.md);
 
-Visto il [R. decreto-legge 15 dicembre 1923, n. 3148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-15;3148), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), che istituisce l'Istituto nazionale di Credito per il Lavoro italiano all'Estero (I.C.L.E.);
+Visto il [R. decreto-legge 15 dicembre 1923, n. 3148](Costituzione%20di%20un%20Istituto%20nazionale%20di%20credito%20per%20il%20lavoro%20italiano%20allestero.%20023U3148.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), che istituisce l'Istituto nazionale di Credito per il Lavoro italiano all'Estero (I.C.L.E.);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

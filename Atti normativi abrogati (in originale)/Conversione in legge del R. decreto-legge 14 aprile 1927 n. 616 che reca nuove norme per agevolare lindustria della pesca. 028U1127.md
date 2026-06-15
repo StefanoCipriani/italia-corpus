@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 aprile 1927, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-14;616), che reca nuove norme per agevolare l'industria della pesca. 
+ E' convertito in legge il [R. decreto-legge 14 aprile 1927, n. 616](Nuove%20norme%20intese%20ad%20agevolare%20lindustria%20della%20pesca.%20027U0616.md), che reca nuove norme per agevolare l'industria della pesca. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta, ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

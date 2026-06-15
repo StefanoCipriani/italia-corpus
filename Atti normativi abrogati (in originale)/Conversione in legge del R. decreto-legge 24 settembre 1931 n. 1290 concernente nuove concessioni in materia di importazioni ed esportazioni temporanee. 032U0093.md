@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-24;1290), concernente nuove concessioni in materia di importazioni ed esportazioni temporanee. 
+ E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1290](Nuove%20concessioni%20di%20temporanea%20importazione%20ed%20esportazione.%20031U1290.md), concernente nuove concessioni in materia di importazioni ed esportazioni temporanee. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 18 gennaio 1932 - Anno X 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 aprile 1928, n. 964](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-04-26;964), recante un aumento di assegnazione di fondi per contributi nella spesa di costruzione di edifici scolastici e di opere igieniche nell'Italia meridionale ed insulare. 
+ E' convertito in legge il [R. decreto-legge 26 aprile 1928, n. 964](Aumento%20di%20assegnazione%20di%20fondi%20per%20contributi%20nella%20spesa%20di%20costruzione%20di%20edifici%20scolastici%20e%20di%20opere%20igieniche.%20028U0964.md), recante un aumento di assegnazione di fondi per contributi nella spesa di costruzione di edifici scolastici e di opere igieniche nell'Italia meridionale ed insulare. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

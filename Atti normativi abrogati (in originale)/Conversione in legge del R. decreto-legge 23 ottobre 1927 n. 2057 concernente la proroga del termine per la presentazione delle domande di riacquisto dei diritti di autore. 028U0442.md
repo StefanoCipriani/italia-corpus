@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2057](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2057), concernente la proroga del termine per la presentazione delle domande di riacquisto dei diritti di autore. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2057](Proroga%20del%20termine%20per%20la%20presentazione%20delle%20domande%20di%20riacquisto%20dei%20diritti%20di%20autore.%20027U2057.md), concernente la proroga del termine per la presentazione delle domande di riacquisto dei diritti di autore. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

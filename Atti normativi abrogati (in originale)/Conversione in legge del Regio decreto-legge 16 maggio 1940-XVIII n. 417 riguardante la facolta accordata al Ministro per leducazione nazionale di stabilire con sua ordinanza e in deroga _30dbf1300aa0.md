@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo Unico. 
  
- E' convertito in legge il [R. decreto-legge 16 maggio 1940, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-05-16;417), riguardante la facolta' accordata al Ministro per la educazione nazionale di stabilire, con sua ordinanza e in deroga alle vigenti disposizioni, le modalita' per gli scrutini e per gli esami nelle scuole di ogni ordine e grado. 
+ E' convertito in legge il [R. decreto-legge 16 maggio 1940, n. 417](Facolta%20accordata%20al%20Ministro%20per%20leducazione%20nazionale%20di%20stabilire%20con%20sua%20ordinanza%20e%20in%20deroga%20alle%20vigenti%20disposizioni%20le%20modalita%20per%20gli%20scrutini%20e%20per%20gli%20esami%20nelle%20scuole%20di%20o_d83e8f4707e9.md), riguardante la facolta' accordata al Ministro per la educazione nazionale di stabilire, con sua ordinanza e in deroga alle vigenti disposizioni, le modalita' per gli scrutini e per gli esami nelle scuole di ogni ordine e grado. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 gennaio 1928, n. 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-05;72), contenente provvedimenti di pensione per gli ufficiali gia' in posizione ausiliaria speciale e per quelli esonerati durante la guerra. 
+ E' convertito in legge il [R. decreto-legge 5 gennaio 1928, n. 72](Provvedimenti%20di%20pensione%20per%20gli%20ufficiali%20gia%20in%20posizione%20ausiliaria%20speciale%20e%20per%20quelli%20esonerati%20durante%20la%20guerra.%20028U0072.md), contenente provvedimenti di pensione per gli ufficiali gia' in posizione ausiliaria speciale e per quelli esonerati durante la guerra. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

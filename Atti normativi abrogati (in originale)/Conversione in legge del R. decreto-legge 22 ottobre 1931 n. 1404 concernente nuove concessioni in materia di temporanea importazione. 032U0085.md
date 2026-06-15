@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 ottobre 1931 n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-22;1404), concernente nuove concessioni in materia ai temporanea importazione. 
+ E' convertito in legge il [R. decreto-legge 22 ottobre 1931 n. 1404](Nuove%20concessioni%20di%20temporanea%20importazione.%20031U1404.md), concernente nuove concessioni in materia ai temporanea importazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

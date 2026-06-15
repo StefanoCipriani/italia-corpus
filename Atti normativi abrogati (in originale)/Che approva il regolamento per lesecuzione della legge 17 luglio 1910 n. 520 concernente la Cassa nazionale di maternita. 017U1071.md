@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-E' approvato il regolamento per l'esecuzione della [legge 17 luglio 1910, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;520), sulla Cassa di maternita'. e del [decreto-legge Luogotenenziale 17 febbraio 1917, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-02-17;322), nel testo annesso al presente decreto e visto, d'ordine Nostro, dal ministro proponente. 
+E' approvato il regolamento per l'esecuzione della [legge 17 luglio 1910, n. 520](Per%20la%20istituzione%20di%20una%20Cassa%20di%20maternita.%20010U0520.md), sulla Cassa di maternita'. e del [decreto-legge Luogotenenziale 17 febbraio 1917, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-02-17;322), nel testo annesso al presente decreto e visto, d'ordine Nostro, dal ministro proponente. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

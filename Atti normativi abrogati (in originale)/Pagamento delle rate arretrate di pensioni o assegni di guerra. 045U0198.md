@@ -16,15 +16,15 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 20 del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_20);
+Visto l'[art. 20 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md);
 
-Vista la [legge 22 gennaio 1934, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-22;115);
+Vista la [legge 22 gennaio 1934, n. 115](Soccorsi%20giornalieri%20alle%20famiglie%20bisognose%20dei%20militari%20richiamati%20o%20trattenuti%20alle%20armi.%20034U0115.md);
 
-Visti gli [articoli 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-19;583#art_40) e [41 del R. decreto-legge 19 maggio 1941, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-19;583#art_41), convertiti nella [legge 10 maggio 1943, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-05-10;507);
+Visti gli [articoli 40](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md) e [41 del R. decreto-legge 19 maggio 1941, n. 583](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md), convertiti nella [legge 10 maggio 1943, n. 507](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20maggio%201941-XIX%20n.%20583%20relativo%20al%20trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20di%20_c00e94ef3697.md);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2);
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -48,7 +48,7 @@ In base alla dichiarazione di cui all'articolo precedente, gli Uffici provincial
 
 ## Art. 3.
 
-Per gli assegni una volta tanto concessi ai sensi degli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_13) e [16 del R. decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_16), verra' dato corso al relativo mandato di pagamento solo quando risulti che gli enti militari e i comuni non sono in grado di fornire in dipendenza delle attuali congiunture gli elementi necessari per effettuare le corrispondenti trattenute. 
+Per gli assegni una volta tanto concessi ai sensi degli [articoli 13](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [16 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), verra' dato corso al relativo mandato di pagamento solo quando risulti che gli enti militari e i comuni non sono in grado di fornire in dipendenza delle attuali congiunture gli elementi necessari per effettuare le corrispondenti trattenute. 
  
  In tal caso il pagamento e' subordinato al rilascio della dichiarazione di cui all'art. 1.
 

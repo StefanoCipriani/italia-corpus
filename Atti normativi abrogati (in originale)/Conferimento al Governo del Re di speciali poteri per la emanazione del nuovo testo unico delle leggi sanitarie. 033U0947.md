@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il Governo del Re e' autorizzato, sentito il Consiglio di Stato, a coordinare e riunire in testo unico le disposizioni di legge emanate in materia sanitaria, con facolta' di modificarle e di integrarle, anche in relazione al nuovo ordinamento amministrativo delle Provincie e dei Comuni ed alle disposizioni del nuovo [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ Il Governo del Re e' autorizzato, sentito il Consiglio di Stato, a coordinare e riunire in testo unico le disposizioni di legge emanate in materia sanitaria, con facolta' di modificarle e di integrarle, anche in relazione al nuovo ordinamento amministrativo delle Provincie e dei Comuni ed alle disposizioni del nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

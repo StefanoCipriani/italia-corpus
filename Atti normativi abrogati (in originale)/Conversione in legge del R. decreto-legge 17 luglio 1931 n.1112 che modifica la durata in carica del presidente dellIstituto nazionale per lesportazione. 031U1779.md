@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 luglio 1931, numero 1112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-17;1112), che modifica la durata in carica del presidente dell'Istituto nazionale per l'esportazione 
+ E' convertito in legge il [R. decreto-legge 17 luglio 1931, numero 1112](Modifica%20dellart.%203%20del%20R.%20decreto%20legge%2018%20aprile%201926%20n.%20800%20concernente%20lIstituto%20nazionale%20per%20lesportazione.%20031U1112.md), che modifica la durata in carica del presidente dell'Istituto nazionale per l'esportazione 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 21 dicembre 1931 - Anno X 
  

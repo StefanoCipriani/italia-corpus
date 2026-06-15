@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 giugno 1928, n. 1446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-14;1446), riguardante modificazioni alla legge sull'ordinamento della Regia marina ed a quella sull'avanzamento degli ufficiali della Regia marina. 
+ E' convertito in legge il [R. decreto-legge 14 giugno 1928, n. 1446](Modificazioni%20alla%20legge%20sullordinamento%20della%20Regia%20marina%20ed%20a%20quella%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20028U1446.md), riguardante modificazioni alla legge sull'ordinamento della Regia marina ed a quella sull'avanzamento degli ufficiali della Regia marina. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 27 ottobre 1937, n. 1873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-10-27;1873), convertito nella [legge 27 dicembre 1937, n. 2426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-12-27;2426), sul riordinamento dei Corpi consultivi della Regia marina, modificato dal [R. decreto-legge 16 giugno 1938, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;985), convertito nella [legge 9 gennaio 1939, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-09;217), e dalle [leggi 22 maggio 1939, n. 862, 12 luglio 1940, n. 1095 e 16 dicembre 1941, n. 1543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-16;1543);
+Visto il [R. decreto-legge 27 ottobre 1937, n. 1873](Riordinamento%20dei%20Corpi%20consultivi%20della%20Regia%20marina.%20037U1873.md), convertito nella [legge 27 dicembre 1937, n. 2426](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20ottobre%201937-XV%20n.%201873%20riguardante%20il%20riordinamento%20dei%20Corpi%20consultivi%20della%20Regia%20marina.%20037U2426.md), sul riordinamento dei Corpi consultivi della Regia marina, modificato dal [R. decreto-legge 16 giugno 1938, n. 985](Modificazione%20allart.%2013%20del%20Regio%20decreto-legge%2027%20ottobre%201937-XV%20n.%201873%20riguardante%20il%20riordinamento%20dei%20Corpi%20consultivi%20della%20Regia%20marina.%20038U0985.md), convertito nella [legge 9 gennaio 1939, n. 217](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20giugno%201938-XVI%20n.%20985%20che%20apporta%20modificazione%20allart.%2013%20del%20R.%20decreto-legge%2027%20ottobre%201937-XV%20n.%201873%20riguardante%20il%20riordinamento%20dei%20c_53b5cb00e251.md), e dalle [leggi 22 maggio 1939, n. 862, 12 luglio 1940, n. 1095 e 16 dicembre 1941, n. 1543](Modificazioni%20allordinamento%20dei%20Corpi%20consultivi%20della%20Regia%20marina.%20041U1543.md);
 
 Visto il [decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1943-10-30;2);
 
-Visto il [R. decreto-legge 29 maggio 1944, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;141);
+Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -244,7 +244,7 @@ Ogni qualvolta dalle disposizioni vigenti e' prescritto il parere del Comitato d
 
 ### Art. 22.
 
-Il [R. decreto-legge 27 ottobre 1937, n. 1873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-10-27;1873), convertito nella [legge 27 dicembre 1937, n. 2426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-12-27;2426), e successive moditicazioni, e' abrogato.
+Il [R. decreto-legge 27 ottobre 1937, n. 1873](Riordinamento%20dei%20Corpi%20consultivi%20della%20Regia%20marina.%20037U1873.md), convertito nella [legge 27 dicembre 1937, n. 2426](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20ottobre%201937-XV%20n.%201873%20riguardante%20il%20riordinamento%20dei%20Corpi%20consultivi%20della%20Regia%20marina.%20037U2426.md), e successive moditicazioni, e' abrogato.
 
 ### Art. 23.
 

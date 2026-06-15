@@ -16,17 +16,17 @@ RE D'ITALIA
 
 Vista la [legge 21 maggio 1882, n. 768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-05-21;768) (serie III), che autorizza il Governo ad erigere in corpo morale la Associazione Italiana della Croce Rossa;
 
-Visto il [R. decreto 7 febbraio 1884, n. 1243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-07;1243) (serie III), che erige in corpo morale l'Associazione Italiana della Croce Rossa;
+Visto il [R. decreto 7 febbraio 1884, n. 1243](Che%20erige%20in%20corpo%20morale%20lassociazione%20italiana%20della%20Croce%20Rossa.%208401243R.md) (serie III), che erige in corpo morale l'Associazione Italiana della Croce Rossa;
 
 Visto il [R. decreto-legge 10 agosto 1928, n. 2034](Provvedimenti%20necessari%20per%20assicurare%20il%20funzionamento%20della%20Croce%20Rossa%20Italiana.%20028U2034.md), convertito nella [Legge 20 dicembre 1928, n. 3133](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20agosto%201928%20n.%202034%20concernente%20il%20nuovo%20ordinamento%20dellAssociazione%20della%20Croce%20Rossa%20Italiana.%20028U3133.md), contenente provvedimenti necessari per assicurare il funzionamento della Croce Rossa Italiana;
 
 Visto il [R. decreto-legge 12 febbraio 1930, n. 84](Modifiche%20al%20R.%20decreto-legge%2010%20agosto%201928%20n.%202034%20contenente%20provvedimenti%20necessari%20per%20assicurare%20il%20funzionamento%20della%20Croce%20Rossa%20Italiana.%20030U0084.md), convertito nella [Legge 17 aprile 1930, n. 578](Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20febbraio%201930%20n.%2084%20concernente%20modifiche%20al%20R.%20decreto-legge%2010%20agosto%201928%20n.%202034%20contenente%20provvedimenti%20necessari%20per%20assicurare%20il%20funz_83c1d87772cd.md), recante modifiche al [R. decreto-legge 10 agosto 1928, n. 2034](Provvedimenti%20necessari%20per%20assicurare%20il%20funzionamento%20della%20Croce%20Rossa%20Italiana.%20028U2034.md):
 
-Visto il [R. decreto 21 gennaio 1929, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-21;111), che approva lo statuto organico della Croce Rossa Italiana, e successive modifiche.
+Visto il [R. decreto 21 gennaio 1929, n. 111](Approvazione%20dello%20statuto%20organico%20dellAssociazione%20italiana%20della%20Croce%20Rossa.%20029U0111.md), che approva lo statuto organico della Croce Rossa Italiana, e successive modifiche.
 
-Visto i1 [R. decreto 10 febbraio 1936, n. 484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-10;484), contenente norme sullo stato giuridico, il reclutamento, l'avanzamento ed il trattamento economico del personale dell'associazione;
+Visto i1 [R. decreto 10 febbraio 1936, n. 484](Norme%20per%20disciplinare%20lo%20stato%20giuridico%20il%20reclutamento%20lavanzamento%20ed%20il%20trattamento%20economico%20ed%20amministrativo%20del%20personale%20della%20Croce%20Rossa%20Italiana.%20036U0484.md), contenente norme sullo stato giuridico, il reclutamento, l'avanzamento ed il trattamento economico del personale dell'associazione;
 
-Visto il [R. decreto 30 dicembre 1940, n. 2024](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-12-30;2024), che approva il regolamento dell'associazione della Croce Rossa per il tempo di guerra;
+Visto il [R. decreto 30 dicembre 1940, n. 2024](Regolamento%20dellAssociazione%20della%20Croce%20Rossa%20Italiana%20per%20il%20tempo%20di%20guerra.%20040U2024.md), che approva il regolamento dell'associazione della Croce Rossa per il tempo di guerra;
 
 Visto il [R. decreto 9 maggio 1944, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-05-09;132);
 
@@ -50,7 +50,7 @@ In aggiunta agli organi istituzionali previsti dall'[art. 4 del R. decreto-legge
 
 Il Segretario Generale: 
  
-a) coadiuva il Presidente Generale nell'adempimento delle funzioni allo stesso affidati alle leggi istitutive dell'Associazione Italiana della Croce Rossa e dallo statuto approvato con [R. decreto 21 gennaio 1929, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-21;111); 
+a) coadiuva il Presidente Generale nell'adempimento delle funzioni allo stesso affidati alle leggi istitutive dell'Associazione Italiana della Croce Rossa e dallo statuto approvato con [R. decreto 21 gennaio 1929, n. 111](Approvazione%20dello%20statuto%20organico%20dellAssociazione%20italiana%20della%20Croce%20Rossa.%20029U0111.md); 
  
 b) sovraintende all'amministrazione del patrimonio dell'Associazione ede alle gestioni contabili dell'Associazione stessa e dei comitati, sottocomitati e delegazioni dipendenti secondo gli ordini e le direttive del Presidente Generale e del Consiglio direttivo del Comita Centrale. 
  

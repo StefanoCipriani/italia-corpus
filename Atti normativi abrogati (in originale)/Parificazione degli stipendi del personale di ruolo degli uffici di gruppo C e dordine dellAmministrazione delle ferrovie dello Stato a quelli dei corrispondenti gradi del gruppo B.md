@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il regolamento del personale delle Ferrovie dello Stato, approvato con [R. decreto-legge 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-07;405), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597) e successive modificazioni;
+Visto il regolamento del personale delle Ferrovie dello Stato, approvato con [R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md) e successive modificazioni;
 
-Visto il [R. decreto 12 ottobre 1942, n. 1210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-12;1210) e successive modificazioni;
+Visto il [R. decreto 12 ottobre 1942, n. 1210](Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md) e successive modificazioni;
 
 Visto il [decreto legislativo Luogotenenziale 19 marzo 1945, n. 91](Parificazione%20degli%20stipendi%20del%20personale%20di%20gruppo%20C%20a%20quelli%20dei%20corrispondenti%20gradi%20del%20personale%20dei%20gruppi%20A%20e%20B.%20045U0091.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro segretario di Stato per i trasporti, di concerto col
 
 ## Art. 1.
 
-Gli stipendi fissati dai quadri di classificazione risultanti dall'allegato A al [R. decreto 12 ottobre 1942, n. 1210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-12;1210), per il personale di ruolo degli uffici dei gruppi C e d'ordine dell'Amministrazione delle ferrovie dello Stato, che riveste qualifiche dei gradi dal nono al sesto, sono sostituiti da quelli previsti per il personale del gruppo B dei corrispondenti gradi.
+Gli stipendi fissati dai quadri di classificazione risultanti dall'allegato A al [R. decreto 12 ottobre 1942, n. 1210](Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md), per il personale di ruolo degli uffici dei gruppi C e d'ordine dell'Amministrazione delle ferrovie dello Stato, che riveste qualifiche dei gradi dal nono al sesto, sono sostituiti da quelli previsti per il personale del gruppo B dei corrispondenti gradi.
  Rimangono immutati i periodi di servizio prescritti per il conseguimento degli aumenti periodici di stipendio.
  Agli agenti dei gruppi C e d'ordine dei gradi anzidetti, in servizio alla data di entrata in vigore del presente decreto, sono attribuiti gli stipendi spettanti a norma del primo comma in base all'anzianita' di grado da essi posseduta.
 

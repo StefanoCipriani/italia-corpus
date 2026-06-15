@@ -12,7 +12,7 @@ vigente: true
 
 IL MINISTRO DEL TESORO 
  
- Visto l'[art. 8 della legge 30 aprile 1874, n. 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1874-04-30;1920#art_8) (serie 2ª); 
+ Visto l'[art. 8 della legge 30 aprile 1874, n. 1920](Sulla%20circolazione%20cartacea%20durante%20il%20corso%20forzoso.%20074U1920.md) (serie 2ª); 
  
  Visto l'art. 35 del regolamento approvato col decreto reale 21 gennaio 1875, n. 2372 (serie 2ª); 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico
 
-L'[art. 1 del R. decreto 8 febbraio 1934, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-02-08;153#art_1), e' sostituito come appresso: 
+L'[art. 1 del R. decreto 8 febbraio 1934, n. 153](Composizione%20del%20Consiglio%20di%20amministrazione%20del%20Ministero%20dellaeronautica.%20034U0153.md), e' sostituito come appresso: 
  «Il [comma 3° dell'art. 11 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_11-com3), e' sostituito dai seguenti: 
  
  Del Consiglio di amministrazione del Ministero dell'aeronautica fanno parte i funzionari e gli ufficiali che abbiano la direzione effettiva di un servizio, preposti alla carica con decreto Reale, sentito il Consiglio dei Ministri. 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 dicembre 1928, n. 2935](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-09;2935), recante disposizioni per la costruzione a cura diretta dello Stato dell'acquedotto di Ravello. 
+ E' convertito in legge il [R. decreto-legge 9 dicembre 1928, n. 2935](Provvedimenti%20per%20la%20costruzione%20a%20cura%20diretta%20dello%20Stato%20dellacquedotto%20di%20Ravello.%20028U2935.md), recante disposizioni per la costruzione a cura diretta dello Stato dell'acquedotto di Ravello. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

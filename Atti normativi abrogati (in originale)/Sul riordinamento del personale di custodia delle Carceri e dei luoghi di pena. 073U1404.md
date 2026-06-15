@@ -28,7 +28,7 @@ La pensione delle guardie e delle loro famiglie e' regolata a norma delle Leggi 
 
 ## Art. 5.
 
-Sono puniti, secondo il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare, dai Tribunali militari: 
+Sono puniti, secondo il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, dai Tribunali militari: 
  
  1° La diserzione semplice, cioe' l'abbandono del Corpo; 
  

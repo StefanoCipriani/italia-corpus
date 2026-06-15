@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 dicembre 1932, n. 1805](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-12-29;1805), riguardante provvedimenti per l'incremento della vendita dei tabacchi. 
+ E' convertito in legge il [R. decreto-legge 29 dicembre 1932, n. 1805](Provvedimenti%20per%20lincremento%20della%20vendita%20dei%20tabacchi.%20032U1805.md), riguardante provvedimenti per l'incremento della vendita dei tabacchi. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 20 aprile 1933 - Anno XI 
  VITTORIO EMANUELE 

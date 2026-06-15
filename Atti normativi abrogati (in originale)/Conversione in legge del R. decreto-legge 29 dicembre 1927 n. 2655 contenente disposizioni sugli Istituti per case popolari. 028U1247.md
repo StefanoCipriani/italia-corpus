@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 dicembre 1927, n. 2655](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-29;2655), contenente disposizioni sugli Istituti per case popolari. 
+ E' convertito in legge il [R. decreto-legge 29 dicembre 1927, n. 2655](Disposizioni%20sugli%20istituti%20per%20case%20popolari.%20027U2655.md), contenente disposizioni sugli Istituti per case popolari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il diritto fisso di cui all'[art. 8 del decreto-legge Luogotenenziale 22 febbraio 1917, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-02-22;261#art_8), puo' essere applicato a carico esclusivo dei produttori in misura non superiore: 
+Il diritto fisso di cui all'[art. 8 del decreto-legge Luogotenenziale 22 febbraio 1917, n. 261](Recante%20provvedimenti%20per%20facilitare%20lesercizio%20di%20miniere%20di%20legnite%20e%20di%20torbiere.%20017U0261.md), puo' essere applicato a carico esclusivo dei produttori in misura non superiore: 
  
  a) a L. 0.50 per quintale di combustibile nazionale fossile o vegetale, o di agglomerati, a chiunque venduto o direttamente utilizzato; 
  

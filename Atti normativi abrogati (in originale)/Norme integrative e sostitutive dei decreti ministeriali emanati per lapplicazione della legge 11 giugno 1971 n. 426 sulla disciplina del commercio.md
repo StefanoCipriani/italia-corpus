@@ -10,11 +10,11 @@ vigente: true
 
 IL MINISTRO DELL'INDUSTRIA DEL COMMERCIO E DELL'ARTIGIANATO
 
-Vista la [legge 11 giugno 1971, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426), recante norme sulla disciplina del commercio;
+Vista la [legge 11 giugno 1971, n. 426](Disciplina%20del%20commercio.md), recante norme sulla disciplina del commercio;
 
-Considerata la necessita' di modificare alcune delle norme di applicazione della [legge 11 giugno 1971 n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426);
+Considerata la necessita' di modificare alcune delle norme di applicazione della [legge 11 giugno 1971 n. 426](Disciplina%20del%20commercio.md);
 
-Considerato che l'[art. 41 della legge 11 giugno 1971, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426#art_41), prevede l'emanazione da parte del Ministro dell'industria, del commercio e dell'artigianato di norme di applicazione della legge stessa.
+Considerato che l'[art. 41 della legge 11 giugno 1971, n. 426](Disciplina%20del%20commercio.md), prevede l'emanazione da parte del Ministro dell'industria, del commercio e dell'artigianato di norme di applicazione della legge stessa.
 
 Sentite le organizzazioni nazionali del commercio, della cooperazione e del turismo; Decreta:
 
@@ -23,7 +23,7 @@ Sentite le organizzazioni nazionali del commercio, della cooperazione e del turi
 1.
 
 L'art. 14 del decreto ministeriale 14 gennaio 1972, riformulato dall'art. 4 del decreto ministeriale 27 giugno 1986, e' sostituito dal seguente:
- "La commissione d'esame prevista dall'art. 5 della legge e' nominata dalla giunta camerale. La giunta camerale nomina il presidente scegliendolo fra i funzionari statali della carriera direttiva che prestano la loro attivita' come segretario generale della camera o come funzionario del corrispondente ufficio provinciale dell'industria, del commercio e dell'artigianato oppure, qualora essi manchino o siano impossibilitati a presiedere la commissione, fra i funzionari camerali appartenenti almeno all'ottava qualifica funzionale di cui al [decreto del Presidente della Repubblica 31 maggio 1984, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-05-31;665). Il funzionario camerale e' designato dal segretario generale della camera, il funzionario dell'ufficio provinciale dell'industria, del commercio e dell'artigianato dal direttore dell'ufficio stesso.
+ "La commissione d'esame prevista dall'art. 5 della legge e' nominata dalla giunta camerale. La giunta camerale nomina il presidente scegliendolo fra i funzionari statali della carriera direttiva che prestano la loro attivita' come segretario generale della camera o come funzionario del corrispondente ufficio provinciale dell'industria, del commercio e dell'artigianato oppure, qualora essi manchino o siano impossibilitati a presiedere la commissione, fra i funzionari camerali appartenenti almeno all'ottava qualifica funzionale di cui al [decreto del Presidente della Repubblica 31 maggio 1984, n. 665](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20relativo%20al%20rinnovo%20contrattuale%20per%20il%20periodo%201982-84%20per%20il%20personale%20dipendente%20dalle%20camere%20di%20commercio.md). Il funzionario camerale e' designato dal segretario generale della camera, il funzionario dell'ufficio provinciale dell'industria, del commercio e dell'artigianato dal direttore dell'ufficio stesso.
  La commissione d'esame e' composta altresi' dei seguenti membri:
  un insegnante di tecniche commerciali di scuole secondarie;
  un insegnante di merceologia di scuole secondarie o un esperto della materia;
@@ -34,7 +34,7 @@ L'art. 14 del decreto ministeriale 14 gennaio 1972, riformulato dall'art. 4 del 
  un esperto della somministrazione di alimenti e bevande per ciascuno dei due tipi previsti (somministrazione nei bar e negli esercizi similari; somministrazione negli esercizi della ristorazione). Lo stesso e' chiamato a far parte della commissione, anche da solo, esclusivamente per esaminare coloro che intendono esercitare l'attivita' di somministrazione al pubblico di alimenti e bevande.
  La commissione e' integrata con un rappresentante tecnico, competente per il settore veterinario, dell'unita' sanitaria locale nella cui circoscrizione e' ubicata la camera di commercio, qualora l'esame riguardi le materie relative alle tabelle del gruppo b) di cui al secondo comma del precedente art. 12.
  Per gli esami concernenti categorie di prodotti relative alla tabella XIV la commissione e' integrata, con deliberazione presa dai membri di cui al primo e secondo comma, esclusi gli esperti della somministrazione di alimenti e bevande, da un esperto della materia relativa alle dette categorie merceologiche.
- Il segretario della commissione e' un funzionario della camera di commercio appartenente alla settima o alla sesta qualifica funzionale di cui al [decreto del Presidente della Repubblica 31 maggio 1984, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-05-31;665), designato dal segretario generale.
+ Il segretario della commissione e' un funzionario della camera di commercio appartenente alla settima o alla sesta qualifica funzionale di cui al [decreto del Presidente della Repubblica 31 maggio 1984, n. 665](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20relativo%20al%20rinnovo%20contrattuale%20per%20il%20periodo%201982-84%20per%20il%20personale%20dipendente%20dalle%20camere%20di%20commercio.md), designato dal segretario generale.
  La commissione si riunisce almeno ogni sei mesi, qualora vi siano domande d'esame, ed opera con la presenza dei membri prescritti per la materia dell'esame.
  La giunta camerale stabilisce le modalita' con le quali viene attestato l'esito dell'esame.
  Con la stessa procedura di quelli effettivi possono essere nominati per la commissione anche membri supplenti.
@@ -54,8 +54,8 @@ Chi alla data di entrata in vigore del presente decreto sia membro della commiss
 NOTE
 
  Note all'art. 1:
- - Il D.M. 14 gennaio 1972 (pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 24 del 27 gennaio 1972) contiene il regolamento di esecuzione della [legge 11 giugno 1971, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426) (pubblicata nella Gazzetta Ufficiale n. 168 del 6 luglio 1971), che detta norme sulla disciplina del commercio.
- - Il D.M. 27 giugno 1986 (pubblicato nella Gazzetta Ufficiale n. 187 del 13 agosto 1986) reca norme integrative e sostitutive dei decreti ministeriali emanati per l'applicazione della [legge 11 giugno 1971, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426), sulla disciplina del commercio.
+ - Il D.M. 14 gennaio 1972 (pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 24 del 27 gennaio 1972) contiene il regolamento di esecuzione della [legge 11 giugno 1971, n. 426](Disciplina%20del%20commercio.md) (pubblicata nella Gazzetta Ufficiale n. 168 del 6 luglio 1971), che detta norme sulla disciplina del commercio.
+ - Il D.M. 27 giugno 1986 (pubblicato nella Gazzetta Ufficiale n. 187 del 13 agosto 1986) reca norme integrative e sostitutive dei decreti ministeriali emanati per l'applicazione della [legge 11 giugno 1971, n. 426](Disciplina%20del%20commercio.md), sulla disciplina del commercio.
 
 ## Art. 2.
 
@@ -73,11 +73,11 @@ L'obbligo di cui al comma 1 va osservato a partire dal termine del secondo trime
 
 4.
 
-Le camere di commercio, industria, artigianato e agricoltura, unitamente al bollettino di conto corrente postale per la riscossione del diritto annuale di cui all'[art. 34 del decreto-legge 22 dicembre 1981, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;786#art_34), convertito dalla [legge 26 febbraio 1982, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-26;51), inviano un questionario a tutti i soggetti esercenti una delle attivita' indicate nell'[art. 1, secondo comma, della legge 11 giugno 1971, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426#art_1-com2), qualora cio' venga chiesto dal Ministero dell'industria, del commercio e dell'artigianato per integrare i dati ottenuti ai sensi dei commi 1, 2 e 3 del presente articolo. Il questionario e' predisposto dal Ministero dell'industria, del commercio e dell'artigianato.
+Le camere di commercio, industria, artigianato e agricoltura, unitamente al bollettino di conto corrente postale per la riscossione del diritto annuale di cui all'[art. 34 del decreto-legge 22 dicembre 1981, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;786#art_34), convertito dalla [legge 26 febbraio 1982, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%201981%20n.%20786%20recante%20disposizioni%20in%20materia%20di%20finanza%20locale.md), inviano un questionario a tutti i soggetti esercenti una delle attivita' indicate nell'[art. 1, secondo comma, della legge 11 giugno 1971, n. 426](Disciplina%20del%20commercio.md), qualora cio' venga chiesto dal Ministero dell'industria, del commercio e dell'artigianato per integrare i dati ottenuti ai sensi dei commi 1, 2 e 3 del presente articolo. Il questionario e' predisposto dal Ministero dell'industria, del commercio e dell'artigianato.
 
 5.
 
-Ai suoi fini d'istituto il Ministero dell'industria, del commercio e dell'artigianato puo' chiedere che il questionario suddetto venga inviato anche a soggetti operanti in settori non disciplinati dalla [legge 11 giugno 1971, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426).
+Ai suoi fini d'istituto il Ministero dell'industria, del commercio e dell'artigianato puo' chiedere che il questionario suddetto venga inviato anche a soggetti operanti in settori non disciplinati dalla [legge 11 giugno 1971, n. 426](Disciplina%20del%20commercio.md).
 
 6.
 
@@ -90,7 +90,7 @@ L'art. 36 del decreto ministeriale 14 gennaio 1972, modificato dall'art. 25 del 
 
 8.
 
-L'irrogazione delle sanzioni amministrative previste dalle norme di applicazione della [legge 11 giugno 1971, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426), per la violazione delle disposizioni abrogate non ha piu' luogo, qualora non sia stata effettuata prima dell'entrata in vigore del presente decreto.
+L'irrogazione delle sanzioni amministrative previste dalle norme di applicazione della [legge 11 giugno 1971, n. 426](Disciplina%20del%20commercio.md), per la violazione delle disposizioni abrogate non ha piu' luogo, qualora non sia stata effettuata prima dell'entrata in vigore del presente decreto.
 
 Note all'art. 2:
  - Il testo dell'[art. 86 del R.D. 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_86), recante "Approvazione del [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773)", e' il seguente:
@@ -100,7 +100,7 @@ Note all'art. 2:
  "Art. 34. - A decorrere dall'anno 1982 ed al fine di accrescere gli interventi promozionali in favore delle piccole e medie imprese, le camere di commercio, industria, artigianato e agricoltura, percepiscono un diritto annuale a carico di tutte le ditte che svolgono attivita' economica iscritte agli albi e ai registri tenuti dalle predette camere, determinato nelle seguenti misure: ditte individuali, societa' di persone, societa' cooperative, consorzi: L. 20.000; societa' con capitale sociale deliberato fino a 200 milioni: L. 30.000; societa' con capitale sociale deliberato da oltre 200 milioni a un miliardo: L. 40.000; societa' con capitale sociale deliberato da altre 1 miliardo a 10 miliardi: L. 50.000, con un aumento di L. 10.000 per ogni 10 miliardi di capitale in piu', o frazione di 10 miliardi.
  Nel caso che la ditta abbia piu' esercizi commerciali, industriali o di altre attivita' economiche in province diverse da quella della sede principale, e' inoltre dovuto per ogni provincia, nella quale abbia almeno un esercizio, un diritto pari al 20 per cento di quello stabilito per la ditta medesima.
  Le camere di commercio, industria, artigianato e agricoltura provvedono alla riscossione del diritto a mezzo di appositi bollettini di conto corrente postale; i versamenti dovranno essere effettuati entro trenta giorni dal termine indicato nei bollettini stessi.
- Per l'importo non pagato nei tempi e nei modi prescritti si fara' luogo alla riscossione, mediante emissione di apposito ruolo, nelle forme previste dall'art. 3 del testo unico approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-05-15;858), applicando una sovrattassa pari al 5 per cento del diritto dovuto per ogni mese di ritardo o frazione di mese superiore a quindici giorni".
+ Per l'importo non pagato nei tempi e nei modi prescritti si fara' luogo alla riscossione, mediante emissione di apposito ruolo, nelle forme previste dall'art. 3 del testo unico approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../DPR/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md), applicando una sovrattassa pari al 5 per cento del diritto dovuto per ogni mese di ritardo o frazione di mese superiore a quindici giorni".
  - Il testo del [2° comma dell'art. 1 della legge n. 426/71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971;426#art_1-com2) e' il seguente:
  "Agli effetti della presente legge, esercita:
  1) l'attivita' di commercio all'ingrosso, chiunque professionalmente acquista merci a nome e per conto proprio e le rivende o ad altri commercianti, grossisti o dettaglianti, o ad utilizzatori professionali, o ad altri utilizzatori in grande. Tale attivita' puo' assumere la forma di commercio interno, di importazione o di esportazione;

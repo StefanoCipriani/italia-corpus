@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 30 dicembre 1913, n. 1435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-12-30;1435), relativo all'esecuzione di lavori pubblici a sollievo della disoccupazione operaia. 
+ E' convertito in legge il [R. decreto 30 dicembre 1913, n. 1435](Relativo%20alla%20esecuzione%20di%20lavori%20pubblici%20a%20sollievo%20della%20disoccupazione%20operaia.%20013U1435.md), relativo all'esecuzione di lavori pubblici a sollievo della disoccupazione operaia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

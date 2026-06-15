@@ -30,7 +30,7 @@ Per l'attuazione delle provvidenze disposte dal regolamento (CEE) n. 1505/76 del
 
 ## Art. 2.
 
-L'onere derivante dall'attuazione del presente decreto, valutato in lire 29 miliardi, fara' carico alle disponibilita' dell'autorizzazione di spesa recata dall'[art. 6, primo comma, lettera a), del decreto-legge 13 agosto 1975, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1975-08-13;377#art_6-com1-leta), convertito, con modificazioni, nella [legge 16 ottobre 1975, n. 493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-10-16;493).
+L'onere derivante dall'attuazione del presente decreto, valutato in lire 29 miliardi, fara' carico alle disponibilita' dell'autorizzazione di spesa recata dall'[art. 6, primo comma, lettera a), del decreto-legge 13 agosto 1975, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1975-08-13;377#art_6-com1-leta), convertito, con modificazioni, nella [legge 16 ottobre 1975, n. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%201975%20n.%20377%20concernente%20provvedimenti%20per%20il%20rilancio%20delleconomia%20riguardanti%20incentivi%20a%20favore%20delle%20piccole%20e%20medie%20_41654cedc883.md).
  Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 ## Art. 3.

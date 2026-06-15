@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Riconosciuta la necessita' di inscrivere nello stato di previsione del Ministero delle poste e dei telegrafi, per l'esercizio finanziario in corso, ulteriori fondi per provvedere a spese di aggio sui vaglia internazionali pagati in valuta cartacea;
 
-Vista la [legge 24 dicembre 1916, n. 1738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-12-24;1738);
+Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md);
 
 Udito il Consiglio dei ministri;
 

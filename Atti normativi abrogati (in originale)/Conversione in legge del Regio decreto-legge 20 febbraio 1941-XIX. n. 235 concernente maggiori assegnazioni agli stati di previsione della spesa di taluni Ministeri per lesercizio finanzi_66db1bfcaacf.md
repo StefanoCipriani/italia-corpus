@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 febbraio 1941, n. 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-02-20;235), concernente maggiori assegnazioni agli stati di previsione della spesa di taluni Ministeri per l'esercizio finanziario 1940-41. 
+ E' convertito in legge il [R. decreto-legge 20 febbraio 1941, n. 235](Maggiori%20assegnazioni%20agli%20stati%20di%20previsione%20della%20spesa%20di%20taluni%20Ministeri%20per%20lesercizio%20finanziario%201940-41.%20041U0235.md), concernente maggiori assegnazioni agli stati di previsione della spesa di taluni Ministeri per l'esercizio finanziario 1940-41. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 29 giugno 1902, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-06-29;246), che istituisce l'Ufficio e il Consiglio superiore del lavoro; 
+ Vista la [legge 29 giugno 1902, n. 246](Istituzione%20di%20un%20Ufficio%20del%20lavoro%20presso%20il%20Ministero%20dAgricoltura%20Industria%20e%20Commercio.%20002U0246.md), che istituisce l'Ufficio e il Consiglio superiore del lavoro; 
  
- Visto l'art. 26 del regolamento per la sua applicazione approvato con [R. decreto 29 gennaio 1903, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-01-29;48), e modificato con [R. decreto 26 gennaio 1913, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-26;51); 
+ Visto l'art. 26 del regolamento per la sua applicazione approvato con [R. decreto 29 gennaio 1903, n. 48](Approvazione%20del%20Regolamento%20per%20lesecuzione%20della%20legge%2029%20giugno%201902%20sulla%20istituzione%20di%20un%20Ufficio%20del%20lavoro%20presso%20il%20Ministero%20di%20Agricoltura%20Industria%20e%20Commercio.%20003U0048.md), e modificato con [R. decreto 26 gennaio 1913, n. 51](Col%20quale%20viene%20modificato%20il%20regolamento%2029%20gennaio%201903%20n.%2049%20per%20lesecuzione%20della%20legge%2029%20giugno%201902%20n.%20246%20sullUfficio%20e%20sul%20Consiglio%20superiore%20del%20lavoro.%20013U0051.md); 
  
  Sentito il parere del Consiglio di Stato; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- All'art. 26 del regolamento per l'esecuzione della [legge 29 giugno 1902, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-06-29;246), sull'Ufficio e sul Consiglio del lavoro, approvato con [R. decreto 29 gennaio 1903, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-01-29;48), e modificato con [R. decreto 26 gennaio 1913, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-26;51), e' sostituito il seguente: 
+ All'art. 26 del regolamento per l'esecuzione della [legge 29 giugno 1902, n. 246](Istituzione%20di%20un%20Ufficio%20del%20lavoro%20presso%20il%20Ministero%20dAgricoltura%20Industria%20e%20Commercio.%20002U0246.md), sull'Ufficio e sul Consiglio del lavoro, approvato con [R. decreto 29 gennaio 1903, n. 48](Approvazione%20del%20Regolamento%20per%20lesecuzione%20della%20legge%2029%20giugno%201902%20sulla%20istituzione%20di%20un%20Ufficio%20del%20lavoro%20presso%20il%20Ministero%20di%20Agricoltura%20Industria%20e%20Commercio.%20003U0048.md), e modificato con [R. decreto 26 gennaio 1913, n. 51](Col%20quale%20viene%20modificato%20il%20regolamento%2029%20gennaio%201903%20n.%2049%20per%20lesecuzione%20della%20legge%2029%20giugno%201902%20n.%20246%20sullUfficio%20e%20sul%20Consiglio%20superiore%20del%20lavoro.%20013U0051.md), e' sostituito il seguente: 
  
  «Art. 26 - Ai membri del Consiglio del lavoro residenti in Roma e che non siano funzionari dello Stato spetta una indennita' di lire quindici per ciascun giorno di seduta; per i funzionari dello Stato, l'indennita' e' di lire dieci al giorno. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 novembre 1928, n. 2470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-08;2470), concernente il conferimento al podesta' di Milano di poteri straordinari per il riordinamento degli uffici e servizi e per la dispensa del personale. 
+ E' convertito in legge il [R. decreto-legge 8 novembre 1928, n. 2470](Conferimento%20al%20podesta%20di%20Milano%20dei%20poteri%20straordinari%20per%20il%20riordinamento%20degli%20uffici%20e%20servizi%20e%20per%20la%20dispensa%20del%20personale.%20028U2470.md), concernente il conferimento al podesta' di Milano di poteri straordinari per il riordinamento degli uffici e servizi e per la dispensa del personale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

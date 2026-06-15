@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-Il limite di L. 5000 indicato dall'[art. 6 della legge 19 luglio 1862, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-07-19;722#art_6), e' elevato in corrispondenza dell'aumento di stipendio consentito con [decreto Luogotenenziale 10 febbraio 1918, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;107). 
+Il limite di L. 5000 indicato dall'[art. 6 della legge 19 luglio 1862, n. 722](Che%20vieta%20il%20cumulo%20degli%20impieghi%20retribuiti%20delle%20pensioni%20ed%20altri%20assegnamenti%20a%20carico%20dello%20Stato%20o%20di%20pubbliche%20Amministrazioni.%20062U0722.md), e' elevato in corrispondenza dell'aumento di stipendio consentito con [decreto Luogotenenziale 10 febbraio 1918, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;107). 
  
  Agli effetti del cumulo di una pensione con uno stipendio di cui all'art. 10 della citata legge, non e' da tener conto degli aumenti di stipendio consentiti col decreto Luogotenenziale predetto.
 
 ## Art. 2.
 
-Nel caso di cumulo di due stipendi a carico dello Stato, o di uno stipendio a carico dello Stato con altro a carico di un ente locale, consentito dalla [legge 19 luglio 1862, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-07-19;722), gli aumenti di stipendio di cui al [decreto Luogotenenziale 10 febbraio 1918, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;107), saranno ragguagliati all'importo complessivo degli stipendi cumulabili. L'importo dell'aumento sara' ripartito a carico di ciascuna delle amministrazioni interessate proporzionalmente agli stipendi rispettivamente da esse dovuti.
+Nel caso di cumulo di due stipendi a carico dello Stato, o di uno stipendio a carico dello Stato con altro a carico di un ente locale, consentito dalla [legge 19 luglio 1862, n. 722](Che%20vieta%20il%20cumulo%20degli%20impieghi%20retribuiti%20delle%20pensioni%20ed%20altri%20assegnamenti%20a%20carico%20dello%20Stato%20o%20di%20pubbliche%20Amministrazioni.%20062U0722.md), gli aumenti di stipendio di cui al [decreto Luogotenenziale 10 febbraio 1918, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;107), saranno ragguagliati all'importo complessivo degli stipendi cumulabili. L'importo dell'aumento sara' ripartito a carico di ciascuna delle amministrazioni interessate proporzionalmente agli stipendi rispettivamente da esse dovuti.
 
 ## Art. 3.
 

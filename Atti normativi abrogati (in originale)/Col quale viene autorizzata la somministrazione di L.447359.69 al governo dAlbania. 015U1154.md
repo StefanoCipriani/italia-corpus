@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 16 dicembre 1914, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1354), che proroga al secondo semestre dell'anno finanziario 1914-915 l'esercizio provvisorio degli stati di previsione per l'anno stesso fino a quando essi non siano tradotti in legge;
+Vista la [legge 16 dicembre 1914, n. 1354](Per%20la%20proroga%20dellesercizio%20provvisorio%20dei%20bilanci%20e%20provvedimenti%20finanziari.%20014U1354.md), che proroga al secondo semestre dell'anno finanziario 1914-915 l'esercizio provvisorio degli stati di previsione per l'anno stesso fino a quando essi non siano tradotti in legge;
 
-Visto il [R. decreto 15 novembre 1914, n. 1243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-15;1243), che autorizza la somministrazione della somma di cinque - milioni di franchi al Governo di Albania a titolo di prestito temporaneo senza interessi;
+Visto il [R. decreto 15 novembre 1914, n. 1243](Da%20convertirsi%20in%20legge%20col%20quale%20e%20autorizzata%20la%20somministrazione%20della%20somma%20di%205.000.000%20di%20franchi%20al%20Governo%20di%20Albania%20a%20titolo%20di%20prestito%20temporaneo.%20014U1243.md), che autorizza la somministrazione della somma di cinque - milioni di franchi al Governo di Albania a titolo di prestito temporaneo senza interessi;
 
 Ritenuta la necessita' di provvedere al saldo della maggior somma anticipata al Governo predetto, ivi computate le spese di cambio ;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto con q
 
 ## Articolo unico.
 
-E' autorizzata la somministrazione al governo di Albania della somma di lire quattrocentoquarantasettemilatrecentocinquantanove e centesimi sessantanove (447,359.69) in aggiunta al prestito di cinque milioni di franchi autorizzato con [R. decreto 15 novembre 1914, n. 1243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-15;1243). 
+E' autorizzata la somministrazione al governo di Albania della somma di lire quattrocentoquarantasettemilatrecentocinquantanove e centesimi sessantanove (447,359.69) in aggiunta al prestito di cinque milioni di franchi autorizzato con [R. decreto 15 novembre 1914, n. 1243](Da%20convertirsi%20in%20legge%20col%20quale%20e%20autorizzata%20la%20somministrazione%20della%20somma%20di%205.000.000%20di%20franchi%20al%20Governo%20di%20Albania%20a%20titolo%20di%20prestito%20temporaneo.%20014U1243.md). 
  
  Con decreto del ministro del tesoro verra' provveduto alla iscrizione di detta somma nella categoria III « Movimento di capitali » dello stato di previsione della spesa del Ministero del tesoro e di quello della entrata per l'esercizio finanziario 1914-915. 
  

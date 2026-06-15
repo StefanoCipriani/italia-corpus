@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 aprile 1934, n. 607](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-09;607), che modifica il regime doganale del legname e dei prodotti derivati. 
+ E' convertito in legge il [R. decreto-legge 9 aprile 1934, n. 607](Modificazione%20del%20regime%20doganale%20del%20legname%20e%20dei%20prodotti%20derivati.%20034U0607.md), che modifica il regime doganale del legname e dei prodotti derivati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

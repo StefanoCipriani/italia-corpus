@@ -26,7 +26,7 @@ Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 E' prorogata fino al 31 dicembre 1924 la temporanea abolizione del dazio doganale sul frumento, sull'avena, sul granturco (escluso quello bianco) e sulla segala. 
  
- Restano pure prorogate fino alla data stessa le temporanee riduzioni daziarie previste dall'[art. 1 del R. decreto 18 gennaio 1923, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-18;49#art_1).
+ Restano pure prorogate fino alla data stessa le temporanee riduzioni daziarie previste dall'[art. 1 del R. decreto 18 gennaio 1923, n. 49](Che%20riduce%20i%20dazi%20doganali%20relativi%20ai%20prodotti%20e%20derivati%20della%20macinazione%20del%20frumento%20e%20dei%20cereali%20minori.%20023U0049.md).
 
 ## Art. 2.
 

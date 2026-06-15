@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 maggio 1927, n. 793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-08;793), contenente norme per la identificazione e la delimitazione dei fondi compresi entro la zona franata nel gennaio 1922 nel comune di San Fratello (Messina). 
+ E' convertito in legge il [R. decreto-legge 8 maggio 1927, n. 793](Norme%20per%20la%20identificazione%20e%20la%20delimitazione%20dei%20fondi%20compresi%20entro%20la%20zona%20franata%20nel%20gennaio%201922%20nel%20comune%20di%20San%20Fratello%20Messina.%20027U0793.md), contenente norme per la identificazione e la delimitazione dei fondi compresi entro la zona franata nel gennaio 1922 nel comune di San Fratello (Messina). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

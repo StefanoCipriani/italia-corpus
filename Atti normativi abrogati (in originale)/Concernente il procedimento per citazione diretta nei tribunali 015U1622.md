@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Innanzi ai tribunali territoriali militari dell'esercito e della marina, pei reati pei quali l'azione penale e' promossa durante la presente guerra, si procede con citazione diretta, eccetto che si tratti di reati puniti con le pene previste nell'art. 4, n. 1, e 5, nn. 1 e 2 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito, e 4, n. 1 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo.
+Innanzi ai tribunali territoriali militari dell'esercito e della marina, pei reati pei quali l'azione penale e' promossa durante la presente guerra, si procede con citazione diretta, eccetto che si tratti di reati puniti con le pene previste nell'art. 4, n. 1, e 5, nn. 1 e 2 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e 4, n. 1 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
 
 ## Art. 2.
 
@@ -18,11 +18,11 @@ Nei procedimenti per citazione diretta l'avvocato fiscale militare puo' ricercar
  
  Per la spedizione di un mandato, e pel successivo interrogatorio dell'imputato, l'avvocato fiscale richiede sempre l'ufficiale istruttore. 
  
- Occorrendo redigere processi verbali, l'avvocato fiscale e' assistito dal segretario, a termini dell'[art. 396 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_396) per l'esercito, e 441 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo. Per le modificazioni a persone estranee alla milizia puo' richiedere direttamente gli ufficiali giudiziari.
+ Occorrendo redigere processi verbali, l'avvocato fiscale e' assistito dal segretario, a termini dell'[art. 396 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e 441 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. Per le modificazioni a persone estranee alla milizia puo' richiedere direttamente gli ufficiali giudiziari.
 
 ## Art. 3.
 
-Se l'avvocato fiscale crede che non si debba procedere, anche solo per taluno fra piu' imputati, presenta analoga requisitoria alla Commissione d'inchiesta per le sue deliberazioni a norma degli [articoli 421 e seguenti del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_421) per l'esercito e 465 e seguenti del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo.
+Se l'avvocato fiscale crede che non si debba procedere, anche solo per taluno fra piu' imputati, presenta analoga requisitoria alla Commissione d'inchiesta per le sue deliberazioni a norma degli [articoli 421 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e 465 e seguenti del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
 
 ## Art. 4. — null
 
@@ -36,7 +36,7 @@ Se l'avvocato fiscale crede che non si debba procedere, anche solo per taluno fr
 
 L'atto di accusa e' notificato all'imputato nel termine e nei modi stabiliti per le sentenze di accusa. Negli stessi termini e' notificato al civilmente responsabile ed alla parte civile costituita, se vi siano. 
  
- Si osservano anche in confronto di costoro le disposizioni degli [articoli 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_432) e [434 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_434) per l'esercito, e degli [articoli 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_478) e [480 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_480) militare marittimo, per la scelta del difensore, per le notificazioni e per la facolta' di esaminare nella segreteria gli atti del procedimento ed il corpo del reato.
+ Si osservano anche in confronto di costoro le disposizioni degli [articoli 432](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [434 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e degli [articoli 478](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [480 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, per la scelta del difensore, per le notificazioni e per la facolta' di esaminare nella segreteria gli atti del procedimento ed il corpo del reato.
 
 ## Art. 6. — null
 
@@ -64,11 +64,11 @@ Se i testimoni indicati nelle liste non sono stati sentiti nell'istruzione, i fa
 
 All'inizio del dibattimento il segretario legge ad alta voce l'atto di accusa. 
  
- Se nel corso del dibattimento sorgano a carico dell'imputato nuovi fatti, o circostanze aggravanti non indicate nell'atto di citazione diretta, si applicano le disposizioni degli [articoli 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_474) e [475 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_475) per l'esercito, e degli [articoli 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_519) e [520 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_520) militare marittimo.
+ Se nel corso del dibattimento sorgano a carico dell'imputato nuovi fatti, o circostanze aggravanti non indicate nell'atto di citazione diretta, si applicano le disposizioni degli [articoli 474](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [475 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e degli [articoli 519](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [520 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
 
 ## Art. 11.
 
-Nei procedimenti per reati, che sono devoluti alla giurisdizione militare per essere stati commessi in tempo di guerra, l'imputato puo' essere interrogato con mandato di comparizione, anche fuori dei casi previsti negli [articoli 408 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_408) per l'esercito, e 453 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo; e quando sia stato arrestato in flagranza, o interrogato con mandato di cattura, puo' essergli concessa la liberta' provvisoria, purche' precedano conclusioni conformi dell'avvocato fiscale.
+Nei procedimenti per reati, che sono devoluti alla giurisdizione militare per essere stati commessi in tempo di guerra, l'imputato puo' essere interrogato con mandato di comparizione, anche fuori dei casi previsti negli [articoli 408 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e 453 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo; e quando sia stato arrestato in flagranza, o interrogato con mandato di cattura, puo' essergli concessa la liberta' provvisoria, purche' precedano conclusioni conformi dell'avvocato fiscale.
 
 ## Art. 12.
 

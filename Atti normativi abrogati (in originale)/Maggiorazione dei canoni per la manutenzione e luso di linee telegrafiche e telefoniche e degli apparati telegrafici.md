@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 28 giugno 1885, n. 3200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-06-28;3200);
+Vista la [legge 28 giugno 1885, n. 3200](Che%20approva%20limpianto%20graduale%20del%20servizio%20telegrafico%20nei%20comuni%20capiluoghi%20di%20mandamento%20e%20nei%20comuni%20di%20frontiera%20che%20ne%20difettano%20085U3200.md);
 
-Visto il [R. decreto 21 ottobre 1923, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2367);
+Visto il [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md);
 
-Visto il [R. decreto-legge 13 marzo 1927, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-13;397);
+Visto il [R. decreto-legge 13 marzo 1927, n. 397](Interpretazione%20dellart.%203%20del%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20nei%20riguardi%20dellapplicazione%20dei%20canoni%20annui%20di%20manutenzione%20per%20le%20linee%20telegrafiche%20a%20servizio%20di%20enti%20diversi%20o%20di%20_e71cb0fdf8e9.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -59,7 +59,7 @@ Nulla e' variato nei riguardi dei canoni dovuti dalle Ferrovie dello Stato, prev
 
 ## Art. 7.
 
-I canoni dovuti dai Comuni per la manutenzione delle linee telegrafiche, ai sensi della [legge 28 giugno 1885, n. 3200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-06-28;3200), sono elevati, rispettivamente, a L. 40 annue a chilometro per i Comuni che forniscono i pali e a L. 80 annue a chilometro per i Comuni che non forniscono i pali.
+I canoni dovuti dai Comuni per la manutenzione delle linee telegrafiche, ai sensi della [legge 28 giugno 1885, n. 3200](Che%20approva%20limpianto%20graduale%20del%20servizio%20telegrafico%20nei%20comuni%20capiluoghi%20di%20mandamento%20e%20nei%20comuni%20di%20frontiera%20che%20ne%20difettano%20085U3200.md), sono elevati, rispettivamente, a L. 40 annue a chilometro per i Comuni che forniscono i pali e a L. 80 annue a chilometro per i Comuni che non forniscono i pali.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

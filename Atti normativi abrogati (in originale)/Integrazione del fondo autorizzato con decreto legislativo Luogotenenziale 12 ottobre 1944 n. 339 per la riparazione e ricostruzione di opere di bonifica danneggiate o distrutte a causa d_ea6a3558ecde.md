@@ -38,7 +38,7 @@ Il fondo di L. 500.000.000 autorizzato con il [decreto legislativo Luogotenenzia
 
 ## Art. 2.
 
-L'autorizzazione di spesa stabilita dall'[art. 2 del R. decreto-legge 13 gennaio 1938, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-01-13;12#art_2), convertito nella [legge 31 marzo 1938, n. 543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-31;543), e successive modificazioni, nonche' dalle [leggi 22 giugno 1939, n. 1002, e 23 gennaio 1941, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-01-23;47), per opere pubbliche di bonifica a pagamento non differito, e' ridotta di L. 300.000.000.
+L'autorizzazione di spesa stabilita dall'[art. 2 del R. decreto-legge 13 gennaio 1938, n. 12](Nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0012.md), convertito nella [legge 31 marzo 1938, n. 543](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2013%20gennaio%201938-XVI%20n.%2012%20recante%20nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0543.md), e successive modificazioni, nonche' dalle [leggi 22 giugno 1939, n. 1002, e 23 gennaio 1941, n. 47](Autorizzazione%20della%20spesa%20occorrente%20per%20le%20riparazioni%20dei%20danni%20dipendenti%20dalle%20alluvioni%20piene%20frane%20e%20mareggiate.%20041U0047.md), per opere pubbliche di bonifica a pagamento non differito, e' ridotta di L. 300.000.000.
 
 ## Art. 3.
 

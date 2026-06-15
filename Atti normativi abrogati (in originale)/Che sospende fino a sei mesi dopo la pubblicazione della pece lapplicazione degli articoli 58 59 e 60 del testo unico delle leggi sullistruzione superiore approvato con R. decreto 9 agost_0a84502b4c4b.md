@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A decorrere dal giorno della pubblicazione del presento decreto, e fino a sei mesi dopo la pubblicazione della pace, e' sospesa l'applicazione degli articoli 58, 59 e 60 del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795), relativi al conferimento della libera docenza.
+A decorrere dal giorno della pubblicazione del presento decreto, e fino a sei mesi dopo la pubblicazione della pace, e' sospesa l'applicazione degli articoli 58, 59 e 60 del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), relativi al conferimento della libera docenza.
 
 ## Art. 2.
 

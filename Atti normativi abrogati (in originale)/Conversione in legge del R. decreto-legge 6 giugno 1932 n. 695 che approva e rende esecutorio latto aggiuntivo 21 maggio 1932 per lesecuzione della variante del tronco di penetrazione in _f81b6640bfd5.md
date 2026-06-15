@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 giugno 1932, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-06-06;695), che approva e rende esecutivo l'atto aggiuntivo stipulato il 21 maggio 1932 per l'esecuzione della variante del tronco di penetrazione in Roma della ferrovia Roma-Civitacastellana-Viterbo ed autorizza la occorrente maggiore spesa. 
+ E' convertito in legge il [R. decreto-legge 6 giugno 1932, n. 695](Approvazione%20dellatto%20aggiuntivo%2021%20maggio%201932%20-%20X%20alla%20con%20convenzione%2014%20marzo%201916%20per%20lesecuzione%20della%20variante%20del%20tronco%20di%20penetrazione%20in%20Roma%20della%20ferrovia%20Roma-Civitacastella_189b3eb8a2f4.md), che approva e rende esecutivo l'atto aggiuntivo stipulato il 21 maggio 1932 per l'esecuzione della variante del tronco di penetrazione in Roma della ferrovia Roma-Civitacastellana-Viterbo ed autorizza la occorrente maggiore spesa. 
  
  Ordiniamo che la presente munita del sigillo dello Stato, sia inserta nella raccolta delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

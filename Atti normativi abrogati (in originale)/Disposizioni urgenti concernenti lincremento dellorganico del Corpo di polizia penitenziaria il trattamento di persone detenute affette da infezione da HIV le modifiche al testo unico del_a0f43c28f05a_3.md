@@ -24,48 +24,48 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-L'alinea del [comma 8 dell'articolo 1 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_1-com8), e' sostituito dal seguente:  "L'Osservatorio, sulla base delle direttive e dei criteri diramati dal Comitato, anche in base alle metodiche poste in essere dall'ISTAT, acquisisce periodicamente e sistematicamente dati:".
+L'alinea del [comma 8 dell'articolo 1 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' sostituito dal seguente:  "L'Osservatorio, sulla base delle direttive e dei criteri diramati dal Comitato, anche in base alle metodiche poste in essere dall'ISTAT, acquisisce periodicamente e sistematicamente dati:".
 
 2.
 
-Al [comma 8, lettera h), dell'articolo 1 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_1-com8-leth), e' aggiunto il seguente periodo: 
+Al [comma 8, lettera h), dell'articolo 1 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' aggiunto il seguente periodo: 
  "Le altre strutture pubbliche che provvedono alla acquisizione ed elaborazione di dati connessi al fenomeno delle tossicodipendenze in Italia comunicano periodicamente all'Osservatorio i dati in loro possesso".
 
 3.
 
-Al [comma 13 dell'articolo 1 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_1-com13), e' aggiunto il seguente periodo:  "Una quota non superiore ad un decimo della somma prevista puo' essere utilizzata, ferme restando le attuali dotazioni organiche, per l'istituzione, presso il Dipartimento per gli affari sociali della Presidenza del Consiglio dei Ministri, di uno 'sportello per il cittadino' per informazioni, assistenza e indirizzo nel campo della prevenzione, del recupero e della riabilitazione".
+Al [comma 13 dell'articolo 1 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' aggiunto il seguente periodo:  "Una quota non superiore ad un decimo della somma prevista puo' essere utilizzata, ferme restando le attuali dotazioni organiche, per l'istituzione, presso il Dipartimento per gli affari sociali della Presidenza del Consiglio dei Ministri, di uno 'sportello per il cittadino' per informazioni, assistenza e indirizzo nel campo della prevenzione, del recupero e della riabilitazione".
 
 4.
 
-Al [comma 14 dell'articolo 1 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_1-com14), le parole "31 gennaio" sono sostituite dalle seguenti: 
+Al [comma 14 dell'articolo 1 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), le parole "31 gennaio" sono sostituite dalle seguenti: 
 "31 marzo".
 
 ### Art. 2.
 
 1.
 
-Il [comma 1 dell'articolo 75 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_75-com1), e' sostituito dal seguente: 
+Il [comma 1 dell'articolo 75 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' sostituito dal seguente: 
  " 1. Chiunque, per farne uso personale, illecitamente importa, acquista o comunque detiene sostanze stupefacenti o psicotrope in quantita' non superiore alla dose media giornaliera determinata a norma dell'articolo 78, comma 1, lettera a), e' sottoposto alle sanzioni amministrative della sospensione della patente di guida, della licenza di porto d'armi, del passaporto e di ogni altro documento equipollente o, se trattasi di straniero, del permesso di soggiorno per motivi di turismo, ovvero del divieto di conseguire tali documenti, per un periodo da due a quattro mesi se si tratta di sostanze stupefacenti o psicotrope comprese nelle tabelle I e III previste dall'articolo 14 e per un periodo da uno a tre mesi se si tratta di sostanze stupefacenti o psicotrope comprese nelle tabelle II e IV. Le medesime sanzioni si applicano a chi, per farne uso personale, illecitamente importa, acquista o comunque detiene sostanze stupefacenti o psicotrope in quantita' non superiore al triplo della dose media determinata a norma dell'articolo 78, comma 1, lettera a), qualora risulti che tale quantita' corrisponde alla dose individuale abitualmente assunta nelle ventiquattro ore secondo le metodiche indicate nello stesso articolo 78, comma 1, lettera c)".
 
 2.
 
-Il [comma 2 dell'articolo 75 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_75-com2), e' sostituito dal seguente: 
+Il [comma 2 dell'articolo 75 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' sostituito dal seguente: 
  " 2. Nei casi previsti dal comma 1, se ricorrono elementi tali da far presumere che la persona si asterra', per il futuro, dal commettere nuovamente i fatti, in luogo della sanzione, e per una sola volta, il prefetto definisce il procedimento con il formale invito a non fare piu' uso delle sostanze, avvertendo il soggetto delle conseguenze a suo danno".
 
 3.
 
-Il [comma 3 dell'articolo 75 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_75-com3), e' soppresso.
+Il [comma 3 dell'articolo 75 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' soppresso.
 
 4.
 
-Il [comma 12 dell'articolo 75 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_75-com12), e' sostituito dal seguente: 
+Il [comma 12 dell'articolo 75 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' sostituito dal seguente: 
  " 12. Se l'interessato non si presenta al servizio pubblico per le tossicodipendenze entro il termine indicato, ovvero non inizia il programma secondo le prescrizioni stabilite o lo interrompe senza giustificato motivo, il prefetto lo convoca nuovamente dinanzi a se' e lo invita al rispetto del programma, rendendolo edotto delle conseguenze cui puo' andare incontro. Se l'interessato non si presenta innanzi al prefetto, o dichiara di rifiutare il programma ovvero nuovamente lo interrompe senza giustificato motivo, il prefetto applica le misure di cui all'articolo 76. Allo stesso modo procede quando siano commessi per la quarta volta i fatti di cui ai commi 1 e 2".
 
 ### Art. 3.
 
 1.
 
-L'[articolo 76 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_76), e' sostituito dal seguente: 
+L'[articolo 76 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' sostituito dal seguente: 
  "Art. 76 (Sanzioni in caso di inosservanza e provvedimenti ulteriori). - 1. Chiunque, dopo il terzo invito del prefetto previsto dal comma 12 dell'articolo 75 rifiuta o interrompe il programma terapeutico e socio-riabilitativo e' sottoposto, per un periodo da tre a otto mesi, se si tratta di sostanze stupefacenti o psicotrope comprese nelle tabelle I e III previste dall'articolo 14, ovvero per un periodo da due a quattro mesi se si tratta delle sostanze comprese nelle tabelle II e IV previste dallo stesso articolo 14, ad una o piu' delle seguenti misure: 
  a) divieto di allontanarsi dal comune di residenza, salvo autorizzazione concessa su richiesta dell'interessato per comprovate ragioni di cura e recupero; 
  b) obbligo di presentarsi almeno due volte la settimana presso il locale ufficio della Polizia di Stato o presso il comando dell'Arma dei carabinieri territorialmente competente; 
@@ -90,7 +90,7 @@ L'[articolo 76 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 30
 
 1.
 
-L'[articolo 78 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_78), e' sostituito dal seguente: 
+L'[articolo 78 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' sostituito dal seguente: 
  "Art. 78 (Criteri per determinare l'uso abituale e per quantificare la dose media giornaliera ). - 1. Con decreto del Ministro della sanita', previo parere dell'Istituto superiore di sanita', sono determinati: 
  a) i limiti quantitativi massimi di principio attivo per le dosi medie giornaliere; 
  b) le procedure diagnostiche e medico-legali per accertare l'uso abituale di sostanze stupefacenti o psicotrope; 
@@ -101,7 +101,7 @@ L'[articolo 78 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 30
 
 1.
 
-L'articolo 89 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309), e' sostituito dal seguente: 
+L'articolo 89 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' sostituito dal seguente: 
  "Art. 89 (Provvedimenti restrittivi nei confronti dei tossicodipendenti o alcooldipendenti che abbiano in corso programmi terapeutici). - 1. Non puo' essere disposta la custodia cautelare in carcere, salvo che sussistano esigenze cautelari di eccezionale rilevanza, quando imputata e' una persona tossicodipendente o alcooldipendente che abbia in corso un programma terapeutico di recupero presso i servizi pubblici per l'assistenza ai tossicodipendenti ovvero nell'ambito di una struttura autorizzata, e l'interruzione del programma puo' pregiudicare la disintossicazione dell'imputato. Con lo stesso provvedimento, o con altro successivo, il giudice stabilisce i controlli necessari per accertare che il tossicodipendente o l'alcooldipendente prosegua il programma di recupero. 
  2. Se una persona tossicodipendente o alcooldipendente, che e' in custodia cautelare in carcere, intende sottoporsi ad un programma di recupero presso i servizi pubblici per l'assistenza ai tossicodipendenti, ovvero una struttura autorizzata residenziale, la misura cautelare e' revocata, sempre che non ricorrano esigenze cautelari di eccezionale rilevanza. La revoca e' concessa su istanza dell'interessato; all'istanza e' allegata certificazione, rilasciata da un servizio pubblico per le tossicodipendenze, attestante lo stato di tossicodipendenza o di alcooldipendenza, nonche' la dichiarazione di disponibilita' all'accoglimento rilasciata dalla struttura. 
  3. Il giudice dispone la custodia cautelare in carcere o ne dispone il ripristino quando accerta che la persona ha interrotto l'esecuzione del programma, ovvero mantiene un comportamento incompatibile con la corretta esecuzione o quando accerta che la persona non ha collaborato alla definizione del programma o ne ha rifiutato l'esecuzione. 
@@ -116,31 +116,31 @@ Il [comma 5 dell'articolo 275 del codice di procedura penale](https://www.normat
 
 1.
 
-Il comma 1 dell'articolo 90 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309), e' sostituito dal seguente: 
+Il comma 1 dell'articolo 90 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' sostituito dal seguente: 
  " 1. Nei confronti di persona condannata ad una pena detentiva non superiore a quattro anni, anche se congiunta a pena pecuniaria, per reati commessi in relazione al proprio stato di tossicodipendente, ovvero che per la medesima causa debba ancora scontare una pena di durata non superiore a quattro anni, il tribunale di sorveglianza puo' sospendere l'esecuzione della pena per cinque anni qualora accerti che la persona si e' sottoposta o ha in corso un programma terapeutico e socio-riabilitativo. La stessa disposizione si applica per i reati previsti dall'articolo 73, comma 5, quando le pene detentive comminate, anche se congiunte a pena pecuniaria o ancora da scontare, non superano i quattro anni".
 
 ### Art. 7.
 
 1.
 
-Nell'articolo 94, comma 1, del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309), le parole: "Se la pena detentiva, inflitta nel limite di tre anni" sono sostituite dalle seguenti: "Se la pena detentiva inflitta nel limite di quattro anni o ancora da scontare nella stessa misura".
+Nell'articolo 94, comma 1, del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), le parole: "Se la pena detentiva, inflitta nel limite di tre anni" sono sostituite dalle seguenti: "Se la pena detentiva inflitta nel limite di quattro anni o ancora da scontare nella stessa misura".
 
 ### Art. 8.
 
 1.
 
-All'[articolo 129 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_129), e' aggiunto il seguente comma: 
+All'[articolo 129 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' aggiunto il seguente comma: 
  "3-bis. Gli enti che intendono avere in uso gli immobili di cui al comma 1 ne fanno domanda alla Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, che provvede a trasmettere la domanda al Ministero delle finanze - Direzione generale del demanio entro sessanta giorni, corredandola con il proprio parere. Il Ministro delle finanze provvede sull'istanza entro centottanta giorni dalla data di ricezione. Trascorso inutilmente tale termine il Ministro per gli affari sociali puo' chiedere che la questione sia iscritta all'ordine del giorno del Consiglio dei Ministri".
 
 ### Art. 9.
 
 1.
 
-Ai fini di una piu' corretta predisposizione progettuale delle iniziative, nonche' della verifica dell'attuazione dei progetti finanziari ai sensi del testo unico approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309), e' istituito, presso la Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, un nucleo operativo composto da undici esperti, di cui sei in rappresentanza, rispettivamente, delle Amministrazioni del tesoro, dell'interno, di grazia e giustizia, della difesa, della pubblica istruzione e della sanita', scelti prioritariamente tra il personale con qualifica dirigenziale, da quattro esperti particolarmente competenti nel settore della prevenzione e delle verifiche di efficienza e di efficacia e da un rappresentante delle associazioni delle famiglie. I membri del nucleo operativo sono rinnovati ogni anno per un terzo a decorrere dallo scadere del secondo anno. Non si puo' far parte del nucleo operativo per piu' di cinque anni.
+Ai fini di una piu' corretta predisposizione progettuale delle iniziative, nonche' della verifica dell'attuazione dei progetti finanziari ai sensi del testo unico approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' istituito, presso la Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, un nucleo operativo composto da undici esperti, di cui sei in rappresentanza, rispettivamente, delle Amministrazioni del tesoro, dell'interno, di grazia e giustizia, della difesa, della pubblica istruzione e della sanita', scelti prioritariamente tra il personale con qualifica dirigenziale, da quattro esperti particolarmente competenti nel settore della prevenzione e delle verifiche di efficienza e di efficacia e da un rappresentante delle associazioni delle famiglie. I membri del nucleo operativo sono rinnovati ogni anno per un terzo a decorrere dallo scadere del secondo anno. Non si puo' far parte del nucleo operativo per piu' di cinque anni.
 
 2.
 
-I componenti del nucleo operativo in rappresentanza delle amministrazioni dello Stato sono nominati con decreto del Presidente del Consiglio, su proposta dei Ministri interessati, e sono collocati fuori ruolo ai sensi e per gli effetti degli [articoli 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-30;3#art_58) e [59 del testo unico degli impiegati](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-30;3#art_59) civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3). I rimanenti componenti del nucleo operativo sono nominati con decreto del Presidente del Consiglio dei Ministri ai sensi dell'[articolo 31 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_31).
+I componenti del nucleo operativo in rappresentanza delle amministrazioni dello Stato sono nominati con decreto del Presidente del Consiglio, su proposta dei Ministri interessati, e sono collocati fuori ruolo ai sensi e per gli effetti degli [articoli 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-30;3#art_58) e [59 del testo unico degli impiegati](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-30;3#art_59) civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md). I rimanenti componenti del nucleo operativo sono nominati con decreto del Presidente del Consiglio dei Ministri ai sensi dell'[articolo 31 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_31).
 
 3.
 
@@ -154,7 +154,7 @@ L'onere per il funzionamento del nucleo operativo di cui al comma 1 e' valutato 
 
 1.
 
-Ai fini del coordinamento delle attivita' di prevenzione, recupero e reinserimento sociale dei tossicodipendenti, nonche' delle attivita' finalizzate alla erogazione dei contributi di cui agli articoli 127, 131, 132 e 134 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309), e' istituito presso la Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali il "Fondo nazionale di intervento per la lotta alla droga". A tal fine gli stanziamenti iscritti al capitolo 4283 dello stato di previsione del Ministero dell'interno, come indicati alla tabella C allegata alla [legge 23 dicembre 1992, n. 500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;500), sono trasferiti per gli anni medesimi nello stato di previsione della Presidenza del Consiglio dei Ministri. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+Ai fini del coordinamento delle attivita' di prevenzione, recupero e reinserimento sociale dei tossicodipendenti, nonche' delle attivita' finalizzate alla erogazione dei contributi di cui agli articoli 127, 131, 132 e 134 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' istituito presso la Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali il "Fondo nazionale di intervento per la lotta alla droga". A tal fine gli stanziamenti iscritti al capitolo 4283 dello stato di previsione del Ministero dell'interno, come indicati alla tabella C allegata alla [legge 23 dicembre 1992, n. 500](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201993.md), sono trasferiti per gli anni medesimi nello stato di previsione della Presidenza del Consiglio dei Ministri. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 2.
 
@@ -164,7 +164,7 @@ A valere sul Fondo di cui al comma 1 possono essere finanziati, previa presentaz
                             b)
                                 comuni ed enti locali maggiormente interessati dall'espansione di tale fenomeno. Al finanziamento dei progetti possono accedere prioritariamente i comuni del Mezzogiorno e quelli che intendono attivare servizi sperimentali di prevenzione e recupero sul territorio, con particolare riferimento ai centri di prima accoglienza ed alle "unita' da strada" finalizzati alla riduzione del rischio. Per i finanziamenti di tali progetti e' destinato il 47% del totale degli stanziamenti previsti;
                             c)
-                                associazioni di volontariato, enti, cooperative e privati che operino senza scopi di lucro, nonche' comunita' terapeutiche per progetti mirati a sostenere attivita' di recupero e reinserimento sociale e professionale dei tossicodipendenti e per le strutture di cui all'[articolo 76, comma 10, del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_76-com10), come modificato dall'articolo 3 del presente decreto. Per il finanziamento di tali iniziative e' destinata una quota pari al 25% del totale degli stanziamenti previsti per il Fondo nazionale di intervento per la lotta alla droga.
+                                associazioni di volontariato, enti, cooperative e privati che operino senza scopi di lucro, nonche' comunita' terapeutiche per progetti mirati a sostenere attivita' di recupero e reinserimento sociale e professionale dei tossicodipendenti e per le strutture di cui all'[articolo 76, comma 10, del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), come modificato dall'articolo 3 del presente decreto. Per il finanziamento di tali iniziative e' destinata una quota pari al 25% del totale degli stanziamenti previsti per il Fondo nazionale di intervento per la lotta alla droga.
 
 3.
 
@@ -212,7 +212,7 @@ Il decreto di cui al [comma 2 dell'articolo 286- bis del codice di procedura pen
 
 1.
 
-Nel [primo comma dell'articolo 146 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_146-com1) e' aggiunto il seguente numero: 
+Nel [primo comma dell'articolo 146 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto il seguente numero: 
  "3) se deve aver luogo nei confronti di persona affetta da infezione da HIV nei casi di incompatibilita' con lo stato di detenzione ai sensi dell'[articolo 286- bis, comma 1, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_286bis-com1).".
 
 ### Art. 13.
@@ -223,7 +223,7 @@ I detenuti e gli internati affetti da infezione da HIV, per i quali la competent
 
 2.
 
-Per la attivazione di posti letto negli ospedali di cui al comma 1 si provvede con finanziamenti di cui all'[articolo 20 della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_20).
+Per la attivazione di posti letto negli ospedali di cui al comma 1 si provvede con finanziamenti di cui all'[articolo 20 della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md).
 
 ### Art. 14.
 
@@ -313,7 +313,7 @@ Con decreto del Ministro di grazia e giustizia puo' essere disposta la immediata
 
 1.
 
-Le strutture di cui al [comma 10 dell'articolo 76 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309#art_76-com10), come sostituito dal presente decreto, sono individuate, con decreto del Presidente del Consiglio dei Ministri da adottarsi su proposta del Ministro per gli affari sociali entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, tra quelle non aventi fini di lucro gestite dagli enti di cui all'articolo 115 dello stesso decreto del Presidente della Repubblica. Le assegnazioni alle predette strutture di accoglienza potranno essere disposte dal prefetto nei limiti delle risorse finanziarie preordinate, allo scopo nell'ambito del Fondo di cui all'articolo 10 del presente decreto.
+Le strutture di cui al [comma 10 dell'articolo 76 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), come sostituito dal presente decreto, sono individuate, con decreto del Presidente del Consiglio dei Ministri da adottarsi su proposta del Ministro per gli affari sociali entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, tra quelle non aventi fini di lucro gestite dagli enti di cui all'articolo 115 dello stesso decreto del Presidente della Repubblica. Le assegnazioni alle predette strutture di accoglienza potranno essere disposte dal prefetto nei limiti delle risorse finanziarie preordinate, allo scopo nell'ambito del Fondo di cui all'articolo 10 del presente decreto.
 
 ### Art. 21.
 

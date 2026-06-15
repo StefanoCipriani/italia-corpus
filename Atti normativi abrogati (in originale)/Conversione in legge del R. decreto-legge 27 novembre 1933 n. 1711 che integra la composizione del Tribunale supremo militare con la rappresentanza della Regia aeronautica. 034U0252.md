@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1711](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1711), che integra la composizione del Tribunale supremo militare con la rappresentanza della Regia aeronautica. 
+ E' convertito in legge il [R. decreto-legge 27 novembre 1933, n. 1711](Integrazione%20della%20composizione%20del%20Tribunale%20supremo%20militare%20con%20la%20rappresentanza%20della%20Regia%20aeronautica.%20033U1711.md), che integra la composizione del Tribunale supremo militare con la rappresentanza della Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

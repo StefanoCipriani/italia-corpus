@@ -24,7 +24,7 @@ L'[art. 12 della legge 13 marzo 1958, n. 165](Ordinamento%20delle%20carriere%20e
 
 ## Art. 2.
 
-E' ridotto a 145 il numero dei posti di vice rettore aggiunto di 3ª classe nei convitti nazionali di cui al [decreto legislativo 7 maggio 1948, n. 1065](Miglioramento%20di%20carriera%20al%20personale%20direttivo%20educativo%20e%20di%20economato%20dei%20Convitti%20nazionali.md), al quadro 13-c annesso al [decreto del Presidente della Repubblica 11 gennaio 1956, n. 16](Ordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), ed al quadro 13-b annesso al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3).
+E' ridotto a 145 il numero dei posti di vice rettore aggiunto di 3ª classe nei convitti nazionali di cui al [decreto legislativo 7 maggio 1948, n. 1065](Miglioramento%20di%20carriera%20al%20personale%20direttivo%20educativo%20e%20di%20economato%20dei%20Convitti%20nazionali.md), al quadro 13-c annesso al [decreto del Presidente della Repubblica 11 gennaio 1956, n. 16](Ordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), ed al quadro 13-b annesso al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 3.
 

@@ -52,7 +52,7 @@ In aggiunta agli aumenti di tariffe di cui all'articolo 5 del Nostro [decreto 3 
 
 ## Art. 4.
 
-In conseguenza degli aumenti che verranno consentiti in dipendenza del disposto dei due precedenti articoli gli esercenti dovranno fare un unico arrotondamento delle tariffe, tenuto conto anche degli aumenti precedentemente autorizzati a norma della [legge 14 luglio 1912, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;835) e dei Nostri decreti 17 febbraio 1916, n. 192 e 3 settembre 1916, n. 1126, nonche' delle tasse erariali, di quelle di bollo e soprattasse di cui alle [leggi 29 dicembre 1912, n. 1365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-29;1365) e precedenti.
+In conseguenza degli aumenti che verranno consentiti in dipendenza del disposto dei due precedenti articoli gli esercenti dovranno fare un unico arrotondamento delle tariffe, tenuto conto anche degli aumenti precedentemente autorizzati a norma della [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md) e dei Nostri decreti 17 febbraio 1916, n. 192 e 3 settembre 1916, n. 1126, nonche' delle tasse erariali, di quelle di bollo e soprattasse di cui alle [leggi 29 dicembre 1912, n. 1365](Portante%20norme%20per%20la%20graduale%20attuazione%20delle%20disposizioni%20sul%20bollo%20nei%20trasporti%20ferroviari%20tramviari%20ecc.%20contenute%20nella%20legge%2014%20luglio%201912%20n.%20835%20e%20modificazioni%20ed%20aggiunte%20per%20_960768e6f697.md) e precedenti.
 
 ## Art. 5.
 

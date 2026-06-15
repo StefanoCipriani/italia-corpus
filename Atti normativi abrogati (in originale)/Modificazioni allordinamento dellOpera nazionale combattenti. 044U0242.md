@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-I termini di cui al quarto comma dell'art. 16, al terzo e quarto comma dell'art. 17 e al primo comma dell'articolo 29 del Regolamento legislativo 16 settembre 1926, n. 1606, modificato con [R. decreto-legge 11 novembre 1938, n. 1834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-11;1834), in corso al 25 luglio 1943, sono prorogati sino a sessanta giorni dopo la cessazione dell'attuale stato di guerra.
+I termini di cui al quarto comma dell'art. 16, al terzo e quarto comma dell'art. 17 e al primo comma dell'articolo 29 del Regolamento legislativo 16 settembre 1926, n. 1606, modificato con [R. decreto-legge 11 novembre 1938, n. 1834](Modificazioni%20al%20regolamento%20legislativo%2016%20settembre%201926-IV%20n.%201606%20per%20lordinamento%20e%20le%20funzioni%20dellOpera%20nazionale%20combattenti.%20038U1834.md), in corso al 25 luglio 1943, sono prorogati sino a sessanta giorni dopo la cessazione dell'attuale stato di guerra.
 
 ## Art. 2.
 
-L'[art. 18 del R. decreto-legge 16 settembre 1926, numero 1606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-16;1606#art_18), e' sostituito dalla disposizione che segue: 
+L'[art. 18 del R. decreto-legge 16 settembre 1926, numero 1606](Approvazione%20del%20regolamento%20legislativo%20per%20lordinamento%20e%20le%20funzioni%20dellOpera%20nazionale%20per%20i%20combattenti.%20026U1606.md), e' sostituito dalla disposizione che segue: 
  
  «Art. 18. - L'elenco degli immobili per i quali non fu concordata l'indennita' e' dall'Opera comunicato al Collegio provinciale arbitrale, nei trenta giorni dalla data di comunicazione del provvedimento Sovrano. 
  
@@ -26,7 +26,7 @@ L'[art. 18 del R. decreto-legge 16 settembre 1926, numero 1606](https://www.norm
 
 ## Art. 3.
 
-L'art. 30 R. del [R. decreto-legge 16 settembre 1926, numero 1606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-16;1606), modificato dall'[art. 2 del R. decreto-legge 30 marzo 1933, n. 291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-30;291#art_2), e' sostituito dalla seguente disposizione: 
+L'art. 30 R. del [R. decreto-legge 16 settembre 1926, numero 1606](Approvazione%20del%20regolamento%20legislativo%20per%20lordinamento%20e%20le%20funzioni%20dellOpera%20nazionale%20per%20i%20combattenti.%20026U1606.md), modificato dall'[art. 2 del R. decreto-legge 30 marzo 1933, n. 291](Disciplina%20dei%20rapporti%20fra%20lOpera%20nazionale%20combattenti%20ed%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20033U0291.md), e' sostituito dalla seguente disposizione: 
  
  «E' istituito in Roma, per l'esercizio delle funzioni amministrative e giurisdizionali, menzionate nelle presenti disposizioni legislative, un Collegio centrale arbitrale composto di un presidente di sezione della Corte Suprema di cassazione, che lo presiede, di un magistrato di grado non inferiore a consigliere della stessa Corte, di un consigliere di Stato, di un rappresentante del Ministero dell'agricoltura e delle foreste e di due esperti nelle discipline economiche e agrarie. 
  
@@ -40,7 +40,7 @@ L'art. 30 R. del [R. decreto-legge 16 settembre 1926, numero 1606](https://www.n
 
 ## Art. 4.
 
-Gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-16;1607#art_1) e [17 del R. decreto 16 settembre 1926, n. 1607](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-16;1607#art_17), sono sostituiti, rispettivamente, dalle disposizioni che seguono: 
+Gli [articoli 1](Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md) e [17 del R. decreto 16 settembre 1926, n. 1607](Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md), sono sostituiti, rispettivamente, dalle disposizioni che seguono: 
  
  «Art. 1. - Il Collegio centrale arbitrale di cui all'art. 30 del Regolamento legislativo per l'ordinamento e le funzioni dell'Opera nazionale per i combattenti, ha sede in Roma presso la Corte Suprema di cassazione. 
  
@@ -60,7 +60,7 @@ Gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decr
 
 ## Art. 5.
 
-Le occupazioni in via provvisoria di cui agli [articoli 4 e seguenti del R. decreto-legge 11 novembre 1938, n. 1834, e ai decreti](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-11;1834#art_4) successivi, gia' disposte, sono protratte sino ad un anno dopo la cessazione dell'attuale stato di guerra, a condizione che l'esecuzione del piano generale di bonifica del comprensorio in cui ricadono i terreni occupati sia gia' iniziata o lo sia entro sei mesi dalla data di pubblicazione del presente decreto.
+Le occupazioni in via provvisoria di cui agli [articoli 4 e seguenti del R. decreto-legge 11 novembre 1938, n. 1834, e ai decreti](Modificazioni%20al%20regolamento%20legislativo%2016%20settembre%201926-IV%20n.%201606%20per%20lordinamento%20e%20le%20funzioni%20dellOpera%20nazionale%20combattenti.%20038U1834.md) successivi, gia' disposte, sono protratte sino ad un anno dopo la cessazione dell'attuale stato di guerra, a condizione che l'esecuzione del piano generale di bonifica del comprensorio in cui ricadono i terreni occupati sia gia' iniziata o lo sia entro sei mesi dalla data di pubblicazione del presente decreto.
 
 ## Art. 6.
 

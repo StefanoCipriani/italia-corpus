@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto 11 gennaio 1912, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-01-11;2), relativo alla nomina ad ufficiale effettivo di sottotenenti di complemento e di sottufficiali del corpo di spedizione in Tripolitania e Cirenaica.
+E' convertito in legge il [R. decreto 11 gennaio 1912, n. 2](Da%20convertirsi%20in%20legge%20riguardante%20la%20nomina%20a%20sottotenenti%20effettivi%20dei%20sottotenenti%20di%20complemento%20e%20dei%20sottufficiali%20del%20corpo%20di%20spedizione%20in%20Tripolitania%20ed%20in%20Cirenaica.%20012U0002.md), relativo alla nomina ad ufficiale effettivo di sottotenenti di complemento e di sottufficiali del corpo di spedizione in Tripolitania e Cirenaica.
 
 ## Art. 2.
 

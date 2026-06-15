@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Veduta la [legge 26 giugno 1913, n. 836](Che%20approva%20lordinamento%20dellIstituto%20nazionale%20per%20listruzione%20e%20per%20leducazione%20degli%20orfani%20dei%20maestri%20elementari.%20013U0836.md);
 
-Veduto il [decreto-legge Luogotenenziale 5 maggio 1918, n.939](Che%20apporta%20modificazioni%20alla%20legge%2026%20giugno%201913%20n.%20836%20relativa%20allordinamento%20e%20funzionamento%20nellIstituto%20nazionale%20per%20gli%20orfani%20dei%20maestri%20elementari.%20018U0939.md), convertito in legge con la [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Veduto il [decreto-legge Luogotenenziale 5 maggio 1918, n.939](Che%20apporta%20modificazioni%20alla%20legge%2026%20giugno%201913%20n.%20836%20relativa%20allordinamento%20e%20funzionamento%20nellIstituto%20nazionale%20per%20gli%20orfani%20dei%20maestri%20elementari.%20018U0939.md), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Veduto il [R. decreto 17 marzo 1927, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-17;469);
+Veduto il [R. decreto 17 marzo 1927, n. 469](Disposizioni%20concernenti%20lIstituto%20nazionale%20per%20leducazione%20e%20listruzione%20degli%20orfani%20dei%20maestri%20elementari.%20027U0469.md);
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

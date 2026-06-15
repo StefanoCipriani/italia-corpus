@@ -30,7 +30,7 @@ Per l'esercizio dell'attivita' disciplinata dai precedenti articoli non e' richi
 
 ## Art. 4.
 
-Chiunque eserciti professionalmente l'attivita' disciplinata nella presente legge senza essere iscritto nei ruoli indicati dall'art. 2 incorre nelle sanzioni penali previste dall'[art. 665 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_665).
+Chiunque eserciti professionalmente l'attivita' disciplinata nella presente legge senza essere iscritto nei ruoli indicati dall'art. 2 incorre nelle sanzioni penali previste dall'[art. 665 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 

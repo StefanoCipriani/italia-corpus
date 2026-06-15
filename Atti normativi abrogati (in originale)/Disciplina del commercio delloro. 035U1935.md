@@ -74,7 +74,7 @@ L'Istituto nazionale per i cambi con l'estero per l'acquisto ed il deposito di o
 
 ## Art. 9.
 
-Per gli oggetti d'oro compresi tra le cose confiscate ai sensi dell'[art. 240 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240) o fra quelle sequestrate nei casi contemplati dall'[art. 625 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_625), il giudice dovra' disporre la consegna all'Istituto nazionale per i cambi con l'estero per conto del Tesoro dello Stato. 
+Per gli oggetti d'oro compresi tra le cose confiscate ai sensi dell'[art. 240 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o fra quelle sequestrate nei casi contemplati dall'[art. 625 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_625), il giudice dovra' disporre la consegna all'Istituto nazionale per i cambi con l'estero per conto del Tesoro dello Stato. 
  
  Tale consegna dovra' avvenire entro un mese dalla data in cui e' divenuta irrevocabile la sentenza di condanna nel caso di confisca, oppure dalla scadenza del termine previsto dal citato [art. 625 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_625) nei casi di sequestro. 
  

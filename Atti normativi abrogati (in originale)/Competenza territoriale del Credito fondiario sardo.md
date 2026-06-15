@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375) e le successive sue modificazioni;
 
-Vista la [legge 16 novembre 1939, n. 1797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1797), riguardante la determinazione della competenza territoriale degli Istituti di credito fondiario Visto il [decreto legislativo luogotenenziale 14 settembre 1944, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-14;226);
+Vista la [legge 16 novembre 1939, n. 1797](Determinazione%20della%20competenza%20territoriale%20degli%20Istituti%20di%20credito%20fondiario.%20039U1797.md), riguardante la determinazione della competenza territoriale degli Istituti di credito fondiario Visto il [decreto legislativo luogotenenziale 14 settembre 1944, n. 226](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dellIspettorato%20per%20la%20difesa%20del%20risparmio%20e%20per%20lesercizio%20del%20credito%20e%20passaggio%20delle%20sue%20attribuzioni%20e%20facolta%20al%20Ministero%20del%20tesoro.%20044U0226.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151) Vista la deliberazione del Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per il tesoro: HA SANZIONATO E PROMULGA:
 
 ## Art. 1.
 
-La competenza territoriale del Credito fondiaria sardo, limitata, giusta la [lettera e, dell'art. 1 della legge 16 novembre 1939, n. 1797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1797#art_1-lete), alle provincie della Sardegna, ed al territorio dell'ex Governatorato di Roma, e' estesa alle provincie dell'Italia centro-meridionale ed a quelle della Lombardia, del Piemonte e della Liguria.
+La competenza territoriale del Credito fondiaria sardo, limitata, giusta la [lettera e, dell'art. 1 della legge 16 novembre 1939, n. 1797](Determinazione%20della%20competenza%20territoriale%20degli%20Istituti%20di%20credito%20fondiario.%20039U1797.md), alle provincie della Sardegna, ed al territorio dell'ex Governatorato di Roma, e' estesa alle provincie dell'Italia centro-meridionale ed a quelle della Lombardia, del Piemonte e della Liguria.
 
 ## Art. 2.
 

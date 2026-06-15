@@ -14,7 +14,7 @@ PER GRAZIA PI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i Nostri [decreti-legge 14 gennaio 1923, n. 31; 8 marzo 1923, n. 832; 15 marzo 1923, n. 967, e 24 settembre 1923, n. 2146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-09-24;2146), convertiti in legge con la [legge 17 aprile 1925, numero 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visti i Nostri [decreti-legge 14 gennaio 1923, n. 31; 8 marzo 1923, n. 832; 15 marzo 1923, n. 967, e 24 settembre 1923, n. 2146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1923-09-24;2146), convertiti in legge con la [legge 17 aprile 1925, numero 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Udito il Consiglio dei Ministri;
 

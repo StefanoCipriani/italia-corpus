@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 31 marzo 1930, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-31;438), che stabilisce nuove disposizioni per il commercio dell'essenza di bergamotto, con la seguente aggiunta alla prima parte dell'art. 4: 
+ E' convertito in legge il [R. decreto-legge 31 marzo 1930, n. 438](Nuove%20disposizioni%20per%20il%20commercio%20dellessenza%20di%20bergamotto.%20030U0438.md), che stabilisce nuove disposizioni per il commercio dell'essenza di bergamotto, con la seguente aggiunta alla prima parte dell'art. 4: 
  
  Dopo le parole «ogni possibile azione», aggiungere le parole: «anche di carattere commerciale». 
  

@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -40,7 +40,7 @@ Il taglio degli olivi e' subordinato ad autorizzazione da chiedere al prefetto d
 
 ## Art. 3.
 
-Quando la proposta di taglio riguarda olivi in stato di deperimento per cause nemiche, ma suscettibili di essere ricondotti a produzione normale, la Commissione potra' negare o limitare l'autorizzazione al taglio, promuovendo in pari tempo, la costituzione del Consorzio di difesa dell'olivicoltura, secondo le modalita' della [legge 26 giugno 1913, n. 888](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;888), e del relativo [regolamento 12 marzo 1916, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1916-03-12;723), col concorso dello Stato a norma dell'art. 7 di detta legge. 
+Quando la proposta di taglio riguarda olivi in stato di deperimento per cause nemiche, ma suscettibili di essere ricondotti a produzione normale, la Commissione potra' negare o limitare l'autorizzazione al taglio, promuovendo in pari tempo, la costituzione del Consorzio di difesa dell'olivicoltura, secondo le modalita' della [legge 26 giugno 1913, n. 888](Che%20reca%20provvedimenti%20intesi%20a%20prevenire%20e%20a%20combattere%20le%20malattie%20delle%20piante.%20013U0888.md), e del relativo [regolamento 12 marzo 1916, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1916-03-12;723), col concorso dello Stato a norma dell'art. 7 di detta legge. 
  
  Il Consorzio di difesa potra' essere reso obbligatorio dal prefetto sul parere della Commissione stessa.
 

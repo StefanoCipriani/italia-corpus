@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 settembre 1926, n. 1673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-16;1673), concernente l'estensione agli ufficiali consolari ed agli impiegati dei Consolati esteri in Italia della esenzione gia' accordata dall'art. 7 della legge organica di ricchezza mobile agli agenti consolari. 
+ E' convertito in legge il [R. decreto-legge 16 settembre 1926, n. 1673](Estensione%20agli%20ufficiali%20consolari%20ed%20agli%20impiegati%20dei%20consolati%20esteri%20in%20Italia%20della%20esenzione%20gia%20accordata%20dallart.%207%20della%20legge%20organica%20di%20R.%20M.%20agli%20agenti%20consolari.%20026U1673.md), concernente l'estensione agli ufficiali consolari ed agli impiegati dei Consolati esteri in Italia della esenzione gia' accordata dall'art. 7 della legge organica di ricchezza mobile agli agenti consolari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

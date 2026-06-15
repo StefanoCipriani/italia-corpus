@@ -20,7 +20,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Sentito il Consiglio dei ministri; 
  
@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Durante la guerra e per sei mesi dopo la conclusione del1a pace, e' in facolta' del Governo provvedere alla nomina del commissario generale dell'emigrazione anche in deroga all'[art. 7, comma 5°, della legge 31 gennaio 1901, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-01-31;23#art_7-com5), modificato con la [legge 17 luglio 1910, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;538), che prescrive debba il commissario generale essere scelto fra gli impiegati superiori dello Stato. 
+ Durante la guerra e per sei mesi dopo la conclusione del1a pace, e' in facolta' del Governo provvedere alla nomina del commissario generale dell'emigrazione anche in deroga all'[art. 7, comma 5°, della legge 31 gennaio 1901, n. 23](Disposizioni%20sullemigrazione.%20001U0023.md), modificato con la [legge 17 luglio 1910, n. 538](Provvedimento%20riguardante%20lemigrazione.%20010U0538.md), che prescrive debba il commissario generale essere scelto fra gli impiegati superiori dello Stato. 
  
  Il presente decreto avra' effetto dal giorno della sua pubblicazione. 
  

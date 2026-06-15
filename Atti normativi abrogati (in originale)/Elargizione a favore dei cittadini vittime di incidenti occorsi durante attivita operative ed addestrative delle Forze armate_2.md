@@ -75,7 +75,7 @@ I benefici di cui agli articoli 1 e 3 spettano ai soggetti aventi diritto per ef
 
 1.
 
-Agli invalidi di cui all'articolo 3, al coniuge superstite ed ai figli dei soggetti di cui all'articolo 1, se in possesso della cittadinanza italiana, si applicano le disposizioni delle [leggi 2 aprile 1968, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482), e 1 giugno 1977, n. 285, e successive modificazioni.
+Agli invalidi di cui all'articolo 3, al coniuge superstite ed ai figli dei soggetti di cui all'articolo 1, se in possesso della cittadinanza italiana, si applicano le disposizioni delle [leggi 2 aprile 1968, n. 482](Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md), e 1 giugno 1977, n. 285, e successive modificazioni.
 
 ## Art. 7.
 

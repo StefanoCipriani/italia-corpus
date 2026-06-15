@@ -20,7 +20,7 @@ Visto l'art. 74 del testo unico dianzi citato modificato dalla [legge 21 marzo 1
 
 Visto l'art. 213, n. 1, del regolamento generale intorno a] servizio postale approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), e successive modificazioni;
 
-Visto il [R. decreto-legge 20 marzo 1924, n. 503](Estensione%20ad%20alcuni%20uffici%20postali%20del%20Regno%20del%20servizio%20dei%20pacchi%20da%20oltre%205%20fino%20a%2010%20chilogrammi.%20024U0503.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge 20 marzo 1924, n. 503](Estensione%20ad%20alcuni%20uffici%20postali%20del%20Regno%20del%20servizio%20dei%20pacchi%20da%20oltre%205%20fino%20a%2010%20chilogrammi.%20024U0503.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

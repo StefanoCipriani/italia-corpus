@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° ottobre 1931, n. 1267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-01;1267), recante autorizzazione di spese, a pagamento differito, per il completamento di opere pubbliche negli Abruzzi e Molise. 
+ E' convertito in legge il [R. decreto-legge 1° ottobre 1931, n. 1267](Autorizzazione%20di%20spesa%20a%20pagamento%20differito%20per%20il%20completamento%20di%20opere%20pubbliche%20negli%20Abruzzi%20e%20nel%20Molise.%20031U1267.md), recante autorizzazione di spese, a pagamento differito, per il completamento di opere pubbliche negli Abruzzi e Molise. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 28 dicembre 1931 - Anno X 
  

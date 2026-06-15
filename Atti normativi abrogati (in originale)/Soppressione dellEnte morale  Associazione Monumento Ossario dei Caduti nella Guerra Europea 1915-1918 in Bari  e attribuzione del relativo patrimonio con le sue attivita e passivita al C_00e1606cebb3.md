@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 14 maggio 1925, n. 799](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-14;799), col quale venne eretta in Ente morale l'« Associazione Monumento Ossario dei Caduti nella Guerra Europea 1915-1918 in Bari » e ne fu approvato lo statuto;
+Visto il [R. decreto 14 maggio 1925, n. 799](Erezione%20in%20Ente%20morale%20dellassociazione%20Monumento%20ossario%20dei%20caduti%20nella%20Guerra%20europea%201915-1918%20in%20Bari.%20025U0799.md), col quale venne eretta in Ente morale l'« Associazione Monumento Ossario dei Caduti nella Guerra Europea 1915-1918 in Bari » e ne fu approvato lo statuto;
 
 Ritenuto che le finalita' di detta Associazione non possono adeguatamente essere perseguite, attesa l'esiguita' dei mezzi finanziari a sua disposizione;
 
@@ -30,7 +30,7 @@ Sulla proposta del DUCE, primo Ministro Segretario di Stato, Ministro per gli af
 
 ## Art. 1.
 
-E' soppressa l'« Associazione Monumento Ossario dei Caduti nella Guerra Europea 1915-1918 in Bari » eretta in ente morale col [R. decreto 14 maggio 1925, n. 799](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-14;799).
+E' soppressa l'« Associazione Monumento Ossario dei Caduti nella Guerra Europea 1915-1918 in Bari » eretta in ente morale col [R. decreto 14 maggio 1925, n. 799](Erezione%20in%20Ente%20morale%20dellassociazione%20Monumento%20ossario%20dei%20caduti%20nella%20Guerra%20europea%201915-1918%20in%20Bari.%20025U0799.md).
 
 ## Art. 2.
 

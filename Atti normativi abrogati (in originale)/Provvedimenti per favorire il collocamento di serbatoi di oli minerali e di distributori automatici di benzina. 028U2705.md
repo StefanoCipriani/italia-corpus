@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'occupazione del suolo pubblico o privato, necessario per il collocamento di serbatoi di oli minerali o di lubrificanti o di distributori automatici di benzina o di carburanti in genere, consentita a termini del [R. decreto-legge 26 agosto 1927, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-26;1774), e' considerata di pubblica utilita' agli effetti dell'[art. 64 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), per tutta la durata della concessione. 
+ L'occupazione del suolo pubblico o privato, necessario per il collocamento di serbatoi di oli minerali o di lubrificanti o di distributori automatici di benzina o di carburanti in genere, consentita a termini del [R. decreto-legge 26 agosto 1927, n. 1774](Disciplinamento%20della%20costruzione%20dellimpianto%20e%20del%20collocamento%20nel%20Regno%20di%20depositi%20e%20serbatoi%20di%20olii%20minerali%20e%20di%20apparecchi%20per%20la%20distribuzione%20automatica%20di%20benzina%20e%20di%20carbura_4853062765e6.md), e' considerata di pubblica utilita' agli effetti dell'[art. 64 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), per tutta la durata della concessione. 
  
  In caso di disaccordo sulla indennita' da corrispondersi al proprietario, il Ministro per l'economia nazionale o il prefetto determinano, provvisoriamente, l'indennita' medesima, ordinandone il deposito. 
  

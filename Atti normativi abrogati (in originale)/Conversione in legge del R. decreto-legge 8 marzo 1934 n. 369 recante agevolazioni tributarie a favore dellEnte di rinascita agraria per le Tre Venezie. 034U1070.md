@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-08;369), recante agevolazioni tributarie a favore dell'Ente di rinascita agraria per le Tre Venezie. 
+ E' convertito in legge il [R. decreto-legge 8 marzo 1934, n. 369](Agevolazioni%20tributarie%20a%20favore%20dellEnte%20di%20rinascita%20agraria%20per%20le%20Tre%20Venezie.%20034U0369.md), recante agevolazioni tributarie a favore dell'Ente di rinascita agraria per le Tre Venezie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1941, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1941-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1941, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1941-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -51,7 +51,7 @@ Per la partecipazione ai concorsi di cui all'art. 1 che siano stati gia' indetti
 
 ### Art. 6.
 
-Ai concorsi per soli titoli ai posti di direttore nelle Scuole di avviamento professionale previsti dall'[art. 2, lettera B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-04-21;373#art_2-letb) [e](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-04-21;373#art_2-lete) dall'[art. 9 del decreto legislativo 21 aprile 1947, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-04-21;373#art_9), potranno partecipare anche le donne che abbiano conseguito entro il 1933 il titolo di studio prescritto dalla tabella annessa al [regio decreto 27 gennaio 1933, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-27;153), ed abbiano ottenuto entro il 1938 l'abilitazione all'insegnamento delle materie tecniche congiunte ai predetti posti di direttore.
+Ai concorsi per soli titoli ai posti di direttore nelle Scuole di avviamento professionale previsti dall'[art. 2, lettera B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-04-21;373#art_2-letb) [e](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-04-21;373#art_2-lete) dall'[art. 9 del decreto legislativo 21 aprile 1947, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-04-21;373#art_9), potranno partecipare anche le donne che abbiano conseguito entro il 1933 il titolo di studio prescritto dalla tabella annessa al [regio decreto 27 gennaio 1933, n. 153](Approvazione%20del%20regolamento%20per%20i%20concorsi%20ai%20posti%20di%20direttore%20insegnante%20ed%20istruttore%20pratico%20nelle%20Regie%20scuole%20e%20nei%20Regi%20corsi%20secondari%20di%20avviamento%20professionale.%20033U0153.md), ed abbiano ottenuto entro il 1938 l'abilitazione all'insegnamento delle materie tecniche congiunte ai predetti posti di direttore.
 
 ### Art. 7.
 
@@ -62,7 +62,7 @@ Coloro che si trovino nelle condizioni stabilite nel precedente articolo potrann
 
 Fino al 30 settembre 1949, le vedove di guerra che, a partire dall'anno scolastico 1939-40, abbiano prestato almeno tre anni di servizio nelle scuole governative possono essere assunte, a domanda, senza concorso, nei ruoli degli insegnanti di Istituti e Scuole di istruzione media, classica, scientifica, magistrale, tecnica e artistica, indipendentemente dal possesso del titolo di abilitazione e dal limite massimo di eta' stabilito per l'ammissione ai concorsi.
  L'assunzione e' disposta, previo parere della Sezione seconda del Consiglio superiore della pubblica istruzione sulla qualita' del servizio prestato e sul tipo di cattedra da assegnare all'aspirante in rapporto all'insegnamento effettivamente impartito e alla richiesta della interessata.
- Per la presentazione e la documentazione della domanda e per la decorrenza della nomina si applicano le disposizioni di cui all'[art. 2 e al secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-08-24;1091#art_2-com2) dell'[art. 3 del regio decreto 24 agosto 1942, n. 1091](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-08-24;1091#art_3).
+ Per la presentazione e la documentazione della domanda e per la decorrenza della nomina si applicano le disposizioni di cui all'[art. 2 e al secondo comma](Sistemazione%20delle%20vedove%20di%20guerra%20nei%20ruoli%20degli%20insegnanti%20delle%20Regie%20scuole%20degli%20ordini%20elementare%20medio%20superiore%20femminile%20e%20artistico.%20042U1091.md) dell'[art. 3 del regio decreto 24 agosto 1942, n. 1091](Sistemazione%20delle%20vedove%20di%20guerra%20nei%20ruoli%20degli%20insegnanti%20delle%20Regie%20scuole%20degli%20ordini%20elementare%20medio%20superiore%20femminile%20e%20artistico.%20042U1091.md).
 
 ## (Concorsi a posti di maestro-elementare)
 

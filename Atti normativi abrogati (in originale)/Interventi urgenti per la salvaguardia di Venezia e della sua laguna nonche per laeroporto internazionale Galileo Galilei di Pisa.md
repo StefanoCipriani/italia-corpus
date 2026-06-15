@@ -54,7 +54,7 @@ All'attuazione degli interventi provvede il prefetto o un suo delegato, che si a
 
 4.
 
-Ai fini indicati nei commi 1 e 2 i provvedimenti occorrenti sono adottati, anche in deroga alle disposizioni della [legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109), e successive modificazioni, e alle norme di contabilita' generale dello Stato, nel rispetto dei principi generali dell'ordinamento.
+Ai fini indicati nei commi 1 e 2 i provvedimenti occorrenti sono adottati, anche in deroga alle disposizioni della [legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, e alle norme di contabilita' generale dello Stato, nel rispetto dei principi generali dell'ordinamento.
 
 5.
 

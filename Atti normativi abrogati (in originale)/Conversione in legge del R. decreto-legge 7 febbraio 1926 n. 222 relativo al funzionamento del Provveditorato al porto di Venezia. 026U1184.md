@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 febbraio 1926, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-07;222), relativo al funzionamento del Provveditorato al porto Venezia. 
+ E' convertito in legge il [R. decreto-legge 7 febbraio 1926, n. 222](Provvedimenti%20per%20il%20funzionamento%20del%20Provveditorato%20al%20porto%20di%20Venezia.%20026U0222.md), relativo al funzionamento del Provveditorato al porto Venezia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

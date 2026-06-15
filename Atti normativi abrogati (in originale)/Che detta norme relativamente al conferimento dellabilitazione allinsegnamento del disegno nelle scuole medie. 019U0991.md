@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono abrogati i [Regi decreti 26 maggio 1901, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-05-26;216), [6 marzo 1902, n. 99 ed il decreto Luogotenenziale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1902-03-06;99) [12 dicembre 1915, n. 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-12;1985).
+Sono abrogati i [Regi decreti 26 maggio 1901, n. 216](Modificante%20le%20norme%20pel%20conferimento%20dellabilitazione%20allinsegnamento%20del%20disegno%20nelle%20Scuole%20tecniche%20e%20normali.%20001U0216.md), [6 marzo 1902, n. 99 ed il decreto Luogotenenziale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1902-03-06;99) [12 dicembre 1915, n. 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-12;1985).
 
 ## Art. 2.
 
@@ -53,7 +53,7 @@ Tale nullita' e' dichiarata con deliberazione motivata e inappellabile della Com
 
 ## Art. 6.
 
-Il presente decreto avra' effetto dalla sessione di ottobre 1919, in tale sessione saranno anche tenuti esami di abilitazione all'insegnamento del disegno nelle scuole tecniche e normali con le norme dei [Regi decreti 26 maggio 1901, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-05-26;216), [6 marzo 1902, n. 93, e del decreto Luogotenenziale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1902-03-06;93) [12 dicembre 1915, n. 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-12;1985). 
+Il presente decreto avra' effetto dalla sessione di ottobre 1919, in tale sessione saranno anche tenuti esami di abilitazione all'insegnamento del disegno nelle scuole tecniche e normali con le norme dei [Regi decreti 26 maggio 1901, n. 216](Modificante%20le%20norme%20pel%20conferimento%20dellabilitazione%20allinsegnamento%20del%20disegno%20nelle%20Scuole%20tecniche%20e%20normali.%20001U0216.md), [6 marzo 1902, n. 93, e del decreto Luogotenenziale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1902-03-06;93) [12 dicembre 1915, n. 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-12;1985). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Roma, addi' 10 aprile 1919. 
  

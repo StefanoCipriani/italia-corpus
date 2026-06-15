@@ -10,17 +10,17 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 23 marzo 1933, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-23;185), con il quale venne approvato il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, e successive modificazioni ed integrazioni;
+Visto il [regio decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), con il quale venne approvato il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, e successive modificazioni ed integrazioni;
 
-Visto il testo unico delle, disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), e successive modificazioni ed integrazioni;
+Visto il testo unico delle, disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni ed integrazioni;
 
-Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686), che contiene le norme di esecuzione del citato [testo unico 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1957-01-10;3);
+Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), che contiene le norme di esecuzione del citato [testo unico 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1957-01-10;3);
 
 Visto il [decreto del Presidente della Repubblica 28 settembre 1959, n. 1340](Norme%20per%20i%20concorsi%20di%20ammissione%20e%20di%20promozione%20nelle%20carriere%20dellAmministrazione%20finanziaria.md), con il quale sono state emanate norme per i concorsi di ammissione e di promozione nelle carriere dell'amministrazione finanziaria, e successive integrazioni;
 
-Vista la [legge 19 luglio 1962, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-07-19;959), recante norme sulla revisione dei ruoli organici dell'amministrazione finanziaria;
+Vista la [legge 19 luglio 1962, n. 959](Norme%20sulla%20revisione%20dei%20ruoli%20organici%20dellAmministrazione%20finanziaria.md), recante norme sulla revisione dei ruoli organici dell'amministrazione finanziaria;
 
-Ritenuto che a seguito della entrata in vigore della predetta [legge 19 luglio 1962, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-07-19;959), si rende necessario emanare ulteriori norme integrative e modificative del regolamento approvato con [regio decreto 23 marzo 1933, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1933-03-23;185) e del [decreto del Presidente della Repubblica 28 settembre 1959, n. 1340](Norme%20per%20i%20concorsi%20di%20ammissione%20e%20di%20promozione%20nelle%20carriere%20dellAmministrazione%20finanziaria.md), sia in materia di ordinamento degli uffici e di attribuzioni del personale dell'amministrazione finanziaria che in materia di concorsi di ammissione e di promozione nelle carriere dell'amministrazione stessa;
+Ritenuto che a seguito della entrata in vigore della predetta [legge 19 luglio 1962, n. 959](Norme%20sulla%20revisione%20dei%20ruoli%20organici%20dellAmministrazione%20finanziaria.md), si rende necessario emanare ulteriori norme integrative e modificative del regolamento approvato con [regio decreto 23 marzo 1933, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1933-03-23;185) e del [decreto del Presidente della Repubblica 28 settembre 1959, n. 1340](Norme%20per%20i%20concorsi%20di%20ammissione%20e%20di%20promozione%20nelle%20carriere%20dellAmministrazione%20finanziaria.md), sia in materia di ordinamento degli uffici e di attribuzioni del personale dell'amministrazione finanziaria che in materia di concorsi di ammissione e di promozione nelle carriere dell'amministrazione stessa;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -36,13 +36,13 @@ CAPO I
 
 ### Art. 1. — (Ordinamento delle intendenze di finanza)
 
-L'art. 78 del regolamento approvato con [regio decreto 23 marzo 1933, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-23;185) e' sostituito dal seguente:
+L'art. 78 del regolamento approvato con [regio decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md) e' sostituito dal seguente:
  "L'intendenza si compone di sezioni alle quali e' preposto, di regola, un vice intendente.
  Il numero delle sezioni di ciascuna intendenza e la ripartizione fra di esse dei servizi sono stabiliti, su proposta dell'intendente, con decreto del Ministro per le finanze".
 
 ### Art. 2. — (Attribuzioni dell'intendente aggiunto e del vice intendente)
 
-L'art. 79 del regolamento approvato con [regio decreto 23 marzo 1933, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-23;185), e' sostituito dal seguente:
+L'art. 79 del regolamento approvato con [regio decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), e' sostituito dal seguente:
  "L'intendente ha la direzione organizzativa e normativa di tutti i servizi dell'intendenza ed e' responsabile del loro andamento.
  L'intendente aggiunto sovraintende alle sezioni o ad un gruppo di esse, secondo le disposizioni dell'intendente, ed e' responsabile dell'andamento dei relativi servizi.
  L'intendente aggiunto esercita le funzioni dell'intendente in caso di vacanza, assenza od impedimento temporaneo dello stesso.
@@ -82,7 +82,7 @@ Il personale contabile della carriera di concetto della amministrazione periferi
 ### Art. 8. — Attribuzioni del personale della carriera di concetto dell'amministrazione periferica delle tasse e delle imposte indirette sugli affari - ruolo dei coadiutori delle conservatorie dei registri immobiliari - e nomina dei gerenti delle conservatorie dei registri immobiliari).
 
 Il personale della carriera di concetto dell'amministrazione periferica delle tasse e delle imposte indirette sugli affari - ruolo dei coadiutori delle conservatorie dei registri immobiliari - svolge i compiti di carattere amministrativo-contabile, connessi con l'applicazione delle imposte ipotecarie, affidatigli dal conservatore dei registri immobiliari.
- Il gerente delle conservatorie dei registri immobiliari, previsto dall'[art. 34 della legge 25 giugno 1943, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-06-25;540#art_34), e' scelto dal conservatore tra gli impiegati appartenenti al ruolo della carriera di concetto dei coadiutori delle conservatorie dei registri immobiliari o, in mancanza di coadiutori, tra gli impiegati del ruolo della carriera esecutiva degli stessi uffici, fatta eccezione per gli operatori tecnici.
+ Il gerente delle conservatorie dei registri immobiliari, previsto dall'[art. 34 della legge 25 giugno 1943, n. 540](Nuovo%20testo%20della%20legge%20sulle%20imposte%20ipotecarie.%20043U0540.md), e' scelto dal conservatore tra gli impiegati appartenenti al ruolo della carriera di concetto dei coadiutori delle conservatorie dei registri immobiliari o, in mancanza di coadiutori, tra gli impiegati del ruolo della carriera esecutiva degli stessi uffici, fatta eccezione per gli operatori tecnici.
 
 ### Art. 9. — (Attribuzioni del personale della carriera esecutiva dell'amministrazione periferica del demanio)
 
@@ -222,7 +222,7 @@ Le prove di esame nei concorsi per la promozione ad assistente principale ed a d
 ### Art. 24. — (Nomina del magazziniere del bollo
  e relative attribuzioni)
 
-L'art. 90 del regolamento approvato con [regio decreto 23 marzo 1933, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-23;185), e' sostituito dal seguente:
+L'art. 90 del regolamento approvato con [regio decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), e' sostituito dal seguente:
  "La gestione dei magazzini provinciali e compartimentali del bollo e' affidata ad un impiegato della carriera di concetto o di quella esecutiva dell'amministrazione centrale e delle intendenze di finanza, il quale e' nominato dall'intendente, con decreto da registrarsi alla Corte dei conti.
  Il magazziniere agisce alla diretta dipendenza dello intendente col riscontro di un controllore.
  Egli e' tenuto a dare immediata notizia all'intendente di tutti i disordini, gli abusi e le inesattezze che constatasse presso gli uffici esterni, relativamente ai valori che deve somministrare, rendendosi responsabile, se omette di adempiere a cio', del danno che ne derivasse allo Stato.
@@ -231,7 +231,7 @@ L'art. 90 del regolamento approvato con [regio decreto 23 marzo 1933, n. 185](ht
 ### Art. 25. — (Nomina del controllore del bollo
  e relative attribuzioni)
 
-L'art. 91 del regolamento approvato con [regio decreto 23 marzo 1933, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-23;185), e' sostituito dal seguente:
+L'art. 91 del regolamento approvato con [regio decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), e' sostituito dal seguente:
  "Le funzioni di controllore del bollo sono esercitate da un funzionario dell'intendenza di finanza nominato dall'intendente con decreto da registrarsi alla Corte dei conti.
  Tale nomina viene partecipata al Ministero (Direzione generale delle tasse e delle imposte indirette sugli affari).
  Il controllore esercita il riscontro delle operazioni che sono effettuate dal magazziniere, vidima gli atti relativi alla gestione del magazzino, vigila sul movimento dei valori di bollo e informa l'intendente degli abusi, irregolarita' od infrazioni che constatasse nel servizio relativo, rimanendo responsabile delle conseguenze in caso d'inadempimento di tali prescrizioni.
@@ -246,14 +246,14 @@ Per la nomina a commesso aggiunto di dogana nella carriera del personale ausilia
 Al [decreto del Presidente della Repubblica 28 settembre 1959, n. 1340](Norme%20per%20i%20concorsi%20di%20ammissione%20e%20di%20promozione%20nelle%20carriere%20dellAmministrazione%20finanziaria.md), sono apportate le seguenti modifiche: 
  a) all'art. 26 e ai quadri B/11 e B/12 la qualifica di 
 "cassiere capo", ivi indicata, e' sostituita dalla corrispondente 
-qualifica di "cassiere superiore" prevista nel quadro 13 (ruolo dei cassieri degli uffici del registro) annesso alla [legge 19 luglio 1962, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-07-19;959); 
+qualifica di "cassiere superiore" prevista nel quadro 13 (ruolo dei cassieri degli uffici del registro) annesso alla [legge 19 luglio 1962, n. 959](Norme%20sulla%20revisione%20dei%20ruoli%20organici%20dellAmministrazione%20finanziaria.md); 
  b) alla lettera b) dell'art. 29 sono soppresse le parole "o a computista in prova"; 
  c) alla lettera b) dell'art. 31 sono soppresse le parole "computista principale"; 
  d) all'art. 33, terzo comma, e al quadro D/3 sono soppresse le parole "e indicatore".
 
 ### Art. 28. — (Norme abrogate)
 
-Sono abrogati gli articoli 80 e 223 del regolamento approvato con [regio decreto 23 marzo 1933, n. 185, l'art. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-23;185#art_34) del [decreto del Presidente della Repubblica 28 settembre 1959, n. 1340](Norme%20per%20i%20concorsi%20di%20ammissione%20e%20di%20promozione%20nelle%20carriere%20dellAmministrazione%20finanziaria.md) e i quadri C/3, C/10 e D/1 annessi allo stesso decreto, nonche' ogni altra disposizione regolamentare che sia in contrasto con quelle del presente decreto.
+Sono abrogati gli articoli 80 e 223 del regolamento approvato con [regio decreto 23 marzo 1933, n. 185, l'art. 34](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md) del [decreto del Presidente della Repubblica 28 settembre 1959, n. 1340](Norme%20per%20i%20concorsi%20di%20ammissione%20e%20di%20promozione%20nelle%20carriere%20dellAmministrazione%20finanziaria.md) e i quadri C/3, C/10 e D/1 annessi allo stesso decreto, nonche' ogni altra disposizione regolamentare che sia in contrasto con quelle del presente decreto.
 
 ### Art. 29. — (Espletamento delle prove scritte
  nei concorsi di ammissione e di promozione)

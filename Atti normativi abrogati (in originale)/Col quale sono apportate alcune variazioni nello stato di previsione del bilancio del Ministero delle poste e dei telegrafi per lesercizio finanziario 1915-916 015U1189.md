@@ -24,7 +24,7 @@ Ritenuta necessita' di aumentare l'assegnazione del capitolo n. 10 dello stato d
 
 Considerato che si rende possibile provvedere all'uopo con diminuzione di stanziamento su altri capitoli dello stesso bilancio concernente spese per stipendi i quali per quanto attiene ai funzionari a disposizione dell'autorita' militare, vengono pagati con fondi inscritti nello stato di previsione del Ministero della guerra;
 
-Vista la [legge 1° aprile 1915, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-01;380);
+Vista la [legge 1° aprile 1915, n. 380](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20per%20lesercizio%20finanziario%201915-916.%20015U0380.md);
 
 Sentito il Consiglio dei ministri;
 

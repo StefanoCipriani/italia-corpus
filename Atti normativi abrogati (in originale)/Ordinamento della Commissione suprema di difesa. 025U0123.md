@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 20 dicembre 1923, n. 2957](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-20;2957), concernente l'ordinamento della Commissione suprema di difesa;
+Visto il [R. decreto 20 dicembre 1923, n. 2957](Ordinamento%20definitivo%20della%20Commissione%20Suprema%20di%20difesa.%20023U2957.md), concernente l'ordinamento della Commissione suprema di difesa;
 
 Visto il [R. decreto-legge 4 maggio 1924, n. 813](Sostituzione%20dellart.%203%20del%20R.%20decreto%2020%20dicembre%201923%20numero%202957%20sullordinamento%20della%20Commissione%20suprema%20di%20difesa%20e%20nomina%20del%20Duca%20della%20Vittoria%20generale%20desercito%20Armando%20Diaz%20a%20_ae69c40a674f.md), che sostituisce l'art. 3 del Regio decreto sopracitato;
 
@@ -62,9 +62,9 @@ Il Comitato deliberativo e' composto come segue:
 
 Sono organi consultivi della Commissione suprema di difesa, ciascuno per le questioni attinenti alla rispettiva competenza: 
  
- a) il Consiglio dell'Esercito (istituito con [R. decreto 16 gennaio 1921, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-01-16;3)); 
+ a) il Consiglio dell'Esercito (istituito con [R. decreto 16 gennaio 1921, n. 3](Relativo%20alla%20composizione%20ed%20al%20funzionamento%20del%20Consiglio%20dellesercito%20ed%20alle%20attribuzioni%20del%20Capo%20di%20Stato%20maggiore.%20021U0003.md)); 
  
- b) il Comitato degli ammiragli (istituito con [R. decreto 1° febbraio 1920, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;156)); 
+ b) il Comitato degli ammiragli (istituito con [R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md)); 
  
  c) il Comitato per la preparazione della mobilitazione nazionale (di cui all'art. 5 del presente decreto).
 

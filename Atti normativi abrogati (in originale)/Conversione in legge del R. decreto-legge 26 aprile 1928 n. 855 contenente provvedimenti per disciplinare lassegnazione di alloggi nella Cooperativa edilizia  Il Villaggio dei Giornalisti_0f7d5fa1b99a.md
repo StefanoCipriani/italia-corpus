@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 aprile 1928, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-04-26;855), contenente provvedimenti per disciplinare l'assegnazione degli alloggi nella Cooperativa edilizia « Il Villaggio dei Giornalisti » in Roma. 
+ E' convertito in legge il [R. decreto-legge 26 aprile 1928, n. 855](Disposizioni%20per%20la%20cooperativa%20edilizia%20Il%20Villaggio%20dei%20Giornalisti%20in%20Roma.%20028U0855.md), contenente provvedimenti per disciplinare l'assegnazione degli alloggi nella Cooperativa edilizia « Il Villaggio dei Giornalisti » in Roma. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

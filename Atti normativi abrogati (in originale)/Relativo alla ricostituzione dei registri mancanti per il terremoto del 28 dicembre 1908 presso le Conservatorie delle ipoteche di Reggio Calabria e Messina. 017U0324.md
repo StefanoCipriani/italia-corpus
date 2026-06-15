@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[articolo 6, n. 4, della legge 12 gennaio 1909, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-01-12;12#art_6-num4), concernente provvedimenti in sollievo dei danneggiati dal terremoto del 28 dicembre 1908;
+Visto l'[articolo 6, n. 4, della legge 12 gennaio 1909, n. 12](Concernente%20provvedimenti%20a%20sollievo%20dei%20danneggiali%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0012.md), concernente provvedimenti in sollievo dei danneggiati dal terremoto del 28 dicembre 1908;
 
 Udito il Consiglio dei ministri;
 

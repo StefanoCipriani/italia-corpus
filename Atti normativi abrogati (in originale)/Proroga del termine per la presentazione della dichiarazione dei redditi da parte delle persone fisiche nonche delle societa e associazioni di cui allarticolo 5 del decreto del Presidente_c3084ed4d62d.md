@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni;
 
-Ritenuta la straordinaria necessita' e l'urgenza di prorogare il termine per la presentazione della dichiarazione dei redditi posseduti nell'anno 1983 da parte delle persone fisiche nonche' delle societa' e associazioni di cui all'[articolo 5 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_5), e successive modificazioni;
+Ritenuta la straordinaria necessita' e l'urgenza di prorogare il termine per la presentazione della dichiarazione dei redditi posseduti nell'anno 1983 da parte delle persone fisiche nonche' delle societa' e associazioni di cui all'[articolo 5 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), e successive modificazioni;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 maggio 1984;
 
@@ -26,11 +26,11 @@ EMANA il seguente decreto:
 
 1.
 
-Il termine per la presentazione della dichiarazione dei redditi, anche agli effetti della dichiarazione congiunta a norma dell'[articolo 17, primo comma, della legge 13 aprile 1977, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-04-13;114#art_17-com1), posseduti nell'anno 1983 o per la presentazione, ai sensi della [lettera d) del quarto comma dell'articolo 1 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600#art_1-com4-letd), e successive modificazioni, del certificato modello 101, e' prorogato al 30 giugno 1984 nei confronti delle persone fisiche alle quali il certificato predetto viene rilasciato dalle direzioni provinciali del tesoro.
+Il termine per la presentazione della dichiarazione dei redditi, anche agli effetti della dichiarazione congiunta a norma dell'[articolo 17, primo comma, della legge 13 aprile 1977, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-04-13;114#art_17-com1), posseduti nell'anno 1983 o per la presentazione, ai sensi della [lettera d) del quarto comma dell'articolo 1 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, del certificato modello 101, e' prorogato al 30 giugno 1984 nei confronti delle persone fisiche alle quali il certificato predetto viene rilasciato dalle direzioni provinciali del tesoro.
 
 2.
 
-Il medesimo termine e' prorogato all'8 giugno 1984 nei confronti delle persone fisiche diverse da quelle indicate nel comma precedente e delle societa' e associazioni di cui all'[art. 5 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_5), e successive modificazioni.
+Il medesimo termine e' prorogato all'8 giugno 1984 nei confronti delle persone fisiche diverse da quelle indicate nel comma precedente e delle societa' e associazioni di cui all'[art. 5 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), e successive modificazioni.
 
 ## Art. 2.
 

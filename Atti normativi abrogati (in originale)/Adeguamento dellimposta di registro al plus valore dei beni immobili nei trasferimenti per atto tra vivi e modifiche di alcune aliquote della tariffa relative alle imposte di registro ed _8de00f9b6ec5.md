@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'art. 18 della legge 19 gennaio 1939-XVII, n. 129;
 
-Visti i [Regi decreti 30 dicembre 1923, nn. 3269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3269) e [3272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3272), che approvano il testo delle leggi sulle imposte di registro ed ipotecarie e successive disposizioni;
+Visti i [Regi decreti 30 dicembre 1923, nn. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) e [3272](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ipotecarie.%20023U3272.md), che approvano il testo delle leggi sulle imposte di registro ed ipotecarie e successive disposizioni;
 
 Ritenuta la necessita' di urgenti misure di carattere tributario;
 
@@ -90,11 +90,11 @@ L'imposta ipotecaria di trascrizione prevista all'articolo 5 della tariffa delle
 
 ## Art. 10.
 
-La sopratassa di tardiva registrazione di cui all'art. 100 della legge di registro 30 dicembre 1923, n. 3269, modificata col [R. decreto 13 gennaio 1936, n. 2313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-01-13;2313), e' raddoppiata limitatamente ai trasferimenti di beni immobili o di diritti immobiliari, per atti tra vivi.
+La sopratassa di tardiva registrazione di cui all'art. 100 della legge di registro 30 dicembre 1923, n. 3269, modificata col [R. decreto 13 gennaio 1936, n. 2313](Modificazioni%20alla%20legge%20del%20Registro.%20036U2313.md), e' raddoppiata limitatamente ai trasferimenti di beni immobili o di diritti immobiliari, per atti tra vivi.
 
 ## Art. 11.
 
-In luogo della penale di cui all'art. 40 della legge di registro 30 dicembre 1923, n. 3269, modificato dall'[art. 2 del R. decreto 13 gennaio 1936, n. 2313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-01-13;2313#art_2), qualora l'ammontare complessivo dell'imposta che risultera' dovuta in seguito all'accertamento dell'ufficio resosi definitivo, superi di un terzo l'ammontare complessivo delle imposte liquidate al momento della registrazione le parti incorrono solidalmente in una pena pecuniaria da un minimo pari ad un decimo ad un massimo pari ad un terzo della maggiore imposta complementare dovuta.
+In luogo della penale di cui all'art. 40 della legge di registro 30 dicembre 1923, n. 3269, modificato dall'[art. 2 del R. decreto 13 gennaio 1936, n. 2313](Modificazioni%20alla%20legge%20del%20Registro.%20036U2313.md), qualora l'ammontare complessivo dell'imposta che risultera' dovuta in seguito all'accertamento dell'ufficio resosi definitivo, superi di un terzo l'ammontare complessivo delle imposte liquidate al momento della registrazione le parti incorrono solidalmente in una pena pecuniaria da un minimo pari ad un decimo ad un massimo pari ad un terzo della maggiore imposta complementare dovuta.
 
 ## Art. 12.
 

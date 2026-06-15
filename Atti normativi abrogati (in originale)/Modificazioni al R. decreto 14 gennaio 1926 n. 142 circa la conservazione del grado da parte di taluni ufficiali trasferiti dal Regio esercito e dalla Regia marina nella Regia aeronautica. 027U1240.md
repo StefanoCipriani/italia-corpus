@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il decreto Commissariale 19 dicembre 1923;
 
-Visto il [R. decreto 13 novembre 1924, n. 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-13;1990), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto 13 novembre 1924, n. 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-13;1990), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto il [R. decreto 4 maggio 1925, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;627), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
@@ -40,7 +40,7 @@ All'[art. 8 del R. decreto-legge 14 gennaio 1926, n. 142](Modifiche%20al%20R.%20
  
  « I predetti ufficiali saranno con tale grado collocati in soprannumero e, fino a quando i medesimi non rientreranno in organico sara' lasciato vacante un ugual numero di posti nel grado immediatamente inferiore. 
  
- « Per la riammissione nei quadri degli ufficiali medesimi, saranno applicate le norme di cui all'[art. 16 del R. decreto 13 novembre 1924, n. 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-13;1990#art_16), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597) ».
+ « Per la riammissione nei quadri degli ufficiali medesimi, saranno applicate le norme di cui all'[art. 16 del R. decreto 13 novembre 1924, n. 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-13;1990#art_16), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md) ».
 
 ## Art. 2.
 

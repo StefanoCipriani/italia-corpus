@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di rifinanziare gli interventi di cui all'[articolo 9 della legge 26 febbraio 1992, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;211#art_9), per l'installazione di sistemi di trasporto rapido di massa a guida vincolata in sede propria a carattere innovativo, finalizzati al miglioramento della mobilita' e delle condizioni ambientali delle citta' metropolitane e dei centri urbani, nonche' il potenziamento e l'ammodernamento delle reti ferroviarie di cui all'[articolo 3, comma 2, della legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910#art_3-com2), per la relativa interconnessione con il trasporto urbano;
+Ritenuta la straordinaria necessita' ed urgenza di rifinanziare gli interventi di cui all'[articolo 9 della legge 26 febbraio 1992, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;211#art_9), per l'installazione di sistemi di trasporto rapido di massa a guida vincolata in sede propria a carattere innovativo, finalizzati al miglioramento della mobilita' e delle condizioni ambientali delle citta' metropolitane e dei centri urbani, nonche' il potenziamento e l'ammodernamento delle reti ferroviarie di cui all'[articolo 3, comma 2, della legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), per la relativa interconnessione con il trasporto urbano;
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di assicurare il funzionamento della commissione di alta vigilanza sui trasporti rapidi di massa;
 
@@ -34,14 +34,14 @@ Al [comma 2 dell'articolo 5 della legge 26 febbraio 1992, n. 211](https://www.no
 
 3.
 
-Per consentire il completamento dei programmi di potenziamento ed ammodernamento delle ferrovie in concessione ed in gestione commissariale governativa di cui all'[articolo 2, comma 3, della legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910#art_2-com3), e' autorizzata l'accensione di ulteriori mutui in relazione al limite di impegno decennale di lire 150 miliardi per l'anno 1997, intendendosi conseguentemente elevato il limite di cui al medesimo articolo 2, comma 3.
+Per consentire il completamento dei programmi di potenziamento ed ammodernamento delle ferrovie in concessione ed in gestione commissariale governativa di cui all'[articolo 2, comma 3, della legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), e' autorizzata l'accensione di ulteriori mutui in relazione al limite di impegno decennale di lire 150 miliardi per l'anno 1997, intendendosi conseguentemente elevato il limite di cui al medesimo articolo 2, comma 3.
 
 ## Art. 2. — Compensi per la commissione di alta vigilanza
  sui trasporti rapidi di massa
 
 1.
 
-Per il funzionamento della commissione di cui all'[articolo 4 del decreto-legge 1 aprile 1995, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-01;98#art_4), convertito, con modificazioni, dalla [legge 30 maggio 1995, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204), nella composizione integrata dal [decreto-legge 26 febbraio 1996, n. 86](Disposizioni%20urgenti%20in%20materia%20di%20interventi%20nel%20settore%20dei%20sistemi%20del%20trasporto%20rapido%20di%20massa_2.md), e' autorizzata la spesa di lire 300 milioni per ciascuno degli anni 1996 e 1997.
+Per il funzionamento della commissione di cui all'[articolo 4 del decreto-legge 1 aprile 1995, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-01;98#art_4), convertito, con modificazioni, dalla [legge 30 maggio 1995, n. 204](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201995%20n.%2098%20recante%20interventi%20urgenti%20in%20materia%20di%20trasporti.md), nella composizione integrata dal [decreto-legge 26 febbraio 1996, n. 86](Disposizioni%20urgenti%20in%20materia%20di%20interventi%20nel%20settore%20dei%20sistemi%20del%20trasporto%20rapido%20di%20massa_2.md), e' autorizzata la spesa di lire 300 milioni per ciascuno degli anni 1996 e 1997.
 
 ## Art. 3. — Copertura finanziaria
 

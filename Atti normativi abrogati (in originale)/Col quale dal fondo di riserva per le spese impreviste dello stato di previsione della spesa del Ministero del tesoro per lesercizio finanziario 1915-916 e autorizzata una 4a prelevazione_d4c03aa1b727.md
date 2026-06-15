@@ -16,7 +16,7 @@ Dal Fondo di riserva perle spese impreviste inscritto al cap. n. 141 dello stato
  Cap n 292-bis. Spese per rifusione di aggi agli 
  esattori e ricevitori provinciali delle imposte della 
  Sardegna in dipendenza degli sgravi concessi con la 
- [legge 16 luglio 1914, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;665) . . . . . . . . . . . L. 144000 -- 
+ [legge 16 luglio 1914, n. 665](Riguardante%20provvedimenti%20a%20favore%20della%20Sardegna.%20014U0665.md) . . . . . . . . . . . L. 144000 -- 
  Ministero dell'istruzione pubblica. 
  Cap. n. 277-bis. Indennizzo all'operaio Emilio 
  Berardi, come da atto di transazione 14 giugno 1915, 

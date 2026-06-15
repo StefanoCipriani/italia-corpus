@@ -21,7 +21,7 @@ PROMULGA la seguente legge:
 Il quadro XI - ruolo normale del Corpo delle capitanerie di porto - di cui all'allegato A, tabella 2, della [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), gia' sostituito dalla tabella D allegata alla [legge 31 dicembre 1982, n. 979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-31;979), e' sostituito da quello riportato in allegato alla presente legge.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note all'[art. 1:
  - La legge n. 1137/1955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955;1137#art_1) contiene norme per l'avanzamento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica.

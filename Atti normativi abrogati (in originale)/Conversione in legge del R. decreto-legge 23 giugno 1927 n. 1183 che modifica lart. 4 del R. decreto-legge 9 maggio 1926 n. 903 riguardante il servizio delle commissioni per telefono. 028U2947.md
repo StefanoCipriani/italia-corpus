@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1183), che modifica l'[art. 4 del R. decreto-legge 9 maggio 1926, n. 903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-09;903#art_4), riguardante il servizio delle commissioni per telefono. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1927, n. 1183](Modificazione%20dellart.%204%20del%20R.%20decreto-legge%209%20maggio%201926%20n.%20903%20riguardante%20il%20servizio%20delle%20commissioni%20per%20telefono.%20027U1183.md), che modifica l'[art. 4 del R. decreto-legge 9 maggio 1926, n. 903](Modificazioni%20al%20testo%20unico%20di%20legge%20sui%20telefoni%20e%20istituzione%20del%20servizio%20delle%20commissioni%20per%20telefono.%20026U0903.md), riguardante il servizio delle commissioni per telefono. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

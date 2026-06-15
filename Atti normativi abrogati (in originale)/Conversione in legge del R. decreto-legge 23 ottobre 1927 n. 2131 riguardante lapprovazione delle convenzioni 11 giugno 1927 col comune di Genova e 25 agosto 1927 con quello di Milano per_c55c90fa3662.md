@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2131), pubblicato nella Gazzetta Ufficiale n. 275 del 28 novembre successivo, concernente l'approvazione delle convenzioni 11 giugno 1927 col comune di Genova e 25 agosto 1927 col comune di Milano per la cessione di alcuni immobili demaniali e la conseguente costruzione di altri edifici per uso governativo. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 2131](Approvazione%20delle%20convenzioni%2011%20giugno%201927%20col%20comune%20di%20Genova%20e%2025%20agosto%201927%20con%20quello%20di%20Milano%20per%20la%20cessione%20di%20alcuni%20immobili%20demaniali%20e%20la%20conseguente%20costruzione%20di%20altri_2ea95389f33c.md), pubblicato nella Gazzetta Ufficiale n. 275 del 28 novembre successivo, concernente l'approvazione delle convenzioni 11 giugno 1927 col comune di Genova e 25 agosto 1927 col comune di Milano per la cessione di alcuni immobili demaniali e la conseguente costruzione di altri edifici per uso governativo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

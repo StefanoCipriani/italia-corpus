@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto-legge 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578), convertito con modificazioni nella [legge 22 gennaio 1934, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-22;36), sull'ordinamento delle professioni di avvocato e di procuratore;
+Visto il [R. decreto-legge 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578), convertito con modificazioni nella [legge 22 gennaio 1934, n. 36](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20riguardante%20lordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0036.md), sull'ordinamento delle professioni di avvocato e di procuratore;
 
 Visto il [R. decreto-legge 24 novembre 1930, n. 1734](Facolta%20al%20Ministro%20per%20leducazione%20nazionale%20di%20procedere%20ad%20una%20revisione%20di%20tutte%20le%20concessioni%20di%20lauree%20ad%20honorem.%20030U1734.md), sulle lauree «ad honorem», convertito con modificazioni nella [legge 30 marzo 1931, n. 381](Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20novembre%201930%20n.%201734%20che%20da%20facolta%20al%20Ministro%20per%20leducazione%20nazionale%20di%20procedere%20ad%20una%20revisione%20di%20tutte%20le%20concessioni%20di%20lauree%20ad%20_bc5f2378abb3.md);
 

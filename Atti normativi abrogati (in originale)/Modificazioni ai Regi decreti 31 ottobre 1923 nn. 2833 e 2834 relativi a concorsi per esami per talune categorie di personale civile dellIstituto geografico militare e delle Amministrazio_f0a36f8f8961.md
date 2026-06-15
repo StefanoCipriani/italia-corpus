@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 ottobre 1923, n. 2833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2833), che bandisce un concorso per esami per talune categorie di personali civili dell'Istituto geografico militare;
+Visto il [R. decreto 31 ottobre 1923, n. 2833](Concorso%20per%20esami%20per%20talune%20categorie%20di%20personali%20civili%20dellistituto%20geografico%20militare.%20023U2833.md), che bandisce un concorso per esami per talune categorie di personali civili dell'Istituto geografico militare;
 
-Visto il [R. decreto 31 ottobre 1923, n. 2834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2834), che bandisce un concorso per esami per talune categorie di personali civili delle Amministrazioni militari;
+Visto il [R. decreto 31 ottobre 1923, n. 2834](Concorso%20per%20esami%20per%20talune%20categorie%20di%20personali%20civili%20delle%20Amministrazioni%20militari.%20023U2834.md), che bandisce un concorso per esami per talune categorie di personali civili delle Amministrazioni militari;
 
 Udito il Consiglio dei Ministri;
 
@@ -44,7 +44,7 @@ Alla Commissione esaminatrice di cui all'art. 5 del citato Nostro decreto 31 ott
 
 Con successivo decreto del Nostro Ministro per la guerra saranno designati nominativamente i componenti della Commissione anzidetta ed il funzionario che dovra' disimpegnare le funzioni di segretario. 
  
- A parziale modificazione del disposto dell'art. 6, 2° comma, del [R. decreto 31 ottobre 1923, n. 2834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2834), col decreto Ministeriale anzidetto verranno pure stabilite la data di inizio degli esami scritti, le sedi in cui si svolgeranno e le modalita' di esecuzione. 
+ A parziale modificazione del disposto dell'art. 6, 2° comma, del [R. decreto 31 ottobre 1923, n. 2834](Concorso%20per%20esami%20per%20talune%20categorie%20di%20personali%20civili%20delle%20Amministrazioni%20militari.%20023U2834.md), col decreto Ministeriale anzidetto verranno pure stabilite la data di inizio degli esami scritti, le sedi in cui si svolgeranno e le modalita' di esecuzione. 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 agosto 1932, n. 1032](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-08-26;1032), portante modificazioni al regime doganale del bestiame, delle carni fresche e preparate e di altri prodotti agrari. 
+ E' convertito in legge il [R. decreto-legge 26 agosto 1932, n. 1032](Modificazioni%20al%20regime%20doganale%20del%20bestiame%20delle%20carni%20fresche%20e%20preparate%20e%20di%20altri%20prodotti%20agrari.%20032U1032.md), portante modificazioni al regime doganale del bestiame, delle carni fresche e preparate e di altri prodotti agrari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

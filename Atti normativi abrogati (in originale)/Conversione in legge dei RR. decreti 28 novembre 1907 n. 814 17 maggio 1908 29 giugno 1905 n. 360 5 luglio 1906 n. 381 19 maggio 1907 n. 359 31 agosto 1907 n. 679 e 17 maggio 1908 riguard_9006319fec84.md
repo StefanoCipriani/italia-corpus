@@ -12,7 +12,7 @@ vigente: true
 
 Sono convertiti in legge i RR. decreti qui appresso indicati: 
  
- a) [R. decreto 28 novembre 1907, n. 814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-11-28;814), che approva la Convenzione 9 luglio 1907 stipulata fra il Governo e la Societa' per le ferrovie secondarie romane per l'esercizio provvisorio, a mezzo dell'Amministrazione delle ferrovie di Stato, delle linee Roma (Termini)-Marino-Castelgandolfo-Albano ed Albano-Cecchina-Anzio-Nettuno, dal 1° dicembre 1907; 
+ a) [R. decreto 28 novembre 1907, n. 814](Che%20approva%20la%20convenzione%20per%20lesercizio%20da%20parte%20dello%20Stato%20delle%20ferrovie%20secondarie%20romane.%20007U0814.md), che approva la Convenzione 9 luglio 1907 stipulata fra il Governo e la Societa' per le ferrovie secondarie romane per l'esercizio provvisorio, a mezzo dell'Amministrazione delle ferrovie di Stato, delle linee Roma (Termini)-Marino-Castelgandolfo-Albano ed Albano-Cecchina-Anzio-Nettuno, dal 1° dicembre 1907; 
  
  b) R. decreto 17 maggio 1908, che approva la Convenzione 25 marzo 1908 stipulata come al punto a) per l'esercizio stesso dal 1° gennaio al 31 marzo 1908; 
  

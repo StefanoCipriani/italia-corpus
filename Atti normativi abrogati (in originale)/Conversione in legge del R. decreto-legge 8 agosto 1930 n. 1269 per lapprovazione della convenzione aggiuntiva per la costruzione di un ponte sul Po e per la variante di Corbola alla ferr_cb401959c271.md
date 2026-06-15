@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 agosto 1930, n. 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-08-08;1269), che approva e rende esecutorio l'atto aggiuntivo 18 giugno 1930 alla convenzione 13 settembre 1927 per la esecuzione della variante di Corbola al tracciato della ferrovia Adria-Ariano e per la costruzione di un ponte sul Po, ad uso esclusivo della ferrovia stessa, e che autorizza la corrispondente spesa di L. 7.500.000. 
+ E' convertito in legge il [R. decreto-legge 8 agosto 1930, n. 1269](Approvazione%20dellatto%20aggiuntivo%20in%20data%2018%20giugno%201930%20alla%20convenzione%2013%20settembre%201927%20per%20la%20concessione%20della%20costruzione%20e%20dellesercizio%20della%20ferrovia%20Adria-Ariano.%20030U1269.md), che approva e rende esecutorio l'atto aggiuntivo 18 giugno 1930 alla convenzione 13 settembre 1927 per la esecuzione della variante di Corbola al tracciato della ferrovia Adria-Ariano e per la costruzione di un ponte sul Po, ad uso esclusivo della ferrovia stessa, e che autorizza la corrispondente spesa di L. 7.500.000. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

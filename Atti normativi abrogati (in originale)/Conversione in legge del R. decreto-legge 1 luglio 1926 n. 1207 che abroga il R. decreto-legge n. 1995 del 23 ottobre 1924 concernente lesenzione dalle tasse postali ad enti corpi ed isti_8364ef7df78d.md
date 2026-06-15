@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° luglio 1926, n. 1207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-01;1207), che abroga il [R. decreto-legge n. 1995 del 23 ottobre 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1995), concernente l'esenzione dalle tasse postali ad enti, corpi ed istituti non a totale carico dell'erario. 
+ E' convertito in legge il [R. decreto-legge 1° luglio 1926, n. 1207](Abrogazione%20del%20R.%20decreto-legge%2023%20ottobre%201924%20n.%201995%20concernente%20la%20esenzione%20dalle%20tasse%20postali%20ad%20Enti%20Corpi%20ed%20Istituti%20non%20a%20totale%20carico%20dellErario.%20026U1207.md), che abroga il [R. decreto-legge n. 1995 del 23 ottobre 1924](Concessione%20della%20esenzione%20dalle%20tasse%20postali%20ad%20Enti%20Corpi%20ed%20Istituti%20non%20a%20totale%20carico%20dellErario.%20024U1995.md), concernente l'esenzione dalle tasse postali ad enti, corpi ed istituti non a totale carico dell'erario. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

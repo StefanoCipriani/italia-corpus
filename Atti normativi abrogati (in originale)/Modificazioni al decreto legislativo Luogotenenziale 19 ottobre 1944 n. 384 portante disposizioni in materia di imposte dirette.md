@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto legislativo Luogotenenziale 19 ottobre 1944, n. 384](Disposizioni%20in%20materia%20di%20imposte%20dirette.%20044U0384.md), portante disposizioni in materia d'imposte dirette;
 
-Visto il [R. decreto-legge 12 agosto 1927, n. 1463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1463), concernente sgravi ed agevolazioni varie in materia di imposte dirette, convertito nella legge 17 maggio 1928, L. 1122;
+Visto il [R. decreto-legge 12 agosto 1927, n. 1463](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md), concernente sgravi ed agevolazioni varie in materia di imposte dirette, convertito nella legge 17 maggio 1928, L. 1122;
 
 Visto il [decreto legislativo Luogotenenziale 3 maggio 1945, n. 269](Imposta%20complementare%20sul%20reddito%20dei%20dipendenti%20dello%20Stato%20e%20di%20altri%20Enti%20pubblici.%20045U0269.md), riguardante l'imposta complementare sul reddito dei dipendenti dello Stato e di altri enti pubblici;
 
@@ -40,7 +40,7 @@ Ferme le disposizioni del [decreto legislativo Luogotenenziale 3 maggio 1945, n.
 24.000. 
  Per le modalita' della ritenuta e del versamento si osservano le disposizioni relative alla ritenuta ed al versamento della imposta di ricchezza mobile. 
  Per la parte di redditi di lavoro eccedente l'importo di L. 180.000 e per i redditi di altra natura, quando concorrono con il reddito di lavoro, qualunque sia l'ammontare di esso, e' obbligatoria la presentazione della denuncia, e l'accertamento e la riscossione della imposta si effettuano in confronto dei singoli reddituari con le norme comuni a tutti gli altri contribuenti, tenendo conto, per la determinazione dell'aliquota, dell'ammontare complessivo del reddito di lavoro e dei redditi di altra natura. 
- Per quanto non e' disposto nel presente articolo si osservano le norme di cui agli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1463#art_11) e [12 del R. decreto-legge 12 agosto 1927, n. 1463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-12;1463#art_12), convertito nella [legge 17 maggio 1928, n. 1122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-05-17;1122).
+ Per quanto non e' disposto nel presente articolo si osservano le norme di cui agli [articoli 11](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md) e [12 del R. decreto-legge 12 agosto 1927, n. 1463](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md), convertito nella [legge 17 maggio 1928, n. 1122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20agosto%201927%20n.%201463%20col%20quale%20si%20dispongono%20sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20028U1122.md).
 
 ## Art. 2.
 

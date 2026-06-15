@@ -78,7 +78,7 @@ Per la conservazione delle navi o barche da traffico inoperose nel mare Adriatic
 
 Alle spese occorrenti al Ministero dell'industria per l'applicazione del presente decreto sara' provveduto: 
  
- a) fino alla concorrenza di lire centomila, con fondi residuali della [legge 11 luglio 1904, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;378); 
+ a) fino alla concorrenza di lire centomila, con fondi residuali della [legge 11 luglio 1904, n. 378](Concessioni%20speciali%20alle%20Societa%20cooperative%20di%20lavoro%20e%20produzione%20fra%20gli%20inscritti%20marittimi%20esercenti%20la%20pesca%20costituite%20in%20unico%20sindacato%20generale.%20004U0378.md); 
  
  b) con lire duecentomila annue da inscrivere, con decreto del ministro del tesoro, nella parte straordinaria dello stato di previsione della spesa del Ministero dell'industria, del commercio e del lavoro, per gli esercizi finanziari dal 1917-918 al 1919-920. 
  

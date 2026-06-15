@@ -122,7 +122,7 @@ Chiunque viola le disposizioni della presente legge e' soggetto ad una sanzione 
 
 ### Art. 14.
 
-E' abrogato il [regio decreto-legge 19 gennaio 1939, n. 294](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-01-19;294), convertito nella [legge 2 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739).
+E' abrogato il [regio decreto-legge 19 gennaio 1939, n. 294](Norme%20per%20la%20disciplina%20delle%20vendite%20straordinarie%20o%20di%20liquidazione.%20039U0294.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

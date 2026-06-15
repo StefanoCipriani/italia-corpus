@@ -26,7 +26,7 @@ E' autorizzata la spesa di lire quindici miliardi per l'esecuzione di opere pubb
 
 A carico della somma autorizzata, in base al precedente articolo, il Ministero dei lavori pubblici potra' assumere impegni per le seguenti categorie di opere:
  a) per la riparazione di danni di guerra a norma delle disposizioni vigenti;
- b) per in costruzione di alloggi per dare ricovero alle persone rimaste senza tetto in seguito agli eventi bellici, in applicazione del [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-09;305);
+ b) per in costruzione di alloggi per dare ricovero alle persone rimaste senza tetto in seguito agli eventi bellici, in applicazione del [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](../Decreti%20legislativi%20luogotenenziali/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md);
  c) per l'esecuzione di opere pubbliche varie di carattere straordinario;
  d) per i lavori di completamente e di nuova costruzione di fabbricati di proprieta' dell'I.N.C.I.S. degli Istituti autonomi per le case popolari e dell'Ente edilizio di Reggio Calabria.
 
@@ -40,8 +40,8 @@ I fondi assegnati in base all'[art. 1, lettera b), del decreto legislativo Presi
 
 ## Art. 5.
 
-Per l'esecuzione dei lavori di competenza degli Enti di cui all' art. 1 del presente decreto, si applicano le disposizioni di cui agli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-12;690#art_3) e [4 decreto legislativo luogotenenziale 12 ottobre 1945, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-12;690#art_4).
- Per i lavori di completamento e di nuova costruzione di fabbricati di proprieta' degli Enti di cui all'art. 2, lettera d) del presente decreto, si applicano le disposizioni degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-22;637#art_2) e [3, del decreto legislativo luogotenenziale 22 settembre 1945, n. 637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-22;637#art_3).
+Per l'esecuzione dei lavori di competenza degli Enti di cui all' art. 1 del presente decreto, si applicano le disposizioni di cui agli [articoli 3](../Decreti%20legislativi%20luogotenenziali/Autorizzazione%20della%20spesa%20di%20lire%20trentasette%20miliardi%20per%20lesecuzione%20di%20opere%20pubbliche%20straordinarie%20urgenti%20a%20pagamento%20non%20differito%20per%20la%20ricostruzione%20ed%20a%20sollievo%20della%20disoccu_2fb80316f8da.md) e [4 decreto legislativo luogotenenziale 12 ottobre 1945, n. 690](../Decreti%20legislativi%20luogotenenziali/Autorizzazione%20della%20spesa%20di%20lire%20trentasette%20miliardi%20per%20lesecuzione%20di%20opere%20pubbliche%20straordinarie%20urgenti%20a%20pagamento%20non%20differito%20per%20la%20ricostruzione%20ed%20a%20sollievo%20della%20disoccu_2fb80316f8da.md).
+ Per i lavori di completamento e di nuova costruzione di fabbricati di proprieta' degli Enti di cui all'art. 2, lettera d) del presente decreto, si applicano le disposizioni degli [articoli 2](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20favorire%20lattivita%20costruttiva%20dellI.N.C.I.S.%20degli%20Istituti%20per%20le%20case%20popolari%20e%20dellEnte%20edilizio%20di%20Reggio%20Calabria.%20045U0637.md) e [3, del decreto legislativo luogotenenziale 22 settembre 1945, n. 637](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20favorire%20lattivita%20costruttiva%20dellI.N.C.I.S.%20degli%20Istituti%20per%20le%20case%20popolari%20e%20dellEnte%20edilizio%20di%20Reggio%20Calabria.%20045U0637.md).
 
 ## Art. 6.
 

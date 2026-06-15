@@ -20,7 +20,7 @@ Vista la [direttiva 88/379/CEE, del Consiglio del 7 giugno 1988](https://www.nor
 
 Viste le [direttive della Commissione 89/178/CEE, del 22 febbraio 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;178), [90/35/CEE, del 19 dicembre 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;35), [90/492/CEE del 5 settembre 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;492), [91/442/CEE, del 23 luglio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;442), [93/18/CEE del 5 aprile 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;18), [96/65/CE, dell'11 ottobre 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;65), in materia di preparati pericolosi;
 
-Visto il [decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52);
+Visto il [decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md);
 
 Visto il decreto del Ministro della sanita' in data 28 gennaio 1992, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 50 del 29 febbraio 1992;
 
@@ -48,7 +48,7 @@ Il presente decreto disciplina la classificazione, l'imballaggio e l'etichettatu
 
 2.
 
-Il presente decreto si applica ai preparati elencati nell'allegato II, nonche' a quelli che contengono almeno una sostanza pericolosa ai sensi dell'[articolo 2 del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_2), e sono considerati pericolosi sulla base dei criteri di classificazione di cui all'articolo 3.
+Il presente decreto si applica ai preparati elencati nell'allegato II, nonche' a quelli che contengono almeno una sostanza pericolosa ai sensi dell'[articolo 2 del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), e sono considerati pericolosi sulla base dei criteri di classificazione di cui all'articolo 3.
 
 3.
 
@@ -73,7 +73,7 @@ Le norme del presente decreto non si applicano:
                                 ai preparati in transito soggetti a controllo doganale quando non siano oggetto di trattamento o di trasformazione.
 
 Avvertenza:
- Il testo delle note qui pubblicate e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicate e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione dei principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
@@ -88,16 +88,16 @@ Avvertenza:
  - La [direttiva 91/442/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;442) e' pubblicata in GUCE L 238 del 27 agosto 1991.
  - La [direttiva 93/18/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;18) e' pubblicata in GUCE L 104 del 29 aprile 1993.
  - La [direttiva 96/65/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;65) e' pubblicata in GUCE L 265 del 18 ottobre 1996.
- - Il [decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52), reca: "Attuazione della [direttiva 92/32/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;32) concernente classificazione, imballaggio ed etichettatura delle sostanze pericolose".
+ - Il [decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), reca: "Attuazione della [direttiva 92/32/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;32) concernente classificazione, imballaggio ed etichettatura delle sostanze pericolose".
  - La [direttiva 92/32/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;32) e' pubblicata in GUCE L 154 del 5 giugno 1992.
- - Il [decreto legislativo 25 febbraio 1998, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20al%20decreto%20legislativo%203%20febbraio%201997%20n.%2052%20recante%20attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), reca: "Modifiche al [decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52), recante attuazione della [direttiva 93/32/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;32) concernente classificazione, imballaggio ed etichettatura delle sostanze pericolose".
+ - Il [decreto legislativo 25 febbraio 1998, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20al%20decreto%20legislativo%203%20febbraio%201997%20n.%2052%20recante%20attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), reca: "Modifiche al [decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), recante attuazione della [direttiva 93/32/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;32) concernente classificazione, imballaggio ed etichettatura delle sostanze pericolose".
  - Il decreto ministeriale 28 gennaio 1992 reca: "Classificazione e disciplina dell'imballaggio e della etichettatura dei preparati pericolosi".
- - Il decreto ministeriale 4 aprile 1997 reca: "Attuazione dell'[art. 25, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_25-com1) e [2, del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_25-com2), concernente classiflcazione, imballaggio ed etichettatura delle sostanze pericolose, relativamente alla scheda informativa in materia di sicurezza".
+ - Il decreto ministeriale 4 aprile 1997 reca: "Attuazione dell'[art. 25, commi 1](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md) e [2, del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), concernente classiflcazione, imballaggio ed etichettatura delle sostanze pericolose, relativamente alla scheda informativa in materia di sicurezza".
  - La [direttiva 91/155/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;155) e' pubblicata in GUCE L 76 del 22 marzo 1991.
  - La [direttiva 93/112/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;112) e' pubblicata in GUCE L 314 del 16 dicembre 1993.
  - Il decreto ministeriale 28 aprile 1997 reca: "Attuazione di direttive comunitarie in materia di classificazione, imballaggio ed etichettatura delle sostanze pericolose".
  Nota all'[art. 1:
- - Per il decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_1), si veda in note alle premesse. L'art. 2 del suddetto decreto cosi' recita:
+ - Per il decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), si veda in note alle premesse. L'art. 2 del suddetto decreto cosi' recita:
  "Art. 2 (Definizioni). - 1. Ai fini del presente decreto si intende per:
  a) sostanze: gli elementi chimici ed i loro composti, allo stato naturale o ottenuti mediante qualsiasi procedimento di produzione, compresi gli additivi necessari per mantenere la stabilita' dei prodotti e le impurezze derivati dal procedimento impiegato, ma esclusi i solventi che possono essere eliminati senza incidere sulla stabilita' delle sostanze e senza modificare la loro composizione;
  b) preparati: le miscele o le soluzioni costituite da due o piu' sostanze;
@@ -137,10 +137,10 @@ Avvertenza:
 
 1.
 
-Si applicano, ai fini del presente decreto, le definizioni di cui all'articolo 2, comma 1, lettere a), b), c), e), f), g) e h), e quelle di cui all'[articolo 2, comma 2, del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_2-com2).
+Si applicano, ai fini del presente decreto, le definizioni di cui all'articolo 2, comma 1, lettere a), b), c), e), f), g) e h), e quelle di cui all'[articolo 2, comma 2, del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md).
 
 Note all'[art. 2:
- - Per il decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_2), si veda in note alle premesse.
+ - Per il decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), si veda in note alle premesse.
  - Per l'art. 2, comma 2, del suddetto decreto, si veda in nota all'art. 1.
 
 ## Preparati pericolosi
@@ -159,7 +159,7 @@ La determinazione delle proprieta' fisicochimiche dei preparati e' effettuata co
 
 3.
 
-Sono considerati esplosivi, comburenti, estremamente infiammabili, facilmente infiammabili o infiammabili i preparati che, in base ai risultati delle prove eseguite conformemente ai metodi, e ai relativi criteri di valutazione di cui al comma 2, rientrano nelle corrispondenti definizioni di cui all'[articolo 2 del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_2).
+Sono considerati esplosivi, comburenti, estremamente infiammabili, facilmente infiammabili o infiammabili i preparati che, in base ai risultati delle prove eseguite conformemente ai metodi, e ai relativi criteri di valutazione di cui al comma 2, rientrano nelle corrispondenti definizioni di cui all'[articolo 2 del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md).
 
 4.
 
@@ -167,7 +167,7 @@ In deroga a quanto previsto dai commi 2 e 3:
                             a)
                                 la determinazione delle proprieta' esplosive, comburenti, estremamente infiammabili, facilmente infiammabili o infiammabili di un preparato non e' necessaria a condizione che nessuno dei componenti presenti tali proprieta' e, in base alle informazioni di cui dispone il fabbricante, il preparato non rischi di presentare tali pericoli;
                             b)
-                                i preparati immessi sul mercato sotto forma di aerosol devono rispondere ai criteri di infiammabilita' precisati al punto 1.8 e al punto 2.2 dell'allegato al [decreto del Presidente della Repubblica 21 luglio 1982, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-21;741), e successive modifiche.
+                                i preparati immessi sul mercato sotto forma di aerosol devono rispondere ai criteri di infiammabilita' precisati al punto 1.8 e al punto 2.2 dell'allegato al [decreto del Presidente della Repubblica 21 luglio 1982, n. 741](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%20324%20del%201975%20relativa%20ai%20generatori%20aerosol.md), e successive modifiche.
 
 5.
 
@@ -213,7 +213,7 @@ Qualora i rischi per la salute siano valutati secondo il metodo convenzionale de
 
 11.
 
-Qualora un preparato contenga almeno una sostanza che, conformemente all'[articolo 8, comma 5, del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_8-com5), rechi l'indicazione: "Attenzione - sostanza non ancora completamente sottoposta a test", l'etichetta del preparato deve recare l'indicazione: "Attenzione - questo preparato contiene una sostanza non ancora completamente sottoposta a test", se tale sostanza e' presente in concentrazione pari o superiore all'1%. Tale sostanza deve essere considerata allo stesso titolo delle altre sostanze presenti nel preparato al momento dell'applicazione del metodo di valutazione mediante calcolo, se la sua etichetta riporta almeno una frase di pericolo per la salute.
+Qualora un preparato contenga almeno una sostanza che, conformemente all'[articolo 8, comma 5, del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), rechi l'indicazione: "Attenzione - sostanza non ancora completamente sottoposta a test", l'etichetta del preparato deve recare l'indicazione: "Attenzione - questo preparato contiene una sostanza non ancora completamente sottoposta a test", se tale sostanza e' presente in concentrazione pari o superiore all'1%. Tale sostanza deve essere considerata allo stesso titolo delle altre sostanze presenti nel preparato al momento dell'applicazione del metodo di valutazione mediante calcolo, se la sua etichetta riporta almeno una frase di pericolo per la salute.
 
 12.
 
@@ -233,8 +233,8 @@ La classificazione dei preparati pericolosi in funzione del grado di pericolo e 
 
 Note all'art. 3:
  - Per il decreto ministeriale 28 aprile 1997, si veda in note alle premesse.
- - Per l'[art. 2 del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_2), si veda in nota all'art. 1.
- - Il [decreto del Presidente della Repubblica 21 luglio 1982, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-21;741), reca: "Attuazione della [direttiva (CEE) n. 324 del 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;324) relativa ai generatori aerosol)". I punti 1.8 e 2.2 dell'allegato al suddetto decreto del Presidente della Repubblica cosi' recitano:
+ - Per l'[art. 2 del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), si veda in nota all'art. 1.
+ - Il [decreto del Presidente della Repubblica 21 luglio 1982, n. 741](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%20324%20del%201975%20relativa%20ai%20generatori%20aerosol.md), reca: "Attuazione della [direttiva (CEE) n. 324 del 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;324) relativa ai generatori aerosol)". I punti 1.8 e 2.2 dell'allegato al suddetto decreto del Presidente della Repubblica cosi' recitano:
  "1.8. Componenti infiammabili.
  Per ''componenti infiammabili'' si intendono le sostanze e i preparati che rispondono ai criteri fissati per le categorie ''estremamente infiammabili'', ''facilmente infiammabili'' e ''infiammabili'' e che sono elencati nell'allegato VI della [direttiva 67/548/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1967;548).
  Le proprieta' infiammabili dei componenti contenuti nei recipienti sono determinate secondo i metodi specifici descritti nell'allegato V, parte A, della direttiva sopra citata".
@@ -242,7 +242,7 @@ Note all'art. 3:
  2.2.1. Fatte salve le disposizioni delle direttive relative alla classificazione, all'imballaggio e all'etichettatura delle sostanze e dei preparati pericolosi, in particolare per quanto concerne i pericoli per la salute e l'ambiente, su ogni generatore aerosol si dovranno apporre, in modo visibile, leggibile e indelebile, le seguenti indicazioni:
  a) qualunque ne sia il contenuto: ''Recipiente sotto pressione. Proteggere contro i raggi solari e non esporre ad una temperatura superiore a 50 C. Non perforare ne' bruciare neppure dopo l'uso'';
  b) quando contiene componenti infiammabili ai sensi del paragrafo 1.8: il simbolo ed eventualmente, l'indicazione del pericolo di infiammabilita' rappresentato dalle sostanze e dai preparati contenuti nel generatore aerosol, compreso il propellente, nonche' il richiamo ai rischi specifici, attribuiti secondo i criteri di cui ai punti 2.2.3, 2.2.4 o 2.2.5 dell'allegato VI della [direttiva 67/548/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1967;548) e, per quanto riguarda il simbolo e l'indicazione di pericolo, alle disposizioni dell'allegato II della direttiva succitata".
- - Il [comma 5 dell'art. 8 del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_8-com5), cosi' recita:
+ - Il [comma 5 dell'art. 8 del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), cosi' recita:
  "5. Le sostanze notificate ai sensi dei commi 1 e 2 debbono essere imballate ed etichettate provvisoriamente secondo quanto prescritto dagli articoli 19, 20, 21 e 22; nel caso in cui, in base ai dati disponibili, non sia possibile procedere compiutamente all'etichettatura secondo quanto stabilito agli articoli 20, 21 e 22, l'etichetta deve contenere, oltre alle informazioni ottenute con le prove gia' realizzate, l'avvertenza ''Attenzione: sostanza non ancora completamente sottoposta a test''".
 
 ### Art. 4. — Obblighi generali
@@ -253,10 +253,10 @@ I preparati di cui all'articolo 1, comma 2, possono essere immessi sul mercato s
 
 2.
 
-Le autorita' competenti di cui all'[articolo 28 del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_28), possono richiedere, in caso di dubbio sulla conformita' di cui al comma 1, informazioni relative alla composizione del preparato nonche' ogni altra informazione ritenuta utile. A tal fine, il responsabile dell'immissione sul mercato del preparato tiene a disposizione delle autorita' competenti i dati utilizzati per la classificazione e l'etichettatura del preparato stesso.
+Le autorita' competenti di cui all'[articolo 28 del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), possono richiedere, in caso di dubbio sulla conformita' di cui al comma 1, informazioni relative alla composizione del preparato nonche' ogni altra informazione ritenuta utile. A tal fine, il responsabile dell'immissione sul mercato del preparato tiene a disposizione delle autorita' competenti i dati utilizzati per la classificazione e l'etichettatura del preparato stesso.
 
-Nota all'[art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_4):
- - L'[art. 28 del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_28), cosi' recita:
+Nota all'[art. 4](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md):
+ - L'[art. 28 del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), cosi' recita:
  "Art. 28 (Controlli). - 1. Al fine dell'accertamento dell'osservanza delle norme del presente decreto, l'immissione sul mercato e la commercializzazione delle sostanze pericolose sono soggette alla vigilanza degli uffici competenti, in base alle vigenti disposizioni, delle amministrazioni dello Stato, delle regioni e degli enti locali; a tal fine il relativo personale puo' procedere in qualunque momento ad ispezioni presso luoghi di produzione, deposito e vendita, richiedere dati, informazioni e documenti, prelevare campioni in numero massimo di tre a titolo gratuito, sigillati all'atto del prelievo, e ciascuno in quantita' sufficiente per una analisi completa.
  2. Nei casi di constatata infrazione alle norme del presente decreto, il Ministero della sanita', in ambito nazionale, e i competenti uffici delle regioni e degli enti locali, nell'ambito del territorio di rispettiva competenza, dispongono il divieto di commercializzazione ed il sequestro in via amministrativa delle merci a cura e comunque a spese del trasgressore, adottando le necessarie prescrizioni per il loro ritiro e la loro custodia, garantendo la sicurezza degli operatori, della popolazione e dell'ambiente. I provvedimenti adottati dalle regioni e dagli enti locali sono portati tempestivamente a conoscenza del Ministero della sanita', che procede ai necessari accertamenti ai fini dell'eventuale estensione delle misure all'intero territorio nazionale.
  3. In caso di immediato o grave pericolo per la salute o la sicurezza, le autorita' di cui al comma 2 possono immediatamente adottare le misure provvisorie necessarie, ivi incluso il divieto di commercializzazione e il ritiro dal mercato.
@@ -268,7 +268,7 @@ Nota all'[art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.l
 
 1.
 
-I preparati pericolosi possono essere immessi sul mercato soltanto se i loro imballaggi sono conformi alle prescrizioni dell'[articolo 19 del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_19).
+I preparati pericolosi possono essere immessi sul mercato soltanto se i loro imballaggi sono conformi alle prescrizioni dell'[articolo 19 del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md).
 
 2.
 
@@ -298,8 +298,8 @@ Le disposizioni di cui ai commi 3 e 4 si applicano anche ai preparati offerti o 
 
 Le specifiche tecniche relative ai dispositivi ed ai sistemi di sicurezza di cui ai commi 3 e 4 sono indicate nell'allegato IX del decreto del Ministro della sanita' 28 aprile 1997.
 
-Note all'[art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_5):
- - L'[art. 19 del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_19), cosi' recita:
+Note all'[art. 5](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md):
+ - L'[art. 19 del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), cosi' recita:
  "Art. 19 (Imballaggio). - 1. L'imballaggio delle sostanze pericolose deve soddisfare le seguenti condizioni:
  a) l'imballaggio deve essere progettato e realizzato in modo tale da impedire qualsiasi fuoriuscita del contenuto, fermo restando l'obbligo di osservare le disposizioni che prescrivono speciali dispositivi di sicurezza;
  b) i materiali che costituiscono l'imballaggio e la chiusura non devono essere suscettibili di deteriorarsi a causa del contenuto, ne' poter formare con questo composti pericolosi;
@@ -326,7 +326,7 @@ Ogni imballaggio deve recare le seguenti indicazioni scritte in modo leggibile e
                             c)
                                 il nome chimico delle sostanze presenti nel preparato responsabili dei rischi piu' rilevanti per la salute che hanno dato luogo alla classificazione ed alla scelta delle corrispondenti frasi di rischio, secondo i criteri indicati nell'allegato C, parte A;
                             d)
-                                i simboli di cui all'allegato I e le indicazioni di pericolo conformi all'allegato II del decreto ministeriale 28 aprile 1997 e, per i preparati presenti sotto forma di aerosol, conformemente ai punti 1.8 e 2.2 dell'allegato al [decreto del Presidente della Repubblica 21 luglio 1982, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-21;741), e successive modifiche, per quanto concerne il pericolo di infiammabilita'. Quando su un preparato si deve apporre piu' di un simbolo di pericolo, si seguono i criteri di cui all'allegato C, parte B;
+                                i simboli di cui all'allegato I e le indicazioni di pericolo conformi all'allegato II del decreto ministeriale 28 aprile 1997 e, per i preparati presenti sotto forma di aerosol, conformemente ai punti 1.8 e 2.2 dell'allegato al [decreto del Presidente della Repubblica 21 luglio 1982, n. 741](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%20324%20del%201975%20relativa%20ai%20generatori%20aerosol.md), e successive modifiche, per quanto concerne il pericolo di infiammabilita'. Quando su un preparato si deve apporre piu' di un simbolo di pericolo, si seguono i criteri di cui all'allegato C, parte B;
                             e)
                                 le indicazioni relative alle frasi R, cioe' ai rischi specifici, conformi alle indicazioni contenute nell'allegato III del decreto del Ministro della sanita' 28 aprile 1997 e fornite dal responsabile dell'immissione sul mercato di cui alla lettera b) in conformita' dell'allegato I del presente decreto e dell'allegato VI, punti 2, 3 e 4, del citato decreto 28 aprile 1997, secondo le indicazioni di cui all'allegato C, parte C;
                             f)
@@ -417,10 +417,10 @@ Capo III
 
 1.
 
-Le amministrazioni investono la commissione consultiva di cui all'[articolo 26 del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_26), per le problematiche in materia di preparati pericolosi.
+Le amministrazioni investono la commissione consultiva di cui all'[articolo 26 del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), per le problematiche in materia di preparati pericolosi.
 
-Nota all'[art. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_11):
- - L'[art. 26 del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_26), cosi' recita:
+Nota all'[art. 11](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md):
+ - L'[art. 26 del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), cosi' recita:
  "Art. 26 (Commissione consultiva). - 1. Presso il Ministero della sanita' e' istituita una commissione consultiva composta dai seguenti membri o dai loro sostituti:
  a) il dirigente generale del dipartimento prevenzione del Ministero della sanita' che la presiede;
  b) un rappresentante del Ministero della sanita' esperto di problematiche concernenti la classificazione, l'imballaggio e l'etichettatura di sostanze pericolose;
@@ -446,11 +446,11 @@ Nota all'[art. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.
 
 1.
 
-All'accertamento dell'osservanza delle norme del presente decreto e agli esami e alle analisi dei campioni si applicano le procedure di controllo di cui agli [articoli 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_28) e [29 del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_29).
+All'accertamento dell'osservanza delle norme del presente decreto e agli esami e alle analisi dei campioni si applicano le procedure di controllo di cui agli [articoli 28](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md) e [29 del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md).
 
 Note all'[art. 12:
- - Per il decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_12), si veda in note alle premesse.
- - Per l'[art. 28 del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_28), si veda in nota all'art. 4.
+ - Per il decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), si veda in note alle premesse.
+ - Per l'[art. 28 del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), si veda in nota all'art. 4.
  - L'art. 29 del suddetto decreto cosi' recita:
  "Art. 29 (Esami e analisi di campioni). - 1. Gli esami e le analisi dei campioni prelevati dalle autorita' locali sono eseguiti dai laboratori competenti per territorio.
  2. Quando dall'analisi risulti che i prodotti non corrispondono ai requisiti fissati dal presente decreto, il direttore del laboratorio trasmette immediata denuncia all'autorita' competente, unendovi il verbale di prelevamento ed il certificato di analisi.
@@ -501,7 +501,7 @@ I decreti di cui al comma 1, salvo che sia diversamente indicato dalle direttive
 
 3.
 
-I decreti di cui al [comma 2 dell'articolo 37 del decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52#art_37-com2), salvo che sia diversamente indicato dalle direttive che con essi si recepiscono, possono prevedere un periodo massimo di dodici mesi per lo smaltimento dei preparati pericolosi gia' immessi sul mercato e non conformi alle disposizioni dei decreti medesimi.
+I decreti di cui al [comma 2 dell'articolo 37 del decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), salvo che sia diversamente indicato dalle direttive che con essi si recepiscono, possono prevedere un periodo massimo di dodici mesi per lo smaltimento dei preparati pericolosi gia' immessi sul mercato e non conformi alle disposizioni dei decreti medesimi.
 
 Note all'[art. 14:
  - La legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_14), reca il "Coordinamento delle politiche riguardanti l'appartenenza dell'Italia alle Comunita' europee ed adeguamento dell'ordinamento interno agli atti normativi comunitari".
@@ -515,14 +515,14 @@ Note all'[art. 14:
 
 1.
 
-Sono abrogate le disposizioni di cui alla [legge 29 maggio 1974, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-05-29;256), e successive modificazioni, nonche' quelle del decreto del Ministro della sanita' 28 gennaio 1992.
+Sono abrogate le disposizioni di cui alla [legge 29 maggio 1974, n. 256](Classificazione%20e%20disciplina%20dellimballaggio%20e%20delletichettatura%20delle%20sostanze%20e%20dei%20preparati%20pericolosi.md), e successive modificazioni, nonche' quelle del decreto del Ministro della sanita' 28 gennaio 1992.
 
 2.
 
 A decorrere dalla data di entrata in vigore del presente decreto sono concessi dodici mesi per lo smaltimento dei preparati pericolosi gia' immessi sul mercato.
 
 Note all'[art. 15:
- - La legge 29 maggio 1974, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-05-29;256#art_15), reca: "Classificazione e disciplina dell'imballaggio e dell'etichettatura delle sostanze e dei preparati pericolosi".
+ - La legge 29 maggio 1974, n. 256](Classificazione%20e%20disciplina%20dellimballaggio%20e%20delletichettatura%20delle%20sostanze%20e%20dei%20preparati%20pericolosi.md), reca: "Classificazione e disciplina dell'imballaggio e dell'etichettatura delle sostanze e dei preparati pericolosi".
  - Per il decreto ministeriale 28 gennaio 1992, si veda in note alle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

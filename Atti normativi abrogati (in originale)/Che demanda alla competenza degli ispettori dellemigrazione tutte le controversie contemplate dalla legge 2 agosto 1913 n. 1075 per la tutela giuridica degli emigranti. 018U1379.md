@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 31 gennaio 1901, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-01-31;23);
+Vista la [legge 31 gennaio 1901, n. 23](Disposizioni%20sullemigrazione.%20001U0023.md);
 
-Vista la [legge 17 luglio 1910, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;538);
+Vista la [legge 17 luglio 1910, n. 538](Provvedimento%20riguardante%20lemigrazione.%20010U0538.md);
 
-Viste le [leggi 2 agosto 1913, n. 1075, e 24 gennaio 1915, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-01-24;173);
+Viste le [leggi 2 agosto 1913, n. 1075, e 24 gennaio 1915, n. 173](Che%20modifica%20la%20legge%202%20agosto%201913%20n.%201075%20per%20la%20tutela%20giuridica%20degli%20emigranti.%20015U0173.md);
 
 Sulla proposta del ministro segretario di Stato per gli affari esteri, di concerto col ministro della grazia, giustizia e dei culti;
 
@@ -32,7 +32,7 @@ Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Tutte le controversie, di qualunque valore, alle quali si riferisce la [legge 2 agosto 1913, n. 1075](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-08-02;1075), sono di competenza degli ispettori dell'emigrazione; essi decidono anche sulle eccezioni di incompetenza. 
+Tutte le controversie, di qualunque valore, alle quali si riferisce la [legge 2 agosto 1913, n. 1075](Recante%20provvedimenti%20per%20la%20tutela%20giuridica%20degli%20emigranti.%20013U1075.md), sono di competenza degli ispettori dell'emigrazione; essi decidono anche sulle eccezioni di incompetenza. 
  
  Contro le decisioni dell'ispettore per valore superiore a L. 50, e' ammesso appello davanti alla Commissione centrale.
 
@@ -60,21 +60,21 @@ Qualunque transazione fatta nel corso della lite senza l'intervento dell'ispetto
 
 ## Art. 6.
 
-Il vice ispettore, nominato a norma della lettera a) del ruolo organico, allegato alla [legge 17 luglio 1910, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;538), coadiuva l'ispettore e lo supplisce in caso di assenza o impedimento per tutto cio' che e' di sua competenza, secondo le disposizioni di questo decreto.
+Il vice ispettore, nominato a norma della lettera a) del ruolo organico, allegato alla [legge 17 luglio 1910, n. 538](Provvedimento%20riguardante%20lemigrazione.%20010U0538.md), coadiuva l'ispettore e lo supplisce in caso di assenza o impedimento per tutto cio' che e' di sua competenza, secondo le disposizioni di questo decreto.
 
 ## Art. 7.
 
-I ricorsi tuttora pendenti davanti alle Commissioni arbitrali istituite con la [legge 31 gennaio 1901, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-01-31;23), e davanti a quelle istituite con la [legge 2 agosto 1913, n. 1075](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-08-02;1075), sono deferiti alla cognizione dell'ispettore secondo le norme del presente decreto, o della Commissione centrale, se in grado di appello, a meno che non fossero gia' in stato di decisione, nel qual caso le Commissioni predette continueranno a funzionare finche' la decisione non sia pronunciata.
+I ricorsi tuttora pendenti davanti alle Commissioni arbitrali istituite con la [legge 31 gennaio 1901, n. 23](Disposizioni%20sullemigrazione.%20001U0023.md), e davanti a quelle istituite con la [legge 2 agosto 1913, n. 1075](Recante%20provvedimenti%20per%20la%20tutela%20giuridica%20degli%20emigranti.%20013U1075.md), sono deferiti alla cognizione dell'ispettore secondo le norme del presente decreto, o della Commissione centrale, se in grado di appello, a meno che non fossero gia' in stato di decisione, nel qual caso le Commissioni predette continueranno a funzionare finche' la decisione non sia pronunciata.
 
 ## Art. 8.
 
-Le somme versate e da versare dai vettori al Commissariato della emigrazione, a norma dell'[art. 26 della legge 2 agosto 1913, n. 1075](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-08-02;1075#art_26), non possono essere sequestrate o pignorate presso il Commissariato predetto, ne' presso i vettori.
+Le somme versate e da versare dai vettori al Commissariato della emigrazione, a norma dell'[art. 26 della legge 2 agosto 1913, n. 1075](Recante%20provvedimenti%20per%20la%20tutela%20giuridica%20degli%20emigranti.%20013U1075.md), non possono essere sequestrate o pignorate presso il Commissariato predetto, ne' presso i vettori.
 
 ## Art. 9.
 
-Sono abrogati gli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-08-02;1075#art_6), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-08-02;1075#art_8), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-08-02;1075#art_13), [37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-08-02;1075#art_37) e [38 della legge 2 agosto 1913, n. 1075](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-08-02;1075#art_38), e ogni altra disposizione contraria a quelle del presente decreto. 
+Sono abrogati gli [articoli 6](Recante%20provvedimenti%20per%20la%20tutela%20giuridica%20degli%20emigranti.%20013U1075.md), [8](Recante%20provvedimenti%20per%20la%20tutela%20giuridica%20degli%20emigranti.%20013U1075.md), [13](Recante%20provvedimenti%20per%20la%20tutela%20giuridica%20degli%20emigranti.%20013U1075.md), [37](Recante%20provvedimenti%20per%20la%20tutela%20giuridica%20degli%20emigranti.%20013U1075.md) e [38 della legge 2 agosto 1913, n. 1075](Recante%20provvedimenti%20per%20la%20tutela%20giuridica%20degli%20emigranti.%20013U1075.md), e ogni altra disposizione contraria a quelle del presente decreto. 
  
- La definizione dell'emigrante contenuta nell'[art. 3 della legge 2 agosto 1913, n. 1075](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-08-02;1075#art_3), vale, oltre che agli effetti di essa, anche agli effetti delle [leggi 31 gennaio 1901, n. 23, 17 luglio 1910, n. 538, 24 gennaio 1915, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-01-24;173), del presente decreto e dei regolamenti e decreti relativi.
+ La definizione dell'emigrante contenuta nell'[art. 3 della legge 2 agosto 1913, n. 1075](Recante%20provvedimenti%20per%20la%20tutela%20giuridica%20degli%20emigranti.%20013U1075.md), vale, oltre che agli effetti di essa, anche agli effetti delle [leggi 31 gennaio 1901, n. 23, 17 luglio 1910, n. 538, 24 gennaio 1915, n. 173](Che%20modifica%20la%20legge%202%20agosto%201913%20n.%201075%20per%20la%20tutela%20giuridica%20degli%20emigranti.%20015U0173.md), del presente decreto e dei regolamenti e decreti relativi.
 
 ## Art. 10.
 

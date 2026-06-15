@@ -22,7 +22,7 @@ Sulla proposta del Nostro ministro segretario di Stato per la istruzione pubblic
 
 ## Art. 1.
 
-A decorrere dal 1° gennaio 1923 e sino a nuova disposizione la misura del contributo complessivo al Monte pensioni degli insegnanti elementari, stabilito all'art. 8 del testo unico, approvato con [Regio decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), libro III, parte prima, e' elevato al 15 per cento degli stipendi ed altri assegni dichiarati per legge utili agli agli effetti della pensione. 
+A decorrere dal 1° gennaio 1923 e sino a nuova disposizione la misura del contributo complessivo al Monte pensioni degli insegnanti elementari, stabilito all'art. 8 del testo unico, approvato con [Regio decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), libro III, parte prima, e' elevato al 15 per cento degli stipendi ed altri assegni dichiarati per legge utili agli agli effetti della pensione. 
  
  Tale contributo e' ripartito per sette centesimi a carico degli inscritti e per otto centesimi a carico degli Enti.
 
@@ -34,7 +34,7 @@ Alle pensioni liquidate e da liquidarsi dal Monte pensioni agli inscritti e alle
  
  b) pensioni delle vedove e degli orfani: il cento per cento sulle prime cinquecento lire; il cinquanta per cento sulle seconde cinquecento lire; il venticinque per cento sulle somme eccedenti le prime mille lire e non superiori a L. 1500. L'aumento non potra' in alcun caso essere inferiore a L. 500. 
  
- Per le pensioni liquidate a norma dell'art. 33 del testo unico delle leggi sul Monte pensioni per gli insegnanti elementari, approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), libro III, parte prima, e ripartite secondo le norme del quarto comma dell'articolo stesso, gli aumenti previsti dal presente articolo si applicano solamente sulla quota di pensione a carico del Monte, fermi restando i minimi quivi stabiliti. Tali aumenti non si applicano quando si tratti di pensioni liquidate a norma del quinto comma del predetto articolo 33. 
+ Per le pensioni liquidate a norma dell'art. 33 del testo unico delle leggi sul Monte pensioni per gli insegnanti elementari, approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), libro III, parte prima, e ripartite secondo le norme del quarto comma dell'articolo stesso, gli aumenti previsti dal presente articolo si applicano solamente sulla quota di pensione a carico del Monte, fermi restando i minimi quivi stabiliti. Tali aumenti non si applicano quando si tratti di pensioni liquidate a norma del quinto comma del predetto articolo 33. 
  
  Le disposizioni del presente articolo entreranno in vigore dal primo giorno del mese successivo a quello della pubblicazione del presente decreto.
 
@@ -50,11 +50,11 @@ La misura della pensione spettante alle famiglie degli inscritti al Monte pensio
 
 ## Art. 5.
 
-Nei casi contemplati dall'art. 33 del testo unico delle leggi sul Monte pensioni per gli insegnanti elementari, approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), libro III, parte prima, gli stipendi da prendersi per base del riparto di cui al quarto comma dell'articolo stesso, sono quelli effettivamente corrisposti all'insegnante dai Comuni obbligati, e dai Comuni non obbligati al contributo o dallo Stato, aumentati secondo le disposizioni del precedente art. 3.
+Nei casi contemplati dall'art. 33 del testo unico delle leggi sul Monte pensioni per gli insegnanti elementari, approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), libro III, parte prima, gli stipendi da prendersi per base del riparto di cui al quarto comma dell'articolo stesso, sono quelli effettivamente corrisposti all'insegnante dai Comuni obbligati, e dai Comuni non obbligati al contributo o dallo Stato, aumentati secondo le disposizioni del precedente art. 3.
 
 ## Art. 6.
 
-Per gli insegnanti elementari inscritti al Monte pensioni in servizio alla data di pubblicazione del presente decreto o che assumano o riassumano servizio posteriormente alla data stessa, i minimi di pensione stabiliti dall'art. 18 del testo unico delle leggi sul Monte pensioni per gli insegnanti elementari, approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), libro III, parte prima, modificato dall'art 1° del [decreto Luogotenenziale 27 agosto 1916, n. 1094](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-27;1094), sono aumentati di L. 900 e quello stabilito dall'art. 25 del testo unico predetto e' aumentato di L. 500.
+Per gli insegnanti elementari inscritti al Monte pensioni in servizio alla data di pubblicazione del presente decreto o che assumano o riassumano servizio posteriormente alla data stessa, i minimi di pensione stabiliti dall'art. 18 del testo unico delle leggi sul Monte pensioni per gli insegnanti elementari, approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), libro III, parte prima, modificato dall'art 1° del [decreto Luogotenenziale 27 agosto 1916, n. 1094](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-27;1094), sono aumentati di L. 900 e quello stabilito dall'art. 25 del testo unico predetto e' aumentato di L. 500.
 
 ## Art. 7.
 
@@ -64,7 +64,7 @@ Entro, il 30 settembre 1923 gli insegnanti elementari dipendenti dall'Amministra
  
  Nella liquidazione delle pensioni dovute dal Monte agli insegnanti collocati a riposo a norma dei commi precedenti si applicano le disposizioni dell'art. 3 del presente decreto. 
  
- E' abrogata la disposizione dell'[art. 6 del R. decreto 21 settembre 1919, n. 1777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-21;1777#art_6), prorogata con [R. decreto 21 agosto 1922, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-08-21;1302).
+ E' abrogata la disposizione dell'[art. 6 del R. decreto 21 settembre 1919, n. 1777](Che%20detta%20norme%20per%20la%20prima%20attribuzione%20agli%20attuali%20insegnanti%20effettivi%20delle%20scuole%20dirette%20ed%20amministrate%20dai%20Consigli%20scolastici%20degli%20stipendi%20fissati%20dalla%20tabella%20A%20annessa%20al%20_c0d14b882fa3.md), prorogata con [R. decreto 21 agosto 1922, n. 1302](Che%20proroga%20lapplicazione%20dellart.%206%20del%20R.%20decreto%2021%20settembre%201919%20n.%201777%20relativamente%20al%20collocamento%20a%20riposo%20di%20ufficio%20dei%20maestri%20elementari.%20022U1302.md).
 
 ## Art. 8.
 
@@ -72,7 +72,7 @@ Nella parte straordinaria dello stato di previsione della spesa del Ministero de
 
 ## Art. 9.
 
-A decorrere dalla data di pubblicazione del presente decreto, alle tabelle A e B annesse al testo unico delle leggi sul Monte pensioni degli insegnanti elementari, approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), libro III, parte prima, sono sostituite le unite tabelle A e B, firmate d'ordine Nostro, dai Ministri proponenti.
+A decorrere dalla data di pubblicazione del presente decreto, alle tabelle A e B annesse al testo unico delle leggi sul Monte pensioni degli insegnanti elementari, approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), libro III, parte prima, sono sostituite le unite tabelle A e B, firmate d'ordine Nostro, dai Ministri proponenti.
 
 ## Art. 10.
 

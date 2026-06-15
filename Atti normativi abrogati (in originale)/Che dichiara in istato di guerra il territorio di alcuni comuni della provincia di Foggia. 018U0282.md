@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito approvato con R. decreto 28 novembre 1869; 
+ Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito approvato con R. decreto 28 novembre 1869; 
  
- Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo approvato con R. decreto 28 novembre 1869; 
+ Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo approvato con R. decreto 28 novembre 1869; 
  
  Visto il [R. decreto 22 maggio 1915, n. 703](Che%20considera%20in%20stato%20di%20guerra%20i%20territi%20di%20alcune%20proncie%20del%20Regno.%20015U0703.md), che dichiara in istato di guerra i territori di alcune provincie del Regno e dei Comuni costieri dello Adriatico; 
  

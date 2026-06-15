@@ -85,7 +85,7 @@ Titolo II
 
 ### Art. 9.
 
-La quota associativa corrisposta dalle piccole e medie imprese per la costituzione di consorzi o di societa' consortili previsti dal titolo I della presente legge e' deducibile entro il limite massimo di 1 milione di lire dal reddito delle imprese consorziate ai fini della determinazione del reddito di impresa di cui al titolo V del [decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597).
+La quota associativa corrisposta dalle piccole e medie imprese per la costituzione di consorzi o di societa' consortili previsti dal titolo I della presente legge e' deducibile entro il limite massimo di 1 milione di lire dal reddito delle imprese consorziate ai fini della determinazione del reddito di impresa di cui al titolo V del [decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md).
 
 ## AGEVOLAZIONI CREDITIZIE
 

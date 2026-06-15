@@ -20,7 +20,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e delle facolta' conferite al Governo con la [legge 22 maggio 1915 n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e delle facolta' conferite al Governo con la [legge 22 maggio 1915 n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  1° le funzioni e facolta' attribuite al Ministero del Tesoro (Direzione generale del segretariato) dagli articoli 1, 4, 8, 10 sono esercitate per il dipendente personale dalla Direzione generale delle ferrovie dello Stato; 
  
- 2° le ritenute di cui al comma a) e al comma dell'art. 2 sono accreditate al fondo di garanzia, istituito per il personale delle ferrovie dello Stato dall'[art. 1 della legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372#art_1).
+ 2° le ritenute di cui al comma a) e al comma dell'art. 2 sono accreditate al fondo di garanzia, istituito per il personale delle ferrovie dello Stato dall'[art. 1 della legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md).
 Sono a carico dello stesso fondo i rischi di cui all'art. 8 e spese di amministrazione e di personale di cui all'articolo 9 fino a concorrenza di L. 30.000 per ogni esercizio; 
  
  3° per l'esame delle domande e la liquidazione dei prestiti e per tutti gli effetti di cui agli articoli 4, 5, 8 e 11 saranno osservate le norme e condizioni stabilita dal [regolamento 29 luglio 1914, n. 850](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1914-07-29;850); 

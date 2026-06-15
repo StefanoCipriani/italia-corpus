@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 settembre 1926, n. 1637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-16;1637), recante agevolazioni per la riscossione di tasse arretrate nelle provincie annesse. 
+ E' convertito in legge il [R. decreto-legge 16 settembre 1926, n. 1637](Agevolazioni%20per%20la%20riscossione%20di%20tasse%20arretrate%20nelle%20Provincie%20annesse.%20026U1637.md), recante agevolazioni per la riscossione di tasse arretrate nelle provincie annesse. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

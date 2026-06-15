@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il n. 2 dell'art. 23 del regolamento speciale per il personale di terza categoria e per quello subalterno fuori ruolo dell'Amministrazione delle poste e dei telegrafi approvato col [R. decreto del 12 maggio 1910, n. 680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-12;680), e' modificato come appresso: 
+Il n. 2 dell'art. 23 del regolamento speciale per il personale di terza categoria e per quello subalterno fuori ruolo dell'Amministrazione delle poste e dei telegrafi approvato col [R. decreto del 12 maggio 1910, n. 680](Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md), e' modificato come appresso: 
  
  «Nel caso di rifiuto del posto loro assegnato sono licenziati senza diritto ad alcun compenso».
 

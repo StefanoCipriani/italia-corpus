@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi sull'Istruzione superiore, approvato con il [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795), e la [legge 28 maggio 1903, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-05-28;724), con l'annessa tabella B, in cui sono stabilite le tasse e soprattasse per gli Istituti superiori di magistero femminile;
+Veduto il testo unico delle leggi sull'Istruzione superiore, approvato con il [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e la [legge 28 maggio 1903, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-05-28;724), con l'annessa tabella B, in cui sono stabilite le tasse e soprattasse per gli Istituti superiori di magistero femminile;
 
 Veduta la [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md);
 
@@ -30,7 +30,7 @@ Sulla proposta dal Nostro ministro segretario di Stato per la istruzione pubblic
 
 ## Art. 1.
 
-Alla tabella C del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;795), relativa alle soprattasse e tasse scolastiche universitarie, e' sostituita la tabella A annessa al presente decreto.
+Alla tabella C del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), relativa alle soprattasse e tasse scolastiche universitarie, e' sostituita la tabella A annessa al presente decreto.
 
 ## Art. 2.
 

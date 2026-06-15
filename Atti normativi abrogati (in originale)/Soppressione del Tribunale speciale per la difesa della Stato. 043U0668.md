@@ -34,7 +34,7 @@ Il Tribunale speciale per la difesa dello Stato, istituito con la [legge 25 nove
 
 ## Art. 2.
 
-Nei procedimenti relativi ai reati devoluti alla competenza dei Tribunali militari a norma dell'articolo precedente, il giudice militare puo' valersi della facolta' preveduta dall'[art. 233 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_233) militare di guerra. 
+Nei procedimenti relativi ai reati devoluti alla competenza dei Tribunali militari a norma dell'articolo precedente, il giudice militare puo' valersi della facolta' preveduta dall'[art. 233 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra. 
  
  Per gli stessi procedimenti che siano in corso alla data di entrata in vigore del presente decreto, l'autorita', giudiziaria militare puo' concedere la liberta' provvisoria anche se alla data suddetta sia gia' stato disposto il rinvio a giudizio.
 

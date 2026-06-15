@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'autorizzazione di spesa di lire 2.500 milioni prevista dall'[articolo 3 del decreto-legge 18 novembre 1966, n. 976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1966-11-18;976#art_3), convertito nella [legge 23 dicembre 1966, n. 1142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-23;1142), per la costruzione della nuova sede dell'archivio di Stato di Firenze e' elevata a lire 3.500 milioni.
+L'autorizzazione di spesa di lire 2.500 milioni prevista dall'[articolo 3 del decreto-legge 18 novembre 1966, n. 976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1966-11-18;976#art_3), convertito nella [legge 23 dicembre 1966, n. 1142](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201966%20n.%20976%20concernente%20ulteriori%20interventi%20e%20provvidenze%20per%20la%20ricostruzione%20e%20per%20la%20ripresa%20economica%20nei%20territo_257ef915b309.md), per la costruzione della nuova sede dell'archivio di Stato di Firenze e' elevata a lire 3.500 milioni.
 
 ## Art. 2.
 

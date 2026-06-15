@@ -20,15 +20,15 @@ Vista la [legge 13 maggio 1961, n. 469](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 8 dicembre 1970, n. 996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-08;996), ed in particolare l'articolo 13, terzo comma;
 
-Visto l'[articolo 17 del decreto-legge 4 agosto 1987, n. 325](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-04;325#art_17), convertito, con modificazioni, dalla [legge 3 ottobre 1987, n. 402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-03;402);
+Visto l'[articolo 17 del decreto-legge 4 agosto 1987, n. 325](Disciplina%20temporanea%20dei%20corsi%20per%20laccesso%20ai%20ruoli%20della%20Polizia%20di%20Stato%20e%20provvedimenti%20urgenti%20a%20favore%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco_3.md), convertito, con modificazioni, dalla [legge 3 ottobre 1987, n. 402](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20agosto%201987%20n.%20325%20recante%20disciplina%20temporanea%20dei%20corsi%20per%20laccesso%20ai%20ruoli%20della%20Polizia%20di%20Stato%20e%20provvedimenti%20urgenti%20_8e6a9aed969d.md);
 
 Visto l'[articolo 35 della legge 5 dicembre 1988, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-05;521#art_35);
 
 Vista la [legge 24 febbraio 1992, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225);
 
-Visto l'[articolo 1, comma 6, del decreto-legge 1o ottobre 1996, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-01;512#art_1-com6), convertito, con modificazioni, dalla [legge 28 novembre 1996, n. 609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-28;609);
+Visto l'[articolo 1, comma 6, del decreto-legge 1o ottobre 1996, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-01;512#art_1-com6), convertito, con modificazioni, dalla [legge 28 novembre 1996, n. 609](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201996%20n.%20512%20recante%20disposizioni%20urgenti%20concernenti%20lincremento%20e%20il%20ripianamento%20di%20organico%20dei%20ruoli%20del%20Corpo%20nazio_d4a18b7ab592.md);
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni ed integrazioni;
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni;
 
 Vista la [legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127), e successive modificazioni;
 
@@ -65,7 +65,7 @@ Il personale volontario del Corpo nazionale dei vigili del fuoco e' costituito d
 Il personale volontario non e' vincolato da rapporto di impiego con l'amministrazione ed e' chiamato a svolgere temporaneamente i propri compiti ogni qualvolta se ne manifesti il bisogno, in conformita' a quanto disposto dall'[articolo 14 della legge 13 maggio 1961, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469#art_14).
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il [comma quinto dell'art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica italiana conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
  - La [legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570), reca: "Norme per l'organizzazione dei servizi antincendi".
@@ -73,14 +73,14 @@ Avvertenza:
  - La [legge 13 maggio 1961, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469), reca: "Ordinamento dei servizi antincendi e del Corpo nazionale dei Vigili del fuoco e stato giuridico e trattamento economico del personale dei sottufficiali, vigili scelti e vigili del Corpo nazionale dei Vigili del fuoco".
  - Il testo dell'[art. 13, comma terzo, della legge 8 dicembre 1970, n. 996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-08;996#art_13-com3) (Norme sul soccorso e l'assistenza delle popolazioni colpite da calamita') e' il seguente:
  "Le norme sull'avanzamento del personale volontario saranno stabilite dal regolamento del Corpo nazionale dei Vigili del fuoco".
- - Il testo dell'[art. 17 del decreto-legge 4 agosto 1987, n. 325](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-04;325#art_17), convertito, con modificazioni, dalla [legge 3 ottobre 1987, n. 402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-03;402) (Disciplina temporanea dei corsi per l'accesso ai ruoli della Polizia di Stato e provvedimenti urgenti a favore del Corpo nazionale dei Vigili del fuoco) e' il seguente:
+ - Il testo dell'[art. 17 del decreto-legge 4 agosto 1987, n. 325](Disciplina%20temporanea%20dei%20corsi%20per%20laccesso%20ai%20ruoli%20della%20Polizia%20di%20Stato%20e%20provvedimenti%20urgenti%20a%20favore%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco_3.md), convertito, con modificazioni, dalla [legge 3 ottobre 1987, n. 402](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20agosto%201987%20n.%20325%20recante%20disciplina%20temporanea%20dei%20corsi%20per%20laccesso%20ai%20ruoli%20della%20Polizia%20di%20Stato%20e%20provvedimenti%20urgenti%20_8e6a9aed969d.md) (Disciplina temporanea dei corsi per l'accesso ai ruoli della Polizia di Stato e provvedimenti urgenti a favore del Corpo nazionale dei Vigili del fuoco) e' il seguente:
  "Art. 17 (Iscrizione a domanda nei quadri dei Vigili del fuoco). - 1. Per l'iscrizione, a domanda, nei quadri dei vigili del fuoco volontari del Corpo nazionale dei vigili del fuoco, si applicano i limiti di eta' e le relative elevazioni consentite ai fini dell'ammissione ai concorsi pubblici per l'accesso agli impieghi civili delle amministrazioni dello Stato.
  2. Nulla e' innovato per il personale iscritto nei quadri al termine del servizio militare di leva, prestato nel Corpo nazionale dei Vigili del fuoco, ai sensi della [legge 13 ottobre 1950, n. 913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-13;913), e successive modificazioni, e per l'iscrizione degli ufficiali volontari.".
  - Il testo dell'[art. 35 della legge 5 dicembre 1988, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-05;521#art_35) (Misure di potenziamento delle Forze di polizia e del Corpo nazionale dei Vigili del fuoco) reca:
  "Art. 35 (Disciplina per il personale volontario). - 1.
  Il personale volontario del Corpo nazionale dei Vigili del fuoco che viola i propri doveri e' soggetto alle seguenti sanzioni disciplinari:
  a) censura inflitta per lievi trasgressioni;
- b) sospensione dai richiami da 1 a 5 anni inflitta per le mancanze di cui agli articoli 80 e 81 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3);
+ b) sospensione dai richiami da 1 a 5 anni inflitta per le mancanze di cui agli articoli 80 e 81 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
  c) radiazione inflitta:
  1) per maggiore gravita' delle infrazioni che danno luogo alla sospensione dai richiami;
  2) per le mancanze previste dall'art. 84 del citato testo unico.
@@ -91,11 +91,11 @@ Avvertenza:
  4. La competenza in materia disciplinare per il personale volontario e' devoluta alla commissione di disciplina del personale permanente.
  5. Il personale volontario puo' essere sospeso dai richiami, con decreto ministeriale, ove sia sottoposto a procedimento penale per reati particolarmente gravi, o per gravi motivi anche prima che sia esaurito o iniziato il procedimento disciplinare.".
  - La [legge 24 febbraio 1992, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225), reca: "Istituzione del Servizio nazionale della protezione civile".
- - Il testo dell'[art. 1, comma 6, del decreto-legge 1o ottobre 1996, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-01;512#art_1-com6), convertito, con modificazioni, nella [legge 28 novembre 1996, n. 609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-28;609) (Disposizioni urgenti concernenti l'incremento e il ripianamento di organico dei ruoli del Corpo nazionale dei vigili del fuoco e misure di razionalizzazione per l'impiego del personale nei servizi d'istituto) reca:
+ - Il testo dell'[art. 1, comma 6, del decreto-legge 1o ottobre 1996, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-01;512#art_1-com6), convertito, con modificazioni, nella [legge 28 novembre 1996, n. 609](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201996%20n.%20512%20recante%20disposizioni%20urgenti%20concernenti%20lincremento%20e%20il%20ripianamento%20di%20organico%20dei%20ruoli%20del%20Corpo%20nazio_d4a18b7ab592.md) (Disposizioni urgenti concernenti l'incremento e il ripianamento di organico dei ruoli del Corpo nazionale dei vigili del fuoco e misure di razionalizzazione per l'impiego del personale nei servizi d'istituto) reca:
  "Art. 1 (Incremento e ripianamento degli organici).
  1. - 5. (Omissis).
  6. Entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, viene emanato, ai sensi dell'[art. 17, comma 4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4), il regolamento recante norme sul "reclutamento, sull'avanzamento e sull'impiego del personale volontario del Corpo nazionale dei Vigili del fuoco", in attuazione dell'[art. 13 della legge 8 dicembre 1970, n. 996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-08;996#art_13).".
- - Il [decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni ed integrazioni, reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2)".
+ - Il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)".
  - La [legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127), e successive modificazioni, reca: "Misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e controllo".
  - Si riporta il testo vigente dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri).
  "Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:
@@ -205,7 +205,7 @@ I funzionari tecnici antincendi volontari sono reclutati, nei limiti del conting
                             h)
                                 non essere stati destituiti, dispensati o licenziati dall'impiego presso una pubblica amministrazione;
                             i)
-                                possesso del requisito delle qualita' morali e di condotta di cui all'[articolo 36, comma 6, del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_36-com6), e successive modificazioni;
+                                possesso del requisito delle qualita' morali e di condotta di cui all'[articolo 36, comma 6, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
                             j)
                                 posizione regolare nei confronti degli obblighi di leva.
 
@@ -222,7 +222,7 @@ Gli aspiranti funzionari tecnici antincendi volontari devono presentare l'istanz
 Nell'ipotesi di presentazione delle domande in numero superiore a quello dei posti disponibili, l'amministrazione, ai fini del reclutamento e dell'iscrizione nell'elenco B dei funzionari tecnici antincendi volontari, procedera' secondo l'ordine cronologico di presentazione delle domande.
 
 Nota all'art. 5:
- - Si riporta il testo dell'art. 36, comma 6, del citato [decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni ed integrazioni:
+ - Si riporta il testo dell'art. 36, comma 6, del citato [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni:
  "6. Ai fini delle assunzioni di personale presso la Presidenza del Consiglio dei Ministri e le amministrazioni che esercitano competenze istituzionali in materia di difesa e sicurezza dello Stato, di polizia, di giustizia ordinaria, amministrativa, contabile e di difesa in giudizio dello Stato, si applica il disposto di cui all'[art. 26 della legge 1o febbraio 1989, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-01;53#art_26).".
 
 ### Art. 6. — Reclutamento ed iscrizione dei vigili volontari
@@ -249,7 +249,7 @@ I vigili volontari a domanda sono reclutati fra coloro che ne facciano domanda e
                             i)
                                 non essere stati destituiti, dispensati o licenziati dall'impiego presso una pubblica amministrazione;
                             j)
-                                possesso del requisito delle qualita' morali e di condotta, di cui all'[articolo 36, sesto comma, del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_36-com6), e successive modificazioni;
+                                possesso del requisito delle qualita' morali e di condotta, di cui all'[articolo 36, sesto comma, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
                             k)
                                 posizione regolare nei confronti degli obblighi di leva.
 
@@ -270,7 +270,7 @@ I vigili volontari ex ausiliari di leva sono iscritti d'ufficio nell'elenco A ed
 Per l'iscrizione nell'elenco B, il personale volontario deve possedere il domicilio effettivo nell'ambito del territorio di competenza del distaccamento di cui chiede di far parte. In assenza di detto requisito il capo distaccamento deve rappresentare al competente comando provinciale la possibilita' di impiego effettivo nel servizio istituzionale.
 
 Nota all'art. 6:
- - Per il testo dell'[art. 36, comma 6, del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_36-com6), e successive modificazioni ed integrazioni, vedi nelle note all'art. 5.
+ - Per il testo dell'[art. 36, comma 6, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, vedi nelle note all'art. 5.
 
 ### Art. 7. — Reclutamento ed iscrizione negli elenchi del
  personale volontario, del personale permanente
@@ -548,7 +548,7 @@ Note all'art. 24:
  "Art. 35 (Disciplina per il personale volontario). - 1.
  Il personale volontario del Corpo nazionale dei Vigili del fuoco che viola i propri doveri e' soggetto alle seguenti sanzioni disciplinari:
  a) censura inflitta per lievi trasgressioni;
- b) sospensione dai richiami da 1 a 5 anni inflitta per le mancanze di cui agli articoli 80 e 81 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3);
+ b) sospensione dai richiami da 1 a 5 anni inflitta per le mancanze di cui agli articoli 80 e 81 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
  c) radiazione inflitta:
  1) per maggiore gravita' delle infrazioni che danno luogo alla sospensione dai richiami;
  2) per le mancanze previste dall'articolo 84 del citato testo unico.

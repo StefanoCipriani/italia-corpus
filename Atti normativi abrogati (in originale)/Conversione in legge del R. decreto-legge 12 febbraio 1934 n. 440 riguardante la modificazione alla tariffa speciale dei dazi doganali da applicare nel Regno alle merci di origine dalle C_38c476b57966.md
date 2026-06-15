@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 12 febbraio 1934, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-02-12;440), riguardante la modificazione alla tariffa speciale dei dazi doganali da applicare nel Regno alle merci di origine dalle Colonie italiane. 
+ E' convertito in legge il [R. decreto-legge 12 febbraio 1934, n. 440](Modificazione%20alla%20tariffa%20speciale%20dei%20dazi%20doganali%20da%20applicare%20nel%20Regno%20alle%20merci%20di%20origine%20dalle%20Colonie%20italiane.%20034U0440.md), riguardante la modificazione alla tariffa speciale dei dazi doganali da applicare nel Regno alle merci di origine dalle Colonie italiane. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia incerta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

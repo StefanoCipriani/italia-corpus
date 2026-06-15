@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 ottobre 1931, n. 1235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-04;1235), che modifica il regime doganale del riso e della farina di riso. 
+ E' convertito in legge il [R. decreto-legge 4 ottobre 1931, n. 1235](Modificazioni%20al%20regime%20doganale%20del%20riso%20e%20della%20farina%20di%20riso.%20031U1235.md), che modifica il regime doganale del riso e della farina di riso. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 18 gennaio 1932 - Anno X 
  

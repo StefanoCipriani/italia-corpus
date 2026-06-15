@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 22 giugno 1905, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-06-22;449), concernente l'indennita' di carica agli appartenenti al corpo delle guardie di citta' residenti in Roma; 
+ Visto il [R. decreto 22 giugno 1905, n. 449](Indennita%20di%20carica%20agli%20ufficiali%20graduati%20funzionari%20ed%20altri%20agenti%20che%20prestano%20servizio%20a%20Roma.%20005U0449.md), concernente l'indennita' di carica agli appartenenti al corpo delle guardie di citta' residenti in Roma; 
  
  Viste le tabelle organiche annesse al Nostro decreto 14 ottobre 1917, n. 1732; 
  

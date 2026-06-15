@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-Per la durata di un anno dalla data di entrata in vigore del presente decreto, le aziende esercenti tramvie, ferrovie e linee di navigazione interna, alle quali si applica il [R. decreto 8 gennaio 1931, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-08;148), hanno facolta' di collocare a riposo gli agenti di ruolo, inscritti alla Cassa nazionale per le assicurazioni sociali o alle Casse speciali di previdenza istituite presso le aziende, che abbiano raggiunto i 55 anni di eta', se in servizio attivo, o i 60 anni, se in servizio sedentario, sempre che abbiano almeno 20 anni di servizio utile per la pensione, tenuto conto per gli inscritti alla Cassa nazionale assicurazioni sociali anche dell'art. 21 del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-09-30;1538).
+Per la durata di un anno dalla data di entrata in vigore del presente decreto, le aziende esercenti tramvie, ferrovie e linee di navigazione interna, alle quali si applica il [R. decreto 8 gennaio 1931, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-08;148), hanno facolta' di collocare a riposo gli agenti di ruolo, inscritti alla Cassa nazionale per le assicurazioni sociali o alle Casse speciali di previdenza istituite presso le aziende, che abbiano raggiunto i 55 anni di eta', se in servizio attivo, o i 60 anni, se in servizio sedentario, sempre che abbiano almeno 20 anni di servizio utile per la pensione, tenuto conto per gli inscritti alla Cassa nazionale assicurazioni sociali anche dell'art. 21 del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md).
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ Per il personale collocato a riposo in base all'art. 1 del presente decreto, all
 
 ## Art. 3.
 
-Gli agenti iscritti alla Cassa nazionale per le assicurazioni sociali, che cessano dal servizio in applicazione del precedente art. 1, liquidano la pensione nella misura stabilita dalla disposizione dell'art. 23 del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-09-30;1538). 
+Gli agenti iscritti alla Cassa nazionale per le assicurazioni sociali, che cessano dal servizio in applicazione del precedente art. 1, liquidano la pensione nella misura stabilita dalla disposizione dell'art. 23 del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md). 
  Per gli agenti iscritti alle Casse speciali di previdenza, la liquidazione sara' fatta in relazione alle norme dei rispettivi regolamenti e con le modalita' che saranno stabilite dai Consigli di amministrazione delle Casse stesse, tenuto conto degli effetti derivanti dall'anticipato collocamento a riposo e dell'importo dell'indennita' di cui all'art. 2.
 
 ## Art. 4.

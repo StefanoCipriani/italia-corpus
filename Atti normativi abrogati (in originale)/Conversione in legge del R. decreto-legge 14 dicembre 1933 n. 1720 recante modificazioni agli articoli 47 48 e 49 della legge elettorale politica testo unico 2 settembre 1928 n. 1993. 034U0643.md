@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 dicembre 1933, n. 1720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-14;1720), recante modificazioni agli articoli 47, 48 e 49 della legge elettorale politica ([testo unico 2 settembre 1928, n. 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1928-09-02;1993)). 
+ E' convertito in legge il [R. decreto-legge 14 dicembre 1933, n. 1720](Modifiche%20agli%20articoli%2047%2048%20e%2049%20del%20testo%20unico%20della%20legge%20elettorale%20politica.%20033U1720.md), recante modificazioni agli articoli 47, 48 e 49 della legge elettorale politica ([testo unico 2 settembre 1928, n. 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1928-09-02;1993)). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  L'[art. 16 del decreto Luogotenenziale 23 maggio 1918, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-23;740#art_16), viene modificato come segue: 
  
- «Lo Stato, la provincia ed il comune di Milano contribuiranno nella spesa per la costruzione del nuovo porto di Milano e per le opere di miglioramento della darsena di Porta Ticinese, secondo il riparto stabilito dall'[art. 6 del testo unico 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-07-11;959#art_6), sulla navigazione interna e sulla fluitazione, e dall'art. 3 del regolamento relativo, approvato con [Regio decreto 17 novembre 1913, n. 1514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-11-17;1514). 
+ «Lo Stato, la provincia ed il comune di Milano contribuiranno nella spesa per la costruzione del nuovo porto di Milano e per le opere di miglioramento della darsena di Porta Ticinese, secondo il riparto stabilito dall'[art. 6 del testo unico 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-07-11;959#art_6), sulla navigazione interna e sulla fluitazione, e dall'art. 3 del regolamento relativo, approvato con [Regio decreto 17 novembre 1913, n. 1514](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20opere%20concernenti%20la%20navigazione%20interna%20qualificate%20nuove%20ai%20sensi%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20_30558051ccd2.md). 
  
  Le quote di contributo saranno determinate in base alle spese sostenute dall'azienda portuale in ciascun esercizio finaziario di cui verra' presentato il conto consuntivo entro il mese di gennaio successivo. 
  

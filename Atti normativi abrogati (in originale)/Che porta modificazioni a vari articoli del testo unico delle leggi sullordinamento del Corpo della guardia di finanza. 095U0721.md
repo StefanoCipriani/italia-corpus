@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 2, 3, 4, 10, 11, 12, 13, 14, 16, 17, 18, 21, 25, 26, 27 e 28 del Testo unico delle leggi sull'ordinamento del Corpo della guardia di finanza, approvato con [Regio decreto 10 gennaio 1892 n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-01-10;3), sono sostituiti quelli corrispondenti dell'allegato A che fa parte integrante della presente legge.
+Agli articoli 2, 3, 4, 10, 11, 12, 13, 14, 16, 17, 18, 21, 25, 26, 27 e 28 del Testo unico delle leggi sull'ordinamento del Corpo della guardia di finanza, approvato con [Regio decreto 10 gennaio 1892 n. 3](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20della%20guardia%20di%20finanza%20092U0003.md), sono sostituiti quelli corrispondenti dell'allegato A che fa parte integrante della presente legge.
 
 ## Art. 2.
 
@@ -34,7 +34,7 @@ Il Governo del Re e' autorizzato a coordinare un Testo unico delle leggi relativ
 
 ### Art. 6.
 
-Il [Regio decreto 6 agosto 1894 n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-08-06;374) (allegato B) e' convalidato, ed avra' effetto sino all'attuazione della presente legge. 
+Il [Regio decreto 6 agosto 1894 n. 374](Che%20approva%20il%20nuovo%20ruolo%20organico%20del%20Corpo%20delle%20guardie%20di%20Finanza.%20094U0374.md) (allegato B) e' convalidato, ed avra' effetto sino all'attuazione della presente legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti il testo unico delle leggi postali approvato con [R. decreto 24 dicembre 1899, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-24;501), e il regolamento generale sul servizio postale approvato con [R. decreto 10 febbraio 1901, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-10;120);
+Visti il testo unico delle leggi postali approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), e il regolamento generale sul servizio postale approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
 
-Visti i [Regi decreti 8 febbraio 1923, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;328), e [10 settembre 1923, n. 2251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-10;2251), e il relativo regolamento di esecuzione approvato con [R. decreto 10 maggio 1923, n. 1151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-10;1151), che stabiliscono le norme per la concessione ad Enti pubblici o privati del servizio dei casellari privati;
+Visti i [Regi decreti 8 febbraio 1923, n. 328](Che%20reca%20le%20norme%20per%20la%20concessione%20ad%20Enti%20pubblici%20o%20privati%20del%20servizio%20dei%20casellari%20postali.%20023U0328.md), e [10 settembre 1923, n. 2251](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%208%20febbraio%201923%20n.%20328%20relativo%20alla%20concessione%20ad%20Enti%20pubblici%20e%20privati%20del%20servizio%20dei%20casellari%20postali.%20023U2251.md), e il relativo regolamento di esecuzione approvato con [R. decreto 10 maggio 1923, n. 1151](Che%20approva%20il%20regolamento%20per%20la%20concessione%20ai%20privati%20del%20servizio%20delle%20caselle%20per%20la%20distribuzione%20delle%20corrispondenze.%20023U1151.md), che stabiliscono le norme per la concessione ad Enti pubblici o privati del servizio dei casellari privati;
 
 Visto il [R. decreto 15 luglio 1923, n. 1705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-15;1705);
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-Dal 1° luglio 1926 la concessione ad Enti e a privati dell'esercizio dei casellari aperti o chiusi per la distribuzione delle corrispondenze, dirette a destinatari diversi, e' regolata dalle norme di cui agli articoli seguenti, restando abrogate quelle stabilite dal [R. decreto 8 febbraio 1923, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;328), e dal relativo regolamento di esecuzione approvato con [R. decreto 10 maggio 1923, n. 1151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-10;1151).
+Dal 1° luglio 1926 la concessione ad Enti e a privati dell'esercizio dei casellari aperti o chiusi per la distribuzione delle corrispondenze, dirette a destinatari diversi, e' regolata dalle norme di cui agli articoli seguenti, restando abrogate quelle stabilite dal [R. decreto 8 febbraio 1923, n. 328](Che%20reca%20le%20norme%20per%20la%20concessione%20ad%20Enti%20pubblici%20o%20privati%20del%20servizio%20dei%20casellari%20postali.%20023U0328.md), e dal relativo regolamento di esecuzione approvato con [R. decreto 10 maggio 1923, n. 1151](Che%20approva%20il%20regolamento%20per%20la%20concessione%20ai%20privati%20del%20servizio%20delle%20caselle%20per%20la%20distribuzione%20delle%20corrispondenze.%20023U1151.md).
 
 ## Art. 2.
 
@@ -50,7 +50,7 @@ Nel decreto di concessione puo' essere determinata una zona, entro la quale l'Am
  
  Le concessioni pero' da accordarsi a coloro che esercitano o eserciteranno il servizio dei casellari come sussidiario dell'industria principale da essi gestita (banche, imprese di pubblicita', agenzie di viaggi, alberghi diurni, ecc.) non sono comprese nelle limitazioni di cui al presente articolo. 
  
- Parimenti non sono comprese nelle limitazioni, di cui sopra, le concessioni da accordarsi a coloro che prima della andata in vigore del presente decreto, gia' esercitavano un servizio di casellario autorizzato a termini del [R. decreto 8 febbraio 1923, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;328).
+ Parimenti non sono comprese nelle limitazioni, di cui sopra, le concessioni da accordarsi a coloro che prima della andata in vigore del presente decreto, gia' esercitavano un servizio di casellario autorizzato a termini del [R. decreto 8 febbraio 1923, n. 328](Che%20reca%20le%20norme%20per%20la%20concessione%20ad%20Enti%20pubblici%20o%20privati%20del%20servizio%20dei%20casellari%20postali.%20023U0328.md).
 
 ## Art. 4.
 
@@ -88,7 +88,7 @@ Un regolamento, approvato con decreto Reale su proposta del Ministro per le comu
 
 ## Art. 9.
 
-I concessionari e i loro dipendenti sono soggetti agli obblighi derivanti dalle disposizioni contenute nell'art. 9 del testo unico delle leggi postali approvato con [R. decreto 24 dicembre 1899, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-24;101), e sono altresi' considerati, agli effetti dell'[art. 162 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_162), come addetti al servizio delle poste e dei telegrafi.
+I concessionari e i loro dipendenti sono soggetti agli obblighi derivanti dalle disposizioni contenute nell'art. 9 del testo unico delle leggi postali approvato con [R. decreto 24 dicembre 1899, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-24;101), e sono altresi' considerati, agli effetti dell'[art. 162 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come addetti al servizio delle poste e dei telegrafi.
 
 ## Art. 10.
 

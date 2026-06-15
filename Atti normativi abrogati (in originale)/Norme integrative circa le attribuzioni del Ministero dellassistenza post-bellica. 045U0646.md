@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 31 maggio 1935, n. 752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-31;752), convertito nella [legge 9 gennaio 1936, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;132);
+Visto il [R. decreto-legge 31 maggio 1935, n. 752](Modificazioni%20alla%20legge%2012%20giugno%201931-IX%20n.%20877%20concernente%20la%20definitiva%20sistemazione%20delle%20Salme%20dei%20Caduti%20in%20guerra.%20035U0752.md), convertito nella [legge 9 gennaio 1936, n. 132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2031%20maggio%201935-XIII%20n.%20752%20recante%20modificazioni%20alla%20legge%2012%20giugno%201931-IX%20n.%20877%20concernente%20la%20definitiva%20sistemazione%20delle%20Salme%20dei%20Cadut_b88c04823356.md);
 
-Visto il [R. decreto-legge 5 gennaio 1939, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-01-05;306), convertito nella [legge 15 maggio 1939, n. 965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-05-15;965);
+Visto il [R. decreto-legge 5 gennaio 1939, n. 306](Istituzione%20e%20funzionamento%20di%20una%20Commissione%20permanente%20per%20il%20rimpatrio%20degli%20Italiani%20dallestero.%20039U0306.md), convertito nella [legge 15 maggio 1939, n. 965](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto%20legge%205%20gennaio%201939-XVII%20n.%20306%20riguardante%20listituzione%20di%20una%20Commissione%20permanente%20per%20il%20rimpatrio%20degli%20italiani%20allestero.%20039U0965.md);
 
-Visto il [R. decreto-legge 11 maggio 1941, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-11;703), convertito nella [legge 17 ottobre 1941, n. 1406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-10-17;1406);
+Visto il [R. decreto-legge 11 maggio 1941, n. 703](Trasferimento%20del%20servizio%20relativo%20al%20collocamento%20e%20allassistenza%20dei%20rimpatriati%20dallestero%20dalla%20Commissione%20per%20il%20rimpatrio%20degli%20italiani%20allestero%20al%20Commissariato%20per%20le%20migrazio_610ba4918afa.md), convertito nella [legge 17 ottobre 1941, n. 1406](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2011%20maggio%201941-XIX%20n.%20703%20concernente%20il%20trasferimento%20del%20servizio%20relativo%20al%20collocamento%20e%20allassistenza%20dei%20rimpatriati%20da_a5a2e0c4de14.md);
 
-Visto il [R. decreto-legge 27 febbraio 1942, n. 316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-02-27;316);
+Visto il [R. decreto-legge 27 febbraio 1942, n. 316](Passaggio%20del%20Commissariato%20per%20le%20migrazioni%20e%20la%20colonizzazione%20alle%20dipendenze%20del%20Ministero%20delle%20corporazioni.%20042U0316.md);
 
 Visto il [decreto legislativo Luogotenenziale 21 giugno 1945, n. 377](Ripartizione%20del%20Ministero%20dellindustria%20commercio%20e%20lavoro%20in%20due%20distinti%20Ministeri%20rispettivamente%20denominati%20Ministero%20dellindustria%20e%20commercio%20e%20Ministero%20del%20lavoro%20e%20previdenza%20so_9ea7713417c7.md);
 
@@ -46,7 +46,7 @@ Al Ministero dell'assistenza post-bellica spettano poteri e le attribuzioni di c
 
 ## Art. 2.
 
-Il Servizio di assistenza dei connazionali rimpatriati dall'estero, previsto dai [Regi decreti-legge 5 gennaio 1939, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-01-05;306) e [11 maggio 1941, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-05-11;703), passa al Ministero dell'assistenza post-bellica, ferme restando al Ministero del lavoro e della previdenza sociale le altre attribuzioni ad esso spettanti in materia di collocamento e di avviamento al lavoro in genere dei connazionali rimpatriati. 
+Il Servizio di assistenza dei connazionali rimpatriati dall'estero, previsto dai [Regi decreti-legge 5 gennaio 1939, n. 306](Istituzione%20e%20funzionamento%20di%20una%20Commissione%20permanente%20per%20il%20rimpatrio%20degli%20Italiani%20dallestero.%20039U0306.md) e [11 maggio 1941, n. 703](Trasferimento%20del%20servizio%20relativo%20al%20collocamento%20e%20allassistenza%20dei%20rimpatriati%20dallestero%20dalla%20Commissione%20per%20il%20rimpatrio%20degli%20italiani%20allestero%20al%20Commissariato%20per%20le%20migrazio_610ba4918afa.md), passa al Ministero dell'assistenza post-bellica, ferme restando al Ministero del lavoro e della previdenza sociale le altre attribuzioni ad esso spettanti in materia di collocamento e di avviamento al lavoro in genere dei connazionali rimpatriati. 
  
  I servizi centrali verranno a far parte del servizio di assistenza ai civili vittime della guerra; quelli periferici potranno essere ordinati con decreto del Ministro per l'assistenza post-bellica; emanato di concerto con quello per il tesoro, secondo le norme stabilire dall'art. 2, ultimo comma, del [decreto legislativo Luogotenenziale 31 luglio 1945, n. 425](Attribuzioni%20ed%20ordinamento%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0425.md), per l'organizzazione degli uffici periferici del Ministero dell'assistenza postbellica.
 

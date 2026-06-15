@@ -16,7 +16,7 @@ A cominciare dal 1° ottobre 1915 e' ammessa la spedizione di pacchi postali da 
  
  b) degli stabilimenti postali italiani all' estero o nelle colonie tra loro. 
  
- La tassa e' ridotta a centesimi 60 se tali pacchi si trovino nelle condizioni previste dalla [legge 3 marzo 1904, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-03;80).
+ La tassa e' ridotta a centesimi 60 se tali pacchi si trovino nelle condizioni previste dalla [legge 3 marzo 1904, n. 80](Concernente%20riduzione%20di%20tassa%20per%20i%20pacchi%20contenenti%20gli%20abiti%20borghesi%20che%20i%20coscritti%20ed%20i%20richiamati%20sotto%20le%20armi%20spediscono%20alle%20loro%20famiglie%20004U0080.md).
 
 ## Art. 2.
 

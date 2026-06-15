@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 marzo 1932, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-03-19;369), che ha dato esecuzione ai seguenti Accordi fra l'Italia e l'Austria, stipulati in Roma il 18 febbraio 1932: 
+ E' convertito in legge il [R. decreto-legge 19 marzo 1932, n. 369](Esecuzione%20degli%20Accordi%20economici%20stipulati%20in%20Roma%20fra%20lItalia%20e%20lAustria%20il%2018%20febbraio%201932.%20032U0369.md), che ha dato esecuzione ai seguenti Accordi fra l'Italia e l'Austria, stipulati in Roma il 18 febbraio 1932: 
  1° Accordo sull'esportazione con annesso e relativi Protocolli; 
  2° Protocollo addizionale al Trattato di commercio e di navigazione italo-austriaco del 28 aprile 1923; 
  3° Protocollo addizionale al Trattato di commercio e di navigazione italo-austriaco del 28 aprile 1923, relativo all'acqua ossigenata. 

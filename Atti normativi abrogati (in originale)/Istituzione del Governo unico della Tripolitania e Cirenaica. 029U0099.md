@@ -34,7 +34,7 @@ Al Governo della Tripolitania e della Cirenaica puo' essere preposto un unico Go
  
  Il Vice-governatore, che puo' anche esser scelto all'infuori del personale dei ruoli coloniali, e' nominato con decretoReale, su proposta del Ministro per le colonie, sentito il Consiglio dei Ministri. 
  
- Il Vice-governatore ha in Colonia rango corrispondente al gruppo 7° della categoria VI del [R. decreto 16 dicembre 1927, n. 2210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-16;2210).
+ Il Vice-governatore ha in Colonia rango corrispondente al gruppo 7° della categoria VI del [R. decreto 16 dicembre 1927, n. 2210](Ordine%20delle%20precedenze%20a%20Corte%20e%20nelle%20funzioni%20pubbliche.%20027U2210.md).
 
 ## Art. 2.
 
@@ -54,7 +54,7 @@ Il Segretario generale sostituisce il Vice-governatore in caso di sua assenza o 
 
 ## Art. 4.
 
-Al Vice-governatore si applicano le disposizioni dell'art. 1 ultimo capoverso del [R. decreto 31 ottobre 1923, n. 2504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2504). 
+Al Vice-governatore si applicano le disposizioni dell'art. 1 ultimo capoverso del [R. decreto 31 ottobre 1923, n. 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md). 
  
  I provvedimenti relativi verranno adottati di concerto col Ministro per le finanze. 
  
@@ -72,7 +72,7 @@ Qualora siavi un Governatore unico della Tripolitania e' della Cirenaica, questi
 
 Il capo di Gabinetto del Governatore e' nominato con decreto Reale, su proposta del Ministro per le colonie, sentito ii Consiglio dei Ministri. Egli, fra le autorita' delle due Colonie, prende il rango che gli compete in relazione al suo grado. 
  
- E' a lui applicabile il disposto dell'art. 1 ultimo capoverso del [R. decreto 31 ottobre 1923, n. 2504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2504). 
+ E' a lui applicabile il disposto dell'art. 1 ultimo capoverso del [R. decreto 31 ottobre 1923, n. 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md). 
  
  I provvedimenti relativi verranno promossi di concerto col Ministro per le finanze.
 
@@ -98,7 +98,7 @@ Con decreto del Ministro per le finanze, di concerto con quello per le colonie, 
 
 ## Art. 11.
 
-Ferma rimanendo la disposizione dell'art. 70 dell'ordinamento amministrativo-contabile per le Colonie, approvato con [R. decreto 26 giugno 1925, n. 1271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-26;1271), in casi di urgenza il Governatore unico della Tripolitania e della Cirenaica, previa autorizzazione telegrafica del Ministro per le colonie, sentito il Ministro per le finanze, potra' provvedere alle variazioni di bilancio di cui al predetto articolo, con suo decreto motivato da comunicarsi immediatamente allo stesso Ministro per le colonie.
+Ferma rimanendo la disposizione dell'art. 70 dell'ordinamento amministrativo-contabile per le Colonie, approvato con [R. decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), in casi di urgenza il Governatore unico della Tripolitania e della Cirenaica, previa autorizzazione telegrafica del Ministro per le colonie, sentito il Ministro per le finanze, potra' provvedere alle variazioni di bilancio di cui al predetto articolo, con suo decreto motivato da comunicarsi immediatamente allo stesso Ministro per le colonie.
 
 ## Art. 12.
 

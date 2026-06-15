@@ -22,11 +22,11 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sono convertiti in legge il [R. decreto-legge 6 novembre 1930, n. 1465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-06;1465), e il [R. decreto-legge 16 febbraio 1931, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-02-16;210), contenenti modificazioni al testo unico di leggi sulla riscossione delle imposte dirette 17 ottobre 1922, n. 1401, con la seguente aggiunta: 
+ Sono convertiti in legge il [R. decreto-legge 6 novembre 1930, n. 1465](Modifiche%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%2017%20ottobre%201922%20n.%201401.%20030U1465.md), e il [R. decreto-legge 16 febbraio 1931, n. 210](Disposizioni%20per%20il%20conferimento%20delle%20esattorie%20delle%20imposte%20dirette%20agli%20effetti%20del%20decennio%201933-1942.%20031U0210.md), contenenti modificazioni al testo unico di leggi sulla riscossione delle imposte dirette 17 ottobre 1922, n. 1401, con la seguente aggiunta: 
  
- Al [R. decreto-legge 16 febbraio 1931, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-02-16;210), e' aggiunto il seguente articolo: 
+ Al [R. decreto-legge 16 febbraio 1931, n. 210](Disposizioni%20per%20il%20conferimento%20delle%20esattorie%20delle%20imposte%20dirette%20agli%20effetti%20del%20decennio%201933-1942.%20031U0210.md), e' aggiunto il seguente articolo: 
  
- «Art. 5-bis. - Nel testo unico, di cui e' autorizzata la formazione dall'[art. 26 del R. decreto-legge 6 novembre 1930, n. 1465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-06;1465#art_26), saranno incluse anche le disposizioni del presente decreto, e coordinate con quelle del [R. decreto-legge 6 novembre 1930, n. 1465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-06;1465), e con le altre disposizioni di legge precedenti». 
+ «Art. 5-bis. - Nel testo unico, di cui e' autorizzata la formazione dall'[art. 26 del R. decreto-legge 6 novembre 1930, n. 1465](Modifiche%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%2017%20ottobre%201922%20n.%201401.%20030U1465.md), saranno incluse anche le disposizioni del presente decreto, e coordinate con quelle del [R. decreto-legge 6 novembre 1930, n. 1465](Modifiche%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%2017%20ottobre%201922%20n.%201401.%20030U1465.md), e con le altre disposizioni di legge precedenti». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

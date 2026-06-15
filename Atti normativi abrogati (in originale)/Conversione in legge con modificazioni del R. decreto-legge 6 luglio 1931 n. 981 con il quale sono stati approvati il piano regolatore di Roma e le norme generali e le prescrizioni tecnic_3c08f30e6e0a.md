@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 luglio 1931, numero 981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-06;981), con il quale sono stati approvati il piano regolatore di Roma e le norme generali e le prescrizioni tecniche della sua attuazione, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 6 luglio 1931, numero 981](Approvazione%20del%20piano%20regolatore%20della%20citta%20di%20Roma%20e%20delle%20norme%20per%20la%20sua%20attuazione.%20031U0981.md), con il quale sono stati approvati il piano regolatore di Roma e le norme generali e le prescrizioni tecniche della sua attuazione, con le seguenti modificazioni: 
  L'art. 3 e' sostituito dal seguente: 
  Con l'approvazione del piano regolatore di massima vengono fissate le direttive e determinati i criteri generali secondo i quali saranno sviluppati e compilati i piani particolareggiati. 
  Il Governatorato provvedera' alla compilazione dei piani particolareggiati di esecuzione delle singole zone od opere comprendenti la planimetria particolareggiata della zona e l'elenco della proprieta' soggette ad espropriazione od a vincolo. 

@@ -25,7 +25,7 @@ VITTORIO EMANUELE III
  Articolo unico. 
  
  
- E' convertito in legge il [R. decreto-legge 3 aprile 1926, n. 632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-04-03;632), riguardante il trasporto degli effetti postali sulle linee di navigazione aerea. 
+ E' convertito in legge il [R. decreto-legge 3 aprile 1926, n. 632](Trasporto%20degli%20effetti%20postali%20sulle%20linee%20di%20navigazione%20aerea.%20026U0632.md), riguardante il trasporto degli effetti postali sulle linee di navigazione aerea. 
  
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 

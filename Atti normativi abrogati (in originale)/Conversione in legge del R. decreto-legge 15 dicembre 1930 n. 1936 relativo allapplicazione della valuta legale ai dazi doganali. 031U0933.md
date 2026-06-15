@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 dicembre 1930, n. 1936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-12-15;1936), relativo all'applicazione della valuta legale ai dazi doganali. 
+ E' convertito in legge il [R. decreto-legge 15 dicembre 1930, n. 1936](Applicazione%20della%20valuta%20legale%20ai%20dazi%20doganali.%20030U1936.md), relativo all'applicazione della valuta legale ai dazi doganali. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 11 giugno 1931 - Anno IX 
  

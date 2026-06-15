@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 5 marzo 1985, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-05;74);
+Vista la [legge 5 marzo 1985, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lattuazione%20della%20direttiva%20comunitaria%20n.%2077-780%20in%20materia%20creditizia.md);
 
 Sentito il parere delle commissioni permanenti delle due Camere competenti per materia sullo schema di decreto trasmesso dal Governo della Repubblica;
 
@@ -97,7 +97,7 @@ Non possono ricoprire cariche d'amministratori e direttori generali ovvero caric
 La disposizione di cui al precedente comma 1 si applica anche a coloro che abbiano svolto funzioni di amministrazione, direzione o controllo in enti e societa' del settore assicurativo o finanziario che siano stati sottoposti alle procedure di amministrazione straordinaria ai sensi della [legge 12 agosto 1982, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576) e della [legge 23 marzo 1983, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;77), ovvero a procedure di fallimento o di liquidazione coatta amministrativa.
 
 Nota all'[art. 4, comma 1: 
- Il r.d.-l. 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_4-com1), convertito nella [legge 7 marzo 1938, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-03-07;141), reca disposizioni per la tutela del risparmio e per la disciplina della funzione creditizia. Il testo degli articoli 57 e 67 di questo r.d.-l. e' il seguente: 
+ Il r.d.-l. 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_4-com1), convertito nella [legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md), reca disposizioni per la tutela del risparmio e per la disciplina della funzione creditizia. Il testo degli articoli 57 e 67 di questo r.d.-l. e' il seguente: 
  "Art. 57. - Con decreto del Ministro per il tesoro, su proposta della Banca d'Italia, sentito il Comitato interministeriale per il credito ed il risparmio, puo' disporsi lo scioglimento degli organi amministrativi di aziende di credito: 
  a) qualora risultino gravi irregolarita' nell'amministrazione delle aziende di credito ovvero gravi violazioni delle norme legali e statutarie che ne regolano l'attivita', oppure gravi infrazioni delle disposizioni emanate dalla Banca d'Italia; 
  b) nel caso in cui risultino gravi perdite del patrimonio; 
@@ -129,7 +129,7 @@ Nota all'[art. 4, comma 1:
 
 Le cariche, comunque denominate, di amministratore, sindaco e direttore generale non possono essere ricoperte da coloro che: 
  1) si trovino in stato di interdizione legale ovvero di interdizione temporanea dagli uffici direttivi delle persone giuridiche e delle imprese; 
- 2) siano sottoposti a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi della [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575) e della [legge 13 settembre 1982, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-09-13;646); 
+ 2) siano sottoposti a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi della [legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md) e della [legge 13 settembre 1982, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-09-13;646); 
  3) siano stati condannati con sentenza irrevocabile, salvi gli effetti della riabilitazione: 
  a) a pena detentiva per uno dei reati previsti nel [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e successive modificazioni ed integrazioni; 
  b) alla reclusione per uno dei delitti previsti nel titolo XI del libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) e nel [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267); 
@@ -137,7 +137,7 @@ Le cariche, comunque denominate, di amministratore, sindaco e direttore generale
  d) alla reclusione per un tempo non inferiore a due anni per un qualunque delitto non colposo.
 
 Nota all'[art. 5, n. 2): 
- La legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575#art_5-num2), reca disposizioni contro la mafia. Tali disposizioni sono state modificate ed integrate con le [leggi 13 settembre 1982, n. 646, 12 ottobre 1982, n. 726 e 23 dicembre 1982, n. 936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-23;936). Il testo aggiornato della [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575), e' stato pubblicato nella Gazzetta Ufficiale n. 162 del 15 giugno 1982, supplemento ordinario (avviso di rettifica nella Gazzetta Ufficiale n. 307 del 9 novembre 1983). 
+ La legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), reca disposizioni contro la mafia. Tali disposizioni sono state modificate ed integrate con le [leggi 13 settembre 1982, n. 646, 12 ottobre 1982, n. 726 e 23 dicembre 1982, n. 936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-23;936). Il testo aggiornato della [legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), e' stato pubblicato nella Gazzetta Ufficiale n. 162 del 15 giugno 1982, supplemento ordinario (avviso di rettifica nella Gazzetta Ufficiale n. 307 del 9 novembre 1983). 
  Note all'art. 5, n. 3): 
  - I reati previsti dal [r.d.-l. 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375) (v. nota all'art. 4, comma 1) sono disciplinati nel titolo VIII di detto testo normativo. 
  - Il [r.d.-l. 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-03-16;267), concerne disciplina del fallimento, del concordato preventivo, dell'amministrazione controllata e della liquidazione coatta amministrativa.
@@ -245,12 +245,12 @@ Nota all'art. 13, comma 1:
  c) il capitale o fondo di dotazione e le riserve secondo le risultanze dell'ultimo bilancio; 
  d) la sede centrale e quella delle sedi e filiali. 
  L'iscrizione nell'albo ha luogo: 
- 1) d'ufficio, per le aziende gia' iscritte nell'albo esistente presso il Ministero delle finanze, in base agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-07;1511#art_1) e [2 del r.d.-l. 7 settembre 1926, n. 1511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-07;1511#art_2); 
+ 1) d'ufficio, per le aziende gia' iscritte nell'albo esistente presso il Ministero delle finanze, in base agli [articoli 1](Provvedimenti%20per%20la%20tutela%20del%20risparmio.%20026U1511.md) e [2 del r.d.-l. 7 settembre 1926, n. 1511](Provvedimenti%20per%20la%20tutela%20del%20risparmio.%20026U1511.md); 
  2) dietro domanda alla Banca d'Italia per le aziende che intendono iniziare la propria attivita'".
 
 ## Art. 14.
 
-Le regioni a statuto speciale alle quali sono riconosciuti, in base alle norme di attuazione dei rispettivi statuti, poteri in materia di autorizzazione all'esercizio dell'attivita' degli enti creditizi nel territorio regionale, provvedono ad emanare, entro centottanta giorni dall'entrata in vigore del presente decreto, norme di recepimento della direttiva del Consiglio delle Comunita' europee del 12 dicembre 1977, n. 780, nei limiti dei principi fondamentali risultanti dalla [legge 5 marzo 1985, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-05;74), e dalle norme previste nel decreto stesso.
+Le regioni a statuto speciale alle quali sono riconosciuti, in base alle norme di attuazione dei rispettivi statuti, poteri in materia di autorizzazione all'esercizio dell'attivita' degli enti creditizi nel territorio regionale, provvedono ad emanare, entro centottanta giorni dall'entrata in vigore del presente decreto, norme di recepimento della direttiva del Consiglio delle Comunita' europee del 12 dicembre 1977, n. 780, nei limiti dei principi fondamentali risultanti dalla [legge 5 marzo 1985, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lattuazione%20della%20direttiva%20comunitaria%20n.%2077-780%20in%20materia%20creditizia.md), e dalle norme previste nel decreto stesso.
 
 Nota all'art. 14: 
  V. la nota al titolo.

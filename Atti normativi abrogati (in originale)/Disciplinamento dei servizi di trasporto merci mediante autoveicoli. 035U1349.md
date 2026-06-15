@@ -102,7 +102,7 @@ Per le concessioni di servizi pubblici di linea per trasporto di merci, di nuova
  
  Qualora il diritto di prelazione venga invocato da aziende diverse, la decisione spetta al Ministero delle comunicazioni - Ispettorato generale delle ferrovie, tramvie ed automobili. 
  
- In ogni caso restano ferme le disposizioni di cui all'[art. 2 del R. decreto-legge 14 ottobre 1932, n. 1496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-10-14;1496#art_2).
+ In ogni caso restano ferme le disposizioni di cui all'[art. 2 del R. decreto-legge 14 ottobre 1932, n. 1496](Provvedimenti%20per%20fronteggiare%20la%20crisi%20dei%20trasporti%20in%20concessione%20alla%20industria%20privata.%20032U1496.md).
 
 ### Art. 12.
 
@@ -184,7 +184,7 @@ Quando sia riconosciuto opportuno l'impianto di una stazione ad uso di una o piu
 
 ### Art. 19.
 
-Gli ufficiali ed agenti della forza pubblica, incaricati della prevenzione e dell'accertamento delle contravvenzioni sulla circolazione stradale a termini dell'[art. 122 del R. decreto 8 dicembre 1933, n. 1740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-08;1740#art_122), sono anche incaricati della prevenzione e dell'accertamento di quelle di cui alla presente legge. 
+Gli ufficiali ed agenti della forza pubblica, incaricati della prevenzione e dell'accertamento delle contravvenzioni sulla circolazione stradale a termini dell'[art. 122 del R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), sono anche incaricati della prevenzione e dell'accertamento di quelle di cui alla presente legge. 
  
  Tra gli ufficiali ed agenti medesimi sono altresi' da comprendere gli ufficiali, sottufficiali e militi delle Milizie speciali ferroviaria, portuale e postale.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1652), riguardante la sistemazione del bilancio dell'Opera nazionale Balilla. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1652](Sistemazione%20del%20bilancio%20dellOpera%20nazionale%20Balilla.%20034U1652.md), riguardante la sistemazione del bilancio dell'Opera nazionale Balilla. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

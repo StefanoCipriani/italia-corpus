@@ -34,7 +34,7 @@ Le materie prime gia' assegnate alle industrie per l'espletamento di commesse be
 
 ## Art. 5.
 
-Le disposizioni contenute nel [R. decreto-legge 14 gennaio 1941, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-01-14;27), convertito nella [legge 11 aprile 1941, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-11;289), sono estese ai pagamenti relativi a contratti stipulati o da stipulare ed a commesse disposte o da disporre per spese straordinarie per esigenze dell'attuale guerra di competenza del Ministero della produzione bellica. 
+Le disposizioni contenute nel [R. decreto-legge 14 gennaio 1941, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-01-14;27), convertito nella [legge 11 aprile 1941, n. 289](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201941-XIX%20n.%2027%20contenente%20provvedimenti%20per%20il%20finanziamento%20delle%20spese%20straordinarie%20per%20esigenze%20belliche.%20041U0289.md), sono estese ai pagamenti relativi a contratti stipulati o da stipulare ed a commesse disposte o da disporre per spese straordinarie per esigenze dell'attuale guerra di competenza del Ministero della produzione bellica. 
  
  Le Amministrazioni della guerra, della marina, dell'aeronautica e della produzione bellica emettono i decreti di riconoscimento di credito in base agli accertamenti che ciascuna Amministrazione riterra' idonei a suo insindacabile giudizio. 
  

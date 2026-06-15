@@ -36,7 +36,7 @@ Il Ministero del lavoro e della previdenza sociale adotta i conseguenti provvedi
 
 4.
 
-Le imprese di cui al comma 1 sono tenute, per gli anni 1993 e 1994, al versamento di un contributo speciale pari a 1 punto percentuale e a 0,3 punti percentuali della retribuzione determinata a norma dell'[articolo 12 della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_12), rispettivamente a carico dei datori di lavoro e dei lavoratori, nonche' di un contributo addizionale pari a quello previsto dall'[articolo 8, comma 1, del decreto-legge 21 marzo 1988, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-21;86#art_8-com1), convertito, con modificazioni, dalla [legge 20 maggio 1988, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-20;160), relativamente ai lavoratori che percepiscono l'indennita' di cui al comma 1.
+Le imprese di cui al comma 1 sono tenute, per gli anni 1993 e 1994, al versamento di un contributo speciale pari a 1 punto percentuale e a 0,3 punti percentuali della retribuzione determinata a norma dell'[articolo 12 della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_12), rispettivamente a carico dei datori di lavoro e dei lavoratori, nonche' di un contributo addizionale pari a quello previsto dall'[articolo 8, comma 1, del decreto-legge 21 marzo 1988, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-21;86#art_8-com1), convertito, con modificazioni, dalla [legge 20 maggio 1988, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20marzo%201988%20n.%2086%20recante%20norme%20in%20materia%20previdenziale%20di%20occupazione%20giovanile%20e%20di%20mercato%20del%20lavoro%20nonche%20per%20il%20potenzia_d8243932aa59.md), relativamente ai lavoratori che percepiscono l'indennita' di cui al comma 1.
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ Ai lavoratori gia' in servizio alla data del 1' gennaio 1992 e dipendenti dalle 
 
 2.
 
-Nei confronti dei lavoratori dipendenti dalle imprese e dei soggetti indicati al comma 1 non si applica la sospensione dal diritto ai trattamenti pensionistici di anzianita', stabilita dall'[articolo 1, comma 1, del decreto-legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_1-com1), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-14;438).
+Nei confronti dei lavoratori dipendenti dalle imprese e dei soggetti indicati al comma 1 non si applica la sospensione dal diritto ai trattamenti pensionistici di anzianita', stabilita dall'[articolo 1, comma 1, del decreto-legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_1-com1), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201992%20n.%20384%20recante%20misure%20urgenti%20in%20materia%20di%20previdenza%20di%20sanita%20e%20di%20pubblico%20impiego%20nonche%20disposizioni%20fiscali.md).
 
 3.
 

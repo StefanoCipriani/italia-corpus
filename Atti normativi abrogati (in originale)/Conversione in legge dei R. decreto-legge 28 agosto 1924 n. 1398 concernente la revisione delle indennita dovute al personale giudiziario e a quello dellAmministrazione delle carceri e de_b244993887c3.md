@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 agosto 1924, n. 1398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-08-28;1398): «Revisione delle indennita' dovute al personale giudiziario ed a quello dell'Amministrazione delle carceri e dei riformatori, in applicazione dell'art. 189 dell'ordinamento gerarchico dell'Amministrazione dello Stato». 
+ E' convertito in legge il [R. decreto-legge 28 agosto 1924, n. 1398](Revisione%20delle%20indennita%20dovute%20al%20personale%20giudiziario%20ed%20a%20quello%20dellAmministrazione%20delle%20carceri%20e%20dei%20riformatori%20in%20applicazione%20dellart.%20189%20dellordinamento%20gerarchico%20delle%20Amm_44d29c0ba159.md): «Revisione delle indennita' dovute al personale giudiziario ed a quello dell'Amministrazione delle carceri e dei riformatori, in applicazione dell'art. 189 dell'ordinamento gerarchico dell'Amministrazione dello Stato». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

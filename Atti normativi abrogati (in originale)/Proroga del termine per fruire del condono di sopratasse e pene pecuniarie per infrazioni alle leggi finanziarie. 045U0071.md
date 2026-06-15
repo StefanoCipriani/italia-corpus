@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [decreto legislativo Luogotenenziale 26 ottobre 1944, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-26;261);
+Visto il [decreto legislativo Luogotenenziale 26 ottobre 1944, n. 261](../Decreti%20legislativi%20luogotenenziali/Condono%20di%20sopratasse%20e%20pene%20pecuniarie%20per%20infrazioni%20alle%20leggi%20finanziarie.%20044U0261.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le finanze, di concerto con quello per la grazia
 
 ## Articolo unico.
 
-E' fissato in duecentodieci giorni il termine stabilito dall'[art 7 del decreto legislativo Luogotenenziale 26 ottobre 1944, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-26;261#art_7), per fruire del condono delle sopratasse e pene pecuniarie per infrazioni alle leggi finanziarie contemplate nel citato decreto legislativo Luogotenenziale. 
+E' fissato in duecentodieci giorni il termine stabilito dall'[art 7 del decreto legislativo Luogotenenziale 26 ottobre 1944, n. 261](../Decreti%20legislativi%20luogotenenziali/Condono%20di%20sopratasse%20e%20pene%20pecuniarie%20per%20infrazioni%20alle%20leggi%20finanziarie.%20044U0261.md), per fruire del condono delle sopratasse e pene pecuniarie per infrazioni alle leggi finanziarie contemplate nel citato decreto legislativo Luogotenenziale. 
  
 Ordiniamo, a chiunque spetti, di osservare il presente decreto e di farlo osservare come legge dello Stato. 
  

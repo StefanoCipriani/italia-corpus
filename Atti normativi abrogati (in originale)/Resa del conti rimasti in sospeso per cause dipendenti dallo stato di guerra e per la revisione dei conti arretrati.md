@@ -16,7 +16,7 @@ Visto il [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-r
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [regio decreto-legge 9 febbraio 1939, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-09;273), e sentita la Corte dei conti;
 
@@ -66,7 +66,7 @@ Per i conti rimasti sospesi a tutto l'esercizio finanziario 1946-47, per eventi 
 
 La costituzione degli uffici di cui al precedente articolo 6 non potra' dar luogo ad aumento di organici del personale.
  Il personale dei ruoli centrali distaccato presso i predetti uffici e' collocato nella posizione di "comando" nei limiti numerici e di grado che saranno determinati con decreti Ministeriali da adottare di concerto col Ministro per il tesoro.
- A detto personale si applicano le disposizioni di cui all'[art. 8 del decreto luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320#art_8), e successive modificazioni.
+ A detto personale si applicano le disposizioni di cui all'[art. 8 del decreto luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md), e successive modificazioni.
 
 ## Art. 8.
 

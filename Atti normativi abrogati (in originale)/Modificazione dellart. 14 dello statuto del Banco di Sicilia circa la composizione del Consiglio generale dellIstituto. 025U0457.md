@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto il testo unico delle leggi sugli istituti di emissione, approvato con [R. decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204);
 
-Visto il [R. decreto 2 agosto 1908, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-08-02;584), col quale fu approvato lo statuto del Banco di Sicilia;
+Visto il [R. decreto 2 agosto 1908, n. 584](Che%20approva%20lannesso%20statuto%20del%20Banco%20di%20Sicilia.%20008U0584.md), col quale fu approvato lo statuto del Banco di Sicilia;
 
-Visto il [R. decreto 26 gennaio 1913, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-26;82), il [decreto-legge Luogotenenziale 28 febbraio 1916, n. 181](Che%20modifica%20due%20articoli%20dello%20statuto%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20016U0181.md), e i [Regi decreti 16 novembre 1919, n. 2353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-16;2353); [5 gennaio 1922, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-05;213), e [3 giugno 1924, n. 1446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-03;1446), coi quali furono apportate modificazioni e aggiunte al detto statuto;
+Visto il [R. decreto 26 gennaio 1913, n. 82](Col%20quale%20vengono%20apportate%20modificazioni%20ed%20aggiunte%20allo%20statuto%20del%20Banco%20di%20Sicilia.%20013U0082.md), il [decreto-legge Luogotenenziale 28 febbraio 1916, n. 181](Che%20modifica%20due%20articoli%20dello%20statuto%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20016U0181.md), e i [Regi decreti 16 novembre 1919, n. 2353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-16;2353); [5 gennaio 1922, n. 213](Che%20apporta%20modificazioni%20allo%20statuto%20del%20banco%20di%20Sicilia.%20022U0213.md), e [3 giugno 1924, n. 1446](Modificazioni%20allo%20statuto%20del%20Banco%20di%20Sicilia.%20024U1446.md), coi quali furono apportate modificazioni e aggiunte al detto statuto;
 
 Veduto il voto espresso dal Consiglio generale del Banco di Sicilia, in seduta 12 aprile 1924, per una equiparazione delle varie provincie dell'Isola agli effetti della rappresentanza nel Consiglio medesimo;
 

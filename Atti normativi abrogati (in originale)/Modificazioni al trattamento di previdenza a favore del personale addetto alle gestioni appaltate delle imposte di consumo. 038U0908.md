@@ -36,7 +36,7 @@ Al fondo di previdenza, istituito ai sensi dell'art. 316 del regolamento approva
 
 Si provvede agli scopi di cui all'art. 1 mediante un contributo del 12,50%, calcolato sull'intera retribuzione corrisposta al personale. 
  
- Detto contributo e' comprensivo di quello per l'assicurazione obbligatoria invalidita' e vecchiaia, a norma del [Regio decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito nella [legge 6 aprile 1936, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155). 
+ Detto contributo e' comprensivo di quello per l'assicurazione obbligatoria invalidita' e vecchiaia, a norma del [Regio decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md). 
  
  Il contributo e' per l'8,50% a carico della gestione e per il 4% a carico del personale. L'esercente della gestione e' responsabile verso il fondo dell'intero contributo, con diritto di trattenere sulla retribuzione la parte a carico del personale. 
  

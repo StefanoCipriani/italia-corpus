@@ -79,11 +79,11 @@ Per l'esercizio 1930-31 e' sospesa l'iascrizione, tra le spese complementari del
 
 ## Art. 11.
 
-E' prorogata al 30 giugno 1932, l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-26;1237).
+E' prorogata al 30 giugno 1932, l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md).
 
 ## Art. 12.
 
-In dipendenza del [R. decreto 13 gennaio 1931, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-13;724), che approva l'ordinamento della categoria «Servizi portuali» del C. R. E. M., il Ministro per le finanze ha facolta' di provvedere, con suo decreto, al passaggio, dal bilancio del Ministero delle comunicazioni a quello della marina, dei fondi gia' stanziati per stipendi, paghe ed assegni fissi degli attuali sottufficiali di porto. 
+In dipendenza del [R. decreto 13 gennaio 1931, n. 724](Ordinamento%20della%20categoria%20Servizi%20portuali%20del%20Corpo%20Reale%20equipaggi%20marittimi.%20031U0724.md), che approva l'ordinamento della categoria «Servizi portuali» del C. R. E. M., il Ministro per le finanze ha facolta' di provvedere, con suo decreto, al passaggio, dal bilancio del Ministero delle comunicazioni a quello della marina, dei fondi gia' stanziati per stipendi, paghe ed assegni fissi degli attuali sottufficiali di porto. 
  
  Questo decreto andra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

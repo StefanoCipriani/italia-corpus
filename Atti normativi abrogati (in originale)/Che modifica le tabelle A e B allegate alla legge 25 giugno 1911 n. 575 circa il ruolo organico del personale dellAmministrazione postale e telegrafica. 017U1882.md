@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'[art. 7 del R. decreto 22 gennaio 1914, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-22;19#art_7) e la tabella F al decreto stesso allegata; 
  
- Visti: il [R. decreto 9 luglio 1914, n. 1074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-07-09;1074), nonche' i Nostri decreti 11 luglio 1915, n. 1460; 27 febbraio 1916, n. 290; 7 maggio 1916, n. 636; 25 maggio 1916, n. 1397, e 5 ottobre 1916, n. 1487, portanti aumento e soppressione di posti nei ruoli organici dell'Amministrazione delle poste e dei telegrafi per supplire alle speciali esigenze dei servizi postali ed elettrici nell'Amministrazione centrale delle colonie; 
+ Visti: il [R. decreto 9 luglio 1914, n. 1074](Riguardanti%20un%20aumento%20nei%20ruoli%20organici%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20014U1074.md), nonche' i Nostri decreti 11 luglio 1915, n. 1460; 27 febbraio 1916, n. 290; 7 maggio 1916, n. 636; 25 maggio 1916, n. 1397, e 5 ottobre 1916, n. 1487, portanti aumento e soppressione di posti nei ruoli organici dell'Amministrazione delle poste e dei telegrafi per supplire alle speciali esigenze dei servizi postali ed elettrici nell'Amministrazione centrale delle colonie; 
  
  Ritenuto che pel normale svolgimento dei ruoli dell'Amministrazione postale e telegrafica, sia ora necessario di sostituire alcuni posti con altri ai quali e' annesso uno stipendio annuo superiore; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Nel ruolo organico dell'Amministrazione delle poste e dei telegrafi di cui nelle tabelle A e B approvate con la [legge 25 giugno 1911, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;575), sono soppressi: 
+ Nel ruolo organico dell'Amministrazione delle poste e dei telegrafi di cui nelle tabelle A e B approvate con la [legge 25 giugno 1911, n. 575](Per%20i%20provvedimenti%20relativi%20agli%20anziani%20ed%20allelevazione%20dei%20minimi%20di%20stipendio%20del%20personale%20dipendente%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20011U0575.md), sono soppressi: 
  
  a) un posto di primo segretario con lo stipendio annuo di lire tremilacinquecento (L. 3500), a decorrere dal 1° gennaio 1917. 
  

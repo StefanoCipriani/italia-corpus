@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-All'art. 230, primo comma, del regolamento approvato con [regio decreto 31 dicembre 1924, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-31;2262), dopo le parole "possono concedersi soprassoldi ai salariati" e' soppressa la locuzione "esclusi gli operai giornalieri".
+All'art. 230, primo comma, del regolamento approvato con [regio decreto 31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), dopo le parole "possono concedersi soprassoldi ai salariati" e' soppressa la locuzione "esclusi gli operai giornalieri".
 
 ## Art. 2.
 
@@ -36,7 +36,7 @@ L'ultimo comma dell'art. 232 dello stesso regio decreto e' sostituito dal seguen
 
 ## Art. 4.
 
-Dall'osservanza delle norme di cui al capo XXI del [regio decreto 31 dicembre 1924, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-31;2262), si prescinde nei riguardi dei salariati dipendenti dalla Amministrazione dei monopoli di Stato, per i quali il titolo e le misure degli eventuali soprassoldi saranno determinati con decreto dell'Amministrazione stessa in relazione alle specifiche esigenze delle proprie lavorazioni, d'intesa col Ministro per il tesoro.
+Dall'osservanza delle norme di cui al capo XXI del [regio decreto 31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), si prescinde nei riguardi dei salariati dipendenti dalla Amministrazione dei monopoli di Stato, per i quali il titolo e le misure degli eventuali soprassoldi saranno determinati con decreto dell'Amministrazione stessa in relazione alle specifiche esigenze delle proprie lavorazioni, d'intesa col Ministro per il tesoro.
 
 ## Art. 5.
 

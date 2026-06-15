@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dell'Amministrazione della guerra, approvato con [R. decreto 14 luglio 1898, n. 525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;525), modificato con le [leggi 17 luglio 1910, nn. 515 e 531](Modificazioni%20al%20testo%20unico%20delle%20leggi%20di%20ordinamento%20del%20R.%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20della%20guerra%20nella%20parte%20riguardante%20i%20personali%20amministrativi.%20010U0531.md);
+Visto il testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dell'Amministrazione della guerra, approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), modificato con le [leggi 17 luglio 1910, nn. 515 e 531](Modificazioni%20al%20testo%20unico%20delle%20leggi%20di%20ordinamento%20del%20R.%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20della%20guerra%20nella%20parte%20riguardante%20i%20personali%20amministrativi.%20010U0531.md);
 
 Vista la [legge 25 gennaio 1888, n. 5177](Sugli%20obblighi%20di%20servizio%20degli%20ufficiali%20in%20congedo.%20088U5177.md), relativa agli obblighi di servizio degli ufficiali in congedo;
 

@@ -22,8 +22,8 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 novembre 1930, n. 1734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-24;1734), che da' facolta' al Ministro per l'educazione nazionale di procedere ad una revisione di tutte le concessioni di «lauree ad honorem», con l'aggiunta del seguente comma all'art. 1 del decreto:  
- «L'ultimo capoverso dell'[art. 17 del R. decreto-legge 27 ottobre 1926, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-10-27;1933#art_17), convertito nella [legge 9 giugno 1927, n. 1084](Conversione%20in%20legge%20del%20R.%20decreto%2027%20ottobre%201926%20n.%201933%20che%20reca%20disposizioni%20concernenti%20listruzione%20superiore.%20027U1084.md), e' abrogato». 
+ E' convertito in legge il [R. decreto-legge 24 novembre 1930, n. 1734](Facolta%20al%20Ministro%20per%20leducazione%20nazionale%20di%20procedere%20ad%20una%20revisione%20di%20tutte%20le%20concessioni%20di%20lauree%20ad%20honorem.%20030U1734.md), che da' facolta' al Ministro per l'educazione nazionale di procedere ad una revisione di tutte le concessioni di «lauree ad honorem», con l'aggiunta del seguente comma all'art. 1 del decreto:  
+ «L'ultimo capoverso dell'[art. 17 del R. decreto-legge 27 ottobre 1926, n. 1933](Disposizioni%20concernenti%20listruzione%20superiore.%20026U1933.md), convertito nella [legge 9 giugno 1927, n. 1084](Conversione%20in%20legge%20del%20R.%20decreto%2027%20ottobre%201926%20n.%201933%20che%20reca%20disposizioni%20concernenti%20listruzione%20superiore.%20027U1084.md), e' abrogato». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1994, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1994-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), recante norme sull'Amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
-Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-26;172), e successive modificazioni;
+Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 172](../Decreti%20legislativi%20luogotenenziali/Abrogazione%20del%20R.%20decreto-legge%2021%20giugno%201940%20n.%20856%20e%20temporaneo%20aumento%20dei%20limiti%20di%20Spesa%20previsti%20dalla%20legge%20e%20dal%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20e%20dallart.%2018%20de_b480d758d3e6.md), e successive modificazioni;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 24 maggio 1947, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-24;566), concernente l'aumento a L. 30.000.000 del limite stabilito con l'[art. 10 del decreto legislativo Presidenziale 1 luglio 1946, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-07-01;31#art_10), per l'emissione a favore degli Ispettorati provinciali dell'agricoltura, di ordini di accreditamento previsti dall'[art. 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56);
 

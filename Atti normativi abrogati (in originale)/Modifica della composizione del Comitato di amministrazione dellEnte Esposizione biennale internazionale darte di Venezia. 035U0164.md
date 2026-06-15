@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'[art. 5 del R. decreto-legge 13 gennaio 1930, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-01-13;33#art_5), che istituisce un Ente autonomo denominato «Esposizione biennale d'arte di Venezia» e' sostituito dal seguente: 
+ L'[art. 5 del R. decreto-legge 13 gennaio 1930, n. 33](Istituzione%20di%20un%20Ente%20autonomo%20denominato%20Esposizione%20biennale%20internazionale%20darte%20con%20sede%20in%20Venezia.%20030U0033.md), che istituisce un Ente autonomo denominato «Esposizione biennale d'arte di Venezia» e' sostituito dal seguente: 
  
  «L'Ente autonomo e' amministrato da un Comitato composto di sette membri, nominati con decreto del Capo del Governo, Primo Ministro Segretario di Stato, due su proposta del Ministro per l'educazione nazionale, due su proposta del Ministro per le corporazioni, uno su proposta del Ministro per l'interno, in base a designazione del podesta' di Venezia, uno su proposta del Segretario di Partito Nazionale Fascista in rappresentanza del Partito stesso ed uno in rappresentanza dell'organizzazione sindacale giuridicamente riconosciuta delle belle arti, designato dall'organizzazione stessa pel tramite della Confederazione fascista dei professionisti ed artisti». 
  

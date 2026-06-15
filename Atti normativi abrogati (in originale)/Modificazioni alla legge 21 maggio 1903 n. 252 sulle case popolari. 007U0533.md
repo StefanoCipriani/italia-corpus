@@ -11,7 +11,7 @@ vigente: true
 ## Art. 1.
 
 Il Ministero d'agricoltura puo' autorizzare le associazioni o imprese tontinarie o di ripartizione ad impiegare l'ammontare delle somme versate dagli associati e degl'interessi corrispondenti, oltre che nei modi indicati nell'[art. 3 della legge 26 gennaio 1902, n. 9](Sulle%20associazioni%20o%20imprese%20tontinarie%20o%20di%20ripartizione.%20002U0009.md):  
- 1° in prestiti per le case popolari alle condizioni stabilite dalla [legge 31 maggio 1903, n. 254](Sulle%20case%20popolari.%20003U0254.md) e dal regolamento per l'esecuzione di essa, approvato con [R. decreto 24 aprile 1904, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-04-24;164); 
+ 1° in prestiti per le case popolari alle condizioni stabilite dalla [legge 31 maggio 1903, n. 254](Sulle%20case%20popolari.%20003U0254.md) e dal regolamento per l'esecuzione di essa, approvato con [R. decreto 24 aprile 1904, n. 164](Che%20approva%20il%20regolamento%20per%20la%20costruzione%20di%20case%20popolari.%20004U0164.md); 
  
  2° in acquisto di beni immobili urbani; 
  

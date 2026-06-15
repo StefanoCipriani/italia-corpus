@@ -62,7 +62,7 @@ Gli ufficiali della Milizia nazionale forestale sono riuniti in unico ruolo, sec
 
 ## Art. 6.
 
-Gli effettivi massimi di sottufficiali e di truppa previsti nella tabella B, unita alla presente legge, saranno raggiunti, anziche' nel termine dell'anno 1933, fissato dall'[art. 2 del R. decreto-legge 29 gennaio 1928, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-01-29;162#art_2), entro l'anno 1935, gradualmente, in modo che al 1° luglio di ciascun anno risultino coperti 165 posti in piu' del numero di quelli coperti al 1° luglio dell'anno precedente.
+Gli effettivi massimi di sottufficiali e di truppa previsti nella tabella B, unita alla presente legge, saranno raggiunti, anziche' nel termine dell'anno 1933, fissato dall'[art. 2 del R. decreto-legge 29 gennaio 1928, n. 162](Modificazioni%20allordinamento%20della%20Milizia%20nazionale%20forestale%20e%20dellAzienda%20foreste%20demaniali.%20028U0162.md), entro l'anno 1935, gradualmente, in modo che al 1° luglio di ciascun anno risultino coperti 165 posti in piu' del numero di quelli coperti al 1° luglio dell'anno precedente.
 
 ## Art. 7.
 

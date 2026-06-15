@@ -18,9 +18,9 @@ per grazia di Dio e per volonta' della Nazioni
 
 RE D'ITALIA
 
-In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visti la [legge 6 marzo 1898, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;59), ed il regolamento 4 settembre stesso anno n. 444 sull'avanzamento dei Corpi militari della R. marina, nonche' le successive leggi e decreti che vi apportarono modificazioni ed aggiunte;
+Visti la [legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md), ed il regolamento 4 settembre stesso anno n. 444 sull'avanzamento dei Corpi militari della R. marina, nonche' le successive leggi e decreti che vi apportarono modificazioni ed aggiunte;
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro della marina; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Il secondo capoverso dell'[art. 26 della legge 6 marzo 1898, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;59#art_26), relativo alle promozioni per merito eccezionale, e' abrogato e sostituito dal seguente: 
+Il secondo capoverso dell'[art. 26 della legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md), relativo alle promozioni per merito eccezionale, e' abrogato e sostituito dal seguente: 
  
  «Le proposte per queste promozioni eccezionali non potranno aver corso se non nei riguardi di quegli ufficiali che posseggono le prescritte condizioni minime di permanenza nel grado e, quando accettate dal ministro, saranno con speciale relazione sottoposte alla sanzione Sovrana, previo il parere favorevole della Commissione suprema di avanzamento, prevista dall'art. 28, che potra' essere convocata anche straordinariamente. 
  

@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 9 maggio 1940, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;369), sullo stato degli ufficiali del Regio esercito, e successive modificazioni;
+Vista la [legge 9 maggio 1940, n. 369](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0369.md), sullo stato degli ufficiali del Regio esercito, e successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1914, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1914-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la guerra, d'intesa con i Ministri per l'interno
 
 ## Art. 1.
 
-I limiti di eta' previsti dall'[art. 31 della legge 9 maggio 1940, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;369#art_31), per gli ufficiali appartenenti all'Arma dei carabinieri Reali, sono modificati come seguente tabella: 
+I limiti di eta' previsti dall'[art. 31 della legge 9 maggio 1940, n. 369](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0369.md), per gli ufficiali appartenenti all'Arma dei carabinieri Reali, sono modificati come seguente tabella: 
 
  Parte di provvedimento in formato grafico
 

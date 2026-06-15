@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico di leggi approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), libro III, ed il testo unico approvato con [decreto Luogotenenziale 17 giugno 1915, n. 968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-17;968), contenenti le disposizioni sugli Istituti di previdenza;
+Visto il testo unico di leggi approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), libro III, ed il testo unico approvato con [decreto Luogotenenziale 17 giugno 1915, n. 968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-17;968), contenenti le disposizioni sugli Istituti di previdenza;
 
 Visti i regolamenti per gli Istituti di previdenza approvati con [decreto Luogotenenziale 7 gennaio 1917, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-07;295);
 

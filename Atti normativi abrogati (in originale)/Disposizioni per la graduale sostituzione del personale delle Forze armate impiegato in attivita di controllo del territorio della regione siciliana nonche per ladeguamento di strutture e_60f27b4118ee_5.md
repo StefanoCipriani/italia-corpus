@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto-legge 25 luglio 1992, n. 349](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-23;386);
+Visto il [decreto-legge 25 luglio 1992, n. 349](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20luglio%201992%20n.%20349%20recante%20misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md);
 
-Visto il [decreto-legge 30 dicembre 1993, n. 551](Disposizioni%20urgenti%20relative%20allo%20svolgimento%20della%20missione%20umanitaria%20in%20Somalia%20e%20Monzambico.md), convertito, con modificazioni, dalla [legge 22 febbraio 1994, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;125);
+Visto il [decreto-legge 30 dicembre 1993, n. 551](Disposizioni%20urgenti%20relative%20allo%20svolgimento%20della%20missione%20umanitaria%20in%20Somalia%20e%20Monzambico.md), convertito, con modificazioni, dalla [legge 22 febbraio 1994, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20551%20recante%20disposizioni%20urgenti%20relative%20allo%20svolgimento%20della%20missione%20umanitaria%20in%20Somalia%20e%20Mozambico.md);
 
 Visto il [decreto-legge 29 agosto 1994, n. 521](Disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missioni%20umanitarie%20allestero_2.md), convertito dalla [legge 27 ottobre 1994, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;559);
 
@@ -22,7 +22,7 @@ Ritenuta la straordinaria necessita' ed urgenza di utilizzare contingenti di For
 
 Ritenuta la straordinaria necessita' ed urgenza di proseguire nell'attuazione del programma di sostituzione, con ulteriore personale delle Forze di polizia, dei contingenti di Forze armate impiegati nei predetti servizi, programma avviato con la sostituzione del contingente militare impiegato nella provincia di Napoli e nelle province della regione Calabria;
 
-Ravvisata la straordinaria necessita' ed urgenza di disporre di piu' rapidi e agili strumenti di reclutamento del personale, nonche' di rafforzare talune strutture e funzioni, al fine di intensificare la lotta contro la criminalita' organizzata nei settori del controllo del traffico di stupefacenti e di apportare i necessari adeguamenti ai [decreti legislativi 12 maggio 1995, n. 198 e n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;199), concernenti il riordino delle carriere del personale, rispettivamente, dell'Arma dei carabinieri e della Guardia di finanza;
+Ravvisata la straordinaria necessita' ed urgenza di disporre di piu' rapidi e agili strumenti di reclutamento del personale, nonche' di rafforzare talune strutture e funzioni, al fine di intensificare la lotta contro la criminalita' organizzata nei settori del controllo del traffico di stupefacenti e di apportare i necessari adeguamenti ai [decreti legislativi 12 maggio 1995, n. 198 e n. 199](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20nuovo%20inquadramento%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20della%20Guardia%20di%20finanza.md), concernenti il riordino delle carriere del personale, rispettivamente, dell'Arma dei carabinieri e della Guardia di finanza;
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare disposizioni in favore dei soggetti interessati alla chiamata alle armi residenti nei comuni colpiti da alluvione nel 1994;
 
@@ -36,7 +36,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Le disposizioni dell'[articolo 1](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md) e dell'[articolo 3, comma 1, del decreto-legge 25 luglio 1992, n. 349](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-23;386), continuano ad applicarsi nelle province della Calabria fino al 31 dicembre 1995 e nelle province della Sicilia fino al 31 dicembre 1996. I comandi militari di regione, competenti per territorio, provvedono alle spese relative ai compensi dovuti per gli alloggiamenti forniti dai comuni o dai privati al personale militare impiegato, in deroga alle vigenti norme, anche per quanto attiene alle tariffe ed ai limiti temporali di permanenza fuori sede disciplinati dalle predette norme.
+Le disposizioni dell'[articolo 1](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md) e dell'[articolo 3, comma 1, del decreto-legge 25 luglio 1992, n. 349](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20luglio%201992%20n.%20349%20recante%20misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), continuano ad applicarsi nelle province della Calabria fino al 31 dicembre 1995 e nelle province della Sicilia fino al 31 dicembre 1996. I comandi militari di regione, competenti per territorio, provvedono alle spese relative ai compensi dovuti per gli alloggiamenti forniti dai comuni o dai privati al personale militare impiegato, in deroga alle vigenti norme, anche per quanto attiene alle tariffe ed ai limiti temporali di permanenza fuori sede disciplinati dalle predette norme.
 
 2.
 
@@ -55,7 +55,7 @@ All'[articolo 1 della legge 15 gennaio 1991, n. 16](https://www.normattiva.it/ur
 
 2.
 
-Al [decreto legislativo 12 maggio 1995, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;199), sono apportate le seguenti modificazioni:
+Al [decreto legislativo 12 maggio 1995, n. 199](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20nuovo%20inquadramento%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20della%20Guardia%20di%20finanza.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 36, il numero 4) del comma 5, lettera a), e' soppresso;
                         b)
@@ -64,7 +64,7 @@ Al [decreto legislativo 12 maggio 1995, n. 199](https://www.normattiva.it/uri-re
 
 3.
 
-Per gli inquadramenti del personale dell'Arma dei carabinieri e della Guardia di finanza, oltre a quanto previsto nei [decreti legislativi 12 maggio 1995, n. 198 e n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;199), non vanno computati gli anni per i quali gli interessati sono stati giudicati non idonei all'avanzamento, nonche' i periodi di detrazione di anzianita' subiti per effetto di condanne penali o di sospensioni dal servizio per motivi disciplinari o di aspettativa per motivi privati.
+Per gli inquadramenti del personale dell'Arma dei carabinieri e della Guardia di finanza, oltre a quanto previsto nei [decreti legislativi 12 maggio 1995, n. 198 e n. 199](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20nuovo%20inquadramento%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20della%20Guardia%20di%20finanza.md), non vanno computati gli anni per i quali gli interessati sono stati giudicati non idonei all'avanzamento, nonche' i periodi di detrazione di anzianita' subiti per effetto di condanne penali o di sospensioni dal servizio per motivi disciplinari o di aspettativa per motivi privati.
 
 4.
 
@@ -85,7 +85,7 @@ Al [decreto legislativo 12 maggio 1995, n. 198](Attuazione%20dellart.%203%20dell
 
 6.
 
-Sino al termine dell'attuale mandato, in deroga all'[articolo 13, comma 2, lettera b), del decreto del Presidente della Repubblica 4 novembre 1979, n. 691](Regolamento%20che%20disciplina%20lattuazione%20della%20rappresentanza%20militare.md), non cessa anticipatamente dal mandato il militare, eletto quale rappresentante di un organo di rappresentanza militare, transitato ad altra categoria per effetto delle norme di cui ai [decreti legislativi 12 maggio 1995, numeri 196, 198 e 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;199).
+Sino al termine dell'attuale mandato, in deroga all'[articolo 13, comma 2, lettera b), del decreto del Presidente della Repubblica 4 novembre 1979, n. 691](Regolamento%20che%20disciplina%20lattuazione%20della%20rappresentanza%20militare.md), non cessa anticipatamente dal mandato il militare, eletto quale rappresentante di un organo di rappresentanza militare, transitato ad altra categoria per effetto delle norme di cui ai [decreti legislativi 12 maggio 1995, numeri 196, 198 e 199](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20nuovo%20inquadramento%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20della%20Guardia%20di%20finanza.md).
 Parimenti non trovano applicazione le disposizioni di cui all'articolo 4, comma 4, all'articolo 5, comma 3, e all'articolo 6, comma 2, del predetto decreto n. 691 del 1979, nonche' alle tabelle, annessi 1, 2 e 3, del medesimo decreto, limitatamente alle variazioni dovute a transiti in altri ruoli per effetto dei predetti [decreti legislativi numeri 196, 198 e 199 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;199).
 
 7.
@@ -109,17 +109,17 @@ Per il triennio 1997-1999 una aliquota non superiore al 30 per cento dei posti d
 
 4.
 
-Il termine di cui all'[articolo 1 del decreto-legge 4 agosto 1987, n. 325](Disciplina%20temporanea%20dei%20corsi%20per%20laccesso%20ai%20ruoli%20della%20Polizia%20di%20Stato%20e%20provvedimenti%20urgenti%20a%20favore%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco_3.md), convertito, con modificazioni, dalla [legge 3 ottobre 1987, n. 402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-03;402), relativamente ai corsi per allievi agenti della Polizia di Stato, e' fissato al 31 dicembre 1999; i cicli di corso di aggiornamento professionale di cui all'articolo 5, comma 3, del medesimo decreto-legge sono effettuati secondo le modalita' stabilite in attuazione del predetto decreto-legge, tenuto conto delle disponibilita' ricettive degli istituti di istruzione.
+Il termine di cui all'[articolo 1 del decreto-legge 4 agosto 1987, n. 325](Disciplina%20temporanea%20dei%20corsi%20per%20laccesso%20ai%20ruoli%20della%20Polizia%20di%20Stato%20e%20provvedimenti%20urgenti%20a%20favore%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco_3.md), convertito, con modificazioni, dalla [legge 3 ottobre 1987, n. 402](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20agosto%201987%20n.%20325%20recante%20disciplina%20temporanea%20dei%20corsi%20per%20laccesso%20ai%20ruoli%20della%20Polizia%20di%20Stato%20e%20provvedimenti%20urgenti%20_8e6a9aed969d.md), relativamente ai corsi per allievi agenti della Polizia di Stato, e' fissato al 31 dicembre 1999; i cicli di corso di aggiornamento professionale di cui all'articolo 5, comma 3, del medesimo decreto-legge sono effettuati secondo le modalita' stabilite in attuazione del predetto decreto-legge, tenuto conto delle disponibilita' ricettive degli istituti di istruzione.
 
 5.
 
-Il termine del 31 dicembre 1996 di cui all'[articolo 1, comma 1, del decreto-legge 18 maggio 1995, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-05-18;176#art_1-com1), convertito, con modificazioni, dalla [legge 14 luglio 1995, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-14;284), e' prorogato al 31 dicembre 1997. Per i posti non coperti a norma del predetto articolo 1 e limitatamente alle vacanze determinatesi fino alla stessa data del 31 dicembre 1997, il Ministero dell'interno e' autorizzato a provvedere, tenendo conto delle esigenze di funzionamento degli uffici dell'Amministrazione della pubblica sicurezza, mediante pubblici concorsi da espletare, fatte salve le riserve previste dalle disposizioni vigenti, anche con le modalita' indicate dall'[articolo 103, secondo comma, della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_103-com2).
+Il termine del 31 dicembre 1996 di cui all'[articolo 1, comma 1, del decreto-legge 18 maggio 1995, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-05-18;176#art_1-com1), convertito, con modificazioni, dalla [legge 14 luglio 1995, n. 284](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%201995%20n.%20176%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20degli%20uffici%20periferici%20del%20Ministero%20dellinterno%20nelle%20pr_299934a57c12.md), e' prorogato al 31 dicembre 1997. Per i posti non coperti a norma del predetto articolo 1 e limitatamente alle vacanze determinatesi fino alla stessa data del 31 dicembre 1997, il Ministero dell'interno e' autorizzato a provvedere, tenendo conto delle esigenze di funzionamento degli uffici dell'Amministrazione della pubblica sicurezza, mediante pubblici concorsi da espletare, fatte salve le riserve previste dalle disposizioni vigenti, anche con le modalita' indicate dall'[articolo 103, secondo comma, della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_103-com2).
 
 ## Art. 4.
 
 1.
 
-Per assicurare la compiuta attuazione dei programmi di potenziamento di cui all'[articolo 4 del decreto-legge 18 maggio 1995, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-05-18;176#art_4), convertito, con modificazioni, dalla [legge 14 luglio 1995, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-14;284), le disponibilita' del capitolo 2779 dello stato di previsione del Ministero dell'interno per il 1995, eventualmente non impegnate entro tale anno, possono esserlo nell'anno successivo.
+Per assicurare la compiuta attuazione dei programmi di potenziamento di cui all'[articolo 4 del decreto-legge 18 maggio 1995, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-05-18;176#art_4), convertito, con modificazioni, dalla [legge 14 luglio 1995, n. 284](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%201995%20n.%20176%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20degli%20uffici%20periferici%20del%20Ministero%20dellinterno%20nelle%20pr_299934a57c12.md), le disponibilita' del capitolo 2779 dello stato di previsione del Ministero dell'interno per il 1995, eventualmente non impegnate entro tale anno, possono esserlo nell'anno successivo.
 
 ## Art. 5.
 
@@ -135,7 +135,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 1.
 
-Nell'[articolo 12, comma 1, del decreto-legge 24 novembre 1994, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-24;646#art_12-com1), convertito, con modificazioni, dalla [legge 21 gennaio 1995, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-01-21;22), le parole: "relativamente agli anni 1994 e 1995," sono sostituite dalle seguenti: "relativamente agli anni 1994, 1995 e 1996,".
+Nell'[articolo 12, comma 1, del decreto-legge 24 novembre 1994, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-24;646#art_12-com1), convertito, con modificazioni, dalla [legge 21 gennaio 1995, n. 22](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20novembre%201994%20n.%20646%20recante%20interventi%20urgenti%20a%20favore%20delle%20zone%20colpite%20dalle%20eccezionali%20avversita%20atmosferiche%20e%20dagli%20ev_78a80bb0d370.md), le parole: "relativamente agli anni 1994 e 1995," sono sostituite dalle seguenti: "relativamente agli anni 1994, 1995 e 1996,".
 
 ## Art. 7.
 

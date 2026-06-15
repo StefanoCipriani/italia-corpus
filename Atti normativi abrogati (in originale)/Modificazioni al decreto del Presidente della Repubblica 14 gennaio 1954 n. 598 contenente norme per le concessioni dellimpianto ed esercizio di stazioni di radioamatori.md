@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 7 della legge 14 marzo 1952, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-03-14;196#art_7);
+Visto l'[art. 7 della legge 14 marzo 1952, n. 196](Modificazioni%20degli%20articoli%20178%20269%20e%20270%20del%20Codice%20postale%20e%20delle%20telecomunicazioni%20approvato%20con%20regio%20decreto%2027%20febbraio%201936%20n.%20645.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

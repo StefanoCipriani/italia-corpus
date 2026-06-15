@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 24 settembre 1931, numero 1555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-24;1555);
+Visto il [regio decreto-legge 24 settembre 1931, numero 1555](Provvedimenti%20per%20i%20titolari%20di%20rendite%20dinfortunio%20gia%20a%20carico%20dIstituti%20austro-ungarici%20di%20previdenza%20sociale.%20031U1555.md);
 
 Visto il [regio decreto-legge 23 marzo 1933, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-23;264);
 
 Visto il [regio decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765);
 
-Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;343);
+Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 343](../Decreti%20legislativi%20luogotenenziali/Corresponsione%20di%20un%20assegno%20temporaneo%20di%20carovita%20ai%20titolari%20di%20rendita%20per%20infortunio%20sul%20lavoro%20o%20per%20malattie%20professionali%20con%20grado%20di%20inabilita%20dal%2050%20al%20100%20.%20045U0343.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -28,11 +28,11 @@ Sulla proposta del Ministro per il tesoro, di concerto con i Ministri per gli af
 
 ## Art. 1.
 
-Ai titolari delle rendite di infortunio per Inabilita' permanente di grado dal 50 al 100 per cento, nonche' ai titolari superstiti di lavoratori deceduti per infortunio sul lavoro contemplati negli articoli i e 3 del [regio decreto-legge 24 settembre 1931, n. 1555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-24;1555), viene esteso, a decorrere dal 1° luglio 1946, e fino e nuova disposizione, l'assegno temporaneo di carovita previsto dall'[art. 1, del decreto legislativo luogotenenziale 26 aprile 1945, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;343#art_1).
+Ai titolari delle rendite di infortunio per Inabilita' permanente di grado dal 50 al 100 per cento, nonche' ai titolari superstiti di lavoratori deceduti per infortunio sul lavoro contemplati negli articoli i e 3 del [regio decreto-legge 24 settembre 1931, n. 1555](Provvedimenti%20per%20i%20titolari%20di%20rendite%20dinfortunio%20gia%20a%20carico%20dIstituti%20austro-ungarici%20di%20previdenza%20sociale.%20031U1555.md), viene esteso, a decorrere dal 1° luglio 1946, e fino e nuova disposizione, l'assegno temporaneo di carovita previsto dall'[art. 1, del decreto legislativo luogotenenziale 26 aprile 1945, n. 343](../Decreti%20legislativi%20luogotenenziali/Corresponsione%20di%20un%20assegno%20temporaneo%20di%20carovita%20ai%20titolari%20di%20rendita%20per%20infortunio%20sul%20lavoro%20o%20per%20malattie%20professionali%20con%20grado%20di%20inabilita%20dal%2050%20al%20100%20.%20045U0343.md).
 
 ## Art. 2.
 
-L'Istituto nazionale per gli infortuni sul lavoro al quale e' demandata per conto dello stato, con le norme e le modalita' contenute nel [regio decreto-legge 24 settembre 1931, n. 1555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-24;1555), la liquidazione ed il pagamento delle rendite di infortunio in favore dei beneficiari di cui al precedente articolo, incaricato di provvedere anche ai pagamenti dell'assegno temporaneo di carovita previsto dal presente decreto.
+L'Istituto nazionale per gli infortuni sul lavoro al quale e' demandata per conto dello stato, con le norme e le modalita' contenute nel [regio decreto-legge 24 settembre 1931, n. 1555](Provvedimenti%20per%20i%20titolari%20di%20rendite%20dinfortunio%20gia%20a%20carico%20dIstituti%20austro-ungarici%20di%20previdenza%20sociale.%20031U1555.md), la liquidazione ed il pagamento delle rendite di infortunio in favore dei beneficiari di cui al precedente articolo, incaricato di provvedere anche ai pagamenti dell'assegno temporaneo di carovita previsto dal presente decreto.
 
 ## Art. 3.
 

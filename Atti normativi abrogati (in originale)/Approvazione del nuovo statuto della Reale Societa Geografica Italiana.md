@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' abrogato lo statuto della Reale Societa' Geografica Italiana, approvato con [R. decreto 27 aprile 1936, n. 958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-04-27;958).
+E' abrogato lo statuto della Reale Societa' Geografica Italiana, approvato con [R. decreto 27 aprile 1936, n. 958](Approvazione%20del%20nuovo%20statuto%20della%20Reale%20Societa%20geografica%20italiana%20con%20sede%20in%20Roma.%20036U0958.md).
 
 ## Art. 2.
 

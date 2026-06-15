@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 agosto 1926, n. 1771](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-20;1771), portante norme per il disciplinamento dei mercati e degli spacci del pesce, con le seguenti modificazioni: 
+ E' convertito in legge il [R. decreto-legge 20 agosto 1926, n. 1771](Disciplinamento%20dei%20mercati%20e%20degli%20spacci%20del%20pesce.%20026U1771.md), portante norme per il disciplinamento dei mercati e degli spacci del pesce, con le seguenti modificazioni: 
  
  Art. 5 
  

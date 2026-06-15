@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il Governo della Repubblica e' delegato ad emanare, entro un anno dalla data di entrata in vigore della presente legge, un decreto, avente valore di legge ordinaria, in virtu' del quale venga attuata una organica revisione delle norme contenute nella parte I, Condizioni, delle "Condizioni e tariffe per i trasporti delle cose sulle ferrovie dello Stato", approvate con [regio decreto-legge 25 gennaio 1940, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-01-25;9), con l'osservanza dei criteri precisati nell'articolo seguente.
+Il Governo della Repubblica e' delegato ad emanare, entro un anno dalla data di entrata in vigore della presente legge, un decreto, avente valore di legge ordinaria, in virtu' del quale venga attuata una organica revisione delle norme contenute nella parte I, Condizioni, delle "Condizioni e tariffe per i trasporti delle cose sulle ferrovie dello Stato", approvate con [regio decreto-legge 25 gennaio 1940, n. 9](Nuove%20condizioni%20e%20tariffe%20per%20il%20trasporto%20delle%20cose%20sulle%20ferrovie%20dello%20Stato.%20040U0009.md), con l'osservanza dei criteri precisati nell'articolo seguente.
  Le norme di cui al precedente comma saranno da emanare con decreto del Presidente della Repubblica, su proposta del Ministro per i trasporti, di concerto con i Ministri per il tesoro e per l'industria e commercio.
 
 ## Art. 2.

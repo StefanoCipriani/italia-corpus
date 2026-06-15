@@ -47,7 +47,7 @@ E' istituto, presso la Presidenza del Consiglio dei Ministri, l'Ufficio per le r
 
 ## Art. 3.
 
-L'Ufficio previsto nell'articolo precedente e' costituito da personale comandato da altre Amministrazioni e da personale avventizio, assunto a norma del [R. decreto-legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), e successive modificazioni, secondo le tabelle gia' approvate ai sensi dell'[art. 5, terzo comma, del decreto Luogotenenziale 31 luglio 1945, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-31;443#art_5-com3), che potranno essere variate a norma della disposizione stessa.
+L'Ufficio previsto nell'articolo precedente e' costituito da personale comandato da altre Amministrazioni e da personale avventizio, assunto a norma del [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), e successive modificazioni, secondo le tabelle gia' approvate ai sensi dell'[art. 5, terzo comma, del decreto Luogotenenziale 31 luglio 1945, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-31;443#art_5-com3), che potranno essere variate a norma della disposizione stessa.
  Il personale gia' in servizio presso il Ministero per la Consulta Nazionale e' trasferito all'Ufficio per le relazioni con la Consulta Nazionale.
 
 ## Art. 4.

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il R. decreto-legge 13 maggio 1935-XIII, n. 1064, riflettente la estensione alla Libia dei benefici fiscali concessi nel Regno dal [Regio decreto-legge 23 giugno 1927, n. 1206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-23;1206), e successive modificazioni, per gli atti di fusione di Societa' commerciali coloniali. 
+ E' convertito in legge il R. decreto-legge 13 maggio 1935-XIII, n. 1064, riflettente la estensione alla Libia dei benefici fiscali concessi nel Regno dal [Regio decreto-legge 23 giugno 1927, n. 1206](Temporanee%20agevolazioni%20tributarie%20per%20gli%20atti%20di%20fusione%20delle%20societa%20commerciali%20regolarmente%20costituite.%20027U1206.md), e successive modificazioni, per gli atti di fusione di Societa' commerciali coloniali. 
  
  Ordiniamo che la presente, munita del sigillo di Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

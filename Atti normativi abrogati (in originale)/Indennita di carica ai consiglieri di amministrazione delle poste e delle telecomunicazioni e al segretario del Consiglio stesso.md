@@ -18,7 +18,7 @@ A tutti i consiglieri componenti il Consiglio di amministrazione, al direttore t
 
 ## Art. 3.
 
-Ai consiglieri che non risiedono a Roma sara' corrisposta la indennita' di trasferta stabilita dalle disposizioni vigenti per i funzionari del grado 4° dell'ordinamento gerarchico approvato con [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e successive modificazioni.
+Ai consiglieri che non risiedono a Roma sara' corrisposta la indennita' di trasferta stabilita dalle disposizioni vigenti per i funzionari del grado 4° dell'ordinamento gerarchico approvato con [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni.
  Eguale indennita' e' dovuta anche per i viaggi che i consiglieri eventualmente dovessero compiere per ragioni del loro ufficio.
 
 ## Art. 4.

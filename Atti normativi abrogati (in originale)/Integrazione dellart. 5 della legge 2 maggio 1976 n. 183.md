@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Ritenuta la necessita' e l'urgenza di integrare l'[art. 5 della legge 2 maggio 1976, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-02;183#art_5), al fine di consentire la nomina del consiglio di amministrazione della Cassa per il Mezzogiorno, anche in difetto della designazione da parte di talune regioni degli esperti designati a far parte dell'organo;
+Ritenuta la necessita' e l'urgenza di integrare l'[art. 5 della legge 2 maggio 1976, n. 183](Disciplina%20dellintervento%20straordinario%20nel%20Mezzogiorno%20per%20il%20quinquennio%201976-80.md), al fine di consentire la nomina del consiglio di amministrazione della Cassa per il Mezzogiorno, anche in difetto della designazione da parte di talune regioni degli esperti designati a far parte dell'organo;
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1.
 
-Dopo il [quarto comma dell'art. 5 della legge 2 maggio 1976, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-02;183#art_5-com4), e' aggiunto il seguente: 
+Dopo il [quarto comma dell'art. 5 della legge 2 maggio 1976, n. 183](Disciplina%20dellintervento%20straordinario%20nel%20Mezzogiorno%20per%20il%20quinquennio%201976-80.md), e' aggiunto il seguente: 
  
  Per la prima costituzione del consiglio di amministrazione della Cassa per il Mezzogiorno, ove alcune delle regioni di cui al quarto comma del presente articolo non abbiano provveduto alla designazione dell'esperto di cui al terzo comma dell'articolo medesimo, si intende designato il dirigente piu' anziano nella qualifica dell'assessorato preposto ai problemi della programmazione e dello sviluppo economico della regione inadempiente. Il componente del consiglio d'amministrazione della Cassa per il Mezzogiorno cosi' designato, decade automaticamente dalla nomina non appena la regione interessata provveda alla designazione dell'esperto di sua competenza.
 

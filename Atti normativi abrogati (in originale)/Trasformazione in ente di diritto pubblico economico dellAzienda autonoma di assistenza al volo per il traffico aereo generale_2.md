@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 23 maggio 1980, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-23;242);
+Vista la [legge 23 maggio 1980, n. 242](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20ristrutturazione%20dei%20servizi%20di%20assistenza%20al%20volo.md);
 
-Visto il [decreto del Presidente della Repubblica 24 marzo 1981, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-03-24;145), recante ordinamento dell'Azienda autonoma di assistenza al volo per il traffico aereo generale (AAAVTAG);
+Visto il [decreto del Presidente della Repubblica 24 marzo 1981, n. 145](../DPR/Ordinamento%20dellAzienda%20autonoma%20di%20assistenza%20al%20volo%20per%20il%20traffico%20aereo%20generale.md), recante ordinamento dell'Azienda autonoma di assistenza al volo per il traffico aereo generale (AAAVTAG);
 
-Visto il [decreto-legge 28 giugno 1995, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-28;251), convertito, con modificazioni, dalla [legge 3 agosto 1995, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-03;351);
+Visto il [decreto-legge 28 giugno 1995, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-28;251), convertito, con modificazioni, dalla [legge 3 agosto 1995, n. 351](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20251%20recante%20disposizioni%20urgenti%20in%20materia%20di%20gestioni%20aeroportuali%20di%20trasporti%20eccezionali%20e%20di%20veicoli%20adibi_8d109f92f861.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di provvedere alla trasformazione della predetta Azienda, al fine di poterla dotare di strumenti gestionali tali da garantire il costante adeguamento agli standards di sicurezza nell'esercizio dell'attivita' di controllo del traffico aereo;
 
@@ -43,7 +43,7 @@ L'Azienda autonoma di assistenza al volo per il traffico aereo generale (AAAVTAG
 
 2.
 
-L'Ente nazionale di assistenza al volo, di seguito denominato Ente, e' trasformato in societa' per azioni il 1 gennaio 1999, con le modalita' indicate dall'[articolo 2, comma 1, del decreto-legge 28 giugno 1995, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-28;251#art_2-com1), convertito, con modificazioni, dalla [legge 3 agosto 1995, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-03;351). Entro la predetta data sara' verificato il conseguimento degli obiettivi definiti a tal fine in un apposito piano triennale predisposto dal presidente dell'Ente entro il mese di febbraio 1996. Tale piano e' approvato dal Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro, i quali effettuano anche la predetta verifica.
+L'Ente nazionale di assistenza al volo, di seguito denominato Ente, e' trasformato in societa' per azioni il 1 gennaio 1999, con le modalita' indicate dall'[articolo 2, comma 1, del decreto-legge 28 giugno 1995, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-28;251#art_2-com1), convertito, con modificazioni, dalla [legge 3 agosto 1995, n. 351](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20251%20recante%20disposizioni%20urgenti%20in%20materia%20di%20gestioni%20aeroportuali%20di%20trasporti%20eccezionali%20e%20di%20veicoli%20adibi_8d109f92f861.md). Entro la predetta data sara' verificato il conseguimento degli obiettivi definiti a tal fine in un apposito piano triennale predisposto dal presidente dell'Ente entro il mese di febbraio 1996. Tale piano e' approvato dal Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro, i quali effettuano anche la predetta verifica.
 
 3.
 
@@ -113,11 +113,11 @@ Con il regolamento di contabilita', deliberato, su proposta del presidente, dal 
 
 2.
 
-All'Ente si applicano gli [articoli 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_25) e [30 della legge 5 agosto 1978, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_30), e successive modificazioni e integrazioni. L'Ente e' inserito nella tabella A allegata alla [legge 29 ottobre 1984, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720), e successive modificazioni e integrazioni.
+All'Ente si applicano gli [articoli 25](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md) e [30 della legge 5 agosto 1978, n. 468](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), e successive modificazioni e integrazioni. L'Ente e' inserito nella tabella A allegata alla [legge 29 ottobre 1984, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720), e successive modificazioni e integrazioni.
 
 3.
 
-La tassa istituita con la [legge 11 luglio 1977, n. 411](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-07-11;411), e successive modificazioni, nonche' le tasse istituite con [decreto-legge 4 marzo 1989, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-04;77), convertito, con modificazioni, dalla [legge 5 maggio 1989, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160), costituiscono tariffe a decorrere dal 1 gennaio 1996.
+La tassa istituita con la [legge 11 luglio 1977, n. 411](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-07-11;411), e successive modificazioni, nonche' le tasse istituite con [decreto-legge 4 marzo 1989, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-04;77), convertito, con modificazioni, dalla [legge 5 maggio 1989, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md), costituiscono tariffe a decorrere dal 1 gennaio 1996.
 
 4.
 
@@ -179,11 +179,11 @@ Capo II
 
 1.
 
-In deroga a quanto disposto dall'[articolo 22 della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_22), ed in attesa della definizione delle dotazioni organiche previa verifica dei carichi di lavoro, l'Azienda autonoma di assistenza al volo per il traffico aereo generale e' autorizzata ad assumere personale operativo.
+In deroga a quanto disposto dall'[articolo 22 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), ed in attesa della definizione delle dotazioni organiche previa verifica dei carichi di lavoro, l'Azienda autonoma di assistenza al volo per il traffico aereo generale e' autorizzata ad assumere personale operativo.
 
 2.
 
-In deroga a quanto disposto dall'[articolo 3, comma 23, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_3-com23), e dall'[articolo 25, comma 1, della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_25-com1), l'Azienda autonoma di assistenza al volo per il traffico aereo generale puo' instaurare, fino al 31 dicembre 1997 e nel limite di 80 unita' da impiegare in via prioritaria per le attivita' di formazione, rapporti di lavoro a tempo determinato, la cui disciplina verra' definita al momento della loro accensione, per periodi non superiori ad un anno, rinnovabili una sola volta, con personale gia' dipendente dall'Azienda stessa e dall'Aeronautica militare e in possesso delle necessarie abilitazioni e dei requisiti di idoneita' psico-fisica, con eta' non superiore a 57 anni all'atto dell'instaurarsi del predetto rapporto. Il trattamento retributivo e' costituito dal trattamento di quiescenza gia' in godimento, compresa l'indennita' integrativa speciale, e da un compenso aggiuntivo fino al raggiungimento della retribuzione complessiva del personale in servizio di pari livello, anzianita' ed impiego, tenendo conto che il trattamento stesso non comporta la riliquidazione della pensione e non da' diritto alla corresponsione dell'indennita' di fine rapporto.
+In deroga a quanto disposto dall'[articolo 3, comma 23, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e dall'[articolo 25, comma 1, della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), l'Azienda autonoma di assistenza al volo per il traffico aereo generale puo' instaurare, fino al 31 dicembre 1997 e nel limite di 80 unita' da impiegare in via prioritaria per le attivita' di formazione, rapporti di lavoro a tempo determinato, la cui disciplina verra' definita al momento della loro accensione, per periodi non superiori ad un anno, rinnovabili una sola volta, con personale gia' dipendente dall'Azienda stessa e dall'Aeronautica militare e in possesso delle necessarie abilitazioni e dei requisiti di idoneita' psico-fisica, con eta' non superiore a 57 anni all'atto dell'instaurarsi del predetto rapporto. Il trattamento retributivo e' costituito dal trattamento di quiescenza gia' in godimento, compresa l'indennita' integrativa speciale, e da un compenso aggiuntivo fino al raggiungimento della retribuzione complessiva del personale in servizio di pari livello, anzianita' ed impiego, tenendo conto che il trattamento stesso non comporta la riliquidazione della pensione e non da' diritto alla corresponsione dell'indennita' di fine rapporto.
 
 ### Art. 11. — Fondo di produttivita'
 
@@ -205,7 +205,7 @@ Tutti gli atti connessi con l'acquisizione del patrimonio dell'AAAVTAG sono esen
 
 1.
 
-L'amministratore straordinario di cui all'[articolo 2 del decreto-legge 28 giugno 1995, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-28;251#art_2), convertito, con modificazioni, dalla [legge 3 agosto 1995, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-03;351), svolge le funzioni del presidente e del consiglio di amministrazione fino alla data di efficacia dei decreti di nomina dei predetti organi.
+L'amministratore straordinario di cui all'[articolo 2 del decreto-legge 28 giugno 1995, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-28;251#art_2), convertito, con modificazioni, dalla [legge 3 agosto 1995, n. 351](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20251%20recante%20disposizioni%20urgenti%20in%20materia%20di%20gestioni%20aeroportuali%20di%20trasporti%20eccezionali%20e%20di%20veicoli%20adibi_8d109f92f861.md), svolge le funzioni del presidente e del consiglio di amministrazione fino alla data di efficacia dei decreti di nomina dei predetti organi.
 
 2.
 

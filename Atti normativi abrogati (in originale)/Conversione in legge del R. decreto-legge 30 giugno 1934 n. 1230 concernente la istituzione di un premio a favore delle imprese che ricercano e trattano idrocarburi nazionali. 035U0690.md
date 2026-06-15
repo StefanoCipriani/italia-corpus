@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 giugno 1934, n. 1230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-06-30;1230), concernente l'istituzione di un premio a favore delle imprese che ricercano e trattano idrocarburi nazionali. 
+ E' convertito in legge il [R. decreto-legge 30 giugno 1934, n. 1230](Istituzione%20di%20un%20premio%20a%20favore%20delle%20imprese%20che%20ricercano%20e%20trattano%20idrocarburi%20nazionali.%20034U1230.md), concernente l'istituzione di un premio a favore delle imprese che ricercano e trattano idrocarburi nazionali. 
  
  Ordiniamo che la presente, munita, del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -42,7 +42,7 @@ e' stata assunta o di risoluzione del rapporto di lavoro per scadenza del termin
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte della [L. 12 dicembre 1950, n. 986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-12-12;986), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte della [L. 12 dicembre 1950, n. 986](Divieto%20di%20licenziamento%20delle%20lavoratrici%20madri%20gestanti%20e%20puerpere.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 4.
 
@@ -145,7 +145,7 @@ L'aborto spontaneo o terapeutico, escluso quello procurato, e' considerato a tut
 
 ### Art. 22.
 
-Fino a quando non sara' provveduto al riordinamento del sistema in atto per i contributi unificati in agricoltura e' dovuta alle lavoratrici agricole di cui all'art. 1 della presente legge, non aventi qualifica impiegatizia, oltre l'assistenza completa di parto, ai sensi del [decreto legislativo luogotenenziale 9 aprile 1946, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-09;212), e successive modificazioni, una indennita' una tantum nella misura sotto indicata a fianco di ciascuna categoria: 
+Fino a quando non sara' provveduto al riordinamento del sistema in atto per i contributi unificati in agricoltura e' dovuta alle lavoratrici agricole di cui all'art. 1 della presente legge, non aventi qualifica impiegatizia, oltre l'assistenza completa di parto, ai sensi del [decreto legislativo luogotenenziale 9 aprile 1946, n. 212](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20delle%20vigenti%20disposizioni%20sulla%20assicurazione%20di%20malattia%20per%20i%20lavoratori%20in%20agricoltura.md), e successive modificazioni, una indennita' una tantum nella misura sotto indicata a fianco di ciascuna categoria: 
  1) salariate fisse, assimilate, obbligate e braccianti o compartecipanti permanenti, lire 25.000; 
  2) braccianti o compartecipanti abituali, lire 25.000; 
  3) braccianti o compartecipanti occasionali, lire 15.000; 
@@ -167,7 +167,7 @@ Per la copertura degli oneri derivanti dall'applicazione degli articoli 17, lett
 
 ### Art. 24.
 
-L'assicurazione per la nuzialita' e la natalita', istituita con [regio decreto-legge 14 aprile 1939, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-14;636), convertito in [legge 6 luglio 1939, n. 1272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-06;1272), e' soppressa a decorrere dal 1 gennaio
+L'assicurazione per la nuzialita' e la natalita', istituita con [regio decreto-legge 14 aprile 1939, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-14;636), convertito in [legge 6 luglio 1939, n. 1272](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20aprile%201939-XVII%20n.%20636%20sulle%20assicurazioni%20obbligatorie%20per%20linvalidita%20e%20la%20vecchiaia%20per%20la%20tubercolosi%20e%20per%20la%20disoccup_59ee77548f3d.md), e' soppressa a decorrere dal 1 gennaio
 
 1951.
 
@@ -193,7 +193,7 @@ Per aver diritto agli assegni di cui all'articolo precedente debbono risultare d
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte della [L. 12 dicembre 1950, n. 987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-12-12;987), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte della [L. 12 dicembre 1950, n. 987](Proroga%20al%2031%20dicembre%201951%20del%20termine%20di%20cui%20allart.%2026%20secondo%20comma%20della%20legge%2026%20agosto%201950%20n.%20860%20concernente%20la%20tutela%20fisica%20ed%20economica%20delle%20lavoratrici%20madri.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 27.
 
@@ -219,7 +219,7 @@ Il fondo costituito dai proventi dei contributi di cui all'articolo precedente e
 
 ### Art. 29.
 
-Per le prestazioni e i contributi previsti dagli articoli 25 e 27 si osservano, in quanto applicabili, le disposizioni del [regio decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito, con modificazioni, nella [legge 6 aprile 1936, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155), sul perfezionamento e coordinamento legislativo della previdenza sociale, comprese quelle sui benefici, i privilegi e le esenzioni fiscali.
+Per le prestazioni e i contributi previsti dagli articoli 25 e 27 si osservano, in quanto applicabili, le disposizioni del [regio decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito, con modificazioni, nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md), sul perfezionamento e coordinamento legislativo della previdenza sociale, comprese quelle sui benefici, i privilegi e le esenzioni fiscali.
 
 ## Disposizioni varie e penalita'.
 
@@ -247,7 +247,7 @@ I datori di lavoro che contravvengono alle disposizioni della presente legge son
 
 ### Art. 34.
 
-Dall'entrata in vigore della presente legge e' abrogato il [regio decreto-legge 22 marzo 1934, n. 654](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-22;654), sulla tutela della maternita' delle lavoratrici.
+Dall'entrata in vigore della presente legge e' abrogato il [regio decreto-legge 22 marzo 1934, n. 654](Tutela%20della%20maternita%20delle%20lavoratrici.%20034U0654.md), sulla tutela della maternita' delle lavoratrici.
 
 ### Art. 35.
 

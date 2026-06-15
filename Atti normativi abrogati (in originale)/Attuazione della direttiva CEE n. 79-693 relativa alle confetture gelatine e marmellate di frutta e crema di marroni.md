@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Vista la [direttiva n. 79/693 del 24 luglio 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;693), emanata dal Consiglio delle Comunita' europee, concernente le confetture, gelatine e marmellate di frutta e la crema di marroni;
 
-Considerato che in data 25 febbraio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 25 febbraio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -108,7 +108,7 @@ Per frutto si intende il frutto fresco, sano, esente da qualsiasi alterazione, n
 La frutta utilizzata per la preparazione dei prodotti definiti all'art. 2 puo' essere sottoposta a trattamenti mediante calore o freddo, liofilizzazione o concentrazione. Qualora destinati alla preparazione dei prodotti di cui ai numeri 2), 4) e 5) dell'art. 2 puo' essere anche addizionata di anidride solforosa (E 220) o dei suoi sali (E 221, E 222, E 223, E 224, E 226, E 227).
  I marroni possono essere immersi preventivamente in una soluzione acquosa di anidride solforosa (E 220).
  Le albicocche disidratate possono essere utilizzate solo nella preparazione del prodotto di cui al n. 2) dell'art. 2.
- I tipi di zucchero che possono essere utilizzati nella preparazione dei prodotti di cui al presente decreto sono quelli indicati all'art. 1, numeri da 1) a 10), della [legge 31 marzo 1980, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-31;139), nonche' il fruttosio.
+ I tipi di zucchero che possono essere utilizzati nella preparazione dei prodotti di cui al presente decreto sono quelli indicati all'art. 1, numeri da 1) a 10), della [legge 31 marzo 1980, n. 139](Recepimento%20della%20direttiva%20adottata%20dal%20Consiglio%20della%20Comunita%20economica%20europea%20riguardante%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20concernenti%20determinati%20tipi%20di%20zucch_6f7de1cb98ea.md), nonche' il fruttosio.
 
 ## Art. 6.
 
@@ -160,7 +160,7 @@ Salvo che il fatto costituisca reato, chiunque nella preparazione dei prodotti c
 
 ## Art. 11.
 
-E' consentito per un anno dalla data di entrata in vigore del presente decreto preparare i prodotti ivi previsti in conformita' alle norme precedentemente vigenti e confezionarli in conformita' alla [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), o al relativo regolamento approvato con [decreto del Presidente della Repubblica il 26 marzo 1980, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-03-26;327).
+E' consentito per un anno dalla data di entrata in vigore del presente decreto preparare i prodotti ivi previsti in conformita' alle norme precedentemente vigenti e confezionarli in conformita' alla [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), o al relativo regolamento approvato con [decreto del Presidente della Repubblica il 26 marzo 1980, n. 327](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md).
  I prodotti di cui al comma precedente possono essere posti in vendita fino al 31 dicembre 1984.
 
 ## Art. 12.

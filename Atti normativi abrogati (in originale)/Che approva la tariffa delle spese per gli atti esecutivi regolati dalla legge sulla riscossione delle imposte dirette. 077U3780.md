@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Veduta la [legge del 30 dicembre 1876, n. 3591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1876-12-30;3591), che sostituisce un nuovo articolo all'articolo 69 della legge del 20 aprile 1871 (Serie 2ª), n. 192;
+Veduta la [legge del 30 dicembre 1876, n. 3591](Che%20proroga%20il%20termine%20sulla%20circoscrizione%20delle%20esattorie.%20076U3591.md), che sostituisce un nuovo articolo all'articolo 69 della legge del 20 aprile 1871 (Serie 2ª), n. 192;
 
 Sentite le Deputazioni provinciali del Regno, Determina:
 
@@ -35,8 +35,8 @@ E' approvata la seguente tariffa delle spese da percepirsi dagli esattori per gl
  di sequestro o di avviso di vendita di mobili, 
  per ogni notificazione dell'avviso d'asta per 
  vendita di immobili, e per ognuna delle 
- notificazioni prescritte dagli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-08-25;3305#art_10), [11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-08-25;3305#art_11) e 
- [13 del R. decreto del 25 agosto 1876, N. 3305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-08-25;3305#art_13), 
+ notificazioni prescritte dagli [articoli 10](Col%20quale%20sono%20stabilite%20le%20norme%20per%20la%20riscossione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20076U3305.md), [11](Col%20quale%20sono%20stabilite%20le%20norme%20per%20la%20riscossione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20076U3305.md) e 
+ [13 del R. decreto del 25 agosto 1876, N. 3305](Col%20quale%20sono%20stabilite%20le%20norme%20per%20la%20riscossione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20076U3305.md), 
  compresa la spesa delle copie di verbali e delle 
  copie degli avvisi, d'asta . . . . . . . . . . . . . . . L. 0 50 
  

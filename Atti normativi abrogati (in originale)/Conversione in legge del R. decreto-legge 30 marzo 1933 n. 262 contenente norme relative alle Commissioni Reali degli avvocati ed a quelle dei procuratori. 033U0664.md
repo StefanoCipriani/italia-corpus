@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 marzo 1933, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-30;262), contenente norme relative alle Commissioni Reali degli avvocati ed a quelle dei procuratori. 
+ E' convertito in legge il [R. decreto-legge 30 marzo 1933, n. 262](Norme%20relative%20alle%20Commissioni%20Reali%20degli%20avvocati%20ed%20a%20quelle%20dei%20procuratori.%20033U0262.md), contenente norme relative alle Commissioni Reali degli avvocati ed a quelle dei procuratori. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

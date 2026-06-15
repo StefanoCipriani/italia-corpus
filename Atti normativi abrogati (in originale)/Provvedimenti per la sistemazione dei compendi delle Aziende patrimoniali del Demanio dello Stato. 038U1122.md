@@ -48,7 +48,7 @@ Nei trenta giorni successivi alla notificazione del decreto di espropriazione i 
  
  Gli esperti, quando sono chiamati ad esercitare le loro funzioni, prestano giuramento innanzi al presidente del Collegio con la formula seguente: 
  
- «Giuro di adempiere con coscienza e diligenza e nel solo interesse della giustizia i doveri dell'ufficio che mi viene affidato». Ad essi e' applicabile, qualora senza giustificato motivo non intervengano alle udienze, la disposizione dell'[articolo 32, comma 2, del R. decreto 21 maggio 1934, n. 1073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-05-21;1073#art_32-com2). 
+ «Giuro di adempiere con coscienza e diligenza e nel solo interesse della giustizia i doveri dell'ufficio che mi viene affidato». Ad essi e' applicabile, qualora senza giustificato motivo non intervengano alle udienze, la disposizione dell'[articolo 32, comma 2, del R. decreto 21 maggio 1934, n. 1073](Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md). 
  
  Ai componenti del Collegio e' dovuta una indennita' di lire cinquanta per ogni giorno in cui esercitano le loro funzioni. Le indennita' sono liquidate nella sentenza definitiva e pagate dall'Amministrazione delle finanze, salvo rimborso totale o parziale a carico dell'altra parte, se questa sia stata condannata totalmente o parzialmente nelle spese del giudizio.
 

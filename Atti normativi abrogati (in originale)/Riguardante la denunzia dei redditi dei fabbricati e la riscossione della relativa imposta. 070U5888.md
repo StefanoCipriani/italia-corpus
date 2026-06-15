@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto il Regolamento approvato con [Regio decreto 28 agosto 1870, n. 5832](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-08-28;5832), per l'applicazione dell'imposta sui fabbricati;
+Visto il Regolamento approvato con [Regio decreto 28 agosto 1870, n. 5832](Che%20approva%20il%20Regolamento%20per%20lapplicazione%20dellimposta%20sui%20fabbricati.%20070U5832.md), per l'applicazione dell'imposta sui fabbricati;
 
 Sulla proposta del Direttore generale delle Imposte dirette e del Catasto; DETERMINA QUANTO SEGUE:
 

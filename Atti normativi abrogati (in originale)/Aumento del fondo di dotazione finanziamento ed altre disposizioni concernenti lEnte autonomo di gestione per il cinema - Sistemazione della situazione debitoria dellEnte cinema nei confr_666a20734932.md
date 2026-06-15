@@ -32,7 +32,7 @@ Le azioni della societa' Monte Amiata di proprieta' dello Stato di cui alla tabe
 
 ## Art. 3.
 
-Il fondo di dotazione di cui all'articolo 1 e' assegnato per il raggiungimento degli obiettivi indicati nell'[articolo 1, comma secondo del decreto del Presidente della Repubblica 25 gennaio 1971, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-01-25;69#art_1-com2), per le societa' inquadrate nell'Ente autonomo di gestione per il cinema, obiettivi che vengono esplicitati come segue:
+Il fondo di dotazione di cui all'articolo 1 e' assegnato per il raggiungimento degli obiettivi indicati nell'[articolo 1, comma secondo del decreto del Presidente della Repubblica 25 gennaio 1971, n. 69](../DPR/Modificazioni%20allo%20statuto%20dellEnte%20autonomo%20di%20gestione%20per%20il%20cinema.md), per le societa' inquadrate nell'Ente autonomo di gestione per il cinema, obiettivi che vengono esplicitati come segue:
 
  Istituto Luce.
  La societa' dovra' svolgere compiti di produzione con particolare riguardo alla cinematografia didattica e specializzata anche e in ordine a film di particolare rilevanza culturale, di carattere sperimentale. In particolare e in conformita' alle disposizioni della [legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), essa deve provvedere a:

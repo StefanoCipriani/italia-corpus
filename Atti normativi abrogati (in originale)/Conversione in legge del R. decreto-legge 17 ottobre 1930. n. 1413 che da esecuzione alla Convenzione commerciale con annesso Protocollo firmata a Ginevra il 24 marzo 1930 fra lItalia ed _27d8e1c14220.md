@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 ottobre 1930, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-17;1413), che approva la Convenzione commerciale, con annesso Protocollo, firmata a Ginevra il 24 marzo 1930 fra l'Italia ed altri Stati. 
+ E' convertito in legge il [R. decreto-legge 17 ottobre 1930, n. 1413](Approvazione%20della%20Convenzione%20commerciale%20con%20annesso%20Protocollo%20firmata%20a%20Ginevra%20il%2024%20marzo%201930%20fra%20lItalia%20ed%20altri%20Stati.%20030U1413.md), che approva la Convenzione commerciale, con annesso Protocollo, firmata a Ginevra il 24 marzo 1930 fra l'Italia ed altri Stati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

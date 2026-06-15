@@ -18,13 +18,13 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 
-Visto l'[art. 8 della legge 22 luglio 1939, n. 1192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-22;1192#art_8);
+Visto l'[art. 8 della legge 22 luglio 1939, n. 1192](Provvedimenti%20relativi%20al%20servizio%20dei%20conti%20correnti%20postali.%20039U1192.md);
 
-Visto il [R. decreto-legge 3 gennaio 1944, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-03;1);
+Visto il [R. decreto-legge 3 gennaio 1944, n. 1](Norme%20per%20la%20sospensione%20del%20corso%20delle%20prescrizioni%20dei%20termini%20di%20decadenza%20e%20dei%20termini%20processuali.%20044U0001.md);
 
 Visto il [decreto legislativo Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-06-25;151);
 
-Visto il [R. decreto-legge 30 ottobre 1943, n. 2-B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-10-30;2), e successive disposizioni;
+Visto il [R. decreto-legge 30 ottobre 1943, n. 2-B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e successive disposizioni;
 
 Vista la deliberazione del Consiglio dei Ministri;
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-11;114), col quale viene accordato alla Societa' «Lariana» di navigazione sul lago di Como un sussidio straordinario di esercizio di L. 600.000. 
+ E' convertito in legge il [R. decreto-legge 11 gennaio 1934, n. 114](Concessione%20alla%20Societa%20%20Lariana%20%20di%20navigazione%20sul%20lago%20di%20Como%20di%20un%20sussidio%20straordinario%20di%20esercizio%20di%20L.%20600.000.%20034U0114.md), col quale viene accordato alla Societa' «Lariana» di navigazione sul lago di Como un sussidio straordinario di esercizio di L. 600.000. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

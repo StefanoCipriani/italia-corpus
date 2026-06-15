@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 novembre 1932, n. 1527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-11-10;1527), contenente disposizioni relative alla liquidazione dell'essenza di bergamotto gia' conferita al Consorzio obbligatorio fra i produttori di bergamotto di Reggio Calabria. 
+ E' convertito in legge il [R. decreto-legge 10 novembre 1932, n. 1527](Disposizioni%20relative%20alla%20liquidazione%20dellessenza%20di%20bergamotto%20gia%20conferita%20al%20Consorzio%20obbligatorio%20fra%20i%20produttori%20di%20bergamotto%20di%20Reggio%20Calabria.%20032U1527.md), contenente disposizioni relative alla liquidazione dell'essenza di bergamotto gia' conferita al Consorzio obbligatorio fra i produttori di bergamotto di Reggio Calabria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

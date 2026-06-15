@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 aprile 1927, n. 466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-07;466), riguardante il funzionamento dei Consigli di amministrazione di Compagnie e Societa' italiane concessionarie di servizi internazionali sotto il controllo e la vigilanza del Governo italiano. 
+ E' convertito in legge il [R. decreto-legge 7 aprile 1927, n. 466](Funzionamento%20dei%20Consigli%20di%20amministrazione%20di%20Compagnie%20o%20Societa%20italiane%20concessionarie%20di%20servizi%20internazionali%20sotto%20il%20controllo%20e%20la%20vigilanza%20del%20Governo%20italiano.%20027U0466.md), riguardante il funzionamento dei Consigli di amministrazione di Compagnie e Societa' italiane concessionarie di servizi internazionali sotto il controllo e la vigilanza del Governo italiano. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

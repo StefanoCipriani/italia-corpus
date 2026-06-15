@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 25 luglio 1941, n. 939](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-07-25;939);
+Vista la [legge 25 luglio 1941, n. 939](Trattamento%20economico%20del%20personale%20civile%20in%20Albania.%20041U0939.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -27,7 +27,7 @@ Le disposizioni contenute nelle [circolari del Capo del Governo 6 dicembre 1941,
 
 ## Art. 2.
 
-Il trattamento economico previsto dalla [legge 25 luglio 1941, n. 939](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-07-25;939), per il personale civile in Albania, per il periodo 1° luglio 1941-30 giugno 1942, e' applicabile fino all'8 settembre 1943.
+Il trattamento economico previsto dalla [legge 25 luglio 1941, n. 939](Trattamento%20economico%20del%20personale%20civile%20in%20Albania.%20041U0939.md), per il personale civile in Albania, per il periodo 1° luglio 1941-30 giugno 1942, e' applicabile fino all'8 settembre 1943.
 
 ## Art. 3.
 

@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117), come modificato dalla [legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3), recante modifiche al titolo V della parte seconda della Costituzione;
+Visto l'[articolo 117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117), come modificato dalla [legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md), recante modifiche al titolo V della parte seconda della Costituzione;
 
-Vista la [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
+Vista la [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
 
 Vista la [direttiva 2003/85/CE del Consiglio, del 29 settembre 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;85), relativa a misure comunitarie di lotta contro l'afta epizootica, che abroga la [direttiva 85/511/CE e le decisioni](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;511) [89/531/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;531) e [91/665/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;665) e recante modifica della [direttiva 92/46/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;46);
 
 Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [regio decreto 27 luglio 1938, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-27;1265);
 
-Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320);
+Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md);
 
 Vista la [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833);
 
@@ -34,7 +34,7 @@ Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella ri
 
 Acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano;
 
-Considerato che le competenti Commissioni permanenti della Camera dei deputati e del Senato della Repubblica non hanno espresso il parere nel termine previsto dall'[articolo 1, comma 3, della legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62#art_1-com3);
+Considerato che le competenti Commissioni permanenti della Camera dei deputati e del Senato della Repubblica non hanno espresso il parere nel termine previsto dall'[articolo 1, comma 3, della legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 luglio 2006;
 
@@ -55,12 +55,12 @@ Il presente decreto stabilisce:
 Il Ministero della salute, anche su richiesta del Centro nazionale di lotta di cui all'articolo 69, puo' disporre misure piu' restrittive rispetto a quelle del presente decreto mediante l'adozione di decreti di natura non regolamentare e, nei casi di emergenza, di ordinanze contingibili e urgenti, che costituiscono misure strumentali di profilassi internazionale, inderogabili dalle regioni, province autonome e dagli altri enti territoriali, tenuti a conformarvisi.
 
 Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE). 
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - L'[art. 117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117), come modificato dalla [legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3), cosi' recita: 
+ - L'[art. 117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117), come modificato dalla [legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md), cosi' recita: 
  «Art. 117. - La potesta' legislativa e' esercitata dallo Stato e dalle regioni nel rispetto della Costituzione, nonche' dei vincoli derivanti dall'ordinamento comunitario e dagli obblighi internazionali. 
  Lo Stato ha legislazione esclusiva nelle seguenti materie: 
  a) politica estera e rapporti internazionali dello Stato; rapporti dello Stato con l'Unione europea; diritto di asilo e condizione giuridica dei cittadini di Stati non appartenenti all'Unione europea; 
@@ -87,7 +87,7 @@ Avvertenza:
  Le leggi regionali rimuovono ogni ostacolo che impedisce la piena parita' degli uomini e delle donne nella vita sociale, culturale ed economica e promuovono la parita' di accesso tra donne e uomini alle cariche elettive. 
  La legge regionale ratifica le intese della regione con altre regioni per il migliore esercizio delle proprie funzioni, anche con individuazione di organi comuni. 
  Nelle materie di sua competenza la regione puo' concludere accordi con Stati e intese con enti territoriali interni ad altro Stato, nei casi e con le forme disciplinati da leggi dello Stato.». 
- - Si riporta il testo dell'art. 1, commi 1 e 3, e l'allegato B della [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), recante «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004. 
+ - Si riporta il testo dell'art. 1, commi 1 e 3, e l'allegato B della [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), recante «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004. 
  «Art. 1. (Delega al Governo per l'attuazione di direttive comunitarie). - Il Governo e' delegato ad adottare, entro il termine di diciotto mesi alla data di entrata in vigore della presente legge, i decreti gislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B. 
  2. (Omissis). 
  3. Gli schemi dei decreti legislativi recanti attuazione delle direttive comprese nell'elenco di cui all'allegato B, nonche', qualora sia previsto il ricorso a sanzioni penali, quelli relativi all'attuazione delle direttive elencate nell'allegato A, sono trasmessi, dopo l'acquisizione degli altri pareri previsti dalla legge, alla Camera dei deputati e al Senato della Repubblica perche' su di essi sia espresso il parere dei competenti organi parlamentari. Decorsi quaranta giorni dalla data di trasmissione, i decreti sono emanati anche in mancanza del parere. Qualora il termine per l'espressione del parere parlamentare di cui al presente comma, ovvero i diversi termini previsti dai commi 4 e 8, scadano nei trenta giorni che precedono la scadenza dei termini previsti ai commi 1 o 5 o successivamente, questi ultimi sono prorogati di' novanta giorni.». 
@@ -143,7 +143,7 @@ Avvertenza:
  - La [direttiva 92/46/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;46) e' pubblicata nella G.U.C.E.
  n. L. 268 del 14 settembre 1992. 
  - Il [regio decreto 27 luglio 1938, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-27;1265) reca: «Approvazione del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265)». 
- - Il [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320), reca: «Regolamento di polizia veterinaria». 
+ - Il [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), reca: «Regolamento di polizia veterinaria». 
  - La [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), reca: «Istituzione del servizio sanitario nazionale». 
  - La [legge 2 giugno 1988, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-06-02;218), reca: «Misure per la lotta contro l'afta epizootica ed altre malattie epizootiche degli animali». 
  - Il [decreto del Presidente della Repubblica 1° marzo 1992, n. 229](Regolamento%20di%20attuazione%20della%20direttiva%2085-511-CEE%20che%20stabilisce%20misure%20di%20lotta%20contro%20lafta%20epizootica%20tenuto%20conto%20delle%20modifiche%20apportate%20dalla%20direttiva%2090-423-CEE.md), abrogato dal presente decreto recava: «Regolamento di attuazione della [direttiva 85/511/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;511) che stabilisce misure di lotta contro l'afta epizootica, tenuto conto delle modifiche apportate dalla [direttiva 90/423/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;423)». 
@@ -227,7 +227,7 @@ Note all'art. 2:
 
 1.
 
-Ai sensi e per gli effetti del [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320), e successive modifiche, il sospetto o l'accertamento dell'afta epizootica deve essere denunciato immediatamente.
+Ai sensi e per gli effetti del [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e successive modifiche, il sospetto o l'accertamento dell'afta epizootica deve essere denunciato immediatamente.
 
 2.
 
@@ -247,7 +247,7 @@ Nel caso di conferma della presenza di un focolaio di afta epizootica e ogni cas
 Le regioni e province autonome assicurano la tempestiva trasmissione al Ministero della salute dei dati relativi ai focolai della malattia nonche' di ogni altra informazione da esso richiesta in merito.
 
 Nota all'[art. 3: 
- - Per il decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320#art_3), vedi note alle premesse.
+ - Per il decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), vedi note alle premesse.
 
 ## Art. 4. — Misure in caso di sospetto di malattia
 
@@ -1907,7 +1907,7 @@ Il Ministero della salute assicura una conforme e tempestiva applicazione delle 
 
 1.
 
-Il Ministero della salute, tramite il Centro nazionale di lotta ed emergenza contro le malattie animali, istituito con [decreto-legge 1° ottobre 2005, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-10-01;202), convertito, con modificazioni, dalla [legge 30 novembre 2005, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-30;244), di seguito denominato Centro nazionale, redige un piano di emergenza secondo i criteri e i requisiti definiti nell'allegato XVII.
+Il Ministero della salute, tramite il Centro nazionale di lotta ed emergenza contro le malattie animali, istituito con [decreto-legge 1° ottobre 2005, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-10-01;202), convertito, con modificazioni, dalla [legge 30 novembre 2005, n. 244](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202005%20n.%20202%20recante%20misure%20urgenti%20per%20la%20prevenzione%20dellinfluenza%20aviaria.md), di seguito denominato Centro nazionale, redige un piano di emergenza secondo i criteri e i requisiti definiti nell'allegato XVII.
 
 2.
 
@@ -1936,7 +1936,7 @@ Il Ministero della salute:
                             aggiorna il piano di emergenza ogni cinque anni, in particolare alla luce delle esercitazioni in tempo reale di cui all'articolo 70, e lo presenta alla Commissione europea per la sua approvazione.
 
 Nota all'[art. 69: 
- - Il decreto-legge 1° ottobre 2005, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-10-01;202#art_69), convertito con modificazioni, dalla [legge 30 novembre 2005, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-30;244), recante: «Conversione in legge, con modificazioni, del decereto-[legge 1° ottobre 2005, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-10-01;202), recante misure urgenti per la prevenzione dell'influenza aviaria.», e' pubblicato nella Gazzetta Ufficiale n. 229 del 1° ottobre 2005.
+ - Il decreto-legge 1° ottobre 2005, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-10-01;202#art_69), convertito con modificazioni, dalla [legge 30 novembre 2005, n. 244](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202005%20n.%20202%20recante%20misure%20urgenti%20per%20la%20prevenzione%20dellinfluenza%20aviaria.md), recante: «Conversione in legge, con modificazioni, del decereto-[legge 1° ottobre 2005, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-10-01;202), recante misure urgenti per la prevenzione dell'influenza aviaria.», e' pubblicato nella Gazzetta Ufficiale n. 229 del 1° ottobre 2005.
 
 ## Art. 70. — Esercitazioni e simulazioni di emergenza
 
@@ -1985,7 +1985,7 @@ In caso di insorgenza della malattia, il Centro nazionale di cui all'articolo 69
 
 1.
 
-Per assicurare un'efficace gestione delle misure di lotta ed eradicazione della malattia, il Centro nazionale di cui all'articolo 69, nell'ambito dei finanziamenti previsti dal [decreto-legge 1° ottobre 2005, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-10-01;202), convertito, con modificazioni, dalla [legge 30 novembre 2005, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-30;244), deve avere la disponibilita' di personale, impianti e attrezzature, tra cui almeno:
+Per assicurare un'efficace gestione delle misure di lotta ed eradicazione della malattia, il Centro nazionale di cui all'articolo 69, nell'ambito dei finanziamenti previsti dal [decreto-legge 1° ottobre 2005, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-10-01;202), convertito, con modificazioni, dalla [legge 30 novembre 2005, n. 244](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202005%20n.%20202%20recante%20misure%20urgenti%20per%20la%20prevenzione%20dellinfluenza%20aviaria.md), deve avere la disponibilita' di personale, impianti e attrezzature, tra cui almeno:
                         a)
                             un sistema di identificazione degli allevamenti e di localizzazione degli animali, preferibilmente informatizzato;
                         b)
@@ -2010,7 +2010,7 @@ Per assicurare un'efficace gestione delle misure di lotta ed eradicazione della 
                             un elenco di misure per la sorveglianza e il controllo dello smaltimento dei disinfettanti e dei tessuti e dei fluidi corporei nell'ambiente circostante a seguito del decomposizione delle carcasse, segnatamente nelle acque superficiali e sotterranee.
 
 Nota all'art. 72: 
- - Per il decreto-legge l° ottobre 2005, n. 202, convertito con modificazioni dalla [legge 30 novembre 2005, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-30;244), vedi note all'art. 69.
+ - Per il decreto-legge l° ottobre 2005, n. 202, convertito con modificazioni dalla [legge 30 novembre 2005, n. 244](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202005%20n.%20202%20recante%20misure%20urgenti%20per%20la%20prevenzione%20dellinfluenza%20aviaria.md), vedi note all'art. 69.
 
 ## Art. 73. — Istituzione, funzioni e compiti dei Centri territoriali di lotta contro la malattia
 
@@ -2214,7 +2214,7 @@ Il Ministro della salute, con proprio decreto di natura non regolamentare, assic
 
 2.
 
-I provvedimenti adottati e le disposizioni impartite dal Ministero della salute, anche tramite il Centro nazionale di lotta contro le malattie animali e le emergenze zoo-sanitarie di cui al [decreto-legge 1° ottobre 2005, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-10-01;202), convertito, con modificazioni, dalla [legge 30 novembre 2005, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-30;244), costituiscono misure strumentali di profilassi internazionale, inderogabili dalle regioni e province autonome e dagli altri enti territoriali, tenuti a conformarvisi. I provvedimenti immediati, adottati dall'autorita' sanitaria territorialmente competente ai sensi dell'[articolo 6, comma 3, del decreto legislativo 27 maggio 2005, n. 117](Attuazione%20della%20direttiva%202002-99-CE%20che%20stabilisce%20norme%20di%20polizia%20sanitaria%20per%20la%20produzione%20la%20trasformazione%20la%20distribuzione%20e%20lintroduzione%20di%20prodotti%20di%20origine%20animale%20destina_864a140a89b2.md), restano fermi fino all'eventuale emanazione di quelli disposti dal Ministero della salute, anche tramite il Centro nazionale. Il Ministero della salute, tramite il Centro nazionale, effettua gli opportuni controlli per verificare la corretta applicazione delle misure di lotta contro le malattie animali sul territorio nazionale.
+I provvedimenti adottati e le disposizioni impartite dal Ministero della salute, anche tramite il Centro nazionale di lotta contro le malattie animali e le emergenze zoo-sanitarie di cui al [decreto-legge 1° ottobre 2005, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-10-01;202), convertito, con modificazioni, dalla [legge 30 novembre 2005, n. 244](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202005%20n.%20202%20recante%20misure%20urgenti%20per%20la%20prevenzione%20dellinfluenza%20aviaria.md), costituiscono misure strumentali di profilassi internazionale, inderogabili dalle regioni e province autonome e dagli altri enti territoriali, tenuti a conformarvisi. I provvedimenti immediati, adottati dall'autorita' sanitaria territorialmente competente ai sensi dell'[articolo 6, comma 3, del decreto legislativo 27 maggio 2005, n. 117](Attuazione%20della%20direttiva%202002-99-CE%20che%20stabilisce%20norme%20di%20polizia%20sanitaria%20per%20la%20produzione%20la%20trasformazione%20la%20distribuzione%20e%20lintroduzione%20di%20prodotti%20di%20origine%20animale%20destina_864a140a89b2.md), restano fermi fino all'eventuale emanazione di quelli disposti dal Ministero della salute, anche tramite il Centro nazionale. Il Ministero della salute, tramite il Centro nazionale, effettua gli opportuni controlli per verificare la corretta applicazione delle misure di lotta contro le malattie animali sul territorio nazionale.
 
 3.
 
@@ -2225,11 +2225,11 @@ I proprietari e i detentori di animali, nonche' i proprietari e i responsabili d
 Alla violazione delle disposizioni adottate ai sensi del comma 3, nonche' nel caso di loro applicazione parziale o non conforme consegue in ogni caso l'esclusione del proprietario e del detentore di animali e del proprietario e del responsabile degli stabilimenti, impianti o aziende che trattano prodotti e alimenti, da qualsivoglia forma di rimborso, indennizzo o beneficio economico-finanziario, nazionale, regionale o comunitario, comunque denominati, e il recupero forzato di quelli eventualmente corrisposti.
 
 Note all'[art. 80: 
- - Per il decreto-legge 1° ottobre 2005, n. 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-10-01;2002#art_80), convertito, con modificazioni, dalla [legge 30 novembre 2005, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-30;244), vedi note all'art. 69. 
+ - Per il decreto-legge 1° ottobre 2005, n. 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-10-01;2002#art_80), convertito, con modificazioni, dalla [legge 30 novembre 2005, n. 244](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202005%20n.%20202%20recante%20misure%20urgenti%20per%20la%20prevenzione%20dellinfluenza%20aviaria.md), vedi note all'art. 69. 
  - L'[art. 6, comma 3, del decreto legislativo 27 maggio 2005, n. 117](Attuazione%20della%20direttiva%202002-99-CE%20che%20stabilisce%20norme%20di%20polizia%20sanitaria%20per%20la%20produzione%20la%20trasformazione%20la%20distribuzione%20e%20lintroduzione%20di%20prodotti%20di%20origine%20animale%20destina_864a140a89b2.md), citato all'art. 25, cosi' recita: 
  «Art. 6 (Controlli veterinari ufficiali). - 1. - 2. (Omissis). 
  3. Se si constata un rischio per la sanita' animale o per la salute pubblica, fermi restando i provvedimenti immediati adottati dall'autorita' sanitaria territorialmente competente, ogni provvedimento d'urgenza o misura cautelare e' adottato dallo Stato ai sensi dell'[art. 
- 117 del decreto legislativo 31 marzo 1998, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112#art_117), e successive modificazioni, anche nel caso di provvedimenti emanati dallo Stato in correlazione a misure di salvaguardia adottate, in dette materie, in sede comunitaria. Le competenti autorita' assicurano una conforme applicazione dei provvedimenti in questione nei rispettivi territori.».
+ 117 del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni, anche nel caso di provvedimenti emanati dallo Stato in correlazione a misure di salvaguardia adottate, in dette materie, in sede comunitaria. Le competenti autorita' assicurano una conforme applicazione dei provvedimenti in questione nei rispettivi territori.».
 
 ## Art. 81. — Clausola di invarianza finanziaria
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convalidato il [R. decreto 10 maggio 1928, n. 1047](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-10;1047), che autorizza una 20ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1927-28. 
+ E' convalidato il [R. decreto 10 maggio 1928, n. 1047](20ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201927-28.%20028U1047.md), che autorizza una 20ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1927-28. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

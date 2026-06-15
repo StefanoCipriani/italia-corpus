@@ -76,7 +76,7 @@ Ai fini della designazione di cui all'articolo 4, dovranno, essere privilegiati:
                         b)
                             i laghi naturali e artificiali, gli stagni ed altri corpi idrici situati nei predetti ambiti territoriali;
                         c)
-                            le acque dolci comprese nelle zone umide dichiarate "di importanza internazionale" ai sensi della convenzione di Ramsar sulla protezione delle zone umide, nonche' quelle comprese nelle "oasi di protezione della fauna", istituite dalle regioni ai sensi della [legge 27 dicembre 1977, n. 968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-27;968);
+                            le acque dolci comprese nelle zone umide dichiarate "di importanza internazionale" ai sensi della convenzione di Ramsar sulla protezione delle zone umide, nonche' quelle comprese nelle "oasi di protezione della fauna", istituite dalle regioni ai sensi della [legge 27 dicembre 1977, n. 968](Principi%20generali%20e%20disposizioni%20per%20la%20protezione%20e%20la%20tutela%20della%20fauna%20e%20la%20disciplina%20della%20caccia.md);
                         d)
                             le acque dolci che, ancorche' non comprese nelle due precedenti categorie, presentino un rilevante interesse scientifico, naturalistico o ambientale in quanto costituenti habitat di specie animali o vegetali rare o in via di estinzioni ovvero in quanto sede di complessi ecosistemi acquatici meritevoli di conservazione.
 
@@ -88,7 +88,7 @@ La designazione e la classificazione, ricorrendone le condizioni, devono essere 
 
 1.
 
-Le regioni controllano periodicamente le operazioni di rilevamento e di classificazione delle acque dolci superficiali e provvedono alla redazione degli elenchi di cui all'articolo 7, integrando ed aggiornando, ove necessario, i dati gia' acquisiti nel corso delle operazioni di rilevamento delle caratteristiche qualita- tive e quantitative dei corpi idrici, previste dalla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319).
+Le regioni controllano periodicamente le operazioni di rilevamento e di classificazione delle acque dolci superficiali e provvedono alla redazione degli elenchi di cui all'articolo 7, integrando ed aggiornando, ove necessario, i dati gia' acquisiti nel corso delle operazioni di rilevamento delle caratteristiche qualita- tive e quantitative dei corpi idrici, previste dalla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md).
 
 2.
 
@@ -157,7 +157,7 @@ Competono al Ministero dell'ambiente le funzioni concernenti:
                         b)
                             la verifica della corretta esecuzione degli adempimenti, dell'osservanza dei termini stabiliti nel presente decreto e della compatibilita' dei piani regionali, quando si riferiscano a bacini idrografici a carattere interregionale;
                         c)
-                            l'integrazione del piano generale di risanamento delle acque previsto dall'[art. 2, lettera c), della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_2-letc), e successive modifiche ed integrazioni per gli aspetti disciplinati dalla presente normativa, opportunamente integrati dalle regioni per i fini di cui al presente decreto;
+                            l'integrazione del piano generale di risanamento delle acque previsto dall'[art. 2, lettera c), della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modifiche ed integrazioni per gli aspetti disciplinati dalla presente normativa, opportunamente integrati dalle regioni per i fini di cui al presente decreto;
                         d)
                             la tenuta e l'aggiornamento, sulla base dei dati forniti dalle regioni, dell'elenco nazionale delle acque dolci superficiali, desig- nate e classificate ai sensi del presente decreto;
                         e)
@@ -189,7 +189,7 @@ Competono alle regioni le funzioni concernenti:
                         b)
                             la loro designazione, classificazione, iscrizione negli appositi elenchi e successive revisioni, nel rispetto dei criteri generali fissati ai sensi dell'art. 9;
                         c)
-                            l'integrazione, entro un anno dalla data di entrata in vigore della presente legge, dei piani regionali di risanamento delle acque, previsti dalla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), per le finalita' di cui al presente decreto, in particolare con prescrizioni integrative o restrittive della vigente normativa sugli scarichi immessi nelle acque dolci superficiali designate e classificate e sugli usi delle medesime acque;
+                            l'integrazione, entro un anno dalla data di entrata in vigore della presente legge, dei piani regionali di risanamento delle acque, previsti dalla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), per le finalita' di cui al presente decreto, in particolare con prescrizioni integrative o restrittive della vigente normativa sugli scarichi immessi nelle acque dolci superficiali designate e classificate e sugli usi delle medesime acque;
                         d)
                             la concessione di deroghe, quanto al rispetto dei parametri contrassegnati come (o) nell'allegato I, per circostanze meterologiche eccezionali o speciali condizioni geografiche e, quanto al rispetto dei parametri stabiliti nel medesimo allegato, per arricchimento naturale del corpo idrico da sostanze provenienti dal suolo senza intervento diretto dell'uomo, sempre che si tratti di acque dolci superficiali, designate o classificate;
                         e)
@@ -201,7 +201,7 @@ Le regioni sono tenute a comunicare al Ministero dell'ambiente tutti i provvedim
 
 3.
 
-Restano ferme le competenze delle province autonome di Trento e di Bolzano ai sensi del testo unico delle leggi sullo statuto speciale per il Trentino-Alto Adige, approvato con [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-31;670), e delle relative norme di attuazione.
+Restano ferme le competenze delle province autonome di Trento e di Bolzano ai sensi del testo unico delle leggi sullo statuto speciale per il Trentino-Alto Adige, approvato con [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), e delle relative norme di attuazione.
 
 ## Art. 11. — Competenze delle province
 
@@ -217,7 +217,7 @@ Le province effettuano, altresi':
                         b)
                             il controllo degli scarichi di cui all'art. 6, lettere a), b), e
                         c)
-                            della [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), ai fini dell'osservanza delle prescrizioni regionali di cui all'art. 10, lettera c) del presente decreto.
+                            della [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), ai fini dell'osservanza delle prescrizioni regionali di cui all'art. 10, lettera c) del presente decreto.
 
 3.
 

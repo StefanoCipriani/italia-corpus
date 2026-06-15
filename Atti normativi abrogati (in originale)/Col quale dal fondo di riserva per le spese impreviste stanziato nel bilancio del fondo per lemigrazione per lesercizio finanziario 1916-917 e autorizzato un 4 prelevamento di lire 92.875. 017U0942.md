@@ -22,15 +22,15 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'articolo 28 del testo unico sull'Amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016); 
+ Visto l'articolo 28 del testo unico sull'Amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md); 
  
- Visto l'art. 51 del regolamento approvato con [R. decreto 16 maggio 1912, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-16;556), per la gestione amministrativa e contabile del fondo per l'emigrazione; 
+ Visto l'art. 51 del regolamento approvato con [R. decreto 16 maggio 1912, n. 556](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20del%20Fondo%20per%20lemigrazione.%20012U0556.md), per la gestione amministrativa e contabile del fondo per l'emigrazione; 
  
  Ritenuta la necessita' di aumentare gli stanziamenti di alcuni capitoli dello stato di previsione della spesa del fondo per l'emigrazione per l'esercizio finanziario 1916-917, nonche' quella di provvedere ad imprescindibili bisogni mediante l'istituzione di nuovi capitoli nel detto stato di previsione, per la complessiva somma di lire novantaduemila ottocentosettantacinque (lire 92.875); 
  
  Ritenuto che il fondo di riserva per le spese impreviste stanziato nel bilancio del fondo per l'emigrazione per il corrente esercizio finanziario presenta una disponibilita' di L. 93.816; 
  
- Vista la [legge 4 gennaio 1917, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-01-04;12) che proroga l'esercizio provvisorio del bilancio del fondo per l'emigrazione per l'esercizio finanziario 1916-917 a tutto il mese di giugno 1917; 
+ Vista la [legge 4 gennaio 1917, n. 12](Che%20proroga%20lesercizio%20provvisorio%20del%20bilancio%20del%20fondo%20per%20lemigrazione%20per%20lesercizio%20finanziario%201916-1917%20a%20tutto%20il%20mese%20di%20giugno%201917.%20017U0012.md) che proroga l'esercizio provvisorio del bilancio del fondo per l'emigrazione per l'esercizio finanziario 1916-917 a tutto il mese di giugno 1917; 
  
  Sentito il Consiglio dei ministri; 
  

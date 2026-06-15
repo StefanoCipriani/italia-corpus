@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 8 giugno 1933, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-08;917), riguardante la ripartizione in tre esercizi della somma necessaria per la costruzione di alcuni depositi occorrenti per i servizi della Regia aeronautica. 
+ E' convertito in legge il [R. decreto-legge 8 giugno 1933, n. 917](Ripartizione%20in%20tre%20esercizi%20della%20somma%20necessaria%20per%20la%20costruzione%20di%20alcuni%20depositi%20occorrenti%20per%20i%20servizi%20della%20Regia%20aeronautica.%20033U0917.md), riguardante la ripartizione in tre esercizi della somma necessaria per la costruzione di alcuni depositi occorrenti per i servizi della Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

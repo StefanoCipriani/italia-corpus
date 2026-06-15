@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 novembre 1929, n. 2088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-14;2088), riguardante provvedimenti per i danni verificatisi nelle provincie di Potenza, Matera, Salerno, Cagliari, Bari e Avellino in seguito alle alluvioni dell'estate-autunno 1929. 
+ E' convertito in legge il [R. decreto-legge 14 novembre 1929, n. 2088](Provvedimenti%20per%20i%20danni%20verificatisi%20nelle%20provincie%20di%20Potenza%20Matera%20Salerno%20Cagliari%20Bari%20e%20Avellino%20in%20seguito%20alle%20alluvioni%20dellestate-autunno%201929.%20029U2088.md), riguardante provvedimenti per i danni verificatisi nelle provincie di Potenza, Matera, Salerno, Cagliari, Bari e Avellino in seguito alle alluvioni dell'estate-autunno 1929. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

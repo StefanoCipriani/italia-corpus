@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 6, comma 4, della legge 31 marzo 2000, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78#art_6-com4), che, nel dettare disposizioni per l'Amministrazione della pubblica sicurezza e per alcune attivita' delle Forze di polizia e delle Forze armate, prevede che con regolamento da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), siano determinate le modalita' per il reclutamento e il trasferimento ad altri ruoli per sopravvenuta inidoneita' alle specifiche mansioni del personale dei gruppi sportivi delle Forze di polizia e delle Forze armate;
+Visto l'[articolo 6, comma 4, della legge 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), che, nel dettare disposizioni per l'Amministrazione della pubblica sicurezza e per alcune attivita' delle Forze di polizia e delle Forze armate, prevede che con regolamento da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), siano determinate le modalita' per il reclutamento e il trasferimento ad altri ruoli per sopravvenuta inidoneita' alle specifiche mansioni del personale dei gruppi sportivi delle Forze di polizia e delle Forze armate;
 
-Visto il [decreto legislativo 12 maggio 1995, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;198), e successive modificazioni, in materia di reclutamento, stato ed avanzamento del personale non direttivo e non dirigente dell'Arma dei carabinieri;
+Visto il [decreto legislativo 12 maggio 1995, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20dei%20ruoli%20e%20modifica%20delle%20norme%20di%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20non%20direttivo%20e%20non%20dirige_7b08a5b3e400.md), e successive modificazioni, in materia di reclutamento, stato ed avanzamento del personale non direttivo e non dirigente dell'Arma dei carabinieri;
 
-Visto l'[articolo 29 della legge 24 dicembre 1986, n. 958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-24;958#art_29), concernente la partecipazione dei militari di leva allo svolgimento di attivita' sportive;
+Visto l'[articolo 29 della legge 24 dicembre 1986, n. 958](Norme%20sul%20servizio%20militare%20di%20leva%20e%20sulla%20ferma%20di%20leva%20prolungata.md), concernente la partecipazione dei militari di leva allo svolgimento di attivita' sportive;
 
 Visto il [decreto del Ministro della difesa 4 agosto 1988, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.difesa:decreto:1988-08-04;459), recante regolamento disciplinante l'attivita' sportiva dei militari di leva riconosciuti atleti di livello nazionale;
 
-Visto l'[articolo 57 del decreto del Presidente della Repubblica 31 luglio 1995, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-31;395#art_57), e successive modifi-cazioni, che autorizza il personale dell'Arma dei carabinieri inquadrato nei gruppi sportivi o riconosciuto atleta di interesse nazionale a non presenziare alle attivita' di servizio, secondo determinate modalita';
+Visto l'[articolo 57 del decreto del Presidente della Repubblica 31 luglio 1995, n. 395](../DPR/Recepimento%20dellaccordo%20sindacale%20del%2020%20luglio%201995%20riguardante%20il%20personale%20delle%20Forze%20di%20polizia%20ad%20ordinamento%20civile%20Polizia%20di%20Stato%20Corpo%20di%20polizia%20penitenziaria%20e%20Corpo%20forestal_a44ad6bea146.md), e successive modifi-cazioni, che autorizza il personale dell'Arma dei carabinieri inquadrato nei gruppi sportivi o riconosciuto atleta di interesse nazionale a non presenziare alle attivita' di servizio, secondo determinate modalita';
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
@@ -56,11 +56,11 @@ Il Centro ottiene l'affiliazione alle federazioni sportive, in base alle disposi
 
 1.
 
-Il reclutamento degli atleti del Centro ha luogo, annualmente, ai sensi dell'[articolo 4, comma 1, lettera a), del decreto legislativo 12 maggio 1995, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;198#art_4-com1-leta), e successive modificazioni, mediante pubblico concorso per titoli, nel limite delle vacanze organiche del ruolo appuntati e carabinieri.
+Il reclutamento degli atleti del Centro ha luogo, annualmente, ai sensi dell'[articolo 4, comma 1, lettera a), del decreto legislativo 12 maggio 1995, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20dei%20ruoli%20e%20modifica%20delle%20norme%20di%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20non%20direttivo%20e%20non%20dirige_7b08a5b3e400.md), e successive modificazioni, mediante pubblico concorso per titoli, nel limite delle vacanze organiche del ruolo appuntati e carabinieri.
 
 2.
 
-Gli aspiranti, oltre ai requisiti necessari per l'accesso al ruolo appuntati e carabinieri, di cui all'[articolo 5 del decreto legislativo 12 maggio 1995, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;198#art_5), e successive modificazioni, debbono aver conseguito nell'anno precedente, nella disciplina prescelta, risultati agonistici di livello almeno nazionale certificati dal CONI o dalle federazioni sportive nazionali, la cui valutazione e' devoluta alla commissione esaminatrice di cui all'articolo 5, sulla base dei parametri fissati nel bando di concorso.
+Gli aspiranti, oltre ai requisiti necessari per l'accesso al ruolo appuntati e carabinieri, di cui all'[articolo 5 del decreto legislativo 12 maggio 1995, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20dei%20ruoli%20e%20modifica%20delle%20norme%20di%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20non%20direttivo%20e%20non%20dirige_7b08a5b3e400.md), e successive modificazioni, debbono aver conseguito nell'anno precedente, nella disciplina prescelta, risultati agonistici di livello almeno nazionale certificati dal CONI o dalle federazioni sportive nazionali, la cui valutazione e' devoluta alla commissione esaminatrice di cui all'articolo 5, sulla base dei parametri fissati nel bando di concorso.
 
 3.
 
@@ -71,24 +71,24 @@ I vincitori sono ammessi ad uno specifico corso formativo in qualita' di allievi
 Il personale appartenente ai ruoli ispettori, sovrintendenti e appuntati e carabinieri puo' essere inserito nel Centro qualora sia in possesso degli stessi requisiti previsti per il pubblico concorso.
 
 Note all'art. 3:
- - Il testo dell'[art. 4, comma 1, lettera a), del decreto legislativo 12 maggio 1995, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;198#art_4-com1-leta), citato nelle note alle premesse, e' il seguente:
+ - Il testo dell'[art. 4, comma 1, lettera a), del decreto legislativo 12 maggio 1995, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20dei%20ruoli%20e%20modifica%20delle%20norme%20di%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20non%20direttivo%20e%20non%20dirige_7b08a5b3e400.md), citato nelle note alle premesse, e' il seguente:
  «Art. 4 (Reclutamento dei carabinieri). - 1. Sono consentiti:
  a) arruolamenti volontari come carabinieri effettivi con la ferma di quattro anni, dei giovani che abbiano compiuto il diciassettesimo e non superato il ventiseiesimo anno di eta', anche se arruolati per leva o incorporati in altre armi o Forze armate nonche' nelle Forze di' Polizia, anche ad ordinamento civile. Per coloro che hanno gia' prestato servito militare il limite di eta' e' elevato a 28 anni;».
- - Il testo dell'[art. 5, del decreto legislativo 12 maggio 1995, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;198#art_5), citato nelle note alle premesse, e' il seguente:
+ - Il testo dell'[art. 5, del decreto legislativo 12 maggio 1995, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20dei%20ruoli%20e%20modifica%20delle%20norme%20di%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20non%20direttivo%20e%20non%20dirige_7b08a5b3e400.md), citato nelle note alle premesse, e' il seguente:
  «Art. 5 (Requisiti per l'arruolamento). - 1. Gli aspiranti agli arruolamenti volontari di cui all'art. 4 debbono possedere i seguenti requisiti:
  a) cittadinanza italiana e godimento dei diritti civili e politici;
  b) aver compiuto, alla data di scadenza dei termini per la presentazione della domanda di arruolamento, il diciassettesimo anno di eta' e non superato il ventiseiesimo. Il limite di eta' e' elevato a ventotto anni per i giovani che hanno gia' prestato servizio militare;
  c) idoneita' attitudinale al servizio nell'Arma dei carabinieri, accertata dal centro nazionale selezione e reclutamento carabinieri, il cui giudizio e' definitivo:
  d) titolo di studio di diploma di istruzione secondaria di primo grado;
  e) stato civile di celibe, nubile o vedovo ovvero vedova o se coniugato aver compiuto ventisei anni di eta' (2/c);
- f) idoneita' psico-fisica prevista dal decreto del Ministro della difesa emanato ai sensi dell'[art. 1, comma 5, della legge 20 ottobre 1999, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-10-20;380#art_1-com5);
+ f) idoneita' psico-fisica prevista dal decreto del Ministro della difesa emanato ai sensi dell'[art. 1, comma 5, della legge 20 ottobre 1999, n. 380](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20servizio%20militare%20volontario%20femminile.md);
  g) statura non inferiore ai limiti previsti dal decreto del Presidente del Consiglio dei Ministri emanato ai sensi dell'[art. 2 della legge 13 dicembre 1986, n. 874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-13;874#art_2);
  h) non essere stati espulsi dalle Forze armate, da corpi militarmente organizzati o destituiti dai pubblici uffici;
  i) non essere stati riformati o dichiarati rivedibili in sede di visita di leva;
  j) non essere stati condannati per delitto non colposo;
  k) non essere imputati per delitti non colposi ne' essere stati sottoposti a misure di prevenzione;
  l) non trovarsi in situazioni comunque non compatibili con l'acquisizione o la conservazione dello stato di carabiniere.
- 2. Gli aspiranti all'arruolamento nell'Arma dei carabinieri debbono essere in possesso dei requisiti morali richiesti dall'[art. 26 della legge 1° febbraio 1989, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-01;53#art_26), nonche' di quelli previsti dall'[art. 17, comma 2 della legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382#art_17-com2), risultanti dalle informazioni raccolte.
+ 2. Gli aspiranti all'arruolamento nell'Arma dei carabinieri debbono essere in possesso dei requisiti morali richiesti dall'[art. 26 della legge 1° febbraio 1989, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-01;53#art_26), nonche' di quelli previsti dall'[art. 17, comma 2 della legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), risultanti dalle informazioni raccolte.
 
 ## Art. 4. — Bando di concorso
 

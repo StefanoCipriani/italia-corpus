@@ -20,9 +20,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D' ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e delle facolta' conferite al Governo con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e delle facolta' conferite al Governo con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto l'art. 51 del testo unico del regolamento pel corpo delle guardie di citta', approvato con [R. decreto 27 giugno 1907, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-06-27;367); 
+ Visto l'art. 51 del testo unico del regolamento pel corpo delle guardie di citta', approvato con [R. decreto 27 giugno 1907, n. 367](Che%20approva%20lunito%20testo%20unico%20del%20regolamento%20pel%20Corpo%20delle%20guardie%20di%20citta.%20007U0367.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Per tutta la durata della guerra e fino ad un anno dopo la conclusione della pace, potranno, in mancanza di graduati, degli appuntati e delle guardie di citta' indicati nell'art. 51 del testo unico del regolamento, approvato con [R. decreto 27 giugno 1907, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-06-27;367), essere trasferiti nel personale degli agenti sedentari sempre nei limiti stabiliti dall'organico e con la paga giornaliera assegnata a detto personale, anche i graduati, gli appuntati e le guardie che, quantunque colpiti dai limiti di eta', risultino, in seguito a visita medica, tuttora idonei al servizio sedentario. 
+ Per tutta la durata della guerra e fino ad un anno dopo la conclusione della pace, potranno, in mancanza di graduati, degli appuntati e delle guardie di citta' indicati nell'art. 51 del testo unico del regolamento, approvato con [R. decreto 27 giugno 1907, n. 367](Che%20approva%20lunito%20testo%20unico%20del%20regolamento%20pel%20Corpo%20delle%20guardie%20di%20citta.%20007U0367.md), essere trasferiti nel personale degli agenti sedentari sempre nei limiti stabiliti dall'organico e con la paga giornaliera assegnata a detto personale, anche i graduati, gli appuntati e le guardie che, quantunque colpiti dai limiti di eta', risultino, in seguito a visita medica, tuttora idonei al servizio sedentario. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

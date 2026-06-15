@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 maggio 1932, n. 721](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-05-24;721), riguardante la cedibilita' per girata e senza spese delle delegazioni rilasciate dalle Provincie e dai Comuni alle Casse di risparmio ed ai Monti di pieta' di prima categoria, a garanzia di prestiti, con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 24 maggio 1932, n. 721](Cedibilita%20per%20girata%20e%20senza%20spese%20delle%20delegazioni%20rilasciate%20dalle%20Provincie%20e%20dai%20Comuni%20alle%20Casse%20di%20risparmio%20ed%20ai%20Monti%20di%20pieta%20di%201ª%20categoria%20a%20garanzia%20di%20prestiti.%20032U0721.md), riguardante la cedibilita' per girata e senza spese delle delegazioni rilasciate dalle Provincie e dai Comuni alle Casse di risparmio ed ai Monti di pieta' di prima categoria, a garanzia di prestiti, con la seguente modificazione: 
  
  All'art. 2, dopo le parole: «ad istituti autorizzati a riceverle» sono aggiunte le altre: «nonche' all'Istituto di credito delle Casse di risparmio italiane». 
  

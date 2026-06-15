@@ -22,7 +22,7 @@ UMBERTO I
  
  Articolo unico. 
  
- Agli articoli 9, 10, 80 e 165 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [Regio decreto del 17 agosto 1882, n. 956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-08-17;956) (Serie 3ª), sono sostituiti i seguenti: 
+ Agli articoli 9, 10, 80 e 165 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [Regio decreto del 17 agosto 1882, n. 956](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20082U0956.md) (Serie 3ª), sono sostituiti i seguenti: 
  
  Art. 9. Il riparto del contingente di 1ª categoria fra i vari circondari e' fatto per decreto Reale sulla media del numero degli inscritti che nelle ultime cinque leve furono trovati idonei al servizio militare e furono quindi arruolati nella 1ª, nella 2ª o 3ª categoria. Alla media del numero degli inscritti di cui sopra, sui quali deve cadere il riparto del contingente di prima categoria di ciascun circondario, e' aggiunta la media del numero dei renitenti nelle ultime cinque leve del circondario stesso, pero' nella proporzione percentuale degli inscritti trovati idonei ed arruolati. 
  

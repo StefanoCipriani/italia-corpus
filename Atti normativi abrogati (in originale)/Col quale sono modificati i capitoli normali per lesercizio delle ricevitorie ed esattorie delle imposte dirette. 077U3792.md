@@ -10,11 +10,11 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto l'[art. 4 della legge del 20 aprile 1871, numero 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1871-04-20;192#art_4) (Serie 2ª);
+Visto l'[art. 4 della legge del 20 aprile 1871, numero 192](Concernente%20la%20riscossione%20delle%20imposte%20dirette.%20071U0192.md) (Serie 2ª);
 
-Visto il regolamento approvato con [Regio decreto del 25 agosto 1876, n. 3303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-08-25;3303) (Serie 2ª);
+Visto il regolamento approvato con [Regio decreto del 25 agosto 1876, n. 3303](Che%20modifica%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20076U3303.md) (Serie 2ª);
 
-Vista la [legge del 30 dicembre 1876, n. 3591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1876-12-30;3591) (Serie 2ª);
+Vista la [legge del 30 dicembre 1876, n. 3591](Che%20proroga%20il%20termine%20sulla%20circoscrizione%20delle%20esattorie.%20076U3591.md) (Serie 2ª);
 
 Visti i capitoli normali per l'esercizio delle Ricevitorie e delle Esattorie approvati col [decreto Ministeriale del 25 agosto 1876, n. 3304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1876-08-25;3304) (Serie 2ª);
 

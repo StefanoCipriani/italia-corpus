@@ -18,7 +18,7 @@ Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20pot
 
 Visti gli articoli 15, 16, 17 del testo unico di leggi per la imposta sui redditi di ricchezza mobile; approvato con decreto Reale 24 agosto 1877, n. 4021 (serie 2ª);
 
-Visto il [R. decreto-legge 16 ottobre 1924, n. 1613](Riordinamento%20delle%20aliquote%20dellimposta%20sui%20redditi%20di%20ricchezza%20mobile.%20024U1613.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), relativo al riordinamento delle aliquote delle imposte dirette;
+Visto il [R. decreto-legge 16 ottobre 1924, n. 1613](Riordinamento%20delle%20aliquote%20dellimposta%20sui%20redditi%20di%20ricchezza%20mobile.%20024U1613.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), relativo al riordinamento delle aliquote delle imposte dirette;
 
 Visto l'[art. 7 del R. decreto-legge 12 agosto 1927, n. 1463](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md), convertito nella [legge 17 maggio 1928, n. 1122](Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20agosto%201927%20n.%201463%20col%20quale%20si%20dispongono%20sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20028U1122.md), portante sgravi tributari;
 

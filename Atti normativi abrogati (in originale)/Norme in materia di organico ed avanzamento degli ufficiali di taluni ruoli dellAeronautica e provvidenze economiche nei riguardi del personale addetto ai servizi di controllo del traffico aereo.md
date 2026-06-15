@@ -26,15 +26,15 @@ A decorrere dalla data di entrata in vigore del presente decreto il ruolo assist
 
 ## Art. 2.
 
-Il quadro II - ruolo naviganti speciale, il quadro III - ruolo servizi, il quadro VIII - ruolo assistenti tecnici e il quadro X - ruolo amministrazione della tabella n. 3 annessa alla [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), e successive modificazioni, sono sostituiti rispettivamente con quelli riportati in allegato A, B, C, D al presente decreto, fermo restando il numero massimo dei colonnelli stabilito dall'[art. 3 della legge 10 dicembre 1973, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-10;804#art_3).
+Il quadro II - ruolo naviganti speciale, il quadro III - ruolo servizi, il quadro VIII - ruolo assistenti tecnici e il quadro X - ruolo amministrazione della tabella n. 3 annessa alla [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni, sono sostituiti rispettivamente con quelli riportati in allegato A, B, C, D al presente decreto, fermo restando il numero massimo dei colonnelli stabilito dall'[art. 3 della legge 10 dicembre 1973, n. 804](Norme%20per%20lattuazione%20dellarticolo%2016-quater%20della%20legge%2018%20marzo%201968%20n.%20249%20quale%20risulta%20modificato%20dallarticolo%2012%20della%20legge%2028%20ottobre%201970%20n.%20775%20nei%20confronti%20degli%20ufficiali%20del_3480d302bea6.md).
 
 ## Art. 3.
 
-Il numero delle promozioni annuali da capitano a maggiore dell'Arma aeronautica - ruolo naviganti speciale, e' stabilito, per i primi due anni di applicazione del presente decreto, in misura pari a 1,5 volte il corrispondente numero indicato nel quadro II della tabella n. 3 annessa alla [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), quale sostituito dal precedente art. 2.
+Il numero delle promozioni annuali da capitano a maggiore dell'Arma aeronautica - ruolo naviganti speciale, e' stabilito, per i primi due anni di applicazione del presente decreto, in misura pari a 1,5 volte il corrispondente numero indicato nel quadro II della tabella n. 3 annessa alla [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), quale sostituito dal precedente art. 2.
 
 ## Art. 4.
 
-Il numero delle promozioni annuali da capitano a maggiore dell'Arma aeronautica - ruolo servizi, e' stabilito per il primo anno di applicazione del presente decreto in misura pari a 2 volte i corrispondenti numeri indicati nel quadro III della tabella n. 3 annessa alla [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), quale sostituito dal precedente art. 2.
+Il numero delle promozioni annuali da capitano a maggiore dell'Arma aeronautica - ruolo servizi, e' stabilito per il primo anno di applicazione del presente decreto in misura pari a 2 volte i corrispondenti numeri indicati nel quadro III della tabella n. 3 annessa alla [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), quale sostituito dal precedente art. 2.
 
 ## Art. 5.
 
@@ -42,11 +42,11 @@ I posti recati in aumento all'organico dei tenenti e dei sottotenenti dell'Arma 
 
 ## Art. 6.
 
-Il numero delle promozioni al grado di maggiore del ruolo, speciale del Corpo del genio aeronautico e' stabilito, fino alla completa copertura dei posti in organico del grado predetto, in misura pari a 1,5 volte il corrispondente numero indicato nel quadro VIII della tabella n. 3 annessa alla [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), quale sostituito dal precedente art. 2.
+Il numero delle promozioni al grado di maggiore del ruolo, speciale del Corpo del genio aeronautico e' stabilito, fino alla completa copertura dei posti in organico del grado predetto, in misura pari a 1,5 volte il corrispondente numero indicato nel quadro VIII della tabella n. 3 annessa alla [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), quale sostituito dal precedente art. 2.
 
 ## Art. 7.
 
-Il numero delle promozioni annuali da capitano a maggiore del ruolo speciale del Corpo di commissariato aeronautico e' stabilito per i primi tre anni di applicazione del presente decreto in misura pari a 2 volte i corrispondenti numeri indicati nel quadro X della tabella n. 3 annessa alla [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), quale sostituito dal precedente art. 2.
+Il numero delle promozioni annuali da capitano a maggiore del ruolo speciale del Corpo di commissariato aeronautico e' stabilito per i primi tre anni di applicazione del presente decreto in misura pari a 2 volte i corrispondenti numeri indicati nel quadro X della tabella n. 3 annessa alla [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), quale sostituito dal precedente art. 2.
  Per i quadri di avanzamento relativi agli anni 1980 e 1981, e' raddoppiato il numero degli ufficiali da ammettere a valutazione.
 
 ## Art. 8.

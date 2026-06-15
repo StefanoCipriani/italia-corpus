@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 17 febbraio 1942, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-02-17;151);
+Visto il [R. decreto-legge 17 febbraio 1942, n. 151](Adeguamento%20alle%20esigenze%20dellattuale%20stato%20di%20guerra%20delle%20disposizioni%20sullordinamento%20del%20Regio%20esercito%20e%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20042U0151.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la guerra, d'intesa, con il Ministro per il teso
 
 ## Art. 1.
 
-Sono abrogati gli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-02-17;151#art_5), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-02-17;151#art_8), [9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-02-17;151#art_9) e [10 del R. decretolegge 17 febbraio 1942, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-02-17;151#art_10). Le vacanze formatesi, nei vari ruoli e gradi, per le cause contemplate nel predetto art. 5 e non ancora ricoperte alla data di entrata in vigore del presente decreto non saranno piu' colmate con promozioni dal grado inferiore. 
+Sono abrogati gli [articoli 5](Adeguamento%20alle%20esigenze%20dellattuale%20stato%20di%20guerra%20delle%20disposizioni%20sullordinamento%20del%20Regio%20esercito%20e%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20042U0151.md), [8](Adeguamento%20alle%20esigenze%20dellattuale%20stato%20di%20guerra%20delle%20disposizioni%20sullordinamento%20del%20Regio%20esercito%20e%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20042U0151.md), [9](Adeguamento%20alle%20esigenze%20dellattuale%20stato%20di%20guerra%20delle%20disposizioni%20sullordinamento%20del%20Regio%20esercito%20e%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20042U0151.md) e [10 del R. decretolegge 17 febbraio 1942, n. 151](Adeguamento%20alle%20esigenze%20dellattuale%20stato%20di%20guerra%20delle%20disposizioni%20sullordinamento%20del%20Regio%20esercito%20e%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20042U0151.md). Le vacanze formatesi, nei vari ruoli e gradi, per le cause contemplate nel predetto art. 5 e non ancora ricoperte alla data di entrata in vigore del presente decreto non saranno piu' colmate con promozioni dal grado inferiore. 
  Non si fa luogo all'applicazione dell'art. 14 del R. decreto-legge indicato nel precedente comma, per i periodi di tempo in cui il Ministro, in base alla facolta' conferitagli dall'[art. 11 del decreto legislativo Luogotenenziale 5 ottobre 1944, n. 378](Modificazioni%20alla%20legge%209%20maggio%201940%20n.%20370%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20044U0378.md), determini di non procedere alla formazione dei quadri di avanzamento, per i tenenti colonnelli delle armi ai quali i vantaggi previsti dal detto articolo 14 dovrebbero essere concessi. 
  L'abrogazione degli articoli 8, 9 e 10 di cui al 1° comma ha effetto dal 1° gennaio 1942; la norma contenuta nel comma secondo ha effetto dal 1° gennaio 1944.
 

@@ -20,7 +20,7 @@ Il [decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378]
 
 ## Art. 2.
 
-Il [decreto legislativo 28 gennaio 1948, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-28;76), e' ratificato con le seguenti modificazioni:
+Il [decreto legislativo 28 gennaio 1948, n. 76](../Decreti%20Legislativi/Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md), e' ratificato con le seguenti modificazioni:
  Art. 13. - E' sostituito dal seguente:
  "L'[art. 21 del decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-11;378#art_21), e' sostituito dal seguente:
  "Sul totale dei diritti riscossi alla fine di ciascun bimestre dagli uffici distrettuali delle imposte dirette (tabella A), dagli uffici del registro (tabella B), dagli uffici del catasto e dei servizi tecnici erariali (tabella C), dagli uffici delle dogane e delle imposte di fabbricazione e dei laboratori chimici delle dogane e delle imposte indirette (tabella E), e' prelevata l'aliquota del 7 per cento a favore del personale in servizio presso le Intendenze di finanza (uffici amministrativi e di ragioneria) da ripartirsi con i criteri stabiliti dagli articoli 14 (lettere a), b) e ultimo comma), 15, 16 (ultimo comma), 17, 19.
@@ -30,7 +30,7 @@ Il [decreto legislativo 28 gennaio 1948, n. 76](https://www.normattiva.it/uri-re
  Il Ministro per le finanze dispone, inoltre, il prelevamento di una parte in ragione del 10 per cento sull'ammontare dei diritti devoluti ai termini del primo comma a favore del personale in servizio presso le intendenze di finanza (uffici amministrativi e di ragioneria).
  Il fondo costituito con i prelevamenti di cui ai precedenti due commi, viene ripartito, con i medesimi criteri di cui al primo comma, fra il personale delle direzioni generali ed uffici centrali del Ministero delle finanze che non percepiscono diritti, con una quota non superiore ai due terzi, e quello della Ragioneria generale dello Stato in servizio presso l'Ufficio del personale, gli Ispettorati generali e la Ragioneria centrale del Ministero delle finanze con una quota non inferiore ad un terzo.
  Il Ministro per le finanze e' autorizzato a variare con proprio decreto le quote di prelevamento e di riparto di cui ai precedenti commi, ed a procedere a redistribuzione al fine di eliminare le eventuali sensibili differenze di trattamento tra il personale dei singoli rami dell'Amministrazione.
- La facolta' di cui al precedente comma puo' essere esercitata anche sulla quota di cui al [comma terzo dell'art. 7 del decreto legislativo 26 marzo 1948, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-26;261#art_7-com3)".
+ La facolta' di cui al precedente comma puo' essere esercitata anche sulla quota di cui al [comma terzo dell'art. 7 del decreto legislativo 26 marzo 1948, n. 261](../Decreti%20Legislativi/Assetto%20della%20finanza%20delle%20Province%20e%20dei%20Comuni.md)".
 
  TITOLO V. - E' sostituito dal seguente:
 
@@ -50,14 +50,14 @@ Il [decreto legislativo 28 gennaio 1948, n. 76](https://www.normattiva.it/uri-re
  "Il personale addetto agli uffici dipendenti dal Ministero delle finanze e da quello del tesoro, dalla Ragioneria generale dello Stato e dalla Corte dei conti puo' essere escluso dalla ripartizione dei diritti, qualora ricorrano motivi di demerito o quando fruisca di altri particolari compensi o benefici economici".
  Art. 26. - Il secondo comma e' sostituito dal seguente:
  "Ai soli effetti della determinazione dei bimestri di cui al primo comma dell'art. 13 ed al primo comma dell'art. 16 e' stabilita, la decorrenza del 1 gennaio 1948".
- Gli allegati C, E ed F al [decreto legislativo 28 gennaio 1948, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-28;76), sono sostituiti dai seguenti:
+ Gli allegati C, E ed F al [decreto legislativo 28 gennaio 1948, n. 76](../Decreti%20Legislativi/Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md), sono sostituiti dai seguenti:
 
  ----> Parte di provvedimento in formato grafico <----
 
 ## Art. 3.
 
 Le modificazioni introdotte dalla presente legge entrano in vigore il giorno successivo alla pubblicazione della legge stessa sulla Gazzetta Ufficiale della Repubblica.
- I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-28;76) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952.
+ I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](../Decreti%20Legislativi/Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta Ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla, e di farla osservare come legge dello Stato.
 

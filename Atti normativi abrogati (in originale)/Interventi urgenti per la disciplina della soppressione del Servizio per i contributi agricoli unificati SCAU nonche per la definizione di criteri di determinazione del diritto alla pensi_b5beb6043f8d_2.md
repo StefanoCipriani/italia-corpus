@@ -25,11 +25,11 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Per effetto della soppressione del Servizio per i contributi agricoli unificati (SCAU) disposta dall'[articolo 19 della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_19), con decorrenza 1 luglio 1995 la riscossione dei premi e dei contributi di previdenza ed assistenza sociale, dovuti per i lavoratori subordinati ed autonomi del settore agricolo, rimane unificata ed e' attribuita all'Istituto nazionale della previdenza sociale (INPS) che ne dispone la ripartizione tra l'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL) e le gestioni di pertinenza.
+Per effetto della soppressione del Servizio per i contributi agricoli unificati (SCAU) disposta dall'[articolo 19 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), con decorrenza 1 luglio 1995 la riscossione dei premi e dei contributi di previdenza ed assistenza sociale, dovuti per i lavoratori subordinati ed autonomi del settore agricolo, rimane unificata ed e' attribuita all'Istituto nazionale della previdenza sociale (INPS) che ne dispone la ripartizione tra l'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL) e le gestioni di pertinenza.
 
 2.
 
-Per effetto della soppressione dello SCAU, disposta dall'[articolo 19 della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_19), con decorrenza 1 luglio 1995 l'INPS subentra in tutti i rapporti attivi e passivi facenti capo al soppresso SCAU.
+Per effetto della soppressione dello SCAU, disposta dall'[articolo 19 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), con decorrenza 1 luglio 1995 l'INPS subentra in tutti i rapporti attivi e passivi facenti capo al soppresso SCAU.
 
 3.
 
@@ -41,7 +41,7 @@ La Commissione di cui al comma 3 nella prima seduta sceglie tra i propri membri 
 
 5.
 
-La Commissione decide, in unico grado, i ricorsi previsti dagli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-08-11;375#art_10) e [15 del decreto legislativo 11 agosto 1993, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-08-11;375#art_15), e, in seconda istanza, i ricorsi di cui al comma 2 dell'articolo 11 del predetto decreto; formula pareri in ordine alla determinazione annuale dei salari medi provinciali degli operai agricoli a tempo determinato e indeterminato ed in ordine ai valori medi di impiego di manodopera per singola coltura e per ciascun capo di bestiame; esercita attivita' consultiva nei confronti del consiglio di vigilanza e del consiglio di amministrazione dell'Istituto in materia di previdenza agricola.
+La Commissione decide, in unico grado, i ricorsi previsti dagli [articoli 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20comma%201%20lettera%20aa%20della%20legge%2023%20ottobre%201992%20n.%20421%20concernente%20razionalizzazione%20dei%20sistemi%20di%20accertamento%20dei%20lavoratori%20dellagricoltura%20e%20dei%20relativi%20contributi.md) e [15 del decreto legislativo 11 agosto 1993, n. 375](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20comma%201%20lettera%20aa%20della%20legge%2023%20ottobre%201992%20n.%20421%20concernente%20razionalizzazione%20dei%20sistemi%20di%20accertamento%20dei%20lavoratori%20dellagricoltura%20e%20dei%20relativi%20contributi.md), e, in seconda istanza, i ricorsi di cui al comma 2 dell'articolo 11 del predetto decreto; formula pareri in ordine alla determinazione annuale dei salari medi provinciali degli operai agricoli a tempo determinato e indeterminato ed in ordine ai valori medi di impiego di manodopera per singola coltura e per ciascun capo di bestiame; esercita attivita' consultiva nei confronti del consiglio di vigilanza e del consiglio di amministrazione dell'Istituto in materia di previdenza agricola.
 
 ## Art. 2. — Trasferimento del personale dello SCAU
  all'INPS e all'INAIL
@@ -52,7 +52,7 @@ Ai fini del trasferimento all'INPS e all'INAIL del personale gia' dipendente del
 
 2.
 
-I trattamenti integrativi, comprensivi dell'indennita' integrativa speciale, erogati dal Fondo integrativo di previdenza dello SCAU relativi al personale cessato dal servizio fino al 30 settembre 1995, sono posti a carico della gestione speciale ad esaurimento costituita presso l'INPS ai sensi dell'[articolo 75 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;761#art_75), alla quale vengono trasferiti i corrispettivi capitali di copertura, costituiti dalle riserve matematiche relative alle posizioni dei singoli pensionati. Per il caso di insufficienza degli accantonamenti costituiti a fronte delle prestazioni del Fondo integrativo di previdenza dello SCAU, i maggiori oneri occorrenti per i capitali di copertura faranno carico al bilancio dell'INPS e dell'INAIL, in proporzione ai contingenti di personale trasferiti ai due istituti.
+I trattamenti integrativi, comprensivi dell'indennita' integrativa speciale, erogati dal Fondo integrativo di previdenza dello SCAU relativi al personale cessato dal servizio fino al 30 settembre 1995, sono posti a carico della gestione speciale ad esaurimento costituita presso l'INPS ai sensi dell'[articolo 75 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](../DPR/Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), alla quale vengono trasferiti i corrispettivi capitali di copertura, costituiti dalle riserve matematiche relative alle posizioni dei singoli pensionati. Per il caso di insufficienza degli accantonamenti costituiti a fronte delle prestazioni del Fondo integrativo di previdenza dello SCAU, i maggiori oneri occorrenti per i capitali di copertura faranno carico al bilancio dell'INPS e dell'INAIL, in proporzione ai contingenti di personale trasferiti ai due istituti.
 
 3.
 
@@ -63,7 +63,7 @@ Ai fini dell'applicazione dell'articolo 1 e dei commi 1 e 2 del presente articol
 
 1.
 
-Il [comma 9 dell'articolo 7 del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_7-com9), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638), si interpreta nel senso che ai fini della determinazione del diritto alla pensione di anzianita' degli operai agricoli dipendenti, sono richiesti 35 anni di anzianita' assicurativa e un requisito minimo di contribuzione di 5.460 giornate, con esclusione di quelle coperte da contribuzione figurativa per malattia e per indennita' ordinaria di disoccupazione. L'anno di contribuzione dei suddetti operai agricoli ai fini del diritto a pensione di anzianita' e' costituito da 156 contributi giornalieri.
+Il [comma 9 dell'articolo 7 del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_7-com9), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md), si interpreta nel senso che ai fini della determinazione del diritto alla pensione di anzianita' degli operai agricoli dipendenti, sono richiesti 35 anni di anzianita' assicurativa e un requisito minimo di contribuzione di 5.460 giornate, con esclusione di quelle coperte da contribuzione figurativa per malattia e per indennita' ordinaria di disoccupazione. L'anno di contribuzione dei suddetti operai agricoli ai fini del diritto a pensione di anzianita' e' costituito da 156 contributi giornalieri.
 
 2.
 
@@ -74,7 +74,7 @@ Per le giornate di contribuzione inferiori a 270, riferite ad anni antecedenti i
 
 1.
 
-Al [comma 2 dell'articolo 29 del decreto-legge 23 giugno 1995, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244#art_29-com2), convertito, con modificazioni, dalla [legge 8 agosto 1995, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341), le parole: "dall'articolo 5, comma 4," sono sostituite dalle seguenti: "dall'articolo 2, comma 4,".
+Al [comma 2 dell'articolo 29 del decreto-legge 23 giugno 1995, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244#art_29-com2), convertito, con modificazioni, dalla [legge 8 agosto 1995, n. 341](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20giugno%201995%20n.%20244%20recante%20misure%20dirette%20ad%20accelerare%20il%20completamento%20degli%20interventi%20pubblici%20e%20la%20realizzazione%20dei%20nuovi_e8c9b0ef35b3.md), le parole: "dall'articolo 5, comma 4," sono sostituite dalle seguenti: "dall'articolo 2, comma 4,".
 
 ## Art. 5. — Entrata in vigore
 

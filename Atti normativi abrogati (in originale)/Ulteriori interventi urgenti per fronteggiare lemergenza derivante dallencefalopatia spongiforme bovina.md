@@ -126,7 +126,7 @@ L'[articolo 23 della legge 15 febbraio 1963, n. 281](https://www.normattiva.it/u
  "Art. 23. - 1. In caso di violazione delle disposizioni previste dalla presente legge, l'autorita' competente puo' ordinare la sospensione dell'attivita' per un periodo non superiore a tre mesi.
  2. In caso di reiterazione della violazione, l'autorita' competente dispone la sospensione dell'attivita' per un periodo da tre mesi ad un anno.
  3. Se il fatto e' di particolare gravita' e da esso e' derivato pericolo per la salute, l'autorita' competente dispone la chiusura definitiva dello stabilimento o dell'esercizio. Il titolare dello stabilimento o dell'esercizio non puo' ottenere una nuova autorizzazione allo svolgimento della stessa attivita' o di attivita' analoga per la durata di cinque anni.
- 4. Si applica in ogni caso la disposizione di cui all'[articolo 7 del decreto legislativo 30 dicembre 1999, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;507#art_7).".
+ 4. Si applica in ogni caso la disposizione di cui all'[articolo 7 del decreto legislativo 30 dicembre 1999, n. 507](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Depenalizzazione%20dei%20reati%20minori%20e%20riforma%20del%20sistema%20sanzionatorio%20ai%20sensi%20dellarticolo%201%20della%20legge%2025%20giugno%201999%20n.%20205.md).".
 
 3.
 
@@ -158,7 +158,7 @@ Con decreto del Presidente della Repubblica, da emanare entro il 30 giugno 2001,
 
 1.
 
-Alla dotazione del Fondo di cui all'articolo 1, comma 1, determinato in lire 300 miliardi per l'anno 2001, si provvede mediante utilizzo, per pari importo, dell'autorizzazione di spesa recata per l'anno 2000 dall'[articolo 3, comma 1, della legge 23 dicembre 1999, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;499#art_3-com1), come integrata dall'[articolo 52, comma 10, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_52-com10). Detto importo viene versato all'entrata del bilancio statale per essere riassegnato all'apposita unita' previsionale dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica.
+Alla dotazione del Fondo di cui all'articolo 1, comma 1, determinato in lire 300 miliardi per l'anno 2001, si provvede mediante utilizzo, per pari importo, dell'autorizzazione di spesa recata per l'anno 2000 dall'[articolo 3, comma 1, della legge 23 dicembre 1999, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;499#art_3-com1), come integrata dall'[articolo 52, comma 10, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md). Detto importo viene versato all'entrata del bilancio statale per essere riassegnato all'apposita unita' previsionale dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica.
 
 2.
 

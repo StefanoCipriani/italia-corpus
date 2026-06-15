@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- A decorrere dal 1° maggio 1918, nel ruolo organico dell'Amministrazione delle poste e dei telegrafi, di cui nella tabella A, approvata con la [legge 25 giugno 1911, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;575), e' soppresso il posto di primo segretario con lo stipendio annuo di L. 4000, istituito col Nostro decreto 25 ottobre 1917, n. 1882, ed in sua vece e' aumentato un posto di capo sezione, od equivalente, di 2ª classe con lo stipendio annuo di L. 5000. 
+ A decorrere dal 1° maggio 1918, nel ruolo organico dell'Amministrazione delle poste e dei telegrafi, di cui nella tabella A, approvata con la [legge 25 giugno 1911, n. 575](Per%20i%20provvedimenti%20relativi%20agli%20anziani%20ed%20allelevazione%20dei%20minimi%20di%20stipendio%20del%20personale%20dipendente%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20011U0575.md), e' soppresso il posto di primo segretario con lo stipendio annuo di L. 4000, istituito col Nostro decreto 25 ottobre 1917, n. 1882, ed in sua vece e' aumentato un posto di capo sezione, od equivalente, di 2ª classe con lo stipendio annuo di L. 5000. 
  
  L'onere della relativa spesa per stipendi ed eventuali assegni fissi, fara' carico al Ministero delle colonie. 
  

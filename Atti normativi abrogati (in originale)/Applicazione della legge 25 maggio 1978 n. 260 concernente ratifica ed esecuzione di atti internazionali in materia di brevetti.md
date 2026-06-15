@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 26 maggio 1978, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-26;260), concernente delega al Governo ad emanare le norme occorrenti per l'applicazione della convenzione sul rilascio dei brevetti (convenzione sul brevetto europeo) con regolamento di esecuzione ed allegati, firmata a Monaco il 5 ottobre 1973, ratificata e resa esecutiva in Italia con la legge medesima;
+Vista la [legge 26 maggio 1978, n. 260](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20di%20atti%20internazionali%20in%20materia%20di%20brevetti%20firmati%20rispettivamente%20a%20Strasburgo%20il%2027%20novembre%201963%20a%20Washington%20il%2019%20giugno%201970%20a%20Monaco%20il%205%20ottobre%201973%20ed%20_1b68a05778a4.md), concernente delega al Governo ad emanare le norme occorrenti per l'applicazione della convenzione sul rilascio dei brevetti (convenzione sul brevetto europeo) con regolamento di esecuzione ed allegati, firmata a Monaco il 5 ottobre 1973, ratificata e resa esecutiva in Italia con la legge medesima;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro dell'industria, del commercio e dell'artigianato, di
 
 Le domande di brevetto europeo possono essere depositate presso l'Ufficio centrale brevetti, direttamente o tramite il servizio postale. Si applicano i primi due commi dell'[art. 2 del decreto del Presidente della Repubblica 30 giugno 1972, n. 540](Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20modelli%20industriali%20e%20marchi%20di%20impresa.md).
  Le persone fisiche o giuridiche che abbiano il domicilio o la sede in Italia debbono depositare la domanda di brevetto europeo esclusivamente presso l'Ufficio centrale brevetti; l'obbligo non sussiste quando venga rivendicata la priorita' di una domanda di brevetto nazionale depositata in Italia da oltre novanta giorni senza essere stata assoggettata al vincolo del segreto.
- Si applicano le disposizioni dell'[art. 27-bis del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_27bis).
+ Si applicano le disposizioni dell'[art. 27-bis del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md).
  Le disposizioni che precedono non si applicano alle domande divisionali di cui all'art. 76 della convenzione sul brevetto europeo.
  La domanda di brevetto europeo, redatta secondo le norme convenzionali, deve essere corredata da una copia della descrizione e delle rivendicazioni redatta in lingua italiana, nonche' dagli eventuali disegni. Detta copia sostituisce la traduzione prevista al secondo comma del successivo art. 3, nonche' quella prevista al terzo e quarto comma del successivo art. 4 qualora il brevetto europeo sia concesso senza modificazioni; essa sara' posta a disposizione del pubblico dopo che sia avvenuta la pubblicazione della domanda di brevetto europeo ai sensi dell'art. 93 della convenzione sul brevetto europeo.
  L'Ufficio centrale brevetti informa immediatamente l'Ufficio europeo dei brevetti dell'avvenuto deposito della domanda.
@@ -33,7 +33,7 @@ Le domande di brevetto europeo il cui oggetto, ad avviso della Sezione militare 
  L'accertamento per stabilire se l'oggetto di una domanda debba essere eventualmente vincolato al segreto deve concludersi entro il termine perentorio di novanta giorni dalla data di deposito e comunque, qualora una priorita' sia stata rivendicata, entro il termine perentorio di tredici mesi dalla data di priorita'. 
  Entro i predetti termini il Ministero della difesa puo' imporre il vincolo del segreto e chiedere all'Ufficio centrale brevetti di non procedere alla trasmissione della domanda all'Ufficio europeo dei brevetti; l'Ufficio da' comunicazione della richiesta all'interessato, diffidandolo ad osservare l'obbligo del segreto. 
  Decorsi i termini l'Ufficio centrale brevetti trasmette la domanda all'Ufficio europeo dei brevetti. 
- Si applicano le disposizioni dell'[art. 6 del decreto del Presidente della Repubblica 30 giugno 1972, n. 540](Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20modelli%20industriali%20e%20marchi%20di%20impresa.md) e dell'[art. 41 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_41). 
+ Si applicano le disposizioni dell'[art. 6 del decreto del Presidente della Repubblica 30 giugno 1972, n. 540](Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20modelli%20industriali%20e%20marchi%20di%20impresa.md) e dell'[art. 41 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md). 
  Nel caso in cui le domande di brevetto europeo si considerino ritirate a norma dell'art. 77, §5, della convenzione sul brevetto europeo, il richiedente, entro tre mesi dalla ricezione della comunicazione, ha facolta' di chiedere la trasformazione di cui al successivo art. 6. 
  Salvo che le disposizioni sulla tutela del segreto sulle invenzioni interessanti la difesa militare del Paese non lo consentano, l'Ufficio centrale brevetti, qualora non siano ancora trascorsi venti mesi dalla data di deposito o di priorita', trasmette copia della richiesta di trasformazione ai servizi centrali degli altri Stati indicati nella richiesta medesima, allegando una copia della domanda di brevetto europeo prodotta dall'istante.
 
@@ -67,7 +67,7 @@ La domanda di brevetto europeo, nella quale sia stata designata l'Italia, puo' e
  a) nei casi previsti dall'art. 135, § 1 lettera a) della convenzione sul brevetto europeo; 
  b) in caso di inosservanza del termine di cui all'art. 14 § 2 della convenzione sul brevetto europeo, quando la domanda sia stata originariamente depositata in lingua italiana. 
  E' inoltre consentita la trasformazione in domanda nazionale per modello di utilita' di una domanda di brevetto europeo respinta, ritirata o considerata ritirata il cui oggetto abbia i requisiti di brevettabilita' previsti dalla legislazione italiana per i modelli di utilita'. 
- A coloro che richiedano la trasformazione di cui al primo comma e' consentito chiedere contemporaneamente l'eventuale trasformazione in domanda di modello di utilita' ai sensi dell'[art. 4 del regio decreto 25 agosto 1940, n. 1411](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-08-25;1411#art_4).
+ A coloro che richiedano la trasformazione di cui al primo comma e' consentito chiedere contemporaneamente l'eventuale trasformazione in domanda di modello di utilita' ai sensi dell'[art. 4 del regio decreto 25 agosto 1940, n. 1411](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md).
 
 ## Art. 7. — Effetti e modalita' della trasformazione
 
@@ -96,7 +96,7 @@ Il brevetto europeo puo' essere dichiarato nullo per l'Italia soltanto per uno d
 ## Art. 11. — Registro italiano dei brevetti europei
 
 Quando il Bollettino europeo dei brevetti menziona il rilascio di un brevetto europeo che esplica i suoi effetti in Italia, l'Ufficio centrale brevetti iscrive detto brevetto in apposito registro denominato: "Registro italiano dei brevetti europei", unitamente alle indicazioni riportate nel registro europeo dei brevetti. 
- Nel registro deve anche essere presa nota della data in cui e' stata presentata la traduzione di cui all'art. 4 nonche' degli atti elencati all'[art. 66 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_66).
+ Nel registro deve anche essere presa nota della data in cui e' stata presentata la traduzione di cui all'art. 4 nonche' degli atti elencati all'[art. 66 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md).
 
 ## Art. 12. — Trasferimento di diritti
 
@@ -104,7 +104,7 @@ L'iscrizione nel registro europeo dei brevetti degli atti che trasferiscono, in 
 
 ## Art. 13. — Elezione di domicilio
 
-Nelle procedure davanti l'Ufficio centrale brevetti concernenti un brevetto europeo avente effetto in Italia, il titolare deve eleggere domicilio in Italia per tutte le comunicazioni e notificazioni del predetto Ufficio. Si applicano le disposizioni dell'[art. 93 del regio decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_93).
+Nelle procedure davanti l'Ufficio centrale brevetti concernenti un brevetto europeo avente effetto in Italia, il titolare deve eleggere domicilio in Italia per tutte le comunicazioni e notificazioni del predetto Ufficio. Si applicano le disposizioni dell'[art. 93 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md).
 
 ## Art. 14. — Tasse annuali
 

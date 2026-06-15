@@ -15,7 +15,7 @@ Sono approvate le eccedenze d'impegni verificatesi nellostato di previsione dell
  Cap. n. 16: «Sussidi al clero, a corpi morali e 
  per altri usi di carita'» . . . . . . . . . . . . . 30,--  » 18-bis: «Indennita' ai subeconomi di cui 
  all'art. 81 del regolamento approvato con [R. 
- decreto 2 marzo 1899, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-03-02;64)» . . . . . . . . . . . 300,--  » 23-bis: «Anticipazione per conto di 
+ decreto 2 marzo 1899, n. 64](Approvante%20il%20Regolamento%20che%20stabilisce%20luniforme%20esercizio%20del%20diritto%20di%20regalia%20e%20riordina%20gli%20uffici%20degli%20Economati%20generali%20dei%20benefici%20vacanti.%20099U0064.md)» . . . . . . . . . . . 300,--  » 23-bis: «Anticipazione per conto di 
  altri Economati salvo rivalsa di quote di 
  stipendi e di pensioni a funzionari economali, 
  loro vedove e figli» . . . . . . . . . . . . . . . 2.551,72  » 25: «Somministrazione di fondi ai 
@@ -37,7 +37,7 @@ Sono approvate le eccedenze d'impegni verificatesi nello stato di previsione del
 
 ## Art. 3.
 
-E' approvata l'eccedenza d'impegni di L. 400 verificatasi sull'assegnazione del capitolo n.17-bis: «Indennita' ai subeconomi di cui all'art. 81 del regolamento approvato con [R. decreto 2 marzo 1899, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-03-02;64)», della stato di previsione della spesa dell'Economato generale dei benefizi vacanti di Milano, per l'esercizio finanziario 1912-913.
+E' approvata l'eccedenza d'impegni di L. 400 verificatasi sull'assegnazione del capitolo n.17-bis: «Indennita' ai subeconomi di cui all'art. 81 del regolamento approvato con [R. decreto 2 marzo 1899, n. 64](Approvante%20il%20Regolamento%20che%20stabilisce%20luniforme%20esercizio%20del%20diritto%20di%20regalia%20e%20riordina%20gli%20uffici%20degli%20Economati%20generali%20dei%20benefici%20vacanti.%20099U0064.md)», della stato di previsione della spesa dell'Economato generale dei benefizi vacanti di Milano, per l'esercizio finanziario 1912-913.
 
 ## Art. 4.
 

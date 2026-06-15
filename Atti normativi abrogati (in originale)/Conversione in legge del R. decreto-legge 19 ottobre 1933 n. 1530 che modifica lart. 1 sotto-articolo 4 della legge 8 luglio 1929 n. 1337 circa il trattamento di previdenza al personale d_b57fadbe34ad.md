@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 19 ottobre 1933, n. 1530](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1530), che modifica l'art. 1, sotto-[articolo 4, della legge 8 luglio 1929, n. 1337](Ordinamento%20della%20Milizia%20portuaria.%20029U1337.md), circa il trattamento di previdenza al personale della Milizia portuaria. 
+ E' convertito in legge il [R. decreto legge 19 ottobre 1933, n. 1530](Trattamento%20di%20previdenza%20al%20personale%20della%20Milizia%20portuaria.%20033U1530.md), che modifica l'art. 1, sotto-[articolo 4, della legge 8 luglio 1929, n. 1337](Ordinamento%20della%20Milizia%20portuaria.%20029U1337.md), circa il trattamento di previdenza al personale della Milizia portuaria. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 luglio 1933, n. 1050](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-07-06;1050), contenente disposizioni sul limite di servizio per la permanenza degli ufficiali nella posizione di congedo provvisorio. 
+ E' convertito in legge il [R. decreto-legge 6 luglio 1933, n. 1050](Assegnazione%20del%20limite%20di%20servizio%20per%20la%20permanenza%20degli%20ufficiali%20nella%20posizione%20di%20congedo%20provvisorio.%20033U1050.md), contenente disposizioni sul limite di servizio per la permanenza degli ufficiali nella posizione di congedo provvisorio. 
  
  ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

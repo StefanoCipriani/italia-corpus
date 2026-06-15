@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-19;1453), concernente la soppressione della Sezione speciale dell'Ispettorato del Tesoro per il risanamento della citta' di Napoli. 
+ E' convertito in legge il [R. decreto-legge 19 ottobre 1933, n. 1453](Soppressione%20della%20Sezione%20speciale%20dellIspettorato%20del%20Tesoro%20per%20il%20risanamento%20della%20citta%20di%20Napoli.%20033U1453.md), concernente la soppressione della Sezione speciale dell'Ispettorato del Tesoro per il risanamento della citta' di Napoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

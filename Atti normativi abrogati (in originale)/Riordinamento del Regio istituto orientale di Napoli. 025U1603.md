@@ -88,7 +88,7 @@ Per il raggiungimento e in relazione ai fini di cui all'articolo 2 il Regio isti
 
 ## Art. 8.
 
-Il Regio istituto orientale e' compreso tra gli Enti presso i quali possono essere destinati a prestar servizio funzionari appartenenti all'Amministrazione dello Stato, collocati fuori ruolo, a norma delle disposizioni contenute nel [R. decreto 30 dicembre 1923, n. 2958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2958).
+Il Regio istituto orientale e' compreso tra gli Enti presso i quali possono essere destinati a prestar servizio funzionari appartenenti all'Amministrazione dello Stato, collocati fuori ruolo, a norma delle disposizioni contenute nel [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md).
 
 ## Art. 9.
 

@@ -56,7 +56,7 @@ Per i pagamenti da ordinare in dipendenza di opere d'irrigazione e di bonifica c
 
 Per la costruzione di acquedotti rurali lo Stato puo' concedere un contributo nella misura del 75 per cento dell'importo delle opere. 
  
- Ai contributi stessi si applicano le disposizioni di cui agli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-20;1154#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-20;1154#art_4) e [5 del R. decreto 20 maggio 1926, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-20;1154#art_5). 
+ Ai contributi stessi si applicano le disposizioni di cui agli [articoli 3](Nuove%20disposizioni%20sulle%20opere%20di%20irrigazione%20nellItalia%20Meridionale%20e%20nelle%20Isole.%20026U1154.md), [4](Nuove%20disposizioni%20sulle%20opere%20di%20irrigazione%20nellItalia%20Meridionale%20e%20nelle%20Isole.%20026U1154.md) e [5 del R. decreto 20 maggio 1926, n. 1154](Nuove%20disposizioni%20sulle%20opere%20di%20irrigazione%20nellItalia%20Meridionale%20e%20nelle%20Isole.%20026U1154.md). 
  
  Per far luogo ai pagamenti di cui ai precedenti commi saranno inscritte nel bilancio del Ministero dei lavori pubblici: 
  
@@ -82,7 +82,7 @@ Per la costruzione di acquedotti rurali lo Stato puo' concedere un contributo ne
 
 ## Art. 4.
 
-L'[art. 10 del testo unico 30 dicembre 1923, n. 3256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256#art_10), e l'[articolo 17 del R. decreto-legge 18 maggio 1924, n. 753](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-18;753#art_17), sono abrogati. 
+L'[art. 10 del testo unico 30 dicembre 1923, n. 3256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256#art_10), e l'[articolo 17 del R. decreto-legge 18 maggio 1924, n. 753](Provvedimenti%20per%20le%20trasformazioni%20fondiarie%20di%20pubblico%20interesse.%20024U0753.md), sono abrogati. 
  
  I progetti di bonifica idraulica devono prevedere le opere necessarie per la provvista di acqua potabile. La spesa relativa sara' compresa nel preventivo di spesa della bonifica, ma il contributo dello Stato non potra' in nessun caso essere inferiore alla misura del 75 per cento prevista nel precedente articolo.
 

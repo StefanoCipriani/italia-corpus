@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 dicembre 1921, n. 1960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-12-22;1960), che sopprime il Consiglio di disciplina permanente per gli ufficiali del R. esercito e della R. marina. 
+ E' convertito in legge il [R. decreto-legge 22 dicembre 1921, n. 1960](Che%20sopprime%20il%20consiglio%20di%20disciplina%20permanente%20per%20gli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20021U1960.md), che sopprime il Consiglio di disciplina permanente per gli ufficiali del R. esercito e della R. marina. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

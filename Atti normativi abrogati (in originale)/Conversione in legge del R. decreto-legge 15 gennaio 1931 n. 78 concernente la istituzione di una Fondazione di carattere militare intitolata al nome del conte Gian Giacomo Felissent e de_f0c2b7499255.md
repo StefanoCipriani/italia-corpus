@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 gennaio 1931, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-15;78), concernente la istituzione di una Fondazione di carattere militare intitolata al nome del conte Gian Giacomo Felissent e destinata a favore di ufficiali del Regio esercito. 
+ E' convertito in legge il [R. decreto-legge 15 gennaio 1931, n. 78](Istituzione%20di%20una%20fondazione%20di%20carattere%20militare%20intitolata%20al%20nome%20del%20Conte%20Gian%20Giacomo%20Felissent%20e%20destinata%20a%20favore%20di%20ufficiali%20del%20Regio%20esercito.%20031U0078.md), concernente la istituzione di una Fondazione di carattere militare intitolata al nome del conte Gian Giacomo Felissent e destinata a favore di ufficiali del Regio esercito. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

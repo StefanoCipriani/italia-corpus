@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vedute le [leggi 25 maggio 1913, n. 527 e 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679);
+Vedute le [leggi 25 maggio 1913, n. 527 e 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md);
 
 Udito il Consiglio dei ministri;
 
@@ -46,7 +46,7 @@ In attuazione del disposto dell'articolo precedente sono aggiunti ai ruoli organ
 
 ## Art. 3.
 
-Per il funzionamento dei corsi tecnici complementari sono creati ed aggregati ai posti compresi nel ruolo B della [legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679), due posti di straordinario, l'uno per l'insegnamento dell'agraria, della contabilita' rurale, e degli elementi di legislazione rurale; l'altro per l'insegnamento della ragioneria con relative esercitazioni di pratica commerciale. 
+Per il funzionamento dei corsi tecnici complementari sono creati ed aggregati ai posti compresi nel ruolo B della [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), due posti di straordinario, l'uno per l'insegnamento dell'agraria, della contabilita' rurale, e degli elementi di legislazione rurale; l'altro per l'insegnamento della ragioneria con relative esercitazioni di pratica commerciale. 
  
  Gli insegnanti, ai quali saranno conferite queste cattedre, avranno gli stessi obblighi e diritti degli insegnanti che appartengono al ruolo B del personale delle RR. scuole medie.
 

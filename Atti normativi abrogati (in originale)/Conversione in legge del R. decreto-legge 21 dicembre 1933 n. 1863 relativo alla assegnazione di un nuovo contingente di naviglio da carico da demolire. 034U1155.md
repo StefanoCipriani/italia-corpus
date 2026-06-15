@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 dicembre 1933, n. 1863](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-21;1863), relativo alla assegnazione di un nuovo contingente di naviglio da carico da demolire. 
+ E' convertito in legge il [R. decreto-legge 21 dicembre 1933, n. 1863](Assegnazione%20di%20un%20nuovo%20contingente%20di%20naviglio%20da%20carico%20da%20demolire.%20033U1863.md), relativo alla assegnazione di un nuovo contingente di naviglio da carico da demolire. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

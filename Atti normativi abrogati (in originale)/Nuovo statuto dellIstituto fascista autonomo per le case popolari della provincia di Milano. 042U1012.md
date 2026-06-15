@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto il [testo unico delle disposizioni sull'edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380) popolare ed economica approvato con R. decreto 28 aprile 1938-XVI, n. 1165; 
+ Visto il [testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con R. decreto 28 aprile 1938-XVI, n. 1165; 
  
  Visto il [decreto Ministeriale n. 8495, del 10 luglio 1936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1936-07-10;8495)-XIV con il quale l'Istituto autonomo per le case popolari di Milano e' stato riconosciuto come Istituto fascista autonomo per le case popolari della provincia di Milano; 
  

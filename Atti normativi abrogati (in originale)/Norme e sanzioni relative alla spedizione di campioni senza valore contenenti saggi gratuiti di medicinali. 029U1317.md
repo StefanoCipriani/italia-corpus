@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Gli invii, spediti da Case produttrici, ammessi alla tariffa speciale concessa con l'[art. 3 del R. decreto-legge 1° maggio 1924, n. 768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-01;768#art_3), convertito in [legge 10 dicembre 1925, n. 2111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-10;2111), debbono contenere esclusivamente saggi gratuiti di medicinali prodotti nel Regno, o assimilati ai medesimi. 
+ Gli invii, spediti da Case produttrici, ammessi alla tariffa speciale concessa con l'[art. 3 del R. decreto-legge 1° maggio 1924, n. 768](Tariffe%20postali%20per%20la%20spedizione%20del%20materiale%20propagandistico.%20024U0768.md), convertito in [legge 10 dicembre 1925, n. 2111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-10;2111), debbono contenere esclusivamente saggi gratuiti di medicinali prodotti nel Regno, o assimilati ai medesimi. 
  
  I contravventori sono puniti con l'ammenda da L. 25 a L. 100 per ogni campione inviato a ciascun destinatario senza pregiudizio delle maggiori pene in cui potrebbero essere incorsi secondo il diritto comune. 
  

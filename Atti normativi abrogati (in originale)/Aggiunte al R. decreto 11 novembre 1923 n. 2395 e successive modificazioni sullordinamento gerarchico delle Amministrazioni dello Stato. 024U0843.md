@@ -229,7 +229,7 @@ Gli aumenti di anzianita' di cui agli [articoli 3](https://www.normattiva.it/uri
 -------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 febbraio 1926, n. 204](Miglioramenti%20di%20carriera%20al%20personale%20civile%20insegnante%20della%20Regia%20accademia%20navale.%20026U0204.md), convertito senza modificazioni dalla [L. 15 luglio 1926, n. 1263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-15;1263), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 febbraio 1926, n. 204](Miglioramenti%20di%20carriera%20al%20personale%20civile%20insegnante%20della%20Regia%20accademia%20navale.%20026U0204.md), convertito senza modificazioni dalla [L. 15 luglio 1926, n. 1263](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1263.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 28.
 

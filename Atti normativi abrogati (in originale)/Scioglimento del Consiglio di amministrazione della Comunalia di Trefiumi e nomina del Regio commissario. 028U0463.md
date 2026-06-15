@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'[art. 5 della legge 4 agosto 1894, n. 397](Sullordinamento%20dei%20dominii%20collettivi%20nelle%20provincie%20dellex%20Stato%20Pontificio%20094U0397.md), e l'[articolo 26 della legge 16 giugno 1927, n. 1766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;1766#art_26);
+Veduto l'[art. 5 della legge 4 agosto 1894, n. 397](Sullordinamento%20dei%20dominii%20collettivi%20nelle%20provincie%20dellex%20Stato%20Pontificio%20094U0397.md), e l'[articolo 26 della legge 16 giugno 1927, n. 1766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20maggio%201924%20n.%20751%20riguardante%20il%20riordinamento%20degli%20usi%20civici%20nel%20Regno%20del%20R.%20decreto%2028%20agosto%201924%20n.%201484%20che%20modifica%20lart.%2026%20del%20R.%20decret_728733510b66.md);
 
 Veduti gli articoli 323 e 324 della legge comunale e provinciale approvata con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e modificata col R. decreto 30 novembre 1923, n, 2939;
 

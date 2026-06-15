@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visti gli [articoli 11](Riordinamento%20del%20Registro%20italiano%20per%20la%20classificazione%20delle%20navi.%20026U2138.md) e [5 del R. decreto-legge 11 novembre 1926, n. 2138](Riordinamento%20del%20Registro%20italiano%20per%20la%20classificazione%20delle%20navi.%20026U2138.md), convertito nella [legge 16 febbraio 1928, n. 337](Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20novembre%201926%20n.%202138%20che%20riordina%20il%20Registro%20italiano%20per%20la%20classificazione%20delle%20navi.%20028U0337.md), (riordinamento del Registro italiano navale ed aeronautico);
 
-Visto l'[art. 5 del R. decreto 9 giugno 1927, n. 2163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-09;2163#art_5), (attribuzione al Registro italiano navale ed aeronautico del servizio di sorveglianza e visita degli aeromobili commerciali);
+Visto l'[art. 5 del R. decreto 9 giugno 1927, n. 2163](Attribuzione%20al%20Registro%20italiano%20per%20la%20classificazione%20delle%20navi%20mercantili%20del%20servizio%20di%20sorveglianza%20e%20visita%20degli%20aeromobili%20commerciali%20per%20trasporto%20di%20passeggeri%20posta%20merci%20e_244856972934.md), (attribuzione al Registro italiano navale ed aeronautico del servizio di sorveglianza e visita degli aeromobili commerciali);
 
-Visto l'[art. 6 del R. decreto 3 ottobre 1929, n. 1843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-03;1843#art_6), (estensione della competenza del Registro italiano navale ed aeronautico ai natanti addetti alla navigazione interna);
+Visto l'[art. 6 del R. decreto 3 ottobre 1929, n. 1843](Estensione%20della%20competenza%20del%20Registro%20Italiano%20Navale%20ed%20Aeronautico%20ai%20natanti%20adibiti%20alla%20navigazione%20interna.%20029U1843.md), (estensione della competenza del Registro italiano navale ed aeronautico ai natanti addetti alla navigazione interna);
 
-Visto l'[art. 2 del R. decreto 17 ottobre 1929, n. 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-17;2018#art_2), (estensione alla Libia e all'Eritrea dell'ordinamento del Registro italiano navale ed aeronautico);
+Visto l'[art. 2 del R. decreto 17 ottobre 1929, n. 2018](Estensione%20alla%20Libia%20ed%20allEritrea%20dellordinamento%20del%20Registro%20italiano.%20029U2018.md), (estensione alla Libia e all'Eritrea dell'ordinamento del Registro italiano navale ed aeronautico);
 
 Visto l'[art. 2 del R. decreto-legge 1° dicembre 1930, numero 1801](Norme%20per%20la%20sistemazione%20finanziaria%20e%20per%20il%20controllo%20amministrativo%20e%20contabile%20del%20Registro%20italiano%20navale%20e%20aeronautico.%20030U1801.md), (norme per la sistemazione finanziaria e per il controllo amministrativo e contabile del Registro italiano navale ed aeronautico);
 
@@ -109,11 +109,11 @@ Il primo capoverso dell'[art. 2 del R. decreto-legge 1° dicembre 1930, n. 1801]
 
 Sono abrogati: 
  
- l'[art. 5 del R. decreto 9 giugno 1927, n. 2163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-09;2163#art_5); 
+ l'[art. 5 del R. decreto 9 giugno 1927, n. 2163](Attribuzione%20al%20Registro%20italiano%20per%20la%20classificazione%20delle%20navi%20mercantili%20del%20servizio%20di%20sorveglianza%20e%20visita%20degli%20aeromobili%20commerciali%20per%20trasporto%20di%20passeggeri%20posta%20merci%20e_244856972934.md); 
  
- l'[art. 6 del R. decreto 3 ottobre 1929, n. 1843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-03;1843#art_6); 
+ l'[art. 6 del R. decreto 3 ottobre 1929, n. 1843](Estensione%20della%20competenza%20del%20Registro%20Italiano%20Navale%20ed%20Aeronautico%20ai%20natanti%20adibiti%20alla%20navigazione%20interna.%20029U1843.md); 
  
- l'[art. 2 del R. decreto 17 ottobre 1929, n. 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-17;2018#art_2), 
+ l'[art. 2 del R. decreto 17 ottobre 1929, n. 2018](Estensione%20alla%20Libia%20ed%20allEritrea%20dellordinamento%20del%20Registro%20italiano.%20029U2018.md), 
  
  e ogni altra disposizione in contrasto col presente decreto.
 

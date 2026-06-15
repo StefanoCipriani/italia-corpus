@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto 1 [art. 1, n. 3, della legge 31 gennaio 1926, numero 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto 1 [art. 1, n. 3, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Visto il [regio decreto 2 marzo 1933, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-02;185);
 
-Vista la [legge 25 gennaio 1940, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-01-25;4);
+Vista la [legge 25 gennaio 1940, n. 4](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20finanziaria.%20040U0004.md);
 
-Visto il [regio decreto 29 agosto 1942, n. 1168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-08-29;1168);
+Visto il [regio decreto 29 agosto 1942, n. 1168](Nomina%20degli%20ispettori%20generali%20per%20i%20servizi%20delle%20Intendenze%20di%20finanza.%20042U1168.md);
 
 Ritenuta l'opportunita' di modificare, temporaneamente, per esigenze di servizio connesse allo stato di guerra le norme che regolano la nomina degli ispettori generali delle Intendenze di finanza;
 

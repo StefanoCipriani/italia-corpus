@@ -20,11 +20,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Vista la [legge 25 giugno 1913, n. 715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-25;715); 
+ Vista la [legge 25 giugno 1913, n. 715](Recante%20modificazione%20allart.%204%20della%20legge%209%20luglio%201911%20n.%20675%20concernente%20il%20riordinamento%20delle%20Amministrazioni%20governative%20del%20dazio%20consumo%20di%20Roma%20e%20di%20Napoli%20ed%20aggiunta%20alla%20legg_f7cff619b1a5.md); 
  
- Visto il regolamento per il personale delle Amministrazioni governative dei dazi di consumo di Roma e Napoli, approvato con [R. decreto 4 dicembre 1913, n. 1530](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-12-04;1530); 
+ Visto il regolamento per il personale delle Amministrazioni governative dei dazi di consumo di Roma e Napoli, approvato con [R. decreto 4 dicembre 1913, n. 1530](Col%20quale%20e%20approvato%20il%20regolamento%20per%20il%20personale%20dellAmministrazione%20governativa%20dei%20dazi%20di%20consumo%20di%20Roma%20e%20di%20Napoli.%20013U1530.md); 
  
  Visto il [decreto Luogotenenziale 25 febbraio 1917, n. 406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-02-25;406), che ha approvato il ruolo organico del personale civile addetto ai servizi di riscossione del dazio consumo di Palermo in gestione governativa; 
  

@@ -12,4 +12,4 @@ vigente: true
 
 N. 106 
  
- Decreto Luogotenenziale 18 gennaio 1916, col quale, sulla proposta del ministro dell'interno, a complemento del [R. decreto 25 maggio 1913, n. 564](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-05-25;564), che distacca dal comune di Civitanova Marche ed erige in Comune autonomo la frazione di Porto Civitanova, viene provveduto al riparo fra Comuni del debito per quote arretrato di spese pel mantenimento degli indigenti inabili al lavoro.
+ Decreto Luogotenenziale 18 gennaio 1916, col quale, sulla proposta del ministro dell'interno, a complemento del [R. decreto 25 maggio 1913, n. 564](Costituzione%20di%20Comune%20autonomo.%20013U0564.md), che distacca dal comune di Civitanova Marche ed erige in Comune autonomo la frazione di Porto Civitanova, viene provveduto al riparo fra Comuni del debito per quote arretrato di spese pel mantenimento degli indigenti inabili al lavoro.

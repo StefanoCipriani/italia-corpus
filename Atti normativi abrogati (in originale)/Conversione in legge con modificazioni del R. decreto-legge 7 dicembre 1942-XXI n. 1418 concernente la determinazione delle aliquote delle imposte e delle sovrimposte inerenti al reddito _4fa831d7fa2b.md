@@ -38,7 +38,7 @@ VITTORIO EMANUELE III
  
  All'art. 21 e' sostituito il seguente: 
  
- «I proprietari o i possessori dei fondi concessi in affitto, i cui redditi, per l'art. 5 del R. decreto-legge 4 aprile 1939-XVII, n. 589, sono soggetti alla imposta di ricchezza mobile ai sensi dell'[art. 9 della legge 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-08-24;4021#art_9), potranno chiedere lo sgravio della imposta sul reddito agrario ai sensi dell'art. 118 del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-11;560). 
+ «I proprietari o i possessori dei fondi concessi in affitto, i cui redditi, per l'art. 5 del R. decreto-legge 4 aprile 1939-XVII, n. 589, sono soggetti alla imposta di ricchezza mobile ai sensi dell'[art. 9 della legge 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-08-24;4021#art_9), potranno chiedere lo sgravio della imposta sul reddito agrario ai sensi dell'art. 118 del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md). 
  
  «Qualora i redditi di cui al precedente comma non siano assoggettati alla imposta di ricchezza mobile, in quanto esenti per disposizione di legge, i proprietari o i possessori di fondi concessi in affitto potranno ottenere lo sgravio della imposta sui redditi agrari, previa indicazione nominativa degli affittuari e del titolo all'esonero». 
  

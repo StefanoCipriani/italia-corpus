@@ -12,4 +12,4 @@ vigente: true
 
 N. 199 
  
- Decreto Luogotenenziale 10 febbraio 1916, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, e' approvato il nuovo statuto della «Societa' Orticola di Lombardia» di Milano, ente morale soggetto alla [legge 19 giugno 1913, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-19;770).
+ Decreto Luogotenenziale 10 febbraio 1916, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, e' approvato il nuovo statuto della «Societa' Orticola di Lombardia» di Milano, ente morale soggetto alla [legge 19 giugno 1913, n. 770](Concernente%20la%20vigilanza%20sulle%20fondazioni%20che%20hanno%20per%20fine%20lincremento%20delleconomia%20nazionale%20e%20dellistruzione%20agraria%20industriale%20e%20commerciale%20ed%20istituzioni%20affini.%20013U0770.md).

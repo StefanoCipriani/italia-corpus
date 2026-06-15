@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 ottobre 1927, n. 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-06;1921), che autorizza gli Istituti di previdenza amministrati dalla Cassa depositi e prestiti a ricevere in conto corrente dal Banco di Sicilia dalla Cassa di risparmio del detto Banco o dall'uno e dall'altra insieme, una somma fino al limite di L. 10,000,000, da mutuarsi al Comune ed alla Congregazione di carita' di Ragusa. 
+ E' convertito in legge il [R. decreto-legge 6 ottobre 1927, n. 1921](Concessione%20di%20mutui%20al%20Comune%20e%20alla%20Congregazione%20di%20carita%20di%20Ragusa.%20027U1921.md), che autorizza gli Istituti di previdenza amministrati dalla Cassa depositi e prestiti a ricevere in conto corrente dal Banco di Sicilia dalla Cassa di risparmio del detto Banco o dall'uno e dall'altra insieme, una somma fino al limite di L. 10,000,000, da mutuarsi al Comune ed alla Congregazione di carita' di Ragusa. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

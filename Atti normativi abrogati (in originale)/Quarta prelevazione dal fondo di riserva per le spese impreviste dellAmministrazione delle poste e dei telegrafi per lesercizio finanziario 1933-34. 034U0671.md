@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 8 giugno 1933, n. 663](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20comunicazioni%20per%20lesercizio%20finanziario%20dal%201%20luglio%201933%20al%2030%20giugno%201934.%20033U0663.md), che approva gli stati di previsione dell'Azienda autonoma delle poste e dei telegrafi;
 
-Visto l'[art. 21 del R. decreto 23 aprile 1925, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;520#art_21), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto l'[art. 21 del R. decreto 23 aprile 1925, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;520#art_21), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto che il fondo di riserva per le spese impreviste della Amministrazione postale telegrafica presenta una disponibilita' di L. 2.433.500 depositate in conto corrente speciale presso la Tesoreria centrale del Regno;
 

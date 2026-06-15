@@ -41,13 +41,13 @@ Universita' di Roma.
 
 ## Art. 3.
 
-Per la nomina del direttore della Scuola e per la composizione e funzionamento del Consiglio della Scuola medesima valgono le disposizioni stabilite dal [R. decreto 30 settembre 1923 n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102) e dal regolamento generale universitario.
+Per la nomina del direttore della Scuola e per la composizione e funzionamento del Consiglio della Scuola medesima valgono le disposizioni stabilite dal [R. decreto 30 settembre 1923 n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e dal regolamento generale universitario.
 
 ## Art. 4.
 
 Sono assegnati alla Scuola, per insegnamenti che le sono propri, cinque posti di professore, che ne costituiscono il ruolo organico. 
  
- Tali posti vengono aggiunti a quelli previsti dai ruoli stabiliti dalla tabella D, annessa al [R. decreto 30 settembre 1923 n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102), e al numero complessivo dei posti di professore nelle Universita' e negli Istituti superiori di cui alla tabella. n. 31 dell'allegato II al [R. decreto 11 novembre 1923 n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395).
+ Tali posti vengono aggiunti a quelli previsti dai ruoli stabiliti dalla tabella D, annessa al [R. decreto 30 settembre 1923 n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e al numero complessivo dei posti di professore nelle Universita' e negli Istituti superiori di cui alla tabella. n. 31 dell'allegato II al [R. decreto 11 novembre 1923 n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 5.
 
@@ -57,7 +57,7 @@ Alla Scuola possono essere inscritti, quali studenti, coloro che abbiano superat
 
 ## Art. 6.
 
-Nel bilancio del Ministero della Pubblica Istruzione sara' annualmente inscritta la somma di L. 75.000 quale assegno fisso da corrispondersi alla R. Universita' di Roma in aggiunta al Contributo determinato a norma dell'[art. 161 del R. decreto 30 settembre 1923, n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_161). 
+Nel bilancio del Ministero della Pubblica Istruzione sara' annualmente inscritta la somma di L. 75.000 quale assegno fisso da corrispondersi alla R. Universita' di Roma in aggiunta al Contributo determinato a norma dell'[art. 161 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
  Nel bilancio del Ministero delle Finanze sara' annualmente inscritta una somma corrispondente alle spese relative ai corsi di perfezionamento di cui all'art. 2, comma ultimo; anche tale somma sarto versata, quale contributo, alla R. Universita' di Roma.
 
@@ -70,7 +70,7 @@ Universita' di Roma, saranno fatte dal Senato accademico dell'Universita' medesi
 
 ### Art. 8.
 
-Per provvedere ai posti di professore, che costituiscono il ruolo organico della Scuola, il Ministro della Pubblica istruzione potra', con suo decreto e indipendentemente dall'osservanza delle disposizioni dell'[art. 20 del R. decreto 30 settembre 1923 n. 2102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102#art_20) e del [R. decreto 9 dicembre 1923 n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-09;2892), trasferirvi, col loro consenso e a decorrere dal 1° ottobre 1924, professori di ruolo appartenenti a Regie Universita', compresa quella di Roma, o a Regi Istituti superiori o a Regi Istituti superiori di grado universitario dipendenti dal Ministero dell'economia Nazionale, per l'insegnamento delle materie di cui sono titolari o di altre materie.
+Per provvedere ai posti di professore, che costituiscono il ruolo organico della Scuola, il Ministro della Pubblica istruzione potra', con suo decreto e indipendentemente dall'osservanza delle disposizioni dell'[art. 20 del R. decreto 30 settembre 1923 n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e del [R. decreto 9 dicembre 1923 n. 2892](Trasferimenti%20di%20professori%20di%20ruolo%20dalluniversita%20e%20dagli%20istituti%20superiori%20dipendenti%20dal%20Ministero%20dellistruzione%20ai%20Regi%20istituti%20superiori%20di%20grado%20universitario%20dipendenti%20dal%20Min_fbd279dc28cc.md), trasferirvi, col loro consenso e a decorrere dal 1° ottobre 1924, professori di ruolo appartenenti a Regie Universita', compresa quella di Roma, o a Regi Istituti superiori o a Regi Istituti superiori di grado universitario dipendenti dal Ministero dell'economia Nazionale, per l'insegnamento delle materie di cui sono titolari o di altre materie.
 
 ### Art. 9.
 

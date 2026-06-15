@@ -14,13 +14,13 @@ E' concessa amnistia:
  
  a) ai reati, perseguibili d'ufficio, preveduti nel R. editto sulla stampa e nella [legge 6 maggio 1877, n. 3814](Che%20abroga%20lart.%2049%20della%20legge%20sullordinamento%20dei%20giurati%20e%20la%20prima%20parte%20dellart.%2010%20di%20quella%20sulla%20stampa%20e%20vi%20sostituisce%20altre%20disposizioni.%20077U3814.md); 
  
- b) ai reati contro la liberta' del lavoro, purche' non siano accompagnati da delitti contro la persona, perseguibili d'ufficio ([art. 165 e seguenti Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_165)); 
+ b) ai reati contro la liberta' del lavoro, purche' non siano accompagnati da delitti contro la persona, perseguibili d'ufficio ([art. 165 e seguenti Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)); 
  
  c) ai reati di esercizio arbitrario delle proprie ragioni o contro la proprieta', commessi a causa o in conseguenza di pretesi usi civici e di altri pretesi diritti di godimento a favore della popolazione, purche' non accompagnati da altro delitto perseguibile di ufficio; 
  
- d) ai reati di istigazione a delinquere, di apologia di fatti che la legge prevedo come delitti e di associazione a scopo sedizioso ([articoli 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_246), [247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_247) e [251 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_251)); 
+ d) ai reati di istigazione a delinquere, di apologia di fatti che la legge prevedo come delitti e di associazione a scopo sedizioso ([articoli 246](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [247](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [251 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)); 
  
- e) ai reati d'indebito abbandono del proprio ufficio, di cui all'[articolo 181 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_181).
+ e) ai reati d'indebito abbandono del proprio ufficio, di cui all'[articolo 181 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 
@@ -60,7 +60,7 @@ Le pene inflitte o da infliggersi per tutti gli altri delitti non compresi nell'
  
  Nel caso di concorso della pena restrittiva della liberta' e di quella pecuniaria il beneficio si applica a ciascuna di esse. 
  
- Il condono o la riduzione non ha luogo rispetto ad imputati o condannati recidivi, ne' quando si tratti di omicidio volontario consumato o tentato, ovvero di lesioni personali che hanno prodotto la morte o qualcuna delle conseguenze prevedute nel [n. 2 dell'articolo 372 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_372-num2), eccetto che tali delitti siano stati commessi per eccesso della difesa o per grave provocazione, ovvero per causa di onore od in stato di vizio parziale di mente. 
+ Il condono o la riduzione non ha luogo rispetto ad imputati o condannati recidivi, ne' quando si tratti di omicidio volontario consumato o tentato, ovvero di lesioni personali che hanno prodotto la morte o qualcuna delle conseguenze prevedute nel [n. 2 dell'articolo 372 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), eccetto che tali delitti siano stati commessi per eccesso della difesa o per grave provocazione, ovvero per causa di onore od in stato di vizio parziale di mente. 
  
  Del pari non si fa luogo a condono o a riduzione quando si tratti dei delitti di calunnia o falsita' in giudizio, o dei delitti contro la sanita' e alimentazione pubblica, anche se previsti da leggi speciali; di rapina, estorsione o ricatto. 
  
@@ -71,7 +71,7 @@ Nota redazionale
 
 ## Art. 6.
 
-Nel caso di concorso di reati e di pene l'amnistia si applica distintamente a ciascun reato; l'indulto si applica una volta dopo commutate le pene secondo le norme stabilite negli [articoli 67 e seguenti del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_67).
+Nel caso di concorso di reati e di pene l'amnistia si applica distintamente a ciascun reato; l'indulto si applica una volta dopo commutate le pene secondo le norme stabilite negli [articoli 67 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 7.
 

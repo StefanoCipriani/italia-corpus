@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Con effetto dalla data di entrata in vigore della presente legge, la tabella D annessa al decreto del Presidente del Consiglio dei Ministri in data 9 febbraio 1971, pubblicato nella Gazzetta Ufficiale n. 243 del 25 settembre 1971 ed emanato ai sensi dell'articolo 132, ultimo comma, del [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-28;1077), sul riordinamento delle carriere degli impiegati civili dello Stato, e' sostituita dalla tabella allegata.
+Con effetto dalla data di entrata in vigore della presente legge, la tabella D annessa al decreto del Presidente del Consiglio dei Ministri in data 9 febbraio 1971, pubblicato nella Gazzetta Ufficiale n. 243 del 25 settembre 1971 ed emanato ai sensi dell'articolo 132, ultimo comma, del [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](../DPR/Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), sul riordinamento delle carriere degli impiegati civili dello Stato, e' sostituita dalla tabella allegata.
 
 ## Art. 2.
 

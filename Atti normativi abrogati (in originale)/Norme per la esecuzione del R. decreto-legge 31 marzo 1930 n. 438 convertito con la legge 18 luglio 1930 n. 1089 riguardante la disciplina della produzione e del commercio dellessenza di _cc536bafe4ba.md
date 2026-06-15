@@ -45,7 +45,7 @@ L'Ente sara' costituito con decreto Reale, su proposta del Ministro per le corpo
 
 ## Art. 3.
 
-L'Ente potra' compiere tutti gli atti e le operazioni che si connettono al suo scopo istituzionale, in ottemperanza delle norme di cui al titolo XVI del Codice di commercio ed al [decreto-legge 1° luglio 1926, n. 2290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-07-01;2290), convertito nella [legge 9 giugno 1927 n. 1158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-09;1158), al relativo regolamento approvato con [R. decreto 16 gennaio 1927, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-16;126), ed alla [legge 12 maggio 1930, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-05-12;685). 
+L'Ente potra' compiere tutti gli atti e le operazioni che si connettono al suo scopo istituzionale, in ottemperanza delle norme di cui al titolo XVI del Codice di commercio ed al [decreto-legge 1° luglio 1926, n. 2290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-07-01;2290), convertito nella [legge 9 giugno 1927 n. 1158](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20luglio%201926%20n.%202290%20concernente%20lordinamento%20e%20lesercizio%20dei%20Magazzini%20generali.%20027U1158.md), al relativo regolamento approvato con [R. decreto 16 gennaio 1927, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-16;126), ed alla [legge 12 maggio 1930, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-05-12;685). 
  
  L'Ente e' sottoposto alla vigilanza del Ministero delle corporazioni.
 

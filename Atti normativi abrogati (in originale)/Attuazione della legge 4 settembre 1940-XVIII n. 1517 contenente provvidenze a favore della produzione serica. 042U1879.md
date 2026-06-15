@@ -134,7 +134,7 @@ La domanda diretta ad ottenere la quota di integrazione per i prodotti serici es
  
  I pagamenti effettuati mediante versamento su conto corrente postale intestato alla ditta beneficiaria sono liberatori per l'Ente Nazionale Serico. 
  
- I certificati degli Uffici provinciali delle Corporazioni, gia' presentati a norma dell'[art. 9 del R. decreto 7 marzo 1938, n. 558](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-07;558#art_9), sono validi agli effetti del presente articolo.
+ I certificati degli Uffici provinciali delle Corporazioni, gia' presentati a norma dell'[art. 9 del R. decreto 7 marzo 1938, n. 558](Norme%20per%20lattuazione%20del%20Regio%20decreto-legge%2029%20maggio%201937-XV%20n.%201267%20contenente%20provvidenze%20a%20favore%20della%20produzione%20serica%20per%20il%20quinquennio%201937-XV-1941-XX.%20038U0558.md), sono validi agli effetti del presente articolo.
 
 ## Art. 10.
 
@@ -163,7 +163,7 @@ a) la seta deve essere depositata presso uno dei predetti stabilimenti per le ev
 
 Per le sete tratte greggia semplici di titolo pari o inferiore ai 70 denari, che saranno assoggettate alle prove secondo le norme degli a «Usi internazionali», anziche' a quelle secondo il sistema del «Seriplano», con le norme di cui al precedente art. 9, sara' liquidata una quota di integrazione inferiore di lire due per chilogrammo a quella quindicinalmente stabilita a norma del precedente art. 5. 
  
- Per le sete tratte greggie semplici, che, alle operazioni di controllo eseguite a norma del precedente articolo 10, diano risultati inferiori ai limiti minimi previsti nelle tabelle di classificazione contenute nei decreti Ministeriali 7 maggio 1934 e 14 aprile 1935 emanati per l'applicazione del [R. decreto-legge 8 marzo 1934, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-08;337), sara' liquidata per ogni chilogrammo di seta, una quota di integrazione minore del dieci per cento e, in ogni caso, inferiore di lire cinque a quella quindicinalmente stabilita a norma del precedente articolo 5.
+ Per le sete tratte greggie semplici, che, alle operazioni di controllo eseguite a norma del precedente articolo 10, diano risultati inferiori ai limiti minimi previsti nelle tabelle di classificazione contenute nei decreti Ministeriali 7 maggio 1934 e 14 aprile 1935 emanati per l'applicazione del [R. decreto-legge 8 marzo 1934, n. 337](Istituzione%20di%20un%20premio%20alla%20seta%20tratta%20prodotta%20con%20bozzoli%20italiani.%20034U0337.md), sara' liquidata per ogni chilogrammo di seta, una quota di integrazione minore del dieci per cento e, in ogni caso, inferiore di lire cinque a quella quindicinalmente stabilita a norma del precedente articolo 5.
 
 ## Art. 12.
 
@@ -185,7 +185,7 @@ a) una copia del contratto di vendita firmato da entrambi i contraenti;
  
  E' in facolta' dell'Ente Nazionale Serico di richiedere all'esportatore la presentazione di altri documenti atti a comprovare l'introduzione della merce esportata nel paese di destinazione dichiarato. 
  
- L'Ente Nazionale Serico in base ai contratti di compra vendita dei bozzoli trasmessigli in copia a norma dell'art. 2 della legge 4 settembre 1940-XVIII, n. 1517, alle comunicazioni pervenutegli dalla Federazione nazionale fascista degli industriali della seta, ai sensi dell'art. 1 del presente decreto e valendosi di ogni altre mezzo di prova che esso riterra' di richiedere, accertera' che i bozzoli utilizzati per la produzione dei filati esportati provengano dai raccolti nazionali e che gli stessi siano stati acquistati dagli Ammassi collettivi alle condizioni previste dal [R. decreto-legge 15 aprile 1937, n. 812](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-04-15;812), e dalla legge 4 settembre 1940-XVIII, n. 1517.
+ L'Ente Nazionale Serico in base ai contratti di compra vendita dei bozzoli trasmessigli in copia a norma dell'art. 2 della legge 4 settembre 1940-XVIII, n. 1517, alle comunicazioni pervenutegli dalla Federazione nazionale fascista degli industriali della seta, ai sensi dell'art. 1 del presente decreto e valendosi di ogni altre mezzo di prova che esso riterra' di richiedere, accertera' che i bozzoli utilizzati per la produzione dei filati esportati provengano dai raccolti nazionali e che gli stessi siano stati acquistati dagli Ammassi collettivi alle condizioni previste dal [R. decreto-legge 15 aprile 1937, n. 812](Disciplina%20del%20mercato%20dei%20bozzoli%20di%20produzione%20nazionale.%20037U0812.md), e dalla legge 4 settembre 1940-XVIII, n. 1517.
 
 ## Art. 14.
 

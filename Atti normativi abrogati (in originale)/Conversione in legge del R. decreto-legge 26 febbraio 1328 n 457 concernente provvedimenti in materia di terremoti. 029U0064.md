@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 26 febbraio 1928, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-26;457), concernente provvedimenti in materia di terremoti. 
+ E' convertito in legge il [R. decreto-legge 26 febbraio 1928, n. 457](Provvedimenti%20in%20materia%20di%20terremoti.%20028U0457.md), concernente provvedimenti in materia di terremoti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

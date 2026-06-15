@@ -46,7 +46,7 @@ EMANA il seguente regolamento:
 
 Il contributo personale annuo previsto dall'art. 15, lettera b), del decreto ministeriale 30 ottobre 1973, pubblicato nella Gazzetta Ufficiale n. 303 del 24 novembre 1973 - fissato in L. 2.400.000 con [decreto del Presidente della Repubblica 24 dicembre 1987, n. 532](Modificazione%20della%20misura%20delle%20marche%20previdenziali%20ed%20aumento%20del%20contributo%20personale%20annuo%20a%20favore%20del%20Fondo%20previdenziale%20ed%20assistenziale%20degli%20spedizionieri%20doganali.md) - e' elevato a L. 3.000.000.
  AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 Note alle premesse:

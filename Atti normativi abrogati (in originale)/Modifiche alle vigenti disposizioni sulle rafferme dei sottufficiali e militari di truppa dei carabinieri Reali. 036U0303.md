@@ -30,7 +30,7 @@ I primi tre commi dell'[articolo 7 del decreto Luogotenenziale 6 aprile 1919, n.
  
  «Le rafferme in corso sia triennali sia annuali vengono rescisse di pieno diritto, con perdita delle relative indennita', pei raffermati: 
  
- 1° condannati per reati previsti dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito o, dall'autorita' giudiziaria ordinaria, per reati di carattere indecoroso; 
+ 1° condannati per reati previsti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito o, dall'autorita' giudiziaria ordinaria, per reati di carattere indecoroso; 
  
  2° retrocessi dal grado; 
  
@@ -38,7 +38,7 @@ I primi tre commi dell'[articolo 7 del decreto Luogotenenziale 6 aprile 1919, n.
  
  «I provvedimenti di cui ai numeri 1° e 2° comportano di diritto anche la radiazione dai ruoli dell'Arma dei carabinieri Reali. 
  
- «La retrocessione dal grado dev'essere preceduta dal parere di una Commissione di disciplina, nei casi e con le norme stabilite dal regolamento sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 31 gennaio 1907, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-01-31;145), e successive modificazioni. 
+ «La retrocessione dal grado dev'essere preceduta dal parere di una Commissione di disciplina, nei casi e con le norme stabilite dal regolamento sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 31 gennaio 1907, n. 145](Che%20approva%20lannesso%20regolamento%20sullo%20stato%20dei%20sottufficiali.%20007U0145.md), e successive modificazioni. 
  
  «La cessazione dal servizio degli appuntati e dei carabinieri di cui al numero 3° deve essere preceduta dal parere di una Commissione di disciplina». 
  

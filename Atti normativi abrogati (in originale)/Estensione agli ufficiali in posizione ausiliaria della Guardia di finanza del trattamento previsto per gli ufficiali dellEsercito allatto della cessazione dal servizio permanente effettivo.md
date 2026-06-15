@@ -12,17 +12,17 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1281), e successive modificazioni;
 
-Visto il [regio decreto-legge 10 febbraio 1926, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-10;206), convertito nella [legge 25 giugno 1926, n. 1135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-06-25;1135), e successive modificazioni;
+Visto il [regio decreto-legge 10 febbraio 1926, n. 206](Provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20e%20dei%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20delle%20altre%20forze%20armate%20dello%20Stato.%20026U0206.md), convertito nella [legge 25 giugno 1926, n. 1135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201926%20n.%20206%20recante%20provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20e%20dei%20sottufficiali%20del%20Regio%20esercito%20cella%20Regia%20marina%20della%20_b59362d25dd3.md), e successive modificazioni;
 
-Vista la [legge 16 giugno 1935, n. 1026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-16;1026), e successive modificazioni;
+Vista la [legge 16 giugno 1935, n. 1026](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1026.md), e successive modificazioni;
 
-Visto il [regio decreto 17 settembre 1940, n. 1567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-17;1567);
+Visto il [regio decreto 17 settembre 1940, n. 1567](Norme%20per%20lesecuzione%20dellart.%203%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20convertito%20nella%20legge%207%20giugno%201937-XV%20n.%20993%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di_14063937e20d.md);
 
-Vista la [legge 9 maggio 1940, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;369), e successive modificazioni;
+Vista la [legge 9 maggio 1940, n. 369](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0369.md), e successive modificazioni;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -39,13 +39,13 @@ Agli ufficiali della Guardia di finanza che siano dal servizio permanente effett
  
  Qualora, allo scadere del suddetto periodo di otto anni, gli ufficiali non abbiano compiuto l'eta' di 65 anni l'indennita' e' corrisposta sino al raggiungimento dell'eta' predetta. 
  In ogni caso, l'indennita' e' corrisposta in relazione al grado rivestito dall'ufficiale all'atto del suo collocamento in ausiliaria. 
- Agli ufficiali di cui sopra non e' corrisposta l'indennita' prevista dall'[art. 4 del regio decreto-legge 10 febbraio 1926, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-10;206#art_4), convertito nella [legge 25 giugno 1926, n. 1135, e dall'art. 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-06-25;1135#art_72) della [legge 16 giugno 1935, numero 1026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-16;1026), e loro successive modificazioni. A detti ufficiali si applica il disposto dell'[art. 10 del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-30;41#art_10), e successive modificazioni.
+ Agli ufficiali di cui sopra non e' corrisposta l'indennita' prevista dall'[art. 4 del regio decreto-legge 10 febbraio 1926, n. 206](Provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20e%20dei%20sottufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20delle%20altre%20forze%20armate%20dello%20Stato.%20026U0206.md), convertito nella [legge 25 giugno 1926, n. 1135, e dall'art. 72](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20febbraio%201926%20n.%20206%20recante%20provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20e%20dei%20sottufficiali%20del%20Regio%20esercito%20cella%20Regia%20marina%20della%20_b59362d25dd3.md) della [legge 16 giugno 1935, numero 1026](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1026.md), e loro successive modificazioni. A detti ufficiali si applica il disposto dell'[art. 10 del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md), e successive modificazioni.
 
 ## Art. 2.
 
 L'indennita' di cui all'art. 1 compete, inoltre, agli ufficiali che siano dal servizio permanente effettivo direttamente, collocati a riposo, in riforma o in congedo assoluto per eta', o per ferite, lesioni od infermita' dipendenti da cause di servizio. 
  Detta indennita' va corrisposta anche agli ufficiali che abbiano diritto al trattamento di pensione di guerra ed al trattamento ordinario di quiescenza (od assegno integratore). 
- Qualora si tratti di ufficiali cessati dal servizio permanente, effettivo con diritto ad assegno integratore di cui all'[art. 19 del regio decreto 12 luglio 1923, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-12;1491#art_19), e successive modificazioni, l'indennita' e' ragguagliata a tanti ventesimi della somma annua prevista per ciascun grado dal primo comma dell'art. 1 del presente decreto quanti sono gli anni di servizio utili a pensione aumentati di quattro anni; essa non puo', pero', in alcun caso superare tale somma.
+ Qualora si tratti di ufficiali cessati dal servizio permanente, effettivo con diritto ad assegno integratore di cui all'[art. 19 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni, l'indennita' e' ragguagliata a tanti ventesimi della somma annua prevista per ciascun grado dal primo comma dell'art. 1 del presente decreto quanti sono gli anni di servizio utili a pensione aumentati di quattro anni; essa non puo', pero', in alcun caso superare tale somma.
 
 ## Art. 3.
 

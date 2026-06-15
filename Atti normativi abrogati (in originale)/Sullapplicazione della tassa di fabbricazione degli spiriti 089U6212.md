@@ -46,7 +46,7 @@ L'abbuono da concedersi sullo spirito di prima distillazione per cali, dispersio
 
 Sono considerate agrarie, agli effetti di questa legge, le distillerie esistenti nei fondi di proprieta' del fabbricante o da lui coltivati, nelle quali lo spirito deriva dalla distillazione delle vinaccie, delle frutta e del vino esclusivamente prodotti nei fondi medesimi. 
  
- Le distillerie agrarie pagano la tassa in ragione della produttivita' giornaliera dei lambicchi, determinata secondo le discipline stabilite dall'art. 14 del citato testo unico di legge del 12 ottobre 1823 e nel [Regio decreto 7 settembre 1887, N. 4920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-09-07;4920), emanato conformemente agli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-07-10;1665#art_9) e [10 della legge 10 luglio 1887, N. 1665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-07-10;1665#art_10). 
+ Le distillerie agrarie pagano la tassa in ragione della produttivita' giornaliera dei lambicchi, determinata secondo le discipline stabilite dall'art. 14 del citato testo unico di legge del 12 ottobre 1823 e nel [Regio decreto 7 settembre 1887, N. 4920](Che%20approva%20le%20discipline%20per%20lapplicazione%20della%20tassa%20di%20fabbricazione%20degli%20spiriti%20nelle%20fabbriche%20di%20seconda%20categoria%20agli%20effetti%20della%20legge%2010%20luglio%201887%20numero%204665.%20087U4920.md), emanato conformemente agli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-07-10;1665#art_9) e [10 della legge 10 luglio 1887, N. 1665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-07-10;1665#art_10). 
  
  L'Amministrazione e' pero' autorizzata ad applicare l'accertamento della tassa di fabbricazione, giusta l'art. 4, anche alle distillerie agrarie, allorquando la produzione dello spirito durante l'anno ecceda i venti ettolitri di alcool anidro. In tal caso l'abbuono di fabbricazione sara' applicato secondo la misura indicata nel seguente art. 7.
 
@@ -160,7 +160,7 @@ Le giacenze di cereali o melazzi accertate nel detto giorno saranno esenti dai d
  
  Le disposizioni dell'art. 9 entreranno in vigore nel giorno della pubblicazione della presente legge. 
  
- E' convertito in legge il [Regio decreto del 5 maggio 1889, N. 6052](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-05-05;6052) (Serie 3ª), che sopprime, a partire dalla data della sua pubblicazione, la concessione dello sgravio sula tassa dello spirito a favore delle industrie delle vernici (Alleg. A).
+ E' convertito in legge il [Regio decreto del 5 maggio 1889, N. 6052](Che%20sopprime%20la%20concessione%20dello%20sgravio%20sulla%20tassa%20dello%20spirito%20a%20favore%20delle%20industrie%20delle%20vernici.%20089U6052.md) (Serie 3ª), che sopprime, a partire dalla data della sua pubblicazione, la concessione dello sgravio sula tassa dello spirito a favore delle industrie delle vernici (Alleg. A).
 
 ## Art. 22.
 

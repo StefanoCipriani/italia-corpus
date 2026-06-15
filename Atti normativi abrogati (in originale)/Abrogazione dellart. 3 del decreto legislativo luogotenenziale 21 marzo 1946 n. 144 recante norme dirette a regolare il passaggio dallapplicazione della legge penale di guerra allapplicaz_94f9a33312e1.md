@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Le norme dell'[art. 3 del decreto legislativo luogotenenziale 21 marzo 1946, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-21;144#art_3), cessano di avere applicazione dal giorno della pubblicazione della presente legge nella Gazzetta Ufficiale.
+Le norme dell'[art. 3 del decreto legislativo luogotenenziale 21 marzo 1946, n. 144](../Decreti%20legislativi%20luogotenenziali/Norme%20dirette%20a%20regolare%20il%20passaggio%20dallapplicazione%20della%20legge%20penale%20militare%20di%20guerra%20allapplicazione%20di%20quella%20di%20pace.md), cessano di avere applicazione dal giorno della pubblicazione della presente legge nella Gazzetta Ufficiale.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 Il [decreto legislativo 7 maggio 1948, n. 1642](Disposizioni%20concernenti%20la%20carriera%20del%20personale%20direttivo%20ed%20insegnante%20degli%20Istituti%20di%20istruzione%20secondaria%20ed%20artistica.md), e' ratificato con la seguente modificazione:
  Art. 2. - Fra il primo e il secondo comma, e' aggiunto il seguente:
- "La disposizione di cui al comma precedente si applica altresi' ai professori di scuole secondarie i quali, alla entrata in vigore della presente legge, risultino incaricati delle funzioni di professore straordinario presso le Universita' o gli Istituti di istruzione superiore, a norma del [decreto legislativo 7 maggio 1948, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;861)".
+ "La disposizione di cui al comma precedente si applica altresi' ai professori di scuole secondarie i quali, alla entrata in vigore della presente legge, risultino incaricati delle funzioni di professore straordinario presso le Universita' o gli Istituti di istruzione superiore, a norma del [decreto legislativo 7 maggio 1948, n. 861](../Decreti%20Legislativi/Adeguamento%20delle%20norme%20del%20decreto%20legislativo%20luogotenenziale%2031%20agosto%201945%20n.%20571%20alla%20condizione%20dei%20professori%20universitari.md)".
  E' aggiunto in fine il seguente comma:
  "Qualora per insegnanti delle stesse materie in uno stesso ordine di scuole, compresi in ruoli transitori ordinari, sia previsto un differente sviluppo di carriera, si applichera' per tutti il trattamento piu' favorevole".
 

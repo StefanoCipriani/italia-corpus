@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15);
+Vista la [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md);
 
 Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
@@ -30,14 +30,14 @@ E M A N A il seguente regolamento:
 
 1.
 
-Il presente regolamento contiene disposizioni attuative in materia di dichiarazioni sostitutive, ai sensi della [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), e si applica alla Presidenza del Consiglio dei Ministri, ai Ministeri, alle altre amministrazioni dello Stato anche ad ordinamento autonomo, agli enti pubblici non economici, alle prov- ince, ai comuni e agli enti locali. 
+Il presente regolamento contiene disposizioni attuative in materia di dichiarazioni sostitutive, ai sensi della [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), e si applica alla Presidenza del Consiglio dei Ministri, ai Ministeri, alle altre amministrazioni dello Stato anche ad ordinamento autonomo, agli enti pubblici non economici, alle prov- ince, ai comuni e agli enti locali. 
  AVVERTENZA: 
 Il testo delle note qui pubblicato e' stato redatto ai 
 sensi dell'art. 10, comma 3, del testo unico delle 
 disposizioni sulla promulgazione delle leggi, 
 sull'emanazione dei decreti del Presidente della Repubblica 
 e sulle pubblicazioni ufficiali della Repubblica italiana, 
-approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo 
+approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
 fine di facilitare le lettura delle disposizioni di legge 
 alle quali e' operativo il rinvio. Restano invariati il 
 valore e l'efficacia degli atti legislativi qui trascritti.
@@ -48,7 +48,7 @@ Note al titolo:
  I regolamenti di cui al primo comma stabiliscono altresi' i casi, le modalita' ed eventualmente il termine per la regolarizzazione o la rettifica della documentazione irregolare o non conforme alla dichiarazione, nonche', ove occorre, per la rettifica della dichiarazione la cui irregolarita' attenga ad elementi non essenziali".
  Note alle premesse:
  - Per i riferimenti alla [legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15), vedi nota al titolo.
- - Si trascrive il testo dell'[art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), come modificato dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_74):
+ - Si trascrive il testo dell'[art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), come modificato dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md):
  "Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronuziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:
  a) l'esecuzione delle leggi e dei decreti legislativi;
  b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;
@@ -69,7 +69,7 @@ Note al titolo:
  c) propone l'indizione o, avendone la competenza, in- dice le conferenze di servizi di cui all'art. 14;
  d) cura le comunicazioni, le pubblicazioni e le modificazioni previste dalle leggi e dai regolamenti;
  e) adotta, ove ne abbia la competenza, il provvedimento finale, ovvero trasmette gli atti all'organo competente per l'adozione".
- "Art. 18. - 1. Entro sei mesi dalla data di entrata in vigore della presente legge le amministrazioni interessate adottano le misure organizzative idonee a garantire l'applicazione delle disposizioni in materia di autocertificazione e di presentazione di atti e documenti da parte di cittadini a pubbliche amministrazioni di cui alla [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), e successive modificazioni e integrazioni. Delle misure adottate le amministrazioni danno comunicazione alla commissione di cui all'art. 27.
+ "Art. 18. - 1. Entro sei mesi dalla data di entrata in vigore della presente legge le amministrazioni interessate adottano le misure organizzative idonee a garantire l'applicazione delle disposizioni in materia di autocertificazione e di presentazione di atti e documenti da parte di cittadini a pubbliche amministrazioni di cui alla [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), e successive modificazioni e integrazioni. Delle misure adottate le amministrazioni danno comunicazione alla commissione di cui all'art. 27.
  2. Qualora l'interessato dichiari che fatti, stati e qualitia' sono attestati in documenti gia' in possesso della stessa amministrazione procedente o di altra pubblica amministrazione, il responsabile del procedimento provvede d'ufficio all'acquisizione dei documenti stessi o di copia di essi.
  3. Parimenti sono accertati d'ufficio dal responsabile del procedimento i fatti, gli stati e le qualita' che la stessa amministrazione procedente o altra pubblica amministrazione e' tenuta a certificare".
  Nota all'art. 1:
@@ -79,7 +79,7 @@ Note al titolo:
 
 1.
 
-I soggetti che, nel produrre all'amministrazione istanze, debbano comprovare stati, fatti o qualita' personali di cui al comma 2 possono presentare dichiarazione temporaneamente sostitutiva ai sensi dell'[art. 3 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_3).
+I soggetti che, nel produrre all'amministrazione istanze, debbano comprovare stati, fatti o qualita' personali di cui al comma 2 possono presentare dichiarazione temporaneamente sostitutiva ai sensi dell'[art. 3 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
 
 2.
 
@@ -116,7 +116,7 @@ Nota all'art. 2:
 
 1.
 
-Le dichiarazioni sostitutive di cui al comma 1 dell'art. 2, al pari di quelle previste dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_2) e [4 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_4), possono essere presentate anche contestualmente all'istanza, sono sottoscritte dall'interessato in presenza del dipendente addetto e vengono autenticate da quest'ultimo con le modalita' di cui all'art. 20 della medesima [legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15).
+Le dichiarazioni sostitutive di cui al comma 1 dell'art. 2, al pari di quelle previste dagli [articoli 2](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e [4 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), possono essere presentate anche contestualmente all'istanza, sono sottoscritte dall'interessato in presenza del dipendente addetto e vengono autenticate da quest'ultimo con le modalita' di cui all'art. 20 della medesima [legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15).
 
 2.
 
@@ -128,11 +128,11 @@ Il responsabile del procedimento, identificato ai sensi dell'[art. 5 della legge
 
 4.
 
-Nei casi di cui all'art. 1, comma 2, del presente regolamento, cosi' come negli altri casi previsti dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_2) e [4 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_4), la mancata accettazione della dichiarazione sostitutiva, senza che sussistano irregolarita' o falsita' della stessa, costituisce violazione dei doveri di ufficio.
+Nei casi di cui all'art. 1, comma 2, del presente regolamento, cosi' come negli altri casi previsti dagli [articoli 2](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e [4 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), la mancata accettazione della dichiarazione sostitutiva, senza che sussistano irregolarita' o falsita' della stessa, costituisce violazione dei doveri di ufficio.
 
 5.
 
-Nei casi in cui l'interessato debba presentare all'amministrazione copia autentica di un documento ai sensi dell'[art. 14 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_14), l'autenticazione della copia puo' essere fatta dal responsabile del procedimento o da qualsiasi altro dipendente competente a ricevere la documentazione, dietro semplice esibizione dell'originale e senza obbligo di deposito dello stesso presso l'amministrazione procedente. In tal caso la copia autentica puo' essere utilizzata solo nel procedimento in corso.
+Nei casi in cui l'interessato debba presentare all'amministrazione copia autentica di un documento ai sensi dell'[art. 14 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), l'autenticazione della copia puo' essere fatta dal responsabile del procedimento o da qualsiasi altro dipendente competente a ricevere la documentazione, dietro semplice esibizione dell'originale e senza obbligo di deposito dello stesso presso l'amministrazione procedente. In tal caso la copia autentica puo' essere utilizzata solo nel procedimento in corso.
 
 Note all'art. 3:
  - Si trascrivono gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;15#art_2), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;15#art_4) e [20 della legge n. 15/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;15#art_20) gia citata.
@@ -171,16 +171,16 @@ La trasmissione della documentazione all'amministrazione da parte dell'interessa
 
 1.
 
-Qualora le dichiarazioni di cui all'art. 2, comma 2, al pari di quelle previste dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_2) e [4 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_4), presentino delle irregolarita' rilevabili d'ufficio, non costituenti falsita', oppure siano incomplete ovvero la documentazione esibita dall'interessato ai sensi dell'art. 4 del presente regolamento sia irregolare o non conforme alla precedente dichiarazione, il funzionario competente a ricevere la documentazione da' comunicazione all'interessato di tali irregolarita' entro sette giorni dalla presentazione della dichiarazione o, rispettivamente, della documentazione. L'interessato e' tenuto alla regolarizzazione o al completamento della dichiarazione o della documentazione.
+Qualora le dichiarazioni di cui all'art. 2, comma 2, al pari di quelle previste dagli [articoli 2](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e [4 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), presentino delle irregolarita' rilevabili d'ufficio, non costituenti falsita', oppure siano incomplete ovvero la documentazione esibita dall'interessato ai sensi dell'art. 4 del presente regolamento sia irregolare o non conforme alla precedente dichiarazione, il funzionario competente a ricevere la documentazione da' comunicazione all'interessato di tali irregolarita' entro sette giorni dalla presentazione della dichiarazione o, rispettivamente, della documentazione. L'interessato e' tenuto alla regolarizzazione o al completamento della dichiarazione o della documentazione.
 
 2.
 
 In caso di mendacio personale o fattuale, la rettificazione non e' consentita ed il provvedimento favorevole non puo' essere emanato. 
-In tal caso, e' obbligo del responsabile del procedimento a cui la dichiarazione e' diretta porre in essere gli adempimenti necessari all'applicazione delle disposizioni di cui all'[art. 26 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_26).
+In tal caso, e' obbligo del responsabile del procedimento a cui la dichiarazione e' diretta porre in essere gli adempimenti necessari all'applicazione delle disposizioni di cui all'[art. 26 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
 
 Nota all'art. 5:
  - Si trascrive il testo dell'[art. 26 della legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15#art_26) gia' citata.
- "Art. 26 (Sanzioni penali). - Le dichiarazioni mendaci, la falsita' negli atti e l'uso di atti falsi nei casi previsti dalla presente legge sono puniti ai sensi del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e delle leggi speciali in materia.
+ "Art. 26 (Sanzioni penali). - Le dichiarazioni mendaci, la falsita' negli atti e l'uso di atti falsi nei casi previsti dalla presente legge sono puniti ai sensi del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia.
  A tali effetti, l'esibizione di un atto contenente dati non piu' rispondenti a verita' equivale a uso di atto falso e le dichiarazioni rese ai sensi dei precedenti articoli 2, 3, 4, 8 e autenticate a norma dell'art. 20 sono considerate come fatte a pubblico ufficiale.
  Inoltre, ove i reati indicati nei precedenti commi siano commessi per ottenere la nomina ad un pubblico ufficio o l'autorizzazione all'esercizio di una professione o arte, il giudice, nei casi piu' gravi puo' applicare l'interdizione temporanea dai pubblici uffici o dalla professione o arte.
  Il pubblico ufficiale che autentica le sottoscrizioni o al quale sono esibiti gli atti ammonisce chi sottoscrive la dichiarazione o esibisce l'atto sulla responsabilita' penale cui puo' andare incontro in caso di dichiarazione mendace o di esibizione di atto falso o contenente dati non piu' rispondenti a verita'.
@@ -191,7 +191,7 @@ Nota all'art. 5:
 
 1.
 
-Nel caso in cui le dichiarazioni sostitutive di cui gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_3) e [4 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_4), siano presentate da cittadini della Comunita' europea, si applicano le stesse modalita' previste per i cittadini italiani.
+Nel caso in cui le dichiarazioni sostitutive di cui gli [articoli 2](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), [3](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e [4 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), siano presentate da cittadini della Comunita' europea, si applicano le stesse modalita' previste per i cittadini italiani.
 
 Note all'art. 6:
  - Per il testo degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;16#art_2) e [4 della legge n. 16/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;16#art_4), vedi note all'art. 3.
@@ -201,11 +201,11 @@ Note all'art. 6:
 
 1.
 
-Le dichiarazioni sostitutive di cui agli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_2) e [4 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_4), hanno la stessa validita' temporale degli atti che sostituiscono.
+Le dichiarazioni sostitutive di cui agli [articoli 2](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e [4 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), hanno la stessa validita' temporale degli atti che sostituiscono.
 
 2.
 
-Le singole unita' organizzative predispongono i moduli necessari per la redazione delle dichiarazioni indicate al comma 1, nonche' per la documentazione mediante esibizione di cui agli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_5) e [6 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_6).
+Le singole unita' organizzative predispongono i moduli necessari per la redazione delle dichiarazioni indicate al comma 1, nonche' per la documentazione mediante esibizione di cui agli [articoli 5](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e [6 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
 
 Note all'art. 7:
  - Per i testi degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15#art_2) e [4 della legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15#art_4), vedi note all'art. 3.
@@ -219,7 +219,7 @@ Note all'art. 7:
 
 1.
 
-Resta salva la facolta' dei singoli Ministri, ai sensi dell'[art. 3 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_3), di adottare ulteriori norme di attuazione compatibili con quelle del presente regolamento, in relazione ad esigenze peculiari di ogni amministrazione, anche al fine di introdurre nuove ipotesi di ricorso all'autocertificazione.
+Resta salva la facolta' dei singoli Ministri, ai sensi dell'[art. 3 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), di adottare ulteriori norme di attuazione compatibili con quelle del presente regolamento, in relazione ad esigenze peculiari di ogni amministrazione, anche al fine di introdurre nuove ipotesi di ricorso all'autocertificazione.
 
 Nota all'art. 8:
  - Per il testo dell'art. 3 della gia' citata [legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15), vedi nota al titolo.

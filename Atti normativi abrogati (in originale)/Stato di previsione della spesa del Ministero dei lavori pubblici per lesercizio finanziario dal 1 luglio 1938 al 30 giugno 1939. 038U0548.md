@@ -18,7 +18,7 @@ E' autorizzata la spesa di lire 66.725.000 per provvedere agli oneri generali di
 
 ## Art. 3.
 
-E' autorizzata la spesa di lire 60.000.000 per provvedere alle riparazioni e sistemazioni delle opere esistenti, nonche' agli oneri relativi a concorsi e sussidi previsti da leggi speciali ivi compreso il [R. decreto-legge 30 dicembre 1923, n. 3132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3132), sulle agevolezze per la provvista di acqua potabile e per le opere di igiene, convertito nella [legge 17 aprile 1925, n. 4732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;4732) e modificato col [R. decreto-legge 16 aprile 1936, n. 937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-04-16;937). 
+E' autorizzata la spesa di lire 60.000.000 per provvedere alle riparazioni e sistemazioni delle opere esistenti, nonche' agli oneri relativi a concorsi e sussidi previsti da leggi speciali ivi compreso il [R. decreto-legge 30 dicembre 1923, n. 3132](Agevolezze%20per%20la%20provvista%20di%20acqua%20potabile%20e%20per%20le%20opere%20di%20igiene.%20023U3132.md), sulle agevolezze per la provvista di acqua potabile e per le opere di igiene, convertito nella [legge 17 aprile 1925, n. 4732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;4732) e modificato col [R. decreto-legge 16 aprile 1936, n. 937](Abolizione%20dei%20limiti%20dimpegno%20speciali%20per%20la%20concessione%20di%20sussidi%20in%20capitale%20nellesecuzione%20di%20opere%20igieniche.%20036U0937.md). 
  
  E' autorizzata, altresi', la spesa di lire 5.000.000 per le necessita' piu' urgenti in caso di pubbliche calamita'.
 

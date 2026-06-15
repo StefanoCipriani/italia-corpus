@@ -24,7 +24,7 @@ Ritenuta la necessita' di inscrivere nello stato di previsione del Ministero del
 
 Considerata la necessita' di elevare a L. 50.000 il limite massimo dei mandati di anticipazione che possono emettersi per le spese di esercizio della Regia Zecca;
 
-Vista la [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774);
+Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 
 Udito il Consiglio dei ministri;
 

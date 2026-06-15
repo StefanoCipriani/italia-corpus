@@ -16,7 +16,7 @@ Promulga la seguente legge:
 
 ## Art. 1.
 
-Il termine di validita' dell'articolo 8, ultimo comma, del [decreto-legge 18 settembre 1976, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-09-18;648), convertito, con modificazioni, nella [legge 30 ottobre 1976, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-10-30;730), e' prorogato per gli anni 1978, 1979, 1980 e 1981.
+Il termine di validita' dell'articolo 8, ultimo comma, del [decreto-legge 18 settembre 1976, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-09-18;648), convertito, con modificazioni, nella [legge 30 ottobre 1976, n. 730](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20settembre%201976%20n.%20648%20concernente%20interventi%20per%20le%20zone%20del%20Friuli-Venezia%20Giulia%20colpite%20dagli%20eventi%20sismici%20dellanno%201976.md), e' prorogato per gli anni 1978, 1979, 1980 e 1981.
 
 ## Art. 2.
 

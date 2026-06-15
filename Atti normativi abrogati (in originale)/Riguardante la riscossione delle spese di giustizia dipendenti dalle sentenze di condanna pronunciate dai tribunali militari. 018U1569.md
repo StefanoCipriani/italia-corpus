@@ -14,7 +14,7 @@ Alla riscossione delle spese di giustizia, dipendenti dalle sentenze di condanna
 
 ## Art. 2.
 
-Ai cancellieri che procedono agli atti relativi alla riscossione, e' dovuta la decima parte delle somme recuperate, in applicazione dell'[art. 5 della legge 8 agosto 1895, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;556#art_5). 
+Ai cancellieri che procedono agli atti relativi alla riscossione, e' dovuta la decima parte delle somme recuperate, in applicazione dell'[art. 5 della legge 8 agosto 1895, n. 556](Sui%20proventi%20delle%20cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20095U0556.md). 
  
  Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta ufficiale. 
  

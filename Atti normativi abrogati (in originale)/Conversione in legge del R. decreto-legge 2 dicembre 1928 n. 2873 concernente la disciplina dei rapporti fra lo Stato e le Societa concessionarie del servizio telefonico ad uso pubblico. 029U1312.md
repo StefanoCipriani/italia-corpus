@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 dicembre 1928, n. 2873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-12-02;2873), concernente la disciplina dei rapporti fra lo Stato e le Societa' concessionarie del servizio telefonico ad uso pubblico. 
+ E' convertito in legge il [R. decreto-legge 2 dicembre 1928, n. 2873](Disciplina%20dei%20rapporti%20fra%20lo%20Stato%20e%20le%20Societa%20concessionarie%20del%20servizio%20telefonico%20ad%20uso%20pubblico.%20028U2873.md), concernente la disciplina dei rapporti fra lo Stato e le Societa' concessionarie del servizio telefonico ad uso pubblico. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

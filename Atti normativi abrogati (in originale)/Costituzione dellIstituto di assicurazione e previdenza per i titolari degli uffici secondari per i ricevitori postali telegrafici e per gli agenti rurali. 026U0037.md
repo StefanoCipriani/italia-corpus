@@ -34,7 +34,7 @@ L'Istituto provvede:
  
  a) alla rappresentanza ed all'amministrazione della Cassa mutua per le cauzioni dei titolari degli uffici secondari e dei ricevitori postali e telegrafici, istituita a decorrere dal 1° febbraio 1926; 
  
- b) alla rappresentanza ed all'amministrazione dell'Istituto nazionale degli orfani del personale delle ricevitorie postali e telegrafiche, riconosciuto col [R. decreto 22 luglio 1923, n. 1647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-22;1647), nonche' degli uffici secondari; 
+ b) alla rappresentanza ed all'amministrazione dell'Istituto nazionale degli orfani del personale delle ricevitorie postali e telegrafiche, riconosciuto col [R. decreto 22 luglio 1923, n. 1647](Erezione%20in%20ente%20morale%20dellIstituto%20nazionale%20per%20gli%20orfani%20del%20personale%20delle%20Regie%20ricevitorie%20postali%20e%20telegrafiche.%20023U1647.md), nonche' degli uffici secondari; 
  
  c) all'assicurazione degli uffici postali e telegrafici contro i danni dell'incendio, del furto e della rapina, non dipendenti da forza maggiore o da dolo del personale degli uffici stessi e nei limiti di cui all'art. 13; 
  

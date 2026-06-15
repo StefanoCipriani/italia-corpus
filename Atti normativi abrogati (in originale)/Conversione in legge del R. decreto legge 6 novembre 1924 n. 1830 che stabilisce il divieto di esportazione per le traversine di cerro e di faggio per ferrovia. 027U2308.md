@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto legge 6 novembre 1924, n. 1830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-06;1830), che stabilisce il divieto di esportazione per le traversine di cerro e di faggio per ferrovia. 
+ E' convertito in legge il [R. decreto legge 6 novembre 1924, n. 1830](Divieto%20di%20esportazione%20delle%20traversine%20di%20cerro%20e%20di%20faggio.%20024U1830.md), che stabilisce il divieto di esportazione per le traversine di cerro e di faggio per ferrovia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

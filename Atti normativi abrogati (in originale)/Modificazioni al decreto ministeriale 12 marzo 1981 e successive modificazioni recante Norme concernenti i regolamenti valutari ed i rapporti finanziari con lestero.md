@@ -16,9 +16,9 @@ DI CONCERTO CON
 
 IL MINISTRO DEL TESORO
 
-Visto il [decreto-legge 28 luglio 1955, n. 586](Nuove%20norme%20sulla%20negoziazione%20e%20la%20cessione%20di%20valute%20estere%20allo%20Stato.md), convertito in [legge 26 settembre 1955, n. 852](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-09-26;852), pubblicata nella Gazzetta Ufficiale n. 225 del 29 settembre 1955;
+Visto il [decreto-legge 28 luglio 1955, n. 586](Nuove%20norme%20sulla%20negoziazione%20e%20la%20cessione%20di%20valute%20estere%20allo%20Stato.md), convertito in [legge 26 settembre 1955, n. 852](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20luglio%201955%20n.%20586%20concernente%20le%20nuove%20norme%20sulla%20negoziazione%20e%20la%20cessione%20delle%20valute%20estere%20allo%20Stato.md), pubblicata nella Gazzetta Ufficiale n. 225 del 29 settembre 1955;
 
-Visto il [decreto-legge 6 giugno 1956, n. 476](Nuove%20norme%20valutarie%20e%20istituzione%20di%20un%20mercato%20libero%20di%20biglietti%20di%20Stato%20e%20di%20banca%20esteri.md), convertito in [legge 25 luglio 1956, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-25;786), pubblicata nella Gazzetta Ufficiale n. 192 del 2 agosto 1956;
+Visto il [decreto-legge 6 giugno 1956, n. 476](Nuove%20norme%20valutarie%20e%20istituzione%20di%20un%20mercato%20libero%20di%20biglietti%20di%20Stato%20e%20di%20banca%20esteri.md), convertito in [legge 25 luglio 1956, n. 786](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20giugno%201956%20n.%20476%20concernente%20nuove%20norme%20valutarie%20e%20istituzioni%20di%20un%20mercato%20libero%20di%20biglietti%20di%20Stato%20e%20di%20banca%20esteri.md), pubblicata nella Gazzetta Ufficiale n. 192 del 2 agosto 1956;
 
 Vista la [legge 26 settembre 1986, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-09-26;599), pubblicata nella Gazzetta
 

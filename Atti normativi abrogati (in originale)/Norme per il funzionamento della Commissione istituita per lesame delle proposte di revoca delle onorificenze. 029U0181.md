@@ -46,7 +46,7 @@ La Commissione, prima di deliberare, dovra', per mezzo del suo Presidente, dare 
  
  Non sara' necessaria questa comunicazione quando il fatto che da luogo alla privazione della decorazione sia accertato da sentenza di condanna passata in cosa giudicata o risulti da documenti di sicura attendibilita'. 
  
- Nel caso previsto dall'[art. 20 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_20) il Nostro Primo Segretario provvedera' senz'altro, con suo Magistrale decreto, alla radiazione del condannato dall'albo dei decorati.
+ Nel caso previsto dall'[art. 20 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) il Nostro Primo Segretario provvedera' senz'altro, con suo Magistrale decreto, alla radiazione del condannato dall'albo dei decorati.
 
 ## Art. 4.
 

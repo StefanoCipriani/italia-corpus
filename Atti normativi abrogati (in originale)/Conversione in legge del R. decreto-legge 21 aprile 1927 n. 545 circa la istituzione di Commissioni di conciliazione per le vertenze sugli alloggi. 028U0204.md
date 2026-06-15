@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 aprile 1927, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-04-21;545), circa l'istituzione di Commissioni di conciliazione per le vertenze sugli alloggi. 
+ E' convertito in legge il [R. decreto-legge 21 aprile 1927, n. 545](Istituzione%20di%20Commissioni%20di%20conciliazione%20per%20le%20vertenze%20sugli%20alloggi.%20027U0545.md), circa l'istituzione di Commissioni di conciliazione per le vertenze sugli alloggi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,13 +16,13 @@ Le persone di origine e di lingua tedesca, domiciliate nei comuni dell'Alto Adig
 
 ## Art. 2.
 
-La dichiarazione di rinunzia e' presentata al prefetto della Provincia, alla quale appartiene il Comune nel cui elenco dei cittadini italiani l'interessato o il suo ascendente e' stato iscritto a norma dell'[art. 1 del R. decreto 30 dicembre 1920, n. 1890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-30;1890#art_1), e dell'art. 14 del decreto presidenziale 1° febbraio 1922, pubblicato nella Gazzetta Ufficiale 14 febbraio 1922, n. 37. 
+La dichiarazione di rinunzia e' presentata al prefetto della Provincia, alla quale appartiene il Comune nel cui elenco dei cittadini italiani l'interessato o il suo ascendente e' stato iscritto a norma dell'[art. 1 del R. decreto 30 dicembre 1920, n. 1890](Che%20in%20esecuzione%20dei%20trattati%20di%20pace%20regola%20nei%20territori%20annessi%20al%20Regno%20il%20riconoscimento%20della%20cittadinanza%20di%20pieno%20diritto%20lesercizio%20del%20diritto%20di%20opzione%20e%20gli%20altri%20modi%20di%20ac_e512594be3b6.md), e dell'art. 14 del decreto presidenziale 1° febbraio 1922, pubblicato nella Gazzetta Ufficiale 14 febbraio 1922, n. 37. 
  
  Il prefetto, accertata la sussistenza dei requisiti previsti dall'art. 1, rilascia all'interessato la dichiarazione di presa d'atto della rinuncia e, avuta comunicazione della concessione della cittadinanza germanica, dispone per la cancellazione dell'interessato dagli elenchi e dai registri di cittadinanza italiana.
 
 ## Art. 3.
 
-Qualora la cittadinanza italiana fosse stata conseguita per decreto Reale, a norma dell'[art. 2 del R. decreto-legge 29 gennaio 1922, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-01-29;43#art_2), convertito nella legge 17 aprile 1925-III, n. 473, la dichiarazione di rinuncia e' presentata al Ministro per l'interno, il quale provvede analogamente a quanto e' disposto nel secondo comma dell'art. 2.
+Qualora la cittadinanza italiana fosse stata conseguita per decreto Reale, a norma dell'[art. 2 del R. decreto-legge 29 gennaio 1922, n. 43](Che%20reca%20norme%20relative%20al%20conseguimento%20della%20cittadinanza%20italiana%20nelle%20nuove%20Provincie.%20022U0043.md), convertito nella legge 17 aprile 1925-III, n. 473, la dichiarazione di rinuncia e' presentata al Ministro per l'interno, il quale provvede analogamente a quanto e' disposto nel secondo comma dell'art. 2.
 
 ## Art. 4.
 

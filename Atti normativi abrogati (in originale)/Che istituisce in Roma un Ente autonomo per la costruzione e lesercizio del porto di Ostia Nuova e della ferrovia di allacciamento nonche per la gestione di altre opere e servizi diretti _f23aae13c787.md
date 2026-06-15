@@ -40,7 +40,7 @@ L'ente ha sede in Roma, ed avra' la durata di anni settanta.
  
  c) alla esecuzione delle opere per la creazione del sobborgo marittimo di Ostia Nuova, ed alla gestione del relativo patrimonio immobiliare; 
  
- d) alla costruzione della ferrovia Roma-Ostia Nuova, in base al progetto indicato nell'allegato alla [legge 27 aprile 1916, n. 550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-27;550), con le varianti necessarie ai servizi del porto di Ostia Nuova e della zona industriale di cui al seguente comma, ed al relativo esercizio; 
+ d) alla costruzione della ferrovia Roma-Ostia Nuova, in base al progetto indicato nell'allegato alla [legge 27 aprile 1916, n. 550](Riguardante%20la%20concessione%20al%20comune%20di%20Roma%20della%20costruzione%20e%20dellesercizio%20della%20ferrovia%20a%20trazione%20elettrica%20Roma-Ostia.%20016U0550.md), con le varianti necessarie ai servizi del porto di Ostia Nuova e della zona industriale di cui al seguente comma, ed al relativo esercizio; 
  
  e) alla esecuzione delle opere per la creazione della zona industriale da Roma al mare, ed alla gestione del relativo patrimonio immobiliare; 
  
@@ -60,7 +60,7 @@ Nel suburbio di Roma, le aree delimitate come segue:
 
 2.
 
-Da Roma al mare: tutte le aree descritte all'art. 2, comma b), della [legge 6 aprile 1908, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-04-06;116), e comprese fra il vicolo del Forte Ostiense ed il Piano regolatore di Ostia Nuova;
+Da Roma al mare: tutte le aree descritte all'art. 2, comma b), della [legge 6 aprile 1908, n. 116](Concernente%20modificazioni%20ed%20aggiunte%20alla%20legge%2011%20luglio%201907%20n.%20502%20portante%20provvedimenti%20per%20la%20citta%20di%20Roma.%20008U0116.md), e comprese fra il vicolo del Forte Ostiense ed il Piano regolatore di Ostia Nuova;
 
 3.
 
@@ -118,11 +118,11 @@ Le opere di cui agli articoli 2 e 3 sono dichiarate di pubblica utilita', ed all
  
  L'ente potra' immettersi nel possesso dei beni occorrenti, in seguito alla compilazione dello stato di consistenza dei fondi da occupare, che sara' approvato dal Ministero dei lavori pubblici, il quale determinera' pure la somma che, in via provvisoria, dovra' depositassi por la indennita' di espropriazione e per gli altri eventuali risarcimenti, che ai terzi possano competere. 
  
- Il verbale di consistenza di cui sopra equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_32). 
+ Il verbale di consistenza di cui sopra equivale alla perizia di cui all'[art. 32 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
  
  Ogni eventuale variazione o rettifica delle espropriazioni sara' approvata con lo stesso procedimento. 
  
- Si applicheranno per tutto il resto le disposizioni della [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359). 
+ Si applicheranno per tutto il resto le disposizioni della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
  
  Le espropriazioni dovranno essere eseguite nel termine massimo di cui al secondo somma dell'articolo unico del [decreto Luogotenenziale 14 aprile 1918, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-14;578).
 
@@ -293,7 +293,7 @@ Essa, in occasione di modificazioni alla cinta daziaria, non potra', nemmeno in 
 
 ## Art. 27.
 
-Agli stabilimenti industriali di ogni specie, che sorgeranno entro la zona industriale di Roma, ed a quelli che ivi si ampliassero o trasformassero, nonche' alle opere o agli impianti che fossero compiuti nella zona stessa, per la sistemazione delle vie acquee nell'interesse dell'industria e del commercio, sono estese, in quanto applicabili, tutte le disposizioni di indole tributaria ed economica fissate dalla [legge 8 luglio 1904, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;351), concernente provvedimenti per la citta' di Napoli. 
+Agli stabilimenti industriali di ogni specie, che sorgeranno entro la zona industriale di Roma, ed a quelli che ivi si ampliassero o trasformassero, nonche' alle opere o agli impianti che fossero compiuti nella zona stessa, per la sistemazione delle vie acquee nell'interesse dell'industria e del commercio, sono estese, in quanto applicabili, tutte le disposizioni di indole tributaria ed economica fissate dalla [legge 8 luglio 1904, n. 351](Provvedimenti%20pel%20risorgimento%20economico%20della%20citta%20di%20Napoli.%20004U0351.md), concernente provvedimenti per la citta' di Napoli. 
  
  Per ottenere le esenzioni dai dazi doganali, previste dagli articoli 7 e 8 della citata legge 8 luglio 1904, per i materiali da costruzione, le macchine o quanto altro occorra agli stabilimenti, opere ed impianti suindicati, dovra' essere dimostrata, a giudizio del Ministero per l'industria, il commercio ed il lavoro, la necessita' di farne gli acquisti all'estero. 
  

@@ -38,7 +38,7 @@ A ciascun magazzino e al centro recuperi e' preposto un consegnatario scelto fra
 ## Art. 3.
 
 Per ogni sede di magazzino puo' essere istituita, con decreto Ministeriale, una commissione di collaudo per la fornitura dei materiali di cui all'art. 1, composta di un funzionario dell'Amministrazione penitenziaria, di grado non inferiore al 9°, che la presiede, di un esperto da scegliere tra i funzionari dell'Amministrazione dello Stato e del consegnatario del magazzino, il quale funzionera' inoltre da segretario.
- Per il collaudo e per la dichiarazione di fuori uso dei materiali suddetti valgono le disposizioni del regolamento approvato con [regio decreto 16 maggio 1920, n. 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-16;1908).
+ Per il collaudo e per la dichiarazione di fuori uso dei materiali suddetti valgono le disposizioni del regolamento approvato con [regio decreto 16 maggio 1920, n. 1908](Che%20sostituisce%20le%20disposizioni%20contenute%20nella%20parte%20III%20Amministrazione%20economica%20e%20contabilita%20del%20regolamento%20generale%20per%20gli%20stabilimenti%20carcerari%201%20febbraio%201891%20n.%20260%20020U1908.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

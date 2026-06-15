@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77), [81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_81) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di dettare disposizioni in materia di definizione agevolata di cui all'[articolo 6 del decreto-legge 22 ottobre 2016, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-10-22;193#art_6), convertito, con modificazioni, dalla [legge 1° dicembre 2016, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-01;225), al fine di consentire di prorogare i termini entro i quali i debitori potranno presentare o integrare la prevista dichiarazione;
+Ritenuta la straordinaria necessita' ed urgenza di dettare disposizioni in materia di definizione agevolata di cui all'[articolo 6 del decreto-legge 22 ottobre 2016, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-10-22;193#art_6), convertito, con modificazioni, dalla [legge 1° dicembre 2016, n. 225](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20ottobre%202016%20n.%20193%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale%20e%20per%20il%20finanziamento%20di%20esigenze%20indifferibili.%2016G00238.md), al fine di consentire di prorogare i termini entro i quali i debitori potranno presentare o integrare la prevista dichiarazione;
 
 Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 24 marzo 2017;
 
@@ -24,7 +24,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-All'[articolo 6, comma 2, del decreto-legge 22 ottobre 2016, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-10-22;193#art_6-com2), convertito, con modificazioni, dalla [legge 1° dicembre 2016, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-01;225), al primo ed al secondo periodo, le parole: «31 marzo 2017» sono sostituite dalle seguenti: «21 aprile 2017».
+All'[articolo 6, comma 2, del decreto-legge 22 ottobre 2016, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-10-22;193#art_6-com2), convertito, con modificazioni, dalla [legge 1° dicembre 2016, n. 225](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20ottobre%202016%20n.%20193%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale%20e%20per%20il%20finanziamento%20di%20esigenze%20indifferibili.%2016G00238.md), al primo ed al secondo periodo, le parole: «31 marzo 2017» sono sostituite dalle seguenti: «21 aprile 2017».
 
 ## Art. 2. — Entrata in vigore
 

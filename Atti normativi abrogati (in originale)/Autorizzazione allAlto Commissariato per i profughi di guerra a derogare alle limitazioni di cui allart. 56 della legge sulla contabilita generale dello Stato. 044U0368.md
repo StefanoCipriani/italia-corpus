@@ -20,7 +20,7 @@ UMBERTO DI SAVOIA
  
  Visti i [Regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), portanti disposizioni sulla contabilita' generale dello Stato; 
  
- Visto il [R. decreto-legge 29 maggio 1944, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;137), concernente l'istituzione dell'Alto Commissariato per profughi di guerra; 
+ Visto il [R. decreto-legge 29 maggio 1944, n. 137](Istituzione%20di%20un%20Alto%20Commissariato%20per%20lassistenza%20morale%20e%20materiale%20dei%20profughi%20di%20guerra.%20044U0137.md), concernente l'istituzione dell'Alto Commissariato per profughi di guerra; 
  
  Ritenuto che, per assicurare il rapido e tempestivo funzionamento dei servizi di natura eccezionale affilati all'Ente predetto, si rende indispensabile derogare alle tassative disposizioni previste dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56); 
  

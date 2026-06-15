@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 gennaio 1927, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-13;53), concernente provvedimenti per la sistemazione e fusione dei servizi nel comune unificato di Genova, nel primo periodo della effettuata unificazione. 
+ E' convertito in legge il [R. decreto-legge 13 gennaio 1927, n. 53](Provvedimenti%20per%20la%20sistemazione%20e%20fusione%20dei%20servizi%20nel%20comune%20unificato%20di%20Genova.%20027U0053.md), concernente provvedimenti per la sistemazione e fusione dei servizi nel comune unificato di Genova, nel primo periodo della effettuata unificazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

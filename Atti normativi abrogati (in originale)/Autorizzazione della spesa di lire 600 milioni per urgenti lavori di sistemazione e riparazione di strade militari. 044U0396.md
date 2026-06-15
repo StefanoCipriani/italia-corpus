@@ -30,7 +30,7 @@ E' autorizzata la spesa straordinaria di lire 600 milioni per la esecuzione di u
 
 La ripartizione della spesa di cui al precedente articolo, in rapporto ai lavori da eseguire, sara' stabilita dal Ministro per i lavori pubblici, di concerto con quello per il tesoro. 
  
- I lavori che, a richiesta dei comandi militari competenti, rivestono carattere di urgenza o di riservatezza, possono essere eseguiti secondo le norme dell'articolo 50 lett. C) del regolamento per i lavori del Genio militare, approvato con il [R. decreto 17 marzo 1932, n. 365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-03-17;365).
+ I lavori che, a richiesta dei comandi militari competenti, rivestono carattere di urgenza o di riservatezza, possono essere eseguiti secondo le norme dell'articolo 50 lett. C) del regolamento per i lavori del Genio militare, approvato con il [R. decreto 17 marzo 1932, n. 365](Approvazione%20del%20regolamento%20sui%20lavori%20del%20genio%20militare.%20032U0365.md).
 
 ## Art. 3.
 

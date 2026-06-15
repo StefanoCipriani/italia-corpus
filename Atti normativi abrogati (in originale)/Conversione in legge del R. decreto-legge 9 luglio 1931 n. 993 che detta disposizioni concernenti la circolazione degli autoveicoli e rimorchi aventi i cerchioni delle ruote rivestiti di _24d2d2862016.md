@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 luglio 1931, n. 993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-09;993), che detta disposizioni concernenti la circolazione degli autoveicoli e rimorchi aventi i cerchioni delle ruote rivestiti di gomme piene. 
+ E' convertito in legge il [R. decreto-legge 9 luglio 1931, n. 993](Disposizioni%20concernenti%20la%20circolazione%20degli%20autoveicoli%20e%20rimorchi%20aventi%20i%20cerchioni%20delle%20ruote%20rivestiti%20di%20gomme%20piene.%20031U0993.md), che detta disposizioni concernenti la circolazione degli autoveicoli e rimorchi aventi i cerchioni delle ruote rivestiti di gomme piene. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

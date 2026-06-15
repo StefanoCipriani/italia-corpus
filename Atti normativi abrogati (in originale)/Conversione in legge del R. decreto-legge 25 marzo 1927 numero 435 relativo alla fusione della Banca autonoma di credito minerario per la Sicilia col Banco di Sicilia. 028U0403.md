@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 marzo 1927, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-25;435), relativo alla fusione della Banca autonoma di credito minerario per la Sicilia con il Banco di Sicilia. 
+ E' convertito in legge il [R. decreto-legge 25 marzo 1927, n. 435](Fusione%20della%20Banca%20autonoma%20di%20credito%20minerario%20per%20la%20Sicilia%20col%20Banco%20di%20Sicilia.%20027U0435.md), relativo alla fusione della Banca autonoma di credito minerario per la Sicilia con il Banco di Sicilia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

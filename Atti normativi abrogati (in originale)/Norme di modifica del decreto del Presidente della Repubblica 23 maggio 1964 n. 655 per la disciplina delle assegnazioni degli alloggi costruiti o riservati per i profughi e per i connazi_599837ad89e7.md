@@ -34,7 +34,7 @@ I concorsi per l'assegnazione dell'aliquota, riservata ai profughi ed ai connazi
 
 ## Art. 3.
 
-Ai fini dell'assegnazione degli alloggi costruiti o riservati per i profughi e per i connazionali rimpatriati ad essi assimilati fanno parte della commissione provinciale istituita con l'[articolo 10 del decreto del Presidente della Repubblica 23 maggio 1964, n. 655](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1964-05-23;655#art_10), in luogo dei componenti indicati alle lettere g) ed h) dell'articolo medesimo, tre rappresentanti effettivi e tre supplenti delle categorie dei profughi e rimpatriati, designati dal prefetto della provincia, sentite le associazioni di categoria giuridicamente riconosciute.
+Ai fini dell'assegnazione degli alloggi costruiti o riservati per i profughi e per i connazionali rimpatriati ad essi assimilati fanno parte della commissione provinciale istituita con l'[articolo 10 del decreto del Presidente della Repubblica 23 maggio 1964, n. 655](../DPR/Norme%20concernenti%20la%20disciplina%20delle%20assegnazioni%20degli%20alloggi%20economici%20e%20popolari.md), in luogo dei componenti indicati alle lettere g) ed h) dell'articolo medesimo, tre rappresentanti effettivi e tre supplenti delle categorie dei profughi e rimpatriati, designati dal prefetto della provincia, sentite le associazioni di categoria giuridicamente riconosciute.
  I componenti supplenti partecipano alle adunanze in caso di assenza o impedimento degli effettivi.
  Nelle province in cui gli alloggi vengono costruiti ed in cui esiste un centro di raccolta dei profughi, uno dei suddetti componenti effettivi e' il direttore del centro, Per le attivita' inerenti alla sistemazione alloggiativa dei suddetti profughi e rimpatriati fanno parte della commissione regionale istituita con l'articolo 19 del citato decreto, in luogo dei componenti indicati al numero 6 dell'articolo 20 del medesimo, tre rappresentanti delle categorie interessate designati dal prefetto della provincia del capoluogo di regione.
 
@@ -47,7 +47,7 @@ centri di raccolta:
  b) con riferimento al periodo di permanenza nei centri di raccolta: fino ad un anno, punti 1; da uno a tre anni, punti 2; da tre a cinque anni, punti 3; da cinque anni in poi, punti 4;
  c) con riferimento al tipo dell'assistenza goduta:
  solo alloggio, punti 1; sussidio o vitto confezionato ed alloggio, punti 5;
- 2) per i profughi ed i rimpatriati non ricoverati nei centri di raccolta vale il punteggio stabilito dall'[articolo 8 del decreto del Presidente della Repubblica 23 maggio 1964, n. 655](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1964-05-23;655#art_8).
+ 2) per i profughi ed i rimpatriati non ricoverati nei centri di raccolta vale il punteggio stabilito dall'[articolo 8 del decreto del Presidente della Repubblica 23 maggio 1964, n. 655](../DPR/Norme%20concernenti%20la%20disciplina%20delle%20assegnazioni%20degli%20alloggi%20economici%20e%20popolari.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il canale Naviglio, interno alla citta', di Padova, lungo la linea Vicenza-Padova-Fusina, e' declassificato dalle linee navigabili di seconda classe di cui al [regio decreto 8 giugno 1911, n. 823](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-06-08;823), ed al [decreto luogotenenziale 31 maggio 1917, n. 1536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;1536).
+Il canale Naviglio, interno alla citta', di Padova, lungo la linea Vicenza-Padova-Fusina, e' declassificato dalle linee navigabili di seconda classe di cui al [regio decreto 8 giugno 1911, n. 823](Che%20approva%20lelenco%20delle%20linee%20navigabili%20dichiarate%20di%20seconda%20classe.%20011U0823.md), ed al [decreto luogotenenziale 31 maggio 1917, n. 1536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;1536).
 
 ## Art. 2.
 

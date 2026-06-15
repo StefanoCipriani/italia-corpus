@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 agosto 1929, n. 1438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-08-02;1438), concernente l'autorizzazione dell'uso anticipato dei nuovi registri dello stato civile per le trascrizioni dei matrimoni religiosi. 
+ E' convertito in legge il [R. decreto-legge 2 agosto 1929, n. 1438](Autorizzazione%20delluso%20anticipato%20dei%20nuovi%20registri%20di%20stato%20civile%20per%20le%20trascrizioni%20dei%20matrimoni%20religiosi.%20029U1438.md), concernente l'autorizzazione dell'uso anticipato dei nuovi registri dello stato civile per le trascrizioni dei matrimoni religiosi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 dicembre 1927, n. 2488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-18;2488), che modifica la pianta organica dei magistrati della Corte di cassazione del Regno. 
+ E' convertito in legge il [R. decreto-legge 18 dicembre 1927, n. 2488](Modificazione%20alla%20pianta%20organica%20dei%20magistrati%20della%20Corte%20di%20cassazione%20del%20Regno.%20027U2488.md), che modifica la pianta organica dei magistrati della Corte di cassazione del Regno. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

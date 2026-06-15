@@ -14,7 +14,7 @@ Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie
 
 ## Art. 2.
 
-Le assegnazioni autorizzate con l'[art. 2 della legge 1° marzo 1934, n. 384](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20della%20marina%20per%20lesercizio%20finanziario%20dal%201%20luglio%201934%20al%2030%20giugno%201935.%20034U0384.md), col [R. decreto-legge 5 luglio 1934, n. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1223), convertito nella [legge 28 marzo 1935, n. 377](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20luglio%201934%20n.%201223%20col%20quale%20si%20autorizzano%20assegnazioni%20per%20nuove%20costruzioni%20navali.%20035U0377.md), e col [R. decreto-legge 4 ottobre 1935, n. l821](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;821), sono iscritte per L. 565.000.000 nella parte ordinaria, e per L. 5.000.000 nella parte straordinaria, per acquisto di scorte intangibili di materiali metallici.
+Le assegnazioni autorizzate con l'[art. 2 della legge 1° marzo 1934, n. 384](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20della%20marina%20per%20lesercizio%20finanziario%20dal%201%20luglio%201934%20al%2030%20giugno%201935.%20034U0384.md), col [R. decreto-legge 5 luglio 1934, n. 1223](Autorizzazione%20di%20spese%20straordinarie%20per%20nuove%20costruzioni%20navali.%20034U1223.md), convertito nella [legge 28 marzo 1935, n. 377](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20luglio%201934%20n.%201223%20col%20quale%20si%20autorizzano%20assegnazioni%20per%20nuove%20costruzioni%20navali.%20035U0377.md), e col [R. decreto-legge 4 ottobre 1935, n. l821](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;821), sono iscritte per L. 565.000.000 nella parte ordinaria, e per L. 5.000.000 nella parte straordinaria, per acquisto di scorte intangibili di materiali metallici.
 
 ## Art. 3.
 
@@ -26,7 +26,7 @@ La quota annua autorizzala con l'[art. 4 della legge 12 giugno 1936, n. 800](htt
 
 ## Art. 5.
 
-Le disposizioni dell'art. 20 del testo unico concernente l'amministrazione e la contabilita' dei Corpi, Istituti e Stabilimenti Miliari, approvato col [R. decreto 2 febbraio 1928, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-02;263), sono estese, ai capitoli riguardanti le spese del materiale e della mano d'opera dei Regi arsenali militari marittimi; i relativi prelevamenti per questo titolo non potranno eccedere durante l'esercizio 1936-37 complessivamente la somma di L. 3.000.000. 
+Le disposizioni dell'art. 20 del testo unico concernente l'amministrazione e la contabilita' dei Corpi, Istituti e Stabilimenti Miliari, approvato col [R. decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono estese, ai capitoli riguardanti le spese del materiale e della mano d'opera dei Regi arsenali militari marittimi; i relativi prelevamenti per questo titolo non potranno eccedere durante l'esercizio 1936-37 complessivamente la somma di L. 3.000.000. 
  
  I capitoli a favore dei quali, nell'esercizio 1936-37, potranno operarsi prelevamenti dal fondo a disposizione di cui ai succitati articoli, sono descritti nell'elenco annesso alla presente legge.
 

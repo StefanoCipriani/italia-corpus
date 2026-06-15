@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 giugno 1932, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-06-16;726), che reca l'aumento del diritto fisso erariale sul carbone fossile e del dazio doganale sul coke. 
+ E' convertito in legge il [R. decreto-legge 16 giugno 1932, n. 726](Aumento%20del%20diritto%20fisso%20erariale%20sul%20carbon%20fossile%20e%20del%20dazio%20doganale%20sul%20coke.%20032U0726.md), che reca l'aumento del diritto fisso erariale sul carbone fossile e del dazio doganale sul coke. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

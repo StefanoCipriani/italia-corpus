@@ -34,7 +34,7 @@ Vengono pubblicati ed avranno vigore nelle Provincie italiane liberate dalla occ
 
 ## Art. 2.
 
-Per l'applicazione nelle dette Provincie delle Leggi enunciate nell'articolo precedente, ove e' fatto riferimento alle disposizioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), si intenderanno citate le disposizioni del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) austriaco del 27 maggio 1852, che sono indicate nella tabella annessa al presente Decreto, firmata d'ordine Nostro dal Ministro Guardasigilli.
+Per l'applicazione nelle dette Provincie delle Leggi enunciate nell'articolo precedente, ove e' fatto riferimento alle disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si intenderanno citate le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco del 27 maggio 1852, che sono indicate nella tabella annessa al presente Decreto, firmata d'ordine Nostro dal Ministro Guardasigilli.
 
 ## Art. 3.
 

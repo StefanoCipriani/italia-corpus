@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 marzo 1929, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-18;407), recante autorizzazione al comune di Trieste a dispensare dal servizio il personale di qualunque ufficio e grado ed a provvedere in ordine ai posti eventualmente vacanti. 
+ E' convertito in legge il [R. decreto-legge 18 marzo 1929, n. 407](Autorizzazione%20al%20comune%20di%20Trieste%20a%20dispensare%20dal%20servizio%20il%20personale%20di%20qualunque%20ufficio%20e%20grado%20ed%20a%20provvedere%20in%20ordine%20ai%20posti%20eventualmente%20vacanti.%20029U0407.md), recante autorizzazione al comune di Trieste a dispensare dal servizio il personale di qualunque ufficio e grado ed a provvedere in ordine ai posti eventualmente vacanti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

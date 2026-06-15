@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a noi delegata; 
  
- Vista la [legge 17 luglio 1910, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;523) (pubblicata nella Gazzetta ufficiale del 9 agosto 1910, n. 186) colla quale fu approvato il compromesso concordato tra l'Amministrazione militare ed il comune di Savona per la sistemazione dei diversi servizi militari allogati in detta citta', autorizzando la vendita al Comune medesimo di alcuni immobili demaniali militari; 
+ Vista la [legge 17 luglio 1910, n. 523](Vendita%20al%20comune%20di%20Savona%20di%20alcuni%20immobili%20demaniali%20militari.%20010U0523.md) (pubblicata nella Gazzetta ufficiale del 9 agosto 1910, n. 186) colla quale fu approvato il compromesso concordato tra l'Amministrazione militare ed il comune di Savona per la sistemazione dei diversi servizi militari allogati in detta citta', autorizzando la vendita al Comune medesimo di alcuni immobili demaniali militari; 
  
  Riconosciuta la necessita' e la convenienza, in ispecie per le sopravvenute attuali eccezionali circostanze create dallo stato di guerra, di apportare al detto compromesso le modificazioni che sono state concretate nella bozza del nuovo compromesso accettato dal Consiglio comunale di Savona colle deliberazioni 29 maggio e 13 luglio 1917 approvate dalla Giunta provinciale amministrativa nella seduta del 4 ottobre successivo; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo Unico. 
  
- Al testo del compromesso, approvato colla [legge 17 luglio 1910, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;523), per la vendita al comune di Savona dell'immobile denominato ex-fortezza «Priamar» e del fabbricato della caserma denominato «Umberto I» e per la restituzione al Comune medesimo dello stabile della caserma comunale «Agostino Ricci», gia' da esso ceduta in uso gratuito per tempo indeterminato, ricevendo l'Amministrazione militare in permuta un appezzamento di terreno della piazza d'Armi, oltre un corrispettivo in contanti di L. 350.000, e' sostituito il testo del nuovo compromesso accettato dal Consiglio comunale di Savona con le deliberazioni 29 maggio e 13 luglio 1917 approvate dalla Giunta provinciale amministrativa nella seduta del 4 ottobre successivo. 
+ Al testo del compromesso, approvato colla [legge 17 luglio 1910, n. 523](Vendita%20al%20comune%20di%20Savona%20di%20alcuni%20immobili%20demaniali%20militari.%20010U0523.md), per la vendita al comune di Savona dell'immobile denominato ex-fortezza «Priamar» e del fabbricato della caserma denominato «Umberto I» e per la restituzione al Comune medesimo dello stabile della caserma comunale «Agostino Ricci», gia' da esso ceduta in uso gratuito per tempo indeterminato, ricevendo l'Amministrazione militare in permuta un appezzamento di terreno della piazza d'Armi, oltre un corrispettivo in contanti di L. 350.000, e' sostituito il testo del nuovo compromesso accettato dal Consiglio comunale di Savona con le deliberazioni 29 maggio e 13 luglio 1917 approvate dalla Giunta provinciale amministrativa nella seduta del 4 ottobre successivo. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

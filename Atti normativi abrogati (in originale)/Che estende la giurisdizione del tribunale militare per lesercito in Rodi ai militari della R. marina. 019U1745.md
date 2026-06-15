@@ -16,7 +16,7 @@ RE D'ITALIA
 
 In virtu' dei poteri straordinari conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visto il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo;
 
 Udito il Consiglio dei ministri;
 
@@ -24,9 +24,9 @@ Sulla proposta del ministro della marina, di concerto coi ministri della guerra,
 
 ## Art. 1.
 
-La giurisdizione del tribunale militare per l'esercito in Rodi viene estesa a tutti i militari della marina, sia destinati a terra, sia destinati a bordo di navi dislocate nelle acque del Dodecaneso, ed ai medesimi sono applicate le pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito. 
+La giurisdizione del tribunale militare per l'esercito in Rodi viene estesa a tutti i militari della marina, sia destinati a terra, sia destinati a bordo di navi dislocate nelle acque del Dodecaneso, ed ai medesimi sono applicate le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
- Nondimeno ai predetti militari sono applicate le pene stabilite dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo, qualora si tratti di reati in servizio compresi nel capo III titalo II libro I del menzionato Codice, ovvero dei reati non preveduti dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare per esercito, e di quelli contemplati nel decreto Luogotenenziale 4 febbraio 1017, n. 196.
+ Nondimeno ai predetti militari sono applicate le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, qualora si tratti di reati in servizio compresi nel capo III titalo II libro I del menzionato Codice, ovvero dei reati non preveduti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per esercito, e di quelli contemplati nel decreto Luogotenenziale 4 febbraio 1017, n. 196.
 
 ## Art. 2.
 

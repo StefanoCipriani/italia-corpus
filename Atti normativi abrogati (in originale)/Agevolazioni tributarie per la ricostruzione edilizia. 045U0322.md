@@ -18,7 +18,7 @@ Alle case di abitazione, anche se rurali o coloniche, od altri edifici pubblici 
 
 Le imposte di registro ed ipotecarie dovute sulle compravendite di edifici distrutti o danneggiati, anche se ridotti alla sola area fabbricabile, fatte a favore di persone od enti che ne assumano la ricostruzione o riparazione sono dovute nella misura fissa per ogni atto e per ogni trascrizione. 
  
- Allo stesso trattamento tributario son altresi' soggetti gli acquisti di aree, comprese le permute, fatte a scopo di ricostruzione, in localita' diversa, quando venga comprovato nel modo previsto dall'art. 1, che tale ricostruzione non possa avvenire sull'area dei fabbricati distrutti per effetto di prescrizioni risultanti da piani regolatori vigenti o da piani di ricostruzione approvati a norma del [decreto legislativo Luogotenenziale 1° marzo 1945, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;154), ovvero per effetto di limitazioni stabilite da altre disposizioni speciali.
+ Allo stesso trattamento tributario son altresi' soggetti gli acquisti di aree, comprese le permute, fatte a scopo di ricostruzione, in localita' diversa, quando venga comprovato nel modo previsto dall'art. 1, che tale ricostruzione non possa avvenire sull'area dei fabbricati distrutti per effetto di prescrizioni risultanti da piani regolatori vigenti o da piani di ricostruzione approvati a norma del [decreto legislativo Luogotenenziale 1° marzo 1945, n. 154](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20i%20piani%20di%20ricostruzione%20degli%20abitati%20danneggiati%20dalla%20guerra.%20045U0154.md), ovvero per effetto di limitazioni stabilite da altre disposizioni speciali.
 
 ## Art. 3.
 
@@ -50,7 +50,7 @@ Le disposizioni di cui al primo e secondo comma dell'art. 3, nonche' quelle dell
  
  Il rimborso delle imposte pagate in piu' dovra' essere richiesto, a pena di decadenza, entro tre mesi dalla data di entrata in vigore del presente decreto. 
  
- Le disposizioni di cui al primo e secondo comma dell'art. 3 si estendono altresi' ai contratti scritti di appalto per ricostruzione o riparazione di opere pubbliche distrutte o danneggiate da azioni belliche stipulati successivamente alla [legge 26 ottobre 1940, n. 1543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-26;1543), anche se non registrati, purche' la registrazione o il rimborso siano richiesti entro 60 giorni dalla data di entrata in vigore del presente decreto e l'Amministrazione contraente dichiari per iscritto, sotto la propria responsabilita', che il minore onere tributario e' stato tenuto a calcolo nella formulazione dei prezzi e dei corrispettivi.
+ Le disposizioni di cui al primo e secondo comma dell'art. 3 si estendono altresi' ai contratti scritti di appalto per ricostruzione o riparazione di opere pubbliche distrutte o danneggiate da azioni belliche stipulati successivamente alla [legge 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md), anche se non registrati, purche' la registrazione o il rimborso siano richiesti entro 60 giorni dalla data di entrata in vigore del presente decreto e l'Amministrazione contraente dichiari per iscritto, sotto la propria responsabilita', che il minore onere tributario e' stato tenuto a calcolo nella formulazione dei prezzi e dei corrispettivi.
 
 ## Art. 9.
 

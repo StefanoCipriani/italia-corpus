@@ -102,7 +102,7 @@ Chiunque, in violazione delle precedenti disposizioni, detiene i grassi animali 
  
  Chiunque venda od acquisti i prodotti di cui all'art. 12 del presente decreto-legge a prezzi superiori a quelli stabiliti, e' punito con la reclusione da tre mesi a due anni o con la multa non inferiore a lire mille. 
  
- Nel caso di condanna per i reati preveduti dal presente articolo, e' ordinata la confisca ai sensi dell'[art. 240 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+ Nel caso di condanna per i reati preveduti dal presente articolo, e' ordinata la confisca ai sensi dell'[art. 240 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 14.
 

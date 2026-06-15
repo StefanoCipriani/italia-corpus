@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-L'[articolo 27-ter del decreto-legge 18 novembre 1966, n. 976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1966-11-18;976#art_27ter), convertito nella [legge 23 dicembre 1966, n. 1142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-23;1142), e' sostituito dal seguente:
+L'[articolo 27-ter del decreto-legge 18 novembre 1966, n. 976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1966-11-18;976#art_27ter), convertito nella [legge 23 dicembre 1966, n. 1142](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201966%20n.%20976%20concernente%20ulteriori%20interventi%20e%20provvidenze%20per%20la%20ricostruzione%20e%20per%20la%20ripresa%20economica%20nei%20territo_257ef915b309.md), e' sostituito dal seguente:
  "Alle imprese sociali di cui al primo ed al quarto comma dell'articolo 27 e' concesso il termine di cinque anni per adempiere agli oneri previsti dagli [articoli 2446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2446) e [2447 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2447)".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

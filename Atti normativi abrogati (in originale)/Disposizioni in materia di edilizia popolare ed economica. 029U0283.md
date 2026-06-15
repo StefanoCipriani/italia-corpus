@@ -36,7 +36,7 @@ Nei casi in cui soci di cooperative edilizie mutuatarie della Cassa depositi e p
 
 ## Art. 2.
 
-L'[articolo 18 del R. decreto-legge 7 ottobre 1923, n. 2412](Compiti%20della%20Commissione%20di%20vigilanza%20sulla%20edilizia%20popolare%20provvedimenti%20per%20la%20esecutorieta%20delle%20sue%20decisioni%20e%20altre%20norme%20in%20materia%20di%20abitazioni.%20023U2412.md), convertito nella [legge 16 giugno 1927, n. 985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;985), deve intendersi nel senso che gli affittuari non possono, per effetto della avvenuta locazione, essere iscritti soci, salvo che vi abbiano diritto per altro titolo. 
+L'[articolo 18 del R. decreto-legge 7 ottobre 1923, n. 2412](Compiti%20della%20Commissione%20di%20vigilanza%20sulla%20edilizia%20popolare%20provvedimenti%20per%20la%20esecutorieta%20delle%20sue%20decisioni%20e%20altre%20norme%20in%20materia%20di%20abitazioni.%20023U2412.md), convertito nella [legge 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), deve intendersi nel senso che gli affittuari non possono, per effetto della avvenuta locazione, essere iscritti soci, salvo che vi abbiano diritto per altro titolo. 
  
  Le cooperative devono provvedere alla cancellazione di quelli che si trovino nelle condizioni di cui al precedente comma, iscrivendoli, ove essi ne facciano domanda documentata secondo le disposizioni vigenti, tra gli aspiranti soci, al posto che sarebbe loro spettato riferibilmente alla data in cui conseguirono la qualita' di socio. 
  
@@ -53,7 +53,7 @@ Tale accertamento, per le cooperative tra ferrovieri, sara' effettuato dal colla
 
 ## Art. 4.
 
-Gli atti di assegnazione di appartamenti e di mutui edilizi individuali ai soci delle cooperative che abbiano costruito o che costruiscano col solo contributo dello Stato nel pagamento di una parte degli interessi, nonche' gli atti di riscatto, oltre ad essere registrati con la tassa fissa a termini dell'[art. 65 del R. decreto 30 dicembre 1923, n. 3269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3269#art_65), sono soggetti a tassa fissa per le formalita' ipotecarie e per la voltura catastale, salvo gli emolumenti ai conservatori delle ipoteche.
+Gli atti di assegnazione di appartamenti e di mutui edilizi individuali ai soci delle cooperative che abbiano costruito o che costruiscano col solo contributo dello Stato nel pagamento di una parte degli interessi, nonche' gli atti di riscatto, oltre ad essere registrati con la tassa fissa a termini dell'[art. 65 del R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), sono soggetti a tassa fissa per le formalita' ipotecarie e per la voltura catastale, salvo gli emolumenti ai conservatori delle ipoteche.
 
 ## Art. 5.
 
@@ -85,7 +85,7 @@ Il termine di venti anni, concesso dall'[art. 4 del R. decreto-legge 10 marzo 19
 
 ## Art. 11.
 
-E' in facolta' del Ministro per i lavori pubblici, di concerto con quello per le finanze, nei casi di esclusione dal beneficio del contributo governativo nel pagamento di una parte degli interessi, previsti dall'[art. 20 del R. decreto-legge 7 febbraio 1926, n. 193](Ordinamento%20dei%20servizi%20preposti%20alla%20edilizia%20popolare%20ed%20economica%20ed%20altri%20provvedimenti%20in%20materia.%20026U0193.md), convertito nella [legge 15 luglio 1926, n. 1263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-15;1263), di disporre che i soci, a carico dei quali la detta esclusione sia stata comminata, prestino, nelle forme e nei termini da stabilirsi dai Ministri predetti, le garanzie che essi riterranno necessarie nell'interesse dell'istituto mutuante, ed imporre anche, se del caso, il pagamento totale del costo dell'alloggio cooperativo. 
+E' in facolta' del Ministro per i lavori pubblici, di concerto con quello per le finanze, nei casi di esclusione dal beneficio del contributo governativo nel pagamento di una parte degli interessi, previsti dall'[art. 20 del R. decreto-legge 7 febbraio 1926, n. 193](Ordinamento%20dei%20servizi%20preposti%20alla%20edilizia%20popolare%20ed%20economica%20ed%20altri%20provvedimenti%20in%20materia.%20026U0193.md), convertito nella [legge 15 luglio 1926, n. 1263](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1263.md), di disporre che i soci, a carico dei quali la detta esclusione sia stata comminata, prestino, nelle forme e nei termini da stabilirsi dai Ministri predetti, le garanzie che essi riterranno necessarie nell'interesse dell'istituto mutuante, ed imporre anche, se del caso, il pagamento totale del costo dell'alloggio cooperativo. 
  
  La determinazione, a cura del Ministro per i lavori pubblici, sara' notificata al socio della cooperativa mediante lettera raccomandata con ricevuta di ritorno. 
  
@@ -95,7 +95,7 @@ E' in facolta' del Ministro per i lavori pubblici, di concerto con quello per le
 
 ## Art. 12.
 
-La disposizione del [primo comma dell'art. 28 del R. decreto-legge 7 febbraio 1926, n. 193](Ordinamento%20dei%20servizi%20preposti%20alla%20edilizia%20popolare%20ed%20economica%20ed%20altri%20provvedimenti%20in%20materia.%20026U0193.md), convertito nella [legge 15 luglio 1926, n. 1263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-15;1263), deve intendersi nel senso che, in sede di contratti di mutui edilizi individuali, sia da pagarsi una sola tassa fissa ipotecaria per ogni stipulazione, qualunque sia il numero dei soci, dei mutui, delle iscrizioni e delle trascrizioni.
+La disposizione del [primo comma dell'art. 28 del R. decreto-legge 7 febbraio 1926, n. 193](Ordinamento%20dei%20servizi%20preposti%20alla%20edilizia%20popolare%20ed%20economica%20ed%20altri%20provvedimenti%20in%20materia.%20026U0193.md), convertito nella [legge 15 luglio 1926, n. 1263](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1263.md), deve intendersi nel senso che, in sede di contratti di mutui edilizi individuali, sia da pagarsi una sola tassa fissa ipotecaria per ogni stipulazione, qualunque sia il numero dei soci, dei mutui, delle iscrizioni e delle trascrizioni.
 
 ## Art. 13.
 

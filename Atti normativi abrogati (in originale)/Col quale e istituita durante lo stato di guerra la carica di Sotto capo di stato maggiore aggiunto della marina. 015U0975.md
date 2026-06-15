@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), con la quale sono stati conferiti al Governo del Re poteri straordinari durante la guerra;
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), con la quale sono stati conferiti al Governo del Re poteri straordinari durante la guerra;
 
-Visto il [R. decreto 5 ottobre 1913, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-10-05;1214), che fissa le attribuzioni del capo e del sotto capo di stato maggiore della marina;
+Visto il [R. decreto 5 ottobre 1913, n. 1214](Col%20quale%20vengono%20stabilite%20le%20attribuzioni%20del%20capo%20e%20del%20sottocapo%20di%20Stato%20maggiore%20della%20marina.%20013U1214.md), che fissa le attribuzioni del capo e del sotto capo di stato maggiore della marina;
 
-Visto il [R decreto 10 maggio 1914, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-05-10;435), che determina le attribuzioni del capo di stato maggiore della marina in tempo di guerra;
+Visto il [R decreto 10 maggio 1914, n. 435](Col%20quale%20vengono%20determinate%20le%20attribuzioni%20del%20capo%20di%20stato%20maggiore%20della%20marina%20in%20tempo%20di%20guerra%20014U0435.md), che determina le attribuzioni del capo di stato maggiore della marina in tempo di guerra;
 
 Udito il Consiglio dei ministri:
 

@@ -34,7 +34,7 @@ Per l'attuazione dei compiti di cui all'art. 2, sono istituiti un Ufficio affari
 
 ## Art. 5.
 
-Il Ministero per la Consulta provvede al funzionamento dei propri servizi con personale comandato da altre Amministrazioni dello Stato e con personale avventizio assunto secondo le norme del [R. decreto legge 4 febbraio 1937, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-02-04;100), e successive modificazioni. 
+Il Ministero per la Consulta provvede al funzionamento dei propri servizi con personale comandato da altre Amministrazioni dello Stato e con personale avventizio assunto secondo le norme del [R. decreto legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md), e successive modificazioni. 
  
  Al Gabinetto del Ministro per la Consulta si applicano le norme del [decreto legislativo Luogotenenziale 17 novembre 1944, n. 335](Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20Segreterie%20particolari%20dei%20Ministri%20e%20dei%20Sottosegretari%20di%20Stato%20e%20sul%20trattamento%20economico%20del%20relativo%20personale.%20044U0335.md), e successive modificazioni. 
  

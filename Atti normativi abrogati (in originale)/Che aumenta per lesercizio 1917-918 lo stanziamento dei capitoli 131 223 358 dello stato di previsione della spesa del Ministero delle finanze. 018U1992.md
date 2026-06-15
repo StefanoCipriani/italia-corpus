@@ -22,13 +22,13 @@ TOMASO DI SAVOIA DUCA D GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 14 della legge 22 maggio 1913, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-22;459#art_14), il quale dispone che con decreti Reali si possano inscrivere, nella parte passiva del bilancio, le somme occorrenti per restituire imposte e tasse indebitamente percette, per restituire tasse percette su prodotti che si esportano o per pagare vincite al lotto; 
+ Visto l'[art. 14 della legge 22 maggio 1913, n. 459](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201912-913.%20013U0459.md), il quale dispone che con decreti Reali si possano inscrivere, nella parte passiva del bilancio, le somme occorrenti per restituire imposte e tasse indebitamente percette, per restituire tasse percette su prodotti che si esportano o per pagare vincite al lotto; 
  
  Riconosciuta la necessita' di aumentare delle somme di L. 5.030.000, L. 4.735.000 e L. 14.3000 stanziamento rispettivamente dei capitoli nn. 131, 223 e 358 dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1917-918; 
  
  Considerato che i capitoli ond'e' parola trovansi compresi fra quelli indicati nell'elenco C, allegato allo stato di previsione della spesa del Ministero del tesoro per il predetto esercizio finanziario; 
  
- Vista la [legge 31 dicembre 1917, n. 2045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-12-31;2045); 
+ Vista la [legge 31 dicembre 1917, n. 2045](Che%20proroga%20il%20termine%20indicato%20della%20legge%2028%20ottobre%201917%20n.%201751%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20sian_80dd5cff68ce.md); 
  
  Sentito il Consiglio dei ministri; 
  

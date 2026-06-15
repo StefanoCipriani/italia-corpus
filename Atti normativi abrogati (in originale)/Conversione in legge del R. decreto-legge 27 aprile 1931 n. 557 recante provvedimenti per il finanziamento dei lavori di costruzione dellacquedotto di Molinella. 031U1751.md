@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 aprile 1931, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-27;557), recante provvedimenti per il finanziamento dei lavori di costruzione dell'acquedotto di Molinella. 
+ E' convertito in legge il [R. decreto-legge 27 aprile 1931, n. 557](Provvedimenti%20per%20il%20finanziamento%20dei%20lavori%20di%20costruzione%20dellacquedotto%20di%20Molinella.%20031U0557.md), recante provvedimenti per il finanziamento dei lavori di costruzione dell'acquedotto di Molinella. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Le disposizioni del [decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262), richiamate in vigore e modificate con la [legge 12 luglio 1949, n. 386](Proroga%20del%20termine%20stabilito%20dagli%20articoli%2010%20e%2011%20del%20decreto%20legislativo%207%20aprile%201948%20n.%20262%20per%20favorire%20lesodo%20spontaneo%20dei%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.md), sono applicabili ai segretari comunali e provinciali.
+Le disposizioni del [decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md), richiamate in vigore e modificate con la [legge 12 luglio 1949, n. 386](Proroga%20del%20termine%20stabilito%20dagli%20articoli%2010%20e%2011%20del%20decreto%20legislativo%207%20aprile%201948%20n.%20262%20per%20favorire%20lesodo%20spontaneo%20dei%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.md), sono applicabili ai segretari comunali e provinciali.
  Le relative domande dovranno essere presentate entro sei mesi dall'entrata in vigore della presente legge.
 
 ## Art. 2.

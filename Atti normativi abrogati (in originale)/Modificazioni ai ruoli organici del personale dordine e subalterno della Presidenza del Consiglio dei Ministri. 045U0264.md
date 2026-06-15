@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Le tabelle del personale d'ordine e subalterno della Presidenza del Consiglio dei Ministri allegato II n. 8 e allegato IV n. 5 al [R. decreto 11 novembre 1923, numero 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e successive modificazioni, sono sostituite dalle tabelle A e B annesse al presente decreto.
+Le tabelle del personale d'ordine e subalterno della Presidenza del Consiglio dei Ministri allegato II n. 8 e allegato IV n. 5 al [R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, sono sostituite dalle tabelle A e B annesse al presente decreto.
 
 ## Art. 2.
 
-E' abrogato il secondo comma dell'articolo unico del [R. decreto 1° aprile 1935, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-01;424). 
+E' abrogato il secondo comma dell'articolo unico del [R. decreto 1° aprile 1935, n. 424](Norme%20circa%20i%20ruoli%20organici%20del%20personale%20dordine%20e%20subalterno%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri.%20035U0424.md). 
  
  Le funzioni del Consiglio di amministrazione per il personale di cui all'art. 1 del presente decreto sono attribuite al Sottosegretario di Stato alla Presidenza del Consiglio.
 

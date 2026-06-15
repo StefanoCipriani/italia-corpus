@@ -44,7 +44,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  III. 
  
- La indennita' di residenza cui i funzionari suddetti hanno diritto nei termini della [legge 3 luglio 1902, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-07-03;248), e' anticipata dallo Stato, secondo le norme in vigore, e ad esso rimborsata alla fine di ogni esercizio finanziario, con prelevamento dal Fondo dei sopravanzi degli archivi notarili, come e' detto nel precedente art. 2. 
+ La indennita' di residenza cui i funzionari suddetti hanno diritto nei termini della [legge 3 luglio 1902, n. 248](Relativa%20allindennita%20da%20concedersi%20agli%20impiegati%20dello%20Stato%20residenti%20in%20Roma.%20002U0248.md), e' anticipata dallo Stato, secondo le norme in vigore, e ad esso rimborsata alla fine di ogni esercizio finanziario, con prelevamento dal Fondo dei sopravanzi degli archivi notarili, come e' detto nel precedente art. 2. 
  
  Tale rimborso sara' eseguito con effetto dal 1° luglio 1916. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 giugno 1932, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-06-23;865), concernente nuovi provvedimenti per i danneggiati dalla eruzione dello Stromboli del settembre 1930. 
+ E' convertito in legge il [R. decreto-legge 23 giugno 1932, n. 865](Nuovi%20provvedimenti%20per%20i%20danneggiati%20dalla%20eruzione%20dello%20Stromboli%20del%20settembre%201930.%20032U0865.md), concernente nuovi provvedimenti per i danneggiati dalla eruzione dello Stromboli del settembre 1930. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

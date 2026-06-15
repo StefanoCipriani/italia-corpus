@@ -30,7 +30,7 @@ Il decorato dell'Ordine Mauriziano, provvisto di pensione cavalleresca sul Tesor
 
 Il godimento della pensione cavalleresca cessera': 
  
- a) per il decorato che a norma del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) sara' incorso di pieno diritto nella perdita delle decorazioni, dal giorno in cui la sentenza di condanna, pronunciata contro di lui, sara' divenuta irrevocabile; 
+ a) per il decorato che a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sara' incorso di pieno diritto nella perdita delle decorazioni, dal giorno in cui la sentenza di condanna, pronunciata contro di lui, sara' divenuta irrevocabile; 
  
  b) per il decorato che incorrera' nella privazione delle decorazioni in seguito a decreto di revoca, dalla data del decreto medesimo.
 

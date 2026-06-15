@@ -21,7 +21,7 @@ Se tale provvedimento comportera' nuovi stanziamenti passivi di bilancio per lo 
 
 ## Art. 3.
 
-Fino a che non sara' provveduto per l'Azienda mineraria di Idria a norma dell'art. 2, continueranno per essa ad avere vigore le disposizioni del [R. decreto-legge 23 maggio 1924, n. 923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-23;923), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473).
+Fino a che non sara' provveduto per l'Azienda mineraria di Idria a norma dell'art. 2, continueranno per essa ad avere vigore le disposizioni del [R. decreto-legge 23 maggio 1924, n. 923](Riordinamento%20delle%20aziende%20minerarie%20erariali%20ed%20in%20particolare%20di%20quella%20di%20Idria.%20024U0923.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md).
 
 ## Art. 4.
 

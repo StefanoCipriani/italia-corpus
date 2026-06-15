@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La tassa prevista dall'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496#art_6), che assume la denominazione di imposta unica sui giuochi di abilita' e sui concorsi pronostici, e' elevata al 23 per cento.
+La tassa prevista dall'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](../Decreti%20Legislativi/Disciplina%20delle%20attivita%20di%20giuoco.md), che assume la denominazione di imposta unica sui giuochi di abilita' e sui concorsi pronostici, e' elevata al 23 per cento.
  Quando, peraltro, l'ammontare complessivo delle poste di giuoco, determinato nel modo previsto dall'articolo 2, non superi per ogni singola manifestazione del giuoco o concorso periodico i 150 milioni, l'imposta e' dovuta in base alle aliquote seguenti:
 
 sino a 30 milioni di lire ..... 8 - %
@@ -53,7 +53,7 @@ Nell'ipotesi di omesso o ritardato pagamento e' dovuta una sopratassa pari al 20
 
 ## Art. 5.
 
-L'imposta unica di cui all'art. 1 e' sostitutiva, nei confronti degli enti indicati nell'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496#art_6), di ogni tassa sugli affari (esclusa quella di bollo sulle cambiali, sugli atti giudiziari e sugli avvisi al pubblico), compreso il diritto erariale di cui ai [decreto-legge 10 marzo 1943, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1943-03-10;86), e successive modificazioni, relativa alla organizzazione e all'esercizio dei giuochi di abilita' e dei concorsi pronostici, di ogni imposta diretta sui redditi derivanti dalle attivita' di cui sopra, nonche' di qualunque altro tributo diretto o indiretto, a favore dello Stato e degli enti minori, connessi con le attivita' medesime.
+L'imposta unica di cui all'art. 1 e' sostitutiva, nei confronti degli enti indicati nell'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](../Decreti%20Legislativi/Disciplina%20delle%20attivita%20di%20giuoco.md), di ogni tassa sugli affari (esclusa quella di bollo sulle cambiali, sugli atti giudiziari e sugli avvisi al pubblico), compreso il diritto erariale di cui ai [decreto-legge 10 marzo 1943, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1943-03-10;86), e successive modificazioni, relativa alla organizzazione e all'esercizio dei giuochi di abilita' e dei concorsi pronostici, di ogni imposta diretta sui redditi derivanti dalle attivita' di cui sopra, nonche' di qualunque altro tributo diretto o indiretto, a favore dello Stato e degli enti minori, connessi con le attivita' medesime.
  L'imposta unica e' anche sostitutiva della imposta di ricchezza mobile e della imposta complementare afferenti i premi corrisposti ai vincitori.
 
 ## Art. 6.
@@ -61,16 +61,16 @@ L'imposta unica di cui all'art. 1 e' sostitutiva, nei confronti degli enti indic
 L'ammontare dell'imposta di cui all'art. 1 e' iscritto nel bilancio dell'entrata:
  per il 40 per cento in apposito capitolo intestato all'Ispettorato generale per il lotto e le lotterie;
  per il 35 per cento in apposito capitolo intestato alla Direzione generale delle imposte dirette;
- per il 25 per cento in apposito capitolo intestato alla Direzione generale delle tasse e delle imposte indirette sugli affari, la quale provvedera' a ripartire i 18/25 tra i Comuni interessati in sostituzione dei diritti erariali devoluti ai Comuni stessi a norma dell'[art. 2 del decreto legislativo 26 marzo 1948, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-26;261#art_2).
+ per il 25 per cento in apposito capitolo intestato alla Direzione generale delle tasse e delle imposte indirette sugli affari, la quale provvedera' a ripartire i 18/25 tra i Comuni interessati in sostituzione dei diritti erariali devoluti ai Comuni stessi a norma dell'[art. 2 del decreto legislativo 26 marzo 1948, n. 261](../Decreti%20Legislativi/Assetto%20della%20finanza%20delle%20Province%20e%20dei%20Comuni.md).
  Nella ipotesi in cui il Ministro per le finanze si avvalga della facolta' di cui al precedente art. 3, la ripartizione verra' effettuata a cura della S.I.A.E.. in base alle norme contenute nella convenzione prevista dal suddetto articolo.
 
 ## Art. 7.
 
-L'imposta sulle attivita' di giuoco esercitate dalla Unione nazionale incremento razze equine (U.N.I.R.E.), ai sensi dell'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496#art_6), e' dovuta a decorrere dal 1 gennaio 1950 e nelle misure stabilite dalla presente legge.
+L'imposta sulle attivita' di giuoco esercitate dalla Unione nazionale incremento razze equine (U.N.I.R.E.), ai sensi dell'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](../Decreti%20Legislativi/Disciplina%20delle%20attivita%20di%20giuoco.md), e' dovuta a decorrere dal 1 gennaio 1950 e nelle misure stabilite dalla presente legge.
 
 ## Art. 8.
 
-Le gestioni delle attivita' di giuoco, riservate al (Comitato olimpico nazionale italiano (C.O.N.I.) ed alla U.N.I.R.E. ai sensi dell'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496#art_6), sono sottoposte al controllo dei collegi sindacali dei rispettivi enti. A tal uopo, la composizione dei collegi medesimi sara' integrata con la nomina di due altri membri designati uno dal Ministro per il tesoro e l'altro dal Ministro per le finanze, aventi il compito specifico, coordinato con quello dei collegi e secondo le direttive dei rispettivi presidenti, della revisione delle gestioni relative alle attivita' di giuoco.
+Le gestioni delle attivita' di giuoco, riservate al (Comitato olimpico nazionale italiano (C.O.N.I.) ed alla U.N.I.R.E. ai sensi dell'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](../Decreti%20Legislativi/Disciplina%20delle%20attivita%20di%20giuoco.md), sono sottoposte al controllo dei collegi sindacali dei rispettivi enti. A tal uopo, la composizione dei collegi medesimi sara' integrata con la nomina di due altri membri designati uno dal Ministro per il tesoro e l'altro dal Ministro per le finanze, aventi il compito specifico, coordinato con quello dei collegi e secondo le direttive dei rispettivi presidenti, della revisione delle gestioni relative alle attivita' di giuoco.
  I due componenti suddetti dovranno riferire periodicamente sulle gestioni controllate ai rispettivi Ministri.
  In allegato rispettivamente allo stato di previsione del Ministero del tesoro ed a quello del Ministero della agricoltura e delle foreste, sara' ogni anno presentato al Parlamento una particolareggiata relazione degli organi d'amministrazione del C.O.N.I. e dell'U.N.I.R.E. sulla attivita' svolta e sull'andamento delle rispettive gestioni.
 

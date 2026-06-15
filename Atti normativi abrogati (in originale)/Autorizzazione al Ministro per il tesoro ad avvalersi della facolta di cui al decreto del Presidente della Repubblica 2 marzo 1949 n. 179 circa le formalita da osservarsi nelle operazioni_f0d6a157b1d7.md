@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 4 del testo unico delle leggi sugli Istituti di emissione e sulla circolazione dei biglietti di banca, approvato con il [regio decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204);
 
-Visto il regolamento per i biglietti di Stato e di banca, approvato con il [regio decreto 30 ottobre 1896, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-10-30;508) e successive modificazioni;
+Visto il regolamento per i biglietti di Stato e di banca, approvato con il [regio decreto 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md) e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 2 marzo 1949, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-03-02;179);
+Visto il [decreto del Presidente della Repubblica 2 marzo 1949, n. 179](../DPR/Modificazione%20al%20regolamento%20per%20i%20biglietti%20di%20Stato%20e%20di%20banca%20approvato%20con%20il%20regio%20decreto%2030%20ottobre%201896%20n.%20508.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

@@ -62,13 +62,13 @@ CAPO II.
 
 Le pene previste dagli articoli 1, 3, 4 e 5 sono aumentate se alcuna delle sostanze o preparazioni stupefacenti e' venduta, consegnata, somministrata, anche gratuitamente, fornita o prescritta a persona minore degli anni diciotto, ovvero in condizioni d'infermita' o deficienza psichica, o a chi e' dedito all'uso di sostanze stupefacenti. 
  
- Nel caso di recidiva, per ciascuno dei delitti di cui al presente titolo, si applicano le disposizioni degli [articoli 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_99), [100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_100) e [101 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_101). 
+ Nel caso di recidiva, per ciascuno dei delitti di cui al presente titolo, si applicano le disposizioni degli [articoli 99](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [100](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [101 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- La condanna alla reclusione, per ciascuno dei delitti di cui al presente titolo, per un tempo non inferiore a tre anni, importa l'interdizione dai pubblici uffici per la durata di anni cinque, ai sensi dell'[art. 29 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_29). 
+ La condanna alla reclusione, per ciascuno dei delitti di cui al presente titolo, per un tempo non inferiore a tre anni, importa l'interdizione dai pubblici uffici per la durata di anni cinque, ai sensi dell'[art. 29 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- La dichiarazione di abitualita' o di professionalita' nel delitto, ovvero di tendenza a delinquere, importa l'interdizione perpetua dai pubblici uffici, ai sensi degli articoli 29 - ultimo comma - e 102, 103, 105, 106, 107 e 108 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ La dichiarazione di abitualita' o di professionalita' nel delitto, ovvero di tendenza a delinquere, importa l'interdizione perpetua dai pubblici uffici, ai sensi degli articoli 29 - ultimo comma - e 102, 103, 105, 106, 107 e 108 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Qualora il colpevole eserciti una professione od arte, che sia servita di mezzo a commettere il delitto o l'abbia comunque agevolato, alla condanna segue l'interdizione dalla professione o dall'arte, ai sensi degli [articoli 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_30) e [31 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_31). 
+ Qualora il colpevole eserciti una professione od arte, che sia servita di mezzo a commettere il delitto o l'abbia comunque agevolato, alla condanna segue l'interdizione dalla professione o dall'arte, ai sensi degli [articoli 30](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [31 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  La condanna per taluno dei delitti preveduti dal presente titolo importa la pubblicazione della sentenza.
 
@@ -108,11 +108,11 @@ Nel caso di recidiva, per ciascuna delle contravvenzioni di cui al titolo II, so
 
 6.
 
-La condanna all'arresto per tre delle contravvenzioni previste dal presente titolo, seguita da una quarta condanna per altra contravvenzione di cui al medesimo titolo, importa la dichiarazione di contravventore abituale, ai sensi dell'[art. 104 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_104). 
+La condanna all'arresto per tre delle contravvenzioni previste dal presente titolo, seguita da una quarta condanna per altra contravvenzione di cui al medesimo titolo, importa la dichiarazione di contravventore abituale, ai sensi dell'[art. 104 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- La condanna per un reato qualsiasi, inflitta a chi trovasi nelle condizioni richieste per la dichiarazione di abitualita', importa la dichiarazione di contravventore professionale, ai sensi dell'[art. 105 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_105). 
+ La condanna per un reato qualsiasi, inflitta a chi trovasi nelle condizioni richieste per la dichiarazione di abitualita', importa la dichiarazione di contravventore professionale, ai sensi dell'[art. 105 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Qualora il colpevole eserciti una professione od arte che sia servita di mezzo a commettere la contravvenzione o l'abbia comunque agevolata, alla condanna puo' seguire, altresi', a sospensione dall'esercizio della professione o dell'arte, anche al di fuori del caso previsto dall'ultimo capoverso dell'[art. 35 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_35).
+ Qualora il colpevole eserciti una professione od arte che sia servita di mezzo a commettere la contravvenzione o l'abbia comunque agevolata, alla condanna puo' seguire, altresi', a sospensione dall'esercizio della professione o dell'arte, anche al di fuori del caso previsto dall'ultimo capoverso dell'[art. 35 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## RICOVERO COATTIVO IN CASA DI SALUTE DEGLI INTOSSICATI DA STUPEFACENTI.  Capo unico.
 
@@ -132,11 +132,11 @@ TITOLO IV.
 
 ### Art. 13.
 
-La dichiarazione di abitualita' o di professionalita' nel reato o di tendenza a delinquere importa l'applicazione di misure di sicurezza, ai sensi dell'[art. 109 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_109).
+La dichiarazione di abitualita' o di professionalita' nel reato o di tendenza a delinquere importa l'applicazione di misure di sicurezza, ai sensi dell'[art. 109 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 14.
 
-Nel caso di condanna per alcuno dei reati, di cui ai titoli I e II, e' sempre ordinata la confisca delle sostanze e preparazioni stupefacenti, che servirono o furono destinate a commettere il reato, ai sensi dell'[art. 240 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_240).
+Nel caso di condanna per alcuno dei reati, di cui ai titoli I e II, e' sempre ordinata la confisca delle sostanze e preparazioni stupefacenti, che servirono o furono destinate a commettere il reato, ai sensi dell'[art. 240 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 15.
 

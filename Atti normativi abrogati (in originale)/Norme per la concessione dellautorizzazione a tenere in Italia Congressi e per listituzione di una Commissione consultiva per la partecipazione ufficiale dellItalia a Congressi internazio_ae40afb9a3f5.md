@@ -58,7 +58,7 @@ E' sentito il parere della Commissione di cui all'art. 2:
  
  c) sulla nomina dei delegati italiani in seno alle Commissioni internazionali permanenti, aventi scopi scientifici e culturali, anche quando queste abbiano in Italia corrispondenti Comitati permanenti, salvo il caso previsto dal successivo art. 8. 
  
- Quando si tratti delle nomine di rappresentanti dell'Italia a Congressi, conferenze e riunioni internazionali, aventi per oggetto la trattazione di materie statistiche, il parere della Commissione, di cui all'art. 2, si riferira' alle designazioni fatte dall'Istituto centrale di statistica a norma dell'[art. 2, lettera i), del R. decreto-legge 27 maggio 1929, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-05-27;1285#art_2-leti).
+ Quando si tratti delle nomine di rappresentanti dell'Italia a Congressi, conferenze e riunioni internazionali, aventi per oggetto la trattazione di materie statistiche, il parere della Commissione, di cui all'art. 2, si riferira' alle designazioni fatte dall'Istituto centrale di statistica a norma dell'[art. 2, lettera i), del R. decreto-legge 27 maggio 1929, n. 1285](Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md).
 
 ## Art. 4.
 

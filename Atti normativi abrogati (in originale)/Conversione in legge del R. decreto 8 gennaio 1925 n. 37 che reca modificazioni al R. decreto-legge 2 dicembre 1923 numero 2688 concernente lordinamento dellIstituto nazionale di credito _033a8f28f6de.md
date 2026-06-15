@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 8 gennaio 1925, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-08;37), che reca modificazioni al [R. decreto-legge 2 dicembre 1923, n. 2688](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-02;2688), concernente l'ordinamento dell'Istituto nazionale di credito per la cooperazione. 
+ E' convertito in legge il [R. decreto 8 gennaio 1925, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-08;37), che reca modificazioni al [R. decreto-legge 2 dicembre 1923, n. 2688](Modificazioni%20allordinamento%20dellIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20023U2688.md), concernente l'ordinamento dell'Istituto nazionale di credito per la cooperazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

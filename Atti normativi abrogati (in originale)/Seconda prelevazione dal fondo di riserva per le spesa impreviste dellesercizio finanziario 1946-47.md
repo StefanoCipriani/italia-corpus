@@ -14,7 +14,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
  Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
  Visti i [decreti legislativi del Capo provvisorio dello Stato 6 settembre 1946, nn. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;127), [128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;128), [129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;129), [141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;141) e [142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;142);
- Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+ Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
  Visto l'[art. 4 del decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1#art_4);
  Considerato che sul fondo di riserva per le spese impreviste inscritto nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1946-47 sono disponibili L. 220.920.000;
  Sentito il Consiglio dei Ministri;
@@ -54,13 +54,13 @@ personale del disciolto Corpo di polizia
 
 
 dell'Africa italiana, sottoposto a giudizio di
-epurazione ([articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-15;43#art_8), [9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-15;43#art_9) e [10
+epurazione ([articoli 8](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md), [9](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md) e [10
 
 
 del decreto legislativo luogotenenziale
 
 
-15 febbraio 1945, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-15;43#art_10)).....L. 10.000.000
+15 febbraio 1945, n. 43](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md)).....L. 10.000.000
 
 
 Ministero dell'interno:

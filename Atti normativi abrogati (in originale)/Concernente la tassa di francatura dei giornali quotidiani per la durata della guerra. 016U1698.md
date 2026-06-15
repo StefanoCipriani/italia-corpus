@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La tassa di francatura dei giornali quotidiani di cui all'[art. 8 della legge 2 luglio 1912, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-02;748#art_8), e', per la durata della guerra, stabilita come segue: 
+La tassa di francatura dei giornali quotidiani di cui all'[art. 8 della legge 2 luglio 1912, n. 748](Che%20apporta%20riforme%20nel%20servizio%20postale%20012U0748.md), e', per la durata della guerra, stabilita come segue: 
  
  millesimi 3 per ogni esemplare, non eccedente 50 grammi (comprese le fasce); 
  

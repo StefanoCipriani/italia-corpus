@@ -86,7 +86,7 @@ Il Banco di Sicilia terra' distinte dalle altre le operazioni della sua Sezione 
  
  La Sezione avra' una speciale direzione, posta alla immediata dipendenza del direttore generale del Banco ed assistita da un Comitato tecnico-amministrativo composto di 4 membri da nominarsi ciascuno dal Ministro per le finanze, dal Ministro per l'economia nazionale, dal Consorzio obbligatorio per l'industria zolfifera siciliana e dal Banco di Sicilia. 
  
- E' fatto obbligo alla Sezione di curare che, normalmente, non meno di una meta' degli impieghi corrisponda ad operazioni eseguite a favore dell'industria zolfifera siciliana e che di questa parte degli impieghi una meta' riguardi il credito industriale di cui all'[art. 2 del R. decreto 2 ottobre 1919, n. 1955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1955#art_2). 
+ E' fatto obbligo alla Sezione di curare che, normalmente, non meno di una meta' degli impieghi corrisponda ad operazioni eseguite a favore dell'industria zolfifera siciliana e che di questa parte degli impieghi una meta' riguardi il credito industriale di cui all'[art. 2 del R. decreto 2 ottobre 1919, n. 1955](Che%20in%20esecuzione%20dellart.%2017%20del%20decreto-legge%20Luogotenenziale%2026%20maggio%201918%20n.%20739%20autorizza%20la%20Banca%20autonoma%20di%20credito%20agrario%20per%20la%20Sicilia%20a%20consentire%20prestiti%20agli%20esercenti%20ed_29fe755f4981.md). 
  
  Non potranno essere consentite deroghe a siffatto criterio se non in seguito a conforme parere del Comitato di cui nel comma precedente e con l'approvazione dei Ministri per le finanze e per l'economia nazionale.
 

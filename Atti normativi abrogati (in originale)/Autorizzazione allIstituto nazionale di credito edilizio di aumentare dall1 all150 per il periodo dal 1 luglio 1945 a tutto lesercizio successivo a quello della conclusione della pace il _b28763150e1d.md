@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 2 maggio 1920, n. 698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-05-02;698), che autorizza la costituzione di un Istituto nazionale di credito edilizio;
+Visto il [R. decreto-legge 2 maggio 1920, n. 698](Che%20autorizza%20la%20creazione%20di%20un%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma.%20020U0698.md), che autorizza la costituzione di un Istituto nazionale di credito edilizio;
 
 Visto il [R. decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e le successive modificazioni;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per il tesoro; Abbiamo sanzionato e promulghiamo qua
 
 ## Art. 1.
 
-Il limite massimo della provvigione dovuta all'Istituto nazionale di credito edilizio dai propri mutuatari su misura non superiore a lire una per ogni cento lire di capitale mutuato, ai sensi dell'[art. 6 del R. decreto-legge 2 maggio 1920, n. 698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-05-02;698#art_6), viene elevato a lire 1,50 a far tempo dal 1° luglio 1945 e fino a tutto l'esercizio successivo a quello in cui cessera' lo stato di guerra. L'aumento e' applicabile anche alle semestralita' relative ai mutui in corso che verranno a scadenza a partire dalla data predetta.
+Il limite massimo della provvigione dovuta all'Istituto nazionale di credito edilizio dai propri mutuatari su misura non superiore a lire una per ogni cento lire di capitale mutuato, ai sensi dell'[art. 6 del R. decreto-legge 2 maggio 1920, n. 698](Che%20autorizza%20la%20creazione%20di%20un%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma.%20020U0698.md), viene elevato a lire 1,50 a far tempo dal 1° luglio 1945 e fino a tutto l'esercizio successivo a quello in cui cessera' lo stato di guerra. L'aumento e' applicabile anche alle semestralita' relative ai mutui in corso che verranno a scadenza a partire dalla data predetta.
 
 ## Art. 2.
 

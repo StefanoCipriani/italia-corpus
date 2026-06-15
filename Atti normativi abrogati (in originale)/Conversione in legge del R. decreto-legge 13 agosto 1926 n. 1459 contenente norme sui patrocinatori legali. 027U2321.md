@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 agosto 1926, n. 1459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-13;1459), contenente norme sui patrocinatori legali. 
+ E' convertito in legge il [R. decreto-legge 13 agosto 1926, n. 1459](Norme%20riguardanti%20i%20patrocinatori%20legali.%20026U1459.md), contenente norme sui patrocinatori legali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

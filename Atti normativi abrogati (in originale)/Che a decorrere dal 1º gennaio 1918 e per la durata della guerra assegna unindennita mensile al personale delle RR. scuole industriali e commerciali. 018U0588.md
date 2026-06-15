@@ -21,7 +21,7 @@ A decorrere dal 1° gennaio 1918 e per la durata della guerra, e' assegnata una 
 
 Le disposizioni del precedente articolo non si applicano al personale incaricato che presta nella scuola meno di sei ore settimanali di effettivo servizio ne' a coloro che siano provvisti di altro stipendio o assegno a carico di altre pubbliche Amministrazioni. 
  
- Coloro che siano provvisti di altro stipendio o assegno a carico di altre pubbliche Amministrazioni hanno obbligo di farne speciale ed esatta denuncia al presidente del Consiglio di amministrazione della scuola. L'inosservanza di tale obbligo e le inesatte dichiarazioni saranno considerate come gravi mancanze disciplinari agli effetti del 4° comma dell'art. 148 del regolamento generale sull'istruzione professionale, approvato con [R. decreto 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1014).
+ Coloro che siano provvisti di altro stipendio o assegno a carico di altre pubbliche Amministrazioni hanno obbligo di farne speciale ed esatta denuncia al presidente del Consiglio di amministrazione della scuola. L'inosservanza di tale obbligo e le inesatte dichiarazioni saranno considerate come gravi mancanze disciplinari agli effetti del 4° comma dell'art. 148 del regolamento generale sull'istruzione professionale, approvato con [R. decreto 22 giugno 1913, n. 1014](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sullistruzione%20professionale%20scuole%20industriali%20e%20commerciali.%20013U1014.md).
 
 ## Art. 3.
 
@@ -46,7 +46,7 @@ Entro il mese successivo alla pubblicazione del presente decreto ed entro il mes
 
 ## Art. 7.
 
-La quota di concorso a carico del Ministero dell'industria, commercio e lavoro e' pagata in due rate semestrali, nei termini stabiliti dall'art. 52 del regolamento sull'istruzione professionale, approvato con [Regio decreto 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-22;1014). 
+La quota di concorso a carico del Ministero dell'industria, commercio e lavoro e' pagata in due rate semestrali, nei termini stabiliti dall'art. 52 del regolamento sull'istruzione professionale, approvato con [Regio decreto 22 giugno 1913, n. 1014](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sullistruzione%20professionale%20scuole%20industriali%20e%20commerciali.%20013U1014.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -20,11 +20,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e delle facolta' conferite al Governo del Re dalla [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e delle facolta' conferite al Governo del Re dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Viste le [leggi 19 dicembre 1901, n. 511, e 5 luglio 1908, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-05;371), relative al conto corrente fra il Ministero del tesoro e l'amministrazione militare; 
+ Viste le [leggi 19 dicembre 1901, n. 511, e 5 luglio 1908, n. 371](Proroga%20delle%20disposizioni%20contenute%20nella%20legge%2019%20dicembre%201901%20n.%20511%20relative%20al%20conto%20corrente%20tra%20il%20Ministero%20del%20tesoro%20e%20lAmministrazione%20militare.%20008U0371.md), relative al conto corrente fra il Ministero del tesoro e l'amministrazione militare; 
  
- Vista la [legge 17 luglio 1910, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;511), relativa all'amministrazione e contabilita' dei corpi, istituti e stabilimenti militari; 
+ Vista la [legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md), relativa all'amministrazione e contabilita' dei corpi, istituti e stabilimenti militari; 
  
  Considerata l'impossibilita' di procedere entro il 30 giugno 1917 alla definitiva liquidazione del conto corrente predetto; 
  

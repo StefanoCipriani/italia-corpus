@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Ritenuta la necessita' e l'urgenza di emanare norme per la ulteriore proroga del regime vincolistico delle locazioni di immobili urbani, da ultimo protratto fino al 31 dicembre 1964 dalla [legge 21 dicembre 1960, n. 1521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-21;1521), nonche' per la estensione alle locazioni di immobili adibiti ad uso diverso della abitazione di talune disposizioni delle [leggi 6 novembre 1963, n. 1444, e 30 settembre 1963, n. 1307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-09-30;1307), concernenti il blocco dei fitti e la facolta' del pretore di prorogare l'esecuzione degli sfratti;
+Ritenuta la necessita' e l'urgenza di emanare norme per la ulteriore proroga del regime vincolistico delle locazioni di immobili urbani, da ultimo protratto fino al 31 dicembre 1964 dalla [legge 21 dicembre 1960, n. 1521](Disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani_2.md), nonche' per la estensione alle locazioni di immobili adibiti ad uso diverso della abitazione di talune disposizioni delle [leggi 6 novembre 1963, n. 1444, e 30 settembre 1963, n. 1307](Attribuzione%20al%20pretore%20della%20competenza%20a%20differire%20lesecuzione%20degli%20sfratti.md), concernenti il blocco dei fitti e la facolta' del pretore di prorogare l'esecuzione degli sfratti;
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,12 +20,12 @@ Sulla proposta del Ministro per la grazia e la giustizia; Decreta:
 
 ## Art. 1.
 
-I contratti di locazione e di sublocazione di immobili urbani, gia' prorogati fino al 31 dicembre 1964 ai sensi del [primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-21;1521#art_1-com1) e [terzo comma dell'articolo 1 della legge 21 dicembre 1960, n. 1521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-21;1521#art_1-com3), sono ulteriormente prorogati fino al 31 dicembre 1965.
+I contratti di locazione e di sublocazione di immobili urbani, gia' prorogati fino al 31 dicembre 1964 ai sensi del [primo](Disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani_2.md) e [terzo comma dell'articolo 1 della legge 21 dicembre 1960, n. 1521](Disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani_2.md), sono ulteriormente prorogati fino al 31 dicembre 1965.
  Nei casi in cui i contratti di locazione hanno scadenza consuetudinaria, la data indicata nel primo comma e' sostituita da quella della scadenza consuetudinaria successiva.
 
 ## Art. 2.
 
-La scadenza dei contratti di locazione di cui all'[articolo 1 della legge 18 dicembre 1962, n. 1716](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-18;1716#art_1), e' prorogata fino al 31 dicembre 1965.
+La scadenza dei contratti di locazione di cui all'[articolo 1 della legge 18 dicembre 1962, n. 1716](Modificazioni%20della%20disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani.md), e' prorogata fino al 31 dicembre 1965.
 
 ## Art. 3.
 
@@ -33,16 +33,16 @@ Sono validi i patti in deroga alle norme di cui al precedente art. 1 stipulati s
 
 ## Art. 4.
 
-Per quanto non previsto dalle precedenti disposizioni continuano ad osservarsi, in quanto applicabili, le norme della [legge 21 dicembre 1960, n. 1521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-21;1521), escluso ogni ulteriore aumento di canoni a decorrere dalla data di entrata in vigore del presente decreto.
+Per quanto non previsto dalle precedenti disposizioni continuano ad osservarsi, in quanto applicabili, le norme della [legge 21 dicembre 1960, n. 1521](Disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani_2.md), escluso ogni ulteriore aumento di canoni a decorrere dalla data di entrata in vigore del presente decreto.
 
 ## Art. 5.
 
-I canoni delle locazioni e delle sublocazioni di immobili urbani, nei quali si eserciti dal conduttore o dal subconduttore una attivita' artigiana con le caratteristiche previste dalla [legge 25 luglio 1956, n. 860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-25;860), ovvero una attivita' commerciale organizzata con il lavoro proprio, dei componenti della famiglia e di non piu' di cinque dipendenti, oltre un pari numero per il caso che un secondo turno di lavoro sia imposto dalla struttura dell'azienda, nonche' attivita' Culturali, di istruzione, sindacali, assistenziali, cooperative e studi professionali, in corso alla data del 10 novembre 1964 e non soggette a regime vincolistico, non possono essere aumentati, a decorrere dalla data suddetta e fino al 7 novembre 1916, anche quando nel godimento dell'immobile subentri un altro conduttore o subconduttore.
- Nei rapporti di cui a nomina precedente si osservano, in quanto applicabili, le disposizioni degli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-11-06;1444#art_3) e [4 della legge 6 novembre 1963, n. 1444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-11-06;1444#art_4).
+I canoni delle locazioni e delle sublocazioni di immobili urbani, nei quali si eserciti dal conduttore o dal subconduttore una attivita' artigiana con le caratteristiche previste dalla [legge 25 luglio 1956, n. 860](Norme%20per%20la%20disciplina%20giuridica%20delle%20imprese%20artigiane.md), ovvero una attivita' commerciale organizzata con il lavoro proprio, dei componenti della famiglia e di non piu' di cinque dipendenti, oltre un pari numero per il caso che un secondo turno di lavoro sia imposto dalla struttura dell'azienda, nonche' attivita' Culturali, di istruzione, sindacali, assistenziali, cooperative e studi professionali, in corso alla data del 10 novembre 1964 e non soggette a regime vincolistico, non possono essere aumentati, a decorrere dalla data suddetta e fino al 7 novembre 1916, anche quando nel godimento dell'immobile subentri un altro conduttore o subconduttore.
+ Nei rapporti di cui a nomina precedente si osservano, in quanto applicabili, le disposizioni degli [articoli 3](Norme%20relative%20alle%20locazioni%20degli%20immobili%20urbani%20ad%20uso%20di%20abitazione.md) e [4 della legge 6 novembre 1963, n. 1444](Norme%20relative%20alle%20locazioni%20degli%20immobili%20urbani%20ad%20uso%20di%20abitazione.md).
 
 ## Art. 6.
 
-La facolta' spettante al pretore di prorogare l'esecuzione degli sfratti, ai sensi dell'[articolo 1 della legge 30 settembre 1963, n. 1307](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-09-30;1307#art_1), e' estesa, agli immobili adibiti alle attivita' di cui al primo comma dell'art. 5.
+La facolta' spettante al pretore di prorogare l'esecuzione degli sfratti, ai sensi dell'[articolo 1 della legge 30 settembre 1963, n. 1307](Attribuzione%20al%20pretore%20della%20competenza%20a%20differire%20lesecuzione%20degli%20sfratti.md), e' estesa, agli immobili adibiti alle attivita' di cui al primo comma dell'art. 5.
 
 ## Art. 7.
 

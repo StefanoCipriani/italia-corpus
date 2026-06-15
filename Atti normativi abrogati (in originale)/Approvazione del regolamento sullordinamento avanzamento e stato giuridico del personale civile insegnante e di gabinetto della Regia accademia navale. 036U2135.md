@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md); 
  
- Visto il [R. decreto-legge 4 maggio 1924, n. 835](Variazioni%20alla%20legge%2023%20giugno%201912%20n.%20637%20concernente%20il%20corpo%20civile%20insegnante%20della%20Regia%20accademia%20navale.%20024U0835.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473); 
+ Visto il [R. decreto-legge 4 maggio 1924, n. 835](Variazioni%20alla%20legge%2023%20giugno%201912%20n.%20637%20concernente%20il%20corpo%20civile%20insegnante%20della%20Regia%20accademia%20navale.%20024U0835.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md); 
  
  Visto il [R. decreto 9 luglio 1926, n. 1360](Miglioramenti%20al%20personale%20civile%20insegnante%20della%20Regia%20accademia%20navale.%20026U1360.md); 
  

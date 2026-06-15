@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 giugno 1928, n. 1280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-06-07;1280), riflettente la contrattazione di un mutuo di cento milioni, con il Consorzio di credito per opere pubbliche, per lavori da eseguire in Tripolitania ed in Cirenaica. 
+ E' convertito in legge il [R. decreto-legge 7 giugno 1928, n. 1280](Contrattazione%20di%20un%20mutuo%20di%20lire%20100%20milioni%20col%20Consorzio%20di%20credito%20per%20le%20opere%20pubbliche%20per%20lavori%20da%20eseguire%20in%20Tripolitania%20ed%20in%20Cirenaica.%20028U1280.md), riflettente la contrattazione di un mutuo di cento milioni, con il Consorzio di credito per opere pubbliche, per lavori da eseguire in Tripolitania ed in Cirenaica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

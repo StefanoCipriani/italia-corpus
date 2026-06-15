@@ -18,7 +18,7 @@ Visto l'art. 8 dello Statuto fondamentale del Regno;
 
 Visto il [R. decreto 20 marzo 1913, n. 289](Col%20quale%20vengono%20approvati%20gli%20annessi%20ordinamento%20giudiziario%20e%20disposizioni%20relative%20alle%20leggi%20da%20applicarsi%20in%20Libia.%20013U0289.md), che approva l'ordinamento giudiziario per la Tripolitania e la Cirenaica e il [decreto Luogotenenziale 15 aprile 1917, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-04-15;938);
 
-Visti gli [articoli 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_86) e [87 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_87), 589 e 591 [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visti gli [articoli 86](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [87 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), 589 e 591 [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Sentito il Consiglio dei ministri;
 
@@ -34,7 +34,7 @@ E' concessa amnistia in Tripolitania e Cirenaica:
  
  c) per i delitti per i quali la legge stabilisce la pena della reclusione o della detenzione non superiore nel massimo ad un anno, ovvero della multa, sola o congiunta a una di dette pene, non superiora nel massimo alle lire duemila; 
  
- d) per le contravvenzioni prevedute nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e per ogni altra per la quale sia comunicata una pena restrittiva della liberta' personale non superiore nel massimo ad un anno o una pena pecuniaria, sola o congiunta a detta pena, non superiore nel massimo a lire duemila.
+ d) per le contravvenzioni prevedute nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e per ogni altra per la quale sia comunicata una pena restrittiva della liberta' personale non superiore nel massimo ad un anno o una pena pecuniaria, sola o congiunta a detta pena, non superiore nel massimo a lire duemila.
 
 ## Art. 2.
 

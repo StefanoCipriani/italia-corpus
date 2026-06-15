@@ -20,7 +20,7 @@ La Giunta giurisdizionale amministrativa della Valle d'Aosta, istituita dal [dec
 
 ## Art. 2.
 
-Della Giunta giurisdizionale amministrativa della Valle d'Aosta, in sede amministrativa fa parte in luogo del presidente del tribunale d'Aosta, di cui all'[art. 1, n. 1, del decreto legislativo 15 novembre 1946, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-11-15;367#art_1-num1), il rappresentante del Ministero dell'interno, presidente della Commissione di coordinamento, di cui all'[art. 45 della legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4#art_45), che la presiede.
+Della Giunta giurisdizionale amministrativa della Valle d'Aosta, in sede amministrativa fa parte in luogo del presidente del tribunale d'Aosta, di cui all'[art. 1, n. 1, del decreto legislativo 15 novembre 1946, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-11-15;367#art_1-num1), il rappresentante del Ministero dell'interno, presidente della Commissione di coordinamento, di cui all'[art. 45 della legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), che la presiede.
 
 ## Art. 3.
 

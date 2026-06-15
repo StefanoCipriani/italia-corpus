@@ -20,7 +20,7 @@ Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Vista, la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), e successive modificazioni;
 
-Visto il [R. decreto-legge 29 luglio 1925, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-29;1261);
+Visto il [R. decreto-legge 29 luglio 1925, n. 1261](Passaggio%20delle%20attribuzioni%20concernenti%20le%20Borse%20valori%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20delle%20finanze.%20025U1261.md);
 
 Visto l'[art. 15 del R. decreto 29 marzo 1942, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-29;239#art_15);
 

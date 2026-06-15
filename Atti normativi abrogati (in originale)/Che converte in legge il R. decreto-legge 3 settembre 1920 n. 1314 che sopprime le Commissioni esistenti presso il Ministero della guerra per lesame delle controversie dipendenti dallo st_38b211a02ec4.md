@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 settembre 1920, n. 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-09-03;1314), relativo alla soppressione di due Commissioni per l'esame delle controversie sorte in dipendenza dello stato di guerra per appalti, forniture e lavorazioni militari. 
+ E' convertito in legge il [R. decreto-legge 3 settembre 1920, n. 1314](Relativo%20alla%20soppressione%20di%20due%20Commissioni%20per%20lesame%20delle%20controversie%20sorte%20in%20dipendenza%20dello%20stato%20di%20guerra%20per%20appalti%20forniture%20e%20lavorazioni%20militari.%20020U1314.md), relativo alla soppressione di due Commissioni per l'esame delle controversie sorte in dipendenza dello stato di guerra per appalti, forniture e lavorazioni militari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

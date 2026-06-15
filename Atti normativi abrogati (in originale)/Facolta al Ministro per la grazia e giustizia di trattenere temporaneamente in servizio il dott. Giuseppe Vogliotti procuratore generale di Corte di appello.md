@@ -20,7 +20,7 @@ Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto l'art. 227 dell'Ordinamento giudiziario, approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
 
-Visto il [R. decreto-legge 31 gennaio 1944, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-31;34);
+Visto il [R. decreto-legge 31 gennaio 1944, n. 34](Assunzione%20in%20servizio%20di%20pensionati%20dellAmministrazione%20dello%20Stato.%20044U0034.md);
 
 Visto il [decreto legislativo Luogotenenziale 9 luglio 1944, n. 320](Disposizioni%20del%20richiamo%20in%20servizio%20di%20magistrati%20dellordine%20giudiziario%20pensionati%20di%20qualunque%20grado%20per%20temporanee%20inderogabili%20esigenze.%20044U0320.md);
 

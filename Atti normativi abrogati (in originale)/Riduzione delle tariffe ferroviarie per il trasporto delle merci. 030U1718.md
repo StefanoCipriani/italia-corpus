@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 10 settembre 1923, n. 2641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-10;2641);
+Visto il [R. decreto 10 settembre 1923, n. 2641](Modificazioni%20alle%20disposizioni%20vigenti%20in%20materia%20di%20tariffe%20ferroviarie.%20023U2641.md);
 
 Viste le condizioni e tariffe per i trasporti delle cose sulle ferrovie dello Stato;
 
@@ -38,7 +38,7 @@ L'aumento del 400 per cento sulle tasse di trasporto a piccola velocita', di cui
 
 ## Art. 3.
 
-L'aumento del 350 per cento sulle tasse di trasporto a piccola velocita' delle merci di cui all'[art. 5 del R. decreto 14 maggio 1927, n. 790](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-14;790#art_5), e successive modificazioni, e' ridotto al 300 per cento per le spedizioni tassabili in base a distanze non superiori a 300 chilometri e coi prezzi delle classi dalla 41 alla 63 incluse. 
+L'aumento del 350 per cento sulle tasse di trasporto a piccola velocita' delle merci di cui all'[art. 5 del R. decreto 14 maggio 1927, n. 790](Variazioni%20ed%20aggiunte%20alle%20vigenti%20condizioni%20e%20tariffe%20per%20i%20trasporti%20delle%20cose%20sulle%20Ferrovie%20dello%20Stato.%20027U0790.md), e successive modificazioni, e' ridotto al 300 per cento per le spedizioni tassabili in base a distanze non superiori a 300 chilometri e coi prezzi delle classi dalla 41 alla 63 incluse. 
  
  Il prezzo cosi' computato pero' non deve essere inferiore a quello della classe 64 aumentato del 350 per cento.
 
@@ -168,7 +168,7 @@ a) Nell'elenco delle merci soggette all'aumento del 300 per cento costituente l'
  
  Paglia comune. 
  
- b) Nell'elenco delle merci per le quali l'aumento percentuale risultante dall'art. 8 del citato [R. decreto-legge 6 aprile 1925, n. 372](Aggiunte%20e%20modificazioni%20alle%20condizioni%20e%20tariffe%20per%20i%20trasporti%20delle%20persone%20e%20delle%20cose%20sulle%20Ferrovie%20dello%20Stato%20e%20sulle%20linee%20di%20navigazione%20esercitate%20dallo%20Stato.%20025U0372.md), e' ridotto al 350 per cento ([art. 5 del R. decreto 14 maggio 1927, n. 790](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-14;790#art_5), e successive modificazioni) e' soppressa la voce: 
+ b) Nell'elenco delle merci per le quali l'aumento percentuale risultante dall'art. 8 del citato [R. decreto-legge 6 aprile 1925, n. 372](Aggiunte%20e%20modificazioni%20alle%20condizioni%20e%20tariffe%20per%20i%20trasporti%20delle%20persone%20e%20delle%20cose%20sulle%20Ferrovie%20dello%20Stato%20e%20sulle%20linee%20di%20navigazione%20esercitate%20dallo%20Stato.%20025U0372.md), e' ridotto al 350 per cento ([art. 5 del R. decreto 14 maggio 1927, n. 790](Variazioni%20ed%20aggiunte%20alle%20vigenti%20condizioni%20e%20tariffe%20per%20i%20trasporti%20delle%20cose%20sulle%20Ferrovie%20dello%20Stato.%20027U0790.md), e successive modificazioni) e' soppressa la voce: 
  
  Paglia comune.
 
@@ -178,11 +178,11 @@ La facolta' attribuita al direttore generale delle Ferrovie dello Stato dai [Reg
  
  In questo caso dovra' pero' essere assicurato un minimo prodotto di centesimi nove per tonnellata e chilometro (aumenti percentuali compresi). 
  
- La facolta' data all'Amministrazione ferroviaria col secondo alinea dell'[art. 10 del R. decreto-legge 24 settembre 1923, n. 2123](Modificazioni%20alle%20condizioni%20e%20tariffe%20dei%20trasporti%20sulle%20ferrovie%20dello%20Stato.%20023U2123.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' estesa a tutti i trasporti di merci in transito anche se non tassabili con la tariffa ordinaria n. 34 P.V.
+ La facolta' data all'Amministrazione ferroviaria col secondo alinea dell'[art. 10 del R. decreto-legge 24 settembre 1923, n. 2123](Modificazioni%20alle%20condizioni%20e%20tariffe%20dei%20trasporti%20sulle%20ferrovie%20dello%20Stato.%20023U2123.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' estesa a tutti i trasporti di merci in transito anche se non tassabili con la tariffa ordinaria n. 34 P.V.
 
 ## Art. 10.
 
-Il diritto speciale di cui all'[art. 17 del R. decreto-legge 6 aprile 1925, n. 372](Aggiunte%20e%20modificazioni%20alle%20condizioni%20e%20tariffe%20per%20i%20trasporti%20delle%20persone%20e%20delle%20cose%20sulle%20Ferrovie%20dello%20Stato%20e%20sulle%20linee%20di%20navigazione%20esercitate%20dallo%20Stato.%20025U0372.md), convertito nella [legge 18 marzo 1926, n. 562, e all'art. 6](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md) del [R. decreto 5 agosto 1927, n. 1415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-05;1415), e' ridotto, per ogni carro di qualsiasi portata, a L. 7 per i binari di allacciamento ed a L. 3 per il carico e lo scarico in punti determinati.
+Il diritto speciale di cui all'[art. 17 del R. decreto-legge 6 aprile 1925, n. 372](Aggiunte%20e%20modificazioni%20alle%20condizioni%20e%20tariffe%20per%20i%20trasporti%20delle%20persone%20e%20delle%20cose%20sulle%20Ferrovie%20dello%20Stato%20e%20sulle%20linee%20di%20navigazione%20esercitate%20dallo%20Stato.%20025U0372.md), convertito nella [legge 18 marzo 1926, n. 562, e all'art. 6](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md) del [R. decreto 5 agosto 1927, n. 1415](Facilitazioni%20nelle%20condizioni%20e%20tariffe%20in%20vigore%20sulle%20ferrovie%20dello%20Stato.%20027U1415.md), e' ridotto, per ogni carro di qualsiasi portata, a L. 7 per i binari di allacciamento ed a L. 3 per il carico e lo scarico in punti determinati.
 
 ## Art. 11.
 

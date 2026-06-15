@@ -23,7 +23,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 ## Art. 1.
 
 Il Ministro per la grazia e giustizia ha facolta' di trattenere in servizio fino al 70° anno e, non oltre il 31 dicembre 1948 - in corrispondenza delle vacanze verificatesi complessivamente nel ruolo - i funzionari di gruppo B delle cancellerie e segreterie giudiziarie che, dopo la entrata in vigore del presente decreto, raggiungeranno i limiti di eta' e di servizio stabiliti per il collocamento a riposo di ufficio dal decreto 8 maggio 1924, n. 745.
- La disposizione di cui al primo comma si applica anche nei confronti dei funzionari gia' trattenuti in servizio a norma dell'[art. 1 della legge 28 gennaio 1943, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-28;33#art_1), e dell'[art. 8 del decreto legislativo 30 aprile 1946, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-04-30;352#art_8).
+ La disposizione di cui al primo comma si applica anche nei confronti dei funzionari gia' trattenuti in servizio a norma dell'[art. 1 della legge 28 gennaio 1943, n. 33](Sospensione%20dei%20collocamenti%20a%20riposo%20dufficio%20del%20personale%20giudiziario.%20043U0033.md), e dell'[art. 8 del decreto legislativo 30 aprile 1946, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-04-30;352#art_8).
 
 ## Art. 2.
 

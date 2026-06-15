@@ -28,7 +28,7 @@ La misura della quota di surrogazione del personale superiore e degli agenti sta
 
 ## Art. 4.
 
-Chiunque richieda che vengano, nel suo interesse, eseguiti lavori o istituiti servizi telegrafici, telefonici o postali, deve anticipare all'Amministrazione postelegrafonica le spese occorrenti per le prestazioni e le forniture relative, ivi compresa la quota per spese generali di cui all'[art. 1 del regio decreto-legge 8 ottobre 1925, n. 2500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-08;2500#art_1), e successive modificazioni.
+Chiunque richieda che vengano, nel suo interesse, eseguiti lavori o istituiti servizi telegrafici, telefonici o postali, deve anticipare all'Amministrazione postelegrafonica le spese occorrenti per le prestazioni e le forniture relative, ivi compresa la quota per spese generali di cui all'[art. 1 del regio decreto-legge 8 ottobre 1925, n. 2500](Quota%20a%20carico%20degli%20interessati%20nei%20lavori%20che%20il%20servizio%20telegrafico%20eseguisce%20a%20totale%20rimborso%20di%20spese%20a%20richiesta%20e%20per%20conto%20di%20altre%20Amministrazioni%20statali%20Societa%20Enti%20diversi%20_5f2bda8be08b.md), e successive modificazioni.
 
 ## Art. 5.
 

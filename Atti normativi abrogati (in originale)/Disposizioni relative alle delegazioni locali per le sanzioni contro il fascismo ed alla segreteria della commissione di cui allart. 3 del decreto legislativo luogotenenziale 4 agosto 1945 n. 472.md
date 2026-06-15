@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;573);
+Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 573](../Decreti%20legislativi%20luogotenenziali/Attribuzioni%20e%20funzionamento%20dei%20delegati%20provinciali%20dellAlto%20Commissario%20per%20le%20sanzioni%20contro%20il%20fascismo.%20045U0573.md);
 
-Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;22);
+Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 22](../Decreti%20legislativi%20luogotenenziali/Devoluzione%20alla%20Presidenza%20del%20Consiglio%20dei%20Ministri%20delle%20attribuzioni%20dellAlto%20Commissariato%20per%20le%20sanzioni%20contro%20il%20fascismo.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-Le delegazioni provinciali di cui al [decreto legislativo luogotenenziale 31 agosto 1945, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;573), sono costituite dai soli delegati per l'avocazione dei profitti di regime.
+Le delegazioni provinciali di cui al [decreto legislativo luogotenenziale 31 agosto 1945, n. 573](../Decreti%20legislativi%20luogotenenziali/Attribuzioni%20e%20funzionamento%20dei%20delegati%20provinciali%20dellAlto%20Commissario%20per%20le%20sanzioni%20contro%20il%20fascismo.%20045U0573.md), sono costituite dai soli delegati per l'avocazione dei profitti di regime.
  Le delegazioni suddette potranno essere soppresse con decreti del Presidente del Consiglio dei Ministri, di concerto con i Ministri per il tesoro e per le finanze.
  Nei modi di cui al comma precedente, le delegazioni di piu' provincie potranno essere fuse in unica delegazione di carattere interprovinciale.
 
@@ -36,12 +36,12 @@ Dalla carica di delegato per l'avocazione dei profitti di regime sono esclusi i 
 
 Ai soli fini del trattamento economico, i delegati di cui all'art. 1 che non siano dipendenti dello Stato o di enti pubblici, sono equiparati, in relazione all'importanza delle rispettive sedi, ai dipendenti dello Stato compresi tra il grado quinto ed il grado ottavo.
  La equiparazione e' disposta con provvedimento del Presidente del Consiglio dei Ministri, d'intesa con il Ministro per il tesoro.
- Il trattamento spettante per effetto di detta equiparazione sara' corrisposto con decorrenza dalla data di entrata in vigore del [decreto legislativo luogotenenziale 31 agosto 1945, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;573), salvo il conguaglio con le somme percepite dai delegati predetti, in dipendenza della indennita' provvisoriamente stabilita dall'art. 5 del decreto medesimo.
+ Il trattamento spettante per effetto di detta equiparazione sara' corrisposto con decorrenza dalla data di entrata in vigore del [decreto legislativo luogotenenziale 31 agosto 1945, n. 573](../Decreti%20legislativi%20luogotenenziali/Attribuzioni%20e%20funzionamento%20dei%20delegati%20provinciali%20dellAlto%20Commissario%20per%20le%20sanzioni%20contro%20il%20fascismo.%20045U0573.md), salvo il conguaglio con le somme percepite dai delegati predetti, in dipendenza della indennita' provvisoriamente stabilita dall'art. 5 del decreto medesimo.
  Le disposizioni dei comma precedenti si applicano anche ai delegati provinciali per la punizione dei delitti fascisti e per l'epurazione, cessanti dalla carica per effetto del primo comma dell'art. 1.
 
 ## Art. 4.
 
-Ai servizi di segreteria della commissione di cui all'[art. 3 del decreto legislativo 4 agosto 1945, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1945-08-04;472#art_3), puo' essere adibito personale non di ruolo dell'ufficio per le sanzioni contro il fascismo, di cui al [decreto legislativo luogotenenziale 8 febbraio 1946, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;22).
+Ai servizi di segreteria della commissione di cui all'[art. 3 del decreto legislativo 4 agosto 1945, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1945-08-04;472#art_3), puo' essere adibito personale non di ruolo dell'ufficio per le sanzioni contro il fascismo, di cui al [decreto legislativo luogotenenziale 8 febbraio 1946, n. 22](../Decreti%20legislativi%20luogotenenziali/Devoluzione%20alla%20Presidenza%20del%20Consiglio%20dei%20Ministri%20delle%20attribuzioni%20dellAlto%20Commissariato%20per%20le%20sanzioni%20contro%20il%20fascismo.md).
 
 ## Art. 5.
 

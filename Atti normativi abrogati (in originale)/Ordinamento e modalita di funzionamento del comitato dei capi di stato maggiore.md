@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 1 della legge 8 marzo 1968, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-08;200#art_1);
+Visto l'[art. 1 della legge 8 marzo 1968, n. 200](Istituzione%20del%20comitato%20dei%20capi%20di%20Stato%20Maggiore%20e%20varianti%20alla%20legge%2012%20novembre%201955%20n.%201137%20sullavanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

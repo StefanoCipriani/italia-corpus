@@ -39,7 +39,7 @@ Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 341 dello
  
  per i servizi delle Commissioni incaricate degli 
  
- studi legislativi per la riforma del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), 
+ studi legislativi per la riforma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), 
  
  ecc . . . . . . . . . . . . . . . . . . . . . . . . » 40,000  
  Ministero degli affari esteri: 

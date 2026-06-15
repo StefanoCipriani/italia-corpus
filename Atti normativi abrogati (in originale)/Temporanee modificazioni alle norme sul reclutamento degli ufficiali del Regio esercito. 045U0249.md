@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata:
 
-Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-14;596), e successive modificazioni;
+Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni;
 
-Vista la [legge 9 maggio 1940, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;368), sull'ordinamento del Regio esercito, e successive modificazioni;
+Vista la [legge 9 maggio 1940, n. 368](Ordinamento%20del%20Regio%20esercito.%20040U0368.md), sull'ordinamento del Regio esercito, e successive modificazioni;
 
-Vista la [legge 9 maggio 1940, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-09;369), sullo stato degli ufficiali del Regio esercito, e successive modificazioni;
+Vista la [legge 9 maggio 1940, n. 369](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0369.md), sullo stato degli ufficiali del Regio esercito, e successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per la guerra, d'intesa con il Ministro per il tesor
 
 ## Art. 1.
 
-A decorrere dall'8 settembre 1943 e fino al 30 giugno 1945, il limite massimo di eta' previsto dall'art. 1 del testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-14;596), e successive modificazioni, e' elevato a 34 anni per la nomina a sottotenente in servizio permanente dei sottufficiali di cui all'art. 3, nn. 2, 3 e 4 e all'art. 13 del testo unico stesso. 
+A decorrere dall'8 settembre 1943 e fino al 30 giugno 1945, il limite massimo di eta' previsto dall'art. 1 del testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni, e' elevato a 34 anni per la nomina a sottotenente in servizio permanente dei sottufficiali di cui all'art. 3, nn. 2, 3 e 4 e all'art. 13 del testo unico stesso. 
  
  Tale limite di eta', per il periodo suddetto, e' aumentato ad anni 40 nei riguardi dei sottufficiali di cui al precedente comma che abbiano uno dei seguenti requisiti: 
  

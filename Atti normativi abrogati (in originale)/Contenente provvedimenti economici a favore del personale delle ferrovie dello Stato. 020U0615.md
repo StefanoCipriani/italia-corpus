@@ -25,7 +25,7 @@ L'Amministrazione ferroviaria dello Stato, e' autorizzata ad erogare le seguenti
  a) lire 90 milioni da ripartirsi in parti uguali al personale 
  stabile, in prova, aggiunto e provvisorio, nonche' agli 
  avventizi sistemabili nel personale in prova in base al 
- [R. decreto 2 settembre 1919, n. 1588](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-02;1588); 
+ [R. decreto 2 settembre 1919, n. 1588](Che%20detta%20norme%20per%20la%20riassunzione%20degli%20avventizi%20delle%20ferrovie%20dello%20Stato%20che%20abbiano%20lasciato%20il%20servizio%20per%20la%20chiamata%20alle%20armi.%20019U1588.md); 
  
  b) lire 5 milioni da assegnare in sussidi agli avventizi non 
  sistemabili in servizio continuativo da almeno un anno alla 

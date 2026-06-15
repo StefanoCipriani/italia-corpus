@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 19 febbraio 1925, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-02-19;196);
+Visto il [R. decreto-legge 19 febbraio 1925, n. 196](Modificazioni%20alle%20vigenti%20tariffe%20postali%20e%20telegrafiche.%20025U0196.md);
 
-Visto il [R. decreto-legge 5 agosto 1927, n. 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-05;1416);
+Visto il [R. decreto-legge 5 agosto 1927, n. 1416](Riduzioni%20delle%20tariffe%20postali%20e%20telegrafiche.%20027U1416.md);
 
 Visti gli articoli 8 e 193 del Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 

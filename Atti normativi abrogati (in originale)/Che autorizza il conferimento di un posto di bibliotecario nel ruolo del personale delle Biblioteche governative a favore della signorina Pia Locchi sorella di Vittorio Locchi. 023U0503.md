@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D ITALIA 
  
- Veduti il [Regio decreto-legge 2 ottobre 1919, n 2074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-02;2074), e il [R. decreto 13 maggio 1920, n. 714](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-13;714), concernenti l'ordinamento organico del personale delle Biblioteche pubbliche governative; 
+ Veduti il [Regio decreto-legge 2 ottobre 1919, n 2074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-02;2074), e il [R. decreto 13 maggio 1920, n. 714](Che%20estende%20al%20personale%20delle%20biblioteche%20pubbliche%20governative%20alcune%20delle%20disposizioni%20vigenti%20che%20regolano%20lo%20stato%20giuridico%20ed%20economico%20del%20personale%20delle%20Amministrazioni%20central_f4059bfd1e83.md), concernenti l'ordinamento organico del personale delle Biblioteche pubbliche governative; 
  
- Veduto il [R. decreto 30 settembre 1922, n. 1290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-09-30;1290); 
+ Veduto il [R. decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md); 
  
  Sentito il Consiglio dei ministri; 
  

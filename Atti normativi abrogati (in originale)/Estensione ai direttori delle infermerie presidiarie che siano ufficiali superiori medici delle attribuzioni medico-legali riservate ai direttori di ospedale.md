@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-02-24;329), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni;
 
-Visto il regolamento per l'esecuzione del testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 6 giugno 1940, n. 1481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-06;1481) e con [regio decreto 3 aprile 1942, n. 1133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-03;1133), e successive modificazioni;
+Visto il regolamento per l'esecuzione del testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 6 giugno 1940, n. 1481](Parte%20prima%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20040U1481.md) e con [regio decreto 3 aprile 1942, n. 1133](Parte%20seconda%20del%20regolamento%20per%20lesecuzione%20del%20Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20042U1133.md), e successive modificazioni;
 
 Visto il regolamento sul servizio sanitario militare territoriale dell'Esercito, approvato con regio decreto 17 novembre 1932;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista, la deliberazione del Consiglio dei Ministri;
 

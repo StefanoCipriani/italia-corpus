@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'art. 73 del testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-24;501), e successive modificazioni;
+Visto l'art. 73 del testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), e successive modificazioni;
 
 Visti i [Regi decreti-legge n. 1824, del 23 novembre 1921](Che%20apporta%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche.%20021U1824.md), convertito nella [legge 17 aprile 1925, n. 473, e n. 837 del 12 maggio 1927](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-05-12;837), convertito nella [legge 22 marzo 1928, n. 589](Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20maggio%201927%20n.%20837%20recante%20riduzioni%20alle%20tariffe%20postali%20e%20telefoniche.%20028U0589.md), con i quali vennero apportate modificazioni alle tariffe postali, telegrafiche e telefoniche;
 
-Visto il [R. decreto 31 maggio 1928, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-31;1154), con il quale venne fissata la tariffa dei pacchi postali urgenti;
+Visto il [R. decreto 31 maggio 1928, n. 1154](Disposizioni%20relative%20al%20servizio%20dei%20pacchi%20postali%20urgenti.%20028U1154.md), con il quale venne fissata la tariffa dei pacchi postali urgenti;
 
-Visto il [R. decreto 4 febbraio 1932, n. 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-02-04;129), con il quale venne fissata la sopratassa speciale per il trasporto aereo dei pacchi postali;
+Visto il [R. decreto 4 febbraio 1932, n. 129](Sopratassa%20speciale%20per%20il%20trasporto%20aereo%20dei%20pacchi%20postali.%20032U0129.md), con il quale venne fissata la sopratassa speciale per il trasporto aereo dei pacchi postali;
 
-Visto il [R. decreto 26 gennaio 1933, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-26;242), con il quale venne elevato a 20 chilogrammi il limite massimo del peso dei pacchi postali;
+Visto il [R. decreto 26 gennaio 1933, n. 242](Elevazione%20del%20limite%20massimo%20del%20peso%20dei%20pacchi%20postali%20a%2020%20chilogrammi.%20033U0242.md), con il quale venne elevato a 20 chilogrammi il limite massimo del peso dei pacchi postali;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

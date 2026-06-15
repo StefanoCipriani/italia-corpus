@@ -38,11 +38,11 @@ Nei bilanci dell'Amministrazione dei monopoli di Stato, dell'Amministrazione del
 
 ## Art. 4.
 
-In dipendenza del [R. decreto 16 giugno 1932, n. 681](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-16;681), che attribuisce al Ministero dei lavori pubblici i servizi relativi alla costruzione di opere igieniche, sono apportate allo stato di previsione della spesa del predetto Ministero, per l'esercizio finanziario 1932-33, nonche' a quello dell'interno, le variazioni di cui all'annessa tabella D, firmata, d'ordine Nostro, dal Ministro proponente. 
+In dipendenza del [R. decreto 16 giugno 1932, n. 681](Attribuzione%20al%20Ministero%20dei%20lavori%20pubblici%20dei%20servizi%20relativi%20alla%20costruzione%20di%20ospedali%20cimiteri%20locali%20di%20isolamento%20acquedotti%20ed%20altre%20opere%20igieniche.%20032U0681.md), che attribuisce al Ministero dei lavori pubblici i servizi relativi alla costruzione di opere igieniche, sono apportate allo stato di previsione della spesa del predetto Ministero, per l'esercizio finanziario 1932-33, nonche' a quello dell'interno, le variazioni di cui all'annessa tabella D, firmata, d'ordine Nostro, dal Ministro proponente. 
  
  Tutti gli atti concernenti i servizi suddetti, emessi nell'esercizio in corso, sia in conto competenza che in conto residui, con imputazione ai capitoli dello stato di previsione della spesa del Ministero dell'interno, si intendono riferiti ai corrispondenti capitoli dello stato di previsione della spesa del Ministero dei lavori pubblici. 
  
- Il Ministro per le finanze e' autorizzato ad introdurre, con propri decreti, nei bilanci dei Ministeri suddetti, le ulteriori variazioni occorrenti in attuazione del citato [Regio decreto 16 giugno 1932, n. 681](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-16;681), nonche' a provvedere, di concerto con il Ministro per i lavori pubblici, alla determinazione delle autorizzazioni di spese corrispondenti alle somme trasferite.
+ Il Ministro per le finanze e' autorizzato ad introdurre, con propri decreti, nei bilanci dei Ministeri suddetti, le ulteriori variazioni occorrenti in attuazione del citato [Regio decreto 16 giugno 1932, n. 681](Attribuzione%20al%20Ministero%20dei%20lavori%20pubblici%20dei%20servizi%20relativi%20alla%20costruzione%20di%20ospedali%20cimiteri%20locali%20di%20isolamento%20acquedotti%20ed%20altre%20opere%20igieniche.%20032U0681.md), nonche' a provvedere, di concerto con il Ministro per i lavori pubblici, alla determinazione delle autorizzazioni di spese corrispondenti alle somme trasferite.
 
 ## Art. 5.
 
@@ -86,7 +86,7 @@ E' autorizzata a carico delle disponibilita' esistenti sul capitolo n. 89 dello 
 
 ## Art. 13.
 
-Il termine minimo per la presentazione delle domande e dei documenti da parte dei concorrenti agli esami per le ammissioni nei ruoli del personale dipendente dal Ministero delle finanze, di cui all'[art. 6 del R. decreto 12 maggio 1930, n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-12;684#art_6), e' stabilito, per i concorsi pubblici, in 60 giorni dalla data di pubblicazione dei bandi nella Gazzetta Ufficiale, ed in 30 giorni, per i concorsi interni, dalla data di pubblicazione dei bandi nel Bollettino del personale. 
+Il termine minimo per la presentazione delle domande e dei documenti da parte dei concorrenti agli esami per le ammissioni nei ruoli del personale dipendente dal Ministero delle finanze, di cui all'[art. 6 del R. decreto 12 maggio 1930, n. 684](Norme%20per%20lassunzione%20del%20personale%20nei%20ruoli%20dei%20gruppi%20A%20B%20e%20C%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze.%20030U0684.md), e' stabilito, per i concorsi pubblici, in 60 giorni dalla data di pubblicazione dei bandi nella Gazzetta Ufficiale, ed in 30 giorni, per i concorsi interni, dalla data di pubblicazione dei bandi nel Bollettino del personale. 
  
  Questo decreto andra' in vigore il giorno della sua data e sara' presentato al Parlamento per la conversione in legge. 
  

@@ -62,13 +62,13 @@ c) navi in ogni altro caso, L. 1%.
 
 ### Art. 5.
 
-La imposta proporzionale prevista per i contratti di appalto dall'art. 52 della tariffa parte prima allegato A alla legge del registro 30 dicembre 1923, n. 3269, e successive modificazioni, gia' raddoppiata dal [R. decreto-legge 19 agosto 1943, n. 737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-19;737), e' ripristinata nella misura del 2%. 
+La imposta proporzionale prevista per i contratti di appalto dall'art. 52 della tariffa parte prima allegato A alla legge del registro 30 dicembre 1923, n. 3269, e successive modificazioni, gia' raddoppiata dal [R. decreto-legge 19 agosto 1943, n. 737](Nuovi%20provvedimenti%20in%20materia%20di%20imposta%20di%20registro.%20043U0737.md), e' ripristinata nella misura del 2%. 
  
  I contratti di appalto conclusi verbalmente o per corrispondenza commerciale sono esenti dalla registrazione, salvo il caso d'uso, quando il prezzo o valore globale non supera lire quarantamila. 
  
  Qualora i suddetti contratti siano a corrispettiva variabile e durante l'esecuzione l'importo superi lire quarantamila, debbono essere registrati entro venti giorni dalla data nella quale tale importo risulta superato, in base alla contabilita' dei lavori o ad altri documenti, fermo l'obbligo di dichiarare all'Ufficio dei registro il corrispettivo definitivo entro venti giorni dalla data nella quale questo e' stato accertato. 
  
- Sono abrogati il primo, il quarto, il quinto ed il [sesto comma dell'art. 3 della legge 19 luglio 1941, n. 771](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-07-19;771#art_3-com6).
+ Sono abrogati il primo, il quarto, il quinto ed il [sesto comma dell'art. 3 della legge 19 luglio 1941, n. 771](Provvedimenti%20in%20materia%20di%20Imposta%20di%20registro%20sugli%20appalti.%20041U0771.md).
 
 ### Art. 6.
 
@@ -86,7 +86,7 @@ Le imposte graduali previste dalla tariffa parte prima allegato A alla legge di 
 
 ### Art. 9.
 
-I limiti di esenzione stabiliti dall'art. 42 allegato D alla legge del registro 30 dicembre 1923, n. 3269, modificato con la [legge 30 dicembre 1935, n. 2247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-30;2247), concernente locazioni e conduzioni di beni immobili, sono elevati alla misura unica di L. 1200 all'anno.
+I limiti di esenzione stabiliti dall'art. 42 allegato D alla legge del registro 30 dicembre 1923, n. 3269, modificato con la [legge 30 dicembre 1935, n. 2247](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201781%20concernente%20norme%20integrative%20del%20R.%20decreto-legge%2026%20luglio%201935-XIII%20n.%201412%20riguardante%20depos_f2e51979c06b.md), concernente locazioni e conduzioni di beni immobili, sono elevati alla misura unica di L. 1200 all'anno.
 
 ### Art. 10.
 
@@ -108,7 +108,7 @@ I limiti di tempo e di capitale previsti dalla legge del bollo, registro ed ipot
  
  Per le societa' cooperative edilizie e per i consorzi di cooperative di produzione e lavoro tale limite e' elevato a lire due milioni. 
  
- L'[art. 2 della legge 19 dicembre 1940, n. 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-19;1913#art_2), e' abrogato.
+ L'[art. 2 della legge 19 dicembre 1940, n. 1913](Modificazioni%20al%20R.%20decreto-legge%2010%20febbraio%201927-V%20n.%20196%20convertito%20nella%20legge%2018%20novembre%201928-VII%20n.%202689%20riguardante%20lammontare%20dellazione%20nelle%20societa%20cooperative.%20040U1913.md), e' abrogato.
 
 ### Art. 12.
 
@@ -122,11 +122,11 @@ Nei riguardi delle societa' agricole cooperative e delle societa' cooperative ed
 
 ### Art. 13.
 
-L'[art. 14 della legge 17 maggio 1928, n. 1122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-05-17;1122#art_14), modificato dall'[art. 13 della legge 12 giugno 1930, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-06-12;742#art_13), concernente il pagamento della imposta principale di registro dei trasferimenti immobiliari in due rate, e' abrogato.
+L'[art. 14 della legge 17 maggio 1928, n. 1122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20agosto%201927%20n.%201463%20col%20quale%20si%20dispongono%20sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20028U1122.md), modificato dall'[art. 13 della legge 12 giugno 1930, n. 742](Modificazioni%20alle%20leggi%20sulle%20tasse%20di%20registro%20e%20di%20successione.%20030U0742.md), concernente il pagamento della imposta principale di registro dei trasferimenti immobiliari in due rate, e' abrogato.
 
 ### Art. 14.
 
-Fino a quando non verra' altrimenti disposto con decreto del Ministro per le finanze e' sospeso l'obbligo della presentazione degli elenchi annuali delle locazioni di fabbricati prescritto dal [R. decreto-legge 26 settembre 1935, n. 1781](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1781), convertito nella [legge 30 dicembre 1935, n. 2247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-30;2247), e modificato con la [legge 28 maggio 1936, n. 1025](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-05-28;1025).
+Fino a quando non verra' altrimenti disposto con decreto del Ministro per le finanze e' sospeso l'obbligo della presentazione degli elenchi annuali delle locazioni di fabbricati prescritto dal [R. decreto-legge 26 settembre 1935, n. 1781](Norme%20integrative%20del%20R.%20decreto-legge%2026%20luglio%201935%20n.%201412%20concernente%20lobbligatorieta%20dellinvestimento%20in%20titoli%20dello%20Stato%20dei%20depositi%20a%20garanzia%20dei%20contratti%20daffitto%20dei%20fabbricati.%20035U1781.md), convertito nella [legge 30 dicembre 1935, n. 2247](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201781%20concernente%20norme%20integrative%20del%20R.%20decreto-legge%2026%20luglio%201935-XIII%20n.%201412%20riguardante%20depos_f2e51979c06b.md), e modificato con la [legge 28 maggio 1936, n. 1025](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20marzo%201936-XIV%20n.%20433%20contenente%20proroga%20fino%20a%20nuova%20disposizione%20dellentrata%20in%20vigore%20del%20R.%20decreto-legge%2026%20luglio%201935-_db5a0b1c82d4.md).
 
 ## Sanzioni
 
@@ -134,15 +134,15 @@ Capo III
 
 ### Art. 15.
 
-La pena pecuniaria di cui all'art. 11 del R. decreto, [legge 14 giugno 1940, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-14;643), convertito, con modificazioni, nella [legge 21 ottobre 1940, n. 1511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-21;1511), e' ripristinata nella misura e secondo le modalita' di cui all'art. 40 della legge di registro 30 dicembre 1923, n. 3269, modificato col [R. decreto 13 gennaio 1936, n. 2313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-01-13;2313).
+La pena pecuniaria di cui all'art. 11 del R. decreto, [legge 14 giugno 1940, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-14;643), convertito, con modificazioni, nella [legge 21 ottobre 1940, n. 1511](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20giugno%201940-XVIII%20n.%20643%20riguardante%20ladeguamento%20dellimposta%20di%20registro%20al%20plusvalore%20dei%20beni%20immobili%20nei%20trasferimenti%20_4497505da65d.md), e' ripristinata nella misura e secondo le modalita' di cui all'art. 40 della legge di registro 30 dicembre 1923, n. 3269, modificato col [R. decreto 13 gennaio 1936, n. 2313](Modificazioni%20alla%20legge%20del%20Registro.%20036U2313.md).
 
 ### Art. 16.
 
-La sopratassa per tardiva registrazione delle scritture private contenenti trasferimenti immobiliari per atto tra vivi, gia' raddoppiata in forza dell'[art. 10 del R. decreto-legge 14 giugno 1940, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-06-14;643#art_10), convertito, con modificazioni, nella [legge 21 ottobre 1940, n. 1511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-21;1511), e' ripristinata nella misura di cui all'art. 100 della legge del registro 30 dicembre 1923, n. 3269, modificato col [R. decreto 13 gennaio 1936, n. 2313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-01-13;2313).
+La sopratassa per tardiva registrazione delle scritture private contenenti trasferimenti immobiliari per atto tra vivi, gia' raddoppiata in forza dell'[art. 10 del R. decreto-legge 14 giugno 1940, n. 643](Adeguamento%20dellimposta%20di%20registro%20al%20plus%20valore%20dei%20beni%20immobili%20nei%20trasferimenti%20per%20atto%20tra%20vivi%20e%20modifiche%20di%20alcune%20aliquote%20della%20tariffa%20relative%20alle%20imposte%20di%20registro%20ed%20_8de00f9b6ec5.md), convertito, con modificazioni, nella [legge 21 ottobre 1940, n. 1511](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20giugno%201940-XVIII%20n.%20643%20riguardante%20ladeguamento%20dellimposta%20di%20registro%20al%20plusvalore%20dei%20beni%20immobili%20nei%20trasferimenti%20_4497505da65d.md), e' ripristinata nella misura di cui all'art. 100 della legge del registro 30 dicembre 1923, n. 3269, modificato col [R. decreto 13 gennaio 1936, n. 2313](Modificazioni%20alla%20legge%20del%20Registro.%20036U2313.md).
 
 ### Art. 17.
 
-La sopratassa per omessa o ritardata registrazione delle locazioni di fabbricati stabilita dall'[art. 3 del R. decreto-legge 26 settembre 1935, n. 1781](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1781#art_3), convertito nella [legge 30 dicembre 1935, n. 2247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-30;2247), e' ripristinata nella misura prevista dal 1° comma dell'art. 101 della legge del registro 30 dicembre 1923, n. 3269, modificato con l'[art. 1 del R. decreto 13 gennaio 1936, n. 2313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-01-13;2313#art_1), riducibile a norma dell'art. 104 della stessa citata legge del registro.
+La sopratassa per omessa o ritardata registrazione delle locazioni di fabbricati stabilita dall'[art. 3 del R. decreto-legge 26 settembre 1935, n. 1781](Norme%20integrative%20del%20R.%20decreto-legge%2026%20luglio%201935%20n.%201412%20concernente%20lobbligatorieta%20dellinvestimento%20in%20titoli%20dello%20Stato%20dei%20depositi%20a%20garanzia%20dei%20contratti%20daffitto%20dei%20fabbricati.%20035U1781.md), convertito nella [legge 30 dicembre 1935, n. 2247](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201781%20concernente%20norme%20integrative%20del%20R.%20decreto-legge%2026%20luglio%201935-XIII%20n.%201412%20riguardante%20depos_f2e51979c06b.md), e' ripristinata nella misura prevista dal 1° comma dell'art. 101 della legge del registro 30 dicembre 1923, n. 3269, modificato con l'[art. 1 del R. decreto 13 gennaio 1936, n. 2313](Modificazioni%20alla%20legge%20del%20Registro.%20036U2313.md), riducibile a norma dell'art. 104 della stessa citata legge del registro.
 
 ### Art. 18.
 
@@ -158,11 +158,11 @@ Capo IV
 
 Per l'applicazione delle nuove aliquote stabilite dal presente decreto si osservano le norme di cui all'articolo 150 prima parte del primo comma ed all'art. 152 della legge del registro 30 dicembre 1923, n. 3269. 
  
- Nulla e' innovato per l'esercizio del diritto di opzione previsto dall'[art. 11 del R. decreto-legge 19 agosto 1943, n. 737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-19;737#art_11).
+ Nulla e' innovato per l'esercizio del diritto di opzione previsto dall'[art. 11 del R. decreto-legge 19 agosto 1943, n. 737](Nuovi%20provvedimenti%20in%20materia%20di%20imposta%20di%20registro.%20043U0737.md).
 
 ### Art. 20.
 
-Il presente decreto entra in vigore giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno ed a decorrere dalla stessa data resta abrogata ogni disposizione contraria o con esso incompatibile comprese le riduzioni di aliquote previste nel capo II del [R. decreto-legge 19 agosto 1943, n. 737, nonche' l'art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-19;737#art_2) del decreto stesso. 
+Il presente decreto entra in vigore giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno ed a decorrere dalla stessa data resta abrogata ogni disposizione contraria o con esso incompatibile comprese le riduzioni di aliquote previste nel capo II del [R. decreto-legge 19 agosto 1943, n. 737, nonche' l'art. 2](Nuovi%20provvedimenti%20in%20materia%20di%20imposta%20di%20registro.%20043U0737.md) del decreto stesso. 
  
  Ordiniamo che il presente decreto, monito dei sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  

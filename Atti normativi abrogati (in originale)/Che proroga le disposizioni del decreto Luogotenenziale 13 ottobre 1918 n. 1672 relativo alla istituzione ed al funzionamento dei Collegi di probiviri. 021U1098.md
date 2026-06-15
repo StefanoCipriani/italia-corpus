@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il [decreto Luogotenenziale 13 ottobre 1918, n. 1672](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-13;1672), che regola durante lo stato di guerra e sino a sei mesi dopo la cessazione di esso, l'istituzione ed il funzionamento dei Collegi di probiviri;
 
-Veduto il [R. decreto 20 gennaio 1921, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-01-20;108), col quale la durata in vigore del predetto decreto Luogotenenziale fu prorogata sino al 31 luglio 1921;
+Veduto il [R. decreto 20 gennaio 1921, n. 108](Che%20proroga%20la%20durata%20in%20vigore%20del%20decreto%20Luogotenenziale%2013%20ottobre%201918%20n.%201672%20relativo%20alla%20istituzione%20ed%20al%20funzionamento%20dei%20Collegi%20dei%20probiviri.%20021U0108.md), col quale la durata in vigore del predetto decreto Luogotenenziale fu prorogata sino al 31 luglio 1921;
 
 Ritenuta la necessita' di prorogare ulteriormente le disposizioni che riguardano la istituzione ed il funzionamento dei Collegi di probiviri;
 

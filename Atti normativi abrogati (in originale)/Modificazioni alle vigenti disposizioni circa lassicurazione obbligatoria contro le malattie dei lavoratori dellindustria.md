@@ -31,7 +31,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 ## Art. 1.
 
 Le prestazioni in danaro dell'assicurazione obbligatoria contro le malattie dei lavoratori dell'industria, regolate dai contratti collettivi 3 gennaio 1939, 5 giugno 1940, 1° luglio 1936 e 23 dicembre 1939 e i contribuiti dovuti per l'assicurazione predetta ai sensi dei contratti collettivi 3 gennaio 1939, 1° luglio 1936 e 23 dicembre 1939, sono stabiliti nella misura indicata nella tabella allegata al presente decreto, firmata, d'ordine Nostro, dal Ministro per il lavoro e la previdenza sociale.
- La tabella predetta puo' essere modificata in tutto o in parte con decreto legislativo su proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per il tesoro, sentito l'istituto nazionale per l'assicurazione contro le malattie e le organizzazioni sindacali nazionali interessate, ai sensi dell'[art. 3, n. 1, della legge 31 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_3-num1).
+ La tabella predetta puo' essere modificata in tutto o in parte con decreto legislativo su proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per il tesoro, sentito l'istituto nazionale per l'assicurazione contro le malattie e le organizzazioni sindacali nazionali interessate, ai sensi dell'[art. 3, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md).
 
 ## Art. 2.
 

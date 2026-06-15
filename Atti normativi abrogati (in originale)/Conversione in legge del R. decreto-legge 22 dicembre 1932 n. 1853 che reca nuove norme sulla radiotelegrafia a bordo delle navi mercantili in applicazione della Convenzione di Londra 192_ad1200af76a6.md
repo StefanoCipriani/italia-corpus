@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 dicembre 1932, n. 1853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-12-22;1853), che reca nuove norme sulla radiotelegrafia a bordo delle navi mercantili, in applicazione della Convenzione di Londra 1029 sulla sicurezza della vita umana in mare. 
+ E' convertito in legge il [R. decreto-legge 22 dicembre 1932, n. 1853](Nuove%20norme%20sulla%20radiotelegrafia%20a%20bordo%20delle%20navi%20mercantili%20in%20applicazione%20della%20Convenzione%20di%20Londra%201929%20sulla%20sicurezza%20della%20vita%20umana%20in%20mare.%20032U1853.md), che reca nuove norme sulla radiotelegrafia a bordo delle navi mercantili, in applicazione della Convenzione di Londra 1029 sulla sicurezza della vita umana in mare. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

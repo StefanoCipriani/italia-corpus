@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1933, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-28;1281), concernente la sistemazione dei servizi di culto alle dipendenze del Ministero dell'interno e la modificazione dei ruoli organici dell'Amministrazione civile dell'interno e di quelli dell'Amministrazione della giustizia. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1933, n. 1281](Sistemazione%20dei%20servizi%20di%20culto%20alle%20dipendenze%20del%20Ministero%20dellinterno%20e%20modificazione%20dei%20ruoli%20organici%20dellAmministrazione%20civile%20dellinterno%20e%20di%20quelli%20dellAmministrazione%20della_3542186dd818.md), concernente la sistemazione dei servizi di culto alle dipendenze del Ministero dell'interno e la modificazione dei ruoli organici dell'Amministrazione civile dell'interno e di quelli dell'Amministrazione della giustizia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

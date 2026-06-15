@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 20 aprile 1939, n. 591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-04-20;591), e successive modificazioni;
+Vista la [legge 20 aprile 1939, n. 591](Aumento%20degli%20stipendi%20paghe%20e%20retribuzioni%20e%20dei%20supplementi%20di%20servizio%20attivo%20a%20favore%20dei%20dipendenti%20dallo%20Stato%20e%20da%20Enti%20pubblici%20e%20maggiorazione%20delle%20pensioni%20a%20carico%20dello%20Stato_369e10f3df41.md), e successive modificazioni;
 
 Visto il [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1945-11-21;722) e il [decreto legislativo del Capo provvisorio dello Stato 25 ottobre 1946, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-25;263), e successive modificazioni;
 
@@ -22,7 +22,7 @@ Visto il [decreto legislativo del Capo provvisorio dello Stato 5 agosto 1947, n.
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

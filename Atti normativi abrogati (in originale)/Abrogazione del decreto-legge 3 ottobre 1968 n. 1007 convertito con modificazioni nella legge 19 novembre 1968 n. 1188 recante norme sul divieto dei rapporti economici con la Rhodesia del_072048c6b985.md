@@ -26,7 +26,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-E' abrogato il [decreto-legge 3 ottobre 1968, n. 1007](Norme%20sul%20divieto%20di%20rapporti%20economici%20con%20la%20Rhodesia%20del%20Sud%20e%20sul%20divieto%20di%20attivita%20intese%20a%20promuovere%20lemigrazione%20verso%20la%20Rhodesia%20del%20Sud.md), convertito, con modificazioni, nella [legge 19 novembre 1968, n. 1188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-11-19;1188), concernente norme sul divieto dei rapporti economici con la Rhodesia del Sud e sul divieto di attivita' intese a promuovere l'emigrazione verso la Rhodesia del Sud.
+E' abrogato il [decreto-legge 3 ottobre 1968, n. 1007](Norme%20sul%20divieto%20di%20rapporti%20economici%20con%20la%20Rhodesia%20del%20Sud%20e%20sul%20divieto%20di%20attivita%20intese%20a%20promuovere%20lemigrazione%20verso%20la%20Rhodesia%20del%20Sud.md), convertito, con modificazioni, nella [legge 19 novembre 1968, n. 1188](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20ottobre%201968%20n.%201007%20Norme%20sul%20divieto%20di%20rapporti%20economici%20con%20la%20Rhodesia%20del%20Sud%20e%20sul%20divieto%20di%20attivita%20intese%20a%20promuove_aa840617829c.md), concernente norme sul divieto dei rapporti economici con la Rhodesia del Sud e sul divieto di attivita' intese a promuovere l'emigrazione verso la Rhodesia del Sud.
 
 ## Art. 2.
 

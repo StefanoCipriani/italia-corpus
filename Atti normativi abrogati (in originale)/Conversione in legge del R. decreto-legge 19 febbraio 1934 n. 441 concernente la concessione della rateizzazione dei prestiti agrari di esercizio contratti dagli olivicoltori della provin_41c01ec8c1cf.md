@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [R. decreto-legge 19 febbraio 1934, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-02-19;441), concernente la concessione della rateizzazione dei prestiti agrari di esercizio contratti dagli olivicoltori della provincia di Brindisi. 
+ E convertito in legge il [R. decreto-legge 19 febbraio 1934, n. 441](Concessione%20della%20ratizzazione%20dei%20prestiti%20agrari%20di%20esercizio%20contratti%20dagli%20olivicoltori%20della%20provincia%20di%20Brindisi.%20034U0441.md), concernente la concessione della rateizzazione dei prestiti agrari di esercizio contratti dagli olivicoltori della provincia di Brindisi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

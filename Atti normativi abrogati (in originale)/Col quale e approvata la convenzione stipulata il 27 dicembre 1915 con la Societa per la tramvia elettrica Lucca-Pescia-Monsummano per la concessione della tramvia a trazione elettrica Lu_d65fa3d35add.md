@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), nonche' il regolamento approvato con [R. decreto 17 giugno 1900, numero 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-06-17;306); 
+ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), nonche' il regolamento approvato con [R. decreto 17 giugno 1900, numero 306](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20n.%20561%20riflettente%20le%20tramvie%20a%20trazione%20meccanica%20e%20le%20ferrovie%20economiche.%20000U0306.md); 
  
  Sentito il Consiglio superiore dei lavori pubblici; 
  

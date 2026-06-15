@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il regolamento sulle dispense dalle chiamate alle armi dei militari in congedo, approvato col [R. decreto 13 aprile 1911, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-04-13;374) e modificato con l'altro [R. decreto 17 maggio 1914, n. 548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-05-17;548);
+Veduto il regolamento sulle dispense dalle chiamate alle armi dei militari in congedo, approvato col [R. decreto 13 aprile 1911, n. 374](Che%20approva%20lannesso%20regolamento%20sulle%20dispense%20dalle%20chiamate%20alle%20armi%20dei%20militari%20in%20congedo%20illimitato%20che%20cuoprono%20determinali%20impieghi%20o%20si%20trovano%20in%20posizioni%20speciali.%20011U0374.md) e modificato con l'altro [R. decreto 17 maggio 1914, n. 548](Col%20quale%20viene%20modificato%20il%20regolamento%20sulle%20dispense%20dalle%20chiamate%20alle%20armi%20approvato%20con%20R.%20decreto%2013%20aprile%201911%20n.%20374.%20014U0548.md);
 
 Ritenuta l'urgenza di modificare il detto regolamento senza sentire il parere del Consiglio di Stato, in deroga al disposto dell'articolo unico della [legge 24 dicembre 1908, n. 730](Che%20apporta%20modificazioni%20agli%20articoli%20131%20e%20132%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20008U0730.md);
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro ministro, segretario di Stato per gli affari della gue
 
 ## Art. 1.
 
-L'articolo 5 (secondo comma) del regolamento approvato col [R. decreto 13 aprile 1911, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-04-13;374) e' modificato come segue: 
+L'articolo 5 (secondo comma) del regolamento approvato col [R. decreto 13 aprile 1911, n. 374](Che%20approva%20lannesso%20regolamento%20sulle%20dispense%20dalle%20chiamate%20alle%20armi%20dei%20militari%20in%20congedo%20illimitato%20che%20cuoprono%20determinali%20impieghi%20o%20si%20trovano%20in%20posizioni%20speciali.%20011U0374.md) e' modificato come segue: 
  
  « Il decreto, di cui al primo comma del presente articolo, specifichera' anche i casi nei quali la dispensa non potra' essere concessa se non a condizione che il capo ufficio, alla cui immediata dipendenza l'impiegato si trovi, dichiari per iscritto, sotto la sua personale responsabilita', che l'opera dell'impiegato soggetto al richiamo e' assolutamente necessaria pel regolare andamento dell'ufficio. 
  

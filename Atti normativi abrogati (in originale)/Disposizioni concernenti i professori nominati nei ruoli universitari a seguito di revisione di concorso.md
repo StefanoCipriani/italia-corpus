@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-I professori assunti in ruolo universitario per effetto dell'[art. 16 del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;238#art_16), conservano l'ufficio di professore di ruolo, ai fini dell'insegnamento e della direzione del relativo Istituto, fino a tutto l'anno accademico in cui, compiuto il 75° anno di eta', vengono collocati a riposo in conformita' delle disposizioni contenute nell'[art. 19 del decreto luogotenenziale 5 aprile 1945, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;238#art_19), citato.
+I professori assunti in ruolo universitario per effetto dell'[art. 16 del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md), conservano l'ufficio di professore di ruolo, ai fini dell'insegnamento e della direzione del relativo Istituto, fino a tutto l'anno accademico in cui, compiuto il 75° anno di eta', vengono collocati a riposo in conformita' delle disposizioni contenute nell'[art. 19 del decreto luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md), citato.
  Ai professori stessi e' data, tuttavia, la possibilita' di chiedere il collocamento fuori ruolo con l'inizio dello anno accademico successivo a quello durante il quale compiono il 70° anno di eta'.
 
 ## Art. 2.

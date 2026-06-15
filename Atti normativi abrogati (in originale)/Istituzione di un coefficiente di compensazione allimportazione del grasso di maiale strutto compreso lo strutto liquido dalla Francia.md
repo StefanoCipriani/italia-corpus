@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti gli articoli 8 e 10 delle disposizioni preliminari alla tariffa dei dazi doganali, approvate con [decreto Presidenziale 7 luglio 1950, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-07-07;442);
+Visti gli articoli 8 e 10 delle disposizioni preliminari alla tariffa dei dazi doganali, approvate con [decreto Presidenziale 7 luglio 1950, n. 442](../DPR/Approvazione%20della%20nuova%20tariffa%20doganale%20dei%20dazi%20di%20importazione.md);
 
 Visto l'[art. 77, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 

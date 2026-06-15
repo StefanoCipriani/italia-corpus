@@ -18,9 +18,9 @@ Visto il testo unico di leggi sui telefoni 3 maggio 1903, n. 196, il relativo [r
 
 Visto il [R. decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e successive modificazioni;
 
-Visto il [R. decreto-legge 31 marzo 1921, n. 507](Che%20modifica%20quello%2025%20gennaio%201921%20n.%2044%20circa%20le%20tariffe%20telefoniche.%20021U0507.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge 31 marzo 1921, n. 507](Che%20modifica%20quello%2025%20gennaio%201921%20n.%2044%20circa%20le%20tariffe%20telefoniche.%20021U0507.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il [R. decreto-legge 23 novembre 1921, n. 1824](Che%20apporta%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche.%20021U1824.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge 23 novembre 1921, n. 1824](Che%20apporta%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche.%20021U1824.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visti i decreti del Nostro Ministro Segretario di Stato per le poste ed i telegrafi del 28 dicembre 1921, n. 6063, e del 15 giugno 1923, n. 12804;
 

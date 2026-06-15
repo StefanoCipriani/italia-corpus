@@ -12,13 +12,13 @@ IL MINISTRO DELLE FINANZE
 
 Vista la [legge 23 aprile 1959, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-04-23;189), e successive modificazioni,  riguardante l'ordinamento della Guardia di finanza;
 
-Vista la [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), che detta norme sull'avanzamento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica, e successive modificazioni;
+Vista la [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), che detta norme sull'avanzamento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica, e successive modificazioni;
 
-Vista la [legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887), e successive modificazioni ed integrazioni, ed in particolare la [legge 3 maggio 1971, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-05-03;320), che estende agli ufficiali della Guardia di finanza, con varianti, le disposizioni in materia di avanzamento recate dalla [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), e successive modificazioni;
+Vista la [legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887), e successive modificazioni ed integrazioni, ed in particolare la [legge 3 maggio 1971, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-05-03;320), che estende agli ufficiali della Guardia di finanza, con varianti, le disposizioni in materia di avanzamento recate dalla [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e successive modificazioni;
 
-Visti gli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_8), [11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_11), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_14) e [15 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_15), di emanazione del regolamento recante norme sull'accesso agli impieghi nelle pubbliche amministrazioni;
+Visti gli [articoli 8](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), [11](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), [12](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), [13](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), [14](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md) e [15 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), di emanazione del regolamento recante norme sull'accesso agli impieghi nelle pubbliche amministrazioni;
 
-Visto l'[articolo 3, comma 209, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com209), che sostituisce l'articolo 5 della citata [legge n. 887 del 1966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966;887), prevedendo in particolare al comma 6 che le modalita' di svolgimento del concorso per l'ammissione e del corso superiore di polizia tributaria, per gli ufficiali in servizio permanente effettivo della Guardia di finanza, sono stabilite con decreto di questo Ministro;
+Visto l'[articolo 3, comma 209, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), che sostituisce l'articolo 5 della citata [legge n. 887 del 1966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966;887), prevedendo in particolare al comma 6 che le modalita' di svolgimento del concorso per l'ammissione e del corso superiore di polizia tributaria, per gli ufficiali in servizio permanente effettivo della Guardia di finanza, sono stabilite con decreto di questo Ministro;
 
 Visto, altresi', il comma 210 del predetto [articolo 3 della legge n. 549 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995;549#art_3), che detta disposizioni transitorie per lo svolgimento del suddetto corso superiore di polizia tributaria;
 
@@ -46,7 +46,7 @@ stato redatto ai sensi del'art. 10, comma 3, del testo
 unico delle disposizioni sulla promulgazione delle leggi,
 sull'emanazione dei decreti del Presidente della Repubblica
 e sulle pubblicazioni ufficiali della Repubblica italiana,
-approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo
+approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo
 fine di facilitare la lettura delle disposizioni di legge
 alle quali e' operato il rinvio. Restano invariati il
 valore e l'efficacia degli atti legislativi qui trascritti.
@@ -54,7 +54,7 @@ Note alle premesse:
 - La [legge 23 aprile
 1959, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-04-23;189), reca: "Ordinamento del Corpo della Guardia di
 finanza".
-- La [legge 12 novembre 1955, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137),
+- La [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md),
 reca: "Avanzamento degli ufficiali dell'Esercito, della
 Marina e dell'Aeronautica"
 - La [legge 24 ottobre
@@ -64,8 +64,8 @@ Guardia di finanza".
 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-05-03;320), reca: "Modifiche alla [legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887),
 sull'avanzamento degli ufficiali del Corpo della Guardia di
 finanza".
-- Gli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_8), [11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_11), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_14) e [15 del
-D.P.R. 9 maggio 1994, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_15) (Regolamento recante norme
+- Gli [articoli 8](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), [11](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), [12](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), [13](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), [14](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md) e [15 del
+D.P.R. 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md) (Regolamento recante norme
 sull'accesso agli impieghi nelle pubbliche amministrazioni
 e le modalita' di svolgimento dei concorsi, dei concorsi
 unici e delle altre forme di assunzione nei pubblici
@@ -140,8 +140,8 @@ caso precedere le prove scritte, deve essere reso noto agli
 interessati prima dell'effettuazione delle prove di esami.
 3. I candidati hanno facolta' di esercitare il
 diritto di accesso agli atti del procedimento concorsuale
-ai sensi degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-06-27;352#art_1) e [2 del decreto del Presidente
-della Repubblica 27 giugno 1992, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-06-27;352#art_2), con le modalita'
+ai sensi degli [articoli 1](../DPR/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md) e [2 del decreto del Presidente
+della Repubblica 27 giugno 1992, n. 352](../DPR/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md), con le modalita'
 ivi previste".
 "Art. 13 (Adempimenti dei concorrenti
 durante lo svolgimento delle prove scritte). - 1. Durante
@@ -239,7 +239,7 @@ limiti dei posti complessivamente messi a concorso, i
 candidati utilmente collocati nelle graduatorie di merito,
 formate sulla base del punteggio riportato nelle prove
 d'esame, tenuto conto di quanto disposto dalla [legge 2
-aprile 1968, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482) o da altre disposizioni di legge in
+aprile 1968, n. 482](Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md) o da altre disposizioni di legge in
 vigore che prevedono riserve di posti in favore di
 particolari categorie di cittadini.
 4. La graduatoria di merito, unitamente a quella dei vincitori
@@ -264,7 +264,7 @@ dichiarazioni di idoneita' al concorso con esclusione delle
 procedure di concorso relative al personale del comparto
 scuola".
 - L'[art. 3, comma 209, della legge 28
-dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com209) (Misure di razionalizzazione della
+dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md) (Misure di razionalizzazione della
 finanza pubblica), sostituisce l'art. 5 della citata [legge
 n. 887/1966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966;887), con il testo che segue: "Art. 5. - 1. I
 tenenti colonnelli, i maggiori ed i capitani del ruolo
@@ -324,7 +324,7 @@ altri corsi o titoli acquisiti, in aggiunta ai vantaggi di
 carriera previsti dalla tabella n. 2 allegata alla presente
 legge".
 - L'art. 3, comma 210, della citata [legge 28
-dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549) (Misure di razionalizzazione della
+dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md) (Misure di razionalizzazione della
 finanza pubblica) prevede che: "Sino all'emanazione del
 decreto ministeriale con il quale sono stabilite le
 modalita' per lo svolgimento del concorso per l'ammissione
@@ -335,7 +335,7 @@ dell'organico del grado partecipano al concorso e sono
 ammessi alla frequenza del corso superiore di polizia
 tributaria secondo le norme previste dal regolamento
 approvato con [decreto del Presidente della Repubblica 5
-gennaio 1989, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1989-01-05;46). Al superamento del corso conseguono i
+gennaio 1989, n. 46](../DPR/Approvazione%20del%20regolamento%20per%20lammissione%20e%20la%20frequenza%20al%20corso%20superiore%20di%20polizia%20tributaria%20per%20ufficiali%20in%20servizio%20permanente%20effettivo%20della%20Guardia%20di%20finanza.md). Al superamento del corso conseguono i
 benefici di carriera previsti dall'[art. 5, comma 9, della
 legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5-com9), come sostituito dal comma
 209 del presente articolo".
@@ -390,14 +390,14 @@ Gazzetta Ufficiale".
 
 1.
 
-Possono partecipare al concorso i tenenti colonnelli, i maggiori ed i capitani del ruolo normale, che ne facciano domanda, in possesso dei requisiti previsti dall'[articolo 5 della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5), come sostituito dall'[articolo 3, comma 209, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com209).
+Possono partecipare al concorso i tenenti colonnelli, i maggiori ed i capitani del ruolo normale, che ne facciano domanda, in possesso dei requisiti previsti dall'[articolo 5 della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5), come sostituito dall'[articolo 3, comma 209, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md).
 
 2.
 
 L'accertamento dei requisiti viene effettuato secondo le modalita' stabilite dalle disposizioni richiamate al comma 1.
 
 Nota all'[art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_2):
- - Per l'[art. 5 della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5), come sostituito dall'[art. 3, comma 209, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com209), vedi note alle premesse.
+ - Per l'[art. 5 della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5), come sostituito dall'[art. 3, comma 209, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), vedi note alle premesse.
 
 ### Art. 3. — Valutazione dei titoli
 
@@ -449,10 +449,10 @@ Il punteggio di merito e' costituito dalla media, calcolata sino al centesimo, t
 
 4.
 
-Si applicano le disposizioni degli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_11), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_14) e [15, comma 1, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_15-com1), concernenti il comportamento e gli adempimenti degli esaminandi durante lo svolgimento delle prove e al termine di esse, nonche' gli adempimenti della commissione esaminatrice.
+Si applicano le disposizioni degli [articoli 11](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), [12](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), [13](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), [14](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md) e [15, comma 1, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), concernenti il comportamento e gli adempimenti degli esaminandi durante lo svolgimento delle prove e al termine di esse, nonche' gli adempimenti della commissione esaminatrice.
 
-Nota all'[art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_4):
- - Per gli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_11), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_14) e [15, comma 1, del D.P.R. 9 maggio 1994, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487#art_15-com1), vedi note alle premesse.
+Nota all'[art. 4](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md):
+ - Per gli [articoli 11](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), [12](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), [13](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), [14](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md) e [15, comma 1, del D.P.R. 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), vedi note alle premesse.
 
 ### Art. 5. — Commissione giudicatrice e graduatoria
 
@@ -506,7 +506,7 @@ Il comandante del corso e' un colonnello in servizio permanente effettivo, nomin
 Il comandante del corso, sulla base degli indirizzi espressi dal direttore, cura in concreto lo svolgimento del corso, accertandone la costante aderenza alle finalita' enunciate nell'[articolo 5, comma 5, della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5-com5), seguendo con continuita' le attivita' didattiche, controllando il comportamento dei frequentatori e verificandone l'andamento negli studi.
 
 Nota all'[art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_8):
- - Per l'[art. 5, comma 5, della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5-com5), come sostituito dall'[art. 3, comma 209, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com209), vedi note alle premesse.
+ - Per l'[art. 5, comma 5, della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5-com5), come sostituito dall'[art. 3, comma 209, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), vedi note alle premesse.
 
 ### Art. 9. — Organizzazione del corso
 
@@ -651,7 +651,7 @@ E' dichiarato idoneo al termine di ciascun anno di corso il frequentatore che ab
 Superano il corso di polizia tributaria, ai sensi e per gli effetti del l'[articolo 5 della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5), gli ufficiali che hanno seguito il corso con profitto complessivo almeno sufficiente, determinato dalla commissione giudicatrice al termine del biennio anche sulla base del giudizio finale espresso a conclusione del primo anno di corso.
 
 Nota all'[art. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_19):
- - Per l'[art. 5 della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5), come sostituito dall'[art. 3, comma 209, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com209), vedi note alle premesse.
+ - Per l'[art. 5 della legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887#art_5), come sostituito dall'[art. 3, comma 209, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), vedi note alle premesse.
 
 ## DISPOSIZIONI FINALI E VARIE
 

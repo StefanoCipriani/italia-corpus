@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sono convertiti in legge i [Regi decreti-legge 4 luglio 1925, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-04;1089), e [26 luglio 1925, n. 1246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-26;1246), concernenti lo scioglimento e la ricostituzione del Consiglio di amministrazione dell'Istituto nazionale delle assicurazioni. 
+ Sono convertiti in legge i [Regi decreti-legge 4 luglio 1925, n. 1089](Scioglimento%20del%20Consiglio%20di%20amministrazione%20dellIstituto%20nazionale%20delle%20assicurazioni.%20025U1089.md), e [26 luglio 1925, n. 1246](Nomina%20del%20nuovo%20Consiglio%20di%20amministrazione%20dellIstituto%20nazionale%20delle%20assicurazioni.%20025U1246.md), concernenti lo scioglimento e la ricostituzione del Consiglio di amministrazione dell'Istituto nazionale delle assicurazioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

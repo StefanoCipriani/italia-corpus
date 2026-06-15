@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 25 marzo 1941, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-03-25;472), e successive modificazioni, riguardante l'ordinamento dell'Accademia aeronautica;
+Visto il [regio decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), e successive modificazioni, riguardante l'ordinamento dell'Accademia aeronautica;
 
-Vista la [legge 4 luglio 1985, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-07-04;353), concernente l'introduzione della specialita' di navigatore militare nel ruolo normale degli ufficiali naviganti in servizio permanente effettivo dell'Arma aeronautica;
+Vista la [legge 4 luglio 1985, n. 353](Introduzione%20della%20specialita%20di%20navigatore%20militare%20nel%20ruolo%20normale%20degli%20ufficiali%20naviganti%20in%20servizio%20permanente%20effettivo%20dellArma%20aeronautica.md), concernente l'introduzione della specialita' di navigatore militare nel ruolo normale degli ufficiali naviganti in servizio permanente effettivo dell'Arma aeronautica;
 
 Visto l'art. 8, primo comma, della citata [legge n. 353/1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985;353);
 
@@ -32,7 +32,7 @@ EMANA il seguente decreto:
 
 1.
 
-Al [regio decreto 25 marzo 1941, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-03-25;472), e successive modificazioni, sono apportate le seguenti modifiche:
+Al [regio decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), e successive modificazioni, sono apportate le seguenti modifiche:
  all'art. 6, primo comma, punto 3, sono aggiunte le seguenti parole: "o di idrovolante o di navigatore militare d'aeroplano";
  all'art. 9, primo comma, le parole "per il conseguimento del brevetto di pilota militare d'aeroplano" sono sostituite dalle seguenti "per il conseguimento del brevetto di pilota militare d'aeroplano o di idrovolante o del brevetto di navigatore militare d'aeroplano";
  all'art. 9, terzo comma, le parole "il brevetto di pilota militare" sono sostituite dalle seguenti: "il brevetto di pilota militare d'aeroplano o di idrovolante od il brevetto di navigatore militare d'aeroplano";

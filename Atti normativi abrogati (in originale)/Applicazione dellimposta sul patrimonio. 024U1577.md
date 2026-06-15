@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto il [R. decreto 5 febbraio 1922, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-02-05;78);
 
-Visto il [R. decreto 10 agosto 1923, n. 1784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-10;1784);
+Visto il [R. decreto 10 agosto 1923, n. 1784](Norme%20per%20agevolare%20i%20concordati%20ed%20i%20riscatti%20dellimposta%20sul%20patrimonio.%20023U1784.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3028](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3028);
+Visto il [R. decreto 30 dicembre 1923, n. 3028](Agevolazioni%20per%20i%20concordati%20ed%20i%20riscatti%20dellimposta%20sul%20patrimonio.%20023U3028.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 Sono prorogati di un anno tutti i termini stabiliti dall'[articolo 10, secondo comma](Che%20apporta%20modificazioni%20a%20quello%2022%20aprile%201920%20n.%20494%20concernente%20la%20istituzione%20dellimposta%20straordinaria%20progressiva%20sul%20patrimonio.%20022U0078.md), e dall'[art. 57 del R. decreto-legge 5 febbraio 1922, n. 78](Che%20apporta%20modificazioni%20a%20quello%2022%20aprile%201920%20n.%20494%20concernente%20la%20istituzione%20dellimposta%20straordinaria%20progressiva%20sul%20patrimonio.%20022U0078.md), per l'accertamento dell'imposta sul patrimonio. 
  
- La facolta' attribuita alla finanza dall'[art. 1 del R. decreto 30 dicembre 1923, n. 3028](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3028#art_1), di rinunziare all'applicazione delle pene pecuniarie per omessa, infedele o tardiva denunzia di patrimonio, e' estesa a tutti i concordati che verranno conchiusi nelle condizioni previste dalla disposizione predetta, fino al 31 dicembre 1925.
+ La facolta' attribuita alla finanza dall'[art. 1 del R. decreto 30 dicembre 1923, n. 3028](Agevolazioni%20per%20i%20concordati%20ed%20i%20riscatti%20dellimposta%20sul%20patrimonio.%20023U3028.md), di rinunziare all'applicazione delle pene pecuniarie per omessa, infedele o tardiva denunzia di patrimonio, e' estesa a tutti i concordati che verranno conchiusi nelle condizioni previste dalla disposizione predetta, fino al 31 dicembre 1925.
 
 ## Art. 2.
 

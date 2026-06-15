@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la, [legge 16 febbraio 1942, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-16;426), relativa alla costituzione e all'ordinamento del Comitato Olimpico Nazionale Italiano (C.O.N.I.);
+Vista la, [legge 16 febbraio 1942, n. 426](Costituzione%20e%20ordinamento%20del%20Comitato%20olimpico%20nazionale%20italiano%20C.O.N.I..%20042U0426.md), relativa alla costituzione e all'ordinamento del Comitato Olimpico Nazionale Italiano (C.O.N.I.);
 
 Visto l'[art. 5 del regio decreto-legge 2 agosto 1943, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-02;704#art_5), che trasferisce il Comitato predetto alle dipendenze della Presidenza del Consiglio dei Ministri;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Gli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-16;426#art_6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-16;426#art_7) e [8 della legge 16 febbraio 1942, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-16;426#art_8), sono sostituiti dai seguenti:
+Gli [articoli 6](Costituzione%20e%20ordinamento%20del%20Comitato%20olimpico%20nazionale%20italiano%20C.O.N.I..%20042U0426.md), [7](Costituzione%20e%20ordinamento%20del%20Comitato%20olimpico%20nazionale%20italiano%20C.O.N.I..%20042U0426.md) e [8 della legge 16 febbraio 1942, n. 426](Costituzione%20e%20ordinamento%20del%20Comitato%20olimpico%20nazionale%20italiano%20C.O.N.I..%20042U0426.md), sono sostituiti dai seguenti:
  Art. 6. - Il Consiglio nazionale del Comitato Olimpico Nazionale Italiano (C.O.N.I.) e' costituito del presidente del Comitato, che lo presiede, e dei presidenti delle Federazioni sportive. Ne e' segretario il segretario generale del Comitato.
  Art. 7. - Il presidente del Comitato Olimpico Nazionale Italiano (C.O.N.I.) e' nominato con decreto del Presidente del Consiglio dei Ministri, su designazione del Consiglio nazionale.
  II Consiglio nazionale elegge nel suo seno due vicepresidenti e nomina il segretario generale.

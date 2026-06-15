@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-08-03;1920), che autorizza un concorso per la nomina a tenente medico ed a tenente chimico farmacista in servizio permanente effettivo nel Regio esercito. 
+ E' convertito in legge il [R. decreto-legge 3 agosto 1928, n. 1920](Autorizzazione%20a%20bandire%20un%20concorso%20per%20la%20nomina%20a%20tenente%20medico%20ed%20a%20tenente%20chimico%20farmacista%20in%20S.P.E.%20nel%20Regio%20esercito.%20028U1920.md), che autorizza un concorso per la nomina a tenente medico ed a tenente chimico farmacista in servizio permanente effettivo nel Regio esercito. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, Sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato, 
  

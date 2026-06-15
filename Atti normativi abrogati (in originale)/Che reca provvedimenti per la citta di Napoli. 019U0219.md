@@ -30,7 +30,7 @@ CAPO I.
 
 ### Art. 1.
 
-Fino a quando non sara' effettuata la conversione in cartelle di credito comunale e provinciale 3,75%, autorizzata con l'[articolo 9 della legge 12 marzo 1911, n. 258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-12;258#art_9), del prestito unificato in obbligazioni emesse in base alla [legge 14 maggio 1881, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-05-14;198) (serie 3ª), lo Stato corrispondera' al Comune di Napoli, a cominciare dalla scadenza del 1° gennaio 1919, un contributo semestrale pari all'ammontare della imposta di ricchezza mobile e della tassa di negoziazione percepite sugli interessi delle dette obbligazioni. 
+Fino a quando non sara' effettuata la conversione in cartelle di credito comunale e provinciale 3,75%, autorizzata con l'[articolo 9 della legge 12 marzo 1911, n. 258](Concernente%20provvedimenti%20per%20la%20citta%20di%20Napoli.%20011U0258.md), del prestito unificato in obbligazioni emesse in base alla [legge 14 maggio 1881, n. 198](Che%20provvede%20per%20lunificazione%20e%20conversione%20dei%20debiti%20redimibili%20del%20comune%20di%20Napoli.%20081U0198.md) (serie 3ª), lo Stato corrispondera' al Comune di Napoli, a cominciare dalla scadenza del 1° gennaio 1919, un contributo semestrale pari all'ammontare della imposta di ricchezza mobile e della tassa di negoziazione percepite sugli interessi delle dette obbligazioni. 
  
  La somma necessaria per tale contributo sara' iscritta nel bilancio del ministero del tesoro per l'esercizio 1918-19 e seguenti.
 
@@ -61,7 +61,7 @@ Il Ministro delle Finanze potra' procedere, in applicazione agli [articoli 9 del
  
  Le maggiori somme dipendenti dalle indicate modificazioni di tariffa saranno corrisposte al Comune di Napoli con le modalita' e nei termini da fissarsi dal ministro delle finanze. 
  
- Nella parte straordinaria del bilancio comunale sara' stanziata, come spesa obbligatoria, una somma non inferiore a quella devoluta al Comune stesso in applicazione del presente articolo, per concorrere alle spese per nuove opere pubbliche, a' termini del presente decreto e della [legge 11 luglio 1913, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921). Tale stanziamento non potra' essere diminuito per storni e le somme non impegnate in un esercizio saranno portate in aumento delle disponibilita' degli esercizi futuri.
+ Nella parte straordinaria del bilancio comunale sara' stanziata, come spesa obbligatoria, una somma non inferiore a quella devoluta al Comune stesso in applicazione del presente articolo, per concorrere alle spese per nuove opere pubbliche, a' termini del presente decreto e della [legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md). Tale stanziamento non potra' essere diminuito per storni e le somme non impegnate in un esercizio saranno portate in aumento delle disponibilita' degli esercizi futuri.
 
 ## Edifici scolastici.
 
@@ -75,7 +75,7 @@ Per provvedere all'acquisto delle aree, alla costruzione od acquisto, allo adatt
  
  Il servizio degli interessi delle somme mutuate sara' assunto per intero dallo Stato e fara' carico al bilancio del ministero dell'istruzione pubblica, restando a carico del Comune la sola quota di ammortamento del capitale. 
  
- Rimangono salve le assegnazioni fatte o da farsi al Comune di Napoli nella ripartizione del residuo fondo di cui alla [legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487).
+ Rimangono salve le assegnazioni fatte o da farsi al Comune di Napoli nella ripartizione del residuo fondo di cui alla [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md).
 
 ### Art. 6.
 
@@ -83,7 +83,7 @@ L'approvazione dei progetti delle opere, previo esame dell'ufficio del genio civ
  
  Potra' consentirsi la costruzione di edifici scolastici a tre piani e la sopraelevazione sino a tre piani di quelli esistenti. 
  
- Per quanto non sia diversamente provveduto col presente decreto, saranno applicabili le disposizioni della [legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487).
+ Per quanto non sia diversamente provveduto col presente decreto, saranno applicabili le disposizioni della [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md).
 
 ## Acquedotto sussidiario.
 
@@ -115,13 +115,13 @@ Per la esecuzione dei piani di ampliamento e costruzione di case popolari, la Ca
  
  La differenza tra il detto saggio d'interesse e quello normale stabilito annualmente per i mutui della Cassa depositi e prestiti, sara' corrisposta dallo Stato e fara' carico al bilancio del ministero dell'interno. 
  
- Tale contributo per quanto concerne la costruzione di case popolari, sostituisce quello di cui all'art. 18 del testo unico approvato con [regio decreto 27 febbraio 1908, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-02-27;89). 
+ Tale contributo per quanto concerne la costruzione di case popolari, sostituisce quello di cui all'art. 18 del testo unico approvato con [regio decreto 27 febbraio 1908, n. 89](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md). 
  
  La somministrazione dei mutui sara' effettuata con le modalita' stabilite dalle leggi e dai regolamenti vigenti per le opere igieniche eseguite con il concorso dello Stato.
 
 ### Art. 10.
 
-I piani di ampliamento dei nuovi quartieri operai saranno approvati nei modi indicati nell'[articolo 2 della legge 11 luglio 1913, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921#art_2). 
+I piani di ampliamento dei nuovi quartieri operai saranno approvati nei modi indicati nell'[articolo 2 della legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md). 
  
  Passera' a far parte del territorio amministrativo del Comune di Napoli la zona appartenente al Comune di San Pietro a Patierno che occorrera' per il fine anzidetto, da delimitarsi con decreto reale. 
  
@@ -129,7 +129,7 @@ I piani di ampliamento dei nuovi quartieri operai saranno approvati nei modi ind
 
 ### Art. 11.
 
-Per quanto non sia diversamente stabilito si osserveranno le disposizioni relative alle case popolari ed economiche contenete nel tosto unico e nel regolamento, rispettivamente approvati con [regi decreti 27 febbraio 1908, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-02-27;89), e [12 agosto 1908, n. 528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-08-12;528). 
+Per quanto non sia diversamente stabilito si osserveranno le disposizioni relative alle case popolari ed economiche contenete nel tosto unico e nel regolamento, rispettivamente approvati con [regi decreti 27 febbraio 1908, n. 89](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md), e [12 agosto 1908, n. 528](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20testo%20unico%2027%20febbraio%201908%20n.%2089%20sulle%20case%20popolari%20o%20economiche.%20008U0528.md). 
  
  Tuttavia sara' in facolta' del ministro dell'industria, commercio e lavoro, di concerto col ministro dell'interno, di consentire deroghe alle disposizioni dell'articolo 18 - secondo capoverso - del testo unico o degli articoli 4, 5 e 15 del regolamento sopra citati.
 
@@ -139,7 +139,7 @@ CAPO VII.
 
 ### Art. 12.
 
-Per le opere di pubblica utilita', da eseguirsi nel Comune di Napoli in applicazione del presente decreto e per la costruzione nel territorio del Comune stesso di stabilimenti industriali, oltre che per le opere previste della [legge 11 luglio 1913, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921), si applicheranno gli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_12) e [13 della legge 15 gennaio 1885, n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_13). 
+Per le opere di pubblica utilita', da eseguirsi nel Comune di Napoli in applicazione del presente decreto e per la costruzione nel territorio del Comune stesso di stabilimenti industriali, oltre che per le opere previste della [legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md), si applicheranno gli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_12) e [13 della legge 15 gennaio 1885, n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_13). 
  
  In caso di urgenza, l'espropriante potra' immettersi nel possesso dei beni da espropriare, compresi nel catasto rustico, in seguito alla compilazione dello stato di consistenza di essi, da disporsi dal prefetto di Napoli, il quale determinera' in questo caso la somma che l'espropriante dovra' depositare in via provvisoria per la indennita' di espropriazione, salva la determinazione della indennita' definitiva da parte della Giunta arbitrale di cui all'art. 17 del presente decreto.
 
@@ -155,13 +155,13 @@ I fabbricati che saranno costruiti nel Comune di Napoli dopo la data del present
 
 ### Art. 15.
 
-La misura del contributo che il Comune di Napoli e' autorizzato ad imporre ai proprietari dei beni confinanti o contigui ai termini dell'[art. 4 della legge 11 luglio 1913, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921#art_4), sara' stabilita nei decreti di approvazione dei piani o in decreti successivi entro il limite massimo del settantacinque per cento del maggiore valore. 
+La misura del contributo che il Comune di Napoli e' autorizzato ad imporre ai proprietari dei beni confinanti o contigui ai termini dell'[art. 4 della legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md), sara' stabilita nei decreti di approvazione dei piani o in decreti successivi entro il limite massimo del settantacinque per cento del maggiore valore. 
  
  Nel computo del maggior valore non sara' compreso quello derivante dalla esecuzione delle opere di fognatura o di pavimentazione stradale, gia' soggette a contributo a' termini degli articoli 2 e 3 del presente decreto.
 
 ### Art. 16.
 
-Le disposizioni riguardanti le opere indicate nella [legge 11 luglio 1913, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921), sono applicabili anche se le opere interessino l'edilizia e la viabilita', se pure non abbiano uno scopo prevalentemente igienico. 
+Le disposizioni riguardanti le opere indicate nella [legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md), sono applicabili anche se le opere interessino l'edilizia e la viabilita', se pure non abbiano uno scopo prevalentemente igienico. 
  
  In questo caso l'approvazione dei piani sara' fatta, nei modi indicati dall'art. 2 della legge stessa, su proposta dei ministri dell'interno e dei lavori pubblici.
 
@@ -175,9 +175,9 @@ Per la esecuzione delle opere contemplate nel presente decreto e nella [legge 11
 
 ### Art. 18.
 
-Per le opere indicate nell'articolo precedente, anche se gia' costruite, sono devolute alla competenza esclusiva della Giunta speciale tutte le questioni che, in applicazione della [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), sarebbero di competenza dell'autorita' giudiziaria, come prese quelle di cui all'art. 46, e quelle relative alla imposizione e alla determinazione dei contributi di cui agli articoli 77 e seguenti della legge stessa, all'[art. 4 della legge 11 luglio 1913, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921#art_4), e all'art. 15 del presente decreto. 
+Per le opere indicate nell'articolo precedente, anche se gia' costruite, sono devolute alla competenza esclusiva della Giunta speciale tutte le questioni che, in applicazione della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sarebbero di competenza dell'autorita' giudiziaria, come prese quelle di cui all'art. 46, e quelle relative alla imposizione e alla determinazione dei contributi di cui agli articoli 77 e seguenti della legge stessa, all'[art. 4 della legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md), e all'art. 15 del presente decreto. 
  
- Rimane salva la competenza dell'autorita' giudiziaria per le materie indicate negli [articoli 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_56), [57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_57), [58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_58) e [59 della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_59), e per tutte le altre nelle quali non sia direttamente interessato l'espropriante.
+ Rimane salva la competenza dell'autorita' giudiziaria per le materie indicate negli [articoli 56](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), [57](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), [58](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md) e [59 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e per tutte le altre nelle quali non sia direttamente interessato l'espropriante.
 
 ### Art. 19.
 
@@ -199,7 +199,7 @@ Con speciale regolamento, da approvarsi o da modificarsi con regio decreto senti
 
 ### Art. 22.
 
-Il Comune di Napoli e' autorizzato a richiedere l'approvazione di un nuovo piano di risanamento del rione S. Giuseppe-Carita' fra la via Sanfelice e Piazza Dante in sostituzione di quello approvato con [regio-decreto 18 giugno 1913, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-18;755). Al nuovo piano rimarranno applicabili le altre disposizioni della [legge 12 luglio 1912, n. 783](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-12;783).
+Il Comune di Napoli e' autorizzato a richiedere l'approvazione di un nuovo piano di risanamento del rione S. Giuseppe-Carita' fra la via Sanfelice e Piazza Dante in sostituzione di quello approvato con [regio-decreto 18 giugno 1913, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-18;755). Al nuovo piano rimarranno applicabili le altre disposizioni della [legge 12 luglio 1912, n. 783](Che%20provvede%20a%20facilitare%20la%20esecuzione%20delle%20opere%20di%20risanamento%20della%20citta%20di%20Napoli%20autorizzate%20dalle%20leggi%2015%20gennaio%201885%207%20luglio%201902%20e%205%20luglio%201908.%20012U0783.md).
 
 ### Art. 23.
 
@@ -244,11 +244,11 @@ Il Governo del Re e' autorizzato ad istituire, con decorrenza dal primo ottobre 
 Il ministro della istruzione pubblica e' autorizzato a stipulare con l'amministrazione comunale di Napoli apposita convenzione per la assunzione da parte dello Stato dello cinque scuole tecniche pareggiate municipali attualmente esistenti in Napoli, cioe' la «G.
 B. Della Porta», la «F. Gioia», la «F. Caracciolo», la «R. Borghi», e la «F. De Santis» con effetto dal 1° ottobre 1919, verso il pagamento a carico del comune di Napoli di uri contributo di L. 130,000 senza alcuna detrazione per tasso scolastiche. 
  
- Il Comune di Napoli dovra' altresi' provvedere le predette scuole e quelle che si costituissero per il loro sdoppiamento, a termini del [regio decreto 25 luglio 1907, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-25;645), di locali idonei, curandone la manutenzione, di arredamento e suppellettile scolastica, del personale di segreteria e subalterno, di acqua, di illuminazione e di riscaldamento.
+ Il Comune di Napoli dovra' altresi' provvedere le predette scuole e quelle che si costituissero per il loro sdoppiamento, a termini del [regio decreto 25 luglio 1907, n. 645](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20norme%20per%20la%20istituzione%20e%20conversione%20in%20governative%20di%20nuove%20scuole%20medie.%20007U0645.md), di locali idonei, curandone la manutenzione, di arredamento e suppellettile scolastica, del personale di segreteria e subalterno, di acqua, di illuminazione e di riscaldamento.
 
 ### Art. 30.
 
-Il personale di ruolo delle predette scuole tecniche pareggiate, avvenendo la regificazione di esse, sara' assunto dallo Stato, in seguito a risultato favorevole di una ispezione governativa, ed avra' la condizione giuridica indicata dall'art. 22 del regolamento approvato con [regio decreto 15 settembre 1907, n. 652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-15;652). 
+Il personale di ruolo delle predette scuole tecniche pareggiate, avvenendo la regificazione di esse, sara' assunto dallo Stato, in seguito a risultato favorevole di una ispezione governativa, ed avra' la condizione giuridica indicata dall'art. 22 del regolamento approvato con [regio decreto 15 settembre 1907, n. 652](Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20dalle%20leggi%20sulla%20conversione%20in%20governative%20delle%20scuole%20medie%20dipendenti%20da%20Provincie%20Comuni%20ed%20altri%20enti%20morali%20e%20su_222f9a0b508d.md). 
  
  Il predetto personale avra' gli obblighi d'orario prescritti dalle disposizioni vigenti nelle scuole tecniche governative e non mai inferiori a quelli contemplati dalla [legge 8 aprile 1900, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-04-08;142), qualora l'insegnante possa optare ed opti per la predetta legge. 
  

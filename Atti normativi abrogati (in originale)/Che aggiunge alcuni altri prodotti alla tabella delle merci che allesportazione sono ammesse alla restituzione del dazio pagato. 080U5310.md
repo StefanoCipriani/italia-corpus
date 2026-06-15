@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Vista la [legge del 25 luglio 1879, n. 4995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-07-25;4995) (Serie 2ª);
+Vista la [legge del 25 luglio 1879, n. 4995](Che%20modifica%20i%20dazi%20dentrata%20della%20tariffa%20doganale%20relativi%20agli%20zuccheri.%20079U4995.md) (Serie 2ª);
 
 Visto il decreto Reale del di' 14 agosto successivo, n. 5037 (Serie 2ª);
 
@@ -59,7 +59,7 @@ Sono applicabili all'esportazione dei prodotti accennati nel presente decreto le
 
 ## Art. 8.
 
-Agli impiegati ed agenti, che si rechino alle fabbriche per la verificazione dei prodotti da esportarsi competeranno le indennita' stabilite dal [R. decreto del 3 dicembre 1874, n. 2257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1874-12-03;2257). 
+Agli impiegati ed agenti, che si rechino alle fabbriche per la verificazione dei prodotti da esportarsi competeranno le indennita' stabilite dal [R. decreto del 3 dicembre 1874, n. 2257](Col%20quale%20e%20aumentato%20il%20prezzo%20dei%20piombi%20lamine%20e%20polizzini%20doganali%20da%20corrispondersi%20dal%20Commercio.%20074U2257.md). 
  
  Il direttore generale delle Gabelle e' incaricato della esecuzione del presente decreto. 
  

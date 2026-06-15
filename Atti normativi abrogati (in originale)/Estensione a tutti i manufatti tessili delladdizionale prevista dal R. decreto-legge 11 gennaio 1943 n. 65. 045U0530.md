@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'addizionale sul prezzo dei tessili istituita a favore dello Stato con l'[art. 3 del R. decreto-legge 11 gennaio 1943, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-01-11;65#art_3), dalla data di entrata in vigore del presente decreto e fino al 31 dicembre 1945, dovuta nella misura del sei per cento sul prezzo effettivo di vendita, anche quando non siasi fatto luogo a tipizzazione od assimilazione, per tutti i prodotti indicati nell'articolo medesimo a qualunque uso destinati, ad esclusione dei filati da industria da impiegarsi in ulteriori trasformazioni o lavorazioni. 
+L'addizionale sul prezzo dei tessili istituita a favore dello Stato con l'[art. 3 del R. decreto-legge 11 gennaio 1943, n. 65](Provvedimenti%20in%20materia%20di%20finanza%20locale.%20043U0065.md), dalla data di entrata in vigore del presente decreto e fino al 31 dicembre 1945, dovuta nella misura del sei per cento sul prezzo effettivo di vendita, anche quando non siasi fatto luogo a tipizzazione od assimilazione, per tutti i prodotti indicati nell'articolo medesimo a qualunque uso destinati, ad esclusione dei filati da industria da impiegarsi in ulteriori trasformazioni o lavorazioni. 
  
  L'addizionale e' dovuta dal produttore all'atto del trasferimento della merce ai commercianti all'ingrosso od al minuto o direttamente al consumatore. 
  

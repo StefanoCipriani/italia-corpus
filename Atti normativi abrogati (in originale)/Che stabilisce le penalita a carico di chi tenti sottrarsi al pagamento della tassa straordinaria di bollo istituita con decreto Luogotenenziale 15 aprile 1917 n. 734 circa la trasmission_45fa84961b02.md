@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Chiunque per sottrarsi al pagamento della tassa straordinaria di bollo istituita col Nostro decreto 15 aprile 1917, n. 734, opera la trasmissione di gemme, di gioielli, di perle, di vasellame e posaterie d'oro e d'argento, di orologi d'oro e in genere di oggetti confezionati con metalli preziosi, mediante una operazione di pegno, o in qualunque altro modo atto a dissimulare la vendita, e' punito con la pena fissata per il reato preveduto dall'[art. 413, n. 2, del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_413-num2). 
+Chiunque per sottrarsi al pagamento della tassa straordinaria di bollo istituita col Nostro decreto 15 aprile 1917, n. 734, opera la trasmissione di gemme, di gioielli, di perle, di vasellame e posaterie d'oro e d'argento, di orologi d'oro e in genere di oggetti confezionati con metalli preziosi, mediante una operazione di pegno, o in qualunque altro modo atto a dissimulare la vendita, e' punito con la pena fissata per il reato preveduto dall'[art. 413, n. 2, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Il presente decreto andra' in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta ufficiale. 
  

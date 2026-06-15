@@ -28,7 +28,7 @@ Vista la [legge 24 marzo 1932, n. 241](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Visto il [R. decreto 22 dicembre 1932, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-12-22;1728), contenente modificazioni alle disposizioni regolamentari sul conferimento dei posti di notaio;
 
-Vista la [legge 21 gennaio 1943, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-21;102), contenente provvidenze a favore dei chiamati alle armi nei concorsi per esame per la nomina a notaio;
+Vista la [legge 21 gennaio 1943, n. 102](Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nei%20concorsi%20per%20esame%20per%20la%20nomina%20a%20notaio.%20043U0102.md), contenente provvidenze a favore dei chiamati alle armi nei concorsi per esame per la nomina a notaio;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -85,7 +85,7 @@ La domanda di ammissione al concorso e le quietanze comprovanti il versamento de
 
 ## Art. 7.
 
-Per la costituzione e per il funzionamento della Commissione esaminatrice si applicano le disposizioni degli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_27), [28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_28), [35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_35) e [36 del R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_36), con le successive modificazioni, e del [R. decreto 2 maggio 1932, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-02;496).
+Per la costituzione e per il funzionamento della Commissione esaminatrice si applicano le disposizioni degli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_27), [28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_28), [35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_35) e [36 del R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_36), con le successive modificazioni, e del [R. decreto 2 maggio 1932, n. 496](Disposizioni%20sulla%20Commissione%20esaminatrice%20dei%20concorsi%20per%20posti%20di%20notaro%20modificazioni%20al%20R.%20decreto%2014%20novembre%201926%20n.%201953.%20032U0496.md).
  Ogni commissario dispone di 40 punti per la valutazione dei titoli di ciascun aspirante. La somma dei punti assegnati al concorrente costituisce il punto definitivo con il quale egli e' collocato in graduatoria.
  La Commissione in base al punto definitivo di ciascun concorrente forma la graduatoria generale dei concorrenti. A parita' di voti la precedenza in graduatoria e' determinata secondo le norme in vigore per i concorsi nell'Amministrazione dello Stato.
  Il Ministro, riconosciuta la regolarita' delle operazioni del concorso, approva con decreto la graduatoria, che viene pubblicata nel Bollettino ufficiale del Ministero di grazia e giustizia.
@@ -106,12 +106,12 @@ L'[art. 10, n. 12, del R. decreto 14 novembre 1926, n. 1953](https://www.normatt
 
 ## Art. 11.
 
-Le disposizioni dell'[art. 6 della legge 21 gennaio 1943, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-21;102#art_6), relative all'abbreviazione della pratica notarile sono estese a favore di tutti coloro che si trovino nelle condizioni previste dall'art. 2 numeri 1 e 2 del presente decreto.
- Le stesse disposizioni si applicano anche a favore di coloro che per effetto della [legge 29 giugno 1939, numero 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-29;1054), contenente norme di carattere razziale, non abbiano potuto ottenere in precedenza l'iscrizione fra i praticanti notai, o non abbiano potuto proseguire la pratica gia' iniziata.
+Le disposizioni dell'[art. 6 della legge 21 gennaio 1943, n. 102](Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nei%20concorsi%20per%20esame%20per%20la%20nomina%20a%20notaio.%20043U0102.md), relative all'abbreviazione della pratica notarile sono estese a favore di tutti coloro che si trovino nelle condizioni previste dall'art. 2 numeri 1 e 2 del presente decreto.
+ Le stesse disposizioni si applicano anche a favore di coloro che per effetto della [legge 29 giugno 1939, numero 1054](Disciplina%20dellesercizio%20delle%20professioni%20da%20parte%20dei%20cittadini%20di%20razza%20ebraica.%20039U1054.md), contenente norme di carattere razziale, non abbiano potuto ottenere in precedenza l'iscrizione fra i praticanti notai, o non abbiano potuto proseguire la pratica gia' iniziata.
 
 ## Art. 12.
 
-Sono abrogati gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-21;102#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-21;102#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-21;102#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-21;102#art_4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-21;102#art_5) e [10 della legge 21 gennaio 1943, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-21;102#art_10).
+Sono abrogati gli [articoli 1](Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nei%20concorsi%20per%20esame%20per%20la%20nomina%20a%20notaio.%20043U0102.md), [2](Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nei%20concorsi%20per%20esame%20per%20la%20nomina%20a%20notaio.%20043U0102.md), [3](Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nei%20concorsi%20per%20esame%20per%20la%20nomina%20a%20notaio.%20043U0102.md), [4](Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nei%20concorsi%20per%20esame%20per%20la%20nomina%20a%20notaio.%20043U0102.md), [5](Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nei%20concorsi%20per%20esame%20per%20la%20nomina%20a%20notaio.%20043U0102.md) e [10 della legge 21 gennaio 1943, n. 102](Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nei%20concorsi%20per%20esame%20per%20la%20nomina%20a%20notaio.%20043U0102.md).
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

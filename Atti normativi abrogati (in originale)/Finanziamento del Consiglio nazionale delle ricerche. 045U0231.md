@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 18, lettera a) del decreto legislativo Luogotenenziale 1° marzo 1945, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;82#art_18-leta);
+Visto l'[art. 18, lettera a) del decreto legislativo Luogotenenziale 1° marzo 1945, n. 82](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20045U0082.md);
 
 Visto il [decreto legislativo Luogotenenziale 31 dicembre 1944, n. 492](Approvazione%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20dei%20singoli%20Ministeri%20e%20del%20bilanci%20delle%20Amministrazioni%20autonome%20per%20lesercizio%20finanziario%201944-45.%20044U0492.md);
 

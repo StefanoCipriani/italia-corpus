@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo organico dell'ordinamento del personale degli uscieri giudiziari, approvato con [R. decreto 28 dicembre 1924, n. 2271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-28;2271);
+Visto il testo organico dell'ordinamento del personale degli uscieri giudiziari, approvato con [R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per la gius
 
 ## Art. 1.
 
-Il Governo del Re, in deroga all'art. 165 del testo organico dell'ordinamento del personale degli uscieri giudiziari, approvato con [R. decreto 28 dicembre 1924, n. 2271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-28;2271), e' autorizzato a conferire, senza concorso e con dispensa dai requisiti dei limiti di eta' e del titolo di studio, non piu' di trenta posti di usciere giudiziario all'attuale personale addetto alla pulizia, alla custodia, ed alla manutenzione del Palazzo di Giustizia in Roma, assunto in servizio prima della data di pubblicazione del presente decreto.
+Il Governo del Re, in deroga all'art. 165 del testo organico dell'ordinamento del personale degli uscieri giudiziari, approvato con [R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), e' autorizzato a conferire, senza concorso e con dispensa dai requisiti dei limiti di eta' e del titolo di studio, non piu' di trenta posti di usciere giudiziario all'attuale personale addetto alla pulizia, alla custodia, ed alla manutenzione del Palazzo di Giustizia in Roma, assunto in servizio prima della data di pubblicazione del presente decreto.
 
 ## Art. 2.
 

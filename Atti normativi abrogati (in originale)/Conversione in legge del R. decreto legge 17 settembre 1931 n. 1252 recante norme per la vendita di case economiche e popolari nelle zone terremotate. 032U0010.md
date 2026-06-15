@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  Articolo unico. 
  
  
- E' convertito in legge il [R. decreto-legge 17 settembre 1931, n. 1252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-17;1252), recante norme per la vendita di case economiche e popolari nelle zone terremotate. 
+ E' convertito in legge il [R. decreto-legge 17 settembre 1931, n. 1252](Norme%20per%20la%20vendita%20di%20case%20economiche%20e%20popolari%20nelle%20zone%20terremotate.%20031U1252.md), recante norme per la vendita di case economiche e popolari nelle zone terremotate. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

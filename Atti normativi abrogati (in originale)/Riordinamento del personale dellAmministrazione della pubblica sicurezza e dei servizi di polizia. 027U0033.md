@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395); sull'ordinamento gerarchico delle Amministrazioni dello Stato e successive estensioni e modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); sull'ordinamento gerarchico delle Amministrazioni dello Stato e successive estensioni e modificazioni;
 
 Visto il [R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441);
 
 Visto il [R. decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md), relativo alla costituzione del Corpo degli agenti di pubblica sicurezza;
 
-Visto il [R. decreto 17 gennaio 1926, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-17;596), col quale e' stato approvato il regolamento per il Corpo degli agenti di pubblica sicurezza;
+Visto il [R. decreto 17 gennaio 1926, n. 596](Approvazione%20del%20regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20026U0596.md), col quale e' stato approvato il regolamento per il Corpo degli agenti di pubblica sicurezza;
 
 Visto l'[art. 3, n. 2 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-I ruoli organici di cui alla tabella n. 44 dell'allegato-II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), gia' modificati col [R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441), sono sostituiti da quelli di cui alla tabella A annessa al presente decreto.
+I ruoli organici di cui alla tabella n. 44 dell'allegato-II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), gia' modificati col [R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441), sono sostituiti da quelli di cui alla tabella A annessa al presente decreto.
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ Ferme restando le disposizioni in vigore relative alla nomina al grado iniziale 
 
 ## Art. 3.
 
-L'indennita' di servizio speciale di cui all'[art. 187 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_187), gia' modificata con l'[articolo 9 del R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441#art_9), e' stabilita nella seguente misura: 
+L'indennita' di servizio speciale di cui all'[art. 187 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), gia' modificata con l'[articolo 9 del R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441#art_9), e' stabilita nella seguente misura: 
  
  Volontari . . . . . . . . . . . . . . . . . . . . . . . . . L. 3000 
  
@@ -64,7 +64,7 @@ L'indennita' di servizio speciale di cui all'[art. 187 del R. decreto 11 novembr
  Questori ed ispettori generali di pubblica sicurezza 
  di 1ª classe . . . . . . . . . . . . . . . . . . . . . . . » 9000 
  
- Tale indennita' e' computabile agli effetti della pensione limitatamente alle misure gia' fissate per i singoli gradi dall'[art. 187 del R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395#art_187); non e' invece computabile agli effetti stessi per i volontari.
+ Tale indennita' e' computabile agli effetti della pensione limitatamente alle misure gia' fissate per i singoli gradi dall'[art. 187 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); non e' invece computabile agli effetti stessi per i volontari.
 
 ## Art. 4.
 
@@ -119,7 +119,7 @@ Ai volontari ed agli inscritti di leva che abbiano conseguito dopo il 18 agosto 
 
 ## Art. 13.
 
-Gli articoli 5 e 6 del R. decreto-legge 2 aprile 1.925, n. 382, convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), sono abrogati. 
+Gli articoli 5 e 6 del R. decreto-legge 2 aprile 1.925, n. 382, convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), sono abrogati. 
  
  A partire dalla data di entrata in vigore del presente decreto le indennita' annesse alle tre rafferme triennali saranno corrisposte ai sottufficiali e militari di truppa dell'Arma dei carabinieri Reali nella seguente misura: 
  
@@ -141,7 +141,7 @@ L'importo complessivo dei premi di rafferma indicato in L. 6000 dall'[art. 8 del
 
 7000.
 
-Il secondo comma dell'art. 16 del regolamento generale del Corpo degli agenti di pubblica sicurezza, approvato con [R. decreto 17 gennaio 1926, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-17;596), e' modificato come segue: 
+Il secondo comma dell'art. 16 del regolamento generale del Corpo degli agenti di pubblica sicurezza, approvato con [R. decreto 17 gennaio 1926, n. 596](Approvazione%20del%20regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20026U0596.md), e' modificato come segue: 
  
  «Per i provenienti da altri Corpi la concessione delle rafferme con premio avra' sempre luogo indipendentemente dal numero degli anni di servizio comunque prestati, purche', tenuto conto dei premi di rafferma eventualmente percepiti in precedenza, l'ammontare complessivo di questi non superi la somma di L. 7000».
 
@@ -183,7 +183,7 @@ I posti aumentati nell'organico dei marescialli di 2ª e 3ª classe potranno ess
 
 ### Art. 23.
 
-A modificazione del disposto degli articoli 508 e seguenti del regolamento per il Corpo degli agenti di pubblica sicurezza, approvato con il [R. decreto 17 gennaio 1926, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-17;596), il completamento dei quadri dei brigadieri e dei vice-brigadieri sara' effettuato, anziche' per esame, a scelta del Ministero dell'interno, previo parere di apposite Commissioni e fermo restando l'inquadramento a scelta gia' effettuato per un decimo dell'organico.
+A modificazione del disposto degli articoli 508 e seguenti del regolamento per il Corpo degli agenti di pubblica sicurezza, approvato con il [R. decreto 17 gennaio 1926, n. 596](Approvazione%20del%20regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20026U0596.md), il completamento dei quadri dei brigadieri e dei vice-brigadieri sara' effettuato, anziche' per esame, a scelta del Ministero dell'interno, previo parere di apposite Commissioni e fermo restando l'inquadramento a scelta gia' effettuato per un decimo dell'organico.
 
 ### Art. 24.
 

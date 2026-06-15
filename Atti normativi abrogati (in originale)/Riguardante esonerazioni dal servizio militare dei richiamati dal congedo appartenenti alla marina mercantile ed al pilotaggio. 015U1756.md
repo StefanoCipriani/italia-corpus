@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-In forza dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); visto il [R. decreto 29 aprile 1915, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-29;561); visto il Nostro decreto 17 giugno 1915, n. 887;
+In forza dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); visto il [R. decreto 29 aprile 1915, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-29;561); visto il Nostro decreto 17 giugno 1915, n. 887;
 
 Udito il Consiglio dei ministri;
 

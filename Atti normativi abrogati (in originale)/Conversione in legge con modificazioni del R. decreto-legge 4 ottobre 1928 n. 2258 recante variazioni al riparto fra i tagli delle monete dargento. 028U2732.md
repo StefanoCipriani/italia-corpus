@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 4 ottobre 1928, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-10-04;2258), recante variazioni al riparto fra i tagli delle monete di argento; sostituendosi alla cifra « 775,000,000 » l'altra « 825,000,000 » ed alla cifra « 350,000,000 » l'altra « 300,000,000 ». 
+ E' convertito in legge il [R. decreto-legge 4 ottobre 1928, n. 2258](Nuovo%20riparto%20fra%20i%20tagli%20delle%20monete%20dargento.%20028U2258.md), recante variazioni al riparto fra i tagli delle monete di argento; sostituendosi alla cifra « 775,000,000 » l'altra « 825,000,000 » ed alla cifra « 350,000,000 » l'altra « 300,000,000 ». 
  
  Ordiniamo che la presente, munita del sigillo dello State, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

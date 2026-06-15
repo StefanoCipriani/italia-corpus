@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 24 gennaio 1923, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-24;62), che costituisce il Commissariato per l'aeronautica;
+Visto il [R. decreto 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), che costituisce il Commissariato per l'aeronautica;
 
-Visto il [R. decreto 28 marzo 1923, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-28;645), concernente la costituzione della Regia aeronautica;
+Visto il [R. decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md), concernente la costituzione della Regia aeronautica;
 
 Visto il decreto Commissariale 12 ottobre 1923, che costituisce il corpo dello Stato Maggiore generale della Regia aeronautica;
 
@@ -30,7 +30,7 @@ Di concerto coi Ministri per le finanze, per la guerra e per la marina; Abbiamo 
 
 ## Art. 1.
 
-La prima costituzione del ruolo del corpo di Stato Maggiore generale della Regia aeronautica si effettua mediante trasferimento nel corpo stesso di ufficiali del Regio esercito e della Regia marina con le norme di cui al secondo alinea del n. 12 del [Regio decreto 28 marzo 1923, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-28;645), concernente la costituzione della Regia aeronautica, e dell'art. 47 del decreto Commissariale 19 dicembre 1923. 
+La prima costituzione del ruolo del corpo di Stato Maggiore generale della Regia aeronautica si effettua mediante trasferimento nel corpo stesso di ufficiali del Regio esercito e della Regia marina con le norme di cui al secondo alinea del n. 12 del [Regio decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md), concernente la costituzione della Regia aeronautica, e dell'art. 47 del decreto Commissariale 19 dicembre 1923. 
  
  Gli ufficiali eventualmente restituiti ai corpi di origine riprendono il grado e l'anzianita' che avevano o che avrebbero potuto raggiungere nei corpi stessi, salvo le condizioni speciali richieste per l'avanzamento, quali: comando, imbarco e simili.
 

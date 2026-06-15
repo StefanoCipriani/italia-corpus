@@ -23,7 +23,7 @@ Saranno esclusi dal computo anche agli effetti della pensione i diritti di ricer
  
  Quando una parte del quinquennio di effettivo servizio valutabile per la pensione sia anteriore all'attuazione della presente legge, si applicheranno per la detta parte le norme preesistenti. 
  
- Le disposizioni del [R. decreto 10 agosto 1893, n. 492](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-08-10;492) non saranno applicabili a queste liquidazioni di penzioni.
+ Le disposizioni del [R. decreto 10 agosto 1893, n. 492](Che%20determina%20lassimilazione%20degli%20impiegati%20retribuiti%20ad%20aggio%20ed%20altri%20proventi%20agli%20impiegati%20di%20ruolo%20dellAmministrazione%20centrale%20delle%20finanze%20e%20del%20tesoro.%20093U0492.md) non saranno applicabili a queste liquidazioni di penzioni.
 
 ## Art. 3.
 

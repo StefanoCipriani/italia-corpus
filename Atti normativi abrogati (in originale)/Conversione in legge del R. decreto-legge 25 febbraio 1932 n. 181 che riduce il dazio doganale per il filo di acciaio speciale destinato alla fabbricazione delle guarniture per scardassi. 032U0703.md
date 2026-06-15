@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 25 febbraio 1932, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-02-25;181), che riduce il dazio doganale per il filo di acciaio speciale destinato alla fabbricazione delle guarniture per scardassi. 
+ E' convertito in legge il [R. decreto-legge 25 febbraio 1932, n. 181](Riduzione%20daziaria%20per%20il%20filo%20di%20acciaio%20speciale%20destinato%20alla%20fabbricazione%20delle%20guarniture%20per%20scardassi.%20032U0181.md), che riduce il dazio doganale per il filo di acciaio speciale destinato alla fabbricazione delle guarniture per scardassi. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 6 giugno 1932 - Anno X 
  

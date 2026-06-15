@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 8 gennaio 1952, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-01-08;15), concernente revisione e unificazione dell'indennita' di specializzazione dovuta ai sottufficiali, graduati e militari di truppa dell'Esercito, della Marina e dell'Aeronautica, specializzati o specialisti;
+Vista la [legge 8 gennaio 1952, n. 15](Revisione%20e%20unificazione%20della%20indennita%20di%20specializzazione%20dovuta%20ai%20sottufficiali%20graduati%20e%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20specializzati%20o%20specialisti.md), concernente revisione e unificazione dell'indennita' di specializzazione dovuta ai sottufficiali, graduati e militari di truppa dell'Esercito, della Marina e dell'Aeronautica, specializzati o specialisti;
 
 Vista la [legge 30 ottobre 1955, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-10-30;1).061, recante norme per la ripartizione in categorie degli specializzati o specialisti dell'Esercito, della farina e dell'Aeronautica;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-Alle categorie di specializzazione del 1° gruppo previste dalla tabella 1 annessa alla [legge 8 gennaio 1952, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-01-08;15), sono aggiunte le seguenti:
+Alle categorie di specializzazione del 1° gruppo previste dalla tabella 1 annessa alla [legge 8 gennaio 1952, n. 15](Revisione%20e%20unificazione%20della%20indennita%20di%20specializzazione%20dovuta%20ai%20sottufficiali%20graduati%20e%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20specializzati%20o%20specialisti.md), sono aggiunte le seguenti:
  Esercito:
  operatori per ponti radio,
  radiometri montatori,
@@ -58,7 +58,7 @@ Alle categorie di specializzazione del 1° gruppo previste dalla tabella 1 annes
 
 ## Art. 2.
 
-Alle categorie di specializzazione del 2° gruppo previste dalla tabella I annessa alla [legge 8 gennaio 1952, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-01-08;15), sono aggiunte le seguenti:
+Alle categorie di specializzazione del 2° gruppo previste dalla tabella I annessa alla [legge 8 gennaio 1952, n. 15](Revisione%20e%20unificazione%20della%20indennita%20di%20specializzazione%20dovuta%20ai%20sottufficiali%20graduati%20e%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20specializzati%20o%20specialisti.md), sono aggiunte le seguenti:
  Esercito:
  alpini sciatori,
  maniscalchi.
@@ -87,7 +87,7 @@ Alle categorie di specializzazione del 2° gruppo previste dalla tabella I annes
 
 ## Art. 3.
 
-Alle categorie di specializzazione del 3° gruppo previste dalla tabella. I annessa alla [legge 8 gennaio 1952, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-01-08;15), sono apportate le seguenti varianti:
+Alle categorie di specializzazione del 3° gruppo previste dalla tabella. I annessa alla [legge 8 gennaio 1952, n. 15](Revisione%20e%20unificazione%20della%20indennita%20di%20specializzazione%20dovuta%20ai%20sottufficiali%20graduati%20e%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20specializzati%20o%20specialisti.md), sono apportate le seguenti varianti:
  Esercito:
  E' soppressa la categoria "maniscalchi".
  Aeronautica:
@@ -95,7 +95,7 @@ Alle categorie di specializzazione del 3° gruppo previste dalla tabella. I anne
 
 ## Art. 4.
 
-Alle cariche previste dalla tabella II annessa alla [legge 8 gennaio 1952, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-01-08;15), per le quali e' dovuto l'aumento di lire 40 giornaliere dell'indennita' di specializzazione, sono aggiunte le seguenti:
+Alle cariche previste dalla tabella II annessa alla [legge 8 gennaio 1952, n. 15](Revisione%20e%20unificazione%20della%20indennita%20di%20specializzazione%20dovuta%20ai%20sottufficiali%20graduati%20e%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20specializzati%20o%20specialisti.md), per le quali e' dovuto l'aumento di lire 40 giornaliere dell'indennita' di specializzazione, sono aggiunte le seguenti:
  Aeronautica:
  capo squadra di linea,
  capo radar meccanico,

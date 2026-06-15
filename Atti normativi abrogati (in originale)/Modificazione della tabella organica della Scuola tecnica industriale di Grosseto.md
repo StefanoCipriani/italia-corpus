@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
- Visto il [regio decreto 28 settembre 1933, n. 2042](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-28;2042), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Grosseto;
+ Visto il [regio decreto 28 settembre 1933, n. 2042](Trasformazione%20del%20Regio%20laboratorio-scuola%20di%20Grosseto%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2042.md), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Grosseto;
  Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1948, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1948-06-27;107#art_10);
  Considerata l'opportunita' di istituire, per esigenze di servizio, un posto di segretario economo di ruolo;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;

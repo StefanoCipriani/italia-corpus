@@ -59,7 +59,7 @@ Alle spese di funzionamento dell'Ente si provvedera' con una quota da prelevare 
 
 L'Ente per la zona industriale di Roma provvede alla compilazione dei piani particolareggiati di espropriazione e alla pubblicazione degli elenchi dei beni da espropriare, ai sensi del capo terzo della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), indicando il prezzo offerto. 
  
- Decorsi 15 giorni dalla pubblicazione, il prefetto, su richiesta dell'Ente, ordina il deposito delle somme offerte nella Cassa depositi e prestiti e, in seguito alla presentazione dei certificati comprovanti l'eseguito deposito, pronuncia l'espropriazione, autorizzando l'occupazione dei beni. Per tutto quanto non previsto dalla presente legge si applicano le disposizioni del [R. decreto-legge 6 luglio 1931, n. 981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-07-06;981), sul piano regolatore di Roma e sue successive modificazioni.
+ Decorsi 15 giorni dalla pubblicazione, il prefetto, su richiesta dell'Ente, ordina il deposito delle somme offerte nella Cassa depositi e prestiti e, in seguito alla presentazione dei certificati comprovanti l'eseguito deposito, pronuncia l'espropriazione, autorizzando l'occupazione dei beni. Per tutto quanto non previsto dalla presente legge si applicano le disposizioni del [R. decreto-legge 6 luglio 1931, n. 981](Approvazione%20del%20piano%20regolatore%20della%20citta%20di%20Roma%20e%20delle%20norme%20per%20la%20sua%20attuazione.%20031U0981.md), sul piano regolatore di Roma e sue successive modificazioni.
 
 ## Art. 9.
 
@@ -103,7 +103,7 @@ L'Amministrazione delle ferrovie dello Stato provvedera', a propria cura e spese
 
 ## Art. 14.
 
-Nulla e' innovato, per gli stabilimenti di cui agli articoli precedenti, alle norme del [Regio decreto-legge 18 novembre 1929, n. 2488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-18;2488), convertito nella [legge 18 dicembre 1930, n. 1808](Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20novembre%201929%20n.%202488%20concernente%20la%20disciplina%20della%20fabbricazione%20di%20prodotti%20essenziali%20alla%20difesa%20dello%20Stato.%20030U1808.md), e della [legge 12 gennaio 1933, n. 141](Delega%20al%20Governo%20dei%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0141.md), e relativi decreti di applicazione. 
+Nulla e' innovato, per gli stabilimenti di cui agli articoli precedenti, alle norme del [Regio decreto-legge 18 novembre 1929, n. 2488](Disciplina%20della%20fabbricazione%20di%20prodotti%20essenziali%20alla%20difesa%20dello%20Stato.%20029U2488.md), convertito nella [legge 18 dicembre 1930, n. 1808](Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20novembre%201929%20n.%202488%20concernente%20la%20disciplina%20della%20fabbricazione%20di%20prodotti%20essenziali%20alla%20difesa%20dello%20Stato.%20030U1808.md), e della [legge 12 gennaio 1933, n. 141](Delega%20al%20Governo%20dei%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0141.md), e relativi decreti di applicazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetta di osservarla e di farla osservare, come legge dello Stato. 
  

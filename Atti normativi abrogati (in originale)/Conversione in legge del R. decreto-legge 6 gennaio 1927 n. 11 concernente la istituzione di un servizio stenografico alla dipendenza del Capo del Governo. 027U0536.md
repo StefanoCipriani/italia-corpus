@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 6 gennaio 1927, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-06;11), concernente la istituzione di un servizio stenografico alla dipendenza del Capo del Governo. 
+ E' convertito in legge il [R. decreto-legge 6 gennaio 1927, n. 11](Istituzione%20di%20un%20servizio%20stenografico%20alla%20dipendenza%20del%20Capo%20del%20Governo.%20027U0011.md), concernente la istituzione di un servizio stenografico alla dipendenza del Capo del Governo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

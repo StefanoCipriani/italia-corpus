@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le colonie, di concer
 
 Nelle Colonie italiane e' concessa amnistia per tutti i reati per i quali la legge commina una pena detentiva, sola o congiunta a pene pecuniarie o accessorie, non superiore, nel massimo, a cinque anni, oppure una pena pecuniaria. 
  
- L'amnistia si applica anche ai reati per i quali il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) abrogato comminava una pena detentiva, sola o congiunta ad altre pene, superiore nel massimo a cinque anni, sempreche' per tali reati il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) vigente commini una pena detentiva, sola o congiunta ad altre pene, non superiore a detta misura.
+ L'amnistia si applica anche ai reati per i quali il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) abrogato comminava una pena detentiva, sola o congiunta ad altre pene, superiore nel massimo a cinque anni, sempreche' per tali reati il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) vigente commini una pena detentiva, sola o congiunta ad altre pene, non superiore a detta misura.
 
 ## Art. 2.
 
@@ -49,13 +49,13 @@ b) la inibizione dall'esercizio della navigazione, inflitte o da infliggere.
 
 ## Art. 4.
 
-Le disposizioni di coi agli articoli 1 e 2 non si applicano ai delitti contro la personalita' dello Stato previsti dal titolo primo del libro secondo del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
+Le disposizioni di coi agli articoli 1 e 2 non si applicano ai delitti contro la personalita' dello Stato previsti dal titolo primo del libro secondo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 
 Sono altresi' esclusi dai benefici concessi con le precedenti disposizioni degli articoli 1, 2 e 3 coloro che a tutto il 4 novembre 1932 si trovavano sottoposti al confino di polizia od all'ammonizione e coloro che all'epoca del commesso reato avessero riportato due condanne per delitti a pene detentive di cui una superiore a tre mesi oppure tre o piu' condanne per delitti a pene detentive, qualunque sia la misura di esse. 
  
- Tuttavia non si tiene conto, a tale effetto, delle condanne alle pene stabilite nei [numeri 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_4-num3) e [5 dell'art. 4 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_4-num5) per l'esercito e del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo. Sono anche esclusi dal beneficio di cui all'art. 2 del presente decreto coloro che si trovino in stato di latitanza, salvo che si costituiscano in carcere entro quattro mesi dalla data di entrata in vigore del presente decreto. 
+ Tuttavia non si tiene conto, a tale effetto, delle condanne alle pene stabilite nei [numeri 3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [5 dell'art. 4 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. Sono anche esclusi dal beneficio di cui all'art. 2 del presente decreto coloro che si trovino in stato di latitanza, salvo che si costituiscano in carcere entro quattro mesi dalla data di entrata in vigore del presente decreto. 
  
  La disposizione di cui al comma precedente non si applica nel caso in cui la pena sia intieramente condonata dalle norme del presente decreto.
 
@@ -75,17 +75,17 @@ Dalle disposizioni di cui all'art. 1 sono esclusi i reati preveduti nelle leggi 
 
 ## Art. 9.
 
-E' concessa amnistia per i reati preveduti nelle leggi penali militari per i quali la legge commina la pena del carcere militare ovvero quella della reclusione militare non superiore nel massimo a cinque anni o le pene di cui al [n. 5 dell'art. 4 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_4-num5) per l'esercito e del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo anche se accessorie alle su indicate pene detentive.
+E' concessa amnistia per i reati preveduti nelle leggi penali militari per i quali la legge commina la pena del carcere militare ovvero quella della reclusione militare non superiore nel massimo a cinque anni o le pene di cui al [n. 5 dell'art. 4 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo anche se accessorie alle su indicate pene detentive.
 
 ## Art. 10.
 
 L'indulto di cui all'art. 2 si applica anche alle pene detentive inflitte o da infliggere per reati preveduti nelle leggi penali militari. 
  
- Sono inoltre condonate, fuori dei casi preveduti nel precedente art. 9, le pene di cui al [n. 5 dell'art. 4 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_4-num5) per l'esercito e [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare Marittimo.
+ Sono inoltre condonate, fuori dei casi preveduti nel precedente art. 9, le pene di cui al [n. 5 dell'art. 4 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare Marittimo.
 
 ## Art. 11.
 
-L'amnistia e indulto di cui nei precedenti articoli 9 e 10 non hanno effetto relativamente alla perdita del grado conseguente alle pene di cui al [n. 5 dell'art. 4 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_4-num5) per l'esercito e del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) militare marittimo.
+L'amnistia e indulto di cui nei precedenti articoli 9 e 10 non hanno effetto relativamente alla perdita del grado conseguente alle pene di cui al [n. 5 dell'art. 4 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
 
 ## Art. 12.
 
@@ -175,7 +175,7 @@ a) retrocessione dal grado inflitta ai sensi del paragrafo 185, n. 4, e 188 del 
  
 b) licenziamento dal servizio disposto ai sensi del paragrafo 181 n. 4, 185 n. 3, e 170 lettera A, B, C e D del suddetto regolamento; 
  
-c) espulsione dalle truppe indigene inflitta ai sensi del par. 181 n. 5, 185 n. 5 e 180 del citato regolamento (esclusa la espulsione pronunciata ai sensi del par. 180 lettera B, quando la condanna importa la degradazione ai sensi dei [nn. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_5-num2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_5-num3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_5-num4) e [5 dell'articolo 5 Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_5-num5) esercito).
+c) espulsione dalle truppe indigene inflitta ai sensi del par. 181 n. 5, 185 n. 5 e 180 del citato regolamento (esclusa la espulsione pronunciata ai sensi del par. 180 lettera B, quando la condanna importa la degradazione ai sensi dei [nn. 2](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [4](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [5 dell'articolo 5 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) esercito).
 
 ## Art. 27.
 

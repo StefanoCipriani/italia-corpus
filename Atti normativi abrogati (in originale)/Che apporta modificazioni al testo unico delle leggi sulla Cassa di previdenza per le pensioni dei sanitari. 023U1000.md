@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sulla Cassa di previdenza per le pensioni dei sanitari, approvato con [R. D. 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), libro III, parte terza;
+Visto il testo unico delle leggi sulla Cassa di previdenza per le pensioni dei sanitari, approvato con [R. D. 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), libro III, parte terza;
 
 Visto il [decreto luogotenenziale 14 novembre 1918, numero 1779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-14;1779), che sopprime presso la Cassa predetta i conti individuali, convertito in [legge 6 luglio 1922, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-07-06;497);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro ministro segretario di Stato per le finanze di concert
 
 ## Art. 1.
 
-Al testo unico delle leggi sulla Cassa di previdenza por le pensioni dei sanitari, approvato con [Regio decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), libro III parte terza, sono apportato le seguenti modificazioni: 
+Al testo unico delle leggi sulla Cassa di previdenza por le pensioni dei sanitari, approvato con [Regio decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), libro III parte terza, sono apportato le seguenti modificazioni: 
  
  Art. 1. - La Cassa di previdenza per le pensioni dei sanitari, istituita sotto la denominazione: «Cassa pensioni a favore dei medici condotti», con la [legge 14 luglio 1898, n. 335](Che%20istituisce%20una%20Cassa-pensioni%20a%20favore%20dei%20medici%20condotti.%20098U0335.md), provvede dei medici condotti, ai veterinari ed altri sanitari con nomina regolare in posti legalmente istituiti alla dipendenza dei comuni, delle provincie e delle istituzioni pubbliche di beneficenza, e agli ufficiali sanitari, nonche' ai medici e veterinari coloniali e agli altri medici in servizio dello Stato che non abbiamo altrimenti diritto a pensione. 
  
@@ -287,7 +287,7 @@ Quando il servizio da riconoscere al sanitario agli effetti del trattamento di r
  
  Fermi restando i termini di cui ai commi precedenti, la domanda di riconoscimento devo essere sottoscritta, o presentata dal sanitario prima della sua cessazione definitiva dal servizio. 
  
- La domanda sopradetta sara' sottoposta alla deliberazione del Consiglio di amministrazione. Contro tale deliberazione potra' essere presentato ricorso alla Corte dei conti in Sezioni unita' nei termini e nei modi di cui all'art. 34 del testo unico approvato con [Regio decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), libro III, parte 3ª modificato col precedente articolo 1. 
+ La domanda sopradetta sara' sottoposta alla deliberazione del Consiglio di amministrazione. Contro tale deliberazione potra' essere presentato ricorso alla Corte dei conti in Sezioni unita' nei termini e nei modi di cui all'art. 34 del testo unico approvato con [Regio decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), libro III, parte 3ª modificato col precedente articolo 1. 
  
  Le deliberazioni del Consiglio di amministrazione diventano definitivo o per accettazione delle parti interessate, o per decorrenza di termini o per decisione della Corte dei conti.
 
@@ -305,7 +305,7 @@ Il sanitario ha la facolta' di versare il premio di riscatto di cui all'articolo
  
  I debitori morosi saranno tenuti al pagamento degli interessi composti del cinque per cento, sulle rate scadute e non ancora pagate. 
  
- L'importo annuo delle rate di premio di riscatto da versarsi dal sanitario che abbia ottenuto di pagare ratealmente sara' compreso nell'elenco dei contributi dovuti dall'ente presso cui presta servizio, il quale ha il diritto di rivalsa sullo stipendio del sanitario e sara' versato alla Cassa con le norme stabilito nell'art. 1, sub. 8, del presente decreto, e negli articoli 9, 10 e 11 del testo unico approvato con [regio decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), libro III parte terza.
+ L'importo annuo delle rate di premio di riscatto da versarsi dal sanitario che abbia ottenuto di pagare ratealmente sara' compreso nell'elenco dei contributi dovuti dall'ente presso cui presta servizio, il quale ha il diritto di rivalsa sullo stipendio del sanitario e sara' versato alla Cassa con le norme stabilito nell'art. 1, sub. 8, del presente decreto, e negli articoli 9, 10 e 11 del testo unico approvato con [regio decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), libro III parte terza.
 
 ## Art. 10.
 
@@ -325,7 +325,7 @@ Ai veterinari iscritti alla Cassa alla data di pubblicazione del presente decret
 
 ## Art. 12.
 
-Ai sanitari nominati regolarmente per la prima volta dopo l'attuazione del [Regio decreto 18 settembre 1919, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-18;1825), e' concesso il riconoscimento, agli effetti del trattamento di riposo, del periodo di servizio provvisorio o interinale eventualmente prestato prima della nomina regolare nello stesso ente uve furono poi regolarmente nominati, purche' i servizi stessi siano stati iniziati dopo l'attuazione del [decreto luogotenenziale 31 agosto 1915, n. 1420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-31;1420), e prima dell'entrata in vigore del Regio decreto suddetto, e fra i servizi medesimi e quelli prestati con nomina regolare non vi sia stata interruzione, e sempreche' la domanda, di riconoscimento venga presentata dal sanitario nei termini indicati nell'articolo 7 del presento decreto. 
+Ai sanitari nominati regolarmente per la prima volta dopo l'attuazione del [Regio decreto 18 settembre 1919, n. 1825](Che%20abroga%20lart.%203%20del%20decreto%20Luogotenenziale%2031%20agosto%201915%20n.%201420%20riguardante%20provvedimenti%20per%20il%20personale%20delle%20Amministrazioni%20degli%20enti%20locali%20in%20corso%20di%20richiamo%20alle%20armi%20e%20d_b698bd4ce097.md), e' concesso il riconoscimento, agli effetti del trattamento di riposo, del periodo di servizio provvisorio o interinale eventualmente prestato prima della nomina regolare nello stesso ente uve furono poi regolarmente nominati, purche' i servizi stessi siano stati iniziati dopo l'attuazione del [decreto luogotenenziale 31 agosto 1915, n. 1420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-31;1420), e prima dell'entrata in vigore del Regio decreto suddetto, e fra i servizi medesimi e quelli prestati con nomina regolare non vi sia stata interruzione, e sempreche' la domanda, di riconoscimento venga presentata dal sanitario nei termini indicati nell'articolo 7 del presento decreto. 
  
  Il premio di riscatto da pagarsi dall'iscritto che ottenga il riconoscimento dei servizi di cui al comma precedente, e' dato dal capitale corrispondente al contributo personale di cui all'articolo 1, sub. 5, del presente decreto, per un periodo di tempo eguale a quello riconosciuto, con i relativi interessi composti al saggio legale. 
  
@@ -343,7 +343,7 @@ A partire dalla data di attuazione del presento decreto, la indennita' e la pens
  
  A decorrere dalla data predetta le tabelle A o B annesse al testo unico approvato con [Regio decreto 3 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-03;453), libro III, parte terza, sono sostituite da quelle annesse al presente decreto. 
  
- La valutazione dello maggiori quote d'indennita' e di pensioni dirotte e indirette da liquidarsi in corrispondenza ai contributi di categoria superiore alla normale versate per il periodo sino al e gennaio 1909, continuera' ad essere eseguita tenuto conto delle disposizioni degli articoli 16, 1° capoverso, e 18 della leggo 14 luglio 1898, n. 335, e degli articoli 20 e 21 del testo unico, approvato con [Regio decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453), libro III parte terza, mediante l'applicazione delle tabelle A e.11 annesse al testo unico medesimo. 
+ La valutazione dello maggiori quote d'indennita' e di pensioni dirotte e indirette da liquidarsi in corrispondenza ai contributi di categoria superiore alla normale versate per il periodo sino al e gennaio 1909, continuera' ad essere eseguita tenuto conto delle disposizioni degli articoli 16, 1° capoverso, e 18 della leggo 14 luglio 1898, n. 335, e degli articoli 20 e 21 del testo unico, approvato con [Regio decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md), libro III parte terza, mediante l'applicazione delle tabelle A e.11 annesse al testo unico medesimo. 
  
  Per la trasformazione in assegno vitalizio dei capitoli accumulati coi versamenti volontari di cui all'art. 1, sub. 5, del presente decreto sara', applicata l'annessa tabella B.
 

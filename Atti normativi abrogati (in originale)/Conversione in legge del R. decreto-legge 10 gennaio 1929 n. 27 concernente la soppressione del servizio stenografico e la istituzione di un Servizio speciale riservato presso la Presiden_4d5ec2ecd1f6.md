@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 gennaio 1929, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-10;27), concernente la soppressione del servizio stenografico e la istituzione di un «Servizio speciale riservato» presso la Presidenza del Consiglio dei Ministri. 
+ E' convertito in legge il [R. decreto-legge 10 gennaio 1929, n. 27](Soppressione%20del%20Servizio%20stenografico%20ed%20istituzione%20di%20un%20Servizio%20speciale%20riservato%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri.%20029U0027.md), concernente la soppressione del servizio stenografico e la istituzione di un «Servizio speciale riservato» presso la Presidenza del Consiglio dei Ministri. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

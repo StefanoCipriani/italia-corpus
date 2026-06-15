@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-09-28;1703), che ha dato esecuzione all'Accordo dei pagamenti tra l'Italia e la Romania del 27 agosto 1934 e al relativo Protocollo di firma. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1934, n. 1703](Approvazione%20dellAccordo%20dei%20pagamenti%20fra%20lItalia%20e%20la%20Rumenia%20del%2027%20agosto%201934%20con%20Protocollo%20di%20firma.%20034U1703.md), che ha dato esecuzione all'Accordo dei pagamenti tra l'Italia e la Romania del 27 agosto 1934 e al relativo Protocollo di firma. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

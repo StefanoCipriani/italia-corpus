@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 22 marzo 1934, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-03-22;646), che ha dato esecuzione al Trattato di commercio e di navigazione tra il Regno d'Italia e la Repubblica del Salvador, firmato a San Salvador il 19 marzo 1934, con Protocollo finale e uno scambio di Note di pari data. 
+ E' convertito in legge il [R. decreto-legge 22 marzo 1934, n. 646](Approvazione%20del%20Trattato%20di%20commercio%20e%20di%20navigazione%20fra%20il%20Regno%20dItalia%20e%20la%20Repubblica%20del%20Salvador%20firmato%20a%20San%20Salvador%20il%2019%20marzo%201934.%20034U0646.md), che ha dato esecuzione al Trattato di commercio e di navigazione tra il Regno d'Italia e la Repubblica del Salvador, firmato a San Salvador il 19 marzo 1934, con Protocollo finale e uno scambio di Note di pari data. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

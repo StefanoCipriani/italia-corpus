@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il Nostro decreto 31 gennaio 1924, n. 343, convertito nella [legge 15 luglio 1926, n. 1588](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-15;1588), con cui furono approvati gli atti stipulati a Losanna il 24 luglio 1924 tra l'Italia ed altri Stati da una parte e la Turchia dall'altra;
+Veduto il Nostro decreto 31 gennaio 1924, n. 343, convertito nella [legge 15 luglio 1926, n. 1588](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20del%20R.%20decreto%20legge%2031%20gennaio%201924%20n.%20343%20col%20quale%20sono%20approvati%20alcuni%20atti%20internazionali%20fra%20lItalia%20ed%20altri%20Stati%20da%20una%20parte%20e%20la%20Turchia%20dallaltra%20firmati_deb4aade4de9.md), con cui furono approvati gli atti stipulati a Losanna il 24 luglio 1924 tra l'Italia ed altri Stati da una parte e la Turchia dall'altra;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

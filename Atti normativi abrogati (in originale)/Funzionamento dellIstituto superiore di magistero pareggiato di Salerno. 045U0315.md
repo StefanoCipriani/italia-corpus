@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'Istituto superiore di magistero pareggiato istituito nella citta' di Salerno col [R. decreto 9 marzo 1944, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-03-09;149), continuera' a funzionare sino a tutto l'anno accademico durante il quale verra' dichiarata la cessazione dello stato di guerra.
+L'Istituto superiore di magistero pareggiato istituito nella citta' di Salerno col [R. decreto 9 marzo 1944, n. 149](Istituzione%20in%20Salerno%20di%20un%20Istituto%20Superiore%20di%20Magistero.%20044U0149.md), continuera' a funzionare sino a tutto l'anno accademico durante il quale verra' dichiarata la cessazione dello stato di guerra.
 
 ## Art. 2.
 

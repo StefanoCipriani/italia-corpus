@@ -21,7 +21,7 @@ A richiesta degli interessati, la Cassa dei depositi e prestiti provvedera' all'
 
 ## Art. 3.
 
-Agli effetti dell'art. 145 del Codice di commercio e dell'art. 55 del regolamento per l'esecuzione del Codice stesso, approvato con [R. decreto 27 dicembre 1882, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-12-27;1139) (serie 3ª), sono equiparati ai titoli del debito consolidato i titoli di rendita redimibile emessi o da emettere, in conformita' delle [leggi 24 dicembre 1908, n. 731, e 15 maggio 1910, n. 228](Provvedimenti%20per%20i%20debiti%20redimibili%20010U0228.md). 
+Agli effetti dell'art. 145 del Codice di commercio e dell'art. 55 del regolamento per l'esecuzione del Codice stesso, approvato con [R. decreto 27 dicembre 1882, n. 1139](Col%20quale%20viene%20approvato%20il%20regolamento%20per%20lesecuzione%20del%20codice%20di%20commercio.%20082U1139.md) (serie 3ª), sono equiparati ai titoli del debito consolidato i titoli di rendita redimibile emessi o da emettere, in conformita' delle [leggi 24 dicembre 1908, n. 731, e 15 maggio 1910, n. 228](Provvedimenti%20per%20i%20debiti%20redimibili%20010U0228.md). 
  
  Con decreto Reale promosso dal ministro del tesoro, di concerto con quello di agricoltura, industria e commercio, potra' autorizzarsi di volta in volta l'impiego in altri titoli di Stato, non appartenenti al debito consolidato, delle somme da depositarsi agli effetti dell'art. 145 del Codice di commercio.
 
@@ -67,7 +67,7 @@ Per i mutui da assumersi dai Comuni, ai termini dell'art. 6 della legge ([testo 
 
 ## Art. 12.
 
-Il cumulo dei servizi di cui all'art. 32 del testo unico delle leggi sul Monte pensioni degli insegnanti elementari, approvato con [R. decreto 31 gennaio 1909, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;97), e' ammesso anche quando il pensionando cessi dal servizio attivo alla dipendenza dello Stato in una delle qualita' specificate nell'articolo stesso, e per la liquidazione delle pensioni o delle indennita' saranno applicate le disposizioni del predetto testo unico delle leggi sul Monte. 
+Il cumulo dei servizi di cui all'art. 32 del testo unico delle leggi sul Monte pensioni degli insegnanti elementari, approvato con [R. decreto 31 gennaio 1909, n. 97](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20Monte-pensioni%20per%20glinsegnanti%20nelle%20scuole%20pubbliche%20elementari%20negli%20asili%20d%20infanzia%20e%20nei%20RR.%20educatori%20femminili%20a%20patrimonio%20sorveg_aa735f9be188.md), e' ammesso anche quando il pensionando cessi dal servizio attivo alla dipendenza dello Stato in una delle qualita' specificate nell'articolo stesso, e per la liquidazione delle pensioni o delle indennita' saranno applicate le disposizioni del predetto testo unico delle leggi sul Monte. 
  
  Avra' pero' facolta' di richiedere la liquidazione a norma delle leggi sugli impiegati civili, per tutta la durata del servizio, compreso quello prestato, sia ai Comuni che allo Stato, nella qualita' di sotto maestro, incaricato, supplente, assistente e in soprannumero, il pensionando che si trovi alle dipendenze dello Stato. 
  

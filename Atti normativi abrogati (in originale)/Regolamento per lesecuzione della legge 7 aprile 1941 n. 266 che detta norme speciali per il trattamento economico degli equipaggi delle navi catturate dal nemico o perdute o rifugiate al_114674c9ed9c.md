@@ -306,7 +306,7 @@ Restano fermi gli obblighi derivanti dalla legge e dai contratti per quanto rigu
 
 ## Art. 17.
 
-A termini dell'ultimo comma dell'art. 5 della legge, perdono il trattamento della legge stessa i marittimi che subiscano condanne all'estero per un delitto punibile nel minimo con la pena di tre anni di reclusione o con pena piu' grave, oppure per furto, truffa, appropriazione indebita, ricettazione, o per un delitto contro la fede pubblica, e in quanto le sentenze siano state deliberate nel Regno ai termini dell'[art. 12 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_12), o che incorrano nelle sanzioni disciplinari della inibizione dalla navigazione per un periodo di due anni. 
+A termini dell'ultimo comma dell'art. 5 della legge, perdono il trattamento della legge stessa i marittimi che subiscano condanne all'estero per un delitto punibile nel minimo con la pena di tre anni di reclusione o con pena piu' grave, oppure per furto, truffa, appropriazione indebita, ricettazione, o per un delitto contro la fede pubblica, e in quanto le sentenze siano state deliberate nel Regno ai termini dell'[art. 12 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o che incorrano nelle sanzioni disciplinari della inibizione dalla navigazione per un periodo di due anni. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserito nella raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -18,7 +18,7 @@ I militari trasferiti dal R. esercito alla R. marina e viceversa resteranno vinc
 
 ## Art. 3.
 
-I militari trasferiti dal R. esercito alla R. marina, se appartenenti all'esercito permanente o alla milizia mobile saranno inscritti nei ruoli del corpo R. equipaggi; gli altri faranno parte della riserva navale, ai termini dell'art. 12 del testo unico delle leggi sulla leva marittima, approvato con [R. decreto 16 dicembre 1888, n. 5860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-12-16;5860). 
+I militari trasferiti dal R. esercito alla R. marina, se appartenenti all'esercito permanente o alla milizia mobile saranno inscritti nei ruoli del corpo R. equipaggi; gli altri faranno parte della riserva navale, ai termini dell'art. 12 del testo unico delle leggi sulla leva marittima, approvato con [R. decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md). 
  
  Quelli trasferiti dalla R. marina al R. esercito prima del 31 dicembre del 12° anno del loro obbligo di servizio rimarranno ascritti all'esercito permanente fino alla data suddetta, nella quale essi faranno passaggio nella milizia territoriale. Coloro invece che vi siano trasferiti posteriormente saranno direttamente ascritti alla milizia territoriale.
 

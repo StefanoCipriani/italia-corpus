@@ -32,7 +32,7 @@ L'Azienda di Stato per le foreste demaniali ha i seguenti scopi:
 
 Il patrimonio dell'Azienda di Stato per le foreste demaniali e' costituito come segue: 
  
- a) boschi, terreni e fabbricati gia' amministrati dall'Azienda istituita col [R. decreto-legge 17 febbraio 1927, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;324); 
+ a) boschi, terreni e fabbricati gia' amministrati dall'Azienda istituita col [R. decreto-legge 17 febbraio 1927, n. 324](Soppressione%20della%20Direzione%20generale%20delle%20foreste%20e%20dei%20demani%20ed%20istituzione%20dell%20Azienda%20Foreste%20Demaniali%20.%20027U0324.md); 
  
  b) fondi pubblici depositati al conto corrente dalla Cassa depositi e prestiti per conto dell'Azienda di cui alla lettera a); 
  
@@ -42,7 +42,7 @@ Il patrimonio dell'Azienda di Stato per le foreste demaniali e' costituito come 
  
  e) beni mobili esistenti presso le singole foreste demaniali. 
  
- L'Azienda di Stato per le foreste demaniali si assume anche le passivita' del cessato ente istituito dal [R. decreto-legge 17 febbraio 1927, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;324).
+ L'Azienda di Stato per le foreste demaniali si assume anche le passivita' del cessato ente istituito dal [R. decreto-legge 17 febbraio 1927, n. 324](Soppressione%20della%20Direzione%20generale%20delle%20foreste%20e%20dei%20demani%20ed%20istituzione%20dell%20Azienda%20Foreste%20Demaniali%20.%20027U0324.md).
 
 ## Art. 4.
 
@@ -136,7 +136,7 @@ A costituire le entrate del bilancio della Azienda concorrono:
  
  e) il ricavato di alienazioni di terreni del demanio forestale autorizzate a norma di legge e qualunque altro introito riguardante la gestione e le finalita' dell'Azienda. 
  
- Fanno carico al bilancio dell'Azienda di Stato per le foreste demaniali tutte le spese riguardanti le gestioni ad essa affidate, compresi gli oneri gia' assunti verso il Tesoro dello Stato dal cessato ente istituito dal [R. decreto-legge 17 febbraio 1927, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;324), nonche' quello precisato dal successivo art. 13. 
+ Fanno carico al bilancio dell'Azienda di Stato per le foreste demaniali tutte le spese riguardanti le gestioni ad essa affidate, compresi gli oneri gia' assunti verso il Tesoro dello Stato dal cessato ente istituito dal [R. decreto-legge 17 febbraio 1927, n. 324](Soppressione%20della%20Direzione%20generale%20delle%20foreste%20e%20dei%20demani%20ed%20istituzione%20dell%20Azienda%20Foreste%20Demaniali%20.%20027U0324.md), nonche' quello precisato dal successivo art. 13. 
  
  Fino a quando non sia diversamente provveduto dal Consiglio di amministrazione dell'Azienda, il servizio di cassa dell'Azienda di Stato per le foreste demaniali resta affidato alla Cassa depositi e prestiti che vi provvede a mezzo dei propri organi e con l'apertura di un conto corrente fruttifero al quale affluiranno tutte le entrate e sul quale graveranno tutte le spese.
 
@@ -158,7 +158,7 @@ In relazione al disposto dell'[art. 9 del R. decreto 16 maggio 1926, n. 1066](ht
 
 Al disimpegno dei propri servizi tecnici, amministrativi, contabili e d'ordine, l'Azienda provvede col personale militare e civile della Milizia nazionale forestale. 
  
- Nulla e' innovato al disposto dei primi due commi dell'[articolo 7 del R. decreto-legge 18 novembre 1929, n. 2071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-18;2071#art_7). 
+ Nulla e' innovato al disposto dei primi due commi dell'[articolo 7 del R. decreto-legge 18 novembre 1929, n. 2071](Provvedimenti%20per%20la%20bonifica%20integrale%20e%20per%20i%20servizi%20agrari%20e%20forestali.%20029U2071.md). 
  
  Le funzioni contabili centrali dell'Azienda sono di competenza della Ragioneria centrale del Ministero dell'agricoltura e delle foreste.
 
@@ -186,7 +186,7 @@ Le disposizioni del [R. decreto 30 dicembre 1923, n. 3267](https://www.normattiv
 
 ## Art. 20.
 
-Tutte le disposizioni contenute nel [R. decreto-legge 17 febbraio 1927, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;324), convertito nella [legge 16 giugno 1927, n. 1275](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20febbraio%201927%20n.324%20concernente%20la%20soppressione%20della%20Direzione%20generale%20delle%20foreste%20e%20dei%20demani%20e%20la%20istituzione%20dellAzienda%20foreste%20deman_5b597e278aa4.md), sono abrogate.
+Tutte le disposizioni contenute nel [R. decreto-legge 17 febbraio 1927, n. 324](Soppressione%20della%20Direzione%20generale%20delle%20foreste%20e%20dei%20demani%20ed%20istituzione%20dell%20Azienda%20Foreste%20Demaniali%20.%20027U0324.md), convertito nella [legge 16 giugno 1927, n. 1275](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20febbraio%201927%20n.324%20concernente%20la%20soppressione%20della%20Direzione%20generale%20delle%20foreste%20e%20dei%20demani%20e%20la%20istituzione%20dellAzienda%20foreste%20deman_5b597e278aa4.md), sono abrogate.
 
 ## Art. 21.
 

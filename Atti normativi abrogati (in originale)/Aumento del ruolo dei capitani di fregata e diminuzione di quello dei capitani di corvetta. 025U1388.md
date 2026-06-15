@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e sue successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e sue successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro ad interim pe
 
 ## Articolo unico.
 
-Il ruolo organico dei capitani di fregata e dei capitani di corvetta, risultante dalla tabella n. 68, allegata al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395); modificata con i [Regi decreti-legge 23 dicembre 1923, n. 3189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-23;3189), e [14 giugno 1925, numero 1116](Aumento%20di%20un%20posto%20nel%20ruolo%20organico%20degli%20ufficiali%20ammiragli.%20025U1116.md), e' stabilito come segue: 
+Il ruolo organico dei capitani di fregata e dei capitani di corvetta, risultante dalla tabella n. 68, allegata al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); modificata con i [Regi decreti-legge 23 dicembre 1923, n. 3189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-23;3189), e [14 giugno 1925, numero 1116](Aumento%20di%20un%20posto%20nel%20ruolo%20organico%20degli%20ufficiali%20ammiragli.%20025U1116.md), e' stabilito come segue: 
  
  Capitani di fregata, n. 125; 
  

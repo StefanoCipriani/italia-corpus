@@ -48,14 +48,14 @@ La Cassa depositi e prestiti e' autorizzata ad anticipare sui mutui da essa conc
 
 ## Art. 4.
 
-Le annualita' che lo Stato, le Provincie ed i Comuni debbono corrispondere per le opere di bonifica a norma della leggo 20 giugno 1912, n. 712, saranno calcolate con lo stesso tasso d'interesse annualmente stabilito dalla Cassa depositi e prestiti per i mutui ordinari a sensi degli articoli 9 e 73 del testo unico di legge approvato con [R. decreto 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-01-02;453). Tale disposizione si applica anche alle bonifiche concesse prima dell'entrata in vigore del presente decreto limitatamente ai lotti di opere non ancora collaudati.
+Le annualita' che lo Stato, le Provincie ed i Comuni debbono corrispondere per le opere di bonifica a norma della leggo 20 giugno 1912, n. 712, saranno calcolate con lo stesso tasso d'interesse annualmente stabilito dalla Cassa depositi e prestiti per i mutui ordinari a sensi degli articoli 9 e 73 del testo unico di legge approvato con [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20riguardanti%20lAmministrazione%20della%20Cassa%20dei%20depositi%20e%20prestiti%20delle%20gestioni%20annesse%20della%20sezione%20autonoma%20di%20credito%20comuna_8a649b91ed7d.md). Tale disposizione si applica anche alle bonifiche concesse prima dell'entrata in vigore del presente decreto limitatamente ai lotti di opere non ancora collaudati.
 
 ## Art. 5.
 
 Per accelerare la esecuzione a cura dello Stato delle opere di bonificazione di 1ª categoria dipendenti dalle [leggi 22 marzo 1900, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-03-22;195) (testo unico) e successive, nelle Provincie meridionali e nella Sicilia, e' autorizzato il maggiore stanziamento di L.
 20.000.000. Detta somma verra' ripartita in cinque annualita' di L. 4.000.000 ciascuna, da inscriversi negli esercizi finanziari dal 1919-920 al 1923-924 in aumento all'assegnazione del capitolo corrispondente a quello n. 154 dello stato di previsione del Ministero dei lavori pubblici per l'esercizio 1917-918 la quale risultera' per gli esercizi medesimi elevata a L. 12.300.000. 
  
- Agli effetti del presente articolo il limite di stanziamento complessivo delle spese straordinarie inscritte nello stato di previsione predetto, di cui all'[art. 3, comma 2°, della legge 7 aprile 1917, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-04-07;601#art_3-com2), rimane, per gli indicati esercizi, accresciuto di L. 4.000.000.
+ Agli effetti del presente articolo il limite di stanziamento complessivo delle spese straordinarie inscritte nello stato di previsione predetto, di cui all'[art. 3, comma 2°, della legge 7 aprile 1917, n. 601](Contenente%20autorizzazione%20di%20spese%20e%20nuove%20disposizioni%20per%20lesecuzione%20di%20opere%20pubbliche%20in%20Basilicata%20ed%20in%20Calabria.%20017U0601.md), rimane, per gli indicati esercizi, accresciuto di L. 4.000.000.
 
 ## Art. 6.
 
@@ -65,19 +65,19 @@ E' istituito presso il Ministero dei lavori pubblici, sotto la direzione di un i
 
 ## Art. 7.
 
-Nelle bonifiche eseguite a cura dello Stato, allo scopo di preparare durante il corso dei lavori, il bonificamento agrario, il ministro dei lavori pubblici, di concerto con quello di agricoltura, ha facolta' di nominare uno speciale commissario per promuovere il migliore coordinamento della bonifica idraulica con quella agraria, per predisporre la costituzione del consorzio obbligatorio di manutenzione e per le proposte da farsi ai detti ministri per l'applicazione degli [articoli 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;774#art_43) e [44 della legge 13 luglio 1911, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;774#art_44). 
+Nelle bonifiche eseguite a cura dello Stato, allo scopo di preparare durante il corso dei lavori, il bonificamento agrario, il ministro dei lavori pubblici, di concerto con quello di agricoltura, ha facolta' di nominare uno speciale commissario per promuovere il migliore coordinamento della bonifica idraulica con quella agraria, per predisporre la costituzione del consorzio obbligatorio di manutenzione e per le proposte da farsi ai detti ministri per l'applicazione degli [articoli 43](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md) e [44 della legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md). 
  
  La spesa per il commissario sara' anticipata dal Ministero dei lavori pubblici e fara' parte della spesa di esecuzione della bonifica.
 
 ## Art. 8.
 
-All'[art. 15 del testo unico 22 marzo 1900, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1900-03-22;195#art_15), modificato con l'[art. 36 della legge 13 luglio 1911, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;774#art_36), e' sostituito il seguente: 
+All'[art. 15 del testo unico 22 marzo 1900, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1900-03-22;195#art_15), modificato con l'[art. 36 della legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md), e' sostituito il seguente: 
  
  Spetta alla sola autorita' amministrativa escluso ogni rimedio giurisdizionale il riconoscere, anche in caso di contestazione, se i lavori per l'esecuzione delle opere di bonifica e per la loro manutenzione rispondono allo scopo cui debbono servire alle esigenze tecniche e alle buone regole d'arte. 
  
  Non spetta al privato, alcun risarcimento per il mancato o minorato beneficio dipendente dalla bonifica. 
  
- Ferma restando l'applicazione degli [articoli dal 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_31) [al 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_38) e [dal 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_66) [al 68 della legge 25 giugno 1865, numero 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_68), circa la determinazione peritale, le controversie di qualunque natura riguardanti l'occupazione totale o parziale, permanente o temporanea di fondi e le indennita' ai sensi dell'art. 46 della stessa legge sono deferite al giudizio di Collegi arbitrali di 1° e 2° grado. 
+ Ferma restando l'applicazione degli [articoli dal 31](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md) [al 38](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md) e [dal 66](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md) [al 68 della legge 25 giugno 1865, numero 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), circa la determinazione peritale, le controversie di qualunque natura riguardanti l'occupazione totale o parziale, permanente o temporanea di fondi e le indennita' ai sensi dell'art. 46 della stessa legge sono deferite al giudizio di Collegi arbitrali di 1° e 2° grado. 
  
  I Collegi arbitrali di primo grado sono costituiti di tre arbitri nominati uno dal ministro dei lavori pubblici, uno dal possessore o dai possessori dei fondi, il terzo dal primo presidente della Corte d'appello territoriale fra i consiglieri della Corte o giudici di tribunali compresi nella sua giurisdizione e presiedera' il Collegio. 
  

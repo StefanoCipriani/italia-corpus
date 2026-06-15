@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'[art. 3 n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto l'[art. 4 del R. decreto-legge 29 novembre 1925, n. 2146](Estensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazione%20sociale.%20025U2146.md), convertito nella [legge 24 maggio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898), concernente l'estensione alle Provincie annesse delle leggi di assicurazione sociale;
+Visto l'[art. 4 del R. decreto-legge 29 novembre 1925, n. 2146](Estensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazione%20sociale.%20025U2146.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md), concernente l'estensione alle Provincie annesse delle leggi di assicurazione sociale;
 
 Ritenuta la necessita' urgente ed assoluta di procedere alla liquidazione degli istituti che esercitano ancora l'assicurazione per le pensioni nei territori annessi;
 
@@ -40,7 +40,7 @@ Con l'entrata in vigore del presente decreto sono poste in liquidazione le segue
 
 ## Art. 2.
 
-A decorrere dalla data di entrata in vigore del presente decreto il personale in servizio nelle miniere, iscritto alle Casse di cui al primo comma del precedente articolo, e' assicurato per la invalidita' e vecchiaia ai sensi e termini del [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito nella [legge 6 aprile 1936, n. 1155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155).
+A decorrere dalla data di entrata in vigore del presente decreto il personale in servizio nelle miniere, iscritto alle Casse di cui al primo comma del precedente articolo, e' assicurato per la invalidita' e vecchiaia ai sensi e termini del [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito nella [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md).
 
 ## Art. 3.
 

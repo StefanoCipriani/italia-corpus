@@ -10,15 +10,15 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 30 dicembre 1923, n. 3278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3278), portante disposizioni in materia di tasse sui contratti di Borsa;
+Visto il [regio decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), portante disposizioni in materia di tasse sui contratti di Borsa;
 
-Visti il [regio decreto-legge 20 dicembre 1932, n. 1607](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-12-20;1607), portante norme per la tutela delle negoziazioni dei titoli e valute, ed il relativo decreto Ministeriale 27 dicembre 1932 per la sua applicazione;
+Visti il [regio decreto-legge 20 dicembre 1932, n. 1607](Disposizioni%20per%20la%20tutela%20delle%20negoziazioni%20di%20titoli%20e%20valute.%20032U1607.md), portante norme per la tutela delle negoziazioni dei titoli e valute, ed il relativo decreto Ministeriale 27 dicembre 1932 per la sua applicazione;
 
 Vista la [legge 10 novembre 1954, n. 1079](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-10;1079), recante modificazioni in materia di tasse sui contratti di Borsa;
 
-Vista la [legge 5 gennaio 1956, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-01-05;1), recante norme integrative della [legge 11 gennaio 1951, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-01-11;25), sulla perequazione tributaria;
+Vista la [legge 5 gennaio 1956, n. 1](Norme%20integrative%20della%20legge%2011%20gennaio%201951%20n.%2025%20sulla%20perequazione%20tributaria.md), recante norme integrative della [legge 11 gennaio 1951, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-01-11;25), sulla perequazione tributaria;
 
-Ritenuta la necessita' di istituire nuovi tipi di foglietti bollati per contratti di Borsa a termine e il riporto su titoli stipulati dagli agenti di cambio dagli altri soggetti indicati nell'[art. 17, primo comma, della legge 5 gennaio 1956, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-01-05;1#art_17-com1), e di doverne determinare la forma, i tagli e le altre caratteristiche;
+Ritenuta la necessita' di istituire nuovi tipi di foglietti bollati per contratti di Borsa a termine e il riporto su titoli stipulati dagli agenti di cambio dagli altri soggetti indicati nell'[art. 17, primo comma, della legge 5 gennaio 1956, n. 1](Norme%20integrative%20della%20legge%2011%20gennaio%201951%20n.%2025%20sulla%20perequazione%20tributaria.md), e di doverne determinare la forma, i tagli e le altre caratteristiche;
 
 Sulla proposta del Ministro per le finanze; Decreta:
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 Sono istituiti, per contratti di Borsa a termine e di riporto su titoli, i seguenti nuovi tipi di foglietti bollati:
  a) foglietti a madre, figlia e contromatrice;
- b) foglietti a contromatrice, matrice, compravendita, per contratti di Borsa conclusi ai sensi del [regio decreto-legge 20 dicembre 1932, n. 1607](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-12-20;1607).
+ b) foglietti a contromatrice, matrice, compravendita, per contratti di Borsa conclusi ai sensi del [regio decreto-legge 20 dicembre 1932, n. 1607](Disposizioni%20per%20la%20tutela%20delle%20negoziazioni%20di%20titoli%20e%20valute.%20032U1607.md).
 
 ## Art. 2.
 

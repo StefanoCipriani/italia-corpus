@@ -32,7 +32,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Agli impiegati sospesi dall'ufficio, ai sensi dell'ultimo comma dell'[art. 22 del decreto legislativo Luogotenenziale 27 luglio 1944, n. 159](Sanzioni%20contro%20il%20fascismo.%20044U0159.md), competono, oltre lo stipendio, il trattamento di famiglia o di caroviveri previsto dalle disposizioni vigenti, nonche' la integrazione temporanea concessa con il [R. decreto-legge 6 dicembre 1943, n. 18/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;18), ed aumentata dal [decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;328).
+Agli impiegati sospesi dall'ufficio, ai sensi dell'ultimo comma dell'[art. 22 del decreto legislativo Luogotenenziale 27 luglio 1944, n. 159](Sanzioni%20contro%20il%20fascismo.%20044U0159.md), competono, oltre lo stipendio, il trattamento di famiglia o di caroviveri previsto dalle disposizioni vigenti, nonche' la integrazione temporanea concessa con il [R. decreto-legge 6 dicembre 1943, n. 18/B](Miglioramenti%20economici%20di%20carattere%20temporaneo%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20degli%20enti%20ausiliari%20dello%20Stato%20e%20di%20diritto%20pubblico.%20043U0018.md), ed aumentata dal [decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md).
 
 ## Art. 2.
 

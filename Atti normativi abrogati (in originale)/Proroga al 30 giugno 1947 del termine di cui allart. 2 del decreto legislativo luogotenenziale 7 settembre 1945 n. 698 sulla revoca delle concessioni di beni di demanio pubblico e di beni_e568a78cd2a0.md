@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 7 settembre 1945 n. 698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-07;698), concernente la revoca delle Concessioni dei beni di demanio pubblico e di beni patrimoniali dello stato accordate durante il regime fascista;
+Visto il [decreto legislativo luogotenenziale 7 settembre 1945 n. 698](../Decreti%20legislativi%20luogotenenziali/Revoca%20delle%20concessioni%20di%20beni%20di%20demanio%20pubblico%20e%20di%20beni%20patrimoniali%20dello%20Stato%20accordate%20durante%20il%20regime%20fascista.%20045U0698.md), concernente la revoca delle Concessioni dei beni di demanio pubblico e di beni patrimoniali dello stato accordate durante il regime fascista;
 
 Visto il decreto legislativo luogotenenziale 16 marzo 1946, 98;
 
@@ -34,7 +34,7 @@ Ai componenti della Commissione di cui al precedente e articolo, e corrisposto u
 
 ## Art. 4.
 
-Al segretario della Commissione compete lo stesso trattamento corrisposto ai membri, mentre all'addetto alla segreteria sara' attribuita una indennita' giornaliera pari ad un terzo della diaria di missione di cui al [regio decreto-legge 27 febbraio 1942, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-02-27;76), con l'aumento del 70% di cui al [regio decreto-legge 9 maggio 1944, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-09;131), in cliente al grado rivestito.
+Al segretario della Commissione compete lo stesso trattamento corrisposto ai membri, mentre all'addetto alla segreteria sara' attribuita una indennita' giornaliera pari ad un terzo della diaria di missione di cui al [regio decreto-legge 27 febbraio 1942, n. 76](Trattamento%20di%20missione%20al%20personale%20statale%20nellinterno%20del%20Regno.%20042U0076.md), con l'aumento del 70% di cui al [regio decreto-legge 9 maggio 1944, n. 131](Aumento%20del%20trattamento%20di%20missione%20al%20personale%20statale%20nellinterno%20del%20Regno.%20044U0131.md), in cliente al grado rivestito.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi, e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la legge sugli stipendi ed assegni fissi pel Regio esercito, testo unico approvato col [R. decreto 14 luglio 1898, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;380) e successive modificazioni;
+Vista la legge sugli stipendi ed assegni fissi pel Regio esercito, testo unico approvato col [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md) e successive modificazioni;
 
-Visto il [R. decreto 19 aprile 1907, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-04-19;201), che stabilisce le indennita' eventuali pel Regio esercito e successive modificazioni;
+Visto il [R. decreto 19 aprile 1907, n. 201](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), che stabilisce le indennita' eventuali pel Regio esercito e successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 

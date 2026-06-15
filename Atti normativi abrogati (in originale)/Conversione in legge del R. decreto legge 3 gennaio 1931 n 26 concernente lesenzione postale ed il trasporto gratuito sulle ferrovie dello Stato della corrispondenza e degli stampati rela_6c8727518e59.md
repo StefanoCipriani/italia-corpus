@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 gennaio 1931, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-03;26), concernente la esenzione postale ed il trasporto gratuito sulle ferrovie dello Stato della corrispondenza e degli stampati relativi al VII censimento generale della popolazione del Regno e delle Colonie. 
+ E' convertito in legge il [R. decreto-legge 3 gennaio 1931, n. 26](Esenzione%20postale%20e%20trasporto%20gratuito%20sulle%20Ferrovie%20dello%20Stato%20della%20corrispondenza%20e%20degli%20stampati%20occorrenti%20per%20il%20censimento%20generale%20della%20popolazione%20del%20Regno%20delle%20Colonie%20e%20d_32f6e912f352.md), concernente la esenzione postale ed il trasporto gratuito sulle ferrovie dello Stato della corrispondenza e degli stampati relativi al VII censimento generale della popolazione del Regno e delle Colonie. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 30 marzo 1931 - Anno IX 
  

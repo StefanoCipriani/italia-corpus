@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le [leggi 27 maggio 1875, n. 2779, e 3 luglio 1902, n. 280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-07-03;280);
+Viste le [leggi 27 maggio 1875, n. 2779, e 3 luglio 1902, n. 280](Che%20prescrive%20a%20vantaggio%20della%20Cassa%20Nazionale%20di%20previdenza%20per%20la%20vecchiaia%20e%20la%20invalidita%20degli%20operai%20il%20libretto%20della%20Cassa%20postale%20di%20risparmio%20portante%20credito%20non%20superiore%20ad%20_d604a32326be.md);
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per le poste o pei telegrafi, di
 
 ## Art. 1.
 
-I crediti non superiori a L. 10 complessive tra capitale ed interessi, risultanti da libretti nominativi delle Casse di risparmio postali, sono prescritti col decorso di dieci anni dalla data dell'ultima operazione di deposito, o domanda di rimborso, o presentazione del libretto ai sensi dell'[art. 2 della legge 3 luglio 1902, n. 280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-07-03;280#art_2).
+I crediti non superiori a L. 10 complessive tra capitale ed interessi, risultanti da libretti nominativi delle Casse di risparmio postali, sono prescritti col decorso di dieci anni dalla data dell'ultima operazione di deposito, o domanda di rimborso, o presentazione del libretto ai sensi dell'[art. 2 della legge 3 luglio 1902, n. 280](Che%20prescrive%20a%20vantaggio%20della%20Cassa%20Nazionale%20di%20previdenza%20per%20la%20vecchiaia%20e%20la%20invalidita%20degli%20operai%20il%20libretto%20della%20Cassa%20postale%20di%20risparmio%20portante%20credito%20non%20superiore%20ad%20_d604a32326be.md).
 
 ## Art. 2.
 

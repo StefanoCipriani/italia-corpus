@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 7 marzo 1926, numero 552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-07;552), che reca provvedimenti per lo sviluppo del servizio dei conti correnti ed assegni postali, sostituendosi agli articoli 4 e 9 i seguenti: 
+ E' convertito in legge il [R. decreto-legge 7 marzo 1926, numero 552](Provvedimenti%20per%20lo%20sviluppo%20del%20servizio%20dei%20conti%20correnti%20ed%20assegni%20postali.%20026U0552.md), che reca provvedimenti per lo sviluppo del servizio dei conti correnti ed assegni postali, sostituendosi agli articoli 4 e 9 i seguenti: 
  
  «Art. 4. - Gli assegni (checks) emessi dal correntista, pagabili negli uffici postali ed il cui importo sia stato notato a debito del conto corrente del traente, si prescrivono, in caso di mancata riscossione, a favore dell'Amministrazione postale, alla fine del secondo esercizio finanziario successivo a quello in cui e' avvenuta la detta inscrizione a debito. 
  
@@ -31,7 +31,7 @@ VITTORIO EMANUELE III
  «A richiesta dei correntisti mittenti, o dei loro aventi causa, l'importo dei mandati comunque non pagati puo' essere riaccreditato sui conti dei correntisti stessi, purche' non siano incorsi nei termini di prescrizione di cui al primo comma del presente articolo.  
  «L'operazione di riaccreditamento e' gratuita». 
  
- «Art. 9. - L'[art. 1 del R. decreto 15 luglio 1923, n. 1693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-15;1693#art_1), e' sostituito dal seguente: 
+ «Art. 9. - L'[art. 1 del R. decreto 15 luglio 1923, n. 1693](Aggiunte%20e%20modificazioni%20al%20decreto-legge%20Luogotenenziale%206%20settembre%201917%20n.%201451%20e%20al%20regolamento%20approvato%20con%20decreto%20Luogotenenziale%209%20maggio%201918%20n.%20622%20sul%20servizio%20dei%20conti%20corre_7018d99da5b7.md), e' sostituito dal seguente: 
  
  «Per la rinnovazione dei mandati di pagamento scaduti sono dovute le seguenti tasse: 
  

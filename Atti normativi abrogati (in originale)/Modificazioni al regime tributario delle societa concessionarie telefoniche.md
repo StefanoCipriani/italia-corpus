@@ -39,7 +39,7 @@ Il pagamento dell'imposta dovuta in via provvisoria deve essere effettuato in qu
 
 ## Art. 5.
 
-Per l'omessa o ritardata denuncia dei corrispettivi e per il ritardato pagamento sia delle rate dell'imposta provvisoria che della eventuale differenza tra l'imposta effettivamente dovuta e quella provvisoria si applicano, rispettivamente, le sopratasse previste dagli articoli 102 e 103 della legge del registro, approvata con il [regio decreto 30 dicembre 1923, n. 3269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3269) e successive modificazioni.
+Per l'omessa o ritardata denuncia dei corrispettivi e per il ritardato pagamento sia delle rate dell'imposta provvisoria che della eventuale differenza tra l'imposta effettivamente dovuta e quella provvisoria si applicano, rispettivamente, le sopratasse previste dagli articoli 102 e 103 della legge del registro, approvata con il [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) e successive modificazioni.
  La denuncia non corredata dei documenti prescritti si ha per non presentata e l'Ufficio del registro procedera' direttamente all'accertamento delle imposte dovute.
 
 ## Art. 6.

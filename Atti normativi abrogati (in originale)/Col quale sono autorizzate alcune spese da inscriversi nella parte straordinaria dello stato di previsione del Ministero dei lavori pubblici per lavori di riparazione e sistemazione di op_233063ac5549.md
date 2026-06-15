@@ -66,7 +66,7 @@ Lo stanziamento del capitolo 56: «Spese per il servizio idrografico fluviale» 
 
 ## Art. 4.
 
-Agli effetti del presente decreto rimane fermo il disposto dell'[art. 3 comma 2 della legge 7 aprile 1917, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-04-07;601#art_3-com2).
+Agli effetti del presente decreto rimane fermo il disposto dell'[art. 3 comma 2 della legge 7 aprile 1917, n. 601](Contenente%20autorizzazione%20di%20spese%20e%20nuove%20disposizioni%20per%20lesecuzione%20di%20opere%20pubbliche%20in%20Basilicata%20ed%20in%20Calabria.%20017U0601.md).
 
 ## Art. 5.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 gennaio 1930, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-01-13;91), che approva la proroga al 1° giugno 1930 del «modus vivendi» di stabilimento provvisorio, stipulato in Parigi, fra l'Italia e la Francia, il 3 dicembre 1927, proroga conclusa con scambio di note che ha avuto luogo in Parigi il 30 novembre 1929. 
+ E' convertito in legge il [R. decreto-legge 13 gennaio 1930, n. 91](Proroga%20al%201%20giugno%201930%20del%20modus%20vivendi%20di%20stabilimento%20provvisorio%20italo-francese%20del%203%20dicembre%201927.%20030U0091.md), che approva la proroga al 1° giugno 1930 del «modus vivendi» di stabilimento provvisorio, stipulato in Parigi, fra l'Italia e la Francia, il 3 dicembre 1927, proroga conclusa con scambio di note che ha avuto luogo in Parigi il 30 novembre 1929. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

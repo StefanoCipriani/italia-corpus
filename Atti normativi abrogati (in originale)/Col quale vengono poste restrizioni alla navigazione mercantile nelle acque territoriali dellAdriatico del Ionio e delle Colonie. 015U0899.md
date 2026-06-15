@@ -14,7 +14,7 @@ Le navi mercantili, le barche, i battelli e i galleggianti, di qualsiasi bandier
  
  Durante la navigazione nelle acque antistanti alle zone del littorale sopra indicato, le navi, barche, battelli e galleggianti, di qualsiasi bandiera dovranno mantenersi costantemente al largo, fuori dei limiti delle acque territoriali. 
  
- Agli effetti del presente decreto i limiti delle acque territoriali sono determinati dall'[articolo 1 della legge 16 giugno 1912, n. 612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-16;612#art_1).
+ Agli effetti del presente decreto i limiti delle acque territoriali sono determinati dall'[articolo 1 della legge 16 giugno 1912, n. 612](Che%20determina%20norme%20per%20il%20transito%20ed%20il%20soggiorno%20delle%20navi%20mercantili%20lungo%20le%20coste%20dello%20Stato.%20012U0612.md).
 
 ## Art. 2.
 
@@ -38,11 +38,11 @@ Le navi mercantili, le barche, i battelli o i galleggianti, di qualsiasi bandier
 
 ## Art. 5.
 
-Alle navi mercantili, barche, battelli e galleggianti di qualsiasi bandiera che contravvengono alle disposizioni degli articoli 1 e 2 del presente decreto sono applicabili le prescrizioni degli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-16;612#art_6) e [7 della legge 16 giugno 1912, n. 612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-16;612#art_7).
+Alle navi mercantili, barche, battelli e galleggianti di qualsiasi bandiera che contravvengono alle disposizioni degli articoli 1 e 2 del presente decreto sono applicabili le prescrizioni degli [articoli 6](Che%20determina%20norme%20per%20il%20transito%20ed%20il%20soggiorno%20delle%20navi%20mercantili%20lungo%20le%20coste%20dello%20Stato.%20012U0612.md) e [7 della legge 16 giugno 1912, n. 612](Che%20determina%20norme%20per%20il%20transito%20ed%20il%20soggiorno%20delle%20navi%20mercantili%20lungo%20le%20coste%20dello%20Stato.%20012U0612.md).
 
 ## Art. 6.
 
-Per ogni contravvenzione alle disposizioni del presente decreto sono applicabili le prescrizioni degli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-16;612#art_10) e [11 della legge 16 giugno 1912, n. 612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-16;612#art_11).
+Per ogni contravvenzione alle disposizioni del presente decreto sono applicabili le prescrizioni degli [articoli 10](Che%20determina%20norme%20per%20il%20transito%20ed%20il%20soggiorno%20delle%20navi%20mercantili%20lungo%20le%20coste%20dello%20Stato.%20012U0612.md) e [11 della legge 16 giugno 1912, n. 612](Che%20determina%20norme%20per%20il%20transito%20ed%20il%20soggiorno%20delle%20navi%20mercantili%20lungo%20le%20coste%20dello%20Stato.%20012U0612.md).
 
 ## Art. 7.
 

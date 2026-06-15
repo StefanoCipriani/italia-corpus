@@ -16,7 +16,7 @@ Il penultimo comma dell'[art. 7 del R. decreto 14 giugno 1923, n. 1281](https://
 
 ## Art. 2.
 
-L'ultimo comma dell'[art. 16 del R. decreto 9 luglio 1926, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-09;1303#art_16), e' abrogato.
+L'ultimo comma dell'[art. 16 del R. decreto 9 luglio 1926, n. 1303](Norme%20per%20lavanzamento%20nei%20vari%20gradi%20di%20ufficiale%20nella%20Regia%20guardia%20di%20finanza.%20026U1303.md), e' abrogato.
 
 ## Art. 3. — Disposizioni transitorie.
 

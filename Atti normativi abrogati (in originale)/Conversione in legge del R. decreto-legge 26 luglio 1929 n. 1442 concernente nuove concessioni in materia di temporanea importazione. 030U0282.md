@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo Unico. 
  
- E' convertito in legge il [R. decreto-legge 26 luglio 1929, n. 1442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-07-26;1442), concernente nuove concessioni in materia di temporanea importazione. 
+ E' convertito in legge il [R. decreto-legge 26 luglio 1929, n. 1442](Nuove%20concessioni%20in%20materia%20di%20temporanea%20importazione.%20029U1442.md), concernente nuove concessioni in materia di temporanea importazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 24 novembre 1938, numero 1912](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-24;1912), che istituisce il Registro Aeronautico Italiano;
+Visto il [regio decreto-legge 24 novembre 1938, numero 1912](Istituzione%20del%20Registro%20aeronautico%20italiano.%20038U1912.md), che istituisce il Registro Aeronautico Italiano;
 
-Visto il [regio decreto 14 giugno 1941, n. 1558](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-06-14;1558), che approva lo statuto del Registro Aeronautico Italiano;
+Visto il [regio decreto 14 giugno 1941, n. 1558](Approvazione%20dello%20statuto%20del%20Registro%20aeronautico%20italiano.%20041U1558.md), che approva lo statuto del Registro Aeronautico Italiano;
 
-Visto il [regio decreto-legge 21 agosto 1943, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-21;739), concernente lo scioglimento degli organi deliberativi degli enti pubblici e nomina di commissari straordinari, e successive modificazioni;
+Visto il [regio decreto-legge 21 agosto 1943, n. 739](Scioglimento%20degli%20organi%20deliberativi%20degli%20Enti%20pubblici%20e%20nomina%20di%20commissari%20straordinari.%20043U0739.md), concernente lo scioglimento degli organi deliberativi degli enti pubblici e nomina di commissari straordinari, e successive modificazioni;
 
 Visto il decreto luogotenenziale 18 dicembre 1944, relativo alla nomina del commissario straordinario del
 

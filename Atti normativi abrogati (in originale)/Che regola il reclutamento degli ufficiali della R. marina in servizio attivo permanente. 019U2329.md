@@ -18,7 +18,7 @@ Vista la [legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi
 
 Vista la [legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md), e sue modificazioni;
 
-Visto il regolamento sull'avanzamento dei Corpi militari della Regia marina, approvato con [Regio decreto 4 settembre 1898, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-09-04;444), e sue modificazioni;
+Visto il regolamento sull'avanzamento dei Corpi militari della Regia marina, approvato con [Regio decreto 4 settembre 1898, n. 444](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md), e sue modificazioni;
 
 Sentito il Consiglio dei ministri;
 

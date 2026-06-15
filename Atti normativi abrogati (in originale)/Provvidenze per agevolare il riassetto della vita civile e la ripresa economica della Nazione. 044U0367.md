@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le disposizioni del [R. decreto-legge 13 dicembre 1943, n. 26/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-13;26), e del [R. decreto-legge 29 maggio 1944, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-05-29;138), sono unificate e modificate in conformita' del testo risultante dagli articoli seguenti.
+Le disposizioni del [R. decreto-legge 13 dicembre 1943, n. 26/B](Autorizzazione%20al%20Ministro%20delle%20Finanze%20di%20concedere%20la%20garanzia%20dello%20Stato%20su%20anticipazioni%20bancarie%20a%20favore%20di%20Imprese%20industriali%20interessanti%20il%20riassetto%20della%20vita%20civile%20e%20la%20ri_58d43414fc11.md), e del [R. decreto-legge 29 maggio 1944, n. 138](Norme%20integrative%20del%20R.%20decreto-legge%2013%20dicembre%201943%20n.%2026-B.%20044U0138.md), sono unificate e modificate in conformita' del testo risultante dagli articoli seguenti.
 
 ## Art. 2.
 
@@ -50,7 +50,7 @@ Il credito derivante dal finanziamento,, sia durante il periodo dell'anticipazio
  
  Di detto privilegio sara' dato avviso mediante inserzione nel Foglio degli annunzi legali della provincia. 
  
- Per quanto concerne i brevetti per le invenzioni industriali il privilegio anzidetto sara' trascritto nel registro dei brevetti di cui all'[art. 37, del R. decreto 29 giugno 1939, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-29;1127#art_37), e ai sensi dell'art. 66 del decreto medesimo.
+ Per quanto concerne i brevetti per le invenzioni industriali il privilegio anzidetto sara' trascritto nel registro dei brevetti di cui all'[art. 37, del R. decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e ai sensi dell'art. 66 del decreto medesimo.
 
 ## Art. 8.
 

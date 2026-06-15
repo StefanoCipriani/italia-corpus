@@ -62,7 +62,7 @@ La commissione esaminatrice del concorso per l'ammissione alla scuola sottuffici
  da un ufficiale superiore in servizio alla scuola, membro;
  da un insegnante di italiano in possesso del prescritto titolo accademico, membro;
  da un ufficiale inferiore in servizio alla scuola, segretario senza diritto a voto.
- A ciascuno dei componenti e al segretario della commissione competono i compensi di cui al [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;5) e successive modifiche.
+ A ciascuno dei componenti e al segretario della commissione competono i compensi di cui al [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](../DPR/Compensi%20ai%20componenti%20delle%20Commissioni%20Consigli%20Comitati%20o%20Collegi%20operanti%20nelle%20Amministrazioni%20statali%20anche%20con%20ordinamento%20autonomo%20e%20delle%20Commissioni%20giudicatrici%20dei%20concorsi%20di_6b5a1d3e573d.md) e successive modifiche.
 
 ### Art. 6.
 
@@ -141,7 +141,7 @@ I vicebrigadieri del gruppo squadroni carabinieri guardie del Presidente della R
 La commissione giudicatrice dell'esame di cui all'articolo 13 e' composta:
  da un ufficiale superiore dell'Arma dei carabinieri, presidente; dal comandante del gruppo squadroni carabinieri guardie del Presidente della Repubblica, membro;
  da un ufficiale del gruppo squadroni carabinieri guardie del Presidente della Repubblica, membro e segretario.
- A ciascuno dei componenti della commissione competono i compensi di cui al [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-11;5), e successive modifiche.
+ A ciascuno dei componenti della commissione competono i compensi di cui al [decreto del Presidente della Repubblica 11 gennaio 1956, n. 5](../DPR/Compensi%20ai%20componenti%20delle%20Commissioni%20Consigli%20Comitati%20o%20Collegi%20operanti%20nelle%20Amministrazioni%20statali%20anche%20con%20ordinamento%20autonomo%20e%20delle%20Commissioni%20giudicatrici%20dei%20concorsi%20di_6b5a1d3e573d.md), e successive modifiche.
 
 ### Art. 15.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [decreto del Presidente della Repubblica 1 marzo 1961, n. 121](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.md), che approva il testo unico delle leggi vigenti in materia di tasse sulle concessioni governative;
 
-Vista la [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), recante norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme;
+Vista la [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), recante norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

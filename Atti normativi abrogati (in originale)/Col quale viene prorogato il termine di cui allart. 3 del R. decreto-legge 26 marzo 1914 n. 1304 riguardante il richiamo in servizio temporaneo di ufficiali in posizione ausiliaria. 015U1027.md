@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il termine di cui all'[articolo 3 del R. decreto 26 novembre 1914, n. 1304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-26;1304#art_3), da convertirsi in legge, e' prorogato fino al 31 dicembre
+Il termine di cui all'[articolo 3 del R. decreto 26 novembre 1914, n. 1304](Da%20convertirsi%20in%20legge%20col%20quale%20e%20autorizzato%20il%20richiamo%20in%20servizio%20temporaneo%20presso%20i%20distretti%20militari%20di%20ufficiali%20in%20posizione%20ausiliaria.%20014U1304.md), da convertirsi in legge, e' prorogato fino al 31 dicembre
 
 1916.
 

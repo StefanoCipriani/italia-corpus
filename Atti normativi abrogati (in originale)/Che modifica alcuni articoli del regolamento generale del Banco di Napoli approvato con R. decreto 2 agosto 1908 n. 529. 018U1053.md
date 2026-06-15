@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Gli articoli 329, 330, 331, 333, 334, 335, 336, 343, 350 e 357 del regolamento generale del Banco di Napoli, approvato col [R. decreto 2 agosto 1908, n. 529](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-08-02;529), sono modificato come appresso: 
+Gli articoli 329, 330, 331, 333, 334, 335, 336, 343, 350 e 357 del regolamento generale del Banco di Napoli, approvato col [R. decreto 2 agosto 1908, n. 529](Che%20approva%20lannesso%20nuovo%20regolamento%20generale%20del%20Banco%20di%20Napoli.%20008U0529.md), sono modificato come appresso: 
  
  Art. 329. - Sostituito con il seguente: 
  

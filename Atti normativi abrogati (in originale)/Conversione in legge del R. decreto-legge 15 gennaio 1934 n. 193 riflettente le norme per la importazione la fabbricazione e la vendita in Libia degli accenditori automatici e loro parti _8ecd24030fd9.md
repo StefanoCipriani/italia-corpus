@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 gennaio 1934, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-15;193), riflettente le norme per la importazione, la fabbricazione e la vendita in Libia degli accenditori automatici e loro parti, e delle pietrine focaie. 
+ E' convertito in legge il [R. decreto-legge 15 gennaio 1934, n. 193](Norme%20per%20la%20importazione%20la%20fabbricazione%20e%20la%20vendita%20in%20Libia%20degli%20accenditori%20automatici%20e%20loro%20parti%20e%20delle%20pietrine%20focaie.%20034U0193.md), riflettente le norme per la importazione, la fabbricazione e la vendita in Libia degli accenditori automatici e loro parti, e delle pietrine focaie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

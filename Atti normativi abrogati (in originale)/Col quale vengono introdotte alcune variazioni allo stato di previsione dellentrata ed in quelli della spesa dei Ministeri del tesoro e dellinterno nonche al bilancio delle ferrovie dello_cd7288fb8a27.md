@@ -14,7 +14,7 @@ Nello stato di previsione dell'entrata ed in quelli della spesa dei Ministeri de
 
 ## Art. 2.
 
-A deroga del disposto dell'art. 20, comma b), della [legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429), modificata dall'[art. 1 della legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372#art_1), nel bilancio dell'Amministrazione ferroviaria per l'esercizio finanziario 1914-1915, e' eliminato lo stanziamento pel rinnovamento e rifacimento in acciaio della parte metallica dell'armamento in ragione di L. 240 per ogni chilometro di strada esercitata e di L. 0,80 per cento dei prodotti del traffico.
+A deroga del disposto dell'art. 20, comma b), della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata dall'[art. 1 della legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md), nel bilancio dell'Amministrazione ferroviaria per l'esercizio finanziario 1914-1915, e' eliminato lo stanziamento pel rinnovamento e rifacimento in acciaio della parte metallica dell'armamento in ragione di L. 240 per ogni chilometro di strada esercitata e di L. 0,80 per cento dei prodotti del traffico.
 
 ## Art. 3.
 

@@ -26,7 +26,7 @@ E' abolita l'azione penale per i reati politici commessi nel Regno fino alla pub
 
 ## Art. 2.
 
-Sono eccettuati dalla presente amnistia gl'imputati del reato previsto dall'[art. 157 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_157) del 20 novembre 1859, come pure dei reati di organizzazione, di cooperazione, o di associazione a bande armate previsti dagli art. 162, 163 e 164 del Codice medesimo.
+Sono eccettuati dalla presente amnistia gl'imputati del reato previsto dall'[art. 157 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 20 novembre 1859, come pure dei reati di organizzazione, di cooperazione, o di associazione a bande armate previsti dagli art. 162, 163 e 164 del Codice medesimo.
 
 ## Art. 3.
 

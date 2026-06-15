@@ -36,7 +36,7 @@ Il numero dei consiglieri regionali e' in ragione di uno ogni
 ### Art. 3. — Applicabilita' del testo unico delle leggi
  per l'elezione della Camera dei deputati
 
-Salvo quanto diversamente disposto dalla presente legge, per le elezioni dei consiglieri regionali si osservano, in quanto applicabili, le disposizioni del testo unico delle leggi per l'elezione della Camera dei deputati approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-30;361).
+Salvo quanto diversamente disposto dalla presente legge, per le elezioni dei consiglieri regionali si osservano, in quanto applicabili, le disposizioni del testo unico delle leggi per l'elezione della Camera dei deputati approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md).
  Per l'applicazione del citato testo unico le parole:
  "Camera dei deputati", "deputato", "Segreteria della Camera dei deputati", si intendono sostituite rispettivamente con le seguenti: "Consiglio regionale", "consigliere regionale", "Cancelleria della Corte di appello".
 
@@ -83,7 +83,7 @@ Non sono eleggibili a consigliere regionale:
 ### Art. 9. — Altre cause di ineleggibilita'
 
 Sono, altresi', ineleggibili coloro che hanno il maneggio del denaro della Regione e non hanno ancora reso il conto.
- Si applicano alla elezione dei consiglieri regionali le disposizioni degli articoli 8, 9 e 10 del testo unico delle leggi per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-30;361), intendendosi riferiti alla Regione anziche' allo Stato i motivi di ineleggibilita' indicati nell'articolo 10.
+ Si applicano alla elezione dei consiglieri regionali le disposizioni degli articoli 8, 9 e 10 del testo unico delle leggi per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), intendendosi riferiti alla Regione anziche' allo Stato i motivi di ineleggibilita' indicati nell'articolo 10.
 
 ### Art. 10. — Decadenza per sopravvenute cause di ineleggibilita'
 

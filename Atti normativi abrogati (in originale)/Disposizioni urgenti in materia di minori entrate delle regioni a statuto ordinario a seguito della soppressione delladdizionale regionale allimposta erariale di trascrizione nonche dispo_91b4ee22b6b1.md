@@ -25,7 +25,7 @@ statuto ordinario a seguito della soppressione dell'addizionale regionale all'im
 
 1.
 
-Per la definitiva compensazione della perdita di entrata realizzata dalle regioni a statuto ordinario per l'anno 1997, per effetto delle disposizioni recate dall'[articolo 3, commi 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com27) e [48, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com48), e' autorizzata l'ulteriore spesa di lire 76.715.505.049 per l'anno 1999, da attribuire alle regioni medesime tenendo conto delle risorse ad esse gia' destinate dall'[articolo 1, comma 2, della legge 7 gennaio 1999, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-01-07;2#art_1-com2).
+Per la definitiva compensazione della perdita di entrata realizzata dalle regioni a statuto ordinario per l'anno 1997, per effetto delle disposizioni recate dall'[articolo 3, commi 27](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md) e [48, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), e' autorizzata l'ulteriore spesa di lire 76.715.505.049 per l'anno 1999, da attribuire alle regioni medesime tenendo conto delle risorse ad esse gia' destinate dall'[articolo 1, comma 2, della legge 7 gennaio 1999, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-01-07;2#art_1-com2).
 
 2.
 
@@ -35,7 +35,7 @@ Le minori entrate realizzate dalle regioni a statuto ordinario per gli anni 1998
 
 1.
 
-In applicazione dell'[articolo 2, comma 3, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_2-com3), per il periodo 1996-1998, e' attribuita alla regione siciliana la somma di lire 436 miliardi e alla regione Sardegna la somma di lire 48 miliardi.
+In applicazione dell'[articolo 2, comma 3, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), per il periodo 1996-1998, e' attribuita alla regione siciliana la somma di lire 436 miliardi e alla regione Sardegna la somma di lire 48 miliardi.
 
 ## Art. 3. — Copertura finanziaria
 

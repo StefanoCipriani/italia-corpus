@@ -51,7 +51,7 @@ Fra i salariati, che posseggano speciali attitudini e requisiti, vengono scelti 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 4.
 
@@ -89,7 +89,7 @@ La paga degli operai e' giornaliera ed e' divisa in otto quote eguali, quante ci
  
 ------------- 
 Nota redazionale 
- Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 8.
 
@@ -101,7 +101,7 @@ Puo' corrispondersi la paga per tutti i giorni, compresi i festivi, secondo le d
  
 ------------- 
 Nota redazionale 
- Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 9.
 
@@ -130,7 +130,7 @@ Le assunzioni dei salariati dello Stato si effettuano:
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 13.
 
@@ -143,7 +143,7 @@ Indipendentemente dalla precedenza di cui all'art. 13 del presente decreto, e' r
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 15.
 
@@ -158,7 +158,7 @@ Gli operai permanenti comuni (gruppi III e V della tabella A) e gli incaricati s
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 16.
 
@@ -233,7 +233,7 @@ I regolamenti delle singole amministrazioni stabiliscono i metodi e le tariffe d
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 29.
 
@@ -242,7 +242,7 @@ Non sono ammessi al lavoro a cottimo gli incaricati addetti ai pubblici servizi,
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 30.
 
@@ -273,7 +273,7 @@ Il lavoro notturno, ordinario o straordinario, degli operai permanenti, temporan
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 36.
 
@@ -296,7 +296,7 @@ Agli operai in servizio da almeno dodici mesi, sono concesse, compatibilmente co
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 39.
 
@@ -339,7 +339,7 @@ La multa, anche pei cottimisti, e' commisurata ad una o piu' aliquote della paga
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 45.
 
@@ -368,7 +368,7 @@ Oltre le punizioni di cui ai precedenti articoli, ai capi operai, sorveglianti e
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 48.
 
@@ -407,7 +407,7 @@ Le vigenti leggi circa gl'infortuni sul lavoro si applicano a tutti gli operai, 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 53.
 
@@ -436,7 +436,7 @@ Tutti i salariati dello Stato, a qualsiasi categoria appartengano, sono assogget
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 58.
 
@@ -445,7 +445,7 @@ Coi Regi decreti di cui al successivo art. 79, il trattamento di quiescenza degl
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 59.
 
@@ -497,7 +497,7 @@ Il licenziamento per rinvio a giudizio penale si applica, anche prima che venga 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 64.
 
@@ -519,7 +519,7 @@ I licenziamenti di autorita' sono applicabili a qualsiasi categoria di salariati
  
 ------------- 
 Nota redazionale 
- Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 65.
 
@@ -534,7 +534,7 @@ I salariati che omettano o ritardino il preavviso di cui all'art. 61 del present
  
 ------------- 
 Nota redazionale 
- Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 67.
 
@@ -576,7 +576,7 @@ Gli operai temporanei devono costituire un deposito, pari all'importo di sei gio
  
 ------------- 
 Nota redazionale 
- Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 73.
 
@@ -584,7 +584,7 @@ Il deposito di garanzia, previe le eventuali detrazioni di cui al precedente art
  
 ------------- 
 Nota redazionale 
- Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 74.
 
@@ -592,7 +592,7 @@ Le somme introitate nel corso di ciascun mese per la costituzione dei depositi d
  
 ------------- 
 Nota redazionale 
- Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 75.
 
@@ -614,7 +614,7 @@ Gli operai permanenti e gl'incaricati stabili in servizio al 30 giugno 1924 che 
  
 ------------- 
 Nota redazionale 
- Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 79.
 
@@ -624,7 +624,7 @@ Entro il 30 aprile 1924, con decreti Reali, da emanarsi su proposta dei singoli 
  
 ------------- 
 Nota redazionale 
- Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 80.
 
@@ -632,7 +632,7 @@ Entro il 31 maggio 1924, con decreti dei singoli ministri, da emanarsi di concer
  
 ------------- 
 Nota redazionale 
- Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 81.
 
@@ -644,7 +644,7 @@ Agli effetti dell'applicazione del presente decreto, con la qualifica generica d
  
 ------------- 
 Nota redazionale 
- Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 83.
 
@@ -663,7 +663,7 @@ E' conservata a titolo di assegno personale la differenza in piu' eventualmente 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 86.
 
@@ -674,7 +674,7 @@ Le indennita' stabilite dall'[art. 10, lettera b, del Regio decreto 19 aprile 19
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 87.
 
@@ -689,7 +689,7 @@ Ai capi operai ed operai borghesi a matricola gia' dipendenti dal ministero dell
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;844), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 88.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 3 dicembre 1934, n. 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-03;1989), riguardante l'istituzione di una Commissione di quattro membri in sostituzione del Comitato di vigilanza sulle radiodiffusioni. 
+ E' convertito in legge il [R. decreto-legge 3 dicembre 1934, n. 1989](Istituzione%20di%20una%20Commissione%20di%20quattro%20membri%20in%20sostituzione%20del%20Comitato%20di%20vigilanza%20sulle%20radiodiffusioni.%20034U1989.md), riguardante l'istituzione di una Commissione di quattro membri in sostituzione del Comitato di vigilanza sulle radiodiffusioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osseivarla e di farla osservare come legge dello Stato. 
  

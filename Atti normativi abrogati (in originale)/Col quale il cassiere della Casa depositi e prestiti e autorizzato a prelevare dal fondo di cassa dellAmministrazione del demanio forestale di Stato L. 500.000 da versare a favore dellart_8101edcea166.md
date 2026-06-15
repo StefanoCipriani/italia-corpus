@@ -20,15 +20,15 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 2 giugno 1910, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-02;277);
+Vista la [legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md);
 
-Visto l'art 44 del regolamento speciale di contabilita' dell'azienda del Demanio forestale di Stato, approvato con [R. decreto del 9 marzo 1911, n. 668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-03-09;668);
+Visto l'art 44 del regolamento speciale di contabilita' dell'azienda del Demanio forestale di Stato, approvato con [R. decreto del 9 marzo 1911, n. 668](Che%20approva%20lannesso%20regolamento%20di%20contabilita%20per%20lazienda%20speciale%20del%20demanio%20forestale%20di%20Stato.%20011U0668.md);
 
 Vista la deliberazione del Consiglio d'amministrazione dell'azienda del Demanio stesso in data 22 luglio 1915, che autorizza di provvedere alle spese necessarie per la riduzione in assortimenti del legname da fornire la vendita a pubbliche Amministrazioni;
 
 Ritenuta la necessita' di istituire un nuovo articolo nello stato di previsione dell'Azienda forestale pel 1915-916 allo scopo di imputarvi le spese suindicate prelevando la somma all'uopo occorrente in lire 500.000 dal fondo di cassa esistente presso la Cassa depositi o prestiti;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Udito il Consiglio dei ministri;
 

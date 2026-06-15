@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto luogotenenziale 25 giugno 1941, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1941-06-25;151#art_4), con le modificazioni ad esso apportata dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto luogotenenziale 25 giugno 1941, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1941-06-25;151#art_4), con le modificazioni ad esso apportata dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -28,17 +28,17 @@ Fermi restando gli speciali contributi previsti dagli articoli 152, comma quarto
 
 Gli studenti i quali abbiano sostenuto almeno due terzi degli esami consigliati dalla rispettiva Facolta' per l'anno accademico 1946-47 e che abbiano raggiunto nei due terzi degli esami consigliati una votazione media non inferiore ai ventiquattro trentesimi e dimostrino di appartenere a famiglia provvista di un reddito complessivo inferiore alle L. 32.000 mensili, potranno ottenere il rimborso corrispondente all'intero ammontare del contributo integrativo indicato nell'articolo precedente.
  Gli studenti appartenenti a famiglia provvista di un reddito complessivo mensile inferiore alle L. 45.000 e trovantisi nelle condizioni di merito scolastico prescritte nel comma precedente, potranno ottenere il rimborso corrispondente alla meta' dell'intero importo del contributo integrativo di cui sopra.
- Per l'accertamento delle condizioni economiche della famiglia dello studente aspirante al rimborso si seguiranno le norme indicate nell'[art. 14, secondo comma, del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;238#art_14-com2).
+ Per l'accertamento delle condizioni economiche della famiglia dello studente aspirante al rimborso si seguiranno le norme indicate nell'[art. 14, secondo comma, del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md).
  Sulle domande di rimborso decide con provvedimento definitivo il Consiglio dell'opera universitaria.
 
 ## Art. 3.
 
-Il [secondo comma dell'art. 10 del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;238#art_10-com2), e' modificato come segue: 
+Il [secondo comma dell'art. 10 del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md), e' modificato come segue: 
  "Alle Opere e' riconosciuta personalita' giuridica. Esse sono amministrate da un Consiglio composto dal rettore dell'universita' o direttore dell'istituto superiore, che lo presiede, da un componente del Consiglio di amministrazione scelto dallo stesso, da un professore ufficiale nominato dal Consiglio di amministrazione, dal direttore amministrativo e da tre studenti eletti dall'organismo rappresentativo locale. Nel regolamento sono stabilite le norme per il funzionamento delle Opere.
 
 ## Art. 4.
 
-L'[art. 30 del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;238#art_30), e' modificato nel senso che l'ammontare della sopra-tassa speciale istituita dal [regio decreto 21 giugno 1938, n. 1114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-21;1114), modificato con la [legge 16 marzo 1942, n. 294](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-03-16;294), e' incamerato, anche dopo il 16 aprile 1946, dalle universita' ed istituti superiori.
+L'[art. 30 del decreto legislativo luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md), e' modificato nel senso che l'ammontare della sopra-tassa speciale istituita dal [regio decreto 21 giugno 1938, n. 1114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-21;1114), modificato con la [legge 16 marzo 1942, n. 294](Aumento%20della%20sopratassa%20speciale%20annua%20discrizione%20dovuta%20dagli%20studenti%20delle%20Universita%20e%20degli%20Istituti%20dellordine%20universitario%20in%20dipendenza%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20_bf4e1a6f6584.md), e' incamerato, anche dopo il 16 aprile 1946, dalle universita' ed istituti superiori.
 
 ## Art. 5.
 

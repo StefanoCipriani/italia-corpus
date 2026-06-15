@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 15 dicembre 1971, n. 1222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-15;1222), sulla cooperazione tecnica con i Paesi in via di sviluppo;
+Vista la [legge 15 dicembre 1971, n. 1222](Cooperazione%20tecnica%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), sulla cooperazione tecnica con i Paesi in via di sviluppo;
 
 Sentito per quanto di competenza, il parere del comitato consultivo misto di cui all'art. 3 della predetta legge;
 
@@ -28,8 +28,8 @@ TITOLO I
 
 ### Art. 1. — Disciplina delle attivita' di cooperazione tecnica
 
-Il presente regolamento disciplina le attivita' di cooperazione tecnica con i Paesi in via di sviluppo, in esecuzione della [legge 15 dicembre 1971, n. 1222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-15;1222).
- Nel testo del presente regolamento, il termine "legge" designa la [legge 15 dicembre 1971, n. 1222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-15;1222); il termine "servizio" designa il servizio per la cooperazione tecnica con i Paesi in via di sviluppo di cui all'art. 7 della legge; il termine "capo del servizio" designa il capo del servizio suddetto; la semplice indicazione del numero di articoli si riferisce agli articoli del regolamento.
+Il presente regolamento disciplina le attivita' di cooperazione tecnica con i Paesi in via di sviluppo, in esecuzione della [legge 15 dicembre 1971, n. 1222](Cooperazione%20tecnica%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md).
+ Nel testo del presente regolamento, il termine "legge" designa la [legge 15 dicembre 1971, n. 1222](Cooperazione%20tecnica%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md); il termine "servizio" designa il servizio per la cooperazione tecnica con i Paesi in via di sviluppo di cui all'art. 7 della legge; il termine "capo del servizio" designa il capo del servizio suddetto; la semplice indicazione del numero di articoli si riferisce agli articoli del regolamento.
 
 ### Art. 2. — Aperture di credito a favore del capo servizio
 
@@ -59,7 +59,7 @@ TITOLO II
 
 Il trattamento economico aggiuntivo spettante al personale dello Stato o di enti pubblici inviati in Paesi in via di sviluppo per il servizio di cooperazione tecnica ai sensi dell'art. 11, lettera a), della legge, e' regolato unitariamente secondo le disposizioni degli articoli 21, 22 e 23 della legge stessa e delle tabelle ad essa allegate.
  Ai fini della determinazione dell'indennita' base di cui alla tabella A allegata alla legge, nei provvedimenti di messa a disposizione di cui all'art. 18, secondo comma, della legge viene stabilita l'equiparazione alle qualifiche ed ai parametri previsti dalla predetta tabella.
- A tutto il personale di cui ai precedenti commi si applica il disposto dell'[art. 180, secondo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_180-com2), sul cumulo di congedi ordinari e dall'art. 183 dello stesso decreto del Presidente della Repubblica sui congedi straordinari e sul relativo trattamento.
+ A tutto il personale di cui ai precedenti commi si applica il disposto dell'[art. 180, secondo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), sul cumulo di congedi ordinari e dall'art. 183 dello stesso decreto del Presidente della Repubblica sui congedi straordinari e sul relativo trattamento.
  La complessiva durata degli incarichi conferiti al predetto personale ai sensi dell'art. 18, quinto comma, della legge non puo' in alcun caso superare la durata di tempo quadriennale ivi stabilita.
 
 ### Art. 5. — Corresponsione degli stipendi ed assegni fissi e continuativi spettanti per l'interno
@@ -269,13 +269,13 @@ L'attestato finale di servizio di cui agli articoli 17, primo comma, e 32, ultim
 ### Art. 33. — Servizio d'insegnamento universitario nei Paesi in via di sviluppo
 
 Ai fini dell'insegnamento in Paesi in via di sviluppo, il Ministero della pubblica istruzione puo' autorizzare, su richiesta del Ministero degli affari esteri, sentito il parere dell'Universita' di appartenenza, il congedo straordinario con assegni previsto per i docenti universitari dall'ultimo comma dell'art. 19 della legge. I predetti docenti sono quindi inviati a prestare servizio nei Paesi d'impiego con decreto del Ministro per gli affari esteri, se di ruolo, ovvero mediante contratto di diritto privato a tempo determinato, se non di ruolo.
- I docenti incaricati, autorizzati a fruire del congedo di cui all'art. 19, conservano ai fini giuridici il precedente incarico, secondo il disposto dell'[art. 12-bis della legge 30 novembre 1973, n. 766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766#art_12bis).
+ I docenti incaricati, autorizzati a fruire del congedo di cui all'art. 19, conservano ai fini giuridici il precedente incarico, secondo il disposto dell'[art. 12-bis della legge 30 novembre 1973, n. 766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201973%20n.%20580%20recante%20misure%20urgenti%20per%20lUniversita.md).
  La valutazione giuridica del servizio d'insegnamento prestato da docenti universitari e da cultori della materia in Paesi in via di sviluppo, ai sensi e per gli effetti dell'art. 17, ultimo comma, della legge, e' applicabile nei confronti del personale di cui agli articoli 11, 14 e 26, della legge medesima e del personale di analoga qualificazione inviato all'estero a norma della preesistente legislazione, sempreche' il relativo servizio d'insegnamento rientri nell'ambito dei programmi di cooperazione attuati dallo Stato italiano in favore dei predetti Paesi e il personale stesso sia munito dei titoli accademici di cui all'art. 17, ultimo comma, della legge.
 
 ### Art. 34. — Servizio d'insegnamento primario o secondario nei Paesi in via di sviluppo
 
-Al servizio d'insegnamento primario o secondario prestato nei Paesi in via di sviluppo dal personale di cui agli articoli 11, lettera b), 14 e 26 della [legge 15 dicembre 1971, n. 1222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-15;1222), sono estese, in quanto applicabili le disposizioni della [legge 13 giugno 1969, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-06-13;282), della [legge 6 luglio 1970, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-07-06;576), e successive integrazioni e modificazioni.
- Il personale di cui al precedente comma, che allo inizio del servizio in Paesi in via di sviluppo riveste la qualifica di incaricato a tempo indeterminato presso scuole od istituti italiani di istruzione secondaria ai sensi della [legge 13 giugno 1969, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-06-13;282), non decade da tale qualifica. Durante il periodo di servizio all'estero, e' sospesa l'erogazione degli assegni metropolitani relativi all'incarico.
+Al servizio d'insegnamento primario o secondario prestato nei Paesi in via di sviluppo dal personale di cui agli articoli 11, lettera b), 14 e 26 della [legge 15 dicembre 1971, n. 1222](Cooperazione%20tecnica%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), sono estese, in quanto applicabili le disposizioni della [legge 13 giugno 1969, n. 282](Conferimento%20degli%20incarichi%20e%20delle%20supplenze%20negli%20istituti%20di%20istruzione%20secondaria.md), della [legge 6 luglio 1970, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-07-06;576), e successive integrazioni e modificazioni.
+ Il personale di cui al precedente comma, che allo inizio del servizio in Paesi in via di sviluppo riveste la qualifica di incaricato a tempo indeterminato presso scuole od istituti italiani di istruzione secondaria ai sensi della [legge 13 giugno 1969, n. 282](Conferimento%20degli%20incarichi%20e%20delle%20supplenze%20negli%20istituti%20di%20istruzione%20secondaria.md), non decade da tale qualifica. Durante il periodo di servizio all'estero, e' sospesa l'erogazione degli assegni metropolitani relativi all'incarico.
 
 ## FORME E MODALITA' DELLA COOPERAZIONE TECNICA  Capo I FORMAZIONE TECNICO-SCIENTIFICA, PROFESSIONALE O SPECIFICA DI CITTADINI DEI PAESI IN VIA DI SVILUPPO
 

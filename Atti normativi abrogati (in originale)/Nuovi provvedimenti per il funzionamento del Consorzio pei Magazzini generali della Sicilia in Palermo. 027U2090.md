@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visti il [R. decreto-legge 16 ottobre 1924, n. 1691](Costituzione%20di%20un%20Consorzio%20per%20la%20istituzione%20e%20lesercizio%20di%20Magazzini%20generali%20in%20Sicilia%20con%20sede%20in%20Palermo.%20024U1691.md), il [R. decreto 19 aprile 1925, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-19;522), il decreto Ministeriale 15 maggio 1925 ed il decreto Ministeriale 4 luglio 1925, riguardanti il Consorzio pei Magazzini generali della Sicilia con sede in Palermo;
+Visti il [R. decreto-legge 16 ottobre 1924, n. 1691](Costituzione%20di%20un%20Consorzio%20per%20la%20istituzione%20e%20lesercizio%20di%20Magazzini%20generali%20in%20Sicilia%20con%20sede%20in%20Palermo.%20024U1691.md), il [R. decreto 19 aprile 1925, n. 522](Costituzione%20del%20Consorzio%20per%20i%20magazzini%20generali%20della%20Sicilia%20in%20Palermo.%20025U0522.md), il decreto Ministeriale 15 maggio 1925 ed il decreto Ministeriale 4 luglio 1925, riguardanti il Consorzio pei Magazzini generali della Sicilia con sede in Palermo;
 
 Visto il [R. decreto-legge 1° luglio 1926, n. 2290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-01;2290), concernente l'ordinamento dei Magazzini generali, ed il relativo regolamento approvato con il [R. decreto 16 gennaio 1927, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-16;126).
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-Il Consorzio pei Magazzini generali della Sicilia in Palermo procede alla istituzione dei suoi Magazzini generali in Sicilia, con la osservanza delle sole formalita' prescritte dal [R. decreto-legge 11 ottobre 1924, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-11;1691), dal [R. decreto 19 aprile 1925, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-19;522), dallo statuto approvato con decreto Ministeriale 15 maggio 1925 e dal regolamento generale approvato con decreto Ministeriale 4 luglio 1925, rimanendo fermo l'obbligo della preventiva autorizzazione del Ministero delle finanze per i Magazzini generali destinati a ricevere anche merci estere. 
+Il Consorzio pei Magazzini generali della Sicilia in Palermo procede alla istituzione dei suoi Magazzini generali in Sicilia, con la osservanza delle sole formalita' prescritte dal [R. decreto-legge 11 ottobre 1924, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-11;1691), dal [R. decreto 19 aprile 1925, n. 522](Costituzione%20del%20Consorzio%20per%20i%20magazzini%20generali%20della%20Sicilia%20in%20Palermo.%20025U0522.md), dallo statuto approvato con decreto Ministeriale 15 maggio 1925 e dal regolamento generale approvato con decreto Ministeriale 4 luglio 1925, rimanendo fermo l'obbligo della preventiva autorizzazione del Ministero delle finanze per i Magazzini generali destinati a ricevere anche merci estere. 
  
  Il Consorzio effettua un unico deposito di atti e documenti per tutti i Magazzini generali compresi nella circoscrizione di uno stesso Tribunale o di uno stesso Consiglio provinciale dell'economia. 
  

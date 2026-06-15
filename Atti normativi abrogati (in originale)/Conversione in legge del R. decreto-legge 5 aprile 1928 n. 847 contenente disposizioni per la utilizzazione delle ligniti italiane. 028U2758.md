@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 5 aprile 1928, n. 847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-04-05;847), contenente disposizioni per la utilizzazione delle ligniti italiane. 
+ E' convertito in legge il [R. decreto-legge 5 aprile 1928, n. 847](Disposizioni%20per%20la%20utilizzazione%20delle%20ligniti%20italiane.%20028U0847.md), contenente disposizioni per la utilizzazione delle ligniti italiane. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

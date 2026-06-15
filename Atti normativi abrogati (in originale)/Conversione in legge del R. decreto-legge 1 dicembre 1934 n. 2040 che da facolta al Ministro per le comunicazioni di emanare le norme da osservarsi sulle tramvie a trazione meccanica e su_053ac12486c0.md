@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° dicembre 1934, n. 2040](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-01;2040), che da' facolta' al Ministro per le comunicazioni di emanare le norme da osservarsi sulle tramvie a trazione meccanica e sulle ferrovie economiche in materia di polizia, sicurezza e regolarita' dell'esercizio. 
+ E' convertito in legge il [R. decreto-legge 1° dicembre 1934, n. 2040](Facolta%20al%20Ministro%20per%20le%20comunicazioni%20di%20emanare%20le%20norme%20da%20osservarsi%20sulle%20tramvie%20a%20trazione%20meccanica%20e%20sulle%20ferrovie%20economiche%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dell_84a2813e578b.md), che da' facolta' al Ministro per le comunicazioni di emanare le norme da osservarsi sulle tramvie a trazione meccanica e sulle ferrovie economiche in materia di polizia, sicurezza e regolarita' dell'esercizio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

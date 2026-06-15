@@ -10,13 +10,13 @@ vigente: true
 
 IL MINISTRO DELLA DIFESA
 
-Vista la [legge 24 giugno 1998, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-24;206), concernente norme per le visite di parlamentari alle strutture militari, che all'articolo 6 prevede l'emanazione del relativo regolamento di attuazione;
+Vista la [legge 24 giugno 1998, n. 206](Norme%20per%20le%20visite%20di%20parlamentari%20alle%20strutture%20militari.md), concernente norme per le visite di parlamentari alle strutture militari, che all'articolo 6 prevede l'emanazione del relativo regolamento di attuazione;
 
 Vista la [legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354), recante norme sull'ordinamento penitenziario nonche' il relativo regolamento di esecuzione approvato con [decreto del Presidente della Repubblica 29 aprile 1976, n. 431](Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20luglio%201975%20n.%20354%20recante%20norme%20sullordinamento%20penitenziario%20e%20sulle%20misure%20privative%20e%20limitative%20della%20liberta.md);
 
-Vista la [legge 24 ottobre 1977, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-24;801), concernente l'istituzione e l'ordinamento dei servizi per le informazioni e la sicurezza e la disciplina del segreto di Stato;
+Vista la [legge 24 ottobre 1977, n. 801](Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md), concernente l'istituzione e l'ordinamento dei servizi per le informazioni e la sicurezza e la disciplina del segreto di Stato;
 
-Vista la [legge 11 luglio 1978, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-11;382), recante norme di principio sulla disciplina militare;
+Vista la [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), recante norme di principio sulla disciplina militare;
 
 Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4):
 
@@ -44,23 +44,23 @@ Nel corso delle visite nelle aree riservate non possono essere introdotte appare
 
 4.
 
-Sono escluse dalle visite le aree riservate di pertinenza degli organismi di cui alla [legge 24 ottobre 1977, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-24;801), anche se ubicate in infrastrutture, comprensori ed installazioni militari, fisse o mobili, in territorio nazionale o estero.
+Sono escluse dalle visite le aree riservate di pertinenza degli organismi di cui alla [legge 24 ottobre 1977, n. 801](Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md), anche se ubicate in infrastrutture, comprensori ed installazioni militari, fisse o mobili, in territorio nazionale o estero.
 
 NOTE
  Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo, fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo, fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
- - L'[art. 6 della legge 24 giugno 1998, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-24;206#art_6) (Norme per le visite di parlamentari alle strutture militari), cosi' recita:
+ - L'[art. 6 della legge 24 giugno 1998, n. 206](Norme%20per%20le%20visite%20di%20parlamentari%20alle%20strutture%20militari.md) (Norme per le visite di parlamentari alle strutture militari), cosi' recita:
  "Art. 6 (Regolamento di attuazione). - 1. Entro sessanta giorni dalla data di entrata in vigore della presente legge, il Ministro della difesa provvede all'emanazione del relativo regolamento di attuazione, il cui schema e' sottoposto al parere delle competenti commissioni parlamentari, che si pronunciano entro quaranta giorni. Se le commissioni non esprimono il parere nel termine, il regolamento e' comunque emanato".
  - La [legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354), reca: "Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta'".
  - Il [decreto del Presidente della Repubblica 29 aprile 1976, n. 431](Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20luglio%201975%20n.%20354%20recante%20norme%20sullordinamento%20penitenziario%20e%20sulle%20misure%20privative%20e%20limitative%20della%20liberta.md), reca: "Approvazione del regolamento di esecuzione della [legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354), recante norme sull'ordinamento penitenziario e sulle misure privative, e limitative della liberta'".
- - La [legge 24 ottobre 1977, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-24;801), concerne: "Istituzione e ordinamento dei servizi per le informazioni e la sicurezza e disciplina del segreto di Stato".
+ - La [legge 24 ottobre 1977, n. 801](Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md), concerne: "Istituzione e ordinamento dei servizi per le informazioni e la sicurezza e disciplina del segreto di Stato".
  - L'[art. 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), cosi' recita:
  "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.
  4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento , sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".
  Nota all'art. 1:
- - Per l'argomento della [legge 24 ottobre 1977, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-24;801), vedasi nelle note alle premesse.
+ - Per l'argomento della [legge 24 ottobre 1977, n. 801](Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md), vedasi nelle note alle premesse.
 
 ## Art. 2.
 

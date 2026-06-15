@@ -10,8 +10,8 @@ vigente: true
 
 ## Art. 1.
 
-I posti nel grado iniziale del ruolo, di cui alla tabella B relativa, all'Amministrazione centrale del tesoro, allegata al [decreto Luogotenenziale 28 ottobre 1944, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-28;356), concernente le nuove tabelle organiche del personale dipendente dai Ministeri delle finanze e del tesoro, sono conferiti mediante concorso pubblico per esami.
- Per l'ammissione al concorso e' richiesto il possesso di una delle lauree previste dall'art. 92 del regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, approvato con il [R. decreto 23 marzo 1933, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-23;185).
+I posti nel grado iniziale del ruolo, di cui alla tabella B relativa, all'Amministrazione centrale del tesoro, allegata al [decreto Luogotenenziale 28 ottobre 1944, n. 356](../Decreti%20legislativi%20luogotenenziali/Nuove%20tabelle%20organiche%20del%20personale%20dipendente%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.%20044U0356.md), concernente le nuove tabelle organiche del personale dipendente dai Ministeri delle finanze e del tesoro, sono conferiti mediante concorso pubblico per esami.
+ Per l'ammissione al concorso e' richiesto il possesso di una delle lauree previste dall'art. 92 del regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, approvato con il [R. decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md).
  Un terzo dei posti messi a concorso a termine del primo comma del presente articolo e' conferito, secondo l'ordine della relativa graduatoria, ai funzionari di grado undecimo e decimo dei ruoli di gruppo B dell'Amministrazione centrale e provinciale del tesoro e ai funzionari dei ruoli di gruppo A o B di altre Amministrazioni statali che prestino, da almeno sei mesi, comunque servizio presso l'Amministrazione centrale del tesoro, purche' siano tutti in possesso del prescritto titolo di studio e nel concorso medesimo conseguano i posti riservati in conformita' del precedente comma che rimanessero scoperti, saranno portati in aumento a quelli conferibili agli altri partecipanti al concorso.
 
 ## Art. 2.
@@ -37,7 +37,7 @@ La Commissione giudicatrice del concorso a volontario nel ruolo del personale di
 
 ## Art. 5.
 
-La Commissione giudicatrice del concorso per esami nel grado iniziale della carriera d'ordine, di cui alla tabella D allegata al [decreto Luogotenenziale 28 ottobre 1944, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-28;356), e' composta;
+La Commissione giudicatrice del concorso per esami nel grado iniziale della carriera d'ordine, di cui alla tabella D allegata al [decreto Luogotenenziale 28 ottobre 1944, n. 356](../Decreti%20legislativi%20luogotenenziali/Nuove%20tabelle%20organiche%20del%20personale%20dipendente%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.%20044U0356.md), e' composta;
  di un funzionario della carriera amministrativa del Ministero del tesoro, di grado non inferiore al sesto, presidente;
  di tre funzionari dei ruolo della carriera amministrativa dell'Amministrazione centrale del tesoro di grado non inferiore al settimo, membri.
  Le funzioni di segretario della Commissione sono disimpegnate da un funzionario della stessa carriera, di grado non inferiore al decimo.
@@ -101,7 +101,7 @@ Il programma d'esame del concorso a posti di volontario nel ruolo di gruppo B de
 
 ## Art. 9.
 
-Il programma d'esame del concorso ad alunno d'ordine in prova nel ruolo di gruppo C dell'Amministrazione centrale del tesoro, di cui alla tabella D allegata al [decreto Luogotenenziale 28 ottobre 1944, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-28;356), e nel ruolo di gruppo C degli Uffici provinciali del tesoro, e' stabilito come appresso:
+Il programma d'esame del concorso ad alunno d'ordine in prova nel ruolo di gruppo C dell'Amministrazione centrale del tesoro, di cui alla tabella D allegata al [decreto Luogotenenziale 28 ottobre 1944, n. 356](../Decreti%20legislativi%20luogotenenziali/Nuove%20tabelle%20organiche%20del%20personale%20dipendente%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.%20044U0356.md), e nel ruolo di gruppo C degli Uffici provinciali del tesoro, e' stabilito come appresso:
  PROVE SCRITTE:
  Parte prima:
  Componimento italiano.
@@ -122,7 +122,7 @@ Nel bando dei concorsi di cui ai precedenti articoli del presente decreto, che s
 
 ## Art. 11.
 
-Per quanto concerne le altre modalita' dei concorsi di cui al presente decreto saranno, in quanto applicabili, osservate le disposizioni del capo primo del [R. decreto 23 marzo 1933, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-23;185), nonche' del [R. decreto 13 aprile 1939, n. 694](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-13;694) e le successive modificazioni.
+Per quanto concerne le altre modalita' dei concorsi di cui al presente decreto saranno, in quanto applicabili, osservate le disposizioni del capo primo del [R. decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), nonche' del [R. decreto 13 aprile 1939, n. 694](Norme%20intese%20a%20disciplinare%20il%20reclutamento%20e%20lo%20sviluppo%20di%20carriera%20nel%20ruolo%20del%20personale%20di%20gruppo%20B%20della%20Direzione%20generale%20delle%20pensioni%20di%20guerra%20039U0694.md) e le successive modificazioni.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
 

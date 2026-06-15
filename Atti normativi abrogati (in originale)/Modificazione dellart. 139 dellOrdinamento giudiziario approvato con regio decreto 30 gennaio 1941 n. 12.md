@@ -14,7 +14,7 @@ Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto l'art. 139 dell'Ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
 
-Visto l'[art. 7 del decreto legislativo luogotenenziale 28 dicembre 1944, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;438#art_7);
+Visto l'[art. 7 del decreto legislativo luogotenenziale 28 dicembre 1944, n. 438](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20relative%20al%20personale%20giudiziario%20durante%20lo%20stato%20di%20guerra.%20044U0438.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 16 agosto 1931, n. 980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-08-16;980), che modifica il regime doganale del frumento, del granturco bianco e di taluni prodotti derivati. 
+ E' convertito in legge il [R. decreto-legge 16 agosto 1931, n. 980](Modificazione%20al%20regime%20doganale%20del%20frumento%20del%20granturco%20bianco%20e%20di%20taluni%20prodotti%20derivati.%20031U0980.md), che modifica il regime doganale del frumento, del granturco bianco e di taluni prodotti derivati. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 18 gennaio 1932 - Anno X 
  

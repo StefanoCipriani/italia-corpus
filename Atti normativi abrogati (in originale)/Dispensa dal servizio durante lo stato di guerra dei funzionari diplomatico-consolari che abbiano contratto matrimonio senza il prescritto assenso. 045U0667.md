@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 23 ottobre 1925, n. 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;2006), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562);
+Visto il [R. decreto-legge 23 ottobre 1925, n. 2006](Disposizioni%20sul%20matrimonio%20dei%20funzionari%20diplomatici%20e%20consolari.%20025U2006.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
 Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per gli affari esteri, di concerto con il Ministro p
 
 ## Art. 1.
 
-Durante l'attuale stato di guerra e' sospesa l'applicazione dell'[art. 4 del R. decreto-legge 23 ottobre 1925, n. 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;2006#art_4), convertito nella [legge 18 marzo 1926, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562), nei confronti dei funzionari appartenenti alla carriera diplomatico-consolare che, anteriormente alla data del presente decreto, abbiano contratto matrimonio, anche con persone non in possesso della cittadinanza italiana, senza l'assentimento previsto dalle vigenti disposizioni.
+Durante l'attuale stato di guerra e' sospesa l'applicazione dell'[art. 4 del R. decreto-legge 23 ottobre 1925, n. 2006](Disposizioni%20sul%20matrimonio%20dei%20funzionari%20diplomatici%20e%20consolari.%20025U2006.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), nei confronti dei funzionari appartenenti alla carriera diplomatico-consolare che, anteriormente alla data del presente decreto, abbiano contratto matrimonio, anche con persone non in possesso della cittadinanza italiana, senza l'assentimento previsto dalle vigenti disposizioni.
 
 ## Art. 2.
 

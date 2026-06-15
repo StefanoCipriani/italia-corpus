@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-05;1431#art_1) e [2 della legge 5 ottobre 1962, numero 1431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-05;1431#art_2), recante provvedimenti per la ricostruzione e la rinascita delle zone colpite dal terremoto dell'agosto 1962;
+Visti gli [articoli 1](Provvedimenti%20per%20la%20ricostruzione%20e%20la%20rinascita%20delle%20zone%20colpite%20dal%20terremoto%20dellagosto%201962.md) e [2 della legge 5 ottobre 1962, numero 1431](Provvedimenti%20per%20la%20ricostruzione%20e%20la%20rinascita%20delle%20zone%20colpite%20dal%20terremoto%20dellagosto%201962.md), recante provvedimenti per la ricostruzione e la rinascita delle zone colpite dal terremoto dell'agosto 1962;
 
 Visto il parere del Consiglio superiore dei lavori pubblici espresso nell'adunanza del 26 novembre 1962;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per i lavori pubblici, di concerto con il Ministro p
 
 ## Art. 1.
 
-A norma dell'[art. 1 della legge 5 ottobre 1962, n. 1431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-05;1431#art_1), le disposizioni di cui alla legge stessa sono applicabili nei seguenti Comuni:
+A norma dell'[art. 1 della legge 5 ottobre 1962, n. 1431](Provvedimenti%20per%20la%20ricostruzione%20e%20la%20rinascita%20delle%20zone%20colpite%20dal%20terremoto%20dellagosto%201962.md), le disposizioni di cui alla legge stessa sono applicabili nei seguenti Comuni:
  in provincia di Avellino: Gesualdo;
  in provincia di Benevento: Ceppaloni - San Bartolomeo in Galdo - San Nicola Manfredi;
  in provincia di Campobasso: San Martino in Pensilis;
@@ -29,7 +29,7 @@ A norma dell'[art. 1 della legge 5 ottobre 1962, n. 1431](https://www.normattiva
 
 ## Art. 2.
 
-A norma dell'art. 2 della citata [legge 5 ottobre 1962, n. 1431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-05;1431), e' stabilito come appresso la categoria sismica di appartenenza dei Comuni predetti:
+A norma dell'art. 2 della citata [legge 5 ottobre 1962, n. 1431](Provvedimenti%20per%20la%20ricostruzione%20e%20la%20rinascita%20delle%20zone%20colpite%20dal%20terremoto%20dellagosto%201962.md), e' stabilito come appresso la categoria sismica di appartenenza dei Comuni predetti:
 
  1ª CATEGORIA
  in provincia di Foggia: Monteleone di Puglia - Panni.

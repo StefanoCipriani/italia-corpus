@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 9 maggio 1926, n. 894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-09;894), relativo alla assunzione della Cassa di risparmio e anticipazione del circondario di Voghera, da parte della Cassa di risparmio delle Provincie Lombarde. 
+ E' convertito in legge il [R. decreto-legge 9 maggio 1926, n. 894](Fusione%20della%20Cassa%20di%20risparmio%20di%20Voghera%20con%20quella%20delle%20Provincie%20lombarde.%20026U0894.md), relativo alla assunzione della Cassa di risparmio e anticipazione del circondario di Voghera, da parte della Cassa di risparmio delle Provincie Lombarde. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

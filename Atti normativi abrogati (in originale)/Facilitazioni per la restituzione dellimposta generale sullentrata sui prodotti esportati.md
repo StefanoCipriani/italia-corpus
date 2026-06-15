@@ -10,20 +10,20 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 77, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2), Visto il [decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1940-01-09;2), convertito con modificazioni nella [legge 19 giugno 1940, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-19;762), e successive modificazioni ed integrazioni;
+Visto l'[art. 77, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2), Visto il [decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1940-01-09;2), convertito con modificazioni nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni ed integrazioni;
 
 Vista la [legge 31 luglio 1954, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;570), e successive modificazioni ed integrazioni;
 
-Vista la [legge 13 novembre 1963, n. 1544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-11-13;1544);
+Vista la [legge 13 novembre 1963, n. 1544](Facilitazione%20per%20la%20restituzione%20dellimposta%20generale%20sullentrata%20sui%20prodotti%20esportati.md);
 
-Ritenuta la straordinaria necessita' e l'urgenza di estendere le agevolazioni previste dalla [legge 13 novembre 1963, n. 1544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-11-13;1544), per gli esportatori anche ai giratari delle bollette di esportazione;
+Ritenuta la straordinaria necessita' e l'urgenza di estendere le agevolazioni previste dalla [legge 13 novembre 1963, n. 1544](Facilitazione%20per%20la%20restituzione%20dellimposta%20generale%20sullentrata%20sui%20prodotti%20esportati.md), per gli esportatori anche ai giratari delle bollette di esportazione;
 
 Sentito il Consiglio dei Ministri sulla proposta del Ministro per le finanze, di concerto con i Ministri per il tesoro, per il bilancio per la grazia e giustizia e per il commercio con l'estero; Decreta:
 
 ## Art. 1.
 
-L'operatore economico a favore del quale sia dall'esportatore ceduto, mediante girata della bolletta doganale, il credito a questo ultimo spettante a titolo II restituzione dell'imposta generale sull'entrata per i prodotti con la bolletta medesima esportati, puo' discaricare le relative somme dall'imposta dovuta in dipendenza dei propri atti economici, nei limiti e con le norme previste dalla [legge 13 novembre 1963, n. 1544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-11-13;1544).
- Al giratario della bolletta doganale che si avvalga della facolta' di cui al precedente comma si applicano le disposizioni dell'[articolo 4 della legge 13 novembre 1963, n. 1544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-11-13;1544#art_4).
+L'operatore economico a favore del quale sia dall'esportatore ceduto, mediante girata della bolletta doganale, il credito a questo ultimo spettante a titolo II restituzione dell'imposta generale sull'entrata per i prodotti con la bolletta medesima esportati, puo' discaricare le relative somme dall'imposta dovuta in dipendenza dei propri atti economici, nei limiti e con le norme previste dalla [legge 13 novembre 1963, n. 1544](Facilitazione%20per%20la%20restituzione%20dellimposta%20generale%20sullentrata%20sui%20prodotti%20esportati.md).
+ Al giratario della bolletta doganale che si avvalga della facolta' di cui al precedente comma si applicano le disposizioni dell'[articolo 4 della legge 13 novembre 1963, n. 1544](Facilitazione%20per%20la%20restituzione%20dellimposta%20generale%20sullentrata%20sui%20prodotti%20esportati.md).
 
 ## Art. 2.
 

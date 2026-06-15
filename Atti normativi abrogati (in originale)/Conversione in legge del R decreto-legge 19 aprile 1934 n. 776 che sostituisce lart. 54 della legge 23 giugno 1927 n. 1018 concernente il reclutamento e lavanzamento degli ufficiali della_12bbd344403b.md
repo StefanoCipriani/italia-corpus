@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 776](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-19;776), che sostituisce l'[art. 54 della, legge 23 giugno 1927, n. 1018](Reclutamento%20ed%20avanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20027U1018.md), concernente il reclutamento e l'avanzamento degli ufficiali della Regia aeronautica. 
+ E' convertito in legge il [R. decreto-legge 19 aprile 1934, n. 776](Sostituzione%20dellart.%2054%20della%20legge%2025%20giugno%201927%20n.%201018%20concernente%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20034U0776.md), che sostituisce l'[art. 54 della, legge 23 giugno 1927, n. 1018](Reclutamento%20ed%20avanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20027U1018.md), concernente il reclutamento e l'avanzamento degli ufficiali della Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

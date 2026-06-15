@@ -16,16 +16,16 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [comma quinto dell'articolo 2 del decreto del Presidente della Repubblica 17 marzo 1965, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-03-17;145#art_2-com5), e' sostituito dal seguente:
+Il [comma quinto dell'articolo 2 del decreto del Presidente della Repubblica 17 marzo 1965, n. 145](../DPR/Disciplina%20dellassicurazione%20obbligatoria%20contro%20le%20malattie%20e%20del%20trattamento%20economico%20di%20maternita%20per%20il%20personale%20dipendente%20dallEnte%20Nazionale%20per%20lEnergia%20Elettrica%20ENEL.md), e' sostituito dal seguente:
  "Con decorrenza dal 1 gennaio 1972 la somma di cui al precedente comma dovra' corrispondere ad un minimo del 70 per cento dell'importo globale dei contributi riscossi per l'assicurazione contro le malattie e, in caso di modifiche dei costi assistenziali, non potra' comunque superare il 75 per cento dell'importo globale suddetto. Con decorrenza 1 gennaio 1973 le anzidette percentuali sono elevate rispettivamente al 75 per cento ed all'80 per cento".
 
 ## Art. 2.
 
-Ai fini della determinazione della somma globale di cui al [terzo comma dell'articolo 2 del decreto del Presidente della Repubblica 17 marzo 1965, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-03-17;145#art_2-com3), sono prese in considerazione anche le quote di spesa degli esercizi precedenti non rimborsate alla cassa perche' eccedenti il limite massimo della somma stessa previsto dalla normativa in vigore.
+Ai fini della determinazione della somma globale di cui al [terzo comma dell'articolo 2 del decreto del Presidente della Repubblica 17 marzo 1965, n. 145](../DPR/Disciplina%20dellassicurazione%20obbligatoria%20contro%20le%20malattie%20e%20del%20trattamento%20economico%20di%20maternita%20per%20il%20personale%20dipendente%20dallEnte%20Nazionale%20per%20lEnergia%20Elettrica%20ENEL.md), sono prese in considerazione anche le quote di spesa degli esercizi precedenti non rimborsate alla cassa perche' eccedenti il limite massimo della somma stessa previsto dalla normativa in vigore.
 
 ## Art. 3.
 
-Il [secondo comma dell'articolo 4 del decreto del Presidente della Repubblica 17 marzo 1965, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-03-17;145#art_4-com2), e' sostituito dal seguente:
+Il [secondo comma dell'articolo 4 del decreto del Presidente della Repubblica 17 marzo 1965, n. 145](../DPR/Disciplina%20dellassicurazione%20obbligatoria%20contro%20le%20malattie%20e%20del%20trattamento%20economico%20di%20maternita%20per%20il%20personale%20dipendente%20dallEnte%20Nazionale%20per%20lEnergia%20Elettrica%20ENEL.md), e' sostituito dal seguente:
  "La cassa dovra' prevedere l'inclusione di un rappresentante dell'Istituto nazionale per l'assicurazione contro le malattie in ciascuno dei propri organi collegiali di gestione e di controllo centrali e periferici".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

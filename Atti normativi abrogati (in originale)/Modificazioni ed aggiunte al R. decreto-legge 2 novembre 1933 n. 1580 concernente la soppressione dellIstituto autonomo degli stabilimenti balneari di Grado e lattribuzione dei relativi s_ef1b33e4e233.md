@@ -34,7 +34,7 @@ Col regolamento di cui all'[art. 4 del R. decreto-legge 2 novembre 1933, n. 1580
 
 ## Art. 3.
 
-Agli impiegati e salariati, che saranno dispensati dal servizio in conseguenza della revisione, degli organici del personale dell'Azienda, autonoma di cura e del soppresso Istituto autonomo degli stabilimenti balneari, non potra' essere fatto, in alcun caso, un trattamento piu' favorevole di quello stabilito dall'[art. 3 del R. decreto 27 maggio 1923, n. 1177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-27;1177#art_3). 
+Agli impiegati e salariati, che saranno dispensati dal servizio in conseguenza della revisione, degli organici del personale dell'Azienda, autonoma di cura e del soppresso Istituto autonomo degli stabilimenti balneari, non potra' essere fatto, in alcun caso, un trattamento piu' favorevole di quello stabilito dall'[art. 3 del R. decreto 27 maggio 1923, n. 1177](Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md). 
  
  Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. Il Nostro Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

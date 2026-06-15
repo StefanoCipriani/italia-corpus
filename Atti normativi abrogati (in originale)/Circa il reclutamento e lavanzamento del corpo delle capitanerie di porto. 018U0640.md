@@ -24,7 +24,7 @@ Alle promozioni nel personale del corpo delle capitanerie di porto si applicano 
  
  I quadri di avanzamento per la promozione a sottotenente di porto di 2ª classe ed ai successivi gradi e classi, fino al grado di capitano di porto di lª classe incluso, sono compilati dal Consiglio superiore di marina costituito in Commissione ordinaria di avanzamento. 
  
- Le promozioni dei capitani di porto dalla 3ª alla 2ª classe hanno luogo meta' a scelta e meta' per anzianita'; quelle dei tenenti di porto di 1ª classe a capitano di porto di 4ª classe esclusivamente a scelta; dei tenenti di porto dalla 2ª alla 1ª classe e dalla 3ª alla 2ª classe un quinto a scelta e quattro quinti per anzianita'; dei sottotenenti di porto di 1ª classe a tenenti di porto di 3ª classe esclusivamente a scelta; dei sottotenenti di porto dalla 2ª alla 1ª e degli aspiranti di porto a sottotenenti di porto di 2ª classe per anzianita'. Le disposizioni contenute negli [articoli 12 della legge 6 marzo 1898, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;59#art_12), e 3 della [legge 27 marzo 1904, numero 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-27;114), e le altre disposizioni a queste correlative non sono estese al personale del corpo delle capitanerie di porto.
+ Le promozioni dei capitani di porto dalla 3ª alla 2ª classe hanno luogo meta' a scelta e meta' per anzianita'; quelle dei tenenti di porto di 1ª classe a capitano di porto di 4ª classe esclusivamente a scelta; dei tenenti di porto dalla 2ª alla 1ª classe e dalla 3ª alla 2ª classe un quinto a scelta e quattro quinti per anzianita'; dei sottotenenti di porto di 1ª classe a tenenti di porto di 3ª classe esclusivamente a scelta; dei sottotenenti di porto dalla 2ª alla 1ª e degli aspiranti di porto a sottotenenti di porto di 2ª classe per anzianita'. Le disposizioni contenute negli [articoli 12 della legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md), e 3 della [legge 27 marzo 1904, numero 114](Che%20apporta%20modificazioni%20alla%20legge%206%20marzo%201898%20n.%2059%20relativa%20allavanzamento%20nei%20corpi%20militari%20della%20R.%20marina.%20004U0114.md), e le altre disposizioni a queste correlative non sono estese al personale del corpo delle capitanerie di porto.
 
 ## Art. 3.
 
@@ -70,8 +70,8 @@ Gli allievi dell'Accademia navale che, avendo superati gli esami finali dell'ult
 
 ## Art. 7.
 
-Le disposizioni contenute nel [R. decreto 27 settembre 1914, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-27;1090), e nel [decreto-legge Luogotenenziale 20 maggio 1917, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-05-20;865), continuano ad aver vigore per i personali delle capitanerie di porto.
-Rimangono del pari in vigore le disposizioni del [R. decreto 8 dicembre 1910, n. 857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-12-08;857), e quelle emanate per la loro attuazione.
+Le disposizioni contenute nel [R. decreto 27 settembre 1914, n. 1090](Da%20convertirsi%20in%20legge%20relativo%20al%20collocamento%20fuori%20ruolo%20dei%20funzionari%20delle%20Amministrazioni%20centrali%20e%20dipendenti%20della%20guerra%20e%20della%20Regia%20marina%20inviati%20nelle%20colonie%20o%20in%20luoghi_1a5ff9157625.md), e nel [decreto-legge Luogotenenziale 20 maggio 1917, n. 865](Concernente%20il%20collocamento%20fuori%20ruolo%20del%20personale%20delle%20Amministrazioni%20dello%20Stato%20posto%20a%20disposizione%20del%20Ministero%20delle%20colonie.%20017U0865.md), continuano ad aver vigore per i personali delle capitanerie di porto.
+Rimangono del pari in vigore le disposizioni del [R. decreto 8 dicembre 1910, n. 857](Che%20approva%20le%20norme%20per%20lIspettorato%20delle%20capitanerie%20di%20porto%20con%20sede%20in%20Roma%20010U0857.md), e quelle emanate per la loro attuazione.
 
 ## Art. 8.
 
@@ -79,7 +79,7 @@ Le disposizioni contenute nei primi sei articoli del presente decreto avranno vi
 
 ## Art. 9. — Disposizioni transitorie.
 
-Per i quadri di avanzamento contemplati dal precedente articolo 5 non si compileranno le schede previste dall'[articolo 30 della legge 6 marzo 1898, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;59#art_30). 
+Per i quadri di avanzamento contemplati dal precedente articolo 5 non si compileranno le schede previste dall'[articolo 30 della legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md). 
  
  Per le promozioni di grado o di classe da farsi in parte a scelta ed in parte ad anzianita', la Commissione si atterra' alla procedura stabilita dal precedente articolo 4. 
  

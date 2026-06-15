@@ -22,13 +22,13 @@ VITTORIO EMANUELE II
  
  Articolo unico. 
  
- L'[articolo 6 del Regio Decreto 27 novembre 1870, n. 6030](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-11-27;6030#art_6), e' corretto come segue: 
+ L'[articolo 6 del Regio Decreto 27 novembre 1870, n. 6030](Che%20manda%20pubblicare%20nella%20Provincia%20di%20Roma%20alcuni%20Codici%20Leggi%20Decreti%20e%20Regolamenti%20concernenti%20lunificazione%20legislativa.%20070U6030.md), e' corretto come segue: 
  
  Articolo 6. Avranno esecuzione dal 1° gennaio 1871: 
  
- a) Il [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) ed i Regii Decreti indicati al n. 4 dell'articolo 1; 
+ a) Il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ed i Regii Decreti indicati al n. 4 dell'articolo 1; 
  
- b) Gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-11-30;2606#art_3) e [4 del Regio Decreto 30 novembre 1865, n. 2606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-11-30;2606#art_4), contenenti disposizioni transitorie per l'attuazione del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262); 
+ b) Gli [articoli 3](contenente%20disposizioni%20transitorie%20per%20lattuazione%20del%20Codice%20civile%20del%20Regno%20dItalia.%20065U2606.md) e [4 del Regio Decreto 30 novembre 1865, n. 2606](contenente%20disposizioni%20transitorie%20per%20lattuazione%20del%20Codice%20civile%20del%20Regno%20dItalia.%20065U2606.md), contenenti disposizioni transitorie per l'attuazione del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262); 
  
  c) La Legge ed il Regio Decreto rispettivamente indicati ai numeri 19 e 20 dell'articolo 1 del presente Decreto. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le sedi di rappresentanze diplomatiche presso le quali potranno essere destinati gli addetti aeronautici di cui all'[art. 2 del R. decreto-legge 24 maggio 1925, n. 1032](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-05-24;1032#art_2), sono stabilite come segue:
+Le sedi di rappresentanze diplomatiche presso le quali potranno essere destinati gli addetti aeronautici di cui all'[art. 2 del R. decreto-legge 24 maggio 1925, n. 1032](Fissazione%20del%20numero%20dei%20Regi%20addetti%20militari%20navali%20ed%20aeronautici%20presso%20le%20sedi%20delle%20rappresentanze%20diplomatiche.%20025U1032.md), sono stabilite come segue:
 Lisbona e Rio de Janeiro. 
  
  La sede di Lisbona e' classificata di 2 categoria. La sede di Rio de Janeiro e' classificata di 1a categoria.
@@ -21,7 +21,7 @@ I Regi addetti aeronautici in tali sedi assumeranno anche la qualifica di Regi a
 
 ## Art. 3.
 
-Ad ogni Regio addetto e' assegnato un segretario e sostituto, a cui sono attribuiti i compiti previsti per gli addetti aggiunti, di cui al capo II del [R. decreto-legge 8 luglio 1937, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-08;1395), e quelli previsti dal successivo capo III dello stesso Regio decreto-legge. 
+Ad ogni Regio addetto e' assegnato un segretario e sostituto, a cui sono attribuiti i compiti previsti per gli addetti aggiunti, di cui al capo II del [R. decreto-legge 8 luglio 1937, n. 1395](Trattamento%20economico%20degli%20addetti%20militari%20navali%20ed%20aeronautici%20allestero%20degli%20addetti%20aggiunti%20e%20assistenti%20addetti%20navali%20e%20degli%20archivisti%20in%20servizio%20presso%20i%20loro%20uffici.%20037U1395.md), e quelli previsti dal successivo capo III dello stesso Regio decreto-legge. 
  
  Al segretario e sostituto e' assegnato il trattamento economico di cui al capo II del citato Regio decreto-legge. 
  

@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista, la [legge 2 giugno 1904, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-06-02;218), e successive modificazioni;
+Vista, la [legge 2 giugno 1904, n. 218](Concernente%20lassegno%20a%20favore%20della%20casa%20Umberto%20I%20dei%20veterani%20ed%20invalidi%20delle%20guerre%20nazionali%20in%20Turate.%20004U0218.md), e successive modificazioni;
 
-Visto il [regio decreto 2 aprile 1943, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-04-02;373);
+Visto il [regio decreto 2 aprile 1943, n. 373](Modificazione%20della%20denominazione%20della%20Casa%20Umberto%20I%20dei%20veterani%20ed%20invalidi%20delle%20guerre%20nazionali%20in%20Turate.%20043U0373.md);
 
 Visto il [decreto legislativo 19 settembre 1946, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-09-19;319);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

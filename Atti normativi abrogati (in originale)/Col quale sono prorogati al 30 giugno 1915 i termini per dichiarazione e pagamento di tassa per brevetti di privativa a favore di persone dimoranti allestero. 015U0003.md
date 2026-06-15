@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la legge 30 ottobre 1859, n. 3731, sulle privative industriali;
 
-Visto il [R. decreto 24 settembre 1914, n. 1034](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-24;1034);
+Visto il [R. decreto 24 settembre 1914, n. 1034](Da%20convertirsi%20in%20legge%20concernente%20proroga%20di%20termini%20stabiliti%20dalla%20legge%2030%20ottobre%201859%20n.%203731%20sulle%20privative%20industriali.%20014U1034.md);
 
 Considerata l'opportunita' di prolungare i termini previsti nel detto decreto per rendere possibile ai titolari di privative industriali, dimoranti all'estero, la conservazione dei loro attestati di privativa, ovviando alle difficolta' portate dalle presenti condizioni internazionali;
 
@@ -26,7 +26,7 @@ Sulla proposta dei ministri di agricoltura, industria e commercio e del tesoro, 
 
 ## Art. 1.
 
-Tutti i termini prorogati fino al 31 dicembre 1914 dal [R. decreto 24 settembre 1914, n. 1034](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-24;1034), sono ulteriormente prorogati fino al 30 giugno 1915.
+Tutti i termini prorogati fino al 31 dicembre 1914 dal [R. decreto 24 settembre 1914, n. 1034](Da%20convertirsi%20in%20legge%20concernente%20proroga%20di%20termini%20stabiliti%20dalla%20legge%2030%20ottobre%201859%20n.%203731%20sulle%20privative%20industriali.%20014U1034.md), sono ulteriormente prorogati fino al 30 giugno 1915.
 
 ## Art. 2.
 

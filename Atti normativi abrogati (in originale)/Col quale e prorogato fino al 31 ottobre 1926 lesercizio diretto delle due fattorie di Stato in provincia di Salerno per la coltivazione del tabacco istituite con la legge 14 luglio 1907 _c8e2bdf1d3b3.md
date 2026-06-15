@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' prorogato fino al 31 ottobre 1926, l'esercizio diretto delle due fattorie di Stato in provincia di Salerno istituite con la [legge 14 luglio 1907, n. 524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-14;524).
+E' prorogato fino al 31 ottobre 1926, l'esercizio diretto delle due fattorie di Stato in provincia di Salerno istituite con la [legge 14 luglio 1907, n. 524](Impianto%20di%20due%20fattorie%20per%20la%20coltivazione%20del%20tabacco%20una%20nel%20territorio%20del%20comune%20di%20Padula%20laltra%20in%20quello%20del%20comune%20di%20Castelnuovo%20Cilento%20nella%20provincia%20di%20Salerno%20da%20esercitar_d1d737a7ca63.md).
 
 ## Art. 2.
 

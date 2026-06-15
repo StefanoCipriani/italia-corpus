@@ -24,7 +24,7 @@ Ritenuta l'urgenza di introdurre nello stato di previsione della spesa del Minis
 
 Considerata l'opportunita' di autorizzare, a compenso delle indicate maggiori assegnazioni, le diminuzioni di stanziamento oggetto del disegno di legge medesimo;
 
-Vista la [legge 13 aprile 1916, n. 402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-13;402);
+Vista la [legge 13 aprile 1916, n. 402](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20di%20grazia%20e%20giustizia%20e%20dei%20culti%20per%20lesercizio%20finanziario%201915-916.%20016U0402.md);
 
 Udito il Consiglio dei ministri;
 

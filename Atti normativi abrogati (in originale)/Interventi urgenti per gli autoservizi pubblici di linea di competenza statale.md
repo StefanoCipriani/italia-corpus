@@ -99,7 +99,7 @@ Per le finalita' del presente articolo e' autorizzata la spesa di lire 100 milia
 
 1.
 
-Sui contributi erogati ai sensi della presente legge non si applicano le disposizioni degli articoli 28, secondo comma, e 29, ultimo comma, del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600), e successive modificazioni, e si applica la disposizione dell'[articolo 55, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;597#art_55-com4).
+Sui contributi erogati ai sensi della presente legge non si applicano le disposizioni degli articoli 28, secondo comma, e 29, ultimo comma, del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, e si applica la disposizione dell'[articolo 55, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md).
 
 Note all'art. 3, comma 1:
  - Il testo dell'[art. 28, secondo comma, del D.P.R. n. 600/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;600#art_28-com2) (Disposizioni comuni in materia di accertamento delle imposte sui redditi) e' il seguente:

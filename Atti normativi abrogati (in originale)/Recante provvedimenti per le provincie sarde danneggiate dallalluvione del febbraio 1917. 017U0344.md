@@ -26,7 +26,7 @@ Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-E' autorizzata la spesa di L. 1.000.000, da imputarsi al cap. 186 dello stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio finanziario 1916-917 ed al fondo di cui al n. 6 della tabella B, annessa alla [legge 8 aprile 1915, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-04-08;477), per provvedere, nei Comuni di Sardegna danneggiati nel febbraio 1917, dagli straripamenti dei corsi d'acqua: 
+E' autorizzata la spesa di L. 1.000.000, da imputarsi al cap. 186 dello stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio finanziario 1916-917 ed al fondo di cui al n. 6 della tabella B, annessa alla [legge 8 aprile 1915, n. 477](Che%20autorizza%20maggiori%20spese%20occorrenti%20per%20opere%20di%20bonifica%20di%20sistemazione%20idraulica%20e%20di%20bonifica%20dellisola%20di%20Sardegna%20di%20sistemazione%20del%20Tevere%20urbano%20e%20portuali.%20015U0477.md), per provvedere, nei Comuni di Sardegna danneggiati nel febbraio 1917, dagli straripamenti dei corsi d'acqua: 
  
  a) alle demolizioni ed ai puntellamenti di edifici pericolanti; 
  
@@ -56,7 +56,7 @@ Con decreto del ministro dei lavori pubblici, saranno determinate le norme tecni
 
 ## Art. 5.
 
-Per accelerare l'esecuzione delle opere di correzione dei coni d'acqua e di bonificazione dell'isola di Sardegna, l'inscrizione nel bilancio dei lavori pubblici delle somme che rimangono da stanziare su quelle autorizzate dalle [leggi 2 agosto 1897, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-08-02;382), e successive per le dette opere dovra' essere effettuata entro il quadriennio dal 1917-918 al 1920-921.
+Per accelerare l'esecuzione delle opere di correzione dei coni d'acqua e di bonificazione dell'isola di Sardegna, l'inscrizione nel bilancio dei lavori pubblici delle somme che rimangono da stanziare su quelle autorizzate dalle [leggi 2 agosto 1897, n. 382](Che%20estende%20per%20lisola%20di%20Sardegna%20le%20disposizioni%20di%20alcuni%20articoli%20di%20quella%20in%20data%2030%20luglio%201896%20n.%20345%20concernente%20listituzione%20di%20un%20R.%20Commissario%20civile%20per%20la%20Sicilia.%20097U0382.md), e successive per le dette opere dovra' essere effettuata entro il quadriennio dal 1917-918 al 1920-921.
 
 ## Art. 6.
 
@@ -74,9 +74,9 @@ Con decreto del ministro, dei lavori pubblici potranno essere mantenuti in servi
 
 ## Art. 9.
 
-Le disposizioni del [R. decreto 21 dicembre 1911, n. 1471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-21;1471), convertito in [legge con la data del 12 luglio 1912, n. 772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-12;772), sono estese, per la provincia di Porto Maurizio, anche al comune di San Remo, relativamente ai danni causati dai franamenti e dalle alluvioni del dicembre 1916, per la concessione dei sussidi alle opere di difesa dell'abitato, alle opere stradali o a quelle di ripristino degli edifici pubblici. 
+Le disposizioni del [R. decreto 21 dicembre 1911, n. 1471](Portante%20iscrizione%20di%20spese%20nella%20parte%20straordinaria%20del%20bilancio%20del%20ministero%20dei%20lavori%20pubblici%20ed%20altri%20provvedimenti%20relativi%20a%20disastri%20verificatisi%20in%20alcune%20provincie%20del%20Regno.%20011U1471.md), convertito in [legge con la data del 12 luglio 1912, n. 772](Portante%20la%20conversione%20in%20legge%20del%20R.%20decreto%2021%20dicembre%201911%20n.%201471%20e%20disposizioni%20integrative%20relative%20a%20disastri%20verificatisi%20in%20alcune%20Provincie%20del%20Regno%20012U0772.md), sono estese, per la provincia di Porto Maurizio, anche al comune di San Remo, relativamente ai danni causati dai franamenti e dalle alluvioni del dicembre 1916, per la concessione dei sussidi alle opere di difesa dell'abitato, alle opere stradali o a quelle di ripristino degli edifici pubblici. 
  
- E' all'uopo autorizzata la spesa di L. 500.000 in aggiunta a quella assegnata con l'art. 1° del [R. decreto 21 dicembre 1911, n. 1471, con l'art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-21;1471#art_2) della [legge 19 luglio 1912, n. 772, con l'art. 2 lettera a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-19;772#art_2-leta) della [legge 2 giugno 1913, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-02;704), e col [decreto Luogotenenziale 13 ottobre 1916, n. 1372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-13;1372). 
+ E' all'uopo autorizzata la spesa di L. 500.000 in aggiunta a quella assegnata con l'art. 1° del [R. decreto 21 dicembre 1911, n. 1471, con l'art. 2](Portante%20iscrizione%20di%20spese%20nella%20parte%20straordinaria%20del%20bilancio%20del%20ministero%20dei%20lavori%20pubblici%20ed%20altri%20provvedimenti%20relativi%20a%20disastri%20verificatisi%20in%20alcune%20provincie%20del%20Regno.%20011U1471.md) della [legge 19 luglio 1912, n. 772, con l'art. 2 lettera a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-19;772#art_2-leta) della [legge 2 giugno 1913, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-02;704), e col [decreto Luogotenenziale 13 ottobre 1916, n. 1372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-13;1372). 
  
  La detta somma di L. 500.000 sara' imputata agli stanziamenti gia' esistenti per competenza e per residui sul bilancio del Ministero dei lavori pubblici fino a tutto l'esercizio finanziario 1917-918.
 

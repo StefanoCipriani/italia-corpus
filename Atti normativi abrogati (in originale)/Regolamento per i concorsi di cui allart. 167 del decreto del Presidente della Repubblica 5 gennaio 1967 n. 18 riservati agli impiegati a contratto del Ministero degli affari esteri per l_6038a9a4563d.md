@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), e successive, modificazioni;
+Visto il testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive, modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686);
+Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
 
-Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18);
+Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -28,14 +28,14 @@ Sulla proposta del Ministro degli affari esteri; Decreta:
 
 Possono essere ammessi ai concorsi, per titoli ed esami, per l'accesso alle carriere di concetto, esecutiva ed ausiliaria (commessi ed autisti), gli impiegati a contratto della Amministrazione degli affari esteri che siano in possesso dei seguenti requisiti: 
  1) cittadinanza italiana; 
- 2) eta' non superiore a 40 anni salvo quanto stabilito dal [secondo comma dell'art. 236 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18#art_236-com2); 
+ 2) eta' non superiore a 40 anni salvo quanto stabilito dal [secondo comma dell'art. 236 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md); 
  3) un minimo di cinque anni di servizio a contratto continuativo e lodevole svolgendo mansioni analoghe o superiori a quelle della carriera per cui concorrono; 
  4) costituzione fisica che permetta di affrontare qualsiasi clima ed assenza di imperfezioni fisiche che siano di impedimento o di pregiudizio all'esercizio delle funzioni proprie della carriera; 
  5) comprovata conoscenza di una lingua estera (per i concorsi per le carriere di concetto ed esecutiva). 
  Per l'ammissione ai concorsi di accesso alle carriere di concetto gli aspiranti devono essere in possesso di titolo finale di studio rilasciato da scuola o da istituti secondari di secondo grado in Italia ovvero altro titolo equipollente rilasciato all'estero. 
  Per l'ammissione al concorso di accesso alla carriera esecutiva gli aspiranti devono essere in possesso di titolo finale di studio rilasciato da scuola o istituti secondari di primo grado in Italia ovvero altro titolo equipollente rilasciato all'estero. 
  Per l'ammissione ai concorsi di accesso alla carriera ausiliaria (commessi ed autisti) gli aspiranti devono essere in possesso di licenza di scuola elementare rilasciata in Italia ovvero altro titolo equipollente rilasciato all'estero. Per l'ammissione al concorso di accesso alla carriera ausiliaria (autisti) gli aspiranti devono essere altresi' in possesso di patente di guida per autoveicoli di categoria non inferiore a quella "C" per uso privato. 
- Si applicano le disposizioni del quinto e del [settimo comma dell'art. 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_2-com7). 
+ Si applicano le disposizioni del quinto e del [settimo comma dell'art. 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md). 
  Il consiglio di amministrazione si pronuncia sulla qualita' del servizio e sulla natura delle mansioni svolte, sulla base dei rapporti del capo dell'ufficio e degli altri elementi desumibili dai fascicoli personali degli aspiranti. 
  Il consiglio di amministrazione si pronuncia altresi' sulla equipotenza dei titoli di studio stranieri.
 
@@ -50,7 +50,7 @@ Le domande di ammissione ai concorsi debbono essere presentate al capo dell'uffi
  e) il titolo di studio;
  f) la loro posizione nei riguardi degli obblighi militari;
  g) i servizi prestati come impiegati presso pubbliche amministrazioni diverse da quella degli affari esteri e le cause di risoluzione di precedenti rapporti di pubblico impiego;
- h) di essere a conoscenza delle norme che regolano il servizio all'estero di cui al [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;18) e di essere pronti a trasferirsi in qualunque sede all'estero ove l'amministrazione li destini a prestare servizio.
+ h) di essere a conoscenza delle norme che regolano il servizio all'estero di cui al [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e di essere pronti a trasferirsi in qualunque sede all'estero ove l'amministrazione li destini a prestare servizio.
  Per i concorsi di accesso alla carriera di concetto del personale di cancelleria ed alla carriera esecutiva gli aspiranti devono dichiarare la specializzazione per la quale intendono concorrere.
  Nelle domande di ammissione gli aspiranti debbono fornire esatte indicazioni in merito al servizio prestato, precisando l'ufficio o gli uffici presso cui hanno svolto la propria attivita' e le date di inizio e di termine di ogni periodo.
  Le domande devono contenere altresi' tutte le indicazioni relative ai titoli di cui alle lettere c) e d) del successivo art. 4. I titoli di cui alla lettera: c) devono essere allegati domande.
@@ -68,7 +68,7 @@ I titoli da valutare ai fini dei concorsi sono:
  b) anzianita' complessiva di servizio a contratto;
  c) possesso dei titoli di studio superiori a quelli richiesti per l'ammissione al concorso;
  d) esercizio di mansioni superiori a quelle della carriera per cui si concorre.
- Per l'accesso alla carriera ausiliaria (autisti) vengono valutati tra i titoli di cui alla lettera c) del comma precedente i titoli indicati alle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-12-30;1267#art_4-leta), [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-12-30;1267#art_4-letb) e [c) dell'art. 4 del decreto del Presidente della Repubblica 30 dicembre 1971, n. 1267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-12-30;1267#art_4-letc).
+ Per l'accesso alla carriera ausiliaria (autisti) vengono valutati tra i titoli di cui alla lettera c) del comma precedente i titoli indicati alle [lettere a)](../DPR/Regolamento%20per%20il%20concorso%20di%20ammissione%20alla%20carriera%20ausiliaria%20tecnica%20dellAmministrazione%20degli%20affari%20esteri.md), [b)](../DPR/Regolamento%20per%20il%20concorso%20di%20ammissione%20alla%20carriera%20ausiliaria%20tecnica%20dellAmministrazione%20degli%20affari%20esteri.md) e [c) dell'art. 4 del decreto del Presidente della Repubblica 30 dicembre 1971, n. 1267](../DPR/Regolamento%20per%20il%20concorso%20di%20ammissione%20alla%20carriera%20ausiliaria%20tecnica%20dellAmministrazione%20degli%20affari%20esteri.md).
  Per la valutazione dei titoli di cui alla lettera a) del primo comma le commissioni dispongono del sottoelencato punteggio da attribuirsi in base alle risultanze dei rapporti informativi e degli altri elementi desumibili dai fascicoli personali dei concorrenti:
  1) 30 punti per i concorsi di accesso alle carriere di concetto;
  2) 15 punti per il concorso di accesso alla carriera esecutiva;
@@ -105,12 +105,12 @@ Il punteggio complessivo e' dato dalla somma del punteggio conseguito nelle prov
 
 ## Art. 7. — Graduatoria
 
-La graduatoria viene formata dalla commissione esaminatrice secondo l'ordine derivante dal punteggio complessivo conseguito da ciascun candidato a norma del precedente art. 6. A parita' di punteggio vengono applicati l'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3#art_5) e le altre vigenti disposizioni in materia di preferenze. 
+La graduatoria viene formata dalla commissione esaminatrice secondo l'ordine derivante dal punteggio complessivo conseguito da ciascun candidato a norma del precedente art. 6. A parita' di punteggio vengono applicati l'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e le altre vigenti disposizioni in materia di preferenze. 
  Il Ministro degli affari esteri, riconosciuta la regolarita' del procedimento del concorso, approva con proprio decreto, sotto condizione dell'accertamento dei requisiti per l'ammissione in carriera, la graduatoria di merito dei concorrenti risultati idonei nelle prove di esame.
 
 ## Art. 8. — Norme da applicare
 
-Ad integrazione della specifica disciplina dettata dagli articoli precedenti, si applicano le disposizioni contenute nei regolamenti sui concorsi alla qualifica iniziale delle rispettive carriere nonche' le disposizioni del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3), del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-03;686), e successive modificazioni in quanto compatibili.
+Ad integrazione della specifica disciplina dettata dagli articoli precedenti, si applicano le disposizioni contenute nei regolamenti sui concorsi alla qualifica iniziale delle rispettive carriere nonche' le disposizioni del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), e successive modificazioni in quanto compatibili.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

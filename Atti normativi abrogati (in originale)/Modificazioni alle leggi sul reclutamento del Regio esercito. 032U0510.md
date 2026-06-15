@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 110 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 5 agosto 1927, n. 1437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-05;1437), e' sostituito il seguente: 
+All'art. 110 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 5 agosto 1927, n. 1437](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20027U1437.md), e' sostituito il seguente: 
  «Il Ministro per la guerra ha facolta' di ridurre a 12 mesi la ferma o di congedare per anticipazione dopo un anno di servizio, in tutto o in parte, i militari che siano stati arruolati dopo essere stati rimandati quali rivedibili. 
  «Il Ministro per la guerra ha altresi' la facolta' di ridurre a 12 mesi la ferma dei militari che, pure essendo idonei ad incondizionato servizio a senso degli elenchi di cui al 2° comma dell'art. 72, abbiano requisiti fisici poco spiccati, secondo determinazioni e modalita' da fissarsi classe per classe con decreto Ministeriale».
 

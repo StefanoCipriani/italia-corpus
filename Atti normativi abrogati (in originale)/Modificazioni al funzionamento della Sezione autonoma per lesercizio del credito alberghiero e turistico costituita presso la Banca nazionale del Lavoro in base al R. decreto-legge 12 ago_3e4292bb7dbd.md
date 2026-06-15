@@ -14,17 +14,17 @@ RE D'ITALIA
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo Luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo Luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [R. decreto legislativo 10 maggio 1946, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-10;262);
 
-Visto il [R. decreto-legge 12 agosto 1937, n. 1561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-08-12;1561), convertito nella [legge 20 dicembre 1937, n. 2352](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2012%20agosto%201937-XV%20n.%201561%20riguardante%20la%20costituzione%20ed%20il%20funzionamento%20di%20un%20Ente%20per%20lesercizio%20del%20credito%20alberghiero%20e%20turistico.%20037U2352.md);
+Visto il [R. decreto-legge 12 agosto 1937, n. 1561](Costituzione%20e%20funzionamento%20di%20un%20Ente%20per%20lesercizio%20del%20credito%20alberghiero%20e%20turistico.%20037U1561.md), convertito nella [legge 20 dicembre 1937, n. 2352](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2012%20agosto%201937-XV%20n.%201561%20riguardante%20la%20costituzione%20ed%20il%20funzionamento%20di%20un%20Ente%20per%20lesercizio%20del%20credito%20alberghiero%20e%20turistico.%20037U2352.md);
 
 Visto il decreto del Capo del Governo 24 settembre 1937, col quale fu disposta la costituzione della Sezione autonoma per l'esercizio del credito alberghiero e turistico, presso la Banca nazionale del Lavoro;
 
 Visto il decreto del Capo del Governo, presidente del Comitato dei Ministri, del 14 giugno 1938, col quale vennero approvati l'atto costitutivo e lo statuto della suddetta Sezione autonoma;
 
-Visto il [R. decreto legislativo 29 maggio 1946, n. 452](Provvedimenti%20a%20favore%20delle%20industrie%20alberghiere%20e%20turistiche.md), contenente provvedimenti a favore delle industrie alberghiere e turistiche emanato in sostituzione del [R. decreto-legge 16 settembre 1937, n. 1669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-09-16;1669), convertito nella [legge 13 gennaio 1938, n. 287](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2016%20settembre%201937-XV%20n.%201669%20portante%20provvedimenti%20a%20favore%20delle%20industrie%20alberghiere.%20038U0287.md), della [legge 4 aprile 1940, n. 374](Varianti%20al%20R.%20decreto-legge%2016%20settembre%201937-XVI%20n.%201669%20riguardante%20provvedimenti%20a%20favore%20delle%20industrie%20alberghiere.%20040U0374.md), e della [legge 24 novembre 1941, n. 1506](Modificazioni%20al%20R.%20decreto-legge%2016%20settembre%201937-XV%20n.%201669%20e%20alla%20legge%204%20aprile%201940-XVIII%20n.%20374%20contenenti%20provvedimenti%20a%20favore%20delle%20industrie%20alberghiere.%20041U1506.md);
+Visto il [R. decreto legislativo 29 maggio 1946, n. 452](Provvedimenti%20a%20favore%20delle%20industrie%20alberghiere%20e%20turistiche.md), contenente provvedimenti a favore delle industrie alberghiere e turistiche emanato in sostituzione del [R. decreto-legge 16 settembre 1937, n. 1669](Provvedimenti%20a%20favore%20delle%20industrie%20alberghiere.%20037U1669.md), convertito nella [legge 13 gennaio 1938, n. 287](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2016%20settembre%201937-XV%20n.%201669%20portante%20provvedimenti%20a%20favore%20delle%20industrie%20alberghiere.%20038U0287.md), della [legge 4 aprile 1940, n. 374](Varianti%20al%20R.%20decreto-legge%2016%20settembre%201937-XVI%20n.%201669%20riguardante%20provvedimenti%20a%20favore%20delle%20industrie%20alberghiere.%20040U0374.md), e della [legge 24 novembre 1941, n. 1506](Modificazioni%20al%20R.%20decreto-legge%2016%20settembre%201937-XV%20n.%201669%20e%20alla%20legge%204%20aprile%201940-XVIII%20n.%20374%20contenenti%20provvedimenti%20a%20favore%20delle%20industrie%20alberghiere.%20041U1506.md);
 
 Vista la deliberazione del Consiglio dei Ministri Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segretario di Stato, di concerto con i Ministri per la grazia e giustizia, per le finanze, per il tesoro, per i lavori pubblici, per l'industria e commercio; Abbiamo sanzionato e promulghiamo quanto segue:
 
@@ -36,7 +36,7 @@ La Sezione autonoma per l'esercizio dei credito alberghiero e turistico, istitui
  In conseguenza, l'attuale capitale di L. 50 milioni, della predetta Sezione autonoma per l'esercizio del credito alberghiero e turistico potra' essere ulteriormente aumentato:
  a) da partecipazioni di istituti e societa' di previdenza e di assicurazione, i quali restano all'uopo autorizzati anche in deroga a disposizioni legislative o statutarie;
  b) da partecipazioni di istituiti di credito, subordinatamente alla autorizzazione del Ministero del tesoro;
- c) dall'attribuzione, fino al limite massimo di L. 25 milioni, di una quota parte del fondo di garanzia di cui all'[art. 19 del R. decreto-legge 12 agosto 1937, n. 1561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-08-12;1561#art_19).
+ c) dall'attribuzione, fino al limite massimo di L. 25 milioni, di una quota parte del fondo di garanzia di cui all'[art. 19 del R. decreto-legge 12 agosto 1937, n. 1561](Costituzione%20e%20funzionamento%20di%20un%20Ente%20per%20lesercizio%20del%20credito%20alberghiero%20e%20turistico.%20037U1561.md).
 
 ## Art. 2.
 
@@ -46,9 +46,9 @@ La Sezione autonoma per l'esercizio del credito alberghiero e turistico e' posta
 
 ## Art. 3.
 
-I mutui da accordarsi per gli scopi di cui al [R. decreto-legge 12 agosto 1937, n. 1561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-08-12;1561), nonche' quelli previsti dal numero 1, art. 1, del presente decreto, non potranno superare complessivamente il 50% del costo dalle nuove costruzioni o ampliamenti, compreso il valore dell'area e degli impianti fissi correlativi, piu' il 25% del costo del nuovo arredamento.
+I mutui da accordarsi per gli scopi di cui al [R. decreto-legge 12 agosto 1937, n. 1561](Costituzione%20e%20funzionamento%20di%20un%20Ente%20per%20lesercizio%20del%20credito%20alberghiero%20e%20turistico.%20037U1561.md), nonche' quelli previsti dal numero 1, art. 1, del presente decreto, non potranno superare complessivamente il 50% del costo dalle nuove costruzioni o ampliamenti, compreso il valore dell'area e degli impianti fissi correlativi, piu' il 25% del costo del nuovo arredamento.
  I mutui da accordarsi per gli scopi di cui al numero 2, art. 1, del presente decreto, non potranno superare il 50% del valore cauzionale degli immobili che rientrano nelle attivita' della ditta.
- Peraltro, sia i mutui previsti dal [R. decreto-legge 12 agosto 1937, n. 1561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-08-12;1561), sia quelli previsti dai numeri 1 e 2 dell'art. 1 del presente decreto, potranno eccedere la misura rispettivamente prevista nei due commi precedenti, qualora lo consenta la garanzia principale o concorrano adeguate garanzie supplementari, ai sensi delle disposizioni di legge sul credito fondiario.
+ Peraltro, sia i mutui previsti dal [R. decreto-legge 12 agosto 1937, n. 1561](Costituzione%20e%20funzionamento%20di%20un%20Ente%20per%20lesercizio%20del%20credito%20alberghiero%20e%20turistico.%20037U1561.md), sia quelli previsti dai numeri 1 e 2 dell'art. 1 del presente decreto, potranno eccedere la misura rispettivamente prevista nei due commi precedenti, qualora lo consenta la garanzia principale o concorrano adeguate garanzie supplementari, ai sensi delle disposizioni di legge sul credito fondiario.
 
 ## Art. 4.
 
@@ -77,7 +77,7 @@ La Sezione autonoma per l'esercizio del credito alberghiero e turistico potra' c
 
 ## Art. 9.
 
-Il fondo di cui all'[art. 19 del R. decreto-legge 12 agosto 1937, n. 1561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-08-12;1561#art_19), e' costituito a garanzia di eventuali perdite su tutti i mutui accordati e da accordarsi dalla Sezione autonoma per l'esercizio del credito alberghiero e turistico.
+Il fondo di cui all'[art. 19 del R. decreto-legge 12 agosto 1937, n. 1561](Costituzione%20e%20funzionamento%20di%20un%20Ente%20per%20lesercizio%20del%20credito%20alberghiero%20e%20turistico.%20037U1561.md), e' costituito a garanzia di eventuali perdite su tutti i mutui accordati e da accordarsi dalla Sezione autonoma per l'esercizio del credito alberghiero e turistico.
 
 ## Art. 10.
 
@@ -85,7 +85,7 @@ Con decreto del Ministro per il tesoro, saranno approvate le modificazioni allo 
 
 ## Art. 11.
 
-In quanto non sia diversamente disposto nel presente decreto, rimangono in vigore le disposizioni del [R. decreto-legge 12 agosto 1937, n. 1561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-08-12;1561), convertito nella [legge 20 dicembre 1937, n. 2352](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2012%20agosto%201937-XV%20n.%201561%20riguardante%20la%20costituzione%20ed%20il%20funzionamento%20di%20un%20Ente%20per%20lesercizio%20del%20credito%20alberghiero%20e%20turistico.%20037U2352.md).
+In quanto non sia diversamente disposto nel presente decreto, rimangono in vigore le disposizioni del [R. decreto-legge 12 agosto 1937, n. 1561](Costituzione%20e%20funzionamento%20di%20un%20Ente%20per%20lesercizio%20del%20credito%20alberghiero%20e%20turistico.%20037U1561.md), convertito nella [legge 20 dicembre 1937, n. 2352](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2012%20agosto%201937-XV%20n.%201561%20riguardante%20la%20costituzione%20ed%20il%20funzionamento%20di%20un%20Ente%20per%20lesercizio%20del%20credito%20alberghiero%20e%20turistico.%20037U2352.md).
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

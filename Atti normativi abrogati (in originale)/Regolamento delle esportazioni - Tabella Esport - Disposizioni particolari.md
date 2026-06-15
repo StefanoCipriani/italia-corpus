@@ -16,9 +16,9 @@ IL MINISTRO DELLE FINANZE
 
 Visto il [decreto luogotenenziale 16 gennaio 1946 n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-16;12), concernente le attribuzioni del Ministero del commercio con l'estero;
 
-Visto il [regio decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923) convertito nella [legge 7 luglio 1927, n. 1495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-07;1495), recante norme in materia di divieti di importazione ed esportazione;
+Visto il [regio decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923) convertito nella [legge 7 luglio 1927, n. 1495](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2014%20novembre%201926%20n.%201923%20che%20provvede%20ad%20unificare%20coordinare%20ed%20integrare%20le%20disposizioni%20relative%20ai%20divieti%20di%20importazione%20e%20di%20esportazione%20di%20car_ac354a1268bc.md), recante norme in materia di divieti di importazione ed esportazione;
 
-Visto il trattato istitutivo della Comunita' economica europea, ratificato con [legge 14 ottobre 1957, n. 1203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-14;1203);
+Visto il trattato istitutivo della Comunita' economica europea, ratificato con [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
 
 Visto il decreto ministeriale 10 gennaio 1975, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 31 del 1o febbraio 1975, concernente "Tabella Esport - Disposizioni particolari in materia di esportazioni di merci" e successive modificazioni;
 

@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto, legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto, legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ E' autorizzata la spesa di venticinque miliardi di lire di cui:
 
 ## Art. 2.
 
-L'autorizzazione di spesa prevista dalla lettera c) dell'articolo precedente, fino alla concorrenza della somma capitale di due miliardi di lire, sara' trasformata in annualita' decennali posticipate, comprensive di capitale e d'interesse, al tasso da determinarsi, ai sensi dell'[art. 1 del regio decreto-legge 22 ottobre 1932, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-10-22;1378#art_1), ferma rimanendo, a pagamento non differito, la residua somma di lire 6 miliardi.
+L'autorizzazione di spesa prevista dalla lettera c) dell'articolo precedente, fino alla concorrenza della somma capitale di due miliardi di lire, sara' trasformata in annualita' decennali posticipate, comprensive di capitale e d'interesse, al tasso da determinarsi, ai sensi dell'[art. 1 del regio decreto-legge 22 ottobre 1932, n. 1378](Determinazione%20del%20tasso%20dinteresse%20da%20adottare%20per%20il%20calcolo%20delle%20annualita%20per%20opere%20a%20pagamento%20differito.%20032U1378.md), ferma rimanendo, a pagamento non differito, la residua somma di lire 6 miliardi.
 
 ## Art. 3.
 

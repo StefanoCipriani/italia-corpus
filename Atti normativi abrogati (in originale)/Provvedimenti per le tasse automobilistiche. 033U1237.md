@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3283), col quale venne approvato il testo unico delle leggi sulle tasse automobilistiche;
+Visto il [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), col quale venne approvato il testo unico delle leggi sulle tasse automobilistiche;
 
 Visto il [R. decreto-legge 29 dicembre 1927, n. 2446](Provvedimenti%20di%20finanza%20per%20lindustria%20automobilistica%20e%20per%20le%20strade.%20027U2446.md);
 
@@ -48,7 +48,7 @@ Il periodo di esenzione che compete alle macchine nuove di fabbrica, giusta le v
 
 ## Art. 3.
 
-E' abrogata a decorrere dal 1° ottobre 1933, la disposizione dell'[art. 5 del R. decreto 30 dicembre 1923, n. 3283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3283#art_5), relativa alle detrazioni trimestrali della tassa per gli autoveicoli che entrano in circolazione nel 2°, 3° e 4° trimestre dell'anno solare, come pure la disposizione del [R. decreto legge 30 gennaio 1933, n. 13](Nuove%20norme%20per%20il%20pagamento%20delle%20tasse%20di%20circolazione%20sulle%20autovetture%20per%20trasporto%20di%20persone%20ad%20uso%20privato.%20033U0013.md), relativa al pagamento a semestre della tassa di circolazione. 
+E' abrogata a decorrere dal 1° ottobre 1933, la disposizione dell'[art. 5 del R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), relativa alle detrazioni trimestrali della tassa per gli autoveicoli che entrano in circolazione nel 2°, 3° e 4° trimestre dell'anno solare, come pure la disposizione del [R. decreto legge 30 gennaio 1933, n. 13](Nuove%20norme%20per%20il%20pagamento%20delle%20tasse%20di%20circolazione%20sulle%20autovetture%20per%20trasporto%20di%20persone%20ad%20uso%20privato.%20033U0013.md), relativa al pagamento a semestre della tassa di circolazione. 
  
  Restano, invece, ferme le disposizioni dell'[art. 4 del R. decreto-legge 23 marzo 1933, n. 203](Provvedimenti%20tributari%20a%20favore%20dellindustria%20automobilistica.%20033U0203.md), concernenti la tassa turistica estiva, nonche' il disposto dell'[art. 2 del R. decreto-legge 29 luglio 1933, n. 1018](Provvedimenti%20a%20favore%20dellindustria%20automobilistica.%20033U1018.md), relativo al trattamento da farsi, sino al 31 dicembre 1933, alle autovetture usate della potenza tassabile non inferiore a 35 cavalli.
 

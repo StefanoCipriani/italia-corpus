@@ -109,11 +109,11 @@ Agli [articoli 12](Concernente%20provvedimenti%20per%20le%20case%20economiche%20
  
  Puo' essere anche concessa ai Comuni la facolta' di occupare temporaneamente cave, fornaci o terreni di cui l'esercizio e l'uso, per razioni di ubicazione e di convenienza economica, siano ritenuti necessari per agevolare le costruzioni degli enti sopraindicati. 
  
- Per le espropriazioni o per le occupazioni temporanee si applicano le rispettive disposizioni della [legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), con le facilitazioni di procedura stabilite dall'art. 5 (ultimi due comma) dei [R. decreto 22 settembre 1914, n. 1033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-22;1033), salvo che l'approvazione dei progetti e le decisioni sulle opposizioni e sui reclami sono domandati al Ministero dell'industria, del commercio e del lavoro. 
+ Per le espropriazioni o per le occupazioni temporanee si applicano le rispettive disposizioni della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), con le facilitazioni di procedura stabilite dall'art. 5 (ultimi due comma) dei [R. decreto 22 settembre 1914, n. 1033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-22;1033), salvo che l'approvazione dei progetti e le decisioni sulle opposizioni e sui reclami sono domandati al Ministero dell'industria, del commercio e del lavoro. 
  
  L'indennita' di espropriazione sara' fissata nella misura stabilita dagli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_12) e [13 della legge 15 gennaio 1885, n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_13), per il risanamento della citta' di Napoli. 
  
- Per la indennita' di occupazione temporanea si applicano gli [articoli 56 e seguenti della legge 25 giugno 1865, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359#art_56).
+ Per la indennita' di occupazione temporanea si applicano gli [articoli 56 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
 
 ## Art. 6.
 

@@ -16,11 +16,11 @@ IL DUCE DEL FASCISMO
  
  Visto l'Accordo economico collettivo stipulato il 18 marzo 1939-XVII tra il Sindacato nazionale fascista autori e scrittori, la Federazione nazionale fascista degli industriali editori e la Federazione nazionale fascista delle cooperative di produzione e lavoro per la disciplina del contratto di edizione a compartecipazione; 
  
- Visto il parere favorevole espresso dalla Corporazione della carta e della stampa nella seduta del 26 luglio 1939-XVII, ai sensi dell'[art. 9 della legge 5 febbraio 1934, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;163#art_9); 
+ Visto il parere favorevole espresso dalla Corporazione della carta e della stampa nella seduta del 26 luglio 1939-XVII, ai sensi dell'[art. 9 della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md); 
  
- Vista la deliberazione del Comitato corporativo centrale in data 17 ottobre 1939-XVII, con cui si approva il suddetto Accordo, ai sensi dell'[art. 11 della legge 5 febbraio 1934, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;163#art_11), o dell'[art. 1 del R. decreto-legge 18 aprile 1935, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-04-18;441#art_1); 
+ Vista la deliberazione del Comitato corporativo centrale in data 17 ottobre 1939-XVII, con cui si approva il suddetto Accordo, ai sensi dell'[art. 11 della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md), o dell'[art. 1 del R. decreto-legge 18 aprile 1935, n. 441](Norme%20sulle%20attribuzioni%20del%20Comitato%20corporativo%20centrale.%20035U0441.md); 
  
- visto l'[art. 11 della legge 5 febbraio 1934, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-05;163#art_11); 
+ visto l'[art. 11 della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md); 
  
  Decreta: 
  

@@ -38,7 +38,7 @@ Visto il R. decreto 30 dicembre 1926-V, n. 2402, riguardante il ruolo organico d
 
 armamenti navali e quello degli ingegneri fisici ed elettricisti,
 
-modificato dal [R. decreto 3 ottobre 1929, n. 1862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-03;1862);
+modificato dal [R. decreto 3 ottobre 1929, n. 1862](Modifiche%20al%20ruolo%20organico%20del%20personale%20dei%20chimici%20per%20le%20Direzioni%20armi%20ed%20armamenti%20navali.%20029U1862.md);
 
 Visto il R. decreto 18 giugno 1931-IX, n. 978, riguardante i ruoli organici dei personali civili della Regia marina e successive
 
@@ -119,7 +119,7 @@ Grado
 
 ## Art. 3.
 
-Il ruolo organico degli «Ingegneri fisici elettricisti» (gruppo A), di cui alla tabella n. 74 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), conservato transitoriamente fino ad eliminazione con l'[art. 2 del R. decreto 30 dicembre 1926, n. 2402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-12-30;2402#art_2), e' ripristinato e costituito come segue, assumendo pero' la denominazione di ruolo dei «Fisici ed ingegneri elettrotecnici per le Direzioni armi ed armamenti navali»: 
+Il ruolo organico degli «Ingegneri fisici elettricisti» (gruppo A), di cui alla tabella n. 74 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), conservato transitoriamente fino ad eliminazione con l'[art. 2 del R. decreto 30 dicembre 1926, n. 2402](Sostituzione%20del%20ruolo%20organico%20del%20personale%20dei%20%20Chimici%20per%20le%20Direzioni%20armi%20ed%20armamenti%20navali%20%20e%20conservazione%20transitoria%20del%20ruolo%20organico%20degli%20ingegneri%20fisici%20elettricisti.%20026U2402.md), e' ripristinato e costituito come segue, assumendo pero' la denominazione di ruolo dei «Fisici ed ingegneri elettrotecnici per le Direzioni armi ed armamenti navali»: 
  
 Fisici ed ingegneri elettrotecnici per le Direzioni armi ed armamenti navali 
  

@@ -16,11 +16,11 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 2786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2786);
+Visto il [R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md);
 
 Vista la [legge 17 aprile 1930, n. 421](Norme%20sul%20reclutamento%20e%20sulla%20carriera%20dei%20magistrati.%20030U0421.md);
 
-Visto il [R. decreto 12 maggio 1930, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-12;663);
+Visto il [R. decreto 12 maggio 1930, n. 663](Norme%20per%20lattuazione%20delta%20legge%2017%20aprile%201930%20n.%20421%20sul%20reclutamento%20e%20sulla%20carriera%20dei%20magistrati.%20030U0663.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Guardasigilli Ministro segretario di Stato per la graz
 
 ## Art. 1.
 
-Per un anno dalla data di entrata in vigore del presente decreto e' consentita la nomina di uditori di pretura, da scegliersi a giudizio insindacabile del Ministro per la grazia e giustizia fra altoatesini laureati in giurisprudenza, di eta' non inferiore ai 21 anni, iscritti al Partito Nazionale Fascista ed in possesso degli altri requisiti prescritti dall'[art. 10 del R. decreto 30 dicembre 1923, n. 2786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2786#art_10).
+Per un anno dalla data di entrata in vigore del presente decreto e' consentita la nomina di uditori di pretura, da scegliersi a giudizio insindacabile del Ministro per la grazia e giustizia fra altoatesini laureati in giurisprudenza, di eta' non inferiore ai 21 anni, iscritti al Partito Nazionale Fascista ed in possesso degli altri requisiti prescritti dall'[art. 10 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md).
 
 ## Art. 2.
 

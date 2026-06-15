@@ -14,13 +14,13 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
-Vista la [legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86), e successive modificazioni;
+Vista la [legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), e successive modificazioni;
 
-Visto l'[art. 4 della legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146#art_4);
+Visto l'[art. 4 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md);
 
 Vista la [direttiva 92/35/CEE, del Consiglio del 29 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;35), che fissa le norme di controllo e le misure di lotta contro la peste equina;
 
-Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320), e successive modificazioni;
+Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e successive modificazioni;
 
 Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni;
 
@@ -75,7 +75,7 @@ La vaccinazione contro la peste equina e' ammessa soltanto nei casi e nei limiti
  disposizioni sulla promulgazione, delle leggi, 
  sull'emanazione dei decreti del Presidente della Repubblica 
  e sulle pubblicazioni ufficiali della Repubblica italiana, 
- approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo 
+ approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
  fine di facilitare la lettura delle disposizioni di legge 
  alle quali e' operato il rinvio. Restano invariati il 
  valore e l'efficacia degli atti legislativi qui trascritti. 
@@ -152,11 +152,11 @@ La vaccinazione contro la peste equina e' ammessa soltanto nei casi e nei limiti
  parere del Consiglio di Stato, sottoposti al visto ed alla 
  registrazione della Corte dei conti e pubblicati nella 
  Gazzetta Ufficiale". 
- - La [legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86), concerne le norme 
+ - La [legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), concerne le norme 
  generali sulla partecipazione dell'Italia al processo 
  normativo comunitario e sulle procedure di esecuzione degli 
  obblighi comunitari. 
- - La [legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146), concerne le 
+ - La [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), concerne le 
  disposizioni per l'adempimento di obblighi derivanti 
  dall'appartenenza dell'Italia alle Comunita' europee - 
  legge comunitaria 1993. L'art. 4 della suddetta legge cosi' 
@@ -164,7 +164,7 @@ La vaccinazione contro la peste equina e' ammessa soltanto nei casi e nei limiti
  "Art. 4 (Attuazione di direttiva comunitaria in via 
  regolamentare). - 1. Il Governo e' autorizzato ad attuare 
  in via regolamentare, a norma degli articoli 3, comma 1, 
- lettera c), e 4 della [legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86), le 
+ lettera c), e 4 della [legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), le 
  direttive comprese nell'elenco di cui all'allegato C, 
  applicando anche il disposto dell'articolo 5, comma 1 della 
  medesima [legge n. 86 del 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;86). 
@@ -172,11 +172,11 @@ La vaccinazione contro la peste equina e' ammessa soltanto nei casi e nei limiti
  direttive comprese nell'elenco di cui all'allegato D sono 
  sottoposti al parere delle competenti Commissioni 
  parlamentari ai sensi dell'[articolo 4, comma 4, della legge 
- 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86#art_4-com4), come sostituito dall'articolo 3 della 
+ 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), come sostituito dall'articolo 3 della 
  presente legge". 
  - La [direttiva 92/35/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;35) e' pubblicata nella G.U.C.E. n. 
  L. 157 del 10 giugno 1992. 
- - Il [D.P.R. 8 febbraio 1954 n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320) riguarda il 
+ - Il [D.P.R. 8 febbraio 1954 n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md) riguarda il 
  regolamento di polizia veterinaria. 
  - Il [R.D. 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) riguarda 
  l'approvazione del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265). 

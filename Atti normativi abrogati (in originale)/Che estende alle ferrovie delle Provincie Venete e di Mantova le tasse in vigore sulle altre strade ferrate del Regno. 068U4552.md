@@ -14,7 +14,7 @@ Sono estese alle ferrovie delle Provincie Venete e di Mantova:
  
  1° La [Legge 6 aprile 1862, n. 542](Colla%20quale%20e%20stabilita%20una%20tassa%20del%2010%20p.%20%20sul%20prezzo%20dei%20trasporti%20a%20grande%20velocita%20sulle%20strade%20ferrate.%20062U0542.md), con cui e' stabilita una tassa del 10 per cento sul prezzo dei trasporti a grande velocita'; 
  
- 2° Le disposizioni del [Regio Decreto 14 luglio 1866, n. 3122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-07-14;3122), nella parte concernente le tasse di bollo pei biglietti dei viaggiatori e pei riscontri delle merci. 
+ 2° Le disposizioni del [Regio Decreto 14 luglio 1866, n. 3122](Concernente%20le%20tasse%20di%20bollo.%20066U3122.md), nella parte concernente le tasse di bollo pei biglietti dei viaggiatori e pei riscontri delle merci. 
  
  Cessano, rispetto al servizio delle strade ferrate, e limitatamente ai biglietti dei viaggiatori, alle ricevute in partenza ed alle lettere di porto delle merci, le disposizioni delle Tariffe annesse alle Leggi 9 febbraio 1850, 13 dicembre 1862 e 29 febbraio 1864, in vigore nelle Provincie Venete e Mantovana.
 

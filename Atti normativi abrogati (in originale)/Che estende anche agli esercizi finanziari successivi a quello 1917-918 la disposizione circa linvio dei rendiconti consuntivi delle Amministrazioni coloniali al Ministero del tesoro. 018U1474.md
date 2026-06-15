@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Viste le [leggi 29 giugno 1917, n. 1025, 19 luglio 1917, n. 1125, 28 ottobre 1917, n. 1751 e 31 dicembre 1917, n. 2045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-12-31;2045), che autorizzano il Governo del Re ad esercitare provvisoriamente i bilanci per le Amministrazioni dello Stato dell'esercizio finanziario 1917-918, con le susseguite modificazioni gia' proposte con note di variazione o comunicate alla presidenza della Camera dei deputati; 
+ Viste le [leggi 29 giugno 1917, n. 1025, 19 luglio 1917, n. 1125, 28 ottobre 1917, n. 1751 e 31 dicembre 1917, n. 2045](Che%20proroga%20il%20termine%20indicato%20della%20legge%2028%20ottobre%201917%20n.%201751%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20sian_80dd5cff68ce.md), che autorizzano il Governo del Re ad esercitare provvisoriamente i bilanci per le Amministrazioni dello Stato dell'esercizio finanziario 1917-918, con le susseguite modificazioni gia' proposte con note di variazione o comunicate alla presidenza della Camera dei deputati; 
  
  Considerato che nel disegno di legge relativo allo stato di previsione della spesa del Ministero delle Colonie, che non venne tradotto in legge, entro il 30 giugno 1918, trovasi compresa la disposizione dell'articolo 6 che occorre applicare anche dopo l'indicata epoca del 30 giugno 1918; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- La seguente disposizione dell'art. 6 del disegno di legge concernente lo stato di previsione della spesa del Ministero delle colonie per l'esercizio finanziario 1917-918 che gia' ebbe vigore per lo stesso esercizio in virtu' delle [leggi 29 giugno 1917, n. 1025, 19 luglio 1917, n. 1125, 28 ottobre 1917, n. 1751, e 31 dicembre 1917, n. 2045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-12-31;2045), che autorizzarono l'esercizio del bilancio pel 1917-918, continuera' ad avere applicazione negli esercizi successivi. 
+ La seguente disposizione dell'art. 6 del disegno di legge concernente lo stato di previsione della spesa del Ministero delle colonie per l'esercizio finanziario 1917-918 che gia' ebbe vigore per lo stesso esercizio in virtu' delle [leggi 29 giugno 1917, n. 1025, 19 luglio 1917, n. 1125, 28 ottobre 1917, n. 1751, e 31 dicembre 1917, n. 2045](Che%20proroga%20il%20termine%20indicato%20della%20legge%2028%20ottobre%201917%20n.%201751%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20sian_80dd5cff68ce.md), che autorizzarono l'esercizio del bilancio pel 1917-918, continuera' ad avere applicazione negli esercizi successivi. 
  
  «I rendiconti consuntivi delle Amministrazioni coloniali, devono essere trasmessi dal Ministero delle colonie a quello del tesoro entro sei mesi dal termine di ciascun esercizio finanziario». 
  

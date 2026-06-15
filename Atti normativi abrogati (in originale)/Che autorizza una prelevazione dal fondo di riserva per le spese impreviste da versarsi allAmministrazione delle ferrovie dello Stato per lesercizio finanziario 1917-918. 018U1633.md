@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'[art. 24 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_24), modificata dall'[art. 1 della legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372#art_1); 
+ Visto l'[art. 24 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata dall'[art. 1 della legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md); 
  
- Vista la [legge 31 dicembre 1917, n. 2045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1917-12-31;2045); 
+ Vista la [legge 31 dicembre 1917, n. 2045](Che%20proroga%20il%20termine%20indicato%20della%20legge%2028%20ottobre%201917%20n.%201751%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20sian_80dd5cff68ce.md); 
  
  Visto che il fondo di riserva istituito per le spese impreviste dell'Amministrazione delle ferrovie dello Stato, depositato in conto corrente presso la tesoreria centrale del Regno, presentava al 30 giugno n. s. una disponibilita' di L. 30.000.000; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Dal fondo di riserva per le spese impreviste, depositato in conto corrente presso la tesoreria centrale del Regno, a termini dell'[art. 24 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_24), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372#art_1), e' autorizzata la prelevazione di lire diecimilioniventimilaquattrocentosessantasette e centesimi quarantadue (L. 10,020,467,42) da versarsi all'Amministrazione delle ferrovie dello Stato con imputazione al capitolo 22 dello stato di previsione dell'entrata dell'Amministrazione medesima per l'esercizio finanziario 1917-1918 e da portarsi in aumento ai seguenti capitoli di spesa: 
+ Dal fondo di riserva per le spese impreviste, depositato in conto corrente presso la tesoreria centrale del Regno, a termini dell'[art. 24 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md), e' autorizzata la prelevazione di lire diecimilioniventimilaquattrocentosessantasette e centesimi quarantadue (L. 10,020,467,42) da versarsi all'Amministrazione delle ferrovie dello Stato con imputazione al capitolo 22 dello stato di previsione dell'entrata dell'Amministrazione medesima per l'esercizio finanziario 1917-1918 e da portarsi in aumento ai seguenti capitoli di spesa: 
  
  Cap. n. 2. Direzione generale - Forniture, spese ed 
  acquisti . . . . . . . . . . . . . . . . . . . 106,997 

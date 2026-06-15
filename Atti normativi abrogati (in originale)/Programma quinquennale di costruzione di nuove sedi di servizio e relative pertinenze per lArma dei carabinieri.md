@@ -28,7 +28,7 @@ Il programma di cui al precedente articolo e' predisposto dal Ministro dei lavor
 
 ## Art. 3.
 
-Ai fini dell'accertamento di conformita' previsto dall'[articolo 81 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_81), le opere di edilizia previste dalla presente legge sono equiparate alle opere destinate alla difesa militare.
+Ai fini dell'accertamento di conformita' previsto dall'[articolo 81 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), le opere di edilizia previste dalla presente legge sono equiparate alle opere destinate alla difesa militare.
 
 NOTE
 
@@ -50,7 +50,7 @@ L'approvazione da parte del Ministero dei lavori pubblici dei progetti delle ope
 ## Art. 5.
 
 Il programma di cui alla presente legge puo' essere realizzato anche utilizzando aree od immobili di proprieta' dello Stato ovvero di proprieta' dei comuni interessati, acquisiti anche mediante permuta con aree o fabbricati di proprieta' dello Stato.
- Gli atti di trasferimento di immobili - alla cui acquisizione si provvedera' a trattativa privata - non sono sottoposti alle limitazioni di cui al [regio decreto-legge 10 settembre 1923, n. 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-10;2000), convertito in legge dalla [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473).
+ Gli atti di trasferimento di immobili - alla cui acquisizione si provvedera' a trattativa privata - non sono sottoposti alle limitazioni di cui al [regio decreto-legge 10 settembre 1923, n. 2000](Permuta%20di%20immobili%20demaniali%20adibiti%20ad%20uso%20di%20pubblici%20uffici.%20023U2000.md), convertito in legge dalla [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md).
 
 ## Art. 6.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 maggio 1931, n. 632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-05-15;632), contenente norme per la ratizzazione dei prestiti agrari di esercizio. 
+ E' convertito in legge il [R. decreto-legge 15 maggio 1931, n. 632](Ratizzazione%20dei%20prestiti%20agrari%20di%20esercizio.%20031U0632.md), contenente norme per la ratizzazione dei prestiti agrari di esercizio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

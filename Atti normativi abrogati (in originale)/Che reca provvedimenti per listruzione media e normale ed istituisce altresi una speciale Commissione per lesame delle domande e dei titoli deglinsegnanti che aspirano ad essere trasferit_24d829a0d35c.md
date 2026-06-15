@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti gli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_10), [11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_11) e [30 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_30);
+Visti gli [articoli 10](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), [11](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md) e [30 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md);
 
-Visto l'[art. 5 della legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141#art_5) e l'[articolo 2 della legge 12 marzo 1911, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-12;177#art_2);
+Visto l'[art. 5 della legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md) e l'[articolo 2 della legge 12 marzo 1911, n. 177](Concernente%20modificazioni%20agli%20articoli%203%20e%206%20della%20legge%208%20aprile%201906%20n.%20141%20sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20011U0177.md);
 
 Ritenuta l'urgenza di provvedere ad alcune modificazioni delle disposizioni di legge sopra indicate per conseguire una rapida e sicura sistemazione degli Istituti d'istruzione media e normale col principio dell'anno scolastico;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per la istruzione pubblica, di c
 
 ## Art. 1.
 
-In ciascun Istituto, oltre le cattedre che sono determinate dal suo organico, deve essere stabilito il posto di capo d'istituto con o senza insegnamento; la cattedra tenuta dal capo d'istituto deve essere parimente stabilita, ma non potra' essere coperta da un insegnante di ruolo se non nei casi previsti dal [3°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_16-com3) e [4° comma dell'art. 16 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_16-com4). 
+In ciascun Istituto, oltre le cattedre che sono determinate dal suo organico, deve essere stabilito il posto di capo d'istituto con o senza insegnamento; la cattedra tenuta dal capo d'istituto deve essere parimente stabilita, ma non potra' essere coperta da un insegnante di ruolo se non nei casi previsti dal [3°](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md) e [4° comma dell'art. 16 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md). 
  
  L'assegnazione dei posti di ruolo ai singoli Istituti e le modificazioni che si rendano necessarie nel corso dell'anno e non importino aumento nel numero complessivo delle cattedre di ruolo stabilito per l'anno medesimo vengono disposte con decreto del ministro della istruzione pubblica. 
  
@@ -46,19 +46,19 @@ La sessione autunnale di esami ha normalmente principio col l° ottobre e deve c
  
  Esse rimangono immutate per tutto l'anno scolastico anche se il numero degli alunni aumenti. 
  
- E' abrogato l'ultimo comma dell'[art. 11 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_11).
+ E' abrogato l'ultimo comma dell'[art. 11 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md).
 
 ## Art. 3.
 
-L'insegnante o il capo d'istituto il quale raggiunga il limite di eta', di cui all'[art. 30 e al 2° comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_30-com2) dell'[art. 59 della legge 16 luglio 1914, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;679#art_59), durante il corso dell'anno scolastico potra' essere mantenuto in ufficio fino al termine dell'anno scolastico medesimo, salvo il caso di urgenti necessita' di servizio.
+L'insegnante o il capo d'istituto il quale raggiunga il limite di eta', di cui all'[art. 30 e al 2° comma](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md) dell'[art. 59 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), durante il corso dell'anno scolastico potra' essere mantenuto in ufficio fino al termine dell'anno scolastico medesimo, salvo il caso di urgenti necessita' di servizio.
 
 ## Art. 4.
 
-All'[art. 5 della legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141#art_5), e' sostituito il seguente: 
+All'[art. 5 della legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md), e' sostituito il seguente: 
  
  Gli insegnanti governativi non possono essere trasferiti di residenza che in seguito a loro domanda o d'ufficio. 
  
- Quando una sede sia chiesta contemporaneamente da piu' insegnanti, data la preferenza a coloro che siano riusciti vincitori nei concorsi speciali per cattedre di sedi di primaria importanza di cui all'[art. 2, primo comma, della legge 12 marzo 1911, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-12;177#art_2-com1), la scelta deve esser fatta con particolare riguardo all'anzianita' congiunta al merito. 
+ Quando una sede sia chiesta contemporaneamente da piu' insegnanti, data la preferenza a coloro che siano riusciti vincitori nei concorsi speciali per cattedre di sedi di primaria importanza di cui all'[art. 2, primo comma, della legge 12 marzo 1911, n. 177](Concernente%20modificazioni%20agli%20articoli%203%20e%206%20della%20legge%208%20aprile%201906%20n.%20141%20sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20011U0177.md), la scelta deve esser fatta con particolare riguardo all'anzianita' congiunta al merito. 
  
  Il trasferimento d'ufficio deve essere determinato da specificate ragioni di servizio, delle quali e' data comunicazione all'interessato se ne faccia domanda. 
  
@@ -72,7 +72,7 @@ All'[art. 5 della legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res
 
 ## Art. 5.
 
-Per tutta la durata della guerra e per l'anno scolastico successivo a quello nel corso del quale sara' conclusa la pace, alle cattedre di ruolo delle scuole medie e normali vacanti nelle sedi di primaria importanza di cui all'[art. 2 della legge 12 marzo 1911, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-12;177#art_2), il ministro, fermo il disposto dell'ultimo comma dell'[art. 6 della legge 8 aprile 1906, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141#art_6), modificato coll'art. 2 sopracitato, provvedera', anziche' con concorso speciale, con trasferimenti di insegnanti di ruolo della stessa disciplina in Istituti del medesimo ordine e grado di sedi non di primaria importanza a norma degli articoli seguenti.
+Per tutta la durata della guerra e per l'anno scolastico successivo a quello nel corso del quale sara' conclusa la pace, alle cattedre di ruolo delle scuole medie e normali vacanti nelle sedi di primaria importanza di cui all'[art. 2 della legge 12 marzo 1911, n. 177](Concernente%20modificazioni%20agli%20articoli%203%20e%206%20della%20legge%208%20aprile%201906%20n.%20141%20sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20011U0177.md), il ministro, fermo il disposto dell'ultimo comma dell'[art. 6 della legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md), modificato coll'art. 2 sopracitato, provvedera', anziche' con concorso speciale, con trasferimenti di insegnanti di ruolo della stessa disciplina in Istituti del medesimo ordine e grado di sedi non di primaria importanza a norma degli articoli seguenti.
 
 ## Art. 6.
 
@@ -80,7 +80,7 @@ Una speciale Commissione composta di tre membri, di cui due scelti direttamente 
  
  Se trattasi di disciplina cui non corrisponda una cattedra universitaria, la Commissione puo' essere composta tutta di professori ordinari delle scuole medie di secondo grado, possibilmente vincitori di concorso speciale. 
  
- Alla predetta Commissione sono applicabili le disposizioni degli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625#art_10) e [11 del decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625#art_11), convertito nella [legge 21 dicembre 1915, n. 1774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-12-21;1774).
+ Alla predetta Commissione sono applicabili le disposizioni degli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625#art_10) e [11 del decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625#art_11), convertito nella [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md).
 
 ## Art. 7.
 

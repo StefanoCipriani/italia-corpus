@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge del 5 agosto 1927, n. 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-08-05;1416), concernente le riduzioni delle tariffe postali e telegrafiche. 
+ E' convertito in legge il [R. decreto-legge del 5 agosto 1927, n. 1416](Riduzioni%20delle%20tariffe%20postali%20e%20telegrafiche.%20027U1416.md), concernente le riduzioni delle tariffe postali e telegrafiche. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il personale di gruppo B della Corte dei conti, il quale prima della scadenza del termine indicato nell'[art. 12, comma 1°, del R. decreto 11 dicembre 1941, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-12-11;1404#art_12-com1), siasi trovato nelle condizioni ivi prevedute, puo' ottenere la promozione al grado 9°, ai sensi dello stesso articolo, entro il 31 gennaio 1946.
+Il personale di gruppo B della Corte dei conti, il quale prima della scadenza del termine indicato nell'[art. 12, comma 1°, del R. decreto 11 dicembre 1941, n. 1404](Norme%20per%20lapplicazione%20del%20R.%20decreto-legge%2028%20giugno%201941-XIX%20n.%20856%20concernente%20il%20riassetto%20del%20servizi%20della%20Corte%20dei%20conti.%20041U1404.md), siasi trovato nelle condizioni ivi prevedute, puo' ottenere la promozione al grado 9°, ai sensi dello stesso articolo, entro il 31 gennaio 1946.
 
 ## Art. 2.
 

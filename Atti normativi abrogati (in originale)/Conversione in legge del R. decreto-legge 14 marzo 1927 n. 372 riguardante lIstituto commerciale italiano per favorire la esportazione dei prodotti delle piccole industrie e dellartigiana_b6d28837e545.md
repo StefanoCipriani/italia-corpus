@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 marzo 1927, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-14;372), riguardante l'Istituto commerciale italiano per favorire la esportazione dei prodotti delle piccole industrie e dell'artigianato e l'Istituto nazionale di credito per le piccole industrie e l'artigianato. 
+ E' convertito in legge il [R. decreto-legge 14 marzo 1927, n. 372](Disposizioni%20a%20favore%20dellIstituto%20commerciale%20italiano%20per%20lesportazione%20dei%20prodotti%20delle%20piccole%20industrie%20e%20dellartigianato%20nonche%20dellIstituto%20nazionale%20di%20credito%20per%20le%20piccole%20in_1255fd7bbf5c.md), riguardante l'Istituto commerciale italiano per favorire la esportazione dei prodotti delle piccole industrie e dell'artigianato e l'Istituto nazionale di credito per le piccole industrie e l'artigianato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

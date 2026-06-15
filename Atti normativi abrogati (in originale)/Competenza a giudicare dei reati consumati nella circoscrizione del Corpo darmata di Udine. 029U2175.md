@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 4 del R. decreto-legge 18 marzo 1928, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-03-18;742#art_4), e' sostituito dal seguente: 
+L'[art. 4 del R. decreto-legge 18 marzo 1928, n. 742](Varianti%20alla%20legge%2011%20marzo%201926%20n.%20396%20sullordinamento%20del%20Regio%20esercito%20disposizioni%20riguardanti%20la%20costituzione%20del%20Tribunale%20militare%20territoriale%20per%20il%20Corpo%20darmata%20di%20Udine%20e%20no_a947bb379ef3.md), e' sostituito dal seguente: 
  
  « I reati militari consumati entro la circoscrizione del Corpo d'armata di Udine sono di competenza del Tribunale militare territoriale del Corpo d'armata di Trieste ».
 

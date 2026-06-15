@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Veduta la tabella della circoscrizione elettorale annessa al testo unico sopra citato: 
  
- Visto il [R. decreto 5 giugno 1913, n. 901](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-05;901), col quale gli elettori politici del comune di Loveno Grumello, nel Collegio di Breno, vennero aggregati alla sezione elettorale del comune di Paisco; 
+ Visto il [R. decreto 5 giugno 1913, n. 901](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20Comuni%20della%20provincia%20di%20Brescia.%20013U0901.md), col quale gli elettori politici del comune di Loveno Grumello, nel Collegio di Breno, vennero aggregati alla sezione elettorale del comune di Paisco; 
  
  Vista la deliberazione in data 15 gennaio 1919 della Commissione elettorale del comune di Loveno Grumello, con la quale, in considerazione che gli elettori sono in numero di 116, si stabilisce di chiedere la costituzione del Comune in sezione elettorale autonoma; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' revocato il citato [R. decreto 5 giugno 1913, numero 901](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-05;901) in quanto esso disponeva che gli elettori del comune di Loveno Grumello fossero aggregati alla sezione elettorale del comune di Paisco. 
+ E' revocato il citato [R. decreto 5 giugno 1913, numero 901](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20Comuni%20della%20provincia%20di%20Brescia.%20013U0901.md) in quanto esso disponeva che gli elettori del comune di Loveno Grumello fossero aggregati alla sezione elettorale del comune di Paisco. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

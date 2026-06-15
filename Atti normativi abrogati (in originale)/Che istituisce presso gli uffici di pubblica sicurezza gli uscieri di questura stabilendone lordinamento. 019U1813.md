@@ -26,9 +26,9 @@ Visto il regolamento per il corpo delle guardie di citta' 27 giugno 1907, n. 367
 
 Visto il regolamento per gli ufficiali ed impiegati di pubblica sicurezza 20 agosto 1909, n. 666;
 
-Visto il [R. decreto 14 agosto 1919, n. 1442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-14;1442), sull'ordinamento del personale della pubblica sicurezza e la istituzione di un Corpo di agenti d'investigazione;
+Visto il [R. decreto 14 agosto 1919, n. 1442](Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md), sull'ordinamento del personale della pubblica sicurezza e la istituzione di un Corpo di agenti d'investigazione;
 
-Visto il [R. decreto 2 ottobre 1919, n. 1790](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1790), per la istituzione del corpo delle guardie regie;
+Visto il [R. decreto 2 ottobre 1919, n. 1790](Che%20sopprime%20lattuale%20corpo%20delle%20guardie%20di%20citta%20ed%20in%20sua%20vece%20istituisce%20il%20corpo%20della%20R.%20guardia%20per%20la%20pubblica%20sicurezza.%20019U1790.md), per la istituzione del corpo delle guardie regie;
 
 Sentito il Consiglio dei ministri;
 
@@ -58,7 +58,7 @@ Nella prima attuazione del presente decreto gli attuali uscieri di questura ed a
 
 ## Art. 4.
 
-Sono applicabili al personale degli uscieri di questura le disposizioni degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-14;1442#art_5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-14;1442#art_6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-14;1442#art_7), [19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-14;1442#art_19), [20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-14;1442#art_20), [21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-14;1442#art_21), [22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-14;1442#art_22) e [23 del R. decreto 14 agosto 1919, n. 1442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-14;1442#art_23) nonche' le disposizioni relative al personale di basso servizio dell'Amministrazione provinciale dell'interno.
+Sono applicabili al personale degli uscieri di questura le disposizioni degli [articoli 5](Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md), [6](Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md), [7](Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md), [19](Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md), [20](Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md), [21](Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md), [22](Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md) e [23 del R. decreto 14 agosto 1919, n. 1442](Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md) nonche' le disposizioni relative al personale di basso servizio dell'Amministrazione provinciale dell'interno.
 
 ## Art. 5.
 
@@ -66,7 +66,7 @@ I rapporti di subordinazione tra gli uscieri sono determinati dallo stipendio e,
 
 ## Art. 6.
 
-Sono abrogate le disposizioni degli articoli 30 e 31 del testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza approvato con [R. decreto 31 agosto 1907, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690), nonche' le disposizioni relative al regolamento approvato con [R. decreto 27 giugno 1907, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-06-27;367).
+Sono abrogate le disposizioni degli articoli 30 e 31 del testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza approvato con [R. decreto 31 agosto 1907, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690), nonche' le disposizioni relative al regolamento approvato con [R. decreto 27 giugno 1907, n. 367](Che%20approva%20lunito%20testo%20unico%20del%20regolamento%20pel%20Corpo%20delle%20guardie%20di%20citta.%20007U0367.md).
 
 ## Art. 7.
 

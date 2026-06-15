@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il termine del 31 dicembre 1982, indicato nel [quinto comma dell'articolo 84 della legge 14 maggio 1981, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219#art_84-com5), e' prorogato al 31 dicembre 1983.
+Il termine del 31 dicembre 1982, indicato nel [quinto comma dell'articolo 84 della legge 14 maggio 1981, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md), e' prorogato al 31 dicembre 1983.
 
 ## Art. 2.
 

@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico
 
-La [legge 23 febbraio 1928, n. 439](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20marzo%201927%20numero%20386%20che%20disciplina%20il%20lavoro%20nei%20grandi%20panifici%20tecnicamente%20organizzati%20con%20forni%20a%20fuoco%20continuo.%20028U0439.md), che converte in legge il [regio decreto-legge 17 marzo 1927, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-17;386), e' abrogata. 
+La [legge 23 febbraio 1928, n. 439](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20marzo%201927%20numero%20386%20che%20disciplina%20il%20lavoro%20nei%20grandi%20panifici%20tecnicamente%20organizzati%20con%20forni%20a%20fuoco%20continuo.%20028U0439.md), che converte in legge il [regio decreto-legge 17 marzo 1927, n. 386](Disciplina%20del%20lavoro%20nei%20panifici%20di%20notevole%20potenzialita%20con%20forni%20a%20regime%20continuo.%20027U0386.md), e' abrogata. 
  Alla data di entrata in vigore della presente legge, si considerano decadute tutte le autorizzazioni rilasciate in base alla legge abrogata con il comma precedente.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge l'annesso [Regio decreto del 21 novembre 1892 n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-11-21;671) (Tabella A), col quale furono apportate modificazioni alla tariffa generale dei dazi doganali.
+E' convertito in legge l'annesso [Regio decreto del 21 novembre 1892 n. 671](Che%20modifica%20la%20tariffa%20generale%20dei%20dazi%20doganali%20per%20quanto%20riguarda%20lo%20zucchero.%20092U0671.md) (Tabella A), col quale furono apportate modificazioni alla tariffa generale dei dazi doganali.
 
 ## Art. 2.
 

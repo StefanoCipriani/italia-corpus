@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-A decorrere dal 1 luglio 1994 gli istituti di ricovero e cura a carattere scientifico con personalita' giuridica di diritto pubblico sono gestiti da commissari straordinari fino alla data di nomina degli organi di cui al [decreto legislativo 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269). A partire dalla stessa data cessano tutti gli organi di amministrazione attualmente in carica. L'atto di nomina del commissario straordinario determina anche il compenso spettante allo stesso. Contestualmente alla nomina dei commissari straordinari si provvede alla conferma del collegio dei revisori o alla loro costituzione, ove mancanti.
+A decorrere dal 1 luglio 1994 gli istituti di ricovero e cura a carattere scientifico con personalita' giuridica di diritto pubblico sono gestiti da commissari straordinari fino alla data di nomina degli organi di cui al [decreto legislativo 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md). A partire dalla stessa data cessano tutti gli organi di amministrazione attualmente in carica. L'atto di nomina del commissario straordinario determina anche il compenso spettante allo stesso. Contestualmente alla nomina dei commissari straordinari si provvede alla conferma del collegio dei revisori o alla loro costituzione, ove mancanti.
 
 2.
 
@@ -34,7 +34,7 @@ La disposizione del comma 1 non si applica al consiglio di amministrazione dell'
 
 1.
 
-A decorrere dal 1 gennaio 1995 la contabilita' economico-finanziaria e patrimoniale e la contabilita' finanziaria delle unita' sanitarie locali e delle aziende ospedaliere previste dall'[articolo 5 del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_5), e successive modificazioni e integrazioni, dovranno essere tenute separate rispetto a quella degli anni 1994 e precedenti.
+A decorrere dal 1 gennaio 1995 la contabilita' economico-finanziaria e patrimoniale e la contabilita' finanziaria delle unita' sanitarie locali e delle aziende ospedaliere previste dall'[articolo 5 del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni e integrazioni, dovranno essere tenute separate rispetto a quella degli anni 1994 e precedenti.
 
 2.
 
@@ -44,17 +44,17 @@ Le disposizioni di cui al presente articolo si applicano anche agli istituti di 
 
 1.
 
-Il primo periodo del [comma 14 dell'articolo 8 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com14), e' sostituito dal seguente: 
+Il primo periodo del [comma 14 dell'articolo 8 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e' sostituito dal seguente: 
  "I farmaci collocati nella classe di cui al comma 10, lettera a), sono a totale carico del Servizio sanitario nazionale con la corresponsione, da parte dell'assistito, di una quota per ricetta pari a lire 3.000, nel caso in cui sia prescritta una sola confezione, e a lire 5.000, nel caso in cui siano prescritte due o piu' confezioni, nelle ipotesi consentite dalla legge.".
 
 2.
 
-Il quarto periodo del [comma 16 dell'articolo 8 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com16), e' sostituito dal seguente: 
+Il quarto periodo del [comma 16 dell'articolo 8 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e' sostituito dal seguente: 
  "Per l'assistenza farmaceutica, i cittadini esenti, con esclusione degli invalidi di guerra, titolari di pensione diretta vitalizia, dei grandi invalidi per servizio e degli invalidi civili al 100 per cento, sono tenuti, comunque, al pagamento della quota per ricetta prevista dal comma 14; per le prestazioni di cui al comma 15, gli stessi sono tenuti al pagamento di una quota fissa per ricetta di lire 5.000.".
 
 3.
 
-Qualora un assistito del Servizio sanitario nazionale abbia assoluta necessita', in ragione della particolare patologia cronica o di lunga durata della quale soffre, di essere trattato con i medicinali di cui alla [lettera c) dell'articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com10-letc), la USL competente provvede alla dispensazione gratuita dei medicinali, purche' l'assoluta necessita' del trattamento sia stata riconosciuta dalla stessa USL, in conformita' dei criteri che saranno a tal fine adottati dalla Commissione unica del farmaco entro 30 giorni dalla data di entrata in vigore del presente decreto. La spesa complessiva non puo' superare l'importo massimo di lire 76 miliardi; detto limite e' riferito a ciacuna regione in proporzione alla popolazione residente.
+Qualora un assistito del Servizio sanitario nazionale abbia assoluta necessita', in ragione della particolare patologia cronica o di lunga durata della quale soffre, di essere trattato con i medicinali di cui alla [lettera c) dell'articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), la USL competente provvede alla dispensazione gratuita dei medicinali, purche' l'assoluta necessita' del trattamento sia stata riconosciuta dalla stessa USL, in conformita' dei criteri che saranno a tal fine adottati dalla Commissione unica del farmaco entro 30 giorni dalla data di entrata in vigore del presente decreto. La spesa complessiva non puo' superare l'importo massimo di lire 76 miliardi; detto limite e' riferito a ciacuna regione in proporzione alla popolazione residente.
 
 4.
 
@@ -166,7 +166,7 @@ Il programma formativo e l'organizzazione dei corsi sono oggetto di specifiche c
 
 4.
 
-Agli oneri relativi al presente articolo si fa fronte per un importo non superiore a lire 1 miliardo per anno con i fondi di cui all'[articolo 12, comma 2, lettera b), del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_12-com2-letb), e successive integrazioni e modificazioni.
+Agli oneri relativi al presente articolo si fa fronte per un importo non superiore a lire 1 miliardo per anno con i fondi di cui all'[articolo 12, comma 2, lettera b), del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive integrazioni e modificazioni.
 
 ## Art. 10.
 

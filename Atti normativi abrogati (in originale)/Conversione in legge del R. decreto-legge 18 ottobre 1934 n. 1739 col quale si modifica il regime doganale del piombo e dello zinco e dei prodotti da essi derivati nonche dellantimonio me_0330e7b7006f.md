@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 ottobre 1934, n. 1739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-18;1739), col quale si modifica il regime doganale del piombo e dello zinco e dei prodotti da essi derivati, nonche' dell'antimonio metallico e di taluni prodotti chimici. 
+ E' convertito in legge il [R. decreto-legge 18 ottobre 1934, n. 1739](Modificazione%20del%20regime%20doganale%20del%20piombo%20e%20dello%20zinco%20e%20dei%20prodotti%20da%20essi%20derivati%20nonche%20dellantimonio%20metallico%20e%20di%20taluni%20prodotti%20chimici.%20034U1739.md), col quale si modifica il regime doganale del piombo e dello zinco e dei prodotti da essi derivati, nonche' dell'antimonio metallico e di taluni prodotti chimici. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

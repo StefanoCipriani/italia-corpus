@@ -85,7 +85,7 @@ Il Ministero dell'interno, sentiti la Cassa dei depositi e prestiti, per la gara
 
 ## Art. 7.
 
-All'art. 47 del testo unico di legge approvato col [R. decreto 5 settembre 1907, n. 751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-05;751), e' sostituito il seguente: 
+All'art. 47 del testo unico di legge approvato col [R. decreto 5 settembre 1907, n. 751](Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20prestiti%20della%20Cassa%20depositi%20e%20prestiti%20e%20della%20sezione%20autonoma%20di%20credito%20comunale%20e%20provinciale.%20007U0751.md), e' sostituito il seguente: 
  
  «Al fine di provvedere alle opere riguardanti la pubblica igiene, la Cassa depositi e prestiti e' autorizzata a concedere sino al 30 giugno 1924, ai comuni del Regno, al di sotto di 25,000 abitanti, secondo il censimento del 1901, con la precedenza in favore dei comuni di popolazione inferiore ai 15,000 abitanti, mutui all'interesse del due per cento, estinguibili in un periodo di tempo non eccedente i 35 anni e, soltanto in caso di assoluta necessita', giustificata dalle condizioni economiche del comune, in 50 anni. 
  
@@ -131,17 +131,17 @@ I benefici della presente legge si intendono applicabili anche:
  
  3° a quei comuni, che, pur avendo gia' accettato il mutuo ed anche conseguita la somministrazione, abbiano compiuto o si propongono di eseguire lavori suppletivi per i quali occorra un nuovo mutuo; nel qual caso il beneficio della presente legge riguardera' il solo mutuo suppletivo, ancorche' sia stato gia' concesso, purche' non sia gia' stata iniziata la somministrazione; 
  
- 4° alle somme rimaste da somministrare nel giorno 1° luglio 1910, sui mutui gia' concessi dalla Cassa dei depositi e prestiti o da altri Istituti o da privati col concorso dello Stato nel pagamento degli interessi secondo le disposizioni degli articoli 45 e 49 del testo unico di legge approvato col [R. decreto 5 settembre 1907, n. 751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-05;751). All'uopo verra' dal Ministero dell'interno, con effetto dal 1912, integrato il concorso stesso e pagato direttamente agli enti mutuatari.
+ 4° alle somme rimaste da somministrare nel giorno 1° luglio 1910, sui mutui gia' concessi dalla Cassa dei depositi e prestiti o da altri Istituti o da privati col concorso dello Stato nel pagamento degli interessi secondo le disposizioni degli articoli 45 e 49 del testo unico di legge approvato col [R. decreto 5 settembre 1907, n. 751](Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20prestiti%20della%20Cassa%20depositi%20e%20prestiti%20e%20della%20sezione%20autonoma%20di%20credito%20comunale%20e%20provinciale.%20007U0751.md). All'uopo verra' dal Ministero dell'interno, con effetto dal 1912, integrato il concorso stesso e pagato direttamente agli enti mutuatari.
 
 ## Art. 15.
 
-Rimangono in vigore, in quanto non siano contrarie alla presente legge, le disposizioni contenute nel testo unico di legge approvato col [R. decreto 5 settembre 1907, n. 751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-05;751).
+Rimangono in vigore, in quanto non siano contrarie alla presente legge, le disposizioni contenute nel testo unico di legge approvato col [R. decreto 5 settembre 1907, n. 751](Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20prestiti%20della%20Cassa%20depositi%20e%20prestiti%20e%20della%20sezione%20autonoma%20di%20credito%20comunale%20e%20provinciale.%20007U0751.md).
 
 ## Art. 16.
 
 Con decreto Reale, su proposta dei ministri dell'interno, del tesoro, dei lavori pubblici e di agricoltura, industria e commercio, sentito il Consiglio di Stato, saranno approvate le norme regolamentari per l'applicazione della presente legge. 
  
- Sino a quando non verra' pubblicato il nuovo regolamento i mutui si concederanno con le norme sancite dal regolamento approvato con [R. decreto 30 maggio 1907, n. 569](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-05-30;569). 
+ Sino a quando non verra' pubblicato il nuovo regolamento i mutui si concederanno con le norme sancite dal regolamento approvato con [R. decreto 30 maggio 1907, n. 569](Che%20approva%20lannesso%20regolamento%20sui%20mutui%20di%20favore%20per%20opere%20igieniche%20comunali%20e%20sui%20concorsi%20dello%20Stato%20per%20condutture%20dacqua%20potabile.%20007U0569.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

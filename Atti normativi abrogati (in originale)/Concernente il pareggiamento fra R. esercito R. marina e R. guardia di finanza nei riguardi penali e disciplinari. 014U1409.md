@@ -14,7 +14,7 @@ I doveri disciplinari stabiliti dai regolamenti militari, si applicano anche agl
 
 ## Art. 2.
 
-Gli individui appartenenti al corpo della R. guardia di finanza sono sottoposti alla giurisdizione militare per qualunque reato preveduto dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) per l'esercito, anche nei rapporti dei militari del R. esercito e della R. marina. 
+Gli individui appartenenti al corpo della R. guardia di finanza sono sottoposti alla giurisdizione militare per qualunque reato preveduto dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, anche nei rapporti dei militari del R. esercito e della R. marina. 
  
  I militari del R. esercito e della R. marina sono sottoposti alla giurisdizione militare per qualunque reato preveduto dai rispettivi Codici penali, anche nei rapporti degli individui appartenenti al corpo della Regia guardia di finanza.
 

@@ -36,7 +36,7 @@ I dipendenti dall'Organismo di cui al precedente art. 1 addetti ai controlli son
  Le imprese confezionatrici che richiedono l'aiuto al consumo dell'olio di oliva in misura superiore a quella accertata decadono dal diritto all'aiuto per le quantita' cui si riferiscono le relative domande e sono assoggettate, salvo che il fatto costituisca reato, ad una sanzione amministrativa del pagamento di una somma pari all'importo dell'aiuto richiesto in eccedenza.
  In caso di irregolare tenuta della contabilita' prescritta ai fini della concessione dell'aiuto, si applica la sanzione amministrativa del pagamento di una somma da L. 100.000 a L. 500.000.
  Alla applicazione delle sanzioni amministrative provvede il prefetto competente per territorio, su rapporto degli addetti ai controlli o dell'Organismo di cui al precedente art. 1.
- Alle infrazioni amministrative si applicano le disposizioni della [legge 24 dicembre 1975, n. 706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-24;706).
+ Alle infrazioni amministrative si applicano le disposizioni della [legge 24 dicembre 1975, n. 706](Sistema%20sanzionatorio%20delle%20norme%20che%20prevedono%20contravvenzioni%20punibili%20con%20lammenda.md).
  Le infrazioni previste dal quarto comma del presente articolo comportano, altresi', per le ditte confezionatrici il ritiro del riconoscimento di cui al regolamento (CEE) n. 3089/78 del Consiglio del 19 dicembre 1978 per un periodo minimo di tre mesi e massimo di un anno. Tale ritiro e' disposto con lo stesso provvedimento che irroga la relativa sanzione e di esso e' data notizia al Ministero dell'industria, del commercio e dell'artigianato.
 
 ## Art. 3.

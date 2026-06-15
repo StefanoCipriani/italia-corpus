@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3214);
+Visto il [R. decreto 30 dicembre 1923, n. 3214](Ordinamento%20dellistruzione%20agraria%20media.%20023U3214.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,13 +22,13 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale;
 
 ## Art. 1.
 
-I licenziati dei corsi superiori delle gia' Regie scuole di Viticoltura ed enologia di Alba, Avellino, Conegliano e Catania e del corso superiore della gia' Regia scuola di agricoltura di Voghera possono essere ammessi a sostenere, come privatisti, l'esame di diploma di perito agrario di cui al [2° comma dell'art. 57 del R. decreto 30 dicembre 1923, numero 3214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3214#art_57-com2), anche indipendentemente dalle condizioni richieste per i licenziati di scuole pratiche di agricoltura a corso ordinario, Regie o pareggiate.
+I licenziati dei corsi superiori delle gia' Regie scuole di Viticoltura ed enologia di Alba, Avellino, Conegliano e Catania e del corso superiore della gia' Regia scuola di agricoltura di Voghera possono essere ammessi a sostenere, come privatisti, l'esame di diploma di perito agrario di cui al [2° comma dell'art. 57 del R. decreto 30 dicembre 1923, numero 3214](Ordinamento%20dellistruzione%20agraria%20media.%20023U3214.md), anche indipendentemente dalle condizioni richieste per i licenziati di scuole pratiche di agricoltura a corso ordinario, Regie o pareggiate.
 
 ## Art. 2.
 
 Ai licenziati, a tutto l'anno 1924, degli istituti aventi organizzazione analoga a quella delle Regie scuole pratiche di agricoltura e presso i quali gli esami di licenza sono presieduti da un Regio commissario e cioe' delle scuole pratiche di agricoltura di Andria e di Napoli, dell'Istituto agrario di Scandieci (Firenze) e dell'Istituto agrario Cavalcanti in Signa (Firenze), e' estesa la facolta': 
  
- a) di iscriversi, previo esame, ai corsi speciali di complemento di cui al [comma 1° dell'art. 57 del R. decreto 30 dicembre 1923, n. 3214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3214#art_57-com1); 
+ a) di iscriversi, previo esame, ai corsi speciali di complemento di cui al [comma 1° dell'art. 57 del R. decreto 30 dicembre 1923, n. 3214](Ordinamento%20dellistruzione%20agraria%20media.%20023U3214.md); 
  
  b) di sostenere gli esami di diploma di perito agrario, come privatisti, quando si trovino nelle condizioni richieste per i licenziati di scuole pratiche di agricoltura, a corso ordinario, Regie o pareggiate.
 

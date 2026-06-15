@@ -14,7 +14,7 @@ La dispensa da qualunque chiamata alle armi e' concessa ai laureati in medicina 
  
  a) siano funzionari di ruolo dell'Amministrazione sanitaria, centrale e provinciale del Ministero dell'interno; 
  
- b) o si trovino nelle condizioni previste dall'[articolo 5 del R. decreto 13 aprile 1911, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-04-13;374#art_5); 
+ b) o si trovino nelle condizioni previste dall'[articolo 5 del R. decreto 13 aprile 1911, n. 374](Che%20approva%20lannesso%20regolamento%20sulle%20dispense%20dalle%20chiamate%20alle%20armi%20dei%20militari%20in%20congedo%20illimitato%20che%20cuoprono%20determinali%20impieghi%20o%20si%20trovano%20in%20posizioni%20speciali.%20011U0374.md); 
  
  c) oppure siano stati, prima dell'inizio della guerra, assunti stabilmente in servizio presso una pubblica Amministrazione, e l'opera dei quali sia riconosciuta indispensabile ed insostituibile.
 

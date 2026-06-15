@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 24 del R. decreto 20 dicembre 1923, n. 2748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-20;2748#art_24);
+Visto l'[art. 24 del R. decreto 20 dicembre 1923, n. 2748](Norme%20complementari%20e%20di%20attuazione%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20riguardanti%20il%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20023U2748.md);
 
 Sentito il Consiglio dei Ministri;
 

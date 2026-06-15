@@ -18,7 +18,7 @@ Le autorita', che in base al paragrafo 107 del cap. III «Regolamento sui traspo
 
 ## Art. 3.
 
-Gli ufficiali che, per fatto proprio, siano trovati a viaggiare irregolarmente sulle ferrovie o sui piroscafi, dovranno rifondere l'importo dell'addebito rilevato dagli agenti ferroviari o di navigazione e, qualora non lo potessero fare, saranno assoggettati alla ritenuta del quinto dello stipendio, valutato al netto delle ritenute, fino a completo pagamento della somma loro addebitata secondo le norme dell'[art. 2 della legge 30 giugno 1908, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;335#art_2).
+Gli ufficiali che, per fatto proprio, siano trovati a viaggiare irregolarmente sulle ferrovie o sui piroscafi, dovranno rifondere l'importo dell'addebito rilevato dagli agenti ferroviari o di navigazione e, qualora non lo potessero fare, saranno assoggettati alla ritenuta del quinto dello stipendio, valutato al netto delle ritenute, fino a completo pagamento della somma loro addebitata secondo le norme dell'[art. 2 della legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md).
 
 ## Art. 4.
 

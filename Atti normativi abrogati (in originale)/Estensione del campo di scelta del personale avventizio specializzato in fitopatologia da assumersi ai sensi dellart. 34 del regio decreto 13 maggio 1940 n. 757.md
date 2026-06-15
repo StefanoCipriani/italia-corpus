@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 5 settembre 1938, n. 1622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-05;1622), convertito nella [legge 5 gennaio 1939, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-05;156), recante provvedimenti per l'intensificazione della difesa antiparassitaria delle piante da frutto;
+Visto il [regio decreto-legge 5 settembre 1938, n. 1622](Provvedimenti%20per%20lintensificazione%20della%20difesa%20antiparassitaria%20delle%20piante%20da%20frutto.%20038U1622.md), convertito nella [legge 5 gennaio 1939, n. 156](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%205%20settembre%201938-XVI%20n.%201622%20recante%20provvedimenti%20per%20lintensificazione%20della%20difesa%20antiparassitaria%20delle%20piante%20da%20frutto.%20039U0156.md), recante provvedimenti per l'intensificazione della difesa antiparassitaria delle piante da frutto;
 
-Visto il [regio decreto 13 maggio 1940, n. 757](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-13;757), contenente le relative norme di attuazione;
+Visto il [regio decreto 13 maggio 1940, n. 757](Norme%20per%20lesecuzione%20del%20Regio%20decreto-legge%205%20settembre%201938-XVI%20n.%201622%20convertito%20in%20legge%20con%20la%20legge%205%20gennaio%201939-XVII%20n.%20156%20recante%20provvedimenti%20per%20lintensificazione%20della%20di_ea7e64b98bed.md), contenente le relative norme di attuazione;
 
 Ritenuta l'opportunita' di estendere, nell'interesse dell servizio fitopatologico, le possibilita' di scelta del personale non di ruolo, laureato in scienze agrarie o in scienze naturali e, specializzato in fitopatologia, di cui all'art. 34 del citato regio decreto, nonche' di dichiarare esplicitamente vincolativa la graduatoria dei titoli di specializzazione stabilita nel presente decreto;
 
@@ -24,12 +24,12 @@ Sulla proposta del Ministro per l'agricoltura e le foreste, di concerto con quel
 
 ## Articolo unico.
 
-Il testo del [secondo comma dell'art. 34 del regio decreto 13 maggio 1940, n. 757](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-13;757#art_34-com2), e' sostituito come segue:
+Il testo del [secondo comma dell'art. 34 del regio decreto 13 maggio 1940, n. 757](Norme%20per%20lesecuzione%20del%20Regio%20decreto-legge%205%20settembre%201938-XVI%20n.%201622%20convertito%20in%20legge%20con%20la%20legge%205%20gennaio%201939-XVII%20n.%20156%20recante%20provvedimenti%20per%20lintensificazione%20della%20di_ea7e64b98bed.md), e' sostituito come segue:
  "La specializzazione in fitopatologia, prevista ne] precedente comma, e' documentata dai titoli in appresso elencati con criteri di tassativa graduatoria:
 
  1) conseguimento della libera docenza in patologia vegetale o in entomologia agraria;
 
- 2) frequenza, per almeno un anno, di borse di studio conseguite a norma dell'art. 9 del regolamento approvato col [regio decreto 12 ottobre 1933, n. 1700](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-12;1700);
+ 2) frequenza, per almeno un anno, di borse di studio conseguite a norma dell'art. 9 del regolamento approvato col [regio decreto 12 ottobre 1933, n. 1700](Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2018%20giugno%201931%20n.%20987%20recante%20disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20_5e6e30170b22.md);
 
  3) esercizio, per almeno un anno, delle funzioni di assistente, anche volontario, presso una, cattedra delle anzidette discipline in una Universita';
 

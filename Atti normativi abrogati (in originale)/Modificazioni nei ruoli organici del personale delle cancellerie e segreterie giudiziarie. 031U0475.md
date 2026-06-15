@@ -22,7 +22,7 @@ Visto l'[art. 3, n. 2, del R. decreto-legge 31 gennaio 1926, n. 100](https://www
 
 Ritenuta la necessita' assoluta e l'urgenza di procedere a riduzione delle piante organiche del personale delle cancellerie e segreterie giudiziarie;
 
-Visto il [R. decreto 11 gennaio 1930, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-01-11;29);
+Visto il [R. decreto 11 gennaio 1930, n. 29](Sistemazione%20dei%20servizi%20e%20del%20personale%20della%20Direzione%20generale%20del%20Fondo%20per%20il%20culto%20nel%20Ministero%20della%20giustizia%20e%20degli%20affari%20di%20culto.%20030U0029.md);
 
 Udito il Consiglio dei Ministri:
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giu
 
 ## Art. 1.
 
-I posti di cui alla tabella B, annessa al [R. decreto 11 gennaio 1930, n.29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-01-11;29), sono soppressi ed i funzionari di cui alla tabella stessa, attualmente in servizio alla Direzione generale del Fondo per il culto, sono trasferiti nel ruolo degli aiutanti delle cancellerie e segreterie giudiziarie con lo stesso grado e con la stessa anzianita' che all'atto del passaggio hanno nel ruolo cui attualmente appartengono. 
+I posti di cui alla tabella B, annessa al [R. decreto 11 gennaio 1930, n.29](Sistemazione%20dei%20servizi%20e%20del%20personale%20della%20Direzione%20generale%20del%20Fondo%20per%20il%20culto%20nel%20Ministero%20della%20giustizia%20e%20degli%20affari%20di%20culto.%20030U0029.md), sono soppressi ed i funzionari di cui alla tabella stessa, attualmente in servizio alla Direzione generale del Fondo per il culto, sono trasferiti nel ruolo degli aiutanti delle cancellerie e segreterie giudiziarie con lo stesso grado e con la stessa anzianita' che all'atto del passaggio hanno nel ruolo cui attualmente appartengono. 
  
  Il trasferimento ha luogo con decreto del Ministro per la giustizia.
 

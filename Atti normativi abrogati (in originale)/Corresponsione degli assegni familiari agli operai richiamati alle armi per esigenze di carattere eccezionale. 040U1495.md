@@ -66,7 +66,7 @@ Le disposizioni del presente decreto non si applicano agli assegni familiari dov
 
 ## Art. 6.
 
-E' abrogato con effetto dal 28 ottobre 1940-XVIII la disposizione di cui all'[art. 13 del R. decreto 21 luglio 1937, n. 1239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-21;1239#art_13). 
+E' abrogato con effetto dal 28 ottobre 1940-XVIII la disposizione di cui all'[art. 13 del R. decreto 21 luglio 1937, n. 1239](Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md). 
  
  Dalla data predetta non puo' essere riconosciuta per effetto del richiamo alle armi ai fini del godimento degli assegni familiari la qualifica di capo famiglia alla moglie e ai congiunti degli operai di cui all'art. 1.
 

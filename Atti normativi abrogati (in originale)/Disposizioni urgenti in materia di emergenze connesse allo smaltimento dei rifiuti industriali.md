@@ -28,14 +28,14 @@ Per i rifiuti industriali speciali e per quelli tossici e nocivi trasportati via
 
 2.
 
-Le misure attuative degli interventi definiti con il decreto del Presidente del Consiglio di cui al comma 1 sono stabilite con apposite ordinanze emanate, ai sensi dell'[articolo 1, secondo comma, del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1982, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-23;938), dal Ministro per il coordinamento della protezione civile, di concerto con il Ministro dell'ambiente.
+Le misure attuative degli interventi definiti con il decreto del Presidente del Consiglio di cui al comma 1 sono stabilite con apposite ordinanze emanate, ai sensi dell'[articolo 1, secondo comma, del decreto-legge 12 novembre 1982, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829#art_1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1982, n. 938](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20novembre%201982%20n.%20829%20concernente%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20da%20calamita%20naturali%20o%20eventi%20eccezionali.md), dal Ministro per il coordinamento della protezione civile, di concerto con il Ministro dell'ambiente.
 
 ## Art. 2.
 
 1.
 
 Per il finanziamento degli interventi disciplinati dalle ordinanze di cui all'articolo 1, comma 2, il fondo per la protezione civile e' integrato della somma di lire 20 miliardi per l'anno 1988.
-Al relativo onere si provvede mediante riduzione, di pari importo, dello stanziamento iscritto al capitolo 7103 dello stato di previsione del Ministero dell'ambiente per l'anno 1988, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 18, comma 1, lettera f), della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_18-com1-letf).
+Al relativo onere si provvede mediante riduzione, di pari importo, dello stanziamento iscritto al capitolo 7103 dello stato di previsione del Ministero dell'ambiente per l'anno 1988, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 18, comma 1, lettera f), della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md).
 
 2.
 

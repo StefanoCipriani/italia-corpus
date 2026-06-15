@@ -28,11 +28,11 @@ I medicinali appartenenti alle classi
                         a)
                             e
                         b)
-                            dell'[articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com10), devono essere in commercio in confezioni in grado di assicurare l'ottimale soddisfacimento delle esigenze terapeutiche, evitando la dispersione di risorse, in conformita' dei criteri riportati nell'allegato al presente decreto.
+                            dell'[articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), devono essere in commercio in confezioni in grado di assicurare l'ottimale soddisfacimento delle esigenze terapeutiche, evitando la dispersione di risorse, in conformita' dei criteri riportati nell'allegato al presente decreto.
 
 2.
 
-Entro il 15 dicembre 1995 le imprese titolari di autorizzazione all'immissione in commercio di medicinali collocati nelle classi di cui alle lettere a), anche con limitazione all'uso ospedaliero, e b) dell'[articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com10), devono presentare domanda diretta a ottenere modifiche delle confezioni autorizzate o nuove confezioni conformi ai criteri dell'allegato di cui al comma 1. Entro lo stesso termine, le imprese interessate devono inviare al Ministero della sanita', per ogni medicinale che risulta in commercio in una confezione gia' conforme ai predetti criteri, sintetica comunicazione dimostrativa di tale conformita'. I prezzi delle nuove confezioni debbono essere proporzionalmente allineati a quelli delle confezioni da sostituire.
+Entro il 15 dicembre 1995 le imprese titolari di autorizzazione all'immissione in commercio di medicinali collocati nelle classi di cui alle lettere a), anche con limitazione all'uso ospedaliero, e b) dell'[articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), devono presentare domanda diretta a ottenere modifiche delle confezioni autorizzate o nuove confezioni conformi ai criteri dell'allegato di cui al comma 1. Entro lo stesso termine, le imprese interessate devono inviare al Ministero della sanita', per ogni medicinale che risulta in commercio in una confezione gia' conforme ai predetti criteri, sintetica comunicazione dimostrativa di tale conformita'. I prezzi delle nuove confezioni debbono essere proporzionalmente allineati a quelli delle confezioni da sostituire.
 
 3.
 
@@ -60,11 +60,11 @@ In caso di farmaci innovativi per i quali non sia disponibile il prezzo medio eu
 
 1.
 
-I limiti di spesa previsti dall'[articolo 7, commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_7-com4) e [5, della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_7-com5), sono riferiti a ciascuna regione in proporzione alla popolazione residente.
+I limiti di spesa previsti dall'[articolo 7, commi 4](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md) e [5, della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), sono riferiti a ciascuna regione in proporzione alla popolazione residente.
 
 2.
 
-L'onere a carico del Servizio sanitario nazionale per l'assistenza farmaceutica previsto dall'[articolo 7, comma 4, della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_7-com4), e' rideterminato in lire 9.700 miliardi.
+L'onere a carico del Servizio sanitario nazionale per l'assistenza farmaceutica previsto dall'[articolo 7, comma 4, della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), e' rideterminato in lire 9.700 miliardi.
 
 3.
 
@@ -88,11 +88,11 @@ L'[articolo 7 del decreto legislativo 17 marzo 1995, n. 185](Attuazione%20della%
 
 1.
 
-Il termine di cui all'[articolo 3, comma 129, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com129), e' differito al 1 luglio 1996.
+Il termine di cui all'[articolo 3, comma 129, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), e' differito al 1 luglio 1996.
 
 2.
 
-In deroga a quanto stabilito dall'[articolo 8, comma 12, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com12), l'adeguamento alla media comunitaria del prezzo degli emoderivati salvavita, identificati con decreto del Ministro della sanita', avviene nella misura del 50 per cento a partire dalla data di entrata in vigore del presente decreto e per il restante 50 per cento a partire dal 1 gennaio 1997.
+In deroga a quanto stabilito dall'[articolo 8, comma 12, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), l'adeguamento alla media comunitaria del prezzo degli emoderivati salvavita, identificati con decreto del Ministro della sanita', avviene nella misura del 50 per cento a partire dalla data di entrata in vigore del presente decreto e per il restante 50 per cento a partire dal 1 gennaio 1997.
 
 ## Art. 6.
 

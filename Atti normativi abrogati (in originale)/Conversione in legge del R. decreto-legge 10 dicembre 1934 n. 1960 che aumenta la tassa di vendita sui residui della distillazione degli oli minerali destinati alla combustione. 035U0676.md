@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 10 dicembre 1934, n. 1960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-12-10;1960), che aumenta la tassa di vendita sui residui della distillazione degli oli minerali destinati alla combustione. 
+ E' convertito in legge il [R. decreto-legge 10 dicembre 1934, n. 1960](Aumento%20della%20tassa%20di%20vendita%20di%20alcune%20specie%20di%20residui%20degli%20oli%20minerali.%20034U1960.md), che aumenta la tassa di vendita sui residui della distillazione degli oli minerali destinati alla combustione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

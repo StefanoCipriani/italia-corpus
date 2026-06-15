@@ -14,13 +14,13 @@ Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio
 
 Visto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
 
-Visto il [regio decreto-legge 26 gennaio 1939, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-01-26;330);
+Visto il [regio decreto-legge 26 gennaio 1939, n. 330](Disposizioni%20per%20il%20personale%20assistente%20delle%20Regie%20universita%20e%20degli%20Istituti%20scientifici.%20039U0330.md);
 
-Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;571);
+Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 571](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20circa%20le%20nomine%20ed%20i%20licenziamenti%20disposti%20dal%20Governo%20Militare%20Alleato.%20045U0571.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto il [decreto legislativo Presidenziale 10 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-10;1);
 
@@ -34,7 +34,7 @@ Per la durata di un anno dall'entrata in vigore del presente decreto e' sospesa 
 
 ## Art. 2.
 
-Nei confronti di coloro che saranno nominati aiuti o assistenti a norma della disposizione richiamata in vigore dal precedente art. 1, si intendono applicabili le disposizioni degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-01-26;330#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-01-26;330#art_2) e [3 del regio decretolegge 26 gennaio 1939, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-01-26;330#art_3).
+Nei confronti di coloro che saranno nominati aiuti o assistenti a norma della disposizione richiamata in vigore dal precedente art. 1, si intendono applicabili le disposizioni degli [articoli 1](Disposizioni%20per%20il%20personale%20assistente%20delle%20Regie%20universita%20e%20degli%20Istituti%20scientifici.%20039U0330.md), [2](Disposizioni%20per%20il%20personale%20assistente%20delle%20Regie%20universita%20e%20degli%20Istituti%20scientifici.%20039U0330.md) e [3 del regio decretolegge 26 gennaio 1939, n. 330](Disposizioni%20per%20il%20personale%20assistente%20delle%20Regie%20universita%20e%20degli%20Istituti%20scientifici.%20039U0330.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

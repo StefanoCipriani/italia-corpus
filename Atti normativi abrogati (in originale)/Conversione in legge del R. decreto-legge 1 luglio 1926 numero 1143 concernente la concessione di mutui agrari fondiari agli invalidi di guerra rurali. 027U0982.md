@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 1° luglio 1926, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-01;1143), concernente la concessione di mutui agrari fondiari agli invalidi di guerra rurali. 
+ E' convertito in legge il [R. decreto-legge 1° luglio 1926, n. 1143](Concessione%20di%20mutui%20agrari%20fondiari%20ad%20invalidi%20di%20guerra%20rurali.%20026U1143.md), concernente la concessione di mutui agrari fondiari agli invalidi di guerra rurali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

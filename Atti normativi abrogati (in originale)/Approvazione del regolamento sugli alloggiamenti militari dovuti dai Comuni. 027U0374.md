@@ -18,7 +18,7 @@ Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecut
 
 Visto l'[art. 12 del R. decreto-legge del 26 luglio 1917, n. 1513](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1917-07-26;1513#art_12), convertito nella [legge 7 giugno 1923, n. 1310](Che%20converte%20in%20legge%20il%20R.%20decreto-legge%2026%20luglio%201917%20n.%201513%20concernente%20lobbligo%20dei%20Comuni%20a%20somministrare%20gli%20alloggi%20alle%20truppe%20di%20passaggio%20od%20in%20precaria%20residenza.%20023U1310.md), sugli alloggiamenti militari;
 
-Visto il [R. decreto-legge 4 maggio 1925, n. 775](Somministrazione%20degli%20alloggi%20da%20parte%20dei%20Comuni%20alle%20truppe%20di%20passaggio.%20025U0775.md), convertito con la [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597), sulle somministrazioni degli alloggi da parte dei Comuni alle truppe di passaggio;
+Visto il [R. decreto-legge 4 maggio 1925, n. 775](Somministrazione%20degli%20alloggi%20da%20parte%20dei%20Comuni%20alle%20truppe%20di%20passaggio.%20025U0775.md), convertito con la [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), sulle somministrazioni degli alloggi da parte dei Comuni alle truppe di passaggio;
 
 Sentito il Consiglio di Stato;
 

@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu dell'autorita', a Noi delegata;
 
-Visto il [R. decreto 29 giugno 1924, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1181);
+Visto il [R. decreto 29 giugno 1924, n. 1181](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20lIstituto%20di%20soccorso%20Giuseppe%20Kirner%20in%20Firenze.%20024U1181.md);
 
-Visto il [R. decreto 15 novembre 1925, n. 2508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-11-15;2508);
+Visto il [R. decreto 15 novembre 1925, n. 2508](Norme%20regolamentari%20sul%20funzionamento%20dellIstituto%20di%20soccorso%20Giuseppe%20Kirner%20in%20Firenze.%20025U2508.md);
 
-Vista la [legge 22 marzo 1928, n. 718](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-22;718);
+Vista la [legge 22 marzo 1928, n. 718](Modificazioni%20al%20testo%20unico%20delle%20leggi%20concernenti%20lIstituto%20di%20soccorso%20Giuseppe%20Kirner%20in%20Firenze%20approvato%20con%20il%20R.%20decreto%2029%20giugno%201924%20n.%201181.%20028U0718.md);
 
-Visto il [R. decreto-legge 8 luglio 1937, n. 1726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-08;1726), convertito in legge con la [legge 7 gennaio 1938, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-01-07;69);
+Visto il [R. decreto-legge 8 luglio 1937, n. 1726](Disposizioni%20relative%20allIstituto%20di%20soccorso%20Giuseppe%20Kirner%20in%20Firenze%20e%20allIstituto%20nazionale%20di%20assistenza%20magistrale%20Rosa%20Maltoni%20Mussolini%20in%20Roma.%20037U1726.md), convertito in legge con la [legge 7 gennaio 1938, n. 69](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20luglio%201937-XV%20n.%201726%20contenente%20disposizioni%20relative%20allIstituto%20di%20soccorso%20%20Giuseppe%20Kirner%20%20in%20Firenze%20e%20allIstituto%20nazionale%20di%20assiste_af90430d804f.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -158,7 +158,7 @@ Le nomine elettive di cui agli articoli 9 e 13 del presente decreto avranno luog
 ## Art. 19.
 
 La disposizione di cui all'art. 8 del presente decreto avra' effetto dal mese successivo a quello della pubblicazione.
- Dalla entrata in vigore del presente provvedimento resta abrogato il testo unico approvato con [R. Decreto 29 giugno 1924, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1181) e successive modificazioni.
+ Dalla entrata in vigore del presente provvedimento resta abrogato il testo unico approvato con [R. Decreto 29 giugno 1924, n. 1181](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20lIstituto%20di%20soccorso%20Giuseppe%20Kirner%20in%20Firenze.%20024U1181.md) e successive modificazioni.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), riguardante l'ordinamento gerarchico delle Amministrazioni dello Stato e le successive sue modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), riguardante l'ordinamento gerarchico delle Amministrazioni dello Stato e le successive sue modificazioni;
 
 Visto il [R. decreto 26 luglio 1925, n. 1319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-26;1319), contenente aggiunte e modificazioni alle leggi di ordinamento e di avanzamento nel Regio esercito;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro ad int
 
 ## Articolo unico.
 
-Uno dei cinque posti di direttore generale da coprirsi con militari nel Ministero della guerra, stabiliti dalla tabella 52 allegato II al [R. decreto 11 novembre 1923, n. 2395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), modificata dall'[art. 8 del R. decreto 26 luglio 1925, n. 1319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-26;1319#art_8), puo' essere coperto anche con un direttore generale civile. 
+Uno dei cinque posti di direttore generale da coprirsi con militari nel Ministero della guerra, stabiliti dalla tabella 52 allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificata dall'[art. 8 del R. decreto 26 luglio 1925, n. 1319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-26;1319#art_8), puo' essere coperto anche con un direttore generale civile. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge ed entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

@@ -20,11 +20,11 @@ Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https:
 
 Visto l'[art. 2 del decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Visto la [legge 2 gennaio 1940, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-01-02;1), per la colonizzazione del latifondo siciliano;
+Visto la [legge 2 gennaio 1940, n. 1](Colonizzazione%20del%20latifondo%20siciliano%20040U0001.md), per la colonizzazione del latifondo siciliano;
 
-Visto l'[art. 3 del R. decreto 26 febbraio 1940, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-02-26;247#art_3);
+Visto l'[art. 3 del R. decreto 26 febbraio 1940, n. 247](Ordinamento%20dellEnte%20di%20colonizzazione%20del%20latifondo%20siciliano.%20040U0247.md);
 
-Visto l'[art. 14 del, decreto Luogotenenziale 28 dicembre 1944, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;416#art_14);
+Visto l'[art. 14 del, decreto Luogotenenziale 28 dicembre 1944, n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md);
 
 Udito il parere della Consulta Nazionale;
 
@@ -34,8 +34,8 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto col 
 
 ## Art. 1.
 
-L'apporto statale al patrimonio dell'Ente di colonizzazione del latifondo siciliano, determinato in L. 75.000.000 nell'[art. 3 del R. decreto 26 febbraio 1940, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-02-26;247#art_3), e' elevato a L. 120.000.000. 
- La maggiore somma di L. 45.000.000 sara' versata dal Ministero dell'agricoltura e delle foreste in ragione di L. 15.000.000 per ciascuno degli esercizi 1945-46, 1946-47 e 1947-48, mediante prelievo dai fondo autorizzato con l'[art. 14 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;416#art_14). 
+L'apporto statale al patrimonio dell'Ente di colonizzazione del latifondo siciliano, determinato in L. 75.000.000 nell'[art. 3 del R. decreto 26 febbraio 1940, n. 247](Ordinamento%20dellEnte%20di%20colonizzazione%20del%20latifondo%20siciliano.%20040U0247.md), e' elevato a L. 120.000.000. 
+ La maggiore somma di L. 45.000.000 sara' versata dal Ministero dell'agricoltura e delle foreste in ragione di L. 15.000.000 per ciascuno degli esercizi 1945-46, 1946-47 e 1947-48, mediante prelievo dai fondo autorizzato con l'[art. 14 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md). 
  Una quota del nuovo apporto e' attribuita alle spese di funzionamento dell'Ente per gli esercizi 1945-46, 1946-47 e 1947-48. 
  Con decreti del Ministro per l'agricoltura e per le foreste, di concerto col Ministro per il tesoro, saranno determinate le somme da destinarsi a tale scopo.
 

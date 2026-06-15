@@ -36,7 +36,7 @@ le industrie artistiche. Contributi ordinari e straordinari
 per il mantenimento degli istituti e scuole industriali
 aventi finalita' prevalentemente artistica, trasferiti al
 Ministero della pubblica istruzione in adempimento del
-[R. decreto 31 dicembre 1923, n. 3127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3127). Sussidi per arredamenti
+[R. decreto 31 dicembre 1923, n. 3127](Passaggio%20alla%20dipendenza%20del%20Ministero%20della%20pubblica%20istruzione%20delle%20Regie%20scuole%20professionali%20con%20prevalenti%20finalita%20artistiche.%20023U3127.md). Sussidi per arredamenti
 ed impianti. Concorsi per viaggi di istruzione di insegnanti
 e di alunni. Mostre didattiche, premi ad alunni, medaglie
 di merito. Sussidi ed incoraggiamenti a scuole professionali

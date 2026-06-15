@@ -14,4 +14,4 @@ N.
 
 2088.
 
-Col quale, sulla proposta del ministro dell'istruzione pubblica, l'amministrazione delle scuole elementari e popolari del comune di Bagni della Porretta (Bologna), e' affidata, dal 1° febbraio 1915, al Consiglio scolastico della Provincia approvandosi in. L. 10.995,50 il contributo che il Comune stesso deve annualmente versare alla tesoreria dello Stato a norma dell'[art 17 della legge 4 giugno 1911, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487#art_17).
+Col quale, sulla proposta del ministro dell'istruzione pubblica, l'amministrazione delle scuole elementari e popolari del comune di Bagni della Porretta (Bologna), e' affidata, dal 1° febbraio 1915, al Consiglio scolastico della Provincia approvandosi in. L. 10.995,50 il contributo che il Comune stesso deve annualmente versare alla tesoreria dello Stato a norma dell'[art 17 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md).

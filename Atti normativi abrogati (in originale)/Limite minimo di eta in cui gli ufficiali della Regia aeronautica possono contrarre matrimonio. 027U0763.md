@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 25 giugno 1911, n. 617](Relativa%20al%20matrimonio%20degli%20ufficiali%20del%20R.%20esercito.%20011U0617.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2842);
+Visto il [R. decreto 30 dicembre 1923, n. 2842](Estensione%20alla%20Regia%20aeronautica%20del%20regolamento%20di%20disciplina%20militare%20per%20il%20Regio%20esercito.%20023U2842.md);
 
 Vista la [legge 11 marzo 1926, n. 399](Disposizioni%20relative%20alla%20costituzione%20della%20dote%20per%20il%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza.%20026U0399.md);
 

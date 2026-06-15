@@ -14,7 +14,7 @@ Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/u
 
 Ritenuta la straordinaria necessita' e urgenza di provvedere alla modifica del sistema d'imposizione fiscale degli apparecchi d'accensione;
 
-Visto il [regio decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105), convertito nella [legge 1° maggio 1930, n. 611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-05-01;611);
+Visto il [regio decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105), convertito nella [legge 1° maggio 1930, n. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20febbraio%201930%20n.%20105%20relativo%20allaumento%20dei%20diritti%20erariali%20sugli%20apparecchi%20automatici%20di%20accensione.%20030U0611.md);
 
 Visto il [regio decreto 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;560);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Art. 1.
 
-Il diritto fisso dovuto all'Erario sugli apparecchi di accensione e sui relativi pezzi di ricambio a norma dell'[art. 1 del regio decreto-legge 26 febbraio 1930, numero 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105#art_1), convertito nella [legge 1° maggio 1930, n. 611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-05-01;611), e' abolito. 
+Il diritto fisso dovuto all'Erario sugli apparecchi di accensione e sui relativi pezzi di ricambio a norma dell'[art. 1 del regio decreto-legge 26 febbraio 1930, numero 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105#art_1), convertito nella [legge 1° maggio 1930, n. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20febbraio%201930%20n.%20105%20relativo%20allaumento%20dei%20diritti%20erariali%20sugli%20apparecchi%20automatici%20di%20accensione.%20030U0611.md), e' abolito. 
  E' del pari abolito il sistema di riscossione mediante punzonatura degli apparecchi previsto dal penultimo comma dell'art. 1 del citato [regio decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105).
 
 ## Art. 2.

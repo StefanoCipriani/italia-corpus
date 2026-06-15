@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 15 gennaio 1934, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-15;275), che autorizza il Consiglio provinciale dell'economia corporativa di Milano ad emettere un prestito obbligazionario al 4,50% per l'importo di lire 35 milioni. 
+ E' convertito in legge il [R. decreto-legge 15 gennaio 1934, n. 275](Autorizzazione%20al%20Consiglio%20provinciale%20delleconomia%20corporativa%20di%20Milano%20ad%20emettere%20un%20prestito%20obbligazionario%20al%20450%20per%20cento%20per%20limporto%20di%20L.%2035.000.000.%20034U0275.md), che autorizza il Consiglio provinciale dell'economia corporativa di Milano ad emettere un prestito obbligazionario al 4,50% per l'importo di lire 35 milioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

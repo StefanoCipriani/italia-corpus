@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 24 novembre 1932, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-11-24;1765), riflettente la modificazione della Commissione di arte ed edilita' presso il Ministero delle colonie. 
+ E' convertito in legge il [R. decreto-legge 24 novembre 1932, n. 1765](Modificazione%20della%20Commissione%20di%20arte%20e%20edilita%20presso%20il%20Ministero%20delle%20colonie.%20032U1765.md), riflettente la modificazione della Commissione di arte ed edilita' presso il Ministero delle colonie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [Regio decreto 2 novembre 1887, n. 5029](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-11-02;5029) (Serie 3ª), in virtu' del quale la scadenza per il pagamento della quinta rata delle imposte erariali per l'anno 1887, nei comuni della provincia di Messina colpiti dal morbo asiatico, venne prorogata al 10 dicembre 1887.
+E' convertito in legge il [Regio decreto 2 novembre 1887, n. 5029](Che%20proroga%20al%2010%20dicembre%201887%20la%20scadenza%20del%20pagamento%20della%205ª%20rata%20delle%20imposte%20dirette%20erariali%20nei%20comuni%20della%20provincia%20di%20Messina%20colpiti%20dal%20morbo%20asiatico.%20087U5029.md) (Serie 3ª), in virtu' del quale la scadenza per il pagamento della quinta rata delle imposte erariali per l'anno 1887, nei comuni della provincia di Messina colpiti dal morbo asiatico, venne prorogata al 10 dicembre 1887.
 
 ## Art. 2.
 

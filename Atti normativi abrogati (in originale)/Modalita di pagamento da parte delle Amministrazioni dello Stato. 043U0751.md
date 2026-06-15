@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nel caso in cui non sia possibile, per ragioni dipendenti dallo stato di guerra, provvedere alla somministrazione di fondi prevista dal [secondo comma dell'art. 1 del R. decreto-legge 15 giugno 1943, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-06-15;488#art_1-com2), il Prefetto della provincia, o l'autorita' che lo sostituisce, e' autorizzato ad istituire una contabilita' speciale sulla quale, congiuntamente all'Intendente di finanza, emettera' titoli di spesa riguardanti esclusivamente le seguenti categorie: 
+Nel caso in cui non sia possibile, per ragioni dipendenti dallo stato di guerra, provvedere alla somministrazione di fondi prevista dal [secondo comma dell'art. 1 del R. decreto-legge 15 giugno 1943, n. 488](Determinazione%20delle%20modalita%20dei%20pagamenti%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20nelle%20localita%20soggette%20ad%20offesa%20nemica.%20043U0488.md), il Prefetto della provincia, o l'autorita' che lo sostituisce, e' autorizzato ad istituire una contabilita' speciale sulla quale, congiuntamente all'Intendente di finanza, emettera' titoli di spesa riguardanti esclusivamente le seguenti categorie: 
  
  a) retribuzione al personale di ruolo civile e militare in servizio nella Provincia e a quello in missione di servizio continuativo, proveniente da altre Provincie, che non abbia possibilita' di ritorno in sede; 
  

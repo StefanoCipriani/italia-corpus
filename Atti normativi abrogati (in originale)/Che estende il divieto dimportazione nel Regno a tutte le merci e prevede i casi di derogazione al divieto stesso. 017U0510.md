@@ -26,7 +26,7 @@ Per decreto del ministro delle finanze, emesso di concerto con quelli dell'indus
 
 ## Art. 4.
 
-Speciali permessi in derogazione al divieto potranno essere accordati, volta per volta e con domanda degli interessati, dal ministro delle finanze previo parere del Comitato consultivo creato col [R. decreto 24 novembre 1914, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-24;1303), e sentito il presidente del Consiglio dei ministri.
+Speciali permessi in derogazione al divieto potranno essere accordati, volta per volta e con domanda degli interessati, dal ministro delle finanze previo parere del Comitato consultivo creato col [R. decreto 24 novembre 1914, n. 1303](Col%20quale%20viene%20istituito%20un%20Comitato%20consultivo%20per%20lapplicazione%20delle%20disposizioni%20relative%20ai%20divieti%20di%20esportazione%20e%20di%20transito.%20014U1303.md), e sentito il presidente del Consiglio dei ministri.
 
 ## Art. 5.
 

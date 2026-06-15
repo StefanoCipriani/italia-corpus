@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Vista la [direttiva n. 75/440 del 16 giugno 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;440), emanata dal Consiglio delle Comunita' europee, concernente la qualita' delle acque superficiali destinate alla produzione di acqua potabile;
 
-Considerato che in data 30 aprile 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 30 aprile 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -39,17 +39,17 @@ Il presente decreto ha per oggetto i requisiti di qualita' delle acque dolci sup
 Sono di competenza statale le funzioni concernenti:
  a) l'indirizzo, la promozione, la consulenza ed il coordinamento delle attivita' connesse con l'applicazione del presente decreto;
  b) la predisposizione dei criteri generali e delle metodiche per il rilevamento delle caratteristiche delle acque dolci superficiali, nonche' dei criteri metodologici per la formazione e l'aggiornamento dei catasti previsti dal presente decreto;
- c) la redazione di un piano generale di risanamento delle acque dolci superficiali destinate alla potabilizzazione, sulla base di piani regionali di risanamento delle acque di cui alla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), e successive modificazioni, opportunamente integrati dalle regioni stesse per le finalita' di cui al presente decreto, nonche' il controllo della compatibilita' di tali piani quando si riferiscano a bacini idrografici interregionali;
+ c) la redazione di un piano generale di risanamento delle acque dolci superficiali destinate alla potabilizzazione, sulla base di piani regionali di risanamento delle acque di cui alla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni, opportunamente integrati dalle regioni stesse per le finalita' di cui al presente decreto, nonche' il controllo della compatibilita' di tali piani quando si riferiscano a bacini idrografici interregionali;
  d) la modifica, con decreto del Presidente della Repubblica, sentito il Consiglio superiore di sanita', dei valori contenuti nella tabella allegata al presente decreto, per adeguarli a nuove acquisizioni scientifiche e tecnologiche, purche' queste risultino piu' restrittive;
  e) l'adeguamento, con decreto del Presidente della Repubblica, sentito il Consiglio superiore di sanita', dei valori-limite, di cui alla tabella allegata al presente decreto, ai corrispondenti valori definiti dalle direttive, della Comunita' economica europea qualora questi risultino piu' restrittivi.
- Le funzioni di cui al presente articolo sono esercitate dal Comitato interministeriale di cui all'[art. 3 della legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319#art_3), e successive modificazioni.
+ Le funzioni di cui al presente articolo sono esercitate dal Comitato interministeriale di cui all'[art. 3 della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni.
  Entro sei mesi dalla data di entrata in vigore del presente decreto devono essere predisposti i criteri e le metodiche di cui al precedente punto b).
 
 ## Art. 3.
 
 Sono di competenza regionale le funzioni concernenti:
  a) l'esecuzione delle operazioni di rilevamento delle caratteristiche delle acque dolci superficiali destinate alla potabilizzazione e la relativa classificazione secondo le modalita' di cui agli articoli 4 e 5 del presente decreto e secondo i criteri generali e le metodologie di cui alla lettera b) del precedente art. 2;
- b) la redazione dei piani regionali di risanamento gia' previsti dalla [legge 10 maggio 1976, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), e successive modificazioni, opportunamente integrati a norma del precedente art. 2, punto c).
+ b) la redazione dei piani regionali di risanamento gia' previsti dalla [legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni, opportunamente integrati a norma del precedente art. 2, punto c).
  I compiti di cui al precedente comma si intendono conferiti, per il Trentino-Alto Adige, alle province autonome di Trento e Bolzano.
 
 ## Art. 4.

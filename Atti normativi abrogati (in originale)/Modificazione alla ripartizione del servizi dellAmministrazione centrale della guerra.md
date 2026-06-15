@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto luogotenenziale 31 luglio 1945, numero 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-31;560);
+Visto il [decreto luogotenenziale 31 luglio 1945, numero 560](../Decreti%20legislativi%20luogotenenziali/Ripartizione%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20045U0560.md);
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, numero 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100#art_1-num3);
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la guerra, d'intesa con il Ministro per il tesor
 
 ## Art. 1.
 
-Nella ripartizione dei servizi dell'Amministrazione centrale della guerra di cui all'[art. 1 del decreto luogotenenziale 31 luglio 1945, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-31;560#art_1), e' soppressa la Direzione generale di artiglieria e della motorizzazione e sono costituiti la Direzione generale di artiglieria e l'ispettorato generale della motorizzazione.
+Nella ripartizione dei servizi dell'Amministrazione centrale della guerra di cui all'[art. 1 del decreto luogotenenziale 31 luglio 1945, n. 560](../Decreti%20legislativi%20luogotenenziali/Ripartizione%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20045U0560.md), e' soppressa la Direzione generale di artiglieria e della motorizzazione e sono costituiti la Direzione generale di artiglieria e l'ispettorato generale della motorizzazione.
 
 ## Art. 2.
 

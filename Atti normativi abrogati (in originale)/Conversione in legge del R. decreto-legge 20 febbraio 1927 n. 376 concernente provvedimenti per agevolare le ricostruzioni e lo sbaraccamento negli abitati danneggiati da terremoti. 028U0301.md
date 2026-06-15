@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 febbraio 1927, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-20;376), concernente provvedimenti per agevolare la ricostruzione e lo sbaraccamento negli abitati danneggiati da terremoti. 
+ E' convertito in legge il [R. decreto-legge 20 febbraio 1927, n. 376](Provvedimenti%20per%20agevolare%20la%20ricostruzione%20e%20lo%20sbaraccamento%20negli%20abitati%20danneggiati%20dai%20terremoti.%20027U0376.md), concernente provvedimenti per agevolare la ricostruzione e lo sbaraccamento negli abitati danneggiati da terremoti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

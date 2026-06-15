@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 novembre 1933, n. 1554](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-28;1554), contenente norme sulle assunzioni delle donne nelle Amministrazioni dello Stato. 
+ E' convertito in legge il [R. decreto-legge 28 novembre 1933, n. 1554](Norme%20sulle%20assunzioni%20delle%20donne%20nelle%20Amministrazioni%20dello%20Stato.%20033U1554.md), contenente norme sulle assunzioni delle donne nelle Amministrazioni dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

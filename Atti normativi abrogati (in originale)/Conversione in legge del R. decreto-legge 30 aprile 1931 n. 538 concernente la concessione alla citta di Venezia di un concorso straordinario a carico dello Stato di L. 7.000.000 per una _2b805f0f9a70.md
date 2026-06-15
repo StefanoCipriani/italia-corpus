@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 30 aprile 1931, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-30;538), concernente la concessione alla citta' di Venezia di un concorso straordinario, a carico dello Stato, di lire 7.000.000, per una volta tanto, per l'integrazione del bilancio. 
+ E' convertito in legge il [R. decreto-legge 30 aprile 1931, n. 538](Concessione%20alla%20citta%20di%20Venezia%20a%20carico%20dello%20Stato%20della%20somma%20di%20L.%207.000.000%20per%20una%20volta%20tanto%20a%20titolo%20di%20concorso%20straordinario%20per%20la%20integrazione%20del%20rispettivo%20bilancio.%20031U0538.md), concernente la concessione alla citta' di Venezia di un concorso straordinario, a carico dello Stato, di lire 7.000.000, per una volta tanto, per l'integrazione del bilancio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

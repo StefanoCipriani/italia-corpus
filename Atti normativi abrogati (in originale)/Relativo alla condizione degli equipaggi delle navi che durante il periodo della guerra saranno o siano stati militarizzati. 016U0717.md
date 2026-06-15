@@ -20,9 +20,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671); 
+ In virtu' dell'autorita' a Noi delegata e dei poteri straordinari conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [R. decreto-legge 15 aprile 1915, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1915-04-15;570); 
+ Visto il [R. decreto-legge 15 aprile 1915, n. 570](Col%20quale%20vengono%20estese%20agli%20equipaggi%20dei%20piroscafi%20requisiti%20le%20disposizioni%20della%20legge%206%20luglio%201912%20n.%20745%20concernente%20la%20posizione%20militare%20degli%20equipaggi%20delle%20navi%20requisite%20dal_2bad564399b3.md); 
  
  Visti i [decreti Luogotenenziali 15 luglio 1915, numero 1140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-15;1140), e [17 febbraio 1916, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-02-17;204); 
  

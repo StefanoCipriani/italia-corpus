@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 17 giugno 1929, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-06-17;1016), che modifica il trattamento doganale dei grassi non nominati animali alimentari. 
+ E' convertito in legge il [R. decreto-legge 17 giugno 1929, n. 1016](Trattamento%20doganale%20dei%20grassi%20non%20nominati%20animali%20alimentari.%20029U1016.md), che modifica il trattamento doganale dei grassi non nominati animali alimentari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

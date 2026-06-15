@@ -970,7 +970,7 @@ I conti delle entrate e delle spese riveduti dal consiglio comunale saranno appr
 
 ### Art. 126.
 
-Chiunque dall'esattore in fuori s'ingerira' senza legale autorizzazione nel maneggio dei denari di un comune rimarra' per questo solo fatto contabile e sottoposto alla giurisdizione amministrativa senza pregiudizio delle pene portate dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) contro coloro che senza titolo s'ingeriscono in pubbliche funzioni.
+Chiunque dall'esattore in fuori s'ingerira' senza legale autorizzazione nel maneggio dei denari di un comune rimarra' per questo solo fatto contabile e sottoposto alla giurisdizione amministrativa senza pregiudizio delle pene portate dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) contro coloro che senza titolo s'ingeriscono in pubbliche funzioni.
 
 ### Art. 127.
 

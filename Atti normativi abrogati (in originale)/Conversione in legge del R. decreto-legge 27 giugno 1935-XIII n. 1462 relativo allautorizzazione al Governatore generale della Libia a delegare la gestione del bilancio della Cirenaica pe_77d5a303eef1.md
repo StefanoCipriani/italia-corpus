@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 27 giugno 1935, n. 1462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-27;1462), relativo alla autorizzazione al Governatore generale della Libia a delegare la gestione del bilancio della Cirenaica, per l'esercizio 1934-35, al Commissario generale di Bengasi. 
+ E' convertito in legge il [R. decreto-legge 27 giugno 1935, n. 1462](Autorizzazione%20al%20Governatore%20generale%20della%20Libia%20a%20delegare%20la%20gestione%20del%20bilancio%20della%20Cirenaica%20al%20Commissario%20generale%20di%20Bengasi.%20035U1462.md), relativo alla autorizzazione al Governatore generale della Libia a delegare la gestione del bilancio della Cirenaica, per l'esercizio 1934-35, al Commissario generale di Bengasi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 11 giugno 1925, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-06-11;1058), relativo all'uso della divisa del personale subalterno dell'Amministrazione provinciale dei servizi postali ed elettrici. 
+ E' convertito in legge il [R. decreto-legge 11 giugno 1925, n. 1058](Uso%20della%20divisa%20per%20il%20personale%20subalterno%20dellAmministrazione%20provinciale%20dei%20servizi%20postali%20ed%20elettrici.%20025U1058.md), relativo all'uso della divisa del personale subalterno dell'Amministrazione provinciale dei servizi postali ed elettrici. 
  
  Ordiniamo che la presente munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 gennaio 1933, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-01-23;5), concernente la costituzione dell'Istituto per la ricostruzione industriale. 
+ E' convertito in legge il [R. decreto-legge 23 gennaio 1933, n. 5](Costituzione%20dellIstituto%20per%20la%20ricostruzione%20industriale%20con%20sede%20in%20Roma.%20033U0005.md), concernente la costituzione dell'Istituto per la ricostruzione industriale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

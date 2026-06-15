@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 24 dicembre 1925, n. 2260](Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md), che delega al Governo del Re la facolta' di modificare le altre leggi dello Stato a scopo di coordinamento con le nuove disposizioni del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) e del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Vista la [legge 24 dicembre 1925, n. 2260](Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md), che delega al Governo del Re la facolta' di modificare le altre leggi dello Stato a scopo di coordinamento con le nuove disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Visto il [R. decreto 23 dicembre 1865, n. 2701](Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), che approva la tariffa in materia penale;
 
@@ -31,7 +31,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giu
 Sotto la denominazione di spese di giustizia in materia penale prevista dall'[art. 1 del R. decreto 23 dicembre 1865, n. 2701](Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), sono comprese anche: 
  1° le indennita' giornaliere, di soggiorno e di trasferta spettanti agli assessori di Corte di assise ai sensi dell'[articolo 22 del R. decreto 23 marzo 1931, n. 249](Ordinamento%20delle%20Corti%20dassise.%20031U0249.md); 
  2° le indennita' giornaliere e il rimborso delle spese di viaggio spettanti al giudice di sorveglianza quando deve trasferirsi fuori della propria sede per compiere atti del suo ufficio; 
- 3° le spese necessarie per la pubblicazione delle sentenze di condanna nei casi indicati dall'[art. 36 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_36); 
+ 3° le spese necessarie per la pubblicazione delle sentenze di condanna nei casi indicati dall'[art. 36 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  4° le spese per l'esecuzione delle sentenze di condanna alla pena di morte; 
  5° le spese per la custodia e conservazione delle cose sottoposte a sequestro conservativo ai sensi dell'[art. 617 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_617); 
  6° il compenso al cancelliere stenografo nei limiti fissati dall'art. 9, comma 3°; 
@@ -43,7 +43,7 @@ Sono poste a carico dell'Erario dello Stato senza diritto di ripetizione le spes
 
 ## Art. 3.
 
-Sono anticipate dall'Erario dello Stato le spese necessarie per la pubblicazione delle altre sentenze di condanna, disposta dal giudice ai sensi dell'[art. 36 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_36), nonche' quelle riguardanti il consulente tecnico nei casi previsti dagli articoli 4 e 5. 
+Sono anticipate dall'Erario dello Stato le spese necessarie per la pubblicazione delle altre sentenze di condanna, disposta dal giudice ai sensi dell'[art. 36 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nonche' quelle riguardanti il consulente tecnico nei casi previsti dagli articoli 4 e 5. 
  Dette spese sono inoltre ripetibili tanto contro i' condannati quanto contro i civilmente responsabili del reato, a mente dell'[art. 288 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_288).
 
 ## Art. 4.

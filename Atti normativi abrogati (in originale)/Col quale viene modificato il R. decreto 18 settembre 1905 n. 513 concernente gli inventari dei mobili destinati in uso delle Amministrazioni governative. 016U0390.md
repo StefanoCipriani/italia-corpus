@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-Le ricognizioni del materiale mobile in consegna alle Amministrazioni centrali e provinciali prescritte dal [R. decreto 18 settembre 1905, n. 513](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-09-18;513), saranno eseguite, anziche' annualmente, ad intervalli non maggiori di tre anni. 
+Le ricognizioni del materiale mobile in consegna alle Amministrazioni centrali e provinciali prescritte dal [R. decreto 18 settembre 1905, n. 513](Sulle%20ricognizioni%20periodiche%20dei%20mobili%20in%20uso%20delle%20Amministrazioni%20governative.%20005U0513.md), saranno eseguite, anziche' annualmente, ad intervalli non maggiori di tre anni. 
  
  Esse saranno, invece, obbligatorie in ogni occasione di cambiamento dei consegnatari del materiale inventariato.
 
 ## Art. 2.
 
-I processi verbali delle ricognizioni di cui all'articolo precedente saranno compilati per il materiale custodito presso le Amministrazioni centrali in due esemplari, e per quello in consegna delle Amministrazioni provinciali in tre esemplari, nelle forme e con l'intervento dei funzionari indicati agli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-09-18;513#art_2) e [4 del R. decreto 18 settembre 1905, n. 513](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-09-18;513#art_4). 
+I processi verbali delle ricognizioni di cui all'articolo precedente saranno compilati per il materiale custodito presso le Amministrazioni centrali in due esemplari, e per quello in consegna delle Amministrazioni provinciali in tre esemplari, nelle forme e con l'intervento dei funzionari indicati agli [articoli 2](Sulle%20ricognizioni%20periodiche%20dei%20mobili%20in%20uso%20delle%20Amministrazioni%20governative.%20005U0513.md) e [4 del R. decreto 18 settembre 1905, n. 513](Sulle%20ricognizioni%20periodiche%20dei%20mobili%20in%20uso%20delle%20Amministrazioni%20governative.%20005U0513.md). 
  
  Un esemplare dei detti processi verbali sara' rimesso al capo ragioniere dell'Amministrazione centrale competente, cui spettera' di vigilare sulla regolare conservazione degli inventari e sullo eseguimento delle ricognizioni disciplinate col presente decreto e di denunziare al Ministero del tesoro (Ragioneria generale dello Stato), le eventuali inadempienze da parte degli uffici e consegnatari interessati. 
  

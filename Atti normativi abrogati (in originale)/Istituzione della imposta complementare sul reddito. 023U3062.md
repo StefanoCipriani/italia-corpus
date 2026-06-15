@@ -214,7 +214,7 @@ Le pene pecuniarie portate dagli articoli 21 e 22 del presente decreto, sono not
 
 ### Art. 24.
 
-I funzionari dell'Amministrazione delle imposte, i componenti dei Collegi giudicanti e tutti coloro che, secondo le rispettive attribuzioni, intervengono nell'accertamento, nell'applicazione e nella riscossione della imposta, sono tenuti al segreto d'ufficio, a termine dell'[art. 177, del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_177), e sono passibili delle pene comminate dall'articolo medesimo.
+I funzionari dell'Amministrazione delle imposte, i componenti dei Collegi giudicanti e tutti coloro che, secondo le rispettive attribuzioni, intervengono nell'accertamento, nell'applicazione e nella riscossione della imposta, sono tenuti al segreto d'ufficio, a termine dell'[art. 177, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e sono passibili delle pene comminate dall'articolo medesimo.
 
 ### Art. 25.
 

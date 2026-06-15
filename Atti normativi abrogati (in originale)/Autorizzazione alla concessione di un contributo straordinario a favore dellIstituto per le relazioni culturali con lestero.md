@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 27 gennaio 1938, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-01-27;48), convertito in [legge 19 maggio 1938, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-05-19;917), concernente la fondazione in Roma di un Istituto nazionale per le relazioni culturali con l'estero;
+Visto il [regio decreto-legge 27 gennaio 1938, n. 48](Costituzione%20dellIstituto%20nazionale%20per%20le%20relazioni%20culturali%20con%20lestero.%20038U0048.md), convertito in [legge 19 maggio 1938, n. 917](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20gennaio%201938-XVI%20n.%2048%20con%20il%20quale%20e%20fondato%20in%20Roma%20un%20Istituto%20nazionale%20per%20le%20relazioni%20culturali%20con%20lestero.%20038U0917.md), concernente la fondazione in Roma di un Istituto nazionale per le relazioni culturali con l'estero;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Visto l'[art. 4 del decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1#art_4);
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 2 giugno 1927, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-06-02;829), concernente l'approvazione del nuovo statuto del Banco di Napoli. 
+ E' convertito in legge il [R. decreto-legge 2 giugno 1927, n. 829](Approvazione%20del%20nuovo%20statuto%20del%20Banco%20di%20Napoli.%20027U0829.md), concernente l'approvazione del nuovo statuto del Banco di Napoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

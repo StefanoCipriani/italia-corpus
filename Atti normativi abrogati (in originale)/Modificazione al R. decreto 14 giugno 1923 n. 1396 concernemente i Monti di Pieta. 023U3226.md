@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 14 giugno 1923, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1396), contenente riforme alla legge 14 maggio 1898, sui Monti di Pieta', nonche' la legge di pubblica sicurezza, [testo unico 30 giugno 1898, n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1898-06-30;6144);
+Visto il [R. decreto 14 giugno 1923, n. 1396](Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), contenente riforme alla legge 14 maggio 1898, sui Monti di Pieta', nonche' la legge di pubblica sicurezza, [testo unico 30 giugno 1898, n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1898-06-30;6144);
 
 Ritenuta l'urgenza;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 Entro il termine di tre mesi dalla pubblicazione del presente decreto nella Gazzetta Ufficiale del Regno, gli esercenti agenzie pubbliche di prestiti sopra pegno e gli esercenti altre agenzie pubbliche o uffici pubblici d'affari dovranno rilasciare all'autorita' di pubblica sicurezza del circondario formale atto di sottomissione, dal quale risulti che e' assolutamente escluso dalle operazioni di esse agenzie l'abituale acquisto di polizze del Monte di Pieta' ed il concedere sovvenzioni supplementari contro pegni delle polizze stesse. 
  
- Agli esercenti che non ottemperino a tale obbligo o comunque vi contravvengano sara' dall'autorita' circondariale di pubblica sicurezza revocata la licenza, e vietato l'esercizio dell'agenzia o dell'ufficio pubblico, senza pregiudizio dell'azione penale a termini dell'art. 9 di detto [R. decreto 14 giugno 1923, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1396).
+ Agli esercenti che non ottemperino a tale obbligo o comunque vi contravvengano sara' dall'autorita' circondariale di pubblica sicurezza revocata la licenza, e vietato l'esercizio dell'agenzia o dell'ufficio pubblico, senza pregiudizio dell'azione penale a termini dell'art. 9 di detto [R. decreto 14 giugno 1923, n. 1396](Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md).
 
 ## Art. 2.
 

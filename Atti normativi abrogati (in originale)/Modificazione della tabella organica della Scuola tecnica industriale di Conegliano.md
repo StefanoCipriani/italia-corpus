@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
- Visto il [regio decreto 28 settembre 1933, n. 2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-28;2026), che approva lo statuto e la tabella organica della Scuola tecnica industriale di Conegliano;
+ Visto il [regio decreto 28 settembre 1933, n. 2026](Trasformazione%20del%20Regio%20laboratorio-scuola%20di%20Conegliano%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2026.md), che approva lo statuto e la tabella organica della Scuola tecnica industriale di Conegliano;
  Considerata l'opportunita' di trasformare, per esigenze di servizio, in posto di ruolo il posto di segretario economo incaricato previsto dall'anzidetta tabella organica;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

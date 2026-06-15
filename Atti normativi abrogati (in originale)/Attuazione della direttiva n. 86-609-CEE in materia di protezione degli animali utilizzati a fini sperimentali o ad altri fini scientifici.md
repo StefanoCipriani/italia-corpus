@@ -83,7 +83,7 @@ Gli esperimenti possono essere eseguiti soltanto su animali da allevamento appar
 
 3.
 
-Gli esperimenti sono vietati sugli animali appartenenti a specie in estinzione, ai sensi della [legge 19 dicembre 1975, n. 874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-19;874), che ratifica la Convenzione di Washington, nonche' sugli animali appartenenti a specie minacciate ai sensi dell'allegato C1 del regolamento CEE 3626/82.
+Gli esperimenti sono vietati sugli animali appartenenti a specie in estinzione, ai sensi della [legge 19 dicembre 1975, n. 874](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20commercio%20internazionale%20delle%20specie%20animali%20e%20vegetali%20in%20via%20di%20estinzione%20firmata%20a%20Washington%20il%203%20marzo%201973.md), che ratifica la Convenzione di Washington, nonche' sugli animali appartenenti a specie minacciate ai sensi dell'allegato C1 del regolamento CEE 3626/82.
 
 4.
 
@@ -129,7 +129,7 @@ La persona che esegue l'esperimento o ne ha la supervisione deve inoltre avere u
 
 8.
 
-Le violazioni di cui al comma 3, sono punite ai sensi dell'[art. 727 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_727), oltre che con la sanzione amministrativa da lire 10 milioni a lire 100 milioni; in caso di violazione continuata o di recidiva, la sanzione amministrativa e' aumentata di un terzo e, indipendentemente dal procedimento penale, il responsabile viene sospeso per un massimo di cinque anni da ogni autorizzazione ad effettuare esperimenti su animali.
+Le violazioni di cui al comma 3, sono punite ai sensi dell'[art. 727 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), oltre che con la sanzione amministrativa da lire 10 milioni a lire 100 milioni; in caso di violazione continuata o di recidiva, la sanzione amministrativa e' aumentata di un terzo e, indipendentemente dal procedimento penale, il responsabile viene sospeso per un massimo di cinque anni da ogni autorizzazione ad effettuare esperimenti su animali.
 
 9.
 
@@ -406,7 +406,7 @@ Le spese relative alle ispezioni ed ai controlli, necessarie per il rilascio del
 
 1.
 
-Le disposizioni della [legge 12 giugno 1931, n. 924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-12;924), come modificata dalla [legge 1° maggio 1941, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-05-01;615), sono abrogate, ad esclusione dell'art. 1, commi I e III.
+Le disposizioni della [legge 12 giugno 1931, n. 924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-12;924), come modificata dalla [legge 1° maggio 1941, n. 615](Modificazioni%20alla%20legge%2012%20giugno%201931-IX%20n.%20924%20sulla%20vivisezione%20degli%20animali%20vertebrati%20a%20sangue%20caldo.%20041U0615.md), sono abrogate, ad esclusione dell'art. 1, commi I e III.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

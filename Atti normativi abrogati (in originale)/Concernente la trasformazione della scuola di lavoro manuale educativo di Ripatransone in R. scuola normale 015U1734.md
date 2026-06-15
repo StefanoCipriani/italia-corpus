@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto l'[art. 8 della legge 25 maggio 1913, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-25;517#art_8) che autorizza la trasformazione in scuola normale della scuola di lavoro manuale educativo di Ripatransone, nei limiti del fondo stanziato per detta scuola nel bilancio del Ministero della pubblica istruzione;
+Veduto l'[art. 8 della legge 25 maggio 1913, n. 517](Concernente%20la%20trasformazione%20di%20Istituti%20di%20istruzione%20e%20di%20educazione.%20013U0517.md) che autorizza la trasformazione in scuola normale della scuola di lavoro manuale educativo di Ripatransone, nei limiti del fondo stanziato per detta scuola nel bilancio del Ministero della pubblica istruzione;
 
 Veduto che tale provvedimento non puo' effettuarsi, rispetto all'ordinamento didattico dell'Istituto, se prima non si compia rispetto ai locali, i quali debbono adattarsi in rispondenza ai bisogni della nuova scuola;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per la pubblica istruzione, di c
 
 ## Art. 1.
 
-La somma di L. 21.000 stanziata al cap. 73 del bilancio passavo del Ministero della pubblica istruzione per l'esercizio 1915-916 residui 1914-915, sara' corrisposta al comune di Ripatransone, come concorso dello Stato nelle spese per l'adattamento dei locali di quella scuola di lavoro manuale educativo, ai fini della sua trasformazione in R. scuola normale giusta l'[articolo 8 della legge 25 Maggio 1913, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-25;517#art_8).
+La somma di L. 21.000 stanziata al cap. 73 del bilancio passavo del Ministero della pubblica istruzione per l'esercizio 1915-916 residui 1914-915, sara' corrisposta al comune di Ripatransone, come concorso dello Stato nelle spese per l'adattamento dei locali di quella scuola di lavoro manuale educativo, ai fini della sua trasformazione in R. scuola normale giusta l'[articolo 8 della legge 25 Maggio 1913, n. 517](Concernente%20la%20trasformazione%20di%20Istituti%20di%20istruzione%20e%20di%20educazione.%20013U0517.md).
 
 ## Art. 2.
 

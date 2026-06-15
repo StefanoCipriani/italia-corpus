@@ -47,7 +47,7 @@ delle colonie . . . . . . . . . . . . . .» 5.760.000
 
 ## Art. 3.
 
-Il fondo a disposizione del Ministero per contributi e concorsi di spese a favore dell'avvaloramento agrario delle colonie, di cui al [Regio decreto-legge 24 luglio 1930, n. 1093](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-07-24;1093), e' stabilito, per l'esercizio 1934-35, in L. 15.000.000.
+Il fondo a disposizione del Ministero per contributi e concorsi di spese a favore dell'avvaloramento agrario delle colonie, di cui al [Regio decreto-legge 24 luglio 1930, n. 1093](Maggiore%20assegnazione%20allo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20colonie%20per%20lesercizio%20finanziario%201930-31.%20030U1093.md), e' stabilito, per l'esercizio 1934-35, in L. 15.000.000.
 
 ## Art. 4.
 

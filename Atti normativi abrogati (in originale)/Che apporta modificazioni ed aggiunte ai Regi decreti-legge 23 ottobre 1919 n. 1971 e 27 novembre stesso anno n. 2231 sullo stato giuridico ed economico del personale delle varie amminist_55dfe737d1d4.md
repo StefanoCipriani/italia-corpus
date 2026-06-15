@@ -37,7 +37,7 @@ I [comma 2°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 16 gennaio 1921, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-01-16;10), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473) e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 16 gennaio 1921, n. 10](Che%20modifica%20lart.%202%20di%20quello%207%20giugno%201920%20n.%20739%20circa%20lo%20stato%20giuridico%20ed%20economico%20del%20personale%20delle%20Amministrazioni%20dello%20Stato.%20021U0010.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 

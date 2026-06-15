@@ -20,11 +20,11 @@ RE D' ITALIA
 
 In virtu' dell'autorita', a Noi delegata;
 
-Vista la [legge 22 maggio 1915, n. 671](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), che conferisce poteri straordinari al Governo del Re;
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), che conferisce poteri straordinari al Governo del Re;
 
 Visto il Nostro decreto 5 ottobre 1916, n. 1569, che regola la distribuzione della benzina nel Regno ed il controllo sulla importazione di essa e sul consumo da parte dei privati;
 
-Vista la [legge 30 giugno 1912, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-30;739), e il [regolamento 2 luglio 1914, n. 811](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1914-07-02;811), sulla circolazione dei veicoli a trazione meccanica;
+Vista la [legge 30 giugno 1912, n. 739](Concernente%20la%20circolazione%20degli%20automobili.%20012U0739.md), e il [regolamento 2 luglio 1914, n. 811](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1914-07-02;811), sulla circolazione dei veicoli a trazione meccanica;
 
 Sentito il Consiglio dei ministri;
 
@@ -40,7 +40,7 @@ Dal suddetto divieto sono eccettuate:
  
  A) gli autoveicoli appartenenti alle persone della Reale Famiglia; 
  
- B) gli autoveicoli appartenenti ai Grandi ufficiali dello Stato di cui all'[art. 6 del R. decreto 19 aprile 1868, n. 4349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1868-04-19;4349#art_6), e alle persone indicate nell'art. 2 dello stesso decreto, nonche' gli autoveicoli del R. esercito e della R. marina; 
+ B) gli autoveicoli appartenenti ai Grandi ufficiali dello Stato di cui all'[art. 6 del R. decreto 19 aprile 1868, n. 4349](Col%20quale%20e%20stabilito%20lordine%20per%20le%20precedenze%20tra%20le%20varie%20cariche%20e%20dignita%20a%20Corte%20e%20nelle%20funzioni%20pubbliche.%20068U4349.md), e alle persone indicate nell'art. 2 dello stesso decreto, nonche' gli autoveicoli del R. esercito e della R. marina; 
  
  C) gli autoveicoli delle Associazioni sanitarie, adibiti esclusivamente al trasporto dei malati o dei feriti, e del personale in servizio; 
  
@@ -55,7 +55,7 @@ D.;
 
 ## Art. 3.
 
-Gli autoveicoli di cui al precedente articolo saranno muniti di uno speciale permesso che, a cura degli interessati, dovra' essere richiesto al Ministero armi e munizioni (Ufficio automobilistico) e nel quale saranno indicate oltre al numero, la marca e la potenzialita' della vettura con riferimento alla licenza di circolazione di cui all'[art. 2 della legge 30 giugno 1912, numero 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-30;739#art_2) sulla circolazione degli automobili la categoria cui appartiene l'autoveicolo a norma del precedente articolo. Gli autoveicoli adibiti ai servizi pubblici interurbani di cui alla lettera E) potranno percorrere soltanto le vie stabilite, con la concessione del servizio pubblico e limitatamente all'orario approvato dalle competenti autorita'.
+Gli autoveicoli di cui al precedente articolo saranno muniti di uno speciale permesso che, a cura degli interessati, dovra' essere richiesto al Ministero armi e munizioni (Ufficio automobilistico) e nel quale saranno indicate oltre al numero, la marca e la potenzialita' della vettura con riferimento alla licenza di circolazione di cui all'[art. 2 della legge 30 giugno 1912, numero 739](Concernente%20la%20circolazione%20degli%20automobili.%20012U0739.md) sulla circolazione degli automobili la categoria cui appartiene l'autoveicolo a norma del precedente articolo. Gli autoveicoli adibiti ai servizi pubblici interurbani di cui alla lettera E) potranno percorrere soltanto le vie stabilite, con la concessione del servizio pubblico e limitatamente all'orario approvato dalle competenti autorita'.
 
 ## Art. 4.
 

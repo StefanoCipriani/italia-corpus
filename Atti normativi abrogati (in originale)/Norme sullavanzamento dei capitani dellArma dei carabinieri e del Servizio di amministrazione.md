@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -28,7 +28,7 @@ I capitani dell'Arma dei carabinieri e del Servizio di amministrazione, che rive
 
 ## Art. 2.
 
-Le eccedenze, che, eventualmente, verranno a formarsi nel ruolo dei maggiori, per effetto delle promozioni di cui al precedente articolo, potranno essere eliminate, in tutto o in parte, mediante collocamento nella riserva di ufficiali appartenenti a detto ruolo, con le norme stabilite dal [regio decreto legislativo 14 maggio 1946, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-14;384), e nei limiti che saranno indicati con decreto del Capo dello Stato su proposta del Ministro per la difesa, d'intesa con il Ministro per il tesoro.
+Le eccedenze, che, eventualmente, verranno a formarsi nel ruolo dei maggiori, per effetto delle promozioni di cui al precedente articolo, potranno essere eliminate, in tutto o in parte, mediante collocamento nella riserva di ufficiali appartenenti a detto ruolo, con le norme stabilite dal [regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e nei limiti che saranno indicati con decreto del Capo dello Stato su proposta del Ministro per la difesa, d'intesa con il Ministro per il tesoro.
  Le domande, per ottenere il collocamento nella riserva in applicazione del comma precedente, dovranno essere presentate alle competenti autorita' gerarchiche entro il termine di tre mesi dalla data di entrata in vigore del presente decreto. I capitani che trovansi nelle condizioni indicate nel precedente articolo possono presentare la domanda di collocamento nella riserva anche se ancora non promossi al grado di maggiore.
 
 ## Art. 3.
@@ -40,7 +40,7 @@ Le norme contenute nel primo comma dell'art. 1 del presente decreto non si appli
 Le disposizioni degli articoli precedenti si applicano, su domanda degli interessati, da presentarsi entro tre mesi dalla data di entrata in vigore del presente decreto, anche agli ufficiali che siano stati raggiunti dai limiti di eta'.
  L'ufficiale che abbia titolo alla promozione sara' giudicato per il servizio permanente rimanendo nella posizione di riserva.
  Il giudizio sara' emesso dalle autorita' del comando, corpo od ente dal quale egli dipendeva all'atto del collocamento nella riserva e, qualora il comando, corpo od ente sia stato soppresso, dalle autorita' che saranno di volta in volta determinate dal Ministero.
- Se dichiarato "prescelto", l'ufficiale sara' riammesso nei ruoli del servizio permanente e promosso; se "non prescelto", rimarra' nella posizione di riserva, ma dalla data del giudizio decisivo di avanzamento cessera' di fruire del trattamento economico previsto dagli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-14;384#art_5) e [11 del regio decreto legislativo 14 maggio 1946, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-14;384#art_11), e sara' ammesso al godimento di quello previsto dalle disposizioni vigenti per l'ufficiale collocato nella riserva perche' "non prescelto".
+ Se dichiarato "prescelto", l'ufficiale sara' riammesso nei ruoli del servizio permanente e promosso; se "non prescelto", rimarra' nella posizione di riserva, ma dalla data del giudizio decisivo di avanzamento cessera' di fruire del trattamento economico previsto dagli [articoli 5](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [11 del regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e sara' ammesso al godimento di quello previsto dalle disposizioni vigenti per l'ufficiale collocato nella riserva perche' "non prescelto".
 
 ## Art. 5.
 

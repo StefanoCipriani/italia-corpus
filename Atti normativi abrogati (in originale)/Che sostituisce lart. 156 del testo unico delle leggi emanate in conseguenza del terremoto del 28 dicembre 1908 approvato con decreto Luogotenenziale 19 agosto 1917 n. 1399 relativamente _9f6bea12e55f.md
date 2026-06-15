@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista le [legge 11 luglio 1913, n. 1039](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;1039);
+Vista le [legge 11 luglio 1913, n. 1039](Che%20converte%20in%20legge%20con%20alcune%20modificazioni%20varii%20Regi%20decreti%20concernenti%20disposizioni%20diverse%20per%20i%20paesi%20danneggiati%20dal%20terremoto%20del%2028%20dicembre%201908%20e%20da%20altri%20precedenti.%20013U1039.md);
 
 Visto l'art. 2 del testo unico delle leggi emanate in conseguenza del terremoto del 28 dicembre 1908, approvato con [decreto Luogotenenziale 19 agosto 1917, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-19;1399);
 

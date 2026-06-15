@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge del 26 febbraio 1928, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-02-26;309), che reca provvedimenti per l'approvvigionamento dello zucchero. 
+ E' convertito in legge il [R. decreto-legge del 26 febbraio 1928, n. 309](Provvedimenti%20fiscali%20per%20lapprovvigionamento%20dello%20zucchero.%20028U0309.md), che reca provvedimenti per l'approvvigionamento dello zucchero. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

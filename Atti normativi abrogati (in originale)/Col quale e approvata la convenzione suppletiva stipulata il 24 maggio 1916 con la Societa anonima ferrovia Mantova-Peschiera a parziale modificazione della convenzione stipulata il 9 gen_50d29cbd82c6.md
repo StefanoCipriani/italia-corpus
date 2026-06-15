@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 13 febbraio 1913, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-02-13;228), col quale venne approvata e resa esecutoria la convenzione stipulata il 7 gennaio 1913 con la «Societa' anonima ferrovia Mantova-Peschiera» per la concessione della costruzione e dell'esercizio della ferrovia Mantova-Peschiera; 
+ Visto il [R. decreto 13 febbraio 1913, n. 228](Col%20quale%20viene%20approvata%20la%20convenzione%20stipulata%20con%20la%20Societa%20anonima%20ferrovia%20Mantova-Peschiera%20per%20la%20concessione%20della%20costruzione%20e%20dellesercizio%20della%20ferrovia%20da%20Mantova%20a%20Pesch_e0394d3cc9c5.md), col quale venne approvata e resa esecutoria la convenzione stipulata il 7 gennaio 1913 con la «Societa' anonima ferrovia Mantova-Peschiera» per la concessione della costruzione e dell'esercizio della ferrovia Mantova-Peschiera; 
  
  Sentito il parere del Consiglio superiore dei lavori pubblici e del Consiglio di Stato; 
  

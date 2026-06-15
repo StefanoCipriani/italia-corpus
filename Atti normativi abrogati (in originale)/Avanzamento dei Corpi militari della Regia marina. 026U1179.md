@@ -121,7 +121,7 @@ L'ufficiale primo inscritto nel quadro di avanzamento acquista diritto al grado 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-26;1650), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-21;1551), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Accertamento dell'idoneità all'avanzamento degli ufficiali in servizio permanente.
 
@@ -220,7 +220,7 @@ La Commissione ordinaria di avanzamento e' costituita come segue:
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-27;755), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-29;2763), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 22.
 
@@ -328,7 +328,7 @@ Sono considerati esclusi dall'avanzamento:
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-26;1650), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-21;1551), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 34.
 
@@ -357,7 +357,7 @@ Agli ufficiali definitivamente esclusi dall'avanzamento ed a quelli dichiarati n
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-26;1650), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-21;1551), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Dell'avanzamento.
 
@@ -394,7 +394,7 @@ L'avanzamento a capitano del Corpo del genio navale, del corpo delle armi navali
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-26;1650), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-21;1551), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 41.
 
@@ -415,7 +415,7 @@ L'avanzamento a maggiore in tutti i Corpi militari della Regia marina avviene in
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-27;755), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-29;2763), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 43.
 
@@ -484,7 +484,7 @@ I capitani di fregata e gradi corrispondenti da collocarsi in aspettativa per ri
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-26;1650), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-21;1551), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 52.
 
@@ -492,7 +492,7 @@ Il capitano di fregata e l'ufficiale di grado corrispondente collocato in aspett
 
 ### Art. 53.
 
-L'aspettativa per riduzione dei quadri nella quale sono collocati i capitani di fregata e gradi corrispondenti a norma degli articoli 50 e seguenti e' regolata, meno per quanto riguarda la durata e il trattamento di quiescenza, dalle disposizioni del [Regio decreto-legge 15 ottobre 1925, n. 1938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;1938). Pero' i capitani di fregata e i tenenti colonnelli promossi capitani di vascello o colonnelli a norma del precedente articolo liquideranno dal giorno della promozione gli assegni sulla base di quelli loro spettanti nel nuovo grado, come se fossero rimasti in servizio. 
+L'aspettativa per riduzione dei quadri nella quale sono collocati i capitani di fregata e gradi corrispondenti a norma degli articoli 50 e seguenti e' regolata, meno per quanto riguarda la durata e il trattamento di quiescenza, dalle disposizioni del [Regio decreto-legge 15 ottobre 1925, n. 1938](Abolizione%20della%20posizione%20ausiliaria%20speciale%20per%20gli%20ufficiali%20della%20Regia%20marina.%20025U1938.md). Pero' i capitani di fregata e i tenenti colonnelli promossi capitani di vascello o colonnelli a norma del precedente articolo liquideranno dal giorno della promozione gli assegni sulla base di quelli loro spettanti nel nuovo grado, come se fossero rimasti in servizio. 
  
  La durata dell'aspettativa non potra' eccedere i quattro anni, allo scadere dei quali, o anche prima nel caso di raggiungimento dei limiti di eta', gli ufficiali di cui trattasi saranno trasferiti in ausiliaria, e liquideranno la pensione, con le norme ordinarie, sulla media degli stipendi che essi avrebbero percepiti se fossero rimasti in servizio nel triennio.
 
@@ -563,7 +563,7 @@ Nessun ufficiale in congedo, a qualunque categoria appartenga, puo' conseguire l
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-27;755), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-29;2763), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 65.
 
@@ -587,7 +587,7 @@ Gli ufficiali di complemento della Regia marina, aventi grado di guardiamarina o
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-26;1650), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-21;1551), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 68.
 
@@ -617,7 +617,7 @@ Gli ufficiali in congedo sono esclusi definitivamente dall'avanzamento:
 
 ### Art. 71.
 
-Nulla e' variato a quanto dispone il [R. decreto-legge 6 novembre 1924, n. 2289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-06;2289), circa il conferimento direttamente dei vari gradi nei ruoli di complemento.
+Nulla e' variato a quanto dispone il [R. decreto-legge 6 novembre 1924, n. 2289](Modificazioni%20alle%20disposizioni%20relative%20al%20reclutamento%20e%20allavanzamento%20degli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20024U2289.md), circa il conferimento direttamente dei vari gradi nei ruoli di complemento.
 
 ## Delle disposizioni relative al tempo di guerra.
 
@@ -666,7 +666,7 @@ I tenenti gia' in servizio nel Corpo del genio navale e non ancora in quadro di 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-27;755), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-29;2763), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 79.
 
@@ -687,7 +687,7 @@ Per i colonnelli e tenenti colonnelli del genio navale provenienti dal Corpo deg
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-27;755), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-29;2763), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Disposizioni per gli ufficiali trasferiti dai ruoli degli ufficiali in congedo.
 
@@ -695,13 +695,13 @@ Capo VIII.
 
 ### Art. 80.
 
-Nulla e' variato alle disposizioni del [R. decreto-legge numero 1468 in data 10 agosto 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-08-10;1468), convertito nella [legge 9 aprile 1922, n. 430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-04-09;430), relativo agli ufficiali superiori riammessi in servizio permanente dai ruoli della riserva navale.
+Nulla e' variato alle disposizioni del [R. decreto-legge numero 1468 in data 10 agosto 1919](Che%20da%20facolta%20al%20ministro%20della%20marina%20con%20deliberazione%20insindacabile%20di%20riammettere%20in%20servizio%20effettivo%20permanente%20gli%20ufficiali%20superiori%20della%20riserva%20navale%20di%20tutti%20i%20corpi%20della_f5bf57862e25.md), convertito nella [legge 9 aprile 1922, n. 430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-04-09;430), relativo agli ufficiali superiori riammessi in servizio permanente dai ruoli della riserva navale.
 
 ### Art. 81.
 
 Gli ufficiali dello Stato Maggiore in servizio permanente che prevengono dai ruoli di complemento o della riserva navale, che non abbiano in passato frequentato il corso superiore, o, avendolo frequentato, rinunciarono a sostenere o non superarono i relativi esami, debbono frequentare il corso di comando con esito favorevole per poter proseguire in carriera oltre il grado di tenente di vascello. 
  
- Nulla e' variato a quanto dispone il [R. decreto-legge 9 novembre 1924, n. 2311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-09;2311), per gli ufficiali di vascello che furono gia' promossi capitani di corvetta senza aver frequentato con esito favorevole il corso superiore. Essi non potranno avere ulteriore avanzamento. 
+ Nulla e' variato a quanto dispone il [R. decreto-legge 9 novembre 1924, n. 2311](Modificazioni%20alle%20disposizioni%20sullavanzamento%20degli%20ufficiali%20in%20S.%20A.%20P.%20provenienti%20dai%20ruoli%20di%20complemento%20della%20Regia%20marina.%20024U2311.md), per gli ufficiali di vascello che furono gia' promossi capitani di corvetta senza aver frequentato con esito favorevole il corso superiore. Essi non potranno avere ulteriore avanzamento. 
  
  Quanto sopra e' ugualmente applicabile ai tenenti di vascello in servizio permanente, provenienti dal reclutamento normale, i quali, in applicazione del [R. decreto-legislativo n. 1512 in data 25 agosto 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1919-08-25;1512), furono promossi a tale grado senza frequentare il corso superiore o che rinunciarono a sostenere o non superarono i relativi esami. 
  
@@ -730,7 +730,7 @@ Gli ufficiali in aspettativa per riduzione di quadri, senza diritto a richiamo i
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-27;755), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-29;2763), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Degli ufficiali mutilati e invalidi di guerra riassunti in servizio.
 
@@ -738,7 +738,7 @@ Capo X.
 
 ### Art. 86.
 
-Agli ufficiali mutilati ed invalidi di guerra riassunti in servizio continuano ad essere applicabili le disposizioni contenute nel [R. decreto-legge 15 gennaio 1925, n. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-01-15;338) sullo stato, avanzamento, e trattamento di pensione degli ufficiali stessi, con le seguenti avvertenze: 
+Agli ufficiali mutilati ed invalidi di guerra riassunti in servizio continuano ad essere applicabili le disposizioni contenute nel [R. decreto-legge 15 gennaio 1925, n. 338](Disposizioni%20per%20lo%20stato%20lavanzamento%20ed%20il%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20marina%20mutilati%20od%20invalidi%20riassunti%20in%20servizio.%20025U0338.md) sullo stato, avanzamento, e trattamento di pensione degli ufficiali stessi, con le seguenti avvertenze: 
  
  a) che per l'accertamento dell'idoneita' all'avanzamento si osservano le disposizioni della presente legge; 
  
@@ -790,7 +790,7 @@ Per la compilazione dei quadri di avanzamento ordinari o suppletivi nell'anno 19
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-26;1650), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-07-21;1551), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 93.
 
@@ -804,7 +804,7 @@ Le norme relative al corso di comando per la promozione a capitano di corvetta s
 
 La [legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md), e tutte le disposizioni riguardanti l'avanzamento degli ufficiali della Regia marina in contrasto con quelle di cui alla presente legge sono abrogate. 
  
- Sono anche abrogati i decreti Luogotenenziali legislativi in data 12 aprile 1917, n. 571 e 9 dicembre 1917, n. 2017, nonche' il [R. decreto-legge 3 maggio 1925, n. 849](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-05-03;849), riguardanti le promozioni eccezionali a scelta. 
+ Sono anche abrogati i decreti Luogotenenziali legislativi in data 12 aprile 1917, n. 571 e 9 dicembre 1917, n. 2017, nonche' il [R. decreto-legge 3 maggio 1925, n. 849](Modificazioni%20alla%20legge%20sullavanzamento%20dei%20corpi%20militari%20della%20Regia%20marina.%20025U0849.md), riguardanti le promozioni eccezionali a scelta. 
  
  Per l'avanzamento dei sottufficiali e militari del Corpo Reale equipaggi marittimi rimangono in vigore le relative disposizioni di cui al testo unico delle leggi approvato con [R. decreto 21 agosto 1925, n. 1525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-08-21;1525), con le successive aggiunte e varianti. 
  

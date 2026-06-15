@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 16 gennaio 1936, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-01-16;801), che approva, il testo unico delle disposizioni legislative riguardanti la costituzione di un Consorzio autonomo per l'esecuzione delle opere e per l'esercizio del porto di Genova;
+Visto il [regio decreto 16 gennaio 1936, n. 801](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20di%20un%20Consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20036U0801.md), che approva, il testo unico delle disposizioni legislative riguardanti la costituzione di un Consorzio autonomo per l'esecuzione delle opere e per l'esercizio del porto di Genova;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), concernente la facolta' del Governo di emanare norme giuridiche;
 
-Visto il [decreto legislativo luogotenenziale 22 settembre 1945, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-22;710), riguardante l'autorizzazione della spesa di lire millecinquecento milioni per la riparazione dei danni causati dalle azioni belliche alle opere ed agli impianti del porto di Genova;
+Visto il [decreto legislativo luogotenenziale 22 settembre 1945, n. 710](../Decreti%20legislativi%20luogotenenziali/Autorizzazione%20della%20spesa%20straordinaria%20di%20lire%20un%20miliardo%20e%20cinquecento%20milioni%20per%20lavori%20di%20riparazione%20dei%20danni%20causati%20dalle%20azioni%20belliche%20alle%20opere%20ed%20impianti%20del%20porto%20di%20Ge_4ad920a20c4a.md), riguardante l'autorizzazione della spesa di lire millecinquecento milioni per la riparazione dei danni causati dalle azioni belliche alle opere ed agli impianti del porto di Genova;
 
 Ritenuto che tale autorizzazione di spesa e' risultata insufficiente in relazione alla entita' dei lavori di riparazione e di ricostruzione da eseguire in detto porto;
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -37,7 +37,7 @@ La somma annua di lire trecentomilioni di cui al capoverso dell'art. 1 sara' acc
 
 ## Art. 3.
 
-Ai lavori da eseguire con la somma autorizzata col presente decreto, si applicano le disposizioni di cui agli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-22;710#art_3) e [4 del decreto legislativo luogotenenziale 22 settembre 1945, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-22;710#art_4).
+Ai lavori da eseguire con la somma autorizzata col presente decreto, si applicano le disposizioni di cui agli [articoli 3](../Decreti%20legislativi%20luogotenenziali/Autorizzazione%20della%20spesa%20straordinaria%20di%20lire%20un%20miliardo%20e%20cinquecento%20milioni%20per%20lavori%20di%20riparazione%20dei%20danni%20causati%20dalle%20azioni%20belliche%20alle%20opere%20ed%20impianti%20del%20porto%20di%20Ge_4ad920a20c4a.md) e [4 del decreto legislativo luogotenenziale 22 settembre 1945, n. 710](../Decreti%20legislativi%20luogotenenziali/Autorizzazione%20della%20spesa%20straordinaria%20di%20lire%20un%20miliardo%20e%20cinquecento%20milioni%20per%20lavori%20di%20riparazione%20dei%20danni%20causati%20dalle%20azioni%20belliche%20alle%20opere%20ed%20impianti%20del%20porto%20di%20Ge_4ad920a20c4a.md).
 
 ## Art. 4.
 

@@ -12,7 +12,7 @@ vigente: true
 
 Al secondo capoverso della [legge 15 luglio 1911, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-15;749), e' sostituito il seguente: 
  
- «Potra' il Comune, con deliberazione consiliare, secondo le forme della legge comunale e provinciale e da approvarsi dalla Giunta provinciale amministrativa, disporre che una parte del provento della tassa sia erogata a far fronte alle spese o agli impegni da incontrarsi per la costruzione ed esercizio del porto della Marina di Carrara, accordandosi l'eventuale applicazione della [legge 12 febbraio 1903, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-02-12;50); e dovra' erogare una parte del provento stesso, non inferiore al quarto, in contributi alla iscrizione degli operai dell'industria marmifera alla Cassa nazionale di previdenza per gli operai ed a favore della locale Cassa di soccorso».
+ «Potra' il Comune, con deliberazione consiliare, secondo le forme della legge comunale e provinciale e da approvarsi dalla Giunta provinciale amministrativa, disporre che una parte del provento della tassa sia erogata a far fronte alle spese o agli impegni da incontrarsi per la costruzione ed esercizio del porto della Marina di Carrara, accordandosi l'eventuale applicazione della [legge 12 febbraio 1903, n. 50](Costituzione%20di%20un%20consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20003U0050.md); e dovra' erogare una parte del provento stesso, non inferiore al quarto, in contributi alla iscrizione degli operai dell'industria marmifera alla Cassa nazionale di previdenza per gli operai ed a favore della locale Cassa di soccorso».
 
 ## Art. 2.
 

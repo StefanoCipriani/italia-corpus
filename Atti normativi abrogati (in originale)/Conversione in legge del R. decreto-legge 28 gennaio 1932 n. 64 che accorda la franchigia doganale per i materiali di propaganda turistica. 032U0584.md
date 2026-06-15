@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 gennaio 1932, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-01-28;64), che accorda la franchigia doganale per i materiali di propaganda turistica. 
+ E' convertito in legge il [R. decreto-legge 28 gennaio 1932, n. 64](Concessione%20della%20franchigia%20doganale%20per%20il%20materiale%20estero%20di%20propaganda%20turistica.%20032U0064.md), che accorda la franchigia doganale per i materiali di propaganda turistica. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 19 maggio 1932 - Anno X 
  

@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il [primo comma dell'art. 3 del regio decreto 9 gennaio 1927, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-09;36#art_3-com1), e' sostituito dal seguente: 
+Il [primo comma dell'art. 3 del regio decreto 9 gennaio 1927, n. 36](Istituzione%20di%20unagenzia%20del%20Monopolio%20italiano%20dei%20tabacchi%20in%20Oriente.%20027U0036.md), e' sostituito dal seguente: 
  "Ai suddetti funzionari sara' corrisposta, oltre al rimborso delle spese di viaggio (aumentato delle percentuali previste nel tempo dalle disposizioni in vigore per gite di servizio all'estero) per gli spostamenti dall'una all'altra localita' in Oriente e per recarsi in Italia ogni qualvolta vi siano chiamati per ragioni di servizio, una indennita' giornaliera pari alla diaria base vigente nel tempo per il rispettivo grado o qualifica per le gite di servizio nell'interno del territorio nazionale, aumentata di un coefficiente di maggiorazione da stabilirsi, con decreto del Ministro per le finanze, di concerto con quello per il tesoro, entro il limite massimo di quattro volte la diaria base suddetta".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

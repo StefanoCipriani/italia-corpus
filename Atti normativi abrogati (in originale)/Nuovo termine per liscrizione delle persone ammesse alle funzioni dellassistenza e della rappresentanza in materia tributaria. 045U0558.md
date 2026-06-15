@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 38 del R. decreto-legge 7 agosto 1936, n. 1639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-08-07;1639#art_38), sulla riforma degli ordinamenti tributari, convertito, con modificazioni, nella [legge 7 giugno 1937, n. 1016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-07;1016);
+Visto l'[art. 38 del R. decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), sulla riforma degli ordinamenti tributari, convertito, con modificazioni, nella [legge 7 giugno 1937, n. 1016](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20agosto%201936-XIV%20n.%201639%20concernente%20riforma%20degli%20ordinamenti%20tributari.%20037U1016.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le finanze; Abbiamo sanzionato e promulghiamo qu
 
 ## Art. 1.
 
-Le persone che all'11 settembre 1936, data di pubblicazione del [R. decreto-legge 7 agosto 1936, n. 1639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-08-07;1639), esercitavano l'assistenza e la rappresentanza in materia tributaria e che, per non essere iscritte al disciolto partito fascista o per altri motivi politici, non richiesero in tempo utile la iscrizione nell'elenco delle persone autorizzate alle funzioni di assistenza e rappresentanza, sono ammesse a presentare istanza ai fini della iscrizione stessa entro il termine di sei mesi dalla data di pubblicazione del presente decreto.
+Le persone che all'11 settembre 1936, data di pubblicazione del [R. decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), esercitavano l'assistenza e la rappresentanza in materia tributaria e che, per non essere iscritte al disciolto partito fascista o per altri motivi politici, non richiesero in tempo utile la iscrizione nell'elenco delle persone autorizzate alle funzioni di assistenza e rappresentanza, sono ammesse a presentare istanza ai fini della iscrizione stessa entro il termine di sei mesi dalla data di pubblicazione del presente decreto.
 
 ## Art. 2.
 

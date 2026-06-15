@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 dicembre 1933, n. 1745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-14;1745), che ha dato approvazione nel Regno all'Accordo italo-polacco del 30 ottobre 1933, concernente misure relative al prestito polacco di cui all'Accordo di Roma del 10 marzo 1924, approvato con [R. decreto-legge 15 marzo 1924, numero 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-03-15;361). 
+ E' convertito in legge il [R. decreto-legge 14 dicembre 1933, n. 1745](Approvazione%20dellAccordo%20italo-polacco%20del%2030%20ottobre%201933%20concernente%20misure%20relative%20al%20prestito%20polacco%20di%20cui%20allAccordo%20di%20Roma%20del%2010%20marzo%201924.%20033U1745.md), che ha dato approvazione nel Regno all'Accordo italo-polacco del 30 ottobre 1933, concernente misure relative al prestito polacco di cui all'Accordo di Roma del 10 marzo 1924, approvato con [R. decreto-legge 15 marzo 1924, numero 361](Approvazione%20dellaccordo%20con%20il%20Governo%20della%20Repubblica%20polacca%20per%20il%20prestito%20di%20lire%20italiane%20400000000%20che%20quel%20Governo%20intende%20di%20emettere%20in%20Italia.%20024U0361.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

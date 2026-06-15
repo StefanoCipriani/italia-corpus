@@ -242,7 +242,7 @@ Indennita' caro viveri - Cessazione dell'indennita' giornaliera straordinaria de
  
  Gli assegni predetti saranno corrisposti fino a quando saranno devolute analoghe indennita' agli ufficiali ed agli impiegati civili dello Stato. 
  
- Col 1° gennaio 1920 cessera' per i sottufficiali il godimento dell'indennita' giornaliera straordinaria di cui al [R. decreto n. 1416 In data 27 luglio 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-27;1416).
+ Col 1° gennaio 1920 cessera' per i sottufficiali il godimento dell'indennita' giornaliera straordinaria di cui al [R. decreto n. 1416 In data 27 luglio 1919](Che%20concede%20a%20tutti%20i%20sottufficiali%20della%20Regia%20marina%20che%20non%20percepiscono%20soprassoldo%20di%20servizio%20allestero%20una%20indennita%20giornaliera.%20019U1416.md).
 
 ## Art. 21.
 

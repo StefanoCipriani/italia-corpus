@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Possono essere pareggiati alle scuole speciali e pratiche di agricoltura, disciplinate dalle [leggi 6 giugno 1885, n. 3141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-06-06;3141) (serie terza), e 19 luglio 1909, n. 526, per il valore legale degli studi che vi sono fatti, gli Istituti di istruzione agraria ancorche' non abbiano carattere di ente giudirico, i quali rispondano alle disposizioni del presente decreto.
+Possono essere pareggiati alle scuole speciali e pratiche di agricoltura, disciplinate dalle [leggi 6 giugno 1885, n. 3141](Concernente%20le%20scuole%20pratiche%20e%20speciali%20dagricoltura.%20085U3141.md) (serie terza), e 19 luglio 1909, n. 526, per il valore legale degli studi che vi sono fatti, gli Istituti di istruzione agraria ancorche' non abbiano carattere di ente giudirico, i quali rispondano alle disposizioni del presente decreto.
 
 ## Art. 2.
 

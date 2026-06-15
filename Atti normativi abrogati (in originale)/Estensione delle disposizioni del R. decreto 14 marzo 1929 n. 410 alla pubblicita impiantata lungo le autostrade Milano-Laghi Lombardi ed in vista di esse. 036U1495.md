@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 14 marzo 1929, n. 410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-14;410), circa il monopolio della pubblicita' sulle strade statali ed in vista di esse;
+Visto il [R. decreto 14 marzo 1929, n. 410](Istituzione%20a%20favore%20dellAzienda%20autonoma%20statale%20della%20strada%20del%20monopolio%20della%20pubblicita%20lungo%20le%20strade%20statali%20ed%20in%20vista%20di%20esse.%20029U0410.md), circa il monopolio della pubblicita' sulle strade statali ed in vista di esse;
 
 Ritenuta la necessita' urgente ed assoluta di estendere integralmente le disposizioni del succitato decreto alla pubblicita' impiantata lungo le Autostrade Milano-Laghi, ed in vista di esse, attualmente gestite dall'Azienda autonoma statale della strada;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 ## Art. 1.
 
-Le disposizioni del [R. decreto 14 marzo 1929, n. 410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-14;410), sono estese alla pubblicita' impiantata lungo le autostrade Milano-Laghi Lombardi ed in vista di esse. Le relative tariffe sono determinate dal Ministro per i lavori pubblici, presidente dell'Azienda autonoma statale della strada.
+Le disposizioni del [R. decreto 14 marzo 1929, n. 410](Istituzione%20a%20favore%20dellAzienda%20autonoma%20statale%20della%20strada%20del%20monopolio%20della%20pubblicita%20lungo%20le%20strade%20statali%20ed%20in%20vista%20di%20esse.%20029U0410.md), sono estese alla pubblicita' impiantata lungo le autostrade Milano-Laghi Lombardi ed in vista di esse. Le relative tariffe sono determinate dal Ministro per i lavori pubblici, presidente dell'Azienda autonoma statale della strada.
 
 ## Art. 2.
 

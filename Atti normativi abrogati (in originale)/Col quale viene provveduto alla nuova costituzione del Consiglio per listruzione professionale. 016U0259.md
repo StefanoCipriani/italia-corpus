@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il Consiglio per l'istruzione industriale e commerciale istituito con [R. decreto 21 dicembre 1911, n. 1477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-12-21;1477), per la parte che si riferisce all'insegnamento commerciale, e' sostituito da un Consiglio per l'istruzione commerciale.
+Il Consiglio per l'istruzione industriale e commerciale istituito con [R. decreto 21 dicembre 1911, n. 1477](Che%20istituisce%20presso%20il%20Ministero%20di%20agricoltura%20industria%20e%20commercio%20un%20Consiglio%20per%20la%20istruzione%20industriale%20commerciale.%20011U1477.md), per la parte che si riferisce all'insegnamento commerciale, e' sostituito da un Consiglio per l'istruzione commerciale.
 
 ## Art. 2.
 
@@ -26,7 +26,7 @@ Il Consiglio per l'istruzione commerciale e' costituito e rinnovato con decreto 
 
 ## Art. 3.
 
-Il Consiglio per l'istruzione commerciale si pronuncia su tutte le questioni per le quali il parere del Consiglio per l'istruzione industriale e commerciale sia richiesto dalle [leggi 20 marzo 1913, n. 268, e 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854) e dai [regolamenti 1° agosto 1913, n. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-08-01;1233), e [22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1014). 
+Il Consiglio per l'istruzione commerciale si pronuncia su tutte le questioni per le quali il parere del Consiglio per l'istruzione industriale e commerciale sia richiesto dalle [leggi 20 marzo 1913, n. 268, e 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md) e dai [regolamenti 1° agosto 1913, n. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-08-01;1233), e [22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1014). 
  
  Puo' essere anche chiamato a dar parere: 
  
@@ -50,7 +50,7 @@ Il Consiglio per l'istruzione commerciale si pronuncia su tutte le questioni per
 
 ## Art. 4.
 
-Il Consiglio per l'istruzione commerciale funziona da Giunta per tutti i procedimenti disciplinari a carico dei professori e del personale dei RR. Istituti commerciali o delle RR. scuole medie di commercio, delle RR. scuole commerciali o delle RR. scuole inferiori di commercio e delle RR scuole di commercio a orario ridotto e in genere per tutte le questioni che dalla [legge 14 luglio 1912, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;854), e dal [regolamento 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1014), sono demandate alla Giunta del competente Consiglio per l'istruzione industriale e commerciale.
+Il Consiglio per l'istruzione commerciale funziona da Giunta per tutti i procedimenti disciplinari a carico dei professori e del personale dei RR. Istituti commerciali o delle RR. scuole medie di commercio, delle RR. scuole commerciali o delle RR. scuole inferiori di commercio e delle RR scuole di commercio a orario ridotto e in genere per tutte le questioni che dalla [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), e dal [regolamento 22 giugno 1913, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1014), sono demandate alla Giunta del competente Consiglio per l'istruzione industriale e commerciale.
 
 ## Art. 5.
 

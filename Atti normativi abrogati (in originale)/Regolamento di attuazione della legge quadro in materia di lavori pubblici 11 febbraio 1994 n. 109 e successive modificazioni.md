@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 3 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_3), e successive modificazioni, che demanda al Governo la potesta' di regolamentare il settore dei lavori pubblici, nelle materie e secondo le modalita' indicate nello stesso articolo;
+Visto l'[articolo 3 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, che demanda al Governo la potesta' di regolamentare il settore dei lavori pubblici, nelle materie e secondo le modalita' indicate nello stesso articolo;
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
@@ -22,7 +22,7 @@ Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella ri
 
 Udito il parere del Consiglio di Stato espresso dall'Adunanza generale il 12 luglio 1999;
 
-Visto il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8); Acquisito il parere delle competenti Commissioni del Senato della Repubblica e della Camera dei deputati;
+Visto il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md); Acquisito il parere delle competenti Commissioni del Senato della Repubblica e della Camera dei deputati;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 dicembre 1999;
 
@@ -38,7 +38,7 @@ TITOLO I
 
 1.
 
-Il presente regolamento disciplina la materia dei lavori pubblici di cui alla [legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109), e successive modificazioni, che in prosieguo assume la denominazione di Legge, affidati dai soggetti elencati e nei limiti fissati dall'articolo 2, commi 2 e 3, della Legge stessa, recependo altresi' la normativa comunitaria.
+Il presente regolamento disciplina la materia dei lavori pubblici di cui alla [legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni, che in prosieguo assume la denominazione di Legge, affidati dai soggetti elencati e nei limiti fissati dall'articolo 2, commi 2 e 3, della Legge stessa, recependo altresi' la normativa comunitaria.
 
 2.
 
@@ -99,34 +99,34 @@ Ai fini del presente regolamento si intende per:
 
 Note all'art. 2:
 
- Per il testo dell'[articolo 2, comma 2, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_2-com2), e successive modificazioni si veda in note all'articolo 1.
+ Per il testo dell'[articolo 2, comma 2, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni si veda in note all'articolo 1.
 
- Per il testo dell'artico [13, comma 7, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_13-com7), e successive modificazioni si veda in note all'articolo 108.
+ Per il testo dell'artico [13, comma 7, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni si veda in note all'articolo 108.
 
- Il testo dell'[articolo 17, commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com4) e [13 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com13) e successive modificazioni reca:
+ Il testo dell'[articolo 17, commi 4](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e [13 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni reca:
  "Art. 17. (Effettuazione delle attivita' di progettazione, direzione dei lavori e accessorie) 4. La redazione del progetto preliminare, definitivo ed esecutivo, nonche' lo svolgimento di attivita' tecnico-amministrative connesse alla progettazione, in caso di carenza in organico di personale tecnico nelle stazioni appaltanti, ovvero di difficolta' di rispettare i tempi della programmazione dei lavori o di svolgere le funzioni di istituto, ovvero in caso di lavori di speciale complessita' o di rilevanza architettonica o ambientale o in caso di necessita' di predisporre progetti integrali, cosi' come definiti dal regolamento, che richiedono l'apporto di una pluralita' di competenze, casi che devono essere accertati e certificati dal responsabile del procedimento, possono essere affidati ai soggetti di cui al comma 1, lettere d), e), f e g). Le societa' di cui al comma 1, lettera f), singole ovvero raggruppate ai sensi del comma 1, lettera g), possono essere affidatarie di incarichi di progettazione soltanto nel caso in cui i corrispettivi siano stimati di importo pari o superiore a 200.000 ECU, salvo i casi di opere di speciale complessita' e che richiedano una specifica organizzazione.
  13. Quando la prestazione riguardi la progettazione di lavori di particolare rilevanza sotto il profilo architettonico, ambientale, storico-artistico e conservativo, nonche' tecnologico, le stazioni appaltanti valutano in via prioritaria la opportunita' di applicare la procedura del concorso di progettazione o del concorso di idee. A tali concorsi si applicano le disposizioni in materia di pubblicita' previste dai commi 10 e 12"
 
- Il testo dell'[articolo 20, comma 4 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_20-com4) e successive modificazioni reca:
+ Il testo dell'[articolo 20, comma 4 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni reca:
  "Art. 20. (Procedure di scelta del contraente). 4.
  L'affidamento di appalti mediante appalto-concorso e' consentito ai soggetti appaltanti, in seguito a motivata decisione, previo parere del Consiglio superiore dei lavori pubblici, per speciali lavori o per la realizzazione di opere complesse o ad elevata componente tecnologica, la cui progettazione richieda il possesso di competenze particolari o la scelta tra soluzioni tecniche differenziate. Lo svolgimento della gara e' effettuato sulla base di un progetto preliminare, redatto ai sensi dell'articolo 16, nonche' di un capitolato prestazionale corredato dall'indicazione delle prescrizioni, delle condizioni e dei requisiti tecnici inderogabili. L'offerta ha ad oggetto il progetto esecutivo ed il prezzo.
 
- Il testo dell'[articolo 28, comma 7 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_28-com7) e successive modificazioni reca:
+ Il testo dell'[articolo 28, comma 7 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni reca:
  "Art. 28. (Collaudi e vigilanza) 7. E' obbligatorio il collaudo in corso d'opera nei seguenti casi:
  a) quando la direzione dei lavori sia effettuata ai sensi dell'articolo 27, comma 2, lettere b) e c);
  b) in caso di opere di particolare complessita';
  c) in caso di affidamento dei lavori in concessione;
  d) in altri casi individuati nel regolamento.
 
- Il testo dell'[articolo 7 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_7) e successive modificazioni reca:
+ Il testo dell'[articolo 7 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni reca:
  "Art. 7.(Misure per l'adeguamento della funzionalita' della pubblica amministrazione)
  1. I soggetti di cui all'articolo 2, comma 2, lettera a), nominano, ai sensi della [legge 7 agosto 1990, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;24), e successive modificazioni, un responsabile unico del procedimento di attuazione di ogni singolo intervento previsto dal programma triennale dei lavori pubblici, per le fasi della progettazione, dell'affidamento e dell'esecuzione.
  2. Il regolamento determina l'importo massimo e la tipologia dei lavori per i quali il responsabile del procedimento puo' coincidere con il progettista o con il direttore dei lavori. Fino alla data di entrata in vigore del regolamento tale facolta' puo' essere esercitata per lavori di qualsiasi importo o tipologia. L'Amministrazione della difesa, in considerazione della struttura gerarchica dei propri organi tecnici, in luogo di un unico responsabile del procedimento puo' nominare un responsabile del procedimento per ogni singola fase di svolgimento del processo attuativo: progettazione, affidamento ed esecuzione.
  3. Il responsabile del procedimento formula proposte e fornisce dati e informazioni ai fini della predisposizione del programma triennale dei lavori pubblici e dei relativi aggiornamenti annuali; assicura, in ciascuna fase di attuazione degli interventi, il controllo sui livelli di prestazione, di qualita' e di prezzo determinati in coerenza alla copertura finanziaria ed ai tempi di realizzazione del programma oltreche' al corretto e razionale svolgimento delle procedure; segnala altresi eventuali disfunzioni, impedimenti o ritardi nell'attuazione degli interventi e accerta la libera disponibilita' delle aree e degli immobili necessari, fornisce all'amministrazione i dati e le informazioni relativi alle principali fasi di svolgimento del processo attuativo necessari per l'attivita' di coordinamento, di indirizzo e di controllo di sua competenza.
  4. Il regolamento disciplina le ulteriori funzioni del responsabile del procedimento, coordinando con esse i compiti, le funzioni e le responsabilita' del direttore dei lavori e dei coordinatori in materia di salute e di sicurezza durante la progettazione e durante l'esecuzione dei lavori, previsti dal [decreto legislativo 14 agosto 1996, n. 494](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-57-CEE%20concernente%20le%20prescrizioni%20minime%20di%20sicurezza%20e%20di%20salute%20da%20attuare%20nei%20cantieri%20temporanei%20o%20mobili.md), e successive modificazioni. Restano ferme, fino alla data di entrata in vigore del predetto regolamento, le responsabilita' dell'ingegnere capo e del direttore dei lavori come definite dalla normativa vigente.
  5. Il responsabile del procedimento deve essere un tecnico.
- Qualora l'organico dei soggetti di cui al comma 1 presenti carenze accertate o non consenta il reperimento delle adeguate competenze professionali in relazione alle caratteristiche dell'intervento secondo quanto attestato dal dirigente competente alla formazione e allo svolgimento del programma, i compiti di supporto all'attivita' del responsabile del procedimento possono essere affidati con le procedure e le modalita' previste dal [decreto legislativo 17 marzo 1995, n. 157](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-50-CEE%20in%20materia%20di%20appalti%20pubblici%20di%20servizi.md), a professionisti singoli o associati nelle forme di cui alla [legge 23 novembre 1939, n. 1815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-23;1815), e successive modificazioni, o alle societa' di cui all'articolo 17, comma 1, lettere e) ed f), aventi le necessarie competenze specifiche di carattere tecnico, economico-finanziario, amministrativo, organizzativo e legale e che abbiano stipulato a proprio carico adeguata polizza assicurativa a copertura dei rischi di natura professionale.
- 6. Qualora si renda necessaria l'azione integrata e coordinata di diverse amministrazioni statali, regionali o locali, l'amministrazione aggiudicatrice, su proposta del responsabile unico del procedimento, puo' promuovere la conclusione di un accordo di programma ai sensi dell'[articolo 27 della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_27), e successive modificazioni.
+ Qualora l'organico dei soggetti di cui al comma 1 presenti carenze accertate o non consenta il reperimento delle adeguate competenze professionali in relazione alle caratteristiche dell'intervento secondo quanto attestato dal dirigente competente alla formazione e allo svolgimento del programma, i compiti di supporto all'attivita' del responsabile del procedimento possono essere affidati con le procedure e le modalita' previste dal [decreto legislativo 17 marzo 1995, n. 157](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-50-CEE%20in%20materia%20di%20appalti%20pubblici%20di%20servizi.md), a professionisti singoli o associati nelle forme di cui alla [legge 23 novembre 1939, n. 1815](Disciplina%20giuridica%20degli%20studi%20di%20assistenza%20e%20di%20consulenza.%20039U1815.md), e successive modificazioni, o alle societa' di cui all'articolo 17, comma 1, lettere e) ed f), aventi le necessarie competenze specifiche di carattere tecnico, economico-finanziario, amministrativo, organizzativo e legale e che abbiano stipulato a proprio carico adeguata polizza assicurativa a copertura dei rischi di natura professionale.
+ 6. Qualora si renda necessaria l'azione integrata e coordinata di diverse amministrazioni statali, regionali o locali, l'amministrazione aggiudicatrice, su proposta del responsabile unico del procedimento, puo' promuovere la conclusione di un accordo di programma ai sensi dell'[articolo 27 della legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md), e successive modificazioni.
  7. Per l'acquisizione di intese, pareri, concessioni, autorizzazioni, licenze, nulla osta e assensi, comunque denominati, al fine dell'esecuzione di lavori pubblici, l'amministrazione aggiudicatrice, su proposta del responsabile unico del procedimento, convoca una conferenza di servizi ai sensi dell'[articolo 14 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14), e successive modificazioni. Alle amministrazioni interessate deve essere comunicato, a cura del responsabile unico del procedimento, il progetto di cui al comma 8 del presente articolo almeno trenta giorni prima della data di convocazione della conferenza o dell'accordo di programma. In caso di affidamento di concessione di lavori pubblici di cui all'articolo 19, comma 2, la conferenza di servizi e' convocata dal concedente anche nell'interesse del concessionario.
  8. In sede di conferenza di servizi le amministrazioni si esprimono sul progetto definitivo, successivamente alla pronuncia da parte dell'amministrazione competente in ordine alla valutazione d'impatto ambientale, ove richiesta dalla normativa vigente, da rendere nel termine di novanta giorni dalla richiesta, o nel piu' breve termine idoneo a consentire l'utilizzazione degli eventuali cofinanziamenti comunitari entro la scadenza per essi prevista. Trascorsi i termini di cui al primo periodo del presente comma, la stessa amministrazione e' tenuta ad esprimersi in sede di conferenza di servizi. La conferenza di servizi puo' esprimersi anche sul progetto preliminare al fine di concordare quali siano le condizioni per ottenere, in sede di presentazione del progetto definitivo, le intese, i pareri, le concessioni, le autorizzazioni, le licenze, i nulla osta e gli assensi di cui alle vigenti norme.
  9. Il regolamento e le leggi regionali prevedono le forme di pubblicita' dei lavori della conferenza di servizi, nonche' degli atti da cui risultano le determinazioni assunte da ciascuna amministrazione interessata.
@@ -135,9 +135,9 @@ Note all'art. 2:
  12. Qualora alla conferenza di servizi il rappresentante di un'amministrazione invitata sia risultato assente o comunque non dotato di adeguato potere di rappresentanza, la conferenza e' riconvocata per una sola volta, tra il decimo ed il quindicesimo giorno dalla prima convocazione, e decide prescindendo dalla presenza della totalita' delle amministrazioni invitate e dalla adeguatezza dei poteri di rappresentanza dei soggetti intervenuti.
  13. Il dissenso manifestato in sede di conferenza di servizi deve essere motivato e recare, a pena di inammissibilita', le specifiche indicazioni delle modifiche progettuali necessarie ai fini dell'assenso.
  14. Le regioni a statuto ordinario provvedono a disciplinare la conferenza di servizi, in armonia con i principi di cui al presente articolo, per gli interventi di competenza regionale e locale.
- 15. Il termine per il controllo di legittimita' sugli atti da parte delle Ragionerie centrali dello Stato e' fissato in trenta giorni e puo' essere interrotto per non piu' di due volte, per un massimo di dieci giorni, per la richiesta di chiarimenti al l'amministrazione. Resta fermo il disposto di cui al [comma 6 dell'articolo 11 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;367#art_11-com6).
+ 15. Il termine per il controllo di legittimita' sugli atti da parte delle Ragionerie centrali dello Stato e' fissato in trenta giorni e puo' essere interrotto per non piu' di due volte, per un massimo di dieci giorni, per la richiesta di chiarimenti al l'amministrazione. Resta fermo il disposto di cui al [comma 6 dell'articolo 11 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md).
 
- Per il testo dell'[articolo 19, comma 1, lettera b), numero 1, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_19-com1-letb-num1) e successive modificazioni si veda in note all'articolo 88.
+ Per il testo dell'[articolo 19, comma 1, lettera b), numero 1, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 88.
 
 ## Modalita' di esercizio della vigilanza da parte dell'Autorita' sui lavori pubblici
 
@@ -163,7 +163,7 @@ Ove ricorrano esigenze di elevata e specifica professionalita', l'Autorita' puo'
 
 Note all'art. 3:
 
- Per il testo dell'[articolo 8, comma 2 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_8-com2) e successive modificazioni si veda in note all'articolo 82.
+ Per il testo dell'[articolo 8, comma 2 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 82.
 
 ### Art. 4. — Esercizio della funzione di vigilanza
 
@@ -185,7 +185,7 @@ Comma non ammesso al "Visto" della Corte dei conti
 
 Note all'art. 4:
 
- Il testo dell'[articolo 4, comma 6, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_4-com6) e successive modificazioni reca:
+ Il testo dell'[articolo 4, comma 6, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni reca:
  "Art. 4. (Autorita' per la vigilanza sui lavori pubblici) 6. Nell'ambito della propria attivita' l'Autorita' puo' richiedere alle amministrazioni aggiudicatrici, agli altri enti aggiudicatori o realizzatori, nonche' ad ogni altra pubblica amministrazione e ad ogni ente, anche regionale, impresa o persona che ne sia in possesso, documenti, informazioni e chiarimenti relativamente ai lavori pubblici, in corso o da iniziare, al conferimento di incarichi di progettazione, agli affidamenti dei lavori; anche su richiesta motivata di chiunque ne abbia interesse, puo' disporre ispezioni, avvalendosi del Servizio ispettivo di cui al comma 10 e della collaborazione di altri organi dello Stato; puo' disporre perizie ed analisi economiche e statistiche nonche' la consultazione di esperti in ordine a qualsiasi elemento rilevante ai fini dell'istruttoria.
  Tutte le notizie, le informazioni o i dati riguardanti le imprese oggetto di istruttoria da parte dell'Autorita' sono tutelati, sino alla conclusione dell'istruttoria medesima, dal segreto di ufficio anche nei riguardi delle pubbliche amministrazioni. I funzionari dell'Autorita', nell'esercizio delle loro funzioni, sono pubblici ufficiali. Essi sono vincolati dal segreto d'ufficio".
 
@@ -209,7 +209,7 @@ Salvo quanto previsto dall'articolo 4, comma 6, della Legge, al procedimento, ai
 
 Note all'art. 5:
 
- Per il testo dell'[articolo 4, comma 6 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_4-com6) e successive modificazioni si veda in note all'articolo 4.
+ Per il testo dell'[articolo 4, comma 6 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 4.
 
  Il testo della [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), e successive modificazioni recante: "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi" e' pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192.
 
@@ -237,15 +237,15 @@ Nel caso di cui all'articolo 4, comma 8, della Legge, l'Autorita' informa i sogg
 
 Note all'art. 6:
 
- Il testo dell'[articolo 4, comma 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_4-com6) e [17, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_4-com17) e successive modificazioni reca:
+ Il testo dell'[articolo 4, comma 6](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e [17, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni reca:
  "Art. 4. (Autorita' per la vigilanza sui lavori pubblici).
  6. Nell'ambito della propria attivita' l'Autorita' puo' richiedere alle amministrazioni aggiudicatrici, agli altri enti aggiudicatori o realizzatori, nonche' ad ogni altra pubblica amministrazione e ad ogni ente, anche regionale, impresa o persona che ne sia in possesso, documenti, informazioni e chiarimenti relativamente ai lavori pubblici, in corso o da iniziare, al conferimento di incarichi di progettazione, agli affidamenti dei lavori; anche su richiesta motivata di chiunque ne abbia interesse, puo' disporre ispezioni, avvalendosi del Servizio ispettivo di cui al comma 10 e della collaborazione di altri organi dello Stato; puo' disporre perizie ed analisi economiche e statistiche nonche' la consultazione di esperti in ordine a qualsiasi elemento rilevante ai fini dell'istruttoria.
  Tutte le notizie, le informazioni o i dati riguardanti le imprese oggetto di istruttoria da parte dell'Autorita' sono tutelati, sino alla conclusione dell'istruttoria medesima, dal segreto di ufficio anche nei riguardi delle pubbliche amministrazioni. I funzionari dell'Autorita', nell'esercizio delle loro funzioni, sono pubblici ufficiali. Essi sono vincolati dal segreto d'ufficio. 17.
  Le amministrazioni aggiudicatrici e gli altri enti aggiudicatori o realizzatori sono tenuti a comunicare all'Osservatorio dei lavori pubblici, per lavori pubblici di importo superiore a 150.000 ECU, entro quindici giorni dalla data del verbale di gara o di definizione della trattativa privata, i dati concernenti la denominazione dei lavori, il contenuto dei bandi e dei verbali di gara, i soggetti invitati, l'importo di aggiudicazione, il nominativo dell'aggiudicatario o dell'affidatario e del progettista e, entro trenta giorni dalla data del loro compimento ed effettuazione, l'inizio, gli stati di avanzamento e l'ultimazione dei lavori, l'effettuazione del collaudo, l'importo finale del lavoro. Il soggetto che ometta, senza giustificato motivo, di fornire i dati richiesti e' sottoposto, con provvedimento dell'Autorita', alla sanzione amministrativa del pagamento di una somma fino a lire 50 milioni. La sanzione e' elevata fino a lire 100 milioni se sono forniti dati non veritieri".
 
- Per il testo dell'[articolo 10, comma 1 quater, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1quater) e successive modificazioni si veda in note all'articolo 99.
+ Per il testo dell'[articolo 10, comma 1 quater, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 99.
 
- Il testo dell'[articolo 4, comma 8, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_4-com8) e successive modificazioni reca:
+ Il testo dell'[articolo 4, comma 8, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni reca:
  "Art. 4. (Autorita' per la vigilanza sui lavori pubblici) 8. Qualora i soggetti ai quali e' richiesto di fornire gli elementi di cui al comma 6 appartengano alle pubbliche amministrazioni, si applicano le sanzioni disciplinari previste dall'ordinamento per gli impiegati dello Stato".
 
 ## ORGANI DEL PROCEDIMENTO E DISCIPLINA DELL'ACCESSO AGLI ATTI  CAPO I Organi del procedimento
@@ -290,9 +290,9 @@ I soggetti non tenuti alla applicazione dell'articolo 7 della Legge devono in og
 
 Note all'art. 7:
 
- Per il testo dell'[articolo 14, comma 1, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_14-com1) e successive modificazioni si veda in note all'articolo 11.
+ Per il testo dell'[articolo 14, comma 1, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 11.
 
- Per il testo dell'[articolo 7, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_7) e successive modificazioni si veda in note all'articolo 2.
+ Per il testo dell'[articolo 7, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 2.
 
 ### Art. 8. — Funzioni e compiti del responsabile del procedimento
 
@@ -392,19 +392,19 @@ Il responsabile del procedimento che violi gli obblighi posti a suo carico dalla
 
 Note all'art. 8:
 
- Il testo dell'[articolo 16, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_16-com1) e [2, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_16-com2) e successive modificazioni reca:
+ Il testo dell'[articolo 16, commi 1](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e [2, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni reca:
  "Art. 16 (Attivita' di progettazione). 1. La progettazione si articola, nel rispetto dei vincoli esistenti, preventivamente accertati, e dei limiti di spesa prestabiliti, secondo tre livelli di successivi approfondimenti tecnici, in preliminare, definitiva ed esecutiva, in modo da assicurare:
  a) la qualita' dell'opera e la rispondenza alle finalita' relative;
  b) la conformita' alle norme ambientali e urbanistiche;
  c) il soddisfacimento dei requisiti essenziali, definiti dal quadro normativo nazionale e comunitario.
  2. Le prescrizioni relative agli elaborati descrittivi e grafici contenute nei commi 3, 4 e 5 sono di norma necessarie per ritenere i progetti adeguatamente sviluppati. Il responsabile del procedimento nella fase di progettazione qualora, in rapporto alla specifica tipologia ed alla dimensione dei lavori da progettare, ritenga le prescrizioni di cui ai commi 3, 4 e 5 insufficienti o eccessive, provvede a integrarle ovvero a modificarle".
 
- Per il testo dell'[articolo 17, comma 4, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com4) e successive modificazioni si veda in note all'articolo 2.
+ Per il testo dell'[articolo 17, comma 4, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 2.
 
- Il testo dell'[articolo 28, comma 4, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_28-com4) e successive modificazioni reca:
+ Il testo dell'[articolo 28, comma 4, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni reca:
  "Art.28 (Collaudi e vigilanza). 4. Per le operazioni di collaudo, le amministrazioni aggiudicatrici nominano da uno a tre tecnici di elevata e specifica qualificazione con riferimento al tipo di lavori, alla loro complessita' e all'importo degli stessi. I tecnici sono nominati dalle predette amministrazioni nell'ambito delle proprie strutture, salvo che nell'ipotesi di carenza di organico accertata e certificata dal responsabile del procedimento".
 
- Il testo dell'[articolo 17, comma 9, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com9) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 17, comma 9, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 17 (Effettuazione delle attivita' di progettazione, direzione dei lavori e accessorie). 9. Gli affidatari di incarichi di progettazione non possono partecipare agli appalti o alle concessioni di lavori pubblici, nonche' agli eventuali subappalti o cottimi, per i quali abbiano svolto la suddetta attivita' di progettazione; ai medesimi appalti, concessioni di lavori pubblici, subappalti e cottimi non puo' partecipare un soggetto controllato, controllante o collegato all'affidatario di incarichi di progettazione. Le situazioni di controllo e di collegamento si determinano con riferimento a quanto previsto dall'[articolo 2359 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359). I divieti di cui al presente comma sono estesi ai dipendenti dell'affidatario dell'incarico di progettazione, ai suoi collaboratori nello svolgimento dell'incarico ed ai loro dipendenti, nonche' agli affidatari di attivita' di supporto alla progettazione ed ai loro dipendenti".
 
 ## Disciplina dell'accesso agli atti e forme di pubblicita'
@@ -430,7 +430,7 @@ Ai sensi dell'[articolo 24 della legge 7 agosto 1990, n. 241](https://www.normat
 Note all'art. 10:
 
  Il testo dell'[articolo 24 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24), e successive modificazioni recante: "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi", pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192, e' il seguente:
- "Art.24. 1. Il diritto di accesso e' escluso per i documenti coperti da segreto di Stato ai sensi dell'[articolo 12 della legge 24 ottobre 1977, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-24;801#art_12), nonche' nei casi di segreto o di divieto di divulgazione altrimenti previsti dall'ordinamento.
+ "Art.24. 1. Il diritto di accesso e' escluso per i documenti coperti da segreto di Stato ai sensi dell'[articolo 12 della legge 24 ottobre 1977, n. 801](Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md), nonche' nei casi di segreto o di divieto di divulgazione altrimenti previsti dall'ordinamento.
  2. Il Governo e' autorizzato ad emanare, ai sensi del [comma 2 dell'articolo 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), entro sei mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti intesi a disciplinare le modalita' di esercizio del diritto di accesso e gli altri casi di esclusione del diritto di accesso in relazione alla esigenza di salvaguardare:
  a) la sicurezza, la difesa nazionale e le relazioni internazionali;
  b) la politica monetaria e valutaria;
@@ -461,7 +461,7 @@ In materia di programmi di lavori pubblici gli enti locali territoriali applican
 
 Note all'art. 11:
 
- Il testo dell'[articolo 14, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_14) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 14, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 14 (Programmazione dei lavori pubblici). 1.
  L'attivita' di realizzazione dei lavori di cui alla presente legge si svolge sulla base di un programma triennale e di suoi aggiornamenti annuali che i soggetti di cui all'articolo 2, comma 2, lettera a), predispongono ed approvano, nel rispetto dei documenti programmatori, gia' previsti dalla normativa vigente, e della normativa urbanistica, unitamente all'elenco dei lavori da realizzare nell'anno stesso.
  2. Il programma triennale costituisce momento attuativo di studi di fattibilita' e di identificazione e quantificazione dei propri bisogni che i soggetti di cui al comma 1 predispongono nell'esercizio delle loro autonome competenze e, quando esplicitamente previsto, di concerto con altri soggetti, in conformita' agli obiettivi assunti come prioritari. Gli studi individuano i lavori strumentali al soddisfacimento dei predetti bisogni, indicano le caratteristiche funzionali, tecniche, gestionali ed economico-finanziarie degli stessi e contengono l'analisi dello stato di fatto di ogni intervento nelle sue eventuali componenti storico-artistiche, architettoniche, paesaggistiche, e nelle sue componenti di sostenibilita' ambientale, socio-economiche, amministrative e tecniche. In particolare le amministrazioni aggiudicatrici individuano con priorita' i bisogni che possono essere soddisfatti tramite la realizzazione di lavori finanziabili con capitali privati, in quanto suscettibili di gestione economica. Lo schema di programma triennale e i suoi aggiornamenti annuali sono resi pubblici, prima della loro approvazione, mediante affissione nella sede dei soggetti di cui all'articolo 2, comma 2, lettera a), per almeno sessanta giorni consecutivi.
@@ -470,8 +470,8 @@ Note all'art. 11:
  5. I soggetti di cui al comma 1 nel dare attuazione ai lavori previsti dal programma triennale devono rispettare le priorita' ivi indicate. Sono fatti salvi gli interventi imposti da eventi imprevedibili o calamitosi, nonche' le modifiche dipendenti da sopravvenute disposizioni di legge o regolamentari ovvero da altri atti amministrativi adottati a livello statale o regionale.
  6. L'inclusione di un lavoro nell'elenco annuale di cui al comma 1 e' subordinata alla previa approvazione della progettazione preliminare, redatta ai sensi dell'articolo 16, salvo che per i lavori di manutenzione, per i quali e' sufficiente l'indicazione degli interventi accompagnata dalla stima sommaria dei costi.
  7. Un lavoro o un tronco di lavoro a rete puo' essere inserito nell'elenco annuale, limitatamente ad uno o piu' lotti, purche' con riferimento all'intero lavoro sia stata elaborata la progettazione almeno preliminare e siano state quantificate le complessive risorse finanziarie necessarie per la realizzazione dell'intero lavoro. In ogni caso l'amministrazione nomina, nell'ambito del personale ad essa addetto, un soggetto idoneo a certificare la funzionalita', fruibilita' e fattibilita' di ciascun lotto.
- 8. I progetti dei lavori degli enti locali ricompresi nell'elenco annuale devono essere conformi agli strumenti urbanistici vigenti o adottati. Ove gli enti locali siano sprovvisti di tali strumenti urbanistici, decorso inutilmente un anno dal termine ultimo previsto dalla normativa vigente per la loro adozione, e fino all'adozione medesima, gli enti stessi sono esclusi da qualsiasi contributo o agevolazione dello Stato in materia di lavori pubblici. Per motivate ragioni di pubblico interesse si applicano le disposizioni dell'[articolo 1, commi quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_1-com4) e [quinto, della legge 3 gennaio 1978, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_1-com5), e successive modificazioni, e dell'[articolo 27, comma 5, della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_27-com5).
- 9. L'elenco annuale predisposto dalle amministrazioni aggiudicatrici deve essere approvato unicamente al bilancio preventivo, di cui costituisce parte integrante, e deve contenere l'indicazione dei mezzi finanziari stanziati sullo stato di previsione o sul proprio bilancio, ovvero disponibili in base a contributi o risorse dello Stato, delle regioni a statuto ordinario o di altri enti pubblici, gia' stanziati nei rispettivi stati di previsione o bilanci, nonche' acquisibili ai sensi dell'[articolo 3 del decreto-legge 31 ottobre 1990, n. 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-10-31;310#art_3), convertito, con modificazioni, dalla [legge 22 dicembre 1990, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-22;403), e successive modificazioni. Un lavoro non inserito nell'elenco annuale puo' essere realizzato solo sulla base di un autonomo piano finanziario che non utilizzi risorse gia' previste tra i mezzi finanziari dell'amministrazione al momento della formazione dell'elenco, fatta eccezione per le risorse resesi disponibili a seguito di ribassi d'asta o di economie. Agli enti locali territoriali si applicano le disposizioni previste dal [decreto legislativo 25 febbraio 1995, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77), e successive modificazioni ed integrazioni.
+ 8. I progetti dei lavori degli enti locali ricompresi nell'elenco annuale devono essere conformi agli strumenti urbanistici vigenti o adottati. Ove gli enti locali siano sprovvisti di tali strumenti urbanistici, decorso inutilmente un anno dal termine ultimo previsto dalla normativa vigente per la loro adozione, e fino all'adozione medesima, gli enti stessi sono esclusi da qualsiasi contributo o agevolazione dello Stato in materia di lavori pubblici. Per motivate ragioni di pubblico interesse si applicano le disposizioni dell'[articolo 1, commi quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_1-com4) e [quinto, della legge 3 gennaio 1978, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_1-com5), e successive modificazioni, e dell'[articolo 27, comma 5, della legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md).
+ 9. L'elenco annuale predisposto dalle amministrazioni aggiudicatrici deve essere approvato unicamente al bilancio preventivo, di cui costituisce parte integrante, e deve contenere l'indicazione dei mezzi finanziari stanziati sullo stato di previsione o sul proprio bilancio, ovvero disponibili in base a contributi o risorse dello Stato, delle regioni a statuto ordinario o di altri enti pubblici, gia' stanziati nei rispettivi stati di previsione o bilanci, nonche' acquisibili ai sensi dell'[articolo 3 del decreto-legge 31 ottobre 1990, n. 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-10-31;310#art_3), convertito, con modificazioni, dalla [legge 22 dicembre 1990, n. 403](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20ottobre%201990%20n.%20310%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale.md), e successive modificazioni. Un lavoro non inserito nell'elenco annuale puo' essere realizzato solo sulla base di un autonomo piano finanziario che non utilizzi risorse gia' previste tra i mezzi finanziari dell'amministrazione al momento della formazione dell'elenco, fatta eccezione per le risorse resesi disponibili a seguito di ribassi d'asta o di economie. Agli enti locali territoriali si applicano le disposizioni previste dal [decreto legislativo 25 febbraio 1995, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), e successive modificazioni ed integrazioni.
  10. I lavori non ricompresi nell'elenco annuale o non ricadenti nelle ipotesi di cui al comma 5, secondo periodo, non possono ricevere alcuna forma di finanziamento da parte di pubbliche amministrazioni.
  11. I soggetti di cui al comma 1 sono tenuti ad adottare il programma triennale e gli elenchi annuali dei lavori sulla base degli schemi tipo, che sono definiti con decreto del Ministro dei lavori pubblici. I programmi e gli elenchi sono trasmessi all'Osservatorio dei lavori pubblici che ne da' pubblicita', ad eccezione di quelli provenienti dal Ministero della difesa. I programmi triennali e gli aggiornamenti annuali, fatta eccezione per quelli predisposti dagli enti e da amministrazioni locali e loro associazioni e consorzi, sono altresi' trasmessi al CIPE, per la verifica della loro compatibilita' con i documenti programmatori vigenti.
  12. Le disposizioni di cui ai commi 1, 5 e 10 si applicano a far data dal primo esercizio finanziario successivo alla pubblicazione del decreto di cui al comma 11, ovvero dal secondo qualora il decreto sia emanato nel secondo semestre dell'anno.
@@ -505,7 +505,7 @@ Le somme del fondo non utilizzate sono portate in economia e concorrono a determ
 
 Note all'art. 12:
 
- Per il testo dell'[articolo 31 bis, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_31bis) e successive modificazioni si veda in note all'articolo 110.
+ Per il testo dell'[articolo 31 bis, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 110.
 
 ### Art. 13. — Programma triennale
 
@@ -541,7 +541,7 @@ Le caratteristiche essenziali degli appalti di lavori pubblici di importo pari o
 
 Note all'art. 14:
 
- Per il testo dell'[articolo 14, comma 11, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_14-com11) e successive modificazioni si veda in note all'articolo 11.
+ Per il testo dell'[articolo 14, comma 11, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 11.
 
 ## La progettazione  Sezione prima: Disposizioni generali
 
@@ -674,7 +674,7 @@ L'importo dei lavori a misura, a corpo ed in economia deve essere suddiviso in i
 
 Note all'art. 17:
 
- Il testo dell'[articolo 26, comma 4, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_26-com4) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 26, comma 4, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 26. (Disciplina economica dell'esecuzione dei lavori pubblici). 4. Per i lavori di cui al comma 3 si applica il prezzo chiuso, consistente nel prezzo dei lavori al netto del ribasso d'asta, aumentato di una percentuale da applicarsi, nel caso in cui la differenza tra il tasso di inflazione reale e il tasso di inflazione programmato nell'anno precedente sia superiore al 2 per cento, all'importo dei lavori ancora da eseguire per ogni anno intero previsto per l'ultimazione dei lavori stessi. Tale percentuale e' fissata, con decreto del Ministro dei lavori pubblici da emanare entro il 30 giugno di ogni anno, nella misura eccedente la predetta percentuale del 2 per cento.
  In sede di prima applicazione della presente legge, il decreto e' emanato entro quindici giorni dalla data di entrata in vigore della legge stessa".
 
@@ -797,7 +797,7 @@ Sia per le opere ed i lavori puntuali che per le opere ed i lavori a rete, il pr
 
 Note all'art. 22:
 
- Per il testo dell'[articolo 14, comma 7, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_14-com7) e successive modificazioni si veda in note l'articolo 11.
+ Per il testo dell'[articolo 14, comma 7, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note l'articolo 11.
 
 ### Art. 23. — Calcolo sommario della spesa
 
@@ -1275,7 +1275,7 @@ Il piano di manutenzione e' redatto a corredo dei:
 
 Note all'art. 40:
 
- Per il testo dell'[articolo 16, comma 2, della legge 11 febbraio 1994, n.109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_16-com2) e successive modificazioni si veda in note all'articolo 8.
+ Per il testo dell'[articolo 16, comma 2, della legge 11 febbraio 1994, n.109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 8.
 
 ### Art. 41. — Piani di sicurezza e di coordinamento
 
@@ -1409,7 +1409,7 @@ Il capitolato speciale d'appalto prescrive l'obbligo per l'impresa di presentare
 
 Note all'art. 45:
 
- Per il testo dell'[articolo 25, comma 3, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_25-com3) e successive modificazioni si veda in note all'articolo 134.
+ Per il testo dell'[articolo 25, comma 3, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 134.
 
 ## Verifiche e validazione dei progetti, acquisizione dei pareri e approvazione dei progetti
 
@@ -1431,7 +1431,7 @@ La verifica comporta il controllo della coerenza esterna tra la soluzione proget
 
 Note all'art. 46:
 
- Il testo dell'[articolo 16, comma 6, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_16-com6) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 16, comma 6, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 16 (Attivita' di progettazione). 6. In relazione alle caratteristiche e all'importanza dell'opera, il regolamento di cui all'articolo 3, con riferimento alle categorie di lavori e alle tipologie di intervento e tenendo presenti le esigenze di gestione e di manutenzione, stabilisce criteri, contenuti e momenti di verifica dei vari livelli di progettazione".
 
 ### Art. 47. — Validazione del progetto
@@ -1482,7 +1482,7 @@ Gli oneri economici inerenti allo svolgimento dei servizi di cui al comma 1 uno 
 
 Note all'art. 48:
 
- Il testo dell'[articolo 30, comma 6, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_30-com6) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 30, comma 6, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.30 (Garanzie e coperture assicurative). 6. Prima di iniziare le procedure per l'affidamento dei lavori, le stazioni appaltanti devono verificare, nei termini e con le modalita' stabiliti dal regolamento, la rispondenza degli elaborati progettuali ai documenti di cui all'articolo 16, contriti 1 e 2, e la loro conformita' alla normativa vigente. Tale verifica puo' essere effettuata da organismi di controllo accreditati ai sensi delle norme europee della serie UNI CEI EN 45000 o dagli uffici tecnici delle predette stazioni appaltanti".
 
 ### Art. 49. — Acquisizione dei pareri e approvazione dei progetti
@@ -1501,7 +1501,7 @@ In caso di opere o lavori sottoposti a valutazione di impatto ambientale si proc
 
 Note all'art. 49:
 
- Per il testo dell'[articolo 7, comma 8, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_7-com8) e successive modificazioni si veda in note all'articolo 7.
+ Per il testo dell'[articolo 7, comma 8, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 7.
 
 ## AFFIDAMENTO DEI SERVIZI ATTINENTI ALL'ARCHITETTURA E ALL'INGEGNERIA CAPO I Disposizioni generali
 
@@ -1527,11 +1527,11 @@ Ai fini del presente titolo si intendono per:
 
 Note all'art. 50:
 
- Per il testo dell'[articolo 17, comma 4, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com4) e successive modificazioni si veda in note all'articolo 2.
+ Per il testo dell'[articolo 17, comma 4, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 2.
 
- Il testo dell'[articolo 17, comma 1, lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com1-letd), [e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com1-lete), [f)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com1-letf) e [g) della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com1-letg) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 17, comma 1, lettere d)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), [e)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), [f)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e [g) della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 17 (Effettuazione delle attivita' di progettazione, direzione dei lavori e accessorie). 1. Le prestazioni relative alla progettazione preliminare, definitiva ed esecutiva nonche' alla direzione dei lavori ed agli incarichi di supporto tecnico-amministrativo alle attivita' del responsabile unico del procedimento e del dirigente competente alla formazione del programma triennale di cui all'articolo 14, sono espletate:
- d) da liberi professionisti singoli od associati nelle forme di cui alla [legge 23 novembre 1939, n. 1815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-23;1815), e successive modificazioni;
+ d) da liberi professionisti singoli od associati nelle forme di cui alla [legge 23 novembre 1939, n. 1815](Disciplina%20giuridica%20degli%20studi%20di%20assistenza%20e%20di%20consulenza.%20039U1815.md), e successive modificazioni;
  e) dalle societa' di professionisti di cui al comma 6, lettera a);
  f) dalle societa' di ingegneria di cui al comma 6, lettera b);
  g) da raggruppamenti temporanei costituiti dai soggetti di cui alle lettere d), e) ed f), ai quali si applicano le disposizioni di cui all'articolo 13 in quanto compatibili".
@@ -1560,14 +1560,14 @@ Ai sensi dell'articolo 17, comma 8, della Legge, i raggruppamenti, temporanei pr
 
 Note all'art. 51:
 
- Il testo dell'[articolo 18, comma 2 ter della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_18-com2ter) e successive modificazioni e' il seguente: "Art.18 (Incentivi e spese per la progettazione).
- 2-ter. I pubblici dipendenti che abbiano un rapporto di lavoro a tempo parziale non possono espletare, nell'ambito territoriale dell'ufficio di appartenenza, incarichi professionali per conto di pubbliche amministrazioni di cui all'[articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_1-com2), e successive modificazioni, se non conseguenti ai rapporti d'impiego".
+ Il testo dell'[articolo 18, comma 2 ter della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente: "Art.18 (Incentivi e spese per la progettazione).
+ 2-ter. I pubblici dipendenti che abbiano un rapporto di lavoro a tempo parziale non possono espletare, nell'ambito territoriale dell'ufficio di appartenenza, incarichi professionali per conto di pubbliche amministrazioni di cui all'[articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, se non conseguenti ai rapporti d'impiego".
 
- Il testo dell'[articolo 17, comma 8 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com8) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 17, comma 8 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 17 (Effettuazione delle attivita' di progettazione, direzione dei lavori e accessorie). 8. Indipendentemente dalla natura giuridica del soggetto affidatario dell'incarico di cui ai commi 4 e 14, lo stesso deve essere espletato da professionisti iscritti negli appositi albi previsti dai vigenti ordinamenti professionali, personalmente responsabili e nominativamente indicati gia' in sede di presentazione dell'offerta, con la specificazione delle rispettive qualificazioni professionali. Deve inoltre essere indicata, sempre nell'offerta, la persona fisica incaricata dell'integrazione tra le varie prestazioni specialistiche.
  Il regolamento definisce le modalita' per promuovere la presenza anche di giovani professionisti nei gruppi concorrenti ai bandi per l'aggiudicazione".
 
- Per il testo dell'[articolo 17, comma 1, lettera g) della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com1-letg) e successive modificazioni si veda in note all'articolo 50.
+ Per il testo dell'[articolo 17, comma 1, lettera g) della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 50.
 
 ### Art. 52.
 
@@ -1607,7 +1607,7 @@ Alla spesa per i compensi e i rimborsi spettanti alla commissione giudicatrice s
 
 Note all'art. 55:
 
- Il testo dell'[articolo 18, comma 2 bis della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_18-com2bis) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 18, comma 2 bis della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 18. (Incentivi e spese per la progettazione). 2-bis.
  A valere sugli stanziamenti iscritti nei capitoli delle categorie X e XI del bilancio dello Stato, le amministrazioni competenti destinano una quota complessiva non superiore al 10 per cento del totale degli stanziamenti stessi alle spese necessarie alla stesura dei progetti preliminari, nonche' dei progetti definitivi ed esecutivi, incluse indagini geologiche e geognostiche, studi di impatto ambientale od altre rilevazioni, alla stesura dei piani di sicurezza e di coordinamento e dei piani generati di sicurezza quando previsti ai sensi del [D.Lgs. 14 agosto 1996, n. 494](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-57-CEE%20concernente%20le%20prescrizioni%20minime%20di%20sicurezza%20e%20di%20salute%20da%20attuare%20nei%20cantieri%20temporanei%20o%20mobili.md), e agli studi per il finanziamento dei progetti, nonche' all'aggiornamento ed adeguamento alla normativa sopravvenuta dei progetti gia' esistenti d'intervento di cui sia riscontrato il perdurare dell'interesse pubblico alla realizzazione dell'opera.
  Analoghi criteri adottano per i propri bilanci le regioni e le province autonome, qualora non vi abbiano gia' provveduto, nonche' i comuni e le province e i loro consorzi. Per le opere finanziate dai comuni, province e loro consorzi e dalle regioni attraverso il ricorso al credito, l'istituto mutuante e' autorizzato a finanziare anche quote relative alle spese di cui al presente articolo, sia pure anticipate dall'ente mutuatario".
@@ -1662,7 +1662,7 @@ L'idea premiata e' acquisita in proprieta' dalla stazione appaltante e, previa e
 
 Note all'art. 57:
 
- Per il testo dell'articolo 17, comma 1, lettere d), e), f e g) della [legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109) e successive modificazioni si veda in note all'articolo 50.
+ Per il testo dell'articolo 17, comma 1, lettere d), e), f e g) della [legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 50.
 
 ### Art. 58. — Contenuto del bando
 
@@ -1879,12 +1879,12 @@ La lettera di invito deve indicare:
 
 Note all'art. 63:
 
- Il testo dell'[articolo 30, comma 5 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_30-com5) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 30, comma 5 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.30 (Garanzie e coperture assicurative). 5. Il progettista o i progettisti incaricati della progettazione esecutiva devono essere muniti, a far data dal l'approvazione del progetto, di una polizza di responsabilita' civile professionale per i rischi derivanti dallo svolgimento delle attivita' di propria competenza, per tutta la durata dei lavori e sino alla data di emissione del certificato di collaudo provvisorio. La polizza del progettista o dei progettisti deve coprire, oltre alle nuove spese di progettazione, anche i maggiori posti che l'amministrazione deve sopportare per le varianti di cui all'articolo 25, comma 1, lettera d), resesi necessarie in corso di esecuzione. La garanzia e' prestata per un massimale non inferiore al 10 per cento dell'importo dei lavori progettati, con il limite di 1 milione di ECU, per lavori di importo inferiore a 5 milioni di ECU, IVA esclusa, e per un massimale non inferiore al 20 per cento dell'importo dei lavori progettati, con il limite di 2 milioni e 500 mila ECU, per lavori di importo superiore a 5 milioni di ECU, IVA esclusa. La mancata presentazione da parte dei progettisti della polizza di garanzia esonera le amministrazioni pubbliche dal pagamento della parcella professionale".
 
- Per il testo dell'[articolo 17, comma 9, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com9) e successive modificazioni si veda in note all'articolo 7.
+ Per il testo dell'[articolo 17, comma 9, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 7.
 
- Per il testo dell'[articolo 10, comma 1 quater della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1quater) e successive modificazioni si veda in note all'articolo 99.
+ Per il testo dell'[articolo 10, comma 1 quater della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 99.
 
 ### Art. 64. — Modalita' di svolgimento della gara
 
@@ -1965,7 +1965,7 @@ La stazione appaltante puo' chiedere, nel caso di raggruppamenti temporanei di c
 
 Note all'art. 65:
 
- Per il testo dell'[articolo 17, comma 1, lettera g) della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com1-letg) e successive modificazioni si veda in note all'articolo 50.
+ Per il testo dell'[articolo 17, comma 1, lettera g) della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 50.
 
 ### Art. 66. — Requisiti di partecipazione
 
@@ -2036,7 +2036,7 @@ La stazione appaltante puo' procedere altresi' alla verifica prevista dall'artic
 
 Note all'art. 70:
 
- Per il testo dell'[articolo 10, comma 1 quater della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1quater) e successive modificazioni si veda in note all'articolo 99.
+ Per il testo dell'[articolo 10, comma 1 quater della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 99.
 
 ## SISTEMI DI REALIZZAZIONE DI LAVORI PUBBLICI CAPO I Appalti e concessioni Sezione prima: Disposizioni generali
 
@@ -2142,7 +2142,7 @@ Le imprese qualificate nella categoria di opera generale sono abilitate a partec
 
 Note all'art. 74:
 
- Per il testo dell'[articolo 13, comma 7 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_13-com7) e successive modificazioni si veda in note all'articolo 108.
+ Per il testo dell'[articolo 13, comma 7 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 108.
 
 ### Art. 75.
 
@@ -2198,10 +2198,10 @@ L'elenco dei lavori che la stazione appaltante intende affidare con la procedura
 
 Note all'art. 77:
 
- Il testo dell'[articolo 2, comma 2, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_2-com2-leta) e [b) della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_2-com2-letb) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 2, comma 2, lettere a)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e [b) della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.2 (Ambito oggettivo e soggettivo di applicazione della legge). 2. Le norme della presente legge e del regolamento di cui all'articolo 3, comma 2, si applicano:
  a) alle amministrazioni dello Stato, anche ad ordinamento autonomo, agli enti pubblici, compresi quelli economici, agli enti ed alle amministrazioni locali, alle loro associazioni e consorzi nonche' agli altri organismi di diritto pubblico;
- b) ai concessionari di lavori pubblici, di cui all'articolo 19, comma 2, ai concessionari di esercizio di infrastrutture destinate al pubblico servizio, alle aziende speciali ed ai consorzi di cui agli [articoli 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_23) e [25 della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_25), e successive modificazioni, alle societa' di cui all'[articolo 22 della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_22), e successive modificazioni, ed all'[articolo 12 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_12), e successive modificazioni, alle societa' con capitale pubblico, in misura anche non prevalente, che abbiano ad oggetto della propria attivita' la produzione di beni o servizi non destinati ad essere collocati sul mercato in regime di libera concorrenza nonche' ai concessionari di servizi pubblici e ai soggetti di cui al [decreto legislativo 17 marzo 1995, n. 158](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2090-531-CEE%20e%2093-38-CEE%20relative%20alle%20procedure%20di%20appalti%20nei%20settori%20esclusi.md), qualora operino in virtu' di diritti speciali o esclusivi, per lo svolgimento di attivita' che riguardino i lavori, di qualsiasi importo, individuati con il decreto del Presidente del Consiglio dei ministri di cui all'[articolo 8, comma 6, del decreto legislativo 17 marzo 1995, n. 158](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2090-531-CEE%20e%2093-38-CEE%20relative%20alle%20procedure%20di%20appalti%20nei%20settori%20esclusi.md), e comunque i lavori riguardanti i rilevati aeroportuali e ferroviari, sempre che non si tratti di lavorazioni che non possono essere progettate separatamente e appaltate separatamente in quanto strettamente connesse e funzionali alla esecuzione di opere comprese nella disciplina del [decreto legislativo 17 marzo 1995, n. 158](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2090-531-CEE%20e%2093-38-CEE%20relative%20alle%20procedure%20di%20appalti%20nei%20settori%20esclusi.md)".
+ b) ai concessionari di lavori pubblici, di cui all'articolo 19, comma 2, ai concessionari di esercizio di infrastrutture destinate al pubblico servizio, alle aziende speciali ed ai consorzi di cui agli [articoli 23](Ordinamento%20delle%20autonomie%20locali.md) e [25 della legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md), e successive modificazioni, alle societa' di cui all'[articolo 22 della legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md), e successive modificazioni, ed all'[articolo 12 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md), e successive modificazioni, alle societa' con capitale pubblico, in misura anche non prevalente, che abbiano ad oggetto della propria attivita' la produzione di beni o servizi non destinati ad essere collocati sul mercato in regime di libera concorrenza nonche' ai concessionari di servizi pubblici e ai soggetti di cui al [decreto legislativo 17 marzo 1995, n. 158](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2090-531-CEE%20e%2093-38-CEE%20relative%20alle%20procedure%20di%20appalti%20nei%20settori%20esclusi.md), qualora operino in virtu' di diritti speciali o esclusivi, per lo svolgimento di attivita' che riguardino i lavori, di qualsiasi importo, individuati con il decreto del Presidente del Consiglio dei ministri di cui all'[articolo 8, comma 6, del decreto legislativo 17 marzo 1995, n. 158](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2090-531-CEE%20e%2093-38-CEE%20relative%20alle%20procedure%20di%20appalti%20nei%20settori%20esclusi.md), e comunque i lavori riguardanti i rilevati aeroportuali e ferroviari, sempre che non si tratti di lavorazioni che non possono essere progettate separatamente e appaltate separatamente in quanto strettamente connesse e funzionali alla esecuzione di opere comprese nella disciplina del [decreto legislativo 17 marzo 1995, n. 158](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2090-531-CEE%20e%2093-38-CEE%20relative%20alle%20procedure%20di%20appalti%20nei%20settori%20esclusi.md)".
 
 ### Art. 78. — Trattativa privata preceduta da gara informale
 
@@ -2327,7 +2327,7 @@ L'osservatorio dei lavori pubblici assicura la trasmissione annuale alla Commiss
 
 Note all'art. 80:
 
- Il testo dell'[articolo 29, comma 1, lettere f)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_29-com1-letf), [f bis)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_29-com1-letfbis) e [f ter) della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_29-com1-letfter) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 29, comma 1, lettere f)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), [f bis)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e [f ter) della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 29 (Pubblicita'). 1. Il regolamento disciplina le forme di pubblicita' degli appalti e delle concessioni sulla base delle seguenti norme regolatrici: f) prevedere che le amministrazioni aggiudicatrici e gli altri enti aggiudicatori o realizzatori, prima della stipula del contratto o della concessione, anche nei casi in cui l'aggiudicazione e' avvenuta mediante trattativa privata, provvedano, con le modalita' di cui alle lettere a), b) e c) del presente comma, alla pubblicazione dell'elenco degli invitati e dei partecipanti alla gara, del vincitore o prescelto, del sistema di aggiudicazione adottato, dell'importo di aggiudicazione dei lavori, dei tempi di realizzazione dell'opera, del nominativo del direttore dei lavori designato, nonche', entro trenta giorni dal loro compimento ed effettuazione, dell'ultimazione dei lavori, dell'effettuazione del collaudo, dell'importo finale del lavoro.
  f-bis) nei casi in cui l'importo finale dei lavori superi di piu' del 20 per cento l'importo di aggiudicazione o di affidamento e/o l'ultimamente dei lavori sia avvenuta con un ritardo superiore ai sei mesi rispetto al tempo di realizzazione dell'opera fissato all'atto dell'aggiudicazione o dell'affidamento, prevedere forme di pubblicita', con le stesse modalita' di cui alle lettere b) e c) del presente comma ed a carico dell'aggiudicatario o dell'affidatario, diretta a rendere note le ragioni del maggior importo e/o del ritardo nell'effettuazione dei lavori;
  f-ter) nei casi di contenzioso, di cui agli articoli 31-bis, commi 2 e 3, e 32, gli organi giudicanti devono trasmettere i dispositivi delle sentenze e delle pronunce emesse all'Osservatorio e, qualora le sentenze o le pronunce dispongano variazioni rispetto agli importi di aggiudicazione o di affidamento dei lavori, disporre forme di pubblicita', a carico della parte soccombente, con le stesse modalita' di cui alle lettere b) e c) del presente comma".
@@ -2354,7 +2354,7 @@ Le domande di partecipazione alle gare e gli inviti a presentare l'offerta sono 
 
 1.
 
-Le amministrazioni usuarie del bene oggetto dell'intervento dichiarano con provvedimento motivato, le opere di cui all'articolo 33 della Legge da considerarsi "segrete" ai sensi del [R.D. 11 luglio 1941, n.1161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-11;1161) e della [legge 24 ottobre 1977, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-24;801) oppure "eseguibili con speciali misure di sicurezza".
+Le amministrazioni usuarie del bene oggetto dell'intervento dichiarano con provvedimento motivato, le opere di cui all'articolo 33 della Legge da considerarsi "segrete" ai sensi del [R.D. 11 luglio 1941, n.1161](Norme%20relative%20al%20segreto%20militare.%20041U1161.md) e della [legge 24 ottobre 1977, n. 801](Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md) oppure "eseguibili con speciali misure di sicurezza".
 
 2.
 
@@ -2374,17 +2374,17 @@ Gli incaricati della progettazione, della direzione dei lavori e del collaudo de
 
 Note all'art. 82:
 
- Il testo dell'[articolo 33 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_33) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 33 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 33 (Segretezza). 1. Le opere destinate ad attivita' delle forze armate o dei corpi di polizia per la difesa della Nazione o per i compiti di istituto, nei casi in cui sono richieste misure speciali di sicurezza e di segretezza in conformita' a disposizioni legislative, regolamentari ed amministrative vigenti o quando lo esiga la protezione degli interessi essenziali della sicurezza dello Stato, dichiarate indifferibili ed urgenti, possono essere eseguite in deroga alle disposizioni relative alla pubblicita' delle procedure di affidamento dei lavori pubblici, ai sensi del comma 2.
  2. Nelle ipotesi di cui al comma 1, il regolamento determina i casi nei quali debbono svolgersi gare informali e le modalita' delle stesse, i criteri di individuazione dei concorrenti ritenuti idonei all'esecuzione dei lavori di cui al comma 1, nonche' le relative procedure.
  3. I lavori di cui al comma 1 sono sottoposti esclusivamente al controllo successivo della Corte dei conti, la quale si pronuncia altresi' sulla regolarita', sulla correttezza e sull'efficacia della gestione.
  Dell'attivita' di cui al presente comma e' dato conto entro il 30 giugno di ciascun anno in una relazione al Parlamento".
 
- Il testo del [R.D. 11 luglio 1941, n.1161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-11;1161) recante: "Norme relative al segreto militare" e' pubblicato nella Gazzetta Ufficiale del 30 ottobre 1941, n. 257.
+ Il testo del [R.D. 11 luglio 1941, n.1161](Norme%20relative%20al%20segreto%20militare.%20041U1161.md) recante: "Norme relative al segreto militare" e' pubblicato nella Gazzetta Ufficiale del 30 ottobre 1941, n. 257.
 
  Il testo della [legge 24 ottobre 1997, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-10-24;801) recante: "Istituzione e ordinamento dei servizi per le informazioni e la sicurezza e disciplina del segreto di Stato " e' pubblicato nella Gazzetta Ufficiale del 7 novembre 1977, n. 303.
 
- Il testo dell'[articolo 8 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_8) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 8 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.8 (Qualificazione). 1. Al fine di assicurare il conseguimento degli obiettivi di cui all'articolo 1, comma 1, i soggetti esecutori a qualsiasi titolo di lavori pubblici devono essere qualificati ed improntare la loro attivita' ai principi della qualita', della professionalita' e della correttezza. Allo stesso fine i prodotti, i processi, i servizi e i sistemi di qualita' aziendali impiegati dai medesimi soggetti sono sottoposti a certificazione, ai sensi della normativa vigente.
  2. Con apposito regolamento, da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), su proposta del Ministro dei lavori pubblici, di concerto con il Ministro dell'industria, del commercio e dell'artigianato e con il Ministro per i beni culturali e ambientali, sentito il Ministro del lavoro e della previdenza sociale, previo parere delle competenti Commissioni parlamentari, e' istituito, tenendo conto della normativa vigente in materia, un sistema di qualificazione, unico per tutti gli esecutori a qualsiasi titolo di lavori pubblici di cui all'articolo 2, comma 1, di importo superiore a 150.000 ECU, articolato in rapporto alle tipologie ed all'importo dei lavori stessi.
  3. Il sistema di qualificazione e' attuato da organismi di diritto privato di attestazione, appositamente autorizzati dall'Autorita' di cui all'articolo 4, sentita un'apposita commissione consultiva istituita presso l'Autorita' medesima. Alle spese di finanziamento della commissione consultiva si provvede a carico del bilancio dell'Autorita', nei limiti delle risorse disponibili. Agli organismi di attestazione e' demandato il compito di attestare l'esistenza nei soggetti qualificati di:
@@ -2402,13 +2402,13 @@ Note all'art. 82:
  g) la durata dell'efficacia della qualificazione, non inferiore a due anni e non superiore a tre anni, nonche' le relative modalita' di verifica;
  h) la formazione di elenchi, su base regionale, dei soggetti che hanno conseguito la qualificazione di cui al comma 3; tali elenchi sono redatti e conservati presso l'Autorita', che ne assicura la pubblicita' per il tramite dell'Osservatorio dei lavori pubblici di cui all'articolo 4.
  5. (Abrogato)
- 6. Il regolamento di cui al comma 2 disciplina le modalita' dell'esercizio, da parte dell'Ispettorato generale per l'Albo nazionale dei costruttori e per i contratti di cui al [sesto comma dell'articolo 6, L. 10 febbraio 1962, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-02-10;57#art_6-com6), delle competenze gia' attribuite al predetto ufficio e non soppresse ai sensi del presente articolo.
- 7. Fino al 31 dicembre 1999, il Comitato centrale dell'Albo nazionale dei costruttori dispone la sospensione da tre a sei mesi dalla partecipazione alle procedure di affidamento di lavori pubblici nei casi previsti dall'[articolo 24, primo comma, della direttiva 93/37/CEE del Consiglio del 14 giugno 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;37). Resta fermo quanto previsto dalla vigente disciplina antimafia ed in materia di misure di prevenzione. Ai fini dell'applicazione delle disposizioni di cui al primo periodo, sono abrogate le nome incompatibili relative alla sospensione e alla cancellazione dall'Albo di cui alla [legge 10 febbraio 1962, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-02-10;57), e sono inefficaci i procedimenti iniziati in base alla normativa previgente. A decorrere dal 1o gennaio 2000, all'esclusione dalla partecipazione alle procedure di affidamento di lavori pubblici provvedono direttamente le stazioni appaltanti, sulla base dei medesimi criteri.
+ 6. Il regolamento di cui al comma 2 disciplina le modalita' dell'esercizio, da parte dell'Ispettorato generale per l'Albo nazionale dei costruttori e per i contratti di cui al [sesto comma dell'articolo 6, L. 10 febbraio 1962, n. 57](Istituzione%20dellAlbo%20nazionale%20dei%20costruttori.md), delle competenze gia' attribuite al predetto ufficio e non soppresse ai sensi del presente articolo.
+ 7. Fino al 31 dicembre 1999, il Comitato centrale dell'Albo nazionale dei costruttori dispone la sospensione da tre a sei mesi dalla partecipazione alle procedure di affidamento di lavori pubblici nei casi previsti dall'[articolo 24, primo comma, della direttiva 93/37/CEE del Consiglio del 14 giugno 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;37). Resta fermo quanto previsto dalla vigente disciplina antimafia ed in materia di misure di prevenzione. Ai fini dell'applicazione delle disposizioni di cui al primo periodo, sono abrogate le nome incompatibili relative alla sospensione e alla cancellazione dall'Albo di cui alla [legge 10 febbraio 1962, n. 57](Istituzione%20dellAlbo%20nazionale%20dei%20costruttori.md), e sono inefficaci i procedimenti iniziati in base alla normativa previgente. A decorrere dal 1o gennaio 2000, all'esclusione dalla partecipazione alle procedure di affidamento di lavori pubblici provvedono direttamente le stazioni appaltanti, sulla base dei medesimi criteri.
  8. A decorrere dal 1o gennaio 2000, i lavori pubblici possono essere eseguiti esclusivamente da soggetti qualificati ai sensi dei commi 2 e 3 del presente articolo, e non esclusi ai sensi del comma 7 del presente articolo.
  Con effetto dalla data di entrata in vigore della presente legge, e' vietata, per l'affidamento di lavori pubblici, l'utilizzazione degli albi speciali o di fiducia predisposti dai soggetti di cui all'art. 2.
  9. A decorrere dalla data di entrata in vigore del regolamento di cui al comma 2 e sino al 31 dicembre 1999, l'esistenza dei requisiti di cui alla lettera e) del comma 3 e' accertata in base al certificato di iscrizione all'Albo nazionale dei costruttori per le imprese nazionali o, per le imprese dei Paesi appartenenti alla Comunita' europea, in base alla certificazione, prodotta secondo le normative vigenti nei rispettivi Paesi, del possesso dei requisiti prescritti per la partecipazione delle imprese italiane alle gare.
- 10. A decorrere dal 1o gennaio 2000, e' abrogata la [legge 10 febbraio 1962, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-02-10;57). Restano ferme le disposizioni di cui alla [legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55), e successive modificazioni.
- 11. A decorrere dalla data di entrata in vigore del decreto di cui al comma 3 dell'articolo 9 e fino al 31 dicembre 1999, ai fini della partecipazione alle procedure di affidamento e di aggiudicazione dei lavori pubblici di cui alla presente legge, l'iscrizione all'Albo nazionale dei costruttori avviene ai sensi della [L. 10 febbraio 1962, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-02-10;57), e successive modificazioni e integrazioni, e della [L. 15 novembre 1986, n. 768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-11-15;768), e sulla base dei requisiti di iscrizione come rideterminati ai sensi del medesimo comma 3 dell'articolo 9.
+ 10. A decorrere dal 1o gennaio 2000, e' abrogata la [legge 10 febbraio 1962, n. 57](Istituzione%20dellAlbo%20nazionale%20dei%20costruttori.md). Restano ferme le disposizioni di cui alla [legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55), e successive modificazioni.
+ 11. A decorrere dalla data di entrata in vigore del decreto di cui al comma 3 dell'articolo 9 e fino al 31 dicembre 1999, ai fini della partecipazione alle procedure di affidamento e di aggiudicazione dei lavori pubblici di cui alla presente legge, l'iscrizione all'Albo nazionale dei costruttori avviene ai sensi della [L. 10 febbraio 1962, n. 57](Istituzione%20dellAlbo%20nazionale%20dei%20costruttori.md), e successive modificazioni e integrazioni, e della [L. 15 novembre 1986, n. 768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-11-15;768), e sulla base dei requisiti di iscrizione come rideterminati ai sensi del medesimo comma 3 dell'articolo 9.
  11-bis. Le imprese dei Paesi appartenenti all'Unione europea partecipano alle procedure per l'affidamento di appalti di lavori pubblici in base alla documentazione, prodotta secondo le normative vigenti nei rispettivi Paesi, del possesso di tutti i requisiti prescritti per la partecipazione delle imprese italiane alle gare.
  11-ter. Il regolamento di cui all'articolo 3, comma 2, stabilisce gli specifici requisiti economico-finanziari e tecnico-organizzativi che devono possedere i candidati ad una concessione di lavori pubblici che non intendano eseguire i lavori con la propria organizzazione di impresa.
  Fino alla data di entrata in vigore del suddetto regolamento i requisiti e le relative misure sono stabiliti dalle amministrazioni aggiudicatrici.
@@ -2418,12 +2418,12 @@ Note all'art. 82:
  11-quinquies. Il regolamento di cui al comma 2 stabilisce quali requisiti di ordine generale, organizzativo e tecnico debbano possedere le imprese per essere affidatarie di lavori pubblici di importo inferiore a 150.000 ECU.
  11-sexies. Per le attivita' di restauro e manutenzione dei beni mobili e delle superfici decorate di beni architettonici, il Ministro per i beni culturali e ambientali, sentito il Ministro dei lavori pubblici, provvede a stabilire i requisiti di qualificazione dei soggetti esecutori dei lavori".
 
- Il testo dell'[articolo 9 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_9) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 9 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.9 (Norme in materia di partecipazione alle gare). 1.
- Fermo restando quanto disposto dall'articolo 8, fino al 31 dicembre 1999 la partecipazione alle procedure di affidamento dei lavori pubblici e' altresi' ammessa in base alle norme di cui alla [legge 10 febbraio 1962, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-02-10;57), e successive modificazioni e integrazioni, e al [decreto del Presidente del Consiglio dei ministri 10 gennaio 1991, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1991-01-10;55), come integrato dalle disposizioni di cui al comma 2 del presente articolo.
+ Fermo restando quanto disposto dall'articolo 8, fino al 31 dicembre 1999 la partecipazione alle procedure di affidamento dei lavori pubblici e' altresi' ammessa in base alle norme di cui alla [legge 10 febbraio 1962, n. 57](Istituzione%20dellAlbo%20nazionale%20dei%20costruttori.md), e successive modificazioni e integrazioni, e al [decreto del Presidente del Consiglio dei ministri 10 gennaio 1991, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1991-01-10;55), come integrato dalle disposizioni di cui al comma 2 del presente articolo.
  2. Le disposizioni di cui al [D.P.C.M. 10 gennaio 1991, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1991-01-10;55), sono integrate con decreto del Presidente del Consiglio dei ministri ai sensi dell'[articolo 17, comma 2, della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_17-com2), per quanto attiene al periodo di riferimento nonche' alla determinazione dei parametri e dei coefficienti, differenziati per importo dei lavori, relativi ai requisiti economico-finanziari e tecnico-organizzativi che i concorrenti debbono possedere per la partecipazione alle procedure di affidamento di lavori pubblici.
  3. Il Ministro dei lavori pubblici, con proprio decreto da emanarsi entro novanta giorni dalla data di entrata in vigore della presente legge, sentito il comitato centrale per l'Albo nazionale dei costruttori, articola l'attuale sistema di categorie in opere generali e in opere specializzate e le ridetermina adeguandole ai criteri di cui al comma 2. Il predetto decreto reca inoltre disposizioni in ordine ad un piu' stretto riferimento tra iscrizione ad una categoria e specifica capacita' tecnico-operativa, da individuarsi sulla base della idoneita' tecnica, dell'attrezzatura tecnica, della manodopera impiegata e della capacita' finanziaria ed imprenditoriale.
- 4. Con il decreto di cui al comma 3, e' istituita una apposita categoria per le attivita' di scavo archeologico, restauro e manutenzione dei beni sottoposti a tutela ai sensi della [legge 1o giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089) e successive modificazioni.
+ 4. Con il decreto di cui al comma 3, e' istituita una apposita categoria per le attivita' di scavo archeologico, restauro e manutenzione dei beni sottoposti a tutela ai sensi della [legge 1o giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md) e successive modificazioni.
  4-bis. Per le iscrizioni di competenza del Comitato centrale dell'Albo nazionale dei costruttori non e' richiesto il parere consultivo del comitato regionale".
 
 ### Art. 83. — Appalto per l'esecuzione dei lavori congiunto all'acquisizione di beni immobili
@@ -2524,10 +2524,10 @@ Le amministrazioni aggiudicatrici possono prevedere la facolta' per i concorrent
 
 Note all'art. 85:
 
- Il testo dell'[articolo 2, comma 4, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_2-com4) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 2, comma 4, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.2 (Ambito oggettivo e soggettivo di applicazione della legge). 4. I concessionari di lavori pubblici di cui al comma 2, lettera b), sono obbligati ad appaltare a terzi attraverso pubblico incanto o licitazione privata i lavori pubblici non realizzati direttamente o tramite imprese controllate che devono essere espressamente indicate in sede di candidatura, con la specificazione anche delle rispettive quote dei lavori da eseguire; l'elenco delle imprese controllate viene successivamente aggiornato secondo le modifiche che intervengono nei rapporti tra le imprese. I requisiti di qualificazione previsti dalla presente legge per gli esecutori sono richiesti al concessionario ed alle imprese controllate, nei limiti dei lavori oggetto della concessione eseguiti direttamente. Le amministrazioni aggiudicatrici devono prevedere nel bando l'obbligo per il concessionario di appaltare a terzi una percentuale minima del 40 per cento dei lavori oggetto della concessione. Le imprese controllate devono eseguire i lavori secondo quanto disposto dalle norme della presente legge. Ai fini del presente comma si intendono per soggetti terzi anche le imprese collegate; le situazioni di controllo e di collegamento si determinano secondo quanto previsto dall'[articolo 2359 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359)".
 
- Il testo dell'[articolo 37 quinquies, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_37quinquies) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 37 quinquies, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.37 (Gestione delle casse edili). 1. Il Ministro dei lavori pubblici e il Ministro del lavoro e della previdenza sociale promuovono la sottoscrizione di un protocollo d'intesa tra le parti sociali interessate per l'adeguamento della gestione delle casse edili, anche al fine di favorire i processi di mobilita' dei lavoratori. Qualora l'intesa non venga sottoscritta entro un anno dalla data di entrata in vigore della presente legge, i diversi organismi paritetici istituiti attraverso la contrattazione collettiva devono intendersi reciprocamente riconosciuti tutti i diritti, i versamenti, le indennita' e le prestazioni che i lavoratori hanno maturato presso gli enti nei quali sono stati iscritti".
 
 ### Art. 86. — Schema di contratto
@@ -2566,7 +2566,7 @@ Lo schema di contratto di concessione indica:
 
 Note all'art. 86:
 
- Per il testo dell'[articolo 2, comma 4, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_2-com4) e successive modificazioni si veda in note all'articolo 85.
+ Per il testo dell'[articolo 2, comma 4, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 85.
 
 ### Art. 87. — Contenuti dell'offerta
 
@@ -2628,7 +2628,7 @@ Nel bilancio di previsione sono tenuti distinti gli stanziamenti per gli interve
 
 Note all'art. 88:
 
- Il testo dell'[articolo 19, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_19) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 19, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 19 (Sistemi di realizzazione dei lavori pubblici).
  01. I lavori pubblici di cui alla presente legge possono essere realizzati esclusivamente mediante contratti di appalto o di concessione di lavori pubblici, salvo quanto previsto all'articolo 24, comma 6.
  1. I contratti di appalto di lavori pubblici di cui alla presente legge sono contratti a titolo oneroso, conclusi in forma scritta tra un imprenditore e un soggetto di cui all'articolo 2, comma 2, aventi per oggetto:
@@ -2646,7 +2646,7 @@ Note all'art. 88:
  5-ter. In sostituzione totale o parziale delle somme di denaro costituenti il corrispettivo dell'appalto, il bando di gara puo' prevedere il trasferimento all'appaltatore della proprieta' di beni immobili appartenenti al l'amministrazione aggiudicatrice gia' indicati nel programma di cui all'articolo 14 in quanto non assolvono piu' a funzioni di interesse pubblico; fermo restando che detto trasferimento avviene non appena approvato il certificato di collaudo dei lavori, il bando di gara puo' prevedere un momento antecedente per l'immissione nel possesso dell'immobile.
  5-quater. La gara avviene tramite offerte che possono riguardare la sola acquisizione dei beni, la sola esecuzione dei lavori, ovvero congiuntamente l'esecuzione dei lavori e l'acquisizione dei beni. L'aggiudicazione avviene in favore della migliore offerta congiunta relativa alla esecuzione dei lavori e alla acquisizione dei beni ovvero in favore delle due migliori offerte separate relative, rispettivamente, alla acquisizione dei beni ed alla esecuzione dei lavori, qualora la loro combinazione risulti piu' conveniente per l'amministrazione aggiudicatrice rispetto alla predetta migliore offerta congiunta. La gara si intende deserta qualora non siano presentate offerte per l'acquisizione del bene. Il regolamento di cui all'articolo 3, comma 2, disciplina compiutamente le modalita' per l'effettuazione della stima degli immobili di cui al comma 5-ter nonche' le modalita' di aggiudicazione.
 
- Il testo dell'[articolo 20, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_20) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 20, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.20 (Procedure di scelta del contraente). 1. Gli appalti di cui all'articolo 19 sono affidati mediante pubblico incanto o licitazione privata.
  2. Le concessioni di cui all'articolo 19 sono affidate mediante licitazione privata, ponendo a base di gara un progetto preliminare corredato, comunque, anche degli elaborati relativi alle preliminari essenziali indagini geologiche, geotecniche, idrologiche e sismiche; l'offerta ha ad oggetto gli elementi di cui all'articolo 21, comma 2, lettera b), nonche' le eventuali proposte di varianti al progetto posto a base della gara; i lavori potranno avere inizio soltanto dopo l'approvazione del progetto esecutivo da parte dell'amministrazione aggiudicatrice.
  3. Gli appalti possono essere affidati anche attraverso appalto-concorso o trattativa privata esclusivamente nei casi e secondo le modalita' previsti dalla presente legge.
@@ -2676,7 +2676,7 @@ Nel caso di lavori di importo inferiore al controvalore in Euro di 5.000.000 di 
 
 Note all'art. 89:
 
- Il testo dell'[articolo 21, comma 1 bis, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_21-com1bis) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 21, comma 1 bis, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.21 (Criteri di aggiudicazione - Commissioni giudicatrici). 1-bis. Nei casi di aggiudicazione di lavori di importo pari o superiore a 5 milioni di ECU con il criterio del prezzo piu' basso di cui al comma 1, l'amministrazione interessata deve valutare l'anomalia delle offerte di cui all'[articolo 30 della direttiva 93/37/CEE del Consiglio, del 14 giugno 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;37), relativamente a tutte le offerte che presentino un ribasso pari o superiore alla media aritmetica dei ribassi percentuali di tutte le offerte ammesse, con esclusione del dieci per cento, arrotondato all'unita' superiore, rispettivamente delle offerte di maggior ribasso e di quelle di minor ribasso, incrementata dello scarto medio aritmetico dei ribassi percentuali che superano la predetta media. A tal fine la pubblica amministrazione prende in considerazione entro il termine di sessanta giorni dalla data di presentazione delle offerte esclusivamente giustificazioni fondate sull'economicita' del procedimento di costruzione o delle soluzioni tecniche adottate o sulle condizioni particolarmente favorevoli di cui gode l'offerente, con esclusione, comunque, di giustificazioni relativamente a tutti quegli elementi i cui valori minimi sono stabiliti da disposizioni legislative, regolamentari o amministrative, ovvero i cui valori sono rilevabili da dati ufficiali. Le offerte debbono essere corredate, fin dalla loro presentazione, da giustificazioni relativamente alle voci di prezzo piu' significative, indicate nel bando di gara o nella lettera d'invito, che concorrono a formare un importo non inferiore al 75 per cento di quello posto a base d'asta. Relativamente ai soli appalti di lavori pubblici di importo inferiore alla soglia comunitaria, l'amministrazione interessata procede all'esclusione automatica dalla gara delle offerte che presentino una percentuale di ribasso pari o superiore a quanto stabilito ai sensi del primo periodo del presente comma. La procedura di esclusione automatica non e' esercitabile qualora il numero delle offerte valide risulti inferiore a cinque".
 
 ### Art. 90. — Aggiudicazione al prezzo piu' basso determinato mediante offerta a prezzi unitari
@@ -2715,11 +2715,11 @@ Le sedute di gara possono essere sospese ed aggiornate ad altra ora o ad un gior
 
 Note all'art. 90:
 
- Per il testo dell'[articolo 19, comma 4, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_19-com4) e successive modificazioni si veda in note all'articolo 88.
+ Per il testo dell'[articolo 19, comma 4, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 88.
 
- Il testo dell'[articolo 21, comma 1, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_21-com1) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 21, comma 1, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.21 (Criteri di aggiudicazione - Commissioni giudicatrici). 1. L'aggiudicazione degli appalti mediante pubblico incanto o licitazione privata e' effettuata con il criterio del prezzo piu' basso, inferiore a quello posto a base di gara, determinato:
- a) per i contratti da stipulare a misura, mediante ribasso sull'elenco prezzi posto a base di gara ovvero mediante offerta a prezzi unitari, anche riferiti a sistemi o sub-sistemi di impianti tecnologici, ai sensi dell'[articolo 5 della legge 2 febbraio 1973, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-02-02;14#art_5), per quanto compatibile;
+ a) per i contratti da stipulare a misura, mediante ribasso sull'elenco prezzi posto a base di gara ovvero mediante offerta a prezzi unitari, anche riferiti a sistemi o sub-sistemi di impianti tecnologici, ai sensi dell'[articolo 5 della legge 2 febbraio 1973, n. 14](Norme%20sui%20procedimenti%20di%20gara%20negli%20appalti%20di%20opere%20pubbliche%20mediante%20licitazione%20privata.md), per quanto compatibile;
  b) per i contratti da stipulare a corpo, mediante ribasso sull'importo dei lavori posto a base di gara ovvero mediante la predetta offerta a prezzi unitari;
  c) per i contratti da stipulare a corpo e a misura, mediante la predetta offerta a prezzi unitari".
 
@@ -2743,7 +2743,7 @@ La stazione appaltante puo' altresi procedere alla verifica prevista all'articol
 
 Note all'art. 91:
 
- Il testo dell'[articolo 21, comma 2, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_21-com2) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 21, comma 2, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.21 (Criteri di aggiudicazione - Commissioni giudicatrici). 2. L'aggiudicazione degli appalti mediante appalto-concorso nonche' l'affidamento di concessioni mediante licitazione privata avvengono con il criterio dell'offerta economicamente piu' vantaggiosa, prendendo in considerazione i seguenti elementi variabili in relazione all'opera da realizzare:
  a) nei casi di appalto-concorso:
  1) il prezzo;
@@ -2776,7 +2776,7 @@ L'atto di nomina dei membri della commissione ne determina il compenso e fissa i
 
 4.
 
-Al momento dell'accettazione dell'incarico, i commissari dichiarano ai sensi dell'[articolo 4 della legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15#art_4) e successive modificazioni l'inesistenza delle cause di incompatibilita' di cui all'articolo 21, comma 5, della Legge.
+Al momento dell'accettazione dell'incarico, i commissari dichiarano ai sensi dell'[articolo 4 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e successive modificazioni l'inesistenza delle cause di incompatibilita' di cui all'articolo 21, comma 5, della Legge.
 
 5.
 
@@ -2784,14 +2784,14 @@ Il componente di commissione giudicatrice che abbia un qualsiasi interesse perso
 
 Note all'art. 92:
 
- Il testo dell'[articolo 21, comma 4, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_21-com4) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 21, comma 4, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.21 (Criteri di aggiudicazione - Commissioni giudicatrici). 4. Qualora l'aggiudicazione o l'affidamento dei lavori avvenga ai sensi del comma 2, la valutazione e' affidata ad una commissione giudicatrice secondo le norme stabilite dal regolamento".
 
- La [legge 4 gennaio 1968, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15) e successive modificazioni (Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme) e' pubblicata nella Gazzetta Ufficiale del 27 gennaio 1968, n. 23. Il testo dell'artico 4 della sopracitata legge e' il seguente:
+ La [legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e successive modificazioni (Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme) e' pubblicata nella Gazzetta Ufficiale del 27 gennaio 1968, n. 23. Il testo dell'artico 4 della sopracitata legge e' il seguente:
  "Art. 4 (Dichiarazione sostitutiva dell'atto di notorieta') L'atto di notorieta' concernente fatti, stati o qualita' personali che siano a diretta conoscenza dell'interessato e' sostituito da dichiarazione resa e sottoscritta dal medesimo dinanzi al funzionario competente a ricevere la documentazione, o dinanzi ad un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco, il quale provvede alla autenticazione della sottoscrizione con la osservanza delle modalita' di cui all'art. 20.
  Quando la dichiarazione sostitutiva dell'atto di notorieta' e' resa ad imprese di gestione di servizi pubblici, la sottoscrizione e' autenticata, con l'osservanza delle modalita' di cui all'articolo 20, dal funzionario incaricato dal rappresentante legale dell'impresa stessa".
 
- Il testo dell'[articolo 21, comma 5, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_21-com5) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 21, comma 5, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.21 (Criteri di aggiudicazione - Commissioni giudicatrici). 5. La commissione giudicatrice, nominata dall'organo competente ad effettuare la scelta dell'aggiudicatario od affidatario dei lavori oggetto della procedura, e' composta da un numero dispari di componenti non superiore a cinque, esperti nella specifica materia cui si riferiscono i lavori. La commissione e presieduta da un dirigente dell'amministrazione aggiudicatrice o dell'ente aggiudicatore. I commissari non debbono aver svolto ne' possono svolgere alcuna altra funzione od incarico tecnico od amministrativo relativamente ai lavori oggetto della procedura, e non possono far parte di organismi che abbiano funzioni di vigilanza o di controllo rispetto ai lavori medesimi. Coloro che nel quadriennio precedente hanno rivestito cariche di pubblico amministratore non possono essere nominati commissari relativamente ad appalti o concessioni aggiudicati dalle amministrazioni presso le quali hanno prestato servizio. Non possono essere nominati commissari coloro i quali abbiano gia' ricoperto tale incarico relativamente ad appalti o concessioni affidati nel medesimo territorio provinciale ove e' affidato l'appalto o la concessione cui l'incarico fa riferimento, se non decorsi tre anni dalla data della precedente nomina.
  Sono esclusi da successivi incarichi coloro che, in qualita' di membri delle commissioni aggiudicatrici, abbiano concorso, con dolo o colpa grave accertata in sede giurisdizionale, all'approvazione di atti dichiarati conseguentemente illegittimi".
 
@@ -2819,7 +2819,7 @@ Le imprese riunite in associazione temporanea devono eseguire i lavori nella per
 
 Note all'art. 93:
 
- Per il testo dell'[articolo 13, comma 5 bis, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_13-com5bis) e successive modificazioni si veda in note all'articolo 108.
+ Per il testo dell'[articolo 13, comma 5 bis, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 108.
 
 ### Art. 94. — Fallimento dell'impresa mandataria o di un'impresa mandante
 
@@ -2863,7 +2863,7 @@ Ai fini del presente regolamento, il rapporto di mandato non determina di per se
 
 Note all'art. 95:
 
- Per il testo dell'[articolo 10, comma 1, lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-letd), [e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-lete) ed [e-bis), della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-letebis) e successive modificazioni si veda in note all'articolo 99.
+ Per il testo dell'[articolo 10, comma 1, lettere d)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), [e)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) ed [e-bis), della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 99.
 
 ### Art. 96. — Societa' tra imprese riunite
 
@@ -2911,15 +2911,15 @@ In caso di scioglimento del consorzio stabile ai consorziati sono attribuiti pro
 
 Note all'art. 97:
 
- Per il testo dell'[articolo 10, comma 1, lettere c), della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1-letc) e successive modificazioni si veda in note all'articolo 99.
+ Per il testo dell'[articolo 10, comma 1, lettere c), della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 99.
 
- Il testo dell'[articolo 12 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_12) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 12 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 12 (Consorzi stabili), I. Si intendono per consorzi stabili quelli, in possesso, a norma dell'articolo 11, dei requisiti previsti dagli articoli 8 e 9 formati da non meno di tre consorziati che, con decisione assunta dai rispettivi organi deliberativi, abbiano stabilito di operare esclusivamente in modo congiunto nel settore dei lavori pubblici, per un periodo di tempo non inferiore a cinque anni, istituendo a tal fine una comune struttura di impresa.
  2. Il regolamento detta le norme per l'iscrizione fino al 31 dicembre 1999 dei consorzi stabili all'Albo nazionale dei costruttori. Il medesimo regolamento stabilisce altresi' le condizioni ed i limiti alla facolta' del consorzio di eseguire i lavori anche tramite affidamento ai consorziati, fatta salva la responsabilita' solidale degli stessi nei confronti del soggetto appaltante o concedente; stabilisce inoltre i criteri di attribuzione ai consorziati dei requisiti economico-finanziari e tecnico-organizzativi maturati a favore del consorzio in caso di scioglimento dello stesso, purche' cio' avvenga non oltre sei anni dalla data di costituzione.
  3. Il regolamento di cui all'articolo 8, comma 2, detta le norme per l'applicazione del sistema di qualificazione di cui al medesimo articolo 8 ai consorzi stabili e ai partecipanti ai consorzi medesimi.
  4. Ai consorzi stabili si applicano, in quanto compatibili, le disposizioni di cui al capo II del titolo X del libro quinto del [codice civile, nonche' l'articolo 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_18) della [legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55), come modificato dall'articolo 34 della presente legge.
- 5. E' vietata la partecipazione alla medesima procedura di affidamento dei lavori pubblici del consorzio stabile e dei consorziati. In caso di inosservanza di tale divieto si applica l'[articolo 353 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_353). E' vietato ai singoli partecipanti ai consorzi stabili costituire tra loro o con terzi consorzi e associazioni temporanee ai sensi dell'art. 10, comma 1, lettere b), d), e) ed e-bis), nonche' piu' di un consorzio stabile.
- 6. Tutti gli atti relativi ai consorzi di cui al comma 1, previsti all'articolo 4 della parte I della tariffa allegata al testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131), e successive modificazioni, sono soggetti alle imposte di registro, ipotecarie e catastali in misura fissa. Non e' dovuta la tassa sulle concessioni governative posta a carico delle societa' ai sensi dell'[articolo 3, commi 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_3-com18) e [19, del D.L. 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_3-com19), convertito, con modificazioni, dalla [L. 17 febbraio 1985, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-17;17), e successive modificazioni.
+ 5. E' vietata la partecipazione alla medesima procedura di affidamento dei lavori pubblici del consorzio stabile e dei consorziati. In caso di inosservanza di tale divieto si applica l'[articolo 353 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). E' vietato ai singoli partecipanti ai consorzi stabili costituire tra loro o con terzi consorzi e associazioni temporanee ai sensi dell'art. 10, comma 1, lettere b), d), e) ed e-bis), nonche' piu' di un consorzio stabile.
+ 6. Tutti gli atti relativi ai consorzi di cui al comma 1, previsti all'articolo 4 della parte I della tariffa allegata al testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), e successive modificazioni, sono soggetti alle imposte di registro, ipotecarie e catastali in misura fissa. Non e' dovuta la tassa sulle concessioni governative posta a carico delle societa' ai sensi dell'[articolo 3, commi 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_3-com18) e [19, del D.L. 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_3-com19), convertito, con modificazioni, dalla [L. 17 febbraio 1985, n. 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201984%20n.%20853%20recante%20disposizioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20imposte%20sul%20reddito%20e%20disposizioni%20rel_0b6b4cacfea3.md), e successive modificazioni.
  7. Le plusvalenze derivanti da conferimenti di beni effettuati negli enti di cui al comma 1 non sono soggette alle imposte sui redditi.
  8. I benefici di cui ai commi 6 e 7 si applicano fino al 31 dicembre 1997".
 
@@ -2951,9 +2951,9 @@ Qualora il candidato alla concessione sia costituito da un raggruppamento tempor
 
 Note all'art. 98:
 
- Per il testo dell'[articolo 8 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_8) e successive modificazioni si veda in note all'articolo 82.
+ Per il testo dell'[articolo 8 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 82.
 
- Per il testo dell'[articolo 9 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_9) e successive modificazioni si veda in note all'articolo 82.
+ Per il testo dell'[articolo 9 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 82.
 
 ### Art. 99. — Requisiti del promotore
 
@@ -2971,25 +2971,25 @@ Al Fine di ottenere l'affidamento della concessione, il promotore deve comunque 
 
 Note all'art. 99:
 
- Il testo dell'[articolo 37-bis della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_37bis) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 37-bis della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.37-bis (Promotore). 1. Entro il 30 giugno di ogni anno i soggetti di cui al comma 2, di seguito denominati "promotori" possono presentare alle amministrazioni aggiudicatrici proposte relative alla realizzazione di lavori pubblici o di lavori di pubblica utilita', inseriti nella programmazione triennale di cui all'articolo 14, comma 2, ovvero negli strumenti di programmazione formalmente approvati dall'amministrazione aggiudicatrice sulla base della normativa vigente, tramite contratti di concessione, di cui all'articolo 19, comma 2, con risorse totalmente o parzialmente a carico dei promotori stessi. Le proposte devono contenere uno studio di inquadramento territoriale e ambientale, uno studio di fattibilita', un progetto preliminare, una bozza di convenzione, un piano economico-finanziario asseverato da un istituto di credito, una specificazione delle caratteristiche del servizio e della gestione nonche' l'indicazione degli elementi di cui all'articolo 21, comma 2, lettera b), e delle garanzie offerte dal promotore all'amministrazione aggiudicatrice.
  Le proposte devono inoltre indicare l'importo delle spese sostenute per la loro predisposizione comprensivo anche dei diritti sulle opere d'ingegno di cui all'[articolo 2578 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2578). Tale importo, soggetto all'accettazione da parte della amministrazione aggiudicatrice, non puo' superare il 2,5 per cento del valore dell'investimento, come desumibile dal piano economico-finanziario.
  2. Possono presentare le proposte di cui al comma 1 i soggetti dotati di idonei requisiti tecnici, organizzativi, finanziari e gestionali, specificati dal regolamento, nonche' i soggetti di cui agli articoli 10 e 17, comma 1, lettera f), eventualmente associati o consorziati con enti finanziatori e con gestori di servizi".
 
- Il testo dell'[articolo 10 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 10 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.10 (Soggetti ammessi alle gare). 1. Sono ammessi a partecipare alle procedure di affidamento dei lavori pubblici i seguenti soggetti:
  a) le imprese individuali, anche artigiane, le societa' commerciali, le societa' cooperative, secondo le disposizioni di cui agli articoli 8 e 9;
  b) i consorzi fra societa' cooperative di produzione e lavoro costituiti a norma della [legge 25 giugno 1909, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422), e successive modificazioni, e i consorzi tra imprese artigiane di cui alla [legge 8 agosto 1985, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443), sulla base delle disposizioni di cui agli articoli 8 e 9 della presente legge;
  c) i consorzi stabili costituiti anche in forma di societa' consortili ai sensi dell'[articolo 2615-ter del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2615ter), tra imprese individuali, anche artigiane, societa' commerciali, societa' cooperative di produzione e lavoro, secondo le disposizioni di cui all'articolo 12 della presente legge;
  d) le associazioni temporanee di concorrenti, costituite dai soggetti di cui alle lettere a), b) e c), i quali, prima della presentazione dell'offerta, abbiano conferito mandato collettivo speciale con rappresentanza ad uno di essi, qualificato capogruppo, il quale esprime l'offerta in nome e per conto proprio e dei mandanti; si applicano al riguardo le disposizioni di cui all'articolo 13;
  e) i consorzi di concorrenti di cui all'[articolo 2602 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2602), costituiti tra i soggetti di cui alle lettere a), b) e c) del presente comma anche in forma di societa' ai sensi dell'[articolo 2615 ter del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2615ter); si applicano al riguardo le disposizioni di cui all'articolo 13 della presente legge;
- e-bis) i soggetti che abbiano stipulato il contratto di gruppo europeo di interesse economico (GEIE) ai sensi del [decreto legislativo 23 luglio 1991, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-07-23;240); si applicano al riguardo le disposizioni di cui all'articolo 13.
+ e-bis) i soggetti che abbiano stipulato il contratto di gruppo europeo di interesse economico (GEIE) ai sensi del [decreto legislativo 23 luglio 1991, n. 240](../Decreti%20Legislativi/Norme%20per%20lapplicazione%20del%20regolamento%20n.%2085-2137-CEE%20relativo%20allistituzione%20di%20un%20Gruppo%20europeo%20di%20interesse%20economico%20-%20GEIE%20ai%20sensi%20dellart.%2017%20della%20legge%2029%20dicembre%201990%20n.%20428.md); si applicano al riguardo le disposizioni di cui all'articolo 13.
  1-bis. Non possono partecipare alla medesima gara imprese che si trovino fra di loro in una delle situazioni di controllo di cui all'[articolo 2359 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359).
  1-ter. I soggetti di cui all'articolo 2, comma 2, possono prevedere nel bando la facolta', in caso di fallimento o di risoluzione del contratto per grave inadempimento dell'originario appaltatore, di interpellare il secondo classificato al fine di stipulare un nuovo contratto per il completamento dei lavori alle medesime condizioni economiche gia' proposte in sede di offerta. I soggetti di cui all'articolo 2, comma 2, in caso di fallimento del secondo classificato, possono interpellare il terzo classificato e, in tal caso, il nuovo contratto e' stipulato alle condizioni economiche offerte dal secondo classificato.
  1-quater. I soggetti di cui all'articolo 2, comma 2, prima di procedere all'apertura delle buste delle offerte presentate, richiedono ad un numero di offerenti non inferiore al 10 per cento delle offerte presentate, arrotondato all'unita' superiore, scelti con sorteggio pubblico, di comprovare, entro dieci giorni dalla data della richiesta medesima, il possesso dei requisiti di capacita' economico-finanziaria e tecnico-organizzativa, eventualmente richiesti nel bando di gara, presentando la documentazione indicata in detto bando o nella lettera di invito. Quando tale prova non sia fornita, ovvero non confermi le dichiarazioni contenute nella domanda di partecipazione o nell'offerta, i soggetti aggiudicatori procedono all'esclusione del concorrente dalla gara, alla escussione della relativa cauzione provvisoria e alla segnalazione del fatto all'Autorita' per i provvedimenti di cui all'articolo 4, comma 7, nonche' per l'applicazione delle misure sanzionatorie di cui all'articolo 8, comma 7.
  La suddetta richiesta e', altresi', inoltrata, entro dieci giorni dalla conclusione delle operazioni di gara, anche all'aggiudicatario e al concorrente che segue in graduatoria, qualora gli stessi non siano compresi fra i concorrenti sorteggiati, e nel caso in cui essi non forniscano la prova o non confermino le loro dichiarazioni si applicano le suddette sanzioni e si procede alla determinazione della nuova soglia di anomalia dell'offerta ed alla conseguente eventuale nuova aggiudicazione".
 
- Per il testo dell'[articolo 17, comma 1, lettera f), della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com1-letf) e successive modificazioni si veda in note all'articolo 50.
+ Per il testo dell'[articolo 17, comma 1, lettera f), della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 50.
 
 ## GARANZIE
 
@@ -3007,7 +3007,7 @@ La cauzione provvisoria deve essere accompagnata dall'impegno di un fidejussore 
 
 Note all'art. 100:
 
- Il testo dell'[articolo 30, comma 1, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_30-com1) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 30, comma 1, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.30 (Garanzie e coperture assicurative). 1. L'offerta da presentare per l'affidamento dell'esecuzione dei lavori pubblici e' corredata da una cauzione pari al 2 per cento dell'importo dei lavori, da prestare anche mediante fideiussione bancaria o assicurativa e dall'impegno del fideiussore a rilasciare la garanzia di cui al comma 2, qualora l'offerente risultasse aggiudicatario. La cauzione copre la mancata sottoscrizione del contratto per fatto dell'aggiudicatario ed e' svincolata automaticamente al momento della sottoscrizione del contratto medesimo. Ai non aggiudicatari la cauzione e' restituita entro trenta giorni dall'aggiudicazione".
 
 ### Art. 101. — Cauzione definitiva
@@ -3066,7 +3066,7 @@ L'omesso o il ritardato pagamento delle somme dovute a titolo di premio da parte
 
 Note all'art. 103:
 
- Il testo dell'[articolo 30, comma 3, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_30-com3) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 30, comma 3, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.30 (Garanzie e coperture assicurative). 3. L'esecutore dei lavori e' altresi' obbligato a stipulare una polizza assicurativa che tenga indenni le amministrazioni aggiudicatrici e gli altri enti aggiudicatori o realizzatori da tutti i rischi di esecuzione da qualsiasi causa determinati, salvo quelli derivanti da errori di progettazione, insufficiente progettazione, azioni di terzi o cause di forza maggiore, e che preveda anche una garanzia di responsabilita' civile per danni a terzi nell'esecuzione dei lavori sino alla data di emissione del certificato di collaudo provvisorio".
 
 ### Art. 104. — Polizza di assicurazione indennitaria decennale
@@ -3085,7 +3085,7 @@ La liquidazione della rata di saldo e' subordinata all'accensione delle polizze 
 
 Note all'art. 104:
 
- Il testo dell'[articolo 30, comma 4, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_30-com4) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 30, comma 4, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.30 (Garanzie e coperture assicurative). 4. Per i lavori il cui importo superi gli ammontari stabiliti con decreto del Ministro dei lavori pubblici, l'esecutore e' inoltre obbligato a stipulare, con decorrenza dalla data di emissione del certificato di collaudo provvisorio, una polizza indennitaria decennale, nonche' una polizza per responsabilita' civile verso terzi, della medesima durata, a copertura dei rischi di rovina totale o parziale dell'opera, ovvero dei rischi derivanti da gravi difetti costruttivi".
 
 ### Art. 105. — Polizza assicurativa del progettista
@@ -3122,7 +3122,7 @@ Qualora l'assicuratore non proceda alla comunicazione di cui al comma 6, ovvero 
 
 Note all'art. 105:
 
- Per il testo dell'[articolo 30, comma 5, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_30-com5) e successive modificazioni si veda in note all'articolo 63.
+ Per il testo dell'[articolo 30, comma 5, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 63.
 
 ### Art. 106. — Polizza assicurativa del dipendente incaricato della progettazione
 
@@ -3132,7 +3132,7 @@ Qualora la progettazione sia affidata a proprio dipendente, la stazione appaltan
 
 Note all'art. 106:
 
- Per il testo dell'[articolo 25, comma 1, lettera d), della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_25-com1-letd) e successive modificazioni si veda in note all'articolo 134.
+ Per il testo dell'[articolo 25, comma 1, lettera d), della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 134.
 
 ### Art. 107. — Requisiti dei fideiussori
 
@@ -3165,7 +3165,7 @@ In caso di riunione di concorrenti ai sensi dell'articolo 13 della Legge, le gar
 
 Note all'art. 108:
 
- Il testo dell'[articolo 13, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_13) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 13, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 13 (Riunione di concorrenti). 1. La partecipazione alle procedure di affidamento delle associazioni temporanee e dei consorzi di cui all'articolo 10, comma 1, lettere d) ed e), e' ammessa a condizione che il mandatario o il capogruppo, nonche' gli altri partecipanti, siano gia' in possesso dei requisiti di qualificazione, accertati e attestati ai sensi dell'articolo 8, per la quota percentuale indicata nel regolamento di cui al medesimo articolo 8, comma 2, per ciascuno di essi in conformita' a quanto stabilito dal [D.P.C.M. 10 gennaio 1991, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1991-01-10;55).
  2. L'offerta dei concorrenti associati o dei consorziati di cui al comma 1 determina la loro responsabilita' solidale nei confronti dell'Amministrazione nonche' nei confronti delle imprese subappaltanti e dei fornitori. Per gli assuntori di lavori scorporabili la responsabilita' e' limitata all'esecuzione dei lavori di rispettiva competenza, ferma restando la responsabilita' solidale del mandatario o del capogruppo.
  3. Per le associazioni temporanee di tipo verticale i requisiti di cui agli articoli 8 e 9, sempre che siano frazionabili, devono essere posseduti dal mandatario o capogruppo per i lavori della categoria prevalente e per il relativo importo; per i lavori scorporati ciascun mandante deve possedere i requisiti previsti per l'importo della categoria dei lavori che intende assumere e nella misura indicata per il concorrente singolo.
@@ -3222,7 +3222,7 @@ Sono esclusi dal contratto tutti gli elaborati progettuali diversi da quelli ele
 
 Note all'art. 110:
 
- Il testo dell'[articolo 31, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_31) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 31, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.31 (Piani di sicurezza). 1. Entro sei mesi dalla data di entrata in vigore della presente legge il Governo, su proposta dei Ministri del lavoro e della previdenza sociale, della sanita' e dei lavori pubblici, sentite le organizzazioni sindacali e imprenditoriali maggiormente rappresentative, emana un regolamento in materia di piani di sicurezza nei cantieri edili in conformita' alle [direttive 89/391/CEE del Consiglio, del 12 giugno 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;391), [92/57/CEE del Consiglio, del 24 giugno 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;57), e alla relativa normativa nazionale di recepimento.
  1-bis. Entro trenta giorni dall'aggiudicazione, e comunque prima della consegna dei lavori, l'appaltatore od il concessionario redige e consegna ai soggetti di cui all'articolo 2, comma 2:
  a) eventuali proposte integrative del piano di sicurezza e di coordinamento e del piano generale di sicurezza quando questi ultimi siano previsti ai sensi del [decreto legislativo 14 agosto 1996, n. 494](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-57-CEE%20concernente%20le%20prescrizioni%20minime%20di%20sicurezza%20e%20di%20salute%20da%20attuare%20nei%20cantieri%20temporanei%20o%20mobili.md);
@@ -3318,7 +3318,7 @@ In ogni caso, l'amministrazione ceduta puo' opporre al cessionario tutte le ecce
 
 Note all'art. 115:
 
- Il testo dell'[articolo 26, comma 5, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_26-com5) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 26, comma 5, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.26 (Disciplina economica dell'esecuzione dei lavori pubblici) 5. Le disposizioni di cui alla [legge 21 febbraio 1991, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-02-21;52), sono estese ai crediti verso le pubbliche amministrazioni derivanti da contratti di appalto di lavori pubblici, di concessione di lavori pubblici e da contratti di progettazione nell'ambito della realizzazione di lavori pubblici".
 
 ### Art. 116. — Ritardato pagamento
@@ -3341,10 +3341,10 @@ L'importo degli interessi per ritardato pagamento viene computato e corrisposto 
 
 Note all'art. 116:
 
- Il testo dell'[articolo 26, comma 1, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_26-com1) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 26, comma 1, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.26 (Disciplina economica dell'esecuzione dei lavori pubblici) 1. In caso di ritardo nella emissione dei certificati di pagamento o dei titoli di spesa relativi agii acconti, rispetto alle condizioni e ai termini stabiliti dal capitolato speciale, che non devono comunque superare quelli fissati dal capitolato generale, spettano all'esecutore dei lavori gli interessi, legali e moratori, questi ultimi nella misura accertata annualmente con decreto del Ministro dei lavori pubblici, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, ferma restando la sua facolta', trascorsi i termini di cui sopra o, nel caso in cui l'ammontare delle rate di acconto, per le quali non sia stato tempestivamente emesso il certificato o il titolo di spesa, raggiunga il quarto dell'importo netto contrattuale, di agire ai sensi dell'[articolo 1460 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1460), ovvero, previa costituzione in mora dell'Amministrazione e trascorsi sessanta giorni dalla data della costituzione stessa, di promuovere il giudizio arbitrale per la dichiarazione di risoluzione del contratto".
 
- Il testo dell'[articolo 28, comma 9, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_28-com9) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 28, comma 9, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.28 (Collaudi e vigilanza). 9. Il pagamento della rata di saldo, disposto previa garanzia fideiussoria, deve essere effettuato non oltre il novantesimo giorno dall'emissione del certificato di collaudo provvisorio ovvero del certificato di regolare esecuzione e non costituisce presunzione di accettazione dell'opera, ai sensi dell'[articolo 1666, secondo comma, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1666-com2)"
 
 ### Art. 117. — Penali
@@ -3374,11 +3374,11 @@ Qualora la disciplina contrattuale preveda l'esecuzione della prestazione artico
 
 1.
 
-Qualora nei confronti dell'appaltatore sia intervenuta l'emanazione di un provvedimento definitivo che dispone l'applicazione di una o piu' misure di prevenzione di cui all'[articolo 3, della legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423#art_3), ovvero sia intervenuta sentenza di condanna passata in giudicato per frodi nei riguardi della stazione appaltante, di subappaltatori, di fornitori, di lavoratori o di altri soggetti comunque interessati ai lavori, nonche' per violazione degli obblighi attinenti alla sicurezza sul lavoro, il responsabile del procedimento valuta, in relazione allo stato dei lavori e alle eventuali conseguenze nei riguardi delle finalita' dell'intervento, l'opportunita' di procedere alla risoluzione del contratto. Nel caso di risoluzione, l'appaltatore ha diritto soltanto al pagamento dei lavori regolarmente eseguiti, decurtato degli oneri aggiuntivi derivanti dallo scioglimento del contratto.
+Qualora nei confronti dell'appaltatore sia intervenuta l'emanazione di un provvedimento definitivo che dispone l'applicazione di una o piu' misure di prevenzione di cui all'[articolo 3, della legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), ovvero sia intervenuta sentenza di condanna passata in giudicato per frodi nei riguardi della stazione appaltante, di subappaltatori, di fornitori, di lavoratori o di altri soggetti comunque interessati ai lavori, nonche' per violazione degli obblighi attinenti alla sicurezza sul lavoro, il responsabile del procedimento valuta, in relazione allo stato dei lavori e alle eventuali conseguenze nei riguardi delle finalita' dell'intervento, l'opportunita' di procedere alla risoluzione del contratto. Nel caso di risoluzione, l'appaltatore ha diritto soltanto al pagamento dei lavori regolarmente eseguiti, decurtato degli oneri aggiuntivi derivanti dallo scioglimento del contratto.
 
 Note all'[art. 118:
 
- La legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423#art_118) recante: "misure di prevenzione nei confronti delle persone pericolose per la sicurezza e per la pubblica moralita'" e' pubblicata nella Gazzetta Ufficiale 31 dicembre 1956, n. 327. Il testo dell'articolo 3 della citata legge e' il seguente:
+ La legge 27 dicembre 1956, n. 1423](Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md) recante: "misure di prevenzione nei confronti delle persone pericolose per la sicurezza e per la pubblica moralita'" e' pubblicata nella Gazzetta Ufficiale 31 dicembre 1956, n. 327. Il testo dell'articolo 3 della citata legge e' il seguente:
  "Art. 3. Alle persone indicate nell'art. 1 che non abbiano cambiato nonostante l'avviso orale di cui all'articolo 4, quando siano pericolose per la sicurezza pubblica, puo' essere applicata, nei modi stabiliti negli articoli seguenti, la misura di prevenzione della sorveglianza speciale della pubblica sicurezza. Alla sorveglianza speciale puo' essere aggiunto ove le circostanze del caso lo richiedano il divieto di soggiorno in uno o piu' comuni, diversi da quelli di residenza o di dimora abituale o in una o piu' Province. Nei casi in cui le altre misure di prevenzione non sono ritenute idonee alla tutela della sicurezza pubblica puo' essere imposto l'obbligo di soggiorno nel comune di residenza o di dimora abituale".
 
 ### Art. 119. — Risoluzione del contratto per grave inadempimento, grave irregolarita' e grave ritardo
@@ -3425,7 +3425,7 @@ In sede di liquidazione finale dei lavori dell'appalto risolto e' determinato l'
 
 Note all'art. 121:
 
- Per il testo dell'[articolo 10, comma 1 ter, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_10-com1ter) e successive modificazioni si veda in note all'articolo 99.
+ Per il testo dell'[articolo 10, comma 1 ter, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 99.
 
 ### Art. 122. — Recesso dal contratto e valutazione del decimo
 
@@ -3573,7 +3573,7 @@ Le funzioni del coordinatore per l'esecuzione dei lavori comprendono:
 
 Note all'art. 127:
 
- Per il testo dell'[articolo 31, comma 1 bis, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_31-com1bis) e successive modificazioni si veda in note all'articolo 110.
+ Per il testo dell'[articolo 31, comma 1 bis, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 110.
 
 ## Esecuzione dei lavori Sezione prima: Disposizioni preliminari
 
@@ -3779,7 +3779,7 @@ I componenti dell'ufficio della direzione lavori sono responsabili, nei limiti d
 
 Note all'art. 134:
 
- Il testo dell'[articolo 25 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_25) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 25 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.25 (Varianti in corso d'opera). 1. Le varianti in corso d'opera possono essere ammesse, sentiti il progettista ed il direttore dei lavori, esclusivamente qualora ricorra uno dei seguenti motivi:
  a) per esigenze derivanti da sopravvenute disposizioni legislative e regolamentari;
  b) per cause impreviste e imprevedibili accertate nei modi stabiliti dal regolamento di cui all'articolo 3, o per l'intervenuta possibilita' di utilizzare materiali, componenti e tecnologie non esistenti al momento della progettazione che possono determinare, senza aumento di costo, significativi miglioramenti nella qualita' dell'opera o di sue parti e sempre che non alterino l'impostazione progettuale;
@@ -3829,7 +3829,7 @@ Se l'appaltatore non accetta i nuovi prezzi cosi determinati e approvati, la sta
 
 Note all'art. 136:
 
- Il testo dell'[articolo 26, comma 4, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_26-com4) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 26, comma 4, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.26 (Disciplina economica dell'esecuzione dei lavori pubblici). 4. Per i lavori di cui al comma 3 si applica il prezzo chiuso, consistente nel prezzo dei lavori al netto del ribasso d'asta, aumentato di una percentuale da applicarsi, nel caso in cui la differenza tra il tasso di inflazione reale e il tasso di inflazione programmato nell'anno precedente sia superiore al 2 per cento, all'importo dei lavori ancora da eseguire per ogni anno intero previsto per l'ultimazione dei lavori stessi. Tale percentuale e' fissata, con decreto del Ministro dei lavori pubblici da emanare entro il 30 giugno di ogni anno, nella misura eccedente la predetta percentuale del 2 per cento.
  In sede di prima applicazione della presente legge, il decreto e' emanato entro quindici giorni dalla data di entrata in vigore della legge stessa".
 
@@ -3909,7 +3909,7 @@ In ogni altro caso di mancata approvazione del progetto esecutivo, la stazione a
 
 Note all'art. 140:
 
- Per il testo dell'[articolo 25, comma 1, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_25-com1-leta), [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_25-com1-letb) e [c) della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_25-com1-letc) e successive modificazioni si veda in note all'articolo 134.
+ Per il testo dell'[articolo 25, comma 1, lettere a)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), [b)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e [c) della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 134.
 
 ## Subappalto
 
@@ -4092,7 +4092,7 @@ La procedura di accordo bonario ha luogo tutte le volte che le riserve iscritte 
 
 Note all'art. 149
 
- il testo dell'[articolo 31 bis, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_31bis) e successive modificazioni e' il seguente:
+ il testo dell'[articolo 31 bis, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.31 bis (Norme acceleratorie in materia di contenzioso). 1. Per i lavori pubblici affidati dai soggetti di cui all'articolo 2, comma 2, lettere a) e b), in materia di appalti e di concessioni, qualora, a seguito dell'iscrizione di riserve sui documenti contabili, l'importo economico dell'opera possa variare in misura sostanziale e in ogni caso non inferiore al 10 per cento dell'importo contrattuale, il responsabile del procedimento acquisisce immediatamente la relazione riservata del direttore dei lavori e, ove costituito, dell'organo di collaudo e, sentito l'affidatario, formula all'amministrazione, entro novanta giorni dalla apposizione dell'ultima delle riserve di cui sopra, proposta motivata di accordo bonario. L'amministrazione, entro sessanta giorni dalla proposta di cui sopra, delibera in merito con provvedimento motivato. Il verbale di accordo bonario e' sottoscritto dall'affidatario.
  2. I ricorsi relativi ad esclusione da procedure di affidamenti di lavori pubblici, per la quale sia stata pronunciata ordinanza di sospensione ai sensi dell'articolo 21, ultimo comma, della legge 6 dicembre 197 1, n. 1034, devono essere discussi nel merito entro novanta giorni dalla data dell'ordinanza di sospensione.
  3. Nei giudizi amministrativi aventi ad oggetto controversie in materia di lavori pubblici in relazione ai quali sia stata presentata domanda di provvedimento d'urgenza, i controinteressati e l'amministrazione resistente possono chiedere che la questione venga decisa nel merito. A tal fine il presidente fissa l'udienza per la discussione della causa che deve avere luogo entro novanta giorni dal deposito dell'istanza. Qualora l'istanza sia proposta all'udienza gia' fissata per la discussione del provvedimento d'urgenza, il presidente del collegio fissa per la decisione nel merito una nuova udienza che deve aver luogo entro sessanta giorni e autorizza le parti al deposito di memorie e documenti fino a quindici giorni prima dell'udienza stessa.
@@ -4127,7 +4127,7 @@ Il corrispettivo a saldo per la decisione della controversia e' versato alla Cam
 
 Note all'art. 150:
 
- Il testo dell'[articolo 32, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_32) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 32, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art.32 (Definizione delle controversie). 1. Tutte le controversie derivanti dall'esecuzione del contratto, comprese quelle conseguenti al mancato raggiungimento dell'accordo bonario previsto dal comma 1 dell'articolo 31-bis, possono essere deferite ad arbitri.
  2. Qualora sussista la competenza arbitrale, il giudizio e' demandato ad un collegio arbitrale costituito presso la camera arbitrale per i lavori pubblici, istituita presso l'Autorita' di cui all'articolo 4 della presente legge. Con decreto del Ministro dei lavori pubblici, di concerto con il Ministro di grazia e giustizia, da emanare entro tre mesi dalla data di entrata in vigore del regolamento, sono fissate le norme di procedura del giudizio arbitrale nel rispetto dei principi del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), e sono fissate le tariffe per la determinazione del corrispettivo dovuto dalle parti per la decisione della controversia.
  3. Il regolamento definisce altresi', ai sensi e con gli effetti di cui all'articolo 3 della presente legge, la composizione e le modalita' di funzionamento della camera arbitrale per i lavori pubblici; disciplina i criteri cui la camera arbitrale dovra' attenersi nel fissare i requisiti soggettivi e di professionalita' per assumere l'incarico di arbitro, nonche' la durata dell'incarico stesso, secondo principi di trasparenza, imparzialita' e correttezza.
@@ -4196,7 +4196,7 @@ La Camera Arbitrale cura annualmente la rilevazione dei dati emergenti dal conte
 
 Note all'art. 151:
 
- Il testo dell'[articolo 4, comma 10 quinquies della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_4-com10quinquies) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 4, comma 10 quinquies della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 4 (Autorita' per la vigilanza sui lavori pubblici).
  10-quinquies. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio, ivi compreso il trasferimento delle risorse dal centro di responsabilita' "Ispettorato tecnico" dello stato di previsione del Ministero dei lavori pubblici all'apposito centro di responsabilita' dello stato di previsione della Presidenza del Consiglio dei ministri".
 
@@ -4242,7 +4242,7 @@ Per disporre, durante l'esecuzione dei lavori, delle somme di cui alle lettere a
 
 Note all'art. 152:
 
- Il testo dell'[articolo 26, comma 4 della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_26-com4) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 26, comma 4 della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 26 (Disciplina economica dell'esecuzione dei lavori pubblici). 4. Per i lavori di cui al comma 3 si applica il prezzo chiuso, consistente nel prezzo dei lavori al netto del ribasso d'asta, aumentato di una percentuale da applicarsi, nel caso in cui la differenza tra il tasso di inflazione reale e il tasso di inflazione programmato nell'anno precedente sia superiore al 2 per cento, all'importo dei lavori ancora da eseguire per ogni anno intero previsto per l'ultimazione dei lavori stessi. Tale percentuale e' fissata, con decreto del Ministro dei lavori pubblici da emanare entro il 30 giugno di ogni anno, nella misura eccedente la predetta percentuale del 2 per cento.
  In sede di prima applicazione della presente legge, il decreto e' emanato entro quindici giorni dalla data di entrata in vigore della legge stessa".
 
@@ -4745,9 +4745,9 @@ E' obbligatorio il collaudo in corso d'opera:
 
 Note all'art. 187:
 
- Per il testo dell'[articolo 27, comma 2, lettere b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_27-com2-letb) e [c) della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_27-com2-letc) e successive modificazioni si veda in note all'articolo 224.
+ Per il testo dell'[articolo 27, comma 2, lettere b)](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e [c) della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 224.
 
- Per il testo dell'articolo 19, comma 1, lettera b), punto 1), della [legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109) e successive modificazioni si veda in note all'articolo 88.
+ Per il testo dell'articolo 19, comma 1, lettera b), punto 1), della [legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 88.
 
 ### Art. 188. — Nomina del collaudatore
 
@@ -4817,9 +4817,9 @@ In sede di prima applicazione del presente regolamento, gli elenchi dei collauda
 
 Note all'art. 188:
 
- Per il testo dell'[articolo 16, comma 6, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_16-com6) e successive modificazioni si veda in note all'articolo 46.
+ Per il testo dell'[articolo 16, comma 6, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 46.
 
- Per il testo dell'[articolo 30, comma 6, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_30-com6) e successive modificazioni si veda in note all'articolo 48.
+ Per il testo dell'[articolo 30, comma 6, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 48.
 
 ### Art. 189. — Avviso ai creditori
 
@@ -5179,7 +5179,7 @@ Ai fini dell'articolo 28, comma 6, della Legge, sono lavori di grande rilevanza 
 
 Note all'art. 207:
 
- Il testo dell'[articolo 28, comma 6, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_28-com6) e successive modificazioni' e' il seguente:
+ Il testo dell'[articolo 28, comma 6, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni' e' il seguente:
  "Art. 28 (Collaudi e vigilanza). 6. Il regolamento prescrive per quali lavori di particolare complessita' tecnica o di grande rilevanza economica il collaudo e' effettuato sulla base di apposite certificazioni di qualita' dell'opera e dei materiali".
 
 ### Art. 208. — Certificato di regolare esecuzione
@@ -5230,11 +5230,11 @@ Gli oneri necessari per la liquidazione delle parcelle dei collaudatori fanno ca
 
 Note all'art. 210:
 
- Il testo dell'[articolo 18, comma 1, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_18-com1) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 18, comma 1, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 18 (Incentivi e spese per la progettazione). 1. Una somma non superiore all'1,5 per cento dell'importo posto a base di gara di un'opera o di un lavoro, a valere direttamente sugli stanziamenti di cui all'articolo 16, comma 7, e' ripartita, per ogni singola opera o lavoro, con le modalita' ed i criteri previsti in sede di contrattazione decentrata ed assunti in un regolamento adottato dall'amministrazione, tra il responsabile unico del procedimento e gli incaricati della redazione del progetto e gli incaricati della redazione del progetto, del piano della sicurezza, della direzione dei lavori, del collaudo nonche' tra i loro collaboratori. La percentuale effettiva, nel limite massimo dell'1,5 per cento, e' stabilita dal regolamento in rapporto all'entita' e alla complessita' dell'opera da realizzare. La ripartizione tiene conto delle responsabilita' professionali connesse alle specifiche prestazioni da svolgere. Le quote parti della predetta somma corrispondenti a prestazioni che non sono svolte dai predetti dipendenti, in quanto affidate a personale esterno all'organico dell'amministrazione medesima, costituiscono economie. I commi quarto e quinto dell'articolo 62 del regolamento approvato con [regio decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537), sono abrogati. I soggetti di cui all'articolo 2, comma 2, lettera b), possono adottare con proprio provvedimento analoghi criteri".
 
- Il testo dell'[articolo 17, comma 14 quater, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_17-com14quater) e successive modificazioni e il seguente:
- "Art. 17 (Effettuazione delle attivita' di progettazione, direzione dei lavori e accessorie). 14-quater. I corrispettivi determinati dal decreto di cui al comma 14-bis nonche' ai sensi del comma 14-ter del presente articolo, fatto salvo quanto previsto dal [comma 12-bis dell'articolo 4 del decreto-legge 2 marzo 1989, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;65#art_4-com12bis), convertito, con modificazioni, dalla [legge 26 aprile 1989, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-26;155), sono minimi inderogabili ai sensi dell'ultimo comma dell'articolo unico della [legge 4 marzo 1958, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-04;143), introdotto dall'articolo unico della [legge 5 maggio 1976, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-05;340). Ogni patto contrario e' nullo".
+ Il testo dell'[articolo 17, comma 14 quater, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e il seguente:
+ "Art. 17 (Effettuazione delle attivita' di progettazione, direzione dei lavori e accessorie). 14-quater. I corrispettivi determinati dal decreto di cui al comma 14-bis nonche' ai sensi del comma 14-ter del presente articolo, fatto salvo quanto previsto dal [comma 12-bis dell'articolo 4 del decreto-legge 2 marzo 1989, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;65#art_4-com12bis), convertito, con modificazioni, dalla [legge 26 aprile 1989, n. 155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2065%20recante%20disposizioni%20in%20materia%20di%20finanza%20pubblica.md), sono minimi inderogabili ai sensi dell'ultimo comma dell'articolo unico della [legge 4 marzo 1958, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-04;143), introdotto dall'articolo unico della [legge 5 maggio 1976, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-05;340). Ogni patto contrario e' nullo".
 
 ## DEI LAVORI RIGUARDANTI I BENI CULTURALI CAPO I Beni culturali
 
@@ -5294,7 +5294,7 @@ I progetti sono costituiti da elaborati grafici e descrittivi indicati nel Capo 
 
 Note all'art. 213:
 
- Il testo dell'[articolo 16, comma 2, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_16-com2) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 16, comma 2, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 16 (Attivita' di progettazione). 2. Le prescrizioni relative agli elaborati descrittivi e grafici contenute nei commi 3, 4 e 5 sono di norma necessarie per ritenere i progetti adeguatamente sviluppati. Il responsabile del procedimento nella fase di progettazione qualora, in rapporto alla specifica tipologia ed alla dimensione dei lavori da progettare, ritenga le prescrizioni di cui ai commi 3, 4 e 5 insufficienti o eccessive, provvede a integrarle ovvero a modificarle".
 
 ### Art. 214. — Progetto preliminare
@@ -5465,7 +5465,7 @@ Sono eseguibili in economia, oltre alle tipologie dei lavori di cui all'articolo
 
 Note all'art. 223:
 
- Il testo dell'[articolo 23, comma 1 bis, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_23-com1bis) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 23, comma 1 bis, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 23 (Licitazione privata e licitazione privata semplificata). 1-bis. Per i lavori di importo inferiore a 750.000 ECU, IVA esclusa, i soggetti di cui all'articolo 2, comma 2, lettere a) e b), hanno la facolta' di invitare a presentare offerta almeno trenta concorrenti scelti a rotazione fra quelli di cui al comma 1 ter del presente articolo se sussistono in tale numero soggetti che siano qualificati in rapporto ai lavori oggetto dell'appalto".
 
 ### Art. 224. — Direzione dei lavori e collaudo 
@@ -5481,15 +5481,15 @@ Per il collaudo finale dei beni di cui al comma 1 nell'ipotesi di affidamento es
 
 Note all'art. 224:
 
- Il testo dell'[articolo 27, comma 2, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_27-com2) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 27, comma 2, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 27 (Direzione dei lavori). 2. Qualora le amministrazioni aggiudicatrici non possano espletare, nei casi di cui al comma 4 dell'articolo 17 l'attivita' di direzione dei lavori, essa e' affidata nell'ordine ai seguenti soggetti:
- a) altre amministrazioni pubbliche, previa apposita intesa o convenzione di cui all'[articolo 24 della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142#art_24);
+ a) altre amministrazioni pubbliche, previa apposita intesa o convenzione di cui all'[articolo 24 della legge 8 giugno 1990, n. 142](Ordinamento%20delle%20autonomie%20locali.md);
  b) il progettista incaricato ai sensi dell'articolo 17, comma 4;
  c) altri soggetti scelti con le procedure previste dalla normativa nazionale di recepimento delle disposizioni comunitarie in materia".
 
- - Per il testo dell'[articolo 8, comma 11 sexies, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_8-com11sexies) e successive modificazioni si veda in note all'articolo 82.
+ - Per il testo dell'[articolo 8, comma 11 sexies, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 82.
 
- Il testo dell'[articolo 28, comma 4, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_28-com4) e successive modificazioni e' il seguente:
+ Il testo dell'[articolo 28, comma 4, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni e' il seguente:
  "Art. 28 (Collaudi e vigilanza). 4. Per le operazioni di collaudo, le amministrazioni aggiudicatrici nominano da uno a tre tecnici di elevata e specifica qualificazione con riferimento al tipo di lavori, alla loro complessita' e all'importo degli stessi. I tecnici sono nominati dalle predette amministrazioni nell'ambito delle proprie strutture, salvo che nell'ipotesi di carenza di organico accertata e certificata dal responsabile del procedimento".
 
 ## DISPOSIZIONI PARTICOLARI PER L'AFFIDAMENTO E LA ESECUZIONE DI LAVORI ESEGUITI NELL'AMBITO DI ATTUAZIONE DELLA LEGGE 26 FEBBRAIO 1987, n. 49.
@@ -5560,7 +5560,7 @@ Note all'[art. 227:
  2) che l'appaltatore provveda al deposito del contratto di subappalto presso la stazione appaltante almeno venti giorni prima della data di effettivo inizio dell'esecuzione delle relative lavorazioni;
  3) che al momento del deposito del contratto di subappalto presso la stazione appaltante l'appaltatore trasmetta altresi' la certificazione attestante il possesso da parte del subappaltatore dei requisiti di cui al numero 4) del presente comma;
  4) che l'affidatario del subappalto o del cottimo sia iscritto, se italiano o straniero non appartenente ad uno Stato membro della Comunita' europea, all'Albo nazionale dei costruttori per categorie e classifiche di importi corrispondenti ai lavori da realizzare in subappalto o in cottimo, ovvero sia in possesso dei corrispondenti requisiti previsti dalla vigente normativa in materia di qualificazione delle imprese, salvo i casi in cui, secondo la legislazione vigente, e' sufficiente per eseguire i lavori pubblici l'iscrizione alla camera di commercio, industria, artigianato e agricoltura;
- 5) che non sussista, nei confronti dell'affidatario del subappalto o del cottimo, alcuno dei divieti previsti dall'[articolo 10 della legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575#art_10), e successive modificazioni.
+ 5) che non sussista, nei confronti dell'affidatario del subappalto o del cottimo, alcuno dei divieti previsti dall'[articolo 10 della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), e successive modificazioni.
  3-bis. Nel bando di gara l'amministrazione o ente appaltante deve indicare che provvedera' a corrispondere direttamente al subappaltatore o al cottimista l'importo dei lavori dagli stessi eseguiti o, in alternativa, che e' fatto obbligo ai soggetti aggiudicatari di trasmettere, entro venti giorni dalla data di ciascun pagamento effettuato nei loro confronti, copia delle fatture quietanzate relative ai pagamenti da essi aggiudicatari via via corrisposti al subappaltatore o cottimista, con l'indicazione delle ritenute di garanzia effettuate. Nel caso di pagamento diretto i soggetti aggiudicatari comunicano all'amministrazione o ente appaltante la parte dei lavori eseguiti dal subappaltatore o dal cottimista, con la specificazione del relativo importo e con proposta motivazione di pagamento.
  3-ter. (abrogato)
  4. L'impresa aggiudicataria deve praticare, per i lavori e le opere affidate in subappalto, gli stessi prezzi unitari risultanti dall'aggiudicazione, con ribasso non superiore al venti per cento.
@@ -5618,7 +5618,7 @@ Note all'[art. 230:
 
  La legge 26 febbraio 1987, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49#art_230) (Nuova disciplina della cooperazione dell'Italia con i Paesi in via di sviluppo) e' pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 28 febbraio 1987, n.49.
 
- Per il testo dell'[articolo 26, comma 4, della legge 11 febbraio 1994, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109#art_26-com4) e successive modificazioni si veda in note all'articolo 152.
+ Per il testo dell'[articolo 26, comma 4, della legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md) e successive modificazioni si veda in note all'articolo 152.
 
 ## DELEGIFICAZIONE E DISPOSIZIONI TRANSITORIE
 
@@ -5632,39 +5632,39 @@ Ai sensi dell'articolo 3, comma 4, della Legge, a far data dall'entrata in vigor
                             a)
                                 gli [articoli 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_319), [320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_320), [321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_321), [322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_322), [323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_323), [324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_324), [325](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_325), [327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_327), [328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_328), [330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_330), [331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_331), [332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_332), [333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_333), [334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_334), [335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_335), [336](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_336), [339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_339), [346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_346), [347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_347), [349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_349), [350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_350), [356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_356), [357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_357), [358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_358), [359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_359), [360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_360), [361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_361), [362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_362), [363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_363), [364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_364), [365 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_365), all. F.
                             b)
-                                il [R.D.25 maggio 1895, n.350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-05-25;350) e successive modifiche;
+                                il [R.D.25 maggio 1895, n.350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md) e successive modifiche;
                             c)
                                 il DM. 29 maggio 1895 Regolamento per la compilazione dei progetti di opere dello Stato che sono nelle attribuzioni del Ministero dei lavori pubblici e successive modificazioni;
                             d)
                                 il [d.l. 6 febbraio 1919, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-02-06;107) e successive modifiche;
                             e)
-                                il [r.d. 8 febbraio 1923, n.422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;422) e successive modifiche;
+                                il [r.d. 8 febbraio 1923, n.422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md) e successive modifiche;
                             f)
                                 il [r.d. 28 agosto 1924, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396) e successive modifiche;
                             g)
-                                la [legge 24 giugno 1929, n. 1137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-24;1137) e successive modifiche;
+                                la [legge 24 giugno 1929, n. 1137](Disposizioni%20sulle%20concessioni%20di%20opere%20pubbliche.%20029U1137.md) e successive modifiche;
                             h)
-                                la [legge 23 febbraio 1952, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-23;133) e successive modificazioni;
+                                la [legge 23 febbraio 1952, n. 133](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2025%20luglio%201947%20n.%201095%20concernente%20modificazioni%20al%20regio%20decreto%208%20febbraio%201923%20n.%20422%20recante%20norme%20per%20la%20esecuzione%20di%20opere%20pubbliche.md) e successive modificazioni;
                             i)
                                 il [D.P.R. 16 luglio 1962, n. 1063](Approvazione%20del%20capitolato%20generale%20dappalto%20per%20le%20opere%20di%20competenza%20del%20Ministero%20dei%20lavori%20pubblici.md) e successive modifiche;
                             l)
                                 il [D.P.R. 6 novembre 1962, n. 1930](Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20progetti%20di%20opere%20pubbliche%20di%20pertinenza%20dellAmministrazione%20dei%20lavori%20pubblici.md) e successive modificazioni;
                             m)
-                                la [legge 21 giugno 1964, n.463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-06-21;463) e successive modifiche;
+                                la [legge 21 giugno 1964, n.463](Disposizioni%20in%20materia%20di%20appalti%20di%20opere%20pubbliche.md) e successive modifiche;
                             n)
-                                la [legge 10 agosto 1964, n.664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-08-10;664) e successive modifiche;
+                                la [legge 10 agosto 1964, n.664](Norme%20integrative%20della%20legge%2021%20giugno%201964%20n.%20463%20recante%20disposizioni%20in%20materia%20di%20appalti%20di%20opere%20pubbliche.md) e successive modifiche;
                             o)
-                                la [legge 17 febbraio 1968, n.93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-17;93) e successive modifiche;
+                                la [legge 17 febbraio 1968, n.93](Disposizioni%20in%20materia%20di%20appalti%20di%20opere%20pubbliche_2.md) e successive modifiche;
                             p)
-                                la [legge 3 luglio 1970, n.504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-07-03;504) e successive modifiche;
+                                la [legge 3 luglio 1970, n.504](Norme%20per%20gli%20appalti%20di%20opere%20pubbliche%20mediante%20esperimento%20di%20gara%20con%20offerte%20in%20aumento.md) e successive modifiche;
                             q)
-                                gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-02-02;14#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-02-02;14#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-02-02;14#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-02-02;14#art_4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-02-02;14#art_5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-02-02;14#art_6), [7 della legge 2 febbraio 1973 n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-02-02;14#art_7) e successive modifiche;
+                                gli [articoli 1](Norme%20sui%20procedimenti%20di%20gara%20negli%20appalti%20di%20opere%20pubbliche%20mediante%20licitazione%20privata.md), [2](Norme%20sui%20procedimenti%20di%20gara%20negli%20appalti%20di%20opere%20pubbliche%20mediante%20licitazione%20privata.md), [3](Norme%20sui%20procedimenti%20di%20gara%20negli%20appalti%20di%20opere%20pubbliche%20mediante%20licitazione%20privata.md), [4](Norme%20sui%20procedimenti%20di%20gara%20negli%20appalti%20di%20opere%20pubbliche%20mediante%20licitazione%20privata.md), [5](Norme%20sui%20procedimenti%20di%20gara%20negli%20appalti%20di%20opere%20pubbliche%20mediante%20licitazione%20privata.md), [6](Norme%20sui%20procedimenti%20di%20gara%20negli%20appalti%20di%20opere%20pubbliche%20mediante%20licitazione%20privata.md), [7 della legge 2 febbraio 1973 n. 14](Norme%20sui%20procedimenti%20di%20gara%20negli%20appalti%20di%20opere%20pubbliche%20mediante%20licitazione%20privata.md) e successive modifiche;
                             r)
                                 gli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_11), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_14), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_15), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_16), [17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_17), [18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_18), [21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_21), [22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_22), [27 della legge 3 gennaio 1978 n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1#art_27) e successive modificazioni;
                             s)
                                 gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, (seguiva l'indicazione di un articolo non ammesso al " Visto" della Corte dei conti) 13, 14, 15, 16, della [legge 10 dicembre 1981, n.741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-12-10;741);
                             t)
-                                la [legge 8 ottobre 1984, n.687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-08;687) e successive modificazioni;
+                                la [legge 8 ottobre 1984, n.687](Modifiche%20delle%20leggi%2010%20dicembre%201981%20n.%20741%208%20agosto%201977%20n.%20584%202%20febbraio%201973%20n.%2014%20e%20di%20norme%20in%20materia%20di%20cauzione%20provvisoria%20e%20di%20pubblicita.md) e successive modificazioni;
                             u)
                                 all'[articolo 18, comma 3, della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_18-com3) le parole "o le categorie prevalenti";
                             v)

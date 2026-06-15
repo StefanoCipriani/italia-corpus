@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 8 del R. decreto 29 giugno 1924, n. 1086](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1086#art_8), riguardante il riordinamento dei servizi del Fondo per il culto;
+Visto l'[art. 8 del R. decreto 29 giugno 1924, n. 1086](Riordinamento%20dei%20servizi%20dipendenti%20dalla%20soppressa%20Direzione%20generale%20del%20Fondo%20per%20il%20culto.%20024U1086.md), riguardante il riordinamento dei servizi del Fondo per il culto;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,15 +22,15 @@ Sulla proposta del Guardasigilli Ministro Segretario di Stato per la giustizia e
 
 ## Art. 1.
 
-All'ultimo comma dell'[art. 8 del R. decreto 29 giugno 1924, n. 1086](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1086#art_8), e' sostituito il seguente: 
+All'ultimo comma dell'[art. 8 del R. decreto 29 giugno 1924, n. 1086](Riordinamento%20dei%20servizi%20dipendenti%20dalla%20soppressa%20Direzione%20generale%20del%20Fondo%20per%20il%20culto.%20024U1086.md), e' sostituito il seguente: 
  
- «All'uopo con decreto del Ministro per la giustizia e gli affari di culto, di concerto col Ministro per le finanze, sara' assunto in servizio temporaneo adeguato ed idoneo personale straordinario. Il numero del medesimo non potra' essere superiore a quello di trenta; ne' la misura della retribuzione da assegnarsi a ciascuno potra' superare quella stabilita dall'[articolo 117 del R. decreto 30 dicembre 1923, n. 3084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3084#art_117)». 
+ «All'uopo con decreto del Ministro per la giustizia e gli affari di culto, di concerto col Ministro per le finanze, sara' assunto in servizio temporaneo adeguato ed idoneo personale straordinario. Il numero del medesimo non potra' essere superiore a quello di trenta; ne' la misura della retribuzione da assegnarsi a ciascuno potra' superare quella stabilita dall'[articolo 117 del R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md)». 
  
  Il personale assunto, in conformita' con la disposizione di cui al comma precedente, non potra' essere trattenuto in servizio oltre il 31 dicembre 1925.
 
 ## Art. 2.
 
-Per la concessione di premi di operosita' e di rendimento al personale dell'Amministrazione del fondo per il culto, che partecipa alla esecuzione dei lavori indicati nell'[art. 8 del R. decreto 29 giugno 1924, n. 1086](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1086#art_8), con prestazione d'opera oltre il normale orario di ufficio, non si applica il disposto del [2° comma dell'art. 2 del R. decreto 17 febbraio 1924, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-17;182#art_2-com2). 
+Per la concessione di premi di operosita' e di rendimento al personale dell'Amministrazione del fondo per il culto, che partecipa alla esecuzione dei lavori indicati nell'[art. 8 del R. decreto 29 giugno 1924, n. 1086](Riordinamento%20dei%20servizi%20dipendenti%20dalla%20soppressa%20Direzione%20generale%20del%20Fondo%20per%20il%20culto.%20024U1086.md), con prestazione d'opera oltre il normale orario di ufficio, non si applica il disposto del [2° comma dell'art. 2 del R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md). 
  
  La spesa complessiva per i premi di operosita' e di rendimento di cui al comma precedente non potra' superare le L. 35,000.
 

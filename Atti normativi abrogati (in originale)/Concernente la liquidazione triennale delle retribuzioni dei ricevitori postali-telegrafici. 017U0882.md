@@ -18,7 +18,7 @@ Nella liquidazione triennale delle retribuzioni dei ricevitori postali-telegrafi
 
 Ove ai ricevitori risulti spettare, in base ai coefficienti della tabella di cui all'articolo precedente, un aumento di retribuzione sproporzionato all'incremento normale degli uffici e dovuto quindi a maggior lavoro derivante dallo stato di guerra, cioe' a cause transitorie, l'aumento stesso non potra' eccedere il 30 % della retribuzione attuale. 
  
- Per la stessa ragione, e sempre limitatamente al triennio 1917-920, nessuna riduzione potra' essere apportata alla retribuzione di cui godono attualmente i titolari delle ricevitorie, rispettando sempre gli attuali minimi di retribuzione fissati dall'art. 18 del regolamento speciale gia' citato e gli aumenti stabiliti dalla [legge 16 luglio 1914, n. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-16;687). 
+ Per la stessa ragione, e sempre limitatamente al triennio 1917-920, nessuna riduzione potra' essere apportata alla retribuzione di cui godono attualmente i titolari delle ricevitorie, rispettando sempre gli attuali minimi di retribuzione fissati dall'art. 18 del regolamento speciale gia' citato e gli aumenti stabiliti dalla [legge 16 luglio 1914, n. 687](Concernente%20laumento%20di%20retribuzione%20ai%20ricevitori%20postali%20e%20telegrafici%20di%203ª%20classe%20ai%20collettori%20ed%20ai%20portalettere%20rurali.%20014U0687.md). 
  
  Sono abrogate le disposizioni contrarie a quelle del presente decreto. 
  

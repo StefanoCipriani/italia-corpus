@@ -157,7 +157,7 @@ In questo caso il relativo decreto sara' emesso dal Ministro per l'economia nazi
  
  Art. 15. 
  
- In relazione al disposto degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-06;1830#art_2) e [16 del R. decreto-legge 6 novembre 1926, n. 1830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-06;1830#art_16), il fido che puo' concedersi da una singola Cassa di risparmio o da un singolo Monte di pieta' di 1ª categoria ad uno stesso obbligato non dovra' superare il quinto del patrimonio e delle riserve dell'ente di cui trattasi. 
+ In relazione al disposto degli [articoli 2](Norme%20regolamentari%20per%20la%20tutela%20del%20risparmio.%20026U1830.md) e [16 del R. decreto-legge 6 novembre 1926, n. 1830](Norme%20regolamentari%20per%20la%20tutela%20del%20risparmio.%20026U1830.md), il fido che puo' concedersi da una singola Cassa di risparmio o da un singolo Monte di pieta' di 1ª categoria ad uno stesso obbligato non dovra' superare il quinto del patrimonio e delle riserve dell'ente di cui trattasi. 
  
  I fidi che alla data dell'entrata in vigore del presente decreto eccedano il limite suindicato saranno denunziati dall'istituto interessato all'Istituto di emissione e saranno regolati entro il termine di tre anni. 
  
@@ -173,7 +173,7 @@ In questo caso il relativo decreto sara' emesso dal Ministro per l'economia nazi
  
  Quando la massa di rispetto abbia raggiunto e si mantenga eguale almeno al decimo dell'ammontare dei depositi ricevuti per qualsiasi titolo, le Casse di risparmio e i Monti di pieta' di 1ª categoria potranno destinare anche una parte maggiore dei propri utili netti annuali ad opere di beneficenza, o di pubblica utilita'. 
  
- Rimane fermo in ogni caso per i Monti di pieta' di 1ª categoria, anche se fusi con Casse di risparmio, il disposto dell'[art. 7, n. 3, della legge 10 dicembre 1925, n. 2277](Protezione%20e%20assistenza%20della%20maternita%20e%20dellinfanzia.%20025U2277.md), sull'Opera nazionale per la protezione della maternita' e dell'infanzia, ai sensi dell'art. 1 del presente decreto. L'[articolo 17 della legge 15 luglio 1888, n. 5546](Concernente%20il%20riordinamento%20delle%20Casse%20di%20risparmio.%20088U5546.md) (serie 3ª), e le disposizioni contenute nell'[articolo 3 del R. decreto 14 giugno 1923, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1396#art_3), circa la destinazione degli utili dei Monti di pieta' di lª categoria, sono abrogate. 
+ Rimane fermo in ogni caso per i Monti di pieta' di 1ª categoria, anche se fusi con Casse di risparmio, il disposto dell'[art. 7, n. 3, della legge 10 dicembre 1925, n. 2277](Protezione%20e%20assistenza%20della%20maternita%20e%20dellinfanzia.%20025U2277.md), sull'Opera nazionale per la protezione della maternita' e dell'infanzia, ai sensi dell'art. 1 del presente decreto. L'[articolo 17 della legge 15 luglio 1888, n. 5546](Concernente%20il%20riordinamento%20delle%20Casse%20di%20risparmio.%20088U5546.md) (serie 3ª), e le disposizioni contenute nell'[articolo 3 del R. decreto 14 giugno 1923, n. 1396](Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), circa la destinazione degli utili dei Monti di pieta' di lª categoria, sono abrogate. 
  
  Art. 17. 
  

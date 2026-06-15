@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 13 ottobre 1969, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-13;740), concernente delega al Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.) per la durata della terza tappa;
+Vista la [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md), concernente delega al Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.) per la durata della terza tappa;
 
 Visto il regolamento del consiglio delle Comunita' europee n. 1174/68 emanato il 30 luglio 1968 concernente la istituzione di un sistema di tariffe a forcella applicabili ai trasporti di merci su strada fra gli Stati membri;
 
 Visto il regolamento n. 358/69 emanato il 26 febbraio 1969 dalla commissione delle Comunita' europee, in applicazione del citato [regolamento n. 1174/68 in data 30 luglio 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1968-07-30;1174);
 
-Sentita la Commissione parlamentare di cui all'[articolo 3 della legge 13 ottobre 1969, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-13;740#art_3);
+Sentita la Commissione parlamentare di cui all'[articolo 3 della legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -90,7 +90,7 @@ In caso di ripetute infrazioni alle norme del presente decreto il Ministro per i
 
 ### Art. 12.
 
-I vettori, i mittenti ed i destinatari delle merci, gli spedizionieri e gli altri intermediari di trasporti, i quali non forniscono, nel termine che verra' ad essi prescritto, al Ministero dei trasporti e dell'aviazione civile - Direzione generale della motorizzazione civile e dei trasporti in concessione, od ai funzionari da questo dipendenti, tutte le informazioni o notizie ritenute necessarie ai fini dell'applicazione del [regolamento n. 1174/68](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1968;1174), ovvero forniscono informazioni e notizie false, sono soggetti alla sanzione amministrativa del pagamento di una somma da L. 100.000 a L. 300.000, salvo che il fatto non sia previsto come reato dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) o da altre leggi.
+I vettori, i mittenti ed i destinatari delle merci, gli spedizionieri e gli altri intermediari di trasporti, i quali non forniscono, nel termine che verra' ad essi prescritto, al Ministero dei trasporti e dell'aviazione civile - Direzione generale della motorizzazione civile e dei trasporti in concessione, od ai funzionari da questo dipendenti, tutte le informazioni o notizie ritenute necessarie ai fini dell'applicazione del [regolamento n. 1174/68](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1968;1174), ovvero forniscono informazioni e notizie false, sono soggetti alla sanzione amministrativa del pagamento di una somma da L. 100.000 a L. 300.000, salvo che il fatto non sia previsto come reato dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da altre leggi.
 
 ### Art. 13.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 28 settembre 1929, n. 1769](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-09-28;1769), che concede la franchigia doganale per un contingente straordinario di 30 mila quintali di melazzo di canna destinati alla fabbricazione di foraggi melazzati. 
+ E' convertito in legge il [R. decreto-legge 28 settembre 1929, n. 1769](Esenzione%20doganale%20per%20un%20contingente%20straordinario%20di%20melazzo%20di%20canna%20destinato%20alla%20produzione%20di%20foraggi%20melazzati.%20029U1769.md), che concede la franchigia doganale per un contingente straordinario di 30 mila quintali di melazzo di canna destinati alla fabbricazione di foraggi melazzati. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

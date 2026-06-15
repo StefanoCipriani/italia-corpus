@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 1961](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;1961), che da esecuzione al Protocollo firmato in Roma, fra i delegati italiani ed i delegati svizzeri, il 24 settembre 1927, concernente alcune questioni relative all'interpretazione ed all'applicazione del Trattato di commercio italo-svizzero del 27 gennaio 1923, nonche' allo scambio di note, effettuato in Roma il 10 ottobre 1927, circa le parti staccate di macchine. 
+ E' convertito in legge il [R. decreto-legge 23 ottobre 1927, n. 1961](Esecuzione%20del%20Protocollo%2024%20settembre%201927%20concernente%20alcune%20questioni%20relative%20allinterpretazione%20ed%20allapplicazione%20del%20Trattato%20di%20commercio%20italo-svizzero%20del%2027%20gennaio%201923.%20027U1961.md), che da esecuzione al Protocollo firmato in Roma, fra i delegati italiani ed i delegati svizzeri, il 24 settembre 1927, concernente alcune questioni relative all'interpretazione ed all'applicazione del Trattato di commercio italo-svizzero del 27 gennaio 1923, nonche' allo scambio di note, effettuato in Roma il 10 ottobre 1927, circa le parti staccate di macchine. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, Mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

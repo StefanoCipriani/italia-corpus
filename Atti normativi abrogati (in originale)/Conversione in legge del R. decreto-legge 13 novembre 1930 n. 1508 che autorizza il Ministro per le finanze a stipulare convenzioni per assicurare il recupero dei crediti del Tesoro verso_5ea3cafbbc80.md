@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 novembre 1930, n. 1508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-13;1508), con il quale il Ministro per le finanze e' autorizzato a stipulare convenzioni per assicurare il recupero dei crediti del Tesoro verso la Societa' «S.A.P.R.I.». 
+ E' convertito in legge il [R. decreto-legge 13 novembre 1930, n. 1508](Autorizzazione%20al%20Ministro%20per%20le%20finanze%20a%20stipulare%20convenzioni%20per%20assicurare%20il%20recupero%20dei%20crediti%20del%20Tesoro%20verso%20la%20Societa%20S.A.P.R.I..%20030U1508.md), con il quale il Ministro per le finanze e' autorizzato a stipulare convenzioni per assicurare il recupero dei crediti del Tesoro verso la Societa' «S.A.P.R.I.». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

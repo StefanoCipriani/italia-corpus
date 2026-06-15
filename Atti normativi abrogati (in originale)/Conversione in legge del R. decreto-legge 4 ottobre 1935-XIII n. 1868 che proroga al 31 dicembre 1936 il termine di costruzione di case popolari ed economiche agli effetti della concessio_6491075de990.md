@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo Unico. 
  
- E' convertito in legge il [R. decreto-legge 4 ottobre 1935, n. 1868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1868), che proroga al 31 dicembre 1936 il termine di costruzione di case popolari ed economiche agli effetti della concessione del contributo. 
+ E' convertito in legge il [R. decreto-legge 4 ottobre 1935, n. 1868](Proroga%20del%20termine%20di%20costruzione%20di%20case%20popolari%20ed%20economiche%20agli%20effetti%20della%20concessione%20del%20contributo.%20035U1868.md), che proroga al 31 dicembre 1936 il termine di costruzione di case popolari ed economiche agli effetti della concessione del contributo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno  
  D'Italia, mandando a chiunque spetti di osservarla e farla osservare come legge dello Stato. 

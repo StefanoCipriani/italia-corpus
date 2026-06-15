@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la [legge 17 luglio 1919, n. 1176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1919-07-17;1176), recante disposizioni stilla capacita giuridica della donna ed il relativo regolamento approvato con [R. decreto 4 gennaio 1920, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-04;39);
+Vista la [legge 17 luglio 1919, n. 1176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1919-07-17;1176), recante disposizioni stilla capacita giuridica della donna ed il relativo regolamento approvato con [R. decreto 4 gennaio 1920, n. 39](Che%20approva%20il%20regolamento%20in%20esecuzione%20dellart.%207%20della%20legge%2017%20luglio%201919%20n.%201176%20sulla%20capacita%20giuridica%20della%20donna.%20020U0039.md);
 
 Visto il R. decreto-legge 28 novembre 1933 XII, n. 1554, Concernente le assunzioni delle donne nelle Amministrazioni dello Stato;
 

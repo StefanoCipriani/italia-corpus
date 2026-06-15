@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 13 novembre 1930, n. 1591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-13;1591), concernente la proroga dei poteri conferiti al Ministro per l'educazione nazionale per il funzionamento della Facolta' fascista di scienze politiche presso la Regia universita' di Perugia. 
+ E' convertito in legge il [R. decreto-legge 13 novembre 1930, n. 1591](Proroga%20dei%20poteri%20conferiti%20al%20Ministro%20per%20leducazione%20nazionale%20per%20il%20funzionamento%20della%20Facolta%20fascista%20di%20scienze%20politiche%20presso%20la%20Regia%20universita%20di%20Perugia.%20030U1591.md), concernente la proroga dei poteri conferiti al Ministro per l'educazione nazionale per il funzionamento della Facolta' fascista di scienze politiche presso la Regia universita' di Perugia. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 11 maggio 1931 - Anno IX 
  

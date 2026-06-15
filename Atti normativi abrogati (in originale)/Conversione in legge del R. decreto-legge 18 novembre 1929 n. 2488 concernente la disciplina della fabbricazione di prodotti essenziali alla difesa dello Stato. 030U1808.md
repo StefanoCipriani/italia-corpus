@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 18 novembre 1929, n. 2488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-11-18;2488), concernente la disciplina della fabbricazione di prodotti essenziali alla difesa dello Stato. 
+ E' convertito in legge il [R. decreto-legge 18 novembre 1929, n. 2488](Disciplina%20della%20fabbricazione%20di%20prodotti%20essenziali%20alla%20difesa%20dello%20Stato.%20029U2488.md), concernente la disciplina della fabbricazione di prodotti essenziali alla difesa dello Stato. 
  
  Ordiniamo che la presente, Munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

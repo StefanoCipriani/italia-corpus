@@ -16,7 +16,7 @@ Il possessore di un assegno bancario emesso non in conformita' al Codice di comm
 
 ## Art. 2.
 
-Il diritto sulle quietanze rilasciate dalle Amministrazioni dei giornali, riviste e stampe periodiche di qualunque genere per pubblicita' ed abbonamenti stabilito con gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-14;86#art_1) e [2 del R. decreto-legge 14 gennaio 1926, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-14;86#art_2), a favore della Cassa di previdenza dei giornalisti italiani e' conglobato giusta il successivo art. 3 con le tasse di bollo dovute in base agli articoli 59 e 87 della tariffa allegato A. alla legge sulle tasse di bollo 30 dicembre 1923, n. 3268.
+Il diritto sulle quietanze rilasciate dalle Amministrazioni dei giornali, riviste e stampe periodiche di qualunque genere per pubblicita' ed abbonamenti stabilito con gli [articoli 1](Riscossione%20a%20favore%20delle%20Casse%20di%20previdenza%20dei%20giornalisti%20di%20un%20diritto%20sulle%20inserzioni%20e%20sugli%20abbonamenti%20dei%20giornali%20riviste%20e%20stampe%20periodiche.%20026U0086.md) e [2 del R. decreto-legge 14 gennaio 1926, n. 86](Riscossione%20a%20favore%20delle%20Casse%20di%20previdenza%20dei%20giornalisti%20di%20un%20diritto%20sulle%20inserzioni%20e%20sugli%20abbonamenti%20dei%20giornali%20riviste%20e%20stampe%20periodiche.%20026U0086.md), a favore della Cassa di previdenza dei giornalisti italiani e' conglobato giusta il successivo art. 3 con le tasse di bollo dovute in base agli articoli 59 e 87 della tariffa allegato A. alla legge sulle tasse di bollo 30 dicembre 1923, n. 3268.
 
 ## Art. 3.
 
@@ -24,7 +24,7 @@ Per effetto di tale riunione la tassa di bollo sulle inserzioni di pubblicita' d
 
 ## Art. 4.
 
-In sostituzione del diritto gia' spettante alla Cassa di previdenza dei giornalisti italiani, a termini degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-14;86#art_1) e [2 del R. decreto-legge 14 gennaio 1926, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-14;86#art_2), lo Stato corrispondera' all'Istituto nazionale di previdenza dei giornalisti italiani la somma annua di lire un milione, detratte le spese di riscossione in ragione del 5 per cento. 
+In sostituzione del diritto gia' spettante alla Cassa di previdenza dei giornalisti italiani, a termini degli [articoli 1](Riscossione%20a%20favore%20delle%20Casse%20di%20previdenza%20dei%20giornalisti%20di%20un%20diritto%20sulle%20inserzioni%20e%20sugli%20abbonamenti%20dei%20giornali%20riviste%20e%20stampe%20periodiche.%20026U0086.md) e [2 del R. decreto-legge 14 gennaio 1926, n. 86](Riscossione%20a%20favore%20delle%20Casse%20di%20previdenza%20dei%20giornalisti%20di%20un%20diritto%20sulle%20inserzioni%20e%20sugli%20abbonamenti%20dei%20giornali%20riviste%20e%20stampe%20periodiche.%20026U0086.md), lo Stato corrispondera' all'Istituto nazionale di previdenza dei giornalisti italiani la somma annua di lire un milione, detratte le spese di riscossione in ragione del 5 per cento. 
  
  Questa somma sara' soggetta a revisione per ogni biennio.
 

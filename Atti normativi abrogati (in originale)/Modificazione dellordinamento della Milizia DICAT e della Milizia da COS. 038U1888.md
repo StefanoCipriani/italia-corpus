@@ -16,11 +16,11 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 14 gennaio 1923, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-14;31), concernente la istituzione della Milizia volontaria per la sicurezza nazionale, convertito in [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto 14 gennaio 1923, n. 31](Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), concernente la istituzione della Milizia volontaria per la sicurezza nazionale, convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto il [R. decreto-legge 4 agosto 1924, n. 1292](Approvazione%20del%20nuovo%20ordinamento%20della%20Milizia%20Volontaria%20per%20la%20Sicurezza%20Nazionale.%20024U1292.md), che approva il nuovo ordinamento della Milizia volontaria per la sicurezza nazionale, convertito in [legge 18 marzo 1926, numero 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il [R. decreto 21 giugno 1928, n. 1815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-21;1815), relativo alla concessione di materiali del Regio esercito alla Milizia volontaria per la sicurezza nazionale;
+Visto il [R. decreto 21 giugno 1928, n. 1815](Cessione%20gratuita%20di%20materiali%20del%20Regio%20esercito%20alla%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20028U1815.md), relativo alla concessione di materiali del Regio esercito alla Milizia volontaria per la sicurezza nazionale;
 
 Visto il [R. decreto-legge 24 gennaio 1935, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-24;181), concernente variazioni all'ordinamento della Milizia per la difesa controaerei (M. DICAT) e istituzione della Milizia per la difesa costiera (M. da COS), convertito in [legge 20 maggio 1935, n. 962](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20gennaio%201935%20n.%20181%20concernente%20variazioni%20allordinamento%20della%20Milizia%20per%20la%20difesa%20contraerei%20M.%20DICAT%20e%20listituzione%20della%20Milizia%20per%20la%20_1f90addefc3a.md);
 

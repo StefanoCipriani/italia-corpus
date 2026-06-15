@@ -26,7 +26,7 @@ E' concessa amnistia:
  
  2° per i reati che importino pena restrittiva della liberta' personale non superiore nel massimo a trenta mesi o pena pecuniaria, sola o a quella congiunta, di competenza delle autorita' giudiziarie ordinarie dei territori sopra indicati; 
  
- 3° per i reati colposi di competenza delle autorita' giudiziarie dei territori stessi e preveduti nel [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) austriaco, tranne il paragrafo 337, e nelle altre leggi ivi in vigore; 
+ 3° per i reati colposi di competenza delle autorita' giudiziarie dei territori stessi e preveduti nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco, tranne il paragrafo 337, e nelle altre leggi ivi in vigore; 
  
  4° per qualsiasi reato preveduto esclusivamente nei bandi emanati dall'autorita' militare.
 

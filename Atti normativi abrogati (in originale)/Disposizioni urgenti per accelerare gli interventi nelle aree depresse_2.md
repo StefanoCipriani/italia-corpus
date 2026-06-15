@@ -58,7 +58,7 @@ Le disposizioni del presente articolo si applicano anche agli interventi relativ
 
 1.
 
-All'[articolo 5, comma 2, del decreto-legge 12 maggio 1995, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-05-12;163#art_5-com2), convertito, con modificazioni, dalla [legge 11 luglio 1995, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-11;273), e' aggiunto, in fine, il seguente periodo: "Nel caso in cui la mancata attuazione degli interventi dipenda da grave inadeguatezza strutturale, organizzativa e funzionale della pubblica amministrazione e l'urgenza sia tale da non consentire di procedere diversamente, il commissario ad acta puo' provvedere mediante apposita convenzione con altri soggetti, tecnicamente idonei".
+All'[articolo 5, comma 2, del decreto-legge 12 maggio 1995, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-05-12;163#art_5-com2), convertito, con modificazioni, dalla [legge 11 luglio 1995, n. 273](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20maggio%201995%20n.%20163%20recante%20misure%20urgenti%20per%20la%20semplificazione%20dei%20procedimenti%20amministrativi%20e%20per%20il%20miglioramento%20delleff_5ae7f6a3e032.md), e' aggiunto, in fine, il seguente periodo: "Nel caso in cui la mancata attuazione degli interventi dipenda da grave inadeguatezza strutturale, organizzativa e funzionale della pubblica amministrazione e l'urgenza sia tale da non consentire di procedere diversamente, il commissario ad acta puo' provvedere mediante apposita convenzione con altri soggetti, tecnicamente idonei".
 
 ## Art. 3.
 
